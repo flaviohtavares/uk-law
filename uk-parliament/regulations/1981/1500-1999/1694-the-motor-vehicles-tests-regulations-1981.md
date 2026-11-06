@@ -47,55 +47,55 @@ The Secretary of State for Transport (in these Regulations referred to as “**t
 
 ## PART I — GENERAL
 
-### 1. Commencement and citation[^key-11af7393cd5201b97e7d5da194518845]
+### 1. Commencement and citation[^c-11af7393cd5201b97e7d5da194518845]
 
 These Regulations shall come into operation on 31st December 1981 and may be cited as the Motor Vehicles (Tests) Regulations 1981.
 
-### 2. Revocation[^key-1c9efb42ae09b23088f7315e69cbc321]
+### 2. Revocation[^c-1c9efb42ae09b23088f7315e69cbc321]
 
 The Regulations specified in Schedule 4 are hereby revoked.
 
-### 3. Interpretation[^key-11edf53cd1af335a84bcf55f86d244a0]
+### 3. Interpretation[^c-11edf53cd1af335a84bcf55f86d244a0]
 
 (1) In these Regulations, except where the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them—
 
 - “**the 1972 Act**” means the Road Traffic Act 1972;
 - “**the 1981 Act**” means the Public Passenger Vehicles Act 1981;
-- “the 1988 Act” means the Road Traffic Act 1988;[^key-abab7b0074117b8318d9626889ce9a3a]
-- “the Construction and Use Regulations” means the Road Vehicles (Construction and Use) Regulations 1986[^key-736b122ee2cbebad11955795337ab484];
-- the Lighting Regulations” means “the Road Vehicles Lighting Regulations 1989[^key-ff5eb78365f6b1455ddfc46ecafd977b];
-- “agricultural motor vehicle”[^key-e716fff86ebd02a04df806a6b54b5b33], “**articulated bus**”, “**articulated vehicle**”, “**dual-purpose vehicle**”, **“exhaust system”[^key-0f8d2a4e8e05e79c043ea1b74775b71d]**, **"minibus"[^key-1e92ace0c5149916c415ae9688f96b64]**, **“Ministry plate”[^key-37aefd09edf58a932e35220b1021b0cd]**, “**pedestrian controlled vehicle**”, “**track laying**” and “**works truck**” have the meanings given by regulation 3(2)[^key-e9b41eadf0bd9fbd0729b9ebc851bdda] of the Construction and Use Regulations;
-- “American pickup” means a motor vehicle with a manufacturer’s declaration (on a plate on the vehicle) that it meets the motor vehicle safety standards applicable under the law in the United States of America or Canada and—[^key-e83aef42178f4635ba16ac5b3366aabc]
+- “the 1988 Act” means the Road Traffic Act 1988;[^c-abab7b0074117b8318d9626889ce9a3a]
+- “the Construction and Use Regulations” means the Road Vehicles (Construction and Use) Regulations 1986[^c-736b122ee2cbebad11955795337ab484];
+- the Lighting Regulations” means “the Road Vehicles Lighting Regulations 1989[^c-ff5eb78365f6b1455ddfc46ecafd977b];
+- “agricultural motor vehicle”[^c-e716fff86ebd02a04df806a6b54b5b33], “**articulated bus**”, “**articulated vehicle**”, “**dual-purpose vehicle**”, **“exhaust system”[^c-0f8d2a4e8e05e79c043ea1b74775b71d]**, **"minibus"[^c-1e92ace0c5149916c415ae9688f96b64]**, **“Ministry plate”[^c-37aefd09edf58a932e35220b1021b0cd]**, “**pedestrian controlled vehicle**”, “**track laying**” and “**works truck**” have the meanings given by regulation 3(2)[^c-e9b41eadf0bd9fbd0729b9ebc851bdda] of the Construction and Use Regulations;
+- “American pickup” means a motor vehicle with a manufacturer’s declaration (on a plate on the vehicle) that it meets the motor vehicle safety standards applicable under the law in the United States of America or Canada and—[^c-e83aef42178f4635ba16ac5b3366aabc]
   - (a) is capable of carrying a driver and at least one passenger;
   - (b) is capable of carrying goods in an open load bed separate from the driver/passenger compartment, with or without a removable cover; and
   - (c) has a gross design weight over 3,000kg but does not exceed 6,500kg;
 - “**authorisation**” means any authorisation in writing by the Secretary of State of an individual, persons in partnership, or a company to carry out examinations of such classes of motor vehicles as may be specified therein;
-- “child restraint”, “disabled person’s belt”, “forward-facing seat” and “seat belt” have the meanings given by regulation 47(8) of the Construction and Use Regulations;[^key-244cd2f95f530ac69e78bee226154db2]
-- “communication” includes a communication comprising sounds or images or both and a communication effecting a payment;[^key-bf8cad315b2df46962cb367ea161ca40]
-- [^key-fe157cf8e871f52be97fbafff0de014d]...
+- “child restraint”, “disabled person’s belt”, “forward-facing seat” and “seat belt” have the meanings given by regulation 47(8) of the Construction and Use Regulations;[^c-244cd2f95f530ac69e78bee226154db2]
+- “communication” includes a communication comprising sounds or images or both and a communication effecting a payment;[^c-bf8cad315b2df46962cb367ea161ca40]
+- [^c-fe157cf8e871f52be97fbafff0de014d]...
 - “**company**” means a body corporate;
-- “design gross weight” means—[^key-6ed0394f23df4e8d6b1ac4bddccedfe4]
+- “design gross weight” means—[^c-6ed0394f23df4e8d6b1ac4bddccedfe4]
   - (a) in the case of a vehicle equipped with a Ministry plate, the weight shown thereon as the design weight, or, if no weight is so shown thereon, the weight shown thereon as the weight not to be exceeded in Great Britain;
   - (b) in the case of a vehicle which is not equipped with a Ministry plate, but which is equipped with a plate in accordance with regulation 66 of the Construction and Use Regulations, the maximum gross weight shown on the plate in respect of item 7 of Part I of Schedule 8 to those Regulations; and
   - (c) in any other case, the weight which the vehicle is designed or adapted not to exceed when in normal use and travelling on a road laden;
-- “designated council” means a council designated by the Secretary of State for the purposes of sections 45 (tests of satisfactory condition of vehicles) and 46 (particular aspects of regulations under section 45) of the 1988 Act;[^key-5448a64c41236c6300b9eda2cebf6307]
-- “DVSA” means the Driver and Vehicle Standards Agency”[^key-0c4db0a83e97778352407a83ea53de22]
+- “designated council” means a council designated by the Secretary of State for the purposes of sections 45 (tests of satisfactory condition of vehicles) and 46 (particular aspects of regulations under section 45) of the 1988 Act;[^c-5448a64c41236c6300b9eda2cebf6307]
+- “DVSA” means the Driver and Vehicle Standards Agency”[^c-0c4db0a83e97778352407a83ea53de22]
 - “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
   - (a) by means of a telecommunications system (within the meaning of the Telecommunications Act 1984); or
   - (b) by other means but while in an electronic form;
-- “[^key-c15d6dcf3be865c3ae4cb0588880c6cb]**EU Tachographs Regulation**” has the meaning given in section 85 of the Road Traffic Act 1988;
-- “examination” means an examination of a motor vehicle for the purposes of section 45 of the 1988 Act[^key-54db423b9fbb1f39aac8a0072686a186];
+- “[^c-c15d6dcf3be865c3ae4cb0588880c6cb]**EU Tachographs Regulation**” has the meaning given in section 85 of the Road Traffic Act 1988;
+- “examination” means an examination of a motor vehicle for the purposes of section 45 of the 1988 Act[^c-54db423b9fbb1f39aac8a0072686a186];
 - “**examiner**” means an individual, persons in partnership, or a company authorised by the Secretary of State in accordance with these Regulations to carry out examinations;
 - “**firm**” has the meaning given by section 4 of the Partnership Act 1890;
 - “**goods vehicle**” means a motor vehicle constructed or adapted for use for the carriage of goods or burden of any description, including a living van but excluding—
-  - (i) a dual-purpose vehicle,[^key-68f43c54b26c6b5d73b38e49d61fa0f3]
+  - (i) a dual-purpose vehicle,[^c-68f43c54b26c6b5d73b38e49d61fa0f3]
   - (ii) a motor caravan, and
   - (iii) a play bus,
-- “goods vehicle testing station” means a station provided by the Secretary of State under section 52(2) of the Road Traffic Act 1988;[^key-37853fa9ec7ae3a47a734176572ee8fa]
+- “goods vehicle testing station” means a station provided by the Secretary of State under section 52(2) of the Road Traffic Act 1988;[^c-37853fa9ec7ae3a47a734176572ee8fa]
 - “inspector” means a person appointed by a designated council for the purposes of sections 45 and 46 of the 1988 Act;
 - “**large passenger-carrying vehicle**” means a motor vehicle which is constructed or adapted to carry more than twelve seated passengers in addition to the driver, and which is not a public service vehicle;
 - “**light motor bicycle**” means a motor bicycle of which the cylinder capacity of the engine does not exceed 200 cubic centimetres;
-- “**light motor vehicle**” means a motor vehicle with three [^key-925db177255aed7c283f8a1a9d827f90]... wheels the unladen weight of which does not exceed 450 kilograms;
+- “**light motor vehicle**” means a motor vehicle with three [^c-925db177255aed7c283f8a1a9d827f90]... wheels the unladen weight of which does not exceed 450 kilograms;
 - “**living van**” means a vehicle, whether mechanically propelled or not, which is used as living accommodation by one or more persons, and which is also used for the carriage of goods or burden which are not needed by such one or more persons for the purpose of their residence in the vehicle;
 - “**Ministry Inspector**” means any certifying officer or public service vehicle examiner appointed under section 56(1) and any examiner appointed under section 7 of the 1981 Act;
 - “**motor bicycle**” means a two wheeled motor cycle, whether having a sidecar attached to it or not;
@@ -104,21 +104,21 @@ The Regulations specified in Schedule 4 are hereby revoked.
   - (a) in relation to an examiner, the times of the week which in the application of that examiner to the Secretary of State for an authorisation are specified as the times of the week during which that examiner will accept vehicles for examination or such other times of the week as may subsequently be substituted for times so specified by the examiner with the consent of the Secretary of State;
   - (b) in relation to a designated council, the times of the week notified to the Secretary of State by that council as the times of the week during which they will accept vehicles for examination; and
   - (c) in relation to the Secretary of State, the times of the week during which at any vehicle testing station of the Secretary of State he will accept vehicles for examination;
-- “out of hours” means at any time either–[^key-de41d8402f643ec5cc7bd7be813df984]
+- “out of hours” means at any time either–[^c-de41d8402f643ec5cc7bd7be813df984]
   - (a) on any day which is a Saturday, Sunday, Good Friday, Christmas Day or a Bank holiday (as defined in the Banking and Financial Dealings Act 1971); or
-  - (b) on any other day, other than between 6.00 am and 8.00 pm;[^key-9f9a094d7db6e4e75dfd00a0ab8dd68d]
-- “[^key-aa92732df73ce2f3a27871c0e53213b8]**play bus**” means a motor vehicle which was originally constructed to carry more than 12 passengers but which has been adapted primarily for the carriage of playthings for children (including articles required in connection with the use of those things);
+  - (b) on any other day, other than between 6.00 am and 8.00 pm;[^c-9f9a094d7db6e4e75dfd00a0ab8dd68d]
+- “[^c-aa92732df73ce2f3a27871c0e53213b8]**play bus**” means a motor vehicle which was originally constructed to carry more than 12 passengers but which has been adapted primarily for the carriage of playthings for children (including articles required in connection with the use of those things);
 - “proper officer”, in relation to a designated council in England or Wales, has the meaning given by section 270(3) of the Local Government Act 1972;
-- “proper officer”, in relation to a designated council in Scotland, has the meaning given by section 235(3) of the Local Government (Scotland) Act 1973;[^key-4f93e9293198a60c6dd4938afc7e8e1a]
+- “proper officer”, in relation to a designated council in Scotland, has the meaning given by section 235(3) of the Local Government (Scotland) Act 1973;[^c-4f93e9293198a60c6dd4938afc7e8e1a]
 - “**public service vehicle**” has the meaning given by section 1(1)(a) of the 1981 Act;
 - “**the prescribed statutory requirements**” has the meaning given by Regulation 4(2);
 - “section 66A examiner” means an examiner appointed under section 66A (appointment of vehicle examiners) of the 1988 Act;
 - “**serial number**”, in relation to a vehicle the chassis of which has not been constructed separately from its superstructure, means the number given to, and for the purpose of identifying, the vehicle by its manufacturer;
 - “the records” means the records of the results of examinations for the purposes of section 45 of the 1988 Act maintained by the Secretary of State (or caused by him to be maintained); and “the electronic record” means such of those records as is maintained in electronic form;
-- [^key-f008eda22a4bb6357293a5134e7189a0]...
-- “vehicle testing station” means premises at which the Secretary of State has authorised an examiner to carry out examinations, premises provided by a designated council or the Secretary of State for carrying out examinations, or premises for the time being designated by the Secretary of State under section 8(3) of the 1981 Act[^key-4ad488b158167737dff6d1b6cf45d835]; and
-- [^key-34fa13400180437ea6b62a8d92a2be99]...
-- “[^key-1bdfc19f74a833b0d6ea35392f2bb57a]**zero-emission vehicle**” means a vehicle without an internal combustion engine, or with an internal combustion engine that has emissions of CO<sub>2</sub> of zero grams per kilometre.
+- [^c-f008eda22a4bb6357293a5134e7189a0]...
+- “vehicle testing station” means premises at which the Secretary of State has authorised an examiner to carry out examinations, premises provided by a designated council or the Secretary of State for carrying out examinations, or premises for the time being designated by the Secretary of State under section 8(3) of the 1981 Act[^c-4ad488b158167737dff6d1b6cf45d835]; and
+- [^c-34fa13400180437ea6b62a8d92a2be99]...
+- “[^c-1bdfc19f74a833b0d6ea35392f2bb57a]**zero-emission vehicle**” means a vehicle without an internal combustion engine, or with an internal combustion engine that has emissions of CO<sub>2</sub> of zero grams per kilometre.
 
 (2) Unless the context otherwise requires, any reference in these Regulations to—
 
@@ -130,15 +130,15 @@ The Regulations specified in Schedule 4 are hereby revoked.
 
 (4) In calculating for the purposes of the definition of “large passenger carrying vehicle” the number of seated passengers which the vehicle is constructed or adapted to carry a length of at least 400 millimetres measured horizontally along the front of each seat shall be allowed for the accommodation of each such passenger. Where a continuous seat is fitted with arms for the purpose of separating the seating spaces and the arms are so constructed that they can be folded back or otherwise put out of use, the seat shall be measured for the purposes of this paragraph as though it were not fitted with arms.
 
-(5) For the purposes of these Regulations the provisions of Regulation 3(3)[^key-5eb7ee8081f930045c6a6a43bc1cecb0] of the Construction and Use Regulations shall apply for determining when a motor vehicle is first used.
+(5) For the purposes of these Regulations the provisions of Regulation 3(3)[^c-5eb7ee8081f930045c6a6a43bc1cecb0] of the Construction and Use Regulations shall apply for determining when a motor vehicle is first used.
 
-(6)[^key-d61d6238e8cd230f27d9932a6b7ad70c] References in these Regulations to the making, by electronic communication, of entries in the electronic record include references to causing entries to be made in that record (either by electronic communication or by other means notified by the Secretary of State).
+(6)[^c-d61d6238e8cd230f27d9932a6b7ad70c] References in these Regulations to the making, by electronic communication, of entries in the electronic record include references to causing entries to be made in that record (either by electronic communication or by other means notified by the Secretary of State).
 
-### 4. The prescribed statutory requirements[^key-b814ae5111f54d831e6ed1ddd110140b]
+### 4. The prescribed statutory requirements[^c-b814ae5111f54d831e6ed1ddd110140b]
 
-(1)[^key-93a2dc75603c773deecb36f9ced5786d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-93a2dc75603c773deecb36f9ced5786d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-5c609479132a6316b7031cce1d8c03f6] The prescribed statutory requirements for the purposes of section 45(1) of the Road Traffic Act 1988 are in relation to any vehicle in a Class specified in an item in column 2 of the Table the requirements specified in that item in column 3 of the Table, and in these Regulations those requirements are referred to as “the prescribed statutory requirements”.
+(2)[^c-5c609479132a6316b7031cce1d8c03f6] The prescribed statutory requirements for the purposes of section 45(1) of the Road Traffic Act 1988 are in relation to any vehicle in a Class specified in an item in column 2 of the Table the requirements specified in that item in column 3 of the Table, and in these Regulations those requirements are referred to as “the prescribed statutory requirements”.
 
 **TABLE**
 
@@ -147,20 +147,20 @@ The Regulations specified in Schedule 4 are hereby revoked.
 | 1 | I and II | Paragraph 1 of Schedule 2 |
 | 2 | III | Paragraph 2 of Schedule 2 |
 | 3 | IV | Paragraph 3 of Schedule 2 |
-| 3A[^key-7c0f68b23b7de8642035a09a9a8501e9] | IVA | Paragraph 3A of Schedule 2 |
+| 3A[^c-7c0f68b23b7de8642035a09a9a8501e9] | IVA | Paragraph 3A of Schedule 2 |
 | 4 | V | Paragraph 4 of Schedule 2 |
-| 4A[^key-df4606c9520d528cd2e244fb4c154b55] | VA | Paragraph 4A of Schedule 2 |
+| 4A[^c-df4606c9520d528cd2e244fb4c154b55] | VA | Paragraph 4A of Schedule 2 |
 | 5 | VI | Paragraph 5 of Schedule 2 |
-| 5A[^key-8169d7b60bdb956d6dac7f368e37dbde] | VIA | Paragraph 5A of Schedule 2 |
+| 5A[^c-8169d7b60bdb956d6dac7f368e37dbde] | VIA | Paragraph 5A of Schedule 2 |
 | 6 | VII | Paragraph 6 of Schedule 2 |
 
 (3) Subject to the provisions of these Regulations, every vehicle to which these Regulations apply and which is submitted for examination in accordance with the provisions of these Regulations shall be examined for the purpose of ascertaining whether those of the prescribed statutory requirements which are applicable to the vehicle have been complied with at the date of the examination.
 
-(4)[^key-f2b54a697b8152a685ce20bbc33f3e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f2b54a697b8152a685ce20bbc33f3e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Classification of Vehicles and Application of Regulations[^key-57aaf4ce8024109e00914091c5faf2af]
+### 5. Classification of Vehicles and Application of Regulations[^c-57aaf4ce8024109e00914091c5faf2af]
 
-(1)[^key-bb2b54501bbaa466faf5bf3533b5a87a] For the purposes of these Regulations motor vehicles to which they apply are classified as follows—
+(1)[^c-bb2b54501bbaa466faf5bf3533b5a87a] For the purposes of these Regulations motor vehicles to which they apply are classified as follows—
 
 - (a) Class I: Light motor bicycles in EU categories L1e, L3e and L4e;
 - (b) Class II: Motor bicycles in EU categories L3e and L4e;
@@ -185,7 +185,7 @@ The Regulations specified in Schedule 4 are hereby revoked.
   in respect of which any forward-facing seat is fitted with a relevant seat belt;
 - (h) Class VI: Public service vehicles, other than those of a type specified in paragraph (3), in EU categories M2 and M3 not being vehicles within Class VIA;
 - (i) Class VIA: Public service vehicles, not being vehicles to which paragraph (4) applies, in EU categories M2 and M3 other than those of a type specified in paragraph (3), in respect of which any forward facing seat is fitted with a relevant seat belt;
-- (j)[^key-c71f540243028c868c9be97ecc502a53] Class VII: Goods vehicles—
+- (j)[^c-c71f540243028c868c9be97ecc502a53] Class VII: Goods vehicles—
   - (i) in EU category N1 of which the design gross weight exceeds 3,000 kilograms but does not exceed 3,500 kilograms; and
   - (ii) in EU category N2—
     - (aa) of which the design gross weight exceeds 3,500 kilograms but does not exceed 4,250 kilograms, and
@@ -197,14 +197,14 @@ and (except where otherwise provided in these Regulations) any reference in thes
 
 (2) Save as provided in Regulation 6, these Regulations apply to every vehicle of a class specified in paragraph (1).
 
-(3) The public service vehicles mentioned in paragraph (1) as included in Class V or VA[^key-09efd3c6962d7d3f1eb889e4f0de5f56] are public service vehicles which may lawfully be used on a road in the absence of a certificate of initial fitness by virtue of —[^key-0b8a988d7414a086f15956aa95b258cd]
+(3) The public service vehicles mentioned in paragraph (1) as included in Class V or VA[^c-09efd3c6962d7d3f1eb889e4f0de5f56] are public service vehicles which may lawfully be used on a road in the absence of a certificate of initial fitness by virtue of —[^c-0b8a988d7414a086f15956aa95b258cd]
 
-- (a) section 23(7) of the Transport Act 1985[^key-de01a2e7fbd39d09d21e39fd558fc2a1] (a bus being used to provide a community bus service), or
-- (b) section 46 of the 1981 Act (a school bus belonging to a local authority[^key-14cc4c4fae4e6ec8dd682226c6f6628c] and being used to provide free school transport and carrying as fare-paying passengers persons other than those for whom the free school transport is provided, and a school bus being used, when it is not being used to provide free school transport, to provide a local bus service).
+- (a) section 23(7) of the Transport Act 1985[^c-de01a2e7fbd39d09d21e39fd558fc2a1] (a bus being used to provide a community bus service), or
+- (b) section 46 of the 1981 Act (a school bus belonging to a local authority[^c-14cc4c4fae4e6ec8dd682226c6f6628c] and being used to provide free school transport and carrying as fare-paying passengers persons other than those for whom the free school transport is provided, and a school bus being used, when it is not being used to provide free school transport, to provide a local bus service).
 
-or (c) section 21(2) of the Transport Act 1985 (a small bus operating under a permit granted under section 19 of that Act).[^key-66adf3f26889066f76dd7f7719672589]
+or (c) section 21(2) of the Transport Act 1985 (a small bus operating under a permit granted under section 19 of that Act).[^c-66adf3f26889066f76dd7f7719672589]
 
-(4)[^key-fd30fbdbb36fc6a616ed99c9bc52983c] This paragraph applies to vehicles, in respect of which—
+(4)[^c-fd30fbdbb36fc6a616ed99c9bc52983c] This paragraph applies to vehicles, in respect of which—
 
 - (a) a certificate of initial fitness has been issued on or after 1st August 1998; or
 - (b) one or more forward-facing seats are fitted with a relevant seat belt, which, when so equipped, are of a type of vehicle in respect of which the Secretary of State is satisfied that the vehicle manufacturer holds—
@@ -228,22 +228,22 @@ or (c) section 21(2) of the Transport Act 1985 (a small bus operating under a pe
     - (i) has not undergone an examination and been found to comply with the prescribed statutory requirements referred to in item 28A in paragraph 3A of Schedule 2; or
     - (ii) has undergone an examination and been found so to comply but is fitted in a vehicle in respect of which no test certificate has been issued to the effect that that is the case.
 
-(6)[^key-ec0b78e7430b1dc49549f9e7b7d26d61] In this regulation references to vehicles in EU categories—
+(6)[^c-ec0b78e7430b1dc49549f9e7b7d26d61] In this regulation references to vehicles in EU categories—
 
 - (a) L1e to L7e are to those categories as described in Annex 1 to Regulation (EU) 168/2013 of the European Parliament and of the Council on the approval and market surveillance of two or three-wheel vehicles and quadricycles;
-- (b) M1 to M3, N1 and N2[^key-809ada7706153b01c83327b59077e619], are to those categories as described in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-d086af04da1514d3ef7d628be41a24bc].
+- (b) M1 to M3, N1 and N2[^c-809ada7706153b01c83327b59077e619], are to those categories as described in Article 4 of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-d086af04da1514d3ef7d628be41a24bc].
 
-### 6. Exemptions[^key-fb946fabded59ef11ef16746e886ee6e]
+### 6. Exemptions[^c-fb946fabded59ef11ef16746e886ee6e]
 
-(1)[^key-b6b4330413c9d94d3c1725688119b508] Pursuant to section 44(4) the Secretary of State hereby prescribes the following vehicles as those to which section 44 does not apply:—
+(1)[^c-b6b4330413c9d94d3c1725688119b508] Pursuant to section 44(4) the Secretary of State hereby prescribes the following vehicles as those to which section 44 does not apply:—
 
 - (i) a heavy locomotive,
 - (ii) a light locomotive,
 - (iii) a motor tractor,
 - (iv) a track laying vehicle,
-- (v)[^key-290db52ec2229b30e6e4861c0d06f93c] a goods vehicle, the design gross weight of which exceeds 3,500 kilograms, excluding a zero-emission vehicle the design gross weight of which exceeds 3,500 kilograms but does not exceed 4,250 kilograms[^key-c2a7b8453a87bae11ac1b58145ac29b5];
+- (v)[^c-290db52ec2229b30e6e4861c0d06f93c] a goods vehicle, the design gross weight of which exceeds 3,500 kilograms, excluding a zero-emission vehicle the design gross weight of which exceeds 3,500 kilograms but does not exceed 4,250 kilograms[^c-c2a7b8453a87bae11ac1b58145ac29b5];
 - (vi) an articulated vehicle not being an articulated bus,
-- (vii)[^key-6d0cf8c0cec78687561a13136bef5fe9] a vehicle to which paragraph (1A) for the time being applies.
+- (vii)[^c-6d0cf8c0cec78687561a13136bef5fe9] a vehicle to which paragraph (1A) for the time being applies.
 - (viii) a works truck,
 - (ix) a pedestrian controlled vehicle,
 - (x) a vehicle (including a cycle with an attachment for propelling it by mechanical power) which is adapted, and used or kept on a road, for invalids, and which—
@@ -252,38 +252,38 @@ or (c) section 21(2) of the Transport Act 1985 (a small bus operating under a pe
 - (xi) a vehicle temporarily in Great Britain displaying a registration mark mentioned in Regulation 5 of the Motor Vehicles (International Circulation) Regulations 1971, a period of twelve months not having elapsed since the vehicle was last brought into Great Britain;
 - (xii) a vehicle proceeding to a port for export;
 - (xiii) a vehicle in the service of a visiting force or of a headquarters (within the meaning given by Article 8(6) of the Visiting Forces and International Headquarters (Application of Law) Order 1965).
-- (xiv) a vehicle provided for police purposes and maintained in workshops approved by the Secretary of State as suitable for such maintenance, being a vehicle provided in England and Wales by a local policing body[^key-ba981543e338e2bfbfdcce9a6b687952] or the Receiver for the Metropolitan Police District, or, in Scotland, by a police authority or a joint police committee;
-- (xivA)[^key-f4564ae8a5523188e4999e025b1deb82] a vehicle provided for the purposes of the Serious Organised Crime Agency;
+- (xiv) a vehicle provided for police purposes and maintained in workshops approved by the Secretary of State as suitable for such maintenance, being a vehicle provided in England and Wales by a local policing body[^c-ba981543e338e2bfbfdcce9a6b687952] or the Receiver for the Metropolitan Police District, or, in Scotland, by a police authority or a joint police committee;
+- (xivA)[^c-f4564ae8a5523188e4999e025b1deb82] a vehicle provided for the purposes of the Serious Organised Crime Agency;
 - (xv) a vehicle which has been imported into Great Britain and to which section 44(2)(b) applies, being a vehicle owned by or in the service of the naval, military or air forces of Her Majesty raised in the United Kingdom and used for naval, military or air force purposes;
 - (xvi) a vehicle in respect of which a test certificate issued in accordance with Article 34 of the Road Traffic (Northern Ireland) Order 1981 is in force or which are licensed under the Vehicles (Excise) Act (Northern Ireland) 1972;
-- (xvii)[^key-da2d7e3e357a7c6cc6915e37cff874d4] an electrically propelled goods vehicle the design gross weight of which does not exceed 3500 kilograms first registered before 1st March 2015[^key-ef46fec5e968494a61258d0ea9f00cbd];[^key-a75314ad983d738d54a33a19d834ed01]...
+- (xvii)[^c-da2d7e3e357a7c6cc6915e37cff874d4] an electrically propelled goods vehicle the design gross weight of which does not exceed 3500 kilograms first registered before 1st March 2015[^c-ef46fec5e968494a61258d0ea9f00cbd];[^c-a75314ad983d738d54a33a19d834ed01]...
 - (xviii) subject to the provisions of paragraph (4), a hackney carriage or a cab in respect of which there is in force a licence under—
   - (a) section 6 of the Metropolitan Public Carriage Act 1869, or
   - (b) the Town Police Clauses Act 1847, the Burgh Police (Scotland) Act 1892 or any similar local statutory provision,
 
   to ply for hire;
-- (xix) subject to the provisions of paragraph (4), a private hire car in respect of which there is in force a licence granted by a local authority or Transport for London[^key-034876a3905a079e3a68a416490a3dcd], or, in Scotland, by a local authority or a police authority.
-- (xx)[^key-8b56ef9e6b2feb023fe9175c0fc33f89] an agricultural motor vehicle.
-- (xxi)[^key-57910dba496298117588d0af582fc952] a motor vehicle constructed and not merely adapted for the purpose of street cleansing or the collection or disposal of refuse or the collection or disposal of the contents of gullies and which is either—
+- (xix) subject to the provisions of paragraph (4), a private hire car in respect of which there is in force a licence granted by a local authority or Transport for London[^c-034876a3905a079e3a68a416490a3dcd], or, in Scotland, by a local authority or a police authority.
+- (xx)[^c-8b56ef9e6b2feb023fe9175c0fc33f89] an agricultural motor vehicle.
+- (xxi)[^c-57910dba496298117588d0af582fc952] a motor vehicle constructed and not merely adapted for the purpose of street cleansing or the collection or disposal of refuse or the collection or disposal of the contents of gullies and which is either—
 - (a) a three wheeled vehicle, or
-- (b)[^key-7e520bb16878d6e3acb5e058293827dc] a vehicle which has an inside track width of less than 810 millimetres;
-- (xxii)[^key-e351612f1f8703406b24fa0eb7fc4212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (xxiii)[^key-e351612f1f8703406b24fa0eb7fc4212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (xxiv)[^key-9359372ad5eceb25d4b822aa7d997e64] a tramcar; [^key-2a448dba4533873fd131e37e26ad3cb7]...
-- (xxv) a trolley vehicle which is not an auxiliary trolley vehicle[^key-0426035c63174d0421e46c8551ce89dc]... ; and[^key-39f0e20ee6494557df999da67762ecb7]
-- (xxvi)[^key-6c473c3c835f610950106baa988ffcf8] a public service vehicle having a date of manufacture before 1st January 1960 and which has not undergone substantial changes in the technical characteristics of its main components;
-- (xxvii)[^key-b2d8eaee679bf585d7f2e80e7b58e948] a vehicle which is incapable, by reason of its construction, of exceeding a speed of 15.5 miles per hour on the level under its own power;
-- (xxviii) a vehicle of historical interest other than a public service vehicle. ;[^key-6018da09f2494bd2b81b46ccab7634c1]
-- (xxix)[^key-8a5707a927c1894d1a66d83cd336f85a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7e520bb16878d6e3acb5e058293827dc] a vehicle which has an inside track width of less than 810 millimetres;
+- (xxii)[^c-e351612f1f8703406b24fa0eb7fc4212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xxiii)[^c-e351612f1f8703406b24fa0eb7fc4212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (xxiv)[^c-9359372ad5eceb25d4b822aa7d997e64] a tramcar; [^c-2a448dba4533873fd131e37e26ad3cb7]...
+- (xxv) a trolley vehicle which is not an auxiliary trolley vehicle[^c-0426035c63174d0421e46c8551ce89dc]... ; and[^c-39f0e20ee6494557df999da67762ecb7]
+- (xxvi)[^c-6c473c3c835f610950106baa988ffcf8] a public service vehicle having a date of manufacture before 1st January 1960 and which has not undergone substantial changes in the technical characteristics of its main components;
+- (xxvii)[^c-b2d8eaee679bf585d7f2e80e7b58e948] a vehicle which is incapable, by reason of its construction, of exceeding a speed of 15.5 miles per hour on the level under its own power;
+- (xxviii) a vehicle of historical interest other than a public service vehicle. ;[^c-6018da09f2494bd2b81b46ccab7634c1]
+- (xxix)[^c-8a5707a927c1894d1a66d83cd336f85a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(1A)[^key-d4056b949df9eded86b1f1d914bfec09] This paragraph applies to a vehicle at a time when it is being used on a public road during any calendar week if—
+(1A)[^c-d4056b949df9eded86b1f1d914bfec09] This paragraph applies to a vehicle at a time when it is being used on a public road during any calendar week if—
 
 - (a) it is being used only in passing from land in the occupation of the person keeping the vehicle to other land in his occupation, and
 - (b) it has not been used on public roads for distances exceeding an aggregate of six miles in that calendar week,
 
 and for the purposes of this paragraph “public road” has the meaning given in section 62(1) the Vehicle Excise and Registration Act 1994.
 
-(1B)[^key-23809a8cb4e822e93f3bfe6b0eb70503] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1B)[^c-23809a8cb4e822e93f3bfe6b0eb70503] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Pursuant to section 44(6) the Secretary of State hereby exempts from section 44(1) the use of a vehicle—
 
@@ -304,34 +304,34 @@ and for the purposes of this paragraph “public road” has the meaning given i
 
 (3) Pursuant to section 44(7) the Secretary of State hereby exempts from section 44(1) the use of a vehicle on any island in any area mainly surrounded by water, being an island or area from which motor vehicles, unless constructed for special purposes can at no time be conveniently driven to a road in any other part of Great Britain by reason of the absence of any bridge, tunnel, ford or other way suitable for the passage of such motor vehicle:
 
-Provided that—[^key-3e5af17cabaf63605d38a28e710225ed]
+Provided that—[^c-3e5af17cabaf63605d38a28e710225ed]
 
-- (a) in relation to a vehicle in any of Classes I to VIA[^key-4ffd7c7c20ac1f480138e390f037d860], this Regulation does not apply to any of the following islands, namely, the Isle of Wight, the islands of Arran, Bute, Great Cumbrae, Islay, Lewis, Mainland (Orkney), Mainland (Shetland), Mull, North Uist and Skye and[^key-bb48ef4c5907b9bd1c4c7f16300144c1]
-- (b) in relation to a vehicle in Class VII this Regulation does not apply in any of the following islands, namely, the Isle of Wight, the islands of Bute,[^key-bdf1acaab523328aee5155ecf36f5b9c] Lewis, Mainland (Orkney), Mainland (Shetland) and Skye.
+- (a) in relation to a vehicle in any of Classes I to VIA[^c-4ffd7c7c20ac1f480138e390f037d860], this Regulation does not apply to any of the following islands, namely, the Isle of Wight, the islands of Arran, Bute, Great Cumbrae, Islay, Lewis, Mainland (Orkney), Mainland (Shetland), Mull, North Uist and Skye and[^c-bb48ef4c5907b9bd1c4c7f16300144c1]
+- (b) in relation to a vehicle in Class VII this Regulation does not apply in any of the following islands, namely, the Isle of Wight, the islands of Bute,[^c-bdf1acaab523328aee5155ecf36f5b9c] Lewis, Mainland (Orkney), Mainland (Shetland) and Skye.
 
-(4) The exemptions specified in paragraph (1)(xviii) and (xix) do not obtain unless the authority which issued the licence (“the licensing authority”)[^key-ae7f2ff9106492ed2e6a4350cccef687] holds a certificate issued by the Secretary of State evidencing that he is satisfied that the issue of the licence is subject to the vehicle first passing an annual test relating to the prescribed statutory requirements; and, as from 1st January 1983,
+(4) The exemptions specified in paragraph (1)(xviii) and (xix) do not obtain unless the authority which issued the licence (“the licensing authority”)[^c-ae7f2ff9106492ed2e6a4350cccef687] holds a certificate issued by the Secretary of State evidencing that he is satisfied that the issue of the licence is subject to the vehicle first passing an annual test relating to the prescribed statutory requirements; and, as from 1st January 1983,
 
 - (a) in the case of a vehicle of a kind mentioned in paragraph (1)(xviii) first used more than one year before the licence there mentioned was issued, or
 - (b) in the case of a vehicle of a kind mentioned in paragraph (1)(xix) first used more than three years before the licence there mentioned was issued
 
-the licensing authority[^key-3ac36abb699c54c1af54ad8c6ffeb8cb] also issued to the licensee a certificate recording that on the date on which the certificate was issued that authority was, as a result of a test, satisfied that the prescribed statutory requirements were satisfied.
+the licensing authority[^c-3ac36abb699c54c1af54ad8c6ffeb8cb] also issued to the licensee a certificate recording that on the date on which the certificate was issued that authority was, as a result of a test, satisfied that the prescribed statutory requirements were satisfied.
 
 (5) In this Regulation—
 
-- “auxiliary trolley vehicle” means a trolley vehicle which is adapted to operate under power provided from a source on board when it is not operating from power transmitted to it from some external source;[^key-33c64c562ec3a8a14f6bc35631e72917]
+- “auxiliary trolley vehicle” means a trolley vehicle which is adapted to operate under power provided from a source on board when it is not operating from power transmitted to it from some external source;[^c-33c64c562ec3a8a14f6bc35631e72917]
 - “**private hire car**” means a motor vehicle which is not a vehicle licensed to ply for hire under the provisions of the Metropolitan Public Carriage Act 1869, Town Police Clauses Act 1847, the Burgh Police (Scotland) Act 1892 or any similar local statutory provision with respect to hackney carriages but which is kept for the purpose of being let out for hire with a driver for the carrying of passengers in such circumstances that it does not require to be licensed to ply for hire under the said provisions; and
 - “**test**” means an examination of a vehicle in relation to the prescribed statutory requirements conducted—
-  - (i) by a person appointed to act as an inspector under section 43, or a person authorised as an examiner or acting on his behalf, or[^key-9159cffde69704194c2c232793258c8b]
-  - (ii) by a person on behalf of a local policing body[^key-bb9240f73b74617022828c04bfc7e38a] in England or Wales, or
+  - (i) by a person appointed to act as an inspector under section 43, or a person authorised as an examiner or acting on his behalf, or[^c-9159cffde69704194c2c232793258c8b]
+  - (ii) by a person on behalf of a local policing body[^c-bb9240f73b74617022828c04bfc7e38a] in England or Wales, or
   - (iii) by a person on behalf of a police authority or a joint police committee in Scotland.
-- “vehicle of historical interest” means a vehicle which is considered to be of historical interest to Great Britain and which—[^key-bf5e07a576bbbf1d1426b9e1cdc3aa36]
+- “vehicle of historical interest” means a vehicle which is considered to be of historical interest to Great Britain and which—[^c-bf5e07a576bbbf1d1426b9e1cdc3aa36]
   - (a) was manufactured or registered for the first time at least 40 years previously,
   - (b) is of a type no longer in production, and
   - (c) has been historically preserved or maintained in its original state and has not undergone substantial changes in the technical characteristics of its main components,
 
-  where “type” in relation to a vehicle has the same meaning as “type of vehicle” in Article 3(32) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-7bf600da15a5e42bd6da21b1c76bd313].
+  where “type” in relation to a vehicle has the same meaning as “type of vehicle” in Article 3(32) of Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-7bf600da15a5e42bd6da21b1c76bd313].
 
-## PART II — APPLICATIONS FOR, AND CONDITIONS AND CESSATIONS OF, APPROVAL, AUTHORISATION AND DESIGNATION[^key-8d0a85cfe22178722ad6f414ee58b756]
+## PART II — APPLICATIONS FOR, AND CONDITIONS AND CESSATIONS OF, APPROVAL, AUTHORISATION AND DESIGNATION[^c-8d0a85cfe22178722ad6f414ee58b756]
 
 ### 7. Application for approval as nominated tester or inspector or authorisation as authorised examiner
 
@@ -351,7 +351,7 @@ shall be made on a form supplied or approved by the Secretary of State.
   - (i) by the authorised examiner by whom the applicant is nominated; or
   - (ii) where that authorised examiner is a partnership or company, by a person duly authorised in that behalf.
 
-(3) The application shall be sent to the Secretary of State at such office of DVSA[^key-d9ead4e561be46f4773b0ae7c5ba7864] as he may direct.
+(3) The application shall be sent to the Secretary of State at such office of DVSA[^c-d9ead4e561be46f4773b0ae7c5ba7864] as he may direct.
 
 (4) Where—
 
@@ -364,7 +364,7 @@ the applicant shall make such additional applications as the Secretary of State 
 
 (1) An application by a council for designation for the purposes of sections 45 and 46 of the 1988 Act shall be made on a form supplied or approved by the Secretary of State, and shall be signed by the proper officer.
 
-(2) The application shall be sent to the Secretary of State at the office of DVSA[^key-a14f9de8b46b5453f1ed36fdf9e4104f] for the area which includes that of the council by which the application is made.
+(2) The application shall be sent to the Secretary of State at the office of DVSA[^c-a14f9de8b46b5453f1ed36fdf9e4104f] for the area which includes that of the council by which the application is made.
 
 ### 8. Approvals, authorisations and designations
 
@@ -392,7 +392,7 @@ The conditions referred to in regulation 8(3) are that the person to whom the ap
 
 - (a) shall not carry out any examination—
   - (i) unless he has successfully completed a course of instruction in the carrying out of examinations provided under section 45(6A) of the 1988 Act;
-  - (ii) at a particular vehicle testing station, unless by electronic communication or notice to the Secretary of State, at the office of DVSA[^key-0e1794c3fb473e313b04534a2432c9be] for the area in which that testing station is situated, he has informed the Secretary of State of his intention to carry out examinations at that testing station;
+  - (ii) at a particular vehicle testing station, unless by electronic communication or notice to the Secretary of State, at the office of DVSA[^c-0e1794c3fb473e313b04534a2432c9be] for the area in which that testing station is situated, he has informed the Secretary of State of his intention to carry out examinations at that testing station;
 - (b) where the approval is expressed to be limited to examinations—
   - (i) of a specified class of motor vehicle; or
   - (ii) of a specified description,
@@ -414,7 +414,7 @@ The conditions referred to in regulation 8(4) are that the authorised examiner�
   - (a) unless he is himself to carry out the examination, shall not cause or permit an examination to be carried out at any vehicle testing station at which he is authorised to carry out examinations by a person other than—
     - (i) a nominated tester approved by the Secretary of State to carry out examinations at that testing station; or
     - (ii) a section 66A examiner;
-  - (b) shall, as regards each of the vehicle testing stations at which he is authorised to carry out examinations, by electronic communication or notice to the Secretary of State, at the office of DVSA[^key-9c7e7bff12a2e704f1227a3d506457c8] for the area in which the testing station is situated, inform the Secretary of State—
+  - (b) shall, as regards each of the vehicle testing stations at which he is authorised to carry out examinations, by electronic communication or notice to the Secretary of State, at the office of DVSA[^c-9c7e7bff12a2e704f1227a3d506457c8] for the area in which the testing station is situated, inform the Secretary of State—
     - (i) of the names of the individuals who are nominated testers at that testing station; and
     - (ii) the name of any such individual who ceases to act in that capacity;
   - (c) shall ensure that every test certificate resulting from an examination carried out at any of its testing stations is signed by the person who carried out the examination or by such other person as the Secretary of State may in any particular case direct;
@@ -440,13 +440,13 @@ The conditions referred to in regulation 8(5) are—
 - (a) that the authorised examiner shall, so long as the authorisation is in force, secure—
   - (i) where the examiner is a company, that at least one of its directors or senior managers has successfully completed a course of instruction in the functions of authorised examiners, provided under section 45(6A) of the 1988 Act; and
   - (ii) where the examiner is persons in partnership, that at least one of the partners has successfully completed such a course;
-- (b) that, where the authorised examiner is persons in partnership and there is a change in the firm’s constitution, it shall inform the Secretary of State, at the office of DVSA[^key-685bff457b256130b0b66c67dff87f0b] for the area in which its testing station is situated, of the particulars of the change within 7 days of the effective date of the change; and
+- (b) that, where the authorised examiner is persons in partnership and there is a change in the firm’s constitution, it shall inform the Secretary of State, at the office of DVSA[^c-685bff457b256130b0b66c67dff87f0b] for the area in which its testing station is situated, of the particulars of the change within 7 days of the effective date of the change; and
 - (c) that, where the authorised examiner is a company and a person becomes, or ceases to be—
   - (i) the secretary of the company,
   - (ii) a director, or
   - (iii) a senior manager to whom the description mentioned in paragraph (a)(i) applies,
 
-- it shall inform the Secretary of State, at the office of DVSA[^key-5d13d7cb98e17d647e8c1684fc8a1122] for the area in which its testing station is situated, of the occurrence of that event, and of the identity of the person or persons concerned, within 7 days of the occurrence of the event.
+- it shall inform the Secretary of State, at the office of DVSA[^c-5d13d7cb98e17d647e8c1684fc8a1122] for the area in which its testing station is situated, of the occurrence of that event, and of the identity of the person or persons concerned, within 7 days of the occurrence of the event.
 
 ### 8D. The individual authorisation conditions
 
@@ -454,8 +454,8 @@ The conditions referred to in regulation 8(6) are that the individual to whom th
 
 - (a) shall not carry out any examination—
   - (i) unless he has successfully completed a course of instruction in the carrying out of examinations provided under section 45(6A) of the 1988 Act;
-  - (ii) at a particular vehicle testing station, unless by electronic communication to the Secretary of State, at the office of DVSA[^key-a893539d15f762943d0c265288726be9] for the area in which that testing station is situated, or by such other means as the Secretary of State may from time to time require, he has informed the Secretary of State of his intention to carry out examinations at that testing station;
-- (b) shall, within 7 days of entering into a partnership with a view to carrying on at his vehicle testing station a business comprising the carrying out of examinations, inform the Secretary of State, at the office of DVSA[^key-ded0497461ad8566047fbb6e9c7b1d9b] for the area in which his vehicle testing station is situated, of his entry into partnership and of the identity of the other members of the firm; and
+  - (ii) at a particular vehicle testing station, unless by electronic communication to the Secretary of State, at the office of DVSA[^c-a893539d15f762943d0c265288726be9] for the area in which that testing station is situated, or by such other means as the Secretary of State may from time to time require, he has informed the Secretary of State of his intention to carry out examinations at that testing station;
+- (b) shall, within 7 days of entering into a partnership with a view to carrying on at his vehicle testing station a business comprising the carrying out of examinations, inform the Secretary of State, at the office of DVSA[^c-ded0497461ad8566047fbb6e9c7b1d9b] for the area in which his vehicle testing station is situated, of his entry into partnership and of the identity of the other members of the firm; and
 - (c) shall complete a course of instruction in the functions of authorised examiners provided under section 45(6A) of the 1988 Act.
 
 ### 8E. The designation conditions
@@ -471,7 +471,7 @@ The conditions referred to in regulation 8(6) are that the council—
   - (a) shall not cause or permit examinations to be carried out at any of their vehicle testing stations—
     - (i) by a person other than an inspector or a section 66A examiner; or
     - (ii) unless at least one individual (who may be an inspector), employed by the council, has completed a course of instruction in the functions of designated councils under these Regulations, provided under section 45(6A) of the 1988 Act;
-  - (b) shall, as regards each of their vehicle testing stations, by electronic communication or notice to the Secretary of State, at the office of DVSA[^key-f81c98a9e0aee317f82e72457e5a3449] for the area in which the testing station is situated, inform the Secretary of State—
+  - (b) shall, as regards each of their vehicle testing stations, by electronic communication or notice to the Secretary of State, at the office of DVSA[^c-f81c98a9e0aee317f82e72457e5a3449] for the area in which the testing station is situated, inform the Secretary of State—
     - (i) of the names of the inspectors appointed by the council to carry out examinations at that testing station; and
     - (ii) of the revocation of the appointment of any such inspector;
   - (c) shall secure that every test certificate resulting from an examination carried out at any of their testing stations is signed by the person who carried out the examination or by such other person as the Secretary of State may in any particular case direct;
@@ -505,8 +505,8 @@ The conditions referred to in regulation 8(6) are that the council—
 (1) An individual shall cease to be an authorised examiner—
 
 - (a) if he dies;
-- (b) if he is made[^key-9782e51826b04c97de96850f3fbf8972] bankrupt , or has a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986)[^key-761f59d4b1c6dbf0ef163746db50599e] or, in Scotland, has his estate sequestrated;
-- (c) if he becomes a person who lacks capacity (within the meaning of the Mental Capacity Act[^key-ef04ed676622fd559f8415dd3a5ac70c] [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9)) to carry on the activities covered by the authorisation or, in Scotland, becomes incapable of managing his own affairs;
+- (b) if he is made[^c-9782e51826b04c97de96850f3fbf8972] bankrupt , or has a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986)[^c-761f59d4b1c6dbf0ef163746db50599e] or, in Scotland, has his estate sequestrated;
+- (c) if he becomes a person who lacks capacity (within the meaning of the Mental Capacity Act[^c-ef04ed676622fd559f8415dd3a5ac70c] [2005 (c.9)](https://www.legislation.gov.uk/ukpga/2005/9)) to carry on the activities covered by the authorisation or, in Scotland, becomes incapable of managing his own affairs;
 - (d) if he has not attended a course of instruction under section 45(6A) when required by the Secretary of State to attend such a course;
 - (e) if he has attended such a course when so required but has failed to complete it successfully; or
 - (f) if he notifies the Secretary of State that he no longer wishes to be an authorised examiner.
@@ -610,38 +610,38 @@ the Secretary of State may, by notice or electronic communication to the person 
 
 ## PART III — EXAMINATIONS
 
-[^key-4e41c4f80de4b09009b8aea57b6efcf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e41c4f80de4b09009b8aea57b6efcf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Applications for examinations[^key-2a75dd62008a8f07081bbf42d0a29dae]
+### 12. Applications for examinations[^c-2a75dd62008a8f07081bbf42d0a29dae]
 
-(1) An application for an examination of a vehicle in Class VI or VIA[^key-e5885760c03e9e537a41b663f36ffb48] under these Regulations shall be made to the Secretary of State and, subject to paragraph (1A) below, shall be in writing[^key-edfc2c80a7bda73f56200ab3e701b171].
+(1) An application for an examination of a vehicle in Class VI or VIA[^c-e5885760c03e9e537a41b663f36ffb48] under these Regulations shall be made to the Secretary of State and, subject to paragraph (1A) below, shall be in writing[^c-edfc2c80a7bda73f56200ab3e701b171].
 
-(1A)[^key-0ce295ff47aec9f04a91129469a41bba] An application for a re-examination of a vehicle in Class VI or VIA[^key-24bc646d522bc79cadd99144c044347d] under these Regulations need not be in writing if the application is made before the expiration of 28 days after the last examination.
+(1A)[^c-0ce295ff47aec9f04a91129469a41bba] An application for a re-examination of a vehicle in Class VI or VIA[^c-24bc646d522bc79cadd99144c044347d] under these Regulations need not be in writing if the application is made before the expiration of 28 days after the last examination.
 
-(2) An application for an examination (including a re-examination) of a vehicle in a class other than Class VI or VIA[^key-704fcdf7547d5103c392585238f1bba5] under these Regulations shall be made as indicated in the Table below:—
+(2) An application for an examination (including a re-examination) of a vehicle in a class other than Class VI or VIA[^c-704fcdf7547d5103c392585238f1bba5] under these Regulations shall be made as indicated in the Table below:—
 
 |  |  |  |
 | --- | --- | --- |
 | (1) | (2) | (3) |
 | Item No. | Person or body to whom application must be made | Manner in which appointment must be made |
-| 1\. | An authorised[^key-03432f396f251781c8e4fd104deb058b] examiner or a designated council. | By arrangement following application made in writing or, during the normal working week, by telephone to, or in person at (whether by submitting the vehicle or not), the vehicle testing station where the applicant desires the vehicle to be examined. |
+| 1\. | An authorised[^c-03432f396f251781c8e4fd104deb058b] examiner or a designated council. | By arrangement following application made in writing or, during the normal working week, by telephone to, or in person at (whether by submitting the vehicle or not), the vehicle testing station where the applicant desires the vehicle to be examined. |
 | 2\. | The Secretary of State. | By arrangement following prior application. |
 
-(3) Subject to the following provisions of these Regulations, authorised[^key-8f1f87094ba1b5612447ca5aaaa4fc79] examiners and designated councils shall ensure that—
+(3) Subject to the following provisions of these Regulations, authorised[^c-8f1f87094ba1b5612447ca5aaaa4fc79] examiners and designated councils shall ensure that—
 
-- (a) where in accordance with the provisions of paragraph (2) an appointment is requested for the carrying out of an examination [^key-f2376362b17367ec15df75b2dc969102]..., an appointment is forthwith offered for the carrying out of the examination at the earliest time at which it is reasonably practicable for the examination to be carried out during the normal working week;
-- (b) where in accordance with the provisions of paragraph (2) a vehicle is submitted for examination [^key-a8b776ba1ff4cdba2e85a2592db78ba9]... without any appointment for the carrying out of the examination having been previously made, the applicant is informed either that the examination can be carried out forthwith or, if not, of the earliest time at which it is reasonably practicable for the examination to be carried out during the normal working week;
-- (c) except in so far as prevented by circumstances beyond the control of the authorised[^key-2cdc82528e710e4842b7caf0182fa944] examiner or council, examinations are carried out in accordance with the appointments made or the information given in pursuance of the preceding provisions of this paragraph or at such other times as may be arranged between the applicant and the authorised examiner or council.
+- (a) where in accordance with the provisions of paragraph (2) an appointment is requested for the carrying out of an examination [^c-f2376362b17367ec15df75b2dc969102]..., an appointment is forthwith offered for the carrying out of the examination at the earliest time at which it is reasonably practicable for the examination to be carried out during the normal working week;
+- (b) where in accordance with the provisions of paragraph (2) a vehicle is submitted for examination [^c-a8b776ba1ff4cdba2e85a2592db78ba9]... without any appointment for the carrying out of the examination having been previously made, the applicant is informed either that the examination can be carried out forthwith or, if not, of the earliest time at which it is reasonably practicable for the examination to be carried out during the normal working week;
+- (c) except in so far as prevented by circumstances beyond the control of the authorised[^c-2cdc82528e710e4842b7caf0182fa944] examiner or council, examinations are carried out in accordance with the appointments made or the information given in pursuance of the preceding provisions of this paragraph or at such other times as may be arranged between the applicant and the authorised examiner or council.
 
-(4) On an appointment being made or a time being arranged for the carrying out of an examination in accordance with paragraph (3) the authorised[^key-5dd7233c0cd249918ca2385c5310b96b] examiner or the designated council, as the case may be, shall record the hour and the date thereof and the name of the person by whom the application for the examination is made:
+(4) On an appointment being made or a time being arranged for the carrying out of an examination in accordance with paragraph (3) the authorised[^c-5dd7233c0cd249918ca2385c5310b96b] examiner or the designated council, as the case may be, shall record the hour and the date thereof and the name of the person by whom the application for the examination is made:
 
 Provided that no such record needs to be made in a case where a vehicle is submitted for examination at a vehicle testing station of an authorised examiner or designated council, without any appointment for the carrying out of the examination having been previously made, and the examination is carried out forthwith.
 
-(5) Any authorised examiner, inspector, nominated tester or section 66A examiner[^key-7d83b491617bea98e8a722fc5497c7a3] [^key-42547cefc171f5b1785aec2d9150ebb7]... may carry out an examination of a motor vehicle in accordance with the provisions of these Regulations notwithstanding that the foregoing provisions of this Regulation have not been complied with [^key-24dd9075e272d4768b9709590e5b4174]....
+(5) Any authorised examiner, inspector, nominated tester or section 66A examiner[^c-7d83b491617bea98e8a722fc5497c7a3] [^c-42547cefc171f5b1785aec2d9150ebb7]... may carry out an examination of a motor vehicle in accordance with the provisions of these Regulations notwithstanding that the foregoing provisions of this Regulation have not been complied with [^c-24dd9075e272d4768b9709590e5b4174]....
 
-(6) Nothing in this Regulation shall be taken as entitling an authorised examiner or a nominated tester[^key-4331cd11195134f57dc135ce6303bb63] to carry out an examination of a vehicle not being of a type included in the authorisation of the examiner, or as imposing on a designated council or an inspector [^key-5c1db2d882ce9dfc028ada40bbb22c01]... any obligation with respect to the carrying out of an examination of a vehicle not being of a type which that council have for the time being notified to the Secretary of State as a type of vehicle which will be examined by their inspectors[^key-8c7e05fea1921d1ee49baad7d9cf7ab9].
+(6) Nothing in this Regulation shall be taken as entitling an authorised examiner or a nominated tester[^c-4331cd11195134f57dc135ce6303bb63] to carry out an examination of a vehicle not being of a type included in the authorisation of the examiner, or as imposing on a designated council or an inspector [^c-5c1db2d882ce9dfc028ada40bbb22c01]... any obligation with respect to the carrying out of an examination of a vehicle not being of a type which that council have for the time being notified to the Secretary of State as a type of vehicle which will be examined by their inspectors[^c-8c7e05fea1921d1ee49baad7d9cf7ab9].
 
-### 13. Requirements as to vehicles submitted for examinations[^key-65d41b33869e3e81f3c99df27a0c5852]
+### 13. Requirements as to vehicles submitted for examinations[^c-65d41b33869e3e81f3c99df27a0c5852]
 
 (1) An authorised examiner, a section 66A examiner, an inspector and a nominated tester shall not be under any obligation to carry out an examination of a motor vehicle where—
 
@@ -663,36 +663,36 @@ Provided that no such record needs to be made in a case where a vehicle is submi
 - (l) the vehicle—
   - (i) does not have a registration mark, vehicle identification number, chassis number or serial number; or
   - (ii) has one or more of those marks and numbers, but none of them is legible or such one or more as is legible is in a script other than English; or
-- (m) an examiner, section 66A examiner, inspector or nominated tester, as the case may be, is not able to open and examine recording equipment fitted to the vehicle in accordance with the EU Tachographs Regulation[^key-fbb5fb6a5bab4f23c0f2fef2dbe5323f].
+- (m) an examiner, section 66A examiner, inspector or nominated tester, as the case may be, is not able to open and examine recording equipment fitted to the vehicle in accordance with the EU Tachographs Regulation[^c-fbb5fb6a5bab4f23c0f2fef2dbe5323f].
 
-### 14. Conditions as to responsibility for damage to vehicles and third party liabilities[^key-9272f062865d80b7dd6ccd458019f6f1]
+### 14. Conditions as to responsibility for damage to vehicles and third party liabilities[^c-9272f062865d80b7dd6ccd458019f6f1]
 
-(1) Where a motor vehicle has been submitted for an examination to be carried out by a person other than a section 66A examiner, the authorised examiner or[^key-b531a0a211d81ea75c5970d2ec1fceb7] designated council [^key-27cfc97b62d2e67d9ca137e0e4172115]... (as the case may be) shall have the same responsibility for—
+(1) Where a motor vehicle has been submitted for an examination to be carried out by a person other than a section 66A examiner, the authorised examiner or[^c-b531a0a211d81ea75c5970d2ec1fceb7] designated council [^c-27cfc97b62d2e67d9ca137e0e4172115]... (as the case may be) shall have the same responsibility for—
 
-- (a) loss of or damage to the vehicle or its equipment or accessories occurring in connection with the carrying out of the examination during any period while the vehicle is, in connection with the carrying out of the examination, in the custody of the authorised examiner or designated council (as the case may be)[^key-07c4d9e9acbc73ba4c9eef0b292e6992] [^key-27cfc97b62d2e67d9ca137e0e4172115]..., and
+- (a) loss of or damage to the vehicle or its equipment or accessories occurring in connection with the carrying out of the examination during any period while the vehicle is, in connection with the carrying out of the examination, in the custody of the authorised examiner or designated council (as the case may be)[^c-07c4d9e9acbc73ba4c9eef0b292e6992] [^c-27cfc97b62d2e67d9ca137e0e4172115]..., and
 - (b) loss of or damage to any other property or personal injury (whether fatal or not), being loss, damage or injury arising out of the use of the vehicle in connection with the carrying out of the examination,
 
 as would rest on a person who, having the same facilities for carrying out the examination as are available to the person who is to carry out the examination, had undertaken for payment to accept the custody of the vehicle and to carry out the same examination under a contract making no express provision with respect to the incidence of liability as between the parties thereto for any such loss, damage or injury.
 
-(1A)[^key-a74ebc5976fd8a0f9922a593724dc766] Where a motor vehicle has been submitted for an examination to be carried out by a section 66A examiner, paragraph (1) shall apply in relation to the examination as if—
+(1A)[^c-a74ebc5976fd8a0f9922a593724dc766] Where a motor vehicle has been submitted for an examination to be carried out by a section 66A examiner, paragraph (1) shall apply in relation to the examination as if—
 
 - (a) for the reference to a person other than a section 66A examiner, there were substituted a reference to a section 66A examiner; and
 - (b) for references to an authorised examiner or designated council, there were substituted references to the Secretary of State.
 
-(2) No person submitting a vehicle for an examination or having an interest in such a vehicle shall be requested or required by an authorised[^key-992aafce3b994e2550ad00efed3ae081] examiner, a designated council or the Secretary of State either directly or indirectly to accept any responsibility for, or to give any relcase or indemnity in respect of, any loss, damage or injury for which the examiner, council or Secretary of State (as the case may be) are responsible under paragraph (1).
+(2) No person submitting a vehicle for an examination or having an interest in such a vehicle shall be requested or required by an authorised[^c-992aafce3b994e2550ad00efed3ae081] examiner, a designated council or the Secretary of State either directly or indirectly to accept any responsibility for, or to give any relcase or indemnity in respect of, any loss, damage or injury for which the examiner, council or Secretary of State (as the case may be) are responsible under paragraph (1).
 
 (3) Nothing in paragraph (1) or (2) shall preclude any person from being requested or required to accept any responsibility for, or to give a release or indemnity in respect of—
 
-- (a) loss of or damage to a vehicle or its equipment or accessories occurring during any period while the vehicle is in the custody of an authorised[^key-9f811595cf9235673d6ab8afb99e962e] examiner, a designated council or the Secretary of State after the time when the vehicle is required to be removed from such custody in pursuance of the provisions of Regulation 17(1), or
+- (a) loss of or damage to a vehicle or its equipment or accessories occurring during any period while the vehicle is in the custody of an authorised[^c-9f811595cf9235673d6ab8afb99e962e] examiner, a designated council or the Secretary of State after the time when the vehicle is required to be removed from such custody in pursuance of the provisions of Regulation 17(1), or
 - (b) loss, damage or injury arising out of the carrying out by an authorised examiner, at the request of the person submitting the vehicle for an examination or of a person having an interest in the vehicle, of repairs to the vehicle or of repairs or replacements of its equipment or accessories.
 
 (4) In this Regulation—
 
-- (a) references to an examination, in relation to a vehicle which, after the carrying out of an examination, remains in the custody of an authorised[^key-ebfbc3258b9019d0dc0ce98db00b9470] examiner, a designated council or the Secretary of State in order that a further examination of that vehicle may be carried out, include references to that further examination, [^key-eaa5f3cd216c44a2f98750c93b3008a8]...
-- (b) references to a period while a vehicle is in the custody of a designated council [^key-703234281db2987df2a8f89511fe9fff]... include references to any period while a vehicle is, in connection with the carrying out of an examination , in the control or care of an inspector, and[^key-feb6b3df828330c6fb8c5213eecef96b]
-- (c) references to a period while a vehicle is in the custody of the Secretary of State include references to any period while a vehicle is, in connection with the carrying out of an examination , in the control or care of a section 66A examiner[^key-4fd882022b4d837b1372b5a1036e0f24].
+- (a) references to an examination, in relation to a vehicle which, after the carrying out of an examination, remains in the custody of an authorised[^c-ebfbc3258b9019d0dc0ce98db00b9470] examiner, a designated council or the Secretary of State in order that a further examination of that vehicle may be carried out, include references to that further examination, [^c-eaa5f3cd216c44a2f98750c93b3008a8]...
+- (b) references to a period while a vehicle is in the custody of a designated council [^c-703234281db2987df2a8f89511fe9fff]... include references to any period while a vehicle is, in connection with the carrying out of an examination , in the control or care of an inspector, and[^c-feb6b3df828330c6fb8c5213eecef96b]
+- (c) references to a period while a vehicle is in the custody of the Secretary of State include references to any period while a vehicle is, in connection with the carrying out of an examination , in the control or care of a section 66A examiner[^c-4fd882022b4d837b1372b5a1036e0f24].
 
-### 15. Notification of examinations and results[^key-199262bb688869b7e396f24c02b0a8c8]
+### 15. Notification of examinations and results[^c-199262bb688869b7e396f24c02b0a8c8]
 
 (1) Subject to paragraph (3), the person by whom an examination is to be carried out shall, before carrying out the examination—
 
@@ -745,11 +745,11 @@ shall supply to him, free of charge, the test certificate or, as the case may be
 
 (9) Where a test certificate or notice of the refusal of a test certificate bears a facsimile, by whatever process reproduced, of the signature of a section 66A examiner, the certificate or notice shall be treated as duly signed for the purposes of paragraph (7) or (8).
 
-### 16. Refusal of a test certificate where braking test cannot be carried out[^key-1360c344d844e5b9e4bae999f102cc31]
+### 16. Refusal of a test certificate where braking test cannot be carried out[^c-1360c344d844e5b9e4bae999f102cc31]
 
-(1) Where in the course of an examination of a vehicle [^key-fe99e166348c864fb7ff7fc2ef3a0224]... [^key-979318c9b429d47d26d4b98a33d0d6d8]... it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test of the vehicle in the manner in which braking tests of such vehicles are carried out at the vehicle testing station at which the examination is being carried out would be likely to cause danger to any person or damage to the vehicle or any other property, the person carrying out the examination[^key-3eaf8e2883e7b4df3b2dc94e84f41ad1] shall not carry out the braking test but shall complete the rest of the examination in accordance with the provisions of these Regulations.
+(1) Where in the course of an examination of a vehicle [^c-fe99e166348c864fb7ff7fc2ef3a0224]... [^c-979318c9b429d47d26d4b98a33d0d6d8]... it is found that there are such defects in the construction or condition of the vehicle or its equipment or accessories that to carry out a braking test of the vehicle in the manner in which braking tests of such vehicles are carried out at the vehicle testing station at which the examination is being carried out would be likely to cause danger to any person or damage to the vehicle or any other property, the person carrying out the examination[^c-3eaf8e2883e7b4df3b2dc94e84f41ad1] shall not carry out the braking test but shall complete the rest of the examination in accordance with the provisions of these Regulations.
 
-(2)[^key-0fceed641f71a68b02c8647090fb9078] Subject to paragraphs (2A) and (2B), as soon as reasonably practicable after completing the rest of the examination, the person carrying out the examination—
+(2)[^c-0fceed641f71a68b02c8647090fb9078] Subject to paragraphs (2A) and (2B), as soon as reasonably practicable after completing the rest of the examination, the person carrying out the examination—
 
 - (a) shall, by electronic communication, enter in the electronic record that the prescribed statutory requirements have not been shown to be met in relation to the vehicle;
 - (b) shall by electronic communication—
@@ -786,11 +786,11 @@ shall supply to him, free of charge, the notice of the refusal of a test certifi
 
 (3) In this Regulation “**braking test**”, means that part of the examination of that vehicle which is required or authorised to be carried out to ascertain whether the braking requirements are complied with.
 
-(4)[^key-971196ead24d899d2a62315158c1ab5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-971196ead24d899d2a62315158c1ab5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Removal of vehicles submitted for examination[^key-1250d03d329c0835c8e9ef450dd88045]
+### 17. Removal of vehicles submitted for examination[^c-1250d03d329c0835c8e9ef450dd88045]
 
-(1) Where a vehicle has been submitted for an examination at a vehicle testing station of an authorised[^key-7752787649995c36429c1c1e9681894c] examiner, a designated council or the Secretary of State, the person by whom the vehicle has been so submitted shall save as may otherwise be permitted by the examiner, designated council or the Secretary of State, as the case may be, cause it to be removed from the custody of the examiner, council or the Secretary of State, as the case may be—
+(1) Where a vehicle has been submitted for an examination at a vehicle testing station of an authorised[^c-7752787649995c36429c1c1e9681894c] examiner, a designated council or the Secretary of State, the person by whom the vehicle has been so submitted shall save as may otherwise be permitted by the examiner, designated council or the Secretary of State, as the case may be, cause it to be removed from the custody of the examiner, council or the Secretary of State, as the case may be—
 
 - (a) where an appointment or arrangement has been made for the carrying out of the examination on a particular day and the examination has been completed on or before that day, before the end of the second day after that day, or
 - (b) in any other case, before the end of the second day after the day on which the person submitting the vehicle for examination is given notice (whether in writing or not)—
@@ -799,18 +799,18 @@ shall supply to him, free of charge, the notice of the refusal of a test certifi
 
 (2) In this Regulation—
 
-- (a) references to an examination, in relation to a vehicle which, after the carrying out of an examination, remains in the custody of an authorised[^key-6ca36b3f3b9b018f0d54357b26742b1e] examiner, a designated council or the Secretary of State in order that a further examination of that vehicle may be carried out, include references to that further examination, [^key-9a93b4d013a2d12bea956b685ac1c410]...
-- (b) references to a vehicle as being in the custody of a designated council [^key-d67889ee0fbca41c566bd086a9b09c17]... include references to a vehicle which is, in connection with the carrying out of an examination in the control or care of an inspector[^key-713817b2b2629248f40d975285793e74].
-- (c)[^key-14eeaa58b060c90bf1d0a98b37bfff85] references to a vehicle as being in the custody of the Secretary of State include references to a vehicle which is, in connection with the carrying out of an examination in the control or care of a section 66A examiner[^key-e0d778342933e0dbad0142caa9d116d5].
+- (a) references to an examination, in relation to a vehicle which, after the carrying out of an examination, remains in the custody of an authorised[^c-6ca36b3f3b9b018f0d54357b26742b1e] examiner, a designated council or the Secretary of State in order that a further examination of that vehicle may be carried out, include references to that further examination, [^c-9a93b4d013a2d12bea956b685ac1c410]...
+- (b) references to a vehicle as being in the custody of a designated council [^c-d67889ee0fbca41c566bd086a9b09c17]... include references to a vehicle which is, in connection with the carrying out of an examination in the control or care of an inspector[^c-713817b2b2629248f40d975285793e74].
+- (c)[^c-14eeaa58b060c90bf1d0a98b37bfff85] references to a vehicle as being in the custody of the Secretary of State include references to a vehicle which is, in connection with the carrying out of an examination in the control or care of a section 66A examiner[^c-e0d778342933e0dbad0142caa9d116d5].
 
 ## PART IV — APPEALS
 
-### 18. Appeal on refusal of a test certificate[^key-d98ab93d1dfd451ec5038eabab6c740e]
+### 18. Appeal on refusal of a test certificate[^c-d98ab93d1dfd451ec5038eabab6c740e]
 
 (1) A person to whom a notice of the refusal of a test certificate has been issued may appeal to the Secretary of State and, save as may be otherwise permitted by the Secretary of State, any such appeal shall—
 
 - (a) be on a form approved by the Secretary of State and contain the particulars required by that form;
-- (b) be sent to any office of[^key-c6d3898a93415429613c7135f991f522] VOSA within 14 days from the date of the said notice.
+- (b) be sent to any office of[^c-c6d3898a93415429613c7135f991f522] VOSA within 14 days from the date of the said notice.
 
 (2) As soon as reasonably practicable after the date on which the Secretary of State receives a notice in accordance with paragraph (1) he shall send to the appellant, at his address given on the said notice, a notice stating—
 
@@ -827,12 +827,12 @@ shall supply to him, free of charge, the notice of the refusal of a test certifi
 
 and the said officer shall not be required to carry out the examination unless such notice, registration document or other evidence is produced and such other information is given.
 
-(4) The provisions of Regulations [^key-699e94dad60fadd64cac257d43b739fd]... 13(b), (c) and (d) and 16 shall apply in relation to an examination for the purposes of an appeal as they apply in relation to other examinations, and as if references therein to—
+(4) The provisions of Regulations [^c-699e94dad60fadd64cac257d43b739fd]... 13(b), (c) and (d) and 16 shall apply in relation to an examination for the purposes of an appeal as they apply in relation to other examinations, and as if references therein to—
 
-- (a) persons carrying out examinations[^key-84acd52f8913d8ed5e82301de2eff141] were references to the person carrying out the examination for the purposes of the appeal;
+- (a) persons carrying out examinations[^c-84acd52f8913d8ed5e82301de2eff141] were references to the person carrying out the examination for the purposes of the appeal;
 - (b) a vehicle testing station were references to the place where the examination for the purposes of the appeal occurs.
 
-(5)[^key-582977bf17cb90f547ae8005740ddcd3] Paragraphs (2) to (6) of regulation 15 shall apply in relation to examinations under this regulation as they apply in relation to examinations under that regulation, subject to the omission, from paragraph (3) of that regulation, of the words “for advising the Secretary of State that the examination is to be carried out and”.
+(5)[^c-582977bf17cb90f547ae8005740ddcd3] Paragraphs (2) to (6) of regulation 15 shall apply in relation to examinations under this regulation as they apply in relation to examinations under that regulation, subject to the omission, from paragraph (3) of that regulation, of the words “for advising the Secretary of State that the examination is to be carried out and”.
 
 (6) A test certificate issued under this regulation shall be signed by the person by whom the examination was carried out or such other person as the Secretary of State may in any particular case direct.
 
@@ -840,9 +840,9 @@ and the said officer shall not be required to carry out the examination unless s
 
 (7) The above provisions of this Regulation do not apply where a notification of refusal of a test certificate has been issued following an examination for the purpose of an appeal.
 
-### 19. Payments to examiners and designated councils at whose premises examinations on appeals are carried out[^key-8ff74a21c6364713c8bdac8d8d8c9f61]
+### 19. Payments to examiners and designated councils at whose premises examinations on appeals are carried out[^c-8ff74a21c6364713c8bdac8d8d8c9f61]
 
-Where arrangements are made for the carrying out at a vehicle testing station of an authorised[^key-609f5ce3bb98120f65ad8b924799ff61] examiner or designated council of an examination for the purposes of an appeal under Regulation 18 an amount equal to one half of the amount payable on that appeal shall be payable by the Secretary of State to that examiner or council, as the case may be, in respect of the use of the station and apparatus thereat to be made available under the said arrangements:
+Where arrangements are made for the carrying out at a vehicle testing station of an authorised[^c-609f5ce3bb98120f65ad8b924799ff61] examiner or designated council of an examination for the purposes of an appeal under Regulation 18 an amount equal to one half of the amount payable on that appeal shall be payable by the Secretary of State to that examiner or council, as the case may be, in respect of the use of the station and apparatus thereat to be made available under the said arrangements:
 
 Provided that the said amount shall not be payable—
 
@@ -851,43 +851,43 @@ Provided that the said amount shall not be payable—
 
 ## PART V — FEES
 
-### 20. Fees for examinations[^key-5e2328e829c55d26f720315ad21c4567]
+### 20. Fees for examinations[^c-5e2328e829c55d26f720315ad21c4567]
 
-(1)[^key-18b5f94a00493dbfd4544514a4fed9d1] Subject to the following provisions of this regulation, the fee payable for an examination of a vehicle pursuant to an application made under regulation 12 is–
+(1)[^c-18b5f94a00493dbfd4544514a4fed9d1] Subject to the following provisions of this regulation, the fee payable for an examination of a vehicle pursuant to an application made under regulation 12 is–
 
-- (a) in the case of a motor bicycle not having a side car attached to it, £29.65[^key-3fd67e4c35cbc0bcac69d5b23a72f187];
-- (aa)[^key-a2fb78595e1925b4b136cd29471cd326] in the case of a motor bicycle with a side car attached to it, £37.80[^key-818b9c24deb6c3e1b585fcc311d20189];
-- (b) in the case of a vehicle in Class III, £37.80[^key-e705cd240555e64bb12117a14ccc311c];
-- (c)[^key-47adbdf7920b004c56c732b83d0b6eee] in the case of a vehicle in Class IV—
-  - (i) if the vehicle is a minibus, £57.30[^key-78bb4c64f027a35bfcc3169409774473],
-  - (ii) in any other case, £54.85[^key-427420ed96d5e2246c05e799ed882903];
-- (ca) in the case of a vehicle in Class IVA,£64.00[^key-1ba0a8f8e12493a1d0b7d6da7b418649];
-- (d)[^key-742565c3ebdfc5ef797824de99d2172e] in the case of a vehicle in Class V—
-  - (i) if the vehicle is constructed or adapted to carry more than 16[^key-b2cd331fef75dfd0bb09abe3982d42e6] passengers, £80.65[^key-23c0080ec2c355d0a3bc803a0332ae4a],
-  - (ii) in any other case, £59.55[^key-375f8fce6ae4c276ab75c863ce54b633];
+- (a) in the case of a motor bicycle not having a side car attached to it, £29.65[^c-3fd67e4c35cbc0bcac69d5b23a72f187];
+- (aa)[^c-a2fb78595e1925b4b136cd29471cd326] in the case of a motor bicycle with a side car attached to it, £37.80[^c-818b9c24deb6c3e1b585fcc311d20189];
+- (b) in the case of a vehicle in Class III, £37.80[^c-e705cd240555e64bb12117a14ccc311c];
+- (c)[^c-47adbdf7920b004c56c732b83d0b6eee] in the case of a vehicle in Class IV—
+  - (i) if the vehicle is a minibus, £57.30[^c-78bb4c64f027a35bfcc3169409774473],
+  - (ii) in any other case, £54.85[^c-427420ed96d5e2246c05e799ed882903];
+- (ca) in the case of a vehicle in Class IVA,£64.00[^c-1ba0a8f8e12493a1d0b7d6da7b418649];
+- (d)[^c-742565c3ebdfc5ef797824de99d2172e] in the case of a vehicle in Class V—
+  - (i) if the vehicle is constructed or adapted to carry more than 16[^c-b2cd331fef75dfd0bb09abe3982d42e6] passengers, £80.65[^c-23c0080ec2c355d0a3bc803a0332ae4a],
+  - (ii) in any other case, £59.55[^c-375f8fce6ae4c276ab75c863ce54b633];
 - (da) in the case of a vehicle in Class VA—
-  - (i) if the vehicle is constructed or adapted to carry more than 16[^key-974719a60d7a76d46bfac1d1f08fc72b] passengers, £124.50[^key-a40ba751c08cc6fd137080ac932b19b9],
-  - (ii) in any other case, £80.50[^key-3366e90ba836f86173d56082a625079f];
-- (e) save as provided in paragraph (4), in the case of a vehicle in Class[^key-658dd87f2d9a40ffe0379d941dfe84e9] VI or VIA constructed or adapted to carry more than 22 passengers—
-  - (i) if the vehicle is tested at premises designated under section 8(3) of the 1981 Act where the testing station concerned has been appointed for an examination at the applicant’s request, £128[^key-99f25b0b7f6655b89f125d0110b54d77],
-  - (ii) in any other case, £163[^key-0bd43d55204b3cbbfad6b5a99601b409];
+  - (i) if the vehicle is constructed or adapted to carry more than 16[^c-974719a60d7a76d46bfac1d1f08fc72b] passengers, £124.50[^c-a40ba751c08cc6fd137080ac932b19b9],
+  - (ii) in any other case, £80.50[^c-3366e90ba836f86173d56082a625079f];
+- (e) save as provided in paragraph (4), in the case of a vehicle in Class[^c-658dd87f2d9a40ffe0379d941dfe84e9] VI or VIA constructed or adapted to carry more than 22 passengers—
+  - (i) if the vehicle is tested at premises designated under section 8(3) of the 1981 Act where the testing station concerned has been appointed for an examination at the applicant’s request, £128[^c-99f25b0b7f6655b89f125d0110b54d77],
+  - (ii) in any other case, £163[^c-0bd43d55204b3cbbfad6b5a99601b409];
 - (ea) save as provided in paragraph (4), in the case of a vehicle in Class VI or VIA constructed or adapted to carry 22 passengers or less—
-  - (i) if the vehicle is tested at premises designated under section 8(3) of the 1981 Act where the testing station concerned has been appointed for an examination at the applicant’s request, £103[^key-ae788587e1b434f138587a63729902c4],
-  - (ii) in any other case, £127[^key-c6d088873f077379b98472c535cdcf5e];
-- (f) in the case of a vehicle in Class VII, £58.60[^key-5a44b17fdb5c0f68610099db835c66be].
+  - (i) if the vehicle is tested at premises designated under section 8(3) of the 1981 Act where the testing station concerned has been appointed for an examination at the applicant’s request, £103[^c-ae788587e1b434f138587a63729902c4],
+  - (ii) in any other case, £127[^c-c6d088873f077379b98472c535cdcf5e];
+- (f) in the case of a vehicle in Class VII, £58.60[^c-5a44b17fdb5c0f68610099db835c66be].
 
 (2) Subject to the following provisions of this Regulation, every fee prescribed by paragraph (1) shall be paid—
 
-- (a)[^key-308f87a9cd031ff801ae44927a81ceb3] if the application is one to which regulation 12(1) applies (not being an application for an re-examination), at the time the application is made;
-- (b)[^key-b2f9cf68fa1753c6ead19264aa343b4b] if the application is one to which Regulation 12(2) applies or, in the case of an application for a re-examination, is one to which Regulation 12(1) and (1A) applies –
-  - (i) before the examination is carried out if the Secretary of State or the person[^key-77171df3586aa9927fe2dc5fefe5645e] by whom the examination is to be carried out so requires; and
+- (a)[^c-308f87a9cd031ff801ae44927a81ceb3] if the application is one to which regulation 12(1) applies (not being an application for an re-examination), at the time the application is made;
+- (b)[^c-b2f9cf68fa1753c6ead19264aa343b4b] if the application is one to which Regulation 12(2) applies or, in the case of an application for a re-examination, is one to which Regulation 12(1) and (1A) applies –
+  - (i) before the examination is carried out if the Secretary of State or the person[^c-77171df3586aa9927fe2dc5fefe5645e] by whom the examination is to be carried out so requires; and
   - (ii) after the examination is carried out in all other cases.
 
-(2A)[^key-5c203b3dd73c3c8cdb2b16e617ba98b2] [^key-32c183dbafc4b1258912df9273af20dd]... Where, in the case of a vehicle in Class[^key-b79bdcd4164191755270eb318df66a8d] VI or VIA, the time appointed for an examination is, at the applicant’s request, out of hours, the fee payable for the examination shall be increased by £52[^key-068e6a098541da2f2bf078456d509e8c] in the case of a vehicle which is constructed or adapted to carry more than 22[^key-3bb62b6aa201a69b19f9137dd7ceb4a6] passengers, and £38 in any other case, such additional amount being payable at or before the time of the appointment.
+(2A)[^c-5c203b3dd73c3c8cdb2b16e617ba98b2] [^c-32c183dbafc4b1258912df9273af20dd]... Where, in the case of a vehicle in Class[^c-b79bdcd4164191755270eb318df66a8d] VI or VIA, the time appointed for an examination is, at the applicant’s request, out of hours, the fee payable for the examination shall be increased by £52[^c-068e6a098541da2f2bf078456d509e8c] in the case of a vehicle which is constructed or adapted to carry more than 22[^c-3bb62b6aa201a69b19f9137dd7ceb4a6] passengers, and £38 in any other case, such additional amount being payable at or before the time of the appointment.
 
 (2B)[^M_F_e356da68-3f83-4cea-8930-912ef4b9019c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9750d467f1ef5270cf702a605d588a83] Where, on an examination of a vehicle other than a vehicle in Class VI or VIA, it is found that some or all of the prescribed statutory requirements are not complied with or where, in the circumstances mentioned in regulation 16, a full examination of the braking system or systems of the vehicle is not carried out then provided that—
+(3)[^c-9750d467f1ef5270cf702a605d588a83] Where, on an examination of a vehicle other than a vehicle in Class VI or VIA, it is found that some or all of the prescribed statutory requirements are not complied with or where, in the circumstances mentioned in regulation 16, a full examination of the braking system or systems of the vehicle is not carried out then provided that—
 
 - (a) the vehicle is left at the vehicle testing station at which the examination took place so that the defects which have been revealed can be repaired;
 - (b) the re-examination is carried out before the expiration of a period of 10 days starting on the day after the day of the initial examination; and
@@ -903,36 +903,36 @@ no fee shall be payable in respect of the re-examination carried out there on th
 
 the fee payable for the re-examination shall be a maximum of one-half of the fee otherwise chargeable.
 
-(3A)[^key-68ca0efe7f2d8be0396302076bc3c074] No fee shall be payable for the re-examination of a vehicle other than in Class[^key-d4c04d3fa842dca92b413608eed6c7a6] [^key-e9ac5905774cc0fb12d3d3a1f1b3517b]...VI or VIA if–
+(3A)[^c-68ca0efe7f2d8be0396302076bc3c074] No fee shall be payable for the re-examination of a vehicle other than in Class[^c-d4c04d3fa842dca92b413608eed6c7a6] [^c-e9ac5905774cc0fb12d3d3a1f1b3517b]...VI or VIA if–
 
-- (a) the vehicle is re-examined at the same vehicle testing station where the vehicle failed the examination before the end of the next day following the examination on which the authorised[^key-74cc7033420ad2a2e7cb10a060cb92ed] examiner, designated council or the Secretary of State (as the case may be) will accept vehicles for examination , provided that there has been no change to the authorised examiner at the vehicle testing station between those examinations[^key-25d13f6ad13bde7d17db175853396b2d]; and
-- (b) the re-examination relates only to one or more of the following matters[^key-9a2360f7d74158af53e2b7210ee86118]–
-  - [^key-907ed1be6b7d9955d57125758e64afc5]...
-  - audible warning instruments;[^key-96416c3420b648a0183dbec58ce98765]
-  - batteries;[^key-2afe0fe73ddb3e0d710bc0f6f4263554]
-  - body condition where the re-examination of the body is carried out solely for the purposes of ascertaining whether there are any sharp edges or projections likely to cause injury;[^key-e1d2508eea52b2b549bdbd48c59359e7]
+- (a) the vehicle is re-examined at the same vehicle testing station where the vehicle failed the examination before the end of the next day following the examination on which the authorised[^c-74cc7033420ad2a2e7cb10a060cb92ed] examiner, designated council or the Secretary of State (as the case may be) will accept vehicles for examination , provided that there has been no change to the authorised examiner at the vehicle testing station between those examinations[^c-25d13f6ad13bde7d17db175853396b2d]; and
+- (b) the re-examination relates only to one or more of the following matters[^c-9a2360f7d74158af53e2b7210ee86118]–
+  - [^c-907ed1be6b7d9955d57125758e64afc5]...
+  - audible warning instruments;[^c-96416c3420b648a0183dbec58ce98765]
+  - batteries;[^c-2afe0fe73ddb3e0d710bc0f6f4263554]
+  - body condition where the re-examination of the body is carried out solely for the purposes of ascertaining whether there are any sharp edges or projections likely to cause injury;[^c-e1d2508eea52b2b549bdbd48c59359e7]
   - brake pedal anti-slip devices;
   - direction indicators;
   - doors and other openings;
-  - electrical wiring;[^key-18178671317e6e23472b7e53eb471830]
-  - [^key-907ed1be6b7d9955d57125758e64afc5]...
+  - electrical wiring;[^c-18178671317e6e23472b7e53eb471830]
+  - [^c-907ed1be6b7d9955d57125758e64afc5]...
   - fuel filler cap;
   - glass and field of vision;
   - hazard warning signal device;
-  - lamps (other than headlamp aim);[^key-cc25dd8616182bc6a7e4022ff219798f]
+  - lamps (other than headlamp aim);[^c-cc25dd8616182bc6a7e4022ff219798f]
   - mirrors;
   - rear retro reflectors;
   - registration marks;
   - seats;
   - seat belts;
   - steering wheel;
-  - trailer coupling[^key-a969e591a03058ad37103bbbca3287e3]
-  - tyres (other than in respect of a vehicle in Class I or[^key-fe5791d3b1ce0abe17ae35e7cb81d3c1] II);
-  - vehicle identification numbers; [^key-083d4ee75eade80548ee7077c29bce91]...
-  - wheels (other than in respect of a vehicle in Class I or[^key-dda399dd87999e037fd3909b5e5fd7bf] II); or
+  - trailer coupling[^c-a969e591a03058ad37103bbbca3287e3]
+  - tyres (other than in respect of a vehicle in Class I or[^c-fe5791d3b1ce0abe17ae35e7cb81d3c1] II);
+  - vehicle identification numbers; [^c-083d4ee75eade80548ee7077c29bce91]...
+  - wheels (other than in respect of a vehicle in Class I or[^c-dda399dd87999e037fd3909b5e5fd7bf] II); or
   - windscreen cleaning.
 
-(3B)[^key-4c72eba0c23acaa20a02fc9e50033158] Subject to paragraph (3C), where, on an examination of a vehicle in Class IVA or VA, it is found that some or all of the prescribed statutory requirements, other than those referred to in item 28A in paragraph 3A of Schedule 2, are not complied with, then provided that—
+(3B)[^c-4c72eba0c23acaa20a02fc9e50033158] Subject to paragraph (3C), where, on an examination of a vehicle in Class IVA or VA, it is found that some or all of the prescribed statutory requirements, other than those referred to in item 28A in paragraph 3A of Schedule 2, are not complied with, then provided that—
 
 - (a) the vehicle is re-examined at the same testing station where it failed the examination; and
 - (b) there has been no change to the authorised examiner at the vehicle testing station since that examination,
@@ -941,10 +941,10 @@ the fee payable for the re-examination shall be calculated as if the vehicle was
 
 (3C) Where, on the re-examination of a vehicle in Class IVA or VA, it is found that some or all of the prescribed statutory requirements, other than those referred to in item 28A in paragraph 3A of Schedule 2, are not complied with, if the vehicle is re-examined in the circumstances referred to in paragraph (3ZA), the fee payable for the re-examination shall be a maximum of one-half of the fee chargeable for a Class IV or V vehicle respectively.
 
-(4)[^key-580eeda8338194e79aa70d3c9989c251] Subject to paragraph (7),[^key-e0510f6afd6179939bdd6ef3b2210ba0] where either—[^key-dbe3d25dce588f6789823f498e487897]
+(4)[^c-580eeda8338194e79aa70d3c9989c251] Subject to paragraph (7),[^c-e0510f6afd6179939bdd6ef3b2210ba0] where either—[^c-dbe3d25dce588f6789823f498e487897]
 
-- (i) on an examination of a vehicle in Class VI [^key-78396b716fb54efa2de7de7bf100a6b6]..., it is found that one or more of the prescribed statutory requirements are not complied with, or when, in the circumstances mentioned in regulation 16, a full examination of the braking system or systems of the vehicle is not carried out; or
-- (ii) on an examination of a vehicle in Class VIA [^key-496927dda9c54af4c0bf4e13cd7063eb]..., it is found that one or more of the prescribed statutory requirements, including those referred to in item 28A in paragraph 3A of Schedule 2, are not complied with,
+- (i) on an examination of a vehicle in Class VI [^c-78396b716fb54efa2de7de7bf100a6b6]..., it is found that one or more of the prescribed statutory requirements are not complied with, or when, in the circumstances mentioned in regulation 16, a full examination of the braking system or systems of the vehicle is not carried out; or
+- (ii) on an examination of a vehicle in Class VIA [^c-496927dda9c54af4c0bf4e13cd7063eb]..., it is found that one or more of the prescribed statutory requirements, including those referred to in item 28A in paragraph 3A of Schedule 2, are not complied with,
 
 then the fee payable in respect of a further examination—
 
@@ -953,9 +953,9 @@ then the fee payable in respect of a further examination—
 - (c) in a case where both sub-paragraph (a) and (b) apply, shall be as shown in column 5 of the Table in relation to a vehicle of that description, and
 - (d) in any other case, shall be as shown in column 2 of the Table in relation to a vehicle of that description.
 
-  TABLE[^key-4ed3e5f387435aeda65a86c28ad3ac97]
+  TABLE[^c-4ed3e5f387435aeda65a86c28ad3ac97]
 
-  **FEES RELATING TO THE RE-EXAMINATION OF VEHICLES IN CLASS[^key-5774b567b571f7f5cb001887540c8f01] VI OR VIA**
+  **FEES RELATING TO THE RE-EXAMINATION OF VEHICLES IN CLASS[^c-5774b567b571f7f5cb001887540c8f01] VI OR VIA**
 
   <table>
   <thead>
@@ -968,17 +968,17 @@ then the fee payable in respect of a further examination—
   </tbody>
   </table>
 
-  [^key-75d59e952085b8d98c90962483149c0f][^key-18e708b144fbe4bd0847b39967e631e6]
+  [^c-75d59e952085b8d98c90962483149c0f][^c-18e708b144fbe4bd0847b39967e631e6]
 
-(4A)[^key-5d10aa7dd7f27ad9641656b066f357e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-5d10aa7dd7f27ad9641656b066f357e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4B)[^key-5d10aa7dd7f27ad9641656b066f357e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4B)[^c-5d10aa7dd7f27ad9641656b066f357e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-339eb21af5ca1d849b7cb13a37c750c3] Save as provided in paragraphs (5A) and (5B), the fees prescribed by paragraphs[^key-616bba9eac54a9d2d7eb4bb4b41a2c1c] (1) and (4)[^key-9523219888ecbc89639b68c3b6f70992] shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with any such appointment or arrangement as is mentioned in Regulation 12.
+(5)[^c-339eb21af5ca1d849b7cb13a37c750c3] Save as provided in paragraphs (5A) and (5B), the fees prescribed by paragraphs[^c-616bba9eac54a9d2d7eb4bb4b41a2c1c] (1) and (4)[^c-9523219888ecbc89639b68c3b6f70992] shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with any such appointment or arrangement as is mentioned in Regulation 12.
 
-(5A) If, in the case of a vehicle not in Class[^key-14fb182a1acbca41facee0ede1883a75] VI or VIA, the applicant for the examination has not less than one day before the time so appointed or arranged given the examining authority notice (whether in writing or otherwise) that the applicant does not propose to submit the vehicle for examination at the time so appointed or arranged, the application shall be treated for the purposes of this Regulation as one in respect of which no fee is payable, and any amount previously paid in respect of such a fee shall be repayable by the examining authority to the applicant unless another time is arranged for the carrying out of the examination.
+(5A) If, in the case of a vehicle not in Class[^c-14fb182a1acbca41facee0ede1883a75] VI or VIA, the applicant for the examination has not less than one day before the time so appointed or arranged given the examining authority notice (whether in writing or otherwise) that the applicant does not propose to submit the vehicle for examination at the time so appointed or arranged, the application shall be treated for the purposes of this Regulation as one in respect of which no fee is payable, and any amount previously paid in respect of such a fee shall be repayable by the examining authority to the applicant unless another time is arranged for the carrying out of the examination.
 
-(5B) If, in the case of a vehicle in Class[^key-c00c6a27988f5d49731afe906f1df302] VI or VIA, the applicant—
+(5B) If, in the case of a vehicle in Class[^c-c00c6a27988f5d49731afe906f1df302] VI or VIA, the applicant—
 
 - (a) has not less than 7 days before the day fixed under these Regulations for the carrying out of the examination given the Secretary of State notice (whether in writing or otherwise) at the address from which the notice of the appointment was issued that the applicant does not propose to submit the vehicle for examination on that day, or
 - (b) satisfies the Secretary of State that the vehicle cannot, or, as the case may be, could not be submitted for the examination on the day or at the time fixed for the examination because of exceptional circumstances occurring not more than 7 days before the said time and of which the applicant gives notice to the Secretary of State (whether in writing or otherwise) at the said address within 3 days of the occurrence of those circumstances,
@@ -986,15 +986,15 @@ then the fee payable in respect of a further examination—
 then the applicant may either—
 
 - (i) make an application in writing to the Secretary of State at the said address, either at the time of the notice given under sub-paragraph (a) or (b) of this paragraph or within 28 days of the date thereof, for another examination of the same kind for that vehicle or another vehicle to be carried out within three months of the date of the application, and in that event the said fee shall be treated as having been paid in respect of that application unless the fee in respect of that application is greater, in which case the fee already paid shall be treated as having been paid towards the fee payable in respect of that application, or
-- (ii) give notice to Secretary of State at the place mentioned in sub-paragraph (i) above, and at the time of the notice given under sub-paragraph (a) or (b) of this paragraph or within 28 days of the date thereof, that no other examination of the same kind is required for that vehicle or another vehicle, and in that event any sum paid by him in respect of such a previous application for an examination shall be returned[^key-e421399eef081fb6b181575c0206851c].
+- (ii) give notice to Secretary of State at the place mentioned in sub-paragraph (i) above, and at the time of the notice given under sub-paragraph (a) or (b) of this paragraph or within 28 days of the date thereof, that no other examination of the same kind is required for that vehicle or another vehicle, and in that event any sum paid by him in respect of such a previous application for an examination shall be returned[^c-e421399eef081fb6b181575c0206851c].
 
-(6) No fee shall be payable on an application for an examination of any vehicle, not being a vehicle in Class[^key-22a59a2496078da821bf4658377c5f17] VI or VIA, in any case where in pursuance of any of the provisions of Regulation 13 an authorised examiner ,[^key-18b8d97c02efa292e648a54e31816c12] inspector or section 66A examiner[^key-1c47bc4f9373c1d3b38986cdcd0c5e4b] does not carry out the examination, and any amount previously paid in any such case in respect of such a fee shall be repaid by the examining authority to the applicant.
+(6) No fee shall be payable on an application for an examination of any vehicle, not being a vehicle in Class[^c-22a59a2496078da821bf4658377c5f17] VI or VIA, in any case where in pursuance of any of the provisions of Regulation 13 an authorised examiner ,[^c-18b8d97c02efa292e648a54e31816c12] inspector or section 66A examiner[^c-1c47bc4f9373c1d3b38986cdcd0c5e4b] does not carry out the examination, and any amount previously paid in any such case in respect of such a fee shall be repaid by the examining authority to the applicant.
 
-(7)[^key-e871e66f75e98f7af9bf0e445e2fb6c8] Notwithstanding paragraph (4), the fee payable for a re-examination of a vehicle in Class VI or Class VI<sub>A</sub> shall be £12[^key-3debf2ae13cd26820cd8c72d3532d9f8] if—
+(7)[^c-e871e66f75e98f7af9bf0e445e2fb6c8] Notwithstanding paragraph (4), the fee payable for a re-examination of a vehicle in Class VI or Class VI<sub>A</sub> shall be £12[^c-3debf2ae13cd26820cd8c72d3532d9f8] if—
 
-- (a)[^key-ede9359925a58dac5759f8aeb0dab10a] the vehicle is re-examined before the end of the next day following an earlier examination of it being a day on which the Secretary of State will accept vehicles for examination;
+- (a)[^c-ede9359925a58dac5759f8aeb0dab10a] the vehicle is re-examined before the end of the next day following an earlier examination of it being a day on which the Secretary of State will accept vehicles for examination;
 - (b) the person who re-examines the vehicle on behalf of the Secretary of State was already at the premises at which the re-examination occurs for the purpose of carrying out an examination on another vehicle;
-- (c)[^key-b08b632e3ad5440e184c1b8c348294df] the re-examination relates only to one or more of the following requirements specified in Schedule 2–
+- (c)[^c-b08b632e3ad5440e184c1b8c348294df] the re-examination relates only to one or more of the following requirements specified in Schedule 2–
   - (i) audible warning instruments,
   - (ii) bumpers,
   - (iii) cleanliness of body,
@@ -1010,14 +1010,14 @@ then the applicant may either—
   - (xiii) mirrors,
   - (xiv) rear retro reflectors,
   - (xv) spare wheel carrier,
-  - (xvi) speed limiter [^key-a243b2864d24bf5bb4fad859fb97ab35]... plate,
+  - (xvi) speed limiter [^c-a243b2864d24bf5bb4fad859fb97ab35]... plate,
   - (xvii) speedometer,
   - (xviii) windscreen cleaning, and
-  - (xix) the specified requirements of the EU Tachographs Regulation[^key-636f7f9b59087533c65b877bc664f833].
+  - (xix) the specified requirements of the EU Tachographs Regulation[^c-636f7f9b59087533c65b877bc664f833].
 
-(8)[^key-e14391bd0130cb57f9e482f0842f27c1] In this Regulation “**exceptional circumstances**” means an accident, a fire, an epidemic, severe weather, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts for a vehicle).
+(8)[^c-e14391bd0130cb57f9e482f0842f27c1] In this Regulation “**exceptional circumstances**” means an accident, a fire, an epidemic, severe weather, a failure in the supply of essential services or other unexpected happening (excluding a breakdown or mechanical defect in a vehicle or non-delivery of spare parts for a vehicle).
 
-### 21. Fees on appeals[^key-052ff6ed6189e1e36adbe931efb45c78]
+### 21. Fees on appeals[^c-052ff6ed6189e1e36adbe931efb45c78]
 
 (1) The fee payable on an appeal made in accordance with the provisions of Regulation 18 is the same amount as the fee payable under Regulation 20(1).
 
@@ -1027,11 +1027,11 @@ then the applicant may either—
 
 (4) A fee payable on an appeal in accordance with the foregoing provisions of this Regulation shall be payable notwithstanding that the vehicle is not submitted for examination in accordance with the provisions of Regulation 18:
 
-Provided that if the appellant has before the time fixed under Regulation 18 for the carrying out of the examination given the Secretary of State not less than two days' notice (whether in writing or otherwise) at the office of[^key-530961dc0f95f694024361297c8e48d9] DVSA[^key-7c3d09ffdb89a6e339257da66bb63448] at which his appeal was lodged or if he has been given such a notice as is specified in Regulation 18(2), at the address specified in that notice as the address to which any communication relating to the appeal is to be sent, that the appellant does not propose to submit the vehicle for examination at that time, the appeal shall be treated for the purposes of this Regulation as one in respect of which no fee is payable and any amount previously paid in respect of such a fee shall be repaid by the Secretary of State to the appellant unless another time is arranged for the carrying out of the examination.
+Provided that if the appellant has before the time fixed under Regulation 18 for the carrying out of the examination given the Secretary of State not less than two days' notice (whether in writing or otherwise) at the office of[^c-530961dc0f95f694024361297c8e48d9] DVSA[^c-7c3d09ffdb89a6e339257da66bb63448] at which his appeal was lodged or if he has been given such a notice as is specified in Regulation 18(2), at the address specified in that notice as the address to which any communication relating to the appeal is to be sent, that the appellant does not propose to submit the vehicle for examination at that time, the appeal shall be treated for the purposes of this Regulation as one in respect of which no fee is payable and any amount previously paid in respect of such a fee shall be repaid by the Secretary of State to the appellant unless another time is arranged for the carrying out of the examination.
 
 ## PART VI — OTHER MATTERS
 
-### 22. Other records to be kept and returns to be furnished[^key-84c090e4c5acdf2199aa980fd8a3bf61]
+### 22. Other records to be kept and returns to be furnished[^c-84c090e4c5acdf2199aa980fd8a3bf61]
 
 (1) Without prejudice to regulations 15, 16 and 18, authorised examiners, designated councils, inspectors and nominated testers shall, by electronic communication in the electronic record, or in such other form and by such other means as the Secretary of State may from time to time specify, record such particulars as may be so specified.
 
@@ -1041,13 +1041,13 @@ Provided that if the appellant has before the time fixed under Regulation 18 for
 
 (4) Records (other than the electronic record) under this regulation shall be kept for a period sufficient to ensure that, upon an inspection under regulation 24, particulars of any matter recorded within the period of 18 months preceding the date of the inspection are available for inspection.
 
-### 23. Duplicate test certificates[^key-f4a64368e3016918e5168df7e09b2bbd]
+### 23. Duplicate test certificates[^c-f4a64368e3016918e5168df7e09b2bbd]
 
 (1) If a test certificate has been lost or defaced, an application for the issue of a duplicate of the original certificate may, at any time before the end of the period of 18 months beginning with the date on which the examination to which the certificate relates was carried out, be made—
 
 - (a) at the vehicle testing station from which the original certificate was obtained,
 - (b) at any other vehicle testing station, or
-- (c) at any office of DVSA[^key-4d308e8ef45d695f73d82651852e979c].
+- (c) at any office of DVSA[^c-4d308e8ef45d695f73d82651852e979c].
 
 (2) The applicant shall provide with his application—
 
@@ -1058,13 +1058,13 @@ Provided that if the appellant has before the time fixed under Regulation 18 for
 (3) The person to whom an application is made under paragraph (1) shall—
 
 - (a) upon tracing sufficient particulars of the certificate to which the application relates to enable a duplicate to be issued; and
-- (b) on being paid the fee of £10,[^key-ca706d65b6ff6a162f072fa2a56a1516]
+- (b) on being paid the fee of £10,[^c-ca706d65b6ff6a162f072fa2a56a1516]
 
 issue a duplicate, marked “Duplicate”; and the duplicate so issued shall have the same effect as the original test certificate.
 
 (4) A duplicate issued under paragraph (3) need not be signed by the person who carried out the examination as the result of which the original certificate was obtained.
 
-### 23A. Correction of errors in records and test certificates[^key-530fb28cc29e48792b621fbaa0e369d3]
+### 23A. Correction of errors in records and test certificates[^c-530fb28cc29e48792b621fbaa0e369d3]
 
 (1) A person authorised in that behalf by the Secretary of State may, in accordance with the terms of his authorisation, correct an error in the records or in any test certificate.
 
@@ -1077,16 +1077,16 @@ issue a duplicate, marked “Duplicate”; and the duplicate so issued shall hav
 - (a) if appropriate, make an entry in the electronic record to reflect the correction; and
 - (b) where the correction is of an error in a test certificate, supply to the person who furnishes the certificate containing the error, the test certificate (as corrected) generated by the system supporting the electronic record.
 
-### 24. Inspection of premises, apparatus and records[^key-2327df840795c90f590f39855ed1e867]
+### 24. Inspection of premises, apparatus and records[^c-2327df840795c90f590f39855ed1e867]
 
-A person authorised by the Secretary of State[^key-5e2956bd077b9fe0b135f5c6e094c6bd] may at any time, during the normal working week on production if so required of his authority, enter any vehicle testing station of an authorised examiner or designated council[^key-47cc604d420dba002f664d79069d39ab] and upon such entry he shall be entitled to—
+A person authorised by the Secretary of State[^c-5e2956bd077b9fe0b135f5c6e094c6bd] may at any time, during the normal working week on production if so required of his authority, enter any vehicle testing station of an authorised examiner or designated council[^c-47cc604d420dba002f664d79069d39ab] and upon such entry he shall be entitled to—
 
 - (a) inspect the station and the apparatus provided at the station for the purpose of carrying out examinations and watch any examination which may be taking place including any part of the examination which is carried out on a road or elsewhere than at the station,
 - (b) satisfy himself as to the efficiency of such apparatus and, in the case of apparatus designed to give an indication of a measurement, to require evidence to be furnished to him that it will do so accurately within reasonable limits,
-- (c) inspect all records [^key-d781e958cbf7138d726fbd93587586f3]... [^key-d3dc54734de45ff8cad9d6d3f5c5d501]... which are required to be kept or preserved at that station in accordance with Regulation 22, and
+- (c) inspect all records [^c-d781e958cbf7138d726fbd93587586f3]... [^c-d3dc54734de45ff8cad9d6d3f5c5d501]... which are required to be kept or preserved at that station in accordance with Regulation 22, and
 - (d) be furnished with such information as he may reasonably require with respect to any of the said matters.
 
-### 24A. Return of apparatus and documents[^key-21f92e6a1feef4c4c74d00cd129e4d19]
+### 24A. Return of apparatus and documents[^c-21f92e6a1feef4c4c74d00cd129e4d19]
 
 (1) Without prejudice to regulation 11, the Secretary of State may at any time, by notice or electronic communication to an authorised examiner or designated council, require the examiner or council—
 
@@ -1100,11 +1100,11 @@ apparatus or documents supplied to the examiner or council, by or on behalf of t
 - (a) particular apparatus or apparatus of a description specified in the communication or notice;
 - (b) a particular document or documents of a description so specified.
 
-### 25. Charges for entries in the electronic record and payments on account[^key-dbe039d3e4eef76e966f64a821741bcb]
+### 25. Charges for entries in the electronic record and payments on account[^c-dbe039d3e4eef76e966f64a821741bcb]
 
 (1) An entry in the electronic record that the prescribed statutory requirements are complied with in relation to a vehicle shall not be made unless the authorised examiner or, as the case may be, the designated council at whose vehicle testing station the examination of the vehicle was carried out has paid to the Secretary of State the sum of £2.05[^M_F_85531333-7a98-4b73-e9f5-0bdad1e23e12].
 
-(2)[^key-31c2ecfbc564827f4e6e5f203ec11340] Every authorised examiner and every designated council shall make such payments to the Secretary of State in anticipation of charges that may become payable by them under paragraph (1) as will, in the opinion of the examiner or council, ensure that the requirements of regulation 15(1)(a) are capable of being met as regards examinations at each of their vehicle testing stations.
+(2)[^c-31c2ecfbc564827f4e6e5f203ec11340] Every authorised examiner and every designated council shall make such payments to the Secretary of State in anticipation of charges that may become payable by them under paragraph (1) as will, in the opinion of the examiner or council, ensure that the requirements of regulation 15(1)(a) are capable of being met as regards examinations at each of their vehicle testing stations.
 
 (3) Payments under paragraph (2)—
 
@@ -1122,19 +1122,19 @@ apparatus or documents supplied to the examiner or council, by or on behalf of t
 
 (3) The Secretary of State may waive any charge payable in respect of item 1 or item 2.
 
-(3A)[^key-177b19ae87cb23f42044c51d5cac2943] Item 2A shall be provided free of charge unless—
+(3A)[^c-177b19ae87cb23f42044c51d5cac2943] Item 2A shall be provided free of charge unless—
 
 - (a) the visit is necessary as a result of a failure on the part of the authorised examiner or, as the case may be, the designated council, to provide adequate access to the apparatus during the first (or previous visit); or
 - (b) the visit is attributable to the cancellation, by the authorised examiner or, as the case may be, the designated council, of an arrangement to assess, repair or replace apparatus at an earlier date.
 
 (3B) The Secretary of State may waive any charge payable in respect of item 2A.
 
-(4) Items 6 to 15 shall be provided free of charge where the apparatus to be replaced is unserviceable by reason of fair wear and tear or a defect at the time of supply[^key-09a6c98203d2b53244609a3885b80dbe].
+(4) Items 6 to 15 shall be provided free of charge where the apparatus to be replaced is unserviceable by reason of fair wear and tear or a defect at the time of supply[^c-09a6c98203d2b53244609a3885b80dbe].
 
 (5) Item 16 shall be provided free of charge except where the apparatus to be replaced—
 
-- (a) is unserviceable for reasons other than fair wear and tear or a defect at the time of supply[^key-6566cbb583f674407e8f56cbd41094e2]; and
-- (b) is the third (or subsequent) item of that description to have become unserviceable in the preceding five years for reasons other than fair wear and tear or a defect at the time of supply[^key-0344435f34cbec0cecdddf867e1c3036].
+- (a) is unserviceable for reasons other than fair wear and tear or a defect at the time of supply[^c-6566cbb583f674407e8f56cbd41094e2]; and
+- (b) is the third (or subsequent) item of that description to have become unserviceable in the preceding five years for reasons other than fair wear and tear or a defect at the time of supply[^c-0344435f34cbec0cecdddf867e1c3036].
 
 (6) Where, as respects apparatus of a description specified in column (1) of the Table in Schedule 3 to these Regulations—
 
@@ -1157,22 +1157,22 @@ the Secretary of State may, by notice to the person concerned, require the payme
 
 (3) Where unissued and cancelled forms for test certificates are returned to the Secretary of State because they have been spoilt or defaced, the Secretary of State may make a refund to the person or council concerned of such amount as he considers appropriate.
 
-### 26. Notices[^key-a04eef6078c628e97efa5b1c025c8a2c]
+### 26. Notices[^c-a04eef6078c628e97efa5b1c025c8a2c]
 
 Except as otherwise provided in these Regulations, every notice under these Regulations shall be—
 
 - (a) in writing, and
 - (b) if given by the Secretary of State to an examiner by post, addressed to the examiner at the registered office of the examiner if the examiner is a company and at the place specified in the authorisation of the examiner as his principal place of business in any other case.
 
-### 27. Computation of time[^key-cc7ce80f12aaf70e33c8c2fd86d63f98]
+### 27. Computation of time[^c-cc7ce80f12aaf70e33c8c2fd86d63f98]
 
-No period of time prescribed in these Regulations shall include any day which is a Saturday, Sunday, Good Friday, Christmas Day or[^key-a63dbb5c470eb8a5f67cd379fd9d8317] a bank holiday under the Banking and Financial Dealings Act 1971.
+No period of time prescribed in these Regulations shall include any day which is a Saturday, Sunday, Good Friday, Christmas Day or[^c-a63dbb5c470eb8a5f67cd379fd9d8317] a bank holiday under the Banking and Financial Dealings Act 1971.
 
-### 28. Certificates of temporary exemption[^key-3217a6c5f37a637220f347df67b7312e]
+### 28. Certificates of temporary exemption[^c-3217a6c5f37a637220f347df67b7312e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Access to particulars in the records[^key-db4815e87096a57e9c5fe076a9ca9669]
+### 29. Access to particulars in the records[^c-db4815e87096a57e9c5fe076a9ca9669]
 
 The Secretary of State may make particulars contained in the records (including the electronic record) available for use—
 
@@ -1188,7 +1188,7 @@ The Secretary of State may sell particulars contained in, or information derived
 
 if those particulars do not (or that information does not) identify the premises at which any examination was carried out or any person concerned with the carrying out of the examination.
 
-### 31. Review of the prescribed requirements for tests[^key-b98d6745afee5cdb0657cb372fdf4084]
+### 31. Review of the prescribed requirements for tests[^c-b98d6745afee5cdb0657cb372fdf4084]
 
 (1) The Secretary of State must—
 
@@ -1196,7 +1196,7 @@ if those particulars do not (or that information does not) identify the premises
 - (b) set out the conclusions of the review in a report; and
 - (c) publish a report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how, insofar as it relates the prescribed statutory requirements, Directive 2014/45/[^key-eb6eeb7f5088f1960576e2328f1faef1]EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers is implemented in other member States of the EU.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how, insofar as it relates the prescribed statutory requirements, Directive 2014/45/[^c-eb6eeb7f5088f1960576e2328f1faef1]EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers is implemented in other member States of the EU.
 
 (3) The report must in particular—
 
@@ -1214,7 +1214,7 @@ Secretary of State for Transport
 
 ## SCHEDULE 1 — SIGN TO BE DISPLAYED BY AUTHORISED EXAMINERS (see Regulation 9)
 
-### PART I — Diagram showing Size, Colour and Type of Sign to be Displayed by Authorised Examiners[^key-7100915fe4f5848672e305af9bab1d60]
+### PART I — Diagram showing Size, Colour and Type of Sign to be Displayed by Authorised Examiners[^c-7100915fe4f5848672e305af9bab1d60]
 
 **No longer in force.**
 
@@ -1222,13 +1222,13 @@ Secretary of State for Transport
 
 ### PART II — Conditions as to Erection of Sign shown in Part I of this Schedule
 
-**1.**[^key-e99a787de367b7117c6d9c4f11071c71] The sign shall be securely fixed against a wall of the vehicle testing station.
+**1.**[^c-e99a787de367b7117c6d9c4f11071c71] The sign shall be securely fixed against a wall of the vehicle testing station.
 
-**2.**[^key-dd6003746602ae4e71fef80d9df3ea66] The sign shall be so exhibited that no part thereof is above the fascia level of the vehicle testing station or above fifteen feet from the ground, whichever is the lower.
+**2.**[^c-dd6003746602ae4e71fef80d9df3ea66] The sign shall be so exhibited that no part thereof is above the fascia level of the vehicle testing station or above fifteen feet from the ground, whichever is the lower.
 
-**3.**[^key-2262b614d4c886bbf6dadada92ca072c] Not more than one sign shall be displayed on each road frontage.
+**3.**[^c-2262b614d4c886bbf6dadada92ca072c] Not more than one sign shall be displayed on each road frontage.
 
-## SCHEDULE 2[^key-1cfa207142827443d6b41ae2704a5fba]
+## SCHEDULE 2[^c-1cfa207142827443d6b41ae2704a5fba]
 
 ### 1. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASSES I AND II
 
@@ -1236,14 +1236,14 @@ Secretary of State for Transport
 
   |  |  |  |
   | --- | --- | --- |
-  | 1[^key-7dcd656df7d37fca66f462e6f991e3f2] | 16 and 18 | Braking |
+  | 1[^c-7dcd656df7d37fca66f462e6f991e3f2] | 16 and 18 | Braking |
   | 2 | 24, 26, 27 and 100(1) (insofar as it relates to the condition of the road wheels) | Wheels and Tyres |
   | 3 | 29 | Steering |
   | 4 | 37 | Audible Warning Instrument |
   | 4A | 39 and 100(1) (insofar as it relates to the security and condition of the fuel system components or, as the case may be, their maintenance so that no danger is likely to be caused) | Fuel Tanks and Pipes |
   | 5 | 54, 57 and 100(1) (insofar as it relates to the condition of the pipings, attachment brackets and mounting of the exhaust system) | Exhaust |
   | 5A | 67 | Vehicle Identification Number |
-  | 6 | 22 and[^key-4ba868a9ecdb19982bff8120143daafd] 100(1) (insofar as it relates to the condition of the vehicle structure, the chassis, frame and any sub-frame or any mounting or connection or part of the suspension, to the extent that such condition may prejudice the steering or braking of the vehicle) | Structure and Suspension |
+  | 6 | 22 and[^c-4ba868a9ecdb19982bff8120143daafd] 100(1) (insofar as it relates to the condition of the vehicle structure, the chassis, frame and any sub-frame or any mounting or connection or part of the suspension, to the extent that such condition may prejudice the steering or braking of the vehicle) | Structure and Suspension |
   | 6A | 100(1) (insofar as it relates to the clutch and engine speed control systems and their mountings or connections to the extent that such condition may prejudice the safe operation of the vehicle) | Clutch Lever and Throttle Control |
 - (b) The requirements contained in the following provisions of the Lighting Regulations:—
 
@@ -1256,11 +1256,11 @@ Secretary of State for Transport
   | 11 | 18 and 23 | Rear Retro Reflector |
   | 12 | 18 and 23 | Stop Lamp |
   | 13 | 18 and 23 | Direction Indicator |
-- (c)[^key-e4b9bafe3b3edffea2a9929d2f51a5a6] The requirements contained in the following provisions of the Road Vehicles (Display of Registration Marks) Regulations 2001:—
+- (c)[^c-e4b9bafe3b3edffea2a9929d2f51a5a6] The requirements contained in the following provisions of the Road Vehicles (Display of Registration Marks) Regulations 2001:—
 
   | Item No. | Regulations | Affecting |
   | --- | --- | --- |
-  | 13A | 4, 5, 7 and[^key-fbc1bdef7106298f5fb3325fd55958a0] 10[^key-572c2d9a5122120c54fdf88e33097333] to 15 | Rear Registration Plates and Marks |
+  | 13A | 4, 5, 7 and[^c-fbc1bdef7106298f5fb3325fd55958a0] 10[^c-572c2d9a5122120c54fdf88e33097333] to 15 | Rear Registration Plates and Marks |
 
 ### 2. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS III
 
@@ -1269,50 +1269,50 @@ Secretary of State for Transport
 
   | *Item No.* | *Regulations* | *Affecting* |
   | --- | --- | --- |
-  | 14 | 15 to 17, and 18[^key-5e5a93c727682e7b5fd88946cf49cf40] | Braking |
-  | 15 | 30 to 32[^key-1686b42b30c551e42d28a9e0397fe52b] | Glass and Field of Vision |
+  | 14 | 15 to 17, and 18[^c-5e5a93c727682e7b5fd88946cf49cf40] | Braking |
+  | 15 | 30 to 32[^c-1686b42b30c551e42d28a9e0397fe52b] | Glass and Field of Vision |
   | 16 | 33 | Mirrors |
   | 17 | 34 | Windscreen Cleaning |
   | 18 | 39 and 100(1) (insofar as it relates to the security and condition of the fuel system components or, as the case may be, their maintenance so that no danger is likely to be caused) | Fuel Tanks and Pipes |
-  | 19[^key-95b9436ac7b60cdaedbd304dd46deb6a] | 46, 47 and 48 | Seat Belts and Anchorages fitted in accordance with the said regulations 46 and 47 |
+  | 19[^c-95b9436ac7b60cdaedbd304dd46deb6a] | 46, 47 and 48 | Seat Belts and Anchorages fitted in accordance with the said regulations 46 and 47 |
   | 19A | 100(1) (insofar as it relates to the condition of the seat belts and anchorages) | Seat Belts, other than those referred to in item 19 above, and their anchorages |
   | 20 | 54 and 100(1) (insofar as it relates to the condition of the pipings, attachment brackets and mounting of the exhaust system) | Exhaust |
-  | 20A[^key-6055f4d5c9eae7f3c941edad2a324a10] | 66 | Plates |
+  | 20A[^c-6055f4d5c9eae7f3c941edad2a324a10] | 66 | Plates |
   | 21 | 67 | Vehicle Identification Number |
-  | 22 | 22 and 100(1) (insofar as it relates to the condition of the vehicle structure, the body , body fittings, interior fittings[^key-861ce204f91b1309b0c8dd2677fb8bce], the chassis, frame and any subframe or any mounting or connection or part of the suspension or any trailer coupling[^key-170678cbd54a21a763b59720713ce651], to the extent that such condition may prejudice the steering, braking or seat belt mounting of the vehicle or may otherwise cause danger) | Body, Body Fittings, Structure and Suspension |
+  | 22 | 22 and 100(1) (insofar as it relates to the condition of the vehicle structure, the body , body fittings, interior fittings[^c-861ce204f91b1309b0c8dd2677fb8bce], the chassis, frame and any subframe or any mounting or connection or part of the suspension or any trailer coupling[^c-170678cbd54a21a763b59720713ce651], to the extent that such condition may prejudice the steering, braking or seat belt mounting of the vehicle or may otherwise cause danger) | Body, Body Fittings, Structure and Suspension |
   | 23 | 100(1) (insofar as it relates to the condition of seats, doors and other openings, to the extent that such condition may cause danger) | Seats, Doors and Other Openings |
 - (c) The requirements contained in the following provisions of the Lighting Regulations:—
 
   | *Item No.* | *Regulations* | *Affecting* |
   | --- | --- | --- |
   | 24 | 18 and 23 | Rear Registration Plate Lamp |
-  | 25 | 18, 20 and 23[^key-7595671abd8460950e3842758c6c4e69] | Front and Rear Fog Lamps[^key-7c8fc2ec04c1aedb2f73cd17c190627a] |
+  | 25 | 18, 20 and 23[^c-7595671abd8460950e3842758c6c4e69] | Front and Rear Fog Lamps[^c-7c8fc2ec04c1aedb2f73cd17c190627a] |
   | 26 | 18 and 23 | Hazard Warning Signal Device |
-  | 26A[^key-f504de46353de3834e1e21c7f246d31a] | 18 and 23 | Reversing Lamp |
+  | 26A[^c-f504de46353de3834e1e21c7f246d31a] | 18 and 23 | Reversing Lamp |
   | 26B | 18 and 23 | Daytime Running Lamp |
-- (d)[^key-5619b371c4136f2963584ffdb61bb8b3] The requirements contained in the following provisions of the Road Vehicles (Display of Registration Marks) Regulations 2001:—
+- (d)[^c-5619b371c4136f2963584ffdb61bb8b3] The requirements contained in the following provisions of the Road Vehicles (Display of Registration Marks) Regulations 2001:—
 
   | Item No. | Regulations | Affecting |
   | --- | --- | --- |
-  | 27 | 4 to 7 and 10 to 15[^key-a074264cda36511ab23516f57636783e] | Registration Plates and Marks |
-- (e)[^key-8d494a6b2760d89dd0827ebaf4600c6c] The registration mark displayed on the vehicle is in accordance with the records held for that vehicle by the Secretary of State.
+  | 27 | 4 to 7 and 10 to 15[^c-a074264cda36511ab23516f57636783e] | Registration Plates and Marks |
+- (e)[^c-8d494a6b2760d89dd0827ebaf4600c6c] The registration mark displayed on the vehicle is in accordance with the records held for that vehicle by the Secretary of State.
 
 ### 3. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS IV
 
-- (a) The requirements specified in items 2 to 4, 7 to 13 and 14 to 27[^key-21d9427d8dbbdce971496f1fc482d471] in paragraphs 1 and 2 above.
-- (b) The requirements contained in the following provisions[^key-cdb218ca252e4bfe6456baac645f7cfb] of the Construction and Use Regulations:—
+- (a) The requirements specified in items 2 to 4, 7 to 13 and 14 to 27[^c-21d9427d8dbbdce971496f1fc482d471] in paragraphs 1 and 2 above.
+- (b) The requirements contained in the following provisions[^c-cdb218ca252e4bfe6456baac645f7cfb] of the Construction and Use Regulations:—
 
   | *Item No.* | *Regulations* | *Affecting* |
   | --- | --- | --- |
-  | 27A[^key-e809c8ad3f1bb3d5a219abfc727f8223] | 36A and 70A | Speed Limiters |
-  | 27B[^key-4c65e80d0b57d8315748993623041cf2] | 35 and 36 | Speedometer |
-  | 28 | 61 and 61A[^key-cc651c8cb06da96f2eae1ccfcc28d1f4] | Emissions and Emission Control Devices |
-  | 28XA[^key-8defd73559b3af742a25eed5e2721fb2] | 100(1) (insofar as it relates to the condition of the electrical wiring and its insulation, or how such wiring is secured to the vehicle). | Electrical wiring |
-  | 28XB | 100(1) (insofar as it relates to the condition of the battery[^key-c3b01de5cc6bf00e1d25c1073ce6fb30]... fitted to a vehicle, or how the battery is secured to the vehicle). | Batteries |
+  | 27A[^c-e809c8ad3f1bb3d5a219abfc727f8223] | 36A and 70A | Speed Limiters |
+  | 27B[^c-4c65e80d0b57d8315748993623041cf2] | 35 and 36 | Speedometer |
+  | 28 | 61 and 61A[^c-cc651c8cb06da96f2eae1ccfcc28d1f4] | Emissions and Emission Control Devices |
+  | 28XA[^c-8defd73559b3af742a25eed5e2721fb2] | 100(1) (insofar as it relates to the condition of the electrical wiring and its insulation, or how such wiring is secured to the vehicle). | Electrical wiring |
+  | 28XB | 100(1) (insofar as it relates to the condition of the battery[^c-c3b01de5cc6bf00e1d25c1073ce6fb30]... fitted to a vehicle, or how the battery is secured to the vehicle). | Batteries |
   | 28XC | 100(1) (insofar as it relates to the condition of the electrical connections between a vehicle and its trailer). | Electrical connection between a vehicle and its trailer. |
   | 28XD | 100(1) (insofar as it relates to the condition of a vehicle’s supplementary restraint system, including safety belt pre-tensioners, safety belt load limiters and air bags). | Supplementary restraint system |
   | 28XE | 100(1) (insofar as it relates to the condition of a vehicle’s Electronic Stability Control). | Electronic stability control |
-  | 28XF[^key-1eb6ca926114e8f3b6bc480aaf1ec8f3] | 100(1) (insofar as it relates to the condition of seats, doors and other openings, body fittings and interior fittings to the extent that such condition may cause danger) | Cab (including steps and step rings), seats, doors, other openings and driving controls |
+  | 28XF[^c-1eb6ca926114e8f3b6bc480aaf1ec8f3] | 100(1) (insofar as it relates to the condition of seats, doors and other openings, body fittings and interior fittings to the extent that such condition may cause danger) | Cab (including steps and step rings), seats, doors, other openings and driving controls |
   | 28XG | 100(1) (insofar as it relates to spare wheel and carrier, transmission, engine mountings and steering lock) | Spare wheel and carrier, transmission, engine mountings and steering lock |
   | 28XH | 100(1) (insofar as it relates to tyre pressure monitoring systems) | Tyre pressure monitoring systems |
 - (c) The requirements contained in the following provisions of the Lighting Regulations—
@@ -1321,9 +1321,9 @@ Secretary of State for Transport
   | --- | --- | --- |
   | 28XJ | 18 and 23 | End outline marker lamp |
 
-### 3A. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS IVA[^key-f6260a85d6b92c00dac533354b5d951e]
+### 3A. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS IVA[^c-f6260a85d6b92c00dac533354b5d951e]
 
-- (a) The requirements specified in items 2 to 4, 7 to 13, 14 to 28XJ[^key-0a5f6e1361984acbb21e41feb3fe2218] in paragraphs 1 to 3 above.
+- (a) The requirements specified in items 2 to 4, 7 to 13, 14 to 28XJ[^c-0a5f6e1361984acbb21e41feb3fe2218] in paragraphs 1 to 3 above.
 - (b) The requirements contained in the following provision of the Construction and Use Regulations:—
 
   | Item No. | Regulations | Affecting |
@@ -1332,34 +1332,34 @@ Secretary of State for Transport
 
 ### 4. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS V
 
-- (a) The requirements specified in items 2 to 4, 7 to 13, 16 to 22, 24 to 28XG, and 28XJ[^key-78af25744f7b383bb734f077a2879462] in paragraphs 1 to 3 above[^M_F_5d6f99eb-f0fd-4d4a-e634-d145f0ab331a].
+- (a) The requirements specified in items 2 to 4, 7 to 13, 16 to 22, 24 to 28XG, and 28XJ[^c-78af25744f7b383bb734f077a2879462] in paragraphs 1 to 3 above[^M_F_5d6f99eb-f0fd-4d4a-e634-d145f0ab331a].
 - (b) The requirements contained in the following provisions of the Construction and Use Regulations:—
 
   | *Item No.* | *Regulations* | *Affecting* |
   | --- | --- | --- |
   | 29 | 15, 16, 17 and 18 | Braking |
-  | 29A[^key-3147161d341c528243769d7e73c52ce6] | 25 | Tyre Load and Speed Ratings |
+  | 29A[^c-3147161d341c528243769d7e73c52ce6] | 25 | Tyre Load and Speed Ratings |
   | 30 | 30, 31 and 32 | Glass and Field of Vision |
-  | [^key-d57abd1d13b514b11db7d3aeec6aadb9]. . . | [^key-d57abd1d13b514b11db7d3aeec6aadb9]. . . | [^key-d57abd1d13b514b11db7d3aeec6aadb9]. . . |
-  | [^key-d210c0c6a6b7db73d5b5743946734a19]. . . | [^key-d210c0c6a6b7db73d5b5743946734a19]. . . | [^key-d210c0c6a6b7db73d5b5743946734a19]. . . |
+  | [^c-d57abd1d13b514b11db7d3aeec6aadb9]. . . | [^c-d57abd1d13b514b11db7d3aeec6aadb9]. . . | [^c-d57abd1d13b514b11db7d3aeec6aadb9]. . . |
+  | [^c-d210c0c6a6b7db73d5b5743946734a19]. . . | [^c-d210c0c6a6b7db73d5b5743946734a19]. . . | [^c-d210c0c6a6b7db73d5b5743946734a19]. . . |
   | 33 | 100(1) (insofar as it relates to the question whether the particulars opposite are fitted or, as the case may be, maintained so that no danger is likely to be caused) | Seats, driving controls, body, doors and other openings |
 
-### 4A. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VA[^key-894a9f54f7cc9a59e6553bdbb3169cd6]
+### 4A. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VA[^c-894a9f54f7cc9a59e6553bdbb3169cd6]
 
-The requirements specified in items 2 to 4, 7 to 13, 16 to 22, 24 to 28XG, 28XJ, and 29 to 33[^key-e3a5d86c50fd9b6f6339a31ad807f2d1] in paragraphs 1 to 4 above.
+The requirements specified in items 2 to 4, 7 to 13, 16 to 22, 24 to 28XG, 28XJ, and 29 to 33[^c-e3a5d86c50fd9b6f6339a31ad807f2d1] in paragraphs 1 to 4 above.
 
 ### 5. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VI
 
-- (a) The requirements specified in items 2 to 4, 7 to 13, 16 to 20, 22, 24 to 27B, 28 to 28XG, and 28XJ to 33[^key-547131d493aa182ad972ba22648ecd09] in paragraphs 1 to 4 above.
+- (a) The requirements specified in items 2 to 4, 7 to 13, 16 to 20, 22, 24 to 27B, 28 to 28XG, and 28XJ to 33[^c-547131d493aa182ad972ba22648ecd09] in paragraphs 1 to 4 above.
 - (b) The requirements contained in the following provisions of the Construction and Use Regulations:—
 
   | *Item No.* | *Regulations* | *Affecting* |
   | --- | --- | --- |
-  | [^key-89898e99de65048c3cdc4aefb948a027]... | [^key-89898e99de65048c3cdc4aefb948a027]... | [^key-89898e99de65048c3cdc4aefb948a027]... |
+  | [^c-89898e99de65048c3cdc4aefb948a027]... | [^c-89898e99de65048c3cdc4aefb948a027]... | [^c-89898e99de65048c3cdc4aefb948a027]... |
   | 35 | 60 | Radio Interference Suppression |
   | 36 | 62 | Closets, etc |
   | 37 | 100(1) (insofar as it relates to the question whether the particulars opposite are fitted or, as the case may be, maintained so that no danger is likely to be caused) | Spare wheel carrier, means of coupling trailers, chassis, wiring, engine mounting, transmission, battery, shock absorbers, bumpers, doors, seats, driving controls and security of glass in windows and mirrors |
-  | 37A[^key-5e293b0b5953c9376c06ddd756c9e500] | 100(1) (insofar as it relates to the question whether the particulars opposite are fitted or, as the case may be, maintained so that no danger is likely to be caused) | Wheelchair restraining devices |
+  | 37A[^c-5e293b0b5953c9376c06ddd756c9e500] | 100(1) (insofar as it relates to the question whether the particulars opposite are fitted or, as the case may be, maintained so that no danger is likely to be caused) | Wheelchair restraining devices |
   | 37B | 100(1) (insofar as it relates to the question whether the particulars opposite are fitted or, as the case may be, maintained so that no danger is likely to be caused) | Features associated with wheelchairs, boarding devices (lifts, ramps), optical devices (to allow the driver to see the boarding area), signs and markings, communication devices, slip resistant surfaces, steps, floors and gangways, kneeling systems, lighting which is intended for wheelchair users to board or alight in safety |
   | 38 | 109 | Television sets |
 - (c) For those vehicles certified in accordance with the Public Service Vehicles (Conditions of Fitness, Equipment, Use and Certification) Regulations 1981, the requirements contained in the following provisions of those Regulations:—
@@ -1413,20 +1413,20 @@ The requirements specified in items 2 to 4, 7 to 13, 16 to 22, 24 to 28XG, 28XJ,
   | --- | --- | --- |
   | 77 | I | Fire Extinguishing Apparatus |
   | 78 | II | First Aid Equipment |
-- (e)[^key-b6f214a1115d90fd6bddab8f58b26cd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f) The requirements of the EU Tachographs Regulation[^key-89b768418d5905759e4c170c61926fca] insofar as they relate to the installation of recording equipment and the seals to be affixed to such equipment.
+- (e)[^c-b6f214a1115d90fd6bddab8f58b26cd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f) The requirements of the EU Tachographs Regulation[^c-89b768418d5905759e4c170c61926fca] insofar as they relate to the installation of recording equipment and the seals to be affixed to such equipment.
 
-### 5A. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VIA[^key-d07b52fbe445612eebbfcf3a10fef238]
+### 5A. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VIA[^c-d07b52fbe445612eebbfcf3a10fef238]
 
-- (a) The requirements specified in items 2 to 4[^key-63c6d4e812cb7114d92de3304c07472a], 7 to 13, 16 to 20 to 22, 24 to 28XG, 28XJ to 38 and 79 in paragraphs 1 to 5 above.
+- (a) The requirements specified in items 2 to 4[^c-63c6d4e812cb7114d92de3304c07472a], 7 to 13, 16 to 20 to 22, 24 to 28XG, 28XJ to 38 and 79 in paragraphs 1 to 5 above.
 - (b) For minibuses of a type mentioned in regulation 41 of the Construction and Use Regulations, the requirements specified in items 64 to 78 in paragraph 5 above.
-- (c) The requirements of the EU Tachographs Regulation[^key-c86cdacf00b607691f192b8b3c9cbf56] insofar as they relate to the installation of recording equipment and the seals to be affixed to such equipment.
+- (c) The requirements of the EU Tachographs Regulation[^c-c86cdacf00b607691f192b8b3c9cbf56] insofar as they relate to the installation of recording equipment and the seals to be affixed to such equipment.
 
 ### 6. THE PRESCRIBED STATUTORY REQUIREMENTS FOR VEHICLES IN CLASS VII
 
-The requirements specified in items 2 to 4, 7 to 13, 15 to 28XG, and 28XJ to 29A[^key-57cec2f2d2db702d6df6a72c06e9913a] in paragraphs 1 to 4 above[^M_F_47ecca20-062a-4455-db42-fca4f37574d9].
+The requirements specified in items 2 to 4, 7 to 13, 15 to 28XG, and 28XJ to 29A[^c-57cec2f2d2db702d6df6a72c06e9913a] in paragraphs 1 to 4 above[^M_F_47ecca20-062a-4455-db42-fca4f37574d9].
 
-## SCHEDULE 3 — CHARGES FOR PURPOSES OF REGULATION 25A[^key-feec2d96c9e90a94590a4cd25eb0908a]
+## SCHEDULE 3 — CHARGES FOR PURPOSES OF REGULATION 25A[^c-feec2d96c9e90a94590a4cd25eb0908a]
 
 <table>
 <thead>
@@ -1455,9 +1455,9 @@ The requirements specified in items 2 to 4, 7 to 13, 15 to 28XG, and 28XJ to 29A
 </tbody>
 </table>
 
-[^key-c2cf55c27644ee365bfdaedc4aba8e53]
+[^c-c2cf55c27644ee365bfdaedc4aba8e53]
 
-## SCHEDULE 4 — REGULATIONS REVOKED BY REGULATION 2[^key-6909bcf3a0fa6368e6999513637d5d56]
+## SCHEDULE 4 — REGULATIONS REVOKED BY REGULATION 2[^c-6909bcf3a0fa6368e6999513637d5d56]
 
 |  |  |
 | --- | --- |
@@ -1495,626 +1495,626 @@ These fees are reduced in certain cases as provided in Regulation 20(3) for vehi
 
 [^f00001]: Footnote: So far as 1972 c.20 is concerned, by S.I. 1979/571 and 1981/238.
 
-[^key-11af7393cd5201b97e7d5da194518845]: Commencement: Reg. 1 in force at 31.12.1981, see reg. 1
+[^c-11af7393cd5201b97e7d5da194518845]: Commencement: Reg. 1 in force at 31.12.1981, see reg. 1
 
-[^key-1c9efb42ae09b23088f7315e69cbc321]: Commencement: Reg. 2 in force at 31.12.1981, see reg. 1
+[^c-1c9efb42ae09b23088f7315e69cbc321]: Commencement: Reg. 2 in force at 31.12.1981, see reg. 1
 
-[^key-11edf53cd1af335a84bcf55f86d244a0]: Commencement: Reg. 3 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-11edf53cd1af335a84bcf55f86d244a0]: Commencement: Reg. 3 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-abab7b0074117b8318d9626889ce9a3a]: Textual amendment: Words in reg. 3(1) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-abab7b0074117b8318d9626889ce9a3a]: Textual amendment: Words in reg. 3(1) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-736b122ee2cbebad11955795337ab484]: Textual amendment: Words in reg. 3(1) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(i)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/i)
+[^c-736b122ee2cbebad11955795337ab484]: Textual amendment: Words in reg. 3(1) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(i)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/i)
 
-[^key-ff5eb78365f6b1455ddfc46ecafd977b]: Textual amendment: Words in reg. 3(1) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/ii)
+[^c-ff5eb78365f6b1455ddfc46ecafd977b]: Textual amendment: Words in reg. 3(1) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/ii)
 
-[^key-e716fff86ebd02a04df806a6b54b5b33]: Textual amendment: Words in reg. 3(1) inserted (1.3.1985) by [The Motor Vehicles (Tests) (Amendment) Regulations 1985 (S.I. 1985/45)](https://www.legislation.gov.uk/uksi/1985/45), [regs. 1](https://www.legislation.gov.uk/uksi/1985/45/regulation/1), [3](https://www.legislation.gov.uk/uksi/1985/45/regulation/3)
+[^c-e716fff86ebd02a04df806a6b54b5b33]: Textual amendment: Words in reg. 3(1) inserted (1.3.1985) by [The Motor Vehicles (Tests) (Amendment) Regulations 1985 (S.I. 1985/45)](https://www.legislation.gov.uk/uksi/1985/45), [regs. 1](https://www.legislation.gov.uk/uksi/1985/45/regulation/1), [3](https://www.legislation.gov.uk/uksi/1985/45/regulation/3)
 
-[^key-0f8d2a4e8e05e79c043ea1b74775b71d]: Textual amendment: Words in reg. 3(1) inserted (26.6.2000) by [The Motor Vehicles (Tests) (Amendment) Regulations 2000 (S.I. 2000/1432)](https://www.legislation.gov.uk/uksi/2000/1432), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1432/regulation/1), [3](https://www.legislation.gov.uk/uksi/2000/1432/regulation/3)
+[^c-0f8d2a4e8e05e79c043ea1b74775b71d]: Textual amendment: Words in reg. 3(1) inserted (26.6.2000) by [The Motor Vehicles (Tests) (Amendment) Regulations 2000 (S.I. 2000/1432)](https://www.legislation.gov.uk/uksi/2000/1432), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1432/regulation/1), [3](https://www.legislation.gov.uk/uksi/2000/1432/regulation/3)
 
-[^key-1e92ace0c5149916c415ae9688f96b64]: Textual amendment: Word in reg. 3(1) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/3/a/i)
+[^c-1e92ace0c5149916c415ae9688f96b64]: Textual amendment: Word in reg. 3(1) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [3(a)(i)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/3/a/i)
 
-[^key-37aefd09edf58a932e35220b1021b0cd]: Textual amendment: Words in reg. 3(1) inserted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(iii)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/iii)
+[^c-37aefd09edf58a932e35220b1021b0cd]: Textual amendment: Words in reg. 3(1) inserted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(iii)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/iii)
 
-[^key-e9b41eadf0bd9fbd0729b9ebc851bdda]: Textual amendment: Words in reg. 3(1) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/3/a/ii)
+[^c-e9b41eadf0bd9fbd0729b9ebc851bdda]: Textual amendment: Words in reg. 3(1) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [3(a)(ii)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/3/a/ii)
 
-[^key-e83aef42178f4635ba16ac5b3366aabc]: Textual amendment: Words in reg. 3(1) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/850/regulation/3)
+[^c-e83aef42178f4635ba16ac5b3366aabc]: Textual amendment: Words in reg. 3(1) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/850/regulation/3)
 
-[^key-244cd2f95f530ac69e78bee226154db2]: Textual amendment: Words in reg. 3(1) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/3/b)
+[^c-244cd2f95f530ac69e78bee226154db2]: Textual amendment: Words in reg. 3(1) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/3/b)
 
-[^key-bf8cad315b2df46962cb367ea161ca40]: Textual amendment: Words in reg. 3(1) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-bf8cad315b2df46962cb367ea161ca40]: Textual amendment: Words in reg. 3(1) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-fe157cf8e871f52be97fbafff0de014d]: Textual amendment: Words in reg. 3(1) omitted (26.3.2019) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/2/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114))
+[^c-fe157cf8e871f52be97fbafff0de014d]: Textual amendment: Words in reg. 3(1) omitted (26.3.2019) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/2/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114))
 
-[^key-6ed0394f23df4e8d6b1ac4bddccedfe4]: Textual amendment: Words in reg. 3(1) inserted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(iv)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/iv)
+[^c-6ed0394f23df4e8d6b1ac4bddccedfe4]: Textual amendment: Words in reg. 3(1) inserted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(a)(iv)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/a/iv)
 
-[^key-5448a64c41236c6300b9eda2cebf6307]: Textual amendment: Words in reg. 3(1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-5448a64c41236c6300b9eda2cebf6307]: Textual amendment: Words in reg. 3(1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-0c4db0a83e97778352407a83ea53de22]: Textual amendment: Words in reg. 3(1) inserted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/2/b)
+[^c-0c4db0a83e97778352407a83ea53de22]: Textual amendment: Words in reg. 3(1) inserted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/2/b)
 
-[^key-c15d6dcf3be865c3ae4cb0588880c6cb]: Textual amendment: Words in reg. 3(1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/2/b)
+[^c-c15d6dcf3be865c3ae4cb0588880c6cb]: Textual amendment: Words in reg. 3(1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/2/b)
 
-[^key-54db423b9fbb1f39aac8a0072686a186]: Textual amendment: Words in reg. 3(1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-54db423b9fbb1f39aac8a0072686a186]: Textual amendment: Words in reg. 3(1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-68f43c54b26c6b5d73b38e49d61fa0f3]: Textual amendment: Words in reg. 3(1) substituted (1.11.1983) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983 (S.I. 1983/1434)](https://www.legislation.gov.uk/uksi/1983/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1434/regulation/1), [3](https://www.legislation.gov.uk/uksi/1983/1434/regulation/3)
+[^c-68f43c54b26c6b5d73b38e49d61fa0f3]: Textual amendment: Words in reg. 3(1) substituted (1.11.1983) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983 (S.I. 1983/1434)](https://www.legislation.gov.uk/uksi/1983/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1434/regulation/1), [3](https://www.legislation.gov.uk/uksi/1983/1434/regulation/3)
 
-[^key-37853fa9ec7ae3a47a734176572ee8fa]: Textual amendment: Words in reg. 3(1) substituted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/81/regulation/3/2)
+[^c-37853fa9ec7ae3a47a734176572ee8fa]: Textual amendment: Words in reg. 3(1) substituted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/81/regulation/3/2)
 
-[^key-925db177255aed7c283f8a1a9d827f90]: Textual amendment: Words in reg. 3(1) omitted (1.11.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/a), [8](https://www.legislation.gov.uk/uksi/1991/1525/regulation/8)
+[^c-925db177255aed7c283f8a1a9d827f90]: Textual amendment: Words in reg. 3(1) omitted (1.11.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/a), [8](https://www.legislation.gov.uk/uksi/1991/1525/regulation/8)
 
-[^key-de41d8402f643ec5cc7bd7be813df984]: Textual amendment: Words in reg. 3(1) inserted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1997/81/regulation/3/4)
+[^c-de41d8402f643ec5cc7bd7be813df984]: Textual amendment: Words in reg. 3(1) inserted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/1997/81/regulation/3/4)
 
-[^key-9f9a094d7db6e4e75dfd00a0ab8dd68d]: Textual amendment: Words in reg. 3(1) substituted (1.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/449/regulation/3)
+[^c-9f9a094d7db6e4e75dfd00a0ab8dd68d]: Textual amendment: Words in reg. 3(1) substituted (1.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/449/regulation/3)
 
-[^key-aa92732df73ce2f3a27871c0e53213b8]: Textual amendment: Words in reg. 3(1) inserted (1.12.1982) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1982 (S.I. 1982/1477)](https://www.legislation.gov.uk/uksi/1982/1477), [regs. 1](https://www.legislation.gov.uk/uksi/1982/1477/regulation/1), [3](https://www.legislation.gov.uk/uksi/1982/1477/regulation/3)
+[^c-aa92732df73ce2f3a27871c0e53213b8]: Textual amendment: Words in reg. 3(1) inserted (1.12.1982) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1982 (S.I. 1982/1477)](https://www.legislation.gov.uk/uksi/1982/1477), [regs. 1](https://www.legislation.gov.uk/uksi/1982/1477/regulation/1), [3](https://www.legislation.gov.uk/uksi/1982/1477/regulation/3)
 
-[^key-4f93e9293198a60c6dd4938afc7e8e1a]: Textual amendment: Words in reg. 3(1) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/1698/regulation/3)
+[^c-4f93e9293198a60c6dd4938afc7e8e1a]: Textual amendment: Words in reg. 3(1) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/1698/regulation/3)
 
-[^key-f008eda22a4bb6357293a5134e7189a0]: Textual amendment: Words in reg. 3(1) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-f008eda22a4bb6357293a5134e7189a0]: Textual amendment: Words in reg. 3(1) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/1/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-4ad488b158167737dff6d1b6cf45d835]: Textual amendment: Words in reg. 3(1) substituted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1997/81/regulation/3/3)
+[^c-4ad488b158167737dff6d1b6cf45d835]: Textual amendment: Words in reg. 3(1) substituted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/1997/81/regulation/3/3)
 
-[^key-34fa13400180437ea6b62a8d92a2be99]: Textual amendment: Words in reg. 3(1) omitted (1.4.2014) by virtue of [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/2/a)
+[^c-34fa13400180437ea6b62a8d92a2be99]: Textual amendment: Words in reg. 3(1) omitted (1.4.2014) by virtue of [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/2/a)
 
-[^key-1bdfc19f74a833b0d6ea35392f2bb57a]: Textual amendment: Words in reg. 3(1) inserted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/2)
+[^c-1bdfc19f74a833b0d6ea35392f2bb57a]: Textual amendment: Words in reg. 3(1) inserted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/2)
 
-[^key-5eb7ee8081f930045c6a6a43bc1cecb0]: Textual amendment: Words in reg. 3(5) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/b)
+[^c-5eb7ee8081f930045c6a6a43bc1cecb0]: Textual amendment: Words in reg. 3(5) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [3(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/3/b)
 
-[^key-d61d6238e8cd230f27d9932a6b7ad70c]: Textual amendment: Reg. 3(6) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-d61d6238e8cd230f27d9932a6b7ad70c]: Textual amendment: Reg. 3(6) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/3/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-b814ae5111f54d831e6ed1ddd110140b]: Commencement: Reg. 4 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-b814ae5111f54d831e6ed1ddd110140b]: Commencement: Reg. 4 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-93a2dc75603c773deecb36f9ced5786d]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/4/1) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/1991/253/regulation/4/a)
+[^c-93a2dc75603c773deecb36f9ced5786d]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/4/1) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/1991/253/regulation/4/a)
 
-[^key-5c609479132a6316b7031cce1d8c03f6]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/4/2) substituted (1.1.1992) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2229)](https://www.legislation.gov.uk/uksi/1991/2229), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/1/1/a), [9](https://www.legislation.gov.uk/uksi/1991/2229/regulation/9)
+[^c-5c609479132a6316b7031cce1d8c03f6]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/4/2) substituted (1.1.1992) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2229)](https://www.legislation.gov.uk/uksi/1991/2229), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/1/1/a), [9](https://www.legislation.gov.uk/uksi/1991/2229/regulation/9)
 
-[^key-7c0f68b23b7de8642035a09a9a8501e9]: Textual amendment: Words in reg. 4(2) Table inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/4/a)
+[^c-7c0f68b23b7de8642035a09a9a8501e9]: Textual amendment: Words in reg. 4(2) Table inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/4/a)
 
-[^key-df4606c9520d528cd2e244fb4c154b55]: Textual amendment: Words in reg. 4(2) Table inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/4/b)
+[^c-df4606c9520d528cd2e244fb4c154b55]: Textual amendment: Words in reg. 4(2) Table inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/4/b)
 
-[^key-8169d7b60bdb956d6dac7f368e37dbde]: Textual amendment: Words in reg. 4(2) Table inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/4/c)
+[^c-8169d7b60bdb956d6dac7f368e37dbde]: Textual amendment: Words in reg. 4(2) Table inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/4/c)
 
-[^key-f2b54a697b8152a685ce20bbc33f3e86]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/4/4) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [4(c)](https://www.legislation.gov.uk/uksi/1991/253/regulation/4/c)
+[^c-f2b54a697b8152a685ce20bbc33f3e86]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/4/4) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [4(c)](https://www.legislation.gov.uk/uksi/1991/253/regulation/4/c)
 
-[^key-57aaf4ce8024109e00914091c5faf2af]: Commencement: Reg. 5 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-57aaf4ce8024109e00914091c5faf2af]: Commencement: Reg. 5 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-bb2b54501bbaa466faf5bf3533b5a87a]: Textual amendment: Reg. 5(1) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/4/a)
+[^c-bb2b54501bbaa466faf5bf3533b5a87a]: Textual amendment: Reg. 5(1) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/4/a)
 
-[^key-c71f540243028c868c9be97ecc502a53]: Textual amendment: Reg. 5(1)(j) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/3/a)
+[^c-c71f540243028c868c9be97ecc502a53]: Textual amendment: Reg. 5(1)(j) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/3/a)
 
-[^key-09efd3c6962d7d3f1eb889e4f0de5f56]: Textual amendment: Words in reg. 5(3) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/5/3)
+[^c-09efd3c6962d7d3f1eb889e4f0de5f56]: Textual amendment: Words in reg. 5(3) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/5/3)
 
-[^key-0b8a988d7414a086f15956aa95b258cd]: Textual amendment: Words in reg. 5(3) substituted (30.8.1984) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984 (S.I. 1984/1126)](https://www.legislation.gov.uk/uksi/1984/1126), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1126/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1984/1126/regulation/3/b)
+[^c-0b8a988d7414a086f15956aa95b258cd]: Textual amendment: Words in reg. 5(3) substituted (30.8.1984) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984 (S.I. 1984/1126)](https://www.legislation.gov.uk/uksi/1984/1126), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1126/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1984/1126/regulation/3/b)
 
-[^key-de01a2e7fbd39d09d21e39fd558fc2a1]: Textual amendment: Words in reg. 5(3)(a) substituted (20.10.1986) by [The Transport Act 1985 (Commencement No. 6) Order 1986 (S.I. 1986/1794)](https://www.legislation.gov.uk/uksi/1986/1794), [reg. 6](https://www.legislation.gov.uk/uksi/1986/1794/regulation/6)
+[^c-de01a2e7fbd39d09d21e39fd558fc2a1]: Textual amendment: Words in reg. 5(3)(a) substituted (20.10.1986) by [The Transport Act 1985 (Commencement No. 6) Order 1986 (S.I. 1986/1794)](https://www.legislation.gov.uk/uksi/1986/1794), [reg. 6](https://www.legislation.gov.uk/uksi/1986/1794/regulation/6)
 
-[^key-14cc4c4fae4e6ec8dd682226c6f6628c]: Textual amendment: Words in reg. 5(3)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/6)
+[^c-14cc4c4fae4e6ec8dd682226c6f6628c]: Textual amendment: Words in reg. 5(3)(b) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Local and Subordinate Legislation) Order 2010 (S.I. 2010/1172)](https://www.legislation.gov.uk/uksi/2010/1172), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/1172/article/1/1), [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2010/1172/schedule/3/paragraph/6)
 
-[^key-66adf3f26889066f76dd7f7719672589]: Textual amendment: Reg. 5(3)(c) and word added (14.7.1987) by [The Transport Act 1985 (Commencement No.7) Order 1987 (S.I. 1987/1228)](https://www.legislation.gov.uk/uksi/1987/1228), [reg. 3](https://www.legislation.gov.uk/uksi/1987/1228/regulation/3)
+[^c-66adf3f26889066f76dd7f7719672589]: Textual amendment: Reg. 5(3)(c) and word added (14.7.1987) by [The Transport Act 1985 (Commencement No.7) Order 1987 (S.I. 1987/1228)](https://www.legislation.gov.uk/uksi/1987/1228), [reg. 3](https://www.legislation.gov.uk/uksi/1987/1228/regulation/3)
 
-[^key-fd30fbdbb36fc6a616ed99c9bc52983c]: Textual amendment: Reg. 5(4)(5) added (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/5/4)
+[^c-fd30fbdbb36fc6a616ed99c9bc52983c]: Textual amendment: Reg. 5(4)(5) added (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/5/4)
 
-[^key-ec0b78e7430b1dc49549f9e7b7d26d61]: Textual amendment: Reg. 5(6) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/4/b)
+[^c-ec0b78e7430b1dc49549f9e7b7d26d61]: Textual amendment: Reg. 5(6) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/4/b)
 
-[^key-809ada7706153b01c83327b59077e619]: Textual amendment: Words in reg. 5(6)(b) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/3/b)
+[^c-809ada7706153b01c83327b59077e619]: Textual amendment: Words in reg. 5(6)(b) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/3/b)
 
-[^key-d086af04da1514d3ef7d628be41a24bc]: Textual amendment: Words in reg. 5(6)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/8/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-d086af04da1514d3ef7d628be41a24bc]: Textual amendment: Words in reg. 5(6)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 8(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/8/2) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-fb946fabded59ef11ef16746e886ee6e]: Commencement: Reg. 6 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-fb946fabded59ef11ef16746e886ee6e]: Commencement: Reg. 6 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-b6b4330413c9d94d3c1725688119b508]: Modification: Reg. 6(1) modified (1.4.1992) by [The Retention of Registration Marks Regulations 1992 (S.I. 1992/510)](https://www.legislation.gov.uk/uksi/1992/510), [regs. 1](https://www.legislation.gov.uk/uksi/1992/510/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/1992/510/regulation/12/3)
+[^c-b6b4330413c9d94d3c1725688119b508]: Modification: Reg. 6(1) modified (1.4.1992) by [The Retention of Registration Marks Regulations 1992 (S.I. 1992/510)](https://www.legislation.gov.uk/uksi/1992/510), [regs. 1](https://www.legislation.gov.uk/uksi/1992/510/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/1992/510/regulation/12/3)
 
-[^key-290db52ec2229b30e6e4861c0d06f93c]: Textual amendment: Reg. 6(1)(v) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(a)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/a)
+[^c-290db52ec2229b30e6e4861c0d06f93c]: Textual amendment: Reg. 6(1)(v) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(a)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/a)
 
-[^key-c2a7b8453a87bae11ac1b58145ac29b5]: Textual amendment: Words in reg. 6(1)(v) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/4)
+[^c-c2a7b8453a87bae11ac1b58145ac29b5]: Textual amendment: Words in reg. 6(1)(v) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/501/regulation/2/4)
 
-[^key-6d0cf8c0cec78687561a13136bef5fe9]: Textual amendment: Reg. 6(1)(vii) substituted (1.7.1995) by [The Motor Vehicles (Tests) (Amendment) Regulations 1995 (S.I. 1995/1457)](https://www.legislation.gov.uk/uksi/1995/1457), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1457/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/1457/regulation/2/2)
+[^c-6d0cf8c0cec78687561a13136bef5fe9]: Textual amendment: Reg. 6(1)(vii) substituted (1.7.1995) by [The Motor Vehicles (Tests) (Amendment) Regulations 1995 (S.I. 1995/1457)](https://www.legislation.gov.uk/uksi/1995/1457), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1457/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/1457/regulation/2/2)
 
-[^key-ba981543e338e2bfbfdcce9a6b687952]: Textual amendment: Words in reg. 6(1)(xiv) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/8/2/a)
+[^c-ba981543e338e2bfbfdcce9a6b687952]: Textual amendment: Words in reg. 6(1)(xiv) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/8/2/a)
 
-[^key-f4564ae8a5523188e4999e025b1deb82]: Textual amendment: Reg. 6(1)(xivA) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/6)
+[^c-f4564ae8a5523188e4999e025b1deb82]: Textual amendment: Reg. 6(1)(xivA) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/6)
 
-[^key-da2d7e3e357a7c6cc6915e37cff874d4]: Textual amendment: Reg. 6(1)(xvii) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/b)
+[^c-da2d7e3e357a7c6cc6915e37cff874d4]: Textual amendment: Reg. 6(1)(xvii) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/b)
 
-[^key-ef46fec5e968494a61258d0ea9f00cbd]: Textual amendment: Words in reg. 6(1)(xvii) inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/25/regulation/3/2)
+[^c-ef46fec5e968494a61258d0ea9f00cbd]: Textual amendment: Words in reg. 6(1)(xvii) inserted (1.9.2018) by [The Goods and Motor Vehicles (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/25)](https://www.legislation.gov.uk/uksi/2018/25), [regs. 1](https://www.legislation.gov.uk/uksi/2018/25/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/25/regulation/3/2)
 
-[^key-a75314ad983d738d54a33a19d834ed01]: Textual amendment: Word in reg. 6(1) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(c)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/c)
+[^c-a75314ad983d738d54a33a19d834ed01]: Textual amendment: Word in reg. 6(1) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(c)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/c)
 
-[^key-034876a3905a079e3a68a416490a3dcd]: Textual amendment: Words in reg. 6(1)(xix) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-034876a3905a079e3a68a416490a3dcd]: Textual amendment: Words in reg. 6(1)(xix) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/4/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-8b56ef9e6b2feb023fe9175c0fc33f89]: Textual amendment: Reg. 6(1)(xx) added (1.3.1985) by [The Motor Vehicles (Tests) (Amendment) Regulations 1985 (S.I. 1985/45)](https://www.legislation.gov.uk/uksi/1985/45), [regs. 1](https://www.legislation.gov.uk/uksi/1985/45/regulation/1), [4](https://www.legislation.gov.uk/uksi/1985/45/regulation/4)
+[^c-8b56ef9e6b2feb023fe9175c0fc33f89]: Textual amendment: Reg. 6(1)(xx) added (1.3.1985) by [The Motor Vehicles (Tests) (Amendment) Regulations 1985 (S.I. 1985/45)](https://www.legislation.gov.uk/uksi/1985/45), [regs. 1](https://www.legislation.gov.uk/uksi/1985/45/regulation/1), [4](https://www.legislation.gov.uk/uksi/1985/45/regulation/4)
 
-[^key-57910dba496298117588d0af582fc952]: Textual amendment: Reg. 6(1)(xxi)-(xxiii) added (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(c)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/c)
+[^c-57910dba496298117588d0af582fc952]: Textual amendment: Reg. 6(1)(xxi)-(xxiii) added (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(1)(c)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/1/c)
 
-[^key-7e520bb16878d6e3acb5e058293827dc]: Textual amendment: Reg. 6(1)(xxi)(b) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/a)
+[^c-7e520bb16878d6e3acb5e058293827dc]: Textual amendment: Reg. 6(1)(xxi)(b) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/a)
 
-[^key-e351612f1f8703406b24fa0eb7fc4212]: Textual amendment: Reg. 6(1)(xxii)(xxiii) omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/b)
+[^c-e351612f1f8703406b24fa0eb7fc4212]: Textual amendment: Reg. 6(1)(xxii)(xxiii) omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/b)
 
-[^key-9359372ad5eceb25d4b822aa7d997e64]: Textual amendment: Reg. 6(1)(xxiv)(xxv) added (1.7.1992) by [Tramcars and Trolley Vehicles (Modification of Enactments) Regulations 1992 (S.I. 1992/1217)](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1217/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/1992/1217/regulation/12/a)
+[^c-9359372ad5eceb25d4b822aa7d997e64]: Textual amendment: Reg. 6(1)(xxiv)(xxv) added (1.7.1992) by [Tramcars and Trolley Vehicles (Modification of Enactments) Regulations 1992 (S.I. 1992/1217)](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1217/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/1992/1217/regulation/12/a)
 
-[^key-2a448dba4533873fd131e37e26ad3cb7]: Textual amendment: Word in reg. 6(1)(xxiv) omitted (18.11.2012) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2652)](https://www.legislation.gov.uk/uksi/2012/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2652/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/2652/regulation/3/2)
+[^c-2a448dba4533873fd131e37e26ad3cb7]: Textual amendment: Word in reg. 6(1)(xxiv) omitted (18.11.2012) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2652)](https://www.legislation.gov.uk/uksi/2012/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2652/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/2652/regulation/3/2)
 
-[^key-0426035c63174d0421e46c8551ce89dc]: Textual amendment: Reg. 6(1)(xxv): full stop omitted (18.11.2012) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2652)](https://www.legislation.gov.uk/uksi/2012/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2652/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2012/2652/regulation/3/3)
+[^c-0426035c63174d0421e46c8551ce89dc]: Textual amendment: Reg. 6(1)(xxv): full stop omitted (18.11.2012) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2652)](https://www.legislation.gov.uk/uksi/2012/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2652/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2012/2652/regulation/3/3)
 
-[^key-39f0e20ee6494557df999da67762ecb7]: Textual amendment: Reg. 6(1)(xxvi) and word inserted (18.11.2012) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2652)](https://www.legislation.gov.uk/uksi/2012/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2652/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2012/2652/regulation/3/3)
+[^c-39f0e20ee6494557df999da67762ecb7]: Textual amendment: Reg. 6(1)(xxvi) and word inserted (18.11.2012) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2652)](https://www.legislation.gov.uk/uksi/2012/2652), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2652/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2012/2652/regulation/3/3)
 
-[^key-6c473c3c835f610950106baa988ffcf8]: Textual amendment: Reg. 6(1)(xxvi) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/c)
+[^c-6c473c3c835f610950106baa988ffcf8]: Textual amendment: Reg. 6(1)(xxvi) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/c)
 
-[^key-b2d8eaee679bf585d7f2e80e7b58e948]: Textual amendment: Reg. 6(1)(xxvii)(xxviii) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/d)
+[^c-b2d8eaee679bf585d7f2e80e7b58e948]: Textual amendment: Reg. 6(1)(xxvii)(xxviii) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2017/850/regulation/5/d)
 
-[^key-6018da09f2494bd2b81b46ccab7634c1]: Textual amendment: Reg. 6(1)(xxix) and semicolon inserted (31.3.2020) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/382)](https://www.legislation.gov.uk/uksi/2020/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/382/regulation/2/2)
+[^c-6018da09f2494bd2b81b46ccab7634c1]: Textual amendment: Reg. 6(1)(xxix) and semicolon inserted (31.3.2020) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/382)](https://www.legislation.gov.uk/uksi/2020/382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/382/regulation/2/2)
 
-[^key-8a5707a927c1894d1a66d83cd336f85a]: Textual amendment: Reg. 6(1)(xxix) revoked (30.9.2021) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/382)](https://www.legislation.gov.uk/uksi/2020/382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2020/382/regulation/3)
+[^c-8a5707a927c1894d1a66d83cd336f85a]: Textual amendment: Reg. 6(1)(xxix) revoked (30.9.2021) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/382)](https://www.legislation.gov.uk/uksi/2020/382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2020/382/regulation/3)
 
-[^key-d4056b949df9eded86b1f1d914bfec09]: Textual amendment: Reg. 6(1A) inserted (1.7.1995) by [The Motor Vehicles (Tests) (Amendment) Regulations 1995 (S.I. 1995/1457)](https://www.legislation.gov.uk/uksi/1995/1457), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1457/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/1457/regulation/2/3)
+[^c-d4056b949df9eded86b1f1d914bfec09]: Textual amendment: Reg. 6(1A) inserted (1.7.1995) by [The Motor Vehicles (Tests) (Amendment) Regulations 1995 (S.I. 1995/1457)](https://www.legislation.gov.uk/uksi/1995/1457), [regs. 1](https://www.legislation.gov.uk/uksi/1995/1457/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/1995/1457/regulation/2/3)
 
-[^key-23809a8cb4e822e93f3bfe6b0eb70503]: Textual amendment: Reg. 6(1B) revoked (30.9.2021) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/382)](https://www.legislation.gov.uk/uksi/2020/382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2020/382/regulation/3)
+[^c-23809a8cb4e822e93f3bfe6b0eb70503]: Textual amendment: Reg. 6(1B) revoked (30.9.2021) by [The Motor Vehicles (Tests) (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/382)](https://www.legislation.gov.uk/uksi/2020/382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/382/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2020/382/regulation/3)
 
-[^key-3e5af17cabaf63605d38a28e710225ed]: Textual amendment: Words in reg. 6(3) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(2)(a)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/2/a)
+[^c-3e5af17cabaf63605d38a28e710225ed]: Textual amendment: Words in reg. 6(3) substituted (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(2)(a)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/2/a)
 
-[^key-4ffd7c7c20ac1f480138e390f037d860]: Textual amendment: Word in reg. 6(3)(a) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1672/regulation/6)
+[^c-4ffd7c7c20ac1f480138e390f037d860]: Textual amendment: Word in reg. 6(3)(a) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1672/regulation/6)
 
-[^key-bb48ef4c5907b9bd1c4c7f16300144c1]: Textual amendment: Words in reg. 6(3) added (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/2/b)
+[^c-bb48ef4c5907b9bd1c4c7f16300144c1]: Textual amendment: Words in reg. 6(3) added (18.3.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/6/2/b)
 
-[^key-bdf1acaab523328aee5155ecf36f5b9c]: Textual amendment: Words in reg. 6(3)(b) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/850/regulation/6)
+[^c-bdf1acaab523328aee5155ecf36f5b9c]: Textual amendment: Words in reg. 6(3)(b) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/850/regulation/6)
 
-[^key-ae7f2ff9106492ed2e6a4350cccef687]: Textual amendment: Words in reg. 6(4) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/4/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-ae7f2ff9106492ed2e6a4350cccef687]: Textual amendment: Words in reg. 6(4) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/4/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-3ac36abb699c54c1af54ad8c6ffeb8cb]: Textual amendment: Words in reg. 6(4) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/4/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-3ac36abb699c54c1af54ad8c6ffeb8cb]: Textual amendment: Words in reg. 6(4) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/4/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-33c64c562ec3a8a14f6bc35631e72917]: Textual amendment: Words in reg. 6(5) inserted (1.7.1992) by [Tramcars and Trolley Vehicles (Modification of Enactments) Regulations 1992 (S.I. 1992/1217)](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1217/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/1992/1217/regulation/12/b)
+[^c-33c64c562ec3a8a14f6bc35631e72917]: Textual amendment: Words in reg. 6(5) inserted (1.7.1992) by [Tramcars and Trolley Vehicles (Modification of Enactments) Regulations 1992 (S.I. 1992/1217)](https://www.legislation.gov.uk/uksi/1992/1217), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1217/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/1992/1217/regulation/12/b)
 
-[^key-9159cffde69704194c2c232793258c8b]: Textual amendment: Words in reg. 6(5) substituted (1.11.1983) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983 (S.I. 1983/1434)](https://www.legislation.gov.uk/uksi/1983/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1434/regulation/1), [4](https://www.legislation.gov.uk/uksi/1983/1434/regulation/4)
+[^c-9159cffde69704194c2c232793258c8b]: Textual amendment: Words in reg. 6(5) substituted (1.11.1983) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983 (S.I. 1983/1434)](https://www.legislation.gov.uk/uksi/1983/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1434/regulation/1), [4](https://www.legislation.gov.uk/uksi/1983/1434/regulation/4)
 
-[^key-bb9240f73b74617022828c04bfc7e38a]: Textual amendment: Words in reg. 6(5) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/8/2/b)
+[^c-bb9240f73b74617022828c04bfc7e38a]: Textual amendment: Words in reg. 6(5) substituted (16.1.2012) by [The Local Policing Bodies (Consequential Amendments) Regulations 2011 (S.I. 2011/3058)](https://www.legislation.gov.uk/uksi/2011/3058), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2011/3058/regulation/8/2/b)
 
-[^key-bf5e07a576bbbf1d1426b9e1cdc3aa36]: Textual amendment: Words in reg. 6(5) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/850/regulation/7)
+[^c-bf5e07a576bbbf1d1426b9e1cdc3aa36]: Textual amendment: Words in reg. 6(5) inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/850/regulation/7)
 
-[^key-7bf600da15a5e42bd6da21b1c76bd313]: Textual amendment: Words in reg. 6(5) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/8/3) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-7bf600da15a5e42bd6da21b1c76bd313]: Textual amendment: Words in reg. 6(5) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/8/3) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-8d0a85cfe22178722ad6f414ee58b756]: Textual amendment: Pt. 2 (regs. 7, 7A, 8, 8A-8F, 9-11) substituted for Pt. 2 (regs. 7-11) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2003/1113/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2003/1113/schedule) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [25](https://www.legislation.gov.uk/uksi/2003/1113/regulation/25))
+[^c-8d0a85cfe22178722ad6f414ee58b756]: Textual amendment: Pt. 2 (regs. 7, 7A, 8, 8A-8F, 9-11) substituted for Pt. 2 (regs. 7-11) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2003/1113/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2003/1113/schedule) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [25](https://www.legislation.gov.uk/uksi/2003/1113/regulation/25))
 
-[^key-d9ead4e561be46f4773b0ae7c5ba7864]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/7/3) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/3)
+[^c-d9ead4e561be46f4773b0ae7c5ba7864]: Textual amendment: Word in [reg. 7(3)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/7/3) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/3)
 
-[^key-a14f9de8b46b5453f1ed36fdf9e4104f]: Textual amendment: Word in [reg. 7A(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/7A/2) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/4)
+[^c-a14f9de8b46b5453f1ed36fdf9e4104f]: Textual amendment: Word in [reg. 7A(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/7A/2) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/4)
 
-[^key-0e1794c3fb473e313b04534a2432c9be]: Textual amendment: Word in [reg. 8A(a)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8A/a/ii) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/5)
+[^c-0e1794c3fb473e313b04534a2432c9be]: Textual amendment: Word in [reg. 8A(a)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8A/a/ii) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/5)
 
-[^key-9c7e7bff12a2e704f1227a3d506457c8]: Textual amendment: Word in [reg. 8B(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8B/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/6)
+[^c-9c7e7bff12a2e704f1227a3d506457c8]: Textual amendment: Word in [reg. 8B(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8B/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/6)
 
-[^key-685bff457b256130b0b66c67dff87f0b]: Textual amendment: Word in [reg. 8C(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8C/b) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/7)
+[^c-685bff457b256130b0b66c67dff87f0b]: Textual amendment: Word in [reg. 8C(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8C/b) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/7)
 
-[^key-5d13d7cb98e17d647e8c1684fc8a1122]: Textual amendment: Word in [reg. 8C(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8C/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/7)
+[^c-5d13d7cb98e17d647e8c1684fc8a1122]: Textual amendment: Word in [reg. 8C(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8C/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/7)
 
-[^key-a893539d15f762943d0c265288726be9]: Textual amendment: Word in [reg. 8D(a)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8D/a/ii) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/8)
+[^c-a893539d15f762943d0c265288726be9]: Textual amendment: Word in [reg. 8D(a)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8D/a/ii) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/8)
 
-[^key-ded0497461ad8566047fbb6e9c7b1d9b]: Textual amendment: Word in [reg. 8D(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8D/b) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/8)
+[^c-ded0497461ad8566047fbb6e9c7b1d9b]: Textual amendment: Word in [reg. 8D(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8D/b) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(8)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/8)
 
-[^key-f81c98a9e0aee317f82e72457e5a3449]: Textual amendment: Word in [reg. 8E(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8E/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/9)
+[^c-f81c98a9e0aee317f82e72457e5a3449]: Textual amendment: Word in [reg. 8E(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/8E/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/9)
 
-[^key-9782e51826b04c97de96850f3fbf8972]: Textual amendment: Word in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/9/1/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-9782e51826b04c97de96850f3fbf8972]: Textual amendment: Word in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/9/1/b) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
-[^key-761f59d4b1c6dbf0ef163746db50599e]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/9/1/b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-761f59d4b1c6dbf0ef163746db50599e]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/9/1/b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-ef04ed676622fd559f8415dd3a5ac70c]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/9/1/c) substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2007/1898/schedule/1/paragraph/7)
+[^c-ef04ed676622fd559f8415dd3a5ac70c]: Textual amendment: Words in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/9/1/c) substituted (1.10.2007) by [The Mental Capacity Act 2005 (Transitional and Consequential Provisions) Order 2007 (S.I. 2007/1898)](https://www.legislation.gov.uk/uksi/2007/1898), [art. 1](https://www.legislation.gov.uk/uksi/2007/1898/article/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2007/1898/schedule/1/paragraph/7)
 
-[^key-4e41c4f80de4b09009b8aea57b6efcf3]: Textual amendment: Pt. 3 Table omitted (31.10.1989) by virtue of [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/3/1)
+[^c-4e41c4f80de4b09009b8aea57b6efcf3]: Textual amendment: Pt. 3 Table omitted (31.10.1989) by virtue of [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/3/1)
 
-[^key-2a75dd62008a8f07081bbf42d0a29dae]: Commencement: Reg. 12 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-2a75dd62008a8f07081bbf42d0a29dae]: Commencement: Reg. 12 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-e5885760c03e9e537a41b663f36ffb48]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/1672/regulation/7)
+[^c-e5885760c03e9e537a41b663f36ffb48]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/1672/regulation/7)
 
-[^key-edfc2c80a7bda73f56200ab3e701b171]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1) substituted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/3/2/a)
+[^c-edfc2c80a7bda73f56200ab3e701b171]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1) substituted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/3/2/a)
 
-[^key-0ce295ff47aec9f04a91129469a41bba]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1A) inserted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/3/2/b)
+[^c-0ce295ff47aec9f04a91129469a41bba]: Textual amendment: [Reg. 12(1A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1A) inserted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/3/2/b)
 
-[^key-24bc646d522bc79cadd99144c044347d]: Textual amendment: Words in [reg. 12(1A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/1672/regulation/7)
+[^c-24bc646d522bc79cadd99144c044347d]: Textual amendment: Words in [reg. 12(1A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/1A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/1672/regulation/7)
 
-[^key-704fcdf7547d5103c392585238f1bba5]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/2) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/1672/regulation/7)
+[^c-704fcdf7547d5103c392585238f1bba5]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/2) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/1672/regulation/7)
 
-[^key-03432f396f251781c8e4fd104deb058b]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/2) Table inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-03432f396f251781c8e4fd104deb058b]: Textual amendment: Word in [reg. 12(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/2) Table inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-8f1f87094ba1b5612447ca5aaaa4fc79]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/3) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-8f1f87094ba1b5612447ca5aaaa4fc79]: Textual amendment: Word in [reg. 12(3)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/3) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-f2376362b17367ec15df75b2dc969102]: Textual amendment: Words in reg. 12(3)(a) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-f2376362b17367ec15df75b2dc969102]: Textual amendment: Words in reg. 12(3)(a) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-a8b776ba1ff4cdba2e85a2592db78ba9]: Textual amendment: Words in reg. 12(3)(b) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-a8b776ba1ff4cdba2e85a2592db78ba9]: Textual amendment: Words in reg. 12(3)(b) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-2cdc82528e710e4842b7caf0182fa944]: Textual amendment: Words in [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/3/c) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/1698/regulation/4)
+[^c-2cdc82528e710e4842b7caf0182fa944]: Textual amendment: Words in [reg. 12(3)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/3/c) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/1698/regulation/4)
 
-[^key-5dd7233c0cd249918ca2385c5310b96b]: Textual amendment: Word in reg. 12(4) inserted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-5dd7233c0cd249918ca2385c5310b96b]: Textual amendment: Word in reg. 12(4) inserted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-7d83b491617bea98e8a722fc5497c7a3]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/5) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(d)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/d/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-7d83b491617bea98e8a722fc5497c7a3]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/5) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(d)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/d/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-42547cefc171f5b1785aec2d9150ebb7]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/5) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/1)
+[^c-42547cefc171f5b1785aec2d9150ebb7]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/5) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/1)
 
-[^key-24dd9075e272d4768b9709590e5b4174]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/5) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(d)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/d/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-24dd9075e272d4768b9709590e5b4174]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/5) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(d)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/d/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-4331cd11195134f57dc135ce6303bb63]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/6) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(e)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/e/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-4331cd11195134f57dc135ce6303bb63]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/6) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(e)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/e/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-5c1db2d882ce9dfc028ada40bbb22c01]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/6) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(e)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/e/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-5c1db2d882ce9dfc028ada40bbb22c01]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/6) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(e)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/e/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-8c7e05fea1921d1ee49baad7d9cf7ab9]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/6) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(e)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/e/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-8c7e05fea1921d1ee49baad7d9cf7ab9]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/12/6) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [6(e)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/6/e/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-65d41b33869e3e81f3c99df27a0c5852]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1981/1694/regulation/13) substituted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/1698/regulation/5)
+[^c-65d41b33869e3e81f3c99df27a0c5852]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1981/1694/regulation/13) substituted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [5](https://www.legislation.gov.uk/uksi/2003/1698/regulation/5)
 
-[^key-fbb5fb6a5bab4f23c0f2fef2dbe5323f]: Textual amendment: Words in [reg. 13(1)(m)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/13/1/m) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/a)
+[^c-fbb5fb6a5bab4f23c0f2fef2dbe5323f]: Textual amendment: Words in [reg. 13(1)(m)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/13/1/m) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/a)
 
-[^key-9272f062865d80b7dd6ccd458019f6f1]: Commencement: Reg. 14 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-9272f062865d80b7dd6ccd458019f6f1]: Commencement: Reg. 14 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-b531a0a211d81ea75c5970d2ec1fceb7]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-b531a0a211d81ea75c5970d2ec1fceb7]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-27cfc97b62d2e67d9ca137e0e4172115]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/2/2)
+[^c-27cfc97b62d2e67d9ca137e0e4172115]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/2/2)
 
-[^key-07c4d9e9acbc73ba4c9eef0b292e6992]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1/a) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-07c4d9e9acbc73ba4c9eef0b292e6992]: Textual amendment: Words in [reg. 14(1)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1/a) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-a74ebc5976fd8a0f9922a593724dc766]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1A) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-a74ebc5976fd8a0f9922a593724dc766]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/1A) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-992aafce3b994e2550ad00efed3ae081]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/2) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-992aafce3b994e2550ad00efed3ae081]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/2) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(d)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/d) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-9f811595cf9235673d6ab8afb99e962e]: Textual amendment: Word in reg. 14(3) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-9f811595cf9235673d6ab8afb99e962e]: Textual amendment: Word in reg. 14(3) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(e)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/e) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-ebfbc3258b9019d0dc0ce98db00b9470]: Textual amendment: Word in [reg. 14(4)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/a) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(f)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/f/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-ebfbc3258b9019d0dc0ce98db00b9470]: Textual amendment: Word in [reg. 14(4)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/a) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(f)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/f/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-eaa5f3cd216c44a2f98750c93b3008a8]: Textual amendment: Word in [reg. 14(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/2/4/a)
+[^c-eaa5f3cd216c44a2f98750c93b3008a8]: Textual amendment: Word in [reg. 14(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/2/4/a)
 
-[^key-703234281db2987df2a8f89511fe9fff]: Textual amendment: Words in [reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/b) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/2/4/a)
+[^c-703234281db2987df2a8f89511fe9fff]: Textual amendment: Words in [reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/b) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 2(4)(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/2/4/a)
 
-[^key-feb6b3df828330c6fb8c5213eecef96b]: Textual amendment: Words in [reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/b) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(f)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/f/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-feb6b3df828330c6fb8c5213eecef96b]: Textual amendment: Words in [reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/b) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(f)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/f/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-4fd882022b4d837b1372b5a1036e0f24]: Textual amendment: Words in [reg. 14(4)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/c) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(f)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/f/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-4fd882022b4d837b1372b5a1036e0f24]: Textual amendment: Words in [reg. 14(4)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/14/4/c) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [8(f)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/8/f/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-199262bb688869b7e396f24c02b0a8c8]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1981/1694/regulation/15) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/1113/regulation/9) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a)[(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
+[^c-199262bb688869b7e396f24c02b0a8c8]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1981/1694/regulation/15) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/1113/regulation/9) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a)[(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
 
-[^key-1360c344d844e5b9e4bae999f102cc31]: Commencement: Reg. 16 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-1360c344d844e5b9e4bae999f102cc31]: Commencement: Reg. 16 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-fe99e166348c864fb7ff7fc2ef3a0224]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/1) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/a/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
+[^c-fe99e166348c864fb7ff7fc2ef3a0224]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/1) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/a/i) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
 
-[^key-979318c9b429d47d26d4b98a33d0d6d8]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/1) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/4/a)
+[^c-979318c9b429d47d26d4b98a33d0d6d8]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/1) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/4/a)
 
-[^key-3eaf8e2883e7b4df3b2dc94e84f41ad1]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/a/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
+[^c-3eaf8e2883e7b4df3b2dc94e84f41ad1]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/1) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/a/ii) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
 
-[^key-0fceed641f71a68b02c8647090fb9078]: Textual amendment: [Reg. 16(2)-(2D)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/2) substituted for [reg. 16(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/2) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a)[(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
+[^c-0fceed641f71a68b02c8647090fb9078]: Textual amendment: [Reg. 16(2)-(2D)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/2) substituted for [reg. 16(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/2) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a)[(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
 
-[^key-971196ead24d899d2a62315158c1ab5f]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/4) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
+[^c-971196ead24d899d2a62315158c1ab5f]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/16/4) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/10/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(2)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/2))
 
-[^key-1250d03d329c0835c8e9ef450dd88045]: Commencement: Reg. 17 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-1250d03d329c0835c8e9ef450dd88045]: Commencement: Reg. 17 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-7752787649995c36429c1c1e9681894c]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/1) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-7752787649995c36429c1c1e9681894c]: Textual amendment: Word in [reg. 17(1)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/1) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-6ca36b3f3b9b018f0d54357b26742b1e]: Textual amendment: Word in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/a) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-6ca36b3f3b9b018f0d54357b26742b1e]: Textual amendment: Word in [reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/a) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/b/i) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-9a93b4d013a2d12bea956b685ac1c410]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/5/a)
+[^c-9a93b4d013a2d12bea956b685ac1c410]: Textual amendment: Word in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/5/a)
 
-[^key-d67889ee0fbca41c566bd086a9b09c17]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/b) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/5/a)
+[^c-d67889ee0fbca41c566bd086a9b09c17]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/b) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 5(a)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/5/a)
 
-[^key-713817b2b2629248f40d975285793e74]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/b) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-713817b2b2629248f40d975285793e74]: Textual amendment: Words in [reg. 17(2)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/b) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/b/ii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-14eeaa58b060c90bf1d0a98b37bfff85]: Textual amendment: [Reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/c) inserted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/5/b)
+[^c-14eeaa58b060c90bf1d0a98b37bfff85]: Textual amendment: [Reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/c) inserted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 5(b)](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/5/b)
 
-[^key-e0d778342933e0dbad0142caa9d116d5]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/c) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-e0d778342933e0dbad0142caa9d116d5]: Textual amendment: Words in [reg. 17(2)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/17/2/c) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/11/b/iii) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-d98ab93d1dfd451ec5038eabab6c740e]: Commencement: Reg. 18 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-d98ab93d1dfd451ec5038eabab6c740e]: Commencement: Reg. 18 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-c6d3898a93415429613c7135f991f522]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/18/1/b) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/12/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-c6d3898a93415429613c7135f991f522]: Textual amendment: Words in [reg. 18(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/18/1/b) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/12/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-699e94dad60fadd64cac257d43b739fd]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/18/4) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/6)
+[^c-699e94dad60fadd64cac257d43b739fd]: Textual amendment: Word in [reg. 18(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/18/4) omitted (9.10.1995) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/6)
 
-[^key-84acd52f8913d8ed5e82301de2eff141]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/18/4/a) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/12/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-84acd52f8913d8ed5e82301de2eff141]: Textual amendment: Words in [reg. 18(4)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/18/4/a) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/12/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-582977bf17cb90f547ae8005740ddcd3]: Textual amendment: Reg. 18(5)-(6A) substituted for reg. 18(5)(6) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/12/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a))
+[^c-582977bf17cb90f547ae8005740ddcd3]: Textual amendment: Reg. 18(5)-(6A) substituted for reg. 18(5)(6) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/12/c) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a))
 
-[^key-8ff74a21c6364713c8bdac8d8d8c9f61]: Commencement: Reg. 19 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-8ff74a21c6364713c8bdac8d8d8c9f61]: Commencement: Reg. 19 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-609f5ce3bb98120f65ad8b924799ff61]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/1981/1694/regulation/19) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2003/1113/regulation/13) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-609f5ce3bb98120f65ad8b924799ff61]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/1981/1694/regulation/19) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2003/1113/regulation/13) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-5e2328e829c55d26f720315ad21c4567]: Commencement: Reg. 20 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-5e2328e829c55d26f720315ad21c4567]: Commencement: Reg. 20 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-18b5f94a00493dbfd4544514a4fed9d1]: Textual amendment: Reg. 20(1) substituted (1.8.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/4/a)
+[^c-18b5f94a00493dbfd4544514a4fed9d1]: Textual amendment: Reg. 20(1) substituted (1.8.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/b), [4(a)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/4/a)
 
-[^key-3fd67e4c35cbc0bcac69d5b23a72f187]: Textual amendment: Sum in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/a) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-3fd67e4c35cbc0bcac69d5b23a72f187]: Textual amendment: Sum in [reg. 20(1)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/a) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-a2fb78595e1925b4b136cd29471cd326]: Textual amendment: Reg. 20(1)(aa)(b) substituted for reg. 20(1)(b) (1.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1992 (S.I. 1992/1609)](https://www.legislation.gov.uk/uksi/1992/1609), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1992/1609/regulation/1/a), [4](https://www.legislation.gov.uk/uksi/1992/1609/regulation/4)
+[^c-a2fb78595e1925b4b136cd29471cd326]: Textual amendment: Reg. 20(1)(aa)(b) substituted for reg. 20(1)(b) (1.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1992 (S.I. 1992/1609)](https://www.legislation.gov.uk/uksi/1992/1609), [regs. 1(a)](https://www.legislation.gov.uk/uksi/1992/1609/regulation/1/a), [4](https://www.legislation.gov.uk/uksi/1992/1609/regulation/4)
 
-[^key-818b9c24deb6c3e1b585fcc311d20189]: Textual amendment: Sum in [reg. 20(1)(aa)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/aa) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-818b9c24deb6c3e1b585fcc311d20189]: Textual amendment: Sum in [reg. 20(1)(aa)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/aa) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-e705cd240555e64bb12117a14ccc311c]: Textual amendment: Sum in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/b) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-e705cd240555e64bb12117a14ccc311c]: Textual amendment: Sum in [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/b) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-47adbdf7920b004c56c732b83d0b6eee]: Textual amendment: Reg. 20(1)(c)(ca) substituted for reg. 20(1)(c) (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/3/a)
+[^c-47adbdf7920b004c56c732b83d0b6eee]: Textual amendment: Reg. 20(1)(c)(ca) substituted for reg. 20(1)(c) (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/3/a)
 
-[^key-78bb4c64f027a35bfcc3169409774473]: Textual amendment: Sum in [reg. 20(1)(c)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/c/i) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-78bb4c64f027a35bfcc3169409774473]: Textual amendment: Sum in [reg. 20(1)(c)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/c/i) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-427420ed96d5e2246c05e799ed882903]: Textual amendment: Sum in [reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/c/ii) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-427420ed96d5e2246c05e799ed882903]: Textual amendment: Sum in [reg. 20(1)(c)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/c/ii) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-1ba0a8f8e12493a1d0b7d6da7b418649]: Textual amendment: Sum in [reg. 20(1)(ca)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ca) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-1ba0a8f8e12493a1d0b7d6da7b418649]: Textual amendment: Sum in [reg. 20(1)(ca)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ca) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-742565c3ebdfc5ef797824de99d2172e]: Textual amendment: Reg. 20(1)(d)(da) substituted for reg. 20(1)(d) (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/3/b)
+[^c-742565c3ebdfc5ef797824de99d2172e]: Textual amendment: Reg. 20(1)(d)(da) substituted for reg. 20(1)(d) (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/3/b)
 
-[^key-b2cd331fef75dfd0bb09abe3982d42e6]: Textual amendment: Word in [reg. 20(1)(d)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/d/i) substituted (1.8.2002) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1698)](https://www.legislation.gov.uk/uksi/2002/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1698/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/1698/regulation/3/2)
+[^c-b2cd331fef75dfd0bb09abe3982d42e6]: Textual amendment: Word in [reg. 20(1)(d)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/d/i) substituted (1.8.2002) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1698)](https://www.legislation.gov.uk/uksi/2002/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1698/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/1698/regulation/3/2)
 
-[^key-23c0080ec2c355d0a3bc803a0332ae4a]: Textual amendment: Sum in [reg. 20(1)(d)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/d/i) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-23c0080ec2c355d0a3bc803a0332ae4a]: Textual amendment: Sum in [reg. 20(1)(d)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/d/i) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-375f8fce6ae4c276ab75c863ce54b633]: Textual amendment: Sum in [reg. 20(1)(d)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/d/ii) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-375f8fce6ae4c276ab75c863ce54b633]: Textual amendment: Sum in [reg. 20(1)(d)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/d/ii) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-974719a60d7a76d46bfac1d1f08fc72b]: Textual amendment: Word in [reg. 20(1)(da)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/da/i) substituted (1.8.2002) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1698)](https://www.legislation.gov.uk/uksi/2002/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1698/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/1698/regulation/3/2)
+[^c-974719a60d7a76d46bfac1d1f08fc72b]: Textual amendment: Word in [reg. 20(1)(da)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/da/i) substituted (1.8.2002) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1698)](https://www.legislation.gov.uk/uksi/2002/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1698/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2002/1698/regulation/3/2)
 
-[^key-a40ba751c08cc6fd137080ac932b19b9]: Textual amendment: Sum in [reg. 20(1)(da)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/da/i) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-a40ba751c08cc6fd137080ac932b19b9]: Textual amendment: Sum in [reg. 20(1)(da)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/da/i) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-3366e90ba836f86173d56082a625079f]: Textual amendment: Sum in [reg. 20(1)(da)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/da/ii) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-3366e90ba836f86173d56082a625079f]: Textual amendment: Sum in [reg. 20(1)(da)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/da/ii) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-658dd87f2d9a40ffe0379d941dfe84e9]: Textual amendment: [Reg. 20(1)(e)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/e)[(ea)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ea) substituted (1.4.2012) by [The Motor Vehicles (Tests) (Amendment) Regulations 2012 (S.I. 2012/307)](https://www.legislation.gov.uk/uksi/2012/307), [regs. 1](https://www.legislation.gov.uk/uksi/2012/307/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/307/regulation/3/2)
+[^c-658dd87f2d9a40ffe0379d941dfe84e9]: Textual amendment: [Reg. 20(1)(e)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/e)[(ea)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ea) substituted (1.4.2012) by [The Motor Vehicles (Tests) (Amendment) Regulations 2012 (S.I. 2012/307)](https://www.legislation.gov.uk/uksi/2012/307), [regs. 1](https://www.legislation.gov.uk/uksi/2012/307/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/307/regulation/3/2)
 
-[^key-99f25b0b7f6655b89f125d0110b54d77]: Textual amendment: Sum in [reg. 20(1)(e)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/e/i) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/2)
+[^c-99f25b0b7f6655b89f125d0110b54d77]: Textual amendment: Sum in [reg. 20(1)(e)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/e/i) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/2)
 
-[^key-0bd43d55204b3cbbfad6b5a99601b409]: Textual amendment: Sum in [reg. 20(1)(e)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/e/ii) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/3)
+[^c-0bd43d55204b3cbbfad6b5a99601b409]: Textual amendment: Sum in [reg. 20(1)(e)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/e/ii) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/3)
 
-[^key-ae788587e1b434f138587a63729902c4]: Textual amendment: Sum in [reg. 20(1)(ea)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ea/i) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/4)
+[^c-ae788587e1b434f138587a63729902c4]: Textual amendment: Sum in [reg. 20(1)(ea)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ea/i) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/4)
 
-[^key-c6d088873f077379b98472c535cdcf5e]: Textual amendment: Sum in [reg. 20(1)(ea)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ea/ii) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/5)
+[^c-c6d088873f077379b98472c535cdcf5e]: Textual amendment: Sum in [reg. 20(1)(ea)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/ea/ii) substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/5)
 
-[^key-5a44b17fdb5c0f68610099db835c66be]: Textual amendment: Sum in [reg. 20(1)(f)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/f) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
+[^c-5a44b17fdb5c0f68610099db835c66be]: Textual amendment: Sum in [reg. 20(1)(f)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/1/f) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/2) Table
 
-[^key-308f87a9cd031ff801ae44927a81ceb3]: Textual amendment: Reg. 20(2)(a) substituted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/4/2)
+[^c-308f87a9cd031ff801ae44927a81ceb3]: Textual amendment: Reg. 20(2)(a) substituted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/4/2)
 
-[^key-b2f9cf68fa1753c6ead19264aa343b4b]: Textual amendment: Words in reg. 20(2)(b) substituted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/4/3)
+[^c-b2f9cf68fa1753c6ead19264aa343b4b]: Textual amendment: Words in reg. 20(2)(b) substituted (31.10.1989) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 1989 (S.I. 1989/1694)](https://www.legislation.gov.uk/uksi/1989/1694), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1694/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1989/1694/regulation/4/3)
 
-[^key-77171df3586aa9927fe2dc5fefe5645e]: Textual amendment: Words in [reg. 20(2)(b)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2/b/i) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/14/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-77171df3586aa9927fe2dc5fefe5645e]: Textual amendment: Words in [reg. 20(2)(b)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2/b/i) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/14/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-5c203b3dd73c3c8cdb2b16e617ba98b2]: Textual amendment: Reg. 20(2A)(2B) substituted for reg. 20(2A) (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1997/81/regulation/4/2)
+[^c-5c203b3dd73c3c8cdb2b16e617ba98b2]: Textual amendment: Reg. 20(2A)(2B) substituted for reg. 20(2A) (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1997/81/regulation/4/2)
 
-[^key-32c183dbafc4b1258912df9273af20dd]: Textual amendment: Words in [reg. 20(2A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2A) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/4)
+[^c-32c183dbafc4b1258912df9273af20dd]: Textual amendment: Words in [reg. 20(2A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2A) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/4)
 
-[^key-b79bdcd4164191755270eb318df66a8d]: Textual amendment: Words in reg. 20(2A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
+[^c-b79bdcd4164191755270eb318df66a8d]: Textual amendment: Words in reg. 20(2A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
 
-[^key-068e6a098541da2f2bf078456d509e8c]: Textual amendment: Sums in [reg. 20(2A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2A) substituted (20.4.2009) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/802)](https://www.legislation.gov.uk/uksi/2009/802), [regs. 1](https://www.legislation.gov.uk/uksi/2009/802/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/802/regulation/2/2) Table
+[^c-068e6a098541da2f2bf078456d509e8c]: Textual amendment: Sums in [reg. 20(2A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2A) substituted (20.4.2009) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/802)](https://www.legislation.gov.uk/uksi/2009/802), [regs. 1](https://www.legislation.gov.uk/uksi/2009/802/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/802/regulation/2/2) Table
 
-[^key-3bb62b6aa201a69b19f9137dd7ceb4a6]: Textual amendment: Word in [reg. 20(2A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2A) substituted (1.8.2002) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1698)](https://www.legislation.gov.uk/uksi/2002/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1698/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/1698/regulation/3/3)
+[^c-3bb62b6aa201a69b19f9137dd7ceb4a6]: Textual amendment: Word in [reg. 20(2A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/2A) substituted (1.8.2002) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1698)](https://www.legislation.gov.uk/uksi/2002/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1698/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2002/1698/regulation/3/3)
 
 [^M_F_e356da68-3f83-4cea-8930-912ef4b9019c]: Textual amendment: Reg. 20(2B) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/4)
 
-[^key-9750d467f1ef5270cf702a605d588a83]: Textual amendment: [Reg. 20(3)(3ZA)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3/3ZA) substituted (7.5.2007) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2007 (S.I. 2007/1161)](https://www.legislation.gov.uk/uksi/2007/1161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1161/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1161/regulation/2/2)
+[^c-9750d467f1ef5270cf702a605d588a83]: Textual amendment: [Reg. 20(3)(3ZA)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3/3ZA) substituted (7.5.2007) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2007 (S.I. 2007/1161)](https://www.legislation.gov.uk/uksi/2007/1161), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1161/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/1161/regulation/2/2)
 
-[^key-68ca0efe7f2d8be0396302076bc3c074]: Textual amendment: Reg. 20(3A) inserted (1.8.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/b), [4(c)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/4/c)
+[^c-68ca0efe7f2d8be0396302076bc3c074]: Textual amendment: Reg. 20(3A) inserted (1.8.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/b), [4(c)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/4/c)
 
-[^key-d4c04d3fa842dca92b413608eed6c7a6]: Textual amendment: Words in reg. 20(3A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/5)
+[^c-d4c04d3fa842dca92b413608eed6c7a6]: Textual amendment: Words in reg. 20(3A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/5)
 
-[^key-e9ac5905774cc0fb12d3d3a1f1b3517b]: Textual amendment: Words in [reg. 20(3A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A) omitted (8.9.2006) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/3)
+[^c-e9ac5905774cc0fb12d3d3a1f1b3517b]: Textual amendment: Words in [reg. 20(3A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A) omitted (8.9.2006) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/3)
 
-[^key-74cc7033420ad2a2e7cb10a060cb92ed]: Textual amendment: Word in [reg. 20(3A)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/a) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/14/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-74cc7033420ad2a2e7cb10a060cb92ed]: Textual amendment: Word in [reg. 20(3A)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/a) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [14(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/14/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-25d13f6ad13bde7d17db175853396b2d]: Textual amendment: Words in [reg. 20(3A)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/a) added (8.9.2006) by [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/4)
+[^c-25d13f6ad13bde7d17db175853396b2d]: Textual amendment: Words in [reg. 20(3A)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/a) added (8.9.2006) by [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/4)
 
-[^key-9a2360f7d74158af53e2b7210ee86118]: Textual amendment: Word in reg. 20(3A)(b) substituted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1995/2438/regulation/6/3)
+[^c-9a2360f7d74158af53e2b7210ee86118]: Textual amendment: Word in reg. 20(3A)(b) substituted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1995/2438/regulation/6/3)
 
-[^key-907ed1be6b7d9955d57125758e64afc5]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) omitted (8.9.2006) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/5/a)
+[^c-907ed1be6b7d9955d57125758e64afc5]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) omitted (8.9.2006) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/5/a)
 
-[^key-96416c3420b648a0183dbec58ce98765]: Textual amendment: Words in reg. 20(3A)(b) substituted for reg. 20(3A)(b)(i)-(vi) (2.1.1993) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3160/regulation/3)
+[^c-96416c3420b648a0183dbec58ce98765]: Textual amendment: Words in reg. 20(3A)(b) substituted for reg. 20(3A)(b)(i)-(vi) (2.1.1993) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3160/regulation/3)
 
-[^key-2afe0fe73ddb3e0d710bc0f6f4263554]: Textual amendment: Word in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2013/271/regulation/11/a)
+[^c-2afe0fe73ddb3e0d710bc0f6f4263554]: Textual amendment: Word in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2013/271/regulation/11/a)
 
-[^key-e1d2508eea52b2b549bdbd48c59359e7]: Textual amendment: Words in reg. 20(3A)(b) inserted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1995/2438/regulation/6/3)
+[^c-e1d2508eea52b2b549bdbd48c59359e7]: Textual amendment: Words in reg. 20(3A)(b) inserted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [regs. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/1995/2438/regulation/6/3)
 
-[^key-18178671317e6e23472b7e53eb471830]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2013/271/regulation/11/b)
+[^c-18178671317e6e23472b7e53eb471830]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2013/271/regulation/11/b)
 
-[^key-cc25dd8616182bc6a7e4022ff219798f]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) substituted (8.9.2006) by [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/5/b)
+[^c-cc25dd8616182bc6a7e4022ff219798f]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) substituted (8.9.2006) by [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/5/b)
 
-[^key-a969e591a03058ad37103bbbca3287e3]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (26.4.2009) by [The Motor Vehicles (Tests) (Amendment) Regulations 2009 (S.I. 2009/643)](https://www.legislation.gov.uk/uksi/2009/643), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/643/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2009/643/regulation/3/3)
+[^c-a969e591a03058ad37103bbbca3287e3]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (26.4.2009) by [The Motor Vehicles (Tests) (Amendment) Regulations 2009 (S.I. 2009/643)](https://www.legislation.gov.uk/uksi/2009/643), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/643/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2009/643/regulation/3/3)
 
-[^key-fe5791d3b1ce0abe17ae35e7cb81d3c1]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (1.11.2001) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/3330)](https://www.legislation.gov.uk/uksi/2001/3330), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3330/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2001/3330/regulation/5/2/a)
+[^c-fe5791d3b1ce0abe17ae35e7cb81d3c1]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (1.11.2001) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/3330)](https://www.legislation.gov.uk/uksi/2001/3330), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3330/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2001/3330/regulation/5/2/a)
 
-[^key-083d4ee75eade80548ee7077c29bce91]: Textual amendment: Word in reg. 20(3A)(b) revoked (1.11.2001) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/3330)](https://www.legislation.gov.uk/uksi/2001/3330), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3330/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3330/regulation/5/2/b)
+[^c-083d4ee75eade80548ee7077c29bce91]: Textual amendment: Word in reg. 20(3A)(b) revoked (1.11.2001) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/3330)](https://www.legislation.gov.uk/uksi/2001/3330), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3330/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3330/regulation/5/2/b)
 
-[^key-dda399dd87999e037fd3909b5e5fd7bf]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (1.11.2001) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/3330)](https://www.legislation.gov.uk/uksi/2001/3330), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3330/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3330/regulation/5/2/b)
+[^c-dda399dd87999e037fd3909b5e5fd7bf]: Textual amendment: Words in [reg. 20(3A)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3A/b) inserted (1.11.2001) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/3330)](https://www.legislation.gov.uk/uksi/2001/3330), [regs. 1](https://www.legislation.gov.uk/uksi/2001/3330/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2001/3330/regulation/5/2/b)
 
-[^key-4c72eba0c23acaa20a02fc9e50033158]: Textual amendment: [Reg. 20(3B)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3B)[(3C)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3C) substituted (8.9.2006) by [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/6)
+[^c-4c72eba0c23acaa20a02fc9e50033158]: Textual amendment: [Reg. 20(3B)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3B)[(3C)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/3C) substituted (8.9.2006) by [The Motor Vehicles (Tests) (Amendment) Regulations 2006 (S.I. 2006/1998)](https://www.legislation.gov.uk/uksi/2006/1998), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1998/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2006/1998/regulation/2/6)
 
-[^key-580eeda8338194e79aa70d3c9989c251]: Textual amendment: Reg. 20(4) substituted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1997/81/regulation/4/3)
+[^c-580eeda8338194e79aa70d3c9989c251]: Textual amendment: Reg. 20(4) substituted (3.3.1997) by [The Motor Vehicles (Tests) (Amendment) Regulations 1997 (S.I. 1997/81)](https://www.legislation.gov.uk/uksi/1997/81), [regs. 1](https://www.legislation.gov.uk/uksi/1997/81/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1997/81/regulation/4/3)
 
-[^key-e0510f6afd6179939bdd6ef3b2210ba0]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) inserted (30.8.2004) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/1879)](https://www.legislation.gov.uk/uksi/2004/1879), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1879/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/1879/regulation/2/3)
+[^c-e0510f6afd6179939bdd6ef3b2210ba0]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) inserted (30.8.2004) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/1879)](https://www.legislation.gov.uk/uksi/2004/1879), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1879/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2004/1879/regulation/2/3)
 
-[^key-dbe3d25dce588f6789823f498e487897]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/5)
+[^c-dbe3d25dce588f6789823f498e487897]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/5)
 
-[^key-78396b716fb54efa2de7de7bf100a6b6]: Textual amendment: Words in [reg. 20(4)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4/i) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/6/a)
+[^c-78396b716fb54efa2de7de7bf100a6b6]: Textual amendment: Words in [reg. 20(4)(i)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4/i) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/6/a)
 
-[^key-496927dda9c54af4c0bf4e13cd7063eb]: Textual amendment: Words in [reg. 20(4)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4/ii) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/6/a)
+[^c-496927dda9c54af4c0bf4e13cd7063eb]: Textual amendment: Words in [reg. 20(4)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4/ii) omitted (1.4.2010) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2010/449/regulation/4/6/a)
 
-[^key-4ed3e5f387435aeda65a86c28ad3ac97]: Textual amendment: Reg. 20(4) Table substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(7)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/7)
+[^c-4ed3e5f387435aeda65a86c28ad3ac97]: Textual amendment: Reg. 20(4) Table substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(7)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/7)
 
-[^key-5774b567b571f7f5cb001887540c8f01]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) Table heading substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/6)
+[^c-5774b567b571f7f5cb001887540c8f01]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) Table heading substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/6)
 
-[^key-75d59e952085b8d98c90962483149c0f]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) Table substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/7)
+[^c-75d59e952085b8d98c90962483149c0f]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) Table substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(7)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/7)
 
-[^key-18e708b144fbe4bd0847b39967e631e6]: Textual amendment: Sums in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) Table substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/6)
+[^c-18e708b144fbe4bd0847b39967e631e6]: Textual amendment: Sums in [reg. 20(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/4) Table substituted (1.10.2014) by [The Motor Vehicles (Tests) (Amendment) Regulations 2014 (S.I. 2014/2114)](https://www.legislation.gov.uk/uksi/2014/2114), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2114/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2014/2114/regulation/3/6)
 
-[^key-5d10aa7dd7f27ad9641656b066f357e9]: Textual amendment: Reg. 20(4A)(4B) revoked (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/9)
+[^c-5d10aa7dd7f27ad9641656b066f357e9]: Textual amendment: Reg. 20(4A)(4B) revoked (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/9)
 
-[^key-339eb21af5ca1d849b7cb13a37c750c3]: Textual amendment: Reg. 20(5)-(5B) substituted for reg. 20(5) (30.8.1984) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984 (S.I. 1984/1126)](https://www.legislation.gov.uk/uksi/1984/1126), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1126/regulation/1), [4](https://www.legislation.gov.uk/uksi/1984/1126/regulation/4)
+[^c-339eb21af5ca1d849b7cb13a37c750c3]: Textual amendment: Reg. 20(5)-(5B) substituted for reg. 20(5) (30.8.1984) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984 (S.I. 1984/1126)](https://www.legislation.gov.uk/uksi/1984/1126), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1126/regulation/1), [4](https://www.legislation.gov.uk/uksi/1984/1126/regulation/4)
 
-[^key-616bba9eac54a9d2d7eb4bb4b41a2c1c]: Textual amendment: Words in reg. 20(5) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(9)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/9)
+[^c-616bba9eac54a9d2d7eb4bb4b41a2c1c]: Textual amendment: Words in reg. 20(5) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(9)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/9)
 
-[^key-9523219888ecbc89639b68c3b6f70992]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/5) substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/10)
+[^c-9523219888ecbc89639b68c3b6f70992]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/5) substituted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/10)
 
-[^key-14fb182a1acbca41facee0ede1883a75]: Textual amendment: Words in reg. 20(5A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
+[^c-14fb182a1acbca41facee0ede1883a75]: Textual amendment: Words in reg. 20(5A) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
 
-[^key-c00c6a27988f5d49731afe906f1df302]: Textual amendment: Words in reg. 20(5B) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
+[^c-c00c6a27988f5d49731afe906f1df302]: Textual amendment: Words in reg. 20(5B) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
 
-[^key-e421399eef081fb6b181575c0206851c]: Textual amendment: Words in [reg. 20(5B)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/5B/ii) substituted (11.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 2003 (S.I. 2003/1815)](https://www.legislation.gov.uk/uksi/2003/1815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1815/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/1815/regulation/3/4)
+[^c-e421399eef081fb6b181575c0206851c]: Textual amendment: Words in [reg. 20(5B)(ii)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/5B/ii) substituted (11.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 2003 (S.I. 2003/1815)](https://www.legislation.gov.uk/uksi/2003/1815), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1815/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2003/1815/regulation/3/4)
 
-[^key-22a59a2496078da821bf4658377c5f17]: Textual amendment: Words in reg. 20(6) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
+[^c-22a59a2496078da821bf4658377c5f17]: Textual amendment: Words in reg. 20(6) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/11/4)
 
-[^key-18b8d97c02efa292e648a54e31816c12]: Textual amendment: Words in reg. 20(6) substituted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/7)
+[^c-18b8d97c02efa292e648a54e31816c12]: Textual amendment: Words in reg. 20(6) substituted (9.10.1995) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1995 (S.I. 1995/2438)](https://www.legislation.gov.uk/uksi/1995/2438), [reg. 1](https://www.legislation.gov.uk/uksi/1995/2438/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/1995/2438/schedule/paragraph/7)
 
-[^key-1c47bc4f9373c1d3b38986cdcd0c5e4b]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/6) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/14/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-1c47bc4f9373c1d3b38986cdcd0c5e4b]: Textual amendment: Words in [reg. 20(6)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/6) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/14/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-e871e66f75e98f7af9bf0e445e2fb6c8]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/7) substituted (30.8.2004) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/1879)](https://www.legislation.gov.uk/uksi/2004/1879), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1879/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2004/1879/regulation/2/5)
+[^c-e871e66f75e98f7af9bf0e445e2fb6c8]: Textual amendment: Words in [reg. 20(7)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/7) substituted (30.8.2004) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2004 (S.I. 2004/1879)](https://www.legislation.gov.uk/uksi/2004/1879), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1879/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2004/1879/regulation/2/5)
 
-[^key-3debf2ae13cd26820cd8c72d3532d9f8]: Textual amendment: Sum in [reg. 20(7)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/7) substituted (20.4.2009) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/802)](https://www.legislation.gov.uk/uksi/2009/802), [regs. 1](https://www.legislation.gov.uk/uksi/2009/802/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/802/regulation/2/2) Table
+[^c-3debf2ae13cd26820cd8c72d3532d9f8]: Textual amendment: Sum in [reg. 20(7)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/7) substituted (20.4.2009) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 2009 (S.I. 2009/802)](https://www.legislation.gov.uk/uksi/2009/802), [regs. 1](https://www.legislation.gov.uk/uksi/2009/802/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/802/regulation/2/2) Table
 
-[^key-ede9359925a58dac5759f8aeb0dab10a]: Textual amendment: Reg. 20(7)(a)(b) substituted (1.11.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2229)](https://www.legislation.gov.uk/uksi/1991/2229), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/1/1/c), [7(b)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/7/b)
+[^c-ede9359925a58dac5759f8aeb0dab10a]: Textual amendment: Reg. 20(7)(a)(b) substituted (1.11.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2229)](https://www.legislation.gov.uk/uksi/1991/2229), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/1/1/c), [7(b)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/7/b)
 
-[^key-b08b632e3ad5440e184c1b8c348294df]: Textual amendment: Reg. 20(7)(c) substituted (1.8.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/b), [4(d)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/4/d)
+[^c-b08b632e3ad5440e184c1b8c348294df]: Textual amendment: Reg. 20(7)(c) substituted (1.8.1991) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1991 (S.I. 1991/1525)](https://www.legislation.gov.uk/uksi/1991/1525), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/1/b), [4(d)](https://www.legislation.gov.uk/uksi/1991/1525/regulation/4/d)
 
-[^key-a243b2864d24bf5bb4fad859fb97ab35]: Textual amendment: Word in reg. 20(7)(c)(xvi) revoked (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/12)
+[^c-a243b2864d24bf5bb4fad859fb97ab35]: Textual amendment: Word in reg. 20(7)(c)(xvi) revoked (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [3(12)](https://www.legislation.gov.uk/uksi/2002/488/regulation/3/12)
 
-[^key-636f7f9b59087533c65b877bc664f833]: Textual amendment: Words in [reg. 20(7)(c)(xix)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/7/c/xix) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/b)
+[^c-636f7f9b59087533c65b877bc664f833]: Textual amendment: Words in [reg. 20(7)(c)(xix)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/20/7/c/xix) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/b)
 
-[^key-e14391bd0130cb57f9e482f0842f27c1]: Textual amendment: Reg. 20(8) added (30.8.1984) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984 (S.I. 1984/1126)](https://www.legislation.gov.uk/uksi/1984/1126), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1126/regulation/1), [6](https://www.legislation.gov.uk/uksi/1984/1126/regulation/6)
+[^c-e14391bd0130cb57f9e482f0842f27c1]: Textual amendment: Reg. 20(8) added (30.8.1984) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1984 (S.I. 1984/1126)](https://www.legislation.gov.uk/uksi/1984/1126), [regs. 1](https://www.legislation.gov.uk/uksi/1984/1126/regulation/1), [6](https://www.legislation.gov.uk/uksi/1984/1126/regulation/6)
 
-[^key-052ff6ed6189e1e36adbe931efb45c78]: Commencement: Reg. 21 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-052ff6ed6189e1e36adbe931efb45c78]: Commencement: Reg. 21 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-530961dc0f95f694024361297c8e48d9]: Textual amendment: Words in reg. 21(4) proviso substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2003/1113/regulation/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-530961dc0f95f694024361297c8e48d9]: Textual amendment: Words in reg. 21(4) proviso substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2003/1113/regulation/15) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-7c3d09ffdb89a6e339257da66bb63448]: Textual amendment: Word in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/21/4) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/10)
+[^c-7c3d09ffdb89a6e339257da66bb63448]: Textual amendment: Word in [reg. 21(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/21/4) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(10)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/10)
 
-[^key-84c090e4c5acdf2199aa980fd8a3bf61]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1981/1694/regulation/22) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2003/1113/regulation/16) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a))
+[^c-84c090e4c5acdf2199aa980fd8a3bf61]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/1981/1694/regulation/22) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2003/1113/regulation/16) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a))
 
-[^key-f4a64368e3016918e5168df7e09b2bbd]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2003/1113/regulation/17) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a))
+[^c-f4a64368e3016918e5168df7e09b2bbd]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/2003/1113/regulation/17) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/a))
 
-[^key-4d308e8ef45d695f73d82651852e979c]: Textual amendment: Word in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23/1/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/11)
+[^c-4d308e8ef45d695f73d82651852e979c]: Textual amendment: Word in [reg. 23(1)(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23/1/c) substituted (1.4.2014) by [The Driving Standards Agency and the Vehicle and Operator Services Agency (Merger) (Consequential Amendments) Regulations 2014 (S.I. 2014/480)](https://www.legislation.gov.uk/uksi/2014/480), [regs. 1](https://www.legislation.gov.uk/uksi/2014/480/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2014/480/regulation/3/11)
 
-[^key-ca706d65b6ff6a162f072fa2a56a1516]: Textual amendment: [Reg. 23(3)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23/3/b) substituted (1.8.2005) by [The Motor Vehicles (Tests) (Amendment) Regulations 2005 (S.I. 2005/1832)](https://www.legislation.gov.uk/uksi/2005/1832), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1832/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/1832/regulation/4)
+[^c-ca706d65b6ff6a162f072fa2a56a1516]: Textual amendment: [Reg. 23(3)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23/3/b) substituted (1.8.2005) by [The Motor Vehicles (Tests) (Amendment) Regulations 2005 (S.I. 2005/1832)](https://www.legislation.gov.uk/uksi/2005/1832), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1832/regulation/1), [4](https://www.legislation.gov.uk/uksi/2005/1832/regulation/4)
 
-[^key-530fb28cc29e48792b621fbaa0e369d3]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23A) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2003/1113/regulation/18) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-530fb28cc29e48792b621fbaa0e369d3]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/1981/1694/regulation/23A) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [18](https://www.legislation.gov.uk/uksi/2003/1113/regulation/18) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-2327df840795c90f590f39855ed1e867]: Commencement: Reg. 24 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-2327df840795c90f590f39855ed1e867]: Commencement: Reg. 24 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-5e2956bd077b9fe0b135f5c6e094c6bd]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/19/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-5e2956bd077b9fe0b135f5c6e094c6bd]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [19(a)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/19/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-47cc604d420dba002f664d79069d39ab]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/19/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-47cc604d420dba002f664d79069d39ab]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24) substituted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [19(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/19/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-d781e958cbf7138d726fbd93587586f3]: Textual amendment: Words in [reg. 24(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24/c) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/19/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-d781e958cbf7138d726fbd93587586f3]: Textual amendment: Words in [reg. 24(c)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24/c) omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [19(c)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/19/c) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-d3dc54734de45ff8cad9d6d3f5c5d501]: Textual amendment: Words in reg. 24(c) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/8/3/b)
+[^c-d3dc54734de45ff8cad9d6d3f5c5d501]: Textual amendment: Words in reg. 24(c) omitted (18.3.1991) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 1) Regulations 1991 (S.I. 1991/253)](https://www.legislation.gov.uk/uksi/1991/253), [regs. 1(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/1/b), [8(3)(b)](https://www.legislation.gov.uk/uksi/1991/253/regulation/8/3/b)
 
-[^key-21f92e6a1feef4c4c74d00cd129e4d19]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24A) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2003/1113/regulation/20) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-21f92e6a1feef4c4c74d00cd129e4d19]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/1981/1694/regulation/24A) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2003/1113/regulation/20) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-dbe039d3e4eef76e966f64a821741bcb]: Textual amendment: [Regs. 25-25B](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25) substituted for [reg. 25](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2003/1113/regulation/21) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/b))
+[^c-dbe039d3e4eef76e966f64a821741bcb]: Textual amendment: [Regs. 25-25B](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25) substituted for [reg. 25](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25) (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2003/1113/regulation/21) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3), [24(1)(b)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/24/1/b))
 
 [^M_F_85531333-7a98-4b73-e9f5-0bdad1e23e12]: Textual amendment: Sum in reg. 25(1) substituted (6.4.2010) by [The Motor Vehicles (Tests) (Amendment) Regulations 2010 (S.I. 2010/449)](https://www.legislation.gov.uk/uksi/2010/449), [regs. 1](https://www.legislation.gov.uk/uksi/2010/449/regulation/1), [5](https://www.legislation.gov.uk/uksi/2010/449/regulation/5)
 
-[^key-31c2ecfbc564827f4e6e5f203ec11340]: Modification: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25/2) modified (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/7/3)
+[^c-31c2ecfbc564827f4e6e5f203ec11340]: Modification: [Reg. 25(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25/2) modified (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/7/3)
 
-[^key-177b19ae87cb23f42044c51d5cac2943]: Textual amendment: [Reg. 25A(3A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/3A)[(3B)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/3B) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/2)
+[^c-177b19ae87cb23f42044c51d5cac2943]: Textual amendment: [Reg. 25A(3A)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/3A)[(3B)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/3B) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/2)
 
-[^key-09a6c98203d2b53244609a3885b80dbe]: Textual amendment: Words in [reg. 25A(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/4) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/3)
+[^c-09a6c98203d2b53244609a3885b80dbe]: Textual amendment: Words in [reg. 25A(4)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/4) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/3)
 
-[^key-6566cbb583f674407e8f56cbd41094e2]: Textual amendment: Words in [reg. 25A(5)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/5/a) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/4/a)
+[^c-6566cbb583f674407e8f56cbd41094e2]: Textual amendment: Words in [reg. 25A(5)(a)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/5/a) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/4/a)
 
-[^key-0344435f34cbec0cecdddf867e1c3036]: Textual amendment: Words in [reg. 25A(5)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/5/b) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/4/b)
+[^c-0344435f34cbec0cecdddf867e1c3036]: Textual amendment: Words in [reg. 25A(5)(b)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/25A/5/b) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/8/4/b)
 
-[^key-a04eef6078c628e97efa5b1c025c8a2c]: Commencement: Reg. 26 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-a04eef6078c628e97efa5b1c025c8a2c]: Commencement: Reg. 26 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-cc7ce80f12aaf70e33c8c2fd86d63f98]: Commencement: Reg. 27 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-cc7ce80f12aaf70e33c8c2fd86d63f98]: Commencement: Reg. 27 in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-a63dbb5c470eb8a5f67cd379fd9d8317]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1981/1694/regulation/27) inserted (1.11.1983) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983 (S.I. 1983/1434)](https://www.legislation.gov.uk/uksi/1983/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1434/regulation/1), [5](https://www.legislation.gov.uk/uksi/1983/1434/regulation/5)
+[^c-a63dbb5c470eb8a5f67cd379fd9d8317]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/1981/1694/regulation/27) inserted (1.11.1983) by [The Motor Vehicles (Tests) (Amendment) (No. 2) Regulations 1983 (S.I. 1983/1434)](https://www.legislation.gov.uk/uksi/1983/1434), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1434/regulation/1), [5](https://www.legislation.gov.uk/uksi/1983/1434/regulation/5)
 
-[^key-3217a6c5f37a637220f347df67b7312e]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1981/1694/regulation/28) omitted (21.8.2020) by virtue of [The Road Vehicles (Certificates of Temporary Exemption) Regulations 2020 (S.I. 2020/812)](https://www.legislation.gov.uk/uksi/2020/812), [regs. 1](https://www.legislation.gov.uk/uksi/2020/812/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2020/812/regulation/7/1)
+[^c-3217a6c5f37a637220f347df67b7312e]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/1981/1694/regulation/28) omitted (21.8.2020) by virtue of [The Road Vehicles (Certificates of Temporary Exemption) Regulations 2020 (S.I. 2020/812)](https://www.legislation.gov.uk/uksi/2020/812), [regs. 1](https://www.legislation.gov.uk/uksi/2020/812/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2020/812/regulation/7/1)
 
-[^key-db4815e87096a57e9c5fe076a9ca9669]: Textual amendment: [Regs. 29](https://www.legislation.gov.uk/uksi/1981/1694/regulation/29), [30](https://www.legislation.gov.uk/uksi/1981/1694/regulation/30) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2003/1113/regulation/22) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-db4815e87096a57e9c5fe076a9ca9669]: Textual amendment: [Regs. 29](https://www.legislation.gov.uk/uksi/1981/1694/regulation/29), [30](https://www.legislation.gov.uk/uksi/1981/1694/regulation/30) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2003/1113/regulation/22) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-b98d6745afee5cdb0657cb372fdf4084]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/1981/1694/regulation/31) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2013/271/regulation/13)
+[^c-b98d6745afee5cdb0657cb372fdf4084]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/1981/1694/regulation/31) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2013/271/regulation/13)
 
-[^key-eb6eeb7f5088f1960576e2328f1faef1]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/31/2) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/850/regulation/8)
+[^c-eb6eeb7f5088f1960576e2328f1faef1]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/uksi/1981/1694/regulation/31/2) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/850/regulation/8)
 
-[^key-7100915fe4f5848672e305af9bab1d60]: Textual amendment: Sch. 1 Pt. 1 omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2003/1113/regulation/26) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-7100915fe4f5848672e305af9bab1d60]: Textual amendment: Sch. 1 Pt. 1 omitted (1.6.2003) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2003/1113/regulation/26) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-e99a787de367b7117c6d9c4f11071c71]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1981/1694/schedule/1/paragraph/1) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-e99a787de367b7117c6d9c4f11071c71]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1981/1694/schedule/1/paragraph/1) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-dd6003746602ae4e71fef80d9df3ea66]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/1/paragraph/2) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-dd6003746602ae4e71fef80d9df3ea66]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/1/paragraph/2) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-2262b614d4c886bbf6dadada92ca072c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/1/paragraph/3) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-2262b614d4c886bbf6dadada92ca072c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/1/paragraph/3) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
 
-[^key-1cfa207142827443d6b41ae2704a5fba]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2) substituted (1.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2229)](https://www.legislation.gov.uk/uksi/1991/2229), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/1/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2229/schedule/2)
+[^c-1cfa207142827443d6b41ae2704a5fba]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2) substituted (1.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 4) Regulations 1991 (S.I. 1991/2229)](https://www.legislation.gov.uk/uksi/1991/2229), [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/1991/2229/regulation/1/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2229/schedule/2)
 
-[^key-7dcd656df7d37fca66f462e6f991e3f2]: Textual amendment: [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1/a) Table items 1-6A substituted for items 1-6 (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/9/2)
+[^c-7dcd656df7d37fca66f462e6f991e3f2]: Textual amendment: [Sch. 2 para. 1(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1/a) Table items 1-6A substituted for items 1-6 (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/9/2)
 
-[^key-4ba868a9ecdb19982bff8120143daafd]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/9/a)
+[^c-4ba868a9ecdb19982bff8120143daafd]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/9/a)
 
-[^key-e4b9bafe3b3edffea2a9929d2f51a5a6]: Textual amendment: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1/c) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/9/3)
+[^c-e4b9bafe3b3edffea2a9929d2f51a5a6]: Textual amendment: [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1/c) inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/9/3)
 
-[^key-fbc1bdef7106298f5fb3325fd55958a0]: Textual amendment: Words in [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1/c) substituted (26.4.2009) by [The Motor Vehicles (Tests) (Amendment) Regulations 2009 (S.I. 2009/643)](https://www.legislation.gov.uk/uksi/2009/643), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/643/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2009/643/regulation/5/2)
+[^c-fbc1bdef7106298f5fb3325fd55958a0]: Textual amendment: Words in [Sch. 2 para. 1(c)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1/c) substituted (26.4.2009) by [The Motor Vehicles (Tests) (Amendment) Regulations 2009 (S.I. 2009/643)](https://www.legislation.gov.uk/uksi/2009/643), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/643/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2009/643/regulation/5/2)
 
-[^key-572c2d9a5122120c54fdf88e33097333]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/9/b)
+[^c-572c2d9a5122120c54fdf88e33097333]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/1) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/9/b)
 
-[^key-5e5a93c727682e7b5fd88946cf49cf40]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/a/i)
+[^c-5e5a93c727682e7b5fd88946cf49cf40]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/a/i)
 
-[^key-1686b42b30c551e42d28a9e0397fe52b]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/a/ii)
+[^c-1686b42b30c551e42d28a9e0397fe52b]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/a/ii)
 
-[^key-95b9436ac7b60cdaedbd304dd46deb6a]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/b) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/2)
+[^c-95b9436ac7b60cdaedbd304dd46deb6a]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/b) substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/2)
 
-[^key-6055f4d5c9eae7f3c941edad2a324a10]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/b) inserted (2.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1992/3160/regulation/4/2/a)
+[^c-6055f4d5c9eae7f3c941edad2a324a10]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/b) inserted (2.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/1992/3160/regulation/4/2/a)
 
-[^key-861ce204f91b1309b0c8dd2677fb8bce]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table added (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(a)(iii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/a/iii)
+[^c-861ce204f91b1309b0c8dd2677fb8bce]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table added (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(a)(iii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/a/iii)
 
-[^key-170678cbd54a21a763b59720713ce651]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/b) substituted (26.4.2009) by [The Motor Vehicles (Tests) (Amendment) Regulations 2009 (S.I. 2009/643)](https://www.legislation.gov.uk/uksi/2009/643), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/643/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2009/643/regulation/5/3)
+[^c-170678cbd54a21a763b59720713ce651]: Textual amendment: Words in [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/b) substituted (26.4.2009) by [The Motor Vehicles (Tests) (Amendment) Regulations 2009 (S.I. 2009/643)](https://www.legislation.gov.uk/uksi/2009/643), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2009/643/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2009/643/regulation/5/3)
 
-[^key-7595671abd8460950e3842758c6c4e69]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/b/i)
+[^c-7595671abd8460950e3842758c6c4e69]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/b/i)
 
-[^key-7c8fc2ec04c1aedb2f73cd17c190627a]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/b/ii)
+[^c-7c8fc2ec04c1aedb2f73cd17c190627a]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/b/ii)
 
-[^key-f504de46353de3834e1e21c7f246d31a]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/c)
+[^c-f504de46353de3834e1e21c7f246d31a]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/c)
 
-[^key-5619b371c4136f2963584ffdb61bb8b3]: Textual amendment: [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/d) substituted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/9/4)
+[^c-5619b371c4136f2963584ffdb61bb8b3]: Textual amendment: [Sch. 2 para. 2(d)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/d) substituted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/9/4)
 
-[^key-a074264cda36511ab23516f57636783e]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/d)
+[^c-a074264cda36511ab23516f57636783e]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2) table substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2017/850/regulation/10/d)
 
-[^key-8d494a6b2760d89dd0827ebaf4600c6c]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/e) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2013/271/regulation/12/1)
+[^c-8d494a6b2760d89dd0827ebaf4600c6c]: Textual amendment: [Sch. 2 para. 2(e)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/2/e) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2013/271/regulation/12/1)
 
-[^key-21d9427d8dbbdce971496f1fc482d471]: Textual amendment: Words in [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/a)
+[^c-21d9427d8dbbdce971496f1fc482d471]: Textual amendment: Words in [Sch. 2 para. 3(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/a)
 
-[^key-cdb218ca252e4bfe6456baac645f7cfb]: Textual amendment: Word in [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/b) substituted (1.4.2007) by [The Motor Vehicles (Tests) (Amendment) Regulations 2007 (S.I. 2007/506)](https://www.legislation.gov.uk/uksi/2007/506), [regs. 1](https://www.legislation.gov.uk/uksi/2007/506/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/506/regulation/4/2/a)
+[^c-cdb218ca252e4bfe6456baac645f7cfb]: Textual amendment: Word in [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/b) substituted (1.4.2007) by [The Motor Vehicles (Tests) (Amendment) Regulations 2007 (S.I. 2007/506)](https://www.legislation.gov.uk/uksi/2007/506), [regs. 1](https://www.legislation.gov.uk/uksi/2007/506/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2007/506/regulation/4/2/a)
 
-[^key-e809c8ad3f1bb3d5a219abfc727f8223]: Textual amendment: Words in [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/b) inserted (1.4.2007) by [The Motor Vehicles (Tests) (Amendment) Regulations 2007 (S.I. 2007/506)](https://www.legislation.gov.uk/uksi/2007/506), [regs. 1](https://www.legislation.gov.uk/uksi/2007/506/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/506/regulation/4/2/b)
+[^c-e809c8ad3f1bb3d5a219abfc727f8223]: Textual amendment: Words in [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/b) inserted (1.4.2007) by [The Motor Vehicles (Tests) (Amendment) Regulations 2007 (S.I. 2007/506)](https://www.legislation.gov.uk/uksi/2007/506), [regs. 1](https://www.legislation.gov.uk/uksi/2007/506/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2007/506/regulation/4/2/b)
 
-[^key-4c65e80d0b57d8315748993623041cf2]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/i)
+[^c-4c65e80d0b57d8315748993623041cf2]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/i)
 
-[^key-cc651c8cb06da96f2eae1ccfcc28d1f4]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/ii)
+[^c-cc651c8cb06da96f2eae1ccfcc28d1f4]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/ii)
 
-[^key-8defd73559b3af742a25eed5e2721fb2]: Textual amendment: Words in [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/b) table inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/12/2)
+[^c-8defd73559b3af742a25eed5e2721fb2]: Textual amendment: Words in [Sch. 2 para. 3(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3/b) table inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/12/2)
 
-[^key-c3b01de5cc6bf00e1d25c1073ce6fb30]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/iii)
+[^c-c3b01de5cc6bf00e1d25c1073ce6fb30]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/iii)
 
-[^key-1eb6ca926114e8f3b6bc480aaf1ec8f3]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(iv)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/iv)
+[^c-1eb6ca926114e8f3b6bc480aaf1ec8f3]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3) table inserted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [11(b)(iv)](https://www.legislation.gov.uk/uksi/2017/850/regulation/11/b/iv)
 
-[^key-f6260a85d6b92c00dac533354b5d951e]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3A) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/3)
+[^c-f6260a85d6b92c00dac533354b5d951e]: Textual amendment: [Sch. 2 para. 3A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3A) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/3)
 
-[^key-0a5f6e1361984acbb21e41feb3fe2218]: Textual amendment: Words in [Sch. 2 para. 3A(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3A/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/850/regulation/12)
+[^c-0a5f6e1361984acbb21e41feb3fe2218]: Textual amendment: Words in [Sch. 2 para. 3A(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/3A/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [12](https://www.legislation.gov.uk/uksi/2017/850/regulation/12)
 
-[^key-78af25744f7b383bb734f077a2879462]: Textual amendment: Words in [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/13/a)
+[^c-78af25744f7b383bb734f077a2879462]: Textual amendment: Words in [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [13(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/13/a)
 
 [^M_F_5d6f99eb-f0fd-4d4a-e634-d145f0ab331a]: Textual amendment: Words in Sch. 2 para. 4(a) substituted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2013/271/regulation/12/4)
 
-[^key-3147161d341c528243769d7e73c52ce6]: Textual amendment: Words in [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4/b) inserted (2.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/1992/3160/regulation/4/3/b)
+[^c-3147161d341c528243769d7e73c52ce6]: Textual amendment: Words in [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4/b) inserted (2.1.1993) by [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/1992/3160/regulation/4/3/b)
 
-[^key-d57abd1d13b514b11db7d3aeec6aadb9]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4) table omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/13/b)
+[^c-d57abd1d13b514b11db7d3aeec6aadb9]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4) table omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/13/b)
 
-[^key-d210c0c6a6b7db73d5b5743946734a19]: Textual amendment: [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4/b) item 32 omitted (1.4.2007) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2007 (S.I. 2007/506)](https://www.legislation.gov.uk/uksi/2007/506), [regs. 1](https://www.legislation.gov.uk/uksi/2007/506/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2007/506/regulation/4/3/b)
+[^c-d210c0c6a6b7db73d5b5743946734a19]: Textual amendment: [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4/b) item 32 omitted (1.4.2007) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2007 (S.I. 2007/506)](https://www.legislation.gov.uk/uksi/2007/506), [regs. 1](https://www.legislation.gov.uk/uksi/2007/506/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2007/506/regulation/4/3/b)
 
-[^key-894a9f54f7cc9a59e6553bdbb3169cd6]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4A) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/4)
+[^c-894a9f54f7cc9a59e6553bdbb3169cd6]: Textual amendment: [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4A) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(4)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/4)
 
-[^key-e3a5d86c50fd9b6f6339a31ad807f2d1]: Textual amendment: Words in [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4A) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/850/regulation/14)
+[^c-e3a5d86c50fd9b6f6339a31ad807f2d1]: Textual amendment: Words in [Sch. 2 para. 4A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/4A) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [14](https://www.legislation.gov.uk/uksi/2017/850/regulation/14)
 
-[^key-547131d493aa182ad972ba22648ecd09]: Textual amendment: Words in [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/15/a)
+[^c-547131d493aa182ad972ba22648ecd09]: Textual amendment: Words in [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2017/850/regulation/15/a)
 
-[^key-89898e99de65048c3cdc4aefb948a027]: Textual amendment: Words in [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/b) omitted (2.1.1993) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/1992/3160/regulation/4/4/b)
+[^c-89898e99de65048c3cdc4aefb948a027]: Textual amendment: Words in [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/b) omitted (2.1.1993) by virtue of [The Motor Vehicles (Tests) (Amendment) (No. 3) Regulations 1992 (S.I. 1992/3160)](https://www.legislation.gov.uk/uksi/1992/3160), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3160/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/1992/3160/regulation/4/4/b)
 
-[^key-5e293b0b5953c9376c06ddd756c9e500]: Textual amendment: Words in Sch. 2 para. 5(b) inserted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/488/regulation/4)
+[^c-5e293b0b5953c9376c06ddd756c9e500]: Textual amendment: Words in Sch. 2 para. 5(b) inserted (1.4.2002) by [The Motor Vehicles (Tests) (Amendment) Regulations 2002 (S.I. 2002/488)](https://www.legislation.gov.uk/uksi/2002/488), [regs. 1](https://www.legislation.gov.uk/uksi/2002/488/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/488/regulation/4)
 
-[^key-b6f214a1115d90fd6bddab8f58b26cd0]: Textual amendment: [Sch. 2 para. 5(e)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/e) omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/15/b)
+[^c-b6f214a1115d90fd6bddab8f58b26cd0]: Textual amendment: [Sch. 2 para. 5(e)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/e) omitted (20.5.2018) by virtue of [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2017/850/regulation/15/b)
 
-[^key-89b768418d5905759e4c170c61926fca]: Textual amendment: Words in [Sch. 2 para. 5(f)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/f) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/c)
+[^c-89b768418d5905759e4c170c61926fca]: Textual amendment: Words in [Sch. 2 para. 5(f)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5/f) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/c)
 
-[^key-d07b52fbe445612eebbfcf3a10fef238]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5A) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(6)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/6)
+[^c-d07b52fbe445612eebbfcf3a10fef238]: Textual amendment: [Sch. 2 para. 5A](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5A) inserted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(6)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/6)
 
-[^key-63c6d4e812cb7114d92de3304c07472a]: Textual amendment: Words in [Sch. 2 para. 5A(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5A/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [16](https://www.legislation.gov.uk/uksi/2017/850/regulation/16)
+[^c-63c6d4e812cb7114d92de3304c07472a]: Textual amendment: Words in [Sch. 2 para. 5A(a)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5A/a) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [16](https://www.legislation.gov.uk/uksi/2017/850/regulation/16)
 
-[^key-c86cdacf00b607691f192b8b3c9cbf56]: Textual amendment: Words in [Sch. 2 para. 5A(c)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5A/c) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(d)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/d)
+[^c-c86cdacf00b607691f192b8b3c9cbf56]: Textual amendment: Words in [Sch. 2 para. 5A(c)](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/5A/c) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [24(3)(d)](https://www.legislation.gov.uk/uksi/2019/453/regulation/24/3/d)
 
-[^key-57cec2f2d2db702d6df6a72c06e9913a]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/6) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [17](https://www.legislation.gov.uk/uksi/2017/850/regulation/17)
+[^c-57cec2f2d2db702d6df6a72c06e9913a]: Textual amendment: Words in [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1981/1694/schedule/2/paragraph/6) substituted (20.5.2018) by [The Motor Vehicles (Tests) (Amendment) Regulations 2017 (S.I. 2017/850)](https://www.legislation.gov.uk/uksi/2017/850), [regs. 1](https://www.legislation.gov.uk/uksi/2017/850/regulation/1), [17](https://www.legislation.gov.uk/uksi/2017/850/regulation/17)
 
 [^M_F_47ecca20-062a-4455-db42-fca4f37574d9]: Textual amendment: Words in Sch. 2 para. 6 substituted (1.8.1998) by [The Motor Vehicles (Tests) (Amendment) Regulations 1998 (S.I. 1998/1672)](https://www.legislation.gov.uk/uksi/1998/1672), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1672/regulation/1), [14(7)](https://www.legislation.gov.uk/uksi/1998/1672/regulation/14/7)
 
-[^key-feec2d96c9e90a94590a4cd25eb0908a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/3) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2003/1113/regulation/23) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
+[^c-feec2d96c9e90a94590a4cd25eb0908a]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/3) inserted (1.6.2003) by [The Motor Vehicles (Tests) (Amendment) Regulations 2003 (S.I. 2003/1113)](https://www.legislation.gov.uk/uksi/2003/1113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2003/1113/regulation/23) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2003/1113/regulation/1/3))
 
-[^key-c2cf55c27644ee365bfdaedc4aba8e53]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/3) item 2A inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/10/2)
+[^c-c2cf55c27644ee365bfdaedc4aba8e53]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1981/1694/schedule/3) item 2A inserted (1.8.2003) by [The Motor Vehicles (Tests) (Amendment) (No.2) Regulations 2003 (S.I. 2003/1698)](https://www.legislation.gov.uk/uksi/2003/1698), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1698/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2003/1698/regulation/10/2)
 
-[^key-6909bcf3a0fa6368e6999513637d5d56]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1981/1694/schedule/4) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)
+[^c-6909bcf3a0fa6368e6999513637d5d56]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1981/1694/schedule/4) in force at 31.12.1981, see [reg. 1](https://www.legislation.gov.uk/uksi/1981/1694/regulation/1)

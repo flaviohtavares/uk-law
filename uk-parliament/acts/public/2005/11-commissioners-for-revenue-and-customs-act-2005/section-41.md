@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Disclosure of information to Director of Revenue and Customs Prosecutions[^key-1d066757593d940a5b4b713d59cbd9c9][^key-6ee1086c4ce041937c0c78abf555b8b5]
+## 41. Disclosure of information to Director of Revenue and Customs Prosecutions[^c-1d066757593d940a5b4b713d59cbd9c9][^c-6ee1086c4ce041937c0c78abf555b8b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d066757593d940a5b4b713d59cbd9c9]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/2005/11/section/41) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/11)
+[^c-1d066757593d940a5b4b713d59cbd9c9]: Textual amendment: [S. 41](https://www.legislation.gov.uk/ukpga/2005/11/section/41) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2014/834/schedule/1/paragraph/11)
 
-[^key-6ee1086c4ce041937c0c78abf555b8b5]: Commencement: S. 41 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-6ee1086c4ce041937c0c78abf555b8b5]: Commencement: S. 41 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

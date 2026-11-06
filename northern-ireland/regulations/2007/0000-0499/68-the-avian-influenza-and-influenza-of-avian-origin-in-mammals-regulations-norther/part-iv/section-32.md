@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Restrictions on trade in things from areas where measures have been disapplied[^key-2359206df26f9c425bdbb53fbe255af7]
+## 32. Restrictions on trade in things from areas where measures have been disapplied[^c-2359206df26f9c425bdbb53fbe255af7]
 
 *Extent: N.I.*
 
-Unless licenced by the Department, a person shall not supply any of the following for export outside the United Kingdom[^key-7ce15dab0bdbd91327968aaed94a092f] if it has come from premises in respect of which any of the measures in Schedules 4 or 5 have been disapplied under regulations 30 or 31—
+Unless licenced by the Department, a person shall not supply any of the following for export outside the United Kingdom[^c-7ce15dab0bdbd91327968aaed94a092f] if it has come from premises in respect of which any of the measures in Schedules 4 or 5 have been disapplied under regulations 30 or 31—
 
 - (a) poultry;
 - (b) other captive birds;
@@ -31,6 +31,6 @@ Unless licenced by the Department, a person shall not supply any of the followin
 
 ## Annotations
 
-[^key-2359206df26f9c425bdbb53fbe255af7]: Commencement: Reg. 32 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-2359206df26f9c425bdbb53fbe255af7]: Commencement: Reg. 32 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
-[^key-7ce15dab0bdbd91327968aaed94a092f]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2007/68/regulation/32) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/111/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ce15dab0bdbd91327968aaed94a092f]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/nisr/2007/68/regulation/32) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/111/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

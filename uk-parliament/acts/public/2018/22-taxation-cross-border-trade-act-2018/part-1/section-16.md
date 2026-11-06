@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Value of chargeable goods[^c23439161][^key-aa8fd4e40ee54977087563d30a510fc1]
+## 16. Value of chargeable goods[^c23439161][^c-aa8fd4e40ee54977087563d30a510fc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ subject to the inclusion or exclusion of matters specified in regulations made b
 
 [^c23439161]: Commencement: S. 16 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-aa8fd4e40ee54977087563d30a510fc1]: Commencement: S. 16 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-aa8fd4e40ee54977087563d30a510fc1]: Commencement: S. 16 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

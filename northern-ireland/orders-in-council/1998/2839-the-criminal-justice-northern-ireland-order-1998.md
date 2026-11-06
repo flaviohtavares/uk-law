@@ -120,7 +120,7 @@ but the nature of the treatment shall not be specified in the order except as me
 
 (5) The testing requirement shall specify for each month the minimum number of occasions on which samples are to be provided.
 
-(6)[^key-a2c1c934f392eec4b2addc653c3cac72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a2c1c934f392eec4b2addc653c3cac72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A drug treatment and testing order shall—
 
@@ -136,10 +136,10 @@ but the nature of the treatment shall not be specified in the order except as me
 
 (9) In this Article and Articles 10 and 11, references to the court responsible for a drug treatment and testing order are references to—
 
-- (a) the court by which the order is made; [^key-a6b00913603b96306abb2d6963bbb228]...
-- (b)[^key-a6b00913603b96306abb2d6963bbb228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the court by which the order is made; [^c-a6b00913603b96306abb2d6963bbb228]...
+- (b)[^c-a6b00913603b96306abb2d6963bbb228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-37760780d03ede1044d74f268f543acf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-37760780d03ede1044d74f268f543acf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 10. Periodic reviews
 
@@ -181,7 +181,7 @@ but the nature of the treatment shall not be specified in the order except as me
 (9) In this Article any reference to the court, in relation to a review without a hearing, shall be construed—
 
 - (a) in the case of the Crown Court, as a reference to a judge of the court;
-- (b) in the case of a court of summary jurisdiction, as a reference to a district judge (magistrates' courts)[^key-f10462fa8157e79766ceb15bca5d3aa2] .
+- (b) in the case of a court of summary jurisdiction, as a reference to a district judge (magistrates' courts)[^c-f10462fa8157e79766ceb15bca5d3aa2] .
 
 #### 11. Supplementary provisions as to orders
 
@@ -362,15 +362,15 @@ Article 11(5).
 
 [^m00005]: Marginal citation: 1972 NI 14.
 
-[^key-a2c1c934f392eec4b2addc653c3cac72]: Textual amendment: Art. 9(6) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/1/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a2c1c934f392eec4b2addc653c3cac72]: Textual amendment: Art. 9(6) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/1/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-a6b00913603b96306abb2d6963bbb228]: Textual amendment: Art. 9(9)(b) and preceding word repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/1/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a6b00913603b96306abb2d6963bbb228]: Textual amendment: Art. 9(9)(b) and preceding word repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/1/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-37760780d03ede1044d74f268f543acf]: Textual amendment: Art. 9(10) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(1)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/1/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-37760780d03ede1044d74f268f543acf]: Textual amendment: Art. 9(10) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(1)(c)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/1/c), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00006]: Marginal citation: 1996 NI 24.
 
-[^key-f10462fa8157e79766ceb15bca5d3aa2]: Textual amendment: Words in [art. 10(9)(b)](https://www.legislation.gov.uk/nisi/1998/2839/article/10/9/b) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/2) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-f10462fa8157e79766ceb15bca5d3aa2]: Textual amendment: Words in [art. 10(9)(b)](https://www.legislation.gov.uk/nisi/1998/2839/article/10/9/b) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 116(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/116/2) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00007]: Marginal citation: 1996 NI 24.
 

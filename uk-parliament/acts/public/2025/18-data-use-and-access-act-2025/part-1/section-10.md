@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Financial penalties[^key-bb55d8f68bb49d0729bb33411576be7d][^key-3c29638c99b7109c735d6b9d75a5ef9c]
+## 10. Financial penalties[^c-bb55d8f68bb49d0729bb33411576be7d][^c-3c29638c99b7109c735d6b9d75a5ef9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ unless section 16 confers power to provide otherwise.
 
 ## Annotations
 
-[^key-bb55d8f68bb49d0729bb33411576be7d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-bb55d8f68bb49d0729bb33411576be7d]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-3c29638c99b7109c735d6b9d75a5ef9c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/18/section/10) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-3c29638c99b7109c735d6b9d75a5ef9c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2025/18/section/10) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

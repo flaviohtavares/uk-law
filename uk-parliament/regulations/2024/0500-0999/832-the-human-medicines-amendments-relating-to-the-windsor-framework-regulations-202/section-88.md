@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Amendment to regulation 197[^key-c9adb485cb58f8fd9ebf1e796402d23d]
+## 88. Amendment to regulation 197[^c-c9adb485cb58f8fd9ebf1e796402d23d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 197(1) (EU urgent action procedure)[^f00098], for “UKMA(UK)” s
 
 ## Annotations
 
-[^key-c9adb485cb58f8fd9ebf1e796402d23d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2024/832/regulation/88) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c9adb485cb58f8fd9ebf1e796402d23d]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2024/832/regulation/88) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00098]: Footnote: Paragraph (1) was amended by [S.I. 2019/755](https://www.legislation.gov.uk/uksi/2019/755) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

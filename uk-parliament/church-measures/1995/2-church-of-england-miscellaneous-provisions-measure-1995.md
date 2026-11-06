@@ -46,13 +46,13 @@ It shall be lawful for persons admitted to Holy Orders by a bishop of the Church
 - (a) a communicant member of the Church of England; or
 - (b) a member of a church to which the [^c923045]Church of England (Ecumenical Relations) Measure 1988 applies and is entitled lawfully to take part in public worship in accordance with the forms of service and practice of the Church of England.
 
-(3)[^key-1516ed4002728767129ec78e0d1af791] Notwithstanding sections 5 and 6 of the Ecclesiastical Commissioners Act 1840, which annexed 2 canonries in the chapter of the Cathedral Church of Christ in Oxford to, respectively, the Lady Margaret's professorship of divinity and the regius professorship of ecclesiastical history, those professorships may be held either by residentiary canons in the chapter or by lay canons appointed pursuant to subsection (1).
+(3)[^c-1516ed4002728767129ec78e0d1af791] Notwithstanding sections 5 and 6 of the Ecclesiastical Commissioners Act 1840, which annexed 2 canonries in the chapter of the Cathedral Church of Christ in Oxford to, respectively, the Lady Margaret's professorship of divinity and the regius professorship of ecclesiastical history, those professorships may be held either by residentiary canons in the chapter or by lay canons appointed pursuant to subsection (1).
 
 ## 3. Designation of archdeacon emeritus.
 
 The bishop of a diocese may confer the designation of archdeacon emeritus upon any person who retires immediately after holding the office of archdeacon.
 
-## 4. Resignation of certain office holders.[^key-dc01e6395fb3f6ee1245038a5de15607][^key-00b7fbc002e79f0aa7f937bf5cd61d57]
+## 4. Resignation of certain office holders.[^c-dc01e6395fb3f6ee1245038a5de15607][^c-00b7fbc002e79f0aa7f937bf5cd61d57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,7 +69,7 @@ In section 27 of the Ecclesiastical Commissioners Act 1840 (qualification of dea
 
 The Scheme contained in the Schedule to the [^c923050]Church Funds Investment Measure 1958 shall have effect subject to the amendments specified in the Schedule to this Measure.
 
-## 8. Amendment of Clergy Pensions Measure 1961.[^key-9479741c964fc2572600bbccfed62de5]
+## 8. Amendment of Clergy Pensions Measure 1961.[^c-9479741c964fc2572600bbccfed62de5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,15 +92,15 @@ In section 20 of the [^c923054]Parochial Registers and Records Measure 1978 (sea
 
 .
 
-## 11. Amendment of Pastoral Measure 1983.[^key-a76602bb51629a700530f4fb498db0e1]
+## 11. Amendment of Pastoral Measure 1983.[^c-a76602bb51629a700530f4fb498db0e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Church of England (Miscellaneous Provisions) Measure 1983.[^key-c1a472329859d377d44344e46bdf93bd]
+## 12. Amendment of Church of England (Miscellaneous Provisions) Measure 1983.[^c-c1a472329859d377d44344e46bdf93bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Care of Churches and Ecclesiastical Jurisdiction Measure 1991.[^key-f9869efea250645ace44e60918a18030]
+## 13. Amendment of Care of Churches and Ecclesiastical Jurisdiction Measure 1991.[^c-f9869efea250645ace44e60918a18030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -282,27 +282,27 @@ SCHEDULE
 
 [^c923045]: Marginal citation: [1988 No. 3](https://www.legislation.gov.uk/ukcm/1988/3).
 
-[^key-1516ed4002728767129ec78e0d1af791]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1995/2/section/2/3) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 19](https://www.legislation.gov.uk/ukcm/2014/1/section/19), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-1516ed4002728767129ec78e0d1af791]: Textual amendment: [S. 2(3)](https://www.legislation.gov.uk/ukcm/1995/2/section/2/3) substituted (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [ss. 19](https://www.legislation.gov.uk/ukcm/2014/1/section/19), [21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
 
-[^key-dc01e6395fb3f6ee1245038a5de15607]: Modification: [S. 4](https://www.legislation.gov.uk/ukcm/1995/2/section/4) savings for effects of 2009 gsm 1 Sch. 3 (31.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Consequential and Transitional Provisions) Order 2010 (S.I. 2010/2847)](https://www.legislation.gov.uk/uksi/2010/2847), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2847/article/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2847/schedule/1/paragraph/3)
+[^c-dc01e6395fb3f6ee1245038a5de15607]: Modification: [S. 4](https://www.legislation.gov.uk/ukcm/1995/2/section/4) savings for effects of 2009 gsm 1 Sch. 3 (31.1.2011) by [The Ecclesiastical Offices (Terms of Service) (Consequential and Transitional Provisions) Order 2010 (S.I. 2010/2847)](https://www.legislation.gov.uk/uksi/2010/2847), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/2847/article/1/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2010/2847/schedule/1/paragraph/3)
 
-[^key-00b7fbc002e79f0aa7f937bf5cd61d57]: Textual amendment: S. 4 repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-00b7fbc002e79f0aa7f937bf5cd61d57]: Textual amendment: S. 4 repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [s. 13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c923049]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/1995/2/section/6) repealed (1.1.1999) by [1998 No. 1](https://www.legislation.gov.uk/ukcm/1998/1), [s. 13(3)](https://www.legislation.gov.uk/ukcm/1998/1/section/13/3); [Instrument dated 14.10.1998 made by Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1998-10-14)
 
 [^c923050]: Marginal citation: 6 & 7 Eliz. 2 No. 1.
 
-[^key-9479741c964fc2572600bbccfed62de5]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/1995/2/section/8) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-9479741c964fc2572600bbccfed62de5]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/1995/2/section/8) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c923053]: Marginal citation: [1963 No. 1](https://www.legislation.gov.uk/ukcm/1963/1).
 
 [^c923054]: Marginal citation: [1978 No. 2](https://www.legislation.gov.uk/ukcm/1978/2).
 
-[^key-a76602bb51629a700530f4fb498db0e1]: Textual amendment: S. 11 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a76602bb51629a700530f4fb498db0e1]: Textual amendment: S. 11 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [2012 No. 1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-c1a472329859d377d44344e46bdf93bd]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukcm/1995/2/section/12) repealed (1.5.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-c1a472329859d377d44344e46bdf93bd]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukcm/1995/2/section/12) repealed (1.5.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-f9869efea250645ace44e60918a18030]: Textual amendment: S. 13 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f9869efea250645ace44e60918a18030]: Textual amendment: S. 13 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c923058]: Marginal citation: [1972 No. 5](https://www.legislation.gov.uk/ukcm/1972/5).
 

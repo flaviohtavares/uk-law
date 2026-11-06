@@ -40,7 +40,7 @@ Coming into operation in accordance with Article 1
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001], in exercise of the powers conferred by Article 25A(3), (5) and (6) of the Dogs (Northern Ireland) Order 1983[^f00002], makes the following Order.
 
-## 1. Citation and Commencement[^key-dad0442e6fe3d0afa0790cc34d2ef7ed]
+## 1. Citation and Commencement[^c-dad0442e6fe3d0afa0790cc34d2ef7ed]
 
 (1) This Order may be cited as the Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026.
 
@@ -48,36 +48,36 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001], in exerci
 
 (3) Articles 2(4)(b) and 3(2)(b) come into operation on 1st November 2026.
 
-## 2. Amendment of the Dangerous Dogs Compensation and Exemption Schemes Order 1991[^key-2fe04ca08a661c2e8d372cd3cba15482][^key-e63e406cf41b84fcdc1990dfe1204ebf]
+## 2. Amendment of the Dangerous Dogs Compensation and Exemption Schemes Order 1991[^c-2fe04ca08a661c2e8d372cd3cba15482][^c-e63e406cf41b84fcdc1990dfe1204ebf]
 
-(1)[^key-2fe04ca08a661c2e8d372cd3cba15482] The Dangerous Dogs Compensation and Exemption Schemes Order 1991[^f00003] shall be amended as follows.
+(1)[^c-2fe04ca08a661c2e8d372cd3cba15482] The Dangerous Dogs Compensation and Exemption Schemes Order 1991[^f00003] shall be amended as follows.
 
-(2)[^key-2fe04ca08a661c2e8d372cd3cba15482] In Article 5 (conditions for adult dogs), omit condition (c) “that there is in force in respect of the dog third party insurance which complies with Article 9;”.
+(2)[^c-2fe04ca08a661c2e8d372cd3cba15482] In Article 5 (conditions for adult dogs), omit condition (c) “that there is in force in respect of the dog third party insurance which complies with Article 9;”.
 
-(3)[^key-2fe04ca08a661c2e8d372cd3cba15482] Article 9 (third party insurance) is repealed.
+(3)[^c-2fe04ca08a661c2e8d372cd3cba15482] Article 9 (third party insurance) is repealed.
 
 (4) In Article 11 (certificate of exemption), in paragraph (2)—
 
-- (a)[^key-2fe04ca08a661c2e8d372cd3cba15482] omit (e) “a requirement to satisfy the district council that a policy of insurance which complies with Article 9 continues in force;”;
-- (b)[^key-e63e406cf41b84fcdc1990dfe1204ebf] after (f) insert—
+- (a)[^c-2fe04ca08a661c2e8d372cd3cba15482] omit (e) “a requirement to satisfy the district council that a policy of insurance which complies with Article 9 continues in force;”;
+- (b)[^c-e63e406cf41b84fcdc1990dfe1204ebf] after (f) insert—
 
   > - (fa) a requirement to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child being supervised by a person (whether the holder of the certificate or some other person) who is over the age of 18;
 
-## 3. Amendment of the Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024[^key-d646eae8667e20ffad30234c098a29f3][^key-783d91e834731b895a45fa8d9735fc30]
+## 3. Amendment of the Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024[^c-d646eae8667e20ffad30234c098a29f3][^c-783d91e834731b895a45fa8d9735fc30]
 
-(1)[^key-d646eae8667e20ffad30234c098a29f3] The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024[^f00004] shall be amended as follows.
+(1)[^c-d646eae8667e20ffad30234c098a29f3] The Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024[^f00004] shall be amended as follows.
 
 (2) In Article 7 (certificate of exemption), in condition (e)—
 
-- (a)[^key-d646eae8667e20ffad30234c098a29f3] omit (ii) “to satisfy the district council that a policy of third-party insurance compliant with Article 8 is in force;”;
-- (b)[^key-783d91e834731b895a45fa8d9735fc30] after (iv) insert—
+- (a)[^c-d646eae8667e20ffad30234c098a29f3] omit (ii) “to satisfy the district council that a policy of third-party insurance compliant with Article 8 is in force;”;
+- (b)[^c-783d91e834731b895a45fa8d9735fc30] after (iv) insert—
 
   > - (iva) to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) who is over the age of 18;
 
   ;
-- (c)[^key-d646eae8667e20ffad30234c098a29f3] omit (vi) “to produce to an officer confirmation that a policy third-party insurance compliant with Article 8 is in force within five days of being requested to do so by that officer”.
+- (c)[^c-d646eae8667e20ffad30234c098a29f3] omit (vi) “to produce to an officer confirmation that a policy third-party insurance compliant with Article 8 is in force within five days of being requested to do so by that officer”.
 
-(3)[^key-d646eae8667e20ffad30234c098a29f3] Article 8 (third-party insurance) is repealed.
+(3)[^c-d646eae8667e20ffad30234c098a29f3] Article 8 (third-party insurance) is repealed.
 
 Sealed with the Official Seal of the Department of Agriculture, Environment and Rural Affairs on 25th June 2026
 
@@ -101,16 +101,16 @@ Article 3 of this Order amends The Dangerous Dogs (Compensation and Exemption Sc
 
 [^f00002]: Footnote: [S.I. 1983/764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764) Article 25A was inserted by [S.I. 1991/2292 (N.I. 21)](https://www.legislation.gov.uk/nisi/1991/2292).
 
-[^key-dad0442e6fe3d0afa0790cc34d2ef7ed]: Commencement: Art. 1 in operation at 1.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2)
+[^c-dad0442e6fe3d0afa0790cc34d2ef7ed]: Commencement: Art. 1 in operation at 1.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2)
 
-[^key-2fe04ca08a661c2e8d372cd3cba15482]: Commencement: Art. 2(1)(2)(3)(4)(a) in operation at 1.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2)
+[^c-2fe04ca08a661c2e8d372cd3cba15482]: Commencement: Art. 2(1)(2)(3)(4)(a) in operation at 1.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2)
 
-[^key-e63e406cf41b84fcdc1990dfe1204ebf]: Commencement: [Art. 2(4)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/2/4/b) in operation at 1.11.2026, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3)
+[^c-e63e406cf41b84fcdc1990dfe1204ebf]: Commencement: [Art. 2(4)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/2/4/b) in operation at 1.11.2026, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3)
 
 [^f00003]: Footnote: S.1. [1991 No. 466](https://www.legislation.gov.uk/ukcm/1991/466)
 
-[^key-d646eae8667e20ffad30234c098a29f3]: Commencement: Art. 3(1)(2)(a)(c)(3) in operation at 1.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2)
+[^c-d646eae8667e20ffad30234c098a29f3]: Commencement: Art. 3(1)(2)(a)(c)(3) in operation at 1.7.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2)
 
-[^key-783d91e834731b895a45fa8d9735fc30]: Commencement: [Art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/b) in operation at 1.11.2026, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3)
+[^c-783d91e834731b895a45fa8d9735fc30]: Commencement: [Art. 3(2)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/b) in operation at 1.11.2026, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3)
 
 [^f00004]: Footnote: S.1. [2024 No. 155](https://www.legislation.gov.uk/ukcm/2024/155)

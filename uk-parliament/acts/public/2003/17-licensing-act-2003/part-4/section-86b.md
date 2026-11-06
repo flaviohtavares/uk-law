@@ -27,7 +27,7 @@ summary: ''
 - (a) consult such of the responsible authorities as it considers appropriate, and
 - (b) take into account any relevant representations—
   - (i) made by those authorities, or
-  - (ii) made by any other person[^key-3c1edb30d4c819c55c3fb890669f6796] and received by the authority within ten working days beginning on the initial day.
+  - (ii) made by any other person[^c-3c1edb30d4c819c55c3fb890669f6796] and received by the authority within ten working days beginning on the initial day.
 
 (3) If the authority considers that—
 
@@ -64,4 +64,4 @@ it must grant the application.
 
 [^c21016951]: Textual amendment: Ss. 86A-86C and cross-heading inserted (1.7.2009 for certain purposes and 29.7.2009 otherwise) by [The Legislative Reform (Minor Variations to Premises Licences and Club Premises Certificates) Order 2009 (S.I. 2009/1772)](https://www.legislation.gov.uk/uksi/2009/1772), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1772/article/1), [3](https://www.legislation.gov.uk/uksi/2009/1772/article/3)
 
-[^key-3c1edb30d4c819c55c3fb890669f6796]: Textual amendment: Words in s. 86B(2)(b)(ii) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 107(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/107/6), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 107(9)](https://www.legislation.gov.uk/ukpga/2011/13/section/107/9)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-3c1edb30d4c819c55c3fb890669f6796]: Textual amendment: Words in s. 86B(2)(b)(ii) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 107(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/107/6), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 107(9)](https://www.legislation.gov.uk/ukpga/2011/13/section/107/9)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

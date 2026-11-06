@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to provide financial assistance for economic development etc[^key-d356ee812ef992c2aa0d8e282bcbb220]
+## 50. Power to provide financial assistance for economic development etc[^c-d356ee812ef992c2aa0d8e282bcbb220]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d356ee812ef992c2aa0d8e282bcbb220]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2020/27/section/50) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/h)
+[^c-d356ee812ef992c2aa0d8e282bcbb220]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2020/27/section/50) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/h)

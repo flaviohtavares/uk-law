@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The TSE (Scotland) Amendment (No. 2) Regulations 2006 (revoked)[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+The TSE (Scotland) Amendment (No. 2) Regulations 2006 (revoked)[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 Made
 
@@ -48,99 +48,99 @@ Coming into force
 
 3rd May 2006
 
-[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 1. Citation and commencement[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the TSE (Scotland) Regulations 2002[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 2. Amendment of the TSE (Scotland) Regulations 2002[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 3.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 4.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 5.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 6.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 7.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 8.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 9.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 10.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 11.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 12.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 13.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 14.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 15.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 16.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 17.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 18.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19.[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 19.[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Amendments to the Animal and Animal Products (Import and Export) (Scotland) Regulations 2000[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 20. Amendments to the Animal and Animal Products (Import and Export) (Scotland) Regulations 2000[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Revocations[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## 21. Revocations[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
+## SCHEDULE — Revocations[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]
 
 Regulation 21
 
@@ -148,8 +148,8 @@ Regulation 21
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)
+[^c-0c6a46cfbb6cf2e176e6eca2f9c8a3a2]: Textual amendment: Regulations revoked (24.11.2006) by [The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2006 (S.S.I. 2006/530)](https://www.legislation.gov.uk/ssi/2006/530), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/530/regulation/1/1), [sch. 10](https://www.legislation.gov.uk/ssi/2006/530/schedule/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9A — Information to be given on the pensions guidance and members’ benefits[^key-c3807207eb8aa1cb091f1e47f7d25231]
+## SCHEDULE 9A — Information to be given on the pensions guidance and members’ benefits[^c-c3807207eb8aa1cb091f1e47f7d25231]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ calculated and verified in accordance with regulations 7 to 7E of the Occupation
 
 ## Annotations
 
-[^key-c3807207eb8aa1cb091f1e47f7d25231]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/nisr/2014/79/schedule/9A) inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/154/schedule)
+[^c-c3807207eb8aa1cb091f1e47f7d25231]: Textual amendment: Words in [Sch. 9A](https://www.legislation.gov.uk/nisr/2014/79/schedule/9A) inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/154/schedule)

@@ -26,17 +26,17 @@ Regulation 51(3)
 
 **1.** The appropriate fund for a member described in column 1 is the fund specified in column 2 of the following Table.
 
-**2.**[^key-c99f38657dd168448006cdf1388f57de] The Scottish Ministers may, on the application of a Scheme employer, by a written direction substitute a different administering authority as the appropriate administering authority for a person or class of persons.
+**2.**[^c-c99f38657dd168448006cdf1388f57de] The Scottish Ministers may, on the application of a Scheme employer, by a written direction substitute a different administering authority as the appropriate administering authority for a person or class of persons.
 
-**2A.**[^key-2285e3caa93772605707260f420ae454] The Scottish Ministers may, on application of an administering authority, by a written direction substitute a different fund maintained by that administering authority as the appropriate fund for a Scheme employer.
+**2A.**[^c-2285e3caa93772605707260f420ae454] The Scottish Ministers may, on application of an administering authority, by a written direction substitute a different fund maintained by that administering authority as the appropriate fund for a Scheme employer.
 
-**3.**[^key-1c93fabb37a75a679768f53207b98720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1c93fabb37a75a679768f53207b98720] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.** Before giving a direction under paragraph 2[^key-69eae04ee1ce82e6230554253e7a83f5] or 2A[^key-25b43cf791de571b1c23b6def982c8d7] Scottish Ministers must consult with any bodies appearing to them to be affected by the proposed direction.
+**4.** Before giving a direction under paragraph 2[^c-69eae04ee1ce82e6230554253e7a83f5] or 2A[^c-25b43cf791de571b1c23b6def982c8d7] Scottish Ministers must consult with any bodies appearing to them to be affected by the proposed direction.
 
 **5.** The direction may require the making of financial adjustments between the funds, whether by way of a payment to the substituted fund or of a transfer of assets or both.
 
-**6.** The direction [^key-207ff990ec05e3c5ef4c294bfe185342]... may—
+**6.** The direction [^c-207ff990ec05e3c5ef4c294bfe185342]... may—
 
 - (a) contain provision as to the transfer of liabilities to the substituted fund;
 - (b) require a revised rates and adjustment certificate in respect of each Scheme employer concerned, to take account of the effect of the direction; and
@@ -108,17 +108,17 @@ Regulation 51(3)
 
 ## Annotations
 
-[^key-c99f38657dd168448006cdf1388f57de]: Textual amendment: Sch. 4 para. 2 substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(27)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/27)
+[^c-c99f38657dd168448006cdf1388f57de]: Textual amendment: Sch. 4 para. 2 substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(27)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/27)
 
-[^key-2285e3caa93772605707260f420ae454]: Textual amendment: Sch. 4 para. 2A inserted (with effect from 1.3.2020) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/31)](https://www.legislation.gov.uk/ssi/2020/31), [regs. 1](https://www.legislation.gov.uk/ssi/2020/31/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/31/regulation/2/2)
+[^c-2285e3caa93772605707260f420ae454]: Textual amendment: Sch. 4 para. 2A inserted (with effect from 1.3.2020) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/31)](https://www.legislation.gov.uk/ssi/2020/31), [regs. 1](https://www.legislation.gov.uk/ssi/2020/31/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/31/regulation/2/2)
 
-[^key-1c93fabb37a75a679768f53207b98720]: Textual amendment: Sch. 4 para. 3 omitted (with effect from 1.6.2018) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(28)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/28/b)
+[^c-1c93fabb37a75a679768f53207b98720]: Textual amendment: Sch. 4 para. 3 omitted (with effect from 1.6.2018) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(28)(b)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/28/b)
 
-[^key-69eae04ee1ce82e6230554253e7a83f5]: Textual amendment: Word in sch. 4 para. 4 substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(28)(c)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/28/c)
+[^c-69eae04ee1ce82e6230554253e7a83f5]: Textual amendment: Word in sch. 4 para. 4 substituted (with effect from 1.6.2018) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/161)](https://www.legislation.gov.uk/ssi/2019/161), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2019/161/regulation/1/2), [2(28)(c)](https://www.legislation.gov.uk/ssi/2019/161/regulation/2/28/c)
 
-[^key-25b43cf791de571b1c23b6def982c8d7]: Textual amendment: Words in sch. 4 para. 4 inserted (with effect from 1.3.2020) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/31)](https://www.legislation.gov.uk/ssi/2020/31), [regs. 1](https://www.legislation.gov.uk/ssi/2020/31/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/31/regulation/2/3)
+[^c-25b43cf791de571b1c23b6def982c8d7]: Textual amendment: Words in sch. 4 para. 4 inserted (with effect from 1.3.2020) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/31)](https://www.legislation.gov.uk/ssi/2020/31), [regs. 1](https://www.legislation.gov.uk/ssi/2020/31/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/31/regulation/2/3)
 
-[^key-207ff990ec05e3c5ef4c294bfe185342]: Textual amendment: Words in sch. 4 para. 6 omitted (1.6.2022) by virtue of [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/153/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2022/153/regulation/13)
+[^c-207ff990ec05e3c5ef4c294bfe185342]: Textual amendment: Words in sch. 4 para. 6 omitted (1.6.2022) by virtue of [The Local Government Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/153)](https://www.legislation.gov.uk/ssi/2022/153), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/153/regulation/1/1), [13](https://www.legislation.gov.uk/ssi/2022/153/regulation/13)
 
 [^c22971561]: Marginal citation: [2005 asp 12](https://www.legislation.gov.uk/asp/2005/12).
 

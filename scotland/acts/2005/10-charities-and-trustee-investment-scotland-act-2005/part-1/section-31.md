@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Powers of OSCR following inquiries: temporary suspension or restriction of conduct[^key-fd7501554e47e9f703ff501e469783a8][^key-e0ab107dc534090f33703a9211ce019f]
+## 31. Powers of OSCR following inquiries: temporary suspension or restriction of conduct[^c-fd7501554e47e9f703ff501e469783a8][^c-e0ab107dc534090f33703a9211ce019f]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ to stop doing so.
 
 ## Annotations
 
-[^key-fd7501554e47e9f703ff501e469783a8]: Commencement: S. 31 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1) (with [art. 3(2)-(4)](https://www.legislation.gov.uk/ssi/2006/189/article/3/2))
+[^c-fd7501554e47e9f703ff501e469783a8]: Commencement: S. 31 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1) (with [art. 3(2)-(4)](https://www.legislation.gov.uk/ssi/2006/189/article/3/2))
 
-[^key-e0ab107dc534090f33703a9211ce019f]: Textual amendment: [S. 31 heading](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/4/crossheading/inquiries) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 17(4)](https://www.legislation.gov.uk/asp/2023/5/section/17/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))
+[^c-e0ab107dc534090f33703a9211ce019f]: Textual amendment: [S. 31 heading](https://www.legislation.gov.uk/asp/2005/10/part/1/chapter/4/crossheading/inquiries) substituted (1.4.2024) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 17(4)](https://www.legislation.gov.uk/asp/2023/5/section/17/4), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2024/63](https://www.legislation.gov.uk/ssi/2024/63), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/63/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2024/63/schedule/part/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2024/63/regulation/4))

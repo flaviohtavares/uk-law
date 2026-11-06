@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by paragraph 19(6) and (6A) of Schedule 3 to the Police Reform Act 2002[^f00001].
 
-## 1. Citation, commencement, interpretation and extent[^key-539ae0a7e5d147da389de5dc531a0c45]
+## 1. Citation, commencement, interpretation and extent[^c-539ae0a7e5d147da389de5dc531a0c45]
 
 (1) This Order may be cited as the Independent Police Complaints Commission (Investigation of Offences) Order 2014 and comes into force on 1st October 2014.
 
@@ -55,19 +55,19 @@ The Secretary of State makes the following Order in exercise of the powers confe
 - “the 1984 Act” means the Police and Criminal Evidence Act 1984[^f00002];
 - “Code B” means the code of practice issued under section 66(1)(c) and (d) of the 1984 Act[^f00003];
 - “Code C” means the code of practice issued under section 66(1)(b) of the 1984 Act;
-- “prescribed investigation” means an investigation of an offence conducted by virtue of paragraph 19 of Schedule 3 to the Police Reform Act 2002 by a person[^key-e77dad8c9302fdb6e0494bfda37d1214] designated under that paragraph.
+- “prescribed investigation” means an investigation of an offence conducted by virtue of paragraph 19 of Schedule 3 to the Police Reform Act 2002 by a person[^c-e77dad8c9302fdb6e0494bfda37d1214] designated under that paragraph.
 
 (3) This Order extends to England and Wales.
 
-## 2. Investigation of offences: specified provisions of the Police and Criminal Evidence Act 1984 and the codes of practice[^key-dfbd68d6506766f9a2ea9d8b2c3a4fca]
+## 2. Investigation of offences: specified provisions of the Police and Criminal Evidence Act 1984 and the codes of practice[^c-dfbd68d6506766f9a2ea9d8b2c3a4fca]
 
 The provisions of the 1984 Act, Code B and Code C specified in the first column of a table in the Schedule apply to prescribed investigations subject to article 3.
 
-## 3. Investigation of offences: authorisations required under the Police and Criminal Evidence Act 1984[^key-08bfd12df37683139ad69d15f5e95d2e]
+## 3. Investigation of offences: authorisations required under the Police and Criminal Evidence Act 1984[^c-08bfd12df37683139ad69d15f5e95d2e]
 
 For the purposes of prescribed investigations—
 
-- (a) the authorisation required in relation to the exercise of the power in a provision of the 1984 Act specified in the first column of table 1 in the Schedule may be given by a member of the IOPC’s staff[^key-3712b4c7bf49b38abfc8e9ad0009eb11] of or above the grade specified in the same row in the second column of the table;
+- (a) the authorisation required in relation to the exercise of the power in a provision of the 1984 Act specified in the first column of table 1 in the Schedule may be given by a member of the IOPC’s staff[^c-3712b4c7bf49b38abfc8e9ad0009eb11] of or above the grade specified in the same row in the second column of the table;
 - (b) the authorisation required in relation to the exercise of the power in a provision of Code B listed in the first column of table 2 in the Schedule may be given by a member of the IOPC’s staff of or above the grade specified in the same row in the second column of the table;
 - (c) the authorisation required in relation to the exercise of the power in a provision of Code C listed in the first column of table 3 in the Schedule may be given by a member of the IOPC’s staff of or above the grade specified in the same row in the second column of the table.
 
@@ -79,7 +79,7 @@ Home Office
 
 9th September 2014
 
-## SCHEDULE[^key-486389467308734bc682630682e944df]
+## SCHEDULE[^c-486389467308734bc682630682e944df]
 
 Article 3
 
@@ -140,18 +140,18 @@ An impact assessment has not been prepared for this instrument as no impact on b
 
 [^f00001]: Footnote: [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30). Paragraph 19(6) was amended by, and paragraph 19(6A) was inserted by, section 136 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-539ae0a7e5d147da389de5dc531a0c45]: Commencement: Art. 1 in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
+[^c-539ae0a7e5d147da389de5dc531a0c45]: Commencement: Art. 1 in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
 
 [^f00002]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
 [^f00003]: Footnote: Section 66 was amended by section 57(1) and (4) of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43). There are other amendments which are not relevant to the provision made by this Order.
 
-[^key-e77dad8c9302fdb6e0494bfda37d1214]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/31/2) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-e77dad8c9302fdb6e0494bfda37d1214]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/31/2) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-dfbd68d6506766f9a2ea9d8b2c3a4fca]: Commencement: Art. 2 in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
+[^c-dfbd68d6506766f9a2ea9d8b2c3a4fca]: Commencement: Art. 2 in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
 
-[^key-08bfd12df37683139ad69d15f5e95d2e]: Commencement: Art. 3 in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
+[^c-08bfd12df37683139ad69d15f5e95d2e]: Commencement: Art. 3 in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
 
-[^key-3712b4c7bf49b38abfc8e9ad0009eb11]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/2402/article/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [31(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/31/3) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3712b4c7bf49b38abfc8e9ad0009eb11]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/2402/article/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [31(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/31/3) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-486389467308734bc682630682e944df]: Commencement: Sch. in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)
+[^c-486389467308734bc682630682e944df]: Commencement: Sch. in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/2402/article/1/1)

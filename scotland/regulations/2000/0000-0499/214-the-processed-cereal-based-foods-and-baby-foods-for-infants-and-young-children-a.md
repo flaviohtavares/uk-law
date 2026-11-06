@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-The Processed Cereal-based Foods and Baby Foods for Infants and Young Children Amendment (Scotland) Regulations 2000 (revoked)[^key-c818b9ab644643b49a986f51ce6aa389]
+The Processed Cereal-based Foods and Baby Foods for Infants and Young Children Amendment (Scotland) Regulations 2000 (revoked)[^c-c818b9ab644643b49a986f51ce6aa389]
 
 Made
 
@@ -44,22 +44,22 @@ Coming into force
 
 1st July 2002
 
-[^key-c818b9ab644643b49a986f51ce6aa389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c818b9ab644643b49a986f51ce6aa389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-c818b9ab644643b49a986f51ce6aa389]
+## 1. Citation, commencement and extent[^c-c818b9ab644643b49a986f51ce6aa389]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of previous Regulations in relation to Scotland[^key-c818b9ab644643b49a986f51ce6aa389]
+## 2. Amendment of previous Regulations in relation to Scotland[^c-c818b9ab644643b49a986f51ce6aa389]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c818b9ab644643b49a986f51ce6aa389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c818b9ab644643b49a986f51ce6aa389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c818b9ab644643b49a986f51ce6aa389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c818b9ab644643b49a986f51ce6aa389]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c818b9ab644643b49a986f51ce6aa389]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2000/214) revoked (6.3.2005) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Regulations 2004 (S.S.I. 2004/8)](https://www.legislation.gov.uk/ssi/2004/8), [reg. 14](https://www.legislation.gov.uk/ssi/2004/8/regulation/14)
+[^c-c818b9ab644643b49a986f51ce6aa389]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2000/214) revoked (6.3.2005) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Regulations 2004 (S.S.I. 2004/8)](https://www.legislation.gov.uk/ssi/2004/8), [reg. 14](https://www.legislation.gov.uk/ssi/2004/8/regulation/14)

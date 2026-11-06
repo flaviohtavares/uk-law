@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Review of inclusion of removable convictions by the independent reviewer[^key-7fdba50960a01393c9e695571cf98325][^key-6871c82d6ba1b2271b700d92ea3bb1a5]
+## 26. Review of inclusion of removable convictions by the independent reviewer[^c-7fdba50960a01393c9e695571cf98325][^c-6871c82d6ba1b2271b700d92ea3bb1a5]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fdba50960a01393c9e695571cf98325]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/13/section/26) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-7fdba50960a01393c9e695571cf98325]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/13/section/26) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-6871c82d6ba1b2271b700d92ea3bb1a5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/13/section/26) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-6871c82d6ba1b2271b700d92ea3bb1a5]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2020/13/section/26) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

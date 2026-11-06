@@ -36,64 +36,64 @@ laying down special detailed rules for the application of the system of export r
 
 (Codified version) (revoked)
 
-[^key-2895e71423a0b14aed902f639137a58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2895e71423a0b14aed902f639137a58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-2895e71423a0b14aed902f639137a58e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2895e71423a0b14aed902f639137a58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2895e71423a0b14aed902f639137a58e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Model of the certificate referred to in Article 2(2)[^key-2895e71423a0b14aed902f639137a58e]
+## ANNEX I — Model of the certificate referred to in Article 2(2)[^c-2895e71423a0b14aed902f639137a58e]
 
 [image: see source](https://www.legislation.gov.uk/eur/2007/88/images/eur_20070088_2010-04-27_en_001)[image: see source](https://www.legislation.gov.uk/eur/2007/88/images/eur_20070088_2010-04-27_en_002)[image: see source](https://www.legislation.gov.uk/eur/2007/88/images/eur_20070088_2010-04-27_en_003)[image: see source](https://www.legislation.gov.uk/eur/2007/88/images/eur_20070088_2010-04-27_en_004)
 
-## ANNEX II — Provisions relating to the certificate referred to in Article 2(2)[^key-2895e71423a0b14aed902f639137a58e]
+## ANNEX II — Provisions relating to the certificate referred to in Article 2(2)[^c-2895e71423a0b14aed902f639137a58e]
 
-[^key-2895e71423a0b14aed902f639137a58e]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-2895e71423a0b14aed902f639137a58e]2.
+[^c-2895e71423a0b14aed902f639137a58e]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2895e71423a0b14aed902f639137a58e]3.
+[^c-2895e71423a0b14aed902f639137a58e]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2895e71423a0b14aed902f639137a58e]4.
+[^c-2895e71423a0b14aed902f639137a58e]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2895e71423a0b14aed902f639137a58e]5.
+[^c-2895e71423a0b14aed902f639137a58e]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-2895e71423a0b14aed902f639137a58e]
+[^c-2895e71423a0b14aed902f639137a58e]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-2895e71423a0b14aed902f639137a58e]
+## ANNEX III[^c-2895e71423a0b14aed902f639137a58e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV[^c-2895e71423a0b14aed902f639137a58e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2895e71423a0b14aed902f639137a58e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2895e71423a0b14aed902f639137a58e]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

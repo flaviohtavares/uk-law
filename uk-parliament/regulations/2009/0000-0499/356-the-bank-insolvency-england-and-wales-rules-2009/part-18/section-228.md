@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 228. Right of attendance[^key-bce0702b14714266ee71028472d4224c]
+## 228. Right of attendance[^c-bce0702b14714266ee71028472d4224c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.53 of the 1986 Rules. In paragraph (1) for “company insolvency pr
 
 ## Annotations
 
-[^key-bce0702b14714266ee71028472d4224c]: Commencement: Rule 228 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-bce0702b14714266ee71028472d4224c]: Commencement: Rule 228 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

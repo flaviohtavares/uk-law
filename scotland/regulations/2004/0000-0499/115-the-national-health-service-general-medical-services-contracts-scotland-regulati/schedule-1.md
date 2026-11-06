@@ -22,11 +22,11 @@ summary: ''
 
 Regulation 16
 
-### 1. Additional services generally[^key-29978d1116d551508375b3878bb685a8]
+### 1. Additional services generally[^c-29978d1116d551508375b3878bb685a8]
 
 The contractor shall provide, in relation to each additional service, such facilities and equipment as are necessary to enable it properly to perform that service.
 
-### 2. Cervical screening[^key-a44c81265f9e0f8bea5e6614eff30975]
+### 2. Cervical screening[^c-a44c81265f9e0f8bea5e6614eff30975]
 
 (1) A contractor whose contract includes the provision of cervical screening services shall—
 
@@ -42,7 +42,7 @@ The contractor shall provide, in relation to each additional service, such facil
 
 (3) The records referred to in sub-paragraph (1)(b) are an accurate record of the carrying out of a cervical screening test, the result of the test and any clinical follow up requirements.
 
-### 3. Contraceptive services[^key-5c61f4133a30f5746e8150503a9b6598]
+### 3. Contraceptive services[^c-5c61f4133a30f5746e8150503a9b6598]
 
 (1) A contractor whose contract includes the provision of contraceptive services shall make available to all its patients who request such services the services described in sub-paragraph (2).
 
@@ -56,7 +56,7 @@ The contractor shall provide, in relation to each additional service, such facil
 - (f) the giving of initial advice about sexual health promotion and sexually transmitted infections; and
 - (g) the referral as necessary for specialist sexual health services, including tests for sexually transmitted infections.
 
-### 4. Vaccinations and immunisations[^key-17bdcd07988b441ef3a8319a1dc01000]
+### 4. Vaccinations and immunisations[^c-17bdcd07988b441ef3a8319a1dc01000]
 
 (1) A contractor whose contract includes the provision of vaccinations and immunisations shall comply with the requirements in sub-paragraphs (2) and (3).
 
@@ -75,7 +75,7 @@ The contractor shall provide, in relation to each additional service, such facil
 
 (3) The contractor shall ensure that all staff involved in administering vaccines are trained in the recognition and initial treatment of anaphylaxis.
 
-### 5. Childhood vaccination and immunisation[^key-c93c4240357d581a468b0598a75f5d9b]
+### 5. Childhood vaccination and immunisation[^c-c93c4240357d581a468b0598a75f5d9b]
 
 (1) A contractor whose contract includes the provision of childhood vaccinations and immunisations shall comply with the requirements in sub-paragraphs (2) and (3).
 
@@ -94,7 +94,7 @@ The contractor shall provide, in relation to each additional service, such facil
 
 (3) The contractor shall ensure that all staff involved in administering vaccines are trained in the recognition and initial treatment of anaphylaxis.
 
-### 6. Child health surveillance[^key-5a2757ddfccb185c96592401092007c8]
+### 6. Child health surveillance[^c-5a2757ddfccb185c96592401092007c8]
 
 (1) A contractor whose contract includes the provision of child health surveillance services shall, in respect of any child under the age of five for whom it has responsibility under the contract—
 
@@ -115,7 +115,7 @@ The contractor shall provide, in relation to each additional service, such facil
 - (a) the development of the child while under the age of 5 years, compiled as soon as is reasonably practicable following the first examination of that child and, where appropriate, amended following each subsequent examination mentioned in that sub-paragraph; and
 - (b) the responses (if any) to offers made to the child’s parent for the child to undergo any examination referred to in sub-paragraph (2)(b).
 
-### 7. Maternity medical services[^key-d14619e21844915a6f94412e9f8dcc03]
+### 7. Maternity medical services[^c-d14619e21844915a6f94412e9f8dcc03]
 
 (1) A contractor whose contract includes the provision of maternity medical services shall provide—
 
@@ -131,7 +131,7 @@ The contractor shall provide, in relation to each additional service, such facil
   - (b) in relation to babies, any primary medical services necessary in their first 14 days of life;
 - “post-natal period” means the period starting from the conclusion of delivery of the baby or the patient’s discharge from secondary care services, whichever is the later, and ending on the fourteenth day after the birth.
 
-### 8. Minor surgery[^key-dee9ae2ca942f710c6e2d127fa8e2a9c]
+### 8. Minor surgery[^c-dee9ae2ca942f710c6e2d127fa8e2a9c]
 
 (1) A contractor whose contract includes the provision of minor surgery shall comply with the requirements in sub-paragraphs (2) and (3).
 
@@ -145,22 +145,22 @@ The contractor shall provide, in relation to each additional service, such facil
 
 ## Annotations
 
-[^key-29978d1116d551508375b3878bb685a8]: Commencement: Sch. 1 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-29978d1116d551508375b3878bb685a8]: Commencement: Sch. 1 para. 1 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-a44c81265f9e0f8bea5e6614eff30975]: Commencement: Sch. 1 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-a44c81265f9e0f8bea5e6614eff30975]: Commencement: Sch. 1 para. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-5c61f4133a30f5746e8150503a9b6598]: Commencement: Sch. 1 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-5c61f4133a30f5746e8150503a9b6598]: Commencement: Sch. 1 para. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-17bdcd07988b441ef3a8319a1dc01000]: Commencement: Sch. 1 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-17bdcd07988b441ef3a8319a1dc01000]: Commencement: Sch. 1 para. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00055]: Footnote: S.I. [1995/416](https://www.legislation.gov.uk/uksi/1995/416). Regulation 35 was amended by S.I. [1998/1600](https://www.legislation.gov.uk/uksi/1998/1600), [1999/749](https://www.legislation.gov.uk/uksi/1999/749) and [S.S.I. 1995/54](https://www.legislation.gov.uk/ssi/1995/54) and [2000/111](https://www.legislation.gov.uk/ssi/2000/111).
 
-[^key-c93c4240357d581a468b0598a75f5d9b]: Commencement: Sch. 1 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-c93c4240357d581a468b0598a75f5d9b]: Commencement: Sch. 1 para. 5 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-5a2757ddfccb185c96592401092007c8]: Commencement: Sch. 1 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-5a2757ddfccb185c96592401092007c8]: Commencement: Sch. 1 para. 6 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00056]: Footnote: David Hall and David Elliman, January 2003, Oxford University Press, ISBN 0-19-85188-X.
 
-[^key-d14619e21844915a6f94412e9f8dcc03]: Commencement: Sch. 1 para. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-d14619e21844915a6f94412e9f8dcc03]: Commencement: Sch. 1 para. 7 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
-[^key-dee9ae2ca942f710c6e2d127fa8e2a9c]: Commencement: Sch. 1 para. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-dee9ae2ca942f710c6e2d127fa8e2a9c]: Commencement: Sch. 1 para. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

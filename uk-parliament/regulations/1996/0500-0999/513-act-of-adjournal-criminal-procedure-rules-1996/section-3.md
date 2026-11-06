@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Revocations[^key-39a9d0de1cb4f176baa21f6c598a0922]
+## 3. Revocations[^c-39a9d0de1cb4f176baa21f6c598a0922]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Acts of Adjournal mentioned in Schedule 3 to this Act of Adjournal are revok
 
 ## Annotations
 
-[^key-39a9d0de1cb4f176baa21f6c598a0922]: Commencement: Para. 3 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-39a9d0de1cb4f176baa21f6c598a0922]: Commencement: Para. 3 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)

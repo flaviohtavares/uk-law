@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J3. Additional transfer value on outwards transfer in certain cases[^key-8e632e9ad72b9b5c8b4fc6caaa089b12]
+## J3. Additional transfer value on outwards transfer in certain cases[^c-8e632e9ad72b9b5c8b4fc6caaa089b12]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e632e9ad72b9b5c8b4fc6caaa089b12]: Commencement: [Reg. J3](https://www.legislation.gov.uk/uksi/1986/24/regulation/J3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-8e632e9ad72b9b5c8b4fc6caaa089b12]: Commencement: [Reg. J3](https://www.legislation.gov.uk/uksi/1986/24/regulation/J3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

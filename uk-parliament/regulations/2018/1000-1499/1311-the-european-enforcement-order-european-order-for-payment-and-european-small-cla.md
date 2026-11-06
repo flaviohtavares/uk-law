@@ -140,7 +140,7 @@ Commission Delegated Regulation (EU) 2017/1260 of 19 June 2017 replacing Annex I
 
 ## PART 5 — Saving Provisions
 
-### 16. Saving: application of Article 67 of the withdrawal agreement – European Enforcement Orders and European Orders for Payment applied for before IP completion day and European Small Claims Procedures commenced before IP completion day[^M_I_1e9c5014-bb3a-4934-a3fd-955a02086a09][^key-8c12a75116a7be898b66be3bdd692d53]
+### 16. Saving: application of Article 67 of the withdrawal agreement – European Enforcement Orders and European Orders for Payment applied for before IP completion day and European Small Claims Procedures commenced before IP completion day[^M_I_1e9c5014-bb3a-4934-a3fd-955a02086a09][^c-8c12a75116a7be898b66be3bdd692d53]
 
 Nothing in these Regulations affects the application of paragraphs 2(d), 3(d) and (e) of Article 67 of the withdrawal agreement and legislation amended or revoked by these Regulations continues to have effect for the purposes of those paragraphs as if the amendments and revocations had not been made.
 
@@ -216,4 +216,4 @@ A full impact assessment has not been published for this instrument as no, or no
 
 [^M_I_1e9c5014-bb3a-4934-a3fd-955a02086a09]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8c12a75116a7be898b66be3bdd692d53]: Textual amendment: Pt. 5 substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)
+[^c-8c12a75116a7be898b66be3bdd692d53]: Textual amendment: Pt. 5 substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1493/regulation/3)

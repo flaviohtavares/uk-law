@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.7. Questions about competency of application[^key-70690f122491c89f6b82ef0bc4208723]
+## 29.7. Questions about competency of application[^c-70690f122491c89f6b82ef0bc4208723]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70690f122491c89f6b82ef0bc4208723]: Commencement: Para. 29.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-70690f122491c89f6b82ef0bc4208723]: Commencement: Para. 29.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

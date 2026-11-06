@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transfer of the water authorities’ functions etc.[^key-367f3d44547d0d44133d3dd6d1314954]
+## 4. Transfer of the water authorities’ functions etc.[^c-367f3d44547d0d44133d3dd6d1314954]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-367f3d44547d0d44133d3dd6d1314954]: Modification: S. 4 applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/2)
+[^c-367f3d44547d0d44133d3dd6d1314954]: Modification: S. 4 applied (Isles of Scilly) (with modifications) (1.11.2019) by [The Isles of Scilly (Application of Water Legislation) Order 2019 (S.I. 2019/1259)](https://www.legislation.gov.uk/uksi/2019/1259), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2019/1259/article/2/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2019/1259/article/3/2)
 
 [^c3796791]: Subordinate legislation: Power of appointment conferred by s. 4(1) fully exercised: 1.9.1989 appointed as the transfer date for the purposes of s. 4 by [S.I. 1989/1530](https://www.legislation.gov.uk/uksi/1989/1530), [art. 2](https://www.legislation.gov.uk/uksi/1989/1530/article/2)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A drought order may authorise the appropriate agency[^key-dc4605bfd8d35e14c5641ba1041d70f1] or a water undertaker, subject to any conditions and restrictions specified in the order, to carry out any works required for the performance of any duty or the exercise of any power which is imposed or conferred by or under the order.
+(1) A drought order may authorise the appropriate agency[^c-dc4605bfd8d35e14c5641ba1041d70f1] or a water undertaker, subject to any conditions and restrictions specified in the order, to carry out any works required for the performance of any duty or the exercise of any power which is imposed or conferred by or under the order.
 
 (2) A drought order authorising the appropriate agency or a water undertaker to carry out any works—
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dc4605bfd8d35e14c5641ba1041d70f1]: Textual amendment: Words in [ss. 77-79](https://www.legislation.gov.uk/ukpga/1991/57/section/77) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(o)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/o) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-dc4605bfd8d35e14c5641ba1041d70f1]: Textual amendment: Words in [ss. 77-79](https://www.legislation.gov.uk/ukpga/1991/57/section/77) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(o)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/o) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18732101]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 

@@ -52,27 +52,27 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c21822301] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-aec59ed87d80cc962581d4a6215a4987]
+## 2. Amendment of the Income Support (General) Regulations[^c-aec59ed87d80cc962581d4a6215a4987]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Jobseeker's Allowance Regulations[^key-f87acdb4e1839299897d83afd5d8193a]
+## 3. Amendment of the Jobseeker's Allowance Regulations[^c-f87acdb4e1839299897d83afd5d8193a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the State Pension Credit Regulations[^key-ea40e478d3d572bcb0b130f8c72835cf]
+## 4. Amendment of the State Pension Credit Regulations[^c-ea40e478d3d572bcb0b130f8c72835cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Housing Benefit Regulations[^key-119532b9741a3e30097afc45f12d20cf]
+## 5. Amendment of the Housing Benefit Regulations[^c-119532b9741a3e30097afc45f12d20cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-71ef4188674e0c0e1aa6c28982d91e00]
+## 6. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-71ef4188674e0c0e1aa6c28982d91e00]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Employment and Support Allowance Regulations[^key-bd430691206e89b4f70fec8b6d0452fb]
+## 7. Amendment of the Employment and Support Allowance Regulations[^c-bd430691206e89b4f70fec8b6d0452fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,17 +136,17 @@ In so far as these Regulations are required, for the purposes of regulations 5 a
 
 [^c21822301]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-aec59ed87d80cc962581d4a6215a4987]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/167/regulation/2) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
+[^c-aec59ed87d80cc962581d4a6215a4987]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/167/regulation/2) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
 
-[^key-f87acdb4e1839299897d83afd5d8193a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/167/regulation/3) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
+[^c-f87acdb4e1839299897d83afd5d8193a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/167/regulation/3) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
 
-[^key-ea40e478d3d572bcb0b130f8c72835cf]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/167/regulation/4) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
+[^c-ea40e478d3d572bcb0b130f8c72835cf]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/167/regulation/4) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
 
-[^key-119532b9741a3e30097afc45f12d20cf]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/167/regulation/5) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
+[^c-119532b9741a3e30097afc45f12d20cf]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/167/regulation/5) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
 
-[^key-71ef4188674e0c0e1aa6c28982d91e00]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/167/regulation/6) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
+[^c-71ef4188674e0c0e1aa6c28982d91e00]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/167/regulation/6) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
 
-[^key-bd430691206e89b4f70fec8b6d0452fb]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2013/167/regulation/7) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
+[^c-bd430691206e89b4f70fec8b6d0452fb]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2013/167/regulation/7) revoked (31.5.2014) by [The Social Security (Habitual Residence) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/133)](https://www.legislation.gov.uk/nisr/2014/133), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/133/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2014/133/regulation/8)
 
 [^c21822401]: Marginal citation: S.R. [2000 No.71](https://www.legislation.gov.uk/ukcm/2000/71)
 

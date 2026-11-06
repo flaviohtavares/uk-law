@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Information offences: supplementary[^key-5f4edb667fa1762f0d6b0744016b863f][^key-4dd2c443c525e167db1570b757a1847d][^key-6b7bcfe034a7b089965b9ded8d758b4c]
+## 199. Information offences: supplementary[^c-5f4edb667fa1762f0d6b0744016b863f][^c-4dd2c443c525e167db1570b757a1847d][^c-6b7bcfe034a7b089965b9ded8d758b4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5f4edb667fa1762f0d6b0744016b863f]: Commencement: S. 199 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5f4edb667fa1762f0d6b0744016b863f]: Commencement: S. 199 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-4dd2c443c525e167db1570b757a1847d]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/50/section/199) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
+[^c-4dd2c443c525e167db1570b757a1847d]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/50/section/199) in force at 10.1.2024 for specified purposes by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z25)
 
-[^key-6b7bcfe034a7b089965b9ded8d758b4c]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/50/section/199) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)
+[^c-6b7bcfe034a7b089965b9ded8d758b4c]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2023/50/section/199) in force at 7.4.2026 for specified purposes by [S.I. 2026/262](https://www.legislation.gov.uk/uksi/2026/262), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2026/262/regulation/2/2)

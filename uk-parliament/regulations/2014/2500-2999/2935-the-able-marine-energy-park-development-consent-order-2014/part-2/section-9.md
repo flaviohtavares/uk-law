@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Agreements entered into by the Company etc.[^key-0b3b1d3bc06df9adadeabc131ac24a5a]
+## 9. Agreements entered into by the Company etc.[^c-0b3b1d3bc06df9adadeabc131ac24a5a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any agreement or undertaking entered into by the Company before the coming into 
 
 ## Annotations
 
-[^key-0b3b1d3bc06df9adadeabc131ac24a5a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/2935/article/9) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-0b3b1d3bc06df9adadeabc131ac24a5a]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/2935/article/9) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

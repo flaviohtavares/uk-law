@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Protected site strategies[^key-46f174f3bc282c992580bfb5ab3fa969][^key-a643ee63666cac6592eedee9ac0a9f1a]
+## 110. Protected site strategies[^c-46f174f3bc282c992580bfb5ab3fa969][^c-a643ee63666cac6592eedee9ac0a9f1a]
 
 *Extent: E+W*
 
@@ -98,6 +98,6 @@ to the extent the site or zone is within England.
 
 ## Annotations
 
-[^key-46f174f3bc282c992580bfb5ab3fa969]: Commencement: S. 110 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-46f174f3bc282c992580bfb5ab3fa969]: Commencement: S. 110 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-a643ee63666cac6592eedee9ac0a9f1a]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2021/30/section/110) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/o)
+[^c-a643ee63666cac6592eedee9ac0a9f1a]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2021/30/section/110) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/o)

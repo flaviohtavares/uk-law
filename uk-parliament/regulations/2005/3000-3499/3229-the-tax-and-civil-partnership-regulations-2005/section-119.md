@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119.[^key-dad8922ab3b965ef8e1fb7f16d22497f]
+## 119.[^c-dad8922ab3b965ef8e1fb7f16d22497f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 230 (employee share ownership trusts: dwelling-houses: special provis
 
 ## Annotations
 
-[^key-dad8922ab3b965ef8e1fb7f16d22497f]: Commencement: Reg. 119 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-dad8922ab3b965ef8e1fb7f16d22497f]: Commencement: Reg. 119 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

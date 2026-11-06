@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Restocking of premises following slaughter[^key-0bbae03671662349187261078b6475c0]
+## 47. Restocking of premises following slaughter[^c-0bbae03671662349187261078b6475c0]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bbae03671662349187261078b6475c0]: Commencement: Reg. 47 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-0bbae03671662349187261078b6475c0]: Commencement: Reg. 47 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

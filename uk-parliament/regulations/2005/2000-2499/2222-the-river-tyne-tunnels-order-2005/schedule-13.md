@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — ENACTMENTS REPEALED AND CEASING TO HAVE EFFECT[^key-377ce9e654c03b76e50e61133090a5b2]
+## SCHEDULE 13 — ENACTMENTS REPEALED AND CEASING TO HAVE EFFECT[^c-377ce9e654c03b76e50e61133090a5b2]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Article 50
 
 ## Annotations
 
-[^key-377ce9e654c03b76e50e61133090a5b2]: Commencement: Sch. 13 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-377ce9e654c03b76e50e61133090a5b2]: Commencement: Sch. 13 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

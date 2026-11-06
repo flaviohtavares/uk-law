@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54.[^key-16727decc62add9922cd07e43842487d]
+## 54.[^c-16727decc62add9922cd07e43842487d]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ In Article 3—
   > - ‘credit rating activities’ means data and information analysis and the evaluation, approval, issuing and review of credit ratings;
   > - ‘credit rating agency’ means a legal person whose occupation includes the issuing of credit ratings on a professional basis;
   > - ‘credit score’ means a measure of creditworthiness derived from summarising and expressing data based only on a pre-established statistical system or model, without any additional substantial rating-specific analytical input from a rating analyst;
-  > - ‘EU CRAR’ means Regulation[^key-d398333c3654e137e61205724e272295] [(EC) 1060/2009](https://www.legislation.gov.uk/eur/2009/1060) of the European Parliament and of the Council of 16 September 2009 on credit rating agencies as it had effect in the European Union immediately before IP completion day;
+  > - ‘EU CRAR’ means Regulation[^c-d398333c3654e137e61205724e272295] [(EC) 1060/2009](https://www.legislation.gov.uk/eur/2009/1060) of the European Parliament and of the Council of 16 September 2009 on credit rating agencies as it had effect in the European Union immediately before IP completion day;
   > - ‘EU regulated market’ has the meaning given in Article 2.1.13.B of the markets in financial instruments regulation;
   > - ‘the FCA’, means the Financial Conduct Authority;
   > - ‘financial instrument’ has the meaning given by Article 2.1.9 of the markets in financial instruments regulation, read with Articles 5 to 8 of Commission Regulation (EU) 2017/565 of 25 April 2016 supplementing Directive 2014/65/EU of the European Parliament and of the Council as regards organisational requirements and operating conditions for investment firms and defined terms for the purposes of that Directive;
@@ -102,6 +102,6 @@ In Article 3—
 
 ## Annotations
 
-[^key-16727decc62add9922cd07e43842487d]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-16727decc62add9922cd07e43842487d]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-d398333c3654e137e61205724e272295]: Textual amendment: Words in reg. 54(a) inserted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/11/2)
+[^c-d398333c3654e137e61205724e272295]: Textual amendment: Words in reg. 54(a) inserted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/11/2)

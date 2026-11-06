@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 173. Electronic delivery of special administration documents to court[^key-f130f7444ab739780149b3659d8942ea]
+## 173. Electronic delivery of special administration documents to court[^c-f130f7444ab739780149b3659d8942ea]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f130f7444ab739780149b3659d8942ea]: Commencement: Rule 173 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-f130f7444ab739780149b3659d8942ea]: Commencement: Rule 173 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

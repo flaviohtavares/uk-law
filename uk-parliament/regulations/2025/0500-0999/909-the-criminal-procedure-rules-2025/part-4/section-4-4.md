@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.4. Service by leaving or posting a document[^key-38cdaa29a28d6e6bca969f4a02aa6734]
+## 4.4. Service by leaving or posting a document[^c-38cdaa29a28d6e6bca969f4a02aa6734]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-38cdaa29a28d6e6bca969f4a02aa6734]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/uksi/2025/909/rule/4.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-38cdaa29a28d6e6bca969f4a02aa6734]: Commencement: [Rule 4.4](https://www.legislation.gov.uk/uksi/2025/909/rule/4.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00172]: Footnote: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45); sub-section (1) was substituted by section 331 of, and paragraph 6 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Sub-section (3) was amended by section 83 of, and paragraph 79 of Schedule 7 to, the Criminal Justice (Scotland) Act [1980 (c. 62)](https://www.legislation.gov.uk/ukpga/1980/62).
 

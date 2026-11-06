@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Allocation election[^key-0b11d525c049e88b57c4c531d0e469b2]
+## 81. Allocation election[^c-0b11d525c049e88b57c4c531d0e469b2]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0b11d525c049e88b57c4c531d0e469b2]: Commencement: Reg. 81 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-0b11d525c049e88b57c4c531d0e469b2]: Commencement: Reg. 81 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00056]: Footnote: Paragraph 15(2) was amended by the Finance Act [2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), Schedule 10, paragraph 26 and [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229).

@@ -34,7 +34,7 @@ Exiting The European Union
 
 Public Procurement
 
-The Defence and Security Public Contracts (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-dd208c25f941ec19f242df38d24d047e]
+The Defence and Security Public Contracts (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-dd208c25f941ec19f242df38d24d047e]
 
 Made
 
@@ -42,52 +42,52 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-dd208c25f941ec19f242df38d24d047e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd208c25f941ec19f242df38d24d047e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dd208c25f941ec19f242df38d24d047e]
+## 1. Citation and commencement[^c-dd208c25f941ec19f242df38d24d047e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Pre-exit amendments of the Defence and Security Public Contract Regulations 2011[^key-dd208c25f941ec19f242df38d24d047e]
+## 2. Pre-exit amendments of the Defence and Security Public Contract Regulations 2011[^c-dd208c25f941ec19f242df38d24d047e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exit-related amendments of the Defence and Security Public Contracts Regulations 2011[^key-dd208c25f941ec19f242df38d24d047e]
+## 3. Exit-related amendments of the Defence and Security Public Contracts Regulations 2011[^c-dd208c25f941ec19f242df38d24d047e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional and saving provision in relation to the amendments made by regulation 3[^key-dd208c25f941ec19f242df38d24d047e]
+## 4. Transitional and saving provision in relation to the amendments made by regulation 3[^c-dd208c25f941ec19f242df38d24d047e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd208c25f941ec19f242df38d24d047e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd208c25f941ec19f242df38d24d047e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-dd208c25f941ec19f242df38d24d047e]
+## SCHEDULE[^c-dd208c25f941ec19f242df38d24d047e]
 
 Regulation 3(32)
 
-> **SCHEDULE A1 — MODIFICATIONS OF ANNEX 4 TO THE DEFENCE AND SECURITY PROCUREMENT DIRECTIVE FOR THE PURPOSES OF THESE REGULATIONS[^key-dd208c25f941ec19f242df38d24d047e]**
+> **SCHEDULE A1 — MODIFICATIONS OF ANNEX 4 TO THE DEFENCE AND SECURITY PROCUREMENT DIRECTIVE FOR THE PURPOSES OF THESE REGULATIONS[^c-dd208c25f941ec19f242df38d24d047e]**
 >
 > Regulations 3(1), 14(4), 17(20), and 32(1) and (2)
 >
-> **1.**[^key-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-dd208c25f941ec19f242df38d24d047e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dd208c25f941ec19f242df38d24d047e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd208c25f941ec19f242df38d24d047e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd208c25f941ec19f242df38d24d047e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/697) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-dd208c25f941ec19f242df38d24d047e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/697) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

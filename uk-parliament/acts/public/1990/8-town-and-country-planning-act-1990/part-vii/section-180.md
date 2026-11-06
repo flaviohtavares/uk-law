@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Effect of planning permission, etc., on enforcement or breach of condition notice.[^c14022891][^key-3dbf5740c70c6d9488d3668ba201d8c2][^key-c1a0a56e43c51ca61f628f7d94fc2f60][^c14022881]
+## 180. Effect of planning permission, etc., on enforcement or breach of condition notice.[^c14022891][^c-3dbf5740c70c6d9488d3668ba201d8c2][^c-c1a0a56e43c51ca61f628f7d94fc2f60][^c14022881]
 
 *Extent: E+W*
 
@@ -39,9 +39,9 @@ planning permission is granted for any development carried out before the grant 
 
     S. 180: power to apply conferred (10.11.1993) by [1993 c.28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 171(4)(a)](https://www.legislation.gov.uk/ukpga/1993/28/section/171/4/a); [S.I. 1993/2762](https://www.legislation.gov.uk/uksi/1993/2762), [art. 3](https://www.legislation.gov.uk/uksi/1993/2762/article/3)
 
-[^key-3dbf5740c70c6d9488d3668ba201d8c2]: Modification: Ss. 178-181 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
+[^c-3dbf5740c70c6d9488d3668ba201d8c2]: Modification: Ss. 178-181 applied (with modifications) (E.) (1.6.2015) by [The Planning (Hazardous Substances) Regulations 2015 (S.I. 2015/627)](https://www.legislation.gov.uk/uksi/2015/627), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/627/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2015/627/regulation/15), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2015/627/schedule/4/part/2) (with [reg. 34](https://www.legislation.gov.uk/uksi/2015/627/regulation/34))
 
-[^key-c1a0a56e43c51ca61f628f7d94fc2f60]: Modification: Ss. 178-181 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2015/1597/regulation/18), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
+[^c-c1a0a56e43c51ca61f628f7d94fc2f60]: Modification: Ss. 178-181 applied (with modifications) (W.) (4.9.2015) by [The Planning (Hazardous Substances) (Wales) Regulations 2015 (S.I. 2015/1597)](https://www.legislation.gov.uk/wsi/2015/1597), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2015/1597/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2015/1597/regulation/18), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/wsi/2015/1597/schedule/4/part/2) (with [reg. 36](https://www.legislation.gov.uk/wsi/2015/1597/regulation/36))
 
 [^c14022881]: Textual amendment: S. 180 substituted (2.1.1992 for certain purposes, otherwise 27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 32](https://www.legislation.gov.uk/ukpga/1991/34/section/32), [Sch. 7 para.26](https://www.legislation.gov.uk/ukpga/1991/34/schedule/7/paragraph/26) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5)); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art. 2](https://www.legislation.gov.uk/uksi/1992/1630/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1630/schedule/1) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/1630/article/3/1))
 

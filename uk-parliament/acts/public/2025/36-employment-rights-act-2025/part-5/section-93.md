@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Advisory Board[^key-b442632399bcb4270f1e3fdb9b4b00c4][^key-f7df3f08028c02bb032fcc5d6c59df06]
+## 93. Advisory Board[^c-b442632399bcb4270f1e3fdb9b4b00c4][^c-f7df3f08028c02bb032fcc5d6c59df06]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b442632399bcb4270f1e3fdb9b4b00c4]: Commencement: S. 93 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b442632399bcb4270f1e3fdb9b4b00c4]: Commencement: S. 93 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f7df3f08028c02bb032fcc5d6c59df06]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/36/section/93) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(5)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/5)
+[^c-f7df3f08028c02bb032fcc5d6c59df06]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2025/36/section/93) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(5)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/5)

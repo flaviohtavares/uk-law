@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) This section applies if it appears to the Secretary of State that regulations under section 2 of the European Communities Act 1972 (c. 68) for giving effect to EU[^key-e54dfc8de106c81e44011a94161fe9f3] obligations imposed by the Communications Directives have come into force before the passing of this Act.
+(1) This section applies if it appears to the Secretary of State that regulations under section 2 of the European Communities Act 1972 (c. 68) for giving effect to EU[^c-e54dfc8de106c81e44011a94161fe9f3] obligations imposed by the Communications Directives have come into force before the passing of this Act.
 
 (2) The Secretary of State may by order—
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e54dfc8de106c81e44011a94161fe9f3]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-e54dfc8de106c81e44011a94161fe9f3]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

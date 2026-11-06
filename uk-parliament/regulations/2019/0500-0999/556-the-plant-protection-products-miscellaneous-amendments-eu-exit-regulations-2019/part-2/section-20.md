@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Commission Implementing Regulation (EU) No 844/2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^key-fc8f82816569baeef845de0b306a3ada]
+## 20. Commission Implementing Regulation (EU) No 844/2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market[^c-fc8f82816569baeef845de0b306a3ada]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In Article 1—
 
-- (a)[^key-a62f426b71f3f4078279baa1637f26b5] in paragraph 1—
+- (a)[^c-a62f426b71f3f4078279baa1637f26b5] in paragraph 1—
   - (i) for the first subparagraph substitute—
 
     > An application for the renewal of an approval of an active substance must be submitted by a producer of the active substance to a competent authority for a constituent territory in relation to which the active substance is approved (in this Regulation, the “assessing competent authority”) no later than three years before the expiry of the approval.
@@ -78,7 +78,7 @@ summary: ''
 (7) In Article 7(1)—
 
 - (a) in point (c)—
-  - (i) for “widely grown crop in each zone” substitute “ crop grown in Great Britain[^key-4e5e78887750a2fba21610a5c4931c44] ”;
+  - (i) for “widely grown crop in each zone” substitute “ crop grown in Great Britain[^c-4e5e78887750a2fba21610a5c4931c44] ”;
   - (ii) for the words from “cover all zones” to “widely grown” substitute “ concern a ";
 - (b) in points (e) and (f)—
   - (i) for “a Regulation” substitute “ legislation ”;
@@ -135,7 +135,7 @@ summary: ''
 
   > **5A.**
   >
-  > The 13[^key-aa16ed427fc9575f9416e0e2b55d37ec] month period provided for in paragraph 1 is extended by any additional period set in accordance with paragraph 5.
+  > The 13[^c-aa16ed427fc9575f9416e0e2b55d37ec] month period provided for in paragraph 1 is extended by any additional period set in accordance with paragraph 5.
   >
   > **5B.**
   >
@@ -178,7 +178,7 @@ summary: ''
 (13) In Article 13—
 
 - (a) in the heading, for “Authority” substitute “ assessing competent authority ”;
-- (b)[^key-a5d317d1547fd034ba3829fff2cf1fca] in paragraph 1—
+- (b)[^c-a5d317d1547fd034ba3829fff2cf1fca] in paragraph 1—
   - (i) in the first subparagraph—
     - (aa) for “Committee for Risk Assessment” substitute “Agency” in both places it occurs;
     - (bb) for “37(4)” substitute “37A(4)”;
@@ -207,7 +207,7 @@ summary: ''
     - (cc) omit “European Union”;
   - (ii) in the second sentence, omit “European Union”.
 
-(14)[^key-40985eec7213ae3e1067df9b1295384e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-40985eec7213ae3e1067df9b1295384e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) In Article 15, for the words from “renewal” to the end substitute “ existing renewal applications within the meaning of Article 1(2) of that Regulation ”.
 
@@ -224,14 +224,14 @@ summary: ''
 
 ## Annotations
 
-[^key-fc8f82816569baeef845de0b306a3ada]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fc8f82816569baeef845de0b306a3ada]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a62f426b71f3f4078279baa1637f26b5]: Textual amendment: Reg. 20(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a62f426b71f3f4078279baa1637f26b5]: Textual amendment: Reg. 20(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4e5e78887750a2fba21610a5c4931c44]: Textual amendment: Words in reg. 20(7)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(16)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/16/a)
+[^c-4e5e78887750a2fba21610a5c4931c44]: Textual amendment: Words in reg. 20(7)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(16)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/16/a)
 
-[^key-aa16ed427fc9575f9416e0e2b55d37ec]: Textual amendment: Word in reg. 20(11)(f) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(16)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/16/b)
+[^c-aa16ed427fc9575f9416e0e2b55d37ec]: Textual amendment: Word in reg. 20(11)(f) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(16)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/16/b)
 
-[^key-a5d317d1547fd034ba3829fff2cf1fca]: Textual amendment: Reg. 20(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(16)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/16/c)
+[^c-a5d317d1547fd034ba3829fff2cf1fca]: Textual amendment: Reg. 20(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(16)(c)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/16/c)
 
-[^key-40985eec7213ae3e1067df9b1295384e]: Textual amendment: Reg. 20(14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40985eec7213ae3e1067df9b1295384e]: Textual amendment: Reg. 20(14) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Environment (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/559)](https://www.legislation.gov.uk/uksi/2019/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/559/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2019/559/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

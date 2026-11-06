@@ -27,7 +27,7 @@ summary: ''
 
 (2) Subject to subsection (3) below, if the transferor so claims, the transfer shall not be treated for the purposes of this Act as a disposal, but all sums which, if it had been so treated, would have been brought into account as consideration for that disposal in the computation of the gain shall be deducted from any expenditure allowable under Chapter III of Part II as a deduction in computing a gain on any subsequent disposal of the holding.
 
-(2A)[^key-4a71e5ac5d8082f4d84a89eaa0e2674f] A claim under subsection (2) above shall be made—
+(2A)[^c-4a71e5ac5d8082f4d84a89eaa0e2674f] A claim under subsection (2) above shall be made—
 
 - (a) for the purposes of capital gains tax, on or before the first anniversary of the 31st January next following the year of assessment in which the transfer is made;
 - (b) for the purposes of corporation tax, within 2 years after the end of the accounting period in which the transfer is made.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a71e5ac5d8082f4d84a89eaa0e2674f]: Textual amendment: S. 242(2A) inserted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 37](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/37)
+[^c-4a71e5ac5d8082f4d84a89eaa0e2674f]: Textual amendment: S. 242(2A) inserted (with effect in accordance with s. 135(2) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 21 para. 37](https://www.legislation.gov.uk/ukpga/1996/8/schedule/21/paragraph/37)

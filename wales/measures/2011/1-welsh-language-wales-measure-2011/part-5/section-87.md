@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. When enforcement action takes effect[^key-dc676267ad1e9f0ef732cbb638cddd2a]
+## 87. When enforcement action takes effect[^c-dc676267ad1e9f0ef732cbb638cddd2a]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ if, in accordance with section 79 or 82, the decision notice requires D to do so
 
 ## Annotations
 
-[^key-dc676267ad1e9f0ef732cbb638cddd2a]: Commencement: [S. 87](https://www.legislation.gov.uk/mwa/2011/1/section/87) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-dc676267ad1e9f0ef732cbb638cddd2a]: Commencement: [S. 87](https://www.legislation.gov.uk/mwa/2011/1/section/87) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

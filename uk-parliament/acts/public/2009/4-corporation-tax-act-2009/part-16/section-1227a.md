@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1227A. Management expenses in relation to salaried members of limited liability partnerships[^key-c23400a41ffb04c2a705d7a0be3a8baf]
+## 1227A. Management expenses in relation to salaried members of limited liability partnerships[^c-c23400a41ffb04c2a705d7a0be3a8baf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c23400a41ffb04c2a705d7a0be3a8baf]: Textual amendment: S. 1227A inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/4/b), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-c23400a41ffb04c2a705d7a0be3a8baf]: Textual amendment: S. 1227A inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/4/b), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

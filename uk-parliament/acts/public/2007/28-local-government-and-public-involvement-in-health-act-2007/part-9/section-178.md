@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Making complaints etc electronically[^key-bbdbb2ba5810566dad0cad1598477ac8]
+## 178. Making complaints etc electronically[^c-bbdbb2ba5810566dad0cad1598477ac8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbdbb2ba5810566dad0cad1598477ac8]: Commencement: S. 178 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/k)
+[^c-bbdbb2ba5810566dad0cad1598477ac8]: Commencement: S. 178 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. The charity test[^key-a6fa798dc380364ad02c5d8291496524][^key-45363e34145eb143d4aac63d86f22a3f]
+## 7. The charity test[^c-a6fa798dc380364ad02c5d8291496524][^c-45363e34145eb143d4aac63d86f22a3f]
 
 *Extent: S*
 
@@ -59,20 +59,20 @@ summary: ''
 
 (4) A body which falls within paragraphs (a) and (b) of subsection (1) does not, despite that subsection, meet the charity test if—
 
-- (a)[^key-3dca26f61459a1907307e86ca3561c30] its constitution allows it to distribute or otherwise apply any of its property (on being wound up or at any other time) for a purpose which is not a charitable purpose,
-- (b)[^key-6499783981faad4943109f54a98f2194][^key-4318e1e307f9124c9cd11a7e1285f249] its constitution expressly permits the Scottish Ministers or a Minister of the Crown to direct or otherwise control its activities, or
+- (a)[^c-3dca26f61459a1907307e86ca3561c30] its constitution allows it to distribute or otherwise apply any of its property (on being wound up or at any other time) for a purpose which is not a charitable purpose,
+- (b)[^c-6499783981faad4943109f54a98f2194][^c-4318e1e307f9124c9cd11a7e1285f249] its constitution expressly permits the Scottish Ministers or a Minister of the Crown to direct or otherwise control its activities, or
 - (c) it is, or one of its purposes is to advance, a political party.
 
 (5) The Scottish Ministers may by order disapply either or both of paragraphs (a) and (b) of subsection (4) in relation to any body or type of body specified in the order.
 
 ## Annotations
 
-[^key-a6fa798dc380364ad02c5d8291496524]: Commencement: S. 7 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-a6fa798dc380364ad02c5d8291496524]: Commencement: S. 7 in force at 1.1.2006 for specified purposes by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
 
-[^key-45363e34145eb143d4aac63d86f22a3f]: Commencement: S. 7 in force at 24.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
+[^c-45363e34145eb143d4aac63d86f22a3f]: Commencement: S. 7 in force at 24.4.2006 in so far as not already in force by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(2)](https://www.legislation.gov.uk/ssi/2006/189/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/2)
 
-[^key-3dca26f61459a1907307e86ca3561c30]: Modification: S. 7(4)(a) excluded (24.4.2006) by [The Charity Test (Specified Bodies) (Scotland) Order 2006 (S.S.I. 2006/219)](https://www.legislation.gov.uk/ssi/2006/219), [arts. 1](https://www.legislation.gov.uk/ssi/2006/219/article/1), [2](https://www.legislation.gov.uk/ssi/2006/219/article/2), [Schs.](https://www.legislation.gov.uk/ssi/2006/219/schedule)
+[^c-3dca26f61459a1907307e86ca3561c30]: Modification: S. 7(4)(a) excluded (24.4.2006) by [The Charity Test (Specified Bodies) (Scotland) Order 2006 (S.S.I. 2006/219)](https://www.legislation.gov.uk/ssi/2006/219), [arts. 1](https://www.legislation.gov.uk/ssi/2006/219/article/1), [2](https://www.legislation.gov.uk/ssi/2006/219/article/2), [Schs.](https://www.legislation.gov.uk/ssi/2006/219/schedule)
 
-[^key-6499783981faad4943109f54a98f2194]: Modification: S. 7(4)(b) excluded (24.4.2006) by [The Charity Test (Specified Bodies) (Scotland) Order 2006 (S.S.I. 2006/219)](https://www.legislation.gov.uk/ssi/2006/219), [arts. 1](https://www.legislation.gov.uk/ssi/2006/219/article/1), [2](https://www.legislation.gov.uk/ssi/2006/219/article/2), [Schs.](https://www.legislation.gov.uk/ssi/2006/219/schedule)
+[^c-6499783981faad4943109f54a98f2194]: Modification: S. 7(4)(b) excluded (24.4.2006) by [The Charity Test (Specified Bodies) (Scotland) Order 2006 (S.S.I. 2006/219)](https://www.legislation.gov.uk/ssi/2006/219), [arts. 1](https://www.legislation.gov.uk/ssi/2006/219/article/1), [2](https://www.legislation.gov.uk/ssi/2006/219/article/2), [Schs.](https://www.legislation.gov.uk/ssi/2006/219/schedule)
 
-[^key-4318e1e307f9124c9cd11a7e1285f249]: Modification: S. 7(4)(b) disapplied (27.6.2008) by [Charity Test (Specified Bodies) (Scotland) Order 2008 (S.S.I. 2008/268)](https://www.legislation.gov.uk/ssi/2008/268), [arts. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1), [2](https://www.legislation.gov.uk/ssi/2008/268/article/2)
+[^c-4318e1e307f9124c9cd11a7e1285f249]: Modification: S. 7(4)(b) disapplied (27.6.2008) by [Charity Test (Specified Bodies) (Scotland) Order 2008 (S.S.I. 2008/268)](https://www.legislation.gov.uk/ssi/2008/268), [arts. 1](https://www.legislation.gov.uk/ssi/2008/268/article/1), [2](https://www.legislation.gov.uk/ssi/2008/268/article/2)

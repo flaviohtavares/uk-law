@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Banks authorised to issue banknotes in Scotland and Northern Ireland[^key-c32caa1b662f9659b13aef22e0c91dc1]
+## 38. Banks authorised to issue banknotes in Scotland and Northern Ireland[^c-c32caa1b662f9659b13aef22e0c91dc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c32caa1b662f9659b13aef22e0c91dc1]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/14/section/38) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(bb)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/bb)
+[^c-c32caa1b662f9659b13aef22e0c91dc1]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/14/section/38) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(bb)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/bb)

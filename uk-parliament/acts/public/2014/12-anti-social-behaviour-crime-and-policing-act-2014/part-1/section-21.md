@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Saving and transitional provision[^key-13f87e309121fcc5753f38c9407fe65f]
+## 21. Saving and transitional provision[^c-13f87e309121fcc5753f38c9407fe65f]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13f87e309121fcc5753f38c9407fe65f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)
+[^c-13f87e309121fcc5753f38c9407fe65f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21) in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/373/article/4/a)

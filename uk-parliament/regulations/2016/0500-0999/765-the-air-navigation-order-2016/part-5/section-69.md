@@ -24,7 +24,7 @@ summary: ''
 
 *Flight preparation*
 
-(2)[^key-7ef6423a63d131fa301188ed82eb77c8] Before commencing a flight the pilot in command must be satisfied that—
+(2)[^c-7ef6423a63d131fa301188ed82eb77c8] Before commencing a flight the pilot in command must be satisfied that—
 
 - (a) the flight can be made safely, taking into account the latest information available as to the route and aerodrome to be used; and
 - (b) the ground and water facilities, including any required communication and navigation facilities, are adequate for the intended flight.
@@ -63,7 +63,7 @@ summary: ''
 (8) The pilot in command must ensure that—
 
 - (a) the aircraft is airworthy;
-- (b) instruments and equipment required for the execution of the flight are installed in the aircraft and are operative, unless operation with inoperative or missing equipment is permitted by [^key-5b6c49e7002a1cc98a330f801610dedb]... the CAA;
+- (b) instruments and equipment required for the execution of the flight are installed in the aircraft and are operative, unless operation with inoperative or missing equipment is permitted by [^c-5b6c49e7002a1cc98a330f801610dedb]... the CAA;
 - (c) all equipment, baggage and cargo are properly loaded and secured and that an emergency evacuation of the aircraft remains possible.
 
 *Mass and balance requirements*
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ef6423a63d131fa301188ed82eb77c8]: Textual amendment: [Art. 69(2)](https://www.legislation.gov.uk/uksi/2016/765/article/69/2) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [17(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/17/a)
+[^c-7ef6423a63d131fa301188ed82eb77c8]: Textual amendment: [Art. 69(2)](https://www.legislation.gov.uk/uksi/2016/765/article/69/2) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [17(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/17/a)
 
-[^key-5b6c49e7002a1cc98a330f801610dedb]: Textual amendment: Words in [art. 69(8)(b)](https://www.legislation.gov.uk/uksi/2016/765/article/69/8/b) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [17(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/17/b)
+[^c-5b6c49e7002a1cc98a330f801610dedb]: Textual amendment: Words in [art. 69(8)(b)](https://www.legislation.gov.uk/uksi/2016/765/article/69/8/b) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [17(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/17/b)

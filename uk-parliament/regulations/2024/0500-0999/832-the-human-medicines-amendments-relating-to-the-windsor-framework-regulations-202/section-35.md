@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Revocation of regulation 51A[^key-9b6fdba8e7b12e441e5fb16263ef0ce3]
+## 35. Revocation of regulation 51A[^c-9b6fdba8e7b12e441e5fb16263ef0ce3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit regulation 51A (application for UKMA(GB) relating to generic medicinal prod
 
 ## Annotations
 
-[^key-9b6fdba8e7b12e441e5fb16263ef0ce3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2024/832/regulation/35) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-9b6fdba8e7b12e441e5fb16263ef0ce3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2024/832/regulation/35) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00046]: Footnote: Regulation 51A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

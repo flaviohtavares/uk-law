@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Notices etc[^key-fd041415dabf03b58a5435cd18259d63]
+## 162. Notices etc[^c-fd041415dabf03b58a5435cd18259d63]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any notice, information or document which an appellant (P) is entitled to receiv
 
 ## Annotations
 
-[^key-fd041415dabf03b58a5435cd18259d63]: Commencement: [Reg. 162](https://www.legislation.gov.uk/uksi/2014/2848/regulation/162) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-fd041415dabf03b58a5435cd18259d63]: Commencement: [Reg. 162](https://www.legislation.gov.uk/uksi/2014/2848/regulation/162) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Other contracts excluded from section 48[^key-816490fdf5de0708e10cce7387765214]
+## 25. Other contracts excluded from section 48[^c-816490fdf5de0708e10cce7387765214]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-816490fdf5de0708e10cce7387765214]: Commencement: Reg. 25 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-816490fdf5de0708e10cce7387765214]: Commencement: Reg. 25 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

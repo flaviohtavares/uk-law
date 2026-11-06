@@ -24,13 +24,13 @@ Article 63
 
 ### General
 
-**1.**[^key-29e336c8fc61f46d26d8e604241de089] (1) The provisions of this Schedule shall, unless otherwise agreed in writing between the Harbour Authority and the Environment Agency (“the Agency”), have effect for the protection of the Agency.
+**1.**[^c-29e336c8fc61f46d26d8e604241de089] (1) The provisions of this Schedule shall, unless otherwise agreed in writing between the Harbour Authority and the Environment Agency (“the Agency”), have effect for the protection of the Agency.
 
 (2) Where any consent, approval or agreement is required to be given by the Agency pursuant to this Schedule, it shall not be unreasonably withheld or delayed.
 
 ### Definitions applying to this Schedule
 
-**2.**[^key-17929262b865f25ed99f8b309a1cde53] In this Schedule—
+**2.**[^c-17929262b865f25ed99f8b309a1cde53] In this Schedule—
 
 - “accumulation” means any accumulation of silt or other material causing damage or a reasonable expectation of damage to flood defences managed by the Agency;
 - “construction” includes maintenance and “construct” and “constructed” shall be construed accordingly;
@@ -49,7 +49,7 @@ Article 63
 
 ### Tidal works
 
-**3.**[^key-66de1da6628d191b1b93e56aec8daeb2] (1) At the same time as submitting any plans and sections for any tidal work or operation to the PLA in accordance with paragraph 2 of Schedule 8, the Harbour Authority shall provide such plans and sections to the Agency and at the same time as the Harbour Authority provides any further particulars to the PLA pursuant to paragraph 2 of Schedule 8, the Harbour Authority shall provide such further particulars to the Agency.
+**3.**[^c-66de1da6628d191b1b93e56aec8daeb2] (1) At the same time as submitting any plans and sections for any tidal work or operation to the PLA in accordance with paragraph 2 of Schedule 8, the Harbour Authority shall provide such plans and sections to the Agency and at the same time as the Harbour Authority provides any further particulars to the PLA pursuant to paragraph 2 of Schedule 8, the Harbour Authority shall provide such further particulars to the Agency.
 
 (2) Within 21 days of the later of—
 
@@ -60,7 +60,7 @@ the Agency shall provide the PLA with its opinion on the plans and sections and 
 
 ### Pre-conditions to commencing specified work
 
-**4.**[^key-42cc186551314a7e6688eb2657f19576] (1) Before beginning to construct any specified work other than an excluded work, the Harbour Authority shall submit to the Agency plans of the specified work and such further particulars available to it as the Agency may reasonably require.
+**4.**[^c-42cc186551314a7e6688eb2657f19576] (1) Before beginning to construct any specified work other than an excluded work, the Harbour Authority shall submit to the Agency plans of the specified work and such further particulars available to it as the Agency may reasonably require.
 
 (2) Any specified work other than an excluded work shall not be constructed except in accordance with such plans as may be approved in writing by the Agency, or settled in accordance with paragraph 13(1).
 
@@ -106,11 +106,11 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 ### Survey of any drainage work liable to be affected by a specified work
 
-**5.**[^key-23633df307893603726c9711fa74be01] Before commencing the construction of a specified work liable to affect a drainage work the Harbour Authority shall procure at its expense, in liaison with and to the reasonable satisfaction of the Agency, a survey of any drainage work liable to be affected by that specified work.
+**5.**[^c-23633df307893603726c9711fa74be01] Before commencing the construction of a specified work liable to affect a drainage work the Harbour Authority shall procure at its expense, in liaison with and to the reasonable satisfaction of the Agency, a survey of any drainage work liable to be affected by that specified work.
 
 ### Maintenance by Harbour Authority of drainage works within its jurisdiction
 
-**6.**[^key-dbf13e91d9c1e1ff4ad9f9861f49eb97] (1) Subject to sub-paragraph (2), the Harbour Authority shall, from the commencement of the construction of any specified work and except to the extent that any approval given by the Agency under this Schedule permits otherwise, maintain in good repair and condition and free from obstruction any drainage work which is situated within the jurisdiction of the Harbour Authority or which it otherwise has control of or is in occupation of for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers of the Order or is already in existence.
+**6.**[^c-dbf13e91d9c1e1ff4ad9f9861f49eb97] (1) Subject to sub-paragraph (2), the Harbour Authority shall, from the commencement of the construction of any specified work and except to the extent that any approval given by the Agency under this Schedule permits otherwise, maintain in good repair and condition and free from obstruction any drainage work which is situated within the jurisdiction of the Harbour Authority or which it otherwise has control of or is in occupation of for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers of the Order or is already in existence.
 
 (2) The obligation imposed on the Harbour Authority under sub-paragraph (1) does not apply where the Agency or another person is liable to maintain any such drainage work and is not precluded by the exercise of the powers of the Order from doing so.
 
@@ -122,11 +122,11 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 ### Impairment of efficiency of drainage work for flood defence
 
-**7.**[^key-3dc9851d63a783c3c6f7e83e4adec405] If, by reason of the construction of a specified work or of the failure of any specified work or of the Harbour Authority to maintain it, the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the Harbour Authority to the reasonable satisfaction of the Agency and if the Harbour Authority fails to do so within such reasonable period as the Agency may require by notice in writing to the Harbour Authority, the Agency may make good the same and recover from the Harbour Authority the expense reasonably incurred by it in so doing.
+**7.**[^c-3dc9851d63a783c3c6f7e83e4adec405] If, by reason of the construction of a specified work or of the failure of any specified work or of the Harbour Authority to maintain it, the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the Harbour Authority to the reasonable satisfaction of the Agency and if the Harbour Authority fails to do so within such reasonable period as the Agency may require by notice in writing to the Harbour Authority, the Agency may make good the same and recover from the Harbour Authority the expense reasonably incurred by it in so doing.
 
 ### Damage to flood defences managed by the Agency
 
-**8.**[^key-af43bdf41a97ba5186c7ed62654e773e] (1) If, during the construction of a specified work or within 10 years after the completion of a specified work, there is caused or created an accumulation or erosion or alteration of the tidal flow or littoral drift which causes damage, or reasonable expectation of damage, to flood defences, the Harbour Authority shall, if it is proven to have caused the damage or reasonable expectation of damage, remedy to the extent of its causation such accumulation, erosion, alteration of tidal flow or littoral drift to the extent and commensurate with the damage it is proven to have caused, in the manner specified in sub-paragraph (4) and, if it refuses or fails so to do, the Agency may itself cause work to be done and may recover the reasonable cost of such work from the Harbour Authority.
+**8.**[^c-af43bdf41a97ba5186c7ed62654e773e] (1) If, during the construction of a specified work or within 10 years after the completion of a specified work, there is caused or created an accumulation or erosion or alteration of the tidal flow or littoral drift which causes damage, or reasonable expectation of damage, to flood defences, the Harbour Authority shall, if it is proven to have caused the damage or reasonable expectation of damage, remedy to the extent of its causation such accumulation, erosion, alteration of tidal flow or littoral drift to the extent and commensurate with the damage it is proven to have caused, in the manner specified in sub-paragraph (4) and, if it refuses or fails so to do, the Agency may itself cause work to be done and may recover the reasonable cost of such work from the Harbour Authority.
 
 (2) Should any accumulation or erosion or alteration of the tidal flow or littoral drift which causes damage or reasonable expectation of damage, arise within the said period of 10 years and be remedied in accordance with sub-paragraph (1), any recurrence of such accumulation or erosion or alteration of the tidal flow or littoral drift proven to be caused by the specified works shall from time to time be so remedied by the Harbour Authority during the said period of 10 years and at any time thereafter, save that the Harbour Authority’s obligation under this paragraph shall cease in the event that following the remedying of any accumulation or erosion or alteration of the tidal flow or littoral drift a period of 10 years elapses without any further accumulation or erosion or alteration of the tidal flow or littoral drift.
 
@@ -145,7 +145,7 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 ### Protection of the fishery
 
-**9.**[^key-bfe98e5d36146c7d14493c7db6b0b373] (1) The Harbour Authority shall take all such measures as may be reasonably practicable to prevent any significantly detrimental interruption of the free passage of fish in the fishery during the construction of any specified work.
+**9.**[^c-bfe98e5d36146c7d14493c7db6b0b373] (1) The Harbour Authority shall take all such measures as may be reasonably practicable to prevent any significantly detrimental interruption of the free passage of fish in the fishery during the construction of any specified work.
 
 (2) If by reason of—
 
@@ -160,7 +160,7 @@ damage to the fishery is caused or the Agency has reason to expect that such dam
 
 ### Indemnity as to costs and expenses
 
-**10.**[^key-0b4ea2b1b265c4d33ee40fc6f796eb9a] (1) The Harbour Authority shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain in the inspection, for the purposes of compliance with this Schedule, of the construction of the specified works or protective works required by the Agency under this Schedule.
+**10.**[^c-0b4ea2b1b265c4d33ee40fc6f796eb9a] (1) The Harbour Authority shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain in the inspection, for the purposes of compliance with this Schedule, of the construction of the specified works or protective works required by the Agency under this Schedule.
 
 (2) The Harbour Authority shall indemnify the Agency from all claims, demands, proceedings, costs, damages or expenses or loss, which may be made or taken against, or recovered from or incurred by the Agency by reason of—
 
@@ -174,11 +174,11 @@ which is caused by the construction of any of the specified works or any act or 
 
 (3) The Agency shall give to the Harbour Authority reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand shall be made without the consent of the Harbour Authority which shall not be unreasonably withheld and if such consent is not given by the Harbour Authority, the Agency shall diligently defend such claim or demand.
 
-**11.**[^key-63f5b6c1a77038328904972c7dd8a3e6] The fact that any work or thing has been executed or done by the Harbour Authority in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the Harbour Authority of any liability under paragraph 10.
+**11.**[^c-63f5b6c1a77038328904972c7dd8a3e6] The fact that any work or thing has been executed or done by the Harbour Authority in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the Harbour Authority of any liability under paragraph 10.
 
 ### Approvals deemed and not deemed
 
-**12.**[^key-3ba18cb0c2113845b3c2517a002afc9f] (1) For the purposes of section 109 of the Water Resources Act 1991 (structures in, over or under watercourses) as applying to the construction of any specified work, any approval given or deemed to be given by the Agency under this Schedule with respect to such construction shall be deemed also to constitute a consent under that section.
+**12.**[^c-3ba18cb0c2113845b3c2517a002afc9f] (1) For the purposes of section 109 of the Water Resources Act 1991 (structures in, over or under watercourses) as applying to the construction of any specified work, any approval given or deemed to be given by the Agency under this Schedule with respect to such construction shall be deemed also to constitute a consent under that section.
 
 (2) Section 23 of the Land Drainage Act 1991[^f00042] (prohibition on obstructions, etc. in watercourses) and any byelaws made under that Act or under the Water Resources Act 1991 shall not apply to anything done under or in pursuance of this Order.
 
@@ -186,40 +186,40 @@ which is caused by the construction of any of the specified works or any act or 
 
 ### Arbitration in respect of differences arising under this Schedule between the parties
 
-**13.**[^key-dec7878896e426d6d8e33c0a45ac625c] (1) Provided the Harbour Authority and the Agency agree, any difference arising between the Harbour Authority and the Agency under this Schedule (other than a difference as to its meaning or construction) shall be referred to and settled by arbitration in the manner provided by article 66 (arbitration) but where the Harbour Authority and the Agency do not agree, any difference shall be determined by the Secretary of State for Transport and the Secretary of State for Environment, Food and Rural Affairs, acting jointly.
+**13.**[^c-dec7878896e426d6d8e33c0a45ac625c] (1) Provided the Harbour Authority and the Agency agree, any difference arising between the Harbour Authority and the Agency under this Schedule (other than a difference as to its meaning or construction) shall be referred to and settled by arbitration in the manner provided by article 66 (arbitration) but where the Harbour Authority and the Agency do not agree, any difference shall be determined by the Secretary of State for Transport and the Secretary of State for Environment, Food and Rural Affairs, acting jointly.
 
 (2) In the case of a conflict between any approval or consent given by the Agency pursuant to this Schedule and any condition or restriction imposed on any approval by the Secretary of State under article 16 (tidal works not to be constructed without approval of the Secretary of State), the terms of the approval of the Secretary of State shall prevail.
 
 ## Annotations
 
-[^key-29e336c8fc61f46d26d8e604241de089]: Commencement: Sch. 10 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-29e336c8fc61f46d26d8e604241de089]: Commencement: Sch. 10 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-17929262b865f25ed99f8b309a1cde53]: Commencement: Sch. 10 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-17929262b865f25ed99f8b309a1cde53]: Commencement: Sch. 10 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-66de1da6628d191b1b93e56aec8daeb2]: Commencement: Sch. 10 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-66de1da6628d191b1b93e56aec8daeb2]: Commencement: Sch. 10 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-42cc186551314a7e6688eb2657f19576]: Commencement: Sch. 10 para. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-42cc186551314a7e6688eb2657f19576]: Commencement: Sch. 10 para. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-23633df307893603726c9711fa74be01]: Commencement: Sch. 10 para. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-23633df307893603726c9711fa74be01]: Commencement: Sch. 10 para. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-dbf13e91d9c1e1ff4ad9f9861f49eb97]: Commencement: Sch. 10 para. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-dbf13e91d9c1e1ff4ad9f9861f49eb97]: Commencement: Sch. 10 para. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-3dc9851d63a783c3c6f7e83e4adec405]: Commencement: Sch. 10 para. 7 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-3dc9851d63a783c3c6f7e83e4adec405]: Commencement: Sch. 10 para. 7 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-af43bdf41a97ba5186c7ed62654e773e]: Commencement: Sch. 10 para. 8 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-af43bdf41a97ba5186c7ed62654e773e]: Commencement: Sch. 10 para. 8 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00041]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-bfe98e5d36146c7d14493c7db6b0b373]: Commencement: Sch. 10 para. 9 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-bfe98e5d36146c7d14493c7db6b0b373]: Commencement: Sch. 10 para. 9 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-0b4ea2b1b265c4d33ee40fc6f796eb9a]: Commencement: Sch. 10 para. 10 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-0b4ea2b1b265c4d33ee40fc6f796eb9a]: Commencement: Sch. 10 para. 10 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-63f5b6c1a77038328904972c7dd8a3e6]: Commencement: Sch. 10 para. 11 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-63f5b6c1a77038328904972c7dd8a3e6]: Commencement: Sch. 10 para. 11 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-3ba18cb0c2113845b3c2517a002afc9f]: Commencement: Sch. 10 para. 12 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-3ba18cb0c2113845b3c2517a002afc9f]: Commencement: Sch. 10 para. 12 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00042]: Footnote: [1991 c.59](https://www.legislation.gov.uk/ukpga/1991/59).
 
 [^f00043]: Footnote: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51).
 
-[^key-dec7878896e426d6d8e33c0a45ac625c]: Commencement: Sch. 10 para. 13 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-dec7878896e426d6d8e33c0a45ac625c]: Commencement: Sch. 10 para. 13 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

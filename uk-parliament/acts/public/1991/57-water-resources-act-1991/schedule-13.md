@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — TRANSITIONAL WATER POLLUTION PROVISIONS[^key-542a33eee622e6481b75de7b3263233e]
+## SCHEDULE 13 — TRANSITIONAL WATER POLLUTION PROVISIONS[^c-542a33eee622e6481b75de7b3263233e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ Section 103.
 
 ## Annotations
 
-[^key-542a33eee622e6481b75de7b3263233e]: Textual amendment: Sch. 13 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(r)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/r), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-542a33eee622e6481b75de7b3263233e]: Textual amendment: Sch. 13 repealed (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 8(2)(r)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/8/2/r), [Sch. 28](https://www.legislation.gov.uk/uksi/2010/675/schedule/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))

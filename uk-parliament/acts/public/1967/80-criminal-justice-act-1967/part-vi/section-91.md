@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^c7287701] Any person who in any public place is guilty, while drunk, of disorderly behaviour [^key-de19abbf5e87853458e0f28e0ea46551]... shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c7287711].
+(1)[^c7287701] Any person who in any public place is guilty, while drunk, of disorderly behaviour [^c-de19abbf5e87853458e0f28e0ea46551]... shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c7287711].
 
 (2) The foregoing subsection shall have effect instead of any corresponding provision contained in section 12 of the [^c7287721]Licensing Act 1872, section 58 of the [^c7287731]Metropolitan Police Act 1839, section 37 of the [^c7287741]City of London Police Act 1839, and section 29 of the [^c7287751]Town Police Clauses Act 1847 (being enactments which authorise the imposition of a short term of imprisonment or of a fine not exceeding £10 or both for the corresponding offence) and instead of any corresponding provision contained in any local Act.
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^c7287701]: Modification: S. 91(1) amended by [Criminal Justice Act 1972 (c. 71)](https://www.legislation.gov.uk/ukpga/1972/71), [s. 34](https://www.legislation.gov.uk/ukpga/1972/71/section/34)
 
-[^key-de19abbf5e87853458e0f28e0ea46551]: Textual amendment: Words in s. 91(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/15), [17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-de19abbf5e87853458e0f28e0ea46551]: Textual amendment: Words in s. 91(1) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/15), [17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
 
 [^c7287711]: Textual amendment: words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 

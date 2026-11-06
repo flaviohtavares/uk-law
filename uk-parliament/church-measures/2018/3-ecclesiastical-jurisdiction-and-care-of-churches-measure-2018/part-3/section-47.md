@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 47. Archdeacon's power to require inspection of church[^key-c6e66d2d028105b18263bf5edbfa7cdf]
+## 47. Archdeacon's power to require inspection of church[^c-c6e66d2d028105b18263bf5edbfa7cdf]
 
 *Extent: E*
 
-(1) This section applies where an archdeacon finds on a survey of the churches of his or her jurisdiction, or at any other time, that a church in the archdeaconry or a relevant article in a church in the archdeaconry has not been inspected to his or her satisfaction [^key-8ff4346cfe3bcfc93cf9f38666dec820]... for at least five years.
+(1) This section applies where an archdeacon finds on a survey of the churches of his or her jurisdiction, or at any other time, that a church in the archdeaconry or a relevant article in a church in the archdeaconry has not been inspected to his or her satisfaction [^c-8ff4346cfe3bcfc93cf9f38666dec820]... for at least five years.
 
 (2) The archdeacon may serve on the PCC of the parish in which the church is situated a written notice requiring the PCC to cause the church or relevant article to be inspected in accordance with the scheme referred to in section 45.
 
@@ -39,12 +39,12 @@ summary: ''
 - (a) in a registered letter addressed to the secretary of the PCC by his or her name at his or her usual or last-known address, or
 - (b) if the secretary's name or residence is not known, in a registered letter addressed to the secretary by that title at the usual or last-known address of the incumbent of the parish.
 
-(7)[^key-ec3569a4c43444eb75b3903719a888f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ec3569a4c43444eb75b3903719a888f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6e66d2d028105b18263bf5edbfa7cdf]: Commencement: S. 47 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c6e66d2d028105b18263bf5edbfa7cdf]: Commencement: S. 47 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-8ff4346cfe3bcfc93cf9f38666dec820]: Textual amendment: Words in [s. 47(1)](https://www.legislation.gov.uk/ukcm/2018/3/section/47/1) omitted (1.9.2020) by virtue of [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 7(7)](https://www.legislation.gov.uk/ukcm/2020/1/section/7/7), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-8ff4346cfe3bcfc93cf9f38666dec820]: Textual amendment: Words in [s. 47(1)](https://www.legislation.gov.uk/ukcm/2018/3/section/47/1) omitted (1.9.2020) by virtue of [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 7(7)](https://www.legislation.gov.uk/ukcm/2020/1/section/7/7), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
 
-[^key-ec3569a4c43444eb75b3903719a888f2]: Textual amendment: [S. 47(7)](https://www.legislation.gov.uk/ukcm/2018/3/section/47/7) omitted (1.9.2020) by virtue of [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 7(8)](https://www.legislation.gov.uk/ukcm/2020/1/section/7/8), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)
+[^c-ec3569a4c43444eb75b3903719a888f2]: Textual amendment: [S. 47(7)](https://www.legislation.gov.uk/ukcm/2018/3/section/47/7) omitted (1.9.2020) by virtue of [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 7(8)](https://www.legislation.gov.uk/ukcm/2020/1/section/7/8), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2020/835](https://www.legislation.gov.uk/uksi/2020/835), [art. 2](https://www.legislation.gov.uk/uksi/2020/835/article/2)

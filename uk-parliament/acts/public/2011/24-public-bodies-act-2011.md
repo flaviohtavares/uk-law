@@ -283,9 +283,9 @@ Any entry in Schedules 1 to 5 ceases to have effect at the end of the period of 
 (1) The Welsh Ministers may by order modify—
 
 - (a) the functions of the Countryside Council for Wales (“the CCW”),
-- (b) the Welsh devolved functions of the Environment Agency, or[^key-dce9b44a5b9e1c84da85bcd9111b0799]
-- (c) the Welsh devolved functions of the Forestry Commissioners, [^key-39198d48df4959145becb6712913be15]...
-- (d)[^key-39198d48df4959145becb6712913be15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the Welsh devolved functions of the Environment Agency, or[^c-dce9b44a5b9e1c84da85bcd9111b0799]
+- (c) the Welsh devolved functions of the Forestry Commissioners, [^c-39198d48df4959145becb6712913be15]...
+- (d)[^c-39198d48df4959145becb6712913be15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Welsh Ministers may by order transfer any function of the CCW to—
 
@@ -301,7 +301,7 @@ Any entry in Schedules 1 to 5 ceases to have effect at the end of the period of 
 - (c) the CCW, or
 - (d) any other person exercising Welsh devolved functions.
 
-(4)[^key-40287642811a21a14c2a4a050d35526a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-40287642811a21a14c2a4a050d35526a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Welsh Ministers may by order transfer any function of theirs relating to the environment to—
 
@@ -317,9 +317,9 @@ Any entry in Schedules 1 to 5 ceases to have effect at the end of the period of 
 
 (7) The Welsh Ministers may by order establish a body corporate for the purposes of this section; and in this section references to a “new body” are to any body so established.
 
-(8)[^key-1fb70555fdb572f1abc540522a734a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1fb70555fdb572f1abc540522a734a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-1fb70555fdb572f1abc540522a734a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-1fb70555fdb572f1abc540522a734a18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 14. Powers relating to other bodies
 
@@ -530,7 +530,7 @@ the reference in subsection (1)(b)(ii) to a fine exceeding level 5 on the standa
 (4) In England and Wales—
 
 - (a) in the case of a summary offence committed before the coming into force of section 281(5) of the Criminal Justice Act 2003, the reference in subsection (2)(a)(i) to 51 weeks is to be read as a reference to six months, and
-- (b) in the case of an offence triable either way which is committed before 2 May 2022[^key-b30d8ed83435358ac4c47e353bc50c00], the reference in subsection (2)(a)(ii) to twelve months is to be read as a reference to six months.
+- (b) in the case of an offence triable either way which is committed before 2 May 2022[^c-b30d8ed83435358ac4c47e353bc50c00], the reference in subsection (2)(a)(ii) to twelve months is to be read as a reference to six months.
 
 (5) Subsection (1) does not prevent an order from repealing and re-enacting a criminal offence.
 
@@ -628,7 +628,7 @@ the reference in subsection (1)(b)(ii) to a fine exceeding level 5 on the standa
 
 #### 26. Delegation of functions by Environment Agency
 
-(1) The Environment Agency may make arrangements with a person exercising Welsh environmental functions who is not a cross-border operator for that person to exercise a [^key-3cc7ab0dee0ac6a0cc465c3cb0ccb9da]...function of the Agency.
+(1) The Environment Agency may make arrangements with a person exercising Welsh environmental functions who is not a cross-border operator for that person to exercise a [^c-3cc7ab0dee0ac6a0cc465c3cb0ccb9da]...function of the Agency.
 
 (2) The consent of the Secretary of State and the Welsh Ministers is required for arrangements under subsection (1).
 
@@ -716,33 +716,33 @@ the reference in subsection (1)(b)(ii) to a fine exceeding level 5 on the standa
 
 #### 30. Regional development agencies
 
-(1)[^key-ccb590b49ab95e7038f2f0616a6ad9a6] The regional development agencies are abolished.
+(1)[^c-ccb590b49ab95e7038f2f0616a6ad9a6] The regional development agencies are abolished.
 
-(2)[^key-ccb590b49ab95e7038f2f0616a6ad9a6] Subsection (1) does not apply to the London Development Agency (provision for the abolition of which is contained in the Localism Act 2011).
+(2)[^c-ccb590b49ab95e7038f2f0616a6ad9a6] Subsection (1) does not apply to the London Development Agency (provision for the abolition of which is contained in the Localism Act 2011).
 
-(3)[^key-83a1be0b36a18303ad19fb3817539b24] The enactments specified in Schedule 6 are repealed to the extent shown.
+(3)[^c-83a1be0b36a18303ad19fb3817539b24] The enactments specified in Schedule 6 are repealed to the extent shown.
 
-(4)[^key-b1ee3e6b752177150e75a551f88ac2b3] The Secretary of State may by order make provision for the purpose of facilitating or securing that activities begun by a regional development agency may be continued or completed by another person.
+(4)[^c-b1ee3e6b752177150e75a551f88ac2b3] The Secretary of State may by order make provision for the purpose of facilitating or securing that activities begun by a regional development agency may be continued or completed by another person.
 
-(5)[^key-b1ee3e6b752177150e75a551f88ac2b3] That includes in particular provision securing or facilitating that a person continuing or completing activities begun by a regional development agency may for their own purposes exercise any power of the agency.
+(5)[^c-b1ee3e6b752177150e75a551f88ac2b3] That includes in particular provision securing or facilitating that a person continuing or completing activities begun by a regional development agency may for their own purposes exercise any power of the agency.
 
-(6)[^key-b1ee3e6b752177150e75a551f88ac2b3] The powers referred to in subsection (5) include—
+(6)[^c-b1ee3e6b752177150e75a551f88ac2b3] The powers referred to in subsection (5) include—
 
 - (a) powers of compulsory acquisition of land or rights over land;
 - (b) rights of entry.
 
-(7)[^key-b1ee3e6b752177150e75a551f88ac2b3] The Secretary of State may by order make other consequential, supplementary, incidental or transitional provision, or savings.
+(7)[^c-b1ee3e6b752177150e75a551f88ac2b3] The Secretary of State may by order make other consequential, supplementary, incidental or transitional provision, or savings.
 
-(8)[^key-b1ee3e6b752177150e75a551f88ac2b3] A statutory instrument containing an order under this section—
+(8)[^c-b1ee3e6b752177150e75a551f88ac2b3] A statutory instrument containing an order under this section—
 
 - (a) if it contains provision repealing or amending an enactment, may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament;
 - (b) in any other case, is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(9)[^key-05dedf7af1cc1fdcc091e97f16f6e773] The Secretary of State may make a scheme for the transfer of property, rights and liabilities of a regional development agency to an eligible person or any body corporate in connection with the abolition of the agency under subsection (1); and sections 23(4) to (9) and 25 apply in relation to such a scheme.
+(9)[^c-05dedf7af1cc1fdcc091e97f16f6e773] The Secretary of State may make a scheme for the transfer of property, rights and liabilities of a regional development agency to an eligible person or any body corporate in connection with the abolition of the agency under subsection (1); and sections 23(4) to (9) and 25 apply in relation to such a scheme.
 
-(10)[^key-05dedf7af1cc1fdcc091e97f16f6e773] A scheme under subsection (9) may be included in an order under this section, but if not so included must be laid before Parliament after being made.
+(10)[^c-05dedf7af1cc1fdcc091e97f16f6e773] A scheme under subsection (9) may be included in an order under this section, but if not so included must be laid before Parliament after being made.
 
-(11)[^key-05dedf7af1cc1fdcc091e97f16f6e773] In this section “**regional development agency**” means a development agency established under the Regional Development Agencies Act 1998.
+(11)[^c-05dedf7af1cc1fdcc091e97f16f6e773] In this section “**regional development agency**” means a development agency established under the Regional Development Agencies Act 1998.
 
 #### 31. Sianel Pedwar Cymru
 
@@ -841,18 +841,18 @@ In section 1 of the Superannuation Act 1972 (superannuation schemes as respects 
 
 - “**charity**” has the meaning given in section 1(1) of the Charities Act 2006;
 - “**community benefit society**” means—
-  - (a) a society registered as a community benefit society under the Co-operative and Community Benefit Societies Act 2014[^key-a5a2a027d97077f6edf379239b0eb88f],
-  - (b) a pre-commencement society (within the meaning of that Act) that meets the condition in section 2(2)(a)(ii) of that Act,[^key-633692686e4b34726d02ec04c5fe26f6] or
+  - (a) a society registered as a community benefit society under the Co-operative and Community Benefit Societies Act 2014[^c-a5a2a027d97077f6edf379239b0eb88f],
+  - (b) a pre-commencement society (within the meaning of that Act) that meets the condition in section 2(2)(a)(ii) of that Act,[^c-633692686e4b34726d02ec04c5fe26f6] or
   - (c) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 which meets the condition in section 1(2)(b) of that Act;
 - “**constitutional arrangements**” is to be construed in accordance with section 3(2) and (3);
 - “**co-operative society**” means—
-  - (a) a society registered as a co-operative society under the Co-operative and Community Benefit Societies Act 2014[^key-0f9d0e4d943f2892c8d8c9f2c568f0be],
-  - (b) a pre-commencement society (within the meaning of that Act) that meets the condition in section 2(2)(a)(i) of that Act,[^key-1900943af02eed18704be9da5dc20f40] or
+  - (a) a society registered as a co-operative society under the Co-operative and Community Benefit Societies Act 2014[^c-0f9d0e4d943f2892c8d8c9f2c568f0be],
+  - (b) a pre-commencement society (within the meaning of that Act) that meets the condition in section 2(2)(a)(i) of that Act,[^c-1900943af02eed18704be9da5dc20f40] or
   - (c) a society registered or deemed to be registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 which meets the condition in section 1(2)(a) of that Act;
 - “**cross-border operator**” means a person exercising functions or carrying on activities in or with respect to Wales (or any part of it) and England (or any part of it), but does not include—
-  - (za) the Natural Resources Body for Wales,[^key-0e5386d26b3da14d9213c895dcbce7d3] or[^key-53d1dd82c349e7f1e00034b1d2a40d9f]
-  - (a) an internal drainage board, [^key-b34d3dd3dfa067821515bd1fb3daafc5]...
-  - (b) [^key-b34d3dd3dfa067821515bd1fb3daafc5]...
+  - (za) the Natural Resources Body for Wales,[^c-0e5386d26b3da14d9213c895dcbce7d3] or[^c-53d1dd82c349e7f1e00034b1d2a40d9f]
+  - (a) an internal drainage board, [^c-b34d3dd3dfa067821515bd1fb3daafc5]...
+  - (b) [^c-b34d3dd3dfa067821515bd1fb3daafc5]...
 - “**eligible person**” has the meaning given in section 1(3);
 - “**enactment**” means any primary or subordinate legislation;
 - “**Minister**” means—
@@ -873,9 +873,9 @@ In section 1 of the Superannuation Act 1972 (superannuation schemes as respects 
   and references to a person exercising a Welsh devolved function do not include a person exercising such a function by virtue of arrangements under section 27;
 - “**Welsh environmental function**” means a Welsh devolved function relating to the environment.
 
-(2)[^key-f451dc9ee52179a068f7dfa30c037746] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f451dc9ee52179a068f7dfa30c037746] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ae051edde6fb903c02f5454c992efd03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ae051edde6fb903c02f5454c992efd03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37. Extent
 
@@ -903,117 +903,117 @@ This Act may be cited as the Public Bodies Act 2011.
 
 SCHEDULES
 
-## SCHEDULE 1 (affected by repeal, see note) — Power to abolish: bodies and offices (affected by repeal, see note)[^key-0b0290241647e25ddf299fba216eb01b][^key-0b0290241647e25ddf299fba216eb01b]
+## SCHEDULE 1 (affected by repeal, see note) — Power to abolish: bodies and offices (affected by repeal, see note)[^c-0b0290241647e25ddf299fba216eb01b][^c-0b0290241647e25ddf299fba216eb01b]
 
-Section 1 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+Section 1 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-- [^key-2817506b618d72c216795605ab232860]...
-- [^key-5c5c645e465dd075a113203b22416497]...
-- [^key-f0e5b7681cb4037bf341da0e5488e0f8]...
-- Agricultural dwelling-house advisory committees for areas in England. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Agricultural Wages Board for England and Wales. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Agricultural wages committees for areas in England. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-cd830ef311bed5fd4cc5268078ca492a]...
-- [^key-654b44a6cada83259473d5efa0e2d11f]...
-- [^key-3fc0fe77b275fea51bc26ceb546dd610]...
-- [^key-e18aa7e7aabbff89fc58da2dd8f022d3]...
-- [^key-969f48d6d2f7648c4b6cd74a348a2364]...
-- [^key-116342f31246f872fa2d468b53baf8d6]...
-- Competition Service. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Courts boards. *(Extent: E+W)* *(affected by repeal, see note)*[^key-a0a7b5c81284d0900329f35a3fba2807] *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-3c06ff3e5f83a997bee42421a29b2be2]...
-- [^key-a49ae32a72e3a9709bd7f9e9dde3c6c0]...
-- Disabled Persons Transport Advisory Committee. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-711baa3e196b75146841e789df696c65]...
-- [^key-4db2c37feb5197b30c16758764ae4364]...
+- [^c-2817506b618d72c216795605ab232860]...
+- [^c-5c5c645e465dd075a113203b22416497]...
+- [^c-f0e5b7681cb4037bf341da0e5488e0f8]...
+- Agricultural dwelling-house advisory committees for areas in England. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Agricultural Wages Board for England and Wales. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Agricultural wages committees for areas in England. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-cd830ef311bed5fd4cc5268078ca492a]...
+- [^c-654b44a6cada83259473d5efa0e2d11f]...
+- [^c-3fc0fe77b275fea51bc26ceb546dd610]...
+- [^c-e18aa7e7aabbff89fc58da2dd8f022d3]...
+- [^c-969f48d6d2f7648c4b6cd74a348a2364]...
+- [^c-116342f31246f872fa2d468b53baf8d6]...
+- Competition Service. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Courts boards. *(Extent: E+W)* *(affected by repeal, see note)*[^c-a0a7b5c81284d0900329f35a3fba2807] *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-3c06ff3e5f83a997bee42421a29b2be2]...
+- [^c-a49ae32a72e3a9709bd7f9e9dde3c6c0]...
+- Disabled Persons Transport Advisory Committee. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-711baa3e196b75146841e789df696c65]...
+- [^c-4db2c37feb5197b30c16758764ae4364]...
 - [^M_F_90de16c2-702f-4c65-baf7-c765d41717f2]...
-- Inland Waterways Advisory Council. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-39d84d4922532c67771dd07a7266a837]...
-- [^key-ac565c8d8dd207e0c21edbae1fbb5d2c]...
-- [^key-086a005e7726150ef8d7d8646c4ae4a6]...
-- [^key-900e44da471efd3a89abf893e61d791c]...
-- [^key-3b45a55633ecb6554587628afb36e235]...
-- Plant Varieties and Seeds Tribunal. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-e7a5c566324d6f0cde74028e1570b86f]...
-- [^key-0240d494c5938037c187b1b85974c30f]...
-- [^key-79279026d93c2135903f45f560e1b378]...
-- [^key-bddecba4ec4b2f2de7d7ffc0ff6c23d4]...
-- [^key-9169f7d7cea149279161431a1b115272]...
-- Sports Grounds Safety Authority. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Valuation Tribunal Service. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-ca4adf90439db08e8b1b0e5f6c59efc2]...
+- Inland Waterways Advisory Council. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-39d84d4922532c67771dd07a7266a837]...
+- [^c-ac565c8d8dd207e0c21edbae1fbb5d2c]...
+- [^c-086a005e7726150ef8d7d8646c4ae4a6]...
+- [^c-900e44da471efd3a89abf893e61d791c]...
+- [^c-3b45a55633ecb6554587628afb36e235]...
+- Plant Varieties and Seeds Tribunal. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-e7a5c566324d6f0cde74028e1570b86f]...
+- [^c-0240d494c5938037c187b1b85974c30f]...
+- [^c-79279026d93c2135903f45f560e1b378]...
+- [^c-bddecba4ec4b2f2de7d7ffc0ff6c23d4]...
+- [^c-9169f7d7cea149279161431a1b115272]...
+- Sports Grounds Safety Authority. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Valuation Tribunal Service. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-ca4adf90439db08e8b1b0e5f6c59efc2]...
 
 NOTE
 
-**1.**[^key-99e99533d17bcf76b3d412b94de465cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-99e99533d17bcf76b3d412b94de465cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 (affected by repeal, see note) — Power to merge: bodies and offices (affected by repeal, see note)[^key-0b0290241647e25ddf299fba216eb01b][^key-0b0290241647e25ddf299fba216eb01b]
+## SCHEDULE 2 (affected by repeal, see note) — Power to merge: bodies and offices (affected by repeal, see note)[^c-0b0290241647e25ddf299fba216eb01b][^c-0b0290241647e25ddf299fba216eb01b]
 
-Section 2 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+Section 2 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-- *Group 1 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]*
-  - Central Arbitration Committee. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-  - Certification Officer. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- *Group 2 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]*
-  - [^key-4c9de15bec5bdf1fa6bc9d64e34cdad9]...
-  - [^key-4c9de15bec5bdf1fa6bc9d64e34cdad9]...
-- *Group 3 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]*
-  - Pensions Ombudsman. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-  - Ombudsman for the Board of the Pension Protection Fund. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- *Group 4 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]*
-  - Director of Public Prosecutions. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-  - Director of Revenue and Customs Prosecutions. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-56533f7a69f435f5a7116027b93e913e]...
-  - [^key-56533f7a69f435f5a7116027b93e913e]...
-  - [^key-56533f7a69f435f5a7116027b93e913e]...
+- *Group 1 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]*
+  - Central Arbitration Committee. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+  - Certification Officer. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- *Group 2 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]*
+  - [^c-4c9de15bec5bdf1fa6bc9d64e34cdad9]...
+  - [^c-4c9de15bec5bdf1fa6bc9d64e34cdad9]...
+- *Group 3 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]*
+  - Pensions Ombudsman. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+  - Ombudsman for the Board of the Pension Protection Fund. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- *Group 4 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]*
+  - Director of Public Prosecutions. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+  - Director of Revenue and Customs Prosecutions. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-56533f7a69f435f5a7116027b93e913e]...
+  - [^c-56533f7a69f435f5a7116027b93e913e]...
+  - [^c-56533f7a69f435f5a7116027b93e913e]...
 
-## SCHEDULE 3 (affected by repeal, see note) — Power to modify constitutional arrangements: bodies and offices (affected by repeal, see note)[^key-0b0290241647e25ddf299fba216eb01b][^key-0b0290241647e25ddf299fba216eb01b]
+## SCHEDULE 3 (affected by repeal, see note) — Power to modify constitutional arrangements: bodies and offices (affected by repeal, see note)[^c-0b0290241647e25ddf299fba216eb01b][^c-0b0290241647e25ddf299fba216eb01b]
 
-Section 3 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+Section 3 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-- [^key-a064106431012e2813eefb092d6c95dc]...
-- British Hallmarking Council. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Broads Authority. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Commission for Equality and Human Rights. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- English Tourist Board. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Internal drainage boards for areas wholly or mainly in England. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Joint Nature Conservation Committee. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- National Park authorities in England. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Passengers' Council (“Passenger Focus”). *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Sianel Pedwar Cymru (“S4C”). *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Theatres Trust. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+- [^c-a064106431012e2813eefb092d6c95dc]...
+- British Hallmarking Council. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Broads Authority. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Commission for Equality and Human Rights. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- English Tourist Board. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Internal drainage boards for areas wholly or mainly in England. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Joint Nature Conservation Committee. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- National Park authorities in England. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Passengers' Council (“Passenger Focus”). *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Sianel Pedwar Cymru (“S4C”). *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Theatres Trust. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-## SCHEDULE 4 (affected by repeal, see note) — Power to modify funding arrangements: bodies and offices (affected by repeal, see note)[^key-0b0290241647e25ddf299fba216eb01b][^key-0b0290241647e25ddf299fba216eb01b]
+## SCHEDULE 4 (affected by repeal, see note) — Power to modify funding arrangements: bodies and offices (affected by repeal, see note)[^c-0b0290241647e25ddf299fba216eb01b][^c-0b0290241647e25ddf299fba216eb01b]
 
-Section 4 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+Section 4 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-- [^key-cfe9b2131eb1a509c9d43a2f39a0d1fa]...
-- Commission for Equality and Human Rights. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-4c4dbc2261c21b2c5d18c61fea07d01a]...
-- Marine Management Organisation. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Natural England. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Office of Communications (“Ofcom”). *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+- [^c-cfe9b2131eb1a509c9d43a2f39a0d1fa]...
+- Commission for Equality and Human Rights. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-4c4dbc2261c21b2c5d18c61fea07d01a]...
+- Marine Management Organisation. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Natural England. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Office of Communications (“Ofcom”). *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-## SCHEDULE 5 (affected by repeal, see note) — Power to modify or transfer functions: bodies and offices (affected by repeal, see note)[^key-0b0290241647e25ddf299fba216eb01b][^key-0b0290241647e25ddf299fba216eb01b]
+## SCHEDULE 5 (affected by repeal, see note) — Power to modify or transfer functions: bodies and offices (affected by repeal, see note)[^c-0b0290241647e25ddf299fba216eb01b][^c-0b0290241647e25ddf299fba216eb01b]
 
-Section 5 *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+Section 5 *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
-- [^key-07c0bf554778f8b09c526d292f4202a2]...
-- Advisory Council on Public Records. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- British Hallmarking Council. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- British Waterways Board. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Commission for Equality and Human Rights. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Dover Harbour Board. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Environment Agency. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Her Majesty's Stationery Office. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Horserace Betting Levy Board. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Human Fertilisation and Embryology Authority. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Human Tissue Authority. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Internal drainage boards for areas wholly or mainly in England. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Keeper of Public Records. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- Office of Communications (“Ofcom”). *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
-- [^key-389541212c9915a26d81ece461c8c25e]...
-- Public Record Office. *(affected by repeal, see note)*[^key-0b0290241647e25ddf299fba216eb01b]
+- [^c-07c0bf554778f8b09c526d292f4202a2]...
+- Advisory Council on Public Records. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- British Hallmarking Council. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- British Waterways Board. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Commission for Equality and Human Rights. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Dover Harbour Board. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Environment Agency. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Her Majesty's Stationery Office. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Horserace Betting Levy Board. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Human Fertilisation and Embryology Authority. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Human Tissue Authority. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Internal drainage boards for areas wholly or mainly in England. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Keeper of Public Records. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- Office of Communications (“Ofcom”). *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
+- [^c-389541212c9915a26d81ece461c8c25e]...
+- Public Record Office. *(affected by repeal, see note)*[^c-0b0290241647e25ddf299fba216eb01b]
 
 NOTES
 
@@ -1024,7 +1024,7 @@ NOTES
 
 **2.** Section 21(1) and (2) do not apply to an order under section 5 which provides for the functions of the Dover Harbour Board to be transferred to another person.
 
-## SCHEDULE 6 — Regional development agencies: consequential repeals[^key-4ed5620dd5dc4a46667b8efb9315321c]
+## SCHEDULE 6 — Regional development agencies: consequential repeals[^c-4ed5620dd5dc4a46667b8efb9315321c]
 
 Section 30
 
@@ -1064,112 +1064,112 @@ Section 30
 
 ## Annotations
 
-[^key-dce9b44a5b9e1c84da85bcd9111b0799]: Textual amendment: Word in [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/1/b) inserted (E.W.) (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(a)(i)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/a/i); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-dce9b44a5b9e1c84da85bcd9111b0799]: Textual amendment: Word in [s. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/1/b) inserted (E.W.) (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(a)(i)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/a/i); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-39198d48df4959145becb6712913be15]: Textual amendment: [S. 13(1)(d)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/1/d) and word omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/a/ii); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-39198d48df4959145becb6712913be15]: Textual amendment: [S. 13(1)(d)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/1/d) and word omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/a/ii); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-40287642811a21a14c2a4a050d35526a]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/4) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/b); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-40287642811a21a14c2a4a050d35526a]: Textual amendment: [S. 13(4)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/4) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/b); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-1fb70555fdb572f1abc540522a734a18]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/8)[(9)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/9) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(c)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/c); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-1fb70555fdb572f1abc540522a734a18]: Textual amendment: [S. 13(8)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/8)[(9)](https://www.legislation.gov.uk/ukpga/2011/24/section/13/9) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(2)(c)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/2/c); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-b30d8ed83435358ac4c47e353bc50c00]: Textual amendment: Words in [s. 22(4)(b)](https://www.legislation.gov.uk/ukpga/2011/24/section/22/4/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-b30d8ed83435358ac4c47e353bc50c00]: Textual amendment: Words in [s. 22(4)(b)](https://www.legislation.gov.uk/ukpga/2011/24/section/22/4/b) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-3cc7ab0dee0ac6a0cc465c3cb0ccb9da]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/26/1) omitted (18.7.2013 with effect in accordance with art. 1(3)) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/3/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-3cc7ab0dee0ac6a0cc465c3cb0ccb9da]: Textual amendment: Words in [s. 26(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/26/1) omitted (18.7.2013 with effect in accordance with art. 1(3)) by virtue of [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/3/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
-[^key-ccb590b49ab95e7038f2f0616a6ad9a6]: Commencement: S. 30(1)(2) in force at 1.7.2012 at 0.02 a.m. by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/a)
+[^c-ccb590b49ab95e7038f2f0616a6ad9a6]: Commencement: S. 30(1)(2) in force at 1.7.2012 at 0.02 a.m. by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/a)
 
-[^key-83a1be0b36a18303ad19fb3817539b24]: Commencement: S. 30(3) in force at 1.7.2012 at 0.02 a.m. for specified purposes by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-83a1be0b36a18303ad19fb3817539b24]: Commencement: S. 30(3) in force at 1.7.2012 at 0.02 a.m. for specified purposes by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
 
-[^key-b1ee3e6b752177150e75a551f88ac2b3]: Commencement: S. 30(4)-(8) in force at 1.7.2012 by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/1)
+[^c-b1ee3e6b752177150e75a551f88ac2b3]: Commencement: S. 30(4)-(8) in force at 1.7.2012 by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/1)
 
-[^key-05dedf7af1cc1fdcc091e97f16f6e773]: Commencement: S. 30(9)-(11) in force at 16.12.2011 by [S.I. 2011/3043](https://www.legislation.gov.uk/uksi/2011/3043), [art. 2](https://www.legislation.gov.uk/uksi/2011/3043/article/2)
+[^c-05dedf7af1cc1fdcc091e97f16f6e773]: Commencement: S. 30(9)-(11) in force at 16.12.2011 by [S.I. 2011/3043](https://www.legislation.gov.uk/uksi/2011/3043), [art. 2](https://www.legislation.gov.uk/uksi/2011/3043/article/2)
 
-[^key-a5a2a027d97077f6edf379239b0eb88f]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(2)(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/2/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-a5a2a027d97077f6edf379239b0eb88f]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(2)(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/2/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-633692686e4b34726d02ec04c5fe26f6]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(2)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/2/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-633692686e4b34726d02ec04c5fe26f6]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(2)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/2/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-0f9d0e4d943f2892c8d8c9f2c568f0be]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(3)(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/3/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-0f9d0e4d943f2892c8d8c9f2c568f0be]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(3)(a)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/3/a) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-1900943af02eed18704be9da5dc20f40]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(3)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/3/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-1900943af02eed18704be9da5dc20f40]: Textual amendment: Words in s. 36(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 180(3)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/180/3/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-0e5386d26b3da14d9213c895dcbce7d3]: Textual amendment: Words in s. 36(1) inserted (18.7.2013 with effect in accordance with art. 1(3)) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/1821/article/3/3) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-0e5386d26b3da14d9213c895dcbce7d3]: Textual amendment: Words in s. 36(1) inserted (18.7.2013 with effect in accordance with art. 1(3)) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/1821/article/3/3) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
-[^key-53d1dd82c349e7f1e00034b1d2a40d9f]: Textual amendment: Word in s. 36(1) inserted (E.W.) (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(3)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/3/a); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-53d1dd82c349e7f1e00034b1d2a40d9f]: Textual amendment: Word in s. 36(1) inserted (E.W.) (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(3)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/3/a); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-b34d3dd3dfa067821515bd1fb3daafc5]: Textual amendment: Words in s. 36(1) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/3/b); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-b34d3dd3dfa067821515bd1fb3daafc5]: Textual amendment: Words in s. 36(1) omitted (E.W.) (14.7.2017) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 26(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/26/3/b); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-f451dc9ee52179a068f7dfa30c037746]: Textual amendment: S. 36(2) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-f451dc9ee52179a068f7dfa30c037746]: Textual amendment: S. 36(2) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-ae051edde6fb903c02f5454c992efd03]: Textual amendment: S. 36(3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ae051edde6fb903c02f5454c992efd03]: Textual amendment: S. 36(3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-0b0290241647e25ddf299fba216eb01b]: Textual amendment: Schs. 1-5: any entry ceases to have effect at the end of the period of 5 years beginning with the day on which it came into force by virtue of [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 12](https://www.legislation.gov.uk/ukpga/2011/24/section/12), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
+[^c-0b0290241647e25ddf299fba216eb01b]: Textual amendment: Schs. 1-5: any entry ceases to have effect at the end of the period of 5 years beginning with the day on which it came into force by virtue of [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 12](https://www.legislation.gov.uk/ukpga/2011/24/section/12), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
 
-[^key-2817506b618d72c216795605ab232860]: Textual amendment: Entry in Sch. 1 omitted (20.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/3), [Sch. para. 41(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/a)
+[^c-2817506b618d72c216795605ab232860]: Textual amendment: Entry in Sch. 1 omitted (20.8.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/3), [Sch. para. 41(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/a)
 
-[^key-5c5c645e465dd075a113203b22416497]: Textual amendment: Entry in Sch. 1 repealed (23.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
+[^c-5c5c645e465dd075a113203b22416497]: Textual amendment: Entry in Sch. 1 repealed (23.7.2012) by [The Advisory Committee on Hazardous Substances (Abolition) Order 2012 (S.I. 2012/1923)](https://www.legislation.gov.uk/uksi/2012/1923), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/1923/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/1923/schedule)
 
-[^key-f0e5b7681cb4037bf341da0e5488e0f8]: Textual amendment: Entry in Sch. 1 repealed (28.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/978/article/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
+[^c-f0e5b7681cb4037bf341da0e5488e0f8]: Textual amendment: Entry in Sch. 1 repealed (28.3.2015) by [The Public Bodies (Abolition of the Advisory Committees on Pesticides) Order 2015 (S.I. 2015/978)](https://www.legislation.gov.uk/uksi/2015/978), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/978/article/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/978/schedule/part/1)
 
-[^key-cd830ef311bed5fd4cc5268078ca492a]: Textual amendment: Entry in Sch. 1 omitted (23.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/686/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/10)
+[^c-cd830ef311bed5fd4cc5268078ca492a]: Textual amendment: Entry in Sch. 1 omitted (23.3.2013) by virtue of [The Public Bodies (Abolition of the Aircraft and Shipbuilding Industries Arbitration Tribunal) Order 2013 (S.I. 2013/686)](https://www.legislation.gov.uk/uksi/2013/686), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/686/article/1/3), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/686/schedule/1/paragraph/10)
 
-[^key-654b44a6cada83259473d5efa0e2d11f]: Textual amendment: Entry in Sch. 1 omitted (23.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/687/article/1/3), [Sch. 1 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/15/2/a)
+[^c-654b44a6cada83259473d5efa0e2d11f]: Textual amendment: Entry in Sch. 1 omitted (23.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/687/article/1/3), [Sch. 1 para. 15(2)(a)](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/15/2/a)
 
-[^key-3fc0fe77b275fea51bc26ceb546dd610]: Textual amendment: Entry in Sch. 1 repealed (1.10.2013) by [The Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013 (S.I. 2013/2314)](https://www.legislation.gov.uk/uksi/2013/2314), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/2314/article/1/3), [9](https://www.legislation.gov.uk/uksi/2013/2314/article/9)
+[^c-3fc0fe77b275fea51bc26ceb546dd610]: Textual amendment: Entry in Sch. 1 repealed (1.10.2013) by [The Public Bodies (Abolition of BRB (Residuary) Limited) Order 2013 (S.I. 2013/2314)](https://www.legislation.gov.uk/uksi/2013/2314), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/2314/article/1/3), [9](https://www.legislation.gov.uk/uksi/2013/2314/article/9)
 
-[^key-e18aa7e7aabbff89fc58da2dd8f022d3]: Textual amendment: Entry in Sch. 1 omitted (2.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/3), [Sch. para. 109(f)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/109/f)
+[^c-e18aa7e7aabbff89fc58da2dd8f022d3]: Textual amendment: Entry in Sch. 1 omitted (2.8.2012) by virtue of [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/2007/article/1/3), [Sch. para. 109(f)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/109/f)
 
-[^key-969f48d6d2f7648c4b6cd74a348a2364]: Textual amendment: Entry in Sch. 1 repealed (2.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(5)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/5), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-969f48d6d2f7648c4b6cd74a348a2364]: Textual amendment: Entry in Sch. 1 repealed (2.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(5)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/5), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
 
-[^key-116342f31246f872fa2d468b53baf8d6]: Textual amendment: Entry in Sch. 1 repealed (24.4.2014) by [The Public Bodies (Abolition of the Committee on Agricultural Valuation) Order 2014 (S.I. 2014/1068)](https://www.legislation.gov.uk/uksi/2014/1068), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1068/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2014/1068/article/3/3)
+[^c-116342f31246f872fa2d468b53baf8d6]: Textual amendment: Entry in Sch. 1 repealed (24.4.2014) by [The Public Bodies (Abolition of the Committee on Agricultural Valuation) Order 2014 (S.I. 2014/1068)](https://www.legislation.gov.uk/uksi/2014/1068), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/1068/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2014/1068/article/3/3)
 
-[^key-a0a7b5c81284d0900329f35a3fba2807]: Textual amendment: Entry in Sch. 1 repealed (E.W.) (3.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/3), [3](https://www.legislation.gov.uk/uksi/2012/1206/article/3)
+[^c-a0a7b5c81284d0900329f35a3fba2807]: Textual amendment: Entry in Sch. 1 repealed (E.W.) (3.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/3), [3](https://www.legislation.gov.uk/uksi/2012/1206/article/3)
 
-[^key-3c06ff3e5f83a997bee42421a29b2be2]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/3)[2(4)](https://www.legislation.gov.uk/uksi/2012/2398/article/2/4)
+[^c-3c06ff3e5f83a997bee42421a29b2be2]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/3)[2(4)](https://www.legislation.gov.uk/uksi/2012/2398/article/2/4)
 
-[^key-a49ae32a72e3a9709bd7f9e9dde3c6c0]: Textual amendment: Entry in Sch. 1 omitted (8.2.2013) by virtue of [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/252/article/1/3), [6](https://www.legislation.gov.uk/uksi/2013/252/article/6)
+[^c-a49ae32a72e3a9709bd7f9e9dde3c6c0]: Textual amendment: Entry in Sch. 1 omitted (8.2.2013) by virtue of [The Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 (S.I. 2013/252)](https://www.legislation.gov.uk/uksi/2013/252), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/252/article/1/3), [6](https://www.legislation.gov.uk/uksi/2013/252/article/6)
 
-[^key-711baa3e196b75146841e789df696c65]: Textual amendment: Entry in Sch. 1 repealed (20.9.2012) by [The Public Bodies (Abolition of Environment Protection Advisory Committees) Order 2012 (S.I. 2012/2407)](https://www.legislation.gov.uk/uksi/2012/2407), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2407/article/1/3), [3](https://www.legislation.gov.uk/uksi/2012/2407/article/3)
+[^c-711baa3e196b75146841e789df696c65]: Textual amendment: Entry in Sch. 1 repealed (20.9.2012) by [The Public Bodies (Abolition of Environment Protection Advisory Committees) Order 2012 (S.I. 2012/2407)](https://www.legislation.gov.uk/uksi/2012/2407), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2407/article/1/3), [3](https://www.legislation.gov.uk/uksi/2012/2407/article/3)
 
-[^key-4db2c37feb5197b30c16758764ae4364]: Textual amendment: Entry in Sch. 1 repealed (19.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-4db2c37feb5197b30c16758764ae4364]: Textual amendment: Entry in Sch. 1 repealed (19.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
 [^M_F_90de16c2-702f-4c65-baf7-c765d41717f2]: Textual amendment: Entry in Sch. 1 repealed (3.3.2015) by [The Public Bodies (Abolition of the Home Grown Timber Advisory Committee) Order 2015 (S.I. 2015/475)](https://www.legislation.gov.uk/uksi/2015/475), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/475/article/1/3), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2015/475/schedule/part/1)
 
-[^key-39d84d4922532c67771dd07a7266a837]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/37) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-39d84d4922532c67771dd07a7266a837]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/37) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
 
-[^key-ac565c8d8dd207e0c21edbae1fbb5d2c]: Textual amendment: Entry in Sch. 1 omitted (18.3.2015) by virtue of [The Public Bodies (Abolition of the Library Advisory Council for England) Order 2015 (S.I. 2015/850)](https://www.legislation.gov.uk/uksi/2015/850), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/850/article/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2015/850/article/3/4)
+[^c-ac565c8d8dd207e0c21edbae1fbb5d2c]: Textual amendment: Entry in Sch. 1 omitted (18.3.2015) by virtue of [The Public Bodies (Abolition of the Library Advisory Council for England) Order 2015 (S.I. 2015/850)](https://www.legislation.gov.uk/uksi/2015/850), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/850/article/1/3), [3(4)](https://www.legislation.gov.uk/uksi/2015/850/article/3/4)
 
-[^key-086a005e7726150ef8d7d8646c4ae4a6]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/3)[3(3)](https://www.legislation.gov.uk/uksi/2012/2398/article/3/3)
+[^c-086a005e7726150ef8d7d8646c4ae4a6]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/3)[3(3)](https://www.legislation.gov.uk/uksi/2012/2398/article/3/3)
 
-[^key-900e44da471efd3a89abf893e61d791c]: Textual amendment: Entry in Sch. 1 omitted (2.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/631/article/1/4), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/14) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-900e44da471efd3a89abf893e61d791c]: Textual amendment: Entry in Sch. 1 omitted (2.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(4)](https://www.legislation.gov.uk/uksi/2014/631/article/1/4), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/14) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-3b45a55633ecb6554587628afb36e235]: Textual amendment: Entry in Sch. 1 omitted (2.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/964/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2012/964/article/3/2)
+[^c-3b45a55633ecb6554587628afb36e235]: Textual amendment: Entry in Sch. 1 omitted (2.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/964/article/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2012/964/article/3/2)
 
-[^key-e7a5c566324d6f0cde74028e1570b86f]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/2401/schedule/2/paragraph/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-e7a5c566324d6f0cde74028e1570b86f]: Textual amendment: Entry in Sch. 1 repealed (19.9.2012) by [The Public Bodies (Abolition of Her Majesty's Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2012/2401/schedule/2/paragraph/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
 
-[^key-0240d494c5938037c187b1b85974c30f]: Textual amendment: Entry in Sch. 1 omitted (26.2.2020) by virtue of [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/176/article/1/3), [7](https://www.legislation.gov.uk/uksi/2020/176/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-0240d494c5938037c187b1b85974c30f]: Textual amendment: Entry in Sch. 1 omitted (26.2.2020) by virtue of [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2020/176/article/1/3), [7](https://www.legislation.gov.uk/uksi/2020/176/article/7) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-79279026d93c2135903f45f560e1b378]: Textual amendment: Entry in Sch. 1 repealed (2.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/64/article/1/3), [5](https://www.legislation.gov.uk/uksi/2013/64/article/5) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
+[^c-79279026d93c2135903f45f560e1b378]: Textual amendment: Entry in Sch. 1 repealed (2.4.2013) by [The Public Bodies (Abolition of the Railway Heritage Committee) Order 2013 (S.I. 2013/64)](https://www.legislation.gov.uk/uksi/2013/64), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/64/article/1/3), [5](https://www.legislation.gov.uk/uksi/2013/64/article/5) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/64/article/8))
 
-[^key-bddecba4ec4b2f2de7d7ffc0ff6c23d4]: Textual amendment: Entry in Sch. 1 repealed (20.9.2012) by [The Public Bodies (Abolition of Regional and Local Fisheries Advisory Committees) Order 2012 (S.I. 2012/2406)](https://www.legislation.gov.uk/uksi/2012/2406), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2406/article/1/3), [3](https://www.legislation.gov.uk/uksi/2012/2406/article/3)
+[^c-bddecba4ec4b2f2de7d7ffc0ff6c23d4]: Textual amendment: Entry in Sch. 1 repealed (20.9.2012) by [The Public Bodies (Abolition of Regional and Local Fisheries Advisory Committees) Order 2012 (S.I. 2012/2406)](https://www.legislation.gov.uk/uksi/2012/2406), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2406/article/1/3), [3](https://www.legislation.gov.uk/uksi/2012/2406/article/3)
 
-[^key-9169f7d7cea149279161431a1b115272]: Textual amendment: Entry in Sch. 1 omitted (2.10.2013) by virtue of [The Public Bodies (Abolition of the Registrar of Public Lending Right) Order 2013 (S.I. 2013/2352)](https://www.legislation.gov.uk/uksi/2013/2352), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2352/schedule/1/paragraph/15) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2352/article/8))
+[^c-9169f7d7cea149279161431a1b115272]: Textual amendment: Entry in Sch. 1 omitted (2.10.2013) by virtue of [The Public Bodies (Abolition of the Registrar of Public Lending Right) Order 2013 (S.I. 2013/2352)](https://www.legislation.gov.uk/uksi/2013/2352), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/2352/article/1/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/2352/schedule/1/paragraph/15) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2352/article/8))
 
-[^key-ca4adf90439db08e8b1b0e5f6c59efc2]: Textual amendment: Entry in Sch. 1 repealed (6.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/3)
+[^c-ca4adf90439db08e8b1b0e5f6c59efc2]: Textual amendment: Entry in Sch. 1 repealed (6.11.2013) by [The Public Bodies (Abolition of Victims' Advisory Panel) Order 2013 (S.I. 2013/2853)](https://www.legislation.gov.uk/uksi/2013/2853), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/2853/article/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2013/2853/article/2/3)
 
-[^key-99e99533d17bcf76b3d412b94de465cc]: Textual amendment: Sch. 1 Note 1 omitted (23.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/687/article/1/3), [Sch. 1 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/15/2/b)
+[^c-99e99533d17bcf76b3d412b94de465cc]: Textual amendment: Sch. 1 Note 1 omitted (23.3.2013) by virtue of [The Public Bodies (Abolition of British Shipbuilders) Order 2013 (S.I. 2013/687)](https://www.legislation.gov.uk/uksi/2013/687), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/687/article/1/3), [Sch. 1 para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/687/schedule/1/paragraph/15/2/b)
 
-[^key-4c9de15bec5bdf1fa6bc9d64e34cdad9]: Textual amendment: Group 2 omitted (2.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [9](https://www.legislation.gov.uk/uksi/2013/2329/article/9) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8))
+[^c-4c9de15bec5bdf1fa6bc9d64e34cdad9]: Textual amendment: Group 2 omitted (2.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [9](https://www.legislation.gov.uk/uksi/2013/2329/article/9) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8))
 
-[^key-56533f7a69f435f5a7116027b93e913e]: Textual amendment: Group 5 omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/183) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-56533f7a69f435f5a7116027b93e913e]: Textual amendment: Group 5 omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/183) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-a064106431012e2813eefb092d6c95dc]: Textual amendment: Entry omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/b)
+[^c-a064106431012e2813eefb092d6c95dc]: Textual amendment: Entry omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/b)
 
-[^key-cfe9b2131eb1a509c9d43a2f39a0d1fa]: Textual amendment: Entry omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 41(c)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/c)
+[^c-cfe9b2131eb1a509c9d43a2f39a0d1fa]: Textual amendment: Entry omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 41(c)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/c)
 
-[^key-4c4dbc2261c21b2c5d18c61fea07d01a]: Textual amendment: Entry in Sch. 4 repealed (1.11.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/40/2/b), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/f)
+[^c-4c4dbc2261c21b2c5d18c61fea07d01a]: Textual amendment: Entry in Sch. 4 repealed (1.11.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 40(2)(b)](https://www.legislation.gov.uk/ukpga/2014/21/section/40/2/b), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2016/1007](https://www.legislation.gov.uk/uksi/2016/1007), [art. 2(f)](https://www.legislation.gov.uk/uksi/2016/1007/article/2/f)
 
-[^key-07c0bf554778f8b09c526d292f4202a2]: Textual amendment: Entry omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 41(d)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/d)
+[^c-07c0bf554778f8b09c526d292f4202a2]: Textual amendment: Entry omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 41(d)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/41/d)
 
-[^key-389541212c9915a26d81ece461c8c25e]: Textual amendment: Entry omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(6)](https://www.legislation.gov.uk/uksi/2014/631/article/1/6), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/6) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-389541212c9915a26d81ece461c8c25e]: Textual amendment: Entry omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(6)](https://www.legislation.gov.uk/uksi/2014/631/article/1/6), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/6) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-4ed5620dd5dc4a46667b8efb9315321c]: Commencement: Sch. 6 in force at 1.7.2012 at 0.02 a.m. for specified purposes by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)
+[^c-4ed5620dd5dc4a46667b8efb9315321c]: Commencement: Sch. 6 in force at 1.7.2012 at 0.02 a.m. for specified purposes by [S.I. 2012/1662](https://www.legislation.gov.uk/uksi/2012/1662), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2012/1662/article/2/2/b)

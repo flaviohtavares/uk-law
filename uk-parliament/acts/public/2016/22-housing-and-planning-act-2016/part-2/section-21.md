@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Offence of breach of banning order[^key-ea2f58c2fc38cc777d2cfb08ca1dc5d5]
+## 21. Offence of breach of banning order[^c-ea2f58c2fc38cc777d2cfb08ca1dc5d5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea2f58c2fc38cc777d2cfb08ca1dc5d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/22/section/21) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-ea2f58c2fc38cc777d2cfb08ca1dc5d5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2016/22/section/21) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

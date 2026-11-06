@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendments of other legislation[^key-af3448f9b0ec3641c69ff1e677c61931]
+## 51. Amendments of other legislation[^c-af3448f9b0ec3641c69ff1e677c61931]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 contains amendments of other legislation, including consequential ame
 
 ## Annotations
 
-[^key-af3448f9b0ec3641c69ff1e677c61931]: Commencement: Reg. 51 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-af3448f9b0ec3641c69ff1e677c61931]: Commencement: Reg. 51 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

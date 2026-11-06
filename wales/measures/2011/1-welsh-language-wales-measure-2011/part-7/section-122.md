@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Hearings in public[^key-00e11449f76948bc624bd6c5ceb6f2b1]
+## 122. Hearings in public[^c-00e11449f76948bc624bd6c5ceb6f2b1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00e11449f76948bc624bd6c5ceb6f2b1]: Commencement: [S. 122](https://www.legislation.gov.uk/mwa/2011/1/section/122) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)
+[^c-00e11449f76948bc624bd6c5ceb6f2b1]: Commencement: [S. 122](https://www.legislation.gov.uk/mwa/2011/1/section/122) in force at 30.4.2015 by [S.I. 2015/1217](https://www.legislation.gov.uk/wsi/2015/1217), [art. 2](https://www.legislation.gov.uk/wsi/2015/1217/article/2)

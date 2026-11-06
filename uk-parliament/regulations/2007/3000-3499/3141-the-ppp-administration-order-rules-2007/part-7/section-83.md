@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Issue and use of forms of proxy[^key-b5605aed97350a237491153dd5fef072]
+## 83. Issue and use of forms of proxy[^c-b5605aed97350a237491153dd5fef072]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5605aed97350a237491153dd5fef072]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2007/3141/rule/83) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-b5605aed97350a237491153dd5fef072]: Commencement: [Rule 83](https://www.legislation.gov.uk/uksi/2007/3141/rule/83) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

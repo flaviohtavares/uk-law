@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Certain functions of shadow authorities for single tiers of local government[^key-ae5bacb790c86a3815de2c8a6b51e3b9]
+## 60. Certain functions of shadow authorities for single tiers of local government[^c-ae5bacb790c86a3815de2c8a6b51e3b9]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ In section 12 of LGPIHA 2007 (provision relating to membership etc of authoritie
 
 ## Annotations
 
-[^key-ae5bacb790c86a3815de2c8a6b51e3b9]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2026/23/section/60) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-ae5bacb790c86a3815de2c8a6b51e3b9]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2026/23/section/60) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

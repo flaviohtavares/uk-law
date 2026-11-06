@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Process for all schools
 
-### 1. Overview of key requirements[^key-0cc269be6ddd29c613b4eb132faf3754]
+### 1. Overview of key requirements[^c-0cc269be6ddd29c613b4eb132faf3754]
 
 (1) Subsection (2) applies where, in relation to any school, an education authority has formulated a relevant proposal.
 
@@ -48,14 +48,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) to prepare (and publish) a proposal paper in accordance with section 4,
 - (c) to give notice of the proposal to the relevant consultees (and invite representations) in accordance with section 6,
 - (d) to hold (and give notice of) a public meeting in accordance with section 7,
-- (e) to involve the Chief Inspector[^key-f28f2dd3fc63960402ad28fd9e1badc3] in accordance with section 8.
+- (e) to involve the Chief Inspector[^c-f28f2dd3fc63960402ad28fd9e1badc3] in accordance with section 8.
 
 (4) The subsequent requirements are—
 
 - (a) to review the proposal in accordance with section 9(1),
 - (b) to prepare (and publish) a consultation report in accordance with sections 9 and 10.
 
-(4A)[^key-bff8463604bfc9474889563a53a820a1] In the case of a closure proposal in relation to a rural school, the education authority must also comply with—
+(4A)[^c-bff8463604bfc9474889563a53a820a1] In the case of a closure proposal in relation to a rural school, the education authority must also comply with—
 
 - (a) the preliminary requirements set out in section 12A when it is formulating the proposal,
 - (b) the additional consultation requirements set out in section 13.
@@ -65,7 +65,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) deciding to implement it (wholly or partly), or
 - (b) implementing it (wholly or partly).
 
-### 2. Relevant proposals and consultees[^key-3ef82625f2e2925449f033ae1874cdf9]
+### 2. Relevant proposals and consultees[^c-3ef82625f2e2925449f033ae1874cdf9]
 
 (1) In this Act—
 
@@ -77,7 +77,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in relation to a particular relevant proposal, are the consultees specified in the corresponding paragraph of schedule 2,
 - (b) so far as required by paragraphs 11 and 12 of that schedule, include the consultees specified in those paragraphs.
 
-### 2A. Restriction on closure proposals[^key-d1858120e50dc19597c56bab9dad3d37]
+### 2A. Restriction on closure proposals[^c-d1858120e50dc19597c56bab9dad3d37]
 
 (1) This section applies where a decision is made not to implement a closure proposal in relation to a school.
 
@@ -90,7 +90,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The education authority may not publish a proposal paper concerning a further closure proposal in relation to the school during the period of 5 years beginning with the day on which the decision is made unless there is a significant change in the school's circumstances.
 
-### 3. Educational benefits statement[^key-13e89836b8b087a448f13860d569903f]
+### 3. Educational benefits statement[^c-13e89836b8b087a448f13860d569903f]
 
 (1) The education authority must prepare an educational benefits statement which includes—
 
@@ -107,7 +107,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In subsection (1), the references to effects and benefits are to educational effects and benefits.
 
-### 4. Proposal paper[^key-e8868a7390429cbed703b74d2f651069]
+### 4. Proposal paper[^c-e8868a7390429cbed703b74d2f651069]
 
 (1) The education authority must prepare a proposal paper which—
 
@@ -116,9 +116,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (c) contains the educational benefits statement in respect of the proposal,
 - (d) refers to such evidence or other information in support of (or otherwise relevant in relation to) the proposal as the education authority considers appropriate.
 
-(2) The proposal paper must also give a summary of the process provided for in sections 1 to 17D[^key-fcd03376f8ddd0a9328a3f1f6c52207f] (so far as applicable in relation to the proposal).
+(2) The proposal paper must also give a summary of the process provided for in sections 1 to 17D[^c-fcd03376f8ddd0a9328a3f1f6c52207f] (so far as applicable in relation to the proposal).
 
-(2A)[^key-31120e35f5a3155f79a19eda030b44b0] Where a proposal paper relates to a closure proposal, it must also contain information about the financial implications of the proposal.
+(2A)[^c-31120e35f5a3155f79a19eda030b44b0] Where a proposal paper relates to a closure proposal, it must also contain information about the financial implications of the proposal.
 
 (3) A proposal paper may include more than one proposal.
 
@@ -134,7 +134,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) The education authority must advertise the publication of the proposal paper by such means as it considers appropriate.
 
-### 5. Correction of the paper[^key-f87bb94ff8bdd4e501fdb5c299d4f6da]
+### 5. Correction of the paper[^c-f87bb94ff8bdd4e501fdb5c299d4f6da]
 
 (1) This subsection applies where, during the consultation period, an education authority—
 
@@ -149,19 +149,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - (a) determine, as the case may be, if—
   - (i) relevant information has (in its opinion) been omitted,
-  - (ii) there is (in fact) an inaccuracy, [^key-0707c2345b472717bf037359f2969e95]...
-- (aa)[^key-d39d0af7dc3d2989646b9e92373d367f] inform the notifier of its determination under paragraph (a), and the reasons for that determination,
-- (b) inform the notifier as to the action (if any) it is taking under subsection (4) and of the reasons why it is, or is not, taking such action[^key-ff3ac5d669d980988aba085411d35d4e] and[^key-bb1acd0d7c0b745814b4cdfca6e19c24]
+  - (ii) there is (in fact) an inaccuracy, [^c-0707c2345b472717bf037359f2969e95]...
+- (aa)[^c-d39d0af7dc3d2989646b9e92373d367f] inform the notifier of its determination under paragraph (a), and the reasons for that determination,
+- (b) inform the notifier as to the action (if any) it is taking under subsection (4) and of the reasons why it is, or is not, taking such action[^c-ff3ac5d669d980988aba085411d35d4e] and[^c-bb1acd0d7c0b745814b4cdfca6e19c24]
 - (c) invite the notifier to make representations to the authority if the notifier disagrees with the authority's determination under paragraph (a) or its decision as to whether to take action under subsection (4).
 
-(2A)[^key-db34f65b78bf24f622beac526e7f8a2e] Where the notifier makes representations to the authority in pursuance of subsection (2)(c), the authority may—
+(2A)[^c-db34f65b78bf24f622beac526e7f8a2e] Where the notifier makes representations to the authority in pursuance of subsection (2)(c), the authority may—
 
 - (a) make a fresh determination under subsection (2)(a),
 - (b) make a fresh decision as to whether to take action under subsection (4).
 
 (2B) The authority must inform the notifier if it takes a step mentioned in subsection (2A)(a) or (b).
 
-(3)[^key-739a9e7f4659d383a8cab771e0417d94] Subsection (4) applies—
+(3)[^c-739a9e7f4659d383a8cab771e0417d94] Subsection (4) applies—
 
 - (a) where, in a situation mentioned in subsection (1)(a), the education authority determines that—
   - (i) relevant information has (in its opinion) been omitted from the proposal paper, or
@@ -180,7 +180,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) to take the following steps—
   - (i) publish a corrected proposal paper,
   - (ii) give revised notice in accordance with section 6, and
-  - (iii) send a copy of the corrected paper to the Chief Inspector[^key-2bfe37da5b72a569b5dd88a7905d4395],
+  - (iii) send a copy of the corrected paper to the Chief Inspector[^c-2bfe37da5b72a569b5dd88a7905d4395],
 - (b) to issue a notice to the relevant consultees and the Chief Inspector—
   - (i) providing the omitted information or, as the case may be, correcting the inaccuracy, and
   - (ii) if the authority considers it appropriate, extending the consultation period by such period as is reasonable by reference to the significance of the information provided or, as the case may be, the nature of the correction.
@@ -190,7 +190,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the notice may, instead of extending the consultation period, specify such further period during which representations may be made on the proposal as is reasonable by reference to the significance of the information provided or, as the case may be, the nature of the correction, and
 - (b) any such further period is to be treated as part of the consultation period for the purposes of sections 8, 9 and 10.
 
-### 6. Notice and consultation period[^key-a94d99fd88ff98f89c75f39a9a1bd80e]
+### 6. Notice and consultation period[^c-a94d99fd88ff98f89c75f39a9a1bd80e]
 
 (1) The education authority must give the relevant consultees notice—
 
@@ -221,55 +221,55 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in relation to a particular school is a day on which the school is ordinarily open to its pupils for the purpose of their school education, or
 - (b) in the case of a further education centre to which paragraph 10 of schedule 1 refers, is a day on which the centre is ordinarily open to its students for the purpose of their further education.
 
-### 7. Public meeting[^key-daf916ded9f440787e6635e306fc1b7e]
+### 7. Public meeting[^c-daf916ded9f440787e6635e306fc1b7e]
 
 (1) During the consultation period, the education authority must hold (and be represented at) a public meeting on the relevant proposal.
 
 (2) Advance notice of the date, time and place of the public meeting must be given by the education authority to—
 
 - (a) the relevant consultees,
-- (b) the Chief Inspector[^key-36bfaba0613b102632d891ae5baa9d5f].
+- (b) the Chief Inspector[^c-36bfaba0613b102632d891ae5baa9d5f].
 
 (3) Subsection (2)(a) does not require such notice to be given if it has already been given under section 6(3)(c).
 
 (4) More than one proposal may be the subject of the same public meeting if the proposals are included in the same proposal paper.
 
-### 8. Involvement of the Chief Inspector[^key-e1e4da7ffaf42b088ad97ad0b5bb29a2][^key-1aeb1fa81b9e0e7e5aaa34b7ec2be280]
+### 8. Involvement of the Chief Inspector[^c-e1e4da7ffaf42b088ad97ad0b5bb29a2][^c-1aeb1fa81b9e0e7e5aaa34b7ec2be280]
 
-(1) The education authority must send to the Chief Inspector[^key-c7caef1cdd3b07b4f5f900c128b1bd80] —
+(1) The education authority must send to the Chief Inspector[^c-c7caef1cdd3b07b4f5f900c128b1bd80] —
 
 - (a) when published, a copy of the proposal paper,
 - (b) as regards any relevant written representations received by the authority (from any person) during the consultation period—
   - (i) a copy of them, or
-  - (ii) if the Chief Inspector agrees[^key-3304f12800aac31d357c954776ca0c34], a summary of them,
+  - (ii) if the Chief Inspector agrees[^c-3304f12800aac31d357c954776ca0c34], a summary of them,
 - (c) a summary of any oral representations made to it (by any person) at the public meeting,
 - (d) as available (and so far as otherwise practicable), a copy of any other relevant documentation.
 
-(2) The Chief Inspector is[^key-75a1a3f7ab380b9eb216f279e5d7301b] to prepare a report on the educational aspects of the relevant proposal.
+(2) The Chief Inspector is[^c-75a1a3f7ab380b9eb216f279e5d7301b] to prepare a report on the educational aspects of the relevant proposal.
 
-(3) In preparing the report, the Chief Inspector[^key-f2e59267961a232ed72194317ca2f1e3] may—
+(3) In preparing the report, the Chief Inspector[^c-f2e59267961a232ed72194317ca2f1e3] may—
 
-- (a) enter any affected school and make such reasonable enquiries of such persons there as the Chief Inspector considers[^key-4e9d3e585d92d81f9b90ab6f85d327c2] appropriate, and
-- (b) make such reasonable enquiries of such other persons as the Chief Inspector considers[^key-97c8141c2f3d85f7e4728d82d81833f4] appropriate.
+- (a) enter any affected school and make such reasonable enquiries of such persons there as the Chief Inspector considers[^c-4e9d3e585d92d81f9b90ab6f85d327c2] appropriate, and
+- (b) make such reasonable enquiries of such other persons as the Chief Inspector considers[^c-97c8141c2f3d85f7e4728d82d81833f4] appropriate.
 
-(4) In preparing the report, the Chief Inspector is[^key-61e2a60c720d5a7d62f53bfa3b13ff17] to have regard (in particular) to—
+(4) In preparing the report, the Chief Inspector is[^c-61e2a60c720d5a7d62f53bfa3b13ff17] to have regard (in particular) to—
 
 - (a) the educational benefits statement,
-- (b) the things sent to the Chief Inspector[^key-e26a301a4d614884cf36f6bb364fc2d3] under subsection (1)(b) and (c),
-- (c) any written representations made (by any person) direct to the Chief Inspector[^key-77416bfda17bca3baa221e64a9df7c77] on any educational aspect of the proposal so far as the Chief Inspector considers[^key-19acaceb1615766386d63fdd6049e398] them to be relevant.
+- (b) the things sent to the Chief Inspector[^c-e26a301a4d614884cf36f6bb364fc2d3] under subsection (1)(b) and (c),
+- (c) any written representations made (by any person) direct to the Chief Inspector[^c-77416bfda17bca3baa221e64a9df7c77] on any educational aspect of the proposal so far as the Chief Inspector considers[^c-19acaceb1615766386d63fdd6049e398] them to be relevant.
 
-(5) the Chief Inspector[^key-529125ba1d0545b3eae5deac4954df19] must submit the report to the education authority—
+(5) the Chief Inspector[^c-529125ba1d0545b3eae5deac4954df19] must submit the report to the education authority—
 
 - (a) not later than 3 weeks after the authority has complied with subsection (1) (which 3 week period may not start during the consultation period), or
 - (b) within such longer period as is agreed between them.
 
-(6) In this Act, “the Chief Inspector’s[^key-142b7260f41f078672191e62dbee1905] report” is the report prepared under subsection (2).
+(6) In this Act, “the Chief Inspector’s[^c-142b7260f41f078672191e62dbee1905] report” is the report prepared under subsection (2).
 
-(7) In this Act, a reference to “ **the Chief Inspector[^key-a66a5869a92fb74689a45d242fab6b48]** ” is a reference to His Majesty’s Chief Inspector of Education in Scotland[^key-c7af04ebcb09e1de9dfcfa5752cb9e58].
+(7) In this Act, a reference to “ **the Chief Inspector[^c-a66a5869a92fb74689a45d242fab6b48]** ” is a reference to His Majesty’s Chief Inspector of Education in Scotland[^c-c7af04ebcb09e1de9dfcfa5752cb9e58].
 
-### 9. Consultation report[^key-22374e818bfd99fc5b9581e79acff69d]
+### 9. Consultation report[^c-22374e818bfd99fc5b9581e79acff69d]
 
-(1) After the education authority has received the Chief Inspector’s[^key-01e064164bfb9ea49fec5580348323ee] report, the authority is to review the relevant proposal having regard (in particular) to—
+(1) After the education authority has received the Chief Inspector’s[^c-01e064164bfb9ea49fec5580348323ee] report, the authority is to review the relevant proposal having regard (in particular) to—
 
 - (a) any relevant—
   - (i) written representations received by the authority (from any person) during the consultation period,
@@ -292,7 +292,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) The education authority must advertise the publication of the consultation report by such means as it considers appropriate.
 
-### 10. Content of the report[^key-02c32f2b7f930c9c8fb42006f1a8f393]
+### 10. Content of the report[^c-02c32f2b7f930c9c8fb42006f1a8f393]
 
 (1) The consultation report must (in particular)—
 
@@ -308,21 +308,21 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) any oral representations made to it (by any person) at the public meeting,
 - (c) a statement of the authority's response to—
   - (i) those written and oral representations,
-  - (ii) the Chief Inspector’s[^key-27cb102c92e3cb5eb7f955028ac3eb17] report,
+  - (ii) the Chief Inspector’s[^c-27cb102c92e3cb5eb7f955028ac3eb17] report,
 - (d) a copy of that report,
 - (e) a statement explaining how the education authority complied with section 9(1).
 
-(3) In relation to any omission from, or inaccuracy in, the proposal paper to which section 5(1) applies,including any alleged omission or inaccuracy notified to the education authority,[^key-32383355480cfd8303454b0799e3a591] the further information is—
+(3) In relation to any omission from, or inaccuracy in, the proposal paper to which section 5(1) applies,including any alleged omission or inaccuracy notified to the education authority,[^c-32383355480cfd8303454b0799e3a591] the further information is—
 
-- (a) details of the omission or inaccuracy, or (as the case may be) the alleged omission or inaccuracy,[^key-e2a048e12367c12038736639ccac02e2] (including a statement of the authority's opinion on it),
+- (a) details of the omission or inaccuracy, or (as the case may be) the alleged omission or inaccuracy,[^c-e2a048e12367c12038736639ccac02e2] (including a statement of the authority's opinion on it),
 - (b) a statement—
-  - (i) of the action taken in respect of the omission or inaccuracy, or (as the case may be) the alleged omission or inaccuracy,[^key-2c4c31b990d62d80c225863b4935d3f7] or
+  - (i) of the action taken in respect of the omission or inaccuracy, or (as the case may be) the alleged omission or inaccuracy,[^c-2c4c31b990d62d80c225863b4935d3f7] or
   - (ii) if no action has been taken, of that fact (and why).
-- (c)[^key-7e0da753746192666199309321e819d5] any representations made to the authority in pursuance of section 5(2)(c).
+- (c)[^c-7e0da753746192666199309321e819d5] any representations made to the authority in pursuance of section 5(2)(c).
 
 (4) In the case of a closure proposal, the explanation is of the opportunity that may arise for making representations to the Scottish Ministers in connection with section 15(4).
 
-### 11. Time for further consideration[^key-df5dc4771d2d9630c495f5cb99806ff7]
+### 11. Time for further consideration[^c-df5dc4771d2d9630c495f5cb99806ff7]
 
 (1) An education authority may proceed with a relevant proposal only after the expiry of 3 weeks starting with the day on which the authority complies with section 9(3)(a).
 
@@ -331,7 +331,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) deciding to implement it (wholly or partly), or
 - (b) implementing it (wholly or partly).
 
-### 11ZA. Directions relating to making documents available and holding public meetings[^key-701570b2d5586df9dd46aa6c9d77fb03]
+### 11ZA. Directions relating to making documents available and holding public meetings[^c-701570b2d5586df9dd46aa6c9d77fb03]
 
 (1) The Scottish Ministers may, on the application of an education authority, give a direction that the education authority is to take one or more of the actions mentioned in subsection (2).
 
@@ -362,7 +362,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Special provision for rural schools
 
-### 11A. Presumption against rural school closure[^key-72b844f36e3f64849a3ef75c13215da7]
+### 11A. Presumption against rural school closure[^c-72b844f36e3f64849a3ef75c13215da7]
 
 (1) This section applies in relation to any closure proposal as respects a rural school.
 
@@ -376,7 +376,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) its decision as to implementation of the proposal, and
 - (b) where it decides to implement the proposal (wholly or partly), the reasons why it is satisfied that such implementation is the most appropriate response to the reasons for formulating the proposal identified by the authority under section 12A(2)(a).
 
-### 12. Factors for rural closure proposals[^key-ec730cd591a8076aa96f95001bf98727]
+### 12. Factors for rural closure proposals[^c-ec730cd591a8076aa96f95001bf98727]
 
 (1) Subsection (2) applies in relation to any closure proposal as respects a rural school.
 
@@ -384,23 +384,23 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The factors are—
 
-- (a)[^key-313c52bcf78ed330acc3e9e07e507e34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-313c52bcf78ed330acc3e9e07e507e34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the likely effect on the local community in consequence of the proposal (if implemented),
 - (c) the likely effect caused by any different travelling arrangements that may be required in consequence of the proposal (if implemented).
 
-(4) For the purpose of subsection (3)(band sections 12A(2)(c)(ii) and 13(5)(b)(ii)[^key-5f67e095e6cfb7fc57412c33c2a7f023]), the effect on the community is to be assessed by reference (in particular) to—
+(4) For the purpose of subsection (3)(band sections 12A(2)(c)(ii) and 13(5)(b)(ii)[^c-5f67e095e6cfb7fc57412c33c2a7f023]), the effect on the community is to be assessed by reference (in particular) to—
 
 - (a) the sustainability of the community,
 - (b) the availability of the school's premises and its other facilities for use by the community.
 
-(5) For the purpose of subsection (3)(c)and sections 12A(2)(c)(iii) and 13(5)(b)(iii)[^key-9319b93b3064ed0888842072eb48eb07]—
+(5) For the purpose of subsection (3)(c)and sections 12A(2)(c)(iii) and 13(5)(b)(iii)[^c-9319b93b3064ed0888842072eb48eb07]—
 
 - (a) the effect caused by such travelling arrangements includes (in particular)—
   - (i) that on the school's pupils and staff and any other users of the school's facilities,
   - (ii) any environmental impact,
 - (b) the travelling arrangements are those to and from the school of (and for) the school's pupils and staff and any other users of the school's facilities.
 
-### 12A. Preliminary requirements in relation to rural school closure[^key-a5df50f5030ea6df6abdc4c991e4e93b]
+### 12A. Preliminary requirements in relation to rural school closure[^c-a5df50f5030ea6df6abdc4c991e4e93b]
 
 (1) This section applies where an education authority is formulating a closure proposal as respects a rural school.
 
@@ -419,7 +419,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In this section and section 13, the references to the reasons for the proposal are references to the reasons identified by the education authority under subsection (2)(a).
 
-### 13. Additional consultation requirements[^key-4576c549b6cf88a88fe17635e1d9c17d]
+### 13. Additional consultation requirements[^c-4576c549b6cf88a88fe17635e1d9c17d]
 
 (1) This section applies in relation to any closure proposal as respects a rural school.
 
@@ -455,7 +455,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (c) the authority's assessment under subsection (5)(b),
 - (d) whether and, if so, the reasons why the authority considers that implementation of the proposal (wholly or partly) would be the most appropriate response to the reasons for the proposal.
 
-### 14. Designation of rural schools[^key-98a79ab528ec3fa02fad4cd432be8e2f]
+### 14. Designation of rural schools[^c-98a79ab528ec3fa02fad4cd432be8e2f]
 
 (1) In this Act, a “rural school” is a school which is designated as such by its inclusion in the list of rural schools maintained by the Scottish Ministers for the purposes of this subsection.
 
@@ -478,7 +478,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Call-in by the Scottish Ministers
 
-### 15. Call-in of closure proposals[^key-cd8df3efba575b63ed7cde7cdc036001]
+### 15. Call-in of closure proposals[^c-cd8df3efba575b63ed7cde7cdc036001]
 
 (1) Subsections (2) to (6) apply where, in relation to any school, an education authority has decided to implement a closure proposal.
 
@@ -488,30 +488,30 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) along with that notification, give them a copy of—
   - (i) the proposal paper,
   - (ii) the consultation report.
-  - (iii)[^key-c5221618e7558c6c4741d29a8353fefa] where the decision relates to a rural school, the notice published under section 11A(3).
+  - (iii)[^c-c5221618e7558c6c4741d29a8353fefa] where the decision relates to a rural school, the notice published under section 11A(3).
 
-(2A)[^key-06a2540b2775d6083ea3cfec8009753e] At the same time as it notifies the Scottish Ministers of the decision under subsection (2)(a), the education authority must publish on its website notice of—
+(2A)[^c-06a2540b2775d6083ea3cfec8009753e] At the same time as it notifies the Scottish Ministers of the decision under subsection (2)(a), the education authority must publish on its website notice of—
 
 - (a) the fact that the Scottish Ministers have been so notified, and
 - (b) the opportunity for making representations to the Scottish Ministers in connection with subsection (4), including the date on which the 3 week period referred to in that subsection ends.
 
-(3) Before the expiry of 8[^key-8f917f44d42b93b1c9515454e25fbdc8] weeks starting with the day on which that decision is made, the Scottish Ministers may issue a call-in notice to the education authority.
+(3) Before the expiry of 8[^c-8f917f44d42b93b1c9515454e25fbdc8] weeks starting with the day on which that decision is made, the Scottish Ministers may issue a call-in notice to the education authority.
 
-(4) In considering whether to issue a call-in notice, the Scottish Ministers are to take account of any relevant representations made to them (by any person) within the first 3 weeks of that 8[^key-9656cfa21679c3a04b3e668c36379792] week period.
+(4) In considering whether to issue a call-in notice, the Scottish Ministers are to take account of any relevant representations made to them (by any person) within the first 3 weeks of that 8[^c-9656cfa21679c3a04b3e668c36379792] week period.
 
-(5)[^key-217374f1398416d3bacc9e950139fab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-217374f1398416d3bacc9e950139fab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) The education authority may not proceed further with the proposal before the expiry of the 8[^key-97fe72d1fea6f3e0c27211077bd2d888] week period within which a call-in notice may be issued as respects the proposal.
+(6) The education authority may not proceed further with the proposal before the expiry of the 8[^c-97fe72d1fea6f3e0c27211077bd2d888] week period within which a call-in notice may be issued as respects the proposal.
 
 (7) But the restriction in subsection (6) ceases to apply if (before the end of that period) the Scottish Ministers inform the education authority that they do not intend to issue a call-in notice as respects the proposal.
 
 (8) In subsection (6), the reference to proceeding further with the proposal is to implementing it (wholly or partly).
 
-### 16. Determination of case[^key-128a69b503a773fe4d77b42f18ae1e29][^key-b28da9c01909fea2b4bccbc921337812]
+### 16. Determination of case[^c-128a69b503a773fe4d77b42f18ae1e29][^c-b28da9c01909fea2b4bccbc921337812]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Grounds for call-in etc.[^key-e38a293593349424f247bcf4a58f77c6]
+### 17. Grounds for call-in etc.[^c-e38a293593349424f247bcf4a58f77c6]
 
 (1) The Scottish Ministers may issue a call-in notice only if subsection (2) applies.
 
@@ -522,14 +522,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The education authority must provide the Scottish Ministers with such information in connection with a closure proposal as they may reasonably require of it for the purposes of their consideration of—
 
-- (a) whether to issue a call-in notice, [^key-e2018fc9faea57f59f3900b31a2416fe]...
-- (b)[^key-bfa5d1d7de49a1621cb810d9d4ebb276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) whether to issue a call-in notice, [^c-e2018fc9faea57f59f3900b31a2416fe]...
+- (b)[^c-bfa5d1d7de49a1621cb810d9d4ebb276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-c118b1cd1cb3b11dc0a5d0bf83ce78e5] The Chief Inspector[^key-756f8783938ee94c0b2e85c979508ad8] must provide the Scottish Ministers with such advice as to the educational aspects of a closure proposal as the Scottish Ministers may reasonably require of the Chief Inspector[^key-d3a5adb65b7838878c1c304b6b664fc0] for the purpose of the Scottish Ministers' consideration of whether to issue a call-in notice.
+(3A)[^c-c118b1cd1cb3b11dc0a5d0bf83ce78e5] The Chief Inspector[^c-756f8783938ee94c0b2e85c979508ad8] must provide the Scottish Ministers with such advice as to the educational aspects of a closure proposal as the Scottish Ministers may reasonably require of the Chief Inspector[^c-d3a5adb65b7838878c1c304b6b664fc0] for the purpose of the Scottish Ministers' consideration of whether to issue a call-in notice.
 
 (4) In this Act, a “call-in notice” is one issuable by the Scottish Ministers under section 15(3).
 
-### 17A. Referral to the Convener of the School Closure Review Panels[^key-1f1bde7035e66f5e03bbf859e9722662]
+### 17A. Referral to the Convener of the School Closure Review Panels[^c-1f1bde7035e66f5e03bbf859e9722662]
 
 (1) This section applies where a call-in notice is issued as respects a closure proposal.
 
@@ -560,7 +560,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) The education authority must provide the Panel with such information in connection with the proposal as the Panel may reasonably require of it for the purpose of subsection (1).
 
-(3) The Chief Inspector[^key-2d777b59fc68da4bfd226c74dbea1104] must provide the Panel with such advice as to the educational aspects of the proposal as the Panel may reasonably require of the Chief Inspector[^key-aaa43eb363f01e79a5700b1e581e34f5] for the purpose of subsection (1).
+(3) The Chief Inspector[^c-2d777b59fc68da4bfd226c74dbea1104] must provide the Panel with such advice as to the educational aspects of the proposal as the Panel may reasonably require of the Chief Inspector[^c-aaa43eb363f01e79a5700b1e581e34f5] for the purpose of subsection (1).
 
 (4) The Panel may request such other information and advice from any other person as it may reasonably require for the purpose of subsection (1).
 
@@ -622,7 +622,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## General
 
-### 18. Ancillary provision[^key-aafaf3f032774d7a9db5c73a0a8c3960]
+### 18. Ancillary provision[^c-aafaf3f032774d7a9db5c73a0a8c3960]
 
 Schedule 3—
 
@@ -631,9 +631,9 @@ Schedule 3—
 
 ### 19. Guidance
 
-(1)[^key-e7260bbcedb44b586ad77eeecf43bcf9] In exercising its functions under this Act, an education authority must have regard to any guidance issued by the Scottish Ministers for the purposes of or in connection with this Act.
+(1)[^c-e7260bbcedb44b586ad77eeecf43bcf9] In exercising its functions under this Act, an education authority must have regard to any guidance issued by the Scottish Ministers for the purposes of or in connection with this Act.
 
-(2)[^key-e81973a8d721be4a5ddd08a7f7f4718c] The Convener, and a School Closure Review Panel, must have regard to any such guidance in exercising their functions under this Act.
+(2)[^c-e81973a8d721be4a5ddd08a7f7f4718c] The Convener, and a School Closure Review Panel, must have regard to any such guidance in exercising their functions under this Act.
 
 ### 20. Regulations
 
@@ -649,7 +649,7 @@ as they consider necessary or expedient for the purposes of or in connection wit
 - (a) adding an entry to, or removing an entry from, it, or
 - (b) altering the terms of any entry in it.
 
-(3) Regulations under subsection (1)(a) may (in particular) elaborate on any aspect of the process provided for in sections 1 to 17D[^key-a63d91c669f1806567a4362c0478b20c].
+(3) Regulations under subsection (1)(a) may (in particular) elaborate on any aspect of the process provided for in sections 1 to 17D[^c-a63d91c669f1806567a4362c0478b20c].
 
 (4) Regulations under subsection (1) may (in particular) include provision as to the functions of education authorities or the Scottish Ministers.
 
@@ -661,7 +661,7 @@ as they consider necessary or expedient for the purposes of or in connection wit
 - (b) a statutory instrument containing regulations under subsection (1) which adds to, replaces or omits the text of an Act (including this Act) is not to be made unless a draft of the instrument has been laid before, and approved by resolution of, the Parliament,
 - (c) a statutory instrument containing any other regulations under subsection (1) is subject to annulment in pursuance of a resolution of the Parliament.
 
-(7)[^key-4a0139b3e773f99153939240a8bd92a7] Regulations under section 17B(5) and paragraphs 1(9) and 2(5) of schedule 2A—
+(7)[^c-4a0139b3e773f99153939240a8bd92a7] Regulations under section 17B(5) and paragraphs 1(9) and 2(5) of schedule 2A—
 
 - (a) may make different provision for different purposes,
 - (b) may make supplemental, incidental, consequential, transitional, transitory or saving provision,
@@ -677,15 +677,15 @@ as they consider necessary or expedient for the purposes of or in connection wit
   - (b) in relation to a proposal specified in paragraph 10 of schedule 1, includes the (authority-managed) further education centre concerned,
 - “**the 1980 Act**” means the Education (Scotland) Act 1980 (c. 44).
 
-(2)[^key-a5e5a643155cb7cafaed3e9f034fc115][^key-09844e1bee17a8fd5869b200f029cde6] In this Act—
+(2)[^c-a5e5a643155cb7cafaed3e9f034fc115][^c-09844e1bee17a8fd5869b200f029cde6] In this Act—
 
 - “**affected school**” is to be construed in accordance with paragraph 11 of schedule 1,
 - “call-in notice” (as respects a closure proposal) is defined in section 17(4),
-- “[^key-c86dd6697585aaca8ee9916cb044f3f9]**the Chief Inspector’s report” and “the Chief Inspector**” are defined in section 8(6) and (7),
+- “[^c-c86dd6697585aaca8ee9916cb044f3f9]**the Chief Inspector’s report” and “the Chief Inspector**” are defined in section 8(6) and (7),
 - “consultation period” is defined in section 6(4) and “**consultation report**” is to be construed by reference to section 1(4),
 - “the Convener” is defined in section 17A(6),
 - “educational benefits statement”, “proposal paper” and “public meeting” are to be construed by reference to section 1(3),
-- [^key-b5df1c3b01e25255a63024b2c1dcbfd7]...
+- [^c-b5df1c3b01e25255a63024b2c1dcbfd7]...
 - “relevant proposal”, “**closure proposal**” and “**relevant consultees**” are defined in section 2,
 - “rural school” is defined in section 14(1).
 - “School Closure Review Panel” is defined in section 17A(6).
@@ -713,7 +713,7 @@ as they consider necessary or expedient for the purposes of or in connection wit
 
 ### Closure
 
-**1.**[^key-677694f74a867c2c4261428305209ad0] (1) A proposal to permanently—
+**1.**[^c-677694f74a867c2c4261428305209ad0] (1) A proposal to permanently—
 
 - (a) discontinue a school, or
 - (b) discontinue—
@@ -753,52 +753,52 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Establishment
 
-**2.**[^key-4a67f61a30a8a00711a3db4ae5d06040] A proposal to establish—
+**2.**[^c-4a67f61a30a8a00711a3db4ae5d06040] A proposal to establish—
 
-- (a) a new school (apart from a nursery school)[^key-dbb721290c5aca6dd43ee704c5ff1d80] , or
-- (b) a new stage of education in a school (apart from a nursery class)[^key-d4dc2aa86d5ae8d1f69b5c1c344dfa66] .
+- (a) a new school (apart from a nursery school)[^c-dbb721290c5aca6dd43ee704c5ff1d80] , or
+- (b) a new stage of education in a school (apart from a nursery class)[^c-d4dc2aa86d5ae8d1f69b5c1c344dfa66] .
 
 ### Relocation
 
-**3.**[^key-6959e9aa822379e70862c915f78dd9dd] A proposal to relocate —[^key-eda420457bd0284952b27b9283649f93]
+**3.**[^c-6959e9aa822379e70862c915f78dd9dd] A proposal to relocate —[^c-eda420457bd0284952b27b9283649f93]
 
 - (a) a school (apart from a nursery school); or
 - (b) part of a school (apart from a nursery class)
 
 ### Admission arrangements
 
-**4.**[^key-60c71396e0622114b064033151b4c872] A proposal to vary any admission arrangements for a school including—
+**4.**[^c-60c71396e0622114b064033151b4c872] A proposal to vary any admission arrangements for a school including—
 
 - (a) a proposal to establish, terminate or otherwise alter the catchment area of a school, and
 - (b) a proposal to make or modify guidelines in respect of the handling of placing requests.
 
 ### Transfer from primary to secondary school
 
-**5.**[^key-5f1002b456c24f1ad04eadde49e5c679] A proposal to vary the arrangements for the transfer of pupils from a primary school to a secondary school.
+**5.**[^c-5f1002b456c24f1ad04eadde49e5c679] A proposal to vary the arrangements for the transfer of pupils from a primary school to a secondary school.
 
 ### Primary school commencement date
 
-**6.**[^key-402f3ca929bc6b6d2021a8dae21dcee6] A proposal to change the school commencement date of a primary school.
+**6.**[^c-402f3ca929bc6b6d2021a8dae21dcee6] A proposal to change the school commencement date of a primary school.
 
 ### Special class outwith a special school
 
-**7.**[^key-40ffacdccd8891aa0422045a4abfcf45] A proposal to vary arrangements for the constitution of a special class in a school other than a special school.
+**7.**[^c-40ffacdccd8891aa0422045a4abfcf45] A proposal to vary arrangements for the constitution of a special class in a school other than a special school.
 
-### Transport to school that provides Gaelic medium education[^key-e748a8aec0fe22a8013745a403a25821]
+### Transport to school that provides Gaelic medium education[^c-e748a8aec0fe22a8013745a403a25821]
 
 **7A.** A proposal to discontinue arrangements for the provision of transport by the education authority for pupils in Gaelic medium education.
 
 ### Transport to denominational school
 
-**8.**[^key-e851bdfbf71b5af9b38c7767465913e5] A proposal to discontinue arrangements for the provision of transport by the education authority for pupils attending a denominational school.
+**8.**[^c-e851bdfbf71b5af9b38c7767465913e5] A proposal to discontinue arrangements for the provision of transport by the education authority for pupils attending a denominational school.
 
 ### Changing from denominational to non-denominational school
 
-**9.**[^key-1f8f5c722efbc04ec8e27595781858b3] A proposal to change a denominational school into a non-denominational school.
+**9.**[^c-1f8f5c722efbc04ec8e27595781858b3] A proposal to change a denominational school into a non-denominational school.
 
 ### Discontinuance of a further education centre
 
-**10.**[^key-ab3f83ada541c16fd74ad9a939cda9fc] (1) A proposal to discontinue a further education centre which is managed by the education authority.
+**10.**[^c-ab3f83ada541c16fd74ad9a939cda9fc] (1) A proposal to discontinue a further education centre which is managed by the education authority.
 
 (2) For the purpose of this paragraph, a “further education centre” is an institution for the provision of further education.
 
@@ -806,7 +806,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Meaning of expressions used in this schedule
 
-**11.**[^key-da9330286b1189255ba4f71de05c9519] (1) In this Act, a reference to any school that is affected by a proposal is to—
+**11.**[^c-da9330286b1189255ba4f71de05c9519] (1) In this Act, a reference to any school that is affected by a proposal is to—
 
 - (a) every school which the proposal directly concerns, and
 - (b) any other school which would be significantly affected in consequence of the proposal (if implemented).
@@ -820,12 +820,12 @@ the proposal is to be regarded as falling within this paragraph only.
 
 (3) But a school is not an affected school solely because it would be likely to become the subject of placing requests as a consequence of the implementation of a proposal.
 
-**12.**[^key-6e8cb043d74320d494649bc13c35b19e] For the purposes of this schedule and schedule 2—
+**12.**[^c-6e8cb043d74320d494649bc13c35b19e] For the purposes of this schedule and schedule 2—
 
 - “**catchment area**” has the meaning given in section 28A(3D) of the 1980 Act,
 - “denominational school” is a school of a type referred to in section 21 of the 1980 Act,
 - “**English medium education**” means teaching by means of the English language,
-- “**Gaelic medium education**” means teaching and learning[^key-3cb4613ffea690df3cba9aa26910149a] by means of the Gaelic language (as spoken in Scotland),
+- “**Gaelic medium education**” means teaching and learning[^c-3cb4613ffea690df3cba9aa26910149a] by means of the Gaelic language (as spoken in Scotland),
 - “nursery class”, “primary education”, secondary education” and “further education” are to be construed in accordance with section 135(1) and (2) of the 1980 Act,
 - “primary school” and “secondary school” are schools where primary and secondary education respectively are provided (whether or not exclusively),
 - “**school commencement date**” has the meaning given in section 32(1) of the 1980 Act,
@@ -843,7 +843,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Closure
 
-**1.**[^key-a1673ad1141cafdee39fe4388e5b5f15] In relation to a proposal specified in paragraph 1 of schedule 1, the consultees are—
+**1.**[^c-a1673ad1141cafdee39fe4388e5b5f15] In relation to a proposal specified in paragraph 1 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -852,14 +852,14 @@ the proposal is to be regarded as falling within this paragraph only.
 - (e) the staff (teaching and other) at any affected school,
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) the community council (if any),
-- (h)[^key-039b5be048e5b3e3d1ba323bbc8c206a] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
+- (h)[^c-039b5be048e5b3e3d1ba323bbc8c206a] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
 - (ha) any other community planning partnership that the education authority considers relevant,
 - (i) any other education authority that the education authority considers relevant,
 - (j) any other users of any affected school that the education authority considers relevant.
 
 ### Establishment
 
-**2.**[^key-96f9b81293607b06dd2a6aa977cbce3f] In relation to a proposal specified in paragraph 2 of schedule 1, the consultees are—
+**2.**[^c-96f9b81293607b06dd2a6aa977cbce3f] In relation to a proposal specified in paragraph 2 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -868,14 +868,14 @@ the proposal is to be regarded as falling within this paragraph only.
 - (e) the staff (teaching and other) at any affected school,
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) the community council (if any),
-- (h)[^key-a7a2775cebece3ccaf24be1f25be50be] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
+- (h)[^c-a7a2775cebece3ccaf24be1f25be50be] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
 - (ha) any other community planning partnership that the education authority considers relevant,
 - (i) any other education authority that the education authority considers relevant,
 - (j) any other users of any affected school that the education authority considers relevant.
 
 ### Relocation
 
-**3.**[^key-f072498239b6ae8a39cd64f1fa90cc64] In relation to a proposal specified in paragraph 3 of schedule 1, the consultees are—
+**3.**[^c-f072498239b6ae8a39cd64f1fa90cc64] In relation to a proposal specified in paragraph 3 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -884,14 +884,14 @@ the proposal is to be regarded as falling within this paragraph only.
 - (e) the staff (teaching and other) at any affected school,
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) the community council (if any),
-- (h)[^key-842c82549f53ed0a1c639ae8c15e6d3e] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
+- (h)[^c-842c82549f53ed0a1c639ae8c15e6d3e] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
 - (ha) any other community planning partnership that the education authority considers relevant,
 - (i) any other education authority that the education authority considers relevant,
 - (j) any other users of any affected school that the education authority considers relevant.
 
 ### Admission arrangements
 
-**4.**[^key-586052eed68dfea612d6f2dc93204cf2] In relation to a proposal specified in paragraph 4 of schedule 1, the consultees are—
+**4.**[^c-586052eed68dfea612d6f2dc93204cf2] In relation to a proposal specified in paragraph 4 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -900,13 +900,13 @@ the proposal is to be regarded as falling within this paragraph only.
 - (e) the staff (teaching and other) at any affected school,
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) the community council (if any),
-- (h)[^key-299a12b854464ebf0f14cabadffc69a6] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
+- (h)[^c-299a12b854464ebf0f14cabadffc69a6] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
 - (ha) any other community planning partnership that the education authority considers relevant,
 - (i) any other education authority that the education authority considers relevant.
 
 ### Transfer from primary to secondary school
 
-**5.**[^key-a89c4d574b0bc36d0bf5424f2ca7649d] In relation to a proposal specified in paragraph 5 of schedule 1, the consultees are—
+**5.**[^c-a89c4d574b0bc36d0bf5424f2ca7649d] In relation to a proposal specified in paragraph 5 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -915,13 +915,13 @@ the proposal is to be regarded as falling within this paragraph only.
 - (e) the staff (teaching and other) at any affected school,
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) the community council (if any),
-- (h)[^key-3d96e51a6b5b4c084e6783e70c97a52e] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
+- (h)[^c-3d96e51a6b5b4c084e6783e70c97a52e] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which any affected school is situated,
 - (ha) any other community planning partnership that the education authority considers relevant,
 - (i) any other education authority that the education authority considers relevant.
 
 ### Primary school commencement date
 
-**6.**[^key-ba9790289e7890be50014dbcf79da6c9] In relation to a proposal specified in paragraph 6 of schedule 1, the consultees are—
+**6.**[^c-ba9790289e7890be50014dbcf79da6c9] In relation to a proposal specified in paragraph 6 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -933,7 +933,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Special class outwith a special school
 
-**7.**[^key-bf378fa151705a06e687da4223bc2359] In relation to a proposal specified in paragraph 7 of schedule 1, the consultees are—
+**7.**[^c-bf378fa151705a06e687da4223bc2359] In relation to a proposal specified in paragraph 7 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -943,7 +943,7 @@ the proposal is to be regarded as falling within this paragraph only.
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) any other education authority that the education authority considers relevant.
 
-### Transport to school that provides Gaelic medium education[^key-149ad1a63416a3463bf9b7946f41ea66]
+### Transport to school that provides Gaelic medium education[^c-149ad1a63416a3463bf9b7946f41ea66]
 
 **7A.** In relation to a proposal specified in paragraph 7A of schedule 1, the consultees are—
 
@@ -958,7 +958,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Transport to denominational school
 
-**8.**[^key-9e7b7aedcee2d145c9012bab6f7a39ce] In relation to a proposal specified in paragraph 8 of schedule 1, the consultees are—
+**8.**[^c-9e7b7aedcee2d145c9012bab6f7a39ce] In relation to a proposal specified in paragraph 8 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -970,7 +970,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Changing from denominational to non-denominational school
 
-**9.**[^key-f6bc533bf28abd189fc3198170fb49c2] In relation to a proposal specified in paragraph 9 of schedule 1, the consultees are—
+**9.**[^c-f6bc533bf28abd189fc3198170fb49c2] In relation to a proposal specified in paragraph 9 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any affected school,
 - (b) the parents of the pupils at any affected school,
@@ -982,7 +982,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Discontinuance of a further education centre
 
-**10.**[^key-51d379b7e7afb979cc6af615420c0aeb] In relation to a proposal specified in paragraph 10 of schedule 1, the consultees are—
+**10.**[^c-51d379b7e7afb979cc6af615420c0aeb] In relation to a proposal specified in paragraph 10 of schedule 1, the consultees are—
 
 - (a) the Parent Council or Combined Parent Council of any school at which the pupils who attend the further education centre also attend,
 - (b) the parents of the pupils of school age attending the centre,
@@ -991,7 +991,7 @@ the proposal is to be regarded as falling within this paragraph only.
 - (e) the staff (teaching and other) of any school at which the pupils who attend the further education centre also attend,
 - (f) any trade union which appears to the education authority to be representative of the persons mentioned in sub-paragraph (e),
 - (g) the community council (if any),
-- (h)[^key-e9e9698aafb0ff7ef315c30d6369e5b5] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which the further education centre is situated,
+- (h)[^c-e9e9698aafb0ff7ef315c30d6369e5b5] the community planning partnership (within the meaning of section 4(5) of the Community Empowerment (Scotland) Act 2015) for the area of the local authority in which the further education centre is situated,
 - (i) the staff (teaching and other) at the centre,
 - (j) the students attending the centre,
 - (k) the employers of any such students,
@@ -999,23 +999,23 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Gaelic consultee
 
-**11.**[^key-fecc99ae53d5127c4a750b775dcb0bbe] In relation to any proposal mentioned above which affects the provision of Gaelic medium education, the following persons are also consultees—[^key-bc251472d212a3dc096ae764c5fe46ec]
+**11.**[^c-fecc99ae53d5127c4a750b775dcb0bbe] In relation to any proposal mentioned above which affects the provision of Gaelic medium education, the following persons are also consultees—[^c-bc251472d212a3dc096ae764c5fe46ec]
 
 - (a) Bòrd na Gàidhlig,
 - (b) the body known as Comann nam Pàrant (Nàiseanta).
 
 ### Denominational consultee
 
-**12.**[^key-9c4296629299622d5895550964a79feb] In relation to any proposal mentioned above which affects a denominational school, also a consultee is the person duly authorised for the purpose by the church or denominational body in whose interest the affected school is conducted.
+**12.**[^c-9c4296629299622d5895550964a79feb] In relation to any proposal mentioned above which affects a denominational school, also a consultee is the person duly authorised for the purpose by the church or denominational body in whose interest the affected school is conducted.
 
 ### Meaning of expressions used in this schedule
 
-**13.**[^key-4f51e58a9e2e9ecc7599d677e6b267d5] In this schedule—
+**13.**[^c-4f51e58a9e2e9ecc7599d677e6b267d5] In this schedule—
 
 - “community council” is one established by a local authority under Part IV of the Local Government (Scotland) Act 1973 (c. 65),
 - “Parent Council” and “**Combined Parent Council**” means one established in accordance with sections 6 and 16 respectively of the Scottish Schools (Parental Involvement) Act 2006 (asp 8).
 
-## SCHEDULE 2A — School Closure Review Panels[^key-3535ec103abfb2e97b413b2ff08bc367]
+## SCHEDULE 2A — School Closure Review Panels[^c-3535ec103abfb2e97b413b2ff08bc367]
 
 (introduced by section 17A)
 
@@ -1116,18 +1116,18 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ### Modification of enactments
 
-**1.**[^key-852f7a558f5f020ac87317ec75f159bf] (1) In section 22 (discontinuance and moves of educational establishments) of the 1980 Act—
+**1.**[^c-852f7a558f5f020ac87317ec75f159bf] (1) In section 22 (discontinuance and moves of educational establishments) of the 1980 Act—
 
 - (a) in subsection (4), for the words “sections 22A, 22B, 22C and 22D of this Act” in the first place where they occur substitute “ sections 22C and 22D of this Act and the Schools (Consultation) (Scotland) Act 2010 (asp 2) ”,
 - (b) in proviso (ii) to that subsection, for the words “sections 22A, 22B, 22C and 22D of this Act” substitute “ sections 22C and 22D of this Act and the Schools (Consultation) (Scotland) Act 2010 (asp 2) ”.
 
 (2) Sections 22A and 22B of the 1980 Act are repealed.
 
-**2.**[^key-8cc0832185723695d68698b9741e0c1b] In the Local Government etc. (Scotland) Act 1994 (c. 39), section 143 is repealed.
+**2.**[^c-8cc0832185723695d68698b9741e0c1b] In the Local Government etc. (Scotland) Act 1994 (c. 39), section 143 is repealed.
 
 ### Transitional, transitory and saving provision
 
-**3.**[^key-91106cac3ca9a405583970811d5b64b2] (1) Sub-paragraphs (2) to (5) apply to any relevant proposal if—
+**3.**[^c-91106cac3ca9a405583970811d5b64b2] (1) Sub-paragraphs (2) to (5) apply to any relevant proposal if—
 
 - (a) a consultation on the proposal has been initiated (and is in progress), or has been carried out, by an education authority—
   - (i) under the 1981 Regulations and section 22A of the 1980 Act, and
@@ -1147,7 +1147,7 @@ the proposal is to be regarded as falling within this paragraph only.
 
 (5) In the case of any closure proposal, if at any time the education authority decides to implement the proposal, sections 15 to 17 apply in relation to the proposal.
 
-**4.**[^key-9964d95ce8a9e7ff255f7c65170bce97] (1) Sub-paragraph (2) applies to a relevant proposal if—
+**4.**[^c-9964d95ce8a9e7ff255f7c65170bce97] (1) Sub-paragraph (2) applies to a relevant proposal if—
 
 - (a) a consultation on the proposal has been carried out by an education authority—
   - (i) under the 1981 Regulations and section 22A of the 1980 Act, and
@@ -1165,12 +1165,12 @@ the proposal is to be regarded as falling within this paragraph only.
   - (i) has not yet been given, or
   - (ii) is, or has been, refused.
 
-**5.**[^key-441bf8a9e6872da40f1b4e1d22cb6a86] Despite paragraph 1(2)—
+**5.**[^c-441bf8a9e6872da40f1b4e1d22cb6a86] Despite paragraph 1(2)—
 
 - (a) to the extent required for the purposes of paragraph 3, the 1981 Regulations and section 22A of the 1980 Act continue to operate as they did immediately before the commencement of this paragraph, and
 - (b) to the extent required for the purposes of paragraph 4, the 1981 Regulations and section 22A of the 1980 Act, and section 22B of that Act, continue to operate as they did immediately before the commencement of this paragraph.
 
-**6.**[^key-11c5c28e4069f7fbd0601ce506a51313] (1) In paragraph 3(2), the reference to proceeding with the proposal is to—
+**6.**[^c-11c5c28e4069f7fbd0601ce506a51313] (1) In paragraph 3(2), the reference to proceeding with the proposal is to—
 
 - (a) deciding to implement it (wholly or partly), or
 - (b) implementing it (wholly or partly).
@@ -1181,254 +1181,254 @@ the proposal is to be regarded as falling within this paragraph only.
 
 ## Annotations
 
-[^key-0cc269be6ddd29c613b4eb132faf3754]: Commencement: S. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-0cc269be6ddd29c613b4eb132faf3754]: Commencement: S. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-f28f2dd3fc63960402ad28fd9e1badc3]: Textual amendment: Words in [s. 1(3)(e)](https://www.legislation.gov.uk/asp/2010/2/section/1/3/e) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-f28f2dd3fc63960402ad28fd9e1badc3]: Textual amendment: Words in [s. 1(3)(e)](https://www.legislation.gov.uk/asp/2010/2/section/1/3/e) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-bff8463604bfc9474889563a53a820a1]: Textual amendment: [S. 1(4A)](https://www.legislation.gov.uk/asp/2010/2/section/1/4A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(5)](https://www.legislation.gov.uk/asp/2014/8/section/80/5), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-bff8463604bfc9474889563a53a820a1]: Textual amendment: [S. 1(4A)](https://www.legislation.gov.uk/asp/2010/2/section/1/4A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(5)](https://www.legislation.gov.uk/asp/2014/8/section/80/5), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-3ef82625f2e2925449f033ae1874cdf9]: Commencement: S. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-3ef82625f2e2925449f033ae1874cdf9]: Commencement: S. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-d1858120e50dc19597c56bab9dad3d37]: Textual amendment: S. 2A inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 77](https://www.legislation.gov.uk/asp/2014/8/section/77), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/165/article/3) [4](https://www.legislation.gov.uk/ssi/2014/165/article/4))
+[^c-d1858120e50dc19597c56bab9dad3d37]: Textual amendment: S. 2A inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 77](https://www.legislation.gov.uk/asp/2014/8/section/77), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/165/article/3) [4](https://www.legislation.gov.uk/ssi/2014/165/article/4))
 
-[^key-13e89836b8b087a448f13860d569903f]: Commencement: S. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-13e89836b8b087a448f13860d569903f]: Commencement: S. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-e8868a7390429cbed703b74d2f651069]: Commencement: S. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-e8868a7390429cbed703b74d2f651069]: Commencement: S. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-fcd03376f8ddd0a9328a3f1f6c52207f]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/asp/2010/2/section/4/2) substituted (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(6)](https://www.legislation.gov.uk/asp/2014/8/section/81/6), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2)
+[^c-fcd03376f8ddd0a9328a3f1f6c52207f]: Textual amendment: Word in [s. 4(2)](https://www.legislation.gov.uk/asp/2010/2/section/4/2) substituted (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(6)](https://www.legislation.gov.uk/asp/2014/8/section/81/6), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2)
 
-[^key-31120e35f5a3155f79a19eda030b44b0]: Textual amendment: S. 4(2A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 78](https://www.legislation.gov.uk/asp/2014/8/section/78), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-31120e35f5a3155f79a19eda030b44b0]: Textual amendment: S. 4(2A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 78](https://www.legislation.gov.uk/asp/2014/8/section/78), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-f87bb94ff8bdd4e501fdb5c299d4f6da]: Commencement: S. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-f87bb94ff8bdd4e501fdb5c299d4f6da]: Commencement: S. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-0707c2345b472717bf037359f2969e95]: Textual amendment: Word in s. 5(2) repealed (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(a)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-0707c2345b472717bf037359f2969e95]: Textual amendment: Word in s. 5(2) repealed (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(a)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-d39d0af7dc3d2989646b9e92373d367f]: Textual amendment: S. 5(2)(aa) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(b)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-d39d0af7dc3d2989646b9e92373d367f]: Textual amendment: S. 5(2)(aa) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(b)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-ff3ac5d669d980988aba085411d35d4e]: Textual amendment: Words in s. 5(2)(b) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(c)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-ff3ac5d669d980988aba085411d35d4e]: Textual amendment: Words in s. 5(2)(b) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(c)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-bb1acd0d7c0b745814b4cdfca6e19c24]: Textual amendment: S. 5(2)(c) and word inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(d)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/d), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-bb1acd0d7c0b745814b4cdfca6e19c24]: Textual amendment: S. 5(2)(c) and word inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(2)(d)](https://www.legislation.gov.uk/asp/2014/8/section/79/2/d), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-db34f65b78bf24f622beac526e7f8a2e]: Textual amendment: S. 5(2A)(2B) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(3)](https://www.legislation.gov.uk/asp/2014/8/section/79/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-db34f65b78bf24f622beac526e7f8a2e]: Textual amendment: S. 5(2A)(2B) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(3)](https://www.legislation.gov.uk/asp/2014/8/section/79/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-739a9e7f4659d383a8cab771e0417d94]: Textual amendment: S. 5(3)-(6) substituted for s. 5(3) (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(4)](https://www.legislation.gov.uk/asp/2014/8/section/79/4), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-739a9e7f4659d383a8cab771e0417d94]: Textual amendment: S. 5(3)-(6) substituted for s. 5(3) (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(4)](https://www.legislation.gov.uk/asp/2014/8/section/79/4), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-2bfe37da5b72a569b5dd88a7905d4395]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/asp/2010/2/section/5/5) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(3)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/3); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-2bfe37da5b72a569b5dd88a7905d4395]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/asp/2010/2/section/5/5) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(3)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/3); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-a94d99fd88ff98f89c75f39a9a1bd80e]: Commencement: S. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-a94d99fd88ff98f89c75f39a9a1bd80e]: Commencement: S. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-daf916ded9f440787e6635e306fc1b7e]: Commencement: S. 7 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-daf916ded9f440787e6635e306fc1b7e]: Commencement: S. 7 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-36bfaba0613b102632d891ae5baa9d5f]: Textual amendment: Words in [s. 7(2)(b)](https://www.legislation.gov.uk/asp/2010/2/section/7/2/b) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(4)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/4); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-36bfaba0613b102632d891ae5baa9d5f]: Textual amendment: Words in [s. 7(2)(b)](https://www.legislation.gov.uk/asp/2010/2/section/7/2/b) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(4)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/4); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-e1e4da7ffaf42b088ad97ad0b5bb29a2]: Commencement: S. 8 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-e1e4da7ffaf42b088ad97ad0b5bb29a2]: Commencement: S. 8 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-1aeb1fa81b9e0e7e5aaa34b7ec2be280]: Textual amendment: Cross-heading substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(6)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/6); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-1aeb1fa81b9e0e7e5aaa34b7ec2be280]: Textual amendment: Cross-heading substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(6)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/6); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-c7caef1cdd3b07b4f5f900c128b1bd80]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/asp/2010/2/section/8/1) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(a)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/a/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-c7caef1cdd3b07b4f5f900c128b1bd80]: Textual amendment: Words in [s. 8(1)](https://www.legislation.gov.uk/asp/2010/2/section/8/1) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(a)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/a/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-3304f12800aac31d357c954776ca0c34]: Textual amendment: Words in [s. 8(1)(b)(ii)](https://www.legislation.gov.uk/asp/2010/2/section/8/1/b/ii) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(a)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/a/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-3304f12800aac31d357c954776ca0c34]: Textual amendment: Words in [s. 8(1)(b)(ii)](https://www.legislation.gov.uk/asp/2010/2/section/8/1/b/ii) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(a)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/a/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-75a1a3f7ab380b9eb216f279e5d7301b]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/asp/2010/2/section/8/2) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-75a1a3f7ab380b9eb216f279e5d7301b]: Textual amendment: Words in [s. 8(2)](https://www.legislation.gov.uk/asp/2010/2/section/8/2) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-f2e59267961a232ed72194317ca2f1e3]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/asp/2010/2/section/8/3) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(c)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/c/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-f2e59267961a232ed72194317ca2f1e3]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/asp/2010/2/section/8/3) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(c)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/c/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-4e9d3e585d92d81f9b90ab6f85d327c2]: Textual amendment: Words in [s. 8(3)(a)](https://www.legislation.gov.uk/asp/2010/2/section/8/3/a) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(c)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/c/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-4e9d3e585d92d81f9b90ab6f85d327c2]: Textual amendment: Words in [s. 8(3)(a)](https://www.legislation.gov.uk/asp/2010/2/section/8/3/a) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(c)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/c/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-97c8141c2f3d85f7e4728d82d81833f4]: Textual amendment: Words in [s. 8(3)(b)](https://www.legislation.gov.uk/asp/2010/2/section/8/3/b) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(c)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/c/iii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-97c8141c2f3d85f7e4728d82d81833f4]: Textual amendment: Words in [s. 8(3)(b)](https://www.legislation.gov.uk/asp/2010/2/section/8/3/b) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(c)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/c/iii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-61e2a60c720d5a7d62f53bfa3b13ff17]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/asp/2010/2/section/8/4) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-61e2a60c720d5a7d62f53bfa3b13ff17]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/asp/2010/2/section/8/4) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-e26a301a4d614884cf36f6bb364fc2d3]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/asp/2010/2/section/8/4/b) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-e26a301a4d614884cf36f6bb364fc2d3]: Textual amendment: Words in [s. 8(4)(b)](https://www.legislation.gov.uk/asp/2010/2/section/8/4/b) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-77416bfda17bca3baa221e64a9df7c77]: Textual amendment: Words in [s. 8(4)(c)](https://www.legislation.gov.uk/asp/2010/2/section/8/4/c) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/iii), [(A)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/A); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-77416bfda17bca3baa221e64a9df7c77]: Textual amendment: Words in [s. 8(4)(c)](https://www.legislation.gov.uk/asp/2010/2/section/8/4/c) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/iii), [(A)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/A); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-19acaceb1615766386d63fdd6049e398]: Textual amendment: Words in [s. 8(4)(c)](https://www.legislation.gov.uk/asp/2010/2/section/8/4/c) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/iii), [(B)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/B); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-19acaceb1615766386d63fdd6049e398]: Textual amendment: Words in [s. 8(4)(c)](https://www.legislation.gov.uk/asp/2010/2/section/8/4/c) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(d)(iii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/d/iii), [(B)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/B); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-529125ba1d0545b3eae5deac4954df19]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/asp/2010/2/section/8/5) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(e)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/e); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-529125ba1d0545b3eae5deac4954df19]: Textual amendment: Words in [s. 8(5)](https://www.legislation.gov.uk/asp/2010/2/section/8/5) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(e)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/e); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-142b7260f41f078672191e62dbee1905]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2010/2/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(f)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/f); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-142b7260f41f078672191e62dbee1905]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/asp/2010/2/section/8/6) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(f)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/f); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-a66a5869a92fb74689a45d242fab6b48]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/asp/2010/2/section/8/7) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(g)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/g/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-a66a5869a92fb74689a45d242fab6b48]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/asp/2010/2/section/8/7) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(g)(i)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/g/i); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-c7af04ebcb09e1de9dfcfa5752cb9e58]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/asp/2010/2/section/8/7) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(g)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/g/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-c7af04ebcb09e1de9dfcfa5752cb9e58]: Textual amendment: Words in [s. 8(7)](https://www.legislation.gov.uk/asp/2010/2/section/8/7) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(5)(g)(ii)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/5/g/ii); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-22374e818bfd99fc5b9581e79acff69d]: Commencement: S. 9 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-22374e818bfd99fc5b9581e79acff69d]: Commencement: S. 9 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-01e064164bfb9ea49fec5580348323ee]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/asp/2010/2/section/9/1) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(7)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/7); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-01e064164bfb9ea49fec5580348323ee]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/asp/2010/2/section/9/1) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(7)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/7); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-02c32f2b7f930c9c8fb42006f1a8f393]: Commencement: S. 10 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-02c32f2b7f930c9c8fb42006f1a8f393]: Commencement: S. 10 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-27cb102c92e3cb5eb7f955028ac3eb17]: Textual amendment: Words in [s. 10(2)(c)(ii)](https://www.legislation.gov.uk/asp/2010/2/section/10/2/c/ii) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(8)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/8); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-27cb102c92e3cb5eb7f955028ac3eb17]: Textual amendment: Words in [s. 10(2)(c)(ii)](https://www.legislation.gov.uk/asp/2010/2/section/10/2/c/ii) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(8)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/8); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-32383355480cfd8303454b0799e3a591]: Textual amendment: Words in s. 10(3) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(a)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-32383355480cfd8303454b0799e3a591]: Textual amendment: Words in s. 10(3) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(a)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-e2a048e12367c12038736639ccac02e2]: Textual amendment: Words in s. 10(3)(a) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(b)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-e2a048e12367c12038736639ccac02e2]: Textual amendment: Words in s. 10(3)(a) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(b)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-2c4c31b990d62d80c225863b4935d3f7]: Textual amendment: Words in s. 10(3)(b) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(c)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-2c4c31b990d62d80c225863b4935d3f7]: Textual amendment: Words in s. 10(3)(b) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(c)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-7e0da753746192666199309321e819d5]: Textual amendment: S. 10(3)(c) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(d)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/d), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-7e0da753746192666199309321e819d5]: Textual amendment: S. 10(3)(c) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 79(5)(d)](https://www.legislation.gov.uk/asp/2014/8/section/79/5/d), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-df5dc4771d2d9630c495f5cb99806ff7]: Commencement: S. 11 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-df5dc4771d2d9630c495f5cb99806ff7]: Commencement: S. 11 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-701570b2d5586df9dd46aa6c9d77fb03]: Textual amendment: [S. 11ZA](https://www.legislation.gov.uk/asp/2010/2/section/11ZA) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 18(2)](https://www.legislation.gov.uk/asp/2022/8/section/18/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-701570b2d5586df9dd46aa6c9d77fb03]: Textual amendment: [S. 11ZA](https://www.legislation.gov.uk/asp/2010/2/section/11ZA) inserted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 18(2)](https://www.legislation.gov.uk/asp/2022/8/section/18/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-72b844f36e3f64849a3ef75c13215da7]: Textual amendment: S. 11A inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(1)](https://www.legislation.gov.uk/asp/2014/8/section/80/1), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-72b844f36e3f64849a3ef75c13215da7]: Textual amendment: S. 11A inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(1)](https://www.legislation.gov.uk/asp/2014/8/section/80/1), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-ec730cd591a8076aa96f95001bf98727]: Commencement: S. 12 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-ec730cd591a8076aa96f95001bf98727]: Commencement: S. 12 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-313c52bcf78ed330acc3e9e07e507e34]: Textual amendment: [S. 12(3)(a)](https://www.legislation.gov.uk/asp/2010/2/section/12/3/a) repealed (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(2)(a)](https://www.legislation.gov.uk/asp/2014/8/section/80/2/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-313c52bcf78ed330acc3e9e07e507e34]: Textual amendment: [S. 12(3)(a)](https://www.legislation.gov.uk/asp/2010/2/section/12/3/a) repealed (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(2)(a)](https://www.legislation.gov.uk/asp/2014/8/section/80/2/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-5f67e095e6cfb7fc57412c33c2a7f023]: Textual amendment: Words in [s. 12(4)](https://www.legislation.gov.uk/asp/2010/2/section/12/4) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(2)(b)](https://www.legislation.gov.uk/asp/2014/8/section/80/2/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-5f67e095e6cfb7fc57412c33c2a7f023]: Textual amendment: Words in [s. 12(4)](https://www.legislation.gov.uk/asp/2010/2/section/12/4) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(2)(b)](https://www.legislation.gov.uk/asp/2014/8/section/80/2/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-9319b93b3064ed0888842072eb48eb07]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/asp/2010/2/section/12/5) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(2)(c)](https://www.legislation.gov.uk/asp/2014/8/section/80/2/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-9319b93b3064ed0888842072eb48eb07]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/asp/2010/2/section/12/5) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(2)(c)](https://www.legislation.gov.uk/asp/2014/8/section/80/2/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-a5df50f5030ea6df6abdc4c991e4e93b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/asp/2010/2/section/12A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(3)](https://www.legislation.gov.uk/asp/2014/8/section/80/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-a5df50f5030ea6df6abdc4c991e4e93b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/asp/2010/2/section/12A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(3)](https://www.legislation.gov.uk/asp/2014/8/section/80/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-4576c549b6cf88a88fe17635e1d9c17d]: Textual amendment: [S. 13](https://www.legislation.gov.uk/asp/2010/2/section/13) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(4)](https://www.legislation.gov.uk/asp/2014/8/section/80/4), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
+[^c-4576c549b6cf88a88fe17635e1d9c17d]: Textual amendment: [S. 13](https://www.legislation.gov.uk/asp/2010/2/section/13) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 80(4)](https://www.legislation.gov.uk/asp/2014/8/section/80/4), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/165/article/5))
 
-[^key-98a79ab528ec3fa02fad4cd432be8e2f]: Commencement: S. 14 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-98a79ab528ec3fa02fad4cd432be8e2f]: Commencement: S. 14 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-cd8df3efba575b63ed7cde7cdc036001]: Commencement: S. 15 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-cd8df3efba575b63ed7cde7cdc036001]: Commencement: S. 15 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-c5221618e7558c6c4741d29a8353fefa]: Textual amendment: S. 15(2)(b)(iii) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-c5221618e7558c6c4741d29a8353fefa]: Textual amendment: S. 15(2)(b)(iii) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-06a2540b2775d6083ea3cfec8009753e]: Textual amendment: S. 15(2A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-06a2540b2775d6083ea3cfec8009753e]: Textual amendment: S. 15(2A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-8f917f44d42b93b1c9515454e25fbdc8]: Textual amendment: Word in s. 15(3) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-8f917f44d42b93b1c9515454e25fbdc8]: Textual amendment: Word in s. 15(3) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-9656cfa21679c3a04b3e668c36379792]: Textual amendment: Word in s. 15(4) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-9656cfa21679c3a04b3e668c36379792]: Textual amendment: Word in s. 15(4) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-217374f1398416d3bacc9e950139fab5]: Textual amendment: [S. 15(5)](https://www.legislation.gov.uk/asp/2010/2/section/15/5) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(d)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/d), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
+[^c-217374f1398416d3bacc9e950139fab5]: Textual amendment: [S. 15(5)](https://www.legislation.gov.uk/asp/2010/2/section/15/5) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(d)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/d), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
 
-[^key-97fe72d1fea6f3e0c27211077bd2d888]: Textual amendment: Word in s. 15(6) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-97fe72d1fea6f3e0c27211077bd2d888]: Textual amendment: Word in s. 15(6) substituted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(1)(c)](https://www.legislation.gov.uk/asp/2014/8/section/81/1/c), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-128a69b503a773fe4d77b42f18ae1e29]: Textual amendment: [S. 16](https://www.legislation.gov.uk/asp/2010/2/section/16) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(2)](https://www.legislation.gov.uk/asp/2014/8/section/81/2), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
+[^c-128a69b503a773fe4d77b42f18ae1e29]: Textual amendment: [S. 16](https://www.legislation.gov.uk/asp/2010/2/section/16) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(2)](https://www.legislation.gov.uk/asp/2014/8/section/81/2), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
 
-[^key-b28da9c01909fea2b4bccbc921337812]: Commencement: S. 16 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-b28da9c01909fea2b4bccbc921337812]: Commencement: S. 16 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-e38a293593349424f247bcf4a58f77c6]: Commencement: S. 17 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-e38a293593349424f247bcf4a58f77c6]: Commencement: S. 17 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-e2018fc9faea57f59f3900b31a2416fe]: Textual amendment: Word in [s. 17(3)](https://www.legislation.gov.uk/asp/2010/2/section/17/3) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(3)(a)(i)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/a/i), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
+[^c-e2018fc9faea57f59f3900b31a2416fe]: Textual amendment: Word in [s. 17(3)](https://www.legislation.gov.uk/asp/2010/2/section/17/3) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(3)(a)(i)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/a/i), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
 
-[^key-bfa5d1d7de49a1621cb810d9d4ebb276]: Textual amendment: [S. 17(3)(b)](https://www.legislation.gov.uk/asp/2010/2/section/17/3/b) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(3)(a)(ii)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/a/ii), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
+[^c-bfa5d1d7de49a1621cb810d9d4ebb276]: Textual amendment: [S. 17(3)(b)](https://www.legislation.gov.uk/asp/2010/2/section/17/3/b) repealed (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(3)(a)(ii)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/a/ii), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/104/article/3))
 
-[^key-c118b1cd1cb3b11dc0a5d0bf83ce78e5]: Textual amendment: S. 17(3A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(3)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
+[^c-c118b1cd1cb3b11dc0a5d0bf83ce78e5]: Textual amendment: S. 17(3A) inserted (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(3)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/3/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule)
 
-[^key-756f8783938ee94c0b2e85c979508ad8]: Textual amendment: Words in [s. 17(3A)](https://www.legislation.gov.uk/asp/2010/2/section/17/3A) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(9)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/9/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-756f8783938ee94c0b2e85c979508ad8]: Textual amendment: Words in [s. 17(3A)](https://www.legislation.gov.uk/asp/2010/2/section/17/3A) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(9)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/9/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-d3a5adb65b7838878c1c304b6b664fc0]: Textual amendment: Words in [s. 17(3A)](https://www.legislation.gov.uk/asp/2010/2/section/17/3A) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(9)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/9/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-d3a5adb65b7838878c1c304b6b664fc0]: Textual amendment: Words in [s. 17(3A)](https://www.legislation.gov.uk/asp/2010/2/section/17/3A) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(9)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/9/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-1f1bde7035e66f5e03bbf859e9722662]: Textual amendment: Ss. 17A-17D inserted (1.8.2014 for the purposes of commencing s. 17B(3) and so far as necessary to enable Scottish Ministers to make regulations under s. 17B(5); 6.10.2014 for the purpose of bringing into force s. 17A(6) for specified purposes; 9.1.2015 for the purpose of bringing into force s. 17A(6) in so far as not already in force, and 30.3.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/165/article/6)); S.S.I. 2014/251, [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/165/article/2); S.S.I. 2014/365, [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/165/article/2); S.S.I. 2015/104, [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2)
+[^c-1f1bde7035e66f5e03bbf859e9722662]: Textual amendment: Ss. 17A-17D inserted (1.8.2014 for the purposes of commencing s. 17B(3) and so far as necessary to enable Scottish Ministers to make regulations under s. 17B(5); 6.10.2014 for the purpose of bringing into force s. 17A(6) for specified purposes; 9.1.2015 for the purpose of bringing into force s. 17A(6) in so far as not already in force, and 30.3.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(4)](https://www.legislation.gov.uk/asp/2014/8/section/81/4), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/165/article/6)); S.S.I. 2014/251, [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/165/article/2); S.S.I. 2014/365, [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/165/article/2); S.S.I. 2015/104, [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2)
 
-[^key-2d777b59fc68da4bfd226c74dbea1104]: Textual amendment: Words in [s. 17B(3)](https://www.legislation.gov.uk/asp/2010/2/section/17B/3) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(10)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/10/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-2d777b59fc68da4bfd226c74dbea1104]: Textual amendment: Words in [s. 17B(3)](https://www.legislation.gov.uk/asp/2010/2/section/17B/3) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(10)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/10/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-aaa43eb363f01e79a5700b1e581e34f5]: Textual amendment: Words in [s. 17B(3)](https://www.legislation.gov.uk/asp/2010/2/section/17B/3) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(10)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/10/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-aaa43eb363f01e79a5700b1e581e34f5]: Textual amendment: Words in [s. 17B(3)](https://www.legislation.gov.uk/asp/2010/2/section/17B/3) substituted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(10)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/10/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-aafaf3f032774d7a9db5c73a0a8c3960]: Commencement: S. 18 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-aafaf3f032774d7a9db5c73a0a8c3960]: Commencement: S. 18 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-e7260bbcedb44b586ad77eeecf43bcf9]: Textual amendment: S. 19(1) : s. 19 renumbered as s. 19(1) (9.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8) , [ss. 81(7)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/7/a) , [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3) ; [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353) , [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
+[^c-e7260bbcedb44b586ad77eeecf43bcf9]: Textual amendment: S. 19(1) : s. 19 renumbered as s. 19(1) (9.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8) , [ss. 81(7)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/7/a) , [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3) ; [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353) , [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
 
-[^key-e81973a8d721be4a5ddd08a7f7f4718c]: Textual amendment: S. 19(2) inserted (9.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8) , [ss. 81(7)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/7/b) , [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3) ; [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353) , [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
+[^c-e81973a8d721be4a5ddd08a7f7f4718c]: Textual amendment: S. 19(2) inserted (9.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8) , [ss. 81(7)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/7/b) , [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3) ; [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353) , [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/b)
 
-[^key-a63d91c669f1806567a4362c0478b20c]: Textual amendment: Word in s. 20(3) substituted (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(8)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2)
+[^c-a63d91c669f1806567a4362c0478b20c]: Textual amendment: Word in s. 20(3) substituted (30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(8)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/104](https://www.legislation.gov.uk/ssi/2015/104), [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2)
 
-[^key-4a0139b3e773f99153939240a8bd92a7]: Textual amendment: S. 20(7) inserted (1.8.2014 for specified purposes, otherwise 30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(8)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/165/article/6)); S.S.I. 2015/104, [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2)
+[^c-4a0139b3e773f99153939240a8bd92a7]: Textual amendment: S. 20(7) inserted (1.8.2014 for specified purposes, otherwise 30.3.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(8)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/8/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2014/165/article/6)); S.S.I. 2015/104, [art. 2](https://www.legislation.gov.uk/ssi/2015/104/article/2)
 
-[^key-a5e5a643155cb7cafaed3e9f034fc115]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) inserted (6.10.2014 for specified purposes, 9.1.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(9)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/9/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/251](https://www.legislation.gov.uk/ssi/2014/251), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/251/article/2/b); [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/365/article/2/b)
+[^c-a5e5a643155cb7cafaed3e9f034fc115]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) inserted (6.10.2014 for specified purposes, 9.1.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(9)(a)](https://www.legislation.gov.uk/asp/2014/8/section/81/9/a), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/251](https://www.legislation.gov.uk/ssi/2014/251), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/251/article/2/b); [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/365/article/2/b)
 
-[^key-09844e1bee17a8fd5869b200f029cde6]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) inserted (6.10.2014 for specified purposes, 9.1.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(9)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/9/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/251](https://www.legislation.gov.uk/ssi/2014/251), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/251/article/2/b); [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/365/article/2/b)
+[^c-09844e1bee17a8fd5869b200f029cde6]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) inserted (6.10.2014 for specified purposes, 9.1.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(9)(b)](https://www.legislation.gov.uk/asp/2014/8/section/81/9/b), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/251](https://www.legislation.gov.uk/ssi/2014/251), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/251/article/2/b); [S.S.I. 2014/365](https://www.legislation.gov.uk/ssi/2014/365), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/365/article/2/b)
 
-[^key-c86dd6697585aaca8ee9916cb044f3f9]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) inserted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(11)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/11/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-c86dd6697585aaca8ee9916cb044f3f9]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) inserted (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(11)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/11/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-b5df1c3b01e25255a63024b2c1dcbfd7]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) repealed (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(11)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/11/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
+[^c-b5df1c3b01e25255a63024b2c1dcbfd7]: Textual amendment: Words in [s. 21(2)](https://www.legislation.gov.uk/asp/2010/2/section/21/2) repealed (1.3.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 24(11)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/24/11/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2) (with [reg. 9](https://www.legislation.gov.uk/ssi/2026/2/regulation/9))
 
-[^key-677694f74a867c2c4261428305209ad0]: Commencement: Sch. 1 para. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-677694f74a867c2c4261428305209ad0]: Commencement: Sch. 1 para. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-4a67f61a30a8a00711a3db4ae5d06040]: Commencement: Sch. 1 para. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-4a67f61a30a8a00711a3db4ae5d06040]: Commencement: Sch. 1 para. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-dbb721290c5aca6dd43ee704c5ff1d80]: Textual amendment: Words in [sch. 1 para. 2(a)](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/2/a) inserted (31.3.2017) by [The Schools (Consultation) (Scotland) Act 2010 (Modification) Regulations 2017 (S.S.I. 2017/65)](https://www.legislation.gov.uk/ssi/2017/65), [regs. 1](https://www.legislation.gov.uk/ssi/2017/65/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/65/regulation/2/2/a)
+[^c-dbb721290c5aca6dd43ee704c5ff1d80]: Textual amendment: Words in [sch. 1 para. 2(a)](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/2/a) inserted (31.3.2017) by [The Schools (Consultation) (Scotland) Act 2010 (Modification) Regulations 2017 (S.S.I. 2017/65)](https://www.legislation.gov.uk/ssi/2017/65), [regs. 1](https://www.legislation.gov.uk/ssi/2017/65/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2017/65/regulation/2/2/a)
 
-[^key-d4dc2aa86d5ae8d1f69b5c1c344dfa66]: Textual amendment: Words in [sch. 1 para. 2(b)](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/2/b) inserted (31.3.2017) by [The Schools (Consultation) (Scotland) Act 2010 (Modification) Regulations 2017 (S.S.I. 2017/65)](https://www.legislation.gov.uk/ssi/2017/65), [regs. 1](https://www.legislation.gov.uk/ssi/2017/65/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/65/regulation/2/2/b)
+[^c-d4dc2aa86d5ae8d1f69b5c1c344dfa66]: Textual amendment: Words in [sch. 1 para. 2(b)](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/2/b) inserted (31.3.2017) by [The Schools (Consultation) (Scotland) Act 2010 (Modification) Regulations 2017 (S.S.I. 2017/65)](https://www.legislation.gov.uk/ssi/2017/65), [regs. 1](https://www.legislation.gov.uk/ssi/2017/65/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2017/65/regulation/2/2/b)
 
-[^key-6959e9aa822379e70862c915f78dd9dd]: Commencement: Sch. 1 para. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-6959e9aa822379e70862c915f78dd9dd]: Commencement: Sch. 1 para. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-eda420457bd0284952b27b9283649f93]: Textual amendment: Words in [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/3) substituted (31.3.2017) by [The Schools (Consultation) (Scotland) Act 2010 (Modification) Regulations 2017 (S.S.I. 2017/65)](https://www.legislation.gov.uk/ssi/2017/65), [regs. 1](https://www.legislation.gov.uk/ssi/2017/65/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/65/regulation/2/3)
+[^c-eda420457bd0284952b27b9283649f93]: Textual amendment: Words in [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/3) substituted (31.3.2017) by [The Schools (Consultation) (Scotland) Act 2010 (Modification) Regulations 2017 (S.S.I. 2017/65)](https://www.legislation.gov.uk/ssi/2017/65), [regs. 1](https://www.legislation.gov.uk/ssi/2017/65/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/65/regulation/2/3)
 
-[^key-60c71396e0622114b064033151b4c872]: Commencement: Sch. 1 para. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-60c71396e0622114b064033151b4c872]: Commencement: Sch. 1 para. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-5f1002b456c24f1ad04eadde49e5c679]: Commencement: Sch. 1 para. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-5f1002b456c24f1ad04eadde49e5c679]: Commencement: Sch. 1 para. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-402f3ca929bc6b6d2021a8dae21dcee6]: Commencement: Sch. 1 para. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-402f3ca929bc6b6d2021a8dae21dcee6]: Commencement: Sch. 1 para. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-40ffacdccd8891aa0422045a4abfcf45]: Commencement: Sch. 1 para. 7 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-40ffacdccd8891aa0422045a4abfcf45]: Commencement: Sch. 1 para. 7 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-e748a8aec0fe22a8013745a403a25821]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/7A) and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 26(2)](https://www.legislation.gov.uk/asp/2025/10/section/26/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-e748a8aec0fe22a8013745a403a25821]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/asp/2010/2/schedule/1/paragraph/7A) and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 26(2)](https://www.legislation.gov.uk/asp/2025/10/section/26/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-e851bdfbf71b5af9b38c7767465913e5]: Commencement: Sch. 1 para. 8 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-e851bdfbf71b5af9b38c7767465913e5]: Commencement: Sch. 1 para. 8 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-1f8f5c722efbc04ec8e27595781858b3]: Commencement: Sch. 1 para. 9 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-1f8f5c722efbc04ec8e27595781858b3]: Commencement: Sch. 1 para. 9 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-ab3f83ada541c16fd74ad9a939cda9fc]: Commencement: Sch. 1 para. 10 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-ab3f83ada541c16fd74ad9a939cda9fc]: Commencement: Sch. 1 para. 10 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-da9330286b1189255ba4f71de05c9519]: Commencement: Sch. 1 para. 11 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-da9330286b1189255ba4f71de05c9519]: Commencement: Sch. 1 para. 11 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-6e8cb043d74320d494649bc13c35b19e]: Commencement: Sch. 1 para. 12 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-6e8cb043d74320d494649bc13c35b19e]: Commencement: Sch. 1 para. 12 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-3cb4613ffea690df3cba9aa26910149a]: Textual amendment: Words in sch. 1 para. 12 inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 17(2)](https://www.legislation.gov.uk/asp/2016/8/section/17/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-3cb4613ffea690df3cba9aa26910149a]: Textual amendment: Words in sch. 1 para. 12 inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 17(2)](https://www.legislation.gov.uk/asp/2016/8/section/17/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-a1673ad1141cafdee39fe4388e5b5f15]: Commencement: Sch. 2 para. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-a1673ad1141cafdee39fe4388e5b5f15]: Commencement: Sch. 2 para. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-039b5be048e5b3e3d1ba323bbc8c206a]: Textual amendment: [Sch. 2 para. 1(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/1/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 1(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/1/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-039b5be048e5b3e3d1ba323bbc8c206a]: Textual amendment: [Sch. 2 para. 1(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/1/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 1(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/1/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-96f9b81293607b06dd2a6aa977cbce3f]: Commencement: Sch. 2 para. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-96f9b81293607b06dd2a6aa977cbce3f]: Commencement: Sch. 2 para. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-a7a2775cebece3ccaf24be1f25be50be]: Textual amendment: [Sch. 2 para. 2(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/2/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 2(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/2/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-a7a2775cebece3ccaf24be1f25be50be]: Textual amendment: [Sch. 2 para. 2(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/2/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 2(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/2/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-f072498239b6ae8a39cd64f1fa90cc64]: Commencement: Sch. 2 para. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-f072498239b6ae8a39cd64f1fa90cc64]: Commencement: Sch. 2 para. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-842c82549f53ed0a1c639ae8c15e6d3e]: Textual amendment: [Sch. 2 para. 3(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/3/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 3(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/3/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-842c82549f53ed0a1c639ae8c15e6d3e]: Textual amendment: [Sch. 2 para. 3(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/3/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 3(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/3/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-586052eed68dfea612d6f2dc93204cf2]: Commencement: Sch. 2 para. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-586052eed68dfea612d6f2dc93204cf2]: Commencement: Sch. 2 para. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-299a12b854464ebf0f14cabadffc69a6]: Textual amendment: [Sch. 2 para. 4(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/4/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 4(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/4/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-299a12b854464ebf0f14cabadffc69a6]: Textual amendment: [Sch. 2 para. 4(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/4/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 4(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/4/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-a89c4d574b0bc36d0bf5424f2ca7649d]: Commencement: Sch. 2 para. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-a89c4d574b0bc36d0bf5424f2ca7649d]: Commencement: Sch. 2 para. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-3d96e51a6b5b4c084e6783e70c97a52e]: Textual amendment: [Sch. 2 para. 5(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/5/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 5(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/5/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-3d96e51a6b5b4c084e6783e70c97a52e]: Textual amendment: [Sch. 2 para. 5(h)(ha)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/5/h/ha) substituted for [sch. 2](https://www.legislation.gov.uk/asp/2010/2/schedule/2) [para. 5(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/5/h) (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(a)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/a); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-ba9790289e7890be50014dbcf79da6c9]: Commencement: Sch. 2 para. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-ba9790289e7890be50014dbcf79da6c9]: Commencement: Sch. 2 para. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-bf378fa151705a06e687da4223bc2359]: Commencement: Sch. 2 para. 7 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-bf378fa151705a06e687da4223bc2359]: Commencement: Sch. 2 para. 7 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-149ad1a63416a3463bf9b7946f41ea66]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/7A) and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 26(3)(a)](https://www.legislation.gov.uk/asp/2025/10/section/26/3/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-149ad1a63416a3463bf9b7946f41ea66]: Textual amendment: [Sch. 2 para. 7A](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/7A) and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 26(3)(a)](https://www.legislation.gov.uk/asp/2025/10/section/26/3/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-9e7b7aedcee2d145c9012bab6f7a39ce]: Commencement: Sch. 2 para. 8 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-9e7b7aedcee2d145c9012bab6f7a39ce]: Commencement: Sch. 2 para. 8 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-f6bc533bf28abd189fc3198170fb49c2]: Commencement: Sch. 2 para. 9 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-f6bc533bf28abd189fc3198170fb49c2]: Commencement: Sch. 2 para. 9 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-51d379b7e7afb979cc6af615420c0aeb]: Commencement: Sch. 2 para. 10 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-51d379b7e7afb979cc6af615420c0aeb]: Commencement: Sch. 2 para. 10 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-e9e9698aafb0ff7ef315c30d6369e5b5]: Textual amendment: [Sch. 2 para. 10(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/10/h) substituted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(b)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/b); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
+[^c-e9e9698aafb0ff7ef315c30d6369e5b5]: Textual amendment: [Sch. 2 para. 10(h)](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/10/h) substituted (20.12.2016) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 10(b)](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/10/b); [S.S.I. 2016/410](https://www.legislation.gov.uk/ssi/2016/410), [art. 2(a)](https://www.legislation.gov.uk/ssi/2016/410/article/2/a)
 
-[^key-fecc99ae53d5127c4a750b775dcb0bbe]: Commencement: Sch. 2 para. 11 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-fecc99ae53d5127c4a750b775dcb0bbe]: Commencement: Sch. 2 para. 11 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-bc251472d212a3dc096ae764c5fe46ec]: Textual amendment: Words in [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/11) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 26(3)(b)](https://www.legislation.gov.uk/asp/2025/10/section/26/3/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-bc251472d212a3dc096ae764c5fe46ec]: Textual amendment: Words in [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2010/2/schedule/2/paragraph/11) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 26(3)(b)](https://www.legislation.gov.uk/asp/2025/10/section/26/3/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-9c4296629299622d5895550964a79feb]: Commencement: Sch. 2 para. 12 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-9c4296629299622d5895550964a79feb]: Commencement: Sch. 2 para. 12 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-4f51e58a9e2e9ecc7599d677e6b267d5]: Commencement: Sch. 2 para. 13 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-4f51e58a9e2e9ecc7599d677e6b267d5]: Commencement: Sch. 2 para. 13 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-3535ec103abfb2e97b413b2ff08bc367]: Textual amendment: Sch. 2A inserted (1.8.2014 so far as necessary to enable Scottish Ministers to make regulations under paras. 1(9) and 2(5), 9.1.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(5)](https://www.legislation.gov.uk/asp/2014/8/section/81/5), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/a)
+[^c-3535ec103abfb2e97b413b2ff08bc367]: Textual amendment: Sch. 2A inserted (1.8.2014 so far as necessary to enable Scottish Ministers to make regulations under paras. 1(9) and 2(5), 9.1.2015 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 81(5)](https://www.legislation.gov.uk/asp/2014/8/section/81/5), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2014/353/article/2/1/a)
 
-[^key-852f7a558f5f020ac87317ec75f159bf]: Commencement: Sch. 3 para. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-852f7a558f5f020ac87317ec75f159bf]: Commencement: Sch. 3 para. 1 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-8cc0832185723695d68698b9741e0c1b]: Commencement: Sch. 3 para. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-8cc0832185723695d68698b9741e0c1b]: Commencement: Sch. 3 para. 2 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-91106cac3ca9a405583970811d5b64b2]: Commencement: Sch. 3 para. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-91106cac3ca9a405583970811d5b64b2]: Commencement: Sch. 3 para. 3 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-9964d95ce8a9e7ff255f7c65170bce97]: Commencement: Sch. 3 para. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-9964d95ce8a9e7ff255f7c65170bce97]: Commencement: Sch. 3 para. 4 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-441bf8a9e6872da40f1b4e1d22cb6a86]: Commencement: Sch. 3 para. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-441bf8a9e6872da40f1b4e1d22cb6a86]: Commencement: Sch. 3 para. 5 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
 
-[^key-11c5c28e4069f7fbd0601ce506a51313]: Commencement: Sch. 3 para. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)
+[^c-11c5c28e4069f7fbd0601ce506a51313]: Commencement: Sch. 3 para. 6 in force at 5.4.2010 by [S.S.I. 2010/70](https://www.legislation.gov.uk/ssi/2010/70), [art. 2](https://www.legislation.gov.uk/ssi/2010/70/article/2)

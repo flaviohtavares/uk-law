@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-edae2ed568ddd13fb11545e537721fb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-edae2ed568ddd13fb11545e537721fb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) In this Part of this Act “**period of incapacity for work**” means a period of one day which is, or of two or more consecutive days each of which is,[^key-cc27bf28b4dae95c258d2be18c4291d8] a day of incapacity for work in relation to the contract of service in question.
+(2) In this Part of this Act “**period of incapacity for work**” means a period of one day which is, or of two or more consecutive days each of which is,[^c-cc27bf28b4dae95c258d2be18c4291d8] a day of incapacity for work in relation to the contract of service in question.
 
 (3) Any two periods of incapacity for work which are separated by a period of not more than 8 weeks shall be treated as a single period of incapacity for work.
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-edae2ed568ddd13fb11545e537721fb5]: Textual amendment: [S. 148(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/148/1) omitted (6.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/12/3/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
+[^c-edae2ed568ddd13fb11545e537721fb5]: Textual amendment: [S. 148(1)](https://www.legislation.gov.uk/ukpga/1992/7/section/148/1) omitted (6.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/12/3/a), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
 
-[^key-cc27bf28b4dae95c258d2be18c4291d8]: Textual amendment: Words in [s. 148(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/148/2) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/12/3/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))
+[^c-cc27bf28b4dae95c258d2be18c4291d8]: Textual amendment: Words in [s. 148(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/148/2) substituted (6.4.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/12/3/b), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/373](https://www.legislation.gov.uk/uksi/2026/373), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/373/regulation/2/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/373/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/373/regulation/4))

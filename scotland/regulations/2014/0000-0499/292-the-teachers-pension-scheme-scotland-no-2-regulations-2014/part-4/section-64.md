@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Account established after ill-health pension ceases to be payable[^key-5a27316a546552df41ae75e5614b3e74]
+## 64. Account established after ill-health pension ceases to be payable[^c-5a27316a546552df41ae75e5614b3e74]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If an ill-health pension ceases to be payable to a person (P) under regulation 1
 
 ## Annotations
 
-[^key-5a27316a546552df41ae75e5614b3e74]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2014/292/regulation/64) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-5a27316a546552df41ae75e5614b3e74]: Commencement: [Reg. 64](https://www.legislation.gov.uk/ssi/2014/292/regulation/64) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

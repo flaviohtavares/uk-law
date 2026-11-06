@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Directions for international purposes in respect of broadcasting functions[^key-ea50645c7e14e7c2ecf68f27dc548b18]
+## 23. Directions for international purposes in respect of broadcasting functions[^c-ea50645c7e14e7c2ecf68f27dc548b18]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-9e24f1b2aede040bd840b814de7d668a] This section applies to—
+(1)[^c-9e24f1b2aede040bd840b814de7d668a] This section applies to—
 
 - (a) OFCOM’s functions under the enactments relating to broadcasting; and
 - (b) the matters in relation to which those functions are conferred.
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea50645c7e14e7c2ecf68f27dc548b18]: Commencement: S. 23 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-ea50645c7e14e7c2ecf68f27dc548b18]: Commencement: S. 23 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-9e24f1b2aede040bd840b814de7d668a]: Modification: S. 23(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/5)
+[^c-9e24f1b2aede040bd840b814de7d668a]: Modification: S. 23(1) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2017/469/schedule/paragraph/5)

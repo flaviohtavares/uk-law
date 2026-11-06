@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Registration under the SFT Regulation[^key-4271f3068f36311ee3bc88aa9cdcd872]
+## 19. Registration under the SFT Regulation[^c-4271f3068f36311ee3bc88aa9cdcd872]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4271f3068f36311ee3bc88aa9cdcd872]: Commencement: Reg. 19 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-4271f3068f36311ee3bc88aa9cdcd872]: Commencement: Reg. 19 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

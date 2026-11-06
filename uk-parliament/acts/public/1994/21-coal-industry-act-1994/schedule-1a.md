@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Supplemental provisions with respect to powers of entry[^key-f5f4addb83b49498b9940299901ce11c]
+## SCHEDULE 1A — Supplemental provisions with respect to powers of entry[^c-f5f4addb83b49498b9940299901ce11c]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ the justice may by warrant authorise the Authority to designate a person who sha
 
 ## Annotations
 
-[^key-f5f4addb83b49498b9940299901ce11c]: Textual amendment: Sch. 1A inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2003/37/schedule/5); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-f5f4addb83b49498b9940299901ce11c]: Textual amendment: Sch. 1A inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/2003/37/schedule/5); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(w)](https://www.legislation.gov.uk/uksi/2004/641/article/3/w) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

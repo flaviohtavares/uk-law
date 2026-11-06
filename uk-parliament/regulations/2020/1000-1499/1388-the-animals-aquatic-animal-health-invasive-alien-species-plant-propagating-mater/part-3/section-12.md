@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)[^key-88445c740f7b76eb45e98bc3d0922d19]
+## 12. Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)[^c-88445c740f7b76eb45e98bc3d0922d19]
 
 *Extent: E+W+S*
 
@@ -189,7 +189,7 @@ summary: ''
 
 ## Annotations
 
-[^key-88445c740f7b76eb45e98bc3d0922d19]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1388/regulation/12) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-88445c740f7b76eb45e98bc3d0922d19]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1388/regulation/12) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00017]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), amended by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [1075](https://www.legislation.gov.uk/uksi/2017/1075), [2018/110](https://www.legislation.gov.uk/uksi/2018/110), [428](https://www.legislation.gov.uk/uksi/2018/428), [575](https://www.legislation.gov.uk/uksi/2018/575), [721 (W. 140)](https://www.legislation.gov.uk/wsi/2018/721), [1216 (W. 249)](https://www.legislation.gov.uk/wsi/2018/1216), [1227](https://www.legislation.gov.uk/uksi/2018/1227), [2020/904](https://www.legislation.gov.uk/uksi/2020/904). It is prospectively amended by [S.I. 2019/39](https://www.legislation.gov.uk/uksi/2019/39), 620. [S.I. 2019/39](https://www.legislation.gov.uk/uksi/2019/39) is prospectively amended by [S.I. 2019/1078](https://www.legislation.gov.uk/uksi/2019/1078).
 

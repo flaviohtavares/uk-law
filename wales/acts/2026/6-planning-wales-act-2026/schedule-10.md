@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 108)
 
-### 1. Introduction and key terms[^key-f1becbcb9c1a90570a04f1d0016d1070]
+### 1. Introduction and key terms[^c-f1becbcb9c1a90570a04f1d0016d1070]
 
 (1) This Schedule applies where compensation becomes payable by a planning authority under section 105 or 106 that includes compensation for depreciation of more than £20.
 
@@ -35,7 +35,7 @@ summary: ''
 - (c) “**compensation notice**” has the meaning given by paragraph 3(2);
 - (d) “**registered**”, in relation to a compensation notice, means registered in the local land charges register kept under section 3 of the Local Land Charges Act [1975 (c. 76)](https://www.legislation.gov.uk/ukpga/1975/76).
 
-### 2. Apportionment of compensation and determination of disputes[^key-bd3db61c22624e1f888b42bbaf751386]
+### 2. Apportionment of compensation and determination of disputes[^c-bd3db61c22624e1f888b42bbaf751386]
 
 (1) The planning authority by which compensation is payable—
 
@@ -66,7 +66,7 @@ the Tribunal must not vary the apportionment in a way that is inconsistent with 
 
 (7) Sub-paragraphs (1) and (2) apply to an apportionment by the Upper Tribunal, but as if references to the planning authority by which compensation is payable were references to the Tribunal.
 
-### 3. Notice of compensation[^key-a160089e5ee641f6032f5cabaa5dfbd1]
+### 3. Notice of compensation[^c-a160089e5ee641f6032f5cabaa5dfbd1]
 
 (1) The planning authority by which compensation is payable must give notice to the Welsh Ministers that compensation has become payable which includes compensation for depreciation.
 
@@ -82,7 +82,7 @@ the Tribunal must not vary the apportionment in a way that is inconsistent with 
 
 (4) A compensation notice is a local land charge, and for the purposes of the Local Land Charges Act [1975 (c. 76)](https://www.legislation.gov.uk/ukpga/1975/76) the county council or county borough council on which the notice is served is the originating authority as respects the charge.
 
-### 4. Development not to be carried out until compensation paid or secured[^key-9a7d0bf26e9fc1125082069a2d9c1650]
+### 4. Development not to be carried out until compensation paid or secured[^c-9a7d0bf26e9fc1125082069a2d9c1650]
 
 (1) A person must not carry out development to which this paragraph applies on land in respect of which a compensation notice has been registered until any amount that is recoverable in respect of the compensation specified in the notice by virtue of paragraph 5 has been paid or secured to the satisfaction of the Welsh Ministers in accordance with paragraph 6.
 
@@ -103,7 +103,7 @@ the Tribunal must not vary the apportionment in a way that is inconsistent with 
 
 this paragraph does not apply to development in accordance with those conditions or in accordance with the modified permission.
 
-### 5. Amount recoverable by the Welsh Ministers in respect of compensation[^key-ad7d042eb774595dcbd6ec87fa4b8eb2]
+### 5. Amount recoverable by the Welsh Ministers in respect of compensation[^c-ad7d042eb774595dcbd6ec87fa4b8eb2]
 
 (1) The amount recoverable in respect of the compensation specified in a registered compensation notice is—
 
@@ -129,7 +129,7 @@ but this is subject to the following provisions of this paragraph.
   - (ii) the compensation attributed to each part is distributed evenly by area over that part;
 - (b) if the notice does not include an apportionment, on the basis that the compensation is distributed evenly by area over the land to which the notice relates.
 
-### 6. Payment etc. of amount recoverable[^key-6d855f8149c0efc30c9d3da093e9a262]
+### 6. Payment etc. of amount recoverable[^c-6d855f8149c0efc30c9d3da093e9a262]
 
 (1) An amount recoverable by virtue of paragraph 5 in connection with the development of land is payable to the Welsh Ministers—
 
@@ -148,7 +148,7 @@ but this is subject to the following provisions of this paragraph.
 
 (5) The period specified in the notice must be at least 3 months beginning with the day after the day the notice is served.
 
-### 7. Recovery of compensation from acquiring authority on compulsory acquisition or sale[^key-367fbbaa3d4bb01db47212b7bd64956f]
+### 7. Recovery of compensation from acquiring authority on compulsory acquisition or sale[^c-367fbbaa3d4bb01db47212b7bd64956f]
 
 (1) This paragraph applies where—
 
@@ -178,7 +178,7 @@ but this is subject to the following provisions of this paragraph.
 
 (8) See also section 12 of the Land Compensation Act [1961 (c. 33)](https://www.legislation.gov.uk/ukpga/1961/33) for provision about the assessment of compensation for the compulsory acquisition of an interest in land where a compensation notice relating to the land is registered under this Schedule.
 
-### 8. Reimbursement of amount recovered to planning authority[^key-07d0d7e8bb8b2fbc6779c2eb971b62d4]
+### 8. Reimbursement of amount recovered to planning authority[^c-07d0d7e8bb8b2fbc6779c2eb971b62d4]
 
 (1) The Welsh Ministers must pay any amount they recover under paragraph 6 or 7 to the planning authority that paid the compensation to which the amount relates.
 
@@ -193,18 +193,18 @@ any amount deducted under sub-paragraph (2) must be the amount that the Welsh Mi
 
 ## Annotations
 
-[^key-f1becbcb9c1a90570a04f1d0016d1070]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f1becbcb9c1a90570a04f1d0016d1070]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-bd3db61c22624e1f888b42bbaf751386]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-bd3db61c22624e1f888b42bbaf751386]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-a160089e5ee641f6032f5cabaa5dfbd1]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a160089e5ee641f6032f5cabaa5dfbd1]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-9a7d0bf26e9fc1125082069a2d9c1650]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9a7d0bf26e9fc1125082069a2d9c1650]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-ad7d042eb774595dcbd6ec87fa4b8eb2]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ad7d042eb774595dcbd6ec87fa4b8eb2]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-6d855f8149c0efc30c9d3da093e9a262]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6d855f8149c0efc30c9d3da093e9a262]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-367fbbaa3d4bb01db47212b7bd64956f]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-367fbbaa3d4bb01db47212b7bd64956f]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-07d0d7e8bb8b2fbc6779c2eb971b62d4]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-07d0d7e8bb8b2fbc6779c2eb971b62d4]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

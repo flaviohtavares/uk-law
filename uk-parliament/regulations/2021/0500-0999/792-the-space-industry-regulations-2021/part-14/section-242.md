@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Power to take persons and equipment etc. onto premises or vehicle[^key-4ca3f7732d6257239e1f3a3521e33b60]
+## 242. Power to take persons and equipment etc. onto premises or vehicle[^c-4ca3f7732d6257239e1f3a3521e33b60]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In exercising the power of entry mentioned in regulation 241 an inspector may—
 
 ## Annotations
 
-[^key-4ca3f7732d6257239e1f3a3521e33b60]: Commencement: Reg. 242 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4ca3f7732d6257239e1f3a3521e33b60]: Commencement: Reg. 242 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

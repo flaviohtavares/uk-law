@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13A — Financial penalties under section 249A[^key-b5f8a90b8a49f8ebd2c2bbbf2794a4b4]
+## SCHEDULE 13A — Financial penalties under section 249A[^c-b5f8a90b8a49f8ebd2c2bbbf2794a4b4]
 
 *Extent: E+W*
 
@@ -117,4 +117,4 @@ is conclusive evidence of that fact.
 
 ## Annotations
 
-[^key-b5f8a90b8a49f8ebd2c2bbbf2794a4b4]: Textual amendment: [Sch. 13A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/13A) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/8); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-b5f8a90b8a49f8ebd2c2bbbf2794a4b4]: Textual amendment: [Sch. 13A](https://www.legislation.gov.uk/ukpga/2004/34/schedule/13A) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/8); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)

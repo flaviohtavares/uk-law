@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Duty to give notification of sites of special scientific interest[^key-4b31de5a3c606c26ebab8dd4ddc9c1c7]
+## 3. Duty to give notification of sites of special scientific interest[^c-4b31de5a3c606c26ebab8dd4ddc9c1c7]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b31de5a3c606c26ebab8dd4ddc9c1c7]: Commencement: S. 3 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-4b31de5a3c606c26ebab8dd4ddc9c1c7]: Commencement: S. 3 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Repeal of spent amendments by Pensions Act 1995 to other legislation[^key-568d6d656b5f7d1f05dcd93f65b631aa]
+## 149. Repeal of spent amendments by Pensions Act 1995 to other legislation[^c-568d6d656b5f7d1f05dcd93f65b631aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The following provisions of the Pensions Act 1995 (amendments to other legislati
 
 ## Annotations
 
-[^key-568d6d656b5f7d1f05dcd93f65b631aa]: Commencement: Art. 149 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-568d6d656b5f7d1f05dcd93f65b631aa]: Commencement: Art. 149 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

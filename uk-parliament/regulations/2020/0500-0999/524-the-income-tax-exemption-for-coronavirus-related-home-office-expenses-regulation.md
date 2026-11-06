@@ -46,18 +46,18 @@ Coming into force
 
 The Treasury, in exercise of the power conferred by section 210 of the Income Tax (Earnings and Pensions) Act 2003 [^c24100751], make the following Regulations:
 
-## 1. Citation, commencement, interpretation and effect[^key-280fcd2c7cc169d02cc6ee537fde892e]
+## 1. Citation, commencement, interpretation and effect[^c-280fcd2c7cc169d02cc6ee537fde892e]
 
 (1) These Regulations may be cited as the Income Tax (Exemption for Coronavirus Related Home Office Expenses) Regulations 2020.
 
-(2) These Regulations come into force on 11th June 2020 and have effect for amounts reimbursed on or after that date but before the end of the tax year 2021-22[^key-087e535cfa769d70a916d1f6449743fd].
+(2) These Regulations come into force on 11th June 2020 and have effect for amounts reimbursed on or after that date but before the end of the tax year 2021-22[^c-087e535cfa769d70a916d1f6449743fd].
 
 (3) In these Regulations—
 
 - “**coronavirus**” has the meaning given in section 1 of the Coronavirus Act 2020 [^c24100761];
 - “**ITEPA**” means the Income Tax (Earnings and Pensions) Act 2003.
 
-## 2. Exemption for coronavirus related home office expenses[^key-a33eafb28f84f05d6ad6c573dee3ad51]
+## 2. Exemption for coronavirus related home office expenses[^c-a33eafb28f84f05d6ad6c573dee3ad51]
 
 (1) There is no charge to tax under Chapter 10 of Part 3 (taxable benefits: residual liability to charge) of ITEPA for an amount reimbursed to an employee in respect of coronavirus related home office expenses.
 
@@ -84,10 +84,10 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24100751]: Marginal citation: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-280fcd2c7cc169d02cc6ee537fde892e]: Commencement: Reg. 1 in force at 11.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/524/regulation/1/2)
+[^c-280fcd2c7cc169d02cc6ee537fde892e]: Commencement: Reg. 1 in force at 11.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/524/regulation/1/2)
 
-[^key-087e535cfa769d70a916d1f6449743fd]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/524/regulation/1/2) substituted (31.3.2021) by [The Income Tax (Exemption for Coronavirus Related Home Office Expenses) (Amendment) Regulations 2021 (S.I. 2021/225)](https://www.legislation.gov.uk/uksi/2021/225), [regs. 1](https://www.legislation.gov.uk/uksi/2021/225/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/225/regulation/2/2)
+[^c-087e535cfa769d70a916d1f6449743fd]: Textual amendment: Word in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/524/regulation/1/2) substituted (31.3.2021) by [The Income Tax (Exemption for Coronavirus Related Home Office Expenses) (Amendment) Regulations 2021 (S.I. 2021/225)](https://www.legislation.gov.uk/uksi/2021/225), [regs. 1](https://www.legislation.gov.uk/uksi/2021/225/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/225/regulation/2/2)
 
 [^c24100761]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-a33eafb28f84f05d6ad6c573dee3ad51]: Commencement: Reg. 2 in force at 11.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/524/regulation/1/2)
+[^c-a33eafb28f84f05d6ad6c573dee3ad51]: Commencement: Reg. 2 in force at 11.6.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/524/regulation/1/2)

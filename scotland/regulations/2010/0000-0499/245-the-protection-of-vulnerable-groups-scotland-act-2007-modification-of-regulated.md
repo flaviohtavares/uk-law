@@ -32,7 +32,7 @@ summary: ''
 
 Protection Of Vulnerable Adults
 
-The Protection of Vulnerable Groups (Scotland) Act 2007 (Modification of Regulated Work with Adults) Order 2010 (revoked)[^key-b2414c1e69220b6c8cf423d9edd873d5]
+The Protection of Vulnerable Groups (Scotland) Act 2007 (Modification of Regulated Work with Adults) Order 2010 (revoked)[^c-b2414c1e69220b6c8cf423d9edd873d5]
 
 Made
 
@@ -40,34 +40,34 @@ Made
 
 Coming into force in accordance with article 1
 
-[^key-b2414c1e69220b6c8cf423d9edd873d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2414c1e69220b6c8cf423d9edd873d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b2414c1e69220b6c8cf423d9edd873d5]
+## 1. Citation, commencement and interpretation[^c-b2414c1e69220b6c8cf423d9edd873d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b2414c1e69220b6c8cf423d9edd873d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b2414c1e69220b6c8cf423d9edd873d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of regulated work[^key-b2414c1e69220b6c8cf423d9edd873d5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Modification of activities[^key-b2414c1e69220b6c8cf423d9edd873d5]
+## 3. Modification of regulated work[^c-b2414c1e69220b6c8cf423d9edd873d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification of the position of charity trustee[^key-b2414c1e69220b6c8cf423d9edd873d5]
+## 4. Modification of activities[^c-b2414c1e69220b6c8cf423d9edd873d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2414c1e69220b6c8cf423d9edd873d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 5. Modification of the position of charity trustee[^c-b2414c1e69220b6c8cf423d9edd873d5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b2414c1e69220b6c8cf423d9edd873d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b2414c1e69220b6c8cf423d9edd873d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2414c1e69220b6c8cf423d9edd873d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2414c1e69220b6c8cf423d9edd873d5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/245) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/9) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-b2414c1e69220b6c8cf423d9edd873d5]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2010/245) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/9) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

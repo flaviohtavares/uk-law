@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b74707637b8af98f045279bb4356a044] VATA 1994 is amended as follows.
+(1)[^c-b74707637b8af98f045279bb4356a044] VATA 1994 is amended as follows.
 
-(2)[^key-b74707637b8af98f045279bb4356a044] In section 30 (zero-rating), after subsection (6) insert—
+(2)[^c-b74707637b8af98f045279bb4356a044] In section 30 (zero-rating), after subsection (6) insert—
 
 > (6A) Subsection (6) does not apply in the case of goods exported from Great Britain if, in respect of the supply, the supplier exercises an option under an order made under section 50A.
 
-(3)[^key-b74707637b8af98f045279bb4356a044] In paragraph 3 of Schedule 9ZB (movements between Northern Ireland and Great Britain), after sub-paragraph (1) insert—
+(3)[^c-b74707637b8af98f045279bb4356a044] In paragraph 3 of Schedule 9ZB (movements between Northern Ireland and Great Britain), after sub-paragraph (1) insert—
 
 > (1A) A supply of goods that involves the removal of goods from Great Britain to Northern Ireland is not zero-rated under sub-paragraph (1) if, in respect of the supply, the supplier exercises an option under an order made under section 50A.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b74707637b8af98f045279bb4356a044]: Commencement: [S. 71(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/71/1) in force at 1.5.2023 by [S.I. 2023/69](https://www.legislation.gov.uk/uksi/2023/69), [reg. 2](https://www.legislation.gov.uk/uksi/2023/69/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/69/regulation/3))
+[^c-b74707637b8af98f045279bb4356a044]: Commencement: [S. 71(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/71/1) in force at 1.5.2023 by [S.I. 2023/69](https://www.legislation.gov.uk/uksi/2023/69), [reg. 2](https://www.legislation.gov.uk/uksi/2023/69/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/69/regulation/3))

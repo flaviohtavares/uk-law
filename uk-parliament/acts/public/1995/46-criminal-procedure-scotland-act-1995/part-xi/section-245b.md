@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245B. Monitoring of restriction of liberty orders.[^key-a1bf5e8ff9439f2254ebf0d1e6b7b6a1]
+## 245B. Monitoring of restriction of liberty orders.[^c-a1bf5e8ff9439f2254ebf0d1e6b7b6a1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1bf5e8ff9439f2254ebf0d1e6b7b6a1]: Textual amendment: [S. 245B](https://www.legislation.gov.uk/ukpga/1995/46/section/245B) repealed (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 7(2)(c)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/7/2/c); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/4))
+[^c-a1bf5e8ff9439f2254ebf0d1e6b7b6a1]: Textual amendment: [S. 245B](https://www.legislation.gov.uk/ukpga/1995/46/section/245B) repealed (17.5.2022) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [s. 63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2), [sch. 1 para. 7(2)(c)](https://www.legislation.gov.uk/asp/2019/14/schedule/1/paragraph/7/2/c); [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(l)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/l) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2022/94/regulation/3/4))

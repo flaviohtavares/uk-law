@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 99. Use of audible warning instruments[^key-03c79f00de3b9f785877ebb83f91b0bb]
+## 99. Use of audible warning instruments[^c-03c79f00de3b9f785877ebb83f91b0bb]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) No person shall sound, or cause or permit to be sounded, on a road any reversing alarm fitted to a vehicle—
 
-- (a) unless the vehicle is a goods vehicle which has a maximum gross weight not less than 2000 kg, a bus, engineering plant, a refuse vehicle,[^key-4c0a0ad64fb575d3c390f3a6ca7f0503] or a works truck; or
+- (a) unless the vehicle is a goods vehicle which has a maximum gross weight not less than 2000 kg, a bus, engineering plant, a refuse vehicle,[^c-4c0a0ad64fb575d3c390f3a6ca7f0503] or a works truck; or
 - (b) if the sound of the alarm is likely to be confused with a sound emitted in the operation of a pedestrian crossing established, or having effect as if established, under Part III of the 1984 Act.
 
 (4) Subject to the provisions of the following paragraphs, no person shall sound, or cause or permit to be sounded a gong, bell, siren or two-tone horn, fitted to or otherwise carried on a vehicle (whether it is stationary or not).
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03c79f00de3b9f785877ebb83f91b0bb]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/1986/1078/regulation/99) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-03c79f00de3b9f785877ebb83f91b0bb]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/1986/1078/regulation/99) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-4c0a0ad64fb575d3c390f3a6ca7f0503]: Textual amendment: Words in [reg. 99(3)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/99/3/a) inserted (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/1987/676/regulation/15/5)
+[^c-4c0a0ad64fb575d3c390f3a6ca7f0503]: Textual amendment: Words in [reg. 99(3)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/99/3/a) inserted (6.5.1987) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 1987 (S.I. 1987/676)](https://www.legislation.gov.uk/uksi/1987/676), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1987/676/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/1987/676/regulation/15/5)

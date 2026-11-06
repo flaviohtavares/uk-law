@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Procedure for rejected multiple collection consignments[^key-e069627e84c8fa6326564cb2a2cf9abb]
+## 44. Procedure for rejected multiple collection consignments[^c-e069627e84c8fa6326564cb2a2cf9abb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e069627e84c8fa6326564cb2a2cf9abb]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2005/894/regulation/44) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/16) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-e069627e84c8fa6326564cb2a2cf9abb]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2005/894/regulation/44) omitted (29.3.2011) by virtue of [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/16) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

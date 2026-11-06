@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Release: consequential amendments relating to driving disqualification[^key-28ee11cf93af371068bc46178c073361]
+## 24. Release: consequential amendments relating to driving disqualification[^c-28ee11cf93af371068bc46178c073361]
 
 *Extent: E+W*
 
 (1) In section 35A of the Road Traffic Offenders Act 1988 (extension of disqualification where custodial sentence also imposed)—
 
-- (a)[^key-d29317623d9f69994847cbd0b9243ac2] in subsection (4)—
+- (a)[^c-d29317623d9f69994847cbd0b9243ac2] in subsection (4)—
   - (i) in paragraph (fc), for the words from “, a period” to the end of the paragraph substitute
 
     > —
@@ -47,11 +47,11 @@ summary: ''
     ;
   - (ii) in paragraph (a), for “243A(3)(a) or 244(3)(a)” substitute “244(3)(aa)”.
 
-(2)[^key-d29317623d9f69994847cbd0b9243ac2] The Armed Forces Act 2006 is amended in accordance with subsections (3) and (4).
+(2)[^c-d29317623d9f69994847cbd0b9243ac2] The Armed Forces Act 2006 is amended in accordance with subsections (3) and (4).
 
 (3) In section 177J (extension of disqualification where custodial sentence or service detention also imposed)—
 
-- (a)[^key-d29317623d9f69994847cbd0b9243ac2] in subsection (5), in the table—
+- (a)[^c-d29317623d9f69994847cbd0b9243ac2] in subsection (5), in the table—
   - (i) before entry 1 insert—
 
     > |  |  |  |
@@ -87,7 +87,7 @@ summary: ''
 
 (5) In section 166 of the Sentencing Code (extension of disqualification where custodial sentence also imposed)—
 
-- (a)[^key-d29317623d9f69994847cbd0b9243ac2] in subsection (5), in the table—
+- (a)[^c-d29317623d9f69994847cbd0b9243ac2] in subsection (5), in the table—
   - (i) after entry 1 insert—
 
     > |  |  |  |
@@ -123,7 +123,7 @@ summary: ''
 - (c) in subsection (8), for “(7)” substitute “(7A)”;
 - (d) in subsection (9), for “(7)” substitute “(7A)”.
 
-(6)[^key-d29317623d9f69994847cbd0b9243ac2] In consequence of the amendments made by this section—
+(6)[^c-d29317623d9f69994847cbd0b9243ac2] In consequence of the amendments made by this section—
 
 - (a) in the Legal Aid, Sentencing and Punishment of Offenders Act 2012, in Schedule 14, omit paragraph 1(b);
 - (b) in the Police, Crime, Sentencing and Courts Act 2022, in Schedule 21, omit paragraph 4.
@@ -136,6 +136,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28ee11cf93af371068bc46178c073361]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-28ee11cf93af371068bc46178c073361]: Commencement: S. 24 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
 
-[^key-d29317623d9f69994847cbd0b9243ac2]: Commencement: [S. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/3/a)[(5)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/6) in force at 1.10.2026 except in relation to sentences for excluded offences listed in Sch. by [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/c), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)
+[^c-d29317623d9f69994847cbd0b9243ac2]: Commencement: [S. 24(1)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/2)[(3)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/3/a)[(5)(a)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/5/a)[(6)](https://www.legislation.gov.uk/ukpga/2026/2/section/24/6) in force at 1.10.2026 except in relation to sentences for excluded offences listed in Sch. by [S.I. 2026/953](https://www.legislation.gov.uk/uksi/2026/953), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2026/953/regulation/2/c), [5](https://www.legislation.gov.uk/uksi/2026/953/regulation/5), [Sch.](https://www.legislation.gov.uk/uksi/2026/953/schedule)

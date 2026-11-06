@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An investment is not a relevant investment if it is a qualifying time deposit made before 6 April 2012[^key-dc4eb672719761ae47ce0bdf21e86655].
+(1) An investment is not a relevant investment if it is a qualifying time deposit made before 6 April 2012[^c-dc4eb672719761ae47ce0bdf21e86655].
 
 (2) An investment is a qualifying time deposit for the purposes of this section if—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc4eb672719761ae47ce0bdf21e86655]: Textual amendment: Words in s. 866(1) inserted (6.4.2012) (retrospective and with effect in accordance with s. 18(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/18/1)
+[^c-dc4eb672719761ae47ce0bdf21e86655]: Textual amendment: Words in s. 866(1) inserted (6.4.2012) (retrospective and with effect in accordance with s. 18(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 18(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/18/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Bankruptcy
 
-The Protected Trust Deeds (Scotland) Amendment Regulations 2010 (revoked)[^key-4770eef139cd046b08d0929a63d73170]
+The Protected Trust Deeds (Scotland) Amendment Regulations 2010 (revoked)[^c-4770eef139cd046b08d0929a63d73170]
 
 Made
 
@@ -42,67 +42,67 @@ Coming into force
 
 15th November 2010
 
-[^key-4770eef139cd046b08d0929a63d73170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4770eef139cd046b08d0929a63d73170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4770eef139cd046b08d0929a63d73170]
+## 1. Citation and commencement[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Protected Trust Deeds (Scotland) Regulations 2008[^key-4770eef139cd046b08d0929a63d73170]
+## 2. Amendment of the Protected Trust Deeds (Scotland) Regulations 2008[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-4770eef139cd046b08d0929a63d73170]
+## 3.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-4770eef139cd046b08d0929a63d73170]
+## 4.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-4770eef139cd046b08d0929a63d73170]
+## 5.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-4770eef139cd046b08d0929a63d73170]
+## 6.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-4770eef139cd046b08d0929a63d73170]
+## 7.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-4770eef139cd046b08d0929a63d73170]
+## 8.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-4770eef139cd046b08d0929a63d73170]
+## 9.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-4770eef139cd046b08d0929a63d73170]
+## 10.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-4770eef139cd046b08d0929a63d73170]
+## 11.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-4770eef139cd046b08d0929a63d73170]
+## 12.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-4770eef139cd046b08d0929a63d73170]
+## 13.[^c-4770eef139cd046b08d0929a63d73170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4770eef139cd046b08d0929a63d73170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4770eef139cd046b08d0929a63d73170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4770eef139cd046b08d0929a63d73170]
+## SCHEDULE[^c-4770eef139cd046b08d0929a63d73170]
 
 Regulation 13
 
@@ -110,8 +110,8 @@ Regulation 13
 
 **May not be in force at this date. Check the source.**
 
-[^key-4770eef139cd046b08d0929a63d73170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4770eef139cd046b08d0929a63d73170]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4770eef139cd046b08d0929a63d73170]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/398) revoked (28.11.2013) by [The Protected Trust Deeds (Scotland) Regulations 2013 (S.S.I. 2013/318)](https://www.legislation.gov.uk/ssi/2013/318), [regs. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1), [30(b)](https://www.legislation.gov.uk/ssi/2013/318/regulation/30/b)
+[^c-4770eef139cd046b08d0929a63d73170]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/398) revoked (28.11.2013) by [The Protected Trust Deeds (Scotland) Regulations 2013 (S.S.I. 2013/318)](https://www.legislation.gov.uk/ssi/2013/318), [regs. 1](https://www.legislation.gov.uk/ssi/2013/318/regulation/1), [30(b)](https://www.legislation.gov.uk/ssi/2013/318/regulation/30/b)

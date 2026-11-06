@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Protection of date of birth information[^key-e338ecc1db804c2aa3c11ae89aecd396][^key-3caecaef5db5be985c52c41cbef725ed]
+## 52. Protection of date of birth information[^c-e338ecc1db804c2aa3c11ae89aecd396][^c-3caecaef5db5be985c52c41cbef725ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e338ecc1db804c2aa3c11ae89aecd396]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e338ecc1db804c2aa3c11ae89aecd396]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-3caecaef5db5be985c52c41cbef725ed]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/56/section/52) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z11)
+[^c-3caecaef5db5be985c52c41cbef725ed]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2023/56/section/52) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Interpretation[^key-86ab4988e493613955337f9c297938b3][^key-8cdf2d0ccefc23dc255b98586d6eee8f]
+## 81. Interpretation[^c-86ab4988e493613955337f9c297938b3][^c-8cdf2d0ccefc23dc255b98586d6eee8f]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86ab4988e493613955337f9c297938b3]: Commencement: S. 81 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-86ab4988e493613955337f9c297938b3]: Commencement: S. 81 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-8cdf2d0ccefc23dc255b98586d6eee8f]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2024/2/section/81) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-8cdf2d0ccefc23dc255b98586d6eee8f]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2024/2/section/81) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

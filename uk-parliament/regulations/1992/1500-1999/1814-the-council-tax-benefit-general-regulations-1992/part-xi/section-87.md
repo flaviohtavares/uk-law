@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Methods of recovery[^key-7f97fab6d96ebf05df9b80e1a5da6a34]
+## 87. Methods of recovery[^c-7f97fab6d96ebf05df9b80e1a5da6a34]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f97fab6d96ebf05df9b80e1a5da6a34]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/1992/1814/regulation/87) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-7f97fab6d96ebf05df9b80e1a5da6a34]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/1992/1814/regulation/87) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

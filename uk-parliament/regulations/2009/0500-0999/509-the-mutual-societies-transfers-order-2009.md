@@ -48,13 +48,13 @@ The Treasury, in exercise of the powers conferred by sections 3 and 4 of the Bui
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-2ecff6a10bbaf068ba34d0c2d2aacc06]
+### 1. Citation and commencement[^c-2ecff6a10bbaf068ba34d0c2d2aacc06]
 
 (1) This Order may be cited as the Mutual Societies (Transfers) Order 2009.
 
 (2) It comes into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-03fd9881102ffa51904148980d29b164]
+### 2. Interpretation[^c-03fd9881102ffa51904148980d29b164]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 
 ## PART 2 — Building societies
 
-### 3. Application of Part 2[^key-f2d202a90cbbd4eacc6042d538b5291c]
+### 3. Application of Part 2[^c-f2d202a90cbbd4eacc6042d538b5291c]
 
 (1) This Part applies to a transfer of the whole of the business of a building society incorporated or deemed to be incorporated under the 1986 Act to the subsidiary of another mutual society where the transfer agreement contains a statement that it so applies.
 
@@ -74,7 +74,7 @@ In this Order—
 
 (4) In this article “transfer agreement” has the same meaning as in section 97 of the 1986 Act (transfer of business to commercial company).
 
-### 4. Interpretation of the transfer provisions[^key-80eaa2eaf7936a0f15727f386d86e240]
+### 4. Interpretation of the transfer provisions[^c-80eaa2eaf7936a0f15727f386d86e240]
 
 (1) Section 97(12) of the 1986 Act[^f00004] applies in relation to a relevant transfer with the following modifications.
 
@@ -104,21 +104,21 @@ In this Order—
 
 .
 
-### 5. The transfer resolution[^key-4f57ba46949cad092a57b882d5f3b7bf]
+### 5. The transfer resolution[^c-4f57ba46949cad092a57b882d5f3b7bf]
 
 Paragraph 30 of Schedule 2 to the 1986 Act (transfer resolutions)[^f00006] applies in relation to a relevant transfer with the following modifications—
 
 - (a) in sub-paragraph (1)(b), for “(“the requisite shareholders’ resolution”) is passed in accordance with sub-paragraphs (2) to (5) below”, substitute “is passed as a shareholding members’ resolution”;
 - (b) omit sub-paragraphs (2) to (8).
 
-### 6. Formation of the successor company[^key-15f5e15b49a00cfd3283a1a6a3f30998]
+### 6. Formation of the successor company[^c-15f5e15b49a00cfd3283a1a6a3f30998]
 
 Section 97 of the 1986 Act[^f00007] applies in relation to a relevant transfer with the following modifications—
 
 - (a) in subsection (3), after “formed by the society” insert “or by the holding mutual”;
 - (b) in subsection (12), in the definition of “company”, after “formed by a building society” insert “or by the holding mutual”.
 
-### 7. Distribution of funds of building society or holding mutual[^key-da65ef0af3992cae319bbdcbd684d9dc]
+### 7. Distribution of funds of building society or holding mutual[^c-da65ef0af3992cae319bbdcbd684d9dc]
 
 (1) Section 4 of the 2007 Act (transfers to subsidiaries: distribution of funds) has effect in relation to a relevant transfer.
 
@@ -131,7 +131,7 @@ Section 97 of the 1986 Act[^f00007] applies in relation to a relevant transfer w
 
 (4) The sum referred to in paragraph (3)(b) is calculated by deducting the value of the transferor society’s fixed assets, both tangible and intangible, from the aggregate of that society’s general reserves and, if any, revaluation and other reserves.
 
-(5) For the purposes of paragraphs (3) and (4), the value of any assets, liabilities or reserves of a building society is their value as given in the most recent annual accounts of the society sent to the FCA, and, if the society is a PRA-authorised person, to the PRA in accordance with section 81(2) of the 1986 Act (laying and furnishing accounts, etc., to members and the FCA and the PRA).[^key-0c923a16b37a5b4f64631af4acdfe383].
+(5) For the purposes of paragraphs (3) and (4), the value of any assets, liabilities or reserves of a building society is their value as given in the most recent annual accounts of the society sent to the FCA, and, if the society is a PRA-authorised person, to the PRA in accordance with section 81(2) of the 1986 Act (laying and furnishing accounts, etc., to members and the FCA and the PRA).[^c-0c923a16b37a5b4f64631af4acdfe383].
 
 (6) The limit referred to in section 4(3) and (4) of the 2007 Act, in relation to a distribution made by the holding mutual, is five per cent of the holding mutual’s total assets as shown in the most recent audited accounts of the holding mutual.
 
@@ -147,14 +147,14 @@ Section 97 of the 1986 Act[^f00007] applies in relation to a relevant transfer w
 - “annual accounts” has the same meaning as in Part 8 of the 1986 Act (see section 81B of that Act (interpretation of Part 8)[^f00009]);
 - “transfer of business” and “regulated terms” have the same meaning as in section 97 of the 1986 Act.
 
-### 8. Distribution of funds: regulated term[^key-2e478f4d644b960c3988cd2fb3b3631a]
+### 8. Distribution of funds: regulated term[^c-2e478f4d644b960c3988cd2fb3b3631a]
 
 Section 97 of the 1986 Act applies in relation to a relevant transfer with the following modifications—
 
 - (a) in subsection (4)(b), after “transfer regulations” insert “, and with section 4 of the 2007 Act and article 7 of the 2009 Order”;
 - (b) in subsection (12), in the definition of “regulated terms”, after “section 102” insert “or under article 7 of the 2009 Order”.
 
-### 9. Confirmation of the transfer[^key-0fc496e151b7d429ea915cc1dd70fc00]
+### 9. Confirmation of the transfer[^c-0fc496e151b7d429ea915cc1dd70fc00]
 
 (1) Section 98 of the 1986 Act (transfers of business: supplementary provisions)[^f00010] applies in relation to a relevant transfer with the following modifications.
 
@@ -173,7 +173,7 @@ Section 97 of the 1986 Act applies in relation to a relevant transfer with the f
 
 .
 
-### 10. Modified application of section 100 (distributions and share rights)[^key-bbed0debed504b2f31db1c1dc5a7a626]
+### 10. Modified application of section 100 (distributions and share rights)[^c-bbed0debed504b2f31db1c1dc5a7a626]
 
 (1) Section 100 of the 1986 Act (regulated terms etc: distributions and share rights)[^f00011] applies in relation to a relevant transfer with the following modifications.
 
@@ -193,7 +193,7 @@ Section 97 of the 1986 Act applies in relation to a relevant transfer with the f
 
 .
 
-### 11. Membership of the holding mutual[^key-27ad64402989dc5f698d0c62a05b1e2c]
+### 11. Membership of the holding mutual[^c-27ad64402989dc5f698d0c62a05b1e2c]
 
 (1) The transfer provisions apply in relation to a relevant transfer as if after section 100 of the 1986 Act there were inserted—
 
@@ -217,7 +217,7 @@ Section 97 of the 1986 Act applies in relation to a relevant transfer with the f
 - (b) in subsection (4)(b), after “section 100” insert “, section 100A”;
 - (c) in subsection (12), in the definition of “regulated terms”, after “section 100” insert “, section 100A”.
 
-### 12. Restrictions on further transfer[^key-089610b57b6c030e0ccbcc9a64b78e7a]
+### 12. Restrictions on further transfer[^c-089610b57b6c030e0ccbcc9a64b78e7a]
 
 (1) Section 101 (protective provisions for specially formed successors)[^f00013] applies in relation to a relevant transfer with the following modifications—
 
@@ -255,7 +255,7 @@ Section 97 of the 1986 Act applies in relation to a relevant transfer with the f
 
   .
 
-### 13. Modified application of sections 102B and 102C of the 1986 Act[^key-5f50a29f7812766e4eba671c49597856]
+### 13. Modified application of sections 102B and 102C of the 1986 Act[^c-5f50a29f7812766e4eba671c49597856]
 
 (1) Section 102B of the 1986 Act (protection of interests of beneficiaries in the case of trustee account holders)[^f00014] applies in relation to a relevant transfer with the following modifications—
 
@@ -273,7 +273,7 @@ Section 97 of the 1986 Act applies in relation to a relevant transfer with the f
 - (b) in subsection (2), after “the successor”, in each place where it occurs, insert “or the holding mutual”;
 - (c) in subsection (4), after “the successor”, in each place where it occurs, insert “or the holding mutual”.
 
-### 14. Issue of statement or summary to members[^key-799997aaba8dda6cb5127b68e472bb08]
+### 14. Issue of statement or summary to members[^c-799997aaba8dda6cb5127b68e472bb08]
 
 Regulation 2 of the 1998 Regulations[^f00016] (interpretation) applies in relation to a relevant transfer with the following modifications—
 
@@ -284,7 +284,7 @@ Regulation 2 of the 1998 Regulations[^f00016] (interpretation) applies in relati
 
   .
 
-**15.**[^key-8a71584e12834c1671b6a729c45cbbe9] (1) Regulation 3 of the 1998 Regulations (transfer statements) applies in relation to a relevant transfer with the following modification.
+**15.**[^c-8a71584e12834c1671b6a729c45cbbe9] (1) Regulation 3 of the 1998 Regulations (transfer statements) applies in relation to a relevant transfer with the following modification.
 
 (2) After paragraph (1) insert—
 
@@ -292,7 +292,7 @@ Regulation 2 of the 1998 Regulations[^f00016] (interpretation) applies in relati
 
 .
 
-**16.**[^key-bb276b4aa5b4b14d4218030cb2ebb377] (1) Schedule 1 to the 1998 Regulations (prescribed matters for transfer statements) applies in relation to a relevant transfer with the following modifications.
+**16.**[^c-bb276b4aa5b4b14d4218030cb2ebb377] (1) Schedule 1 to the 1998 Regulations (prescribed matters for transfer statements) applies in relation to a relevant transfer with the following modifications.
 
 (2) In Part 1 (matters of which particulars are to be included in the case of any transfer)—
 
@@ -374,7 +374,7 @@ Regulation 2 of the 1998 Regulations[^f00016] (interpretation) applies in relati
 
 .
 
-**17.**[^key-62d58e1572787938bbf9125a69443aee] Schedule 2 to the 1998 Regulations (specified information for transfer summaries) applies in relation to a relevant transfer with the following modifications—
+**17.**[^c-62d58e1572787938bbf9125a69443aee] Schedule 2 to the 1998 Regulations (specified information for transfer summaries) applies in relation to a relevant transfer with the following modifications—
 
 - (a) in paragraph 2, for “paragraphs 1, 2, 3, 5, 6, 10 and 11” substitute “paragraphs 1, 2, 3, 5, 10, 11 and 13”;
 - (b) in paragraph 3, for “paragraphs 1 and 4” substitute “paragraphs 1, 1A, 4 and 5”;
@@ -384,32 +384,32 @@ Regulation 2 of the 1998 Regulations[^f00016] (interpretation) applies in relati
 
   .
 
-### 18. Issue of statement or summary to members: powers of Financial Services Authority[^key-bcfeb5a955ea31dc57864476497b6b22]
+### 18. Issue of statement or summary to members: powers of Financial Services Authority[^c-bcfeb5a955ea31dc57864476497b6b22]
 
-The modifications to the application of the 1998 Regulations made by articles 14 to 17 are without prejudice to the powers of the appropriate authority[^key-905022396ce4e7179951e3dd4851e0de] in paragraph 3 of Schedule 17 to the 1986 Act to require particulars of any other matters to be provided in the case of a particular transfer, including without limitation any matters omitted by those modifications.
+The modifications to the application of the 1998 Regulations made by articles 14 to 17 are without prejudice to the powers of the appropriate authority[^c-905022396ce4e7179951e3dd4851e0de] in paragraph 3 of Schedule 17 to the 1986 Act to require particulars of any other matters to be provided in the case of a particular transfer, including without limitation any matters omitted by those modifications.
 
 ## PART 3 — Supplementary
 
-### 19. Crown Dependency mutual society[^key-15b0433d7517e80b935b8a2c8de010f4][^key-6e5b6a58f224ef7590cc4e7175e8cdb4]
+### 19. Crown Dependency mutual society[^c-15b0433d7517e80b935b8a2c8de010f4][^c-6e5b6a58f224ef7590cc4e7175e8cdb4]
 
-(1) A mutual insurer is a Crown Dependency mutual society[^key-76a034e3e3be1bd952e3affc6db75d65] for the purposes of section 3 of the 2007 Act (transfers to subsidiaries of other mutuals).
+(1) A mutual insurer is a Crown Dependency mutual society[^c-76a034e3e3be1bd952e3affc6db75d65] for the purposes of section 3 of the 2007 Act (transfers to subsidiaries of other mutuals).
 
 (2) A mutual insurer is a body corporate which—
 
 - (a) is a cooperative or mutual undertaking;
-- (b) is established or operates in accordance with the laws of [^key-928f2adfc22562c89fef22d520f7f61e]... any of the Channel Islands or the Isle of Man;
+- (b) is established or operates in accordance with the laws of [^c-928f2adfc22562c89fef22d520f7f61e]... any of the Channel Islands or the Isle of Man;
 - (c) has no share capital;
 - (d) is not a wholly-owned subsidiary within the meaning of section 1159(2) of the Companies Act 2006[^f00017]; and
 - (e) is an insurer.
 
 (3) In paragraph (2) “insurer” means—
 
-- (a)[^key-57e1fabcaedea04ae99a31fb7f1572bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-57e1fabcaedea04ae99a31fb7f1572bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an undertaking which—
   - (i) is incorporated in any of the Channel Islands or the Isle of Man, and
-  - (ii) would satisfy the requirements for authorisation under the Financial Services and Markets Act 2000 as an insurer, within the meaning of section 339C(4)(b) of that Act[^key-185b2e532d67f85275130ab5cf280d70] if it had its registered office (or if it does not have a registered office, its head office) in the United Kingdom[^key-103f420a40bf9619077e9ec743926dc7].
+  - (ii) would satisfy the requirements for authorisation under the Financial Services and Markets Act 2000 as an insurer, within the meaning of section 339C(4)(b) of that Act[^c-185b2e532d67f85275130ab5cf280d70] if it had its registered office (or if it does not have a registered office, its head office) in the United Kingdom[^c-103f420a40bf9619077e9ec743926dc7].
 
-(4)[^key-3aee205b3dbafd371211a2b0ba79fe9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3aee205b3dbafd371211a2b0ba79fe9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Frank Roy
 
@@ -455,88 +455,88 @@ An Impact Assessment has been prepared for this instrument. It is available from
 
 [^f00001]: Footnote: [2007 c.26](https://www.legislation.gov.uk/ukpga/2007/26).
 
-[^key-2ecff6a10bbaf068ba34d0c2d2aacc06]: Commencement: Art. 1 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-2ecff6a10bbaf068ba34d0c2d2aacc06]: Commencement: Art. 1 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-03fd9881102ffa51904148980d29b164]: Commencement: Art. 2 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-03fd9881102ffa51904148980d29b164]: Commencement: Art. 2 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00002]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53).
 
 [^f00003]: Footnote: [S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212), to which there are amendments not relevant to this Order.
 
-[^key-f2d202a90cbbd4eacc6042d538b5291c]: Commencement: Art. 3 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-f2d202a90cbbd4eacc6042d538b5291c]: Commencement: Art. 3 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-80eaa2eaf7936a0f15727f386d86e240]: Commencement: Art. 4 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-80eaa2eaf7936a0f15727f386d86e240]: Commencement: Art. 4 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00004]: Footnote: Section 97(12) was amended by the Building Societies Act [1997 (c.32)](https://www.legislation.gov.uk/ukpga/1997/32), section 43, Schedule 7, paragraph 45(3), and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
 [^f00005]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-4f57ba46949cad092a57b882d5f3b7bf]: Commencement: Art. 5 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-4f57ba46949cad092a57b882d5f3b7bf]: Commencement: Art. 5 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00006]: Footnote: Paragraph 30 of Schedule 2 was amended by the Building Societies Act 1997, section 43, Schedule 7, paragraph 57(10), (11) and (12), by [S.I. 1997/2714](https://www.legislation.gov.uk/uksi/1997/2714) and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 
-[^key-15f5e15b49a00cfd3283a1a6a3f30998]: Commencement: Art. 6 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-15f5e15b49a00cfd3283a1a6a3f30998]: Commencement: Art. 6 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00007]: Footnote: Section 97(3) was amended by the Building Societies Act 1997, sections 43 and 46(2), Schedule 7, paragraph 45(2) and Schedule 9. For amendments to section 97(12) see the footnote to article 4.
 
-[^key-da65ef0af3992cae319bbdcbd684d9dc]: Commencement: Art. 7 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-da65ef0af3992cae319bbdcbd684d9dc]: Commencement: Art. 7 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-0c923a16b37a5b4f64631af4acdfe383]: Textual amendment: Words in [art. 7(5)](https://www.legislation.gov.uk/uksi/2009/509/article/7/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/7/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-0c923a16b37a5b4f64631af4acdfe383]: Textual amendment: Words in [art. 7(5)](https://www.legislation.gov.uk/uksi/2009/509/article/7/5) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/7/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
 [^f00009]: Footnote: Section 81B was inserted by [S.I. 2004/3380](https://www.legislation.gov.uk/uksi/2004/3380). There are amendments but none are relevant.
 
-[^key-2e478f4d644b960c3988cd2fb3b3631a]: Commencement: Art. 8 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-2e478f4d644b960c3988cd2fb3b3631a]: Commencement: Art. 8 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-0fc496e151b7d429ea915cc1dd70fc00]: Commencement: Art. 9 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-0fc496e151b7d429ea915cc1dd70fc00]: Commencement: Art. 9 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00010]: Footnote: Section 98 was amended by the Building Societies Act 1997, section 30, by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-bbed0debed504b2f31db1c1dc5a7a626]: Commencement: Art. 10 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-bbed0debed504b2f31db1c1dc5a7a626]: Commencement: Art. 10 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00011]: Footnote: There are amendments to section 100 but none are relevant.
 
-[^key-27ad64402989dc5f698d0c62a05b1e2c]: Commencement: Art. 11 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-27ad64402989dc5f698d0c62a05b1e2c]: Commencement: Art. 11 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00012]: Footnote: Section 97(2) was amended by the Building Societies (Distributions) Act [1997 (c.41)](https://www.legislation.gov.uk/ukpga/1997/41), section 1(2). Section 97(4) was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617). For amendments to section 97(12) see the footnote to article 4.
 
-[^key-089610b57b6c030e0ccbcc9a64b78e7a]: Commencement: Art. 12 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-089610b57b6c030e0ccbcc9a64b78e7a]: Commencement: Art. 12 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00013]: Footnote: Section 101 was substituted by the Building Societies Act 1997, section 41, and subsequently amended by [S.I. 1998/1120](https://www.legislation.gov.uk/uksi/1998/1120), [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.I. 2007/2194](https://www.legislation.gov.uk/uksi/2007/2194).
 
-[^key-5f50a29f7812766e4eba671c49597856]: Commencement: Art. 13 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-5f50a29f7812766e4eba671c49597856]: Commencement: Art. 13 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00014]: Footnote: Section 102B was inserted by the Building Societies (Distributions) Act 1997, section 1.
 
 [^f00015]: Footnote: Section 102C was inserted by the Building Societies (Distributions) Act 1997, section 1.
 
-[^key-799997aaba8dda6cb5127b68e472bb08]: Commencement: Art. 14 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-799997aaba8dda6cb5127b68e472bb08]: Commencement: Art. 14 in force at 5.3.2009 in accordance with art. 1(2)
 
 [^f00016]: Footnote: [S.I. 1998/212](https://www.legislation.gov.uk/uksi/1998/212), to which there are amendments not relevant to this Order.
 
-[^key-8a71584e12834c1671b6a729c45cbbe9]: Commencement: Art. 15 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-8a71584e12834c1671b6a729c45cbbe9]: Commencement: Art. 15 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-bb276b4aa5b4b14d4218030cb2ebb377]: Commencement: Art. 16 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-bb276b4aa5b4b14d4218030cb2ebb377]: Commencement: Art. 16 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-62d58e1572787938bbf9125a69443aee]: Commencement: Art. 17 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-62d58e1572787938bbf9125a69443aee]: Commencement: Art. 17 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-bcfeb5a955ea31dc57864476497b6b22]: Commencement: Art. 18 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-bcfeb5a955ea31dc57864476497b6b22]: Commencement: Art. 18 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-905022396ce4e7179951e3dd4851e0de]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2009/509/article/18) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/7/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-905022396ce4e7179951e3dd4851e0de]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/uksi/2009/509/article/18) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/10/paragraph/7/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-15b0433d7517e80b935b8a2c8de010f4]: Commencement: Art. 19 in force at 5.3.2009 in accordance with art. 1(2)
+[^c-15b0433d7517e80b935b8a2c8de010f4]: Commencement: Art. 19 in force at 5.3.2009 in accordance with art. 1(2)
 
-[^key-6e5b6a58f224ef7590cc4e7175e8cdb4]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/uksi/2009/509/article/19) heading substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e5b6a58f224ef7590cc4e7175e8cdb4]: Textual amendment: Words in [art. 19](https://www.legislation.gov.uk/uksi/2009/509/article/19) heading substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-76a034e3e3be1bd952e3affc6db75d65]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/uksi/2009/509/article/19/1) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76a034e3e3be1bd952e3affc6db75d65]: Textual amendment: Words in [art. 19(1)](https://www.legislation.gov.uk/uksi/2009/509/article/19/1) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-928f2adfc22562c89fef22d520f7f61e]: Textual amendment: Words in [art. 19(2)(b)](https://www.legislation.gov.uk/uksi/2009/509/article/19/2/b) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-928f2adfc22562c89fef22d520f7f61e]: Textual amendment: Words in [art. 19(2)(b)](https://www.legislation.gov.uk/uksi/2009/509/article/19/2/b) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00017]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-57e1fabcaedea04ae99a31fb7f1572bb]: Textual amendment: [Art. 19(3)(a)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/a) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57e1fabcaedea04ae99a31fb7f1572bb]: Textual amendment: [Art. 19(3)(a)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/a) omitted (31.12.2020) by virtue of [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-185b2e532d67f85275130ab5cf280d70]: Textual amendment: Words in [art. 19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/b/ii) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(aa)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/aa)[(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-185b2e532d67f85275130ab5cf280d70]: Textual amendment: Words in [art. 19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/b/ii) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(aa)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/aa)[(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-103f420a40bf9619077e9ec743926dc7]: Textual amendment: Words in [art. 19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/b/ii) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(bb)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/bb)[(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-103f420a40bf9619077e9ec743926dc7]: Textual amendment: Words in [art. 19(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2009/509/article/19/3/b/ii) substituted (31.12.2020) by [The Building Societies Legislation (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1187)](https://www.legislation.gov.uk/uksi/2018/1187), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1187/regulation/1), [12(c)(bb)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/bb)[(ii)](https://www.legislation.gov.uk/uksi/2018/1187/regulation/12/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3aee205b3dbafd371211a2b0ba79fe9c]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2009/509/article/19/4) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/29/2/b)
+[^c-3aee205b3dbafd371211a2b0ba79fe9c]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/2009/509/article/19/4) omitted (1.1.2016) by virtue of [The Solvency 2 Regulations 2015 (S.I. 2015/575)](https://www.legislation.gov.uk/uksi/2015/575), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/575/regulation/1/2), [Sch. 2 para. 29(2)(b)](https://www.legislation.gov.uk/uksi/2015/575/schedule/2/paragraph/29/2/b)

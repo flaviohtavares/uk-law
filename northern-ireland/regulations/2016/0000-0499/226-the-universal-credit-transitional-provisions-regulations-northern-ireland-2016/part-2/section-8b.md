@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8B. Arrears of maternity allowance disregarded as capital[^key-af008b10952877a4e56a497b06148fbf]
+## 8B. Arrears of maternity allowance disregarded as capital[^c-af008b10952877a4e56a497b06148fbf]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af008b10952877a4e56a497b06148fbf]: Textual amendment: [Reg. 8B](https://www.legislation.gov.uk/nisr/2016/226/regulation/8B) inserted (31.10.2019) by [The Social Security (Capital Disregards) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/195)](https://www.legislation.gov.uk/nisr/2019/195), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/195/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2019/195/regulation/9/3)
+[^c-af008b10952877a4e56a497b06148fbf]: Textual amendment: [Reg. 8B](https://www.legislation.gov.uk/nisr/2016/226/regulation/8B) inserted (31.10.2019) by [The Social Security (Capital Disregards) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/195)](https://www.legislation.gov.uk/nisr/2019/195), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/195/regulation/1/1), [9(3)](https://www.legislation.gov.uk/nisr/2019/195/regulation/9/3)

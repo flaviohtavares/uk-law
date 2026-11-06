@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99L. Use of boom microphones[^key-1ff103de54cdaaef966c909c1ed2be6a]
+## 99L. Use of boom microphones[^c-1ff103de54cdaaef966c909c1ed2be6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Flight crew members required to be on flight deck duty on a flight in an aircraf
 
 ## Annotations
 
-[^key-1ff103de54cdaaef966c909c1ed2be6a]: Textual amendment: [Pt. 17A](https://www.legislation.gov.uk/uksi/2015/870/part/17A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [14](https://www.legislation.gov.uk/uksi/2016/155/article/14)
+[^c-1ff103de54cdaaef966c909c1ed2be6a]: Textual amendment: [Pt. 17A](https://www.legislation.gov.uk/uksi/2015/870/part/17A) inserted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [14](https://www.legislation.gov.uk/uksi/2016/155/article/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Financial reporting orders: making in Scotland[^key-a3fd9e0f1a1b91b8040c006e564d10f5]
+## 77. Financial reporting orders: making in Scotland[^c-a3fd9e0f1a1b91b8040c006e564d10f5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3fd9e0f1a1b91b8040c006e564d10f5]: Textual amendment: S. 77 omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 50(1)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/b), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(8)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/8)); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/e)
+[^c-a3fd9e0f1a1b91b8040c006e564d10f5]: Textual amendment: S. 77 omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 50(1)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/b), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1) (with [s. 86(8)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/8)); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/e)

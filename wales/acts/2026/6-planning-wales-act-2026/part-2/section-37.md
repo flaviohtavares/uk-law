@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. End of joint arrangements between planning authorities[^key-f8e3e5bf3b47c2a081ddb1f2f5d3e8d8]
+## 37. End of joint arrangements between planning authorities[^c-f8e3e5bf3b47c2a081ddb1f2f5d3e8d8]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8e3e5bf3b47c2a081ddb1f2f5d3e8d8]: Commencement: S. 37 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f8e3e5bf3b47c2a081ddb1f2f5d3e8d8]: Commencement: S. 37 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

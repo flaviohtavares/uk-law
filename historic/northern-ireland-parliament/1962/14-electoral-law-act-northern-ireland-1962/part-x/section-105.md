@@ -40,7 +40,7 @@ summary: ''
 - (b) subsections (2) and (6) shall be omitted; and
 - (c) in subsections (5) for the words the offences specified in paragraphs 24 to 26 there shall be substituted the offences specified in paragraph 26(2) and for the words charged with any of the electoral offences specified in paragraphs 24 to 26 there shall be substituted to whom section 111(2A)(c)(i) applies charged with the offence specified in paragraph 26(2).
 
-(9)[^key-e1b55db1d999b48a61d98ff43ca6f4eb] A corrupt practice or electoral offence in relation to which section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies is triable only on indictment.
+(9)[^c-e1b55db1d999b48a61d98ff43ca6f4eb] A corrupt practice or electoral offence in relation to which section 16 of the National Security Act 2023 (which provides for higher sentences in cases of foreign interference) applies is triable only on indictment.
 
 ## Annotations
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c18659101]: Textual amendment: SI 1987/168
 
-[^key-e1b55db1d999b48a61d98ff43ca6f4eb]: Textual amendment: [S. 105(9)](https://www.legislation.gov.uk/apni/1962/14/section/105/9) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-e1b55db1d999b48a61d98ff43ca6f4eb]: Textual amendment: [S. 105(9)](https://www.legislation.gov.uk/apni/1962/14/section/105/9) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/1/paragraph/1/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

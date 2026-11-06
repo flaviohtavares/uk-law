@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People, Wales
 
-The Local Elections (Communities) (Welsh Forms) (Amendment) Order 2017 (revoked)[^key-4b4ab23531c82816df2e40d22a3d70cd]
+The Local Elections (Communities) (Welsh Forms) (Amendment) Order 2017 (revoked)[^c-4b4ab23531c82816df2e40d22a3d70cd]
 
 Made
 
@@ -44,26 +44,26 @@ Laid before Parliament
 
 Coming into force in accordance with article 2
 
-[^key-4b4ab23531c82816df2e40d22a3d70cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4ab23531c82816df2e40d22a3d70cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and transition[^key-4b4ab23531c82816df2e40d22a3d70cd]
+## 1. Citation, commencement and transition[^c-4b4ab23531c82816df2e40d22a3d70cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4b4ab23531c82816df2e40d22a3d70cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4b4ab23531c82816df2e40d22a3d70cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Local Elections (Communities) (England and Wales) Order 2007[^key-4b4ab23531c82816df2e40d22a3d70cd]
+## 3. Amendment of the Local Elections (Communities) (England and Wales) Order 2007[^c-4b4ab23531c82816df2e40d22a3d70cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4b4ab23531c82816df2e40d22a3d70cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4ab23531c82816df2e40d22a3d70cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4b4ab23531c82816df2e40d22a3d70cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4b4ab23531c82816df2e40d22a3d70cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4b4ab23531c82816df2e40d22a3d70cd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/146) revoked (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [8(3)(d)](https://www.legislation.gov.uk/wsi/2022/263/regulation/8/3/d) (with [reg. 12(e)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/e))
+[^c-4b4ab23531c82816df2e40d22a3d70cd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/146) revoked (10.3.2022) by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [8(3)(d)](https://www.legislation.gov.uk/wsi/2022/263/regulation/8/3/d) (with [reg. 12(e)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/e))

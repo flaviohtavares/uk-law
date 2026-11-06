@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (European School) Order 1990 (revoked)[^key-e86b17844c5664072ad717a8b4dfce1d]
+The European Communities (Definition of Treaties) (European School) Order 1990 (revoked)[^c-e86b17844c5664072ad717a8b4dfce1d]
 
 Made
 
@@ -47,24 +47,24 @@ Present,
 
 The Counsellors of State in Council
 
-[^key-e86b17844c5664072ad717a8b4dfce1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e86b17844c5664072ad717a8b4dfce1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e86b17844c5664072ad717a8b4dfce1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e86b17844c5664072ad717a8b4dfce1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e86b17844c5664072ad717a8b4dfce1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e86b17844c5664072ad717a8b4dfce1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e86b17844c5664072ad717a8b4dfce1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e86b17844c5664072ad717a8b4dfce1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e86b17844c5664072ad717a8b4dfce1d]
+## SCHEDULE[^c-e86b17844c5664072ad717a8b4dfce1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e86b17844c5664072ad717a8b4dfce1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e86b17844c5664072ad717a8b4dfce1d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e86b17844c5664072ad717a8b4dfce1d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1990/236) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e86b17844c5664072ad717a8b4dfce1d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1990/236) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

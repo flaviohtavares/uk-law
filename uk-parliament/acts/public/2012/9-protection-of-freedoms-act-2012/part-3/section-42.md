@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Duty to review certain existing powers of entry[^key-b22dd04a377c74854b27400c9aa67b35]
+## 42. Duty to review certain existing powers of entry[^c-b22dd04a377c74854b27400c9aa67b35]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b22dd04a377c74854b27400c9aa67b35]: Commencement: S. 42 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/l)
+[^c-b22dd04a377c74854b27400c9aa67b35]: Commencement: S. 42 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(l)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/l)

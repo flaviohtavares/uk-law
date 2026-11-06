@@ -46,11 +46,11 @@ The Department of Justice makes the following Regulations in exercise of the pow
 
 In accordance with Article 46(5) of that Order, a draft of this rule has been laid before and approved by a resolution of the Assembly.
 
-## 1. Citation and commencement[^key-b577065206f08f02a2bfcf55863176f0]
+## 1. Citation and commencement[^c-b577065206f08f02a2bfcf55863176f0]
 
 These Regulations may be cited as the Civil Legal Services (Cost Protection) Regulations (Northern Ireland) 2015 and shall come into operation on 1st April 2015.
 
-## 2. Interpretation[^key-fa721c7e9dacc029531075b06fdaf20b]
+## 2. Interpretation[^c-fa721c7e9dacc029531075b06fdaf20b]
 
 In these Regulations—
 
@@ -66,7 +66,7 @@ In these Regulations—
 - “proceedings” include proceedings in any tribunal which is a court, as defined, in this regulation;
 - “unassisted party” has the meaning given by Article 19(1)(b) of the Order.
 
-## 3. Periods during which cost protection applies[^key-b15b080ed561ed9c89c5559b4ba02c8d]
+## 3. Periods during which cost protection applies[^c-b15b080ed561ed9c89c5559b4ba02c8d]
 
 (1) Subject to paragraph (3), where the client receives advice and assistance, but later receives representation, cost protection shall apply both in respect of—
 
@@ -85,7 +85,7 @@ In these Regulations—
 - (a) no application for such a certificate could be made because the office to which the application would ordinarily be made was closed; and
 - (b) the client’s solicitor applies for an emergency certificate at the first available opportunity, and the certificate is granted.
 
-## 4. Effect of these Regulations[^key-1b7c124468a44d2a685a2db4cfb81de9]
+## 4. Effect of these Regulations[^c-1b7c124468a44d2a685a2db4cfb81de9]
 
 Nothing in these Regulations shall be construed, in relation to proceedings where one or more parties are receiving, or have received, funded services, as requiring a court to make a costs order where it would not otherwise have made a costs order.
 
@@ -109,12 +109,12 @@ The Regulations come into operation on 1st April 2015.
 
 [^f00002]: Footnote: [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976)
 
-[^key-b577065206f08f02a2bfcf55863176f0]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
+[^c-b577065206f08f02a2bfcf55863176f0]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
 
-[^key-fa721c7e9dacc029531075b06fdaf20b]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
+[^c-fa721c7e9dacc029531075b06fdaf20b]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 195](https://www.legislation.gov.uk/nisr/2015/195)
 
-[^key-b15b080ed561ed9c89c5559b4ba02c8d]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
+[^c-b15b080ed561ed9c89c5559b4ba02c8d]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
 
-[^key-1b7c124468a44d2a685a2db4cfb81de9]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)
+[^c-1b7c124468a44d2a685a2db4cfb81de9]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/199/regulation/1)

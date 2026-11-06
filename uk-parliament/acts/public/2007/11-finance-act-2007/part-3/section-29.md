@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f15501bff51b02f65b49a86bc5957b80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f15501bff51b02f65b49a86bc5957b80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 552 of that Act (information: duty of insurers), after subsection (12) insert—
 
@@ -104,4 +104,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f15501bff51b02f65b49a86bc5957b80]: Textual amendment: S. 29(1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(p)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/p)
+[^c-f15501bff51b02f65b49a86bc5957b80]: Textual amendment: S. 29(1) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(p)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/p)

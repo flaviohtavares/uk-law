@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Annual plans[^key-7fdda2b170d6a682551aff9244c0c410][^key-98e53ce873570d826541ed7f7f9850e1][^key-5a1f306d3b2f24e525a39afb65a1dff0]
+## 8. Annual plans[^c-7fdda2b170d6a682551aff9244c0c410][^c-98e53ce873570d826541ed7f7f9850e1][^c-5a1f306d3b2f24e525a39afb65a1dff0]
 
 *Extent: E+W*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7fdda2b170d6a682551aff9244c0c410]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/21/section/8) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/g)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
+[^c-7fdda2b170d6a682551aff9244c0c410]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/21/section/8) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/g)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
 
-[^key-98e53ce873570d826541ed7f7f9850e1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/21/section/8) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
+[^c-98e53ce873570d826541ed7f7f9850e1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/21/section/8) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/g)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
 
-[^key-5a1f306d3b2f24e525a39afb65a1dff0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/21/section/8) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(7)](https://www.legislation.gov.uk/uksi/2010/191/article/2/7)
+[^c-5a1f306d3b2f24e525a39afb65a1dff0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2007/21/section/8) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(7)](https://www.legislation.gov.uk/uksi/2010/191/article/2/7)

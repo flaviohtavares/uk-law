@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Genocide, crimes against humanity and war crimes: UK residents[^key-40ef685597a91909dd8176dc10481f62]
+## 32. Genocide, crimes against humanity and war crimes: UK residents[^c-40ef685597a91909dd8176dc10481f62]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40ef685597a91909dd8176dc10481f62]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/13/section/32) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-40ef685597a91909dd8176dc10481f62]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/13/section/32) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

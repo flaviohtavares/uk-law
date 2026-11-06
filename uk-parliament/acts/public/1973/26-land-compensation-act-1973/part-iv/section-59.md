@@ -25,9 +25,9 @@ summary: ''
 - (a) the notice is served after an acquiring authority have served notice to treat on the landlord of the holding or, being an authority possessing compulsory purchase powers, have agreed to acquire his interest in the holding; and
 - (b) either—
   - (i) section 26(1) of the Agricultural Holdings Act 1986[^c776660] does not apply to the notice by virtue of Case B in Part I of Schedule 3 to that Act (land required for non-agricultural use for which planning permission has been granted etc.); or
-  - (ii) the appropriate tribunal[^key-7f49ad23b31b32b98ec294fd57e225d7] have consented to the operation of the notice and stated in the reasons for their decision that they are satisfied as to the matter mentioned in section 27(3)([^c776662]*f*) of that Act (land required for non-agricultural use not falling within the said Case B[^c776663].
+  - (ii) the appropriate tribunal[^c-7f49ad23b31b32b98ec294fd57e225d7] have consented to the operation of the notice and stated in the reasons for their decision that they are satisfied as to the matter mentioned in section 27(3)([^c776662]*f*) of that Act (land required for non-agricultural use not falling within the said Case B[^c776663].
 
-(1A)[^key-3b014d4fd360c2a5bd9b3b81d640fa50] For the purposes of subsection (1), “appropriate tribunal” means—
+(1A)[^c-3b014d4fd360c2a5bd9b3b81d640fa50] For the purposes of subsection (1), “appropriate tribunal” means—
 
 - (a) where the holding (or the greater part of the holding) is in England, the First-tier Tribunal; and
 - (b) where the holding (or the greater part of the holding) is in Wales, the Agricultural Land Tribunal.
@@ -53,13 +53,13 @@ summary: ''
 
 [^c776660]: Textual amendment: Words substituted by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [s. 100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [Sch. 14 para. 55(2)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/55/2)(*a*)
 
-[^key-7f49ad23b31b32b98ec294fd57e225d7]: Textual amendment: Words in [s. 59(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1973/26/section/59/1/b/ii) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 201(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/201/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7f49ad23b31b32b98ec294fd57e225d7]: Textual amendment: Words in [s. 59(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1973/26/section/59/1/b/ii) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 201(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/201/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c776662]: Textual amendment: Words substituted by [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [s. 100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [Sch. 14 para. 55(2)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/55/2)(*b*)
 
 [^c776663]: Textual amendment: Words substituted by [Agricultural Holdings (Notices to Quit) Act 1977 (c. 12)](https://www.legislation.gov.uk/ukpga/1977/12), [Sch. 1 para. 6(4)](https://www.legislation.gov.uk/ukpga/1977/12/schedule/1/paragraph/6/4)(*d*) except in relation to notices to quit given before 7.4.1978:and Agricultural Holdings (Notices to Quit) Act 1977 (c. 12 , s. 14 and continued by virtue of [Agricultural Holdings Act 1986 (c. 5, SIF 2:3)](https://www.legislation.gov.uk/ukpga/1986/5), [s. 100](https://www.legislation.gov.uk/ukpga/1986/5/section/100), [Sch. 14 para. 55(2)](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/55/2)
 
-[^key-3b014d4fd360c2a5bd9b3b81d640fa50]: Textual amendment: [S. 59(1A)](https://www.legislation.gov.uk/ukpga/1973/26/section/59/1A) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 201(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/201/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3b014d4fd360c2a5bd9b3b81d640fa50]: Textual amendment: [S. 59(1A)](https://www.legislation.gov.uk/ukpga/1973/26/section/59/1A) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 201(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/201/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c776664]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 

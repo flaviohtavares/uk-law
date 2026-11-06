@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.1. Interpretation for Part 3[^key-beaf7edfe3a149cc29510232e2c720d6]
+## 3.1. Interpretation for Part 3[^c-beaf7edfe3a149cc29510232e2c720d6]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ In this Part—
 - “**pre-administration costs**” means fees charged, and expenses incurred by the administrator, or another person qualified to act as an insolvency practitioner in relation to the company, before the company entered administration but with a view to it doing so; and
 - “**unpaid pre-administration costs**” means pre-administration costs which had not been paid when the company entered administration.
 
-## 3.2. Proposed administrator's statement and consent to act[^key-beaf7edfe3a149cc29510232e2c720d6]
+## 3.2. Proposed administrator's statement and consent to act[^c-beaf7edfe3a149cc29510232e2c720d6]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ In this Part—
 
 (3) Where a number of persons are proposed to be appointed to act jointly or concurrently as the administrator of a company, each must make a separate statement and consent to act.
 
-## 3.3. Administration application (paragraph 12 of Schedule B1)[^key-beaf7edfe3a149cc29510232e2c720d6]
+## 3.3. Administration application (paragraph 12 of Schedule B1)[^c-beaf7edfe3a149cc29510232e2c720d6]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ In this Part—
   - (ii) that it is a company limited by guarantee;
 - (f) particulars of the principal business carried on by the company;
 - (g) a statement whether the company is an Article 1.2 undertaking;
-- (h) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-bb72e5408a5f3bec2da0c14d7d1369b3] and that the reasons for the statement are set out in the witness statement in support of the application made under rule 3.6;
+- (h) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-bb72e5408a5f3bec2da0c14d7d1369b3] and that the reasons for the statement are set out in the witness statement in support of the application made under rule 3.6;
 - (i) except where the applicant is the holder of a qualifying floating charge and is making the application under paragraph 35 of Schedule B1, a statement that the applicant believes, for the reasons set out in the witness statement in support of the application that the company is, or is likely to become, unable to pay its debts;
 - (j) the name and address of the proposed administrator;
 - (k) the address for service of the applicant;
@@ -92,7 +92,7 @@ After an application by the directors for an administration order is filed it is
 
 After an application by the supervisor of a CVA for an administration order in respect of the company has been served on the company as required by rule 3.8(3)(d) it is to be treated for all purposes as an application by the company.
 
-## 3.6. Witness statement in support of administration application[^key-5fb30d99081a7578752ee384ac42a140]
+## 3.6. Witness statement in support of administration application[^c-5fb30d99081a7578752ee384ac42a140]
 
 *Extent: E+W*
 
@@ -119,7 +119,7 @@ After an application by the supervisor of a CVA for an administration order in r
 - (c) a statement that an administrative receiver has been appointed if that is the case;
 - (d) details of any insolvency proceedings in relation to the company, including any petition that has been presented for the winding up of the company so far as known to the applicant;
 - (e) where it is intended to appoint a number of persons as administrators, a statement of the matters relating to the exercise of their functions set out in paragraph 100(2) of Schedule B1;
-- (f) the reasons for the statement that the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-c244001f55a202034ec22e5b0f1e7f2b]; and
+- (f) the reasons for the statement that the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-c244001f55a202034ec22e5b0f1e7f2b]; and
 - (g) any other matters which, in the applicant's opinion, will assist the court in deciding whether to make such an order.
 
 (4) Where the application is made by the holder of a qualifying floating charge under paragraph 35 or 37 of Schedule B1, the witness statement must give sufficient details to satisfy the court that the applicant is entitled to appoint an administrator under paragraph 14 of Schedule B1.
@@ -130,7 +130,7 @@ After an application by the supervisor of a CVA for an administration order in r
 - (b) the reasons why it has subsequently been considered appropriate that an administration application should be made; and
 - (c) any other matters that would, in the applicant's opinion, assist the court in deciding whether to make provision in relation to matters arising in connection with the liquidation.
 
-## 3.7. Filing of application[^key-5fb30d99081a7578752ee384ac42a140]
+## 3.7. Filing of application[^c-5fb30d99081a7578752ee384ac42a140]
 
 *Extent: E+W*
 
@@ -148,7 +148,7 @@ After an application by the supervisor of a CVA for an administration order in r
   - (ii) the venue fixed by the court; and
 - (c) be delivered by the court to the applicant.
 
-## 3.8. Service of application[^key-5fb30d99081a7578752ee384ac42a140]
+## 3.8. Service of application[^c-5fb30d99081a7578752ee384ac42a140]
 
 *Extent: E+W*
 
@@ -158,19 +158,19 @@ After an application by the supervisor of a CVA for an administration order in r
 
 (3) The applicant must serve the application on the following (in addition to serving it on the persons referred to in paragraph 12(2)(a) to (c) of Schedule B1)—
 
-- (za)[^key-f2decf726d9c2eac7d7882d38006ce2f] if there is a moratorium in force for the company under Part A1 of the Act, the monitor;
+- (za)[^c-f2decf726d9c2eac7d7882d38006ce2f] if there is a moratorium in force for the company under Part A1 of the Act, the monitor;
 - (a) any administrative receiver of the company;
 - (b) if there is a petition pending for the winding up of the company on—
   - (i) the petitioner, and
   - (ii) any provisional liquidator;
-- (c)[^key-7d05943fee8f755c6291c2cee34d5b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7d05943fee8f755c6291c2cee34d5b21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the company, if the application is made by anyone other than the company or its directors;
 - (e) any supervisor of a CVA in relation to the company; and
 - (f) the proposed administrator.
 
 (4) The certificate of service must be filed with the court as soon as reasonably practicable after service and in any event not later than the business day before the hearing of the application.
 
-## 3.9. Notice to enforcement agents charged with distress or other legal process, etc.[^key-5fb30d99081a7578752ee384ac42a140]
+## 3.9. Notice to enforcement agents charged with distress or other legal process, etc.[^c-5fb30d99081a7578752ee384ac42a140]
 
 *Extent: E+W*
 
@@ -186,7 +186,7 @@ The applicant must as soon as reasonably practicable after filing the applicatio
 After the application has been filed and until an order is made, it is the duty of the applicant to file with the court notice of the existence of any insolvency proceedings in relation to the company, as soon as the applicant becomes aware of them—
 
 - (a) anywhere in the world, in the case of a company registered under the Companies Act in England and Wales;
-- (b) in any EEA State [^key-061963c4d36940151577e11b717576d8]..., in the case of a company incorporated in an EEA State [^key-061963c4d36940151577e11b717576d8]...; or
+- (b) in any EEA State [^c-061963c4d36940151577e11b717576d8]..., in the case of a company incorporated in an EEA State [^c-061963c4d36940151577e11b717576d8]...; or
 - (c) in any member State other than Denmark, in the case of a company not incorporated in an EEA State.
 
 ## 3.11. Intervention by holder of qualifying floating charge (paragraph 36(1)(b) of Schedule B1)
@@ -201,27 +201,27 @@ After the application has been filed and until an order is made, it is the duty 
 
 (2) If an administration order is made appointing the specified person, the costs of the person who made the administration application and of the applicant under paragraph 36(1)(b) of Schedule B1 are, unless the court orders otherwise, to be paid as an expense of the administration.
 
-## 3.12. The hearing[^key-4c9920e221fcc7c4b3189de335870822]
+## 3.12. The hearing[^c-4c9920e221fcc7c4b3189de335870822]
 
 *Extent: E+W*
 
-(1)[^key-bd93dd0bbd18cc2483e79ef14fd70174] At the hearing of the administration application, any of the following may appear or be represented—
+(1)[^c-bd93dd0bbd18cc2483e79ef14fd70174] At the hearing of the administration application, any of the following may appear or be represented—
 
 - (a) the applicant;
 - (b) the company;
 - (c) one or more of the directors;
-- (ca)[^key-a75254777d286124f16bf0e2de6782ad] if there is a moratorium in force for the company under Part A1 of the Act, the monitor;
+- (ca)[^c-a75254777d286124f16bf0e2de6782ad] if there is a moratorium in force for the company under Part A1 of the Act, the monitor;
 - (d) any administrative receiver;
 - (e) any person who has presented a petition for the winding up of the company;
 - (f) the proposed administrator;
-- (g)[^key-ca9eda28907f5f7f40b3e0961899ae52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-ca9eda28907f5f7f40b3e0961899ae52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) the holder of any qualifying floating charge;
 - (i) any supervisor of a CVA;
 - (j) with the permission of the court, any other person who appears to have an interest which justifies appearance.
 
 (2) If the court makes an administration order, the costs of the applicant, and of any other person whose costs are allowed by the court, are payable as an expense of the administration.
 
-## 3.13. The order[^key-4c9920e221fcc7c4b3189de335870822]
+## 3.13. The order[^c-4c9920e221fcc7c4b3189de335870822]
 
 *Extent: E+W*
 
@@ -234,8 +234,8 @@ After the application has been filed and until an order is made, it is the duty 
 - (e) an order that during the period the order is in force the affairs, business and property of the company is to be managed by the administrator;
 - (f) the name of the person appointed as administrator;
 - (g) an order that that person is appointed as administrator of the company;
-- (h) a statement that the court is satisfied either that the EU Regulation[^key-0c3d087ddc0a54a5213c12987638d107] as it has effect in the law of the United Kingdom[^key-ad768ee90b4f62f032dae3e50c9a0f9f] does not apply or that it does;
-- (i) where the EU Regulation does apply, a statement whether the proceedings are COMI proceedings or establishment proceedings[^key-ca2bd2625abb3aca8e66de29b96111fc];
+- (h) a statement that the court is satisfied either that the EU Regulation[^c-0c3d087ddc0a54a5213c12987638d107] as it has effect in the law of the United Kingdom[^c-ad768ee90b4f62f032dae3e50c9a0f9f] does not apply or that it does;
+- (i) where the EU Regulation does apply, a statement whether the proceedings are COMI proceedings or establishment proceedings[^c-ca2bd2625abb3aca8e66de29b96111fc];
 - (j) the date of the order (and if the court so orders the time); and
 - (k) such other provisions if any as the court thinks just.
 
@@ -259,7 +259,7 @@ Where the court makes an administration order in relation to a company on an app
   - (iv) other matters arising in connection with the winding up; and
 - (d) such other provisions if any as the court thinks just.
 
-## 3.15. Notice of administration order[^key-794951ff2d7e8de5b3fb4409b36091b7]
+## 3.15. Notice of administration order[^c-794951ff2d7e8de5b3fb4409b36091b7]
 
 *Extent: E+W*
 
@@ -287,7 +287,7 @@ Where the court makes an administration order in relation to a company on an app
 - (h) the names and addresses of the holders of such prior floating charges and details of the charges;
 - (i) a statement whether the company is or is not subject to insolvency proceedings at the date of the notice, and details of the proceedings if it is;
 - (j) a statement whether the company is an Article 1.2 undertaking; and
-- (k) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-17aa150946d27d3292dcfa89a98e22c5] with reasons for the statement.
+- (k) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-17aa150946d27d3292dcfa89a98e22c5] with reasons for the statement.
 
 (3) The notice must be authenticated by the appointer or the appointer's solicitor and dated.
 
@@ -317,7 +317,7 @@ Where the court makes an administration order in relation to a company on an app
   - (iv) that there is no such floating charge;
 - (i) a statement whether the company is or is not subject to insolvency proceedings at the date of the notice, and details of the proceedings if it is;
 - (j) a statement whether the company is an Article 1.2 undertaking;
-- (k) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-a4b846674d783ad8a7681d274701bece] and the reasons for so stating; and
+- (k) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-a4b846674d783ad8a7681d274701bece] and the reasons for so stating; and
 - (l) a statement that the appointment is in accordance with Schedule B1.
 
 (2) Where two or more administrators are appointed the notice must also specify (as required by paragraph 100(2) of Schedule B1)—
@@ -361,36 +361,36 @@ Where the court makes an administration order in relation to a company on an app
 
 (1) When (but only when) the court is closed, the holder of a qualifying floating charge may file a notice of appointment with the court by—
 
-- (a)[^key-c76da1e5f7a773cc1b00e1172eb1d592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c76da1e5f7a773cc1b00e1172eb1d592] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) emailing it, or attaching it to an email, to a designated email address.
 
 (2) The notice must specify the name of the court (and hearing centre if applicable) that has jurisdiction.
 
-(3) The Lord Chancellor must designate the [^key-97524b90e0162ac6299e65a76102ac57]... email address.
+(3) The Lord Chancellor must designate the [^c-97524b90e0162ac6299e65a76102ac57]... email address.
 
-(4) The Secretary of State must publish the designated [^key-aad129ef84d92345f2f0865aec37f063]... email address on the Insolvency Service webpages and deliver notice of it[^key-22e1bfa95f507fe0ea67b12df71e09aa] to any person requesting it from the Insolvency Service.
+(4) The Secretary of State must publish the designated [^c-aad129ef84d92345f2f0865aec37f063]... email address on the Insolvency Service webpages and deliver notice of it[^c-22e1bfa95f507fe0ea67b12df71e09aa] to any person requesting it from the Insolvency Service.
 
 (5) The appointer must ensure that—
 
-- (a)[^key-00ac708729f54fb76d287dbdea0ccf9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-00ac708729f54fb76d287dbdea0ccf9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a hard copy of the email is created giving the time and date of the email and the address to which it was sent.
 
-(6) The appointer must retain the [^key-9f06da29711395ea77dd7156cee73bbb]... hard copy of the email.
+(6) The appointer must retain the [^c-9f06da29711395ea77dd7156cee73bbb]... hard copy of the email.
 
 (7) The appointer must deliver a notice to the administrator of the filing of the notice of appointment as soon as reasonably practicable.
 
-(8) The copy of the [^key-48032cb5daf9b1785e3dfabf83e16678]... emailed notice of appointment as received by the Courts Service must be delivered by the Lord Chancellor as soon as reasonably practicable to the court specified in the notice as the court having jurisdiction in the case, to be placed on the relevant court file.
+(8) The copy of the [^c-48032cb5daf9b1785e3dfabf83e16678]... emailed notice of appointment as received by the Courts Service must be delivered by the Lord Chancellor as soon as reasonably practicable to the court specified in the notice as the court having jurisdiction in the case, to be placed on the relevant court file.
 
 (9) The appointer must take to the court on the next occasion that the court is open for business—
 
-- (a) three copies of the [^key-46b585237665f70188ebf130f31dc2a1]... emailed notice of appointment;
-- (b) the [^key-8424e8329973946a59eab380c2d81cc1]... hard copy required by paragraph (5);
+- (a) three copies of the [^c-46b585237665f70188ebf130f31dc2a1]... emailed notice of appointment;
+- (b) the [^c-8424e8329973946a59eab380c2d81cc1]... hard copy required by paragraph (5);
 - (c) all supporting documents referred to in the notice in accordance with rule 3.21(1) which are in the appointer's possession; and
 - (d) a statement providing reasons for the out-of-hours filing of the notice of appointment, including why it would have been damaging to the company or its creditors not to have so acted.
 
 (10) The copies of the notice must be sealed by the court and endorsed with—
 
-- (a)[^key-09a4809db71de7a687e57d8c02c5ce3c] the date and time when, according to the appointer’s hard copy of the email, the notice was sent; and
+- (a)[^c-09a4809db71de7a687e57d8c02c5ce3c] the date and time when, according to the appointer’s hard copy of the email, the notice was sent; and
 - (b) the date when the notice and accompanying documents were delivered to the court.
 
 (11) The court must deliver two of the sealed copies of the notice of appointment to the appointer.
@@ -414,17 +414,17 @@ Where the court makes an administration order in relation to a company on an app
 - (d) a statement that the appointer is the holder of the qualifying floating charge in question and that it is now enforceable;
 - (e) details of the charge, the date upon which it was registered and the maximum amount secured by the charge;
 - (f) one of the following statements—
-  - (i) that notice has been given in accordance with paragraph 15(1)(a) of Schedule B1 to the holder of every prior floating charge which satisfies paragraph 14(2) of that Schedule, that a copy of every such notice was filed with the court under paragraph 44(2) of that Schedule, the date of that filing (or the latest date of filing if more than one) and that two business days have elapsed since notice was given under paragraph 15(1)(a) of Schedule B1[^key-ebfa4b986332b3bef97e6250bf8812a9],
+  - (i) that notice has been given in accordance with paragraph 15(1)(a) of Schedule B1 to the holder of every prior floating charge which satisfies paragraph 14(2) of that Schedule, that a copy of every such notice was filed with the court under paragraph 44(2) of that Schedule, the date of that filing (or the latest date of filing if more than one) and that two business days have elapsed since notice was given under paragraph 15(1)(a) of Schedule B1[^c-ebfa4b986332b3bef97e6250bf8812a9],
   - (ii) that notice has been given in accordance with paragraph 15(1)(a) of Schedule B1 to the holder of every prior floating charge which satisfies paragraph 14(2) of that Schedule and that a copy of every such notice is in the appointer's possession but was not filed with the court under paragraph 44(2) of that Schedule,
-  - (iii) that the holder of every such floating charge to whom notice was given has consented to the making of the appointment and that a copy of every consent in writing[^key-fd1efa8427c5bcf569c98eef2431b7fc] is in the appointer's possession,
-  - (iv) that the holder of every such floating charge has consented to the making of the appointment without notice having been given to all and that a copy of every consent in writing[^key-b11dd69cd27350de02e0de5124ea9ae9] is in the appointer's possession, or
+  - (iii) that the holder of every such floating charge to whom notice was given has consented to the making of the appointment and that a copy of every consent in writing[^c-fd1efa8427c5bcf569c98eef2431b7fc] is in the appointer's possession,
+  - (iv) that the holder of every such floating charge has consented to the making of the appointment without notice having been given to all and that a copy of every consent in writing[^c-b11dd69cd27350de02e0de5124ea9ae9] is in the appointer's possession, or
   - (v) that there is no such floating charge;
 - (g) a statement whether the company is or is not subject to insolvency proceedings at the date of the notice, and details of the proceedings if it is;
-- (h) a statement whether the company is an Article 1.2 undertaking [^key-d892f904389c38d4f697abf5a3edcad6]...;
-- (i) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-02c308c4ba15c8856d5704ca1798658a] and that a statement of the reasons for stating this is in the appointer’s possession[^key-365c1dde33cf7969330a305395b7a12b];
+- (h) a statement whether the company is an Article 1.2 undertaking [^c-d892f904389c38d4f697abf5a3edcad6]...;
+- (i) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-02c308c4ba15c8856d5704ca1798658a] and that a statement of the reasons for stating this is in the appointer’s possession[^c-365c1dde33cf7969330a305395b7a12b];
 - (j) an undertaking that the following will be delivered to the court on the next occasion on which the court is open—
   - (i) any document referred to in the notice in accordance with rule 3.20 as being in the appointer's possession,
-  - (ii) the [^key-8272f0f9b0266e82b77b852b77505bde]... hard copy of the email, and
+  - (ii) the [^c-8272f0f9b0266e82b77b852b77505bde]... hard copy of the email, and
   - (iii) the statement of reasons for out-of-hours filing;
 - (k) a statement that the proposed administrator consents to act; and
 - (l) a statement that the appointment is in accordance with Schedule B1.
@@ -444,10 +444,10 @@ Where the court makes an administration order in relation to a company on an app
 
 (2) The appointment—
 
-- (a) takes effect from the date and time of the [^key-6543cda52c44e52dc71b2acf9ee37c84]... sending of the email; but
+- (a) takes effect from the date and time of the [^c-6543cda52c44e52dc71b2acf9ee37c84]... sending of the email; but
 - (b) ceases to have effect if the requirements of rule 3.20(9) are not completed on the next occasion the court is open for business.
 
-(3) Where any question arises in relation to the date and time that the notice of appointment was filed with the court, it is a presumption capable of rebuttal that the date and time shown on the appointer's [^key-beab569d8d6a414623440fe3a11ef7ae]... hard copy of the email is the date and time at which the notice was filed.
+(3) Where any question arises in relation to the date and time that the notice of appointment was filed with the court, it is a presumption capable of rebuttal that the date and time shown on the appointer's [^c-beab569d8d6a414623440fe3a11ef7ae]... hard copy of the email is the date and time at which the notice was filed.
 
 ## 3.23. Notice of intention to appoint
 
@@ -462,14 +462,14 @@ Where the court makes an administration order in relation to a company on an app
 - (e) a statement that each of those persons is or may be entitled to appoint—
   - (i) an administrative receiver of the company, or
   - (ii) an administrator of the company under paragraph 14 of Schedule B1;
-- (ea)[^key-1b6660595fa81565261b3547c66508e8] a statement as to whether there is a moratorium in force for the company under Part A1 of the Act;
-- (f)[^key-208711e36fc849b5125a4d416bdddd63] a statement that the company has not within the preceding 12 months been in administration;
+- (ea)[^c-1b6660595fa81565261b3547c66508e8] a statement as to whether there is a moratorium in force for the company under Part A1 of the Act;
+- (f)[^c-208711e36fc849b5125a4d416bdddd63] a statement that the company has not within the preceding 12 months been in administration;
 - (g) a statement that in relation to the company there is no—
   - (i) petition for winding up which has been presented but not yet disposed of,
   - (ii) administration application which has not yet been disposed of, or
   - (iii) administrative receiver in office;
 - (h) a statement whether the company is an Article 1.2 undertaking;
-- (i) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-a09e3f040b734b13c52d50fe0118b6df] and the reasons for so stating;
+- (i) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-a09e3f040b734b13c52d50fe0118b6df] and the reasons for so stating;
 - (j) a statement that the notice is accompanied (as appropriate) by either—
   - (i) a copy of the resolution of the company to appoint an administrator, or
   - (ii) a record of the decision of the directors to appoint an administrator; and
@@ -482,7 +482,7 @@ Where the court makes an administration order in relation to a company on an app
 
 (3) The giving of notice under paragraph 26(1) of Schedule B1 must be by service of the notice.
 
-(4) If notice of intention to appoint is given under paragraph 26(1) of Schedule B1, a copy of the notice under paragraph 26(2) [^c23175561] must be sent[^key-d96a5e36542770d77184051d96956f39] at the same time to—
+(4) If notice of intention to appoint is given under paragraph 26(1) of Schedule B1, a copy of the notice under paragraph 26(2) [^c23175561] must be sent[^c-d96a5e36542770d77184051d96956f39] at the same time to—
 
 - (a) any enforcement agent or other officer who, to the knowledge of the person giving the notice, is charged with distress or other legal process against the company;
 - (b) any person who, to the knowledge of the person giving the notice, has distrained against the company or its property;
@@ -509,11 +509,11 @@ Where the court makes an administration order in relation to a company on an app
 - (e) a statement that the company is, or the directors are, as the case may be, entitled to make an appointment under paragraph 22 of Schedule B1;
 - (f) a statement that the appointment is in accordance with Schedule B1;
 - (g) a statement whether the company is an Article 1.2 undertaking;
-- (h) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-5ad2375b9b9c65325d519991cd0ca2a6] and the reasons for so stating;
+- (h) a statement whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-5ad2375b9b9c65325d519991cd0ca2a6] and the reasons for so stating;
 - (i) a statement that the company has, or the directors have, as the case may be, given notice of their intention to appoint in accordance with paragraph 26(1) of Schedule B1, that a copy of the notice was filed with the court, the date of that filing and either—
-  - (i) that five business days have elapsed since notice was given under paragraph 26(1) of Schedule B1[^key-382c289a0fa219a3f550f096964fd198], or
-  - (ii) that each person to whom the notice was given has consented to the appointment.[^key-7820fcaa47181047e419538c770d281d]
-- (j)[^key-b0328fc3d91e603e881eeafe569ecb29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) that five business days have elapsed since notice was given under paragraph 26(1) of Schedule B1[^c-382c289a0fa219a3f550f096964fd198], or
+  - (ii) that each person to whom the notice was given has consented to the appointment.[^c-7820fcaa47181047e419538c770d281d]
+- (j)[^c-b0328fc3d91e603e881eeafe569ecb29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where two or more administrators are appointed the notice must also specify (as required by paragraph 100(2) of Schedule B1)—
 
@@ -537,18 +537,18 @@ Where the court makes an administration order in relation to a company on an app
 - (c) that a copy of the administrator's consent to act accompanies the notice;
 - (d) that the company is or the directors are, as the case may be, entitled to make an appointment under paragraph 22 of Schedule B1;
 - (e) that the appointment is in accordance with Schedule B1;
-- (ea)[^key-92ba436a12e91cfa93b3263ebf53f1c7] a statement as to whether there is a moratorium in force for the company under Part A1 of the Act;
-- (f)[^key-37ee4d70c278d1784d2a168679b7dd68] a statement that the company has not within the preceding 12 months been in administration;
+- (ea)[^c-92ba436a12e91cfa93b3263ebf53f1c7] a statement as to whether there is a moratorium in force for the company under Part A1 of the Act;
+- (f)[^c-37ee4d70c278d1784d2a168679b7dd68] a statement that the company has not within the preceding 12 months been in administration;
 - (g) that in relation to the company there is no—
   - (i) petition for winding up which has been presented but not yet disposed of,
   - (ii) administration application which has not yet been disposed of, or
   - (iii) administrative receiver in office;
 - (h) whether the company is an Article 1.2 undertaking;
-- (i) whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-a52a9bba68b4507060848b71695b98e4] and the reasons for so stating;
+- (i) whether the proceedings flowing from the appointment will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-a52a9bba68b4507060848b71695b98e4] and the reasons for so stating;
 - (j) that the notice is accompanied by—
   - (i) a copy of the resolution of the company to appoint an administrator, or
-  - (ii) a record of the decision of the directors to appoint an administrator.[^key-693811b4b3cf5cb3099d3d44be86dbd9]
-- (k)[^key-352a749bc098f93ebf3e090c97ea090e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) a record of the decision of the directors to appoint an administrator.[^c-693811b4b3cf5cb3099d3d44be86dbd9]
+- (k)[^c-352a749bc098f93ebf3e090c97ea090e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where two or more administrators are appointed the notice must also specify (as required by paragraph 100(2) of Schedule B1)—
 
@@ -578,11 +578,11 @@ Where the court makes an administration order in relation to a company on an app
 
 (4) The appointer must as soon as reasonably practicable deliver one of the sealed copies to the administrator.
 
-## 3.27. Publication of administrator's appointment[^key-903abb18ea6e8c51fd557f7ec069b5ed][^key-ed29fa52b1f3a140fdab40a391831d19]
+## 3.27. Publication of administrator's appointment[^c-903abb18ea6e8c51fd557f7ec069b5ed][^c-ed29fa52b1f3a140fdab40a391831d19]
 
 *Extent: E+W*
 
-[^key-ed29fa52b1f3a140fdab40a391831d19]
+[^c-ed29fa52b1f3a140fdab40a391831d19]
 
 (1) The notice of appointment, to be published by the administrator as soon as reasonably practicable after appointment under paragraph 46(2)(b) of Schedule B1, must be gazetted and may be advertised in such other manner as the administrator thinks fit.
 
@@ -594,7 +594,7 @@ Where the court makes an administration order in relation to a company on an app
 
 (3) The administrator must, as soon as reasonably practicable after the date specified in paragraph 46(6) of Schedule B1, deliver a notice of the appointment—
 
-- (za)[^key-11f8afdcc35286747824085419a8cb7b] if there is a moratorium in force for the company under Part A1 of the Act, to the monitor;
+- (za)[^c-11f8afdcc35286747824085419a8cb7b] if there is a moratorium in force for the company under Part A1 of the Act, to the monitor;
 - (a) if a receiver or an administrative receiver has been appointed, to that person;
 - (b) if there is pending a petition for the winding up of the company, to the petitioner (and also to the provisional liquidator, if any);
 - (c) to any enforcement officer, enforcement agent or other officer who, to the administrator's knowledge, is charged with distress or other legal process against the company or its property;
@@ -609,7 +609,7 @@ Where the court makes an administration order in relation to a company on an app
 
 (5) The notice must be authenticated and dated by the administrator.
 
-## 3.28. Interpretation[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.28. Interpretation[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -618,7 +618,7 @@ In this Chapter—
 - “**nominated person**” means a relevant person who has been required by the administrator to make out and deliver to the administrator a statement of affairs; and
 - “**relevant person**” means a person mentioned in paragraph 47(3) of Schedule B1.
 
-## 3.29.[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.29.[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -629,14 +629,14 @@ In this Chapter—
 - (a) require each nominated person to whom the notice is delivered to prepare and submit to the administrator a statement of the affairs of the company;
 - (b) inform each nominated person of—
   - (i) the names and addresses of all others (if any) to whom the same notice has been delivered,
-  - (ii)[^key-1aa3aaaca4862fce84b99feb07c89e87] the requirement to deliver the statement of affairs to the administrator no later than eleven days after receipt of the notice requiring the statement of affairs;
+  - (ii)[^c-1aa3aaaca4862fce84b99feb07c89e87] the requirement to deliver the statement of affairs to the administrator no later than eleven days after receipt of the notice requiring the statement of affairs;
   - (iii) the effect of paragraph 48(4) of Schedule B1 (penalty for non-compliance) and section 235 (duty to co-operate with the office-holder).
 
 (3) The administrator must inform each nominated person to whom notice is delivered that a document for the preparation of the statement of affairs capable of completion in compliance with rule 3.30 will be supplied if requested.
 
 (4) The nominated person (or one of them, if more than one) must deliver the statement of affairs to the administrator with the statement of truth required by paragraph 47(2)(a) of Schedule B1 and a copy of each statement.
 
-## 3.30.[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.30.[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -645,7 +645,7 @@ In this Chapter—
 - (a) identify the company immediately below the heading; and
 - (b) state that it is a statement of the affairs of the company on a specified date, being the date on which it entered administration.
 
-(2) The statement of affairs must contain (in addition to the matters required by paragraph 47(2) of Schedule B1) the following, and, in addition, where paragraph (2B) applies, the information specified in that paragraph[^key-0bb65a70d69a559572439dcc682496c7]—
+(2) The statement of affairs must contain (in addition to the matters required by paragraph 47(2) of Schedule B1) the following, and, in addition, where paragraph (2B) applies, the information specified in that paragraph[^c-0bb65a70d69a559572439dcc682496c7]—
 
 - (a) a summary of the assets of the company, setting out the book value and the estimated realisable value of—
   - (i) any assets subject to a fixed charge,
@@ -668,7 +668,7 @@ In this Chapter—
   - (ii) any creditors claiming retention of title over property in the company's possession; and
 - (d) the name and address of each member of the company and the number, nominal value and other details of the shares held by each member.
 
-(2A)[^key-0efd91acd19978c6d76a9d62b17edfdd] Paragraph (2B) applies if a moratorium under Part A1 of the Act is, or has been, in force for the company at any time within the period of 12 weeks ending with the day on which it entered administration.
+(2A)[^c-0efd91acd19978c6d76a9d62b17edfdd] Paragraph (2B) applies if a moratorium under Part A1 of the Act is, or has been, in force for the company at any time within the period of 12 weeks ending with the day on which it entered administration.
 
 (2B) Where this paragraph applies the statement of affairs must identify which of the debts owed by the company are—
 
@@ -700,7 +700,7 @@ within the meaning given by section 174A; and
 - (a) the statement of affairs itself must state separately for each of paragraph (5)(a) and (b) the number of such creditors and the total of the debts owed to them; and
 - (b) the particulars required by paragraph (4) must be set out in separate schedules to the statement of affairs for each of paragraphs (5)(a) and (b).
 
-## 3.31. Statement of affairs: statement of concurrence[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.31. Statement of affairs: statement of concurrence[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -722,7 +722,7 @@ within the meaning given by section 174A; and
 
 (6) The relevant person must deliver the required statement of concurrence together with a copy to the administrator before the end of the period of five business days (or such other period as the administrator may agree) beginning with the day on which the relevant person receives the statement of affairs.
 
-## 3.32. Statement of affairs: filing[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.32. Statement of affairs: filing[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -735,7 +735,7 @@ within the meaning given by section 174A; and
 
 (3) The requirement to deliver the statement of affairs is subject to any order of the court made under rule 3.45 that the statement of affairs or a specified part must not be delivered to the registrar of companies.
 
-## 3.33. Statement of affairs: release from requirement and extension of time[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.33. Statement of affairs: release from requirement and extension of time[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -760,7 +760,7 @@ within the meaning given by section 174A; and
 
 (9) On an application under this rule, the applicant's costs must be paid by the applicant in any event, but the court may order that an allowance of all or part of them be payable as an expense of the administration.
 
-## 3.34. Statement of affairs: expenses[^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.34. Statement of affairs: expenses[^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
@@ -768,11 +768,11 @@ within the meaning given by section 174A; and
 
 (2) A decision by the administrator that expenses were not reasonably incurred (and are therefore not payable as an expense of the administration) may be appealed to the court.
 
-## 3.35. Administrator's proposals: additional content[^key-4bb58599de43bdf9fcbad0d5cd3faa98][^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.35. Administrator's proposals: additional content[^c-4bb58599de43bdf9fcbad0d5cd3faa98][^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) The administrator's statement of proposals made under paragraph 49 of Schedule B1 [^c23175571] (which is required by paragraph 49(4) to be delivered to the registrar of companies, creditors and members) must identify the proceedings and, in addition to the matters set out in paragraph 49, contain—
 
@@ -783,7 +783,7 @@ within the meaning given by section 174A; and
   - (iii) where a number of persons have been appointed as administrators, details of the matters set out in paragraph 100(2) of Schedule B1 relating to the exercise of their functions;
 - (c) the names of the directors and secretary of the company and details of any shareholdings in the company which they may have;
 - (d) an account of the circumstances giving rise to the appointment of the administrator;
-- (da)[^key-58a0f7d7a9245b39bdcccb9c4e555272] a statement as to whether a moratorium under Part A1 of the Act has been in force for the company at any time within the period of 2 years ending with the day on which it entered administration and, if so—
+- (da)[^c-58a0f7d7a9245b39bdcccb9c4e555272] a statement as to whether a moratorium under Part A1 of the Act has been in force for the company at any time within the period of 2 years ending with the day on which it entered administration and, if so—
   - (i) the date on which it came into force,
   - (ii) the date on which it ended, and
   - (iii) particulars of the purposes for which it was entered into and whether, and to what extent, those purposes were achieved;
@@ -796,7 +796,7 @@ within the meaning given by section 174A; and
   - (i) a statement of that fact, and
   - (ii) the date of the order;
 - (h) if no statement of affairs has been submitted—
-  - (i) details of the financial position of the company (as to which see paragraph (1A))[^key-93e84be0e3e3045ab91b268fc0272e5b] at the latest practicable date (which must, unless the court orders otherwise, be a date not earlier than that on which the company entered administration), and
+  - (i) details of the financial position of the company (as to which see paragraph (1A))[^c-93e84be0e3e3045ab91b268fc0272e5b] at the latest practicable date (which must, unless the court orders otherwise, be a date not earlier than that on which the company entered administration), and
   - (ii) an explanation as to why there is no statement of affairs;
 - (i) a full list of the company's creditors in accordance with paragraph (2) if either—
   - (i) no statement of affairs has been submitted, or
@@ -813,10 +813,10 @@ within the meaning given by section 174A; and
 - (l) the manner in which the affairs and business of the company—
   - (i) have, since the date of the administrator's appointment, been managed and financed, including, where any assets have been disposed of, the reasons for the disposals and the terms upon which the disposals were made, and
   - (ii) will, if the administrator's proposals are approved, continue to be managed and financed;
-- (m) a statement whether the proceedings are COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-4a615d25e8d891f45c2ff443ab1755a5]; and
+- (m) a statement whether the proceedings are COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-4a615d25e8d891f45c2ff443ab1755a5]; and
 - (n) any other information that the administrator thinks necessary to enable creditors to decide whether or not to approve the proposals.
 
-(1A)[^key-82fe74bf0d84069e948b887b1ac15900] For the purposes of paragraph (1)(h)(i) if a moratorium has been in force at any time within the period of 12 weeks ending with the day on which the company entered administration then the details of the financial position of the company must identify which of the debts owed by the company are—
+(1A)[^c-82fe74bf0d84069e948b887b1ac15900] For the purposes of paragraph (1)(h)(i) if a moratorium has been in force at any time within the period of 12 weeks ending with the day on which the company entered administration then the details of the financial position of the company must identify which of the debts owed by the company are—
 
 - (a) moratorium debts, and
 - (b) priority pre-moratorium debts,
@@ -864,11 +864,11 @@ within the meaning given by section 174A.
   - (i) subject to approval under rule 3.52, and
   - (ii) not part of the proposals subject to approval under paragraph 53 [^c23175581] of Schedule B1.
 
-## 3.36. Administrator's proposals: statement of pre-administration costs[^key-4bb58599de43bdf9fcbad0d5cd3faa98][^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.36. Administrator's proposals: statement of pre-administration costs[^c-4bb58599de43bdf9fcbad0d5cd3faa98][^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
@@ -884,11 +884,11 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 - (f) the identity of the person who made the payment or, if more than one person made the payment, the identity of each such person and of the amounts paid by each such person set out separately as under sub-paragraph (d); and
 - (g) a statement of the amounts of unpaid pre-administration costs (set out separately as under sub-paragraph (d)).
 
-## 3.37. Advertising administrator's proposals and notices of extension of time for delivery of proposals (paragraph 49 of Schedule B1)[^key-4bb58599de43bdf9fcbad0d5cd3faa98][^key-aa7f395d8e7b91260f040d1fb310c61b]
+## 3.37. Advertising administrator's proposals and notices of extension of time for delivery of proposals (paragraph 49 of Schedule B1)[^c-4bb58599de43bdf9fcbad0d5cd3faa98][^c-aa7f395d8e7b91260f040d1fb310c61b]
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) A notice published by the administrator under paragraph 49(6) of Schedule B1 must—
 
@@ -908,7 +908,7 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 - (b) state the date to which the court has ordered an extension; and
 - (c) contain the registered office of the company.
 
-(4) The administrator is taken to comply with paragraph (2)(b)[^key-ad9536c60ac56d88d8b58bd223802565] if the administrator publishes a notice complying with paragraph (5).
+(4) The administrator is taken to comply with paragraph (2)(b)[^c-ad9536c60ac56d88d8b58bd223802565] if the administrator publishes a notice complying with paragraph (5).
 
 (5) The notice must—
 
@@ -921,7 +921,7 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) This rule applies where the administrator is required by paragraph 51 of Schedule B1 [^c23175591] to seek approval from the company's creditors of the statement of proposals made under paragraph 49 of that Schedule.
 
@@ -946,7 +946,7 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) Where the administrator is required to seek a decision from the company's creditors under rule 3.38, the administrator must at the same time deliver to the creditors a notice inviting them to decide whether a creditors' committee should be established if sufficient creditors are willing to be members of the committee.
 
@@ -963,7 +963,7 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) Where the court orders an extension to the period set out in paragraph 51(2) of Schedule B1, the administrator must deliver a notice of the extension as soon as reasonably practicable to each person mentioned in paragraph 49(4) of Schedule B1.
 
@@ -981,7 +981,7 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) In addition to delivering a report to the court and the registrar of companies (in accordance with paragraph 53(2) of Schedule B1) the administrator must deliver a report to—
 
@@ -996,11 +996,11 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
 (3) A copy of the statement of proposals, with any statements required by rule 3.35(9) and (10), must accompany the report to the court.
 
-## 3.42. Administrator's proposals: revision[^key-4bb58599de43bdf9fcbad0d5cd3faa98][^key-9cb8bde4fc6ad0671b88e06d1f0be614]
+## 3.42. Administrator's proposals: revision[^c-4bb58599de43bdf9fcbad0d5cd3faa98][^c-9cb8bde4fc6ad0671b88e06d1f0be614]
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) Where paragraph 54(1) of Schedule B1 [^c23175621] applies, the statement of the proposed revision which is required to be delivered to the creditors must be delivered with a notice of the decision procedure in accordance with rule 15.8.
 
@@ -1028,13 +1028,13 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 - (a) be advertised in such manner as the administrator thinks fit as soon as reasonably practicable after the administrator has sent the statement to the creditors; and
 - (b) state that members may request in writing a copy of the proposed revision, and state the address to which to write.
 
-(6)[^key-129a5eabd9226dd6e4ea6365622fc76e] A copy of the statement of revised proposals under rule 3.43(3) must be delivered to the registrar of companies not later than five days after the report under rule 3.43(1) is delivered.
+(6)[^c-129a5eabd9226dd6e4ea6365622fc76e] A copy of the statement of revised proposals under rule 3.43(3) must be delivered to the registrar of companies not later than five days after the report under rule 3.43(1) is delivered.
 
 ## 3.43. Notice of result of creditors' decision on revised proposals (paragraph 54(6))
 
 *Extent: E+W*
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]
 
 (1) In addition to delivering a report to the court and the registrar of companies (in accordance with paragraph 54(6) of Schedule B1) the administrator must deliver a report to—
 
@@ -1050,13 +1050,13 @@ A statement of pre-administration costs under rule 3.35(10)(a) must include—
 
 (3) A copy of the statement of revised proposals must accompany the notice to the court.
 
-## 3.44. Application of Chapter[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.44. Application of Chapter[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
 This Chapter applies to the disclosure of information which would be likely to prejudice the conduct of the administration or might reasonably be expected to lead to violence against any person.
 
-## 3.45. Orders limiting disclosure of statement of affairs etc.[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.45. Orders limiting disclosure of statement of affairs etc.[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1081,7 +1081,7 @@ the administrator may apply to the court for an order in relation to the particu
 - (a) the statement of proposals to the extent provided by the order; and
 - (b) an indication of the nature of the matter in relation to which the order was made.
 
-## 3.46. Order for disclosure by administrator[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.46. Order for disclosure by administrator[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1098,7 +1098,7 @@ the administrator may apply to the court for an order in relation to the particu
 
 (4) In an order for disclosure, the court may include conditions as to confidentiality, duration, the scope of the order in the event of any change of circumstances or such other matters as it thinks just.
 
-## 3.47. Rescission or amendment of order for limited disclosure[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.47. Rescission or amendment of order for limited disclosure[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1111,7 +1111,7 @@ the administrator may apply to the court for an order in relation to the particu
 
 (3) If the order relates to the statement of proposals, the administrator must as soon as reasonably practicable also deliver to the creditors and members the statement of proposals to the extent allowed by the order.
 
-## 3.48. Publication etc. of statement of affairs or statement of proposals[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.48. Publication etc. of statement of affairs or statement of proposals[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1130,7 +1130,7 @@ the administrator may apply to the court for an order in relation to the particu
 - (c) state the address to which to such a written request is to be made; and
 - (d) be published as soon as reasonably practicable after the administrator has delivered the statement of proposals to the extent provided by the order to the company's creditors.
 
-## 3.49. Disposal of charged property[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.49. Disposal of charged property[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1150,7 +1150,7 @@ the administrator may apply to the court for an order in relation to the particu
 - (a) one of the sealed copies to the holder of the security or the owner of the goods; and
 - (b) a copy of the sealed order to the registrar of companies.
 
-## 3.50. Expenses[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.50. Expenses[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1162,13 +1162,13 @@ the administrator may apply to the court for an order in relation to the particu
 
 (4) For the purposes of paragraph 99 of Schedule B1, a former administrator's remuneration and expenses comprise all the items in rule 3.51(2).
 
-(5)[^key-34a6a0b4a73c1e3749fbc1a4bf5e21e3] The costs of an application by the administrator under rule 1A.27 are to be treated as an expense of the administration unless the court orders otherwise.
+(5)[^c-34a6a0b4a73c1e3749fbc1a4bf5e21e3] The costs of an application by the administrator under rule 1A.27 are to be treated as an expense of the administration unless the court orders otherwise.
 
-## 3.51. Order of priority[^key-f3b362af6750939805f753241f075a14][^key-56d739ea49b1855be9819b9a59784b35]
+## 3.51. Order of priority[^c-f3b362af6750939805f753241f075a14][^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
-(1)[^key-80e6ffe17563187585a75ede2ac3a5ee] Where paragraph 64A or paragraph 99(1) of Schedule B1 applies, the items specified in paragraph 64A or paragraph 99 (as the case may be) are payable in priority to the expenses in this rule.
+(1)[^c-80e6ffe17563187585a75ede2ac3a5ee] Where paragraph 64A or paragraph 99(1) of Schedule B1 applies, the items specified in paragraph 64A or paragraph 99 (as the case may be) are payable in priority to the expenses in this rule.
 
 (2) Subject to paragraph (1) and to any court order under paragraph (3) the expenses of the administration are payable in the following order of priority—
 
@@ -1180,14 +1180,14 @@ the administrator may apply to the court for an order in relation to the particu
   - (ii) the costs and expenses incurred by any other person in giving notice of intention to appoint an administrator;
 - (e) any amount payable to a person in respect of assistance in the preparation of a statement of affairs or statement of concurrence;
 - (f) any allowance made by order of the court in respect of the costs on an application for release from the obligation to submit a statement of affairs or deliver a statement of concurrence;
-- (g) any necessary disbursements by the administrator in the course of the administration (including any [^key-b94f15f995718a35dd75e9b8c7f60217]... expenses incurred by members of the creditors' committee or their representatives and allowed for by the administrator under rule 17.24, but not including any payment of corporation tax in circumstances referred to in sub-paragraph (j) below);
+- (g) any necessary disbursements by the administrator in the course of the administration (including any [^c-b94f15f995718a35dd75e9b8c7f60217]... expenses incurred by members of the creditors' committee or their representatives and allowed for by the administrator under rule 17.24, but not including any payment of corporation tax in circumstances referred to in sub-paragraph (j) below);
 - (h) the remuneration or emoluments of any person who has been employed by the administrator to perform any services for the company, as required or authorised under the Act or these Rules;
 - (i) the administrator's remuneration the basis of which has been fixed under Part 18 and unpaid pre-administration costs approved under rule 3.52; and
 - (j) the amount of any corporation tax on chargeable gains accruing on the realisation of any asset of the company (irrespective of the person by whom the realisation is effected).
 
 (3) If the assets are insufficient to satisfy the liabilities, the court may make an order as to the payment out of the assets of the expenses incurred in the administration in such order of priority as the court thinks just.
 
-## 3.52. Pre-administration costs[^key-56d739ea49b1855be9819b9a59784b35]
+## 3.52. Pre-administration costs[^c-56d739ea49b1855be9819b9a59784b35]
 
 *Extent: E+W*
 
@@ -1324,7 +1324,7 @@ the administrator may apply to the court for an order in relation to the particu
 
 (11) The Gazette notice may be advertised in such other manner as the administrator thinks fit.
 
-## 3.57. Administrator's application for order ending administration (paragraph 79 of Schedule B1)[^key-e55f93dff1f384cf7369053ef4071f62]
+## 3.57. Administrator's application for order ending administration (paragraph 79 of Schedule B1)[^c-e55f93dff1f384cf7369053ef4071f62]
 
 *Extent: E+W*
 
@@ -1361,7 +1361,7 @@ the administrator may apply to the court for an order in relation to the particu
 
 (3) Where the court makes an order under paragraph 81 ending the administration, the court must deliver a copy of the order to the administrator.
 
-## 3.59. Notice by administrator of court order[^key-d11c3321f14b3109179cfa9f691c8b4e][^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.59. Notice by administrator of court order[^c-d11c3321f14b3109179cfa9f691c8b4e][^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1371,7 +1371,7 @@ Where the court makes an order ending the administration, the administrator must
 - (b) the directors of the company; and
 - (c) all other persons to whom notice of the administrator's appointment was delivered.
 
-## 3.60.[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.60.[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1396,7 +1396,7 @@ Where the court makes an order ending the administration, the administrator must
 
 (7) Where the creditors nominate a different person, the nomination must, where applicable, include the declaration required by section 231.
 
-## 3.61. Moving from administration to dissolution (paragraph 84 of Schedule B1)[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.61. Moving from administration to dissolution (paragraph 84 of Schedule B1)[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1404,7 +1404,7 @@ Where the court makes an order ending the administration, the administrator must
 
 (2) The notice must identify the proceedings.
 
-(3) As soon as reasonably practicable after sending the notice, the administrator must deliver a copy of the notice to all persons to whom notice of the administrator's appointment was delivered (in addition to the creditors mentioned in paragraph 84(5)(b)) [^c23175671] but excluding opted-out creditors[^key-446e7b1fe55cf8b58ea32357ddaef66f].
+(3) As soon as reasonably practicable after sending the notice, the administrator must deliver a copy of the notice to all persons to whom notice of the administrator's appointment was delivered (in addition to the creditors mentioned in paragraph 84(5)(b)) [^c23175671] but excluding opted-out creditors[^c-446e7b1fe55cf8b58ea32357ddaef66f].
 
 (4) A final progress report must accompany the notice to the registrar of companies and every copy filed or otherwise delivered.
 
@@ -1412,7 +1412,7 @@ Where the court makes an order ending the administration, the administrator must
 
 (6) The administrator must deliver a copy of the order to the registrar of companies with the notice required by paragraph 84(8).
 
-## 3.62. Grounds for resignation[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.62. Grounds for resignation[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1426,7 +1426,7 @@ Where the court makes an order ending the administration, the administrator must
 
 (2) The administrator may, with the permission of the court, resign on other grounds.
 
-## 3.63. Notice of intention to resign[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.63. Notice of intention to resign[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1453,7 +1453,7 @@ Where the court makes an order ending the administration, the administrator must
 - (c) if there is neither a continuing administrator nor a creditors' committee, to—
   - (i) the company, and
   - (ii) the company's creditors;
-- (d)[^key-557895e90cb96047653218fd1573f567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-557895e90cb96047653218fd1573f567] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) where the administrator was appointed by the holder of a qualifying floating charge under paragraph 14 of Schedule B1, to—
   - (i) the person who appointed the administrator, and
   - (ii) all holders of prior qualifying floating charges;
@@ -1463,7 +1463,7 @@ Where the court makes an order ending the administration, the administrator must
 
 (5) The notice must be accompanied by a summary of the administrator's receipts and payments.
 
-## 3.64. Notice of resignation (paragraph 87 of Schedule B1)[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.64. Notice of resignation (paragraph 87 of Schedule B1)[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1486,7 +1486,7 @@ Where the court makes an order ending the administration, the administrator must
 
 (4) Where an administrator was appointed by an administration order, notice of resignation under paragraph 87(2)(a) of Schedule B1 must be given by filing the notice with the court.
 
-## 3.65. Application to court to remove administrator from office[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.65. Application to court to remove administrator from office[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1511,13 +1511,13 @@ Where the court makes an order ending the administration, the administrator must
   - (i) all other persons to whom notice of the application was delivered, and
   - (ii) the registrar of companies.
 
-## 3.66. Notice of vacation of office when administrator ceases to be qualified to act[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.66. Notice of vacation of office when administrator ceases to be qualified to act[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
 An administrator who has ceased to be qualified to act as an insolvency practitioner in relation to the company and gives notice in accordance with paragraph 89 of Schedule B1 must also deliver notice to the registrar of companies.
 
-## 3.67. Deceased administrator[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.67. Deceased administrator[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1539,7 +1539,7 @@ An administrator who has ceased to be qualified to act as an insolvency practiti
 - (c) the date of the appointment of the administrator; and
 - (d) the fact and date of death.
 
-## 3.68. Application to replace[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.68. Application to replace[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1555,7 +1555,7 @@ An administrator who has ceased to be qualified to act as an insolvency practiti
 - (f) if there is pending a petition for the winding up of the company, to —
   - (i) the petitioner, and
   - (ii) any provisional liquidator;
-- (g)[^key-b5e75bc721e7b13488023dc1636f98df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-b5e75bc721e7b13488023dc1636f98df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) to the company, if the application is made by anyone other than the company;
 - (i) to any supervisor of any CVA in relation to the company; and
 - (j) to the proposed administrator.
@@ -1564,7 +1564,7 @@ An administrator who has ceased to be qualified to act as an insolvency practiti
 
 (4) Rules 3.12, 3.13, and 3.15(1) and (2) apply to applications made under paragraph 91(1) and 95 of Schedule B1, with any necessary modifications.
 
-## 3.69. Appointment of replacement or additional administrator[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.69. Appointment of replacement or additional administrator[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1580,7 +1580,7 @@ Where a replacement administrator is appointed or an additional administrator is
 - (b) the replacement or additional administrator must deliver notice of the appointment to the registrar of companies; and
 - (c) all documents must clearly identify the appointment as of a replacement administrator or an additional administrator.
 
-## 3.70. Administrator's duties on vacating office[^key-00438fa141cb46fd81f6a9b8417ed971]
+## 3.70. Administrator's duties on vacating office[^c-00438fa141cb46fd81f6a9b8417ed971]
 
 *Extent: E+W*
 
@@ -1594,137 +1594,137 @@ Where a replacement administrator is appointed or an additional administrator is
 
 ## Annotations
 
-[^key-beaf7edfe3a149cc29510232e2c720d6]: Modification: [Rules 3.1-3.3](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [34](https://www.legislation.gov.uk/uksi/2024/229/rule/34), [35](https://www.legislation.gov.uk/uksi/2024/229/rule/35), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-beaf7edfe3a149cc29510232e2c720d6]: Modification: [Rules 3.1-3.3](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [34](https://www.legislation.gov.uk/uksi/2024/229/rule/34), [35](https://www.legislation.gov.uk/uksi/2024/229/rule/35), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23175541]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43); section 87A was inserted by [Criminal Justice Act 1988 (c.33)](https://www.legislation.gov.uk/ukpga/1988/33) and amended by [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), [Courts Act 2003 (c.39) and Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-bb72e5408a5f3bec2da0c14d7d1369b3]: Textual amendment: Words in [rule 3.3(2)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.3/2/h) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/54) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb72e5408a5f3bec2da0c14d7d1369b3]: Textual amendment: Words in [rule 3.3(2)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.3/2/h) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/54) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5fb30d99081a7578752ee384ac42a140]: Modification: [Rules 3.6-3.9](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [36](https://www.legislation.gov.uk/uksi/2024/229/rule/36), [37](https://www.legislation.gov.uk/uksi/2024/229/rule/37), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-5fb30d99081a7578752ee384ac42a140]: Modification: [Rules 3.6-3.9](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [36](https://www.legislation.gov.uk/uksi/2024/229/rule/36), [37](https://www.legislation.gov.uk/uksi/2024/229/rule/37), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-c244001f55a202034ec22e5b0f1e7f2b]: Textual amendment: Words in [rule 3.6(3)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.6/3/f) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/55) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c244001f55a202034ec22e5b0f1e7f2b]: Textual amendment: Words in [rule 3.6(3)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.6/3/f) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/55) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2decf726d9c2eac7d7882d38006ce2f]: Textual amendment: [Rule 3.8(3)(za)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.8/3/za) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [18](https://www.legislation.gov.uk/uksi/2021/1028/rule/18) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-f2decf726d9c2eac7d7882d38006ce2f]: Textual amendment: [Rule 3.8(3)(za)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.8/3/za) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [18](https://www.legislation.gov.uk/uksi/2021/1028/rule/18) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-7d05943fee8f755c6291c2cee34d5b21]: Textual amendment: [Rule 3.8(3)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.8/3/c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/56) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d05943fee8f755c6291c2cee34d5b21]: Textual amendment: [Rule 3.8(3)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.8/3/c) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/56) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-061963c4d36940151577e11b717576d8]: Textual amendment: Words in [rule 3.10(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.10/b) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/57) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-061963c4d36940151577e11b717576d8]: Textual amendment: Words in [rule 3.10(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.10/b) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 57](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/57) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4c9920e221fcc7c4b3189de335870822]: Modification: [Rules 3.12](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.12), [3.13](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.13) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [38](https://www.legislation.gov.uk/uksi/2024/229/rule/38), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-4c9920e221fcc7c4b3189de335870822]: Modification: [Rules 3.12](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.12), [3.13](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.13) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [38](https://www.legislation.gov.uk/uksi/2024/229/rule/38), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-bd93dd0bbd18cc2483e79ef14fd70174]: Modification: Rule 3.12(1) modified (23.4.2019) by [S.I. 2010/3023](https://www.legislation.gov.uk/uksi/2010/3023), [art. 3](https://www.legislation.gov.uk/uksi/2010/3023/article/3) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/8/2))
+[^c-bd93dd0bbd18cc2483e79ef14fd70174]: Modification: Rule 3.12(1) modified (23.4.2019) by [S.I. 2010/3023](https://www.legislation.gov.uk/uksi/2010/3023), [art. 3](https://www.legislation.gov.uk/uksi/2010/3023/article/3) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/755/regulation/8/2))
 
-[^key-a75254777d286124f16bf0e2de6782ad]: Textual amendment: [Rule 3.12(1)(ca)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.12/1/ca) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [19](https://www.legislation.gov.uk/uksi/2021/1028/rule/19) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-a75254777d286124f16bf0e2de6782ad]: Textual amendment: [Rule 3.12(1)(ca)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.12/1/ca) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [19](https://www.legislation.gov.uk/uksi/2021/1028/rule/19) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-ca9eda28907f5f7f40b3e0961899ae52]: Textual amendment: [Rule 3.12(1)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.12/1/g) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/58) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca9eda28907f5f7f40b3e0961899ae52]: Textual amendment: [Rule 3.12(1)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.12/1/g) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 58](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/58) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c3d087ddc0a54a5213c12987638d107]: Textual amendment: Words in rule 3.13(1)(h)(i) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [23(7)](https://www.legislation.gov.uk/uksi/2017/1115/rule/23/7)
+[^c-0c3d087ddc0a54a5213c12987638d107]: Textual amendment: Words in rule 3.13(1)(h)(i) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [23(7)](https://www.legislation.gov.uk/uksi/2017/1115/rule/23/7)
 
-[^key-ad768ee90b4f62f032dae3e50c9a0f9f]: Textual amendment: Words in [rule 3.13(1)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.13/1/h) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 59(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/59/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad768ee90b4f62f032dae3e50c9a0f9f]: Textual amendment: Words in [rule 3.13(1)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.13/1/h) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 59(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/59/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ca2bd2625abb3aca8e66de29b96111fc]: Textual amendment: Words in [rule 3.13(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.13/1/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 59(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/59/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca2bd2625abb3aca8e66de29b96111fc]: Textual amendment: Words in [rule 3.13(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.13/1/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 59(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/59/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-794951ff2d7e8de5b3fb4409b36091b7]: Modification: [Rule 3.15](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.15) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [39](https://www.legislation.gov.uk/uksi/2024/229/rule/39), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-794951ff2d7e8de5b3fb4409b36091b7]: Modification: [Rule 3.15](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.15) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [39](https://www.legislation.gov.uk/uksi/2024/229/rule/39), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-17aa150946d27d3292dcfa89a98e22c5]: Textual amendment: Words in [rule 3.16(2)(k)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.16/2/k) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/60) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17aa150946d27d3292dcfa89a98e22c5]: Textual amendment: Words in [rule 3.16(2)(k)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.16/2/k) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 60](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/60) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4b846674d783ad8a7681d274701bece]: Textual amendment: Words in [rule 3.17(1)(k)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.17/1/k) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 61](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/61) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4b846674d783ad8a7681d274701bece]: Textual amendment: Words in [rule 3.17(1)(k)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.17/1/k) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 61](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/61) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c76da1e5f7a773cc1b00e1172eb1d592]: Textual amendment: [Rule 3.20(1)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/1/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/a)
+[^c-c76da1e5f7a773cc1b00e1172eb1d592]: Textual amendment: [Rule 3.20(1)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/1/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/a)
 
-[^key-97524b90e0162ac6299e65a76102ac57]: Textual amendment: Words in [rule 3.20(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/3) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/b)
+[^c-97524b90e0162ac6299e65a76102ac57]: Textual amendment: Words in [rule 3.20(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/3) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/b)
 
-[^key-aad129ef84d92345f2f0865aec37f063]: Textual amendment: Words in [rule 3.20(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/4) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(c)(i)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/c/i)
+[^c-aad129ef84d92345f2f0865aec37f063]: Textual amendment: Words in [rule 3.20(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/4) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(c)(i)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/c/i)
 
-[^key-22e1bfa95f507fe0ea67b12df71e09aa]: Textual amendment: Word in [rule 3.20(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/4) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/c/ii)
+[^c-22e1bfa95f507fe0ea67b12df71e09aa]: Textual amendment: Word in [rule 3.20(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/4) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/c/ii)
 
-[^key-00ac708729f54fb76d287dbdea0ccf9d]: Textual amendment: [Rule 3.20(5)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/5/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(d)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/d)
+[^c-00ac708729f54fb76d287dbdea0ccf9d]: Textual amendment: [Rule 3.20(5)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/5/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(d)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/d)
 
-[^key-9f06da29711395ea77dd7156cee73bbb]: Textual amendment: Words in [rule 3.20(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/6) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(e)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/e)
+[^c-9f06da29711395ea77dd7156cee73bbb]: Textual amendment: Words in [rule 3.20(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/6) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(e)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/e)
 
-[^key-48032cb5daf9b1785e3dfabf83e16678]: Textual amendment: Words in [rule 3.20(8)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/8) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(f)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/f)
+[^c-48032cb5daf9b1785e3dfabf83e16678]: Textual amendment: Words in [rule 3.20(8)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/8) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(f)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/f)
 
-[^key-46b585237665f70188ebf130f31dc2a1]: Textual amendment: Words in [rule 3.20(9)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/9/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(g)(i)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/g/i)
+[^c-46b585237665f70188ebf130f31dc2a1]: Textual amendment: Words in [rule 3.20(9)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/9/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(g)(i)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/g/i)
 
-[^key-8424e8329973946a59eab380c2d81cc1]: Textual amendment: Words in [rule 3.20(9)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/9/b) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(g)(ii)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/g/ii)
+[^c-8424e8329973946a59eab380c2d81cc1]: Textual amendment: Words in [rule 3.20(9)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/9/b) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(g)(ii)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/g/ii)
 
-[^key-09a4809db71de7a687e57d8c02c5ce3c]: Textual amendment: [Rule 3.20(10)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/10/a) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(h)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/h)
+[^c-09a4809db71de7a687e57d8c02c5ce3c]: Textual amendment: [Rule 3.20(10)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.20/10/a) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [6(h)](https://www.legislation.gov.uk/uksi/2026/561/rule/6/h)
 
-[^key-ebfa4b986332b3bef97e6250bf8812a9]: Textual amendment: Words in rule 3.21(1)(f)(i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(1)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/1)
+[^c-ebfa4b986332b3bef97e6250bf8812a9]: Textual amendment: Words in rule 3.21(1)(f)(i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(1)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/1)
 
-[^key-fd1efa8427c5bcf569c98eef2431b7fc]: Textual amendment: Words in rule 3.21(1)(f)(iii) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/2)
+[^c-fd1efa8427c5bcf569c98eef2431b7fc]: Textual amendment: Words in rule 3.21(1)(f)(iii) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/2)
 
-[^key-b11dd69cd27350de02e0de5124ea9ae9]: Textual amendment: Words in rule 3.21(1)(f)(iv) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/2)
+[^c-b11dd69cd27350de02e0de5124ea9ae9]: Textual amendment: Words in rule 3.21(1)(f)(iv) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(2)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/2)
 
-[^key-d892f904389c38d4f697abf5a3edcad6]: Textual amendment: Words in rule 3.21(1)(h) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(3)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/3)
+[^c-d892f904389c38d4f697abf5a3edcad6]: Textual amendment: Words in rule 3.21(1)(h) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(3)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/3)
 
-[^key-02c308c4ba15c8856d5704ca1798658a]: Textual amendment: Words in [rule 3.21(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.21/1/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/62) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-02c308c4ba15c8856d5704ca1798658a]: Textual amendment: Words in [rule 3.21(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.21/1/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/62) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-365c1dde33cf7969330a305395b7a12b]: Textual amendment: Words in rule 3.21(1)(i) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(4)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/4)
+[^c-365c1dde33cf7969330a305395b7a12b]: Textual amendment: Words in rule 3.21(1)(i) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [12(4)](https://www.legislation.gov.uk/uksi/2017/366/rule/12/4)
 
-[^key-8272f0f9b0266e82b77b852b77505bde]: Textual amendment: Words in [rule 3.21(1)(j)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.21/1/j/ii) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [7](https://www.legislation.gov.uk/uksi/2026/561/rule/7)
+[^c-8272f0f9b0266e82b77b852b77505bde]: Textual amendment: Words in [rule 3.21(1)(j)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.21/1/j/ii) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [7](https://www.legislation.gov.uk/uksi/2026/561/rule/7)
 
-[^key-6543cda52c44e52dc71b2acf9ee37c84]: Textual amendment: Words in [rule 3.22(2)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.22/2/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/8/a)
+[^c-6543cda52c44e52dc71b2acf9ee37c84]: Textual amendment: Words in [rule 3.22(2)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.22/2/a) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/8/a)
 
-[^key-beab569d8d6a414623440fe3a11ef7ae]: Textual amendment: Words in [rule 3.22(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.22/3) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/8/b)
+[^c-beab569d8d6a414623440fe3a11ef7ae]: Textual amendment: Words in [rule 3.22(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.22/3) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/8/b)
 
-[^key-1b6660595fa81565261b3547c66508e8]: Textual amendment: [Rule 3.23(1)(ea)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.23/1/ea) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [20(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/20/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-1b6660595fa81565261b3547c66508e8]: Textual amendment: [Rule 3.23(1)(ea)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.23/1/ea) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [20(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/20/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-208711e36fc849b5125a4d416bdddd63]: Textual amendment: [Rule 3.23(1)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.23/1/f) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [20(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/20/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-208711e36fc849b5125a4d416bdddd63]: Textual amendment: [Rule 3.23(1)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.23/1/f) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [20(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/20/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-a09e3f040b734b13c52d50fe0118b6df]: Textual amendment: Words in [rule 3.23(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.23/1/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/63) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a09e3f040b734b13c52d50fe0118b6df]: Textual amendment: Words in [rule 3.23(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.23/1/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 63](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/63) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23175561]: Marginal citation: Paragraph 26(2) is amended by paragraph 6 of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-d96a5e36542770d77184051d96956f39]: Textual amendment: Word in rule 3.23(4) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [13](https://www.legislation.gov.uk/uksi/2017/366/rule/13)
+[^c-d96a5e36542770d77184051d96956f39]: Textual amendment: Word in rule 3.23(4) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [13](https://www.legislation.gov.uk/uksi/2017/366/rule/13)
 
-[^key-5ad2375b9b9c65325d519991cd0ca2a6]: Textual amendment: Words in [rule 3.24(1)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/h) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 64](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/64) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ad2375b9b9c65325d519991cd0ca2a6]: Textual amendment: Words in [rule 3.24(1)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/h) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 64](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/64) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-382c289a0fa219a3f550f096964fd198]: Textual amendment: Words in rule 3.24(1)(i)(i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [14](https://www.legislation.gov.uk/uksi/2017/366/rule/14)
+[^c-382c289a0fa219a3f550f096964fd198]: Textual amendment: Words in rule 3.24(1)(i)(i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [14](https://www.legislation.gov.uk/uksi/2017/366/rule/14)
 
-[^key-7820fcaa47181047e419538c770d281d]: Textual amendment: Word in [rule 3.24(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/i)[(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/ii) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/9/a)
+[^c-7820fcaa47181047e419538c770d281d]: Textual amendment: Word in [rule 3.24(1)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/i)[(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/ii) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/9/a)
 
-[^key-b0328fc3d91e603e881eeafe569ecb29]: Textual amendment: [Rule 3.24(1)(j)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/j) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/9/b)
+[^c-b0328fc3d91e603e881eeafe569ecb29]: Textual amendment: [Rule 3.24(1)(j)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.24/1/j) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/9/b)
 
-[^key-92ba436a12e91cfa93b3263ebf53f1c7]: Textual amendment: [Rule 3.25(2)(ea)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/ea) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [21(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/21/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-92ba436a12e91cfa93b3263ebf53f1c7]: Textual amendment: [Rule 3.25(2)(ea)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/ea) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [21(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/21/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-37ee4d70c278d1784d2a168679b7dd68]: Textual amendment: [Rule 3.25(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/f) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [21(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/21/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-37ee4d70c278d1784d2a168679b7dd68]: Textual amendment: [Rule 3.25(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/f) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [21(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/21/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-a52a9bba68b4507060848b71695b98e4]: Textual amendment: Words in [rule 3.25(2)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/65) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a52a9bba68b4507060848b71695b98e4]: Textual amendment: Words in [rule 3.25(2)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 65](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/65) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-693811b4b3cf5cb3099d3d44be86dbd9]: Textual amendment: Word in [rule 3.25(2)(j)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/j/ii) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/10/a)
+[^c-693811b4b3cf5cb3099d3d44be86dbd9]: Textual amendment: Word in [rule 3.25(2)(j)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/j/ii) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [10(a)](https://www.legislation.gov.uk/uksi/2026/561/rule/10/a)
 
-[^key-352a749bc098f93ebf3e090c97ea090e]: Textual amendment: [Rule 3.25(2)(k)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/k) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/10/b)
+[^c-352a749bc098f93ebf3e090c97ea090e]: Textual amendment: [Rule 3.25(2)(k)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.25/2/k) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [10(b)](https://www.legislation.gov.uk/uksi/2026/561/rule/10/b)
 
-[^key-903abb18ea6e8c51fd557f7ec069b5ed]: Modification: [Rule 3.27](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.27) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [40](https://www.legislation.gov.uk/uksi/2024/229/rule/40), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-903abb18ea6e8c51fd557f7ec069b5ed]: Modification: [Rule 3.27](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.27) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [40](https://www.legislation.gov.uk/uksi/2024/229/rule/40), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-ed29fa52b1f3a140fdab40a391831d19]: Modification: [Pt. 3 Ch. 5](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/5) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [41](https://www.legislation.gov.uk/uksi/2024/229/rule/41) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-ed29fa52b1f3a140fdab40a391831d19]: Modification: [Pt. 3 Ch. 5](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/5) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [41](https://www.legislation.gov.uk/uksi/2024/229/rule/41) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-11f8afdcc35286747824085419a8cb7b]: Textual amendment: [Rule 3.27(3)(za)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.27/3/za) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [22](https://www.legislation.gov.uk/uksi/2021/1028/rule/22) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-11f8afdcc35286747824085419a8cb7b]: Textual amendment: [Rule 3.27(3)(za)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.27/3/za) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [22](https://www.legislation.gov.uk/uksi/2021/1028/rule/22) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-aa7f395d8e7b91260f040d1fb310c61b]: Modification: [Rules 3.28-3.37](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.28) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [42-45](https://www.legislation.gov.uk/uksi/2024/229/rule/42), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-aa7f395d8e7b91260f040d1fb310c61b]: Modification: [Rules 3.28-3.37](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.28) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [42-45](https://www.legislation.gov.uk/uksi/2024/229/rule/42), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-1aa3aaaca4862fce84b99feb07c89e87]: Textual amendment: [Rule 3.29(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.29/2/b/ii) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [15](https://www.legislation.gov.uk/uksi/2017/366/rule/15)
+[^c-1aa3aaaca4862fce84b99feb07c89e87]: Textual amendment: [Rule 3.29(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.29/2/b/ii) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [15](https://www.legislation.gov.uk/uksi/2017/366/rule/15)
 
-[^key-0bb65a70d69a559572439dcc682496c7]: Textual amendment: Words in [rule 3.30(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.30/2) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [23(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/23/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-0bb65a70d69a559572439dcc682496c7]: Textual amendment: Words in [rule 3.30(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.30/2) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [23(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/23/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-0efd91acd19978c6d76a9d62b17edfdd]: Textual amendment: [Rule 3.30(2A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.30/2A)[(2B)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.30/2B) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [23(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/23/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-0efd91acd19978c6d76a9d62b17edfdd]: Textual amendment: [Rule 3.30(2A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.30/2A)[(2B)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.30/2B) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [23(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/23/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-4bb58599de43bdf9fcbad0d5cd3faa98]: Modification: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/7) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [47](https://www.legislation.gov.uk/uksi/2024/229/rule/47) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-4bb58599de43bdf9fcbad0d5cd3faa98]: Modification: [Pt. 3 Ch. 7](https://www.legislation.gov.uk/uksi/2016/1024/part/3/chapter/7) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/1/b), [47](https://www.legislation.gov.uk/uksi/2024/229/rule/47) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23175571]: Marginal citation: Paragraph 49(4) is amended by paragraph 10(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-58a0f7d7a9245b39bdcccb9c4e555272]: Textual amendment: [Rule 3.35(1)(da)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1/da) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/24/2/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-58a0f7d7a9245b39bdcccb9c4e555272]: Textual amendment: [Rule 3.35(1)(da)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1/da) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2021/1028/rule/24/2/a) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-93e84be0e3e3045ab91b268fc0272e5b]: Textual amendment: Words in [rule 3.35(1)(h)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1/h/i) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/24/2/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-93e84be0e3e3045ab91b268fc0272e5b]: Textual amendment: Words in [rule 3.35(1)(h)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1/h/i) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2021/1028/rule/24/2/b) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-4a615d25e8d891f45c2ff443ab1755a5]: Textual amendment: Words in [rule 3.35(1)(m)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1/m) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/66) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a615d25e8d891f45c2ff443ab1755a5]: Textual amendment: Words in [rule 3.35(1)(m)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1/m) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 66](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/66) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82fe74bf0d84069e948b887b1ac15900]: Textual amendment: [Rule 3.35(1A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [24(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/24/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-82fe74bf0d84069e948b887b1ac15900]: Textual amendment: [Rule 3.35(1A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.35/1A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [24(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/24/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
 [^c23175581]: Marginal citation: Paragraph 53 and the preceding heading are amended by paragraph 10(8) to (1) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-ad9536c60ac56d88d8b58bd223802565]: Textual amendment: Word in [rule 3.37(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.37/4) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2017/1115/rule/4)
+[^c-ad9536c60ac56d88d8b58bd223802565]: Textual amendment: Word in [rule 3.37(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.37/4) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2017/1115/rule/4)
 
 [^c23175591]: Marginal citation: Paragraph 51 and the preceding heading are amended by paragraph 10(4) to (5) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
@@ -1732,40 +1732,40 @@ Where a replacement administrator is appointed or an additional administrator is
 
 [^c23175611]: Marginal citation: Paragraph 52(2) is amended by paragraph 10(6) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-9cb8bde4fc6ad0671b88e06d1f0be614]: Modification: [Rule 3.42](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.42) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [46](https://www.legislation.gov.uk/uksi/2024/229/rule/46), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-9cb8bde4fc6ad0671b88e06d1f0be614]: Modification: [Rule 3.42](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.42) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [46](https://www.legislation.gov.uk/uksi/2024/229/rule/46), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23175621]: Marginal citation: Paragraph 54 is amended by paragraph 10(11) to (16) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-129a5eabd9226dd6e4ea6365622fc76e]: Textual amendment: [Rule 3.42(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.42/6) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [16](https://www.legislation.gov.uk/uksi/2017/366/rule/16)
+[^c-129a5eabd9226dd6e4ea6365622fc76e]: Textual amendment: [Rule 3.42(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.42/6) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [16](https://www.legislation.gov.uk/uksi/2017/366/rule/16)
 
-[^key-56d739ea49b1855be9819b9a59784b35]: Modification: [Rules 3.44-3.52](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.44) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [48](https://www.legislation.gov.uk/uksi/2024/229/rule/48), [49](https://www.legislation.gov.uk/uksi/2024/229/rule/49), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-56d739ea49b1855be9819b9a59784b35]: Modification: [Rules 3.44-3.52](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.44) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [48](https://www.legislation.gov.uk/uksi/2024/229/rule/48), [49](https://www.legislation.gov.uk/uksi/2024/229/rule/49), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-34a6a0b4a73c1e3749fbc1a4bf5e21e3]: Textual amendment: [Rule 3.50(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.50/5) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [25](https://www.legislation.gov.uk/uksi/2021/1028/rule/25) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-34a6a0b4a73c1e3749fbc1a4bf5e21e3]: Textual amendment: [Rule 3.50(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.50/5) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [25](https://www.legislation.gov.uk/uksi/2021/1028/rule/25) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-f3b362af6750939805f753241f075a14]: Modification: Rule 3.51 applied (with modifications) (23.4.2019) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/2/paragraph/7/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/b))
+[^c-f3b362af6750939805f753241f075a14]: Modification: Rule 3.51 applied (with modifications) (23.4.2019) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2008/346/schedule/2/paragraph/7/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/b))
 
-[^key-80e6ffe17563187585a75ede2ac3a5ee]: Textual amendment: [Rule 3.51(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.51/1) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [26](https://www.legislation.gov.uk/uksi/2021/1028/rule/26) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-80e6ffe17563187585a75ede2ac3a5ee]: Textual amendment: [Rule 3.51(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.51/1) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [26](https://www.legislation.gov.uk/uksi/2021/1028/rule/26) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-b94f15f995718a35dd75e9b8c7f60217]: Textual amendment: Words in [rule 3.51(2)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.51/2/g) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/67) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b94f15f995718a35dd75e9b8c7f60217]: Textual amendment: Words in [rule 3.51(2)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.51/2/g) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 67](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/67) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23175631]: Marginal citation: Paragraph 76(2) is amended by section 127 of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
 [^c23175641]: Marginal citation: Paragraph 80(4) is amended by paragraph 10(30) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-e55f93dff1f384cf7369053ef4071f62]: Modification: [Rule 3.57](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.57) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [50](https://www.legislation.gov.uk/uksi/2024/229/rule/50), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-e55f93dff1f384cf7369053ef4071f62]: Modification: [Rule 3.57](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.57) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [50](https://www.legislation.gov.uk/uksi/2024/229/rule/50), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23175651]: Marginal citation: Paragraph 79(2)(c) is amended by paragraph 10(29) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-d11c3321f14b3109179cfa9f691c8b4e]: Modification: [Rule 3.59](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.59) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/2), [51](https://www.legislation.gov.uk/uksi/2024/229/rule/51) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-d11c3321f14b3109179cfa9f691c8b4e]: Modification: [Rule 3.59](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.59) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/5/2), [51](https://www.legislation.gov.uk/uksi/2024/229/rule/51) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-00438fa141cb46fd81f6a9b8417ed971]: Modification: [Rules 3.59-3.70](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.59) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [51-60](https://www.legislation.gov.uk/uksi/2024/229/rule/51), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-00438fa141cb46fd81f6a9b8417ed971]: Modification: [Rules 3.59-3.70](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.59) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [51-60](https://www.legislation.gov.uk/uksi/2024/229/rule/51), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
 [^c23175661]: Marginal citation: Sub-paragraphs (1)(b) and (2)(b) are amended by section 128(3) and sub-paragraphs (5)(b) and (8)(d) are amended by paragraphs 10(31) and (32) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
 [^c23175671]: Marginal citation: Paragraph 84(5)(b) is amended by paragraph 10(33) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-446e7b1fe55cf8b58ea32357ddaef66f]: Textual amendment: Words in [rule 3.61(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.61/3) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1115/rule/5)
+[^c-446e7b1fe55cf8b58ea32357ddaef66f]: Textual amendment: Words in [rule 3.61(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.61/3) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [5](https://www.legislation.gov.uk/uksi/2017/1115/rule/5)
 
-[^key-557895e90cb96047653218fd1573f567]: Textual amendment: [Rule 3.63(4)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.63/4/d) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 68](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/68) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-557895e90cb96047653218fd1573f567]: Textual amendment: [Rule 3.63(4)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.63/4/d) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 68](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/68) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5e75bc721e7b13488023dc1636f98df]: Textual amendment: [Rule 3.68(2)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.68/2/g) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 69](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/69) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5e75bc721e7b13488023dc1636f98df]: Textual amendment: [Rule 3.68(2)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3.68/2/g) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 69](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/69) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

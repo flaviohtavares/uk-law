@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 227. Applications for costs[^key-2220752395a5711ae842ac48e38c2268]
+## 227. Applications for costs[^c-2220752395a5711ae842ac48e38c2268]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2220752395a5711ae842ac48e38c2268]: Commencement: [Rule 227](https://www.legislation.gov.uk/nisr/2026/11/rule/227) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2220752395a5711ae842ac48e38c2268]: Commencement: [Rule 227](https://www.legislation.gov.uk/nisr/2026/11/rule/227) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

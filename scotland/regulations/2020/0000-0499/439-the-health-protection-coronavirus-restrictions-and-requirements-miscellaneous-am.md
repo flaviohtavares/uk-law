@@ -54,15 +54,15 @@ The Scottish Ministers consider that the restrictions and requirements imposed b
 
 In accordance with paragraph 6(2) and (3) of schedule 19 of the Act, the Scottish Ministers are of the opinion that, by reason of urgency, it is necessary to make these Regulations without a draft having been laid before, and approved by, a resolution of the Scottish Parliament.
 
-## 1. Citation and commencement[^key-4054df0b5052e1c22f189a7de6dd7ce7]
+## 1. Citation and commencement[^c-4054df0b5052e1c22f189a7de6dd7ce7]
 
 These Regulations may be cited as the Health Protection (Coronavirus) (Restrictions and Requirements) (Miscellaneous Amendments) (Scotland) Regulations 2020 and come into force at 6.00 p.m. on 18 December 2020.
 
-## 2. Amendment of the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020[^key-45868ed36a69cbc75b5378a1282861ed]
+## 2. Amendment of the Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020[^c-45868ed36a69cbc75b5378a1282861ed]
 
 The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Regulations 2020 [^c24386841] are amended in accordance with regulations 3 to 6.
 
-## 3. Amendment to modification of the restrictions in certain areas[^key-48cc7538f8238a58f0cbe0e8bd38337c]
+## 3. Amendment to modification of the restrictions in certain areas[^c-48cc7538f8238a58f0cbe0e8bd38337c]
 
 In regulation 3A (modification of the restrictions in certain areas) after paragraph (2) insert—
 
@@ -95,21 +95,21 @@ In regulation 3A (modification of the restrictions in certain areas) after parag
 
 .
 
-## 4. Amendment to restriction on gatherings in private dwellings in a Level 0 area[^key-564acddd0adc2a544586eb02f728f85d]
+## 4. Amendment to restriction on gatherings in private dwellings in a Level 0 area[^c-564acddd0adc2a544586eb02f728f85d]
 
 In schedule 1 (level 0 restrictions), in paragraph 8(1)(d) (restriction on gatherings in private dwellings in a level 0 area) for “relates to” substitute “ is ”.
 
-## 5. Amendment to restriction on gatherings in private dwellings in a Level 1 area[^key-7fd4989a2df22f680822feb8e66e0a7a]
+## 5. Amendment to restriction on gatherings in private dwellings in a Level 1 area[^c-7fd4989a2df22f680822feb8e66e0a7a]
 
 In schedule 2 (level 1 restrictions), in paragraph 9(1)(d) (restriction on gatherings in private dwellings in a level 1 area) for “relates to” substitute “ is ”.
 
-## 6. Changes to levels of areas[^key-d656c6a0952915d9e9824d15da778637]
+## 6. Changes to levels of areas[^c-d656c6a0952915d9e9824d15da778637]
 
 (1) In the table in schedule 6 (areas), in column 3 (level of area), in each of the entries mentioned in paragraph (2), for “2” substitute “ 3 ”.
 
 (2) The entries are 11 (Aberdeen City), 12 (Aberdeenshire) and 23 (East Lothian).
 
-## 7. Amendment of the Health Protection (Coronavirus) (Protection from Eviction) (Scotland) Regulations 2020[^key-de8b69a93071645da222e19b1726d38d]
+## 7. Amendment of the Health Protection (Coronavirus) (Protection from Eviction) (Scotland) Regulations 2020[^c-de8b69a93071645da222e19b1726d38d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -141,18 +141,18 @@ An Island Communities Impact Assessment has been prepared. Copies may be obtaine
 
 [^c24386831]: Marginal citation: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-4054df0b5052e1c22f189a7de6dd7ce7]: Commencement: Reg. 1 in force at 18.12.2020 at 6.00 p.m., see reg. 1
+[^c-4054df0b5052e1c22f189a7de6dd7ce7]: Commencement: Reg. 1 in force at 18.12.2020 at 6.00 p.m., see reg. 1
 
-[^key-45868ed36a69cbc75b5378a1282861ed]: Commencement: Reg. 2 in force at 18.12.2020 at 6.00 p.m., see reg. 1
+[^c-45868ed36a69cbc75b5378a1282861ed]: Commencement: Reg. 2 in force at 18.12.2020 at 6.00 p.m., see reg. 1
 
 [^c24386841]: Marginal citation: [S.S.I. 2020/344](https://www.legislation.gov.uk/ssi/2020/344), amended by [S.S.I. 2020/347](https://www.legislation.gov.uk/ssi/2020/347), [S.S.I. 2020/374](https://www.legislation.gov.uk/ssi/2020/374), [S.S.I. 2020/389](https://www.legislation.gov.uk/ssi/2020/389), [S.S.I. 2020/392](https://www.legislation.gov.uk/ssi/2020/392), [S.S.I. 2020/400](https://www.legislation.gov.uk/ssi/2020/400), [S.S.I. 2020/415](https://www.legislation.gov.uk/ssi/2020/415) and [S.S.I. 2020/427](https://www.legislation.gov.uk/ssi/2020/427).
 
-[^key-48cc7538f8238a58f0cbe0e8bd38337c]: Commencement: Reg. 3 in force at 18.12.2020 at 6.00 p.m., see reg. 1
+[^c-48cc7538f8238a58f0cbe0e8bd38337c]: Commencement: Reg. 3 in force at 18.12.2020 at 6.00 p.m., see reg. 1
 
-[^key-564acddd0adc2a544586eb02f728f85d]: Commencement: Reg. 4 in force at 18.12.2020 at 6.00 p.m., see reg. 1
+[^c-564acddd0adc2a544586eb02f728f85d]: Commencement: Reg. 4 in force at 18.12.2020 at 6.00 p.m., see reg. 1
 
-[^key-7fd4989a2df22f680822feb8e66e0a7a]: Commencement: Reg. 5 in force at 18.12.2020 at 6.00 p.m., see reg. 1
+[^c-7fd4989a2df22f680822feb8e66e0a7a]: Commencement: Reg. 5 in force at 18.12.2020 at 6.00 p.m., see reg. 1
 
-[^key-d656c6a0952915d9e9824d15da778637]: Commencement: Reg. 6 in force at 18.12.2020 at 6.00 p.m., see reg. 1
+[^c-d656c6a0952915d9e9824d15da778637]: Commencement: Reg. 6 in force at 18.12.2020 at 6.00 p.m., see reg. 1
 
-[^key-de8b69a93071645da222e19b1726d38d]: Textual amendment: Reg. 7 omitted (22.1.2021) by virtue of [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 12) Regulations 2021 (S.S.I. 2021/17)](https://www.legislation.gov.uk/ssi/2021/17), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/17/regulation/1/3), [14(2)](https://www.legislation.gov.uk/ssi/2021/17/regulation/14/2)
+[^c-de8b69a93071645da222e19b1726d38d]: Textual amendment: Reg. 7 omitted (22.1.2021) by virtue of [The Health Protection (Coronavirus) (Restrictions and Requirements) (Local Levels) (Scotland) Amendment (No. 12) Regulations 2021 (S.S.I. 2021/17)](https://www.legislation.gov.uk/ssi/2021/17), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2021/17/regulation/1/3), [14(2)](https://www.legislation.gov.uk/ssi/2021/17/regulation/14/2)

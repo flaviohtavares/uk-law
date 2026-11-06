@@ -48,23 +48,23 @@ Coming into force
 
 The Secretary of State, as the appropriate licensing authority under section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009[^f00001], makes the following Regulations in exercise of the powers conferred by sections 108 and 316(1) of that Act.
 
-In accordance with section 316(6)(b) and (7)(f) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.[^key-304bb0b1145d0b76b2ee954ddb4c5c59]
+In accordance with section 316(6)(b) and (7)(f) of that Act, a draft of these Regulations has been laid before, and approved by a resolution of, each House of Parliament.[^c-304bb0b1145d0b76b2ee954ddb4c5c59]
 
-## 1. Citation and commencement[^key-2f3af14f9d0600a7531a1a461e05cf38]
+## 1. Citation and commencement[^c-2f3af14f9d0600a7531a1a461e05cf38]
 
 These Regulations—
 
 - (a) may be cited as the Marine Licensing (Notices Appeals) Regulations 2011, and
 - (b) come into force on 6th April 2011.
 
-## 2. Application[^key-e4625a18b6da66586e40e99980e033fa]
+## 2. Application[^c-e4625a18b6da66586e40e99980e033fa]
 
 These Regulations apply in relation to any area, and any licensable marine activity carried on in that area, for which the Secretary of State is—
 
 - (a) the appropriate licensing authority[^f00002] (and references in these Regulations to “the licensing authority” are to be read accordingly); or
 - (b) an enforcement authority[^f00003] (and references in these Regulations to “the enforcement authority” are to be read accordingly).
 
-## 3. Appeals against variation, suspension or revocation of marine licence[^key-3b0dbecc321dc17300e0ab8f535c3e31]
+## 3. Appeals against variation, suspension or revocation of marine licence[^c-3b0dbecc321dc17300e0ab8f535c3e31]
 
 (1) A person to whom a notice under section 72 of the Marine and Coastal Access Act 2009 (notice varying, suspending or revoking a marine licence, or extending a period of suspension) has been issued may appeal to the First-tier Tribunal[^f00004] against the notice.
 
@@ -74,7 +74,7 @@ These Regulations apply in relation to any area, and any licensable marine activ
 
 (4) Where a notice revoking a marine licence is suspended under paragraph (3), the licence is to be treated pending determination of the appeal (or, if sooner, for so long as the notice is suspended) as never having been revoked by that notice.
 
-## 4. Appeals against enforcement notices, stop notices and emergency safety notices[^key-fba2d12da62ee35008c3b2209bbe7df4]
+## 4. Appeals against enforcement notices, stop notices and emergency safety notices[^c-fba2d12da62ee35008c3b2209bbe7df4]
 
 (1) A person to whom any of the notices referred to in paragraph (2) has been issued may appeal to the First-tier Tribunal against the notice.
 
@@ -89,7 +89,7 @@ These Regulations apply in relation to any area, and any licensable marine activ
 
 (4) The First-tier Tribunal may suspend a remediation notice, a stop notice or an emergency safety notice, wholly or in part, pending determination of the appeal.
 
-## 5. Appeals – further provisions[^key-8dc1af3f4f62d22b3c28c82cb7528afb]
+## 5. Appeals – further provisions[^c-8dc1af3f4f62d22b3c28c82cb7528afb]
 
 (1) In any appeal the burden of proof is on the licensing authority or enforcement authority (as appropriate), and—
 
@@ -133,22 +133,22 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-304bb0b1145d0b76b2ee954ddb4c5c59]: Modification: Regulations applied in part (with modifications) (15.9.2014) by [The Public Bodies (Marine Management Organisation) (Fees) Order 2014 (S.I. 2014/2555)](https://www.legislation.gov.uk/uksi/2014/2555), [art. 10(2)](https://www.legislation.gov.uk/uksi/2014/2555/article/10/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/2555/article/3))
+[^c-304bb0b1145d0b76b2ee954ddb4c5c59]: Modification: Regulations applied in part (with modifications) (15.9.2014) by [The Public Bodies (Marine Management Organisation) (Fees) Order 2014 (S.I. 2014/2555)](https://www.legislation.gov.uk/uksi/2014/2555), [art. 10(2)](https://www.legislation.gov.uk/uksi/2014/2555/article/10/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/2555/article/3))
 
-[^key-2f3af14f9d0600a7531a1a461e05cf38]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
+[^c-2f3af14f9d0600a7531a1a461e05cf38]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
 
-[^key-e4625a18b6da66586e40e99980e033fa]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
+[^c-e4625a18b6da66586e40e99980e033fa]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
 
 [^f00002]: Footnote: By virtue of section 113(2)(a), (4)(a), (6)(a) and (8) of the Marine and Coastal Access Act 2009, the Secretary of State is the appropriate licensing authority as respects anything done in the course of carrying on certain activities in the Scottish offshore region, Wales and the Welsh inshore region, Northern Ireland and the Northern Ireland inshore region, and in relation to any other area not mentioned in subsection (2), (4) or (6). See section 322(1) for definitions of those regions.
 
 [^f00003]: Footnote: The Secretary of State is an enforcement authority for the areas for which the Secretary of State is the appropriate licensing authority: see section 114(2) of the Marine and Coastal Access Act 2009.
 
-[^key-3b0dbecc321dc17300e0ab8f535c3e31]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
+[^c-3b0dbecc321dc17300e0ab8f535c3e31]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
 
 [^f00004]: Footnote: Appeals are assigned to the General Regulatory Chamber of the First-tier Tribunal by virtue of article 3 of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2010 ([S.I. 2010/2655](https://www.legislation.gov.uk/uksi/2010/2655)). The Tribunal Procedure (First-tier Tribunal) (General Regulatory Chamber) Rules 2009 ([S.I. 2009/1976](https://www.legislation.gov.uk/uksi/2009/1976), amended by [S.I. 2010/2653](https://www.legislation.gov.uk/uksi/2010/2653)) sets out procedural rules relating to such appeals.
 
-[^key-fba2d12da62ee35008c3b2209bbe7df4]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
+[^c-fba2d12da62ee35008c3b2209bbe7df4]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
 
 [^f00005]: Footnote: In relation to the notices mentioned in paragraph (2)(a) to (d), see sections 90, 91, 102 and 104 of the Marine and Coastal Access Act 2009.
 
-[^key-8dc1af3f4f62d22b3c28c82cb7528afb]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)
+[^c-8dc1af3f4f62d22b3c28c82cb7528afb]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/936/regulation/1/b)

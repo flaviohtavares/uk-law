@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Contracts for the provision of children's legal assistance[^key-4b1a19c2f98ce97eb33965a2a4cad65c]
+## 33B. Contracts for the provision of children's legal assistance[^c-4b1a19c2f98ce97eb33965a2a4cad65c]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b1a19c2f98ce97eb33965a2a4cad65c]: Textual amendment: S. 33B and crossheading inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 192](https://www.legislation.gov.uk/asp/2011/1/section/192), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4b1a19c2f98ce97eb33965a2a4cad65c]: Textual amendment: S. 33B and crossheading inserted (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [ss. 192](https://www.legislation.gov.uk/asp/2011/1/section/192), [206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

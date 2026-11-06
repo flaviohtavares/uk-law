@@ -34,11 +34,11 @@ summary: ''
 
 (5) For the purposes of this Chapter the body responsible for a school is—
 
-- (a) in the case of a grant-aided school, the board [^key-d7289644ef369f36f937c393039246e9]... or the Board of Governors, according to which has the function in question;
+- (a) in the case of a grant-aided school, the board [^c-d7289644ef369f36f937c393039246e9]... or the Board of Governors, according to which has the function in question;
 - (b) in relation to an independent school, the proprietor;
 
 and in this Chapter that body is referred to as the “responsible body”.
 
 ## Annotations
 
-[^key-d7289644ef369f36f937c393039246e9]: Textual amendment: Words in [art. 14(5)(a)](https://www.legislation.gov.uk/nisi/2005/1117/article/14/5/a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-d7289644ef369f36f937c393039246e9]: Textual amendment: Words in [art. 14(5)(a)](https://www.legislation.gov.uk/nisi/2005/1117/article/14/5/a) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

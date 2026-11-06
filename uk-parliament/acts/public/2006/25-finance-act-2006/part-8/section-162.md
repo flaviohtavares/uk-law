@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-97d1294fff0cd2dbfc5b6671e1c6847b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-97d1294fff0cd2dbfc5b6671e1c6847b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Schedule 5 to FA 2003 (stamp duty land tax: amount of tax chargeable: rent), in paragraph 2(3) (calculation of tax chargeable in respect of rent), in Table A (bands and percentages for residential property), for “£120,000”, in both places, substitute “ £125,000 ”.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97d1294fff0cd2dbfc5b6671e1c6847b]: Textual amendment: [S. 162(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/162/1) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(a)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/a) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
+[^c-97d1294fff0cd2dbfc5b6671e1c6847b]: Textual amendment: [S. 162(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/162/1) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(a)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/a) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))

@@ -25,7 +25,7 @@ summary: ''
 - (a) it is connected directly to a transmission or distribution system (or the part of such a system) located in Northern Ireland (and to no other system or part thereof); or
 - (b) it is an area designated under section 1(7) of the Continental Shelf Act 1964 [^c1964623] or in a Renewable Energy Zone designated by the Renewable Energy Zone (Designation of Areas) (Scottish Ministers) Order 2005 [^c1964624] as an area to which the Scottish Ministers are to have functions.
 
-(4)[^key-e096f7b4877e33dd34b4e7479e7fdbc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e096f7b4877e33dd34b4e7479e7fdbc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this article–
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c1964624]: Marginal citation: [S.I. 2005/3153](https://www.legislation.gov.uk/uksi/2005/3153).
 
-[^key-e096f7b4877e33dd34b4e7479e7fdbc8]: Textual amendment: [Art. 17(4)](https://www.legislation.gov.uk/ssi/2009/140/article/17/4) omitted (20.11.2018) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2018 (S.S.I. 2018/352)](https://www.legislation.gov.uk/ssi/2018/352), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/352/article/1/1), [4](https://www.legislation.gov.uk/ssi/2018/352/article/4)
+[^c-e096f7b4877e33dd34b4e7479e7fdbc8]: Textual amendment: [Art. 17(4)](https://www.legislation.gov.uk/ssi/2009/140/article/17/4) omitted (20.11.2018) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2018 (S.S.I. 2018/352)](https://www.legislation.gov.uk/ssi/2018/352), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/352/article/1/1), [4](https://www.legislation.gov.uk/ssi/2018/352/article/4)
 
 [^c1964625]: Marginal citation: [S.I. 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668).

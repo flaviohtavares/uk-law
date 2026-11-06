@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Discharge of functions of Health and Wellbeing Boards[^key-480f9d9b1eae38a08307ae5668cb1733]
+## 198. Discharge of functions of Health and Wellbeing Boards[^c-480f9d9b1eae38a08307ae5668cb1733]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Two or more Health and Wellbeing Boards may make arrangements for—
 
 ## Annotations
 
-[^key-480f9d9b1eae38a08307ae5668cb1733]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2012/7/section/198) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-480f9d9b1eae38a08307ae5668cb1733]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2012/7/section/198) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

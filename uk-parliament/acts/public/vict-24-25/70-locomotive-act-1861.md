@@ -56,7 +56,7 @@ For every Locomotive propelled by any Power, containing within itself the Machin
 
 ## 7. Damage caused by locomotives to bridges to be made good by owners.
 
-[^key-e1831173d016b4b39fe41fe872b7f833]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1831173d016b4b39fe41fe872b7f833]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c563736]
 
@@ -98,7 +98,7 @@ This Act may be cited as “**The Locomotive Act, 1861.**”
 
 [^c563734]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Vict/24-25/70/section/6) repealed by [Local Government, Planning and Land Act 1980 (c. 65, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1980/65), [s. 1(8)](https://www.legislation.gov.uk/ukpga/1980/65/section/1/8), [Sch. 7 para. 14(1)](https://www.legislation.gov.uk/ukpga/1980/65/schedule/7/paragraph/14/1)(*a*)
 
-[^key-e1831173d016b4b39fe41fe872b7f833]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Vict/24-25/70/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-e1831173d016b4b39fe41fe872b7f833]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Vict/24-25/70/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c563736]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/Vict/24-25/70/section/8) repealed by [Locomotives Amendment (Scotland) Act 1878 (c. 58)](https://www.legislation.gov.uk/ukpga/1878/58), [s. 3](https://www.legislation.gov.uk/ukpga/1878/58/section/3) and [Highways and Locomotives (Amendment) Act 1878 (c. 77)](https://www.legislation.gov.uk/ukpga/1878/77), [s. 30](https://www.legislation.gov.uk/ukpga/1878/77/section/30)
 

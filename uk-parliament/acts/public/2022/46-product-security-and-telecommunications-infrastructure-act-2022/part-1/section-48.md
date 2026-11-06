@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Disclosure of information[^key-44bf7a5a92322cf688fc6b18440e32bc][^key-2f4f4dc9be21e7ddd4c3b97ed21c5e90]
+## 48. Disclosure of information[^c-44bf7a5a92322cf688fc6b18440e32bc][^c-2f4f4dc9be21e7ddd4c3b97ed21c5e90]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44bf7a5a92322cf688fc6b18440e32bc]: Commencement: S. 48 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-44bf7a5a92322cf688fc6b18440e32bc]: Commencement: S. 48 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-2f4f4dc9be21e7ddd4c3b97ed21c5e90]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/46/section/48) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-2f4f4dc9be21e7ddd4c3b97ed21c5e90]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2022/46/section/48) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

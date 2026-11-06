@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Intelligence and Security Committee: memorandum of understanding[^key-dafb683a373fa35eac32cd54c01d3151][^key-dc5f9c47e940b64f9e6e63eadf842f42]
+## 93. Intelligence and Security Committee: memorandum of understanding[^c-dafb683a373fa35eac32cd54c01d3151][^c-dc5f9c47e940b64f9e6e63eadf842f42]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dafb683a373fa35eac32cd54c01d3151]: Commencement: S. 93 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-dafb683a373fa35eac32cd54c01d3151]: Commencement: S. 93 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-dc5f9c47e940b64f9e6e63eadf842f42]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/32/section/93) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/e)
+[^c-dc5f9c47e940b64f9e6e63eadf842f42]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/32/section/93) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/e)

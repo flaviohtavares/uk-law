@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Financial inspection by Society[^key-0aca4f0e3e933b103f80a7f18811e196]
+## 35. Financial inspection by Society[^c-0aca4f0e3e933b103f80a7f18811e196]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aca4f0e3e933b103f80a7f18811e196]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2010/16/section/35) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-0aca4f0e3e933b103f80a7f18811e196]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2010/16/section/35) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -22,13 +22,13 @@ summary: ''
 
 (introduced by section 111)
 
-**1.**[^key-37de4a33760d8bc10c7e08679a5c6708][^key-bf7e6f1cd449308ba91ab61c4a2664a9][^key-55fa842c81285a7709d463f109294c7d] In section 326(4)(a) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), for “3(3)” substitute “ 2A(2) or 7A(4) ”.
+**1.**[^c-37de4a33760d8bc10c7e08679a5c6708][^c-bf7e6f1cd449308ba91ab61c4a2664a9][^c-55fa842c81285a7709d463f109294c7d] In section 326(4)(a) of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13), for “3(3)” substitute “ 2A(2) or 7A(4) ”.
 
-**2.**[^key-59f1087f35e28656e74b3bf8d4b0159a][^key-05bb427afed21aa8d920220b4e6e1b42][^key-137d0d92d8b137808ba0cdea67dba4c9] Schedule 1 to that Act is amended as follows.
+**2.**[^c-59f1087f35e28656e74b3bf8d4b0159a][^c-05bb427afed21aa8d920220b4e6e1b42][^c-137d0d92d8b137808ba0cdea67dba4c9] Schedule 1 to that Act is amended as follows.
 
-**3.**[^key-0f68900b537645e8d2d636c07a8ae71c][^key-6b768c37be6a5740d9fb026dfbbb5bfb][^key-86602d6ad46ca44b23bdde11e08e7285] Paragraphs 3, 4 and 5 are repealed.
+**3.**[^c-0f68900b537645e8d2d636c07a8ae71c][^c-6b768c37be6a5740d9fb026dfbbb5bfb][^c-86602d6ad46ca44b23bdde11e08e7285] Paragraphs 3, 4 and 5 are repealed.
 
-**4.**[^key-655d0adc38dc61409ace02f6f0c23bef][^key-012021a7d517eeb0827a22d8bd59c699][^key-c695486a5b9c76ca6b895d4c720f6048] After paragraph 2 insert—
+**4.**[^c-655d0adc38dc61409ace02f6f0c23bef][^c-012021a7d517eeb0827a22d8bd59c699][^c-c695486a5b9c76ca6b895d4c720f6048] After paragraph 2 insert—
 
 > **Membership**
 >
@@ -84,16 +84,16 @@ summary: ''
 
 .
 
-**5.**[^key-4edb77cf9af8566361445e0f5afcc8e5][^key-305f906b9d288122be323b540faa4b67][^key-cdbc12fb95a7eaccb64314649b1f8710] In paragraph 7—
+**5.**[^c-4edb77cf9af8566361445e0f5afcc8e5][^c-305f906b9d288122be323b540faa4b67][^c-cdbc12fb95a7eaccb64314649b1f8710] In paragraph 7—
 
 - (a) in sub-paragraph (1), after “below” insert “ and paragraph 10A ”,
 - (b) in sub-paragraph (1)(a), for “officer” substitute “ executive ”,
 - (c) in sub-paragraph (3), for “officer” substitute “ executive ”,
 - (d) in sub-paragraph (4), for “officer” substitute “ executive ”.
 
-**6.**[^key-7c53d53bcc66604a08f38778f168250a][^key-ac5a1dc1f742611beae56116d8bc75d8][^key-64b292a556f47ae8112a65fa898376c7] In the title to paragraph 7, for “officer” substitute “ executive ”.
+**6.**[^c-7c53d53bcc66604a08f38778f168250a][^c-ac5a1dc1f742611beae56116d8bc75d8][^c-64b292a556f47ae8112a65fa898376c7] In the title to paragraph 7, for “officer” substitute “ executive ”.
 
-**7.**[^key-7536a3c16d3464b18a1c2f051e61ccca][^key-0209a2855600cf87024b17c06ac082ba][^key-0dd5dc7c62abc08bb4265828a37384e4] After paragraph 7 insert—
+**7.**[^c-7536a3c16d3464b18a1c2f051e61ccca][^c-0209a2855600cf87024b17c06ac082ba][^c-0dd5dc7c62abc08bb4265828a37384e4] After paragraph 7 insert—
 
 > **Commission Visitors**
 >
@@ -224,9 +224,9 @@ summary: ''
 
 .
 
-**8.**[^key-c35b604189af4164212ceaab9f14092f][^key-8d7eda9b8c3ec731b4aac364864e942c][^key-5310c795a7dc64a6a6e42229760a45fb] Paragraph 8 is repealed.
+**8.**[^c-c35b604189af4164212ceaab9f14092f][^c-8d7eda9b8c3ec731b4aac364864e942c][^c-5310c795a7dc64a6a6e42229760a45fb] Paragraph 8 is repealed.
 
-**9.**[^key-3bf99beb67b3f85f2c8e62f29a2c102c][^key-5f2367212d16a0859c16216c2004f265][^key-71c37f61449e03c89afcec9d8f92c9e0] After paragraph 10 insert—
+**9.**[^c-3bf99beb67b3f85f2c8e62f29a2c102c][^c-5f2367212d16a0859c16216c2004f265][^c-71c37f61449e03c89afcec9d8f92c9e0] After paragraph 10 insert—
 
 > **Transitional provision: first chief executive**
 >
@@ -251,56 +251,56 @@ summary: ''
 
 ## Annotations
 
-[^key-37de4a33760d8bc10c7e08679a5c6708]: Commencement: Sch. 18 para. 1 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-37de4a33760d8bc10c7e08679a5c6708]: Commencement: Sch. 18 para. 1 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-bf7e6f1cd449308ba91ab61c4a2664a9]: Commencement: Sch. 18 para. 1 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-bf7e6f1cd449308ba91ab61c4a2664a9]: Commencement: Sch. 18 para. 1 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-55fa842c81285a7709d463f109294c7d]: Commencement: Sch. 18 para. 1 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-55fa842c81285a7709d463f109294c7d]: Commencement: Sch. 18 para. 1 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-59f1087f35e28656e74b3bf8d4b0159a]: Commencement: Sch. 18 para. 2 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-59f1087f35e28656e74b3bf8d4b0159a]: Commencement: Sch. 18 para. 2 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-05bb427afed21aa8d920220b4e6e1b42]: Commencement: Sch. 18 para. 2 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-05bb427afed21aa8d920220b4e6e1b42]: Commencement: Sch. 18 para. 2 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-137d0d92d8b137808ba0cdea67dba4c9]: Commencement: Sch. 18 para. 2 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-137d0d92d8b137808ba0cdea67dba4c9]: Commencement: Sch. 18 para. 2 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-0f68900b537645e8d2d636c07a8ae71c]: Commencement: Sch. 18 para. 3 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-0f68900b537645e8d2d636c07a8ae71c]: Commencement: Sch. 18 para. 3 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-6b768c37be6a5740d9fb026dfbbb5bfb]: Commencement: Sch. 18 para. 3 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-6b768c37be6a5740d9fb026dfbbb5bfb]: Commencement: Sch. 18 para. 3 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-86602d6ad46ca44b23bdde11e08e7285]: Commencement: Sch. 18 para. 3 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-86602d6ad46ca44b23bdde11e08e7285]: Commencement: Sch. 18 para. 3 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-655d0adc38dc61409ace02f6f0c23bef]: Commencement: Sch. 18 para. 4 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-655d0adc38dc61409ace02f6f0c23bef]: Commencement: Sch. 18 para. 4 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-012021a7d517eeb0827a22d8bd59c699]: Commencement: Sch. 18 para. 4 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-012021a7d517eeb0827a22d8bd59c699]: Commencement: Sch. 18 para. 4 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-c695486a5b9c76ca6b895d4c720f6048]: Commencement: Sch. 18 para. 4 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-c695486a5b9c76ca6b895d4c720f6048]: Commencement: Sch. 18 para. 4 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-4edb77cf9af8566361445e0f5afcc8e5]: Commencement: Sch. 18 para. 5 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-4edb77cf9af8566361445e0f5afcc8e5]: Commencement: Sch. 18 para. 5 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-305f906b9d288122be323b540faa4b67]: Commencement: Sch. 18 para. 5 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-305f906b9d288122be323b540faa4b67]: Commencement: Sch. 18 para. 5 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-cdbc12fb95a7eaccb64314649b1f8710]: Commencement: Sch. 18 para. 5 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-cdbc12fb95a7eaccb64314649b1f8710]: Commencement: Sch. 18 para. 5 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-7c53d53bcc66604a08f38778f168250a]: Commencement: Sch. 18 para. 6 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-7c53d53bcc66604a08f38778f168250a]: Commencement: Sch. 18 para. 6 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-ac5a1dc1f742611beae56116d8bc75d8]: Commencement: Sch. 18 para. 6 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-ac5a1dc1f742611beae56116d8bc75d8]: Commencement: Sch. 18 para. 6 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-64b292a556f47ae8112a65fa898376c7]: Commencement: Sch. 18 para. 6 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-64b292a556f47ae8112a65fa898376c7]: Commencement: Sch. 18 para. 6 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-7536a3c16d3464b18a1c2f051e61ccca]: Commencement: Sch. 18 para. 7 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-7536a3c16d3464b18a1c2f051e61ccca]: Commencement: Sch. 18 para. 7 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-0209a2855600cf87024b17c06ac082ba]: Commencement: Sch. 18 para. 7 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-0209a2855600cf87024b17c06ac082ba]: Commencement: Sch. 18 para. 7 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-0dd5dc7c62abc08bb4265828a37384e4]: Commencement: Sch. 18 para. 7 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-0dd5dc7c62abc08bb4265828a37384e4]: Commencement: Sch. 18 para. 7 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-c35b604189af4164212ceaab9f14092f]: Commencement: Sch. 18 para. 8 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-c35b604189af4164212ceaab9f14092f]: Commencement: Sch. 18 para. 8 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-8d7eda9b8c3ec731b4aac364864e942c]: Commencement: Sch. 18 para. 8 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-8d7eda9b8c3ec731b4aac364864e942c]: Commencement: Sch. 18 para. 8 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-5310c795a7dc64a6a6e42229760a45fb]: Commencement: Sch. 18 para. 8 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-5310c795a7dc64a6a6e42229760a45fb]: Commencement: Sch. 18 para. 8 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-3bf99beb67b3f85f2c8e62f29a2c102c]: Commencement: Sch. 18 para. 9 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-3bf99beb67b3f85f2c8e62f29a2c102c]: Commencement: Sch. 18 para. 9 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-5f2367212d16a0859c16216c2004f265]: Commencement: Sch. 18 para. 9 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-5f2367212d16a0859c16216c2004f265]: Commencement: Sch. 18 para. 9 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-71c37f61449e03c89afcec9d8f92c9e0]: Commencement: Sch. 18 para. 9 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-71c37f61449e03c89afcec9d8f92c9e0]: Commencement: Sch. 18 para. 9 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

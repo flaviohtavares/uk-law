@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Powers of entry and inspection[^key-ab17aa076f1d7fe811ae180a34610a8a][^key-fc3c9ef4651c3cba2876ef25ac8c8cae]
+## 74. Powers of entry and inspection[^c-ab17aa076f1d7fe811ae180a34610a8a][^c-fc3c9ef4651c3cba2876ef25ac8c8cae]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab17aa076f1d7fe811ae180a34610a8a]: Commencement: S. 74 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-ab17aa076f1d7fe811ae180a34610a8a]: Commencement: S. 74 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-fc3c9ef4651c3cba2876ef25ac8c8cae]: Commencement: [S. 74](https://www.legislation.gov.uk/asc/2022/1/section/74) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(w)](https://www.legislation.gov.uk/wsi/2025/432/article/2/w)
+[^c-fc3c9ef4651c3cba2876ef25ac8c8cae]: Commencement: [S. 74](https://www.legislation.gov.uk/asc/2022/1/section/74) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(w)](https://www.legislation.gov.uk/wsi/2025/432/article/2/w)

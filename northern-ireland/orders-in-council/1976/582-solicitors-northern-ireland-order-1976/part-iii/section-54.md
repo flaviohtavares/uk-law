@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Publication, etc., of orders[^key-2761cdcd94ff7760cdd67d4ff9264cb8]
+## 54. Publication, etc., of orders[^c-2761cdcd94ff7760cdd67d4ff9264cb8]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ shall be filed with the secretary of the Society, and the Society shall be entit
 
 ## Annotations
 
-[^key-2761cdcd94ff7760cdd67d4ff9264cb8]: Modification: [Art. 54](https://www.legislation.gov.uk/nisi/1976/582/article/54) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(hh)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/hh)
+[^c-2761cdcd94ff7760cdd67d4ff9264cb8]: Modification: [Art. 54](https://www.legislation.gov.uk/nisi/1976/582/article/54) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(hh)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/hh)
 
 [^c17115041]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

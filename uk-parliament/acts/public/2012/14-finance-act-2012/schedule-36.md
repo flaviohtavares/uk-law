@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 36 — Agreement between UK and Switzerland[^key-5eac0c78a7ded919026c515b77eb7e84]
+## SCHEDULE 36 — Agreement between UK and Switzerland[^c-5eac0c78a7ded919026c515b77eb7e84]
 
 *Extent: E+W+S+N.I.*
 
@@ -356,7 +356,7 @@ Section 218
 - (c) the value of the supply shown in the invoice is “untaxed” if the amount otherwise recoverable under paragraph 5(3) of that Schedule has not been recovered, and
 - (d) “ceasing to be liable” to tax on the value of that supply means that the amount otherwise recoverable is no longer recoverable.
 
-#### Transfers to HMRC under Agreement[^key-d1818f1f88a2aa27640dc9fcdf302c18]
+#### Transfers to HMRC under Agreement[^c-d1818f1f88a2aa27640dc9fcdf302c18]
 
 **26A.** (1) Income or chargeable gains of a person are to be treated as not remitted to the United Kingdom if conditions A to D are met.
 
@@ -411,6 +411,6 @@ Section 218
 
 ## Annotations
 
-[^key-5eac0c78a7ded919026c515b77eb7e84]: Modification: [Sch. 36](https://www.legislation.gov.uk/ukpga/2012/14/schedule/36) applied (with modifications) (19.4.2013) by [The Small Charitable Donations Regulations 2013 (S.I. 2013/938)](https://www.legislation.gov.uk/uksi/2013/938), [regs. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/938/regulation/6)
+[^c-5eac0c78a7ded919026c515b77eb7e84]: Modification: [Sch. 36](https://www.legislation.gov.uk/ukpga/2012/14/schedule/36) applied (with modifications) (19.4.2013) by [The Small Charitable Donations Regulations 2013 (S.I. 2013/938)](https://www.legislation.gov.uk/uksi/2013/938), [regs. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/938/regulation/6)
 
-[^key-d1818f1f88a2aa27640dc9fcdf302c18]: Textual amendment: Sch. 36 paras. 26A, 26B and cross-heading inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 221(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/221/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/221/2)
+[^c-d1818f1f88a2aa27640dc9fcdf302c18]: Textual amendment: Sch. 36 paras. 26A, 26B and cross-heading inserted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 221(1)](https://www.legislation.gov.uk/ukpga/2013/29/section/221/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/221/2)

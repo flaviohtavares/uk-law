@@ -47,13 +47,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ## PART 1 — Title, coming into force and application
 
-### 1. Title and coming into force[^key-9d46c8ccec050cb655d0f335229625f7]
+### 1. Title and coming into force[^c-9d46c8ccec050cb655d0f335229625f7]
 
 (1) The title of these Regulations is the Education (Student Finance) (Miscellaneous Amendments) (No. 3) (Wales) Regulations 2023.
 
 (2) These Regulations come into force on 4 January 2024.
 
-### 2. Application[^key-5e1e638099bb4d9e5ba44d06cf0beb6d]
+### 2. Application[^c-5e1e638099bb4d9e5ba44d06cf0beb6d]
 
 (1) The following regulations apply only in relation to the provision of support, and to fees and awards applicable, in relation to an academic year which begins on or after 1 August 2024, whether or not anything done under these Regulations is done before, on or after 1 August 2024—
 
@@ -70,15 +70,15 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**3.**[^key-b66a0d19aa05965a04ab2f7a6742c83a] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
+**3.**[^c-b66a0d19aa05965a04ab2f7a6742c83a] The Education (Fees and Awards) (Wales) Regulations 2007[^f00005] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Family members of Afghan citizens
 
-**4.**[^key-aaa361cb6f0c84bb5357d9eecf9b8875] (1) In each of the regulations specified in paragraph (2), after “4C,” insert “4D,”.
+**4.**[^c-aaa361cb6f0c84bb5357d9eecf9b8875] (1) In each of the regulations specified in paragraph (2), after “4C,” insert “4D,”.
 
 (2) The regulations specified for the purpose of paragraph (1) are regulation 4(1)(a), 5(1)(b)(i), 5(1)(c)(i), 6(2)(a), 6(3)(a), 7(2)(a), 7(3)(a), 8(1)(a) and 8(2)(a).
 
-**5.**[^key-92a530811e3e630978347feeb1b5a058] In the Schedule—
+**5.**[^c-92a530811e3e630978347feeb1b5a058] In the Schedule—
 
 - (a) in paragraph 1, in the definition of “person granted leave to enter or remain as a protected person”—
   - (i) after paragraph (c) insert “or”;
@@ -124,7 +124,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Family members of Ukrainian nationals
 
-**6.**[^key-163bf0143badf8ce65628dab113c966c] In the Schedule, in paragraph 4C—
+**6.**[^c-163bf0143badf8ce65628dab113c966c] In the Schedule, in paragraph 4C—
 
 - (a) the existing text becomes sub-paragraph (1);
 - (b) after that sub-paragraph insert—
@@ -151,48 +151,48 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Corrections to the Welsh language text
 
-**7.**[^key-57a2f34e71af724c9106651a1862ddf2] (1) In each of the regulations specified in paragraph (2), in the Welsh language text—
+**7.**[^c-57a2f34e71af724c9106651a1862ddf2] (1) In each of the regulations specified in paragraph (2), in the Welsh language text—
 
 - (a) after “9C,” insert “9Ch,”;
 - (b) omit “9E,”.
 
 (2) The regulations specified for the purpose of paragraph (1) are regulations 4(1)(a), 5(1)(b)(i), 6(2)(a), 6(3)(a), 7(2)(a), 7(3)(a), 8(1)(a) and 8(2)(a).
 
-## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^key-93bf557828a421abccb97a0d788630df]
+## PART 3 — Amendments to the Education (European University Institute) (Wales) Regulations 2014[^c-93bf557828a421abccb97a0d788630df]
 
 **No longer in force.**
 
-### CHAPTER 1 — Introduction[^key-93bf557828a421abccb97a0d788630df]
+### CHAPTER 1 — Introduction[^c-93bf557828a421abccb97a0d788630df]
 
-**8.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Amendments to the definition of “person with leave to enter or remain as a relevant Afghan citizen”[^key-93bf557828a421abccb97a0d788630df]
+### CHAPTER 2 — Amendments to the definition of “person with leave to enter or remain as a relevant Afghan citizen”[^c-93bf557828a421abccb97a0d788630df]
 
-**9.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 3 — Family members of Afghan citizens[^key-93bf557828a421abccb97a0d788630df]
+### CHAPTER 3 — Family members of Afghan citizens[^c-93bf557828a421abccb97a0d788630df]
 
-**10.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 4 — Family members of Ukrainian nationals[^key-93bf557828a421abccb97a0d788630df]
+### CHAPTER 4 — Family members of Ukrainian nationals[^c-93bf557828a421abccb97a0d788630df]
 
-**12.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-93bf557828a421abccb97a0d788630df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendments to the Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015
 
 ### CHAPTER 1 — Introduction
 
-**14.**[^key-a5e66725b61beb9297763b902f9a20b6] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007] are amended in accordance with this Part.
+**14.**[^c-a5e66725b61beb9297763b902f9a20b6] The Higher Education (Qualifying Courses, Qualifying Persons and Supplementary Provision) (Wales) Regulations 2015[^f00007] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Family members of Afghan citizens
 
-**15.**[^key-f094cfcb30e37090bd6688e7620eaef1] In regulation 4(9)(a), after “4C,” insert “4D,”.
+**15.**[^c-f094cfcb30e37090bd6688e7620eaef1] In regulation 4(9)(a), after “4C,” insert “4D,”.
 
-**16.**[^key-b9a12b498206994258ef7bb02048a97a] In the Schedule—
+**16.**[^c-b9a12b498206994258ef7bb02048a97a] In the Schedule—
 
 - (a) in paragraph 1(1), in the definition of “person granted leave to enter or remain as a protected person”—
   - (i) after paragraph (c) insert “or”;
@@ -238,7 +238,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Family members of Ukrainian nationals
 
-**17.**[^key-460f4e6cc2f05833c0a3f27389d68f1d] In the Schedule, in paragraph 4C—
+**17.**[^c-460f4e6cc2f05833c0a3f27389d68f1d] In the Schedule, in paragraph 4C—
 
 - (a) the existing text becomes sub-paragraph (1);
 - (b) after that sub-paragraph insert—
@@ -267,28 +267,28 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**18.**[^key-838dc22d05be0d33e79c07cfa1cf2030] The Education (Student Support) (Wales) Regulations 2017[^f00008] are amended in accordance with this Part.
+**18.**[^c-838dc22d05be0d33e79c07cfa1cf2030] The Education (Student Support) (Wales) Regulations 2017[^f00008] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Family members of Ukrainian nationals
 
-**19.**[^key-5cca5e8381ab233b3880cc0fda0f777d] In regulation 4(10F)—
+**19.**[^c-5cca5e8381ab233b3880cc0fda0f777d] In regulation 4(10F)—
 
 - (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
 
-**20.**[^key-17cd6fedb41c06eeca782610145a6bc5] At the end of each of regulations 15(bc), 23(12)(bc), 49(2)(bc), 82(4)(bc) and 111(2)(bc), insert “or the spouse, civil partner, child or step-child of such a person”.
+**20.**[^c-17cd6fedb41c06eeca782610145a6bc5] At the end of each of regulations 15(bc), 23(12)(bc), 49(2)(bc), 82(4)(bc) and 111(2)(bc), insert “or the spouse, civil partner, child or step-child of such a person”.
 
-**21.**[^key-c34930a186795d03754d124b342b68fa] In regulation 81(10F)—
-
-- (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
-- (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
-
-**22.**[^key-568c1a60ff6ca57ef498c97940c4ed9b] In regulation 110(12F)—
+**21.**[^c-c34930a186795d03754d124b342b68fa] In regulation 81(10F)—
 
 - (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
 - (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
 
-**23.**[^key-49b369909fd95c9318a2396b50fe680b] In Schedule 1, in paragraph 4ZC—
+**22.**[^c-568c1a60ff6ca57ef498c97940c4ed9b] In regulation 110(12F)—
+
+- (a) in sub-paragraph (a), after “Ukrainian national” insert “or the spouse, civil partner, child or step-child of such a person”;
+- (b) in sub-paragraph (b), for “A is allowed to stay in the United Kingdom” substitute “the person granted leave to enter or remain”.
+
+**23.**[^c-49b369909fd95c9318a2396b50fe680b] In Schedule 1, in paragraph 4ZC—
 
 - (a) the existing text becomes sub-paragraph (1);
 - (b) after that sub-paragraph insert—
@@ -313,58 +313,58 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   >
   > (4) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a protected Ukrainian national.
 
-**24.**[^key-4210ad78ceb379f0b905b8600b1bb088] In Schedule 4, in paragraph 6(ac), at the end insert “or the spouse, civil partner, child or step-child of such a person”.
+**24.**[^c-4210ad78ceb379f0b905b8600b1bb088] In Schedule 4, in paragraph 6(ac), at the end insert “or the spouse, civil partner, child or step-child of such a person”.
 
 ### CHAPTER 3 — Scottish healthcare allowances
 
-**25.**[^key-9bd1081e06df88fd1354d18b95da8ddb] In regulation 2(1)—
+**25.**[^c-9bd1081e06df88fd1354d18b95da8ddb] In regulation 2(1)—
 
 - (a) in the definition of “bursary year” omit “or a Scottish healthcare allowance”;
 - (b) omit the definition of “Scottish healthcare allowance”.
 
-**26.**[^key-84df645ff827d40986c2b812025691a6] For regulation 4(3)(c) substitute—
+**26.**[^c-84df645ff827d40986c2b812025691a6] For regulation 4(3)(c) substitute—
 
 > - (c) there has been bestowed on, or paid to, A in relation to A’s attendance on the course a healthcare bursary, other than a universal healthcare bursary, the amount of which is not calculated by reference to A’s income;
 
 .
 
-**27.**[^key-874e28cec3e074c473d46fe877d84593] For regulation 7(5)(b) substitute—
+**27.**[^c-874e28cec3e074c473d46fe877d84593] For regulation 7(5)(b) substitute—
 
 > - (b) the eligible student is to receive any payment under a healthcare bursary the amount of which is calculated by reference to the student’s income; or
 
 .
 
-**28.**[^key-9f1bce8c7f92c569c2ec431990c9d1c7] For regulation 81(3)(a) substitute—
+**28.**[^c-9f1bce8c7f92c569c2ec431990c9d1c7] For regulation 81(3)(a) substitute—
 
 > - (a) there has been bestowed on, or paid to, A in relation to A undertaking the part-time course, a healthcare bursary whether or not the amount of such bursary is calculated by reference to A’s income;
 
 .
 
-**29.**[^key-519a7c5e9e0186b564dd525efa198a70] Omit regulation 110(4)(a)(ii).
+**29.**[^c-519a7c5e9e0186b564dd525efa198a70] Omit regulation 110(4)(a)(ii).
 
 ### CHAPTER 4 — Amendments relating to healthcare bursary – loan for living costs
 
-**30.**[^key-297ed8438b1d9467ad1b1e6fac503a6f] In regulation 43—
+**30.**[^c-297ed8438b1d9467ad1b1e6fac503a6f] In regulation 43—
 
 - (a) in the heading, omit “undertaking their first year of study”;
 - (b) in paragraph (1), omit “who is undertaking their first year of study”.
 
-**31.**[^key-d05eb5ec51f446ed0c48fe16ea87654a] In regulation 45—
+**31.**[^c-d05eb5ec51f446ed0c48fe16ea87654a] In regulation 45—
 
 - (a) in paragraph (1), omit sub-paragraph (a);
 - (b) in paragraph (2), omit sub-paragraph (a).
 
-**32.**[^key-c8c879cb7acabca595d2b8bee798e91e] In regulation 52(i)(i), omit “regulation 23(3) or”.
+**32.**[^c-c8c879cb7acabca595d2b8bee798e91e] In regulation 52(i)(i), omit “regulation 23(3) or”.
 
 ## PART 6 — Amendments to the Education (Student Support) (Wales) Regulations 2018
 
 ### CHAPTER 1 — Introduction
 
-**33.**[^key-a23334ef358be95c1f10dbc78a74df7a] The Education (Student Support) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
+**33.**[^c-a23334ef358be95c1f10dbc78a74df7a] The Education (Student Support) (Wales) Regulations 2018[^f00009] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Family members of Afghan citizens
 
-**34.**[^key-d573c77e7c559b9c5fe0aeb3aaed139e] In regulation 23F(1)—
+**34.**[^c-d573c77e7c559b9c5fe0aeb3aaed139e] In regulation 23F(1)—
 
 - (a) in sub-paragraph (a), after “(see Schedule 2, paragraph 2ZA)” insert “or the spouse, civil partner, child or stepchild of such a person”;
 - (b) for sub-paragraph (b), substitute—
@@ -375,9 +375,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   >
   >   is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted and no appeal is pending.
 
-**35.**[^key-f6cb159eca53c25e588034f82913a27a] In each of regulations 80(2)(b)(ic) and 81(3)(b)(ic), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+**35.**[^c-f6cb159eca53c25e588034f82913a27a] In each of regulations 80(2)(b)(ic) and 81(3)(b)(ic), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
 
-**36.**[^key-d6d10eb37180cb4fcd605f31ea474d5f] In Schedule 2, paragraph 2ZA, sub-paragraph (4)—
+**36.**[^c-d6d10eb37180cb4fcd605f31ea474d5f] In Schedule 2, paragraph 2ZA, sub-paragraph (4)—
 
 - (a) in paragraph (ea)—
   - (i) omit sub-paragraph (ia);
@@ -406,7 +406,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
     > - (iii) a person with leave to enter or remain as a relevant Afghan citizen.
 
-**37.**[^key-3b3c49d04ae9eac378a0800b3680b0e2] In Schedule 4—
+**37.**[^c-3b3c49d04ae9eac378a0800b3680b0e2] In Schedule 4—
 
 - (a) in paragraph 13F(1)—
   - (i) in paragraph (a), after “(see Schedule 2, paragraph 2ZA)” insert “or the spouse, civil partner, child or stepchild of such a person”;
@@ -423,7 +423,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Family members of Ukrainian nationals
 
-**38.**[^key-0259cdb75b8e993dd28c53e51a014b56] In regulation 23G(1)—
+**38.**[^c-0259cdb75b8e993dd28c53e51a014b56] In regulation 23G(1)—
 
 - (a) in sub-paragraph (a), after “(see Schedule 2, paragraph 2ZC)” insert “or the spouse, civil partner, child or stepchild of such a person”;
 - (b) for sub-paragraph (b) substitute—
@@ -434,9 +434,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
   >
   >   is allowed to stay in the United Kingdom has expired and no further leave to remain has been granted.
 
-**39.**[^key-7a9f61f286fe3b034f767b74a70bc9fa] In each of regulations 80(2)(b)(id) and 81(3)(b)(id), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+**39.**[^c-7a9f61f286fe3b034f767b74a70bc9fa] In each of regulations 80(2)(b)(id) and 81(3)(b)(id), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
 
-**40.**[^key-fe74b35a85d024a301153b8c96d1dd4c] In Schedule 2, in paragraph 2ZC—
+**40.**[^c-fe74b35a85d024a301153b8c96d1dd4c] In Schedule 2, in paragraph 2ZC—
 
 - (a) after sub-paragraph (1) insert—
 
@@ -463,7 +463,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
   > (3) In this paragraph “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected Ukrainian national.
 
-**41.**[^key-943c2d60214e43dfdf877ceece219d5b] In Schedule 4—
+**41.**[^c-943c2d60214e43dfdf877ceece219d5b] In Schedule 4—
 
 - (a) in paragraph 13G(1)—
   - (i) in paragraph (a), after “(see Schedule 2, paragraph 2ZC)” insert “or the spouse, civil partner, child or stepchild of such a person”;
@@ -480,7 +480,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Scottish healthcare allowances
 
-**42.**[^key-99f7ab493980e05d331b6236567511f7] In regulation 10—
+**42.**[^c-99f7ab493980e05d331b6236567511f7] In regulation 10—
 
 - (a) in paragraph (1), in Exception 3—
   - (i) for paragraph (a) substitute—
@@ -495,49 +495,49 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
     ;
 - (b) in paragraph (4), omit the definition of “Scottish healthcare allowance”.
 
-**43.**[^key-b43f920a8cb7e0c6f08aeb6c9faf41b9] In regulation 24(2), in Case 2, for paragraph (b) substitute—
+**43.**[^c-b43f920a8cb7e0c6f08aeb6c9faf41b9] In regulation 24(2), in Case 2, for paragraph (b) substitute—
 
 > - (b) the graduate is to receive any payment under a healthcare bursary, the amount of which is calculated by reference to the graduate’s income;
 
 .
 
-**44.**[^key-32953ae93740ce3ae2bbddf14e7b012b] In regulation 39, for Exception 2 (but not the heading before it) substitute—
+**44.**[^c-32953ae93740ce3ae2bbddf14e7b012b] In regulation 39, for Exception 2 (but not the heading before it) substitute—
 
 > Where the present course is not an accelerated graduate entry course, the academic year is a year in respect of which a student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
 
-**45.**[^key-ad92ee9c3191682ccb8747a722ea85fd] In regulation 44(1), for Exception 3 (but not the heading before it) substitute—
+**45.**[^c-ad92ee9c3191682ccb8747a722ea85fd] In regulation 44(1), for Exception 3 (but not the heading before it) substitute—
 
 > The academic year is a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
 
-**46.**[^key-e7f269ebdc4a88799becec7be386b6ab] In regulation 55(3), in Category 2, for paragraph (a) substitute—
+**46.**[^c-e7f269ebdc4a88799becec7be386b6ab] In regulation 55(3), in Category 2, for paragraph (a) substitute—
 
 > - (a) an academic year in respect of which a student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount), or
 
 .
 
-**47.**[^key-7e4585502aa893e890f1b6eca546acc6] In regulation 62(2), for Exception 3 (but not the heading before it) substitute—
+**47.**[^c-7e4585502aa893e890f1b6eca546acc6] In regulation 62(2), for Exception 3 (but not the heading before it) substitute—
 
 > The present course is a full-time course and the academic year is a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
 
-**48.**[^key-dbfb3696e85cbcc711dcd9f56da42fb4] In regulation 65(1), for Condition 3 (but not the heading before it) substitute—
+**48.**[^c-dbfb3696e85cbcc711dcd9f56da42fb4] In regulation 65(1), for Condition 3 (but not the heading before it) substitute—
 
 > The academic year is not a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
 
-**49.**[^key-c6326ab5281e9d29cd4f64ba1e69d3bc] In regulation 69(2), for Exception 3 (but not the heading before it) substitute—
+**49.**[^c-c6326ab5281e9d29cd4f64ba1e69d3bc] In regulation 69(2), for Exception 3 (but not the heading before it) substitute—
 
 > The academic year is a year in respect of which the student is eligible to apply for a healthcare bursary calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
 
-**50.**[^key-def6336a43e42bf82f07ad587efbc406] In Schedule 4, in paragraph 5(1), in Exception 2 omit paragraph (b).
+**50.**[^c-def6336a43e42bf82f07ad587efbc406] In Schedule 4, in paragraph 5(1), in Exception 2 omit paragraph (b).
 
-**51.**[^key-fc6da726fc40f1510d5f65caac252f6e] In Schedule 5, in paragraph 2, in Condition 4, for paragraph (b) substitute—
+**51.**[^c-fc6da726fc40f1510d5f65caac252f6e] In Schedule 5, in paragraph 2, in Condition 4, for paragraph (b) substitute—
 
 > - (b) is a course where at least one academic year is one in relation to which the eligible Oxbridge student is eligible to apply for a bursary or award of a similar description under section 63 of the Health Services and Public Health Act 1968 or Article 44 of the Health and Personal Social Services (Northern Ireland) Order 1972, provided that the bursary or similar award is calculated by reference to the student’s income (whether or not the calculation results in a nil amount).
 
-**52.**[^key-3c20a094e86c8ef5c49d02189e1682c6] In Schedule 7, in Table 16, omit the table entry relating to “Scottish healthcare allowance”.
+**52.**[^c-3c20a094e86c8ef5c49d02189e1682c6] In Schedule 7, in Table 16, omit the table entry relating to “Scottish healthcare allowance”.
 
 ### CHAPTER 5 — Amendment relating to healthcare bursary – maintenance loan
 
-**53.**[^key-37a78e7977e017867f4254ff93595340] In regulation 55(3) (as amended by regulation 46 of these Regulations)—
+**53.**[^c-37a78e7977e017867f4254ff93595340] In regulation 55(3) (as amended by regulation 46 of these Regulations)—
 
 - (a) for Category 1 (but not the heading before it) substitute—
 
@@ -550,7 +550,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 6 — Amendments to grants for dependants – distance learning students
 
-**54.**[^key-2564ceea3c5620c26b0ed994aebb8a54] In regulation 69(2), after Exception 7 insert—
+**54.**[^c-2564ceea3c5620c26b0ed994aebb8a54] In regulation 69(2), after Exception 7 insert—
 
 > Exception 8
 >
@@ -563,7 +563,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 7 — Miscellaneous amendments
 
-**55.**[^key-8a845cff26953b78f4bc8b2198d64faa] In Schedule 2, in paragraph 9(2)—
+**55.**[^c-8a845cff26953b78f4bc8b2198d64faa] In Schedule 2, in paragraph 9(2)—
 
 - (a) in paragraph (b), omit “or”
 - (b) after paragraph (b) insert—
@@ -572,7 +572,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
   .
 
-**56.**[^key-cf8c62e4772427baed201b9146616070] In Schedule 7, in Table 16, at the appropriate place in alphabetical order of the first column insert the following table entries—
+**56.**[^c-cf8c62e4772427baed201b9146616070] In Schedule 7, in Table 16, at the appropriate place in alphabetical order of the first column insert the following table entries—
 
 > |  |  |
 > | --- | --- |
@@ -594,19 +594,19 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 1 — Introduction
 
-**57.**[^key-b03f896f0652211448e8d98104f5bca5] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00010] are amended in accordance with this Part.
+**57.**[^c-b03f896f0652211448e8d98104f5bca5] The Education (Postgraduate Doctoral Degree Loans) (Wales) Regulations 2018[^f00010] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Family members of Afghan citizens
 
-**58.**[^key-432628e3ee430f115f3b844df75ff3ea] In regulation 2(1), in the definition of “person with leave to enter or remain as a relevant Afghan citizen”—
+**58.**[^c-432628e3ee430f115f3b844df75ff3ea] In regulation 2(1), in the definition of “person with leave to enter or remain as a relevant Afghan citizen”—
 
 - (a) omit paragraph (aa);
 - (b) after paragraph (b) insert “or”;
 - (c) omit paragraph (d) and the “or” before it.
 
-**59.**[^key-b5e7a3df30d0e2f35c97097fd61fba72] In regulation 8(bc), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+**59.**[^c-b5e7a3df30d0e2f35c97097fd61fba72] In regulation 8(bc), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
 
-**60.**[^key-1df8e8338971dd92b01f049004032d3a] In Schedule 1, paragraph 4A(4)—
+**60.**[^c-1df8e8338971dd92b01f049004032d3a] In Schedule 1, paragraph 4A(4)—
 
 - (a) in paragraph (c)(i)—
   - (i) after paragraph (ab) omit “or”;
@@ -635,9 +635,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Family members of Ukrainian nationals
 
-**61.**[^key-f8db9fe1c68fe9920fa8aa9d2b4f858d] In regulation 8(bd), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+**61.**[^c-f8db9fe1c68fe9920fa8aa9d2b4f858d] In regulation 8(bd), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
 
-**62.**[^key-c1119563339bac307718cc743019bd6a] In Schedule 1, in paragraph 4C—
+**62.**[^c-c1119563339bac307718cc743019bd6a] In Schedule 1, in paragraph 4C—
 
 - (a) the existing text becomes sub-paragraph (1);
 - (b) after that sub-paragraph insert—
@@ -664,7 +664,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Early termination of eligibility
 
-**63.**[^key-0e292b63ac327fcaa33496b522a4a11d] In regulation 3—
+**63.**[^c-0e292b63ac327fcaa33496b522a4a11d] In regulation 3—
 
 - (a) after paragraph (10) insert—
 
@@ -751,19 +751,19 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 5 — Scottish healthcare allowances
 
-**64.**[^key-9bf24296a88a0fc80a3b9f13dad94d58] Omit regulation 3(3)(j)(ii).
+**64.**[^c-9bf24296a88a0fc80a3b9f13dad94d58] Omit regulation 3(3)(j)(ii).
 
 ## PART 8 — Amendments to the Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019
 
 ### CHAPTER 1 — Introduction
 
-**65.**[^key-12196334d11559b2c0db874c9d90abae] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00011] are amended in accordance with this Part.
+**65.**[^c-12196334d11559b2c0db874c9d90abae] The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) Regulations 2019[^f00011] are amended in accordance with this Part.
 
 ### CHAPTER 2 — Family members of Afghan citizens
 
-**66.**[^key-141b2c764390d7458028feafdc624502] In regulation 16(1)(b)(ia), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+**66.**[^c-141b2c764390d7458028feafdc624502] In regulation 16(1)(b)(ia), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
 
-**67.**[^key-1bfc5dd90ed6e300432b18367197acf3] In Schedule 2, in paragraph 2A(4)—
+**67.**[^c-1bfc5dd90ed6e300432b18367197acf3] In Schedule 2, in paragraph 2A(4)—
 
 - (a) in paragraph (da)—
   - (i) omit sub-paragraph (ia);
@@ -794,9 +794,9 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 3 — Family members of Ukrainian nationals
 
-**68.**[^key-ceab07fcdae56ca1faaa637af18f3743] In regulation 16(1)(b)(ib), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
+**68.**[^c-ceab07fcdae56ca1faaa637af18f3743] In regulation 16(1)(b)(ib), at the end insert “or the spouse, civil partner, child or stepchild of such a person”.
 
-**69.**[^key-9045d14efe72e38eb59a748c20b8acac] In Schedule 2, in paragraph 2C—
+**69.**[^c-9045d14efe72e38eb59a748c20b8acac] In Schedule 2, in paragraph 2C—
 
 - (a) after sub-paragraph (1) insert—
 
@@ -821,7 +821,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
   > (3) In this paragraph, “**leave application date**” means the date on which a person (“**P**”) made an application for leave to enter or remain in the United Kingdom that results in P becoming a person granted leave to enter or remain as a protected Ukrainian national.
 
-**70.**[^key-d4c4fce7544962344ba7cbc6df663866] In Schedule 4, in Table 3, after the entry for “leave application date” in the second place it occurs, insert the following table entry—
+**70.**[^c-d4c4fce7544962344ba7cbc6df663866] In Schedule 4, in Table 3, after the entry for “leave application date” in the second place it occurs, insert the following table entry—
 
 > |  |  |
 > | --- | --- |
@@ -829,14 +829,14 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 4 — Early termination of eligibility
 
-**71.**[^key-84c1f5f672162311de1cb6d283631ce5] Before regulation 12A insert the heading “Persons who cease to have leave to remain under residence scheme immigration rules”.
+**71.**[^c-84c1f5f672162311de1cb6d283631ce5] Before regulation 12A insert the heading “Persons who cease to have leave to remain under residence scheme immigration rules”.
 
-**72.**[^key-5959f788dc59434eb1c14b9f16f09ea0] In regulation 12A—
+**72.**[^c-5959f788dc59434eb1c14b9f16f09ea0] In regulation 12A—
 
 - (a) in paragraph (b), for “as at the day before the first day of the first academic year of that designated course” substitute “as at the day before the relevant day”;
 - (b) in the words after paragraph (b), for “immediately before the first day of the first academic year of that designated course” substitute “immediately before the relevant day”.
 
-**73.**[^key-6e511871a2a48046676ee826e61c9b66] After regulation 12A insert—
+**73.**[^c-6e511871a2a48046676ee826e61c9b66] After regulation 12A insert—
 
 > **12AA.** Where—
 >
@@ -845,7 +845,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 >
 > A’s status as an eligible student terminates immediately before the relevant day.
 
-**74.**[^key-2c72d46009b73116c8d4ee026e747f3d] After regulation 12AA (as inserted by regulation 73 of these Regulations) insert—
+**74.**[^c-2c72d46009b73116c8d4ee026e747f3d] After regulation 12AA (as inserted by regulation 73 of these Regulations) insert—
 
 > **12B. Refugees who cease to have leave to remain**
 >
@@ -926,13 +926,13 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 >
 > is a British or Irish citizen.
 
-**75.**[^key-9d83bddc21809f64882ba31fbab7a309] In Schedule 1, paragraph 3(1), at the appropriate place insert—
+**75.**[^c-9d83bddc21809f64882ba31fbab7a309] In Schedule 1, paragraph 3(1), at the appropriate place insert—
 
 > - “**relevant day**” (“***diwrnod perthnasol***”) means—
 >   - (a) the first day of the first academic year of the designated course (“the AY1 start date”); or
 >   - (b) if the relevant status or period for which a person is allowed to stay in the United Kingdom expires on or after AY1 start date, the first day of the academic year which begins immediately after the academic year during which the status or period expires.
 
-**76.**[^key-273e5833ba1b7e26cb59411ce116921b] In Schedule 4, in Table 3, at the appropriate place insert the following table entry—
+**76.**[^c-273e5833ba1b7e26cb59411ce116921b] In Schedule 4, in Table 3, at the appropriate place insert the following table entry—
 
 > |  |  |
 > | --- | --- |
@@ -940,19 +940,19 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 ### CHAPTER 5 — Scottish healthcare allowances
 
-**77.**[^key-178835b5b93a1c146df639d8afe8774b] In regulation 10(1), in Exception 9, omit paragraph (b).
+**77.**[^c-178835b5b93a1c146df639d8afe8774b] In regulation 10(1), in Exception 9, omit paragraph (b).
 
 ## PART 9 — Savings
 
-### 78. Interpretation[^key-d77a04009c62c551c90856aee46a4402]
+### 78. Interpretation[^c-d77a04009c62c551c90856aee46a4402]
 
 In this Part “**earlier academic year**” means an academic year beginning before 1 August 2024.
 
-### 79. Savings: the Education (European University Institute) (Wales) Regulations 2014[^key-05acdedccdea7b79760268fd942f17c9][^key-63918a3161a3892b330d9c3293348c32]
+### 79. Savings: the Education (European University Institute) (Wales) Regulations 2014[^c-05acdedccdea7b79760268fd942f17c9][^c-63918a3161a3892b330d9c3293348c32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 80. Savings: the Education (Student Support) (Wales) Regulations 2018[^key-37a15d68c44719bd0fc55129240bf166]
+### 80. Savings: the Education (Student Support) (Wales) Regulations 2018[^c-37a15d68c44719bd0fc55129240bf166]
 
 (1) This regulation applies where a current Afghan scheme student (“**S**”) applies for support under the 2018 Regulations in respect of an academic year of a relevant course which begins on or after 1 August 2024 (“**the current course**”).
 
@@ -1015,166 +1015,166 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: [2015 anaw 1](https://www.legislation.gov.uk/anaw/2015/1). See section 57(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-9d46c8ccec050cb655d0f335229625f7]: Commencement: Reg. 1 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-9d46c8ccec050cb655d0f335229625f7]: Commencement: Reg. 1 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-5e1e638099bb4d9e5ba44d06cf0beb6d]: Commencement: Reg. 2 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-5e1e638099bb4d9e5ba44d06cf0beb6d]: Commencement: Reg. 2 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-b66a0d19aa05965a04ab2f7a6742c83a]: Commencement: Reg. 3 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-b66a0d19aa05965a04ab2f7a6742c83a]: Commencement: Reg. 3 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2007/2310 (W. 181)](https://www.legislation.gov.uk/wsi/2007/2310), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
 
-[^key-aaa361cb6f0c84bb5357d9eecf9b8875]: Commencement: Reg. 4 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-aaa361cb6f0c84bb5357d9eecf9b8875]: Commencement: Reg. 4 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-92a530811e3e630978347feeb1b5a058]: Commencement: Reg. 5 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-92a530811e3e630978347feeb1b5a058]: Commencement: Reg. 5 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-163bf0143badf8ce65628dab113c966c]: Commencement: Reg. 6 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-163bf0143badf8ce65628dab113c966c]: Commencement: Reg. 6 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-57a2f34e71af724c9106651a1862ddf2]: Commencement: Reg. 7 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-57a2f34e71af724c9106651a1862ddf2]: Commencement: Reg. 7 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-93bf557828a421abccb97a0d788630df]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2023/1349/part/3) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(k)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/k)
+[^c-93bf557828a421abccb97a0d788630df]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2023/1349/part/3) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(k)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/k)
 
-[^key-a5e66725b61beb9297763b902f9a20b6]: Commencement: Reg. 14 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-a5e66725b61beb9297763b902f9a20b6]: Commencement: Reg. 14 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2015/1484 (W. 163)](https://www.legislation.gov.uk/wsi/2015/1484), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
 
-[^key-f094cfcb30e37090bd6688e7620eaef1]: Commencement: Reg. 15 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-f094cfcb30e37090bd6688e7620eaef1]: Commencement: Reg. 15 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-b9a12b498206994258ef7bb02048a97a]: Commencement: Reg. 16 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-b9a12b498206994258ef7bb02048a97a]: Commencement: Reg. 16 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-460f4e6cc2f05833c0a3f27389d68f1d]: Commencement: Reg. 17 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-460f4e6cc2f05833c0a3f27389d68f1d]: Commencement: Reg. 17 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-838dc22d05be0d33e79c07cfa1cf2030]: Commencement: Reg. 18 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-838dc22d05be0d33e79c07cfa1cf2030]: Commencement: Reg. 18 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2017/47 (W. 21)](https://www.legislation.gov.uk/wsi/2017/47), amended by [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/87 (W. 17)](https://www.legislation.gov.uk/wsi/2023/87). There are other amending instruments but none are relevant.
 
-[^key-5cca5e8381ab233b3880cc0fda0f777d]: Commencement: Reg. 19 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-5cca5e8381ab233b3880cc0fda0f777d]: Commencement: Reg. 19 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-17cd6fedb41c06eeca782610145a6bc5]: Commencement: Reg. 20 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-17cd6fedb41c06eeca782610145a6bc5]: Commencement: Reg. 20 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-c34930a186795d03754d124b342b68fa]: Commencement: Reg. 21 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-c34930a186795d03754d124b342b68fa]: Commencement: Reg. 21 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-568c1a60ff6ca57ef498c97940c4ed9b]: Commencement: Reg. 22 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-568c1a60ff6ca57ef498c97940c4ed9b]: Commencement: Reg. 22 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-49b369909fd95c9318a2396b50fe680b]: Commencement: Reg. 23 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-49b369909fd95c9318a2396b50fe680b]: Commencement: Reg. 23 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-4210ad78ceb379f0b905b8600b1bb088]: Commencement: Reg. 24 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-4210ad78ceb379f0b905b8600b1bb088]: Commencement: Reg. 24 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-9bd1081e06df88fd1354d18b95da8ddb]: Commencement: Reg. 25 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-9bd1081e06df88fd1354d18b95da8ddb]: Commencement: Reg. 25 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-84df645ff827d40986c2b812025691a6]: Commencement: Reg. 26 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-84df645ff827d40986c2b812025691a6]: Commencement: Reg. 26 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-874e28cec3e074c473d46fe877d84593]: Commencement: Reg. 27 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-874e28cec3e074c473d46fe877d84593]: Commencement: Reg. 27 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-9f1bce8c7f92c569c2ec431990c9d1c7]: Commencement: Reg. 28 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-9f1bce8c7f92c569c2ec431990c9d1c7]: Commencement: Reg. 28 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-519a7c5e9e0186b564dd525efa198a70]: Commencement: Reg. 29 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-519a7c5e9e0186b564dd525efa198a70]: Commencement: Reg. 29 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-297ed8438b1d9467ad1b1e6fac503a6f]: Commencement: Reg. 30 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-297ed8438b1d9467ad1b1e6fac503a6f]: Commencement: Reg. 30 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-d05eb5ec51f446ed0c48fe16ea87654a]: Commencement: Reg. 31 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-d05eb5ec51f446ed0c48fe16ea87654a]: Commencement: Reg. 31 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-c8c879cb7acabca595d2b8bee798e91e]: Commencement: Reg. 32 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-c8c879cb7acabca595d2b8bee798e91e]: Commencement: Reg. 32 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-a23334ef358be95c1f10dbc78a74df7a]: Commencement: Reg. 33 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-a23334ef358be95c1f10dbc78a74df7a]: Commencement: Reg. 33 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2018/191 (W. 42)](https://www.legislation.gov.uk/wsi/2018/191), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/79 (W. 28)](https://www.legislation.gov.uk/wsi/2022/79), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
 
-[^key-d573c77e7c559b9c5fe0aeb3aaed139e]: Commencement: Reg. 34 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-d573c77e7c559b9c5fe0aeb3aaed139e]: Commencement: Reg. 34 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-f6cb159eca53c25e588034f82913a27a]: Commencement: Reg. 35 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-f6cb159eca53c25e588034f82913a27a]: Commencement: Reg. 35 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-d6d10eb37180cb4fcd605f31ea474d5f]: Commencement: Reg. 36 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-d6d10eb37180cb4fcd605f31ea474d5f]: Commencement: Reg. 36 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-3b3c49d04ae9eac378a0800b3680b0e2]: Commencement: Reg. 37 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-3b3c49d04ae9eac378a0800b3680b0e2]: Commencement: Reg. 37 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-0259cdb75b8e993dd28c53e51a014b56]: Commencement: Reg. 38 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-0259cdb75b8e993dd28c53e51a014b56]: Commencement: Reg. 38 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-7a9f61f286fe3b034f767b74a70bc9fa]: Commencement: Reg. 39 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-7a9f61f286fe3b034f767b74a70bc9fa]: Commencement: Reg. 39 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-fe74b35a85d024a301153b8c96d1dd4c]: Commencement: Reg. 40 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-fe74b35a85d024a301153b8c96d1dd4c]: Commencement: Reg. 40 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-943c2d60214e43dfdf877ceece219d5b]: Commencement: Reg. 41 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-943c2d60214e43dfdf877ceece219d5b]: Commencement: Reg. 41 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-99f7ab493980e05d331b6236567511f7]: Commencement: Reg. 42 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-99f7ab493980e05d331b6236567511f7]: Commencement: Reg. 42 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-b43f920a8cb7e0c6f08aeb6c9faf41b9]: Commencement: Reg. 43 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-b43f920a8cb7e0c6f08aeb6c9faf41b9]: Commencement: Reg. 43 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-32953ae93740ce3ae2bbddf14e7b012b]: Commencement: Reg. 44 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-32953ae93740ce3ae2bbddf14e7b012b]: Commencement: Reg. 44 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-ad92ee9c3191682ccb8747a722ea85fd]: Commencement: Reg. 45 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-ad92ee9c3191682ccb8747a722ea85fd]: Commencement: Reg. 45 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-e7f269ebdc4a88799becec7be386b6ab]: Commencement: Reg. 46 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-e7f269ebdc4a88799becec7be386b6ab]: Commencement: Reg. 46 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-7e4585502aa893e890f1b6eca546acc6]: Commencement: Reg. 47 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-7e4585502aa893e890f1b6eca546acc6]: Commencement: Reg. 47 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-dbfb3696e85cbcc711dcd9f56da42fb4]: Commencement: Reg. 48 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-dbfb3696e85cbcc711dcd9f56da42fb4]: Commencement: Reg. 48 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-c6326ab5281e9d29cd4f64ba1e69d3bc]: Commencement: Reg. 49 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-c6326ab5281e9d29cd4f64ba1e69d3bc]: Commencement: Reg. 49 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-def6336a43e42bf82f07ad587efbc406]: Commencement: Reg. 50 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-def6336a43e42bf82f07ad587efbc406]: Commencement: Reg. 50 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-fc6da726fc40f1510d5f65caac252f6e]: Commencement: Reg. 51 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-fc6da726fc40f1510d5f65caac252f6e]: Commencement: Reg. 51 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-3c20a094e86c8ef5c49d02189e1682c6]: Commencement: Reg. 52 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-3c20a094e86c8ef5c49d02189e1682c6]: Commencement: Reg. 52 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-37a78e7977e017867f4254ff93595340]: Commencement: Reg. 53 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-37a78e7977e017867f4254ff93595340]: Commencement: Reg. 53 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-2564ceea3c5620c26b0ed994aebb8a54]: Commencement: Reg. 54 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-2564ceea3c5620c26b0ed994aebb8a54]: Commencement: Reg. 54 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-8a845cff26953b78f4bc8b2198d64faa]: Commencement: Reg. 55 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-8a845cff26953b78f4bc8b2198d64faa]: Commencement: Reg. 55 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-cf8c62e4772427baed201b9146616070]: Commencement: Reg. 56 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-cf8c62e4772427baed201b9146616070]: Commencement: Reg. 56 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-b03f896f0652211448e8d98104f5bca5]: Commencement: Reg. 57 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-b03f896f0652211448e8d98104f5bca5]: Commencement: Reg. 57 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2018/656 (W. 124)](https://www.legislation.gov.uk/wsi/2018/656), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
 
-[^key-432628e3ee430f115f3b844df75ff3ea]: Commencement: Reg. 58 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-432628e3ee430f115f3b844df75ff3ea]: Commencement: Reg. 58 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-b5e7a3df30d0e2f35c97097fd61fba72]: Commencement: Reg. 59 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-b5e7a3df30d0e2f35c97097fd61fba72]: Commencement: Reg. 59 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-1df8e8338971dd92b01f049004032d3a]: Commencement: Reg. 60 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-1df8e8338971dd92b01f049004032d3a]: Commencement: Reg. 60 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-f8db9fe1c68fe9920fa8aa9d2b4f858d]: Commencement: Reg. 61 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-f8db9fe1c68fe9920fa8aa9d2b4f858d]: Commencement: Reg. 61 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-c1119563339bac307718cc743019bd6a]: Commencement: Reg. 62 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-c1119563339bac307718cc743019bd6a]: Commencement: Reg. 62 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-0e292b63ac327fcaa33496b522a4a11d]: Commencement: Reg. 63 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-0e292b63ac327fcaa33496b522a4a11d]: Commencement: Reg. 63 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-9bf24296a88a0fc80a3b9f13dad94d58]: Commencement: Reg. 64 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-9bf24296a88a0fc80a3b9f13dad94d58]: Commencement: Reg. 64 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-12196334d11559b2c0db874c9d90abae]: Commencement: Reg. 65 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-12196334d11559b2c0db874c9d90abae]: Commencement: Reg. 65 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2019/895 (W. 161)](https://www.legislation.gov.uk/wsi/2019/895), relevant amendments are [S.I. 2021/481 (W. 148)](https://www.legislation.gov.uk/wsi/2021/481), [S.I. 2022/403 (W. 100)](https://www.legislation.gov.uk/wsi/2022/403), [S.I. 2022/764 (W. 166)](https://www.legislation.gov.uk/wsi/2022/764) and [S.I. 2023/633 (W. 97)](https://www.legislation.gov.uk/wsi/2023/633). There are other amending instruments but none are relevant.
 
-[^key-141b2c764390d7458028feafdc624502]: Commencement: Reg. 66 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-141b2c764390d7458028feafdc624502]: Commencement: Reg. 66 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-1bfc5dd90ed6e300432b18367197acf3]: Commencement: Reg. 67 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-1bfc5dd90ed6e300432b18367197acf3]: Commencement: Reg. 67 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-ceab07fcdae56ca1faaa637af18f3743]: Commencement: Reg. 68 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-ceab07fcdae56ca1faaa637af18f3743]: Commencement: Reg. 68 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-9045d14efe72e38eb59a748c20b8acac]: Commencement: Reg. 69 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-9045d14efe72e38eb59a748c20b8acac]: Commencement: Reg. 69 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-d4c4fce7544962344ba7cbc6df663866]: Commencement: Reg. 70 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-d4c4fce7544962344ba7cbc6df663866]: Commencement: Reg. 70 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-84c1f5f672162311de1cb6d283631ce5]: Commencement: Reg. 71 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-84c1f5f672162311de1cb6d283631ce5]: Commencement: Reg. 71 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-5959f788dc59434eb1c14b9f16f09ea0]: Commencement: Reg. 72 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-5959f788dc59434eb1c14b9f16f09ea0]: Commencement: Reg. 72 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-6e511871a2a48046676ee826e61c9b66]: Commencement: Reg. 73 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-6e511871a2a48046676ee826e61c9b66]: Commencement: Reg. 73 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-2c72d46009b73116c8d4ee026e747f3d]: Commencement: Reg. 74 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-2c72d46009b73116c8d4ee026e747f3d]: Commencement: Reg. 74 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-9d83bddc21809f64882ba31fbab7a309]: Commencement: Reg. 75 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-9d83bddc21809f64882ba31fbab7a309]: Commencement: Reg. 75 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-273e5833ba1b7e26cb59411ce116921b]: Commencement: Reg. 76 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-273e5833ba1b7e26cb59411ce116921b]: Commencement: Reg. 76 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-178835b5b93a1c146df639d8afe8774b]: Commencement: Reg. 77 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-178835b5b93a1c146df639d8afe8774b]: Commencement: Reg. 77 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-d77a04009c62c551c90856aee46a4402]: Commencement: Reg. 78 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-d77a04009c62c551c90856aee46a4402]: Commencement: Reg. 78 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-05acdedccdea7b79760268fd942f17c9]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/wsi/2023/1349/regulation/79) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(k)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/k)
+[^c-05acdedccdea7b79760268fd942f17c9]: Textual amendment: [Reg. 79](https://www.legislation.gov.uk/wsi/2023/1349/regulation/79) omitted (with application in accordance with reg. 2 of the amending W.S.I.) by virtue of [The Education (Student Finance) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/3)](https://www.legislation.gov.uk/wsi/2026/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/3/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2026/3/regulation/2), [10(k)](https://www.legislation.gov.uk/wsi/2026/3/regulation/10/k)
 
-[^key-63918a3161a3892b330d9c3293348c32]: Commencement: Reg. 79 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-63918a3161a3892b330d9c3293348c32]: Commencement: Reg. 79 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
 
-[^key-37a15d68c44719bd0fc55129240bf166]: Commencement: Reg. 80 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)
+[^c-37a15d68c44719bd0fc55129240bf166]: Commencement: Reg. 80 in force at 4.1.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1349/regulation/1/2)

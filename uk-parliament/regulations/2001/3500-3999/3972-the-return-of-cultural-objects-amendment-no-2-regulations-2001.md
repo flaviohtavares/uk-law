@@ -31,7 +31,7 @@ summary: ''
 
 CULTURAL OBJECTS
 
-The Return of Cultural Objects (Amendment) (No. 2) Regulations 2001 (revoked)[^key-98028c344540252f1cd802316606a1f6]
+The Return of Cultural Objects (Amendment) (No. 2) Regulations 2001 (revoked)[^c-98028c344540252f1cd802316606a1f6]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1st January 2002
 
-[^key-98028c344540252f1cd802316606a1f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98028c344540252f1cd802316606a1f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-98028c344540252f1cd802316606a1f6][^key-98028c344540252f1cd802316606a1f6]
+## 1. Citation and commencement[^c-98028c344540252f1cd802316606a1f6][^c-98028c344540252f1cd802316606a1f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-98028c344540252f1cd802316606a1f6][^key-98028c344540252f1cd802316606a1f6]
+## 2. Amendment[^c-98028c344540252f1cd802316606a1f6][^c-98028c344540252f1cd802316606a1f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-98028c344540252f1cd802316606a1f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98028c344540252f1cd802316606a1f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-98028c344540252f1cd802316606a1f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-98028c344540252f1cd802316606a1f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-98028c344540252f1cd802316606a1f6]: Textual amendment: Regulations revoked (18.12.2015) by [The Return of Cultural Objects (Amendment) Regulations 2015 (S.I. 2015/1926)](https://www.legislation.gov.uk/uksi/2015/1926), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1926/regulation/3/b)
+[^c-98028c344540252f1cd802316606a1f6]: Textual amendment: Regulations revoked (18.12.2015) by [The Return of Cultural Objects (Amendment) Regulations 2015 (S.I. 2015/1926)](https://www.legislation.gov.uk/uksi/2015/1926), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2015/1926/regulation/3/b)

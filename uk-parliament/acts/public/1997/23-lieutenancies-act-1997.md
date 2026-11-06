@@ -49,7 +49,7 @@ An Act to consolidate certain enactments relating to the lieutenancies in Great 
 
 (4) Schedule 1 to this Act (which identifies the areas which are counties in England and Wales and areas in Scotland for the purposes of the lieutenancies) shall have effect; and in this Act “**county**” and “**area**” shall be construed accordingly.
 
-## 2. Deputy lieutenants.[^key-d5ebeadb192b5b3b712f1363cca5a7e9]
+## 2. Deputy lieutenants.[^c-d5ebeadb192b5b3b712f1363cca5a7e9]
 
 *Extent: E+W+S*
 
@@ -62,7 +62,7 @@ An Act to consolidate certain enactments relating to the lieutenancies in Great 
 
 (3) In subsection (2) “**appropriate service**” means either worthy service as a member of, or in a civil capacity in connection with, Her Majesty’s naval, military or air forces or such other service as makes a person suitable for appointment as a deputy lieutenant.
 
-(4)[^c863264][^key-f11caadb115adf59c9265810f17fc8ba] The lord-lieutenant of a county or area shall notify to Her Majesty the name of any person whom he proposes to appoint as a deputy lieutenant; and a commission as deputy lieutenant shall not be granted to that person until the lord-lieutenant has been informed by the Lord President of the Council[^key-3154910aa57518a301b047248714cde6] that Her Majesty does not disapprove of the granting of the commission.
+(4)[^c863264][^c-f11caadb115adf59c9265810f17fc8ba] The lord-lieutenant of a county or area shall notify to Her Majesty the name of any person whom he proposes to appoint as a deputy lieutenant; and a commission as deputy lieutenant shall not be granted to that person until the lord-lieutenant has been informed by the Lord President of the Council[^c-3154910aa57518a301b047248714cde6] that Her Majesty does not disapprove of the granting of the commission.
 
 (5) A commission as deputy lieutenant of a county or area is not vacated by reason that the person who granted it dies or otherwise ceases to hold office as lord-lieutenant.
 
@@ -181,14 +181,14 @@ Table
 
 | *County for the purposes of this Act* | *Local government areas* |
 | --- | --- |
-| Bedfordshire | Bedford, Central Bedfordshire[^key-f2b3c3000d6da123ce8793a3946498d1] and Luton |
+| Bedfordshire | Bedford, Central Bedfordshire[^c-f2b3c3000d6da123ce8793a3946498d1] and Luton |
 | Buckinghamshire | Buckinghamshire and Milton Keynes |
 | Cambridgeshire[^c863270] | Cambridgeshire and Peterborough |
-| Cheshire | Cheshire East, Cheshire West and Chester, and[^key-ba5eeedca9bbba94cfa2b65a65a98720], Halton and Warrington |
-| Cumbria *(Extent: E)*[^key-d00ad469a7d6e9eed69ac00c21fe462c] | Cumberland, Westmorland and Furness *(Extent: E)* |
+| Cheshire | Cheshire East, Cheshire West and Chester, and[^c-ba5eeedca9bbba94cfa2b65a65a98720], Halton and Warrington |
+| Cumbria *(Extent: E)*[^c-d00ad469a7d6e9eed69ac00c21fe462c] | Cumberland, Westmorland and Furness *(Extent: E)* |
 | Derbyshire | Derbyshire and Derby |
 | Devon | Devon, Plymouth and Torbay |
-| Dorset | Bournemouth, Christchurch and Poole and Dorset[^key-14b99e8ee53630c62bc9aaebe180d93a] |
+| Dorset | Bournemouth, Christchurch and Poole and Dorset[^c-14b99e8ee53630c62bc9aaebe180d93a] |
 | Durham | Durham, Darlington, Hartlepool and so much of Stockton-on-Tees as lies north of the line for the time being of the centre of the River Tees |
 | The East Riding of Yorkshire | The East Riding of Yorkshire and Kingston upon Hull (City of) |
 | East Sussex | East Sussex and Brighton and Hove |
@@ -199,7 +199,7 @@ Table
 | Lancashire | Lancashire, Blackburn and Blackpool |
 | Leicestershire | Leicestershire and Leicester |
 | Lincolnshire | Lincolnshire, North Lincolnshire and North East Lincolnshire |
-| Northamptonshire[^key-ebb32da008c99f018c77703d75def885] | North Northamptonshire and West Northamptonshire |
+| Northamptonshire[^c-ebb32da008c99f018c77703d75def885] | North Northamptonshire and West Northamptonshire |
 | North Yorkshire | North Yorkshire, Middlesbrough, Redcar and Cleveland, York and so much of Stockton-on-Tees as lies south of the line for the time being of the centre of the River Tees |
 | Nottinghamshire | Nottinghamshire and Nottingham |
 | Shropshire | Shropshire and The Wrekin |
@@ -349,15 +349,15 @@ Section 8(4).
 
 [^c863262]: Extent: Acts amending, repealing or revoking provisions are coextensive with the enactments they affect see [s. 9(3)](https://www.legislation.gov.uk/ukpga/1997/23/section/9/3).
 
-[^key-d5ebeadb192b5b3b712f1363cca5a7e9]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1997/23/section/2) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [34](https://www.legislation.gov.uk/uksi/2018/644/article/34)
+[^c-d5ebeadb192b5b3b712f1363cca5a7e9]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1997/23/section/2) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [34](https://www.legislation.gov.uk/uksi/2018/644/article/34)
 
 [^c863264]: Modification: S. 2(4): functions transferred (S.) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1)
 
     S. 2(4): functions of the Secretary of State transferred to the Lord Chancellor (26.11.2001) by [S.I. 2001/3500](https://www.legislation.gov.uk/uksi/2001/3500), [arts. 3](https://www.legislation.gov.uk/uksi/2001/3500/article/3), [4](https://www.legislation.gov.uk/uksi/2001/3500/article/4), [Sch 1 para. 1](https://www.legislation.gov.uk/uksi/2001/3500/schedule/1/paragraph/1)
 
-[^key-f11caadb115adf59c9265810f17fc8ba]: Modification: S. 2(4) transfer of functions (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/1837/article/4)
+[^c-f11caadb115adf59c9265810f17fc8ba]: Modification: S. 2(4) transfer of functions (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [4](https://www.legislation.gov.uk/uksi/2010/1837/article/4)
 
-[^key-3154910aa57518a301b047248714cde6]: Textual amendment: Words in s. 2(4) substituted (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1837/schedule/paragraph/5)
+[^c-3154910aa57518a301b047248714cde6]: Textual amendment: Words in s. 2(4) substituted (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2010/1837/schedule/paragraph/5)
 
 [^c863266]: Marginal citation: [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14).
 
@@ -367,17 +367,17 @@ Section 8(4).
 
 [^c863269]: Marginal citation: 1972\. c. 70.
 
-[^key-f2b3c3000d6da123ce8793a3946498d1]: Textual amendment: Words in Sch. 1 para. 3 substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2009/837/article/10/a)
+[^c-f2b3c3000d6da123ce8793a3946498d1]: Textual amendment: Words in Sch. 1 para. 3 substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2009/837/article/10/a)
 
 [^c863270]: Textual amendment: Entries in Sch. 1 para. 3 inserted (E.W.) (1.4.1998) by [S.I. 1997/1992](https://www.legislation.gov.uk/uksi/1997/1992), [reg. 2](https://www.legislation.gov.uk/uksi/1997/1992/regulation/2)
 
-[^key-ba5eeedca9bbba94cfa2b65a65a98720]: Textual amendment: Words in Sch. 1 para. 3 substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2009/837/article/10/b)
+[^c-ba5eeedca9bbba94cfa2b65a65a98720]: Textual amendment: Words in Sch. 1 para. 3 substituted (1.4.2009) by [Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009 (S.I. 2009/837)](https://www.legislation.gov.uk/uksi/2009/837), [arts. 1](https://www.legislation.gov.uk/uksi/2009/837/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2009/837/article/10/b)
 
-[^key-d00ad469a7d6e9eed69ac00c21fe462c]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/23/schedule/1/paragraph/3) inserted (E.W.) (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [28](https://www.legislation.gov.uk/uksi/2022/331/article/28)
+[^c-d00ad469a7d6e9eed69ac00c21fe462c]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/23/schedule/1/paragraph/3) inserted (E.W.) (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [28](https://www.legislation.gov.uk/uksi/2022/331/article/28)
 
-[^key-14b99e8ee53630c62bc9aaebe180d93a]: Textual amendment: Words in Sch. 1 para. 3 substituted (E.W.) (1.4.2019) by [The Local Government (Structural and Boundary Changes) (Supplementary Provision and Miscellaneous Amendments) Order 2019 (S.I. 2019/615)](https://www.legislation.gov.uk/uksi/2019/615), [arts. 1](https://www.legislation.gov.uk/uksi/2019/615/article/1), [4](https://www.legislation.gov.uk/uksi/2019/615/article/4)
+[^c-14b99e8ee53630c62bc9aaebe180d93a]: Textual amendment: Words in Sch. 1 para. 3 substituted (E.W.) (1.4.2019) by [The Local Government (Structural and Boundary Changes) (Supplementary Provision and Miscellaneous Amendments) Order 2019 (S.I. 2019/615)](https://www.legislation.gov.uk/uksi/2019/615), [arts. 1](https://www.legislation.gov.uk/uksi/2019/615/article/1), [4](https://www.legislation.gov.uk/uksi/2019/615/article/4)
 
-[^key-ebb32da008c99f018c77703d75def885]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/23/schedule/1/paragraph/3) inserted (1.4.2021) by [The Northamptonshire (Structural Changes) (Supplementary Provision and Amendment) Order 2021 (S.I. 2021/272)](https://www.legislation.gov.uk/uksi/2021/272), [arts. 1](https://www.legislation.gov.uk/uksi/2021/272/article/1), [2](https://www.legislation.gov.uk/uksi/2021/272/article/2)
+[^c-ebb32da008c99f018c77703d75def885]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1997/23/schedule/1/paragraph/3) inserted (1.4.2021) by [The Northamptonshire (Structural Changes) (Supplementary Provision and Amendment) Order 2021 (S.I. 2021/272)](https://www.legislation.gov.uk/uksi/2021/272), [arts. 1](https://www.legislation.gov.uk/uksi/2021/272/article/1), [2](https://www.legislation.gov.uk/uksi/2021/272/article/2)
 
 [^c863278]: Marginal citation: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
 

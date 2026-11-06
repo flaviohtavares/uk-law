@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Further consequences of placement[^key-8487c7346277b72704afdd73fd0949af]
+## 25. Further consequences of placement[^c-8487c7346277b72704afdd73fd0949af]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8487c7346277b72704afdd73fd0949af]: Commencement: S. 25 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8487c7346277b72704afdd73fd0949af]: Commencement: S. 25 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

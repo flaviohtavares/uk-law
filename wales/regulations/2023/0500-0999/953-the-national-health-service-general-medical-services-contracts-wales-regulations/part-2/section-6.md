@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. General condition relating to all contracts[^key-705f72a9cb3f072c9c656f32ba5b84e4]
+## 6. General condition relating to all contracts[^c-705f72a9cb3f072c9c656f32ba5b84e4]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
   - (ii) has had sequestration of the person’s estate awarded and has not been discharged from the sequestration;
 - (m) the person is the subject of a bankruptcy restrictions order or an interim bankruptcy restrictions order under Schedule 4A to the Insolvency Act 1986[^f00045] (bankruptcy restrictions order and undertaking), Schedule 2A to the Insolvency (Northern Ireland) Order 1989[^f00046] (bankruptcy restrictions order and undertaking), or sections 56A to 56K of the Bankruptcy (Scotland) Act 1985[^f00047] (bankruptcy restrictions order, interim bankruptcy restrictions order and bankruptcy restrictions undertaking), unless the person has been discharged from that order or that order has been annulled;
 - (n) the person—
-  - (i) is subject to moratorium period under a debt relief order under Part 7A[^key-ecc3de210b79992f0733c7b1aa1e29b3] of the Insolvency Act 1986[^f00048] (debt relief orders), or
+  - (i) is subject to moratorium period under a debt relief order under Part 7A[^c-ecc3de210b79992f0733c7b1aa1e29b3] of the Insolvency Act 1986[^f00048] (debt relief orders), or
   - (ii) is the subject of a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4ZB to the Insolvency Act 1986[^f00049] (debt relief restrictions orders and undertakings);
 - (o) the person has made a composition agreement or arrangement with, or granted a trust deed for, the person’s creditors and the person has not been discharged in respect of it;
 - (p) the person is subject to—
@@ -86,7 +86,7 @@ summary: ''
 
 ## Annotations
 
-[^key-705f72a9cb3f072c9c656f32ba5b84e4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/953/regulation/6) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-705f72a9cb3f072c9c656f32ba5b84e4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/953/regulation/6) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
 
 [^f00040]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12). Schedule 1 was amended by section 51 of, and Schedule 4 to, the Sexual Offences Act [1956 (c. 99)](https://www.legislation.gov.uk/ukpga/1956/99); paragraph 8 of Schedule 15 to, and section 170(2) of, and Schedule 16 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33); section 139 of, and paragraph 7 of Schedule 6 to, the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42); section 58(1) of, and Schedule 10 to, the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28); paragraph 53 of Schedule 21 to the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25); section 115(1) of, and paragraph 136(a) and (b) of Schedule 9 to, the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9); and section 57(1) of, and paragraph 1 of Schedule 5 to, the Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30).
 
@@ -104,7 +104,7 @@ summary: ''
 
 [^f00047]: Footnote: [1985 c. 66](https://www.legislation.gov.uk/ukpga/1985/66). Sections 56A to 56K were inserted by section 2(1) of the Bankruptcy and Diligence etc. (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3).
 
-[^key-ecc3de210b79992f0733c7b1aa1e29b3]: Textual amendment: Word in reg. 6(2)(n)(i) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [6(c)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/6/c)
+[^c-ecc3de210b79992f0733c7b1aa1e29b3]: Textual amendment: Word in reg. 6(2)(n)(i) substituted (11.1.2024) by [The National Health Service (General Medical Services Contracts) (Wales) (Amendment) Regulations 2023 (S.I. 2023/1421)](https://www.legislation.gov.uk/wsi/2023/1421), [regs. 1](https://www.legislation.gov.uk/wsi/2023/1421/regulation/1), [6(c)](https://www.legislation.gov.uk/wsi/2023/1421/regulation/6/c)
 
 [^f00048]: Footnote: Part VIIA was inserted by section 108(1) of, and Schedule 17 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 

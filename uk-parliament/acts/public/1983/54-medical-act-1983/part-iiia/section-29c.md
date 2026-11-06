@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29C. Dealing with questions as to impairment of fitness to practise[^key-f30b7eb1df3d1256767890b6861a71e3]
+## 29C. Dealing with questions as to impairment of fitness to practise[^c-f30b7eb1df3d1256767890b6861a71e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f30b7eb1df3d1256767890b6861a71e3]: Textual amendment: S. 29C substituted (3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65)) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/10); [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/iii)
+[^c-f30b7eb1df3d1256767890b6861a71e3]: Textual amendment: S. 29C substituted (3.12.2012 immediately after the commencement of S.I. 2002/3135, art. 10 in so far as it relates to 1983 c. 54, ss. 29A(4)(d), 29C and S.I. 2006/1914, art. 65 (and art. 2 in so far as it relates to art. 65)) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/10); [S.I. 2012/2686](https://www.legislation.gov.uk/uksi/2012/2686), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2012/2686/article/1/3), [2(a)(iii)](https://www.legislation.gov.uk/uksi/2012/2686/article/2/a/iii)

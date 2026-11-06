@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105X. Relationship between security duties and certain other duties etc[^key-c5343a08df9daf9f3bc613296ee6012e]
+## 105X. Relationship between security duties and certain other duties etc[^c-c5343a08df9daf9f3bc613296ee6012e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5343a08df9daf9f3bc613296ee6012e]: Textual amendment: [S. 105X](https://www.legislation.gov.uk/ukpga/2003/21/section/105X) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 9](https://www.legislation.gov.uk/ukpga/2021/31/section/9), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)
+[^c-c5343a08df9daf9f3bc613296ee6012e]: Textual amendment: [S. 105X](https://www.legislation.gov.uk/ukpga/2003/21/section/105X) inserted (1.10.2022) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 9](https://www.legislation.gov.uk/ukpga/2021/31/section/9), [28(2)(b)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/2/b); [S.I. 2022/931](https://www.legislation.gov.uk/uksi/2022/931), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/931/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Restriction of statutory powers requiring disclosure[^key-cae7b3cdcbe9a1c986b4a5445921d9c5][^key-d65486ade6eb20bcb8e88079954892f8]
+## 125. Restriction of statutory powers requiring disclosure[^c-cae7b3cdcbe9a1c986b4a5445921d9c5][^c-d65486ade6eb20bcb8e88079954892f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cae7b3cdcbe9a1c986b4a5445921d9c5]: Commencement: S. 125 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cae7b3cdcbe9a1c986b4a5445921d9c5]: Commencement: S. 125 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-d65486ade6eb20bcb8e88079954892f8]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2022/31/section/125) in force at 1.10.2023 for E.W. by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-d65486ade6eb20bcb8e88079954892f8]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2022/31/section/125) in force at 1.10.2023 for E.W. by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14A. Corporate members[^key-3fe393b8b1cd41c6c42370e0473fb021]
+## 14A. Corporate members[^c-3fe393b8b1cd41c6c42370e0473fb021]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fe393b8b1cd41c6c42370e0473fb021]: Textual amendment: Art. 14A inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 1(3)](https://www.legislation.gov.uk/nia/2016/16/section/1/3), [17](https://www.legislation.gov.uk/nia/2016/16/section/17)
+[^c-3fe393b8b1cd41c6c42370e0473fb021]: Textual amendment: Art. 14A inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 1(3)](https://www.legislation.gov.uk/nia/2016/16/section/1/3), [17](https://www.legislation.gov.uk/nia/2016/16/section/17)

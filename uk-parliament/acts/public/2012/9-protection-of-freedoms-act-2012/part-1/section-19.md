@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendments of regimes other than PACE[^key-cff2c4023457f61e8f956bcd933d387d]
+## 19. Amendments of regimes other than PACE[^c-cff2c4023457f61e8f956bcd933d387d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (which amends regimes other than the regime in the Police and Crimina
 
 ## Annotations
 
-[^key-cff2c4023457f61e8f956bcd933d387d]: Commencement: S. 19 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-cff2c4023457f61e8f956bcd933d387d]: Commencement: S. 19 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

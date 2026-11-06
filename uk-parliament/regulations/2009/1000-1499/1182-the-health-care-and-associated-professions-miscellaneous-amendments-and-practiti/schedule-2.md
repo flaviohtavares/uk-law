@@ -22,7 +22,7 @@ summary: ''
 
 Article 3(2)
 
-### 1. Amendment of article 3[^key-fda14531afc21d5ad76fd77c06accfea]
+### 1. Amendment of article 3[^c-fda14531afc21d5ad76fd77c06accfea]
 
 In article 3 (the Health Professions Council and its Committees)—
 
@@ -54,11 +54,11 @@ In article 3 (the Health Professions Council and its Committees)—
 - (d) in paragraph (8), after “of the Council” insert “and orders of the Privy Council under paragraph (7A)”; and
 - (e) in paragraph (17)(a), after “the Secretary of State” insert “and the Scottish Ministers”.
 
-### 2. Amendment of article 5[^key-2e2338b20007867907f63dd6968447d7]
+### 2. Amendment of article 5[^c-2e2338b20007867907f63dd6968447d7]
 
 In article 5 (establishment and maintenance of register), in paragraph (3)(a), omit “the Conduct and Competence Committee in addition to”.
 
-### 3. Amendment of article 13[^key-69a7e0bd411f89f233b2b1733022fd42]
+### 3. Amendment of article 13[^c-69a7e0bd411f89f233b2b1733022fd42]
 
 In article 13[^f00044] (transitional provisions relating to admission to the register), in paragraph (1)—
 
@@ -72,11 +72,11 @@ In article 13[^f00044] (transitional provisions relating to admission to the reg
   ; and
 - (b) in sub-paragraph (d), after “two years” add “, or in the case of practitioner psychologists three years,”.
 
-### 4. Amendment of article 21[^key-af8eca43d618f6297c229dd1047e65a9]
+### 4. Amendment of article 21[^c-af8eca43d618f6297c229dd1047e65a9]
 
 In article 21 (Council’s functions in respect of fitness to practise, ethics and other matters), in paragraph (3)(a), omit “standards or” and “the Conduct and Competence Committee in addition to”.
 
-### 5. Amendment of article 22[^key-31414c8aa83cdee1f146f24a6058cffc]
+### 5. Amendment of article 22[^c-31414c8aa83cdee1f146f24a6058cffc]
 
 In article 22 (allegations), in paragraph (1)(a), omit “or” at the end of paragraph (iv) and after paragraph (v) insert—
 
@@ -85,7 +85,7 @@ In article 22 (allegations), in paragraph (1)(a), omit “or” at the end of pa
 
 .
 
-### 6. Amendment of article 25[^key-bed2e93c7043e53345f55c4159b6c9fd][^key-795eb63eae06b750a03b782f84390541]
+### 6. Amendment of article 25[^c-bed2e93c7043e53345f55c4159b6c9fd][^c-795eb63eae06b750a03b782f84390541]
 
 In article 25 (Council’s power to require disclosure of information)—
 
@@ -95,15 +95,15 @@ In article 25 (Council’s power to require disclosure of information)—
 - (b) in paragraph (5), for “the Practice Committee in respect of the allegation with which it is dealing” substitute “a Practice Committee with regard to the person concerned”; and
 - (c) omit paragraph (6).
 
-### 7. Amendment of article 27[^key-b3fadbd74b496c6324501933ddf7a4b8]
+### 7. Amendment of article 27[^c-b3fadbd74b496c6324501933ddf7a4b8]
 
 In article 27 (the Conduct and Competence Committee), omit paragraph (a) and the “and” at the end of that paragraph.
 
-### 8. Amendment of article 32[^key-8efc7ea70f382abbd15b1f6d7c33bac1]
+### 8. Amendment of article 32[^c-8efc7ea70f382abbd15b1f6d7c33bac1]
 
 In article 32 (investigation of allegations: procedural rules), in paragraph (4), for “Chairman” substitute “chair”.
 
-### 9. Amendment of article 37[^key-172f0dd85ce04ca43850ad03ba7ce13c]
+### 9. Amendment of article 37[^c-172f0dd85ce04ca43850ad03ba7ce13c]
 
 In article 37[^f00045] (appeals against decisions of the Education and Training Committee)—
 
@@ -119,18 +119,18 @@ In article 37[^f00045] (appeals against decisions of the Education and Training 
   > - (b) a member of the Association of Operating Department Practitioners, the Association of Educational Psychologists or the British Psychological Society; or
   > - (c) a registered medical practitioner.
 
-### 10. Amendment of article 39[^key-58a044008fc11a494f1d559a31f6ea80]
+### 10. Amendment of article 39[^c-58a044008fc11a494f1d559a31f6ea80]
 
 In article 39 (offences), in paragraph (2)(a), for “13(1)(b)” substitute “13(1)(d)”.
 
-### 11. Amendment of article 41[^key-2245a166c1bc55ee6f852000cc19cea0]
+### 11. Amendment of article 41[^c-2245a166c1bc55ee6f852000cc19cea0]
 
 In article 41 (rules and orders)—
 
 - (a) in paragraph (1), after “this Order” insert “, apart from rules made solely under paragraph 17 of Schedule 1,”; and
 - (b) in paragraph (3), after “this Order,” insert “ apart from rules made solely under paragraph 17 of Schedule 1,”.
 
-### 12. Amendment of article 42[^key-c4c9c1c546e6ccdf44126fc9967b9b76]
+### 12. Amendment of article 42[^c-c4c9c1c546e6ccdf44126fc9967b9b76]
 
 In article 42 (exercise of powers by the Privy Council)—
 
@@ -151,7 +151,7 @@ In article 42 (exercise of powers by the Privy Council)—
   > - (a) an order under article 6(3) that includes measures relating to the regulation of operating department practitioners or practitioner psychologists; or
   > - (b) an order approving rules under article 5(2)(b), 7(2)(c) or (d), 9(2), 10, 19, 26(3), 30(9), 32, 33(4) or 37(4) that include measures relating to the regulation of operating department practitioners or practitioner psychologists.
 
-### 13. Substitution of article 44[^key-d4d28dea9303b923472d1d5792f06b9f]
+### 13. Substitution of article 44[^c-d4d28dea9303b923472d1d5792f06b9f]
 
 For article 44 (annual reports) substitute the following article—
 
@@ -165,7 +165,7 @@ For article 44 (annual reports) substitute the following article—
 >
 > (2) The Council shall submit copies of the reports and the plan published under paragraph (1) to the Privy Council and the Privy Council shall lay copies of the reports and the plan before each House of Parliament and before the Scottish Parliament.
 
-### 14. Amendment of article 46[^key-028653bf415203dc4df9bee8eb580fd1]
+### 14. Amendment of article 46[^c-028653bf415203dc4df9bee8eb580fd1]
 
 In article 46 (accounts of the Council)—
 
@@ -177,7 +177,7 @@ In article 46 (accounts of the Council)—
 - (b) in paragraph (4)(b), for “the Privy Council and to the Comptroller and Auditor General” substitute “the Privy Council, the Comptroller and Auditor General and the Auditor General for Scotland”; and
 - (c) in paragraph (7), after “House of Parliament” insert “and the Scottish Parliament”.
 
-### 15. Amendment of Schedule 1[^key-2b525dff33d913af6cc602f2012c80d4]
+### 15. Amendment of Schedule 1[^c-2b525dff33d913af6cc602f2012c80d4]
 
 (1) Schedule 1 (the Health Professions Council and committees) is amended in accordance with this paragraph.
 
@@ -281,7 +281,7 @@ In article 46 (accounts of the Council)—
 - (a) omit sub-paragraphs (1) to (4), (6), (9) and (11); and
 - (b) in sub-paragraph (8), for “Chairman” substitute “chair”.
 
-### 16. Amendment of Schedule 3[^key-e377294b9427718926a5c9d701764a34][^key-3a5d9a05d5eed8e05e887ab1e620e413]
+### 16. Amendment of Schedule 3[^c-e377294b9427718926a5c9d701764a34][^c-3a5d9a05d5eed8e05e887ab1e620e413]
 
 In Schedule 3[^f00048] (interpretation), in paragraph 1—
 
@@ -311,7 +311,7 @@ In Schedule 3[^f00048] (interpretation), in paragraph 1—
 - (d) in the definition of “relevant professions”, after “physiotherapists;” insert “practitioner psychologists;”; and
 - (e) omit the definitions of “alternate member”, “corresponding registrant member”, “lay member” and “registrant member”.
 
-### 17. Temporary measures pending the introduction of the new composition of the Council[^key-c298be759b9f98073cc055c8dede679e]
+### 17. Temporary measures pending the introduction of the new composition of the Council[^c-c298be759b9f98073cc055c8dede679e]
 
 (1) In Schedule 1[^f00051] (the Health Professions Council and committees)—
 
@@ -334,7 +334,7 @@ In Schedule 3[^f00048] (interpretation), in paragraph 1—
 
 (2) In Schedule 2 (transitional provisions), omit paragraph 6 (which relates to the tenure of office of members following the end of the second transitional period).
 
-### 18. Potential temporary measures if registration of practitioner psychologists is introduced before the reform of the composition of the Council[^key-84affe2ef4891e771ea43134911406a4]
+### 18. Potential temporary measures if registration of practitioner psychologists is introduced before the reform of the composition of the Council[^c-84affe2ef4891e771ea43134911406a4]
 
 In Part 1 of Schedule 1[^f00052] (the Health Professions Council)—
 
@@ -365,51 +365,51 @@ In Part 1 of Schedule 1[^f00052] (the Health Professions Council)—
 
 ## Annotations
 
-[^key-fda14531afc21d5ad76fd77c06accfea]: Commencement: Sch. 2 para. 1(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-fda14531afc21d5ad76fd77c06accfea]: Commencement: Sch. 2 para. 1(a) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00043]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17).
 
-[^key-2e2338b20007867907f63dd6968447d7]: Commencement: Sch. 2 para. 2 comes into force in accordance with art. 1(3)(9)
+[^c-2e2338b20007867907f63dd6968447d7]: Commencement: Sch. 2 para. 2 comes into force in accordance with art. 1(3)(9)
 
-[^key-69a7e0bd411f89f233b2b1733022fd42]: Commencement: Sch. 2 para. 3 comes into force in accordance with art. 1(3)(9)
+[^c-69a7e0bd411f89f233b2b1733022fd42]: Commencement: Sch. 2 para. 3 comes into force in accordance with art. 1(3)(9)
 
 [^f00044]: Footnote: Amended by [S.I. 2004/2033](https://www.legislation.gov.uk/uksi/2004/2033).
 
-[^key-af8eca43d618f6297c229dd1047e65a9]: Commencement: Sch. 2 para. 4 comes into force in accordance with art. 1(3)(9)
+[^c-af8eca43d618f6297c229dd1047e65a9]: Commencement: Sch. 2 para. 4 comes into force in accordance with art. 1(3)(9)
 
-[^key-31414c8aa83cdee1f146f24a6058cffc]: Commencement: Sch. 2 para. 5 comes into force in accordance with art. 1(3)(6)
+[^c-31414c8aa83cdee1f146f24a6058cffc]: Commencement: Sch. 2 para. 5 comes into force in accordance with art. 1(3)(6)
 
-[^key-bed2e93c7043e53345f55c4159b6c9fd]: Commencement: Sch. 2 para. 6(a)(b) comes into force in accordance with art. 1(3)(9)
+[^c-bed2e93c7043e53345f55c4159b6c9fd]: Commencement: Sch. 2 para. 6(a)(b) comes into force in accordance with art. 1(3)(9)
 
-[^key-795eb63eae06b750a03b782f84390541]: Commencement: Sch. 2 para. 6(c) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-795eb63eae06b750a03b782f84390541]: Commencement: Sch. 2 para. 6(c) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-b3fadbd74b496c6324501933ddf7a4b8]: Commencement: Sch. 2 para. 7 comes into force in accordance with art. 1(3)(9)
+[^c-b3fadbd74b496c6324501933ddf7a4b8]: Commencement: Sch. 2 para. 7 comes into force in accordance with art. 1(3)(9)
 
-[^key-8efc7ea70f382abbd15b1f6d7c33bac1]: Commencement: Sch. 2 para. 8 comes into force in accordance with art. 1(3)(9)
+[^c-8efc7ea70f382abbd15b1f6d7c33bac1]: Commencement: Sch. 2 para. 8 comes into force in accordance with art. 1(3)(9)
 
-[^key-172f0dd85ce04ca43850ad03ba7ce13c]: Commencement: Sch. 2 para. 9 comes into force in accordance with art. 1(3)(9)
+[^c-172f0dd85ce04ca43850ad03ba7ce13c]: Commencement: Sch. 2 para. 9 comes into force in accordance with art. 1(3)(9)
 
 [^f00045]: Footnote: Amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-58a044008fc11a494f1d559a31f6ea80]: Commencement: Sch. 2 para. 10 comes into force in accordance with art. 1(3)(9)
+[^c-58a044008fc11a494f1d559a31f6ea80]: Commencement: Sch. 2 para. 10 comes into force in accordance with art. 1(3)(9)
 
-[^key-2245a166c1bc55ee6f852000cc19cea0]: Commencement: Sch. 2 para. 11 comes into force in accordance with art. 1(3)(9)
+[^c-2245a166c1bc55ee6f852000cc19cea0]: Commencement: Sch. 2 para. 11 comes into force in accordance with art. 1(3)(9)
 
-[^key-c4c9c1c546e6ccdf44126fc9967b9b76]: Commencement: Sch. 2 para. 12 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-c4c9c1c546e6ccdf44126fc9967b9b76]: Commencement: Sch. 2 para. 12 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-d4d28dea9303b923472d1d5792f06b9f]: Commencement: Sch. 2 para. 13 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-d4d28dea9303b923472d1d5792f06b9f]: Commencement: Sch. 2 para. 13 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-028653bf415203dc4df9bee8eb580fd1]: Commencement: Sch. 2 para. 14 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-028653bf415203dc4df9bee8eb580fd1]: Commencement: Sch. 2 para. 14 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00046]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-2b525dff33d913af6cc602f2012c80d4]: Commencement: Sch. 2 para. 15 comes into force in accordance with art. 1(3)(9)
+[^c-2b525dff33d913af6cc602f2012c80d4]: Commencement: Sch. 2 para. 15 comes into force in accordance with art. 1(3)(9)
 
 [^f00047]: Footnote: Part 1 has been amended by the Health and Social Care (Community Health and Standards) Act 2003, Schedule 12, paragraph 8, the Health Act 2006, Schedule 8, paragraph 48, and Schedule 9, and by [S.I. 2004/2033](https://www.legislation.gov.uk/uksi/2004/2033).
 
-[^key-e377294b9427718926a5c9d701764a34]: Commencement: Sch. 2 para. 16(a)(c)-(e) comes into force in accordance with art. 1(3)(9)
+[^c-e377294b9427718926a5c9d701764a34]: Commencement: Sch. 2 para. 16(a)(c)-(e) comes into force in accordance with art. 1(3)(9)
 
-[^key-3a5d9a05d5eed8e05e887ab1e620e413]: Commencement: Sch. 2 para. 16(b) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-3a5d9a05d5eed8e05e887ab1e620e413]: Commencement: Sch. 2 para. 16(b) in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00048]: Footnote: Schedule 3 has been amended by [S.I. 2003/3148](https://www.legislation.gov.uk/uksi/2003/3148) and [2004/1947](https://www.legislation.gov.uk/uksi/2004/1947) and [2033](https://www.legislation.gov.uk/uksi/2004/2033).
 
@@ -417,10 +417,10 @@ In Part 1 of Schedule 1[^f00052] (the Health Professions Council)—
 
 [^f00050]: Footnote: The British Psychological Society is at St Andrews House, 48 Princess Road East, Leicester, LE1 7DR. The Society’s Royal Charter has been amended six times, and is available, in its amended form, on the Society’s website at www.bps.org.uk.
 
-[^key-c298be759b9f98073cc055c8dede679e]: Commencement: Sch. 2 para. 17 comes into force in accordance with art. 1(2)
+[^c-c298be759b9f98073cc055c8dede679e]: Commencement: Sch. 2 para. 17 comes into force in accordance with art. 1(2)
 
 [^f00051]: Footnote: These measures which, by virtue of article 1(2)(c), will come into force on the day after the day on which this Order is made will take effect until the repeal of the provisions that they amend.
 
-[^key-84affe2ef4891e771ea43134911406a4]: Commencement: Sch. 2 para. 18 comes into force in accordance with art. 1(3)(9)
+[^c-84affe2ef4891e771ea43134911406a4]: Commencement: Sch. 2 para. 18 comes into force in accordance with art. 1(3)(9)
 
 [^f00052]: Footnote: The amendments in this paragraph will become redundant if statutory regulation of registered psychologists is commenced after the commencement of paragraph 12(2) of this Schedule.

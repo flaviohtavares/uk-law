@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Revocation etc of certain provision made under section 2(2) of ECA 1972[^key-c6f6d5f5ba270e6b1f08f8c256b4756f][^key-92c667a3480161f363c6fd7d3567288c][^key-5cebc4cc3c788833bdec090670a0bbb4]
+## 41. Revocation etc of certain provision made under section 2(2) of ECA 1972[^c-c6f6d5f5ba270e6b1f08f8c256b4756f][^c-92c667a3480161f363c6fd7d3567288c][^c-5cebc4cc3c788833bdec090670a0bbb4]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c6f6d5f5ba270e6b1f08f8c256b4756f]: Commencement: S. 41 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
+[^c-c6f6d5f5ba270e6b1f08f8c256b4756f]: Commencement: S. 41 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(iii)(c)
 
-[^key-92c667a3480161f363c6fd7d3567288c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/30/section/41) in force at 28.6.2022 for E. by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/e)
+[^c-92c667a3480161f363c6fd7d3567288c]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/30/section/41) in force at 28.6.2022 for E. by [S.I. 2022/561](https://www.legislation.gov.uk/uksi/2022/561), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/561/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/561/regulation/3/e)
 
-[^key-5cebc4cc3c788833bdec090670a0bbb4]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/30/section/41) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(vii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/vii)
+[^c-5cebc4cc3c788833bdec090670a0bbb4]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/30/section/41) in force at 5.9.2023 for W. by [S.I. 2023/914](https://www.legislation.gov.uk/wsi/2023/914), [reg. 2(b)(vii)](https://www.legislation.gov.uk/wsi/2023/914/regulation/2/b/vii)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — Requirements relating to obligatory and optional hazard warning signal devices[^key-90768fb377780976a83c6366132caf31]
+## SCHEDULE 8 — Requirements relating to obligatory and optional hazard warning signal devices[^c-90768fb377780976a83c6366132caf31]
 
 *Extent: N.I.*
 
 Regulations 21 and 23
 
-[^key-90768fb377780976a83c6366132caf31]
+[^c-90768fb377780976a83c6366132caf31]
 
 Every hazard warning signal device shall—
 
@@ -33,4 +33,4 @@ Every hazard warning signal device shall—
 
 ## Annotations
 
-[^key-90768fb377780976a83c6366132caf31]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2000/169/schedule/8) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-90768fb377780976a83c6366132caf31]: Commencement: [Sch. 8](https://www.legislation.gov.uk/nisr/2000/169/schedule/8) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

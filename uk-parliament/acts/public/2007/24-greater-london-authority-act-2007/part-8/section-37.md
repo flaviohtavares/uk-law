@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Duties of waste collection authorities etc[^key-b940599c16813fd564304210ca2fd0c3]
+## 37. Duties of waste collection authorities etc[^c-b940599c16813fd564304210ca2fd0c3]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b940599c16813fd564304210ca2fd0c3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2007/24/section/37) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(g)](https://www.legislation.gov.uk/uksi/2008/113/article/2/g)
+[^c-b940599c16813fd564304210ca2fd0c3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2007/24/section/37) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(g)](https://www.legislation.gov.uk/uksi/2008/113/article/2/g)

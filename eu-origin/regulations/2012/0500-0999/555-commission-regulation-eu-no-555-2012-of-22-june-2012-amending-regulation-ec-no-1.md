@@ -34,18 +34,18 @@ of 22 June 2012
 
 amending Regulation (EC) No 184/2005 of the European Parliament and of the Council on Community statistics concerning balance of payments, international trade in services and foreign direct investment, as regards the update of data requirements and definitions (revoked)
 
-[^key-eb133fa50a84afacf561c29de89158a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb133fa50a84afacf561c29de89158a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-eb133fa50a84afacf561c29de89158a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-eb133fa50a84afacf561c29de89158a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-eb133fa50a84afacf561c29de89158a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-eb133fa50a84afacf561c29de89158a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb133fa50a84afacf561c29de89158a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb133fa50a84afacf561c29de89158a4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-eb133fa50a84afacf561c29de89158a4]
+## ANNEX[^c-eb133fa50a84afacf561c29de89158a4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb133fa50a84afacf561c29de89158a4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 205](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/205); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb133fa50a84afacf561c29de89158a4]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 205](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/205); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

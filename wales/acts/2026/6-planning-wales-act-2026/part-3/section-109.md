@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Compensation for changes to planning permission for minerals development[^key-f1e0d2972985da9e2ee226690db3a65d]
+## 109. Compensation for changes to planning permission for minerals development[^c-f1e0d2972985da9e2ee226690db3a65d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In Schedule 11—
 
 ## Annotations
 
-[^key-f1e0d2972985da9e2ee226690db3a65d]: Commencement: S. 109 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f1e0d2972985da9e2ee226690db3a65d]: Commencement: S. 109 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

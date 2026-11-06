@@ -50,9 +50,9 @@ The Access to Health Records (Northern Ireland) Order 1993
 - “the Department” means the Department of Health and Social Services;
 - “general medical services contract” means a contract under Article 57 of the Health and Personal Social Services (Northern Ireland) Order 1972;[^c11681441]
 - *Definition rep. by 2004 NI 2*
-- [^key-55affe7b1546e530591eb0707e412cf6]...
+- [^c-55affe7b1546e530591eb0707e412cf6]...
 - “health service body” means—
-  - (a) [^key-78083cb5e198c941a06f0e1091ae01f2]...
+  - (a) [^c-78083cb5e198c941a06f0e1091ae01f2]...
   - (b) a special health and social care[^c22322761] agency established under the Health and Personal Social Services (Special Agencies) (Northern Ireland) Order 1990[^c11681461]; or
   - (c) a Health and Social Care trust[^c22322771] established under Article 10 of the Health and Personal Social Services (Northern Ireland) Order 1991[^c11681471];
 - “information”, in relation to a health record, includes any expression of opinion about the patient;
@@ -72,7 +72,7 @@ The Access to Health Records (Northern Ireland) Order 1993
 
 (2) In this Order “holder”, in relation to a health record, means—
 
-- (a)[^c11681491] in the case of a record made by a health professional performing primary medical services under a general medical services contract made with the Department[^key-595d665a0c4fff93062f5eef5eb0aa1c] , the person or body who entered into the contract with the Department[^key-b31515016c85b23b8324dee6337ba34b] (or, in a case where more than one person so entered into the contract, any such person);
+- (a)[^c11681491] in the case of a record made by a health professional performing primary medical services under a general medical services contract made with the Department[^c-595d665a0c4fff93062f5eef5eb0aa1c] , the person or body who entered into the contract with the Department[^c-b31515016c85b23b8324dee6337ba34b] (or, in a case where more than one person so entered into the contract, any such person);
 - (aa) in the case of a record made by a health professional performing such services in accordance with arrangements under Article 15B of the Health and Personal Social Services (Northern Ireland) Order 1972 with the Department , the person or body which made the arrangements with the Department (or, in a case where more than one person so made the arrangements, any such person);
 - (b) in the case of a record made by a health professional for purposes connected with the provision of health care[^c22267841] by a health service body (and not falling within sub-paragraph (aa)), the health service body by which or on whose behalf the record is held;
 - (c) in any other case, the health professional by whom or on whose behalf the record is held.
@@ -81,7 +81,7 @@ The Access to Health Records (Northern Ireland) Order 1993
 
 ### 4. Health professionals
 
-(1)[^key-892ba01ed368234baabe5c7357644eb1] In this Order, “**health professional**” has the same meaning as in the Data Protection Act 2018 (see section 204 of that Act).
+(1)[^c-892ba01ed368234baabe5c7357644eb1] In this Order, “**health professional**” has the same meaning as in the Data Protection Act 2018 (see section 204 of that Act).
 
 (3) The provisions of this Order shall apply in relation to health professionals in the public service of the Crown (in right both of Her Majesty's Government in Northern Ireland and Her Majesty's Government in the United Kingdom) as they apply in relation to other health professionals.
 
@@ -103,7 +103,7 @@ The Access to Health Records (Northern Ireland) Order 1993
 
 (4) No fee shall be required for giving access under paragraph (2) other than the following, namely—
 
-- (a) where access is given to a record, or part of a record, none of which was made after the beginning of the period of 40 days immediately preceding the date of the application, a fee not exceeding such maximum as may be prescribed for the purposes of this Article by regulations[^c11681551] made by the Department[^key-62bafbd9f78d076a6f3a8361c3ea5bf5] ; and
+- (a) where access is given to a record, or part of a record, none of which was made after the beginning of the period of 40 days immediately preceding the date of the application, a fee not exceeding such maximum as may be prescribed for the purposes of this Article by regulations[^c11681551] made by the Department[^c-62bafbd9f78d076a6f3a8361c3ea5bf5] ; and
 - (b) where a copy of a record or extract is supplied to the applicant, a fee not exceeding the cost of making the copy and (where applicable) the cost of posting it to him.
 
 (5) For the purposes of paragraph (2) the requisite period is—
@@ -216,9 +216,9 @@ In section 33(6) of the Human Fertilisation and Embryology Act[^c11681631] 1990 
 
 [^c11681441]: Textual amendment: [2004 NI 2](https://www.legislation.gov.uk/2004/ni2)
 
-[^key-55affe7b1546e530591eb0707e412cf6]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-55affe7b1546e530591eb0707e412cf6]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(2)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/2/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-78083cb5e198c941a06f0e1091ae01f2]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-78083cb5e198c941a06f0e1091ae01f2]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/2/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(2)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/2/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c22322761]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/a) (with [Sch. 6 para. 1(2)(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/2/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -232,17 +232,17 @@ In section 33(6) of the Human Fertilisation and Embryology Act[^c11681631] 1990 
 
 [^c11681491]: Textual amendment: [2004 NI 2](https://www.legislation.gov.uk/2004/ni2)
 
-[^key-595d665a0c4fff93062f5eef5eb0aa1c]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/3/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-595d665a0c4fff93062f5eef5eb0aa1c]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/3/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(3)(a)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/3/a); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-b31515016c85b23b8324dee6337ba34b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/3/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b31515016c85b23b8324dee6337ba34b]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/nisi/1993/1250/article/3/2) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 153(3)(b)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/153/3/b); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c22267841]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-892ba01ed368234baabe5c7357644eb1]: Textual amendment: Art. 4(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 231](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/231) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-892ba01ed368234baabe5c7357644eb1]: Textual amendment: Art. 4(1) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 231](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/231) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c11681551]: Textual amendment: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29)
 
-[^key-62bafbd9f78d076a6f3a8361c3ea5bf5]: Textual amendment: Words in [art. 5(4)(a)](https://www.legislation.gov.uk/nisi/1993/1250/article/5/4/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 232](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/232) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 57](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/57)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-62bafbd9f78d076a6f3a8361c3ea5bf5]: Textual amendment: Words in [art. 5(4)(a)](https://www.legislation.gov.uk/nisi/1993/1250/article/5/4/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 232](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/232) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 57](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/57)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c11681571]: Textual amendment: with saving [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29)
 

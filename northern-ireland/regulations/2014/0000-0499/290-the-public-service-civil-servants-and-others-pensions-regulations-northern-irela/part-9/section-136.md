@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Payment of member contributions[^key-9ce97991f32214140705646352757ae8][^key-9eb7a2ea54bddd6e6189adc876a791bf]
+## 136. Payment of member contributions[^c-9ce97991f32214140705646352757ae8][^c-9eb7a2ea54bddd6e6189adc876a791bf]
 
 *Extent: N.I.*
 
@@ -29,13 +29,13 @@ summary: ''
 
 (3) A member is not required to pay member contributions—
 
-- (a) while the member is on unpaid adoption leave, maternity leave, parental leave, paternity leave or shared parental[^key-eedc4419a52a7adecd26d1036261411a] leave; or
+- (a) while the member is on unpaid adoption leave, maternity leave, parental leave, paternity leave or shared parental[^c-eedc4419a52a7adecd26d1036261411a] leave; or
 - (b) with the employer’s approval, while the member is on unpaid leave.
 
 ## Annotations
 
-[^key-9ce97991f32214140705646352757ae8]: Commencement: [Reg. 136](https://www.legislation.gov.uk/nisr/2014/290/regulation/136) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-9ce97991f32214140705646352757ae8]: Commencement: [Reg. 136](https://www.legislation.gov.uk/nisr/2014/290/regulation/136) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-9eb7a2ea54bddd6e6189adc876a791bf]: Textual amendment: Word in [reg. 136](https://www.legislation.gov.uk/nisr/2014/290/regulation/136) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [43(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/43/a)
+[^c-9eb7a2ea54bddd6e6189adc876a791bf]: Textual amendment: Word in [reg. 136](https://www.legislation.gov.uk/nisr/2014/290/regulation/136) heading substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [43(a)](https://www.legislation.gov.uk/nisr/2022/67/regulation/43/a)
 
-[^key-eedc4419a52a7adecd26d1036261411a]: Textual amendment: Words in [reg. 136(3)(a)](https://www.legislation.gov.uk/nisr/2014/290/regulation/136/3/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [43(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/43/b)
+[^c-eedc4419a52a7adecd26d1036261411a]: Textual amendment: Words in [reg. 136(3)(a)](https://www.legislation.gov.uk/nisr/2014/290/regulation/136/3/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [43(b)](https://www.legislation.gov.uk/nisr/2022/67/regulation/43/b)

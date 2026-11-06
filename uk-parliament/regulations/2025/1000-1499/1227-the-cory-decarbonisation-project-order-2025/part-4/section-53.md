@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Byelaws relating to the Crossness Nature Reserve[^key-a0b62be566e334151d7e33de85947432]
+## 53. Byelaws relating to the Crossness Nature Reserve[^c-a0b62be566e334151d7e33de85947432]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0b62be566e334151d7e33de85947432]: Commencement: Art. 53 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-a0b62be566e334151d7e33de85947432]: Commencement: Art. 53 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

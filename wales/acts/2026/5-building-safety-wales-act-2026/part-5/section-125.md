@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Fees for exercise of functions by building safety authorities[^key-19942ef9cdfb0ea8e55bade64e77ad1c]
+## 125. Fees for exercise of functions by building safety authorities[^c-19942ef9cdfb0ea8e55bade64e77ad1c]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19942ef9cdfb0ea8e55bade64e77ad1c]: Commencement: S. 125 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-19942ef9cdfb0ea8e55bade64e77ad1c]: Commencement: S. 125 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Offences: supplementary[^key-39f69a9e481fe6a0d2e962bc8a10d289][^key-e8648c5cb7739969763a2cceaa17a07b]
+## 120. Offences: supplementary[^c-39f69a9e481fe6a0d2e962bc8a10d289][^c-e8648c5cb7739969763a2cceaa17a07b]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ the individual as well as the body corporate, partnership or unincorporated asso
 
 ## Annotations
 
-[^key-39f69a9e481fe6a0d2e962bc8a10d289]: Commencement: Reg. 120 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-39f69a9e481fe6a0d2e962bc8a10d289]: Commencement: Reg. 120 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-e8648c5cb7739969763a2cceaa17a07b]: Modification: [Reg. 120](https://www.legislation.gov.uk/uksi/2024/1332/regulation/120) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-e8648c5cb7739969763a2cceaa17a07b]: Modification: [Reg. 120](https://www.legislation.gov.uk/uksi/2024/1332/regulation/120) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)

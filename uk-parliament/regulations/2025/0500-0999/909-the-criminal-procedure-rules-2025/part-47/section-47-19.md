@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.19. Content of application for an order to grant entry under the Proceeds of Crime Act 2002[^key-923fb70ea71614a6082247a4d1478863]
+## 47.19. Content of application for an order to grant entry under the Proceeds of Crime Act 2002[^c-923fb70ea71614a6082247a4d1478863]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ An applicant who wants the court to make an order to grant entry in aid of a pro
 
 ## Annotations
 
-[^key-923fb70ea71614a6082247a4d1478863]: Commencement: Rule 47.19 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-923fb70ea71614a6082247a4d1478863]: Commencement: Rule 47.19 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

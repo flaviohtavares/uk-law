@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fb826d7cea527e3bbdf5a81d9a02fe1b] The Tax Credits Act 2002 is amended as follows.
+(1)[^c-fb826d7cea527e3bbdf5a81d9a02fe1b] The Tax Credits Act 2002 is amended as follows.
 
-(2)[^key-a903c2bd325df262b108f3675ceed1bd] After section 36 there is inserted—
+(2)[^c-a903c2bd325df262b108f3675ceed1bd] After section 36 there is inserted—
 
 > **Loss of tax credit provisions**
 >
@@ -199,7 +199,7 @@ summary: ''
 > - (a) include references to any previous application of a provision having an effect in Northern Ireland corresponding to provision made by that section, but
 > - (b) do not include references to any previous application of that section the effect of which was to impose a restriction for a period comprised in the same disqualification period.
 
-(3)[^key-37c944ebe7cfe1e2dad63ca765141ee6] In section 38 (appeals), in subsection (1)—
+(3)[^c-37c944ebe7cfe1e2dad63ca765141ee6] In section 38 (appeals), in subsection (1)—
 
 - (a) the “and” immediately following paragraph (c) is repealed;
 - (b) after that paragraph there is inserted—
@@ -208,7 +208,7 @@ summary: ''
 
   .
 
-(4)[^key-1b1e30a833151dd1a1ecbebfdfcff0aa] In section 66 (parliamentary etc control of instruments)—
+(4)[^c-1b1e30a833151dd1a1ecbebfdfcff0aa] In section 66 (parliamentary etc control of instruments)—
 
 - (a) in subsection (1)—
   - (i) after “no” there is inserted “ order or ”;
@@ -221,7 +221,7 @@ summary: ''
   ;
 - (c) in subsection (3)(a) at the beginning there is inserted “an order or”.
 
-(5)[^key-37c944ebe7cfe1e2dad63ca765141ee6] In section 67 (interpretation), at the appropriate place there is inserted—
+(5)[^c-37c944ebe7cfe1e2dad63ca765141ee6] In section 67 (interpretation), at the appropriate place there is inserted—
 
 > “**cautioned**”, in relation to any person and any offence, means cautioned after the person concerned has admitted the offence; and “caution” is to be interpreted accordingly;
 
@@ -229,10 +229,10 @@ summary: ''
 
 ## Annotations
 
-[^key-fb826d7cea527e3bbdf5a81d9a02fe1b]: Commencement: S. 120(1) in force at 1.2.2013 for specified purposes and 6.4.2013 in so far as not already in force by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-fb826d7cea527e3bbdf5a81d9a02fe1b]: Commencement: S. 120(1) in force at 1.2.2013 for specified purposes and 6.4.2013 in so far as not already in force by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
 
-[^key-a903c2bd325df262b108f3675ceed1bd]: Commencement: S. 120(2) in force at 1.2.2013 for specified purposes and 6.4.2013 in so far as not already in force by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-a903c2bd325df262b108f3675ceed1bd]: Commencement: S. 120(2) in force at 1.2.2013 for specified purposes and 6.4.2013 in so far as not already in force by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
 
-[^key-37c944ebe7cfe1e2dad63ca765141ee6]: Commencement: S. 120(3)(5) in force at 6.4.2013 by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-37c944ebe7cfe1e2dad63ca765141ee6]: Commencement: S. 120(3)(5) in force at 6.4.2013 by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
 
-[^key-1b1e30a833151dd1a1ecbebfdfcff0aa]: Commencement: S. 120(4) in force at 1.2.2013 by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-1b1e30a833151dd1a1ecbebfdfcff0aa]: Commencement: S. 120(4) in force at 1.2.2013 by [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)

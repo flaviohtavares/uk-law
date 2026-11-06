@@ -32,7 +32,7 @@ summary: ''
 - (c) not to make a common investment scheme under section 96;
 - (d) not to make a common deposit scheme under section 100;
 - (e) not to make an order under section 105 (power to authorise dealings with charity property etc.) in relation to a charity;
-- (ea)[^key-cb6978e17cb8a01fcc33fa305c7f13b8] not to make an order under section 106 (power to authorise ex gratia payments etc) in relation to a charity;
+- (ea)[^c-cb6978e17cb8a01fcc33fa305c7f13b8] not to make an order under section 106 (power to authorise ex gratia payments etc) in relation to a charity;
 - (f) not to make an order under section 117 (restrictions on dispositions of land) in relation to land held by or in trust for a charity;
 - (g) not to make an order under section 124 (restrictions on mortgages) in relation to a mortgage of land held by or in trust for a charity.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb6978e17cb8a01fcc33fa305c7f13b8]: Textual amendment: [S. 322(2)(ea)](https://www.legislation.gov.uk/ukpga/2011/25/section/322/2/ea) inserted (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/26); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/d/ii)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2)
+[^c-cb6978e17cb8a01fcc33fa305c7f13b8]: Textual amendment: [S. 322(2)(ea)](https://www.legislation.gov.uk/ukpga/2011/25/section/322/2/ea) inserted (27.11.2025 for specified purposes) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/26); [S.I. 2025/1191](https://www.legislation.gov.uk/uksi/2025/1191), [reg. 3(1)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/1/d/ii)[(2)](https://www.legislation.gov.uk/uksi/2025/1191/regulation/3/2)

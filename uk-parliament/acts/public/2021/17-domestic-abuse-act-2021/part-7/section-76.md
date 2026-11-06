@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Polygraph conditions for offenders released on licence[^key-29493845c6446932700ea1240d981f2e]
+## 76. Polygraph conditions for offenders released on licence[^c-29493845c6446932700ea1240d981f2e]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29493845c6446932700ea1240d981f2e]: Commencement: S. 76 in force at 5.7.2021 in relation to specified areas for the specified period by [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 3](https://www.legislation.gov.uk/uksi/2021/797/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/2))
+[^c-29493845c6446932700ea1240d981f2e]: Commencement: S. 76 in force at 5.7.2021 in relation to specified areas for the specified period by [S.I. 2021/797](https://www.legislation.gov.uk/uksi/2021/797), [reg. 3](https://www.legislation.gov.uk/uksi/2021/797/regulation/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2021/797/regulation/4/2))

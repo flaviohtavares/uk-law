@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Guidance: housing activities[^key-bc483ee267c1c31b217c5bd6a8626bf2][^key-0244360e78d97334f5d99ff9798b9e29]
+## 35. Guidance: housing activities[^c-bc483ee267c1c31b217c5bd6a8626bf2][^c-0244360e78d97334f5d99ff9798b9e29]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc483ee267c1c31b217c5bd6a8626bf2]: Commencement: S. 35 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-bc483ee267c1c31b217c5bd6a8626bf2]: Commencement: S. 35 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
 
-[^key-0244360e78d97334f5d99ff9798b9e29]: Commencement: S. 35 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-0244360e78d97334f5d99ff9798b9e29]: Commencement: S. 35 in force at 1.4.2012 in so far as not already in force by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

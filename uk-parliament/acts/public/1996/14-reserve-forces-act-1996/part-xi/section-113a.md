@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. Duty to prepare report on volunteer reserve forces[^key-43f5bbdb452c7ba051be45a19fefe2d5]
+## 113A. Duty to prepare report on volunteer reserve forces[^c-43f5bbdb452c7ba051be45a19fefe2d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43f5bbdb452c7ba051be45a19fefe2d5]: Textual amendment: [S. 113A](https://www.legislation.gov.uk/ukpga/1996/14/section/113A) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 47](https://www.legislation.gov.uk/ukpga/2014/20/section/47), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/c)
+[^c-43f5bbdb452c7ba051be45a19fefe2d5]: Textual amendment: [S. 113A](https://www.legislation.gov.uk/ukpga/1996/14/section/113A) inserted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 47](https://www.legislation.gov.uk/ukpga/2014/20/section/47), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(c)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/c)

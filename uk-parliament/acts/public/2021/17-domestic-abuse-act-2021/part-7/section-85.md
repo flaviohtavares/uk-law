@@ -23,7 +23,7 @@ summary: ''
 (1) The Secretary of State may by regulations make provision that is consequential on any provision made by or under—
 
 - (a) Parts 1 to 5,
-- (b) section 68, [^key-117d411ac2a289af001d0fe7f7cb3bf6]... 70 or 71,
+- (b) section 68, [^c-117d411ac2a289af001d0fe7f7cb3bf6]... 70 or 71,
 - (c) section 72 or Part 1 of Schedule 3, or
 - (d) section 76, 77, 78, 79, 81 or 82.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-117d411ac2a289af001d0fe7f7cb3bf6]: Textual amendment: Word in [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/17/section/85/1/b) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 23(3)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/23/3); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-117d411ac2a289af001d0fe7f7cb3bf6]: Textual amendment: Word in [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/17/section/85/1/b) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 23(3)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/23/3); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

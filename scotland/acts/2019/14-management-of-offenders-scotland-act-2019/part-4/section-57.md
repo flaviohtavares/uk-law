@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Operating protocol for release on licence under section 3AA of the 1993 Act[^key-ee0898e4b94aefb83c8feb8d3e3b880b]
+## 57. Operating protocol for release on licence under section 3AA of the 1993 Act[^c-ee0898e4b94aefb83c8feb8d3e3b880b]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee0898e4b94aefb83c8feb8d3e3b880b]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2019/14/section/57) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-ee0898e4b94aefb83c8feb8d3e3b880b]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2019/14/section/57) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

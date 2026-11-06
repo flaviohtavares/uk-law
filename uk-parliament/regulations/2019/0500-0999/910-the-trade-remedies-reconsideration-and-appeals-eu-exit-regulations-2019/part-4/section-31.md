@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Modifications to Schedule 2 to these Regulations[^key-8bf4350f37cc45cda0528cc9e7cffa32]
+## 31. Modifications to Schedule 2 to these Regulations[^c-8bf4350f37cc45cda0528cc9e7cffa32]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Schedule 2 to these Regulations has effect as if—
 
 ## Annotations
 
-[^key-8bf4350f37cc45cda0528cc9e7cffa32]: Commencement: Reg. 31 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-8bf4350f37cc45cda0528cc9e7cffa32]: Commencement: Reg. 31 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

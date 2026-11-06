@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 849AD. Grants involving other taxes[^key-846413ba5166a81a5cde2885a7680500]
+## 849AD. Grants involving other taxes[^c-846413ba5166a81a5cde2885a7680500]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-846413ba5166a81a5cde2885a7680500]: Textual amendment: Ss. 849AB-849AD and cross-heading inserted (with application in accordance with s. 21(3) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/21/2)
+[^c-846413ba5166a81a5cde2885a7680500]: Textual amendment: Ss. 849AB-849AD and cross-heading inserted (with application in accordance with s. 21(3) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2018/3/section/21/2)

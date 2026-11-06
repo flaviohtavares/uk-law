@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308B. Independent advice in respect of conversions and transfers of pension scheme benefits[^key-57b5c8d6e0e65efc9b71c4fd040c06b9]
+## 308B. Independent advice in respect of conversions and transfers of pension scheme benefits[^c-57b5c8d6e0e65efc9b71c4fd040c06b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ if conditions A to C are met.
 
 ## Annotations
 
-[^key-57b5c8d6e0e65efc9b71c4fd040c06b9]: Textual amendment: S. 308B inserted (with effect in accordance with s. 54(3) of the amending Act) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/54/1), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-57b5c8d6e0e65efc9b71c4fd040c06b9]: Textual amendment: S. 308B inserted (with effect in accordance with s. 54(3) of the amending Act) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 54(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/54/1), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

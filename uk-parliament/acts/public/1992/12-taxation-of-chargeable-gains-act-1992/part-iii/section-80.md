@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies if the trustees of a settlement become at any time (“**the relevant time**”) not resident[^key-67204a2e605090d6e38fa9b0be9ade5c] in the United Kingdom.
+(1) This section applies if the trustees of a settlement become at any time (“**the relevant time**”) not resident[^c-67204a2e605090d6e38fa9b0be9ade5c] in the United Kingdom.
 
 (2) The trustees shall be deemed for all purposes of this Act—
 
@@ -33,8 +33,8 @@ at their market value at that time.
 
 (4) If immediately after the relevant time—
 
-- (a)[^key-8c5a31630b1819e2ac25a612ea205102] the trustees carry on a trade in the United Kingdom through a branch or agency, and
-- (b)[^key-8c5a31630b1819e2ac25a612ea205102] any assets are situated in the United Kingdom and either used in or for the purposes of the trade or used or held for the purposes of the branch or agency,
+- (a)[^c-8c5a31630b1819e2ac25a612ea205102] the trustees carry on a trade in the United Kingdom through a branch or agency, and
+- (b)[^c-8c5a31630b1819e2ac25a612ea205102] any assets are situated in the United Kingdom and either used in or for the purposes of the trade or used or held for the purposes of the branch or agency,
 
 the assets falling within paragraph (b) above shall not be defined assets.
 
@@ -53,7 +53,7 @@ unless the new assets are excepted from this subsection by subsection (7) below.
 (7) If at the time when the new assets are acquired—
 
 - (a) the trustees carry on a trade in the United Kingdom through a branch or agency, and
-- (b)[^key-4036624bea22c9a9d3c7f493d07fcda2] any new assets are situated in the United Kingdom and either used in or for the purposes of the trade or used or held for the purposes of the branch or agency,
+- (b)[^c-4036624bea22c9a9d3c7f493d07fcda2] any new assets are situated in the United Kingdom and either used in or for the purposes of the trade or used or held for the purposes of the branch or agency,
 
 the assets falling within paragraph (b) above shall be excepted from subsection (6) above.
 
@@ -61,8 +61,8 @@ the assets falling within paragraph (b) above shall be excepted from subsection 
 
 ## Annotations
 
-[^key-67204a2e605090d6e38fa9b0be9ade5c]: Textual amendment: Words in s. 80(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 84](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/84)
+[^c-67204a2e605090d6e38fa9b0be9ade5c]: Textual amendment: Words in s. 80(1) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 84](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/84)
 
-[^key-8c5a31630b1819e2ac25a612ea205102]: Modification: S. 80(4)(a)(b) modified (with effect in accordance with s. 153(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 153(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/153/2/b)
+[^c-8c5a31630b1819e2ac25a612ea205102]: Modification: S. 80(4)(a)(b) modified (with effect in accordance with s. 153(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 153(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/153/2/b)
 
-[^key-4036624bea22c9a9d3c7f493d07fcda2]: Modification: S. 80(7)(b) modified (with effect in accordance with s. 153(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 153(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/153/2/b)
+[^c-4036624bea22c9a9d3c7f493d07fcda2]: Modification: S. 80(7)(b) modified (with effect in accordance with s. 153(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 153(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/153/2/b)

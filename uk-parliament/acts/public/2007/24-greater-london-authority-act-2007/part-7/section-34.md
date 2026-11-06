@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Planning obligations: further provision[^key-9bfd9908dff29b6badd38d869d6d92a5]
+## 34. Planning obligations: further provision[^c-9bfd9908dff29b6badd38d869d6d92a5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bfd9908dff29b6badd38d869d6d92a5]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2007/24/section/34) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)
+[^c-9bfd9908dff29b6badd38d869d6d92a5]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2007/24/section/34) in force at 6.4.2008 by [S.I. 2008/582](https://www.legislation.gov.uk/uksi/2008/582), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/582/article/2/a)

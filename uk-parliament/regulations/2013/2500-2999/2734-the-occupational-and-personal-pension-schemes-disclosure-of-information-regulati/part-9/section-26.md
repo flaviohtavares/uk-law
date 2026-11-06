@@ -45,7 +45,7 @@ is not given in accordance with paragraph (2)(b), that information may not be gi
   the information, and
 - (b) taking into account the requirements of disabled persons.
 
-(4A)[^key-29148e710aae9a0f92a361ab995c9b54] The provisions of paragraph (4) do not apply where regulation 29A or regulation 29B[^key-8541f6ac9e6e1ffac364f54c09ae787c] applies to the information.
+(4A)[^c-29148e710aae9a0f92a361ab995c9b54] The provisions of paragraph (4) do not apply where regulation 29A or regulation 29B[^c-8541f6ac9e6e1ffac364f54c09ae787c] applies to the information.
 
 (5) Where—
 
@@ -63,6 +63,6 @@ information may not be given to that member or beneficiary of the scheme in acco
 
 ## Annotations
 
-[^key-29148e710aae9a0f92a361ab995c9b54]: Textual amendment: Reg. 26(4A) inserted (coming into force in accordance with reg. 1(1)(3) of the amending S.I.) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations 2018 (S.I. 2018/233)](https://www.legislation.gov.uk/uksi/2018/233), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/233/regulation/3/4)
+[^c-29148e710aae9a0f92a361ab995c9b54]: Textual amendment: Reg. 26(4A) inserted (coming into force in accordance with reg. 1(1)(3) of the amending S.I.) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations 2018 (S.I. 2018/233)](https://www.legislation.gov.uk/uksi/2018/233), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2018/233/regulation/3/4)
 
-[^key-8541f6ac9e6e1ffac364f54c09ae787c]: Textual amendment: Words in [reg. 26(4A)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/26/4A) inserted (4.12.2025) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/4)
+[^c-8541f6ac9e6e1ffac364f54c09ae787c]: Textual amendment: Words in [reg. 26(4A)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/26/4A) inserted (4.12.2025) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/1113)](https://www.legislation.gov.uk/uksi/2025/1113), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/1/3), [4(4)](https://www.legislation.gov.uk/uksi/2025/1113/regulation/4/4)

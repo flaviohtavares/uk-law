@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E30. Commencement and duration of long-term family pensions[^key-a42172d67de60c5af68dc3172156db24]
+## E30. Commencement and duration of long-term family pensions[^c-a42172d67de60c5af68dc3172156db24]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a42172d67de60c5af68dc3172156db24]: Commencement: Reg. E30 in operation at 2.11.1998, see reg. A1
+[^c-a42172d67de60c5af68dc3172156db24]: Commencement: Reg. E30 in operation at 2.11.1998, see reg. A1

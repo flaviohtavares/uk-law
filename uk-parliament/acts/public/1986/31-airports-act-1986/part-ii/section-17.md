@@ -43,11 +43,11 @@ the Secretary of State may direct that subsection (1) shall not apply in relatio
 
 *Extent: E+W*
 
-(6)[^key-c815386a37240a09bf710f2812bca097] In subsection (4)—
+(6)[^c-c815386a37240a09bf710f2812bca097] In subsection (4)—
 
 - (a) paragraph (a) does not apply in relation to any activity which is a permitted activity in relation to the company by virtue of regulations under section 17A, and
 - (b) paragraph (b) does not apply in relation to any activity which is a permitted activity in relation to the subsidiary by virtue of any such regulations.
 
 ## Annotations
 
-[^key-c815386a37240a09bf710f2812bca097]: Textual amendment: S. 17(6) inserted (E.W.) (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2006/34/section/5/2), [14(3)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/3); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
+[^c-c815386a37240a09bf710f2812bca097]: Textual amendment: S. 17(6) inserted (E.W.) (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2006/34/section/5/2), [14(3)](https://www.legislation.gov.uk/ukpga/2006/34/section/14/3); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)

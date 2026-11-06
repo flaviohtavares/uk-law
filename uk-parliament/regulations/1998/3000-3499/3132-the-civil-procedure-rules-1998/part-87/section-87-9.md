@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87.9. Service of the writ[^key-18df3bea28ba5fc12e0f6a1d3db0acd8]
+## 87.9. Service of the writ[^c-18df3bea28ba5fc12e0f6a1d3db0acd8]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18df3bea28ba5fc12e0f6a1d3db0acd8]: Textual amendment: [Pt. 87](https://www.legislation.gov.uk/uksi/1998/3132/part/87) inserted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2)
+[^c-18df3bea28ba5fc12e0f6a1d3db0acd8]: Textual amendment: [Pt. 87](https://www.legislation.gov.uk/uksi/1998/3132/part/87) inserted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2)

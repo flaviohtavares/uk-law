@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 29A — Taxable property held by investment-regulated pension schemes[^key-c20da7a45e5ca7d478e8f2e05ec639a3]
+## SCHEDULE 29A — Taxable property held by investment-regulated pension schemes[^c-c20da7a45e5ca7d478e8f2e05ec639a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ is or has been able (directly or indirectly) to direct, influence or advise on t
 
 **2.** (1) For the purposes of the taxable property provisions a registered pension scheme which is an occupational pension scheme is an investment-regulated pension scheme if—
 
-- (a) there are 50 or fewer members of the pension scheme, and one or more of those members meets the condition in sub-paragraph (2), [^key-558b8ad0c65cbb87930786f85986b3dc]...
-- (b)[^key-558b8ad0c65cbb87930786f85986b3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) there are 50 or fewer members of the pension scheme, and one or more of those members meets the condition in sub-paragraph (2), [^c-558b8ad0c65cbb87930786f85986b3dc]...
+- (b)[^c-558b8ad0c65cbb87930786f85986b3dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The condition is that either—
 
@@ -91,7 +91,7 @@ is or has been able (directly or indirectly) to direct, influence or advise on t
 - (a) the person and the member are connected persons, or
 - (b) the person acts on behalf of the member or a person connected with the member.
 
-(2)[^key-19ffdbabf222418424c3bb2f2d904b68] For the purposes of sub-paragraph (1) whether a person is connected with another person is determined in accordance with section 993 of ITA 2007.
+(2)[^c-19ffdbabf222418424c3bb2f2d904b68] For the purposes of sub-paragraph (1) whether a person is connected with another person is determined in accordance with section 993 of ITA 2007.
 
 #### Arrangements
 
@@ -145,7 +145,7 @@ no account is to be taken for the purposes of the taxable property provisions of
 
 **9.** (1) The Treasury may by order amend this Part of this Schedule to specify descriptions of buildings which are, or are not, to be treated as residential property.
 
-(2)[^key-0cf7d26ef3b4c17ab44ef5909bf610d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0cf7d26ef3b4c17ab44ef5909bf610d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** (1) Residential property is not taxable property in relation to a pension scheme if Condition A or B is met.
 
@@ -160,7 +160,7 @@ no account is to be taken for the purposes of the taxable property provisions of
 - (a) occupied by a person who is neither a member of the pension scheme nor connected with such a member, and
 - (b) used in connection with business premises held as an investment of the pension scheme.
 
-(4) Section 1122 of the Corporation Tax Act 2010[^key-f83d498106c80c96b48e7136f5eebb3f] (connected persons) applies for the purposes of this paragraph.
+(4) Section 1122 of the Corporation Tax Act 2010[^c-f83d498106c80c96b48e7136f5eebb3f] (connected persons) applies for the purposes of this paragraph.
 
 #### Tangible moveable property
 
@@ -216,7 +216,7 @@ under the law of any country or territory.
 
 #### Exception to direct holding
 
-**15.**[^key-ae906afcf36b279a576b0285f00f11fb] (1) A person does not hold an interest in taxable property directly by virtue of paragraph 14(3) where Conditions A to C are met.
+**15.**[^c-ae906afcf36b279a576b0285f00f11fb] (1) A person does not hold an interest in taxable property directly by virtue of paragraph 14(3) where Conditions A to C are met.
 
 (2) Condition A is that—
 
@@ -244,8 +244,8 @@ under the law of any country or territory.
 
 - “**capital redemption policy**” means a contract made in the course of a capital redemption business, as defined in section 458(3) of ICTA;
 - “**internal linked fund**” has the meaning given by—
-  - (a) the Interim Prudential Sourcebook for Insurers made by the Prudential Regulation Authority[^key-ce3997147a98729e29cad4302c3a5b4d] under FISMA 2000, or
-  - (b) rules made by the Prudential Regulation Authority[^key-484bf17aedeba678d7f77c51978860fd] under that Act and having effect for the time being in place of the Sourcebook; and
+  - (a) the Interim Prudential Sourcebook for Insurers made by the Prudential Regulation Authority[^c-ce3997147a98729e29cad4302c3a5b4d] under FISMA 2000, or
+  - (b) rules made by the Prudential Regulation Authority[^c-484bf17aedeba678d7f77c51978860fd] under that Act and having effect for the time being in place of the Sourcebook; and
 - “**linked asset**” means an asset of the insurance company which is identified in its records as an asset by reference to the value of which benefits provided for under a policy or contract are to be determined.
 
 (9) For the purposes of this paragraph an annuity is a life annuity if it is—
@@ -302,7 +302,7 @@ references to the interest in the other person being held for the purposes of th
 - (a) is currently entitled to do it at a future date, or
 - (b) will at a future date be entitled to do it.
 
-(3) In sub-paragraph (1) “**control**” has the meaning given by sections 450 and 451 of the Corporation Tax Act 2010[^key-0e40b258e1b05b505528d9d57e911a93].
+(3) In sub-paragraph (1) “**control**” has the meaning given by sections 450 and 451 of the Corporation Tax Act 2010[^c-0e40b258e1b05b505528d9d57e911a93].
 
 **18.** (1) For the purposes of paragraph 16 a person holds an interest in a collective investment scheme if the person is a participant in the scheme.
 
@@ -343,7 +343,7 @@ references to the interest in the other person being held for the purposes of th
 - (a) it is made as part of an arm's length transaction by which property or a benefit is to be provided in return for the payment, and
 - (b) it is made otherwise than for the purposes of enabling a member of the pension scheme or a person connected with such a member to occupy or use any property.
 
-(8) Section 1122 of the Corporation Tax Act 2010[^key-91a0894cf11abfc864ce66fbc4091d15] (connected persons) applies for the purposes of this paragraph.
+(8) Section 1122 of the Corporation Tax Act 2010[^c-91a0894cf11abfc864ce66fbc4091d15] (connected persons) applies for the purposes of this paragraph.
 
 (9) This paragraph does not apply in relation to a unit trust scheme within the meaning of section 237(1) of FISMA 2000 (but see paragraph 18).
 
@@ -352,7 +352,7 @@ references to the interest in the other person being held for the purposes of th
 **20.** (1) A pension scheme does not hold an interest in property indirectly through a vehicle through which the pension scheme would otherwise hold the interest in the property indirectly where one of the following paragraphs applies in relation to the vehicle, and, in particular—
 
 - (a) paragraph 21 makes provision in relation to holding through vehicles which carry on trading activities,
-- (b) paragraphs 22, 24 and 25 make[^key-8c9509f1529897260c5b1b76985da902] provision in relation to holding through Real Estate Investment Trusts,
+- (b) paragraphs 22, 24 and 25 make[^c-8c9509f1529897260c5b1b76985da902] provision in relation to holding through Real Estate Investment Trusts,
 - (c) paragraphs 23 to 25 make provision in relation to holding through other kinds of vehicles, and
 - (d) paragraph 26 makes provision in relation to holding through a vehicle which holds the interest in the property directly by virtue of paragraph 14(3) (receipt of payments determined by reference to value of or income from property).
 
@@ -375,20 +375,20 @@ references to the interest in the other person being held for the purposes of th
 
 (3) In sub-paragraph (1)—
 
-- (a) “**control**” has the same meaning as in sections 450 and 451 of the Corporation Tax Act 2010[^key-38bf1fe119b9cbaea98dccd3c2c83919] (reading references in those sections[^M_F_c29649a0-3dc8-4eae-aaac-c06bb174dd1b] to a company as references to the vehicle and references to associates as including associated persons), and
-- (b) “**controlling director**”, in relation to a vehicle, means a director to whom section 452(2)(b)[^key-9f5245daa7c338353da131f42fb7911d] of that Act applies (reading the reference to associates in section 452(3) of that Act[^key-694467ab3b6c93b4e8ba8e260438e14a] as including associated persons).
+- (a) “**control**” has the same meaning as in sections 450 and 451 of the Corporation Tax Act 2010[^c-38bf1fe119b9cbaea98dccd3c2c83919] (reading references in those sections[^M_F_c29649a0-3dc8-4eae-aaac-c06bb174dd1b] to a company as references to the vehicle and references to associates as including associated persons), and
+- (b) “**controlling director**”, in relation to a vehicle, means a director to whom section 452(2)(b)[^c-9f5245daa7c338353da131f42fb7911d] of that Act applies (reading the reference to associates in section 452(3) of that Act[^c-694467ab3b6c93b4e8ba8e260438e14a] as including associated persons).
 
 (4) For the purposes of this paragraph a pension scheme or an arrangement under a pension scheme has control of a vehicle if the pension scheme or the arrangement holds such interest as would, if the pension scheme or the arrangement were a person, mean that the person had control of the vehicle.
 
-(5) Section 1122 of the Corporation Tax Act 2010[^key-5c8791b1ea0508d9131e7f35bfd0d618] (connected persons) applies for the purposes of this paragraph.
+(5) Section 1122 of the Corporation Tax Act 2010[^c-5c8791b1ea0508d9131e7f35bfd0d618] (connected persons) applies for the purposes of this paragraph.
 
 (6) For the definition of “associated person” see paragraph 30.
 
-**22.** (1) This paragraph applies to a vehicle in which a pension scheme directly or indirectly holds an interest where the vehicle is a company which is, or is a member of, a[^key-fd6ae7261f7efc6d97961662d75060c2] UK REIT within the meaning of Part 12 of the Corporation Tax Act 2010 (Real Estate Investment Trusts) and paragraph 24 applies to the pension scheme's interest in the vehicle.[^key-640ddf187a3dfccf74370541f93b2d0d]
+**22.** (1) This paragraph applies to a vehicle in which a pension scheme directly or indirectly holds an interest where the vehicle is a company which is, or is a member of, a[^c-fd6ae7261f7efc6d97961662d75060c2] UK REIT within the meaning of Part 12 of the Corporation Tax Act 2010 (Real Estate Investment Trusts) and paragraph 24 applies to the pension scheme's interest in the vehicle.[^c-640ddf187a3dfccf74370541f93b2d0d]
 
-(2)[^key-85d6fb006102a87d5313eeba4d47e435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-85d6fb006102a87d5313eeba4d47e435] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Section 1122 of the Corporation Tax Act 2010[^key-ed2d6de02cb35102ff6535a9821ac1bc] (connected persons) applies for the purposes of sub-paragraph (2).
+(3) Section 1122 of the Corporation Tax Act 2010[^c-ed2d6de02cb35102ff6535a9821ac1bc] (connected persons) applies for the purposes of sub-paragraph (2).
 
 **23.** (1) This paragraph applies to a vehicle in which a pension scheme directly or indirectly holds an interest where—
 
@@ -420,7 +420,7 @@ and no asset held directly by the vehicle which consists of an interest in taxab
 - (a) increase the amount for the time being specified in paragraph (a) of sub-paragraph (2), or
 - (b) increase the percentage for the time being specified in that sub-paragraph.
 
-**24.** (1) For the purposes of paragraphs 22 and 23[^key-756958e492a320b9db8121293a52f03d] this paragraph applies to the interest held directly or indirectly by a pension scheme in a vehicle where—
+**24.** (1) For the purposes of paragraphs 22 and 23[^c-756958e492a320b9db8121293a52f03d] this paragraph applies to the interest held directly or indirectly by a pension scheme in a vehicle where—
 
 - (a) Condition A is met, and
 - (b) Condition B or C is met.
@@ -446,7 +446,7 @@ and no asset held directly by the vehicle which consists of an interest in taxab
 - (e) such interest in the vehicle as gives an entitlement to 10% or more of the assets of the vehicle on a winding-up or in any other circumstances;
 - (f) such interest in the vehicle as gives rise to income or gains from a specific property.
 
-(6) Section 1122 of the Corporation Tax Act 2010[^key-d03db099701ba2d2e4c6274d9745f04b] (connected persons) applies for the purposes of this paragraph.
+(6) Section 1122 of the Corporation Tax Act 2010[^c-d03db099701ba2d2e4c6274d9745f04b] (connected persons) applies for the purposes of this paragraph.
 
 (7) For the definition of “associated person” see paragraph 30.
 
@@ -454,7 +454,7 @@ and no asset held directly by the vehicle which consists of an interest in taxab
 
 (2) Where—
 
-- (a) paragraph 22 or 23[^key-88594063e2865368f4b2bf42068754e8] does not apply in relation to a vehicle in which the pension scheme directly or indirectly holds an interest merely because Condition C in paragraph 24(4) is not met in relation to an arrangement under the pension scheme, and
+- (a) paragraph 22 or 23[^c-88594063e2865368f4b2bf42068754e8] does not apply in relation to a vehicle in which the pension scheme directly or indirectly holds an interest merely because Condition C in paragraph 24(4) is not met in relation to an arrangement under the pension scheme, and
 - (b) accordingly, the pension scheme holds an interest in property indirectly through the vehicle,
 
 the interest in the property is to be treated as held through the vehicle for the purposes of another arrangement under the pension scheme only if that arrangement, either alone or together with one or more associated persons, directly or indirectly holds an interest in the vehicle to which paragraph 24(5) applies.
@@ -516,7 +516,7 @@ the pension scheme is treated for the purposes of the taxable property provision
 
 (3) The extent of the interest held directly in a vehicle by a person is to be determined for the purposes of this paragraph and paragraph 29 in accordance with paragraphs 42 and 43.
 
-**29.**[^key-3839afe57756b17d8bef07129691b274] (1) Where there is an increase in the extent of the interest held directly in the vehicle otherwise than by reason of the acquisition of a further interest in the vehicle, paragraph 28 does not apply unless the condition in sub-paragraph (2) is met.
+**29.**[^c-3839afe57756b17d8bef07129691b274] (1) Where there is an increase in the extent of the interest held directly in the vehicle otherwise than by reason of the acquisition of a further interest in the vehicle, paragraph 28 does not apply unless the condition in sub-paragraph (2) is met.
 
 (2) The condition is that the event by which the extent of the interest held directly in the vehicle increases forms part of a scheme or arrangement the main purpose or one of the main purposes of which is—
 
@@ -558,7 +558,7 @@ AA is an amount equal to the aggregate of the amount of the sums and the market 
 
 #### Introduction
 
-**31.**[^key-a6c98adad1579f54140d91d0b8fa00d2] (1) This Part of this Schedule has effect for determining—
+**31.**[^c-a6c98adad1579f54140d91d0b8fa00d2] (1) This Part of this Schedule has effect for determining—
 
 - (a) the amount of an unauthorised payment treated as made to a member of an investment-regulated pension scheme by virtue of section 174A, and
 - (b) the time when such a payment is treated as made.
@@ -572,7 +572,7 @@ AA is an amount equal to the aggregate of the amount of the sums and the market 
 
 #### Acquisition: basic rules
 
-**32.**[^key-fe23048e8666df3efdf274b9cb25f485] (1) This paragraph applies to a case within subsection (1) of section 174A (acquisition of an interest in taxable property).
+**32.**[^c-fe23048e8666df3efdf274b9cb25f485] (1) This paragraph applies to a case within subsection (1) of section 174A (acquisition of an interest in taxable property).
 
 (2) The unauthorised payment is treated as made when the interest in the property is acquired by the pension scheme.
 
@@ -597,7 +597,7 @@ AA is an amount equal to the aggregate of the amount of the sums and the market 
 
 #### Acquisition: further provisions
 
-**33.**[^key-41c0aa536b51eecc2462f5c73865b20c][^key-385726448f1a8ba5c4192c122fd01624] (1) This paragraph applies where—
+**33.**[^c-41c0aa536b51eecc2462f5c73865b20c][^c-385726448f1a8ba5c4192c122fd01624] (1) This paragraph applies where—
 
 - (a) an investment-regulated pension scheme acquires an interest in taxable property because it acquires a chargeable interest in the property within the meaning of section 48(1) of the Finance Act 2003,
 - (b) the interest is acquired because the pension scheme or another person comes to hold the interest directly, and
@@ -616,7 +616,7 @@ AA is an amount equal to the aggregate of the amount of the sums and the market 
 - (a) for those provisions to apply with modifications to cases to which this paragraph applies, and
 - (b) for any other provisions of Part 4 of the Finance Act 2003 to apply (with or without modifications) to such cases.
 
-**34.**[^key-b58dfeed59284a5d027dda035ce2306f][^key-3e56697cb0a60d68b454f7f3ef91d725] (1) This paragraph applies where—
+**34.**[^c-b58dfeed59284a5d027dda035ce2306f][^c-3e56697cb0a60d68b454f7f3ef91d725] (1) This paragraph applies where—
 
 - (a) an investment-regulated pension scheme acquires an interest in taxable property because it acquires a chargeable interest in the property within the meaning of section 48(1) of the Finance Act 2003,
 - (b) the interest is acquired because the pension scheme or another person comes to hold the interest directly, and
@@ -865,62 +865,62 @@ the unauthorised payment is to be apportioned on a just and reasonable basis bet
 
 ## Annotations
 
-[^key-c20da7a45e5ca7d478e8f2e05ec639a3]: Textual amendment: Sch. 29A inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/13)
+[^c-c20da7a45e5ca7d478e8f2e05ec639a3]: Textual amendment: Sch. 29A inserted (retrospective to 6.4.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 158(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/158/2), [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/21/paragraph/13)
 
-[^key-558b8ad0c65cbb87930786f85986b3dc]: Textual amendment: Sch. 29A para. 2(1)(b) and word omitted (retrospective to 6.4.2006) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/3/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/3/2)
+[^c-558b8ad0c65cbb87930786f85986b3dc]: Textual amendment: Sch. 29A para. 2(1)(b) and word omitted (retrospective to 6.4.2006) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 29 para. 3(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/3/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/29/paragraph/3/2)
 
-[^key-19ffdbabf222418424c3bb2f2d904b68]: Textual amendment: Sch. 29A para. 4(2) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 484](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/484) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-19ffdbabf222418424c3bb2f2d904b68]: Textual amendment: Sch. 29A para. 4(2) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 484](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/484) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-0cf7d26ef3b4c17ab44ef5909bf610d3]: Textual amendment: Sch. 29A para. 9(2) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 75(2)(e)](https://www.legislation.gov.uk/ukpga/2009/10/section/75/2/e)
+[^c-0cf7d26ef3b4c17ab44ef5909bf610d3]: Textual amendment: Sch. 29A para. 9(2) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 75(2)(e)](https://www.legislation.gov.uk/ukpga/2009/10/section/75/2/e)
 
-[^key-f83d498106c80c96b48e7136f5eebb3f]: Textual amendment: Words in [Sch. 29A para. 10(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/10/4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f83d498106c80c96b48e7136f5eebb3f]: Textual amendment: Words in [Sch. 29A para. 10(4)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/10/4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ae906afcf36b279a576b0285f00f11fb]: Modification: Sch. 29A para. 15 modified by S.I. 2006/207, reg. 4C (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [reg. 9](https://www.legislation.gov.uk/uksi/2006/1960/article/9))
+[^c-ae906afcf36b279a576b0285f00f11fb]: Modification: Sch. 29A para. 15 modified by S.I. 2006/207, reg. 4C (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [reg. 9](https://www.legislation.gov.uk/uksi/2006/1960/article/9))
 
-[^key-ce3997147a98729e29cad4302c3a5b4d]: Textual amendment: Words in [Sch. 29A para. 15(8)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/15/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/7/a)
+[^c-ce3997147a98729e29cad4302c3a5b4d]: Textual amendment: Words in [Sch. 29A para. 15(8)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/15/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 7(a)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/7/a)
 
-[^key-484bf17aedeba678d7f77c51978860fd]: Textual amendment: Words in [Sch. 29A para. 15(8)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/15/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/7/b)
+[^c-484bf17aedeba678d7f77c51978860fd]: Textual amendment: Words in [Sch. 29A para. 15(8)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/15/8) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/636)](https://www.legislation.gov.uk/uksi/2013/636), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/636/article/1/2), [Sch. para. 7(b)](https://www.legislation.gov.uk/uksi/2013/636/schedule/paragraph/7/b)
 
-[^key-0e40b258e1b05b505528d9d57e911a93]: Textual amendment: Words in Sch. 29A para. 17(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0e40b258e1b05b505528d9d57e911a93]: Textual amendment: Words in Sch. 29A para. 17(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-91a0894cf11abfc864ce66fbc4091d15]: Textual amendment: Words in [Sch. 29A para. 19(8)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/19/8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-91a0894cf11abfc864ce66fbc4091d15]: Textual amendment: Words in [Sch. 29A para. 19(8)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/19/8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8c9509f1529897260c5b1b76985da902]: Textual amendment: Words in Sch. 29A para. 20(1)(b) substituted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/2), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
+[^c-8c9509f1529897260c5b1b76985da902]: Textual amendment: Words in Sch. 29A para. 20(1)(b) substituted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/2), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
 
-[^key-38bf1fe119b9cbaea98dccd3c2c83919]: Textual amendment: Words in Sch. 29A para. 21(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-38bf1fe119b9cbaea98dccd3c2c83919]: Textual amendment: Words in Sch. 29A para. 21(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_c29649a0-3dc8-4eae-aaac-c06bb174dd1b]: Textual amendment: Words in Sch. 29A para. 21(3)(a) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/a/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-9f5245daa7c338353da131f42fb7911d]: Textual amendment: Words in Sch. 29A para. 21(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/b/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9f5245daa7c338353da131f42fb7911d]: Textual amendment: Words in Sch. 29A para. 21(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/b/i) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-694467ab3b6c93b4e8ba8e260438e14a]: Textual amendment: Words in Sch. 29A para. 21(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-694467ab3b6c93b4e8ba8e260438e14a]: Textual amendment: Words in Sch. 29A para. 21(3)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/3/b/ii) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5c8791b1ea0508d9131e7f35bfd0d618]: Textual amendment: Words in Sch. 29A para. 21(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5c8791b1ea0508d9131e7f35bfd0d618]: Textual amendment: Words in Sch. 29A para. 21(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(c)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-fd6ae7261f7efc6d97961662d75060c2]: Textual amendment: Words in Sch. 29A para. 22(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-fd6ae7261f7efc6d97961662d75060c2]: Textual amendment: Words in Sch. 29A para. 22(1) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-640ddf187a3dfccf74370541f93b2d0d]: Textual amendment: Words in Sch. 29A para. 22(1) inserted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/3/a), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
+[^c-640ddf187a3dfccf74370541f93b2d0d]: Textual amendment: Words in Sch. 29A para. 22(1) inserted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(3)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/3/a), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
 
-[^key-85d6fb006102a87d5313eeba4d47e435]: Textual amendment: Sch. 29A para. 22(2) repealed (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/3/b), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8), [Sch. 27 Pt. 3(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/3/2)
+[^c-85d6fb006102a87d5313eeba4d47e435]: Textual amendment: Sch. 29A para. 22(2) repealed (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(3)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/3/b), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8), [Sch. 27 Pt. 3(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/3/2)
 
-[^key-ed2d6de02cb35102ff6535a9821ac1bc]: Textual amendment: Words in Sch. 29A para. 22(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(d)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ed2d6de02cb35102ff6535a9821ac1bc]: Textual amendment: Words in Sch. 29A para. 22(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(d)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/d) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-756958e492a320b9db8121293a52f03d]: Textual amendment: Words in Sch. 29A para. 24(1) substituted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/4), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
+[^c-756958e492a320b9db8121293a52f03d]: Textual amendment: Words in Sch. 29A para. 24(1) substituted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/4), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
 
-[^key-d03db099701ba2d2e4c6274d9745f04b]: Textual amendment: Words in [Sch. 29A para. 24(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/24/6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(e)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/e) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-d03db099701ba2d2e4c6274d9745f04b]: Textual amendment: Words in [Sch. 29A para. 24(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/29A/paragraph/24/6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 431(5)(e)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/431/5/e) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-88594063e2865368f4b2bf42068754e8]: Textual amendment: Words in Sch. 29A para. 25(2)(a) substituted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/5), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
+[^c-88594063e2865368f4b2bf42068754e8]: Textual amendment: Words in Sch. 29A para. 25(2)(a) substituted (retrospective to 1.1.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 20 paras. 14(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/14/5), [24(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/20/paragraph/24/8)
 
-[^key-3839afe57756b17d8bef07129691b274]: Modification: Sch. 29A para. 29 modified by S.I. 2006/207, reg. 4D (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [reg. 9](https://www.legislation.gov.uk/uksi/2006/1960/article/9))
+[^c-3839afe57756b17d8bef07129691b274]: Modification: Sch. 29A para. 29 modified by S.I. 2006/207, reg. 4D (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [reg. 9](https://www.legislation.gov.uk/uksi/2006/1960/article/9))
 
-[^key-a6c98adad1579f54140d91d0b8fa00d2]: Modification: Sch. 29A para. 31 modified by S.I. 2006/207, reg. 4D (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [reg. 9](https://www.legislation.gov.uk/uksi/2006/1960/article/9))
+[^c-a6c98adad1579f54140d91d0b8fa00d2]: Modification: Sch. 29A para. 31 modified by S.I. 2006/207, reg. 4D (as inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Application of UK Provisions to Relevant Non-UK Schemes)(Amendment) Regulations 2006 (S.I. 2006/1960)](https://www.legislation.gov.uk/uksi/2006/1960), [reg. 9](https://www.legislation.gov.uk/uksi/2006/1960/article/9))
 
-[^key-fe23048e8666df3efdf274b9cb25f485]: Modification: Sch. 29A para. 32 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/1958/regulation/4)
+[^c-fe23048e8666df3efdf274b9cb25f485]: Modification: Sch. 29A para. 32 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/1958/regulation/4)
 
-[^key-41c0aa536b51eecc2462f5c73865b20c]: Modification: Sch. 29A para. 33 applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1958/regulation/3)
+[^c-41c0aa536b51eecc2462f5c73865b20c]: Modification: Sch. 29A para. 33 applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1958/regulation/3)
 
-[^key-385726448f1a8ba5c4192c122fd01624]: Modification: Sch. 29A para. 33 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/1958/regulation/5)
+[^c-385726448f1a8ba5c4192c122fd01624]: Modification: Sch. 29A para. 33 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/1958/regulation/5)
 
-[^key-b58dfeed59284a5d027dda035ce2306f]: Modification: Sch. 29A para. 34 applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1958/regulation/3)
+[^c-b58dfeed59284a5d027dda035ce2306f]: Modification: Sch. 29A para. 34 applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2006/1958/regulation/3)
 
-[^key-3e56697cb0a60d68b454f7f3ef91d725]: Modification: Sch. 29A para. 34 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/1958/regulation/6)
+[^c-3e56697cb0a60d68b454f7f3ef91d725]: Modification: Sch. 29A para. 34 applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2006/1958/regulation/6)

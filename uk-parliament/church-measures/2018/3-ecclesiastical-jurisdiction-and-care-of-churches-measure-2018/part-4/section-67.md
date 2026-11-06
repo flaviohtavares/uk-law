@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 67. Sale of books in a parochial library[^key-050a5fb565e24a17dab27bb7144def8f]
+## 67. Sale of books in a parochial library[^c-050a5fb565e24a17dab27bb7144def8f]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-050a5fb565e24a17dab27bb7144def8f]: Commencement: [S. 67](https://www.legislation.gov.uk/ukcm/2018/3/section/67) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-050a5fb565e24a17dab27bb7144def8f]: Commencement: [S. 67](https://www.legislation.gov.uk/ukcm/2018/3/section/67) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

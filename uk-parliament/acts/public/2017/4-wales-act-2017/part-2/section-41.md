@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Safety zones around renewable energy installations[^key-93d9cbf90926f627ce39765ab3094bb0]
+## 41. Safety zones around renewable energy installations[^c-93d9cbf90926f627ce39765ab3094bb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93d9cbf90926f627ce39765ab3094bb0]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/4/section/41) in force at 1.4.2019 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)
+[^c-93d9cbf90926f627ce39765ab3094bb0]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2017/4/section/41) in force at 1.4.2019 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)

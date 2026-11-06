@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations:
 These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Secretary of State that it is expedient for references in these Regulations to—
 
 - (i) the Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16 December 2008 [^c19608081] on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) [^c19608091] and [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) [^c19608101], and amending Regulation [(EC) No 1907/2006](https://www.legislation.gov.uk/eur/2006/1907) [^c19608111], be construed as including references to articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraph and Annexes I to VII of that Regulation as amended from time to time; and
-- (ii) the Regulation ([^key-686cd953fd26997c500af5ff876940c8]EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals, of which Annexes I, II, V and VI are as amended from time to time.
+- (ii) the Regulation ([^c-686cd953fd26997c500af5ff876940c8]EU) No 649/2012 of the European Parliament and of the Council of 4 July 2012 concerning the export and import of hazardous chemicals, of which Annexes I, II, V and VI are as amended from time to time.
 
 ## PART 1 — INTRODUCTION
 
@@ -64,21 +64,21 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (2) These Regulations shall not extend to Northern Ireland.
 
-### 2. Interpretation[^key-275d61a2a48e784731f78f0d2ece5871]
+### 2. Interpretation[^c-275d61a2a48e784731f78f0d2ece5871]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-275d61a2a48e784731f78f0d2ece5871]
+### 3. Application[^c-275d61a2a48e784731f78f0d2ece5871]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — GENERAL REQUIREMENTS
 
-### 4. Classification of dangerous substances and dangerous preparations[^key-ca7e9bcb91ede38e0562cad7dd819894]
+### 4. Classification of dangerous substances and dangerous preparations[^c-ca7e9bcb91ede38e0562cad7dd819894]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Safety data sheets for substances and preparations[^key-1d54635427bb2773a314ef1829c155d0]
+### 5. Safety data sheets for substances and preparations[^c-1d54635427bb2773a314ef1829c155d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,49 +86,49 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Packaging of dangerous substances, dangerous preparations and certain specified preparations[^key-7edfc84deb1bca5e8d0a758fd8642b7a]
+### 6. Packaging of dangerous substances, dangerous preparations and certain specified preparations[^c-7edfc84deb1bca5e8d0a758fd8642b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Labelling of dangerous substances and dangerous preparations[^key-7edfc84deb1bca5e8d0a758fd8642b7a]
+### 7. Labelling of dangerous substances and dangerous preparations[^c-7edfc84deb1bca5e8d0a758fd8642b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Labelling of single receptacles and receptacles in outer packagings[^key-7edfc84deb1bca5e8d0a758fd8642b7a]
+### 8. Labelling of single receptacles and receptacles in outer packagings[^c-7edfc84deb1bca5e8d0a758fd8642b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Particular labelling requirements for certain preparations[^key-7edfc84deb1bca5e8d0a758fd8642b7a]
+### 9. Particular labelling requirements for certain preparations[^c-7edfc84deb1bca5e8d0a758fd8642b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Methods of marking or labelling packages[^key-7edfc84deb1bca5e8d0a758fd8642b7a]
+### 10. Methods of marking or labelling packages[^c-7edfc84deb1bca5e8d0a758fd8642b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Child resistant fastenings, tactile warning devices and other consumer protection measures[^key-7edfc84deb1bca5e8d0a758fd8642b7a]
+### 11. Child resistant fastenings, tactile warning devices and other consumer protection measures[^c-7edfc84deb1bca5e8d0a758fd8642b7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Retention of data for dangerous preparations[^key-83020f4ae5087255c7904c3b239991d2]
+### 12. Retention of data for dangerous preparations[^c-83020f4ae5087255c7904c3b239991d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Transitional provisions for dangerous substances, dangerous preparations and certain specified preparations[^key-fb2dd68677aa276f65d1bbbce92e2fac]
+### 13. Transitional provisions for dangerous substances, dangerous preparations and certain specified preparations[^c-fb2dd68677aa276f65d1bbbce92e2fac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — MISCELLANEOUS
 
-### 14. Enforcement[^key-851abf362463916dda6eb079e5999483]
+### 14. Enforcement[^c-851abf362463916dda6eb079e5999483]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Defence[^key-851abf362463916dda6eb079e5999483]
+### 15. Defence[^c-851abf362463916dda6eb079e5999483]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Extension outside Great Britain[^key-851abf362463916dda6eb079e5999483]
+### 16. Extension outside Great Britain[^c-851abf362463916dda6eb079e5999483]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,7 +136,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 The Regulations specified in the Table in Schedule 6 are amended in accordance with the provisions of that Table.
 
-### 18.[^key-851abf362463916dda6eb079e5999483]
+### 18.[^c-851abf362463916dda6eb079e5999483]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -148,19 +148,19 @@ Parliamentary Under-Secretary of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — CLASSIFICATION OF DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^key-c584e2e2ca3fdd22194948f911360119]
+## SCHEDULE 1 — CLASSIFICATION OF DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^c-c584e2e2ca3fdd22194948f911360119]
 
 **No longer in force.**
 
 Regulations 2(1) and 4(4)
 
-[^key-c584e2e2ca3fdd22194948f911360119]
+[^c-c584e2e2ca3fdd22194948f911360119]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-c584e2e2ca3fdd22194948f911360119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c584e2e2ca3fdd22194948f911360119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — INDICATIONS OF DANGER AND SYMBOLS FOR DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^key-e167fb5ab0cb33f92c885cad31362b4a]
+## SCHEDULE 2 — INDICATIONS OF DANGER AND SYMBOLS FOR DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^c-e167fb5ab0cb33f92c885cad31362b4a]
 
 **No longer in force.**
 
@@ -168,293 +168,293 @@ Regulations 2(1), 8(2) and 10(6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — PROVISIONS FOR CLASSIFYING DANGEROUS PREPARATIONS[^key-3763bb3c25c48ddbd032c78a1059936e]
+## SCHEDULE 3 — PROVISIONS FOR CLASSIFYING DANGEROUS PREPARATIONS[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 **No longer in force.**
 
 Regulation 4(7)
 
-### PART 1 — GENERAL PROVISIONS[^key-3763bb3c25c48ddbd032c78a1059936e]
+### PART 1 — GENERAL PROVISIONS[^c-3763bb3c25c48ddbd032c78a1059936e]
 
-#### 1. Application[^key-3763bb3c25c48ddbd032c78a1059936e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Interpretation and application[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 1. Application[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Classification of preparations by physico-chemical properties[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 2. Interpretation and application[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Classification of preparations by health effects[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 3. Classification of preparations by physico-chemical properties[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Use of concentration limits in classification for health effects by the conventional method[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 4. Classification of preparations by health effects[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Lower limits of concentration[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 5. Use of concentration limits in classification for health effects by the conventional method[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Classification by the conventional method as very toxic[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 6. Lower limits of concentration[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Classification by the conventional method as toxic[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 7. Classification by the conventional method as very toxic[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Classification by the conventional method as harmful[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 8. Classification by the conventional method as toxic[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Classification by the conventional method as corrosive[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 9. Classification by the conventional method as harmful[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Classification by the conventional method as irritant[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 10. Classification by the conventional method as corrosive[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Classification by the conventional method as sensitising[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 11. Classification by the conventional method as irritant[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Classification by the conventional method as carcinogenic[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 12. Classification by the conventional method as sensitising[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Classification by the conventional method as mutagenic[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 13. Classification by the conventional method as carcinogenic[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Classification by the conventional method as toxic for reproduction[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 14. Classification by the conventional method as mutagenic[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Classification of preparations for environmental hazards[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 15. Classification by the conventional method as toxic for reproduction[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Use of concentration limits in classification for environmental effects[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 16. Classification of preparations for environmental hazards[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Conventional method for the evaluation of hazards to the aquatic environment[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 17. Use of concentration limits in classification for environmental effects[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Conventional method for the evaluation of hazards to the ozone layer[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 18. Conventional method for the evaluation of hazards to the aquatic environment[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONCENTRATION LIMITS TO BE USED IN THE EVALUATION OF HEALTH HAZARDS[^key-3763bb3c25c48ddbd032c78a1059936e]
-
-[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 19. Conventional method for the evaluation of hazards to the ozone layer[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3763bb3c25c48ddbd032c78a1059936e]
+### PART II — CONCENTRATION LIMITS TO BE USED IN THE EVALUATION OF HEALTH HAZARDS[^c-3763bb3c25c48ddbd032c78a1059936e]
+
+[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3763bb3c25c48ddbd032c78a1059936e]
+[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1. Acute lethal effects[^key-3763bb3c25c48ddbd032c78a1059936e]
+[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1.1 Other than gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 1. Acute lethal effects[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 1.2 Gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 1.1 Other than gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Non-lethal irreversible effects after a single exposure[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 1.2 Gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2.1 Other than gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 2. Non-lethal irreversible effects after a single exposure[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2.2 Gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 2.1 Other than gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Severe effects after repeated or prolonged exposure[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 2.2 Gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3.1 Other than gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 3. Severe effects after repeated or prolonged exposure[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3.2 Gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 3.1 Other than gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Corrosive and irritant effects including serious damage to eye[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 3.2 Gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4.1 Other than gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 4. Corrosive and irritant effects including serious damage to eye[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Note[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 4.1 Other than gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4.2 Gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### Note[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Note[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 4.2 Gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Sensitising effects[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### Note[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5.1 Other than gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 5. Sensitising effects[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5.2 Gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 5.1 Other than gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Carcinogenic/mutagenic/toxic effects for reproduction[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 5.2 Gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6.1 Other than gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 6. Carcinogenic/mutagenic/toxic effects for reproduction[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6.2 Gaseous preparations[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 6.1 Other than gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — Concentration limits to be used for the evaluation of Environment Hazards[^key-3763bb3c25c48ddbd032c78a1059936e]
-
-#### 1. The aquatic environment[^key-3763bb3c25c48ddbd032c78a1059936e]
+#### 6.2 Gaseous preparations[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. The non-aquatic environment[^key-3763bb3c25c48ddbd032c78a1059936e]
+### PART III — Concentration limits to be used for the evaluation of Environment Hazards[^c-3763bb3c25c48ddbd032c78a1059936e]
+
+#### 1. The aquatic environment[^c-3763bb3c25c48ddbd032c78a1059936e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — LABELLING PARTICULARS FOR DANGEROUS SUBSTANCES, DANGEROUS PREPARATIONS AND FOR CERTAIN OTHER PREPARATIONS[^key-7aecefa7f6a0371eaf48975e6081ba39]
+#### 2. The non-aquatic environment[^c-3763bb3c25c48ddbd032c78a1059936e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 4 — LABELLING PARTICULARS FOR DANGEROUS SUBSTANCES, DANGEROUS PREPARATIONS AND FOR CERTAIN OTHER PREPARATIONS[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 **No longer in force.**
 
 Regulations 7 and 9
 
-### PART 1 — GENERAL PROVISIONS RELATING TO LABELS[^key-7aecefa7f6a0371eaf48975e6081ba39]
+### PART 1 — GENERAL PROVISIONS RELATING TO LABELS[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
-#### 1. Labelling particulars for dangerous substances[^key-7aecefa7f6a0371eaf48975e6081ba39]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Labelling particulars for dangerous preparations[^key-7aecefa7f6a0371eaf48975e6081ba39]
+#### 1. Labelling particulars for dangerous substances[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Confidentiality of chemical names[^key-7aecefa7f6a0371eaf48975e6081ba39]
+#### 2. Labelling particulars for dangerous preparations[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Indications of danger and symbols for dangerous substances and dangerous preparations[^key-7aecefa7f6a0371eaf48975e6081ba39]
+#### 3. Confidentiality of chemical names[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PARTICULAR PROVISIONS CONCERNING CERTAIN PREPARATIONS[^key-7aecefa7f6a0371eaf48975e6081ba39]
-
-#### A — SPECIAL PROVISIONS APPLYING TO DANGEROUS PREPARATIONS[^key-7aecefa7f6a0371eaf48975e6081ba39]
-
-##### 1. Dangerous preparations to be supplied to the general public[^key-7aecefa7f6a0371eaf48975e6081ba39]
+#### 4. Indications of danger and symbols for dangerous substances and dangerous preparations[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 2. Dangerous preparations intended for use by spraying[^key-7aecefa7f6a0371eaf48975e6081ba39]
+### PART II — PARTICULAR PROVISIONS CONCERNING CERTAIN PREPARATIONS[^c-7aecefa7f6a0371eaf48975e6081ba39]
+
+#### A — SPECIAL PROVISIONS APPLYING TO DANGEROUS PREPARATIONS[^c-7aecefa7f6a0371eaf48975e6081ba39]
+
+##### 1. Dangerous preparations to be supplied to the general public[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Dangerous preparations containing a substance affected by the risk phrase R33 (danger of cumulative effects)[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 2. Dangerous preparations intended for use by spraying[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Dangerous preparations containing a substance affected by the risk phrase R64 (may cause harm to breast-fed babies)[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 3. Dangerous preparations containing a substance affected by the risk phrase R33 (danger of cumulative effects)[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### B — SPECIAL PROVISIONS APPLYING TO ANY PREPARATION[^key-7aecefa7f6a0371eaf48975e6081ba39]
-
-##### 1. Paints and varnishes containing lead[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 4. Dangerous preparations containing a substance affected by the risk phrase R64 (may cause harm to breast-fed babies)[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 2. Cyanoacrylate based adhesives[^key-7aecefa7f6a0371eaf48975e6081ba39]
+#### B — SPECIAL PROVISIONS APPLYING TO ANY PREPARATION[^c-7aecefa7f6a0371eaf48975e6081ba39]
+
+##### 1. Paints and varnishes containing lead[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 3. Preparations containing isocyanates[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 2. Cyanoacrylate based adhesives[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Certain preparations containing epoxy constituents[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 3. Preparations containing isocyanates[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 5. Preparations intended to be sold to the general public that contain active chlorine[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 4. Certain preparations containing epoxy constituents[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6. Preparations containing cadmium (alloys) intended to be used for brazing or soldering[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 5. Preparations intended to be sold to the general public that contain active chlorine[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 7. Preparations not classified as sensitising but containing at least one sensitising substance[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 6. Preparations containing cadmium (alloys) intended to be used for brazing or soldering[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Liquid preparations containing halogenated hydrocarbons[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 7. Preparations not classified as sensitising but containing at least one sensitising substance[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 9. Preparations containing a substance assigned the risk phrase R67[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 8. Liquid preparations containing halogenated hydrocarbons[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 10. Cement and cement preparations[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 9. Preparations containing a substance assigned the risk phrase R67[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### C — SPECIAL PROVISIONS APPLYING TO CERTAIN OTHER PREPARATIONS[^key-7aecefa7f6a0371eaf48975e6081ba39]
-
-##### 11. Preparations not intended for the general public[^key-7aecefa7f6a0371eaf48975e6081ba39]
+##### 10. Cement and cement preparations[^c-7aecefa7f6a0371eaf48975e6081ba39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — BRITISH AND INTERNATIONAL STANDARDS RELATING TO CHILD RESISTANT FASTENINGS AND TACTILE WARNING DEVICES[^key-bd97409dc4a4f2b8390c935c48681ba2]
+#### C — SPECIAL PROVISIONS APPLYING TO CERTAIN OTHER PREPARATIONS[^c-7aecefa7f6a0371eaf48975e6081ba39]
+
+##### 11. Preparations not intended for the general public[^c-7aecefa7f6a0371eaf48975e6081ba39]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 5 — BRITISH AND INTERNATIONAL STANDARDS RELATING TO CHILD RESISTANT FASTENINGS AND TACTILE WARNING DEVICES[^c-bd97409dc4a4f2b8390c935c48681ba2]
 
 **No longer in force.**
 
 Regulation 11
 
-[^key-bd97409dc4a4f2b8390c935c48681ba2]
+[^c-bd97409dc4a4f2b8390c935c48681ba2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -563,33 +563,33 @@ Regulation 18
 
 [^c19608111]: Marginal citation: OJ No L 396, 30.12.06, p. 1.
 
-[^key-686cd953fd26997c500af5ff876940c8]: Textual amendment: Words in Preamble substituted (1.3.2014) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2013/1506/schedule/4/paragraph/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-686cd953fd26997c500af5ff876940c8]: Textual amendment: Words in Preamble substituted (1.3.2014) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2013/1506/schedule/4/paragraph/1) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-275d61a2a48e784731f78f0d2ece5871]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/uksi/2009/716/regulation/2), [3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3) revoked (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(e)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/e) (with [reg. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/b))
+[^c-275d61a2a48e784731f78f0d2ece5871]: Textual amendment: [Regs. 2](https://www.legislation.gov.uk/uksi/2009/716/regulation/2), [3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3) revoked (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(e)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/e) (with [reg. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/b))
 
-[^key-ca7e9bcb91ede38e0562cad7dd819894]: Textual amendment: Reg. 4 revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-ca7e9bcb91ede38e0562cad7dd819894]: Textual amendment: Reg. 4 revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-1d54635427bb2773a314ef1829c155d0]: Textual amendment: Reg. 5 revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(a)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/a) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-1d54635427bb2773a314ef1829c155d0]: Textual amendment: Reg. 5 revoked (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(a)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/a) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
 [^M_F_a617964a-7e71-450a-acc7-30362c72acda]: Textual amendment: Reg. 5A revoked (1.6.2017) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/d) (with [reg. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/a))
 
-[^key-7edfc84deb1bca5e8d0a758fd8642b7a]: Textual amendment: Regs. 6-11 revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-7edfc84deb1bca5e8d0a758fd8642b7a]: Textual amendment: Regs. 6-11 revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-83020f4ae5087255c7904c3b239991d2]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/716/regulation/12) revoked (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(e)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/e) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/b))
+[^c-83020f4ae5087255c7904c3b239991d2]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2009/716/regulation/12) revoked (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(e)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/e) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/b))
 
-[^key-fb2dd68677aa276f65d1bbbce92e2fac]: Textual amendment: Reg. 13 revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-fb2dd68677aa276f65d1bbbce92e2fac]: Textual amendment: Reg. 13 revoked (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-851abf362463916dda6eb079e5999483]: Textual amendment: [Regs. 14-16](https://www.legislation.gov.uk/uksi/2009/716/regulation/14), [18](https://www.legislation.gov.uk/uksi/2009/716/regulation/18) revoked (1.6.2015 except to the extent that they continue to apply for the purposes of enforcing [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716), [reg. 12](https://www.legislation.gov.uk/uksi/2009/716/regulation/12)) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(c)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/c) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/a))
+[^c-851abf362463916dda6eb079e5999483]: Textual amendment: [Regs. 14-16](https://www.legislation.gov.uk/uksi/2009/716/regulation/14), [18](https://www.legislation.gov.uk/uksi/2009/716/regulation/18) revoked (1.6.2015 except to the extent that they continue to apply for the purposes of enforcing [S.I. 2009/716](https://www.legislation.gov.uk/uksi/2009/716), [reg. 12](https://www.legislation.gov.uk/uksi/2009/716/regulation/12)) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(c)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/c) (with [regs. 3(4)(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31)) (as substituted by [S.I. 2015/21](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/2), [22(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/22/2/a))
 
-[^key-c584e2e2ca3fdd22194948f911360119]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/716/schedule/1) revoked by virtue of the revocation of regs. 2, 4 (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b/d) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-c584e2e2ca3fdd22194948f911360119]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2009/716/schedule/1) revoked by virtue of the revocation of regs. 2, 4 (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b/d) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-e167fb5ab0cb33f92c885cad31362b4a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/716/schedule/2) revoked by virtue of the revocation of regs. 2, 8, 10 (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b/d) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-e167fb5ab0cb33f92c885cad31362b4a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2009/716/schedule/2) revoked by virtue of the revocation of regs. 2, 8, 10 (1.6.2018) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)(d)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b/d) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-3763bb3c25c48ddbd032c78a1059936e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/716/schedule/3) revoked by virtue of the revocation of reg. 4 (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-3763bb3c25c48ddbd032c78a1059936e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2009/716/schedule/3) revoked by virtue of the revocation of reg. 4 (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-7aecefa7f6a0371eaf48975e6081ba39]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2009/716/schedule/4) revoked by virtue of the revocation of regs. 7, 9 (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-7aecefa7f6a0371eaf48975e6081ba39]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2009/716/schedule/4) revoked by virtue of the revocation of regs. 7, 9 (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-bd97409dc4a4f2b8390c935c48681ba2]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2009/716/schedule/5) revoked by virtue of the revocation of reg. 11 (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-bd97409dc4a4f2b8390c935c48681ba2]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2009/716/schedule/5) revoked by virtue of the revocation of reg. 11 (1.6.2015) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [36(b)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/36/b) (with [regs. 3(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5), [31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
 [^c19608761]: Marginal citation: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825), to which there are amendments not relevant to these Regulations.
 

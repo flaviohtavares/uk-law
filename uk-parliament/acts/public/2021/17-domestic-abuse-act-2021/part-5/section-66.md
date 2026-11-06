@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Prohibition of cross-examination in person in civil proceedings[^key-a1c4bb9becb2b1d5efcdecc5072fb617]
+## 66. Prohibition of cross-examination in person in civil proceedings[^c-a1c4bb9becb2b1d5efcdecc5072fb617]
 
 *Extent: E+W*
 
@@ -242,4 +242,4 @@ In the Courts Act 2003, after Part 7 insert—
 
 ## Annotations
 
-[^key-a1c4bb9becb2b1d5efcdecc5072fb617]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/17/section/66) in force at 21.7.2022 by [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))
+[^c-a1c4bb9becb2b1d5efcdecc5072fb617]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2021/17/section/66) in force at 21.7.2022 by [S.I. 2022/840](https://www.legislation.gov.uk/uksi/2022/840), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/840/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2022/840/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/840/regulation/3))

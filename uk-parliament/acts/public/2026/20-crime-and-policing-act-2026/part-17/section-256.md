@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Commencement: consultation requirements[^key-aa5f921d20508b17758afb2511d667bb]
+## 256. Commencement: consultation requirements[^c-aa5f921d20508b17758afb2511d667bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5f921d20508b17758afb2511d667bb]: Commencement: S. 256 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-aa5f921d20508b17758afb2511d667bb]: Commencement: S. 256 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

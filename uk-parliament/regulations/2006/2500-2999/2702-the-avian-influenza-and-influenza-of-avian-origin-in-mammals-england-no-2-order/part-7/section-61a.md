@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61A. Identification and restrictions at contact premises where mammals are kept[^key-5c6d5cd8969a43c10c477e89dd0a5ef0]
+## 61A. Identification and restrictions at contact premises where mammals are kept[^c-5c6d5cd8969a43c10c477e89dd0a5ef0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c6d5cd8969a43c10c477e89dd0a5ef0]: Textual amendment: [Art. 61A](https://www.legislation.gov.uk/uksi/2006/2702/article/61A) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(37)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/37)
+[^c-5c6d5cd8969a43c10c477e89dd0a5ef0]: Textual amendment: [Art. 61A](https://www.legislation.gov.uk/uksi/2006/2702/article/61A) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(37)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/37)

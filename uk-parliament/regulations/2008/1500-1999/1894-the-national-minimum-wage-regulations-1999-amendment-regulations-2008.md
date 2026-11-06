@@ -32,7 +32,7 @@ summary: ''
 
 Terms And Conditions Of Employment
 
-The National Minimum Wage Regulations 1999 (Amendment) Regulations 2008 (revoked)[^key-6b2543826a824893c5608be312bf803f]
+The National Minimum Wage Regulations 1999 (Amendment) Regulations 2008 (revoked)[^c-6b2543826a824893c5608be312bf803f]
 
 Made
 
@@ -40,40 +40,40 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-6b2543826a824893c5608be312bf803f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2543826a824893c5608be312bf803f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6b2543826a824893c5608be312bf803f]
+## 1. Citation, commencement and interpretation[^c-6b2543826a824893c5608be312bf803f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Principal Regulations[^key-6b2543826a824893c5608be312bf803f]
+## 2. Amendments to the Principal Regulations[^c-6b2543826a824893c5608be312bf803f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6b2543826a824893c5608be312bf803f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional Provision[^key-6b2543826a824893c5608be312bf803f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 8. Revocation Provision[^key-6b2543826a824893c5608be312bf803f]
+## 7. Transitional Provision[^c-6b2543826a824893c5608be312bf803f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b2543826a824893c5608be312bf803f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 8. Revocation Provision[^c-6b2543826a824893c5608be312bf803f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6b2543826a824893c5608be312bf803f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b2543826a824893c5608be312bf803f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b2543826a824893c5608be312bf803f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b2543826a824893c5608be312bf803f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1894) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-6b2543826a824893c5608be312bf803f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1894) revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)

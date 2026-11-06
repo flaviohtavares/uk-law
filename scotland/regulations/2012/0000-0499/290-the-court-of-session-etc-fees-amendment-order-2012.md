@@ -32,7 +32,7 @@ summary: ''
 
 Court Of Session
 
-The Court of Session etc. Fees Amendment Order 2012 (revoked)[^key-276ada34bd8a7b37a07208e32784feb7]
+The Court of Session etc. Fees Amendment Order 2012 (revoked)[^c-276ada34bd8a7b37a07208e32784feb7]
 
 Made
 
@@ -44,43 +44,43 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-276ada34bd8a7b37a07208e32784feb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-276ada34bd8a7b37a07208e32784feb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-276ada34bd8a7b37a07208e32784feb7]
+## 1. Citation, commencement and effect[^c-276ada34bd8a7b37a07208e32784feb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Court of Session etc. Fees Order 1997[^key-276ada34bd8a7b37a07208e32784feb7]
+## 2. Amendment of the Court of Session etc. Fees Order 1997[^c-276ada34bd8a7b37a07208e32784feb7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-276ada34bd8a7b37a07208e32784feb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-276ada34bd8a7b37a07208e32784feb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-276ada34bd8a7b37a07208e32784feb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-276ada34bd8a7b37a07208e32784feb7]
+## SCHEDULE 1 — TABLE OF FEES[^c-276ada34bd8a7b37a07208e32784feb7]
 
 Article 6(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-276ada34bd8a7b37a07208e32784feb7]
+## SCHEDULE 2 — TABLE OF FEES[^c-276ada34bd8a7b37a07208e32784feb7]
 
 Article 6(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-276ada34bd8a7b37a07208e32784feb7]
+## SCHEDULE 3 — TABLE OF FEES[^c-276ada34bd8a7b37a07208e32784feb7]
 
 Article 6(c)
 
@@ -88,8 +88,8 @@ Article 6(c)
 
 **May not be in force at this date. Check the source.**
 
-[^key-276ada34bd8a7b37a07208e32784feb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-276ada34bd8a7b37a07208e32784feb7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-276ada34bd8a7b37a07208e32784feb7]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/290) revoked (22.9.2015) by [The Court of Session etc. Fees Order 2015 (S.S.I. 2015/261)](https://www.legislation.gov.uk/ssi/2015/261), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/261/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/261/schedule/4)
+[^c-276ada34bd8a7b37a07208e32784feb7]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/290) revoked (22.9.2015) by [The Court of Session etc. Fees Order 2015 (S.S.I. 2015/261)](https://www.legislation.gov.uk/ssi/2015/261), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/261/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2015/261/schedule/4)

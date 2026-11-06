@@ -24,21 +24,21 @@ Section 150
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-3dc5def157c9f851250ca5f9bd7c7f63] The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-3dc5def157c9f851250ca5f9bd7c7f63] The Town and Country Planning Act 1990 is amended as follows.
 
-**2.**[^key-d4e3582ee353735a5ad422dd80395b46] In section 2A (the Mayor of London: applications of potential strategic importance), in subsections (1)(a) and (1B), after “planning permission” insert “ or permission in principle ”.
+**2.**[^c-d4e3582ee353735a5ad422dd80395b46] In section 2A (the Mayor of London: applications of potential strategic importance), in subsections (1)(a) and (1B), after “planning permission” insert “ or permission in principle ”.
 
-**3.**[^key-086d759a36fd1603576e51822fc424ac] In the heading before section 61W, after “planning permission” insert “ or permission in principle ”.
+**3.**[^c-086d759a36fd1603576e51822fc424ac] In the heading before section 61W, after “planning permission” insert “ or permission in principle ”.
 
-**4.**[^key-47d20f174456d09c40c1311999651a21] In section 61W (requirement to carry out pre-application consultation), in subsection (1)(a), after “planning permission” insert “ , or permission in principle, ”.
+**4.**[^c-47d20f174456d09c40c1311999651a21] In section 61W (requirement to carry out pre-application consultation), in subsection (1)(a), after “planning permission” insert “ , or permission in principle, ”.
 
-**5.**[^key-e4a22b3b0bc82f4786d771ef7d50612b] In section 61X (duty to take account of responses to consultation), in subsection (1)(a) and (b), after “planning permission” insert “ or permission in principle ”.
+**5.**[^c-e4a22b3b0bc82f4786d771ef7d50612b] In section 61X (duty to take account of responses to consultation), in subsection (1)(a) and (b), after “planning permission” insert “ or permission in principle ”.
 
-**6.**[^key-03cf8b874c0d36b4e44f680e649c9ca3] In section 61Y (power to make supplementary provision), in subsection (1), after “planning permission” insert “ or permission in principle ”.
+**6.**[^c-03cf8b874c0d36b4e44f680e649c9ca3] In section 61Y (power to make supplementary provision), in subsection (1), after “planning permission” insert “ or permission in principle ”.
 
-**7.**[^key-b8c419e36a0b04426f0827e66d3a4628] In the heading before section 62, after “planning permission” insert “ or permission in principle ”.
+**7.**[^c-b8c419e36a0b04426f0827e66d3a4628] In the heading before section 62, after “planning permission” insert “ or permission in principle ”.
 
-**8.**[^key-821f9c299509e1eb6874d0d3f1087765] (1) Section 62 (applications for planning permission) is amended as follows.
+**8.**[^c-821f9c299509e1eb6874d0d3f1087765] (1) Section 62 (applications for planning permission) is amended as follows.
 
 (2) In the heading and in subsection (1), after “planning permission” insert “ or permission in principle ”.
 
@@ -47,21 +47,21 @@ Section 150
 - (a) after “the application for planning permission” insert “ or permission in principle ”;
 - (b) in paragraphs (a) and (b), after “planning permission” insert “ or permission in principle ”.
 
-**9.**[^key-cec6ed1be0507b4af3499f8d4e7c21c8] In section 65 (notice etc of applications for planning permission), in the heading and in subsections (1)(a), (3), (5) and (8), after “planning permission” insert “ or permission in principle ”.
+**9.**[^c-cec6ed1be0507b4af3499f8d4e7c21c8] In section 65 (notice etc of applications for planning permission), in the heading and in subsections (1)(a), (3), (5) and (8), after “planning permission” insert “ or permission in principle ”.
 
-**10.**[^key-08d5094303cab9dcb2db1fd89fc417d6] In section 69 (register of applications etc), after paragraph (a) of subsection (1) insert—
+**10.**[^c-08d5094303cab9dcb2db1fd89fc417d6] In section 69 (register of applications etc), after paragraph (a) of subsection (1) insert—
 
 > - (aza) applications for permission in principle;
 
 .
 
-**11.**[^key-2f9f7d4d0e4f39a45aa6d01007b43e92] (1) Section 70 (determination of applications: general considerations) is amended as follows.
+**11.**[^c-2f9f7d4d0e4f39a45aa6d01007b43e92] (1) Section 70 (determination of applications: general considerations) is amended as follows.
 
 (2) In subsection (2), for “such an application” substitute “ an application for planning permission or permission in principle ”.
 
 (3) In subsection (2A), for “Subsection (2)(b) does not” substitute “ Subsections (1A), (2)(b) and (2ZZA) to (2ZZC) do not ”.
 
-**12.**[^key-e70f40556f59127f252d765caf5bb93f] (1) Section 70A (power to decline to determine subsequent application) is amended as follows.
+**12.**[^c-e70f40556f59127f252d765caf5bb93f] (1) Section 70A (power to decline to determine subsequent application) is amended as follows.
 
 (2) In subsection (5), after paragraph (a) insert—
 
@@ -75,19 +75,19 @@ Section 150
 
 > (9) An application within subsection (5)(a) or (b) is not similar to an earlier application within subsection (5)(aa).
 
-**13.**[^key-f2542d08f8bc1e42f43d51fa2e0c4bdc] (1) Section 70B (power to decline to determine overlapping application) is amended as follows.
+**13.**[^c-f2542d08f8bc1e42f43d51fa2e0c4bdc] (1) Section 70B (power to decline to determine overlapping application) is amended as follows.
 
 (2) In subsections (1) and (4A), after “planning permission” insert “ , or permission in principle, ”.
 
 (3) In subsection (5) omit “for planning permission”.
 
-**14.**[^key-d214a3006de3f75e6e3e802930a8fce3] In section 70C (power to decline to determine retrospective application), in subsections (1) and (2), after “for planning permission” insert “ or permission in principle ”.
+**14.**[^c-d214a3006de3f75e6e3e802930a8fce3] In section 70C (power to decline to determine retrospective application), in subsections (1) and (2), after “for planning permission” insert “ or permission in principle ”.
 
-**15.**[^key-fa87e9c9b0066316f8a77b81435f5e4f] In section 71 (consultation in connection with determinations under section 70), in subsection (1), after “planning permission” insert “ or permission in principle ”.
+**15.**[^c-fa87e9c9b0066316f8a77b81435f5e4f] In section 71 (consultation in connection with determinations under section 70), in subsection (1), after “planning permission” insert “ or permission in principle ”.
 
-**16.**[^key-81d558630114b371cfbd0046bb25d4d3] In section 71A (assessment of environmental effects), in subsection (1), after “planning permission” insert “ , or permission in principle, ”.
+**16.**[^c-81d558630114b371cfbd0046bb25d4d3] In section 71A (assessment of environmental effects), in subsection (1), after “planning permission” insert “ , or permission in principle, ”.
 
-**17.**[^key-4055c4444c21ae8b72427e28c1b96945] (1) Section 74 (directions etc as to method of dealing with applications) is amended as follows.
+**17.**[^c-4055c4444c21ae8b72427e28c1b96945] (1) Section 74 (directions etc as to method of dealing with applications) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -100,15 +100,15 @@ Section 150
 - (a) in paragraph (a), after “planning permission” insert “ , or permission in principle, ”;
 - (b) in paragraph (c), after “planning permission” insert “ or permission in principle ”.
 
-**18.**[^key-7f10be01deaf9e225ba712ef96eb6f02] In section 76C (provisions applying to applications made under section 62A), after subsection (2) insert—
+**18.**[^c-7f10be01deaf9e225ba712ef96eb6f02] In section 76C (provisions applying to applications made under section 62A), after subsection (2) insert—
 
 > (2A) Sections 65(5) and 70 to 70C apply, with any necessary modifications, to an application for permission in principle made to the Secretary of State under section 62A as they apply to an application for permission in principle which is to be determined by the local planning authority.
 >
 > (2B) Any requirements imposed by a development order by virtue of section 62(1), (2) or (8), 65 or 71 or paragraph 8(6) of Schedule 1 may be applied by a development order, with or without modifications, to an application for permission in principle made to the Secretary of State under section 62A.
 
-**19.**[^key-fc9835e1a7d1106e950a41b1591d6a8a] In section 76D (deciding applications made under section 62A), in subsection (3), after “planning permission” insert “ or permission in principle ”.
+**19.**[^c-fc9835e1a7d1106e950a41b1591d6a8a] In section 76D (deciding applications made under section 62A), in subsection (3), after “planning permission” insert “ or permission in principle ”.
 
-**20.**[^key-e7a65417e53c240c0398148aeaf8059b] (1) Section 77 (references of applications to Secretary of State) is amended as follows.
+**20.**[^c-e7a65417e53c240c0398148aeaf8059b] (1) Section 77 (references of applications to Secretary of State) is amended as follows.
 
 (2) In subsection (1), after “planning permission” insert “ or permission in principle ”.
 
@@ -131,19 +131,19 @@ Section 150
 
   .
 
-**21.**[^key-b0f4c4a72f2e7a5f3bbba551c91a91db] In section 78 (right of appeal against planning decisions and failure to take such decision), in subsection (1), after paragraph (a) insert—
+**21.**[^c-b0f4c4a72f2e7a5f3bbba551c91a91db] In section 78 (right of appeal against planning decisions and failure to take such decision), in subsection (1), after paragraph (a) insert—
 
 > - (aa) refuse an application for permission in principle;
 
 .
 
-**22.**[^key-12df2b9b9cae542de4eb8c93a6d88681] (1) Section 78A (appeal made: functions of local planning authorities) is amended as follows.
+**22.**[^c-12df2b9b9cae542de4eb8c93a6d88681] (1) Section 78A (appeal made: functions of local planning authorities) is amended as follows.
 
 (2) In subsection (1), after “section 78(1)(a)” insert “ or (aa) ”.
 
 (3) In subsection (4), for “to grant the application” substitute “ to grant an application mentioned in section 78(1)(a) ”.
 
-**23.**[^key-f534ce44da501c7740e4034db1e3cdcb] (1) Section 79 (determination of appeals) is amended as follows.
+**23.**[^c-f534ce44da501c7740e4034db1e3cdcb] (1) Section 79 (determination of appeals) is amended as follows.
 
 (2) In subsection (4)—
 
@@ -169,9 +169,9 @@ Section 150
 
 > (6ZA) If, before or during the determination of such an appeal in respect of an application for permission in principle to develop land, the Secretary of State forms the opinion that, having regard to the provisions of section 70 and the development order, permission in principle for that development could not have been granted by the local planning authority, he may decline to determine the appeal or to proceed with the determination.
 
-**24.**[^key-4f40b7fc8ac3f881a56f4215e247b2a8] In the heading before section 97, after “planning permission” insert “ or permission in principle ”.
+**24.**[^c-4f40b7fc8ac3f881a56f4215e247b2a8] In the heading before section 97, after “planning permission” insert “ or permission in principle ”.
 
-**25.**[^key-e09ff5ab096da5a6718822e2440d20f7] (1) Section 97 (power to revoke or modify planning permission) is amended as follows.
+**25.**[^c-e09ff5ab096da5a6718822e2440d20f7] (1) Section 97 (power to revoke or modify planning permission) is amended as follows.
 
 (2) In the heading, at the end insert “ or permission in principle ”.
 
@@ -190,7 +190,7 @@ Section 150
 
 (5) In subsection (4), for “permission” substitute “ planning permission ”.
 
-**26.**[^key-306607468899960dd0a91b99e0188d61] In section 99 (procedure for section 97 orders: unopposed cases), in subsection (8)(a), after “planning permission” insert “ or permission in principle ”.
+**26.**[^c-306607468899960dd0a91b99e0188d61] In section 99 (procedure for section 97 orders: unopposed cases), in subsection (8)(a), after “planning permission” insert “ or permission in principle ”.
 
 **Not yet in force.**
 
@@ -200,7 +200,7 @@ Section 150
 
 > In this subsection, “**permission**” means planning permission or permission in principle.
 
-**28.**[^key-884b5c73e2f4b1e854a8827fafea9459] (1) Section 107 (compensation where planning permission revoked or modified) is amended as follows.
+**28.**[^c-884b5c73e2f4b1e854a8827fafea9459] (1) Section 107 (compensation where planning permission revoked or modified) is amended as follows.
 
 (2) In the heading, after “planning permission” insert “ or permission in principle ”.
 
@@ -220,7 +220,7 @@ Section 150
 
 > (4A) A development order may make provision for the payment of compensation, in such circumstances and subject to such conditions as may be prescribed in the order, where permission in principle is revoked or modified by an order under section 97(1)(b).
 
-**29.**[^key-e229e64b3cee30fb20b16e4083e5347f] (1) Section 108 (compensation for refusal or conditional grant of planning permission formerly granted by development order etc) is amended as follows.
+**29.**[^c-e229e64b3cee30fb20b16e4083e5347f] (1) Section 108 (compensation for refusal or conditional grant of planning permission formerly granted by development order etc) is amended as follows.
 
 (2) In the heading, after “planning permission” insert “ etc ”.
 
@@ -241,29 +241,29 @@ Section 150
 
 (7) In subsection (3C)(d), before “either” insert “ where the development order granted planning permission, ”.
 
-**30.**[^key-67c06e28c6e9693deee4d38ad27c1fbd] In section 109 (apportionment of compensation for depreciation), in the definition of “relevant planning decision” in subsection (6), for “by which planning permission is refused, or is granted” substitute “ by which planning permission or permission in principle is refused, or by which planning permission is granted ”.
+**30.**[^c-67c06e28c6e9693deee4d38ad27c1fbd] In section 109 (apportionment of compensation for depreciation), in the definition of “relevant planning decision” in subsection (6), for “by which planning permission is refused, or is granted” substitute “ by which planning permission or permission in principle is refused, or by which planning permission is granted ”.
 
-**31.**[^key-409ef64a5ce7c69295c7577e9a7bc8ac] In section 284 (validity of development plans and certain orders, decisions and directions), in subsection (3)(i), after “planning permission” insert “ or permission in principle ”.
+**31.**[^c-409ef64a5ce7c69295c7577e9a7bc8ac] In section 284 (validity of development plans and certain orders, decisions and directions), in subsection (3)(i), after “planning permission” insert “ or permission in principle ”.
 
-**32.**[^key-d90b7a7eb974d4336401f81f8150e314] In section 286 (challenges to validity on ground of authority's powers), in subsections (1)(a) and (2), after “planning permission” insert “ or permission in principle ”.
+**32.**[^c-d90b7a7eb974d4336401f81f8150e314] In section 286 (challenges to validity on ground of authority's powers), in subsections (1)(a) and (2), after “planning permission” insert “ or permission in principle ”.
 
-**33.**[^key-227e3376585ae12796e20edb57eb0a08] In section 293 (application to Crown: definitions), in subsection (2A), after “planning permission” insert “ or permission in principle ”.
+**33.**[^c-227e3376585ae12796e20edb57eb0a08] In section 293 (application to Crown: definitions), in subsection (2A), after “planning permission” insert “ or permission in principle ”.
 
-**34.**[^key-858413f30d0d6b1185aba75213644c08] (1) Section 293A (urgent Crown development: application) is amended as follows.
+**34.**[^c-858413f30d0d6b1185aba75213644c08] (1) Section 293A (urgent Crown development: application) is amended as follows.
 
 (2) In subsection (2), after “planning permission” (in both places) insert “ or permission in principle ”.
 
 (3) In subsection (4)(a), after “planning permission” insert “ , or (as the case may be) permission in principle, ”.
 
-**35.**[^key-ad63cd7427de1a3d5176590bd21bdba8] (1) Section 298A (application for planning permission by Crown) is amended as follows.
+**35.**[^c-ad63cd7427de1a3d5176590bd21bdba8] (1) Section 298A (application for planning permission by Crown) is amended as follows.
 
 (2) In the heading, after “planning permission” insert “ etc ”.
 
 (3) In subsection (1), after “for planning permission” insert “ , for permission in principle ”.
 
-**36.**[^key-f90d21625c3d810506158f1a0a0ea775] In section 303 (fees for planning applications etc), in subsection (4), after “planning permission” insert “ or permission in principle ”.
+**36.**[^c-f90d21625c3d810506158f1a0a0ea775] In section 303 (fees for planning applications etc), in subsection (4), after “planning permission” insert “ or permission in principle ”.
 
-**37.**[^key-3ad921969b020b42a0d593d626cc134c] In section 316 (land of interested planning authorities and development by them), for subsection (7) substitute—
+**37.**[^c-3ad921969b020b42a0d593d626cc134c] In section 316 (land of interested planning authorities and development by them), for subsection (7) substitute—
 
 > (7) This section applies—
 >
@@ -272,7 +272,7 @@ Section 150
 >
 > as it applies to planning permission to develop land.
 
-**38.**[^key-bb308fdb3adfd2384d4308eb6c5c452f] In section 322B (local inquiries in London: special provision as to costs in certain cases)—
+**38.**[^c-bb308fdb3adfd2384d4308eb6c5c452f] In section 322B (local inquiries in London: special provision as to costs in certain cases)—
 
 - (a) in subsection (1)(a),
 - (b) in paragraph (a) of the subsection set out in subsection (5), and
@@ -280,9 +280,9 @@ Section 150
 
 after “planning permission” insert “ or permission in principle ”.
 
-**39.**[^key-e6c4d10f79daed1aaaeb46ea71e29322] In section 332 (combined applications), in subsection (1)(a), after “planning permission” insert “ , or permission in principle, ”.
+**39.**[^c-e6c4d10f79daed1aaaeb46ea71e29322] In section 332 (combined applications), in subsection (1)(a), after “planning permission” insert “ , or permission in principle, ”.
 
-**40.**[^key-941a345c8a3d9ea984e4e0d20399b95c] (1) In section 336 (interpretation), subsection (1) is amended as follows.
+**40.**[^c-941a345c8a3d9ea984e4e0d20399b95c] (1) In section 336 (interpretation), subsection (1) is amended as follows.
 
 (2) At the appropriate place insert—
 
@@ -292,7 +292,7 @@ after “planning permission” insert “ or permission in principle ”.
 
 (3) At the end of the definition of “planning permission” insert “ but does not include permission in principle ”.
 
-**41.**[^key-317e5e0058308532a00feb60414d6ab3] (1) Schedule 1 (local planning authorities: distribution of functions) is amended as follows.
+**41.**[^c-317e5e0058308532a00feb60414d6ab3] (1) Schedule 1 (local planning authorities: distribution of functions) is amended as follows.
 
 (2) In paragraph 3(1)(a), after “planning permission” insert “ or permission in principle ”.
 
@@ -302,9 +302,9 @@ after “planning permission” insert “ or permission in principle ”.
 
 ### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
 
-**42.**[^key-cef33819713307de987f99c7cc69f58d] (1) In section 66 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (general duty as respects listed buildings in exercise of planning functions) in subsection (1), after “planning permission” insert “ or permission in principle ”.
+**42.**[^c-cef33819713307de987f99c7cc69f58d] (1) In section 66 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (general duty as respects listed buildings in exercise of planning functions) in subsection (1), after “planning permission” insert “ or permission in principle ”.
 
-**43.**[^key-1e1da380366ec74b594f192a99506f55] In section 91(2) of that Act (expressions that have the same meaning as in the principal Act), at the appropriate place insert—
+**43.**[^c-1e1da380366ec74b594f192a99506f55] In section 91(2) of that Act (expressions that have the same meaning as in the principal Act), at the appropriate place insert—
 
 > permission in principle
 
@@ -312,7 +312,7 @@ after “planning permission” insert “ or permission in principle ”.
 
 ### Commons Act 2006 (c. 26)
 
-**44.**[^key-aae0f90c8f873369f4d75be5df4922f4] (1) Schedule 1A to the Commons Act 2006 (exclusion of right under section 15) is amended as follows.
+**44.**[^c-aae0f90c8f873369f4d75be5df4922f4] (1) Schedule 1A to the Commons Act 2006 (exclusion of right under section 15) is amended as follows.
 
 (2) In the first column of the Table, in paragraphs 1 and 2, after “An application for planning permission” insert “ , or permission in principle, ”.
 
@@ -320,88 +320,88 @@ after “planning permission” insert “ or permission in principle ”.
 
 ## Annotations
 
-[^key-3dc5def157c9f851250ca5f9bd7c7f63]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/1) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-3dc5def157c9f851250ca5f9bd7c7f63]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/1) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-d4e3582ee353735a5ad422dd80395b46]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/2) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-d4e3582ee353735a5ad422dd80395b46]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/2) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-086d759a36fd1603576e51822fc424ac]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/3) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-086d759a36fd1603576e51822fc424ac]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/3) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-47d20f174456d09c40c1311999651a21]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/4) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-47d20f174456d09c40c1311999651a21]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/4) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-e4a22b3b0bc82f4786d771ef7d50612b]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/5) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-e4a22b3b0bc82f4786d771ef7d50612b]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/5) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-03cf8b874c0d36b4e44f680e649c9ca3]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/6) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-03cf8b874c0d36b4e44f680e649c9ca3]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/6) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-b8c419e36a0b04426f0827e66d3a4628]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/7) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-b8c419e36a0b04426f0827e66d3a4628]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/7) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-821f9c299509e1eb6874d0d3f1087765]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/8) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-821f9c299509e1eb6874d0d3f1087765]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/8) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-cec6ed1be0507b4af3499f8d4e7c21c8]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/9) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-cec6ed1be0507b4af3499f8d4e7c21c8]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/9) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-08d5094303cab9dcb2db1fd89fc417d6]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/10) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-08d5094303cab9dcb2db1fd89fc417d6]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/10) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-2f9f7d4d0e4f39a45aa6d01007b43e92]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/11) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-2f9f7d4d0e4f39a45aa6d01007b43e92]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/11) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-e70f40556f59127f252d765caf5bb93f]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/12) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-e70f40556f59127f252d765caf5bb93f]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/12) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-f2542d08f8bc1e42f43d51fa2e0c4bdc]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/13) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-f2542d08f8bc1e42f43d51fa2e0c4bdc]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/13) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-d214a3006de3f75e6e3e802930a8fce3]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/14) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-d214a3006de3f75e6e3e802930a8fce3]: Commencement: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/14) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-fa87e9c9b0066316f8a77b81435f5e4f]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/15) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-fa87e9c9b0066316f8a77b81435f5e4f]: Commencement: [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/15) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-81d558630114b371cfbd0046bb25d4d3]: Commencement: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/16) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-81d558630114b371cfbd0046bb25d4d3]: Commencement: [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/16) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-4055c4444c21ae8b72427e28c1b96945]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/17) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-4055c4444c21ae8b72427e28c1b96945]: Commencement: [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/17) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-7f10be01deaf9e225ba712ef96eb6f02]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/18) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-7f10be01deaf9e225ba712ef96eb6f02]: Commencement: [Sch. 12 para. 18](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/18) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-fc9835e1a7d1106e950a41b1591d6a8a]: Commencement: [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/19) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-fc9835e1a7d1106e950a41b1591d6a8a]: Commencement: [Sch. 12 para. 19](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/19) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-e7a65417e53c240c0398148aeaf8059b]: Commencement: [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/20) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-e7a65417e53c240c0398148aeaf8059b]: Commencement: [Sch. 12 para. 20](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/20) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-b0f4c4a72f2e7a5f3bbba551c91a91db]: Commencement: [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/21) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-b0f4c4a72f2e7a5f3bbba551c91a91db]: Commencement: [Sch. 12 para. 21](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/21) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-12df2b9b9cae542de4eb8c93a6d88681]: Commencement: [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/22) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-12df2b9b9cae542de4eb8c93a6d88681]: Commencement: [Sch. 12 para. 22](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/22) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-f534ce44da501c7740e4034db1e3cdcb]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/23) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-f534ce44da501c7740e4034db1e3cdcb]: Commencement: [Sch. 12 para. 23](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/23) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-4f40b7fc8ac3f881a56f4215e247b2a8]: Commencement: [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/24) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-4f40b7fc8ac3f881a56f4215e247b2a8]: Commencement: [Sch. 12 para. 24](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/24) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-e09ff5ab096da5a6718822e2440d20f7]: Commencement: [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/25) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-e09ff5ab096da5a6718822e2440d20f7]: Commencement: [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/25) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-306607468899960dd0a91b99e0188d61]: Commencement: [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/26) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-306607468899960dd0a91b99e0188d61]: Commencement: [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/26) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-884b5c73e2f4b1e854a8827fafea9459]: Commencement: [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/28) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-884b5c73e2f4b1e854a8827fafea9459]: Commencement: [Sch. 12 para. 28](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/28) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-e229e64b3cee30fb20b16e4083e5347f]: Commencement: [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/29) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-e229e64b3cee30fb20b16e4083e5347f]: Commencement: [Sch. 12 para. 29](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/29) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-67c06e28c6e9693deee4d38ad27c1fbd]: Commencement: [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/30) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-67c06e28c6e9693deee4d38ad27c1fbd]: Commencement: [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/30) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-409ef64a5ce7c69295c7577e9a7bc8ac]: Commencement: [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/31) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-409ef64a5ce7c69295c7577e9a7bc8ac]: Commencement: [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/31) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-d90b7a7eb974d4336401f81f8150e314]: Commencement: [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/32) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-d90b7a7eb974d4336401f81f8150e314]: Commencement: [Sch. 12 para. 32](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/32) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-227e3376585ae12796e20edb57eb0a08]: Commencement: [Sch. 12 para. 33](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/33) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-227e3376585ae12796e20edb57eb0a08]: Commencement: [Sch. 12 para. 33](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/33) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-858413f30d0d6b1185aba75213644c08]: Commencement: [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/34) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-858413f30d0d6b1185aba75213644c08]: Commencement: [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/34) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-ad63cd7427de1a3d5176590bd21bdba8]: Commencement: [Sch. 12 para. 35](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/35) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-ad63cd7427de1a3d5176590bd21bdba8]: Commencement: [Sch. 12 para. 35](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/35) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-f90d21625c3d810506158f1a0a0ea775]: Commencement: [Sch. 12 para. 36](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/36) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-f90d21625c3d810506158f1a0a0ea775]: Commencement: [Sch. 12 para. 36](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/36) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-3ad921969b020b42a0d593d626cc134c]: Commencement: [Sch. 12 para. 37](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/37) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-3ad921969b020b42a0d593d626cc134c]: Commencement: [Sch. 12 para. 37](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/37) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-bb308fdb3adfd2384d4308eb6c5c452f]: Commencement: [Sch. 12 para. 38](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/38) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-bb308fdb3adfd2384d4308eb6c5c452f]: Commencement: [Sch. 12 para. 38](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/38) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-e6c4d10f79daed1aaaeb46ea71e29322]: Commencement: [Sch. 12 para. 39](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/39) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-e6c4d10f79daed1aaaeb46ea71e29322]: Commencement: [Sch. 12 para. 39](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/39) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-941a345c8a3d9ea984e4e0d20399b95c]: Commencement: [Sch. 12 para. 40](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/40) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-941a345c8a3d9ea984e4e0d20399b95c]: Commencement: [Sch. 12 para. 40](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/40) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-317e5e0058308532a00feb60414d6ab3]: Commencement: [Sch. 12 para. 41](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/41) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-317e5e0058308532a00feb60414d6ab3]: Commencement: [Sch. 12 para. 41](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/41) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-cef33819713307de987f99c7cc69f58d]: Commencement: [Sch. 12 para. 42](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/42) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-cef33819713307de987f99c7cc69f58d]: Commencement: [Sch. 12 para. 42](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/42) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-1e1da380366ec74b594f192a99506f55]: Commencement: [Sch. 12 para. 43](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/43) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-1e1da380366ec74b594f192a99506f55]: Commencement: [Sch. 12 para. 43](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/43) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
 
-[^key-aae0f90c8f873369f4d75be5df4922f4]: Commencement: [Sch. 12 para. 44](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/44) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-aae0f90c8f873369f4d75be5df4922f4]: Commencement: [Sch. 12 para. 44](https://www.legislation.gov.uk/ukpga/2016/22/schedule/12/paragraph/44) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)

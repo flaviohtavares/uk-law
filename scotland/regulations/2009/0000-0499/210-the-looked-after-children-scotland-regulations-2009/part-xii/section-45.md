@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) This regulation applies where a child has been placed [^key-3b786d732f4f656fb50d51b4b6eec9ed]...–
+(1) This regulation applies where a child has been placed [^c-3b786d732f4f656fb50d51b4b6eec9ed]...–
 
 - (a) with a kinship carer in accordance with regulation 11;
 - (b) with a foster carer in accordance with regulation 27;
@@ -40,9 +40,9 @@ summary: ''
 
 (4) Notwithstanding paragraphs (2) and (3) a review must be carried out–
 
-- (a)[^key-3005ac2fce33450e052c4745f689f121] prior to the implementation authority requiring, by notice to the Principal Reporter, a review of a compulsory supervision order under section 131 of the 2011 Act;
+- (a)[^c-3005ac2fce33450e052c4745f689f121] prior to the implementation authority requiring, by notice to the Principal Reporter, a review of a compulsory supervision order under section 131 of the 2011 Act;
 - (b) prior to an application by the local authority for a permanence order; and
-- (c) where practicable, under any other circumstances when a children's hearing is convened under the 2011 Act[^key-c3ebd89f0e7083e5753bb75989495b4c] to consider the case of a child.
+- (c) where practicable, under any other circumstances when a children's hearing is convened under the 2011 Act[^c-c3ebd89f0e7083e5753bb75989495b4c] to consider the case of a child.
 
 (5) The requirements are–
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3b786d732f4f656fb50d51b4b6eec9ed]: Textual amendment: Words in reg. 45(1) omitted (28.9.2009) by virtue of [The Looked After Children (Scotland) Amendment Regulations 2009 (S.S.I. 2009/290)](https://www.legislation.gov.uk/ssi/2009/290), [regs. 1](https://www.legislation.gov.uk/ssi/2009/290/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/290/regulation/2/3)
+[^c-3b786d732f4f656fb50d51b4b6eec9ed]: Textual amendment: Words in reg. 45(1) omitted (28.9.2009) by virtue of [The Looked After Children (Scotland) Amendment Regulations 2009 (S.S.I. 2009/290)](https://www.legislation.gov.uk/ssi/2009/290), [regs. 1](https://www.legislation.gov.uk/ssi/2009/290/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/290/regulation/2/3)
 
-[^key-3005ac2fce33450e052c4745f689f121]: Textual amendment: Reg. 45(4)(a) substituted (2.6.2014) by [The Children s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2014 (S.S.I. 2014/112)](https://www.legislation.gov.uk/ssi/2014/112), [art. 1](https://www.legislation.gov.uk/ssi/2014/112/article/1), [sch. para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2014/112/schedule/paragraph/2/2/a)
+[^c-3005ac2fce33450e052c4745f689f121]: Textual amendment: Reg. 45(4)(a) substituted (2.6.2014) by [The Children s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2014 (S.S.I. 2014/112)](https://www.legislation.gov.uk/ssi/2014/112), [art. 1](https://www.legislation.gov.uk/ssi/2014/112/article/1), [sch. para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2014/112/schedule/paragraph/2/2/a)
 
-[^key-c3ebd89f0e7083e5753bb75989495b4c]: Textual amendment: Words in reg. 45(4)(c) substituted (2.6.2014) by [The Children s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2014 (S.S.I. 2014/112)](https://www.legislation.gov.uk/ssi/2014/112), [art. 1](https://www.legislation.gov.uk/ssi/2014/112/article/1), [sch. para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2014/112/schedule/paragraph/2/2/b)
+[^c-c3ebd89f0e7083e5753bb75989495b4c]: Textual amendment: Words in reg. 45(4)(c) substituted (2.6.2014) by [The Children s Hearings (Scotland) Act 2011 (Modification of Subordinate Legislation) Order 2014 (S.S.I. 2014/112)](https://www.legislation.gov.uk/ssi/2014/112), [art. 1](https://www.legislation.gov.uk/ssi/2014/112/article/1), [sch. para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2014/112/schedule/paragraph/2/2/b)

@@ -29,7 +29,7 @@ summary: ''
 
 (3) If the gaming payment has not been made at the time when the chargeable person begins to participate in the remote gaming to which it relates, it is to be treated for the purposes of this Chapter as being made at that time.
 
-(4)[^key-21670aa07829c2a86bdd0a85f3627feb] For the purposes of this Chapter—
+(4)[^c-21670aa07829c2a86bdd0a85f3627feb] For the purposes of this Chapter—
 
 - (a) where the chargeable person participates in the remote gaming in reliance on an offer which waives all of a gaming payment, the person is to be treated as having made a gaming payment of the amount which would have been required to be paid without the offer (“the full amount”), and
 - (b) where the chargeable person participates in the remote gaming in reliance on an offer which waives part of a gaming payment, the person is to be treated as having made an additional gaming payment of the difference between the gaming payment actually made and the full amount.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21670aa07829c2a86bdd0a85f3627feb]: Textual amendment: [S. 159(4)-(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/159/4) substituted for [s. 159(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/159/4) (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/2)
+[^c-21670aa07829c2a86bdd0a85f3627feb]: Textual amendment: [S. 159(4)-(7)](https://www.legislation.gov.uk/ukpga/2014/26/section/159/4) substituted for [s. 159(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/159/4) (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/2)

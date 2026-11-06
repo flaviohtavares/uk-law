@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Joint holders of stock[^key-0beae29b154bca79b40d928c1abab828]
+## 33. Joint holders of stock[^c-0beae29b154bca79b40d928c1abab828]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0beae29b154bca79b40d928c1abab828]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-0beae29b154bca79b40d928c1abab828]: Commencement: Reg. 33 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

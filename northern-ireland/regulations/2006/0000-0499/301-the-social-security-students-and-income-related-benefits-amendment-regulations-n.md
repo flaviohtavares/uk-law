@@ -43,7 +43,7 @@ Regulation 3 is made with the consent of the Department of Finance and Personnel
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulation 3 should not be referred to it[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-64e82225584f23d940b2dc9408e60a46]
+## 1. Citation, commencement and interpretation[^c-64e82225584f23d940b2dc9408e60a46]
 
 (1) These Regulations may be cited as the Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2006 and, subject to paragraph (2), shall come into operation on 1st August 2006.
 
@@ -59,11 +59,11 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support Regulations[^key-90bb8f285fe6c15aa98188115d373ba4][^key-895c32958fc1476f615aa0725e146169]
+## 2. Amendment of the Income Support Regulations[^c-90bb8f285fe6c15aa98188115d373ba4][^c-895c32958fc1476f615aa0725e146169]
 
 (1) The Income Support Regulations shall be amended in accordance with paragraphs (2) to (4).
 
-(2)[^key-a0bc4b0237d9096d50f2328aefc6e22a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a0bc4b0237d9096d50f2328aefc6e22a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit regulation 62(2B)[^f00011].
 
@@ -75,15 +75,15 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-c621287232fef3daec5d4f86b2961197]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-c621287232fef3daec5d4f86b2961197]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-76262e521a43d5fcc1ff122fd0747cc9][^key-75f03c9d26c115c669ae08a6e8d1e2ff]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-76262e521a43d5fcc1ff122fd0747cc9][^c-75f03c9d26c115c669ae08a6e8d1e2ff]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00019] shall be amended in accordance with paragraphs (2) to (4).
 
-(2)[^key-ea8f7d8fdc44e4a8ddf9fe571e8a4cd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ea8f7d8fdc44e4a8ddf9fe571e8a4cd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit regulation 131(3A)[^f00022].
 
@@ -95,7 +95,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 .
 
-## 5. Revocation[^key-aa2cb7edcd380d1559dc0cc5ea0a6701][^key-92afe6087b2accb716d7281abd82e1d8]
+## 5. Revocation[^c-aa2cb7edcd380d1559dc0cc5ea0a6701][^c-92afe6087b2accb716d7281abd82e1d8]
 
 The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2005[^f00023] are revoked.
 
@@ -143,7 +143,7 @@ In so far as these Regulations are required, for the purposes of regulation 3, t
 
 [^f00005]: Footnote: See section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-64e82225584f23d940b2dc9408e60a46]: Commencement: Reg. 1 in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/1)
+[^c-64e82225584f23d940b2dc9408e60a46]: Commencement: Reg. 1 in operation at 1.8.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297), [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278), [S.R. 2002 No. 270](https://www.legislation.gov.uk/nisr/2002/270), [S.R. 2003 Nos. 195](https://www.legislation.gov.uk/nisr/2003/195) and [329](https://www.legislation.gov.uk/nisr/2003/329), [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300) and [S.R. 2005 No. 332](https://www.legislation.gov.uk/nisr/2005/332)
 
@@ -151,11 +151,11 @@ In so far as these Regulations are required, for the purposes of regulation 3, t
 
 [^f00008]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-90bb8f285fe6c15aa98188115d373ba4]: Commencement: Reg. 2 in operation at 1.8.2006 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a)
+[^c-90bb8f285fe6c15aa98188115d373ba4]: Commencement: Reg. 2 in operation at 1.8.2006 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a)
 
-[^key-895c32958fc1476f615aa0725e146169]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/301/regulation/2) in operation at 1.9.2006 in so far as not already in operation, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/b)
+[^c-895c32958fc1476f615aa0725e146169]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/301/regulation/2) in operation at 1.9.2006 in so far as not already in operation, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/b)
 
-[^key-a0bc4b0237d9096d50f2328aefc6e22a]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/301/regulation/2/2) revoked (for specified purposes and with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/298)](https://www.legislation.gov.uk/nisr/2007/298), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/298/regulation/1/2/a), [5](https://www.legislation.gov.uk/nisr/2007/298/regulation/5)
+[^c-a0bc4b0237d9096d50f2328aefc6e22a]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/301/regulation/2/2) revoked (for specified purposes and with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/298)](https://www.legislation.gov.uk/nisr/2007/298), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/298/regulation/1/2/a), [5](https://www.legislation.gov.uk/nisr/2007/298/regulation/5)
 
 [^f00011]: Footnote: Paragraph (2B) was inserted by regulation 3(4)(b) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278) and amended by regulation 2(2)(b) of [S.R. 2002 No. 270](https://www.legislation.gov.uk/nisr/2002/270), substituted by paragraph 16(b) of Schedule 1 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) for certain cases, amended by regulation 3 of [S.R. 2003 No. 329](https://www.legislation.gov.uk/nisr/2003/329) and regulation 3(5)(b) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300) and omitted by regulation 2(5) of [S.R. 2005 No. 332](https://www.legislation.gov.uk/nisr/2005/332) except in a case where regulation 1(3) of [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) applied
 
@@ -165,20 +165,20 @@ In so far as these Regulations are required, for the purposes of regulation 3, t
 
 [^f00014]: Footnote: [1980 c. 44](https://www.legislation.gov.uk/ukpga/1980/44); section 73(f) was amended by section 29 of the Teaching and Higher Education Act 1998 and by section 3 of the [Education (Graduate Endowment and Student Support) (Scotland) Act 2001 (asp6)](https://www.legislation.gov.uk/asp/2001/6)
 
-[^key-c621287232fef3daec5d4f86b2961197]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/301/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-c621287232fef3daec5d4f86b2961197]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/301/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-76262e521a43d5fcc1ff122fd0747cc9]: Commencement: Reg. 4 in operation at 1.8.2006 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a)
+[^c-76262e521a43d5fcc1ff122fd0747cc9]: Commencement: Reg. 4 in operation at 1.8.2006 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a)
 
-[^key-75f03c9d26c115c669ae08a6e8d1e2ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/301/regulation/4) in operation at 1.9.2006 in so far as not already in operation, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/b)
+[^c-75f03c9d26c115c669ae08a6e8d1e2ff]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/301/regulation/4) in operation at 1.9.2006 in so far as not already in operation, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/b)
 
 [^f00019]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1999 No. 317](https://www.legislation.gov.uk/nisr/1999/317), [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278), [S.R. 2002 No. 270](https://www.legislation.gov.uk/nisr/2002/270), [S.R. 2003 Nos. 195](https://www.legislation.gov.uk/nisr/2003/195) and [329](https://www.legislation.gov.uk/nisr/2003/329), [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300) and [S.R. 2005 No. 332](https://www.legislation.gov.uk/nisr/2005/332)
 
-[^key-ea8f7d8fdc44e4a8ddf9fe571e8a4cd9]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/301/regulation/4/2) revoked (for specified purposes and with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/298)](https://www.legislation.gov.uk/nisr/2007/298), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/298/regulation/1/2/a), [5](https://www.legislation.gov.uk/nisr/2007/298/regulation/5)
+[^c-ea8f7d8fdc44e4a8ddf9fe571e8a4cd9]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/nisr/2006/301/regulation/4/2) revoked (for specified purposes and with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/298)](https://www.legislation.gov.uk/nisr/2007/298), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/298/regulation/1/2/a), [5](https://www.legislation.gov.uk/nisr/2007/298/regulation/5)
 
 [^f00022]: Footnote: Paragraph (3A) was inserted by regulation 3(4)(c) of [S.R. 2001 No. 278](https://www.legislation.gov.uk/nisr/2001/278) and amended by regulation 2(2)(c) of [S.R. 2002 No. 270](https://www.legislation.gov.uk/nisr/2002/270), substituted by paragraph 16(b) of Schedule 2 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) for certain cases, amended by regulation 3 of [S.R. 2003 No. 329](https://www.legislation.gov.uk/nisr/2003/329) and regulation 3(5)(c) of [S.R. 2004 No. 300](https://www.legislation.gov.uk/nisr/2004/300) and omitted by regulation 2(7) of [S.R. 2005 No. 332](https://www.legislation.gov.uk/nisr/2005/332) except in a case where regulation 1(7) of [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) applied
 
-[^key-aa2cb7edcd380d1559dc0cc5ea0a6701]: Commencement: Reg. 5 in operation at 1.8.2006 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a)
+[^c-aa2cb7edcd380d1559dc0cc5ea0a6701]: Commencement: Reg. 5 in operation at 1.8.2006 for specified purposes, see [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a)
 
-[^key-92afe6087b2accb716d7281abd82e1d8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/301/regulation/5) in operation at 1.9.2006 in so far as not already in operation, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/b)
+[^c-92afe6087b2accb716d7281abd82e1d8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/301/regulation/5) in operation at 1.9.2006 in so far as not already in operation, see [reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/b)
 
 [^f00023]: Footnote: [S.R. 2005 No.332](https://www.legislation.gov.uk/nisr/2005/332)

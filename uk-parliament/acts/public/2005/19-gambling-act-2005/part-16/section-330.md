@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330. Unlawful gambling[^key-a2c41a6ab15c0910ab81237e8c756a10]
+## 330. Unlawful gambling[^c-a2c41a6ab15c0910ab81237e8c756a10]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c41a6ab15c0910ab81237e8c756a10]: Commencement: [S. 330](https://www.legislation.gov.uk/ukpga/2005/19/section/330) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-a2c41a6ab15c0910ab81237e8c756a10]: Commencement: [S. 330](https://www.legislation.gov.uk/ukpga/2005/19/section/330) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)

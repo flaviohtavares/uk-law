@@ -39,7 +39,7 @@ where—
 
 (4) If a participator in an oil field so elects by notice in writing given to the Board at the time when he makes his return under paragraph 2 of Schedule 2 to this Act for a chargeable period, then the cash equivalent of his share of the oil allowance for the field for that period shall be determined under subsection (3) above—
 
-- (a)[^key-3fbeccdeb237142d10eb09a05c7f2f7b] to the extent that his share of that oil allowance does not exceed his share of the oil (other than gas) won and saved from the field in the period, as if—
+- (a)[^c-3fbeccdeb237142d10eb09a05c7f2f7b] to the extent that his share of that oil allowance does not exceed his share of the oil (other than gas) won and saved from the field in the period, as if—
   - (i) in computing the gross profit or gross loss accruing to him in the period all amounts relating to gas fell to be disregarded, and
   - (ii) in the definition of C, for “the oil won and saved” there were substituted “the oil (other than gas) won and saved”; and
 - (b) to the extent, if any, that his share of that oil allowance exceeds his share of the oil (other than gas) so won and saved, as if—
@@ -75,4 +75,4 @@ In this subsection “**the necessary restriction**” means the restriction nec
 
 [^c10742881]: Textual amendment: Words substituted by [Finance (No. 2) Act 1979 (c. 47)](https://www.legislation.gov.uk/ukpga/1979/47), [s. 21(1)](https://www.legislation.gov.uk/ukpga/1979/47/section/21/1) in relation to chargeable periods and half years ending after 31 December 1978
 
-[^key-3fbeccdeb237142d10eb09a05c7f2f7b]: Textual amendment: S. 8(4)(a)(b) substituted (with effect in accordance with art. 15(3) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2009/730/article/15/2)
+[^c-3fbeccdeb237142d10eb09a05c7f2f7b]: Textual amendment: S. 8(4)(a)(b) substituted (with effect in accordance with art. 15(3) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [15(2)](https://www.legislation.gov.uk/uksi/2009/730/article/15/2)

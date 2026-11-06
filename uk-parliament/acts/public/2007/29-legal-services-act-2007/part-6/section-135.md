@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 135. Notification requirements[^key-a865c6a7aba8c32eb44cfd6bdce9e025]
+## 135. Notification requirements[^c-a865c6a7aba8c32eb44cfd6bdce9e025]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ and, in a case within subsection (1)(a) or (b), must give reasons for the exclus
 
 ## Annotations
 
-[^key-a865c6a7aba8c32eb44cfd6bdce9e025]: Commencement: S. 135 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-a865c6a7aba8c32eb44cfd6bdce9e025]: Commencement: S. 135 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

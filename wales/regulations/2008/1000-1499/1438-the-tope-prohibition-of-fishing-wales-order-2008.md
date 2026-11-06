@@ -45,22 +45,22 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 5(1), 5(6), 6(1), 6(1A) and 15(3) of the Sea Fish (Conservation) Act 1967[^f00001], and now vested in them [^f00002], make the following Order :
 
-## 1. Title, commencement and application[^key-2956c62643682c820646db0601bfb615]
+## 1. Title, commencement and application[^c-2956c62643682c820646db0601bfb615]
 
 (1) The title of this Order is the Tope (Prohibition of Fishing) (Wales) Order 2008 and it comes into force on 1 July 2008.
 
 (2) Subject to the provisions of this article, this Order applies in relation to Wales.
 
-(3)[^key-4ad3b48a764ce6b602474c9c536968a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4ad3b48a764ce6b602474c9c536968a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ba1385db7b189cdc5e9adc5a9132c52f]
+## 2. Interpretation[^c-ba1385db7b189cdc5e9adc5a9132c52f]
 
 In this Order —
 
 - “tope” (“*ci glas*”) means the species *Galeorhinus galeus*; and
 - “Wales” (“*Cymru*”) has the meaning given by section 158(1) of the Government of Wales Act 2006[^f00004].
 
-## 3. Fishing prohibition[^key-f1ba6239027a4061a10105975306085b]
+## 3. Fishing prohibition[^c-f1ba6239027a4061a10105975306085b]
 
 (1) Fishing for tope (other than by rod and line) is prohibited.
 
@@ -68,20 +68,20 @@ In this Order —
 
 (3) In paragraph (2), “liveweight” means the weight of the gutted carcasses of tope multiplied by a factor of 1.125.
 
-## 4. Trans-shipment prohibition[^key-1d4f345d15f4866035e8471b837afeae]
+## 4. Trans-shipment prohibition[^c-1d4f345d15f4866035e8471b837afeae]
 
 The trans-shipment of tope is prohibited.
 
-## 5. Landing prohibition[^key-bc9323777c3fbb24d5ce2aa271e80037]
+## 5. Landing prohibition[^c-bc9323777c3fbb24d5ce2aa271e80037]
 
 No person may land in Wales —
 
 - (a) tope caught by rod and line, or
 - (b) beheaded tope.
 
-## 6. Powers of British sea-fishery officers[^key-d7cd82785c3309b930c944b4e3f693a6]
+## 6. Powers of British sea-fishery officers[^c-d7cd82785c3309b930c944b4e3f693a6]
 
-(1) For the purposes of enforcing this Order, an officer may exercise the following powers —[^key-929620b52e83214c516e823eaac7c412]
+(1) For the purposes of enforcing this Order, an officer may exercise the following powers —[^c-929620b52e83214c516e823eaac7c412]
 
 - (a) in relation to a relevant British fishing boat that is registered in the United Kingdom or is British-owned, wherever it may be; and
 - (b) in relation to any other fishing boat, in any waters adjacent to the United Kingdom and within relevant British fishery limits.
@@ -128,20 +128,20 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: By virtue of article 2(a) of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) the functions exercisable under sections 5, 6 and 15 of the 1967 Act were transferred to the National Assembly for Wales (as constituted under the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38)) in so far as exercisable in relation to Wales (acting concurrently with the Secretary of State in relation to section 15(3)). Those functions of the National Assembly for Wales were transferred to the Welsh Ministers by virtue of section 162 of and paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-2956c62643682c820646db0601bfb615]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+[^c-2956c62643682c820646db0601bfb615]: Commencement: Art. 1 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
 
-[^key-4ad3b48a764ce6b602474c9c536968a6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/15/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-4ad3b48a764ce6b602474c9c536968a6]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/15/2) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-ba1385db7b189cdc5e9adc5a9132c52f]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+[^c-ba1385db7b189cdc5e9adc5a9132c52f]: Commencement: Art. 2 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
 
 [^f00004]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-f1ba6239027a4061a10105975306085b]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+[^c-f1ba6239027a4061a10105975306085b]: Commencement: Art. 3 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
 
-[^key-1d4f345d15f4866035e8471b837afeae]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+[^c-1d4f345d15f4866035e8471b837afeae]: Commencement: Art. 4 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
 
-[^key-bc9323777c3fbb24d5ce2aa271e80037]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+[^c-bc9323777c3fbb24d5ce2aa271e80037]: Commencement: Art. 5 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
 
-[^key-d7cd82785c3309b930c944b4e3f693a6]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
+[^c-d7cd82785c3309b930c944b4e3f693a6]: Commencement: Art. 6 in force at 1.7.2008, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2008/1438/article/1/1)
 
-[^key-929620b52e83214c516e823eaac7c412]: Textual amendment: [Art. 6(1)(a)](https://www.legislation.gov.uk/wsi/2008/1438/article/6/1/a)[(b)](https://www.legislation.gov.uk/wsi/2008/1438/article/6/1/b) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/15/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-929620b52e83214c516e823eaac7c412]: Textual amendment: [Art. 6(1)(a)](https://www.legislation.gov.uk/wsi/2008/1438/article/6/1/a)[(b)](https://www.legislation.gov.uk/wsi/2008/1438/article/6/1/b) inserted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/a), [Sch. 2 para. 15(3)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/2/paragraph/15/3/a) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

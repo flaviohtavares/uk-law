@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — Footpaths to be permanently stopped up on HPC Development Site[^key-306e8fe34fc4768babcb2d46ce414fd0]
+### PART 1 — Footpaths to be permanently stopped up on HPC Development Site[^c-306e8fe34fc4768babcb2d46ce414fd0]
 
 <table>
 <thead>
@@ -41,7 +41,7 @@ Article 14
 </tbody>
 </table>
 
-### PART 2 — Footpaths to be temporarily stopped up on HPC Development Site[^key-7ac206da2df2202de24b8f89576f4ff9]
+### PART 2 — Footpaths to be temporarily stopped up on HPC Development Site[^c-7ac206da2df2202de24b8f89576f4ff9]
 
 <table>
 <thead>
@@ -55,6 +55,6 @@ Article 14
 
 ## Annotations
 
-[^key-306e8fe34fc4768babcb2d46ce414fd0]: Commencement: Sch. 5 Pt. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-306e8fe34fc4768babcb2d46ce414fd0]: Commencement: Sch. 5 Pt. 1 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-7ac206da2df2202de24b8f89576f4ff9]: Commencement: Sch. 5 Pt. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-7ac206da2df2202de24b8f89576f4ff9]: Commencement: Sch. 5 Pt. 2 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

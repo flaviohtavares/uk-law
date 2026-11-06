@@ -44,18 +44,18 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and commencement[^key-c34158a45643728d4473bf17d8ee5b43]
+## 1. Citation and commencement[^c-c34158a45643728d4473bf17d8ee5b43]
 
 These Regulations may be cited as the Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 30th January 2023.
 
-## 2. Amendment of the Universal Credit Regulations (Northern Ireland) 2016[^key-f93f642fc81db505d0d5f0bc2808661b]
+## 2. Amendment of the Universal Credit Regulations (Northern Ireland) 2016[^c-f93f642fc81db505d0d5f0bc2808661b]
 
 In paragraph (14) of regulation 97 of the Universal Credit Regulations (Northern Ireland) 2016[^f00004] (circumstances in which requirements must not be imposed)—
 
 - (a) in sub-paragraph (a), for “12 hours” substitute “15 hours”;
 - (b) in sub-paragraph (b), for “19 hours” substitute “24 hours”.
 
-## 3. Consequential amendment – transitional protection[^key-9ebb282a1582b9c94e6a2587ee6e35ef]
+## 3. Consequential amendment – transitional protection[^c-9ebb282a1582b9c94e6a2587ee6e35ef]
 
 For paragraph (3) of regulation 57 of the Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (circumstances in which transitional protection ceases)[^f00005] substitute—
 
@@ -96,12 +96,12 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-c34158a45643728d4473bf17d8ee5b43]: Commencement: Reg. 1 in operation at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/3/regulation/1)
+[^c-c34158a45643728d4473bf17d8ee5b43]: Commencement: Reg. 1 in operation at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/3/regulation/1)
 
-[^key-f93f642fc81db505d0d5f0bc2808661b]: Commencement: Reg. 2 in operation at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/3/regulation/1)
+[^c-f93f642fc81db505d0d5f0bc2808661b]: Commencement: Reg. 2 in operation at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/3/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)
 
-[^key-9ebb282a1582b9c94e6a2587ee6e35ef]: Commencement: Reg. 3 in operation at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/3/regulation/1)
+[^c-9ebb282a1582b9c94e6a2587ee6e35ef]: Commencement: Reg. 3 in operation at 30.1.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/3/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2016 No. 226](https://www.legislation.gov.uk/nisr/2016/226)

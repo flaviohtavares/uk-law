@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Powers of fire and rescue officers in an emergency, etc.[^key-2542d8696c3cc9975676fabf48323c7a]
+## 18. Powers of fire and rescue officers in an emergency, etc.[^c-2542d8696c3cc9975676fabf48323c7a]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2542d8696c3cc9975676fabf48323c7a]: Modification: [Art. 18](https://www.legislation.gov.uk/nisi/2006/1254/article/18) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2013/602/article/18/2)
+[^c-2542d8696c3cc9975676fabf48323c7a]: Modification: [Art. 18](https://www.legislation.gov.uk/nisi/2006/1254/article/18) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2013/602/article/18/2)

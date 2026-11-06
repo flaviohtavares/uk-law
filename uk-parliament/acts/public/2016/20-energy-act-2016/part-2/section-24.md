@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Power of the OGA to acquire information[^key-1a9e2149ebc41a610c21d3d576ca56c4]
+## 24. Power of the OGA to acquire information[^c-1a9e2149ebc41a610c21d3d576ca56c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ subject to subsection (3).
 
 ## Annotations
 
-[^key-1a9e2149ebc41a610c21d3d576ca56c4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/20/section/24) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-1a9e2149ebc41a610c21d3d576ca56c4]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2016/20/section/24) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ac2b089b937cab2527f10ab545ae166d] A person may make a representation to the CAA about an alleged or apprehended contravention of a section 8 duty or a licence condition.
+(1)[^c-ac2b089b937cab2527f10ab545ae166d] A person may make a representation to the CAA about an alleged or apprehended contravention of a section 8 duty or a licence condition.
 
 (2) Where a representation is made to the CAA, the CAA may—
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c14879111]: Commencement: S. 34 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-ac2b089b937cab2527f10ab545ae166d]: Textual amendment: S. 34(1)(2) substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(6)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/6), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)
+[^c-ac2b089b937cab2527f10ab545ae166d]: Textual amendment: S. 34(1)(2) substituted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 10(6)](https://www.legislation.gov.uk/ukpga/2021/12/section/10/6), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/b)

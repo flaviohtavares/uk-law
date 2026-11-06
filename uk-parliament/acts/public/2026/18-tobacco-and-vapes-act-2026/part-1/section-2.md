@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Purchase of tobacco etc on behalf of others[^key-e4071b955ac1aa257c10eee5246a65bd]
+## 2. Purchase of tobacco etc on behalf of others[^c-e4071b955ac1aa257c10eee5246a65bd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4071b955ac1aa257c10eee5246a65bd]: Commencement: S. 2 in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-e4071b955ac1aa257c10eee5246a65bd]: Commencement: S. 2 in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

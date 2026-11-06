@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Appeals against decisions under Part 9[^key-0e9282c62e9c09bd4b0b7c4a49705d78]
+## 54. Appeals against decisions under Part 9[^c-0e9282c62e9c09bd4b0b7c4a49705d78]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ provided that an NHS pharmacist or NHS appliance contractor notifies the Welsh M
 
 ## Annotations
 
-[^key-0e9282c62e9c09bd4b0b7c4a49705d78]: Commencement: Reg. 54 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-0e9282c62e9c09bd4b0b7c4a49705d78]: Commencement: Reg. 54 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

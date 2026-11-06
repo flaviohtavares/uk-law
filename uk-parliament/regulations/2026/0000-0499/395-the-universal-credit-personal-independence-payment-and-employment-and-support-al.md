@@ -49,17 +49,17 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 172(1) of the Social Security Administration Act 1992[^f00003], the Secretary of State has referred the proposals in respect of these Regulations to the Social Security Advisory Committee.
 
-## 1. Citation, commencement and extent[^key-ed365da8b05ae011bebd1def07d816c5]
+## 1. Citation, commencement and extent[^c-ed365da8b05ae011bebd1def07d816c5]
 
 (1) These Regulations may be cited as the Universal Credit, Personal Independence Payment and Employment and Support Allowance (Amendment) Regulations 2026 and come into force on 30th April 2026.
 
-(2) Any *(Extent: E+W)* *(affected by repeal, see note)*[^key-0fc128e7fcce5abe6f1aa19ecee2c6e5] Subject to paragraph (3), any *(Extent: E+W)* amendment made by these Regulations has the same extent as the provision amended.
+(2) Any *(Extent: E+W)* *(affected by repeal, see note)*[^c-0fc128e7fcce5abe6f1aa19ecee2c6e5] Subject to paragraph (3), any *(Extent: E+W)* amendment made by these Regulations has the same extent as the provision amended.
 
 *Extent: E+W*
 
-(3)[^key-ca84e68c1eecd90119c17878e684496c] Regulation 3 extends to England and Wales only.
+(3)[^c-ca84e68c1eecd90119c17878e684496c] Regulation 3 extends to England and Wales only.
 
-## 2. Amendment of the Universal Credit Regulations 2013[^key-711d2ed3f0fdeab4ee69a5522b253d13]
+## 2. Amendment of the Universal Credit Regulations 2013[^c-711d2ed3f0fdeab4ee69a5522b253d13]
 
 In regulation 41 of the Universal Credit Regulations 2013 (when an assessment may be carried out)[^f00004]—
 
@@ -70,7 +70,7 @@ In regulation 41 of the Universal Credit Regulations 2013 (when an assessment ma
 
   .
 
-## 3. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^key-1120b484466e801281da65d5d4c469a0]
+## 3. Amendment of the Social Security (Personal Independence Payment) Regulations 2013[^c-1120b484466e801281da65d5d4c469a0]
 
 In regulation 11 of the Social Security (Personal Independence Payment) Regulations 2013 (re-determination of ability to carry out activities)[^f00005]—
 
@@ -82,7 +82,7 @@ In regulation 11 of the Social Security (Personal Independence Payment) Regulati
 
   .
 
-## 4. Amendment of the Employment and Support Allowance Regulations 2013[^key-dc109995b3014d25d83828a76343fe1f]
+## 4. Amendment of the Employment and Support Allowance Regulations 2013[^c-dc109995b3014d25d83828a76343fe1f]
 
 (1) The Employment and Support Allowance Regulations 2013[^f00006] are amended as follows.
 
@@ -128,20 +128,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-ed365da8b05ae011bebd1def07d816c5]: Commencement: Reg. 1 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+[^c-ed365da8b05ae011bebd1def07d816c5]: Commencement: Reg. 1 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
 
-[^key-0fc128e7fcce5abe6f1aa19ecee2c6e5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/2) substituted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/12/a)
+[^c-0fc128e7fcce5abe6f1aa19ecee2c6e5]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/2) substituted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/12/a)
 
-[^key-ca84e68c1eecd90119c17878e684496c]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/3) inserted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/12/b)
+[^c-ca84e68c1eecd90119c17878e684496c]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/3) inserted (E.W.) (30.10.2026) by [The Social Security (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/1063)](https://www.legislation.gov.uk/uksi/2026/1063), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/1063/regulation/12/b)
 
-[^key-711d2ed3f0fdeab4ee69a5522b253d13]: Commencement: Reg. 2 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+[^c-711d2ed3f0fdeab4ee69a5522b253d13]: Commencement: Reg. 2 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376), to which there are amendments not relevant to these Regulations.
 
-[^key-1120b484466e801281da65d5d4c469a0]: Commencement: Reg. 3 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+[^c-1120b484466e801281da65d5d4c469a0]: Commencement: Reg. 3 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2013/377](https://www.legislation.gov.uk/uksi/2013/377).
 
-[^key-dc109995b3014d25d83828a76343fe1f]: Commencement: Reg. 4 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
+[^c-dc109995b3014d25d83828a76343fe1f]: Commencement: Reg. 4 in force at 30.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/395/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379).

@@ -31,7 +31,7 @@ summary: ''
 
 HIGHER AND FURTHER EDUCATION
 
-The Education (Recognised Bodies) Order (Northern Ireland) 2005 (revoked)[^key-43ac899eff4fc4f8c230a84aa2c365ff]
+The Education (Recognised Bodies) Order (Northern Ireland) 2005 (revoked)[^c-43ac899eff4fc4f8c230a84aa2c365ff]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 22nd December 2005
 
-[^key-43ac899eff4fc4f8c230a84aa2c365ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43ac899eff4fc4f8c230a84aa2c365ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-43ac899eff4fc4f8c230a84aa2c365ff]
+## 1. Citation and commencement[^c-43ac899eff4fc4f8c230a84aa2c365ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Recognised Bodies[^key-43ac899eff4fc4f8c230a84aa2c365ff]
+## 2. Recognised Bodies[^c-43ac899eff4fc4f8c230a84aa2c365ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-43ac899eff4fc4f8c230a84aa2c365ff]
+## 3. Revocations[^c-43ac899eff4fc4f8c230a84aa2c365ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43ac899eff4fc4f8c230a84aa2c365ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43ac899eff4fc4f8c230a84aa2c365ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-43ac899eff4fc4f8c230a84aa2c365ff]
+## SCHEDULE[^c-43ac899eff4fc4f8c230a84aa2c365ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43ac899eff4fc4f8c230a84aa2c365ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43ac899eff4fc4f8c230a84aa2c365ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43ac899eff4fc4f8c230a84aa2c365ff]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/522) revoked (11.8.2018) by [The Education (Recognised Bodies) Order (Northern Ireland) 2018 (S.R. 2018/8)](https://www.legislation.gov.uk/nisr/2018/8), [art. 3](https://www.legislation.gov.uk/nisr/2018/8/article/3)
+[^c-43ac899eff4fc4f8c230a84aa2c365ff]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2005/522) revoked (11.8.2018) by [The Education (Recognised Bodies) Order (Northern Ireland) 2018 (S.R. 2018/8)](https://www.legislation.gov.uk/nisr/2018/8), [art. 3](https://www.legislation.gov.uk/nisr/2018/8/article/3)

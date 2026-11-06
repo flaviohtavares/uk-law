@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Display of information on automatic machines.[^key-f97264dd238d7a08cc317fca65f1b7ab][^c998700]
+## 89. Display of information on automatic machines.[^c-f97264dd238d7a08cc317fca65f1b7ab][^c998700]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f97264dd238d7a08cc317fca65f1b7ab]: Textual amendment: [S. 89](https://www.legislation.gov.uk/ukpga/1968/67/section/89) repealed (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-f97264dd238d7a08cc317fca65f1b7ab]: Textual amendment: [S. 89](https://www.legislation.gov.uk/ukpga/1968/67/section/89) repealed (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c998700]: Modification: Pt. V (ss. 85–91) extended with modifications by [S.I. 1985/1403](https://www.legislation.gov.uk/uksi/1985/1403), [art. 3(1)](https://www.legislation.gov.uk/uksi/1985/1403/article/3/1)

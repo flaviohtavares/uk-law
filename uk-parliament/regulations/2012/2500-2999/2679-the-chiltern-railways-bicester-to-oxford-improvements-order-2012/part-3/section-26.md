@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Power to acquire airspace only[^key-4a84c8d3db71833152d718ff429e8a15]
+## 26. Power to acquire airspace only[^c-4a84c8d3db71833152d718ff429e8a15]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a84c8d3db71833152d718ff429e8a15]: Commencement: Art. 26 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-4a84c8d3db71833152d718ff429e8a15]: Commencement: Art. 26 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

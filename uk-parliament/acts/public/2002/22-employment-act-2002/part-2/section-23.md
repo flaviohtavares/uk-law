@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Employment Appeal Tribunal[^key-e931faada9688423d384a737fe726839]
+## 23. Employment Appeal Tribunal[^c-e931faada9688423d384a737fe726839]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ For section 34 of the Employment Tribunals Act 1996 (c. 17) (costs and expenses)
 
 ## Annotations
 
-[^key-e931faada9688423d384a737fe726839]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2002/22/section/23) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)
+[^c-e931faada9688423d384a737fe726839]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2002/22/section/23) in force at 9.7.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/1)

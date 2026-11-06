@@ -22,14 +22,14 @@ summary: ''
 
 Article 13
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-a3467fb9806f854e19ae65c29e93a4a4]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-a3467fb9806f854e19ae65c29e93a4a4]
 
 | *(1)* *Area* | *(2)* *Street to be stopped up* | *(3)* *Extent of stopping up* | *(4)* *New street to be substituted* |
 | --- | --- | --- | --- |
 | Kingston Upon Hull | Spruce Road | From point 3/K to point 3/L on Streets, Rights of Way and Access Plans Sheet 3 | From point 3/5 to point 3/6 on Streets, Rights of Way and Access Plans Sheet 3 |
 | Kingston Upon Hull | Private means of access | From point 5/I to point 5/J on Streets, Rights of Way and Access Plans Sheet 5 | From point 5/17 to point 5/18 on Streets, Rights of Way and Access Plans Sheet 5 |
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-b52f8672fe5d1f54a0b844973a695ea8]
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-b52f8672fe5d1f54a0b844973a695ea8]
 
 | *(1)* *Area* | *(2)* *Street to be stopped up* | *(3)* *Extent of stopping up* |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Article 13
 | Kingston Upon Hull | Fish Street | From point 5/G to point 5/H on Streets, Rights of Way and Access Plans Sheet 5 |
 | Kingston Upon Hull | Vicar Lane | From point 5/K to point 5/L on Streets, Rights of Way and Access Plans Sheet 5 |
 
-### PART 3 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-f00a6cd506b829eb8160daa32c4f5b8c]
+### PART 3 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-f00a6cd506b829eb8160daa32c4f5b8c]
 
 | *(1)* *Public right of way to be stopped up* | *(2)* *Extent of stopping up* | *(3)* *New street to be substituted* |
 | --- | --- | --- |
@@ -93,7 +93,7 @@ Article 13
 | Controlled crossing removed | From point 5/29 to point 5/39 on Non-Motorised User Route Plans Sheet 5. | From point 5/30 to points 5/36, 5/37 and 5/39 on Non-Motorised User Route Plans Sheet 5. |
 | Controlled crossing removed | From point 5/32 to point 5/47 on Non-Motorised User Route Plans Sheet 5. | From point 5/33 to points 5/34, 5/44 and 5/46 on Non-Motorised User Route Plans Sheet 5. |
 
-### PART 4 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-ffc617e7162848be88a38a15557c66dd]
+### PART 4 — PUBLIC RIGHTS OF WAY TO BE STOPPED UP AND FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-ffc617e7162848be88a38a15557c66dd]
 
 | *(1)* *Public right of way to be stopped up* | *(2)* *Extent of stopping up* |
 | --- | --- |
@@ -107,10 +107,10 @@ Article 13
 
 ## Annotations
 
-[^key-a3467fb9806f854e19ae65c29e93a4a4]: Commencement: Sch. 4 Pt. 1 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-a3467fb9806f854e19ae65c29e93a4a4]: Commencement: Sch. 4 Pt. 1 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-b52f8672fe5d1f54a0b844973a695ea8]: Commencement: Sch. 4 Pt. 2 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-b52f8672fe5d1f54a0b844973a695ea8]: Commencement: Sch. 4 Pt. 2 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-f00a6cd506b829eb8160daa32c4f5b8c]: Commencement: Sch. 4 Pt. 3 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-f00a6cd506b829eb8160daa32c4f5b8c]: Commencement: Sch. 4 Pt. 3 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
-[^key-ffc617e7162848be88a38a15557c66dd]: Commencement: Sch. 4 Pt. 4 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-ffc617e7162848be88a38a15557c66dd]: Commencement: Sch. 4 Pt. 4 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

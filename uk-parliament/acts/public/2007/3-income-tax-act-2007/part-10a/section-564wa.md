@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 564WA. Diminishing shared ownership arrangements: further provision in respect of refinancing[^key-4266c9568c0a30ae92a2d70557ee4fce]
+## 564WA. Diminishing shared ownership arrangements: further provision in respect of refinancing[^c-4266c9568c0a30ae92a2d70557ee4fce]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the disposal of the asset mentioned in paragraph (a) and the acquisition of the 
 
 ## Annotations
 
-[^key-4266c9568c0a30ae92a2d70557ee4fce]: Textual amendment: [S. 564WA](https://www.legislation.gov.uk/ukpga/2007/3/section/564WA) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 1(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/1/7), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)
+[^c-4266c9568c0a30ae92a2d70557ee4fce]: Textual amendment: [S. 564WA](https://www.legislation.gov.uk/ukpga/2007/3/section/564WA) inserted (with effect in accordance with Sch. 7 para. 4 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 7 paras. 1(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/1/7), [4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/7/paragraph/4)

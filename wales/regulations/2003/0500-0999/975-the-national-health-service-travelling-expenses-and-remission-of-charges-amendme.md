@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Travelling Expenses and Remission of Charges) (Amendment) (Wales) Regulations 2003 (revoked)[^key-3c376616e1bcc7b1718a1a9777688d58]
+The National Health Service (Travelling Expenses and Remission of Charges) (Amendment) (Wales) Regulations 2003 (revoked)[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 Made
 
@@ -47,72 +47,72 @@ regulation 12
 
 7th April 2003
 
-[^key-3c376616e1bcc7b1718a1a9777688d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c376616e1bcc7b1718a1a9777688d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 1. Citation, commencement, interpretation and application[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3 of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 3. Amendment of regulation 3 of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of regulation 3A into the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 4. Insertion of regulation 3A into the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 4 of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 5. Amendment of regulation 4 of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 5A of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 6. Amendment of regulation 5A of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 7 of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 7. Amendment of regulation 7 of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Insertion of regulation 7A into the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 8. Insertion of regulation 7A into the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Insertion of regulation 7B in to the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 9. Insertion of regulation 7B in to the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 8 of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 10. Amendment of regulation 8 of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 8A of the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 11. Amendment of regulation 8A of the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 1 to the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 12. Amendment of Schedule 1 to the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Schedule 1A to the principal Regulations[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 13. Amendment of Schedule 1A to the principal Regulations[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Transitional Provision[^key-3c376616e1bcc7b1718a1a9777688d58]
+## 14. Transitional Provision[^c-3c376616e1bcc7b1718a1a9777688d58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3c376616e1bcc7b1718a1a9777688d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c376616e1bcc7b1718a1a9777688d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3c376616e1bcc7b1718a1a9777688d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3c376616e1bcc7b1718a1a9777688d58]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3c376616e1bcc7b1718a1a9777688d58]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/975) revoked (1.4.2007) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (S.I. 2007/1104)](https://www.legislation.gov.uk/wsi/2007/1104), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/1104/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2007/1104/regulation/18), [Sch. 2](https://www.legislation.gov.uk/wsi/2007/1104/schedule/2)
+[^c-3c376616e1bcc7b1718a1a9777688d58]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2003/975) revoked (1.4.2007) by [The National Health Service (Travelling Expenses and Remission of Charges) (Wales) Regulations 2007 (S.I. 2007/1104)](https://www.legislation.gov.uk/wsi/2007/1104), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2007/1104/regulation/1/1), [18](https://www.legislation.gov.uk/wsi/2007/1104/regulation/18), [Sch. 2](https://www.legislation.gov.uk/wsi/2007/1104/schedule/2)

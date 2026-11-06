@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Powers of parish councils[^key-2fc3f80475f219402108fedcec9b4729]
+## 82. Powers of parish councils[^c-2fc3f80475f219402108fedcec9b4729]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ After section 19 of the Local Government Act 1894 (provisions as to small parish
 
 ## Annotations
 
-[^key-2fc3f80475f219402108fedcec9b4729]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/55/section/82) in force at 26.12.2023, see [s. 255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s)
+[^c-2fc3f80475f219402108fedcec9b4729]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2023/55/section/82) in force at 26.12.2023, see [s. 255(2)(s)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/s)

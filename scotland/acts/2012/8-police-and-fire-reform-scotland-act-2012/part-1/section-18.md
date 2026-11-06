@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Delegation of chief constable's functions[^key-226c6e6d39347f73d2579a37ce790079]
+## 18. Delegation of chief constable's functions[^c-226c6e6d39347f73d2579a37ce790079]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-226c6e6d39347f73d2579a37ce790079]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2012/8/section/18) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-226c6e6d39347f73d2579a37ce790079]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2012/8/section/18) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

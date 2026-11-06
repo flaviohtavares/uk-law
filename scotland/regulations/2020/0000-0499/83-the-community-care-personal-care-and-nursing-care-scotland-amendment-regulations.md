@@ -32,7 +32,7 @@ summary: ''
 
 Social Care
 
-The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2020 (revoked)[^key-c2758d95ab47e8bd36cea65905a4caba]
+The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2020 (revoked)[^c-c2758d95ab47e8bd36cea65905a4caba]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st April 2020
 
-[^key-c2758d95ab47e8bd36cea65905a4caba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2758d95ab47e8bd36cea65905a4caba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c2758d95ab47e8bd36cea65905a4caba]
+## 1. Citation and commencement[^c-c2758d95ab47e8bd36cea65905a4caba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002[^key-c2758d95ab47e8bd36cea65905a4caba]
+## 2. Amendment of the Community Care (Personal Care and Nursing Care) (Scotland) Regulations 2002[^c-c2758d95ab47e8bd36cea65905a4caba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c2758d95ab47e8bd36cea65905a4caba]
+## 3. Revocation[^c-c2758d95ab47e8bd36cea65905a4caba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2758d95ab47e8bd36cea65905a4caba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2758d95ab47e8bd36cea65905a4caba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c2758d95ab47e8bd36cea65905a4caba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2758d95ab47e8bd36cea65905a4caba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2758d95ab47e8bd36cea65905a4caba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2020/83) revoked (1.4.2021) by [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/135)](https://www.legislation.gov.uk/ssi/2021/135), [regs. 1](https://www.legislation.gov.uk/ssi/2021/135/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/135/regulation/3)
+[^c-c2758d95ab47e8bd36cea65905a4caba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2020/83) revoked (1.4.2021) by [The Community Care (Personal Care and Nursing Care) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/135)](https://www.legislation.gov.uk/ssi/2021/135), [regs. 1](https://www.legislation.gov.uk/ssi/2021/135/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/135/regulation/3)

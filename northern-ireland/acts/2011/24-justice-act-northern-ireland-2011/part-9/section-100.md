@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Witness summons in magistrates' court[^key-1fcd53c9632c54677248a61a9186a657]
+## 100. Witness summons in magistrates' court[^c-1fcd53c9632c54677248a61a9186a657]
 
 *Extent: N.I.*
 
@@ -190,4 +190,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fcd53c9632c54677248a61a9186a657]: Commencement: [S. 100](https://www.legislation.gov.uk/nia/2011/24/section/100) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(f)](https://www.legislation.gov.uk/nisr/2011/370/article/3/f)
+[^c-1fcd53c9632c54677248a61a9186a657]: Commencement: [S. 100](https://www.legislation.gov.uk/nia/2011/24/section/100) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(f)](https://www.legislation.gov.uk/nisr/2011/370/article/3/f)

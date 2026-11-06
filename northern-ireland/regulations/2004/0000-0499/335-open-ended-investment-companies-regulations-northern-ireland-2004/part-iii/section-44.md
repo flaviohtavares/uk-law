@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Invalidity of certain transactions involving directors[^key-391514ffaab0740e1b337357beb44938]
+## 44. Invalidity of certain transactions involving directors[^c-391514ffaab0740e1b337357beb44938]
 
 *Extent: N.I.*
 
@@ -49,10 +49,10 @@ summary: ''
 
 - (a) “associate”, in relation to any person who is a director of the company, means that person’s spouse, child or stepchild (if under 18), employee, partner or any body corporate of which that person is a director; and if that person is a body corporate, any subsidiary undertaking or director of that body corporate (including any director or employee of such subsidiary undertaking);
 - (b) transaction includes any act; and
-- (c) the reference in paragraph (1)(b) to any limitation on directors' powers under the company’s constitution includes any limitation deriving from these Regulations, from FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f] or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
+- (c) the reference in paragraph (1)(b) to any limitation on directors' powers under the company’s constitution includes any limitation deriving from these Regulations, from FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f] or from a resolution of the company in general meeting or of a meeting of any class of shareholders.
 
 ## Annotations
 
-[^key-391514ffaab0740e1b337357beb44938]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2004/335/regulation/44) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-391514ffaab0740e1b337357beb44938]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2004/335/regulation/44) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

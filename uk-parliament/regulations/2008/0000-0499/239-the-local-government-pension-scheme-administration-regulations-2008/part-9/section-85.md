@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Community scheme transferees[^key-8c92e1504c725fda20be0bcb8568e88f]
+## 85. Community scheme transferees[^c-8c92e1504c725fda20be0bcb8568e88f]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c92e1504c725fda20be0bcb8568e88f]: Commencement: Reg. 85 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-8c92e1504c725fda20be0bcb8568e88f]: Commencement: Reg. 85 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

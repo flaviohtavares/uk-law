@@ -25,10 +25,10 @@ summary: ''
 - (a) the trustees receive a sum of money which constitutes (or forms part of) a capital receipt which, by virtue of the SIP code, counts as employment income of a participant when it is received by the participant, and
 - (b) either condition A or B is met.
 
-(2) Condition A is that an officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] —
+(2) Condition A is that an officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] —
 
-- (a) is[^key-73828e7223c10a2aadf74cb86a0ee1cb] of the opinion that it is impracticable for the employer company (within the meaning of section 513) to make a PAYE deduction, and
-- (b) accordingly directs[^key-c77200d736cd419a5149a11e46102353] that this section is to apply.
+- (a) is[^c-73828e7223c10a2aadf74cb86a0ee1cb] of the opinion that it is impracticable for the employer company (within the meaning of section 513) to make a PAYE deduction, and
+- (b) accordingly directs[^c-c77200d736cd419a5149a11e46102353] that this section is to apply.
 
 (3) Condition B is that there is no company that qualifies as the employer company (within the meaning of that section).
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-73828e7223c10a2aadf74cb86a0ee1cb]: Textual amendment: Word in s. 514(2)(a) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 115(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/115/a); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-73828e7223c10a2aadf74cb86a0ee1cb]: Textual amendment: Word in s. 514(2)(a) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 115(a)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/115/a); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-c77200d736cd419a5149a11e46102353]: Textual amendment: Word in s. 514(2)(b) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 115(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/115/b); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-c77200d736cd419a5149a11e46102353]: Textual amendment: Word in s. 514(2)(b) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 115(b)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/115/b); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

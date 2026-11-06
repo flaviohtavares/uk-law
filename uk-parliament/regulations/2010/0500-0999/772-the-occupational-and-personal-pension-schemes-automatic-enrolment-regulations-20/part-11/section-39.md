@@ -39,7 +39,7 @@ may certify that a scheme satisfies the test scheme standard.
   - (ii) death benefits;
   - (iii) discretionary benefits (apart from those arising from discretionary pre-retirement revaluation made in the case of schemes providing for average salary benefits);
   - (iv) survivors' benefits;
-  - (v) money purchase benefits [^key-244004657b09b3a2a28e77d431e8dedc]...;
+  - (v) money purchase benefits [^c-244004657b09b3a2a28e77d431e8dedc]...;
   - (vi) benefits in respect of any person who is not a jobholder for the purposes of the Act;
   - (vii) benefits in respect of any jobholder whose annual rate of benefit accrual under the scheme has been reduced below the rate specified in section 23(4)(a) of the Act, where the reduction is made as a result of a request made by the jobholder in question in accordance with scheme rules; or
   - (viii) benefits in respect of any jobholder who has given notice under section 8 (jobholder's right to opt out) of the Act.
@@ -55,7 +55,7 @@ a scheme actuary or employer must follow any guidance issued by the Secretary of
 
 (7) “**Scheme actuary**” has the meaning given in section 22(7) of the Act except—
 
-- (a)[^key-543ccb225e77a0f8ea5c8814a75f21db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-543ccb225e77a0f8ea5c8814a75f21db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) where the scheme is a defined benefits or hybrid scheme within section 18(c) of the Act and there is an actuary appointed to the scheme who satisfies the requirements of regulations made under section 47(5) (professional advisers) of the 1995 Act [^c2019380]; or
 - (c) in any other circumstances where, by virtue of regulations made under section 47 of the 1995 Act [^c2019381], the scheme is not required to appoint a scheme actuary.
 
@@ -65,9 +65,9 @@ a scheme actuary or employer must follow any guidance issued by the Secretary of
 
 ## Annotations
 
-[^key-244004657b09b3a2a28e77d431e8dedc]: Textual amendment: Words in reg. 39(4)(b)(v) omitted (1.7.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [34](https://www.legislation.gov.uk/uksi/2012/215/regulation/34)
+[^c-244004657b09b3a2a28e77d431e8dedc]: Textual amendment: Words in reg. 39(4)(b)(v) omitted (1.7.2012) by virtue of [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [34](https://www.legislation.gov.uk/uksi/2012/215/regulation/34)
 
-[^key-543ccb225e77a0f8ea5c8814a75f21db]: Textual amendment: [Reg. 39(7)(a)](https://www.legislation.gov.uk/uksi/2010/772/regulation/39/7/a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [33(5)](https://www.legislation.gov.uk/uksi/2019/192/regulation/33/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-543ccb225e77a0f8ea5c8814a75f21db]: Textual amendment: [Reg. 39(7)(a)](https://www.legislation.gov.uk/uksi/2010/772/regulation/39/7/a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [33(5)](https://www.legislation.gov.uk/uksi/2019/192/regulation/33/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2019380]: Marginal citation: [See the Occupational Pension Schemes (Scheme Administration) Regulations 1996 (S.I. 1996/1715)](https://www.legislation.gov.uk/uksi/1996/1715).
 

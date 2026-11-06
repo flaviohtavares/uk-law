@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Temporary use of land for carrying out the authorised project[^key-e15d6a6e290a2829b4d58ab957126d6a]
+## 26. Temporary use of land for carrying out the authorised project[^c-e15d6a6e290a2829b4d58ab957126d6a]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e15d6a6e290a2829b4d58ab957126d6a]: Commencement: Art. 26 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-e15d6a6e290a2829b4d58ab957126d6a]: Commencement: Art. 26 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

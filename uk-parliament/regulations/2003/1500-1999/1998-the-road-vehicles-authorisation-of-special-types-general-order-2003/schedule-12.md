@@ -24,7 +24,7 @@ Article 56
 
 ### Defined terms
 
-**1.**[^key-aeca3b4bd1fef2434e426b988fa8ba1d] In this Schedule—
+**1.**[^c-aeca3b4bd1fef2434e426b988fa8ba1d] In this Schedule—
 
 - “an accredited testing laboratory” means a testing laboratory which has been accredited by the United Kingdom Accreditation Service or by an equivalent body in another EEA State under European Standard EN 45001 : 1989 for general criteria for the operation of testing laboratories (British Standard BS 7501 : 1989);
 - “articulating connector” means a connector bridging the space between two separate and rigid vehicle structures;
@@ -52,13 +52,13 @@ Article 56
 
 ### Gas containers
 
-**2.**[^key-2a58c0ce94d12e7c124aff17a6cfa169] (1) This paragraph applies to any container for gas which is fitted to a motor vehicle or a trailer and which is intended for the storage of natural gas for the purpose of the propulsion of the vehicle or of the towing vehicle, as the case may be.
+**2.**[^c-2a58c0ce94d12e7c124aff17a6cfa169] (1) This paragraph applies to any container for gas which is fitted to a motor vehicle or a trailer and which is intended for the storage of natural gas for the purpose of the propulsion of the vehicle or of the towing vehicle, as the case may be.
 
 (2) Before its first use on a vehicle, every gas container must be pressure tested by an accredited testing laboratory at a pressure of 1.5 times the working pressure of the gas container.
 
 (3) The pressure test must be carried out in accordance with the procedure set out in paragraph 4.7 of BS 5430 : Part I : 1990 or, where an equivalent procedure has been specified by the manufacturer, in accordance with that procedure.
 
-**3.**[^key-c936697e7123a10e3aff883eab1a6e4e] (1) The owner of any vehicle (or, if it is in the possession of a different person, that person) must ensure that any gas container used on that vehicle is subject to a periodic test by an accredited testing laboratory every three years, or with such greater frequency as the manufacturer specifies.
+**3.**[^c-c936697e7123a10e3aff883eab1a6e4e] (1) The owner of any vehicle (or, if it is in the possession of a different person, that person) must ensure that any gas container used on that vehicle is subject to a periodic test by an accredited testing laboratory every three years, or with such greater frequency as the manufacturer specifies.
 
 (2) The periodic test must include—
 
@@ -67,7 +67,7 @@ Article 56
 
 (3) Nothing in sub-paragraph (1) affects the obligation imposed by regulation 100 of the Construction and Use Regulations.
 
-**4.**[^key-10fbb00128e6785c6e659d5bad8b69cb] (1) A gas container must—
+**4.**[^c-10fbb00128e6785c6e659d5bad8b69cb] (1) A gas container must—
 
 - (a) be suitable to be fitted to the vehicle to which it is fitted and be constructed from suitable materials;
 - (b) be capable of containing natural gas operating at a working pressure of 200 bar settled at 15°C with a maximum filling pressure of 260 bar;
@@ -119,7 +119,7 @@ Article 56
 
 ### Gas container isolation
 
-**5.**[^key-a2cbc3b7bf62e471132a908413f2b2e3] (1) Any gas container must be capable of being isolated from its supply pipework by means of an isolation valve connected directly to each gas container but not between the gas container and its pressure relief device.
+**5.**[^c-a2cbc3b7bf62e471132a908413f2b2e3] (1) Any gas container must be capable of being isolated from its supply pipework by means of an isolation valve connected directly to each gas container but not between the gas container and its pressure relief device.
 
 (2) Any isolation valve must be capable of shutting off all the gas flow from the gas container, except through the pressure relief device.
 
@@ -133,7 +133,7 @@ Article 56
 
 ### Pressure relief devices
 
-**6.**[^key-40221840e5e759673a3138440f3326d3] (1) Every gas container must be provided with a suitable pressure relief device that complies with sub-paragraphs (3) to (7).
+**6.**[^c-40221840e5e759673a3138440f3326d3] (1) Every gas container must be provided with a suitable pressure relief device that complies with sub-paragraphs (3) to (7).
 
 (2) Where a pressure regulator is fitted to a gas container, any pressure relief device attached to it must comply with sub-paragraphs (3) to (7).
 
@@ -163,7 +163,7 @@ Article 56
 
 ### Pipelines
 
-**7.**[^key-4521da83615eb744e0222dded6406c3c] (1) Every pipeline must be fixed in such a manner and position that—
+**7.**[^c-4521da83615eb744e0222dded6406c3c] (1) Every pipeline must be fixed in such a manner and position that—
 
 - (a) it will not be adversely affected by the heat of the exhaust system of any engine or by any other source of heat;
 - (b) it is protected from vibration and strain in excess of that which it can reasonably be expected to withstand;
@@ -184,7 +184,7 @@ Article 56
 
 ### Unions and joints
 
-**8.**[^key-6bb73a157490f2567bef76088692a61d] (1) Every union and joint on a pipeline or gas container must be constructed and fitted so that it will—
+**8.**[^c-6bb73a157490f2567bef76088692a61d] (1) Every union and joint on a pipeline or gas container must be constructed and fitted so that it will—
 
 - (a) not be liable to work loose or leak when in use; and
 - (b) be readily accessible for inspection and maintenance.
@@ -193,7 +193,7 @@ Article 56
 
 ### Filling connectors
 
-**9.**[^key-8cdbf92765fdb7f0aa6c683b1f243d62] (1) Any filling connector for the refuelling of the vehicle must be of a type which is used exclusively for natural gas filling and which is compatible with the filling nozzle without the use of an adapter fitting.
+**9.**[^c-8cdbf92765fdb7f0aa6c683b1f243d62] (1) Any filling connector for the refuelling of the vehicle must be of a type which is used exclusively for natural gas filling and which is compatible with the filling nozzle without the use of an adapter fitting.
 
 (2) Gas must be prevented from flowing back from the gas container to the filling connector.
 
@@ -205,7 +205,7 @@ Article 56
 
 ### Valves, safety devices and control equipment
 
-**10.**[^key-b65aeb208a7e33e07e923cf1c3603046] (1) Every gas propulsion system must be so designed and constructed that—
+**10.**[^c-b65aeb208a7e33e07e923cf1c3603046] (1) Every gas propulsion system must be so designed and constructed that—
 
 - (a) the supply of gas to the engine is stopped by an automatic valve when—
   - (i) the engine is not running at all;
@@ -234,7 +234,7 @@ Article 56
 
 ### Regulators
 
-**11.**[^key-98e4d0f9b1712603b0344e7e78783b91] (1) Any regulator fitted must be designed so that—
+**11.**[^c-98e4d0f9b1712603b0344e7e78783b91] (1) Any regulator fitted must be designed so that—
 
 - (a) it has a pre-set pressure and flow rating suitable for the part of the system to which it is attached;
 - (b) it incorporates a means of protecting the system downstream of the regulator from the upstream pressure in the event of failure of or leakage from the regulator;
@@ -263,14 +263,14 @@ Article 56
 
 ### Special requirements for buses
 
-**12.**[^key-a9a90b5c03320cd460eb95199452ecff] In the case of a large bus there must be fitted as near as practicable to the gas container a valve that stops the flow of gas into the gas supply pipeline in the event of—
+**12.**[^c-a9a90b5c03320cd460eb95199452ecff] In the case of a large bus there must be fitted as near as practicable to the gas container a valve that stops the flow of gas into the gas supply pipeline in the event of—
 
 - (a) the angle of tilt of the vehicle exceeding that mentioned in regulation 6 of the Public Service Vehicles (Conditions of Fitness, Equipment, Use and Certification) Regulations 1981[^f00036]; or
 - (b) the deceleration of the vehicle exceeding 5g.
 
 ### Connections for articulated vehicles
 
-**13.**[^key-0f5e6083000ffa31ac6494adf3986ac0] (1) Where a trailer is used for the carriage of any part of the gas supply system—
+**13.**[^c-0f5e6083000ffa31ac6494adf3986ac0] (1) Where a trailer is used for the carriage of any part of the gas supply system—
 
 - (a) an articulating connector complying with sub-paragraphs (2) to (8) must be fitted between the part of the system on the vehicle and the part of the system on the trailer, and
 - (b) the articulating connector must not be subjected to more than medium pressure.
@@ -295,7 +295,7 @@ Article 56
 
 ### Marking and labelling of the vehicle
 
-**14.**[^key-26823a7f848cfb4b862e77dc2b69c640] (1) Every vehicle which is equipped to be fuelled by natural gas must be fitted with a metal identification plate, located in a readily visible and accessible position, which is marked clearly and permanently to identify—
+**14.**[^c-26823a7f848cfb4b862e77dc2b69c640] (1) Every vehicle which is equipped to be fuelled by natural gas must be fitted with a metal identification plate, located in a readily visible and accessible position, which is marked clearly and permanently to identify—
 
 - (a) that the vehicle has been constructed or adapted to run on natural gas; and
 - (b) the maximum system filling pressure.
@@ -306,7 +306,7 @@ This information is in addition to the information required by paragraph 4(1)(f)
 
 ### General requirements
 
-**15.**[^key-22b3c3d19cd81f9503f9eda3e519917d] Every part of the gas system must—
+**15.**[^c-22b3c3d19cd81f9503f9eda3e519917d] Every part of the gas system must—
 
 - (a) so far as is practicable, be so located and protected as not to be exposed to accidental damage;
 - (b) be soundly and properly constructed of materials which are compatible with one another and with the gas used or likely to be used and which are capable of withstanding the loads or stresses likely to be met in operation; and
@@ -314,34 +314,34 @@ This information is in addition to the information required by paragraph 4(1)(f)
 
 ## Annotations
 
-[^key-aeca3b4bd1fef2434e426b988fa8ba1d]: Commencement: Sch. 12 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-aeca3b4bd1fef2434e426b988fa8ba1d]: Commencement: Sch. 12 para. 1 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-2a58c0ce94d12e7c124aff17a6cfa169]: Commencement: Sch. 12 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-2a58c0ce94d12e7c124aff17a6cfa169]: Commencement: Sch. 12 para. 2 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-c936697e7123a10e3aff883eab1a6e4e]: Commencement: Sch. 12 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-c936697e7123a10e3aff883eab1a6e4e]: Commencement: Sch. 12 para. 3 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-10fbb00128e6785c6e659d5bad8b69cb]: Commencement: Sch. 12 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-10fbb00128e6785c6e659d5bad8b69cb]: Commencement: Sch. 12 para. 4 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-a2cbc3b7bf62e471132a908413f2b2e3]: Commencement: Sch. 12 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-a2cbc3b7bf62e471132a908413f2b2e3]: Commencement: Sch. 12 para. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-40221840e5e759673a3138440f3326d3]: Commencement: Sch. 12 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-40221840e5e759673a3138440f3326d3]: Commencement: Sch. 12 para. 6 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-4521da83615eb744e0222dded6406c3c]: Commencement: Sch. 12 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-4521da83615eb744e0222dded6406c3c]: Commencement: Sch. 12 para. 7 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-6bb73a157490f2567bef76088692a61d]: Commencement: Sch. 12 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-6bb73a157490f2567bef76088692a61d]: Commencement: Sch. 12 para. 8 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-8cdbf92765fdb7f0aa6c683b1f243d62]: Commencement: Sch. 12 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-8cdbf92765fdb7f0aa6c683b1f243d62]: Commencement: Sch. 12 para. 9 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-b65aeb208a7e33e07e923cf1c3603046]: Commencement: Sch. 12 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-b65aeb208a7e33e07e923cf1c3603046]: Commencement: Sch. 12 para. 10 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-98e4d0f9b1712603b0344e7e78783b91]: Commencement: Sch. 12 para. 11 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-98e4d0f9b1712603b0344e7e78783b91]: Commencement: Sch. 12 para. 11 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-a9a90b5c03320cd460eb95199452ecff]: Commencement: Sch. 12 para. 12 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-a9a90b5c03320cd460eb95199452ecff]: Commencement: Sch. 12 para. 12 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
 [^f00036]: Footnote: S.I. [1981/257](https://www.legislation.gov.uk/uksi/1981/257); a relevant amending instrument is S.I. [1982/1058](https://www.legislation.gov.uk/uksi/1982/1058).
 
-[^key-0f5e6083000ffa31ac6494adf3986ac0]: Commencement: Sch. 12 para. 13 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-0f5e6083000ffa31ac6494adf3986ac0]: Commencement: Sch. 12 para. 13 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-26823a7f848cfb4b862e77dc2b69c640]: Commencement: Sch. 12 para. 14 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-26823a7f848cfb4b862e77dc2b69c640]: Commencement: Sch. 12 para. 14 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
 
-[^key-22b3c3d19cd81f9503f9eda3e519917d]: Commencement: Sch. 12 para. 15 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-22b3c3d19cd81f9503f9eda3e519917d]: Commencement: Sch. 12 para. 15 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

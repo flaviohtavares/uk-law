@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Dwellings[^key-c39310d790db0053140cde4efe192223]
+## 137. Dwellings[^c-c39310d790db0053140cde4efe192223]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c39310d790db0053140cde4efe192223]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2010/5/section/137) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-c39310d790db0053140cde4efe192223]: Commencement: [S. 137](https://www.legislation.gov.uk/asp/2010/5/section/137) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

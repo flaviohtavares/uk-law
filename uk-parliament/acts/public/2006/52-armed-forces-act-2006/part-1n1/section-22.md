@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Ill-treatment of subordinates[^key-d84aa34c69fd96ce4b5cd2a033bca62b][^key-8fd5c2b2e4ee778db1914b1000fe6b57][^key-1fc596a773717f682d685c41d6ef1915]
+## 22. Ill-treatment of subordinates[^c-d84aa34c69fd96ce4b5cd2a033bca62b][^c-8fd5c2b2e4ee778db1914b1000fe6b57][^c-1fc596a773717f682d685c41d6ef1915]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d84aa34c69fd96ce4b5cd2a033bca62b]: Commencement: S. 22 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d84aa34c69fd96ce4b5cd2a033bca62b]: Commencement: S. 22 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-8fd5c2b2e4ee778db1914b1000fe6b57]: Commencement: S. 22 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8fd5c2b2e4ee778db1914b1000fe6b57]: Commencement: S. 22 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-1fc596a773717f682d685c41d6ef1915]: Modification: S. 22 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/826/regulation/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-1fc596a773717f682d685c41d6ef1915]: Modification: S. 22 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/826/regulation/4) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))

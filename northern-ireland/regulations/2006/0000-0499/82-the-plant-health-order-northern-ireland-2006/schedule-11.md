@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 11 — Form of phytosanitary certificate and form of phytosanitary certificate for re-export permitted by Article 15(1)[^key-d1582697420cbc312935f90ee9f87c1d]
+## SCHEDULE 11 — Form of phytosanitary certificate and form of phytosanitary certificate for re-export permitted by Article 15(1)[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Article 15(1)
 
-### PART A — Form of phytosanitary certificate[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART A — Form of phytosanitary certificate[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Form of phytosanitary certificate for re-export[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART B — Form of phytosanitary certificate for re-export[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

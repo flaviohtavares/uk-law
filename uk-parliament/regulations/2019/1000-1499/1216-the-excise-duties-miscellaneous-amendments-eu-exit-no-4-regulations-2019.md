@@ -52,7 +52,7 @@ The Treasury and the Commissioners for Her Majesty's Revenue and Customs conside
 
 ## PART 1 — Introductory provision
 
-### 1. Citation and commencement[^key-9eedf82ab7c70f36ef555effa458e6c7]
+### 1. Citation and commencement[^c-9eedf82ab7c70f36ef555effa458e6c7]
 
 (1) These Regulations may be cited as the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 4) Regulations 2019.
 
@@ -64,13 +64,13 @@ The Treasury and the Commissioners for Her Majesty's Revenue and Customs conside
 
 **Not yet in force.**
 
-### 2. Suspension of the effect of the Tobacco Products (Traceability and Security Features) Regulations 2019[^key-a311f7022c301c0f37d4a93ec4bfe8db]
+### 2. Suspension of the effect of the Tobacco Products (Traceability and Security Features) Regulations 2019[^c-a311f7022c301c0f37d4a93ec4bfe8db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Modifications of retained direct EU legislation
 
-### 3. Modifications of retained direct EU legislation[^key-7f38f667d00c6d4e16806fb776e06ca4]
+### 3. Modifications of retained direct EU legislation[^c-7f38f667d00c6d4e16806fb776e06ca4]
 
 (1) In Council Implementing Decision (EU) 2015/356 of 2 March 2015 authorising the United Kingdom to apply differentiated levels of taxation to motor fuels in certain geographical areas, in accordance with Article 19 of Directive [2003/96/EC](https://www.legislation.gov.uk/eudr/2003/96), treat—
 
@@ -83,7 +83,7 @@ The Treasury and the Commissioners for Her Majesty's Revenue and Customs conside
 
 ## PART 4 — Amendments to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010 etc.
 
-### 4. Amendments to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^key-2f7d65d5c7ecb41ec225f10b10454588]
+### 4. Amendments to the Excise Goods (Holding, Movement and Duty Point) Regulations 2010[^c-2f7d65d5c7ecb41ec225f10b10454588]
 
 (1) The Excise Goods (Holding, Movement and Duty Point) Regulations 2010 [^c23839591] are amended as follows.
 
@@ -91,7 +91,7 @@ The Treasury and the Commissioners for Her Majesty's Revenue and Customs conside
 
 (3) In regulation 30(1) for “their release for free circulation”, substitute “ a declaration for the free-circulation procedure or an authorised use procedure being accepted ”.
 
-### 5. Amendments to the Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019[^key-149002ff9593d4f027fc23333d3a75b1]
+### 5. Amendments to the Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019[^c-149002ff9593d4f027fc23333d3a75b1]
 
 (1) The Excise Goods (Holding, Movement and Duty Point) (Amendment etc.) (EU Exit) Regulations 2019 [^c23839621] are amended as follows.
 
@@ -139,21 +139,21 @@ The Treasury and the Commissioners for Her Majesty's Revenue and Customs conside
 
 .
 
-### 6. Amendment to the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019[^key-1d1643ddb95de0b73d473cfbbf5cb3bf]
+### 6. Amendment to the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019[^c-1d1643ddb95de0b73d473cfbbf5cb3bf]
 
 Omit regulation 7 of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019 [^c23839631].
 
 ## PART 5 — Modification of the Tobacco Products Regulations 2001 etc.
 
-### 7. Modification of the Tobacco Products Regulations 2001[^key-b45bcd5dac9b652f096624f6f78a9620]
+### 7. Modification of the Tobacco Products Regulations 2001[^c-b45bcd5dac9b652f096624f6f78a9620]
 
 (1) Where paragraph (3) applies, the Tobacco Products Regulations 2001 [^c23839641] apply with the modification set out in paragraph (2).
 
 (2) In regulation 18(1)(b), regard as inserted after the words “becoming payable”, the words “, in such form and manner and on such conditions”[^c23839651].
 
-(3) This paragraph applies where an election is made before the end of the period of six months beginning with IP completion day[^key-02be3e3d76245c613768de619b9dabf6] under regulation 17 of the Tobacco Products Regulations 2001 (deferred payment - payment day) in respect of tobacco products falling within regulation 17(2)(a).
+(3) This paragraph applies where an election is made before the end of the period of six months beginning with IP completion day[^c-02be3e3d76245c613768de619b9dabf6] under regulation 17 of the Tobacco Products Regulations 2001 (deferred payment - payment day) in respect of tobacco products falling within regulation 17(2)(a).
 
-### 8. Amendment to the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019[^key-f2197dd09ae11ac325abda941e3f45da]
+### 8. Amendment to the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019[^c-f2197dd09ae11ac325abda941e3f45da]
 
 Omit regulation 17 of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019.
 
@@ -193,13 +193,13 @@ This instrument will be covered by an overarching HMRC impact assessment (third 
 
 [^c23839571]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 1(1) defines “the Commissioners”; the definition of “the Commissioners” was substituted by the [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4), [paragraph 22(b)](https://www.legislation.gov.uk/ukpga/2005/11/paragraph/22/b). Sections 100G and 100H were inserted by the [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), [Schedule 4](https://www.legislation.gov.uk/ukpga/1991/31/schedule/4). Section 100H was amended by the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [Schedule 1](https://www.legislation.gov.uk/ukpga/1992/48/schedule/1), [paragraph 6](https://www.legislation.gov.uk/ukpga/1992/48/paragraph/6), [Schedule 2](https://www.legislation.gov.uk/ukpga/1992/48/schedule/2), [paragraph 4](https://www.legislation.gov.uk/ukpga/1992/48/paragraph/4) and Schedule 18, Part 1, and by the [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Schedule 3](https://www.legislation.gov.uk/ukpga/2002/23/schedule/3), [paragraph 2](https://www.legislation.gov.uk/ukpga/2002/23/paragraph/2).
 
-[^key-9eedf82ab7c70f36ef555effa458e6c7]: Commencement: Reg. 1 in force at 26.9.2019, see reg. 1(2)
+[^c-9eedf82ab7c70f36ef555effa458e6c7]: Commencement: Reg. 1 in force at 26.9.2019, see reg. 1(2)
 
-[^key-a311f7022c301c0f37d4a93ec4bfe8db]: Textual amendment: Reg. 2 omitted (31.12.2020) by virtue of [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/6/2)
+[^c-a311f7022c301c0f37d4a93ec4bfe8db]: Textual amendment: Reg. 2 omitted (31.12.2020) by virtue of [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/6/2)
 
-[^key-7f38f667d00c6d4e16806fb776e06ca4]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-7f38f667d00c6d4e16806fb776e06ca4]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
-[^key-2f7d65d5c7ecb41ec225f10b10454588]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-2f7d65d5c7ecb41ec225f10b10454588]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
 [^c23839591]: Marginal citation: [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593), amended by [S.I. 2011/2225](https://www.legislation.gov.uk/uksi/2011/2225) and [S.I. 2019/975](https://www.legislation.gov.uk/uksi/2019/975) and modified by [S.I. 2010/594](https://www.legislation.gov.uk/uksi/2010/594). It is also amended by [S.I. 2019/13](https://www.legislation.gov.uk/uksi/2019/13) and amended and modified by [S.I. 2019/474](https://www.legislation.gov.uk/uksi/2019/474), but at the date of making these Regulations those amendments and modifications have not yet come into force pending commencement regulations to be made by HM Treasury. There are other amending instruments but none is relevant.
 
@@ -207,20 +207,20 @@ This instrument will be covered by an overarching HMRC impact assessment (third 
 
 [^c23839611]: Marginal citation: “**Authorised use procedure**” has the meaning given by paragraph 13 of Schedule 2 to the Taxation (Cross-border) Trade Act 2018.
 
-[^key-149002ff9593d4f027fc23333d3a75b1]: Commencement: Reg. 5 in force at 26.9.2019, see reg. 1(2)
+[^c-149002ff9593d4f027fc23333d3a75b1]: Commencement: Reg. 5 in force at 26.9.2019, see reg. 1(2)
 
 [^c23839621]: Marginal citation: [S.I. 2019/13](https://www.legislation.gov.uk/uksi/2019/13), amended by [S.I. 2019/474](https://www.legislation.gov.uk/uksi/2019/474). The provisions amended by this regulation have not come into force pending commencement regulations to be made by HM Treasury.
 
-[^key-1d1643ddb95de0b73d473cfbbf5cb3bf]: Commencement: Reg. 6 in force at 26.9.2019, see reg. 1(2)
+[^c-1d1643ddb95de0b73d473cfbbf5cb3bf]: Commencement: Reg. 6 in force at 26.9.2019, see reg. 1(2)
 
 [^c23839631]: Marginal citation: [S.I. 2019/474](https://www.legislation.gov.uk/uksi/2019/474), to which there are amendments not relevant to these Regulations. The provisions omitted by this regulation, and by regulation 8, have not come into force.
 
-[^key-b45bcd5dac9b652f096624f6f78a9620]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
+[^c-b45bcd5dac9b652f096624f6f78a9620]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1640](https://www.legislation.gov.uk/uksi/2020/1640), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1640/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1640/schedule)
 
 [^c23839641]: Marginal citation: [S.I. 2001/1712](https://www.legislation.gov.uk/uksi/2001/1712), amended by [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593). It is also amended by [S.I. 2019/13](https://www.legislation.gov.uk/uksi/2019/13), but at the date of making these Regulations those amendments have not yet come into force pending commencement regulations to be made by HM Treasury. There are other amending instruments, but none is relevant.
 
 [^c23839651]: Marginal citation: The requirements to be made under this modification are not yet finalised or available. Subject to this regulation being commenced, when finalised, they will be made in writing and available at https://www.gov.uk/government/collections/customs-vat-and-excise-regulations-leaving-the-eu-with-no-deal and may be inspected free of charge at HM Revenue & Customs, Excise & Environmental Taxes Policy, 3rd Floor West, Ralli Quays, 3 Stanley Street, Salford, M60 9LA.
 
-[^key-02be3e3d76245c613768de619b9dabf6]: Textual amendment: Words in reg. 7(3) substituted (31.12.2020) by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/6/3)
+[^c-02be3e3d76245c613768de619b9dabf6]: Textual amendment: Words in reg. 7(3) substituted (31.12.2020) by [The Excise Duties (Transitional and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1494)](https://www.legislation.gov.uk/uksi/2020/1494), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1494/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2020/1494/regulation/6/3)
 
-[^key-f2197dd09ae11ac325abda941e3f45da]: Commencement: Reg. 8 in force at 26.9.2019, see reg. 1(2)
+[^c-f2197dd09ae11ac325abda941e3f45da]: Commencement: Reg. 8 in force at 26.9.2019, see reg. 1(2)

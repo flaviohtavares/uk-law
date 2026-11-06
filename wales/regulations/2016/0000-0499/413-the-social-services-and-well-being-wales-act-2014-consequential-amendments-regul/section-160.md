@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**160.**[^key-5b9cf4857db798806392da34fa0682af] The Crime and Disorder Act 1998 is amended as follows.
+**160.**[^c-5b9cf4857db798806392da34fa0682af] The Crime and Disorder Act 1998 is amended as follows.
 
 ## Annotations
 
-[^key-5b9cf4857db798806392da34fa0682af]: Commencement: Reg. 160 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5b9cf4857db798806392da34fa0682af]: Commencement: Reg. 160 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -22,21 +22,21 @@ summary: ''
 
 Regulations 49 to 52, 54 and 55
 
-**1.**[^key-9865420f1c00b4f3312e384f4a5b8c2b] The requirements set out in this Schedule are that an agreement between a certified installer and a participant (a “metering and monitoring agreement”)—
+**1.**[^c-9865420f1c00b4f3312e384f4a5b8c2b] The requirements set out in this Schedule are that an agreement between a certified installer and a participant (a “metering and monitoring agreement”)—
 
 - (a) relates to an accredited domestic plant which is a heat pump or a metering and monitoring biomass boiler;
-- (b) meets the requirements set out in paragraph 3 or 4 of this Schedule (whichever is applicable to the type of plant); [^key-e147ed1fec0fb2e1ce6defed34fab1e9]...
-- (c) meets the requirements set out in paragraphs 5 to 11[^key-56c18d1a69edf8acfe26cb9cea6bf6bd] of this Schedule; and[^key-8ad4c947964979e3b404cc4951188897]
-- (d)[^key-ce12f9c0ea96f5cf804b02afca4bc30b] is to be read as if its terms effect the assignment of all rights and obligations under the agreement in accordance with regulation 54.
+- (b) meets the requirements set out in paragraph 3 or 4 of this Schedule (whichever is applicable to the type of plant); [^c-e147ed1fec0fb2e1ce6defed34fab1e9]...
+- (c) meets the requirements set out in paragraphs 5 to 11[^c-56c18d1a69edf8acfe26cb9cea6bf6bd] of this Schedule; and[^c-8ad4c947964979e3b404cc4951188897]
+- (d)[^c-ce12f9c0ea96f5cf804b02afca4bc30b] is to be read as if its terms effect the assignment of all rights and obligations under the agreement in accordance with regulation 54.
 
-**2.**[^key-5673f6a647cd190297868bba536e4fcc] In this Schedule—
+**2.**[^c-5673f6a647cd190297868bba536e4fcc] In this Schedule—
 
 - “data completeness”, in relation to information recorded by measuring instruments over a particular period and presented in a format available for viewing by the installer and participant, is the total number of readings by the instruments and presented over that period divided by the maximum number of readings that could have been recorded at 2 minute intervals by the instruments in that period, expressed as a percentage;
 - “external temperature” is the temperature measured—
   - (a) at the RHI property by any temperature sensors if the relevant sensors are installed at the RHI property; or
   - (b) at a meteorological station which the metering and monitoring installer regards as most likely to measure temperature that represents the external temperature at the RHI property.
 
-### 3. Requirements regarding the use of meters and other measuring instruments for metering and monitoring biomass boilers[^key-595525d6cb2ded11863f95c6c4b7858d]
+### 3. Requirements regarding the use of meters and other measuring instruments for metering and monitoring biomass boilers[^c-595525d6cb2ded11863f95c6c4b7858d]
 
 Where the agreement relates to an accredited domestic plant which is a metering and monitoring biomass boiler (“the plant”), the applicable requirements referred to in paragraph 1(b) are that the agreement requires that—
 
@@ -51,7 +51,7 @@ Where the agreement relates to an accredited domestic plant which is a metering 
   - (ii) the external air temperature; and
 - (f) measuring equipment is installed to determine the efficiency of the plant.
 
-### 4. Requirements regarding the use of meters and other measuring instruments for heat pumps[^key-0731060cf7eda8e7c3065c99fa24950c]
+### 4. Requirements regarding the use of meters and other measuring instruments for heat pumps[^c-0731060cf7eda8e7c3065c99fa24950c]
 
 Where the agreement relates to an accredited domestic plant which is a heat pump (“the plant”), the applicable requirements referred to in paragraph 1(b) are that the agreement requires that—
 
@@ -67,7 +67,7 @@ Where the agreement relates to an accredited domestic plant which is a heat pump
 - (f) if the plant is a ground source heat pump, temperature sensors are installed to record the temperature of the liquid in the part of the plant that extracts heat from the ground or water as it enters, and returns from, the ground or water; and
 - (g) if the plant is an air source heat pump, temperature sensors are installed to measure the external air temperature.
 
-### 5. Accuracy requirements for meters and temperature sensors[^key-b7b3cc9a0e17c85f3f282aab9c08348a]
+### 5. Accuracy requirements for meters and temperature sensors[^c-b7b3cc9a0e17c85f3f282aab9c08348a]
 
 The requirements referred to in paragraph 1(c) are that the agreement requires that—
 
@@ -86,16 +86,16 @@ The requirements referred to in paragraph 1(c) are that the agreement requires t
 - (g) the smallest volume that eligible oil meters used under a metering and monitoring agreement can detect is equal to or less than 0.1 litres or the equivalent volume in any other unit; and
 - (h) the data completeness of the information recorded by all measuring instruments under the metering and monitoring agreement over any consecutive 12 month period is at least 75%.
 
-### 6. Requirements for presentation of information[^key-8686fd046b8f5ab267602a20b490780c]
+### 6. Requirements for presentation of information[^c-8686fd046b8f5ab267602a20b490780c]
 
 The requirements referred to in paragraph 1(c) are that the agreement requires that information recorded under the metering and monitoring agreement is—
 
 - (a) presented in a format which is automatically available for viewing by the metering and monitoring installer (“the installer view”) and the participant (“the participant view”); and
-- (b)[^key-335498b17711904134210c951e953b4e] updated automatically—
+- (b)[^c-335498b17711904134210c951e953b4e] updated automatically—
   - (i) where registration is given on or after the third relevant date, within one month of that information being recorded by the relevant measuring instruments; or
   - (ii) where registration is given before the third relevant date, within one week of that information being recorded by the relevant measuring instruments.
 
-**7.**[^key-8a57de0439d95265416fc7fa22703a11] The requirements referred to in paragraph 1(c) are that the agreement requires that the installer view—
+**7.**[^c-8a57de0439d95265416fc7fa22703a11] The requirements referred to in paragraph 1(c) are that the agreement requires that the installer view—
 
 - (a) includes all of the information recorded by all measuring instruments required under the metering and monitoring agreement over a period which is—
   - (i) at least the past 12 months; or
@@ -105,7 +105,7 @@ The requirements referred to in paragraph 1(c) are that the agreement requires t
   - (i) in each three month period for the past 12 months; or
   - (ii) if the information has been recorded for a period which is shorter than 12 months, in any three month period for which information has been recorded.
 
-**8.**[^key-5e13fd45f86988474d1f780b578ecc89] The requirements referred to in paragraph 1(c) are that the agreement requires that the participant view—
+**8.**[^c-5e13fd45f86988474d1f780b578ecc89] The requirements referred to in paragraph 1(c) are that the agreement requires that the participant view—
 
 - (a) separately identifies, as a minimum, each of the following sets of information recorded under the metering and monitoring agreement—
   - (i) the energy output of the accredited domestic plant;
@@ -121,7 +121,7 @@ The requirements referred to in paragraph 1(c) are that the agreement requires t
   - (ii) shows the information collected in any other period (at least for data collected in the previous 12 months), broken down by month or by a smaller unit of time; and
 - (c) identifies the data completeness of the information recorded by the measuring instruments.
 
-### 9. Requirements for provision of information and advice to participants[^key-97ba0a8cfdb443904caed9f3876d0c6e]
+### 9. Requirements for provision of information and advice to participants[^c-97ba0a8cfdb443904caed9f3876d0c6e]
 
 The requirements referred to in paragraph 1(c) are that the agreement requires the metering and monitoring installer to provide to the participant, on request,—
 
@@ -129,7 +129,7 @@ The requirements referred to in paragraph 1(c) are that the agreement requires t
 - (b) all of the information collected under the metering and monitoring agreement over the 12 month period ending on the date on which the information is requested; and
 - (c) any other information relating to the participant or the metering and monitoring agreement which is held by the metering and monitoring installer.
 
-### 10. Requirements for provision of information to the Secretary of State or the Authority[^key-c7c020eac1de1a19fd83c7f8a7ce0a08]
+### 10. Requirements for provision of information to the Secretary of State or the Authority[^c-c7c020eac1de1a19fd83c7f8a7ce0a08]
 
 The requirements referred to in paragraph 1(c) are that the agreement requires the metering and monitoring installer—
 
@@ -138,49 +138,49 @@ The requirements referred to in paragraph 1(c) are that the agreement requires t
   - (ii) the accredited domestic plant; and
 - (b) to provide that information in such manner and form and by such date as is specified in the request.
 
-### 11. Consumer protection requirements[^key-63c368eba3e4b8a6e7d75c8eb63be513]
+### 11. Consumer protection requirements[^c-63c368eba3e4b8a6e7d75c8eb63be513]
 
 The requirements referred to in paragraph 1(c) are that the agreement requires the metering and monitoring installer to inform the participant—
 
 - (a) of the identity of any person who is providing a service under the metering and monitoring agreement and to notify the participant if that person changes;
 - (b) if any service required under the metering and monitoring agreement is to be delivered by another person on behalf of the metering and monitoring installer.
 
-### 12.[^key-e3c5292737d5f88e2e1d6da76b61a5f5]
+### 12.[^c-e3c5292737d5f88e2e1d6da76b61a5f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9865420f1c00b4f3312e384f4a5b8c2b]: Commencement: Sch. 7 para. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-9865420f1c00b4f3312e384f4a5b8c2b]: Commencement: Sch. 7 para. 1 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-e147ed1fec0fb2e1ce6defed34fab1e9]: Textual amendment: Word in [Sch. 7 para. 1(b)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/b) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(a)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/a)
+[^c-e147ed1fec0fb2e1ce6defed34fab1e9]: Textual amendment: Word in [Sch. 7 para. 1(b)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/b) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(a)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/a)
 
-[^key-56c18d1a69edf8acfe26cb9cea6bf6bd]: Textual amendment: Word in [Sch. 7 para. 1(c)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/c) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(b)(i)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/b/i)
+[^c-56c18d1a69edf8acfe26cb9cea6bf6bd]: Textual amendment: Word in [Sch. 7 para. 1(c)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/c) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(b)(i)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/b/i)
 
-[^key-8ad4c947964979e3b404cc4951188897]: Textual amendment: Words in [Sch. 7 para. 1(c)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/c) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(b)(ii)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/b/ii)
+[^c-8ad4c947964979e3b404cc4951188897]: Textual amendment: Words in [Sch. 7 para. 1(c)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/c) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(b)(ii)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/b/ii)
 
-[^key-ce12f9c0ea96f5cf804b02afca4bc30b]: Textual amendment: [Sch. 7 para. 1(d)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/d) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(c)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/c)
+[^c-ce12f9c0ea96f5cf804b02afca4bc30b]: Textual amendment: [Sch. 7 para. 1(d)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/1/d) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(c)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/c)
 
-[^key-5673f6a647cd190297868bba536e4fcc]: Commencement: Sch. 7 para. 2 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-5673f6a647cd190297868bba536e4fcc]: Commencement: Sch. 7 para. 2 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-595525d6cb2ded11863f95c6c4b7858d]: Commencement: Sch. 7 para. 3 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-595525d6cb2ded11863f95c6c4b7858d]: Commencement: Sch. 7 para. 3 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-0731060cf7eda8e7c3065c99fa24950c]: Commencement: Sch. 7 para. 4 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-0731060cf7eda8e7c3065c99fa24950c]: Commencement: Sch. 7 para. 4 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-b7b3cc9a0e17c85f3f282aab9c08348a]: Commencement: Sch. 7 para. 5 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-b7b3cc9a0e17c85f3f282aab9c08348a]: Commencement: Sch. 7 para. 5 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-8686fd046b8f5ab267602a20b490780c]: Commencement: Sch. 7 para. 6 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-8686fd046b8f5ab267602a20b490780c]: Commencement: Sch. 7 para. 6 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-335498b17711904134210c951e953b4e]: Textual amendment: [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/6/b) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [42](https://www.legislation.gov.uk/uksi/2018/610/regulation/42)
+[^c-335498b17711904134210c951e953b4e]: Textual amendment: [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/6/b) substituted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [42](https://www.legislation.gov.uk/uksi/2018/610/regulation/42)
 
-[^key-8a57de0439d95265416fc7fa22703a11]: Commencement: Sch. 7 para. 7 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-8a57de0439d95265416fc7fa22703a11]: Commencement: Sch. 7 para. 7 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-5e13fd45f86988474d1f780b578ecc89]: Commencement: Sch. 7 para. 8 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-5e13fd45f86988474d1f780b578ecc89]: Commencement: Sch. 7 para. 8 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-97ba0a8cfdb443904caed9f3876d0c6e]: Commencement: Sch. 7 para. 9 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-97ba0a8cfdb443904caed9f3876d0c6e]: Commencement: Sch. 7 para. 9 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-c7c020eac1de1a19fd83c7f8a7ce0a08]: Commencement: Sch. 7 para. 10 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-c7c020eac1de1a19fd83c7f8a7ce0a08]: Commencement: Sch. 7 para. 10 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-63c368eba3e4b8a6e7d75c8eb63be513]: Commencement: Sch. 7 para. 11 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-63c368eba3e4b8a6e7d75c8eb63be513]: Commencement: Sch. 7 para. 11 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-e3c5292737d5f88e2e1d6da76b61a5f5]: Textual amendment: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/12) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(d)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/d)
+[^c-e3c5292737d5f88e2e1d6da76b61a5f5]: Textual amendment: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2014/928/schedule/7/paragraph/12) omitted (1.4.2022) by virtue of [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [30(d)](https://www.legislation.gov.uk/uksi/2022/159/regulation/30/d)

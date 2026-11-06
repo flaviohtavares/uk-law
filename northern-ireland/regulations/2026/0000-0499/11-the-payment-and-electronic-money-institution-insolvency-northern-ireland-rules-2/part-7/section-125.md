@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Withdrawal or variation of proof[^key-b8de1611b0eeaa0f5725e948b4ee9beb]
+## 125. Withdrawal or variation of proof[^c-b8de1611b0eeaa0f5725e948b4ee9beb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A creditor’s proof may at any time, by agreement with the administrator, be wi
 
 ## Annotations
 
-[^key-b8de1611b0eeaa0f5725e948b4ee9beb]: Commencement: [Rule 125](https://www.legislation.gov.uk/nisr/2026/11/rule/125) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b8de1611b0eeaa0f5725e948b4ee9beb]: Commencement: [Rule 125](https://www.legislation.gov.uk/nisr/2026/11/rule/125) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

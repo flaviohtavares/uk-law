@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Admission numbers[^c385172][^key-28709c2e466e767d2fc2ea83ead0caeb]
+## 47. Admission numbers[^c385172][^c-28709c2e466e767d2fc2ea83ead0caeb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c385172]: Commencement: S. 47 partly in force; s. 47 not in force at Royal Assent, see s. 216; s. 47 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule)) (as amended (4.12.2003) by [S.I. 2003/2992](https://www.legislation.gov.uk/uksi/2003/2992), [arts. 1](https://www.legislation.gov.uk/uksi/2003/2992/article/1), [3](https://www.legislation.gov.uk/uksi/2003/2992/article/3))
 
-[^key-28709c2e466e767d2fc2ea83ead0caeb]: Commencement: S. 47 in force at 1.2.2006 for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
+[^c-28709c2e466e767d2fc2ea83ead0caeb]: Commencement: S. 47 in force at 1.2.2006 for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)

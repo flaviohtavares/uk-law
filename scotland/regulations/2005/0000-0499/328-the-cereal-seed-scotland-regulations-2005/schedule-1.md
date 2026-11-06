@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — SPECIES OF SEED TO WHICH THE REGULATIONS APPLY[^key-2772a6f8a037263a4d9760ca0cc92b8f]
+## SCHEDULE 1 — SPECIES OF SEED TO WHICH THE REGULATIONS APPLY[^c-2772a6f8a037263a4d9760ca0cc92b8f]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ Regulations 2(1) and 5(1)
 
 ## Annotations
 
-[^key-2772a6f8a037263a4d9760ca0cc92b8f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2005/328/schedule/1) substituted (30.6.2010) by The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 ([S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219)), regs. 1(2), sch. 1
+[^c-2772a6f8a037263a4d9760ca0cc92b8f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ssi/2005/328/schedule/1) substituted (30.6.2010) by The Seed (Scotland) (Miscellaneous Amendments) Regulations 2010 ([S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219)), regs. 1(2), sch. 1

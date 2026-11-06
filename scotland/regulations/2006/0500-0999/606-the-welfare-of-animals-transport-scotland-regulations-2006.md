@@ -63,10 +63,10 @@ These Regulations–
 In these Regulations–
 
 - “**the Act**” means the Animal Health Act 1981 [^c17668051];
-- “**Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1)**” means Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) and [93/119/EC](https://www.legislation.gov.uk/eudr/1993/119) and Regulation [(EC) 1255/97](https://www.legislation.gov.uk/eur/1997/1255)[^c17668061] , as amended from time to time[^key-92820aa664841d6df69feb8e90bfd618];
-- “**Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255)**” means Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) concerning Community criteria for staging points and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/eudr/1991/628)[^c17668071] , as amended from time to time[^key-0758a28d3bbfcead32e5011c5a0e44a0];
-- “inspector” means a person appointed as an inspector by the Scottish Ministers or a local authority for the purposes of these Regulations;[^key-f29624f5e20362ce46072117e0ead2df] [^key-ec7735d09803f54ceae52b3aa936e150]...
-- “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c17668081] and;[^key-ce348fb04917a38a0290a533bbad64a8]
+- “**Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1)**” means Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1) on the protection of animals during transport and related operations and amending Directives [64/432/EEC](https://www.legislation.gov.uk/eudr/1964/432) and [93/119/EC](https://www.legislation.gov.uk/eudr/1993/119) and Regulation [(EC) 1255/97](https://www.legislation.gov.uk/eur/1997/1255)[^c17668061] , as amended from time to time[^c-92820aa664841d6df69feb8e90bfd618];
+- “**Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255)**” means Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) concerning Community criteria for staging points and amending the route plan referred to in the Annex to Directive [91/628/EEC](https://www.legislation.gov.uk/eudr/1991/628)[^c17668071] , as amended from time to time[^c-0758a28d3bbfcead32e5011c5a0e44a0];
+- “inspector” means a person appointed as an inspector by the Scottish Ministers or a local authority for the purposes of these Regulations;[^c-f29624f5e20362ce46072117e0ead2df] [^c-ec7735d09803f54ceae52b3aa936e150]...
+- “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c17668081] and;[^c-ce348fb04917a38a0290a533bbad64a8]
 - “**Regulation (EU) 2017/625**” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products
 
 ## PART 2 — Transport of Animals
@@ -78,8 +78,8 @@ In these Regulations–
 - (a) Article 3 (general conditions for the transport of animals);
 - (b) Article 4(1) (Article 4 relates to transport documentation);
 - (c) Article 5(1) (Article 5 relates to planning obligations for the transport of animals);
-- (d) Article 6(1) and (1A)[^key-5138d6591b832fd3faede6a4e64fbfb1] (transporters);
-- (e) from 5 January 2008, Article 6(5) and (5A)[^key-2c86cedf75444ac12b08a116312b7b3f];
+- (d) Article 6(1) and (1A)[^c-5138d6591b832fd3faede6a4e64fbfb1] (transporters);
+- (e) from 5 January 2008, Article 6(5) and (5A)[^c-2c86cedf75444ac12b08a116312b7b3f];
 - (f) Article 7 (prior inspection and approval of means of transport);
 - (g) Points 1.8, 1.9 and 1.11 of Chapter III of Annex I to that Regulation.
 
@@ -92,7 +92,7 @@ A transporter who fails to comply with the following provisions of Council Regul
 - (a) Article 4(2) (transport documentation);
 - (b) Article 5(2) and (4) (planning obligations for the transport of animals);
 - (c) Article 6(2), (3), (4), (6) and (8) (transporters);
-- (d)[^key-9ad875e5a0f7dc31af1cc42ec09a2b64] Article 6(9) (transporters);
+- (d)[^c-9ad875e5a0f7dc31af1cc42ec09a2b64] Article 6(9) (transporters);
 - (e) Article 12 (limitation on applications for authorisation).
 
 ### 5. Roll-on-roll-off vessels
@@ -115,7 +115,7 @@ An operator of an assembly centre who fails to comply with Article 9 of Council 
 
 ### 9. Control posts
 
-(1)[^key-c7db141f809c49ac07581430d33fe88e] It is an offence under the Act for any person to operate a control post as referred to in Council Regulation[^key-1c27b24266c20b3bd31f990a333dbf8e] [(EC) No. 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) of 25 June 1997 concerning Community criteria for staging points and amending the route plan referred to in the Annex to [Directive 91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628) unless that post is approved by the Scottish Ministers for that purpose.
+(1)[^c-c7db141f809c49ac07581430d33fe88e] It is an offence under the Act for any person to operate a control post as referred to in Council Regulation[^c-1c27b24266c20b3bd31f990a333dbf8e] [(EC) No. 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) of 25 June 1997 concerning Community criteria for staging points and amending the route plan referred to in the Annex to [Directive 91/628/EEC](https://www.legislation.gov.uk/european/directive/1991/0628) unless that post is approved by the Scottish Ministers for that purpose.
 
 (2) An operator of a control post who fails to comply with the following provisions of Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) is guilty of an offence under the Act–
 
@@ -182,28 +182,28 @@ The navigation system referred to in point 4.1 of Chapter VI of Annex I to Counc
 (2) The Scottish Ministers are also the competent authority for–
 
 - (a) receiving notification in accordance with Article 6(2) of Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1);
-- (b) receiving documents in accordance with Articles 6(5A)[^key-01bcdcb14b9b466b8a469102114658b2], 6(8), 6(9) and paragraph 4(c)[^key-be8ec61823eef9c0805759ff26ad3dad] of Annex II to that Regulation;
-- (c)[^key-0c4396b76435da7d8bb6693308cdc55a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-0c4396b76435da7d8bb6693308cdc55a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) receiving documents in accordance with Articles 6(5A)[^c-01bcdcb14b9b466b8a469102114658b2], 6(8), 6(9) and paragraph 4(c)[^c-be8ec61823eef9c0805759ff26ad3dad] of Annex II to that Regulation;
+- (c)[^c-0c4396b76435da7d8bb6693308cdc55a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-0c4396b76435da7d8bb6693308cdc55a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) recording information in accordance with Articles 19(3) and 19(4) of that Regulation;
 - (f) inspecting livestock vessels in accordance with Article 20 of that Regulation;
-- (g)[^key-6c4934b458f6cc650c817b79e6e90f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-6c4934b458f6cc650c817b79e6e90f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-6c4934b458f6cc650c817b79e6e90f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-8b2af212014c5d8c28ec54d05da8d7b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-6c4934b458f6cc650c817b79e6e90f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-6c4934b458f6cc650c817b79e6e90f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-6c4934b458f6cc650c817b79e6e90f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-8b2af212014c5d8c28ec54d05da8d7b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) approving classification societies in accordance with point 1 of Chapter IV of Annex I to that Regulation.
 
 (3) The Scottish Ministers are the competent authority for the purposes of–
 
-- (a) granting or issuing approvals in accordance with Article 3[^key-ca68ceb99d5ce1fd4d64e1015d95de00] of Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255);
+- (a) granting or issuing approvals in accordance with Article 3[^c-ca68ceb99d5ce1fd4d64e1015d95de00] of Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255);
 - (b) receiving information on animals passing through a control post in accordance with Article 5(h) and (i) of that Regulation.
 
-(4) The Scottish Ministers are responsible for exercising the functions the Appropriate Minister[^key-82db8ee6f69115a6b0fba7bed368d782] for the purposes of–
+(4) The Scottish Ministers are responsible for exercising the functions the Appropriate Minister[^c-82db8ee6f69115a6b0fba7bed368d782] for the purposes of–
 
 - (a) Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1);
 - (b) Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255);
 
-[^key-0ee0bd901e38c3ef572d471cab6b06b0]...
+[^c-0ee0bd901e38c3ef572d471cab6b06b0]...
 
 ### 19. Approvals, authorisations etc
 
@@ -253,7 +253,7 @@ Any approval, authorisation or certificate, issued under these Regulations, Coun
 - (a) contravenes any provision of these Regulations; or
 - (b) constitutes an offence against the Act by virtue of these Regulations
 
-serve a notice on the person responsible for the animals on a permanent or temporary basis[^key-defe69a826197b2ed7e3bff425d9fad0] requiring that person to take any action necessary to ensure compliance with these Regulations, giving reasons for the requirements.
+serve a notice on the person responsible for the animals on a permanent or temporary basis[^c-defe69a826197b2ed7e3bff425d9fad0] requiring that person to take any action necessary to ensure compliance with these Regulations, giving reasons for the requirements.
 
 (2) An inspector may in particular–
 
@@ -268,7 +268,7 @@ serve a notice on the person responsible for the animals on a permanent or tempo
 
 (4) Any person who defaces, obscures or removes any mark applied under paragraph (3) shall be guilty of an offence under the Act.
 
-(5)[^key-85a50c891df28375f113e4e56eae6a1d] An inspector may—
+(5)[^c-85a50c891df28375f113e4e56eae6a1d] An inspector may—
 
 - (a) inspect any document for the purpose of ascertaining whether the provisions of these Regulations, Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001), or Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/european/regulation/1997/1255) have been complied with; and
 - (b) take copies of any such document inspected or any other document inspected in the course of performing official controls under Regulation (EU) 2017/625.
@@ -280,7 +280,7 @@ serve a notice on the person responsible for the animals on a permanent or tempo
 - (a) require one or more animals at a control post to be removed from the control post;
 - (b) specify conditions under which animals may remain there.
 
-(8) In deciding whether to serve a notice under this regulation, an inspector may take into account any previous failure to comply with any provision of these Regulations, or of any Order made under section 8, 37, 38 or 39 of the Act or paragraph 13(b)[^key-c4c12e3afad4a38f3e265ffd8937de39] of Annex II to Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1) (return of documents after completion of journey).
+(8) In deciding whether to serve a notice under this regulation, an inspector may take into account any previous failure to comply with any provision of these Regulations, or of any Order made under section 8, 37, 38 or 39 of the Act or paragraph 13(b)[^c-c4c12e3afad4a38f3e265ffd8937de39] of Annex II to Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1) (return of documents after completion of journey).
 
 (9) Where a person fails to comply with the requirements of a notice served under this regulation, an inspector may take any steps the inspector considers necessary to ensure the requirement is met.
 
@@ -293,14 +293,14 @@ The following provisions of the Act apply as if these Regulations were an Order 
 - (a) section 60 (duties and authorities of constables);
 - (b) section 63 (general powers of inspectors);
 - (c) section 64 (powers of inspectors as to poultry);
-- (d) section 64A (powers of inspectors relating to an obligation under[^key-ab5d97b6c69c85606021e6e9cca0d9b1] assimilated[^key-230ba6b735d104b096df3dea3bdb3f35] law); and
+- (d) section 64A (powers of inspectors relating to an obligation under[^c-ab5d97b6c69c85606021e6e9cca0d9b1] assimilated[^c-230ba6b735d104b096df3dea3bdb3f35] law); and
 - (e) section 65(1) to (3) (power to detain vessels and aircraft).
 
 ### 24. Compliance with notices
 
 Any notice served under these Regulations must be complied with at the expense of the person on whom it is served, except where otherwise provided in that notice.
 
-### 24A. Service of notices[^key-695712f201e8a8f517761ebe3451cc71]
+### 24A. Service of notices[^c-695712f201e8a8f517761ebe3451cc71]
 
 (1) Any notice under these Regulations or any notification of a determination of the Scottish Ministers may be served on the person to be affected by it, either—
 
@@ -361,7 +361,7 @@ Any notice served under these Regulations must be complied with at the expense o
 
 No person shall–
 
-- (a) without reasonable cause, fail to give any person acting under Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1) or Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) or Regulation (EU) 2017/625[^key-f5a539c1f6c4c391b4a5d0de6aabf6f9] or these Regulations any assistance or information which that person may reasonably require for the purposes of the latter's functions under Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1), Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) , Regulation (EU) 2017/625[^key-3f9cc5503cac9adf68cb7e9e5e5c4885] or these Regulations;
+- (a) without reasonable cause, fail to give any person acting under Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1) or Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) or Regulation (EU) 2017/625[^c-f5a539c1f6c4c391b4a5d0de6aabf6f9] or these Regulations any assistance or information which that person may reasonably require for the purposes of the latter's functions under Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1), Council Regulation [(EC) No. 1255/97](https://www.legislation.gov.uk/eur/1997/1255) , Regulation (EU) 2017/625[^c-3f9cc5503cac9adf68cb7e9e5e5c4885] or these Regulations;
 - (b) provide false information on any journey log (whether submitted for approval, returned to the officer of the Scottish Ministers after the journey or otherwise) or provide false information on any documentation carried pursuant to Article 4 of Council Regulation [(EC) No. 1/2005](https://www.legislation.gov.uk/eur/2005/1);
 - (c) make an entry in a record or statement, or give any information for the purposes of these Regulations, which that person knows to be false in any material particular or, for those purposes, recklessly makes a statement or gives any information which is false in any material particular; or
 - (d) cause or permit any of the above.
@@ -456,61 +456,61 @@ A regulatory impact assessment has been prepared in respect of these Regulations
 
 [^c17668061]: Marginal citation: O.J. No. L 3, 1.5.2005 p.1.
 
-[^key-92820aa664841d6df69feb8e90bfd618]: Textual amendment: Words in reg. 2 inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/2/a)
+[^c-92820aa664841d6df69feb8e90bfd618]: Textual amendment: Words in reg. 2 inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/2/a)
 
 [^c17668071]: Marginal citation: O.J. No. L 174, 2.7.1997 p.1.
 
-[^key-0758a28d3bbfcead32e5011c5a0e44a0]: Textual amendment: Words in reg. 2 inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/2/b)
+[^c-0758a28d3bbfcead32e5011c5a0e44a0]: Textual amendment: Words in reg. 2 inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/2/b)
 
-[^key-f29624f5e20362ce46072117e0ead2df]: Textual amendment: Words in reg. 2 inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/2/c)
+[^c-f29624f5e20362ce46072117e0ead2df]: Textual amendment: Words in reg. 2 inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/2/c)
 
-[^key-ec7735d09803f54ceae52b3aa936e150]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2006/606/regulation/2) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/2/a)
+[^c-ec7735d09803f54ceae52b3aa936e150]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2006/606/regulation/2) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/2/a)
 
 [^c17668081]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-ce348fb04917a38a0290a533bbad64a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2006/606/regulation/2) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/2/b)
+[^c-ce348fb04917a38a0290a533bbad64a8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2006/606/regulation/2) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/2/b)
 
-[^key-5138d6591b832fd3faede6a4e64fbfb1]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/3/1/d) inserted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5138d6591b832fd3faede6a4e64fbfb1]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/3/1/d) inserted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c86cedf75444ac12b08a116312b7b3f]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/ssi/2006/606/regulation/3/1/e) inserted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c86cedf75444ac12b08a116312b7b3f]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/ssi/2006/606/regulation/3/1/e) inserted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ad875e5a0f7dc31af1cc42ec09a2b64]: Textual amendment: [Reg. 4(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/4/d) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ad875e5a0f7dc31af1cc42ec09a2b64]: Textual amendment: [Reg. 4(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/4/d) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7db141f809c49ac07581430d33fe88e]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/ssi/2006/606/regulation/9/1) substituted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/3)
+[^c-c7db141f809c49ac07581430d33fe88e]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/ssi/2006/606/regulation/9/1) substituted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/3)
 
-[^key-1c27b24266c20b3bd31f990a333dbf8e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2006/606/regulation/9/1) inserted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c27b24266c20b3bd31f990a333dbf8e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2006/606/regulation/9/1) inserted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-01bcdcb14b9b466b8a469102114658b2]: Textual amendment: Word in [reg. 18(2)(b)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/b) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01bcdcb14b9b466b8a469102114658b2]: Textual amendment: Word in [reg. 18(2)(b)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/b) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be8ec61823eef9c0805759ff26ad3dad]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/b) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/3/a)
+[^c-be8ec61823eef9c0805759ff26ad3dad]: Textual amendment: Words in [reg. 18(2)(b)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/b) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/3/a)
 
-[^key-0c4396b76435da7d8bb6693308cdc55a]: Textual amendment: [Reg. 18(2)(c)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/c)[(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/d) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/3/b)
+[^c-0c4396b76435da7d8bb6693308cdc55a]: Textual amendment: [Reg. 18(2)(c)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/c)[(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/d) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/3/b)
 
-[^key-6c4934b458f6cc650c817b79e6e90f3a]: Textual amendment: [Reg. 18(2)(g)-(i)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/g) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/3/b)
+[^c-6c4934b458f6cc650c817b79e6e90f3a]: Textual amendment: [Reg. 18(2)(g)-(i)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/g) omitted (6.4.2023) by virtue of [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/3/b)
 
-[^key-8b2af212014c5d8c28ec54d05da8d7b8]: Textual amendment: [Reg. 18(2)(j)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/j) omitted (14.12.2019) by virtue of [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2019/412/regulation/21)
+[^c-8b2af212014c5d8c28ec54d05da8d7b8]: Textual amendment: [Reg. 18(2)(j)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/2/j) omitted (14.12.2019) by virtue of [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2019/412/regulation/21)
 
-[^key-ca68ceb99d5ce1fd4d64e1015d95de00]: Textual amendment: Words in [reg. 18(3)(a)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/3/a) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca68ceb99d5ce1fd4d64e1015d95de00]: Textual amendment: Words in [reg. 18(3)(a)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/3/a) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(b)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-82db8ee6f69115a6b0fba7bed368d782]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/4) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(c)(i)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82db8ee6f69115a6b0fba7bed368d782]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/4) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(c)(i)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0ee0bd901e38c3ef572d471cab6b06b0]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/4) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ee0bd901e38c3ef572d471cab6b06b0]: Textual amendment: Words in [reg. 18(4)](https://www.legislation.gov.uk/ssi/2006/606/regulation/18/4) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(5)(c)(ii)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/5/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-defe69a826197b2ed7e3bff425d9fad0]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2006/606/regulation/22/1) substituted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/4)
+[^c-defe69a826197b2ed7e3bff425d9fad0]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2006/606/regulation/22/1) substituted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/4)
 
-[^key-85a50c891df28375f113e4e56eae6a1d]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/ssi/2006/606/regulation/22/5) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/4/a)
+[^c-85a50c891df28375f113e4e56eae6a1d]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/ssi/2006/606/regulation/22/5) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/4/a)
 
-[^key-c4c12e3afad4a38f3e265ffd8937de39]: Textual amendment: Words in [reg. 22(8)](https://www.legislation.gov.uk/ssi/2006/606/regulation/22/8) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/4/b)
+[^c-c4c12e3afad4a38f3e265ffd8937de39]: Textual amendment: Words in [reg. 22(8)](https://www.legislation.gov.uk/ssi/2006/606/regulation/22/8) substituted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/4/b)
 
-[^key-ab5d97b6c69c85606021e6e9cca0d9b1]: Textual amendment: Words in [reg. 23(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/23/d) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab5d97b6c69c85606021e6e9cca0d9b1]: Textual amendment: Words in [reg. 23(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/23/d) substituted (31.12.2020) by [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [4(6)](https://www.legislation.gov.uk/ssi/2019/34/regulation/4/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-230ba6b735d104b096df3dea3bdb3f35]: Textual amendment: Word in [reg. 23(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/23/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/9)
+[^c-230ba6b735d104b096df3dea3bdb3f35]: Textual amendment: Word in [reg. 23(d)](https://www.legislation.gov.uk/ssi/2006/606/regulation/23/d) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/9)
 
-[^key-695712f201e8a8f517761ebe3451cc71]: Textual amendment: Regs. 24A, 24B inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/5)
+[^c-695712f201e8a8f517761ebe3451cc71]: Textual amendment: Regs. 24A, 24B inserted (13.11.2009) by [The Welfare of Animals (Transport) (Scotland) Amendment Regulations 2009 (S.S.I. 2009/339)](https://www.legislation.gov.uk/ssi/2009/339), [regs. 1](https://www.legislation.gov.uk/ssi/2009/339/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2009/339/regulation/2/5)
 
-[^key-f5a539c1f6c4c391b4a5d0de6aabf6f9]: Textual amendment: Words in [reg. 26(a)](https://www.legislation.gov.uk/ssi/2006/606/regulation/26/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/5/a)
+[^c-f5a539c1f6c4c391b4a5d0de6aabf6f9]: Textual amendment: Words in [reg. 26(a)](https://www.legislation.gov.uk/ssi/2006/606/regulation/26/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/5/a)
 
-[^key-3f9cc5503cac9adf68cb7e9e5e5c4885]: Textual amendment: Words in [reg. 26(a)](https://www.legislation.gov.uk/ssi/2006/606/regulation/26/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/5/b)
+[^c-3f9cc5503cac9adf68cb7e9e5e5c4885]: Textual amendment: Words in [reg. 26(a)](https://www.legislation.gov.uk/ssi/2006/606/regulation/26/a) inserted (6.4.2023) by [The Welfare of Animals (Transport) (Miscellaneous Amendments) (England and Scotland) Regulations 2023 (S.I. 2023/287)](https://www.legislation.gov.uk/uksi/2023/287), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/287/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2023/287/regulation/5/5/b)
 
 [^c17668091]: Marginal citation: [S.I. 1975/1024](https://www.legislation.gov.uk/uksi/1975/1024).
 

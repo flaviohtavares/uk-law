@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Electronic monitoring of compliance with order: England and Wales[^key-41e05f743f5117ea7d07b8d882abf2ad]
+## 219. Electronic monitoring of compliance with order: England and Wales[^c-41e05f743f5117ea7d07b8d882abf2ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ This is subject to section 220.
 
 (2) A youth diversion order that includes an electronic monitoring requirement must specify the person who is to be responsible for the monitoring.
 
-(3)[^key-442876024292f1ed2d7b5a7b8492b0c2] The person specified under subsection (2) (“the responsible person”) must be of a description specified in regulations made by the Secretary of State by statutory instrument.
+(3)[^c-442876024292f1ed2d7b5a7b8492b0c2] The person specified under subsection (2) (“the responsible person”) must be of a description specified in regulations made by the Secretary of State by statutory instrument.
 
 (4) Where a youth diversion order imposes an electronic monitoring requirement, the respondent must (among other things)—
 
@@ -40,6 +40,6 @@ These obligations have effect as requirements of the order.
 
 ## Annotations
 
-[^key-41e05f743f5117ea7d07b8d882abf2ad]: Commencement: S. 219 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-41e05f743f5117ea7d07b8d882abf2ad]: Commencement: S. 219 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-442876024292f1ed2d7b5a7b8492b0c2]: Commencement: [S. 219(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/219/3) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z1)
+[^c-442876024292f1ed2d7b5a7b8492b0c2]: Commencement: [S. 219(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/219/3) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z1)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1154. Meaning of “51% subsidiary”, “75% subsidiary” and “90% subsidiary”[^key-70d746d67500559cfb0f68b08383c36d]
+## 1154. Meaning of “51% subsidiary”, “75% subsidiary” and “90% subsidiary”[^c-70d746d67500559cfb0f68b08383c36d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70d746d67500559cfb0f68b08383c36d]: Modification: S. 1154 modified by Income and Corporation Taxes Act 1988 (c. 1), Sch. 25 para. 12(3) (as amended) (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 147(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/147/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-70d746d67500559cfb0f68b08383c36d]: Modification: S. 1154 modified by Income and Corporation Taxes Act 1988 (c. 1), Sch. 25 para. 12(3) (as amended) (with effect in accordance with s. 1184(1) of the amending Act) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 147(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/147/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

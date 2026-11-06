@@ -24,11 +24,11 @@ Section 118
 
 ### Town and Country Planning Act 1990 (c. 8)
 
-**1.**[^key-a7511433644a593e5e9bd1e1a8ff845e][^key-2fac365bef0d6ef891cdbd6477dfa8c1][^key-38f907e548fba6d80820ef27ece85673] The Town and Country Planning Act 1990 is amended as follows.
+**1.**[^c-a7511433644a593e5e9bd1e1a8ff845e][^c-2fac365bef0d6ef891cdbd6477dfa8c1][^c-38f907e548fba6d80820ef27ece85673] The Town and Country Planning Act 1990 is amended as follows.
 
-**2.**[^key-c459ad7317ae9ba9e9a530f7f43a12e4] In section 55(2)(b) (meaning of development) the word “local” is omitted.
+**2.**[^c-c459ad7317ae9ba9e9a530f7f43a12e4] In section 55(2)(b) (meaning of development) the word “local” is omitted.
 
-**3.**[^key-1e5a16ec8cf96cdbccc9434459d760bc][^key-fc5f29e58490c59c793136317e60dea5] For section 69 there is substituted the following section—
+**3.**[^c-1e5a16ec8cf96cdbccc9434459d760bc][^c-fc5f29e58490c59c793136317e60dea5] For section 69 there is substituted the following section—
 
 > **69. Register of applications etc**
 >
@@ -67,7 +67,7 @@ Section 118
 
 **Not yet in force.**
 
-**5.**[^key-c7ab02251f4b109a64e1428a254910ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c7ab02251f4b109a64e1428a254910ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -78,13 +78,13 @@ Section 118
 > - (a) development authorised by planning permission granted by a development order or local development order is started before the permission is withdrawn, and
 > - (b) the order includes provision in pursuance of section 61D permitting the development to be completed after the permission is withdrawn.
 
-**7.**[^key-eb94aefac0e8529f4728ecaebf9b2e17] (1) In section 245 (modification of incorporated enactments), subsections (2) and (3) are omitted.
+**7.**[^c-eb94aefac0e8529f4728ecaebf9b2e17] (1) In section 245 (modification of incorporated enactments), subsections (2) and (3) are omitted.
 
 (2) The amendments made by sub-paragraph (1) do not apply to compulsory purchase orders of which notice under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 (c. 67) is published before commencement of this paragraph.
 
-**8.**[^key-0c9e6d2c4f65aa93aa12407d9d3f5165][^key-ecff31d85a034a2341b64bd56a67a3de] In section 284(1) (restriction on challenge to validity of certain documents), paragraph (a) is omitted.
+**8.**[^c-0c9e6d2c4f65aa93aa12407d9d3f5165][^c-ecff31d85a034a2341b64bd56a67a3de] In section 284(1) (restriction on challenge to validity of certain documents), paragraph (a) is omitted.
 
-**9.**[^key-f65514e555c0e0862426b46871de6418][^key-cd1af6f48a481293378ef5890eed800e] (1) Section 287 (procedure for questioning the validity of certain matters) is amended as follows.
+**9.**[^c-f65514e555c0e0862426b46871de6418][^c-cd1af6f48a481293378ef5890eed800e] (1) Section 287 (procedure for questioning the validity of certain matters) is amended as follows.
 
 (2) For subsections (1) to (3) there are substituted the following subsections—
 
@@ -129,7 +129,7 @@ Section 118
 
 (4) Subsection (6) is omitted.
 
-**10.**[^key-494689ba371ab1234f43ccf3088be833][^key-dbc3677dc356b5debff1b4200520eced] (1) Section 296 (exercise of powers in relation to Crown land) is amended as follows.
+**10.**[^c-494689ba371ab1234f43ccf3088be833][^c-dbc3677dc356b5debff1b4200520eced] (1) Section 296 (exercise of powers in relation to Crown land) is amended as follows.
 
 (2) In subsection (1) for paragraph (a) there is substituted the following paragraph—
 
@@ -146,7 +146,7 @@ Section 118
 > - (c) a local development plan (or a revision of it) adopted or approved under Part 6 of that Act;
 > - (d) the Mayor of London’s spatial development strategy (or any alteration or replacement of it) published in pursuance of section 337 of the Greater London Authority Act 1999.
 
-**11.**[^key-2528f911886aed1829935cc229ef98ef][^key-b2c9283951fbd828ee225796dbb26dd6] (1) Section 303A (recovery of costs of certain inquiries) is amended as follows.
+**11.**[^c-2528f911886aed1829935cc229ef98ef][^c-b2c9283951fbd828ee225796dbb26dd6] (1) Section 303A (recovery of costs of certain inquiries) is amended as follows.
 
 (2) For subsection (1) there are substituted the following subsections—
 
@@ -183,34 +183,34 @@ Section 118
 
 > (9A) References to a local planning authority causing a qualifying inquiry to be held include references to a requirement under the Planning and Compulsory Purchase Act 2004 on the authority to submit a plan to the appropriate authority for independent examination.
 
-**12.**[^key-f96cdbe23ea36a58109208f6d5ffcac4][^key-28b8421e38e2da337a6485dffc3c8ea8] In section 306 (2) (local authorities and statutory undertakers may contribute to certain costs of local planning authorities) for paragraph (a) there are substituted the following paragraphs—
+**12.**[^c-f96cdbe23ea36a58109208f6d5ffcac4][^c-28b8421e38e2da337a6485dffc3c8ea8] In section 306 (2) (local authorities and statutory undertakers may contribute to certain costs of local planning authorities) for paragraph (a) there are substituted the following paragraphs—
 
 > - (a) any expenses incurred by a local planning authority for the purposes of carrying out a review under section 13 or 61 of the Planning and Compulsory Purchase Act 2004 (duty of local planning authority to keep under review certain matters affecting development);
 > - (ab) any expenses incurred by a county council for the purposes of carrying out a review under section 14 of that Act (duty of county council to keep under review certain matters affecting development);
 
-**13.**[^key-3bfb87839b7c2defc59bd6a3fabdb215][^key-efe51fa9941001b8ecea8f815c64c747] In section 324(1) (rights of entry) for paragraph (a) there is substituted the following paragraph—
+**13.**[^c-3bfb87839b7c2defc59bd6a3fabdb215][^c-efe51fa9941001b8ecea8f815c64c747] In section 324(1) (rights of entry) for paragraph (a) there is substituted the following paragraph—
 
 > - (a) the preparation, revision, adoption or approval of a local development document under Part 2 of the Planning and Compulsory Purchase Act 2004 or a local development plan under Part 6 of that Act;
 
-**14.**[^key-12b748e5ee0bb3a3080824435c17a575] (1) Section 333 (provision about regulations and orders) is amended as follows.
+**14.**[^c-12b748e5ee0bb3a3080824435c17a575] (1) Section 333 (provision about regulations and orders) is amended as follows.
 
 (2) After subsection (2) there is inserted the following subsection—
 
 > (2A) Regulations may make different provision for different purposes.
 
-**15.**[^key-e285749ec06d5e6b5d49fc9399b025e2][^key-ebb1ef56f3d3f2ebab40a3f8942a8f88] In section 336(1) (interpretation) for the definition of development plan there is substituted—
+**15.**[^c-e285749ec06d5e6b5d49fc9399b025e2][^c-ebb1ef56f3d3f2ebab40a3f8942a8f88] In section 336(1) (interpretation) for the definition of development plan there is substituted—
 
 > - “**development plan**” must be construed in accordance with section 38 of the Planning and Compulsory Purchase Act 2004;
 
 .
 
-**16.**[^key-b3193f38104b73d51690a085b44f757d] (1)[^key-591bc3d127d670c0e26ef26abdfc876e] Schedule 1 (distribution of functions of local planning authorities) is amended as follows.
+**16.**[^c-b3193f38104b73d51690a085b44f757d] (1)[^c-591bc3d127d670c0e26ef26abdfc876e] Schedule 1 (distribution of functions of local planning authorities) is amended as follows.
 
-(2)[^key-591bc3d127d670c0e26ef26abdfc876e] Paragraph 2 is omitted.
+(2)[^c-591bc3d127d670c0e26ef26abdfc876e] Paragraph 2 is omitted.
 
 (3) In paragraph 3(7) the words “but paragraph 4 shall apply to such applications instead” are omitted.
 
-(4)[^key-674a4c8b7a1fa7c38efe676c4c6e3755] For paragraph 7 there is substituted the following paragraph—
+(4)[^c-674a4c8b7a1fa7c38efe676c4c6e3755] For paragraph 7 there is substituted the following paragraph—
 
 > **7.** (1) A local planning authority must not determine an application for planning permission to which the consultation requirements apply unless it complies with sub-paragraph (7).
 >
@@ -265,9 +265,9 @@ Section 118
 >
 > (12) The 2004 Act is the Planning and Compulsory Purchase Act 2004.
 
-**17.**[^key-d7babca1e18b8b1d83db903cb70e118c][^key-8ea9fa8d3fdeada27e8686feb3a5c453] In Schedule 2 (transitional provisions relating to development plans) Parts 1, 2 and 3 are omitted.
+**17.**[^c-d7babca1e18b8b1d83db903cb70e118c][^c-8ea9fa8d3fdeada27e8686feb3a5c453] In Schedule 2 (transitional provisions relating to development plans) Parts 1, 2 and 3 are omitted.
 
-**18.**[^key-68b5ca51eba475e5caf26011d63339d0][^key-b054729fa383203c175d99bb6c465eb9] (1) Schedule 13 (blighted land) is amended as follows.
+**18.**[^c-68b5ca51eba475e5caf26011d63339d0][^c-b054729fa383203c175d99bb6c465eb9] (1) Schedule 13 (blighted land) is amended as follows.
 
 (2) Paragraphs 1 to 4 are omitted.
 
@@ -299,9 +299,9 @@ Section 118
 
 ### Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9)
 
-**19.**[^key-26344268b6c7905d1e74c62463793cc9][^key-0b8d2ca57f04bf12f9bed97230c14dd7][^key-116fb070e2d91f1734cc981423147435] The Planning (Listed Buildings and Conservation Areas) Act 1990 is amended as follows.
+**19.**[^c-26344268b6c7905d1e74c62463793cc9][^c-0b8d2ca57f04bf12f9bed97230c14dd7][^c-116fb070e2d91f1734cc981423147435] The Planning (Listed Buildings and Conservation Areas) Act 1990 is amended as follows.
 
-**20.**[^key-89be4caff8efc377dc081daedf980bb8][^key-d3966354a015307a15ca3d26e6650679] In section 10(3) (regulations relating to applications for listed building consent)—
+**20.**[^c-89be4caff8efc377dc081daedf980bb8][^c-d3966354a015307a15ca3d26e6650679] In section 10(3) (regulations relating to applications for listed building consent)—
 
 - (a) for paragraph (b) and the word “and” following it there is substituted the following paragraph—
 
@@ -314,21 +314,21 @@ Section 118
   > - (e) prohibiting the determination of such applications during such period as is prescribed;
   > - (f) requirements on the local planning authority to take account of responses from persons consulted.
 
-**21.**[^key-0e38d37d03beadf1131afe9c4880e72d][^key-43174b724cb35fdcfa106ea02ef3d24c] In section 23(2) (matters to which regard is to be had by local planning authority in exercising function of revoking or modifying consent) for “the development plan and to any other” there is substituted “ any ”.
+**21.**[^c-0e38d37d03beadf1131afe9c4880e72d][^c-43174b724cb35fdcfa106ea02ef3d24c] In section 23(2) (matters to which regard is to be had by local planning authority in exercising function of revoking or modifying consent) for “the development plan and to any other” there is substituted “ any ”.
 
-**22.**[^key-9b97c49345de15b9c8c81d4d57fc8558][^key-08671fcaa9bae99b1c99720a992aab91] In section 26(2) (matters to which regard is to be had by the Secretary of State in exercising function of revoking or modifying consent) for “the development plan and to any other” there is substituted “ any ”.
+**22.**[^c-9b97c49345de15b9c8c81d4d57fc8558][^c-08671fcaa9bae99b1c99720a992aab91] In section 26(2) (matters to which regard is to be had by the Secretary of State in exercising function of revoking or modifying consent) for “the development plan and to any other” there is substituted “ any ”.
 
-**23.**[^key-1d987e66f9f1b89755df0d36ee46b9ae][^key-8a96910b9423df6e5d55c54019766231] In section 67 (publicity for applications affecting the setting of listed buildings) for subsections (1) to (7) there is substituted the following subsection—
+**23.**[^c-1d987e66f9f1b89755df0d36ee46b9ae][^c-8a96910b9423df6e5d55c54019766231] In section 67 (publicity for applications affecting the setting of listed buildings) for subsections (1) to (7) there is substituted the following subsection—
 
 > (1) The Secretary of State may prescribe requirements as to publicity for applications for planning permission in cases where the local planning authority think that the development of land would affect the setting of a listed building.
 
-**24.**[^key-4a42099548909e1c6168b78b16715037][^key-12a6da4b9c1f210605659b75f3438481] In section 73 (publicity for applications affecting conservation areas) for subsection (1) there is substituted the following subsection—
+**24.**[^c-4a42099548909e1c6168b78b16715037][^c-12a6da4b9c1f210605659b75f3438481] In section 73 (publicity for applications affecting conservation areas) for subsection (1) there is substituted the following subsection—
 
 > (1) The Secretary of State may prescribe requirements as to publicity for applications for planning permission in cases where the local planning authority think that the development of land would affect the character or appearance of a conservation area.
 
-**25.**[^key-c61e7c72d9e4a2ff52b14182394cdec0][^key-0cce2f8c4ff6ab4c18ec95dc0bdca540] In section 91(2) (interpretation) “ “development plan”” is omitted.
+**25.**[^c-c61e7c72d9e4a2ff52b14182394cdec0][^c-0cce2f8c4ff6ab4c18ec95dc0bdca540] In section 91(2) (interpretation) “ “development plan”” is omitted.
 
-**26.**[^key-773f633685074fcae19739ee78cb26c3][^key-086c5bc80b42100a38922c84c3be0d38] In section 93 (provision about regulations and orders) after subsection (6) there are inserted the following subsections—
+**26.**[^c-773f633685074fcae19739ee78cb26c3][^c-086c5bc80b42100a38922c84c3be0d38] In section 93 (provision about regulations and orders) after subsection (6) there are inserted the following subsections—
 
 > (6A) Regulations and orders may make different provision for different purposes.
 >
@@ -336,104 +336,104 @@ Section 118
 
 ### Planning (Hazardous Substances) Act 1990 (c. 10)
 
-**27.**[^key-616c6f7729b0d956479b1ef797b74250] In section 40 of the Planning (Hazardous Substances) Act 1990 (provision about regulations) after subsection (3) there is inserted the following subsection—
+**27.**[^c-616c6f7729b0d956479b1ef797b74250] In section 40 of the Planning (Hazardous Substances) Act 1990 (provision about regulations) after subsection (3) there is inserted the following subsection—
 
 > (4) Regulations may make different provision for different purposes.
 
 ## Annotations
 
-[^key-a7511433644a593e5e9bd1e1a8ff845e]: Commencement: Sch. 6 para. 1 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-a7511433644a593e5e9bd1e1a8ff845e]: Commencement: Sch. 6 para. 1 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-2fac365bef0d6ef891cdbd6477dfa8c1]: Commencement: Sch. 6 para. 1 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-2fac365bef0d6ef891cdbd6477dfa8c1]: Commencement: Sch. 6 para. 1 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-38f907e548fba6d80820ef27ece85673]: Commencement: Sch. 6 para. 1 in force at 15.10.2005 for W. so far as not already in force by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-38f907e548fba6d80820ef27ece85673]: Commencement: Sch. 6 para. 1 in force at 15.10.2005 for W. so far as not already in force by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-c459ad7317ae9ba9e9a530f7f43a12e4]: Commencement: Sch. 6 para. 2 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/e)
+[^c-c459ad7317ae9ba9e9a530f7f43a12e4]: Commencement: Sch. 6 para. 2 in force at 7.6.2006 by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/e)
 
-[^key-1e5a16ec8cf96cdbccc9434459d760bc]: Commencement: Sch. 6 para. 3 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-1e5a16ec8cf96cdbccc9434459d760bc]: Commencement: Sch. 6 para. 3 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-fc5f29e58490c59c793136317e60dea5]: Commencement: Sch. 6 para. 3 in force at 22.2.2010 in so far as not already in force by [S.I. 2010/321](https://www.legislation.gov.uk/uksi/2010/321), [art. 2](https://www.legislation.gov.uk/uksi/2010/321/article/2)
+[^c-fc5f29e58490c59c793136317e60dea5]: Commencement: Sch. 6 para. 3 in force at 22.2.2010 in so far as not already in force by [S.I. 2010/321](https://www.legislation.gov.uk/uksi/2010/321), [art. 2](https://www.legislation.gov.uk/uksi/2010/321/article/2)
 
-[^key-c7ab02251f4b109a64e1428a254910ce]: Textual amendment: Sch. 6 para. 5 repealed (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 225(1)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/225/1/b), [241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6), [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))
+[^c-c7ab02251f4b109a64e1428a254910ce]: Textual amendment: Sch. 6 para. 5 repealed (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 225(1)(b)](https://www.legislation.gov.uk/ukpga/2008/29/section/225/1/b), [241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6), [Sch. 13](https://www.legislation.gov.uk/ukpga/2008/29/schedule/13) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))
 
-[^key-eb94aefac0e8529f4728ecaebf9b2e17]: Commencement: Sch. 6 para. 7 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/c)
+[^c-eb94aefac0e8529f4728ecaebf9b2e17]: Commencement: Sch. 6 para. 7 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/c)
 
-[^key-0c9e6d2c4f65aa93aa12407d9d3f5165]: Commencement: Sch. 6 para. 8 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-0c9e6d2c4f65aa93aa12407d9d3f5165]: Commencement: Sch. 6 para. 8 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-ecff31d85a034a2341b64bd56a67a3de]: Commencement: Sch. 6 para. 8 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-ecff31d85a034a2341b64bd56a67a3de]: Commencement: Sch. 6 para. 8 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-f65514e555c0e0862426b46871de6418]: Commencement: Sch. 6 para. 9 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-f65514e555c0e0862426b46871de6418]: Commencement: Sch. 6 para. 9 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-cd1af6f48a481293378ef5890eed800e]: Commencement: Sch. 6 para. 9 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-cd1af6f48a481293378ef5890eed800e]: Commencement: Sch. 6 para. 9 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-494689ba371ab1234f43ccf3088be833]: Commencement: Sch. 6 para. 10 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-494689ba371ab1234f43ccf3088be833]: Commencement: Sch. 6 para. 10 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-dbc3677dc356b5debff1b4200520eced]: Commencement: Sch. 6 para. 10 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-dbc3677dc356b5debff1b4200520eced]: Commencement: Sch. 6 para. 10 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-2528f911886aed1829935cc229ef98ef]: Commencement: Sch. 6 para. 11 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-2528f911886aed1829935cc229ef98ef]: Commencement: Sch. 6 para. 11 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-b2c9283951fbd828ee225796dbb26dd6]: Commencement: Sch. 6 para. 11 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-b2c9283951fbd828ee225796dbb26dd6]: Commencement: Sch. 6 para. 11 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-f96cdbe23ea36a58109208f6d5ffcac4]: Commencement: Sch. 6 para. 12 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-f96cdbe23ea36a58109208f6d5ffcac4]: Commencement: Sch. 6 para. 12 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-28b8421e38e2da337a6485dffc3c8ea8]: Commencement: Sch. 6 para. 12 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-28b8421e38e2da337a6485dffc3c8ea8]: Commencement: Sch. 6 para. 12 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-3bfb87839b7c2defc59bd6a3fabdb215]: Commencement: Sch. 6 para. 13 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-3bfb87839b7c2defc59bd6a3fabdb215]: Commencement: Sch. 6 para. 13 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-efe51fa9941001b8ecea8f815c64c747]: Commencement: Sch. 6 para. 13 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-efe51fa9941001b8ecea8f815c64c747]: Commencement: Sch. 6 para. 13 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-12b748e5ee0bb3a3080824435c17a575]: Commencement: Sch. 6 para. 14 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-12b748e5ee0bb3a3080824435c17a575]: Commencement: Sch. 6 para. 14 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-e285749ec06d5e6b5d49fc9399b025e2]: Commencement: Sch. 6 para. 15 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-e285749ec06d5e6b5d49fc9399b025e2]: Commencement: Sch. 6 para. 15 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-ebb1ef56f3d3f2ebab40a3f8942a8f88]: Commencement: Sch. 6 para. 15 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-ebb1ef56f3d3f2ebab40a3f8942a8f88]: Commencement: Sch. 6 para. 15 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-b3193f38104b73d51690a085b44f757d]: Commencement: Sch. 6 para. 16 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-b3193f38104b73d51690a085b44f757d]: Commencement: Sch. 6 para. 16 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-591bc3d127d670c0e26ef26abdfc876e]: Commencement: Sch. 6 para. 16(1)(2) in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-591bc3d127d670c0e26ef26abdfc876e]: Commencement: Sch. 6 para. 16(1)(2) in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-674a4c8b7a1fa7c38efe676c4c6e3755]: Commencement: Sch. 6 para. 16(4) in force at 24.8.2005 for E. so far as not already in force by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/d/ii) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/4))
+[^c-674a4c8b7a1fa7c38efe676c4c6e3755]: Commencement: Sch. 6 para. 16(4) in force at 24.8.2005 for E. so far as not already in force by [S.I. 2005/2081](https://www.legislation.gov.uk/uksi/2005/2081), [art. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2005/2081/article/2/d/ii) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2005/2081/article/4/4))
 
-[^key-d7babca1e18b8b1d83db903cb70e118c]: Commencement: Sch. 6 para. 17 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-d7babca1e18b8b1d83db903cb70e118c]: Commencement: Sch. 6 para. 17 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-8ea9fa8d3fdeada27e8686feb3a5c453]: Commencement: Sch. 6 para. 17 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-8ea9fa8d3fdeada27e8686feb3a5c453]: Commencement: Sch. 6 para. 17 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-68b5ca51eba475e5caf26011d63339d0]: Commencement: Sch. 6 para. 18 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-68b5ca51eba475e5caf26011d63339d0]: Commencement: Sch. 6 para. 18 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-b054729fa383203c175d99bb6c465eb9]: Commencement: Sch. 6 para. 18 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-b054729fa383203c175d99bb6c465eb9]: Commencement: Sch. 6 para. 18 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-26344268b6c7905d1e74c62463793cc9]: Commencement: Sch. 6 para. 19 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-26344268b6c7905d1e74c62463793cc9]: Commencement: Sch. 6 para. 19 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-0b8d2ca57f04bf12f9bed97230c14dd7]: Commencement: Sch. 6 para. 19 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-0b8d2ca57f04bf12f9bed97230c14dd7]: Commencement: Sch. 6 para. 19 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-116fb070e2d91f1734cc981423147435]: Commencement: Sch. 6 para. 19 in force at 15.10.2005 for W. so far as not already in force by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-116fb070e2d91f1734cc981423147435]: Commencement: Sch. 6 para. 19 in force at 15.10.2005 for W. so far as not already in force by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-89be4caff8efc377dc081daedf980bb8]: Commencement: Sch. 6 para. 20 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-89be4caff8efc377dc081daedf980bb8]: Commencement: Sch. 6 para. 20 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-d3966354a015307a15ca3d26e6650679]: Commencement: Sch. 6 para. 20 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
+[^c-d3966354a015307a15ca3d26e6650679]: Commencement: Sch. 6 para. 20 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
 
-[^key-0e38d37d03beadf1131afe9c4880e72d]: Commencement: Sch. 6 para. 21 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-0e38d37d03beadf1131afe9c4880e72d]: Commencement: Sch. 6 para. 21 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-43174b724cb35fdcfa106ea02ef3d24c]: Commencement: Sch. 6 para. 21 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-43174b724cb35fdcfa106ea02ef3d24c]: Commencement: Sch. 6 para. 21 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-9b97c49345de15b9c8c81d4d57fc8558]: Commencement: Sch. 6 para. 22 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-9b97c49345de15b9c8c81d4d57fc8558]: Commencement: Sch. 6 para. 22 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-08671fcaa9bae99b1c99720a992aab91]: Commencement: Sch. 6 para. 22 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-08671fcaa9bae99b1c99720a992aab91]: Commencement: Sch. 6 para. 22 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-1d987e66f9f1b89755df0d36ee46b9ae]: Commencement: Sch. 6 para. 23 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-1d987e66f9f1b89755df0d36ee46b9ae]: Commencement: Sch. 6 para. 23 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-8a96910b9423df6e5d55c54019766231]: Commencement: Sch. 6 para. 23 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
+[^c-8a96910b9423df6e5d55c54019766231]: Commencement: Sch. 6 para. 23 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
 
-[^key-4a42099548909e1c6168b78b16715037]: Commencement: Sch. 6 para. 24 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-4a42099548909e1c6168b78b16715037]: Commencement: Sch. 6 para. 24 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-12a6da4b9c1f210605659b75f3438481]: Commencement: Sch. 6 para. 24 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
+[^c-12a6da4b9c1f210605659b75f3438481]: Commencement: Sch. 6 para. 24 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
 
-[^key-c61e7c72d9e4a2ff52b14182394cdec0]: Commencement: Sch. 6 para. 25 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
+[^c-c61e7c72d9e4a2ff52b14182394cdec0]: Commencement: Sch. 6 para. 25 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(h)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/h)
 
-[^key-0cce2f8c4ff6ab4c18ec95dc0bdca540]: Commencement: Sch. 6 para. 25 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
+[^c-0cce2f8c4ff6ab4c18ec95dc0bdca540]: Commencement: Sch. 6 para. 25 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/e)
 
-[^key-773f633685074fcae19739ee78cb26c3]: Commencement: Sch. 6 para. 26 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-773f633685074fcae19739ee78cb26c3]: Commencement: Sch. 6 para. 26 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-086c5bc80b42100a38922c84c3be0d38]: Commencement: Sch. 6 para. 26 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
+[^c-086c5bc80b42100a38922c84c3be0d38]: Commencement: Sch. 6 para. 26 in force at 28.9.2004 in so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/2202/article/3/e)
 
-[^key-616c6f7729b0d956479b1ef797b74250]: Commencement: Sch. 6 para. 27 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-616c6f7729b0d956479b1ef797b74250]: Commencement: Sch. 6 para. 27 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)

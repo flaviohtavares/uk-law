@@ -72,11 +72,11 @@ Provided that it shall not be lawful for a mortgagee without the leave of the co
 Where war damage occurs to—
 
 - (a) settled land; or
-- (b) land which by virtue of section twenty-nine of the [^c610323]Settled Land Act 1925 (which relates to certain land vested or to be vested in trustees for charitable, ecclesiastical or public trusts or purposes) is deemed to be settled land; [^key-8c08687956bd07a1af44ff2aa0261fbe]...
+- (b) land which by virtue of section twenty-nine of the [^c610323]Settled Land Act 1925 (which relates to certain land vested or to be vested in trustees for charitable, ecclesiastical or public trusts or purposes) is deemed to be settled land; [^c-8c08687956bd07a1af44ff2aa0261fbe]...
 - (c)[^c610324] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-8c08687956bd07a1af44ff2aa0261fbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8c08687956bd07a1af44ff2aa0261fbe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-the making good of the damage may be defrayed out of capital moneys, and accordingly shall, notwithstanding the provisions of any instrument, be deemed to be an improvement authorised by Part I of the Third Schedule to the [^c610326]Settled Land Act 1925[^key-dd9b0a84423f25289d43bc4e89d09088]....
+the making good of the damage may be defrayed out of capital moneys, and accordingly shall, notwithstanding the provisions of any instrument, be deemed to be an improvement authorised by Part I of the Third Schedule to the [^c610326]Settled Land Act 1925[^c-dd9b0a84423f25289d43bc4e89d09088]....
 
 ## Part II — Disclaimer and Retention of Leases
 
@@ -352,7 +352,7 @@ This Act binds the Crown, and shall apply to land belonging to His Majesty, or f
 
 ### 23. Provisions as to county courts.
 
-(1) Subject to the provisions of section one hundred and fifteen of the[^c610355] [^c610356]County Courts Act 1959 (which provides for the removal into the High Court of any proceedings commenced in the county court[^key-c98b50957ac84731c515e05ed9d1a2d6]), the jurisdiction of the court under this Act shall be exercised by the county court.
+(1) Subject to the provisions of section one hundred and fifteen of the[^c610355] [^c610356]County Courts Act 1959 (which provides for the removal into the High Court of any proceedings commenced in the county court[^c-c98b50957ac84731c515e05ed9d1a2d6]), the jurisdiction of the court under this Act shall be exercised by the county court.
 
 (2) In any proceedings under this Act, the powers of a judge of summoning one assessor under subsection (1) of section ninety-one of the [^c610358]County Courts Act 1959, may be exercised notwithstanding that no application is made in that behalf by any party to the proceedings.
 
@@ -398,13 +398,13 @@ In this Act unless the context otherwise requires the following expressions have
 
 [^c610323]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-8c08687956bd07a1af44ff2aa0261fbe]: Textual amendment: [S. 3(d)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/3/d) and word omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/3/a); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-8c08687956bd07a1af44ff2aa0261fbe]: Textual amendment: [S. 3(d)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/3/d) and word omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/3/a); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c610324]: Textual amendment: [S. 3(c)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/3/c) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
 [^c610326]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-dd9b0a84423f25289d43bc4e89d09088]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/3/b); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-dd9b0a84423f25289d43bc4e89d09088]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/3) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/3/b); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c610328]: Modification: [S. 4](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/4) restricted by [Landlord and Tenant (War Damage) (Amendment) Act 1941 (c. 41)](https://www.legislation.gov.uk/ukpga/1941/41), [s. 1(1)(9)](https://www.legislation.gov.uk/ukpga/1941/41/section/1/1/9); extended by ibid., s. 10(2)
 
@@ -436,7 +436,7 @@ In this Act unless the context otherwise requires the following expressions have
 
 [^c610356]: Marginal citation: [1959 c. 22](https://www.legislation.gov.uk/ukpga/1959/22).
 
-[^key-c98b50957ac84731c515e05ed9d1a2d6]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/23/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c98b50957ac84731c515e05ed9d1a2d6]: Textual amendment: Words in [s. 23(1)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/72/section/23/1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c610358]: Marginal citation: [1959 c. 22](https://www.legislation.gov.uk/ukpga/1959/22).
 

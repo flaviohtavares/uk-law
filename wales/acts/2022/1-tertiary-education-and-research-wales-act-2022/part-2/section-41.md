@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. De-registration[^key-74512bb683bd0fd24026e45bd3689a7c][^key-30039d0806ba726f54f8748c58110365][^key-32f5124364fcaa6626c15d87cf783b25]
+## 41. De-registration[^c-74512bb683bd0fd24026e45bd3689a7c][^c-30039d0806ba726f54f8748c58110365][^c-32f5124364fcaa6626c15d87cf783b25]
 
 *Extent: E+W*
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-74512bb683bd0fd24026e45bd3689a7c]: Commencement: S. 41 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-74512bb683bd0fd24026e45bd3689a7c]: Commencement: S. 41 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-30039d0806ba726f54f8748c58110365]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2022/1/section/41) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(x)](https://www.legislation.gov.uk/wsi/2023/919/article/3/x)
+[^c-30039d0806ba726f54f8748c58110365]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2022/1/section/41) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(x)](https://www.legislation.gov.uk/wsi/2023/919/article/3/x)
 
-[^key-32f5124364fcaa6626c15d87cf783b25]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2022/1/section/41) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/432/article/2/n)
+[^c-32f5124364fcaa6626c15d87cf783b25]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2022/1/section/41) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(n)](https://www.legislation.gov.uk/wsi/2025/432/article/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Suitability of adopters[^key-0c637c984c9fc822dc3f8023f2c49625]
+## 45. Suitability of adopters[^c-0c637c984c9fc822dc3f8023f2c49625]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c637c984c9fc822dc3f8023f2c49625]: Commencement: S. 45 in force at 7.12.2004 by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/g)
+[^c-0c637c984c9fc822dc3f8023f2c49625]: Commencement: S. 45 in force at 7.12.2004 by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/g)

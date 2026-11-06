@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Information to be kept about a person’s adoption[^key-d9022dfc067de251ff8d0696f134ce89]
+## 55. Information to be kept about a person’s adoption[^c-d9022dfc067de251ff8d0696f134ce89]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9022dfc067de251ff8d0696f134ce89]: Commencement: S. 55 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d9022dfc067de251ff8d0696f134ce89]: Commencement: S. 55 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -64,9 +64,9 @@ summary: ''
 - (f) the amendments and repeals made by this Act in sections 4(5A) to (6A) and 6(2) of the Maintenance Orders (Facilities for Enforcement) Act 1920, in sections 8(4) and 33(3) of the Maintenance Orders (Reciprocal Enforcement) Act 1972 and in section 14 of the Contempt of Court Act 1981;
 - (g) paragraphs 1 to 31 and 39 of Schedule 17, and section 45 so far as relating to those paragraphs.
 
-(14)[^key-6a146ac3bf0df09f6b7102bb9a68b674] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-6a146ac3bf0df09f6b7102bb9a68b674] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15) Except as provided by subsections (13) [^key-ba1fb005c924ebc35e043a4301dcd81e]..., an amendment, repeal or revocation has the same extent as the provision amended, repealed or revoked (ignoring extent by virtue of an Order in Council).
+(15) Except as provided by subsections (13) [^c-ba1fb005c924ebc35e043a4301dcd81e]..., an amendment, repeal or revocation has the same extent as the provision amended, repealed or revoked (ignoring extent by virtue of an Order in Council).
 
 (16) Subsection (15) applies to section 43 only so far as the provisions amended extend to England and Wales or apply in relation to service offences.
 
@@ -81,7 +81,7 @@ summary: ''
 - (a) any of the Channel Islands, or
 - (b) the Isle of Man.
 
-(21)[^key-39b064726725d054b5b861768873f78d] Her Majesty may by Order in Council provide for provisions of Part 8 of Schedule 16 (amendments of Armed Forces Act 2006) to extend, with or without modifications, to—
+(21)[^c-39b064726725d054b5b861768873f78d] Her Majesty may by Order in Council provide for provisions of Part 8 of Schedule 16 (amendments of Armed Forces Act 2006) to extend, with or without modifications, to—
 
 - (a) any of the Channel Islands,
 - (b) the Isle of Man, or
@@ -93,8 +93,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6a146ac3bf0df09f6b7102bb9a68b674]: Textual amendment: [S. 61(14)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/14) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-6a146ac3bf0df09f6b7102bb9a68b674]: Textual amendment: [S. 61(14)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/14) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-ba1fb005c924ebc35e043a4301dcd81e]: Textual amendment: Words in [s. 61(15)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/15) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-ba1fb005c924ebc35e043a4301dcd81e]: Textual amendment: Words in [s. 61(15)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/15) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-39b064726725d054b5b861768873f78d]: Modification: [S. 61(21)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/21) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(b)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/b) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))
+[^c-39b064726725d054b5b861768873f78d]: Modification: [S. 61(21)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/21) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(b)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/b) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))

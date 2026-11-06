@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154A. Information for research about online safety matters[^key-d5298c586af4740eab32b92b50802c06]
+## 154A. Information for research about online safety matters[^c-d5298c586af4740eab32b92b50802c06]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ and provision made by virtue of section 224(1) in connection with this section m
 (7) Before making regulations under this section the Secretary of State must consult—
 
 - (a) OFCOM,
-- (b) the Information Commission[^key-2e680a339143c02e2f0a68cad758774a],
+- (b) the Information Commission[^c-2e680a339143c02e2f0a68cad758774a],
 - (c) persons who appear to the Secretary of State to represent providers of regulated services,
 - (d) persons who appear to the Secretary of State to represent the interests of persons carrying out independent research into online safety matters, and
 - (e) such other persons as the Secretary of State considers appropriate.
@@ -80,6 +80,6 @@ and provision made by virtue of section 224(1) in connection with this section m
 
 ## Annotations
 
-[^key-d5298c586af4740eab32b92b50802c06]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/2023/50/section/154A) inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 125(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/125/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 125(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/125/5)); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/s)
+[^c-d5298c586af4740eab32b92b50802c06]: Textual amendment: [S. 154A](https://www.legislation.gov.uk/ukpga/2023/50/section/154A) inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 125(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/125/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 125(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/125/5)); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/s)
 
-[^key-2e680a339143c02e2f0a68cad758774a]: Textual amendment: Words in [s. 154A(7)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/154A/7/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-2e680a339143c02e2f0a68cad758774a]: Textual amendment: Words in [s. 154A(7)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/154A/7/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(i)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/i); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

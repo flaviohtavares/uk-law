@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Interpretation of Part 3[^key-63e48b7c4915bd460a8a4ec9e75aff2c]
+## 112. Interpretation of Part 3[^c-63e48b7c4915bd460a8a4ec9e75aff2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - “**member of staff**”, in relation to the ONR, is to be read in accordance with paragraph 2(2) of Schedule 7;
 - “**modify**” includes amend, repeal or revoke (and “modification” is to be read accordingly);
 - “**nuclear regulations**” has the meaning given by section 74(1);
-- “nuclear safeguards regulations” means regulations under section[^key-58dae9ecc30a83f0c35f5c913cfdbb87] 76A(1);
+- “nuclear safeguards regulations” means regulations under section[^c-58dae9ecc30a83f0c35f5c913cfdbb87] 76A(1);
 - “**nuclear site**” means—
   - (a) a site in respect of which a nuclear site licence is in force, or
   - (b) a site in respect of which a period of responsibility has not ended;
@@ -52,7 +52,7 @@ summary: ''
 - “**relevant power**” has the meaning given by paragraph 2 of Schedule 8;
 - “**relevant statutory provisions**” has the meaning given by section 82(2) (unless otherwise specified).
 
-(1A)[^key-10cbe6ae566e74f55143b2a93678534e] Relevant international agreement” means an agreement (whether or not ratified) to which the United Kingdom is a party and which—
+(1A)[^c-10cbe6ae566e74f55143b2a93678534e] Relevant international agreement” means an agreement (whether or not ratified) to which the United Kingdom is a party and which—
 
 - (a) relates to nuclear safeguards, and
 - (b) is specified in regulations under subsection (1B),
@@ -82,8 +82,8 @@ and a reference in this Part to a relevant international agreement is to the agr
 
 ## Annotations
 
-[^key-63e48b7c4915bd460a8a4ec9e75aff2c]: Commencement: S. 112 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-63e48b7c4915bd460a8a4ec9e75aff2c]: Commencement: S. 112 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-58dae9ecc30a83f0c35f5c913cfdbb87]: Textual amendment: Words in s. 112(1) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/3/a), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
+[^c-58dae9ecc30a83f0c35f5c913cfdbb87]: Textual amendment: Words in s. 112(1) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/3/a), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
 
-[^key-10cbe6ae566e74f55143b2a93678534e]: Textual amendment: S. 112(1A)-(1E) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/3/b), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
+[^c-10cbe6ae566e74f55143b2a93678534e]: Textual amendment: S. 112(1A)-(1E) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/3/b), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Protective provisions[^key-99b0cd7c363e714445aefa863852b881]
+## 62. Protective provisions[^c-99b0cd7c363e714445aefa863852b881]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 14 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-99b0cd7c363e714445aefa863852b881]: Commencement: Art. 62 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-99b0cd7c363e714445aefa863852b881]: Commencement: Art. 62 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

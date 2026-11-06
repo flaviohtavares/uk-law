@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Confidential information[^key-42532c0afd12181b9c74df861530d88f][^key-565bad60d7af6658262c4ed391eb82b3]
+## 5. Confidential information[^c-42532c0afd12181b9c74df861530d88f][^c-565bad60d7af6658262c4ed391eb82b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42532c0afd12181b9c74df861530d88f]: Commencement: Reg. 5 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-42532c0afd12181b9c74df861530d88f]: Commencement: Reg. 5 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
 
-[^key-565bad60d7af6658262c4ed391eb82b3]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/910/regulation/5) modified (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2022/113/regulation/7/3/b), [18](https://www.legislation.gov.uk/uksi/2022/113/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))
+[^c-565bad60d7af6658262c4ed391eb82b3]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/910/regulation/5) modified (2.3.2022) by [The Trade Remedies (Review and Reconsideration of Transitioned Trade Remedies) Regulations 2022 (S.I. 2022/113)](https://www.legislation.gov.uk/uksi/2022/113), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/113/regulation/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2022/113/regulation/7/3/b), [18](https://www.legislation.gov.uk/uksi/2022/113/regulation/18) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/113/regulation/3))

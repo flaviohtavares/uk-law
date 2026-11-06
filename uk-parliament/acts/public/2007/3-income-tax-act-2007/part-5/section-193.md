@@ -36,7 +36,7 @@ summary: ''
 - (a) it consists to a substantial extent—
   - (i) in dealing in goods of a kind which are collected or held as an investment, or
   - (ii) in that activity and any other excluded activity taken together, and
-- (b)[^key-1f7f0654727e6a298eff25b2af0a3ccd] a substantial proportion of those goods are held for a period which is significantly longer than the period for which the trader would reasonably be expected to hold them while trying to dispose of them at their market value.
+- (b)[^c-1f7f0654727e6a298eff25b2af0a3ccd] a substantial proportion of those goods are held for a period which is significantly longer than the period for which the trader would reasonably be expected to hold them while trying to dispose of them at their market value.
 
 (6) In determining whether a trade of wholesale or retail distribution is an ordinary trade of wholesale or retail distribution regard is to be had to the extent to which it has the following features—
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f7f0654727e6a298eff25b2af0a3ccd]: Modification: S. 193(5)(b) applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/44) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1f7f0654727e6a298eff25b2af0a3ccd]: Modification: S. 193(5)(b) applied (with modifications) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2/paragraph/44) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

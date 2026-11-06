@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Illegal working closure notices and illegal working compliance orders[^key-17831ebfc1da16ce1e044cfc52d4fe31]
+## 38. Illegal working closure notices and illegal working compliance orders[^c-17831ebfc1da16ce1e044cfc52d4fe31]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 (illegal working closure notices and illegal working compliance order
 
 ## Annotations
 
-[^key-17831ebfc1da16ce1e044cfc52d4fe31]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/19/section/38) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/b)
+[^c-17831ebfc1da16ce1e044cfc52d4fe31]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2016/19/section/38) in force at 1.12.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/b)

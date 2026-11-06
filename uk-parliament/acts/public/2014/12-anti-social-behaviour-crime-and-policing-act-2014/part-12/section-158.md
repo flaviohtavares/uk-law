@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Hostage-taking considerations[^key-e5d35af9ac67a0d0e1427d35fb220e70]
+## 158. Hostage-taking considerations[^c-e5d35af9ac67a0d0e1427d35fb220e70]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d35af9ac67a0d0e1427d35fb220e70]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2014/12/section/158) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/e)
+[^c-e5d35af9ac67a0d0e1427d35fb220e70]: Commencement: [S. 158](https://www.legislation.gov.uk/ukpga/2014/12/section/158) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/e)

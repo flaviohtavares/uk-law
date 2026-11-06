@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Power to enter and inspect premises[^key-b45404c0886992c6ff96483d861b0e66]
+## 247. Power to enter and inspect premises[^c-b45404c0886992c6ff96483d861b0e66]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ This is subject to section 249 (which provides that a warrant is necessary to en
 
 ## Annotations
 
-[^key-b45404c0886992c6ff96483d861b0e66]: Commencement: S. 247 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-b45404c0886992c6ff96483d861b0e66]: Commencement: S. 247 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

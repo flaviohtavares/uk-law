@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140B. Transfer schemes under sections 134 and 140A: general provisions[^key-d99e8910859d3fe9355b6fe88d3a2092]
+## 140B. Transfer schemes under sections 134 and 140A: general provisions[^c-d99e8910859d3fe9355b6fe88d3a2092]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99e8910859d3fe9355b6fe88d3a2092]: Textual amendment: Ss. 140A, 140B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/2), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
+[^c-d99e8910859d3fe9355b6fe88d3a2092]: Textual amendment: Ss. 140A, 140B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/2), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)

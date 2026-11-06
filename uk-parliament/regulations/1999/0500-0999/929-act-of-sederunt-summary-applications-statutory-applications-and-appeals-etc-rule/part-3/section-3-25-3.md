@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.25.3. Time limit for service of a notice under section 106(11)[^key-9c611f1286c715afd98421dc557c0ffb]
+## 3.25.3. Time limit for service of a notice under section 106(11)[^c-9c611f1286c715afd98421dc557c0ffb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c611f1286c715afd98421dc557c0ffb]: Textual amendment: [Ch. 3 Pt. 25](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/25) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/a) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))
+[^c-9c611f1286c715afd98421dc557c0ffb]: Textual amendment: [Ch. 3 Pt. 25](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/25) revoked (31.3.2023) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Sexual Harm Prevention Orders and Sexual Risk Orders) 2023 (S.S.I. 2023/62)](https://www.legislation.gov.uk/ssi/2023/62), [paras. 1(3)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/1/3), [3(1)(a)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/1/a) (with [para. 3(2)](https://www.legislation.gov.uk/ssi/2023/62/paragraph/3/2))

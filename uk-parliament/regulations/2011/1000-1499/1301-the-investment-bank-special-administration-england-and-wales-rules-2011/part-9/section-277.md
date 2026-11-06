@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 277. Appeal against decision of the Secretary of State[^key-937bf91f196344c8f63a1abdf3c7c162]
+## 277. Appeal against decision of the Secretary of State[^c-937bf91f196344c8f63a1abdf3c7c162]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ An appeal under the Regulations against a decision of the Secretary of State mus
 
 ## Annotations
 
-[^key-937bf91f196344c8f63a1abdf3c7c162]: Commencement: [Rule 277](https://www.legislation.gov.uk/uksi/2011/1301/rule/277) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-937bf91f196344c8f63a1abdf3c7c162]: Commencement: [Rule 277](https://www.legislation.gov.uk/uksi/2011/1301/rule/277) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

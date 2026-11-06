@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3B — Licence to Practise and Revalidation: Appeals[^key-1353a3d722c158d4e073a82cfffc06cb]
+## SCHEDULE 3B — Licence to Practise and Revalidation: Appeals[^c-1353a3d722c158d4e073a82cfffc06cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,14 +53,14 @@ in proceedings before a Registration Appeals Panel.
 - (a) securing that notice of the time and place of any hearing is given, at such time and in such manner as may be specified in the rules, to the medical practitioner to whom the proceedings relate;
 - (b) securing that any party to proceedings before a Registration Appeals Panel shall, if he so requires, be entitled to be heard by the Panel;
 - (c) enabling any party to the proceedings to be represented by counsel or solicitor, or (if the rules so provide and the party so elects) by a person of such other description as may be specified in the rules; and
-- (d) requiring proceedings to be held in public[^key-512542a84ea47bbc148de96afae0e644]..., unless and to the extent that the rules provide otherwise.
+- (d) requiring proceedings to be held in public[^c-512542a84ea47bbc148de96afae0e644]..., unless and to the extent that the rules provide otherwise.
 
 (3) In sub-paragraph (2) above, “party”, in relation to any proceedings, means—
 
 - (a) the medical practitioner to whom the proceedings relate; or
-- (b) [^key-30a4eae1e92c00956de193105e8fa366]...the General Council.
+- (b) [^c-30a4eae1e92c00956de193105e8fa366]...the General Council.
 
-(4) Paragraphs 2 and 7 of Schedule 4 to this Act shall apply in relation to proceedings before a Registration Appeals Panel as they apply in relation to proceedings before the Investigation Committee (where, in the case of paragraph 7, the Committee are considering giving a warning to a person)[^key-f16c68c5363b21f2692683b2c8a3981a].
+(4) Paragraphs 2 and 7 of Schedule 4 to this Act shall apply in relation to proceedings before a Registration Appeals Panel as they apply in relation to proceedings before the Investigation Committee (where, in the case of paragraph 7, the Committee are considering giving a warning to a person)[^c-f16c68c5363b21f2692683b2c8a3981a].
 
 (5) Rules under this paragraph shall not come into force until approved by order of the Privy Council.
 
@@ -146,7 +146,7 @@ and a Panel may make such orders as to costs (or, in Scotland, expenses) as they
 
 (2) Any such appeal must be made within the period of 28 days beginning with the day on which the practitioner is given notice under paragraph 7 above of the determination of the Registration Appeals Panel.
 
-(3) Any such appeal must be made in England and Wales to the county court or, in Northern Ireland,[^key-3a91d935e2917474620ecc61fd053541] to a county court or, in Scotland, to the sheriff.
+(3) Any such appeal must be made in England and Wales to the county court or, in Northern Ireland,[^c-3a91d935e2917474620ecc61fd053541] to a county court or, in Scotland, to the sheriff.
 
 (4) In sub-paragraph (3) above “the sheriff” means the sheriff in whose sheriffdom is situated the address—
 
@@ -163,12 +163,12 @@ and may make such orders as to costs (or, in Scotland, expenses) as it (or he) t
 
 ## Annotations
 
-[^key-1353a3d722c158d4e073a82cfffc06cb]: Textual amendment: Sch. 3B inserted (24.1.2005 for the insertion of Sch. 3B para. 3(1)-(3)(5)-(8) as notified in the London Gazette dated 14.1.2005, 16.11.2009 in so far as not already in force as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [11](https://www.legislation.gov.uk/uksi/2002/3135/article/11) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-1353a3d722c158d4e073a82cfffc06cb]: Textual amendment: Sch. 3B inserted (24.1.2005 for the insertion of Sch. 3B para. 3(1)-(3)(5)-(8) as notified in the London Gazette dated 14.1.2005, 16.11.2009 in so far as not already in force as notified in the London Gazette dated 21.8.2009) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/3), [11](https://www.legislation.gov.uk/uksi/2002/3135/article/11) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-512542a84ea47bbc148de96afae0e644]: Textual amendment: Words in Sch. 3B para. 3(2)(d) omitted (19.7.2006, 9.9.2009 in so far as not already in force as notified in the London Gazette dated 21.8.2009) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [67](https://www.legislation.gov.uk/uksi/2006/1914/article/67)
+[^c-512542a84ea47bbc148de96afae0e644]: Textual amendment: Words in Sch. 3B para. 3(2)(d) omitted (19.7.2006, 9.9.2009 in so far as not already in force as notified in the London Gazette dated 21.8.2009) by virtue of [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [67](https://www.legislation.gov.uk/uksi/2006/1914/article/67)
 
-[^key-30a4eae1e92c00956de193105e8fa366]: Textual amendment: Words in [Sch. 3B para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/3B/paragraph/3/3/b) omitted (31.12.2015) by virtue of [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [26(1)](https://www.legislation.gov.uk/uksi/2015/794/article/26/1); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
+[^c-30a4eae1e92c00956de193105e8fa366]: Textual amendment: Words in [Sch. 3B para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/3B/paragraph/3/3/b) omitted (31.12.2015) by virtue of [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [26(1)](https://www.legislation.gov.uk/uksi/2015/794/article/26/1); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
 
-[^key-f16c68c5363b21f2692683b2c8a3981a]: Textual amendment: Words in [Sch. 3B para. 3(4)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/3B/paragraph/3/4) substituted (31.12.2015) by [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [23(2)](https://www.legislation.gov.uk/uksi/2015/794/article/23/2); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
+[^c-f16c68c5363b21f2692683b2c8a3981a]: Textual amendment: Words in [Sch. 3B para. 3(4)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/3B/paragraph/3/4) substituted (31.12.2015) by [The General Medical Council (Fitness to Practise and Over-arching Objective) and the Professional Standards Authority for Health and Social Care (References to Court) Order 2015 (S.I. 2015/794)](https://www.legislation.gov.uk/uksi/2015/794), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/794/article/1/3), [23(2)](https://www.legislation.gov.uk/uksi/2015/794/article/23/2); [S.I. 2015/1952](https://www.legislation.gov.uk/uksi/2015/1952), [art. 2(o)](https://www.legislation.gov.uk/uksi/2015/1952/article/2/o)
 
-[^key-3a91d935e2917474620ecc61fd053541]: Textual amendment: Words in [Sch. 3B para. 8(3)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/3B/paragraph/8/3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 110](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/110); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3a91d935e2917474620ecc61fd053541]: Textual amendment: Words in [Sch. 3B para. 8(3)](https://www.legislation.gov.uk/ukpga/1983/54/schedule/3B/paragraph/8/3) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 110](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/110); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

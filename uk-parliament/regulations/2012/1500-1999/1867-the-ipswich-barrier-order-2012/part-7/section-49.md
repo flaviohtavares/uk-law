@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Power to transfer undertaking[^key-33dce398e5b8b65919804f09c6fefd21]
+## 49. Power to transfer undertaking[^c-33dce398e5b8b65919804f09c6fefd21]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33dce398e5b8b65919804f09c6fefd21]: Commencement: Art. 49 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-33dce398e5b8b65919804f09c6fefd21]: Commencement: Art. 49 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

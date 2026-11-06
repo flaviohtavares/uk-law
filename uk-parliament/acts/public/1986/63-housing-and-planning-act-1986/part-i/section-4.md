@@ -165,7 +165,7 @@ summary: ''
 
 .
 
-(6)[^key-fd6945cf70bc9af27adbd540e29cb8f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fd6945cf70bc9af27adbd540e29cb8f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -177,4 +177,4 @@ summary: ''
 
 [^c11871731]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-fd6945cf70bc9af27adbd540e29cb8f6]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1986/63/section/4/6) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-fd6945cf70bc9af27adbd540e29cb8f6]: Textual amendment: [S. 4(6)](https://www.legislation.gov.uk/ukpga/1986/63/section/4/6) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

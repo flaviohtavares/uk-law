@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Transitional provisions: approvals granted under article 17(1) of the 2005 Order or the 2015 Order[^key-22e9d2ce7cbe268c2c45c4eacb540d27]
+## 54. Transitional provisions: approvals granted under article 17(1) of the 2005 Order or the 2015 Order[^c-22e9d2ce7cbe268c2c45c4eacb540d27]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e9d2ce7cbe268c2c45c4eacb540d27]: Commencement: Reg. 54 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-22e9d2ce7cbe268c2c45c4eacb540d27]: Commencement: Reg. 54 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)

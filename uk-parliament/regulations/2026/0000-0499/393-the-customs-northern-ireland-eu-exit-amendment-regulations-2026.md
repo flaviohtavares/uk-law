@@ -48,11 +48,11 @@ Coming into force
 
 The Treasury make these Regulations in exercise of the powers conferred by sections 30B(3) and (4)(a), 32(7) and (8)(a), (b) and (c), 40(7)(a), (b) and (c) and 40B(2), (3)(b) and (5) of the Taxation (Cross-border Trade) Act 2018[^f00001].
 
-## 1. Citation and commencement[^key-4d0440884cae721b2859c6c2e93e45ce]
+## 1. Citation and commencement[^c-4d0440884cae721b2859c6c2e93e45ce]
 
-These Regulations may be cited as the Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2026 and come into force on 25th May[^key-ed9d681cd29057f9d6d2f2bd437b3c20] 2026.
+These Regulations may be cited as the Customs (Northern Ireland) (EU Exit) (Amendment) Regulations 2026 and come into force on 25th May[^c-ed9d681cd29057f9d6d2f2bd437b3c20] 2026.
 
-## 2. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^key-4f9948107f057c4cf5019a26df4b195e]
+## 2. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^c-4f9948107f057c4cf5019a26df4b195e]
 
 (1) The Customs (Northern Ireland) (EU Exit) Regulations 2020[^f00002] are amended as follows.
 
@@ -333,11 +333,11 @@ A Tax Information and Impact Note (TIIN) covering this instrument will be publis
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Section 30B was inserted by section 2(1) and (4) of the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26) (“**the 2020 Act**”). Sections 40A and 40B were inserted by section 1 of the 2020 Act.
 
-[^key-4d0440884cae721b2859c6c2e93e45ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/393/regulation/1) in force at 25.5.2026 (as amended by [S.I. 2026/418](https://www.legislation.gov.uk/uksi/2026/418), [reg. 2](https://www.legislation.gov.uk/uksi/2026/418/regulation/2)), see [reg. 1](https://www.legislation.gov.uk/uksi/2026/418/regulation/1)
+[^c-4d0440884cae721b2859c6c2e93e45ce]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2026/393/regulation/1) in force at 25.5.2026 (as amended by [S.I. 2026/418](https://www.legislation.gov.uk/uksi/2026/418), [reg. 2](https://www.legislation.gov.uk/uksi/2026/418/regulation/2)), see [reg. 1](https://www.legislation.gov.uk/uksi/2026/418/regulation/1)
 
-[^key-ed9d681cd29057f9d6d2f2bd437b3c20]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2026/393/regulation/1) substituted (19.4.2026) by [The Customs (Northern Ireland) (EU Exit) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/418)](https://www.legislation.gov.uk/uksi/2026/418), [regs. 1](https://www.legislation.gov.uk/uksi/2026/418/regulation/1), [2](https://www.legislation.gov.uk/uksi/2026/418/regulation/2)
+[^c-ed9d681cd29057f9d6d2f2bd437b3c20]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2026/393/regulation/1) substituted (19.4.2026) by [The Customs (Northern Ireland) (EU Exit) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/418)](https://www.legislation.gov.uk/uksi/2026/418), [regs. 1](https://www.legislation.gov.uk/uksi/2026/418/regulation/1), [2](https://www.legislation.gov.uk/uksi/2026/418/regulation/2)
 
-[^key-4f9948107f057c4cf5019a26df4b195e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/393/regulation/2) in force at 25.5.2026 (as amended by [S.I. 2026/418](https://www.legislation.gov.uk/uksi/2026/418), [reg. 2](https://www.legislation.gov.uk/uksi/2026/418/regulation/2)), see [reg. 1](https://www.legislation.gov.uk/uksi/2026/418/regulation/1)
+[^c-4f9948107f057c4cf5019a26df4b195e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2026/393/regulation/2) in force at 25.5.2026 (as amended by [S.I. 2026/418](https://www.legislation.gov.uk/uksi/2026/418), [reg. 2](https://www.legislation.gov.uk/uksi/2026/418/regulation/2)), see [reg. 1](https://www.legislation.gov.uk/uksi/2026/418/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605); relevant amending instruments are [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629), [2023/618](https://www.legislation.gov.uk/uksi/2023/618), [2023/958](https://www.legislation.gov.uk/uksi/2023/958) and [2024/672](https://www.legislation.gov.uk/uksi/2024/672).
 

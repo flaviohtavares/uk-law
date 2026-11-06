@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) Order 2009 (revoked)[^key-7f87945550340a4d31c94d585b06afa1]
+The Mutual Recognition of Criminal Financial Penalties in the European Union (Scotland) Order 2009 (revoked)[^c-7f87945550340a4d31c94d585b06afa1]
 
 Made
 
@@ -42,45 +42,45 @@ Coming into force
 
 12th October 2009
 
-[^key-7f87945550340a4d31c94d585b06afa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7f87945550340a4d31c94d585b06afa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-7f87945550340a4d31c94d585b06afa1]
+## PART I — GENERAL[^c-7f87945550340a4d31c94d585b06afa1]
 
-### 1. Citation, commencement and interpretation[^key-7f87945550340a4d31c94d585b06afa1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Application[^key-7f87945550340a4d31c94d585b06afa1]
+### 1. Citation, commencement and interpretation[^c-7f87945550340a4d31c94d585b06afa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — AMENDMENT OF THE CRIMINAL PROCEDURE (SCOTLAND) ACT 1995[^key-7f87945550340a4d31c94d585b06afa1]
-
-### 3. The mutual recognition of criminal financial penalties[^key-7f87945550340a4d31c94d585b06afa1]
+### 2. Application[^c-7f87945550340a4d31c94d585b06afa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Requests for recognition of financial penalties to other member States: fines enforcement officers and their functions[^key-7f87945550340a4d31c94d585b06afa1]
+## PART II — AMENDMENT OF THE CRIMINAL PROCEDURE (SCOTLAND) ACT 1995[^c-7f87945550340a4d31c94d585b06afa1]
+
+### 3. The mutual recognition of criminal financial penalties[^c-7f87945550340a4d31c94d585b06afa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Requests for recognition of financial penalties from other member States: fines enforcement officers and their functions[^key-7f87945550340a4d31c94d585b06afa1]
+### 4. Requests for recognition of financial penalties to other member States: fines enforcement officers and their functions[^c-7f87945550340a4d31c94d585b06afa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Consequential amendment: fines enforcement officers and their functions[^key-7f87945550340a4d31c94d585b06afa1]
+### 5. Requests for recognition of financial penalties from other member States: fines enforcement officers and their functions[^c-7f87945550340a4d31c94d585b06afa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of the Criminal Procedure (Scotland) Act 1995: supplementary provisions[^key-7f87945550340a4d31c94d585b06afa1]
+### 6. Consequential amendment: fines enforcement officers and their functions[^c-7f87945550340a4d31c94d585b06afa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7f87945550340a4d31c94d585b06afa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 7. Amendment of the Criminal Procedure (Scotland) Act 1995: supplementary provisions[^c-7f87945550340a4d31c94d585b06afa1]
 
-[^key-7f87945550340a4d31c94d585b06afa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-7f87945550340a4d31c94d585b06afa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7f87945550340a4d31c94d585b06afa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -88,4 +88,4 @@ Coming into force
 
 ## Annotations
 
-[^key-7f87945550340a4d31c94d585b06afa1]: Textual amendment: Order revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [5(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/b)
+[^c-7f87945550340a4d31c94d585b06afa1]: Textual amendment: Order revoked (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [5(b)](https://www.legislation.gov.uk/ssi/2020/339/regulation/5/b)

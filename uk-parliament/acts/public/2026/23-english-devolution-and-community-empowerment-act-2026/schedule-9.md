@@ -22,11 +22,11 @@ summary: ''
 
 Section 26
 
-### 1. Introduction[^key-132f4880dc687fe970db027fb5186a14][^key-db16eff67de3f49b5acf45883fafd017]
+### 1. Introduction[^c-132f4880dc687fe970db027fb5186a14][^c-db16eff67de3f49b5acf45883fafd017]
 
 The New Roads and Street Works Act 1991 is amended in accordance with this Schedule.
 
-### 2. Approval of local highway authorities to make charges[^key-e746ec4f6bf4c6f32bd221b733de8f43][^key-b48493b9a1a5ee5c06d03e7673a686a2]
+### 2. Approval of local highway authorities to make charges[^c-e746ec4f6bf4c6f32bd221b733de8f43][^c-b48493b9a1a5ee5c06d03e7673a686a2]
 
 (1) In section 74A (charge determined by reference to duration of works), in subsection (2), for the words from “unless” to the end substitute “unless it has been approved for the purposes of the regulations by an order made by the appropriate person (see section 74B(2) to (6)).”
 
@@ -80,13 +80,13 @@ The New Roads and Street Works Act 1991 is amended in accordance with this Sched
   >   - (b) subsequently (in relation to a mayoral combined authority or mayoral CCA that is established, or that becomes a mayoral combined authority or mayoral CCA, after the 2026 Act commencement);
   > - “**2026 Act commencement**” means the coming into force of paragraph 2 of Schedule 9 to the English Devolution and Community Empowerment Act 2026.
 
-### 3. Power to charge: extension to charge for road works[^key-56eafa212af3fc76f915455e8bcdc2c4]
+### 3. Power to charge: extension to charge for road works[^c-56eafa212af3fc76f915455e8bcdc2c4]
 
 **Not yet in force.**
 
 In the heading of Part 3, after “street works” insert “etc”.
 
-**4.**[^key-9797252861216197f0c482750c57c313] In section 74A (charge determined by reference to duration of works), in subsection (1), for “requiring an undertaker executing street works in a maintainable highway to pay” substitute
+**4.**[^c-9797252861216197f0c482750c57c313] In section 74A (charge determined by reference to duration of works), in subsection (1), for “requiring an undertaker executing street works in a maintainable highway to pay” substitute
 
 > requiring—
 >
@@ -99,14 +99,14 @@ In the heading of Part 3, after “street works” insert “etc”.
 
 ## Annotations
 
-[^key-132f4880dc687fe970db027fb5186a14]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-132f4880dc687fe970db027fb5186a14]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-db16eff67de3f49b5acf45883fafd017]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/9/paragraph/1) in force at 29.10.2026 for specified purposes by [S.I. 2026/1127](https://www.legislation.gov.uk/uksi/2026/1127), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1127/regulation/2/b)
+[^c-db16eff67de3f49b5acf45883fafd017]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/9/paragraph/1) in force at 29.10.2026 for specified purposes by [S.I. 2026/1127](https://www.legislation.gov.uk/uksi/2026/1127), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1127/regulation/2/b)
 
-[^key-e746ec4f6bf4c6f32bd221b733de8f43]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-e746ec4f6bf4c6f32bd221b733de8f43]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-b48493b9a1a5ee5c06d03e7673a686a2]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/9/paragraph/2) in force at 29.10.2026 by [S.I. 2026/1127](https://www.legislation.gov.uk/uksi/2026/1127), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1127/regulation/2/c)
+[^c-b48493b9a1a5ee5c06d03e7673a686a2]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/9/paragraph/2) in force at 29.10.2026 by [S.I. 2026/1127](https://www.legislation.gov.uk/uksi/2026/1127), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1127/regulation/2/c)
 
-[^key-56eafa212af3fc76f915455e8bcdc2c4]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-56eafa212af3fc76f915455e8bcdc2c4]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
 
-[^key-9797252861216197f0c482750c57c313]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-9797252861216197f0c482750c57c313]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

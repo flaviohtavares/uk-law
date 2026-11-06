@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Application of Part to pension adjustment orders[^key-963422ebe4afc2b4e0a5871d69f243f7]
+## 99. Application of Part to pension adjustment orders[^c-963422ebe4afc2b4e0a5871d69f243f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-963422ebe4afc2b4e0a5871d69f243f7]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2014/1964/regulation/99) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-963422ebe4afc2b4e0a5871d69f243f7]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2014/1964/regulation/99) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00063]: Footnote: Number 26 of 1995 of the Acts of the Oireachtas of the Republic of Ireland.

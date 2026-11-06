@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Publication and inspection of lists[^key-d3642ae7b13154eb66a2677b47c29968]
+## 94. Publication and inspection of lists[^c-d3642ae7b13154eb66a2677b47c29968]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3642ae7b13154eb66a2677b47c29968]: Commencement: S. 94 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-d3642ae7b13154eb66a2677b47c29968]: Commencement: S. 94 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

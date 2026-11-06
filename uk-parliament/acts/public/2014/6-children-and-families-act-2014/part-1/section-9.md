@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Contact: post-adoption[^key-120192e60f94eaf9f216febbd2c7f360]
+## 9. Contact: post-adoption[^c-120192e60f94eaf9f216febbd2c7f360]
 
 *Extent: E+W*
 
@@ -149,4 +149,4 @@ summary: ''
 
 ## Annotations
 
-[^key-120192e60f94eaf9f216febbd2c7f360]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/6/section/9) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)
+[^c-120192e60f94eaf9f216febbd2c7f360]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2014/6/section/9) in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/889/article/4/a) (with transitional provisions in S.I. 2014/1042, arts. 3, 4, 6-10)

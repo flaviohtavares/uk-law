@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Authorisation for the year ending 31 March 2024
 
-### 1. Use of resources[^key-567a178bf9aefe22ac67a7193a20525c]
+### 1. Use of resources[^c-567a178bf9aefe22ac67a7193a20525c]
 
 (1) For the purposes of section 6(1) of the 2001 Act, this section and section 2 authorise the use of resources in the year ending 31 March 2024.
 
@@ -59,7 +59,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (a) £26,071,663,000 is authorised for use for current purposes, and
 - (b) £2,746,165,000 is authorised for use for capital purposes.
 
-### 2. Limits on use of resources[^key-03dbf2315c077153900475fcefa52f97]
+### 2. Limits on use of resources[^c-03dbf2315c077153900475fcefa52f97]
 
 (1) Schedule 1 contains estimates relating to the persons mentioned in section 1(3) for the year ending 31 March 2024 (“Schedule 1 estimates”).
 
@@ -92,11 +92,11 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 In relation to any amount of resource specified in column 2 of Part 1 of a Schedule 1 estimate, any increase or decrease by virtue of this section in the amount authorised is given in column 3 of that Part.
 
-### 3. Issue of sum out of the Consolidated Fund[^key-15e5d1d644490f7fb0a0da9ba19226f5]
+### 3. Issue of sum out of the Consolidated Fund[^c-15e5d1d644490f7fb0a0da9ba19226f5]
 
 The Department may issue out of the Consolidated Fund and apply to the service of the year ending 31 March 2024 the sum of £23,937,688,000.
 
-### 4. Use of sum issued out of the Consolidated Fund[^key-0d7025ae2df4254932ff30b7921434fd]
+### 4. Use of sum issued out of the Consolidated Fund[^c-0d7025ae2df4254932ff30b7921434fd]
 
 (1) The sum that the Department may issue out of the Consolidated Fund under section 3 may be used for the year ending 31 March 2024 in accordance with subsection (2).
 
@@ -104,7 +104,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (3) The authorisations in this section and in section 3 supersede those made by sections 3 and 4 of the Northern Ireland Budget (No.2) Act 2023, which total £22,790,893,000.
 
-### 5. Power to borrow[^key-5da7260dd2bab113807f526eb90a1236]
+### 5. Power to borrow[^c-5da7260dd2bab113807f526eb90a1236]
 
 (1) The Department may borrow on the credit of the sum specified in section 3 any sum or sums not exceeding in total £11,968,844,000.
 
@@ -114,7 +114,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 (4) Any money borrowed under that section and outstanding on the day on which this section comes into operation is to be treated as having been borrowed under this section.
 
-### 6. Use of income[^key-c236cb8b26cf6bf06febfe7c6446801f]
+### 6. Use of income[^c-c236cb8b26cf6bf06febfe7c6446801f]
 
 (1) In the year ending 31 March 2024, a person mentioned in section 1(3) may use income from a source specified in Part 3 of the Schedule 1 estimate relating to that person for a purpose specified in Part 2 of the estimate; but this is subject to subsections (2) to (5).
 
@@ -144,7 +144,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 
 ## Authorisation for the year ending 31 March 2025
 
-### 7. Use of resources[^key-1416f6daf7673d60961f32a0a94c1716]
+### 7. Use of resources[^c-1416f6daf7673d60961f32a0a94c1716]
 
 (1) For the purposes of section 6(1) of the 2001 Act, this section and section 8 authorise the use of resources in the year ending 31 March 2025.
 
@@ -165,7 +165,7 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 - (a) £16,946,596,000 is authorised for use for current purposes, and
 - (b) £1,785,015,000 is authorised for use for capital purposes.
 
-### 8. Limits on use of resources[^key-ba8be0e52e24650b73b7375c951c8e06]
+### 8. Limits on use of resources[^c-ba8be0e52e24650b73b7375c951c8e06]
 
 (1) Schedule 2 contains estimates relating to the persons mentioned in section 7(3) for the year ending 31 March 2025 (“Schedule 2 estimates”).
 
@@ -194,23 +194,23 @@ The Department may issue out of the Consolidated Fund and apply to the service o
 - (b) annually managed expenditure;
 - (c) non-budget expenditure.
 
-### 9. Issue of sum out of the Consolidated Fund[^key-dab966eb47a18255ef157e4360e8d226]
+### 9. Issue of sum out of the Consolidated Fund[^c-dab966eb47a18255ef157e4360e8d226]
 
 The Department may issue out of the Consolidated Fund and apply to the service of the year ending 31 March 2025 the sum of £15,724,763,000.
 
-### 10. Use of sum issued out of the Consolidated Fund[^key-0d714f49dccbbdeee9b5f93d7348268e]
+### 10. Use of sum issued out of the Consolidated Fund[^c-0d714f49dccbbdeee9b5f93d7348268e]
 
 (1) The sum that the Department may issue out of the Consolidated Fund under section 9 may be used for the year ending 31 March 2025 in accordance with subsection (2).
 
 (2) The sum specified in Part 1 of a Schedule 2 estimate as a money requirement may be used by the person to whom the estimate relates for the purposes specified in Part 2 of the estimate.
 
-### 11. Power to borrow[^key-026efe8466b7db651387609cb61a936b]
+### 11. Power to borrow[^c-026efe8466b7db651387609cb61a936b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Supplementary
 
-### 12. Interpretation[^key-3cee2f9e92b071251f52d4abbc004c05]
+### 12. Interpretation[^c-3cee2f9e92b071251f52d4abbc004c05]
 
 In this Act—
 
@@ -221,13 +221,13 @@ In this Act—
 - “**Schedule 2 estimate**” has the meaning given in section 8(1);
 - “**statutory provision**” has the same meaning as in section 1(f) of the Interpretation Act (Northern Ireland) 1954.
 
-### 13. Short title[^key-b18d297f00081ffc00709a910a0388d5]
+### 13. Short title[^c-b18d297f00081ffc00709a910a0388d5]
 
 This Act may be cited as the Budget Act (Northern Ireland) 2024.
 
 SCHEDULES
 
-## SCHEDULE 1 — Estimates for the year ending 31 March 2024[^key-66950740dc9c837cdcd9943f7340b62f]
+## SCHEDULE 1 — Estimates for the year ending 31 March 2024[^c-66950740dc9c837cdcd9943f7340b62f]
 
 Sections 2, 4 and 6
 
@@ -1105,7 +1105,7 @@ Income arising from:
 
 Costs awarded and court costs recovered by the NI Court and Tribunals Service on behalf of the Public Prosecution Service for Northern Ireland; receipts from services provided to departments and other public bodies; payments from the Department of Justice under the Asset Recovery Incentivisation Scheme.
 
-## SCHEDULE 2 — Estimates for the year ending 31 March 2025[^key-e11da1d8dbf79b43e55c0a8f0313f629]
+## SCHEDULE 2 — Estimates for the year ending 31 March 2025[^c-e11da1d8dbf79b43e55c0a8f0313f629]
 
 Sections 8 and 10
 
@@ -1799,32 +1799,32 @@ Pension liabilities; provisions; other non-cash costs.
 
 ## Annotations
 
-[^key-567a178bf9aefe22ac67a7193a20525c]: Commencement: S. 1 in operation at Royal Assent
+[^c-567a178bf9aefe22ac67a7193a20525c]: Commencement: S. 1 in operation at Royal Assent
 
-[^key-03dbf2315c077153900475fcefa52f97]: Commencement: S. 2 in operation at Royal Assent
+[^c-03dbf2315c077153900475fcefa52f97]: Commencement: S. 2 in operation at Royal Assent
 
-[^key-15e5d1d644490f7fb0a0da9ba19226f5]: Commencement: S. 3 in operation at Royal Assent
+[^c-15e5d1d644490f7fb0a0da9ba19226f5]: Commencement: S. 3 in operation at Royal Assent
 
-[^key-0d7025ae2df4254932ff30b7921434fd]: Commencement: S. 4 in operation at Royal Assent
+[^c-0d7025ae2df4254932ff30b7921434fd]: Commencement: S. 4 in operation at Royal Assent
 
-[^key-5da7260dd2bab113807f526eb90a1236]: Commencement: S. 5 in operation at Royal Assent
+[^c-5da7260dd2bab113807f526eb90a1236]: Commencement: S. 5 in operation at Royal Assent
 
-[^key-c236cb8b26cf6bf06febfe7c6446801f]: Commencement: S. 6 in operation at Royal Assent
+[^c-c236cb8b26cf6bf06febfe7c6446801f]: Commencement: S. 6 in operation at Royal Assent
 
-[^key-1416f6daf7673d60961f32a0a94c1716]: Commencement: S. 7 in operation at Royal Assent
+[^c-1416f6daf7673d60961f32a0a94c1716]: Commencement: S. 7 in operation at Royal Assent
 
-[^key-ba8be0e52e24650b73b7375c951c8e06]: Commencement: S. 8 in operation at Royal Assent
+[^c-ba8be0e52e24650b73b7375c951c8e06]: Commencement: S. 8 in operation at Royal Assent
 
-[^key-dab966eb47a18255ef157e4360e8d226]: Commencement: S. 9 in operation at Royal Assent
+[^c-dab966eb47a18255ef157e4360e8d226]: Commencement: S. 9 in operation at Royal Assent
 
-[^key-0d714f49dccbbdeee9b5f93d7348268e]: Commencement: S. 10 in operation at Royal Assent
+[^c-0d714f49dccbbdeee9b5f93d7348268e]: Commencement: S. 10 in operation at Royal Assent
 
-[^key-026efe8466b7db651387609cb61a936b]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2024/1/section/11) omitted (18.10.2024) by virtue of [Budget (No. 2) Act (Northern Ireland) 2024 (c. 4)](https://www.legislation.gov.uk/nia/2024/4), [s. 5(3)](https://www.legislation.gov.uk/nia/2024/4/section/5/3)
+[^c-026efe8466b7db651387609cb61a936b]: Textual amendment: [S. 11](https://www.legislation.gov.uk/nia/2024/1/section/11) omitted (18.10.2024) by virtue of [Budget (No. 2) Act (Northern Ireland) 2024 (c. 4)](https://www.legislation.gov.uk/nia/2024/4), [s. 5(3)](https://www.legislation.gov.uk/nia/2024/4/section/5/3)
 
-[^key-3cee2f9e92b071251f52d4abbc004c05]: Commencement: S. 12 in operation at Royal Assent
+[^c-3cee2f9e92b071251f52d4abbc004c05]: Commencement: S. 12 in operation at Royal Assent
 
-[^key-b18d297f00081ffc00709a910a0388d5]: Commencement: S. 13 in operation at Royal Assent
+[^c-b18d297f00081ffc00709a910a0388d5]: Commencement: S. 13 in operation at Royal Assent
 
-[^key-66950740dc9c837cdcd9943f7340b62f]: Commencement: Sch. 1 in operation at Royal Assent
+[^c-66950740dc9c837cdcd9943f7340b62f]: Commencement: Sch. 1 in operation at Royal Assent
 
-[^key-e11da1d8dbf79b43e55c0a8f0313f629]: Commencement: Sch. 2 in operation at Royal Assent
+[^c-e11da1d8dbf79b43e55c0a8f0313f629]: Commencement: Sch. 2 in operation at Royal Assent

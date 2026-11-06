@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Other conditions of recognition[^key-9014ff65acd4e7cae74ff7f4696ea1fa]
+## 135. Other conditions of recognition[^c-9014ff65acd4e7cae74ff7f4696ea1fa]
 
 *Extent: E+W+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9014ff65acd4e7cae74ff7f4696ea1fa]: Commencement: S. 135 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-9014ff65acd4e7cae74ff7f4696ea1fa]: Commencement: S. 135 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

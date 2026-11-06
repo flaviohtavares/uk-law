@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E22. Family benefits generally[^key-147a13faaf46f1e7d21d057f2a0b6dee]
+## E22. Family benefits generally[^c-147a13faaf46f1e7d21d057f2a0b6dee]
 
 *Extent: N.I.*
 
@@ -59,4 +59,4 @@ and who is a child within the meaning given in paragraphs (6) to (8).
 
 ## Annotations
 
-[^key-147a13faaf46f1e7d21d057f2a0b6dee]: Commencement: Reg. E22 in operation at 2.11.1998, see reg. A1
+[^c-147a13faaf46f1e7d21d057f2a0b6dee]: Commencement: Reg. E22 in operation at 2.11.1998, see reg. A1

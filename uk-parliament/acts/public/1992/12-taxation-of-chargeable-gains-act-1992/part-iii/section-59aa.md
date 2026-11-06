@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59AA. Limited liability partnerships: deemed disposal[^key-4d39e67f5608695b958a39ca3067f7b1]
+## 59AA. Limited liability partnerships: deemed disposal[^c-4d39e67f5608695b958a39ca3067f7b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4d39e67f5608695b958a39ca3067f7b1]: Textual amendment: [S. 59AA](https://www.legislation.gov.uk/ukpga/1992/12/section/59AA) inserted (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 80(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/80/1)
+[^c-4d39e67f5608695b958a39ca3067f7b1]: Textual amendment: [S. 59AA](https://www.legislation.gov.uk/ukpga/1992/12/section/59AA) inserted (with effect in accordance with s. 80(2) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 80(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/80/1)

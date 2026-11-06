@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Section 34 regulations: application of fire and rescue provisions[^key-ef10db784d0520f49173ddde06c1c64c]
+## 39. Section 34 regulations: application of fire and rescue provisions[^c-ef10db784d0520f49173ddde06c1c64c]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef10db784d0520f49173ddde06c1c64c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/55/section/39) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-ef10db784d0520f49173ddde06c1c64c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/55/section/39) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

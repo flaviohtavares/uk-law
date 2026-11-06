@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Welsh Ministers to prepare an action plan[^key-0dbcd628d90897f92a2cace45573651b]
+## 148. Welsh Ministers to prepare an action plan[^c-0dbcd628d90897f92a2cace45573651b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dbcd628d90897f92a2cace45573651b]: Commencement: [S. 148](https://www.legislation.gov.uk/mwa/2011/1/section/148) in force at 5.2.2012 by [S.I. 2012/223](https://www.legislation.gov.uk/wsi/2012/223), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/223/article/2/a)
+[^c-0dbcd628d90897f92a2cace45573651b]: Commencement: [S. 148](https://www.legislation.gov.uk/mwa/2011/1/section/148) in force at 5.2.2012 by [S.I. 2012/223](https://www.legislation.gov.uk/wsi/2012/223), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/223/article/2/a)

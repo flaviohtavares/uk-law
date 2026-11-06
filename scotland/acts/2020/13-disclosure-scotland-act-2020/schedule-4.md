@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Schedule to be substituted for Schedule 3 of the PVG Act[^key-6817fa034481f9bf265da36af7375f9c][^key-c4b05bbcb3cdc27c6cb8677ecc5c58bb]
+## SCHEDULE 4 — Schedule to be substituted for Schedule 3 of the PVG Act[^c-6817fa034481f9bf265da36af7375f9c][^c-c4b05bbcb3cdc27c6cb8677ecc5c58bb]
 
 *Extent: S*
 
 (introduced by section 74)
 
-[^key-6817fa034481f9bf265da36af7375f9c][^key-c4b05bbcb3cdc27c6cb8677ecc5c58bb]
+[^c-6817fa034481f9bf265da36af7375f9c][^c-c4b05bbcb3cdc27c6cb8677ecc5c58bb]
 
 > **SCHEDULE 3 — Regulated roles with adults**
 >
@@ -183,7 +183,7 @@ summary: ''
 >   - (a) the office of judge of any court,
 >   - (b) the office of member of any tribunal,
 >   - (c) any other office, or appointment, consisting of functions of a judicial nature,
-> - “**prison**” means a prison or young offenders institution[^key-f2f489bed9f3c620d558664908a94153] that is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989 and includes any contracted out prison within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994,
+> - “**prison**” means a prison or young offenders institution[^c-f2f489bed9f3c620d558664908a94153] that is under the general superintendence of the Scottish Ministers under the Prisons (Scotland) Act 1989 and includes any contracted out prison within the meaning of section 106(4) of the Criminal Justice and Public Order Act 1994,
 > - “**prisoner**” means a person committed to prison for trial, safe custody, punishment or otherwise,
 > - “**shared lives agreement**” means an agreement entered into between a person carrying on a shared lives scheme and an individual for the provision, by that individual, of personal care to a protected adult together with, where necessary, accommodation in the individual's home,
 > - “**shared lives carer**” means an individual who, under the terms of a shared lives agreement, provides, or intends to provide, personal care for protected adults together with, where necessary, accommodation in the individual's home,
@@ -204,8 +204,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6817fa034481f9bf265da36af7375f9c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-6817fa034481f9bf265da36af7375f9c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-c4b05bbcb3cdc27c6cb8677ecc5c58bb]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-c4b05bbcb3cdc27c6cb8677ecc5c58bb]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-f2f489bed9f3c620d558664908a94153]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 19(3)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/19/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-f2f489bed9f3c620d558664908a94153]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/asp/2020/13/schedule/4) substituted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 19(3)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/19/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Duty to calculate and publish tariffs[^key-7d7a3e29d7ed25e1aa87bab4029d6994]
+## 33. Duty to calculate and publish tariffs[^c-7d7a3e29d7ed25e1aa87bab4029d6994]
 
 *Extent: E+W+S*
 
-(A1)[^key-be24acf8cd48a811021d6ecf6a45ab24] The requirement in paragraph (1)(a) does not apply after scheme closure.
+(A1)[^c-be24acf8cd48a811021d6ecf6a45ab24] The requirement in paragraph (1)(a) does not apply after scheme closure.
 
 (1) The Authority must calculate in accordance with this Part and publish on its website, by the dates specified in paragraphs (2) and (3), tables specifying in relation to each tariff category—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d7a3e29d7ed25e1aa87bab4029d6994]: Commencement: Reg. 33 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-7d7a3e29d7ed25e1aa87bab4029d6994]: Commencement: Reg. 33 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-be24acf8cd48a811021d6ecf6a45ab24]: Textual amendment: [Reg. 33(A1)](https://www.legislation.gov.uk/uksi/2014/928/regulation/33/A1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2022/159/regulation/11)
+[^c-be24acf8cd48a811021d6ecf6a45ab24]: Textual amendment: [Reg. 33(A1)](https://www.legislation.gov.uk/uksi/2014/928/regulation/33/A1) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2022/159/regulation/11)

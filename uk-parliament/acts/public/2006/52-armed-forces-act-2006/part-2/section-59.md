@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Time limit for charging offence under section 107[^key-ef9c0a10ffcd822728982142ff36bbb7][^key-d4eb96f83ff26db9f7ccbc1510159357]
+## 59. Time limit for charging offence under section 107[^c-ef9c0a10ffcd822728982142ff36bbb7][^c-d4eb96f83ff26db9f7ccbc1510159357]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef9c0a10ffcd822728982142ff36bbb7]: Commencement: S. 59 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-ef9c0a10ffcd822728982142ff36bbb7]: Commencement: S. 59 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-d4eb96f83ff26db9f7ccbc1510159357]: Commencement: S. 59 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d4eb96f83ff26db9f7ccbc1510159357]: Commencement: S. 59 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

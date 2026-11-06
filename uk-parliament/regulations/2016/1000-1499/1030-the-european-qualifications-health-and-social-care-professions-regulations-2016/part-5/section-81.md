@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Insertion of article 12[^key-379d45b0e23af1cf42194a3b1e749146]
+## 81. Insertion of article 12[^c-379d45b0e23af1cf42194a3b1e749146]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ After article 10 (qualifications following training in the former Czechoslovakia
 
 ## Annotations
 
-[^key-379d45b0e23af1cf42194a3b1e749146]: Commencement: Reg. 81 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-379d45b0e23af1cf42194a3b1e749146]: Commencement: Reg. 81 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00062]: Footnote: Article 11 was revoked by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

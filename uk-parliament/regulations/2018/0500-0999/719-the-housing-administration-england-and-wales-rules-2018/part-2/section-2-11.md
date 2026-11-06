@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.11. Notice of housing administration order[^key-539576598ad71ac64edb49345996aaa9]
+## 2.11. Notice of housing administration order[^c-539576598ad71ac64edb49345996aaa9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-539576598ad71ac64edb49345996aaa9]: Commencement: Rule 2.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-539576598ad71ac64edb49345996aaa9]: Commencement: Rule 2.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

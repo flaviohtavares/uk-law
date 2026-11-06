@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Prevention and investigation measures: online information[^key-727dfc33d42aa1b42543d41530fd43f2]
+## 239. Prevention and investigation measures: online information[^c-727dfc33d42aa1b42543d41530fd43f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-727dfc33d42aa1b42543d41530fd43f2]: Commencement: S. 239 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-727dfc33d42aa1b42543d41530fd43f2]: Commencement: S. 239 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

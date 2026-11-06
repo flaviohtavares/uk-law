@@ -53,25 +53,25 @@ These regulations may be cited as the Export (Penalty) Regulations 2003 and shal
 
 In these regulations—
 
-- [^key-689847ac3f69e991301b922e3b0da64d]...
-- “**appeal tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal[^key-c24a144ff3e75df71b439b93333b98ec];
-- [^key-23c39f72d7f2688de270a07781891494]...
-- “**the Code**” means Regulation ([^key-ed7163b61b93c8732e5556c0ad72f978]EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code”;
-- [^key-08e34e08db97765f5d385fd0580cbf2e]...
-- [^key-08e34e08db97765f5d385fd0580cbf2e]...
+- [^c-689847ac3f69e991301b922e3b0da64d]...
+- “**appeal tribunal**” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal[^c-c24a144ff3e75df71b439b93333b98ec];
+- [^c-23c39f72d7f2688de270a07781891494]...
+- “**the Code**” means Regulation ([^c-ed7163b61b93c8732e5556c0ad72f978]EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code”;
+- [^c-08e34e08db97765f5d385fd0580cbf2e]...
+- [^c-08e34e08db97765f5d385fd0580cbf2e]...
 - “**contravene**” includes fail to comply with;
-- “Delegated Regulation” means Commission Delegated Regulation ([^key-fb09405c05abddd818d5130e181419b9]EU) 2015/2446 of 28 July 2015 supplementing the Code as regards certain provisions of the Code;
-- “declaration” means a customs declaration, as defined in Article 5(12) of the Code.[^key-5769de8f2a887fa3dcd709e1f22eeb99]
+- “Delegated Regulation” means Commission Delegated Regulation ([^c-fb09405c05abddd818d5130e181419b9]EU) 2015/2446 of 28 July 2015 supplementing the Code as regards certain provisions of the Code;
+- “declaration” means a customs declaration, as defined in Article 5(12) of the Code.[^c-5769de8f2a887fa3dcd709e1f22eeb99]
 - “**demand notice**” means a demand notice within the meaning of regulation 6;
-- “export” means that “customs procedure” within the meaning as given by Article 5(16)(c) of the Code;[^key-cf020917ae6285588edafaa64b388169]
+- “export” means that “customs procedure” within the meaning as given by Article 5(16)(c) of the Code;[^c-cf020917ae6285588edafaa64b388169]
 - “**exporter**” has the meaning assigned to it by Article 788 of the Implementing Regulation;
-- “[^key-4233e1010f61ca9d22a347a96535f87c]HMRC” means Her Majesty’s Revenue and Customs.
-- “**the Implementing Regulation**” means Commission Implementing Regulation ([^key-0ee2e8e6dfe0dff3debc9de2d37de28d]EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Code;
+- “[^c-4233e1010f61ca9d22a347a96535f87c]HMRC” means Her Majesty’s Revenue and Customs.
+- “**the Implementing Regulation**” means Commission Implementing Regulation ([^c-0ee2e8e6dfe0dff3debc9de2d37de28d]EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Code;
 - “**notice**” means notice in writing;
 - “**person**” means a person, of a description specified in Column 2 of the Schedule to these Regulations to whom that provision referred to in Column 1 applies;
 - “**penalty**” shall mean a penalty up to the maximum amount specified in Column 3 of the schedule to these Regulations;
-- “**relevant export rule**” shall mean any EU-imposed[^key-26022f8740da38d6cec415ef6c240a5d] duty, obligation, requirement, or condition in relation to export imposed or implemented by or under any of the following provisions or combination of provisions in any case where Union export duty[^key-f3b351c71fb0021ebb7c2e015982b575] is not chargeable or payable in application of the rule—
-  - (a) Union customs legislation[^key-e46e10693d660f5a2ca032097f3a2e3d] in relation to export;
+- “**relevant export rule**” shall mean any EU-imposed[^c-26022f8740da38d6cec415ef6c240a5d] duty, obligation, requirement, or condition in relation to export imposed or implemented by or under any of the following provisions or combination of provisions in any case where Union export duty[^c-f3b351c71fb0021ebb7c2e015982b575] is not chargeable or payable in application of the rule—
+  - (a) Union customs legislation[^c-e46e10693d660f5a2ca032097f3a2e3d] in relation to export;
   - (b) the Act, as it applies in implementation of Union customs legislation in relation to export from the European Union[^M_F_db990e02-6032-4902-9e64-8045912f8b2f];
   - (c) any other Act, or statutory instrument, as it applies in implementation of Union customs legislation in relation to export from the European Union;
   - (d) any directly applicable EU legislation as it applies in application of Union customs legislation in relation to export;
@@ -87,7 +87,7 @@ In these regulations—
   - (c) any receiver or liquidator appointed in relation to that person or any of his property,
 
   or any other person acting in a representative capacity in relation to that person.
-- ”Union customs legislation” means customs legislation, as defined in Article 5(2) of the Code;[^key-60b0d36dfa779a8d0eb512e5e02dd541]
+- ”Union customs legislation” means customs legislation, as defined in Article 5(2) of the Code;[^c-60b0d36dfa779a8d0eb512e5e02dd541]
 - “Union export duty” means export duty, as defined in Article 5(21) of the Code;
 
 ## 3. Penalty for contravention of a relevant export rule
@@ -106,7 +106,7 @@ In these regulations—
 
 (1) A person is not liable to a penalty under regulation 3 if he satisfies—
 
-- (a) HMRC[^key-938caaef1ab685e275415be16e7d1c56], or
+- (a) HMRC[^c-938caaef1ab685e275415be16e7d1c56], or
 - (b) on appeal, an appeal tribunal,
 
 that there is a reasonable excuse for his conduct.
@@ -123,7 +123,7 @@ that there is a reasonable excuse for his conduct.
 
 (1) Where a person is liable to a penalty under regulation 3—
 
-- (a) HMRC[^key-4816f594fc889a566bb466337057e24e] (whether originally or on review) or, on appeal, an appeal tribunal may reduce the penalty to such amount (including nil) as they think proper; and
+- (a) HMRC[^c-4816f594fc889a566bb466337057e24e] (whether originally or on review) or, on appeal, an appeal tribunal may reduce the penalty to such amount (including nil) as they think proper; and
 - (b) HMRC on a review, or an appeal tribunal on an appeal, relating to a penalty reduced by HMRC under this regulation may cancel the whole or any part of the reduction previously made by HMRC.
 
 (2) In exercising their powers under paragraph (1) above, neither HMRC nor an appeal tribunal are entitled to take into account any of the matters specified in paragraph (3) below.
@@ -135,13 +135,13 @@ that there is a reasonable excuse for his conduct.
 
 ## 6. Demands for penalties
 
-(1) Where a person is liable to a penalty under regulation 3, HMRC[^key-6ebeb43ed43bcc5091c0b593ffca436d] may give to that person or his representative a notice in writing (a “demand notice”) demanding payment of the amount due by way of penalty.
+(1) Where a person is liable to a penalty under regulation 3, HMRC[^c-6ebeb43ed43bcc5091c0b593ffca436d] may give to that person or his representative a notice in writing (a “demand notice”) demanding payment of the amount due by way of penalty.
 
 (2) An amount demanded as due from a person or his representative in accordance with subsection (1) is recoverable as if it were an amount due from the person or, as the case may be, the representative as an amount of customs duty.
 
 This paragraph is subject to—
 
-- (a) any appeal under regulation 9[^key-218cbe4ba95e83d09ded51ad98541d4c] (appeals to tribunal); and
+- (a) any appeal under regulation 9[^c-218cbe4ba95e83d09ded51ad98541d4c] (appeals to tribunal); and
 - (b) paragraph (3) below.
 
 (3) An amount so demanded is not recoverable if or to the extent that—
@@ -153,7 +153,7 @@ This paragraph is subject to—
 
 (1) A demand notice may not be given in relation to a penalty under regulation 3 more than 3 years after the conduct giving rise to the penalty ceased.
 
-(2) A demand notice may not be given more than 2 years after there has come to the knowledge of HMRC[^key-7705f5af265e94f531c78109fc79ae4e] evidence of facts sufficient in the opinion of HMRC to justify the giving of the demand notice.
+(2) A demand notice may not be given more than 2 years after there has come to the knowledge of HMRC[^c-7705f5af265e94f531c78109fc79ae4e] evidence of facts sufficient in the opinion of HMRC to justify the giving of the demand notice.
 
 (3) A demand notice may be given in respect of a penalty under regulation 3 to which a person was liable immediately before his death.
 
@@ -161,22 +161,22 @@ This paragraph is subject to—
 
 (1) Where a demand notice is given demanding payment of an amount due by way of penalty under regulation 3 in respect of any conduct of a person, no proceedings may be brought against that person for any offence constituted by that conduct (whether or not the demand notice is subsequently withdrawn).
 
-## 9. Right to appeal against certain decisions[^key-2cf23560e32dc651bdc9c8e14cc3b135]
+## 9. Right to appeal against certain decisions[^c-2cf23560e32dc651bdc9c8e14cc3b135]
 
-(1) If HMRC[^key-3d639574fe05600a358203a541972983] give a person or his representative a notice informing him—
+(1) If HMRC[^c-3d639574fe05600a358203a541972983] give a person or his representative a notice informing him—
 
-- (a) that HMRC[^key-35e4e887cb8482fecd4e1e6fab0aed9d] have decided that the person has engaged in conduct by which he contravenes a relevant export rule, and
+- (a) that HMRC[^c-35e4e887cb8482fecd4e1e6fab0aed9d] have decided that the person has engaged in conduct by which he contravenes a relevant export rule, and
 - (b) that the person is, in consequence, liable to a penalty under regulation 3, but
-- (c) that HMRC[^key-082f55ff1fc0a965f3d4fc45a1f684e7] do not propose to give a demand notice in respect of the penalty,
+- (c) that HMRC[^c-082f55ff1fc0a965f3d4fc45a1f684e7] do not propose to give a demand notice in respect of the penalty,
 
-the person or his representative may make an appeal to the appeal tribunal in respect of[^key-06feb785a5a39e1258fa1fb030436349] the decision mentioned in sub-paragraph(a) above.
+the person or his representative may make an appeal to the appeal tribunal in respect of[^c-06feb785a5a39e1258fa1fb030436349] the decision mentioned in sub-paragraph(a) above.
 
-(2) Where HMRC[^key-b28e7f3f156391f94b69ed302e5ebc90] give a demand notice to a person or his representative, the person or his representative may make an appeal to the appeal tribunal in respect of[^key-4bcebb65c1e15769119ca3012123a5bc]—
+(2) Where HMRC[^c-b28e7f3f156391f94b69ed302e5ebc90] give a demand notice to a person or his representative, the person or his representative may make an appeal to the appeal tribunal in respect of[^c-4bcebb65c1e15769119ca3012123a5bc]—
 
 - (a) their decision that the person is liable to a penalty under regulation 3, or
 - (b) their decision as to the amount of the liability.
 
-(3)[^key-9a40925b627e5f17dde3c0d9f74c2647] The powers of the appeal tribunal on an appeal under this regulation include—
+(3)[^c-9a40925b627e5f17dde3c0d9f74c2647] The powers of the appeal tribunal on an appeal under this regulation include—
 
 - (a) power to quash or vary a decision; and
 - (b) power to substitute the tribunal’s own decision for any decision so quashed.
@@ -186,7 +186,7 @@ the person or his representative may make an appeal to the appeal tribunal in re
 - (a) the burden of proof as to the matters mentioned in regulation 3(1) lies on HMRC; but
 - (b) it is otherwise for the appellant to show that the grounds on which any such appeal is brought have been established.
 
-## 9A. Offer of review[^key-9b3007d1235407a2351aef560a8340ec]
+## 9A. Offer of review[^c-9b3007d1235407a2351aef560a8340ec]
 
 (1) HMRC must offer a person (P) a review of a decision that has been notified to P if an appeal lies under regulation 9 in respect of the decision.
 
@@ -281,7 +281,7 @@ the person or his representative may make an appeal to the appeal tribunal in re
 - (a) an appeal may not be made until the conclusion date, and
 - (b) any appeal is to be made within the period of 30 days beginning with the conclusion date.
 
-(4)[^key-fc60f2d6a40c4d3c516df0ceb24a1316] In a case where HMRC are requested to undertake a review in accordance with regulation 9D—
+(4)[^c-fc60f2d6a40c4d3c516df0ceb24a1316] In a case where HMRC are requested to undertake a review in accordance with regulation 9D—
 
 - (a) an appeal may not be made to an appeal tribunal—
   - (i) unless HMRC have notified P as to whether or not a review will be undertaken, and
@@ -295,19 +295,19 @@ the person or his representative may make an appeal to the appeal tribunal in re
 
 (7) In this regulation “conclusion date” means the date of the document notifying the conclusions of the review.
 
-## 10. Time limit and right to further review[^key-ec2c0368729bb515885bc213f28f809d]
+## 10. Time limit and right to further review[^c-ec2c0368729bb515885bc213f28f809d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Powers of the Commissioners on a review[^key-ec2c0368729bb515885bc213f28f809d]
+## 11. Powers of the Commissioners on a review[^c-ec2c0368729bb515885bc213f28f809d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Appeals to a tribunal[^key-ec2c0368729bb515885bc213f28f809d]
+## 12. Appeals to a tribunal[^c-ec2c0368729bb515885bc213f28f809d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Appeal Tribunals[^key-a0d6d9d144c99e0731dadb992b6eb8bf]
+## 13. Appeal Tribunals[^c-a0d6d9d144c99e0731dadb992b6eb8bf]
 
 Section 85 of the Value Added Tax Act [1994 (c. 23)](https://www.legislation.gov.uk/ukpga/1994/23) (settling of appeals by agreement) has effect as if the reference to section 83 of that Act included a reference to regulation 9 above.
 
@@ -371,7 +371,7 @@ Commissioner of Customs and Excise
 </tbody>
 </table>
 
-[^key-f611b37bd796394cced65ebba25c2a50][^key-a63efcd4fb2579164ebab972e8941d32][^key-87d7e55e7b1b0d96e1cc82c81b611db1][^key-a053c33dda8fcbeb556c557388df9c9e][^key-72bd2677d59cae79733380c939f28753][^key-2283a0e99f6e2ea4ccf65a7bb504998f][^key-1001e745bf3f60eeee0e0cf976fc87d0][^key-50397d68ece84571482c37e94915f77e][^key-5fca0710bb252825d14f62f7c2430204][^key-26f00e4901dc2ef35fda45ab4c75e6fa][^key-7de0d7198db275c566b4e8b2d4c50046][^key-9a22c8493ed212d901c54746fc99dbf5][^key-90d7fcddac27851617eff386e6f40e85][^key-cd0ff29a8b72fce6b485fdeb0427d29b][^key-f66b659e07ab7dd2c5b41edcef08b567][^key-b627db2e76e9cc5d86a96514cc08695c][^key-5429471f0616732bf0b4da7ebd1ff2ad][^key-d3de5903dfc6881714cb1e4774d46c90][^key-c8a086a27d8e6f83e44a00032dad58d8]
+[^c-f611b37bd796394cced65ebba25c2a50][^c-a63efcd4fb2579164ebab972e8941d32][^c-87d7e55e7b1b0d96e1cc82c81b611db1][^c-a053c33dda8fcbeb556c557388df9c9e][^c-72bd2677d59cae79733380c939f28753][^c-2283a0e99f6e2ea4ccf65a7bb504998f][^c-1001e745bf3f60eeee0e0cf976fc87d0][^c-50397d68ece84571482c37e94915f77e][^c-5fca0710bb252825d14f62f7c2430204][^c-26f00e4901dc2ef35fda45ab4c75e6fa][^c-7de0d7198db275c566b4e8b2d4c50046][^c-9a22c8493ed212d901c54746fc99dbf5][^c-90d7fcddac27851617eff386e6f40e85][^c-cd0ff29a8b72fce6b485fdeb0427d29b][^c-f66b659e07ab7dd2c5b41edcef08b567][^c-b627db2e76e9cc5d86a96514cc08695c][^c-5429471f0616732bf0b4da7ebd1ff2ad][^c-d3de5903dfc6881714cb1e4774d46c90][^c-c8a086a27d8e6f83e44a00032dad58d8]
 
 *(This note is not part of the Regulations)*
 
@@ -405,104 +405,104 @@ Regulation 14 sets out the arrangements for the service of notice.
 
 [^c5101191]: Marginal citation: [S.I.1977/980](https://www.legislation.gov.uk/uksi/1977/980)
 
-[^key-689847ac3f69e991301b922e3b0da64d]: Textual amendment: Words in reg. 2 omitted (11.11.2011) by virtue of [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/2512/regulation/3)
+[^c-689847ac3f69e991301b922e3b0da64d]: Textual amendment: Words in reg. 2 omitted (11.11.2011) by virtue of [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/2512/regulation/3)
 
-[^key-c24a144ff3e75df71b439b93333b98ec]: Textual amendment: Words in reg. 2 substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 121(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/121/2)
+[^c-c24a144ff3e75df71b439b93333b98ec]: Textual amendment: Words in reg. 2 substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 121(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/121/2)
 
-[^key-23c39f72d7f2688de270a07781891494]: Textual amendment: Words in reg. 2 omitted (11.11.2011) by virtue of [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2512/regulation/4)
+[^c-23c39f72d7f2688de270a07781891494]: Textual amendment: Words in reg. 2 omitted (11.11.2011) by virtue of [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [4](https://www.legislation.gov.uk/uksi/2011/2512/regulation/4)
 
-[^key-ed7163b61b93c8732e5556c0ad72f978]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/a)
+[^c-ed7163b61b93c8732e5556c0ad72f978]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/a)
 
-[^key-08e34e08db97765f5d385fd0580cbf2e]: Textual amendment: Words in reg. 2 omitted (14.5.2018) by virtue of [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/b)
+[^c-08e34e08db97765f5d385fd0580cbf2e]: Textual amendment: Words in reg. 2 omitted (14.5.2018) by virtue of [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/b)
 
-[^key-fb09405c05abddd818d5130e181419b9]: Textual amendment: Words in reg. 2 inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/g)
+[^c-fb09405c05abddd818d5130e181419b9]: Textual amendment: Words in reg. 2 inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/g)
 
-[^key-5769de8f2a887fa3dcd709e1f22eeb99]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/c)
+[^c-5769de8f2a887fa3dcd709e1f22eeb99]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/c)
 
-[^key-cf020917ae6285588edafaa64b388169]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/d)
+[^c-cf020917ae6285588edafaa64b388169]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/d)
 
-[^key-4233e1010f61ca9d22a347a96535f87c]: Textual amendment: Words in reg. 2 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 121(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/121/3)
+[^c-4233e1010f61ca9d22a347a96535f87c]: Textual amendment: Words in reg. 2 inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 121(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/121/3)
 
-[^key-0ee2e8e6dfe0dff3debc9de2d37de28d]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/e)
+[^c-0ee2e8e6dfe0dff3debc9de2d37de28d]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/e)
 
-[^key-26022f8740da38d6cec415ef6c240a5d]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(f)(i)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/f/i)
+[^c-26022f8740da38d6cec415ef6c240a5d]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(f)(i)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/f/i)
 
-[^key-f3b351c71fb0021ebb7c2e015982b575]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/f/ii)
+[^c-f3b351c71fb0021ebb7c2e015982b575]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(f)(ii)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/f/ii)
 
-[^key-e46e10693d660f5a2ca032097f3a2e3d]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(f)(iii)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/f/iii)
+[^c-e46e10693d660f5a2ca032097f3a2e3d]: Textual amendment: Words in reg. 2 substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(f)(iii)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/f/iii)
 
 [^M_F_db990e02-6032-4902-9e64-8045912f8b2f]: Textual amendment: Words in reg. 2 substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
-[^key-60b0d36dfa779a8d0eb512e5e02dd541]: Textual amendment: Words in reg. 2 inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(h)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/h)
+[^c-60b0d36dfa779a8d0eb512e5e02dd541]: Textual amendment: Words in reg. 2 inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [3(h)](https://www.legislation.gov.uk/uksi/2018/507/regulation/3/h)
 
-[^key-938caaef1ab685e275415be16e7d1c56]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2003/3102/regulation/4) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
+[^c-938caaef1ab685e275415be16e7d1c56]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2003/3102/regulation/4) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
 
-[^key-4816f594fc889a566bb466337057e24e]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2003/3102/regulation/5) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
+[^c-4816f594fc889a566bb466337057e24e]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2003/3102/regulation/5) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
 
-[^key-6ebeb43ed43bcc5091c0b593ffca436d]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2003/3102/regulation/6) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
+[^c-6ebeb43ed43bcc5091c0b593ffca436d]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2003/3102/regulation/6) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
 
-[^key-218cbe4ba95e83d09ded51ad98541d4c]: Textual amendment: Word in reg. 6(2)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/122)
+[^c-218cbe4ba95e83d09ded51ad98541d4c]: Textual amendment: Word in reg. 6(2)(a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/122)
 
-[^key-7705f5af265e94f531c78109fc79ae4e]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2003/3102/regulation/7) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
+[^c-7705f5af265e94f531c78109fc79ae4e]: Textual amendment: Word in [reg. 7](https://www.legislation.gov.uk/uksi/2003/3102/regulation/7) substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/2512/regulation/5)
 
-[^key-2cf23560e32dc651bdc9c8e14cc3b135]: Textual amendment: Reg. 9 heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/2) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-2cf23560e32dc651bdc9c8e14cc3b135]: Textual amendment: Reg. 9 heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/2) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-3d639574fe05600a358203a541972983]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/a) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-3d639574fe05600a358203a541972983]: Textual amendment: Word in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/a) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-35e4e887cb8482fecd4e1e6fab0aed9d]: Textual amendment: Word in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1/a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/b) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-35e4e887cb8482fecd4e1e6fab0aed9d]: Textual amendment: Word in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1/a) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/b) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-082f55ff1fc0a965f3d4fc45a1f684e7]: Textual amendment: Word in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1/c) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/b) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-082f55ff1fc0a965f3d4fc45a1f684e7]: Textual amendment: Word in [reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1/c) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/b) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-06feb785a5a39e1258fa1fb030436349]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/c) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-06feb785a5a39e1258fa1fb030436349]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/1) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(3)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/3/c) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-b28e7f3f156391f94b69ed302e5ebc90]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/4/a) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-b28e7f3f156391f94b69ed302e5ebc90]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/4/a) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-4bcebb65c1e15769119ca3012123a5bc]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/4/b) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-4bcebb65c1e15769119ca3012123a5bc]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/4/b) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-9a40925b627e5f17dde3c0d9f74c2647]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/4) substituted for [reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/3) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/5) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-9a40925b627e5f17dde3c0d9f74c2647]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/4) substituted for [reg. 9(3)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9/3) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 123(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123/5) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-9b3007d1235407a2351aef560a8340ec]: Textual amendment: Regs. 9A-9F inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/124) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-9b3007d1235407a2351aef560a8340ec]: Textual amendment: Regs. 9A-9F inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/124) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-fc60f2d6a40c4d3c516df0ceb24a1316]: Textual amendment: [Reg. 9F(4)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9F/4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [9](https://www.legislation.gov.uk/uksi/2014/1264/article/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
+[^c-fc60f2d6a40c4d3c516df0ceb24a1316]: Textual amendment: [Reg. 9F(4)](https://www.legislation.gov.uk/uksi/2003/3102/regulation/9F/4) substituted (1.6.2014) by [The Revenue and Customs (Amendment of Appeal Provisions for Out of Time Reviews) Order 2014 (S.I. 2014/1264)](https://www.legislation.gov.uk/uksi/2014/1264), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/2), [9](https://www.legislation.gov.uk/uksi/2014/1264/article/9) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1264/article/1/3))
 
-[^key-ec2c0368729bb515885bc213f28f809d]: Textual amendment: Regs. 10-12 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/125) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
+[^c-ec2c0368729bb515885bc213f28f809d]: Textual amendment: Regs. 10-12 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/125) (with [Sch. 3 paras. 2-4](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/2))
 
-[^key-a0d6d9d144c99e0731dadb992b6eb8bf]: Textual amendment: Reg. 13 substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 126](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/126)
+[^c-a0d6d9d144c99e0731dadb992b6eb8bf]: Textual amendment: Reg. 13 substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 126](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/126)
 
-[^key-f611b37bd796394cced65ebba25c2a50]: Textual amendment: Sch. substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/2512/regulation/6)
+[^c-f611b37bd796394cced65ebba25c2a50]: Textual amendment: Sch. substituted (11.11.2011) by [The Export (Penalty) (Amendment) Regulations 2011 (S.I. 2011/2512)](https://www.legislation.gov.uk/uksi/2011/2512), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2512/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/2512/regulation/6)
 
-[^key-a63efcd4fb2579164ebab972e8941d32]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/a)
+[^c-a63efcd4fb2579164ebab972e8941d32]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/a)
 
-[^key-87d7e55e7b1b0d96e1cc82c81b611db1]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/b)
+[^c-87d7e55e7b1b0d96e1cc82c81b611db1]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/b)
 
-[^key-a053c33dda8fcbeb556c557388df9c9e]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/c)
+[^c-a053c33dda8fcbeb556c557388df9c9e]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/c)
 
-[^key-72bd2677d59cae79733380c939f28753]: Textual amendment: Words in Sch. inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/d)
+[^c-72bd2677d59cae79733380c939f28753]: Textual amendment: Words in Sch. inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/d)
 
-[^key-2283a0e99f6e2ea4ccf65a7bb504998f]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/e)
+[^c-2283a0e99f6e2ea4ccf65a7bb504998f]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/e)
 
-[^key-1001e745bf3f60eeee0e0cf976fc87d0]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/f)
+[^c-1001e745bf3f60eeee0e0cf976fc87d0]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(f)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/f)
 
-[^key-50397d68ece84571482c37e94915f77e]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/g)
+[^c-50397d68ece84571482c37e94915f77e]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(g)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/g)
 
-[^key-5fca0710bb252825d14f62f7c2430204]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/h)
+[^c-5fca0710bb252825d14f62f7c2430204]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(h)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/h)
 
-[^key-26f00e4901dc2ef35fda45ab4c75e6fa]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(i)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/i)
+[^c-26f00e4901dc2ef35fda45ab4c75e6fa]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(i)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/i)
 
-[^key-7de0d7198db275c566b4e8b2d4c50046]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(j)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/j)
+[^c-7de0d7198db275c566b4e8b2d4c50046]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(j)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/j)
 
-[^key-9a22c8493ed212d901c54746fc99dbf5]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(k)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/k)
+[^c-9a22c8493ed212d901c54746fc99dbf5]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(k)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/k)
 
-[^key-90d7fcddac27851617eff386e6f40e85]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(l)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/l)
+[^c-90d7fcddac27851617eff386e6f40e85]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(l)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/l)
 
-[^key-cd0ff29a8b72fce6b485fdeb0427d29b]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(m)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/m)
+[^c-cd0ff29a8b72fce6b485fdeb0427d29b]: Textual amendment: Words in Sch. substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(m)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/m)
 
-[^key-f66b659e07ab7dd2c5b41edcef08b567]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(n)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/n)
+[^c-f66b659e07ab7dd2c5b41edcef08b567]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) inserted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(n)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/n)
 
-[^key-b627db2e76e9cc5d86a96514cc08695c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) omitted (14.5.2018) by virtue of [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(o)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/o)
+[^c-b627db2e76e9cc5d86a96514cc08695c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) omitted (14.5.2018) by virtue of [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(o)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/o)
 
-[^key-5429471f0616732bf0b4da7ebd1ff2ad]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(p)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/p)
+[^c-5429471f0616732bf0b4da7ebd1ff2ad]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(p)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/p)
 
-[^key-d3de5903dfc6881714cb1e4774d46c90]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(q)(i)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/q/i)
+[^c-d3de5903dfc6881714cb1e4774d46c90]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(q)(i)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/q/i)
 
-[^key-c8a086a27d8e6f83e44a00032dad58d8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(q)(ii)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/q/ii)
+[^c-c8a086a27d8e6f83e44a00032dad58d8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/3102/schedule) substituted (14.5.2018) by [The Export (Penalty) (Amendment) Regulations 2018 (S.I. 2018/507)](https://www.legislation.gov.uk/uksi/2018/507), [regs. 1](https://www.legislation.gov.uk/uksi/2018/507/regulation/1), [4(q)(ii)](https://www.legislation.gov.uk/uksi/2018/507/regulation/4/q/ii)

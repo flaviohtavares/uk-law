@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^key-26452ee1cb22038e27d8d1b60ee5a971]
+## 25. Amendment of the Controlled Waste (Registration of Carriers and Seizure of Vehicles) Regulations (Northern Ireland) 1999[^c-26452ee1cb22038e27d8d1b60ee5a971]
 
 *Extent: N.I.*
 
@@ -114,6 +114,6 @@ summary: ''
 
 ## Annotations
 
-[^key-26452ee1cb22038e27d8d1b60ee5a971]: Commencement: Reg. 25 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-26452ee1cb22038e27d8d1b60ee5a971]: Commencement: Reg. 25 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00061]: Footnote: [S.R. 1999 No. 362](https://www.legislation.gov.uk/nisr/1999/362)

@@ -46,7 +46,7 @@ Section 65.
 
 - (a) the Board give to the responsible person or, as the case may be, the participator notice under paragraph 3 of Schedule 5 to the principal Act stating that amount of expenditure as an amount qualifying for supplement; or
 - (b) after notice of appeal has been given against a decision on a claim, an agreement is made as mentioned in sub-paragraph (1) of paragraph 6 of Schedule 5 to the principal Act and that amount of expenditure is, for the purposes of that sub-paragraph, the appropriate amount of the expenditure claimed as qualifying for supplement; or
-- (c) on an appeal against a decision on a claim, there is a determination by the tribunal[^key-a1ccc0d2aa8efc70b972e44f0e495ffe] or the court by virtue of which that amount of expenditure falls (under paragraph 7(2) or paragraph 8(2) of Schedule 5 to the principal Act) to be treated for the purposes of Part I of that Act as qualifying for supplement.
+- (c) on an appeal against a decision on a claim, there is a determination by the tribunal[^c-a1ccc0d2aa8efc70b972e44f0e495ffe] or the court by virtue of which that amount of expenditure falls (under paragraph 7(2) or paragraph 8(2) of Schedule 5 to the principal Act) to be treated for the purposes of Part I of that Act as qualifying for supplement.
 
 (3) Nothing in Schedule 5 to the principal Act relating to the date on which an amount of expenditure is to be treated as having been allowed as qualifying for supplement applies for the purposes of sub-paragraph (2) above.
 
@@ -97,7 +97,7 @@ the relevant date for the purposes of paragraph 5(1) above is the date of the no
 (2) In determining, in accordance with sub-paragraph (1) above, whether an oil field (in this sub-paragraph referred to as “**the new field**”) is a relevant new field, no account shall be taken of a consent for develoment granted before 17th March 1987 or a programme of development served on the licensee or approved by the Secretary of State before that date if—
 
 - (a) in whole or part that consent or programme related to another oil field for which a determination under Schedule 1 to the principal Act was made before the determination under that Schedule for the new field; and
-- (b) on or after 17th March 1987 a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the OGA[^key-2e7f513f65b2fc5bcf09a5ab5b57f83d] and that consent or programme relates, in whole or in part, to the new field.
+- (b) on or after 17th March 1987 a consent for development is or was granted or a programme of development is or was served on the licensee or approved by the OGA[^c-2e7f513f65b2fc5bcf09a5ab5b57f83d] and that consent or programme relates, in whole or in part, to the new field.
 
 **9.** (1) In paragraph 8 above “**development**” means—
 
@@ -115,7 +115,7 @@ and consent for development does not include consent which is limited to the pur
 - (a) throughout that part of the relevant period in which both were in existence one was a 51 per cent. subsidary of the other and the other was not a 51 per cent. subsidary of any company; or
 - (b) each of them was, throughout that part of the relevant period in which it was in existence, a 51 per cent, subsidary of a third company which was not itself a 51 per cent. subsidiary of any company.
 
-(2) In this paragraph “**company**” means any body corporate and Chapter 3 of Part 24 of the Corporation Tax Act 2010[^key-cb6acb41f69de50111ca3ef593206a2f] (subsidiaries) applies for the purposes of this paragraph.
+(2) In this paragraph “**company**” means any body corporate and Chapter 3 of Part 24 of the Corporation Tax Act 2010[^c-cb6acb41f69de50111ca3ef593206a2f] (subsidiaries) applies for the purposes of this paragraph.
 
 (3) For the purposes of this paragraph the relevant periods ends on the date on which the election in question is made and begins—
 
@@ -175,10 +175,10 @@ an election may be made in respect of the amount of the increase as if it were a
 
 ## Annotations
 
-[^key-a1ccc0d2aa8efc70b972e44f0e495ffe]: Textual amendment: Word in [Sch. 14 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/14/paragraph/2/2/c) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/131)
+[^c-a1ccc0d2aa8efc70b972e44f0e495ffe]: Textual amendment: Word in [Sch. 14 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/14/paragraph/2/2/c) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 131](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/131)
 
 [^c11288281]: Marginal citation: [S.I. 1982/1000](https://www.legislation.gov.uk/uksi/1982/1000).
 
-[^key-2e7f513f65b2fc5bcf09a5ab5b57f83d]: Textual amendment: Word in [Sch. 14 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/14/paragraph/8/2/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2016/898/regulation/9/3)
+[^c-2e7f513f65b2fc5bcf09a5ab5b57f83d]: Textual amendment: Word in [Sch. 14 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/14/paragraph/8/2/b) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2016/898/regulation/9/3)
 
-[^key-cb6acb41f69de50111ca3ef593206a2f]: Textual amendment: Words in [Sch. 14 para. 10(2)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/14/paragraph/10/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 205](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/205) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-cb6acb41f69de50111ca3ef593206a2f]: Textual amendment: Words in [Sch. 14 para. 10(2)](https://www.legislation.gov.uk/ukpga/1987/16/schedule/14/paragraph/10/2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 205](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/205) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

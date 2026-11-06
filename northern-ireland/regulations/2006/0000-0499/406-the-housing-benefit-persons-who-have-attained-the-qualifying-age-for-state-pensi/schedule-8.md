@@ -22,50 +22,50 @@ summary: ''
 
 Regulation 51
 
-### ...[^key-5af50c8fa26fe75080c4788f810fbf67][^key-5af50c8fa26fe75080c4788f810fbf67]
+### ...[^c-5af50c8fa26fe75080c4788f810fbf67][^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]
+[^c-5af50c8fa26fe75080c4788f810fbf67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5af50c8fa26fe75080c4788f810fbf67]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2006/406/schedule/8) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/5/d)
+[^c-5af50c8fa26fe75080c4788f810fbf67]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/nisr/2006/406/schedule/8) omitted (6.10.2008) by virtue of [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(5)(d)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106C. Amounts not reflecting commercial transactions[^key-8e6b418d12a9089b1061dba09afa46a9]
+## 106C. Amounts not reflecting commercial transactions[^c-8e6b418d12a9089b1061dba09afa46a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e6b418d12a9089b1061dba09afa46a9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/23)
+[^c-8e6b418d12a9089b1061dba09afa46a9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/23)

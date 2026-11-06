@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Withdrawal of workmen in cases of danger.[^key-56d6abc38b0e14b83410694b04910000]
+## 79. Withdrawal of workmen in cases of danger.[^c-56d6abc38b0e14b83410694b04910000]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56d6abc38b0e14b83410694b04910000]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/79) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-56d6abc38b0e14b83410694b04910000]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/79) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

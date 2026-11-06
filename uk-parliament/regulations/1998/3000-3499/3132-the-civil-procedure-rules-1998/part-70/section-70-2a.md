@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70.2A. Court may order act to be done at expense of disobedient party[^key-ea34f44331139c138b2aac1e3e2a76ff][^key-68a21c6df481fa6f1208544882566509]
+## 70.2A. Court may order act to be done at expense of disobedient party[^c-ea34f44331139c138b2aac1e3e2a76ff][^c-68a21c6df481fa6f1208544882566509]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea34f44331139c138b2aac1e3e2a76ff]: Textual amendment: [Rule 70.2A](https://www.legislation.gov.uk/uksi/1998/3132/rule/70.2A) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/article/2/3), [30(c)](https://www.legislation.gov.uk/uksi/2014/407/rule/30/c) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/regulation/41/2))
+[^c-ea34f44331139c138b2aac1e3e2a76ff]: Textual amendment: [Rule 70.2A](https://www.legislation.gov.uk/uksi/1998/3132/rule/70.2A) inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/article/2/3), [30(c)](https://www.legislation.gov.uk/uksi/2014/407/rule/30/c) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/regulation/41/2))
 
-[^key-68a21c6df481fa6f1208544882566509]: Textual amendment: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2792/schedule/1) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
+[^c-68a21c6df481fa6f1208544882566509]: Textual amendment: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2792/schedule/1) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))

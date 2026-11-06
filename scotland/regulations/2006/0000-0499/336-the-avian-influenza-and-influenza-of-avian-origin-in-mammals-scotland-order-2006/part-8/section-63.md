@@ -28,7 +28,7 @@ summary: ''
 - (d) the amount of feed and, where possible, water being consumed by any poultry on the premises;
 - (e) any egg production on the premises,
 
-and report any abnormalities to an authorised veterinary inspector[^key-c4497504d8226635f4119ad8dd51b0f1].
+and report any abnormalities to an authorised veterinary inspector[^c-c4497504d8226635f4119ad8dd51b0f1].
 
 (2) The occupier of commercial poultry premises must ensure that records made under paragraph (1) are kept for at least 6 weeks from the date the last record was made.
 
@@ -36,4 +36,4 @@ and report any abnormalities to an authorised veterinary inspector[^key-c4497504
 
 ## Annotations
 
-[^key-c4497504d8226635f4119ad8dd51b0f1]: Textual amendment: Words in [art. 63(1)](https://www.legislation.gov.uk/ssi/2006/336/article/63/1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [19(3)](https://www.legislation.gov.uk/ssi/2013/173/article/19/3)
+[^c-c4497504d8226635f4119ad8dd51b0f1]: Textual amendment: Words in [art. 63(1)](https://www.legislation.gov.uk/ssi/2006/336/article/63/1) substituted (28.6.2013) by [The Animal Health (Miscellaneous Amendments) (Scotland) Order 2013 (S.S.I. 2013/173)](https://www.legislation.gov.uk/ssi/2013/173), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/173/article/1/1), [19(3)](https://www.legislation.gov.uk/ssi/2013/173/article/19/3)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15A. Patients who should not be tested for, or vaccinated against, coronavirus: confirmation of exemption[^key-770d166d3b46625cd7ed03c735f080c8]
+## 15A. Patients who should not be tested for, or vaccinated against, coronavirus: confirmation of exemption[^c-770d166d3b46625cd7ed03c735f080c8]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (6), a contract must contain a term which requires the contractor to respond to a valid exemption confirmation request if it is made at a relevant time[^key-e28cb80cc3ef2fd0f41c57c7e1077b87].
+(1) Subject to paragraph (6), a contract must contain a term which requires the contractor to respond to a valid exemption confirmation request if it is made at a relevant time[^c-e28cb80cc3ef2fd0f41c57c7e1077b87].
 
 (2) An exemption confirmation request—
 
@@ -29,7 +29,7 @@ summary: ''
   - (ii) should not be vaccinated with an authorised vaccine, and
 - (b) is valid if it is made in accordance with the process approved by the Secretary of State.
 
-(2A)[^key-dd3109010046844aa222eaec788343db] A valid exemption confirmation request is made at a relevant time if, at the time the request is made to the contractor—
+(2A)[^c-dd3109010046844aa222eaec788343db] A valid exemption confirmation request is made at a relevant time if, at the time the request is made to the contractor—
 
 - (a) legislation in force in England requires a person or class of person to be vaccinated against coronavirus unless they can show that, for clinical reasons, they are exempt from vaccination with an authorised vaccine, or
 - (b) guidance issued by, or on behalf of, the Secretary of State provides that a person or class of person should be vaccinated against coronavirus unless they can show that, for clinical reasons, they are exempt from vaccination with an authorised vaccine.
@@ -44,7 +44,7 @@ summary: ''
 - (a) are a child, or
 - (b) lack the capacity to make a request under paragraph (1).
 
-(5) The contractor must respond to a valid exemption confirmation request made at a relevant time[^key-3b1ae53ec06b71c33ba2176f1a5a4b89]—
+(5) The contractor must respond to a valid exemption confirmation request made at a relevant time[^c-3b1ae53ec06b71c33ba2176f1a5a4b89]—
 
 - (a) free of charge to P or the appropriate person, and
 - (b) by recording its response on an information hub using a method approved by the Secretary of State.
@@ -77,10 +77,10 @@ summary: ''
 
 ## Annotations
 
-[^key-770d166d3b46625cd7ed03c735f080c8]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/12)
+[^c-770d166d3b46625cd7ed03c735f080c8]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A) inserted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/995/schedule/2/paragraph/12)
 
-[^key-e28cb80cc3ef2fd0f41c57c7e1077b87]: Textual amendment: Words in [reg. 15A(1)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A/1) inserted (11.7.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/687)](https://www.legislation.gov.uk/uksi/2022/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/687/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/687/regulation/3/2/a)
+[^c-e28cb80cc3ef2fd0f41c57c7e1077b87]: Textual amendment: Words in [reg. 15A(1)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A/1) inserted (11.7.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/687)](https://www.legislation.gov.uk/uksi/2022/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/687/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/687/regulation/3/2/a)
 
-[^key-dd3109010046844aa222eaec788343db]: Textual amendment: [Reg. 15A(2A)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A/2A) inserted (11.7.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/687)](https://www.legislation.gov.uk/uksi/2022/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/687/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/687/regulation/3/2/b)
+[^c-dd3109010046844aa222eaec788343db]: Textual amendment: [Reg. 15A(2A)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A/2A) inserted (11.7.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/687)](https://www.legislation.gov.uk/uksi/2022/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/687/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/687/regulation/3/2/b)
 
-[^key-3b1ae53ec06b71c33ba2176f1a5a4b89]: Textual amendment: Words in [reg. 15A(5)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A/5) inserted (11.7.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/687)](https://www.legislation.gov.uk/uksi/2022/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/687/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/687/regulation/3/2/c)
+[^c-3b1ae53ec06b71c33ba2176f1a5a4b89]: Textual amendment: Words in [reg. 15A(5)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/15A/5) inserted (11.7.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/687)](https://www.legislation.gov.uk/uksi/2022/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/687/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/687/regulation/3/2/c)

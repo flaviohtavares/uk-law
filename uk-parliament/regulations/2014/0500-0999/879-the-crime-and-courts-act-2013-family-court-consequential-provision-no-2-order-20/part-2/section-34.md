@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**34.**[^key-d9b50078f15d404fd4e2336ed5b60ec8] In paragraph 21(2)(b), for “both places” substitute “each place”.
+**34.**[^c-d9b50078f15d404fd4e2336ed5b60ec8] In paragraph 21(2)(b), for “both places” substitute “each place”.
 
 ## Annotations
 
-[^key-d9b50078f15d404fd4e2336ed5b60ec8]: Commencement: Art. 34 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d9b50078f15d404fd4e2336ed5b60ec8]: Commencement: Art. 34 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

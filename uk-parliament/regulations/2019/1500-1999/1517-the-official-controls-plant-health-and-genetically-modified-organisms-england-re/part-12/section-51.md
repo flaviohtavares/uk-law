@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Transitional provisions: licences under article 39(1) of the 2005 Order or article 41(1) of the 2015 Order[^key-6319be3d76fb096cd75953d8149c8f8f]
+## 51. Transitional provisions: licences under article 39(1) of the 2005 Order or article 41(1) of the 2015 Order[^c-6319be3d76fb096cd75953d8149c8f8f]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6319be3d76fb096cd75953d8149c8f8f]: Commencement: Reg. 51 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-6319be3d76fb096cd75953d8149c8f8f]: Commencement: Reg. 51 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956321]: Marginal citation: OJ No. L 137, 23.5.2019, p.15.
 

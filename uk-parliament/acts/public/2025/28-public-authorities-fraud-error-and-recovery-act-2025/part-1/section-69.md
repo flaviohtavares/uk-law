@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Reports on exercise of functions[^key-6ac2239cb077fe711309b195e2ca8153][^key-043432ebbd91a6e46f06b73f46c3e772]
+## 69. Reports on exercise of functions[^c-6ac2239cb077fe711309b195e2ca8153][^c-043432ebbd91a6e46f06b73f46c3e772]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ the Minister must include the matter in the report that relates to that subseque
 
 ## Annotations
 
-[^key-6ac2239cb077fe711309b195e2ca8153]: Commencement: S. 69 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-6ac2239cb077fe711309b195e2ca8153]: Commencement: S. 69 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-043432ebbd91a6e46f06b73f46c3e772]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2025/28/section/69) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-043432ebbd91a6e46f06b73f46c3e772]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2025/28/section/69) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

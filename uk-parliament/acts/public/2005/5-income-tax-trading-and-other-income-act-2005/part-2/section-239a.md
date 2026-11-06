@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239A. Spreading on leaving cash basis[^key-2e0c9056f3826bb2888ad438dc0cff95]
+## 239A. Spreading on leaving cash basis[^c-2e0c9056f3826bb2888ad438dc0cff95]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies if—
 
-- (a) the cash basis applies[^key-30cc67552ccca035cefc443f17ceca26] in relation to a trade for a tax year, and
-- (b) the cash basis does not apply[^key-bc423c69bb278f3c32d99d25b02470a4] in relation to the trade for the following tax year.
+- (a) the cash basis applies[^c-30cc67552ccca035cefc443f17ceca26] in relation to a trade for a tax year, and
+- (b) the cash basis does not apply[^c-bc423c69bb278f3c32d99d25b02470a4] in relation to the trade for the following tax year.
 
 (2) Any adjustment income is spread over 6 tax years as follows.
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2e0c9056f3826bb2888ad438dc0cff95]: Textual amendment: Ss. 239A, 239B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/37)
+[^c-2e0c9056f3826bb2888ad438dc0cff95]: Textual amendment: Ss. 239A, 239B and cross-heading inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/37)
 
-[^key-30cc67552ccca035cefc443f17ceca26]: Textual amendment: Words in [s. 239A(1)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/239A/1/a) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 27(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/27/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-30cc67552ccca035cefc443f17ceca26]: Textual amendment: Words in [s. 239A(1)(a)](https://www.legislation.gov.uk/ukpga/2005/5/section/239A/1/a) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 27(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/27/a), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
 
-[^key-bc423c69bb278f3c32d99d25b02470a4]: Textual amendment: Words in [s. 239A(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/239A/1/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 27(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/27/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-bc423c69bb278f3c32d99d25b02470a4]: Textual amendment: Words in [s. 239A(1)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/239A/1/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 27(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/27/b), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

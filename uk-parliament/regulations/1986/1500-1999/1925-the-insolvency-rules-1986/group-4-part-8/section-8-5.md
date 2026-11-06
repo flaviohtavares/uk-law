@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.5. Right of inspection[^key-e8d44bc36f76d35bb5a1bc2e26b4105a]
+## 8.5. Right of inspection[^c-e8d44bc36f76d35bb5a1bc2e26b4105a]
 
 *Extent: E+W*
 
@@ -37,10 +37,10 @@ but in neither case does it include a person whose proof or claim has been wholl
 - (a) in the case of an insolvent company, by its directors, and
 - (b) in the case of an insolvent individual, by him.
 
-(4) Any person attending a meeting in insolvency proceedings is entitled, immediately before or in the course of the meeting, to inspect proxies and associated documents (including proofs) sent or given, in accordance with directions contained in any notice convening the meeting, to the chairman of that meeting or to any other person by a creditor, member or contributory for the purpose of that meeting.[^key-6de3b8362b5578a263ca3a5f0e16cb85]
+(4) Any person attending a meeting in insolvency proceedings is entitled, immediately before or in the course of the meeting, to inspect proxies and associated documents (including proofs) sent or given, in accordance with directions contained in any notice convening the meeting, to the chairman of that meeting or to any other person by a creditor, member or contributory for the purpose of that meeting.[^c-6de3b8362b5578a263ca3a5f0e16cb85]
 
 ## Annotations
 
-[^key-e8d44bc36f76d35bb5a1bc2e26b4105a]: Commencement: [Rule 8.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/8.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e8d44bc36f76d35bb5a1bc2e26b4105a]: Commencement: [Rule 8.5](https://www.legislation.gov.uk/uksi/1986/1925/rule/8.5) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-6de3b8362b5578a263ca3a5f0e16cb85]: Textual amendment: Words in [rule 8.5(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/8.5/4) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 136](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/136)
+[^c-6de3b8362b5578a263ca3a5f0e16cb85]: Textual amendment: Words in [rule 8.5(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/8.5/4) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 136](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/136)

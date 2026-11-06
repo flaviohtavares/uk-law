@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122ZA. Orders for further education corporations in England to become higher education corporations[^key-7c6dae1ee6f7796f599e3069b36abf63]
+## 122ZA. Orders for further education corporations in England to become higher education corporations[^c-7c6dae1ee6f7796f599e3069b36abf63]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6dae1ee6f7796f599e3069b36abf63]: Textual amendment: S. 122ZA inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/3); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)
+[^c-7c6dae1ee6f7796f599e3069b36abf63]: Textual amendment: S. 122ZA inserted (1.8.2019) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2017/29/schedule/8/paragraph/3); [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/o)

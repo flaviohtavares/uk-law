@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Establishment of active member’s account[^key-607e29e766cd416496b023b8042633e7]
+## 46. Establishment of active member’s account[^c-607e29e766cd416496b023b8042633e7]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-607e29e766cd416496b023b8042633e7]: Commencement: Reg. 46 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-607e29e766cd416496b023b8042633e7]: Commencement: Reg. 46 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

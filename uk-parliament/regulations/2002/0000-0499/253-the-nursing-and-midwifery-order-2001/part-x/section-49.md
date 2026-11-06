@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Default powers of the Privy Council[^key-44f77cae78a24d77717ef0dbd45805b5]
+## 49. Default powers of the Privy Council[^c-44f77cae78a24d77717ef0dbd45805b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44f77cae78a24d77717ef0dbd45805b5]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2002/253/article/49) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)
+[^c-44f77cae78a24d77717ef0dbd45805b5]: Commencement: [Art. 49](https://www.legislation.gov.uk/uksi/2002/253/article/49) in force at 1.4.2002 as notified in the London Gazette (Issue 56517, published 25.3.2002), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2002/253/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 582. Revocation of references to former tribunals[^key-eed64b1d64d7952fff79a0166b56cc3b]
+## 582. Revocation of references to former tribunals[^c-eed64b1d64d7952fff79a0166b56cc3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ are revoked.
 
 ## Annotations
 
-[^key-eed64b1d64d7952fff79a0166b56cc3b]: Commencement: Art. 582 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-eed64b1d64d7952fff79a0166b56cc3b]: Commencement: Art. 582 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00364]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53). Section 47 is superseded by provisions inserted by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) and the tribunal established under that section abolished.

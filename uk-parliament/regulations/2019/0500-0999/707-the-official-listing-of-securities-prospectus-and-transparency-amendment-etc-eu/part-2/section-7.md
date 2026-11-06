@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Prohibition of dealing etc in transferable securities without approved prospectus[^key-d6dd6a67d4123b1544a3705b20b08e28]
+## 7. Prohibition of dealing etc in transferable securities without approved prospectus[^c-d6dd6a67d4123b1544a3705b20b08e28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 85 (prohibition of dealing etc in transferable securities without app
 
 ## Annotations
 
-[^key-d6dd6a67d4123b1544a3705b20b08e28]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d6dd6a67d4123b1544a3705b20b08e28]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Applications for certificates: procedure[^key-d49ba0378a1b5bdacc56597874c3095b]
+## 43. Applications for certificates: procedure[^c-d49ba0378a1b5bdacc56597874c3095b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d49ba0378a1b5bdacc56597874c3095b]: Commencement: S. 43 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-d49ba0378a1b5bdacc56597874c3095b]: Commencement: S. 43 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

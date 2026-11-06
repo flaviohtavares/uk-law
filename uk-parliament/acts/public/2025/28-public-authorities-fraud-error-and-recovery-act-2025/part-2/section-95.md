@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Recovery from bank accounts etc[^key-788ffc14531ea36383e3640eb8762218][^key-e7742ccba13ebb23dab09f4a17d63501]
+## 95. Recovery from bank accounts etc[^c-788ffc14531ea36383e3640eb8762218][^c-e7742ccba13ebb23dab09f4a17d63501]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-788ffc14531ea36383e3640eb8762218]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-788ffc14531ea36383e3640eb8762218]: Commencement: S. 95 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-e7742ccba13ebb23dab09f4a17d63501]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/28/section/95) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/b)
+[^c-e7742ccba13ebb23dab09f4a17d63501]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2025/28/section/95) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/b)

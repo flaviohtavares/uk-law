@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Criminal conduct authorisations
 
-### 1. Authorisation of criminal conduct[^key-6cf05b61fedae33987ed05dee60fee76][^key-128ff731bd3212af6b1652d057109cb5][^key-d1d5bbfb7d2eea76feac434e2d4e1f38]
+### 1. Authorisation of criminal conduct[^c-6cf05b61fedae33987ed05dee60fee76][^c-128ff731bd3212af6b1652d057109cb5][^c-d1d5bbfb7d2eea76feac434e2d4e1f38]
 
 (1) Section 26 of the Regulation of Investigatory Powers Act 2000 (conduct to which Part 2 of that Act applies) is amended in accordance with subsections (2) and (3).
 
@@ -105,7 +105,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (a) prohibit the authorisation under this section of any such conduct as may be described in the order; and
 > - (b) impose requirements, in addition to those provided for by subsections (3) and (4) and sections 29C and 29D, that must be satisfied before an authorisation is granted under this section for any such conduct as may be so described.
 
-### 2. Criminal conduct authorisations: safeguards for juveniles[^key-39290c01940c085ec458dad03b9b0421][^key-3e9509e985a46c3a4843e4c76406a1df][^key-ef34118b0a538a5ab82259db31b48e24]
+### 2. Criminal conduct authorisations: safeguards for juveniles[^c-39290c01940c085ec458dad03b9b0421][^c-3e9509e985a46c3a4843e4c76406a1df][^c-ef34118b0a538a5ab82259db31b48e24]
 
 (1) After section 29B of the Regulation of Investigatory Powers Act 2000 (inserted by section 1(5)) insert—
 
@@ -210,7 +210,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) The amendments made by subsections (3) to (8) to the Regulation of Investigatory Powers (Juveniles) Order 2000 (S.I. 2000/2793) are to be treated as having been made under section 29B(4)(c) or (10) or section 43(8) of the Regulation of Investigatory Powers Act 2000 as the case may be (and may be amended or revoked under those powers accordingly).
 
-### 3. Criminal conduct authorisations: safeguards for vulnerable adults[^key-9e7857b7a09db3e6e0774f3601d33201][^key-df2d6fb922ecbc93f7d3f674b9096935][^key-2dd4bbda475282f794a0a428d3ca2ee3]
+### 3. Criminal conduct authorisations: safeguards for vulnerable adults[^c-9e7857b7a09db3e6e0774f3601d33201][^c-df2d6fb922ecbc93f7d3f674b9096935][^c-2dd4bbda475282f794a0a428d3ca2ee3]
 
 After section 29C of the Regulation of Investigatory Powers Act 2000 (inserted by section 2) insert—
 
@@ -242,7 +242,7 @@ After section 29C of the Regulation of Investigatory Powers Act 2000 (inserted b
 
 ## Authorising authorities
 
-### 4. Authorities to be capable of authorising criminal conduct[^key-ec1caf7bfed127cc16e3427700847ba6][^key-291cbec4fca59cc8812a3ba420eb83cb][^key-dc54599703034b0cd06bf7307b0079a5]
+### 4. Authorities to be capable of authorising criminal conduct[^c-ec1caf7bfed127cc16e3427700847ba6][^c-291cbec4fca59cc8812a3ba420eb83cb][^c-dc54599703034b0cd06bf7307b0079a5]
 
 (1) Section 30 of the Regulation of Investigatory Powers Act 2000 (persons entitled to grant authorisations under sections 28 and 29 of that Act) is amended in accordance with subsections (2) to (8).
 
@@ -330,7 +330,7 @@ After section 29C of the Regulation of Investigatory Powers Act 2000 (inserted b
 
 ## Criminal injuries compensation
 
-### 5. Criminal injuries compensation[^key-8957518e3d0e2c73da5b5f00b21fd26c][^key-a2b2ba33087abde8e68c4b1aa5d71c9d][^key-2f3a0053035503417c0adde8d74491ca]
+### 5. Criminal injuries compensation[^c-8957518e3d0e2c73da5b5f00b21fd26c][^c-a2b2ba33087abde8e68c4b1aa5d71c9d][^c-2f3a0053035503417c0adde8d74491ca]
 
 After section 27 of the Regulation of Investigatory Powers Act 2000 (lawful surveillance etc.) insert—
 
@@ -347,7 +347,7 @@ After section 27 of the Regulation of Investigatory Powers Act 2000 (lawful surv
 
 ## Notification to Judicial Commissioner
 
-### 6. Notification to a Judicial Commissioner[^key-23c8362e76fca04d567850146804f215][^key-1530f3e971021a0a299a7e77bcfaf7b9][^key-47183ddd6fb4a497fc0f564db490758c]
+### 6. Notification to a Judicial Commissioner[^c-23c8362e76fca04d567850146804f215][^c-1530f3e971021a0a299a7e77bcfaf7b9][^c-47183ddd6fb4a497fc0f564db490758c]
 
 After section 32B of the Regulation of Investigatory Powers Act 2000 insert—
 
@@ -371,7 +371,7 @@ After section 32B of the Regulation of Investigatory Powers Act 2000 insert—
 
 ## Oversight by the Investigatory Powers Commissioner
 
-### 7. Oversight by the Investigatory Powers Commissioner[^key-4b5ee257e6a3800e72babfa446cc0be2][^key-c65fa0966b609d5073dc512049c836aa][^key-ba31f23e00ad154c8de0bc19119b6536]
+### 7. Oversight by the Investigatory Powers Commissioner[^c-4b5ee257e6a3800e72babfa446cc0be2][^c-c65fa0966b609d5073dc512049c836aa][^c-ba31f23e00ad154c8de0bc19119b6536]
 
 (1) The Investigatory Powers Act 2016 is amended as follows.
 
@@ -394,7 +394,7 @@ After section 32B of the Regulation of Investigatory Powers Act 2000 insert—
 
 ## General and final provision
 
-### 8. Consequential provision[^key-211100e68685820fc07520b57aee0c16][^key-3f0cc5f242f2bf3a2ce67cf9ebf258c9][^key-59c6370b5e08f56c7f26b52dc58b0032]
+### 8. Consequential provision[^c-211100e68685820fc07520b57aee0c16][^c-3f0cc5f242f2bf3a2ce67cf9ebf258c9][^c-59c6370b5e08f56c7f26b52dc58b0032]
 
 The Schedule contains consequential amendments.
 
@@ -426,17 +426,17 @@ Section 8
 
 #### Introductory
 
-**1.**[^key-237e4f624094aaceabec6c234be3c668][^key-f1e278f54ef54b80df9a65fb2a03efa5][^key-05b5d3f95ee5933b6da74538279c289e] The Regulation of Investigatory Powers Act 2000 is amended as follows.
+**1.**[^c-237e4f624094aaceabec6c234be3c668][^c-f1e278f54ef54b80df9a65fb2a03efa5][^c-05b5d3f95ee5933b6da74538279c289e] The Regulation of Investigatory Powers Act 2000 is amended as follows.
 
 #### Orders under section 30 for Northern Ireland
 
-**2.**[^key-1a5fd3493a39f7c2b2d886be8b1d3c80][^key-305d19ffb96f71cf8647e2986dbe82ab][^key-69876d21f8737525decd3ebb36d9c281] In section 31 (orders under section 30 for Northern Ireland), in subsection (1), after “authorisations” insert “ under section 28 or 29 ”.
+**2.**[^c-1a5fd3493a39f7c2b2d886be8b1d3c80][^c-305d19ffb96f71cf8647e2986dbe82ab][^c-69876d21f8737525decd3ebb36d9c281] In section 31 (orders under section 30 for Northern Ireland), in subsection (1), after “authorisations” insert “ under section 28 or 29 ”.
 
 #### Granting authorisations
 
-**3.**[^key-7efab9c215c7e52a596d16ae6d2b94a6][^key-7a424e2eab2e49052c7b6be52709541d][^key-b352554683cad12dd179502ec2f3ac69] In the heading before section 32A (authorisations requiring judicial approval), after “approval” insert “ or notification ”.
+**3.**[^c-7efab9c215c7e52a596d16ae6d2b94a6][^c-7a424e2eab2e49052c7b6be52709541d][^c-b352554683cad12dd179502ec2f3ac69] In the heading before section 32A (authorisations requiring judicial approval), after “approval” insert “ or notification ”.
 
-**4.**[^key-330ba0f148990796c27e3a516e2fbe87][^key-2320fb6d9d00fc84aa4b4867336336ce][^key-993daaa664cebc92cc86eab78252e84f] (1) Section 33 (rules for grant of authorisations) is amended as follows.
+**4.**[^c-330ba0f148990796c27e3a516e2fbe87][^c-2320fb6d9d00fc84aa4b4867336336ce][^c-993daaa664cebc92cc86eab78252e84f] (1) Section 33 (rules for grant of authorisations) is amended as follows.
 
 (2) In subsection (1), for “or 29” substitute “ , 29 or 29B ”.
 
@@ -448,7 +448,7 @@ Section 8
 
 (6) In subsection (2), for “or 29” substitute “ , 29 or 29B ”.
 
-**5.**[^key-40b1400bf94f5653b66c239fbc3e1631][^key-98d82d4925fcf3de6afa22d2f5baf3e2][^key-2cab5706735c04b88d2786b80eb75355] (1) Section 33A (further provision about granting authorisations in cases where the National Crime Agency is party to a collaboration agreement) is amended as follows.
+**5.**[^c-40b1400bf94f5653b66c239fbc3e1631][^c-98d82d4925fcf3de6afa22d2f5baf3e2][^c-2cab5706735c04b88d2786b80eb75355] (1) Section 33A (further provision about granting authorisations in cases where the National Crime Agency is party to a collaboration agreement) is amended as follows.
 
 (2) In subsection (2), for “or 29” substitute “ , 29 or 29B ”.
 
@@ -458,13 +458,13 @@ Section 8
 
 #### General rules about grant, renewal, duration and cancellation
 
-**6.**[^key-976c03fdeace9c47ac0a535c491dbbd8][^key-58cadb00ca9f1f1c93c035dd0cf3617d][^key-9ae67e53981d7a1da7c26a68284d4c81] (1) Section 43 (general rules about grant, renewal and duration) is amended as follows.
+**6.**[^c-976c03fdeace9c47ac0a535c491dbbd8][^c-58cadb00ca9f1f1c93c035dd0cf3617d][^c-9ae67e53981d7a1da7c26a68284d4c81] (1) Section 43 (general rules about grant, renewal and duration) is amended as follows.
 
 (2) In subsection (3)(b), after “source” insert “ or is an authorisation under section 29B ”.
 
 (3) In subsection (6), after “source” insert “ or an authorisation under section 29B ”.
 
-**7.**[^key-84a99b5e28da8b9d0f8657ad67bc5ae6][^key-63f4179c7d7085b67c86694b66a2bb7f][^key-73ed6f9236e67d2de543cc1ca2e12cf7] (1) Section 45 (cancellation of authorisations) is amended as follows.
+**7.**[^c-84a99b5e28da8b9d0f8657ad67bc5ae6][^c-63f4179c7d7085b67c86694b66a2bb7f][^c-73ed6f9236e67d2de543cc1ca2e12cf7] (1) Section 45 (cancellation of authorisations) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -484,7 +484,7 @@ Section 8
 
 (4) In subsection (3), for “either” substitute “ any ”.
 
-**8.**[^key-3455224f0bb67db6052a36250e1f61e5][^key-f813da60bf18e125c8643ebb95f54509][^key-4122cfe9113d0c210dcc135d992f893b] In section 46 (restrictions on authorisations extending to Scotland)—
+**8.**[^c-3455224f0bb67db6052a36250e1f61e5][^c-f813da60bf18e125c8643ebb95f54509][^c-4122cfe9113d0c210dcc135d992f893b] In section 46 (restrictions on authorisations extending to Scotland)—
 
 - (a) in subsection (2)(d), after “conduct of” insert “ or in relation to ”;
 - (b) after subsection (4) insert—
@@ -497,7 +497,7 @@ Section 8
 
 #### Authorising authorities
 
-**9.**[^key-f97fa4179c9c5cd6a639b6d06078879a][^key-99b88d9a61a602ba91489bb62b966a83][^key-346eac73f59ca30ffab273877287a0ba] (1) Part 1 of Schedule 1 (relevant authorities for the purposes of sections 28 and 29) is amended as follows.
+**9.**[^c-f97fa4179c9c5cd6a639b6d06078879a][^c-99b88d9a61a602ba91489bb62b966a83][^c-346eac73f59ca30ffab273877287a0ba] (1) Part 1 of Schedule 1 (relevant authorities for the purposes of sections 28 and 29) is amended as follows.
 
 (2) In the heading of the Part, after “purposes” insert “ only ”.
 
@@ -522,33 +522,33 @@ Section 8
 
 #### Police Reform Act 2002
 
-**10.**[^key-571ea3ccad65356aa1ff21945ab335bb][^key-9345bd9a6e54fea6014d2c514aa55de9][^key-fa08a9f67d8715c5d1e5f4e51e948c10] In section 19 of the Police Reform Act 2002 (use of investigatory powers by or on behalf of the Director General), after subsection (4) insert—
+**10.**[^c-571ea3ccad65356aa1ff21945ab335bb][^c-9345bd9a6e54fea6014d2c514aa55de9][^c-fa08a9f67d8715c5d1e5f4e51e948c10] In section 19 of the Police Reform Act 2002 (use of investigatory powers by or on behalf of the Director General), after subsection (4) insert—
 
 > (5) But the reference in subsection (1)(b) to the conduct of covert human intelligence sources does not include conduct which may be authorised under section 29B of that Act (criminal conduct authorisations).
 
 #### Gambling Act 2005
 
-**11.**[^key-ebff699e5c919db4f8a629352c77b872][^key-cbf9144b3fd892469e91548a57e4733e][^key-df4e8f2bccadfe56d22441cb2ef8bd48] In Schedule 16 to the Gambling Act 2005 (minor and consequential amendments), omit paragraph 14 and the italic heading before it.
+**11.**[^c-ebff699e5c919db4f8a629352c77b872][^c-cbf9144b3fd892469e91548a57e4733e][^c-df4e8f2bccadfe56d22441cb2ef8bd48] In Schedule 16 to the Gambling Act 2005 (minor and consequential amendments), omit paragraph 14 and the italic heading before it.
 
 #### Serious Crime Act 2007
 
-**12.**[^key-c0994f1f94f8453411c2433daa81684b][^key-a72ef1f6c5fdf8ae3cd356a2c1b23a00][^key-68b4e84353e7b8cc900f91fac323144c] In Schedule 12 to the Serious Crime Act 2007 (Revenue and Customs: regulation of investigatory powers), omit paragraph 28.
+**12.**[^c-c0994f1f94f8453411c2433daa81684b][^c-a72ef1f6c5fdf8ae3cd356a2c1b23a00][^c-68b4e84353e7b8cc900f91fac323144c] In Schedule 12 to the Serious Crime Act 2007 (Revenue and Customs: regulation of investigatory powers), omit paragraph 28.
 
 #### Crime and Courts Act 2013
 
-**13.**[^key-8a86d9bc475fe87081cf7c556aba3efb][^key-266c2dbb3c873b9ef1d318466606d6c4][^key-60e69d666ebe3e36febb59e283f615d0] The Crime and Courts Act 2013 is amended as follows.
+**13.**[^c-8a86d9bc475fe87081cf7c556aba3efb][^c-266c2dbb3c873b9ef1d318466606d6c4][^c-60e69d666ebe3e36febb59e283f615d0] The Crime and Courts Act 2013 is amended as follows.
 
-**14.**[^key-a0cde95a193ae40bbea678a615e70ced][^key-23709f1e86df0512792221beaff5c7c8][^key-fd36674b7512f88399614aff13239b60] In Schedule 1 (the National Crime Agency and its officers), in paragraph 6A, after sub-paragraph (3)(a)(ii) insert—
+**14.**[^c-a0cde95a193ae40bbea678a615e70ced][^c-23709f1e86df0512792221beaff5c7c8][^c-fd36674b7512f88399614aff13239b60] In Schedule 1 (the National Crime Agency and its officers), in paragraph 6A, after sub-paragraph (3)(a)(ii) insert—
 
 > - (iia) section 29B (covert human intelligence sources: criminal conduct);
 
 .
 
-**15.**[^key-71e320a10066f9f31ba18d9bcb94f9ff][^key-0b6d73c139dbfa51f6dce2514f60ce29][^key-71257a09fbb94acdad25a606cb9a3fad] In Schedule 8 (minor and consequential amendments and repeals), omit paragraph 99.
+**15.**[^c-71e320a10066f9f31ba18d9bcb94f9ff][^c-0b6d73c139dbfa51f6dce2514f60ce29][^c-71257a09fbb94acdad25a606cb9a3fad] In Schedule 8 (minor and consequential amendments and repeals), omit paragraph 99.
 
 #### Coronavirus Act 2020
 
-**16.**[^key-12fada19436b0ac71805495986785b95][^key-0d22c35890d08a8d1845f2e40b11f150][^key-766237e79ae28bdbb90155c3318a3755] (1) Sub-paragraph (2) applies to—
+**16.**[^c-12fada19436b0ac71805495986785b95][^c-0d22c35890d08a8d1845f2e40b11f150][^c-766237e79ae28bdbb90155c3318a3755] (1) Sub-paragraph (2) applies to—
 
 - (a) section 22 of the Coronavirus Act 2020 (appointment of temporary Judicial Commissioners),
 - (b) regulation 3(1) of the Investigatory Powers (Temporary Judicial Commissioners and Modification of Time Limits) Regulations 2020 (S.I. 2020/360), and
@@ -563,146 +563,146 @@ are to be read as including references to functions conferred on Judicial Commis
 
 ## Annotations
 
-[^key-6cf05b61fedae33987ed05dee60fee76]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/4/section/1) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a) (with [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/a))
+[^c-6cf05b61fedae33987ed05dee60fee76]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/4/section/1) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a) (with [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/a))
 
-[^key-128ff731bd3212af6b1652d057109cb5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/4/section/1) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b) (with [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/b))
+[^c-128ff731bd3212af6b1652d057109cb5]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/4/section/1) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b) (with [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/b))
 
-[^key-d1d5bbfb7d2eea76feac434e2d4e1f38]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/4/section/1) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c) (with [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/c))
+[^c-d1d5bbfb7d2eea76feac434e2d4e1f38]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/4/section/1) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c) (with [reg. 3(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/3/c))
 
-[^key-39290c01940c085ec458dad03b9b0421]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/4/section/2) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-39290c01940c085ec458dad03b9b0421]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/4/section/2) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-3e9509e985a46c3a4843e4c76406a1df]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/4/section/2) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-3e9509e985a46c3a4843e4c76406a1df]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/4/section/2) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-ef34118b0a538a5ab82259db31b48e24]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/4/section/2) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-ef34118b0a538a5ab82259db31b48e24]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/4/section/2) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-9e7857b7a09db3e6e0774f3601d33201]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-9e7857b7a09db3e6e0774f3601d33201]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-df2d6fb922ecbc93f7d3f674b9096935]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-df2d6fb922ecbc93f7d3f674b9096935]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-2dd4bbda475282f794a0a428d3ca2ee3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-2dd4bbda475282f794a0a428d3ca2ee3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2021/4/section/3) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-ec1caf7bfed127cc16e3427700847ba6]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/4/section/4) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-ec1caf7bfed127cc16e3427700847ba6]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/4/section/4) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-291cbec4fca59cc8812a3ba420eb83cb]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/4/section/4) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-291cbec4fca59cc8812a3ba420eb83cb]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/4/section/4) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-dc54599703034b0cd06bf7307b0079a5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/4/section/4) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-dc54599703034b0cd06bf7307b0079a5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2021/4/section/4) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-8957518e3d0e2c73da5b5f00b21fd26c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-8957518e3d0e2c73da5b5f00b21fd26c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-a2b2ba33087abde8e68c4b1aa5d71c9d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-a2b2ba33087abde8e68c4b1aa5d71c9d]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-2f3a0053035503417c0adde8d74491ca]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-2f3a0053035503417c0adde8d74491ca]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2021/4/section/5) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-23c8362e76fca04d567850146804f215]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-23c8362e76fca04d567850146804f215]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-1530f3e971021a0a299a7e77bcfaf7b9]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-1530f3e971021a0a299a7e77bcfaf7b9]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-47183ddd6fb4a497fc0f564db490758c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-47183ddd6fb4a497fc0f564db490758c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/4/section/6) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-4b5ee257e6a3800e72babfa446cc0be2]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/4/section/7) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-4b5ee257e6a3800e72babfa446cc0be2]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/4/section/7) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-c65fa0966b609d5073dc512049c836aa]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/4/section/7) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-c65fa0966b609d5073dc512049c836aa]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/4/section/7) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-ba31f23e00ad154c8de0bc19119b6536]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/4/section/7) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-ba31f23e00ad154c8de0bc19119b6536]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2021/4/section/7) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-211100e68685820fc07520b57aee0c16]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/4/section/8) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-211100e68685820fc07520b57aee0c16]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/4/section/8) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-3f0cc5f242f2bf3a2ce67cf9ebf258c9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/4/section/8) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-3f0cc5f242f2bf3a2ce67cf9ebf258c9]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/4/section/8) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-59c6370b5e08f56c7f26b52dc58b0032]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/4/section/8) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-59c6370b5e08f56c7f26b52dc58b0032]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/4/section/8) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-237e4f624094aaceabec6c234be3c668]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/1) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-237e4f624094aaceabec6c234be3c668]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/1) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-f1e278f54ef54b80df9a65fb2a03efa5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/1) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-f1e278f54ef54b80df9a65fb2a03efa5]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/1) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-05b5d3f95ee5933b6da74538279c289e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/1) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-05b5d3f95ee5933b6da74538279c289e]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/1) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-1a5fd3493a39f7c2b2d886be8b1d3c80]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-1a5fd3493a39f7c2b2d886be8b1d3c80]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-305d19ffb96f71cf8647e2986dbe82ab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-305d19ffb96f71cf8647e2986dbe82ab]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-69876d21f8737525decd3ebb36d9c281]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-69876d21f8737525decd3ebb36d9c281]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/2) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-7efab9c215c7e52a596d16ae6d2b94a6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/3) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-7efab9c215c7e52a596d16ae6d2b94a6]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/3) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-7a424e2eab2e49052c7b6be52709541d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/3) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-7a424e2eab2e49052c7b6be52709541d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/3) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-b352554683cad12dd179502ec2f3ac69]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/3) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-b352554683cad12dd179502ec2f3ac69]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/3) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-330ba0f148990796c27e3a516e2fbe87]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/4) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-330ba0f148990796c27e3a516e2fbe87]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/4) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-2320fb6d9d00fc84aa4b4867336336ce]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/4) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-2320fb6d9d00fc84aa4b4867336336ce]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/4) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-993daaa664cebc92cc86eab78252e84f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/4) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-993daaa664cebc92cc86eab78252e84f]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/4) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-40b1400bf94f5653b66c239fbc3e1631]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/5) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-40b1400bf94f5653b66c239fbc3e1631]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/5) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-98d82d4925fcf3de6afa22d2f5baf3e2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/5) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-98d82d4925fcf3de6afa22d2f5baf3e2]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/5) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-2cab5706735c04b88d2786b80eb75355]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/5) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-2cab5706735c04b88d2786b80eb75355]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/5) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-976c03fdeace9c47ac0a535c491dbbd8]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/6) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-976c03fdeace9c47ac0a535c491dbbd8]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/6) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-58cadb00ca9f1f1c93c035dd0cf3617d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/6) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-58cadb00ca9f1f1c93c035dd0cf3617d]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/6) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-9ae67e53981d7a1da7c26a68284d4c81]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/6) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-9ae67e53981d7a1da7c26a68284d4c81]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/6) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-84a99b5e28da8b9d0f8657ad67bc5ae6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/7) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-84a99b5e28da8b9d0f8657ad67bc5ae6]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/7) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-63f4179c7d7085b67c86694b66a2bb7f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/7) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-63f4179c7d7085b67c86694b66a2bb7f]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/7) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-73ed6f9236e67d2de543cc1ca2e12cf7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/7) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-73ed6f9236e67d2de543cc1ca2e12cf7]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/7) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-3455224f0bb67db6052a36250e1f61e5]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/8) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-3455224f0bb67db6052a36250e1f61e5]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/8) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-f813da60bf18e125c8643ebb95f54509]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/8) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-f813da60bf18e125c8643ebb95f54509]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/8) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-4122cfe9113d0c210dcc135d992f893b]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/8) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-4122cfe9113d0c210dcc135d992f893b]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/8) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-f97fa4179c9c5cd6a639b6d06078879a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/9) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-f97fa4179c9c5cd6a639b6d06078879a]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/9) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-99b88d9a61a602ba91489bb62b966a83]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/9) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-99b88d9a61a602ba91489bb62b966a83]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/9) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-346eac73f59ca30ffab273877287a0ba]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/9) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-346eac73f59ca30ffab273877287a0ba]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/9) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-571ea3ccad65356aa1ff21945ab335bb]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/10) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-571ea3ccad65356aa1ff21945ab335bb]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/10) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-9345bd9a6e54fea6014d2c514aa55de9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/10) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-9345bd9a6e54fea6014d2c514aa55de9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/10) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-fa08a9f67d8715c5d1e5f4e51e948c10]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/10) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-fa08a9f67d8715c5d1e5f4e51e948c10]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/10) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-ebff699e5c919db4f8a629352c77b872]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/11) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-ebff699e5c919db4f8a629352c77b872]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/11) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-cbf9144b3fd892469e91548a57e4733e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/11) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-cbf9144b3fd892469e91548a57e4733e]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/11) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-df4e8f2bccadfe56d22441cb2ef8bd48]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/11) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-df4e8f2bccadfe56d22441cb2ef8bd48]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/11) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-c0994f1f94f8453411c2433daa81684b]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/12) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-c0994f1f94f8453411c2433daa81684b]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/12) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-a72ef1f6c5fdf8ae3cd356a2c1b23a00]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/12) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-a72ef1f6c5fdf8ae3cd356a2c1b23a00]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/12) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-68b4e84353e7b8cc900f91fac323144c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/12) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-68b4e84353e7b8cc900f91fac323144c]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/12) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-8a86d9bc475fe87081cf7c556aba3efb]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/13) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-8a86d9bc475fe87081cf7c556aba3efb]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/13) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-266c2dbb3c873b9ef1d318466606d6c4]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/13) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-266c2dbb3c873b9ef1d318466606d6c4]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/13) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-60e69d666ebe3e36febb59e283f615d0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/13) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-60e69d666ebe3e36febb59e283f615d0]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/13) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-a0cde95a193ae40bbea678a615e70ced]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/14) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-a0cde95a193ae40bbea678a615e70ced]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/14) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-23709f1e86df0512792221beaff5c7c8]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/14) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-23709f1e86df0512792221beaff5c7c8]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/14) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-fd36674b7512f88399614aff13239b60]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/14) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-fd36674b7512f88399614aff13239b60]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/14) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-71e320a10066f9f31ba18d9bcb94f9ff]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/15) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-71e320a10066f9f31ba18d9bcb94f9ff]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/15) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-0b6d73c139dbfa51f6dce2514f60ce29]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/15) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-0b6d73c139dbfa51f6dce2514f60ce29]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/15) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-71257a09fbb94acdad25a606cb9a3fad]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/15) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-71257a09fbb94acdad25a606cb9a3fad]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/15) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
 
-[^key-12fada19436b0ac71805495986785b95]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/16) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
+[^c-12fada19436b0ac71805495986785b95]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/16) in force at 10.8.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)
 
-[^key-0d22c35890d08a8d1845f2e40b11f150]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/16) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
+[^c-0d22c35890d08a8d1845f2e40b11f150]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/16) in force at 15.9.2021 for specified purposes by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)
 
-[^key-766237e79ae28bdbb90155c3318a3755]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/16) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-766237e79ae28bdbb90155c3318a3755]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2021/4/schedule/paragraph/16) in force at 30.9.2021 in so far as not already in force by [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)

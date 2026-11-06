@@ -49,11 +49,11 @@ to make the following Regulations;
 
 ## Part I — Preliminary
 
-### 1. Citation and commencement[^key-9c431edecf38e1533d532229a278e26e]
+### 1. Citation and commencement[^c-9c431edecf38e1533d532229a278e26e]
 
 These Regulations may be cited as the Minced Meat and Meat Preparations (Hygiene) Regulations (Northern Ireland) 1997 and shall come into operation on 8th December 1997.
 
-### 2. Interpretation[^key-7e04f9c43838b87d816625979258a588]
+### 2. Interpretation[^c-7e04f9c43838b87d816625979258a588]
 
 In these Regulations—
 
@@ -110,7 +110,7 @@ In these Regulations—
 - “Wild Game Meat Regulations” means the Wild Game Meat (Hygiene and Inspection) Regulations (Northern Ireland) 1997[^f00012]; and
 - “wrapping”, in relation to minced meat or meat preparations, means the placing of such products in material which comes into direct contact with them, as well as the material itself.
 
-### 3. Exemptions[^key-64b7a1bdcc4797c20a038963be87489d]
+### 3. Exemptions[^c-64b7a1bdcc4797c20a038963be87489d]
 
 These Regulations shall not apply to—
 
@@ -120,7 +120,7 @@ These Regulations shall not apply to—
 
 ## Part II — Approval of premises
 
-### 4. Approval of premises[^key-29ddeabcf68374652b907382f1ffa283]
+### 4. Approval of premises[^c-29ddeabcf68374652b907382f1ffa283]
 
 (1) A person shall not use any premises for the production of minced meat or meat preparations intended for consignment, or sale for consignment, to an EEA State, or to a third country, for human consumption unless those premises are approved under this regulation and comply with the appropriate requirements of the Schedules.
 
@@ -147,7 +147,7 @@ and shall refuse so to approve those premises if it is not so satisfied.
 
 (6) The approval authority to which an application has been made under paragraph (3) shall notify the applicant of its decision in relation to the application and of the reasons for any refusal to grant an approval under this regulation.
 
-### 5. Revocation of approvals[^key-6e911f602981d76a9bd3dacece40a000]
+### 5. Revocation of approvals[^c-6e911f602981d76a9bd3dacece40a000]
 
 (1) Subject to paragraph (3) and to regulation 6(3), an approval authority may, by notice in writing given to the occupier of any premises approved under regulation 4, revoke that approval if it is satisfied that—
 
@@ -170,7 +170,7 @@ and shall refuse so to approve those premises if it is not so satisfied.
 
 (4) Where the approval authority gives a notice of revocation under paragraph (1)(*c*), then for the purposes of that paragraph, “occupier”, in relation to any premises which, at the time the notice was given, are vacant, means the last person known to the approval authority to have carried on at the premises the business of producing minced meat or meat preparations.
 
-### 6. Right of appeal[^key-8a491b7e0a0b21a342f7bd20c39f52ab]
+### 6. Right of appeal[^c-8a491b7e0a0b21a342f7bd20c39f52ab]
 
 (1) Any person who is aggrieved by a refusal to grant an approval under regulation 4 or by a revocation of such an approval may appeal to a magistrates' court against the decision.
 
@@ -180,7 +180,7 @@ and shall refuse so to approve those premises if it is not so satisfied.
 
 ## Part III — Conditions for the marketing of Minced Meat and Meat Preparations
 
-### 7. General conditions for the marketing of minced meat[^key-8564d667b82b9fff1dbf38d39996322c]
+### 7. General conditions for the marketing of minced meat[^c-8564d667b82b9fff1dbf38d39996322c]
 
 (1) Subject to paragraph (3) a person shall not consign or sell for consignment to an EEA State, or to a third country, for human consumption any minced meat unless it is derived from meat of bovine animals, pigs, sheep or goats, and—
 
@@ -213,7 +213,7 @@ and shall refuse so to approve those premises if it is not so satisfied.
 
 (4) A person shall not affix the health mark to any minced meat which does not satisfy the requirements specified in paragraph (1).
 
-### 8. General conditions for the marketing of meat preparations[^key-b671a03d91778d1598c2c829abb99f56]
+### 8. General conditions for the marketing of meat preparations[^c-b671a03d91778d1598c2c829abb99f56]
 
 (1) Subject to paragraph (4), a person shall not consign or sell for consignment to an EEA State, or a third country, for human consumption any meat preparation unless—
 
@@ -247,7 +247,7 @@ and shall refuse so to approve those premises if it is not so satisfied.
 
 (5) A person shall not affix the health mark to any meat preparation which does not satisfy the requirements specified in paragraph (1).
 
-### 9. Transport documentation[^key-099d2a264401ea28f7afdd8d7a7df033]
+### 9. Transport documentation[^c-099d2a264401ea28f7afdd8d7a7df033]
 
 (1) The occupier of premises approved under regulation 4 shall ensure that any minced meat or any meat preparation intended for consignment to an EEA State or to a third country is accompanied during transportation from the premises—
 
@@ -267,11 +267,11 @@ and shall refuse so to approve those premises if it is not so satisfied.
 
 ## Part IV — Administration, Penalties and Enforcement
 
-### 10. Information to be provided by district councils[^key-e868157cfecbf116053332de4e0f04ce]
+### 10. Information to be provided by district councils[^c-e868157cfecbf116053332de4e0f04ce]
 
 Every district council shall provide the Department with such information relating to the execution of its duties under these Regulations as the Department may from time to time require.
 
-### 11. Duties of occupier[^key-b3970cf1fcf4c818bb174aff793bff7a]
+### 11. Duties of occupier[^c-b3970cf1fcf4c818bb174aff793bff7a]
 
 (1) The occupier of any premises shall take all necessary measures to ensure that in those premises these Regulations are complied with at all stages in the processes of production of minced meat or meat preparations in the premises and, in particular, shall carry out his own checks to ensure—
 
@@ -293,13 +293,13 @@ Every district council shall provide the Department with such information relati
 
 (3) Any record required to be kept in pursuance of paragraph (1)(*d*) shall be kept for a period of at least 2 years from the date of production of the minced meat or meat preparations to which it relates or, in the case of chilled minced meat or meat preparations, for a period of six months after the expiry of the ‘use-by' date thereof.
 
-### 12. Supervision and enforcement[^key-d91fe5d286d1b0e26e8955e3a83f8917]
+### 12. Supervision and enforcement[^c-d91fe5d286d1b0e26e8955e3a83f8917]
 
 (1) These Regulations shall be enforced and executed by the Department or any district council or by the Department and any district council acting jointly and any authority having such responsibility shall be known for the purposes of these Regulations as “an enforcement authority”.
 
 (2) Premises shall be inspected and monitored by an enforcement authority in accordance with Schedule 6.
 
-### 13. Offences and penalties[^key-598e95275c448f9fca7c6ec4539e5810]
+### 13. Offences and penalties[^c-598e95275c448f9fca7c6ec4539e5810]
 
 (1) If—
 
@@ -318,7 +318,7 @@ he shall be guilty of an offence and shall be liable—
 
 whichever is the earlier.
 
-### 14. Application of various Articles of the Order[^key-6233d340462b5ca6c770c0d9fd35f907]
+### 14. Application of various Articles of the Order[^c-6233d340462b5ca6c770c0d9fd35f907]
 
 The following provisions of the Order shall apply for the purposes of these Regulations as they apply for the purposes of Article 7, 13 or 14 of the Order and any reference in them to the Order or any provision of the Order shall be construed as a reference to these Regulations—
 
@@ -332,7 +332,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 ## Part V — Miscellaneous and Supplementary
 
-### 15. Minced meat and meat preparations from Great Britain, the Isle of Man and the Channel Islands[^key-b1b07c533dd482eb5d070f89d5deb105]
+### 15. Minced meat and meat preparations from Great Britain, the Isle of Man and the Channel Islands[^c-b1b07c533dd482eb5d070f89d5deb105]
 
 (1) A person shall not sell for human consumption any minced meat or meat preparations produced or stored in a place to which this regulation applies and intended for consignment to an EEA State or to a third country unless any such production or storage in that place was in accordance with legislation having effect in that place and corresponding to the provisions of these Regulations concerning the consignment or sale for consignment of such products to an EEA State for human consumption.
 
@@ -340,7 +340,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 (3) The places to which this regulation applies are Great Britain, the Isle of Man and the Channel Islands.
 
-### 16. Amendments[^key-cc9203db8e98c88a05aec504087cde9c]
+### 16. Amendments[^c-cc9203db8e98c88a05aec504087cde9c]
 
 (1) After regulation 3(2)(*f*) of the Food Premises (Registration) Regulations (Northern Ireland) 1992[^f00016] there shall be added—
 
@@ -372,20 +372,20 @@ Assistant Secretary
 
 Regulations 4(2)(*a*)(i) and (3) and 7(2)(*a*)
 
-**1.**[^key-f6e8df2ed0b5f72a40f1bd5068ded268] As well as being licensed premises or premises approved under the Meat Products Regulations, premises shall have at least the following facilities—
+**1.**[^c-f6e8df2ed0b5f72a40f1bd5068ded268] As well as being licensed premises or premises approved under the Meat Products Regulations, premises shall have at least the following facilities—
 
 - (a) a room for mincing and wrapping separate from the cutting room or a specific and distinct area for that purpose in the cutting room, equipped with a recording thermometer or recording telethermometer;
 - (b) a room for packaging, unless the conditions laid down in paragraph 4 of Part V of Schedule 2 to the Meat Products Regulations are met;
 - (c) a room or cabinets for storing salt; and
 - (d) refrigeration equipment enabling the requirements of these Regulations as to temperatures to be met.
 
-**2.**[^key-e065bbbb6fca699cde8220ffec7ad091] Staff engaged in the manual preparation of minced meat shall wear masks covering the mouth and nose and, if so directed by the enforcement authority, smooth moisture-proof gloves which are disposable or capable of being cleaned and disinfected.
+**2.**[^c-e065bbbb6fca699cde8220ffec7ad091] Staff engaged in the manual preparation of minced meat shall wear masks covering the mouth and nose and, if so directed by the enforcement authority, smooth moisture-proof gloves which are disposable or capable of being cleaned and disinfected.
 
 ## SCHEDULE 2 — Requirements for premises, other than independent premises, producing meat preparations
 
 Regulations 4(2)(*a*)(ii) and (3) and 8(3)(*a*)
 
-**1.**[^key-e697189513310ccede6bbeaff3d3c3ba] As well as being licensed premises or premises approved under the Meat Products Regulations, premises shall have at least the following facilities—
+**1.**[^c-e697189513310ccede6bbeaff3d3c3ba] As well as being licensed premises or premises approved under the Meat Products Regulations, premises shall have at least the following facilities—
 
 - (a) a room separate from the cutting room for the production of meat preparations, the addition of other foodstuffs and wrapping, equipped with a recording thermometer or recording telethermometer; except that—
   - (i) the production of meat preparations may take place in the cutting room in a specific and distinct area; and
@@ -397,26 +397,26 @@ Regulations 4(2)(*a*)(ii) and (3) and 8(3)(*a*)
   - (ii) meat preparations; and
 - (e) refrigeration equipment enabling the requirements of these Regulations as to temperatures to be met.
 
-**2.**[^key-4ce51890bbcc0982a430222d2bdf71c2] Staff engaged in the manual preparation of meat preparations shall wear masks covering the mouth and nose and, if so directed by the enforcement authority, smooth moisture-proof gloves which are disposable or capable of being cleaned and disinfected.
+**2.**[^c-4ce51890bbcc0982a430222d2bdf71c2] Staff engaged in the manual preparation of meat preparations shall wear masks covering the mouth and nose and, if so directed by the enforcement authority, smooth moisture-proof gloves which are disposable or capable of being cleaned and disinfected.
 
 ## SCHEDULE 3 — Requirements for independent premises producing minced meat or meat preparations
 
 Regulations 4(2)(*b*) and (3), 7(2)(*a*) and 8(3)(*a*)
 
-**1.**[^key-d9712cc1eb2b93b1df84179a8f0f4e7e] As well as complying with the requirements of Schedule 1 to the Meat Products Regulations, independent premises shall have rooms meeting the descriptions set out in the following provisions—
+**1.**[^c-d9712cc1eb2b93b1df84179a8f0f4e7e] As well as complying with the requirements of Schedule 1 to the Meat Products Regulations, independent premises shall have rooms meeting the descriptions set out in the following provisions—
 
 - (a) in the case of independent premises producing minced meat, paragraph 1 of Part I of Schedule 2 to the Meat Products Regulations and paragraph 1(*a*) of Schedule 1 to these Regulations; and
 - (b) in the case of independent premises producing meat preparations, paragraph 1 and, depending on the nature of the meat preparation, paragraph 2 of Part I of Schedule 2 to the Meat Products Regulations.
 
-**2.**[^key-b6416f95d31fa7fab625e49aaeefb7ab] Staff engaged in the manual preparation of meat preparations shall wear masks covering the mouth and nose and, if so directed by the enforcement authority, smooth moisture-proof gloves which are disposable or capable of being cleaned and disinfected.
+**2.**[^c-b6416f95d31fa7fab625e49aaeefb7ab] Staff engaged in the manual preparation of meat preparations shall wear masks covering the mouth and nose and, if so directed by the enforcement authority, smooth moisture-proof gloves which are disposable or capable of being cleaned and disinfected.
 
 ## SCHEDULE 4 — Conditions for the marketing and production of minced meat
 
 Regulation 7(1)(*c*) and (2)(*b*)
 
-**1.**[^key-509f6c089a9d17774f43b774b2f4f373] Before mincing or cutting up, meat shall be examined and all soiled and suspect parts shall be removed and condemned.
+**1.**[^c-509f6c089a9d17774f43b774b2f4f373] Before mincing or cutting up, meat shall be examined and all soiled and suspect parts shall be removed and condemned.
 
-**2.**[^key-9e2299a3effd326f1d6d64c197babb00] The following may not be used for the production of minced meat—
+**2.**[^c-9e2299a3effd326f1d6d64c197babb00] The following may not be used for the production of minced meat—
 
 - (a) scrap cuttings, scrap trimmings or mechanically recovered meat;
 - (b) meat referred to in Part IX of Schedule 10 to the Fresh Meat Regulations, Part II of Schedule 9 to the Poultry Meat Regulations or Part II of Schedule 5 to the Wild Game Meat Regulations;
@@ -424,21 +424,21 @@ Regulation 7(1)(*c*) and (2)(*b*)
 - (d) in the case of meat derived from bovine animals, sheep, goats or pigs, bone scrapings, the non-muscular part of the linear alba, the carpus and tarsus region or meat from the muscles of the head, with the exception of the masseters which may be used provided that, where they are derived from bovine animals, an examination for cysticercosis has been conducted; and
 - (e) in the case of meat derived from bovine animals, meat from the muscles of the diaphragm except where, after the removal of serosa, an examination for cysticercosis has been conducted.
 
-**3.**[^key-ec773dbd7d62fef68ca76937e87c707a] Not more than one hour shall elapse between the removal of the meat from a refrigerated environment for mincing and the production and chilling or deep-freezing of the minced meat, during which time the internal temperature of the meat shall not exceed 7°C and the temperature of the production area shall not exceed 12°C, save that a longer period shall be permitted where the addition of salt so justifies on technical grounds and there is no risk to public health.
+**3.**[^c-ec773dbd7d62fef68ca76937e87c707a] Not more than one hour shall elapse between the removal of the meat from a refrigerated environment for mincing and the production and chilling or deep-freezing of the minced meat, during which time the internal temperature of the meat shall not exceed 7°C and the temperature of the production area shall not exceed 12°C, save that a longer period shall be permitted where the addition of salt so justifies on technical grounds and there is no risk to public health.
 
-**4.**[^key-feb89dd4c150fcc4e5f140357b8db4be] Where the one hour time limit described in paragraph 3 above or such longer period as may be permitted thereunder is exceeded, the meat may not be minced until its internal temperature has been reduced to 4°C or less.
+**4.**[^c-feb89dd4c150fcc4e5f140357b8db4be] Where the one hour time limit described in paragraph 3 above or such longer period as may be permitted thereunder is exceeded, the meat may not be minced until its internal temperature has been reduced to 4°C or less.
 
-**5.**[^key-a2de6ce49b5f21b04dd3b59ba5e644cd] Immediately after production minced meat shall be hygienically wrapped, packaged and cooled and stored at the appropriate temperatures specified or referred to in regulation 7(1)(*l*) or (*m*).
+**5.**[^c-a2de6ce49b5f21b04dd3b59ba5e644cd] Immediately after production minced meat shall be hygienically wrapped, packaged and cooled and stored at the appropriate temperatures specified or referred to in regulation 7(1)(*l*) or (*m*).
 
-**6.**[^key-2dcc3d0d5ded50e7559d52b073bd0014] Minced meat shall not be deep-frozen more than once.
+**6.**[^c-2dcc3d0d5ded50e7559d52b073bd0014] Minced meat shall not be deep-frozen more than once.
 
 ## SCHEDULE 5 — Conditions for the production of meat preparations
 
 Regulations 8(1)(*f*) and (3)(*b*)
 
-**1.**[^key-ccbfa2354e6d3923108aa3b67871d093] The production of meat preparations shall take place in temperature controlled conditions such that any risk to public health is avoided.
+**1.**[^c-ccbfa2354e6d3923108aa3b67871d093] The production of meat preparations shall take place in temperature controlled conditions such that any risk to public health is avoided.
 
-**2.**[^key-d76039d34b9a62c51ad90539c6645d63] Meat preparations shall—
+**2.**[^c-d76039d34b9a62c51ad90539c6645d63] Meat preparations shall—
 
 - (a) immediately after production, be wrapped and packaged in accordance with Schedule 8 and cooled to the appropriate temperature referred to in regulation 8(1)(*d*) or (*e*);
 - (b) not be deep-frozen more than once; and
@@ -448,7 +448,7 @@ Regulations 8(1)(*f*) and (3)(*b*)
 
 Regulations 7(1)(*d*) and (2)(*c*), 8(1)(*g*) and (3)(*c*) and 12(2)
 
-**1.**[^key-34ec6078687e7e123e6d2d1862881d46] Establishments shall be subject to supervision by an authorised officer of the enforcement authority, who shall ensure that the requirements of these Regulations are met and shall in particular—
+**1.**[^c-34ec6078687e7e123e6d2d1862881d46] Establishments shall be subject to supervision by an authorised officer of the enforcement authority, who shall ensure that the requirements of these Regulations are met and shall in particular—
 
 - (a) check—
   - (i) the cleanliness of the premises and equipment and staff hygiene;
@@ -459,9 +459,9 @@ Regulations 7(1)(*d*) and (2)(*c*), 8(1)(*g*) and (3)(*c*) and 12(2)
 - (b) if appropriate take samples required for laboratory tests; and
 - (c) make any other checks considered necessary to ensure compliance with these Regulations.
 
-**2.**[^key-c516228d5040185da96b5fede3df4045] The authorised officer shall have free access at all reasonable times to any premises to check that these provisions are being strictly complied with, and to such documentation as may be required to ascertain the slaughterhouse or other establishment of origin of meat used in the production of minced meat or meat preparations.
+**2.**[^c-c516228d5040185da96b5fede3df4045] The authorised officer shall have free access at all reasonable times to any premises to check that these provisions are being strictly complied with, and to such documentation as may be required to ascertain the slaughterhouse or other establishment of origin of meat used in the production of minced meat or meat preparations.
 
-**3.**[^key-eea516018acf2fdf780e9385be4412c4] Inspection and monitoring of premises shall take place—
+**3.**[^c-eea516018acf2fdf780e9385be4412c4] Inspection and monitoring of premises shall take place—
 
 - (a) in the case of premises attached to cutting establishments, at the same frequency as for the said cutting establishments;
 - (b) in the case of approved premises producing minced meat meeting the requirements of regulation 7(1), at least once on each day of production; and
@@ -471,20 +471,20 @@ Regulations 7(1)(*d*) and (2)(*c*), 8(1)(*g*) and (3)(*c*) and 12(2)
 
 Regulations 2(1), 7(1)(*e*) and 8(1)(*h*)
 
-**1.**[^key-91d306816499bb89c22667a53f4eaf2f] The health mark shall correspond—
+**1.**[^c-91d306816499bb89c22667a53f4eaf2f] The health mark shall correspond—
 
 - (a) for minced meat and meat preparations derived from bovine animals, pigs, sheep, goats or farmed game, to the description contained in paragraph 1 of Schedule 12 to the Fresh Meat Regulations;
 - (b) for meat preparations derived from poultry meat, farmed game bird meat or rabbit meat, to the description contained in paragraph 1 of Schedule 11 to the Poultry Meat Regulations; and
 - (c) for meat preparations derived from wild game meat, to the description contained in paragraph 1 of Schedule 7 to the Wild Game Meat Regulations.
 
-**2.**[^key-9dc98eb89a9e5f09f1a76205a29b62e1] The health mark shall include the approval number allocated to the premises in accordance with regulation 4(5).
+**2.**[^c-9dc98eb89a9e5f09f1a76205a29b62e1] The health mark shall include the approval number allocated to the premises in accordance with regulation 4(5).
 
-**3.**[^key-106e4fc09024991505b0124c248608be] Without prejudice to the Food Labelling Regulations (Northern Ireland) 1996[^f00019], in the case of meat preparations where the following information is not clear from the name of the food or the list of ingredients, it shall be visibly and legibly displayed for inspection purposes on the packaging—
+**3.**[^c-106e4fc09024991505b0124c248608be] Without prejudice to the Food Labelling Regulations (Northern Ireland) 1996[^f00019], in the case of meat preparations where the following information is not clear from the name of the food or the list of ingredients, it shall be visibly and legibly displayed for inspection purposes on the packaging—
 
 - (a) the species from which the meat used is derived and, in the case of a mixture, the percentage of each species; and
 - (b) on packaging not intended for the final consumer, the date of preparation.
 
-**4.**[^key-bf99c7dc9adf759b34a452600c0f0996] In the case of minced meat, and meat preparations made from pre-prepared minced meat except for fresh sausages and sausage meat, bearing the health mark provided for in this Schedule, the labelling shall also display the following words and indicate the appropriate percentages—
+**4.**[^c-bf99c7dc9adf759b34a452600c0f0996] In the case of minced meat, and meat preparations made from pre-prepared minced meat except for fresh sausages and sausage meat, bearing the health mark provided for in this Schedule, the labelling shall also display the following words and indicate the appropriate percentages—
 
 - (a) “percentage of fat under . . .”; and
 - (b) “percentage of collagen in meat protein under . . .”.
@@ -493,51 +493,51 @@ Regulations 2(1), 7(1)(*e*) and 8(1)(*h*)
 
 Regulations 7(1)(*f*) and (2)(*d*)and 8(1)(*i*)
 
-**1.**[^key-4721bdfb2e402367a076764b7cab394e] Wrapped minced meat or meat preparations shall be packaged save that where the wrapping material used fulfils all the protective requirements of packaging set out in paragraph 3 below, they do not in addition need to be packaged.
+**1.**[^c-4721bdfb2e402367a076764b7cab394e] Wrapped minced meat or meat preparations shall be packaged save that where the wrapping material used fulfils all the protective requirements of packaging set out in paragraph 3 below, they do not in addition need to be packaged.
 
-**2.**[^key-db54859146347e9f629d6cd3cf889d7e] Minced meat and meat preparations shall be marked on the packaging, or wrapping material referred to in paragraph 1 with a health mark.
+**2.**[^c-db54859146347e9f629d6cd3cf889d7e] Minced meat and meat preparations shall be marked on the packaging, or wrapping material referred to in paragraph 1 with a health mark.
 
-**3.**[^key-4f602731b21ea87eec2e22bb1f912ad5] Packaging shall take place under satisfactory hygiene conditions and—
+**3.**[^c-4f602731b21ea87eec2e22bb1f912ad5] Packaging shall take place under satisfactory hygiene conditions and—
 
 - (a) shall not alter the organoleptic characteristics of the minced meat or meat preparations;
 - (b) shall not be capable of transmitting to the minced meat or meat preparations substances harmful to human health; and
 - (c) shall be sufficiently strong to ensure effective protection of the minced meat or meat preparations during transport and handling.
 
-**4.**[^key-4ffbf179d7aeb1a32c67213e7cfa938d] Packaging shall not be re-used for minced meat or meat preparations unless it is made of corrosion-resistant materials which are easy to clean and it has been cleaned and disinfected beforehand.
+**4.**[^c-4ffbf179d7aeb1a32c67213e7cfa938d] Packaging shall not be re-used for minced meat or meat preparations unless it is made of corrosion-resistant materials which are easy to clean and it has been cleaned and disinfected beforehand.
 
-**5.**[^key-1b3254130ae860d3d9a16580f5fde151] Any minced meat or meat preparations wrapped in commercial portions intended for direct sale to the consumer shall bear a reproduction of the health mark, which may be of reduced dimensions, on the wrapping material or a clearly visible label attached to the wrapping.
+**5.**[^c-1b3254130ae860d3d9a16580f5fde151] Any minced meat or meat preparations wrapped in commercial portions intended for direct sale to the consumer shall bear a reproduction of the health mark, which may be of reduced dimensions, on the wrapping material or a clearly visible label attached to the wrapping.
 
 ## SCHEDULE 9 — Storage
 
 Regulations 7(1)(*f*) and (2)(*d*) and 8(1)(*i*) and (3)(*d*)
 
-**1.**[^key-273d773c3794e26469cd9cfec29607c9] Minced meat and meat preparations shall be chilled immediately after wrapping and, where required, packaging.
+**1.**[^c-273d773c3794e26469cd9cfec29607c9] Minced meat and meat preparations shall be chilled immediately after wrapping and, where required, packaging.
 
-**2.**[^key-860fbe4e51b888784bef4e77eba1938f] Minced meat shall be stored at the appropriate temperatures indicated in regulation 7(1)(*m*) or (*n*).
+**2.**[^c-860fbe4e51b888784bef4e77eba1938f] Minced meat shall be stored at the appropriate temperatures indicated in regulation 7(1)(*m*) or (*n*).
 
-**3.**[^key-4773af9b1430aa035f942826e07162d3] Meat preparations shall be stored at the appropriate temperatures indicated in regulation 8(1)(*d*) or (*e*).
+**3.**[^c-4773af9b1430aa035f942826e07162d3] Meat preparations shall be stored at the appropriate temperatures indicated in regulation 8(1)(*d*) or (*e*).
 
-**4.**[^key-685084e83fa6fc6899c2ed446bfc27b3] Minced meat and meat preparations shall be deep-frozen only on the premises of production, or in a cold store.
+**4.**[^c-685084e83fa6fc6899c2ed446bfc27b3] Minced meat and meat preparations shall be deep-frozen only on the premises of production, or in a cold store.
 
-**5.**[^key-fb5944072f94616a35295f624963ff45] Minced meat and meat preparations shall not be stored with other foodstuffs unless it is ensured, by virtue of the packaging, that the minced meat or meat preparations cannot be adversely affected.
+**5.**[^c-fb5944072f94616a35295f624963ff45] Minced meat and meat preparations shall not be stored with other foodstuffs unless it is ensured, by virtue of the packaging, that the minced meat or meat preparations cannot be adversely affected.
 
 ## SCHEDULE 10 — Transport
 
 Regulations 7(1)(*g*) and 8(1)(*j*)
 
-**1.**[^key-b0cdcf3538c86a5489bd1b1d76611d7c] Minced meat and meat preparations shall be dispatched in such a way that they are protected from anything liable to contaminate or otherwise adversely affect them, having regard to the duration, conditions and means of transport.
+**1.**[^c-b0cdcf3538c86a5489bd1b1d76611d7c] Minced meat and meat preparations shall be dispatched in such a way that they are protected from anything liable to contaminate or otherwise adversely affect them, having regard to the duration, conditions and means of transport.
 
-**2.**[^key-d619a47bc4860ee5fff2461f98f5fc2e] Vehicles used to transport minced meat and, subject to paragraph 3, meat preparations, shall be equipped with apparatus to ensure that the appropriate temperatures required by these Regulations are not exceeded during transport and with a recording thermometer.
+**2.**[^c-d619a47bc4860ee5fff2461f98f5fc2e] Vehicles used to transport minced meat and, subject to paragraph 3, meat preparations, shall be equipped with apparatus to ensure that the appropriate temperatures required by these Regulations are not exceeded during transport and with a recording thermometer.
 
-**3.**[^key-f5514391180290856ad33318b30e4bbc] Meat preparations produced in non-industrial premises may be transported from those premises to nearby outlets at temperatures higher than those referred to in paragraph 2, provided that such transportation does not take more than one hour.
+**3.**[^c-f5514391180290856ad33318b30e4bbc] Meat preparations produced in non-industrial premises may be transported from those premises to nearby outlets at temperatures higher than those referred to in paragraph 2, provided that such transportation does not take more than one hour.
 
-**4.**[^key-e5626e8f3108a9511307217278c8680a] Where the minced meat or meat preparations were produced in premises situated in an area subject to restrictions for animal health reasons and are to be transported through a third country, the means of transport shall remain sealed.
+**4.**[^c-e5626e8f3108a9511307217278c8680a] Where the minced meat or meat preparations were produced in premises situated in an area subject to restrictions for animal health reasons and are to be transported through a third country, the means of transport shall remain sealed.
 
 ## SCHEDULE 11 — Sampling requirements and compositional and microbiological criteria for minced meat
 
 Regulations 7(1)(*p*) and (2)(*e*) and 11(2)(*c*)
 
-**1.**[^key-715bd3d131686da60896afe491934cc4] Compositional criteria:
+**1.**[^c-715bd3d131686da60896afe491934cc4] Compositional criteria:
 
 <table>
 <thead>
@@ -554,7 +554,7 @@ Regulations 7(1)(*p*) and (2)(*e*) and 11(2)(*c*)
 
 For the purposes of this table “meat of any permitted species” means the meat referred to in regulation 7(1) or (2), as the case may be.
 
-**2.**[^key-f743766b87470bb5cc20056b6ca4c768] Microbiological criteria:
+**2.**[^c-f743766b87470bb5cc20056b6ca4c768] Microbiological criteria:
 
 <table>
 <thead>
@@ -568,14 +568,14 @@ For the purposes of this table “meat of any permitted species” means the mea
 </tbody>
 </table>
 
-**3.**[^key-4d5c39fe1fe474a43aa974a727472a64] Microbiological tests shall be conducted—
+**3.**[^c-4d5c39fe1fe474a43aa974a727472a64] Microbiological tests shall be conducted—
 
 - (a) on each day of production on a representative sample of the minced meat referred to in regulation 7(1) and of pre-prepared minced meat for use in meat preparations to which regulation 8(2) applies; and
 - (b) at least once a week on a representative sample of any other minced meat or, alternatively, of any meat intended for the production of any such other minced meat, in the latter case the sample being taken from deep in the muscle after the surface has been cauterised.
 
 - For the purposes of this paragraph “a representative sample” means a sample comprising five separate units of a weight appropriate to the test to be carried out, taken at different times and at reasonable intervals during production.
 
-**4.**[^key-a95be7a3cdd9ebf62f35806017fd853a] The quality of the minced meat or meat analysed shall be evaluated according to the following categories:
+**4.**[^c-a95be7a3cdd9ebf62f35806017fd853a] The quality of the minced meat or meat analysed shall be evaluated according to the following categories:
 
 - Category (*a*): fully satisfactory— all results at or below the lower threshold;
 
@@ -583,13 +583,13 @@ For the purposes of this table “meat of any permitted species” means the mea
 
 - Category (*c*): unacceptable— any results above the upper threshold.
 
-**5.**[^key-bfb404c56d0ea7f38c8df7ebdda41076] In the case of category (b), if the results of tests on five consecutive samples show an incidence of samples which produce results above the lower threshold but at or below the upper threshold of above 2 in 5, the quality shall be considered unacceptable. However, where this occurs only in the case of aerobic mesophile bacteria, the occupier may consider submitting another sample from the same batch for further microbiological examination for aerobic mesophile bacteria.
+**5.**[^c-bfb404c56d0ea7f38c8df7ebdda41076] In the case of category (b), if the results of tests on five consecutive samples show an incidence of samples which produce results above the lower threshold but at or below the upper threshold of above 2 in 5, the quality shall be considered unacceptable. However, where this occurs only in the case of aerobic mesophile bacteria, the occupier may consider submitting another sample from the same batch for further microbiological examination for aerobic mesophile bacteria.
 
-**6.**[^key-cb29b1422b6438cadeacd24f70daf71a] Where in respect of any sample the results are at or above the microbic limit, the minced meat shall be regarded as presenting an imminent health risk for the purposes of regulation 11(1)(*g*).
+**6.**[^c-cb29b1422b6438cadeacd24f70daf71a] Where in respect of any sample the results are at or above the microbic limit, the minced meat shall be regarded as presenting an imminent health risk for the purposes of regulation 11(1)(*g*).
 
-**7.**[^key-20ee5a1d04f41b9a2a263a64da3bd4f8] Where in respect of any sample the result of the test for salmonella shows a presence in 10g, the quality shall be considered unacceptable.
+**7.**[^c-20ee5a1d04f41b9a2a263a64da3bd4f8] Where in respect of any sample the result of the test for salmonella shows a presence in 10g, the quality shall be considered unacceptable.
 
-## SCHEDULE 12 — Health certificate for minced meat[^key-eca7cd15bf3e4c19f16e8085fa859b71]
+## SCHEDULE 12 — Health certificate for minced meat[^c-eca7cd15bf3e4c19f16e8085fa859b71]
 
 Regulation 9(1)(*b*)
 
@@ -599,7 +599,7 @@ Regulation 9(1)(*b*)
 
 Regulation 11(2)(*c*)
 
-**1.**[^key-a4da60174bc25db38d67642bb9ff04d4] Table of microbiological criteria:
+**1.**[^c-a4da60174bc25db38d67642bb9ff04d4] Table of microbiological criteria:
 
 <table>
 <thead>
@@ -612,21 +612,21 @@ Regulation 11(2)(*c*)
 </tbody>
 </table>
 
-**2.**[^key-7d6263b63b20aff53553749473cf2280] Microbiological tests shall be conducted at least once a week on a representative sample of finished meat preparations or, alternatively, of any meat intended for the production of meat preparations, where possible the sample being taken from deep in the muscle after the surface has been cauterised.
+**2.**[^c-7d6263b63b20aff53553749473cf2280] Microbiological tests shall be conducted at least once a week on a representative sample of finished meat preparations or, alternatively, of any meat intended for the production of meat preparations, where possible the sample being taken from deep in the muscle after the surface has been cauterised.
 
 For the purposes of this paragraph “a representative sample” means a sample comprising five separate units of a weight appropriate to the test to be carried out, taken at different times and at reasonable intervals during production.
 
-**3.**[^key-d92f643c3704c9ae2681beb74b8fd0f0] The quality of the meat preparations or meat analysed shall be evaluated according to the following categories:
+**3.**[^c-d92f643c3704c9ae2681beb74b8fd0f0] The quality of the meat preparations or meat analysed shall be evaluated according to the following categories:
 
 - Category (*a*): fully satisfactory— all results at or below the lower threshold;
 - Category (*b*): acceptable subject to paragraph 4— all results at or below the upper threshold; or
 - Category (*c*): unacceptable— any results above the upper threshold.
 
-**4.**[^key-78bf5c8f4e66efc6cb90235ecc73babf] In the case of category (*b*), if the results of tests on five consecutive samples show an incidence of samples which produce results above the lower threshold but at or below the upper threshold of above 2 in 5, in the case of *Escherichia coli*, or above 1 in 5, in the case of *Staphylococcus aureus*, the quality shall be considered unacceptable.
+**4.**[^c-78bf5c8f4e66efc6cb90235ecc73babf] In the case of category (*b*), if the results of tests on five consecutive samples show an incidence of samples which produce results above the lower threshold but at or below the upper threshold of above 2 in 5, in the case of *Escherichia coli*, or above 1 in 5, in the case of *Staphylococcus aureus*, the quality shall be considered unacceptable.
 
-**5.**[^key-c06ba5a2e0bae74fa4ee701a69526678] Where in respect of any sample the result of the test for salmonella shows a presence in 1g., the quality shall be considered unacceptable.
+**5.**[^c-c06ba5a2e0bae74fa4ee701a69526678] Where in respect of any sample the result of the test for salmonella shows a presence in 1g., the quality shall be considered unacceptable.
 
-## SCHEDULE 14 — Health certificate for meat preparations[^key-1e9a245037f5f116c29338b406695119]
+## SCHEDULE 14 — Health certificate for meat preparations[^c-1e9a245037f5f116c29338b406695119]
 
 Regulation 9(1)(b)
 
@@ -658,9 +658,9 @@ The Regulations—
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
-[^key-9c431edecf38e1533d532229a278e26e]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-9c431edecf38e1533d532229a278e26e]: Commencement: Reg. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-7e04f9c43838b87d816625979258a588]: Commencement: Reg. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-7e04f9c43838b87d816625979258a588]: Commencement: Reg. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L.1, 3.1.94, p. 1
 
@@ -684,39 +684,39 @@ The Regulations—
 
 [^f00012]: Footnote: [S.R. 1997 No. 496](https://www.legislation.gov.uk/nisr/1997/496)
 
-[^key-64b7a1bdcc4797c20a038963be87489d]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-64b7a1bdcc4797c20a038963be87489d]: Commencement: Reg. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-29ddeabcf68374652b907382f1ffa283]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-29ddeabcf68374652b907382f1ffa283]: Commencement: Reg. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-6e911f602981d76a9bd3dacece40a000]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-6e911f602981d76a9bd3dacece40a000]: Commencement: Reg. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-8a491b7e0a0b21a342f7bd20c39f52ab]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-8a491b7e0a0b21a342f7bd20c39f52ab]: Commencement: Reg. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-8564d667b82b9fff1dbf38d39996322c]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-8564d667b82b9fff1dbf38d39996322c]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
 [^f00013]: Footnote: O.J. No. L.26, 31.1.77, p. 67. The annexes have been amended three times, by Council Directives [84/319/EEC](https://www.legislation.gov.uk/european/directive/1984/0319) (O.J. No. L.167, 27.6.84, p. 34) and [89/321/EEC](https://www.legislation.gov.uk/european/directive/1989/0321) (O.J. No. L.133, 17.5.89, p. 33) and Commission Directive [94/59/EC](https://www.legislation.gov.uk/european/directive/1994/0059) (O.J. No. L.315, 8.12.94, p. 18)
 
 [^f00014]: Footnote: [S.R. 1990 No. 455](https://www.legislation.gov.uk/nisr/1990/455), as amended by [S.R. 1992 No. 464](https://www.legislation.gov.uk/nisr/1992/464) and [S.R. 1994 No. 52](https://www.legislation.gov.uk/nisr/1994/52)
 
-[^key-b671a03d91778d1598c2c829abb99f56]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-b671a03d91778d1598c2c829abb99f56]: Commencement: Reg. 8 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-099d2a264401ea28f7afdd8d7a7df033]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-099d2a264401ea28f7afdd8d7a7df033]: Commencement: Reg. 9 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
 [^f00015]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
 
-[^key-e868157cfecbf116053332de4e0f04ce]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-e868157cfecbf116053332de4e0f04ce]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-b3970cf1fcf4c818bb174aff793bff7a]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-b3970cf1fcf4c818bb174aff793bff7a]: Commencement: Reg. 11 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-d91fe5d286d1b0e26e8955e3a83f8917]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-d91fe5d286d1b0e26e8955e3a83f8917]: Commencement: Reg. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-598e95275c448f9fca7c6ec4539e5810]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-598e95275c448f9fca7c6ec4539e5810]: Commencement: Reg. 13 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-6233d340462b5ca6c770c0d9fd35f907]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-6233d340462b5ca6c770c0d9fd35f907]: Commencement: Reg. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-b1b07c533dd482eb5d070f89d5deb105]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-b1b07c533dd482eb5d070f89d5deb105]: Commencement: Reg. 15 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-cc9203db8e98c88a05aec504087cde9c]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-cc9203db8e98c88a05aec504087cde9c]: Commencement: Reg. 16 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
 [^f00016]: Footnote: [S.R. 1992 No. 167](https://www.legislation.gov.uk/nisr/1992/167), the relevant amending Regulations are [S.R. 1994 No. 346](https://www.legislation.gov.uk/nisr/1994/346) as read with the Poultry Meat Regulations
 
@@ -724,102 +724,102 @@ The Regulations—
 
 [^f00018]: Footnote: [S.R. 1995 No. 377](https://www.legislation.gov.uk/nisr/1995/377), the relevant amending Regulations are [S.R. 1997 No. 493](https://www.legislation.gov.uk/nisr/1997/493)
 
-[^key-f6e8df2ed0b5f72a40f1bd5068ded268]: Commencement: Sch. 1 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-f6e8df2ed0b5f72a40f1bd5068ded268]: Commencement: Sch. 1 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-e065bbbb6fca699cde8220ffec7ad091]: Commencement: Sch. 1 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-e065bbbb6fca699cde8220ffec7ad091]: Commencement: Sch. 1 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-e697189513310ccede6bbeaff3d3c3ba]: Commencement: Sch. 2 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-e697189513310ccede6bbeaff3d3c3ba]: Commencement: Sch. 2 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-4ce51890bbcc0982a430222d2bdf71c2]: Commencement: Sch. 2 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-4ce51890bbcc0982a430222d2bdf71c2]: Commencement: Sch. 2 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-d9712cc1eb2b93b1df84179a8f0f4e7e]: Commencement: Sch. 3 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-d9712cc1eb2b93b1df84179a8f0f4e7e]: Commencement: Sch. 3 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-b6416f95d31fa7fab625e49aaeefb7ab]: Commencement: Sch. 3 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-b6416f95d31fa7fab625e49aaeefb7ab]: Commencement: Sch. 3 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-509f6c089a9d17774f43b774b2f4f373]: Commencement: Sch. 4 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-509f6c089a9d17774f43b774b2f4f373]: Commencement: Sch. 4 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-9e2299a3effd326f1d6d64c197babb00]: Commencement: Sch. 4 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-9e2299a3effd326f1d6d64c197babb00]: Commencement: Sch. 4 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-ec773dbd7d62fef68ca76937e87c707a]: Commencement: Sch. 4 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-ec773dbd7d62fef68ca76937e87c707a]: Commencement: Sch. 4 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-feb89dd4c150fcc4e5f140357b8db4be]: Commencement: Sch. 4 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-feb89dd4c150fcc4e5f140357b8db4be]: Commencement: Sch. 4 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-a2de6ce49b5f21b04dd3b59ba5e644cd]: Commencement: Sch. 4 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-a2de6ce49b5f21b04dd3b59ba5e644cd]: Commencement: Sch. 4 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-2dcc3d0d5ded50e7559d52b073bd0014]: Commencement: Sch. 4 para. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-2dcc3d0d5ded50e7559d52b073bd0014]: Commencement: Sch. 4 para. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-ccbfa2354e6d3923108aa3b67871d093]: Commencement: Sch. 5 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-ccbfa2354e6d3923108aa3b67871d093]: Commencement: Sch. 5 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-d76039d34b9a62c51ad90539c6645d63]: Commencement: Sch. 5 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-d76039d34b9a62c51ad90539c6645d63]: Commencement: Sch. 5 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-34ec6078687e7e123e6d2d1862881d46]: Commencement: Sch. 6 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-34ec6078687e7e123e6d2d1862881d46]: Commencement: Sch. 6 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-c516228d5040185da96b5fede3df4045]: Commencement: Sch. 6 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-c516228d5040185da96b5fede3df4045]: Commencement: Sch. 6 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-eea516018acf2fdf780e9385be4412c4]: Commencement: Sch. 6 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-eea516018acf2fdf780e9385be4412c4]: Commencement: Sch. 6 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-91d306816499bb89c22667a53f4eaf2f]: Commencement: Sch. 7 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-91d306816499bb89c22667a53f4eaf2f]: Commencement: Sch. 7 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-9dc98eb89a9e5f09f1a76205a29b62e1]: Commencement: Sch. 7 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-9dc98eb89a9e5f09f1a76205a29b62e1]: Commencement: Sch. 7 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-106e4fc09024991505b0124c248608be]: Commencement: Sch. 7 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-106e4fc09024991505b0124c248608be]: Commencement: Sch. 7 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
 [^f00019]: Footnote: [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383)
 
-[^key-bf99c7dc9adf759b34a452600c0f0996]: Commencement: Sch. 7 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-bf99c7dc9adf759b34a452600c0f0996]: Commencement: Sch. 7 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-4721bdfb2e402367a076764b7cab394e]: Commencement: Sch. 8 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-4721bdfb2e402367a076764b7cab394e]: Commencement: Sch. 8 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-db54859146347e9f629d6cd3cf889d7e]: Commencement: Sch. 8 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-db54859146347e9f629d6cd3cf889d7e]: Commencement: Sch. 8 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-4f602731b21ea87eec2e22bb1f912ad5]: Commencement: Sch. 8 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-4f602731b21ea87eec2e22bb1f912ad5]: Commencement: Sch. 8 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-4ffbf179d7aeb1a32c67213e7cfa938d]: Commencement: Sch. 8 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-4ffbf179d7aeb1a32c67213e7cfa938d]: Commencement: Sch. 8 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-1b3254130ae860d3d9a16580f5fde151]: Commencement: Sch. 8 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-1b3254130ae860d3d9a16580f5fde151]: Commencement: Sch. 8 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-273d773c3794e26469cd9cfec29607c9]: Commencement: Sch. 9 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-273d773c3794e26469cd9cfec29607c9]: Commencement: Sch. 9 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-860fbe4e51b888784bef4e77eba1938f]: Commencement: Sch. 9 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-860fbe4e51b888784bef4e77eba1938f]: Commencement: Sch. 9 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-4773af9b1430aa035f942826e07162d3]: Commencement: Sch. 9 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-4773af9b1430aa035f942826e07162d3]: Commencement: Sch. 9 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-685084e83fa6fc6899c2ed446bfc27b3]: Commencement: Sch. 9 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-685084e83fa6fc6899c2ed446bfc27b3]: Commencement: Sch. 9 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-fb5944072f94616a35295f624963ff45]: Commencement: Sch. 9 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-fb5944072f94616a35295f624963ff45]: Commencement: Sch. 9 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-b0cdcf3538c86a5489bd1b1d76611d7c]: Commencement: Sch. 10 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-b0cdcf3538c86a5489bd1b1d76611d7c]: Commencement: Sch. 10 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-d619a47bc4860ee5fff2461f98f5fc2e]: Commencement: Sch. 10 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-d619a47bc4860ee5fff2461f98f5fc2e]: Commencement: Sch. 10 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-f5514391180290856ad33318b30e4bbc]: Commencement: Sch. 10 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-f5514391180290856ad33318b30e4bbc]: Commencement: Sch. 10 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-e5626e8f3108a9511307217278c8680a]: Commencement: Sch. 10 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-e5626e8f3108a9511307217278c8680a]: Commencement: Sch. 10 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-715bd3d131686da60896afe491934cc4]: Commencement: Sch. 11 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-715bd3d131686da60896afe491934cc4]: Commencement: Sch. 11 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-f743766b87470bb5cc20056b6ca4c768]: Commencement: Sch. 11 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-f743766b87470bb5cc20056b6ca4c768]: Commencement: Sch. 11 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-4d5c39fe1fe474a43aa974a727472a64]: Commencement: Sch. 11 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-4d5c39fe1fe474a43aa974a727472a64]: Commencement: Sch. 11 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-a95be7a3cdd9ebf62f35806017fd853a]: Commencement: Sch. 11 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-a95be7a3cdd9ebf62f35806017fd853a]: Commencement: Sch. 11 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-bfb404c56d0ea7f38c8df7ebdda41076]: Commencement: Sch. 11 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-bfb404c56d0ea7f38c8df7ebdda41076]: Commencement: Sch. 11 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-cb29b1422b6438cadeacd24f70daf71a]: Commencement: Sch. 11 para. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-cb29b1422b6438cadeacd24f70daf71a]: Commencement: Sch. 11 para. 6 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-20ee5a1d04f41b9a2a263a64da3bd4f8]: Commencement: Sch. 11 para. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-20ee5a1d04f41b9a2a263a64da3bd4f8]: Commencement: Sch. 11 para. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-eca7cd15bf3e4c19f16e8085fa859b71]: Commencement: Sch. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-eca7cd15bf3e4c19f16e8085fa859b71]: Commencement: Sch. 12 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-a4da60174bc25db38d67642bb9ff04d4]: Commencement: Sch. 13 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-a4da60174bc25db38d67642bb9ff04d4]: Commencement: Sch. 13 para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-7d6263b63b20aff53553749473cf2280]: Commencement: Sch. 13 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-7d6263b63b20aff53553749473cf2280]: Commencement: Sch. 13 para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-d92f643c3704c9ae2681beb74b8fd0f0]: Commencement: Sch. 13 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-d92f643c3704c9ae2681beb74b8fd0f0]: Commencement: Sch. 13 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-78bf5c8f4e66efc6cb90235ecc73babf]: Commencement: Sch. 13 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-78bf5c8f4e66efc6cb90235ecc73babf]: Commencement: Sch. 13 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-c06ba5a2e0bae74fa4ee701a69526678]: Commencement: Sch. 13 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-c06ba5a2e0bae74fa4ee701a69526678]: Commencement: Sch. 13 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
 
-[^key-1e9a245037f5f116c29338b406695119]: Commencement: Sch. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)
+[^c-1e9a245037f5f116c29338b406695119]: Commencement: Sch. 14 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/495/regulation/1)

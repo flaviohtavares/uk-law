@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Amendment of Criminal Justice and Police Act 2001[^key-e7ab8a510682f294de2135f16ba9fa81][^key-2e24286f94d59e3a47b5d05374e5bef5]
+## 108. Amendment of Criminal Justice and Police Act 2001[^c-e7ab8a510682f294de2135f16ba9fa81][^c-2e24286f94d59e3a47b5d05374e5bef5]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ab8a510682f294de2135f16ba9fa81]: Commencement: S. 108 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e7ab8a510682f294de2135f16ba9fa81]: Commencement: S. 108 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2e24286f94d59e3a47b5d05374e5bef5]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/50/section/108) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z10)
+[^c-2e24286f94d59e3a47b5d05374e5bef5]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/50/section/108) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z10)

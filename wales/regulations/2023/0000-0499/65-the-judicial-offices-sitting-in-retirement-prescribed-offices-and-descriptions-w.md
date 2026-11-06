@@ -45,11 +45,11 @@ Coming into force
 
 The Welsh Ministers with the concurrence of the President of Welsh Tribunals make the following Regulations in exercise of the powers conferred by sections 124(3) and (4)(e) and 129(1)(b) of the Public Service Pensions and Judicial Offices Act 2022[^f00001].
 
-## 1. Title and commencement[^key-456733d1a65e82d0ec6a1cc799aff833]
+## 1. Title and commencement[^c-456733d1a65e82d0ec6a1cc799aff833]
 
 The title of these Regulations is the Judicial Offices (Sitting in Retirement – Prescribed Offices and Descriptions) (Wales) Regulations 2023 and they come into force on 17 February 2023.
 
-## 2. Interpretation[^key-74b2909bd6ebe9f7595ef52c243fb959]
+## 2. Interpretation[^c-74b2909bd6ebe9f7595ef52c243fb959]
 
 In these Regulations—
 
@@ -59,7 +59,7 @@ In these Regulations—
   - (c) P was a member of the Bar of Northern Ireland; or
   - (d) P had such legal experience as the Welsh Ministers considered suitable.
 
-## 3. Offices prescribed in relation to an appointment to a sitting in retirement office[^key-66b6c13eebb0a9fa5c9d98260519f947]
+## 3. Offices prescribed in relation to an appointment to a sitting in retirement office[^c-66b6c13eebb0a9fa5c9d98260519f947]
 
 A person who holds or has held an office listed in column 2 of the Table in the Schedule (“prescribed offices”) is eligible for appointment to the sitting in retirement office listed in the corresponding row of column 1.
 
@@ -77,7 +77,7 @@ President of Welsh Tribunals
 
 19 January 2023
 
-## SCHEDULE — Sitting in Retirement Offices Judicial Offices Listed in Part 5 of Schedule 3 to the Act and Corresponding Prescribed Offices[^key-44226e6fa7cf4dad895256209336d51b]
+## SCHEDULE — Sitting in Retirement Offices Judicial Offices Listed in Part 5 of Schedule 3 to the Act and Corresponding Prescribed Offices[^c-44226e6fa7cf4dad895256209336d51b]
 
 Regulation 3
 
@@ -106,10 +106,10 @@ The Welsh Ministers’ code of practice on the carrying out of regulatory impact
 
 [^f00001]: Footnote: [2022 c. 7](https://www.legislation.gov.uk/ukpga/2022/7).
 
-[^key-456733d1a65e82d0ec6a1cc799aff833]: Commencement: Reg. 1 in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
+[^c-456733d1a65e82d0ec6a1cc799aff833]: Commencement: Reg. 1 in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
 
-[^key-74b2909bd6ebe9f7595ef52c243fb959]: Commencement: Reg. 2 in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
+[^c-74b2909bd6ebe9f7595ef52c243fb959]: Commencement: Reg. 2 in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
 
-[^key-66b6c13eebb0a9fa5c9d98260519f947]: Commencement: Reg. 3 in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
+[^c-66b6c13eebb0a9fa5c9d98260519f947]: Commencement: Reg. 3 in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
 
-[^key-44226e6fa7cf4dad895256209336d51b]: Commencement: Sch. in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)
+[^c-44226e6fa7cf4dad895256209336d51b]: Commencement: Sch. in force at 17.2.2023, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/65/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Certification of plans, etc.[^key-b2d458529354489e4e27a00dc72a70fd]
+## 59. Certification of plans, etc.[^c-b2d458529354489e4e27a00dc72a70fd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker shall, as soon as practicable after the making of this Order, sub
 
 ## Annotations
 
-[^key-b2d458529354489e4e27a00dc72a70fd]: Commencement: Art. 59 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-b2d458529354489e4e27a00dc72a70fd]: Commencement: Art. 59 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

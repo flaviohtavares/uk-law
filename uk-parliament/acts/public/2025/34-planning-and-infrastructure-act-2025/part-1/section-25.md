@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Environmental impact assessments for electricity works[^key-bd7aaf4c9aae76f55987753440453e2c]
+## 25. Environmental impact assessments for electricity works[^c-bd7aaf4c9aae76f55987753440453e2c]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd7aaf4c9aae76f55987753440453e2c]: Commencement: S. 25 in force at Royal Assent, see [s. 118(1)(l)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/l)
+[^c-bd7aaf4c9aae76f55987753440453e2c]: Commencement: S. 25 in force at Royal Assent, see [s. 118(1)(l)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/l)

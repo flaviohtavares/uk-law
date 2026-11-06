@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Ill-health benefits for persons who have a partnership pension account[^key-ceed391b6e6819899679171103182576]
+## 183. Ill-health benefits for persons who have a partnership pension account[^c-ceed391b6e6819899679171103182576]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (which makes provision for ill-health benefits for persons who have a
 
 ## Annotations
 
-[^key-ceed391b6e6819899679171103182576]: Textual amendment: [Regs. 183](https://www.legislation.gov.uk/uksi/2014/1964/regulation/183), [184](https://www.legislation.gov.uk/uksi/2014/1964/regulation/184) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2015 (S.I. 2015/602)](https://www.legislation.gov.uk/uksi/2015/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/602/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/602/regulation/2/3)
+[^c-ceed391b6e6819899679171103182576]: Textual amendment: [Regs. 183](https://www.legislation.gov.uk/uksi/2014/1964/regulation/183), [184](https://www.legislation.gov.uk/uksi/2014/1964/regulation/184) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2015 (S.I. 2015/602)](https://www.legislation.gov.uk/uksi/2015/602), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/602/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2015/602/regulation/2/3)

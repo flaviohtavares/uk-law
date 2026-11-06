@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11B. Modification of conditions under section 11A: supplementary[^key-8b41fc54888d62892dda3b78bcdad3c5]
+## 11B. Modification of conditions under section 11A: supplementary[^c-8b41fc54888d62892dda3b78bcdad3c5]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b41fc54888d62892dda3b78bcdad3c5]: Textual amendment: S. 11B inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(7)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/7) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))
+[^c-8b41fc54888d62892dda3b78bcdad3c5]: Textual amendment: S. 11B inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [43(7)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/43/7) (with [reg. 44](https://www.legislation.gov.uk/uksi/2011/2704/regulation/44))

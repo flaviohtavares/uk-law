@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Interpretation of Chapter 5[^key-bd0f03c57be7c750c006c8352842da6e][^key-d63deffb16b2ee1e59dfba7f7bcc5827]
+## 57. Interpretation of Chapter 5[^c-bd0f03c57be7c750c006c8352842da6e][^c-d63deffb16b2ee1e59dfba7f7bcc5827]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0f03c57be7c750c006c8352842da6e]: Commencement: S. 57 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-bd0f03c57be7c750c006c8352842da6e]: Commencement: S. 57 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-d63deffb16b2ee1e59dfba7f7bcc5827]: Modification: S. 57 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)
+[^c-d63deffb16b2ee1e59dfba7f7bcc5827]: Modification: S. 57 applied (with modifications) (6.4.2010) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2010 (S.I. 2010/985)](https://www.legislation.gov.uk/uksi/2010/985), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/985/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2010/985/regulation/4), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/985/schedule/3)

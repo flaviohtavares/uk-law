@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 231. Social circumstances report: mental health officer’s duties[^key-88c2da49f82377241ab103e42138bdb9][^key-d92f3ede22e7c448b008395372caefd4]
+## 231. Social circumstances report: mental health officer’s duties[^c-88c2da49f82377241ab103e42138bdb9][^c-d92f3ede22e7c448b008395372caefd4]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88c2da49f82377241ab103e42138bdb9]: Commencement: S. 231 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-88c2da49f82377241ab103e42138bdb9]: Commencement: S. 231 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-d92f3ede22e7c448b008395372caefd4]: Commencement: [S. 231](https://www.legislation.gov.uk/asp/2003/13/section/231) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-d92f3ede22e7c448b008395372caefd4]: Commencement: [S. 231](https://www.legislation.gov.uk/asp/2003/13/section/231) in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

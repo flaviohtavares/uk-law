@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Power to amend period of moratorium on diligence[^key-d357bff78dad847de76e0ca4db044e80]
+## 24. Power to amend period of moratorium on diligence[^c-d357bff78dad847de76e0ca4db044e80]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d357bff78dad847de76e0ca4db044e80]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2022/8/section/24) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-d357bff78dad847de76e0ca4db044e80]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2022/8/section/24) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

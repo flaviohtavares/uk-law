@@ -35,7 +35,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Pigs (Records, Identification and Movement) Order 2007 (revoked)[^key-55d45c51e53162e3741d0ffe71600c57]
+The Pigs (Records, Identification and Movement) Order 2007 (revoked)[^c-55d45c51e53162e3741d0ffe71600c57]
 
 Made
 
@@ -45,101 +45,101 @@ Coming into force
 
 6th April 2007
 
-[^key-55d45c51e53162e3741d0ffe71600c57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55d45c51e53162e3741d0ffe71600c57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-55d45c51e53162e3741d0ffe71600c57]
+## PART 1 — Introduction[^c-55d45c51e53162e3741d0ffe71600c57]
 
-### 1. Title, application and commencement[^key-55d45c51e53162e3741d0ffe71600c57]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-55d45c51e53162e3741d0ffe71600c57]
+### 1. Title, application and commencement[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Notifications, etc.[^key-55d45c51e53162e3741d0ffe71600c57]
+### 2. Interpretation[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Records[^key-55d45c51e53162e3741d0ffe71600c57]
-
-### 4. Notification of holdings[^key-55d45c51e53162e3741d0ffe71600c57]
+### 3. Notifications, etc.[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Records[^key-55d45c51e53162e3741d0ffe71600c57]
+## PART 2 — Records[^c-55d45c51e53162e3741d0ffe71600c57]
+
+### 4. Notification of holdings[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Identification[^key-55d45c51e53162e3741d0ffe71600c57]
-
-### 6. Ear tags and tattoos[^key-55d45c51e53162e3741d0ffe71600c57]
+### 5. Records[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Identification of pigs moved off a holding[^key-55d45c51e53162e3741d0ffe71600c57]
+## PART 3 — Identification[^c-55d45c51e53162e3741d0ffe71600c57]
+
+### 6. Ear tags and tattoos[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Exception for a pig less than one year old[^key-55d45c51e53162e3741d0ffe71600c57]
+### 7. Identification of pigs moved off a holding[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Additional requirements for export[^key-55d45c51e53162e3741d0ffe71600c57]
+### 8. Exception for a pig less than one year old[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Additional requirements for movements of pigs to shows, etc.[^key-55d45c51e53162e3741d0ffe71600c57]
+### 9. Additional requirements for export[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Identification of pigs moved on to a holding from outside the European Union[^key-55d45c51e53162e3741d0ffe71600c57]
+### 10. Additional requirements for movements of pigs to shows, etc.[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Movements[^key-55d45c51e53162e3741d0ffe71600c57]
-
-### 12. Movement of pigs[^key-55d45c51e53162e3741d0ffe71600c57]
+### 11. Identification of pigs moved on to a holding from outside the European Union[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Walking licences for pet pigs[^key-55d45c51e53162e3741d0ffe71600c57]
+## PART 4 — Movements[^c-55d45c51e53162e3741d0ffe71600c57]
+
+### 12. Movement of pigs[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Approved holdings[^key-55d45c51e53162e3741d0ffe71600c57]
+### 13. Walking licences for pet pigs[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Miscellaneous[^key-55d45c51e53162e3741d0ffe71600c57]
-
-### 15. Removing or defacing an identification mark[^key-55d45c51e53162e3741d0ffe71600c57]
+### 14. Approved holdings[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Replacement of an identification mark[^key-55d45c51e53162e3741d0ffe71600c57]
+## PART 5 — Miscellaneous[^c-55d45c51e53162e3741d0ffe71600c57]
+
+### 15. Removing or defacing an identification mark[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Production of documents and records[^key-55d45c51e53162e3741d0ffe71600c57]
+### 16. Replacement of an identification mark[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Enforcement[^key-55d45c51e53162e3741d0ffe71600c57]
+### 17. Production of documents and records[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Revocations[^key-55d45c51e53162e3741d0ffe71600c57]
+### 18. Enforcement[^c-55d45c51e53162e3741d0ffe71600c57]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55d45c51e53162e3741d0ffe71600c57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Revocations[^c-55d45c51e53162e3741d0ffe71600c57]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-55d45c51e53162e3741d0ffe71600c57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — HOLDING MOVEMENT RECORD[^key-55d45c51e53162e3741d0ffe71600c57]
+## SCHEDULE — HOLDING MOVEMENT RECORD[^c-55d45c51e53162e3741d0ffe71600c57]
 
 Article 5
 
@@ -147,8 +147,8 @@ Article 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-55d45c51e53162e3741d0ffe71600c57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55d45c51e53162e3741d0ffe71600c57]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55d45c51e53162e3741d0ffe71600c57]: Textual amendment: Order revoked (1.10.2011) by [The Pigs (Records, Identification and Movement) Order 2011 (S.I. 2011/2154)](https://www.legislation.gov.uk/uksi/2011/2154), arts. 1, [27(1)](https://www.legislation.gov.uk/uksi/2011/2154/article/27/1)
+[^c-55d45c51e53162e3741d0ffe71600c57]: Textual amendment: Order revoked (1.10.2011) by [The Pigs (Records, Identification and Movement) Order 2011 (S.I. 2011/2154)](https://www.legislation.gov.uk/uksi/2011/2154), arts. 1, [27(1)](https://www.legislation.gov.uk/uksi/2011/2154/article/27/1)

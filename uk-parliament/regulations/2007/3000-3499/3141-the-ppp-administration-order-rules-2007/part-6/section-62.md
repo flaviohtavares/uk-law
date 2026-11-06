@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Award of costs against special PPP administrator[^key-e2d7737f1dc3cc94482388e7eadf139a]
+## 62. Award of costs against special PPP administrator[^c-e2d7737f1dc3cc94482388e7eadf139a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to any provision of the 1986 Act, the 1999 Act, the Insolvency
 
 ## Annotations
 
-[^key-e2d7737f1dc3cc94482388e7eadf139a]: Commencement: [Rule 62](https://www.legislation.gov.uk/uksi/2007/3141/rule/62) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-e2d7737f1dc3cc94482388e7eadf139a]: Commencement: [Rule 62](https://www.legislation.gov.uk/uksi/2007/3141/rule/62) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

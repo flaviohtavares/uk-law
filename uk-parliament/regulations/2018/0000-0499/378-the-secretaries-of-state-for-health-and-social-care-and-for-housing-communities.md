@@ -52,13 +52,13 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred by sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-13a926a075ba03341501f8158d52bb60]
+## 1. Citation and commencement[^c-13a926a075ba03341501f8158d52bb60]
 
 (1) This Order may be cited as the Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018.
 
 (2) This Order comes into force on 11th April 2018.
 
-## 2. Interpretation[^key-a3e578771f08ba0579c0eae80608685e]
+## 2. Interpretation[^c-a3e578771f08ba0579c0eae80608685e]
 
 In this Order—
 
@@ -70,7 +70,7 @@ In this Order—
   - (b) it was entrusted to the Secretary of State for Health immediately before 8th January 2018 and has before the making of this Order been entrusted to the Secretary of State for Health and Social Care;
 - “instrument” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
 
-## 3. Incorporation of the Secretary of State for Health and Social Care[^key-22b9a45957d3fc1aaa09e46a34bf8a83]
+## 3. Incorporation of the Secretary of State for Health and Social Care[^c-22b9a45957d3fc1aaa09e46a34bf8a83]
 
 (1) The person who at the coming into force of this Order is the Secretary of State for Health and Social Care and any successor to that person is by that name a corporation sole.
 
@@ -98,13 +98,13 @@ was so made or issued is conclusive evidence of that fact.
 - (a) as if references to regulations and orders included references to any document, and
 - (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
 
-## 4. Transfer of functions etc to the Secretary of State for Health and Social Care[^key-60b038948634a6ef38ab8cb581574eeb]
+## 4. Transfer of functions etc to the Secretary of State for Health and Social Care[^c-60b038948634a6ef38ab8cb581574eeb]
 
 The functions of the Secretary of State for Health are transferred to the Secretary of State for Health and Social Care.
 
-**5.**[^key-3e381fafef06a9000072e8f55cf723a8][^key-60b038948634a6ef38ab8cb581574eeb] There are transferred to the Secretary of State for Health and Social Care all property, rights and liabilities to which the Secretary of State for Health is entitled or subject at the coming into force of this Order.
+**5.**[^c-3e381fafef06a9000072e8f55cf723a8][^c-60b038948634a6ef38ab8cb581574eeb] There are transferred to the Secretary of State for Health and Social Care all property, rights and liabilities to which the Secretary of State for Health is entitled or subject at the coming into force of this Order.
 
-## 6. Secretary of State for Health and Social Care: supplementary[^key-1fdfb988e4eaacb9694d98fe004fcee4]
+## 6. Secretary of State for Health and Social Care: supplementary[^c-1fdfb988e4eaacb9694d98fe004fcee4]
 
 (1) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Health may be continued by or in relation to the Secretary of State for Health and Social Care.
 
@@ -121,7 +121,7 @@ as if references to (and references which are to be read as references to) the S
 
 (5) In paragraphs (1) to (4), references to a Secretary of State include references to the department or an officer of that Secretary of State.
 
-## 7. Incorporation of the Secretary of State for Housing, Communities and Local Government[^key-6c809da7dc4d0bb30fe901904ec008ad]
+## 7. Incorporation of the Secretary of State for Housing, Communities and Local Government[^c-6c809da7dc4d0bb30fe901904ec008ad]
 
 (1) The person who at the coming into force of this Order is the Secretary of State for Housing, Communities and Local Government and any successor to that person is by that name a corporation sole.
 
@@ -153,13 +153,13 @@ was so made or issued is conclusive evidence of that fact.
 - (a) as if references to regulations and orders included references to any document, and
 - (b) as if the officers mentioned in column 2 of the Schedule included any officer authorised to act on behalf of the Secretary of State.
 
-## 8. Transfer of functions etc to the Secretary of State for Housing, Communities and Local Government[^key-09c40661cf71252fef7db0c7a9ddce9a]
+## 8. Transfer of functions etc to the Secretary of State for Housing, Communities and Local Government[^c-09c40661cf71252fef7db0c7a9ddce9a]
 
 The functions of the Secretary of State for Communities and Local Government are transferred to the Secretary of State for Housing, Communities and Local Government.
 
-**9.**[^key-94ada7cd5c445ca52a048ce3b3a695b6][^key-09c40661cf71252fef7db0c7a9ddce9a] There are transferred to the Secretary of State for Housing, Communities and Local Government all property, rights and liabilities to which the Secretary of State for Communities and Local Government is entitled or subject at the coming into force of this Order.
+**9.**[^c-94ada7cd5c445ca52a048ce3b3a695b6][^c-09c40661cf71252fef7db0c7a9ddce9a] There are transferred to the Secretary of State for Housing, Communities and Local Government all property, rights and liabilities to which the Secretary of State for Communities and Local Government is entitled or subject at the coming into force of this Order.
 
-## 10. Secretary of State for Housing, Communities and Local Government: supplementary[^key-bd02b80e42647ab476f27a7c00c9ed4d]
+## 10. Secretary of State for Housing, Communities and Local Government: supplementary[^c-bd02b80e42647ab476f27a7c00c9ed4d]
 
 (1) Anything (including legal proceedings) which, at the coming into force of this Order, is in the process of being done by or in relation to the Secretary of State for Communities and Local Government may be continued by or in relation to the Secretary of State for Housing, Communities and Local Government.
 
@@ -176,13 +176,13 @@ as if references to (and references which are to be read as references to) the S
 
 (5) In paragraphs (1) to (4), references to a Secretary of State include references to the department or an officer of that Secretary of State.
 
-## 11. Transfer of functions etc from the Lord Chancellor to the Secretary of State[^key-f9e74dcff4319469c4701cf75e302460]
+## 11. Transfer of functions etc from the Lord Chancellor to the Secretary of State[^c-f9e74dcff4319469c4701cf75e302460]
 
 The functions of the Lord Chancellor under Part 1 of the Commonhold and Leasehold Reform Act 2002[^f00003] (commonhold land) are transferred to the Secretary of State.
 
-**12.**[^key-202a1b1e071ef782424b6cc912006b0c][^key-f9e74dcff4319469c4701cf75e302460] There are transferred to the Secretary of State for Housing, Communities and Local Government all property, rights and liabilities to which the Lord Chancellor is entitled or subject at the coming into force of this Order in connection with a function transferred by article 11.
+**12.**[^c-202a1b1e071ef782424b6cc912006b0c][^c-f9e74dcff4319469c4701cf75e302460] There are transferred to the Secretary of State for Housing, Communities and Local Government all property, rights and liabilities to which the Lord Chancellor is entitled or subject at the coming into force of this Order in connection with a function transferred by article 11.
 
-## 13. Articles 11 and 12: supplementary[^key-892f20b5a1b3601431bf3fadf0fe22f1]
+## 13. Articles 11 and 12: supplementary[^c-892f20b5a1b3601431bf3fadf0fe22f1]
 
 (1) This article applies to—
 
@@ -202,13 +202,13 @@ The functions of the Lord Chancellor under Part 1 of the Commonhold and Leasehol
 - (a) references to the Lord Chancellor are to be read as including references to the department or an officer of the Lord Chancellor, and
 - (b) references to the Secretary of State are to be read as including references to the department or an officer of the Secretary of State accordingly.
 
-## 14. Validity of things done before coming into force of Order[^key-f347879eb79e605e18ddf08f5fe428b8]
+## 14. Validity of things done before coming into force of Order[^c-f347879eb79e605e18ddf08f5fe428b8]
 
 (1) This Order does not affect the validity of anything done (or having effect as if done) by or in relation to the Secretary of State for Health, the Secretary of State for Communities and Local Government or the Lord Chancellor before the coming into force of this Order.
 
 (2) In paragraph (1) the reference to a Secretary of State or the Lord Chancellor includes a reference to the department or an officer of that Secretary of State or of the Lord Chancellor (as the case may be).
 
-## 15. Consequential amendments[^key-07bfbe0dac377f0b8448a33a9729296e]
+## 15. Consequential amendments[^c-07bfbe0dac377f0b8448a33a9729296e]
 
 The Schedule has effect.
 
@@ -222,11 +222,11 @@ Article 15
 
 ### PART 1 — Amendments to primary legislation
 
-#### 1. Transport Act [1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46)[^key-cc2a1bca50886a812429b21e3015a5da]
+#### 1. Transport Act [1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46)[^c-cc2a1bca50886a812429b21e3015a5da]
 
 In section 86(6A) of the Transport Act 1962[^f00004], for “Communities and Local Government” substitute “Housing, Communities and Local Government”.
 
-#### 2. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^key-182f2175f720a916e17566d27ade1248]
+#### 2. Parliamentary Commissioner Act [1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^c-182f2175f720a916e17566d27ade1248]
 
 In Schedule 2 to the Parliamentary Commissioner Act 1967[^f00005]—
 
@@ -234,15 +234,15 @@ In Schedule 2 to the Parliamentary Commissioner Act 1967[^f00005]—
 - (b) in the entry for the Department of Health after “Health” insert “and Social Care”, and
 - (c) at the appropriate place insert “Ministry of Housing, Communities and Local Government”.
 
-#### 3. Abortion Act [1967 (c. 87)](https://www.legislation.gov.uk/ukpga/1967/87)[^key-f6ab071513670cdb3715a029ce4ac4af]
+#### 3. Abortion Act [1967 (c. 87)](https://www.legislation.gov.uk/ukpga/1967/87)[^c-f6ab071513670cdb3715a029ce4ac4af]
 
 In section 2(2) of the Abortion Act 1967[^f00006], after “Health” insert “and Social Care”.
 
-#### 4. Food Act [1984 (c. 30)](https://www.legislation.gov.uk/ukpga/1984/30)[^key-489751d41a2d61292bbdb551020cfbcd]
+#### 4. Food Act [1984 (c. 30)](https://www.legislation.gov.uk/ukpga/1984/30)[^c-489751d41a2d61292bbdb551020cfbcd]
 
 In section 135(2)(a)(ii) of the Food Act 1984[^f00007], after “Health” insert “and Social Care”.
 
-#### 5. Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8)[^key-293d3b5f598f15bbaeac1539742ca18d]
+#### 5. Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8)[^c-293d3b5f598f15bbaeac1539742ca18d]
 
 (1) The Town and Country Planning Act 1990 is amended as follows.
 
@@ -255,19 +255,19 @@ In section 135(2)(a)(ii) of the Food Act 1984[^f00007], after “Health” inser
 
 (4) In paragraph 8(2) of Schedule 6[^f00011], for “the Department for Communities and Local Government” substitute “the Ministry of Housing, Communities and Local Government”.
 
-#### 6. Planning (Listed Buildings and Conservation Areas) Act [1990 (c. 9)](https://www.legislation.gov.uk/ukpga/1990/9)[^key-ca7ec7eb0bd34b0567dd1f48eb5d5596]
+#### 6. Planning (Listed Buildings and Conservation Areas) Act [1990 (c. 9)](https://www.legislation.gov.uk/ukpga/1990/9)[^c-ca7ec7eb0bd34b0567dd1f48eb5d5596]
 
 In paragraph 7(2) of Schedule 3 to the Planning (Listed Buildings and Conservation Areas) Act 1990[^f00012], for “the Department for Communities and Local Government” substitute “the Ministry of Housing, Communities and Local Government”.
 
-#### 7. Planning (Hazardous Substances) Act [1990 (c. 10)](https://www.legislation.gov.uk/ukpga/1990/10)[^key-847368a852944abaf533b3a153eb2898]
+#### 7. Planning (Hazardous Substances) Act [1990 (c. 10)](https://www.legislation.gov.uk/ukpga/1990/10)[^c-847368a852944abaf533b3a153eb2898]
 
 In paragraph 7(2) of the Schedule to the Planning (Hazardous Substances) Act 1990[^f00013], for “the Department for Communities and Local Government” substitute “the Ministry of Housing, Communities and Local Government”.
 
-#### 8. Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42)[^key-028d3094c1040b4ab74eb234651057a3]
+#### 8. Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42)[^c-028d3094c1040b4ab74eb234651057a3]
 
 In section 23(10) of the Transport and Works Act 1992[^f00014], for “the Department for Communities and Local Government” in both places substitute “the Ministry of Housing, Communities and Local Government”.
 
-#### 9. Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23)[^key-e4641f1823767be6e6c3a2421bb8baab]
+#### 9. Regulation of Investigatory Powers Act [2000 (c. 23)](https://www.legislation.gov.uk/ukpga/2000/23)[^c-e4641f1823767be6e6c3a2421bb8baab]
 
 In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000[^f00015]—
 
@@ -278,7 +278,7 @@ In Part 1 of Schedule 1 to the Regulation of Investigatory Powers Act 2000[^f000
   , and
 - (b) in paragraph 12 after “Health” insert “and Social Care”.
 
-#### 10. Commonhold and Leasehold Reform Act [2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15)[^key-8d7afe01e61cb4ca794b30c50eb111f7]
+#### 10. Commonhold and Leasehold Reform Act [2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15)[^c-8d7afe01e61cb4ca794b30c50eb111f7]
 
 In the following provisions of the Commonhold and Leasehold Reform Act 2002, for “Lord Chancellor” in each place substitute “Secretary of State”—
 
@@ -286,11 +286,11 @@ In the following provisions of the Commonhold and Leasehold Reform Act 2002, for
 - (b) section 62(1) and (2) (power to give financial assistance in relation to advice etc)[^f00016];
 - (c) section 64(2) (making of regulations under Part 1 of the Act).
 
-#### 11. Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40)[^key-114e5b361a4c3b7f23e9bc442d35a8d8]
+#### 11. Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40)[^c-114e5b361a4c3b7f23e9bc442d35a8d8]
 
 In section 213(5A)(d) of the Enterprise Act 2002[^f00017], after “Health” insert “and Social Care”.
 
-#### 12. Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28)[^key-a03cc5ece05d9be8bdda4364c8a30b2c]
+#### 12. Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28)[^c-a03cc5ece05d9be8bdda4364c8a30b2c]
 
 In Schedule 9 to the Domestic Violence, Crime and Victims Act 2004 (authorities within Commissioner’s remit)—
 
@@ -300,7 +300,7 @@ In Schedule 9 to the Domestic Violence, Crime and Victims Act 2004 (authorities 
 
   > **8B.** The Ministry of Housing, Communities and Local Government.
 
-#### 13. Corporate Manslaughter and Corporate Homicide Act [2007 (c. 19)](https://www.legislation.gov.uk/ukpga/2007/19)[^key-586157c6346e3993ace70d93fa664a4b]
+#### 13. Corporate Manslaughter and Corporate Homicide Act [2007 (c. 19)](https://www.legislation.gov.uk/ukpga/2007/19)[^c-586157c6346e3993ace70d93fa664a4b]
 
 In Schedule 1 to the Corporate Manslaughter and Corporate Homicide Act 2007—
 
@@ -308,7 +308,7 @@ In Schedule 1 to the Corporate Manslaughter and Corporate Homicide Act 2007—
 - (b) at the end of the entry for the Department of Health insert “and Social Care”, and
 - (c) at the appropriate place insert “Ministry of Housing, Communities and Local Government”.
 
-#### 14. Crossrail Act [2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18)[^key-1f0b4b9dd4568b54eb4431b4015f3fe9]
+#### 14. Crossrail Act [2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18)[^c-1f0b4b9dd4568b54eb4431b4015f3fe9]
 
 In the following provisions of the Crossrail Act 2008, for “Communities and Local Government” substitute “Housing, Communities and Local Government”—
 
@@ -317,22 +317,22 @@ In the following provisions of the Crossrail Act 2008, for “Communities and Lo
 - (c) paragraph 2(8) of Schedule 5 (in the definition of “appropriate Ministers”);
 - (d) paragraph 37(2) of Schedule 7.
 
-#### 15. Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25)[^key-b2b63974b463f973cfffbded45e7a5c5]
+#### 15. Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25)[^c-b2b63974b463f973cfffbded45e7a5c5]
 
 In the following provisions of the Coroners and Justice Act 2009, after “Health” insert “and Social Care”—
 
 - (a) section 18(2)(a);
 - (b) section 20(1)(n).
 
-#### 16. Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23)[^key-2fbda2b3af9eb32c4130aa3d22392cb8]
+#### 16. Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23)[^c-2fbda2b3af9eb32c4130aa3d22392cb8]
 
 In section 111(1)(d) of the Care Act 2014, after “Health” insert “and Social Care”.
 
-#### 17. Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25)[^key-1a7120ced55ccbcbe95367b64dae2edd]
+#### 17. Investigatory Powers Act [2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25)[^c-1a7120ced55ccbcbe95367b64dae2edd]
 
 In Schedule 4 to the Investigatory Powers Act 2016, in column (1) of the table in Part 1, in the entry for the Department of Health after “Health” insert “and Social Care”.
 
-#### 18. High Speed Rail (London – West Midlands) Act [2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7)[^key-5fe8cf407e9b977405470be13229ee7e]
+#### 18. High Speed Rail (London – West Midlands) Act [2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7)[^c-5fe8cf407e9b977405470be13229ee7e]
 
 In the following provisions of the High Speed Rail (London – West Midlands) Act 2017, for “Communities and Local Government” substitute “Housing, Communities and Local Government”—
 
@@ -340,7 +340,7 @@ In the following provisions of the High Speed Rail (London – West Midlands) Ac
 - (b) paragraph 5(9) of Schedule 16 (in the definition of “appropriate Ministers”);
 - (c) paragraph 30 of Schedule 17 (in the definition of “appropriate Ministers”).
 
-#### 19. Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30)[^key-70c3e38f08b65221c5f5b24bfe074032]
+#### 19. Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30)[^c-70c3e38f08b65221c5f5b24bfe074032]
 
 In the following provisions of the Digital Economy Act 2017, for “Communities and Local Government” substitute “Housing, Communities and Local Government”—
 
@@ -351,13 +351,13 @@ In the following provisions of the Digital Economy Act 2017, for “Communities 
 
 ### PART 2 — Amendments to secondary legislation
 
-**20.**[^key-9a0db6e1ed1530e58e0f4b40288fef65] In each of the following provisions, after “of Health” in each place insert “and Social Care”—
+**20.**[^c-9a0db6e1ed1530e58e0f4b40288fef65] In each of the following provisions, after “of Health” in each place insert “and Social Care”—
 
 - (a) regulations 4(2)(a) and 5(a)(i) of the Abortion Regulations 1991[^f00019];
 - (b) column 2 of Schedule 6 to the Welfare Food Regulations 1996[^f00020];
 - (c) column (2) of the Schedule to the Building Societies (Business Names) Regulations 1998[^f00021], in relation to the entries for “abortion”, “Health Centre” and “Health Service”, and “Pregnancy Termination”;
 - (d) regulations 7(6)(ab), 8(7)(aa), 9(12)(ab) and 13(3)(a)(i) and (ii) of the Radiation (Emergency Preparedness and Public Information) Regulations 2001[^f00022];
-- (e)[^key-25308d9b7250d6b9a429d85318c2014b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-25308d9b7250d6b9a429d85318c2014b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) column 2 of the table in Schedule 2 to the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) Regulations 2004[^f00024];
 - (g) the Schedule to the Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations 2004[^f00025];
 - (h) regulations 18(1)(a)(iii) and 22(3)(d) of the Justification of Practices Involving Ionising Radiation Regulations 2004[^f00026];
@@ -389,7 +389,7 @@ In the following provisions of the Digital Economy Act 2017, for “Communities 
 - (ff) paragraph 1 of Schedule 2 to the Medicines (Products for Human Use) (Fees) Regulations 2016[^f00050], in the definition of “the MHRA portal”;
 - (gg) the definition of “Public Health England” in regulation 2(1) of the Water Supply (Water Quality) Regulations 2016[^f00051].
 
-**21.**[^key-871bd8073269c699cc2875e25fbcb6fb] In each of the following provisions, after “for Health” in each place insert “and Social Care”—
+**21.**[^c-871bd8073269c699cc2875e25fbcb6fb] In each of the following provisions, after “for Health” in each place insert “and Social Care”—
 
 - (a) paragraph 48(2) of Schedule 9 and paragraph 38(2) of Schedule 10 to the Income Support (General) Regulations 1987[^f00052];
 - (b) paragraph 44(2) of Schedule 2 to the Family Credit (General) Regulations 1987[^f00053];
@@ -398,7 +398,7 @@ In the following provisions of the Digital Economy Act 2017, for “Communities 
 - (e) paragraph 42(2) of Schedule 3 and paragraph 39(2) of Schedule 4 to the Housing Renewal Grants Regulations 1996[^f00056];
 - (f) regulations 3(1), (2) and (3) of the Good Laboratory Practice Regulations 1999[^f00057];
 - (g) item 12(e) in table 6 in regulation 19 of the Tax Credits (Definitions and Calculation of Income) Regulations 2002[^f00058];
-- (h)[^key-bea68e29290db583363776e9f82284fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-bea68e29290db583363776e9f82284fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) article 2(2) of the Crime (International Co-operation) Act 2003 (Designation of Prosecuting Authorities) Order 2004[^f00060];
 - (j) the definition of “Appointing Authority” in paragraph 2 of the Schedule to the Postgraduate Medical Education and Training Board (Members – Removal from Office) Rules Order 2004[^f00061];
 - (k) paragraph 2(1)(j)(i) and (k)(i) of Schedule 2 to the Dairy Produce Quotas Regulations 2005[^f00062];
@@ -414,7 +414,7 @@ In the following provisions of the Digital Economy Act 2017, for “Communities 
 - (u) Parts 2 and 3 of Schedule 1 to the Criminal Justice (European Investigation Order) Regulations 2017[^f00072];
 - (v) paragraph 3(2)(o) of Schedule 2 to the NHS Counter Fraud Authority (Establishment, Constitution, and Staff and Other Transfer Provisions) Order 2017[^f00073].
 
-**22.**[^key-56605e5ecda41eec9e09e2d3bd499630] In regulation 4(2)(a) of the Abortion Regulations 1991, for “Richmond House, 79 Whitehall, London, SW1A 2NS” substitute “39 Victoria Street, London SW1H 0EU”.
+**22.**[^c-56605e5ecda41eec9e09e2d3bd499630] In regulation 4(2)(a) of the Abortion Regulations 1991, for “Richmond House, 79 Whitehall, London, SW1A 2NS” substitute “39 Victoria Street, London SW1H 0EU”.
 
 EXPLANATORY NOTE
 
@@ -440,57 +440,57 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). Section 1 was amended by section 20 of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-13a926a075ba03341501f8158d52bb60]: Commencement: Art. 1 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-13a926a075ba03341501f8158d52bb60]: Commencement: Art. 1 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-a3e578771f08ba0579c0eae80608685e]: Commencement: Art. 2 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-a3e578771f08ba0579c0eae80608685e]: Commencement: Art. 2 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-22b9a45957d3fc1aaa09e46a34bf8a83]: Commencement: Art. 3 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-22b9a45957d3fc1aaa09e46a34bf8a83]: Commencement: Art. 3 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00002]: Footnote: [1868 c. 37](https://www.legislation.gov.uk/ukpga/1868/37).
 
-[^key-60b038948634a6ef38ab8cb581574eeb]: Commencement: Art. 4 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-60b038948634a6ef38ab8cb581574eeb]: Commencement: Art. 4 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-3e381fafef06a9000072e8f55cf723a8]: Commencement: Art. 5 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-3e381fafef06a9000072e8f55cf723a8]: Commencement: Art. 5 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-1fdfb988e4eaacb9694d98fe004fcee4]: Commencement: Art. 6 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-1fdfb988e4eaacb9694d98fe004fcee4]: Commencement: Art. 6 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-6c809da7dc4d0bb30fe901904ec008ad]: Commencement: Art. 7 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-6c809da7dc4d0bb30fe901904ec008ad]: Commencement: Art. 7 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-09c40661cf71252fef7db0c7a9ddce9a]: Commencement: Art. 8 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-09c40661cf71252fef7db0c7a9ddce9a]: Commencement: Art. 8 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-94ada7cd5c445ca52a048ce3b3a695b6]: Commencement: Art. 9 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-94ada7cd5c445ca52a048ce3b3a695b6]: Commencement: Art. 9 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-bd02b80e42647ab476f27a7c00c9ed4d]: Commencement: Art. 10 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-bd02b80e42647ab476f27a7c00c9ed4d]: Commencement: Art. 10 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-f9e74dcff4319469c4701cf75e302460]: Commencement: Art. 11 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-f9e74dcff4319469c4701cf75e302460]: Commencement: Art. 11 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00003]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15)
 
-[^key-202a1b1e071ef782424b6cc912006b0c]: Commencement: Art. 12 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-202a1b1e071ef782424b6cc912006b0c]: Commencement: Art. 12 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-892f20b5a1b3601431bf3fadf0fe22f1]: Commencement: Art. 13 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-892f20b5a1b3601431bf3fadf0fe22f1]: Commencement: Art. 13 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-f347879eb79e605e18ddf08f5fe428b8]: Commencement: Art. 14 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-f347879eb79e605e18ddf08f5fe428b8]: Commencement: Art. 14 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-07bfbe0dac377f0b8448a33a9729296e]: Commencement: Art. 15 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-07bfbe0dac377f0b8448a33a9729296e]: Commencement: Art. 15 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-cc2a1bca50886a812429b21e3015a5da]: Commencement: Sch. para. 1 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-cc2a1bca50886a812429b21e3015a5da]: Commencement: Sch. para. 1 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00004]: Footnote: Section 86(6A) was inserted by [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681) and amended by [S.I. 1976/1775](https://www.legislation.gov.uk/uksi/1976/1775), [1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) and [2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
-[^key-182f2175f720a916e17566d27ade1248]: Commencement: Sch. para. 2 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-182f2175f720a916e17566d27ade1248]: Commencement: Sch. para. 2 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00005]: Footnote: Schedule 2 was substituted by [S.I. 2011/2986](https://www.legislation.gov.uk/uksi/2011/2986). Other amendments have been made to Schedule 2 which are not relevant to this Order.
 
-[^key-f6ab071513670cdb3715a029ce4ac4af]: Commencement: Sch. para. 3 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-f6ab071513670cdb3715a029ce4ac4af]: Commencement: Sch. para. 3 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00006]: Footnote: Section 2(2) was amended by [S.I. 1969/388](https://www.legislation.gov.uk/uksi/1969/388) and by [S.I. 1988/1843](https://www.legislation.gov.uk/uksi/1988/1843). Other amendments have been made to section 2(2) which are not relevant to this Order.
 
-[^key-489751d41a2d61292bbdb551020cfbcd]: Commencement: Sch. para. 4 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-489751d41a2d61292bbdb551020cfbcd]: Commencement: Sch. para. 4 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00007]: Footnote: In section 135(2)(a)(ii) the reference to the Secretary of State for Health was inserted by [S.I. 1988/1843](https://www.legislation.gov.uk/uksi/1988/1843).
 
-[^key-293d3b5f598f15bbaeac1539742ca18d]: Commencement: Sch. para. 5 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-293d3b5f598f15bbaeac1539742ca18d]: Commencement: Sch. para. 5 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00008]: Footnote: Section 228 was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) and [2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
@@ -500,49 +500,49 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: Paragraph 8(2) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) and [2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
-[^key-ca7ec7eb0bd34b0567dd1f48eb5d5596]: Commencement: Sch. para. 6 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-ca7ec7eb0bd34b0567dd1f48eb5d5596]: Commencement: Sch. para. 6 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00012]: Footnote: Paragraph 7(2) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) and [2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
-[^key-847368a852944abaf533b3a153eb2898]: Commencement: Sch. para. 7 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-847368a852944abaf533b3a153eb2898]: Commencement: Sch. para. 7 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00013]: Footnote: Paragraph 7(2) was amended by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), and [2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
-[^key-028d3094c1040b4ab74eb234651057a3]: Commencement: Sch. para. 8 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-028d3094c1040b4ab74eb234651057a3]: Commencement: Sch. para. 8 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00014]: Footnote: Section 23(10) was amended and paragraph (a) substituted by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971); section 23(10) was further amended by [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568), [2002/2626](https://www.legislation.gov.uk/uksi/2002/2626) and [2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
-[^key-e4641f1823767be6e6c3a2421bb8baab]: Commencement: Sch. para. 9 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-e4641f1823767be6e6c3a2421bb8baab]: Commencement: Sch. para. 9 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00015]: Footnote: Schedule 1 was amended by [S.I. 2007/3224](https://www.legislation.gov.uk/uksi/2007/3224), [2009/229](https://www.legislation.gov.uk/uksi/2009/229) and [2009/2748](https://www.legislation.gov.uk/uksi/2009/2748). Paragraph 9A was inserted by [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926). Other amendments have been made to Schedule 1 which are not relevant to this Order.
 
-[^key-8d7afe01e61cb4ca794b30c50eb111f7]: Commencement: Sch. para. 10 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-8d7afe01e61cb4ca794b30c50eb111f7]: Commencement: Sch. para. 10 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00016]: Footnote: Section 62(1) was amended by section 319(1) of the Housing and Regeneration Act 2008.
 
-[^key-114e5b361a4c3b7f23e9bc442d35a8d8]: Commencement: Sch. para. 11 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-114e5b361a4c3b7f23e9bc442d35a8d8]: Commencement: Sch. para. 11 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00017]: Footnote: Section 213(5A) was inserted by [S.I. 2006/3363](https://www.legislation.gov.uk/uksi/2006/3363). Other amendments have been made to section 213(5A) which are not relevant to this Order.
 
-[^key-a03cc5ece05d9be8bdda4364c8a30b2c]: Commencement: Sch. para. 12 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-a03cc5ece05d9be8bdda4364c8a30b2c]: Commencement: Sch. para. 12 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00018]: Footnote: Paragraph 1ZA was inserted by [S.I. 2006/1926](https://www.legislation.gov.uk/uksi/2006/1926).
 
-[^key-586157c6346e3993ace70d93fa664a4b]: Commencement: Sch. para. 13 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-586157c6346e3993ace70d93fa664a4b]: Commencement: Sch. para. 13 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-1f0b4b9dd4568b54eb4431b4015f3fe9]: Commencement: Sch. para. 14 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-1f0b4b9dd4568b54eb4431b4015f3fe9]: Commencement: Sch. para. 14 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-b2b63974b463f973cfffbded45e7a5c5]: Commencement: Sch. para. 15 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-b2b63974b463f973cfffbded45e7a5c5]: Commencement: Sch. para. 15 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-2fbda2b3af9eb32c4130aa3d22392cb8]: Commencement: Sch. para. 16 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-2fbda2b3af9eb32c4130aa3d22392cb8]: Commencement: Sch. para. 16 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-1a7120ced55ccbcbe95367b64dae2edd]: Commencement: Sch. para. 17 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-1a7120ced55ccbcbe95367b64dae2edd]: Commencement: Sch. para. 17 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-5fe8cf407e9b977405470be13229ee7e]: Commencement: Sch. para. 18 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-5fe8cf407e9b977405470be13229ee7e]: Commencement: Sch. para. 18 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-70c3e38f08b65221c5f5b24bfe074032]: Commencement: Sch. para. 19 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-70c3e38f08b65221c5f5b24bfe074032]: Commencement: Sch. para. 19 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
-[^key-9a0db6e1ed1530e58e0f4b40288fef65]: Commencement: Sch. para. 20 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-9a0db6e1ed1530e58e0f4b40288fef65]: Commencement: Sch. para. 20 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00019]: Footnote: [S.I. 1991/499](https://www.legislation.gov.uk/uksi/1991/499), amended by [S.I. 2002/2879](https://www.legislation.gov.uk/uksi/2002/2879); there are other amending instruments but none is relevant.
 
@@ -552,7 +552,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00022]: Footnote: [S.I. 2001/2975](https://www.legislation.gov.uk/uksi/2001/2975), amended by [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235); there are other amending instruments but none is relevant.
 
-[^key-25308d9b7250d6b9a429d85318c2014b]: Textual amendment: [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/e) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-25308d9b7250d6b9a429d85318c2014b]: Textual amendment: [Sch. para. 20(e)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/e) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
 
 [^f00024]: Footnote: [S.I. 2004/629](https://www.legislation.gov.uk/uksi/2004/629); relevant amending instruments are [S.I. 2004/3215](https://www.legislation.gov.uk/uksi/2004/3215), [2009/2230](https://www.legislation.gov.uk/uksi/2009/2230), [2010/2389](https://www.legislation.gov.uk/uksi/2010/2389), [2011/680](https://www.legislation.gov.uk/uksi/2011/680) and [2013/363](https://www.legislation.gov.uk/uksi/2013/363).
 
@@ -610,7 +610,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00051]: Footnote: [S.I. 2016/614](https://www.legislation.gov.uk/uksi/2016/614), to which there are amendments not relevant to this Order.
 
-[^key-871bd8073269c699cc2875e25fbcb6fb]: Commencement: Sch. para. 21 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-871bd8073269c699cc2875e25fbcb6fb]: Commencement: Sch. para. 21 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
 
 [^f00052]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967), relevant amending instruments are [S.I. 1990/1776](https://www.legislation.gov.uk/uksi/1990/1776) and [S.I. 2008/3157](https://www.legislation.gov.uk/uksi/2008/3157).
 
@@ -626,7 +626,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00058]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006), amended by [S.I. 2010/2914](https://www.legislation.gov.uk/uksi/2010/2914); there are other amending instruments but none is relevant.
 
-[^key-bea68e29290db583363776e9f82284fe]: Textual amendment: [Sch. para. 21(h)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/h) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-bea68e29290db583363776e9f82284fe]: Textual amendment: [Sch. para. 21(h)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/21/h) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
 
 [^f00060]: Footnote: [S.I. 2004/1034](https://www.legislation.gov.uk/uksi/2004/1034); amended by [S.I. 2012/146](https://www.legislation.gov.uk/uksi/2012/146); there are other amending instruments but none is relevant.
 
@@ -656,4 +656,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00073]: Footnote: [S.I. 2017/958](https://www.legislation.gov.uk/uksi/2017/958).
 
-[^key-56605e5ecda41eec9e09e2d3bd499630]: Commencement: Sch. para. 22 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)
+[^c-56605e5ecda41eec9e09e2d3bd499630]: Commencement: Sch. para. 22 in force at 11.4.2018, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2)

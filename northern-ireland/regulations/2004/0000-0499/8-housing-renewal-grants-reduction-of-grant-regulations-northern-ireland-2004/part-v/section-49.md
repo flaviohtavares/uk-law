@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Treatment of payments from access funds[^key-5aaa7ed1b76f93a85afe82a5a16aadbc]
+## 49. Treatment of payments from access funds[^c-5aaa7ed1b76f93a85afe82a5a16aadbc]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ that payment shall be disregarded as income.
 
 ## Annotations
 
-[^key-5aaa7ed1b76f93a85afe82a5a16aadbc]: Commencement: Reg. 49 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-5aaa7ed1b76f93a85afe82a5a16aadbc]: Commencement: Reg. 49 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

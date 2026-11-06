@@ -82,7 +82,7 @@ he shall be liable for any loss thereby occasioned to the tenant or to the compe
 
 - (a) any notice given under this Chapter by the competent landlord to the tenant,
 - (b) any agreement for the purposes of this Chapter between that landlord and the tenant, and
-- (c) any determination of the court or the appropriate tribunal[^key-90e1194ccc562ea2c09afc107b7418f1] under this Chapter in proceedings between that landlord and the tenant,
+- (c) any determination of the court or the appropriate tribunal[^c-90e1194ccc562ea2c09afc107b7418f1] under this Chapter in proceedings between that landlord and the tenant,
 
 shall be binding on the other landlords and on their interests in the property demised by the tenant’s lease or any other property; but in the event of dispute the competent landlord or any of the other landlords may apply to the court for directions as to the manner in which the competent landlord should act in the dispute.
 
@@ -139,4 +139,4 @@ and in section 47(1) and (2) references to the landlord shall be construed accor
 
 [^c17028531]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/1993/28/schedule/11) wholly in force at 1.11.1993 see [s. 188(2)](https://www.legislation.gov.uk/ukpga/1993/28/section/188/2) and [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [art. 5](https://www.legislation.gov.uk/uksi/1993/2134/article/5)
 
-[^key-90e1194ccc562ea2c09afc107b7418f1]: Textual amendment: Words in [Sch. 11 para. 6(1)(c)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/11/paragraph/6/1/c) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 127](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/127) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-90e1194ccc562ea2c09afc107b7418f1]: Textual amendment: Words in [Sch. 11 para. 6(1)(c)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/11/paragraph/6/1/c) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 127](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/127) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

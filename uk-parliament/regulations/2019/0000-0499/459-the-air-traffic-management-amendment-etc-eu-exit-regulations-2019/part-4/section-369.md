@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 369. Commission Decision of 12.8.2010[^key-188cb837a3c06707edd53b71c093f2fc]
+## 369. Commission Decision of 12.8.2010[^c-188cb837a3c06707edd53b71c093f2fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision of 12.8.2010 on the designation of a functional airspace blo
 
 ## Annotations
 
-[^key-188cb837a3c06707edd53b71c093f2fc]: Commencement: Reg. 369 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-188cb837a3c06707edd53b71c093f2fc]: Commencement: Reg. 369 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

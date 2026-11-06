@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Procedure for offences by unincorporated bodies[^key-62a534ebff0603552cee44456289f5ed][^key-ef79414fefb03b8bb791f1dea2d40500]
+## 52. Procedure for offences by unincorporated bodies[^c-62a534ebff0603552cee44456289f5ed][^c-ef79414fefb03b8bb791f1dea2d40500]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-62a534ebff0603552cee44456289f5ed]: Commencement: Reg. 52 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-62a534ebff0603552cee44456289f5ed]: Commencement: Reg. 52 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-ef79414fefb03b8bb791f1dea2d40500]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2020/1278/regulation/52) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-ef79414fefb03b8bb791f1dea2d40500]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2020/1278/regulation/52) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
 
 [^c24334811]: Marginal citation: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86) as amended by the [Statute Law (Repeals) Act 2004 (c.14)](https://www.legislation.gov.uk/ukpga/2004/14), [section 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1) and Schedule 1, Part 17. Other amendments have been made to section 33 that are not relevant to these Regulations.
 

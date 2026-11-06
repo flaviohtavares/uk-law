@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Ventilation[^key-18a680350f3af8ccae09a1181f06b05a]
+## 43. Ventilation[^c-18a680350f3af8ccae09a1181f06b05a]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a680350f3af8ccae09a1181f06b05a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2016/427/regulation/43) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-18a680350f3af8ccae09a1181f06b05a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/nisr/2016/427/regulation/43) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

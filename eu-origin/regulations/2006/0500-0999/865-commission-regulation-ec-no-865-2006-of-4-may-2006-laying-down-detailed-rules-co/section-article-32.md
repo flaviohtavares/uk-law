@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Where the travelling exhibition originates in Great Britain[^M_F_c9db38b9-f4fd-4fc4-9416-bd8cf7f18ebb], the issuing authority for a travelling exhibition certificate shall be the management authority [^key-22ccbea2f0891bdb5af500b1443a925d]....
+1. Where the travelling exhibition originates in Great Britain[^M_F_c9db38b9-f4fd-4fc4-9416-bd8cf7f18ebb], the issuing authority for a travelling exhibition certificate shall be the management authority [^c-22ccbea2f0891bdb5af500b1443a925d]....
 
-2.[^key-34e3b0e17064b4a19ba884a586717bcf] A travelling exhibition certificate issued by a third country is valid for use in Great Britain provided that—
+2.[^c-34e3b0e17064b4a19ba884a586717bcf] A travelling exhibition certificate issued by a third country is valid for use in Great Britain provided that—
 
 - (a) the certificate has not expired;
 - (b) it conforms to the format and content requirements set out in Annex 3 of CITES Resolution Conf. 12.3;
@@ -30,16 +30,16 @@ summary: ''
 - (d) the issuing authority is listed as a management authority by the Convention Secretariat; and
 - (e) the management authority is satisfied there is no history of non-compliance associated with the certificate or the specimen or specimens to which the certificate applies.
 
-3. Where, during a stay in Great Britain[^key-3ae91bdaea7f6d467585ab47330e8bc4], an animal covered by a travelling exhibition certificate gives birth, the management authority [^key-62ecd8b136cb24f94fa5f4ec534c2550]... shall be notified and shall issue a permit or certificate as appropriate.
+3. Where, during a stay in Great Britain[^c-3ae91bdaea7f6d467585ab47330e8bc4], an animal covered by a travelling exhibition certificate gives birth, the management authority [^c-62ecd8b136cb24f94fa5f4ec534c2550]... shall be notified and shall issue a permit or certificate as appropriate.
 
 ## Annotations
 
 [^M_F_c9db38b9-f4fd-4fc4-9416-bd8cf7f18ebb]: Textual amendment: Words in [Art. 32(1)](https://www.legislation.gov.uk/eur/2006/865/article/32/1) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/a)
 
-[^key-22ccbea2f0891bdb5af500b1443a925d]: Textual amendment: Words in [Art. 32(1)](https://www.legislation.gov.uk/eur/2006/865/article/32/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/a)
+[^c-22ccbea2f0891bdb5af500b1443a925d]: Textual amendment: Words in [Art. 32(1)](https://www.legislation.gov.uk/eur/2006/865/article/32/1) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(a)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/a)
 
-[^key-34e3b0e17064b4a19ba884a586717bcf]: Textual amendment: [Art. 32(2)](https://www.legislation.gov.uk/eur/2006/865/article/32/2) substituted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/8)
+[^c-34e3b0e17064b4a19ba884a586717bcf]: Textual amendment: [Art. 32(2)](https://www.legislation.gov.uk/eur/2006/865/article/32/2) substituted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/8)
 
-[^key-3ae91bdaea7f6d467585ab47330e8bc4]: Textual amendment: Words in [Art. 32(3)](https://www.legislation.gov.uk/eur/2006/865/article/32/3) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(c)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/c)
+[^c-3ae91bdaea7f6d467585ab47330e8bc4]: Textual amendment: Words in [Art. 32(3)](https://www.legislation.gov.uk/eur/2006/865/article/32/3) substituted (31.12.2020) by [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(c)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/c)
 
-[^key-62ecd8b136cb24f94fa5f4ec534c2550]: Textual amendment: Words in [Art. 32(3)](https://www.legislation.gov.uk/eur/2006/865/article/32/3) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(c)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/c)
+[^c-62ecd8b136cb24f94fa5f4ec534c2550]: Textual amendment: Words in [Art. 32(3)](https://www.legislation.gov.uk/eur/2006/865/article/32/3) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(26)(c)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/26/c)

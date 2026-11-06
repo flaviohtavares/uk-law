@@ -81,11 +81,11 @@ Directive 2004/117/EC[^f00009] extended the scope of Community seed equivalence 
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** The official checks on practices for the maintenance of varieties carried out in the [^key-0e2b556d280f23842631085a705b4013]... countries and by the authorities, listed in the Annex, for the species covered by the Directives referred to for each of those countries shall afford the same guarantees as those carried out in Great Britain[^key-6fe985756b48cbbd4db3f9ec9e184e03].
+**Article 1.** The official checks on practices for the maintenance of varieties carried out in the [^c-0e2b556d280f23842631085a705b4013]... countries and by the authorities, listed in the Annex, for the species covered by the Directives referred to for each of those countries shall afford the same guarantees as those carried out in Great Britain[^c-6fe985756b48cbbd4db3f9ec9e184e03].
 
-**Article 2.**[^key-ffd1842deecda99b5c41757386d483ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ffd1842deecda99b5c41757386d483ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ee68db886cf65dce5c5a0e275f202f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ee68db886cf65dce5c5a0e275f202f35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 4.** In Decision 2003/17/EC Articles 1 and 2 shall be replaced by the following:
 
@@ -100,7 +100,7 @@ HAS ADOPTED THIS DECISION:
 
 However, Article 4 shall apply as from 1 October 2005.
 
-**Article 6.**[^key-cb8710ffbc7485efc5468baaec33fe84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-cb8710ffbc7485efc5468baaec33fe84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX
 
@@ -155,15 +155,15 @@ However, Article 4 shall apply as from 1 October 2005.
 
 [^f00010]: Footnote: [OJ L 8, 14.1.2003, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.008.01.0010.01.ENG). Decision as last amended by Regulation (EC) No 885/2004 ([OJ L 168, 1.5.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.168.01.0001.01.ENG)).
 
-[^key-0e2b556d280f23842631085a705b4013]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eudn/2005/834/article/1) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/2/a)
+[^c-0e2b556d280f23842631085a705b4013]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eudn/2005/834/article/1) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/2/a)
 
-[^key-6fe985756b48cbbd4db3f9ec9e184e03]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2005/834/article/1) substituted (15.4.2021) by [The Vegetable and Ornamental Plant Propagating Material and Fodder Plant Seed (Amendment) Regulations 2021 (S.I. 2021/393)](https://www.legislation.gov.uk/uksi/2021/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/393/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/393/regulation/7/2)
+[^c-6fe985756b48cbbd4db3f9ec9e184e03]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2005/834/article/1) substituted (15.4.2021) by [The Vegetable and Ornamental Plant Propagating Material and Fodder Plant Seed (Amendment) Regulations 2021 (S.I. 2021/393)](https://www.legislation.gov.uk/uksi/2021/393), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/393/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2021/393/regulation/7/2)
 
-[^key-ffd1842deecda99b5c41757386d483ab]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2005/834/article/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/3)
+[^c-ffd1842deecda99b5c41757386d483ab]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2005/834/article/2) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/3)
 
-[^key-ee68db886cf65dce5c5a0e275f202f35]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2005/834/article/3) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/3)
+[^c-ee68db886cf65dce5c5a0e275f202f35]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/2005/834/article/3) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/3)
 
-[^key-cb8710ffbc7485efc5468baaec33fe84]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2005/834/article/6) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/3)
+[^c-cb8710ffbc7485efc5468baaec33fe84]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eudn/2005/834/article/6) omitted (31.12.2020) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c), [3(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/3/3)
 
 [^c000001]: Textual amendment: Deleted by [Council Regulation (EC) No 1791/2006 of 20 November 2006 adapting certain Regulations and Decisions in the fields of free movement of goods, freedom of movement of persons, company law, competition policy, agriculture (including veterinary and phytosanitary legislation), transport policy, taxation, statistics, energy, environment, cooperation in the fields of justice and home affairs, customs union, external relations, common foreign and security policy and institutions, by reason of the accession of Bulgaria and Romania](https://www.legislation.gov.uk/eur/2006/1791).
 

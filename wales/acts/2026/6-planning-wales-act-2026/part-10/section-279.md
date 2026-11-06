@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 279. Interpretation of this Part[^key-fa031c9dc310f1d729021f132cc25571]
+## 279. Interpretation of this Part[^c-fa031c9dc310f1d729021f132cc25571]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa031c9dc310f1d729021f132cc25571]: Commencement: S. 279 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fa031c9dc310f1d729021f132cc25571]: Commencement: S. 279 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

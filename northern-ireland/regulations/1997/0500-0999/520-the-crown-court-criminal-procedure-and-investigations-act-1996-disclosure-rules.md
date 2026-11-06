@@ -44,18 +44,18 @@ Coming into operation
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and section 19 of the Criminal Procedure and Investigations Act 1996[^f00002] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-c67ad0acc99efdca50734f52aa38c608]
+## 1. Citation, commencement and interpretation[^c-c67ad0acc99efdca50734f52aa38c608]
 
 (1) These Rules may be cited as the Crown Court (Criminal Procedure and Investigations Act 1996) (Disclosure) Rules (Northern Ireland) 1997 and shall come into operation on 1st January 1998.
 
 (2) In these Rules—
 
 - “the Act” means the Criminal Procedure and Investigations Act 1996[^f00003] and a reference to a section or Part by number is a reference to the section or Part so numbered in the Act;
-- “the chief clerk” means the chief clerk of the Crown Court at the place where a case is being or is to be tried and includes such other civil servant in the Department of Justice[^key-2a33da96bd1b085dfd8d5b20167bc737] as may be authorised to act on his behalf for the purpose in question;
+- “the chief clerk” means the chief clerk of the Crown Court at the place where a case is being or is to be tried and includes such other civil servant in the Department of Justice[^c-2a33da96bd1b085dfd8d5b20167bc737] as may be authorised to act on his behalf for the purpose in question;
 - “a scheduled offence” means an offence which is scheduled within the meaning of section 1 of the Northern Ireland (Emergency Provisions) Act 1996[^f00004];
 - “the start of the trial” and cognate expressions shall be construed in accordance with section 39(3)[^f00005] of the Act.
 
-## 2. Public interest: application by prosecutor[^key-e41b39d5b06a7f3428fee5f7016e0125]
+## 2. Public interest: application by prosecutor[^c-e41b39d5b06a7f3428fee5f7016e0125]
 
 (1) This rule applies to the making of an application by the prosecutor under section 3(6), 7(5), 8(5) or 9(8) where Part I applies by virtue of section 1(2) (trial on indictment).
 
@@ -70,7 +70,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 - (a) where the offence charged is a scheduled offence, on such judge as has been designated by the Lord Chief Justice for the purposes of hearing the application;
 - (b) in any other case, on the trial judge, or if the application is made before the start of the trial, on the judge, if any, who has been designated to conduct the trial or to hear the application.
 
-## 3. Public interest: hearing of an application by the prosecutor[^key-942e8afb6c02c31bd416d3b54cedf736]
+## 3. Public interest: hearing of an application by the prosecutor[^c-942e8afb6c02c31bd416d3b54cedf736]
 
 (1) This rule applies to the hearing of an application by the prosecutor under section 3(6), 7(5), 8(5) or 9(8) where Part I applies by virtue of section 1(2).
 
@@ -102,7 +102,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 
 and, where notice of the application has been served in accordance with rule 2(5), the judge on whom it is served shall take such steps as he considers appropriate to ensure that notice is given as required by paragraph (3)(*a*)(i) and (iii) above.
 
-## 4. Public interest: non-disclosure order[^key-c6356e82143668af7474e4fecdb656aa]
+## 4. Public interest: non-disclosure order[^c-c6356e82143668af7474e4fecdb656aa]
 
 (1) This rule applies to an order under section 3(6), 7(5), 8(5) or 9(8).
 
@@ -117,7 +117,7 @@ the chief clerk shall notify the accused that an order has been made:
 
 Provided that no notification under this paragraph shall be given in a case where an order is made following an application which has been made under rule 2(2) as it has effect in accordance with rule 2(4).
 
-## 5. Review of non-disclosure order: application by accused[^key-dc76ceb943d58002215d5bbaa5e76f53]
+## 5. Review of non-disclosure order: application by accused[^c-dc76ceb943d58002215d5bbaa5e76f53]
 
 (1) This rule applies to an application by the accused under section 14A(2) or section 15(4).
 
@@ -163,7 +163,7 @@ of the date and time when, and place where, the hearing of an application to whi
 
 of any order which is made by the Court following its determination of the application.
 
-## 6. Applications: interested persons[^key-58f2598ab3b455a99c262296a0d3205c]
+## 6. Applications: interested persons[^c-58f2598ab3b455a99c262296a0d3205c]
 
 (1) Where the prosecutor has reason to believe that a person who was involved (whether alone or with others and whether directly or indirectly) in the prosecutor’s attention being brought to any material to which an application under section 3(6), 7(5), 8(5), 9(8), 14A(2) or 15(4) relates may claim to have an interest in that material, the prosecutor shall—
 
@@ -186,7 +186,7 @@ and shall specify the nature of the applicant’s interest in the material and h
 
 (4) At the hearing of an application under section 3(6), 7(5), 8(5), 9(8), 14A(2) or 15(4) a person who has made an application under section 16(*b*) in accordance with paragraph (2) above shall be entitled to make representations to the Court.
 
-## 7. Disclosure: application by the accused and order of the court[^key-4d2753d1865c8875ba14c2fc20f85c73]
+## 7. Disclosure: application by the accused and order of the court[^c-4d2753d1865c8875ba14c2fc20f85c73]
 
 (1) This rule applies to an application by the accused under section 8(2).
 
@@ -230,7 +230,7 @@ and a notice under sub-paragraph (*a*) above shall specify the substance of the 
 
 (10) The chief clerk shall serve a copy of any order under section 8(2) on the prosecutor and the accused.
 
-## 8. Disclosure: application for extension of the time-limit and order of the court[^key-baef6906f6ed541516ae2bfd185401fa]
+## 8. Disclosure: application for extension of the time-limit and order of the court[^c-baef6906f6ed541516ae2bfd185401fa]
 
 (1) This rule applies to an application under paragraph (2) of Regulation 4 of the Criminal Procedure and Investigations Act 1996 (Defence Disclosure Time Limits) Regulations 1997[^f00006] (‘the 1997 Regulations'), (including that paragraph as applied by Regulation 5(2) those Regulations) to extend the relevant period for section 5.
 
@@ -250,7 +250,7 @@ and a notice under sub-paragraph (*a*) above shall specify the substance of the 
 
 (7) The chief clerk shall serve a copy of any order made under Regulation 4(1) or 5(1) of the 1997 Regulations on the prosecutor and the applicant.
 
-## 9. General[^key-7f39c4bb5d069af686f6734fc625106f]
+## 9. General[^c-7f39c4bb5d069af686f6734fc625106f]
 
 (1) Any hearing held in pursuance of or in accordance with these Rules—
 
@@ -310,30 +310,30 @@ These Rules provide for the practice and procedure to be followed in the Crown C
 
 [^f00002]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 19 is modified in its application to Northern Ireland by paragraph 12 of Schedule 4 to the Act
 
-[^key-c67ad0acc99efdca50734f52aa38c608]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1997/520/article/1) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-c67ad0acc99efdca50734f52aa38c608]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1997/520/article/1) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
 [^f00003]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); as modified in its application to Northern Ireland by Schedule 4 to the Act
 
-[^key-2a33da96bd1b085dfd8d5b20167bc737]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/1997/520/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 30](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/30) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-2a33da96bd1b085dfd8d5b20167bc737]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/1997/520/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 30](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/30) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
 [^f00004]: Footnote: [1996 c. 24](https://www.legislation.gov.uk/ukpga/1996/24)
 
 [^f00005]: Footnote: Section 39 is modified in its application to Northern Ireland by paragraph 15 of Schedule 4 to the Act
 
-[^key-e41b39d5b06a7f3428fee5f7016e0125]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1997/520/article/2) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-e41b39d5b06a7f3428fee5f7016e0125]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1997/520/article/2) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
-[^key-942e8afb6c02c31bd416d3b54cedf736]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1997/520/article/3) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-942e8afb6c02c31bd416d3b54cedf736]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/1997/520/article/3) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
-[^key-c6356e82143668af7474e4fecdb656aa]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1997/520/article/4) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-c6356e82143668af7474e4fecdb656aa]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/1997/520/article/4) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
-[^key-dc76ceb943d58002215d5bbaa5e76f53]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1997/520/article/5) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-dc76ceb943d58002215d5bbaa5e76f53]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/1997/520/article/5) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
-[^key-58f2598ab3b455a99c262296a0d3205c]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/1997/520/article/6) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-58f2598ab3b455a99c262296a0d3205c]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/1997/520/article/6) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
-[^key-4d2753d1865c8875ba14c2fc20f85c73]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/1997/520/article/7) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-4d2753d1865c8875ba14c2fc20f85c73]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/1997/520/article/7) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
-[^key-baef6906f6ed541516ae2bfd185401fa]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/1997/520/article/8) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-baef6906f6ed541516ae2bfd185401fa]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/1997/520/article/8) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
 
 [^f00006]: Footnote: S.I. [1997/2680](https://www.legislation.gov.uk/uksi/1997/2680)
 
-[^key-7f39c4bb5d069af686f6734fc625106f]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/1997/520/article/9) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)
+[^c-7f39c4bb5d069af686f6734fc625106f]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/1997/520/article/9) in operation at 1.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/520/article/1/1)

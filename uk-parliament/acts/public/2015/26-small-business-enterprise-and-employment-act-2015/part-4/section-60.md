@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Advice[^key-2f31d7f750e9c438c653c7dd2f8baa10]
+## 60. Advice[^c-2f31d7f750e9c438c653c7dd2f8baa10]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The Adjudicator may give advice on any matter relating to the Pubs Code to—
 
 ## Annotations
 
-[^key-2f31d7f750e9c438c653c7dd2f8baa10]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2015/26/section/60) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-2f31d7f750e9c438c653c7dd2f8baa10]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2015/26/section/60) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

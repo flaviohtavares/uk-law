@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Deposit and return schemes: designation of scheme administrator[^key-b904bb5caf50c72860234c04f515200a]
+## 85. Deposit and return schemes: designation of scheme administrator[^c-b904bb5caf50c72860234c04f515200a]
 
 *Extent: S*
 
@@ -40,10 +40,10 @@ the body.
 - (a) borrowing by the existing body (with the approval of the Scottish Ministers);
 - (b) the charging by the body, in respect of the exercise of its functions in relation to a deposit and return scheme, of such reasonable amounts as the Scottish Ministers consider appropriate.
 
-(4)[^key-ada5f6d3ffe7d042781cf67ead473f75] An order under subsection (1)(a) or (b) may include provision about the giving of directions by the Scottish Ministers to the scheme administrator about the exercise of the administrator’s functions in relation to the scheme.
+(4)[^c-ada5f6d3ffe7d042781cf67ead473f75] An order under subsection (1)(a) or (b) may include provision about the giving of directions by the Scottish Ministers to the scheme administrator about the exercise of the administrator’s functions in relation to the scheme.
 
 ## Annotations
 
-[^key-b904bb5caf50c72860234c04f515200a]: Commencement: S. 85 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-b904bb5caf50c72860234c04f515200a]: Commencement: S. 85 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-ada5f6d3ffe7d042781cf67ead473f75]: Textual amendment: S. 85(4) substituted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 25(2)](https://www.legislation.gov.uk/asp/2024/13/section/25/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(f)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/f)
+[^c-ada5f6d3ffe7d042781cf67ead473f75]: Textual amendment: S. 85(4) substituted (1.4.2025) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 25(2)](https://www.legislation.gov.uk/asp/2024/13/section/25/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/10](https://www.legislation.gov.uk/ssi/2025/10), [reg. 3(f)](https://www.legislation.gov.uk/ssi/2025/10/regulation/3/f)

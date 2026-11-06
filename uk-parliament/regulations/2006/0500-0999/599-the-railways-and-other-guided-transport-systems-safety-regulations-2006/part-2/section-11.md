@@ -26,7 +26,7 @@ summary: ''
 - (b) any energy supply, not falling within sub-paragraph (a), which is used in connection with the infrastructure in question; or
 - (c) the principles of operation and maintenance of such infrastructure or energy supply,
 
-then the holder of the safety authorisation shall apply to the Office of Rail and Road[^key-7a35f7219cd6cd48c7c276f2052e1946] for the safety authorisation to be amended accordingly and the substantial change shall not be made until the safety authorisation is so amended.
+then the holder of the safety authorisation shall apply to the Office of Rail and Road[^c-7a35f7219cd6cd48c7c276f2052e1946] for the safety authorisation to be amended accordingly and the substantial change shall not be made until the safety authorisation is so amended.
 
 (2) An application for an amended safety authorisation under this regulation shall provide details of—
 
@@ -42,4 +42,4 @@ and in either case shall give reasons for its decision.
 
 ## Annotations
 
-[^key-7a35f7219cd6cd48c7c276f2052e1946]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2006/599/regulation/11) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(h)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/h)
+[^c-7a35f7219cd6cd48c7c276f2052e1946]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2006/599/regulation/11) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(h)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/h)

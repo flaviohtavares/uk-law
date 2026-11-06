@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application and modification of statutory provisions[^key-94782d7c24ac0a40fe01be7323c9a10c]
+## 6. Application and modification of statutory provisions[^c-94782d7c24ac0a40fe01be7323c9a10c]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-94782d7c24ac0a40fe01be7323c9a10c]: Commencement: Art. 6 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-94782d7c24ac0a40fe01be7323c9a10c]: Commencement: Art. 6 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
 [^f00031]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act 1995 (c. 25), paragraphs 25 and 32 of Schedule 2 to the Flood and Water Management Act 2010 (c. 29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

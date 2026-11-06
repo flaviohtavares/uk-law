@@ -109,7 +109,7 @@ under any scheme, regulations, Order in Council, order, bye-laws or similar inst
 - (c) under the Medicines Act 1968[^f00008] or the Medicines Act 1971[^f00009] (other than any function of laying a copy of a report under section 5(2) of the Act of 1968 and any function under section 108 of that Act);
 - (d) under paragraph 3 of Schedule 1 to the Poisons Act 1972[^f00010];
 - (e) under section 51 of the Fair Trading Act 1973[^f00011] or any related provision of that Act;
-- (f) [^key-469924e1d57d5ac5808303be1d165f32]...; or
+- (f) [^c-469924e1d57d5ac5808303be1d165f32]...; or
 - (g) which is exercisable by virtue of section 265(3)(a) or (4) of the Town and Country Planning Act 1990[^f00013];
 
 is hereby transferred to the Secretary of State for Environment, Food and Rural Affairs.
@@ -172,7 +172,7 @@ under any scheme, regulations, Order in Council, order, bye-laws or similar inst
 
 ## 5. Specific modifications of enactments and instruments
 
-(1) The amendments specified in Schedule 1 (consequential amendments) shall have effect. *(Extent: E+W+NI)* *(affected by repeal, see note)*[^key-935ed31a871b693bfb85ee511fbbba33]
+(1) The amendments specified in Schedule 1 (consequential amendments) shall have effect. *(Extent: E+W+NI)* *(affected by repeal, see note)*[^c-935ed31a871b693bfb85ee511fbbba33]
 
 (2) The repeals and revocations specified in Schedule 2 shall have effect.
 
@@ -341,7 +341,7 @@ Article 5(1)
 
 ### Diseases of Fish Act [1983 (c. 30)](https://www.legislation.gov.uk/ukpga/1983/30)
 
-**21.** In section 7(8) of the Diseases of Fish Act 1983, in the definition of “the Minister”, in paragraph (a), for the words “Minister of Agriculture, Fisheries and Food” there shall be substituted “Secretary of State”. *(Extent: S)* *(affected by repeal, see note)*[^key-796d6a111376a554e3411b02e3a36d3d] *(Extent: E+W)* *(affected by repeal, see note)*[^key-3e1817910749f7cc23ed7a0d80945945]
+**21.** In section 7(8) of the Diseases of Fish Act 1983, in the definition of “the Minister”, in paragraph (a), for the words “Minister of Agriculture, Fisheries and Food” there shall be substituted “Secretary of State”. *(Extent: S)* *(affected by repeal, see note)*[^c-796d6a111376a554e3411b02e3a36d3d] *(Extent: E+W)* *(affected by repeal, see note)*[^c-3e1817910749f7cc23ed7a0d80945945]
 
 ### National Heritage Act [1983 (c. 47)](https://www.legislation.gov.uk/ukpga/1983/47)
 
@@ -451,11 +451,11 @@ Article 5(1)
 
 ### Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Order 2000 (S.I. [2000/181](https://www.legislation.gov.uk/uksi/2000/181))
 
-**46.** In article 4(3) of the Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Order 2000 for the words “Minister of Agriculture, Fisheries and Food” there shall be substituted “Secretary of State for Environment, Food and Rural Affairs”. *(Extent: E+W+NI)* *(affected by repeal, see note)*[^key-da605e5712b29a165c004306faf35bbc]
+**46.** In article 4(3) of the Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Order 2000 for the words “Minister of Agriculture, Fisheries and Food” there shall be substituted “Secretary of State for Environment, Food and Rural Affairs”. *(Extent: E+W+NI)* *(affected by repeal, see note)*[^c-da605e5712b29a165c004306faf35bbc]
 
 ### Sea Fishing (Enforcement of Community Conservation Measures) Order 2000 (S.I. [2000/1081](https://www.legislation.gov.uk/uksi/2000/1081))
 
-**47.** In article 9(1)(a) of the Sea Fishing (Enforcement of Community Conservation Measures) Order 2000 for the words “Minister of Agriculture, Fisheries and Food” there shall be substituted “Secretary of State for Environment, Food and Rural Affairs”. *(Extent: E+W+NI)* *(affected by repeal, see note)*[^key-c42d816c1b9c581df03564728a60f9c8]
+**47.** In article 9(1)(a) of the Sea Fishing (Enforcement of Community Conservation Measures) Order 2000 for the words “Minister of Agriculture, Fisheries and Food” there shall be substituted “Secretary of State for Environment, Food and Rural Affairs”. *(Extent: E+W+NI)* *(affected by repeal, see note)*[^c-c42d816c1b9c581df03564728a60f9c8]
 
 ### Regulation of Investigatory Powers (Prescription of Offices, Ranks and Positions) Order 2000 (S.I. [2000/2417](https://www.legislation.gov.uk/uksi/2000/2417))
 
@@ -536,7 +536,7 @@ Nothing in this Order alters the functions of the National Assembly for Wales, t
 
 [^f00011]: Footnote: [1973 c. 41](https://www.legislation.gov.uk/ukpga/1973/41).
 
-[^key-469924e1d57d5ac5808303be1d165f32]: Textual amendment: Art. 3(1)(f) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
+[^c-469924e1d57d5ac5808303be1d165f32]: Textual amendment: Art. 3(1)(f) revoked (18.7.2014) by [The Public Bodies (Abolition of Food from Britain) Order 2014 (S.I. 2014/1924)](https://www.legislation.gov.uk/uksi/2014/1924), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1924/article/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/1924/schedule)
 
 [^f00013]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 265(3)(a) was amended by the Environment Act 1995 (Consequential Amendments) Regulations 1996 (S.I. [1996/593](https://www.legislation.gov.uk/uksi/1996/593)), reg. 2 and Sch. 1. Functions exercisable by virtue of section 265(3)(a) and (4) were transferred by the Assembly Order, art. 2 and Sch. 1.
 
@@ -552,7 +552,7 @@ Nothing in this Order alters the functions of the National Assembly for Wales, t
 
 [^f00019]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-935ed31a871b693bfb85ee511fbbba33]: Textual amendment: Art. 5(1) revoked for specified purposes (E.W.N.I.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-935ed31a871b693bfb85ee511fbbba33]: Textual amendment: Art. 5(1) revoked for specified purposes (E.W.N.I.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
 
 [^f00020]: Footnote: S.I. [1955/554](https://www.legislation.gov.uk/uksi/1955/554) (“the 1955 Order”).
 
@@ -574,12 +574,12 @@ Nothing in this Order alters the functions of the National Assembly for Wales, t
 
 [^f00029]: Footnote: Schedule 2 was substituted by section 1(2) of, and Schedule 1 to, the Parliamentary and Health Service Commissioners Act [1987 (c. 39)](https://www.legislation.gov.uk/ukpga/1987/39).
 
-[^key-796d6a111376a554e3411b02e3a36d3d]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/21) revoked (S.) (27.3.2009) by [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/16) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-796d6a111376a554e3411b02e3a36d3d]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/21) revoked (S.) (27.3.2009) by [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 16](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/16) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
-[^key-3e1817910749f7cc23ed7a0d80945945]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/21) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2/c), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/11)
+[^c-3e1817910749f7cc23ed7a0d80945945]: Textual amendment: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/21) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2/c), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/11)
 
 [^f00030]: Footnote: Functions have been transferred by section 53 of the Scotland Act 1998 and the Scotland Act 1998 (Modification of Functions) Order 1999 (S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756)), art. 2 and para. 11 of the Schedule. The definition of “the Ministers” was amended by the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999, art. 4 and Sch. 2, para. 90.
 
-[^key-da605e5712b29a165c004306faf35bbc]: Textual amendment: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/46) revoked (E.W.N.I) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-da605e5712b29a165c004306faf35bbc]: Textual amendment: [Sch. 1 para. 46](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/46) revoked (E.W.N.I) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
 
-[^key-c42d816c1b9c581df03564728a60f9c8]: Textual amendment: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/47) revoked (E.W.N.I.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-c42d816c1b9c581df03564728a60f9c8]: Textual amendment: [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2002/794/schedule/1/paragraph/47) revoked (E.W.N.I.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Section 3 of the Human Rights Act 1998: life prisoners[^key-afcd407b55fcdabc0a86290d6bf355f6]
+## 69. Section 3 of the Human Rights Act 1998: life prisoners[^c-afcd407b55fcdabc0a86290d6bf355f6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In Chapter 2 of Part 2 of the Crime (Sentences) Act 1997 (life sentences), after
 
 ## Annotations
 
-[^key-afcd407b55fcdabc0a86290d6bf355f6]: Commencement: S. 69 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-afcd407b55fcdabc0a86290d6bf355f6]: Commencement: S. 69 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

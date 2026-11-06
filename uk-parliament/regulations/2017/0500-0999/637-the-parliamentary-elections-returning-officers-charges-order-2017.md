@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People
 
-The Parliamentary Elections (Returning Officers’ Charges) Order 2017 (revoked)[^key-d194947088e1c54efd29e9bbb206e43b]
+The Parliamentary Elections (Returning Officers’ Charges) Order 2017 (revoked)[^c-d194947088e1c54efd29e9bbb206e43b]
 
 Made
 
@@ -39,39 +39,39 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-d194947088e1c54efd29e9bbb206e43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d194947088e1c54efd29e9bbb206e43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d194947088e1c54efd29e9bbb206e43b]
+## 1. Citation, commencement and extent[^c-d194947088e1c54efd29e9bbb206e43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-d194947088e1c54efd29e9bbb206e43b]
+## 2. Revocation[^c-d194947088e1c54efd29e9bbb206e43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Returning officers: overall maximum recoverable amount[^key-d194947088e1c54efd29e9bbb206e43b]
+## 3. Returning officers: overall maximum recoverable amount[^c-d194947088e1c54efd29e9bbb206e43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Returning officers: maximum recoverable amount for specified services[^key-d194947088e1c54efd29e9bbb206e43b]
+## 4. Returning officers: maximum recoverable amount for specified services[^c-d194947088e1c54efd29e9bbb206e43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Returning officers: maximum recoverable amount for specified expenses[^key-d194947088e1c54efd29e9bbb206e43b]
+## 5. Returning officers: maximum recoverable amount for specified expenses[^c-d194947088e1c54efd29e9bbb206e43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Overall maximum recoverable amount at an uncontested parliamentary election[^key-d194947088e1c54efd29e9bbb206e43b]
+## 6. Overall maximum recoverable amount at an uncontested parliamentary election[^c-d194947088e1c54efd29e9bbb206e43b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d194947088e1c54efd29e9bbb206e43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d194947088e1c54efd29e9bbb206e43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for specified services and specified expenses for each constituency where a parliamentary election is a standalone poll.[^key-d194947088e1c54efd29e9bbb206e43b]
+## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for specified services and specified expenses for each constituency where a parliamentary election is a standalone poll.[^c-d194947088e1c54efd29e9bbb206e43b]
 
 Articles 3, 4(1) and 5(1)
 
@@ -79,8 +79,8 @@ Articles 3, 4(1) and 5(1)
 
 **May not be in force at this date. Check the source.**
 
-[^key-d194947088e1c54efd29e9bbb206e43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d194947088e1c54efd29e9bbb206e43b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d194947088e1c54efd29e9bbb206e43b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/637) revoked (6.6.2017) by [The Parliamentary Elections (Returning Officers’ Charges) (No. 2) Order 2017 (S.I. 2017/671)](https://www.legislation.gov.uk/uksi/2017/671), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/671/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/671/article/2)
+[^c-d194947088e1c54efd29e9bbb206e43b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/637) revoked (6.6.2017) by [The Parliamentary Elections (Returning Officers’ Charges) (No. 2) Order 2017 (S.I. 2017/671)](https://www.legislation.gov.uk/uksi/2017/671), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/671/article/1/1), [2](https://www.legislation.gov.uk/uksi/2017/671/article/2)

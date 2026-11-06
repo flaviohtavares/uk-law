@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Apparatus and rights of statutory undertakers in stopped-up streets[^key-88dcf27da8f9d34543d674a15c4dbbc5]
+## 43. Apparatus and rights of statutory undertakers in stopped-up streets[^c-88dcf27da8f9d34543d674a15c4dbbc5]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88dcf27da8f9d34543d674a15c4dbbc5]: Commencement: Art. 43 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-88dcf27da8f9d34543d674a15c4dbbc5]: Commencement: Art. 43 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
 [^f00028]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to this Act which are not relevant to this Order.

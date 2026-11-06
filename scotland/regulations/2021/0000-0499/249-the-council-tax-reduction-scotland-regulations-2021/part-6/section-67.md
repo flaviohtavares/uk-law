@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. What is included in capital?[^key-0adae2c7d0872aed0f23fbcf2d8bac52]
+## 67. What is included in capital?[^c-0adae2c7d0872aed0f23fbcf2d8bac52]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0adae2c7d0872aed0f23fbcf2d8bac52]: Commencement: [Reg. 67](https://www.legislation.gov.uk/ssi/2021/249/regulation/67) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-0adae2c7d0872aed0f23fbcf2d8bac52]: Commencement: [Reg. 67](https://www.legislation.gov.uk/ssi/2021/249/regulation/67) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

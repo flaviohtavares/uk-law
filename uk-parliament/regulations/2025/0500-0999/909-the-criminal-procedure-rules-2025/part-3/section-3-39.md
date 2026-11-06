@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.39. Representations in response[^key-e69ba4447e013d2d2956d89ea7041975]
+## 3.39. Representations in response[^c-e69ba4447e013d2d2956d89ea7041975]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e69ba4447e013d2d2956d89ea7041975]: Commencement: [Rule 3.39](https://www.legislation.gov.uk/uksi/2025/909/rule/3.39) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e69ba4447e013d2d2956d89ea7041975]: Commencement: [Rule 3.39](https://www.legislation.gov.uk/uksi/2025/909/rule/3.39) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00145]: Footnote: [S.I. 1987/299](https://www.legislation.gov.uk/uksi/1987/299); amended by sections 71 and 80 of, and paragraph 8 of Schedule 5 to, the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25) and [S.I. 1989/767](https://www.legislation.gov.uk/uksi/1989/767), [1991/1515](https://www.legislation.gov.uk/uksi/1991/1515), [1995/555](https://www.legislation.gov.uk/uksi/1995/555), [1999/2744](https://www.legislation.gov.uk/uksi/1999/2744), [2000/3284](https://www.legislation.gov.uk/uksi/2000/3284), [2012/1344](https://www.legislation.gov.uk/uksi/2012/1344).
 

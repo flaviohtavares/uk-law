@@ -47,7 +47,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 240(2) and (7) of the Localism Act 2011[^f00001], makes the following Order:
 
-## 1. Citation and interpretation[^key-8d09e0f4db74083127ab21311fe5ecc4]
+## 1. Citation and interpretation[^c-8d09e0f4db74083127ab21311fe5ecc4]
 
 (1) This Order may be cited as the Localism Act 2011 (Commencement No. 4 and Transitional, Transitory and Saving Provisions) Order 2012.
 
@@ -66,7 +66,7 @@ The Secretary of State, in exercise of the powers conferred by section 240(2) an
     - (i) is contained in an Act other than a local or private Act, and
     - (ii) authorises the compulsory acquisition of land specifically identified in that Act.
 
-## 2. Provisions coming into force on 9th March 2012 in relation to England and Wales[^key-f05cab253543a07ac5bd5144b7995466]
+## 2. Provisions coming into force on 9th March 2012 in relation to England and Wales[^c-f05cab253543a07ac5bd5144b7995466]
 
 The following provisions of the Act come into force in relation to England and Wales on 9th March 2012—
 
@@ -84,14 +84,14 @@ The following provisions of the Act come into force in relation to England and W
   - (iii) subsection (6); and
 - (d) section 237 so far as it relates to the provision mentioned in sub-paragraph (c).
 
-## 3. Provisions coming into force on 30th March 2012 in relation to England and Wales[^key-05ea2e3cd950708a168460cfaf2b778b]
+## 3. Provisions coming into force on 30th March 2012 in relation to England and Wales[^c-05ea2e3cd950708a168460cfaf2b778b]
 
 The following provisions of the Act (so far as they are not yet in force) come into force in relation to England and Wales on 30th March 2012—
 
 - (a) section 233; and
 - (b) Schedule 24.
 
-## 4. Provisions coming into force on 31st March 2012 in relation to England and Wales[^key-94beb5c4cb8e16a0014180acc65f75d6]
+## 4. Provisions coming into force on 31st March 2012 in relation to England and Wales[^c-94beb5c4cb8e16a0014180acc65f75d6]
 
 The following provisions of the Act come into force in relation to England and Wales on 31st March 2012—
 
@@ -100,7 +100,7 @@ The following provisions of the Act come into force in relation to England and W
 - (c) Schedule 20; and
 - (d) Part 32 of Schedule 25 and section 237 so far as relating to that Part.
 
-## 5. Provisions coming into force on 1st April 2012 in relation to England[^key-df8df3a63d5c2277d9c3bbf4be10cf3c]
+## 5. Provisions coming into force on 1st April 2012 in relation to England[^c-df8df3a63d5c2277d9c3bbf4be10cf3c]
 
 Subject to articles 9 and 10, the following provisions of the Act (so far as they are not yet in force) come into force in relation to England on 1st April 2012—
 
@@ -108,7 +108,7 @@ Subject to articles 9 and 10, the following provisions of the Act (so far as the
 - (b) section 69; and
 - (c) Parts 7 and 10 of Schedule 25 and section 237 so far as relating to those Parts.
 
-## 6. Provisions coming into force on 1st April 2012 in relation to England and Wales[^key-208f3cba32fcb83c18a9d0602c86bbd5]
+## 6. Provisions coming into force on 1st April 2012 in relation to England and Wales[^c-208f3cba32fcb83c18a9d0602c86bbd5]
 
 Subject to articles 9, 11, 14, 15 and 17, the following provisions of the Act (so far as they are not yet in force) come into force in relation to England and Wales on 1st April 2012—
 
@@ -125,14 +125,14 @@ Subject to articles 9, 11, 14, 15 and 17, the following provisions of the Act (s
   - (i) Parts 26 and 27;
   - (ii) Part 31 except insofar as that Part repeals paragraphs 73(2) and (3) and 74(a) of Schedule 8 to the Housing and Regeneration Act 2008[^f00008].
 
-## 7. Provisions coming into force on 1st April 2012 in relation to England, Wales and to the extent specified in section 239 of the Act, Scotland[^key-c56434c51246f21dd3a342e3575450e4]
+## 7. Provisions coming into force on 1st April 2012 in relation to England, Wales and to the extent specified in section 239 of the Act, Scotland[^c-c56434c51246f21dd3a342e3575450e4]
 
 The following provisions of the Act (so far as they are not yet in force) come into force in relation to England, Wales and, to the extent specified in section 239 of the Act, to Scotland on 1st April 2012—
 
 - (a) sections 128 to 142 and Schedule 13;
 - (b) Parts 20 and 21 of Schedule 25 and section 237 so far as relating to those Parts.
 
-## 8. Provisions coming into force on 6th April 2012 in relation to England and Wales[^key-a2fb7a040930dc67ab23af06fef0d3e9]
+## 8. Provisions coming into force on 6th April 2012 in relation to England and Wales[^c-a2fb7a040930dc67ab23af06fef0d3e9]
 
 Subject to articles 9, 12, 13, 16, and 18 to 20, the following provisions of the Act (so far as they are not yet in force) come into force in relation to England and Wales on 6th April 2012—
 
@@ -142,23 +142,23 @@ Subject to articles 9, 12, 13, 16, and 18 to 20, the following provisions of the
 - (d) section 232;
 - (e) Parts 18, 19, 30 and 34 of Schedule 25 and section 237 so far as relating to those Parts.
 
-## 9. Transitional, transitory and saving provisions[^key-114c8e0234b8ccc3e4ad9288a6992d55]
+## 9. Transitional, transitory and saving provisions[^c-114c8e0234b8ccc3e4ad9288a6992d55]
 
 The following transitional, transitory and saving provisions have effect.
 
-## 10. Transitional etc. provisions: non-domestic rating[^key-19728056ada47bc77743ff7b974ea22d]
+## 10. Transitional etc. provisions: non-domestic rating[^c-19728056ada47bc77743ff7b974ea22d]
 
 Where a billing authority has made a decision that section 47 of the Local Government Finance Act 1988[^f00010] (discretionary relief) applies in relation to a hereditament and a chargeable day for a period, and that period includes days on or after 1st April 2012, that decision shall have effect from 1st April 2012 as if made under section 47 of the Local Government Finance Act 1988 as amended by section 69 of the Act.
 
-## 11. Transitional etc. provisions: standards[^key-5bf7a188e3c88ee484cc3176d60ee2ea]
+## 11. Transitional etc. provisions: standards[^c-5bf7a188e3c88ee484cc3176d60ee2ea]
 
 Notwithstanding the commencement of paragraph 53 of Schedule 4 to the Act by article 6 (repeal of Schedule 4 to the 2000 Act), paragraph 11 of Schedule 4 to the 2000 Act (law of defamation) shall continue in force in relation to any statement (whether written or oral) made by an ethical standards officer in connection with the exercise of functions by the person while that person was so employed.
 
-## 12. Transitional etc provisions: neighbourhood planning referendums[^key-d364f8848ed327ce9ce5d86b97781418]
+## 12. Transitional etc provisions: neighbourhood planning referendums[^c-d364f8848ed327ce9ce5d86b97781418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Transitional etc. provisions: planning enforcement[^key-ff8768e83d498daa838d12bb423520a5]
+## 13. Transitional etc. provisions: planning enforcement[^c-ff8768e83d498daa838d12bb423520a5]
 
 (1) In a case where, before 6th April 2012, an enforcement notice has been issued under section 172 of the 1990 Act[^f00011] (issue of enforcement notice) and not withdrawn under section 173A of that Act (variation and withdrawal of enforcement notices) and either or both of the following sub-paragraphs apply—
 
@@ -176,7 +176,7 @@ section 123(2) and (3) of the Act (retrospective planning permission) shall not 
 
 section 124 of the Act (time limits for enforcing concealed breaches of planning control) shall not apply to that breach.
 
-## 14. Transitional etc. provisions: tenancies of social housing[^key-31be82e5b9884bbb216a6558a05a3769]
+## 14. Transitional etc. provisions: tenancies of social housing[^c-31be82e5b9884bbb216a6558a05a3769]
 
 (1) The amendments made by section 162(1) of the Act apply in respect of a tenancy where the secure tenant referred to in section 90(1) of the 1985 Act dies on or after 1st April 2012.
 
@@ -190,7 +190,7 @@ section 124 of the Act (time limits for enforcing concealed breaches of planning
 
 (6) Those amendments do not apply where the former tenant dies before that date.
 
-## 15. Transitional etc. provisions: regulation of social housing[^key-02516dc4f52c1b344c84c17ba52ad265]
+## 15. Transitional etc. provisions: regulation of social housing[^c-02516dc4f52c1b344c84c17ba52ad265]
 
 (1) The amendments and repeals made by section 179 of, Schedule 17 to and Part 27 of Schedule 25 to, the Act do not affect the validity of anything done (or having effect as if done) by or in relation to the Office for Tenants and Social Landlords before 1st April 2012.
 
@@ -202,7 +202,7 @@ section 124 of the Act (time limits for enforcing concealed breaches of planning
 
 (5) Any standard in relation to rent made by the Office for Tenants and Social Landlords under section 193 of the Housing and Regeneration Act 2008[^f00015] which is in force and effective immediately before that date is to be treated on and after that date as if it were made under section 194 of the Housing and Regeneration Act 2008 (as amended by the Act).
 
-## 16. Transitional etc. provisions: Tenancy Deposit Schemes[^key-ad4f5243f4b29981e7dd4648f9c3e2c0]
+## 16. Transitional etc. provisions: Tenancy Deposit Schemes[^c-ad4f5243f4b29981e7dd4648f9c3e2c0]
 
 (1) Subject to paragraph (2), the amendments made by section 184 of the Act apply in respect of any tenancy deposit received by a landlord in connection with a shorthold tenancy where the tenancy was in effect on or after 6th April 2012.
 
@@ -213,11 +213,11 @@ section 124 of the Act (time limits for enforcing concealed breaches of planning
   - (i) complied with the initial requirements of an authorised scheme in relation to the deposit, and
   - (ii) given to the tenant and any relevant person the information prescribed for the purposes of section 213(5) of the Housing Act 2004[^f00016].
 
-## 17. Transitional etc. provisions: exemption from HMO licensing for buildings run by co-operatives[^key-e2a73b121cb16f5ae37a36faebbe03ce]
+## 17. Transitional etc. provisions: exemption from HMO licensing for buildings run by co-operatives[^c-e2a73b121cb16f5ae37a36faebbe03ce]
 
 The amendments made by section 185 of the Act do not affect any proceedings commenced before 1st April 2012 for an offence under section 72 of the Housing Act 2004, or any proceedings commenced before that date under sections 73 and 74 of that Act for a rent repayment order.
 
-## 18. Transitional etc. provisions: compensation for compulsory acquisition[^key-eb003a9c6b7406e527de4984d4536df3]
+## 18. Transitional etc. provisions: compensation for compulsory acquisition[^c-eb003a9c6b7406e527de4984d4536df3]
 
 (1) The main amendments made by section 232 of, and Part 34 of Schedule 25 to, the Act do not apply—
 
@@ -232,13 +232,13 @@ The amendments made by section 185 of the Act do not affect any proceedings comm
 - (c) the amendments made in the provisions of section 20 of the 1961 Act (powers to prescribe matters relevant to Part 3) that precede paragraph (d) of that section; and
 - (d) the amendments made in section 22 of the 1961 Act (interpretation of Part 3).
 
-## 19. Transitional etc. provisions: appeals against certificates[^key-78eec5d594f2fe02e3de6a858fc772a2]
+## 19. Transitional etc. provisions: appeals against certificates[^c-78eec5d594f2fe02e3de6a858fc772a2]
 
 (1) Where, before 6th April 2012, an appeal has been made under section 18 of the 1961 Act, the amendments listed in paragraphs (a) to (c) of the definition of “the main amendments made by section 232 of, and Part 34 of Schedule 25 to, the Act” do not apply to that appeal.
 
 (2) Where the new section 18 of the 1961 Act applies to an appeal in a case where the main amendments made by section 232 of, and Part 34 of Schedule 25 to, the Act do not apply, the new section 18(3) of the 1961 Act applies as if its reference to a statement under the new section 17(1)(b) of the 1961 Act (certificates of appropriate alternative development) were a reference to a statement under the existing section 17(4)(b) of the 1961 Act.
 
-## 20. Transitional etc. provisions: amendments to planning assumptions[^key-a17157d251a78bc0cff970ae6c8ac14a]
+## 20. Transitional etc. provisions: amendments to planning assumptions[^c-a17157d251a78bc0cff970ae6c8ac14a]
 
 (1) Where, before 6th April 2012—
 
@@ -353,7 +353,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2011 c. 20](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-8d09e0f4db74083127ab21311fe5ecc4]: Commencement: Art. 1 in force at made date
+[^c-8d09e0f4db74083127ab21311fe5ecc4]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -367,35 +367,35 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00007]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). See section 2.
 
-[^key-f05cab253543a07ac5bd5144b7995466]: Commencement: Art. 2 in force at made date
+[^c-f05cab253543a07ac5bd5144b7995466]: Commencement: Art. 2 in force at made date
 
-[^key-05ea2e3cd950708a168460cfaf2b778b]: Commencement: Art. 3 in force at made date
+[^c-05ea2e3cd950708a168460cfaf2b778b]: Commencement: Art. 3 in force at made date
 
-[^key-94beb5c4cb8e16a0014180acc65f75d6]: Commencement: Art. 4 in force at made date
+[^c-94beb5c4cb8e16a0014180acc65f75d6]: Commencement: Art. 4 in force at made date
 
-[^key-df8df3a63d5c2277d9c3bbf4be10cf3c]: Commencement: Art. 5 in force at made date
+[^c-df8df3a63d5c2277d9c3bbf4be10cf3c]: Commencement: Art. 5 in force at made date
 
-[^key-208f3cba32fcb83c18a9d0602c86bbd5]: Commencement: Art. 6 in force at made date
+[^c-208f3cba32fcb83c18a9d0602c86bbd5]: Commencement: Art. 6 in force at made date
 
 [^f00008]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-c56434c51246f21dd3a342e3575450e4]: Commencement: Art. 7 in force at made date
+[^c-c56434c51246f21dd3a342e3575450e4]: Commencement: Art. 7 in force at made date
 
-[^key-a2fb7a040930dc67ab23af06fef0d3e9]: Commencement: Art. 8 in force at made date
+[^c-a2fb7a040930dc67ab23af06fef0d3e9]: Commencement: Art. 8 in force at made date
 
 [^f00009]: Footnote: Schedule 4B was inserted by Schedule 10 to the Act.
 
-[^key-114c8e0234b8ccc3e4ad9288a6992d55]: Commencement: Art. 9 in force at made date
+[^c-114c8e0234b8ccc3e4ad9288a6992d55]: Commencement: Art. 9 in force at made date
 
-[^key-19728056ada47bc77743ff7b974ea22d]: Commencement: Art. 10 in force at made date
+[^c-19728056ada47bc77743ff7b974ea22d]: Commencement: Art. 10 in force at made date
 
 [^f00010]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 47 was amended by Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 13 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), Schedule 1 to the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29), Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), section 2 of the Rating (Former Agricultural Premises and Rural Shops) Act [2001 (c. 14)](https://www.legislation.gov.uk/ukpga/2001/14), Schedule 7 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26) and section 69 of the Localism Act 2011.
 
-[^key-5bf7a188e3c88ee484cc3176d60ee2ea]: Commencement: Art. 11 in force at made date
+[^c-5bf7a188e3c88ee484cc3176d60ee2ea]: Commencement: Art. 11 in force at made date
 
-[^key-d364f8848ed327ce9ce5d86b97781418]: Textual amendment: Art. 12 revoked (3.8.2012) by [The Localism Act 2011 (Commencement No. 7 and Transitional, Saving and Transitory Provisions) Order 2012 (S.I. 2012/2029)](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [4](https://www.legislation.gov.uk/uksi/2012/2029/article/4)
+[^c-d364f8848ed327ce9ce5d86b97781418]: Textual amendment: Art. 12 revoked (3.8.2012) by [The Localism Act 2011 (Commencement No. 7 and Transitional, Saving and Transitory Provisions) Order 2012 (S.I. 2012/2029)](https://www.legislation.gov.uk/uksi/2012/2029), [arts. 2](https://www.legislation.gov.uk/uksi/2012/2029/article/2), [4](https://www.legislation.gov.uk/uksi/2012/2029/article/4)
 
-[^key-ff8768e83d498daa838d12bb423520a5]: Commencement: Art. 13 in force at made date
+[^c-ff8768e83d498daa838d12bb423520a5]: Commencement: Art. 13 in force at made date
 
 [^f00011]: Footnote: Sections 172 and 173A were substituted by section 5 of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
@@ -403,25 +403,25 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00013]: Footnote: Section 171B was inserted by section 4 of the Planning and Compensation Act 1991.
 
-[^key-31be82e5b9884bbb216a6558a05a3769]: Commencement: Art. 14 in force at made date
+[^c-31be82e5b9884bbb216a6558a05a3769]: Commencement: Art. 14 in force at made date
 
 [^f00014]: Footnote: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-02516dc4f52c1b344c84c17ba52ad265]: Commencement: Art. 15 in force at made date
+[^c-02516dc4f52c1b344c84c17ba52ad265]: Commencement: Art. 15 in force at made date
 
 [^f00015]: Footnote: [2008 c. 17](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-ad4f5243f4b29981e7dd4648f9c3e2c0]: Commencement: Art. 16 in force at made date
+[^c-ad4f5243f4b29981e7dd4648f9c3e2c0]: Commencement: Art. 16 in force at made date
 
 [^f00016]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34).
 
-[^key-e2a73b121cb16f5ae37a36faebbe03ce]: Commencement: Art. 17 in force at made date
+[^c-e2a73b121cb16f5ae37a36faebbe03ce]: Commencement: Art. 17 in force at made date
 
-[^key-eb003a9c6b7406e527de4984d4536df3]: Commencement: Art. 18 in force at made date
+[^c-eb003a9c6b7406e527de4984d4536df3]: Commencement: Art. 18 in force at made date
 
-[^key-78eec5d594f2fe02e3de6a858fc772a2]: Commencement: Art. 19 in force at made date
+[^c-78eec5d594f2fe02e3de6a858fc772a2]: Commencement: Art. 19 in force at made date
 
-[^key-a17157d251a78bc0cff970ae6c8ac14a]: Commencement: Art. 20 in force at made date
+[^c-a17157d251a78bc0cff970ae6c8ac14a]: Commencement: Art. 20 in force at made date
 
 [^f00017]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 

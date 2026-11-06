@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-67ced933b2c2b4b6bb5eb08ca4a0af20] A contribution payable under this Part is to be paid by way of deduction from the fee to which it relates.
+(1)[^c-67ced933b2c2b4b6bb5eb08ca4a0af20] A contribution payable under this Part is to be paid by way of deduction from the fee to which it relates.
 
-(2)[^key-c933dfa89e808191a6d82880bc31ab88] A contribution payable under section 52(4) of PSPJOA 2022 is to be paid in accordance with regulation 66 of the 2023 Regulations.
+(2)[^c-c933dfa89e808191a6d82880bc31ab88] A contribution payable under section 52(4) of PSPJOA 2022 is to be paid in accordance with regulation 66 of the 2023 Regulations.
 
 ## Annotations
 
-[^key-67ced933b2c2b4b6bb5eb08ca4a0af20]: Textual amendment: [Reg. 64(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/64/1): reg. 64 renumbered as reg. 64(1) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/5/a)
+[^c-67ced933b2c2b4b6bb5eb08ca4a0af20]: Textual amendment: [Reg. 64(1)](https://www.legislation.gov.uk/uksi/2017/522/regulation/64/1): reg. 64 renumbered as reg. 64(1) (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(5)(a)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/5/a)
 
-[^key-c933dfa89e808191a6d82880bc31ab88]: Textual amendment: [Reg. 64(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/64/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/5/b)
+[^c-c933dfa89e808191a6d82880bc31ab88]: Textual amendment: [Reg. 64(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/64/2) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(5)(b)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/5/b)

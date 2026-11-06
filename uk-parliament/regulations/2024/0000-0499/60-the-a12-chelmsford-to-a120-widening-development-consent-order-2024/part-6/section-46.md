@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Felling or lopping of trees and removal of hedgerows[^key-6450e4513f3a218affc7f9060b5e642d]
+## 46. Felling or lopping of trees and removal of hedgerows[^c-6450e4513f3a218affc7f9060b5e642d]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) do no unnecessary damage to any tree or shrub; and
 - (b) pay compensation to any person for any loss or damage arising from such activity.
 
-(3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, is to be determined as if[^key-19af84cefbe529e04e617e32b698a4ae] it were a dispute under Part 1 of the 1961 Act.
+(3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, is to be determined as if[^c-19af84cefbe529e04e617e32b698a4ae] it were a dispute under Part 1 of the 1961 Act.
 
 (4) The undertaker may, for the purposes of carrying out the authorised development but subject to paragraph (2)—
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6450e4513f3a218affc7f9060b5e642d]: Commencement: Art. 46 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-6450e4513f3a218affc7f9060b5e642d]: Commencement: Art. 46 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
-[^key-19af84cefbe529e04e617e32b698a4ae]: Textual amendment: Words in art. 46(3) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-19af84cefbe529e04e617e32b698a4ae]: Textual amendment: Words in art. 46(3) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00089]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

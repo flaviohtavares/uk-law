@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379. Persons indirectly standing in the position of creditor[^key-4d375ff6a831346f0b99cc0efdb3cb7b]
+## 379. Persons indirectly standing in the position of creditor[^c-4d375ff6a831346f0b99cc0efdb3cb7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ the reference in section 373(3) to the corresponding creditor relationship is a 
 
 ## Annotations
 
-[^key-4d375ff6a831346f0b99cc0efdb3cb7b]: Modification: S. 379 excluded by [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2006/3296/regulation/19/1) (as substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Securitisation Companies (Amendment) Regulations 2018 (S.I. 2018/143)](https://www.legislation.gov.uk/uksi/2018/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/143/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/143/regulation/10/3))
+[^c-4d375ff6a831346f0b99cc0efdb3cb7b]: Modification: S. 379 excluded by [S.I. 2006/3296](https://www.legislation.gov.uk/uksi/2006/3296), [reg. 19(1)](https://www.legislation.gov.uk/uksi/2006/3296/regulation/19/1) (as substituted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Securitisation Companies (Amendment) Regulations 2018 (S.I. 2018/143)](https://www.legislation.gov.uk/uksi/2018/143), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/143/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/143/regulation/10/3))

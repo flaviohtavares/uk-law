@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Occupation contracts[^key-3df04721c294a3f133bf140d098eb668]
+## 1. Occupation contracts[^c-3df04721c294a3f133bf140d098eb668]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3df04721c294a3f133bf140d098eb668]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2016/1/section/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-3df04721c294a3f133bf140d098eb668]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2016/1/section/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -24,13 +24,13 @@ summary: ''
 
 (2) The panels of members shall be—
 
-- (a)[^key-7027d9be1b251953a851b99df99d73df] a panel of Employment Judges who—
+- (a)[^c-7027d9be1b251953a851b99df99d73df] a panel of Employment Judges who—
   - (i) satisfy the criteria set out in regulation 5(2) and are appointed by the appointing office holder; or
   - (ii) are able to act as Employment Judges by virtue of paragraph (2A) or (2B);
 - (b) a panel of persons appointed by the Lord Chancellor after consultation with organisations or associations representative of employees; and
 - (c) a panel of persons appointed by the Lord Chancellor after consultation with organisations or associations representative of employers.
 
-(2A)[^key-d1e4c7fbb185d43b09c2bae4af8aae0b] A relevant tribunal judge may act as an Employment Judge if the conditions in paragraph (2C) are satisfied.
+(2A)[^c-d1e4c7fbb185d43b09c2bae4af8aae0b] A relevant tribunal judge may act as an Employment Judge if the conditions in paragraph (2C) are satisfied.
 
 (2B) A relevant judge may act as an Employment Judge if the conditions in paragraph (2C) are satisfied and—
 
@@ -55,7 +55,7 @@ summary: ''
 
 - (a) the consent of the Lord Chief Justice of England and Wales where the relevant judge is—
   - (i) the Master of the Rolls or an ordinary judge of the Court of Appeal in England and Wales;
-  - (ii) the President of the Queen’s Bench Division , Family Division or Business and Property Division of[^key-907abe505263b9004381741b6a896996] the High Court in England and Wales;
+  - (ii) the President of the Queen’s Bench Division , Family Division or Business and Property Division of[^c-907abe505263b9004381741b6a896996] the High Court in England and Wales;
   - (iii) a puisne judge of the High Court in England and Wales;
   - (iv) a circuit judge;
   - (v) a district judge in England and Wales;
@@ -79,7 +79,7 @@ summary: ''
 (2H) In this regulation “relevant judge” means a person who—
 
 - (a) is the Lord Chief Justice of England and Wales, the Master of the Rolls or an ordinary judge of the Court of Appeal in England and Wales (including the vice-president, if any, of either division of that Court);
-- (b) is the President of the Queen’s Bench Division , Family Division or Business and Property Division of[^key-04491648ac8e785a67508c116c9d458b] the High Court in England and Wales;
+- (b) is the President of the Queen’s Bench Division , Family Division or Business and Property Division of[^c-04491648ac8e785a67508c116c9d458b] the High Court in England and Wales;
 - (c) is a Lord Justice of Appeal in Northern Ireland;
 - (d) is a puisne judge of the High Court in England and Wales or Northern Ireland;
 - (e) is a circuit judge;
@@ -100,16 +100,16 @@ summary: ''
 
 (3) Members of the panels shall hold and vacate office in accordance with the terms of their appointment, but may resign from office by written notice to the person who appointed them under paragraph (2), and any member who ceases to hold office shall be eligible for reappointment.
 
-(4) The President may establish further specialist panels of members referred to in paragraph (2) [^key-4dd9bf6153edccc691b308887abb2e52]....
+(4) The President may establish further specialist panels of members referred to in paragraph (2) [^c-4dd9bf6153edccc691b308887abb2e52]....
 
 ## Annotations
 
-[^key-7027d9be1b251953a851b99df99d73df]: Textual amendment: Reg. 8(2)(a) substituted (8.10.2020) by [The Employment Tribunals (Constitution and Rules of Procedure) (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2020 (S.I. 2020/1003)](https://www.legislation.gov.uk/uksi/2020/1003), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/3/a)
+[^c-7027d9be1b251953a851b99df99d73df]: Textual amendment: Reg. 8(2)(a) substituted (8.10.2020) by [The Employment Tribunals (Constitution and Rules of Procedure) (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2020 (S.I. 2020/1003)](https://www.legislation.gov.uk/uksi/2020/1003), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/3/a)
 
-[^key-d1e4c7fbb185d43b09c2bae4af8aae0b]: Textual amendment: Reg. 8(2A)-(2I) inserted (8.10.2020) by [The Employment Tribunals (Constitution and Rules of Procedure) (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2020 (S.I. 2020/1003)](https://www.legislation.gov.uk/uksi/2020/1003), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/3/b)
+[^c-d1e4c7fbb185d43b09c2bae4af8aae0b]: Textual amendment: Reg. 8(2A)-(2I) inserted (8.10.2020) by [The Employment Tribunals (Constitution and Rules of Procedure) (Early Conciliation: Exemptions and Rules of Procedure) (Amendment) Regulations 2020 (S.I. 2020/1003)](https://www.legislation.gov.uk/uksi/2020/1003), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1003/regulation/3/b)
 
-[^key-907abe505263b9004381741b6a896996]: Textual amendment: Words in reg. 8(2G)(a)(ii) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/12)
+[^c-907abe505263b9004381741b6a896996]: Textual amendment: Words in reg. 8(2G)(a)(ii) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/12)
 
-[^key-04491648ac8e785a67508c116c9d458b]: Textual amendment: Words in reg. 8(2H)(b) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/12)
+[^c-04491648ac8e785a67508c116c9d458b]: Textual amendment: Words in reg. 8(2H)(b) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/12)
 
-[^key-4dd9bf6153edccc691b308887abb2e52]: Textual amendment: Words in reg. 8(4) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2024/94/regulation/8/2) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))
+[^c-4dd9bf6153edccc691b308887abb2e52]: Textual amendment: Words in reg. 8(4) omitted (27.1.2024) by virtue of [The Employment Tribunals and Employment Appeal Tribunal (Composition of Tribunal) Regulations 2024 (S.I. 2024/94)](https://www.legislation.gov.uk/uksi/2024/94), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/94/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2024/94/regulation/8/2) (with [reg. 9(b)](https://www.legislation.gov.uk/uksi/2024/94/regulation/9/b))

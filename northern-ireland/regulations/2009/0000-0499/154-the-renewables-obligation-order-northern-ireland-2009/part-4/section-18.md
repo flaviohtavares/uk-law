@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Generating stations first commissioned before 1st January 1990[^key-ebb8ed72975e179b45dbe0a1520d353a]
+## 18. Generating stations first commissioned before 1st January 1990[^c-ebb8ed72975e179b45dbe0a1520d353a]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb8ed72975e179b45dbe0a1520d353a]: Commencement: Art. 18 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-ebb8ed72975e179b45dbe0a1520d353a]: Commencement: Art. 18 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

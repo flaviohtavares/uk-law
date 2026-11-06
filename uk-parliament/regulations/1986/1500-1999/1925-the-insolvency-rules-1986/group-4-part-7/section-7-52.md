@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.52. Right of audience[^key-c473339960ea79c71e41473f4887a255]
+## 7.52. Right of audience[^c-c473339960ea79c71e41473f4887a255]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c473339960ea79c71e41473f4887a255]: Commencement: [Rule 7.52](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.52) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c473339960ea79c71e41473f4887a255]: Commencement: [Rule 7.52](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.52) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

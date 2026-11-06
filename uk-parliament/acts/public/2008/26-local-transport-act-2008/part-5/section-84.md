@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Constitutional arrangements[^c1952768][^key-cb5f2d9ca00fa93738f5b08fe50eb21c]
+## 84. Constitutional arrangements[^c1952768][^c-cb5f2d9ca00fa93738f5b08fe50eb21c]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c1952768]: Commencement: S. 84 partly in force; s. 84 in force at Royal Assent for certain purposes see [s. 134](https://www.legislation.gov.uk/ukpga/2008/26/section/134)
 
-[^key-cb5f2d9ca00fa93738f5b08fe50eb21c]: Commencement: S. 84 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-cb5f2d9ca00fa93738f5b08fe50eb21c]: Commencement: S. 84 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

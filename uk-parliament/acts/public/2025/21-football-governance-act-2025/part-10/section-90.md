@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Rules[^key-bb9b02c1817dbd1e1cc504786a3dfa8a]
+## 90. Rules[^c-bb9b02c1817dbd1e1cc504786a3dfa8a]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb9b02c1817dbd1e1cc504786a3dfa8a]: Commencement: S. 90 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-bb9b02c1817dbd1e1cc504786a3dfa8a]: Commencement: S. 90 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

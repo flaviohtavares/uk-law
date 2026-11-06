@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Adopter's absence[^key-813f7ed3228675c53996c312ea5557d3]
+## 26. Adopter's absence[^c-813f7ed3228675c53996c312ea5557d3]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) the extent of a member's entitlement to adopter's absence in respect of a child;
 - (b) when adopter's absence may be taken.
 
-(3)[^key-c3fd3dc7693bae6d05f2032a19835da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c3fd3dc7693bae6d05f2032a19835da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Regulations may allow a member to choose, subject to prescribed restrictions, the date on which a period of adopter's absence starts.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-813f7ed3228675c53996c312ea5557d3]: Commencement: S. 26 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
+[^c-813f7ed3228675c53996c312ea5557d3]: Commencement: S. 26 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/c)
 
-[^key-c3fd3dc7693bae6d05f2032a19835da7]: Textual amendment: [S. 26(3)](https://www.legislation.gov.uk/mwa/2011/4/section/26/3) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(4)](https://www.legislation.gov.uk/asc/2021/1/section/61/4), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)
+[^c-c3fd3dc7693bae6d05f2032a19835da7]: Textual amendment: [S. 26(3)](https://www.legislation.gov.uk/mwa/2011/4/section/26/3) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 61(4)](https://www.legislation.gov.uk/asc/2021/1/section/61/4), [175(1)(d)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/d)

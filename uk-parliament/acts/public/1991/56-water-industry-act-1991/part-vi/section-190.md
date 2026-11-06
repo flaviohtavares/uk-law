@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Saving for planning controls.[^key-960aa891bce05af4b13169bbc2bb3434]
+## 190. Saving for planning controls.[^c-960aa891bce05af4b13169bbc2bb3434]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Without prejudice to the operation of section 90 of the [^c13221721]Town and Cou
 
 ## Annotations
 
-[^key-960aa891bce05af4b13169bbc2bb3434]: Modification: [S. 190](https://www.legislation.gov.uk/ukpga/1991/56/section/190) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(10)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/10) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-960aa891bce05af4b13169bbc2bb3434]: Modification: [S. 190](https://www.legislation.gov.uk/ukpga/1991/56/section/190) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 13(10)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/13/10) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c13221721]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 

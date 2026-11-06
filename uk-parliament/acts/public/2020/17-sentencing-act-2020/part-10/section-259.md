@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Offenders who commit murder etc when under 18: duty to detain at Her Majesty's pleasure[^key-d61abe0f77535173268bda40530b3d22]
+## 259. Offenders who commit murder etc when under 18: duty to detain at Her Majesty's pleasure[^c-d61abe0f77535173268bda40530b3d22]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d61abe0f77535173268bda40530b3d22]: Commencement: S. 259 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d61abe0f77535173268bda40530b3d22]: Commencement: S. 259 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

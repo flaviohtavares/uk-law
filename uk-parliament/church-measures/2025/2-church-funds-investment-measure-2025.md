@@ -33,7 +33,7 @@ A Measure of the General Synod of the Church of England to make provision enabli
 
 \[3rd April 2025\]
 
-## 1. Scheme to transfer assets of certain Church funds[^key-f44a488d6f0b351f5c89dd2101f49599]
+## 1. Scheme to transfer assets of certain Church funds[^c-f44a488d6f0b351f5c89dd2101f49599]
 
 (1) The trustee of a CBF Church of England Fund may make a scheme for the transfer of the assets of that fund to a charity authorised investment fund established for that purpose.
 
@@ -63,7 +63,7 @@ A Measure of the General Synod of the Church of England to make provision enabli
 - (b) held under a contractual scheme authorised by an order under section 261D(1) of [that Act](https://www.legislation.gov.uk/ukpga/2000/8), or
 - (c) subject to a collective investment scheme constituted by an open-ended investment company in respect of which an authorisation order is in force under regulations made under section 262 of [that Act](https://www.legislation.gov.uk/ukpga/2000/8).
 
-## 2. Short title, commencement and extent[^key-03f551c60a941fbbccc791684b5db0a1]
+## 2. Short title, commencement and extent[^c-03f551c60a941fbbccc791684b5db0a1]
 
 (1) This Measure may be cited as the Church Funds Investment Measure 2025.
 
@@ -80,6 +80,6 @@ A Measure of the General Synod of the Church of England to make provision enabli
 
 ## Annotations
 
-[^key-f44a488d6f0b351f5c89dd2101f49599]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/2/section/2/2)
+[^c-f44a488d6f0b351f5c89dd2101f49599]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/2/section/2/2)
 
-[^key-03f551c60a941fbbccc791684b5db0a1]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/2/section/2/2)
+[^c-03f551c60a941fbbccc791684b5db0a1]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukcm/2025/2/section/2/2)

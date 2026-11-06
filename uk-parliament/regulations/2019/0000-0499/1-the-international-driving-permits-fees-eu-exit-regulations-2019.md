@@ -35,7 +35,7 @@ Exiting The European Union
 
 Road Traffic
 
-The International Driving Permits (Fees) (EU Exit) Regulations 2019 (revoked)[^key-39a2e9e45b6ea8903daf40ac186b29bf]
+The International Driving Permits (Fees) (EU Exit) Regulations 2019 (revoked)[^c-39a2e9e45b6ea8903daf40ac186b29bf]
 
 Made
 
@@ -49,24 +49,24 @@ Coming into force
 
 1st February 2019
 
-[^key-39a2e9e45b6ea8903daf40ac186b29bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39a2e9e45b6ea8903daf40ac186b29bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-39a2e9e45b6ea8903daf40ac186b29bf]
+## 1. Citation and Commencement[^c-39a2e9e45b6ea8903daf40ac186b29bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fee for International Driving Permits[^key-39a2e9e45b6ea8903daf40ac186b29bf]
+## 2. Fee for International Driving Permits[^c-39a2e9e45b6ea8903daf40ac186b29bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39a2e9e45b6ea8903daf40ac186b29bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39a2e9e45b6ea8903daf40ac186b29bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-39a2e9e45b6ea8903daf40ac186b29bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39a2e9e45b6ea8903daf40ac186b29bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39a2e9e45b6ea8903daf40ac186b29bf]: Textual amendment: Regulations revoked (16.10.2019) by [The International Driving Permits (Fees) (EU Exit) (Revocation) Regulations 2019 (S.I. 2019/1270)](https://www.legislation.gov.uk/uksi/2019/1270), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1270/regulation/2)
+[^c-39a2e9e45b6ea8903daf40ac186b29bf]: Textual amendment: Regulations revoked (16.10.2019) by [The International Driving Permits (Fees) (EU Exit) (Revocation) Regulations 2019 (S.I. 2019/1270)](https://www.legislation.gov.uk/uksi/2019/1270), [reg. 2](https://www.legislation.gov.uk/uksi/2019/1270/regulation/2)

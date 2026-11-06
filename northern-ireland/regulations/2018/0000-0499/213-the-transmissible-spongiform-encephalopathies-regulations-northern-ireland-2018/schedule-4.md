@@ -97,7 +97,7 @@ must decide which of the options set out in point 2.2.2(b) or (c) of Chapter B o
 (2) Milk or milk products must not—
 
 - (a) be used for feeding ruminants, other than ruminants within the premises; or
-- (b) except as provided by sub- paragraph (3)[^key-a34474473fdc949e90aa6884bb772f54] be exported, or allowed to be exported, to a member State or third country as feed for non-ruminants.
+- (b) except as provided by sub- paragraph (3)[^c-a34474473fdc949e90aa6884bb772f54] be exported, or allowed to be exported, to a member State or third country as feed for non-ruminants.
 
 (3) Milk or milk products that are to be fed to non-ruminants in the United Kingdom must be—
 
@@ -239,4 +239,4 @@ The Department must pay compensation to the owner of animals killed and products
 
 ## Annotations
 
-[^key-a34474473fdc949e90aa6884bb772f54]: Textual amendment: Words in [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/nisr/2018/213/schedule/4/paragraph/7/2/b) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [9](https://www.legislation.gov.uk/nisr/2020/353/regulation/9)
+[^c-a34474473fdc949e90aa6884bb772f54]: Textual amendment: Words in [Sch. 4 para. 7(2)(b)](https://www.legislation.gov.uk/nisr/2018/213/schedule/4/paragraph/7/2/b) inserted (31.12.2020) by [The Animals (Health, Identification, Trade and Veterinary Medicines) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/353)](https://www.legislation.gov.uk/nisr/2020/353), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/353/regulation/1/3), [9](https://www.legislation.gov.uk/nisr/2020/353/regulation/9)

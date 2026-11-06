@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 67 of the [^c12801951]Local Government Finance Act 1992 (functions to be discharged only by the authority) shall be amended as follows.
 
-(2)[^key-4beefd02bc9975cb284e89442086455a] In subsection (1) (functions to be discharged only by authority, subject to subsection (3)) for subsection (3) there shall be substituted “subsections (3) and (3A)”. *(affected by repeal, see note)*[^key-4beefd02bc9975cb284e89442086455a]
+(2)[^c-4beefd02bc9975cb284e89442086455a] In subsection (1) (functions to be discharged only by authority, subject to subsection (3)) for subsection (3) there shall be substituted “subsections (3) and (3A)”. *(affected by repeal, see note)*[^c-4beefd02bc9975cb284e89442086455a]
 
 (3) In subsection (2) (which specifies the functions) after paragraph (b) there shall be inserted—
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c12801951]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-4beefd02bc9975cb284e89442086455a]: Textual amendment: S. 108(2) repealed (18.11.2003 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(vii)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/vii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-4beefd02bc9975cb284e89442086455a]: Textual amendment: S. 108(2) repealed (18.11.2003 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(vii)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/vii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

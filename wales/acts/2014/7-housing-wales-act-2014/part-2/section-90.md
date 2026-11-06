@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Charges[^key-fda61361241906d6ae95e5ecf808086b]
+## 90. Charges[^c-fda61361241906d6ae95e5ecf808086b]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A local housing authority may require a person in relation to whom it is dischar
 
 ## Annotations
 
-[^key-fda61361241906d6ae95e5ecf808086b]: Commencement: [S. 90](https://www.legislation.gov.uk/anaw/2014/7/section/90) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 41](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/41)
+[^c-fda61361241906d6ae95e5ecf808086b]: Commencement: [S. 90](https://www.legislation.gov.uk/anaw/2014/7/section/90) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 41](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/41)

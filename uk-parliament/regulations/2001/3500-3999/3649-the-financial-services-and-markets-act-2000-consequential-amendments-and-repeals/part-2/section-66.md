@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Companies to which Article 453 applies[^key-ffcc6a85a89c0e575f6390dc88451304]
+## 66. Companies to which Article 453 applies[^c-ffcc6a85a89c0e575f6390dc88451304]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ For paragraph (1)[^f00070] of section 453 of the 1986 Order (order on applicatio
 
 ## Annotations
 
-[^key-ffcc6a85a89c0e575f6390dc88451304]: Commencement: Art. 66 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ffcc6a85a89c0e575f6390dc88451304]: Commencement: Art. 66 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00070]: Footnote: Paragraph (1) was amended by the Companies (No.2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504)), Articles 78, 113 Schedules 5 and 6, and by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 8 paragraph 13(5).

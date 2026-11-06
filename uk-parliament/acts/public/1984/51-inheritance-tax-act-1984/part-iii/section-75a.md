@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Property becoming subject to employee-ownership trust[^key-8491cf1365c56f051bbaac69ece8c0ac]
+## 75A. Property becoming subject to employee-ownership trust[^c-8491cf1365c56f051bbaac69ece8c0ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ summary: ''
 
 with references in those sections to “C” being read accordingly.
 
-(4)[^key-9de97d08bd8f5d3378fc8d4ed3144339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9de97d08bd8f5d3378fc8d4ed3144339] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8491cf1365c56f051bbaac69ece8c0ac]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/1984/51/section/75A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2)
+[^c-8491cf1365c56f051bbaac69ece8c0ac]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/1984/51/section/75A) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2)
 
-[^key-9de97d08bd8f5d3378fc8d4ed3144339]: Textual amendment: [S. 75A(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/75A/4) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/13), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-9de97d08bd8f5d3378fc8d4ed3144339]: Textual amendment: [S. 75A(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/75A/4) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/13), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

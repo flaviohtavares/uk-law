@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Remunerative work[^key-a3a2a22f74d8b19e744ce31ed930736d]
+## 10. Remunerative work[^c-a3a2a22f74d8b19e744ce31ed930736d]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) A person who is a qualifying income-related benefit claimant for more than 3 days in any reduction week is to be treated as not being in remunerative work in that week.
 
-(7) A person is not to be treated as engaged in remunerative work on any day on which that person is on maternity leave, paternity leave, neonatal care leave,[^key-0be652b426ba7e807a5e4810af65e3b5] shared parental leave, parental bereavement leave or adoption leave or is absent from work because the person is ill.
+(7) A person is not to be treated as engaged in remunerative work on any day on which that person is on maternity leave, paternity leave, neonatal care leave,[^c-0be652b426ba7e807a5e4810af65e3b5] shared parental leave, parental bereavement leave or adoption leave or is absent from work because the person is ill.
 
 (8) A person is not to be treated as engaged in remunerative work on any day on which the person is engaged in an activity in respect of which—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a3a2a22f74d8b19e744ce31ed930736d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/249/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-a3a2a22f74d8b19e744ce31ed930736d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/249/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-0be652b426ba7e807a5e4810af65e3b5]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/ssi/2021/249/regulation/10/7) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/3)
+[^c-0be652b426ba7e807a5e4810af65e3b5]: Textual amendment: Words in [reg. 10(7)](https://www.legislation.gov.uk/ssi/2021/249/regulation/10/7) inserted (25.6.2025) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2025 (S.S.I. 2025/150)](https://www.legislation.gov.uk/ssi/2025/150), [regs. 1](https://www.legislation.gov.uk/ssi/2025/150/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/150/regulation/3/3)
 
 [^f00099]: Footnote: [1993 c.39](https://www.legislation.gov.uk/ukpga/1993/39). Section 23(2) was amended by [S.I. 1996/3095](https://www.legislation.gov.uk/uksi/1996/3095), [S.I. 1999/1563](https://www.legislation.gov.uk/uksi/1999/1563) and [S.I. 2006/654](https://www.legislation.gov.uk/uksi/2006/654).

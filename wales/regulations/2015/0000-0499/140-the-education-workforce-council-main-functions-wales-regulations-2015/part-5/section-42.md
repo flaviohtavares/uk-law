@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Service of notices and orders[^key-81be67dfc4a2994a279cc80d6a1afe39]
+## 42. Service of notices and orders[^c-81be67dfc4a2994a279cc80d6a1afe39]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A notice required to be served on a person for the purposes of disciplinary proc
 
 ## Annotations
 
-[^key-81be67dfc4a2994a279cc80d6a1afe39]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2015/140/regulation/42) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-81be67dfc4a2994a279cc80d6a1afe39]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2015/140/regulation/42) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

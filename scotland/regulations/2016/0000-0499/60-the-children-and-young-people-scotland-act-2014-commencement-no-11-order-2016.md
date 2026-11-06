@@ -45,18 +45,18 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 102(3) of the Children and Young People (Scotland) Act 2014[^f00001].
 
-## 1. Citation and commencement[^key-3f46569a050648f7cc2cd41cce9732d8]
+## 1. Citation and commencement[^c-3f46569a050648f7cc2cd41cce9732d8]
 
 This Order may be cited as the Children and Young People (Scotland) Act 2014 (Commencement No. 11) Order 2016 and comes into force on 31st August 2016.
 
-## 2. Day appointed[^key-ac1bfd55acc63af6757ad28af37e1ad4]
+## 2. Day appointed[^c-ac1bfd55acc63af6757ad28af37e1ad4]
 
 31st August 2016 is the day appointed for the coming into force of the following provisions of the Children and Young People (Scotland) Act 2014—
 
 - (a) so far as not already in force—
-  - (i)[^key-d10965a5715aa3584a4e4b0d19019b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-d10965a5715aa3584a4e4b0d19019b98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) section 68; and
-  - (iii)[^key-237878be1efdb478385412e5281d63aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-237878be1efdb478385412e5281d63aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 95.
 
 AILEEN CAMPBELL
@@ -218,10 +218,10 @@ The Bill for the 2014 Act received Royal Assent on 27th March 2014. Section 102(
 
 [^f00001]: Footnote: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
 
-[^key-3f46569a050648f7cc2cd41cce9732d8]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/60/article/1) in force at 31.8.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/60/article/1)
+[^c-3f46569a050648f7cc2cd41cce9732d8]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2016/60/article/1) in force at 31.8.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/60/article/1)
 
-[^key-ac1bfd55acc63af6757ad28af37e1ad4]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/60/article/2) in force at 31.8.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/60/article/1)
+[^c-ac1bfd55acc63af6757ad28af37e1ad4]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2016/60/article/2) in force at 31.8.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/60/article/1)
 
-[^key-d10965a5715aa3584a4e4b0d19019b98]: Textual amendment: [Art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2016/60/article/2/a/i) revoked (30.8.2016) by [The Children and Young People (Scotland) Act 2014 (Commencement No. 11) Partial Revocation Order 2016 (S.S.I. 2016/233)](https://www.legislation.gov.uk/ssi/2016/233), [arts. 1](https://www.legislation.gov.uk/ssi/2016/233/article/1), [2](https://www.legislation.gov.uk/ssi/2016/233/article/2)
+[^c-d10965a5715aa3584a4e4b0d19019b98]: Textual amendment: [Art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2016/60/article/2/a/i) revoked (30.8.2016) by [The Children and Young People (Scotland) Act 2014 (Commencement No. 11) Partial Revocation Order 2016 (S.S.I. 2016/233)](https://www.legislation.gov.uk/ssi/2016/233), [arts. 1](https://www.legislation.gov.uk/ssi/2016/233/article/1), [2](https://www.legislation.gov.uk/ssi/2016/233/article/2)
 
-[^key-237878be1efdb478385412e5281d63aa]: Textual amendment: [Art. 2(a)(iii)](https://www.legislation.gov.uk/ssi/2016/60/article/2/a/iii) revoked (30.8.2016) by [The Children and Young People (Scotland) Act 2014 (Commencement No. 11) Partial Revocation Order 2016 (S.S.I. 2016/233)](https://www.legislation.gov.uk/ssi/2016/233), [arts. 1](https://www.legislation.gov.uk/ssi/2016/233/article/1), [2](https://www.legislation.gov.uk/ssi/2016/233/article/2)
+[^c-237878be1efdb478385412e5281d63aa]: Textual amendment: [Art. 2(a)(iii)](https://www.legislation.gov.uk/ssi/2016/60/article/2/a/iii) revoked (30.8.2016) by [The Children and Young People (Scotland) Act 2014 (Commencement No. 11) Partial Revocation Order 2016 (S.S.I. 2016/233)](https://www.legislation.gov.uk/ssi/2016/233), [arts. 1](https://www.legislation.gov.uk/ssi/2016/233/article/1), [2](https://www.legislation.gov.uk/ssi/2016/233/article/2)

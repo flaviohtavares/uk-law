@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Urgent award or modification[^key-45f51d9871356671d8432dae94b75d72]
+## 14. Urgent award or modification[^c-45f51d9871356671d8432dae94b75d72]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ the relevant authority may award or modify a contract without satisfying the req
 
 the relevant authority may modify the existing contract without satisfying the requirements in regulations 6 to 13.
 
-(4) Where paragraph (2) applies, the relevant authority must submit a notice for publication on the central digital platform[^key-40236e1db14709d07b4761a281f97839].
+(4) Where paragraph (2) applies, the relevant authority must submit a notice for publication on the central digital platform[^c-40236e1db14709d07b4761a281f97839].
 
 (5) The notice in paragraph (4) must—
 
@@ -50,6 +50,6 @@ the relevant authority may modify the existing contract without satisfying the r
 
 ## Annotations
 
-[^key-45f51d9871356671d8432dae94b75d72]: Commencement: Reg. 14 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-45f51d9871356671d8432dae94b75d72]: Commencement: Reg. 14 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
 
-[^key-40236e1db14709d07b4761a281f97839]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/14/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))
+[^c-40236e1db14709d07b4761a281f97839]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/14/4) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2025/163/regulation/28/3) (with [reg. 34](https://www.legislation.gov.uk/uksi/2025/163/regulation/34))

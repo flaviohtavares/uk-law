@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Variation or cancellation of Part 4A permission on initiative of FCA: additional power[^key-d983952d88e9c0a111870d4546f382e4]
+## SCHEDULE 6A — Variation or cancellation of Part 4A permission on initiative of FCA: additional power[^c-d983952d88e9c0a111870d4546f382e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -174,7 +174,7 @@ the FCA may, in exercising those functions, treat the person as if the person ha
 (8) In sub-paragraph (7) “**enactment**” includes—
 
 - (a) the enactments listed in section 3T, and
-- (b) any assimilated direct[^key-ef552fdb6093b0be1015e6bcd7cdc873] legislation.
+- (b) any assimilated direct[^c-ef552fdb6093b0be1015e6bcd7cdc873] legislation.
 
 ### Right to refer matter to Tribunal
 
@@ -208,6 +208,6 @@ the FCA may, in exercising those functions, treat the person as if the person ha
 
 ## Annotations
 
-[^key-d983952d88e9c0a111870d4546f382e4]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2000/8/schedule/6A) inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/3); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
+[^c-d983952d88e9c0a111870d4546f382e4]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2000/8/schedule/6A) inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2021/22/schedule/11/paragraph/3); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/p)
 
-[^key-ef552fdb6093b0be1015e6bcd7cdc873]: Textual amendment: Words in Sch. 6A para. 6(8)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 44(4)(x)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/44/4/x)
+[^c-ef552fdb6093b0be1015e6bcd7cdc873]: Textual amendment: Words in Sch. 6A para. 6(8)(b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 44(4)(x)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/44/4/x)

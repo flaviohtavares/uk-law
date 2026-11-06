@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Plates for goods vehicles and buses[^key-1cc45996c0b180666899cf851647de9f]
+## 66. Plates for goods vehicles and buses[^c-1cc45996c0b180666899cf851647de9f]
 
 *Extent: E+W+S*
 
@@ -26,8 +26,8 @@ summary: ''
   - (i) a dual-purpose vehicle;
   - (ii) an agricultural motor vehicle;
   - (iii) a works truck;
-  - (iv) a pedestrian-controlled vehicle; [^key-15e80f76e5649e382009ba92b86f8b23]...
-  - (v) save as provided in sub-paragraph *(b)* below, a passenger vehicle; or[^key-52751727b404a3682b591c504ec6eabd]
+  - (iv) a pedestrian-controlled vehicle; [^c-15e80f76e5649e382009ba92b86f8b23]...
+  - (v) save as provided in sub-paragraph *(b)* below, a passenger vehicle; or[^c-52751727b404a3682b591c504ec6eabd]
   - (vi) a vehicle which is exempt from section 63(1) of the Road Traffic Act 1988 by virtue of regulation 14(6) of the Motor Vehicles (Approval) Regulations 1996.
 - (b) a bus (whether or not it is an articulated bus) first used on or after 1st April 1982;
 - (c) a wheeled locomotive or motor tractor first used on or after 1st April 1973 not being—
@@ -77,22 +77,22 @@ TABLE
 
 (4) Part III of Schedule 8 applies for determining the relevant weights to be shown on a plate in accordance with this regulation.
 
-(5)[^key-060b4a8ceb89f0c3a060987149160b30] Where, in accordance with the provisions of this regulation and of Schedule 8, a motor vehicle first used, or a trailer manufactured, after 31st December 1998, is required to be equipped with a plate showing the maximum gross weight in Great Britain or the maximum weight in Great Britain for each axle of the vehicle, the plate may instead show particulars of the maximum authorised weight for the vehicle or, as the case may be, the maximum authorised weight for each axle of the vehicle.
+(5)[^c-060b4a8ceb89f0c3a060987149160b30] Where, in accordance with the provisions of this regulation and of Schedule 8, a motor vehicle first used, or a trailer manufactured, after 31st December 1998, is required to be equipped with a plate showing the maximum gross weight in Great Britain or the maximum weight in Great Britain for each axle of the vehicle, the plate may instead show particulars of the maximum authorised weight for the vehicle or, as the case may be, the maximum authorised weight for each axle of the vehicle.
 
 (6) In paragraph (5) the references to the maximum authorised weight for a vehicle and maximum authorised for each axle of a vehicle mean those weights determined in accordance with the Motor Vehicles (Authorised Weight) Regulations 1998.
 
 (7) The plate for a vehicle which falls within paragraph (1)(a) and which is a motor vehicle first used after 31st December 1998 need not include the particulars referred to in paragraph 9 or 10 of Part I of Schedule 8.
 
-(8)[^key-1bc48b976f5a7081cf6f016eb841e51c] In Great Britain a maximum gross weight of 18000 kg may be displayed on the plate of a motor vehicle with two axles which falls within sub-paragraph (1)(b) and which first came into use after 31st December 1998 where the maximum gross weight determined in accordance with the Motor Vehicles (Authorised Weight) Regulations 1998 exceeds 18000 kg.
+(8)[^c-1bc48b976f5a7081cf6f016eb841e51c] In Great Britain a maximum gross weight of 18000 kg may be displayed on the plate of a motor vehicle with two axles which falls within sub-paragraph (1)(b) and which first came into use after 31st December 1998 where the maximum gross weight determined in accordance with the Motor Vehicles (Authorised Weight) Regulations 1998 exceeds 18000 kg.
 
 ## Annotations
 
-[^key-1cc45996c0b180666899cf851647de9f]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1cc45996c0b180666899cf851647de9f]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-15e80f76e5649e382009ba92b86f8b23]: Textual amendment: Word in [reg. 66(1)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/1/a) omitted (1.7.1997) by virtue of [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/3017/regulation/5)
+[^c-15e80f76e5649e382009ba92b86f8b23]: Textual amendment: Word in [reg. 66(1)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/1/a) omitted (1.7.1997) by virtue of [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/3017/regulation/5)
 
-[^key-52751727b404a3682b591c504ec6eabd]: Textual amendment: [Reg. 66(1)(a)(vi)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/1/a/vi) and word inserted (1.7.1997) by [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/3017/regulation/5)
+[^c-52751727b404a3682b591c504ec6eabd]: Textual amendment: [Reg. 66(1)(a)(vi)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/1/a/vi) and word inserted (1.7.1997) by [The Road Vehicles (Construction And Use) (Amendment) (No. 6) Regulations 1996 (S.I. 1996/3017)](https://www.legislation.gov.uk/uksi/1996/3017), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3017/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/3017/regulation/5)
 
-[^key-060b4a8ceb89f0c3a060987149160b30]: Textual amendment: [Reg. 66(5)-(7)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/5) inserted (1.1.1999) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1998 (S.I. 1998/3112)](https://www.legislation.gov.uk/uksi/1998/3112), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3112/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/3112/regulation/6)
+[^c-060b4a8ceb89f0c3a060987149160b30]: Textual amendment: [Reg. 66(5)-(7)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/5) inserted (1.1.1999) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1998 (S.I. 1998/3112)](https://www.legislation.gov.uk/uksi/1998/3112), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3112/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/3112/regulation/6)
 
-[^key-1bc48b976f5a7081cf6f016eb841e51c]: Textual amendment: [Reg. 66(8)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/8) inserted (1.10.2017) by [The Road Vehicles (Authorised Weight) and (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/881)](https://www.legislation.gov.uk/uksi/2017/881), [regs. 1](https://www.legislation.gov.uk/uksi/2017/881/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/881/regulation/13)
+[^c-1bc48b976f5a7081cf6f016eb841e51c]: Textual amendment: [Reg. 66(8)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/66/8) inserted (1.10.2017) by [The Road Vehicles (Authorised Weight) and (Construction and Use) (Amendment) Regulations 2017 (S.I. 2017/881)](https://www.legislation.gov.uk/uksi/2017/881), [regs. 1](https://www.legislation.gov.uk/uksi/2017/881/regulation/1), [13](https://www.legislation.gov.uk/uksi/2017/881/regulation/13)

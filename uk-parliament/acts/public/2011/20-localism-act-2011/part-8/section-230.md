@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Sharing of administrative etc services by London authorities[^key-3e5c6b358295c953275355d95b532604]
+## 230. Sharing of administrative etc services by London authorities[^c-3e5c6b358295c953275355d95b532604]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e5c6b358295c953275355d95b532604]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2011/20/section/230) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(dd)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/dd) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-3e5c6b358295c953275355d95b532604]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2011/20/section/230) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(dd)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/dd) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Insertion of regulation 130A (procedure where less than 15 years use of traditional herbal medicinal product)[^key-6c647751f0f69c4d49d7b9b8e2d1a4e6]
+## 117. Insertion of regulation 130A (procedure where less than 15 years use of traditional herbal medicinal product)[^c-6c647751f0f69c4d49d7b9b8e2d1a4e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ After regulation 130 (consideration of application) insert—
 
 > **130A. Procedure where less than 15 years use of traditional herbal medicinal product**
 >
-> (1) Where an application for a THR(GB) (other than an application under the unfettered access route)[^key-9acb39f47cd8ff647f92d98aa9d18d51] has been made and the licensing authority considers that—
+> (1) Where an application for a THR(GB) (other than an application under the unfettered access route)[^c-9acb39f47cd8ff647f92d98aa9d18d51] has been made and the licensing authority considers that—
 >
 > - (a) the traditional herbal medicinal product does not satisfy regulation 125(5)(b) (Condition D); but
 > - (b) otherwise satisfies the conditions in regulation 125,
@@ -42,6 +42,6 @@ After regulation 130 (consideration of application) insert—
 
 ## Annotations
 
-[^key-6c647751f0f69c4d49d7b9b8e2d1a4e6]: Commencement: Reg. 117 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6c647751f0f69c4d49d7b9b8e2d1a4e6]: Commencement: Reg. 117 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9acb39f47cd8ff647f92d98aa9d18d51]: Textual amendment: Words in reg. 117 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 88](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/88)
+[^c-9acb39f47cd8ff647f92d98aa9d18d51]: Textual amendment: Words in reg. 117 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 88](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/88)

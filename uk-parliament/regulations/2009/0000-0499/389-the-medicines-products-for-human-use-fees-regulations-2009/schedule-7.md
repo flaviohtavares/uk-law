@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — INTERPRETATION[^key-5470e79035bf1330494896f42d3f9c1c]
+## SCHEDULE 7 — INTERPRETATION[^c-5470e79035bf1330494896f42d3f9c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-5470e79035bf1330494896f42d3f9c1c]
+### 1. Interpretation[^c-5470e79035bf1330494896f42d3f9c1c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5470e79035bf1330494896f42d3f9c1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5470e79035bf1330494896f42d3f9c1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5470e79035bf1330494896f42d3f9c1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5470e79035bf1330494896f42d3f9c1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5470e79035bf1330494896f42d3f9c1c]: Textual amendment: Regulations revoked (1.4.2010) by [The Medicines (Products for Human Use) (Fees) Regulations 2010 (S.I. 2010/551)](https://www.legislation.gov.uk/uksi/2010/551), [regs. 1](https://www.legislation.gov.uk/uksi/2010/551/regulation/1), [52(1)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/1) (with [reg. 52(2)-(4)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/2))
+[^c-5470e79035bf1330494896f42d3f9c1c]: Textual amendment: Regulations revoked (1.4.2010) by [The Medicines (Products for Human Use) (Fees) Regulations 2010 (S.I. 2010/551)](https://www.legislation.gov.uk/uksi/2010/551), [regs. 1](https://www.legislation.gov.uk/uksi/2010/551/regulation/1), [52(1)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/1) (with [reg. 52(2)-(4)](https://www.legislation.gov.uk/uksi/2010/551/regulation/52/2))

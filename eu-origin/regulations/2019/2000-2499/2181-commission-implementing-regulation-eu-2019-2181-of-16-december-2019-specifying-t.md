@@ -35,40 +35,40 @@ specifying technical characteristics as regards items common to several datasets
 
 (Text with EEA relevance) (revoked)
 
-[^key-75bd5e69d11983e220b2aa1f1de30dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75bd5e69d11983e220b2aa1f1de30dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-75bd5e69d11983e220b2aa1f1de30dc0]
+## Article 1. Subject matter[^c-75bd5e69d11983e220b2aa1f1de30dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions used for specifying the technical characteristics of the datasets[^key-75bd5e69d11983e220b2aa1f1de30dc0]
+## Article 2. Definitions used for specifying the technical characteristics of the datasets[^c-75bd5e69d11983e220b2aa1f1de30dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Technical characteristics of the statistical populations and of the observation units[^key-75bd5e69d11983e220b2aa1f1de30dc0]
+## Article 3. Technical characteristics of the statistical populations and of the observation units[^c-75bd5e69d11983e220b2aa1f1de30dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Particular cases in application of the concept of usual residence[^key-75bd5e69d11983e220b2aa1f1de30dc0]
+## Article 4. Particular cases in application of the concept of usual residence[^c-75bd5e69d11983e220b2aa1f1de30dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Description of variables and statistical classifications[^key-75bd5e69d11983e220b2aa1f1de30dc0]
+## Article 5. Description of variables and statistical classifications[^c-75bd5e69d11983e220b2aa1f1de30dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-75bd5e69d11983e220b2aa1f1de30dc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-75bd5e69d11983e220b2aa1f1de30dc0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-75bd5e69d11983e220b2aa1f1de30dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-75bd5e69d11983e220b2aa1f1de30dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — The descriptions and classifications for the variables common to several data sets under Regulation (EU) 2019/1700[^key-75bd5e69d11983e220b2aa1f1de30dc0]
+## ANNEX — The descriptions and classifications for the variables common to several data sets under Regulation (EU) 2019/1700[^c-75bd5e69d11983e220b2aa1f1de30dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-75bd5e69d11983e220b2aa1f1de30dc0]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 120](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/120)
+[^c-75bd5e69d11983e220b2aa1f1de30dc0]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 120](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/120)

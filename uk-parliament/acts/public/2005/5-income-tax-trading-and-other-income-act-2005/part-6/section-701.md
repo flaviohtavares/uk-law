@@ -29,14 +29,14 @@ summary: ''
 
 (3) They may specify how exemption from tax is to be claimed by, and granted to, investors or plan managers on behalf of investors.
 
-(4)[^key-6a22cc419d8daac068faa401a4e81500] They may include provision having effect in relation to times before they are made if the provision does not impose or increase any liability to tax.
+(4)[^c-6a22cc419d8daac068faa401a4e81500] They may include provision having effect in relation to times before they are made if the provision does not impose or increase any liability to tax.
 
 (5) They may make different provision for different cases or circumstances.
 
-(6)[^key-9f9205f9e3ff92d2a96cc031d1e6e10e] In this section references to an investor include an individual entitled to an exemption given by investment plan regulations by virtue of section 694(1A).
+(6)[^c-9f9205f9e3ff92d2a96cc031d1e6e10e] In this section references to an investor include an individual entitled to an exemption given by investment plan regulations by virtue of section 694(1A).
 
 ## Annotations
 
-[^key-6a22cc419d8daac068faa401a4e81500]: Textual amendment: S. 701(4)(5) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 40](https://www.legislation.gov.uk/ukpga/2008/9/section/40)
+[^c-6a22cc419d8daac068faa401a4e81500]: Textual amendment: S. 701(4)(5) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 40](https://www.legislation.gov.uk/ukpga/2008/9/section/40)
 
-[^key-9f9205f9e3ff92d2a96cc031d1e6e10e]: Textual amendment: S. 701(6) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(5)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/5)
+[^c-9f9205f9e3ff92d2a96cc031d1e6e10e]: Textual amendment: S. 701(6) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 40(5)](https://www.legislation.gov.uk/ukpga/2011/11/section/40/5)

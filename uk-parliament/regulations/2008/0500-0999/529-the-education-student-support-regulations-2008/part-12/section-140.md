@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Disabled part-time students’ allowance[^key-efba8fe82967ca73868bb590e7eb9e87]
+## 140. Disabled part-time students’ allowance[^c-efba8fe82967ca73868bb590e7eb9e87]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efba8fe82967ca73868bb590e7eb9e87]: Commencement: Reg. 140 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-efba8fe82967ca73868bb590e7eb9e87]: Commencement: Reg. 140 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

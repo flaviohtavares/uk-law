@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Subsequent changes to bidder groups[^key-c074a6cf19da0833353a698f69fa6ffb]
+## 8. Subsequent changes to bidder groups[^c-c074a6cf19da0833353a698f69fa6ffb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c074a6cf19da0833353a698f69fa6ffb]: Commencement: Reg. 8 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-c074a6cf19da0833353a698f69fa6ffb]: Commencement: Reg. 8 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

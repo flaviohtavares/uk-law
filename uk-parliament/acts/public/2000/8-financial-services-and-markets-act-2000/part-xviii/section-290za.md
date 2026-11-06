@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290ZA. Variation of central counterparty recognition order[^key-148bfd0c547660ff3be65aa04eee9ece]
+## 290ZA. Variation of central counterparty recognition order[^c-148bfd0c547660ff3be65aa04eee9ece]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-148bfd0c547660ff3be65aa04eee9ece]: Textual amendment: S. 290ZA inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2013/504/regulation/3/8) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-148bfd0c547660ff3be65aa04eee9ece]: Textual amendment: S. 290ZA inserted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2013/504/regulation/3/8) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))

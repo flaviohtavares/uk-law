@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Determination of grant income[^key-c222d62a92d7cf5d861f5cdf9f4e1aee]
+## 44. Determination of grant income[^c-c222d62a92d7cf5d861f5cdf9f4e1aee]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ whether or not such costs are incurred.
 
 ## Annotations
 
-[^key-c222d62a92d7cf5d861f5cdf9f4e1aee]: Commencement: Reg. 44 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-c222d62a92d7cf5d861f5cdf9f4e1aee]: Commencement: Reg. 44 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00101]: Footnote: [S.I. 2002/3200](https://www.legislation.gov.uk/uksi/2002/3200)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Insertion of new regulation E7[^key-b35c1b03d68e3dd6abb6e647e2be2e48]
+## 14. Insertion of new regulation E7[^c-b35c1b03d68e3dd6abb6e647e2be2e48]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ After regulation E6 (lump sum on retirement) insert—
 
 ## Annotations
 
-[^key-b35c1b03d68e3dd6abb6e647e2be2e48]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-b35c1b03d68e3dd6abb6e647e2be2e48]: Commencement: Reg. 14 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00012]: Footnote: See, in particular, section 241 of, and paragraph 1 of Schedule 29 to, that Act.

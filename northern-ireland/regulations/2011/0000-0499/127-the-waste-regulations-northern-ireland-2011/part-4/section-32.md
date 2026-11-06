@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Amendment to the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^key-d151c1f977f3ace0dd9548033dbc8f64]
+## 32. Amendment to the Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) Regulations (Northern Ireland) 2000[^c-d151c1f977f3ace0dd9548033dbc8f64]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d151c1f977f3ace0dd9548033dbc8f64]: Commencement: Reg. 32 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-d151c1f977f3ace0dd9548033dbc8f64]: Commencement: Reg. 32 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00019]: Footnote: [S.R.2000 No.232](https://www.legislation.gov.uk/nisr/2000/232)

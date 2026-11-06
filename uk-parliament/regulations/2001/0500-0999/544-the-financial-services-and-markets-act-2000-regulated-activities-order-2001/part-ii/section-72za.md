@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72ZA. Swiss mutual recognition firms[^key-993e388d75177abb7a12ffc4caab23c0]
+## 72ZA. Swiss mutual recognition firms[^c-993e388d75177abb7a12ffc4caab23c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-993e388d75177abb7a12ffc4caab23c0]: Textual amendment: [Art. 72ZA](https://www.legislation.gov.uk/uksi/2001/544/article/72ZA) inserted (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/20/2)
+[^c-993e388d75177abb7a12ffc4caab23c0]: Textual amendment: [Art. 72ZA](https://www.legislation.gov.uk/uksi/2001/544/article/72ZA) inserted (1.1.2026) by [The Financial Services and Markets Act 2023 (Mutual Recognition Agreement) (Switzerland) Regulations 2025 (S.I. 2025/1145)](https://www.legislation.gov.uk/uksi/2025/1145), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2025/1145/regulation/20/2)

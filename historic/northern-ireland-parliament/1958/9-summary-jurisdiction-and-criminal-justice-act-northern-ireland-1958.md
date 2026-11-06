@@ -50,7 +50,7 @@ An Act to make further provision with respect to courts of summary jurisdiction 
 
 (1) Where any provision of the Summary Jurisdiction Acts (Northern Ireland) or of any other enactment operates to require or authorise any recognizance to be entered into before a resident magistrate or justice of the peace such recognizance may, in relation to any person who is in custody in a prison, be entered into before the governor or deputy governor of that prison.
 
-(2) A recognizance entered into under the preceding sub-section shall, as soon as practicable, be transmitted to the clerk of petty sessions[^key-1cfe0a12528ed26bf8c4ddb69f639fdb] .
+(2) A recognizance entered into under the preceding sub-section shall, as soon as practicable, be transmitted to the clerk of petty sessions[^c-1cfe0a12528ed26bf8c4ddb69f639fdb] .
 
 (3) In this section “prison” has the same meaning as in the Prison Act (Northern Ireland), 1953 [^m00001].
 
@@ -117,7 +117,7 @@ The time for bringing summary proceedings in respect of a cause of complaint or 
 
 [^c5442301]: Textual amendment: [1980 NI 3](https://www.legislation.gov.uk/nisi/1980)
 
-[^key-1cfe0a12528ed26bf8c4ddb69f639fdb]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/apni/1958/9/section/16/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/49) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-1cfe0a12528ed26bf8c4ddb69f639fdb]: Textual amendment: Words in [s. 16(2)](https://www.legislation.gov.uk/apni/1958/9/section/16/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/49) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00001]: Marginal citation: 1953 c.18
 

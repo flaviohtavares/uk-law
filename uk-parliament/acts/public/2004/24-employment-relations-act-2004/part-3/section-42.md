@@ -47,9 +47,9 @@ summary: ''
 - (e) include supplemental, incidental, consequential and transitional provision, including provision amending any enactment;
 - (f) make different provision for different cases or circumstances.
 
-(5)[^key-0eef7024b09d8827663f2242cc7781e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0eef7024b09d8827663f2242cc7781e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Nothing in subsections (2) to (4)[^key-5a0761106426fc03f9ee38b1fd090b04] prejudices the generality of this section.
+(6) Nothing in subsections (2) to (4)[^c-5a0761106426fc03f9ee38b1fd090b04] prejudices the generality of this section.
 
 (7) Regulations under this section shall be made by statutory instrument.
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0eef7024b09d8827663f2242cc7781e6]: Textual amendment: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2004/24/section/42/5) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/6/a) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0eef7024b09d8827663f2242cc7781e6]: Textual amendment: [S. 42(5)](https://www.legislation.gov.uk/ukpga/2004/24/section/42/5) omitted (31.12.2020) by virtue of [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/6/a) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a0761106426fc03f9ee38b1fd090b04]: Textual amendment: Words in [s. 42(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/42/6) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/6/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a0761106426fc03f9ee38b1fd090b04]: Textual amendment: Words in [s. 42(6)](https://www.legislation.gov.uk/ukpga/2004/24/section/42/6) substituted (31.12.2020) by [The Employment Rights (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/535)](https://www.legislation.gov.uk/uksi/2019/535), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/535/regulation/1/1), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/6/b) (with [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2019/535/schedule/1/paragraph/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

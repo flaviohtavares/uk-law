@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Nitrates Action Programme (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^key-ef964f70c7f60613b6bf5f0f51f13965]
+The Nitrates Action Programme (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 Made
 
@@ -42,54 +42,54 @@ Coming into operation
 
 *14th December 2015*
 
-[^key-ef964f70c7f60613b6bf5f0f51f13965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef964f70c7f60613b6bf5f0f51f13965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 1. Citation and commencement[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 2. Interpretation[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Nitrates Action Programme Regulations (Northern Ireland) 2014[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 3. Amendments to the Nitrates Action Programme Regulations (Northern Ireland) 2014[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 4. Amendment of regulation 3[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 22[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 5. Amendment of regulation 22[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 23[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 6. Amendment of regulation 23[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 25[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 7. Amendment of regulation 25[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 30[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 8. Amendment of regulation 30[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 31[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 9. Amendment of regulation 31[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 1[^key-ef964f70c7f60613b6bf5f0f51f13965]
+## 10. Amendment of Schedule 1[^c-ef964f70c7f60613b6bf5f0f51f13965]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef964f70c7f60613b6bf5f0f51f13965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef964f70c7f60613b6bf5f0f51f13965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef964f70c7f60613b6bf5f0f51f13965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef964f70c7f60613b6bf5f0f51f13965]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef964f70c7f60613b6bf5f0f51f13965]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2015/369) revoked (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [38(1)(c)](https://www.legislation.gov.uk/nisr/2019/81/regulation/38/1/c)
+[^c-ef964f70c7f60613b6bf5f0f51f13965]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2015/369) revoked (11.4.2019) by [The Nutrient Action Programme Regulations (Northern Ireland) 2019 (S.R. 2019/81)](https://www.legislation.gov.uk/nisr/2019/81), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/81/regulation/1/1), [38(1)(c)](https://www.legislation.gov.uk/nisr/2019/81/regulation/38/1/c)

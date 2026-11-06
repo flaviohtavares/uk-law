@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**19.**[^key-d8803a6f385c5315ce238c309b4e7a28] Omit rules 59, 59A, 59B, 60(2) and (3), 61, 62, 63(1) and 69.
+**19.**[^c-d8803a6f385c5315ce238c309b4e7a28] Omit rules 59, 59A, 59B, 60(2) and (3), 61, 62, 63(1) and 69.
 
 ## Annotations
 
-[^key-d8803a6f385c5315ce238c309b4e7a28]: Commencement: Art. 19 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d8803a6f385c5315ce238c309b4e7a28]: Commencement: Art. 19 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

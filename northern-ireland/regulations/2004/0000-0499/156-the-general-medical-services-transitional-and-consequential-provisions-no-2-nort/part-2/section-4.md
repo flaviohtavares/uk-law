@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Acceptance of applications for inclusion in lists of patients[^key-3008dca450d1437c31554da85225ac18]
+## 4. Acceptance of applications for inclusion in lists of patients[^c-3008dca450d1437c31554da85225ac18]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3008dca450d1437c31554da85225ac18]: Commencement: Art. 4 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-3008dca450d1437c31554da85225ac18]: Commencement: Art. 4 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00014]: Footnote: Paragraph 5 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

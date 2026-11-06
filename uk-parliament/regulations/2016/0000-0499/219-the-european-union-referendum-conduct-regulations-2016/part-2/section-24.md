@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Notification of requirement of secrecy[^key-bd70e144905381338e015a2e84a09f6b]
+## 24. Notification of requirement of secrecy[^c-bd70e144905381338e015a2e84a09f6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bd70e144905381338e015a2e84a09f6b]: Commencement: Reg. 24 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-bd70e144905381338e015a2e84a09f6b]: Commencement: Reg. 24 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00026]: Footnote: Section 66(1) was amended by paragraphs 69 and 82 of Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); paragraphs 1 and 2 of Schedule 2 to the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14); and by article 3 of [S.S.I. 2012/31](https://www.legislation.gov.uk/ssi/2012/31). Section 66(3) was amended by paragraphs 69 and 86(b) of Schedule 1 to the Electoral Administration Act 2006 and section 34(1)(b)(ii) of the Local Electoral Administration and Registration Services (Scotland) Act 2006. Section 66(6) was amended by paragraph 3 of Schedule 3 to the Representation of the People Act [1985 (c.50)](https://www.legislation.gov.uk/ukpga/1985/50).
 

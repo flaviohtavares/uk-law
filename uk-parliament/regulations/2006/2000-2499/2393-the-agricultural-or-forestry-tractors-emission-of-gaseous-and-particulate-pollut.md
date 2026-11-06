@@ -50,15 +50,15 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 Accordingly, in exercise of the powers conferred upon him by that section, he makes the following Regulations:
 
-## 1. Citation and commencement[^key-29f2b54bf29a723ad70043c554e87d50]
+## 1. Citation and commencement[^c-29f2b54bf29a723ad70043c554e87d50]
 
 These Regulations may be cited as the Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2006 and shall come into force on 12th October 2006.
 
-## 2. Interpretation[^key-d0872786ddac8e52eece508cc9e410e0]
+## 2. Interpretation[^c-d0872786ddac8e52eece508cc9e410e0]
 
 In these Regulations, “the 2002 Regulations” means the Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) Regulations 2002[^f00003].
 
-## 3. Amendment of regulation 2 of the 2002 Regulations[^key-37bf0c81239c1fd52df0b2a2aa75b52b]
+## 3. Amendment of regulation 2 of the 2002 Regulations[^c-37bf0c81239c1fd52df0b2a2aa75b52b]
 
 (1) Regulation 2 of the 2002 Regulations (interpretation) shall be amended as follows.
 
@@ -162,7 +162,7 @@ In these Regulations, “the 2002 Regulations” means the Agricultural or Fores
 
 .
 
-## 4. Substitution of Regulation 3 of the 2002 Regulations[^key-a6960a0eb8657970408dff4da80047a6]
+## 4. Substitution of Regulation 3 of the 2002 Regulations[^c-a6960a0eb8657970408dff4da80047a6]
 
 For regulation 3 of the 2002 Regulations (application of Regulations) there shall be substituted—
 
@@ -176,7 +176,7 @@ For regulation 3 of the 2002 Regulations (application of Regulations) there shal
 
 .
 
-## 5. Substitution of Regulation 4 of the 2002 Regulations[^key-fcb1bc4856c2af164a618dff05bbfd4b]
+## 5. Substitution of Regulation 4 of the 2002 Regulations[^c-fcb1bc4856c2af164a618dff05bbfd4b]
 
 For regulation 4 of the 2002 Regulations (application of Regulations) there shall be substituted—
 
@@ -192,7 +192,7 @@ For regulation 4 of the 2002 Regulations (application of Regulations) there shal
 
 .
 
-## 6. Substitution of Schedule 1 to the 2002 Regulations[^key-e036594eac6e4537f6559cb6ec471e58]
+## 6. Substitution of Schedule 1 to the 2002 Regulations[^c-e036594eac6e4537f6559cb6ec471e58]
 
 Schedule 1 to the 2002 Regulations shall be replaced with the following—
 
@@ -287,7 +287,7 @@ Schedule 1 to the 2002 Regulations shall be replaced with the following—
 > </tbody>
 > </table>
 
-## 7. Amendment to Schedule 2 to the 2002 Regulations[^key-7a774723a3a8452bd537b89e98ac774a]
+## 7. Amendment to Schedule 2 to the 2002 Regulations[^c-7a774723a3a8452bd537b89e98ac774a]
 
 (1) Schedule 2 to the 2002 Regulations shall be amended as follows.
 
@@ -329,7 +329,7 @@ Schedule 1 to the 2002 Regulations shall be replaced with the following—
 
 > (1) A customs officer may, for the purpose of facilitating the exercise by an enforcement authority, or duly authorised officer of such an authority, of any powers conferred on the authority or officer by these Regulations seize any imported relevant engine or any imported agricultural tractor in which a relevant engine is installed or any records, and detain them for not more than two working days.
 
-## 8. Introduction of the Flexibility Scheme into the 2002 Regulations[^key-c1b0bf4257c9189b0cc1ce9f94d49b37]
+## 8. Introduction of the Flexibility Scheme into the 2002 Regulations[^c-c1b0bf4257c9189b0cc1ce9f94d49b37]
 
 After Schedule 2 to the 2002 Regulations, the following Schedule shall be inserted—
 
@@ -468,13 +468,13 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [S.I 1998/745](https://www.legislation.gov.uk/uksi/1998/745).
 
-[^key-29f2b54bf29a723ad70043c554e87d50]: Commencement: Reg. 1 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-29f2b54bf29a723ad70043c554e87d50]: Commencement: Reg. 1 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
-[^key-d0872786ddac8e52eece508cc9e410e0]: Commencement: Reg. 2 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-d0872786ddac8e52eece508cc9e410e0]: Commencement: Reg. 2 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2002/1891](https://www.legislation.gov.uk/uksi/2002/1891).
 
-[^key-37bf0c81239c1fd52df0b2a2aa75b52b]: Commencement: Reg. 3 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-37bf0c81239c1fd52df0b2a2aa75b52b]: Commencement: Reg. 3 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2005/390](https://www.legislation.gov.uk/uksi/2005/390).
 
@@ -486,12 +486,12 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00008]: Footnote: OJ No L55, 1.3.2005, p 35.
 
-[^key-a6960a0eb8657970408dff4da80047a6]: Commencement: Reg. 4 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-a6960a0eb8657970408dff4da80047a6]: Commencement: Reg. 4 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
-[^key-fcb1bc4856c2af164a618dff05bbfd4b]: Commencement: Reg. 5 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-fcb1bc4856c2af164a618dff05bbfd4b]: Commencement: Reg. 5 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
-[^key-e036594eac6e4537f6559cb6ec471e58]: Commencement: Reg. 6 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-e036594eac6e4537f6559cb6ec471e58]: Commencement: Reg. 6 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
-[^key-7a774723a3a8452bd537b89e98ac774a]: Commencement: Reg. 7 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-7a774723a3a8452bd537b89e98ac774a]: Commencement: Reg. 7 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
 
-[^key-c1b0bf4257c9189b0cc1ce9f94d49b37]: Commencement: Reg. 8 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)
+[^c-c1b0bf4257c9189b0cc1ce9f94d49b37]: Commencement: Reg. 8 in force at 12.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2393/regulation/1)

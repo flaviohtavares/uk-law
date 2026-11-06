@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Clearways[^key-904cd6430e9bf3ff945697c33bf4a990]
+## 17. Clearways[^c-904cd6430e9bf3ff945697c33bf4a990]
 
 *Extent: E+W*
 
-(1) Except as provided in paragraph (2), from the date on which the roads described in column (2) of Part 6 (traffic regulation measures (clearways and prohibitions)) of Schedule 3 (classification of roads, etc.) and identified in the corresponding row of column (3) of that Part as to become a clearway, are open to traffic, no person is to cause or permit any vehicle to wait on any part of the lengths of road, except upon the direction of, or with the permission of[^key-687b06c9c632fbaba06b34d4a33809d0], a uniformed constable or uniformed traffic officer.
+(1) Except as provided in paragraph (2), from the date on which the roads described in column (2) of Part 6 (traffic regulation measures (clearways and prohibitions)) of Schedule 3 (classification of roads, etc.) and identified in the corresponding row of column (3) of that Part as to become a clearway, are open to traffic, no person is to cause or permit any vehicle to wait on any part of the lengths of road, except upon the direction of, or with the permission of[^c-687b06c9c632fbaba06b34d4a33809d0], a uniformed constable or uniformed traffic officer.
 
 (2) Nothing in paragraph (1) applies—
 
@@ -47,9 +47,9 @@ summary: ''
 
 ## Annotations
 
-[^key-904cd6430e9bf3ff945697c33bf4a990]: Commencement: Art. 17 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-904cd6430e9bf3ff945697c33bf4a990]: Commencement: Art. 17 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
-[^key-687b06c9c632fbaba06b34d4a33809d0]: Textual amendment: Words in [art. 17(1)](https://www.legislation.gov.uk/uksi/2022/549/article/17/1) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/46/article/2/5)
+[^c-687b06c9c632fbaba06b34d4a33809d0]: Textual amendment: Words in [art. 17(1)](https://www.legislation.gov.uk/uksi/2022/549/article/17/1) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/46/article/2/5)
 
 [^f00056]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Schedule 3A was inserted by section 4(2) of, and Schedule 1 to, the Digital Economy Act [2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 

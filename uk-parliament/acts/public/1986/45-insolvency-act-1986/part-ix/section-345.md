@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The following applies where a contract has been made with a person who is subsequently made[^key-55292e0eb09ee8a3f28011a0355d1710] bankrupt.
+(1) The following applies where a contract has been made with a person who is subsequently made[^c-55292e0eb09ee8a3f28011a0355d1710] bankrupt.
 
 (2) The court may, on the application of any other paty to the contract, make an order discharging obligations under the contract on such terms as to payment by the applicant or the bankrupt of damages for non-performance or otherwise as appear to the court to be equitable.
 
@@ -36,4 +36,4 @@ summary: ''
 
     S. 345 excluded (11.12.1999) by [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), [reg. 16(1)](https://www.legislation.gov.uk/uksi/1999/2979/regulation/16/1)
 
-[^key-55292e0eb09ee8a3f28011a0355d1710]: Textual amendment: Word in s. 345(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 38](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/38); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-55292e0eb09ee8a3f28011a0355d1710]: Textual amendment: Word in s. 345(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 38](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/38); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

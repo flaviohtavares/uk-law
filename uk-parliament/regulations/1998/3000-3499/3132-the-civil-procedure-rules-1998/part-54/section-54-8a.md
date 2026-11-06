@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54.8A. Reply to acknowledgment of service[^key-4a6568d5f10986885adc542400791cf1][^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
+## 54.8A. Reply to acknowledgment of service[^c-4a6568d5f10986885adc542400791cf1][^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a6568d5f10986885adc542400791cf1]: Textual amendment: [Rule 54.8A](https://www.legislation.gov.uk/uksi/1998/3132/rule/54.8A) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2024/106/rule/10/4)
+[^c-4a6568d5f10986885adc542400791cf1]: Textual amendment: [Rule 54.8A](https://www.legislation.gov.uk/uksi/1998/3132/rule/54.8A) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2024/106/rule/10/4)
 
-[^key-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))
+[^c-fcc22b3d606b9d4d539ffc7c2ca9b2d2]: Textual amendment: Pt. 54 inserted (2.10.2000) by [The Civil Procedure (Amendment No. 4) Rules 2000 (S.I. 2000/2092)](https://www.legislation.gov.uk/uksi/2000/2092), [rule 1](https://www.legislation.gov.uk/uksi/2000/2092/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2000/2092/schedule) (with [rule 30](https://www.legislation.gov.uk/uksi/2000/2092/rule/30))

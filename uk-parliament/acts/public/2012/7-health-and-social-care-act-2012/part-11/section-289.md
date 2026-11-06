@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-622e3552b8cf5045bd4b401e42e7cb7f][^key-ef73c858ecf6ceeb118029d3442b1416][^key-bfd068eef4d3b2c09201b6ecf1b332ce] Section 70 of the Health and Social Care Act 2008 (co-operation between the Commission and the Independent Regulator of NHS foundation trusts) is amended as follows.
+(1)[^c-622e3552b8cf5045bd4b401e42e7cb7f][^c-ef73c858ecf6ceeb118029d3442b1416][^c-bfd068eef4d3b2c09201b6ecf1b332ce] Section 70 of the Health and Social Care Act 2008 (co-operation between the Commission and the Independent Regulator of NHS foundation trusts) is amended as follows.
 
-(2)[^key-f2c812afbb4aa63b0f7a817f4cadb671] For subsection (1) substitute—
+(2)[^c-f2c812afbb4aa63b0f7a817f4cadb671] For subsection (1) substitute—
 
 > (1) The Commission must co-operate with Monitor in the exercise of their respective functions.
 
-(3)[^key-dd44f3ad835385cbca7d3158729e6754][^key-bfd068eef4d3b2c09201b6ecf1b332ce] For subsection (2) substitute—
+(3)[^c-dd44f3ad835385cbca7d3158729e6754][^c-bfd068eef4d3b2c09201b6ecf1b332ce] For subsection (2) substitute—
 
 > (2) In particular the Commission must—
 >
@@ -38,27 +38,27 @@ summary: ''
 
 (4) In subsection (3)—
 
-- (a)[^key-949b5151839e02658aa0d93d02aae0ed][^key-bfd068eef4d3b2c09201b6ecf1b332ce] for “Independent Regulator” substitute “Monitor”, and
-- (b)[^key-cf33ddea491198f787a550408985ddc5] for “an NHS foundation trust” substitute “a person who holds a licence under the Health and Social Care Act 2012”.
+- (a)[^c-949b5151839e02658aa0d93d02aae0ed][^c-bfd068eef4d3b2c09201b6ecf1b332ce] for “Independent Regulator” substitute “Monitor”, and
+- (b)[^c-cf33ddea491198f787a550408985ddc5] for “an NHS foundation trust” substitute “a person who holds a licence under the Health and Social Care Act 2012”.
 
-(5)[^key-cf33ddea491198f787a550408985ddc5] After that subsection insert—
+(5)[^c-cf33ddea491198f787a550408985ddc5] After that subsection insert—
 
 > (4) In this section, a reference to a licence under the Health and Social Care Act 2012 is a reference to a licence under Chapter 3 of Part 3 of that Act.
 
-(6)[^key-949b5151839e02658aa0d93d02aae0ed][^key-bfd068eef4d3b2c09201b6ecf1b332ce] In the heading of that section, for “Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
+(6)[^c-949b5151839e02658aa0d93d02aae0ed][^c-bfd068eef4d3b2c09201b6ecf1b332ce] In the heading of that section, for “Independent Regulator of NHS Foundation Trusts” substitute “Monitor”.
 
 ## Annotations
 
-[^key-622e3552b8cf5045bd4b401e42e7cb7f]: Commencement: S. 289(1) in force at 1.7.2012 for specified purposes by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-622e3552b8cf5045bd4b401e42e7cb7f]: Commencement: S. 289(1) in force at 1.7.2012 for specified purposes by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-ef73c858ecf6ceeb118029d3442b1416]: Commencement: S. 289(1) in force at 1.4.2013 for specified purposes by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-ef73c858ecf6ceeb118029d3442b1416]: Commencement: S. 289(1) in force at 1.4.2013 for specified purposes by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
 
-[^key-bfd068eef4d3b2c09201b6ecf1b332ce]: Commencement: S. 289 in force at 1.4.2014 in so far as not already in force by [S.I. 2014/39](https://www.legislation.gov.uk/uksi/2014/39), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/39/article/2/3)
+[^c-bfd068eef4d3b2c09201b6ecf1b332ce]: Commencement: S. 289 in force at 1.4.2014 in so far as not already in force by [S.I. 2014/39](https://www.legislation.gov.uk/uksi/2014/39), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/39/article/2/3)
 
-[^key-f2c812afbb4aa63b0f7a817f4cadb671]: Commencement: S. 289(2) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-f2c812afbb4aa63b0f7a817f4cadb671]: Commencement: S. 289(2) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-dd44f3ad835385cbca7d3158729e6754]: Commencement: S. 289(3) in force at 1.7.2012 for specified purposes by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-dd44f3ad835385cbca7d3158729e6754]: Commencement: S. 289(3) in force at 1.7.2012 for specified purposes by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-949b5151839e02658aa0d93d02aae0ed]: Commencement: S. 289(4)(a)(6) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-949b5151839e02658aa0d93d02aae0ed]: Commencement: S. 289(4)(a)(6) in force at 1.7.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-cf33ddea491198f787a550408985ddc5]: Commencement: S. 289(4)(b)(5) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-cf33ddea491198f787a550408985ddc5]: Commencement: S. 289(4)(b)(5) in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

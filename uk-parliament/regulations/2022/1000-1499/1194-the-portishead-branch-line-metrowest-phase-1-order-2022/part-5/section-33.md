@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Temporary use of land for carrying out the authorised development[^key-8e3f4ae1c3aafe48f2cea00d14dfbce7]
+## 33. Temporary use of land for carrying out the authorised development[^c-8e3f4ae1c3aafe48f2cea00d14dfbce7]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3f4ae1c3aafe48f2cea00d14dfbce7]: Commencement: Art. 33 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-8e3f4ae1c3aafe48f2cea00d14dfbce7]: Commencement: Art. 33 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00054]: Footnote: Section 11 was amended by Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)), section 186(1) and (2), section 187(1) and (2), section 188 and section 190 of, and paragraphs 2 and 3 of Schedule 16 to, the Housing and Planning Act 2016 and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

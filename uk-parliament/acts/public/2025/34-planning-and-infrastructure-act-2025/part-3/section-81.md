@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Guidance about the nature restoration levy[^key-8349c8848586033c44eefa28e4646e11][^key-cf0657a378c030fc92d4e9a5fc0b2c12]
+## 81. Guidance about the nature restoration levy[^c-8349c8848586033c44eefa28e4646e11][^c-cf0657a378c030fc92d4e9a5fc0b2c12]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8349c8848586033c44eefa28e4646e11]: Commencement: S. 81 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-8349c8848586033c44eefa28e4646e11]: Commencement: S. 81 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-cf0657a378c030fc92d4e9a5fc0b2c12]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2025/34/section/81) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-cf0657a378c030fc92d4e9a5fc0b2c12]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2025/34/section/81) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

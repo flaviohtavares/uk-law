@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 496. Information in explanatory literature[^key-900fa05efb65aa0cbf9d923e8966a11e]
+## 496. Information in explanatory literature[^c-900fa05efb65aa0cbf9d923e8966a11e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In regulation 47 of the Credit Institutions (Protection of Depositors) Regulatio
 
 ## Annotations
 
-[^key-900fa05efb65aa0cbf9d923e8966a11e]: Commencement: Art. 496 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-900fa05efb65aa0cbf9d923e8966a11e]: Commencement: Art. 496 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

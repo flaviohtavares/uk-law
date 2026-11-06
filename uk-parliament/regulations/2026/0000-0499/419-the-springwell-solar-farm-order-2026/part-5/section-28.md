@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-edfbc1ad9a4d6d122fc86f310d7a8179]
+## 28. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-edfbc1ad9a4d6d122fc86f310d7a8179]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edfbc1ad9a4d6d122fc86f310d7a8179]: Commencement: Art. 28 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-edfbc1ad9a4d6d122fc86f310d7a8179]: Commencement: Art. 28 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-79056e25457cb9d4f4e868b08f0d8335] (1) This Schedule makes provision about reconstruction relief and acquisition relief.
+**1.**[^c-79056e25457cb9d4f4e868b08f0d8335] (1) This Schedule makes provision about reconstruction relief and acquisition relief.
 
 (2) This Schedule is arranged as follows—
 
@@ -39,7 +39,7 @@ summary: ''
 
 #### Reconstruction relief
 
-**2.**[^key-b4ef016e05befd02ddf94a2d4c6ad387] (1) Where—
+**2.**[^c-b4ef016e05befd02ddf94a2d4c6ad387] (1) Where—
 
 - (a) a company (“**"the acquiring company”**”) acquires the whole or part of the undertaking of another company (““the target company””) in pursuance of a scheme for the reconstruction of the target company, and
 - (b) the first and second conditions specified below are met,
@@ -67,7 +67,7 @@ a land transaction entered into for the purposes of or in connection with the tr
 
 #### Acquisition relief
 
-**3.**[^key-2255a6eb75670219d0e5313444355aef] (1) Where—
+**3.**[^c-2255a6eb75670219d0e5313444355aef] (1) Where—
 
 - (a) a company (“**"the acquiring company”**”) acquires the whole or part of the undertaking of another company (““the target company””), and
 - (b) all the conditions specified below are met,
@@ -105,7 +105,7 @@ the amount of tax chargeable on a land transaction entered into for the purposes
 
 #### Interpretation
 
-**4.**[^key-6e01a5bfcb40d49d8a854e3b04cb801e] In this Part and in Part 5 of this Schedule, a transaction—
+**4.**[^c-6e01a5bfcb40d49d8a854e3b04cb801e] In this Part and in Part 5 of this Schedule, a transaction—
 
 - (a) that is relieved from tax by virtue of reconstruction relief, or
 - (b) on which tax is chargeable in accordance with paragraph 3 (acquisition relief),
@@ -114,7 +114,7 @@ is referred to as a “**"relieved transaction”**”.
 
 #### Withdrawal of reconstruction or acquisition relief
 
-**5.**[^key-4fa216e8c62e8ccead5a9dc93c810b8d] (1) Where sub-paragraph (2) applies, reconstruction or acquisition relief in relation to a relieved transaction, or an appropriate proportion of it, is withdrawn and tax is chargeable in accordance with this paragraph.
+**5.**[^c-4fa216e8c62e8ccead5a9dc93c810b8d] (1) Where sub-paragraph (2) applies, reconstruction or acquisition relief in relation to a relieved transaction, or an appropriate proportion of it, is withdrawn and tax is chargeable in accordance with this paragraph.
 
 (2) This sub-paragraph applies where—
 
@@ -154,7 +154,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Cases in which reconstruction or acquisition relief not withdrawn
 
-**6.**[^key-719fc1f139a5ede8f2cd1f0eb18afd4b] (1) Reconstruction or acquisition relief is not withdrawn under paragraph 5 in the following cases.
+**6.**[^c-719fc1f139a5ede8f2cd1f0eb18afd4b] (1) Reconstruction or acquisition relief is not withdrawn under paragraph 5 in the following cases.
 
 (2) The first case is where control of the acquiring company changes as a result of a share transaction that is effected as mentioned in—
 
@@ -187,7 +187,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Withdrawal of reconstruction or acquisition relief on subsequent non-exempt transfer
 
-**7.**[^key-cf15d99ee0eebb58b42c801427aa2b65] (1) Reconstruction or acquisition relief in relation to a relieved transaction, or an appropriate proportion of it, is withdrawn and tax is chargeable in accordance with this paragraph in the following cases.
+**7.**[^c-cf15d99ee0eebb58b42c801427aa2b65] (1) Reconstruction or acquisition relief in relation to a relieved transaction, or an appropriate proportion of it, is withdrawn and tax is chargeable in accordance with this paragraph in the following cases.
 
 (2) The first case is where paragraph 6(4) (change of control of acquiring company as a result of exempt intra-group transfer) has effect to prevent the withdrawal of reconstruction or acquisition relief on a change of control of the acquiring company, but—
 
@@ -235,7 +235,7 @@ or, as the case may be, an appropriate proportion of the tax that would have bee
 
 #### Recovery of reconstruction or acquisition relief from another group company or controlling director
 
-**8.**[^key-3cccb08e657ad37cfd18603038aa167c] (1) This paragraph applies where—
+**8.**[^c-3cccb08e657ad37cfd18603038aa167c] (1) This paragraph applies where—
 
 - (a) tax is chargeable under paragraph 5 or 7 (withdrawal of reconstruction or acquisition relief),
 - (b) the amount so chargeable has been finally determined, and
@@ -264,7 +264,7 @@ can no longer be varied (whether on review, appeal or otherwise).
 
 #### Recovery of reconstruction or acquisition relief: supplementary
 
-**9.**[^key-11b1d8e18b96c2acccb1885d1da9dd7b] (1) WRA may issue a notice to a person within paragraph 8(2) requiring the person to pay the amount that remains unpaid before the end of the period of 30 days beginning with the day on which the notice is issued.
+**9.**[^c-11b1d8e18b96c2acccb1885d1da9dd7b] (1) WRA may issue a notice to a person within paragraph 8(2) requiring the person to pay the amount that remains unpaid before the end of the period of 30 days beginning with the day on which the notice is issued.
 
 (2) A notice under sub-paragraph (1) must be issued before the end of the period of 3 years beginning with the date of the final determination mentioned in paragraph 8(1)(b).
 
@@ -276,20 +276,20 @@ can no longer be varied (whether on review, appeal or otherwise).
 
 ## Annotations
 
-[^key-79056e25457cb9d4f4e868b08f0d8335]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-79056e25457cb9d4f4e868b08f0d8335]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-b4ef016e05befd02ddf94a2d4c6ad387]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b4ef016e05befd02ddf94a2d4c6ad387]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2255a6eb75670219d0e5313444355aef]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2255a6eb75670219d0e5313444355aef]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6e01a5bfcb40d49d8a854e3b04cb801e]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6e01a5bfcb40d49d8a854e3b04cb801e]: Commencement: [Sch. 17 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4fa216e8c62e8ccead5a9dc93c810b8d]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4fa216e8c62e8ccead5a9dc93c810b8d]: Commencement: [Sch. 17 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-719fc1f139a5ede8f2cd1f0eb18afd4b]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-719fc1f139a5ede8f2cd1f0eb18afd4b]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-cf15d99ee0eebb58b42c801427aa2b65]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-cf15d99ee0eebb58b42c801427aa2b65]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3cccb08e657ad37cfd18603038aa167c]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3cccb08e657ad37cfd18603038aa167c]: Commencement: [Sch. 17 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-11b1d8e18b96c2acccb1885d1da9dd7b]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-11b1d8e18b96c2acccb1885d1da9dd7b]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/17/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

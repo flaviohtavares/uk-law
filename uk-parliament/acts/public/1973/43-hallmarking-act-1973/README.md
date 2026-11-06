@@ -31,7 +31,7 @@ Hallmarking Act 1973
 
 An Act to make fresh provision for the composition, assaying, marking and description of articles of, or containing, precious metals, and as to agencies for the implementation and enforcement thereof; and for purposes connected with those matters.
 
-\[25th July 1973\][^c4448821][^c4448831][^key-0112a57a7b32a4325a317616c381e1df]
+\[25th July 1973\][^c4448821][^c4448831][^c-0112a57a7b32a4325a317616c381e1df]
 
 ## Contents
 
@@ -79,4 +79,4 @@ An Act to make fresh provision for the composition, assaying, marking and descri
 
     Act modified (29.2.1996) by [1996 c. i](https://www.legislation.gov.uk/ukla/1996/1), [s. 1](https://www.legislation.gov.uk/ukla/1996/1/section/1), [Sch. para. 3](https://www.legislation.gov.uk/ukla/1996/1/schedule/paragraph/3).
 
-[^key-0112a57a7b32a4325a317616c381e1df]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1973/43) modified (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2040/article/2/1)
+[^c-0112a57a7b32a4325a317616c381e1df]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1973/43) modified (22.7.2009) by [Hallmarking Act 1973 (Application to Palladium) Order 2009 (S.I. 2009/2040)](https://www.legislation.gov.uk/uksi/2009/2040), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/2040/article/2/1)

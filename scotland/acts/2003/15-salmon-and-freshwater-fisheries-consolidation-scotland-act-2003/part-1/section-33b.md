@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33B. Power to modify district salmon fishery boards' functions under section 33A[^key-1ecd0a4eca3a488e620811e19090d683]
+## 33B. Power to modify district salmon fishery boards' functions under section 33A[^c-1ecd0a4eca3a488e620811e19090d683]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ecd0a4eca3a488e620811e19090d683]: Textual amendment: S. 33B inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 32(3)](https://www.legislation.gov.uk/asp/2013/7/section/32/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-1ecd0a4eca3a488e620811e19090d683]: Textual amendment: S. 33B inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 32(3)](https://www.legislation.gov.uk/asp/2013/7/section/32/3), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

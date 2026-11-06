@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Protection from actions for defamation[^key-78a174516d7c2848aa258822f365613a]
+## 46A. Protection from actions for defamation[^c-78a174516d7c2848aa258822f365613a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a174516d7c2848aa258822f365613a]: Textual amendment: S. 46A inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 70](https://www.legislation.gov.uk/asp/2012/8/section/70), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)
+[^c-78a174516d7c2848aa258822f365613a]: Textual amendment: S. 46A inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 70](https://www.legislation.gov.uk/asp/2012/8/section/70), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121), arts. 1(1), 11)

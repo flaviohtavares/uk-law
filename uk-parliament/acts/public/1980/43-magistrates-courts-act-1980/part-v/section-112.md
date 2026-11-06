@@ -22,7 +22,7 @@ summary: ''
 
 [(1)][^c20644761] Any conviction, order, determination or other proceeding of a magistrates’ court varied by the High Court on an appeal by case stated, and any judgment or order of the High Court on such an appeal, may be enforced as if it were a decision of the magistrates’ court from which the appeal was brought.
 
-(2)[^c20644741] Any order, determination or other proceeding of a magistrates' court varied by the family[^key-363290dbd5bd0c0e94f2e2f2d7e93f40] court on an appeal under section 111A, and any judgment or order of the family court on such an appeal, may be enforced as if it were a decision of the magistrates' court from which the appeal was brought.
+(2)[^c20644741] Any order, determination or other proceeding of a magistrates' court varied by the family[^c-363290dbd5bd0c0e94f2e2f2d7e93f40] court on an appeal under section 111A, and any judgment or order of the family court on such an appeal, may be enforced as if it were a decision of the magistrates' court from which the appeal was brought.
 
 ## Annotations
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c20644741]: Textual amendment: S. 112(2) inserted (6.4.2009) by The Access to [Justice Act 1999 (Destination of Appeals) (Family Proceedings) Order 2009 (S.I. 2009/871)](https://www.legislation.gov.uk/uksi/2009/871), [art. 4(4)(c)](https://www.legislation.gov.uk/uksi/2009/871/article/4/4/c) (with [art. 14](https://www.legislation.gov.uk/uksi/2009/871/article/14))
 
-[^key-363290dbd5bd0c0e94f2e2f2d7e93f40]: Textual amendment: Words in [s. 112(2)](https://www.legislation.gov.uk/ukpga/1980/43/section/112/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 51](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/51); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-363290dbd5bd0c0e94f2e2f2d7e93f40]: Textual amendment: Words in [s. 112(2)](https://www.legislation.gov.uk/ukpga/1980/43/section/112/2) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 51](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/51); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

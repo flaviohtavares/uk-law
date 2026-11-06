@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57.A1. Interpretation[^key-2fe2ed1e7e079e68aba90d0b46d78d14]
+## 57.A1. Interpretation[^c-2fe2ed1e7e079e68aba90d0b46d78d14]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In these Rules—
 
 ## Annotations
 
-[^key-2fe2ed1e7e079e68aba90d0b46d78d14]: Textual amendment: [Pt. 57A](https://www.legislation.gov.uk/uksi/1998/3132/part/57A) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rule 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/817/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))
+[^c-2fe2ed1e7e079e68aba90d0b46d78d14]: Textual amendment: [Pt. 57A](https://www.legislation.gov.uk/uksi/1998/3132/part/57A) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rule 1(4)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/817/schedule/1) (with [rule 2](https://www.legislation.gov.uk/uksi/2026/817/rule/2))

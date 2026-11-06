@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 290. “The court” and “the registrar”[^key-f79b58440c6e076fe3843c0ccbf1f0ca]
+## 290. “The court” and “the registrar”[^c-f79b58440c6e076fe3843c0ccbf1f0ca]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f79b58440c6e076fe3843c0ccbf1f0ca]: Commencement: Rule 290 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-f79b58440c6e076fe3843c0ccbf1f0ca]: Commencement: Rule 290 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

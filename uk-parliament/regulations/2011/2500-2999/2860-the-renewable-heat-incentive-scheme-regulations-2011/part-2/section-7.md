@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Eligible installations generating heat using solar collectors[^key-a328146d1b52d980296b0d512af27431]
+## 7. Eligible installations generating heat using solar collectors[^c-a328146d1b52d980296b0d512af27431]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))
+[^c-a328146d1b52d980296b0d512af27431]: Textual amendment: Regulations revoked (22.5.2018) by [The Renewable Heat Incentive Scheme Regulations 2018 (S.I. 2018/611)](https://www.legislation.gov.uk/uksi/2018/611), regs. 1(1), [92(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/1) (with [reg. 92(3)-(14)](https://www.legislation.gov.uk/uksi/2018/611/regulation/92/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5ZA. Continued failure by landlord to provide rent receipt after conviction or fixed penalty[^key-c5e1c4bd4bf2a7ff6f7afaa975f3caec]
+## 5ZA. Continued failure by landlord to provide rent receipt after conviction or fixed penalty[^c-c5e1c4bd4bf2a7ff6f7afaa975f3caec]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5e1c4bd4bf2a7ff6f7afaa975f3caec]: Textual amendment: [Arts. 5-5ZB](https://www.legislation.gov.uk/nisi/2006/1459/article/5) substituted for [art. 5](https://www.legislation.gov.uk/nisi/2006/1459/article/5) (1.4.2023) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/20/section/3/2), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-c5e1c4bd4bf2a7ff6f7afaa975f3caec]: Textual amendment: [Arts. 5-5ZB](https://www.legislation.gov.uk/nisi/2006/1459/article/5) substituted for [art. 5](https://www.legislation.gov.uk/nisi/2006/1459/article/5) (1.4.2023) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 3(2)](https://www.legislation.gov.uk/nia/2022/20/section/3/2), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Powers of entry[^key-7fa1f5d400ba26a45c58b7c2a61bb632]
+## 36. Powers of entry[^c-7fa1f5d400ba26a45c58b7c2a61bb632]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 48 (powers of entry) of the 1968 Act, in subsection (1)—
 
 ## Annotations
 
-[^key-7fa1f5d400ba26a45c58b7c2a61bb632]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2013/5/section/36) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)
+[^c-7fa1f5d400ba26a45c58b7c2a61bb632]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2013/5/section/36) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(c)](https://www.legislation.gov.uk/ssi/2013/342/article/2/c)

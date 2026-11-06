@@ -50,7 +50,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 3(2) and 4(6) of the Seafarers’ Wages Act 2023[^f00001].
 
-## 1. Citation, commencement and extent[^key-0006624afb369ade4b6396cf7681950c]
+## 1. Citation, commencement and extent[^c-0006624afb369ade4b6396cf7681950c]
 
 (1) These Regulations may be cited as the Seafarers’ Wages (Amendment) Regulations 2025.
 
@@ -58,7 +58,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Amendments to the Seafarers’ Wages Regulations 2024[^key-78e4a3dc9b90e131b4dda0602579b62e]
+## 2. Amendments to the Seafarers’ Wages Regulations 2024[^c-78e4a3dc9b90e131b4dda0602579b62e]
 
 (1) The Seafarers’ Wages Regulations 2024[^f00002] are amended as follows.
 
@@ -97,8 +97,8 @@ A full impact assessment has not been produced in respect of these Regulations. 
 
 [^f00001]: Footnote: [2023 c. 8](https://www.legislation.gov.uk/ukpga/2023/8).
 
-[^key-0006624afb369ade4b6396cf7681950c]: Commencement: Reg. 1 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2)
+[^c-0006624afb369ade4b6396cf7681950c]: Commencement: Reg. 1 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2)
 
-[^key-78e4a3dc9b90e131b4dda0602579b62e]: Commencement: Reg. 2 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2)
+[^c-78e4a3dc9b90e131b4dda0602579b62e]: Commencement: Reg. 2 in force at 1.4.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/289/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2024/1015](https://www.legislation.gov.uk/uksi/2024/1015).

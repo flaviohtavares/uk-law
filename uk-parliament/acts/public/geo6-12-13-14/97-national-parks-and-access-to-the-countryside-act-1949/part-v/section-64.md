@@ -28,7 +28,7 @@ summary: ''
 
 (4) Section two of the [^c642114]Forestry Act 1947 (which empowers tenants for life and other limited owners to enter into forestry dedication covenants) shall apply to an access agreement as it applies to such a covenant.
 
-(5)[^key-84e7df69d91f974d06c8b6f4b8b2f77d][^c642115] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-84e7df69d91f974d06c8b6f4b8b2f77d][^c642115] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where an access agreement is made with one or some, but not all, of the persons having interests in the land to which the agreement relates, the provisions of this Part of this Act shall apply as respects the interests of the persons with whom the agreement is made, and shall continue so to apply notwithstanding any change in the persons entitled thereto, but shall not, as against the person for the time being entitled to any other interest in the land, operate so as to prejudice his rights as owner of that interest, or impose any restriction on him or confer any right against him.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c642114]: Marginal citation: [1947 c. 21](https://www.legislation.gov.uk/ukpga/1947/21).
 
-[^key-84e7df69d91f974d06c8b6f4b8b2f77d]: Textual amendment: [S. 64(5)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/64/5) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/21), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-84e7df69d91f974d06c8b6f4b8b2f77d]: Textual amendment: [S. 64(5)](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/64/5) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/21), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c642115]: Modification: S. 64(5) applied (1.4.2001 for E. and 1.5.2001 for W.) by [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37), [s. 84(1)(c)](https://www.legislation.gov.uk/ukpga/2000/37/section/84/1/c) (with [s. 84(4)-(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/84/4)); [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)

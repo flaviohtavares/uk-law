@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Notified persons who claim as a different benefit unit[^key-39b302d07b7888ce1bb40895959261c1]
+## 47. Notified persons who claim as a different benefit unit[^c-39b302d07b7888ce1bb40895959261c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39b302d07b7888ce1bb40895959261c1]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/1230/regulation/47) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/6/1)
+[^c-39b302d07b7888ce1bb40895959261c1]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/1230/regulation/47) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/6/1)

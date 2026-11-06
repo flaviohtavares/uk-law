@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by section 2(1) and (13) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00001]. In accordance with section 2(8)(a) of that Act it has consulted with the public service bodies specified by these Regulations.
 
-## 1. Citation and Commencement[^key-ff72b5f706cd8c08d6511f88f146859d]
+## 1. Citation and Commencement[^c-ff72b5f706cd8c08d6511f88f146859d]
 
 These Regulations may be cited as the Period Products (Department for Communities Specified Public Service Bodies) Regulations (Northern Ireland) 2025 and shall come into operation on 8<sup>th</sup> May 2025.
 
-## 2. Specified public service bodies[^key-2f49b9ffd6c1c88985b1bf267659e151]
+## 2. Specified public service bodies[^c-2f49b9ffd6c1c88985b1bf267659e151]
 
 The bodies listed in the Schedule are specified as public service bodies to which the duty in section 2(3) of the Period Products (Free Provision) Act (Northern Ireland) 2022 applies.
 
@@ -58,49 +58,49 @@ Emma McCullough
 
 A senior officer of the Department for Communities
 
-## SCHEDULE — Specified Public Service Bodies[^key-176ffac5825c314fced8808ce865080f]
+## SCHEDULE — Specified Public Service Bodies[^c-176ffac5825c314fced8808ce865080f]
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Armagh Observatory and Planetarium established by Article 3 of the Armagh Observatory and Planetarium (NI) Order 1995[^f00002];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Arts Council of Northern Ireland established by Article 3 the Arts Council (Northern Ireland) Order 1995[^f00003];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Charity Commission for Northern Ireland established by section 6 of the Charities Act (Northern Ireland) 2008[^f00004];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 Local Government Staff Commission established by section 40 of the Local Government Act (Northern Ireland) 1972[^f00005];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Northern Ireland Library Authority established by section 1 of the Libraries Act (Northern Ireland) 2008[^f00006];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Northern Ireland Housing Executive established by section 1 of the Housing Executive Act (Northern Ireland) 1971 (now repealed), and continues in being under Article 3 of the Housing (Northern Ireland) Order 1981[^f00007];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Northern Ireland Local Government Officers’ Superannuation Committee established by section 1 of the Local Government (Superannuation) Act (Northern Ireland) 1950[^f00008];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The National Museums and Galleries of Northern Ireland established by section 3 of the Museums and Galleries (NI) Order 1998[^f00009];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 Sport Northern Ireland established under the Recreation and Youth Service (NI) Order 1986[^f00010];
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Commissioner for Children and Young People for Northern Ireland established under section 5 of the Commissioner for Children and Young People (Northern Ireland) Order 2003[^f00011]; and
 
-[^key-176ffac5825c314fced8808ce865080f]
+[^c-176ffac5825c314fced8808ce865080f]
 
 The Commissioner for Older People for Northern Ireland was established under section 1 of the Commissioner for Older People Act (Northern Ireland) 2011[^f00012]**.**
 
@@ -114,11 +114,11 @@ These Regulations specify the public service bodies within the functions of the 
 
 [^f00001]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-ff72b5f706cd8c08d6511f88f146859d]: Commencement: Reg. 1 in operation at 8.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/84/regulation/1)
+[^c-ff72b5f706cd8c08d6511f88f146859d]: Commencement: Reg. 1 in operation at 8.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/84/regulation/1)
 
-[^key-2f49b9ffd6c1c88985b1bf267659e151]: Commencement: Reg. 2 in operation at 8.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/84/regulation/1)
+[^c-2f49b9ffd6c1c88985b1bf267659e151]: Commencement: Reg. 2 in operation at 8.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/84/regulation/1)
 
-[^key-176ffac5825c314fced8808ce865080f]: Commencement: Sch. in operation at 8.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/84/regulation/1)
+[^c-176ffac5825c314fced8808ce865080f]: Commencement: Sch. in operation at 8.5.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/84/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1995/1622 (N.I. 7)](https://www.legislation.gov.uk/nisi/1995/1622)
 

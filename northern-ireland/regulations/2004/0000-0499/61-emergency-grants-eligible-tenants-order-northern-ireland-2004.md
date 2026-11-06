@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Article 29A(2)(c) of the Housing (Northern Ireland) Order 1988[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-c0067819b67554fb904f81da42346b23]
+## 1. Citation and commencement[^c-c0067819b67554fb904f81da42346b23]
 
 This Order may be cited as the Emergency Grants (Eligible Tenants) Order (Northern Ireland) 2004 and shall come into operation on 1st April 2004.
 
-## 2. Specified tenancy[^key-1eb7b3c6c7447e0ec6943a9c26ec98a2]
+## 2. Specified tenancy[^c-1eb7b3c6c7447e0ec6943a9c26ec98a2]
 
 (1) For the purposes of Article 29A(2)(c) of the Housing (Northern Ireland) Order 1988 (scheme for emergency grants), the following are descriptions of tenancies to which Article 29A applies:
 
@@ -63,7 +63,7 @@ This Order may be cited as the Emergency Grants (Eligible Tenants) Order (Northe
   or is held in trust for Her Majesty for the purposes of a government department.
 - (b) a tenancy the purpose of which is to confer on the tenant the right to occupy a dwelling house for a holiday.
 
-## 3. Application[^key-392927cdbd6da2fb8882f470934effe7]
+## 3. Application[^c-392927cdbd6da2fb8882f470934effe7]
 
 This Order shall not apply in relation to applications for emergency grant made before 1st April 2004.
 
@@ -83,8 +83,8 @@ Article 29A of the Housing (Northern Ireland) Order 1988 (scheme for emergency g
 
 [^f00001]: Footnote: S.I. [1988/1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990); Article 29A was inserted by Article 138 of S.I. [2003/412 (N.I. 2)](https://www.legislation.gov.uk/nisi/2003/412)
 
-[^key-c0067819b67554fb904f81da42346b23]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/61/article/1) in operation at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/61/article/1)
+[^c-c0067819b67554fb904f81da42346b23]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2004/61/article/1) in operation at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/61/article/1)
 
-[^key-1eb7b3c6c7447e0ec6943a9c26ec98a2]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2004/61/article/2) substituted (1.8.2013) by [Emergency Grants (Eligible Tenants) (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/164)](https://www.legislation.gov.uk/nisr/2013/164), [arts. 1](https://www.legislation.gov.uk/nisr/2013/164/article/1), [2](https://www.legislation.gov.uk/nisr/2013/164/article/2)
+[^c-1eb7b3c6c7447e0ec6943a9c26ec98a2]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/nisr/2004/61/article/2) substituted (1.8.2013) by [Emergency Grants (Eligible Tenants) (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/164)](https://www.legislation.gov.uk/nisr/2013/164), [arts. 1](https://www.legislation.gov.uk/nisr/2013/164/article/1), [2](https://www.legislation.gov.uk/nisr/2013/164/article/2)
 
-[^key-392927cdbd6da2fb8882f470934effe7]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/61/article/3) in operation at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/61/article/1)
+[^c-392927cdbd6da2fb8882f470934effe7]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2004/61/article/3) in operation at 1.4.2004, see [art. 1](https://www.legislation.gov.uk/nisr/2004/61/article/1)

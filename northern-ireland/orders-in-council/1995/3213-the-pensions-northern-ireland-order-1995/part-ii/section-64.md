@@ -22,7 +22,7 @@ summary: ''
 
 (1) An equal treatment rule does not operate in relation to any variation as between a woman and a man in the effect of any of the terms referred to in Article 62(2) if the variation is permitted by or under any of the provisions of this Article.
 
-(2) Where a man and a woman are eligible, in prescribed circumstances, to receive different amounts by way of pension, the variation is permitted by this paragraph if, in prescribed circumstances, the differences are attributable only to differences between men and women in the benefits under sections 43 to 55 of the Contributions and Benefits Act (state retirement pensions) or sections 2 to 12 of the Pensions Act (Northern Ireland) 2015 (state pension)[^key-b6af34ad9e911ee70c4f11cd56835dbe] to which, in prescribed circumstances, they are or would be entitled.
+(2) Where a man and a woman are eligible, in prescribed circumstances, to receive different amounts by way of pension, the variation is permitted by this paragraph if, in prescribed circumstances, the differences are attributable only to differences between men and women in the benefits under sections 43 to 55 of the Contributions and Benefits Act (state retirement pensions) or sections 2 to 12 of the Pensions Act (Northern Ireland) 2015 (state pension)[^c-b6af34ad9e911ee70c4f11cd56835dbe] to which, in prescribed circumstances, they are or would be entitled.
 
 (3) A variation is permitted by this paragraph if—
 
@@ -40,4 +40,4 @@ and regulations made by virtue of this paragraph may have effect in relation to 
 
 ## Annotations
 
-[^key-b6af34ad9e911ee70c4f11cd56835dbe]: Textual amendment: Words in [art. 64(2)](https://www.legislation.gov.uk/nisi/1995/3213/article/64/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential and Supplementary Amendments) Order (Northern Ireland) 2016 (S.R. 2016/78)](https://www.legislation.gov.uk/nisr/2016/78), [arts. 1](https://www.legislation.gov.uk/nisr/2016/78/article/1), [3](https://www.legislation.gov.uk/nisr/2016/78/article/3)
+[^c-b6af34ad9e911ee70c4f11cd56835dbe]: Textual amendment: Words in [art. 64(2)](https://www.legislation.gov.uk/nisi/1995/3213/article/64/2) inserted (6.4.2016) by [The Pensions (2015 Act) (Consequential and Supplementary Amendments) Order (Northern Ireland) 2016 (S.R. 2016/78)](https://www.legislation.gov.uk/nisr/2016/78), [arts. 1](https://www.legislation.gov.uk/nisr/2016/78/article/1), [3](https://www.legislation.gov.uk/nisr/2016/78/article/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Executive (or such other person as may from time to time be specified in writing by the Executive) may, by a certificate in writing, approve (in accordance with such criteria as may from time to time be specified by the Executive) a suitable dosimetry service for such of the purposes of these Regulations or of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^key-edab6c30f5c4477a4ae555f8b2104048] as are specified in the certificate.
+(1) The Executive (or such other person as may from time to time be specified in writing by the Executive) may, by a certificate in writing, approve (in accordance with such criteria as may from time to time be specified by the Executive) a suitable dosimetry service for such of the purposes of these Regulations or of the Radiation (Emergency Preparedness and Public Information) Regulations 2019[^c-edab6c30f5c4477a4ae555f8b2104048] as are specified in the certificate.
 
 (2) A certificate made pursuant to paragraph (1) may be made subject to conditions and may be revoked in writing at any time.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edab6c30f5c4477a4ae555f8b2104048]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/36/1) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))
+[^c-edab6c30f5c4477a4ae555f8b2104048]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/36/1) substituted (22.5.2019) by [The Radiation (Emergency Preparedness and Public Information) Regulations 2019 (S.I. 2019/703)](https://www.legislation.gov.uk/uksi/2019/703), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/703/regulation/1/1), [Sch. 10 para. 13](https://www.legislation.gov.uk/uksi/2019/703/schedule/10/paragraph/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/703/regulation/3))

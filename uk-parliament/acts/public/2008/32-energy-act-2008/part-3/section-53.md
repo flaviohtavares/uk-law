@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Power to review operation of programme[^key-1bd37a1689c5910308ea971d03649d06]
+## 53. Power to review operation of programme[^c-1bd37a1689c5910308ea971d03649d06]
 
 *Extent: E+W+N.I.*
 
@@ -57,4 +57,4 @@ for the purpose of enabling the Secretary of State to determine whether to make 
 
 ## Annotations
 
-[^key-1bd37a1689c5910308ea971d03649d06]: Commencement: S. 53 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-1bd37a1689c5910308ea971d03649d06]: Commencement: S. 53 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

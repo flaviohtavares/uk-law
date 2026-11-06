@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Duties to take action in relation to compliance failure[^key-e5b71bd4f07910079e31671b1f8b3510][^key-bdd367159073261054dacb9fa10d56e3]
+## 11. Duties to take action in relation to compliance failure[^c-e5b71bd4f07910079e31671b1f8b3510][^c-bdd367159073261054dacb9fa10d56e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ Regulations under this subsection are subject to the negative resolution procedu
 
 ## Annotations
 
-[^key-e5b71bd4f07910079e31671b1f8b3510]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-e5b71bd4f07910079e31671b1f8b3510]: Commencement: S. 11 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-bdd367159073261054dacb9fa10d56e3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/46/section/11) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-bdd367159073261054dacb9fa10d56e3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2022/46/section/11) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

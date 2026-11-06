@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Penalties.[^key-202746addf02bed8ee1792b3cb97ea8b]
+## 76. Penalties.[^c-202746addf02bed8ee1792b3cb97ea8b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Any person who commits an offence against any of the provisions of this Part of 
 
 ## Annotations
 
-[^key-202746addf02bed8ee1792b3cb97ea8b]: Modification: Ss. 72-80 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
+[^c-202746addf02bed8ee1792b3cb97ea8b]: Modification: Ss. 72-80 modified (27.11.2009) by [The Local Services (Operation by Licensed Hire Cars) Regulations 2009 (S.I. 2009/2863)](https://www.legislation.gov.uk/uksi/2009/2863), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2863/regulation/1), [4](https://www.legislation.gov.uk/uksi/2009/2863/regulation/4) Table (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/2863/regulation/3))
 
 [^c7230631]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)

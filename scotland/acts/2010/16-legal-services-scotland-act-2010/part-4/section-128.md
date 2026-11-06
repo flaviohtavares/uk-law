@@ -23,9 +23,9 @@ summary: ''
 (1) In section 43 (Guarantee Fund) of the 1980 Act—
 
 - (a) in subsection (2)—
-  - (i)[^key-160ef1a711550f886c2dc549fcfd1003] the word “or” immediately preceding paragraph (b) is repealed,
-  - (ii)[^key-4c58393b76fecc62aa0869ef357c8d6e] in paragraph (b), after “director” insert “ , member ”,
-  - (iii)[^key-160ef1a711550f886c2dc549fcfd1003] after paragraph (b) insert
+  - (i)[^c-160ef1a711550f886c2dc549fcfd1003] the word “or” immediately preceding paragraph (b) is repealed,
+  - (ii)[^c-4c58393b76fecc62aa0869ef357c8d6e] in paragraph (b), after “director” insert “ , member ”,
+  - (iii)[^c-160ef1a711550f886c2dc549fcfd1003] after paragraph (b) insert
 
     > ; or
     >
@@ -35,14 +35,14 @@ summary: ''
 
     ,
 - (b) in subsection (3)—
-  - (i)[^key-4c58393b76fecc62aa0869ef357c8d6e] in paragraph (cc), after “director” in the second place where it occurs insert “ , member ”,
-  - (ii)[^key-160ef1a711550f886c2dc549fcfd1003] after paragraph (cc) insert—
+  - (i)[^c-4c58393b76fecc62aa0869ef357c8d6e] in paragraph (cc), after “director” in the second place where it occurs insert “ , member ”,
+  - (ii)[^c-160ef1a711550f886c2dc549fcfd1003] after paragraph (cc) insert—
 
     > - (cd) to a licensed provider or any investor or person who owns, manages or controls or is within the licensed provider in respect of a loss suffered by it or any such person in connection with the licensed provider's provision of legal services by reason of dishonesty on the part of any such persons;
 
     ,
-- (c)[^key-160ef1a711550f886c2dc549fcfd1003] in subsection (7)(c), after “incorporated practice” insert “ or a licensed provider ”,
-- (d)[^key-160ef1a711550f886c2dc549fcfd1003] after subsection (7) insert—
+- (c)[^c-160ef1a711550f886c2dc549fcfd1003] in subsection (7)(c), after “incorporated practice” insert “ or a licensed provider ”,
+- (d)[^c-160ef1a711550f886c2dc549fcfd1003] after subsection (7) insert—
 
   > (8) In the case of licensed providers, this section and Part I of Schedule 3 apply in relation to (and only to) such licensed providers as are regulated by an approved regulator that in furtherance of section 24(4) of the 2010 Act does not maintain its own compensation fund as referred to in that section.
   >
@@ -55,7 +55,7 @@ summary: ''
 
   .
 
-(2)[^key-4c58393b76fecc62aa0869ef357c8d6e] In section 43 of the 1980 Act—
+(2)[^c-4c58393b76fecc62aa0869ef357c8d6e] In section 43 of the 1980 Act—
 
 - (a) in subsection (2), after paragraph (a) insert—
 
@@ -68,13 +68,13 @@ summary: ''
 
   .
 
-(3)[^key-4c58393b76fecc62aa0869ef357c8d6e] Section 21C of the 1990 Act is repealed, but—
+(3)[^c-4c58393b76fecc62aa0869ef357c8d6e] Section 21C of the 1990 Act is repealed, but—
 
 - (a) the fund maintained under subsection (1) of that section immediately before its repeal by this subsection continues to be vested in the Council, and
 - (b) the Council is to apply that fund to the Scottish Solicitors Guarantee Fund (which is vested in the Law Society under section 43(1) of the 1980 Act).
 
 ## Annotations
 
-[^key-160ef1a711550f886c2dc549fcfd1003]: Commencement: [S. 128(1)(a)(i)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/a/i)[(iii)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/a/iii)[(b)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/b/ii)[(c)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/c)[(d)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/d) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-160ef1a711550f886c2dc549fcfd1003]: Commencement: [S. 128(1)(a)(i)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/a/i)[(iii)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/a/iii)[(b)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/b/ii)[(c)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/c)[(d)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/d) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
-[^key-4c58393b76fecc62aa0869ef357c8d6e]: Commencement: [S. 128(1)(a)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/a/ii)[(b)(i)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/b/i)[(2)](https://www.legislation.gov.uk/asp/2010/16/section/128/2)[(3)](https://www.legislation.gov.uk/asp/2010/16/section/128/3) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-4c58393b76fecc62aa0869ef357c8d6e]: Commencement: [S. 128(1)(a)(ii)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/a/ii)[(b)(i)](https://www.legislation.gov.uk/asp/2010/16/section/128/1/b/i)[(2)](https://www.legislation.gov.uk/asp/2010/16/section/128/2)[(3)](https://www.legislation.gov.uk/asp/2010/16/section/128/3) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

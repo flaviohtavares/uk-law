@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Contravention of protection order[^key-1f2f4f0c12af86396cd0b0ba426adf00]
+## 12. Contravention of protection order[^c-1f2f4f0c12af86396cd0b0ba426adf00]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f2f4f0c12af86396cd0b0ba426adf00]: Commencement: S. 12 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-1f2f4f0c12af86396cd0b0ba426adf00]: Commencement: S. 12 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

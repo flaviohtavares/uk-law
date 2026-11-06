@@ -31,7 +31,7 @@ summary: ''
 
 Plant Health, Wales
 
-The Plant Health (Miscellaneous Amendments) (Wales) Regulations 2014 (revoked)[^key-fc87bb7224054942c153c509d72995b5]
+The Plant Health (Miscellaneous Amendments) (Wales) Regulations 2014 (revoked)[^c-fc87bb7224054942c153c509d72995b5]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 4 July 2014
 
-[^key-fc87bb7224054942c153c509d72995b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc87bb7224054942c153c509d72995b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-fc87bb7224054942c153c509d72995b5]
+## 1. Title, commencement, application and interpretation[^c-fc87bb7224054942c153c509d72995b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt (Wales) Regulations 2004[^key-fc87bb7224054942c153c509d72995b5]
+## 2. Amendment of the Potatoes Originating in Egypt (Wales) Regulations 2004[^c-fc87bb7224054942c153c509d72995b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the PHO: information gateway[^key-fc87bb7224054942c153c509d72995b5]
+## 3. Amendment of the PHO: information gateway[^c-fc87bb7224054942c153c509d72995b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the PHO: Switzerland[^key-fc87bb7224054942c153c509d72995b5]
+## 4. Amendment of the PHO: Switzerland[^c-fc87bb7224054942c153c509d72995b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc87bb7224054942c153c509d72995b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc87bb7224054942c153c509d72995b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc87bb7224054942c153c509d72995b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc87bb7224054942c153c509d72995b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc87bb7224054942c153c509d72995b5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/1463) revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)
+[^c-fc87bb7224054942c153c509d72995b5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2014/1463) revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6)

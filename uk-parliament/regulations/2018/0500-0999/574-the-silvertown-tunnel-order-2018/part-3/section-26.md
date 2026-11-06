@@ -42,7 +42,7 @@ summary: ''
 
 > (2) But see article 27(4) (acquisition of subsoil, etc., only) of the Silvertown Tunnel Order 2018 [^c22957511], which excludes the acquisition of subsoil or airspace only from this Schedule.
 
-(10) References to the 1965 Act in the 1981 Act are to be construed as references to the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and as modified by article 25 (modification of Part 1 of the 1965 Act[^key-abac228c96f35d054fadd21084237b5d])) to the compulsory acquisition of land under this Order.
+(10) References to the 1965 Act in the 1981 Act are to be construed as references to the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and as modified by article 25 (modification of Part 1 of the 1965 Act[^c-abac228c96f35d054fadd21084237b5d])) to the compulsory acquisition of land under this Order.
 
 ## Annotations
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c22957511]: Marginal citation: [S.I. 2018/574](https://www.legislation.gov.uk/uksi/2018/574).
 
-[^key-abac228c96f35d054fadd21084237b5d]: Textual amendment: Words in [art. 26(10)](https://www.legislation.gov.uk/uksi/2018/574/article/26/10) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/413/article/2/6)
+[^c-abac228c96f35d054fadd21084237b5d]: Textual amendment: Words in [art. 26(10)](https://www.legislation.gov.uk/uksi/2018/574/article/26/10) substituted (22.2.2019) by [The Silvertown Tunnel (Correction) Order 2019 (S.I. 2019/413)](https://www.legislation.gov.uk/uksi/2019/413), [arts. 1](https://www.legislation.gov.uk/uksi/2019/413/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2019/413/article/2/6)

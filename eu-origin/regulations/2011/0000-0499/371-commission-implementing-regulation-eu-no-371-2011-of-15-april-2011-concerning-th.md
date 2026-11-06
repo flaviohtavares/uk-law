@@ -37,18 +37,18 @@ concerning the authorisation of dimethylglycine sodium salt as feed additive for
 
 (Text with EEA relevance) (revoked)
 
-[^key-ce6baad14ee1889bcfa14f7aadf97e52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce6baad14ee1889bcfa14f7aadf97e52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ce6baad14ee1889bcfa14f7aadf97e52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ce6baad14ee1889bcfa14f7aadf97e52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ce6baad14ee1889bcfa14f7aadf97e52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ce6baad14ee1889bcfa14f7aadf97e52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce6baad14ee1889bcfa14f7aadf97e52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce6baad14ee1889bcfa14f7aadf97e52]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ce6baad14ee1889bcfa14f7aadf97e52]
+## ANNEX[^c-ce6baad14ee1889bcfa14f7aadf97e52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce6baad14ee1889bcfa14f7aadf97e52]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 56](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/56) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ce6baad14ee1889bcfa14f7aadf97e52]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 56](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/56) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

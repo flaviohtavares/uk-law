@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159E. Effect of alteration of rates of personal independence payment[^key-249e689f1b63bde142031b6bc8dbbf55]
+## 159E. Effect of alteration of rates of personal independence payment[^c-249e689f1b63bde142031b6bc8dbbf55]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-249e689f1b63bde142031b6bc8dbbf55]: Textual amendment: S. 159E inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/6)
+[^c-249e689f1b63bde142031b6bc8dbbf55]: Textual amendment: S. 159E inserted (8.4.2013) by [The Personal Independence Payment (Supplementary Provisions and Consequential Amendments) Regulations 2013 (S.I. 2013/388)](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/6)

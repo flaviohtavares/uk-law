@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Abandoned premises under assured shorthold tenancies[^key-887459043bd7e8cd62f70c55aa71808d]
+## 59. Abandoned premises under assured shorthold tenancies[^c-887459043bd7e8cd62f70c55aa71808d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In the [Housing and Planning Act 2016](https://www.legislation.gov.uk/ukpga/2016
 
 ## Annotations
 
-[^key-887459043bd7e8cd62f70c55aa71808d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/26/section/59) in force at 27.12.2025, see [s. 145(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/b)
+[^c-887459043bd7e8cd62f70c55aa71808d]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/26/section/59) in force at 27.12.2025, see [s. 145(5)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/b)

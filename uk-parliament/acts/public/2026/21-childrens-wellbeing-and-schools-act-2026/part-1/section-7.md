@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Provision of advice and other support[^key-d301d6d7342c0afffed4b8490c03228e]
+## 7. Provision of advice and other support[^c-d301d6d7342c0afffed4b8490c03228e]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ After [section 23CZA](https://www.legislation.gov.uk/ukpga/1989/41/section/23CZA
 
 ## Annotations
 
-[^key-d301d6d7342c0afffed4b8490c03228e]: Commencement: S. 7 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-d301d6d7342c0afffed4b8490c03228e]: Commencement: S. 7 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

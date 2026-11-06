@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Certain class 1 goods[^key-e727cdaa973037c823281c6eec5746c8]
+## SCHEDULE 4 — Certain class 1 goods[^c-e727cdaa973037c823281c6eec5746c8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Regulations 30(5), 33(3) and 86(2)
 
 ## Annotations
 
-[^key-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)
+[^c-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)

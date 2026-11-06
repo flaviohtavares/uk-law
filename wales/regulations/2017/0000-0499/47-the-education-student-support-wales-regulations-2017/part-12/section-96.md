@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Part-time grants for dependants - calculation of contribution[^key-ac3734d227d3f7eeea01313f481230d1]
+## 96. Part-time grants for dependants - calculation of contribution[^c-ac3734d227d3f7eeea01313f481230d1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3734d227d3f7eeea01313f481230d1]: Commencement: Reg. 96 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-ac3734d227d3f7eeea01313f481230d1]: Commencement: Reg. 96 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

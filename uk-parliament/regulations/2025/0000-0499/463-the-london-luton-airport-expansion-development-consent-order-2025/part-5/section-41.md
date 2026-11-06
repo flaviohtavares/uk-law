@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Set off for enhancement in value of retained land[^key-609deda2f5851e50eac943ebe7e14752]
+## 41. Set off for enhancement in value of retained land[^c-609deda2f5851e50eac943ebe7e14752]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ which will accrue to that person by reason of the construction of the authorised
 
 ## Annotations
 
-[^key-609deda2f5851e50eac943ebe7e14752]: Commencement: Art. 41 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-609deda2f5851e50eac943ebe7e14752]: Commencement: Art. 41 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

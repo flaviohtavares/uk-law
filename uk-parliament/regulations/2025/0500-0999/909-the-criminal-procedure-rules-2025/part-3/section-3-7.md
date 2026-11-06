@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.7. Agreement to vary a time limit fixed by a direction[^key-b419859fce879e9b06a6975e3b012b63]
+## 3.7. Agreement to vary a time limit fixed by a direction[^c-b419859fce879e9b06a6975e3b012b63]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b419859fce879e9b06a6975e3b012b63]: Commencement: [Rule 3.7](https://www.legislation.gov.uk/uksi/2025/909/rule/3.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b419859fce879e9b06a6975e3b012b63]: Commencement: [Rule 3.7](https://www.legislation.gov.uk/uksi/2025/909/rule/3.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

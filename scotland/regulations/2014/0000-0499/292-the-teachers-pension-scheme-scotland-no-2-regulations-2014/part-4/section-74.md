@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Pension accounts for phased retirement members[^key-b3ba36c78ddb43b83eb326c2e7708378]
+## 74. Pension accounts for phased retirement members[^c-b3ba36c78ddb43b83eb326c2e7708378]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3ba36c78ddb43b83eb326c2e7708378]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2014/292/regulation/74) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-b3ba36c78ddb43b83eb326c2e7708378]: Commencement: [Reg. 74](https://www.legislation.gov.uk/ssi/2014/292/regulation/74) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

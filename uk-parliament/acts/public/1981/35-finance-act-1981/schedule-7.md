@@ -81,7 +81,7 @@ and in paragraph (a) above “**the appropriate authority**” means—
 (4) Subject to subsection (5) below, an entry which has been accepted may be cancelled at the request of the exporter if he delivers to the proper officer all copies of the entry and such other documents delivered to him on or in connection with the entry as the Commissioners may require and shows to the satisfaction of the Commissioners that—
 
 - (a) the goods are in the United Kingdom and the arrangements for exporting them have been cancelled; and
-- (b) any payment to which he is entitled from the Commissioners or under an[^key-b1ba41ca91cde7240e635b6efa234ff2] EU instrument by virtue of exporting the goods has been repaid or will not be paid.
+- (b) any payment to which he is entitled from the Commissioners or under an[^c-b1ba41ca91cde7240e635b6efa234ff2] EU instrument by virtue of exporting the goods has been repaid or will not be paid.
 
 (5) An entry shall not be cancelled under subsection (4) above—
 
@@ -279,7 +279,7 @@ shall be treated for the purposes of this Part of this Act both as goods shipped
 
 (6) In this section “**Community customs document**” means a document which in accordance with any EU instrument or any agreement permitted under such an instrument or in accordance with any arrangements made between the Commissioners and any other customs authority—
 
-- (a) is used to indicate whether or not the goods are Community goods or are subject to duty at a preferential rate in any country with which the European Union[^key-22501034d2552c9aa051d99741b66675] has an agreement of association; and
+- (a) is used to indicate whether or not the goods are Community goods or are subject to duty at a preferential rate in any country with which the European Union[^c-22501034d2552c9aa051d99741b66675] has an agreement of association; and
 - (b) is required to be authenticated by the customs authorities of the member State from which they are exported.
 
 (7) In subsection (6) above “**Community goods**” means—
@@ -345,6 +345,6 @@ shall be treated for the purposes of this Part of this Act both as goods shipped
 
 [^c1606412]: Editorial: The text of Sch. 7 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-b1ba41ca91cde7240e635b6efa234ff2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-b1ba41ca91cde7240e635b6efa234ff2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-22501034d2552c9aa051d99741b66675]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-22501034d2552c9aa051d99741b66675]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

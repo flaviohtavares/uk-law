@@ -31,9 +31,9 @@ For the purposes of this Schedule—
   - (i) the determinations referred to in paragraphs 2 to 4 apply to each such employment separately; and
   - (ii) each such employment is treated separately for the purpose of paying contributions.
 
-### 2. Continuous employment spanning two scheme years[^key-4007186460f7440961d964f1f4fa8010]
+### 2. Continuous employment spanning two scheme years[^c-4007186460f7440961d964f1f4fa8010]
 
-(1) This paragraph[^key-ff4ab12e1c27086cff6b1d7cbb9fa97d] applies for the purposes of determining the relevant contribution rate for the current scheme year for a member (“[^key-8baa7bc562c1ca9d5c8c11fc80241535]**M**”) who—
+(1) This paragraph[^c-ff4ab12e1c27086cff6b1d7cbb9fa97d] applies for the purposes of determining the relevant contribution rate for the current scheme year for a member (“[^c-8baa7bc562c1ca9d5c8c11fc80241535]**M**”) who—
 
 - (a) is in pensionable employment with the same employing authority on both—
   - (i) the last day of the previous scheme year; and
@@ -60,22 +60,22 @@ For the purposes of this Schedule—
 </tbody>
 </table>
 
-[^key-0db8de63d5b613b45719487c652f125d]
+[^c-0db8de63d5b613b45719487c652f125d]
 
-(3)[^key-0f44b59e17fbc7bc37e13f6068b259b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0f44b59e17fbc7bc37e13f6068b259b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0d657425616884816ef4e9109cf8f47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0d657425616884816ef4e9109cf8f47d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A member is regarded as being in pensionable employment throughout the previous scheme year regardless of any period in that year during which the member continued to be employed by the same employer, but did not make contributions to this scheme.
 
 (6) For the purposes of calculating the member's pensionable earnings—
 
 - (a) contributions for any period referred to in sub-paragraph (2) are deemed to have been paid;
-- (b) amounts equal to reduced[^key-15840c39b1c91775461375fc8d39ca7e] pensionable earnings that the member is treated as having received during an absence from work (see regulation 28) is included.
+- (b) amounts equal to reduced[^c-15840c39b1c91775461375fc8d39ca7e] pensionable earnings that the member is treated as having received during an absence from work (see regulation 28) is included.
 
 (7) The amount of pensionable earnings determined in accordance with this paragraph must be rounded down to the nearest whole pound.
 
-### 2A. Members who do not fall within any of the cases in paragraph 2[^key-1e2de619588bfb19f6d1f1f20ce877a6]
+### 2A. Members who do not fall within any of the cases in paragraph 2[^c-1e2de619588bfb19f6d1f1f20ce877a6]
 
 (1) This paragraph applies for the purpose of determining the relevant contribution rate for the current scheme year for a member who—
 
@@ -97,17 +97,17 @@ For the purposes of this Schedule—
 
 (4) A member is regarded as being in pensionable employment throughout the previous scheme year regardless of any period in that year during which the member continued to be employed by the same employer but did not make contributions to this scheme.
 
-(5) For the purposes of calculating the member’s pensionable earnings, amounts equal to reduced[^key-406d6b1516c49a2f16c775368f7a364e] pensionable earnings that the member is treated as having received during an absence from work (see regulation 28) is included.
+(5) For the purposes of calculating the member’s pensionable earnings, amounts equal to reduced[^c-406d6b1516c49a2f16c775368f7a364e] pensionable earnings that the member is treated as having received during an absence from work (see regulation 28) is included.
 
 (6) The amount of pensionable earnings determined in accordance with this paragraph must be rounded down to the nearest whole pound.
 
 ### 3. Change to employment or rate of pensionable earnings or allowances
 
-(1) If, at any time during the current scheme year, a member starts a new employment, the member must pay contributions in respect of the employment at the rate specified in column 2 of the table in paragraph (3A)[^key-2fb6974222bcdc834997ed89b735fb58] of regulation 30 in respect of the amount of pensionable earnings referred to in column 1 of that table which corresponds to the member's pensionable earnings determined in accordance with sub-paragraph (5).
+(1) If, at any time during the current scheme year, a member starts a new employment, the member must pay contributions in respect of the employment at the rate specified in column 2 of the table in paragraph (3A)[^c-2fb6974222bcdc834997ed89b735fb58] of regulation 30 in respect of the amount of pensionable earnings referred to in column 1 of that table which corresponds to the member's pensionable earnings determined in accordance with sub-paragraph (5).
 
 (2) If at any time during the current scheme year, a change is made to a member's annual rate of pensionable earnings or pensionable allowances in respect of an existing employment, the member must pay contributions—
 
-- (a) from the first day of the next pay period immediately following the pay period in which the change is made at the rate specified in column 2 of the table in paragraph (3A)[^key-4b7f7ed3291e9b7f68fa0e37e76157ad] of regulation 30 in respect of the amount of pensionable earnings referred to in column 1 of that table which corresponds to the member's pensionable earnings determined in accordance with sub-paragraph (5); and
+- (a) from the first day of the next pay period immediately following the pay period in which the change is made at the rate specified in column 2 of the table in paragraph (3A)[^c-4b7f7ed3291e9b7f68fa0e37e76157ad] of regulation 30 in respect of the amount of pensionable earnings referred to in column 1 of that table which corresponds to the member's pensionable earnings determined in accordance with sub-paragraph (5); and
 - (b) as if the member's employment had started on that date.
 
 (3) Sub-paragraph (2) does not apply to a change made to a member's annual rate of pensionable allowances in respect of an existing employment that is determined by the member's employer to have been made in respect of—
@@ -115,15 +115,15 @@ For the purposes of this Schedule—
 - (a) unplanned changes to the member's duties; or
 - (b) changes to the member's duties that are unlikely to last for more than 12 months.
 
-(4)[^key-ad10b08545b0d45f67c4b14b79895d9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ad10b08545b0d45f67c4b14b79895d9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1b88ae22e19db2424d3f6cdd5a2addf3] Where sub-paragraph (1) or (2) applies the scheme manager must determine the member’s pensionable earnings by applying the formula—
+(5)[^c-1b88ae22e19db2424d3f6cdd5a2addf3] Where sub-paragraph (1) or (2) applies the scheme manager must determine the member’s pensionable earnings by applying the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2015/94)
 
 where—
 
-- EPE is the pensionable earnings that the member’s employing authority estimates will be payable to the member from the date the employment mentioned in that sub-paragraph starts to the end of the current scheme year (including amounts equal to reduced pensionable earnings that the member is treated as having received during an absence from work (see regulation 28))[^key-da72b361080bc86bdf98993b6010d933]; and
+- EPE is the pensionable earnings that the member’s employing authority estimates will be payable to the member from the date the employment mentioned in that sub-paragraph starts to the end of the current scheme year (including amounts equal to reduced pensionable earnings that the member is treated as having received during an absence from work (see regulation 28))[^c-da72b361080bc86bdf98993b6010d933]; and
 - NDPE is the number of days of pensionable employment from the date the employment starts to the end of that year.
 
 (6) Sub-paragraph (7) applies if—
@@ -131,7 +131,7 @@ where—
 - (a) sub-paragraph (1) applies to a member; and
 - (b) at the time the member becomes an active member in an employment falling within group A, B or C in regulation 27(1), it is apparent that the member's pensionable earnings in the employment includes a variable amount.
 
-(7) The variable amount mentioned in sub-paragraph (6) is to be taken as such amount as the employing authority considers appropriate for the current scheme year[^key-f2d205eef73318b60cb9d2b7f344aade].
+(7) The variable amount mentioned in sub-paragraph (6) is to be taken as such amount as the employing authority considers appropriate for the current scheme year[^c-f2d205eef73318b60cb9d2b7f344aade].
 
 ### 4. Small payments: changed circumstances
 
@@ -170,32 +170,32 @@ where—
 
 ## Annotations
 
-[^key-4007186460f7440961d964f1f4fa8010]: Modification: [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/11/2/a)
+[^c-4007186460f7440961d964f1f4fa8010]: Modification: [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/11/2/a)
 
-[^key-ff4ab12e1c27086cff6b1d7cbb9fa97d]: Textual amendment: Words in [Sch. 11 para. 2(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/1) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/a/i)
+[^c-ff4ab12e1c27086cff6b1d7cbb9fa97d]: Textual amendment: Words in [Sch. 11 para. 2(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/1) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/a/i)
 
-[^key-8baa7bc562c1ca9d5c8c11fc80241535]: Textual amendment: Words in [Sch. 11 para. 2(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/1) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/a/ii)
+[^c-8baa7bc562c1ca9d5c8c11fc80241535]: Textual amendment: Words in [Sch. 11 para. 2(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/1) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/a/ii)
 
-[^key-0db8de63d5b613b45719487c652f125d]: Textual amendment: [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/2) Table substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/b)
+[^c-0db8de63d5b613b45719487c652f125d]: Textual amendment: [Sch. 11 para. 2(2)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/2) Table substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/b)
 
-[^key-0f44b59e17fbc7bc37e13f6068b259b2]: Textual amendment: [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/3) omitted (1.10.2022) by virtue of [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/c)
+[^c-0f44b59e17fbc7bc37e13f6068b259b2]: Textual amendment: [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/3) omitted (1.10.2022) by virtue of [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/c)
 
-[^key-0d657425616884816ef4e9109cf8f47d]: Textual amendment: [Sch. 11 para. 2(4)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/4) omitted (1.10.2022) by virtue of [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/c)
+[^c-0d657425616884816ef4e9109cf8f47d]: Textual amendment: [Sch. 11 para. 2(4)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/4) omitted (1.10.2022) by virtue of [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(2)(c)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/2/c)
 
-[^key-15840c39b1c91775461375fc8d39ca7e]: Textual amendment: Words in [Sch. 11 para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/6/b) substituted (1.4.2025 with effect from 1.10.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/7), [31(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/31/2)
+[^c-15840c39b1c91775461375fc8d39ca7e]: Textual amendment: Words in [Sch. 11 para. 2(6)(b)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2/6/b) substituted (1.4.2025 with effect from 1.10.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/7), [31(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/31/2)
 
-[^key-1e2de619588bfb19f6d1f1f20ce877a6]: Textual amendment: [Sch. 11 para. 2A](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2A) inserted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/3)
+[^c-1e2de619588bfb19f6d1f1f20ce877a6]: Textual amendment: [Sch. 11 para. 2A](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2A) inserted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/3)
 
-[^key-406d6b1516c49a2f16c775368f7a364e]: Textual amendment: Words in [Sch. 11 para. 2A(5)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2A/5) substituted (1.4.2025 with effect from 1.10.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/7), [31(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/31/3)
+[^c-406d6b1516c49a2f16c775368f7a364e]: Textual amendment: Words in [Sch. 11 para. 2A(5)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/2A/5) substituted (1.4.2025 with effect from 1.10.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/7), [31(3)](https://www.legislation.gov.uk/uksi/2025/316/regulation/31/3)
 
-[^key-2fb6974222bcdc834997ed89b735fb58]: Textual amendment: Word in [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/1) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(a)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/a)
+[^c-2fb6974222bcdc834997ed89b735fb58]: Textual amendment: Word in [Sch. 11 para. 3(1)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/1) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(a)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/a)
 
-[^key-4b7f7ed3291e9b7f68fa0e37e76157ad]: Textual amendment: Word in [Sch. 11 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/2/a) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(b)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/b)
+[^c-4b7f7ed3291e9b7f68fa0e37e76157ad]: Textual amendment: Word in [Sch. 11 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/2/a) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(b)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/b)
 
-[^key-ad10b08545b0d45f67c4b14b79895d9d]: Textual amendment: [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/4) omitted (1.10.2022) by virtue of [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(c)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/c)
+[^c-ad10b08545b0d45f67c4b14b79895d9d]: Textual amendment: [Sch. 11 para. 3(4)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/4) omitted (1.10.2022) by virtue of [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(c)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/c)
 
-[^key-1b88ae22e19db2424d3f6cdd5a2addf3]: Textual amendment: [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/5) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(d)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/d)
+[^c-1b88ae22e19db2424d3f6cdd5a2addf3]: Textual amendment: [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/5) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(d)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/d)
 
-[^key-da72b361080bc86bdf98993b6010d933]: Textual amendment: Words in [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/5) inserted (1.4.2025 with effect from 1.10.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/7), [31(4)](https://www.legislation.gov.uk/uksi/2025/316/regulation/31/4)
+[^c-da72b361080bc86bdf98993b6010d933]: Textual amendment: Words in [Sch. 11 para. 3(5)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/5) inserted (1.4.2025 with effect from 1.10.2022) by [The National Health Service Pension Schemes (Amendment) Regulations 2025 (S.I. 2025/316)](https://www.legislation.gov.uk/uksi/2025/316), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2025/316/regulation/1/7), [31(4)](https://www.legislation.gov.uk/uksi/2025/316/regulation/31/4)
 
-[^key-f2d205eef73318b60cb9d2b7f344aade]: Textual amendment: Words in [Sch. 11 para. 3(7)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/7) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(e)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/e)
+[^c-f2d205eef73318b60cb9d2b7f344aade]: Textual amendment: Words in [Sch. 11 para. 3(7)](https://www.legislation.gov.uk/uksi/2015/94/schedule/11/paragraph/3/7) substituted (1.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3), [7(4)(e)](https://www.legislation.gov.uk/uksi/2022/273/regulation/7/4/e)

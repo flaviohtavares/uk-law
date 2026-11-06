@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Reviews of proprietary trading: interpretation[^key-9d384165dfc62186ebd3429759648924]
+## 11. Reviews of proprietary trading: interpretation[^c-9d384165dfc62186ebd3429759648924]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d384165dfc62186ebd3429759648924]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/33/section/11) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(j)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/j)
+[^c-9d384165dfc62186ebd3429759648924]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/33/section/11) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(j)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/j)
 
 [^M_F_b2acb4e2-a70b-484b-d395-672eab6f4cf2]: Textual amendment: Words in s. 11(3)(b) substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/15) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))

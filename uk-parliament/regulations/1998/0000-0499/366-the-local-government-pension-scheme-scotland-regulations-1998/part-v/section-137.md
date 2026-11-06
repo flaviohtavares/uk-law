@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 137. Rights under section 12 of the Superannuation Act 1972[^key-c4f5567ffb2969c07bc38f5b7eaaeb24]
+## 137. Rights under section 12 of the Superannuation Act 1972[^c-c4f5567ffb2969c07bc38f5b7eaaeb24]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ and these Regulations shall have effect accordingly.
 
 ## Annotations
 
-[^key-c4f5567ffb2969c07bc38f5b7eaaeb24]: Commencement: Reg. 137 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c4f5567ffb2969c07bc38f5b7eaaeb24]: Commencement: Reg. 137 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

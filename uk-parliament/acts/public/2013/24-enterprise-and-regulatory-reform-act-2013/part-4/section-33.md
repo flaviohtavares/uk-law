@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Power of CMA to make cross-market references[^key-cdc3e935afe43a741c4722326ed7bfa6]
+## 33. Power of CMA to make cross-market references[^c-cdc3e935afe43a741c4722326ed7bfa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdc3e935afe43a741c4722326ed7bfa6]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2013/24/section/33) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-cdc3e935afe43a741c4722326ed7bfa6]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2013/24/section/33) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

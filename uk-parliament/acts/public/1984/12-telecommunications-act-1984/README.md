@@ -31,9 +31,9 @@ Telecommunications Act 1984
 
 An Act to provide for the appointment and functions of a Director General of Telecommunications; to abolish British Telecommunications’ exclusive privilege with respect to telecommunications and to make new provision with respect to the provision of telecommunication services and certain related services; to make provision, in substitution for the Telegraph Acts 1863 to 1916 and Part IV of the Post Office Act 1969, for the matters there dealt with and related matters; to provide for the vesting of property, rights and liabilities of British Telecommunications in a company nominated by the Secretary of State and the subsequent dissolution of British Telecommunications; to make provision with respect to the finances of that company; to amend the Wireless Telegraphy Acts 1949 to 1967, to make further provision for facilitating enforcement of those Acts and otherwise to make provision with respect to wireless telegraphy apparatus and certain related apparatus; to give statutory authority for the payment out of money provided by Parliament of expenses incurred by the Secretary of State in providing a radio interference service; to increase the maximum number of members of British Telecommunications pending its dissolution; and for connected purposes.
 
-\[12th April 1984\] [^c13616741][^c19218721][^c19218971][^key-4257375bc0516fde7ba7948e2eb9a4e4]
+\[12th April 1984\] [^c13616741][^c19218721][^c19218971][^c-4257375bc0516fde7ba7948e2eb9a4e4]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-43b11ac1b78af48e00726cf1c8be3892]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-43b11ac1b78af48e00726cf1c8be3892]
 
 ## Contents
 
@@ -283,9 +283,9 @@ SCHEDULES
 
 [^c19218971]: Modification: Act modified (25.7.2003) by [The Radio Equipment and Telecommunications Terminal Equipment Regulations 2000 (S.I. 2000/730)](https://www.legislation.gov.uk/uksi/2000/730), [reg. 6(2)(3)](https://www.legislation.gov.uk/uksi/2000/730/regulation/6/2/3) (as substituted by [The Radio Equipment and Telecommunications Terminal Equipment (Amendment) Regulations 2003 (S.I. 2003/1903)](https://www.legislation.gov.uk/uksi/2003/1903), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/2/6)
 
-[^key-4257375bc0516fde7ba7948e2eb9a4e4]: Modification: Act applied (E.W.S.) (22.12.2017) by [The M20 Junction 10a Development Consent Order 2017 (S.I. 2017/1202)](https://www.legislation.gov.uk/uksi/2017/1202), [art. 17(4)](https://www.legislation.gov.uk/uksi/2017/1202/article/17/4) (with [arts. 4](https://www.legislation.gov.uk/uksi/2017/1202/article/4), [37](https://www.legislation.gov.uk/uksi/2017/1202/article/37))
+[^c-4257375bc0516fde7ba7948e2eb9a4e4]: Modification: Act applied (E.W.S.) (22.12.2017) by [The M20 Junction 10a Development Consent Order 2017 (S.I. 2017/1202)](https://www.legislation.gov.uk/uksi/2017/1202), [art. 17(4)](https://www.legislation.gov.uk/uksi/2017/1202/article/17/4) (with [arts. 4](https://www.legislation.gov.uk/uksi/2017/1202/article/4), [37](https://www.legislation.gov.uk/uksi/2017/1202/article/37))
 
-[^key-43b11ac1b78af48e00726cf1c8be3892]: Modification: Act modified (E.W.) (6.8.2020) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [arts. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [15(4)](https://www.legislation.gov.uk/uksi/2020/746/article/15/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
+[^c-43b11ac1b78af48e00726cf1c8be3892]: Modification: Act modified (E.W.) (6.8.2020) by [The A19 Downhill Lane Junction Development Consent Order 2020 (S.I. 2020/746)](https://www.legislation.gov.uk/uksi/2020/746), [arts. 1](https://www.legislation.gov.uk/uksi/2020/746/article/1), [15(4)](https://www.legislation.gov.uk/uksi/2020/746/article/15/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/746/article/5))
 
 [^c13616961]: Modification: [Pt. II](https://www.legislation.gov.uk/ukpga/1984/12/part/II) (ss. 5-46) excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 7(4)](https://www.legislation.gov.uk/uksi/1999/1736/article/7/4)
 

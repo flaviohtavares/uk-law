@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d93664d08ff742960aeba149540d1e5c] Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any responsible officer of the body corporate, he, as well as the body corporate, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(1)[^c-d93664d08ff742960aeba149540d1e5c] Where an offence under this Act which has been committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any responsible officer of the body corporate, he, as well as the body corporate, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-(2)[^key-257ed1350b8efbceb7d9f46aacd5167e] In subsection (1) above, “responsible officer” means any director, manager, secretary or other similar officer of the body corporate, or of a branch or department of the body corporate, or any person purporting to act in any such capacity.
+(2)[^c-257ed1350b8efbceb7d9f46aacd5167e] In subsection (1) above, “responsible officer” means any director, manager, secretary or other similar officer of the body corporate, or of a branch or department of the body corporate, or any person purporting to act in any such capacity.
 
 ## Annotations
 
-[^key-d93664d08ff742960aeba149540d1e5c]: Textual amendment: S. 30(1): s. 30 renumbered as s. 30(1) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-d93664d08ff742960aeba149540d1e5c]: Textual amendment: S. 30(1): s. 30 renumbered as s. 30(1) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-257ed1350b8efbceb7d9f46aacd5167e]: Textual amendment: S. 30(2) added (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-257ed1350b8efbceb7d9f46aacd5167e]: Textual amendment: S. 30(2) added (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2005/848/schedule/1/paragraph/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

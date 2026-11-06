@@ -37,7 +37,7 @@ summary: ''
 
 (6) The court may accept service of such a declaration by that person after that period has expired; and a statutory declaration so accepted shall be taken to have been served as required by subsection (1).
 
-(7) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^key-35daa32c9bde028ff40ae1d2c5ad2ed3] .
+(7) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^c-35daa32c9bde028ff40ae1d2c5ad2ed3] .
 
 (8) For the purposes of this section, a person shall be taken to receive notice of the registration of a sum under section 24 for enforcement against that person as a fine when that person receives notice either of the registration as such or of any proceedings for enforcing payment of the sum registered.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35daa32c9bde028ff40ae1d2c5ad2ed3]: Textual amendment: Words in s. 25(7) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/8/3); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c) (but this amendment cannot take effect until the commencement of 2015 c. 9 (NI), s. 25)
+[^c-35daa32c9bde028ff40ae1d2c5ad2ed3]: Textual amendment: Words in s. 25(7) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/8/3); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c) (but this amendment cannot take effect until the commencement of 2015 c. 9 (NI), s. 25)

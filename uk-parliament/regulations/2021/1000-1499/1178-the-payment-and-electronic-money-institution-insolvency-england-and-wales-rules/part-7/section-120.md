@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Proving a debt[^key-0739d688830343fa4b2448f02d7fdad7]
+## 120. Proving a debt[^c-0739d688830343fa4b2448f02d7fdad7]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0739d688830343fa4b2448f02d7fdad7]: Commencement: Rule 120 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0739d688830343fa4b2448f02d7fdad7]: Commencement: Rule 120 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

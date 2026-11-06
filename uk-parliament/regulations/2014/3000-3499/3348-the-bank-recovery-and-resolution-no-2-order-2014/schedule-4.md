@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Modified application of the Companies Act 2006 to banks etc in resolution[^key-f6435a914c7ce1a65b039f785c0f3c02]
+## SCHEDULE 4 — Modified application of the Companies Act 2006 to banks etc in resolution[^c-f6435a914c7ce1a65b039f785c0f3c02]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,7 +124,7 @@ Article 220(4)
 
 **22.** Section 360A (electronic meetings and voting) has effect as if subsections (2) and (3) were omitted.
 
-**23.**[^key-c08f01fa86ebd5b7914e267e0dbb31c1] Part 13 has effect as if the following sections were omitted—
+**23.**[^c-c08f01fa86ebd5b7914e267e0dbb31c1] Part 13 has effect as if the following sections were omitted—
 
 - (a) section 360AA (traded companies: confirmation of receipt of electronic voting);
 - (b) section 360B (traded companies: requirements for participating in and voting at general meetings); and
@@ -222,12 +222,12 @@ Article 220(4)
 
 ## Annotations
 
-[^key-f6435a914c7ce1a65b039f785c0f3c02]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3348/schedule/4) applied (with modifications) (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1313/regulation/5)
+[^c-f6435a914c7ce1a65b039f785c0f3c02]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3348/schedule/4) applied (with modifications) (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1313/regulation/5)
 
 [^c22309241]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^c22309251]: Marginal citation: The modifications have effect in relation to provisions of the Act inserted, substituted or amended by [S.I. 2009/1632](https://www.legislation.gov.uk/uksi/2009/1632).
 
-[^key-c08f01fa86ebd5b7914e267e0dbb31c1]: Textual amendment: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2014/3348/schedule/4/paragraph/23) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [60](https://www.legislation.gov.uk/uksi/2020/1350/regulation/60)
+[^c-c08f01fa86ebd5b7914e267e0dbb31c1]: Textual amendment: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2014/3348/schedule/4/paragraph/23) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [60](https://www.legislation.gov.uk/uksi/2020/1350/regulation/60)
 
 [^c22309261]: Marginal citation: See article 216(3) of this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Provision of information to the Office for Budget Responsibility[^key-5065b490a32feae9b17c65133b923d5f]
+## 65. Provision of information to the Office for Budget Responsibility[^c-5065b490a32feae9b17c65133b923d5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ After section 66 of the Government of Wales Act 2006 insert—
 
 ## Annotations
 
-[^key-5065b490a32feae9b17c65133b923d5f]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2017/4/section/65) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+[^c-5065b490a32feae9b17c65133b923d5f]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2017/4/section/65) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)

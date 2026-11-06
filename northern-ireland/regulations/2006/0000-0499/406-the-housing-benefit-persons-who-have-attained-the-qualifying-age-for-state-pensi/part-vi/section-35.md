@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Calculation of earnings of self-employed earners[^key-47d130c494b427ef774977626e5628b9]
+## 35. Calculation of earnings of self-employed earners[^c-47d130c494b427ef774977626e5628b9]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47d130c494b427ef774977626e5628b9]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/406/regulation/35) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-47d130c494b427ef774977626e5628b9]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/406/regulation/35) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

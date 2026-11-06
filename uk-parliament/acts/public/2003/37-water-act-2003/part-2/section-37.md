@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Conditions relating to costs of water regulation[^key-3dbb49948bd7ca118450ee76db454517]
+## 37. Conditions relating to costs of water regulation[^c-3dbb49948bd7ca118450ee76db454517]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dbb49948bd7ca118450ee76db454517]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2003/37/section/37) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/641/article/3/j)
+[^c-3dbb49948bd7ca118450ee76db454517]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2003/37/section/37) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(j)](https://www.legislation.gov.uk/uksi/2004/641/article/3/j)

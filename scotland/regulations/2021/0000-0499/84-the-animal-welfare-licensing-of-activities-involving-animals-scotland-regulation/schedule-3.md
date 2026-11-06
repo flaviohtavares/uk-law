@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-c191f81fb9766a6f3fee90110eaf1328]
+### 1. Interpretation[^c-c191f81fb9766a6f3fee90110eaf1328]
 
 In this schedule—
 
@@ -30,7 +30,7 @@ In this schedule—
 - “premises” means the premises specified in the licence and on which the licensable activity described in paragraph 1 of schedule 1 is carried on,
 - “purchaser” means a person who purchases an animal to be kept or to be resold as a pet.
 
-### 2. Records and advertisements[^key-fb050e4ee715ddc04bc35d12d63d1042]
+### 2. Records and advertisements[^c-fb050e4ee715ddc04bc35d12d63d1042]
 
 (1) A register must be maintained for all the animals or, in the case of fish or other animals (not including dogs and cats) kept in groups where it is not practicable to keep individual records, all the groups of such animals, on the premises which must include—
 
@@ -63,7 +63,7 @@ In this schedule—
 - (e) state the country of residence of the animal from which it is being sold, and
 - (f) state the country of origin of the animal.
 
-### 3. Prospective sales: pet care and advice[^key-d7d23499adbd92ece83db0d7de4fc20c]
+### 3. Prospective sales: pet care and advice[^c-d7d23499adbd92ece83db0d7de4fc20c]
 
 (1) Any equipment and accessories being sold with an animal must be suitable for the animal.
 
@@ -88,7 +88,7 @@ if the licensable activity is conducted in a way that involves persons attending
 
 (5) The purchaser must be informed of, where known, the country of origin, age, sex and veterinary record of the animal being sold.
 
-### 4. Suitable accommodation[^key-789bfd9ff4ce1d8360a3e5c3ab036cdf]
+### 4. Suitable accommodation[^c-789bfd9ff4ce1d8360a3e5c3ab036cdf]
 
 (1) Animals must be kept in housing which minimises stress including from other animals and the public.
 
@@ -96,7 +96,7 @@ if the licensable activity is conducted in a way that involves persons attending
 
 (3) Dangerous wild animals (if any) must be kept in secure accommodation that is lockable and appropriate for the species.
 
-### 5. Training and exercise[^key-e0c708cec5e7d689172e603c0e305141]
+### 5. Training and exercise[^c-e0c708cec5e7d689172e603c0e305141]
 
 (1) For species whose welfare depends partly on exercise, opportunities to exercise which benefit the animals’ physical and mental health must be provided, unless advice from a veterinary surgeon recommends otherwise.
 
@@ -107,7 +107,7 @@ if the licensable activity is conducted in a way that involves persons attending
 
 (3) The animals must have at least daily opportunities to interact with people where such interaction benefits their welfare.
 
-### 6. Sale of animals[^key-e556807384b729a0e2406d488350f0a4]
+### 6. Sale of animals[^c-e556807384b729a0e2406d488350f0a4]
 
 (1) No animal of any of the following descriptions may be sold as a pet, or sold with a view to being resold as a pet, by or on behalf of the licence holder—
 
@@ -123,7 +123,7 @@ if the licensable activity is conducted in a way that involves persons attending
 
 (4) No animal may be sold in any part of a road or public place or at a point of sale at a market (unless the point of sale at the market forms part of the premises).
 
-### 7. Protection from suffering, injury and disease[^key-89463e3beb4e175c9abf7a474b6b7c32]
+### 7. Protection from suffering, injury and disease[^c-89463e3beb4e175c9abf7a474b6b7c32]
 
 (1) All animals for sale must be in good health.
 
@@ -135,16 +135,16 @@ if the licensable activity is conducted in a way that involves persons attending
 
 ## Annotations
 
-[^key-c191f81fb9766a6f3fee90110eaf1328]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-c191f81fb9766a6f3fee90110eaf1328]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-fb050e4ee715ddc04bc35d12d63d1042]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-fb050e4ee715ddc04bc35d12d63d1042]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-d7d23499adbd92ece83db0d7de4fc20c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-d7d23499adbd92ece83db0d7de4fc20c]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-789bfd9ff4ce1d8360a3e5c3ab036cdf]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-789bfd9ff4ce1d8360a3e5c3ab036cdf]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-e0c708cec5e7d689172e603c0e305141]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e0c708cec5e7d689172e603c0e305141]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-e556807384b729a0e2406d488350f0a4]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e556807384b729a0e2406d488350f0a4]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-89463e3beb4e175c9abf7a474b6b7c32]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-89463e3beb4e175c9abf7a474b6b7c32]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/3/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

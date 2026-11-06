@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Operation of ethics committees[^key-c20ab54cbc3a90f94fdd0cbab1338a6a]
+## 9. Operation of ethics committees[^c-c20ab54cbc3a90f94fdd0cbab1338a6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ in accordance with the standing orders and standard operating procedures adopted
 
 ## Annotations
 
-[^key-c20ab54cbc3a90f94fdd0cbab1338a6a]: Textual amendment: Reg. 9 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/538/regulation/9)
+[^c-c20ab54cbc3a90f94fdd0cbab1338a6a]: Textual amendment: Reg. 9 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2025/538/regulation/9)

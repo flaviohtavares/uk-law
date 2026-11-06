@@ -40,7 +40,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### The emissions targets
 
-#### 1. The emissions targets for 2050[^key-e70cb704671f7d67d003c03ce582f655]
+#### 1. The emissions targets for 2050[^c-e70cb704671f7d67d003c03ce582f655]
 
 (1) The Northern Ireland departments must ensure that the net Northern Ireland emissions account for the year 2050 is at least 100% lower than the baseline.
 
@@ -48,23 +48,23 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (3) The duty in subsection (1) does not require the net Northern Ireland emissions account for methane for the year 2050 to be more than 46% lower than the baseline for methane.
 
-#### 2. Emissions targets for 2030 and 2040[^key-5f9b2f05f8f2383bb7034d3a5b939c2d]
+#### 2. Emissions targets for 2030 and 2040[^c-5f9b2f05f8f2383bb7034d3a5b939c2d]
 
 (1) The Department must set targets for the years 2030 and 2040 that are in line with the target for the year 2050.
 
 (2) Proposed targets for the years 2030 and 2040 must be laid before the Assembly within 24 months of this Act receiving Royal Assent and be approved by draft affirmative resolution.
 
-#### 3. The emissions target for 2040[^key-6f8c0fd4681857a37d36e1a8b706343f]
+#### 3. The emissions target for 2040[^c-6f8c0fd4681857a37d36e1a8b706343f]
 
-The Northern Ireland departments must ensure that the net Northern Ireland emissions account for the year 2040 is at least 77% lower than the baseline[^key-c0f7cd7ece42a87405f58ff4c3189811].
+The Northern Ireland departments must ensure that the net Northern Ireland emissions account for the year 2040 is at least 77% lower than the baseline[^c-c0f7cd7ece42a87405f58ff4c3189811].
 
-#### 4. The emissions target for 2030[^key-0bfa0e9ef9fcbd0c9d00a7c850416ecb]
+#### 4. The emissions target for 2030[^c-0bfa0e9ef9fcbd0c9d00a7c850416ecb]
 
 The Northern Ireland departments must ensure that the net Northern Ireland emissions account for the year 2030 is at least 48% lower than the baseline.
 
 ### Power to amend targets
 
-#### 5. Power to amend emissions targets[^key-87d3d597a8d1eb5294bb5c7b3632e0e9]
+#### 5. Power to amend emissions targets[^c-87d3d597a8d1eb5294bb5c7b3632e0e9]
 
 (1) The Department may by regulations amend section 1, 3 or 4 so as to specify—
 
@@ -75,7 +75,7 @@ The Northern Ireland departments must ensure that the net Northern Ireland emiss
 
 (3) See section 54 for restrictions on the powers conferred by subsections (1) and (2).
 
-#### 6. Duty to consider whether to revise targets[^key-47eaeb3b95ab9c0ab37cecb7aea6629c]
+#### 6. Duty to consider whether to revise targets[^c-47eaeb3b95ab9c0ab37cecb7aea6629c]
 
 (1) The Department must consider whether the targets in sections 3 and 4 are consistent with meeting the emissions target in section 1(1).
 
@@ -90,7 +90,7 @@ The Northern Ireland departments must ensure that the net Northern Ireland emiss
 
 ### Meaning of key concepts
 
-#### 7. Meaning of “baseline”[^key-37b78d22e594d5c790104a6d3333db3a]
+#### 7. Meaning of “baseline”[^c-37b78d22e594d5c790104a6d3333db3a]
 
 (1) The baseline is the aggregate amount of net Northern Ireland emissions of each greenhouse gas mentioned in the following table in the year specified in relation to that gas—
 
@@ -115,7 +115,7 @@ The Northern Ireland departments must ensure that the net Northern Ireland emiss
 
 (5) See section 55 for restrictions on the powers conferred by subsection (4).
 
-#### 8. Meaning of “net Northern Ireland emissions account”[^key-3c44bb468e3676d0cdde58a758aa9d24]
+#### 8. Meaning of “net Northern Ireland emissions account”[^c-3c44bb468e3676d0cdde58a758aa9d24]
 
 (1) The net Northern Ireland emissions account for a year is determined as follows—
 
@@ -135,7 +135,7 @@ The Northern Ireland departments must ensure that the net Northern Ireland emiss
 
 ### Meaning of underlying concepts
 
-#### 9. Meaning of “net Northern Ireland emissions”[^key-81b7dd48fe73236da92f2d0aa6f46b19]
+#### 9. Meaning of “net Northern Ireland emissions”[^c-81b7dd48fe73236da92f2d0aa6f46b19]
 
 (1) The amount of net Northern Ireland emissions of a greenhouse gas for a period is—
 
@@ -160,7 +160,7 @@ The Northern Ireland departments must ensure that the net Northern Ireland emiss
 
 (5) The amounts of Northern Ireland emissions and Northern Ireland removals of a gas for a period must be determined consistently with international carbon reporting practice (see section 63).
 
-#### 10. Meaning of “Northern Ireland emissions”: international aviation and shipping[^key-3c8f30319de9942daab8667965f3456d]
+#### 10. Meaning of “Northern Ireland emissions”: international aviation and shipping[^c-3c8f30319de9942daab8667965f3456d]
 
 (1) The Department may by regulations make provision for emissions of a greenhouse gas from international aviation or international shipping to count as Northern Ireland emissions of the gas.
 
@@ -171,7 +171,7 @@ The Northern Ireland departments must ensure that the net Northern Ireland emiss
 - (c) specify the period (whether past or future) for which emissions of a greenhouse gas from international aviation or international shipping are to count as Northern Ireland emissions of that gas;
 - (d) make provision about how emissions of a greenhouse gas from international aviation or international shipping are to be taken into account in determining Northern Ireland emissions of that gas for the year specified in section 7(1) in relation to it.
 
-#### 11. Crediting and debiting of carbon units[^key-c5f68883a92c7567e8071718461ea4d6]
+#### 11. Crediting and debiting of carbon units[^c-c5f68883a92c7567e8071718461ea4d6]
 
 (1) The Department may by regulations make provision about—
 
@@ -209,7 +209,7 @@ carbon units must be debited from the net Northern Ireland emissions account for
 - “CO2 emissions” is the amount of net Northern Ireland emissions of carbon dioxide for 2050;
 - “Total emissions” is the aggregate amount of net Northern Ireland emissions of each greenhouse gas for 2050.
 
-#### 12. Carbon units: accounting scheme[^key-be8a4819ca014b3042538b3716c2f277]
+#### 12. Carbon units: accounting scheme[^c-be8a4819ca014b3042538b3716c2f277]
 
 (1) The Department may by regulations make provision for a scheme—
 
@@ -230,7 +230,7 @@ carbon units must be debited from the net Northern Ireland emissions account for
 
 ### Sectoral plans
 
-#### 13. Sectoral plans[^key-02a6dfd93b00e8bc902d7b4bd0c8245c]
+#### 13. Sectoral plans[^c-02a6dfd93b00e8bc902d7b4bd0c8245c]
 
 (1) The Northern Ireland departments must develop and publish plans for areas of the economy, to be known as sectoral plans, setting out how the targets in sections 1, 3 and 4 will be achieved by sector.
 
@@ -247,33 +247,33 @@ carbon units must be debited from the net Northern Ireland emissions account for
 
 (5) The Department must make arrangements with the other Northern Ireland departments to secure co-operation and the submission of information for subsection (1), including the format and detail of the requirement outlined in subsection (3).
 
-#### 14. Sectoral plans for energy[^key-c63135e361ec92ff169c354fcb20b6f3]
+#### 14. Sectoral plans for energy[^c-c63135e361ec92ff169c354fcb20b6f3]
 
 (1) The Department for the Economy must develop and publish sectoral plans for the energy sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4.
 
 (2) Sectoral plans for energy must include proposals and policies for energy production and the supply of private and public heating and cooling systems.
 
-#### 15. Renewable electricity consumption[^key-2c17aa6fe2004b857a9f41787b0951a3]
+#### 15. Renewable electricity consumption[^c-2c17aa6fe2004b857a9f41787b0951a3]
 
 The Department for the Economy must ensure that at least 80% of electricity consumption is from renewable sources by 2030.
 
-#### 16. Sectoral plans for infrastructure[^key-23531a15f81bc094296171400b944d0d]
+#### 16. Sectoral plans for infrastructure[^c-23531a15f81bc094296171400b944d0d]
 
 (1) The Department for Infrastructure must develop and publish sectoral plans for the infrastructure sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4.
 
 (2) Sectoral plans for infrastructure must include proposals and policies for planning and construction.
 
-#### 17. Sectoral plans for industrial processes[^key-e8c2aeb3c2ef2dcb0f01818f09bba251]
+#### 17. Sectoral plans for industrial processes[^c-e8c2aeb3c2ef2dcb0f01818f09bba251]
 
 The Department for the Economy must develop and publish sectoral plans for the industrial processes sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4.
 
-#### 18. Sectoral plans for waste management[^key-cd577a31450e75e3c22f5a3509a3324f]
+#### 18. Sectoral plans for waste management[^c-cd577a31450e75e3c22f5a3509a3324f]
 
 (1) The Department must ensure that at least 70% of waste is recycled by 2030.
 
 (2) The Department must develop and publish sectoral plans for the waste management sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4 and subsection (1) of this section.
 
-#### 19. Sectoral plans for agriculture[^key-c99b6c4f75e132db1c3e7e5651e4a9a5]
+#### 19. Sectoral plans for agriculture[^c-c99b6c4f75e132db1c3e7e5651e4a9a5]
 
 (1) The Department must develop and publish sectoral plans for the agriculture sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4.
 
@@ -281,25 +281,25 @@ The Department for the Economy must develop and publish sectoral plans for the i
 
 (3) As part of the carbon auditing process, carbon sequestration measures already being conducted by the sector should be calculated.
 
-#### 20. Sectoral plans for fisheries[^key-c45d894d197b7ccebd326144cca45bc0]
+#### 20. Sectoral plans for fisheries[^c-c45d894d197b7ccebd326144cca45bc0]
 
 (1) The Department must develop and publish sectoral plans for the fisheries sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4.
 
 (2) Sectoral plans for fisheries must include proposals and policies for sea fisheries and the inland fisheries industry.
 
-#### 21. Sectoral plans for transport[^key-39e79c837a983acaec7b1bd3f090de65]
+#### 21. Sectoral plans for transport[^c-39e79c837a983acaec7b1bd3f090de65]
 
 (1) The Department for Infrastructure must develop and publish sectoral plans for the transport sector setting out how the sector will contribute to the achievement of the targets in sections 1, 3 and 4.
 
 (2) Sectoral plans for transport must include proposals and policies for public and private transport.
 
-#### 22. Active travel[^key-8275eef0257c3280ee98998dc9aaf007]
+#### 22. Active travel[^c-8275eef0257c3280ee98998dc9aaf007]
 
 The Department for Infrastructure must develop sectoral plans for transport which set a minimum spend on active travel from the overall transport budgets of 10%.
 
 ## PART 2 — Carbon Budgets
 
-### 23. Carbon budgets[^key-6d10e380c94dbb743ce91f1c70c75dbf]
+### 23. Carbon budgets[^c-6d10e380c94dbb743ce91f1c70c75dbf]
 
 (1) The Department must by regulations set a maximum total amount for the net Northern Ireland emissions account for each budgetary period.
 
@@ -328,11 +328,11 @@ That amount is referred to as the “carbon budget” for that period.
 - (a) sections 25 to 28 for provision about the setting and adjustment of carbon budgets, and
 - (b) section 55 for restrictions on the power conferred by subsection (5).
 
-### 24. Emissions not to exceed carbon budget[^key-790266a5f65c22f7e80f295a7c1dc88d]
+### 24. Emissions not to exceed carbon budget[^c-790266a5f65c22f7e80f295a7c1dc88d]
 
 The Northern Ireland departments must ensure that the net Northern Ireland emissions account for each budgetary period does not exceed the carbon budget for that period.
 
-### 25. Setting of carbon budgets: principles[^key-18dd898cf03fb7118aaecd45efefc07b]
+### 25. Setting of carbon budgets: principles[^c-18dd898cf03fb7118aaecd45efefc07b]
 
 The Department must—
 
@@ -340,7 +340,7 @@ The Department must—
 - (b) set the carbon budget for the budgetary periods 2033 to 2037 and 2038 to 2042 at a level that it is satisfied is consistent with meeting the emissions target for 2040 (see section 3); and
 - (c) set the carbon budget for the budgetary periods 2023 to 2027 and 2028 to 2032 at a level that it is satisfied is consistent with meeting the emissions targets for 2030 and 2040 (see sections 3 and 4).
 
-### 26. Setting of carbon budgets: social, environmental and economic factors[^key-e4964a0102f1705e0e5478ab4baa06cb]
+### 26. Setting of carbon budgets: social, environmental and economic factors[^c-e4964a0102f1705e0e5478ab4baa06cb]
 
 (1) In setting a carbon budget, the Department must take account of—
 
@@ -368,7 +368,7 @@ The Department must—
 
 (3) In subsection (2), “comparable climate change policies” are policies that are intended to achieve reductions in greenhouse gas emissions for the country in question which are equivalent to the targets set out in sections 1, 3 and 4, by the years set out in those sections.
 
-### 27. Setting of carbon budgets: timing[^key-83258e459b6f95a8b38e72c3a57185cc]
+### 27. Setting of carbon budgets: timing[^c-83258e459b6f95a8b38e72c3a57185cc]
 
 (1) The Department must—
 
@@ -382,7 +382,7 @@ The Department must—
 
 (3) See section 54 for restrictions on the power conferred by subsection (2)(a).
 
-### 28. Carrying amounts from one budgetary period to another[^key-c7574f33f589cbd65ecd3b61c3833fd8]
+### 28. Carrying amounts from one budgetary period to another[^c-c7574f33f589cbd65ecd3b61c3833fd8]
 
 (1) The Department may decide to carry part of the carbon budget for a budgetary period back to the preceding budgetary period.
 
@@ -420,7 +420,7 @@ by the amount carried forward.
 
 ### Carbon budgets
 
-#### 29. Proposals and policies for meeting carbon budget[^key-c3754c49388fde6973e6374acbb0360b]
+#### 29. Proposals and policies for meeting carbon budget[^c-c3754c49388fde6973e6374acbb0360b]
 
 (1) The Department must prepare and publish a report for each budgetary period setting out proposals and policies for meeting the carbon budget for that period.
 
@@ -443,7 +443,7 @@ by the amount carried forward.
 
 (9) The Department must lay the results of the public consultation in subsection (8) before the Assembly at the same time as it lays the report.
 
-#### 30. Requirements for proposals and policies under section 29[^key-702785c765144ef1bb56107b127f288e]
+#### 30. Requirements for proposals and policies under section 29[^c-702785c765144ef1bb56107b127f288e]
 
 (1) In deciding its proposals and policies for the purposes of section 29, each Northern Ireland department must—
 
@@ -490,7 +490,7 @@ by the amount carried forward.
 
 (9) The Department may by regulations amend subsection (3).
 
-#### 31. Just Transition Fund for Agriculture[^key-ddb19fccbd84f19b7ce6638282d58a23]
+#### 31. Just Transition Fund for Agriculture[^c-ddb19fccbd84f19b7ce6638282d58a23]
 
 (1) The Department must by regulations establish a scheme for the administration of a fund to be known as the “Just Transition Fund for Agriculture” for the purpose of providing advice and financial assistance to the agriculture sector to deliver its contribution under proposals and policies for the purposes of section 29.
 
@@ -516,7 +516,7 @@ by the amount carried forward.
   - (i) directly to those entitled to receive it under the scheme; or
   - (ii) indirectly (for example by being made to a public body on terms which require that body to provide financial assistance to those so entitled).
 
-#### 32. Proposals and policies: targets[^key-db67a9e15cb195c980b1bb3e562315fb]
+#### 32. Proposals and policies: targets[^c-db67a9e15cb195c980b1bb3e562315fb]
 
 (1) Climate action plans must contain targets to be achieved during the relevant budgetary period in the following areas—
 
@@ -539,7 +539,7 @@ but these targets are subject to subsection (2) of this section.
 - (a) greenhouse gas emissions, and
 - (b) air quality.
 
-#### 33. Proposals and policies: further provision[^key-4233e40751ee6eb48a6e701644505c74]
+#### 33. Proposals and policies: further provision[^c-4233e40751ee6eb48a6e701644505c74]
 
 Proposals and policies under section 29 must ensure that the relevant carbon budget is achieved in the following sectors—
 
@@ -558,11 +558,11 @@ Proposals and policies under section 29 must ensure that the relevant carbon bud
 
 provided that, when setting out proposals and policies in respect of energy production and supply, the advices and recommendations of the SEM Committee regarding matters in relation to which it has functions under Article 6(2) of the Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 must be obtained and must be taken into account.
 
-#### 34. Proposals and policies: nature based solutions[^key-124d1f5927d7616dd5eaf825f21384ae]
+#### 34. Proposals and policies: nature based solutions[^c-124d1f5927d7616dd5eaf825f21384ae]
 
 Proposals and policies under section 29 shall as far as is practicable, support nature based projects that enhance biodiversity, protect and restore ecosystems, and seek to reduce, or increase the removal of, greenhouse gas emissions or support climate resilience.
 
-#### 35. Proposals and policies: workforce, employers and communities[^key-f850c3d4880d06f847f3e36c6a4d2a03]
+#### 35. Proposals and policies: workforce, employers and communities[^c-f850c3d4880d06f847f3e36c6a4d2a03]
 
 (1) Each climate action plan must—
 
@@ -575,7 +575,7 @@ Proposals and policies under section 29 shall as far as is practicable, support 
 
 (4) The Department may by regulations amend subsection (3); and such regulations may define a small business by reference to such matters (or combination of matters) as the Department considers appropriate (including, in particular, the number of its employees, its turnover and its balance sheet).
 
-#### 36. Proposals and policies: carbon leakage[^key-f67716fdaecd2e04a17ffbaa2dbe515e]
+#### 36. Proposals and policies: carbon leakage[^c-f67716fdaecd2e04a17ffbaa2dbe515e]
 
 (1) In deciding its proposals and policies for the purposes of section 29, each Northern Ireland department must take into account—
 
@@ -586,7 +586,7 @@ Proposals and policies under section 29 shall as far as is practicable, support 
 
 (3) In subsection (2), “comparable climate change policies” are policies that are intended to achieve reductions in greenhouse gas emissions for the country in question which are equivalent to the targets set out in sections 1, 3 and 4, by the years set out in those sections.
 
-#### 37. Just Transition Commission[^key-41472203af8b30e4029b1ed483ce5a6b]
+#### 37. Just Transition Commission[^c-41472203af8b30e4029b1ed483ce5a6b]
 
 (1) The Department must by regulations establish a body to be known as the “Just Transition Commission”.
 
@@ -620,7 +620,7 @@ Proposals and policies under section 29 shall as far as is practicable, support 
 - (a) how the oversight function is to be performed;
 - (b) what the just transition elements of this Act are.
 
-#### 38. Interim progress reporting for budgetary period[^key-c194fd4e21fc066c7ce437bcca32c883]
+#### 38. Interim progress reporting for budgetary period[^c-c194fd4e21fc066c7ce437bcca32c883]
 
 (1) The Department must, during the course of each budgetary period, prepare and publish a report setting out what progress has been made in implementing the proposals and policies set out in the climate action plan prepared under section 29 for that period.
 
@@ -633,7 +633,7 @@ Proposals and policies under section 29 shall as far as is practicable, support 
 
 (4) The Department must lay the report for a budgetary period before the Assembly before the end of the third year of that period.
 
-#### 39. Final statement for budgetary period[^key-1c457699daf60064046333efd660ae40]
+#### 39. Final statement for budgetary period[^c-1c457699daf60064046333efd660ae40]
 
 (1) The Department must—
 
@@ -683,7 +683,7 @@ for the period.
 
 (12) Each Northern Ireland department must provide its explanation and assessment for a budgetary period before the end of the first 21 months after that period.
 
-#### 40. Proposals and policies where carbon budget not met[^key-475705a34b007b0dbefc3a0fdfa4950e]
+#### 40. Proposals and policies where carbon budget not met[^c-475705a34b007b0dbefc3a0fdfa4950e]
 
 (1) This section applies if the Department has laid a final statement before the Assembly under section 39 in respect of a budgetary period for which the net Northern Ireland emissions account exceeds the carbon budget.
 
@@ -693,7 +693,7 @@ for the period.
 
 ### Emissions targets
 
-#### 41. Statements on compliance with emissions targets[^key-1aed5834e3eb920f5c0ce253ff5d195d]
+#### 41. Statements on compliance with emissions targets[^c-1aed5834e3eb920f5c0ce253ff5d195d]
 
 (1) The Department must—
 
@@ -733,7 +733,7 @@ for the year to which the statement relates.
 
 ### Other reports
 
-#### 42. Climate change reporting by public bodies[^key-4806acbcbceccc6730682d223f18982d]
+#### 42. Climate change reporting by public bodies[^c-4806acbcbceccc6730682d223f18982d]
 
 (1) The Department must make regulations that impose, on specified public bodies, specified climate change reporting duties.
 
@@ -773,7 +773,7 @@ for the year to which the statement relates.
 
 ## PART 4 — Reports by Committee on Climate Change
 
-### 43. Progress report during first budgetary period[^key-f322ab6df2d38c8fdaab14f26025f389]
+### 43. Progress report during first budgetary period[^c-f322ab6df2d38c8fdaab14f26025f389]
 
 (1) Before the end of 2027, the Committee on Climate Change must send a report to the Department setting out the Committee’s views on—
 
@@ -785,7 +785,7 @@ for the year to which the statement relates.
 
 (2) The Department must lay a copy of the report before the Assembly as soon as reasonably practicable after receiving it.
 
-### 44. Progress reports after statement about each budgetary period[^key-b786c06de01464dbe11f0355d917606d]
+### 44. Progress reports after statement about each budgetary period[^c-b786c06de01464dbe11f0355d917606d]
 
 (1) No later than six months after the Department lays the final statement for a budgetary period before the Assembly under section 39, the Committee on Climate Change must send a report to the Department setting out the Committee’s views on—
 
@@ -801,7 +801,7 @@ for the year to which the statement relates.
 
 (3) The Department must lay a copy of the report before the Assembly as soon as reasonably practicable after receiving it.
 
-### 45. Progress report after statement about emissions target for 2030[^key-a44854ef1b0e49878aa0566660c41015]
+### 45. Progress report after statement about emissions target for 2030[^c-a44854ef1b0e49878aa0566660c41015]
 
 (1) No later than six months after the Department lays the statement under section 41 for 2030 before the Assembly, the Committee on Climate Change must send a report to the Department setting out the Committee’s views on—
 
@@ -812,7 +812,7 @@ for the year to which the statement relates.
 
 (2) The Department must lay a copy of the report before the Assembly as soon as reasonably practicable after receiving it.
 
-### 46. Progress report after statement about emissions target for 2040[^key-f8ee17a213bceec8086f814b0bdbef6d]
+### 46. Progress report after statement about emissions target for 2040[^c-f8ee17a213bceec8086f814b0bdbef6d]
 
 (1) No later than six months after the Department lays the statement under section 41 for 2040 before the Assembly, the Committee on Climate Change must send a report to the Department setting out the Committee’s views on—
 
@@ -823,7 +823,7 @@ for the year to which the statement relates.
 
 (2) The Department must lay a copy of the report before the Assembly as soon as reasonably practicable after receiving it.
 
-### 47. Response to progress reports[^key-bf6f06f568571dc74e31884f9c8566ae]
+### 47. Response to progress reports[^c-bf6f06f568571dc74e31884f9c8566ae]
 
 (1) The Department must prepare a response to the points raised by each report of the Committee on Climate Change under sections 43 to 46.
 
@@ -831,7 +831,7 @@ for the year to which the statement relates.
 
 (3) The Department must lay the response before the Assembly within six months of receiving the report from the Committee.
 
-### 48. Adaptation programme reports[^key-ec80cdb8617714a1e01f85f18b14959d]
+### 48. Adaptation programme reports[^c-ec80cdb8617714a1e01f85f18b14959d]
 
 (1) This section applies where a programme is laid before the Assembly under section 60 of the Climate Change Act 2008 (programme for adaptation to climate change for Northern Ireland).
 
@@ -842,7 +842,7 @@ for the year to which the statement relates.
 
 (3) The Department must lay a copy of the report before the Assembly as soon as reasonably practicable after receiving it.
 
-### 49. Response to adaptation programme reports[^key-54572019840c1a2796a735cbac1d7ba3]
+### 49. Response to adaptation programme reports[^c-54572019840c1a2796a735cbac1d7ba3]
 
 (1) The Department must prepare a response to the points raised by each report of the Committee on Climate Change under section 48.
 
@@ -852,7 +852,7 @@ for the year to which the statement relates.
 
 ## PART 5 — FURTHER OVERSIGHT
 
-### 50. Northern Ireland Climate Commissioner[^key-43d2cb3440193b68c9df73288a7fa664]
+### 50. Northern Ireland Climate Commissioner[^c-43d2cb3440193b68c9df73288a7fa664]
 
 (1) The Executive Office must by regulations establish an independent office to be known as the “Northern Ireland Climate Commissioner”.
 
@@ -873,7 +873,7 @@ for the year to which the statement relates.
 
 (5) The first regulations under subsection (1) must be laid in draft before the Assembly within the period of 2 years beginning with the day on which this Act receives Royal Assent.
 
-### 51. Climate action plan[^key-9c4d78abbb2854b540718ca9480fccc4]
+### 51. Climate action plan[^c-9c4d78abbb2854b540718ca9480fccc4]
 
 (1) The Department must lay before the Assembly and publish a plan, known as the climate action plan, within 24 months from the day on which this Act receives Royal Assent.
 
@@ -896,7 +896,7 @@ for the year to which the statement relates.
 
 ### Duties in relation to emissions
 
-#### 52. Duties to ensure that targets etc are met[^key-d77b6f962d0ceee6faf2facb6f91a3e1]
+#### 52. Duties to ensure that targets etc are met[^c-d77b6f962d0ceee6faf2facb6f91a3e1]
 
 (1) The duties mentioned in sections 1, 3 to 5 and 24 on the Northern Ireland departments (namely, to ensure that the net Northern Ireland emissions account is below a certain amount and that the net Northern Ireland emissions account for carbon dioxide for 2050 is below a certain amount) are duties on each of them—
 
@@ -910,7 +910,7 @@ for the year to which the statement relates.
 
 ### Regulation-making powers: general
 
-#### 53. Regulations: general[^key-2ff88369e7c58822e77538363f4ceae9]
+#### 53. Regulations: general[^c-2ff88369e7c58822e77538363f4ceae9]
 
 (1) Regulations under this Act may make such consequential or supplementary provision as the Department considers appropriate.
 
@@ -927,7 +927,7 @@ for the year to which the statement relates.
 
 ### Regulation-making powers: restrictions and considerations
 
-#### 54. Regulations that amend or add an emissions target or amend a carbon budget[^key-249e2fa3aa77f65fed0c9a6de43358cb]
+#### 54. Regulations that amend or add an emissions target or amend a carbon budget[^c-249e2fa3aa77f65fed0c9a6de43358cb]
 
 (1) This section applies in relation to the making of regulations, under any provision of this Act, that—
 
@@ -953,7 +953,7 @@ for the year to which the statement relates.
 
 (4) But if the Department is satisfied that it is appropriate to make the regulations as a result of significant developments in a matter listed in subsection (2)(a) the Department is not also required by subsection (3) to have separate regard to that matter.
 
-#### 55. Regulations that specify a different baseline year or change a budgetary period[^key-3b773c7de4f39619b74688a2c9dad46b]
+#### 55. Regulations that specify a different baseline year or change a budgetary period[^c-3b773c7de4f39619b74688a2c9dad46b]
 
 (1) This section applies in relation to the making of regulations, under any provision of this Act, that—
 
@@ -964,7 +964,7 @@ for the year to which the statement relates.
 
 ### Regulation-making powers: advice
 
-#### 56. Requirement to obtain advice about proposals to make regulations[^key-3663483a68feddd575ef302588ea6cfa]
+#### 56. Requirement to obtain advice about proposals to make regulations[^c-3663483a68feddd575ef302588ea6cfa]
 
 (1) This section applies in relation to the making of regulations under any provision of this Act, except regulations that are made in accordance with section 54(2)(b) (recommendation by the Committee on Climate Change).
 
@@ -990,7 +990,7 @@ for the year to which the statement relates.
 
 (9) Otherwise, the Department must, on making the regulations, publish a statement setting out the reasons for the difference.
 
-#### 57. Advice about proposed regulations relating to targets[^key-f3908636063e8f35d3138711ee4321dc]
+#### 57. Advice about proposed regulations relating to targets[^c-f3908636063e8f35d3138711ee4321dc]
 
 (1) Subsections (2) and (3) apply where—
 
@@ -1015,7 +1015,7 @@ for the year to which the statement relates.
 - (b) scientific knowledge about climate change, and
 - (c) technology relevant to climate change.
 
-#### 58. Advice about proposed regulations relating to budgets[^key-8872d0d7e7e7b4aa2a2af9704772f542]
+#### 58. Advice about proposed regulations relating to budgets[^c-8872d0d7e7e7b4aa2a2af9704772f542]
 
 (1) This section applies where—
 
@@ -1043,7 +1043,7 @@ for the year to which the statement relates.
 
 ### Definitions
 
-#### 59. Meaning of “carbon unit”[^key-27b40ff24fba795f5ed4397197d8243c]
+#### 59. Meaning of “carbon unit”[^c-27b40ff24fba795f5ed4397197d8243c]
 
 In this Act, a “carbon unit” is a unit of a kind specified in regulations made by the Department and representing—
 
@@ -1051,7 +1051,7 @@ In this Act, a “carbon unit” is a unit of a kind specified in regulations ma
 - (b) the removal of an amount of greenhouse gas from the atmosphere, or
 - (c) an amount of greenhouse gas emissions allowed under a scheme or arrangement imposing a limit on such emissions.
 
-#### 60. Meaning of “greenhouse gas”[^key-725d339a7b80d6666f6b02ae11f9e493]
+#### 60. Meaning of “greenhouse gas”[^c-725d339a7b80d6666f6b02ae11f9e493]
 
 (1) In this Act, “greenhouse gas” means any of the following—
 
@@ -1065,7 +1065,7 @@ In this Act, a “carbon unit” is a unit of a kind specified in regulations ma
 
 (2) The Department may by regulations amend the list of greenhouse gases in subsection (1) so as to add a gas.
 
-#### 61. Meaning and measurement of emissions[^key-f22b7386f1a524dc03efddb708b5115a]
+#### 61. Meaning and measurement of emissions[^c-f22b7386f1a524dc03efddb708b5115a]
 
 (1) In this Act, “emissions”, in relation to a greenhouse gas, means emissions of that gas into the atmosphere that are attributable to human activity.
 
@@ -1077,7 +1077,7 @@ In this Act, a “carbon unit” is a unit of a kind specified in regulations ma
 
 (3) A “tonne of carbon dioxide equivalent” means one metric tonne of carbon dioxide or an amount of any other greenhouse gas with an equivalent global warming potential, calculated consistently with international carbon reporting practice (see section 63).
 
-#### 62. Meaning of “sector”[^key-7c2e3a5fa1e8dcb5bbd4b40a6d629141]
+#### 62. Meaning of “sector”[^c-7c2e3a5fa1e8dcb5bbd4b40a6d629141]
 
 In this Act “sector” or “sectors” refers to one or all of the following—
 
@@ -1093,7 +1093,7 @@ In this Act “sector” or “sectors” refers to one or all of the following�
   - (i) the promotion of economic development in Northern Ireland or any part of Northern Ireland; and
   - (ii) the provision of infrastructure, goods or services in Northern Ireland or any part of Northern Ireland.
 
-#### 63. Other definitions[^key-22322010441a2d794e1d64be2cf44599]
+#### 63. Other definitions[^c-22322010441a2d794e1d64be2cf44599]
 
 In this Act—
 
@@ -1108,144 +1108,144 @@ In this Act—
 
 ### General
 
-#### 64. Commencement[^key-7ceb8eba4f55caa51ce85e27877fa84b]
+#### 64. Commencement[^c-7ceb8eba4f55caa51ce85e27877fa84b]
 
 This Act comes into operation on the day after the day on which it receives Royal Assent.
 
-#### 65. Short title[^key-4ce079b5948cf69fe2eca8039a2ce5aa]
+#### 65. Short title[^c-4ce079b5948cf69fe2eca8039a2ce5aa]
 
 This Act may be cited as the Climate Change Act (Northern Ireland) 2022.
 
 ## Annotations
 
-[^key-e70cb704671f7d67d003c03ce582f655]: Commencement: S. 1 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-e70cb704671f7d67d003c03ce582f655]: Commencement: S. 1 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-5f9b2f05f8f2383bb7034d3a5b939c2d]: Commencement: S. 2 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-5f9b2f05f8f2383bb7034d3a5b939c2d]: Commencement: S. 2 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-6f8c0fd4681857a37d36e1a8b706343f]: Commencement: S. 3 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-6f8c0fd4681857a37d36e1a8b706343f]: Commencement: S. 3 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c0f7cd7ece42a87405f58ff4c3189811]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/nia/2022/31/section/3) substituted (12.12.2024) by [The Climate Change (2040 Emissions Target) Regulations (Northern Ireland) 2024 (S.R. 2024/214)](https://www.legislation.gov.uk/nisr/2024/214), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/214/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2024/214/regulation/2)
+[^c-c0f7cd7ece42a87405f58ff4c3189811]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/nia/2022/31/section/3) substituted (12.12.2024) by [The Climate Change (2040 Emissions Target) Regulations (Northern Ireland) 2024 (S.R. 2024/214)](https://www.legislation.gov.uk/nisr/2024/214), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/214/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2024/214/regulation/2)
 
-[^key-0bfa0e9ef9fcbd0c9d00a7c850416ecb]: Commencement: S. 4 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-0bfa0e9ef9fcbd0c9d00a7c850416ecb]: Commencement: S. 4 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-87d3d597a8d1eb5294bb5c7b3632e0e9]: Commencement: S. 5 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-87d3d597a8d1eb5294bb5c7b3632e0e9]: Commencement: S. 5 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-47eaeb3b95ab9c0ab37cecb7aea6629c]: Commencement: S. 6 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-47eaeb3b95ab9c0ab37cecb7aea6629c]: Commencement: S. 6 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-37b78d22e594d5c790104a6d3333db3a]: Commencement: S. 7 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-37b78d22e594d5c790104a6d3333db3a]: Commencement: S. 7 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-3c44bb468e3676d0cdde58a758aa9d24]: Commencement: S. 8 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-3c44bb468e3676d0cdde58a758aa9d24]: Commencement: S. 8 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-81b7dd48fe73236da92f2d0aa6f46b19]: Commencement: S. 9 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-81b7dd48fe73236da92f2d0aa6f46b19]: Commencement: S. 9 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-3c8f30319de9942daab8667965f3456d]: Commencement: S. 10 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-3c8f30319de9942daab8667965f3456d]: Commencement: S. 10 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c5f68883a92c7567e8071718461ea4d6]: Commencement: S. 11 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c5f68883a92c7567e8071718461ea4d6]: Commencement: S. 11 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-be8a4819ca014b3042538b3716c2f277]: Commencement: S. 12 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-be8a4819ca014b3042538b3716c2f277]: Commencement: S. 12 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-02a6dfd93b00e8bc902d7b4bd0c8245c]: Commencement: S. 13 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-02a6dfd93b00e8bc902d7b4bd0c8245c]: Commencement: S. 13 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c63135e361ec92ff169c354fcb20b6f3]: Commencement: S. 14 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c63135e361ec92ff169c354fcb20b6f3]: Commencement: S. 14 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-2c17aa6fe2004b857a9f41787b0951a3]: Commencement: S. 15 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-2c17aa6fe2004b857a9f41787b0951a3]: Commencement: S. 15 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-23531a15f81bc094296171400b944d0d]: Commencement: S. 16 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-23531a15f81bc094296171400b944d0d]: Commencement: S. 16 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-e8c2aeb3c2ef2dcb0f01818f09bba251]: Commencement: S. 17 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-e8c2aeb3c2ef2dcb0f01818f09bba251]: Commencement: S. 17 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-cd577a31450e75e3c22f5a3509a3324f]: Commencement: S. 18 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-cd577a31450e75e3c22f5a3509a3324f]: Commencement: S. 18 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c99b6c4f75e132db1c3e7e5651e4a9a5]: Commencement: S. 19 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c99b6c4f75e132db1c3e7e5651e4a9a5]: Commencement: S. 19 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c45d894d197b7ccebd326144cca45bc0]: Commencement: S. 20 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c45d894d197b7ccebd326144cca45bc0]: Commencement: S. 20 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-39e79c837a983acaec7b1bd3f090de65]: Commencement: S. 21 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-39e79c837a983acaec7b1bd3f090de65]: Commencement: S. 21 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-8275eef0257c3280ee98998dc9aaf007]: Commencement: S. 22 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-8275eef0257c3280ee98998dc9aaf007]: Commencement: S. 22 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-6d10e380c94dbb743ce91f1c70c75dbf]: Commencement: S. 23 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-6d10e380c94dbb743ce91f1c70c75dbf]: Commencement: S. 23 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-790266a5f65c22f7e80f295a7c1dc88d]: Commencement: S. 24 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-790266a5f65c22f7e80f295a7c1dc88d]: Commencement: S. 24 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-18dd898cf03fb7118aaecd45efefc07b]: Commencement: S. 25 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-18dd898cf03fb7118aaecd45efefc07b]: Commencement: S. 25 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-e4964a0102f1705e0e5478ab4baa06cb]: Commencement: S. 26 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-e4964a0102f1705e0e5478ab4baa06cb]: Commencement: S. 26 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-83258e459b6f95a8b38e72c3a57185cc]: Commencement: S. 27 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-83258e459b6f95a8b38e72c3a57185cc]: Commencement: S. 27 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c7574f33f589cbd65ecd3b61c3833fd8]: Commencement: S. 28 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c7574f33f589cbd65ecd3b61c3833fd8]: Commencement: S. 28 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c3754c49388fde6973e6374acbb0360b]: Commencement: S. 29 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c3754c49388fde6973e6374acbb0360b]: Commencement: S. 29 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-702785c765144ef1bb56107b127f288e]: Commencement: S. 30 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-702785c765144ef1bb56107b127f288e]: Commencement: S. 30 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-ddb19fccbd84f19b7ce6638282d58a23]: Commencement: S. 31 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-ddb19fccbd84f19b7ce6638282d58a23]: Commencement: S. 31 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-db67a9e15cb195c980b1bb3e562315fb]: Commencement: S. 32 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-db67a9e15cb195c980b1bb3e562315fb]: Commencement: S. 32 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-4233e40751ee6eb48a6e701644505c74]: Commencement: S. 33 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-4233e40751ee6eb48a6e701644505c74]: Commencement: S. 33 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-124d1f5927d7616dd5eaf825f21384ae]: Commencement: S. 34 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-124d1f5927d7616dd5eaf825f21384ae]: Commencement: S. 34 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-f850c3d4880d06f847f3e36c6a4d2a03]: Commencement: S. 35 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-f850c3d4880d06f847f3e36c6a4d2a03]: Commencement: S. 35 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-f67716fdaecd2e04a17ffbaa2dbe515e]: Commencement: S. 36 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-f67716fdaecd2e04a17ffbaa2dbe515e]: Commencement: S. 36 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-41472203af8b30e4029b1ed483ce5a6b]: Commencement: S. 37 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-41472203af8b30e4029b1ed483ce5a6b]: Commencement: S. 37 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-c194fd4e21fc066c7ce437bcca32c883]: Commencement: S. 38 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-c194fd4e21fc066c7ce437bcca32c883]: Commencement: S. 38 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-1c457699daf60064046333efd660ae40]: Commencement: S. 39 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-1c457699daf60064046333efd660ae40]: Commencement: S. 39 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-475705a34b007b0dbefc3a0fdfa4950e]: Commencement: S. 40 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-475705a34b007b0dbefc3a0fdfa4950e]: Commencement: S. 40 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-1aed5834e3eb920f5c0ce253ff5d195d]: Commencement: S. 41 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-1aed5834e3eb920f5c0ce253ff5d195d]: Commencement: S. 41 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-4806acbcbceccc6730682d223f18982d]: Commencement: S. 42 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-4806acbcbceccc6730682d223f18982d]: Commencement: S. 42 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-f322ab6df2d38c8fdaab14f26025f389]: Commencement: S. 43 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-f322ab6df2d38c8fdaab14f26025f389]: Commencement: S. 43 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-b786c06de01464dbe11f0355d917606d]: Commencement: S. 44 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-b786c06de01464dbe11f0355d917606d]: Commencement: S. 44 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-a44854ef1b0e49878aa0566660c41015]: Commencement: S. 45 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-a44854ef1b0e49878aa0566660c41015]: Commencement: S. 45 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-f8ee17a213bceec8086f814b0bdbef6d]: Commencement: S. 46 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-f8ee17a213bceec8086f814b0bdbef6d]: Commencement: S. 46 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-bf6f06f568571dc74e31884f9c8566ae]: Commencement: S. 47 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-bf6f06f568571dc74e31884f9c8566ae]: Commencement: S. 47 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-ec80cdb8617714a1e01f85f18b14959d]: Commencement: S. 48 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-ec80cdb8617714a1e01f85f18b14959d]: Commencement: S. 48 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-54572019840c1a2796a735cbac1d7ba3]: Commencement: S. 49 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-54572019840c1a2796a735cbac1d7ba3]: Commencement: S. 49 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-43d2cb3440193b68c9df73288a7fa664]: Commencement: S. 50 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-43d2cb3440193b68c9df73288a7fa664]: Commencement: S. 50 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-9c4d78abbb2854b540718ca9480fccc4]: Commencement: S. 51 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-9c4d78abbb2854b540718ca9480fccc4]: Commencement: S. 51 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-d77b6f962d0ceee6faf2facb6f91a3e1]: Commencement: S. 52 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-d77b6f962d0ceee6faf2facb6f91a3e1]: Commencement: S. 52 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-2ff88369e7c58822e77538363f4ceae9]: Commencement: S. 53 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-2ff88369e7c58822e77538363f4ceae9]: Commencement: S. 53 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-249e2fa3aa77f65fed0c9a6de43358cb]: Commencement: S. 54 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-249e2fa3aa77f65fed0c9a6de43358cb]: Commencement: S. 54 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-3b773c7de4f39619b74688a2c9dad46b]: Commencement: S. 55 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-3b773c7de4f39619b74688a2c9dad46b]: Commencement: S. 55 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-3663483a68feddd575ef302588ea6cfa]: Commencement: S. 56 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-3663483a68feddd575ef302588ea6cfa]: Commencement: S. 56 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-f3908636063e8f35d3138711ee4321dc]: Commencement: S. 57 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-f3908636063e8f35d3138711ee4321dc]: Commencement: S. 57 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-8872d0d7e7e7b4aa2a2af9704772f542]: Commencement: S. 58 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-8872d0d7e7e7b4aa2a2af9704772f542]: Commencement: S. 58 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-27b40ff24fba795f5ed4397197d8243c]: Commencement: S. 59 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-27b40ff24fba795f5ed4397197d8243c]: Commencement: S. 59 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-725d339a7b80d6666f6b02ae11f9e493]: Commencement: S. 60 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-725d339a7b80d6666f6b02ae11f9e493]: Commencement: S. 60 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-f22b7386f1a524dc03efddb708b5115a]: Commencement: S. 61 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-f22b7386f1a524dc03efddb708b5115a]: Commencement: S. 61 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-7c2e3a5fa1e8dcb5bbd4b40a6d629141]: Commencement: S. 62 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-7c2e3a5fa1e8dcb5bbd4b40a6d629141]: Commencement: S. 62 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-22322010441a2d794e1d64be2cf44599]: Commencement: S. 63 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-22322010441a2d794e1d64be2cf44599]: Commencement: S. 63 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-7ceb8eba4f55caa51ce85e27877fa84b]: Commencement: S. 64 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-7ceb8eba4f55caa51ce85e27877fa84b]: Commencement: S. 64 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
 
-[^key-4ce079b5948cf69fe2eca8039a2ce5aa]: Commencement: S. 65 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)
+[^c-4ce079b5948cf69fe2eca8039a2ce5aa]: Commencement: S. 65 in operation at 7.6.2022, see [s. 64](https://www.legislation.gov.uk/nia/2022/31/section/64)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Secure accommodation: placement in other circumstances[^key-4bf151f2059f9116fd0f1741776e9907]
+## 152. Secure accommodation: placement in other circumstances[^c-4bf151f2059f9116fd0f1741776e9907]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4bf151f2059f9116fd0f1741776e9907]: Commencement: S. 152 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4bf151f2059f9116fd0f1741776e9907]: Commencement: S. 152 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

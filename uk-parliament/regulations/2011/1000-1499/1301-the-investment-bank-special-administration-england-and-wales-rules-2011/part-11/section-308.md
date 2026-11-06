@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 308. The Gazette – general[^key-720c415525528f4ba718f26bc04bea85]
+## 308. The Gazette – general[^c-720c415525528f4ba718f26bc04bea85]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-720c415525528f4ba718f26bc04bea85]: Commencement: [Rule 308](https://www.legislation.gov.uk/uksi/2011/1301/rule/308) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-720c415525528f4ba718f26bc04bea85]: Commencement: [Rule 308](https://www.legislation.gov.uk/uksi/2011/1301/rule/308) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

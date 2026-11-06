@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Certification of documents and plans, etc.[^key-a2579e1666ba8cf7051df00a1e903fc3]
+## 12. Certification of documents and plans, etc.[^c-a2579e1666ba8cf7051df00a1e903fc3]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2579e1666ba8cf7051df00a1e903fc3]: Commencement: Art. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)
+[^c-a2579e1666ba8cf7051df00a1e903fc3]: Commencement: Art. 12 in force at 23.12.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1366/article/1)

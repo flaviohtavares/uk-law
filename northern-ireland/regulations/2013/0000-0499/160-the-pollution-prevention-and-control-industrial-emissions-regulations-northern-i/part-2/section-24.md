@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Revocation of permits[^key-d6c39bc0b3d12b5d2aab1f13d45a16f5]
+## 24. Revocation of permits[^c-d6c39bc0b3d12b5d2aab1f13d45a16f5]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ the revocation notice shall specify that this is the case and, in so far as thos
 
 ## Annotations
 
-[^key-d6c39bc0b3d12b5d2aab1f13d45a16f5]: Commencement: Reg. 24 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-d6c39bc0b3d12b5d2aab1f13d45a16f5]: Commencement: Reg. 24 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

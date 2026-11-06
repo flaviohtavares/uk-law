@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 385. Alternative to using CVA methods to calculating own funds requirements[^key-c6ee9c369e69b9cbe618b308b5198d3f]
+## Article 385. Alternative to using CVA methods to calculating own funds requirements[^c-c6ee9c369e69b9cbe618b308b5198d3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6ee9c369e69b9cbe618b308b5198d3f]: Textual amendment: [Art. 385](https://www.legislation.gov.uk/eur/2013/575/article/385) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/5) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1078/regulation/15)) (as amended by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [reg. 32(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/8))
+[^c-c6ee9c369e69b9cbe618b308b5198d3f]: Textual amendment: [Art. 385](https://www.legislation.gov.uk/eur/2013/575/article/385) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/5) (with [reg. 15](https://www.legislation.gov.uk/uksi/2021/1078/regulation/15)) (as amended by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [reg. 32(8)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/8))

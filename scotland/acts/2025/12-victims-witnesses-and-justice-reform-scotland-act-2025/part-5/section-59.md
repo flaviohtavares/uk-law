@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Prohibition on personal conduct of case[^key-24655c3c97f88c2e7fbfc2510cde5f0e]
+## 59. Prohibition on personal conduct of case[^c-24655c3c97f88c2e7fbfc2510cde5f0e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24655c3c97f88c2e7fbfc2510cde5f0e]: Commencement: S. 59 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-24655c3c97f88c2e7fbfc2510cde5f0e]: Commencement: S. 59 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

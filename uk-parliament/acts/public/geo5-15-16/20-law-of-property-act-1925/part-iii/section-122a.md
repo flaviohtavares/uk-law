@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122A. Contrary provision of no effect[^key-ec90e619e8ae021acdba6326a822a09a]
+## 122A. Contrary provision of no effect[^c-ec90e619e8ae021acdba6326a822a09a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ An instrument creating a rentcharge, or a contract or any other arrangement, (wh
 
 ## Annotations
 
-[^key-ec90e619e8ae021acdba6326a822a09a]: Textual amendment: [S. 122A](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/122A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(6)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/6), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a)
+[^c-ec90e619e8ae021acdba6326a822a09a]: Textual amendment: [S. 122A](https://www.legislation.gov.uk/ukpga/Geo5/15-16/20/section/122A) inserted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 113(6)](https://www.legislation.gov.uk/ukpga/2024/22/section/113/6), [124(2)(a)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/a)

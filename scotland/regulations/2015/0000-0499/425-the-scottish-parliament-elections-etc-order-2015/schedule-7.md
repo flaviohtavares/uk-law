@@ -22,7 +22,7 @@ summary: ''
 
 Article 64(7)
 
-### 1. Use of rooms in school premises[^key-254e285b17e35610e8227e953fa18b17]
+### 1. Use of rooms in school premises[^c-254e285b17e35610e8227e953fa18b17]
 
 (1) Any arrangements for the use of a room in school premises shall be made with the education authority managing the school or, in the case of a room in the premises of a self-governing school, with the board of management of the school.
 
@@ -35,7 +35,7 @@ Article 64(7)
 
 shall be determined by the Scottish Ministers.
 
-### 2. Lists of rooms in school premises and meeting rooms[^key-a3ca0d837ce38b2c8b37b1f69d20399d]
+### 2. Lists of rooms in school premises and meeting rooms[^c-a3ca0d837ce38b2c8b37b1f69d20399d]
 
 (1) It is the duty of the proper officer of every local authority to prepare and keep for each Scottish parliamentary constituency wholly or partly situated in the area of that authority—
 
@@ -46,7 +46,7 @@ which candidates for return as constituency members or individual candidates for
 
 (2) The list shall include the rooms in premises outside, as well as those in premises inside, the constituency.
 
-### 3. Inspection etc. of lists[^key-a4871cd092281da9b5384ff6f463aed6]
+### 3. Inspection etc. of lists[^c-a4871cd092281da9b5384ff6f463aed6]
 
 (1) Subject to sub-paragraph (2), in the event of a publication of a notice of election any person stating to be, or to be authorised by—
 
@@ -59,8 +59,8 @@ shall be entitled at all reasonable hours to inspect the lists kept in accordanc
 
 ## Annotations
 
-[^key-254e285b17e35610e8227e953fa18b17]: Commencement: Sch. 7 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-254e285b17e35610e8227e953fa18b17]: Commencement: Sch. 7 para. 1 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-a3ca0d837ce38b2c8b37b1f69d20399d]: Commencement: Sch. 7 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a3ca0d837ce38b2c8b37b1f69d20399d]: Commencement: Sch. 7 para. 2 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-a4871cd092281da9b5384ff6f463aed6]: Commencement: Sch. 7 para. 3 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a4871cd092281da9b5384ff6f463aed6]: Commencement: Sch. 7 para. 3 in force at 16.12.2015 in accordance with art. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-daae9aa3ee6d3b72db231ba1bbd1c05d]
+## 1. Citation and commencement[^c-daae9aa3ee6d3b72db231ba1bbd1c05d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Midland Metro (Wolverhampton City Centre Extensio
 
 ## Annotations
 
-[^key-daae9aa3ee6d3b72db231ba1bbd1c05d]: Commencement: Art. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-daae9aa3ee6d3b72db231ba1bbd1c05d]: Commencement: Art. 1 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

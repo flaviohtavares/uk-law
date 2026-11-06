@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**21.**[^key-f2082eed64904998379ed2ac80ea397d] Omit rules 105, 106 and 114.
+**21.**[^c-f2082eed64904998379ed2ac80ea397d] Omit rules 105, 106 and 114.
 
 ## Annotations
 
-[^key-f2082eed64904998379ed2ac80ea397d]: Commencement: Art. 21 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-f2082eed64904998379ed2ac80ea397d]: Commencement: Art. 21 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

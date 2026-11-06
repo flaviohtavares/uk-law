@@ -24,7 +24,7 @@ Section 28
 
 ### Appeal Officer’s terms of appointment
 
-**1.**[^key-506b0009cfc65dcd01604b5d1b1a5dec] (1) The Appeal Officer holds office for the period determined by the Secretary of State on appointment (or re-appointment).
+**1.**[^c-506b0009cfc65dcd01604b5d1b1a5dec] (1) The Appeal Officer holds office for the period determined by the Secretary of State on appointment (or re-appointment).
 
 (2) But—
 
@@ -35,7 +35,7 @@ Section 28
 
 ### Remuneration and pensions
 
-**2.**[^key-44a17e254fbdb9a0842e3a6cd83d11a6] (1) The Secretary of State may pay remuneration and travelling and other allowances to the Appeal Officer.
+**2.**[^c-44a17e254fbdb9a0842e3a6cd83d11a6] (1) The Secretary of State may pay remuneration and travelling and other allowances to the Appeal Officer.
 
 (2) The Secretary of State may—
 
@@ -44,30 +44,30 @@ Section 28
 
 ### Finance
 
-**3.**[^key-7c7a7e46f01d55a202489c7a46970b13] The Secretary of State may make payments to the Appeal Officer.
+**3.**[^c-7c7a7e46f01d55a202489c7a46970b13] The Secretary of State may make payments to the Appeal Officer.
 
 ### Procedure
 
-**4.**[^key-3f5b1bb4419ebfb3bf8defecc75c83b2] (1) Regulations may make provision about the practice and procedure to be followed by the Appeal Officer.
+**4.**[^c-3f5b1bb4419ebfb3bf8defecc75c83b2] (1) Regulations may make provision about the practice and procedure to be followed by the Appeal Officer.
 
 (2) Regulations under this paragraph may in particular impose time limits for bringing appeals.
 
 ### Amendments
 
-**5.**[^key-b405d3f42ba196c7002fbe88b3706b0d] In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments and authorities subject to investigation), insert at the appropriate place— “ Appeal Officer for Community Interest Companies. ”
+**5.**[^c-b405d3f42ba196c7002fbe88b3706b0d] In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments and authorities subject to investigation), insert at the appropriate place— “ Appeal Officer for Community Interest Companies. ”
 
-**6.**[^key-b93298a12e8d31cf29d67a5e7e18d4b6] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (disqualifying offices), insert at the appropriate place— “ Appeal Officer for Community Interest Companies. ”
+**6.**[^c-b93298a12e8d31cf29d67a5e7e18d4b6] In Part 3 of Schedule 1 to the House of Commons Disqualification Act 1975 (c. 24) (disqualifying offices), insert at the appropriate place— “ Appeal Officer for Community Interest Companies. ”
 
 ## Annotations
 
-[^key-506b0009cfc65dcd01604b5d1b1a5dec]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/1) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-506b0009cfc65dcd01604b5d1b1a5dec]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/1) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-44a17e254fbdb9a0842e3a6cd83d11a6]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/2) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-44a17e254fbdb9a0842e3a6cd83d11a6]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/2) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-7c7a7e46f01d55a202489c7a46970b13]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/3) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-7c7a7e46f01d55a202489c7a46970b13]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/3) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-3f5b1bb4419ebfb3bf8defecc75c83b2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/4) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-3f5b1bb4419ebfb3bf8defecc75c83b2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/4) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-b405d3f42ba196c7002fbe88b3706b0d]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/5) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-b405d3f42ba196c7002fbe88b3706b0d]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/5) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
 
-[^key-b93298a12e8d31cf29d67a5e7e18d4b6]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/6) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-b93298a12e8d31cf29d67a5e7e18d4b6]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/27/schedule/4/paragraph/6) in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

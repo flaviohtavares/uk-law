@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80A. Prevention or restriction of use of communication devices for drug dealing[^key-5d832e9ce36bb9dfa75d5b9d97c808d3]
+## 80A. Prevention or restriction of use of communication devices for drug dealing[^c-5d832e9ce36bb9dfa75d5b9d97c808d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,4 +90,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d832e9ce36bb9dfa75d5b9d97c808d3]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/2015/9/section/80A) inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 107](https://www.legislation.gov.uk/ukpga/2017/30/section/107), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)
+[^c-5d832e9ce36bb9dfa75d5b9d97c808d3]: Textual amendment: [S. 80A](https://www.legislation.gov.uk/ukpga/2015/9/section/80A) inserted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 107](https://www.legislation.gov.uk/ukpga/2017/30/section/107), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144ZB. Exception to rule in section 144ZA[^key-b7c0de1881827f5f517a0ea996a748b2]
+## 144ZB. Exception to rule in section 144ZA[^c-b7c0de1881827f5f517a0ea996a748b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) But this section does not apply if—
 
-- (a) the option is a securities option within the meaning of Chapter 5 of Part 7 of ITEPA 2003 (see section 420(8) of that Act) to which that Chapter applies [^key-6218c541addbb38daccb4d4bb70da74c]... (see section 471 of that Act), or
+- (a) the option is a securities option within the meaning of Chapter 5 of Part 7 of ITEPA 2003 (see section 420(8) of that Act) to which that Chapter applies [^c-6218c541addbb38daccb4d4bb70da74c]... (see section 471 of that Act), or
 - (b) section 144ZD of this Act (value of underlying subject matter of option altered with a view to obtaining a tax advantage) applies in relation to the option.
 
 (3) Where this section applies, neither section 144ZA nor the following provisions of section 144 shall apply in relation to the option—
@@ -63,6 +63,6 @@ shall be deemed for the purposes of tax in respect of chargeable gains to be the
 
 ## Annotations
 
-[^key-b7c0de1881827f5f517a0ea996a748b2]: Textual amendment: Ss. 144ZB-144ZD inserted (with effect in accordance with Sch. 5 para. 6(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/5/paragraph/2)
+[^c-b7c0de1881827f5f517a0ea996a748b2]: Textual amendment: Ss. 144ZB-144ZD inserted (with effect in accordance with Sch. 5 para. 6(1) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2005/22/schedule/5/paragraph/2)
 
-[^key-6218c541addbb38daccb4d4bb70da74c]: Textual amendment: Words in s. 144ZB(2)(a) omitted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 25](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/25), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-6218c541addbb38daccb4d4bb70da74c]: Textual amendment: Words in s. 144ZB(2)(a) omitted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 25](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/25), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

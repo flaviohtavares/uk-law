@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Order of application – 2008 cohort students[^key-e44b3d220e2ab62c079575ada62f3c29]
+## 99. Order of application – 2008 cohort students[^c-e44b3d220e2ab62c079575ada62f3c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ The contribution or the remainder of the contribution, as the case may be, is to
 
 ## Annotations
 
-[^key-e44b3d220e2ab62c079575ada62f3c29]: Commencement: Reg. 99 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-e44b3d220e2ab62c079575ada62f3c29]: Commencement: Reg. 99 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

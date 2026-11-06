@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Expenses which may be paid otherwise than by election agent[^key-d1e14dbe4176c9de5170d5041c2e70cf]
+## 39. Expenses which may be paid otherwise than by election agent[^c-d1e14dbe4176c9de5170d5041c2e70cf]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ and any further personal expenses incurred by the candidate shall be paid by the
 
 ## Annotations
 
-[^key-d1e14dbe4176c9de5170d5041c2e70cf]: Commencement: Art. 39 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-d1e14dbe4176c9de5170d5041c2e70cf]: Commencement: Art. 39 in force at 16.12.2015 in accordance with art. 1(1)

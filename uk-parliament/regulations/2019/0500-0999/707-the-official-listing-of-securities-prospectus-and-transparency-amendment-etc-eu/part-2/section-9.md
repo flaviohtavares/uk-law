@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Election to have prospectus[^key-14ff12ef35c47c198aa0e2635e88f3e0]
+## 9. Election to have prospectus[^c-14ff12ef35c47c198aa0e2635e88f3e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14ff12ef35c47c198aa0e2635e88f3e0]: Textual amendment: Reg. 9 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/1234/regulation/14) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))
+[^c-14ff12ef35c47c198aa0e2635e88f3e0]: Textual amendment: Reg. 9 omitted (6.9.2019) by virtue of [The Prospectus (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1234)](https://www.legislation.gov.uk/uksi/2019/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2019/1234/regulation/14) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234), [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/1234/regulation/29/2)))

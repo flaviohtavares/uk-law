@@ -25,18 +25,18 @@ summary: ''
 - (a) any prescribed category of earners; or
 - (b) earners in any prescribed category of employments,
 
-that their liability in a particular tax year in respect of contributions of prescribed classes, or any prescribed part of such contributions,[^key-2e8f0281ba887e7cb21a60a9709f4d12] is not to exceed such maximum amount or amounts as may be prescribed.
+that their liability in a particular tax year in respect of contributions of prescribed classes, or any prescribed part of such contributions,[^c-2e8f0281ba887e7cb21a60a9709f4d12] is not to exceed such maximum amount or amounts as may be prescribed.
 
 (2) Regulations made for the purposes of subsection (1) above may provide—
 
 - (a) for an earner whose liability is subject to a maximum prescribed under that subsection to be liable in the first instance for the full amount of any contributions due from him apart from the regulations, or to be relieved from liability for such contributions in prescribed circumstances and to the prescribed extent; and
 - (b) for contributions paid in excess of any such maximum to be repaid at such times, and in accordance with such conditions, as may be prescribed.
 
-(3) Regulations may provide, in relation to earners otherwise liable for contributions of any class or any part of such contributions[^key-f95534f2b54e7768918ed1a425f114a6], for excepting them from the liability for such periods, and in such circumstances, as may be prescribed.
+(3) Regulations may provide, in relation to earners otherwise liable for contributions of any class or any part of such contributions[^c-f95534f2b54e7768918ed1a425f114a6], for excepting them from the liability for such periods, and in such circumstances, as may be prescribed.
 
 (4) As respects any woman who was married or a widow on 6th April 1977 (the date of the coming into force of the repeal of the old provisions that primary Class 1 contributions might be paid at a reduced rate and Class 2 contributions need not be paid by a married woman or a widow) regulations shall provide—
 
-- (a) for enabling her to elect that so much of her liability in respect of primary Class 1 contributions as is attributable to section 8(1)(a) above[^key-38cc02ef4628483e3a05d3f588f48513] shall be a liability to contribute at such reduced rate as may be prescribed; and
+- (a) for enabling her to elect that so much of her liability in respect of primary Class 1 contributions as is attributable to section 8(1)(a) above[^c-38cc02ef4628483e3a05d3f588f48513] shall be a liability to contribute at such reduced rate as may be prescribed; and
 - (b) either for enabling her to elect that her liability in respect of Class 2 contributions shall be a liability to contribute at such reduced rate as may be prescribed or for enabling her to elect that she shall be under no liability to pay such contributions; and
 - (c) for enabling her to revoke any such election.
 
@@ -60,11 +60,11 @@ and if provision is made for a person to have earnings factors so derived for th
 
 ## Annotations
 
-[^key-2e8f0281ba887e7cb21a60a9709f4d12]: Textual amendment: Words in s. 19(1) inserted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/5/2)
+[^c-2e8f0281ba887e7cb21a60a9709f4d12]: Textual amendment: Words in s. 19(1) inserted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/5/2)
 
-[^key-f95534f2b54e7768918ed1a425f114a6]: Textual amendment: Words in s. 19(3) inserted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/5/3)
+[^c-f95534f2b54e7768918ed1a425f114a6]: Textual amendment: Words in s. 19(3) inserted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/5/3)
 
-[^key-38cc02ef4628483e3a05d3f588f48513]: Textual amendment: Words in s. 19(4)(a) substituted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/5/4)
+[^c-38cc02ef4628483e3a05d3f588f48513]: Textual amendment: Words in s. 19(4)(a) substituted (with effect in relation to the tax year 2003-04 and subsequent tax years) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/ukpga/2002/19/schedule/1/paragraph/5/4)
 
 [^M_F_690f17f0-fcbe-4229-c482-d22feecd5c05]: Textual amendment: S. 19(5A) inserted (1.4.1999) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(3)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/3), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/3/paragraph/19/2); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
 

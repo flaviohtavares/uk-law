@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Subsidiaries and contractors[^M_E_db05c8b0-e5f5-42bd-c377-0d5605417bd2][^key-7caf584c03cd4d5ef3ecb6abcf675609]
+## 41. Subsidiaries and contractors[^M_E_db05c8b0-e5f5-42bd-c377-0d5605417bd2][^c-7caf584c03cd4d5ef3ecb6abcf675609]
 
 *Extent: E+W+S*
 
@@ -59,6 +59,6 @@ summary: ''
 
 [^M_E_db05c8b0-e5f5-42bd-c377-0d5605417bd2]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7caf584c03cd4d5ef3ecb6abcf675609]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2016/1153/regulation/41) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 26](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/26) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7caf584c03cd4d5ef3ecb6abcf675609]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2016/1153/regulation/41) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 26](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/26) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a03a30b0-2220-423a-c1a6-8fa89e355b0a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

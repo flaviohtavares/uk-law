@@ -25,7 +25,7 @@ summary: ''
 - (a) a prohibition order has become operative, and
 - (b) the whole or part of any specified premises form the whole or part of the subject matter of a lease.
 
-(2) The lessor or the lessee may apply to the appropriate tribunal[^key-3c5a468f80ab11463ed0a0bceb642b5c] for an order determining or varying the lease.
+(2) The lessor or the lessee may apply to the appropriate tribunal[^c-3c5a468f80ab11463ed0a0bceb642b5c] for an order determining or varying the lease.
 
 (3) On such an application the tribunal may make an order determining or varying the lease, if it considers it appropriate to do so.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c2051215]: Commencement: S. 34 wholly in force at 16.6.2006; s. 34 not in force at Royal Assent see s. 270(4)(5); s. 34 in force for E. at 6.4.2006 by [S. I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 34 in force for W. at 16.6.2006 by [S. I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-3c5a468f80ab11463ed0a0bceb642b5c]: Textual amendment: Words in [s. 34(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/34/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 151](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/151) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-3c5a468f80ab11463ed0a0bceb642b5c]: Textual amendment: Words in [s. 34(2)](https://www.legislation.gov.uk/ukpga/2004/34/section/34/2) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 151](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/151) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

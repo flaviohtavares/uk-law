@@ -37,26 +37,26 @@ on additional historical aviation emissions and additional aviation allowances t
 
 (2014/389/EU) (revoked)
 
-[^key-4ee0b38a1a3ad80d9b48ec0436f6c296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ee0b38a1a3ad80d9b48ec0436f6c296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-4ee0b38a1a3ad80d9b48ec0436f6c296] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ee0b38a1a3ad80d9b48ec0436f6c296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ee0b38a1a3ad80d9b48ec0436f6c296]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ee0b38a1a3ad80d9b48ec0436f6c296]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-4ee0b38a1a3ad80d9b48ec0436f6c296]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

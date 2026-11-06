@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Prohibition of expenses not authorised by election agent.[^c14489922][^c17886931][^key-a74e98e474fb049a86157667748ff177][^c14479931]
+## 75. Prohibition of expenses not authorised by election agent.[^c14489922][^c17886931][^c-a74e98e474fb049a86157667748ff177][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ but paragraph (c) *(affected by repeal, see note)*[^c19428551] or (d)[^c14489811
 
 (1ZA)[^c14490031] For the purposes of subsection (1ZZB)(a)[^c19428451] above, “**the permitted sum**” means—
 
-- (a) in respect of a candidate at a parliamentary election, £700[^key-e24021ab1bf1a77eb44047bf063f7f2c];
+- (a) in respect of a candidate at a parliamentary election, £700[^c-e24021ab1bf1a77eb44047bf063f7f2c];
 - (b) in respect of a candidate at a local government election, £50 together with an additional 0.5p for every entry in the register of local government electors for the electoral area in question as it has effect on the last day for publication of notice of the election;
 
 and expenses shall be regarded as incurred by a person “**as part of a concerted plan of action**” if they are incurred by that person in pursuance of any plan or other arrangement whereby that person and one or more other persons are to incur, with a view to promoting or procuring the election of the same candidate, expenses which (disregarding subsection (1ZZB)(a) fall within subsection (1) above.
@@ -112,7 +112,7 @@ he shall be guilty of a corrupt practice; and if a person fails to deliver or[^c
 
 [^c17886931]: Modification: S. 75(1): power to exclude conferred (S.) (22.1.2002) by [Scottish Local Government (Elections) Act 2002 (asp 1)](https://www.legislation.gov.uk/asp/2002/1), [s. 5(4)](https://www.legislation.gov.uk/asp/2002/1/section/5/4)
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 
@@ -140,7 +140,7 @@ he shall be guilty of a corrupt practice; and if a person fails to deliver or[^c
 
 [^c19428451]: Textual amendment: Words in s. 75(1ZA) substituted (retrospective to 16.2.2001) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 25(4)(6)](https://www.legislation.gov.uk/ukpga/2006/22/section/25/4/6), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77) (with [s. 25(7)](https://www.legislation.gov.uk/ukpga/2006/22/section/25/7)); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/4) (subject to transitional provisions in [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2))
 
-[^key-e24021ab1bf1a77eb44047bf063f7f2c]: Textual amendment: Sum in s. 75(1ZA)(a) substituted (1.7.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/36/1), [45(1)(b)(iv)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/iv); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1236/article/3))
+[^c-e24021ab1bf1a77eb44047bf063f7f2c]: Textual amendment: Sum in s. 75(1ZA)(a) substituted (1.7.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/36/1), [45(1)(b)(iv)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/1/b/iv); [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/1236/article/3))
 
 [^c14490041]: Textual amendment: S. 75(1A) inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/19/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 

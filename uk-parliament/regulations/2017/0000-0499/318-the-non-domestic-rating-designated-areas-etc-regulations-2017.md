@@ -48,17 +48,17 @@ The Secretary of State for Communities and Local Government makes these Regulati
 
 These Regulations are made with the consent of the Treasury in accordance with paragraphs 8(3) and 39(13) of that Schedule.
 
-## 1. Citation and commencement[^key-60d0d1cf116ca76254cd3526a873f53f]
+## 1. Citation and commencement[^c-60d0d1cf116ca76254cd3526a873f53f]
 
 (1) These Regulations may be cited as the Non-Domestic Rating (Designated Areas etc.) Regulations 2017.
 
 (2) These Regulations come into force on 1st April 2017.
 
-## 2. Application[^key-31453a38ea48965836d0ed23ba972355]
+## 2. Application[^c-31453a38ea48965836d0ed23ba972355]
 
 These Regulations apply in relation to England only.
 
-## 3. Interpretation[^key-2b42197027db54a2f67712c691227caf]
+## 3. Interpretation[^c-2b42197027db54a2f67712c691227caf]
 
 In these Regulations—
 
@@ -68,8 +68,8 @@ In these Regulations—
 - “designated area” means an area designated under regulation 4(1);
 - “local list” means a local non-domestic rating list[^f00002];
 - “non-domestic rating income”, in relation to a billing authority, means the amount calculated under Part 2 of Schedule 2 in respect of a designated area for a specified year;
-- “[^key-e590c00762f915d25396de0dfddb10bd]**period of designation**” means—
-  - (a) for the York Central Enterprise Zone–York Central Site Designated Area and the Heart of the South West—Huntspill Energy Park Designated Area[^key-7234113d49150b432518860e105137e2], the period of 35 years specified in regulation 4(3);
+- “[^c-e590c00762f915d25396de0dfddb10bd]**period of designation**” means—
+  - (a) for the York Central Enterprise Zone–York Central Site Designated Area and the Heart of the South West—Huntspill Energy Park Designated Area[^c-7234113d49150b432518860e105137e2], the period of 35 years specified in regulation 4(3);
   - (b) for any other designated area, the period of 25 years specified in regulation 4(2);
 - “preceding year” means the chargeable financial year[^f00003] immediately preceding the specified year for which a calculation under Part 3 of Schedule 2 is made;
 - “revaluation year” means a year in which a local list must be compiled under section 41 of the 1988 Act;
@@ -77,23 +77,23 @@ In these Regulations—
 - “small business non-domestic rating multiplier”, in relation to a chargeable financial year, means the small business non-domestic rating multiplier for that year determined under Part 1 of Schedule 7 to the 1988 Act[^f00004]; and
 - “specified year” means a chargeable financial year falling within the period of designation.
 
-## 4. Designation of areas[^key-916b990bbd640006fc96feb1c0c8b48e]
+## 4. Designation of areas[^c-916b990bbd640006fc96feb1c0c8b48e]
 
 (1) The areas listed in Schedule 1 are designated for the purposes of these Regulations.
 
-(2) The designation of those areas takes effect on 1st April 2017 and , subject to paragraph (3),[^key-ea86e677cfc08efed77abbe77cf6c2c4] has effect for the period of 25 years beginning on that date (“period of designation”).
+(2) The designation of those areas takes effect on 1st April 2017 and , subject to paragraph (3),[^c-ea86e677cfc08efed77abbe77cf6c2c4] has effect for the period of 25 years beginning on that date (“period of designation”).
 
-(3)[^key-fe5b10dbd6ab5d95537a9ae29b6e6446] The designation of an area listed in paragraph (4)[^key-dace1ec76895678e6a205bf2687e48a7] has effect for the period of 35 years which comprises—
+(3)[^c-fe5b10dbd6ab5d95537a9ae29b6e6446] The designation of an area listed in paragraph (4)[^c-dace1ec76895678e6a205bf2687e48a7] has effect for the period of 35 years which comprises—
 
 - (a) the period of 25 years specified in paragraph (2), and
 - (b) a further period of 10 years beginning immediately after the end of the period specified in paragraph (2).
 
-(4)[^key-553cfba0871ea2bceaa82845a87b0a32] The areas are—
+(4)[^c-553cfba0871ea2bceaa82845a87b0a32] The areas are—
 
 - (a) the Heart of the South West—Huntspill Energy Park Designated Area,
 - (b) the York Central Enterprise Zone—York Central Site Designated Area.
 
-## 5. Proportion of non-domestic rating income for a designated area to be disregarded[^key-5e2e75970b92dd5cf9996b37df62abf5]
+## 5. Proportion of non-domestic rating income for a designated area to be disregarded[^c-5e2e75970b92dd5cf9996b37df62abf5]
 
 (1) Part 1 of Schedule 2 provides rules for calculating the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year.
 
@@ -112,13 +112,13 @@ In these Regulations—
   - (iii) paragraph 10 (administrative arrangements for payments by billing authorities to major precepting authorities);
   - (iv) paragraph 28 (calculations of payments on account).
 
-## 6. Amendment of Non-Domestic Rating (Rates Retention) Regulations 2013[^key-4fb8a892af16ae4371f9b3eb1eede43b]
+## 6. Amendment of Non-Domestic Rating (Rates Retention) Regulations 2013[^c-4fb8a892af16ae4371f9b3eb1eede43b]
 
 (1) The Non-Domestic Rating (Rates Retention) Regulations 2013[^f00008] are amended as follows.
 
 (2) In paragraph 1(1) of Schedule 2 (qualifying relief for deduction from central share), in the definition of “red area” for “178” substitute “247”.
 
-## 7. Amendment of Non-Domestic Rating (Designated Areas) Regulations 2013[^key-f951a052b8736dd6c5f30de5d66dcd5e]
+## 7. Amendment of Non-Domestic Rating (Designated Areas) Regulations 2013[^c-f951a052b8736dd6c5f30de5d66dcd5e]
 
 (1) The Non-Domestic Rating (Designated Areas) Regulations 2013[^f00009] are amended as follows.
 
@@ -147,7 +147,7 @@ In these Regulations—
 
   .
 
-## 8. Amendment of Non-Domestic Rating (Designated Areas etc) Regulations 2016[^key-41b3eaf114ff86354ac11d542bf3f4ba]
+## 8. Amendment of Non-Domestic Rating (Designated Areas etc) Regulations 2016[^c-41b3eaf114ff86354ac11d542bf3f4ba]
 
 (1) The Non-Domestic Rating (Designated Areas etc) Regulations 2016[^f00010] are amended as follows.
 
@@ -202,11 +202,11 @@ Department for Communities and Local Government
 
 Regulation 4
 
-**1.**[^key-d350b60cac6ec3041441a554ebffdd0d] Each of the areas listed in column 2 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the blue line shown on the map specified in column 1 of the table.
+**1.**[^c-d350b60cac6ec3041441a554ebffdd0d] Each of the areas listed in column 2 of the table in this Schedule is designated by reference to the area or areas bounded externally by the outer edge of the blue line shown on the map specified in column 1 of the table.
 
-**2.**[^key-7b8ecd541601a8f3c6f4ab7ae5581fe2] A reference in this Schedule to a map is to one of the maps numbered 1 to 74 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas etc.) Regulations 2017”, of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State for Communities and Local Government and, in relation to each map, at the offices of the billing authority to which the map relates.
+**2.**[^c-7b8ecd541601a8f3c6f4ab7ae5581fe2] A reference in this Schedule to a map is to one of the maps numbered 1 to 74 and entitled “Maps referred to in Schedule 1 to the Non-Domestic Rating (Designated Areas etc.) Regulations 2017”, of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State for Communities and Local Government and, in relation to each map, at the offices of the billing authority to which the map relates.
 
-**3.**[^key-e405ee5c1118a960189fb8434afededb] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
+**3.**[^c-e405ee5c1118a960189fb8434afededb] For the purposes of determining a designated area, where part only of a hereditament is situated within an area shown on a map, the whole of the hereditament is taken to be included within that designated area.
 
 | *Numbered map*<br>*(Column 1)* | *Designated area*<br>*(Column 2)* | *Billing authority*<br>*(Column 3)* | *Value of J (£)*<br>*(see paragraph 4(2) of Schedule 2)*<br>*(Column 4)* |
 | --- | --- | --- | --- |
@@ -254,14 +254,14 @@ Regulation 4
 | 42 | North East Enterprise Zone – Holborn Riverside Development | South Tyneside Council | 0 |
 | 43 | North East Enterprise Zone – Tyne Dock Enterprise Park | South Tyneside Council | 0 |
 | 44 | North East Enterprise Zone – Port of Sunderland | Sunderland City Council | 0 |
-| 45 | Newhaven Enterprise Zone – East Quay | Lewes District Council | 249,858[^key-1e40f528fecb6e9ef5ae56af2f61c113] |
+| 45 | Newhaven Enterprise Zone – East Quay | Lewes District Council | 249,858[^c-1e40f528fecb6e9ef5ae56af2f61c113] |
 | 46 | Newhaven Enterprise Zone – Eastside North | Lewes District Council | 0 |
 | 47 | Newhaven Enterprise Zone – Eastside South | Lewes District Council | 0 |
-| 48 | Newhaven Enterprise Zone – North Quay | Lewes District Council | 169,680[^key-c18579d90e386ed07923cc4d07602d7a] |
+| 48 | Newhaven Enterprise Zone – North Quay | Lewes District Council | 169,680[^c-c18579d90e386ed07923cc4d07602d7a] |
 | 49 | Newhaven Enterprise Zone – Railway Quay | Lewes District Council | 1,291 |
 | 50 | Newhaven Enterprise Zone – Bevan Funnell | Lewes District Council | 61,903 |
-| 51 | Newhaven Enterprise Zone - Town Centre | Lewes District Council | 290,163[^key-56e090061fe374e8ffb07cb2473f2456] |
-| 52 | Newhaven Enterprise Zone – Avis Way | Lewes District Council | 1,226,456[^key-0ebda2d9c102f0a515ddfbbdd4abf6c8] |
+| 51 | Newhaven Enterprise Zone - Town Centre | Lewes District Council | 290,163[^c-56e090061fe374e8ffb07cb2473f2456] |
+| 52 | Newhaven Enterprise Zone – Avis Way | Lewes District Council | 1,226,456[^c-0ebda2d9c102f0a515ddfbbdd4abf6c8] |
 | 53 | North Kent Enterprise Zone – Northfleet Riverside East | Gravesham Borough Council | 0 |
 | 54 | North Kent Enterprise Zone – Northfleet Riverside West | Gravesham Borough Council | 0 |
 | 55 | North Kent Enterprise Zone – Ebbsfleet Central Northfleet Rise | Dartford Borough Council | 0 |
@@ -291,7 +291,7 @@ Regulation 5
 
 ### PART 1 — Proportion of non-domestic rating income to be disregarded
 
-**1.**[^key-c4881206e2d895453c2d1c47467250d5] (1) Unless sub-paragraph (2) applies, the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year is the difference between the authority’s—
+**1.**[^c-c4881206e2d895453c2d1c47467250d5] (1) Unless sub-paragraph (2) applies, the proportion of a billing authority’s non-domestic rating income in respect of a designated area for a specified year is the difference between the authority’s—
 
 - (a) non-domestic rating income in respect of the designated area for that year; and
 - (b) baseline amount in respect of the designated area for that year.
@@ -300,7 +300,7 @@ Regulation 5
 
 ### PART 2 — Calculation of non-domestic rating income
 
-**2.**[^key-73a4ee3fd2f8885942687f14bdc59ac2] (1) A billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
+**2.**[^c-73a4ee3fd2f8885942687f14bdc59ac2] (1) A billing authority’s non-domestic rating income in respect of a designated area for a specified year is the amount calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2017/318)
 
@@ -324,11 +324,11 @@ where—
 
 ### PART 3 — Calculation of the baseline amount
 
-#### 3. For the specified year beginning on 1st April 2017[^key-fb2c2ecbfa7bec5aef361419ac35ee1c]
+#### 3. For the specified year beginning on 1st April 2017[^c-fb2c2ecbfa7bec5aef361419ac35ee1c]
 
 For the specified year beginning on 1st April 2017, a billing authority’s baseline amount in respect of a designated area is the amount provided in column 4 of the table in Schedule 1 in relation to the designated area.
 
-#### 4. For a specified year that is not a revaluation year[^key-80d6b7e3ef619f808e8c40e0a0d7e72a]
+#### 4. For a specified year that is not a revaluation year[^c-80d6b7e3ef619f808e8c40e0a0d7e72a]
 
 (1) If a specified year is not a revaluation year, a billing authority’s baseline amount in respect of a designated area for the specified year is the amount calculated under sub-paragraph (2) or (3).
 
@@ -352,7 +352,7 @@ where—
 - M<sub>2</sub> is the small business non-domestic rating multiplier for the specified year; and
 - M<sub>1</sub> is the small business non-domestic rating multiplier for the preceding year.
 
-#### 5. For a specified year that is a revaluation year other than the specified year beginning on 1st April 2017[^key-b0cd888992ad2758b45da484641d1330]
+#### 5. For a specified year that is a revaluation year other than the specified year beginning on 1st April 2017[^c-b0cd888992ad2758b45da484641d1330]
 
 (1) If a specified year is a revaluation year other than the specified year beginning on 1st April 2017, a billing authority’s baseline amount in respect of a designated area for the specified year is the amount calculated in accordance with the formula—
 
@@ -405,33 +405,33 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Schedule 7B was inserted into the Local Government Finance Act 1988 by section 1 of, and Schedule 1 to, the Local Government Finance Act [2012 (c. 17)](https://www.legislation.gov.uk/ukpga/2012/17).
 
-[^key-60d0d1cf116ca76254cd3526a873f53f]: Commencement: Reg. 1 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-60d0d1cf116ca76254cd3526a873f53f]: Commencement: Reg. 1 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-31453a38ea48965836d0ed23ba972355]: Commencement: Reg. 2 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-31453a38ea48965836d0ed23ba972355]: Commencement: Reg. 2 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-2b42197027db54a2f67712c691227caf]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-2b42197027db54a2f67712c691227caf]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
 [^f00002]: Footnote: See section 41(1) of the 1988 Act for the meaning of “local non-domestic rating list”.
 
-[^key-e590c00762f915d25396de0dfddb10bd]: Textual amendment: Words in reg. 3 substituted (1.4.2024) by [The Non-Domestic Rating (Designated Areas) Regulations 2024 (S.I. 2024/183)](https://www.legislation.gov.uk/uksi/2024/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/5/2)
+[^c-e590c00762f915d25396de0dfddb10bd]: Textual amendment: Words in reg. 3 substituted (1.4.2024) by [The Non-Domestic Rating (Designated Areas) Regulations 2024 (S.I. 2024/183)](https://www.legislation.gov.uk/uksi/2024/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/5/2)
 
-[^key-7234113d49150b432518860e105137e2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2017/318/regulation/3) inserted (1.4.2025) by [The Non-Domestic Rating (Designated Areas) Regulations 2025 (S.I. 2025/180)](https://www.legislation.gov.uk/uksi/2025/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/5/2)
+[^c-7234113d49150b432518860e105137e2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2017/318/regulation/3) inserted (1.4.2025) by [The Non-Domestic Rating (Designated Areas) Regulations 2025 (S.I. 2025/180)](https://www.legislation.gov.uk/uksi/2025/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/5/2)
 
 [^f00003]: Footnote: See section 145(1) of the 1988 Act for the meaning of “chargeable financial year”.
 
 [^f00004]: Footnote: Relevant amendments were made to Schedule 7 by section 62 of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-916b990bbd640006fc96feb1c0c8b48e]: Commencement: Reg. 4 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-916b990bbd640006fc96feb1c0c8b48e]: Commencement: Reg. 4 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-ea86e677cfc08efed77abbe77cf6c2c4]: Textual amendment: Words in reg. 4(2) inserted (1.4.2024) by [The Non-Domestic Rating (Designated Areas) Regulations 2024 (S.I. 2024/183)](https://www.legislation.gov.uk/uksi/2024/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2024/183/regulation/5/3/a)
+[^c-ea86e677cfc08efed77abbe77cf6c2c4]: Textual amendment: Words in reg. 4(2) inserted (1.4.2024) by [The Non-Domestic Rating (Designated Areas) Regulations 2024 (S.I. 2024/183)](https://www.legislation.gov.uk/uksi/2024/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2024/183/regulation/5/3/a)
 
-[^key-fe5b10dbd6ab5d95537a9ae29b6e6446]: Textual amendment: Reg. 4(3) inserted (1.4.2024) by [The Non-Domestic Rating (Designated Areas) Regulations 2024 (S.I. 2024/183)](https://www.legislation.gov.uk/uksi/2024/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2024/183/regulation/5/3/b)
+[^c-fe5b10dbd6ab5d95537a9ae29b6e6446]: Textual amendment: Reg. 4(3) inserted (1.4.2024) by [The Non-Domestic Rating (Designated Areas) Regulations 2024 (S.I. 2024/183)](https://www.legislation.gov.uk/uksi/2024/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/183/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2024/183/regulation/5/3/b)
 
-[^key-dace1ec76895678e6a205bf2687e48a7]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2017/318/regulation/4/3) substituted (1.4.2025) by [The Non-Domestic Rating (Designated Areas) Regulations 2025 (S.I. 2025/180)](https://www.legislation.gov.uk/uksi/2025/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2025/180/regulation/5/3/a)
+[^c-dace1ec76895678e6a205bf2687e48a7]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2017/318/regulation/4/3) substituted (1.4.2025) by [The Non-Domestic Rating (Designated Areas) Regulations 2025 (S.I. 2025/180)](https://www.legislation.gov.uk/uksi/2025/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2025/180/regulation/5/3/a)
 
-[^key-553cfba0871ea2bceaa82845a87b0a32]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2017/318/regulation/4/4) inserted (1.4.2025) by [The Non-Domestic Rating (Designated Areas) Regulations 2025 (S.I. 2025/180)](https://www.legislation.gov.uk/uksi/2025/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/180/regulation/5/3/b)
+[^c-553cfba0871ea2bceaa82845a87b0a32]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2017/318/regulation/4/4) inserted (1.4.2025) by [The Non-Domestic Rating (Designated Areas) Regulations 2025 (S.I. 2025/180)](https://www.legislation.gov.uk/uksi/2025/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/180/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/180/regulation/5/3/b)
 
-[^key-5e2e75970b92dd5cf9996b37df62abf5]: Commencement: Reg. 5 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-5e2e75970b92dd5cf9996b37df62abf5]: Commencement: Reg. 5 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
 [^f00005]: Footnote: The calculation under paragraph 23 must be made in accordance with regulations under paragraph 22.
 
@@ -439,40 +439,40 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^f00007]: Footnote: The calculation under paragraph 30 must be made in accordance with the basis of distribution specified in the regulations under that paragraph.
 
-[^key-4fb8a892af16ae4371f9b3eb1eede43b]: Commencement: Reg. 6 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-4fb8a892af16ae4371f9b3eb1eede43b]: Commencement: Reg. 6 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2013/452](https://www.legislation.gov.uk/uksi/2013/452). Amended by [S.I. 2014/96](https://www.legislation.gov.uk/uksi/2014/96), [2015/628](https://www.legislation.gov.uk/uksi/2015/628) and [2016/317](https://www.legislation.gov.uk/uksi/2016/317).
 
-[^key-f951a052b8736dd6c5f30de5d66dcd5e]: Commencement: Reg. 7 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-f951a052b8736dd6c5f30de5d66dcd5e]: Commencement: Reg. 7 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2013/107](https://www.legislation.gov.uk/uksi/2013/107).
 
-[^key-41b3eaf114ff86354ac11d542bf3f4ba]: Commencement: Reg. 8 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-41b3eaf114ff86354ac11d542bf3f4ba]: Commencement: Reg. 8 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2016/317](https://www.legislation.gov.uk/uksi/2016/317).
 
-[^key-d350b60cac6ec3041441a554ebffdd0d]: Commencement: Sch. 1 para. 1 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-d350b60cac6ec3041441a554ebffdd0d]: Commencement: Sch. 1 para. 1 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-7b8ecd541601a8f3c6f4ab7ae5581fe2]: Commencement: Sch. 1 para. 2 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-7b8ecd541601a8f3c6f4ab7ae5581fe2]: Commencement: Sch. 1 para. 2 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-e405ee5c1118a960189fb8434afededb]: Commencement: Sch. 1 para. 3 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-e405ee5c1118a960189fb8434afededb]: Commencement: Sch. 1 para. 3 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-1e40f528fecb6e9ef5ae56af2f61c113]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/a)
+[^c-1e40f528fecb6e9ef5ae56af2f61c113]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/a)
 
-[^key-c18579d90e386ed07923cc4d07602d7a]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/b)
+[^c-c18579d90e386ed07923cc4d07602d7a]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/b)
 
-[^key-56e090061fe374e8ffb07cb2473f2456]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/c)
+[^c-56e090061fe374e8ffb07cb2473f2456]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/c)
 
-[^key-0ebda2d9c102f0a515ddfbbdd4abf6c8]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/d)
+[^c-0ebda2d9c102f0a515ddfbbdd4abf6c8]: Textual amendment: Word in Sch. 1 table substituted (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) (Amendment) Regulations 2017 (S.I. 2017/471)](https://www.legislation.gov.uk/uksi/2017/471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/471/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2017/471/regulation/2/2/d)
 
-[^key-c4881206e2d895453c2d1c47467250d5]: Commencement: Sch. 2 para. 1 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-c4881206e2d895453c2d1c47467250d5]: Commencement: Sch. 2 para. 1 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-73a4ee3fd2f8885942687f14bdc59ac2]: Commencement: Sch. 2 para. 2 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-73a4ee3fd2f8885942687f14bdc59ac2]: Commencement: Sch. 2 para. 2 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
 [^f00011]: Footnote: The meaning of proper practices is given in section 21 of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), which applies to these Regulations by virtue of subsection (4)(e) of that section.
 
-[^key-fb2c2ecbfa7bec5aef361419ac35ee1c]: Commencement: Sch. 2 para. 3 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-fb2c2ecbfa7bec5aef361419ac35ee1c]: Commencement: Sch. 2 para. 3 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-80d6b7e3ef619f808e8c40e0a0d7e72a]: Commencement: Sch. 2 para. 4 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-80d6b7e3ef619f808e8c40e0a0d7e72a]: Commencement: Sch. 2 para. 4 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
 
-[^key-b0cd888992ad2758b45da484641d1330]: Commencement: Sch. 2 para. 5 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)
+[^c-b0cd888992ad2758b45da484641d1330]: Commencement: Sch. 2 para. 5 in force at 1.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Actuarial valuations[^c24458771][^key-ea1a6928d78ec9adc3ea7ce41c473568]
+## 20. Actuarial valuations[^c24458771][^c-ea1a6928d78ec9adc3ea7ce41c473568]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c24458771]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/1/section/20) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-ea1a6928d78ec9adc3ea7ce41c473568]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/1/section/20) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-ea1a6928d78ec9adc3ea7ce41c473568]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2021/1/section/20) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

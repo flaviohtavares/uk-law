@@ -25,7 +25,7 @@ summary: ''
 - (a) for any of the purposes, or with respect to any of the matters, mentioned in Schedule 1 to this Act, and
 - (b) for any other purpose which is a purpose mentioned in any of paragraphs (a) to (g)[^c13544691] of section 1(1) of this Act.
 
-(2)[^c13544701] In the case of a road for which the Secretary of State or a strategic highways company[^key-700e4cc66d876982df5ed1929aab8163] is the traffic authority, the power to make an order under this section is also exercisable, with his or its[^key-bd1fa20a98b6e334136c51ef769f60ce] consent, by the local traffic authority.
+(2)[^c13544701] In the case of a road for which the Secretary of State or a strategic highways company[^c-700e4cc66d876982df5ed1929aab8163] is the traffic authority, the power to make an order under this section is also exercisable, with his or its[^c-bd1fa20a98b6e334136c51ef769f60ce] consent, by the local traffic authority.
 
 (3) Any order under this section may be made so as to apply—
 
@@ -59,9 +59,9 @@ summary: ''
 
 [^c13544701]: Textual amendment: S. 6(2) substituted (1.11.1991) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22) s. 168(1), Sch. 8 para. 21(3); which substitution is in force for Scotland only by [S.I. 1991/2286](https://www.legislation.gov.uk/uksi/1991/2286), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/2286/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1991/2286/schedule/2) and for England and Wales only by [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 
-[^key-700e4cc66d876982df5ed1929aab8163]: Textual amendment: Words in s. 6(2) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 73(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/73/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-700e4cc66d876982df5ed1929aab8163]: Textual amendment: Words in s. 6(2) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 73(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/73/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-bd1fa20a98b6e334136c51ef769f60ce]: Textual amendment: Words in s. 6(2) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 73(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/73/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-bd1fa20a98b6e334136c51ef769f60ce]: Textual amendment: Words in s. 6(2) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 73(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/73/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13544711]: Textual amendment: S. 6(3)(*a*) substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [ss. 1](https://www.legislation.gov.uk/ukpga/1985/51/section/1), [2](https://www.legislation.gov.uk/ukpga/1985/51/section/2), [8(1)](https://www.legislation.gov.uk/ukpga/1985/51/section/8/1), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/5/paragraph/4/3)(*b*)
 

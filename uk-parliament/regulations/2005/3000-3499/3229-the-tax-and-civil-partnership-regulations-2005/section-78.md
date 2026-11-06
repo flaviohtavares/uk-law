@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78.[^key-cfd0b589c439ff103941ab7395273883]
+## 78.[^c-cfd0b589c439ff103941ab7395273883]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 576 (losses on unlisted shares in trading companies: supplementary pr
 
 ## Annotations
 
-[^key-cfd0b589c439ff103941ab7395273883]: Commencement: Reg. 78 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-cfd0b589c439ff103941ab7395273883]: Commencement: Reg. 78 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

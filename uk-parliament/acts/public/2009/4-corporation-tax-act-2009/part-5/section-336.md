@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Transfers of loans on group transactions[^key-fd3f0c6b330676b39edaac74db51d317]
+## 336. Transfers of loans on group transactions[^c-fd3f0c6b330676b39edaac74db51d317]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,9 +40,9 @@ summary: ''
 - (a) a transfer of an asset, or
 - (b) a transfer of rights under, or an interest in, an asset,
 
-as a result of a transaction within subsection (2) or a series of transactions within subsection (3) if immediately before or after the transfer the asset is held for the purposes of a company's long-term business[^key-a3107e92c8db49ee30e251ce5e685dd4].
+as a result of a transaction within subsection (2) or a series of transactions within subsection (3) if immediately before or after the transfer the asset is held for the purposes of a company's long-term business[^c-a3107e92c8db49ee30e251ce5e685dd4].
 
-(4A)[^key-f8159c86ee004048bc51ff4aace0c478] For the purposes of subsection (4)—
+(4A)[^c-f8159c86ee004048bc51ff4aace0c478] For the purposes of subsection (4)—
 
 - (a) in the case of an overseas life insurance company, ignore transfers in relation to assets which are not UK assets (within the meaning of section 117 of FA 2012), and
 - (b) section 122 of that Act applies as it applies for the purposes of Chapter 8 of Part 2 of that Act.
@@ -51,8 +51,8 @@ as a result of a transaction within subsection (2) or a series of transactions w
 
 ## Annotations
 
-[^key-fd3f0c6b330676b39edaac74db51d317]: Modification: [S. 336](https://www.legislation.gov.uk/ukpga/2009/4/section/336) excluded (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/33/3/b)
+[^c-fd3f0c6b330676b39edaac74db51d317]: Modification: [S. 336](https://www.legislation.gov.uk/ukpga/2009/4/section/336) excluded (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 33(3)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/33/3/b)
 
-[^key-a3107e92c8db49ee30e251ce5e685dd4]: Textual amendment: Words in s. 336(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 148(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/148/2)
+[^c-a3107e92c8db49ee30e251ce5e685dd4]: Textual amendment: Words in s. 336(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 148(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/148/2)
 
-[^key-f8159c86ee004048bc51ff4aace0c478]: Textual amendment: S. 336(4A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 148(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/148/3)
+[^c-f8159c86ee004048bc51ff4aace0c478]: Textual amendment: S. 336(4A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 148(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/148/3)

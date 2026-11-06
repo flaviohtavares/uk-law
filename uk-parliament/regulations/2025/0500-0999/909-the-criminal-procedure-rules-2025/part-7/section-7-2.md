@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.2. Application for summons, etc.[^key-2713b6b05b6a5f40aff71e5d8883a497]
+## 7.2. Application for summons, etc.[^c-2713b6b05b6a5f40aff71e5d8883a497]
 
 *Extent: E+W*
 
@@ -100,13 +100,13 @@ within any time limit that applies to that offence.
 
 (13) If the court so directs, a party to an application to issue or withdraw a summons or warrant may attend a hearing by live link.
 
-(14)[^key-66af406efc3ae434dc566c5351ba8425] The court must not issue a summons or warrant if that would be incompatible with a statutory provision or other rule of law.
+(14)[^c-66af406efc3ae434dc566c5351ba8425] The court must not issue a summons or warrant if that would be incompatible with a statutory provision or other rule of law.
 
 *\[Note. In some legislation, including the Magistrates’ Courts Act 1980, an application for the issue of a summons or warrant is described as an ‘information’ and serving an application on the court officer or presenting it to the court is described as ‘laying’ that information.*
 
 *Where an offence can be tried only in a magistrates’ court the general time limit for serving or presenting an application for a summons or warrant, and for issuing a written charge, is prescribed by section 127 of the Magistrates’ Courts Act 1980*[^f00245] *and section 30(5) of the Criminal Justice Act 2003*[^f00246]*. However, the legislation that creates the offence may prescribe a different time limit, which may be calculated by reference to the date of the offence or by reference to another event specified by that legislation. If the application contains insufficient information to show that it is in time the court may refuse to issue a summons or warrant.*
 
-*Where all the relevant statutory requirements for the issue of a summons or warrant are met, including any time limit, the court may nonetheless have to refuse to issue it in circumstances established in case law. Those circumstances include any case in which (but this is not an exhaustive list)[^key-6b28fb9fd1ce5a04a166e972c2fccee7]*—
+*Where all the relevant statutory requirements for the issue of a summons or warrant are met, including any time limit, the court may nonetheless have to refuse to issue it in circumstances established in case law. Those circumstances include any case in which (but this is not an exhaustive list)[^c-6b28fb9fd1ce5a04a166e972c2fccee7]*—
 
 - (a) *the prosecutor asserts facts incapable of proof in a criminal court as a matter of law;*
 - (b) *the defendant has immunity from prosecution for the conduct alleged;*
@@ -135,14 +135,14 @@ within any time limit that applies to that offence.
 
 ## Annotations
 
-[^key-2713b6b05b6a5f40aff71e5d8883a497]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/uksi/2025/909/rule/7.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2713b6b05b6a5f40aff71e5d8883a497]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/uksi/2025/909/rule/7.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00244]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 17 was amended by section 40 of, and paragraph 41 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and paragraphs 1 and 4 and Part 4 of Schedule 7 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-66af406efc3ae434dc566c5351ba8425]: Textual amendment: [Rule 7.2(14)](https://www.legislation.gov.uk/uksi/2025/909/rule/7.2/14) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/721/rule/8/a)
+[^c-66af406efc3ae434dc566c5351ba8425]: Textual amendment: [Rule 7.2(14)](https://www.legislation.gov.uk/uksi/2025/909/rule/7.2/14) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/721/rule/8/a)
 
 [^f00245]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^f00246]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44); section 30(5) was amended by section 47 of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).
 
-[^key-6b28fb9fd1ce5a04a166e972c2fccee7]: Textual amendment: Words in [rule 7.2](https://www.legislation.gov.uk/uksi/2025/909/rule/7.2) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/8/b)
+[^c-6b28fb9fd1ce5a04a166e972c2fccee7]: Textual amendment: Words in [rule 7.2](https://www.legislation.gov.uk/uksi/2025/909/rule/7.2) Note inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/8/b)

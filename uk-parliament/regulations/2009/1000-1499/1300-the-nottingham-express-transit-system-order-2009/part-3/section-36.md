@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Temporary use of land for construction of works[^key-f98dc871b8d6106b3c15cc5e5503b79e]
+## 36. Temporary use of land for construction of works[^c-f98dc871b8d6106b3c15cc5e5503b79e]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f98dc871b8d6106b3c15cc5e5503b79e]: Commencement: Art. 36 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-f98dc871b8d6106b3c15cc5e5503b79e]: Commencement: Art. 36 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

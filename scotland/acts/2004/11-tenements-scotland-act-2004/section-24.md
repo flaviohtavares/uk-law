@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Liability to non owner for certain damage costs[^key-fb895ed50c49f9bd1949fc607be47bdc]
+## 24. Liability to non owner for certain damage costs[^c-fb895ed50c49f9bd1949fc607be47bdc]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ any owner of a flat in the tenement (that owner being in this subsection referre
 
 ## Annotations
 
-[^key-fb895ed50c49f9bd1949fc607be47bdc]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2004/11/section/24) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-fb895ed50c49f9bd1949fc607be47bdc]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2004/11/section/24) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

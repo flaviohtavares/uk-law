@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Dispensations for the bareboat charterers of fishing vessels[^key-17ec0ecfc919976b0d1333a77f8fcd10]
+## 76. Dispensations for the bareboat charterers of fishing vessels[^c-17ec0ecfc919976b0d1333a77f8fcd10]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The charterers of fishing vessels which are, or are to be, registered as bareboa
 
 ## Annotations
 
-[^key-17ec0ecfc919976b0d1333a77f8fcd10]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1993/3138/regulation/76) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-17ec0ecfc919976b0d1333a77f8fcd10]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/1993/3138/regulation/76) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

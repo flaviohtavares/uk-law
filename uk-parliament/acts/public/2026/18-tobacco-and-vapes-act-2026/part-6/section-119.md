@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Designing advertisements[^key-34dc421b7cbee03862bbbccfd11e5d20]
+## 119. Designing advertisements[^c-34dc421b7cbee03862bbbccfd11e5d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34dc421b7cbee03862bbbccfd11e5d20]: Commencement: S. 119 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-34dc421b7cbee03862bbbccfd11e5d20]: Commencement: S. 119 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

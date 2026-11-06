@@ -37,11 +37,11 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 150(5) and 156(2) of the Welsh Language (Wales) Measure 2011[^f00001], make the following Order:
 
-## 1. Title[^key-8587d8a62b10e71940529658612817f8]
+## 1. Title[^c-8587d8a62b10e71940529658612817f8]
 
 The title of this Order is the Welsh Language (Wales) Measure 2011 (Commencement No.4) Order 2012.
 
-## 2. Commencement[^key-fb6ed9d009a1e71fdac92160192e3543]
+## 2. Commencement[^c-fb6ed9d009a1e71fdac92160192e3543]
 
 The following provisions of the Welsh Language (Wales) Measure 2011 come into force on 1 April 2012—
 
@@ -104,6 +104,6 @@ The following provisions of the Measure have been brought into force by commence
 
 [^f00001]: Footnote: [2011 nawm 1](https://www.legislation.gov.uk/mwa/2011/1).
 
-[^key-8587d8a62b10e71940529658612817f8]: Commencement: Art. 1 in force at made date
+[^c-8587d8a62b10e71940529658612817f8]: Commencement: Art. 1 in force at made date
 
-[^key-fb6ed9d009a1e71fdac92160192e3543]: Commencement: Art. 2 in force at made date
+[^c-fb6ed9d009a1e71fdac92160192e3543]: Commencement: Art. 2 in force at made date

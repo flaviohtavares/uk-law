@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Police equipment[^key-3ee7f57662f20168da526512bb33007a]
+## 11. Police equipment[^c-3ee7f57662f20168da526512bb33007a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ee7f57662f20168da526512bb33007a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/26/section/11) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/125/article/2/b)
+[^c-3ee7f57662f20168da526512bb33007a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/26/section/11) in force at 29.1.2010 by [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/125/article/2/b)

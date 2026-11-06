@@ -124,11 +124,11 @@ The Secretary of State must ensure that all the information recorded in the Nati
 
 (3) In subsection (2)(b) “**the maximum period**” means—
 
-- (a) in [^key-40c661b2ab5c658adbbc052bd58598e8]... Scotland, 12 months, and
+- (a) in [^c-40c661b2ab5c658adbbc052bd58598e8]... Scotland, 12 months, and
 - (b) in Northern Ireland, 6 months.
-- (c)[^key-659da1c62352593dbbda690876d5b144] in England and Wales, the general limit in a magistrates’ court.
+- (c)[^c-659da1c62352593dbbda690876d5b144] in England and Wales, the general limit in a magistrates’ court.
 
-(4) In subsection (3)(c)[^key-1748d1b9a384614c241ef4d4fea819f6] the reference to the general limit in a magistrates’ court[^key-f54129963aeaeed1369d8bf7d22ee9c6] in England and Wales is to be read, in relation to an offence committed before 2 May 2022[^key-51bacfc66bab3694175ef950c045264e], as a reference to 6 months.
+(4) In subsection (3)(c)[^c-1748d1b9a384614c241ef4d4fea819f6] the reference to the general limit in a magistrates’ court[^c-f54129963aeaeed1369d8bf7d22ee9c6] in England and Wales is to be read, in relation to an offence committed before 2 May 2022[^c-51bacfc66bab3694175ef950c045264e], as a reference to 6 months.
 
 ### 7. Meaning of “identity document”
 
@@ -143,13 +143,13 @@ The Secretary of State must ensure that all the information recorded in the Nati
 
 (2) In subsection (1)(a) “**immigration document**” means—
 
-- (a)[^key-38a477a4f6d733cb6e63298872ff76ec] a document used for confirming—
+- (a)[^c-38a477a4f6d733cb6e63298872ff76ec] a document used for confirming—
   - (i) the right of a person at a time before IP completion day under the EU Treaties in respect of entry or residence in the United Kingdom, or
   - (ii) the right of a person under the Immigration (European Economic Area) Regulations 2016 (as they continue to have effect by virtue of the Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020) in respect of entry or residence in the United Kingdom,
 - (b) a document that is given in exercise of immigration functions and records information about leave granted to a person to enter or to remain in the United Kingdom, or
 - (c) a registration card (within the meaning of section 26A of the Immigration Act 1971).
 
-(2A)[^key-480e8c4f8b634ff83d98cd6e95d6f562] In subsection 2(a)(i) “**EU Treaties**” includes a reference to those Treaties so far as applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement.
+(2A)[^c-480e8c4f8b634ff83d98cd6e95d6f562] In subsection 2(a)(i) “**EU Treaties**” includes a reference to those Treaties so far as applicable to and in the United Kingdom by virtue of Part 4 of the EU withdrawal agreement.
 
 (3) In subsection (2)(b) “**immigration functions**” means functions under the Immigration Acts (within the meaning of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004).
 
@@ -483,16 +483,16 @@ Section 12
 
 ## Annotations
 
-[^key-40c661b2ab5c658adbbc052bd58598e8]: Textual amendment: Words in [s. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/3/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/23/2)
+[^c-40c661b2ab5c658adbbc052bd58598e8]: Textual amendment: Words in [s. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/3/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [23(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/23/2)
 
-[^key-659da1c62352593dbbda690876d5b144]: Textual amendment: [S. 6(3)(c)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/3/c) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/23/3)
+[^c-659da1c62352593dbbda690876d5b144]: Textual amendment: [S. 6(3)(c)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/3/c) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/23/3)
 
-[^key-1748d1b9a384614c241ef4d4fea819f6]: Textual amendment: Word in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [23(4)](https://www.legislation.gov.uk/uksi/2023/149/regulation/23/4)
+[^c-1748d1b9a384614c241ef4d4fea819f6]: Textual amendment: Word in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [23(4)](https://www.legislation.gov.uk/uksi/2023/149/regulation/23/4)
 
-[^key-f54129963aeaeed1369d8bf7d22ee9c6]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f54129963aeaeed1369d8bf7d22ee9c6]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-51bacfc66bab3694175ef950c045264e]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-51bacfc66bab3694175ef950c045264e]: Textual amendment: Words in [s. 6(4)](https://www.legislation.gov.uk/ukpga/2010/40/section/6/4) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-38a477a4f6d733cb6e63298872ff76ec]: Textual amendment: [S. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2010/40/section/7/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/19/2/a)
+[^c-38a477a4f6d733cb6e63298872ff76ec]: Textual amendment: [S. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2010/40/section/7/2/a) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [19(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/19/2/a)
 
-[^key-480e8c4f8b634ff83d98cd6e95d6f562]: Textual amendment: [S. 7(2A)](https://www.legislation.gov.uk/ukpga/2010/40/section/7/2A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/19/2/b)
+[^c-480e8c4f8b634ff83d98cd6e95d6f562]: Textual amendment: [S. 7(2A)](https://www.legislation.gov.uk/ukpga/2010/40/section/7/2A) inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [19(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/19/2/b)

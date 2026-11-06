@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Provision of false or misleading information[^key-0bc44fe9b71ce4f44d53d9f674877938]
+## 43. Provision of false or misleading information[^c-0bc44fe9b71ce4f44d53d9f674877938]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A person commits an offence if, for the purposes of obtaining an authorisation o
 
 ## Annotations
 
-[^key-0bc44fe9b71ce4f44d53d9f674877938]: Commencement: Reg. 43 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-0bc44fe9b71ce4f44d53d9f674877938]: Commencement: Reg. 43 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

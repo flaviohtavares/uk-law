@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Transfer of property, rights and liabilities[^key-fd6f867dcef38be91378f5f40ac8e0da]
+## 4. Transfer of property, rights and liabilities[^c-fd6f867dcef38be91378f5f40ac8e0da]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd6f867dcef38be91378f5f40ac8e0da]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/470/article/4) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-fd6f867dcef38be91378f5f40ac8e0da]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/470/article/4) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
 
 [^f00013]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13). Section 18 makes provision to permit (with certain restrictions) the delegation of functions by a police and crime commissioner to the deputy police and crime commissioner and to other persons. Section 18 has been amended by section 79 of, and paragraph 53 of Schedule 7 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); and by section 45 of, and paragraph 116 of Schedule 12 to, the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2).

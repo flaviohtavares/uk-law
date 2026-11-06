@@ -24,7 +24,7 @@ Article 45.
 
 ### PART I — SCHOOL ATTENDANCE ORDERS
 
-**1.**[^c18642171] (1) If it appears to the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] that a parent of a child of compulsory school age [^key-eda7af8d475eefef6b91485b148003c2]... is failing to perform the duty imposed on him by Article 45, it shall serve a notice in writing on the parent requiring him to satisfy the Authority, within such period (not being less than fourteen days beginning with the day on which the notice is served) as is specified in the notice, that the child is, by regular attendance at school or otherwise, receiving suitable education.
+**1.**[^c18642171] (1) If it appears to the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] that a parent of a child of compulsory school age [^c-eda7af8d475eefef6b91485b148003c2]... is failing to perform the duty imposed on him by Article 45, it shall serve a notice in writing on the parent requiring him to satisfy the Authority, within such period (not being less than fourteen days beginning with the day on which the notice is served) as is specified in the notice, that the child is, by regular attendance at school or otherwise, receiving suitable education.
 
 (2) If—
 
@@ -38,7 +38,7 @@ the Authority shall serve in the prescribed manner on the parent an order (refer
 - (a) where the school named in the order provides education for pupils up to the upper limit of compulsory school age or beyond, for so long as the child is of compulsory school age;
 - (b) where the school does not provide education up to or beyond that age, until the pupil has reached the age at which he would normally leave that school.
 
-(4)[^key-b14355bf5720d88dfa9608d661d4aecd][^key-e8a79c7f03cdf5a3f6c1642b0cd6cc67] Where a grant-aided school is named in a school attendance order the Board of Governors of the school shall admit the child to the school.
+(4)[^c-b14355bf5720d88dfa9608d661d4aecd][^c-e8a79c7f03cdf5a3f6c1642b0cd6cc67] Where a grant-aided school is named in a school attendance order the Board of Governors of the school shall admit the child to the school.
 
 (5) Sub-paragraph (4) does not affect any power to suspend or expel from a school a pupil who is already a registered pupil there.
 
@@ -105,7 +105,7 @@ the Authority shall amend the order so that it names the school specified in the
 
 ### PART II — DUTY OF PARENT OF REGISTERED PUPIL TO SECURE HIS REGULAR ATTENDANCE AT SCHOOL
 
-**3.** (1)[^key-9b5c4ee2e1a9f3919a78746ba1914d4e][^key-bc1aeea74ea70ae4c32924b30b7e17e8] Subject to the following provisions of this paragraph, it shall be the duty of a parent of a registered pupil at a school to secure his regular attendance at that school.
+**3.** (1)[^c-9b5c4ee2e1a9f3919a78746ba1914d4e][^c-bc1aeea74ea70ae4c32924b30b7e17e8] Subject to the following provisions of this paragraph, it shall be the duty of a parent of a registered pupil at a school to secure his regular attendance at that school.
 
 (1A)[^c19598301] For the purposes of sub-paragraph (1) and of any proceedings under paragraph 4, attendance by a pupil at a school or other place in pursuance of arrangements under Article 21 of the Education (Northern Ireland) Order 2006 shall be taken to be attendance at the school at which he is a registered pupil.
 
@@ -136,7 +136,7 @@ the Authority shall amend the order so that it names the school specified in the
 
 *Sub‐para. (2) rep. by 1995 NI 2*
 
-(3) [^c17011011]. . . Where it appears to the Authority that a child of compulsory school age [^key-f961d01ba6cfa261d98d1a9ffc3a88d6]... is a child whom a person habitually wandering from place to place takes with him, the Authority may, if satisfied that it is necessary to do so in order to secure that the child receives efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have, apply for an education supervision order.
+(3) [^c17011011]. . . Where it appears to the Authority that a child of compulsory school age [^c-f961d01ba6cfa261d98d1a9ffc3a88d6]... is a child whom a person habitually wandering from place to place takes with him, the Authority may, if satisfied that it is necessary to do so in order to secure that the child receives efficient full-time education suitable to his age, ability and aptitude and to any special educational needs he may have, apply for an education supervision order.
 
 (4) In this Schedule “education supervision order” means an education supervision order under the Children (Northern Ireland) Order 1995.
 
@@ -174,19 +174,19 @@ the court may direct that the school attendance order shall cease to have effect
 
 [^c18642171]: Textual amendment: [1996 NI 1](https://www.legislation.gov.uk/nisi/1996)
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-eda7af8d475eefef6b91485b148003c2]: Textual amendment: Words in Sch. 13 para. 1(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-eda7af8d475eefef6b91485b148003c2]: Textual amendment: Words in Sch. 13 para. 1(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-b14355bf5720d88dfa9608d661d4aecd]: Modification: [Sch. 13 para. 1(4)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/1/4) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-b14355bf5720d88dfa9608d661d4aecd]: Modification: [Sch. 13 para. 1(4)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/1/4) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-e8a79c7f03cdf5a3f6c1642b0cd6cc67]: Modification: [Sch. 13 para. 1(4)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/1/4) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-e8a79c7f03cdf5a3f6c1642b0cd6cc67]: Modification: [Sch. 13 para. 1(4)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/1/4) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17010911]: Textual amendment: [2005 NI 6](https://www.legislation.gov.uk/nisi/2005)
 
-[^key-9b5c4ee2e1a9f3919a78746ba1914d4e]: Modification: [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/3/1) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-9b5c4ee2e1a9f3919a78746ba1914d4e]: Modification: [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/3/1) power to disapply or modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/17) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
-[^key-bc1aeea74ea70ae4c32924b30b7e17e8]: Modification: [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/3/1) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-bc1aeea74ea70ae4c32924b30b7e17e8]: Modification: [Sch. 13 para. 3(1)](https://www.legislation.gov.uk/nisi/1986/594/schedule/13/paragraph/3/1) expiry of earlier affecting provision 2020 c. 7, Sch. 16 para. 17 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c19598301]: Textual amendment: Sch. 13 para. 3(1A) inserted (23.3.2007) by [Education (Northern Ireland) Order 2006 (S.I. 2006/1915 (N.I. 11))](https://www.legislation.gov.uk/nisi/2006/1915), [arts. 1(4)(c)](https://www.legislation.gov.uk/nisi/2006/1915/article/1/4/c), [44(1)](https://www.legislation.gov.uk/nisi/2006/1915/article/44/1), [Sch. 2 para. 29](https://www.legislation.gov.uk/nisi/2006/1915/schedule/2/paragraph/29); [S.R. 2007/197](https://www.legislation.gov.uk/nisr/2007/197), [art. 2(a)](https://www.legislation.gov.uk/nisr/2007/197/article/2/a)
 
@@ -196,7 +196,7 @@ the court may direct that the school attendance order shall cease to have effect
 
 [^c17011011]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/nisi/1995)
 
-[^key-f961d01ba6cfa261d98d1a9ffc3a88d6]: Textual amendment: Words in Sch. 13 para. 5(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f961d01ba6cfa261d98d1a9ffc3a88d6]: Textual amendment: Words in Sch. 13 para. 5(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c18643231]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/nisi/1995)
 

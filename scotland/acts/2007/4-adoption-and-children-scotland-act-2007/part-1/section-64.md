@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. The special restrictions[^key-c2cb59ded13ee57c9289eeae78c18ecf]
+## 64. The special restrictions[^c-c2cb59ded13ee57c9289eeae78c18ecf]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2cb59ded13ee57c9289eeae78c18ecf]: Commencement: S. 64 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)
+[^c-c2cb59ded13ee57c9289eeae78c18ecf]: Commencement: S. 64 in force at 1.9.2008 by [S.S.I. 2008/282](https://www.legislation.gov.uk/ssi/2008/282), [art. 2](https://www.legislation.gov.uk/ssi/2008/282/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9A — STANDARD CONTRACTS: RESTRICTIONS ON GIVING NOTICE UNDER SECTION 173, UNDER SECTION 186, AND UNDER A LANDLORD'S BREAK CLAUSE[^key-d0c9fcffc358f9642c00651c85b7c0f2]
+## SCHEDULE 9A — STANDARD CONTRACTS: RESTRICTIONS ON GIVING NOTICE UNDER SECTION 173, UNDER SECTION 186, AND UNDER A LANDLORD'S BREAK CLAUSE[^c-d0c9fcffc358f9642c00651c85b7c0f2]
 
 *Extent: E+W*
 
@@ -26,37 +26,37 @@ summary: ''
 
 #### Failure to provide written statement
 
-**1.**[^key-0936eda01e703bbea4b7b45ab356f510] (1)[^key-4bacee7d5c227152d2b4a3561ae30128] This paragraph is incorporated as a term of all standard contracts which—
+**1.**[^c-0936eda01e703bbea4b7b45ab356f510] (1)[^c-4bacee7d5c227152d2b4a3561ae30128] This paragraph is incorporated as a term of all standard contracts which—
 
 - (a) are mentioned in paragraph 7(1), and
 - (b) incorporate section 31.
 
-(2)[^key-7b0d88704a429e5384e58d860a37deef] A landlord may not give notice at a time when—
+(2)[^c-7b0d88704a429e5384e58d860a37deef] A landlord may not give notice at a time when—
 
 - (a) the contract-holder has not been given a written statement of the contract under section 31(1) (requirement to provide written statement at the start of a contract), or
 - (b) the landlord is aware that the identity of the contract-holder has changed, and the new contract-holder has not been given a written statement of the contract under section 31(2) (requirement to give written statement to a new contract-holder).
 
 #### Six month restriction following failure to provide written statement within the period specified in section 31
 
-**2.**[^key-71db317f60aa23ab292036f8d337aca3] (1)[^key-b08500ce04d75d2e5efb8767c42c60b8] This paragraph is incorporated as a term of all standard contracts which—
+**2.**[^c-71db317f60aa23ab292036f8d337aca3] (1)[^c-b08500ce04d75d2e5efb8767c42c60b8] This paragraph is incorporated as a term of all standard contracts which—
 
 - (a) are mentioned in paragraph 7(1), and
 - (b) incorporate section 31.
 
-(2)[^key-579a3e6221808c3600fd323976f82f1f] A landlord who has failed to comply with section 31(1) or (2) may not give notice during the period of six months starting with the day on which the landlord gave a written statement of the contract to the contract-holder.
+(2)[^c-579a3e6221808c3600fd323976f82f1f] A landlord who has failed to comply with section 31(1) or (2) may not give notice during the period of six months starting with the day on which the landlord gave a written statement of the contract to the contract-holder.
 
 #### Failure to provide information
 
-**3.**[^key-28bb08a10c998b159d22478d42c23d28] (1)[^key-0c6e297df889e1998d4b4d37cfd2c024] This paragraph is incorporated as a term of all standard contracts which—
+**3.**[^c-28bb08a10c998b159d22478d42c23d28] (1)[^c-0c6e297df889e1998d4b4d37cfd2c024] This paragraph is incorporated as a term of all standard contracts which—
 
 - (a) are mentioned in paragraph 7(1), and
 - (b) incorporate section 39.
 
-(2)[^key-cde290d685b4beb1df48eed329ed3742] A landlord may not give notice at a time when the landlord has not provided a notice required under section 39 (duty to provide information).
+(2)[^c-cde290d685b4beb1df48eed329ed3742] A landlord may not give notice at a time when the landlord has not provided a notice required under section 39 (duty to provide information).
 
-#### Failure to provide valid energy performance certificate[^key-af4dacaf827679da657b091be66d0de4]
+#### Failure to provide valid energy performance certificate[^c-af4dacaf827679da657b091be66d0de4]
 
-**3A.**[^key-a83560f85ee32a05774d842e4d1dd12c] (1) This paragraph is incorporated as a term of all standard contracts which—
+**3A.**[^c-a83560f85ee32a05774d842e4d1dd12c] (1) This paragraph is incorporated as a term of all standard contracts which—
 
 - (a) are mentioned in paragraph 7(1), and
 - (b) relate to a dwelling in relation to which regulation 6(5) of the EPB Regulations (requirement to give tenant a valid energy performance certificate) applies.
@@ -72,7 +72,7 @@ summary: ''
 
 #### Breach of security and deposit requirements
 
-**4.**[^key-d08b1178a7e32998be5e0d857b49638d][^key-5f2a11163875e35479469481f042d17b] (1) A landlord may not give notice at a time when security required by the landlord in connection with the contract in a form not permitted by section 43 has not been returned to the person by whom it was given.
+**4.**[^c-d08b1178a7e32998be5e0d857b49638d][^c-5f2a11163875e35479469481f042d17b] (1) A landlord may not give notice at a time when security required by the landlord in connection with the contract in a form not permitted by section 43 has not been returned to the person by whom it was given.
 
 (2) A landlord may not give a notice at a time when any of sub-paragraphs (3) to (5) apply unless—
 
@@ -85,18 +85,18 @@ summary: ''
 
 (5) This sub-paragraph applies if a deposit paid in connection with the contract is not being held in accordance with an authorised deposit scheme.
 
-(6)[^key-d186224c2f6e8f511ffc93c5377bb04c] Sub-paragraph (1) is only incorporated as a term of a contract mentioned in paragraph 7(1) which incorporates section 43.
+(6)[^c-d186224c2f6e8f511ffc93c5377bb04c] Sub-paragraph (1) is only incorporated as a term of a contract mentioned in paragraph 7(1) which incorporates section 43.
 
-#### Prohibited payments and holding deposits under the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019 (anaw 2)[^key-ddb0b0d6da61c7427fc8b760bb0db131]
+#### Prohibited payments and holding deposits under the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019 (anaw 2)[^c-ddb0b0d6da61c7427fc8b760bb0db131]
 
-**5.**[^key-6e79c9cfc7c6d24c4aec113ca2273de2] (1) A landlord may not give a notice at a time when—
+**5.**[^c-6e79c9cfc7c6d24c4aec113ca2273de2] (1) A landlord may not give a notice at a time when—
 
-- (a) a prohibited payment (within the meaning of the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^key-a42c7ddcfc434066a87bc24e8e9b3f2f]) has been made in relation to the contract as described in section 2 or 3 of that Act, and
+- (a) a prohibited payment (within the meaning of the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^c-a42c7ddcfc434066a87bc24e8e9b3f2f]) has been made in relation to the contract as described in section 2 or 3 of that Act, and
 - (b) that prohibited payment has not been repaid.
 
 (2) A landlord may not give a notice at a time when—
 
-- (a) a holding deposit (within the meaning of the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^key-ddc323865d60f8e36c72b5ee0794473b]) paid in relation to the contract has not been repaid, and
+- (a) a holding deposit (within the meaning of the Renting Homes (Fees, Discrimination etc.) (Wales) Act 2019[^c-ddc323865d60f8e36c72b5ee0794473b]) paid in relation to the contract has not been repaid, and
 - (b) the failure to repay the deposit amounts to a breach of the requirements of Schedule 2 to that Act.
 
 (3) In determining for the purposes of this paragraph whether a prohibited payment or a holding deposit has been repaid, the payment or deposit is to be treated as having been repaid to the extent (if any) that it has been applied towards either or both of the following⁠—
@@ -104,9 +104,9 @@ summary: ''
 - (a) a payment of rent under the contract;
 - (b) a payment required as security in respect of the contract.
 
-#### Failure to ensure that working smoke alarms and carbon monoxide alarms are installed[^key-4436c7225012aa08e1ab803915e2d07b]
+#### Failure to ensure that working smoke alarms and carbon monoxide alarms are installed[^c-4436c7225012aa08e1ab803915e2d07b]
 
-**5A.**[^key-4c5bf75e24af748b5e3b3a1c203651c2] (1) This paragraph is incorporated as a term of all standard contracts—
+**5A.**[^c-4c5bf75e24af748b5e3b3a1c203651c2] (1) This paragraph is incorporated as a term of all standard contracts—
 
 - (a) which are mentioned in paragraph 7(1), and
 - (b) in relation to which regulation 5 of the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022 ([S.I. 2022/6 (W. 4)](https://www.legislation.gov.uk/wsi/2022/6)) (“**the Fitness for Human Habitation Regulations**”) applies.
@@ -118,7 +118,7 @@ summary: ''
 
 #### Failure to supply electrical condition report etc.
 
-**5B.**[^key-333f65a9e3a05fc19fac063139a63bd4] (1) This paragraph is incorporated as a term of all standard contracts—
+**5B.**[^c-333f65a9e3a05fc19fac063139a63bd4] (1) This paragraph is incorporated as a term of all standard contracts—
 
 - (a) which are mentioned in paragraph 7(1), and
 - (b) in relation to which regulation 6 of the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022 ([S.I. 2022/6 (W. 4)](https://www.legislation.gov.uk/wsi/2022/6)) (“**the Fitness for Human Habitation Regulations**”) applies.
@@ -130,7 +130,7 @@ summary: ''
 
 #### Failure to provide gas safety report to contract-holder
 
-**5C.**[^key-f81ae0d2b5592136c75120ab75826eaf] (1) This paragraph is incorporated as a term of all standard contracts—
+**5C.**[^c-f81ae0d2b5592136c75120ab75826eaf] (1) This paragraph is incorporated as a term of all standard contracts—
 
 - (a) which are mentioned in paragraph 7(1), and
 - (b) in relation to which regulation 36 of the Gas Safety Regulations applies.
@@ -152,7 +152,7 @@ summary: ''
 
 #### Meaning of “notice”
 
-**6.**[^key-5785f5021b8176e85d6f7f213d7a0789] In this Schedule, “**notice**” means notice under—
+**6.**[^c-5785f5021b8176e85d6f7f213d7a0789] In this Schedule, “**notice**” means notice under—
 
 - (a) section 173 (landlord's notice under a periodic standard contract);
 - (b) section 186 (landlord's notice in connection with end of fixed term);
@@ -162,7 +162,7 @@ summary: ''
 
 #### Fundamental provision
 
-**7.**[^key-5310e3d49b5c71856601a34b80a4970f] (1) Part 1 of this Schedule is a fundamental provision which is , subject to any provision to the contrary in Part 1,[^key-b5f065913e281c672fdb9ee5a216c2a9] incorporated as a term of all—
+**7.**[^c-5310e3d49b5c71856601a34b80a4970f] (1) Part 1 of this Schedule is a fundamental provision which is , subject to any provision to the contrary in Part 1,[^c-b5f065913e281c672fdb9ee5a216c2a9] incorporated as a term of all—
 
 - (a) periodic standard contracts which incorporate section 173 as a term of the contract,
 - (b) fixed term standard contracts which incorporate section 186 as a term of the contract, and
@@ -175,60 +175,60 @@ summary: ''
 
 #### Power to amend Schedule
 
-**8.**[^key-5f171e735d2fb155d9c26459e0a65dbe] The Welsh Ministers may by regulations amend this Schedule.
+**8.**[^c-5f171e735d2fb155d9c26459e0a65dbe] The Welsh Ministers may by regulations amend this Schedule.
 
 ## Annotations
 
-[^key-d0c9fcffc358f9642c00651c85b7c0f2]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asc/2021/3/schedule/2)
+[^c-d0c9fcffc358f9642c00651c85b7c0f2]: Textual amendment: [Sch. 9A](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 2](https://www.legislation.gov.uk/asc/2021/3/schedule/2)
 
-[^key-0936eda01e703bbea4b7b45ab356f510]: Commencement: [Sch. 9A para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-0936eda01e703bbea4b7b45ab356f510]: Commencement: [Sch. 9A para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-4bacee7d5c227152d2b4a3561ae30128]: Textual amendment: [Sch. 9A para. 1(1)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/1/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/wsi/2022/143), [regs. 1](https://www.legislation.gov.uk/wsi/2022/143/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/wsi/2022/143/regulation/5/2/b) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-4bacee7d5c227152d2b4a3561ae30128]: Textual amendment: [Sch. 9A para. 1(1)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/1/1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/wsi/2022/143), [regs. 1](https://www.legislation.gov.uk/wsi/2022/143/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/wsi/2022/143/regulation/5/2/b) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-7b0d88704a429e5384e58d860a37deef]: Textual amendment: [Sch. 9A para. 1(2)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/1/2): Sch. 9A para. 1 renumbered as Sch. 9A para. 1(2) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/wsi/2022/143), [regs. 1](https://www.legislation.gov.uk/wsi/2022/143/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/wsi/2022/143/regulation/5/2/a) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-7b0d88704a429e5384e58d860a37deef]: Textual amendment: [Sch. 9A para. 1(2)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/1/2): Sch. 9A para. 1 renumbered as Sch. 9A para. 1(2) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/wsi/2022/143), [regs. 1](https://www.legislation.gov.uk/wsi/2022/143/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/wsi/2022/143/regulation/5/2/a) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-71db317f60aa23ab292036f8d337aca3]: Commencement: [Sch. 9A para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-71db317f60aa23ab292036f8d337aca3]: Commencement: [Sch. 9A para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b08500ce04d75d2e5efb8767c42c60b8]: Textual amendment: Sch. 9A para. 2(1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/3/b) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-b08500ce04d75d2e5efb8767c42c60b8]: Textual amendment: Sch. 9A para. 2(1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/3/b) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-579a3e6221808c3600fd323976f82f1f]: Textual amendment: Sch. 9A para. 2 renumbered as Sch. 9A para. 2(2) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/3/a) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-579a3e6221808c3600fd323976f82f1f]: Textual amendment: Sch. 9A para. 2 renumbered as Sch. 9A para. 2(2) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/3/a) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-28bb08a10c998b159d22478d42c23d28]: Commencement: [Sch. 9A para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-28bb08a10c998b159d22478d42c23d28]: Commencement: [Sch. 9A para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-0c6e297df889e1998d4b4d37cfd2c024]: Textual amendment: Sch. 9A para. 3(1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/4/b) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-0c6e297df889e1998d4b4d37cfd2c024]: Textual amendment: Sch. 9A para. 3(1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/4/b) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-cde290d685b4beb1df48eed329ed3742]: Textual amendment: Sch. 9A para. 3 renumbered as Sch. 9A para. 3(2) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/4/a) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-cde290d685b4beb1df48eed329ed3742]: Textual amendment: Sch. 9A para. 3 renumbered as Sch. 9A para. 3(2) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/4/a) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-af4dacaf827679da657b091be66d0de4]: Textual amendment: Sch. 9A para. 3A and cross-heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/143/regulation/3) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-af4dacaf827679da657b091be66d0de4]: Textual amendment: Sch. 9A para. 3A and cross-heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/143/regulation/3) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-a83560f85ee32a05774d842e4d1dd12c]: Commencement: [Sch. 9A para. 3A](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/3A) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a83560f85ee32a05774d842e4d1dd12c]: Commencement: [Sch. 9A para. 3A](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/3A) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-d08b1178a7e32998be5e0d857b49638d]: Commencement: [Sch. 9A para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d08b1178a7e32998be5e0d857b49638d]: Commencement: [Sch. 9A para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-5f2a11163875e35479469481f042d17b]: Modification: [Sch. 9A para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/4) modified (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/1172/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
+[^c-5f2a11163875e35479469481f042d17b]: Modification: [Sch. 9A para. 4](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/4) modified (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Saving and Transitional Provisions) Regulations 2022 (S.I. 2022/1172)](https://www.legislation.gov.uk/wsi/2022/1172), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1172/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2022/1172/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/1172/regulation/19))
 
-[^key-d186224c2f6e8f511ffc93c5377bb04c]: Textual amendment: Sch. 9A para. 4(6) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/5) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-d186224c2f6e8f511ffc93c5377bb04c]: Textual amendment: Sch. 9A para. 4(6) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/5) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-ddb0b0d6da61c7427fc8b760bb0db131]: Textual amendment: Words in [Sch. 9A para. 5 cross-heading](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/part/1/crossheading/prohibited-payments-and-holding-deposits-under-the-renting-homes-fees-etc-wales-act-2019-anaw-2) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/b/i), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-ddb0b0d6da61c7427fc8b760bb0db131]: Textual amendment: Words in [Sch. 9A para. 5 cross-heading](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/part/1/crossheading/prohibited-payments-and-holding-deposits-under-the-renting-homes-fees-etc-wales-act-2019-anaw-2) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/b/i), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
 
-[^key-6e79c9cfc7c6d24c4aec113ca2273de2]: Commencement: [Sch. 9A para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-6e79c9cfc7c6d24c4aec113ca2273de2]: Commencement: [Sch. 9A para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-a42c7ddcfc434066a87bc24e8e9b3f2f]: Textual amendment: Words in [Sch. 9A para. 5(1)(a)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5/1/a) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/b/ii), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-a42c7ddcfc434066a87bc24e8e9b3f2f]: Textual amendment: Words in [Sch. 9A para. 5(1)(a)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5/1/a) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/b/ii), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
 
-[^key-ddc323865d60f8e36c72b5ee0794473b]: Textual amendment: Words in [Sch. 9A para. 5(2)(a)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5/2/a) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/b/iii), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-ddc323865d60f8e36c72b5ee0794473b]: Textual amendment: Words in [Sch. 9A para. 5(2)(a)](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5/2/a) substituted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 45(4)(b)(iii)](https://www.legislation.gov.uk/ukpga/2025/26/section/45/4/b/iii), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
 
-[^key-4436c7225012aa08e1ab803915e2d07b]: Textual amendment: Sch. 9A paras. 5A-5C and cross-heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/143/regulation/4) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-4436c7225012aa08e1ab803915e2d07b]: Textual amendment: Sch. 9A paras. 5A-5C and cross-heading inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [4](https://www.legislation.gov.uk/uksi/2022/143/regulation/4) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-4c5bf75e24af748b5e3b3a1c203651c2]: Commencement: [Sch. 9A para. 5A](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5A) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4c5bf75e24af748b5e3b3a1c203651c2]: Commencement: [Sch. 9A para. 5A](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5A) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-333f65a9e3a05fc19fac063139a63bd4]: Commencement: [Sch. 9A para. 5B](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5B) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-333f65a9e3a05fc19fac063139a63bd4]: Commencement: [Sch. 9A para. 5B](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5B) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-f81ae0d2b5592136c75120ab75826eaf]: Commencement: [Sch. 9A para. 5C](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5C) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-f81ae0d2b5592136c75120ab75826eaf]: Commencement: [Sch. 9A para. 5C](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/5C) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-5785f5021b8176e85d6f7f213d7a0789]: Commencement: [Sch. 9A para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-5785f5021b8176e85d6f7f213d7a0789]: Commencement: [Sch. 9A para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-5310e3d49b5c71856601a34b80a4970f]: Commencement: [Sch. 9A para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-5310e3d49b5c71856601a34b80a4970f]: Commencement: [Sch. 9A para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-b5f065913e281c672fdb9ee5a216c2a9]: Textual amendment: Words in Sch. 9A para. 7(1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/6) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
+[^c-b5f065913e281c672fdb9ee5a216c2a9]: Textual amendment: Words in Sch. 9A para. 7(1) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Amendment of Schedule 9A) Regulations 2022 (S.I. 2022/143)](https://www.legislation.gov.uk/uksi/2022/143), [regs. 1](https://www.legislation.gov.uk/uksi/2022/143/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2022/143/regulation/5/6) (as amended by [S.I. 2022/906](https://www.legislation.gov.uk/uksi/2022/906), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/906/article/1/2), [8](https://www.legislation.gov.uk/uksi/2022/906/article/8))
 
-[^key-5f171e735d2fb155d9c26459e0a65dbe]: Commencement: [Sch. 9A para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-5f171e735d2fb155d9c26459e0a65dbe]: Commencement: [Sch. 9A para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/9A/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

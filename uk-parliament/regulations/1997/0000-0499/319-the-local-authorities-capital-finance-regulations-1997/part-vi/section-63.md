@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Repayment of grants[^key-626a8e2e956d9ec00ae6f35ad4952f4d]
+## 63. Repayment of grants[^c-626a8e2e956d9ec00ae6f35ad4952f4d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A sum received by a local authority which, apart from this regulation, would be 
 
 ## Annotations
 
-[^key-626a8e2e956d9ec00ae6f35ad4952f4d]: Commencement: Reg. 63 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-626a8e2e956d9ec00ae6f35ad4952f4d]: Commencement: Reg. 63 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

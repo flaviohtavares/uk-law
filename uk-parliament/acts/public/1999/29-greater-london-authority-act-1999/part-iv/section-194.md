@@ -24,7 +24,7 @@ summary: ''
 
 (2) The provisions mentioned in subsection (1) above are—
 
-- (a) section 57 (death, bankruptcy, etc. of licence holder) taking the references to a traffic commissioner[^key-040add110cc93d70810858f74fa94289] as a reference to Transport for London, and
+- (a) section 57 (death, bankruptcy, etc. of licence holder) taking the references to a traffic commissioner[^c-040add110cc93d70810858f74fa94289] as a reference to Transport for London, and
 - (b) section 58(2) (grant of licences to unincorporated body or to persons jointly).
 
 (3) Section 84 of the [^c12803261]Public Passenger Vehicles Act 1981 (which relates to the effects of that Act in relation to general public interests) shall have effect as if the provisions of this Chapter were contained in that Act.
@@ -33,6 +33,6 @@ summary: ''
 
 [^c12803251]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-040add110cc93d70810858f74fa94289]: Textual amendment: Words in s. 194(2)(a) substituted (E.W.) (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-040add110cc93d70810858f74fa94289]: Textual amendment: Words in s. 194(2)(a) substituted (E.W.) (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
 [^c12803261]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 186. Consent of child to medical examination or treatment[^key-10183d71112f4ceecb342debc75502d7]
+## 186. Consent of child to medical examination or treatment[^c-10183d71112f4ceecb342debc75502d7]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the examination or treatment may be carried out only if the child consents to it
 
 ## Annotations
 
-[^key-10183d71112f4ceecb342debc75502d7]: Commencement: S. 186 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-10183d71112f4ceecb342debc75502d7]: Commencement: S. 186 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

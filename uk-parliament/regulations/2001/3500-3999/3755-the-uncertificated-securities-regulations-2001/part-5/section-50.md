@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Transitory provisions[^key-3355afc5f75f32e9e57903cb56971857]
+## 50. Transitory provisions[^c-3355afc5f75f32e9e57903cb56971857]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 (transitory provisions) shall have effect.
 
 ## Annotations
 
-[^key-3355afc5f75f32e9e57903cb56971857]: Commencement: Reg. 50 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-3355afc5f75f32e9e57903cb56971857]: Commencement: Reg. 50 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 53. Sanctions[^key-71d46484e9eccf1d6118598177c77824]
+## 53. Sanctions[^c-71d46484e9eccf1d6118598177c77824]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Subject to chapter 3, the Secretary of State may impose under this Part the sanc
 
 ## Annotations
 
-[^key-71d46484e9eccf1d6118598177c77824]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2012/2079/regulation/53) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-71d46484e9eccf1d6118598177c77824]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2012/2079/regulation/53) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

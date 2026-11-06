@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Payments treated as not being payments to which section 3 applies[^key-d950dc2c45489459d5af4c5e6360c8ae]
+## 68. Payments treated as not being payments to which section 3 applies[^c-d950dc2c45489459d5af4c5e6360c8ae]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ The following payments are to be treated as not being payments to which section 
 
 ## Annotations
 
-[^key-d950dc2c45489459d5af4c5e6360c8ae]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2016/219/regulation/68) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-d950dc2c45489459d5af4c5e6360c8ae]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2016/219/regulation/68) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00068]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1). Section 639(2) was inserted by section 19 of the Finance Act [2005 (c.7)](https://www.legislation.gov.uk/ukpga/2005/7)
 

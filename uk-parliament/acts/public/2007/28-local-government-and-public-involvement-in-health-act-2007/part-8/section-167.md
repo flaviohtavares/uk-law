@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Disclosure of information obtained by the Auditor General for Wales or an auditor[^key-82486d3ba7313dffd221c2b08bf3591a]
+## 167. Disclosure of information obtained by the Auditor General for Wales or an auditor[^c-82486d3ba7313dffd221c2b08bf3591a]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82486d3ba7313dffd221c2b08bf3591a]: Commencement: S. 167 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/h)
+[^c-82486d3ba7313dffd221c2b08bf3591a]: Commencement: S. 167 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/h)

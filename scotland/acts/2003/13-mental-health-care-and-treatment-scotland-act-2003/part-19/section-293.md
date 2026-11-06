@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 293. Removal order[^key-bf3c91d77cbce633dd2fa79e429d4dc4][^key-59a07a50957f882cbe2c78625d16f35f]
+## 293. Removal order[^c-bf3c91d77cbce633dd2fa79e429d4dc4][^c-59a07a50957f882cbe2c78625d16f35f]
 
 *Extent: S*
 
@@ -46,7 +46,7 @@ the sheriff may make an order under this section (any such order being referred 
 - (a) authorising—
   - (i) the mental health officer specified in the order;
   - (ii) any other persons so specified; and
-  - (iiia)[^key-085ae0815fcf7ff7507be818b92aca16] any constable of the Police Service of Scotland,
+  - (iiia)[^c-085ae0815fcf7ff7507be818b92aca16] any constable of the Police Service of Scotland,
 
   before the expiry of the period of 72 hours beginning with the granting of the order, to enter any premises so specified;
 - (b) authorising any such constable, before the expiry of that period, for the purpose of exercising the power mentioned in paragraph (a) above, to open lockfast places on premises so specified; and
@@ -72,8 +72,8 @@ the sheriff may make an order under this section (any such order being referred 
 
 ## Annotations
 
-[^key-bf3c91d77cbce633dd2fa79e429d4dc4]: Commencement: S. 293 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-bf3c91d77cbce633dd2fa79e429d4dc4]: Commencement: S. 293 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-59a07a50957f882cbe2c78625d16f35f]: Commencement: S. 293 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-59a07a50957f882cbe2c78625d16f35f]: Commencement: S. 293 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-085ae0815fcf7ff7507be818b92aca16]: Textual amendment: S. 293(3)(a)(iiia) substituted for s. 293(3)(a)(iii) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-085ae0815fcf7ff7507be818b92aca16]: Textual amendment: S. 293(3)(a)(iiia) substituted for s. 293(3)(a)(iii) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 23(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/23/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

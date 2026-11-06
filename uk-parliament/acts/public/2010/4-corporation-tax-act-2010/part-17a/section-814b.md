@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 814B. Key definitions[^key-99933655bcd5564f04875af9e827ebf1]
+## 814B. Key definitions[^c-99933655bcd5564f04875af9e827ebf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99933655bcd5564f04875af9e827ebf1]: Textual amendment: Pt. 17A inserted (with effect in accordance with Sch. 29 para. 51 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/2)
+[^c-99933655bcd5564f04875af9e827ebf1]: Textual amendment: Pt. 17A inserted (with effect in accordance with Sch. 29 para. 51 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/2)

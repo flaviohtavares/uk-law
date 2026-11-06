@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-9bfd8d38dc7be8c66065f741b3df8566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9bfd8d38dc7be8c66065f741b3df8566] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purpose of determining the punishment which may be imposed on a person in respect of the commission by him of an offence under any provision of this Act, an offence committed by that person under the corresponding enactment repealed by this Act shall be deemed to have been committed under that provision.
 
 ## Annotations
 
-[^key-9bfd8d38dc7be8c66065f741b3df8566]: Textual amendment: S. 94(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1
+[^c-9bfd8d38dc7be8c66065f741b3df8566]: Textual amendment: S. 94(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 1

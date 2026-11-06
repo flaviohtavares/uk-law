@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Powers of an inspector[^key-ec86fee11a979335ebe94d24eb2f59a9]
+## 17. Powers of an inspector[^c-ec86fee11a979335ebe94d24eb2f59a9]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec86fee11a979335ebe94d24eb2f59a9]: Commencement: Art. 17 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-ec86fee11a979335ebe94d24eb2f59a9]: Commencement: Art. 17 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

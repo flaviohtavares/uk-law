@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Guidance[^key-282e8ac6dd83ef827a5e45868762c585]
+## 40. Guidance[^c-282e8ac6dd83ef827a5e45868762c585]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In exercising functions conferred by or under Chapters 3 and 4 and by regulation
 
 ## Annotations
 
-[^key-282e8ac6dd83ef827a5e45868762c585]: Commencement: S. 40 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-282e8ac6dd83ef827a5e45868762c585]: Commencement: S. 40 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

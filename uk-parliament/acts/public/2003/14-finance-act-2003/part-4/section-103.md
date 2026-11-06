@@ -32,13 +32,13 @@ These rules are subject to the following provisions.
 
 (3) If the transaction is a notifiable transaction, a single land transaction return is required.
 
-(4) The declaration required by paragraph 1(1)(c) of Schedule 10 [^key-4e01cf9623c2c7f66ca248b13610267f]... (declaration that return [^key-4e01cf9623c2c7f66ca248b13610267f]... is complete and correct) must be made by all the purchasers.
+(4) The declaration required by paragraph 1(1)(c) of Schedule 10 [^c-4e01cf9623c2c7f66ca248b13610267f]... (declaration that return [^c-4e01cf9623c2c7f66ca248b13610267f]... is complete and correct) must be made by all the purchasers.
 
-(5) If the Inland Revenue give notice of an enquiry into the return [^key-57f06823650c7843d3c731d3942ae2c2]...—
+(5) If the Inland Revenue give notice of an enquiry into the return [^c-57f06823650c7843d3c731d3942ae2c2]...—
 
 - (a) the notice must be given to each of the purchasers,
 - (b) the powers of the Inland Revenue as to the production of documents and provision of information for the purposes of the enquiry are exercisable separately (and differently) in relation to each of the purchasers,
-- (c) any of the purchasers may apply for a direction that a closure notice be given (and all of them are entitled to to be parties to the application[^key-7990e694d0d369a293fa3af5deec3aa8]), and
+- (c) any of the purchasers may apply for a direction that a closure notice be given (and all of them are entitled to to be parties to the application[^c-7990e694d0d369a293fa3af5deec3aa8]), and
 - (d) the closure notice must be given to each of the purchasers.
 
 (6) A Revenue determination or discovery assessment relating to the transaction must be made against all the purchasers and is not effective against any of them unless notice of it is given to each of them whose identity is known to the Inland Revenue.
@@ -48,10 +48,10 @@ These rules are subject to the following provisions.
 - (a) the appeal may be brought by any of the purchasers,
 - (b) notice of the appeal must be given to any of them by whom it is not brought,
 - (c) the agreement of all the purchasers is required if the appeal is to be settled by agreement,
-- (d)[^key-47526d29298971285ec00d4378d41599] if it is not settled, and is notified to the tribunal, any of them are entitled to be parties to the appeal, and
-- (e)[^key-2e61a0939f55811dfcf2518b8f2524d3] the tribunal’s decision on the appeal binds all of them.
+- (d)[^c-47526d29298971285ec00d4378d41599] if it is not settled, and is notified to the tribunal, any of them are entitled to be parties to the appeal, and
+- (e)[^c-2e61a0939f55811dfcf2518b8f2524d3] the tribunal’s decision on the appeal binds all of them.
 
-(7A)[^key-67d0748c3aa9587e2d05bfc658623d8a] In a case where subsection (7) applies and some (but not all) of the purchasers require HMRC to undertake a review under paragraph 36B or 36C of Schedule 10—
+(7A)[^c-67d0748c3aa9587e2d05bfc658623d8a] In a case where subsection (7) applies and some (but not all) of the purchasers require HMRC to undertake a review under paragraph 36B or 36C of Schedule 10—
 
 - (a) notification of the review must be given by HMRC to each of the other purchasers whose identity is known to HMRC,
 - (b) any of the other purchasers may be a party to the review if they notify HMRC in writing,
@@ -68,14 +68,14 @@ These rules are subject to the following provisions.
 
 [^c5522231]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-4e01cf9623c2c7f66ca248b13610267f]: Textual amendment: Words in s. 103(4) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/4/2)
+[^c-4e01cf9623c2c7f66ca248b13610267f]: Textual amendment: Words in s. 103(4) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 4(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/4/2)
 
-[^key-57f06823650c7843d3c731d3942ae2c2]: Textual amendment: Words in s. 103(5) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/4/3)
+[^c-57f06823650c7843d3c731d3942ae2c2]: Textual amendment: Words in s. 103(5) omitted (with effect in accordance with s. 94(5) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/4/3)
 
-[^key-7990e694d0d369a293fa3af5deec3aa8]: Textual amendment: Words in s. 103(5)(c) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/2)
+[^c-7990e694d0d369a293fa3af5deec3aa8]: Textual amendment: Words in s. 103(5)(c) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/2)
 
-[^key-47526d29298971285ec00d4378d41599]: Textual amendment: S. 103(7)(d) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/3/a)
+[^c-47526d29298971285ec00d4378d41599]: Textual amendment: S. 103(7)(d) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(3)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/3/a)
 
-[^key-2e61a0939f55811dfcf2518b8f2524d3]: Textual amendment: S. 103(7)(e) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/3/b)
+[^c-2e61a0939f55811dfcf2518b8f2524d3]: Textual amendment: S. 103(7)(e) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(3)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/3/b)
 
-[^key-67d0748c3aa9587e2d05bfc658623d8a]: Textual amendment: S. 103(7A) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/4)
+[^c-67d0748c3aa9587e2d05bfc658623d8a]: Textual amendment: S. 103(7A) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 369(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/369/4)

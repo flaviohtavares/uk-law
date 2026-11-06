@@ -30,7 +30,7 @@ Horticulture Act (Northern Ireland) 1966 [^c11581201]
 
 [^c22529431]An Act to make provision with respect to the grading, packing, transporting and processing of horticultural produce; to regulate and control the sending of horticultural produce out of Northern Ireland; and for purposes connected with those matters.
 
-\[24th May 1966\][^key-e19fe138548c8145d7963d0305129014]
+\[24th May 1966\][^c-e19fe138548c8145d7963d0305129014]
 
 ## PART I — FRESH HORTICULTURAL PRODUCE
 
@@ -346,7 +346,7 @@ Nothing in this Act shall affect the operation of—
 
 [^c22529431]: Modification: Act excluded (25.6.2010) by [Marketing of Fresh Horticulture Produce Regulations (Northern Ireland) 2010 (S.R. 2010/198)](https://www.legislation.gov.uk/nisr/2010/198), [reg. 24(1)](https://www.legislation.gov.uk/nisr/2010/198/regulation/24/1)
 
-[^key-e19fe138548c8145d7963d0305129014]: Modification: Act excluded (29.3.2019) by [The Marketing of Bananas Regulations (Northern Ireland) 2019 (S.R. 2019/66)](https://www.legislation.gov.uk/nisr/2019/66), [regs. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/22/1), 22(1)
+[^c-e19fe138548c8145d7963d0305129014]: Modification: Act excluded (29.3.2019) by [The Marketing of Bananas Regulations (Northern Ireland) 2019 (S.R. 2019/66)](https://www.legislation.gov.uk/nisr/2019/66), [regs. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/22/1), 22(1)
 
 [^c11581211]: Textual amendment: SRO (NI) 1972/351
 

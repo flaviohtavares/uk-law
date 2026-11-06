@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Annual report by Attorney General[^key-be2e791c0dae44a23277fb979006083f]
+## 26. Annual report by Attorney General[^c-be2e791c0dae44a23277fb979006083f]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be2e791c0dae44a23277fb979006083f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2002/26/section/26) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/6)
+[^c-be2e791c0dae44a23277fb979006083f]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2002/26/section/26) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/6)

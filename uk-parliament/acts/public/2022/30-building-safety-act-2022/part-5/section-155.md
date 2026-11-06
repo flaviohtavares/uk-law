@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Costs contribution orders: assessments[^key-4867886638e6384e553ea83e6445e4dc]
+## 155. Costs contribution orders: assessments[^c-4867886638e6384e553ea83e6445e4dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4867886638e6384e553ea83e6445e4dc]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2022/30/section/155) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-4867886638e6384e553ea83e6445e4dc]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2022/30/section/155) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

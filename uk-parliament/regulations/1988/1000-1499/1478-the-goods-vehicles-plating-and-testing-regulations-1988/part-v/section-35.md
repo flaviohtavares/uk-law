@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Condition of acceptance of vehicle[^key-d5d703682fe44f1967dd271010378d45]
+## 35. Condition of acceptance of vehicle[^c-d5d703682fe44f1967dd271010378d45]
 
 *Extent: E+W+S*
 
-A goods vehicle examiner shall not be under an obligation to proceed with a re-examination of a vehicle under this Part of these Regulations where on the submission of a vehicle for the re-examination the sender does not, after being required to do so, produce to the examiner the plating certificate relating to the vehicle, and nothing in this paragraph shall be taken to derogate from regulation 8[^key-7f2628f73385154b55cca77ddaa480e0].
+A goods vehicle examiner shall not be under an obligation to proceed with a re-examination of a vehicle under this Part of these Regulations where on the submission of a vehicle for the re-examination the sender does not, after being required to do so, produce to the examiner the plating certificate relating to the vehicle, and nothing in this paragraph shall be taken to derogate from regulation 8[^c-7f2628f73385154b55cca77ddaa480e0].
 
 ## Annotations
 
-[^key-d5d703682fe44f1967dd271010378d45]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1988/1478/regulation/35) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-d5d703682fe44f1967dd271010378d45]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1988/1478/regulation/35) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
 
-[^key-7f2628f73385154b55cca77ddaa480e0]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/1988/1478/regulation/35) substituted (18.3.1991) by [The Goods Vehicles (Plating and Testing) (Amendment) (No.1) Regulations 1991 (S.I. 1991/252)](https://www.legislation.gov.uk/uksi/1991/252), [regs. 1](https://www.legislation.gov.uk/uksi/1991/252/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/252/regulation/7)
+[^c-7f2628f73385154b55cca77ddaa480e0]: Textual amendment: Words in [reg. 35](https://www.legislation.gov.uk/uksi/1988/1478/regulation/35) substituted (18.3.1991) by [The Goods Vehicles (Plating and Testing) (Amendment) (No.1) Regulations 1991 (S.I. 1991/252)](https://www.legislation.gov.uk/uksi/1991/252), [regs. 1](https://www.legislation.gov.uk/uksi/1991/252/regulation/1), [7](https://www.legislation.gov.uk/uksi/1991/252/regulation/7)

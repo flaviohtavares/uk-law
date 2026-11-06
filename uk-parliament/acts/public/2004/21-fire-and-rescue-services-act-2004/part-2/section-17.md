@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Directions as to arrangements under section 16[^key-7b66f93556378e8fbdd1e0878f0cba01][^key-977930a4ae27b67acc3ba25f844898da]
+## 17. Directions as to arrangements under section 16[^c-7b66f93556378e8fbdd1e0878f0cba01][^c-977930a4ae27b67acc3ba25f844898da]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ he considers it expedient to do so with a view to securing greater economy, effi
 
 ## Annotations
 
-[^key-7b66f93556378e8fbdd1e0878f0cba01]: Commencement: S. 17 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-7b66f93556378e8fbdd1e0878f0cba01]: Commencement: S. 17 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-977930a4ae27b67acc3ba25f844898da]: Commencement: S. 17 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-977930a4ae27b67acc3ba25f844898da]: Commencement: S. 17 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

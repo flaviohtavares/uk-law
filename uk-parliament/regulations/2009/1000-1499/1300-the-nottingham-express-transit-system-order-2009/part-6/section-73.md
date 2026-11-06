@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. For protection of British Waterways Board[^key-892c8887c6dfcaf9c76f44105096a71d]
+## 73. For protection of British Waterways Board[^c-892c8887c6dfcaf9c76f44105096a71d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 13 (for protection of British Waterways Board) shall 
 
 ## Annotations
 
-[^key-892c8887c6dfcaf9c76f44105096a71d]: Commencement: Art. 73 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-892c8887c6dfcaf9c76f44105096a71d]: Commencement: Art. 73 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

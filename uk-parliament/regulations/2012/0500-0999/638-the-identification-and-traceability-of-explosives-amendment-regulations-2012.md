@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Identification and Traceability of Explosives (Amendment) Regulations 2012 (revoked)[^key-ddc85c0a3798103e72779536aeb6f2fb]
+The Identification and Traceability of Explosives (Amendment) Regulations 2012 (revoked)[^c-ddc85c0a3798103e72779536aeb6f2fb]
 
 Made
 
@@ -53,24 +53,24 @@ The Secretary of State makes these Regulations —
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ddc85c0a3798103e72779536aeb6f2fb]
+## 1. Citation and commencement[^c-ddc85c0a3798103e72779536aeb6f2fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension outside Great Britain[^key-ddc85c0a3798103e72779536aeb6f2fb]
+## 2. Extension outside Great Britain[^c-ddc85c0a3798103e72779536aeb6f2fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Identification and Traceability of Explosives Regulations 2010[^key-ddc85c0a3798103e72779536aeb6f2fb]
+## 3. Amendment of the Identification and Traceability of Explosives Regulations 2010[^c-ddc85c0a3798103e72779536aeb6f2fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ddc85c0a3798103e72779536aeb6f2fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddc85c0a3798103e72779536aeb6f2fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ddc85c0a3798103e72779536aeb6f2fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddc85c0a3798103e72779536aeb6f2fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ddc85c0a3798103e72779536aeb6f2fb]: Textual amendment: Regulations revoked (5.4.2013) by The Identification and Traceability of Explosives Regulations 2013 ([S.I. 2013/449](https://www.legislation.gov.uk/uksi/2013/449)), regs. 1(1), 9(b)
+[^c-ddc85c0a3798103e72779536aeb6f2fb]: Textual amendment: Regulations revoked (5.4.2013) by The Identification and Traceability of Explosives Regulations 2013 ([S.I. 2013/449](https://www.legislation.gov.uk/uksi/2013/449)), regs. 1(1), 9(b)

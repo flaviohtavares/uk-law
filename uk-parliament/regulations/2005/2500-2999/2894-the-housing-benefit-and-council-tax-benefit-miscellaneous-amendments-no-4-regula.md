@@ -50,15 +50,15 @@ In accordance with section 176(1)(b) of that Social Security Administration Act 
 
 (2) In these Regulations—
 
-- [^key-40fdbde2ab04e9b5c6ccace7d69cc8bb]...**...**...
-- [^key-40fdbde2ab04e9b5c6ccace7d69cc8bb]...**...**...
+- [^c-40fdbde2ab04e9b5c6ccace7d69cc8bb]...**...**...
+- [^c-40fdbde2ab04e9b5c6ccace7d69cc8bb]...**...**...
 - “**the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations**” means the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001 [^c1313811].
 
-## 2. Amendment of the Housing Benefit Regulations[^key-0475dabd090fb7ef78cc2ebc9c7f4904]
+## 2. Amendment of the Housing Benefit Regulations[^c-0475dabd090fb7ef78cc2ebc9c7f4904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Council Tax Benefit Regulations[^key-0475dabd090fb7ef78cc2ebc9c7f4904]
+## 3. Amendment of the Council Tax Benefit Regulations[^c-0475dabd090fb7ef78cc2ebc9c7f4904]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,8 +104,8 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1313808]: Marginal citation: 2000 (c. 19).
 
-[^key-40fdbde2ab04e9b5c6ccace7d69cc8bb]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-40fdbde2ab04e9b5c6ccace7d69cc8bb]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1313811]: Marginal citation: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-0475dabd090fb7ef78cc2ebc9c7f4904]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2894/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-0475dabd090fb7ef78cc2ebc9c7f4904]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2005/2894/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 131. Expenses of members etc.[^key-d429d18d309af940ec2c31903384b463]
+## 131. Expenses of members etc.[^c-d429d18d309af940ec2c31903384b463]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.177 of the 1991 Rules.
 
 ## Annotations
 
-[^key-d429d18d309af940ec2c31903384b463]: Commencement: Rule 131 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d429d18d309af940ec2c31903384b463]: Commencement: Rule 131 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

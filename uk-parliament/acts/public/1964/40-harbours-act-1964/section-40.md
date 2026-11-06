@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Conditions as to use of harbour services and facilities provided by certain harbour authorities.[^key-f60256060ce5ff87e93c6e057d5b52e5][^c7739921]
+## 40. Conditions as to use of harbour services and facilities provided by certain harbour authorities.[^c-f60256060ce5ff87e93c6e057d5b52e5][^c7739921]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f60256060ce5ff87e93c6e057d5b52e5]: Modification: S. 40 applied (with modifications) (S.) (30.9.2004) by [The Dunbar Harbour Revision (Transfer) Order 2004 (S.S.I. 2004/421)](https://www.legislation.gov.uk/ssi/2004/421), [arts. 1](https://www.legislation.gov.uk/ssi/2004/421/article/1), [4(7)](https://www.legislation.gov.uk/ssi/2004/421/article/4/7)
+[^c-f60256060ce5ff87e93c6e057d5b52e5]: Modification: S. 40 applied (with modifications) (S.) (30.9.2004) by [The Dunbar Harbour Revision (Transfer) Order 2004 (S.S.I. 2004/421)](https://www.legislation.gov.uk/ssi/2004/421), [arts. 1](https://www.legislation.gov.uk/ssi/2004/421/article/1), [4(7)](https://www.legislation.gov.uk/ssi/2004/421/article/4/7)
 
 [^c7739921]: Modification: S. 40 extended by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/4/paragraph/1/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Special provision relating to national security: Wales[^key-60923006f0e1863382d2112a7cc9bda0][^key-6feb68a30afb2347c08745b63510a258]
+## 81. Special provision relating to national security: Wales[^c-60923006f0e1863382d2112a7cc9bda0][^c-6feb68a30afb2347c08745b63510a258]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 >
 > (6) Section 333(3) does not apply to regulations made under subsection (4).
 
-(2)[^key-33392ff2ec8725911c7b7b7e0ff2a833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-33392ff2ec8725911c7b7b7e0ff2a833] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the Schedule to the hazardous substances Act, after paragraph 7 there is inserted the following paragraph—
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-60923006f0e1863382d2112a7cc9bda0]: Commencement: S. 81 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-60923006f0e1863382d2112a7cc9bda0]: Commencement: S. 81 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-6feb68a30afb2347c08745b63510a258]: Commencement: S. 81 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
+[^c-6feb68a30afb2347c08745b63510a258]: Commencement: S. 81 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1281/article/2/a)
 
-[^key-33392ff2ec8725911c7b7b7e0ff2a833]: Textual amendment: [S. 81(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/81/2) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 181](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/181) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-33392ff2ec8725911c7b7b7e0ff2a833]: Textual amendment: [S. 81(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/81/2) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 181](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/181) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Appeal against decision on proof[^key-4fde82c73c08ec84bc29643c7a940096]
+## 157. Appeal against decision on proof[^c-4fde82c73c08ec84bc29643c7a940096]
 
 *Extent: E+W*
 
@@ -26,14 +26,14 @@ summary: ''
 
 (3) Notice of an application under paragraph (1) or (2) shall be given by the applicant to—
 
-- (a) the FCA[^key-c76d69a1fdc951e9ec2764f45f1b929d] and, where the investment bank concerned is a PRA-authorised person, the PRA, and
+- (a) the FCA[^c-c76d69a1fdc951e9ec2764f45f1b929d] and, where the investment bank concerned is a PRA-authorised person, the PRA, and
 - (b) in a special administration (bank administration), before the Bank of England has given an Objective A Achievement Notice, the Bank of England.
 
 (4) Where application is made to the court under this rule, the court shall fix a venue for the application to be heard, notice of which shall be sent by the applicant to—
 
 - (a) the creditor who lodged the proof in question (if the applicant is not that creditor);
 - (b) the administrator;
-- (c) the FCA[^key-577ccdb1e010dfb8b3fca85a13e230f6] and, where the investment bank concerned is a PRA-authorised person, the PRA; and
+- (c) the FCA[^c-577ccdb1e010dfb8b3fca85a13e230f6] and, where the investment bank concerned is a PRA-authorised person, the PRA; and
 - (d) in a special administration (bank administration), before the Bank of England has given an Objective A Achievement Notice, the Bank of England.
 
 (5) The administrator shall, on receipt of the notice, file with the court the relevant proof, together (if appropriate) with a copy of the statement sent under rule 156.
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4fde82c73c08ec84bc29643c7a940096]: Commencement: [Rule 157](https://www.legislation.gov.uk/uksi/2011/1301/rule/157) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4fde82c73c08ec84bc29643c7a940096]: Commencement: [Rule 157](https://www.legislation.gov.uk/uksi/2011/1301/rule/157) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-c76d69a1fdc951e9ec2764f45f1b929d]: Textual amendment: Words in [art. 157(3)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/157/3/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xiv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xiv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-c76d69a1fdc951e9ec2764f45f1b929d]: Textual amendment: Words in [art. 157(3)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/157/3/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xiv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xiv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-577ccdb1e010dfb8b3fca85a13e230f6]: Textual amendment: Words in [art. 157(4)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/157/4/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xiv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xiv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-577ccdb1e010dfb8b3fca85a13e230f6]: Textual amendment: Words in [art. 157(4)(c)](https://www.legislation.gov.uk/uksi/2011/1301/article/157/4/c) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xiv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xiv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

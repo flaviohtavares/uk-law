@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Aids to navigation[^key-c148c0d105ccf82665aaec41c173ebc2]
+## 19. Aids to navigation[^c-c148c0d105ccf82665aaec41c173ebc2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c148c0d105ccf82665aaec41c173ebc2]: Commencement: Art. 19 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-c148c0d105ccf82665aaec41c173ebc2]: Commencement: Art. 19 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

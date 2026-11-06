@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Circumstances in which active entries become inactive and vice versa[^key-c805373dc262920c95f745d40dcfa8de]
+## 79. Circumstances in which active entries become inactive and vice versa[^c-c805373dc262920c95f745d40dcfa8de]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c805373dc262920c95f745d40dcfa8de]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-c805373dc262920c95f745d40dcfa8de]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Recognizances: appeals, variation and revocation[^key-89b4019f5c7fee6bd2e0f3dfed68036b][^key-9c37c3e8c24d365f0017dc53b7019ccd]
+## 235. Recognizances: appeals, variation and revocation[^c-89b4019f5c7fee6bd2e0f3dfed68036b][^c-9c37c3e8c24d365f0017dc53b7019ccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89b4019f5c7fee6bd2e0f3dfed68036b]: Commencement: S. 235 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-89b4019f5c7fee6bd2e0f3dfed68036b]: Commencement: S. 235 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9c37c3e8c24d365f0017dc53b7019ccd]: Commencement: S. 235 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9c37c3e8c24d365f0017dc53b7019ccd]: Commencement: S. 235 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies in relation to the following provisions—
 
-In Part III (rights in relation to trade union membership and activities), section 136A (right to statement of trade union rights) and[^key-4867db0fed4bfc0d1ccb24e2470d4e2c] sections 145A to 151 (inducements and detriment)[^c20398051],
+In Part III (rights in relation to trade union membership and activities), section 136A (right to statement of trade union rights) and[^c-4867db0fed4bfc0d1ccb24e2470d4e2c] sections 145A to 151 (inducements and detriment)[^c20398051],
 
 In Part IV, Chapter II (procedure for handling redundancies), and
 
@@ -41,6 +41,6 @@ and may vary or revoke any of the provisions of sections 281 to 285 above (exclu
 
 ## Annotations
 
-[^key-4867db0fed4bfc0d1ccb24e2470d4e2c]: Textual amendment: Words in [s. 286](https://www.legislation.gov.uk/ukpga/1992/52/section/286) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 58(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/c)
+[^c-4867db0fed4bfc0d1ccb24e2470d4e2c]: Textual amendment: Words in [s. 286](https://www.legislation.gov.uk/ukpga/1992/52/section/286) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 58(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/5), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(c)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/c)
 
 [^c20398051]: Textual amendment: Words in [s. 286(1)](https://www.legislation.gov.uk/ukpga/1992/52/section/286/1) substituted (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 57(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/57/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2), [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2004/24/schedule/1/paragraph/18); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/b) (with [arts. 4-8](https://www.legislation.gov.uk/uksi/2004/2566/article/4))

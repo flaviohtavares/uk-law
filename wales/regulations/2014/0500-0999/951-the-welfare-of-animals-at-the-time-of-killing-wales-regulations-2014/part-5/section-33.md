@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Penalties[^key-e7ac2aa7ad8c1f1a22b8c9de6a184e94]
+## 33. Penalties[^c-e7ac2aa7ad8c1f1a22b8c9de6a184e94]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ac2aa7ad8c1f1a22b8c9de6a184e94]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2014/951/regulation/33) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-e7ac2aa7ad8c1f1a22b8c9de6a184e94]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2014/951/regulation/33) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

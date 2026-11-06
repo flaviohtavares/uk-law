@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a), 131(1), 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5) and 36(1) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-61eff26e2205688ead921e0126a6a547]
+## 1. Citation, commencement and interpretation[^c-61eff26e2205688ead921e0126a6a547]
 
 (1) These Regulations may be cited as the Social Security (Removal of Residential Allowance and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 and shall come into operation on 6th October 2003.
 
@@ -49,7 +49,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-6d5790c48eb6308b692b4feba9f2101b]
+## 2. Amendment of the Income Support (General) Regulations[^c-6d5790c48eb6308b692b4feba9f2101b]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987[^f00006] shall be amended in accordance with paragraphs (2) to (9).
 
@@ -61,10 +61,10 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (5) In regulation 21(1B)[^f00010] (special cases) for “paragraph 10A, 10B, 10C or 13” there shall be substituted “paragraph 13(2)”.
 
-(6) In regulation 71 (applicable amounts in urgent cases) – *(affected by repeal, see note)*[^key-f5396f3618f29b5e70fd4856462fb9da]
+(6) In regulation 71 (applicable amounts in urgent cases) – *(affected by repeal, see note)*[^c-f5396f3618f29b5e70fd4856462fb9da]
 
-- (a) in paragraph (1) sub-paragraphs (a)(vi) *(affected by repeal, see note)*[^key-f5396f3618f29b5e70fd4856462fb9da][^f00011] and (c) shall be omitted; and *(affected by repeal, see note)*[^key-f5396f3618f29b5e70fd4856462fb9da]
-- (b) paragraph (1A) *(affected by repeal, see note)*[^key-f5396f3618f29b5e70fd4856462fb9da][^f00012] shall be omitted. *(affected by repeal, see note)*[^key-f5396f3618f29b5e70fd4856462fb9da]
+- (a) in paragraph (1) sub-paragraphs (a)(vi) *(affected by repeal, see note)*[^c-f5396f3618f29b5e70fd4856462fb9da][^f00011] and (c) shall be omitted; and *(affected by repeal, see note)*[^c-f5396f3618f29b5e70fd4856462fb9da]
+- (b) paragraph (1A) *(affected by repeal, see note)*[^c-f5396f3618f29b5e70fd4856462fb9da][^f00012] shall be omitted. *(affected by repeal, see note)*[^c-f5396f3618f29b5e70fd4856462fb9da]
 
 (7) In Schedule 2 (applicable amounts) paragraph 2A[^f00013] shall be omitted.
 
@@ -82,11 +82,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 paragraph 15B[^f00018] shall be omitted.
 
-## 3. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^key-206401ccc8f85621dcd7a9126aad64dc]
+## 3. Amendment of the Social Fund (Cold Weather Payments) (General) Regulations[^c-206401ccc8f85621dcd7a9126aad64dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-b7774d014e3ab68569df69c018b51444]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-b7774d014e3ab68569df69c018b51444]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00028] shall be amended in accordance with paragraphs (2) to (12).
 
@@ -105,21 +105,21 @@ paragraph 15B[^f00018] shall be omitted.
 
 (7) In regulation 86B[^f00035] (applicable amounts for joint-claim couples: polygamous marriages) paragraph (c) shall be omitted.
 
-(8) In regulation 148 (applicable amounts in urgent cases) – *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]
+(8) In regulation 148 (applicable amounts in urgent cases) – *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]
 
-- (a) in paragraph (1) sub-paragraphs (a)(v) and (c) *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00036] shall be omitted, and *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]
-- (b) paragraph (1A) *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00037] shall be omitted. *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]
+- (a) in paragraph (1) sub-paragraphs (a)(v) and (c) *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00036] shall be omitted, and *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]
+- (b) paragraph (1A) *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00037] shall be omitted. *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]
 
-(9) In regulation 148A *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00038] (applicable amount in urgent cases: joint-claim couples) – *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]
+(9) In regulation 148A *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00038] (applicable amount in urgent cases: joint-claim couples) – *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]
 
-- (a) in paragraph (1) sub-paragraphs (a)(iv) and (c) shall be omitted, and *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]
-- (b) paragraph (1A) *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00039] shall be omitted. *(affected by repeal, see note)*[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]
+- (a) in paragraph (1) sub-paragraphs (a)(iv) and (c) shall be omitted, and *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]
+- (b) paragraph (1A) *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d][^f00039] shall be omitted. *(affected by repeal, see note)*[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]
 
 (10) In Schedule 1 (applicable amounts) paragraph 3[^f00040] shall be omitted.
 
 (11) In Schedule 4 (applicable amounts in special cases) –
 
-- (a)[^key-53c8e588b7a5104a25b08ca1070397c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-53c8e588b7a5104a25b08ca1070397c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraphs –
   - (i) 7[^f00041] (single claimants temporarily in accommodation provided by a Health and Social Services Board or an HSS trust);
   - (ii) 8[^f00042] (couples and members of polygamous marriages where one member is or all are temporarily in accommodation provided by a Health and Social Services Board or an HSS trust);
@@ -130,10 +130,10 @@ paragraph 15B[^f00018] shall be omitted.
 
 (12) In Schedule 4A[^f00045] (applicable amounts of joint-claim couples in special cases) –
 
-- (a)[^key-aed8fd3dfedbce20c93481103466b63a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-aed8fd3dfedbce20c93481103466b63a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) paragraph 9[^f00046] (members of joint-claim couples in residential accommodation) shall be omitted.
 
-## 5. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-36d890cc7dee38f6845a248f5bc1e0f7]
+## 5. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-36d890cc7dee38f6845a248f5bc1e0f7]
 
 In regulation 1 (citation, commencement and interpretation) of the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^f00047] –
 
@@ -184,13 +184,13 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(b) of, and Part II of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
 
-[^key-61eff26e2205688ead921e0126a6a547]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/267/regulation/1) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
+[^c-61eff26e2205688ead921e0126a6a547]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2003/267/regulation/1) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-6d5790c48eb6308b692b4feba9f2101b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/267/regulation/2) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
+[^c-6d5790c48eb6308b692b4feba9f2101b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2003/267/regulation/2) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R.1988 Nos. 146](https://www.legislation.gov.uk/nisr/1988/146), [318](https://www.legislation.gov.uk/nisr/1988/318) and [431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149), [165](https://www.legislation.gov.uk/nisr/1993/165), [235](https://www.legislation.gov.uk/nisr/1993/235) and [373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 65](https://www.legislation.gov.uk/nisr/1994/65) and [77](https://www.legislation.gov.uk/nisr/1994/77), [S.R. 1996 Nos. 78](https://www.legislation.gov.uk/nisr/1996/78) and [288](https://www.legislation.gov.uk/nisr/1996/288), [S.R. 1997 Nos. 22](https://www.legislation.gov.uk/nisr/1997/22) and [412](https://www.legislation.gov.uk/nisr/1997/412) and [S.R. 2002 Nos. 99](https://www.legislation.gov.uk/nisr/2002/99) and [132](https://www.legislation.gov.uk/nisr/2002/132)
 
@@ -202,7 +202,7 @@ These Regulations do not impose a charge on business.
 
 [^f00010]: Footnote: Paragraph (1B) was inserted by regulation 2(1) of, and paragraph 6(b) of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-f5396f3618f29b5e70fd4856462fb9da]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/nisr/2003/267/regulation/2/6) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+[^c-f5396f3618f29b5e70fd4856462fb9da]: Textual amendment: [Reg. 2(6)](https://www.legislation.gov.uk/nisr/2003/267/regulation/2/6) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
 
 [^f00011]: Footnote: Head (vi) was added by regulation 4(16)(a) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
 
@@ -220,9 +220,9 @@ These Regulations do not impose a charge on business.
 
 [^f00018]: Footnote: Paragraph 15B was inserted by regulation 2 of [S.R. 1996 No. 78](https://www.legislation.gov.uk/nisr/1996/78) and amended by 2(2)(a)(i)(aa) and (bb) and 2(2)(a)(ii) and (iii) of [S.R. 1997 No. 22](https://www.legislation.gov.uk/nisr/1997/22) and regulation 2(1) of, and paragraph 17(d) of Part I of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-206401ccc8f85621dcd7a9126aad64dc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/267/regulation/3) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)
+[^c-206401ccc8f85621dcd7a9126aad64dc]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2003/267/regulation/3) revoked (1.11.2010) by [The Social Fund (Cold Weather Payments) (General) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/344)](https://www.legislation.gov.uk/nisr/2010/344), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/344/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/344/schedule/2)
 
-[^key-b7774d014e3ab68569df69c018b51444]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/267/regulation/4) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
+[^c-b7774d014e3ab68569df69c018b51444]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2003/267/regulation/4) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
 
 [^f00028]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 288](https://www.legislation.gov.uk/nisr/1996/288), [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412), [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), [S.R. 2002 Nos. 99](https://www.legislation.gov.uk/nisr/2002/99) and [132](https://www.legislation.gov.uk/nisr/2002/132) and [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
 
@@ -240,7 +240,7 @@ These Regulations do not impose a charge on business.
 
 [^f00035]: Footnote: Regulation 86B was inserted by paragraph 35 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and amended by regulation 2(2) of, and paragraph 8 of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132) and regulation 3 of, and paragraph 5 of Schedule 2 to, [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
 
-[^key-b42ac62f7b0314cbfb37b3f7c9873b6d]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/8)[(9)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/9) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+[^c-b42ac62f7b0314cbfb37b3f7c9873b6d]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/8)[(9)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/9) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
 
 [^f00036]: Footnote: Sub-paragraph (c) was amended by regulation 2(2) of, and paragraph 14(c) of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
@@ -252,7 +252,7 @@ These Regulations do not impose a charge on business.
 
 [^f00040]: Footnote: Paragraph 3 was amended by regulation 7(3)(b) of [S.R. 1997 No. 412](https://www.legislation.gov.uk/nisr/1997/412), paragraph 53(3) of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350), Part I of Schedule 8 to, [S.R. 2002 No. 99](https://www.legislation.gov.uk/nisr/2002/99) and regulation 2(2) of, and paragraph 17 of Part II of the Schedule to, [S.R. 2002 No. 132](https://www.legislation.gov.uk/nisr/2002/132)
 
-[^key-53c8e588b7a5104a25b08ca1070397c5]: Textual amendment: [Reg. 4(11)(a)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/11/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-53c8e588b7a5104a25b08ca1070397c5]: Textual amendment: [Reg. 4(11)(a)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/11/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
 [^f00041]: Footnote: Paragraph 7 was amended by Part I of Schedule 11 to, [S.R. 2002 No.99](https://www.legislation.gov.uk/nisr/2002/99)
 
@@ -264,11 +264,11 @@ These Regulations do not impose a charge on business.
 
 [^f00045]: Footnote: Schedule 4A was inserted by paragraph 57 of Schedule 2 to, [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350)
 
-[^key-aed8fd3dfedbce20c93481103466b63a]: Textual amendment: [Reg. 4(12)(a)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/12/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
+[^c-aed8fd3dfedbce20c93481103466b63a]: Textual amendment: [Reg. 4(12)(a)](https://www.legislation.gov.uk/nisr/2003/267/regulation/4/12/a) revoked (coming into force in accordance with of the amending Rule) by [The Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 (S.R. 2005/580)](https://www.legislation.gov.uk/nisr/2005/580), [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1)
 
 [^f00046]: Footnote: Paragraph 9 was amended by Schedule 12 to, [S.R. 2002 No. 99](https://www.legislation.gov.uk/nisr/2002/99)
 
-[^key-36d890cc7dee38f6845a248f5bc1e0f7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/267/regulation/5) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
+[^c-36d890cc7dee38f6845a248f5bc1e0f7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2003/267/regulation/5) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/267/regulation/1/1)
 
 [^f00047]: Footnote: [S.R. 2000 No. 91](https://www.legislation.gov.uk/nisr/2000/91); relevant amending Regulations are [S.R. 2000 No. 321](https://www.legislation.gov.uk/nisr/2000/321) and [S.R. 2001 No. 373](https://www.legislation.gov.uk/nisr/2001/373)
 

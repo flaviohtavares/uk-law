@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Statutory undertakers, etc.[^key-00ad7d188274544e8eb1898a66f6d5d6]
+## 56. Statutory undertakers, etc.[^c-00ad7d188274544e8eb1898a66f6d5d6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 9 (provisions relating to statutory undertakers, etc.
 
 ## Annotations
 
-[^key-00ad7d188274544e8eb1898a66f6d5d6]: Commencement: Art. 56 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-00ad7d188274544e8eb1898a66f6d5d6]: Commencement: Art. 56 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

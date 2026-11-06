@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27.[^key-45263ecd197494362511a24a7d8d1799]
+## 27.[^c-45263ecd197494362511a24a7d8d1799]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ For Article 115 substitute—
 >
 > Except as specified in paragraphs 2 to 6, a statutory instrument containing regulations made by the Secretary of State under this Regulation is subject to annulment in pursuance of a resolution of either House of Parliament.
 >
-> **2.[^key-774b801be926246215c26b8c20f3cf05]**
+> **2.[^c-774b801be926246215c26b8c20f3cf05]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -72,7 +72,7 @@ For Article 115 substitute—
 >
 > If regulations cease to have effect as a result of paragraph 4, that does not affect the validity of anything previously done under those regulations or prevent the making of new regulations.
 >
-> **7.[^key-774b801be926246215c26b8c20f3cf05]**
+> **7.[^c-774b801be926246215c26b8c20f3cf05]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -168,13 +168,13 @@ For Article 115 substitute—
 
 ## Annotations
 
-[^key-45263ecd197494362511a24a7d8d1799]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-45263ecd197494362511a24a7d8d1799]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23689521]: Marginal citation: 2010 asp. 10.
 
 [^c23689531]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
-[^key-774b801be926246215c26b8c20f3cf05]: Textual amendment: Words in reg. 27 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)
+[^c-774b801be926246215c26b8c20f3cf05]: Textual amendment: Words in reg. 27 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)
 
 [^M_F_b88dd388-49bb-499d-92bb-50292f2ef61b]: Textual amendment: Words in reg. 27 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [10(10)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/10)
 

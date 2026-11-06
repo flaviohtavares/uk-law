@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Provision of accommodation for children in care[^key-99fcf636155a6c7116d745f89e9a55eb]
+## 79. Provision of accommodation for children in care[^c-99fcf636155a6c7116d745f89e9a55eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ When a child is in the care of a local authority, the authority must provide the
 
 ## Annotations
 
-[^key-99fcf636155a6c7116d745f89e9a55eb]: Commencement: S. 79 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-99fcf636155a6c7116d745f89e9a55eb]: Commencement: S. 79 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

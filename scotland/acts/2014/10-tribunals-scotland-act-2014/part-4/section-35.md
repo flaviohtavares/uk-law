@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Conditions of membership etc.[^key-fec94a1bf0c7a6e3347609f4ea9412b3]
+## 35. Conditions of membership etc.[^c-fec94a1bf0c7a6e3347609f4ea9412b3]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec94a1bf0c7a6e3347609f4ea9412b3]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/10/section/35) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-fec94a1bf0c7a6e3347609f4ea9412b3]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/10/section/35) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -121,7 +121,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 - (b) treated so as to remove the risk of transmission of a disease affecting animals; or
 - (c) disposed of so that animals have no access to it.
 
-(2)[^key-04acfca5be9b455d340cd5eeeaf93c7d] This regulation shall not apply to any material required to be disposed of in accordance with—
+(2)[^c-04acfca5be9b455d340cd5eeeaf93c7d] This regulation shall not apply to any material required to be disposed of in accordance with—
 
 - (a) Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation [(EC) No 1774/2002](https://www.legislation.gov.uk/european/regulation/2002/1774) (Animal by-products Regulation);
 - (b) Commission Regulation (EU) No 142/2011 implementing Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council [Directive 97/78/EC](https://www.legislation.gov.uk/european/directive/1997/0078) as regards certain samples and items exempt from veterinary checks at the border under that Directive; and
@@ -306,7 +306,7 @@ Schedule 2 sets out the methods of cleansing and disinfection of means of transp
 
 [^c12537791]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-04acfca5be9b455d340cd5eeeaf93c7d]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/ssi/2005/653/regulation/5/2) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2015/393/regulation/3)
+[^c-04acfca5be9b455d340cd5eeeaf93c7d]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/ssi/2005/653/regulation/5/2) substituted (1.1.2016) by [The Animal By-Products (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/393)](https://www.legislation.gov.uk/ssi/2015/393), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/393/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2015/393/regulation/3)
 
 [^c12537811]: Marginal citation: [S.S.I. 2000/167](https://www.legislation.gov.uk/ssi/2000/167).
 

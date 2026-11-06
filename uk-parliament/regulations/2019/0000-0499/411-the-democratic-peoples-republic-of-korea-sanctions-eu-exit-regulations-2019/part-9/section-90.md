@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Trade licences[^key-23eee3c1ecab3ee75dadb185789bec28][^key-72bd0f45ea2cf9b7d493fe1bc9964aeb]
+## 90. Trade licences[^c-23eee3c1ecab3ee75dadb185789bec28][^c-72bd0f45ea2cf9b7d493fe1bc9964aeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The prohibitions in Chapters 1, 2 and 3 of Part 6 (Trade) do not apply to anythi
 
 ## Annotations
 
-[^key-23eee3c1ecab3ee75dadb185789bec28]: Commencement: Reg. 90 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-23eee3c1ecab3ee75dadb185789bec28]: Commencement: Reg. 90 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-72bd0f45ea2cf9b7d493fe1bc9964aeb]: Commencement: Reg. 90 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72bd0f45ea2cf9b7d493fe1bc9964aeb]: Commencement: Reg. 90 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

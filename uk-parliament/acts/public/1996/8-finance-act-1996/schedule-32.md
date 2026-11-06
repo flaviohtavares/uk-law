@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 32 — Equalisation reserves[^key-5e51d60de32ce1fa2b716af4f09fb8e3]
+## SCHEDULE 32 — Equalisation reserves[^c-5e51d60de32ce1fa2b716af4f09fb8e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ Section 166.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-5e51d60de32ce1fa2b716af4f09fb8e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5e51d60de32ce1fa2b716af4f09fb8e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-5e51d60de32ce1fa2b716af4f09fb8e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5e51d60de32ce1fa2b716af4f09fb8e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e51d60de32ce1fa2b716af4f09fb8e3]: Textual amendment: [Sch. 32](https://www.legislation.gov.uk/ukpga/1996/8/schedule/32) repealed (with effect in accordance with s. 26(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/26/2/b); [S.I. 2015/1999](https://www.legislation.gov.uk/uksi/2015/1999), [art. 2](https://www.legislation.gov.uk/uksi/2015/1999/article/2)
+[^c-5e51d60de32ce1fa2b716af4f09fb8e3]: Textual amendment: [Sch. 32](https://www.legislation.gov.uk/ukpga/1996/8/schedule/32) repealed (with effect in accordance with s. 26(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 26(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/26/2/b); [S.I. 2015/1999](https://www.legislation.gov.uk/uksi/2015/1999), [art. 2](https://www.legislation.gov.uk/uksi/2015/1999/article/2)

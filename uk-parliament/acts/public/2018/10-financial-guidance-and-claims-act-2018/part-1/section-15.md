@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. False claims about provision of information etc[^key-00ecee9888247c7208df5ece3f50eeb8]
+## 15. False claims about provision of information etc[^c-00ecee9888247c7208df5ece3f50eeb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ecee9888247c7208df5ece3f50eeb8]: Commencement: S. 15 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/i)
+[^c-00ecee9888247c7208df5ece3f50eeb8]: Commencement: S. 15 in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/i)

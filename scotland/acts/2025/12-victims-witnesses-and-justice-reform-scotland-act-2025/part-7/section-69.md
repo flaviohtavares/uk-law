@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Sexual Offences Court[^key-ff9e1cb14c4f6d4f9e98ae5cee829b70]
+## 69. Sexual Offences Court[^c-ff9e1cb14c4f6d4f9e98ae5cee829b70]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff9e1cb14c4f6d4f9e98ae5cee829b70]: Commencement: S. 69 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-ff9e1cb14c4f6d4f9e98ae5cee829b70]: Commencement: S. 69 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Inspection of boarding accommodation[^key-ef4b8b694cae639bc1be0e8be81174df]
+## 43. Inspection of boarding accommodation[^c-ef4b8b694cae639bc1be0e8be81174df]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef4b8b694cae639bc1be0e8be81174df]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2011/21/section/43) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-ef4b8b694cae639bc1be0e8be81174df]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2011/21/section/43) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

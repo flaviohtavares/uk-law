@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Liability of officers of bodies corporate etc[^key-dda54eb017d5fd34d86aa5d6a30d8e0a]
+## 80. Liability of officers of bodies corporate etc[^c-dda54eb017d5fd34d86aa5d6a30d8e0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 ## Annotations
 
-[^key-dda54eb017d5fd34d86aa5d6a30d8e0a]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-dda54eb017d5fd34d86aa5d6a30d8e0a]: Commencement: Reg. 80 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

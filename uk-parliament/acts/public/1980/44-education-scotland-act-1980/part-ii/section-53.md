@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Provision of school meals[^key-de4a8184a770357edd788acbb9a52b28]
+## 53. Provision of school meals[^c-de4a8184a770357edd788acbb9a52b28]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) pupils in attendance at public schools and other educational establishments under the management of an education authority, and
 - (b) pupils who receive school education under arrangements entered into by an education authority under section 35 of the Standards in Scotland's Schools etc. Act 2000 (provision of school education by persons other than education authorities).
 
-(2)[^key-6ceb8dc9aced06270064f2059fecd2ac] The authority must provide or secure the provision of a school lunch, free of charge, to pupils falling within subsection (7).
+(2)[^c-6ceb8dc9aced06270064f2059fecd2ac] The authority must provide or secure the provision of a school lunch, free of charge, to pupils falling within subsection (7).
 
 (3) The authority may provide or secure the provision of—
 
@@ -50,10 +50,10 @@ summary: ''
   - (i) income support,
   - (ii) an income-based jobseeker's allowance (payable under the Jobseekers Act 1995),
   - (iii) an income-related allowance under Part 1 of the Welfare Reform Act 2007 (employment and support allowance),
-- (aa)[^key-0083dc1dee15884dab991c1da50f17f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-0083dc1dee15884dab991c1da50f17f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the parents of the pupil are in receipt of support provided under Part 6 of the Immigration and Asylum Act 1999.
-- (c)[^key-c90e94193da5dd61e2406177d86665ca] the pupil is, or the parents of the pupil are, in receipt of universal credit, either—
-  - (i) as an individual who is not a member of a couple, where the individual has earned income not exceeding £995[^key-b05c3528e3a674e6d4a04ec0cd4b05f1] in the assessment period immediately preceding the application for a free school lunch being made, or
+- (c)[^c-c90e94193da5dd61e2406177d86665ca] the pupil is, or the parents of the pupil are, in receipt of universal credit, either—
+  - (i) as an individual who is not a member of a couple, where the individual has earned income not exceeding £995[^c-b05c3528e3a674e6d4a04ec0cd4b05f1] in the assessment period immediately preceding the application for a free school lunch being made, or
   - (ii) as a member of a couple, where the couple have a combined earned income not exceeding £995 in the assessment period immediately preceding the application for a free school lunch being made.
 
   In this subsection—
@@ -62,7 +62,7 @@ summary: ''
   - “couple” has the meaning given in section 39 of the Welfare Reform Act 2012,
   - “earned income” means the person’s earned income within the meaning of Chapter 2 of Part 6 of the Universal Credit Regulations 2013,
   - “universal credit” means universal credit payable under Part 1 of the Welfare Reform Act 2012.
-- (d)[^key-584504013e25d325b40c6d3053efea85] the parents of the pupil are in receipt of state pension credit payable under section 1 of the State Pension Credit Act 2002.
+- (d)[^c-584504013e25d325b40c6d3053efea85] the parents of the pupil are in receipt of state pension credit payable under section 1 of the State Pension Credit Act 2002.
 
 (8) The Scottish Ministers may by regulations modify subsection (7) by—
 
@@ -86,14 +86,14 @@ summary: ''
 
 ## Annotations
 
-[^key-de4a8184a770357edd788acbb9a52b28]: Textual amendment: S. 53 substituted (1.4.2018) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 22(2)](https://www.legislation.gov.uk/asp/2016/8/section/22/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2018/36](https://www.legislation.gov.uk/ssi/2018/36), [reg. 2](https://www.legislation.gov.uk/ssi/2018/36/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/36/regulation/3))
+[^c-de4a8184a770357edd788acbb9a52b28]: Textual amendment: S. 53 substituted (1.4.2018) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 22(2)](https://www.legislation.gov.uk/asp/2016/8/section/22/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2018/36](https://www.legislation.gov.uk/ssi/2018/36), [reg. 2](https://www.legislation.gov.uk/ssi/2018/36/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/36/regulation/3))
 
-[^key-6ceb8dc9aced06270064f2059fecd2ac]: Modification: S. 53(2) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 16 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/9/1/a) (with [ss. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89), [90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-6ceb8dc9aced06270064f2059fecd2ac]: Modification: S. 53(2) restricted (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 16 para. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/16/paragraph/9/1/a) (with [ss. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89), [90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-0083dc1dee15884dab991c1da50f17f1]: Textual amendment: S. 53(7)(aa) omitted (6.4.2025) by virtue of [The Education (Scotland) Act 1980 (Modification) Regulations 2025 (S.S.I. 2025/44)](https://www.legislation.gov.uk/ssi/2025/44), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/44/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2025/44/regulation/2/a)
+[^c-0083dc1dee15884dab991c1da50f17f1]: Textual amendment: S. 53(7)(aa) omitted (6.4.2025) by virtue of [The Education (Scotland) Act 1980 (Modification) Regulations 2025 (S.S.I. 2025/44)](https://www.legislation.gov.uk/ssi/2025/44), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/44/regulation/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2025/44/regulation/2/a)
 
-[^key-c90e94193da5dd61e2406177d86665ca]: Textual amendment: S. 53(7)(c) inserted (1.8.2021) by [The Education (Scotland) Act 1980 (Modification) Regulations 2021 (S.S.I. 2021/210)](https://www.legislation.gov.uk/ssi/2021/210), [regs. 1](https://www.legislation.gov.uk/ssi/2021/210/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/210/regulation/2/3)
+[^c-c90e94193da5dd61e2406177d86665ca]: Textual amendment: S. 53(7)(c) inserted (1.8.2021) by [The Education (Scotland) Act 1980 (Modification) Regulations 2021 (S.S.I. 2021/210)](https://www.legislation.gov.uk/ssi/2021/210), [regs. 1](https://www.legislation.gov.uk/ssi/2021/210/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/210/regulation/2/3)
 
-[^key-b05c3528e3a674e6d4a04ec0cd4b05f1]: Textual amendment: Sum in s. 53(7)(c) substituted (1.4.2026) by [The Education (Scotland) Act 1980 (Modification) Regulations 2026 (S.S.I. 2026/19)](https://www.legislation.gov.uk/ssi/2026/19), [regs. 1](https://www.legislation.gov.uk/ssi/2026/19/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2026/19/regulation/2/a)
+[^c-b05c3528e3a674e6d4a04ec0cd4b05f1]: Textual amendment: Sum in s. 53(7)(c) substituted (1.4.2026) by [The Education (Scotland) Act 1980 (Modification) Regulations 2026 (S.S.I. 2026/19)](https://www.legislation.gov.uk/ssi/2026/19), [regs. 1](https://www.legislation.gov.uk/ssi/2026/19/regulation/1), [2(a)](https://www.legislation.gov.uk/ssi/2026/19/regulation/2/a)
 
-[^key-584504013e25d325b40c6d3053efea85]: Textual amendment: S. 53(7)(d) inserted (1.4.2026) by [The Education (Scotland) Act 1980 (Modification) Regulations 2026 (S.S.I. 2026/19)](https://www.legislation.gov.uk/ssi/2026/19), [regs. 1](https://www.legislation.gov.uk/ssi/2026/19/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2026/19/regulation/2/b)
+[^c-584504013e25d325b40c6d3053efea85]: Textual amendment: S. 53(7)(d) inserted (1.4.2026) by [The Education (Scotland) Act 1980 (Modification) Regulations 2026 (S.S.I. 2026/19)](https://www.legislation.gov.uk/ssi/2026/19), [regs. 1](https://www.legislation.gov.uk/ssi/2026/19/regulation/1), [2(b)](https://www.legislation.gov.uk/ssi/2026/19/regulation/2/b)

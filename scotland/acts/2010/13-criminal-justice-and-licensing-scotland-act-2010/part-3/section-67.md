@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Prosecution of organisations by summary procedure[^key-63b25bd09f856cbf6c487b0c8a01fb7e]
+## 67. Prosecution of organisations by summary procedure[^c-63b25bd09f856cbf6c487b0c8a01fb7e]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63b25bd09f856cbf6c487b0c8a01fb7e]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2010/13/section/67) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-63b25bd09f856cbf6c487b0c8a01fb7e]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2010/13/section/67) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

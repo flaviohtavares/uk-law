@@ -52,7 +52,7 @@ Before making this Order, the Secretary of State consulted the Gas and Electrici
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-c72b275bbb8dcdb3378955ae446fd5b0]
+### 1. Citation, commencement and extent[^c-c72b275bbb8dcdb3378955ae446fd5b0]
 
 (1) This Order may be cited as the Electricity and Gas (Energy Company Obligation) (Amendment, Saving and Transitional Provisions) Order 2025.
 
@@ -62,11 +62,11 @@ Before making this Order, the Secretary of State consulted the Gas and Electrici
 
 ## PART 2 — Amendment to the Electricity and Gas (Energy Company Obligation) Order 2022
 
-### 2. Amendment to the Electricity and Gas (Energy Company Obligation) Order 2022[^key-25479e1c5af488b256b68648f61ada9f]
+### 2. Amendment to the Electricity and Gas (Energy Company Obligation) Order 2022[^c-25479e1c5af488b256b68648f61ada9f]
 
 The Electricity and Gas (Energy Company Obligation) Order 2022[^f00004] is amended in accordance with this Part.
 
-### 3. Amendment to article 2 (interpretation)[^key-71ef8021785f52814a8a2e026a95ff62]
+### 3. Amendment to article 2 (interpretation)[^c-71ef8021785f52814a8a2e026a95ff62]
 
 In article 2, in paragraph (1)—
 
@@ -89,7 +89,7 @@ In article 2, in paragraph (1)—
 
   .
 
-### 4. Amendment to article 39 (approval as a data light measure or standard alternative methodology measure)[^key-c3e5cb27a5de2d82d3ff8084d3f22876]
+### 4. Amendment to article 39 (approval as a data light measure or standard alternative methodology measure)[^c-c3e5cb27a5de2d82d3ff8084d3f22876]
 
 In article 39, after paragraph (4), insert—
 
@@ -100,11 +100,11 @@ In article 39, after paragraph (4), insert—
 
 .
 
-### 5. Amendment to article 49 (requirements for a full project score: overview)[^key-2854be41ac2fb40da29dae68e2006ebf]
+### 5. Amendment to article 49 (requirements for a full project score: overview)[^c-2854be41ac2fb40da29dae68e2006ebf]
 
 In article 49, in paragraph (3), in sub-paragraph (a)(i), after “premises” insert “using the same version of the Standard Assessment Procedure as the pre-project energy efficiency assessment”.
 
-### 6. Amendment to article 54 (publication of a methodology for determining ECO4 project cost savings)[^key-5564769dc5b2861df34a3031a817681f]
+### 6. Amendment to article 54 (publication of a methodology for determining ECO4 project cost savings)[^c-5564769dc5b2861df34a3031a817681f]
 
 In article 54, after paragraph (5), insert—
 
@@ -114,7 +114,7 @@ In article 54, after paragraph (5), insert—
 
 .
 
-### 7. Amendment to article 70 (partial project score for district heating connections)[^key-aa80e9c31caf21d11a4f7616cf898930]
+### 7. Amendment to article 70 (partial project score for district heating connections)[^c-aa80e9c31caf21d11a4f7616cf898930]
 
 In article 70, after paragraph (5), insert—
 
@@ -125,7 +125,7 @@ In article 70, after paragraph (5), insert—
 
 .
 
-### 8. Amendment to article 76 (publication of annual cost savings methodology: other qualifying actions)[^key-1f83d56a8c12e65d82dd8bdd923d00ed]
+### 8. Amendment to article 76 (publication of annual cost savings methodology: other qualifying actions)[^c-1f83d56a8c12e65d82dd8bdd923d00ed]
 
 In article 76, after paragraph (4), insert—
 
@@ -137,11 +137,11 @@ In article 76, after paragraph (4), insert—
 
 ## PART 3 — Amendment to the Electricity and Gas (Energy Company Obligation) Order 2023
 
-### 9. Amendment to the Electricity and Gas (Energy Company Obligation) Order 2023[^key-b6db4c97c21afb5284fe413d54959c56]
+### 9. Amendment to the Electricity and Gas (Energy Company Obligation) Order 2023[^c-b6db4c97c21afb5284fe413d54959c56]
 
 The Electricity and Gas (Energy Company Obligation) Order 2023[^f00008] is amended in accordance with this Part.
 
-### 10. Amendment to article 2 (interpretation)[^key-592eaf20aaadf8c0cd104c5333268861]
+### 10. Amendment to article 2 (interpretation)[^c-592eaf20aaadf8c0cd104c5333268861]
 
 In article 2, in paragraph (2), for the definition of “Reduced Data Standard Assessment Procedure” substitute—
 
@@ -151,7 +151,7 @@ In article 2, in paragraph (2), for the definition of “Reduced Data Standard A
 
 ## PART 4 — Savings and Transitional Provisions
 
-### 11. Savings and transitional provisions[^key-d632f913fe743e1cff8b67cdec737ec3]
+### 11. Savings and transitional provisions[^c-d632f913fe743e1cff8b67cdec737ec3]
 
 (1) Despite the amendments to the 2022 Order made by Part 2 of this Order, where the 2022 Order provides for an RdSAP assessment to be performed as a pre-project energy efficiency assessment of domestic premises in relation to an ECO4 project, during the transition period, the assessment may be performed using RdSAP2012 instead of RdSAP10.
 
@@ -187,9 +187,9 @@ In article 2, in paragraph (2), for the definition of “Reduced Data Standard A
   - “pre-project energy efficiency assessment”;
   - “RdSAP assessment”;
   - “SAP rating”;
-- (j)[^key-7f11fb10b4eab57b57ac667a75d88720] “**post-project energy efficiency assessment**” has the same meaning as in Part 10 of the 2022 Order;
-- (k)[^key-68e5f3acd5854575daa00635dfbd3047] “**post-installation energy efficiency assessment**” means an assessment performed under article 22(1)(b) of the 2023 Order;
-- (l)[^key-2a46cb980fff28f9e46c3d2b11199fac] “**pre-installation energy efficiency assessment**” has the same meaning as in the 2023 Order;
+- (j)[^c-7f11fb10b4eab57b57ac667a75d88720] “**post-project energy efficiency assessment**” has the same meaning as in Part 10 of the 2022 Order;
+- (k)[^c-68e5f3acd5854575daa00635dfbd3047] “**post-installation energy efficiency assessment**” means an assessment performed under article 22(1)(b) of the 2023 Order;
+- (l)[^c-2a46cb980fff28f9e46c3d2b11199fac] “**pre-installation energy efficiency assessment**” has the same meaning as in the 2023 Order;
 
 Miatta Fahnbulleh
 
@@ -274,13 +274,13 @@ This is version 9.94 of the 2012 Edition. Copies can be accessed at https://breg
 
 [^f00003]: Footnote: Notwithstanding section 33BDA of the Gas Act 1986 and section 41BA of the Electricity Act 1989, as inserted by section 59 of the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), the Secretary of State may, by virtue of section 33BDA(10) of the Gas Act 1986 and section 41BA(10) of the Electricity Act 1989, make provision under section 33BD of the Gas Act 1986 and section 41B of the Electricity Act 1989 for the purposes of obligations imposed under those sections in relation to Scotland (on gas and electricity suppliers), with the agreement of the Scottish Ministers.
 
-[^key-c72b275bbb8dcdb3378955ae446fd5b0]: Commencement: Art. 1 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-c72b275bbb8dcdb3378955ae446fd5b0]: Commencement: Art. 1 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-25479e1c5af488b256b68648f61ada9f]: Commencement: Art. 2 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-25479e1c5af488b256b68648f61ada9f]: Commencement: Art. 2 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2022/875](https://www.legislation.gov.uk/uksi/2022/875), amended by [S.I. 2023/873](https://www.legislation.gov.uk/uksi/2023/873).
 
-[^key-71ef8021785f52814a8a2e026a95ff62]: Commencement: Art. 3 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-71ef8021785f52814a8a2e026a95ff62]: Commencement: Art. 3 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
 [^f00005]: Footnote: This is version 10 of the methodology dated 12<sup>th</sup> February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
 
@@ -288,28 +288,28 @@ This is version 9.94 of the 2012 Edition. Copies can be accessed at https://breg
 
 [^f00007]: Footnote: Copies can be accessed at https://bregroup.com/expertise/energy/sap/standard-assessment-procedure-2012. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
 
-[^key-c3e5cb27a5de2d82d3ff8084d3f22876]: Commencement: Art. 4 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-c3e5cb27a5de2d82d3ff8084d3f22876]: Commencement: Art. 4 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-2854be41ac2fb40da29dae68e2006ebf]: Commencement: Art. 5 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-2854be41ac2fb40da29dae68e2006ebf]: Commencement: Art. 5 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-5564769dc5b2861df34a3031a817681f]: Commencement: Art. 6 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-5564769dc5b2861df34a3031a817681f]: Commencement: Art. 6 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-aa80e9c31caf21d11a4f7616cf898930]: Commencement: Art. 7 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-aa80e9c31caf21d11a4f7616cf898930]: Commencement: Art. 7 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-1f83d56a8c12e65d82dd8bdd923d00ed]: Commencement: Art. 8 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-1f83d56a8c12e65d82dd8bdd923d00ed]: Commencement: Art. 8 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-b6db4c97c21afb5284fe413d54959c56]: Commencement: Art. 9 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-b6db4c97c21afb5284fe413d54959c56]: Commencement: Art. 9 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2023/873](https://www.legislation.gov.uk/uksi/2023/873).
 
-[^key-592eaf20aaadf8c0cd104c5333268861]: Commencement: Art. 10 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-592eaf20aaadf8c0cd104c5333268861]: Commencement: Art. 10 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
 [^f00009]: Footnote: This is version 10 of the methodology dated 12th February 2024. Copies can be accessed at https://bregroup.com/sap/sap10/. A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Energy Security and Net Zero, 3-8 Whitehall Place, London, SW1A 2EG.
 
-[^key-d632f913fe743e1cff8b67cdec737ec3]: Commencement: Art. 11 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
+[^c-d632f913fe743e1cff8b67cdec737ec3]: Commencement: Art. 11 in force at 29.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/802/article/1/2)
 
-[^key-7f11fb10b4eab57b57ac667a75d88720]: Textual amendment: Art. 11(8)(j) substituted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/155/article/3/2)
+[^c-7f11fb10b4eab57b57ac667a75d88720]: Textual amendment: Art. 11(8)(j) substituted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/155/article/3/2)
 
-[^key-68e5f3acd5854575daa00635dfbd3047]: Textual amendment: Art. 11(8)(k) inserted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/155/article/3/3)
+[^c-68e5f3acd5854575daa00635dfbd3047]: Textual amendment: Art. 11(8)(k) inserted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/155/article/3/3)
 
-[^key-2a46cb980fff28f9e46c3d2b11199fac]: Textual amendment: Art. 11(8)(l) inserted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/155/article/3/4)
+[^c-2a46cb980fff28f9e46c3d2b11199fac]: Textual amendment: Art. 11(8)(l) inserted (18.3.2026) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2026 (S.I. 2026/155)](https://www.legislation.gov.uk/uksi/2026/155), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/155/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2026/155/article/3/4)

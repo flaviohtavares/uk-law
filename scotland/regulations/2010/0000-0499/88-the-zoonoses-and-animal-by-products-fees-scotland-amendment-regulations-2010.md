@@ -34,7 +34,7 @@ Animals
 
 Animal Health
 
-The Zoonoses and Animal By-Products (Fees) (Scotland) Amendment Regulations 2010 (revoked)[^key-4ca1e6660d001eff565e0db17cdfecbf]
+The Zoonoses and Animal By-Products (Fees) (Scotland) Amendment Regulations 2010 (revoked)[^c-4ca1e6660d001eff565e0db17cdfecbf]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 31st March 2010
 
-[^key-4ca1e6660d001eff565e0db17cdfecbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ca1e6660d001eff565e0db17cdfecbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4ca1e6660d001eff565e0db17cdfecbf]
+## 1. Citation and commencement[^c-4ca1e6660d001eff565e0db17cdfecbf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2009[^key-4ca1e6660d001eff565e0db17cdfecbf]
+## 2. Amendment to the Zoonoses and Animal By-Products (Fees) (Scotland) Regulations 2009[^c-4ca1e6660d001eff565e0db17cdfecbf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ca1e6660d001eff565e0db17cdfecbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ca1e6660d001eff565e0db17cdfecbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ca1e6660d001eff565e0db17cdfecbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ca1e6660d001eff565e0db17cdfecbf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ca1e6660d001eff565e0db17cdfecbf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/88) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)
+[^c-4ca1e6660d001eff565e0db17cdfecbf]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2010/88) revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees and Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/151)](https://www.legislation.gov.uk/ssi/2013/151), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2013/151/regulation/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2013/151/schedule/7)

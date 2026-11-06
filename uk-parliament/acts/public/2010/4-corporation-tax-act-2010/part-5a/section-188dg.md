@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188DG. Sections 188DC and 188DE: meaning of “the overlapping period”[^key-6d828abb36a8900141e4aabfad343f1c][^key-30a623026eadb0c1bfb0ef86724a419c][^key-5f4b4ffe3f8c46c0f1df33d946de3a27]
+## 188DG. Sections 188DC and 188DE: meaning of “the overlapping period”[^c-6d828abb36a8900141e4aabfad343f1c][^c-30a623026eadb0c1bfb0ef86724a419c][^c-5f4b4ffe3f8c46c0f1df33d946de3a27]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6d828abb36a8900141e4aabfad343f1c]: Modification: [Ss. 188DB-188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DB) applied (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/1)
+[^c-6d828abb36a8900141e4aabfad343f1c]: Modification: [Ss. 188DB-188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DB) applied (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/1)
 
-[^key-30a623026eadb0c1bfb0ef86724a419c]: Modification: [S. 188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DG) modified (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(2)(d)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/2/d)
+[^c-30a623026eadb0c1bfb0ef86724a419c]: Modification: [S. 188DG](https://www.legislation.gov.uk/ukpga/2010/4/section/188DG) modified (1.4.2022 in relation to accounting periods beginning on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2022/3/section/51/1), [Sch. 7 para. 18(2)(d)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/7/paragraph/18/2/d)
 
-[^key-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)
+[^c-5f4b4ffe3f8c46c0f1df33d946de3a27]: Textual amendment: Pt. 5A inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/23)

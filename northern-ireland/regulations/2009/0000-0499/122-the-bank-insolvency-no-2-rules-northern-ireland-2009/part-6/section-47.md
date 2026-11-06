@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Notice of meetings by advertisement only[^key-e6385e72dd507ceeb0b14c8bd5fc527e]
+## 47. Notice of meetings by advertisement only[^c-e6385e72dd507ceeb0b14c8bd5fc527e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.066 of the 1991 Rules.
 
 ## Annotations
 
-[^key-e6385e72dd507ceeb0b14c8bd5fc527e]: Commencement: Rule 47 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-e6385e72dd507ceeb0b14c8bd5fc527e]: Commencement: Rule 47 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

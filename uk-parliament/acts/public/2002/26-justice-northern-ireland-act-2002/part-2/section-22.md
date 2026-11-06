@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Attorney General[^key-8e5e3675409de8c4ae672c550c305eee]
+## 22. Attorney General[^c-8e5e3675409de8c4ae672c550c305eee]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5e3675409de8c4ae672c550c305eee]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2002/26/section/22) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/2)
+[^c-8e5e3675409de8c4ae672c550c305eee]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2002/26/section/22) in force at 12.4.2010 by [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/2)
 
 [^c20854041]: Textual amendment: Words in [s. 22](https://www.legislation.gov.uk/ukpga/2002/26/section/22) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Defences[^key-dd91b356ff38aed9145512c36ebed4f9]
+## 34. Defences[^c-dd91b356ff38aed9145512c36ebed4f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd91b356ff38aed9145512c36ebed4f9]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-dd91b356ff38aed9145512c36ebed4f9]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

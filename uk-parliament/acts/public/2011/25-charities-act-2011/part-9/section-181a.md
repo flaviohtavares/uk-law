@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181A. Disqualification orders[^key-a9947b1d637c24a3ecb82a83ba702716]
+## 181A. Disqualification orders[^c-a9947b1d637c24a3ecb82a83ba702716]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 | E | that the person was an officer or employee of a body corporate at a time when the body was a trustee or charity trustee for a charity and when there was misconduct or mismanagement by it in the administration of the charity, and—<br>- (a) the person was responsible for the misconduct or mismanagement,<br>- (b) the person knew of the misconduct or mismanagement and failed to take any reasonable step to oppose it, or<br>- (c) the person's conduct contributed to or facilitated the misconduct or mismanagement. |
 | F | that any other past or continuing conduct by the person, whether or not in relation to a charity, is damaging or likely to be damaging to public trust and confidence in charities generally or in the charities or classes of charity specified or described in the order. |
 
-(8) The Secretary of State[^key-9cbc8ebd54870343f746d5b2c53cece5] may amend this section by regulations to add or remove a condition.
+(8) The Secretary of State[^c-9cbc8ebd54870343f746d5b2c53cece5] may amend this section by regulations to add or remove a condition.
 
 (9) In this section “ **disqualifying offence** ” means an offence within Case A in section 178(1).
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9947b1d637c24a3ecb82a83ba702716]: Textual amendment: Ss. 181A-181D inserted (1.10.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/10/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/a)
+[^c-a9947b1d637c24a3ecb82a83ba702716]: Textual amendment: Ss. 181A-181D inserted (1.10.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2016/4/section/10/2), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/3/a)
 
-[^key-9cbc8ebd54870343f746d5b2c53cece5]: Textual amendment: Words in s. 181A(8) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(ee)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/ee) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-9cbc8ebd54870343f746d5b2c53cece5]: Textual amendment: Words in s. 181A(8) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(ee)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/ee) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

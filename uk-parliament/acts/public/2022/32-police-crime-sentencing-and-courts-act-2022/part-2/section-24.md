@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Duty to arrange a review[^key-bca7b0fa0528a8690c2aefdf993e3c03][^key-2a03855175fe1809027fe3c372f2a21e]
+## 24. Duty to arrange a review[^c-bca7b0fa0528a8690c2aefdf993e3c03][^c-2a03855175fe1809027fe3c372f2a21e]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ the review partner must join with the other relevant review partners in respect 
 
 ## Annotations
 
-[^key-bca7b0fa0528a8690c2aefdf993e3c03]: Commencement: S. 24 in force at Royal Assent for specified purposes, see ss. 34, [208(4)(h)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/h)
+[^c-bca7b0fa0528a8690c2aefdf993e3c03]: Commencement: S. 24 in force at Royal Assent for specified purposes, see ss. 34, [208(4)(h)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/h)
 
-[^key-2a03855175fe1809027fe3c372f2a21e]: Commencement: S. 24 in force at 1.4.2023 for specified purposes by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2023/227/regulation/3/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/227/regulation/4))
+[^c-2a03855175fe1809027fe3c372f2a21e]: Commencement: S. 24 in force at 1.4.2023 for specified purposes by [S.I. 2023/227](https://www.legislation.gov.uk/uksi/2023/227), [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2023/227/regulation/3/1/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/227/regulation/4))

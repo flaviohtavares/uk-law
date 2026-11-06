@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Form of election expenses[^key-ee764545e4ad479b2409752f7e1398df][^key-30620a807d09923cc7ac1016d5dc473a]
+## 7. Form of election expenses[^c-ee764545e4ad479b2409752f7e1398df][^c-30620a807d09923cc7ac1016d5dc473a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ A declaration as to election expenses at an election of community councillors mu
 
 ## Annotations
 
-[^key-ee764545e4ad479b2409752f7e1398df]: Commencement: Rule 7 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
+[^c-ee764545e4ad479b2409752f7e1398df]: Commencement: Rule 7 in force at 17.12.2021, see [rule 1](https://www.legislation.gov.uk/wsi/2021/1460/rule/1)
 
-[^key-30620a807d09923cc7ac1016d5dc473a]: Modification: [Rule 7](https://www.legislation.gov.uk/wsi/2021/1460/rule/7) applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-30620a807d09923cc7ac1016d5dc473a]: Modification: [Rule 7](https://www.legislation.gov.uk/wsi/2021/1460/rule/7) applied (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2025/864/schedule/3/paragraph/26) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 149. HMO amenity notices: extension of period for completion of work[^key-768ab71e779ae747bafdba3ff8c47d76]
+## 149. HMO amenity notices: extension of period for completion of work[^c-768ab71e779ae747bafdba3ff8c47d76]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-768ab71e779ae747bafdba3ff8c47d76]: Commencement: [S. 149](https://www.legislation.gov.uk/asp/2006/1/section/149) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-768ab71e779ae747bafdba3ff8c47d76]: Commencement: [S. 149](https://www.legislation.gov.uk/asp/2006/1/section/149) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

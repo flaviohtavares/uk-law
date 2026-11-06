@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 126. Vessels, vehicles and moveable structures[^key-ac3b16af8b1631934dd326f49f534ba8]
+## 126. Vessels, vehicles and moveable structures[^c-ac3b16af8b1631934dd326f49f534ba8]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3b16af8b1631934dd326f49f534ba8]: Commencement: S. 126 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-ac3b16af8b1631934dd326f49f534ba8]: Commencement: S. 126 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

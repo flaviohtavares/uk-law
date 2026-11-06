@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106.[^key-e54a7443709567be112d5d46a70cefd8]
+## 106.[^c-e54a7443709567be112d5d46a70cefd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ In regulation 3 (the competent authority)—
 
 ## Annotations
 
-[^key-e54a7443709567be112d5d46a70cefd8]: Commencement: Reg. 106 in force at 22.2.2019, see reg. 2
+[^c-e54a7443709567be112d5d46a70cefd8]: Commencement: Reg. 106 in force at 22.2.2019, see reg. 2

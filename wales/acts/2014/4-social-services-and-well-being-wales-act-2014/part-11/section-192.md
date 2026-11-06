@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 192. Amendment of the National Assistance Act 1948[^key-92230e903074ffd6288ee290add110b2]
+## 192. Amendment of the National Assistance Act 1948[^c-92230e903074ffd6288ee290add110b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In section 49 of the National Assistance Act 1948 (expenses of council officers 
 
 ## Annotations
 
-[^key-92230e903074ffd6288ee290add110b2]: Commencement: S. 192 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-92230e903074ffd6288ee290add110b2]: Commencement: S. 192 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

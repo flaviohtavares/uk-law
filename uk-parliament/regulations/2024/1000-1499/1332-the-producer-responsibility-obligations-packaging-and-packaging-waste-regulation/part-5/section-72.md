@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Adjustments to disposal costs: effective service[^key-a54838fe47f41beece3caa760108d298]
+## 72. Adjustments to disposal costs: effective service[^c-a54838fe47f41beece3caa760108d298]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a54838fe47f41beece3caa760108d298]: Commencement: Reg. 72 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-a54838fe47f41beece3caa760108d298]: Commencement: Reg. 72 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

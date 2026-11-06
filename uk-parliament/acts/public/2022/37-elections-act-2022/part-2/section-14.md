@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Extension of franchise for parliamentary elections: British citizens overseas[^key-06364dc28c075058926c7098219239f5]
+## 14. Extension of franchise for parliamentary elections: British citizens overseas[^c-06364dc28c075058926c7098219239f5]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-cae6d353a43278e2357ec36456361105][^key-3d03a6007dbaaffb41c141d8875c1c32] For sections 1 and 2 of the Representation of the People Act 1985 substitute—
+(1)[^c-cae6d353a43278e2357ec36456361105][^c-3d03a6007dbaaffb41c141d8875c1c32] For sections 1 and 2 of the Representation of the People Act 1985 substitute—
 
 > **1. Extension of parliamentary franchise**
 >
@@ -215,16 +215,16 @@ summary: ''
 > - “**electoral register**” has the same meaning as in section 1A;
 > - “**registered**” means registered in a register of parliamentary electors in pursuance of an overseas elector’s declaration.
 
-(2)[^key-022f5e90900b9c3c313f9a717b8b142f][^key-73a39a59a594b7cafb4d75616cadb7de] Schedule 7 contains amendments and transitional provision relating to this section.
+(2)[^c-022f5e90900b9c3c313f9a717b8b142f][^c-73a39a59a594b7cafb4d75616cadb7de] Schedule 7 contains amendments and transitional provision relating to this section.
 
 ## Annotations
 
-[^key-06364dc28c075058926c7098219239f5]: Commencement: S. 14 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-06364dc28c075058926c7098219239f5]: Commencement: S. 14 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-cae6d353a43278e2357ec36456361105]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1) in force at 6.2.2023 for specified purposes by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/i)
+[^c-cae6d353a43278e2357ec36456361105]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1) in force at 6.2.2023 for specified purposes by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/i)
 
-[^key-3d03a6007dbaaffb41c141d8875c1c32]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1) in force at 16.1.2024 in so far as not already in force by [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-3d03a6007dbaaffb41c141d8875c1c32]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1) in force at 16.1.2024 in so far as not already in force by [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
 
-[^key-022f5e90900b9c3c313f9a717b8b142f]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/2) in force at 6.2.2023 for specified purposes by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/ii)
+[^c-022f5e90900b9c3c313f9a717b8b142f]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/2) in force at 6.2.2023 for specified purposes by [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/ii)
 
-[^key-73a39a59a594b7cafb4d75616cadb7de]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/2) in force at 16.1.2024 in so far as not already in force by [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-73a39a59a594b7cafb4d75616cadb7de]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/2) in force at 16.1.2024 in so far as not already in force by [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)

@@ -89,7 +89,7 @@ are in force at the same time with respect to the same child.
 
 **5.** (1) An education supervision order shall have effect for a period of one year, beginning with the date on which it is made.
 
-(2) An education supervision order shall not expire if, before it would otherwise have expired, the court has (on the application of the Education Authority[^key-7c68db51f1fcb5c5969be1da972aa82e] ) extended the period during which it is in force.
+(2) An education supervision order shall not expire if, before it would otherwise have expired, the court has (on the application of the Education Authority[^c-7c68db51f1fcb5c5969be1da972aa82e] ) extended the period during which it is in force.
 
 (3) Such an application may not be made earlier than three months before the date on which the order would otherwise expire.
 
@@ -122,7 +122,7 @@ and sub-paragraphs (1) to (4) are subject to this sub-paragraph.
 
 - (a) the child concerned;
 - (b) a parent of his; or
-- (c) the Education Authority[^key-4e4dae6079baf8ad4b6866b322230e39] .
+- (c) the Education Authority[^c-4e4dae6079baf8ad4b6866b322230e39] .
 
 (2) On discharging an education supervision order, the court may direct the authority within whose area the child lives, or will live, to investigate the circumstances of the child.
 
@@ -144,7 +144,7 @@ and sub-paragraphs (1) to (4) are subject to this sub-paragraph.
 
 ### Persistent failure of child to comply with directions
 
-**9.** (1) Where a child with respect to whom an education supervision order is in force persistently fails to comply with any direction given under the order, the Education Authority[^key-4c539ea4a136eea861130122153372cc] shall notify the appropriate authority.
+**9.** (1) Where a child with respect to whom an education supervision order is in force persistently fails to comply with any direction given under the order, the Education Authority[^c-4c539ea4a136eea861130122153372cc] shall notify the appropriate authority.
 
 (2) Where an authority has been notified under sub-paragraph (1) it shall investigate the circumstances of the child.
 
@@ -163,8 +163,8 @@ and sub-paragraphs (1) to (4) are subject to this sub-paragraph.
 
 [^c17271981]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/1998/ni9)
 
-[^key-7c68db51f1fcb5c5969be1da972aa82e]: Textual amendment: Words in [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/nisi/1995/755/schedule/4/paragraph/5/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(29)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/29/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-7c68db51f1fcb5c5969be1da972aa82e]: Textual amendment: Words in [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/nisi/1995/755/schedule/4/paragraph/5/2) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(29)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/29/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-4e4dae6079baf8ad4b6866b322230e39]: Textual amendment: Words in [Sch. 4 para. 7(1)(c)](https://www.legislation.gov.uk/nisi/1995/755/schedule/4/paragraph/7/1/c) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(29)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/29/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-4e4dae6079baf8ad4b6866b322230e39]: Textual amendment: Words in [Sch. 4 para. 7(1)(c)](https://www.legislation.gov.uk/nisi/1995/755/schedule/4/paragraph/7/1/c) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(29)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/29/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-4c539ea4a136eea861130122153372cc]: Textual amendment: Words in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/4/paragraph/9/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(29)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/29/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-4c539ea4a136eea861130122153372cc]: Textual amendment: Words in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/nisi/1995/755/schedule/4/paragraph/9/1) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(29)(b)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/29/b) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

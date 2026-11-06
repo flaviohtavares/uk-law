@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Amendment of the Health Professions Council (Registration Appeals) Rules Order of Council 2003[^key-163fc19f1e9ab54c8461bda49cf5da0b]
+## 9. Amendment of the Health Professions Council (Registration Appeals) Rules Order of Council 2003[^c-163fc19f1e9ab54c8461bda49cf5da0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-163fc19f1e9ab54c8461bda49cf5da0b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1479/article/9) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-163fc19f1e9ab54c8461bda49cf5da0b]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2012/1479/article/9) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00010]: Footnote: [S.I. 2003/1579](https://www.legislation.gov.uk/uksi/2003/1579), amended by [S.I. 2009/1355](https://www.legislation.gov.uk/uksi/2009/1355).

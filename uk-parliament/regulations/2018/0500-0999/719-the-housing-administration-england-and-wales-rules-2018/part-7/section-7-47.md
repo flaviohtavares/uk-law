@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.47. Non-Gazette notices – other provisions[^key-250c20597fbf5290e673ac4c2924867b]
+## 7.47. Non-Gazette notices – other provisions[^c-250c20597fbf5290e673ac4c2924867b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Information which this Chapter requires to be stated in a notice must be include
 
 ## Annotations
 
-[^key-250c20597fbf5290e673ac4c2924867b]: Commencement: Rule 7.47 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-250c20597fbf5290e673ac4c2924867b]: Commencement: Rule 7.47 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

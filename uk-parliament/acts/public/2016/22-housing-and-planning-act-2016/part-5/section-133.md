@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Power to require property agents to join client money protection schemes[^key-9d024b58bf552d24f6cdc059d63121e3]
+## 133. Power to require property agents to join client money protection schemes[^c-9d024b58bf552d24f6cdc059d63121e3]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d024b58bf552d24f6cdc059d63121e3]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2016/22/section/133) in force at 19.3.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/251/regulation/3/a)
+[^c-9d024b58bf552d24f6cdc059d63121e3]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2016/22/section/133) in force at 19.3.2018 by [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/251/regulation/3/a)

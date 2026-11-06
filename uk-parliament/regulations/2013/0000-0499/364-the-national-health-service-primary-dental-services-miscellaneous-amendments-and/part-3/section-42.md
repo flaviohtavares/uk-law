@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Transitional provisions[^key-4b9723090cfd159b877a4c7e2423ffb4]
+## 42. Transitional provisions[^c-4b9723090cfd159b877a4c7e2423ffb4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The transitional provisions set out in Schedule 2 have effect.
 
 ## Annotations
 
-[^key-4b9723090cfd159b877a4c7e2423ffb4]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2013/364/regulation/42) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-4b9723090cfd159b877a4c7e2423ffb4]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2013/364/regulation/42) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

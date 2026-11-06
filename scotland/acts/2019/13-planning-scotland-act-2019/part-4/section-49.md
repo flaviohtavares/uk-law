@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Publication of directions[^key-05e0e4e696254996b5fb75749aff4f4b]
+## 49. Publication of directions[^c-05e0e4e696254996b5fb75749aff4f4b]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05e0e4e696254996b5fb75749aff4f4b]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2019/13/section/49) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-05e0e4e696254996b5fb75749aff4f4b]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2019/13/section/49) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

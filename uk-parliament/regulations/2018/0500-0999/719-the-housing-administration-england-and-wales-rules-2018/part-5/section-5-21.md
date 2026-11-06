@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.21. Debts in foreign currency[^key-2494f567dd8b75c1592fcaa986231c01]
+## 5.21. Debts in foreign currency[^c-2494f567dd8b75c1592fcaa986231c01]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2494f567dd8b75c1592fcaa986231c01]: Commencement: Rule 5.21 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2494f567dd8b75c1592fcaa986231c01]: Commencement: Rule 5.21 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

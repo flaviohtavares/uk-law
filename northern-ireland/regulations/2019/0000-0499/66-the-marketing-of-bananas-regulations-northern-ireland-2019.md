@@ -44,20 +44,20 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs is designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to the common agricultural policy of the European Union the following.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department that it is expedient for any reference in these Regulations to the following EU instruments to be construed as a reference to those instruments as being amended from time to time—[^key-c0e3871f5403625714289c4fcbcd2749]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Department that it is expedient for any reference in these Regulations to the following EU instruments to be construed as a reference to those instruments as being amended from time to time—[^c-c0e3871f5403625714289c4fcbcd2749]
 
 - (a)
 - (b)
 
-The Department of Agriculture, Environment and Rural Affairs makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2[^f00005] to, the European Communities Act 1972.[^key-c0e3871f5403625714289c4fcbcd2749]
+The Department of Agriculture, Environment and Rural Affairs makes the following Regulations in exercise of the powers conferred by section 2(2) of, as read with paragraph 1A of Schedule 2[^f00005] to, the European Communities Act 1972.[^c-c0e3871f5403625714289c4fcbcd2749]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-c6d4b83e23652d6d1dea4f8e7cb1176d]
+### 1. Citation and commencement[^c-c6d4b83e23652d6d1dea4f8e7cb1176d]
 
 These Regulations may be cited as the Marketing of Bananas Regulations (Northern Ireland) 2019 and come into operation on 29th March 2019.
 
-### 2. Interpretation[^key-a294b14aed9f937e78056973f8c1729c]
+### 2. Interpretation[^c-a294b14aed9f937e78056973f8c1729c]
 
 (1) In these Regulations—
 
@@ -83,22 +83,22 @@ These Regulations may be cited as the Marketing of Bananas Regulations (Northern
 
 (2) Expressions used in these Regulations which are also used in the Single CMO Regulation or Commission Implementing Regulation have the same meaning as they have in those Regulations.
 
-(3)[^key-0c94cf7fe0841c0e3185e374e5ccd21e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0c94cf7fe0841c0e3185e374e5ccd21e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00007], except section 20(2) and (3), applies to these Regulations as it applies to an Act of the Assembly.
 
-### 3. Designation of Department and exchange of information[^key-2c60f3a39e0362785f55cdea102fceaf]
+### 3. Designation of Department and exchange of information[^c-2c60f3a39e0362785f55cdea102fceaf]
 
 (1) The Department is designated as the competent national authority and inspection body for the purposes of the Commission Implementing Regulation and Article 74 of the Single CMO Regulation in relation to bananas.
 
 (2) For the purposes of fulfilling the obligations, laid down in Article 3 of the Commission Implementing Regulation and in Article 74 of the Single CMO Regulation, on competent national authorities and inspection bodies contained in the banana marketing standards and for the enforcement of these Regulations or the equivalent regulations in England, Scotland or Wales, the Department may, as appropriate or where required to do so, provide information to and request information from—
 
-- (a) the competent national authorities and inspection bodies [^key-e8d5ba610219d4116251dfae2aed1d26]... in England, Scotland and Wales; [^key-396e850cfda2806a643bb470374a21b3]...
-- (b)[^key-396e850cfda2806a643bb470374a21b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the competent national authorities and inspection bodies [^c-e8d5ba610219d4116251dfae2aed1d26]... in England, Scotland and Wales; [^c-396e850cfda2806a643bb470374a21b3]...
+- (b)[^c-396e850cfda2806a643bb470374a21b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — General offences and exercise of powers on premises
 
-### 4. Banana marketing standards: offences[^key-d584ff8445feaa609ed8fc77d96fd510]
+### 4. Banana marketing standards: offences[^c-d584ff8445feaa609ed8fc77d96fd510]
 
 (1) It is an offence for a person to market bananas in contravention of any provision in Annex I to the Commission Implementing Regulation, as read with other provision(s) of that Regulation or the Single CMO Regulation of the banana marketing standards.
 
@@ -122,13 +122,13 @@ it is an offence for that person to act in breach of the undertaking.
 
 (6) A person is guilty of an offence if they export from or import to Northern Ireland any consignment of bananas to or from any place outside the European Union without the information particulars, laid down in Paragraph VI of Annex I to the Commission Implementing Regulation, required by the banana marketing standards to accompany those bananas.
 
-### 5. Exercise of powers on premises[^key-2853405e48c8a71ab1216d23378e10ab]
+### 5. Exercise of powers on premises[^c-2853405e48c8a71ab1216d23378e10ab]
 
 The powers under Part 3 and Part 4 of these Regulations may not be exercised on premises used wholly as a dwelling house.
 
 ## PART 3 — Powers of authorised officers
 
-### 6. Powers of entry[^key-833e3290a66c0f227858a44fc31d3a3e]
+### 6. Powers of entry[^c-833e3290a66c0f227858a44fc31d3a3e]
 
 (1) An authorised officer may enter any premises at any reasonable hour for the purpose of the enforcement of these Regulations or the checks required by the Single CMO Regulation, or the Commission Implementing Regulation, or the enforcement of the banana marketing standards.
 
@@ -154,7 +154,7 @@ The powers under Part 3 and Part 4 of these Regulations may not be exercised on 
 
 (8) It is an offence for a person who has obtained confidential information in the course of acting for the purposes of the enforcement of these Regulations to disclose that information, whether it was obtained on premises entered under or by virtue of these Regulations or otherwise, unless the disclosure is made in the performance of that person’s duty or in accordance with section 17(2) of the Anti-terrorism, Crime and Security Act 2001[^f00008].
 
-### 7. Powers of an authorised officer[^key-27bca641be56a8a584d02639eed136d2]
+### 7. Powers of an authorised officer[^c-27bca641be56a8a584d02639eed136d2]
 
 (1) An authorised officer who has lawfully entered premises for the purpose of the enforcement of these Regulations may for that purpose—
 
@@ -185,7 +185,7 @@ The powers under Part 3 and Part 4 of these Regulations may not be exercised on 
 
 an authorised officer must return the items as soon as is reasonably practicable.
 
-### 8. Power to affix labels – bulk samples[^key-57f8c9e1d421f1945e4001a6ab17ab82]
+### 8. Power to affix labels – bulk samples[^c-57f8c9e1d421f1945e4001a6ab17ab82]
 
 Where an authorised officer, an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, takes a bulk sample of bananas from a specific lot[^f00009] and finds those bananas not to be compliant with the banana marketing standards, the power to affix—
 
@@ -194,7 +194,7 @@ Where an authorised officer, an authorised officer, who has lawfully entered pre
 
 may be exercised in relation to all or any of the bananas or containers of bananas within that lot in the same way as in relation to the bulk sample taken.
 
-### 9. Power to affix a non-compliance label[^key-68803ba74423659a5febe5e2897b82c6]
+### 9. Power to affix a non-compliance label[^c-68803ba74423659a5febe5e2897b82c6]
 
 (1) Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of the banana marketing standards and these Regulations, finds any bananas subject to the banana marketing standards which have affixed to them a label or are accompanied by a notice or a document required by the banana marketing standards or are in a container to which such a label is affixed or which is accompanied by such a notice or document—
 
@@ -208,7 +208,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 - (a) in the form set out in Part 1 of Schedule 2; and
 - (b) completed in accordance with Part 2 of that Schedule.
 
-**10.**[^key-bfb883270df766d4c3a537510314f93f] Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds any bananas, or container holding bananas, which—
+**10.**[^c-bfb883270df766d4c3a537510314f93f] Where an authorised officer, who has lawfully entered premises for the purpose of the enforcement of these Regulations, finds any bananas, or container holding bananas, which—
 
 - (a) do not have a label required by the banana marketing standards affixed to them;
 - (b) are not accompanied by a notice or document required by the banana marketing standards;
@@ -217,7 +217,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 
 the authorised officer may, as appropriate, amend or cancel the label, notice or document and may affix to those bananas, or, as the case may be, to the container, a non-compliance label.
 
-### 11. Non-compliance notices[^key-9abf4684e67207213a4a1ba2fbee66ce]
+### 11. Non-compliance notices[^c-9abf4684e67207213a4a1ba2fbee66ce]
 
 (1) If an authorised officer affixes a non-compliance label to any bananas or container holding bananas under regulation 9 or 10, the officer shall at the same time serve a notice on the person who appears to be in charge of the bananas giving the reasons for the affixing of the non-compliance label and stating—
 
@@ -243,7 +243,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 ## PART 4 — Controlled bananas and related powers and offences
 
-### 12. Powers to control the movement of bananas[^key-e261e868393552c162f026ded46dc943]
+### 12. Powers to control the movement of bananas[^c-e261e868393552c162f026ded46dc943]
 
 (1) An authorised officer may serve a stop notice prohibiting the movement of any bananas if the authorised officer reasonably suspects that an offence under these Regulations is being or has been committed in respect of the bananas.
 
@@ -287,7 +287,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 (14) In this regulation “relevant person” means the person on whom a stop notice has been served under paragraph (1), the owner of the bananas to which the notice relates or an agent or employee acting on behalf of the owner.
 
-### 13. Power to affix a stop notice label[^key-cce2c8cfa320055f67ab414742ac989d]
+### 13. Power to affix a stop notice label[^c-cce2c8cfa320055f67ab414742ac989d]
 
 (1) An authorised officer may affix to any controlled bananas, or to any container in which the controlled bananas are packed, a label warning that a stop notice has been served under regulation 12(1).
 
@@ -296,7 +296,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 - (a) in the form set out in Part 3 of Schedule 2; and
 - (b) completed in accordance with Part 4 of that Schedule.
 
-### 14. Consents to the movement of controlled bananas[^key-50fb7b889254c837c5bf4c94f0ffcc39]
+### 14. Consents to the movement of controlled bananas[^c-50fb7b889254c837c5bf4c94f0ffcc39]
 
 (1) An authorised officer may, at any time, give consent to the movement of controlled bananas and to the withdrawal of the stop notice.
 
@@ -323,7 +323,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 - (b) identify the bananas or lot of bananas to which it relates; and
 - (c) where the consent is given under paragraph (4), state that the bananas continue to be controlled bananas.
 
-### 15. Written undertakings[^key-ae7032f3b0c7ef81439d2b837bb961d0]
+### 15. Written undertakings[^c-ae7032f3b0c7ef81439d2b837bb961d0]
 
 (1) An authorised officer may accept a written undertaking from a person who appears to the officer to be in control of bananas where the officer has—
 
@@ -341,7 +341,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 - (e) specify the agreed date by which such action will be taken; and
 - (f) be signed and dated by the person giving the undertaking and the authorised officer.
 
-### 16. Offences relating to movement of controlled bananas[^key-e8ad050562358b391f204e867fc0f7a5]
+### 16. Offences relating to movement of controlled bananas[^c-e8ad050562358b391f204e867fc0f7a5]
 
 (1) It is an offence for a person to—
 
@@ -350,7 +350,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 ## PART 5 — Additional offences and penalties
 
-### 17. Obstruction[^key-b4128384261edac69dadfb033b3e5a30]
+### 17. Obstruction[^c-b4128384261edac69dadfb033b3e5a30]
 
 It is an offence for a person to—
 
@@ -358,13 +358,13 @@ It is an offence for a person to—
 - (b) without reasonable excuse, fail to give an authorised officer acting for the purpose of the enforcement of these Regulations any assistance or information or to provide any record or facilities that the authorised officer may reasonably require; or
 - (c) supply to an authorised officer acting for the purpose of the enforcement of these Regulations any information knowing it to be false or misleading.
 
-### 18. Offence due to fault of another person[^key-7ff334fbc2d1a439958d288edfe23eb2]
+### 18. Offence due to fault of another person[^c-7ff334fbc2d1a439958d288edfe23eb2]
 
 (1) Where the commission by a person (“A”) of an offence under these Regulations is due to an act or default of another person (“B”), B is guilty of the offence.
 
 (2) Proceedings may be taken against B whether or not proceedings are taken against A.
 
-### 19. Offences by bodies corporate[^key-23579659ac2608f5e4d97d261e96f46a]
+### 19. Offences by bodies corporate[^c-23579659ac2608f5e4d97d261e96f46a]
 
 (1) If an offence under these Regulations is committed by a body corporate or a partnership or other unincorporated association and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
@@ -381,7 +381,7 @@ that individual as well as the body corporate, partnership or unincorporated ass
 - (b) in relation to a partnership, a partner;
 - (c) in relation to an unincorporated association other than a partnership, a person who is concerned in the management or control of the association.
 
-### 20. Defences[^key-6096728f7f8390cdeb4188128ee9257e]
+### 20. Defences[^c-6096728f7f8390cdeb4188128ee9257e]
 
 (1) In any proceedings for an offence under these Regulations, except under regulation 17, it is a defence for the person (“C”) charged to prove that their actions were carried out with lawful authority or that C took all reasonable precautions and exercised all due diligence to avoid committing the offence.
 
@@ -394,13 +394,13 @@ that individual as well as the body corporate, partnership or unincorporated ass
 - (a) at least seven clear days before the hearing; and
 - (b) where C has previously appeared before a court in connection with the alleged offence, within one month of C’s first such appearance.
 
-### 21. Penalties[^key-0b76752ac39b86a531190145226ae68a]
+### 21. Penalties[^c-0b76752ac39b86a531190145226ae68a]
 
 A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 ## PART 6 — Miscellaneous
 
-### 22. Disapplications[^key-bdf12b30cf4a472f8d44058709581d2a]
+### 22. Disapplications[^c-bdf12b30cf4a472f8d44058709581d2a]
 
 (1) The Horticulture Act (Northern Ireland) 1966[^f00010] does not apply to bananas.
 
@@ -414,7 +414,7 @@ A senior officer of the
 
 Department of Agriculture, Environment and Rural Affairs
 
-## SCHEDULE 1 — Provisions of the Commission Implementing Regulation[^key-a1ecbacee116beeda4896402bb01860c]
+## SCHEDULE 1 — Provisions of the Commission Implementing Regulation[^c-a1ecbacee116beeda4896402bb01860c]
 
 Regulation 4(2)
 
@@ -431,7 +431,7 @@ Regulation 4(2)
 
 Regulations 9(2) and 13(2)
 
-### PART 1 — Form of Non-Compliance Label[^key-2f461c0223c571339c92cfca9c7fe43c]
+### PART 1 — Form of Non-Compliance Label[^c-2f461c0223c571339c92cfca9c7fe43c]
 
 <table>
 <tbody>
@@ -447,13 +447,13 @@ Regulations 9(2) and 13(2)
 
 ### PART 2 — Completion of Non-Compliance Label
 
-**1.**[^key-f8fdf4c885e97810cbb87d8d370c2265] The reference number assigned to the label shall be inserted at (a).
+**1.**[^c-f8fdf4c885e97810cbb87d8d370c2265] The reference number assigned to the label shall be inserted at (a).
 
-**2.**[^key-a09cdde2ad0f3e6de59a94b8c8e98b7c] The personal number assigned to the authorised officer who carried out the conformity check shall be inserted at (b).
+**2.**[^c-a09cdde2ad0f3e6de59a94b8c8e98b7c] The personal number assigned to the authorised officer who carried out the conformity check shall be inserted at (b).
 
-**3.**[^key-2848d62c9181a11e81ea848b0b81160a] The date of the conformity check shall be inserted at (c).
+**3.**[^c-2848d62c9181a11e81ea848b0b81160a] The date of the conformity check shall be inserted at (c).
 
-### PART 3 — Form of Stop Notice Label[^key-01a4c45993802814c425bb5ce8bdec76]
+### PART 3 — Form of Stop Notice Label[^c-01a4c45993802814c425bb5ce8bdec76]
 
 <table>
 <tbody>
@@ -469,11 +469,11 @@ Regulations 9(2) and 13(2)
 
 ### PART 4 — Completion of Stop Notice Label
 
-**1.**[^key-2e230b6545bf044d2f73f34529a7fef5] The reference number assigned to the label shall be inserted at (a).
+**1.**[^c-2e230b6545bf044d2f73f34529a7fef5] The reference number assigned to the label shall be inserted at (a).
 
-**2.**[^key-cfe87399defa8f47df0065f25e53b4ed] The personal number assigned to the authorised officer who carried out the conformity check shall be inserted at (b).
+**2.**[^c-cfe87399defa8f47df0065f25e53b4ed] The personal number assigned to the authorised officer who carried out the conformity check shall be inserted at (b).
 
-**3.**[^key-ae3051fb2daf8bc20ccd8355f59a816f] The date of the conformity check shall be inserted at (c).
+**3.**[^c-ae3051fb2daf8bc20ccd8355f59a816f] The date of the conformity check shall be inserted at (c).
 
 EXPLANATORY NOTE
 
@@ -507,86 +507,86 @@ No Business and Regulatory Impact Assessment has been prepared for these Regulat
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part I of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-c0e3871f5403625714289c4fcbcd2749]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2019/66) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
+[^c-c0e3871f5403625714289c4fcbcd2749]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2019/66) applied (with modifications) (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1056/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2023/1056/schedule)
 
 [^f00005]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-c6d4b83e23652d6d1dea4f8e7cb1176d]: Commencement: Reg. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-c6d4b83e23652d6d1dea4f8e7cb1176d]: Commencement: Reg. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-a294b14aed9f937e78056973f8c1729c]: Commencement: Reg. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-a294b14aed9f937e78056973f8c1729c]: Commencement: Reg. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
 [^f00006]: Footnote: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-0c94cf7fe0841c0e3185e374e5ccd21e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2019/66/regulation/2/3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-0c94cf7fe0841c0e3185e374e5ccd21e]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2019/66/regulation/2/3) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-2c60f3a39e0362785f55cdea102fceaf]: Commencement: Reg. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-2c60f3a39e0362785f55cdea102fceaf]: Commencement: Reg. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-e8d5ba610219d4116251dfae2aed1d26]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2019/66/regulation/3/2/a) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8d5ba610219d4116251dfae2aed1d26]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2019/66/regulation/3/2/a) omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [11(2)(a)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/11/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-396e850cfda2806a643bb470374a21b3]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2019/66/regulation/3/2/b) and word omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-396e850cfda2806a643bb470374a21b3]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/nisr/2019/66/regulation/3/2/b) and word omitted (31.12.2020) by virtue of [The Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/1101)](https://www.legislation.gov.uk/uksi/2019/1101), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/1/2/b), [11(2)(b)](https://www.legislation.gov.uk/uksi/2019/1101/regulation/11/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d584ff8445feaa609ed8fc77d96fd510]: Commencement: Reg. 4 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-d584ff8445feaa609ed8fc77d96fd510]: Commencement: Reg. 4 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-2853405e48c8a71ab1216d23378e10ab]: Commencement: Reg. 5 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-2853405e48c8a71ab1216d23378e10ab]: Commencement: Reg. 5 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-833e3290a66c0f227858a44fc31d3a3e]: Commencement: Reg. 6 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-833e3290a66c0f227858a44fc31d3a3e]: Commencement: Reg. 6 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
 [^f00008]: Footnote: [2001 c.24](https://www.legislation.gov.uk/ukpga/2001/24).
 
-[^key-27bca641be56a8a584d02639eed136d2]: Commencement: Reg. 7 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-27bca641be56a8a584d02639eed136d2]: Commencement: Reg. 7 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-57f8c9e1d421f1945e4001a6ab17ab82]: Commencement: Reg. 8 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-57f8c9e1d421f1945e4001a6ab17ab82]: Commencement: Reg. 8 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
 [^f00009]: Footnote: The methodology to be applied is set out in Article 17 of, and Annex V to, Commission Implementing Regulation (EU) No. 543/2011 (O.J. No. L 157, 15.06.2011, p.1), as last amended by Commission Implementing Regulation (EU) No. 979/2013 (O.J. No. L 272, 12.10.2013, p.35). See also Commission Implementing Regulation (EU) No. 1333/2011 (O.J. No. L 336, 20.12.2011, p.23).
 
-[^key-68803ba74423659a5febe5e2897b82c6]: Commencement: Reg. 9 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-68803ba74423659a5febe5e2897b82c6]: Commencement: Reg. 9 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-bfb883270df766d4c3a537510314f93f]: Commencement: Reg. 10 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-bfb883270df766d4c3a537510314f93f]: Commencement: Reg. 10 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-9abf4684e67207213a4a1ba2fbee66ce]: Commencement: Reg. 11 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-9abf4684e67207213a4a1ba2fbee66ce]: Commencement: Reg. 11 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-e261e868393552c162f026ded46dc943]: Commencement: Reg. 12 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-e261e868393552c162f026ded46dc943]: Commencement: Reg. 12 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-cce2c8cfa320055f67ab414742ac989d]: Commencement: Reg. 13 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-cce2c8cfa320055f67ab414742ac989d]: Commencement: Reg. 13 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-50fb7b889254c837c5bf4c94f0ffcc39]: Commencement: Reg. 14 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-50fb7b889254c837c5bf4c94f0ffcc39]: Commencement: Reg. 14 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-ae7032f3b0c7ef81439d2b837bb961d0]: Commencement: Reg. 15 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-ae7032f3b0c7ef81439d2b837bb961d0]: Commencement: Reg. 15 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-e8ad050562358b391f204e867fc0f7a5]: Commencement: Reg. 16 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-e8ad050562358b391f204e867fc0f7a5]: Commencement: Reg. 16 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-b4128384261edac69dadfb033b3e5a30]: Commencement: Reg. 17 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-b4128384261edac69dadfb033b3e5a30]: Commencement: Reg. 17 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-7ff334fbc2d1a439958d288edfe23eb2]: Commencement: Reg. 18 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-7ff334fbc2d1a439958d288edfe23eb2]: Commencement: Reg. 18 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-23579659ac2608f5e4d97d261e96f46a]: Commencement: Reg. 19 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-23579659ac2608f5e4d97d261e96f46a]: Commencement: Reg. 19 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-6096728f7f8390cdeb4188128ee9257e]: Commencement: Reg. 20 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-6096728f7f8390cdeb4188128ee9257e]: Commencement: Reg. 20 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-0b76752ac39b86a531190145226ae68a]: Commencement: Reg. 21 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-0b76752ac39b86a531190145226ae68a]: Commencement: Reg. 21 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-bdf12b30cf4a472f8d44058709581d2a]: Commencement: Reg. 22 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-bdf12b30cf4a472f8d44058709581d2a]: Commencement: Reg. 22 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
 [^f00010]: Footnote: [1966 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1966/15).
 
 [^f00011]: Footnote: [1958 c.47](https://www.legislation.gov.uk/ukpga/1958/47).
 
-[^key-a1ecbacee116beeda4896402bb01860c]: Commencement: Sch. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-a1ecbacee116beeda4896402bb01860c]: Commencement: Sch. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-2f461c0223c571339c92cfca9c7fe43c]: Commencement: Sch. 2 Pt. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-2f461c0223c571339c92cfca9c7fe43c]: Commencement: Sch. 2 Pt. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-f8fdf4c885e97810cbb87d8d370c2265]: Commencement: Sch. 2 Pt. 2 para. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-f8fdf4c885e97810cbb87d8d370c2265]: Commencement: Sch. 2 Pt. 2 para. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-a09cdde2ad0f3e6de59a94b8c8e98b7c]: Commencement: Sch. 2 Pt. 2 para. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-a09cdde2ad0f3e6de59a94b8c8e98b7c]: Commencement: Sch. 2 Pt. 2 para. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-2848d62c9181a11e81ea848b0b81160a]: Commencement: Sch. 2 Pt. 2 para. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-2848d62c9181a11e81ea848b0b81160a]: Commencement: Sch. 2 Pt. 2 para. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-01a4c45993802814c425bb5ce8bdec76]: Commencement: Sch. 2 Pt. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-01a4c45993802814c425bb5ce8bdec76]: Commencement: Sch. 2 Pt. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-2e230b6545bf044d2f73f34529a7fef5]: Commencement: Sch. 2 Pt. 4 para. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-2e230b6545bf044d2f73f34529a7fef5]: Commencement: Sch. 2 Pt. 4 para. 1 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-cfe87399defa8f47df0065f25e53b4ed]: Commencement: Sch. 2 Pt. 4 para. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-cfe87399defa8f47df0065f25e53b4ed]: Commencement: Sch. 2 Pt. 4 para. 2 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
 
-[^key-ae3051fb2daf8bc20ccd8355f59a816f]: Commencement: Sch. 2 Pt. 4 para. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)
+[^c-ae3051fb2daf8bc20ccd8355f59a816f]: Commencement: Sch. 2 Pt. 4 para. 3 in operation at 29.3.2019, see [reg. 1](https://www.legislation.gov.uk/nisr/2019/66/regulation/1)

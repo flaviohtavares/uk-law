@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Purpose of Part 5[^key-ca5215873eb7a7a4697ba51dcb93c2ad]
+## 11. Purpose of Part 5[^c-ca5215873eb7a7a4697ba51dcb93c2ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Pursuant to paragraphs 7, 8 and 30 of Schedule 5 to the Act, the initiation and 
 
 ## Annotations
 
-[^key-ca5215873eb7a7a4697ba51dcb93c2ad]: Commencement: Reg. 11 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-ca5215873eb7a7a4697ba51dcb93c2ad]: Commencement: Reg. 11 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

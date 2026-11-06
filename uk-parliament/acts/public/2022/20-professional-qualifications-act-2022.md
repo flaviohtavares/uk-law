@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Recognition of overseas qualifications
 
-### 1. Power to provide for individuals to be treated as having UK qualifications[^key-8f234b69b63bf3fe2e57dafef711b4f8]
+### 1. Power to provide for individuals to be treated as having UK qualifications[^c-8f234b69b63bf3fe2e57dafef711b4f8]
 
 (1) The appropriate national authority may by regulations make provision for individuals who meet the condition in subsection (2) or (3) and any other specified condition to be treated, for the purpose of determining whether they are entitled to practise a specified regulated profession in the United Kingdom or a part of it, as if they have a specified UK qualification or specified UK experience.
 
@@ -81,7 +81,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) its having been accredited or otherwise approved in a specified manner;
 - (b) its having been issued by a body or obtained at an institution accredited or otherwise approved in a specified manner.
 
-### 2. Power conferred by section 1 exercisable only if necessary to meet demand[^key-3363429fd067155a703d4ae18b81040a]
+### 2. Power conferred by section 1 exercisable only if necessary to meet demand[^c-3363429fd067155a703d4ae18b81040a]
 
 (1) Regulations under section 1 may not be made in respect of a regulated profession unless the appropriate national authority is satisfied that the condition in subsection (2) is met.
 
@@ -92,7 +92,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) modify earlier regulations under that section without adding to the professions, or the parts of the United Kingdom, to which the earlier regulations relate, or
 - (b) make provision authorised by section 13(1)(c).
 
-### 3. Implementation of international recognition agreements[^key-cef1fdac6d727c438dc8577d1f53b02b]
+### 3. Implementation of international recognition agreements[^c-cef1fdac6d727c438dc8577d1f53b02b]
 
 (1) The appropriate national authority may by regulations make such provision as the authority considers appropriate for the purpose of, or in connection with, implementing any international recognition agreement to which the United Kingdom is a party.
 
@@ -108,7 +108,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (5) The reference in this section to an international recognition agreement to which the United Kingdom is a party includes a reference to such an agreement as modified or supplemented from time to time in accordance with any provision of it.
 
-### 4. Authorisation to enter into regulator recognition agreements[^key-55600f4d1c6c5bf4006d61767b72c84e]
+### 4. Authorisation to enter into regulator recognition agreements[^c-55600f4d1c6c5bf4006d61767b72c84e]
 
 (1) The appropriate national authority may by regulations make such provision as the authority considers appropriate for the purpose of, or in connection with, authorising a regulator of a regulated profession to enter into regulator recognition agreements.
 
@@ -131,13 +131,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - “**corresponding profession**” means a profession that ordinarily consists of activity that is the same as, or substantially corresponds to, activity that ordinarily comprises the practice of the regulated profession mentioned in that subsection;
 - “**overseas regulator**”, in relation to the corresponding profession mentioned in that subsection, means a person exercising functions that relate to the regulation of the profession in the country or territory mentioned in that subsection.
 
-### 5. Revocation of general EU system of recognition of overseas qualifications[^key-63b2863d3273dc54554d1705d284b74e]
+### 5. Revocation of general EU system of recognition of overseas qualifications[^c-63b2863d3273dc54554d1705d284b74e]
 
-(1)[^key-02cbf544c7b31d1cf746539c50c65e4e] The European Union (Recognition of Professional Qualifications) Regulations 2015 ([S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059)) are revoked.
+(1)[^c-02cbf544c7b31d1cf746539c50c65e4e] The European Union (Recognition of Professional Qualifications) Regulations 2015 ([S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059)) are revoked.
 
-(2)[^key-63b2863d3273dc54554d1705d284b74e] The appropriate national authority may by regulations make such modifications of legislation as the appropriate national authority considers to be appropriate in consequence of subsection (1).
+(2)[^c-63b2863d3273dc54554d1705d284b74e] The appropriate national authority may by regulations make such modifications of legislation as the appropriate national authority considers to be appropriate in consequence of subsection (1).
 
-### 6. Revocation of other assimilated recognition law[^key-3ef39e9f53ead2239f327dcf269ae87c][^key-8f3dda2e4a5aeed06c665c11a578de60]
+### 6. Revocation of other assimilated recognition law[^c-3ef39e9f53ead2239f327dcf269ae87c][^c-8f3dda2e4a5aeed06c665c11a578de60]
 
 (1) The appropriate national authority may by regulations modify any assimilated recognition law so as to cause it to cease to have effect to any extent.
 
@@ -145,7 +145,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Assistance and information
 
-### 7. Assistance centre[^key-4aef6d373383e7a044cb8f80f8ea2ed1]
+### 7. Assistance centre[^c-4aef6d373383e7a044cb8f80f8ea2ed1]
 
 **Not yet in force.**
 
@@ -185,7 +185,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   - (b) in relation to an overseas profession, the requirements as to qualifications, experience or otherwise that must be met by an individual to become entitled to practise the profession in the country or territory concerned;
 - “**overseas profession**” means a profession practised in a country or territory outside the United Kingdom.
 
-### 8. Duty of regulator to publish information on requirements to practise[^key-5326721a4996028451ffe3ca2fc616e0][^key-d454f94154999e50e87d1d70dc9eb2df]
+### 8. Duty of regulator to publish information on requirements to practise[^c-5326721a4996028451ffe3ca2fc616e0][^c-d454f94154999e50e87d1d70dc9eb2df]
 
 (1) A regulator of a regulated profession must—
 
@@ -238,7 +238,7 @@ the regulator mentioned in subsection (1) must publish a statement that this is 
 
 (7) In this section “**regulatory functions**” means functions under legislation that relate to the regulation of the regulated profession mentioned in subsection (1).
 
-### 9. Duty of regulator to provide information to regulator in another part of UK[^key-5a2b45bce3a8aa002f69fd1b24a4cf0f][^key-c39624cd991fbf6d657b8d1f44c9e7ed]
+### 9. Duty of regulator to provide information to regulator in another part of UK[^c-5a2b45bce3a8aa002f69fd1b24a4cf0f][^c-c39624cd991fbf6d657b8d1f44c9e7ed]
 
 (1) This section applies where—
 
@@ -263,7 +263,7 @@ the regulator mentioned in subsection (1) must publish a statement that this is 
 
 (5) In this section, “**corresponding regulated profession**” means a regulated profession that ordinarily consists of activity that is the same as, or substantially corresponds to, activity that ordinarily comprises the practice of the regulated profession mentioned in subsection (1)(a).
 
-### 10. Duty of regulator to provide information to overseas regulator[^key-c8a6e56e995d0ab6dbd4651da011fa5f][^key-7c6bd1f68014d7a28e01d79fd7f43e96]
+### 10. Duty of regulator to provide information to overseas regulator[^c-c8a6e56e995d0ab6dbd4651da011fa5f][^c-7c6bd1f68014d7a28e01d79fd7f43e96]
 
 (1) This section applies where—
 
@@ -305,22 +305,22 @@ the regulator mentioned in subsection (1) must publish a statement that this is 
 
 ## Architects
 
-### 11. Amendments to the Architects Act 1997[^key-ce30ba65ce62c353e01efa6b6304980c]
+### 11. Amendments to the Architects Act 1997[^c-ce30ba65ce62c353e01efa6b6304980c]
 
-(1)[^key-ce30ba65ce62c353e01efa6b6304980c] The Architects Act 1997 is amended as follows.
+(1)[^c-ce30ba65ce62c353e01efa6b6304980c] The Architects Act 1997 is amended as follows.
 
-(2)[^key-ce30ba65ce62c353e01efa6b6304980c] In section 2 (the Registrar), after subsection (3) insert—
+(2)[^c-ce30ba65ce62c353e01efa6b6304980c] In section 2 (the Registrar), after subsection (3) insert—
 
 > (3ZA) The Registrar may delegate any of those functions to a member of the staff of the Board who is nominated by the Board for the purpose of this subsection.
 
-(3)[^key-ce30ba65ce62c353e01efa6b6304980c] In section 3 (the Register), after subsection (4) insert—
+(3)[^c-ce30ba65ce62c353e01efa6b6304980c] In section 3 (the Register), after subsection (4) insert—
 
 > (4A) The Board may exclude the whole or any part of the regular business address of a registered person from the published version of the Register if—
 >
 > - (a) the registered person has applied in the prescribed manner requesting the address or part of it to be excluded from the published version, and
 > - (b) the Board is satisfied that the address is also a residential address of the registered person.
 
-(4)[^key-9ece89f6232b5ed04b23323e8c58964b] In section 4 (registration: general)—
+(4)[^c-9ece89f6232b5ed04b23323e8c58964b] In section 4 (registration: general)—
 
 - (a) after subsection (1) insert—
 
@@ -349,17 +349,17 @@ the regulator mentioned in subsection (1) must publish a statement that this is 
   > - (b) if it does not have a registered office, where its head office is, or
   > - (c) if it does not have a registered office or a head office, where its principal place of operation is.
 
-(5)[^key-9ece89f6232b5ed04b23323e8c58964b] In Schedule 1 (the Board and its Committees) in paragraph 18(2)(b) (functions which may not be discharged by a committee) for “4(2)” substitute “4(1A) or (2)”.[^key-5ffc699a9b619714c475d343aaf5dff7].
+(5)[^c-9ece89f6232b5ed04b23323e8c58964b] In Schedule 1 (the Board and its Committees) in paragraph 18(2)(b) (functions which may not be discharged by a committee) for “4(2)” substitute “4(1A) or (2)”.[^c-5ffc699a9b619714c475d343aaf5dff7].
 
 ## Crown application
 
-### 12. Crown application[^key-74966384a2c7f9ba767e85c14093463c]
+### 12. Crown application[^c-74966384a2c7f9ba767e85c14093463c]
 
 This Act binds the Crown.
 
 ## Regulations
 
-### 13. General provision about regulations[^key-7b0d6127dac7a51a17554e37249e7ad1]
+### 13. General provision about regulations[^c-7b0d6127dac7a51a17554e37249e7ad1]
 
 (1) Subject to subsections (2) to (4), any power to make regulations under this Act includes power—
 
@@ -373,7 +373,7 @@ This Act binds the Crown.
 
 (4) Subsection (1)(b) and (c) does not apply in relation to a power to make regulations under section 21.
 
-### 14. Protection of regulator autonomy[^key-b414cc51c310d8dd2165ee8aac8734d4]
+### 14. Protection of regulator autonomy[^c-b414cc51c310d8dd2165ee8aac8734d4]
 
 (1) The appropriate national authority may make regulations under section 1, 3 or 4 only if satisfied that the conditions in subsections (2) and (3) are met.
 
@@ -385,14 +385,14 @@ This Act binds the Crown.
 
 (5) A reference in this section to practising a profession includes a reference to undertaking activities that comprise the practise of the profession or using a title associated with the practise of the profession.
 
-### 15. Consultation with regulators[^key-14dec122939514ab75db9209348bfedb]
+### 15. Consultation with regulators[^c-14dec122939514ab75db9209348bfedb]
 
 Before making regulations under section 1, 3 or 4, the appropriate national authority must consult a regulator of a regulated profession if the authority considers that—
 
 - (a) the regulator is likely to be affected by the regulations, or
 - (b) it is otherwise appropriate to consult the regulator.
 
-### 16. Authority by whom regulations may be made[^key-a394fdf15ccbbad3958e3e2c4af8f9c1]
+### 16. Authority by whom regulations may be made[^c-a394fdf15ccbbad3958e3e2c4af8f9c1]
 
 (1) In this Act “**appropriate national authority**” means the Secretary of State or the Lord Chancellor, subject as follows.
 
@@ -420,7 +420,7 @@ Before making regulations under section 1, 3 or 4, the appropriate national auth
 
   .
 
-### 17. Consultation with devolved authorities[^key-39e7a4f299ed980178e2f1862c7a9f21]
+### 17. Consultation with devolved authorities[^c-39e7a4f299ed980178e2f1862c7a9f21]
 
 (1) Before making regulations under this Act, the Secretary of State or the Lord Chancellor must consult—
 
@@ -448,9 +448,9 @@ Before making regulations under section 1, 3 or 4, the appropriate national auth
 
 (7) In this section “**devolved authority**” means the Scottish Ministers, the Welsh Ministers or a Northern Ireland department.
 
-### 18. Parliamentary procedure[^key-78d796a2e040a8ab1276aad1110f919b]
+### 18. Parliamentary procedure[^c-78d796a2e040a8ab1276aad1110f919b]
 
-(1) Regulations under this Act are subject to the affirmative resolution procedure where they contain provision amending, repealing or revoking primary legislation [^key-4353ed7cb59c4c11ef00187aeb8b07b9]....
+(1) Regulations under this Act are subject to the affirmative resolution procedure where they contain provision amending, repealing or revoking primary legislation [^c-4353ed7cb59c4c11ef00187aeb8b07b9]....
 
 (2) Otherwise, regulations under this Act are subject to the negative resolution procedure.
 
@@ -480,13 +480,13 @@ Before making regulations under section 1, 3 or 4, the appropriate national auth
 
 ## Final provisions
 
-### 19. Interpretation[^key-7a598bb75a2a6a091d50e8452d072ab4]
+### 19. Interpretation[^c-7a598bb75a2a6a091d50e8452d072ab4]
 
 (1) In this Act—
 
 - “**appropriate national authority**” has the meaning given by section 16;
 - “**data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act);
-- “**legislation**” means primary legislation, subordinate legislation and assimilated direct[^key-8f0be26e900533b901c45ab4d6e4e426] legislation;
+- “**legislation**” means primary legislation, subordinate legislation and assimilated direct[^c-8f0be26e900533b901c45ab4d6e4e426] legislation;
 - “**modify**” includes amend, repeal or revoke;
 - “**overseas experience**” means experience obtained mainly outside the United Kingdom;
 - “**overseas qualification**” means a qualification issued by a body that is based outside the United Kingdom;
@@ -527,11 +527,11 @@ Before making regulations under section 1, 3 or 4, the appropriate national auth
 - (b) if it does not have a registered office, where its head office is, or
 - (c) if it does not have a registered office or a head office, where its principal place of operation is.
 
-### 20. Extent[^key-dac297ed4d8d6ad9ea0af503895a2358]
+### 20. Extent[^c-dac297ed4d8d6ad9ea0af503895a2358]
 
 This Act extends to England and Wales, Scotland and Northern Ireland.
 
-### 21. Commencement[^key-ac4fb94565946e33b9b7d043ccdbc9e2]
+### 21. Commencement[^c-ac4fb94565946e33b9b7d043ccdbc9e2]
 
 (1) The following provisions come into force on the day on which this Act is passed—
 
@@ -564,70 +564,70 @@ This Act extends to England and Wales, Scotland and Northern Ireland.
 
 (8) Regulations under this section are to be made by statutory instrument.
 
-### 22. Short title[^key-528a57aa6815e02e7b09beb939512dff]
+### 22. Short title[^c-528a57aa6815e02e7b09beb939512dff]
 
 This Act may be cited as the Professional Qualifications Act 2022.
 
 ## Annotations
 
-[^key-8f234b69b63bf3fe2e57dafef711b4f8]: Commencement: S. 1 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
+[^c-8f234b69b63bf3fe2e57dafef711b4f8]: Commencement: S. 1 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
 
-[^key-3363429fd067155a703d4ae18b81040a]: Commencement: S. 2 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
+[^c-3363429fd067155a703d4ae18b81040a]: Commencement: S. 2 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
 
-[^key-cef1fdac6d727c438dc8577d1f53b02b]: Commencement: S. 3 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
+[^c-cef1fdac6d727c438dc8577d1f53b02b]: Commencement: S. 3 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
 
-[^key-55600f4d1c6c5bf4006d61767b72c84e]: Commencement: S. 4 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
+[^c-55600f4d1c6c5bf4006d61767b72c84e]: Commencement: S. 4 in force at Royal Assent, see [s. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/a)
 
-[^key-63b2863d3273dc54554d1705d284b74e]: Commencement: S. 5(2) in force at Royal Assent, see [s. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/b)
+[^c-63b2863d3273dc54554d1705d284b74e]: Commencement: S. 5(2) in force at Royal Assent, see [s. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/b)
 
-[^key-02cbf544c7b31d1cf746539c50c65e4e]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2022/20/section/5/1) in force at 1.12.2023 by [S.I. 2023/1081](https://www.legislation.gov.uk/uksi/2023/1081), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2023/1081/regulation/3/1) (with [Sch.](https://www.legislation.gov.uk/uksi/2023/1081/schedule))
+[^c-02cbf544c7b31d1cf746539c50c65e4e]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2022/20/section/5/1) in force at 1.12.2023 by [S.I. 2023/1081](https://www.legislation.gov.uk/uksi/2023/1081), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2023/1081/regulation/3/1) (with [Sch.](https://www.legislation.gov.uk/uksi/2023/1081/schedule))
 
-[^key-3ef39e9f53ead2239f327dcf269ae87c]: Commencement: S. 6 in force at Royal Assent, see [s. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/c)
+[^c-3ef39e9f53ead2239f327dcf269ae87c]: Commencement: S. 6 in force at Royal Assent, see [s. 21(1)(c)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/c)
 
-[^key-8f3dda2e4a5aeed06c665c11a578de60]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/ukpga/2022/20/section/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 103(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/103/2)
+[^c-8f3dda2e4a5aeed06c665c11a578de60]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/ukpga/2022/20/section/6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 103(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/103/2)
 
-[^key-4aef6d373383e7a044cb8f80f8ea2ed1]: Commencement: S. 7 not in force at Royal Assent, see [s. 21(4)(b)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/4/b)
+[^c-4aef6d373383e7a044cb8f80f8ea2ed1]: Commencement: S. 7 not in force at Royal Assent, see [s. 21(4)(b)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/4/b)
 
-[^key-5326721a4996028451ffe3ca2fc616e0]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 21(1)(d)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/d)
+[^c-5326721a4996028451ffe3ca2fc616e0]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 21(1)(d)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/d)
 
-[^key-d454f94154999e50e87d1d70dc9eb2df]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/20/section/8) in force at 28.10.2022 in so far as not already in force, see [s. 21(3)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/3)
+[^c-d454f94154999e50e87d1d70dc9eb2df]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/20/section/8) in force at 28.10.2022 in so far as not already in force, see [s. 21(3)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/3)
 
-[^key-5a2b45bce3a8aa002f69fd1b24a4cf0f]: Commencement: S. 9 not in force at Royal Assent, see [s. 21(4)(c)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/4/c)
+[^c-5a2b45bce3a8aa002f69fd1b24a4cf0f]: Commencement: S. 9 not in force at Royal Assent, see [s. 21(4)(c)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/4/c)
 
-[^key-c39624cd991fbf6d657b8d1f44c9e7ed]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/20/section/9) in force at 28.10.2022 by [S.I. 2022/936](https://www.legislation.gov.uk/uksi/2022/936), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/936/regulation/3/a)
+[^c-c39624cd991fbf6d657b8d1f44c9e7ed]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/20/section/9) in force at 28.10.2022 by [S.I. 2022/936](https://www.legislation.gov.uk/uksi/2022/936), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/936/regulation/3/a)
 
-[^key-c8a6e56e995d0ab6dbd4651da011fa5f]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 21(1)(e)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/e)
+[^c-c8a6e56e995d0ab6dbd4651da011fa5f]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 21(1)(e)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/e)
 
-[^key-7c6bd1f68014d7a28e01d79fd7f43e96]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/20/section/10) in force at 28.10.2022 in so far as not already in force by [S.I. 2022/936](https://www.legislation.gov.uk/uksi/2022/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/936/regulation/3/b)
+[^c-7c6bd1f68014d7a28e01d79fd7f43e96]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/20/section/10) in force at 28.10.2022 in so far as not already in force by [S.I. 2022/936](https://www.legislation.gov.uk/uksi/2022/936), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/936/regulation/3/b)
 
-[^key-ce30ba65ce62c353e01efa6b6304980c]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/1) in force at 28.7.2022, see [s. 21(2)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/2)
+[^c-ce30ba65ce62c353e01efa6b6304980c]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/1) in force at 28.7.2022, see [s. 21(2)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/2)
 
-[^key-9ece89f6232b5ed04b23323e8c58964b]: Commencement: [S. 11(4)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/4)[(5)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/5) in force at 31.12.2022 by [S.I. 2022/1384](https://www.legislation.gov.uk/uksi/2022/1384), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1384/regulation/2)
+[^c-9ece89f6232b5ed04b23323e8c58964b]: Commencement: [S. 11(4)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/4)[(5)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/5) in force at 31.12.2022 by [S.I. 2022/1384](https://www.legislation.gov.uk/uksi/2022/1384), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1384/regulation/2)
 
-[^key-5ffc699a9b619714c475d343aaf5dff7]: Textual amendment: Words in [s. 11(5)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/5) substituted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 159(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/159/3), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3)
+[^c-5ffc699a9b619714c475d343aaf5dff7]: Textual amendment: Words in [s. 11(5)](https://www.legislation.gov.uk/ukpga/2022/20/section/11/5) substituted (28.6.2022) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 159(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/159/3), [170(3)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3)
 
-[^key-74966384a2c7f9ba767e85c14093463c]: Commencement: S. 12 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-74966384a2c7f9ba767e85c14093463c]: Commencement: S. 12 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-7b0d6127dac7a51a17554e37249e7ad1]: Commencement: S. 13 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-7b0d6127dac7a51a17554e37249e7ad1]: Commencement: S. 13 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-b414cc51c310d8dd2165ee8aac8734d4]: Commencement: S. 14 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-b414cc51c310d8dd2165ee8aac8734d4]: Commencement: S. 14 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-14dec122939514ab75db9209348bfedb]: Commencement: S. 15 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-14dec122939514ab75db9209348bfedb]: Commencement: S. 15 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-a394fdf15ccbbad3958e3e2c4af8f9c1]: Commencement: S. 16 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-a394fdf15ccbbad3958e3e2c4af8f9c1]: Commencement: S. 16 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-39e7a4f299ed980178e2f1862c7a9f21]: Commencement: S. 17 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-39e7a4f299ed980178e2f1862c7a9f21]: Commencement: S. 17 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-78d796a2e040a8ab1276aad1110f919b]: Commencement: S. 18 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-78d796a2e040a8ab1276aad1110f919b]: Commencement: S. 18 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-4353ed7cb59c4c11ef00187aeb8b07b9]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/20/section/18/1) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/9)
+[^c-4353ed7cb59c4c11ef00187aeb8b07b9]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/20/section/18/1) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/9)
 
-[^key-7a598bb75a2a6a091d50e8452d072ab4]: Commencement: S. 19 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-7a598bb75a2a6a091d50e8452d072ab4]: Commencement: S. 19 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-8f0be26e900533b901c45ab4d6e4e426]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2022/20/section/19/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 103(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/103/3)
+[^c-8f0be26e900533b901c45ab4d6e4e426]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukpga/2022/20/section/19/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 103(3)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/103/3)
 
-[^key-dac297ed4d8d6ad9ea0af503895a2358]: Commencement: S. 20 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
+[^c-dac297ed4d8d6ad9ea0af503895a2358]: Commencement: S. 20 in force at Royal Assent, see [s. 21(1)(f)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/f)
 
-[^key-ac4fb94565946e33b9b7d043ccdbc9e2]: Commencement: S. 21 in force at Royal Assent, see [s. 21(1)(g)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/g)
+[^c-ac4fb94565946e33b9b7d043ccdbc9e2]: Commencement: S. 21 in force at Royal Assent, see [s. 21(1)(g)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/g)
 
-[^key-528a57aa6815e02e7b09beb939512dff]: Commencement: S. 22 in force at Royal Assent, see [s. 21(1)(h)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/h)
+[^c-528a57aa6815e02e7b09beb939512dff]: Commencement: S. 22 in force at Royal Assent, see [s. 21(1)(h)](https://www.legislation.gov.uk/ukpga/2022/20/section/21/1/h)

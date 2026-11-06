@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Interpretation of “appropriate diocesan authority” and “appropriate religious body”[^key-61b45af37ce0c16fbbcb364213d7d41f]
+## 31. Interpretation of “appropriate diocesan authority” and “appropriate religious body”[^c-61b45af37ce0c16fbbcb364213d7d41f]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In this Part,
 
 ## Annotations
 
-[^key-61b45af37ce0c16fbbcb364213d7d41f]: Commencement: Reg. 31 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-61b45af37ce0c16fbbcb364213d7d41f]: Commencement: Reg. 31 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

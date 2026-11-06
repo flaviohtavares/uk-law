@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Filing of application[^key-52e8ffb38c3d48e23f33aa0cdb735dab]
+## 7. Filing of application[^c-52e8ffb38c3d48e23f33aa0cdb735dab]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) 1 copy for service on the bank,
 - (b) 1 copy to be attached to the proof of service, and
-- (c) further copies to be sent to the[^key-5b0c4aa06240f3a6ff9da8e9ccd3c1a3] persons under rule 10.
+- (c) further copies to be sent to the[^c-5b0c4aa06240f3a6ff9da8e9ccd3c1a3] persons under rule 10.
 
 (3) The court shall fix the venue, date and time for the hearing of the application and in doing so shall have regard to—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52e8ffb38c3d48e23f33aa0cdb735dab]: Commencement: Rule 7 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-52e8ffb38c3d48e23f33aa0cdb735dab]: Commencement: Rule 7 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-5b0c4aa06240f3a6ff9da8e9ccd3c1a3]: Textual amendment: Word in [rule 7(2)(c)](https://www.legislation.gov.uk/uksi/2009/356/rule/7/2/c) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [7](https://www.legislation.gov.uk/uksi/2010/2579/rule/7)
+[^c-5b0c4aa06240f3a6ff9da8e9ccd3c1a3]: Textual amendment: Word in [rule 7(2)(c)](https://www.legislation.gov.uk/uksi/2009/356/rule/7/2/c) substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [7](https://www.legislation.gov.uk/uksi/2010/2579/rule/7)

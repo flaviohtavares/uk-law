@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Merger and demerger of public services boards[^key-693c16559d9a754a7db240ce3f6bc84f][^key-9ca0f05282fb467fca349d557665ac85]
+## 47. Merger and demerger of public services boards[^c-693c16559d9a754a7db240ce3f6bc84f][^c-9ca0f05282fb467fca349d557665ac85]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 (2) The Welsh Ministers may direct two or more public services boards to merge if the Welsh Ministers consider it would assist the boards in contributing to the achievement of the well-being goals﻿.
 
-(3)[^key-0215cd5f2add7105ad2d3169350e19a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0215cd5f2add7105ad2d3169350e19a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) If two or more boards merge—
 
 - (a) references in this Part (other than in this section) to a public services board must be construed as references to the merged board, and
 - (b) references in this Part to a local authority area must be construed as references to the combined areas of the local authorities that are members of the merged board.
 
-(5)[^key-b6dbe7fe5020353f9b15f3d2343733f0] A merged board must, as soon as reasonably practicable after it is established, review—
+(5)[^c-b6dbe7fe5020353f9b15f3d2343733f0] A merged board must, as soon as reasonably practicable after it is established, review—
 
 - (a) the local well-being plans in effect for its area immediately before it was established, and
 - (b) the local objectives set out in those plans.
@@ -78,10 +78,10 @@ summary: ''
 
 ## Annotations
 
-[^key-693c16559d9a754a7db240ce3f6bc84f]: Commencement: S. 47 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-693c16559d9a754a7db240ce3f6bc84f]: Commencement: S. 47 in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
 
-[^key-9ca0f05282fb467fca349d557665ac85]: Textual amendment: Words in [s. 47](https://www.legislation.gov.uk/anaw/2015/2/section/47) heading substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(5)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/5)
+[^c-9ca0f05282fb467fca349d557665ac85]: Textual amendment: Words in [s. 47](https://www.legislation.gov.uk/anaw/2015/2/section/47) heading substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q), [Sch. 14 para. 1(5)](https://www.legislation.gov.uk/asc/2021/1/schedule/14/paragraph/1/5)
 
-[^key-0215cd5f2add7105ad2d3169350e19a6]: Textual amendment: [S. 47(3)](https://www.legislation.gov.uk/anaw/2015/2/section/47/3) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 165(2)](https://www.legislation.gov.uk/asc/2021/1/section/165/2), [175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q)
+[^c-0215cd5f2add7105ad2d3169350e19a6]: Textual amendment: [S. 47(3)](https://www.legislation.gov.uk/anaw/2015/2/section/47/3) omitted (20.3.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 165(2)](https://www.legislation.gov.uk/asc/2021/1/section/165/2), [175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q)
 
-[^key-b6dbe7fe5020353f9b15f3d2343733f0]: Textual amendment: [S. 47(5)-(13)](https://www.legislation.gov.uk/anaw/2015/2/section/47/5) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 165(3)](https://www.legislation.gov.uk/asc/2021/1/section/165/3), [175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q)
+[^c-b6dbe7fe5020353f9b15f3d2343733f0]: Textual amendment: [S. 47(5)-(13)](https://www.legislation.gov.uk/anaw/2015/2/section/47/5) inserted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [ss. 165(3)](https://www.legislation.gov.uk/asc/2021/1/section/165/3), [175(3)(q)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/q)

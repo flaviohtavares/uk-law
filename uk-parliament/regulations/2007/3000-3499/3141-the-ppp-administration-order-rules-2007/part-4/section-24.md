@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Entitlement to vote[^key-310d5533c8aa39ed0261613a6342a0b5]
+## 24. Entitlement to vote[^c-310d5533c8aa39ed0261613a6342a0b5]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ Details of the debt must include any calculation for the purposes of rules 26 to
 
 ## Annotations
 
-[^key-310d5533c8aa39ed0261613a6342a0b5]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2007/3141/rule/24) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-310d5533c8aa39ed0261613a6342a0b5]: Commencement: [Rule 24](https://www.legislation.gov.uk/uksi/2007/3141/rule/24) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

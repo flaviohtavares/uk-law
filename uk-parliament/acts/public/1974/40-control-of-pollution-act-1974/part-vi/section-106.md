@@ -32,7 +32,7 @@ summary: ''
 
 (6) For any reference in this Act to a magistrates’ court there shall be substituted a reference to the sheriff.
 
-(7)[^key-34dfdb9a7c2d250a88bd61f318c60f0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-34dfdb9a7c2d250a88bd61f318c60f0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) For any reference in this Act to the London Gazette there shall be substituted a reference to the Edinburgh Gazette.
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c2462251]: Textual amendment: S. 106(4) repealed (S.) by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 156(1)](https://www.legislation.gov.uk/ukpga/1984/54/section/156/1), [Sch. 9 para. 74(7)](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/74/7), [Sch. 11](https://www.legislation.gov.uk/ukpga/1984/54/schedule/11)
 
-[^key-34dfdb9a7c2d250a88bd61f318c60f0b]: Textual amendment: S. 106(7) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-34dfdb9a7c2d250a88bd61f318c60f0b]: Textual amendment: S. 106(7) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

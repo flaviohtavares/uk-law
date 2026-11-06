@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Sentencing Council business plan[^key-0972e1c094fe969edff977c028e7c7cf]
+## 19. Sentencing Council business plan[^c-0972e1c094fe969edff977c028e7c7cf]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 118 of the Coroners and Justice Act 2009 insert—
 
 ## Annotations
 
-[^key-0972e1c094fe969edff977c028e7c7cf]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2026/2/section/19) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-0972e1c094fe969edff977c028e7c7cf]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2026/2/section/19) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

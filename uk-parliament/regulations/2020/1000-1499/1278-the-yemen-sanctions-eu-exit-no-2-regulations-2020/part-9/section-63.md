@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Interpretation of Part 9[^key-ca02b24904b0b9f0770fac1d324335da][^key-8adb76e9f6ec17a4720c6185bafad7dd]
+## 63. Interpretation of Part 9[^c-ca02b24904b0b9f0770fac1d324335da][^c-8adb76e9f6ec17a4720c6185bafad7dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca02b24904b0b9f0770fac1d324335da]: Commencement: Reg. 63 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-ca02b24904b0b9f0770fac1d324335da]: Commencement: Reg. 63 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-8adb76e9f6ec17a4720c6185bafad7dd]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2020/1278/regulation/63) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-8adb76e9f6ec17a4720c6185bafad7dd]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2020/1278/regulation/63) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

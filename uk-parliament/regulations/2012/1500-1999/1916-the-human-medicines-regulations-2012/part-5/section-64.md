@@ -31,9 +31,9 @@ summary: ''
 - (a) the marketing authorisation;
 - (b) the package leaflet;
 - (c) the summary of the product characteristics;
-- (d)[^key-efeeedef7de36cbfec0d7aaa6f7608aa] any conditions—
-  - (i) in the case of a UKMA(NI) or UKMA(UK)(Category 2)[^key-cf93e279f73600722d723ab0daa138af], established in accordance with Articles 21a, 22 and 22a of the 2001 Directive;
-  - (ii) in the case of UKMA(GB) or UKMA(UK)(Category 1)[^key-762d54a6eaf6ae5d4bf97fe3fa208edd], imposed under regulations 59 to 61; and
+- (d)[^c-efeeedef7de36cbfec0d7aaa6f7608aa] any conditions—
+  - (i) in the case of a UKMA(NI) or UKMA(UK)(Category 2)[^c-cf93e279f73600722d723ab0daa138af], established in accordance with Articles 21a, 22 and 22a of the 2001 Directive;
+  - (ii) in the case of UKMA(GB) or UKMA(UK)(Category 1)[^c-762d54a6eaf6ae5d4bf97fe3fa208edd], imposed under regulations 59 to 61; and
 - (e) any deadlines for the fulfilment of those conditions.
 
 (5) The licensing authority must draw up an assessment report and make comments on the file as regards—
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-efeeedef7de36cbfec0d7aaa6f7608aa]: Textual amendment: Reg. 64(4)(d) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 69](https://www.legislation.gov.uk/uksi/2019/775/regulation/69) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/52))
+[^c-efeeedef7de36cbfec0d7aaa6f7608aa]: Textual amendment: Reg. 64(4)(d) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 69](https://www.legislation.gov.uk/uksi/2019/775/regulation/69) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/52))
 
-[^key-cf93e279f73600722d723ab0daa138af]: Textual amendment: Words in [reg. 64(4)(d)(i)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/64/4/d/i) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [52(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/52/a)
+[^c-cf93e279f73600722d723ab0daa138af]: Textual amendment: Words in [reg. 64(4)(d)(i)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/64/4/d/i) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [52(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/52/a)
 
-[^key-762d54a6eaf6ae5d4bf97fe3fa208edd]: Textual amendment: Words in [reg. 64(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/64/4/d/ii) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [52(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/52/b)
+[^c-762d54a6eaf6ae5d4bf97fe3fa208edd]: Textual amendment: Words in [reg. 64(4)(d)(ii)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/64/4/d/ii) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [52(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/52/b)

@@ -256,17 +256,17 @@ After section 10A of the 1993 Act (financial penalties for breach of conditions 
 
 (1) Section 22 of the 1993 Act (apportionment of money in Distribution Fund) shall be amended in accordance with subsections (2) to (6) below.
 
-(2)[^key-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-eca4a8c455e2a5556b41068ae5c90ff9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In subsection (1) of section 44 of the 1993 Act (interpretation of Part II) after the definition of “**the Distribution Fund**” there shall be inserted—
 
@@ -275,17 +275,17 @@ After section 10A of the 1993 Act (financial penalties for breach of conditions 
 
 .
 
-(9)[^key-2b2a479af66f14a920db5c0972c32384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-2b2a479af66f14a920db5c0972c32384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-2b2a479af66f14a920db5c0972c32384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-2b2a479af66f14a920db5c0972c32384] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. The New Opportunities Fund.[^key-728da253ccd7f34b69ad5514b063572b]
+#### 7. The New Opportunities Fund.[^c-728da253ccd7f34b69ad5514b063572b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 8. Provisions supplemental to section 7.
 
-(1)[^key-34900bbc7771b734c0e9b9e3c2e17002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-34900bbc7771b734c0e9b9e3c2e17002] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 44 of the 1993 Act (interpretation of Part II) after subsection (2) there shall be inserted—
 
@@ -294,15 +294,15 @@ After section 10A of the 1993 Act (financial penalties for breach of conditions 
 > - (a) which is not concerned or connected with any of those matters; but
 > - (b) which is necessary or expedient for the purposes of the project or arrangement.
 
-(3)[^key-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3178ce3c040146d9bcb5a9e5b4caf1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Distributing bodies
 
@@ -393,9 +393,9 @@ In section 25 of the 1993 Act (application of money by distributing bodies) afte
 > - (a) impose limits on the amount of money which may be distributed by a body under section 25(1) by virtue of decisions made on its behalf by bodies or persons not falling within section 25A(2), and
 > - (b) require a body, before appointing any body or person not falling within section 25A(2) to exercise on its behalf any function of making decisions concerning the distribution of money under section 25(1), to obtain the approval of the Secretary of State to its plans for making such appointments.
 
-(5)[^key-1b71519d43e63fe95779fa5c5b709868] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1b71519d43e63fe95779fa5c5b709868] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-fc554eaa9879454449a94fa20d07d9c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fc554eaa9879454449a94fa20d07d9c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 12. Joint schemes for distribution of money by distributing bodies.
 
@@ -461,7 +461,7 @@ After section 25B of the 1993 Act there shall be inserted—
 >
 > (7) Nothing in this section applies in relation to any body which distributes under section 25(1) money allocated under section 22(3)(e).
 
-#### 14. The National Lottery Charities Board.[^key-b6f3b455fe0b3557b81796d60ea2ac59]
+#### 14. The National Lottery Charities Board.[^c-b6f3b455fe0b3557b81796d60ea2ac59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -499,47 +499,47 @@ After section 25B of the 1993 Act there shall be inserted—
 
 > (6) Any reference in this section to an order is a reference to an order of the Secretary of State.
 
-## Part II — The National Endowment for Science, Technology and the Arts[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+## Part II — The National Endowment for Science, Technology and the Arts[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 **No longer in force.**
 
-### 16. The National Endowment for Science, Technology and the Arts.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 16. The National Endowment for Science, Technology and the Arts.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Objects.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 17. Objects.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. General duty and powers.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 18. General duty and powers.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Initial and subsequent endowment.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 19. Initial and subsequent endowment.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Solicitation of gifts and investment of money.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 20. Solicitation of gifts and investment of money.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Financial directions etc.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 21. Financial directions etc.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Annual report and forward plans.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 22. Annual report and forward plans.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Accounts.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 23. Accounts.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Exemption from taxation.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 24. Exemption from taxation.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Interpretation of Part II.[^key-64944d8f1ac2eccc80398fd48bda4ab7]
+### 25. Interpretation of Part II.[^c-64944d8f1ac2eccc80398fd48bda4ab7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -807,19 +807,19 @@ in respect of his last financial year, or any preceding financial year for which
 
 #### The Public Records Act 1958
 
-**8.**[^key-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Parliamentary Commissioner Act 1967
 
-**9.**[^key-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The House of Commons Disqualification Act 1975
 
-**10.**[^key-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Northern Ireland Assembly Disqualification Act 1975
 
-**11.**[^key-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d2aef4fbd265f014bf793556bc143afc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Tribunals and Inquiries Act 1992
 
@@ -873,55 +873,55 @@ in respect of his last financial year, or any preceding financial year for which
 
 > (4) In determining what amounts are appropriate for meeting the payments referred to in subsection (2)(aa), the Secretary of State shall take into account sums paid or to be paid into the Consolidated Fund under section 7(6).
 
-## SCHEDULE 2 — The New Opportunities Fund: Schedule 6A to the 1993 Act[^key-8a40628ba7aa3815a7d5d5db52659ea7]
+## SCHEDULE 2 — The New Opportunities Fund: Schedule 6A to the 1993 Act[^c-8a40628ba7aa3815a7d5d5db52659ea7]
 
 **No longer in force.**
 
 Section 7.
 
-> **Schedule 6A — The New Opportunities Fund[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Schedule 6A — The New Opportunities Fund[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
 > Section 43A.
 >
-> **Membership[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Membership[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **1.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Committees[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Committees[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **2.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Tenure of office[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Tenure of office[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **3.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Remuneration and allowances[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Remuneration and allowances[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **4.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Staff[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Staff[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **5.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Proceedings[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Proceedings[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **6.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Application of seal and evidence[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Application of seal and evidence[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **7.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Status of New Opportunities Fund[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Status of New Opportunities Fund[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **9.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Application to Scotland[^key-8a40628ba7aa3815a7d5d5db52659ea7]**
+> **Application to Scotland[^c-8a40628ba7aa3815a7d5d5db52659ea7]**
 >
-> **11.**[^key-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-8a40628ba7aa3815a7d5d5db52659ea7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Joint schemes: Schedule 3A to the 1993 Act
 
@@ -1046,65 +1046,65 @@ Section 12.
 >
 > (7) Any authorisation under this paragraph must be in writing.
 
-## SCHEDULE 4 — The National Endowment for Science, Technology and the Arts[^key-b671b6197d8b211c919f20853554bd28]
+## SCHEDULE 4 — The National Endowment for Science, Technology and the Arts[^c-b671b6197d8b211c919f20853554bd28]
 
 **No longer in force.**
 
 Section 16.
 
-### Membership[^key-b671b6197d8b211c919f20853554bd28]
+### Membership[^c-b671b6197d8b211c919f20853554bd28]
 
-**1.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Delegation of functions[^key-b671b6197d8b211c919f20853554bd28]
+### Delegation of functions[^c-b671b6197d8b211c919f20853554bd28]
 
-**2.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenure of office[^key-b671b6197d8b211c919f20853554bd28]
+### Tenure of office[^c-b671b6197d8b211c919f20853554bd28]
 
-**3.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration and allowances[^key-b671b6197d8b211c919f20853554bd28]
+### Remuneration and allowances[^c-b671b6197d8b211c919f20853554bd28]
 
-**4.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-b671b6197d8b211c919f20853554bd28]
+### Staff[^c-b671b6197d8b211c919f20853554bd28]
 
-**5.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proceedings[^key-b671b6197d8b211c919f20853554bd28]
+### Proceedings[^c-b671b6197d8b211c919f20853554bd28]
 
-**6.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application of seal and evidence[^key-b671b6197d8b211c919f20853554bd28]
-
-*Extent: E+W+N.I.*
-
-**7.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Application of seal and evidence[^c-b671b6197d8b211c919f20853554bd28]
 
 *Extent: E+W+N.I.*
 
-**8.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Status of NESTA[^key-b671b6197d8b211c919f20853554bd28]
+*Extent: E+W+N.I.*
 
-**9.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Parliamentary disqualification[^key-b671b6197d8b211c919f20853554bd28]
+### Status of NESTA[^c-b671b6197d8b211c919f20853554bd28]
 
-**10.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reimbursement[^key-b671b6197d8b211c919f20853554bd28]
+### Parliamentary disqualification[^c-b671b6197d8b211c919f20853554bd28]
 
-**11.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Prior consultation[^key-b671b6197d8b211c919f20853554bd28]
+### Reimbursement[^c-b671b6197d8b211c919f20853554bd28]
 
-**12.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Application to Scotland[^key-b671b6197d8b211c919f20853554bd28]
+### Prior consultation[^c-b671b6197d8b211c919f20853554bd28]
 
-**13.**[^key-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Application to Scotland[^c-b671b6197d8b211c919f20853554bd28]
+
+**13.**[^c-b671b6197d8b211c919f20853554bd28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 5 — Enactments repealed
 
@@ -1144,23 +1144,23 @@ Section 26.
 
 [^c8780641]: Marginal citation: [1983 c. 44](https://www.legislation.gov.uk/ukpga/1983/44).
 
-[^key-eca4a8c455e2a5556b41068ae5c90ff9]: Textual amendment: [S. 6(2)-(7)](https://www.legislation.gov.uk/ukpga/1998/22/section/6/2) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-eca4a8c455e2a5556b41068ae5c90ff9]: Textual amendment: [S. 6(2)-(7)](https://www.legislation.gov.uk/ukpga/1998/22/section/6/2) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-2b2a479af66f14a920db5c0972c32384]: Textual amendment: [S. 6(9)-(10)](https://www.legislation.gov.uk/ukpga/1998/22/section/6/9) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-2b2a479af66f14a920db5c0972c32384]: Textual amendment: [S. 6(9)-(10)](https://www.legislation.gov.uk/ukpga/1998/22/section/6/9) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-728da253ccd7f34b69ad5514b063572b]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1998/22/section/7) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-728da253ccd7f34b69ad5514b063572b]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1998/22/section/7) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-34900bbc7771b734c0e9b9e3c2e17002]: Textual amendment: [S. 8(1)](https://www.legislation.gov.uk/ukpga/1998/22/section/8/1) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-34900bbc7771b734c0e9b9e3c2e17002]: Textual amendment: [S. 8(1)](https://www.legislation.gov.uk/ukpga/1998/22/section/8/1) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-3178ce3c040146d9bcb5a9e5b4caf1e8]: Textual amendment: [S. 8(3)-(7)](https://www.legislation.gov.uk/ukpga/1998/22/section/8/3) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-3178ce3c040146d9bcb5a9e5b4caf1e8]: Textual amendment: [S. 8(3)-(7)](https://www.legislation.gov.uk/ukpga/1998/22/section/8/3) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-1b71519d43e63fe95779fa5c5b709868]: Textual amendment: [S. 11(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/11/5) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-1b71519d43e63fe95779fa5c5b709868]: Textual amendment: [S. 11(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/11/5) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-fc554eaa9879454449a94fa20d07d9c9]: Textual amendment: [S. 11(6)](https://www.legislation.gov.uk/ukpga/1998/22/section/11/6) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-fc554eaa9879454449a94fa20d07d9c9]: Textual amendment: [S. 11(6)](https://www.legislation.gov.uk/ukpga/1998/22/section/11/6) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-b6f3b455fe0b3557b81796d60ea2ac59]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1998/22/section/14) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-b6f3b455fe0b3557b81796d60ea2ac59]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1998/22/section/14) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-64944d8f1ac2eccc80398fd48bda4ab7]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1998/22/part/II) omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+[^c-64944d8f1ac2eccc80398fd48bda4ab7]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1998/22/part/II) omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
 
 [^c8780751]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/1998/22/section/26) partly in force; [s. 26](https://www.legislation.gov.uk/ukpga/1998/22/section/26) in force at 2.7.1998 in relation to specified repeals in Sch. 5 and at 2.9.1998 in relation to further specified specified repeals see [s. 27(3)-(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/3); [s. 26](https://www.legislation.gov.uk/ukpga/1998/22/section/26) in force at 1.4.1999 so far as relating to Sch. 5 Pt. I by [S.I. 1999/650](https://www.legislation.gov.uk/uksi/1999/650), [art. 2](https://www.legislation.gov.uk/uksi/1999/650/article/2).
 
@@ -1170,12 +1170,12 @@ Section 26.
 
 [^c8780781]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-d2aef4fbd265f014bf793556bc143afc]: Textual amendment: [Sch. 1 paras. 8-11](https://www.legislation.gov.uk/ukpga/1998/22/schedule/1/paragraph/8) omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/25) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-d2aef4fbd265f014bf793556bc143afc]: Textual amendment: [Sch. 1 paras. 8-11](https://www.legislation.gov.uk/ukpga/1998/22/schedule/1/paragraph/8) omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/25) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
 [^c8780831]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-8a40628ba7aa3815a7d5d5db52659ea7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/22/schedule/2) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
+[^c-8a40628ba7aa3815a7d5d5db52659ea7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/22/schedule/2) repealed (1.12.2006) by [National Lottery Act 2006 (c. 23)](https://www.legislation.gov.uk/ukpga/2006/23), [s. 22(1)](https://www.legislation.gov.uk/ukpga/2006/23/section/22/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/23/schedule/3); [S.I. 2006/3201](https://www.legislation.gov.uk/uksi/2006/3201), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/3201/article/2/e)
 
-[^key-b671b6197d8b211c919f20853554bd28]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/22/schedule/4) omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
+[^c-b671b6197d8b211c919f20853554bd28]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1998/22/schedule/4) omitted (1.4.2012) by virtue of [The Public Bodies (Abolition of the National Endowment for Science, Technology and the Arts) Order 2012 (S.I. 2012/964)](https://www.legislation.gov.uk/uksi/2012/964), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/964/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2012/964/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/964/schedule)
 
 [^c8780871]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1998/22/schedule/5/part/II) partly in force; [Pt. II](https://www.legislation.gov.uk/ukpga/1998/22/part/II) in force in relation to specified repeals at Royal Assent and in relation to further specified repeals at 2.9.1998 see [s. 27(3)-(5)](https://www.legislation.gov.uk/ukpga/1998/22/section/27/3).

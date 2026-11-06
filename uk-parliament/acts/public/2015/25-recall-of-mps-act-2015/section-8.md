@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Notice of petition to be sent to registered electors[^c22525341][^key-e22d02eeecba115a0def25fdcde49750]
+## 8. Notice of petition to be sent to registered electors[^c22525341][^c-e22d02eeecba115a0def25fdcde49750]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c22525341]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/25/section/8) partly in force; [s. 8](https://www.legislation.gov.uk/ukpga/2015/25/section/8) in force at Royal Assent for specified purposes, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/b)
 
-[^key-e22d02eeecba115a0def25fdcde49750]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/25/section/8) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e22d02eeecba115a0def25fdcde49750]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/25/section/8) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

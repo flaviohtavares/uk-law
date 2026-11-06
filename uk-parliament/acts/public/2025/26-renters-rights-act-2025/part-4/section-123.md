@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Power to seize documents following entry[^key-ca44f261e425252df09a101134d3ea07]
+## 123. Power to seize documents following entry[^c-ca44f261e425252df09a101134d3ea07]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca44f261e425252df09a101134d3ea07]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2025/26/section/123) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-ca44f261e425252df09a101134d3ea07]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2025/26/section/123) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

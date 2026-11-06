@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20A. Separate collection of food waste[^key-7cdb45ebf59ebd11711d327d015220dc]
+## 20A. Separate collection of food waste[^c-7cdb45ebf59ebd11711d327d015220dc]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cdb45ebf59ebd11711d327d015220dc]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/nisi/1997/2778/article/20A) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/5)
+[^c-7cdb45ebf59ebd11711d327d015220dc]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/nisi/1997/2778/article/20A) inserted (14.2.2015) by [The Food Waste Regulations (Northern Ireland) 2015 (S.R. 2015/14)](https://www.legislation.gov.uk/nisr/2015/14), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/14/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/14/regulation/2/5)

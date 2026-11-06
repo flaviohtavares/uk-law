@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Nuisance or disturbance on HSS premises[^key-873f635842f8c1070778f98ee235b2f2]
+## 122. Nuisance or disturbance on HSS premises[^c-873f635842f8c1070778f98ee235b2f2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 21 makes provision for Northern Ireland corresponding to the provision 
 
 ## Annotations
 
-[^key-873f635842f8c1070778f98ee235b2f2]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2008/4/section/122) in force at 22.6.2009 by [S.R. 2009/243](https://www.legislation.gov.uk/nisr/2009/243), [art. 2(a)](https://www.legislation.gov.uk/nisr/2009/243/article/2/a)
+[^c-873f635842f8c1070778f98ee235b2f2]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2008/4/section/122) in force at 22.6.2009 by [S.R. 2009/243](https://www.legislation.gov.uk/nisr/2009/243), [art. 2(a)](https://www.legislation.gov.uk/nisr/2009/243/article/2/a)

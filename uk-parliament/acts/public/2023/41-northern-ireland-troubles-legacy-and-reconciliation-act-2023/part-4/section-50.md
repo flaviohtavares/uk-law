@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. The memorialisation strategy[^key-19fd5084edba162776fe34b00d5f84d4][^key-f4b3e6d285090bed38b5067ad8580e54]
+## 50. The memorialisation strategy[^c-19fd5084edba162776fe34b00d5f84d4][^c-f4b3e6d285090bed38b5067ad8580e54]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-19fd5084edba162776fe34b00d5f84d4]: Commencement: S. 50 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-19fd5084edba162776fe34b00d5f84d4]: Commencement: S. 50 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-f4b3e6d285090bed38b5067ad8580e54]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/41/section/50) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-f4b3e6d285090bed38b5067ad8580e54]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/41/section/50) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

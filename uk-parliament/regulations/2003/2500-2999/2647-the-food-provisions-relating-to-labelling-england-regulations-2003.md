@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Food (Provisions relating to Labelling) (England) Regulations 2003 (revoked)[^key-511464db5f6c55f790f2b2ddd1247515]
+The Food (Provisions relating to Labelling) (England) Regulations 2003 (revoked)[^c-511464db5f6c55f790f2b2ddd1247515]
 
 Made
 
@@ -43,48 +43,48 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-511464db5f6c55f790f2b2ddd1247515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-511464db5f6c55f790f2b2ddd1247515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-511464db5f6c55f790f2b2ddd1247515]
+## 1. Title, application and commencement[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-511464db5f6c55f790f2b2ddd1247515]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-511464db5f6c55f790f2b2ddd1247515]
+## 3.[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-511464db5f6c55f790f2b2ddd1247515]
+## 4.[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-511464db5f6c55f790f2b2ddd1247515]
+## 5.[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-511464db5f6c55f790f2b2ddd1247515]
+## 6.[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-511464db5f6c55f790f2b2ddd1247515]
+## 7.[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Genetically Modified and Novel Foods (Labelling) (England) Regulations 2000[^key-511464db5f6c55f790f2b2ddd1247515]
+## 8. Amendment of the Genetically Modified and Novel Foods (Labelling) (England) Regulations 2000[^c-511464db5f6c55f790f2b2ddd1247515]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-511464db5f6c55f790f2b2ddd1247515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-511464db5f6c55f790f2b2ddd1247515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-511464db5f6c55f790f2b2ddd1247515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-511464db5f6c55f790f2b2ddd1247515]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-511464db5f6c55f790f2b2ddd1247515]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 15
+[^c-511464db5f6c55f790f2b2ddd1247515]: Textual amendment: Regulations revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 15

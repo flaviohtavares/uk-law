@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76F. Code of practice[^key-acb7a04cafb1086b18e62e7958d0c6df]
+## 76F. Code of practice[^c-acb7a04cafb1086b18e62e7958d0c6df]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acb7a04cafb1086b18e62e7958d0c6df]: Textual amendment: [Art. 76F](https://www.legislation.gov.uk/nisi/1996/3158/article/76F) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(1)](https://www.legislation.gov.uk/nia/2021/7/section/25/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-acb7a04cafb1086b18e62e7958d0c6df]: Textual amendment: [Art. 76F](https://www.legislation.gov.uk/nisi/1996/3158/article/76F) and cross-heading inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 25(1)](https://www.legislation.gov.uk/nia/2021/7/section/25/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

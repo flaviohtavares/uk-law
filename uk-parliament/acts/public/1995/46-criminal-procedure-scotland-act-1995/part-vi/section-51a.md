@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51A. Criminal responsibility of persons with mental disorder[^key-7706c87dd9faf3f7603707be6a255cf0][^key-0d03765b13e298127b1aca4b7697a277]
+## 51A. Criminal responsibility of persons with mental disorder[^c-7706c87dd9faf3f7603707be6a255cf0][^c-0d03765b13e298127b1aca4b7697a277]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7706c87dd9faf3f7603707be6a255cf0]: Modification: [S. 51A](https://www.legislation.gov.uk/ukpga/1995/46/section/51A) modified (27.11.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(3)](https://www.legislation.gov.uk/nia/2015/2/section/28/3), [Sch. 3 para. 23(6)](https://www.legislation.gov.uk/nia/2015/2/schedule/3/paragraph/23/6); [S.R. 2015/376](https://www.legislation.gov.uk/nisr/2015/376), [art. 2](https://www.legislation.gov.uk/nisr/2015/376/article/2); [S.R. 2016/61](https://www.legislation.gov.uk/nisr/2016/61), [art. 2](https://www.legislation.gov.uk/nisr/2016/61/article/2)
+[^c-7706c87dd9faf3f7603707be6a255cf0]: Modification: [S. 51A](https://www.legislation.gov.uk/ukpga/1995/46/section/51A) modified (27.11.2015 for specified purposes, 1.4.2016 in so far as not already in force) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(3)](https://www.legislation.gov.uk/nia/2015/2/section/28/3), [Sch. 3 para. 23(6)](https://www.legislation.gov.uk/nia/2015/2/schedule/3/paragraph/23/6); [S.R. 2015/376](https://www.legislation.gov.uk/nisr/2015/376), [art. 2](https://www.legislation.gov.uk/nisr/2015/376/article/2); [S.R. 2016/61](https://www.legislation.gov.uk/nisr/2016/61), [art. 2](https://www.legislation.gov.uk/nisr/2016/61/article/2)
 
-[^key-0d03765b13e298127b1aca4b7697a277]: Textual amendment: Ss. 51A, 51B and cross-headings inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 168](https://www.legislation.gov.uk/asp/2010/13/section/168), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-0d03765b13e298127b1aca4b7697a277]: Textual amendment: Ss. 51A, 51B and cross-headings inserted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 168](https://www.legislation.gov.uk/asp/2010/13/section/168), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))

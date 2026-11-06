@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Determinations by the scheme manager[^key-2bdab123414b2b1afbb02cd1f17a60ac]
+## 151. Determinations by the scheme manager[^c-2bdab123414b2b1afbb02cd1f17a60ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager must determine whether a person is entitled to an award or to
 
 ## Annotations
 
-[^key-2bdab123414b2b1afbb02cd1f17a60ac]: Commencement: [Reg. 151](https://www.legislation.gov.uk/uksi/2014/2848/regulation/151) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2bdab123414b2b1afbb02cd1f17a60ac]: Commencement: [Reg. 151](https://www.legislation.gov.uk/uksi/2014/2848/regulation/151) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

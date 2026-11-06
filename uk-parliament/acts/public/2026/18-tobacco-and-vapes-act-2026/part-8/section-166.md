@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Application to Parliament[^key-5c8d15591b3f2a2d0ac3e7d775f27e58]
+## 166. Application to Parliament[^c-5c8d15591b3f2a2d0ac3e7d775f27e58]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ To the extent that this Act or regulations made under it would not (but for this
 
 ## Annotations
 
-[^key-5c8d15591b3f2a2d0ac3e7d775f27e58]: Commencement: S. 166 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-5c8d15591b3f2a2d0ac3e7d775f27e58]: Commencement: S. 166 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

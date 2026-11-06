@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Abatement of works abandoned or decayed[^key-548cd975c8b1112ed28e805996c22369]
+## 39. Abatement of works abandoned or decayed[^c-548cd975c8b1112ed28e805996c22369]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Where Work No. 1(a), Work No. 1(b), Work No. 2 or Work No. 3 or any part of thos
 
 ## Annotations
 
-[^key-548cd975c8b1112ed28e805996c22369]: Commencement: Art. 39 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-548cd975c8b1112ed28e805996c22369]: Commencement: Art. 39 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
 
 [^f00036]: Footnote: Section 105(2) was substituted by section 69(3) of the Energy Act [2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32).

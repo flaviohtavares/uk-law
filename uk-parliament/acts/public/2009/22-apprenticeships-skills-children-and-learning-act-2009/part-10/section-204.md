@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Power to require local authorities in England to obtain advisory services[^key-810c98e7c7e6c3a85091bf6f20972a93][^key-062d27e760c356996de33ee6a2c9d7a4]
+## 204. Power to require local authorities in England to obtain advisory services[^c-810c98e7c7e6c3a85091bf6f20972a93][^c-062d27e760c356996de33ee6a2c9d7a4]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 > (1A) This section also applies where it appears to the Secretary of State that—
 >
-> - (a) a local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England maintain a disproportionate number of low-performing schools, and
+> - (a) a local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England maintain a disproportionate number of low-performing schools, and
 > - (b) the authority—
 >   - (i) have not been effective or are unlikely to be effective in securing an improvement in the standards of performance of pupils at those schools, or
 >   - (ii) are unlikely to be effective in securing an improvement in the standards of performance of pupils at other schools which may in the future be low-performing schools.
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-810c98e7c7e6c3a85091bf6f20972a93]: Commencement: S. 204 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-810c98e7c7e6c3a85091bf6f20972a93]: Commencement: S. 204 in force at 12.1.2010 by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
+[^c-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

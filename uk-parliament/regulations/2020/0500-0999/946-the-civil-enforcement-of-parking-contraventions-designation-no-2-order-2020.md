@@ -52,18 +52,18 @@ The Secretary of State has consulted the Chief Constables of the Hampshire, East
 
 Accordingly, the Secretary of State[^f00002] makes this Order.
 
-## 1. Citation and commencement[^key-cf08418c1b705d47150ac9137fe487a3]
+## 1. Citation and commencement[^c-cf08418c1b705d47150ac9137fe487a3]
 
 This Order may be cited as the Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020 and comes into force on 29th September 2020.
 
-## 2. Interpretation[^key-3744f9cbbeef906bbf83037cfb29b093]
+## 2. Interpretation[^c-3744f9cbbeef906bbf83037cfb29b093]
 
 In this Order—
 
 - “grid reference” means Ordnance Survey National Grid reference point; and
 - “strategic road network” means the highways for which Highways England Company Limited[^f00003] is the highway authority by virtue of the Appointment of a Strategic Highways Company Order 2015[^f00004].
 
-## 3. Designation of civil enforcement area and special enforcement area[^key-f73defbcf6fef8fd2232318b4ccd1307]
+## 3. Designation of civil enforcement area and special enforcement area[^c-f73defbcf6fef8fd2232318b4ccd1307]
 
 (1) The Secretary of State designates each of the areas mentioned in paragraph (2) as—
 
@@ -77,7 +77,7 @@ In this Order—
 - (c) the part of the area of the Council of the City of Stoke-on-Trent specified in Schedule 1; and
 - (d) the part of the area of Surrey County Council specified in Schedule 2.
 
-## 4. Revocation[^key-e679f2cf6074f56ac26c688d80f14cbf]
+## 4. Revocation[^c-e679f2cf6074f56ac26c688d80f14cbf]
 
 The following Orders are revoked—
 
@@ -104,11 +104,11 @@ Department for Transport
 
 2nd September 2020
 
-## SCHEDULE 1 — The part of the area of the Council of the City of Stoke-on-Trent designated as a civil enforcement area for parking contraventions and special enforcement area[^key-8bed11fdf94669866a66708c0dfd8f6c]
+## SCHEDULE 1 — The part of the area of the Council of the City of Stoke-on-Trent designated as a civil enforcement area for parking contraventions and special enforcement area[^c-8bed11fdf94669866a66708c0dfd8f6c]
 
 Article 3(2)(c)
 
-[^key-8bed11fdf94669866a66708c0dfd8f6c]
+[^c-8bed11fdf94669866a66708c0dfd8f6c]
 
 The whole of the area of the Council of the City of Stoke-on-Trent except—
 
@@ -119,16 +119,16 @@ The whole of the area of the Council of the City of Stoke-on-Trent except—
 
 Article 3(2)(d)
 
-**1.**[^key-b428561734e54c9c0862aa554944b71c] The whole of the area of Surrey County Council except—
+**1.**[^c-b428561734e54c9c0862aa554944b71c] The whole of the area of Surrey County Council except—
 
 - (a) the roads forming the parts of the strategic road network listed in paragraph 2; and
 - (b) the roads owned by, or under the control of, the Secretary of State for Defence listed in paragraph 3.
 
-### 2. Roads on the strategic road network[^key-ea3d3f89b313267950b6769b6f73d6d3]
+### 2. Roads on the strategic road network[^c-ea3d3f89b313267950b6769b6f73d6d3]
 
 (1) The M3 motorway and its associated slip roads for the whole of its length within the County from grid reference TQ103703 to the boundary with the area of Hampshire County Council at grid reference SU866581.
 
-(2)[^key-712444351a280c1ebe60f7203b2806fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-712444351a280c1ebe60f7203b2806fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The A316 and its associated slip roads from the boundary with the London Borough of Hounslow at grid reference TQ108706 to its junction with the M3 motorway at grid reference TQ103703.
 
@@ -136,11 +136,11 @@ Article 3(2)(d)
 
 (5) The M23 motorway and its associated slip roads for the whole of its length within the County from the boundary with the area of West Sussex County Council at grid reference TQ305416 to its merging points with the A23 near the northern boundary of the County at grid reference TQ289545.
 
-(6)[^key-f509b742a7a5efdad162ecbb4a8a4ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f509b742a7a5efdad162ecbb4a8a4ede] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The A3 and its associated slip roads for the whole of its length within the County from the boundary with the Royal Borough of Kingston upon Thames at grid reference TQ178654 to the boundary with the area of Hampshire County Council at grid reference SU871339.
 
-### 3. Roads owned by or under the control of Secretary of State for Defence[^key-de1c51ba536b2e118d3ac78ced9f3bdf]
+### 3. Roads owned by or under the control of Secretary of State for Defence[^c-de1c51ba536b2e118d3ac78ced9f3bdf]
 
 All roads owned by, or under the control of, the Secretary of State for Defence within the County including—
 
@@ -174,17 +174,17 @@ An impact assessment has not been produced as no impact on the private or volunt
 
 [^f00002]: Footnote: The Secretary of State is the “appropriate national authority” as regards England for the purposes of Part 6 of the Traffic Management Act [2004 (c.18)](https://www.legislation.gov.uk/ukpga/2004/18), by virtue of section 92 of that Act.
 
-[^key-cf08418c1b705d47150ac9137fe487a3]: Commencement: Art. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-cf08418c1b705d47150ac9137fe487a3]: Commencement: Art. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
-[^key-3744f9cbbeef906bbf83037cfb29b093]: Commencement: Art. 2 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-3744f9cbbeef906bbf83037cfb29b093]: Commencement: Art. 2 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
 [^f00003]: Footnote: Incorporated in England and Wales under company number 9346363.
 
 [^f00004]: Footnote: [S.I. 2015/376](https://www.legislation.gov.uk/uksi/2015/376).
 
-[^key-f73defbcf6fef8fd2232318b4ccd1307]: Commencement: Art. 3 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-f73defbcf6fef8fd2232318b4ccd1307]: Commencement: Art. 3 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
-[^key-e679f2cf6074f56ac26c688d80f14cbf]: Commencement: Art. 4 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-e679f2cf6074f56ac26c688d80f14cbf]: Commencement: Art. 4 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
 [^f00005]: Footnote: [S.I. 2001/3059](https://www.legislation.gov.uk/uksi/2001/3059).
 
@@ -210,14 +210,14 @@ An impact assessment has not been produced as no impact on the private or volunt
 
 [^f00016]: Footnote: [S.I. 2007/664](https://www.legislation.gov.uk/uksi/2007/664).
 
-[^key-8bed11fdf94669866a66708c0dfd8f6c]: Commencement: Sch. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-8bed11fdf94669866a66708c0dfd8f6c]: Commencement: Sch. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
-[^key-b428561734e54c9c0862aa554944b71c]: Commencement: Sch. 2 para. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-b428561734e54c9c0862aa554944b71c]: Commencement: Sch. 2 para. 1 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
-[^key-ea3d3f89b313267950b6769b6f73d6d3]: Commencement: Sch. 2 para. 2 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-ea3d3f89b313267950b6769b6f73d6d3]: Commencement: Sch. 2 para. 2 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
 
-[^key-712444351a280c1ebe60f7203b2806fc]: Textual amendment: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/946/schedule/2/paragraph/2/2) omitted (29.7.2025) by virtue of [The Civil Enforcement of Parking Contraventions Designation (No. 2) (Amendment) and the Civil Enforcement of Parking Contraventions Designation (County of Cambridgeshire) (Huntingdonshire District) Order 2025 (S.I. 2025/788)](https://www.legislation.gov.uk/uksi/2025/788), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/788/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/788/article/4/2)
+[^c-712444351a280c1ebe60f7203b2806fc]: Textual amendment: [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2020/946/schedule/2/paragraph/2/2) omitted (29.7.2025) by virtue of [The Civil Enforcement of Parking Contraventions Designation (No. 2) (Amendment) and the Civil Enforcement of Parking Contraventions Designation (County of Cambridgeshire) (Huntingdonshire District) Order 2025 (S.I. 2025/788)](https://www.legislation.gov.uk/uksi/2025/788), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/788/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/788/article/4/2)
 
-[^key-f509b742a7a5efdad162ecbb4a8a4ede]: Textual amendment: [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/uksi/2020/946/schedule/2/paragraph/2/6) omitted (29.7.2025) by virtue of [The Civil Enforcement of Parking Contraventions Designation (No. 2) (Amendment) and the Civil Enforcement of Parking Contraventions Designation (County of Cambridgeshire) (Huntingdonshire District) Order 2025 (S.I. 2025/788)](https://www.legislation.gov.uk/uksi/2025/788), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/788/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/788/article/4/2)
+[^c-f509b742a7a5efdad162ecbb4a8a4ede]: Textual amendment: [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/uksi/2020/946/schedule/2/paragraph/2/6) omitted (29.7.2025) by virtue of [The Civil Enforcement of Parking Contraventions Designation (No. 2) (Amendment) and the Civil Enforcement of Parking Contraventions Designation (County of Cambridgeshire) (Huntingdonshire District) Order 2025 (S.I. 2025/788)](https://www.legislation.gov.uk/uksi/2025/788), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/788/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2025/788/article/4/2)
 
-[^key-de1c51ba536b2e118d3ac78ced9f3bdf]: Commencement: Sch. 2 para. 3 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)
+[^c-de1c51ba536b2e118d3ac78ced9f3bdf]: Commencement: Sch. 2 para. 3 in force at 29.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1)

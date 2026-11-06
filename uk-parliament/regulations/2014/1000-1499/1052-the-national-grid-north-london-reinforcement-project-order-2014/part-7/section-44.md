@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Service of notices[^key-83d1803643247bf12f975b3ee8448081]
+## 44. Service of notices[^c-83d1803643247bf12f975b3ee8448081]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83d1803643247bf12f975b3ee8448081]: Commencement: Art. 44 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-83d1803643247bf12f975b3ee8448081]: Commencement: Art. 44 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
 [^f00024]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30). There are amendments to this Act not relevant to this Order.

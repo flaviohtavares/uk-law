@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49A. Reconfiguration of premises[^key-e9f062d5944aaf0e9cd373c2f2fcc4df]
+## 49A. Reconfiguration of premises[^c-e9f062d5944aaf0e9cd373c2f2fcc4df]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9f062d5944aaf0e9cd373c2f2fcc4df]: Textual amendment: [Regs. 49A](https://www.legislation.gov.uk/wsi/2017/1264/regulation/49A), [49B](https://www.legislation.gov.uk/wsi/2017/1264/regulation/49B) inserted (31.3.2024) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024 (S.I. 2024/407)](https://www.legislation.gov.uk/wsi/2024/407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/407/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/wsi/2024/407/regulation/9))
+[^c-e9f062d5944aaf0e9cd373c2f2fcc4df]: Textual amendment: [Regs. 49A](https://www.legislation.gov.uk/wsi/2017/1264/regulation/49A), [49B](https://www.legislation.gov.uk/wsi/2017/1264/regulation/49B) inserted (31.3.2024) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2024 (S.I. 2024/407)](https://www.legislation.gov.uk/wsi/2024/407), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/407/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2024/407/regulation/6) (with [reg. 9](https://www.legislation.gov.uk/wsi/2024/407/regulation/9))

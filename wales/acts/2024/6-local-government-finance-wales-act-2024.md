@@ -44,7 +44,7 @@ An Act of Senedd Cymru to make provision about non-domestic rating and council t
 
 ### Introduction
 
-#### 1. Overview of Part 1[^key-e3951060bf421951a42eac9ed7ba3161]
+#### 1. Overview of Part 1[^c-e3951060bf421951a42eac9ed7ba3161]
 
 (1) This Part amends the Local Government Finance Act [1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41) (“**the 1988 Act**”), in relation to Wales, as follows.
 
@@ -70,7 +70,7 @@ An Act of Senedd Cymru to make provision about non-domestic rating and council t
 
 ### Rating lists
 
-#### 2. Local rating lists[^key-7f7d472b1231dde9ec73c284a6bf9158]
+#### 2. Local rating lists[^c-7f7d472b1231dde9ec73c284a6bf9158]
 
 (1) The 1988 Act is amended as follows.
 
@@ -113,7 +113,7 @@ An Act of Senedd Cymru to make provision about non-domestic rating and council t
 >
 > (12) In maintaining the list that was required to be compiled on 1 April 1990, the valuation officer may take into account information obtained under section 82 or 86 of the 1967 Act.
 
-#### 3. Central rating lists[^key-35691cd9d9ccf530bab94761bbce2213]
+#### 3. Central rating lists[^c-35691cd9d9ccf530bab94761bbce2213]
 
 (1) The 1988 Act is amended as follows.
 
@@ -154,7 +154,7 @@ An Act of Senedd Cymru to make provision about non-domestic rating and council t
 > - (a) compiled under this section, or
 > - (b) required to be compiled on 1 April 1990, 1 April 1995, 1 April 2000, 1 April 2005, 1 April 2010, 1 April 2017 or 1 April 2023.
 
-#### 4. Power to amend revaluation year[^key-db5061ca832a171d393c93f41d8e859a]
+#### 4. Power to amend revaluation year[^c-db5061ca832a171d393c93f41d8e859a]
 
 Before section 55 of the 1988 Act, insert—
 
@@ -176,7 +176,7 @@ Before section 55 of the 1988 Act, insert—
 
 ### Reliefs
 
-#### 5. Powers to confer, vary and withdraw reliefs[^key-42190fd51ab2496a3188355e197d04ad]
+#### 5. Powers to confer, vary and withdraw reliefs[^c-42190fd51ab2496a3188355e197d04ad]
 
 (1) The 1988 Act is amended as follows.
 
@@ -348,7 +348,7 @@ Before section 55 of the 1988 Act, insert—
   >
   > (5B) Regulations under sub-paragraph (5A) may prescribe different amounts, or different provision for calculating an amount, in relation to different conditions or sets of conditions prescribed by the Welsh Ministers in regulations under paragraph 4A(2)(b)(i).
 
-#### 6. Unoccupied hereditaments: charitable rate relief[^key-1bf8c6c3a8a3f36c336a99a1b541dcfc]
+#### 6. Unoccupied hereditaments: charitable rate relief[^c-1bf8c6c3a8a3f36c336a99a1b541dcfc]
 
 (1) Schedule 4ZB to the 1988 Act is amended as follows.
 
@@ -394,7 +394,7 @@ Before section 55 of the 1988 Act, insert—
 
 ### Completion notices
 
-#### 7. Completion notices for new buildings[^key-5d25dd03abc7a4a9d1c7fa7ee0dd8b79]
+#### 7. Completion notices for new buildings[^c-5d25dd03abc7a4a9d1c7fa7ee0dd8b79]
 
 (1) Section 46A of the 1988 Act is amended as follows.
 
@@ -404,7 +404,7 @@ Before section 55 of the 1988 Act, insert—
 
 ### Discretionary relief
 
-#### 8. Discretionary relief: time limit[^key-274fb571b430d29a8e42a81e7af5a154]
+#### 8. Discretionary relief: time limit[^c-274fb571b430d29a8e42a81e7af5a154]
 
 (1) Section 47 of the 1988 Act is amended as follows.
 
@@ -419,7 +419,7 @@ Before section 55 of the 1988 Act, insert—
 
 ### Exemptions
 
-#### 9. Powers to confer, vary and withdraw exemption[^key-a7b508555fb58dc3c6b2800f21af338c]
+#### 9. Powers to confer, vary and withdraw exemption[^c-a7b508555fb58dc3c6b2800f21af338c]
 
 (1) The 1988 Act is amended as follows.
 
@@ -438,7 +438,7 @@ Before section 55 of the 1988 Act, insert—
 
 ### Non-domestic rating multipliers
 
-#### 10. Calculation of non-domestic rating multipliers[^key-430e4f31a8fbc4144656e084b7012480]
+#### 10. Calculation of non-domestic rating multipliers[^c-430e4f31a8fbc4144656e084b7012480]
 
 In Schedule 7 to the 1988 Act, after Part A1 insert—
 
@@ -584,7 +584,7 @@ In Schedule 7 to the 1988 Act, after Part A1 insert—
 >
 > (2) In this Part “revaluation year means a chargeable financial year at the beginning of which new lists must be compiled (see sections 41ZA(3) and 52ZA(3)).
 
-#### 11. Calculation of non-domestic rating multipliers: supplementary provision[^key-a168be21647adc41b6679f2d9d0012a5]
+#### 11. Calculation of non-domestic rating multipliers: supplementary provision[^c-a168be21647adc41b6679f2d9d0012a5]
 
 (1) The 1988 Act is amended as follows.
 
@@ -657,7 +657,7 @@ In Schedule 7 to the 1988 Act, after Part A1 insert—
 
 **Not yet in force.**
 
-#### 12. Information to be provided to valuation officer[^key-a82844c49214a41dee0c6fa7a83e009c]
+#### 12. Information to be provided to valuation officer[^c-a82844c49214a41dee0c6fa7a83e009c]
 
 (1) Schedule 9 to the 1988 Act is amended as follows.
 
@@ -690,7 +690,7 @@ In Schedule 7 to the 1988 Act, after Part A1 insert—
 
 ### Anti-avoidance
 
-#### 13. Artificial non-domestic rating avoidance arrangements[^key-008b485f47bf665f600ef26893088303]
+#### 13. Artificial non-domestic rating avoidance arrangements[^c-008b485f47bf665f600ef26893088303]
 
 After section 63E of the 1988 Act insert—
 
@@ -835,7 +835,7 @@ After section 63E of the 1988 Act insert—
 
 ### Orders and regulations
 
-#### 14. Orders and regulations under the Local Government Finance Act 1988[^key-6bf26e7f6861c9c279a09183bdaec111]
+#### 14. Orders and regulations under the Local Government Finance Act 1988[^c-6bf26e7f6861c9c279a09183bdaec111]
 
 After section 143 of the 1988 Act insert—
 
@@ -875,7 +875,7 @@ After section 143 of the 1988 Act insert—
 
 ### Minor and consequential amendments
 
-#### 15. Minor and consequential amendments relating to Part 1[^key-ca6930e8798a23d1dd30784d0c3ce1fd][^key-9e574cc4883c43ae2da33a669208710d][^key-e0da53ed7ebbea42e4eb15259c1fb222]
+#### 15. Minor and consequential amendments relating to Part 1[^c-ca6930e8798a23d1dd30784d0c3ce1fd][^c-9e574cc4883c43ae2da33a669208710d][^c-e0da53ed7ebbea42e4eb15259c1fb222]
 
 The Schedule makes minor and consequential amendments relating to this Part.
 
@@ -883,7 +883,7 @@ The Schedule makes minor and consequential amendments relating to this Part.
 
 ### Introduction
 
-#### 16. Overview of Part 2[^key-735f4a50680c1cd41a9aa21af6d58e2e]
+#### 16. Overview of Part 2[^c-735f4a50680c1cd41a9aa21af6d58e2e]
 
 (1) This Part amends the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14) (“**the 1992 Act**”), in relation to Wales, as follows.
 
@@ -912,13 +912,13 @@ The Schedule makes minor and consequential amendments relating to this Part.
 - (b) repeals the power in section 13A for the Welsh Ministers to require a person or body to make a council tax reduction scheme and related provisions, and
 - (c) amends section 66(2) of the 1992 Act to add matters prescribed or provided for in accordance with subsection (1) or (2) of section 13 to a list of matters that may not be questioned except by an application for judicial review.
 
-(8)[^key-83929f2e6f1db733282b211a6d069b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-83929f2e6f1db733282b211a6d069b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-a3ec20180ee86bb20f8a7108d3c01aa3] Section 20 changes section 22B of the 1992 Act so that the Welsh Ministers’ power to specify the year when new valuation lists must be compiled for billing authorities in Wales cannot be exercised to specify a year later than 2029. It also introduces a requirement for such lists to be compiled in 2030 and every 5 years after that (although the years can be changed, by order, by the Welsh Ministers).
+(8)[^c-a3ec20180ee86bb20f8a7108d3c01aa3] Section 20 changes section 22B of the 1992 Act so that the Welsh Ministers’ power to specify the year when new valuation lists must be compiled for billing authorities in Wales cannot be exercised to specify a year later than 2029. It also introduces a requirement for such lists to be compiled in 2030 and every 5 years after that (although the years can be changed, by order, by the Welsh Ministers).
 
 ### Changes to valuation bands
 
-#### 17. Calculation of tax for different valuation bands[^key-9998f717090dd3a4eeb8ca01b0ec9aea]
+#### 17. Calculation of tax for different valuation bands[^c-9998f717090dd3a4eeb8ca01b0ec9aea]
 
 In section 5 of the 1992 Act—
 
@@ -944,15 +944,15 @@ In section 5 of the 1992 Act—
 
 ### Changes to council tax payable
 
-#### 18. Discounts[^key-ace201aaded51ea24692690c4033a12e]
+#### 18. Discounts[^c-ace201aaded51ea24692690c4033a12e]
 
-(1)[^key-dd38712439af9212fe582216ef324953] The 1992 Act is amended as follows.
+(1)[^c-dd38712439af9212fe582216ef324953] The 1992 Act is amended as follows.
 
 (2) In section 6—
 
-- (a)[^key-dd38712439af9212fe582216ef324953] in subsection (4), for “for the purposes of discount by virtue of paragraph 2 (severely mentally impaired) or 4 (students etc.) of Schedule 1 to this Act” substitute “in accordance with subsection (4C)”;
-- (b)[^key-dd38712439af9212fe582216ef324953] omit subsections (4A) and (4B);
-- (c)[^key-ace201aaded51ea24692690c4033a12e][^key-b748af86b0e951daa471b04874b0e05b] before subsection (5), insert—
+- (a)[^c-dd38712439af9212fe582216ef324953] in subsection (4), for “for the purposes of discount by virtue of paragraph 2 (severely mentally impaired) or 4 (students etc.) of Schedule 1 to this Act” substitute “in accordance with subsection (4C)”;
+- (b)[^c-dd38712439af9212fe582216ef324953] omit subsections (4A) and (4B);
+- (c)[^c-ace201aaded51ea24692690c4033a12e][^c-b748af86b0e951daa471b04874b0e05b] before subsection (5), insert—
 
   > (4C) For the purposes of subsection (4), a person mentioned in subsection (3) falls to be disregarded if—
   >
@@ -963,7 +963,7 @@ In section 5 of the 1992 Act—
   >
   > (4D) A statutory instrument containing regulations made under subsection (4C)(b)(ii) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
 
-(3)[^key-dd38712439af9212fe582216ef324953] In section 9—
+(3)[^c-dd38712439af9212fe582216ef324953] In section 9—
 
 - (a) in subsection (2), for “for the purposes of discount by virtue of paragraph 2 (the severely mentally impaired) or 4 (students etc.) of Schedule 1 to this Act” substitute “in accordance with subsection (2A)”;
 - (b) for subsection (2A), substitute—
@@ -973,7 +973,7 @@ In section 5 of the 1992 Act—
   > - (a) in relation to a chargeable dwelling in England, the person falls to be disregarded for the purposes of discount by virtue of paragraph 2 (severely mentally impaired) or 4 (students etc.) of Schedule 1 to this Act;
   > - (b) in relation to a chargeable dwelling in Wales, the person falls to be disregarded for the purposes of section 6(4) (see subsection (4C) of that section).
 
-(4)[^key-dd38712439af9212fe582216ef324953] In section 11—
+(4)[^c-dd38712439af9212fe582216ef324953] In section 11—
 
 - (a) in the heading, after “Discounts”, insert “: England”;
 - (b) in subsection (1), after “any chargeable dwelling”, insert “in England”;
@@ -982,7 +982,7 @@ In section 5 of the 1992 Act—
   - (ii) after “any chargeable dwelling”, insert “in England”;
 - (d) in subsection (5), at the end, insert “in relation to any chargeable dwelling in England”.
 
-(5)[^key-ace201aaded51ea24692690c4033a12e][^key-b748af86b0e951daa471b04874b0e05b] After section 11D, insert—
+(5)[^c-ace201aaded51ea24692690c4033a12e][^c-b748af86b0e951daa471b04874b0e05b] After section 11D, insert—
 
 > **11E. Discounts: Wales**
 >
@@ -1037,9 +1037,9 @@ In section 5 of the 1992 Act—
 >
 > (7) Any statutory instrument containing regulations made under this section may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, Senedd Cymru.
 
-(6)[^key-dd38712439af9212fe582216ef324953] Omit section 12.
+(6)[^c-dd38712439af9212fe582216ef324953] Omit section 12.
 
-(7)[^key-dd38712439af9212fe582216ef324953] In section 12A—
+(7)[^c-dd38712439af9212fe582216ef324953] In section 12A—
 
 - (a) for subsection (1), substitute—
 
@@ -1050,7 +1050,7 @@ In section 5 of the 1992 Act—
   ;
 - (b) omit subsection (6).
 
-(8)[^key-dd38712439af9212fe582216ef324953] In section 12B—
+(8)[^c-dd38712439af9212fe582216ef324953] In section 12B—
 
 - (a) for subsection (1) substitute—
 
@@ -1061,16 +1061,16 @@ In section 5 of the 1992 Act—
   ;
 - (b) omit subsection (7).
 
-(9)[^key-dd38712439af9212fe582216ef324953] In section 66, for “12”, substitute “11F”.
+(9)[^c-dd38712439af9212fe582216ef324953] In section 66, for “12”, substitute “11F”.
 
-(10)[^key-dd38712439af9212fe582216ef324953] In section 67, for “12”, substitute “11F”.
+(10)[^c-dd38712439af9212fe582216ef324953] In section 67, for “12”, substitute “11F”.
 
-(11)[^key-dd38712439af9212fe582216ef324953] In Schedule 1—
+(11)[^c-dd38712439af9212fe582216ef324953] In Schedule 1—
 
 - (a) in the heading, after “Discount”, insert “: England”;
 - (b) omit paragraph 12.
 
-#### 19. Reduced amounts[^key-c6e8206ba7f0d0ec90ea2c24e2ca1b9e]
+#### 19. Reduced amounts[^c-c6e8206ba7f0d0ec90ea2c24e2ca1b9e]
 
 **Not yet in force.**
 
@@ -1124,7 +1124,7 @@ In section 5 of the 1992 Act—
 
 ### Valuation of dwellings
 
-#### 20. Procedure for the compilation of valuation lists[^key-d2b2331ad3d35e82f27ed63b097fde35]
+#### 20. Procedure for the compilation of valuation lists[^c-d2b2331ad3d35e82f27ed63b097fde35]
 
 (1) In section 22B of the 1992 Act—
 
@@ -1210,14 +1210,14 @@ In section 5 of the 1992 Act—
 
 ## PART 3 — GENERAL
 
-### 21. Interpretation[^key-2a987f681634ed129fa39dfcfc3e0658]
+### 21. Interpretation[^c-2a987f681634ed129fa39dfcfc3e0658]
 
 In this Act—
 
 - “**the 1988 Act**” (“***Deddf 1988***”) has the meaning given by section 1(1);
 - “**the 1992 Act**” (“***Deddf 1992***”) has the meaning given by section 16(1).
 
-### 22. Consequential and transitional provision[^key-f19c5fb258a5b40c29fda24933bed468]
+### 22. Consequential and transitional provision[^c-f19c5fb258a5b40c29fda24933bed468]
 
 (1) The Welsh Ministers may by regulations—
 
@@ -1238,7 +1238,7 @@ In this Act—
 - (b) a Measure of the National Assembly for Wales;
 - (c) an Act of the Parliament of the United Kingdom.
 
-### 23. Coming into force[^key-a5e58abc2c3fbd0f602b69e8d2a8879e]
+### 23. Coming into force[^c-a5e58abc2c3fbd0f602b69e8d2a8879e]
 
 (1) This section and sections 1, 16, 21, 22 and 24 and paragraph 13(3)(b) of the Schedule (and section 15 in so far as relating to paragraph 13(3)(b)) come into force on the day after the day on which this Act receives Royal Assent.
 
@@ -1272,7 +1272,7 @@ In this Act—
 
 (8) An order under subsection (5) or (7) may make transitional or saving provision.
 
-### 24. Short title[^key-c22fd487750cb14b1db429279ad6eda8]
+### 24. Short title[^c-c22fd487750cb14b1db429279ad6eda8]
 
 The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
@@ -1282,7 +1282,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 1 — AMENDMENTS RELATING TO RATING LISTS
 
-#### 1. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^key-8442ac1445492d5d88ed467ea790dd75]
+#### 1. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^c-8442ac1445492d5d88ed467ea790dd75]
 
 (1) The 1988 Act is amended as follows.
 
@@ -1421,7 +1421,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
   >
   > that person is liable on summary conviction to a fine not exceeding level 1 on the standard scale.
 
-#### 2. [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19)[^key-63ff4dd965d713700f2014c66708397f]
+#### 2. [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19)[^c-63ff4dd965d713700f2014c66708397f]
 
 (1) The Local Government (Wales) Act 1994 is amended as follows.
 
@@ -1433,19 +1433,19 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 - (b) in paragraph 85, for “that Act” substitute “the Local Government Finance Act 1988”;
 - (c) omit paragraph 86.
 
-#### 3. [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7)[^key-75f890ad41ec3b3a9b07c6a7077ebd64]
+#### 3. [Business Rate Supplements Act 2009 (c. 7)](https://www.legislation.gov.uk/ukpga/2009/7)[^c-75f890ad41ec3b3a9b07c6a7077ebd64]
 
 (1) The Business Rate Supplements Act 2009 is amended as follows.
 
 (2) In section 30(2), in the table, in the entry for “local non-domestic rating list”, in the second column, after “41(1)” insert “or 41ZA(1)”.
 
-#### 4. [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27)[^key-ecf2cd3ff5d544ef34667ec537f8026a]
+#### 4. [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27)[^c-ecf2cd3ff5d544ef34667ec537f8026a]
 
 (1) The Growth and Infrastructure Act 2013 is amended as follows.
 
 (2) Omit section 30.
 
-#### 5. [Non-Domestic Rating (Lists) Act 2021 (c. 8)](https://www.legislation.gov.uk/ukpga/2021/8)[^key-cce39130a7825274276ad9123396e236]
+#### 5. [Non-Domestic Rating (Lists) Act 2021 (c. 8)](https://www.legislation.gov.uk/ukpga/2021/8)[^c-cce39130a7825274276ad9123396e236]
 
 (1) The Non-Domestic Rating (Lists) Act 2021 is amended as follows.
 
@@ -1453,13 +1453,13 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 2 — AMENDMENTS RELATING TO DISCRETIONARY RELIEF
 
-#### 6. [Local Government and Rating Act 1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29)[^key-aa86a21ef71ac99484100d8da93557fe]
+#### 6. [Local Government and Rating Act 1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29)[^c-aa86a21ef71ac99484100d8da93557fe]
 
 (1) The Local Government and Rating Act 1997 is amended as follows.
 
 (2) In Schedule 3, omit paragraph 23.
 
-#### 7. [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53)[^key-3242d6bbd086eb4ad1525fad18d5b854]
+#### 7. [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53)[^c-3242d6bbd086eb4ad1525fad18d5b854]
 
 (1) The Non-Domestic Rating Act 2023 is amended as follows.
 
@@ -1467,7 +1467,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 3 — AMENDMENTS RELATING TO EXEMPTIONS
 
-#### 8. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^key-f11b1fb64419cc130aa4b47a309e8b3c]
+#### 8. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^c-f11b1fb64419cc130aa4b47a309e8b3c]
 
 (1) The 1988 Act is amended as follows.
 
@@ -1478,7 +1478,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 4 — AMENDMENTS RELATING TO NON-DOMESTIC RATING MULTIPLIERS
 
-#### 9. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^key-b623ec4546615e632b056dd19b82f50d]
+#### 9. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^c-b623ec4546615e632b056dd19b82f50d]
 
 (1) The 1988 Act is amended as follows.
 
@@ -1493,19 +1493,19 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 (5) In Schedule 7, omit Part 1.
 
-#### 10. [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26)[^key-fe3ec23ece3b8d74087af8bc59ec03e5]
+#### 10. [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26)[^c-fe3ec23ece3b8d74087af8bc59ec03e5]
 
 (1) The Local Government Act 2003 is amended as follows.
 
 (2) Omit section 62(2) to (10).
 
-#### 11. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^key-f7ce6cea9ca8f278a8793619298c937a]
+#### 11. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^c-f7ce6cea9ca8f278a8793619298c937a]
 
 (1) The Local Government and Elections (Wales) Act 2021 is amended as follows.
 
 (2) Omit section 154(2) and (3)(a).
 
-#### 12. [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53)[^key-14e870a39a881f772118701a43ce3791]
+#### 12. [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53)[^c-14e870a39a881f772118701a43ce3791]
 
 (1) The Non-Domestic Rating Act 2023 is amended as follows.
 
@@ -1515,7 +1515,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 5 — AMENDMENTS RELATING TO PROVISION OF INFORMATION
 
-#### 13. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^key-3bf7a1f02e6ada85f519f92d425920d6]
+#### 13. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^c-3bf7a1f02e6ada85f519f92d425920d6]
 
 (1) The 1988 Act is amended as follows.
 
@@ -1564,14 +1564,14 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
   > - (czb) paragraph 5BE of Schedule 9;
 
   ;
-- (b)[^key-3bf7a1f02e6ada85f519f92d425920d6] after paragraph 11(1) insert—
+- (b)[^c-3bf7a1f02e6ada85f519f92d425920d6] after paragraph 11(1) insert—
 
   > (1A) Regulations under paragraph 1 may also include provision that an appeal lies to the Upper Tribunal in respect of a decision or order given or made by a tribunal established under that paragraph on an appeal under paragraph 5C or 6AA of Schedule 9.
 
   ;
 - (c) in paragraph 11, in sub-paragraph (1A) (as inserted by paragraph (b)) before “5C or 6AA” insert “5BB, 5BE,”.
 
-#### 14. [Local Government and Housing Act 1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^key-f9df8116ad439311337fb957ce94be48]
+#### 14. [Local Government and Housing Act 1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42)[^c-f9df8116ad439311337fb957ce94be48]
 
 **Not yet in force.**
 
@@ -1579,7 +1579,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 (2) In Schedule 5, omit paragraph 46.
 
-#### 15. [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26)[^key-3c4f1f35e9e57010d97214c94c2a22bb]
+#### 15. [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26)[^c-3c4f1f35e9e57010d97214c94c2a22bb]
 
 **Not yet in force.**
 
@@ -1587,7 +1587,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 (2) Omit section 72(2).
 
-#### 16. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^key-6bc6971396445b15f3a5bd432824e096]
+#### 16. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^c-6bc6971396445b15f3a5bd432824e096]
 
 **Not yet in force.**
 
@@ -1595,7 +1595,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 (2) Omit section 151(2)(a), (c) and (e), (3)(b)(i) and (6).
 
-#### 17. [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53)[^key-cead47238afbccb4f50da9b6da68facc]
+#### 17. [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53)[^c-cead47238afbccb4f50da9b6da68facc]
 
 **Not yet in force.**
 
@@ -1605,7 +1605,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 6 — AMENDMENTS RELATING TO ANTI-AVOIDANCE
 
-#### 18. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^key-4fa7a6109d434e0fbf4c3fe679aa635b]
+#### 18. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^c-4fa7a6109d434e0fbf4c3fe679aa635b]
 
 (1) The 1988 Act is amended as follows.
 
@@ -1620,7 +1620,7 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ### PART 7 — AMENDMENTS RELATING TO ORDERS AND REGULATIONS UNDER THE LOCAL GOVERNMENT FINANCE ACT 1988
 
-#### 19. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^key-b759fe4b0ab84d094859ddc4c9d884d9]
+#### 19. [Local Government Finance Act 1988 (c. 41)](https://www.legislation.gov.uk/ukpga/1988/41)[^c-b759fe4b0ab84d094859ddc4c9d884d9]
 
 (1) The 1988 Act is amended as follows.
 
@@ -1663,13 +1663,13 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 - (a) in sub-paragraph (1), for “section 143(1) above” substitute “sections 143(1) and 143A(2)(b)”;
 - (b) in sub-paragraph (2), for “section 143(2) above” substitute “sections 143(2) and 143A(3)”.
 
-#### 20. [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3)[^key-f6f1b0f0a723d235a0871fdc31524b69]
+#### 20. [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3)[^c-f6f1b0f0a723d235a0871fdc31524b69]
 
 (1) The Environment (Wales) Act 2016 is amended as follows.
 
 (2) Omit section 84(4)(a).
 
-#### 21. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^key-b43cbdd1ec17e5502e3df5236bbe7be7]
+#### 21. [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1)[^c-b43cbdd1ec17e5502e3df5236bbe7be7]
 
 (1) The Local Government and Elections Wales Act 2021 is amended as follows.
 
@@ -1679,104 +1679,104 @@ The short title of this Act is the Local Government Finance (Wales) Act 2024.
 
 ## Annotations
 
-[^key-e3951060bf421951a42eac9ed7ba3161]: Commencement: S. 1 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-e3951060bf421951a42eac9ed7ba3161]: Commencement: S. 1 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-7f7d472b1231dde9ec73c284a6bf9158]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/6/section/2) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-7f7d472b1231dde9ec73c284a6bf9158]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/6/section/2) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-35691cd9d9ccf530bab94761bbce2213]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/6/section/3) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-35691cd9d9ccf530bab94761bbce2213]: Commencement: [S. 3](https://www.legislation.gov.uk/asc/2024/6/section/3) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-db5061ca832a171d393c93f41d8e859a]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/6/section/4) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-db5061ca832a171d393c93f41d8e859a]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2024/6/section/4) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-42190fd51ab2496a3188355e197d04ad]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2024/6/section/5) in force at 16.11.2024, see [s. 23(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/b)
+[^c-42190fd51ab2496a3188355e197d04ad]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2024/6/section/5) in force at 16.11.2024, see [s. 23(2)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/b)
 
-[^key-1bf8c6c3a8a3f36c336a99a1b541dcfc]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2024/6/section/6) in force at 1.4.2025, see [s. 23(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/b)
+[^c-1bf8c6c3a8a3f36c336a99a1b541dcfc]: Commencement: [S. 6](https://www.legislation.gov.uk/asc/2024/6/section/6) in force at 1.4.2025, see [s. 23(3)(b)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/b)
 
-[^key-5d25dd03abc7a4a9d1c7fa7ee0dd8b79]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2024/6/section/7) in force at 16.11.2024, see [s. 23(2)(c)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/c)
+[^c-5d25dd03abc7a4a9d1c7fa7ee0dd8b79]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2024/6/section/7) in force at 16.11.2024, see [s. 23(2)(c)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/c)
 
-[^key-274fb571b430d29a8e42a81e7af5a154]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2024/6/section/8) in force at 16.11.2024, see [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d)
+[^c-274fb571b430d29a8e42a81e7af5a154]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2024/6/section/8) in force at 16.11.2024, see [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d)
 
-[^key-a7b508555fb58dc3c6b2800f21af338c]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2024/6/section/9) in force at 16.11.2024, see [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e)
+[^c-a7b508555fb58dc3c6b2800f21af338c]: Commencement: [S. 9](https://www.legislation.gov.uk/asc/2024/6/section/9) in force at 16.11.2024, see [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e)
 
-[^key-430e4f31a8fbc4144656e084b7012480]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2024/6/section/10) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-430e4f31a8fbc4144656e084b7012480]: Commencement: [S. 10](https://www.legislation.gov.uk/asc/2024/6/section/10) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-a168be21647adc41b6679f2d9d0012a5]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2024/6/section/11) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-a168be21647adc41b6679f2d9d0012a5]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2024/6/section/11) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-a82844c49214a41dee0c6fa7a83e009c]: Commencement: S. 12 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
+[^c-a82844c49214a41dee0c6fa7a83e009c]: Commencement: S. 12 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
 
-[^key-008b485f47bf665f600ef26893088303]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2024/6/section/13) in force at 16.11.2024, see [s. 23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
+[^c-008b485f47bf665f600ef26893088303]: Commencement: [S. 13](https://www.legislation.gov.uk/asc/2024/6/section/13) in force at 16.11.2024, see [s. 23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
 
-[^key-6bf26e7f6861c9c279a09183bdaec111]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2024/6/section/14) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
+[^c-6bf26e7f6861c9c279a09183bdaec111]: Commencement: [S. 14](https://www.legislation.gov.uk/asc/2024/6/section/14) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
 
-[^key-ca6930e8798a23d1dd30784d0c3ce1fd]: Commencement: S. 15 in force at 17.9.2024 for specified purposes, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-ca6930e8798a23d1dd30784d0c3ce1fd]: Commencement: S. 15 in force at 17.9.2024 for specified purposes, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-9e574cc4883c43ae2da33a669208710d]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2024/6/section/15) in force at 16.11.2024 for specified purposes, see [s. 23(2)(a)(d)-(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-9e574cc4883c43ae2da33a669208710d]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2024/6/section/15) in force at 16.11.2024 for specified purposes, see [s. 23(2)(a)(d)-(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-e0da53ed7ebbea42e4eb15259c1fb222]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2024/6/section/15) in force at 1.4.2025 for specified purposes, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-e0da53ed7ebbea42e4eb15259c1fb222]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2024/6/section/15) in force at 1.4.2025 for specified purposes, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-735f4a50680c1cd41a9aa21af6d58e2e]: Commencement: S. 16 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-735f4a50680c1cd41a9aa21af6d58e2e]: Commencement: S. 16 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-83929f2e6f1db733282b211a6d069b5d]: Textual amendment: [S. 16(8)](https://www.legislation.gov.uk/asc/2024/6/section/16/8) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 62](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/62)
+[^c-83929f2e6f1db733282b211a6d069b5d]: Textual amendment: [S. 16(8)](https://www.legislation.gov.uk/asc/2024/6/section/16/8) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 62](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/62)
 
-[^key-a3ec20180ee86bb20f8a7108d3c01aa3]: Textual amendment: S. 16(9) renumbered as s. 16(8) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 62](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/62)
+[^c-a3ec20180ee86bb20f8a7108d3c01aa3]: Textual amendment: S. 16(9) renumbered as s. 16(8) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 62](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/62)
 
-[^key-9998f717090dd3a4eeb8ca01b0ec9aea]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2024/6/section/17) in force at 16.11.2024, see [s. 23(2)(h)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/h)
+[^c-9998f717090dd3a4eeb8ca01b0ec9aea]: Commencement: [S. 17](https://www.legislation.gov.uk/asc/2024/6/section/17) in force at 16.11.2024, see [s. 23(2)(h)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/h)
 
-[^key-ace201aaded51ea24692690c4033a12e]: Commencement: S. 18(2)(c)(5) in force at 17.9.2024 for specified purposes, see [s. 23(5)(6)](https://www.legislation.gov.uk/asc/2024/6/section/23/5)
+[^c-ace201aaded51ea24692690c4033a12e]: Commencement: S. 18(2)(c)(5) in force at 17.9.2024 for specified purposes, see [s. 23(5)(6)](https://www.legislation.gov.uk/asc/2024/6/section/23/5)
 
-[^key-dd38712439af9212fe582216ef324953]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asc/2024/6/section/18/1)[(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/18/2/a)[(b)](https://www.legislation.gov.uk/asc/2024/6/section/18/2/b)[(3)](https://www.legislation.gov.uk/asc/2024/6/section/18/3)[(4)](https://www.legislation.gov.uk/asc/2024/6/section/18/4)[(6)-(11)](https://www.legislation.gov.uk/asc/2024/6/section/18/6) in force at 1.4.2026 by [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-dd38712439af9212fe582216ef324953]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asc/2024/6/section/18/1)[(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/18/2/a)[(b)](https://www.legislation.gov.uk/asc/2024/6/section/18/2/b)[(3)](https://www.legislation.gov.uk/asc/2024/6/section/18/3)[(4)](https://www.legislation.gov.uk/asc/2024/6/section/18/4)[(6)-(11)](https://www.legislation.gov.uk/asc/2024/6/section/18/6) in force at 1.4.2026 by [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
 
-[^key-b748af86b0e951daa471b04874b0e05b]: Commencement: [S. 18(2)(c)](https://www.legislation.gov.uk/asc/2024/6/section/18/2/c)[(5)](https://www.legislation.gov.uk/asc/2024/6/section/18/5) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
+[^c-b748af86b0e951daa471b04874b0e05b]: Commencement: [S. 18(2)(c)](https://www.legislation.gov.uk/asc/2024/6/section/18/2/c)[(5)](https://www.legislation.gov.uk/asc/2024/6/section/18/5) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/14](https://www.legislation.gov.uk/wsi/2026/14), [art. 2](https://www.legislation.gov.uk/wsi/2026/14/article/2)
 
-[^key-c6e8206ba7f0d0ec90ea2c24e2ca1b9e]: Commencement: S. 19 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
+[^c-c6e8206ba7f0d0ec90ea2c24e2ca1b9e]: Commencement: S. 19 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
 
-[^key-d2b2331ad3d35e82f27ed63b097fde35]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2024/6/section/20) in force at 16.11.2024, see [s. 23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
+[^c-d2b2331ad3d35e82f27ed63b097fde35]: Commencement: [S. 20](https://www.legislation.gov.uk/asc/2024/6/section/20) in force at 16.11.2024, see [s. 23(2)(i)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/i)
 
-[^key-2a987f681634ed129fa39dfcfc3e0658]: Commencement: S. 21 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-2a987f681634ed129fa39dfcfc3e0658]: Commencement: S. 21 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-f19c5fb258a5b40c29fda24933bed468]: Commencement: S. 22 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-f19c5fb258a5b40c29fda24933bed468]: Commencement: S. 22 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-a5e58abc2c3fbd0f602b69e8d2a8879e]: Commencement: S. 23 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-a5e58abc2c3fbd0f602b69e8d2a8879e]: Commencement: S. 23 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-c22fd487750cb14b1db429279ad6eda8]: Commencement: S. 24 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-c22fd487750cb14b1db429279ad6eda8]: Commencement: S. 24 in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-8442ac1445492d5d88ed467ea790dd75]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-8442ac1445492d5d88ed467ea790dd75]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-63ff4dd965d713700f2014c66708397f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-63ff4dd965d713700f2014c66708397f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/2) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-75f890ad41ec3b3a9b07c6a7077ebd64]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/3) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-75f890ad41ec3b3a9b07c6a7077ebd64]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/3) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-ecf2cd3ff5d544ef34667ec537f8026a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/4) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-ecf2cd3ff5d544ef34667ec537f8026a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/4) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-cce39130a7825274276ad9123396e236]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/5) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-cce39130a7825274276ad9123396e236]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/5) in force at 16.11.2024, see [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
 
-[^key-aa86a21ef71ac99484100d8da93557fe]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/6) in force at 16.11.2024, see [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d)
+[^c-aa86a21ef71ac99484100d8da93557fe]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/6) in force at 16.11.2024, see [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d)
 
-[^key-3242d6bbd086eb4ad1525fad18d5b854]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/7) in force at 16.11.2024, see [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d)
+[^c-3242d6bbd086eb4ad1525fad18d5b854]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/7) in force at 16.11.2024, see [s. 23(2)(d)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/d)
 
-[^key-f11b1fb64419cc130aa4b47a309e8b3c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/8) in force at 16.11.2024, see [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e)
+[^c-f11b1fb64419cc130aa4b47a309e8b3c]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/8) in force at 16.11.2024, see [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e)
 
-[^key-b623ec4546615e632b056dd19b82f50d]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/9) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-b623ec4546615e632b056dd19b82f50d]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/9) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-fe3ec23ece3b8d74087af8bc59ec03e5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/10) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-fe3ec23ece3b8d74087af8bc59ec03e5]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/10) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-f7ce6cea9ca8f278a8793619298c937a]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/11) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-f7ce6cea9ca8f278a8793619298c937a]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/11) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-14e870a39a881f772118701a43ce3791]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/12) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
+[^c-14e870a39a881f772118701a43ce3791]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/12) in force at 1.4.2025, see [s. 23(3)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/3/a)
 
-[^key-3bf7a1f02e6ada85f519f92d425920d6]: Commencement: Sch. para. 13(3)(b) in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
+[^c-3bf7a1f02e6ada85f519f92d425920d6]: Commencement: Sch. para. 13(3)(b) in force at 17.9.2024, see [s. 23(1)](https://www.legislation.gov.uk/asc/2024/6/section/23/1)
 
-[^key-f9df8116ad439311337fb957ce94be48]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
+[^c-f9df8116ad439311337fb957ce94be48]: Commencement: Sch. para. 14 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
 
-[^key-3c4f1f35e9e57010d97214c94c2a22bb]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
+[^c-3c4f1f35e9e57010d97214c94c2a22bb]: Commencement: Sch. para. 15 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
 
-[^key-6bc6971396445b15f3a5bd432824e096]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
+[^c-6bc6971396445b15f3a5bd432824e096]: Commencement: Sch. para. 16 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
 
-[^key-cead47238afbccb4f50da9b6da68facc]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
+[^c-cead47238afbccb4f50da9b6da68facc]: Commencement: Sch. para. 17 not in force at Royal Assent, see [s. 23(7)](https://www.legislation.gov.uk/asc/2024/6/section/23/7)
 
-[^key-4fa7a6109d434e0fbf4c3fe679aa635b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/18) in force at 16.11.2024, see [s. 23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
+[^c-4fa7a6109d434e0fbf4c3fe679aa635b]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/18) in force at 16.11.2024, see [s. 23(2)(f)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/f)
 
-[^key-b759fe4b0ab84d094859ddc4c9d884d9]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/19) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
+[^c-b759fe4b0ab84d094859ddc4c9d884d9]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/19) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
 
-[^key-f6f1b0f0a723d235a0871fdc31524b69]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/20) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
+[^c-f6f1b0f0a723d235a0871fdc31524b69]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/20) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
 
-[^key-b43cbdd1ec17e5502e3df5236bbe7be7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/21) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)
+[^c-b43cbdd1ec17e5502e3df5236bbe7be7]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/21) in force at 16.11.2024, see [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g)

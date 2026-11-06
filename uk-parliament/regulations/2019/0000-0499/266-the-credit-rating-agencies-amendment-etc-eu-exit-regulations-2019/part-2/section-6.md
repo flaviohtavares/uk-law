@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Guidance: procedure, etc.[^key-a7b5d03dda4555cacb78fc2371b584b2]
+## 6. Guidance: procedure, etc.[^c-a7b5d03dda4555cacb78fc2371b584b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ as it applies to general guidance (within the meaning of that section).
 
 ## Annotations
 
-[^key-a7b5d03dda4555cacb78fc2371b584b2]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a7b5d03dda4555cacb78fc2371b584b2]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23565571]: Marginal citation: Inserted by section 24(1) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).

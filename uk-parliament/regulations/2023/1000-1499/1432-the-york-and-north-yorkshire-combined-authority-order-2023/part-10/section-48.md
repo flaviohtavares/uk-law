@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Notification of proposed allocation of budget for fire and rescue functions[^key-4dd600be83d6ef0cf63a6bb6f4534cb9]
+## 48. Notification of proposed allocation of budget for fire and rescue functions[^c-4dd600be83d6ef0cf63a6bb6f4534cb9]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd600be83d6ef0cf63a6bb6f4534cb9]: Commencement: Art. 48 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-4dd600be83d6ef0cf63a6bb6f4534cb9]: Commencement: Art. 48 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)

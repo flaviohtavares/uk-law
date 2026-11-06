@@ -41,8 +41,8 @@ is not a fit and proper person to carry on that business.
   - (i) these Regulations;
   - (ii) the Money Laundering Regulations 2001 [^c23048441],
   - (iii) the Money Laundering Regulations 2003 [^c23048451], or
-  - (iv) the Money Laundering Regulations 2007 [^c23048461]; [^key-580784510ad714429c0cfc6f03f604e9]...
-- (b) the risk that the applicant's business may be used for money laundering or terrorist financing; and[^key-57218adb9cf5288c42af0a83120f28bb]
+  - (iv) the Money Laundering Regulations 2007 [^c23048461]; [^c-580784510ad714429c0cfc6f03f604e9]...
+- (b) the risk that the applicant's business may be used for money laundering or terrorist financing; and[^c-57218adb9cf5288c42af0a83120f28bb]
 - (c) whether the applicant, and any officer, manager or beneficial owner of the applicant, has adequate skills and experience and has acted and may be expected to act with probity.
 
 (5) Where the applicant is a money service business, the registering authority may, in determining the question in paragraph (1), take account of the opinion of the applicant as to whether any person referred to in paragraph (1)(d) is a fit and proper person to carry on the business.
@@ -57,6 +57,6 @@ is not a fit and proper person to carry on that business.
 
 [^c23048461]: Marginal citation: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-580784510ad714429c0cfc6f03f604e9]: Textual amendment: Word in reg. 58(4)(a) omitted (10.1.2020) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(13)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/13/a)
+[^c-580784510ad714429c0cfc6f03f604e9]: Textual amendment: Word in reg. 58(4)(a) omitted (10.1.2020) by virtue of [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(13)(a)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/13/a)
 
-[^key-57218adb9cf5288c42af0a83120f28bb]: Textual amendment: Reg. 58(4)(c) and word inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(13)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/13/b)
+[^c-57218adb9cf5288c42af0a83120f28bb]: Textual amendment: Reg. 58(4)(c) and word inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(13)(b)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/13/b)

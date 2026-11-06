@@ -48,7 +48,7 @@ The Secretary of State has been designated[^f00001] for the purposes of section 
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by that section:
 
-**1.**[^key-8881a56abf343b771b596ff7336bad85] (1) These Regulations may be cited as the Burma (Sale, Supply, Export, Technical Assistance, Financing and Financial Assistance) (Penalties and Licences) Regulations 2006 and shall come into force on 11th October 2006.
+**1.**[^c-8881a56abf343b771b596ff7336bad85] (1) These Regulations may be cited as the Burma (Sale, Supply, Export, Technical Assistance, Financing and Financial Assistance) (Penalties and Licences) Regulations 2006 and shall come into force on 11th October 2006.
 
 (2) In these Regulations—
 
@@ -56,9 +56,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “the 1979 Act” means the Customs and Excise Management Act 1979[^f00004]; and
 - “customs and excise Acts” and “assigned matter” have the same meanings as in section 1 of the 1979 Act.
 
-**2.**[^key-52b3fd4d3d070917611000f52842b8c2] The Burma (Sale, Supply, Export, Technical Assistance, Financing and Financial Assistance and Shipment of Equipment) (Penalties and Licences) Regulations 2004[^f00005] are revoked.
+**2.**[^c-52b3fd4d3d070917611000f52842b8c2] The Burma (Sale, Supply, Export, Technical Assistance, Financing and Financial Assistance and Shipment of Equipment) (Penalties and Licences) Regulations 2004[^f00005] are revoked.
 
-**3.**[^key-0619c823a0c3dc83619b409b84429192] A person who, except under the authority of a licence granted under these Regulations, infringes any of the following prohibitions in the EC Regulation—
+**3.**[^c-0619c823a0c3dc83619b409b84429192] A person who, except under the authority of a licence granted under these Regulations, infringes any of the following prohibitions in the EC Regulation—
 
 - (a) Article 2(a) prohibiting the provision of technical assistance related to military activities and to the provision, manufacture, maintenance and use of arms and related material of all types, directly or indirectly to any person, entity or body in, or for use in, Burma; or
 - (b) Article 2(b) prohibiting the provision of financing or financial assistance related to military activities, for any sale, supply, transfer or export of arms and related material, directly or indirectly to any person, entity or body in, or for use in, Burma; or
@@ -70,7 +70,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 shall be guilty of an offence and may be arrested.
 
-**4.**[^key-5e34fd8152ca17c7528e9604caac4981] (1) Authorisation for the activities set out in regulation 3 shall in the United Kingdom be by way of a licence in writing granted by the Secretary of State.
+**4.**[^c-5e34fd8152ca17c7528e9604caac4981] (1) Authorisation for the activities set out in regulation 3 shall in the United Kingdom be by way of a licence in writing granted by the Secretary of State.
 
 (2) If, for the purpose of obtaining a licence, a person—
 
@@ -85,12 +85,12 @@ that person shall be guilty of an offence; and any licence granted in connection
 - (b) the alleged failure to comply would not have been a failure had the licence not been so modified; and
 - (c) the licence was modified after the doing of the act authorised by the licence.
 
-**5.**[^key-c4c31471d2b3f8f65e04602b5b9e1dad] (1) A person guilty of an offence under regulation 3, or regulation 4(2) or (3) of these Regulations shall be liable—
+**5.**[^c-c4c31471d2b3f8f65e04602b5b9e1dad] (1) A person guilty of an offence under regulation 3, or regulation 4(2) or (3) of these Regulations shall be liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine or to imprisonment for a term not exceeding two years, or to both.
 
-**6.**[^key-a0424ded2bf77639cca75b452aed496e] (1) Where the Commissioners for Her Majesty’s Revenue and Customs investigate or propose to investigate any matter with a view to determining—
+**6.**[^c-a0424ded2bf77639cca75b452aed496e] (1) Where the Commissioners for Her Majesty’s Revenue and Customs investigate or propose to investigate any matter with a view to determining—
 
 - (a) whether there are grounds for believing that an offence under these Regulations has been committed; or
 - (b) whether a person should be prosecuted for such an offence,
@@ -131,22 +131,22 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-8881a56abf343b771b596ff7336bad85]: Commencement: Reg. 1 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
+[^c-8881a56abf343b771b596ff7336bad85]: Commencement: Reg. 1 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
 
 [^f00003]: Footnote: O.J. No. L 148, 2.6.2006.
 
 [^f00004]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-52b3fd4d3d070917611000f52842b8c2]: Commencement: Reg. 2 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
+[^c-52b3fd4d3d070917611000f52842b8c2]: Commencement: Reg. 2 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
 
 [^f00005]: Footnote: [S.I.2004/1315](https://www.legislation.gov.uk/uksi/2004/1315)
 
-[^key-0619c823a0c3dc83619b409b84429192]: Commencement: Reg. 3 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
+[^c-0619c823a0c3dc83619b409b84429192]: Commencement: Reg. 3 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
 
-[^key-5e34fd8152ca17c7528e9604caac4981]: Commencement: Reg. 4 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
+[^c-5e34fd8152ca17c7528e9604caac4981]: Commencement: Reg. 4 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
 
-[^key-c4c31471d2b3f8f65e04602b5b9e1dad]: Commencement: Reg. 5 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
+[^c-c4c31471d2b3f8f65e04602b5b9e1dad]: Commencement: Reg. 5 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
 
-[^key-a0424ded2bf77639cca75b452aed496e]: Commencement: Reg. 6 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
+[^c-a0424ded2bf77639cca75b452aed496e]: Commencement: Reg. 6 in force at 11.10.2006, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2682/regulation/1/1)
 
 [^f00006]: Footnote: Section 77A was inserted by section 10 of the Finance Act [1987 (c.16)](https://www.legislation.gov.uk/ukpga/1987/16) and amended by [S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095).

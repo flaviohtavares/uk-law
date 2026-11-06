@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Permanent stopping up of streets[^key-be3d80740cbde4519b3d68eb66f409dc]
+## 10. Permanent stopping up of streets[^c-be3d80740cbde4519b3d68eb66f409dc]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be3d80740cbde4519b3d68eb66f409dc]: Commencement: Art. 10 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-be3d80740cbde4519b3d68eb66f409dc]: Commencement: Art. 10 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

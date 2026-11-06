@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Meaning of “relevant care setting”[^key-e9bd2969340f720c2bc6a804daf7f95c]
+## 20. Meaning of “relevant care setting”[^c-e9bd2969340f720c2bc6a804daf7f95c]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9bd2969340f720c2bc6a804daf7f95c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/15/section/20) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-e9bd2969340f720c2bc6a804daf7f95c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2021/15/section/20) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Experimental authorisation[^key-b7efc8651d9075941819ce51206fc6dd]
+## 17. Experimental authorisation[^c-b7efc8651d9075941819ce51206fc6dd]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7efc8651d9075941819ce51206fc6dd]: Commencement: Reg. 17 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-b7efc8651d9075941819ce51206fc6dd]: Commencement: Reg. 17 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

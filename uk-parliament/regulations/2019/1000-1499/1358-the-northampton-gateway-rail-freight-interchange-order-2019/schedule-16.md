@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 16 — CERTIFICATION OF PLANS AND DOCUMENTS[^key-5ce6adc636bb06a3a1c876dad0b49bb7]
+## SCHEDULE 16 — CERTIFICATION OF PLANS AND DOCUMENTS[^c-5ce6adc636bb06a3a1c876dad0b49bb7]
 
 *Extent: E+W+S*
 
@@ -70,7 +70,7 @@ Article 46
 | Sheet 4 | 2.1D | 62241114-001 2.1D 09 |
 | Sheet 5 | 2.1E | 62241114-001 2.1E 06 |
 | Sheet 6 | 2.1F | 62241114-001 2.1F 07 |
-| The parameters plan | 2.10 | 4054-R007-S4[^key-75c0360b98bc94da466880a6df4e8002] |
+| The parameters plan | 2.10 | 4054-R007-S4[^c-75c0360b98bc94da466880a6df4e8002] |
 | The railway plans |  |  |
 | General Arrangement | 2.9A | NGW-BWB-RGN-XX-DR-C-110-P6 |
 | Long Sections Sheet 1 of 2 | 2.9B | NGW-BWB-RGN-01-DR-C-111-P4 |
@@ -80,9 +80,9 @@ Article 46
 | The speed limit plans |  |  |
 | Key Plan | 2.7 | NGW-BWB-LSI-XX-DR-C-00190-P5 |
 | Sheet 1 | 2.7A | NGW-BWB-LSI-01-DR-C-00191-P6 |
-| Sheet 2 | 2.7B | NGW-BWB-LSI-02-DR-C-00192-P6[^key-c3c249c2f2cd4c4fcb2e2c69612494ff] |
+| Sheet 2 | 2.7B | NGW-BWB-LSI-02-DR-C-00192-P6[^c-c3c249c2f2cd4c4fcb2e2c69612494ff] |
 | Sheet 3 | 2.7C | NGW-BWB-LSI-03-DR-C-00193-P7 |
-| Sheet 4 | 2.7D | NGW-BWB-LSI-04-DR-C-00194-P5[^key-1fff9df94f7e9c71738ca6d93a7ed6c6] |
+| Sheet 4 | 2.7D | NGW-BWB-LSI-04-DR-C-00194-P5[^c-1fff9df94f7e9c71738ca6d93a7ed6c6] |
 | The traffic regulation plans |  |  |
 | Key Plan | 2.6 | NGW-BWB-LSI-XX-DR-C-00150-P5 |
 | Sheet 1 | 2.6A | NGW-BWB-LSI-01-DR-C-00151-P3 |
@@ -97,16 +97,16 @@ Article 46
 | Sheet 5 | 2.2E | NGW-BWB-LSI-05-DR-C-00165-P6 |
 | Sheet 6 | 2.2F | NGW-BWB-LSI-06-DR-C-00166-P6 |
 | Sheet 7 | 2.2G | NGW-BWB-LSI-XX-DR-C-00167-P5 |
-| The rail infrastructure plan[^key-bf8deacf3a83154ccb0c7cb1d2a4a875] | \- | NGW-BWB-GEN-XX-SK-C-SK315-S2-P01 |
+| The rail infrastructure plan[^c-bf8deacf3a83154ccb0c7cb1d2a4a875] | \- | NGW-BWB-GEN-XX-SK-C-SK315-S2-P01 |
 
 ## Annotations
 
-[^key-5ce6adc636bb06a3a1c876dad0b49bb7]: Commencement: Sch. 16 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-5ce6adc636bb06a3a1c876dad0b49bb7]: Commencement: Sch. 16 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-75c0360b98bc94da466880a6df4e8002]: Textual amendment: Word in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) substituted (3.10.2025) by [The Northampton Gateway Rail Freight Interchange (Amendment No. 2) Order 2025 (S.I. 2025/1057)](https://www.legislation.gov.uk/uksi/2025/1057), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1057/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1057/article/2/2)
+[^c-75c0360b98bc94da466880a6df4e8002]: Textual amendment: Word in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) substituted (3.10.2025) by [The Northampton Gateway Rail Freight Interchange (Amendment No. 2) Order 2025 (S.I. 2025/1057)](https://www.legislation.gov.uk/uksi/2025/1057), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1057/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1057/article/2/2)
 
-[^key-c3c249c2f2cd4c4fcb2e2c69612494ff]: Textual amendment: Word in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) substituted (7.10.2020) by [The Northampton Gateway Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1670)](https://www.legislation.gov.uk/uksi/2020/1670), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1670/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1670/article/2/4/a)
+[^c-c3c249c2f2cd4c4fcb2e2c69612494ff]: Textual amendment: Word in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) substituted (7.10.2020) by [The Northampton Gateway Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1670)](https://www.legislation.gov.uk/uksi/2020/1670), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1670/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1670/article/2/4/a)
 
-[^key-1fff9df94f7e9c71738ca6d93a7ed6c6]: Textual amendment: Word in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) substituted (7.10.2020) by [The Northampton Gateway Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1670)](https://www.legislation.gov.uk/uksi/2020/1670), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1670/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1670/article/2/4/b)
+[^c-1fff9df94f7e9c71738ca6d93a7ed6c6]: Textual amendment: Word in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) substituted (7.10.2020) by [The Northampton Gateway Rail Freight Interchange (Correction) Order 2020 (S.I. 2020/1670)](https://www.legislation.gov.uk/uksi/2020/1670), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1670/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1670/article/2/4/b)
 
-[^key-bf8deacf3a83154ccb0c7cb1d2a4a875]: Textual amendment: Words in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) table inserted (7.4.2023) by [The Northampton Gateway Rail Freight Interchange (Amendment) Order 2023 (S.I. 2023/418)](https://www.legislation.gov.uk/uksi/2023/418), [arts. 1](https://www.legislation.gov.uk/uksi/2023/418/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/418/article/2/4)
+[^c-bf8deacf3a83154ccb0c7cb1d2a4a875]: Textual amendment: Words in [Sch. 16](https://www.legislation.gov.uk/uksi/2019/1358/schedule/16) table inserted (7.4.2023) by [The Northampton Gateway Rail Freight Interchange (Amendment) Order 2023 (S.I. 2023/418)](https://www.legislation.gov.uk/uksi/2023/418), [arts. 1](https://www.legislation.gov.uk/uksi/2023/418/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/418/article/2/4)

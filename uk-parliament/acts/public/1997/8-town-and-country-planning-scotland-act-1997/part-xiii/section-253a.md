@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 253A. Grants for advice and assistance[^key-ae2bd1a28f7c196398cd20a45b02c075]
+## 253A. Grants for advice and assistance[^c-ae2bd1a28f7c196398cd20a45b02c075]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae2bd1a28f7c196398cd20a45b02c075]: Textual amendment: S. 253A inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 32](https://www.legislation.gov.uk/asp/2006/17/section/32), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-ae2bd1a28f7c196398cd20a45b02c075]: Textual amendment: S. 253A inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 32](https://www.legislation.gov.uk/asp/2006/17/section/32), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

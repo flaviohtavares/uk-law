@@ -22,7 +22,7 @@ summary: ''
 
 Section 33
 
-### 1. Introductory[^key-22c6267fc4b9f6f5f94b852c46ee6c88]
+### 1. Introductory[^c-22c6267fc4b9f6f5f94b852c46ee6c88]
 
 (1) This Schedule applies where regulations are made under section 33(1) providing for a mayor to exercise functions of a police and crime commissioner.
 
@@ -32,7 +32,7 @@ Section 33
 
 (4) In this Schedule “**the 2011 Act**” means the Police Reform and Social Responsibility Act 2011.
 
-### 2. PCC functions exercisable by the mayor[^key-b83ce20ea6c4e5c74eae999784807972]
+### 2. PCC functions exercisable by the mayor[^c-b83ce20ea6c4e5c74eae999784807972]
 
 (1) The Secretary of State may by regulations provide that the mayor may exercise in the CCA area—
 
@@ -46,7 +46,7 @@ Section 33
 - (b) the functions under sections 5, 7 and 8 of that Act (issuing etc a police and crime plan);
 - (c) the functions under section 38 of that Act (appointing, suspending or removing a chief constable).
 
-### 3. Delegation of function[^key-7a713c77a4e0652be89720c3a38c6e40]
+### 3. Delegation of function[^c-7a713c77a4e0652be89720c3a38c6e40]
 
 (1) The Secretary of State must by regulations make provision authorising the mayor—
 
@@ -81,11 +81,11 @@ Section 33
   - (i) of a kind listed in subsection (7)(b), (c) or (d) of that section, or
   - (ii) of any other kind specified or described in the regulations.
 
-### 4. Police and crime panels[^key-8676b9d1f0b6f859ac6edfffc10e93b2]
+### 4. Police and crime panels[^c-8676b9d1f0b6f859ac6edfffc10e93b2]
 
 The Secretary of State must by regulations provide for a panel to be established in relation to the CCA area with functions, in relation to the exercise by the mayor of PCC functions, corresponding to those of a police and crime panel under sections 28 and 29 of the 2011 Act.
 
-**5.**[^key-176c2017e3cdbc4da22319e7fba73841] (1) The Secretary of State may by regulations provide for a police and crime panel to have oversight functions in relation to any general functions of the mayor that are the subject of arrangements under section 30(3)(c)(i) (power to arrange for general functions to be exercisable by deputy mayor for policing and crime).
+**5.**[^c-176c2017e3cdbc4da22319e7fba73841] (1) The Secretary of State may by regulations provide for a police and crime panel to have oversight functions in relation to any general functions of the mayor that are the subject of arrangements under section 30(3)(c)(i) (power to arrange for general functions to be exercisable by deputy mayor for policing and crime).
 
 (2) If it appears to the Secretary of State expedient for the police and crime panel also to have oversight functions in relation to other general functions of the mayor that are related to general functions in respect of which regulations are made under sub-paragraph (1), the Secretary of State may by regulations provide for the panel to have oversight functions in relation to those other general functions.
 
@@ -96,34 +96,34 @@ The Secretary of State must by regulations provide for a panel to be established
 - “**oversight functions**”, in relation to general functions of the mayor, are functions that are of a corresponding or similar kind to those that a police and crime panel has in relation to PCC functions of the mayor;
 - “**police and crime panel**” means a panel established by virtue of regulations under paragraph 4.
 
-**6.**[^key-d2ae9245759f7326705025e3f1ac5eba] The Secretary of State may by regulations make provision about the payment of allowances to members of a police and crime panel established by virtue of regulations under paragraph 4 who are members of a constituent council.
+**6.**[^c-d2ae9245759f7326705025e3f1ac5eba] The Secretary of State may by regulations make provision about the payment of allowances to members of a police and crime panel established by virtue of regulations under paragraph 4 who are members of a constituent council.
 
-### 7. Financial matters[^key-64eb6207c371b6382429fdd966c758c1]
+### 7. Financial matters[^c-64eb6207c371b6382429fdd966c758c1]
 
 The Secretary of State must by regulations make provision—
 
 - (a) requiring the mayor to maintain a fund in relation to receipts arising, and liabilities incurred, in the exercise of PCC functions;
 - (b) about the preparation of an annual budget in relation to the exercise of such functions.
 
-### 8. Suspension[^key-fe32946bb537012724572b5225e34b97]
+### 8. Suspension[^c-fe32946bb537012724572b5225e34b97]
 
 The Secretary of State must by regulations provide for the panel mentioned in paragraph 4 to have power to suspend the mayor, so far as acting in the exercise of PCC functions, in circumstances corresponding to those mentioned in section 30(1) of the 2011 Act in relation to a police and crime commissioner.
 
-### 9. Conduct[^key-35a73c7c7147025e1d13bd877fc4cebe]
+### 9. Conduct[^c-35a73c7c7147025e1d13bd877fc4cebe]
 
 The Secretary of State must by regulations make provision about the matters mentioned in paragraphs (a) to (c) of section 31(1) of the 2011 Act (taking references in those paragraphs to “relevant office holders” as references to the mayor and the deputy mayor for policing and crime).
 
-### 10. Disqualification[^key-b9ee77a0955f92724bb38b185eb2b6ea]
+### 10. Disqualification[^c-b9ee77a0955f92724bb38b185eb2b6ea]
 
-(1) The Secretary of State must by regulations provide for sections 64 to 66 and section 68[^key-84d279ea3886be61c1a014ce6f91911e] of the 2011 Act to apply in relation to a person being, or being elected as, the mayor as they apply in relation to a person being, or being elected as, a police and crime commissioner.
+(1) The Secretary of State must by regulations provide for sections 64 to 66 and section 68[^c-84d279ea3886be61c1a014ce6f91911e] of the 2011 Act to apply in relation to a person being, or being elected as, the mayor as they apply in relation to a person being, or being elected as, a police and crime commissioner.
 
-(2) Provision under sub-paragraph (1) is in addition to paragraphs 7, 8 , 9 and 9A[^key-8f2d3f627807bd9e53ee99acfbbf97d5] of Schedule 2.
+(2) Provision under sub-paragraph (1) is in addition to paragraphs 7, 8 , 9 and 9A[^c-8f2d3f627807bd9e53ee99acfbbf97d5] of Schedule 2.
 
-### 11. Policing protocol[^key-d4c1cb2d8c282e7c5a7dbcd417d1fca1]
+### 11. Policing protocol[^c-d4c1cb2d8c282e7c5a7dbcd417d1fca1]
 
 The Secretary of State must by regulations require the mayor to have regard, in the exercise of PCC functions, to the policing protocol issued under section 79 of the 2011 Act.
 
-### 12. Application of certain enactments[^key-0f0f9db870ce5295e936bdeff0da6b7a]
+### 12. Application of certain enactments[^c-0f0f9db870ce5295e936bdeff0da6b7a]
 
 (1) The Secretary of State must by regulations provide for the following provisions of the Police Act 1996 to apply to the mayor, in the exercise of PCC functions, as though the mayor were a police and crime commissioner—
 
@@ -135,7 +135,7 @@ The Secretary of State must by regulations require the mayor to have regard, in 
 
 (2) The Secretary of State must by regulations provide for provision similar to section 41 of the Police Act 1996 (directions as to minimum budget) to have effect for the purpose of enabling directions to be given to the mayor acting on behalf of the mayoral CCA in relation to the calculation of the component of the council tax requirement relating to the mayor’s PCC functions (see section 41(4)(a) above).
 
-### 13. Supplementary[^key-92c8571ebcb98221be8b53502e57a8a9]
+### 13. Supplementary[^c-92c8571ebcb98221be8b53502e57a8a9]
 
 (1) Subject to the requirements of this Schedule, the Secretary of State may by regulations make any other provision the Secretary of State thinks appropriate for the purposes of giving full effect to regulations under section 33(1).
 
@@ -170,32 +170,32 @@ The Secretary of State must by regulations require the mayor to have regard, in 
 
 ## Annotations
 
-[^key-22c6267fc4b9f6f5f94b852c46ee6c88]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/1) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-22c6267fc4b9f6f5f94b852c46ee6c88]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/1) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-b83ce20ea6c4e5c74eae999784807972]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/2) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-b83ce20ea6c4e5c74eae999784807972]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/2) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-7a713c77a4e0652be89720c3a38c6e40]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/3) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-7a713c77a4e0652be89720c3a38c6e40]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/3) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-8676b9d1f0b6f859ac6edfffc10e93b2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/4) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-8676b9d1f0b6f859ac6edfffc10e93b2]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/4) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-176c2017e3cdbc4da22319e7fba73841]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/5) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-176c2017e3cdbc4da22319e7fba73841]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/5) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-d2ae9245759f7326705025e3f1ac5eba]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/6) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-d2ae9245759f7326705025e3f1ac5eba]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/6) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-64eb6207c371b6382429fdd966c758c1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/7) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-64eb6207c371b6382429fdd966c758c1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/7) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-fe32946bb537012724572b5225e34b97]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/8) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-fe32946bb537012724572b5225e34b97]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/8) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-35a73c7c7147025e1d13bd877fc4cebe]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/9) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-35a73c7c7147025e1d13bd877fc4cebe]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/9) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-b9ee77a0955f92724bb38b185eb2b6ea]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/10) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-b9ee77a0955f92724bb38b185eb2b6ea]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/10) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-84d279ea3886be61c1a014ce6f91911e]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/10/1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(4)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/4/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-84d279ea3886be61c1a014ce6f91911e]: Textual amendment: Words in [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/10/1) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(4)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/4/a), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-8f2d3f627807bd9e53ee99acfbbf97d5]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/10/2) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(4)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/4/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-8f2d3f627807bd9e53ee99acfbbf97d5]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/10/2) substituted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 17(4)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/17/4/b), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-d4c1cb2d8c282e7c5a7dbcd417d1fca1]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/11) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-d4c1cb2d8c282e7c5a7dbcd417d1fca1]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/11) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-0f0f9db870ce5295e936bdeff0da6b7a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/12) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-0f0f9db870ce5295e936bdeff0da6b7a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/12) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-92c8571ebcb98221be8b53502e57a8a9]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/13) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-92c8571ebcb98221be8b53502e57a8a9]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2023/55/schedule/3/paragraph/13) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

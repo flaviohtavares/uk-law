@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1063. Additional deduction in calculating profits of trade[^key-26377e16c909b41779d263089cdffec4]
+## 1063. Additional deduction in calculating profits of trade[^c-26377e16c909b41779d263089cdffec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26377e16c909b41779d263089cdffec4]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/14)
+[^c-26377e16c909b41779d263089cdffec4]: Textual amendment: Pt. 13 Ch. 3 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/14)

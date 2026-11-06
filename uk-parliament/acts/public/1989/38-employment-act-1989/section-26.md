@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Transfer of staff employed in Skills Training Agency.[^key-ef47f8d3db78da5b6e4b147e0379576c]
+## 26. Transfer of staff employed in Skills Training Agency.[^c-ef47f8d3db78da5b6e4b147e0379576c]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef47f8d3db78da5b6e4b147e0379576c]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1989/38/section/26) repealed (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/2)
+[^c-ef47f8d3db78da5b6e4b147e0379576c]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1989/38/section/26) repealed (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/2)

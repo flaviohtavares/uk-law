@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 295. Electronic communications apparatus affected by order[^key-2a4386e0b043b0b216b9190ff0c18c42]
+## 295. Electronic communications apparatus affected by order[^c-2a4386e0b043b0b216b9190ff0c18c42]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a4386e0b043b0b216b9190ff0c18c42]: Commencement: S. 295 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2a4386e0b043b0b216b9190ff0c18c42]: Commencement: S. 295 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

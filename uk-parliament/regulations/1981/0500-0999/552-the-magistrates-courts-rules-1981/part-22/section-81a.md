@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81A. Duty of justices’ legal adviser[^key-bd352ed901b26527b04f7e76a188a778]
+## 81A. Duty of justices’ legal adviser[^c-bd352ed901b26527b04f7e76a188a778]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd352ed901b26527b04f7e76a188a778]: Textual amendment: [Rule 81A](https://www.legislation.gov.uk/uksi/1981/552/rule/81A) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/11)
+[^c-bd352ed901b26527b04f7e76a188a778]: Textual amendment: [Rule 81A](https://www.legislation.gov.uk/uksi/1981/552/rule/81A) inserted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Investigation of share dealing[^key-632e8ab1c1eba0d033354e7495313d72]
+## 61. Investigation of share dealing[^c-632e8ab1c1eba0d033354e7495313d72]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In Article 439 of the 1986 Order (investigation of share dealing), for paragraph
 
 ## Annotations
 
-[^key-632e8ab1c1eba0d033354e7495313d72]: Commencement: Art. 61 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-632e8ab1c1eba0d033354e7495313d72]: Commencement: Art. 61 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00064]: Footnote: Section 439(3) was amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 13 paragraph 12(a) and Companies (no. 2) (NI) Order (NI 10), article 113, Schedule 6.

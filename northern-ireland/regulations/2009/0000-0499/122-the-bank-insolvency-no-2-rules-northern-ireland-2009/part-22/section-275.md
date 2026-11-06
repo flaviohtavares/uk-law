@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 275. Right to have list of creditors[^key-86204a5c9023541bbf14aa047c0df34d]
+## 275. Right to have list of creditors[^c-86204a5c9023541bbf14aa047c0df34d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86204a5c9023541bbf14aa047c0df34d]: Commencement: Rule 275 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-86204a5c9023541bbf14aa047c0df34d]: Commencement: Rule 275 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

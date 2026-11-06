@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — FOR PROTECTION OF RAILWAY INTERESTS[^key-7f9eba4ba615a7597c7f039cc031f7bd]
+## SCHEDULE 13 — FOR PROTECTION OF RAILWAY INTERESTS[^c-7f9eba4ba615a7597c7f039cc031f7bd]
 
 *Extent: E+W*
 
@@ -155,9 +155,9 @@ and DLRL shall indemnify Network Rail from and against all claims and demands ar
 
 (6) In this paragraph—
 
-- [^key-8db1623ee2eb514e6dd836d9b9e9dfdf]...
+- [^c-8db1623ee2eb514e6dd836d9b9e9dfdf]...
 - “**the relevant costs**” means the costs, direct losses and expenses (including loss of revenue) reasonably incurred by each train operator as a consequence of any restriction of the use of Network Rail’s railway network as a result of the construction, maintenance or failure of a specified work or any such act or omission as mentioned in sub-paragraph (1); and
-- “**train operator**” means any person who is authorised to act as the operator of a train by a licence under section 8 of the Railways Act 1993 or any person who holds a[^M_F_8eb1a55a-0a6e-4a50-bf8e-957eb3536d35] railway undertaking licence[^key-598deec8bcafe0d0434e5087c94b0978] granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^key-50da95e795f14e964f3d4e93ac6ec650]....
+- “**train operator**” means any person who is authorised to act as the operator of a train by a licence under section 8 of the Railways Act 1993 or any person who holds a[^M_F_8eb1a55a-0a6e-4a50-bf8e-957eb3536d35] railway undertaking licence[^c-598deec8bcafe0d0434e5087c94b0978] granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c-50da95e795f14e964f3d4e93ac6ec650]....
 
 **16.** Network Rail shall, on receipt of a request from DLRL, from time to time provide DLRL free of charge with written estimates of the costs, charges, expenses and other liabilities for which DLRL is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 15) and with such information as may reasonably enable DLRL to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Schedule (including any claim relating to those relevant costs).
 
@@ -171,16 +171,16 @@ and DLRL shall indemnify Network Rail from and against all claims and demands ar
 
 ## Annotations
 
-[^key-7f9eba4ba615a7597c7f039cc031f7bd]: Modification: [Sch. 13](https://www.legislation.gov.uk/uksi/2004/757/schedule/13) modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f9eba4ba615a7597c7f039cc031f7bd]: Modification: [Sch. 13](https://www.legislation.gov.uk/uksi/2004/757/schedule/13) modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c5313641]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
 [^c5313651]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-8db1623ee2eb514e6dd836d9b9e9dfdf]: Textual amendment: Words in [Sch. 13 para. 15(6)](https://www.legislation.gov.uk/uksi/2004/757/schedule/13/paragraph/15/6) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8db1623ee2eb514e6dd836d9b9e9dfdf]: Textual amendment: Words in [Sch. 13 para. 15(6)](https://www.legislation.gov.uk/uksi/2004/757/schedule/13/paragraph/15/6) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [28(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_8eb1a55a-0a6e-4a50-bf8e-957eb3536d35]: Textual amendment: Words in Sch. 13 para. 15(6) inserted (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/1/1), [Sch. 1 para. 11(2)(b)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/11/2/b)
 
-[^key-598deec8bcafe0d0434e5087c94b0978]: Textual amendment: Words in [Sch. 13 para. 15(6)](https://www.legislation.gov.uk/uksi/2004/757/schedule/13/paragraph/15/6) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-598deec8bcafe0d0434e5087c94b0978]: Textual amendment: Words in [Sch. 13 para. 15(6)](https://www.legislation.gov.uk/uksi/2004/757/schedule/13/paragraph/15/6) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50da95e795f14e964f3d4e93ac6ec650]: Textual amendment: Words in [Sch. 13 para. 15(6)](https://www.legislation.gov.uk/uksi/2004/757/schedule/13/paragraph/15/6) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [28(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/28/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50da95e795f14e964f3d4e93ac6ec650]: Textual amendment: Words in [Sch. 13 para. 15(6)](https://www.legislation.gov.uk/uksi/2004/757/schedule/13/paragraph/15/6) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [28(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/28/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

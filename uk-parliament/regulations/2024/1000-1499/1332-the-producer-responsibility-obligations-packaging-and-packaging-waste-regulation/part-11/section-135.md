@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Information sharing[^key-4727953462b070fd06ead8b8ed851be9]
+## 135. Information sharing[^c-4727953462b070fd06ead8b8ed851be9]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d86fb0bcdaa9b2675f6b9f76ddd6fe84] Any information provided under these Regulations to—
+(1)[^c-d86fb0bcdaa9b2675f6b9f76ddd6fe84] Any information provided under these Regulations to—
 
 - (a) an appropriate agency;
 - (b) the scheme administrator; or
@@ -32,6 +32,6 @@ may be shared with any other of those bodies.
 
 ## Annotations
 
-[^key-4727953462b070fd06ead8b8ed851be9]: Commencement: Reg. 135 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-4727953462b070fd06ead8b8ed851be9]: Commencement: Reg. 135 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-d86fb0bcdaa9b2675f6b9f76ddd6fe84]: Textual amendment: [Reg. 135(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/135/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/1369/regulation/11) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-d86fb0bcdaa9b2675f6b9f76ddd6fe84]: Textual amendment: [Reg. 135(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/135/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/1369/regulation/11) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

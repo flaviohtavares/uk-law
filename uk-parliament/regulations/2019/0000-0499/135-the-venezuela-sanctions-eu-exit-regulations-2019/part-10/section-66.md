@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Notices[^key-c4e963875a0eceba878d3a9f9055b779]
+## 66. Notices[^c-c4e963875a0eceba878d3a9f9055b779]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 - (a) by sending it by post to the proper officer of the body at its principal office, or
 - (b) by addressing it to the proper officer of the body and leaving it at that office.
 
-(3A)[^key-2c9b8636624819f3880cbe17f4f97860] The notice may be given to the person by electronic means.
+(3A)[^c-2c9b8636624819f3880cbe17f4f97860] The notice may be given to the person by electronic means.
 
-(4) The notice may be given to the person by other means [^key-d497daf994caeb522eeaf9d6db72a721]... with the person's consent.
+(4) The notice may be given to the person by other means [^c-d497daf994caeb522eeaf9d6db72a721]... with the person's consent.
 
 (5) In this regulation, the reference in paragraph (3) to a “principal office”—
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e963875a0eceba878d3a9f9055b779]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4e963875a0eceba878d3a9f9055b779]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c9b8636624819f3880cbe17f4f97860]: Textual amendment: Reg. 66(3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/2/5/a)
+[^c-2c9b8636624819f3880cbe17f4f97860]: Textual amendment: Reg. 66(3A) inserted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/2/5/a)
 
-[^key-d497daf994caeb522eeaf9d6db72a721]: Textual amendment: Words in reg. 66(4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/2/5/b)
+[^c-d497daf994caeb522eeaf9d6db72a721]: Textual amendment: Words in reg. 66(4) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/2/5/b)

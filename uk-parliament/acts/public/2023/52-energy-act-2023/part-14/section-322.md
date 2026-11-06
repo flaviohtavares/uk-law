@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. Annual report[^key-c1787537ed7b95a36db69b8e336fdef4]
+## 322. Annual report[^c-c1787537ed7b95a36db69b8e336fdef4]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1787537ed7b95a36db69b8e336fdef4]: Commencement: S. 322 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-c1787537ed7b95a36db69b8e336fdef4]: Commencement: S. 322 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

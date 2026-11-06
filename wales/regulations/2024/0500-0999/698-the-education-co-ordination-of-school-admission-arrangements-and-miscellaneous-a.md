@@ -47,7 +47,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 89B(1), (4) and (5)[^f00001], 89C(1), (2), (3), (4) and (5)[^f00002], 92[^f00003], 94(5) and (5A)[^f00004], 95(3) and (3A)[^f00005] and 138(7)[^f00006] of the School Standards and Framework Act 1998[^f00007], and now vested in them[^f00008], make the following Regulations.
 
-## 1. Title, coming into force and application[^key-a2b8a7fae279d9090eafe11dfee1856b]
+## 1. Title, coming into force and application[^c-a2b8a7fae279d9090eafe11dfee1856b]
 
 (1) The title of these Regulations is the Education (Co-ordination of School Admission Arrangements and Miscellaneous Amendments) (Wales) Regulations 2024.
 
@@ -55,7 +55,7 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-9f5e24abeed7718a3ef80d0518a260b4]
+## 2. Interpretation[^c-9f5e24abeed7718a3ef80d0518a260b4]
 
 (1) In these Regulations—
 
@@ -81,8 +81,8 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - “**qualifying scheme**” (“***cynllun cymhwysol***”) means a scheme formulated by a local authority for co-ordinating arrangements for the admission of pupils to maintained schools in its area under section 89B(1)(a) of the 1998 Act and these Regulations;
 - “**relevant age group**” (“***grŵp oedran perthnasol***”) has the meaning given in section 142(1) of the 1998 Act[^f00018];
 - “**secondary school**” (“***ysgol uwchradd***”) has the meaning given in section 5(2) of the 1996 Act;
-- “**Welsh Minister scheme**” (“***cynllun Gweinidogion Cymru***”) means a scheme for the co-ordination of admission arrangements imposed by the Welsh Ministers under section[^key-05cc0d3270a451e20de2184a3375ee9d] 89B(2) of the 1998 Act;
-- [^key-214250b60dbad837483eff08824dd2bb]...
+- “**Welsh Minister scheme**” (“***cynllun Gweinidogion Cymru***”) means a scheme for the co-ordination of admission arrangements imposed by the Welsh Ministers under section[^c-05cc0d3270a451e20de2184a3375ee9d] 89B(2) of the 1998 Act;
+- [^c-214250b60dbad837483eff08824dd2bb]...
 
 (2) For the purposes of these Regulations an application is made in the course of a normal admission round if—
 
@@ -101,13 +101,13 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 - (a) it is for the admission of a pupil to a relevant age group and it is submitted on or after the first day of the admission year, or
 - (b) it is for the admission of a pupil to an age group other than a relevant age group.
 
-## 3. Formulation of qualifying schemes[^key-1df609aefce649faaf0561a3af6d74cf]
+## 3. Formulation of qualifying schemes[^c-1df609aefce649faaf0561a3af6d74cf]
 
 (1) Each local authority must formulate, in relation to the determination year 2025 to 2026, and in relation to each subsequent determination year, a qualifying scheme in relation to each maintained school in its area.
 
 (2) A qualifying scheme must comply with the requirements in the Schedule.
 
-## 4. Action to be taken by a local authority to secure adoption of a qualifying scheme[^key-e7db8d221bee856e4a43e06cc80475a2]
+## 4. Action to be taken by a local authority to secure adoption of a qualifying scheme[^c-e7db8d221bee856e4a43e06cc80475a2]
 
 (1) Each local authority must adopt a qualifying scheme relating to the determination year 2025 to 2026 by 1 January 2025 and subsequently by 1 January preceding each determination year to which the qualifying scheme relates.
 
@@ -135,11 +135,11 @@ The Welsh Ministers, in exercise of the powers conferred on the Secretary of Sta
 
 (7) In this regulation “**admission forum**” means a body established by a local authority in Wales for maintained schools in its area under section 85A of the 1998 Act[^f00020].
 
-## 5. Information to be provided to the Welsh Ministers[^key-89b3a949addfa395a32103ae74ad3715]
+## 5. Information to be provided to the Welsh Ministers[^c-89b3a949addfa395a32103ae74ad3715]
 
 For the admission year 2027 to 2028 and every subsequent admission year, each local authority must inform the Welsh Ministers on or before 28 February in the relevant determination year whether or not it has adopted a qualifying scheme.
 
-## 6. Offer date[^key-518e78fb402bcd049930422c3c95e76f]
+## 6. Offer date[^c-518e78fb402bcd049930422c3c95e76f]
 
 (1) The single date in each year on which a determination, made under the provisions of a qualifying scheme or a Welsh Minister scheme, to offer or refuse a pupil admission to a maintained school must be communicated to a parent—
 
@@ -150,7 +150,7 @@ For the admission year 2027 to 2028 and every subsequent admission year, each lo
 
 (3) This regulation only applies to determinations made in the course of a normal admission round.
 
-## 7. Part 2 of the School Standards and Organisation (Wales) Act 2013[^key-2802d11369a63f51a7605f2bcc8669bd]
+## 7. Part 2 of the School Standards and Organisation (Wales) Act 2013[^c-2802d11369a63f51a7605f2bcc8669bd]
 
 (1) Chapter 1 of Part 2 of the School Standards and Organisation (Wales) Act 2013 (“**the 2013 Act**”) is to apply as if any obligations imposed on a governing body under a qualifying scheme or a Welsh Minister scheme were imposed on it by the Education Acts.
 
@@ -158,17 +158,17 @@ For the admission year 2027 to 2028 and every subsequent admission year, each lo
 
 (3) In this regulation—
 
-- (a) “**the Education Acts**” (“***y Deddfau Addysg***”) has the meaning given in section 578[^key-876d20fb1044bc6fbac555edcd2efb97] of the 1996 Act[^f00021];
+- (a) “**the Education Acts**” (“***y Deddfau Addysg***”) has the meaning given in section 578[^c-876d20fb1044bc6fbac555edcd2efb97] of the 1996 Act[^f00021];
 - (b) “**education functions**” (“***swyddogaethau addysg***”) has the meaning given in section 579(1) of the 1996 Act[^f00022].
 
-## 8. Amendments to the Education (Admission Appeals Arrangements) (Wales) Regulations 2005[^key-0f73ecbea82578595fa587dda3d62dff]
+## 8. Amendments to the Education (Admission Appeals Arrangements) (Wales) Regulations 2005[^c-0f73ecbea82578595fa587dda3d62dff]
 
 The Education (Admission Appeals Arrangements) (Wales) Regulations 2005[^f00023] are amended as follows—
 
 - (a) in regulation 3, in the first place it occurs omit “Schedule 1”, and
 - (b) in regulation 5, in the first place it occurs omit “Schedule 2”.
 
-## 9. Amendments to the School Information (Wales) Regulations 2011[^key-73bd6cca15b55c8057df33049ce29e36]
+## 9. Amendments to the School Information (Wales) Regulations 2011[^c-73bd6cca15b55c8057df33049ce29e36]
 
 In the School Information (Wales) Regulations 2011[^f00024], after paragraph 5 in Part 1 of Schedule 2 insert—
 
@@ -197,7 +197,7 @@ Cabinet Secretary for Education, one of the Welsh Ministers
 
 Regulation 3(2)
 
-### 1. General[^key-95f68a0e12696c3711be31599d43a774]
+### 1. General[^c-95f68a0e12696c3711be31599d43a774]
 
 A qualifying scheme must—
 
@@ -216,7 +216,7 @@ A qualifying scheme must—
 - (f) where the governing body that is the admission authority for such a maintained school has made arrangements for another body to determine the order of priority under paragraph 5(b), identify that body, and
 - (g) specify that any notification of acceptance for an offer of admission for a child to a maintained school must be received by the local authority within 2 weeks after the offer date.
 
-### 2. Applications made in the course of a normal admission round[^key-2627fe2e5d3ea46a7d8c1f8a62d2c5c2]
+### 2. Applications made in the course of a normal admission round[^c-2627fe2e5d3ea46a7d8c1f8a62d2c5c2]
 
 In respect of applications made in the course of a normal admission round, a qualifying scheme must—
 
@@ -227,7 +227,7 @@ In respect of applications made in the course of a normal admission round, a qua
 - (c) require each local authority, whether or not it is the admission authority, to send any determination offering or refusing admission to a maintained school to a parent on the offer date, and
 - (d) specify the dates by which each of the steps required to be taken by this Schedule are to be performed, including where the date is specified in this Schedule.
 
-### 3. Applications for in-area schools[^key-77118f7ee55212148439736ec8c31885]
+### 3. Applications for in-area schools[^c-77118f7ee55212148439736ec8c31885]
 
 In respect of applications made for a maintained school in the area of the local authority, the qualifying scheme must require the local authority—
 
@@ -245,7 +245,7 @@ In respect of applications made for a maintained school in the area of the local
 - (f) except where sub-paragraph (g) applies, to send any determination under sub-paragraph (c) to the parent, whether or not it is the admission authority, and
 - (g) with regard to any application relating to a child living in a different local authority’s area, to notify that local authority of its determination.
 
-### 4. Duties on a local authority relating to applications for out of area schools[^key-8877c400e0a5ea6ae32c7c7efd19bb3e]
+### 4. Duties on a local authority relating to applications for out of area schools[^c-8877c400e0a5ea6ae32c7c7efd19bb3e]
 
 (1) This paragraph applies where a parent in the area of a local authority (“**the home authority**”) applies in the common application form for admission to a maintained school in the area of a different local authority (“**the maintaining authority**”).
 
@@ -256,7 +256,7 @@ In respect of applications made for a maintained school in the area of the local
 - (a) specify that, in making a determination under paragraph 3(c) whether the child is to be offered or refused admission to any maintained school in the home authority’s area for which an application has also been made, that home authority must have regard to any information provided by the maintaining authority as to whether the child is to be offered or refused admission to a maintained school within that maintaining authority’s area, and
 - (b) require the home authority to send any determination offering or refusing admission to the maintained school in the maintaining authority’s area by the admission authority for that school to the parent.
 
-### 5. Duties of a governing body under a qualifying scheme[^key-db660583747058bd1741cc76895e12f0]
+### 5. Duties of a governing body under a qualifying scheme[^c-db660583747058bd1741cc76895e12f0]
 
 A qualifying scheme must require each governing body which is the admission authority for a maintained school—
 
@@ -314,9 +314,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: The functions of the Secretary of State under these sections of the Education Act 1996 and the School Standards and Framework Act 1998 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers by the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), Schedule 11, paragraph 30.
 
-[^key-a2b8a7fae279d9090eafe11dfee1856b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/698/regulation/1) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-a2b8a7fae279d9090eafe11dfee1856b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/698/regulation/1) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-9f5e24abeed7718a3ef80d0518a260b4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/698/regulation/2) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-9f5e24abeed7718a3ef80d0518a260b4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/698/regulation/2) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
 [^f00009]: Footnote: Section 88(2) was amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), section 64(1) and (2)(c).
 
@@ -338,44 +338,44 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00018]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31); there are amendments but none are relevant to these Regulations.
 
-[^key-05cc0d3270a451e20de2184a3375ee9d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/698/regulation/2/1) substituted (4.11.2024) by [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/2/2/a)
+[^c-05cc0d3270a451e20de2184a3375ee9d]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/698/regulation/2/1) substituted (4.11.2024) by [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/2/2/a)
 
-[^key-214250b60dbad837483eff08824dd2bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/698/regulation/2/1) omitted (4.11.2024) by virtue of [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/2/2/b)
+[^c-214250b60dbad837483eff08824dd2bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2024/698/regulation/2/1) omitted (4.11.2024) by virtue of [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/2/2/b)
 
-[^key-1df609aefce649faaf0561a3af6d74cf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/698/regulation/3) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-1df609aefce649faaf0561a3af6d74cf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/698/regulation/3) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-e7db8d221bee856e4a43e06cc80475a2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/698/regulation/4) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-e7db8d221bee856e4a43e06cc80475a2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/698/regulation/4) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
 [^f00020]: Footnote: Section 85A was inserted by section 46 of the Education Act 2002 and amended by section 41(1), (2)(a) and (b), (3), (4)(a) and (b), (5) and (6) of the Education and Inspections Act 2006, Schedule 18, section 34(1), (2)(a)(i) to (iii), and (2)(b) to (e) of the Education Act 2011 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-89b3a949addfa395a32103ae74ad3715]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/698/regulation/5) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-89b3a949addfa395a32103ae74ad3715]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/698/regulation/5) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-518e78fb402bcd049930422c3c95e76f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/698/regulation/6) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-518e78fb402bcd049930422c3c95e76f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/698/regulation/6) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-2802d11369a63f51a7605f2bcc8669bd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/698/regulation/7) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-2802d11369a63f51a7605f2bcc8669bd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/698/regulation/7) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-876d20fb1044bc6fbac555edcd2efb97]: Textual amendment: Word in [reg. 7(3)(a)](https://www.legislation.gov.uk/wsi/2024/698/regulation/7/3/a) substituted (4.11.2024) by [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/2/3)
+[^c-876d20fb1044bc6fbac555edcd2efb97]: Textual amendment: Word in [reg. 7(3)(a)](https://www.legislation.gov.uk/wsi/2024/698/regulation/7/3/a) substituted (4.11.2024) by [The Education (Amendments Relating to the Co-ordination of School Admission Arrangements) (Wales) Regulations 2024 (S.I. 2024/1002)](https://www.legislation.gov.uk/wsi/2024/1002), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2024/1002/regulation/2/3)
 
 [^f00021]: Footnote: The list of “Education Acts” was amended so that the entry for “**the Education Act 1962**” (c. 24) was omitted by the Teaching and Higher Education Act [1998 (c. 30)](https://www.legislation.gov.uk/ukpga/1998/30), Schedule 4, the entry for “**the Education Act 1967**” (c. 3) was omitted by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 22, the entry for “**the Education (Student Loans) Act 1990**” (c. 6) was omitted by the Teaching and Higher Education Act 1998, Schedule 4, the entry for “**the School Teachers’ Pay and Conditions Act 1991**” (c. 49) was omitted by the Education Act 2002, Schedule 21, paragraph 56, the entry for “**the Education (Student Loans) Act 1996**” (c. 9) was omitted by the Teaching and Higher Education Act 1998, Schedule 4, the entry for “**the Nursery Education and Grant-Maintained Schools Act 1996**” (c. 50) was omitted by the Education Act 2002, Schedule 22, the entry for “**the School Inspections Act 1996**” (c. 57) was omitted by the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), Schedule 9, paragraph 9, the entry for the “**the Education Act 1997**” (c. 44) was inserted by that Act, Schedule 7, paragraph 42, the entry for “**the Education (Schools) Act 1997**” (c. 59) was inserted by section 6(2) of that Act, the entry for “**the Education (Student Loans) Act 1998**” (c. 1) was inserted by section 6(1) of that Act, the entry for “the Education (Student Loans) Act 1998” was omitted was by the Teaching and Higher Education Act 1998, Schedule 4, the entry for “the Teaching and Higher Education Act 1998” was inserted by that Act, Schedule 3, paragraph 15, the entry for “**the School Standards and Framework Act 1998**” (c. 31) was inserted by that Act, Schedule 30, paragraph 182, the entry for “the Education Act 2002” was inserted by section 217(2) of that Act, the entry for “**the Higher Education Act 2004**” (c. 8) was inserted by section 54(2) of that Act, the entry for “**the Education Act 2005**” (c. 18) was inserted by section 128(2) of that Act, the entry for “**the Education and Inspections Act 2006**” (c. 40) was inserted by section 191(2) of that Act, the entry for “**the Education and Skills Act 2008**” (c. 25) was inserted by section 174(2) of that Act, the entry for “**the Learner Travel (Wales) Measure 2008**” (nawm 2) was inserted by section 29(2) of that Measure, the entry for “**the Apprenticeships, Skills, Children and Learning Act 2009**” (c. 22) was inserted by section 270(2) of that Act, the entry for “**the Healthy Eating in Schools (Wales) Measure 2009**” (nawm 3) was inserted by section 12(4) of that Measure, the entry for “**the Education Act 2011**” (c. 21) was inserted by section 83(2) of that Act, the entry for “**the Education (Wales) Measure 2011**” (nawm 7) was inserted by section 34(2) of that Measure, the entry for “**the School Standards and Organisation (Wales) Act 2013**” (anaw 1) was inserted by section 101(2) of that Act, the entry for “**the Education (Wales) Act 2014**” (anaw 5) was inserted by section 45 of that Act, the Higher Education (Wales) Act [2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1) was added to the list of “Education Acts” by section 60(2) of that Act, the Qualifications Wales Act [2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5) was added to the list of “Education Acts” by section 61(2) of that Act, the Additional Learning Needs and Education Tribunal (Wales) Act [2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2) was added to the list of “Education Acts” by section 101(2) of that Act, the Curriculum and Assessment (Wales) Act [2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4) was added to the list of “Education Acts” by section 72 of that Act and the Tertiary Education and Research (Wales) Act 2022 (asc 1) was added to the list of “Education Acts” by section 149(2) of that Act; there are other amendments to the list of “Education Acts” in section 578 but none are relevant to these Regulations.
 
 [^f00022]: Footnote: The definition of “education functions” was inserted by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 
-[^key-0f73ecbea82578595fa587dda3d62dff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/698/regulation/8) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-0f73ecbea82578595fa587dda3d62dff]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/698/regulation/8) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2005/1398 (W. 112)](https://www.legislation.gov.uk/wsi/2005/1398), amended by [S.I. 2023/420 (W. 63)](https://www.legislation.gov.uk/wsi/2023/420); there are other amending instruments but none is relevant to these Regulations.
 
-[^key-73bd6cca15b55c8057df33049ce29e36]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/698/regulation/9) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-73bd6cca15b55c8057df33049ce29e36]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/698/regulation/9) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
 [^f00024]: Footnote: [S.I. 2011/1944 (W. 211)](https://www.legislation.gov.uk/wsi/2011/1944); there are amending instruments but none is relevant to these Regulations.
 
 [^f00025]: Footnote: [S.I. 2024/698 (W. 96)](https://www.legislation.gov.uk/wsi/2024/698).
 
-[^key-95f68a0e12696c3711be31599d43a774]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/1) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-95f68a0e12696c3711be31599d43a774]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/1) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-2627fe2e5d3ea46a7d8c1f8a62d2c5c2]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/2) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-2627fe2e5d3ea46a7d8c1f8a62d2c5c2]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/2) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-77118f7ee55212148439736ec8c31885]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/3) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-77118f7ee55212148439736ec8c31885]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/3) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-8877c400e0a5ea6ae32c7c7efd19bb3e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/4) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-8877c400e0a5ea6ae32c7c7efd19bb3e]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/4) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
 
-[^key-db660583747058bd1741cc76895e12f0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/5) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)
+[^c-db660583747058bd1741cc76895e12f0]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/wsi/2024/698/schedule/paragraph/5) in force at 28.6.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/698/regulation/1/2)

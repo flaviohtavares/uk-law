@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Commencement[^key-a90bc331662c9ece0f8ddeb4d978e41c]
+## 63. Commencement[^c-a90bc331662c9ece0f8ddeb4d978e41c]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a90bc331662c9ece0f8ddeb4d978e41c]: Commencement: S. 63 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-a90bc331662c9ece0f8ddeb4d978e41c]: Commencement: S. 63 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

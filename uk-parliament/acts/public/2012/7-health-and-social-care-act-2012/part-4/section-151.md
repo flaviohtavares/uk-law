@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-32b8cf7a8f3b2e6d104bd214375bd9e3] In paragraph 7 of Schedule 7 to the National Health Service Act 2006 (public benefit corporation to have governors)—
+(1)[^c-32b8cf7a8f3b2e6d104bd214375bd9e3] In paragraph 7 of Schedule 7 to the National Health Service Act 2006 (public benefit corporation to have governors)—
 
 - (a) in sub-paragraph (1), for “a board of governors” substitute “a council of governors”, and
 - (b) in sub-paragraphs (2), (3) and (4), for “the board” substitute “the council”.
 
-(2)[^key-ad26c5b20c6223d8dc302efe8b231491] Omit paragraph 9(3) of that Schedule (requirement for at least one member of council of governors to be appointed by PCT).
+(2)[^c-ad26c5b20c6223d8dc302efe8b231491] Omit paragraph 9(3) of that Schedule (requirement for at least one member of council of governors to be appointed by PCT).
 
-(3)[^key-ad26c5b20c6223d8dc302efe8b231491] For paragraph 9(7) of that Schedule (partnership organisations) substitute—
+(3)[^c-ad26c5b20c6223d8dc302efe8b231491] For paragraph 9(7) of that Schedule (partnership organisations) substitute—
 
 > (7) Any organisation specified in the constitution for the purposes of this sub-paragraph may appoint one or more members of the council (but no more than the number specified for those purposes in the constitution).
 
-(4)[^key-ad26c5b20c6223d8dc302efe8b231491] After paragraph 10 of that Schedule insert—
+(4)[^c-ad26c5b20c6223d8dc302efe8b231491] After paragraph 10 of that Schedule insert—
 
 > **10A.**
 >
@@ -40,13 +40,13 @@ summary: ''
 > - (a) to hold the non-executive directors individually and collectively to account for the performance of the board of directors, and
 > - (b) to represent the interests of the members of the corporation as a whole and the interests of the public.
 
-(5)[^key-ad26c5b20c6223d8dc302efe8b231491] After paragraph 10A of that Schedule insert—
+(5)[^c-ad26c5b20c6223d8dc302efe8b231491] After paragraph 10A of that Schedule insert—
 
 > **10B.**
 >
 > A public benefit corporation must take steps to secure that the governors are equipped with the skills and knowledge they require in their capacity as such.
 
-(6)[^key-ad26c5b20c6223d8dc302efe8b231491] After paragraph 10B of that Schedule insert—
+(6)[^c-ad26c5b20c6223d8dc302efe8b231491] After paragraph 10B of that Schedule insert—
 
 > **10C.**
 >
@@ -54,13 +54,13 @@ summary: ''
 
 (7) In paragraph 23(4) of that Schedule (persons eligible for appointment as auditor by governors), in sub-paragraph (c), for “the regulator” substitute “the Secretary of State”.
 
-(8)[^key-ad26c5b20c6223d8dc302efe8b231491] In paragraph 26(2) of that Schedule (information that must be given in annual reports etc.), after paragraph (a) insert—
+(8)[^c-ad26c5b20c6223d8dc302efe8b231491] In paragraph 26(2) of that Schedule (information that must be given in annual reports etc.), after paragraph (a) insert—
 
 > - (aa) information on any occasions in the period to which the report relates on which the council of governors exercised its power under paragraph 10C,
 
 .
 
-(9)[^key-32b8cf7a8f3b2e6d104bd214375bd9e3] In consequence of subsection (1)—
+(9)[^c-32b8cf7a8f3b2e6d104bd214375bd9e3] In consequence of subsection (1)—
 
 - (a) in sections 33(4)(a) (in each place it appears), 35(2)(c) and (5)(c), 39(3)(a), 59(1), (2)(b) and (5) and 60(1) of that Act, for “board of governors” substitute “council of governors”,
 - (b) in section 60(2) and (3) and paragraphs 8 to 14, 17, 18, 20, 21, 23, 27 and 28 of Schedule 7 to that Act, for “the board” (in each place it appears) substitute “the council”,
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32b8cf7a8f3b2e6d104bd214375bd9e3]: Commencement: S. 151(1)(9) in force at 1.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-32b8cf7a8f3b2e6d104bd214375bd9e3]: Commencement: S. 151(1)(9) in force at 1.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
 
-[^key-ad26c5b20c6223d8dc302efe8b231491]: Commencement: S. 151(2)-(6)(8) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-ad26c5b20c6223d8dc302efe8b231491]: Commencement: S. 151(2)-(6)(8) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

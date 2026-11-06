@@ -37,11 +37,11 @@ Made
 
 The Department for Infrastructure[^f00001] makes the following Order in exercise of the power conferred by section 26(1) of the Road Traffic (Amendment) Act (Northern Ireland) 2016[^f00002] and vested in it[^f00003].
 
-## 1. Citation and interpretation[^key-f92713f8db4e3f9097d04d7a9fd297b0]
+## 1. Citation and interpretation[^c-f92713f8db4e3f9097d04d7a9fd297b0]
 
 This Order may be cited as the Road Traffic (Amendment) (2016 Act) (Commencement No. 4) Order (Northern Ireland) 2026.
 
-## 2. Appointed day[^key-4847f22013a07a6a8bb4709a6b709847]
+## 2. Appointed day[^c-4847f22013a07a6a8bb4709a6b709847]
 
 The day appointed for the coming into operation of the provisions of the Road Traffic (Amendment) Act (Northern Ireland) 2016 specified in the Schedule is 1st October 2026.
 
@@ -53,7 +53,7 @@ A senior officer of the
 
 Department for Infrastructure
 
-## SCHEDULE — Provisions coming into operation on 1st October 2026[^key-7f422bd95f0245efcf151390d72dba56]
+## SCHEDULE — Provisions coming into operation on 1st October 2026[^c-7f422bd95f0245efcf151390d72dba56]
 
 Article 2
 
@@ -106,11 +106,11 @@ The following provisions of the Road Traffic (Amendment) Act (Northern Ireland) 
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-f92713f8db4e3f9097d04d7a9fd297b0]: Commencement: Art. 1 in operation at made date
+[^c-f92713f8db4e3f9097d04d7a9fd297b0]: Commencement: Art. 1 in operation at made date
 
-[^key-4847f22013a07a6a8bb4709a6b709847]: Commencement: Art. 2 in operation at made date
+[^c-4847f22013a07a6a8bb4709a6b709847]: Commencement: Art. 2 in operation at made date
 
-[^key-7f422bd95f0245efcf151390d72dba56]: Commencement: Sch. in operation at made date
+[^c-7f422bd95f0245efcf151390d72dba56]: Commencement: Sch. in operation at made date
 
 [^f00004]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154)
 

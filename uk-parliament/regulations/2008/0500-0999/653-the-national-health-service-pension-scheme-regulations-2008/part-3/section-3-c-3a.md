@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.C.3A. Scheme administration charge[^key-3aaa20093a3477aadf9c3d404442bc94][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.C.3A. Scheme administration charge[^c-3aaa20093a3477aadf9c3d404442bc94][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ Scheme administration charge
 
 ## Annotations
 
-[^key-3aaa20093a3477aadf9c3d404442bc94]: Textual amendment: [Reg. 3.C.3A](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.3A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [25](https://www.legislation.gov.uk/uksi/2017/275/regulation/25)
+[^c-3aaa20093a3477aadf9c3d404442bc94]: Textual amendment: [Reg. 3.C.3A](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.C.3A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [25](https://www.legislation.gov.uk/uksi/2017/275/regulation/25)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 15 — TRAFFIC REGULATION[^key-ea6f0e2cfe0a43cf975f8b526e5cbec9]
+## SCHEDULE 15 — TRAFFIC REGULATION[^c-ea6f0e2cfe0a43cf975f8b526e5cbec9]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ Article 45
 
 ## Annotations
 
-[^key-ea6f0e2cfe0a43cf975f8b526e5cbec9]: Commencement: Sch. 15 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-ea6f0e2cfe0a43cf975f8b526e5cbec9]: Commencement: Sch. 15 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

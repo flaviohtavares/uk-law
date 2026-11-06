@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies in all cases where a consignment of hazardous waste is to be removed from premises except in cases to which any of regulations 39[^key-44d94fcd7ba314c42512db9c27436921] to 41 apply.
+(1) This regulation applies in all cases where a consignment of hazardous waste is to be removed from premises except in cases to which any of regulations 39[^c-44d94fcd7ba314c42512db9c27436921] to 41 apply.
 
 (2) Before the consignment is removed—
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44d94fcd7ba314c42512db9c27436921]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/36/1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/12) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-44d94fcd7ba314c42512db9c27436921]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/36/1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/988/schedule/2/paragraph/12) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))

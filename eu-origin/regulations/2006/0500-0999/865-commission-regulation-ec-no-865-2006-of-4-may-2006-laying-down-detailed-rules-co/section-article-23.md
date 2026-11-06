@@ -22,8 +22,8 @@ summary: ''
 
 The customs office referred to in Article 22, or, where applicable, Article 53(1), shall, after completing box 27 of the original import permit (form 1) and the ‘copy for the holder’ (form 2), return the latter to the importer or to his authorised representative.
 
-[^key-b214f4b4d6142f5bd5b3cfe2a77a7c90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b214f4b4d6142f5bd5b3cfe2a77a7c90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b214f4b4d6142f5bd5b3cfe2a77a7c90]: Textual amendment: Words in [Art. 23](https://www.legislation.gov.uk/eur/2006/865/article/23) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(18)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/18)
+[^c-b214f4b4d6142f5bd5b3cfe2a77a7c90]: Textual amendment: Words in [Art. 23](https://www.legislation.gov.uk/eur/2006/865/article/23) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(18)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/18)

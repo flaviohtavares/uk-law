@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Traffic regulation[^key-367e5a94ba0c441d1ef3b429983f77a5]
+## 19. Traffic regulation[^c-367e5a94ba0c441d1ef3b429983f77a5]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-367e5a94ba0c441d1ef3b429983f77a5]: Commencement: Art. 19 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-367e5a94ba0c441d1ef3b429983f77a5]: Commencement: Art. 19 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
 [^f00026]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

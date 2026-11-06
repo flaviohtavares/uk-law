@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Disclosure of non-identifying information by the Welsh Revenue Authority[^key-179ed3c130da6ed82be35d1791861786]
+## 75. Disclosure of non-identifying information by the Welsh Revenue Authority[^c-179ed3c130da6ed82be35d1791861786]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-179ed3c130da6ed82be35d1791861786]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2017/30/section/75) in force at 1.4.2018 by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-179ed3c130da6ed82be35d1791861786]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2017/30/section/75) in force at 1.4.2018 by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)

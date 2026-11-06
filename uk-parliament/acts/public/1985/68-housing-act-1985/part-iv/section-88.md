@@ -22,8 +22,8 @@ summary: ''
 
 (1) The tenant is himself a successor if—
 
-- (a)[^key-4fe7f25213c151f88d79544ba23d4857] the tenancy vested in him by virtue of section 89 (succession to a periodic tenancy), or
-- (b)[^key-4fe7f25213c151f88d79544ba23d4857] he was a joint tenant and has become the sole tenant, or
+- (a)[^c-4fe7f25213c151f88d79544ba23d4857] the tenancy vested in him by virtue of section 89 (succession to a periodic tenancy), or
+- (b)[^c-4fe7f25213c151f88d79544ba23d4857] he was a joint tenant and has become the sole tenant, or
 - (c) the tenancy arose by virtue of section 86 (periodic tenancy arising on ending of term certain) and the first tenancy there mentioned was granted to another person or jointly to him and another person, or
 - (d) he became the tenant on the tenancy being assigned to him (but subject to subsections (2) to (3)[^c19057071] , or
 - (e) he became the tenant on the tenancy being vested in him on the death of the previous tenant or.[^c15061201]
@@ -46,7 +46,7 @@ the tenant is also a successor in relation to the other tenancy unless the agree
 
 [^c15061191]: Modification: s. 88 modified (1.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 37](https://www.legislation.gov.uk/ukpga/1993/28/section/37), [Sch. 10 para.2(3)](https://www.legislation.gov.uk/ukpga/1993/28/schedule/10/paragraph/2/3); [S.I. 1993/2134](https://www.legislation.gov.uk/uksi/1993/2134), [arts. 2](https://www.legislation.gov.uk/uksi/1993/2134/article/2), [5(a)](https://www.legislation.gov.uk/uksi/1993/2134/article/5/a).
 
-[^key-4fe7f25213c151f88d79544ba23d4857]: Modification: [S. 88(1)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/88/1/a)[(b)](https://www.legislation.gov.uk/ukpga/1985/68/section/88/1/b): functions made exercisable concurrently (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/117/regulation/31)
+[^c-4fe7f25213c151f88d79544ba23d4857]: Modification: [S. 88(1)(a)](https://www.legislation.gov.uk/ukpga/1985/68/section/88/1/a)[(b)](https://www.legislation.gov.uk/ukpga/1985/68/section/88/1/b): functions made exercisable concurrently (with modifications) (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/117/regulation/31)
 
 [^c19057071]: Textual amendment: Words in s. 88(1)(d) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 81](https://www.legislation.gov.uk/ukpga/2004/33/section/81), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 21(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/21/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 

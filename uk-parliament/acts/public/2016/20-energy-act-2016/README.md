@@ -34,7 +34,7 @@ An Act to make provision about the Oil and Gas Authority and its functions; to m
 
 \[12th May 2016\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e5c0ed73250e0860963c5bcba6e43acf][^key-37cb811a557bc55a27c35bf13c1126a5]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e5c0ed73250e0860963c5bcba6e43acf][^c-37cb811a557bc55a27c35bf13c1126a5]
 
 ## Contents
 
@@ -240,6 +240,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e5c0ed73250e0860963c5bcba6e43acf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2016/20) excluded in part (18.7.2023) by [The Longfield Solar Farm Order 2023 (S.I. 2023/734)](https://www.legislation.gov.uk/uksi/2023/734), [arts. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2023/734/article/6/1)
+[^c-e5c0ed73250e0860963c5bcba6e43acf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2016/20) excluded in part (18.7.2023) by [The Longfield Solar Farm Order 2023 (S.I. 2023/734)](https://www.legislation.gov.uk/uksi/2023/734), [arts. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2023/734/article/6/1)
 
-[^key-37cb811a557bc55a27c35bf13c1126a5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2016/20) excluded in part (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(2)](https://www.legislation.gov.uk/uksi/2025/462/article/53/2) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+[^c-37cb811a557bc55a27c35bf13c1126a5]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2016/20) excluded in part (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(2)](https://www.legislation.gov.uk/uksi/2025/462/article/53/2) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))

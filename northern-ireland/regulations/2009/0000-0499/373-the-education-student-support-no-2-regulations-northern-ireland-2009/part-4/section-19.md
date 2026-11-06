@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Students to be treated as in attendance on a course[^key-0f78a9fab889dd3d1e124b1f270678af]
+## 19. Students to be treated as in attendance on a course[^c-0f78a9fab889dd3d1e124b1f270678af]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f78a9fab889dd3d1e124b1f270678af]: Commencement: Reg. 19 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-0f78a9fab889dd3d1e124b1f270678af]: Commencement: Reg. 19 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

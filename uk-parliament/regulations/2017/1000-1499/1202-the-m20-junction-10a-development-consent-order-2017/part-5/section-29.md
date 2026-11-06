@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Acquisition of subsoil or airspace only[^key-a6778dd5fc01d1f02c069ea0f5738347]
+## 29. Acquisition of subsoil or airspace only[^c-a6778dd5fc01d1f02c069ea0f5738347]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6778dd5fc01d1f02c069ea0f5738347]: Commencement: Art. 29 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-a6778dd5fc01d1f02c069ea0f5738347]: Commencement: Art. 29 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)

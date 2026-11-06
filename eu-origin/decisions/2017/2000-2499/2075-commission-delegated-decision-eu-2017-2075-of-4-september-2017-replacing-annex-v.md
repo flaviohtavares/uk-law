@@ -35,18 +35,18 @@ replacing Annex VII to Directive 2012/34/EU of the European Parliament and of th
 
 (Text with EEA relevance) (revoked)
 
-[^key-4de9dfeebe69b18aebf93c7ec16e4c5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4de9dfeebe69b18aebf93c7ec16e4c5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-4de9dfeebe69b18aebf93c7ec16e4c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4de9dfeebe69b18aebf93c7ec16e4c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4de9dfeebe69b18aebf93c7ec16e4c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4de9dfeebe69b18aebf93c7ec16e4c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4de9dfeebe69b18aebf93c7ec16e4c5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4de9dfeebe69b18aebf93c7ec16e4c5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-4de9dfeebe69b18aebf93c7ec16e4c5f]
+## ANNEX[^c-4de9dfeebe69b18aebf93c7ec16e4c5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4de9dfeebe69b18aebf93c7ec16e4c5f]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [25(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/25/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4de9dfeebe69b18aebf93c7ec16e4c5f]: Textual amendment: Decision revoked (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [25(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/25/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

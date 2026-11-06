@@ -389,11 +389,11 @@ for “clerk to” substitute “ proper officer of ”.
 
 **72.** [^c19096561]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**73.** (1)[^key-a818b1b2998f0b6d5498bbab6e049681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**73.** (1)[^c-a818b1b2998f0b6d5498bbab6e049681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a818b1b2998f0b6d5498bbab6e049681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a818b1b2998f0b6d5498bbab6e049681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a818b1b2998f0b6d5498bbab6e049681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a818b1b2998f0b6d5498bbab6e049681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c19096581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -422,9 +422,9 @@ for “clerk to” substitute “ proper officer of ”.
 
 **78.** [^c19096631]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**79.**[^key-c79beed333dd3905521efcf559d60a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**79.**[^c-c79beed333dd3905521efcf559d60a5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**80.**[^key-61360f679c13fcb66bb6fa26fb3fb684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**80.**[^c-61360f679c13fcb66bb6fa26fb3fb684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **81.** [^c19096801]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -638,7 +638,7 @@ for “clerk to” substitute “ proper officer of ”.
 
 **140.** The Road Traffic Offenders Act 1988 has effect subject to the following amendments.
 
-**141.**[^key-43f27539a70f6ebd06edad0f2a9e44aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**141.**[^c-43f27539a70f6ebd06edad0f2a9e44aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **142.** In sections 8(a) and 25(2)(a) (notification to clerk of date of birth and sex), for “to the clerk of a court in pursuance of section 12(2)” substitute “ to a justices’ chief executive in pursuance of section 12(4) ”.
 
@@ -653,23 +653,23 @@ for “clerk to” substitute “ proper officer of ”.
 > - (a) in relation to a magistrates’ court in England and Wales, the justices’ chief executive for the court, and
 > - (b) in relation to any other court, the clerk of the court.
 
-**144.**[^key-6c0b0691ff5217f2363417bf64056408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**144.**[^c-6c0b0691ff5217f2363417bf64056408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**145.** (1)[^key-ab4083f757002e9d283c9b73d958b29d] Section 34B (certificate of completion of course) is amended as follows. *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d]
+**145.** (1)[^c-ab4083f757002e9d283c9b73d958b29d] Section 34B (certificate of completion of course) is amended as follows. *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d]
 
-(2) In subsections (1), (2) (in both places), (6) and (7), for “clerk” substitute *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d] “ proper officer ” *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d].
+(2) In subsections (1), (2) (in both places), (6) and (7), for “clerk” substitute *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d] “ proper officer ” *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d].
 
-(3) In subsection (9)— *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d]
+(3) In subsection (9)— *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d]
 
-- (a) for “clerk of a court” substitute *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d] “ proper officer of a court ” *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d], and *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d]
-- (b) for “clerk or” substitute *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d] “ officer or ” *(affected by repeal, see note)*[^key-ab4083f757002e9d283c9b73d958b29d].
+- (a) for “clerk of a court” substitute *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d] “ proper officer of a court ” *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d], and *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d]
+- (b) for “clerk or” substitute *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d] “ officer or ” *(affected by repeal, see note)*[^c-ab4083f757002e9d283c9b73d958b29d].
 
-**146.** In section 34C(2) (interpretation), after the definition of “petty sessions area” insert— *(affected by repeal, see note)*[^key-8123df920e5c2d0bd10d7d3a05ab54c2]
+**146.** In section 34C(2) (interpretation), after the definition of “petty sessions area” insert— *(affected by repeal, see note)*[^c-8123df920e5c2d0bd10d7d3a05ab54c2]
 
-> “**proper officer *(affected by repeal, see note)*[^key-8123df920e5c2d0bd10d7d3a05ab54c2]**” means— *(affected by repeal, see note)*[^key-8123df920e5c2d0bd10d7d3a05ab54c2]
+> “**proper officer *(affected by repeal, see note)*[^c-8123df920e5c2d0bd10d7d3a05ab54c2]**” means— *(affected by repeal, see note)*[^c-8123df920e5c2d0bd10d7d3a05ab54c2]
 >
-> - (a) in relation to a magistrates’ court in England and Wales, the justices’ chief executive for the court, and *(affected by repeal, see note)*[^key-8123df920e5c2d0bd10d7d3a05ab54c2]
-> - (b) in relation to a sheriff court in Scotland, the clerk of the court; *(affected by repeal, see note)*[^key-8123df920e5c2d0bd10d7d3a05ab54c2]
+> - (a) in relation to a magistrates’ court in England and Wales, the justices’ chief executive for the court, and *(affected by repeal, see note)*[^c-8123df920e5c2d0bd10d7d3a05ab54c2]
+> - (b) in relation to a sheriff court in Scotland, the clerk of the court; *(affected by repeal, see note)*[^c-8123df920e5c2d0bd10d7d3a05ab54c2]
 
 .
 
@@ -793,7 +793,7 @@ for “clerk to” substitute “ proper officer of ”.
 
 ### The Road Traffic (New Drivers) Act 1995 (c.13)
 
-**173.**[^key-030f23b4cba13de29559aa870aab3024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**173.**[^c-030f23b4cba13de29559aa870aab3024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Merchant Shipping Act 1995 (c.21)
 
@@ -954,7 +954,7 @@ for “clerk to” substitute “ proper officer of ”.
 
 [^c19096561]: Textual amendment: [Sch. 13 para. 72](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/72) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
-[^key-a818b1b2998f0b6d5498bbab6e049681]: Textual amendment: Sch. 13 para. 73(1)-(3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a818b1b2998f0b6d5498bbab6e049681]: Textual amendment: Sch. 13 para. 73(1)-(3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19096581]: Textual amendment: Sch. 13 para. 73(4) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
@@ -966,9 +966,9 @@ for “clerk to” substitute “ proper officer of ”.
 
 [^c19096631]: Textual amendment: [Sch. 13 para. 78](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/78) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
-[^key-c79beed333dd3905521efcf559d60a5a]: Textual amendment: [Sch. 13 para. 79](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/79) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c79beed333dd3905521efcf559d60a5a]: Textual amendment: [Sch. 13 para. 79](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/79) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-61360f679c13fcb66bb6fa26fb3fb684]: Textual amendment: [Sch. 13 para. 80](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/80) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-61360f679c13fcb66bb6fa26fb3fb684]: Textual amendment: [Sch. 13 para. 80](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/80) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 210](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/210); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19096801]: Textual amendment: [Sch. 13 para. 81](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/81) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
@@ -1072,13 +1072,13 @@ for “clerk to” substitute “ proper officer of ”.
 
 [^c19109301]: Textual amendment: [Sch. 13 para. 139](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/139) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 457](https://www.legislation.gov.uk/ukpga/2002/29/section/457), [458](https://www.legislation.gov.uk/ukpga/2002/29/section/458), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2003/333/article/3) (as amended by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), [arts. 3](https://www.legislation.gov.uk/uksi/2003/531/article/3), [4](https://www.legislation.gov.uk/uksi/2003/531/article/4)))
 
-[^key-43f27539a70f6ebd06edad0f2a9e44aa]: Textual amendment: [Sch. 13 para. 141](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/141) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 27(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/27/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-43f27539a70f6ebd06edad0f2a9e44aa]: Textual amendment: [Sch. 13 para. 141](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/141) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 27(a)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/27/a); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-6c0b0691ff5217f2363417bf64056408]: Textual amendment: [Sch. 13 para. 144](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/144) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 27(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/27/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-6c0b0691ff5217f2363417bf64056408]: Textual amendment: [Sch. 13 para. 144](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/144) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 27(b)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/27/b); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-ab4083f757002e9d283c9b73d958b29d]: Textual amendment: [Sch. 13 para. 145](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/145) repealed (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(8)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/8); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/b)
+[^c-ab4083f757002e9d283c9b73d958b29d]: Textual amendment: [Sch. 13 para. 145](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/145) repealed (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(8)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/8); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/b)
 
-[^key-8123df920e5c2d0bd10d7d3a05ab54c2]: Textual amendment: [Sch. 13 para. 146](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/146) repealed (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(8)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/8); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/b)
+[^c-8123df920e5c2d0bd10d7d3a05ab54c2]: Textual amendment: [Sch. 13 para. 146](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/146) repealed (21.12.2012 for specified purposes, 24.6.2013 for specified purposes) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(8)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/8); [S.I. 2012/2938](https://www.legislation.gov.uk/uksi/2012/2938), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2938/article/2/2/b)
 
 [^c19101371]: Textual amendment: [Sch. 13 para. 147](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/147) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/3), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)(bb)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa/bb)
 
@@ -1120,4 +1120,4 @@ for “clerk to” substitute “ proper officer of ”.
 
 [^c19109341]: Textual amendment: [Sch. 13 para. 172](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/172) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 457](https://www.legislation.gov.uk/ukpga/2002/29/section/457), [458](https://www.legislation.gov.uk/ukpga/2002/29/section/458), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (subject to [arts. 3-14](https://www.legislation.gov.uk/uksi/2003/333/article/3) (as amended by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), [arts. 3](https://www.legislation.gov.uk/uksi/2003/531/article/3), [4](https://www.legislation.gov.uk/uksi/2003/531/article/4)))
 
-[^key-030f23b4cba13de29559aa870aab3024]: Textual amendment: [Sch. 13 para. 173](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/173) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 27(c)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/27/c); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-030f23b4cba13de29559aa870aab3024]: Textual amendment: [Sch. 13 para. 173](https://www.legislation.gov.uk/ukpga/1999/22/schedule/13/paragraph/173) omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 27(c)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/27/c); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

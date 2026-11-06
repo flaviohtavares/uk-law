@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Application of regulations 25 and 26[^key-45271ed62e046a431e647f357696cdcc]
+## 24. Application of regulations 25 and 26[^c-45271ed62e046a431e647f357696cdcc]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Regulations 25 and 26 apply below ground in coal mines.
 
 ## Annotations
 
-[^key-45271ed62e046a431e647f357696cdcc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/427/regulation/24) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-45271ed62e046a431e647f357696cdcc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/427/regulation/24) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

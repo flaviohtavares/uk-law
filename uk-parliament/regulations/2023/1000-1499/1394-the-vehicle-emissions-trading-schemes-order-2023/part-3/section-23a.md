@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. CRTS credits: conversion of unused VRTS allowances by a CRTS participant which is also a VRTS participant[^key-16a0f47b762330b1330180de6540c41c]
+## 23A. CRTS credits: conversion of unused VRTS allowances by a CRTS participant which is also a VRTS participant[^c-16a0f47b762330b1330180de6540c41c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16a0f47b762330b1330180de6540c41c]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2023/1394/article/23A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [9](https://www.legislation.gov.uk/uksi/2025/1101/article/9)
+[^c-16a0f47b762330b1330180de6540c41c]: Textual amendment: [Art. 23A](https://www.legislation.gov.uk/uksi/2023/1394/article/23A) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [9](https://www.legislation.gov.uk/uksi/2025/1101/article/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Distress in default[^key-2d38f53b1307429c59d14057edcbbd48]
+## 31. Distress in default[^c-2d38f53b1307429c59d14057edcbbd48]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d38f53b1307429c59d14057edcbbd48]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2016/21/section/31) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-2d38f53b1307429c59d14057edcbbd48]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2016/21/section/31) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

@@ -54,7 +54,7 @@ Section 81.
 
 ### Stamp duty
 
-**9.**[^key-47d2395bce04943b4678ade3620a0c32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-47d2395bce04943b4678ade3620a0c32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -64,4 +64,4 @@ Section 81.
 
 [^c10292541]: Marginal citation: [1969 c. 48](https://www.legislation.gov.uk/ukpga/1969/48).
 
-[^key-47d2395bce04943b4678ade3620a0c32]: Textual amendment: Sch. 4 para. 9 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 53](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/53); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-47d2395bce04943b4678ade3620a0c32]: Textual amendment: Sch. 4 para. 9 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 53](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/53); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a member has not more than 10 years of pensionable service before first becoming a [^key-6d40ecf1bee94a1bb8ee841df3819ee8]... practitioner, the reference amount shall be the best of—
+(1) Where a member has not more than 10 years of pensionable service before first becoming a [^c-6d40ecf1bee94a1bb8ee841df3819ee8]... practitioner, the reference amount shall be the best of—
 
 - (a) the amount determined by calculation method A,
 - (b) the amount determined by calculation method B, and
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d40ecf1bee94a1bb8ee841df3819ee8]: Textual amendment: Words in [reg. 4.B.2(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.2/1) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [97](https://www.legislation.gov.uk/uksi/2009/2446/regulation/97)
+[^c-6d40ecf1bee94a1bb8ee841df3819ee8]: Textual amendment: Words in [reg. 4.B.2(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.2/1) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [97](https://www.legislation.gov.uk/uksi/2009/2446/regulation/97)
 
 [^f00138]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).

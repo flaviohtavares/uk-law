@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-93a49e4190aee4dd533dc1d554e94a9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-93a49e4190aee4dd533dc1d554e94a9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A claimant falls within section 20 of the Act if—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93a49e4190aee4dd533dc1d554e94a9b]: Textual amendment: [Reg. 91(1)](https://www.legislation.gov.uk/uksi/2013/376/regulation/91/1) omitted (3.4.2017) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/17/2/a), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/c)
+[^c-93a49e4190aee4dd533dc1d554e94a9b]: Textual amendment: [Reg. 91(1)](https://www.legislation.gov.uk/uksi/2013/376/regulation/91/1) omitted (3.4.2017) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/17/2/a), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2017/111](https://www.legislation.gov.uk/uksi/2017/111), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/111/regulation/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Winding up of Redemption Annuities Account.[^key-ae158f657e6d5e3fe53804405bdd7474]
+## 185. Winding up of Redemption Annuities Account.[^c-ae158f657e6d5e3fe53804405bdd7474]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae158f657e6d5e3fe53804405bdd7474]: Textual amendment: [S. 185](https://www.legislation.gov.uk/ukpga/1989/26/section/185) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3
+[^c-ae158f657e6d5e3fe53804405bdd7474]: Textual amendment: [S. 185](https://www.legislation.gov.uk/ukpga/1989/26/section/185) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 3

@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel and Operator Liability) (Miscellaneous Amendments) (Wales) Regulations 2021 (revoked)[^key-71547c3d574470bf1067174d0a569df8]
+The Health Protection (Coronavirus, International Travel and Operator Liability) (Miscellaneous Amendments) (Wales) Regulations 2021 (revoked)[^c-71547c3d574470bf1067174d0a569df8]
 
 Made
 
@@ -45,67 +45,67 @@ Coming into force
 
 at 4.00 a.m. on 13 March 2021
 
-[^key-71547c3d574470bf1067174d0a569df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71547c3d574470bf1067174d0a569df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-71547c3d574470bf1067174d0a569df8]
+## PART 1 — General[^c-71547c3d574470bf1067174d0a569df8]
 
-### 1. Title, coming into force and interpretation[^key-71547c3d574470bf1067174d0a569df8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendments to Part 4 of the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
-
-### 2. Amendments to regulation 14 of the International Travel Regulations (offences)[^key-71547c3d574470bf1067174d0a569df8]
+### 1. Title, coming into force and interpretation[^c-71547c3d574470bf1067174d0a569df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendments to Schedule 1A to the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
+## PART 2 — Amendments to Part 4 of the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
 
-### 3. Amendments to paragraph 2 of Schedule 1A to the International Travel Regulations (testing before arrival in Wales)[^key-71547c3d574470bf1067174d0a569df8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — Amendment to Part 2 of Schedule 2 to the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
-
-### 4. Amendment to paragraph 10 of Schedule 2 to the International Travel Regulations (exempt persons)[^key-71547c3d574470bf1067174d0a569df8]
+### 2. Amendments to regulation 14 of the International Travel Regulations (offences)[^c-71547c3d574470bf1067174d0a569df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Amendments to Schedule 4 to the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
+## PART 3 — Amendments to Schedule 1A to the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
 
-### 5. Amendments to Schedule 4 to the International Travel Regulations (specified sporting events)[^key-71547c3d574470bf1067174d0a569df8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 6 — Miscellaneous Amendments to the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
-
-### 6. Amendments to the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
+### 3. Amendments to paragraph 2 of Schedule 1A to the International Travel Regulations (testing before arrival in Wales)[^c-71547c3d574470bf1067174d0a569df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Amendments to the Welsh language text of Schedule 5 to the International Travel Regulations[^key-71547c3d574470bf1067174d0a569df8]
+## PART 4 — Amendment to Part 2 of Schedule 2 to the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
 
-### 7. Amendments to Schedule 5 to the International Travel Regulations (sectoral exceptions)[^key-71547c3d574470bf1067174d0a569df8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 8 — Amendment to the No. 3 Regulations[^key-71547c3d574470bf1067174d0a569df8]
-
-### 8. Amendment to regulation 2 of the No. 3 Regulations (amendment of the International Travel Regulations)[^key-71547c3d574470bf1067174d0a569df8]
+### 4. Amendment to paragraph 10 of Schedule 2 to the International Travel Regulations (exempt persons)[^c-71547c3d574470bf1067174d0a569df8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 9 — Amendment to regulation 4 of the Operator Liability Regulations[^key-71547c3d574470bf1067174d0a569df8]
+## PART 5 — Amendments to Schedule 4 to the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
 
-**9.**[^key-71547c3d574470bf1067174d0a569df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 5. Amendments to Schedule 4 to the International Travel Regulations (specified sporting events)[^c-71547c3d574470bf1067174d0a569df8]
 
-[^key-71547c3d574470bf1067174d0a569df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Miscellaneous Amendments to the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
+
+### 6. Amendments to the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — Amendments to the Welsh language text of Schedule 5 to the International Travel Regulations[^c-71547c3d574470bf1067174d0a569df8]
+
+### 7. Amendments to Schedule 5 to the International Travel Regulations (sectoral exceptions)[^c-71547c3d574470bf1067174d0a569df8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — Amendment to the No. 3 Regulations[^c-71547c3d574470bf1067174d0a569df8]
+
+### 8. Amendment to regulation 2 of the No. 3 Regulations (amendment of the International Travel Regulations)[^c-71547c3d574470bf1067174d0a569df8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 9 — Amendment to regulation 4 of the Operator Liability Regulations[^c-71547c3d574470bf1067174d0a569df8]
+
+**9.**[^c-71547c3d574470bf1067174d0a569df8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-71547c3d574470bf1067174d0a569df8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-71547c3d574470bf1067174d0a569df8]EXPLANATORY NOTE
+[^c-71547c3d574470bf1067174d0a569df8]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -135,4 +135,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-71547c3d574470bf1067174d0a569df8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/305) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/34)
+[^c-71547c3d574470bf1067174d0a569df8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/305) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 34](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/34)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Electronic communications[^key-7104829f36be3c662002400684daae1f]
+## 3. Electronic communications[^c-7104829f36be3c662002400684daae1f]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7104829f36be3c662002400684daae1f]: Commencement: Art. 3 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-7104829f36be3c662002400684daae1f]: Commencement: Art. 3 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

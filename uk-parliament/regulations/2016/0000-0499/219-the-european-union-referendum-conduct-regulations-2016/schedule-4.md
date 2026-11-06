@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — FORMS[^key-6b948b270b9922acd18cb127971a820c]
+## SCHEDULE 4 — FORMS[^c-6b948b270b9922acd18cb127971a820c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Regulation 83
 
 ## Annotations
 
-[^key-6b948b270b9922acd18cb127971a820c]: Commencement: Sch. 4 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-6b948b270b9922acd18cb127971a820c]: Commencement: Sch. 4 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

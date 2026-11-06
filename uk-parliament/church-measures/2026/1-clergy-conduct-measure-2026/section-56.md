@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 56. Divorce or separation order[^key-011dfdc84aed522f2d972994f0ce723f]
+## 56. Divorce or separation order[^c-011dfdc84aed522f2d972994f0ce723f]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-011dfdc84aed522f2d972994f0ce723f]: Commencement: S. 56 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-011dfdc84aed522f2d972994f0ce723f]: Commencement: S. 56 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

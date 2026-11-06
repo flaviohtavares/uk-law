@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Withdrawal or variation of relevant funds claim[^key-942885ca8c900d6b6d85b151fc80a43f]
+## 105. Withdrawal or variation of relevant funds claim[^c-942885ca8c900d6b6d85b151fc80a43f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A relevant funds claim may at any time, with the agreement of the administrator,
 
 ## Annotations
 
-[^key-942885ca8c900d6b6d85b151fc80a43f]: Commencement: Rule 105 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-942885ca8c900d6b6d85b151fc80a43f]: Commencement: Rule 105 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Placement for adoption by agencies[^key-8f843fa4eefb2957a97bba543f7ba794]
+## 15. Placement for adoption by agencies[^c-8f843fa4eefb2957a97bba543f7ba794]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ and references in this Act (apart from this section) to a child who is placed fo
 
 ## Annotations
 
-[^key-8f843fa4eefb2957a97bba543f7ba794]: Commencement: S. 15 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8f843fa4eefb2957a97bba543f7ba794]: Commencement: S. 15 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

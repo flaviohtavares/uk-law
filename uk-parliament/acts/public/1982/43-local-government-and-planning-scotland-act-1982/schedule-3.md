@@ -113,7 +113,7 @@ Section 66(1).
 
 **13.** In section 31(1)(a) (which makes provision as regards disqualification from election to, and membership of, a local authority), after the word “chairman” there shall be inserted the words “or vice-chairman ”.
 
-**14.**[^key-0be53b68ec3e46aa6ba7ea974a3b407b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-0be53b68ec3e46aa6ba7ea974a3b407b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** In section 67 (which makes provision as regards the disqualification of members and former members from paid office with a local authority), after the word “chairman” there shall be inserted the words “or vice-chairman ”.
 
@@ -280,7 +280,7 @@ Section 66(1).
 
 [^c795009]: Textual amendment: [Sch. 3 paras. 5–7](https://www.legislation.gov.uk/ukpga/1982/43/schedule/3/paragraph/5) repealed (1.4.1994) by [Abolition of Domestic Rates Etc. (Scotland) Act 1987 (c. 47, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1987/47), [s. 34](https://www.legislation.gov.uk/ukpga/1987/47/section/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/1987/47/schedule/6)
 
-[^key-0be53b68ec3e46aa6ba7ea974a3b407b]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1982/43/schedule/3/paragraph/14) repealed (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
+[^c-0be53b68ec3e46aa6ba7ea974a3b407b]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1982/43/schedule/3/paragraph/14) repealed (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [Sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
 
 [^c795011]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/1982/43/schedule/3/paragraph/16) repealed (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/d), SCh. 2
 

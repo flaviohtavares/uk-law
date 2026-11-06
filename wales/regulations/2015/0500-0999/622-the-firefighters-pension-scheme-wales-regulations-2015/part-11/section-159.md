@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Appointment of scheme actuary and actuarial valuations[^key-190e9dda4cae42af86e663f00eabfbe5]
+## 159. Appointment of scheme actuary and actuarial valuations[^c-190e9dda4cae42af86e663f00eabfbe5]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-190e9dda4cae42af86e663f00eabfbe5]: Commencement: Reg. 159 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-190e9dda4cae42af86e663f00eabfbe5]: Commencement: Reg. 159 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

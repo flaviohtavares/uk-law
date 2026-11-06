@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations 2001 (revoked)[^key-4f44a17606739a66c0f0228880bbdc7f]
+The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations 2001 (revoked)[^c-4f44a17606739a66c0f0228880bbdc7f]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 21st December 2001
 
-[^key-4f44a17606739a66c0f0228880bbdc7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f44a17606739a66c0f0228880bbdc7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4f44a17606739a66c0f0228880bbdc7f]
+## 1. Citation, commencement and extent[^c-4f44a17606739a66c0f0228880bbdc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-4f44a17606739a66c0f0228880bbdc7f]
+## 2. Interpretation[^c-4f44a17606739a66c0f0228880bbdc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-4f44a17606739a66c0f0228880bbdc7f]
+## 3. Amendment of the principal Regulations[^c-4f44a17606739a66c0f0228880bbdc7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f44a17606739a66c0f0228880bbdc7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f44a17606739a66c0f0228880bbdc7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4f44a17606739a66c0f0228880bbdc7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f44a17606739a66c0f0228880bbdc7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f44a17606739a66c0f0228880bbdc7f]: Textual amendment: Regulations revoked (8.12.2016) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016 (S.I. 2016/1107)](https://www.legislation.gov.uk/uksi/2016/1107), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/73/3), [73(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/73/1) (with [reg. 73(3)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/73/3))
+[^c-4f44a17606739a66c0f0228880bbdc7f]: Textual amendment: Regulations revoked (8.12.2016) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016 (S.I. 2016/1107)](https://www.legislation.gov.uk/uksi/2016/1107), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/73/3), [73(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/73/1) (with [reg. 73(3)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/73/3))

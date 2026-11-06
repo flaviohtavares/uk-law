@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Time for presenting agreement for lease.[^c14457041][^key-af4cb430545da2f962928d4c4f0b76a5]
+## 240. Time for presenting agreement for lease.[^c14457041][^c-af4cb430545da2f962928d4c4f0b76a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ and the duty (if any) chargeable on the agreement is paid.
 
 [^c14457041]: Textual amendment: Ss. 240, 240A substituted for s. 240 (27.7.1999 with application as mentioned in [s. 109(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/4) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 109(3)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/3), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/1999/16/schedule/12/paragraph/4)
 
-[^key-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
+[^c-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)

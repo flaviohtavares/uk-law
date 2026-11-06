@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Orders for protection of MCZs in Wales[^c2007903][^key-704c47212ce861e0fc35d96b1035bdbf][^key-abb0f2511ea32c491cef7fe18a3d9d06][^key-abb0f2511ea32c491cef7fe18a3d9d06]
+## 134. Orders for protection of MCZs in Wales[^c2007903][^c-704c47212ce861e0fc35d96b1035bdbf][^c-abb0f2511ea32c491cef7fe18a3d9d06][^c-abb0f2511ea32c491cef7fe18a3d9d06]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c2007903]: Commencement: S. 134 partly in force; s. 134 in force for specified purposes at Royal Assent see s. 324(1)(c); s. 134 in force for further specified purposes at 12.1.2010 see s. 324(2)(b)(i)
 
-[^key-704c47212ce861e0fc35d96b1035bdbf]: Commencement: S. 134 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
+[^c-704c47212ce861e0fc35d96b1035bdbf]: Commencement: S. 134 in force at 12.12.2014 in so far as not already in force by [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b)
 
-[^key-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))
+[^c-abb0f2511ea32c491cef7fe18a3d9d06]: Modification: Pt. 5 Ch. 1 applied (with modifications) by S.I. 1994/2716, reg. 36(3)(4) (as substituted (E.W.) (12.1.2010 for specified purposes, 12.12.2014 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/b/i), [Sch. 11 para. 4(1)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/11/paragraph/4/1); [S.I. 2014/3088](https://www.legislation.gov.uk/wsi/2014/3088), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3088/article/2/b))

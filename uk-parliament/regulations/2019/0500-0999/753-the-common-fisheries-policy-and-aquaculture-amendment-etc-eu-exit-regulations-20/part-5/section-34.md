@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Council Regulation [(EC) No 2406/96](https://www.legislation.gov.uk/eur/1996/2406) laying down common marketing standards for certain fishery products[^key-6eba1046aae0c8f53378bda21081d163]
+## 34. Council Regulation [(EC) No 2406/96](https://www.legislation.gov.uk/eur/1996/2406) laying down common marketing standards for certain fishery products[^c-6eba1046aae0c8f53378bda21081d163]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,4 +111,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6eba1046aae0c8f53378bda21081d163]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-6eba1046aae0c8f53378bda21081d163]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

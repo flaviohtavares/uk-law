@@ -42,7 +42,7 @@ Section 211
 
 ### Rates from 2013
 
-**5.**[^key-473e841de23464b782cddec22f6456c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-473e841de23464b782cddec22f6456c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** (1) In paragraph 7 (special provision for chargeable periods falling wholly or partly before 1 January 2012) for sub-paragraphs (1) and (2) substitute—
 
@@ -65,9 +65,9 @@ Section 211
 > > | 1 January 2012 to 31 December 2012 | 0.044% | 0.088% |
 > > | Any time on or after 1 January 2013 | 0.0525% | 0.105% |
 
-(2)[^key-4484b69373eb79a8dc7bdef0c766011d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4484b69373eb79a8dc7bdef0c766011d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.** The amendments made by paragraph[^key-f1767eb42e6fc4f093dfaa837c7f9bfd] 6 come into force on 1 January 2013.
+**7.** The amendments made by paragraph[^c-f1767eb42e6fc4f093dfaa837c7f9bfd] 6 come into force on 1 January 2013.
 
 ### Joint ventures
 
@@ -160,8 +160,8 @@ and references to the total liability of E for an accounting period are to be co
 
 ## Annotations
 
-[^key-473e841de23464b782cddec22f6456c6]: Textual amendment: [Sch. 34 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/5) omitted (retrospective to 1.1.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 202(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/4/a)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/5) (with [s. 202(6)-(13)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/6))
+[^c-473e841de23464b782cddec22f6456c6]: Textual amendment: [Sch. 34 para. 5](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/5) omitted (retrospective to 1.1.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 202(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/4/a)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/5) (with [s. 202(6)-(13)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/6))
 
-[^key-4484b69373eb79a8dc7bdef0c766011d]: Textual amendment: [Sch. 34 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/6/2) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 203(7)](https://www.legislation.gov.uk/ukpga/2013/29/section/203/7)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/203/8)
+[^c-4484b69373eb79a8dc7bdef0c766011d]: Textual amendment: [Sch. 34 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/6/2) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 203(7)](https://www.legislation.gov.uk/ukpga/2013/29/section/203/7)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/203/8)
 
-[^key-f1767eb42e6fc4f093dfaa837c7f9bfd]: Textual amendment: Word in [Sch. 34 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/7) substituted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 202(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/4/b)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/5) (with [s. 202(6)-(13)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/6))
+[^c-f1767eb42e6fc4f093dfaa837c7f9bfd]: Textual amendment: Word in [Sch. 34 para. 7](https://www.legislation.gov.uk/ukpga/2012/14/schedule/34/paragraph/7) substituted (retrospective to 1.1.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 202(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/4/b)[(5)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/5) (with [s. 202(6)-(13)](https://www.legislation.gov.uk/ukpga/2013/29/section/202/6))

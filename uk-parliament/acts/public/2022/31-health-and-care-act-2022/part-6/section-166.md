@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Cap on care costs for charging purposes[^key-22dfdcbacaa8a3fa9d642cc5fb37a9ff]
+## 166. Cap on care costs for charging purposes[^c-22dfdcbacaa8a3fa9d642cc5fb37a9ff]
 
 *Extent: E+W*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22dfdcbacaa8a3fa9d642cc5fb37a9ff]: Commencement: S. 166 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-22dfdcbacaa8a3fa9d642cc5fb37a9ff]: Commencement: S. 166 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)

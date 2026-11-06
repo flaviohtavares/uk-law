@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Notification of significant events: unconnected multiple employer schemes[^key-e1c25553dfa3bbaf1486a08be2b96fb9]
+## 14. Notification of significant events: unconnected multiple employer schemes[^c-e1c25553dfa3bbaf1486a08be2b96fb9]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In section 79(2) (duty to notify the Pensions Regulator of significant events) a
 
 ## Annotations
 
-[^key-e1c25553dfa3bbaf1486a08be2b96fb9]: Commencement: Reg. 14 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-e1c25553dfa3bbaf1486a08be2b96fb9]: Commencement: Reg. 14 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

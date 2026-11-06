@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The licensing objectives[^key-2ece0597968bebdd4fc13d456b0bc19d]
+## 1. The licensing objectives[^c-2ece0597968bebdd4fc13d456b0bc19d]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ In this Act a reference to the licensing objectives is a reference to the object
 
 ## Annotations
 
-[^key-2ece0597968bebdd4fc13d456b0bc19d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2005/19/section/1) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))
+[^c-2ece0597968bebdd4fc13d456b0bc19d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2005/19/section/1) in force at 1.10.2005 by [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2455/article/3))

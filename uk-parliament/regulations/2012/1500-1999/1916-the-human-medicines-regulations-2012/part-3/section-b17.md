@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## B17. Regulations on good manufacturing practice[^key-f862c506277b82b3ab2e4f7e97dae359]
+## B17. Regulations on good manufacturing practice[^c-f862c506277b82b3ab2e4f7e97dae359]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) Regulations under paragraph (1) may in particular make provisions as to—
 
 - (a) inspections;
-- (b) compliance with good manufacturing practice and, where relevant, the UK marketing authorisation [^key-c6e55f62bd3228e3119adbcc5832429a]...;
+- (b) compliance with good manufacturing practice and, where relevant, the UK marketing authorisation [^c-c6e55f62bd3228e3119adbcc5832429a]...;
 - (c) quality assurance systems;
 - (d) personnel;
 - (e) premises and equipment;
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f862c506277b82b3ab2e4f7e97dae359]: Textual amendment: Pt. 3 Ch. 1A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/775/regulation/13) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f862c506277b82b3ab2e4f7e97dae359]: Textual amendment: Pt. 3 Ch. 1A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/775/regulation/13) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c6e55f62bd3228e3119adbcc5832429a]: Textual amendment: Words in [reg. B17(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/B17/2/b) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/832/regulation/8)
+[^c-c6e55f62bd3228e3119adbcc5832429a]: Textual amendment: Words in [reg. B17(2)(b)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/B17/2/b) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/832/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Direction to change name used for criminal purposes[^key-e52d1d2fd4c14db4d03e14268d26ef31]
+## 13A. Direction to change name used for criminal purposes[^c-e52d1d2fd4c14db4d03e14268d26ef31]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ Section 76A applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-e52d1d2fd4c14db4d03e14268d26ef31]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/234/regulation/12); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-e52d1d2fd4c14db4d03e14268d26ef31]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/13A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2024/234/regulation/12); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

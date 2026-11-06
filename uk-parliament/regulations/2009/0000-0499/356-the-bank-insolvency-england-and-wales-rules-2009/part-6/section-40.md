@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. First meeting[^key-12d435ce65b83dce95451641c86f8abb]
+## 40. First meeting[^c-12d435ce65b83dce95451641c86f8abb]
 
 *Extent: E+W*
 
@@ -34,9 +34,9 @@ and the date must be within 3 months of the date on which the full payment resol
 - (c) every person appearing (by the bank’s books or otherwise) to be a contributory of the bank, and
 - (d) each member of the liquidation committee,
 
-[^key-4b6607c836e46c8d2b665f3ffc1669d1]...
+[^c-4b6607c836e46c8d2b665f3ffc1669d1]...
 
-(2A)[^key-4260c3acb6be80eae037f09adf8323d1] The bank liquidator—
+(2A)[^c-4260c3acb6be80eae037f09adf8323d1] The bank liquidator—
 
 - (a) shall gazette the notice of the meetings as soon as reasonably practicable; and
 - (b) may advertise it in such other manner as the bank liquidator thinks fit.
@@ -53,8 +53,8 @@ and the date must be within 3 months of the date on which the full payment resol
 
 ## Annotations
 
-[^key-12d435ce65b83dce95451641c86f8abb]: Commencement: Rule 40 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-12d435ce65b83dce95451641c86f8abb]: Commencement: Rule 40 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-4b6607c836e46c8d2b665f3ffc1669d1]: Textual amendment: Words in [rule 40(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/40/2) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [28(a)](https://www.legislation.gov.uk/uksi/2010/2579/rule/28/a)
+[^c-4b6607c836e46c8d2b665f3ffc1669d1]: Textual amendment: Words in [rule 40(2)](https://www.legislation.gov.uk/uksi/2009/356/rule/40/2) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [28(a)](https://www.legislation.gov.uk/uksi/2010/2579/rule/28/a)
 
-[^key-4260c3acb6be80eae037f09adf8323d1]: Textual amendment: [Rule 40(2A)](https://www.legislation.gov.uk/uksi/2009/356/rule/40/2A) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [28(b)](https://www.legislation.gov.uk/uksi/2010/2579/rule/28/b)
+[^c-4260c3acb6be80eae037f09adf8323d1]: Textual amendment: [Rule 40(2A)](https://www.legislation.gov.uk/uksi/2009/356/rule/40/2A) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [28(b)](https://www.legislation.gov.uk/uksi/2010/2579/rule/28/b)

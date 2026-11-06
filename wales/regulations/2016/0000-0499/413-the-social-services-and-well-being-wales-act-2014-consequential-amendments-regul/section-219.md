@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**219.**[^key-0a171fa256a03b4f44e6e44e957fa485] In section 49 (payments to foster parents)—
+**219.**[^c-0a171fa256a03b4f44e6e44e957fa485] In section 49 (payments to foster parents)—
 
 - (a) in subsection (1)(a), after the words “Children Act 1989” insert “or section 81 of the Social Services and Well-being (Wales) Act 2014”;
 - (b) in subsection (1)(b) for “that Act” substitute “the Children Act 1989”;
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a171fa256a03b4f44e6e44e957fa485]: Commencement: Reg. 219 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-0a171fa256a03b4f44e6e44e957fa485]: Commencement: Reg. 219 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

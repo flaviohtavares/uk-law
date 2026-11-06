@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. County Courts Act (Northern Ireland) 1959[^key-f879b903fa7c76d9f6e9a8c803f0de4b]
+## 55. County Courts Act (Northern Ireland) 1959[^c-f879b903fa7c76d9f6e9a8c803f0de4b]
 
 *Extent: N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f879b903fa7c76d9f6e9a8c803f0de4b]: Commencement: Reg. 55 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f879b903fa7c76d9f6e9a8c803f0de4b]: Commencement: Reg. 55 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00072]: Footnote: [1959 c.25 (N.I.)](https://www.legislation.gov.uk/apni/1959/25).
 

@@ -48,20 +48,20 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 The Secretary of State has given notice of the proposal to make this Order in accordance with section 5(2) and (3) of that Act and has consulted with the Scottish Ministers[^f00002], and has considered any representations made.
 
-## 1. Citation, commencement, extent and application[^key-7bf28a2a39911e11011c7220fa5febe4]
+## 1. Citation, commencement, extent and application[^c-7bf28a2a39911e11011c7220fa5febe4]
 
 (1) This Order may be cited as the Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) Order 2025 and comes into force on 10th February 2025.
 
 (2) This Order extends to England and Wales and Scotland.
 
-## 2. Exemption from section 4(1)(b) of the Electricity Act 1989[^key-b6d2724e5d3c197aac9e5a3ad714511c]
+## 2. Exemption from section 4(1)(b) of the Electricity Act 1989[^c-b6d2724e5d3c197aac9e5a3ad714511c]
 
 (1) The Secretary of State grants exemption from section 4(1)(b) of the Electricity Act 1989[^f00003] (prohibition on unlicensed transmission of electricity for supply) to Doggerbank Offshore Wind Farm Project 1 Projco Limited in respect of transmission[^f00004] taking place over the transmission system[^f00005] connected to the Dogger Bank A Offshore Wind Farm.
 
 (2) The exemption in paragraph (1) applies for the period beginning with 10th February 2025 and ending with the earlier of—
 
 - (a) the day after the day on which the transmission system connected to Dogger Bank A Offshore Wind Farm is transferred to a successful bidder[^f00006];
-- (b) 18th December 2026[^key-b6ec691becafa42244069f7e62da2c60].
+- (b) 18th December 2026[^c-b6ec691becafa42244069f7e62da2c60].
 
 (3) In this article—
 
@@ -94,9 +94,9 @@ An Explanatory Memorandum has been prepared and is available alongside this inst
 
 [^f00002]: Footnote: Under article 4 of, and Schedule 3 to, the Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 1999 ([S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750)), functions under section 5(1) of the Electricity Act 1989 are, in so far as they are exercisable in or as regards Scotland, only exercisable after consultation with the Scottish Ministers.
 
-[^key-7bf28a2a39911e11011c7220fa5febe4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/27/article/1) in force at 10.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/27/article/1/1)
+[^c-7bf28a2a39911e11011c7220fa5febe4]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2025/27/article/1) in force at 10.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/27/article/1/1)
 
-[^key-b6d2724e5d3c197aac9e5a3ad714511c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/27/article/2) in force at 10.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/27/article/1/1)
+[^c-b6d2724e5d3c197aac9e5a3ad714511c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2025/27/article/2) in force at 10.2.2025, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/27/article/1/1)
 
 [^f00003]: Footnote: Section 4(1)(b) of the Electricity Act 1989 was substituted by section 135(1) and (2) of the Energy Act [2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 
@@ -106,4 +106,4 @@ An Explanatory Memorandum has been prepared and is available alongside this inst
 
 [^f00006]: Footnote: For the meaning of “successful bidder”, see section 6CD(6) of the Electricity Act 1989. Section 6CD was inserted by section 203(1) of, and paragraphs 1 and 3 of Part 1 of Schedule 15 to, the Energy Act [2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52).
 
-[^key-b6ec691becafa42244069f7e62da2c60]: Textual amendment: Words in [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/27/article/2/2/b) substituted (18.12.2025) by [The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) (Amendment) Order 2025 (S.I. 2025/1196)](https://www.legislation.gov.uk/uksi/2025/1196), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1196/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1196/article/2/2)
+[^c-b6ec691becafa42244069f7e62da2c60]: Textual amendment: Words in [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/27/article/2/2/b) substituted (18.12.2025) by [The Electricity (Individual Exemption from the Requirement for a Transmission Licence) (Dogger Bank A) (Amendment) Order 2025 (S.I. 2025/1196)](https://www.legislation.gov.uk/uksi/2025/1196), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1196/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/1196/article/2/2)

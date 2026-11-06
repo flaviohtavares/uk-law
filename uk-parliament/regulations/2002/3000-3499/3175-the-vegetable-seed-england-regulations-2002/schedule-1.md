@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 1 — INTERPRETATION[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+## SCHEDULE 1 — INTERPRETATION[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -24,140 +24,140 @@ summary: ''
 
 Regulation 2(5) and Schedule 10
 
-### PART I — MEANING OF PRE-BASIC SEED AND SIMILAR EXPRESSIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART I — MEANING OF PRE-BASIC SEED AND SIMILAR EXPRESSIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
-#### 1. Pre-basic seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. UK officially certified pre-basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 1. Pre-basic seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. EC officially certified pre-basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 2. UK officially certified pre-basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Overseas tested officially certified pre-basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 3. EC officially certified pre-basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. UK officially certified early movement pre-basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 4. Overseas tested officially certified pre-basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. EC officially certified early movement pre-basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 5. UK officially certified early movement pre-basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Officially certified pre-basic seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 6. EC officially certified early movement pre-basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — MEANING OF BASIC SEED AND SIMILAR EXPRESSIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
-
-#### 8. Basic seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 7. Officially certified pre-basic seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. UK officially certified basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART II — MEANING OF BASIC SEED AND SIMILAR EXPRESSIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
+
+#### 8. Basic seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. EC officially certified basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 9. UK officially certified basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Overseas tested officially certified basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 10. EC officially certified basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. UK officially certified early movement basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 11. Overseas tested officially certified basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. EC officially certified early movement basic seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 12. UK officially certified early movement basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. UK officially certified basic seed of a component of a listed hybrid variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 13. EC officially certified early movement basic seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. EC officially certified basic seed of a component of a listed hybrid variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 14. UK officially certified basic seed of a component of a listed hybrid variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Overseas tested officially certified basic seed of a component of a listed hybrid variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 15. EC officially certified basic seed of a component of a listed hybrid variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. UK officially certified early movement basic seed of a component of a listed hybrid variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 16. Overseas tested officially certified basic seed of a component of a listed hybrid variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. EC officially certified early movement basic seed of a component of a listed hybrid variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 17. UK officially certified early movement basic seed of a component of a listed hybrid variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Officially certified basic seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 18. EC officially certified early movement basic seed of a component of a listed hybrid variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — MEANING OF CS SEED AND SIMILAR EXPRESSIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
-
-#### 20. CS seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 19. Officially certified basic seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. UK officially certified CS seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART III — MEANING OF CS SEED AND SIMILAR EXPRESSIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
+
+#### 20. CS seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. EC officially certified CS seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 21. UK officially certified CS seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Overseas tested officially certified CS seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 22. EC officially certified CS seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. UK officially certified early movement CS seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 23. Overseas tested officially certified CS seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. EC officially certified early movement CS seed of a listed variety[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 24. UK officially certified early movement CS seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Officially certified CS seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 25. EC officially certified early movement CS seed of a listed variety[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Early multiplication[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 26. Officially certified CS seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — MEANING OF STANDARD SEED[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
-
-#### 28. Standard seed[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 27. Early multiplication[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — MEANING OF EXPRESSIONS RELATING TO IMPORTED NOT FINALLY CERTIFIED SEED[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART IV — MEANING OF STANDARD SEED[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
-#### 29. Not finally certified pre-basic seed harvested in another member State[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 30. Not finally certified basic seed harvested in another member State[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+#### 28. Standard seed[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Not finally certified CS seed harvested in another member State[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART V — MEANING OF EXPRESSIONS RELATING TO IMPORTED NOT FINALLY CERTIFIED SEED[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
+
+#### 29. Not finally certified pre-basic seed harvested in another member State[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 30. Not finally certified basic seed harvested in another member State[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 31. Not finally certified CS seed harvested in another member State[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

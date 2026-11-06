@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60B. Duty to display notice relating to age[^key-a9a2716f7ce0d5e7b3c4dfd15ec7dfe5]
+## 60B. Duty to display notice relating to age[^c-a9a2716f7ce0d5e7b3c4dfd15ec7dfe5]
 
 *Extent: N.I.*
 
@@ -29,13 +29,13 @@ summary: ''
 
 (3) Without prejudice to the generality of paragraph (2), the notice must contain—
 
-- (a) such information as may be prescribed by regulations in relation to offences concerning the sale to or purchase by persons under the age of 18 of intoxicating liquor or in relation to offences concerning the presence of such persons in licensed premises[^key-1cd89ded298f173af8549b0c33515312] ; and
+- (a) such information as may be prescribed by regulations in relation to offences concerning the sale to or purchase by persons under the age of 18 of intoxicating liquor or in relation to offences concerning the presence of such persons in licensed premises[^c-1cd89ded298f173af8549b0c33515312] ; and
 - (b) a description of the documents specified in Articles 58(11B) and 60(7B).
 
 (4) A holder of a licence acting in contravention of this Article or any provision made under this Article shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 ## Annotations
 
-[^key-a9a2716f7ce0d5e7b3c4dfd15ec7dfe5]: Textual amendment: Art. 60B inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 3(3)](https://www.legislation.gov.uk/nia/2011/18/section/3/3), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
+[^c-a9a2716f7ce0d5e7b3c4dfd15ec7dfe5]: Textual amendment: Art. 60B inserted (1.5.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 3(3)](https://www.legislation.gov.uk/nia/2011/18/section/3/3), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/28](https://www.legislation.gov.uk/nisr/2012/28), [art. 2](https://www.legislation.gov.uk/nisr/2012/28/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/28/schedule)
 
-[^key-1cd89ded298f173af8549b0c33515312]: Textual amendment: Words in [art. 60B(3)(a)](https://www.legislation.gov.uk/nisi/1996/3158/article/60B/3/a) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 13(7)](https://www.legislation.gov.uk/nia/2021/7/section/13/7), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-1cd89ded298f173af8549b0c33515312]: Textual amendment: Words in [art. 60B(3)(a)](https://www.legislation.gov.uk/nisi/1996/3158/article/60B/3/a) inserted (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 13(7)](https://www.legislation.gov.uk/nia/2021/7/section/13/7), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

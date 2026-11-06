@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Removal of power to establish Schools Funding Council for Wales.[^key-2823b7613624c45dbceab193af145988]
+## 133. Removal of power to establish Schools Funding Council for Wales.[^c-2823b7613624c45dbceab193af145988]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2823b7613624c45dbceab193af145988]: Textual amendment: [S. 133](https://www.legislation.gov.uk/ukpga/1998/31/section/133) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)
+[^c-2823b7613624c45dbceab193af145988]: Textual amendment: [S. 133](https://www.legislation.gov.uk/ukpga/1998/31/section/133) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 7](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/7)

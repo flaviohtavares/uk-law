@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Records[^key-37a44dcf162793f3446d69d1ca1a5d5b][^key-cce0dc39574d840ce8c6c2d458aaba7b]
+## 53. Records[^c-37a44dcf162793f3446d69d1ca1a5d5b][^c-cce0dc39574d840ce8c6c2d458aaba7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37a44dcf162793f3446d69d1ca1a5d5b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2017/10/section/53) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
+[^c-37a44dcf162793f3446d69d1ca1a5d5b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2017/10/section/53) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
 
-[^key-cce0dc39574d840ce8c6c2d458aaba7b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2017/10/section/53) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-cce0dc39574d840ce8c6c2d458aaba7b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2017/10/section/53) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

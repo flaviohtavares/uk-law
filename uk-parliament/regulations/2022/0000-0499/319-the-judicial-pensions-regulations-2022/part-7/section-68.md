@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Entitlement to pension credit member’s pension[^key-84666785a8665192085e4bcdec90a1eb]
+## 68. Entitlement to pension credit member’s pension[^c-84666785a8665192085e4bcdec90a1eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A pension credit member (P) of this scheme is entitled to the immediate payment 
 
 ## Annotations
 
-[^key-84666785a8665192085e4bcdec90a1eb]: Commencement: Reg. 68 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-84666785a8665192085e4bcdec90a1eb]: Commencement: Reg. 68 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

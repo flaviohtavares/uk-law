@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Call-in of applications by Scottish Ministers: further provision[^key-fb529e2cfee7b476c62c4199eb9eab63]
+## 29. Call-in of applications by Scottish Ministers: further provision[^c-fb529e2cfee7b476c62c4199eb9eab63]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb529e2cfee7b476c62c4199eb9eab63]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2019/13/section/29) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-fb529e2cfee7b476c62c4199eb9eab63]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2019/13/section/29) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

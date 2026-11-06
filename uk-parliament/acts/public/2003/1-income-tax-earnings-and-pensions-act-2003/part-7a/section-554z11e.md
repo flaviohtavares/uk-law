@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z11E. Application for provisional payments to be treated as payment of tax[^key-816387b68fcba8c443a22ec9349b95be][^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z11E. Application for provisional payments to be treated as payment of tax[^c-816387b68fcba8c443a22ec9349b95be][^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-816387b68fcba8c443a22ec9349b95be]: Textual amendment: [Ss. 554Z11B-554Z11G](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z11B) and cross-heading inserted (with effect in accordance with Sch. 6 para. 15(2)(3) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/11)
+[^c-816387b68fcba8c443a22ec9349b95be]: Textual amendment: [Ss. 554Z11B-554Z11G](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z11B) and cross-heading inserted (with effect in accordance with Sch. 6 para. 15(2)(3) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/11)
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)

@@ -31,7 +31,7 @@ summary: ''
 - (a) to a constable,
 - (b) in accordance with a procedure established by that person's employer for the making of disclosures under that provision,
 - (c) to a nominated officer, or
-- (d) to a National Crime Agency officer[^key-606abf88bd4b5fb2f55bdac9829cd37f] authorised for the purposes of that provision by the Director General of that Agency,
+- (d) to a National Crime Agency officer[^c-606abf88bd4b5fb2f55bdac9829cd37f] authorised for the purposes of that provision by the Director General of that Agency,
 
 of information that came to that person in the course of a business in the regulated sector.
 
@@ -56,4 +56,4 @@ of information that came to that person in the course of a business in the regul
 
 [^c19687001]: Textual amendment: Ss. 21C-21H inserted (26.12.2007) by [The Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 2](https://www.legislation.gov.uk/uksi/2007/3398/regulation/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2007/3398/schedule/1/paragraph/5)
 
-[^key-606abf88bd4b5fb2f55bdac9829cd37f]: Textual amendment: Words in s. 21D(2)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 75](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/75); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-606abf88bd4b5fb2f55bdac9829cd37f]: Textual amendment: Words in s. 21D(2)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 75](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/75); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

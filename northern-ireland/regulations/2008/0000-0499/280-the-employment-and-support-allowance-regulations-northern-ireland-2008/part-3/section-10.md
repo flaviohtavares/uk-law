@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Condition relating to youth – previous claimants[^key-32a99481f4598ecbe79fb642bde3a39f]
+## 10. Condition relating to youth – previous claimants[^c-32a99481f4598ecbe79fb642bde3a39f]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32a99481f4598ecbe79fb642bde3a39f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/280/regulation/10) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-32a99481f4598ecbe79fb642bde3a39f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/280/regulation/10) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

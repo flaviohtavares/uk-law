@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Financial services and funds relating to dual-use goods and dual-use technology[^key-4c5a0f05bf7645deda8f715e08a2fb6a]
+## 35. Financial services and funds relating to dual-use goods and dual-use technology[^c-4c5a0f05bf7645deda8f715e08a2fb6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c5a0f05bf7645deda8f715e08a2fb6a]: Commencement: Reg. 35 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-4c5a0f05bf7645deda8f715e08a2fb6a]: Commencement: Reg. 35 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

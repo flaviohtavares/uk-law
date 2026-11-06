@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Assaults on emergency workers[^key-33bc43e2fd157043477ebb03cf3a1a72]
+## 67. Assaults on emergency workers[^c-33bc43e2fd157043477ebb03cf3a1a72]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
   - (v) section 28 (causing bodily injury by explosives);
   - (vi) section 29 (using explosives etc with intent to do grievous bodily harm);
   - (vii) section 47 (assault occasioning actual bodily harm);
-- (aa)[^key-0a8be9a2c1ad1e4ce7f29e2af7cf8bd4] an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation);
+- (aa)[^c-0a8be9a2c1ad1e4ce7f29e2af7cf8bd4] an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation);
 - (b) an offence under section 3 of the Sexual Offences Act 2003 (sexual assault);
 - (c) manslaughter;
 - (d) kidnapping;
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33bc43e2fd157043477ebb03cf3a1a72]: Commencement: S. 67 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-33bc43e2fd157043477ebb03cf3a1a72]: Commencement: S. 67 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0a8be9a2c1ad1e4ce7f29e2af7cf8bd4]: Textual amendment: [S. 67(3)(aa)](https://www.legislation.gov.uk/ukpga/2020/17/section/67/3/aa) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/12/2); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-0a8be9a2c1ad1e4ce7f29e2af7cf8bd4]: Textual amendment: [S. 67(3)(aa)](https://www.legislation.gov.uk/ukpga/2020/17/section/67/3/aa) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/12/2); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)

@@ -48,11 +48,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Preliminary matters
 
-### 1. Citation and commencement[^key-8f31f0e6602d80887944c656a2a2dc88]
+### 1. Citation and commencement[^c-8f31f0e6602d80887944c656a2a2dc88]
 
 These Regulations may be cited as the Armed Forces (Service Complaints and Financial Assistance) Act 2015 (Transitional and Savings Provisions) Regulations 2015 and come into force on 1st January 2016.
 
-### 2. Interpretation[^key-5bf6bd3483526946bc45462d338682ba]
+### 2. Interpretation[^c-5bf6bd3483526946bc45462d338682ba]
 
 (1) A reference in these Regulations to a section is, unless stated otherwise, to that section of the Armed Forces Act 2006[^f00002].
 
@@ -97,7 +97,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 - (a) the statement of complaint was not delivered within the period provided for in old regulations 15 to 17; and
 - (b) the complaint may not be made after the end of that period by virtue of old regulation 18.
 
-### 3. Finalised complaints[^key-1c91dafe5eab99d6276469e1cad3b23b]
+### 3. Finalised complaints[^c-1c91dafe5eab99d6276469e1cad3b23b]
 
 (1) A pre-commencement complaint is finalised if, before the commencement date, it has been—
 
@@ -121,7 +121,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 ## PART 2 — Pre-commencement complaints: continuation of the old complaints provisions and application of the Ombudsman provisions
 
-### 4. Pre-commencement complaints where there has been two decisions on the complaint[^key-001b6ac8683ffd97d65f809685e4117d]
+### 4. Pre-commencement complaints where there has been two decisions on the complaint[^c-001b6ac8683ffd97d65f809685e4117d]
 
 (1) Sections 334 to 336A and 338, and provisions made under them, continue to have effect in relation to a pre-commencement complaint where before the commencement date—
 
@@ -137,7 +137,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 - (a) the reference to “these Regulations” were to the new regulations; and
 - (b) the reference to “a new service complaint” were to a service complaint within the meaning of section 340A.
 
-### 5. Provisions about the Ombudsman applicable to Part 2 complaints[^key-cb690592412c148eaea45c7596f8676d]
+### 5. Provisions about the Ombudsman applicable to Part 2 complaints[^c-cb690592412c148eaea45c7596f8676d]
 
 (1) In its application to a Part 2 complaint, regulation 3 of the Armed Forces (Service Complaints Commissioner) Regulations 2007[^f00007] applies as if the reference to notifying the Service Complaints Commissioner were to notifying the Service Complaints Ombudsman.
 
@@ -162,7 +162,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 > (5) For the purposes of this section, a service complaint has been finally determined where the Defence Council (or a service complaint panel to which the Defence Council delegated the making of the decision) have decided under section 334(7) and (8) whether the complaint is well-founded (and, if so, the appropriate redress).
 
-(10) In its application by virtue of paragraph (8), regulation 3 of the Armed Forces Commissioner (Service Complaints) Regulations 2026[^key-837a8196402bc1350314e6219fa73b59] applies as if—
+(10) In its application by virtue of paragraph (8), regulation 3 of the Armed Forces Commissioner (Service Complaints) Regulations 2026[^c-837a8196402bc1350314e6219fa73b59] applies as if—
 
 - (a) for paragraph (2)(a), there were substituted—
 
@@ -175,7 +175,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 ## PART 3 — Pre-commencement complaints: application of the new complaints provisions
 
-### 6. Pre-commencement complaints treated as made under new complaints provisions[^key-5488f72c67a3a5458cad6a6c9fdf692e]
+### 6. Pre-commencement complaints treated as made under new complaints provisions[^c-5488f72c67a3a5458cad6a6c9fdf692e]
 
 (1) This regulation applies to a pre-commencement complaint other than—
 
@@ -189,7 +189,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 - (a) in the case of a complaint made under section 334(1)(a) (complaint by person subject to service law), as if it were a complaint made under section 340A(1); and
 - (b) in the case of a complaint made under section 334(1)(b) (complaint by person who has ceased to be subject to service law), as if it were a complaint made under section 340A(2).
 
-### 7. Application of the new complaints provisions to Part 3 complaints[^key-256109018ac3fce16f012d5b669505db]
+### 7. Application of the new complaints provisions to Part 3 complaints[^c-256109018ac3fce16f012d5b669505db]
 
 (1) Paragraphs (2) to (14) make provision about the application of the new complaints provisions to a Part 3 complaint.
 
@@ -231,7 +231,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 (14) In this regulation, “the draft Regulations” means the Armed Forces (Service Complaints Miscellaneous Provisions) Regulations 2015[^f00011] laid in draft before Parliament under section 373(3) on 28th October 2015 for approval by resolution of each House of Parliament.
 
-### 8. Part 3 complaint refused at an initial stage[^key-080fb16e0d277397889002eb723b6ff6]
+### 8. Part 3 complaint refused at an initial stage[^c-080fb16e0d277397889002eb723b6ff6]
 
 (1) Paragraphs (2) and (3) apply to a Part 3 complaint that, but for regulation 3(2) of these Regulations (pre-commencement complaints refused at an initial stage after 1st October 2015 are not finalised complaints), would be a finalised complaint because it has been refused at an initial stage before the commencement date.
 
@@ -239,7 +239,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 (3) New regulation 7(2) (time limit for asking the Ombudsman to review a decision that a complaint is not admissible) applies to the complaint as if the reference to four weeks were to three months.
 
-### 9. Part 3 complaint approved at the initial stage but a first substantive decision has not been notified[^key-69854ba8ffa0d25414164a1188d567d0]
+### 9. Part 3 complaint approved at the initial stage but a first substantive decision has not been notified[^c-69854ba8ffa0d25414164a1188d567d0]
 
 (1) Paragraph (2) applies if, before the commencement date, a Part 3 complaint has been approved at the initial stage but the first substantive decision has not been notified to the complainant.
 
@@ -254,7 +254,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 - (a) the statement of complaint was delivered within the period provided for in old regulations 15 to 17; or
 - (b) the service complaint may be made after the end of that period by virtue of old regulation 18.
 
-### 10. Part 3 complaint where a first substantive decision has been notified but no application for referral has been made[^key-0c29f0ab80a706186760527e18aba7b4]
+### 10. Part 3 complaint where a first substantive decision has been notified but no application for referral has been made[^c-0c29f0ab80a706186760527e18aba7b4]
 
 (1) Paragraph (4) applies in relation to a Part 3 complaint if, immediately before the commencement date, condition A or B is satisfied.
 
@@ -272,7 +272,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 (4) The decision of the prescribed or superior officer is to be treated as if it were a decision of a person or panel of persons under new regulation 9(2), notified to the complainant under new regulation 9(3).
 
-### 11. Part 3 complaint where a first substantive decision has been notified and an application for referral has been made[^key-743801fdf43059a0dfd15bef2d1a4c6c]
+### 11. Part 3 complaint where a first substantive decision has been notified and an application for referral has been made[^c-743801fdf43059a0dfd15bef2d1a4c6c]
 
 (1) Paragraphs (4) and (5) apply in relation to a Part 3 complaint if, immediately before the commencement date, condition A or B is satisfied.
 
@@ -294,7 +294,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 (5) The application made by the complainant under old regulation 21(a) or 25(a) is to be treated as if it were an appeal under new regulation 10(1) against the decision under new regulation 9(2), in relation to which the Defence Council must decide, under new regulation 11, whether the appeal can be proceeded with.
 
-### 12. Part 3 complaint where a first substantive decision has been notified, an application for referral has been made and the prescribed or superior officer has agreed to make the referral[^key-453c0394928e505165b6eaa79dec8051]
+### 12. Part 3 complaint where a first substantive decision has been notified, an application for referral has been made and the prescribed or superior officer has agreed to make the referral[^c-453c0394928e505165b6eaa79dec8051]
 
 (1) Paragraphs (4) and (5) apply in relation to a Part 3 complaint if, immediately before the commencement date, condition A or B is satisfied.
 
@@ -323,7 +323,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 ## PART 4 — Additional transitional and savings provisions
 
-### 13. Applications to the Ombudsman to investigate in relation to finalised complaints made by officers where there has been a Defence Council decision[^key-baabcb816d712aa6ba31921133077f7f]
+### 13. Applications to the Ombudsman to investigate in relation to finalised complaints made by officers where there has been a Defence Council decision[^c-baabcb816d712aa6ba31921133077f7f]
 
 (1) This regulation applies in relation to a finalised complaint of the type described in regulation 3(1)(d) of these Regulations (decision made by the Defence Council, or a service complaint panel, notified to the complainant) made by a section 337 complainant.
 
@@ -331,9 +331,9 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 (3) Sections 340H to 340M (investigations by the Ombudsman and reports on investigations), and provisions made under them, apply in relation to an application made under paragraph (2) as if that application were made in respect of a Part 2 complaint (this paragraph is subject to paragraph (4)).
 
-(4) Regulation 4 of the Armed Forces Commissioner (Service Complaints) Regulations 2026 (time limits for making an application to the Commissioner)[^key-dff6061ca1c64fc9ec09f544c1dc9335] does not apply to a complaint to which this regulation applies.
+(4) Regulation 4 of the Armed Forces Commissioner (Service Complaints) Regulations 2026 (time limits for making an application to the Commissioner)[^c-dff6061ca1c64fc9ec09f544c1dc9335] does not apply to a complaint to which this regulation applies.
 
-### 14. Reference of grievances to Her Majesty in relation to complaints by officers[^key-cc782d5ad04ddf9d6b235aaf24cde3ff]
+### 14. Reference of grievances to Her Majesty in relation to complaints by officers[^c-cc782d5ad04ddf9d6b235aaf24cde3ff]
 
 (1) This regulation applies in relation to a—
 
@@ -351,7 +351,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 > (3) Condition B is that the service complaint has been finally determined (within the meaning of section 340H(5)).
 
-### 15. Allegations under section 338 to be treated as allegations under section 340N[^key-d6b238726f264f6ebdcb54a2b30c1efc]
+### 15. Allegations under section 338 to be treated as allegations under section 340N[^c-d6b238726f264f6ebdcb54a2b30c1efc]
 
 (1) Where, immediately before the commencement date, the Service Complaints Commissioner has under consideration the question of whether to refer an allegation to the relevant officer under section 338(2), the Service Complaints Ombudsman is to consider whether to refer the allegation to the appropriate officer under section 340N(1).
 
@@ -364,7 +364,7 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
 (4) In relation to an allegation to which paragraph (3) applies, the requirements in section 340N(3)(a) and (b) (steps to be taken by the appropriate officer following the referral of an allegation) are to be treated as having been complied with to the extent that the relevant officer complied with the equivalent provisions in section 338(3)(a) and (b) before the commencement date.
 
-### 16. Annual report for 2015[^key-0d51f126b6bf0af100ac38f3550a2fb5]
+### 16. Annual report for 2015[^c-0d51f126b6bf0af100ac38f3550a2fb5]
 
 (1) The Service Complaints Ombudsman must prepare an annual report under section 340O(1) for the calendar year 2015.
 
@@ -377,11 +377,11 @@ These Regulations may be cited as the Armed Forces (Service Complaints and Finan
 
   .
 
-### 17. Transfer of property, rights and obligations from the Commissioner to the Ombudsman[^key-92c8ba1e868a7a9165a335015912a586]
+### 17. Transfer of property, rights and obligations from the Commissioner to the Ombudsman[^c-92c8ba1e868a7a9165a335015912a586]
 
 The property, rights and liabilities of the Service Complaints Commissioner immediately before the commencement date transfer to the Service Complaints Ombudsman.
 
-### 18. Consequential amendments and revocations made by the Armed Forces (Service Complaints and Financial Assistance) Act 2015[^key-21c33259cb0b5cc50768e762308f73af]
+### 18. Consequential amendments and revocations made by the Armed Forces (Service Complaints and Financial Assistance) Act 2015[^c-21c33259cb0b5cc50768e762308f73af]
 
 (1) The amendments and revocations made by section 3 of, and the Schedule to, the Armed Forces (Service Complaints and Financial Assistance) Act 2015 (“the 2015 Act”) are of no effect in relation to a pre-commencement complaint.
 
@@ -426,9 +426,9 @@ The Regulations are also available by writing to CDP Secretariat, Service Compla
 
 [^f00001]: Footnote: [2015 c. 19](https://www.legislation.gov.uk/ukpga/2015/19).
 
-[^key-8f31f0e6602d80887944c656a2a2dc88]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-8f31f0e6602d80887944c656a2a2dc88]: Commencement: Reg. 1 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-5bf6bd3483526946bc45462d338682ba]: Commencement: Reg. 2 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-5bf6bd3483526946bc45462d338682ba]: Commencement: Reg. 2 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
 [^f00002]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Sections 335 and 336 were amended by, and section 336A was inserted by, the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), section 20. Sections 334 to 339 and 366 are repealed by sections 1(3) and 2(2) of the Armed Forces (Services Complaints and Financial Assistance) Act [2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19). Section 1(1) of the 2015 Act inserts section 365B into the 2006 Act and section 2(1) inserts Part 14A (sections 340A to 340O). Section 3 of, and the Schedule to, the 2015 Act amends section 373 and 374 of the 2006 Act and repeals section 20 of the 2011 Act; see in particular paragraphs 9 to 11 and 16 of the Schedule to the 2015 Act. In relation to the commencement of sections 1 to 3 of, and the Schedule to, the 2015 Act, see [S.I. 2015/1957](https://www.legislation.gov.uk/uksi/2015/1957).
 
@@ -440,48 +440,48 @@ The Regulations are also available by writing to CDP Secretariat, Service Compla
 
 [^f00006]: Footnote: These Regulations were made on 19th December 2007 by the Defence Council. They are not a statutory instrument.
 
-[^key-1c91dafe5eab99d6276469e1cad3b23b]: Commencement: Reg. 3 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-1c91dafe5eab99d6276469e1cad3b23b]: Commencement: Reg. 3 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-001b6ac8683ffd97d65f809685e4117d]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-001b6ac8683ffd97d65f809685e4117d]: Commencement: Reg. 4 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-cb690592412c148eaea45c7596f8676d]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-cb690592412c148eaea45c7596f8676d]: Commencement: Reg. 5 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2007/3352](https://www.legislation.gov.uk/uksi/2007/3352).
 
-[^key-837a8196402bc1350314e6219fa73b59]: Textual amendment: Words in [reg. 5(10)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/5/10) substituted (1.4.2026) by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11))
+[^c-837a8196402bc1350314e6219fa73b59]: Textual amendment: Words in [reg. 5(10)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/5/10) substituted (1.4.2026) by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11))
 
-[^key-5488f72c67a3a5458cad6a6c9fdf692e]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-5488f72c67a3a5458cad6a6c9fdf692e]: Commencement: Reg. 6 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
 [^f00009]: Footnote: For the definition of “the new complaints provisions”, see section 6(5) of the Armed Forces (Service Complaints and Financial Assistance) Act [2015 (c. 19)](https://www.legislation.gov.uk/ukpga/2015/19).
 
-[^key-256109018ac3fce16f012d5b669505db]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-256109018ac3fce16f012d5b669505db]: Commencement: Reg. 7 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
 [^f00010]: Footnote: [S.I. 2007/3353](https://www.legislation.gov.uk/uksi/2007/3353).
 
 [^f00011]: Footnote: ISBN 9780111140222. The draft Regulations are printed and published by The Stationery Office. They are available on legislation.gov.uk (link: http://www.legislation.gov.uk/ukdsi/2015/9780111140222/pdfs/ukdsi\_9780111140222\_en.pdf) or may be purchased from booksellers which sell draft statutory instruments.
 
-[^key-080fb16e0d277397889002eb723b6ff6]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-080fb16e0d277397889002eb723b6ff6]: Commencement: Reg. 8 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-69854ba8ffa0d25414164a1188d567d0]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-69854ba8ffa0d25414164a1188d567d0]: Commencement: Reg. 9 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-0c29f0ab80a706186760527e18aba7b4]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-0c29f0ab80a706186760527e18aba7b4]: Commencement: Reg. 10 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-743801fdf43059a0dfd15bef2d1a4c6c]: Commencement: Reg. 11 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-743801fdf43059a0dfd15bef2d1a4c6c]: Commencement: Reg. 11 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-453c0394928e505165b6eaa79dec8051]: Commencement: Reg. 12 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-453c0394928e505165b6eaa79dec8051]: Commencement: Reg. 12 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-baabcb816d712aa6ba31921133077f7f]: Commencement: Reg. 13 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-baabcb816d712aa6ba31921133077f7f]: Commencement: Reg. 13 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-dff6061ca1c64fc9ec09f544c1dc9335]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/13/4) substituted (1.4.2026) by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11))
+[^c-dff6061ca1c64fc9ec09f544c1dc9335]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2015/1969/regulation/13/4) substituted (1.4.2026) by [The Armed Forces Commissioner (Service Complaints Investigations) Regulations 2026 (S.I. 2026/24)](https://www.legislation.gov.uk/uksi/2026/24), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/24/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2026/24/regulation/12/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/24/regulation/11))
 
-[^key-cc782d5ad04ddf9d6b235aaf24cde3ff]: Commencement: Reg. 14 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-cc782d5ad04ddf9d6b235aaf24cde3ff]: Commencement: Reg. 14 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-d6b238726f264f6ebdcb54a2b30c1efc]: Commencement: Reg. 15 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-d6b238726f264f6ebdcb54a2b30c1efc]: Commencement: Reg. 15 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-0d51f126b6bf0af100ac38f3550a2fb5]: Commencement: Reg. 16 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-0d51f126b6bf0af100ac38f3550a2fb5]: Commencement: Reg. 16 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-92c8ba1e868a7a9165a335015912a586]: Commencement: Reg. 17 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-92c8ba1e868a7a9165a335015912a586]: Commencement: Reg. 17 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
-[^key-21c33259cb0b5cc50768e762308f73af]: Commencement: Reg. 18 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
+[^c-21c33259cb0b5cc50768e762308f73af]: Commencement: Reg. 18 in force at 1.1.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/1969/regulation/1)
 
 [^f00012]: Footnote: [1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Parenting orders: local authorities and registered social landlords[^key-d4cf54882fb9c2bc44a2bb29ab4d89ac]
+## 24. Parenting orders: local authorities and registered social landlords[^c-d4cf54882fb9c2bc44a2bb29ab4d89ac]
 
 *Extent: E+W*
 
@@ -124,4 +124,4 @@ In Part 3 of the Anti-social Behaviour Act 2003 (c. 38) (parental responsibiliti
 
 ## Annotations
 
-[^key-d4cf54882fb9c2bc44a2bb29ab4d89ac]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2006/48/section/24) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)
+[^c-d4cf54882fb9c2bc44a2bb29ab4d89ac]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2006/48/section/24) in force at 1.8.2007 for E. by [S.I. 2007/1614](https://www.legislation.gov.uk/uksi/2007/1614), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/1614/article/3/a)

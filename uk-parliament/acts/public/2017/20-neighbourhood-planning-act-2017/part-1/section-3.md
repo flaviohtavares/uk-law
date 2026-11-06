@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Status of approved neighbourhood development plan[^key-d7856b8bcf329fe65857b352ffc92056]
+## 3. Status of approved neighbourhood development plan[^c-d7856b8bcf329fe65857b352ffc92056]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 38 of the Planning and Compulsory Purchase Act 2004 (development plan
 
 ## Annotations
 
-[^key-d7856b8bcf329fe65857b352ffc92056]: Commencement: S. 3 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/b)
+[^c-d7856b8bcf329fe65857b352ffc92056]: Commencement: S. 3 in force at 19.7.2017 by [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 12. Appeals to the Privy Council[^key-006dd7c717d0956984ce7058ca01c97d]
+## 12. Appeals to the Privy Council[^c-006dd7c717d0956984ce7058ca01c97d]
 
 *Extent: E*
 
@@ -52,4 +52,4 @@ the Commissioners shall seal a copy of the draft scheme and so make the scheme.
 
 ## Annotations
 
-[^key-006dd7c717d0956984ce7058ca01c97d]: Commencement: S. 12 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-006dd7c717d0956984ce7058ca01c97d]: Commencement: S. 12 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

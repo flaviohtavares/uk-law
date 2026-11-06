@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Interpretation[^key-52170e8567f019312f384afd16bb4f66]
+## 3. Interpretation[^c-52170e8567f019312f384afd16bb4f66]
 
 *Extent: S*
 
@@ -46,7 +46,7 @@ In these Regulations—
 - “active member’s account” has the meaning given in regulation 48;
 - “actuarial”, in relation to a calculation or value, means determined by, or in accordance with tables or guidance prepared by, the scheme actuary;
 - “actuarial adjustment” has the meaning given in Chapter 7 of Part 4;
-- [^key-b21bebfcdf4ec875e33e1baa218a84f7]...
+- [^c-b21bebfcdf4ec875e33e1baa218a84f7]...
 - “additional pension” means—
   - (a) additional (self only) pension; or
   - (b) additional (surviving adult) pension;
@@ -64,7 +64,7 @@ In these Regulations—
   - (b) for a member who is in pensionable service in relation to a part-time employment or more than one employment, the member’s full-time equivalent annual rate of pensionable earnings;
 - “balance of contributions” means the amount of contributions repayable under regulation 183;
 - “buy-out contributions” has the meaning given in Part 1 of Schedule 2;
-- “[^key-7e9efdb9dc6956980ec093e0ce40dcdc]**carer’s leave**” means leave under section 80J of the Employment Rights Act 1996;
+- “[^c-7e9efdb9dc6956980ec093e0ce40dcdc]**carer’s leave**” means leave under section 80J of the Employment Rights Act 1996;
 - “cash transfer sum” has the meaning given in section 101AB of PSA 1993[^f00011];
 - “child pension” means a pension payable under regulation 146;
 - “closing date”, in relation to a transition member, has the meaning given in Schedule 3;
@@ -115,7 +115,7 @@ In these Regulations—
 - “leaver PIA index adjustment” has the meaning given in Part 4;
 - “maternity leave” means ordinary maternity leave or additional maternity leave within the meaning of the Maternity and Parental Leave etc. Regulations 1999[^f00012];
 - “member”, in relation to this scheme, means an active member, deferred member, pensioner member or pension credit member;
-- “non-pensionable family leave” means a period of adoption leave, maternity leave, parental leave , parental bereavement leave[^key-8633cf6f3733f9357a8d3d11700bca17], paternity leave ,[^key-16d2bbee61f0be8a4e805bfba131fb6c] additional paternity leave or carer’s leave[^key-5b64175b632f50ae52104ab770efbdbb] during which the employee—
+- “non-pensionable family leave” means a period of adoption leave, maternity leave, parental leave , parental bereavement leave[^c-8633cf6f3733f9357a8d3d11700bca17], paternity leave ,[^c-16d2bbee61f0be8a4e805bfba131fb6c] additional paternity leave or carer’s leave[^c-5b64175b632f50ae52104ab770efbdbb] during which the employee—
   - (a) does not receive any statutory pay; and
   - (b) is not paid a salary or is paid less than half the salary;
 - “non-pensionable sick leave” means a period of sick leave taken by an employee with the consent of the employer, during which the employee—
@@ -129,7 +129,7 @@ In these Regulations—
 - “occupational pension scheme” has the meaning given in section 1 of PSA 1993;
 - “opening balance”, in relation to earned pension or transferred pension, has the meaning given in regulation 52;
 - “opening balance”, in relation to additional pension, has the meaning given in regulation 57;
-- “parental bereavement leave” has the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;[^key-67e91f681a6e7ade7a43be286c898cc4]
+- “parental bereavement leave” has the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;[^c-67e91f681a6e7ade7a43be286c898cc4]
 - “parental leave” means leave within the meaning of Part 3 of the Maternity and Parental Leave etc. Regulations 1999;
 - “part-time”, in relation to employment, has the meaning given in regulation 15(b);
 - “paternity leave” means leave under regulation 4 or 8 of the Paternity and Adoption Leave Regulations 2002[^f00013];
@@ -174,7 +174,7 @@ In these Regulations—
 - “scheme closing date” has the meaning given in Part 1 of Schedule 3;
 - “scheme manager” has the meaning given in Part 2;
 - “sending scheme” means a pension scheme to which an application is made for payment of a transfer value or club transfer value;
-- “shared parental leave” means leave by virtue of section 75E or 75G of the Employment Rights Act 1996;[^key-ad0298ac0ef9ac0636f2ba46602b787e]
+- “shared parental leave” means leave by virtue of section 75E or 75G of the Employment Rights Act 1996;[^c-ad0298ac0ef9ac0636f2ba46602b787e]
 - “short-service serious-ill health grant” means a grant payable under Chapter 7 of Part 5;
 - “standard accrual rate”, in relation to a member’s pensionable earnings, means 1/57th;
 - “standard contributions” means contributions payable under regulation 179(1) for standard earned pension;
@@ -184,7 +184,7 @@ In these Regulations—
 - “standard rate”, in relation to interest, means the Superannuation Contributions Adjusted for Past Experience discount rate set by the Treasury;
 - “standard reduction” has the meaning given in Chapter 7 of Part 4;
 - “statutory pay” means—
-  - (a) statutory adoption pay, statutory maternity pay statutory parental bereavement pay[^key-49dc71402e2f76c02dd31834b73d2c5c] or statutory paternity pay within the meaning of the Social Security Contributions and Benefits Act 1992[^f00014]; or
+  - (a) statutory adoption pay, statutory maternity pay statutory parental bereavement pay[^c-49dc71402e2f76c02dd31834b73d2c5c] or statutory paternity pay within the meaning of the Social Security Contributions and Benefits Act 1992[^f00014]; or
   - (b) additional statutory paternity pay within the meaning given in regulation 2(1) of the Additional Statutory Paternity Pay (General) Regulations 2010[^f00015];
 - “surviving adult” has the meaning given in regulation 131;
 - “surviving adult pension” means a pension payable under regulation 139;
@@ -212,7 +212,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-52170e8567f019312f384afd16bb4f66]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-52170e8567f019312f384afd16bb4f66]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
 
 [^f00002]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -228,29 +228,29 @@ In these Regulations—
 
 [^f00008]: Footnote: [S.S.I. 2005/393](https://www.legislation.gov.uk/ssi/2005/393).
 
-[^key-b21bebfcdf4ec875e33e1baa218a84f7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/97/regulation/3/a)
+[^c-b21bebfcdf4ec875e33e1baa218a84f7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/97/regulation/3/a)
 
 [^f00010]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
-[^key-7e9efdb9dc6956980ec093e0ce40dcdc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2024/266/regulation/7/2/a)
+[^c-7e9efdb9dc6956980ec093e0ce40dcdc]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2024/266/regulation/7/2/a)
 
 [^f00011]: Footnote: Section 101AB was inserted by the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35), section 264.
 
 [^f00012]: Footnote: [S.I. 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312) to which there are amendments not relevant to these Regulations.
 
-[^key-8633cf6f3733f9357a8d3d11700bca17]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/2/a)
+[^c-8633cf6f3733f9357a8d3d11700bca17]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/2/a)
 
-[^key-16d2bbee61f0be8a4e805bfba131fb6c]: Textual amendment: Comma in reg. 3 substituted for word (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/266/regulation/7/2/b/i)
+[^c-16d2bbee61f0be8a4e805bfba131fb6c]: Textual amendment: Comma in reg. 3 substituted for word (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [7(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/266/regulation/7/2/b/i)
 
-[^key-5b64175b632f50ae52104ab770efbdbb]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/266/regulation/7/2/b/ii)
+[^c-5b64175b632f50ae52104ab770efbdbb]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [7(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/266/regulation/7/2/b/ii)
 
-[^key-67e91f681a6e7ade7a43be286c898cc4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/2/b)
+[^c-67e91f681a6e7ade7a43be286c898cc4]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/2/b)
 
 [^f00013]: Footnote: [S.I. 2002/2788](https://www.legislation.gov.uk/uksi/2002/2788).
 
-[^key-ad0298ac0ef9ac0636f2ba46602b787e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) added (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/97/regulation/3/b)
+[^c-ad0298ac0ef9ac0636f2ba46602b787e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) added (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/97/regulation/3/b)
 
-[^key-49dc71402e2f76c02dd31834b73d2c5c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(2)(c)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/2/c)
+[^c-49dc71402e2f76c02dd31834b73d2c5c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/292/regulation/3) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [34(2)(c)](https://www.legislation.gov.uk/uksi/2020/354/regulation/34/2/c)
 
 [^f00014]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 

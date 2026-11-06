@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Trade licences[^key-e13bf90f45c4fcac95014a1bc3ff1ec7]
+## 49. Trade licences[^c-e13bf90f45c4fcac95014a1bc3ff1ec7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The prohibitions in Chapters 1 and 2 of Part 5 (Trade), regulation 35 (transport
 
 ## Annotations
 
-[^key-e13bf90f45c4fcac95014a1bc3ff1ec7]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-e13bf90f45c4fcac95014a1bc3ff1ec7]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

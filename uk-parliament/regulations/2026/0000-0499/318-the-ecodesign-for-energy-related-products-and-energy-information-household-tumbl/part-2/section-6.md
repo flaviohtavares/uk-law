@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Conformity assessment[^key-21bb5cb66e18ed7a1bf9f13da5b3d356]
+## 6. Conformity assessment[^c-21bb5cb66e18ed7a1bf9f13da5b3d356]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21bb5cb66e18ed7a1bf9f13da5b3d356]: Commencement: Reg. 6 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-21bb5cb66e18ed7a1bf9f13da5b3d356]: Commencement: Reg. 6 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
 
 [^f00010]: Footnote: See [paragraph 1](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1A/paragraph/1) [(2)](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1A/paragraph/1) of [Schedule 1A](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1A) to [the 2010 Regulations](https://www.legislation.gov.uk/uksi/2010/2617/contents) for the meaning of “technical documentation”. [Schedule 1A](https://www.legislation.gov.uk/uksi/2010/2617/schedule/1A) was inserted by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539/contents).

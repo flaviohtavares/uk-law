@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.190. Duty to keep court informed[^key-a0bc99a647f80eadb4232e519ea4a418]
+## 4.190. Duty to keep court informed[^c-a0bc99a647f80eadb4232e519ea4a418]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The liquidator shall notify the court from time to time as to the persons to who
 
 ## Annotations
 
-[^key-a0bc99a647f80eadb4232e519ea4a418]: Commencement: [Rule 4.190](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.190) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a0bc99a647f80eadb4232e519ea4a418]: Commencement: [Rule 4.190](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.190) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

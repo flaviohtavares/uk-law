@@ -24,8 +24,8 @@ summary: ''
 
 (2) The discrete periods of pensionable service as an officer that are subject to comparison are any periods of—
 
-- (a) up to 10 years of pensionable service as an officer before first becoming a [^key-c86feac86aa91ffe6218788a52c7d193]... practitioner,
-- (b) more than 10 years of pensionable service as an officer before first becoming a [^key-c86feac86aa91ffe6218788a52c7d193]... practitioner,
+- (a) up to 10 years of pensionable service as an officer before first becoming a [^c-c86feac86aa91ffe6218788a52c7d193]... practitioner,
+- (b) more than 10 years of pensionable service as an officer before first becoming a [^c-c86feac86aa91ffe6218788a52c7d193]... practitioner,
 - (c) up to 1 year of employment as an officer after last ceasing to be a practitioner,
 - (d) more than 1 year of employment as an officer after ceasing to be a practitioner,
 - (e) less than 1 year of pensionable service as an officer concurrently with pensionable service as a practitioner, and
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c86feac86aa91ffe6218788a52c7d193]: Textual amendment: Words in [reg. 4.B.1(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.1/2/b) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [96](https://www.legislation.gov.uk/uksi/2009/2446/regulation/96)
+[^c-c86feac86aa91ffe6218788a52c7d193]: Textual amendment: Words in [reg. 4.B.1(2)(a)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/4.B.1/2/b) omitted (1.10.2009) by virtue of [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [96](https://www.legislation.gov.uk/uksi/2009/2446/regulation/96)

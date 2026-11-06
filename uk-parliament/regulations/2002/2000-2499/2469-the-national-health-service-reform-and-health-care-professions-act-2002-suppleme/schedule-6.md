@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — ENACTMENTS WHERE AFTER “HEALTH AUTHORITY” THERE IS INSERTED “, PRIMARY CARE TRUST”[^key-9b6845c19d969e89c3d33ff00ce2fe87]
+## SCHEDULE 6 — ENACTMENTS WHERE AFTER “HEALTH AUTHORITY” THERE IS INSERTED “, PRIMARY CARE TRUST”[^c-9b6845c19d969e89c3d33ff00ce2fe87]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ Regulation 9
 
 ## Annotations
 
-[^key-9b6845c19d969e89c3d33ff00ce2fe87]: Commencement: Sch. 6 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-9b6845c19d969e89c3d33ff00ce2fe87]: Commencement: Sch. 6 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00198]: Footnote: [S.I. 1983/942](https://www.legislation.gov.uk/uksi/1983/942), amended by [S.I. 1996/314](https://www.legislation.gov.uk/uksi/1996/314).
 

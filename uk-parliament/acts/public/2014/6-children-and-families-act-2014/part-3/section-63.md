@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Fees for special educational provision at non-maintained schools and post-16 institutions[^key-cc9ca123fcd5afd63e00cbd37a577a21]
+## 63. Fees for special educational provision at non-maintained schools and post-16 institutions[^c-cc9ca123fcd5afd63e00cbd37a577a21]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc9ca123fcd5afd63e00cbd37a577a21]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2014/6/section/63) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-cc9ca123fcd5afd63e00cbd37a577a21]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2014/6/section/63) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

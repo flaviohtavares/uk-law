@@ -48,7 +48,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-61939ee94b28897c9bc35c07d9fc2318]
+### 1. Citation, commencement and interpretation[^c-61939ee94b28897c9bc35c07d9fc2318]
 
 (1) This Order may be cited as the Financial Services Act 2012 (Transitional Provisions) (Permission and Approval) Order 2013 and comes into force on 1st April 2013.
 
@@ -68,7 +68,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 2 — Permission to carry on regulated activities
 
-### 2. Permission[^key-ec1e9edac35b3bfddca18bb26f8bfad1]
+### 2. Permission[^c-ec1e9edac35b3bfddca18bb26f8bfad1]
 
 (1) Where, immediately before the commencement date, a person had a Part 4 permission to carry on a specified regulated activity or specified regulated activities, the person is to be treated as having permission to carry on that regulated activity or those regulated activities given by—
 
@@ -82,7 +82,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) the PRA under section 55F(4) if paragraph (1)(a) applies; or
 - (b) the FCA under section 55E(5) in any other case.
 
-### 3. Requirements[^key-b200e59ecb039fe36a6bfcf2dd2a9008]
+### 3. Requirements[^c-b200e59ecb039fe36a6bfcf2dd2a9008]
 
 (1) Paragraph (2) applies if, immediately before the commencement date, a person was subject to a requirement imposed or varied under any of the following provisions—
 
@@ -109,7 +109,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (6) The requirement is to be treated as it if had been imposed by the PRA if the person subject to the requirement is, on the commencement date, a PRA-authorised person.
 
-### 4. Prohibitions, restrictions and assets requirements[^key-77ba174e44f5496adcfec37810930854]
+### 4. Prohibitions, restrictions and assets requirements[^c-77ba174e44f5496adcfec37810930854]
 
 (1) Where a requirement which had effect immediately before the commencement date was an assets requirement within the meaning of section 48(3) (prohibitions and restrictions)—
 
@@ -130,9 +130,9 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) if the person on whom the requirement was imposed is, on the commencement date, a PRA-authorised person, the PRA; and
 - (b) in any other case, the FCA.
 
-(5)[^key-e073bebb6357f854845ec0170f6860bb] Where the requirement was imposed under section 196, a reference in this article to a provision in Part 4A is to be read as a reference to that provision as applied by section 196.
+(5)[^c-e073bebb6357f854845ec0170f6860bb] Where the requirement was imposed under section 196, a reference in this article to a provision in Part 4A is to be read as a reference to that provision as applied by section 196.
 
-### 5. Applications made before the commencement date to vary or cancel a requirement[^key-279d9c5cc1b885164ff974a2b56be64c]
+### 5. Applications made before the commencement date to vary or cancel a requirement[^c-279d9c5cc1b885164ff974a2b56be64c]
 
 (1) Paragraph (2) applies if before the commencement date—
 
@@ -146,7 +146,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) to the PRA under section 55M(5) if the person is, on the commencement date, a PRA-authorised person, and
 - (b) to the FCA under section 55L(5) in any other case.
 
-### 6. Variation of permission at request of authorised person[^key-a29d815039b47c06d2a048523dd30432]
+### 6. Variation of permission at request of authorised person[^c-a29d815039b47c06d2a048523dd30432]
 
 (1) Paragraph (2) applies if before the commencement date—
 
@@ -164,31 +164,31 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (3) For the purposes of paragraph (1)(a), an application to vary or remove a limitation is to be treated as an application to vary a permission by varying the description of a regulated activity.
 
-### 7. Variation or cancellation of requirement in force before the commencement date[^key-61517de456e571371d342b7ebfc16aa9]
+### 7. Variation or cancellation of requirement in force before the commencement date[^c-61517de456e571371d342b7ebfc16aa9]
 
 (1) This article applies in respect of a requirement which is to be treated as if it had been imposed by the PRA by virtue of article 3 or 4.
 
-(2) Part 4A (permission to carry on regulated activities) applies to a requirement treated as imposed under that Part[^key-b6c2560f7be3f2ab27f7573af0f98172] with the following modifications—
+(2) Part 4A (permission to carry on regulated activities) applies to a requirement treated as imposed under that Part[^c-b6c2560f7be3f2ab27f7573af0f98172] with the following modifications—
 
 - (a) the FCA may vary or cancel the requirement with the consent of the PRA; and
 - (b) the PRA may vary or cancel the requirement with the consent of the FCA.
 
-(2A)[^key-ed325f123ef19b3e3921b3098be64e7e] Section 200 (rescission and variation of requirements) applies to a requirement imposed under section 196 with the following modifications—
+(2A)[^c-ed325f123ef19b3e3921b3098be64e7e] Section 200 (rescission and variation of requirements) applies to a requirement imposed under section 196 with the following modifications—
 
 - (a) the FCA may vary or rescind the requirement with the consent of the PRA; and
 - (b) the PRA may vary or rescind the requirement with the consent of the FCA.
 
-(3) But no consent is required for the purposes of paragraph (2) or (2A)[^key-dc7c26378c2564bb4632ffbb2e5b98f2] where—
+(3) But no consent is required for the purposes of paragraph (2) or (2A)[^c-dc7c26378c2564bb4632ffbb2e5b98f2] where—
 
-- (a) a regulator[^f00010] is exercising its own-initiative requirement power under section 55L or 55M or its power of intervention under section 196 (the power of intervention)[^key-ccbfa8882fb68eeee338616e414ef699]; and
+- (a) a regulator[^f00010] is exercising its own-initiative requirement power under section 55L or 55M or its power of intervention under section 196 (the power of intervention)[^c-ccbfa8882fb68eeee338616e414ef699]; and
 - (b) the variation is expressed to take effect immediately.
 
 (4) The PRA may, with the consent of the FCA, make a transfer election (see paragraphs (5) and (6)) in relation to a requirement or part of a requirement.
 
 (5) If the PRA makes a transfer election in relation to a requirement or part of a requirement—
 
-- (a) the requirement or part is to be treated as if it had been imposed by the FCA under section 55L or, where article 3(6) applies (see article 3(5)), section 196[^key-9b372c08cdf9b04845e659a5995c6f61]; and
-- (b) paragraph (2) or, as the case may be, (2A)[^key-864daa66a14601a7e4fdd74ec214b4f6] ceases to have effect in relation to the requirement or part.
+- (a) the requirement or part is to be treated as if it had been imposed by the FCA under section 55L or, where article 3(6) applies (see article 3(5)), section 196[^c-9b372c08cdf9b04845e659a5995c6f61]; and
+- (b) paragraph (2) or, as the case may be, (2A)[^c-864daa66a14601a7e4fdd74ec214b4f6] ceases to have effect in relation to the requirement or part.
 
 (6) A transfer election must—
 
@@ -202,13 +202,13 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (8) Consent may be given for the purposes of this article in relation to a class or description of requirements.
 
-### 8. Variation or cancellation on initiative of regulator[^key-3aa6aeafa579c97f9b7434e11765fac1]
+### 8. Variation or cancellation on initiative of regulator[^c-3aa6aeafa579c97f9b7434e11765fac1]
 
 (1) For the purposes of section 55J(1)(b) (variation or cancellation on initiative of regulator), the period of 12 months may include any period prior to the commencement date which at that time would have been counted as part of the period referred to in section 45(1)(b).
 
 (2) For the purposes of section 55K(1)(a) (investment firms: particular conditions that enable cancellation), the period of 6 months may include any period prior to the commencement date which at that time would have been counted as part of the period referred to in section 45(2A)(a).
 
-### 9. Exercise of power in support of overseas regulator[^key-a424a69dd1e273f3611f8694a8d917a7]
+### 9. Exercise of power in support of overseas regulator[^c-a424a69dd1e273f3611f8694a8d917a7]
 
 (1) Paragraph (2) applies if, before the commencement date, the Authority—
 
@@ -220,7 +220,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) the PRA if the person in relation to whom the own-initiative powers would be exercised is, on the commencement date, a PRA-authorised person; and
 - (b) to the FCA in any other case.
 
-### 10. Determination of applications[^key-bb219847d4dee55ae14bdaa0d0568a80]
+### 10. Determination of applications[^c-bb219847d4dee55ae14bdaa0d0568a80]
 
 (1) Paragraph (2) to (4) apply if, before the commencement date—
 
@@ -244,7 +244,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 - (a) the PRA if, on the date on which the permission or the variation has effect, the person to whom the notice was given is a PRA-authorised person; and
 - (b) the FCA in any other case.
 
-### 11. Notification of ESMA[^key-1d1e4f9af67ff227b0ba6e191018ec04]
+### 11. Notification of ESMA[^c-1d1e4f9af67ff227b0ba6e191018ec04]
 
 (1) Paragraph (2) applies if, before the commencement date, the Authority—
 
@@ -253,7 +253,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 (2) Section 55Z1[^f00012] (notification of ESMA) applies as if it required the FCA to notify the European Securities and Markets Authority of the giving or cancellation of the permission (as the case may be).
 
-### 12. Notification of EBA[^key-2f15484c7ad1a4952141bc96b6750883]
+### 12. Notification of EBA[^c-2f15484c7ad1a4952141bc96b6750883]
 
 (1) Paragraph (2) applies if, before the commencement date, the Authority—
 
@@ -264,7 +264,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 3 — Performance of regulated activities
 
-### 13. Approval for particular arrangements[^key-9a6e6c0697a56d209ec4a5092a5a1eec]
+### 13. Approval for particular arrangements[^c-9a6e6c0697a56d209ec4a5092a5a1eec]
 
 (1) Paragraph (2) applies if, immediately before the commencement date, the performance of controlled functions by a person was approved for the purposes of section 59[^f00015] (approval for particular arrangements).
 
@@ -307,7 +307,7 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 ## PART 4 — Lloyd’s (Part 19 of FSMA)
 
-### 14. The Society: authorisation and permission[^key-53a493670654a3f79097a08fd8c6dc8c]
+### 14. The Society: authorisation and permission[^c-53a493670654a3f79097a08fd8c6dc8c]
 
 The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s is to be treated as having Part 4A permission to carry on a regulated activity of any of the following kinds—
 
@@ -319,7 +319,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 ### CHAPTER 1 — EEA Passport rights (Schedule 3)
 
-#### 15. Firms qualifying for authorisation[^key-661ba7cd32ef94488c292fe03d3ef30b]
+#### 15. Firms qualifying for authorisation[^c-661ba7cd32ef94488c292fe03d3ef30b]
 
 (1) Paragraph (2) applies if, before the commencement date—
 
@@ -329,7 +329,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (2) Subject to section 34(1), the EEA firm is to be treated as qualifying for authorisation under Schedule 3 for the purpose of section 31[^f00024] (authorised persons).
 
-#### 16. Ending of authorisation of an EEA firm[^key-fb2d0e4fb4f3b0b0c1a9475ac68b3c1b]
+#### 16. Ending of authorisation of an EEA firm[^c-fb2d0e4fb4f3b0b0c1a9475ac68b3c1b]
 
 (1) Paragraph (2) applies if, before the commencement date—
 
@@ -339,7 +339,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (2) The request is to be treated as if it had been made to the PRA.
 
-#### 17. EEA firms seeking to establish a branch[^key-94ae59556d4ade2f4f6fc2830c3a8e6d]
+#### 17. EEA firms seeking to establish a branch[^c-94ae59556d4ade2f4f6fc2830c3a8e6d]
 
 (1) Paragraph (2) applies in relation to an EEA firm which, before the commencement date—
 
@@ -357,7 +357,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (5) The notification is a notification by the Authority of the applicable provisions sent in accordance with paragraph 13(2) of Schedule 3.
 
-#### 18. EEA firms seeking to provide services[^key-b06afb63c54209d4c89c803ce8354942]
+#### 18. EEA firms seeking to provide services[^c-b06afb63c54209d4c89c803ce8354942]
 
 (1) Paragraph (2) applies in relation to an EEA firm which, before the commencement date—
 
@@ -370,7 +370,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (4) The notification is a notification by the Authority of the applicable provisions sent in accordance with paragraph 14(2) of Schedule 3.
 
-#### 19. UK firm seeking to establish a branch[^key-7eb2fcf53edabb5d5a2a21535f8a97e7]
+#### 19. UK firm seeking to establish a branch[^c-7eb2fcf53edabb5d5a2a21535f8a97e7]
 
 (1) Paragraphs (2) to (4) apply if—
 
@@ -383,7 +383,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (4) Any notification of the applicable provisions (as mentioned in paragraph 19(5)(b)(i) of Schedule 3) sent by a home state regulator to the Authority before the commencement date is to be treated as if it had been sent to the PRA.
 
-#### 20. UK firm seeking to provide services[^key-fdc65d0a17f8598c154123fc45d80daa]
+#### 20. UK firm seeking to provide services[^c-fdc65d0a17f8598c154123fc45d80daa]
 
 (1) Paragraphs (2) and (3) apply if—
 
@@ -405,7 +405,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 ### CHAPTER 2 — Treaty rights (Schedule 4)
 
-#### 21. Treaty firms qualifying for authorisation[^key-9b20f1f6a943d3891b650263057cef94]
+#### 21. Treaty firms qualifying for authorisation[^c-9b20f1f6a943d3891b650263057cef94]
 
 (1) Paragraph (2) applies if, before the commencement date—
 
@@ -415,7 +415,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (2) Subject to section 35(1), the Treaty firm is to be treated as qualifying for authorisation under Schedule 4 for the purpose of section 31.
 
-#### 22. Ending of authorisation of a Treaty firm[^key-0b11722776741c92fbc6aba9d863cd6d]
+#### 22. Ending of authorisation of a Treaty firm[^c-0b11722776741c92fbc6aba9d863cd6d]
 
 (1) Paragraph (2) applies if, before the commencement date—
 
@@ -425,7 +425,7 @@ The society incorporated by Lloyd’s Act 1871[^f00019] by the name of Lloyd’s
 
 (2) The request is to be treated as if it had been made to the PRA.
 
-#### 23. Exercise of Treaty rights[^key-6d087a7005858bd99196723d98230345]
+#### 23. Exercise of Treaty rights[^c-6d087a7005858bd99196723d98230345]
 
 (1) Paragraph (2) applies if—
 
@@ -471,13 +471,13 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00001]: Footnote: [2012 c.21](https://www.legislation.gov.uk/ukpga/2012/21) (“the 2012 Act”).
 
-[^key-61939ee94b28897c9bc35c07d9fc2318]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/440/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-61939ee94b28897c9bc35c07d9fc2318]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/440/article/1) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00002]: Footnote: Section 117 of the 2012 Act defines “FSMA 2000” as meaning the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27 and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3 and Schedule, Part 1.
 
-[^key-ec1e9edac35b3bfddca18bb26f8bfad1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/440/article/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-ec1e9edac35b3bfddca18bb26f8bfad1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/440/article/2) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00004]: Footnote: Section 2A(2) of FSMA 2000 defines “the PRA” as meaning the Prudential Regulation Authority.
 
@@ -487,55 +487,55 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00007]: Footnote: Section 1A(2) of FSMA 2000 defines “the FCA” as meaning the Financial Conduct Authority.
 
-[^key-b200e59ecb039fe36a6bfcf2dd2a9008]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/440/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-b200e59ecb039fe36a6bfcf2dd2a9008]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/440/article/3) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00008]: Footnote: Section 44 was amended by the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), section 3.
 
 [^f00009]: Footnote: Section 45 was amended by the Financial Services Act 2010, section 3 and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
 
-[^key-77ba174e44f5496adcfec37810930854]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/440/article/4) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-77ba174e44f5496adcfec37810930854]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/440/article/4) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-e073bebb6357f854845ec0170f6860bb]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2013/440/article/4/5) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/2)
+[^c-e073bebb6357f854845ec0170f6860bb]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2013/440/article/4/5) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/2)
 
-[^key-279d9c5cc1b885164ff974a2b56be64c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/440/article/5) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-279d9c5cc1b885164ff974a2b56be64c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/440/article/5) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-a29d815039b47c06d2a048523dd30432]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/440/article/6) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-a29d815039b47c06d2a048523dd30432]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/440/article/6) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-61517de456e571371d342b7ebfc16aa9]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/440/article/7) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-61517de456e571371d342b7ebfc16aa9]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/440/article/7) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-b6c2560f7be3f2ab27f7573af0f98172]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/440/article/7/2) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/a)
+[^c-b6c2560f7be3f2ab27f7573af0f98172]: Textual amendment: Words in [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/440/article/7/2) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/a)
 
-[^key-ed325f123ef19b3e3921b3098be64e7e]: Textual amendment: [Art. 7(2A)](https://www.legislation.gov.uk/uksi/2013/440/article/7/2A) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/b)
+[^c-ed325f123ef19b3e3921b3098be64e7e]: Textual amendment: [Art. 7(2A)](https://www.legislation.gov.uk/uksi/2013/440/article/7/2A) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/b)
 
-[^key-dc7c26378c2564bb4632ffbb2e5b98f2]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/440/article/7/3) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/c/i)
+[^c-dc7c26378c2564bb4632ffbb2e5b98f2]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2013/440/article/7/3) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(c)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/c/i)
 
 [^f00010]: Footnote: Section 3A(2) of FSMA 2000 defines the regulators as the FCA and the PRA.
 
-[^key-ccbfa8882fb68eeee338616e414ef699]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2013/440/article/7/3/a) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/c/ii)
+[^c-ccbfa8882fb68eeee338616e414ef699]: Textual amendment: Words in [art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2013/440/article/7/3/a) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/c/ii)
 
-[^key-9b372c08cdf9b04845e659a5995c6f61]: Textual amendment: Words in [art. 7(5)(a)](https://www.legislation.gov.uk/uksi/2013/440/article/7/5/a) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/d/i)
+[^c-9b372c08cdf9b04845e659a5995c6f61]: Textual amendment: Words in [art. 7(5)(a)](https://www.legislation.gov.uk/uksi/2013/440/article/7/5/a) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(d)(i)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/d/i)
 
-[^key-864daa66a14601a7e4fdd74ec214b4f6]: Textual amendment: Words in [art. 7(5)(b)](https://www.legislation.gov.uk/uksi/2013/440/article/7/5/b) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/d/ii)
+[^c-864daa66a14601a7e4fdd74ec214b4f6]: Textual amendment: Words in [art. 7(5)(b)](https://www.legislation.gov.uk/uksi/2013/440/article/7/5/b) inserted (1.9.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 3) Order 2013 (S.I. 2013/1765)](https://www.legislation.gov.uk/uksi/2013/1765), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1765/article/1), [11(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2013/1765/article/11/3/d/ii)
 
-[^key-3aa6aeafa579c97f9b7434e11765fac1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/440/article/8) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-3aa6aeafa579c97f9b7434e11765fac1]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/440/article/8) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-a424a69dd1e273f3611f8694a8d917a7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/440/article/9) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-a424a69dd1e273f3611f8694a8d917a7]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/440/article/9) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-bb219847d4dee55ae14bdaa0d0568a80]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/440/article/10) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-bb219847d4dee55ae14bdaa0d0568a80]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/440/article/10) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-1d1e4f9af67ff227b0ba6e191018ec04]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/440/article/11) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-1d1e4f9af67ff227b0ba6e191018ec04]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/440/article/11) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00011]: Footnote: Section 54A was inserted by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and is substituted by the 2012 Act, section 11.
 
 [^f00012]: Footnote: Section 55Z1 is substituted by section 11.
 
-[^key-2f15484c7ad1a4952141bc96b6750883]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/440/article/12) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-2f15484c7ad1a4952141bc96b6750883]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/440/article/12) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00013]: Footnote: Section 54B was inserted by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916) and is substituted by the 2012 Act, section 11.
 
 [^f00014]: Footnote: Section 55Z2 is substituted by section 11.
 
-[^key-9a6e6c0697a56d209ec4a5092a5a1eec]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/440/article/13) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-9a6e6c0697a56d209ec4a5092a5a1eec]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/440/article/13) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00015]: Footnote: Section 59 is amended by the 2012 Act, section 14.
 
@@ -545,11 +545,11 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00018]: Footnote: Subsection (3A) is inserted by the 2012 Act, Schedule 5, paragraph 5.
 
-[^key-53a493670654a3f79097a08fd8c6dc8c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/440/article/14) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-53a493670654a3f79097a08fd8c6dc8c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/440/article/14) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00019]: Footnote: 34 & 35 Vict c. xxi. Section 315, which confers Part 4 permission on Lloyd’s is substituted by the 2012 Act, section 40.
 
-[^key-661ba7cd32ef94488c292fe03d3ef30b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/440/article/15) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-661ba7cd32ef94488c292fe03d3ef30b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/440/article/15) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00020]: Footnote: “EEA firm” is defined by section 425 of, and paragraph 5 of Schedule 3 to, FSMA 2000 an investment firm, a credit institution, a financial institution, certain types of insurance or reinsurance undertaking, an insurance intermediary, a UCITS management company or a person authorised under the emission allowance auctioning regulation. Section 425 was amended by [S.I. 2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [2006/2975](https://www.legislation.gov.uk/uksi/2006/2975), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253), [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906). Paragraph 5 is amended by [S.I. 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [2066](https://www.legislation.gov.uk/uksi/2003/2066), [2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [2006/3221](https://www.legislation.gov.uk/uksi/2006/3221), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906)
 
@@ -561,23 +561,23 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00024]: Footnote: Section 31 is amended by the 2012 Act, section 11.
 
-[^key-fb2d0e4fb4f3b0b0c1a9475ac68b3c1b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/440/article/16) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-fb2d0e4fb4f3b0b0c1a9475ac68b3c1b]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/440/article/16) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-94ae59556d4ade2f4f6fc2830c3a8e6d]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/440/article/17) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-94ae59556d4ade2f4f6fc2830c3a8e6d]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/440/article/17) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-b06afb63c54209d4c89c803ce8354942]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/440/article/18) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-b06afb63c54209d4c89c803ce8354942]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/440/article/18) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-7eb2fcf53edabb5d5a2a21535f8a97e7]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/440/article/19) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-7eb2fcf53edabb5d5a2a21535f8a97e7]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/440/article/19) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00025]: Footnote: Paragraph 19 was amended by [S.I.s 2003/1473](https://www.legislation.gov.uk/uksi/2003/1473) and [2066](https://www.legislation.gov.uk/uksi/2003/2066), [2004/3379](https://www.legislation.gov.uk/uksi/2004/3379), [2006/3221](https://www.legislation.gov.uk/uksi/2004/3221), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [3253](https://www.legislation.gov.uk/uksi/2007/3253), [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and is further amended by the 2012 Act, Schedule 4, Part 1, paragraph 10.
 
 [^f00026]: Footnote: Paragraph 18A is inserted by the 2012 Act, Schedule 4, Part 1, paragraph 9.
 
-[^key-fdc65d0a17f8598c154123fc45d80daa]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/440/article/20) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-fdc65d0a17f8598c154123fc45d80daa]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/440/article/20) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00027]: Footnote: Paragraph 20 was amended by [S.Is. 2001/1376](https://www.legislation.gov.uk/uksi/2001/1376), [2003/2066](https://www.legislation.gov.uk/uksi/2003/2066), [2007/126](https://www.legislation.gov.uk/uksi/2007/126) and [2011/1613](https://www.legislation.gov.uk/uksi/2011/1613) and [2012/1906](https://www.legislation.gov.uk/uksi/2012/1906) and is further amended by the 2012 Act, Schedule 4, Part 1, paragraph 11.
 
-[^key-9b20f1f6a943d3891b650263057cef94]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/440/article/21) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-9b20f1f6a943d3891b650263057cef94]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/440/article/21) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00028]: Footnote: “Treaty firm” is defined by section 425 of, and paragraph 1 of Schedule 4 to, FSMA 2000. Paragraph 1 was amended by the Financial Services Act 2010, section 24 and Schedule 2, Part 1, paragraph 35.
 
@@ -585,8 +585,8 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00030]: Footnote: Section 35 is amended by the 2012 Act, Schedule 4, Part 3, paragraph 28.
 
-[^key-0b11722776741c92fbc6aba9d863cd6d]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/440/article/22) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-0b11722776741c92fbc6aba9d863cd6d]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/440/article/22) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
-[^key-6d087a7005858bd99196723d98230345]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/440/article/23) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
+[^c-6d087a7005858bd99196723d98230345]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/440/article/23) in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/440/article/1/1)
 
 [^f00031]: Footnote: Paragraph 5 is amended by the 2012 Act, Schedule 4, Part 2, paragraph 26.

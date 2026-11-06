@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. General powers[^key-88e4bdf3b9040d8a86b1ffb42ca49091]
+## 23. General powers[^c-88e4bdf3b9040d8a86b1ffb42ca49091]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ without the written consent of the Scottish Ministers.
 
 ## Annotations
 
-[^key-88e4bdf3b9040d8a86b1ffb42ca49091]: Commencement: S. 23 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-88e4bdf3b9040d8a86b1ffb42ca49091]: Commencement: S. 23 in force at 3.10.2005 by [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)

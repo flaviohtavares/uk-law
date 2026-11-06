@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Directions relating to particular fires and emergencies[^key-b99a600fca13601dc327186bc23b025a][^key-daafcd90bb1a4e36a721a2d7a61b458b]
+## 10. Directions relating to particular fires and emergencies[^c-b99a600fca13601dc327186bc23b025a][^c-daafcd90bb1a4e36a721a2d7a61b458b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b99a600fca13601dc327186bc23b025a]: Commencement: S. 10 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-b99a600fca13601dc327186bc23b025a]: Commencement: S. 10 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-daafcd90bb1a4e36a721a2d7a61b458b]: Commencement: S. 10 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-daafcd90bb1a4e36a721a2d7a61b458b]: Commencement: S. 10 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

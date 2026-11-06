@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45.[^key-8d666ab485193826f0608122cabc3ed5]
+## 45.[^c-8d666ab485193826f0608122cabc3ed5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Article 7 is omitted.
 
 ## Annotations
 
-[^key-8d666ab485193826f0608122cabc3ed5]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8d666ab485193826f0608122cabc3ed5]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

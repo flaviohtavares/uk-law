@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Political Parties and European Political Foundations Regulations 2017 (revoked)[^key-3723cd0173f58558f253969b48797a7b]
+The European Political Parties and European Political Foundations Regulations 2017 (revoked)[^c-3723cd0173f58558f253969b48797a7b]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 24th April 2017
 
-[^key-3723cd0173f58558f253969b48797a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3723cd0173f58558f253969b48797a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3723cd0173f58558f253969b48797a7b]
+## 1. Citation and commencement[^c-3723cd0173f58558f253969b48797a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3723cd0173f58558f253969b48797a7b]
+## 2. Interpretation[^c-3723cd0173f58558f253969b48797a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Conditions governing the registration of an EUPP or an EUPF[^key-3723cd0173f58558f253969b48797a7b]
+## 3. Conditions governing the registration of an EUPP or an EUPF[^c-3723cd0173f58558f253969b48797a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Territorial extent[^key-3723cd0173f58558f253969b48797a7b]
+## 4. Territorial extent[^c-3723cd0173f58558f253969b48797a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Review[^key-3723cd0173f58558f253969b48797a7b]
+## 5. Review[^c-3723cd0173f58558f253969b48797a7b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3723cd0173f58558f253969b48797a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3723cd0173f58558f253969b48797a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3723cd0173f58558f253969b48797a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3723cd0173f58558f253969b48797a7b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3723cd0173f58558f253969b48797a7b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/474) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-3723cd0173f58558f253969b48797a7b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/474) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

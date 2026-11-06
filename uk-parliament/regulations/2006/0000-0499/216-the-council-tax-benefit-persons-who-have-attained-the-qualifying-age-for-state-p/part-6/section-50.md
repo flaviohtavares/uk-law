@@ -16,7 +16,7 @@ summary: ''
 
 ## 50. Date on which change of circumstances is to take effect
 
-(1) Except in cases where regulation 24 (disregard of changes in tax, contributions, etc) applies, and subject to regulation 8(3) of the Decisions and Appeals Regulations, and[^key-0fa6f3d81d3e2ad841809a164514014a] the following provisions of this regulation and regulation 51, a change of circumstances which affects entitlement to, or the amount of, council tax benefit (“change of circumstances”), shall take effect from the first day of the benefit week following the date on which the change actually occurs, and where that change is cessation of entitlement to any benefit under the benefit Acts, the date on which the change actually occurs shall be the day immediately following the last day of entitlement to that benefit.
+(1) Except in cases where regulation 24 (disregard of changes in tax, contributions, etc) applies, and subject to regulation 8(3) of the Decisions and Appeals Regulations, and[^c-0fa6f3d81d3e2ad841809a164514014a] the following provisions of this regulation and regulation 51, a change of circumstances which affects entitlement to, or the amount of, council tax benefit (“change of circumstances”), shall take effect from the first day of the benefit week following the date on which the change actually occurs, and where that change is cessation of entitlement to any benefit under the benefit Acts, the date on which the change actually occurs shall be the day immediately following the last day of entitlement to that benefit.
 
 (2) Subject to paragraph (3), where the change of circumstances is a change in the amount of council tax payable, it shall take effect from the day on which it actually occurs.
 
@@ -41,7 +41,7 @@ summary: ''
   - (i) a non-dependant took up residence in the claimant's dwelling; or
   - (ii) there has been a change of circumstances in respect of a non-dependant so that the amount of the deduction which falls to be made under regulation 42 increased.
 
-(11) Where this paragraph applies, the change of circumstances referred to in paragraph (10)(b)[^key-fb692cab8330095009ca12ee2cdfc13c] shall take effect from the effective date.
+(11) Where this paragraph applies, the change of circumstances referred to in paragraph (10)(b)[^c-fb692cab8330095009ca12ee2cdfc13c] shall take effect from the effective date.
 
 (12) In paragraph (11) but subject to paragraph (13), “**the effective date**” means—
 
@@ -56,10 +56,10 @@ summary: ''
 
 ## Annotations
 
-[^key-0fa6f3d81d3e2ad841809a164514014a]: Textual amendment: Words in reg. 50(1) substituted (24.9.2007) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2007 (S.I. 2007/2470)](https://www.legislation.gov.uk/uksi/2007/2470), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2470/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/2470/regulation/7/2)
+[^c-0fa6f3d81d3e2ad841809a164514014a]: Textual amendment: Words in reg. 50(1) substituted (24.9.2007) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2007 (S.I. 2007/2470)](https://www.legislation.gov.uk/uksi/2007/2470), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2470/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2007/2470/regulation/7/2)
 
 [^c1541615]: Marginal citation: Section 13 was amended by the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [section 127](https://www.legislation.gov.uk/ukpga/2003/26/section/127) and Schedule 7, paragraph 42; section 80 by the Local Government etc. (Scotland) Act 1994, section 180 and Schedule 13, paragraph 176(4).
 
 [^c1541616]: Marginal citation: Section 11 was amended by the [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [section 127](https://www.legislation.gov.uk/ukpga/2003/26/section/127) and Schedule 7, paragraph 41; section 79 by [S.S.I. 2005/51](https://www.legislation.gov.uk/ssi/2005/51).
 
-[^key-fb692cab8330095009ca12ee2cdfc13c]: Textual amendment: Words in reg. 50(11) inserted (2.10.2006) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/3), [18(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/18/3)
+[^c-fb692cab8330095009ca12ee2cdfc13c]: Textual amendment: Words in reg. 50(11) inserted (2.10.2006) by [Social Security (Miscellaneous Amendments) (No.4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/1/3), [18(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/18/3)

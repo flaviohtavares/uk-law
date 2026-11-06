@@ -32,9 +32,9 @@ summary: ''
 (3) For exceptions to the rule in subsection (1), see—
 
 - section 626 (exception for outright gifts between spouses or civil partners[^c19767081]),
-- section 627 (exceptions for certain types of income), and[^key-44cbdff6524b70652b2a7f41ff147900] [^key-c95abc2b80b686aac59e16d5bec2ee07]...
-- section 628 (exception for gifts to charities), [^key-5c092899ccdf8f446abe4c0c002fccf9]...
-- [^key-5c092899ccdf8f446abe4c0c002fccf9]...
+- section 627 (exceptions for certain types of income), and[^c-44cbdff6524b70652b2a7f41ff147900] [^c-c95abc2b80b686aac59e16d5bec2ee07]...
+- section 628 (exception for gifts to charities), [^c-5c092899ccdf8f446abe4c0c002fccf9]...
+- [^c-5c092899ccdf8f446abe4c0c002fccf9]...
 
 ## Annotations
 
@@ -42,8 +42,8 @@ summary: ''
 
 [^c19767081]: Textual amendment: Words in s. 624(3) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [reg. 187](https://www.legislation.gov.uk/uksi/2005/3229/regulation/187)
 
-[^key-44cbdff6524b70652b2a7f41ff147900]: Textual amendment: Word in [s. 624(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/624/3) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 4(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/4/a), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-44cbdff6524b70652b2a7f41ff147900]: Textual amendment: Word in [s. 624(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/624/3) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 4(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/4/a), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-c95abc2b80b686aac59e16d5bec2ee07]: Textual amendment: Words in s. 624(3) omitted (16.11.2017) (with effect in accordance with Sch. 8 para. 39 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/21/a)
+[^c-c95abc2b80b686aac59e16d5bec2ee07]: Textual amendment: Words in s. 624(3) omitted (16.11.2017) (with effect in accordance with Sch. 8 para. 39 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/8/paragraph/21/a)
 
-[^key-5c092899ccdf8f446abe4c0c002fccf9]: Textual amendment: Words in [s. 624(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/624/3) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 4(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/4/b), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-5c092899ccdf8f446abe4c0c002fccf9]: Textual amendment: Words in [s. 624(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/624/3) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 4(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/4/b), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Interest on overdue income tax deducted at source[^key-c49b6a6d92be0f6232e1fe84b6de893a][^key-08f2b8edb8128e01839e0a47a3ec6ee1][^key-47b930aa95564d243fa4201c6c8369e1]
+## 87. Interest on overdue income tax deducted at source[^c-c49b6a6d92be0f6232e1fe84b6de893a][^c-08f2b8edb8128e01839e0a47a3ec6ee1][^c-47b930aa95564d243fa4201c6c8369e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ but subsection (1) does not otherwise apply to the income tax.
 
 ## Annotations
 
-[^key-c49b6a6d92be0f6232e1fe84b6de893a]: Modification: S. 87 applied (1.1.2007) by [The Real Estate Investment Trusts (Assessment and Recovery of Tax) Regulations 2006 (S.I. 2006/2867)](https://www.legislation.gov.uk/uksi/2006/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2867/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2006/2867/regulation/10/4)
+[^c-c49b6a6d92be0f6232e1fe84b6de893a]: Modification: S. 87 applied (1.1.2007) by [The Real Estate Investment Trusts (Assessment and Recovery of Tax) Regulations 2006 (S.I. 2006/2867)](https://www.legislation.gov.uk/uksi/2006/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2867/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2006/2867/regulation/10/4)
 
-[^key-08f2b8edb8128e01839e0a47a3ec6ee1]: Modification: S. 87 applied by [The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964)](https://www.legislation.gov.uk/uksi/2006/964), [reg. 69Z33(4)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z33/4) (as inserted (6.4.2008) by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5))
+[^c-08f2b8edb8128e01839e0a47a3ec6ee1]: Modification: S. 87 applied by [The Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/964)](https://www.legislation.gov.uk/uksi/2006/964), [reg. 69Z33(4)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z33/4) (as inserted (6.4.2008) by [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5))
 
-[^key-47b930aa95564d243fa4201c6c8369e1]: Textual amendment: S. 87 substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 258](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/258) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-47b930aa95564d243fa4201c6c8369e1]: Textual amendment: S. 87 substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 258](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/258) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

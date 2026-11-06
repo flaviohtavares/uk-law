@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Lotting of large land holding[^key-69ff0d6bfc42f2acee0afd252efc48d9]
+## 4. Lotting of large land holding[^c-69ff0d6bfc42f2acee0afd252efc48d9]
 
 *Extent: S*
 
@@ -428,4 +428,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69ff0d6bfc42f2acee0afd252efc48d9]: Commencement: S. 4 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-69ff0d6bfc42f2acee0afd252efc48d9]: Commencement: S. 4 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

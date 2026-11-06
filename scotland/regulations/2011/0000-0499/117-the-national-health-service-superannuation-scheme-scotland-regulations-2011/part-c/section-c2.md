@@ -31,7 +31,7 @@ summary: ''
 (2) A member's pensionable service does not include—
 
 - (a) any period of employment in respect of which the Scottish Ministers have paid contributions to another occupational pension scheme in respect of the member;
-- (b)[^key-26fcb0745aabc84aecb15b6f8a5d5552] in the case of a member who has become entitled to a pension (including a preserved pension) any period taken into account—
+- (b)[^c-26fcb0745aabc84aecb15b6f8a5d5552] in the case of a member who has become entitled to a pension (including a preserved pension) any period taken into account—
   - (i) in determining the member’s entitlement to the pension in payment or, as the case may be, the preserved pension, or
   - (ii) in calculating the amount of that pension,
 
@@ -53,7 +53,7 @@ summary: ''
 
 and if the member's pensionable service exceeds these limits, the amount of the excess will be ignored.
 
-(5) Where the member has pensionable service in excess of the limits described in paragraph (4)[^key-ae7b13ebe25d18133299c36f21cac67b], the Scottish Ministers are to select those years, by reference to which the benefits are to be calculated, which produce the most favourable result to the member.
+(5) Where the member has pensionable service in excess of the limits described in paragraph (4)[^c-ae7b13ebe25d18133299c36f21cac67b], the Scottish Ministers are to select those years, by reference to which the benefits are to be calculated, which produce the most favourable result to the member.
 
 (6) If, when a member leaves pensionable employment or dies, a payment is made in respect of leave not taken—
 
@@ -62,14 +62,14 @@ and if the member's pensionable service exceeds these limits, the amount of the 
 
 (7) In order to calculate the length of a member's pensionable service, all periods of pensionable service will be added and each resulting period of 365 days (without regard to pensionable service on 29th February in a leap year) will be treated as one year.
 
-(8)[^key-9b8ef36a61d6c115ea3dbadd2cf05afc] In the case of a member entitled to a pension under regulation E11A (partial retirement pension), paragraph (2)(b) only applies to so much of the member’s pensionable service as is mentioned in regulation E11A(11)(b) (the pension to which the member is immediately entitled as a result of exercising the option and the specified percentage of the pensionable service that the pension represents).
+(8)[^c-9b8ef36a61d6c115ea3dbadd2cf05afc] In the case of a member entitled to a pension under regulation E11A (partial retirement pension), paragraph (2)(b) only applies to so much of the member’s pensionable service as is mentioned in regulation E11A(11)(b) (the pension to which the member is immediately entitled as a result of exercising the option and the specified percentage of the pensionable service that the pension represents).
 
 ## Annotations
 
 [^c21041931]: Marginal citation: [S.I. 1977/2138](https://www.legislation.gov.uk/uksi/1977/2138); amended by [S.I. 1981/1018](https://www.legislation.gov.uk/uksi/1981/1018).
 
-[^key-26fcb0745aabc84aecb15b6f8a5d5552]: Textual amendment: Reg. C2(2)(b) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [9(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/9/2)
+[^c-26fcb0745aabc84aecb15b6f8a5d5552]: Textual amendment: Reg. C2(2)(b) substituted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [9(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/9/2)
 
-[^key-ae7b13ebe25d18133299c36f21cac67b]: Textual amendment: Word in reg. C2(5) substituted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/364)](https://www.legislation.gov.uk/ssi/2011/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2011/364/regulation/4)
+[^c-ae7b13ebe25d18133299c36f21cac67b]: Textual amendment: Word in reg. C2(5) substituted (with effect in accordance with reg. 1(7) of the amending S.S.I.) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/364)](https://www.legislation.gov.uk/ssi/2011/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2011/364/regulation/4)
 
-[^key-9b8ef36a61d6c115ea3dbadd2cf05afc]: Textual amendment: Reg. C2(8) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [9(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/9/3)
+[^c-9b8ef36a61d6c115ea3dbadd2cf05afc]: Textual amendment: Reg. C2(8) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [9(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/9/3)

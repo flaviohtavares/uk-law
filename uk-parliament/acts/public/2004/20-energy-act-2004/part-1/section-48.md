@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Supplementary powers of the Secretary of State, the NDA and the UKAEA[^key-390a4e70f85649563482ec9333cffa7a]
+## 48. Supplementary powers of the Secretary of State, the NDA and the UKAEA[^c-390a4e70f85649563482ec9333cffa7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ the UKAEA must consult the Secretary of State.
 
 ## Annotations
 
-[^key-390a4e70f85649563482ec9333cffa7a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2004/20/section/48) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-390a4e70f85649563482ec9333cffa7a]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2004/20/section/48) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

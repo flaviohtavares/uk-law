@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44A. Specification of matters that may be determined by pre-hearing panel[^key-1a2929b9854d7d5291dd342a67f74361]
+## 44A. Specification of matters that may be determined by pre-hearing panel[^c-1a2929b9854d7d5291dd342a67f74361]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Whether a person should be allowed to attend a children’s hearing only by elec
 
 ## Annotations
 
-[^key-1a2929b9854d7d5291dd342a67f74361]: Textual amendment: Rule 44A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(11)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/11)
+[^c-1a2929b9854d7d5291dd342a67f74361]: Textual amendment: Rule 44A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(11)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/11)

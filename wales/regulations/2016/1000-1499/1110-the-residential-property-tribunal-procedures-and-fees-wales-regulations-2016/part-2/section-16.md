@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Supply of information and documents to interested persons[^key-ff5730df966247322dc9a21fc3d1d6ec]
+## 16. Supply of information and documents to interested persons[^c-ff5730df966247322dc9a21fc3d1d6ec]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the tribunal must continue to ensure the supply to that interested person of any
 
 ## Annotations
 
-[^key-ff5730df966247322dc9a21fc3d1d6ec]: Commencement: Reg. 16 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-ff5730df966247322dc9a21fc3d1d6ec]: Commencement: Reg. 16 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. “Debt”, “liability”[^key-b647f384e2ea7ddff52e6775d06d503a]
+## 184. “Debt”, “liability”[^c-b647f384e2ea7ddff52e6775d06d503a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b647f384e2ea7ddff52e6775d06d503a]: Commencement: Rule 184 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-b647f384e2ea7ddff52e6775d06d503a]: Commencement: Rule 184 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

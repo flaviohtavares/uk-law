@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Affidavit in support of application[^key-660fd6d7ab026fffa21995328f8275c5]
+## 7. Affidavit in support of application[^c-660fd6d7ab026fffa21995328f8275c5]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-660fd6d7ab026fffa21995328f8275c5]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2026/11/rule/7) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-660fd6d7ab026fffa21995328f8275c5]: Commencement: [Rule 7](https://www.legislation.gov.uk/nisr/2026/11/rule/7) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

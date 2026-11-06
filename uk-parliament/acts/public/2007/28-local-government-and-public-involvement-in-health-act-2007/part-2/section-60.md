@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Power to change date of local elections to date of European Parliamentary general election[^key-c54a7aa454466389a954fc579469dcf9]
+## 60. Power to change date of local elections to date of European Parliamentary general election[^c-c54a7aa454466389a954fc579469dcf9]
 
 *Extent: E+W*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c54a7aa454466389a954fc579469dcf9]: Commencement: S. 60 in force at 30.12.2007, see s. 245(2)
+[^c-c54a7aa454466389a954fc579469dcf9]: Commencement: S. 60 in force at 30.12.2007, see s. 245(2)

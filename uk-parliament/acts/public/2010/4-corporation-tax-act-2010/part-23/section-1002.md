@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1002. Exceptions for certain transfers of assets or liabilities between a company and its members[^key-df1c5e821dc6a4fde50b59883342b44a]
+## 1002. Exceptions for certain transfers of assets or liabilities between a company and its members[^c-df1c5e821dc6a4fde50b59883342b44a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df1c5e821dc6a4fde50b59883342b44a]: Textual amendment: S. 1002 repealed (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/2)
+[^c-df1c5e821dc6a4fde50b59883342b44a]: Textual amendment: S. 1002 repealed (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/33/2)

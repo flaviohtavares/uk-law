@@ -32,15 +32,15 @@ Criminal Justice (Scotland) Act 2016
 
 An Act of the Scottish Parliament to make provision about criminal justice including as to police powers and rights of suspects and as to criminal evidence, procedure and sentencing; to establish the Police Negotiating Board for Scotland; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th December 2015 and received Royal Assent on 13th January 2016[^key-96674f212758c8f50bcace2aa0b24d14]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 8th December 2015 and received Royal Assent on 13th January 2016[^c-96674f212758c8f50bcace2aa0b24d14]
 
 ## Contents
 
-### PART 1 — ARREST AND CUSTODY[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-f98f5dfbe6852dce939096fde11425cb]
+### PART 1 — ARREST AND CUSTODY[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-f98f5dfbe6852dce939096fde11425cb]
 
 *Extent: S*
 
-#### CHAPTER 1 — ARREST BY POLICE[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-36d7c453d45fe5213c15feee600ce0b6][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-12fe94943286a01af82a219e0cd4102e][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-eb07face36259de4af82d4cfa1a99926][^key-581760fb928e8394c21513985c2f6e1f][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 1 — ARREST BY POLICE[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-36d7c453d45fe5213c15feee600ce0b6][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-12fe94943286a01af82a219e0cd4102e][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-eb07face36259de4af82d4cfa1a99926][^c-581760fb928e8394c21513985c2f6e1f][^c-f98f5dfbe6852dce939096fde11425cb]
 
 *Extent: S*
 
@@ -56,7 +56,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 5 — Information to be given at police station](part-1/section-5.md)
 - [Section 6 — Information to be recorded by police](part-1/section-6.md)
 
-#### CHAPTER 2 — CUSTODY: PERSON NOT OFFICIALLY ACCUSED[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-36d7c453d45fe5213c15feee600ce0b6][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-12fe94943286a01af82a219e0cd4102e][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-eb07face36259de4af82d4cfa1a99926][^key-581760fb928e8394c21513985c2f6e1f][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 2 — CUSTODY: PERSON NOT OFFICIALLY ACCUSED[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-36d7c453d45fe5213c15feee600ce0b6][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-12fe94943286a01af82a219e0cd4102e][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-eb07face36259de4af82d4cfa1a99926][^c-581760fb928e8394c21513985c2f6e1f][^c-f98f5dfbe6852dce939096fde11425cb]
 
 ##### Keeping person in custody
 
@@ -77,7 +77,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 18 — Modification or removal of conditions](part-1/section-18.md)
 - [Section 19 — Review of conditions](part-1/section-19.md)
 
-#### CHAPTER 3 — CUSTODY: PERSON OFFICIALLY ACCUSED[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-36d7c453d45fe5213c15feee600ce0b6][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-12fe94943286a01af82a219e0cd4102e][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-eb07face36259de4af82d4cfa1a99926][^key-581760fb928e8394c21513985c2f6e1f][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 3 — CUSTODY: PERSON OFFICIALLY ACCUSED[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-36d7c453d45fe5213c15feee600ce0b6][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-12fe94943286a01af82a219e0cd4102e][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-eb07face36259de4af82d4cfa1a99926][^c-581760fb928e8394c21513985c2f6e1f][^c-f98f5dfbe6852dce939096fde11425cb]
 
 ##### Person to be brought before court
 
@@ -101,7 +101,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 29A — Expiry of undertaking: coronavirus-related reason for non-appearance](part-1/section-29a.md)
 - [Section 30 — Review of undertaking](part-1/section-30.md)
 
-#### CHAPTER 4 — POLICE INTERVIEW[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-36d7c453d45fe5213c15feee600ce0b6][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-12fe94943286a01af82a219e0cd4102e][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-eb07face36259de4af82d4cfa1a99926][^key-581760fb928e8394c21513985c2f6e1f][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 4 — POLICE INTERVIEW[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-36d7c453d45fe5213c15feee600ce0b6][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-12fe94943286a01af82a219e0cd4102e][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-eb07face36259de4af82d4cfa1a99926][^c-581760fb928e8394c21513985c2f6e1f][^c-f98f5dfbe6852dce939096fde11425cb]
 
 ##### Rights of suspects
 
@@ -119,7 +119,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 36 — Authorisation: further provision](part-1/section-36.md)
 - [Section 37 — Arrest to facilitate questioning](part-1/section-37.md)
 
-#### CHAPTER 5 — RIGHTS OF SUSPECTS IN POLICE CUSTODY[^key-6c0c0575ee4abd65e136a0edcc313e29][^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-36d7c453d45fe5213c15feee600ce0b6][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-12fe94943286a01af82a219e0cd4102e][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-eb07face36259de4af82d4cfa1a99926][^key-581760fb928e8394c21513985c2f6e1f][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 5 — RIGHTS OF SUSPECTS IN POLICE CUSTODY[^c-6c0c0575ee4abd65e136a0edcc313e29][^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-36d7c453d45fe5213c15feee600ce0b6][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-12fe94943286a01af82a219e0cd4102e][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-eb07face36259de4af82d4cfa1a99926][^c-581760fb928e8394c21513985c2f6e1f][^c-f98f5dfbe6852dce939096fde11425cb]
 
 *Extent: S*
 
@@ -139,7 +139,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43 — Right to have intimation sent to solicitor](part-1/section-43.md)
 - [Section 44 — Right to consultation with solicitor](part-1/section-44.md)
 
-#### CHAPTER 6 — POLICE POWERS AND DUTIES[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-36d7c453d45fe5213c15feee600ce0b6][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-12fe94943286a01af82a219e0cd4102e][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-eb07face36259de4af82d4cfa1a99926][^key-581760fb928e8394c21513985c2f6e1f][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 6 — POLICE POWERS AND DUTIES[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-36d7c453d45fe5213c15feee600ce0b6][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-12fe94943286a01af82a219e0cd4102e][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-eb07face36259de4af82d4cfa1a99926][^c-581760fb928e8394c21513985c2f6e1f][^c-f98f5dfbe6852dce939096fde11425cb]
 
 ##### Powers of police
 
@@ -156,7 +156,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 52 — Duties in relation to children in custody](part-1/section-52.md)
 - [Section 53 — Duty to inform Principal Reporter if child not being prosecuted](part-1/section-53.md)
 
-#### CHAPTER 7 — GENERAL[^key-b3c8d0747727f057b7e3aee44c1e8da6][^key-5a2f577f960ff8c2f965fc8c63710231][^key-862b609cbc82e75f778639d0d0f0f0a7][^key-9d2dd7aec80ba03ffffe7be9b932d698][^key-f98f5dfbe6852dce939096fde11425cb]
+#### CHAPTER 7 — GENERAL[^c-b3c8d0747727f057b7e3aee44c1e8da6][^c-5a2f577f960ff8c2f965fc8c63710231][^c-862b609cbc82e75f778639d0d0f0f0a7][^c-9d2dd7aec80ba03ffffe7be9b932d698][^c-f98f5dfbe6852dce939096fde11425cb]
 
 *Extent: S*
 
@@ -170,7 +170,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 57 — Code of practice about investigative functions](part-1/section-57.md)
 
-##### Modifications to Part as it applies in certain cases[^key-ba1165ab7f8e63d39f427b4f88d418f6]
+##### Modifications to Part as it applies in certain cases[^c-ba1165ab7f8e63d39f427b4f88d418f6]
 
 - [Section 57A — Arrest without warrant otherwise than in respect of an offence](part-1/section-57a.md)
 - [Section 57B — Arrest under warrant other than an initiating warrant](part-1/section-57b.md)
@@ -193,9 +193,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 63 — Meaning of officially accused](part-1/section-63.md)
 - [Section 64 — Meaning of police custody](part-1/section-64.md)
 
-### PART 2 — SEARCH BY POLICE[^key-b909ce56d899569b1a5431c309ee66de][^key-68492e91f7332cca5a0ab1be407661fe][^key-bf5af943e75ae723cdd54d2d3597b53a]
+### PART 2 — SEARCH BY POLICE[^c-b909ce56d899569b1a5431c309ee66de][^c-68492e91f7332cca5a0ab1be407661fe][^c-bf5af943e75ae723cdd54d2d3597b53a]
 
-#### CHAPTER 1 — SEARCH OF PERSON NOT IN POLICE CUSTODY[^key-b909ce56d899569b1a5431c309ee66de][^key-68492e91f7332cca5a0ab1be407661fe][^key-bf5af943e75ae723cdd54d2d3597b53a]
+#### CHAPTER 1 — SEARCH OF PERSON NOT IN POLICE CUSTODY[^c-b909ce56d899569b1a5431c309ee66de][^c-68492e91f7332cca5a0ab1be407661fe][^c-bf5af943e75ae723cdd54d2d3597b53a]
 
 ##### Lawfulness of search by constable
 
@@ -327,32 +327,32 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-96674f212758c8f50bcace2aa0b24d14]: Modification: [Act](https://www.legislation.gov.uk/asp/2016/1) modified (temp.) (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1), [sch. para. 15(3)](https://www.legislation.gov.uk/asp/2022/8/schedule/paragraph/15/3)
+[^c-96674f212758c8f50bcace2aa0b24d14]: Modification: [Act](https://www.legislation.gov.uk/asp/2016/1) modified (temp.) (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1), [sch. para. 15(3)](https://www.legislation.gov.uk/asp/2022/8/schedule/paragraph/15/3)
 
-[^key-b3c8d0747727f057b7e3aee44c1e8da6]: Modification: Pt. 1 applied (with modifications) by 2003 c. 20, s. 31A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-b3c8d0747727f057b7e3aee44c1e8da6]: Modification: Pt. 1 applied (with modifications) by 2003 c. 20, s. 31A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-5a2f577f960ff8c2f965fc8c63710231]: Modification: Pt. 1 applied (with modifications) by 1994 c. 33, s. 137ZA (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/1/paragraph/4) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2018/46/article/5/2)))
+[^c-5a2f577f960ff8c2f965fc8c63710231]: Modification: Pt. 1 applied (with modifications) by 1994 c. 33, s. 137ZA (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/1/paragraph/4) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2018/46/article/5/2)))
 
-[^key-862b609cbc82e75f778639d0d0f0f0a7]: Modification: Pt. 1 applied (with modifications) by 2004 c. 20, s. 56A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-862b609cbc82e75f778639d0d0f0f0a7]: Modification: Pt. 1 applied (with modifications) by 2004 c. 20, s. 56A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-9d2dd7aec80ba03ffffe7be9b932d698]: Modification: Pt. 1 applied (with modifications) by 1987 c. 4, s. 2D (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-9d2dd7aec80ba03ffffe7be9b932d698]: Modification: Pt. 1 applied (with modifications) by 1987 c. 4, s. 2D (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-f98f5dfbe6852dce939096fde11425cb]: Modification: Pt. 1 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/4) (with [art. 8](https://www.legislation.gov.uk/uksi/2018/46/article/8))
+[^c-f98f5dfbe6852dce939096fde11425cb]: Modification: Pt. 1 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/4) (with [art. 8](https://www.legislation.gov.uk/uksi/2018/46/article/8))
 
-[^key-36d7c453d45fe5213c15feee600ce0b6]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/46/article/7), [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/5), [6](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/6))
+[^c-36d7c453d45fe5213c15feee600ce0b6]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/46/article/7), [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/5), [6](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/6))
 
-[^key-12fe94943286a01af82a219e0cd4102e]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/46/article/7), [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/5), [6](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/6))
+[^c-12fe94943286a01af82a219e0cd4102e]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/46/article/7), [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/5), [6](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/6))
 
-[^key-eb07face36259de4af82d4cfa1a99926]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/4) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/46/article/7), [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/5), [6](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/6))
+[^c-eb07face36259de4af82d4cfa1a99926]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/4) (with [art. 7](https://www.legislation.gov.uk/uksi/2018/46/article/7), [Sch. 3 Pts. 5](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/5), [6](https://www.legislation.gov.uk/uksi/2018/46/schedule/3/part/section/6))
 
-[^key-581760fb928e8394c21513985c2f6e1f]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
+[^c-581760fb928e8394c21513985c2f6e1f]: Modification: Pt. 1 Chs. 1-6 applied (with modifications) (25.1.2018) by [The Police Investigations and Review Commissioner (Application and Modification of the Criminal Justice (Scotland) Act 2016) Order 2017 (S.S.I. 2017/465)](https://www.legislation.gov.uk/ssi/2017/465), [arts. 1](https://www.legislation.gov.uk/ssi/2017/465/article/1)-[4](https://www.legislation.gov.uk/ssi/2017/465/article/2)
 
-[^key-6c0c0575ee4abd65e136a0edcc313e29]: Modification: [Pt. 1 Ch. 5](https://www.legislation.gov.uk/asp/2016/1/part/1/chapter/5) applied (with modifications) by 1994 c. 33, s. 137D(3)(b) Sch. 7B Pt. 2 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
+[^c-6c0c0575ee4abd65e136a0edcc313e29]: Modification: [Pt. 1 Ch. 5](https://www.legislation.gov.uk/asp/2016/1/part/1/chapter/5) applied (with modifications) by 1994 c. 33, s. 137D(3)(b) Sch. 7B Pt. 2 (as inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/1)[(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/116/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 16](https://www.legislation.gov.uk/ukpga/2017/3/schedule/16); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f))
 
-[^key-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)
+[^c-ba1165ab7f8e63d39f427b4f88d418f6]: Textual amendment: Ss. 57A-57C and cross-heading inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/7)
 
-[^key-b909ce56d899569b1a5431c309ee66de]: Modification: Pt. 2 applied (with modifications) by 2003 c. 20, s. 31A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-b909ce56d899569b1a5431c309ee66de]: Modification: Pt. 2 applied (with modifications) by 2003 c. 20, s. 31A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-68492e91f7332cca5a0ab1be407661fe]: Modification: Pt. 2 applied (with modifications) by 2004 c. 20, s. 56A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-68492e91f7332cca5a0ab1be407661fe]: Modification: Pt. 2 applied (with modifications) by 2004 c. 20, s. 56A (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
 
-[^key-bf5af943e75ae723cdd54d2d3597b53a]: Modification: Pt. 2 applied (with modifications) by 1987 c. 4, s. 2D (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))
+[^c-bf5af943e75ae723cdd54d2d3597b53a]: Modification: Pt. 2 applied (with modifications) by 1987 c. 4, s. 2D (as inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2018/46/schedule/2/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2018/46/article/6)))

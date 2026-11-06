@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Application of landlord and tenant law[^key-55fa36d7cb2b74106325d33496d7d4ed]
+## 29. Application of landlord and tenant law[^c-55fa36d7cb2b74106325d33496d7d4ed]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55fa36d7cb2b74106325d33496d7d4ed]: Commencement: Art. 29 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-55fa36d7cb2b74106325d33496d7d4ed]: Commencement: Art. 29 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

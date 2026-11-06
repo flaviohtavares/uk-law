@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Special rules for intelligence services authorisations.[^key-d011cdf35da6d7c581bae3c9b2994c77]
+## 44. Special rules for intelligence services authorisations.[^c-d011cdf35da6d7c581bae3c9b2994c77]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ the reference in subsection (4) of this section to a warrant for the carrying ou
 
 ## Annotations
 
-[^key-d011cdf35da6d7c581bae3c9b2994c77]: Modification: S. 44 excluded by 2016 c. 25, Sch. 8 para. 27(4) (as inserted (26.7.2018) by [The Investigatory Powers (Codes of Practice and Miscellaneous Amendments) Order 2018 (S.I. 2018/905)](https://www.legislation.gov.uk/uksi/2018/905), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/905/article/1/3), [6](https://www.legislation.gov.uk/uksi/2018/905/article/6))
+[^c-d011cdf35da6d7c581bae3c9b2994c77]: Modification: S. 44 excluded by 2016 c. 25, Sch. 8 para. 27(4) (as inserted (26.7.2018) by [The Investigatory Powers (Codes of Practice and Miscellaneous Amendments) Order 2018 (S.I. 2018/905)](https://www.legislation.gov.uk/uksi/2018/905), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2018/905/article/1/3), [6](https://www.legislation.gov.uk/uksi/2018/905/article/6))
 
 [^c10567791]: Modification: S. 44(1)(2)(b) modified (S.) (14.12.2000) by [S.I. 2000/3253](https://www.legislation.gov.uk/uksi/2000/3253), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2000/3253/article/1/1/2), [2](https://www.legislation.gov.uk/uksi/2000/3253/article/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2000/3253/schedule/1/paragraph/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2000/3253/article/6))
 

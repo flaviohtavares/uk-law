@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Minor amendments and transitional cases[^key-64623fe768e0bc4a231bb97fb93ead50][^key-6e9fb66b7cb4ea47b9f218c194cd34d5]
+## 15. Minor amendments and transitional cases[^c-64623fe768e0bc4a231bb97fb93ead50][^c-6e9fb66b7cb4ea47b9f218c194cd34d5]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2bbf67c9c2f1ce9c54a57da8793b10e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2bbf67c9c2f1ce9c54a57da8793b10e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-2bbf67c9c2f1ce9c54a57da8793b10e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2bbf67c9c2f1ce9c54a57da8793b10e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2bbf67c9c2f1ce9c54a57da8793b10e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2bbf67c9c2f1ce9c54a57da8793b10e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 246(4) of the Criminal Justice Act 2003 (cases in which power to release before required to do so is not available), after paragraph (g) insert—
 
@@ -73,8 +73,8 @@ summary: ''
 
 ## Annotations
 
-[^key-64623fe768e0bc4a231bb97fb93ead50]: Commencement: S. 15 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/11)
+[^c-64623fe768e0bc4a231bb97fb93ead50]: Commencement: S. 15 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/11)
 
-[^key-6e9fb66b7cb4ea47b9f218c194cd34d5]: Modification: S. 15 modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-6e9fb66b7cb4ea47b9f218c194cd34d5]: Modification: S. 15 modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-2bbf67c9c2f1ce9c54a57da8793b10e0]: Textual amendment: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/15/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2bbf67c9c2f1ce9c54a57da8793b10e0]: Textual amendment: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/15/1) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

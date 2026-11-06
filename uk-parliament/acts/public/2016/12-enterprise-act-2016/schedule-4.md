@@ -22,15 +22,15 @@ summary: ''
 
 Section 22
 
-**1.**[^key-694f1fd907c2897d7ee2614b2b55abdb] The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
+**1.**[^c-694f1fd907c2897d7ee2614b2b55abdb] The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
 
-**2.**[^key-f749b2cbffc41db912fa164195177cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f749b2cbffc41db912fa164195177cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2c0787df6316f97759ecac12da941162] Before section A1 insert— “ Introductory ”
+**3.**[^c-2c0787df6316f97759ecac12da941162] Before section A1 insert— “ Introductory ”
 
-**4.**[^key-ce5b3bdb69faeb3a36bd8d61278fa3d2] In section A1 (meaning of “approved English apprenticeship”), in subsection (3)(a) for “the Secretary of State has published an approved apprenticeship standard under section A2” substitute “ an approved apprenticeship standard has been published under section A2 ”.
+**4.**[^c-ce5b3bdb69faeb3a36bd8d61278fa3d2] In section A1 (meaning of “approved English apprenticeship”), in subsection (3)(a) for “the Secretary of State has published an approved apprenticeship standard under section A2” substitute “ an approved apprenticeship standard has been published under section A2 ”.
 
-**5.**[^key-d86af2b28c243bd0e62c42894668290e] For section A2 (approved apprenticeship standards) substitute—
+**5.**[^c-d86af2b28c243bd0e62c42894668290e] For section A2 (approved apprenticeship standards) substitute—
 
 > **Publication of standards and assessment plans**
 >
@@ -174,7 +174,7 @@ Section 22
 >
 > (3) The IfA must ensure that a standard or assessment plan in relation to which a right or interest has transferred by virtue of subsection (2) is made available to the public, subject to any conditions that the IfA considers appropriate.
 
-**6.**[^key-f2c52ed7072256eb40cc2b7600632179] (1) Section A3 (power to issue apprenticeship certificate) is amended as follows.
+**6.**[^c-f2c52ed7072256eb40cc2b7600632179] (1) Section A3 (power to issue apprenticeship certificate) is amended as follows.
 
 (2) In subsection (1) for “to” substitute “ in respect of ”.
 
@@ -186,35 +186,35 @@ Section 22
 
 **7.** In section 122 (sharing of information for education and training purposes)—
 
-- (a)[^key-1a8e4ab61bf1270bbeea054b63368460] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1a8e4ab61bf1270bbeea054b63368460] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (5) (functions for the purposes of which information may be provided)—
   - (i) omit the “or” at the end of paragraph (b), and
-  - (ii)[^key-83044fabb7b5961cbcc168b8ace2d0db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-83044fabb7b5961cbcc168b8ace2d0db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-687c7ba9913070b64fe813dc1f7c8a3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-694f1fd907c2897d7ee2614b2b55abdb]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/1) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
+[^c-694f1fd907c2897d7ee2614b2b55abdb]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/1) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
 
-[^key-f749b2cbffc41db912fa164195177cfe]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/2) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/6/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-f749b2cbffc41db912fa164195177cfe]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/2) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 6(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/6/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
 
-[^key-2c0787df6316f97759ecac12da941162]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/3) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
+[^c-2c0787df6316f97759ecac12da941162]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/3) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
 
-[^key-ce5b3bdb69faeb3a36bd8d61278fa3d2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/4) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
+[^c-ce5b3bdb69faeb3a36bd8d61278fa3d2]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/4) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
 
-[^key-d86af2b28c243bd0e62c42894668290e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/5) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
+[^c-d86af2b28c243bd0e62c42894668290e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/5) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
 
-[^key-f2c52ed7072256eb40cc2b7600632179]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/6) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
+[^c-f2c52ed7072256eb40cc2b7600632179]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/6) in force at 1.4.2017 by [S.I. 2017/346](https://www.legislation.gov.uk/uksi/2017/346), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/346/regulation/2/a)
 
-[^key-1a8e4ab61bf1270bbeea054b63368460]: Textual amendment: [Sch. 4 para. 7(a)](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/7/a) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/33) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-1a8e4ab61bf1270bbeea054b63368460]: Textual amendment: [Sch. 4 para. 7(a)](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/7/a) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/33) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
 
-[^key-83044fabb7b5961cbcc168b8ace2d0db]: Textual amendment: [Sch. 4 para. 7(b)(ii)](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/7/b/ii) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/33) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-83044fabb7b5961cbcc168b8ace2d0db]: Textual amendment: [Sch. 4 para. 7(b)(ii)](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/7/b/ii) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 33](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/33) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
 
-[^key-687c7ba9913070b64fe813dc1f7c8a3e]: Textual amendment: [Sch. 4 paras. 8-11](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/8) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/6/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-687c7ba9913070b64fe813dc1f7c8a3e]: Textual amendment: [Sch. 4 paras. 8-11](https://www.legislation.gov.uk/ukpga/2016/12/schedule/4/paragraph/8) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 6(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/6/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)

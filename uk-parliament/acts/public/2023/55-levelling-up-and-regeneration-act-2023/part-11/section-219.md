@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Power to require provision of certain classes of information[^key-0d064a9771279c62cf0434b54afb6fb5]
+## 219. Power to require provision of certain classes of information[^c-0d064a9771279c62cf0434b54afb6fb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ be (or include) the giving of a notice in accordance with the regulations to the
 
 ## Annotations
 
-[^key-0d064a9771279c62cf0434b54afb6fb5]: Commencement: S. 219 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-0d064a9771279c62cf0434b54afb6fb5]: Commencement: S. 219 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

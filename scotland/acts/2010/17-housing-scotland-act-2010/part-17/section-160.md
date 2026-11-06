@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Formal communications[^key-e4bec01aca76e9994a07619f5d8b4a29]
+## 160. Formal communications[^c-e4bec01aca76e9994a07619f5d8b4a29]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ which is made, served or given under or for the purposes of this Act.
 
 ## Annotations
 
-[^key-e4bec01aca76e9994a07619f5d8b4a29]: Commencement: S. 160 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-e4bec01aca76e9994a07619f5d8b4a29]: Commencement: S. 160 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

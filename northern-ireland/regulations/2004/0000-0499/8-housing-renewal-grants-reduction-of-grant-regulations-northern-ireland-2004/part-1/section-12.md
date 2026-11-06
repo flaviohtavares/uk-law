@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Financial resources[^key-d9bd0c9243f47c2743e8a89270c5eef1]
+## 12. Financial resources[^c-d9bd0c9243f47c2743e8a89270c5eef1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In respect of any one application, the amount which is to be taken to be the fin
 
 ## Annotations
 
-[^key-d9bd0c9243f47c2743e8a89270c5eef1]: Commencement: Reg. 12 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-d9bd0c9243f47c2743e8a89270c5eef1]: Commencement: Reg. 12 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Limit of duration of listed building consent.[^key-788a21b67aabd28e6e7839b562c3e79f][^key-0481d14bae1c8a1056cb3179ae30282c]
+## 16. Limit of duration of listed building consent.[^c-788a21b67aabd28e6e7839b562c3e79f][^c-0481d14bae1c8a1056cb3179ae30282c]
 
 *Extent: S*
 
-(1)[^key-a0489d803289cce7bf44c3d0a921bb5b] A listed building consent lapses—
+(1)[^c-a0489d803289cce7bf44c3d0a921bb5b] A listed building consent lapses—
 
 - (a) on the expiration of such period (beginning with the date on which the consent is granted) as the planning authority may, for the purposes of this section, specify in the consent, or
 - (b) if no period is so specified, on the expiration of a period of 3 years (beginning with that date),
@@ -42,8 +42,8 @@ is to be treated as a condition subject to which the application is granted.
 
 ## Annotations
 
-[^key-788a21b67aabd28e6e7839b562c3e79f]: Modification: S. 16 savings for effects of 2006 asp 17, s. 20(3) (1.12.2011) by [The Planning etc. (Scotland) Act 2006 (Listed Buildings) (Saving Provisions) Order2011 (S.S.I. 2011/381)](https://www.legislation.gov.uk/ssi/2011/381), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/381/article/1/1), [2](https://www.legislation.gov.uk/ssi/2011/381/article/2)
+[^c-788a21b67aabd28e6e7839b562c3e79f]: Modification: S. 16 savings for effects of 2006 asp 17, s. 20(3) (1.12.2011) by [The Planning etc. (Scotland) Act 2006 (Listed Buildings) (Saving Provisions) Order2011 (S.S.I. 2011/381)](https://www.legislation.gov.uk/ssi/2011/381), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2011/381/article/1/1), [2](https://www.legislation.gov.uk/ssi/2011/381/article/2)
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-a0489d803289cce7bf44c3d0a921bb5b]: Textual amendment: S. 16(1)(1A)(2) substituted for s. 16(1)(2) (12.12.2008 for specified purposes, 1.12.2011 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 20(3)](https://www.legislation.gov.uk/asp/2006/17/section/20/3), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2011/382](https://www.legislation.gov.uk/ssi/2011/382), [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/382/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2011/382/article/2/2/a)
+[^c-a0489d803289cce7bf44c3d0a921bb5b]: Textual amendment: S. 16(1)(1A)(2) substituted for s. 16(1)(2) (12.12.2008 for specified purposes, 1.12.2011 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 20(3)](https://www.legislation.gov.uk/asp/2006/17/section/20/3), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2011/382](https://www.legislation.gov.uk/ssi/2011/382), [art. 2(1)](https://www.legislation.gov.uk/ssi/2011/382/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2011/382/article/2/2/a)

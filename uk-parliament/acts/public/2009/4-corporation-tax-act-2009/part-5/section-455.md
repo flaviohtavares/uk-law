@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 455. Disposals for consideration not fully recognised by accounting practice[^key-a54d57cfb858611f2cc3fa7d133b528b]
+## 455. Disposals for consideration not fully recognised by accounting practice[^c-a54d57cfb858611f2cc3fa7d133b528b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a54d57cfb858611f2cc3fa7d133b528b]: Textual amendment: Ss. 454, 455 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/50)
+[^c-a54d57cfb858611f2cc3fa7d133b528b]: Textual amendment: Ss. 454, 455 omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/50)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — Streets to be temporarily stopped up[^key-cedac7cec52dbc52145b6f9a36f18656]
+## SCHEDULE 8 — Streets to be temporarily stopped up[^c-cedac7cec52dbc52145b6f9a36f18656]
 
 *Extent: E+W+S*
 
@@ -25,7 +25,7 @@ Article 17
 | *(1)*<br>*Area* | *(2)*<br>*Street to be temporarily stopped up* | *(3)*<br>*Extent of temporary stopping* | *(4)*<br>*Relevant site* |
 | --- | --- | --- | --- |
 | In the District of Sedgemoor and the County of Somerset | Footway of A39 Bath Road | Between points TSF4/1 and TSF4/2; and between points TSF4/3 and TSF4/4; and between points TSF4/5 and TSF4/6; and between points TSF4/7 and TSF4/8 | Bridgwater A |
-|  | [^key-a07e82a76aa47a4488a42c5b2953a6da]. . . | [^key-a07e82a76aa47a4488a42c5b2953a6da]. . . | [^key-a07e82a76aa47a4488a42c5b2953a6da]. . . |
+|  | [^c-a07e82a76aa47a4488a42c5b2953a6da]. . . | [^c-a07e82a76aa47a4488a42c5b2953a6da]. . . | [^c-a07e82a76aa47a4488a42c5b2953a6da]. . . |
 |  | Footpath BW5/8 | Between points TSF6/1 and TSF6/2; and between points TSF6/3 and TSF6/4 | Cannington bypass |
 |  | Footway of Rodway | Between points TSF6/5 and TSF6/6 | Cannington bypass |
 |  | Footpath BW25/31 | Between TSF8/1 and TSF8/2 | Combwich |
@@ -51,6 +51,6 @@ Article 17
 
 ## Annotations
 
-[^key-cedac7cec52dbc52145b6f9a36f18656]: Commencement: Sch. 8 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-cedac7cec52dbc52145b6f9a36f18656]: Commencement: Sch. 8 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-a07e82a76aa47a4488a42c5b2953a6da]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2013/648/schedule/8) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [9](https://www.legislation.gov.uk/uksi/2017/843/article/9)
+[^c-a07e82a76aa47a4488a42c5b2953a6da]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2013/648/schedule/8) table omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [9](https://www.legislation.gov.uk/uksi/2017/843/article/9)

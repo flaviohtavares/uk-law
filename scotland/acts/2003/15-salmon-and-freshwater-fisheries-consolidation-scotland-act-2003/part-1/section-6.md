@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Fishing for salmon without right or permission[^key-8517fcfa0dcf37d27535defb34eba639]
+## 6. Fishing for salmon without right or permission[^c-8517fcfa0dcf37d27535defb34eba639]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8517fcfa0dcf37d27535defb34eba639]: Commencement: S. 6 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-8517fcfa0dcf37d27535defb34eba639]: Commencement: S. 6 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

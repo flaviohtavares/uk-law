@@ -24,10 +24,10 @@ summary: ''
 
 - (a) “**the Act**” means the Seeds Act (Northern Ireland) 1965;
 - (b) the “Common Catalogue” is the catalogue provided for in Council Directive [2002/53/EC](https://www.legislation.gov.uk/european/directive/2002/0053) on the common catalogue of varieties of agricultural plant species [^c22820071] and in Council Directive [2002/55/EC](https://www.legislation.gov.uk/european/directive/2002/0055) on the marketing of vegetable seed;
-- (b1)[^key-48a7e9a7d5801ff2f60f6d3dd6e57490] “**country granted equivalence**” means a country that has been granted equivalence under Council Decision [2003/17/EC](https://www.legislation.gov.uk/eud/2003/17) on the equivalence of field inspections carried out in third countries on seed-producing crops and on the equivalence of seed produced in third countries;
+- (b1)[^c-48a7e9a7d5801ff2f60f6d3dd6e57490] “**country granted equivalence**” means a country that has been granted equivalence under Council Decision [2003/17/EC](https://www.legislation.gov.uk/eud/2003/17) on the equivalence of field inspections carried out in third countries on seed-producing crops and on the equivalence of seed produced in third countries;
 - (b2) “**Crown Dependency**” means any of the Channel islands or the Isle of Man;
 - (c) the “**Department**” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
-- (d) the “NI Variety List” means the list of agricultural crop varieties prepared and published in accordance with the Seeds (Variety Lists) Regulations (Northern Ireland) 2020;[^key-44cc48be08fd5df8daa63831a23faf90]
+- (d) the “NI Variety List” means the list of agricultural crop varieties prepared and published in accordance with the Seeds (Variety Lists) Regulations (Northern Ireland) 2020;[^c-44cc48be08fd5df8daa63831a23faf90]
 - (e) “**the Tribunal**” means the Plant Varieties and Seeds Tribunal established by the Plant Varieties Act 1997 [^c22820091];
 - (f) “**wild oat**” means plants of the species *Avena fatua*, *Avena sterilis* and *Avena ludoviciana*.
 
@@ -49,9 +49,9 @@ are references to those instruments as amended from time to time.
 
 [^c22820071]: Marginal citation: OJ No L 193, 20.7.2002, p. 1, as amended by Regulation (EC) No 1829/2003 (OJ No L 268, 18.10.2003, p. 1).
 
-[^key-48a7e9a7d5801ff2f60f6d3dd6e57490]: Textual amendment: [Reg. 3(b1)(b2)](https://www.legislation.gov.uk/nisr/2016/244/regulation/3/b1/b2) substituted for [reg. 3(b1)](https://www.legislation.gov.uk/nisr/2016/244/regulation/3/b1) (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2019/211/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48a7e9a7d5801ff2f60f6d3dd6e57490]: Textual amendment: [Reg. 3(b1)(b2)](https://www.legislation.gov.uk/nisr/2016/244/regulation/3/b1/b2) substituted for [reg. 3(b1)](https://www.legislation.gov.uk/nisr/2016/244/regulation/3/b1) (31.12.2020) by virtue of [The Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/211)](https://www.legislation.gov.uk/uksi/2019/211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/211/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2019/211/regulation/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-44cc48be08fd5df8daa63831a23faf90]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/nisr/2016/244/regulation/3/1/d) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(1)(a)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/1/a)
+[^c-44cc48be08fd5df8daa63831a23faf90]: Textual amendment: Words in [reg. 3(1)(d)](https://www.legislation.gov.uk/nisr/2016/244/regulation/3/1/d) substituted (31.12.2020) by [The Seeds (Variety Lists) Regulations (Northern Ireland) 2020 (S.R. 2020/302)](https://www.legislation.gov.uk/nisr/2020/302), [regs. 1](https://www.legislation.gov.uk/nisr/2020/302/regulation/1), [26(1)(a)](https://www.legislation.gov.uk/nisr/2020/302/regulation/26/1/a)
 
 [^c22820091]: Marginal citation: 1997, c. 66, section 42.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41A. Restriction of losses: long funding leases of plant or machinery[^key-05013d8802ee37d9bdb84b5858ef28fa]
+## 41A. Restriction of losses: long funding leases of plant or machinery[^c-05013d8802ee37d9bdb84b5858ef28fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ exceeds
 
 ## Annotations
 
-[^key-05013d8802ee37d9bdb84b5858ef28fa]: Textual amendment: S. 41A inserted (with effect in accordance with Sch. 9 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/9/paragraph/5/1)
+[^c-05013d8802ee37d9bdb84b5858ef28fa]: Textual amendment: S. 41A inserted (with effect in accordance with Sch. 9 para. 5(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 9 para. 5(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/9/paragraph/5/1)

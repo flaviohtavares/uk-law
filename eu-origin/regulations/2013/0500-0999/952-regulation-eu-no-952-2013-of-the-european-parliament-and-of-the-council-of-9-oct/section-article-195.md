@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 195. Release dependent upon payment of the amount of import or export duty corresponding to the customs debt or provision of a guarantee[^key-f414cc624958a99391e05381740abaf0]
+## Article 195. Release dependent upon payment of the amount of import or export duty corresponding to the customs debt or provision of a guarantee[^c-f414cc624958a99391e05381740abaf0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Where, pursuant to the provisions governing the customs procedure for which the 
 
 ## Annotations
 
-[^key-f414cc624958a99391e05381740abaf0]: Modification: Art. 195 modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-f414cc624958a99391e05381740abaf0]: Modification: Art. 195 modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AI](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AI) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

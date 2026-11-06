@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116I. Value of relevant supplies of goods which have two or more economic lives[^key-ade96dfc3a1d2c4b745a5e9303bf6432]
+## 116I. Value of relevant supplies of goods which have two or more economic lives[^c-ade96dfc3a1d2c4b745a5e9303bf6432]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a relevant supply occurs in relation to goods that have two or more econom
 
 ## Annotations
 
-[^key-ade96dfc3a1d2c4b745a5e9303bf6432]: Textual amendment: Pt. 15A inserted (1.11.2007) by [The Value Added Tax (Amendment) (No. 7) Regulations 2007 (S.I. 2007/3099)](https://www.legislation.gov.uk/uksi/2007/3099), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3099/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2007/3099/regulation/4)
+[^c-ade96dfc3a1d2c4b745a5e9303bf6432]: Textual amendment: Pt. 15A inserted (1.11.2007) by [The Value Added Tax (Amendment) (No. 7) Regulations 2007 (S.I. 2007/3099)](https://www.legislation.gov.uk/uksi/2007/3099), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2007/3099/regulation/1/2/b), [4](https://www.legislation.gov.uk/uksi/2007/3099/regulation/4)

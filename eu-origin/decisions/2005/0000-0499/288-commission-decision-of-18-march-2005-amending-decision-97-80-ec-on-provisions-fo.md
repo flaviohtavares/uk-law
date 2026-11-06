@@ -39,26 +39,26 @@ amending Decision 97/80/EC on provisions for the implementation of Council Direc
 
 (2005/288/EC) (revoked)
 
-[^key-bf193a72399e15a9e3530bd06fc4c99d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf193a72399e15a9e3530bd06fc4c99d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bf193a72399e15a9e3530bd06fc4c99d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bf193a72399e15a9e3530bd06fc4c99d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bf193a72399e15a9e3530bd06fc4c99d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bf193a72399e15a9e3530bd06fc4c99d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bf193a72399e15a9e3530bd06fc4c99d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bf193a72399e15a9e3530bd06fc4c99d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-bf193a72399e15a9e3530bd06fc4c99d]
+## ANNEX I[^c-bf193a72399e15a9e3530bd06fc4c99d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-bf193a72399e15a9e3530bd06fc4c99d]
+## ANNEX II[^c-bf193a72399e15a9e3530bd06fc4c99d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bf193a72399e15a9e3530bd06fc4c99d]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/48)
+[^c-bf193a72399e15a9e3530bd06fc4c99d]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 48](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/48)

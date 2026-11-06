@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Revocation[^key-0ceb9fb5c78b77b78e6b51e8da7ac0fd]
+## 4. Revocation[^c-0ceb9fb5c78b77b78e6b51e8da7ac0fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ceb9fb5c78b77b78e6b51e8da7ac0fd]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2533/article/4) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
+[^c-0ceb9fb5c78b77b78e6b51e8da7ac0fd]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/2533/article/4) in force at 11.11.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1)
 
 [^f00003]: Footnote: [S.I. 2001/3678](https://www.legislation.gov.uk/uksi/2001/3678).

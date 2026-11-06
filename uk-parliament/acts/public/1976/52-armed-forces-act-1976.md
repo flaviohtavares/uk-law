@@ -31,7 +31,7 @@ Armed Forces Act 1976
 
 An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Discipline Act 1957; to amend those Acts and other enactments relating to the armed forces; to authorise the establishment of courts for the trial outside the United Kingdom of civilians subject to Part II of the Army Act 1955 or Part II of the Air Force Act 1955; to make provision for the powers of the courts so authorised in relation to such civilians; to make further provision for the powers of courts-martial in relation to such civilians and to civilians subject to Parts I and II of the Naval Discipline Act 1957; to make further provision as to the disqualification of members of the forces for membership of the House of Commons or the Northern Ireland Assembly; to make further provision for Greenwich Hospital; and for connected purposes.
 
-\[26th October 1976\][^c1030486][^c1030487][^c1030488][^c1030489][^c1030490][^c1030491][^key-715a88035a2f9288486dad12d8e5a88a][^key-ff0583f21e4d9c6407531602f25a9f03]
+\[26th October 1976\][^c1030486][^c1030487][^c1030488][^c1030489][^c1030490][^c1030491][^c-715a88035a2f9288486dad12d8e5a88a][^c-ff0583f21e4d9c6407531602f25a9f03]
 
 ## Part I — General
 
@@ -39,15 +39,15 @@ An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Disci
 
 ### Service in and constitution of forces
 
-#### 2. Regulations as to variation of term of service.[^key-1acf1bdaab9d4b65b0ea2cc1e66cec19]
+#### 2. Regulations as to variation of term of service.[^c-1acf1bdaab9d4b65b0ea2cc1e66cec19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Royal Marines.[^key-1acf1bdaab9d4b65b0ea2cc1e66cec19]
+#### 3. Royal Marines.[^c-1acf1bdaab9d4b65b0ea2cc1e66cec19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. QARNNS and WRNS.[^key-1acf1bdaab9d4b65b0ea2cc1e66cec19]
+#### 4. QARNNS and WRNS.[^c-1acf1bdaab9d4b65b0ea2cc1e66cec19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -59,65 +59,65 @@ An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Disci
 
 ### Civilians
 
-#### 6. Establishment of Standing Civilian Courts.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 6. Establishment of Standing Civilian Courts.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Jurisdiction of Standing Civilian Courts.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 7. Jurisdiction of Standing Civilian Courts.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Powers of courts in relation to civilians.[^key-dee33bc7b9b5b7631295c55de84bfc14][^c1030567]
+#### 8. Powers of courts in relation to civilians.[^c-dee33bc7b9b5b7631295c55de84bfc14][^c1030567]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Powers of courts in relation to civilians.[^key-dee33bc7b9b5b7631295c55de84bfc14][^c1030562]
+#### 8. Powers of courts in relation to civilians.[^c-dee33bc7b9b5b7631295c55de84bfc14][^c1030562]
 
 *Extent: S+N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Constitution of courts-martial for civilians.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 9. Constitution of courts-martial for civilians.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Juveniles
 
-#### 10. Powers of courts in relation to juveniles.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 10. Powers of courts in relation to juveniles.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Court-martial procedure
 
-#### 11. Proof at courts-martial by written statement.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 11. Proof at courts-martial by written statement.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Exemption of certain persons from duty to take oath at court-martial.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 12. Exemption of certain persons from duty to take oath at court-martial.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Powers of court-martial etc.
 
-#### 13. Imprisonment in default of payment of fines.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 13. Imprisonment in default of payment of fines.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Restitution and compensation.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 14. Restitution and compensation.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Naval Offences
 
-#### 15. Territorial scope of certain offences.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 15. Territorial scope of certain offences.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Powers of civil courts
 
-#### 16. Enforcement by civil courts of financial penalties awarded under Services Acts.[^key-dee33bc7b9b5b7631295c55de84bfc14]
+#### 16. Enforcement by civil courts of financial penalties awarded under Services Acts.[^c-dee33bc7b9b5b7631295c55de84bfc14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -127,11 +127,11 @@ An Act to continue the Army Act 1955, the Air Force Act 1955 and the Naval Disci
 
 ## Part III — Miscellaneous and Supplementary
 
-### 18. Deductions for maintenance of children.[^key-ceb1167da769c2d0562bf2f515c64e6e]
+### 18. Deductions for maintenance of children.[^c-ceb1167da769c2d0562bf2f515c64e6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Deductions from RAF pensions[^key-01e107c5f406055d908ecda478f1ee8f]
+### 19. Deductions from RAF pensions[^c-01e107c5f406055d908ecda478f1ee8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -195,167 +195,167 @@ In section 1 of the [^c1030592] House of Commons Disqualification Act 1975 and s
 
 SCHEDULES
 
-## SCHEDULE 1 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 1 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-### ... — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ... — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ... — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ... — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 2 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 3 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**4.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**5.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**6.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
 **7.**[^c1030642] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**8.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**9.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**10.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**11.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ......[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ......[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**12.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**13.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**15.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **17A.**[^c1030666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**18.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**19.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 4 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 5 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 6 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 7 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-b0ac5f70f6872aa30309fb9e6912263e]
+### ...[^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — ...[^key-b0ac5f70f6872aa30309fb9e6912263e][^key-b0ac5f70f6872aa30309fb9e6912263e]
+## SCHEDULE 8 — ...[^c-b0ac5f70f6872aa30309fb9e6912263e][^c-b0ac5f70f6872aa30309fb9e6912263e]
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]...
+[^c-b0ac5f70f6872aa30309fb9e6912263e]...
 
-**1.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0ac5f70f6872aa30309fb9e6912263e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 9 — Miscellaneous Amendments[^c1030720]
 
@@ -369,31 +369,31 @@ Section 22.
 
 ### Army Act 1955 and Air Force Act 1955
 
-**3.**[^key-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-698a256ae2bcd5900a723800a1d330e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1030728]
 
 ### Naval Discipline Act 1957
 
-**10.**[^key-690baf3624c0d5bf279520f6d9eabcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-690baf3624c0d5bf279520f6d9eabcec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f2ed2ba0898d2651f5dea33eb5510871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f2ed2ba0898d2651f5dea33eb5510871] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c1030730]
 
-**13.**[^key-99bc6efa5944cbdafe689fb7cd5d2946] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-99bc6efa5944cbdafe689fb7cd5d2946] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-efa70821460c1c2e4e00bf71458372d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-efa70821460c1c2e4e00bf71458372d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Criminal Justice Act 1967
 
@@ -401,9 +401,9 @@ Section 22.
 
 ### Courts-Martial (Appeals) Act 1968
 
-**16.**[^key-a4181be567cdb0d397d766fa0ce23018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-a4181be567cdb0d397d766fa0ce23018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-ac299e38fb9fc6fad9e4a2e71cbc3008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ac299e38fb9fc6fad9e4a2e71cbc3008] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Treatment of Offenders Act (Northern Ireland) 1968
 
@@ -431,33 +431,33 @@ Section 22.
 
 .
 
-**21.** (1 (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] The following entries shall be made in Table B in subsection (2) of section 5 of that Act (rehabilitation periods for particular sentences):— *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+**21.** (1 (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] The following entries shall be made in Table B in subsection (2) of section 5 of that Act (rehabilitation periods for particular sentences):— *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
-- (a (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] after the entry relating to a sentence of Borstal training— *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
-
-  > |  |  |
-  > | --- | --- |
-  > | A custodial order under Schedule 5A to the Army Act 1955 or the Air Force Act 1955, or under Schedule 4A to the Naval Discipline Act 1957, where the maximum period of detention specified in the order is more than six months. *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085] | Seven years. *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085] |
-
-  ; *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
-- (b (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] after the entry relating to an order for detention in a detention centre:— *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+- (a (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] after the entry relating to a sentence of Borstal training— *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
   > |  |  |
   > | --- | --- |
-  > | A custodial order under any of the Schedules to the said Acts of 1955 and 1957 mentioned above, where the maximum period of detention specified in the order is six months or less. *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085] | Three years. *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085] |
+  > | A custodial order under Schedule 5A to the Army Act 1955 or the Air Force Act 1955, or under Schedule 4A to the Naval Discipline Act 1957, where the maximum period of detention specified in the order is more than six months. *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085] | Seven years. *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085] |
 
-  . *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+  ; *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
+- (b (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] after the entry relating to an order for detention in a detention centre:— *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
-(2 (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] The following paragraphs shall be added after subsection (5)(f) of that section:— *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+  > |  |  |
+  > | --- | --- |
+  > | A custodial order under any of the Schedules to the said Acts of 1955 and 1957 mentioned above, where the maximum period of detention specified in the order is six months or less. *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085] | Three years. *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085] |
 
-> - (g (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] a community supervision order under Schedule 5A to the Army Act 1955 or the Air Force Act 1955, or under Schedule 4A to the Naval Discipline Act 1957; *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
-> - (h (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] a reception order under any of those Schedules; *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+  . *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
-. *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+(2 (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] The following paragraphs shall be added after subsection (5)(f) of that section:— *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
-(3 (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] The following subsection shall be inserted after subsection (10) of that section:— *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+> - (g (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] a community supervision order under Schedule 5A to the Army Act 1955 or the Air Force Act 1955, or under Schedule 4A to the Naval Discipline Act 1957; *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
+> - (h (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] a reception order under any of those Schedules; *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
-> (1OA (Extent: E.W.) (affected by repeal, see note))[^key-849bbad3ab9ec4648764cc566f1b9085] The reference in subsection (5) above to the period during which a reception order has effect includes a reference to any subsequent period during wwhich by virtue of the order having been made the Social Work (Scotland) Act 1968 or the Children and Young Persons Act Northern Ireland) 1968 has effect in relation to the person in respect of whom the order was made and subsection (10) above shall accordingly have effect in relation to any such subsequent period. *(Extent: E.W.)* *(affected by repeal, see note)*[^key-849bbad3ab9ec4648764cc566f1b9085]
+. *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
+
+(3 (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] The following subsection shall be inserted after subsection (10) of that section:— *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
+
+> (1OA (Extent: E.W.) (affected by repeal, see note))[^c-849bbad3ab9ec4648764cc566f1b9085] The reference in subsection (5) above to the period during which a reception order has effect includes a reference to any subsequent period during wwhich by virtue of the order having been made the Social Work (Scotland) Act 1968 or the Children and Young Persons Act Northern Ireland) 1968 has effect in relation to the person in respect of whom the order was made and subsection (10) above shall accordingly have effect in relation to any such subsequent period. *(Extent: E.W.)* *(affected by repeal, see note)*[^c-849bbad3ab9ec4648764cc566f1b9085]
 
 ### Treatment of Offenders (Northern Ireland) Order 1976
 
@@ -508,17 +508,17 @@ Section 22.
 
 [^c1030491]: Modification: By [Criminal Justice Act 1991 (c. 53, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/53), [s. 101(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/101/1), [Sch. 12 para.23](https://www.legislation.gov.uk/ukpga/1991/53/schedule/12/paragraph/23); [S.I. 1991/2208](https://www.legislation.gov.uk/uksi/1991/2208), [art. 2(1)](https://www.legislation.gov.uk/uksi/1991/2208/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1991/2208/schedule/1) it is provided (14.10.1991) that in relation to any time before the commencement of s. 70 of that 1991 Act (which came into force on 1.10.1992 by [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)) references in any enactment amended by that 1991 Act, to youth courts shall be construed as references to juvenile courts.
 
-[^key-715a88035a2f9288486dad12d8e5a88a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1976/52) power to amend conferred (25.8.2006) by [Armed Forces Act 2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19), [ss. 30(4)(e)](https://www.legislation.gov.uk/ukpga/2001/19/section/30/4/e), [39(2)](https://www.legislation.gov.uk/ukpga/2001/19/section/39/2); [S.I. 2006/2309](https://www.legislation.gov.uk/uksi/2006/2309), [art. 2](https://www.legislation.gov.uk/uksi/2006/2309/article/2)
+[^c-715a88035a2f9288486dad12d8e5a88a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1976/52) power to amend conferred (25.8.2006) by [Armed Forces Act 2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19), [ss. 30(4)(e)](https://www.legislation.gov.uk/ukpga/2001/19/section/30/4/e), [39(2)](https://www.legislation.gov.uk/ukpga/2001/19/section/39/2); [S.I. 2006/2309](https://www.legislation.gov.uk/uksi/2006/2309), [art. 2](https://www.legislation.gov.uk/uksi/2006/2309/article/2)
 
-[^key-ff0583f21e4d9c6407531602f25a9f03]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1976/52) power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-ff0583f21e4d9c6407531602f25a9f03]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1976/52) power to amend conferred (4.6.2007) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 381](https://www.legislation.gov.uk/ukpga/2006/52/section/381), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
 
 [^c1030492]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1976/52/section/1) repealed by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/1981/55/section/1/5), [28](https://www.legislation.gov.uk/ukpga/1981/55/section/28), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/55/schedule/5/part/II)
 
-[^key-1acf1bdaab9d4b65b0ea2cc1e66cec19]: Textual amendment: [Ss. 2-4](https://www.legislation.gov.uk/ukpga/1976/52/section/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-1acf1bdaab9d4b65b0ea2cc1e66cec19]: Textual amendment: [Ss. 2-4](https://www.legislation.gov.uk/ukpga/1976/52/section/2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030502]: Textual amendment: S. 5 repealed (1.4.1997) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2), SCh. 7 Pt. I; [S.I. 1997/304](https://www.legislation.gov.uk/uksi/1997/304), [art. 2](https://www.legislation.gov.uk/uksi/1997/304/article/2)(with art. 3)
 
-[^key-dee33bc7b9b5b7631295c55de84bfc14]: Textual amendment: [Ss. 6-16](https://www.legislation.gov.uk/ukpga/1976/52/section/6) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-dee33bc7b9b5b7631295c55de84bfc14]: Textual amendment: [Ss. 6-16](https://www.legislation.gov.uk/ukpga/1976/52/section/6) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030567]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland and Northern Ireland only.
 
@@ -526,9 +526,9 @@ Section 22.
 
 [^c1030588]: Textual amendment: S. 17 repealed (1.10.1996) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7/part/III); [S.I. 1996/2474](https://www.legislation.gov.uk/uksi/1996/2474), [art. 2](https://www.legislation.gov.uk/uksi/1996/2474/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2474/schedule)
 
-[^key-ceb1167da769c2d0562bf2f515c64e6e]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1976/52/section/18) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ceb1167da769c2d0562bf2f515c64e6e]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1976/52/section/18) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-01e107c5f406055d908ecda478f1ee8f]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1976/52/section/19) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-01e107c5f406055d908ecda478f1ee8f]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1976/52/section/19) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030591]: Modification: The text of ss. 2, 5(1), 9–12, 15, 16, 18, 20, 22(5)(6), Schs. 1, 2, and 4–10 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -560,7 +560,7 @@ Section 22.
 
 [^c1030615]: Modification: Power of appointment fully exercised: 1.7.1977 appointed by [S.I. 1977/897](https://www.legislation.gov.uk/uksi/1977/897)
 
-[^key-b0ac5f70f6872aa30309fb9e6912263e]: Textual amendment: [Schs. 1-8](https://www.legislation.gov.uk/ukpga/1976/52/schedule/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b0ac5f70f6872aa30309fb9e6912263e]: Textual amendment: [Schs. 1-8](https://www.legislation.gov.uk/ukpga/1976/52/schedule/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030642]: Textual amendment: Sch. 3 para. 7 repealed (1.4.1997) by [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46) , [ss. 5](https://www.legislation.gov.uk/ukpga/1996/46/section/5) , [35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2) , SCh. 1 Pt. IV para. 103(6), Sch. 7 Pt. I; [S.I. 1997/304](https://www.legislation.gov.uk/uksi/1997/304) , [art. 2](https://www.legislation.gov.uk/uksi/1997/304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/1997/304/article/3) )
 
@@ -572,25 +572,25 @@ Section 22.
 
 [^c1030722]: Textual amendment: [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/2) repealed by [S.I. 1979/1714 (N.I.19)](https://www.legislation.gov.uk/nisi/1979/1714), [Sch. 2](https://www.legislation.gov.uk/nisi/1979/1714/schedule/2)
 
-[^key-698a256ae2bcd5900a723800a1d330e7]: Textual amendment: [Sch. 9 paras. 3-8](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-698a256ae2bcd5900a723800a1d330e7]: Textual amendment: [Sch. 9 paras. 3-8](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030728]: Textual amendment: Sch. 9 para. 9 repealed (with saving) by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 28(2)](https://www.legislation.gov.uk/ukpga/1981/55/section/28/2), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1981/55/schedule/5/part/I)
 
-[^key-690baf3624c0d5bf279520f6d9eabcec]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-690baf3624c0d5bf279520f6d9eabcec]: Textual amendment: [Sch. 9 para. 10](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f2ed2ba0898d2651f5dea33eb5510871]: Textual amendment: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/11) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f2ed2ba0898d2651f5dea33eb5510871]: Textual amendment: [Sch. 9 para. 11](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/11) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030730]: Textual amendment: [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/12) repealed by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 28](https://www.legislation.gov.uk/ukpga/1981/55/section/28), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/55/schedule/5/part/II)
 
-[^key-99bc6efa5944cbdafe689fb7cd5d2946]: Textual amendment: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/13) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-99bc6efa5944cbdafe689fb7cd5d2946]: Textual amendment: [Sch. 9 para. 13](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/13) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-efa70821460c1c2e4e00bf71458372d9]: Textual amendment: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/14) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-efa70821460c1c2e4e00bf71458372d9]: Textual amendment: [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/14) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030731]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 
-[^key-a4181be567cdb0d397d766fa0ce23018]: Textual amendment: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/16) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a4181be567cdb0d397d766fa0ce23018]: Textual amendment: [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/16) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ac299e38fb9fc6fad9e4a2e71cbc3008]: Textual amendment: [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/17) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ac299e38fb9fc6fad9e4a2e71cbc3008]: Textual amendment: [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/17) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c1030733]: Marginal citation: [1968 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1968/29).
 
@@ -598,7 +598,7 @@ Section 22.
 
 [^c1030735]: Textual amendment: [Sch. 9 para. 20(2)](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/20/2) repealed (1.10.1996) [1996 c. 46](https://www.legislation.gov.uk/ukpga/1996/46), [s. 35(2)](https://www.legislation.gov.uk/ukpga/1996/46/section/35/2), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1996/46/schedule/7/part/III); [S.I. 1996/2474](https://www.legislation.gov.uk/uksi/1996/2474), [art. 2](https://www.legislation.gov.uk/uksi/1996/2474/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1996/2474/schedule)(with art. 3)
 
-[^key-849bbad3ab9ec4648764cc566f1b9085]: Textual amendment: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/21) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-849bbad3ab9ec4648764cc566f1b9085]: Textual amendment: [Sch. 9 para. 21](https://www.legislation.gov.uk/ukpga/1976/52/schedule/9/paragraph/21) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c1030736]: Marginal citation: Northern S.I. [1976 No. 226](https://www.legislation.gov.uk/ukcm/1976/226) (N.I.4).
 

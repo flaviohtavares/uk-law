@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Plastic Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2008 (revoked)[^key-2e69f1f7dd79efa0d38c21612ec19b9e]
+The Plastic Materials and Articles in Contact with Food (Scotland) Amendment Regulations 2008 (revoked)[^c-2e69f1f7dd79efa0d38c21612ec19b9e]
 
 Made
 
@@ -44,32 +44,32 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-2e69f1f7dd79efa0d38c21612ec19b9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e69f1f7dd79efa0d38c21612ec19b9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2e69f1f7dd79efa0d38c21612ec19b9e]
+## 1. Citation and commencement[^c-2e69f1f7dd79efa0d38c21612ec19b9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2008[^key-2e69f1f7dd79efa0d38c21612ec19b9e]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food (Scotland) Regulations 2008[^c-2e69f1f7dd79efa0d38c21612ec19b9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Plastic Materials and Articles in Contact with Food (Lid Gaskets) (Scotland) Regulations 2007[^key-2e69f1f7dd79efa0d38c21612ec19b9e]
+## 3. Amendment to the Plastic Materials and Articles in Contact with Food (Lid Gaskets) (Scotland) Regulations 2007[^c-2e69f1f7dd79efa0d38c21612ec19b9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the Materials and Articles in Contact with Food (Scotland) Regulations 2007[^key-2e69f1f7dd79efa0d38c21612ec19b9e]
+## 4. Amendment to the Materials and Articles in Contact with Food (Scotland) Regulations 2007[^c-2e69f1f7dd79efa0d38c21612ec19b9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e69f1f7dd79efa0d38c21612ec19b9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e69f1f7dd79efa0d38c21612ec19b9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2e69f1f7dd79efa0d38c21612ec19b9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e69f1f7dd79efa0d38c21612ec19b9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e69f1f7dd79efa0d38c21612ec19b9e]: Textual amendment: Regulations revoked (22.12.2012) by The Materials and Articles in Contact with [Food (Scotland) Regulations 2012 (S.S.I. 2012/318)](https://www.legislation.gov.uk/ssi/2012/318), [reg. 1](https://www.legislation.gov.uk/ssi/2012/318/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/318/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/318/regulation/3))
+[^c-2e69f1f7dd79efa0d38c21612ec19b9e]: Textual amendment: Regulations revoked (22.12.2012) by The Materials and Articles in Contact with [Food (Scotland) Regulations 2012 (S.S.I. 2012/318)](https://www.legislation.gov.uk/ssi/2012/318), [reg. 1](https://www.legislation.gov.uk/ssi/2012/318/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/318/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/318/regulation/3))

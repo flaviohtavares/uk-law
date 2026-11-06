@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14.3. Revocation of order for disposal by written representations[^key-bac8ba61fdee799c17f73f53997848dc]
+## 14.3. Revocation of order for disposal by written representations[^c-bac8ba61fdee799c17f73f53997848dc]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bac8ba61fdee799c17f73f53997848dc]: Commencement: [Rule 14.3](https://www.legislation.gov.uk/uksi/2015/1568/article/14.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-bac8ba61fdee799c17f73f53997848dc]: Commencement: [Rule 14.3](https://www.legislation.gov.uk/uksi/2015/1568/article/14.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

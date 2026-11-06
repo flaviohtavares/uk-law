@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52AZA. Repayment by claimant etc.[^key-7b43a3a2408be8590cee87c721ba6e4f]
+## 52AZA. Repayment by claimant etc.[^c-7b43a3a2408be8590cee87c721ba6e4f]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b43a3a2408be8590cee87c721ba6e4f]: Textual amendment: [S. 52AZA](https://www.legislation.gov.uk/ukpga/1973/26/section/52AZA) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 197(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/197/5), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-7b43a3a2408be8590cee87c721ba6e4f]: Textual amendment: [S. 52AZA](https://www.legislation.gov.uk/ukpga/1973/26/section/52AZA) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 197(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/197/5), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

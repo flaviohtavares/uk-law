@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 599A. Amount of distribution consisting of share capital issued in lieu of cash dividend[^key-5416908bdd550bd004b708457bd20952][^key-e56e599e8eaf44ec73b891bfedfed6b3]
+## 599A. Amount of distribution consisting of share capital issued in lieu of cash dividend[^c-5416908bdd550bd004b708457bd20952][^c-e56e599e8eaf44ec73b891bfedfed6b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5416908bdd550bd004b708457bd20952]: Textual amendment: S. 599A inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/10)
+[^c-5416908bdd550bd004b708457bd20952]: Textual amendment: S. 599A inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/10)
 
-[^key-e56e599e8eaf44ec73b891bfedfed6b3]: Modification: S. 599A applied by 2007 c. 3, s. 973(3B) (as inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/2))
+[^c-e56e599e8eaf44ec73b891bfedfed6b3]: Modification: S. 599A applied by 2007 c. 3, s. 973(3B) (as inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/2))

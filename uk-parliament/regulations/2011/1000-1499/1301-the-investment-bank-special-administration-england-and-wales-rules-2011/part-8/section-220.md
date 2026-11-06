@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 220. Final progress reports[^key-4628c75ed93ef0b14c0746b9a4f3bc33]
+## 220. Final progress reports[^c-4628c75ed93ef0b14c0746b9a4f3bc33]
 
 *Extent: E+W*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) The final progress report means a progress report which includes a summary of—
 
-- (a) the administrator’s proposals (including whether the FCA or, where relevant, the PRA[^key-54ec09ea6ea0b27a89d9659466623b23] has given a direction under regulation 16 and whether that direction has been withdrawn);
+- (a) the administrator’s proposals (including whether the FCA or, where relevant, the PRA[^c-54ec09ea6ea0b27a89d9659466623b23] has given a direction under regulation 16 and whether that direction has been withdrawn);
 - (b) any major amendments to, or deviations from, those proposals;
 - (c) the steps taken during the special administration, including in a special administration (bank insolvency) or a special administration (bank administration), the steps taken to achieve Objective A; and
 - (d) the outcome.
 
 ## Annotations
 
-[^key-4628c75ed93ef0b14c0746b9a4f3bc33]: Commencement: [Rule 220](https://www.legislation.gov.uk/uksi/2011/1301/rule/220) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4628c75ed93ef0b14c0746b9a4f3bc33]: Commencement: [Rule 220](https://www.legislation.gov.uk/uksi/2011/1301/rule/220) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-54ec09ea6ea0b27a89d9659466623b23]: Textual amendment: Words in [art. 220(2)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/220/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xiv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xiv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-54ec09ea6ea0b27a89d9659466623b23]: Textual amendment: Words in [art. 220(2)(a)](https://www.legislation.gov.uk/uksi/2011/1301/article/220/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xiv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xiv) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

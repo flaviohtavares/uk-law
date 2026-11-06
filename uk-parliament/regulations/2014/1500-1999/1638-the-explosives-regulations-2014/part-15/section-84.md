@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Review[^key-6a1c7c17b3aea5c149b423dce016b3c5]
+## 84. Review[^c-6a1c7c17b3aea5c149b423dce016b3c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6a1c7c17b3aea5c149b423dce016b3c5]: Textual amendment: Pt. 15 reg. 49 renumbered as Pt. 15 reg. 84 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/9/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
+[^c-6a1c7c17b3aea5c149b423dce016b3c5]: Textual amendment: Pt. 15 reg. 49 renumbered as Pt. 15 reg. 84 (20.4.2016) by [The Explosives Regulations 2014 (Amendment) Regulations 2016 (S.I. 2016/315)](https://www.legislation.gov.uk/uksi/2016/315), [regs. 1](https://www.legislation.gov.uk/uksi/2016/315/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2016/315/regulation/9/b) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/315/regulation/2/1), [15](https://www.legislation.gov.uk/uksi/2016/315/regulation/15))
 
 [^c22150841]: Marginal citation: OJ No. L 121, 15.5.1993, p.20.
 

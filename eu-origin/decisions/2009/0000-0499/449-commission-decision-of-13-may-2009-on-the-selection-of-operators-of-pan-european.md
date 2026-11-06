@@ -37,20 +37,20 @@ on the selection of operators of pan-European systems providing mobile satellite
 
 (2009/449/EC) (revoked)
 
-[^key-dae9bce5ba0459c00a2e30e6a49dd09e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dae9bce5ba0459c00a2e30e6a49dd09e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-dae9bce5ba0459c00a2e30e6a49dd09e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dae9bce5ba0459c00a2e30e6a49dd09e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dae9bce5ba0459c00a2e30e6a49dd09e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dae9bce5ba0459c00a2e30e6a49dd09e]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dae9bce5ba0459c00a2e30e6a49dd09e]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Voting rights and resolutions[^key-dfec5a3523b612a93a813bec7bfe0ebb]
+## 72. Voting rights and resolutions[^c-dfec5a3523b612a93a813bec7bfe0ebb]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfec5a3523b612a93a813bec7bfe0ebb]: Commencement: Rule 72 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-dfec5a3523b612a93a813bec7bfe0ebb]: Commencement: Rule 72 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

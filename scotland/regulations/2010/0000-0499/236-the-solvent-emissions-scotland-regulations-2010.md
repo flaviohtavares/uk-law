@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Solvent Emissions (Scotland) Regulations 2010 (revoked)[^key-af81e2d2538ba3cbe1f95b7695b7733b]
+The Solvent Emissions (Scotland) Regulations 2010 (revoked)[^c-af81e2d2538ba3cbe1f95b7695b7733b]
 
 Made
 
@@ -44,28 +44,28 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with regulation 1(2) to (4)
 
-[^key-af81e2d2538ba3cbe1f95b7695b7733b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af81e2d2538ba3cbe1f95b7695b7733b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-af81e2d2538ba3cbe1f95b7695b7733b]
+## 1. Citation and commencement[^c-af81e2d2538ba3cbe1f95b7695b7733b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-af81e2d2538ba3cbe1f95b7695b7733b]
+## 2. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-af81e2d2538ba3cbe1f95b7695b7733b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Solvent Emissions (Scotland) Regulations 2004[^key-af81e2d2538ba3cbe1f95b7695b7733b]
+## 3. Amendment of the Solvent Emissions (Scotland) Regulations 2004[^c-af81e2d2538ba3cbe1f95b7695b7733b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af81e2d2538ba3cbe1f95b7695b7733b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af81e2d2538ba3cbe1f95b7695b7733b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af81e2d2538ba3cbe1f95b7695b7733b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af81e2d2538ba3cbe1f95b7695b7733b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af81e2d2538ba3cbe1f95b7695b7733b]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-af81e2d2538ba3cbe1f95b7695b7733b]: Textual amendment: Regulations revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

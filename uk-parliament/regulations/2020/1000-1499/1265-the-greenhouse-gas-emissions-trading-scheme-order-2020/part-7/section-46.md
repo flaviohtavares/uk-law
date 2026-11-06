@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Carbon price[^key-f177f4f041779f5985bbaadf4979b42f]
+## 46. Carbon price[^c-f177f4f041779f5985bbaadf4979b42f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f177f4f041779f5985bbaadf4979b42f]: Commencement: Art. 46 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-f177f4f041779f5985bbaadf4979b42f]: Commencement: Art. 46 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

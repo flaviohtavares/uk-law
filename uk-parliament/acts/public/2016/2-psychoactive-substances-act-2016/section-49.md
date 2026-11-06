@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Retention of seized items[^key-5974eadb8c446b1afef4088daa3f469b]
+## 49. Retention of seized items[^c-5974eadb8c446b1afef4088daa3f469b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5974eadb8c446b1afef4088daa3f469b]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/2/section/49) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-5974eadb8c446b1afef4088daa3f469b]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2016/2/section/49) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

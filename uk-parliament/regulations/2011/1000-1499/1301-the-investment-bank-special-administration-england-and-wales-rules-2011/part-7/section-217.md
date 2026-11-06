@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 217. Additional joint administrator (special administration (bank administration))[^key-170338115413439b1ac0f59b0a09e29c]
+## 217. Additional joint administrator (special administration (bank administration))[^c-170338115413439b1ac0f59b0a09e29c]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-170338115413439b1ac0f59b0a09e29c]: Commencement: [Rule 217](https://www.legislation.gov.uk/uksi/2011/1301/rule/217) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-170338115413439b1ac0f59b0a09e29c]: Commencement: [Rule 217](https://www.legislation.gov.uk/uksi/2011/1301/rule/217) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

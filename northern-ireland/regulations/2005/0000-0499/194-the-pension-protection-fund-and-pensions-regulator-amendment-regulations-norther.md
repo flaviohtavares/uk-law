@@ -43,15 +43,15 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 2(5)(a), 34(1)(b), 48(1)(b), 106(5)(a) and (8), 110(1)(b), 119(4), 123(6), 135(4)(b)(ii), 189(1), (2) and (5)(b), (d) and (e), 280(1)(b) and (2)(b) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-b005c67bd86d90a8d49ac9efc12437de]
+## 1. Citation and commencement[^c-b005c67bd86d90a8d49ac9efc12437de]
 
 These Regulations may be cited as the Pension Protection Fund and Pensions Regulator (Amendment) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
-## 2. Amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations[^key-2c88c8d38ce64559fb9ca134cdd56860]
+## 2. Amendment of the Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations[^c-2c88c8d38ce64559fb9ca134cdd56860]
 
 (1) The Pension Protection Fund (Multi-employer Schemes) (Modification) Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (7).
 
-(2)[^key-d7b12cc0751da5fe6849cb33a8d99b80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d7b12cc0751da5fe6849cb33a8d99b80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulations 10(2)(a) (reconsideration and duty to assume responsibility for a scheme following reconsideration), 25(2)(a) (reconsideration, closed schemes and requirement to wind up schemes with sufficient assets to meet protected liabilities), 40(2)(b) (reconsideration) and 56(2)(b) (reconsideration) in the substituted paragraph (2)(b) for “paragraph (2) of Article 135” there shall be substituted “paragraph (2) or (3) of Article 135”.
 
@@ -61,9 +61,9 @@ These Regulations may be cited as the Pension Protection Fund and Pensions Regul
 
 (6) In regulation 57 (closed schemes and requirement to wind up schemes with sufficient assets) for the heading there shall be substituted “Closed schemes, requirement to wind up schemes with sufficient assets and applications and notifications where closed schemes have insufficient assets”.
 
-(7)[^key-de376c6feed65b7473b54c16d9dbef13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-de376c6feed65b7473b54c16d9dbef13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^key-10f30cd2261dd9ccc5f3599e21cf7a58]
+## 3. Amendment of the Pension Protection Fund (Entry Rules) Regulations[^c-10f30cd2261dd9ccc5f3599e21cf7a58]
 
 (1) The Pension Protection Fund (Entry Rules) Regulations (Northern Ireland) 2005[^f00003] shall be amended in accordance with paragraphs (2) to (7).
 
@@ -91,7 +91,7 @@ These Regulations may be cited as the Pension Protection Fund and Pensions Regul
 
 (7) In regulation 24(1)(b)(ii) (applications for reconsideration) for “on any day” there shall be substituted “with any day”.
 
-## 4. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^key-5d2be0c5664dfaa6f1010d77cc546441]
+## 4. Amendment of the Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations[^c-5d2be0c5664dfaa6f1010d77cc546441]
 
 (1) The Pension Protection Fund (Review and Reconsideration of Reviewable Matters) Regulations (Northern Ireland) 2005[^f00004] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -115,7 +115,7 @@ These Regulations may be cited as the Pension Protection Fund and Pensions Regul
 - (b) for “regulation 19(1)” there shall be substituted “regulation 19(2)”; and
 - (c) for “review decision” there shall be substituted “reconsideration decision”.
 
-## 5. Amendment of the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations[^key-ddde75ea936012a4f0f258fe91fe9284]
+## 5. Amendment of the Pensions Regulator (Contribution Notices and Restoration Orders) Regulations[^c-ddde75ea936012a4f0f258fe91fe9284]
 
 (1) The Pensions Regulator (Contribution Notices and Restoration Orders) Regulations (Northern Ireland) 2005[^f00005] shall be amended in accordance with paragraph (2).
 
@@ -160,24 +160,24 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); the Pensions (Northern Ireland) Order 2005 is modified in its application to partially guaranteed schemes, hybrid schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55), [84](https://www.legislation.gov.uk/nisr/2005/84) and [91](https://www.legislation.gov.uk/nisr/2005/91)
 
-[^key-b005c67bd86d90a8d49ac9efc12437de]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
+[^c-b005c67bd86d90a8d49ac9efc12437de]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
 
-[^key-2c88c8d38ce64559fb9ca134cdd56860]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
+[^c-2c88c8d38ce64559fb9ca134cdd56860]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 91](https://www.legislation.gov.uk/nisr/2005/91)
 
-[^key-d7b12cc0751da5fe6849cb33a8d99b80]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/194/regulation/2/2) revoked (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2005/357/regulation/10)
+[^c-d7b12cc0751da5fe6849cb33a8d99b80]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2005/194/regulation/2/2) revoked (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2005/357/regulation/10)
 
-[^key-de376c6feed65b7473b54c16d9dbef13]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/nisr/2005/194/regulation/2/7) revoked (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2005/357/regulation/10)
+[^c-de376c6feed65b7473b54c16d9dbef13]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/nisr/2005/194/regulation/2/7) revoked (19.8.2005) by [The Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2005 (S.R. 2005/357)](https://www.legislation.gov.uk/nisr/2005/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/357/regulation/1/1), [10](https://www.legislation.gov.uk/nisr/2005/357/regulation/10)
 
-[^key-10f30cd2261dd9ccc5f3599e21cf7a58]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
+[^c-10f30cd2261dd9ccc5f3599e21cf7a58]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2005 No. 126](https://www.legislation.gov.uk/nisr/2005/126)
 
-[^key-5d2be0c5664dfaa6f1010d77cc546441]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
+[^c-5d2be0c5664dfaa6f1010d77cc546441]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 138](https://www.legislation.gov.uk/nisr/2005/138)
 
-[^key-ddde75ea936012a4f0f258fe91fe9284]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
+[^c-ddde75ea936012a4f0f258fe91fe9284]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/194/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2005 No. 173](https://www.legislation.gov.uk/nisr/2005/173)

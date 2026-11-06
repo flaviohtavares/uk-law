@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 66. House of Bishops’ declarations[^key-3088ac8573c196ea8431cac5ef251c07]
+## 66. House of Bishops’ declarations[^c-3088ac8573c196ea8431cac5ef251c07]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3088ac8573c196ea8431cac5ef251c07]: Commencement: S. 66 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-3088ac8573c196ea8431cac5ef251c07]: Commencement: S. 66 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

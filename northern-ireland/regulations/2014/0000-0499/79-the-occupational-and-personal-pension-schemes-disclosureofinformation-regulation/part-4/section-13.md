@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Other information to be given on request[^key-1412792b5e817278a834c1bf7bb8cba2]
+## 13. Other information to be given on request[^c-1412792b5e817278a834c1bf7bb8cba2]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1412792b5e817278a834c1bf7bb8cba2]: Commencement: Reg. 13 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-1412792b5e817278a834c1bf7bb8cba2]: Commencement: Reg. 13 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

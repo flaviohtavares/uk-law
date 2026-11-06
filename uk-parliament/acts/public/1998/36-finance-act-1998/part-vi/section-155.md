@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Code for fiscal stability.[^key-b73e526e97a0c54160059c6830fcb996]
+## 155. Code for fiscal stability.[^c-b73e526e97a0c54160059c6830fcb996]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b73e526e97a0c54160059c6830fcb996]: Textual amendment: [Ss. 155-157](https://www.legislation.gov.uk/ukpga/1998/36/section/155) repealed (23.3.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 10(b)](https://www.legislation.gov.uk/ukpga/2011/4/section/10/b), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29); [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [art. 2](https://www.legislation.gov.uk/uksi/2011/892/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)
+[^c-b73e526e97a0c54160059c6830fcb996]: Textual amendment: [Ss. 155-157](https://www.legislation.gov.uk/ukpga/1998/36/section/155) repealed (23.3.2011) by [Budget Responsibility and National Audit Act 2011 (c. 4)](https://www.legislation.gov.uk/ukpga/2011/4), [ss. 10(b)](https://www.legislation.gov.uk/ukpga/2011/4/section/10/b), [29](https://www.legislation.gov.uk/ukpga/2011/4/section/29); [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [art. 2](https://www.legislation.gov.uk/uksi/2011/892/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/892/schedule/1)

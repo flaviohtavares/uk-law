@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Assignation of repairing tenancy[^key-a38d28c47a7fe0c6af17073599de6386]
+## 19. Assignation of repairing tenancy[^c-a38d28c47a7fe0c6af17073599de6386]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a38d28c47a7fe0c6af17073599de6386]: Commencement: S. 19 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-a38d28c47a7fe0c6af17073599de6386]: Commencement: S. 19 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

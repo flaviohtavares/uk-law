@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Repeals and revocations[^key-752eeafaca077bf910c818bc4a7b27f6]
+## 74. Repeals and revocations[^c-752eeafaca077bf910c818bc4a7b27f6]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-752eeafaca077bf910c818bc4a7b27f6]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/3248/regulation/74) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-752eeafaca077bf910c818bc4a7b27f6]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/3248/regulation/74) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

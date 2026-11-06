@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124P. Appointment of manager of internet domain registry[^key-27c89e809a2e89545b3afacdb1f7d2f9]
+## 124P. Appointment of manager of internet domain registry[^c-27c89e809a2e89545b3afacdb1f7d2f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27c89e809a2e89545b3afacdb1f7d2f9]: Textual amendment: Ss. 124P, 124Q inserted (6.4.2024) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/20/1), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(b)](https://www.legislation.gov.uk/uksi/2023/792/article/3/b)
+[^c-27c89e809a2e89545b3afacdb1f7d2f9]: Textual amendment: Ss. 124P, 124Q inserted (6.4.2024) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/20/1), [47(3)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/a); [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(b)](https://www.legislation.gov.uk/uksi/2023/792/article/3/b)

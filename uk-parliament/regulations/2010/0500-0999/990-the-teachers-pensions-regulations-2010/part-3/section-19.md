@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Election to pay contributions by a person serving in a reserve force[^key-241cf0a3ba73d805638dc21d76bab329]
+## 19. Election to pay contributions by a person serving in a reserve force[^c-241cf0a3ba73d805638dc21d76bab329]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 and as if the reference to “**contributable salary**” in regulation 18 and the reference to “actual contributable salary” in regulation C3(4) of TPR 1997 were references to the notional salary of the person who makes an election under this regulation.
 
-(8)[^key-0a4d1ffc2e9ba95a1adc5d82d0d6257c] Subject to paragraph (9), the notional salary of a person who makes an election under this regulation is the amount which would have been the person’s contributable salary if pensionable employment had not ceased and the person had continued to be employed in the same post and on the same terms increased on 1st April following the beginning of the period specified in paragraph (3) and on each subsequent 1st April during that period by (RI-RE)/RE, where—
+(8)[^c-0a4d1ffc2e9ba95a1adc5d82d0d6257c] Subject to paragraph (9), the notional salary of a person who makes an election under this regulation is the amount which would have been the person’s contributable salary if pensionable employment had not ceased and the person had continued to be employed in the same post and on the same terms increased on 1st April following the beginning of the period specified in paragraph (3) and on each subsequent 1st April during that period by (RI-RE)/RE, where—
 
 - (a) RI is the retail prices index for the March immediately preceding the April in which the increase occurs, and
 - (b) RE is the retail prices index for the month in which the period began.
@@ -66,10 +66,10 @@ and as if the reference to “**contributable salary**” in regulation 18 and t
 
 ## Annotations
 
-[^key-241cf0a3ba73d805638dc21d76bab329]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/990/regulation/19) modified (1.4.2015) by [The Teachers' Pension Scheme Regulations 2014 (S.I. 2014/512)](https://www.legislation.gov.uk/uksi/2014/512), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/512/regulation/1/2), [Sch. 3 para. 54(1)](https://www.legislation.gov.uk/uksi/2014/512/schedule/3/paragraph/54/1) (with [reg. 183](https://www.legislation.gov.uk/uksi/2014/512/regulation/183))
+[^c-241cf0a3ba73d805638dc21d76bab329]: Modification: [Reg. 19](https://www.legislation.gov.uk/uksi/2010/990/regulation/19) modified (1.4.2015) by [The Teachers' Pension Scheme Regulations 2014 (S.I. 2014/512)](https://www.legislation.gov.uk/uksi/2014/512), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/512/regulation/1/2), [Sch. 3 para. 54(1)](https://www.legislation.gov.uk/uksi/2014/512/schedule/3/paragraph/54/1) (with [reg. 183](https://www.legislation.gov.uk/uksi/2014/512/regulation/183))
 
 [^c20237671]: Marginal citation: [1996 c.14](https://www.legislation.gov.uk/ukpga/1996/14)
 
-[^key-0a4d1ffc2e9ba95a1adc5d82d0d6257c]: Textual amendment: [Reg. 19(8)-(10)](https://www.legislation.gov.uk/uksi/2010/990/regulation/19/8) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/2)
+[^c-0a4d1ffc2e9ba95a1adc5d82d0d6257c]: Textual amendment: [Reg. 19(8)-(10)](https://www.legislation.gov.uk/uksi/2010/990/regulation/19/8) substituted (1.4.2011) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/614)](https://www.legislation.gov.uk/uksi/2011/614), [reg. 1](https://www.legislation.gov.uk/uksi/2011/614/regulation/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/614/schedule/2/paragraph/2)
 
 [^c20237681]: Marginal citation: [1951 c. 65](https://www.legislation.gov.uk/ukpga/1951/65)

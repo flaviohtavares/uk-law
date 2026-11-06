@@ -44,15 +44,15 @@ The Lord President of the Council makes this Order in exercise of the powers con
 
 In accordance with section 7(1) and (2)(hc) of the Political Parties, Elections and Referendums Act 2000[^f00002], the Lord President of the Council has consulted the Electoral Commission.
 
-In accordance with section 154(2)(b) of the Police Reform and Social Responsibility Act 2011, a draft of this Order has been laid before, and approved by a resolution of, each House of Parliament.[^key-e747595f60309dfb4fef99b46b226b99]
+In accordance with section 154(2)(b) of the Police Reform and Social Responsibility Act 2011, a draft of this Order has been laid before, and approved by a resolution of, each House of Parliament.[^c-e747595f60309dfb4fef99b46b226b99]
 
-## 1. Citation, commencement and extent[^key-f79bbc841cc4ed9b39cdd3468584479e]
+## 1. Citation, commencement and extent[^c-f79bbc841cc4ed9b39cdd3468584479e]
 
 (1) This Order may be cited as the Police and Crime Commissioner Elections Order 2015 and comes into force on 7th May 2015.
 
 (2) This Order extends to England and Wales only.
 
-## 2. Application of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004 to police and crime commissioner elections[^key-065292e6a37b53219aa4d7f3d9aa540a]
+## 2. Application of the Representation of the People (Combination of Polls) (England and Wales) Regulations 2004 to police and crime commissioner elections[^c-065292e6a37b53219aa4d7f3d9aa540a]
 
 (1) The amendments made by the 2015 Regulations to the 2004 Regulations have effect in relation to a PCC election as they have effect in relation to an election or referendum within paragraphs (a) to (d) of the definition of “relevant election or referendum” in paragraph 2 of Schedule 2 to the 2004 Regulations.
 
@@ -86,11 +86,11 @@ This Order applies the amendments made to the Representation of the People (Comb
 
 [^f00002]: Footnote: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41). Section 7(2)(hc) was inserted by section 74 of, and paragraphs 8 and 11 of Schedule 10 to, the Police Reform and Social Responsibility Act 2011.
 
-[^key-e747595f60309dfb4fef99b46b226b99]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/665) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/30)
+[^c-e747595f60309dfb4fef99b46b226b99]: Modification: [Order](https://www.legislation.gov.uk/uksi/2015/665) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/30)
 
-[^key-f79bbc841cc4ed9b39cdd3468584479e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/665/article/1) in force at 7.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/665/article/1/1)
+[^c-f79bbc841cc4ed9b39cdd3468584479e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/665/article/1) in force at 7.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/665/article/1/1)
 
-[^key-065292e6a37b53219aa4d7f3d9aa540a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/665/article/2) in force at 7.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/665/article/1/1)
+[^c-065292e6a37b53219aa4d7f3d9aa540a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/665/article/2) in force at 7.5.2015, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/665/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917).
 

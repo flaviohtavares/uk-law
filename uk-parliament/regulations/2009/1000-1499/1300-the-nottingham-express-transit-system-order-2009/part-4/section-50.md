@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Traffic regulation[^key-e1a508030b1cb69c45f5f5daeb7d5f1c]
+## 50. Traffic regulation[^c-e1a508030b1cb69c45f5f5daeb7d5f1c]
 
 *Extent: E+W*
 
@@ -69,6 +69,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-e1a508030b1cb69c45f5f5daeb7d5f1c]: Commencement: Art. 50 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-e1a508030b1cb69c45f5f5daeb7d5f1c]: Commencement: Art. 50 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00037]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).

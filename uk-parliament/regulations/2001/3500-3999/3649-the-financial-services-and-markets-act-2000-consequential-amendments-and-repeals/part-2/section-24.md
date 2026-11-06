@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Disclosure of information by inspectors[^key-eb1004bcbfe05789f8a8693fe7e7416c]
+## 24. Disclosure of information by inspectors[^c-eb1004bcbfe05789f8a8693fe7e7416c]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ For subsection (3) of section 451A of the 1985 Act (disclosure of information by
 
 ## Annotations
 
-[^key-eb1004bcbfe05789f8a8693fe7e7416c]: Commencement: Art. 24 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-eb1004bcbfe05789f8a8693fe7e7416c]: Commencement: Art. 24 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00030]: Footnote: Inserted by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), Schedule 13, paragraph 10; substituted by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 68 and amended by [S.I. 1994/1696](https://www.legislation.gov.uk/uksi/1994/1696), Schedule 8, paragraph 9.

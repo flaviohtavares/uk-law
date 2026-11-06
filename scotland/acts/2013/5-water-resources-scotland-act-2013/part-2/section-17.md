@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Monitoring and records[^key-32681ed34215977e43494dfcb8ff4cfa]
+## 17. Monitoring and records[^c-32681ed34215977e43494dfcb8ff4cfa]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32681ed34215977e43494dfcb8ff4cfa]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/5/section/17) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-32681ed34215977e43494dfcb8ff4cfa]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2013/5/section/17) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

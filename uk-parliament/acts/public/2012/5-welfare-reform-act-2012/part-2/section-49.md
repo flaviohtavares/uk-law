@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-d8cbad4d48612191723009e0f46ab0a8][^key-88848c5a54c305be8fbe4dd72a54bc24][^key-cf744d7af469cff216b89656f5d238f2] The Jobseekers Act 1995 is amended as follows.
+(1)[^c-d8cbad4d48612191723009e0f46ab0a8][^c-88848c5a54c305be8fbe4dd72a54bc24][^c-cf744d7af469cff216b89656f5d238f2] The Jobseekers Act 1995 is amended as follows.
 
-(2)[^key-82b3dc3b3ba1fef81d6572f7aca63e24] In section 1(2) (conditions of entitlement), paragraphs (a) and (c) are repealed.
+(2)[^c-82b3dc3b3ba1fef81d6572f7aca63e24] In section 1(2) (conditions of entitlement), paragraphs (a) and (c) are repealed.
 
-(3)[^key-2b59c904490d3694d0b551f5a2fd3163][^key-0c7a73cc3ca3a64bf17ee8a742bd2533] For sections 6 to 10 (and the italic heading preceding section 6) there is substituted—
+(3)[^c-2b59c904490d3694d0b551f5a2fd3163][^c-0c7a73cc3ca3a64bf17ee8a742bd2533] For sections 6 to 10 (and the italic heading preceding section 6) there is substituted—
 
 > **Work-related requirements**
 >
@@ -307,12 +307,12 @@ summary: ''
 >
 > the authorised person is entitled to treat the contract as repudiated by the Secretary of State (and not as frustrated by reason of the revocation).
 
-(4)[^key-82b3dc3b3ba1fef81d6572f7aca63e24] In section 29 (pilot schemes), in subsection (8), for the words from “ascertaining” to the end there is substituted “testing the extent to which the provision made by the regulations is likely to promote—
+(4)[^c-82b3dc3b3ba1fef81d6572f7aca63e24] In section 29 (pilot schemes), in subsection (8), for the words from “ascertaining” to the end there is substituted “testing the extent to which the provision made by the regulations is likely to promote—
 
 - (a) people remaining in work, or
 - (b) people obtaining or being able to obtain work (or more work or better-paid work).”
 
-(5)[^key-82b3dc3b3ba1fef81d6572f7aca63e24] In section 35 (interpretation), in subsection (1), at the appropriate places there is inserted—
+(5)[^c-82b3dc3b3ba1fef81d6572f7aca63e24] In section 35 (interpretation), in subsection (1), at the appropriate places there is inserted—
 
 > “**work availability requirement**” has the meaning given by section 6E;
 
@@ -334,7 +334,7 @@ summary: ''
 
 .
 
-(6)[^key-a39004621542659c82b6b012290c3fb2] In section 37 (parliamentary control), in subsection (1), after paragraph (a) there is inserted—
+(6)[^c-a39004621542659c82b6b012290c3fb2] In section 37 (parliamentary control), in subsection (1), after paragraph (a) there is inserted—
 
 > - (aa) the first regulations to be made under section 6J or 6K;
 
@@ -342,16 +342,16 @@ summary: ''
 
 ## Annotations
 
-[^key-d8cbad4d48612191723009e0f46ab0a8]: Commencement: S. 49(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/22)
+[^c-d8cbad4d48612191723009e0f46ab0a8]: Commencement: S. 49(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/22)
 
-[^key-88848c5a54c305be8fbe4dd72a54bc24]: Commencement: S. 49(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11)
+[^c-88848c5a54c305be8fbe4dd72a54bc24]: Commencement: S. 49(1) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11)
 
-[^key-cf744d7af469cff216b89656f5d238f2]: Commencement: S. 49(1) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2))
+[^c-cf744d7af469cff216b89656f5d238f2]: Commencement: S. 49(1) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2))
 
-[^key-82b3dc3b3ba1fef81d6572f7aca63e24]: Commencement: S. 49(2)(4)(5) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2))
+[^c-82b3dc3b3ba1fef81d6572f7aca63e24]: Commencement: S. 49(2)(4)(5) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2))
 
-[^key-2b59c904490d3694d0b551f5a2fd3163]: Commencement: S. 49(3) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11)
+[^c-2b59c904490d3694d0b551f5a2fd3163]: Commencement: S. 49(3) in force at 25.2.2013 for specified purposes by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11)
 
-[^key-0c7a73cc3ca3a64bf17ee8a742bd2533]: Commencement: S. 49(3) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2))
+[^c-0c7a73cc3ca3a64bf17ee8a742bd2533]: Commencement: S. 49(3) in force at 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2))
 
-[^key-a39004621542659c82b6b012290c3fb2]: Commencement: S. 49(6) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/22)
+[^c-a39004621542659c82b6b012290c3fb2]: Commencement: S. 49(6) in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/22)

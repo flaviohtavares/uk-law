@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Chapter 5[^key-332c620bc3bb583ed40b44900750030a]
+## 7. Chapter 5[^c-332c620bc3bb583ed40b44900750030a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
   - (ii) in the third subparagraph—
     - (aa) for “the Member State which received it” substitute “ any competent authority ”;
     - (bb) omit “and adjuvants”;
-  - (iii) in the fourth subparagraph, for “first authorisation in that Member State” substitute “ the first authorisation by a competent authority in Great Britain[^key-31b4e9e717956da563aea738b9dd34fc] in relation to which the report is submitted ”;
+  - (iii) in the fourth subparagraph, for “first authorisation in that Member State” substitute “ the first authorisation by a competent authority in Great Britain[^c-31b4e9e717956da563aea738b9dd34fc] in relation to which the report is submitted ”;
   - (iv) in the fifth subparagraph, for “in that Member State” substitute “ described in the fourth subparagraph ”;
 - (b) in paragraph 3—
   - (i) omit “, adjuvant”;
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-332c620bc3bb583ed40b44900750030a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-332c620bc3bb583ed40b44900750030a]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-31b4e9e717956da563aea738b9dd34fc]: Textual amendment: Words in reg. 7(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(7)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/7)
+[^c-31b4e9e717956da563aea738b9dd34fc]: Textual amendment: Words in reg. 7(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(7)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/7)

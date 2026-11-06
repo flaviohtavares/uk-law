@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Annual rate of premature retirement pension[^key-1c8cff5a32bc42234839c9dcf9cef2f6]
+## 99. Annual rate of premature retirement pension[^c-1c8cff5a32bc42234839c9dcf9cef2f6]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ The annual rate of premature retirement pension payable to a person (P) is found
 
 ## Annotations
 
-[^key-1c8cff5a32bc42234839c9dcf9cef2f6]: Commencement: [Reg. 99](https://www.legislation.gov.uk/ssi/2014/292/regulation/99) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1c8cff5a32bc42234839c9dcf9cef2f6]: Commencement: [Reg. 99](https://www.legislation.gov.uk/ssi/2014/292/regulation/99) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

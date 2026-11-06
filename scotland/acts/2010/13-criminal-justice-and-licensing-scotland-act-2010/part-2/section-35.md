@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Sale and hire of crossbows to persons under 18[^key-84fe583949a60c2de1f040a863537dd9]
+## 35. Sale and hire of crossbows to persons under 18[^c-84fe583949a60c2de1f040a863537dd9]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84fe583949a60c2de1f040a863537dd9]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2010/13/section/35) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-84fe583949a60c2de1f040a863537dd9]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2010/13/section/35) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

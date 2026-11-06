@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Decisions of the jury[^key-f73eb1fc8ed80e59ea3dfecd755d9dcf][^key-1b1d9e17a6874a671389d4beda09643a][^key-1b1d9e17a6874a671389d4beda09643a]
+## 94. Decisions of the jury[^c-f73eb1fc8ed80e59ea3dfecd755d9dcf][^c-1b1d9e17a6874a671389d4beda09643a][^c-1b1d9e17a6874a671389d4beda09643a]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f73eb1fc8ed80e59ea3dfecd755d9dcf]: Commencement: [Reg. 94](https://www.legislation.gov.uk/ssi/2016/49/regulation/94) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-f73eb1fc8ed80e59ea3dfecd755d9dcf]: Commencement: [Reg. 94](https://www.legislation.gov.uk/ssi/2016/49/regulation/94) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-1b1d9e17a6874a671389d4beda09643a]: Modification: Pt. 3 Ch. 2 modified (18.4.2016) by [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), [Sch. 3 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/50/schedule/3/paragraph/10/2/b) (as substituted by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/b))
+[^c-1b1d9e17a6874a671389d4beda09643a]: Modification: Pt. 3 Ch. 2 modified (18.4.2016) by [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), [Sch. 3 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/50/schedule/3/paragraph/10/2/b) (as substituted by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/b))

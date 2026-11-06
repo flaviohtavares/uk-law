@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. VFM assessments[^key-5027e63e2b3530178e9aa1dfc60f3f8a]
+## 13. VFM assessments[^c-5027e63e2b3530178e9aa1dfc60f3f8a]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5027e63e2b3530178e9aa1dfc60f3f8a]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-5027e63e2b3530178e9aa1dfc60f3f8a]: Commencement: S. 13 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

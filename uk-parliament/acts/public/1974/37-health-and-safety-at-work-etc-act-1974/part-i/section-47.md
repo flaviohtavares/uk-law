@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Civil liability.[^c7813021][^c7813031][^c20459661][^key-0fe72d9a6077d9cfd7b83aac041509d3][^key-e7294dca4d75cba999cd802287726b57]
+## 47. Civil liability.[^c7813021][^c7813031][^c20459661][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-e7294dca4d75cba999cd802287726b57]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,9 +57,9 @@ summary: ''
 
 [^c20459661]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
-[^key-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-e7294dca4d75cba999cd802287726b57]: Modification: Pt. 1 modified (1.1.2018) by [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/3) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^M_F_a4ba46cd-3e91-46dd-e9e4-bbdae638f1fc]: Textual amendment: S. 47(1)(b) omitted (25.4.2013 for specified purposes, 1.10.2013 for remaining purposes) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/69/2), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 69(8)-(10)](https://www.legislation.gov.uk/ukpga/2013/24/section/69/8)); S.I. 2013/2227, art. 2(f)
 

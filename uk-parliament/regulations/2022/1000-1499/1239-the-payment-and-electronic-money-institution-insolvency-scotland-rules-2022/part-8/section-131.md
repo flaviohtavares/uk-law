@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Claim that remuneration is excessive[^key-a920b7359eb9ba883093657e13c8f899]
+## 131. Claim that remuneration is excessive[^c-a920b7359eb9ba883093657e13c8f899]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a920b7359eb9ba883093657e13c8f899]: Commencement: Rule 131 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-a920b7359eb9ba883093657e13c8f899]: Commencement: Rule 131 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

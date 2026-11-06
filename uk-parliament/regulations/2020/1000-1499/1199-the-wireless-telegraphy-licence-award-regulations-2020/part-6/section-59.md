@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Assignment of 700 MHz individual frequency lots without bidding.[^key-b4b3a7535d3a05fe0b64bdcf253a7f66]
+## 59. Assignment of 700 MHz individual frequency lots without bidding.[^c-b4b3a7535d3a05fe0b64bdcf253a7f66]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where there is only one winning bidder for all of the 700 MHz individual frequen
 
 ## Annotations
 
-[^key-b4b3a7535d3a05fe0b64bdcf253a7f66]: Commencement: Reg. 59 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-b4b3a7535d3a05fe0b64bdcf253a7f66]: Commencement: Reg. 59 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

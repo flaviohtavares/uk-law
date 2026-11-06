@@ -32,7 +32,7 @@ summary: ''
 
 Fire And Rescue Services
 
-The Fire and Rescue Services (Framework) (Scotland) Order 2012 (revoked)[^key-79c31e0eb12fbe39d2e3b8473c099ee1]
+The Fire and Rescue Services (Framework) (Scotland) Order 2012 (revoked)[^c-79c31e0eb12fbe39d2e3b8473c099ee1]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 29th June 2012
 
-[^key-79c31e0eb12fbe39d2e3b8473c099ee1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79c31e0eb12fbe39d2e3b8473c099ee1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-79c31e0eb12fbe39d2e3b8473c099ee1]
+## 1. Citation and commencement[^c-79c31e0eb12fbe39d2e3b8473c099ee1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Framework document[^key-79c31e0eb12fbe39d2e3b8473c099ee1]
+## 2. Framework document[^c-79c31e0eb12fbe39d2e3b8473c099ee1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-79c31e0eb12fbe39d2e3b8473c099ee1]
+## 3. Revocation[^c-79c31e0eb12fbe39d2e3b8473c099ee1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-79c31e0eb12fbe39d2e3b8473c099ee1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79c31e0eb12fbe39d2e3b8473c099ee1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-79c31e0eb12fbe39d2e3b8473c099ee1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-79c31e0eb12fbe39d2e3b8473c099ee1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-79c31e0eb12fbe39d2e3b8473c099ee1]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/146) revoked (29.4.2013) by [The Scottish Fire and Rescue Service (Framework and Appointed Day for Strategic Plan) Order 2013 (S.S.I. 2013/97)](https://www.legislation.gov.uk/ssi/2013/97), [arts. 1](https://www.legislation.gov.uk/ssi/2013/97/article/1), [4](https://www.legislation.gov.uk/ssi/2013/97/article/4)
+[^c-79c31e0eb12fbe39d2e3b8473c099ee1]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2012/146) revoked (29.4.2013) by [The Scottish Fire and Rescue Service (Framework and Appointed Day for Strategic Plan) Order 2013 (S.S.I. 2013/97)](https://www.legislation.gov.uk/ssi/2013/97), [arts. 1](https://www.legislation.gov.uk/ssi/2013/97/article/1), [4](https://www.legislation.gov.uk/ssi/2013/97/article/4)

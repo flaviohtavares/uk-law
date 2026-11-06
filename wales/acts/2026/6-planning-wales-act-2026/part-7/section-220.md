@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 220. Offence of failing to comply with maintenance of land notice[^key-de8a4a5482f1ee8822db6c860eed62dd]
+## 220. Offence of failing to comply with maintenance of land notice[^c-de8a4a5482f1ee8822db6c860eed62dd]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ the subsequent owner or occupier may be convicted of the offence under subsectio
 
 ## Annotations
 
-[^key-de8a4a5482f1ee8822db6c860eed62dd]: Commencement: S. 220 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-de8a4a5482f1ee8822db6c860eed62dd]: Commencement: S. 220 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

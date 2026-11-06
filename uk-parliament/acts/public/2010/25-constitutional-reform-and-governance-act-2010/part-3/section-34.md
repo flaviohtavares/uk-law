@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Enforcement[^key-518490d5ae0285df34762fb8315e892b]
+## 34. Enforcement[^c-518490d5ae0285df34762fb8315e892b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-518490d5ae0285df34762fb8315e892b]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2010/25/section/34) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-518490d5ae0285df34762fb8315e892b]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2010/25/section/34) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.40. Assignment of right to dividend[^key-4ffddf588646c3089d053d9dd3559252]
+## 5.40. Assignment of right to dividend[^c-4ffddf588646c3089d053d9dd3559252]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ffddf588646c3089d053d9dd3559252]: Commencement: Rule 5.40 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-4ffddf588646c3089d053d9dd3559252]: Commencement: Rule 5.40 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

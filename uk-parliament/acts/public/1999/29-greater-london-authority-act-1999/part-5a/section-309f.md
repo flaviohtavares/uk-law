@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 309F. “Health inequalities between persons living in Greater London”[^key-f78b751af2a41538758cf257bc7dff30]
+## 309F. “Health inequalities between persons living in Greater London”[^c-f78b751af2a41538758cf257bc7dff30]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 (5) “**General health determinants**” are—
 
 - (a) standards of housing, transport services or public safety,
-- (aa)[^key-9200441d659f1c2a2610f0e4ecef089b] environmental factors, including air quality and access to green space and bodies of water,
+- (aa)[^c-9200441d659f1c2a2610f0e4ecef089b] environmental factors, including air quality and access to green space and bodies of water,
 - (b) employment prospects, earning capacity and any other matters that affect levels of prosperity,
 - (c) the degree of ease or difficulty with which persons have access to public services,
 - (d) the use, or level of use, of tobacco, alcohol or other substances, and any other matters of personal behaviour or lifestyle, that are or may be harmful to health,
@@ -43,6 +43,6 @@ and any other matters that are determinants of life expectancy or the state of h
 
 ## Annotations
 
-[^key-f78b751af2a41538758cf257bc7dff30]: Textual amendment: Ss. 309E-309H and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/22/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-f78b751af2a41538758cf257bc7dff30]: Textual amendment: Ss. 309E-309H and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/22/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
 
-[^key-9200441d659f1c2a2610f0e4ecef089b]: Textual amendment: S. 309F(5)(aa) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-9200441d659f1c2a2610f0e4ecef089b]: Textual amendment: S. 309F(5)(aa) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 45(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/45/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

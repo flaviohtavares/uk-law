@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Application of Part where compulsory supervision order in force[^key-e39a080c9dc7ff628d1938878bdf4c5c]
+## 97. Application of Part where compulsory supervision order in force[^c-e39a080c9dc7ff628d1938878bdf4c5c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e39a080c9dc7ff628d1938878bdf4c5c]: Commencement: S. 97 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-e39a080c9dc7ff628d1938878bdf4c5c]: Commencement: S. 97 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

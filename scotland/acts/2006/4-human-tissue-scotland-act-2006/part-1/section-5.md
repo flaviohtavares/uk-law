@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Consent by procurator fiscal to removal of part of body[^key-9b078e7daa7a0762e0a9407cf95454a1]
+## 5. Consent by procurator fiscal to removal of part of body[^c-9b078e7daa7a0762e0a9407cf95454a1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b078e7daa7a0762e0a9407cf95454a1]: Commencement: S. 5 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-9b078e7daa7a0762e0a9407cf95454a1]: Commencement: S. 5 in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

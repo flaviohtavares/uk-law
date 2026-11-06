@@ -35,7 +35,7 @@ An Act to amend retained EU law relating to compulsory insurance for the use of 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Retained EU law relating to compulsory insurance for motor vehicles[^key-b1796294f78979e4e00aff6877ec09e0]
+## 1. Retained EU law relating to compulsory insurance for motor vehicles[^c-b1796294f78979e4e00aff6877ec09e0]
 
 After Article 102A of the Road Traffic (Northern Ireland) Order 1981 insert—
 
@@ -70,7 +70,7 @@ After Article 102A of the Road Traffic (Northern Ireland) Order 1981 insert—
 
 .
 
-## 2. Crown application, commencement and short title[^key-0aab2a6a8b8bada008ab1a5f6206c6a2]
+## 2. Crown application, commencement and short title[^c-0aab2a6a8b8bada008ab1a5f6206c6a2]
 
 (1) This Act binds the Crown to the full extent authorised or permitted by the constitutional laws of Northern Ireland.
 
@@ -80,6 +80,6 @@ After Article 102A of the Road Traffic (Northern Ireland) Order 1981 insert—
 
 ## Annotations
 
-[^key-b1796294f78979e4e00aff6877ec09e0]: Commencement: S. 1 in operation at 27.4.2022, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/16/section/2/2)
+[^c-b1796294f78979e4e00aff6877ec09e0]: Commencement: S. 1 in operation at 27.4.2022, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/16/section/2/2)
 
-[^key-0aab2a6a8b8bada008ab1a5f6206c6a2]: Commencement: S. 2 in operation at 27.4.2022, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/16/section/2/2)
+[^c-0aab2a6a8b8bada008ab1a5f6206c6a2]: Commencement: S. 2 in operation at 27.4.2022, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/16/section/2/2)

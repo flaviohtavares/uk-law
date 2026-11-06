@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Certification of plans, etc.[^key-7e32ee0a7f03056df1b78b1dcf837df3]
+## 64. Certification of plans, etc.[^c-7e32ee0a7f03056df1b78b1dcf837df3]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e32ee0a7f03056df1b78b1dcf837df3]: Commencement: Art. 64 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-7e32ee0a7f03056df1b78b1dcf837df3]: Commencement: Art. 64 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

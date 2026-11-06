@@ -50,7 +50,7 @@ whichever is the later.
   whichever is the earlier, and
 - (c) where his age at the relevant date exceeds sixty-five years, the expiry of the period of one year beginning with that date.
 
-(5)[^c13984881][^key-885342cb68d4c2737e6cd01ad0cfca93] A Community licence holder [^key-da52d987a25f64968601ccb68a9ab759]... who is authorised by virtue of subsection (1) above to drive in Great Britain motor vehicles of certain classes only, may drive, in Great Britain, motor vehicles of all other classes subject to the same conditions as if he were authorised by a provisional licence to drive motor vehicles of those other classes.
+(5)[^c13984881][^c-885342cb68d4c2737e6cd01ad0cfca93] A Community licence holder [^c-da52d987a25f64968601ccb68a9ab759]... who is authorised by virtue of subsection (1) above to drive in Great Britain motor vehicles of certain classes only, may drive, in Great Britain, motor vehicles of all other classes subject to the same conditions as if he were authorised by a provisional licence to drive motor vehicles of those other classes.
 
 (6) Subsections (3) and (4) of section 98 of this Act shall apply in relation to subsection (5) above as they apply in relation to subsection (2) of that section.
 
@@ -69,6 +69,6 @@ whichever is the later.
 
 [^c13984881]: Modification: S. 99A(5) restricted (12.11.1999) by [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), [reg. 19(1)(3)(8)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/19/1/3/8)
 
-[^key-885342cb68d4c2737e6cd01ad0cfca93]: Modification: S. 99A(5) applied by S.I. 1999/2864, reg. 19(1) (as substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/13/a))
+[^c-885342cb68d4c2737e6cd01ad0cfca93]: Modification: S. 99A(5) applied by S.I. 1999/2864, reg. 19(1) (as substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 13(a)](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/13/a))
 
-[^key-da52d987a25f64968601ccb68a9ab759]: Textual amendment: S. 99A(5)(a) and word omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/b)
+[^c-da52d987a25f64968601ccb68a9ab759]: Textual amendment: S. 99A(5)(a) and word omitted (8.6.2015) by virtue of [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2015/583/schedule/2/paragraph/2/b)

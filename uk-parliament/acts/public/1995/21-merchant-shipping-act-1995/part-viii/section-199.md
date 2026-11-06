@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Control of local lighthouse authorities.[^key-714bbd4ca64555a48ef30d9baca9b9b1]
+## 199. Control of local lighthouse authorities.[^c-714bbd4ca64555a48ef30d9baca9b9b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ but the authority shall not give a direction without first giving due notice of 
 
 ## Annotations
 
-[^key-714bbd4ca64555a48ef30d9baca9b9b1]: Modification: [Ss. 198](https://www.legislation.gov.uk/ukpga/1995/21/section/198), [199](https://www.legislation.gov.uk/ukpga/1995/21/section/199) incorporated (S.) (4.10.2025) by [Cromarty Firth Port Authority Order Confirmation Act 1973 (c. xvi)](https://www.legislation.gov.uk/ukla/1973/16), [s. 4(2)](https://www.legislation.gov.uk/ukla/1973/16/section/4/2) (as amended by [The Cromarty Firth Port Authority Harbour Revision Order 2025 (S.S.I. 2025/279)](https://www.legislation.gov.uk/ssi/2025/279), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/279/article/1/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2025/279/article/3/3/c))
+[^c-714bbd4ca64555a48ef30d9baca9b9b1]: Modification: [Ss. 198](https://www.legislation.gov.uk/ukpga/1995/21/section/198), [199](https://www.legislation.gov.uk/ukpga/1995/21/section/199) incorporated (S.) (4.10.2025) by [Cromarty Firth Port Authority Order Confirmation Act 1973 (c. xvi)](https://www.legislation.gov.uk/ukla/1973/16), [s. 4(2)](https://www.legislation.gov.uk/ukla/1973/16/section/4/2) (as amended by [The Cromarty Firth Port Authority Harbour Revision Order 2025 (S.S.I. 2025/279)](https://www.legislation.gov.uk/ssi/2025/279), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/279/article/1/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2025/279/article/3/3/c))

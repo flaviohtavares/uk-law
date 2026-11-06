@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Director disqualification sanctions[^key-78826afb4ee0ba0253f51430876c082d]
+## 16A. Director disqualification sanctions[^c-78826afb4ee0ba0253f51430876c082d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person who is designated under regulation 5 (power to designate persons) for t
 
 ## Annotations
 
-[^key-78826afb4ee0ba0253f51430876c082d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/135/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/4)
+[^c-78826afb4ee0ba0253f51430876c082d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2019/135/part/3A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/4)

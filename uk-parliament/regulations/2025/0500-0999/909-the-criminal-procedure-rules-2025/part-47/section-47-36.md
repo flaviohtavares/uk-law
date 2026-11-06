@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.36. Exercise of court’s powers[^key-30e1ffdd1400b73ec4f9e0e12a59d227]
+## 47.36. Exercise of court’s powers[^c-30e1ffdd1400b73ec4f9e0e12a59d227]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e1ffdd1400b73ec4f9e0e12a59d227]: Commencement: Rule 47.36 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-30e1ffdd1400b73ec4f9e0e12a59d227]: Commencement: Rule 47.36 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

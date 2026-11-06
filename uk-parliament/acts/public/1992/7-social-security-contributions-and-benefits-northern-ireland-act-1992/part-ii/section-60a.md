@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Failure to satisfy contribution condition in paragraph 5A of Schedule 3[^key-21e2591c9038ad65b5de92d2f8d8210e]
+## 60A. Failure to satisfy contribution condition in paragraph 5A of Schedule 3[^c-21e2591c9038ad65b5de92d2f8d8210e]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ includes a reference to that condition or those requirements as modified by virt
 
 ## Annotations
 
-[^key-21e2591c9038ad65b5de92d2f8d8210e]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/1992/7/section/60A) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/5)
+[^c-21e2591c9038ad65b5de92d2f8d8210e]: Textual amendment: [S. 60A](https://www.legislation.gov.uk/ukpga/1992/7/section/60A) inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2008/1/schedule/1/paragraph/5)

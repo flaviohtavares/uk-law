@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.33. Business in chambers[^key-f9520d09e9e7f87e96ecf560bef30e48]
+## 33.33. Business in chambers[^c-f9520d09e9e7f87e96ecf560bef30e48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Restraint proceedings and receivership proceedings may be heard in chambers.
 
 ## Annotations
 
-[^key-f9520d09e9e7f87e96ecf560bef30e48]: Commencement: [Rule 33.33](https://www.legislation.gov.uk/uksi/2025/909/rule/33.33) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f9520d09e9e7f87e96ecf560bef30e48]: Commencement: [Rule 33.33](https://www.legislation.gov.uk/uksi/2025/909/rule/33.33) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

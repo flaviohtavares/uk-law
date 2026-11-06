@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28.1. Reasons for not following usual sentencing requirements[^key-b3e0a5ddf16ea6104f9f9ba950e47ddf]
+## 28.1. Reasons for not following usual sentencing requirements[^c-b3e0a5ddf16ea6104f9f9ba950e47ddf]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e0a5ddf16ea6104f9f9ba950e47ddf]: Commencement: [Rule 28.1](https://www.legislation.gov.uk/uksi/2025/909/rule/28.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b3e0a5ddf16ea6104f9f9ba950e47ddf]: Commencement: [Rule 28.1](https://www.legislation.gov.uk/uksi/2025/909/rule/28.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00645]: Footnote: [2020 c. 17](https://www.legislation.gov.uk/ukpga/2020/17); section 74 was amended by section 10 of the Counter-Terrorism and Sentencing Act [2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11) and is further amended by section 408 of, and paragraph 38B of Schedule 22 to, the 2020 Act with effect from a date to be appointed.
 

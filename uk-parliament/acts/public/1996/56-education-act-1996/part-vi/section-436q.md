@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436Q. Offence of failure to comply with school attendance order[^key-1e9698cc672d28f0cccebce23b0d14f2]
+## 436Q. Offence of failure to comply with school attendance order[^c-1e9698cc672d28f0cccebce23b0d14f2]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ may be found guilty of an offence under this section again if the failure contin
 
 ## Annotations
 
-[^key-1e9698cc672d28f0cccebce23b0d14f2]: Textual amendment: Ss. 436H-436S and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436I, 436S, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/39/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-1e9698cc672d28f0cccebce23b0d14f2]: Textual amendment: Ss. 436H-436S and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436I, 436S, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/39/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Failure of a party to appear at a hearing[^key-a55dd759d605ff548006b28793159070]
+## 32. Failure of a party to appear at a hearing[^c-a55dd759d605ff548006b28793159070]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a party fails to appear at a hearing the tribunal may proceed with the hea
 
 ## Annotations
 
-[^key-a55dd759d605ff548006b28793159070]: Commencement: Reg. 32 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a55dd759d605ff548006b28793159070]: Commencement: Reg. 32 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

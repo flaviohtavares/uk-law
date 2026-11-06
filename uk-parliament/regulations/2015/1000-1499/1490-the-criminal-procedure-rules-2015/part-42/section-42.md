@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.1. Extension of time[^key-c3278694665fae2038e68de7a743f0de]
+## 42.1. Extension of time[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.2. Other applications[^key-c3278694665fae2038e68de7a743f0de]
+## 42.2. Other applications[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.3. Examination of witness by court[^key-c3278694665fae2038e68de7a743f0de]
+## 42.3. Examination of witness by court[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.4. Supply of documentary and other exhibits[^key-c3278694665fae2038e68de7a743f0de]
+## 42.4. Supply of documentary and other exhibits[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.5. Registrar's power to require information from court of trial[^key-c3278694665fae2038e68de7a743f0de]
+## 42.5. Registrar's power to require information from court of trial[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -56,7 +56,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.6. Hearing by single judge[^key-c3278694665fae2038e68de7a743f0de]
+## 42.6. Hearing by single judge[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.7. Determination by full court[^key-c3278694665fae2038e68de7a743f0de]
+## 42.7. Determination by full court[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.8. Notice of determination[^key-c3278694665fae2038e68de7a743f0de]
+## 42.8. Notice of determination[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -80,7 +80,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.9. Record of proceedings and transcripts[^key-c3278694665fae2038e68de7a743f0de]
+## 42.9. Record of proceedings and transcripts[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.10. Appeal to the Supreme Court[^key-c3278694665fae2038e68de7a743f0de]
+## 42.10. Appeal to the Supreme Court[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.11. Notice of appeal[^key-c3278694665fae2038e68de7a743f0de]
+## 42.11. Notice of appeal[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -104,7 +104,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.12. Respondent's notice[^key-c3278694665fae2038e68de7a743f0de]
+## 42.12. Respondent's notice[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -112,7 +112,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.13. Amendment and abandonment of appeal[^key-c3278694665fae2038e68de7a743f0de]
+## 42.13. Amendment and abandonment of appeal[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -120,7 +120,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.14. Permission to appeal[^key-c3278694665fae2038e68de7a743f0de]
+## 42.14. Permission to appeal[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -128,7 +128,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.15. Notice of appeal[^key-c3278694665fae2038e68de7a743f0de]
+## 42.15. Notice of appeal[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.16. Respondent's notice[^key-c3278694665fae2038e68de7a743f0de]
+## 42.16. Respondent's notice[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -144,7 +144,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.17. Amendment and abandonment of appeal[^key-c3278694665fae2038e68de7a743f0de]
+## 42.17. Amendment and abandonment of appeal[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -152,7 +152,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.18. Stay[^key-c3278694665fae2038e68de7a743f0de]
+## 42.18. Stay[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -160,7 +160,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.19. Striking out appeal notices and setting aside or imposing conditions on permission to appeal[^key-c3278694665fae2038e68de7a743f0de]
+## 42.19. Striking out appeal notices and setting aside or imposing conditions on permission to appeal[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -168,7 +168,7 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 42.20. Hearing of appeals[^key-c3278694665fae2038e68de7a743f0de]
+## 42.20. Hearing of appeals[^c-c3278694665fae2038e68de7a743f0de]
 
 *Extent: E+W*
 
@@ -178,6 +178,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
+[^c-c3278694665fae2038e68de7a743f0de]: Textual amendment: Rules revoked (5.10.2020) by [The Criminal Procedure Rules 2020 (S.I. 2020/759)](https://www.legislation.gov.uk/uksi/2020/759), [preamble](https://www.legislation.gov.uk/uksi/2020/759/introduction)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

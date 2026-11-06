@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Conduct complaints: power to impose unlimited fine and removal of power to award compensation[^key-070b367e8535266a422ad70602417d45]
+## 77. Conduct complaints: power to impose unlimited fine and removal of power to award compensation[^c-070b367e8535266a422ad70602417d45]
 
 *Extent: S*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-070b367e8535266a422ad70602417d45]: Commencement: S. 77 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-070b367e8535266a422ad70602417d45]: Commencement: S. 77 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

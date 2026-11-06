@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: S*
 
-In the Bills of Exchange Act 1882— *(affected by repeal, see note)*[^key-c81c7cec058173a87043999f0639c3f0]
+In the Bills of Exchange Act 1882— *(affected by repeal, see note)*[^c-c81c7cec058173a87043999f0639c3f0]
 
-(a) at the beginning of section 53(2 (which provides as to the effect of presentment of a bill of exchange) there shall be inserted the words “ Subject to section 75A of this Act, ”; and *(affected by repeal, see note)*[^key-c81c7cec058173a87043999f0639c3f0]
+(a) at the beginning of section 53(2 (which provides as to the effect of presentment of a bill of exchange) there shall be inserted the words “ Subject to section 75A of this Act, ”; and *(affected by repeal, see note)*[^c-c81c7cec058173a87043999f0639c3f0]
 
-(b) after section 75 there shall be inserted the following section— *(affected by repeal, see note)*[^key-c81c7cec058173a87043999f0639c3f0]
+(b) after section 75 there shall be inserted the following section— *(affected by repeal, see note)*[^c-c81c7cec058173a87043999f0639c3f0]
 
-> **75A.** (1) On the countermand of payment of a cheque, the banker shall be treated as having no funds available for the payment of the cheque. *(affected by repeal, see note)*[^key-c81c7cec058173a87043999f0639c3f0]
+> **75A.** (1) On the countermand of payment of a cheque, the banker shall be treated as having no funds available for the payment of the cheque. *(affected by repeal, see note)*[^c-c81c7cec058173a87043999f0639c3f0]
 >
-> (2) This section applies to Scotland only. *(affected by repeal, see note)*[^key-c81c7cec058173a87043999f0639c3f0]
+> (2) This section applies to Scotland only. *(affected by repeal, see note)*[^c-c81c7cec058173a87043999f0639c3f0]
 
 ## Annotations
 
-[^key-c81c7cec058173a87043999f0639c3f0]: Textual amendment: S. 11 ceases to have effect (12.4.2009) by virtue of [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 254(5)](https://www.legislation.gov.uk/ukpga/2009/1/section/254/5), [263(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247))
+[^c-c81c7cec058173a87043999f0639c3f0]: Textual amendment: S. 11 ceases to have effect (12.4.2009) by virtue of [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 254(5)](https://www.legislation.gov.uk/ukpga/2009/1/section/254/5), [263(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247))

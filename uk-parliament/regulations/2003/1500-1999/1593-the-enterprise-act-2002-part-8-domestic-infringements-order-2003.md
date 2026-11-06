@@ -45,11 +45,11 @@ And whereas the said draft as so laid has been approved by resolution of each Ho
 
 Now therefore the Secretary of State in exercise of the power conferred on her by section 211 of the Enterprise Act 2002[^f00001] hereby makes the following Order:
 
-## 1. Citation and commencement[^key-84b117286ff746287a5af1e75cccd50b]
+## 1. Citation and commencement[^c-84b117286ff746287a5af1e75cccd50b]
 
 This Order may be cited as the Enterprise Act 2002 (Part 8 Domestic Infringements) Order 2003 and shall come into force on 20th June 2003.
 
-## 2. Specified infringements[^key-f7d90dce959212262939023e956645e7]
+## 2. Specified infringements[^c-f7d90dce959212262939023e956645e7]
 
 There are hereby specified for the purposes of section 211(2) of the Enterprise Act 2002 (domestic infringements) acts or omissions which fall within section 211(2)(a) to (g) and are:
 
@@ -68,54 +68,54 @@ Department of Trade and Industry
 
 Article 2
 
-### Part I — Legislation of the United Kingdom Parliament[^key-4c582aae735a85948cde1d0c81e52bdc]
+### Part I — Legislation of the United Kingdom Parliament[^c-4c582aae735a85948cde1d0c81e52bdc]
 
 | ***Legislation*** | ***Extent*** |
 | --- | --- |
 | Accommodation Agencies Act 1953[^f00002] | The whole Act |
 | Administration of Justice Act 1970[^f00003] | Section 40 (unlawful harassment of debtors) |
-| [^key-043cd760acacc2cf305f28f3cf7a7b81]. . . | [^key-043cd760acacc2cf305f28f3cf7a7b81]. . . |
-| [^key-27b333cef154db8eda0f539e9fbac8c0]. . . | [^key-27b333cef154db8eda0f539e9fbac8c0]. . . |
+| [^c-043cd760acacc2cf305f28f3cf7a7b81]. . . | [^c-043cd760acacc2cf305f28f3cf7a7b81]. . . |
+| [^c-27b333cef154db8eda0f539e9fbac8c0]. . . | [^c-27b333cef154db8eda0f539e9fbac8c0]. . . |
 | Cancer Act 1939[^f00006] | Sections 4, 5 and 7 (prohibition of certain advertisements relating to cancer) |
 | Charities Act 1992[^f00007] | Sections 60, 61 and 63 (information requirements, cancellation rights and false statements in respect of fundraising) |
 | Children and Young Persons Act 1933[^f00008] | Section 7(1) to (2) (prohibition on sale of tobacco to persons under 16) |
 | Children and Young Persons (Protection from Tobacco) Act 1991[^f00009] | Section 4 (display of warning statements) |
 | Children and Young Persons (Scotland) Act 1937[^f00010] | Section 18(1) to (2) (prohibition on sale of tobacco to persons under 16) |
-| Companies Act 2006[^key-ac6cf585b4600248067f38c1fc1324f0] | Part 41 (business names) |
-| Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^key-dcc4ba3e1de1a53d1931362f96e4a1df] | Part 6 of the Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 and any other provision of those Regulations having effect for the purpose of Part 6 |
+| Companies Act 2006[^c-ac6cf585b4600248067f38c1fc1324f0] | Part 41 (business names) |
+| Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015[^c-dcc4ba3e1de1a53d1931362f96e4a1df] | Part 6 of the Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 and any other provision of those Regulations having effect for the purpose of Part 6 |
 | Consumer Credit Act 1974[^f00012] | The whole Act |
-| [^key-68ee1bad040210e4065b8882cebaa359]. . . | [^key-68ee1bad040210e4065b8882cebaa359]. . . |
-| [^key-4ad604607497222f1f021fe2e2a00e2c]. . . | [^key-4ad604607497222f1f021fe2e2a00e2c]. . . |
-| [^key-276f256e92465b58d34510ac1d6e06b5]. . . | [^key-276f256e92465b58d34510ac1d6e06b5]. . . |
+| [^c-68ee1bad040210e4065b8882cebaa359]. . . | [^c-68ee1bad040210e4065b8882cebaa359]. . . |
+| [^c-4ad604607497222f1f021fe2e2a00e2c]. . . | [^c-4ad604607497222f1f021fe2e2a00e2c]. . . |
+| [^c-276f256e92465b58d34510ac1d6e06b5]. . . | [^c-276f256e92465b58d34510ac1d6e06b5]. . . |
 | Copyright, Designs and Patents Act 1988[^f00016] | Sections 107 (making or dealing with infringing articles etc), 198 (making, dealing with or using illicit recordings), 297A (making and dealing with unauthorised decoders)[^f00017] |
 | Estate Agents Act 1979[^f00018] | The whole Act |
-| [^key-9a2d1ac1145839dc3cbc75cb6af955db]. . . | [^key-9a2d1ac1145839dc3cbc75cb6af955db]. . . |
-| [^key-478fc0a93f52bd32a0e1c55ab6dbb909]. . . | [^key-478fc0a93f52bd32a0e1c55ab6dbb909]. . . |
+| [^c-9a2d1ac1145839dc3cbc75cb6af955db]. . . | [^c-9a2d1ac1145839dc3cbc75cb6af955db]. . . |
+| [^c-478fc0a93f52bd32a0e1c55ab6dbb909]. . . | [^c-478fc0a93f52bd32a0e1c55ab6dbb909]. . . |
 | Hallmarking Act 1973[^f00023] | The whole Act |
 | Intoxicating Substances (Supply) Act 1985[^f00024] | The whole Act |
 | Lotteries and Amusements Act 1976[^f00025] | Part I (legal and illegal lotteries) and section 14 (prize competitions) |
 | Malicious Communications Act 1988[^f00026] | The whole Act |
 | Misrepresentation Act 1967[^f00027] | The whole Act |
-| [^key-3bc4ab494a3d6cecc9f6ff624e963643]. . . | [^key-3bc4ab494a3d6cecc9f6ff624e963643]. . . |
+| [^c-3bc4ab494a3d6cecc9f6ff624e963643]. . . | [^c-3bc4ab494a3d6cecc9f6ff624e963643]. . . |
 | National Lottery etc Act 1993[^f00029] | Sections 13 (contravention of regulations) and 16 (false representations) |
 | Prices Act 1974[^f00030] | Section 4 (price marking) |
-| [^key-4be0dda5800a93fecd6192cefbda2ebd]. . . | [^key-4be0dda5800a93fecd6192cefbda2ebd]. . . |
+| [^c-4be0dda5800a93fecd6192cefbda2ebd]. . . | [^c-4be0dda5800a93fecd6192cefbda2ebd]. . . |
 | Protection from Harassment Act 1997[^f00032] | The whole Act |
-| Pyrotechnic Articles (Safety) Regulations 2010[^key-9599659d531fd7f29b1cead8095dbfac] | Regulation 15 (prohibition on supply of category 1 fireworks to persons under 16 years and category 2 or 3 fireworks to persons under 18 years). |
+| Pyrotechnic Articles (Safety) Regulations 2010[^c-9599659d531fd7f29b1cead8095dbfac] | Regulation 15 (prohibition on supply of category 1 fireworks to persons under 16 years and category 2 or 3 fireworks to persons under 18 years). |
 | Road Traffic Act 1988[^f00033] | Sections 75 (vehicles not to be sold in unroadworthy condition etc) and 76 (fitting and supplying defective or unsuitable vehicle parts) |
 | Sale of Goods Act 1979[^f00034] | The whole Act |
 | Supply of Goods (Implied Terms) Act 1973[^f00035] | The whole Act |
 | Supply of Goods and Services Act 1982[^f00036] | The whole Act |
-| [^key-da57a573560d6db51adc3dc1974988cc]. . . | [^key-da57a573560d6db51adc3dc1974988cc]. . . |
+| [^c-da57a573560d6db51adc3dc1974988cc]. . . | [^c-da57a573560d6db51adc3dc1974988cc]. . . |
 | Tobacco Advertising and Promotion Act 2002[^f00038] | The whole Act |
 | Tobacco Products (Manufacture, Presentation and Sale) (Safety) Regulations 2002[^f00039] | The whole Regulations |
 | Torts (Interference with Goods) Act 1977[^f00040] | Section 12 (power of sale of uncollected goods) |
 | Trade Descriptions Act 1968[^f00041] | The whole Act |
 | Trade Marks Act 1994[^f00042] | Section 92 (unauthorised use of trade marks etc in relation to goods) |
 | Unfair Contract Terms Act 1977[^f00043] | The whole Act |
-| Weights and Measures Act 1985[^f00044] | Sections 21 to 23, 25 (requirements to sell goods by particular quantities etc), 28 (short weight etc), [^key-02ff87f47b43b051df7d03729a92fcae]..., 30 (quantity less than stated), 31 (incorrect statements), 32 (offences due to default of third person), 50(5) and (6) (possession for sale, etc of inadequate regulated package) |
+| Weights and Measures Act 1985[^f00044] | Sections 21 to 23, 25 (requirements to sell goods by particular quantities etc), 28 (short weight etc), [^c-02ff87f47b43b051df7d03729a92fcae]..., 30 (quantity less than stated), 31 (incorrect statements), 32 (offences due to default of third person), 50(5) and (6) (possession for sale, etc of inadequate regulated package) |
 
-### Part II — Northern Ireland legislation[^key-12b5a86fb0d977cfbc2cc45663da6368]
+### Part II — Northern Ireland legislation[^c-12b5a86fb0d977cfbc2cc45663da6368]
 
 | ***Legislation*** | ***Extent*** |
 | --- | --- |
@@ -123,16 +123,16 @@ Article 2
 | Business Names (Northern Ireland) Order 1986[^f00046] | The whole Order |
 | Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991[^f00047] | Article 5 (display of warning statements) |
 | Companies (Northern Ireland) Order 1986[^f00048] | Articles 356, 357 and 359 (company name to appear outside place of business and name and other particulars to appear in its correspondence) |
-| [^key-cf255514ffece08f2fc62203a200db2f]. . . | [^key-cf255514ffece08f2fc62203a200db2f]. . . |
+| [^c-cf255514ffece08f2fc62203a200db2f]. . . | [^c-cf255514ffece08f2fc62203a200db2f]. . . |
 | Explosives (Fireworks) Regulations (Northern Ireland) 1999[^f00050] | Regulation 11(1) (requirement for notice as to underage sales) |
 | Health and Personal Social Services (Northern Ireland) Order 1978[^f00051] | Articles 3 and 4 (prohibition on sale of tobacco to persons apparently under 16) |
 | Misrepresentation Act (Northern Ireland) 1967[^f00052] | The whole Act |
 | Malicious Communications (Northern Ireland) Order 1988[^f00053] | The whole Order |
 | Protection from Harassment (Northern Ireland) Order 1997[^f00054] | The whole Order |
 | Road Traffic (Northern Ireland) Order 1995[^f00055] | Articles 83 (vehicles not to be sold in unroadworthy condition etc) and 84 (fitting and supplying defective or unsuitable vehicle parts) |
-| Weights and Measures (Northern Ireland) Order 1981[^f00056] | Articles 19(1) to (6), 20, 22(1) and (3) to (9) (requirements to sell goods by particular quantities, short weight, quantity less than stated, incorrect statements, etc), 25(2) (offences due to default of third person) and 32(5) (possession for sale, etc, of inadequate regulated package).[^key-86520628de2e4c4391fe71b8b3e28891] |
+| Weights and Measures (Northern Ireland) Order 1981[^f00056] | Articles 19(1) to (6), 20, 22(1) and (3) to (9) (requirements to sell goods by particular quantities, short weight, quantity less than stated, incorrect statements, etc), 25(2) (offences due to default of third person) and 32(5) (possession for sale, etc, of inadequate regulated package).[^c-86520628de2e4c4391fe71b8b3e28891] |
 
-### Part III — Rules of law[^key-9864ae0501da9340391777c91689b2f5]
+### Part III — Rules of law[^c-9864ae0501da9340391777c91689b2f5]
 
 An act done or omission made in breach of contract for the supply of goods or services to a consumer.
 
@@ -146,19 +146,19 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00001]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-84b117286ff746287a5af1e75cccd50b]: Commencement: Art. 1 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
+[^c-84b117286ff746287a5af1e75cccd50b]: Commencement: Art. 1 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
 
-[^key-f7d90dce959212262939023e956645e7]: Commencement: Art. 2 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
+[^c-f7d90dce959212262939023e956645e7]: Commencement: Art. 2 in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
 
-[^key-4c582aae735a85948cde1d0c81e52bdc]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
+[^c-4c582aae735a85948cde1d0c81e52bdc]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
 
 [^f00002]: Footnote: [1953 c. 23](https://www.legislation.gov.uk/ukpga/1953/23).
 
 [^f00003]: Footnote: [1970 c. 31](https://www.legislation.gov.uk/ukpga/1970/31).
 
-[^key-043cd760acacc2cf305f28f3cf7a7b81]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-043cd760acacc2cf305f28f3cf7a7b81]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(i)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
-[^key-27b333cef154db8eda0f539e9fbac8c0]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/I) entry omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/22/a)
+[^c-27b333cef154db8eda0f539e9fbac8c0]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/I) entry omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/22/a)
 
 [^f00006]: Footnote: [1939 c. 13](https://www.legislation.gov.uk/ukpga/1939/13).
 
@@ -170,17 +170,17 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00010]: Footnote: [1937 c. 37](https://www.legislation.gov.uk/ukpga/1937/37).
 
-[^key-ac6cf585b4600248067f38c1fc1324f0]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/I) entries substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/22/b)
+[^c-ac6cf585b4600248067f38c1fc1324f0]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/I) entries substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/22/b)
 
-[^key-dcc4ba3e1de1a53d1931362f96e4a1df]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/1) substituted (31.1.2015) by virtue of [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/4)
+[^c-dcc4ba3e1de1a53d1931362f96e4a1df]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/1) substituted (31.1.2015) by virtue of [The Company, Limited Liability Partnership and Business (Names and Trading Disclosures) Regulations 2015 (S.I. 2015/17)](https://www.legislation.gov.uk/uksi/2015/17), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/17/regulation/1/1), [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2015/17/schedule/6/paragraph/4)
 
 [^f00012]: Footnote: [1974 c. 39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-68ee1bad040210e4065b8882cebaa359]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-68ee1bad040210e4065b8882cebaa359]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
-[^key-4ad604607497222f1f021fe2e2a00e2c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-4ad604607497222f1f021fe2e2a00e2c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
-[^key-276f256e92465b58d34510ac1d6e06b5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-276f256e92465b58d34510ac1d6e06b5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
 [^f00016]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
@@ -188,9 +188,9 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00018]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38).
 
-[^key-9a2d1ac1145839dc3cbc75cb6af955db]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) omitted (4.7.2010) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(8)(a)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/8/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
+[^c-9a2d1ac1145839dc3cbc75cb6af955db]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) omitted (4.7.2010) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(8)(a)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/8/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
 
-[^key-478fc0a93f52bd32a0e1c55ab6dbb909]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) omitted (4.7.2010) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(8)(b)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/8/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
+[^c-478fc0a93f52bd32a0e1c55ab6dbb909]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) omitted (4.7.2010) by virtue of [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(8)(b)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/8/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
 
 [^f00023]: Footnote: [1973 c. 43](https://www.legislation.gov.uk/ukpga/1973/43).
 
@@ -202,17 +202,17 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00027]: Footnote: [1967 c. 7](https://www.legislation.gov.uk/ukpga/1967/7).
 
-[^key-3bc4ab494a3d6cecc9f6ff624e963643]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(v)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-3bc4ab494a3d6cecc9f6ff624e963643]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(v)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
 [^f00029]: Footnote: [1993 c. 39](https://www.legislation.gov.uk/ukpga/1993/39).
 
 [^f00030]: Footnote: [1974 c. 24](https://www.legislation.gov.uk/ukpga/1974/24).
 
-[^key-4be0dda5800a93fecd6192cefbda2ebd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/I) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/19)
+[^c-4be0dda5800a93fecd6192cefbda2ebd]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/I) omitted (1.10.2013) by virtue of [The Property Misdescriptions Act 1991 (Repeal) Order 2013 (S.I. 2013/1575)](https://www.legislation.gov.uk/uksi/2013/1575), [art. 1](https://www.legislation.gov.uk/uksi/2013/1575/article/1), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/1575/schedule/paragraph/19)
 
 [^f00032]: Footnote: [1997 c. 40](https://www.legislation.gov.uk/ukpga/1997/40).
 
-[^key-9599659d531fd7f29b1cead8095dbfac]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) inserted (4.7.2010) by [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(8)(c)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/8/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
+[^c-9599659d531fd7f29b1cead8095dbfac]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/1) inserted (4.7.2010) by [The Pyrotechnic Articles (Safety) Regulations 2010 (S.I. 2010/1554)](https://www.legislation.gov.uk/uksi/2010/1554), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/1/1), [49(8)(c)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/8/c) (with [regs. 3](https://www.legislation.gov.uk/uksi/2010/1554/regulation/3), [49(13)](https://www.legislation.gov.uk/uksi/2010/1554/regulation/49/13))
 
 [^f00033]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -222,7 +222,7 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00036]: Footnote: [1982 c. 29](https://www.legislation.gov.uk/ukpga/1982/29).
 
-[^key-da57a573560d6db51adc3dc1974988cc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (23.2.2011) by virtue of [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/11), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2010/2960/schedule/8/part/2) (with [Sch. 7 paras. 3](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
+[^c-da57a573560d6db51adc3dc1974988cc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (23.2.2011) by virtue of [The Timeshare, Holiday Products, Resale and Exchange Contracts Regulations 2010 (S.I. 2010/2960)](https://www.legislation.gov.uk/uksi/2010/2960), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/2960/regulation/1/2), [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/2010/2960/schedule/6/paragraph/11), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2010/2960/schedule/8/part/2) (with [Sch. 7 paras. 3](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2010/2960/schedule/7/paragraph/4))
 
 [^f00038]: Footnote: [2002 c. 36](https://www.legislation.gov.uk/ukpga/2002/36).
 
@@ -238,9 +238,9 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00044]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-02ff87f47b43b051df7d03729a92fcae]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(b)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-02ff87f47b43b051df7d03729a92fcae]: Textual amendment: Word in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(b)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
-[^key-12b5a86fb0d977cfbc2cc45663da6368]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/2) in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
+[^c-12b5a86fb0d977cfbc2cc45663da6368]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/2) in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
 
 [^f00045]: Footnote: S.I. [1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204).
 
@@ -250,7 +250,7 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00048]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-cf255514ffece08f2fc62203a200db2f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-cf255514ffece08f2fc62203a200db2f]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) omitted (26.5.2008) by virtue of [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/2) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
 [^f00050]: Footnote: [SR (N.I.) 1999/352](https://www.legislation.gov.uk/nisr/1999/352).
 
@@ -266,6 +266,6 @@ Part 8 of the Enterprise Act 2002 (“the Act”) enables persons and bodies whi
 
 [^f00056]: Footnote: S.I. [1981/231 (N.I. 10)](https://www.legislation.gov.uk/nisi/1981/231).
 
-[^key-86520628de2e4c4391fe71b8b3e28891]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) substituted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(c)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
+[^c-86520628de2e4c4391fe71b8b3e28891]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2003/1593/schedule) substituted (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 102(2)(c)](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/102) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28), [Sch. 3 paras. 11](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/11), [12](https://www.legislation.gov.uk/uksi/2008/1277/schedule/3/paragraph/12))
 
-[^key-9864ae0501da9340391777c91689b2f5]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/3) in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)
+[^c-9864ae0501da9340391777c91689b2f5]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2003/1593/schedule/part/3) in force at 20.6.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1593/article/1)

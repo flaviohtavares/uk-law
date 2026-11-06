@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Funding[^key-e85aadc77fbc16c56ce3b1d1a0c8302d]
+## 22. Funding[^c-e85aadc77fbc16c56ce3b1d1a0c8302d]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e85aadc77fbc16c56ce3b1d1a0c8302d]: Commencement: Art. 22 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-e85aadc77fbc16c56ce3b1d1a0c8302d]: Commencement: Art. 22 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

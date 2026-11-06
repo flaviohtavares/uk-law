@@ -35,48 +35,48 @@ laying down implementing technical standards with regard to the procedures to be
 
 (Text with EEA relevance) (revoked)
 
-[^key-16e0e5b62fcd4bb98e093d1b012d71f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16e0e5b62fcd4bb98e093d1b012d71f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Application to use a matching adjustment[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 1. Application to use a matching adjustment[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Content of the application relating to the assigned portfolio of assets[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 2. Content of the application relating to the assigned portfolio of assets[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Content of the application relating to the portfolio of insurance or reinsurance obligations[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 3. Content of the application relating to the portfolio of insurance or reinsurance obligations[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Content of the written application relating to cash-flow matching and portfolio management[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 4. Content of the written application relating to cash-flow matching and portfolio management[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Additional content of the written application[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 5. Additional content of the written application[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Assessment of the application[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 6. Assessment of the application[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Decision on the application[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 7. Decision on the application[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Revocation of approval by the supervisory authority[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 8. Revocation of approval by the supervisory authority[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-16e0e5b62fcd4bb98e093d1b012d71f0]
+## Article 9. Entry into force[^c-16e0e5b62fcd4bb98e093d1b012d71f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16e0e5b62fcd4bb98e093d1b012d71f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16e0e5b62fcd4bb98e093d1b012d71f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16e0e5b62fcd4bb98e093d1b012d71f0]: Textual amendment: Regulation revoked (30.6.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/ii)
+[^c-16e0e5b62fcd4bb98e093d1b012d71f0]: Textual amendment: Regulation revoked (30.6.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/5/c/ii)

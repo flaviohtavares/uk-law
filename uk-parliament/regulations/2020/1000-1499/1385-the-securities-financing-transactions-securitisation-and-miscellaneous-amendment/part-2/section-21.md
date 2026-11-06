@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Conditions to be satisfied for regulation 19 to apply[^key-211e380bc91c7922532c81558353d5c2]
+## 21. Conditions to be satisfied for regulation 19 to apply[^c-211e380bc91c7922532c81558353d5c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The conditions are that the person is a body corporate which, immediately before
 
 ## Annotations
 
-[^key-211e380bc91c7922532c81558353d5c2]: Commencement: Reg. 21 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-211e380bc91c7922532c81558353d5c2]: Commencement: Reg. 21 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

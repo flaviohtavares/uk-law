@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. The measure of damages.[^key-54f4d0e13294e99701a5998292dbb929]
+## 37. The measure of damages.[^c-54f4d0e13294e99701a5998292dbb929]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ and in this subsection “**general development order**” has the same meaning 
 
 ## Annotations
 
-[^key-54f4d0e13294e99701a5998292dbb929]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/1988/43/section/37) modified (temp.) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 7(1)(2)(4)](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/7/1/2/4) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
+[^c-54f4d0e13294e99701a5998292dbb929]: Modification: [S. 37](https://www.legislation.gov.uk/ukpga/1988/43/section/37) modified (temp.) (28.10.2022) by virtue of [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 7(1)(2)(4)](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/7/1/2/4) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
 
 [^c10515341]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 

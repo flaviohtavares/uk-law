@@ -30,7 +30,7 @@ summary: ''
 - (b) the work or duties that make up the whole or the main part of that new role are substantively different from the work or duties that made up the whole or the main part of the previous role; and
 - (c) the temporary work agency has informed the agency worker in writing of the type of work the agency worker will be required to do in the new role.
 
-(4) For the purposes of this regulation [^key-9646bc86b2193eb54363dc2d1c076cd1]..., any week during the whole or part of which an agency worker works during an assignment is counted as a calendar week.
+(4) For the purposes of this regulation [^c-9646bc86b2193eb54363dc2d1c076cd1]..., any week during the whole or part of which an agency worker works during an assignment is counted as a calendar week.
 
 (5) For the purposes of this regulation and regulations 8 and 9, when calculating whether any weeks completed with a particular hirer are continuous, where—
 
@@ -84,7 +84,7 @@ the fact that an agency worker is actually working in another role, whether for 
 
 ## Annotations
 
-[^key-9646bc86b2193eb54363dc2d1c076cd1]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2010/93/regulation/7/4) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-9646bc86b2193eb54363dc2d1c076cd1]: Textual amendment: Words in [reg. 7(4)](https://www.legislation.gov.uk/uksi/2010/93/regulation/7/4) omitted (6.4.2020) by virtue of [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/724/regulation/3/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
 [^c20080991]: Marginal citation: [1974 c.23](https://www.legislation.gov.uk/ukpga/1974/23).
 

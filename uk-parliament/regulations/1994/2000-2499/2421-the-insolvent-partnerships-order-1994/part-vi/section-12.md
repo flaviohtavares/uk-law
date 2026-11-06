@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Winding up of unregistered company which is a member of insolvent partnership being wound up by virtue of this Order[^key-eee7944a9f510a4777e30377e2ef53d5]
+## 12. Winding up of unregistered company which is a member of insolvent partnership being wound up by virtue of this Order[^c-eee7944a9f510a4777e30377e2ef53d5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where an insolvent partnership or other body which may be wound up under Part V 
 
 ## Annotations
 
-[^key-eee7944a9f510a4777e30377e2ef53d5]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/1994/2421/article/12) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-eee7944a9f510a4777e30377e2ef53d5]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/1994/2421/article/12) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)

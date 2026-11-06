@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.7. Applications for appointment of administrators[^key-981a5b398e4026db6f161e8fd06879a9]
+## 3.9.7. Applications for appointment of administrators[^c-981a5b398e4026db6f161e8fd06879a9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-981a5b398e4026db6f161e8fd06879a9]: Commencement: Rule 3.9.7 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-981a5b398e4026db6f161e8fd06879a9]: Commencement: Rule 3.9.7 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

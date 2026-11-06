@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Publication of certain registration appeal panel decisions[^key-f516cdfa4f308fee12c9bdd7aea75e86]
+## 109. Publication of certain registration appeal panel decisions[^c-f516cdfa4f308fee12c9bdd7aea75e86]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f516cdfa4f308fee12c9bdd7aea75e86]: Commencement: S. 109 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-f516cdfa4f308fee12c9bdd7aea75e86]: Commencement: S. 109 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/309/article/2/c) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

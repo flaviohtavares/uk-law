@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Testing persons in police detention.[^c10579061][^key-be7f07d27de2392b4741a2ad7331334f][^key-879ece44911e423d3d5188f0283e8e06][^key-3bb76a1a643af84284c902d42cfca289]
+## 57. Testing persons in police detention.[^c10579061][^c-be7f07d27de2392b4741a2ad7331334f][^c-879ece44911e423d3d5188f0283e8e06][^c-3bb76a1a643af84284c902d42cfca289]
 
 *Extent: E+W*
 
@@ -85,17 +85,17 @@ summary: ''
 
 > (2) Codes shall (in particular) include provision in connection with the exercise by police officers of powers under section 63B above.
 
-(5)[^key-404893e36a8c06fa0554999d0433a77e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-404893e36a8c06fa0554999d0433a77e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c10579061]: Commencement: S. 57 partly in force; s. 57 not in force at Royal Assent, see s. 80; s. 57 in force for specified purposes at 20.6.2001, 2.7.2001, 20.5.2002, 2.9.2002 and 1.4.2003 by [S.I. 2001/2232](https://www.legislation.gov.uk/uksi/2001/2232), [art. 2(f)](https://www.legislation.gov.uk/uksi/2001/2232/article/2/f), [S.I](https://www.legislation.gov.uk/uksi/2001/2232/section/I). 2001/1149, art. 2, [S.I. 2002/1862](https://www.legislation.gov.uk/uksi/2002/1862), [art. 2](https://www.legislation.gov.uk/uksi/2002/1862/article/2) and [S.I. 2003/709](https://www.legislation.gov.uk/uksi/2003/709), [art. 2](https://www.legislation.gov.uk/uksi/2003/709/article/2)
 
-[^key-be7f07d27de2392b4741a2ad7331334f]: Commencement: S. 57 in force at 1.4.2004 for specified purposes by [S.I. 2004/780](https://www.legislation.gov.uk/uksi/2004/780), [art. 2](https://www.legislation.gov.uk/uksi/2004/780/article/2)
+[^c-be7f07d27de2392b4741a2ad7331334f]: Commencement: S. 57 in force at 1.4.2004 for specified purposes by [S.I. 2004/780](https://www.legislation.gov.uk/uksi/2004/780), [art. 2](https://www.legislation.gov.uk/uksi/2004/780/article/2)
 
-[^key-879ece44911e423d3d5188f0283e8e06]: Commencement: S. 57 in force at 1.4.2005 for specified purposes by [S.I. 2005/596](https://www.legislation.gov.uk/uksi/2005/596), [art. 2](https://www.legislation.gov.uk/uksi/2005/596/article/2)
+[^c-879ece44911e423d3d5188f0283e8e06]: Commencement: S. 57 in force at 1.4.2005 for specified purposes by [S.I. 2005/596](https://www.legislation.gov.uk/uksi/2005/596), [art. 2](https://www.legislation.gov.uk/uksi/2005/596/article/2)
 
-[^key-3bb76a1a643af84284c902d42cfca289]: Commencement: S. 57 in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3054](https://www.legislation.gov.uk/uksi/2005/3054), [art. 2](https://www.legislation.gov.uk/uksi/2005/3054/article/2)
+[^c-3bb76a1a643af84284c902d42cfca289]: Commencement: S. 57 in force at 1.12.2005 in so far as not already in force by [S.I. 2005/3054](https://www.legislation.gov.uk/uksi/2005/3054), [art. 2](https://www.legislation.gov.uk/uksi/2005/3054/article/2)
 
 [^c10579071]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
@@ -103,4 +103,4 @@ summary: ''
 
 [^c10579091]: Marginal citation: [1971 c. 38](https://www.legislation.gov.uk/ukpga/1971/38).
 
-[^key-404893e36a8c06fa0554999d0433a77e]: Textual amendment: S. 57(5) repealed (1.12.2005) by [Drugs Act 2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2005/17/section/24/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2); [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)
+[^c-404893e36a8c06fa0554999d0433a77e]: Textual amendment: S. 57(5) repealed (1.12.2005) by [Drugs Act 2005 (c. 17)](https://www.legislation.gov.uk/ukpga/2005/17), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2005/17/section/24/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2005/17/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/17/schedule/2); [S.I. 2005/3053](https://www.legislation.gov.uk/uksi/2005/3053), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2005/3053/article/2/1/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Revocation of redundant provisions[^key-cbf3c096094180897b275c18d1e4d8d9]
+## 210. Revocation of redundant provisions[^c-cbf3c096094180897b275c18d1e4d8d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ The following enactments are revoked—
 
 ## Annotations
 
-[^key-cbf3c096094180897b275c18d1e4d8d9]: Commencement: Art. 210 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cbf3c096094180897b275c18d1e4d8d9]: Commencement: Art. 210 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00153]: Footnote: Modified by [S.I. 1996/1669](https://www.legislation.gov.uk/uksi/1996/1669)

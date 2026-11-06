@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**33.**[^key-f130e1c06a056a97959642d951409863] In paragraph 18, after sub-paragraph (1) insert—
+**33.**[^c-f130e1c06a056a97959642d951409863] In paragraph 18, after sub-paragraph (1) insert—
 
 > (1A) In subsection (A1), omit “, (e)”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f130e1c06a056a97959642d951409863]: Commencement: Art. 33 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-f130e1c06a056a97959642d951409863]: Commencement: Art. 33 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

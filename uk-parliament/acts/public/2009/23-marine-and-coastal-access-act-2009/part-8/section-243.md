@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Enforcement of MCZs in Scottish offshore region[^key-9186cbc60cc3a355ea8f9caee489ab7f]
+## 243. Enforcement of MCZs in Scottish offshore region[^c-9186cbc60cc3a355ea8f9caee489ab7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ changes during the course of the pursuit.
 
 ## Annotations
 
-[^key-9186cbc60cc3a355ea8f9caee489ab7f]: Commencement: S. 243 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/19)
+[^c-9186cbc60cc3a355ea8f9caee489ab7f]: Commencement: S. 243 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/19)

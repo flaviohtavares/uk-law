@@ -26,7 +26,7 @@ summary: ''
 
 (3) Any power conferred by this Act to make orders shall include a power, exercisable in the like manner and subject to the same conditions, to vary or revoke any such order.
 
-(4)[^key-c20c017004eb83a061562cefc237f3da] A statutory instrument containing an order under section 27(1D) or 27A(1A)(c) of this Act is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
+(4)[^c-c20c017004eb83a061562cefc237f3da] A statutory instrument containing an order under section 27(1D) or 27A(1A)(c) of this Act is not made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c9976261]: Textual amendment: Words repealed by [Children and Young Persons Act 1969 (c. 54, SIF 20)](https://www.legislation.gov.uk/ukpga/1969/54), [s. 73(4)(c)(d)](https://www.legislation.gov.uk/ukpga/1969/54/section/73/4/c/d), [Sch. 5 para. 63](https://www.legislation.gov.uk/ukpga/1969/54/schedule/5/paragraph/63), [Sch. 6](https://www.legislation.gov.uk/ukpga/1969/54/schedule/6)
 
-[^key-c20c017004eb83a061562cefc237f3da]: Textual amendment: S. 90(4) added (8.2.2006) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 21(4)](https://www.legislation.gov.uk/asp/2005/14/section/21/4), [24(2)](https://www.legislation.gov.uk/asp/2005/14/section/24/2); [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48), [art. 3(1)](https://www.legislation.gov.uk/ssi/2006/48/article/3/1), [sch. pt. 1](https://www.legislation.gov.uk/ssi/2006/48/schedule/part/1)
+[^c-c20c017004eb83a061562cefc237f3da]: Textual amendment: S. 90(4) added (8.2.2006) by [Management of Offenders etc. (Scotland) Act 2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14), [ss. 21(4)](https://www.legislation.gov.uk/asp/2005/14/section/21/4), [24(2)](https://www.legislation.gov.uk/asp/2005/14/section/24/2); [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48), [art. 3(1)](https://www.legislation.gov.uk/ssi/2006/48/article/3/1), [sch. pt. 1](https://www.legislation.gov.uk/ssi/2006/48/schedule/part/1)

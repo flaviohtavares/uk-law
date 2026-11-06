@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S*
 
-[^key-80790ef637a7d6beecc00e9c87e91e3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80790ef637a7d6beecc00e9c87e91e3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80790ef637a7d6beecc00e9c87e91e3e]: Textual amendment: Sch. 6 repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))
+[^c-80790ef637a7d6beecc00e9c87e91e3e]: Textual amendment: Sch. 6 repealed (E.W.) (1.4.2009) by [The Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/11), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2) (with [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2009/484/schedule/1/paragraph/12))

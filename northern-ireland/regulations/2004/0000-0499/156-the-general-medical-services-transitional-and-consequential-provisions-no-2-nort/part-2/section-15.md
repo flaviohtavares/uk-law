@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Appointments system[^key-10c020c31c3f96993e0d293b8c4306ab]
+## 15. Appointments system[^c-10c020c31c3f96993e0d293b8c4306ab]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ that notice shall be regarded as a notice given by the succeeding contractor to 
 
 ## Annotations
 
-[^key-10c020c31c3f96993e0d293b8c4306ab]: Commencement: Art. 15 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-10c020c31c3f96993e0d293b8c4306ab]: Commencement: Art. 15 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

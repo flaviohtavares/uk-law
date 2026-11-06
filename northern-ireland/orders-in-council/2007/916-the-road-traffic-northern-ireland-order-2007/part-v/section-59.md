@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(A1)[^key-229a4a8c4a12b3ec65091e5d116c6890] A person who is entitled to give paid driving instruction of any description by virtue of Part 2 of the Regulations of 2023 and who is aggrieved by the failure of the Registrar—
+(A1)[^c-229a4a8c4a12b3ec65091e5d116c6890] A person who is entitled to give paid driving instruction of any description by virtue of Part 2 of the Regulations of 2023 and who is aggrieved by the failure of the Registrar—
 
 - (a) to make a decision in relation to an application for registration of the person before the end of the period of four months beginning with the day after the day on which the complete application was submitted; or
 - (b) to make a decision in relation to an application for the extension of the person’s registration before the end of the period of four months beginning with the day after the day on which the complete application was submitted,
@@ -33,7 +33,7 @@ may appeal by notice in writing to the Department.
 
 - (a) to refuse an application–
   - (i) for his registration, or
-  - (ii) for the extension [^key-f09d5e266d66ceb7d68539a3e429d48a]... of his registration;
+  - (ii) for the extension [^c-f09d5e266d66ceb7d68539a3e429d48a]... of his registration;
 - (b) to terminate his registration;
 - (c) to give him a direction under Article 58,
 
@@ -60,7 +60,7 @@ may by notice in writing appeal to the Department within the period of 28 days b
 - (b) where such an appeal is brought and is withdrawn, on the withdrawal of the appeal;
 - (c) where such an appeal is brought and not withdrawn, if and when the appeal is dismissed, and not otherwise.
 
-(6) A refusal or termination under paragraph (2)(a) or (b) may direct that an application by the appellant to be registered [^key-931ca531e99bc379d0140442560761fd]... shall not be entertained before the expiration of such period, not exceeding 4 years beginning with the day on which the refusal or termination is made, as may be specified in the refusal or termination.
+(6) A refusal or termination under paragraph (2)(a) or (b) may direct that an application by the appellant to be registered [^c-931ca531e99bc379d0140442560761fd]... shall not be entertained before the expiration of such period, not exceeding 4 years beginning with the day on which the refusal or termination is made, as may be specified in the refusal or termination.
 
 (7) If the Department considers that any evidence adduced on an appeal had not been adduced to the Registrar before he gave the decision to which the appeal relates, it may (instead of making a decision under paragraph (2)) remit the matter to the Registrar for him to reconsider the decision.
 
@@ -75,7 +75,7 @@ within 14 days beginning with the day on which notice of the decision is given.
 
 (10) The Department must, on making a decision under paragraph (9), give notice in writing of the decision to the appellant including, where it dismisses the appeal, particulars of the grounds of that dismissal.
 
-(11) Where the Registrar has decided to refuse an application for the extension [^key-1aba2882bcbbde6b5b58f22630c7a2bd]... of a person's registration or to terminate a person's registration but either–
+(11) Where the Registrar has decided to refuse an application for the extension [^c-1aba2882bcbbde6b5b58f22630c7a2bd]... of a person's registration or to terminate a person's registration but either–
 
 - (a) he gave a direction under Article 56(7) or 57(6); or
 - (b) the Department has given such a direction on appeal,
@@ -93,10 +93,10 @@ he may by notice in writing apply to the Department for a direction that the dec
 
 ## Annotations
 
-[^key-229a4a8c4a12b3ec65091e5d116c6890]: Textual amendment: [Art. 59(A1)](https://www.legislation.gov.uk/nisi/2007/916/article/59/A1)[(B1)](https://www.legislation.gov.uk/nisi/2007/916/article/59/B1) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 95(4)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/95/4)
+[^c-229a4a8c4a12b3ec65091e5d116c6890]: Textual amendment: [Art. 59(A1)](https://www.legislation.gov.uk/nisi/2007/916/article/59/A1)[(B1)](https://www.legislation.gov.uk/nisi/2007/916/article/59/B1) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 95(4)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/95/4)
 
-[^key-f09d5e266d66ceb7d68539a3e429d48a]: Textual amendment: Words in [art. 59(1)(a)(ii)](https://www.legislation.gov.uk/nisi/2007/916/article/59/1/a/ii) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(11)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/11/a)
+[^c-f09d5e266d66ceb7d68539a3e429d48a]: Textual amendment: Words in [art. 59(1)(a)(ii)](https://www.legislation.gov.uk/nisi/2007/916/article/59/1/a/ii) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(11)(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/11/a)
 
-[^key-931ca531e99bc379d0140442560761fd]: Textual amendment: Words in [art. 59(6)](https://www.legislation.gov.uk/nisi/2007/916/article/59/6) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(11)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/11/b)
+[^c-931ca531e99bc379d0140442560761fd]: Textual amendment: Words in [art. 59(6)](https://www.legislation.gov.uk/nisi/2007/916/article/59/6) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(11)(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/11/b)
 
-[^key-1aba2882bcbbde6b5b58f22630c7a2bd]: Textual amendment: Words in [art. 59(11)](https://www.legislation.gov.uk/nisi/2007/916/article/59/11) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(11)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/11/c)
+[^c-1aba2882bcbbde6b5b58f22630c7a2bd]: Textual amendment: Words in [art. 59(11)](https://www.legislation.gov.uk/nisi/2007/916/article/59/11) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 6(11)(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/6/11/c)

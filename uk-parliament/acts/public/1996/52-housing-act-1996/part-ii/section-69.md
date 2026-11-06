@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Information requirements in connection with registration schemes.[^key-21363e12850c5046b3cfecb746d4564c]
+## 69. Information requirements in connection with registration schemes.[^c-21363e12850c5046b3cfecb746d4564c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21363e12850c5046b3cfecb746d4564c]: Textual amendment: Ss. 65-79 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
+[^c-21363e12850c5046b3cfecb746d4564c]: Textual amendment: Ss. 65-79 repealed (6.4.2006 for E., 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [s. 270(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4)[(5)(f)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/5/f), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))

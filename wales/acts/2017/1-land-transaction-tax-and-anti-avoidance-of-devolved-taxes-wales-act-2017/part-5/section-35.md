@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Open-ended investment companies[^key-3cb74598db6c2904389b36130f2c0cee]
+## 35. Open-ended investment companies[^c-3cb74598db6c2904389b36130f2c0cee]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ in a manner corresponding, subject to such modifications as the Welsh Ministers 
 
 ## Annotations
 
-[^key-3cb74598db6c2904389b36130f2c0cee]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2017/1/section/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3cb74598db6c2904389b36130f2c0cee]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2017/1/section/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

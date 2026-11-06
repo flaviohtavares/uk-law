@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Offence of shooting deer with a shotgun[^key-2cc64f0e226cb6f7b2c2959c18e86954]
+## 32. Offence of shooting deer with a shotgun[^c-2cc64f0e226cb6f7b2c2959c18e86954]
 
 *Extent: S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (4) In section 37(1) (restrictions on granting of certain authorisations), after “(7),” insert “17ZA(1),”.
 
-(5)[^key-1e9f8c50f0f813774f7e4b95aa69c642] In section 45 (interpretation)—
+(5)[^c-1e9f8c50f0f813774f7e4b95aa69c642] In section 45 (interpretation)—
 
 - (a) in subsection (1), after the definition of “shoot”, insert—
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2cc64f0e226cb6f7b2c2959c18e86954]: Commencement: S. 32 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-2cc64f0e226cb6f7b2c2959c18e86954]: Commencement: S. 32 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-1e9f8c50f0f813774f7e4b95aa69c642]: Commencement: [S. 32(5)](https://www.legislation.gov.uk/asp/2026/6/section/32/5) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(s)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/s)
+[^c-1e9f8c50f0f813774f7e4b95aa69c642]: Commencement: [S. 32(5)](https://www.legislation.gov.uk/asp/2026/6/section/32/5) in force at 26.10.2026 for specified purposes by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(s)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/s)

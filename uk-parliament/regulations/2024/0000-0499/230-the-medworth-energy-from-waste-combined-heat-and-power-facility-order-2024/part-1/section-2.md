@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-d810608d9bd722c6c5a93a7644cfeabc]
+## 2. Interpretation[^c-d810608d9bd722c6c5a93a7644cfeabc]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ summary: ''
 - “**combined heat and power assessment**” means the document of that name identified in Table 10 of Schedule 13 and which is certified by the Secretary of State as the combined heat and power assessment for the purposes of this Order under article 42;
 - “**commence**” means the first carrying out of any material operation, as defined in section 155 of the 2008 Act (which explains when development begins), comprised in or carried out for the purposes of the authorised development other than the permitted preliminary works and the words “commencement” and “commenced” are to be construed accordingly;
 - “**commissioning**” means the process of testing all systems and components of the authorised development or part of the authorised development which are installed to verify that they, and the authorised development as a whole, function and are operable in accordance with design objectives, specifications and operational and safety requirements of the undertaker;
-- “**date of final commissioning**” means the date on which the commissioning of Work No. 1[^key-9e8084e46f924bdfd27b1da8b182676f] is completed as notified as such by the undertaker to the relevant planning authority pursuant to requirement 20 of Schedule 2 (requirements);
+- “**date of final commissioning**” means the date on which the commissioning of Work No. 1[^c-9e8084e46f924bdfd27b1da8b182676f] is completed as notified as such by the undertaker to the relevant planning authority pursuant to requirement 20 of Schedule 2 (requirements);
 - “**design and access statement**” means the document of that name identified in Table 10 of Schedule 13 and which is certified by the Secretary of State as the design and access statement for the purposes of this Order under article 42;
 - “**EWC**” means European Waste Catalogue;
 - “**EPN**” means Eastern Power Networks plc (company number 02366906);
@@ -111,7 +111,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d810608d9bd722c6c5a93a7644cfeabc]: Commencement: Art. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-d810608d9bd722c6c5a93a7644cfeabc]: Commencement: Art. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
 [^f00008]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33)
 
@@ -131,7 +131,7 @@ summary: ''
 
 [^f00016]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29)
 
-[^key-9e8084e46f924bdfd27b1da8b182676f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/230/article/2/1) substituted (8.11.2024) by virtue of [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-9e8084e46f924bdfd27b1da8b182676f]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/230/article/2/1) substituted (8.11.2024) by virtue of [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
 [^f00017]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67) The definition of “owner” was amended by section 17 and paragraph 9 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to section 7 which are not relevant to this Order.
 

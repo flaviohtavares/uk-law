@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. Power to require production of licence, etc.[^key-a30692b9e812041598fa4ec24d37bec7]
+## 145. Power to require production of licence, etc.[^c-a30692b9e812041598fa4ec24d37bec7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ the officer may require the person to produce the licence or other authority.
 
 ## Annotations
 
-[^key-a30692b9e812041598fa4ec24d37bec7]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2010/5/section/145) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-a30692b9e812041598fa4ec24d37bec7]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2010/5/section/145) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

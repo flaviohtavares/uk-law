@@ -273,7 +273,7 @@ No person is permitted to sell or consign for sale fodder produced in a protecti
 
 (3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus and under the authority of a licence granted by an inspector.
 
-(4)[^key-c6e631dab5620c8ce303cd2065026448] The occupier of premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011.
+(4)[^c-c6e631dab5620c8ce303cd2065026448] The occupier of premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011.
 
 (5) Transport of dung or manure for spreading complies with this sub-paragraph if it satisfies the following requirements—
 
@@ -619,7 +619,7 @@ except under the authority of a licence granted by the National Assembly.
 
 (3) Transport of dung or manure complies with this sub-paragraph where it is to an establishment for treatment to destroy the disease virus and under the authority of a licence granted by the National Assembly.
 
-(4)[^key-9b4dde9118e109a11d03211747ec856a] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011.
+(4)[^c-9b4dde9118e109a11d03211747ec856a] The occupier of any premises to which dung or manure is transported by authority of a licence granted under sub-paragraph (3) must ensure that it is treated in accordance with Articles 15 and 32 of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/eur/2009/1069) and Articles 10 and 22 of and Section 2 of Chapter I of Annex XI to Regulation (EU) No. 142/2011.
 
 (5) Transport of dung or manure complies with this sub-paragraph if—
 
@@ -663,10 +663,10 @@ except under the authority of a licence granted by the National Assembly.
 
 [^c15478891]: Marginal citation: 1990, c. 43.
 
-[^key-c6e631dab5620c8ce303cd2065026448]: Textual amendment: [Sch. 4 para. 20(4)](https://www.legislation.gov.uk/wsi/2006/179/schedule/4/paragraph/20/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/5/a)
+[^c-c6e631dab5620c8ce303cd2065026448]: Textual amendment: [Sch. 4 para. 20(4)](https://www.legislation.gov.uk/wsi/2006/179/schedule/4/paragraph/20/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(5)(a)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/5/a)
 
 [^c15478911]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
 [^c15478921]: Marginal citation: [S.I. 1998/463](https://www.legislation.gov.uk/uksi/1998/463).
 
-[^key-9b4dde9118e109a11d03211747ec856a]: Textual amendment: [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/wsi/2006/179/schedule/4/paragraph/33/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/5/b)
+[^c-9b4dde9118e109a11d03211747ec856a]: Textual amendment: [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/wsi/2006/179/schedule/4/paragraph/33/4) substituted (28.3.2014) by [The Animal By-Products (Enforcement) (Wales) Regulations 2014 (S.I. 2014/517)](https://www.legislation.gov.uk/wsi/2014/517), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2014/517/regulation/1/3), [Sch. 2 para. 1(5)(b)](https://www.legislation.gov.uk/wsi/2014/517/schedule/2/paragraph/1/5/b)

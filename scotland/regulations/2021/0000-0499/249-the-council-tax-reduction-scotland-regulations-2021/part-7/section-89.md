@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Relationship between council tax reduction and extended council tax reduction (qualifying contributory benefits)[^key-3cdd8fa6673900f8937b59b2bb5d76ef]
+## 89. Relationship between council tax reduction and extended council tax reduction (qualifying contributory benefits)[^c-3cdd8fa6673900f8937b59b2bb5d76ef]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cdd8fa6673900f8937b59b2bb5d76ef]: Commencement: [Reg. 89](https://www.legislation.gov.uk/ssi/2021/249/regulation/89) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-3cdd8fa6673900f8937b59b2bb5d76ef]: Commencement: [Reg. 89](https://www.legislation.gov.uk/ssi/2021/249/regulation/89) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

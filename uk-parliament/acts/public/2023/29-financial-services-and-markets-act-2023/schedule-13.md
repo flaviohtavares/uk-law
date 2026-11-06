@@ -24,7 +24,7 @@ Section 58
 
 ### PART 1 — New Schedule 19C to FSMA 2000
 
-**1.**[^key-3e190593deda6990dba6c2e7e28af4cf] (1) Part 24 of FSMA 2000 (insolvency) is amended as follows.
+**1.**[^c-3e190593deda6990dba6c2e7e28af4cf] (1) Part 24 of FSMA 2000 (insolvency) is amended as follows.
 
 (2) After section 377J (further provision about write-down orders), inserted by Part 1 of Schedule 12 to this Act, insert—
 
@@ -271,12 +271,12 @@ Section 58
 
 ### PART 2 — Consequential amendments
 
-**2.**[^key-4cf1ef90137f78943df66833f10fa8bb] In section 429 of FSMA 2000 (Parliamentary control of statutory instruments), in subsection (2B), at the end insert—
+**2.**[^c-4cf1ef90137f78943df66833f10fa8bb] In section 429 of FSMA 2000 (Parliamentary control of statutory instruments), in subsection (2B), at the end insert—
 
 > - (e) provision made under paragraph 12 of Schedule 19C.
 
 ## Annotations
 
-[^key-3e190593deda6990dba6c2e7e28af4cf]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/13/paragraph/1) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-3e190593deda6990dba6c2e7e28af4cf]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/13/paragraph/1) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
 
-[^key-4cf1ef90137f78943df66833f10fa8bb]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/13/paragraph/2) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)
+[^c-4cf1ef90137f78943df66833f10fa8bb]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/13/paragraph/2) in force at 29.8.2023, see [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e)

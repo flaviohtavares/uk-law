@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Compliance notice[^key-dc1d3b120057c35b5c2f79b4691ee9fe]
+## 90. Compliance notice[^c-dc1d3b120057c35b5c2f79b4691ee9fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc1d3b120057c35b5c2f79b4691ee9fe]: Commencement: S. 90 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-dc1d3b120057c35b5c2f79b4691ee9fe]: Commencement: S. 90 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

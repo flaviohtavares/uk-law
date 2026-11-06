@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236K. Further provision about the equality requirement[^key-5889aa221ad38c55641b125526f38087][^key-09b7a11886eeac5f26a384eae6686138][^key-c6c99bbaaae78f4fe6c4209025e522ae][^key-7485b67758ed9055c2d4c0df4232014a][^key-0e232bff228df7f2696bfc08448c7cb5][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
+## 236K. Further provision about the equality requirement[^c-5889aa221ad38c55641b125526f38087][^c-09b7a11886eeac5f26a384eae6686138][^c-c6c99bbaaae78f4fe6c4209025e522ae][^c-7485b67758ed9055c2d4c0df4232014a][^c-0e232bff228df7f2696bfc08448c7cb5][^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,14 +52,14 @@ but this is subject to subsections (5) and (6).
 
 ## Annotations
 
-[^key-5889aa221ad38c55641b125526f38087]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 75A(3) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2))
+[^c-5889aa221ad38c55641b125526f38087]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 75A(3) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 14(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/14/2))
 
-[^key-09b7a11886eeac5f26a384eae6686138]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 86(3A)(b) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4))
+[^c-09b7a11886eeac5f26a384eae6686138]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 86(3A)(b) (as inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 15(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/3)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/15/4))
 
-[^key-c6c99bbaaae78f4fe6c4209025e522ae]: Modification: Ss. 236J, 236K applied by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 312E(2)(b) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
+[^c-c6c99bbaaae78f4fe6c4209025e522ae]: Modification: Ss. 236J, 236K applied by Income Tax (Earnings and Pensions) Act 2003 (c. 1), s. 312E(2)(b) (as inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5))
 
-[^key-7485b67758ed9055c2d4c0df4232014a]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 28A(2) (as inserted (with effect in accordance with Sch. 37 para. 11(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/11/1))
+[^c-7485b67758ed9055c2d4c0df4232014a]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 28A(2) (as inserted (with effect in accordance with Sch. 37 para. 11(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 11(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/11/1))
 
-[^key-0e232bff228df7f2696bfc08448c7cb5]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 13A(2) (as inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1))
+[^c-0e232bff228df7f2696bfc08448c7cb5]: Modification: S. 236K applied (with modifications) by Inheritance Tax Act 1984 (c. 51), s. 13A(2) (as inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1))
 
 [^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]: Textual amendment: Ss. 236H-236U and cross-heading inserted (with effect in accordance with [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/1) (with [Sch. 37 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/4))

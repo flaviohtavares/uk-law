@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Certain declarants to supply copy of birth certificates[^key-a8ea9896e93ad4b8f2a00dcc56d9f7fd]
+## 19. Certain declarants to supply copy of birth certificates[^c-a8ea9896e93ad4b8f2a00dcc56d9f7fd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8ea9896e93ad4b8f2a00dcc56d9f7fd]: Textual amendment: Reg. 19 omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/4/3) (with [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/a))
+[^c-a8ea9896e93ad4b8f2a00dcc56d9f7fd]: Textual amendment: Reg. 19 omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) Regulations 2023 (S.I. 2023/1406)](https://www.legislation.gov.uk/uksi/2023/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1406/regulation/4/3) (with [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2023/1406/schedule/2/paragraph/2/a))

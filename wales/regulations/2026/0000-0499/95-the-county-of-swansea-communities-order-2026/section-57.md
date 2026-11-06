@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Creation of the new community ward of Kittle[^key-d5e97def372e3110aaa7adf4cf73f04a]
+## 57. Creation of the new community ward of Kittle[^c-d5e97def372e3110aaa7adf4cf73f04a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Pennard which is to be known
 
 ## Annotations
 
-[^key-d5e97def372e3110aaa7adf4cf73f04a]: Commencement: [Art. 57](https://www.legislation.gov.uk/wsi/2026/95/article/57) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-d5e97def372e3110aaa7adf4cf73f04a]: Commencement: [Art. 57](https://www.legislation.gov.uk/wsi/2026/95/article/57) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

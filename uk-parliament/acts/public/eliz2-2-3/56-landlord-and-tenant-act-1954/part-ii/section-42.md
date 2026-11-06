@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purposes of this section two bodies corporate shall be taken to be members of a group if and only if one is a subsidiary of the other or both are subsidiaries of a third body corporate or the same person has a controlling interest in both[^key-6aa6a7a9901e90b094df97e87730662a].
+(1) For the purposes of this section two bodies corporate shall be taken to be members of a group if and only if one is a subsidiary of the other or both are subsidiaries of a third body corporate or the same person has a controlling interest in both[^c-6aa6a7a9901e90b094df97e87730662a].
 
-- [^key-6cfc14542bf233a9a716a396bfbe0d6c] ... **[^key-6cfc14542bf233a9a716a396bfbe0d6c]...** [^key-6cfc14542bf233a9a716a396bfbe0d6c] ...
+- [^c-6cfc14542bf233a9a716a396bfbe0d6c] ... **[^c-6cfc14542bf233a9a716a396bfbe0d6c]...** [^c-6cfc14542bf233a9a716a396bfbe0d6c] ...
 
 (2) Where a tenancy is held by a member of a group, occupation by another member of the group, and the carrying on of a business by another member of the group, shall be treated for the purposes of section 23 of this Act as equivalent to occupation or the carrying on of a business by the member of the group holding the tenancy; and in relation to a tenancy to which this Part of this Act applies by virtue of the foregoing provisions of this subsection—
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c318893]: Textual amendment: S. 42 substituted by virtue of [Law of Property Act 1969 (c. 59)](https://www.legislation.gov.uk/ukpga/1969/59), [s. 15](https://www.legislation.gov.uk/ukpga/1969/59/section/15), [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/59/schedule/1)
 
-[^key-6aa6a7a9901e90b094df97e87730662a]: Textual amendment: Words in s. 42(1) added (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [16](https://www.legislation.gov.uk/uksi/2003/3096/article/16)
+[^c-6aa6a7a9901e90b094df97e87730662a]: Textual amendment: Words in s. 42(1) added (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [16](https://www.legislation.gov.uk/uksi/2003/3096/article/16)
 
-[^key-6cfc14542bf233a9a716a396bfbe0d6c]: Textual amendment: Words in s. 42(1) repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
+[^c-6cfc14542bf233a9a716a396bfbe0d6c]: Textual amendment: Words in s. 42(1) repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)

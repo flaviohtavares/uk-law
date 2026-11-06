@@ -39,48 +39,48 @@ releasing certain Member States from the obligation to apply to certain species 
 
 (Text with EEA relevance) (revoked)
 
-[^key-fbe9e77017f833b38ae07a4a3f8a4282]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbe9e77017f833b38ae07a4a3f8a4282]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-fbe9e77017f833b38ae07a4a3f8a4282] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fbe9e77017f833b38ae07a4a3f8a4282]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbe9e77017f833b38ae07a4a3f8a4282]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+## ANNEX[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
-### PART I — Directive 66/401/EEC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART II — Directive 66/402/EEC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+### PART I — Directive 66/401/EEC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — Directive 68/193/EEC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+### PART II — Directive 66/402/EEC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — Directive 1999/105/EC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+### PART III — Directive 68/193/EEC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — Directive 2002/54/EC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+### PART IV — Directive 1999/105/EC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VI — Directive 2002/55/EC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+### PART V — Directive 2002/54/EC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART VII — Directive 2002/57/EC[^key-fbe9e77017f833b38ae07a4a3f8a4282]
+### PART VI — Directive 2002/55/EC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART VII — Directive 2002/57/EC[^c-fbe9e77017f833b38ae07a4a3f8a4282]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbe9e77017f833b38ae07a4a3f8a4282]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbe9e77017f833b38ae07a4a3f8a4282]: Textual amendment: Decision revoked (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/162)](https://www.legislation.gov.uk/uksi/2019/162), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/162/regulation/1/2/b), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2019/162/schedule/paragraph/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Scheme of assistance: demolition works[^key-10b3519a8460b975e44b575b1bf4b3d3]
+## 151. Scheme of assistance: demolition works[^c-10b3519a8460b975e44b575b1bf4b3d3]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ Section 71 of the 2006 Act is amended as follows—
 
 ## Annotations
 
-[^key-10b3519a8460b975e44b575b1bf4b3d3]: Commencement: S. 151 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-10b3519a8460b975e44b575b1bf4b3d3]: Commencement: S. 151 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

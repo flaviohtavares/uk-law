@@ -31,11 +31,11 @@ Debts (Deceased Servicemen etc) Act 1893[^M_F_b49b2c89-0cf2-4137-8812-1ec5ab1885
 
 An Act to consolidate and amend the Law relating to the Payment of Regimental Debts, and the Collection and Disposal of the Effects of Officers and Soldiers in case of Death, Desertion, Insanity, and other cases.
 
-[^c575980][^c575981][^c575982][^c575983][^key-8beb9768c639d59c609bf44d71c19303]\[29th April 1893\]
+[^c575980][^c575981][^c575982][^c575983][^c-8beb9768c639d59c609bf44d71c19303]\[29th April 1893\]
 
 ## Collection of Effects and Payment of Preferential Charges
 
-### 1. On death of person subject to service law committee of adjustment to secure effects and pay charges.[^key-200235a43e54fc58e5397a7afe90162f]
+### 1. On death of person subject to service law committee of adjustment to secure effects and pay charges.[^c-200235a43e54fc58e5397a7afe90162f]
 
 On the death of a person while subject to service law the prescribed committee of adjustment shall, as soon as may be, in accordance with the prescribed regulations and subject to any exceptions made thereby,
 
@@ -49,7 +49,7 @@ The following shall be the preferential charges on the property of a person dyin
 
 (1) Expenses of last illness and funeral:
 
-(2) Service[^key-72dc2bfa2ef7caf9806a86f64a20ea82] debts, namely, sums due in respect of, or of any advance in respect of—
+(2) Service[^c-72dc2bfa2ef7caf9806a86f64a20ea82] debts, namely, sums due in respect of, or of any advance in respect of—
 
 - (a) Quarters;
 - (b) Mess, band, and other regimental accounts;
@@ -129,7 +129,7 @@ Where the residue does not exceed £5,000[^c575989], the Secretary of State may,
 
 (1) Where any residue or any part thereof remains undisposed of and unappropriated, the prescribed notice thereof shall be published, and during six years next after the publication of that notice the like notice with any necessary modifications shall be annually published.
 
-(2)[^c575991] So much of the residue as remains undisposed of and unappropriated for six months after the publication of the last of such notices shall, together with any income or accumulations of income accrued therefrom, be applied in the prescribed manner in or towards the creation or maintenance of such compassionate or other fund for the benefit of widows, surviving civil partners[^key-e951da91c73664c353a81765de529ad1] and children, or other near relatives, of soldiers dying on service, or within six months after discharge, as may be prescribed.
+(2)[^c575991] So much of the residue as remains undisposed of and unappropriated for six months after the publication of the last of such notices shall, together with any income or accumulations of income accrued therefrom, be applied in the prescribed manner in or towards the creation or maintenance of such compassionate or other fund for the benefit of widows, surviving civil partners[^c-e951da91c73664c353a81765de529ad1] and children, or other near relatives, of soldiers dying on service, or within six months after discharge, as may be prescribed.
 
 (3) Provided that the application under this section of any residue, or part of a residue, shall not bar any claim of any person to the same, or any part thereof.
 
@@ -211,9 +211,9 @@ In the application of this Act to an army paymaster, the following modifications
 
 (3) The surplus in the hands of the committee of adjustment and the residue in the hands of a Secretary of State shall be dealt with and disposed of as may be prescribed and not according to the foregoing provisions of this Act.
 
-### 23. Application of Act to deserters, felons, &c.[^key-0cb980e60174b8786dafeb1a022636dc]
+### 23. Application of Act to deserters, felons, &c.[^c-0cb980e60174b8786dafeb1a022636dc]
 
-Where a person subject to service law deserts, or is absent without leave for twenty-one days, or, in consequence of a conviction by or before a court of ordinary criminal jurisdiction,[^c575998] [^key-06a7584979f5ca87f96d553150ca97d2]... is imprisoned or detained to serve a sentence of three months or more, ... [^c575999], the provisions of this Act shall apply as if the person were dead, subject to the following modifications:
+Where a person subject to service law deserts, or is absent without leave for twenty-one days, or, in consequence of a conviction by or before a court of ordinary criminal jurisdiction,[^c575998] [^c-06a7584979f5ca87f96d553150ca97d2]... is imprisoned or detained to serve a sentence of three months or more, ... [^c575999], the provisions of this Act shall apply as if the person were dead, subject to the following modifications:
 
 (1) The powers of the committee of adjustment shall arise and continue notwithstanding that the preferential charges are paid or secured:
 
@@ -223,7 +223,7 @@ Where a person subject to service law deserts, or is absent without leave for tw
 
 Where a person subject to service law law is ascertained in the prescribed manner to be insane, the provisions of this Act shall apply as if he had died at the time of his insanity being so ascertained, subject nevertheless to the prescribed exceptions, and to the following modifications:
 
-- (a) The preferential charges may be paid by the wife, husband or civil partner[^key-3e66b7036d7358feb1d88abaff42f89d] of the insane person, or by any person who, subject to the prescribed regulations, appears to be a relative of or person undertaking the care of the insane person or of his property:
+- (a) The preferential charges may be paid by the wife, husband or civil partner[^c-3e66b7036d7358feb1d88abaff42f89d] of the insane person, or by any person who, subject to the prescribed regulations, appears to be a relative of or person undertaking the care of the insane person or of his property:
 - (b) The committee of adjustment shall dispose of the surplus in the prescribed manner with a view to its being applied for the benefit of the insane person.
 
 ### 25—27. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c576001]
@@ -241,12 +241,12 @@ In this Act, unless the context otherwise requires,—
 - The expression “**representative**” means any person taking out representation, but does not include an official administrator:
 - The expression “official administrator” . . . [^c576004] in a colony means any public officer who has by law any powers or duties in relation to the collection or distribution of the estate of any deceased person:
 - The expression “**prescribed**” means prescribed by Royal Warrant.
-- The expression “[^c576007] **desert** ” means commit an offence against under section 8 of the Armed Forces Act 2006[^key-3ab4333405faeb2d428a3979808e9ec3] .
-- “[^key-c798998a4f1f638788764c5abfca77e0] **Subject to service law** ” has the same meaning as in the Armed Forces Act 2006.
+- The expression “[^c576007] **desert** ” means commit an offence against under section 8 of the Armed Forces Act 2006[^c-3ab4333405faeb2d428a3979808e9ec3] .
+- “[^c-c798998a4f1f638788764c5abfca77e0] **Subject to service law** ” has the same meaning as in the Armed Forces Act 2006.
 
-### 29A. Application of Act to members of naval, marine or air forces[^key-ceb8a2301fd2023ee8716a719f663ccf]
+### 29A. Application of Act to members of naval, marine or air forces[^c-ceb8a2301fd2023ee8716a719f663ccf]
 
-(1)[^key-81f492f5bfe80887d7e47a6fb90a327c] Regulations may provide that any provision of this Act does not apply, or applies with prescribed modifications, in relation to a relevant person.
+(1)[^c-81f492f5bfe80887d7e47a6fb90a327c] Regulations may provide that any provision of this Act does not apply, or applies with prescribed modifications, in relation to a relevant person.
 
 (2) In this section “**relevant person**” means a person subject to service law who is not a member of Her Majesty's military forces.
 
@@ -260,7 +260,7 @@ In this Act, unless the context otherwise requires,—
 
 ### 31, 32. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c576011]
 
-### 33. Short title.[^key-b36a79743a75e5557d8866dece08ce4a]
+### 33. Short title.[^c-b36a79743a75e5557d8866dece08ce4a]
 
 This Act may be cited as the Debts (Deceased Servicemen etc) Act 1893.
 
@@ -276,11 +276,11 @@ This Act may be cited as the Debts (Deceased Servicemen etc) Act 1893.
 
 [^c575983]: Modification: Act amended (women's services) by [Armed Forces Act 1981 (c. 55, SIF 7:1)](https://www.legislation.gov.uk/ukpga/1981/55), [s. 20](https://www.legislation.gov.uk/ukpga/1981/55/section/20), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1981/55/schedule/3/paragraph/1)
 
-[^key-8beb9768c639d59c609bf44d71c19303]: Modification: Act modified (24.4.2009 for specified purposes) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/1/1)
+[^c-8beb9768c639d59c609bf44d71c19303]: Modification: Act modified (24.4.2009 for specified purposes) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/1/1)
 
-[^key-200235a43e54fc58e5397a7afe90162f]: Textual amendment: Words in Act substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/6); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-200235a43e54fc58e5397a7afe90162f]: Textual amendment: Words in Act substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/6); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-72dc2bfa2ef7caf9806a86f64a20ea82]: Textual amendment: Word in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/2/2) substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/1)
+[^c-72dc2bfa2ef7caf9806a86f64a20ea82]: Textual amendment: Word in [s. 2(2)](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/2/2) substituted (31.10.2009) by [The Armed Forces Act 2006 (Consequential Amendments) Order 2009 (S.I. 2009/2054)](https://www.legislation.gov.uk/uksi/2009/2054), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/2054/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/2054/schedule/1/paragraph/1)
 
 [^c575984]: Textual amendment: Words repealed with saving by [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), [ss. 50](https://www.legislation.gov.uk/ukpga/1975/7/section/50), [52](https://www.legislation.gov.uk/ukpga/1975/7/section/52), [59(5)](https://www.legislation.gov.uk/ukpga/1975/7/section/59/5), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I)
 
@@ -296,7 +296,7 @@ This Act may be cited as the Debts (Deceased Servicemen etc) Act 1893.
 
 [^c575991]: Modification: S. 10(2) extended by [Royal Patriotic Fund Corporation Act 1950 (c. 10)](https://www.legislation.gov.uk/ukpga/1950/10), [s. 1](https://www.legislation.gov.uk/ukpga/1950/10/section/1)
 
-[^key-e951da91c73664c353a81765de529ad1]: Textual amendment: Words in s. 10(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 6](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/6); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-e951da91c73664c353a81765de529ad1]: Textual amendment: Words in s. 10(2) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 6](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/6); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c575992]: Modification: A dagger appended to a marginal note means that it is no longer accurate
 
@@ -310,15 +310,15 @@ This Act may be cited as the Debts (Deceased Servicemen etc) Act 1893.
 
 [^c575997]: Modification: S. 21 amended by [Regimental Debts (Deposit of Wills) (Scotland) Act 1919 (c. 89)](https://www.legislation.gov.uk/ukpga/1919/89)
 
-[^key-0cb980e60174b8786dafeb1a022636dc]: Modification: S. 23 modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/1/2)
+[^c-0cb980e60174b8786dafeb1a022636dc]: Modification: S. 23 modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/1/2)
 
 [^c575998]: Textual amendment: Words substituted by [Criminal Law Act 1967 (c. 58)](https://www.legislation.gov.uk/ukpga/1967/58), [s. 11(2)](https://www.legislation.gov.uk/ukpga/1967/58/section/11/2)(*b*), Sch. 2 para. 10
 
-[^key-06a7584979f5ca87f96d553150ca97d2]: Textual amendment: Words in s. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/7), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-06a7584979f5ca87f96d553150ca97d2]: Textual amendment: Words in s. 23 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/7), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c575999]: Textual amendment: Words repealed by [Revision of the Army and Air Force Acts (Transitional Provisions) Act 1955 (c. 20)](https://www.legislation.gov.uk/ukpga/1955/20), [Sch. 4](https://www.legislation.gov.uk/ukpga/1955/20/schedule/4)
 
-[^key-3e66b7036d7358feb1d88abaff42f89d]: Textual amendment: Words in s. 24(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/7); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-3e66b7036d7358feb1d88abaff42f89d]: Textual amendment: Words in s. 24(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(8)(a)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/8/a), [Sch. 26 para. 7](https://www.legislation.gov.uk/ukpga/2004/33/schedule/26/paragraph/7); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c576001]: Textual amendment: Ss. 25—27 repealed by [Statute Law Revision Act 1966 (c. 5)](https://www.legislation.gov.uk/ukpga/1966/5), [s. 28](https://www.legislation.gov.uk/ukpga/1966/5/section/28)
 
@@ -330,16 +330,16 @@ This Act may be cited as the Debts (Deceased Servicemen etc) Act 1893.
 
 [^c576007]: Textual amendment: Definition added by [Revision of the Army and Air Force Acts (Transitional Provisions) Act 1955 (c. 20)](https://www.legislation.gov.uk/ukpga/1955/20) , [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1955/20/schedule/2/paragraph/3)
 
-[^key-3ab4333405faeb2d428a3979808e9ec3]: Textual amendment: Words in s. 29 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 8(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/8/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3ab4333405faeb2d428a3979808e9ec3]: Textual amendment: Words in s. 29 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 8(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/8/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-c798998a4f1f638788764c5abfca77e0]: Textual amendment: Words in s. 29 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 8(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/8/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c798998a4f1f638788764c5abfca77e0]: Textual amendment: Words in s. 29 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 8(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/8/b); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ceb8a2301fd2023ee8716a719f663ccf]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/29A) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/9); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ceb8a2301fd2023ee8716a719f663ccf]: Textual amendment: [S. 29A](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/29A) inserted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 9](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/9); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-81f492f5bfe80887d7e47a6fb90a327c]: Modification: [S. 29A(1)](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/29A/1) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/1/3)
+[^c-81f492f5bfe80887d7e47a6fb90a327c]: Modification: [S. 29A(1)](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/29A/1) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/1/3)
 
 [^c576010]: Marginal citation: [1890 c. 37](https://www.legislation.gov.uk/ukpga/1890/37).
 
 [^c576011]: Textual amendment: Ss. 31, 32 repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
-[^key-b36a79743a75e5557d8866dece08ce4a]: Textual amendment: Words in [s. 33](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/33) substituted (28.3.2009 for specified purposes, 6.5.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/10); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/1167/article/3/b)
+[^c-b36a79743a75e5557d8866dece08ce4a]: Textual amendment: Words in [s. 33](https://www.legislation.gov.uk/ukpga/Vict/56-57/5/section/33) substituted (28.3.2009 for specified purposes, 6.5.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/10); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 3(b)](https://www.legislation.gov.uk/uksi/2009/1167/article/3/b)

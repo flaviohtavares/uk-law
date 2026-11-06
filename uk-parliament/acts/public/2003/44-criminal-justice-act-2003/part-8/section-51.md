@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Directions for live links in criminal proceedings[^key-fae1fa6d7423b08d004f05a23a4d9d7d]
+## 51. Directions for live links in criminal proceedings[^c-fae1fa6d7423b08d004f05a23a4d9d7d]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fae1fa6d7423b08d004f05a23a4d9d7d]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2003/44/section/51) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 200(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/200/1), [208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-fae1fa6d7423b08d004f05a23a4d9d7d]: Textual amendment: [S. 51](https://www.legislation.gov.uk/ukpga/2003/44/section/51) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 200(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/200/1), [208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)

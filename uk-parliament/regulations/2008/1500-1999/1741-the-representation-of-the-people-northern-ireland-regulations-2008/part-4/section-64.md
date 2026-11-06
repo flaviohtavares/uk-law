@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Cancellation of proxy appointment[^key-a7e8ea566fd5928670cd68eec2031cdc]
+## 64. Cancellation of proxy appointment[^c-a7e8ea566fd5928670cd68eec2031cdc]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 ## Annotations
 
-[^key-a7e8ea566fd5928670cd68eec2031cdc]: Modification: [Reg. 64](https://www.legislation.gov.uk/uksi/2008/1741/regulation/64) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 79](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/79)
+[^c-a7e8ea566fd5928670cd68eec2031cdc]: Modification: [Reg. 64](https://www.legislation.gov.uk/uksi/2008/1741/regulation/64) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 79](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/79)
 
 [^f00054]: Footnote: Section 8(9) was substituted by Schedule 6 to the [2000 Act (c.2)](https://www.legislation.gov.uk/ukpga/2000/2).

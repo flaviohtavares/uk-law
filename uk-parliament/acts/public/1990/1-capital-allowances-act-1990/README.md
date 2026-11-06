@@ -31,17 +31,17 @@ Capital Allowances Act 1990 (repealed)
 
 1990 c. 1
 
-[^key-b41f4deb8b67754201c4e06da34c3a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b41f4deb8b67754201c4e06da34c3a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Industrial Buildings and Structures[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part I — Industrial Buildings and Structures[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter I — Initial Allowances[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter I — Initial Allowances[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 2 — Transitional relief for regional projects.](part-i/section-2.md)
 - [Section 2A — Initial allowances: contracts entered into between October 1992 and November 1993.](part-i/section-2a.md)
 
-#### Chapter II — Writing-down Allowances, Balancing Allowances and Balancing Charges[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter II — Writing-down Allowances, Balancing Allowances and Balancing Charges[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 6 — Buildings and structures (including hotels) in enterprise zones.](part-i/section-6.md)
 - [Section 7 — Other hotels.](part-i/section-7.md)
 
-#### Chapter III — Provisions Supplementary to Chapters I and II[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter III — Provisions Supplementary to Chapters I and II[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,13 +92,13 @@ Capital Allowances Act 1990 (repealed)
 - [Section 20 — Meaning of “the relevant interest".](part-i/section-20.md)
 - [Section 21 — Other interpretation of Part I.](part-i/section-21.md)
 
-### Part II — Machinery and Plant[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part II — Machinery and Plant[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter I — Allowances and Charges: General Provisions[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter I — Allowances and Charges: General Provisions[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -118,7 +118,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 28A — Schedule A cases.](part-ii/section-28a.md)
 - [Section 29 — Furnished holiday lettings.](part-ii/section-29.md)
 
-#### Chapter II — Ships[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter II — Ships[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -129,7 +129,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 32 — Ships not used in the actual trade.](part-ii/section-32.md)
 - [Section 33 — Exclusion of section 31.](part-ii/section-33.md)
 
-##### Balancing charges in respect of ship disposals et ceteralaetc.[^key-b41f4deb8b67754201c4e06da34c3a18]
+##### Balancing charges in respect of ship disposals et ceteralaetc.[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -142,7 +142,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 33E — Qualifying ships.](part-ii/section-33e.md)
 - [Section 33F — Procedural provisions relating to deferred charges.](part-ii/section-33f.md)
 
-#### Chapter III — Expensive Motor Cars[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter III — Expensive Motor Cars[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -150,20 +150,20 @@ Capital Allowances Act 1990 (repealed)
 - [Section 35 — Contributions to expenditure, and hiring of cars.](part-ii/section-35.md)
 - [Section 36 — Definition of “motor car", etc.](part-ii/section-36.md)
 
-#### Chapter IV — Short-Life Assets[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter IV — Short-Life Assets[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
 - [Section 37 — Election for certain machinery or plant to be treated as short-life assets.](part-ii/section-37.md)
 - [Section 38 — Assets which cannot be treated as short-life assets.](part-ii/section-38.md)
 
-#### Chapter IVA — Long-life assets[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter IVA — Long-life assets[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Expenditure to which Chapter applies[^key-b41f4deb8b67754201c4e06da34c3a18]
+##### Expenditure to which Chapter applies[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -172,7 +172,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 38C — Exclusion of Chapter where limit for individuals and partnerships not exceeded.](part-ii/section-38c.md)
 - [Section 38D — Exclusion of Chapter where company’s limit not exceeded.](part-ii/section-38d.md)
 
-##### Rules applying to expenditure on long-life assets[^key-b41f4deb8b67754201c4e06da34c3a18]
+##### Rules applying to expenditure on long-life assets[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -180,13 +180,13 @@ Capital Allowances Act 1990 (repealed)
 - [Section 38F — Modifications applying to pools for long-life assets.](part-ii/section-38f.md)
 - [Section 38G — Disposal value of long-life assets.](part-ii/section-38g.md)
 
-##### Transitional provisions[^key-b41f4deb8b67754201c4e06da34c3a18]
+##### Transitional provisions[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
 - [Section 38H — Transitional provisions.](part-ii/section-38h.md)
 
-#### Chapter V — Leased Assets and Inexpensive Cars[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter V — Leased Assets and Inexpensive Cars[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -203,7 +203,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 49 — Information relating to allowances made in respect of old expenditure.](part-ii/section-49.md)
 - [Section 50 — Interpretation of Chapter V.](part-ii/section-50.md)
 
-#### Chapter VI — Fixtures[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter VI — Fixtures[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -226,7 +226,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 59B — Election to use alternative apportionment.](part-ii/section-59b.md)
 - [Section 59C — Elections under section 59B: supplemental.](part-ii/section-59c.md)
 
-#### Chapter VII — Miscellaneous Expenditure[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter VII — Miscellaneous Expenditure[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -254,7 +254,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 71 — Security.](part-ii/section-71.md)
 - [Section 72 — Security: supplementary.](part-ii/section-72.md)
 
-#### Chapter VIII — Supplementary Provisions[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter VIII — Supplementary Provisions[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -276,7 +276,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 82A — Meaning of “finance lease”.](part-ii/section-82a.md)
 - [Section 83 — Other interpretative provisions.](part-ii/section-83.md)
 
-### Part III — Dwelling-houses Let on Assured Tenancies[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part III — Dwelling-houses Let on Assured Tenancies[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -295,13 +295,13 @@ Capital Allowances Act 1990 (repealed)
 - [Section 96 — The appropriate capital expenditure.](part-iii/section-96.md)
 - [Section 97 — Interpretation.](part-iii/section-97.md)
 
-### Part IV — Mineral Extraction[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part IV — Mineral Extraction[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter I — Allowances and Charges[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter I — Allowances and Charges[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -313,7 +313,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 103 — Demolition costs.](part-iv/section-103.md)
 - [Section 104 — Manner of making allowances and charges.](part-iv/section-104.md)
 
-#### Chapter II — Qualifying Expenditure[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter II — Qualifying Expenditure[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -323,7 +323,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 108 — Contributions by mining concerns to public services etc. outside the United Kingdom.](part-iv/section-108.md)
 - [Section 109 — Restoration expenditure.](part-iv/section-109.md)
 
-#### Chapter III — Limitations on Qualifying Expenditure etc.[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter III — Limitations on Qualifying Expenditure etc.[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -338,7 +338,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 118 — Assets formerly owned by non-traders.](part-iv/section-118.md)
 - [Section 118A — Disposals of oil licences relating to undeveloped areas.](part-iv/section-118a.md)
 
-#### Chapter IV — Supplementary Provisions[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter IV — Supplementary Provisions[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -346,13 +346,13 @@ Capital Allowances Act 1990 (repealed)
 - [Section 120 — Time when expenditure is incurred.](part-iv/section-120.md)
 - [Section 121 — Interpretation of Part IV.](part-iv/section-121.md)
 
-### Part V — Agricultural Buildings etc.[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part V — Agricultural Buildings etc.[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Chapter I — Agriculture[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter I — Agriculture[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -371,27 +371,27 @@ Capital Allowances Act 1990 (repealed)
 - [Section 129 — Balancing events.](part-v/section-129.md)
 - [Section 130 — Restriction of balancing allowances on sale of buildings.](part-v/section-130.md)
 
-#### Chapter II — Forestry[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter II — Forestry[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
 - [Section 131 — Forestry: transitional provisions.](part-v/section-131.md)
 
-#### Chapter III — Supplemental[^key-b41f4deb8b67754201c4e06da34c3a18]
+#### Chapter III — Supplemental[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
 - [Section 132 — Manner of making allowances and charges.](part-v/section-132.md)
 - [Section 133 — Interpretation of Part V.](part-v/section-133.md)
 
-### Part VI — Dredging[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part VI — Dredging[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
 - [Section 134 — Allowances for expenditure on dredging.](part-vi/section-134.md)
 - [Section 135 — Interpretation of Part VI.](part-vi/section-135.md)
 
-### Part VII — Scientific Research[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part VII — Scientific Research[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 **No longer in force.**
 
@@ -402,7 +402,7 @@ Capital Allowances Act 1990 (repealed)
 - [Section 138B — Disposal of oil licences: election for alternative tax treatment.](part-vii/section-138b.md)
 - [Section 139 — Supplemental.](part-vii/section-139.md)
 
-### Part VIII — Supplementary Provisions[^key-b41f4deb8b67754201c4e06da34c3a18]
+### Part VIII — Supplementary Provisions[^c-b41f4deb8b67754201c4e06da34c3a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -443,7 +443,7 @@ Capital Allowances Act 1990 (repealed)
 
 **No longer in force.**
 
-[^key-b41f4deb8b67754201c4e06da34c3a18] SCHEDULES
+[^c-b41f4deb8b67754201c4e06da34c3a18] SCHEDULES
 
 - [SCHEDULE AA1](schedule-aa1.md)
 - [SCHEDULE A1](schedule-a1.md)
@@ -453,4 +453,4 @@ Capital Allowances Act 1990 (repealed)
 
 ## Annotations
 
-[^key-b41f4deb8b67754201c4e06da34c3a18]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1990/1) repealed (1.4.2001 for corporation tax purposes and 6.4.2001 for income tax purposes) by [Capital Allowances Act 2001 (c. 2)](https://www.legislation.gov.uk/ukpga/2001/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2001/2/schedule/3/part/1))
+[^c-b41f4deb8b67754201c4e06da34c3a18]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1990/1) repealed (1.4.2001 for corporation tax purposes and 6.4.2001 for income tax purposes) by [Capital Allowances Act 2001 (c. 2)](https://www.legislation.gov.uk/ukpga/2001/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2001/2/schedule/3/part/1))

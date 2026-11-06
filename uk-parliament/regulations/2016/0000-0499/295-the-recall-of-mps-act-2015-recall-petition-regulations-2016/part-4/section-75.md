@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Appeals: Scotland[^key-45d2d406479bfa23e5c25ad4bf66751d]
+## 75. Appeals: Scotland[^c-45d2d406479bfa23e5c25ad4bf66751d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45d2d406479bfa23e5c25ad4bf66751d]: Commencement: Reg. 75 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-45d2d406479bfa23e5c25ad4bf66751d]: Commencement: Reg. 75 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

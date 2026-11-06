@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. General powers of inspectors to take action to prevent the spread of disease[^key-d91b4dec74e77e6509c9c37fac261281]
+## 56. General powers of inspectors to take action to prevent the spread of disease[^c-d91b4dec74e77e6509c9c37fac261281]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d91b4dec74e77e6509c9c37fac261281]: Commencement: Reg. 56 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-d91b4dec74e77e6509c9c37fac261281]: Commencement: Reg. 56 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

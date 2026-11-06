@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Removal of human remains[^key-0af2a5721430c19964fc592bd4361cd3]
+## 17. Removal of human remains[^c-0af2a5721430c19964fc592bd4361cd3]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ subject to paragraph (10), the undertaker must remove the remains and cause them
 
 ## Annotations
 
-[^key-0af2a5721430c19964fc592bd4361cd3]: Commencement: Art. 17 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-0af2a5721430c19964fc592bd4361cd3]: Commencement: Art. 17 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
 
 [^f00037]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81)

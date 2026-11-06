@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2014 (revoked)[^key-307a35dc3fc5970e0ad351c7b614f648]
+The Local Authority (Duty to Secure Early Years Provision Free of Charge) (Amendment) Regulations 2014 (revoked)[^c-307a35dc3fc5970e0ad351c7b614f648]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st September 2014
 
-[^key-307a35dc3fc5970e0ad351c7b614f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-307a35dc3fc5970e0ad351c7b614f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-307a35dc3fc5970e0ad351c7b614f648]
+## 1. Citation and commencement[^c-307a35dc3fc5970e0ad351c7b614f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2013[^key-307a35dc3fc5970e0ad351c7b614f648]
+## 2. Amendments to the Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2013[^c-307a35dc3fc5970e0ad351c7b614f648]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-307a35dc3fc5970e0ad351c7b614f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-307a35dc3fc5970e0ad351c7b614f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-307a35dc3fc5970e0ad351c7b614f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-307a35dc3fc5970e0ad351c7b614f648]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-307a35dc3fc5970e0ad351c7b614f648]: Textual amendment: Regulations revoked (8.9.2014) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014 (S.I. 2014/2147)](https://www.legislation.gov.uk/uksi/2014/2147), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/9/b)
+[^c-307a35dc3fc5970e0ad351c7b614f648]: Textual amendment: Regulations revoked (8.9.2014) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) Regulations 2014 (S.I. 2014/2147)](https://www.legislation.gov.uk/uksi/2014/2147), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2014/2147/regulation/9/b)

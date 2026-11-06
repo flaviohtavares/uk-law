@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Procedure of appeals[^key-48424f561c9a6feda49dfc40c53fb8fb]
+## 84. Procedure of appeals[^c-48424f561c9a6feda49dfc40c53fb8fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48424f561c9a6feda49dfc40c53fb8fb]: Commencement: Reg. 84 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-48424f561c9a6feda49dfc40c53fb8fb]: Commencement: Reg. 84 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

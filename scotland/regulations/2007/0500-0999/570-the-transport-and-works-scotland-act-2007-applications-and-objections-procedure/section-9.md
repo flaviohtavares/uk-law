@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Environmental impact assessment report[^key-3312891d50b4ef379b4d1f7151756c6e]
+## 9. Environmental impact assessment report[^c-3312891d50b4ef379b4d1f7151756c6e]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (3) Where a scoping opinion has been issued, the EIA report must be based on that scoping opinion and must include the information that may reasonably be required for reaching a reasoned conclusion on the significant effects of the works on the environment, taking into account current knowledge and methods of assessment.
 
-(4) With a view to avoiding duplication of assessments, account is to be taken of the available results of other relevant assessments under [^key-e5b34b8690f1b41769e8e7cc3f2ae46d]... national legislation in preparing the EIA report.
+(4) With a view to avoiding duplication of assessments, account is to be taken of the available results of other relevant assessments under [^c-e5b34b8690f1b41769e8e7cc3f2ae46d]... national legislation in preparing the EIA report.
 
 (5) In order to ensure the completeness and quality of the EIA report—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3312891d50b4ef379b4d1f7151756c6e]: Textual amendment: Rule 9 substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [9](https://www.legislation.gov.uk/ssi/2017/74/rule/9) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-3312891d50b4ef379b4d1f7151756c6e]: Textual amendment: Rule 9 substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [9](https://www.legislation.gov.uk/ssi/2017/74/rule/9) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
 
-[^key-e5b34b8690f1b41769e8e7cc3f2ae46d]: Textual amendment: Words in [rule 9(4)](https://www.legislation.gov.uk/ssi/2007/570/rule/9/4) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5b34b8690f1b41769e8e7cc3f2ae46d]: Textual amendment: Words in [rule 9(4)](https://www.legislation.gov.uk/ssi/2007/570/rule/9/4) omitted (31.12.2020) by virtue of [The Environmental Impact Assessment (Transport) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/415)](https://www.legislation.gov.uk/ssi/2019/415), [regs. 1](https://www.legislation.gov.uk/ssi/2019/415/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2019/415/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

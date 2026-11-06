@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 55(2)(f), and 333(2A) and (7) of the Town and Country Planning Act 1990 [^c24240681], (“**the 1990 Act**”) makes the following Regulations.
 
-## 1. Citation, application, commencement and interpretation[^key-d5db573dc51bdb99d1bd1d9658d1b4fd]
+## 1. Citation, application, commencement and interpretation[^c-d5db573dc51bdb99d1bd1d9658d1b4fd]
 
 (1) These Regulations may be cited as the Town and Country Planning (Use Classes) (Amendment) (England) Regulations 2020 and come into force on 1st September 2020.
 
@@ -56,22 +56,22 @@ The Secretary of State, in exercise of the powers conferred by sections 55(2)(f)
 
 - “**the Use Classes Order**” means the Town and Country Planning (Use Classes) Order 1987 [^c24240691],
 - “**the GPDO**” means the Town and Country Planning (General Permitted Development) (England) Order 2015 [^c24240701],
-- “the CIL Regulations” means the Community Infrastructure Levy Regulations 2010[^key-2f9c1afdcaef372accddac0b91f050e9],
+- “the CIL Regulations” means the Community Infrastructure Levy Regulations 2010[^c-2f9c1afdcaef372accddac0b91f050e9],
 - “**the material period**” means the period beginning with 1st September 2020 and ending with 31st July 2021, and
 - “**a relevant planning application**” means an application for—
   - (a) planning permission or permission in principle, or
   - (b) approval of a matter reserved under an outline planning permission within the meaning of section 92 of the 1990 Act.
 
-## 2. Revocation, transitional, savings and consequential provision[^key-d13b6e976f6dbff591ea214fb4add1a5]
+## 2. Revocation, transitional, savings and consequential provision[^c-d13b6e976f6dbff591ea214fb4add1a5]
 
 In relation to England—
 
 - (a) Parts A and D of the Schedule to the Use Classes Order are revoked, and
 - (b) Part B of that Schedule is modified by regulation 10(3),
 
-save to the extent required to give effect to regulations 3, 4 and 4A[^key-49b4b50313be53f300b8f64c542b5b1d].
+save to the extent required to give effect to regulations 3, 4 and 4A[^c-49b4b50313be53f300b8f64c542b5b1d].
 
-## 3.[^key-dfd66b78db87907dc4ce7ace6136f5c2]
+## 3.[^c-dfd66b78db87907dc4ce7ace6136f5c2]
 
 (1) Paragraphs (2) and (3) apply during the material period.
 
@@ -86,11 +86,11 @@ any references to uses or use classes specified in the Schedule to the Use Class
 
 (4) If prior to commencement of the material period, the Secretary of State or the local authority made a direction under article 4(1) of the GPDO which referred to uses or use classes which applied in relation to England and were specified in the Schedule to the Use Classes Order on 31st August 2020, those references are to continue to be read as references to those uses or use classes.
 
-## 4.[^key-3e24c77d432bb8898541d00f95e1bc67]
+## 4.[^c-3e24c77d432bb8898541d00f95e1bc67]
 
 If prior to the commencement of the material period, a relevant planning application was submitted, or was deemed to be submitted, to the local planning authority which referred to uses or use classes which applied in relation to England and were specified in the Schedule to the Use Classes Order on 31st August 2020, that application must be determined by reference to those uses or use classes.
 
-## 4A.[^M_I_1b1d8004-3593-48b8-8fc8-035d26e4999f][^key-45ffc31343136bef4f826906012022cc]
+## 4A.[^M_I_1b1d8004-3593-48b8-8fc8-035d26e4999f][^c-45ffc31343136bef4f826906012022cc]
 
 (1) If prior to the commencement of the material period, a charging authority published a charging schedule under regulation 25 of the CIL Regulations that—
 
@@ -101,7 +101,7 @@ those references to use classes are to be read as if they were references to the
 
 (2) In this regulation “charging authority” and “charging schedule” have the same meaning as in the CIL Regulations.
 
-## 5.[^key-3f3bf5f5d7cea18c0b0550ec11cefdff]
+## 5.[^c-3f3bf5f5d7cea18c0b0550ec11cefdff]
 
 In—
 
@@ -111,7 +111,7 @@ In—
 
 any references to the uses or use classes specified in the Schedule to the Use Classes Order are to be read as if those references were to the uses or use classes which applied in relation to England and were specified in the Schedule to the Use Classes Order on 31st August 2020.
 
-## 6.[^key-8435fd99f26009adca8b71ddcfe71d62]
+## 6.[^c-8435fd99f26009adca8b71ddcfe71d62]
 
 In the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012 [^c24240741], in regulation 6, for sub-paragraph (a) substitute—
 
@@ -121,7 +121,7 @@ In the Town and Country Planning (Fees for Applications, Deemed Applications, Re
 
 .
 
-## 7.[^key-73a5499f9bc98738c1a0dd8ad88dc3f6]
+## 7.[^c-73a5499f9bc98738c1a0dd8ad88dc3f6]
 
 For the purposes of the Use Classes Order, if a building or other land is situated in England, and is being used for the purpose of one of the following classes which were specified in Part A or B of the Schedule to that Order on 31st August 2020, as—
 
@@ -132,15 +132,15 @@ For the purposes of the Use Classes Order, if a building or other land is situat
 
 that building or other land is to be treated, on or after 1st September 2020, as if it is being used for a purpose specified within Class E (Commercial, business and service) in Schedule 2 to that Order.
 
-## 8. Amendments to the Use Classes Order[^key-af1aff1c593173272f6fa5f4d5fb529c]
+## 8. Amendments to the Use Classes Order[^c-af1aff1c593173272f6fa5f4d5fb529c]
 
 The Use Classes Order is amended in accordance with regulations 9 to 13.
 
-## 9.[^key-7f3f2c6c21f21cec172a380d8253e3e9]
+## 9.[^c-7f3f2c6c21f21cec172a380d8253e3e9]
 
 In article 2 (Interpretation) omit the definition for “Schedule”.
 
-## 10.[^key-93c67d89b93140838f43679404621960]
+## 10.[^c-93c67d89b93140838f43679404621960]
 
 (1) In article 3 (Use Classes)—
 
@@ -205,15 +205,15 @@ In article 2 (Interpretation) omit the definition for “Schedule”.
 
 (8) In paragraph (6A) in the definition for “pay day loan shop”, in sub-paragraph (b), for “the Schedule” substitute “ Schedule 1 or Class E (Commercial, Business and Service) of Schedule 2 ”.
 
-## 11.[^key-e52b5a4597a44a35162ae7699df53e65]
+## 11.[^c-e52b5a4597a44a35162ae7699df53e65]
 
 In article 4 for “the Schedule” substitute “ Schedule 1 ”.
 
-## 12.[^key-4b1402991d17afdde8234494b4b5186a]
+## 12.[^c-4b1402991d17afdde8234494b4b5186a]
 
 In the Schedule, for the heading, substitute “ Schedule 1 ”.
 
-## 13.[^key-ff049833e3437e59f24a6452a7085da3]
+## 13.[^c-ff049833e3437e59f24a6452a7085da3]
 
 After Schedule 1 insert—
 
@@ -262,7 +262,7 @@ After Schedule 1 insert—
 > Use as—
 >
 > - (a) a shop mostly selling essential goods, including food, to visiting members of the public in circumstances where—
->   - (i) the shop's premises cover an area not more than 280 square metres[^key-a0c07b6654c1b8a7f06d4e1963d206cb], and
+>   - (i) the shop's premises cover an area not more than 280 square metres[^c-a0c07b6654c1b8a7f06d4e1963d206cb], and
 >   - (ii) there is no other such facility within 1000 metre radius of the shop's location,
 > - (b) a hall or meeting place for the principal use of the local community,
 > - (c) an area or place for outdoor sport or recreation, not involving motorised vehicles or firearms,
@@ -298,27 +298,27 @@ An assessment of impact is being published alongside this instrument at www.legi
 
 [^c24240681]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8). Section 333(2A) of the Town and Country Planning Act 1990 was inserted by the [Planning and Compulsory Purchase Act 2004 (c.5)](https://www.legislation.gov.uk/ukpga/2004/5), [section 118(1)](https://www.legislation.gov.uk/ukpga/2004/5/section/118/1), and paragraphs 1 and 14 of Schedule 6 to that Act. There are other amendments to the 1990 Act not relevant to this Order.
 
-[^key-d5db573dc51bdb99d1bd1d9658d1b4fd]: Commencement: Reg. 1 in force at 1.9.2020, see reg. 1(1)
+[^c-d5db573dc51bdb99d1bd1d9658d1b4fd]: Commencement: Reg. 1 in force at 1.9.2020, see reg. 1(1)
 
 [^c24240691]: Marginal citation: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764); relevant amending instruments are [S.I. 1991/1567](https://www.legislation.gov.uk/uksi/1991/1567), 1992/657, 1993/610, 1994/724, 1995/297, 2005/84, 2006/220, 2006/1282, 2010/653, 2011/988, 2015/597.
 
 [^c24240701]: Marginal citation: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596). There are amendments not relevant to this instrument.
 
-[^key-2f9c1afdcaef372accddac0b91f050e9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/757/regulation/1/3) inserted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/859)](https://www.legislation.gov.uk/uksi/2020/859), [regs. 1](https://www.legislation.gov.uk/uksi/2020/859/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/859/regulation/2/2)
+[^c-2f9c1afdcaef372accddac0b91f050e9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/757/regulation/1/3) inserted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/859)](https://www.legislation.gov.uk/uksi/2020/859), [regs. 1](https://www.legislation.gov.uk/uksi/2020/859/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/859/regulation/2/2)
 
-[^key-d13b6e976f6dbff591ea214fb4add1a5]: Commencement: Reg. 2 in force at 1.9.2020, see reg. 1(1)
+[^c-d13b6e976f6dbff591ea214fb4add1a5]: Commencement: Reg. 2 in force at 1.9.2020, see reg. 1(1)
 
-[^key-49b4b50313be53f300b8f64c542b5b1d]: Textual amendment: Words in reg. 2 substituted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/859)](https://www.legislation.gov.uk/uksi/2020/859), [regs. 1](https://www.legislation.gov.uk/uksi/2020/859/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/859/regulation/2/3)
+[^c-49b4b50313be53f300b8f64c542b5b1d]: Textual amendment: Words in reg. 2 substituted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/859)](https://www.legislation.gov.uk/uksi/2020/859), [regs. 1](https://www.legislation.gov.uk/uksi/2020/859/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/859/regulation/2/3)
 
-[^key-dfd66b78db87907dc4ce7ace6136f5c2]: Commencement: Reg. 3 in force at 1.9.2020, see reg. 1(1)
+[^c-dfd66b78db87907dc4ce7ace6136f5c2]: Commencement: Reg. 3 in force at 1.9.2020, see reg. 1(1)
 
-[^key-3e24c77d432bb8898541d00f95e1bc67]: Commencement: Reg. 4 in force at 1.9.2020, see reg. 1(1)
+[^c-3e24c77d432bb8898541d00f95e1bc67]: Commencement: Reg. 4 in force at 1.9.2020, see reg. 1(1)
 
 [^M_I_1b1d8004-3593-48b8-8fc8-035d26e4999f]: Commencement: Reg. 4A in force at 1.9.2020, see reg. 1(1)
 
-[^key-45ffc31343136bef4f826906012022cc]: Textual amendment: Reg. 4A inserted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/859)](https://www.legislation.gov.uk/uksi/2020/859), [regs. 1](https://www.legislation.gov.uk/uksi/2020/859/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/859/regulation/2/4)
+[^c-45ffc31343136bef4f826906012022cc]: Textual amendment: Reg. 4A inserted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 2) Regulations 2020 (S.I. 2020/859)](https://www.legislation.gov.uk/uksi/2020/859), [regs. 1](https://www.legislation.gov.uk/uksi/2020/859/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/859/regulation/2/4)
 
-[^key-3f3bf5f5d7cea18c0b0550ec11cefdff]: Commencement: Reg. 5 in force at 1.9.2020, see reg. 1(1)
+[^c-3f3bf5f5d7cea18c0b0550ec11cefdff]: Commencement: Reg. 5 in force at 1.9.2020, see reg. 1(1)
 
 [^c24240711]: Marginal citation: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595). There are amendments not relevant to this instrument.
 
@@ -326,22 +326,22 @@ An assessment of impact is being published alongside this instrument at www.legi
 
 [^c24240731]: Marginal citation: [S.I. 2008/580](https://www.legislation.gov.uk/uksi/2008/580). There are amendments not relevant to this instrument.
 
-[^key-8435fd99f26009adca8b71ddcfe71d62]: Commencement: Reg. 6 in force at 1.9.2020, see reg. 1(1)
+[^c-8435fd99f26009adca8b71ddcfe71d62]: Commencement: Reg. 6 in force at 1.9.2020, see reg. 1(1)
 
 [^c24240741]: Marginal citation: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920). There are amendments not relevant to this instrument.
 
-[^key-73a5499f9bc98738c1a0dd8ad88dc3f6]: Commencement: Reg. 7 in force at 1.9.2020, see reg. 1(1)
+[^c-73a5499f9bc98738c1a0dd8ad88dc3f6]: Commencement: Reg. 7 in force at 1.9.2020, see reg. 1(1)
 
-[^key-af1aff1c593173272f6fa5f4d5fb529c]: Commencement: Reg. 8 in force at 1.9.2020, see reg. 1(1)
+[^c-af1aff1c593173272f6fa5f4d5fb529c]: Commencement: Reg. 8 in force at 1.9.2020, see reg. 1(1)
 
-[^key-7f3f2c6c21f21cec172a380d8253e3e9]: Commencement: Reg. 9 in force at 1.9.2020, see reg. 1(1)
+[^c-7f3f2c6c21f21cec172a380d8253e3e9]: Commencement: Reg. 9 in force at 1.9.2020, see reg. 1(1)
 
-[^key-93c67d89b93140838f43679404621960]: Commencement: Reg. 10 in force at 1.9.2020, see reg. 1(1)
+[^c-93c67d89b93140838f43679404621960]: Commencement: Reg. 10 in force at 1.9.2020, see reg. 1(1)
 
-[^key-e52b5a4597a44a35162ae7699df53e65]: Commencement: Reg. 11 in force at 1.9.2020, see reg. 1(1)
+[^c-e52b5a4597a44a35162ae7699df53e65]: Commencement: Reg. 11 in force at 1.9.2020, see reg. 1(1)
 
-[^key-4b1402991d17afdde8234494b4b5186a]: Commencement: Reg. 12 in force at 1.9.2020, see reg. 1(1)
+[^c-4b1402991d17afdde8234494b4b5186a]: Commencement: Reg. 12 in force at 1.9.2020, see reg. 1(1)
 
-[^key-ff049833e3437e59f24a6452a7085da3]: Commencement: Reg. 13 in force at 1.9.2020, see reg. 1(1)
+[^c-ff049833e3437e59f24a6452a7085da3]: Commencement: Reg. 13 in force at 1.9.2020, see reg. 1(1)
 
-[^key-a0c07b6654c1b8a7f06d4e1963d206cb]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2020/757/regulation/13) substituted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 3) Regulations 2020 (S.I. 2020/895)](https://www.legislation.gov.uk/uksi/2020/895), [regs. 1](https://www.legislation.gov.uk/uksi/2020/895/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/895/regulation/2/2)
+[^c-a0c07b6654c1b8a7f06d4e1963d206cb]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2020/757/regulation/13) substituted (immediately before 1.9.2020) by [The Town and Country Planning (Use Classes) (Amendment) (England) (No. 3) Regulations 2020 (S.I. 2020/895)](https://www.legislation.gov.uk/uksi/2020/895), [regs. 1](https://www.legislation.gov.uk/uksi/2020/895/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/895/regulation/2/2)

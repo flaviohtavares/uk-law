@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E3. Qualification for retirement benefits[^key-01b7b1001090fc96ed7ea6ad85600844]
+## E3. Qualification for retirement benefits[^c-01b7b1001090fc96ed7ea6ad85600844]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ any qualifying period of 2 years is an appropriate one.
 
 ## Annotations
 
-[^key-01b7b1001090fc96ed7ea6ad85600844]: Commencement: Reg. E3 in operation at 2.11.1998, see reg. A1
+[^c-01b7b1001090fc96ed7ea6ad85600844]: Commencement: Reg. E3 in operation at 2.11.1998, see reg. A1

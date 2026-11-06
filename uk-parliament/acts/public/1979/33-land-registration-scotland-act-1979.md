@@ -35,61 +35,61 @@ An Act to provide a system of registration of interests in land in Scotland in p
 
 ## Part I — Registration of Interests in Land
 
-### 1. The Land Register of Scotland.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 1. The Land Register of Scotland.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Registration.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 2. Registration.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Effect of registration.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 3. Effect of registration.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Applications for registration.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 4. Applications for registration.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Completion of registration.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 5. Completion of registration.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. The title sheet.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 6. The title sheet.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Ranking.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 7. Ranking.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Continuing effectiveness of recording in Register of Sasines.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 8. Continuing effectiveness of recording in Register of Sasines.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Rectification of the register.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 9. Rectification of the register.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Positive prescription in respect of registered interests in land.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 10. Positive prescription in respect of registered interests in land.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Transitional provisions for Part I.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 11. Transitional provisions for Part I.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part II — Indemnity in Respect of Registered Interests in Land
 
-### 12. Indemnity in respect of loss.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 12. Indemnity in respect of loss.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Provisions supplementary to section 12.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 13. Provisions supplementary to section 12.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. The foreshore.[^key-7a400fbbf9900f8d749f7b82a311ccdd]
+### 14. The foreshore.[^c-7a400fbbf9900f8d749f7b82a311ccdd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,20 +97,20 @@ An Act to provide a system of registration of interests in land in Scotland in p
 
 ### 15. Simplification of deeds relating to registered interests.
 
-(1)[^key-1d8da7bc15d152ca004a3f23f840e595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1d8da7bc15d152ca004a3f23f840e595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-1d8da7bc15d152ca004a3f23f840e595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1d8da7bc15d152ca004a3f23f840e595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1d8da7bc15d152ca004a3f23f840e595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1d8da7bc15d152ca004a3f23f840e595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) It shall not be necessary, in connection with any deed relating to a plot of land or lease registered in the Land Register of Scotland[^key-1c4f84a0433ca64059c2a29545e405ea] , to include an assignation of any obligation or right of relief or to narrate the series of writs by which the grantor of the deed became entitled to enforce that obligation or exercise that right if the obligation or right has been entered in the title sheet of the plot or lease[^key-f62c2a950d631c211d2aefd475eba84e] and, accordingly, in such a case—
+(4) It shall not be necessary, in connection with any deed relating to a plot of land or lease registered in the Land Register of Scotland[^c-1c4f84a0433ca64059c2a29545e405ea] , to include an assignation of any obligation or right of relief or to narrate the series of writs by which the grantor of the deed became entitled to enforce that obligation or exercise that right if the obligation or right has been entered in the title sheet of the plot or lease[^c-f62c2a950d631c211d2aefd475eba84e] and, accordingly, in such a case—
 
 - (a) section 50 of and Schedule M to the [^c911307]Conveyancing (Scotland) Act 1874 (form and effect of assigning right of relief or other right affecting land) shall not apply to such a deed; and
 - (b) such a deed shall for all purposes import a valid and complete assignation of that obligation or right.
 
 ### 16. Omission of certain clauses in deeds.
 
-(1)[^c2177869][^c911324][^c911325][^c911323][^c911322][^c911320][^c911321][^c911326][^c2108548][^c2108549][^key-e859719cbe57bfac8a2cace6d48990e9][^key-f6ea5d1d965b8b219919c182ce36d93a][^key-9d7ba8b3b6da07823170e1ced6e79ac5][^key-e1adfa590a31c183ecad6d4fe4a45b03] It shall not be necessary to insert in any deed executed after the commencement of this Act which conveys an interest in land a clause of assignation of writs and any such deed shall, unless specially qualified, import an assignation to the grantee of the title deeds and searches and all deeds not duly recorded, and shall—
+(1)[^c2177869][^c911324][^c911325][^c911323][^c911322][^c911320][^c911321][^c911326][^c2108548][^c2108549][^c-e859719cbe57bfac8a2cace6d48990e9][^c-f6ea5d1d965b8b219919c182ce36d93a][^c-9d7ba8b3b6da07823170e1ced6e79ac5][^c-e1adfa590a31c183ecad6d4fe4a45b03] It shall not be necessary to insert in any deed executed after the commencement of this Act which conveys an interest in land a clause of assignation of writs and any such deed shall, unless specially qualified, import an assignation to the grantee of the title deeds and searches and all deeds not duly recorded, and shall—
 
 - (a) impose on the grantor or any successor an obligation—
   - (i) to deliver to the grantee all title deeds and searches relating exclusively to the interest conveyed;
@@ -118,7 +118,7 @@ An Act to provide a system of registration of interests in land in Scotland in p
 - (b) import an assignation to the grantee by the grantor of his right to require any person having custody thereof to exhibit or deliver any title deeds and searches remaining undelivered; and
 - (c) impose on the grantee or any successor an obligation to make forthcoming on all necessary occasions to any party having an interest therein any deeds and searches which have been delivered to the grantee but which relate partly to interests other than the interest conveyed to the grantee.
 
-(2)[^key-9d7ba8b3b6da07823170e1ced6e79ac5] [^c2118019]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9d7ba8b3b6da07823170e1ced6e79ac5] [^c2118019]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) It shall not be necessary to insert in any deed conveying an interest in land executed after the commencement of this Act a clause of assignation of rents or a clause of obligation of relief, and any such deed so executed shall, unless specially qualified, import—
 
@@ -135,7 +135,7 @@ An Act to provide a system of registration of interests in land in Scotland in p
 
 [^c2108551]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Agreement as to common boundary.[^key-9559cf4b1e835ebd7483965f1fb56e5c]
+### 19. Agreement as to common boundary.[^c-9559cf4b1e835ebd7483965f1fb56e5c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -267,27 +267,27 @@ the tenant-at-will or the landlord or both may apply to the sheriff for an order
 
 (9) The sheriff’s power under subsection (8) above extends to ordering that any award of expenses of the application under this section be paid out of any sums consigned in court under subsection (2) above.
 
-### 23. Fees.[^key-e9bb75ac733a068d5ce70712437c0bcf]
+### 23. Fees.[^c-e9bb75ac733a068d5ce70712437c0bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Financial provisions.[^key-e9bb75ac733a068d5ce70712437c0bcf]
+### 24. Financial provisions.[^c-e9bb75ac733a068d5ce70712437c0bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Appeals.[^key-e9bb75ac733a068d5ce70712437c0bcf]
+### 25. Appeals.[^c-e9bb75ac733a068d5ce70712437c0bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Application to Crown.[^key-e9bb75ac733a068d5ce70712437c0bcf]
+### 26. Application to Crown.[^c-e9bb75ac733a068d5ce70712437c0bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Rules.[^key-e9bb75ac733a068d5ce70712437c0bcf]
+### 27. Rules.[^c-e9bb75ac733a068d5ce70712437c0bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Interpretation, etc.[^key-e9bb75ac733a068d5ce70712437c0bcf]
+### 28. Interpretation, etc.[^c-e9bb75ac733a068d5ce70712437c0bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -300,11 +300,11 @@ the tenant-at-will or the landlord or both may apply to the sheriff for an order
 (3) Subsection (2) above does not apply—
 
 - (a) to the enactments specified in Schedule 3 to this Act;
-- (b)[^key-6d5eb576e54ff40dc36fb5b356c05751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6d5eb576e54ff40dc36fb5b356c05751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c911421] The enactments specified in Schedule 4 to this Act are hereby repealed to the extent specified in the third column of that Schedule.
 
-### 30. Short title, extent and commencement.[^key-711e2172a29a026262ad1484a44ba857]
+### 30. Short title, extent and commencement.[^c-711e2172a29a026262ad1484a44ba857]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -328,35 +328,35 @@ Notes
 
 (3) Give the address or a short identifying description of the property to be acquired.
 
-## SCHEDULE 2 — Amendment of Enactments[^key-0f469e30c50090480ff2e2f2978b27dc]
+## SCHEDULE 2 — Amendment of Enactments[^c-0f469e30c50090480ff2e2f2978b27dc]
 
 **No longer in force.**
 
 Section 29(1).
 
-### The Land Registers (Scotland) Act 1868[^key-0f469e30c50090480ff2e2f2978b27dc]
+### The Land Registers (Scotland) Act 1868[^c-0f469e30c50090480ff2e2f2978b27dc]
 
-**1.**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Titles to Land Consolidation (Scotland) Act 1868[^key-0f469e30c50090480ff2e2f2978b27dc]
+### The Titles to Land Consolidation (Scotland) Act 1868[^c-0f469e30c50090480ff2e2f2978b27dc]
 
-**2.**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Conveyancing Amendment (Scotland) Act 1938[^key-0f469e30c50090480ff2e2f2978b27dc]
+### The Conveyancing Amendment (Scotland) Act 1938[^c-0f469e30c50090480ff2e2f2978b27dc]
 
-**3.**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Conveyancing and Feudal Reform (Scotland) Act 1970[^key-0f469e30c50090480ff2e2f2978b27dc]
+### The Conveyancing and Feudal Reform (Scotland) Act 1970[^c-0f469e30c50090480ff2e2f2978b27dc]
 
-**4.**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The Housing (Scotland) Act 1974[^key-0f469e30c50090480ff2e2f2978b27dc]
+### The Housing (Scotland) Act 1974[^c-0f469e30c50090480ff2e2f2978b27dc]
 
-**5)**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5)**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0f469e30c50090480ff2e2f2978b27dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Enactments Referring to the Register of Sasines or to the Recording of a Deed in the Register of Sasines not Affected by Section 29(2)
 
@@ -380,7 +380,7 @@ Section 29(1).
 | 16\. | The[^M_M_ebd00a84-41d9-4615-fced-81fa33eddcf6] Conveyancing and Feudal Reform (Scotland) Act 1970<br>The Whole Act.[^M_F_763845f5-74de-4251-e9c6-48664404e770] |
 | 17\. | *The [^c911454]Prescription and Limitation (Scotland) Act 1973* Section 1. |
 
-## SCHEDULE 4[^key-6c1b83e98cb5172323c6818c36da76ef]
+## SCHEDULE 4[^c-6c1b83e98cb5172323c6818c36da76ef]
 
 **No longer in force.**
 
@@ -392,13 +392,13 @@ Section 29(4)
 
     Act excluded (28.11.2004) by [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [ss. 63(2)](https://www.legislation.gov.uk/asp/2000/5/section/63/2), [77(2)(a)](https://www.legislation.gov.uk/asp/2000/5/section/77/2/a) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/620](https://www.legislation.gov.uk/ssi/2003/620), [art. 2](https://www.legislation.gov.uk/ssi/2003/620/article/2)
 
-[^key-7a400fbbf9900f8d749f7b82a311ccdd]: Textual amendment: Ss. 1-14 repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-7a400fbbf9900f8d749f7b82a311ccdd]: Textual amendment: Ss. 1-14 repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(2)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/2) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-1d8da7bc15d152ca004a3f23f840e595]: Textual amendment: S. 15(1)-(3) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(3)(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/3/a) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1d8da7bc15d152ca004a3f23f840e595]: Textual amendment: S. 15(1)-(3) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(3)(a)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/3/a) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-1c4f84a0433ca64059c2a29545e405ea]: Textual amendment: Words in s. 15(4) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(3)(b)(i)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/3/b/i) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1c4f84a0433ca64059c2a29545e405ea]: Textual amendment: Words in s. 15(4) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(3)(b)(i)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/3/b/i) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-f62c2a950d631c211d2aefd475eba84e]: Textual amendment: Words in s. 15(4) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(3)(b)(ii)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/3/b/ii) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-f62c2a950d631c211d2aefd475eba84e]: Textual amendment: Words in s. 15(4) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(3)(b)(ii)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/3/b/ii) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c911307]: Marginal citation: [1874 c. 94](https://www.legislation.gov.uk/ukpga/1874/94).
 
@@ -422,13 +422,13 @@ Section 29(4)
 
 [^c2108549]: Modification: [S. 16(1)(2)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1/2) applied (with modifications) (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 159(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/159/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 21 para. 7(7)](https://www.legislation.gov.uk/ukpga/2004/20/schedule/21/paragraph/7/7) (with [s. 38(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/38/2)); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2004/2575/schedule)
 
-[^key-e859719cbe57bfac8a2cace6d48990e9]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1) modified (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/13/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e859719cbe57bfac8a2cace6d48990e9]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1) modified (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/13/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-f6ea5d1d965b8b219919c182ce36d93a]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1) applied (with modifications) (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 11 para. 17(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/11/paragraph/17/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f6ea5d1d965b8b219919c182ce36d93a]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1) applied (with modifications) (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 11 para. 17(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/11/paragraph/17/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-9d7ba8b3b6da07823170e1ced6e79ac5]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/2) modified (13.7.2018 for E.W.) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 7 para. 6(6)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/6/6); [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-9d7ba8b3b6da07823170e1ced6e79ac5]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/2) modified (13.7.2018 for E.W.) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 7 para. 6(6)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/7/paragraph/6/6); [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-e1adfa590a31c183ecad6d4fe4a45b03]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1) applied (with modifications) (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a), [Sch. 4 para. 8(6)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/4/paragraph/8/6)
+[^c-e1adfa590a31c183ecad6d4fe4a45b03]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/1) applied (with modifications) (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a), [Sch. 4 para. 8(6)](https://www.legislation.gov.uk/ukpga/2023/52/schedule/4/paragraph/8/6)
 
 [^c2118019]: Textual amendment: [S. 16(2)](https://www.legislation.gov.uk/ukpga/1979/33/section/16/2) repealed (28.11.2004) by [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [ss. 76(1)(2)](https://www.legislation.gov.uk/asp/2000/5/section/76/1/2), [77(2)(a)(c)(d)](https://www.legislation.gov.uk/asp/2000/5/section/77/2/a/c/d), [Sch. 12 Pt. 1 para. 39(7)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/part/1/paragraph/39/7/a), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
@@ -438,7 +438,7 @@ Section 29(4)
 
 [^c2108551]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1979/33/section/18) repealed (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [128(2)](https://www.legislation.gov.uk/asp/2003/9/section/128/2), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-9559cf4b1e835ebd7483965f1fb56e5c]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1979/33/section/19) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/4) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-9559cf4b1e835ebd7483965f1fb56e5c]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1979/33/section/19) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/4) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c2118046]: Textual amendment: S. 20(3)(ii) and word "; and" immediately preceding it repealed (28.11.2004) by [2000 asp 5](https://www.legislation.gov.uk/asp/2000/5), [ss. 76(1)(2)](https://www.legislation.gov.uk/asp/2000/5/section/76/1/2), [77(2)(a)(c)(d)](https://www.legislation.gov.uk/asp/2000/5/section/77/2/a/c/d), [Sch. 12 Pt. 1 para. 39(8)(a)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/part/1/paragraph/39/8/a), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
@@ -464,17 +464,17 @@ Section 29(4)
 
 [^c911357]: Textual amendment: S. 22A inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 75:2)](https://www.legislation.gov.uk/ukpga/1985/73), [s. 2](https://www.legislation.gov.uk/ukpga/1985/73/section/2)
 
-[^key-e9bb75ac733a068d5ce70712437c0bcf]: Textual amendment: Ss. 23-28 repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(5)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/5) (with [ss. 120(2)](https://www.legislation.gov.uk/asp/2012/5/section/120/2), [121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-e9bb75ac733a068d5ce70712437c0bcf]: Textual amendment: Ss. 23-28 repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(5)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/5) (with [ss. 120(2)](https://www.legislation.gov.uk/asp/2012/5/section/120/2), [121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c911421]: Modification: The text of Ss. 10, 23, 29(1)(4), Sch. 2 paras. 1, 2, 3, 4, 5, 6, Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
 [^c911422]: Modification: S. 29(2) extended by [Water (Scotland) Act 1980 (c.45, SIF 130)](https://www.legislation.gov.uk/ukpga/1980/45), [s. 109(5)](https://www.legislation.gov.uk/ukpga/1980/45/section/109/5) (as added by [Local Government (Miscellaneous Provisions) (Scotland) Act 1981 (c. 23, SIF 81:2)](https://www.legislation.gov.uk/ukpga/1981/23), [Sch. 3 para. 39(5)](https://www.legislation.gov.uk/ukpga/1981/23/schedule/3/paragraph/39/5))
 
-[^key-6d5eb576e54ff40dc36fb5b356c05751]: Textual amendment: [S. 29(3)(b)](https://www.legislation.gov.uk/ukpga/1979/33/section/29/3/b) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(6)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/6) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-6d5eb576e54ff40dc36fb5b356c05751]: Textual amendment: [S. 29(3)(b)](https://www.legislation.gov.uk/ukpga/1979/33/section/29/3/b) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(6)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/6) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-711e2172a29a026262ad1484a44ba857]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/1979/33/section/30) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(7)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/7) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-711e2172a29a026262ad1484a44ba857]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/1979/33/section/30) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(7)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/7) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-0f469e30c50090480ff2e2f2978b27dc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/33/schedule/2) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(8)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/8) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0f469e30c50090480ff2e2f2978b27dc]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1979/33/schedule/2) repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(8)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/8) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c911437]: Marginal citation: [1693 c. 22](https://www.legislation.gov.uk/aep/1693/22).
 
@@ -538,4 +538,4 @@ Section 29(4)
 
 [^c911454]: Marginal citation: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
 
-[^key-6c1b83e98cb5172323c6818c36da76ef]: Textual amendment: Sch. 4 repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(10)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/10) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-6c1b83e98cb5172323c6818c36da76ef]: Textual amendment: Sch. 4 repealed (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 19(10)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/19/10) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

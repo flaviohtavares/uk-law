@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Maximum housing benefit[^key-4c8549875b9672ca94bc114c56db342b]
+## 68. Maximum housing benefit[^c-4c8549875b9672ca94bc114c56db342b]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ less, in either case, any deductions in respect of non-dependants which fall to 
 
 ## Annotations
 
-[^key-4c8549875b9672ca94bc114c56db342b]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2006/405/regulation/68) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-4c8549875b9672ca94bc114c56db342b]: Commencement: [Reg. 68](https://www.legislation.gov.uk/nisr/2006/405/regulation/68) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

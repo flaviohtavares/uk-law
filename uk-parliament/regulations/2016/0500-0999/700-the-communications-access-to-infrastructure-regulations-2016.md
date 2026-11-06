@@ -435,7 +435,7 @@ In these Regulations—
 - (a) ensure that the infrastructure operator has a fair opportunity to recover its costs, and
 - (b) take into account the impact of the access on the operator's business plan, including the investments made by the operator, in particular in the physical infrastructure used for the provision of high-speed electronic communications services.
 
-(3)[^key-a686dba9ca6ef6542321de1fa9b75e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a686dba9ca6ef6542321de1fa9b75e74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17. Resolution of disputes: information
 
@@ -674,7 +674,7 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^c23181821]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-a686dba9ca6ef6542321de1fa9b75e74]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2016/700/regulation/16/3) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/246/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a686dba9ca6ef6542321de1fa9b75e74]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2016/700/regulation/16/3) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/246/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23181831]: Marginal citation: [Sections 138](https://www.legislation.gov.uk/uksi/2016/700/section/138) and 139 were amended, and section 139A was inserted, by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). Section 139 was also amended by [S.I. 2011/1773](https://www.legislation.gov.uk/uksi/2011/1773).
 

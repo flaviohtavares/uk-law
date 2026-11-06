@@ -35,118 +35,118 @@ on working methods of the European Aviation Safety Agency for conducting standar
 
 (Text with EEA relevance) (revoked)
 
-[^key-6f027283100b65f827848f0788ba7f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f027283100b65f827848f0788ba7f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-6f027283100b65f827848f0788ba7f34]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-6f027283100b65f827848f0788ba7f34]
+## Article 1. Subject matter and scope[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Principles applicable to monitoring[^key-6f027283100b65f827848f0788ba7f34]
+## Article 2. Definitions[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Principles applicable to inspections and findings[^key-6f027283100b65f827848f0788ba7f34]
+## Article 3. Principles applicable to monitoring[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Exchange of information[^key-6f027283100b65f827848f0788ba7f34]
+## Article 4. Principles applicable to inspections and findings[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. National Standardisation Coordinator[^key-6f027283100b65f827848f0788ba7f34]
+## Article 5. Exchange of information[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Continuous monitoring[^key-6f027283100b65f827848f0788ba7f34]
+## Article 6. National Standardisation Coordinator[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Inspection programme[^key-6f027283100b65f827848f0788ba7f34]
+## Article 7. Continuous monitoring[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Inspection domains[^key-6f027283100b65f827848f0788ba7f34]
+## Article 8. Inspection programme[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Types of inspections[^key-6f027283100b65f827848f0788ba7f34]
+## Article 9. Inspection domains[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Training, qualification and authorisation criteria for inspection teams[^key-6f027283100b65f827848f0788ba7f34]
+## Article 10. Types of inspections[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Setting up teams for inspections[^key-6f027283100b65f827848f0788ba7f34]
+## Article 11. Training, qualification and authorisation criteria for inspection teams[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Conduct of inspections[^key-6f027283100b65f827848f0788ba7f34]
+## Article 12. Setting up teams for inspections[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Preparatory phase[^key-6f027283100b65f827848f0788ba7f34]
+## Article 13. Conduct of inspections[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. On-site phase[^key-6f027283100b65f827848f0788ba7f34]
+## Article 14. Preparatory phase[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Reporting phase[^key-6f027283100b65f827848f0788ba7f34]
+## Article 15. On-site phase[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Findings follow-up and closure[^key-6f027283100b65f827848f0788ba7f34]
+## Article 16. Reporting phase[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Classification of findings[^key-6f027283100b65f827848f0788ba7f34]
+## Article 17. Findings follow-up and closure[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Immediate safety concern[^key-6f027283100b65f827848f0788ba7f34]
+## Article 18. Classification of findings[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Records[^key-6f027283100b65f827848f0788ba7f34]
+## Article 19. Immediate safety concern[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Access to information contained in inspection reports[^key-6f027283100b65f827848f0788ba7f34]
+## Article 20. Records[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 22. Supplementary actions[^key-6f027283100b65f827848f0788ba7f34]
+## Article 21. Access to information contained in inspection reports[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 23. Annual report[^key-6f027283100b65f827848f0788ba7f34]
+## Article 22. Supplementary actions[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 24. Working procedures[^key-6f027283100b65f827848f0788ba7f34]
+## Article 23. Annual report[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 25. Transitional arrangements[^key-6f027283100b65f827848f0788ba7f34]
+## Article 24. Working procedures[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 26. Repeal[^key-6f027283100b65f827848f0788ba7f34]
+## Article 25. Transitional arrangements[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 27. Entry into force and application[^key-6f027283100b65f827848f0788ba7f34]
+## Article 26. Repeal[^c-6f027283100b65f827848f0788ba7f34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f027283100b65f827848f0788ba7f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 27. Entry into force and application[^c-6f027283100b65f827848f0788ba7f34]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6f027283100b65f827848f0788ba7f34]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f027283100b65f827848f0788ba7f34]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f027283100b65f827848f0788ba7f34]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 155. Procedure[^key-01a4609d306e9db8eb53706be2672a2b]
+## 155. Procedure[^c-01a4609d306e9db8eb53706be2672a2b]
 
 *Extent: S*
 
@@ -45,10 +45,10 @@ summary: ''
 
 (6) The sheriff may require any person to give a report to the sheriff for the purpose of assisting the sheriff in determining the appeal.
 
-(7) Subsection (6) applies in relation to a safeguarder only if regulations under section 34[^key-a82f5fbd48bdb1c24955727b85cfafaf] so provide.
+(7) Subsection (6) applies in relation to a safeguarder only if regulations under section 34[^c-a82f5fbd48bdb1c24955727b85cfafaf] so provide.
 
 ## Annotations
 
-[^key-01a4609d306e9db8eb53706be2672a2b]: Commencement: S. 155 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-01a4609d306e9db8eb53706be2672a2b]: Commencement: S. 155 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-a82f5fbd48bdb1c24955727b85cfafaf]: Textual amendment: Words in s. 155(7) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(14)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/14)
+[^c-a82f5fbd48bdb1c24955727b85cfafaf]: Textual amendment: Words in s. 155(7) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(14)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/14)

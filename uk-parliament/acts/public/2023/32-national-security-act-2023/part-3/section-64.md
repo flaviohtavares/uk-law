@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Reviews of detention under Part 1[^key-0df1287dc48b949411b2dfaeae0fd491][^key-03e1287ffece93599958d88c556aa2ba]
+## 64. Reviews of detention under Part 1[^c-0df1287dc48b949411b2dfaeae0fd491][^c-03e1287ffece93599958d88c556aa2ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0df1287dc48b949411b2dfaeae0fd491]: Commencement: S. 64 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-0df1287dc48b949411b2dfaeae0fd491]: Commencement: S. 64 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-03e1287ffece93599958d88c556aa2ba]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/32/section/64) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/c)
+[^c-03e1287ffece93599958d88c556aa2ba]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2023/32/section/64) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/c)

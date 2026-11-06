@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Arrangements with the Water Industry Commission for Scotland[^key-2a73b56922a9a31dbcc5b07d48e914a6]
+## 6. Arrangements with the Water Industry Commission for Scotland[^c-2a73b56922a9a31dbcc5b07d48e914a6]
 
 *Extent: E+W*
 
-(1)[^key-b7a3eb5b36fd37153569d49c805f79b9] The Water Industry Act 1991 is amended as follows.
+(1)[^c-b7a3eb5b36fd37153569d49c805f79b9] The Water Industry Act 1991 is amended as follows.
 
-(2)[^key-0ff8ed9cb582a1e764e104ab5fbba055] After section 17F (procedure for granting and varying licences) there is inserted—
+(2)[^c-0ff8ed9cb582a1e764e104ab5fbba055] After section 17F (procedure for granting and varying licences) there is inserted—
 
 > **17FA. Applications forwarded by the Water Industry Commission for Scotland**
 >
@@ -81,8 +81,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2a73b56922a9a31dbcc5b07d48e914a6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/21/section/6) in force at 1.4.2016 in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/465/article/2/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
+[^c-2a73b56922a9a31dbcc5b07d48e914a6]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2014/21/section/6) in force at 1.4.2016 in so far as not already in force by [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/465/article/2/c) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2))
 
-[^key-b7a3eb5b36fd37153569d49c805f79b9]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/6/1) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/a/i)
+[^c-b7a3eb5b36fd37153569d49c805f79b9]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/6/1) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/a/i)
 
-[^key-0ff8ed9cb582a1e764e104ab5fbba055]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/6/2) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/a/ii)
+[^c-0ff8ed9cb582a1e764e104ab5fbba055]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/6/2) in force at 18.12.2015 for specified purposes by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2015/1938/article/2/a/ii)

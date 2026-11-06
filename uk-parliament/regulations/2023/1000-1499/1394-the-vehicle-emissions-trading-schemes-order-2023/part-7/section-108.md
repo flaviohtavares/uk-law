@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Appeal against decisions of the administrator[^key-74ed93c548078026a9e2613f85b4a7a9]
+## 108. Appeal against decisions of the administrator[^c-74ed93c548078026a9e2613f85b4a7a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74ed93c548078026a9e2613f85b4a7a9]: Commencement: Art. 108 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-74ed93c548078026a9e2613f85b4a7a9]: Commencement: Art. 108 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

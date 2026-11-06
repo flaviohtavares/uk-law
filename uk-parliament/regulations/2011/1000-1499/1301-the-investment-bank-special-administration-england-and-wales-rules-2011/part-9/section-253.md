@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 253. Procedure for examination[^key-97a511243bfab9aaf35f15320b54ba2f]
+## 253. Procedure for examination[^c-97a511243bfab9aaf35f15320b54ba2f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97a511243bfab9aaf35f15320b54ba2f]: Commencement: [Rule 253](https://www.legislation.gov.uk/uksi/2011/1301/rule/253) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-97a511243bfab9aaf35f15320b54ba2f]: Commencement: [Rule 253](https://www.legislation.gov.uk/uksi/2011/1301/rule/253) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

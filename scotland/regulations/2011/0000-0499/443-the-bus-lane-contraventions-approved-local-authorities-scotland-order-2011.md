@@ -48,11 +48,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 44(2)(b) of the Transport (Scotland) Act 2001[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-ed9adfcf4b511af2b03ace033a14b1ab]
+## 1. Citation and commencement[^c-ed9adfcf4b511af2b03ace033a14b1ab]
 
 This Order may be cited as the Bus Lane Contraventions (Approved Local Authorities) (Scotland) Order 2011 and comes into force on 6th February 2012.
 
-## 2. Approved local authorities[^key-4d27876d37154cda5674e20af410b40c]
+## 2. Approved local authorities[^c-4d27876d37154cda5674e20af410b40c]
 
 Each local authority listed in column (1) of the Schedule, whose area is wholly or partially designated by order under paragraphs 1(1) and 2(1) of Schedule 3 to the Road Traffic Act 1991[^f00002] (permitted and special parking areas outside London), of which the reference number is given in column (2) of the Schedule, is an approved local authority for the purposes of section 44 of the Transport (Scotland) Act 2001 (civil penalties for bus lane contraventions).
 
@@ -66,7 +66,7 @@ Edinburgh
 
 15th December 2011
 
-## SCHEDULE — APPROVED LOCAL AUTHORITIES[^key-d7583fd0ddc2c5a8ba58ef9f44ef4bc3]
+## SCHEDULE — APPROVED LOCAL AUTHORITIES[^c-d7583fd0ddc2c5a8ba58ef9f44ef4bc3]
 
 Article 2
 
@@ -84,7 +84,7 @@ Article 2
 </tbody>
 </table>
 
-[^key-0737810fd12d9b7519abca2f62f7157f][^key-17914bf51b2cedacda6a5c895dd31af0][^key-196834d41ee333ac8ae94ebf77d8f2e9]
+[^c-0737810fd12d9b7519abca2f62f7157f][^c-17914bf51b2cedacda6a5c895dd31af0][^c-196834d41ee333ac8ae94ebf77d8f2e9]
 
 EXPLANATORY NOTE
 
@@ -102,16 +102,16 @@ No Business Regulatory Impact Assessment has been undertaken, since the Order is
 
 [^f00001]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2).
 
-[^key-ed9adfcf4b511af2b03ace033a14b1ab]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1) in force at 6.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1)
+[^c-ed9adfcf4b511af2b03ace033a14b1ab]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1) in force at 6.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1)
 
-[^key-4d27876d37154cda5674e20af410b40c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/443/article/2) in force at 6.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1)
+[^c-4d27876d37154cda5674e20af410b40c]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2011/443/article/2) in force at 6.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1)
 
 [^f00002]: Footnote: [1991 c.40](https://www.legislation.gov.uk/ukpga/1991/40). Paragraphs 1(1) and 2(1) were relevantly amended by paragraph 171 of Schedule 13 to the Local Government (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-d7583fd0ddc2c5a8ba58ef9f44ef4bc3]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) in force at 6.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1)
+[^c-d7583fd0ddc2c5a8ba58ef9f44ef4bc3]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) in force at 6.2.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2011/443/article/1)
 
-[^key-0737810fd12d9b7519abca2f62f7157f]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/2/2/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-0737810fd12d9b7519abca2f62f7157f]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/2/2/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-17914bf51b2cedacda6a5c895dd31af0]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/2/2/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-17914bf51b2cedacda6a5c895dd31af0]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) substituted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/2/2/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
 
-[^key-196834d41ee333ac8ae94ebf77d8f2e9]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/2/2/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))
+[^c-196834d41ee333ac8ae94ebf77d8f2e9]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2011/443/schedule) inserted (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Bus Lane Adjudicators) Regulations 2020 (S.S.I. 2020/96)](https://www.legislation.gov.uk/ssi/2020/96), [reg. 1](https://www.legislation.gov.uk/ssi/2020/96/regulation/1), [sch. 2 para. 2(2)(c)](https://www.legislation.gov.uk/ssi/2020/96/schedule/2/paragraph/2/2/c) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/96/schedule/1))

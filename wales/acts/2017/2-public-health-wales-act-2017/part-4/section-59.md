@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. General provision about special procedure licences[^key-b4e96801fbabdaf3a061ec6225b59725][^key-5fc382370445c558ac274143c01cc154]
+## 59. General provision about special procedure licences[^c-b4e96801fbabdaf3a061ec6225b59725][^c-5fc382370445c558ac274143c01cc154]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ unless the conditions in subsection (4) are met.
 
 ## Annotations
 
-[^key-b4e96801fbabdaf3a061ec6225b59725]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/2/section/59) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/a)
+[^c-b4e96801fbabdaf3a061ec6225b59725]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/2/section/59) in force at 13.9.2024 for specified purposes by [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/a)
 
-[^key-5fc382370445c558ac274143c01cc154]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/2/section/59) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(d)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-5fc382370445c558ac274143c01cc154]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2017/2/section/59) in force at 29.11.2024 in so far as not already in force by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(d)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c13765041][^key-4573cfb617525e9efd003fab98335151] In section 37 (standard scale of fines) of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] [^c13765051]Criminal Justice Act 1982 (“the 1982 Act”) and section 289G of the *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] [^c13765061]Criminal Procedure (Scotland) Act 1975 (corresponding Scottish provision), for subsection (2) there shall be substituted the following subsection— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3]
+(1)[^c13765041][^c-4573cfb617525e9efd003fab98335151] In section 37 (standard scale of fines) of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] [^c13765051]Criminal Justice Act 1982 (“the 1982 Act”) and section 289G of the *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] [^c13765061]Criminal Procedure (Scotland) Act 1975 (corresponding Scottish provision), for subsection (2) there shall be substituted the following subsection— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3]
 
-> (2 (Extent: E+W) (affected by repeal, see note))[^key-be8b427f22e1a312285308b9f27b65c3] The standard scale is shown below— *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3]
+> (2 (Extent: E+W) (affected by repeal, see note))[^c-be8b427f22e1a312285308b9f27b65c3] The standard scale is shown below— *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3]
 >
-> | *Level on the scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3]* | *Amount of fine *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3]* |
+> | *Level on the scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3]* | *Amount of fine *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3]* |
 > | --- | --- |
-> | 1 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] | £200 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] |
-> | 2 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] | £500 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] |
-> | 3 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] | £1,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] |
-> | 4 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] | £2,500 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] |
-> | 5 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] | £5,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3] |
+> | 1 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] | £200 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] |
+> | 2 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] | £500 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] |
+> | 3 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] | £1,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] |
+> | 4 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] | £2,500 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] |
+> | 5 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] | £5,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3] |
 
-. *(Extent: E+W)* *(affected by repeal, see note)*[^key-be8b427f22e1a312285308b9f27b65c3]
+. *(Extent: E+W)* *(affected by repeal, see note)*[^c-be8b427f22e1a312285308b9f27b65c3]
 
 (2)[^c13765041] Part I of the [^c13765071]Magistrates’ Courts Act 1980 (“**the 1980 Act**”) shall be amended as follows—
 
@@ -58,9 +58,9 @@ and in section 289B(6) of the Criminal Procedure (Scotland) Act 1975 (interpreta
 
 [^c13765041]: Modification: S. 17(1)(2) restricted (S.) (1.9.1992) by [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 4A](https://www.legislation.gov.uk/uksi/1992/333/article/4A) (as inserted by [S.I. 1992/2118](https://www.legislation.gov.uk/uksi/1992/2118), [art. 4](https://www.legislation.gov.uk/uksi/1992/2118/article/4))
 
-[^key-4573cfb617525e9efd003fab98335151]: Modification: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/1) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-4573cfb617525e9efd003fab98335151]: Modification: [S. 17(1)](https://www.legislation.gov.uk/ukpga/1991/53/section/17/1) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-be8b427f22e1a312285308b9f27b65c3]: Textual amendment: S. 17(1) repealed (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-be8b427f22e1a312285308b9f27b65c3]: Textual amendment: S. 17(1) repealed (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 29](https://www.legislation.gov.uk/ukpga/2020/17/schedule/29) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c13765051]: Marginal citation: [1982 c. 48](https://www.legislation.gov.uk/ukpga/1982/48).
 

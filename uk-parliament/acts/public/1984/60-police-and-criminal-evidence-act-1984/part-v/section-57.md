@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Additional rights of children and young persons.[^c11324501][^key-57bfcccdae943ec235b6e3c5810d1ea2][^key-2deabd5049b2dfa7c5614f9021ffd97a]
+## 57. Additional rights of children and young persons.[^c11324501][^c-57bfcccdae943ec235b6e3c5810d1ea2][^c-2deabd5049b2dfa7c5614f9021ffd97a]
 
 *Extent: E+W*
 
@@ -58,8 +58,8 @@ The following subsections shall be substituted for section 34(2) of the [^c11324
 
 [^c11324501]: Modification: S. 57(1)–(9) expressed to be applied with modifications by [S.I. 1985/1800](https://www.legislation.gov.uk/uksi/1985/1800), [arts. 3–11](https://www.legislation.gov.uk/uksi/1985/1800/article/3), [Schs. 1](https://www.legislation.gov.uk/uksi/1985/1800/schedule/1), [2](https://www.legislation.gov.uk/uksi/1985/1800/schedule/2)
 
-[^key-57bfcccdae943ec235b6e3c5810d1ea2]: Modification: S. 57 applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
+[^c-57bfcccdae943ec235b6e3c5810d1ea2]: Modification: S. 57 applied (with modifications) (25.6.2013) by [The Police and Criminal Evidence Act 1984 (Application to immigration officers and designated customs officials in England and Wales) Order 2013 (S.I. 2013/1542)](https://www.legislation.gov.uk/uksi/2013/1542), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1542/article/1), [12(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1542/article/12/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1542/schedule/2) (with [arts. 13-31](https://www.legislation.gov.uk/uksi/2013/1542/article/13))
 
-[^key-2deabd5049b2dfa7c5614f9021ffd97a]: Modification: S. 57 applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
+[^c-2deabd5049b2dfa7c5614f9021ffd97a]: Modification: S. 57 applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
 
 [^c11324511]: Marginal citation: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12).

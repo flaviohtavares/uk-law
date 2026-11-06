@@ -46,21 +46,21 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by section 5(3) of the Value Added Tax Act 1994[^f00001], make the following Order:
 
-## 1. Citation, commencement and effect[^key-c8b98b2bbcfedf3c19ff705f99060d9c]
+## 1. Citation, commencement and effect[^c-c8b98b2bbcfedf3c19ff705f99060d9c]
 
 (1) This Order may be cited as the Value Added Tax (Removal of Gas, Electricity, Heat and Cooling) Order 2010.
 
 (2) This Order comes into force on 1st January 2011 and has effect in relation to supplies made on or after that date.
 
-## 2. Revocation of the Value Added Tax (Removal of Gas and Electricity) Order 2004[^key-f057e8f976d138ac49079e17e6bee6ba]
+## 2. Revocation of the Value Added Tax (Removal of Gas and Electricity) Order 2004[^c-f057e8f976d138ac49079e17e6bee6ba]
 
 The Value Added Tax (Removal of Gas and Electricity) Order 2004[^f00002] is revoked.
 
-## 3. The application of paragraph 30 of Schedule 9ZB to the Value Added Tax Act 1994[^key-744df7ed30ce3f327564aab08a526c57][^key-46795cba60e57a327227cfdd85065a8b]
+## 3. The application of paragraph 30 of Schedule 9ZB to the Value Added Tax Act 1994[^c-744df7ed30ce3f327564aab08a526c57][^c-46795cba60e57a327227cfdd85065a8b]
 
-Paragraph 30 of Schedule 9ZB (removal of business assets to be treated as a supply of goods)[^key-51a44585b8cc1bf746db724311d7602d] to the Value Added Tax Act 1994 shall not apply to the removal of—
+Paragraph 30 of Schedule 9ZB (removal of business assets to be treated as a supply of goods)[^c-51a44585b8cc1bf746db724311d7602d] to the Value Added Tax Act 1994 shall not apply to the removal of—
 
-- (a) gas through a natural gas system situated within Northern Ireland or[^key-5962ed384622a4428f3d4d9f774f0241] the territory of a member State or any network connected to such a system,
+- (a) gas through a natural gas system situated within Northern Ireland or[^c-5962ed384622a4428f3d4d9f774f0241] the territory of a member State or any network connected to such a system,
 - (b) electricity, or
 - (c) heat or cooling supplied through a network.
 
@@ -96,16 +96,16 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-c8b98b2bbcfedf3c19ff705f99060d9c]: Commencement: Art. 1 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2925/article/1/2)
+[^c-c8b98b2bbcfedf3c19ff705f99060d9c]: Commencement: Art. 1 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2925/article/1/2)
 
-[^key-f057e8f976d138ac49079e17e6bee6ba]: Commencement: Art. 2 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2925/article/1/2)
+[^c-f057e8f976d138ac49079e17e6bee6ba]: Commencement: Art. 2 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2925/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2004/3150](https://www.legislation.gov.uk/uksi/2004/3150).
 
-[^key-744df7ed30ce3f327564aab08a526c57]: Commencement: Art. 3 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2925/article/1/2)
+[^c-744df7ed30ce3f327564aab08a526c57]: Commencement: Art. 3 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2925/article/1/2)
 
-[^key-46795cba60e57a327227cfdd85065a8b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2925/article/3) heading substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [55(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/55/a)
+[^c-46795cba60e57a327227cfdd85065a8b]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2925/article/3) heading substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [55(a)](https://www.legislation.gov.uk/uksi/2021/715/regulation/55/a)
 
-[^key-51a44585b8cc1bf746db724311d7602d]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2925/article/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [55(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/55/b)
+[^c-51a44585b8cc1bf746db724311d7602d]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2925/article/3) substituted (1.8.2021) by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [55(b)](https://www.legislation.gov.uk/uksi/2021/715/regulation/55/b)
 
-[^key-5962ed384622a4428f3d4d9f774f0241]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/2925/article/3/a) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [101](https://www.legislation.gov.uk/uksi/2020/1545/regulation/101) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-5962ed384622a4428f3d4d9f774f0241]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2010/2925/article/3/a) inserted (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments, Northern Ireland Protocol and Savings and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1545)](https://www.legislation.gov.uk/uksi/2020/1545), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1545/regulation/1), [101](https://www.legislation.gov.uk/uksi/2020/1545/regulation/101) (with [regs. 109-131](https://www.legislation.gov.uk/uksi/2020/1545/regulation/109)); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

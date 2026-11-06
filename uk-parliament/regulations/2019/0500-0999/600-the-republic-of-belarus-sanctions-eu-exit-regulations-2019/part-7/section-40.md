@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Finance: powers to request information[^key-67de195b0cf7a1a1dde22f3d7379860f][^key-80a8f4250de35f97f48217fc87c8d984]
+## 40. Finance: powers to request information[^c-67de195b0cf7a1a1dde22f3d7379860f][^c-80a8f4250de35f97f48217fc87c8d984]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,9 +36,9 @@ summary: ''
 
 (5) The Treasury may request a person acting under a Treasury licence to provide information about—
 
-- (a) funds or economic resources dealt with under the licence, [^key-aa31c4603019d7d2fc2df9d840119f4e]...
-- (b) funds or economic resources made available under the licence, or[^key-187e4ee735819eaecd93717b2b94b153]
-- (c)[^key-0d119b636c9626028c77d38687936a3d] any matter to which a licence relates, where that licence authorises an act that would otherwise be prohibited under—
+- (a) funds or economic resources dealt with under the licence, [^c-aa31c4603019d7d2fc2df9d840119f4e]...
+- (b) funds or economic resources made available under the licence, or[^c-187e4ee735819eaecd93717b2b94b153]
+- (c)[^c-0d119b636c9626028c77d38687936a3d] any matter to which a licence relates, where that licence authorises an act that would otherwise be prohibited under—
   - (i) regulation 15A (dealing with transferable securities or money market instruments),
   - (ii) regulation 15B (loans and credit arrangements),
   - (iii) regulation 15C (insurance and reinsurance services), or
@@ -72,12 +72,12 @@ summary: ''
 
 ## Annotations
 
-[^key-67de195b0cf7a1a1dde22f3d7379860f]: Commencement: Reg. 40 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
+[^c-67de195b0cf7a1a1dde22f3d7379860f]: Commencement: Reg. 40 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/600/regulation/1/2)
 
-[^key-80a8f4250de35f97f48217fc87c8d984]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80a8f4250de35f97f48217fc87c8d984]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa31c4603019d7d2fc2df9d840119f4e]: Textual amendment: Word in [reg. 40(5)(a)](https://www.legislation.gov.uk/uksi/2019/600/regulation/40/5/a) omitted (5.7.2022) by virtue of [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [39(a)(i)](https://www.legislation.gov.uk/uksi/2022/748/regulation/39/a/i)
+[^c-aa31c4603019d7d2fc2df9d840119f4e]: Textual amendment: Word in [reg. 40(5)(a)](https://www.legislation.gov.uk/uksi/2019/600/regulation/40/5/a) omitted (5.7.2022) by virtue of [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [39(a)(i)](https://www.legislation.gov.uk/uksi/2022/748/regulation/39/a/i)
 
-[^key-187e4ee735819eaecd93717b2b94b153]: Textual amendment: Words in [reg. 40(5)(b)](https://www.legislation.gov.uk/uksi/2019/600/regulation/40/5/b) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [39(a)(ii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/39/a/ii)
+[^c-187e4ee735819eaecd93717b2b94b153]: Textual amendment: Words in [reg. 40(5)(b)](https://www.legislation.gov.uk/uksi/2019/600/regulation/40/5/b) substituted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [39(a)(ii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/39/a/ii)
 
-[^key-0d119b636c9626028c77d38687936a3d]: Textual amendment: [Reg. 40(5)(c)](https://www.legislation.gov.uk/uksi/2019/600/regulation/40/5/c) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [39(a)(iii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/39/a/iii)
+[^c-0d119b636c9626028c77d38687936a3d]: Textual amendment: [Reg. 40(5)(c)](https://www.legislation.gov.uk/uksi/2019/600/regulation/40/5/c) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [39(a)(iii)](https://www.legislation.gov.uk/uksi/2022/748/regulation/39/a/iii)

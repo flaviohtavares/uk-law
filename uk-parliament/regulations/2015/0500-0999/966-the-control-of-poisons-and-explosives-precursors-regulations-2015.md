@@ -64,11 +64,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (2) In the case of a person's supply of a regulated explosives precursor that involves despatch to Northern Ireland, references in section 3A of the Act to a licence, or to a recognised non-GB licence, are to be read as references to a licence issued or recognised under relevant Northern Ireland legislation (as defined by section 4B(4) of the Act).
 
-(3)[^key-243f46330399fc56d0867b98f0846ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-243f46330399fc56d0867b98f0846ab5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Nothing[^key-1dbc8bdd325c8309106d2aed7fa48a5a] in section 3A of the Act applies to the supply of a regulated substance involving export from the United Kingdom.
+(4) Nothing[^c-1dbc8bdd325c8309106d2aed7fa48a5a] in section 3A of the Act applies to the supply of a regulated substance involving export from the United Kingdom.
 
-(5)[^key-7b959a756ef770296088fd1934fdb6ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7b959a756ef770296088fd1934fdb6ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 3. Applications in relation to licences under section 4A of the Act
 
@@ -97,10 +97,10 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (7) The applicant, in making the application, is deemed to have consented to—
 
-- (a) the carrying out of any investigation or checks that the Secretary of State thinks it appropriate to carry out in order to decide the application[^key-182cad1d9349042183f42e24805842f8]... .
-- (b)[^key-182cad1d9349042183f42e24805842f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the carrying out of any investigation or checks that the Secretary of State thinks it appropriate to carry out in order to decide the application[^c-182cad1d9349042183f42e24805842f8]... .
+- (b)[^c-182cad1d9349042183f42e24805842f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-cb3c766a96e34dfca43b48b698211487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-cb3c766a96e34dfca43b48b698211487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) The Secretary of State must notify the applicant of the Secretary of State's decision to grant or refuse the application as soon as reasonably practicable after the decision is taken.
 
@@ -292,15 +292,15 @@ A full regulatory impact assessment of the effect of the changes introduced by t
 
 [^c22489371]: Marginal citation: [1972 c.66](https://www.legislation.gov.uk/ukpga/1972/66). Sections 3A, 4A and 9B are inserted and sections 7 and 10 are substituted by Schedule 21 to the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
-[^key-243f46330399fc56d0867b98f0846ab5]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/966/regulation/2/3) omitted (1.10.2023) by virtue of [The Control of Explosives Precursors and Poisons Regulations 2023 (S.I. 2023/63)](https://www.legislation.gov.uk/uksi/2023/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/9/a)
+[^c-243f46330399fc56d0867b98f0846ab5]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2015/966/regulation/2/3) omitted (1.10.2023) by virtue of [The Control of Explosives Precursors and Poisons Regulations 2023 (S.I. 2023/63)](https://www.legislation.gov.uk/uksi/2023/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1), [9(a)](https://www.legislation.gov.uk/uksi/2023/63/regulation/9/a)
 
-[^key-1dbc8bdd325c8309106d2aed7fa48a5a]: Textual amendment: Word in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/966/regulation/2/4) substituted (1.10.2023) by [The Control of Explosives Precursors and Poisons Regulations 2023 (S.I. 2023/63)](https://www.legislation.gov.uk/uksi/2023/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/9/b)
+[^c-1dbc8bdd325c8309106d2aed7fa48a5a]: Textual amendment: Word in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/966/regulation/2/4) substituted (1.10.2023) by [The Control of Explosives Precursors and Poisons Regulations 2023 (S.I. 2023/63)](https://www.legislation.gov.uk/uksi/2023/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2023/63/regulation/9/b)
 
-[^key-7b959a756ef770296088fd1934fdb6ad]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/966/regulation/2/5) omitted (1.10.2023) by virtue of [The Control of Explosives Precursors and Poisons Regulations 2023 (S.I. 2023/63)](https://www.legislation.gov.uk/uksi/2023/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/9/c)
+[^c-7b959a756ef770296088fd1934fdb6ad]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/uksi/2015/966/regulation/2/5) omitted (1.10.2023) by virtue of [The Control of Explosives Precursors and Poisons Regulations 2023 (S.I. 2023/63)](https://www.legislation.gov.uk/uksi/2023/63), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/63/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2023/63/regulation/9/c)
 
-[^key-182cad1d9349042183f42e24805842f8]: Textual amendment: [Reg. 3(7)(b)](https://www.legislation.gov.uk/uksi/2015/966/regulation/3/7/b) and word omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 383(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/383/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-182cad1d9349042183f42e24805842f8]: Textual amendment: [Reg. 3(7)(b)](https://www.legislation.gov.uk/uksi/2015/966/regulation/3/7/b) and word omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 383(a)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/383/a) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-cb3c766a96e34dfca43b48b698211487]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2015/966/regulation/3/8) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 383(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/383/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-cb3c766a96e34dfca43b48b698211487]: Textual amendment: [Reg. 3(8)](https://www.legislation.gov.uk/uksi/2015/966/regulation/3/8) omitted (25.5.2018) by virtue of [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 383(b)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/383/b) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^c22489401]: Marginal citation: [S.I. 2013/1478](https://www.legislation.gov.uk/uksi/2013/1478).
 

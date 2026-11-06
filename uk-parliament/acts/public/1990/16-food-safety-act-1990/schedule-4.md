@@ -55,7 +55,7 @@ TABLE A
 | section 73(2) (qualification of officers) | section 5(6) |
 | section 76(2) (public analysts) | section 27(2) |
 | section 79(5) (form of certificate) | section 49(2) |
-| section 119 ( EU[^key-359760d8ae21732919a8329ddd35dde0] provisions) | section 17(2) |
+| section 119 ( EU[^c-359760d8ae21732919a8329ddd35dde0] provisions) | section 17(2) |
 
 ### Regulations under the 1956 Act
 
@@ -99,7 +99,7 @@ TABLE B
 
 ## Annotations
 
-[^key-359760d8ae21732919a8329ddd35dde0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-359760d8ae21732919a8329ddd35dde0]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c10206191]: Marginal citation: [1983 c. 37](https://www.legislation.gov.uk/ukpga/1983/37).
 

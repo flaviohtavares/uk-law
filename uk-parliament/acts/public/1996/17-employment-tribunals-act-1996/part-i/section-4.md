@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Composition of tribunals.[^key-1855412e911784d623c108930c02a671]
+## 4. Composition of tribunals.[^c-1855412e911784d623c108930c02a671]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1855412e911784d623c108930c02a671]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1996/17/section/4) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/35/2), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1194/regulation/3))
+[^c-1855412e911784d623c108930c02a671]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1996/17/section/4) substituted (7.11.2023) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2022/35/section/35/2), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/1194/regulation/3))

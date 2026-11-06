@@ -24,11 +24,11 @@ summary: ''
 
 (2) The amount of relief is allowed as a deduction in calculating the profits of the qualifying business for corporation tax purposes (subject to subsections (3) and (4)).
 
-(3) If the employing company is a company with investment business (as defined in section 1218B[^key-0baca2b6250aa8ab6e22e70af79322e0]), the amount of relief is treated as expenses of management of the company.
+(3) If the employing company is a company with investment business (as defined in section 1218B[^c-0baca2b6250aa8ab6e22e70af79322e0]), the amount of relief is treated as expenses of management of the company.
 
 But this subsection does not apply if the qualifying business is a property business (in which case subsection (2) applies instead).
 
-(4)[^key-b30fe8276cde00b596b5dffb92ab068c] If—
+(4)[^c-b30fe8276cde00b596b5dffb92ab068c] If—
 
 - (a) the employing company is a company in relation to which the I - E rules apply, and
 - (b) the relief is referable, in accordance with Chapter 4 of Part 2 of FA 2012, to the employing company's basic life assurance and general annuity business,
@@ -39,6 +39,6 @@ the amount of relief is treated for the purposes of section 76 of that Act as or
 
 ## Annotations
 
-[^key-0baca2b6250aa8ab6e22e70af79322e0]: Textual amendment: Words in s. 1021(3) substituted (with effect in accordance with Sch. 18 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 18 paras. 21(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/21/2), [22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/22); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
+[^c-0baca2b6250aa8ab6e22e70af79322e0]: Textual amendment: Words in s. 1021(3) substituted (with effect in accordance with Sch. 18 para. 23 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 18 paras. 21(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/21/2), [22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/18/paragraph/22); [S.I. 2013/1817](https://www.legislation.gov.uk/uksi/2013/1817), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/1817/article/2/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(3)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/3)
 
-[^key-b30fe8276cde00b596b5dffb92ab068c]: Textual amendment: S. 1021(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 189](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/189)
+[^c-b30fe8276cde00b596b5dffb92ab068c]: Textual amendment: S. 1021(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 189](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/189)

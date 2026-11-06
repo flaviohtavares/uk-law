@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Child witnesses under the 1995 Act: exception to presumption in favour of special measures[^key-0e2411ca2675488566ed0422e65c2b53][^key-f96df869dc4cd59aecb506821b088c70]
+## 102. Child witnesses under the 1995 Act: exception to presumption in favour of special measures[^c-0e2411ca2675488566ed0422e65c2b53][^c-f96df869dc4cd59aecb506821b088c70]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e2411ca2675488566ed0422e65c2b53]: Commencement: S. 102 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-0e2411ca2675488566ed0422e65c2b53]: Commencement: S. 102 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-f96df869dc4cd59aecb506821b088c70]: Commencement: S. 102 in force at 30.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-f96df869dc4cd59aecb506821b088c70]: Commencement: S. 102 in force at 30.3.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

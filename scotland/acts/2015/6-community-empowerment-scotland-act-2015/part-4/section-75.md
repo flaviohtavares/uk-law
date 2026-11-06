@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Parts 2, 3 and 3A of Land Reform (Scotland) Act 2003: mediation[^key-b5d49438545719b0e4e486a91b6721d1][^key-2cab005290e276c8ffd484f0f90e37fd]
+## 75. Parts 2, 3 and 3A of Land Reform (Scotland) Act 2003: mediation[^c-b5d49438545719b0e4e486a91b6721d1][^c-2cab005290e276c8ffd484f0f90e37fd]
 
 *Extent: S*
 
@@ -65,6 +65,6 @@ Before section 98 of the 2003 Act, insert—
 
 ## Annotations
 
-[^key-b5d49438545719b0e4e486a91b6721d1]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2015/6/section/75) in force at 15.4.2016 for specified purposes by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-b5d49438545719b0e4e486a91b6721d1]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2015/6/section/75) in force at 15.4.2016 for specified purposes by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
 
-[^key-2cab005290e276c8ffd484f0f90e37fd]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2015/6/section/75) in force at 27.6.2018 by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/139/article/2/b)
+[^c-2cab005290e276c8ffd484f0f90e37fd]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2015/6/section/75) in force at 27.6.2018 by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/139/article/2/b)

@@ -24,7 +24,7 @@ Regulation 48
 
 ### PART 1 — The Marketing of Vegetable Plant Material Regulations 1995
 
-**1.**[^key-4b124f018999737ebd984ba169ef1de9] (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23946371] are amended as follows.
+**1.**[^c-4b124f018999737ebd984ba169ef1de9] (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23946371] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1), after the definition of “Directive [2008/72/EC](https://www.legislation.gov.uk/european/directive/2008/0072)” insert—
 
@@ -39,7 +39,7 @@ Regulation 48
 
 ### PART 2 — The Marketing of Ornamental Plant Propagating Material Regulations 1999
 
-**2.**[^key-61e932ad950865ecedcce673456b2c0b] (1) The Marketing of Ornamental Plant Propagating Materials Regulations 1999 [^c23946391] are amended as follows.
+**2.**[^c-61e932ad950865ecedcce673456b2c0b] (1) The Marketing of Ornamental Plant Propagating Materials Regulations 1999 [^c23946391] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1)—
 
@@ -74,7 +74,7 @@ Regulation 48
 
 ### PART 3 — The Forest Reproductive Material (Great Britain) Regulations 2002
 
-**3.**[^key-25d3f73123babf6feec577409a47d06e] (1) The Forest Reproductive Material (Great Britain) Regulations 2002 [^c23946411] are amended as follows.
+**3.**[^c-25d3f73123babf6feec577409a47d06e] (1) The Forest Reproductive Material (Great Britain) Regulations 2002 [^c23946411] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (2)—
 
@@ -87,15 +87,15 @@ Regulation 48
 
 ### PART 4 — The Potatoes Originating in Egypt (Scotland) Regulations 2004
 
-**4.**[^key-a551ac8e0a17c8bf3a6e70d7ee8ab6d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a551ac8e0a17c8bf3a6e70d7ee8ab6d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 5 — The Plant Health (Potatoes) (Scotland) Order 2006
 
-**5.**[^key-90ff07acabbcf76a143933de23c7c95b] In the Plant Health (Potatoes) (Scotland) Order 2006 [^c23946441], in article 2 (interpretation), in paragraph (1), in the definition of “inspector”, for the words from “a person” to the end substitute “ a plant health inspector for the purposes of the Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 ”.
+**5.**[^c-90ff07acabbcf76a143933de23c7c95b] In the Plant Health (Potatoes) (Scotland) Order 2006 [^c23946441], in article 2 (interpretation), in paragraph (1), in the definition of “inspector”, for the words from “a person” to the end substitute “ a plant health inspector for the purposes of the Plant Health (Official Controls and Miscellaneous Provisions) (Scotland) Regulations 2019 ”.
 
 ### PART 6 — The Plant Health (Fees) (Scotland) Regulations 2008
 
-**6.**[^key-ab68ecc8a1128a5dd398f805245e154e] (1) The Plant Health (Fees) (Scotland) Regulations 2008 [^c23946451] are amended as follows.
+**6.**[^c-ab68ecc8a1128a5dd398f805245e154e] (1) The Plant Health (Fees) (Scotland) Regulations 2008 [^c23946451] are amended as follows.
 
 (2) In regulation 2 (interpretation)—
 
@@ -125,11 +125,11 @@ Regulation 48
 
 ### PART 7 — The Waste Management Licensing (Scotland) Regulations 2011
 
-**7.**[^key-1f9eb5751594ef2d856c148d7822fb5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1f9eb5751594ef2d856c148d7822fb5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 8 — The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014
 
-**8.**[^key-e7ccaeb907a096dc4942f74069653578] (1) The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 [^c23946501] are amended as follows.
+**8.**[^c-e7ccaeb907a096dc4942f74069653578] (1) The Plant Health (Import Inspection Fees) (Scotland) Regulations 2014 [^c23946501] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1)—
 
@@ -165,7 +165,7 @@ Regulation 48
 
 ### PART 9 — The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015
 
-**9.**[^key-36a2a1d94af901b5422d1ba627708f3b] (1) The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 [^c23946531] are amended as follows.
+**9.**[^c-36a2a1d94af901b5422d1ba627708f3b] (1) The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 [^c23946531] are amended as follows.
 
 (2) In regulation 2 (interpretation)—
 
@@ -244,7 +244,7 @@ Regulation 48
 
 ### PART 10 — The Seed Potatoes (Scotland) Regulations 2015
 
-**10.**[^key-356673eda0b80be0200757cc48e4354d] (1) The Seed Potatoes (Scotland) Regulations 2015 [^c23946571] are amended as follows.
+**10.**[^c-356673eda0b80be0200757cc48e4354d] (1) The Seed Potatoes (Scotland) Regulations 2015 [^c23946571] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1)—
 
@@ -282,7 +282,7 @@ Regulation 48
 
 ### PART 11 — The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017
 
-**11.**[^key-76a9e904f9b2a0e7e995ae8ea23a8218] (1) The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 [^c23946591] are amended as follows.
+**11.**[^c-76a9e904f9b2a0e7e995ae8ea23a8218] (1) The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 [^c23946591] are amended as follows.
 
 (2) In regulation 2 (interpretation), in paragraph (1), after the definition of “Directive [2001/18/EC](https://www.legislation.gov.uk/european/directive/2001/0018)” insert—
 
@@ -296,7 +296,7 @@ Regulation 48
 
 ### PART 12 — The Plant Health (Export Certification) (Scotland) Order 2018
 
-**12.**[^key-6a32dc31defc84d6863fbef2017da2f8] (1) The Plant Health (Export Certification) (Scotland) Order 2018 [^c23946601] is amended as follows.
+**12.**[^c-6a32dc31defc84d6863fbef2017da2f8] (1) The Plant Health (Export Certification) (Scotland) Order 2018 [^c23946601] is amended as follows.
 
 (2) In article 2 (interpretation)—
 
@@ -321,29 +321,29 @@ Regulation 48
 
 ## Annotations
 
-[^key-4b124f018999737ebd984ba169ef1de9]: Commencement: Sch. 5 para. 1 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-4b124f018999737ebd984ba169ef1de9]: Commencement: Sch. 5 para. 1 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946371]: Marginal citation: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652); relevant amending instruments are [S.S.I. 2007/133](https://www.legislation.gov.uk/ssi/2007/133), [S.S.I. 2014/111](https://www.legislation.gov.uk/ssi/2014/111) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
 [^c23946381]: Marginal citation: OJ L 317, 23.11.2016, p.4, as last amended by Regulation (EU) 2017/625 (OJ L 95, 7.4.2017, p.1) with effect from 14 December 2019.
 
-[^key-61e932ad950865ecedcce673456b2c0b]: Commencement: Sch. 5 para. 2 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-61e932ad950865ecedcce673456b2c0b]: Commencement: Sch. 5 para. 2 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946391]: Marginal citation: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801); relevant amending instrument is [S.S.I. 2018/284](https://www.legislation.gov.uk/ssi/2018/284).
 
 [^c23946401]: Marginal citation: S.S.I. 2019/\[  \].
 
-[^key-25d3f73123babf6feec577409a47d06e]: Commencement: Sch. 5 para. 3 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-25d3f73123babf6feec577409a47d06e]: Commencement: Sch. 5 para. 3 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946411]: Marginal citation: [S.I. 2002/3026](https://www.legislation.gov.uk/uksi/2002/3026); relevant amending instrument is [S.I. 2014/1833](https://www.legislation.gov.uk/uksi/2014/1833).
 
-[^key-a551ac8e0a17c8bf3a6e70d7ee8ab6d9]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/4) revoked (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2020/176/schedule)
+[^c-a551ac8e0a17c8bf3a6e70d7ee8ab6d9]: Textual amendment: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/4) revoked (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2020/176/schedule)
 
-[^key-90ff07acabbcf76a143933de23c7c95b]: Commencement: Sch. 5 para. 5 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-90ff07acabbcf76a143933de23c7c95b]: Commencement: Sch. 5 para. 5 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946441]: Marginal citation: [S.S.I. 2006/319](https://www.legislation.gov.uk/ssi/2006/319), to which there are amendments not relevant to these Regulations.
 
-[^key-ab68ecc8a1128a5dd398f805245e154e]: Commencement: Sch. 5 para. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-ab68ecc8a1128a5dd398f805245e154e]: Commencement: Sch. 5 para. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946451]: Marginal citation: [S.S.I. 2008/153](https://www.legislation.gov.uk/ssi/2008/153), as amended by [S.S.I. 2010/207](https://www.legislation.gov.uk/ssi/2010/207) and [S.S.I. 2019/124](https://www.legislation.gov.uk/ssi/2019/124).
 
@@ -353,9 +353,9 @@ Regulation 48
 
 [^c23946481]: Marginal citation: S.S.I. 2019/\[ \].
 
-[^key-1f9eb5751594ef2d856c148d7822fb5d]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-1f9eb5751594ef2d856c148d7822fb5d]: Textual amendment: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2019/421/schedule/5/paragraph/7) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-e7ccaeb907a096dc4942f74069653578]: Commencement: Sch. 5 para. 8 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-e7ccaeb907a096dc4942f74069653578]: Commencement: Sch. 5 para. 8 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946501]: Marginal citation: [S.S.I. 2014/338](https://www.legislation.gov.uk/ssi/2014/338), to which there are amendments not relevant to these Regulations.
 
@@ -363,7 +363,7 @@ Regulation 48
 
 [^c23946521]: Marginal citation: OJ L 319, 10.12.2019, p.1.
 
-[^key-36a2a1d94af901b5422d1ba627708f3b]: Commencement: Sch. 5 para. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-36a2a1d94af901b5422d1ba627708f3b]: Commencement: Sch. 5 para. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946531]: Marginal citation: [S.I. 2015/350](https://www.legislation.gov.uk/uksi/2015/350), to which there are amendments not relevant to these Regulations. [S.I. 2015/350](https://www.legislation.gov.uk/uksi/2015/350) is also prospectively amended by [S.S.I. 2019/130](https://www.legislation.gov.uk/ssi/2019/130), from “exit day” within the meaning of section 20 of the [European Union (Withdrawal) Act 2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
@@ -373,17 +373,17 @@ Regulation 48
 
 [^c23946561]: Marginal citation: [S.I. 2005/2517](https://www.legislation.gov.uk/uksi/2005/2517), as last relevantly amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). [S.I. 2005/2517](https://www.legislation.gov.uk/uksi/2005/2517) is revoked by these Regulations, but transitional provisions at regulations 50(1) and 51(1) of these Regulations stipulate that licences granted under articles 38 and 39 of [S.I. 2005/2517](https://www.legislation.gov.uk/uksi/2005/2517) continue to have effect temporarily.
 
-[^key-356673eda0b80be0200757cc48e4354d]: Commencement: Sch. 5 para. 10 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-356673eda0b80be0200757cc48e4354d]: Commencement: Sch. 5 para. 10 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946571]: Marginal citation: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395), to which there are amendments not relevant to these Regulations.
 
 [^c23946581]: Marginal citation: S.S.I. 2019/\[ \].
 
-[^key-76a9e904f9b2a0e7e995ae8ea23a8218]: Commencement: Sch. 5 para. 11 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-76a9e904f9b2a0e7e995ae8ea23a8218]: Commencement: Sch. 5 para. 11 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946591]: Marginal citation: [S.S.I. 2017/177](https://www.legislation.gov.uk/ssi/2017/177), to which there are amendments not relevant to these Regulations.
 
-[^key-6a32dc31defc84d6863fbef2017da2f8]: Commencement: Sch. 5 para. 12 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-6a32dc31defc84d6863fbef2017da2f8]: Commencement: Sch. 5 para. 12 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946601]: Marginal citation: [S.S.I. 2018/132](https://www.legislation.gov.uk/ssi/2018/132).
 

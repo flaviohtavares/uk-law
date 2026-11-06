@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Annual rate of child pension: long-term[^key-ab7876ac37c2d18856648d6206d3f684]
+## 148. Annual rate of child pension: long-term[^c-ab7876ac37c2d18856648d6206d3f684]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7876ac37c2d18856648d6206d3f684]: Commencement: [Reg. 148](https://www.legislation.gov.uk/ssi/2014/292/regulation/148) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ab7876ac37c2d18856648d6206d3f684]: Commencement: [Reg. 148](https://www.legislation.gov.uk/ssi/2014/292/regulation/148) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

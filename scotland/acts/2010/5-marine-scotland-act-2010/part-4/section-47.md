@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Fixed monetary penalties: procedure[^key-072652d84c7f2175de7effe103619962][^M_C_80a6d492-6382-4cf7-b171-72e4b80d5044]
+## 47. Fixed monetary penalties: procedure[^c-072652d84c7f2175de7effe103619962][^M_C_80a6d492-6382-4cf7-b171-72e4b80d5044]
 
 *Extent: S*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-072652d84c7f2175de7effe103619962]: Commencement: S. 47 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-072652d84c7f2175de7effe103619962]: Commencement: S. 47 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
 [^M_C_80a6d492-6382-4cf7-b171-72e4b80d5044]: Modification: Ss. 46-50 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [14](https://www.legislation.gov.uk/ssi/2020/316/article/14)

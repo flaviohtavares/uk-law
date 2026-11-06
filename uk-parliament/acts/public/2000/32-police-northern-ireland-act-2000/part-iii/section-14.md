@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0ac011273022af1685fba795a396e0e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this Part—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ac011273022af1685fba795a396e0e0]: Textual amendment: S. 14(1)-(4) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)
+[^c-0ac011273022af1685fba795a396e0e0]: Textual amendment: S. 14(1)-(4) repealed (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/nia/2011/24/schedule/8/part/2); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/142/article/2/e)

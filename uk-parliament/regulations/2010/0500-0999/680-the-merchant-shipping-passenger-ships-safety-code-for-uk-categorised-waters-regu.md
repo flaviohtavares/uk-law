@@ -50,18 +50,18 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 86(4) of that Act the Secretary of State has consulted the persons referred to in that section.
 
-## 1. Citation and commencement[^key-92de5f3fc76c38ba6045e75c4dc49fcc]
+## 1. Citation and commencement[^c-92de5f3fc76c38ba6045e75c4dc49fcc]
 
 (1) These Regulations may be cited as the Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010.
 
 (2) These Regulations come into force on 6th April 2010.
 
-## 2. Interpretation[^key-3b7f070fd734f897d106ece582264c09]
+## 2. Interpretation[^c-3b7f070fd734f897d106ece582264c09]
 
 In these Regulations, save where the context otherwise requires—
 
 - “the 1995 Act” means the Merchant Shipping Act 1995;
-- “certifying authority” means the Secretary of State, one of the organisations which has an agreement with the Secretary of State pursuant to Article 5(2) of Directive[^key-1f03eb181f468bc9fc02fe6605cd3402] [2009/15/EC](https://www.legislation.gov.uk/european/directive/2009/0015) of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations or the Sea Fish Industry Authority;
+- “certifying authority” means the Secretary of State, one of the organisations which has an agreement with the Secretary of State pursuant to Article 5(2) of Directive[^c-1f03eb181f468bc9fc02fe6605cd3402] [2009/15/EC](https://www.legislation.gov.uk/european/directive/2009/0015) of the European Parliament and of the Council of 23rd April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations or the Sea Fish Industry Authority;
 - “mandatory safety requirements”, in relation to a ship, means the requirements identified as such in the Safety Code**,** which include requirements that are concerned with the operation of the ship;
 - “MCA” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
 - “Merchant Shipping Notice” means a notice described as such and issued by the MCA, and a reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is stated to be considered by the Secretary of State to be relevant from time to time;
@@ -73,13 +73,13 @@ In these Regulations, save where the context otherwise requires—
 - “Sea Fish Industry Authority” means the body by that name established by section 1 of the Fisheries Act 1981[^f00003]; and
 - “surveyor” means a surveyor of ships and “survey” means a survey carried out by a surveyor.
 
-## 3. Application[^key-3f2179e520366699b2a81d27b7ba7bbd]
+## 3. Application[^c-3f2179e520366699b2a81d27b7ba7bbd]
 
 (1) Subject to paragraph (2), these Regulations apply to new passenger ships engaged only on voyages in UK categorised waters.
 
 (2) These Regulations do not apply to—
 
-- (a) high speed craft as defined in regulation 3(1) of the Merchant Shipping (High Speed Craft) Regulations 2022[^key-9ea5df5cb6c7b6255dd0b0814cff67b1];
+- (a) high speed craft as defined in regulation 3(1) of the Merchant Shipping (High Speed Craft) Regulations 2022[^c-9ea5df5cb6c7b6255dd0b0814cff67b1];
 - (b) any ship—
   - (i) the keel of which was laid, or which had reached a similar stage of construction, on a day that falls within the period of two years prior to the operative date;
   - (ii) in respect of which the Secretary of State has issued a determination in writing to the effect that the ship cannot reasonably be expected to comply with the mandatory safety requirements; and
@@ -92,7 +92,7 @@ In these Regulations, save where the context otherwise requires—
   - (i) that was the subject of a major modification commenced on a day that falls within the period of two years prior to the operative date;
   - (ii) in respect of which the Secretary of State has issued a determination in writing to the effect that the ship cannot reasonably be expected to comply with the mandatory safety requirements; and
   - (iii) which is made subject to an initial survey under regulation 4(a) of the 1995 Regulations and in respect of which, in consequence of the completion of that survey, a passenger certificate was issued not more than two years after the day that major modification commenced.
-- (e)[^key-713659265381d85f3175d79868bec8ce] any vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply
+- (e)[^c-713659265381d85f3175d79868bec8ce] any vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply
 
 (3) For the purpose of this regulation—
 
@@ -106,7 +106,7 @@ In these Regulations, save where the context otherwise requires—
 - (h) “passenger ship” means a ship carrying more than 12 passengers, however propelled; and
 - (i) “similar stage of construction”, in relation to a ship, means that construction identifiable with a specific ship has begun and assembly of that ship has incorporated 50 tonnes of structural material or 1% of the estimated mass of all structural material, whichever is less.
 
-## 4. Exemptions[^key-b222d357aabb215d57ef9052d53494ef]
+## 4. Exemptions[^c-b222d357aabb215d57ef9052d53494ef]
 
 (1) The Secretary of State may, on application made by the owner or master of a ship, grant exemptions from the requirements set out in regulation 6, 7, 10 or 11 or from all or any of the mandatory safety requirements (as are specified in the exemption) on such terms (if any) as the Secretary of State may so specify and may, subject to giving reasonable notice, alter or cancel any such exemption.
 
@@ -118,7 +118,7 @@ In these Regulations, save where the context otherwise requires—
 
 does not extend to the requirements the subject of the exemption, but does extend to any terms specified by the Secretary of State as terms to which the exemption is subject.
 
-## 5. Equivalents[^key-029fde7c88497589837fa09739ed8d3d]
+## 5. Equivalents[^c-029fde7c88497589837fa09739ed8d3d]
 
 (1) The Secretary of State may, on application made by the owner or master of a ship, permit an alternative to that required by any mandatory safety requirement if that alternative is at least as effective as that required by that mandatory safety requirement.
 
@@ -126,7 +126,7 @@ does not extend to the requirements the subject of the exemption, but does exten
 
 (3) A permission given under paragraph (1) is valid only if it is given in writing and specifies the date on which it takes effect.
 
-## 6. Requirement for a passenger ship safety certificate – initial survey[^key-654c6f013822bc8f291eb5b73a34d0fa]
+## 6. Requirement for a passenger ship safety certificate – initial survey[^c-654c6f013822bc8f291eb5b73a34d0fa]
 
 (1) Subject to regulation 4, a ship must not—
 
@@ -150,7 +150,7 @@ unless the requirements set out in paragraph (2) are met.
 - (a) the ship the subject of the Declaration has been constructed in accordance with the construction standards of that authority, and
 - (b) the workmanship of all the parts of the ship and its equipment is in all respects satisfactory.
 
-## 7. Requirement for a passenger ship safety certificate – renewal survey[^key-a40142c6c0e6bb736ec0d5fcdc1cf95f]
+## 7. Requirement for a passenger ship safety certificate – renewal survey[^c-a40142c6c0e6bb736ec0d5fcdc1cf95f]
 
 (1) Subject to regulation 4, a ship must not—
 
@@ -174,9 +174,9 @@ after the date of expiry of a passenger ship safety certificate issued in respec
 - (a) the ship the subject of the Declaration fully complies with the construction standards of that authority, and
 - (b) the ship is fit for the purpose for which it is intended.
 
-## 8. Issue of a passenger ship safety certificate[^key-33dc285ea40a8c08786b3b0bde7d03c9]
+## 8. Issue of a passenger ship safety certificate[^c-33dc285ea40a8c08786b3b0bde7d03c9]
 
-(1) Subject to the payment of any fee due under the Merchant Shipping (Fees) Regulations 2018[^key-0f684ea2c4e290cdc4ddc6caf220feb0], on being notified by a surveyor that the surveyor—
+(1) Subject to the payment of any fee due under the Merchant Shipping (Fees) Regulations 2018[^c-0f684ea2c4e290cdc4ddc6caf220feb0], on being notified by a surveyor that the surveyor—
 
 - (a) has carried out an initial survey or a renewal survey in respect of a ship to which these Regulations apply, and
 - (b) is satisfied at the date of the survey that the requirements of paragraph (2)(b) of regulation 6 or 7, as the case may be, are met,
@@ -188,7 +188,7 @@ the Secretary of State must issue a passenger ship safety certificate in respect
 - (a) “initial survey” means a survey carried out under regulation 6; and
 - (b) “renewal survey” means a survey carried out under regulation 7.
 
-## 9. Passenger ship safety certificate conditions[^key-19852b5b1cca75747b78c1f7182ab063]
+## 9. Passenger ship safety certificate conditions[^c-19852b5b1cca75747b78c1f7182ab063]
 
 The Secretary of State may issue a passenger ship safety certificate subject to conditions—
 
@@ -196,7 +196,7 @@ The Secretary of State may issue a passenger ship safety certificate subject to 
 - (b) limiting the number of passengers the ship may carry; or
 - (c) which the Secretary of State considers appropriate for the purpose of securing and maintaining the safety of the ship.
 
-## 10. Requirement for a passenger ship safety certificate – annual survey[^key-8162b1972138afc859ddb2d658515256]
+## 10. Requirement for a passenger ship safety certificate – annual survey[^c-8162b1972138afc859ddb2d658515256]
 
 (1) Subject to regulation 4, a ship must not—
 
@@ -225,7 +225,7 @@ after the end of any annual survey period for the ship unless the requirements s
 - “anniversary date”, in relation to a ship, means the day and month each year which corresponds to the date of expiry of the passenger ship safety certificate which has been issued and which is still valid in respect of that ship; and
 - “annual survey period” means the period of three months ending on the anniversary date.
 
-## 11. Safety management system[^key-ccff3cb58766f48f3887bd6baa9fd0bc]
+## 11. Safety management system[^c-ccff3cb58766f48f3887bd6baa9fd0bc]
 
 (1) A ship must not continue in service past a date when a safety management system in-service verification is carried out by a surveyor unless paragraph (2) or (3) is satisfied.
 
@@ -238,7 +238,7 @@ after the end of any annual survey period for the ship unless the requirements s
 
 (4) A person must not intentionally obstruct or impede a surveyor seeking to carry out a safety management system in-service verification on a ship.
 
-## 12. Duration and validity of passenger ship safety certificate[^key-f20b386b20ef587adcc30cf2f8078527]
+## 12. Duration and validity of passenger ship safety certificate[^c-f20b386b20ef587adcc30cf2f8078527]
 
 (1) Subject to paragraphs (2) to (4), a passenger ship safety certificate issued in respect of a ship is valid for such a period as is specified in the certificate, not exceeding 5 years beginning with the date of the relevant initial or renewal survey carried out under regulation 6 or 7.
 
@@ -257,13 +257,13 @@ after the end of any annual survey period for the ship unless the requirements s
 - (c) during any period, following the end of the annual survey period referred to in regulation 10 relevant to the ship, while the requirements set out in regulation 10(2) are not met; or
 - (d) during any period, following the date on which a safety management system in-service verification is carried out in respect of the ship, while neither paragraph (2) nor paragraph (3) of regulation 11 is satisfied.
 
-## 13. Suspension of passenger ship safety certificate[^key-7ffe6851de8de19ad101e472d0987574]
+## 13. Suspension of passenger ship safety certificate[^c-7ffe6851de8de19ad101e472d0987574]
 
 (1) The Secretary of State may suspend a passenger ship safety certificate where the Secretary of State has reason to believe that since the completion of any survey required by or under these Regulations, the structure, equipment or machinery of the ship has sustained damage or is otherwise deficient.
 
 (2) Immediately on suspending a passenger ship safety certificate under paragraph (1), the Secretary of State must give notice of the suspension to the owner and the master of the ship.
 
-## 14. Cancellation of passenger ship safety certificate[^key-dd2f370eec807a4636d7eb2748048993]
+## 14. Cancellation of passenger ship safety certificate[^c-dd2f370eec807a4636d7eb2748048993]
 
 (1) The Secretary of State may cancel a passenger ship safety certificate where the Secretary of State has reason to believe that—
 
@@ -272,7 +272,7 @@ after the end of any annual survey period for the ship unless the requirements s
 
 (2) Immediately on cancelling a passenger ship safety certificate under paragraph (1), the Secretary of State must give notice of the cancellation to the owner and the master of the ship.
 
-## 15. Arbitration[^key-e9868b70b3ff7b6916d073c8ffd1c9a7]
+## 15. Arbitration[^c-e9868b70b3ff7b6916d073c8ffd1c9a7]
 
 (1) Paragraph (2) applies where the owner or the master of a ship is dissatisfied with—
 
@@ -304,11 +304,11 @@ but this paragraph does not apply in relation to Scotland.
 
 (8) The rules for arbitration set out in Merchant Shipping Notice No. M.1613 apply unless alternative procedures are agreed between the person who served the notice and the Secretary of State or surveyor concerned before the commencement of arbitration proceedings.
 
-## 16. Availability of passenger ship safety certificate[^key-d6477a2ded71a55d66223e2a451cf3f2]
+## 16. Availability of passenger ship safety certificate[^c-d6477a2ded71a55d66223e2a451cf3f2]
 
 The owner and the master of a ship must ensure that the passenger ship safety certificate issued in respect of the ship and any survey report issued under regulation 19(3) are readily available on board the ship for examination by a surveyor at all times.
 
-## 17. Continuing responsibilities of the owner and the master[^key-b06de51b4f276c02edeb1f78739a9618]
+## 17. Continuing responsibilities of the owner and the master[^c-b06de51b4f276c02edeb1f78739a9618]
 
 (1) The owner and the master of a ship must ensure that—
 
@@ -326,7 +326,7 @@ which substantially affects the safety of the ship the owner and the master must
 
 (4) Whenever an accident or defect is reported to the Secretary of State in accordance with paragraph (3), the Secretary of State must cause an investigation to be initiated to determine whether an additional survey is necessary.
 
-## 18. Procedure to be adopted when a ship is deficient[^key-98b897de28cc73694cc36c5a1b7c1341]
+## 18. Procedure to be adopted when a ship is deficient[^c-98b897de28cc73694cc36c5a1b7c1341]
 
 (1) Where a surveyor has—
 
@@ -338,7 +338,7 @@ the Secretary of State may suspend the passenger ship safety certificate issued 
 
 (2) Immediately on suspending a passenger ship safety certificate under paragraph (1), the Secretary of State must give notice of the suspension to the owner and the master of the ship and the surveyor in question.
 
-## 19. Additional surveys[^key-9bcad215f5f21592e1e808310f788d38]
+## 19. Additional surveys[^c-9bcad215f5f21592e1e808310f788d38]
 
 (1) This regulation applies to a ship where—
 
@@ -357,13 +357,13 @@ the Secretary of State may suspend the passenger ship safety certificate issued 
 
 (4) Where an owner or master of a ship serves a written request upon the Secretary of State seeking advice as to whether a repair or renewal effected or intended to be effected in respect of that ship is an important repair or renewal for the purposes of this regulation, that repair or renewal is to be regarded as not an important repair or renewal for those purposes unless the Secretary of State advises otherwise within 21 days of receiving that request.
 
-## 20. Surrender of passenger ship safety certificate[^key-41ca0de0babb4bb5099abcd5047e9b21]
+## 20. Surrender of passenger ship safety certificate[^c-41ca0de0babb4bb5099abcd5047e9b21]
 
 (1) The Secretary of State may require that a passenger ship safety certificate, which has expired or has been suspended or cancelled, is to be surrendered within such time and in such manner as the Secretary of State may in writing direct.
 
 (2) No person may fail to surrender a passenger ship safety certificate where required to do so under paragraph (1).
 
-## 21. Miscellaneous provisions relating to Partial Declarations and to certificates[^key-3b7e1fd06b547d2a6b5cab2c05929161]
+## 21. Miscellaneous provisions relating to Partial Declarations and to certificates[^c-3b7e1fd06b547d2a6b5cab2c05929161]
 
 No person may—
 
@@ -373,7 +373,7 @@ No person may—
 - (d) with intent to deceive, use or lend a Partial Declaration of Survey of a Passenger Ship or a passenger ship safety certificate or permit the same to be used by another person; or
 - (e) in Scotland, forge a Partial Declaration of Survey of a Passenger Ship or a passenger ship safety certificate.
 
-## 22. Detention[^key-502c29e1f8a9f64e9c9c0dd9633291b5]
+## 22. Detention[^c-502c29e1f8a9f64e9c9c0dd9633291b5]
 
 (1) Where a surveyor has made a determination and provided advice under regulation 18 or has clear grounds for believing that—
 
@@ -425,7 +425,7 @@ and any balance must be repaid to the first-mentioned person.
 
 (9) Section 145 of the 1995 Act (interpretation of section 144) applies for the purposes of paragraphs (6) to (8) as if references to an offence under section 131 were references to an offence under regulation 23.
 
-## 23. Offences[^key-d4410a4063dde5ec59d273b4344bd329]
+## 23. Offences[^c-d4410a4063dde5ec59d273b4344bd329]
 
 (1) Any contravention of—
 
@@ -441,7 +441,7 @@ and any balance must be repaid to the first-mentioned person.
 
 (4) Where an offence under paragraph (1) is committed, or would be committed save for the operation of paragraph (3), by any person due to the act or default of some other person, that other person is also guilty of the offence; and a person may be charged with and convicted of an offence by virtue of this paragraph whether or not proceedings are taken against the first mentioned person.
 
-## 24. Amendments[^key-12522669694a56b0c2ed929106b7a03b]
+## 24. Amendments[^c-12522669694a56b0c2ed929106b7a03b]
 
 The instruments specified in column 1 of the Schedule are amended to the extent specified in column 2.
 
@@ -455,7 +455,7 @@ Department for Transport
 
 8th March 2010
 
-## SCHEDULE — Statutory instruments amended[^key-52fb96469e01b874af647248f1d4ae8b]
+## SCHEDULE — Statutory instruments amended[^c-52fb96469e01b874af647248f1d4ae8b]
 
 Regulation 24
 
@@ -471,7 +471,7 @@ Regulation 24
 | The Merchant Shipping (Life-Saving Appliances For Passenger Ships of Classes III to VI(A)) Regulations 1999[^f00015] | In regulation 4A at the end insert—<br>“or to any passenger ship to which Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply.”. |
 | The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00016] | In regulation 4(2) (g) omit “or”.<br>After sub- paragraph (h) insert—<br>> , or<br>><br>> - (i) a passenger ship to which Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply<br>. |
 | The Merchant Shipping (Domestic Passenger Ships) (Safety Management Code) Regulations 2001[^f00017] | After regulation 3(3) add—<br>> (4) These Regulations do not apply to passenger ships to which Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply.<br>.<br>In regulation 6(3) omit paragraph (a) and in paragraph (b) omit “in accordance with paragraph (a)”. |
-| [^key-adda248589e752e0669b21e91486c637]. . . |  |
+| [^c-adda248589e752e0669b21e91486c637]. . . |  |
 | The Merchant Shipping (Bridge Visibility) (Small Passenger Ships) Regulations 2005[^f00019] | In regulation 3(1) for “paragraph (3)” substitute—<br>“paragraphs (3) and (4)”.<br>After regulation 3(3) add—<br>> (4) These Regulations do not apply to passenger ships to which Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply<br>. |
 
 EXPLANATORY NOTE
@@ -530,71 +530,71 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^f00001]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7 Part 1.
 
-[^key-92de5f3fc76c38ba6045e75c4dc49fcc]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-92de5f3fc76c38ba6045e75c4dc49fcc]: Commencement: Reg. 1 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-3b7f070fd734f897d106ece582264c09]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-3b7f070fd734f897d106ece582264c09]: Commencement: Reg. 2 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-1f03eb181f468bc9fc02fe6605cd3402]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/680/regulation/2/1) substituted (23.1.2012) by [The Merchant Shipping (Ship Inspection and Survey Organisations) (Revocation) Regulations 2011 (S.I. 2011/3056)](https://www.legislation.gov.uk/uksi/2011/3056), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3056/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/3056/schedule/paragraph/6)
+[^c-1f03eb181f468bc9fc02fe6605cd3402]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2010/680/regulation/2/1) substituted (23.1.2012) by [The Merchant Shipping (Ship Inspection and Survey Organisations) (Revocation) Regulations 2011 (S.I. 2011/3056)](https://www.legislation.gov.uk/uksi/2011/3056), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/3056/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/3056/schedule/paragraph/6)
 
 [^f00003]: Footnote: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-3f2179e520366699b2a81d27b7ba7bbd]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-3f2179e520366699b2a81d27b7ba7bbd]: Commencement: Reg. 3 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-9ea5df5cb6c7b6255dd0b0814cff67b1]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/680/regulation/3/2/a) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/13) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-9ea5df5cb6c7b6255dd0b0814cff67b1]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2010/680/regulation/3/2/a) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/13) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
-[^key-713659265381d85f3175d79868bec8ce]: Textual amendment: [Reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2010/680/regulation/3/2/e) inserted (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
+[^c-713659265381d85f3175d79868bec8ce]: Textual amendment: [Reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2010/680/regulation/3/2/e) inserted (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
 
 [^f00005]: Footnote: [S.I. 1995/1210](https://www.legislation.gov.uk/uksi/1995/1210) amended by [S.I. 1996/2418](https://www.legislation.gov.uk/uksi/1996/2418) and [2000/1234](https://www.legislation.gov.uk/uksi/2000/1234) and by other instruments not relevant to these Regulations.
 
-[^key-b222d357aabb215d57ef9052d53494ef]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-b222d357aabb215d57ef9052d53494ef]: Commencement: Reg. 4 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-029fde7c88497589837fa09739ed8d3d]: Commencement: Reg. 5 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-029fde7c88497589837fa09739ed8d3d]: Commencement: Reg. 5 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-654c6f013822bc8f291eb5b73a34d0fa]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-654c6f013822bc8f291eb5b73a34d0fa]: Commencement: Reg. 6 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-a40142c6c0e6bb736ec0d5fcdc1cf95f]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-a40142c6c0e6bb736ec0d5fcdc1cf95f]: Commencement: Reg. 7 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-33dc285ea40a8c08786b3b0bde7d03c9]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-33dc285ea40a8c08786b3b0bde7d03c9]: Commencement: Reg. 8 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-0f684ea2c4e290cdc4ddc6caf220feb0]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2010/680/regulation/8/1) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/c)
+[^c-0f684ea2c4e290cdc4ddc6caf220feb0]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2010/680/regulation/8/1) substituted (13.11.2018) by [The Merchant Shipping (Fees) Regulations 2018 (S.I. 2018/1104)](https://www.legislation.gov.uk/uksi/2018/1104), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2018/1104/regulation/7/2/c)
 
-[^key-19852b5b1cca75747b78c1f7182ab063]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-19852b5b1cca75747b78c1f7182ab063]: Commencement: Reg. 9 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-8162b1972138afc859ddb2d658515256]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-8162b1972138afc859ddb2d658515256]: Commencement: Reg. 10 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-ccff3cb58766f48f3887bd6baa9fd0bc]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-ccff3cb58766f48f3887bd6baa9fd0bc]: Commencement: Reg. 11 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-f20b386b20ef587adcc30cf2f8078527]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-f20b386b20ef587adcc30cf2f8078527]: Commencement: Reg. 12 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-7ffe6851de8de19ad101e472d0987574]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-7ffe6851de8de19ad101e472d0987574]: Commencement: Reg. 13 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-dd2f370eec807a4636d7eb2748048993]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-dd2f370eec807a4636d7eb2748048993]: Commencement: Reg. 14 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-e9868b70b3ff7b6916d073c8ffd1c9a7]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-e9868b70b3ff7b6916d073c8ffd1c9a7]: Commencement: Reg. 15 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-d6477a2ded71a55d66223e2a451cf3f2]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-d6477a2ded71a55d66223e2a451cf3f2]: Commencement: Reg. 16 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-b06de51b4f276c02edeb1f78739a9618]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-b06de51b4f276c02edeb1f78739a9618]: Commencement: Reg. 17 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-98b897de28cc73694cc36c5a1b7c1341]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-98b897de28cc73694cc36c5a1b7c1341]: Commencement: Reg. 18 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-9bcad215f5f21592e1e808310f788d38]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-9bcad215f5f21592e1e808310f788d38]: Commencement: Reg. 19 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-41ca0de0babb4bb5099abcd5047e9b21]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-41ca0de0babb4bb5099abcd5047e9b21]: Commencement: Reg. 20 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-3b7e1fd06b547d2a6b5cab2c05929161]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-3b7e1fd06b547d2a6b5cab2c05929161]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-502c29e1f8a9f64e9c9c0dd9633291b5]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-502c29e1f8a9f64e9c9c0dd9633291b5]: Commencement: Reg. 22 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
 [^f00007]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28), section 9 and Schedule 1 paragraph 5.
 
 [^f00008]: Footnote: Cmnd. 8941.
 
-[^key-d4410a4063dde5ec59d273b4344bd329]: Commencement: Reg. 23 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-d4410a4063dde5ec59d273b4344bd329]: Commencement: Reg. 23 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-12522669694a56b0c2ed929106b7a03b]: Commencement: Reg. 24 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-12522669694a56b0c2ed929106b7a03b]: Commencement: Reg. 24 in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
-[^key-52fb96469e01b874af647248f1d4ae8b]: Commencement: Sch. in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
+[^c-52fb96469e01b874af647248f1d4ae8b]: Commencement: Sch. in force at 6.4.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/680/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 1990/660](https://www.legislation.gov.uk/uksi/1990/660).
 
@@ -614,6 +614,6 @@ These Regulations were notified in draft to the European Commission in accordanc
 
 [^f00017]: Footnote: [S.I. 2001/3209](https://www.legislation.gov.uk/uksi/2001/3209). Regulation 3 is amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302).
 
-[^key-adda248589e752e0669b21e91486c637]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/680/schedule) omitted (31.7.2020) by virtue of [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/673/schedule/paragraph/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
+[^c-adda248589e752e0669b21e91486c637]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/680/schedule) omitted (31.7.2020) by virtue of [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. para. 15](https://www.legislation.gov.uk/uksi/2020/673/schedule/paragraph/15) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
 
 [^f00019]: Footnote: [S.I. 2005/2286](https://www.legislation.gov.uk/uksi/2005/2286).

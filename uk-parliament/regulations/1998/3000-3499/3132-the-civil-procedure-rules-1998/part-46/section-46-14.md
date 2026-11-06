@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.14. Costs-only proceedings[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.14. Costs-only proceedings[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) they have failed to agree the amount of those costs; and
 - (c) no proceedings have been started.
 
-(1A)[^key-10b40f93443d6db875ebdbeceb1b22ec] This rule does not apply to a dispute to which the procedure under section 10 of Practice Direction 27B applies.
+(1A)[^c-10b40f93443d6db875ebdbeceb1b22ec] This rule does not apply to a dispute to which the procedure under section 10 of Practice Direction 27B applies.
 
 (2) Where this rule applies, the procedure set out in this rule must be followed.
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) The claim form must contain or be accompanied by the agreement or confirmation.
 
-(5) In proceedings to which this rule applies the court may make an order for the payment of costs to be assessed[^key-42d73167e1545e479817e1a9a3c334b8] and/or, where appropriate, may determine the[^key-85ac77c3927a3708e01964676e1c7de1] fixed costs.
+(5) In proceedings to which this rule applies the court may make an order for the payment of costs to be assessed[^c-42d73167e1545e479817e1a9a3c334b8] and/or, where appropriate, may determine the[^c-85ac77c3927a3708e01964676e1c7de1] fixed costs.
 
 (6) Where this rule applies but the procedure set out in this rule has not been followed by a party—
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-10b40f93443d6db875ebdbeceb1b22ec]: Textual amendment: Rule 46.14(1A) inserted (31.5.2021) by [The Civil Procedure (Amendment No. 2) Rules 2021 (S.I. 2021/196)](https://www.legislation.gov.uk/uksi/2021/196), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2021/196/rule/9)
+[^c-10b40f93443d6db875ebdbeceb1b22ec]: Textual amendment: Rule 46.14(1A) inserted (31.5.2021) by [The Civil Procedure (Amendment No. 2) Rules 2021 (S.I. 2021/196)](https://www.legislation.gov.uk/uksi/2021/196), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/196/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2021/196/rule/9)
 
-[^key-42d73167e1545e479817e1a9a3c334b8]: Textual amendment: Words in rule 46.14(5) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2024/839/rule/12/2/a)
+[^c-42d73167e1545e479817e1a9a3c334b8]: Textual amendment: Words in rule 46.14(5) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [12(2)(a)](https://www.legislation.gov.uk/uksi/2024/839/rule/12/2/a)
 
-[^key-85ac77c3927a3708e01964676e1c7de1]: Textual amendment: Words in rule 46.14(5) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2024/839/rule/12/2/b)
+[^c-85ac77c3927a3708e01964676e1c7de1]: Textual amendment: Words in rule 46.14(5) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [12(2)(b)](https://www.legislation.gov.uk/uksi/2024/839/rule/12/2/b)

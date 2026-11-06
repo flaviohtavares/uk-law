@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Tenants[^key-847c90336091ea2c1e5ccdd4372ddcc7]
+## 92. Tenants[^c-847c90336091ea2c1e5ccdd4372ddcc7]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ A tenant is not eligible for a grant or loan unless the work to which the grant 
 
 ## Annotations
 
-[^key-847c90336091ea2c1e5ccdd4372ddcc7]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2006/1/section/92) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-847c90336091ea2c1e5ccdd4372ddcc7]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2006/1/section/92) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

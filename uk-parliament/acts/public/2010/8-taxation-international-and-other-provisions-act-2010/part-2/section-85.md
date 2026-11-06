@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to a scheme or arrangement if, under the scheme or arrangement, the condition in subsection (2) is met in relation to a person (“C”) who for a chargeable period has claimed, or is in a position to claim, any credit that under the arrangements is to be allowed for in respect of the payment of an amount of foreign tax (“the FT amount”)[^key-6fdcd4aced0e901a13f404a771b973c2].
+(1) This section applies to a scheme or arrangement if, under the scheme or arrangement, the condition in subsection (2) is met in relation to a person (“C”) who for a chargeable period has claimed, or is in a position to claim, any credit that under the arrangements is to be allowed for in respect of the payment of an amount of foreign tax (“the FT amount”)[^c-6fdcd4aced0e901a13f404a771b973c2].
 
-(2)[^key-a90ed3cc5e9c3cc30c39fa56b2692034] The condition is that, when C entered into the scheme or arrangement, it could reasonably be expected that the effect on the foreign-tax total of the FT amount being paid or payable would be to increase that total by less than amount X.
+(2)[^c-a90ed3cc5e9c3cc30c39fa56b2692034] The condition is that, when C entered into the scheme or arrangement, it could reasonably be expected that the effect on the foreign-tax total of the FT amount being paid or payable would be to increase that total by less than amount X.
 
-(3) In subsection (2)[^key-4c374b314c45fbefedbdc6cad9741290]—
+(3) In subsection (2)[^c-4c374b314c45fbefedbdc6cad9741290]—
 
 - “**the foreign-tax total**” means the amount found by—
   - (a) totalling the amounts of foreign tax paid or payable by the participants in respect of the transaction or transactions forming part of the scheme or arrangement, and
-  - (b) taking into account any reliefs that arise to the participants, including any reliefs arising to any one or more of the participants as a consequence of the[^M_F_5206054f-acde-4993-b0fe-6023265ea775] FT amount being paid or payable [^key-20a7b88ae4c93748a3ed6477a16fbf33]..., and
+  - (b) taking into account any reliefs that arise to the participants, including any reliefs arising to any one or more of the participants as a consequence of the[^M_F_5206054f-acde-4993-b0fe-6023265ea775] FT amount being paid or payable [^c-20a7b88ae4c93748a3ed6477a16fbf33]..., and
 - “**amount X**” means the amount allowable to C as a credit in respect of the payment of the FT amount.
 
 (4) In subsection (3)—
@@ -40,12 +40,12 @@ summary: ''
 
 ## Annotations
 
-[^key-6fdcd4aced0e901a13f404a771b973c2]: Textual amendment: Words in s. 85(1) substituted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/a)
+[^c-6fdcd4aced0e901a13f404a771b973c2]: Textual amendment: Words in s. 85(1) substituted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/a)
 
-[^key-a90ed3cc5e9c3cc30c39fa56b2692034]: Textual amendment: S. 85(2) substituted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/b)
+[^c-a90ed3cc5e9c3cc30c39fa56b2692034]: Textual amendment: S. 85(2) substituted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/b)
 
-[^key-4c374b314c45fbefedbdc6cad9741290]: Textual amendment: Words in s. 85(3) substituted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/c/i)
+[^c-4c374b314c45fbefedbdc6cad9741290]: Textual amendment: Words in s. 85(3) substituted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(c)(i)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/c/i)
 
 [^M_F_5206054f-acde-4993-b0fe-6023265ea775]: Textual amendment: Words in s. 85(3) substituted (with effect in relation to amounts of foreign tax payable on or after 21.10.2009 in accordance with [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 2(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/2/3)
 
-[^key-20a7b88ae4c93748a3ed6477a16fbf33]: Textual amendment: Words in s. 85(3) omitted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/c/ii)
+[^c-20a7b88ae4c93748a3ed6477a16fbf33]: Textual amendment: Words in s. 85(3) omitted (with effect in accordance with Sch. 11 para. 5(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 11 para. 5(1)(c)(ii)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/11/paragraph/5/1/c/ii)

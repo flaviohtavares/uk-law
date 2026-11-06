@@ -33,12 +33,12 @@ summary: ''
 - (c) sections 179A and 179B of TCGA 1992 (degrouping: reallocation of gain or loss, or rollover of gain, within group),
 - (d) Chapters 4 and 6 to 8 of Part 5 of CTA 2009 (loan relationships),
 - (e) Part 7 of that Act (derivative contracts),
-- (f) Part 8 of that Act (intangible assets), [^key-408bc151905efae693f3b57f6b3bb62f]...
-- (g) Part 5 of this Act (group relief), and[^key-42e57498539c8dd7740a4288bfad72b5]
+- (f) Part 8 of that Act (intangible assets), [^c-408bc151905efae693f3b57f6b3bb62f]...
+- (g) Part 5 of this Act (group relief), and[^c-42e57498539c8dd7740a4288bfad72b5]
 - (h) Part 5A of this Act (group relief for carried-forward losses)
 
 ## Annotations
 
-[^key-408bc151905efae693f3b57f6b3bb62f]: Textual amendment: Word in s. 601(2)(f) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 169(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/169/a)
+[^c-408bc151905efae693f3b57f6b3bb62f]: Textual amendment: Word in s. 601(2)(f) omitted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 169(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/169/a)
 
-[^key-42e57498539c8dd7740a4288bfad72b5]: Textual amendment: S. 601(2)(h) and word inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 169(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/169/b)
+[^c-42e57498539c8dd7740a4288bfad72b5]: Textual amendment: S. 601(2)(h) and word inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 169(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/169/b)

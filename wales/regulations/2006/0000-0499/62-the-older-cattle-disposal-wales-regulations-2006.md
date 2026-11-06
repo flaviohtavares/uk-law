@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Older Cattle (Disposal) (Wales) Regulations 2006 (revoked)[^key-d1ae40dd04d02f42daf5290a81125a79]
+The Older Cattle (Disposal) (Wales) Regulations 2006 (revoked)[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 Made
 
@@ -41,66 +41,66 @@ Coming into force
 
 23 January 2006
 
-[^key-d1ae40dd04d02f42daf5290a81125a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1ae40dd04d02f42daf5290a81125a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 1. Title, commencement and application[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 2. Revocation[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 3. Offences[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement and appointment of inspectors[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 4. Enforcement and appointment of inspectors[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of entry and inspectors' powers[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 5. Powers of entry and inspectors' powers[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Obstruction[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 6. Obstruction[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Notice requiring the disposal of animal by-products[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 7. Notice requiring the disposal of animal by-products[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Compliance with notices[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 8. Compliance with notices[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Penalties[^key-d1ae40dd04d02f42daf5290a81125a79]
+## 9. Penalties[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1ae40dd04d02f42daf5290a81125a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1ae40dd04d02f42daf5290a81125a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PROVISIONS OF COMMISSION REGULATION (EC) NO 716/96[^key-d1ae40dd04d02f42daf5290a81125a79]
+## SCHEDULE — PROVISIONS OF COMMISSION REGULATION (EC) NO 716/96[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 Regulation 3
 
-### PART 1 — PROVISIONS APPLICABLE TO OPERATORS OF SLAUGHTERHOUSES[^key-d1ae40dd04d02f42daf5290a81125a79]
+### PART 1 — PROVISIONS APPLICABLE TO OPERATORS OF SLAUGHTERHOUSES[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PROVISIONS APPLICABLE TO OPERATORS OF INCINERATORS OR PROCESSING PLANTS[^key-d1ae40dd04d02f42daf5290a81125a79]
+### PART II — PROVISIONS APPLICABLE TO OPERATORS OF INCINERATORS OR PROCESSING PLANTS[^c-d1ae40dd04d02f42daf5290a81125a79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1ae40dd04d02f42daf5290a81125a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1ae40dd04d02f42daf5290a81125a79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1ae40dd04d02f42daf5290a81125a79]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1), [24(e)](https://www.legislation.gov.uk/wsi/2018/968/regulation/24/e)
+[^c-d1ae40dd04d02f42daf5290a81125a79]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/wsi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/968/regulation/1), [24(e)](https://www.legislation.gov.uk/wsi/2018/968/regulation/24/e)

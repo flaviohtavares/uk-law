@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Warrants and other instruments entitling the holder to subscribe for any investment of the kind specified by article 76, 77 , 77A[^key-d2f3a588a4dd507a236c886266c6dc4a] or 78.
+(1) Warrants and other instruments entitling the holder to subscribe for any investment of the kind specified by article 76, 77 , 77A[^c-d2f3a588a4dd507a236c886266c6dc4a] or 78.
 
 (2) It is immaterial whether the investment to which the entitlement relates is in existence or identifiable.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f3a588a4dd507a236c886266c6dc4a]: Textual amendment: Word in art. 79(1) inserted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 5(f)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/5/f)
+[^c-d2f3a588a4dd507a236c886266c6dc4a]: Textual amendment: Word in art. 79(1) inserted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 5(f)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/5/f)

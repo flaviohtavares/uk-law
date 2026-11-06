@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Interim Orders by a Practice Committee[^key-fe503ad00d77b3e01604d122a3f89d92][^key-934647fc1d856843986d85f0c48c1c94]
+## 31. Interim Orders by a Practice Committee[^c-fe503ad00d77b3e01604d122a3f89d92][^c-934647fc1d856843986d85f0c48c1c94]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,6 +90,6 @@ and the decision of the court under any application under this paragraph shall b
 
 ## Annotations
 
-[^key-fe503ad00d77b3e01604d122a3f89d92]: Commencement: Art. 31 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-fe503ad00d77b3e01604d122a3f89d92]: Commencement: Art. 31 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-934647fc1d856843986d85f0c48c1c94]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2002/254/article/31) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-934647fc1d856843986d85f0c48c1c94]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2002/254/article/31) in force at 9.7.2003 as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))

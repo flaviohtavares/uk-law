@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 206. Adjournment of the hearing of an application[^key-23ec7f7201306ca1741ece99c8d929ab]
+## 206. Adjournment of the hearing of an application[^c-23ec7f7201306ca1741ece99c8d929ab]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23ec7f7201306ca1741ece99c8d929ab]: Commencement: [Rule 206](https://www.legislation.gov.uk/nisr/2026/11/rule/206) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-23ec7f7201306ca1741ece99c8d929ab]: Commencement: [Rule 206](https://www.legislation.gov.uk/nisr/2026/11/rule/206) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

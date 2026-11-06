@@ -30,7 +30,7 @@ summary: ''
 
 Legal Services, England And Wales
 
-The Legal Services Act 2007 (Claims Management Complaints) (Fees) (Amendment) Regulations 2017(revoked)[^key-c689aec6e0f9ec162b43ae50af943958]
+The Legal Services Act 2007 (Claims Management Complaints) (Fees) (Amendment) Regulations 2017(revoked)[^c-c689aec6e0f9ec162b43ae50af943958]
 
 Made
 
@@ -52,4 +52,4 @@ An impact assessment has been prepared for this instrument and can be found at w
 
 ## Annotations
 
-[^key-c689aec6e0f9ec162b43ae50af943958]: Textual amendment: Regulations revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1253/article/1), [105(k)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/k)
+[^c-c689aec6e0f9ec162b43ae50af943958]: Textual amendment: Regulations revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1253/article/1), [105(k)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/k)

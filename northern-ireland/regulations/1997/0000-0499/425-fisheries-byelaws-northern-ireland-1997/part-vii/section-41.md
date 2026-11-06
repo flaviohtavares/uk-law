@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**41.**[^key-1cb69075dfcf4f3d364b6793e6d9be24] Each net or row of nets of a single wall set net or trammel net used for the taking of trout in Lough Neagh and each net or row of nets of a single wall set net or trammel net used for the taking of freshwater fish other than trout and rainbow trout, on Lough Neagh or Upper and Lower Lough Erne, shall be marked at each end with a float not less than 30 centimetres in diameter of a bright yellow colour projecting not less than 30 centimetres above the surface of the water.
+**41.**[^c-1cb69075dfcf4f3d364b6793e6d9be24] Each net or row of nets of a single wall set net or trammel net used for the taking of trout in Lough Neagh and each net or row of nets of a single wall set net or trammel net used for the taking of freshwater fish other than trout and rainbow trout, on Lough Neagh or Upper and Lower Lough Erne, shall be marked at each end with a float not less than 30 centimetres in diameter of a bright yellow colour projecting not less than 30 centimetres above the surface of the water.
 
 ## Annotations
 
-[^key-1cb69075dfcf4f3d364b6793e6d9be24]: Commencement: S. 41 in operation at 1.11.1997, see byelaw 1
+[^c-1cb69075dfcf4f3d364b6793e6d9be24]: Commencement: S. 41 in operation at 1.11.1997, see byelaw 1

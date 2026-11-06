@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The holder of a safety certificate or a safety authorisation shall, without delay, notify the Office of Rail and Road[^key-353d5e732502f3a72738e137566d1294]—
+The holder of a safety certificate or a safety authorisation shall, without delay, notify the Office of Rail and Road[^c-353d5e732502f3a72738e137566d1294]—
 
 - (a) of any major changes—
   - (i) to the means by which he meets the requirements relating to the safety management system as set out in—
@@ -34,4 +34,4 @@ The holder of a safety certificate or a safety authorisation shall, without dela
 
 ## Annotations
 
-[^key-353d5e732502f3a72738e137566d1294]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2006/599/regulation/13) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(j)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/j)
+[^c-353d5e732502f3a72738e137566d1294]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2006/599/regulation/13) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(j)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/j)

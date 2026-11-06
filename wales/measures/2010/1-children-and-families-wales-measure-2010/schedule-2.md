@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — REPEALS[^key-88d074e93fa522a5527125967be65482]
+## SCHEDULE 2 — REPEALS[^c-88d074e93fa522a5527125967be65482]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88d074e93fa522a5527125967be65482]: Commencement: [Sch. 2](https://www.legislation.gov.uk/mwa/2010/1/schedule/2) in force at 1.4.2011 for specified purposes by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [art. 3](https://www.legislation.gov.uk/wsi/2010/2582/article/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-88d074e93fa522a5527125967be65482]: Commencement: [Sch. 2](https://www.legislation.gov.uk/mwa/2010/1/schedule/2) in force at 1.4.2011 for specified purposes by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [art. 3](https://www.legislation.gov.uk/wsi/2010/2582/article/3), [Sch. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [Sch. 3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))

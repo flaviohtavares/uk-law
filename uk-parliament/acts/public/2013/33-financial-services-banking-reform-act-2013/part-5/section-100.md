@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Power of Bank to require Regulator to refrain from specified action[^key-de9761a61f91f50fa441667cb92704f5]
+## 100. Power of Bank to require Regulator to refrain from specified action[^c-de9761a61f91f50fa441667cb92704f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ summary: ''
 
 (6) The direction may be expressed to have effect during a specified period or until revoked.
 
-(7) The Payment Systems Regulator is not required to comply with a direction under this section if or to the extent that in the opinion of the Payment Systems Regulator compliance would be incompatible with any [^key-18f87d6628824c5766e1b9a7da26f848]... international obligation of the United Kingdom.
+(7) The Payment Systems Regulator is not required to comply with a direction under this section if or to the extent that in the opinion of the Payment Systems Regulator compliance would be incompatible with any [^c-18f87d6628824c5766e1b9a7da26f848]... international obligation of the United Kingdom.
 
 ## Annotations
 
-[^key-de9761a61f91f50fa441667cb92704f5]: Commencement: S. 100 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-de9761a61f91f50fa441667cb92704f5]: Commencement: S. 100 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-18f87d6628824c5766e1b9a7da26f848]: Textual amendment: Words in s. 100(7) omitted (31.12.2020) by virtue of [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/1/paragraph/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18f87d6628824c5766e1b9a7da26f848]: Textual amendment: Words in s. 100(7) omitted (31.12.2020) by virtue of [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/1/paragraph/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

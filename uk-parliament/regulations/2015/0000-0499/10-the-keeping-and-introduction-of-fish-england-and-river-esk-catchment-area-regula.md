@@ -52,7 +52,7 @@ The Secretary of State, in exercise of the powers conferred by sections 232(1)[^
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and application[^key-0262fcbdb248198acd9ed6bfb9902849]
+### 1. Citation, commencement and application[^c-0262fcbdb248198acd9ed6bfb9902849]
 
 (1) These Regulations—
 
@@ -64,7 +64,7 @@ The Secretary of State, in exercise of the powers conferred by sections 232(1)[^
 - (a) England, and
 - (b) so much of the catchment area of the River Esk as is in Scotland.
 
-### 2. Interpretation[^key-cd00eb03ba966aa353039e7a704095ab]
+### 2. Interpretation[^c-cd00eb03ba966aa353039e7a704095ab]
 
 In these Regulations—
 
@@ -82,7 +82,7 @@ In these Regulations—
 - “vehicle” includes a trailer;
 - “vessel” includes any ship or boat or other vessel used in navigation, and any hovercraft, submersible craft or other floating craft, but does not include anything that permanently rests on, or is permanently attached to, the sea bed.
 
-### 3. Exclusions[^key-42df64455decae3c09e1988d5a10f5d3]
+### 3. Exclusions[^c-42df64455decae3c09e1988d5a10f5d3]
 
 These Regulations do not apply in relation to activities which take place—
 
@@ -93,7 +93,7 @@ These Regulations do not apply in relation to activities which take place—
 
 ## PART 2 — OFFENCES RELATING TO THE INTRODUCTION AND KEEPING OF FISH
 
-### 4. Introduction of fish[^key-e0ca322ee10c3a42457fadbf2db9fde3]
+### 4. Introduction of fish[^c-e0ca322ee10c3a42457fadbf2db9fde3]
 
 A person who, otherwise than under and in accordance with the terms of a permit granted under regulation 6 held by that person—
 
@@ -103,7 +103,7 @@ A person who, otherwise than under and in accordance with the terms of a permit 
 
 commits an offence.
 
-### 5. Keeping fish[^key-aeae600bb4edc576c32095814089fcff]
+### 5. Keeping fish[^c-aeae600bb4edc576c32095814089fcff]
 
 (1) A person who keeps in inland waters, otherwise than under and in accordance with the terms of a permit granted under regulation 6, any fish of a kind to which this regulation applies commits an offence.
 
@@ -114,12 +114,12 @@ commits an offence.
 (4) In paragraph (3) a “protected area” is—
 
 - (a) a site of special scientific interest, as defined by section 52(1) of the Wildlife and Countryside Act 1981[^f00006];
-- (b) a European site or European marine site as defined by regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-0d96f36535b94ec4e267e1caeef2987b];
+- (b) a European site or European marine site as defined by regulation 8 of the Conservation of Habitats and Species Regulations 2017[^c-0d96f36535b94ec4e267e1caeef2987b];
 - (c) a wetland designated under paragraph 1 of article 2 of the Ramsar Convention, as defined by section 37A(4) and (5) of the Wildlife and Countryside Act 1981[^f00008].
 
 ## PART 3 — PERMITS
 
-### 6. Grant of permit[^key-04c1db54bd3c95ea88c79e28c4df121a]
+### 6. Grant of permit[^c-04c1db54bd3c95ea88c79e28c4df121a]
 
 (1) On receipt of an application for a permit authorising the carrying on of any of the activities mentioned in paragraph (2), the Agency may grant such a permit.
 
@@ -144,7 +144,7 @@ commits an offence.
 
 ## PART 4 — ENFORCEMENT AND ADMINISTRATION
 
-### 7. Revocation etc. of a permit[^key-19b972fd0c07693300548f7d19b7bbf3]
+### 7. Revocation etc. of a permit[^c-19b972fd0c07693300548f7d19b7bbf3]
 
 (1) The Agency may, by notice served on the holder of a permit, suspend or revoke the permit—
 
@@ -155,7 +155,7 @@ commits an offence.
 
 (3) The Agency may suspend, vary or revoke a permit at the request of the holder of that permit.
 
-### 8. Notice to remove and dispose of fish[^key-c30450f229dcfc7988e9e3ca69a25221]
+### 8. Notice to remove and dispose of fish[^c-c30450f229dcfc7988e9e3ca69a25221]
 
 (1) If fish are introduced into inland waters or kept in contravention of these Regulations, the Agency may serve a notice on the holder of a permit or, if there is none, the owner or occupier of those waters requiring the holder of the permit or the owner or occupier (as the case may be)—
 
@@ -178,7 +178,7 @@ commits an offence.
 
 (5) Failure to comply with a notice under paragraph (1) without reasonable excuse is an offence.
 
-### 9. Time in which a notice takes effect[^key-5ad355723ea9bda37dc473fe914d0a22]
+### 9. Time in which a notice takes effect[^c-5ad355723ea9bda37dc473fe914d0a22]
 
 (1) Subject to paragraph (2) and (3), a notice served under regulation 7(1) or (2) or regulation 8(1) takes effect 28 days after the date on which it was served.
 
@@ -186,7 +186,7 @@ commits an offence.
 
 (3) Where an appeal under regulation 10 is brought, the notice does not take effect until the appeal has been determined or withdrawn, unless the appointed person determining the appeal so directs.
 
-### 10. Appeals[^key-3c53d52c4b3eaea6f78eee75573b25d0]
+### 10. Appeals[^c-3c53d52c4b3eaea6f78eee75573b25d0]
 
 (1) An applicant for the grant of a permit may appeal against—
 
@@ -203,7 +203,7 @@ commits an offence.
 
 (6) The independent person decides whether to allow the appeal (and may direct the Agency to grant a permit or to vary any condition).
 
-### 11. Powers of entry[^key-0daa44ad8c6d9708ae8f6c821067588e]
+### 11. Powers of entry[^c-0daa44ad8c6d9708ae8f6c821067588e]
 
 (1) An officer of the Agency may, on producing a duly authenticated authorisation if required, enter any premises (except any premises used wholly as a private dwelling house) at any reasonable hour—
 
@@ -227,7 +227,7 @@ the justice may by signed warrant authorise the officer to enter the premises, i
 
 (6) An officer who enters any unoccupied premises must leave them as effectively secured against unauthorised entry as they were before entry.
 
-### 12. Powers of an authorised officer[^key-c1bfc2153f5cbbec82c58a88f69e4066]
+### 12. Powers of an authorised officer[^c-c1bfc2153f5cbbec82c58a88f69e4066]
 
 (1) An officer entering premises under regulation 11 may—
 
@@ -253,7 +253,7 @@ the justice may by signed warrant authorise the officer to enter the premises, i
 
 (6) Any fish seized may be disposed of as the authorised officer sees fit.
 
-### 13. Obstruction[^key-31309a24a1345932e0541de8a33a230b]
+### 13. Obstruction[^c-31309a24a1345932e0541de8a33a230b]
 
 Any person who—
 
@@ -264,7 +264,7 @@ Any person who—
 
 commits an offence.
 
-### 14. Penalties[^key-7425f701a73af849f36ba736b2380cd5]
+### 14. Penalties[^c-7425f701a73af849f36ba736b2380cd5]
 
 (1) A person guilty of an offence under regulation 4 (introduction of fish), regulation 5 (keeping of fish), regulation 8(5) (failure to comply with a notice) or regulation 13 (obstruction) is liable—
 
@@ -273,7 +273,7 @@ commits an offence.
 
 (2) If section 85(2) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 is in force on the day on which these Regulations are made, paragraph (1)(a) applies in relation to a conviction by a court in England with the omission of the words “not exceeding £50,000”.
 
-### 15. Offences by bodies corporate[^key-4acc137a2bb6e4e33d1e731e733918f5]
+### 15. Offences by bodies corporate[^c-4acc137a2bb6e4e33d1e731e733918f5]
 
 (1) Where a body corporate is guilty of an offence under these Regulations, and that offence is proved to have been committed with the consent of, or connivance of, or to be attributable to any neglect on the part of—
 
@@ -284,7 +284,7 @@ that person, as well as the body corporate, is guilty of an offence.
 
 (2) Any penalty imposed on a body corporate by a court in Scotland on conviction of an offence under these Regulations is to be recovered by civil diligence in accordance with section 221 of the Criminal Procedure (Scotland) Act 1995[^f00009].
 
-### 16. Offences by partnerships and unincorporated associations[^key-d5ef9dcef907f47c8effb8af1cf5d0ac]
+### 16. Offences by partnerships and unincorporated associations[^c-d5ef9dcef907f47c8effb8af1cf5d0ac]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership, a Scottish partnership or an unincorporated association may be brought against the partnership, Scottish partnership or association by its name.
 
@@ -307,13 +307,13 @@ that person, as well as the body corporate, is guilty of an offence.
 
 ## PART 5 — MISCELLANEOUS
 
-### 17. Transitional[^key-4a6d54e73be92a6e73072cec6c504682]
+### 17. Transitional[^c-4a6d54e73be92a6e73072cec6c504682]
 
 (1) A licence under section 1 of the Import of Live Fish (England and Wales) Act 1980[^f00012] authorising a person to keep or release live fish, or the live eggs of fish, which is in force immediately before the coming into force of these Regulations, is to be taken to be a permit under these Regulations authorising the keeping of fish or the introduction of fish into inland waters.
 
 (2) This regulation applies in relation to live fish, and live eggs of fish, in England only.
 
-### 18. Amendment of the Salmon and Freshwater Fisheries Act 1975[^key-64c0f6726a7327e38ab7398b87389381]
+### 18. Amendment of the Salmon and Freshwater Fisheries Act 1975[^c-64c0f6726a7327e38ab7398b87389381]
 
 (1) In section 30 of the Salmon and Freshwater Fisheries Act 1975[^f00013], after “an inland water” on each occasion on which it appears, insert “in Wales”.
 
@@ -331,7 +331,7 @@ Department for Environment, Food and Rural Affairs
 
 Regulation 5(2)
 
-### PART 1 — Fish that may not be kept without a permit[^key-53db054ca8861ba6a4d1ba8b7f4b3976]
+### PART 1 — Fish that may not be kept without a permit[^c-53db054ca8861ba6a4d1ba8b7f4b3976]
 
 | Taxonomic Order | Common name |
 | --- | --- |
@@ -367,7 +367,7 @@ Regulation 5(2)
 | Syngnathiformes | Pipefish, Seahorses |
 | Tetraodontiformes | Pufferfish |
 
-### PART 2 — Species of fish that may be kept without a permit[^key-ce0d08ea09ea43ec1e77d7ebac4cd39b]
+### PART 2 — Species of fish that may be kept without a permit[^c-ce0d08ea09ea43ec1e77d7ebac4cd39b]
 
 <table>
 <thead>
@@ -458,65 +458,65 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00003]: Footnote: The term “the appropriate national authority” is defined in section 232(8).
 
-[^key-0262fcbdb248198acd9ed6bfb9902849]: Commencement: Reg. 1 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-0262fcbdb248198acd9ed6bfb9902849]: Commencement: Reg. 1 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-cd00eb03ba966aa353039e7a704095ab]: Commencement: Reg. 2 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-cd00eb03ba966aa353039e7a704095ab]: Commencement: Reg. 2 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00004]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-42df64455decae3c09e1988d5a10f5d3]: Commencement: Reg. 3 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-42df64455decae3c09e1988d5a10f5d3]: Commencement: Reg. 3 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00005]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463).
 
-[^key-e0ca322ee10c3a42457fadbf2db9fde3]: Commencement: Reg. 4 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-e0ca322ee10c3a42457fadbf2db9fde3]: Commencement: Reg. 4 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-aeae600bb4edc576c32095814089fcff]: Commencement: Reg. 5 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-aeae600bb4edc576c32095814089fcff]: Commencement: Reg. 5 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00006]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Relevant amendments to section 52(1) were made by section 75(1) of, and paragraph 5(1) and (2) of Schedule 9 to, the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-0d96f36535b94ec4e267e1caeef2987b]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/5/4/b) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 45](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/45)
+[^c-0d96f36535b94ec4e267e1caeef2987b]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/5/4/b) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 45](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/45)
 
 [^f00008]: Footnote: Section 37A was inserted by section 77 of the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-04c1db54bd3c95ea88c79e28c4df121a]: Commencement: Reg. 6 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-04c1db54bd3c95ea88c79e28c4df121a]: Commencement: Reg. 6 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-19b972fd0c07693300548f7d19b7bbf3]: Commencement: Reg. 7 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-19b972fd0c07693300548f7d19b7bbf3]: Commencement: Reg. 7 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-c30450f229dcfc7988e9e3ca69a25221]: Commencement: Reg. 8 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-c30450f229dcfc7988e9e3ca69a25221]: Commencement: Reg. 8 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-5ad355723ea9bda37dc473fe914d0a22]: Commencement: Reg. 9 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-5ad355723ea9bda37dc473fe914d0a22]: Commencement: Reg. 9 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-3c53d52c4b3eaea6f78eee75573b25d0]: Commencement: Reg. 10 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-3c53d52c4b3eaea6f78eee75573b25d0]: Commencement: Reg. 10 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-0daa44ad8c6d9708ae8f6c821067588e]: Commencement: Reg. 11 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-0daa44ad8c6d9708ae8f6c821067588e]: Commencement: Reg. 11 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-c1bfc2153f5cbbec82c58a88f69e4066]: Commencement: Reg. 12 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-c1bfc2153f5cbbec82c58a88f69e4066]: Commencement: Reg. 12 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-31309a24a1345932e0541de8a33a230b]: Commencement: Reg. 13 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-31309a24a1345932e0541de8a33a230b]: Commencement: Reg. 13 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-7425f701a73af849f36ba736b2380cd5]: Commencement: Reg. 14 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-7425f701a73af849f36ba736b2380cd5]: Commencement: Reg. 14 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-4acc137a2bb6e4e33d1e731e733918f5]: Commencement: Reg. 15 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-4acc137a2bb6e4e33d1e731e733918f5]: Commencement: Reg. 15 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00009]: Footnote: [1925 c. 46](https://www.legislation.gov.uk/ukpga/1925/46). Section 221 was amended by sections 226 and 227 of , and paragraph 23(a) and (b) of Schedule 5 to, the Bankruptcy and Diligence (Scotland) Act [2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3); article 3(2)(3), and Schedule 1 to, [S.S.I. 2009/369](https://www.legislation.gov.uk/ssi/2009/369); section 61 of, and paragraph 25 of Schedule 3 to, the Debt Arrangement and Attachment (Scotland) Act [2002 (asp 17)](https://www.legislation.gov.uk/asp/2002/17).
 
-[^key-d5ef9dcef907f47c8effb8af1cf5d0ac]: Commencement: Reg. 16 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-d5ef9dcef907f47c8effb8af1cf5d0ac]: Commencement: Reg. 16 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00010]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by section 132 of, and Schedule 6 to, the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55); subsection (3) was amended by section 56(1) of, and paragraph 19 of Part 2 of Schedule 8 to, the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23); subsection (4) was amended by section 109(1) and (3) of, and paragraph 71 of Schedule 8 to, and Schedule 10 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39); subsection (5) was repealed by section 132 of, and Schedule 6 to, the Magistrates’ Courts Act 1952.
 
 [^f00011]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraph 2(a) of Schedule 3 was repealed by sections 41 and 332 of, paragraph 51(1) and 13(a) of Schedule 3 to, and Part 4 of Schedule 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44); paragraph 5 was repealed by sections 25(2) and 101(2) of, and Schedule 13 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53); paragraph 6 was amended by section 41 of, and paragraph 51(1) and (13)(b) of Schedule 3 to, the Criminal Justice Act 2003.
 
-[^key-4a6d54e73be92a6e73072cec6c504682]: Commencement: Reg. 17 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-4a6d54e73be92a6e73072cec6c504682]: Commencement: Reg. 17 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00012]: Footnote: [1980 c. 27](https://www.legislation.gov.uk/ukpga/1980/27). Section 1 was amended by regulation 45 of, and paragraph 5 of Schedule 2 to, [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463); section 132 of, and paragraph 8 of Schedule 9 to, the Environmental Protection Act [1990 (c. 43)](https://www.legislation.gov.uk/ukpga/1990/43); section 105(1) of, and paragraph 62 of Schedule 11 to, the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16); article 4(1) of, and paragraph 158 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755); and section 37(2) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-64c0f6726a7327e38ab7398b87389381]: Commencement: Reg. 18 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-64c0f6726a7327e38ab7398b87389381]: Commencement: Reg. 18 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f00013]: Footnote: [1975 c. 51](https://www.legislation.gov.uk/ukpga/1975/51). Section 30 was amended by article 4(1) of, and paragraph 127 and 142 of Schedule 2 to, [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755); section 190 of, and Part 1 of Schedule 27 to, the Water Act [1989 (c. 15)](https://www.legislation.gov.uk/ukpga/1989/15); section 34 of the Salmon Act [1986 (c. 62)](https://www.legislation.gov.uk/ukpga/1986/62); and sections 105 and 120 of, and paragraph 17 of Schedule 15 to, and Schedule 24 to, the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-53db054ca8861ba6a4d1ba8b7f4b3976]: Commencement: Sch. Pt. 1 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-53db054ca8861ba6a4d1ba8b7f4b3976]: Commencement: Sch. Pt. 1 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
-[^key-ce0d08ea09ea43ec1e77d7ebac4cd39b]: Commencement: Sch. Pt. 2 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
+[^c-ce0d08ea09ea43ec1e77d7ebac4cd39b]: Commencement: Sch. Pt. 2 in force at 19.1.2015, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b)
 
 [^f01000]: Footnote: (1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Property etc transfers to the HCA and the GLA[^key-1105e18a1c94624ad69816fc741f39e4]
+## 31. Property etc transfers to the HCA and the GLA[^c-1105e18a1c94624ad69816fc741f39e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -228,4 +228,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1105e18a1c94624ad69816fc741f39e4]: Commencement: S. 31 in force at 12.4.2015, see s. 57(5)(e)
+[^c-1105e18a1c94624ad69816fc741f39e4]: Commencement: S. 31 in force at 12.4.2015, see s. 57(5)(e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 512. Revocation of spent provision[^key-82f15bde37027bbfdf2165dbfce2d5d8]
+## 512. Revocation of spent provision[^c-82f15bde37027bbfdf2165dbfce2d5d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The following provisions of the Public Offers of Securities Regulations 1995 are
 
 ## Annotations
 
-[^key-82f15bde37027bbfdf2165dbfce2d5d8]: Commencement: Art. 512 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-82f15bde37027bbfdf2165dbfce2d5d8]: Commencement: Art. 512 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

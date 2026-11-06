@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Energy company obligations[^key-1f489dbbabf724996637788ad7ccfd28][^key-884b621fe94d7461a22ad75a741aefca]
+## 59. Energy company obligations[^c-1f489dbbabf724996637788ad7ccfd28][^c-884b621fe94d7461a22ad75a741aefca]
 
 *Extent: E+W+S+N.I.*
 
@@ -284,6 +284,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f489dbbabf724996637788ad7ccfd28]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/11/section/59) in force at 1.12.2017 for specified purposes by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/b)
+[^c-1f489dbbabf724996637788ad7ccfd28]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/11/section/59) in force at 1.12.2017 for specified purposes by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/b)
 
-[^key-884b621fe94d7461a22ad75a741aefca]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/11/section/59) in force at 1.10.2018 in so far as not already in force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/5/a)
+[^c-884b621fe94d7461a22ad75a741aefca]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2016/11/section/59) in force at 1.10.2018 in so far as not already in force by [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/5/a)

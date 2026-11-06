@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228C. Annual allowance for, and carry-forward from, 2015-16[^key-32ab94fd3bcf38d585db524be453755f]
+## 228C. Annual allowance for, and carry-forward from, 2015-16[^c-32ab94fd3bcf38d585db524be453755f]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) The provisions relating to the annual allowance charge (whether provisions contained in or made under this or any other Act) have effect subject to the following rules.
 
@@ -98,6 +98,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32ab94fd3bcf38d585db524be453755f]: Textual amendment: [S. 228C](https://www.legislation.gov.uk/ukpga/2004/12/section/228C) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/6)
+[^c-32ab94fd3bcf38d585db524be453755f]: Textual amendment: [S. 228C](https://www.legislation.gov.uk/ukpga/2004/12/section/228C) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2015/33/schedule/4/paragraph/6)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)

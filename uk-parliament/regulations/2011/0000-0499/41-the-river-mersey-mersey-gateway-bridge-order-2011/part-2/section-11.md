@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Construction and maintenance of new or altered streets[^key-4244979eaa4cfca0c94084bd10164c88]
+## 11. Construction and maintenance of new or altered streets[^c-4244979eaa4cfca0c94084bd10164c88]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4244979eaa4cfca0c94084bd10164c88]: Commencement: Art. 11 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-4244979eaa4cfca0c94084bd10164c88]: Commencement: Art. 11 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

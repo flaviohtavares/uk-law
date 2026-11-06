@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c7edc16d5413d9cb1acf35a0b0362e05] In this Part—
+(1)[^c-c7edc16d5413d9cb1acf35a0b0362e05] In this Part—
 
 - (a) “**document**” means information recorded in any form, and
-- (b) references to delivering a document include forwarding, lodging, registering, sending, producing or submitting it or (in the case of a notice) giving it (but do not include the provision of any information by virtue of section[^key-5aa7676c4a894fba60ddf083f6900302] 1110E or any other enactment authorising the disclosure of information to the registrar).
+- (b) references to delivering a document include forwarding, lodging, registering, sending, producing or submitting it or (in the case of a notice) giving it (but do not include the provision of any information by virtue of section[^c-5aa7676c4a894fba60ddf083f6900302] 1110E or any other enactment authorising the disclosure of information to the registrar).
 
 (2) Except as otherwise provided, this Part applies in relation to the supply to the registrar of information otherwise than in documentary form as it applies in relation to the delivery of a document.
 
@@ -35,6 +35,6 @@ summary: ''
 
 [^c20619121]: Modification: Ss. 1114-1119 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), {regs. 3-5, Sch. 1 para. 17(2)(g)} (with transitional provisions and savings in regs. 7, 9, Sch. 2)
 
-[^key-c7edc16d5413d9cb1acf35a0b0362e05]: Modification: S. 1114(1) applied (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2017/19/section/8/6), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-c7edc16d5413d9cb1acf35a0b0362e05]: Modification: S. 1114(1) applied (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2017/19/section/8/6), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
 
-[^key-5aa7676c4a894fba60ddf083f6900302]: Textual amendment: Words in [s. 1114(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1114/1/b) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 94(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/94/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)
+[^c-5aa7676c4a894fba60ddf083f6900302]: Textual amendment: Words in [s. 1114(1)(b)](https://www.legislation.gov.uk/ukpga/2006/46/section/1114/1/b) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 94(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/94/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)

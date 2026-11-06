@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Inhibition of property affected by order[^key-2685b42bce35151570ed4b722c4eb5dc]
+## 61. Inhibition of property affected by order[^c-2685b42bce35151570ed4b722c4eb5dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2685b42bce35151570ed4b722c4eb5dc]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2005/3181/article/61) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-2685b42bce35151570ed4b722c4eb5dc]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2005/3181/article/61) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00041]: Footnote: [1868 c. 101](https://www.legislation.gov.uk/ukpga/1868/101).

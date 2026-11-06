@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114ZA. Application of Act to Welsh Revenue Authority[^key-27c1b67b7ab3b4c10cfd33b6b5f159fa]
+## 114ZA. Application of Act to Welsh Revenue Authority[^c-27c1b67b7ab3b4c10cfd33b6b5f159fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27c1b67b7ab3b4c10cfd33b6b5f159fa]: Textual amendment: S. 114ZA inserted (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 185(1)](https://www.legislation.gov.uk/anaw/2016/6/section/185/1), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)
+[^c-27c1b67b7ab3b4c10cfd33b6b5f159fa]: Textual amendment: S. 114ZA inserted (25.1.2018) by [Tax Collection and Management (Wales) Act 2016 (anaw 6)](https://www.legislation.gov.uk/anaw/2016/6), [ss. 185(1)](https://www.legislation.gov.uk/anaw/2016/6/section/185/1), [194(2)](https://www.legislation.gov.uk/anaw/2016/6/section/194/2); [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(j)](https://www.legislation.gov.uk/wsi/2018/33/article/2/j)

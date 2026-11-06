@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88A. Recreation – coronavirus[^key-a4909ec042cf73402d559a30bc942586]
+## 88A. Recreation – coronavirus[^c-a4909ec042cf73402d559a30bc942586]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4909ec042cf73402d559a30bc942586]: Textual amendment: [Rule 88A](https://www.legislation.gov.uk/ssi/2011/331/rule/88A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(16)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/16)
+[^c-a4909ec042cf73402d559a30bc942586]: Textual amendment: [Rule 88A](https://www.legislation.gov.uk/ssi/2011/331/rule/88A) inserted (7.4.2020 at 2.15 p.m.) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2020 (S.S.I. 2020/122)](https://www.legislation.gov.uk/ssi/2020/122), [rules 1](https://www.legislation.gov.uk/ssi/2020/122/rule/1), [2(16)](https://www.legislation.gov.uk/ssi/2020/122/rule/2/16)

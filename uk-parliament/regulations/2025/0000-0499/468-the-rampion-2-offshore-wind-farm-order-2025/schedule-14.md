@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-### 1. Applications made for certain approvals[^key-bb96021f9a4a1fa2dec9a0eda85f3add]
+### 1. Applications made for certain approvals[^c-bb96021f9a4a1fa2dec9a0eda85f3add]
 
 (1) Where an application has been made to a discharging authority for any consent, agreement or approval required or contemplated by any of the requirements in Part 3 of Schedule 1 (requirements) to this Order the undertaker must—
 
@@ -37,7 +37,7 @@ Article 45
 - (b) where further information is requested under paragraph 2 (further information), 56 days from the day immediately following that on which the further information has been supplied by the undertaker under paragraph 2; or
 - (c) such longer period as may be agreed by the undertaker and the discharging authority in writing before the end of the period in sub-paragraph 3(a) or (b).
 
-### 2. Further information[^key-5f62fa28f4b03665b9ebaffa0413ed38]
+### 2. Further information[^c-5f62fa28f4b03665b9ebaffa0413ed38]
 
 (1) In relation to any application to which this Schedule applies, the discharging authority has the right to request such further information from the undertaker as is reasonably necessary to enable it to consider the application.
 
@@ -45,7 +45,7 @@ Article 45
 
 (3) If the discharging authority does not give such notification as specified in sub-paragraph (2) it is to be deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-### 3. Fees[^key-ebd5e46c6211ac735809d5fdf246fee9]
+### 3. Fees[^c-ebd5e46c6211ac735809d5fdf246fee9]
 
 (1) Where an application is made to the discharging authority for consent, agreement or approval in respect of a requirement, the fee for the discharge of conditions as specified in the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00062] (or any regulations replacing the same) is to be paid by the undertaker to the relevant discharging authority.
 
@@ -54,7 +54,7 @@ Article 45
 - (a) the application being rejected as invalidly made; or
 - (b) the discharging authority failing to determine the application within the decision period as determined under paragraph 1, unless within that period the undertaker agrees, in writing, that the fee is to be retained by the discharging authority and credited in respect of a future application.
 
-### 4. Appeals[^key-9cde715121d369a8c24964c528b3835c]
+### 4. Appeals[^c-9cde715121d369a8c24964c528b3835c]
 
 (1) The undertaker may appeal to the Secretary of State in the event that—
 
@@ -98,7 +98,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (13) On application by the discharging authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the Planning Practice Guidance published by the Ministry of Housing, Communities and Local Government or any circular or guidance which may from time to time replace it.
 
-### 5. Interpretation of Schedule 14[^key-8af9d8b47a72092ef02e05286d4f7fee]
+### 5. Interpretation of Schedule 14[^c-8af9d8b47a72092ef02e05286d4f7fee]
 
 In this Schedule—
 
@@ -109,14 +109,14 @@ In this Schedule—
 
 ## Annotations
 
-[^key-bb96021f9a4a1fa2dec9a0eda85f3add]: Commencement: Sch. 14 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-bb96021f9a4a1fa2dec9a0eda85f3add]: Commencement: Sch. 14 para. 1 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-5f62fa28f4b03665b9ebaffa0413ed38]: Commencement: Sch. 14 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-5f62fa28f4b03665b9ebaffa0413ed38]: Commencement: Sch. 14 para. 2 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-ebd5e46c6211ac735809d5fdf246fee9]: Commencement: Sch. 14 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-ebd5e46c6211ac735809d5fdf246fee9]: Commencement: Sch. 14 para. 3 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
 [^f00062]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920).
 
-[^key-9cde715121d369a8c24964c528b3835c]: Commencement: Sch. 14 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-9cde715121d369a8c24964c528b3835c]: Commencement: Sch. 14 para. 4 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
 
-[^key-8af9d8b47a72092ef02e05286d4f7fee]: Commencement: Sch. 14 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-8af9d8b47a72092ef02e05286d4f7fee]: Commencement: Sch. 14 para. 5 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

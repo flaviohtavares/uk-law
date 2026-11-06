@@ -100,7 +100,7 @@ Regulations 50(6)(g) and 64(5)(b)
 
 (4) Condition B is that—
 
-- (a) the product is derived from a homoeopathic stock from which is derived a medicinal product that has a UK[^key-8ba535ca7454ad5014f876d76a2dcd0d] marketing authorisation, certificate of registration or traditional herbal registration (“the source product”);
+- (a) the product is derived from a homoeopathic stock from which is derived a medicinal product that has a UK[^c-8ba535ca7454ad5014f876d76a2dcd0d] marketing authorisation, certificate of registration or traditional herbal registration (“the source product”);
 - (b) the source product is subject to general sale within the meaning of regulation 5(1); and
 - (c) the product has the same route of administration and the same degree of dilution as the source product.
 
@@ -128,4 +128,4 @@ Regulations 50(6)(g) and 64(5)(b)
 
 [^c21329001]: Marginal citation: OJ No L 31, 1.2.2002, p.1, as last amended by Regulation (EC) No 596/2009 (OJ No L 188, 18.7.2009, p. 14).
 
-[^key-8ba535ca7454ad5014f876d76a2dcd0d]: Textual amendment: Word in [Sch. 10 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/10/paragraph/4/4/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/775/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ba535ca7454ad5014f876d76a2dcd0d]: Textual amendment: Word in [Sch. 10 para. 4(4)(a)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/10/paragraph/4/4/a) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [55](https://www.legislation.gov.uk/uksi/2019/775/regulation/55); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

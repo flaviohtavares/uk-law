@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Application of sums by enforcement administrator[^key-c0759cf33d2fc99f05e6d87f8f9889f6]
+## 77. Application of sums by enforcement administrator[^c-c0759cf33d2fc99f05e6d87f8f9889f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,10 +45,10 @@ summary: ''
 
 (6) The administrator applies sums as mentioned in paragraph (2)(c) by paying them to the appropriate clerk of court on account of the amount payable under the order.
 
-(7) The appropriate clerk of court is the sheriff clerk appointed under[^key-8dbfd80834ee8edb69ef3c87ae37191c] article 69(1).
+(7) The appropriate clerk of court is the sheriff clerk appointed under[^c-8dbfd80834ee8edb69ef3c87ae37191c] article 69(1).
 
 ## Annotations
 
-[^key-c0759cf33d2fc99f05e6d87f8f9889f6]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2005/3181/article/77) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-c0759cf33d2fc99f05e6d87f8f9889f6]: Commencement: [Art. 77](https://www.legislation.gov.uk/uksi/2005/3181/article/77) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-8dbfd80834ee8edb69ef3c87ae37191c]: Textual amendment: Word in [art. 77(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/77/7) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [18](https://www.legislation.gov.uk/uksi/2016/662/article/18)
+[^c-8dbfd80834ee8edb69ef3c87ae37191c]: Textual amendment: Word in [art. 77(7)](https://www.legislation.gov.uk/uksi/2005/3181/article/77/7) inserted (11.8.2016) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2016 (S.I. 2016/662)](https://www.legislation.gov.uk/uksi/2016/662), [arts. 1](https://www.legislation.gov.uk/uksi/2016/662/article/1), [18](https://www.legislation.gov.uk/uksi/2016/662/article/18)

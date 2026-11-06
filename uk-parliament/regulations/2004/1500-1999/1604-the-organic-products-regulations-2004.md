@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Organic Products Regulations 2004 (revoked)[^key-e629c67f5cb2babf776f40a384c84d7a]
+The Organic Products Regulations 2004 (revoked)[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 Made
 
@@ -46,111 +46,111 @@ Coming into force
 
 19th July 2004
 
-[^key-e629c67f5cb2babf776f40a384c84d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e629c67f5cb2babf776f40a384c84d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 1. Title and commencement[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 2. Interpretation[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of authority for the receipt of notifications, operation of inspection system, establishment of database and information to local authorities[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 3. Designation of authority for the receipt of notifications, operation of inspection system, establishment of database and information to local authorities[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Additional requirement relating to the labelling of organic products[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 4. Additional requirement relating to the labelling of organic products[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Exemption from the application of Article 8 of the Council Regulation[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 4A. Exemption from the application of Article 8 of the Council Regulation[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Manager of the database[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 5. Manager of the database[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Registration fees[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 6. Registration fees[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Fees for ingredient authorisations and import authorisations[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 7. Fees for ingredient authorisations and import authorisations[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Inspection system[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 8. Inspection system[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Fees for approvals etc. of inspection bodies[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 9. Fees for approvals etc. of inspection bodies[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Enforcement, offences and penalties[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 10. Enforcement, offences and penalties[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Procurement of samples[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 11. Procurement of samples[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Analysis, testing and examination[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 12. Analysis, testing and examination[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of entry[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 13. Powers of entry[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences due to fault of another person and defence of due diligence[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 14. Offences due to fault of another person and defence of due diligence[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Obstruction etc. of officers[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 15. Obstruction etc. of officers[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Offences by bodies corporate[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 16. Offences by bodies corporate[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Protection of officers acting in good faith[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 17. Protection of officers acting in good faith[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Extended time for bringing prosecutions[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 18. Extended time for bringing prosecutions[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Use of electronic communications[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 19. Use of electronic communications[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Revocations[^key-e629c67f5cb2babf776f40a384c84d7a]
+## 20. Revocations[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e629c67f5cb2babf776f40a384c84d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e629c67f5cb2babf776f40a384c84d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — THE COMMISSION REGULATIONS[^key-e629c67f5cb2babf776f40a384c84d7a]
+## SCHEDULE 1 — THE COMMISSION REGULATIONS[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — SPECIFIED COMMUNITY PROVISIONS[^key-e629c67f5cb2babf776f40a384c84d7a]
+## SCHEDULE 2 — SPECIFIED COMMUNITY PROVISIONS[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — REVOCATIONS[^key-e629c67f5cb2babf776f40a384c84d7a]
+## SCHEDULE 3 — REVOCATIONS[^c-e629c67f5cb2babf776f40a384c84d7a]
 
 Regulation 20
 
@@ -158,8 +158,8 @@ Regulation 20
 
 **May not be in force at this date. Check the source.**
 
-[^key-e629c67f5cb2babf776f40a384c84d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e629c67f5cb2babf776f40a384c84d7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e629c67f5cb2babf776f40a384c84d7a]: Textual amendment: Regulations revoked (27.4.2009) by [The Organic Products Regulations 2009 (S.I. 2009/842)](https://www.legislation.gov.uk/uksi/2009/842), [reg. 32(b)](https://www.legislation.gov.uk/uksi/2009/842/regulation/32/b)
+[^c-e629c67f5cb2babf776f40a384c84d7a]: Textual amendment: Regulations revoked (27.4.2009) by [The Organic Products Regulations 2009 (S.I. 2009/842)](https://www.legislation.gov.uk/uksi/2009/842), [reg. 32(b)](https://www.legislation.gov.uk/uksi/2009/842/regulation/32/b)

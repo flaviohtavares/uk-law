@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Port access or entry for UN designated ships: exception from prohibitions[^key-148e84c0285d21c4070e6cb5ad50316c]
+## 44. Port access or entry for UN designated ships: exception from prohibitions[^c-148e84c0285d21c4070e6cb5ad50316c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-148e84c0285d21c4070e6cb5ad50316c]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-148e84c0285d21c4070e6cb5ad50316c]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

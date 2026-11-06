@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Ten-year restriction on assignation and acquisition following Commission let[^key-7b7753637e90da8fe75c947a4e95e98b]
+## 14. Ten-year restriction on assignation and acquisition following Commission let[^c-7b7753637e90da8fe75c947a4e95e98b]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b7753637e90da8fe75c947a4e95e98b]: Commencement: S. 14 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-7b7753637e90da8fe75c947a4e95e98b]: Commencement: S. 14 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

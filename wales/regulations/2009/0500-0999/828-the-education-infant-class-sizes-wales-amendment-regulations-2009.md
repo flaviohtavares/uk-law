@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The Education (Infant Class Sizes) (Wales) (Amendment) Regulations 2009 (revoked)[^key-f1b3eecdf62451de95baf30458a0dc2a]
+The Education (Infant Class Sizes) (Wales) (Amendment) Regulations 2009 (revoked)[^c-f1b3eecdf62451de95baf30458a0dc2a]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 22 April 2009
 
-[^key-f1b3eecdf62451de95baf30458a0dc2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b3eecdf62451de95baf30458a0dc2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f1b3eecdf62451de95baf30458a0dc2a]
+## 1. Title, commencement and application[^c-f1b3eecdf62451de95baf30458a0dc2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Infant Class Sizes) (Wales) Regulations 1998[^key-f1b3eecdf62451de95baf30458a0dc2a]
+## 2. Amendment of the Education (Infant Class Sizes) (Wales) Regulations 1998[^c-f1b3eecdf62451de95baf30458a0dc2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f1b3eecdf62451de95baf30458a0dc2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1b3eecdf62451de95baf30458a0dc2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b3eecdf62451de95baf30458a0dc2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1b3eecdf62451de95baf30458a0dc2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b3eecdf62451de95baf30458a0dc2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1b3eecdf62451de95baf30458a0dc2a]: Textual amendment: Regulations revoked (8.7.2013) by [The School Admissions (Infant Class Sizes) (Wales) Regulations 2013 (S.I. 2013/1141)](https://www.legislation.gov.uk/uksi/2013/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1141/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1141/regulation/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1141/regulation/1/3))
+[^c-f1b3eecdf62451de95baf30458a0dc2a]: Textual amendment: Regulations revoked (8.7.2013) by [The School Admissions (Infant Class Sizes) (Wales) Regulations 2013 (S.I. 2013/1141)](https://www.legislation.gov.uk/uksi/2013/1141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1141/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/1141/regulation/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1141/regulation/1/3))

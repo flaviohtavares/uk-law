@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-5c5e3348946576da0edda792f1663c88] The following provisions do not apply in so far as they relate to activities or development carried out for the purposes of the authorised development, or in connection with the authorised development—
+**1.**[^c-5c5e3348946576da0edda792f1663c88] The following provisions do not apply in so far as they relate to activities or development carried out for the purposes of the authorised development, or in connection with the authorised development—
 
 - (a) Anglian Water Authority Act 1977[^f00051];
 - (b) Eastern Midlands Railway (Extensions) Act 1988[^f00052];
@@ -34,7 +34,7 @@ Article 6
 
 ## Annotations
 
-[^key-5c5e3348946576da0edda792f1663c88]: Commencement: Sch. 3 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-5c5e3348946576da0edda792f1663c88]: Commencement: Sch. 3 para. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
 
 [^f00051]: Footnote: [1977 c. xiii](https://www.legislation.gov.uk/ukla/1977/13).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Exception for acts done for purposes of national security or prevention of serious crime[^key-a6c8e3d39fba8a4e57d82c34bbe2bf16][^key-97817c13fd6bca2e38a9bdb7bdbb4a9e]
+## 32. Exception for acts done for purposes of national security or prevention of serious crime[^c-a6c8e3d39fba8a4e57d82c34bbe2bf16][^c-97817c13fd6bca2e38a9bdb7bdbb4a9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6c8e3d39fba8a4e57d82c34bbe2bf16]: Commencement: Reg. 32 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-a6c8e3d39fba8a4e57d82c34bbe2bf16]: Commencement: Reg. 32 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-97817c13fd6bca2e38a9bdb7bdbb4a9e]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-97817c13fd6bca2e38a9bdb7bdbb4a9e]: Commencement: Reg. 32 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

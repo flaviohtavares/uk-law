@@ -29,10 +29,10 @@ summary: ''
 - (c) section 81 (climate change measures reports in Wales);
 - (d) section 88 (fines for offences relating to pollution).
 
-(3) Section 77 and Schedule 6 (charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^key-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*) extend to England and Wales and Northern Ireland only.
+(3) Section 77 and Schedule 6 (charges for single use carrier bags *(Extent: N.I.)* *(affected by repeal, see note)*[^c-2c34b23b8118b1e8a2763ba07943ad2e]carrier bags *(Extent: N.I.)*) extend to England and Wales and Northern Ireland only.
 
 (4) Section 79 and Schedule 8 (carbon emissions reduction targets) extend to England and Wales and Scotland only.
 
 ## Annotations
 
-[^key-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)
+[^c-2c34b23b8118b1e8a2763ba07943ad2e]: Textual amendment: Words in Sch. 6 para. 2 substituted (N.I.) (28.4.2014) by [Carrier Bags Act (Northern Ireland) 2014 (c. 7)](https://www.legislation.gov.uk/nia/2014/7), [s. 1(b)](https://www.legislation.gov.uk/nia/2014/7/section/1/b)

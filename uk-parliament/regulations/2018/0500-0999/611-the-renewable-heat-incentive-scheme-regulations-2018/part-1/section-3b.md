@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3B. Extension applications[^key-0c27ae92ceca6c3a86022a00da445b88]
+## 3B. Extension applications[^c-0c27ae92ceca6c3a86022a00da445b88]
 
 *Extent: E+W+S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c27ae92ceca6c3a86022a00da445b88]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/uksi/2018/611/regulation/3A) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/iii), [9](https://www.legislation.gov.uk/uksi/2021/76/regulation/9)
+[^c-0c27ae92ceca6c3a86022a00da445b88]: Textual amendment: [Regs. 3A-3C](https://www.legislation.gov.uk/uksi/2018/611/regulation/3A) inserted (1.3.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/2/b/iii), [9](https://www.legislation.gov.uk/uksi/2021/76/regulation/9)

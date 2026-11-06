@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Consent by procurator fiscal to post-mortem examination[^key-d462431aef610c0c85c24853eb4ca687]
+## 26. Consent by procurator fiscal to post-mortem examination[^c-d462431aef610c0c85c24853eb4ca687]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d462431aef610c0c85c24853eb4ca687]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/4/section/26) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-d462431aef610c0c85c24853eb4ca687]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2006/4/section/26) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

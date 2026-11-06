@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Employer initiated retirement[^key-a7ead33a44df929b217123c121651923]
+## 71. Employer initiated retirement[^c-a7ead33a44df929b217123c121651923]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) An employer may only pay a retirement pension of the amount mentioned in paragraph (1) in the circumstances mentioned in that paragraph where the employer determines that a retirement pension awarded on that basis would assist the economical, effective and efficient management of its functions having taken account of the costs likely to be incurred in the particular case.
 
-(3)[^key-5639250612c1518a3677a37473f3e628] Where an employer is considering making the determination in paragraph (2) in respect of an active member who is a connected member of the NFPS, or a connected special member of the NFPS, in relation to that active member’s pension account, the employer must also consider making a determination under rule 6 (pension on authority initiated early retirement) of Part 3 of the NFPS.
+(3)[^c-5639250612c1518a3677a37473f3e628] Where an employer is considering making the determination in paragraph (2) in respect of an active member who is a connected member of the NFPS, or a connected special member of the NFPS, in relation to that active member’s pension account, the employer must also consider making a determination under rule 6 (pension on authority initiated early retirement) of Part 3 of the NFPS.
 
 ## Annotations
 
-[^key-a7ead33a44df929b217123c121651923]: Commencement: Reg. 71 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-a7ead33a44df929b217123c121651923]: Commencement: Reg. 71 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
-[^key-5639250612c1518a3677a37473f3e628]: Textual amendment: [Reg. 71(3)](https://www.legislation.gov.uk/wsi/2015/622/regulation/71/3) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/5/b)
+[^c-5639250612c1518a3677a37473f3e628]: Textual amendment: [Reg. 71(3)](https://www.legislation.gov.uk/wsi/2015/622/regulation/71/3) inserted (1.4.2015) by [The Firefighters' Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/1016)](https://www.legislation.gov.uk/wsi/2015/1016), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/wsi/2015/1016/schedule/1/paragraph/5/b)

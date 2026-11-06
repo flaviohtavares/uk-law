@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84B. Power to promote careers in school workforce in Wales[^key-c450c03020d351b8a81e859b205754dc]
+## 84B. Power to promote careers in school workforce in Wales[^c-c450c03020d351b8a81e859b205754dc]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c450c03020d351b8a81e859b205754dc]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2005/18/section/84A) - [S. 84B](https://www.legislation.gov.uk/ukpga/2005/18/section/84B) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/15/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-c450c03020d351b8a81e859b205754dc]: Textual amendment: [S. 84A](https://www.legislation.gov.uk/ukpga/2005/18/section/84A) - [S. 84B](https://www.legislation.gov.uk/ukpga/2005/18/section/84B) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 15(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/15/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

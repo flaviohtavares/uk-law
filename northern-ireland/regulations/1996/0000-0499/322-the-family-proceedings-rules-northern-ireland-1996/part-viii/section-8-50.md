@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.50. Notification of the court’s decision on an application for registration or non-recognition[^key-01b7174459c6aa56f66a4c72a02166bc]
+## 8.50. Notification of the court’s decision on an application for registration or non-recognition[^c-01b7174459c6aa56f66a4c72a02166bc]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ the proper officer will as soon as practicable take the appropriate action under
 
 ## Annotations
 
-[^key-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
+[^c-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
 
 [^M_F_9ee4c6b6-0e2f-4a03-f941-d0032b6f5ee3]: Textual amendment: Words in rule 8.50(4) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(27)(a)](https://www.legislation.gov.uk/nisr/2019/235/rule/2/27/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

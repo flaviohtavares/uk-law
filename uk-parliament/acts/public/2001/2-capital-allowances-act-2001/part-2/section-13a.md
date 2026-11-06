@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Use for other purposes of plant or machinery previously used for long funding leasing[^key-57bf84e7468c3a9477f063eb78339973]
+## 13A. Use for other purposes of plant or machinery previously used for long funding leasing[^c-57bf84e7468c3a9477f063eb78339973]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57bf84e7468c3a9477f063eb78339973]: Textual amendment: S. 13A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/2)
+[^c-57bf84e7468c3a9477f063eb78339973]: Textual amendment: S. 13A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/2)

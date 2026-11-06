@@ -45,7 +45,7 @@ Section 161.
 
 (4) In subsection (6), for the words following paragraph (b) substitute “ to have regard to a combination of economy, efficiency and effectiveness. ”
 
-(5) In subsection (7), insert at the end “ and to the bus strategy made jointly by the Authority and the councils for the metropolitan districts comprised in the area. ” *(affected by repeal, see note)*[^key-12dd7512c4b21e16b573e72f084b9c02]
+(5) In subsection (7), insert at the end “ and to the bus strategy made jointly by the Authority and the councils for the metropolitan districts comprised in the area. ” *(affected by repeal, see note)*[^c-12dd7512c4b21e16b573e72f084b9c02]
 
 **4.**[^c14886911] Omit section 9B (consultation and publicity with respect to policies as to services).
 
@@ -110,14 +110,14 @@ Section 161.
 
 (4) In subsection (7), for the words from “so to conduct” to the end substitute “ to have regard to a combination of economy, efficiency and effectiveness. ”
 
-(5) In subsection (8), at end insert “ and to the appropriate bus strategy. ” *(affected by repeal, see note)*[^key-81593c7f6cbc6a79a3bc1963c1cd4eba]
+(5) In subsection (8), at end insert “ and to the appropriate bus strategy. ” *(affected by repeal, see note)*[^c-81593c7f6cbc6a79a3bc1963c1cd4eba]
 
-(6) After that subsection insert— *(affected by repeal, see note)*[^key-81593c7f6cbc6a79a3bc1963c1cd4eba]
+(6) After that subsection insert— *(affected by repeal, see note)*[^c-81593c7f6cbc6a79a3bc1963c1cd4eba]
 
-> (8A) In subsection (8) “the appropriate bus strategy” means— *(affected by repeal, see note)*[^key-81593c7f6cbc6a79a3bc1963c1cd4eba]
+> (8A) In subsection (8) “the appropriate bus strategy” means— *(affected by repeal, see note)*[^c-81593c7f6cbc6a79a3bc1963c1cd4eba]
 >
-> - (a) in the case of a council which is a local transport authority (within the meaning of section 108(4) of the Transport Act 2000), their bus strategy; *(affected by repeal, see note)*[^key-81593c7f6cbc6a79a3bc1963c1cd4eba]
-> - (b) in the case of a district council which is not such an authority, the bus strategy of the council for the county in which the district is situated. *(affected by repeal, see note)*[^key-81593c7f6cbc6a79a3bc1963c1cd4eba]
+> - (a) in the case of a council which is a local transport authority (within the meaning of section 108(4) of the Transport Act 2000), their bus strategy; *(affected by repeal, see note)*[^c-81593c7f6cbc6a79a3bc1963c1cd4eba]
+> - (b) in the case of a district council which is not such an authority, the bus strategy of the council for the county in which the district is situated. *(affected by repeal, see note)*[^c-81593c7f6cbc6a79a3bc1963c1cd4eba]
 
 **12.**[^c14887001] (1) Section 64 (consultation and publicity with respect to policies as to services) is amended as follows.
 
@@ -129,7 +129,7 @@ Section 161.
 
 (3) In subsection (2), omit “under section 63(1)(a) or (as the case may be)”.
 
-**13.**[^key-fc5b02b66bd3bc9d4f39642096259226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-fc5b02b66bd3bc9d4f39642096259226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.**[^c14887021] In section 82 (bus stations: restrictions on discriminatory practices), after subsection (4) insert—
 
@@ -200,7 +200,7 @@ Section 161.
 
 ### Greater London Authority Act 1999 (c.29)
 
-**23.**[^key-f7cce5a3cd7369343517b81b2003eb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-f7cce5a3cd7369343517b81b2003eb4f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -212,7 +212,7 @@ Section 161.
 
 [^c14886901]: Commencement: Sch. 11 para. 3 wholly in force at 1.8.2001; Sch. 11 para. 3 not in force at Royal Assent see s. 275(1); Sch. 11 para. 3 in force (E.) at 1.2.2001 by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/57/article/3/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/I) (subject to the savings in [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/II)); Sch. 11 para. 3 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11)
 
-[^key-12dd7512c4b21e16b573e72f084b9c02]: Textual amendment: Sch. 11 para. 3(5) repealed (31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/d)
+[^c-12dd7512c4b21e16b573e72f084b9c02]: Textual amendment: Sch. 11 para. 3(5) repealed (31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/d)
 
 [^c14886911]: Commencement: Sch. 11 para. 4 wholly in force at 1.8.2001; Sch. 11 para. 4 not in force at Royal Assent see s. 275(1); Sch. 11 para. 4 in force (E.) at 1.2.2001 by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/57/article/3/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/I) (subject to the savings in [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/II)); Sch. 11 para. 4 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11)
 
@@ -232,11 +232,11 @@ Section 161.
 
 [^c14886991]: Commencement: Sch. 11 para. 11 wholly in force at 1.8.2001; Sch. 11 para. 11 not in force at Royal Assent see s. 275(1); Sch. 11 para. 11 in force (E.) at 1.2.2001 by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/57/article/3/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/I) (subject to the savings in [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/II)); Sch. 11 para. 11 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11)
 
-[^key-81593c7f6cbc6a79a3bc1963c1cd4eba]: Textual amendment: Sch. 11 para. 11(5)(6) repealed (31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/d)
+[^c-81593c7f6cbc6a79a3bc1963c1cd4eba]: Textual amendment: Sch. 11 para. 11(5)(6) repealed (31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/d)
 
 [^c14887001]: Commencement: Sch. 11 para. 12 wholly in force; Sch. 11 para. 12 not in force at Royal Assent see s. 275(1); Sch. 11 para. 12 in force (E.) at 1.2.2001 by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/57/article/3/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/I) (subject to the savings in [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/II)); Sch. 11 para. 2 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11)
 
-[^key-fc5b02b66bd3bc9d4f39642096259226]: Textual amendment: Sch. 11 para. 13 repealed (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/d)
+[^c-fc5b02b66bd3bc9d4f39642096259226]: Textual amendment: Sch. 11 para. 13 repealed (9.2.2009 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/3); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1); [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/d)
 
 [^c14887021]: Commencement: Sch. 11 para. 14 wholly in force at 26.10.2001; Sch. 11 para. 14 not in force at Royal Assent see s. 275(1); Sch. 11 para. 14 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11); Sch. 11 para. 14 in force (E.) at 26.10.2001 by [S.I. 2001/3342](https://www.legislation.gov.uk/uksi/2001/3342), [art. 2](https://www.legislation.gov.uk/uksi/2001/3342/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3342/schedule)
 
@@ -260,4 +260,4 @@ Section 161.
 
 [^c14887121]: Commencement: Sch. 11 para. 22 partly in force; Sch. 11 para. 22 not in force at Royal Assent see s. 275(1); Sch. 11 para. 22 in force for specified purposes (E.) at 1.2.2001 by [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/57/article/3/2), [Sch. 3 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/I) (subject to the savings in [Sch. 3 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/3/part/II)); Sch. 11 para. 22 in force (W.) at 1.8.2001 by [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11); Sch. 11 para. 22 in force in so far as it is not already in force (E.) at 26.10.2001 by [S.I. 2001/3342](https://www.legislation.gov.uk/uksi/2001/3342), [art. 2](https://www.legislation.gov.uk/uksi/2001/3342/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3342/schedule)
 
-[^key-f7cce5a3cd7369343517b81b2003eb4f]: Textual amendment: Sch. 11 para. 23 repealed (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-f7cce5a3cd7369343517b81b2003eb4f]: Textual amendment: Sch. 11 para. 23 repealed (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2007/13/schedule/3); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))

@@ -29,7 +29,7 @@ summary: ''
 
 (3) The procedure must provide for the exclusion from participation in the procurement of any economic operator in relation to which mandatory exclusion referred to in regulation 58(1) and (3) (exclusion grounds) applies and the contracting authority must not award a contract or framework agreement to such economic operator.
 
-(4) In particular, where, in accordance with regulation 75 (publication of notices), a contract notice [^key-e2a8a29b1f60f0548c550338a41ad7e8]... has been published in relation to a procurement, the contracting authority must, except in the circumstances mentioned in paragraph (5), conduct that procurement, and award any resulting contract, in conformity with the information contained in the notice about—
+(4) In particular, where, in accordance with regulation 75 (publication of notices), a contract notice [^c-e2a8a29b1f60f0548c550338a41ad7e8]... has been published in relation to a procurement, the contracting authority must, except in the circumstances mentioned in paragraph (5), conduct that procurement, and award any resulting contract, in conformity with the information contained in the notice about—
 
 - (a) conditions for participation;
 - (b) time limits for contacting the contracting authority; and
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a8a29b1f60f0548c550338a41ad7e8]: Textual amendment: Words in [reg. 76(4)](https://www.legislation.gov.uk/ssi/2015/446/regulation/76/4) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(17)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/17) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))
+[^c-e2a8a29b1f60f0548c550338a41ad7e8]: Textual amendment: Words in [reg. 76(4)](https://www.legislation.gov.uk/ssi/2015/446/regulation/76/4) omitted (30.5.2023) by virtue of [The Public Procurement (Miscellaneous Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/124)](https://www.legislation.gov.uk/ssi/2023/124), [regs. 2](https://www.legislation.gov.uk/ssi/2023/124/regulation/2), [4(17)](https://www.legislation.gov.uk/ssi/2023/124/regulation/4/17) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/124/regulation/3))

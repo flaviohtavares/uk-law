@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Power of court to cure defects in procedure[^key-c75dde38196c291cd8a8400f505546ad]
+## 103. Power of court to cure defects in procedure[^c-c75dde38196c291cd8a8400f505546ad]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ if the sheriff or the Court of Session, as the case may be, considers that the r
 
 ## Annotations
 
-[^key-c75dde38196c291cd8a8400f505546ad]: Commencement: Rule 103 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c75dde38196c291cd8a8400f505546ad]: Commencement: Rule 103 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

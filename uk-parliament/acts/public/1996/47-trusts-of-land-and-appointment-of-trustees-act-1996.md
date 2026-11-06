@@ -119,7 +119,7 @@ In this subsection “**relevant property**” means land and personal chattels 
 
 (6) The powers conferred by this section shall not be exercised in contravention of, or of any order made in pursuance of, any other enactment or any rule of law or equity.
 
-(7) The reference in subsection (6) to an order includes an order of any court or of the Charity Commission[^key-e3b3485c5553b9c609a0613792e9e2b9].
+(7) The reference in subsection (6) to an order includes an order of any court or of the Charity Commission[^c-e3b3485c5553b9c609a0613792e9e2b9].
 
 (8) Where any enactment other than this section confers on trustees authority to act subject to any restriction, limitation or condition, trustees of land may not exercise the powers conferred by this section to do any act which they are prevented from doing under the other enactment by reason of the restriction, limitation or condition.
 
@@ -137,7 +137,7 @@ In this subsection “**relevant property**” means land and personal chattels 
 
 (5) If a share in the land is absolutely vested in a minor, subsections (1) to (4) apply as if he were of full age, except that the trustees may act on his behalf and retain land or other property representing his share in trust for him.
 
-(6)[^key-be3c15329588413ee459da555cc2b5d7] Subsection (1) is subject to sections 21 (part-unit: interests) and 22 (part-unit: charging) of the Commonhold and Leasehold Reform Act 2002.
+(6)[^c-be3c15329588413ee459da555cc2b5d7] Subsection (1) is subject to sections 21 (part-unit: interests) and 22 (part-unit: charging) of the Commonhold and Leasehold Reform Act 2002.
 
 #### 8. Exclusion and restriction of powers.
 
@@ -167,7 +167,7 @@ And it shall be conclusively presumed in favour of any purchaser whose interest 
 
 (5) A delegation under subsection (1) may be for any period or indefinite.
 
-(6) A power of attorney under subsection (1) cannot be an enduring power of attorney or lasting power of attorney within the meaning of the Mental Capacity Act 2005[^key-b53a4ca9022fbe34cb29e90f8ec01b43].
+(6) A power of attorney under subsection (1) cannot be an enduring power of attorney or lasting power of attorney within the meaning of the Mental Capacity Act 2005[^c-b53a4ca9022fbe34cb29e90f8ec01b43].
 
 (7) Beneficiaries to whom functions have been delegated under subsection (1) are, in relation to the exercise of the functions, in the same position as trustees (with the same duties and liabilities); but such beneficiaries shall not be regarded as trustees for any other purposes (including, in particular, the purposes of any enactment permitting the delegation of functions by trustees or imposing requirements relating to the payment of capital money).
 
@@ -415,15 +415,15 @@ he shall make a deed declaring his retirement and shall be deemed to have retire
 
 (1) This section applies where—
 
-- (a) a trustee lacks capacity (within the meaning of the Mental Capacity Act 2005) to exercise[^key-b383766e9e18bbbbd815f342bd94877a] his functions as trustee,
+- (a) a trustee lacks capacity (within the meaning of the Mental Capacity Act 2005) to exercise[^c-b383766e9e18bbbbd815f342bd94877a] his functions as trustee,
 - (b) there is no person who is both entitled and willing and able to appoint a trustee in place of him under section 36(1) of the Trustee Act 1925, and
 - (c) the beneficiaries under the trust are of full age and capacity and (taken together) are absolutely entitled to the property subject to the trust.
 
 (2) The beneficiaries may give to—
 
-- (a)[^key-4c62e7183f0d34fd3acf4fc96a8febc6] a deputy appointed for the trustee by the Court of Protection,
-- (b) an attorney acting for him under the authority of an enduring power of attorney or lasting power of attorney registered under the Mental Capacity Act 2005[^key-b8eca0e1290ec456ebe221431f74c9c5]
-- (c) a person authorised for the purpose by the Court of Protection[^key-561fe3c34a6a60f6568f449d47a440f3],
+- (a)[^c-4c62e7183f0d34fd3acf4fc96a8febc6] a deputy appointed for the trustee by the Court of Protection,
+- (b) an attorney acting for him under the authority of an enduring power of attorney or lasting power of attorney registered under the Mental Capacity Act 2005[^c-b8eca0e1290ec456ebe221431f74c9c5]
+- (c) a person authorised for the purpose by the Court of Protection[^c-561fe3c34a6a60f6568f449d47a440f3],
 
 a written direction to appoint by writing the person or persons specified in the direction to be a trustee or trustees in place of the incapable trustee.
 
@@ -479,7 +479,7 @@ and none of them by writing withdraws the direction given by him before it has b
 (3) In this Act “**the court**” means—
 
 - (a) the High Court, or
-- (b) the county court[^key-e41da0e15d404fb02688a38d096f5be2].
+- (b) the county court[^c-e41da0e15d404fb02688a38d096f5be2].
 
 ### 24. Application to Crown.
 
@@ -562,7 +562,7 @@ the conveyance operates to vest the land in the other person or persons in trust
 
 ### Family charges
 
-**3.** Where, by virtue of an instrument coming into operation after the commencement of this Act, land becomes charged voluntarily (or in consideration of marriage or the formation of a civil partnership[^key-84829b9ff0778e96e754323dcbe1304a]) or by way of family arrangement, whether immediately or after an interval, with the payment of—
+**3.** Where, by virtue of an instrument coming into operation after the commencement of this Act, land becomes charged voluntarily (or in consideration of marriage or the formation of a civil partnership[^c-84829b9ff0778e96e754323dcbe1304a]) or by way of family arrangement, whether immediately or after an interval, with the payment of—
 
 - (a) a rentcharge for the life of a person or a shorter period, or
 - (b) capital, annual or periodical sums for the benefit of a person,
@@ -575,8 +575,8 @@ the instrument operates as a declaration that the land is held in trust for givi
 
 (2) Where there is a conveyance of such land—
 
-- (a) if neither section 122(2) nor section 125(1) of the Charities Act 2011[^key-1284dce7aded0a5f8c99204ab87ca7e8] applies to the conveyance, it shall state that the land is held on such trusts, and
-- (b) if section 122(2) or 125(1) of that Act applies to the conveyance but has not been complied with[^key-4e6205e5a175f49e8a9d145adecdf848] and a purchaser has notice that the land is held on such trusts, he must see that any consents or orders necessary to authorise the transaction have been obtained.
+- (a) if neither section 122(2) nor section 125(1) of the Charities Act 2011[^c-1284dce7aded0a5f8c99204ab87ca7e8] applies to the conveyance, it shall state that the land is held on such trusts, and
+- (b) if section 122(2) or 125(1) of that Act applies to the conveyance but has not been complied with[^c-4e6205e5a175f49e8a9d145adecdf848] and a purchaser has notice that the land is held on such trusts, he must see that any consents or orders necessary to authorise the transaction have been obtained.
 
 (3) Where any trustees or the majority of any set of trustees have power to transfer or create any legal estate in the land, the estate shall be transferred or created by them in the names and on behalf of the persons in whom it is vested.
 
@@ -938,7 +938,7 @@ and, in accordance with the amendments made by paragraphs (a) and (b), in the si
 
 ### The Land Registration Act 1925 (c.21)
 
-**5.**[^key-5fc1201ec2cda900b47cfdf63a5b5753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5fc1201ec2cda900b47cfdf63a5b5753] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Administration of Estates Act 1925 (c.23)
 
@@ -1118,7 +1118,7 @@ and, in accordance with the amendments made by paragraphs (a) and (b), in the si
 
 ### The Charities Act 1993 (c.10)
 
-**26.**[^key-8f8eedaed852d8c3cd965dfcaf44bc5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-8f8eedaed852d8c3cd965dfcaf44bc5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Leasehold Reform, Housing and Urban Development Act 1993 (c.28)
 
@@ -1194,7 +1194,7 @@ Section 25(2).
 | 1980 c. 58. | The Limitation Act 1980. | In section 18—<br>in subsection (1), the words “, including interests in the proceeds of the sale of land held upon trust for sale,”, and<br>in subsections (3) and (4), the words “(including a trust for sale)” and the words “or in the proceeds of sale”. |
 |  |  | In section 38(1)—<br>in the definition of “land”, the words “, including an interest in the proceeds of the sale of land held upon trust for sale,”, and<br>the definition of “trust for sale”. |
 |  |  | In Schedule 1, in Part I, in paragraph 9—<br>the words “or in the proceeds of sale”,<br>the words “or the proceeds”, and<br>the words “or the proceeds of sale”. |
-| 1981 c. 54. | The Senior Courts Act 1981[^key-fea73914119170181e8e9ca4a1d6ce31]. | In section 128, in the definition of “real estate”, in paragraph (b), the words “money to arise under a trust for sale of land, nor”. |
+| 1981 c. 54. | The Senior Courts Act 1981[^c-fea73914119170181e8e9ca4a1d6ce31]. | In section 128, in the definition of “real estate”, in paragraph (b), the words “money to arise under a trust for sale of land, nor”. |
 | 1983 c. 41. | The Health and Social Services and Social Security Adjudications Act 1983. | Section 22(3). |
 | 1984 c. 28. | The County Courts Act 1984. | In Schedule 2, in Part II, in paragraph 2—<br>in sub-paragraph (1), the entry relating to section 30 of the Law of Property Act 1925,<br>sub-paragraph (2), and<br>in sub-paragraph (3), “30(2),”. |
 | 1984 c. 51. | The Inheritance Tax Act 1984. | In section 237(3), the words “and undivided shares in land held on trust for sale, whether statutory or not,”. |
@@ -1230,13 +1230,13 @@ Section 25(2).
 
 [^c93278]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/6/4) repealed (1.2.2001) by [2000 c. 29](https://www.legislation.gov.uk/ukpga/2000/29), [s. 40(1)(3)](https://www.legislation.gov.uk/ukpga/2000/29/section/40/1/3), [Sch. 2 para. 45(2)](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/45/2), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/2000/29/schedule/4/part/II) (with [s. 35](https://www.legislation.gov.uk/ukpga/2000/29/section/35)); [S.I. 2001/49](https://www.legislation.gov.uk/uksi/2001/49), [art. 2](https://www.legislation.gov.uk/uksi/2001/49/article/2)
 
-[^key-e3b3485c5553b9c609a0613792e9e2b9]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/1996/47/section/6/7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 182](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/182); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
+[^c-e3b3485c5553b9c609a0613792e9e2b9]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/ukpga/1996/47/section/6/7) substituted (27.2.2007) by [Charities Act 2006 (c. 50)](https://www.legislation.gov.uk/ukpga/2006/50), [s. 79(2)](https://www.legislation.gov.uk/ukpga/2006/50/section/79/2), [Sch. 8 para. 182](https://www.legislation.gov.uk/ukpga/2006/50/schedule/8/paragraph/182); [S.I. 2007/309](https://www.legislation.gov.uk/uksi/2007/309), [art. 2](https://www.legislation.gov.uk/uksi/2007/309/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/309/schedule)
 
 [^c93279]: Textual amendment: [S. 6(9)](https://www.legislation.gov.uk/ukpga/1996/47/section/6/9) inserted (1.2.2001) by [2000 c. 29](https://www.legislation.gov.uk/ukpga/2000/29), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2000/29/section/40/1), [Sch. 2 para. 45(3)](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/45/3) (with [s. 35](https://www.legislation.gov.uk/ukpga/2000/29/section/35)); [S.I. 2001/49](https://www.legislation.gov.uk/uksi/2001/49), [art. 2](https://www.legislation.gov.uk/uksi/2001/49/article/2)
 
-[^key-be3c15329588413ee459da555cc2b5d7]: Textual amendment: [S. 7(6)](https://www.legislation.gov.uk/ukpga/1996/47/section/7/6) added (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/8); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
+[^c-be3c15329588413ee459da555cc2b5d7]: Textual amendment: [S. 7(6)](https://www.legislation.gov.uk/ukpga/1996/47/section/7/6) added (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/8); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
 
-[^key-b53a4ca9022fbe34cb29e90f8ec01b43]: Textual amendment: Words in [s. 9(6)](https://www.legislation.gov.uk/ukpga/1996/47/section/9/6) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/2) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-b53a4ca9022fbe34cb29e90f8ec01b43]: Textual amendment: Words in [s. 9(6)](https://www.legislation.gov.uk/ukpga/1996/47/section/9/6) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(2)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/2) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c93283]: Textual amendment: [S. 9(8)](https://www.legislation.gov.uk/ukpga/1996/47/section/9/8) repealed (1.2.2001) by [2000 c. 29](https://www.legislation.gov.uk/ukpga/2000/29), [s. 40(1)(3)](https://www.legislation.gov.uk/ukpga/2000/29/section/40/1/3), [Sch. 2 para. 46](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/paragraph/46), [Sch. 4 Pt. II](https://www.legislation.gov.uk/ukpga/2000/29/schedule/4/part/II) (with [s. 35](https://www.legislation.gov.uk/ukpga/2000/29/section/35)); [S.I. 2001/49](https://www.legislation.gov.uk/uksi/2001/49), [art. 2](https://www.legislation.gov.uk/uksi/2001/49/article/2)
 
@@ -1258,13 +1258,13 @@ Section 25(2).
 
 [^M_F_6e398243-5525-4f8c-b0dd-1ba3c13f7631]: Textual amendment: S. 20 title substituted (1.10.2007) by virtue of [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-b383766e9e18bbbbd815f342bd94877a]: Textual amendment: Words in s. 20(1)(a) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-b383766e9e18bbbbd815f342bd94877a]: Textual amendment: Words in s. 20(1)(a) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-4c62e7183f0d34fd3acf4fc96a8febc6]: Textual amendment: S. 20(2)(a) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/b/i) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-4c62e7183f0d34fd3acf4fc96a8febc6]: Textual amendment: S. 20(2)(a) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/b/i) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-b8eca0e1290ec456ebe221431f74c9c5]: Textual amendment: Words in s. 20(2)(b) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/b/ii) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-b8eca0e1290ec456ebe221431f74c9c5]: Textual amendment: Words in s. 20(2)(b) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/b/ii) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-561fe3c34a6a60f6568f449d47a440f3]: Textual amendment: Words in s. 20(2)(c) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/b/iii) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-561fe3c34a6a60f6568f449d47a440f3]: Textual amendment: Words in s. 20(2)(c) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 42(3)(b)(iii)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/42/3/b/iii) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c93295]: Marginal citation: [1925 c. 19](https://www.legislation.gov.uk/ukpga/1925/19).
 
@@ -1272,7 +1272,7 @@ Section 25(2).
 
 [^c93297]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-e41da0e15d404fb02688a38d096f5be2]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/1996/47/section/23/3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-e41da0e15d404fb02688a38d096f5be2]: Textual amendment: Words in [s. 23(3)](https://www.legislation.gov.uk/ukpga/1996/47/section/23/3) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c93298]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
@@ -1288,13 +1288,13 @@ Section 25(2).
 
 [^c93304]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-84829b9ff0778e96e754323dcbe1304a]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1996/47/schedule/1/paragraph/3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 153](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/153); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-84829b9ff0778e96e754323dcbe1304a]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1996/47/schedule/1/paragraph/3) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 153](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/153); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
 [^c93305]: Marginal citation: [1925 c. 24](https://www.legislation.gov.uk/ukpga/1925/24).
 
-[^key-1284dce7aded0a5f8c99204ab87ca7e8]: Textual amendment: Words in [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/1/paragraph/4/2/a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 70(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/70/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-1284dce7aded0a5f8c99204ab87ca7e8]: Textual amendment: Words in [Sch. 1 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/1/paragraph/4/2/a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 70(a)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/70/a) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-4e6205e5a175f49e8a9d145adecdf848]: Textual amendment: Words in [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/1/paragraph/4/2/b) substituted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/29); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 13(k)](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/13/k)
+[^c-4e6205e5a175f49e8a9d145adecdf848]: Textual amendment: Words in [Sch. 1 para. 4(2)(b)](https://www.legislation.gov.uk/ukpga/1996/47/schedule/1/paragraph/4/2/b) substituted (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/29); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 13(k)](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/13/k)
 
 [^c93307]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
@@ -1312,7 +1312,7 @@ Section 25(2).
 
 [^c93315]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-5fc1201ec2cda900b47cfdf63a5b5753]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/5) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-5fc1201ec2cda900b47cfdf63a5b5753]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/5) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c93316]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -1322,8 +1322,8 @@ Section 25(2).
 
 [^c93319]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-8f8eedaed852d8c3cd965dfcaf44bc5b]: Textual amendment: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/26) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-8f8eedaed852d8c3cd965dfcaf44bc5b]: Textual amendment: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/26) repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c93320]: Extent: All repeals in Sch. 4 extend to England and Wales only except as mentioned in s. 27(4)
 
-[^key-fea73914119170181e8e9ca4a1d6ce31]: Textual amendment: Words in Blanket Amendment substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-fea73914119170181e8e9ca4a1d6ce31]: Textual amendment: Words in Blanket Amendment substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

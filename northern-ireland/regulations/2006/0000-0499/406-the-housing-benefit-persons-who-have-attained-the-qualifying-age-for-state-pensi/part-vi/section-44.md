@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Calculation of capital outside the United Kingdom[^key-97b519c0854731db3cb65d9875db535e]
+## 44. Calculation of capital outside the United Kingdom[^c-97b519c0854731db3cb65d9875db535e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ less, where there would be expenses attributable to sale, 10 per cent. and the a
 
 ## Annotations
 
-[^key-97b519c0854731db3cb65d9875db535e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/406/regulation/44) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-97b519c0854731db3cb65d9875db535e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/406/regulation/44) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Extension of section 19A of 1995 Act[^key-b53fde31a73cecb0e361fb2254224e7d]
+## 81. Extension of section 19A of 1995 Act[^c-b53fde31a73cecb0e361fb2254224e7d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 19A(6) of the 1995 Act (definitions of certain expressions for purpos
 
 ## Annotations
 
-[^key-b53fde31a73cecb0e361fb2254224e7d]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2010/13/section/81) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2011/178/article/8))
+[^c-b53fde31a73cecb0e361fb2254224e7d]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2010/13/section/81) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2011/178/article/8))

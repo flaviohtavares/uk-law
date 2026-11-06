@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Review of operation and effectiveness[^key-241959d6e26368277544875b189a7892][^key-e937a2777e67fa51602367fc2c9dfebf]
+## 31. Review of operation and effectiveness[^c-241959d6e26368277544875b189a7892][^c-e937a2777e67fa51602367fc2c9dfebf]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-241959d6e26368277544875b189a7892]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-241959d6e26368277544875b189a7892]: Commencement: S. 31 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-e937a2777e67fa51602367fc2c9dfebf]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2022/9/section/31) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-e937a2777e67fa51602367fc2c9dfebf]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2022/9/section/31) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

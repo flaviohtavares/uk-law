@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Custody during proceedings of Court Martial or Service Civilian Court[^key-072248761ac24fdb259a0c43b20da8dd][^key-f815d5b00e489ca2380c3b7cbf4b4a8d][^key-0fc40c253cea98c1323154857a42d66f][^key-f815d5b00e489ca2380c3b7cbf4b4a8d]
+## 109. Custody during proceedings of Court Martial or Service Civilian Court[^c-072248761ac24fdb259a0c43b20da8dd][^c-f815d5b00e489ca2380c3b7cbf4b4a8d][^c-0fc40c253cea98c1323154857a42d66f][^c-f815d5b00e489ca2380c3b7cbf4b4a8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,8 +36,8 @@ section 105(2) to (6) (as applied by section 108(4)) apply with the following mo
 
 ## Annotations
 
-[^key-072248761ac24fdb259a0c43b20da8dd]: Commencement: S. 109 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-072248761ac24fdb259a0c43b20da8dd]: Commencement: S. 109 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
+[^c-f815d5b00e489ca2380c3b7cbf4b4a8d]: Modification: Pt. 4 modified by 1968 c. 20, s. 20(1G)(1H) (as substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 8 para. 21(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/8/paragraph/21/a); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4))
 
-[^key-0fc40c253cea98c1323154857a42d66f]: Commencement: S. 109 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0fc40c253cea98c1323154857a42d66f]: Commencement: S. 109 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

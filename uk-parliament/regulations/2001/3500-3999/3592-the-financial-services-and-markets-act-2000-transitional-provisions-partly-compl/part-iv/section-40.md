@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Notice of proposed alteration or change of trustee of unit trust scheme[^key-834e16ac33815fa60e4b54433b4ef025]
+## 40. Notice of proposed alteration or change of trustee of unit trust scheme[^c-834e16ac33815fa60e4b54433b4ef025]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the notice has effect after commencement as a notice given in accordance with se
 
 ## Annotations
 
-[^key-834e16ac33815fa60e4b54433b4ef025]: Commencement: Art. 40 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-834e16ac33815fa60e4b54433b4ef025]: Commencement: Art. 40 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

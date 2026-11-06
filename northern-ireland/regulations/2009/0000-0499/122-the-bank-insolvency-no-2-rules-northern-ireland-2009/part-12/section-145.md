@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Liquidator’s notice of disclaimer[^key-899baec83780a6d56b5e70c1086e562e]
+## 145. Liquidator’s notice of disclaimer[^c-899baec83780a6d56b5e70c1086e562e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.197 of the 1991 Rules.
 
 ## Annotations
 
-[^key-899baec83780a6d56b5e70c1086e562e]: Commencement: Rule 145 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-899baec83780a6d56b5e70c1086e562e]: Commencement: Rule 145 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

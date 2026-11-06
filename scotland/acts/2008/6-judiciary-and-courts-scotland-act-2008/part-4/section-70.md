@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Default power[^key-43727ecbf123f5553244fc7c09c339ff][^key-116b98fe4ef36ad97194b985762be26b]
+## 70. Default power[^c-43727ecbf123f5553244fc7c09c339ff][^c-116b98fe4ef36ad97194b985762be26b]
 
 *Extent: S*
 
 (1) Subsection (2) applies if the Scottish Ministers consider—
 
-- (a) that the SCTS[^key-96dd6eeaca12e04981eaa23b0b5c378e] is—
-  - (i) failing to carry out its functions to such an extent that there is a significant risk to the efficient and effective functioning of the Scottish courts or the Scottish Tribunals[^key-63c0e4467db84b8c8e3bc2945234b6f4], or
+- (a) that the SCTS[^c-96dd6eeaca12e04981eaa23b0b5c378e] is—
+  - (i) failing to carry out its functions to such an extent that there is a significant risk to the efficient and effective functioning of the Scottish courts or the Scottish Tribunals[^c-63c0e4467db84b8c8e3bc2945234b6f4], or
   - (ii) is carrying them out in such a way that there is such a risk, and
 - (b) that in order to avoid or mitigate that risk it is necessary that the functions be carried out instead by them.
 
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-43727ecbf123f5553244fc7c09c339ff]: Commencement: S. 70 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-43727ecbf123f5553244fc7c09c339ff]: Commencement: S. 70 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-116b98fe4ef36ad97194b985762be26b]: Modification: S. 70 applied (temp.) (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/3/1); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-116b98fe4ef36ad97194b985762be26b]: Modification: S. 70 applied (temp.) (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/3/1); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-96dd6eeaca12e04981eaa23b0b5c378e]: Textual amendment: Word in Act substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/2); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-96dd6eeaca12e04981eaa23b0b5c378e]: Textual amendment: Word in Act substituted (2.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/2); [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-63c0e4467db84b8c8e3bc2945234b6f4]: Textual amendment: Words in s. 70(1)(a)(i) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/5); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-63c0e4467db84b8c8e3bc2945234b6f4]: Textual amendment: Words in s. 70(1)(a)(i) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 4 para. 1(5)](https://www.legislation.gov.uk/asp/2014/18/schedule/4/paragraph/1/5); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

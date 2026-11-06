@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17A. Prospective landlords’ duty to include information about rent in advertisements: property is not exempt property[^key-83c4120956e5306ee500f6157816cef5]
+## 17A. Prospective landlords’ duty to include information about rent in advertisements: property is not exempt property[^c-83c4120956e5306ee500f6157816cef5]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ must include the information mentioned in subsection (2) in the advertisement.
 
 ## Annotations
 
-[^key-83c4120956e5306ee500f6157816cef5]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/asp/2016/19/section/17A) and cross-heading inserted (for the purposes of an advertisement placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 22(2)](https://www.legislation.gov.uk/asp/2025/13/section/22/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-83c4120956e5306ee500f6157816cef5]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/asp/2016/19/section/17A) and cross-heading inserted (for the purposes of an advertisement placed on or after 1.4.2026) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 22(2)](https://www.legislation.gov.uk/asp/2025/13/section/22/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

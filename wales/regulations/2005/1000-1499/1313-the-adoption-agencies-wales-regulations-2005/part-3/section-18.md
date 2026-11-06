@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Function of the adoption panel in relation to a child referred by the adoption agency[^key-5fc057f386675bc64c2f4eba006ccc50]
+## 18. Function of the adoption panel in relation to a child referred by the adoption agency[^c-5fc057f386675bc64c2f4eba006ccc50]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fc057f386675bc64c2f4eba006ccc50]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2005/1313/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-5fc057f386675bc64c2f4eba006ccc50]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2005/1313/regulation/18) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

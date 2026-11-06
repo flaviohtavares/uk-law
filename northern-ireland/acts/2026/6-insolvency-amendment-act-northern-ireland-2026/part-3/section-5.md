@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Exercise of powers by liquidator: removal of need for sanction[^key-0ffd4fdcc817ace67f6ad621358630aa]
+## 5. Exercise of powers by liquidator: removal of need for sanction[^c-0ffd4fdcc817ace67f6ad621358630aa]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ffd4fdcc817ace67f6ad621358630aa]: Commencement: S. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-0ffd4fdcc817ace67f6ad621358630aa]: Commencement: S. 5 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

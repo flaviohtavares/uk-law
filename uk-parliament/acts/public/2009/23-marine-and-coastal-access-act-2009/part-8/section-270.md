@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Procedure in relation to seizure under section 268 or 269[^key-2d08837d9393ff65299b03fa0cfbc4b3]
+## 270. Procedure in relation to seizure under section 268 or 269[^c-2d08837d9393ff65299b03fa0cfbc4b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d08837d9393ff65299b03fa0cfbc4b3]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2009/23/section/270) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-2d08837d9393ff65299b03fa0cfbc4b3]: Commencement: [S. 270](https://www.legislation.gov.uk/ukpga/2009/23/section/270) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

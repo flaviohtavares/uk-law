@@ -28,7 +28,7 @@ summary: ''
   - (ii) although concurrently eligible for an allowance under article 12(1)(a), an allowance under article 15; or
 - (c) an allowance under article 8 ceased to be payable within 13 weeks of his death following his entry as an inpatient into a hospital or other institution
 
-his surviving spouse or surviving civil partner or dependant who lived as his spouse or [^key-8018ad30b8da5092ff3479b4e5c70c2a]... civil partner (“dependant”) may be awarded a personal allowance and, in respect of children, additional allowances in accordance with the following provisions of this article.
+his surviving spouse or surviving civil partner or dependant who lived as his spouse or [^c-8018ad30b8da5092ff3479b4e5c70c2a]... civil partner (“dependant”) may be awarded a personal allowance and, in respect of children, additional allowances in accordance with the following provisions of this article.
 
 (2) For the purposes of paragraph (1), a member of the armed forces shall be treated as if he was in receipt of an allowance under article 12(1)(a) if—
 
@@ -37,7 +37,7 @@ his surviving spouse or surviving civil partner or dependant who lived as his sp
 
 (3) A personal allowance awarded under this article to a surviving spouse or surviving civil partner shall be payable—
 
-- (a)[^key-bc2a890950dc7dfb79a748fd4cc84b90] for the period of 26 weeks commencing on the relevant day; and
+- (a)[^c-bc2a890950dc7dfb79a748fd4cc84b90] for the period of 26 weeks commencing on the relevant day; and
 - (b) at a weekly rate equal to the total amount of the retired pay, pension, alternative retired pay or pension or treatment allowances and any other allowances payable to the member under this Order or by virtue of a grant under a 1919 to 1921 instrument in respect of the 7 days next preceding the day of his death, with the exception of allowances under article 11 or 12(6) (a) or a mobility supplement under article 20 or any allowance in respect of a child; but
 - (c) a personal allowance under this paragraph shall be subject to article 33(1) as if it were a pension under article 23 and shall not be payable for any period after the death of the surviving spouse or surviving civil partner; and
 - (d) in calculating the weekly rate of retired pay, pension or allowances for the purposes of the foregoing provisions of this article—
@@ -71,7 +71,7 @@ in each case the circumstances are such as to justify the continuance of the awa
 - (a) vary the conditions for the award of a personal allowance in so far as they related to a period in respect of which an allowance under article 8 or article 12(1)(a) is required to have been payable;
 - (b) award a personal allowance or an additional allowance for any week at a weekly rate other than that prescribed in paragraph (3)(b) or, as the case may be, paragraph (5), but not exceeding the maximum rate which would have been payable in accordance with that subparagraph had the member died at any time not earlier than 13 weeks before the date of his death.
 
-(8)[^key-e8138ec6af4bffb7a227ec421b666930] In this article, “relevant day” means—
+(8)[^c-e8138ec6af4bffb7a227ec421b666930] In this article, “relevant day” means—
 
 - (a) in the case of the surviving spouse or surviving civil partner of an officer, the day after the day of the officer’s death;
 - (b) in the case of the surviving spouse or surviving civil partner of any other member—
@@ -82,8 +82,8 @@ in each case the circumstances are such as to justify the continuance of the awa
 
 [^c2154779]: Textual amendment: Art. 27(1)(a) omitted (7.4.2008 with application in accordance with art. 2(3) of the amending S.I.) by virtue of [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2008 (S.I. 2008/679)](https://www.legislation.gov.uk/uksi/2008/679), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2008/679/article/2/1/2/a), [Sch. 1 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/2008/679/schedule/1/part/1/paragraph/3)
 
-[^key-8018ad30b8da5092ff3479b4e5c70c2a]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/uksi/2006/606/article/27/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(6)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/6)
+[^c-8018ad30b8da5092ff3479b4e5c70c2a]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/uksi/2006/606/article/27/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(6)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/6)
 
-[^key-bc2a890950dc7dfb79a748fd4cc84b90]: Textual amendment: Art. 27(3)(a) substituted (8.4.2019) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2019 (S.I. 2019/186)](https://www.legislation.gov.uk/uksi/2019/186), [arts. 1](https://www.legislation.gov.uk/uksi/2019/186/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/186/article/3/a)
+[^c-bc2a890950dc7dfb79a748fd4cc84b90]: Textual amendment: Art. 27(3)(a) substituted (8.4.2019) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2019 (S.I. 2019/186)](https://www.legislation.gov.uk/uksi/2019/186), [arts. 1](https://www.legislation.gov.uk/uksi/2019/186/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/186/article/3/a)
 
-[^key-e8138ec6af4bffb7a227ec421b666930]: Textual amendment: Art. 27(8) inserted (8.4.2019) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2019 (S.I. 2019/186)](https://www.legislation.gov.uk/uksi/2019/186), [arts. 1](https://www.legislation.gov.uk/uksi/2019/186/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/186/article/3/b)
+[^c-e8138ec6af4bffb7a227ec421b666930]: Textual amendment: Art. 27(8) inserted (8.4.2019) by [The Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions (Amendment) Order 2019 (S.I. 2019/186)](https://www.legislation.gov.uk/uksi/2019/186), [arts. 1](https://www.legislation.gov.uk/uksi/2019/186/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2019/186/article/3/b)

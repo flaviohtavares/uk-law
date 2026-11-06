@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Protection of interests[^key-dc4ae5891a9912fb4f95f457514c4add]
+## 58. Protection of interests[^c-dc4ae5891a9912fb4f95f457514c4add]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 14 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-dc4ae5891a9912fb4f95f457514c4add]: Commencement: Art. 58 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-dc4ae5891a9912fb4f95f457514c4add]: Commencement: Art. 58 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

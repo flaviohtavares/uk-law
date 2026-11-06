@@ -32,10 +32,10 @@ but does not apply to income which is charged in accordance with section 832 (re
 
 (3) A person changes the basis on which profits of a trade are calculated for income tax purposes if the person makes—
 
-- (a) a change of accounting policy[^key-b8f7eff92863d646831858daf6d7c9ed] (see subsection (4)), or
+- (a) a change of accounting policy[^c-b8f7eff92863d646831858daf6d7c9ed] (see subsection (4)), or
 - (b) a change in the tax adjustments applied (see subsections (5) and (6)).
 
-(4)[^key-3ad3c53b64dfab31b465cb50fa3d3516] A “**change of accounting policy**” includes, in particular—
+(4)[^c-3ad3c53b64dfab31b465cb50fa3d3516] A “**change of accounting policy**” includes, in particular—
 
 - (a) a change from using UK generally accepted accounting practice to using generally accepted accounting practice with respect to accounts prepared in accordance with international accounting standards, and
 - (b) a change from using generally accepted accounting practice with respect to accounts prepared in accordance with international accounting standards to using UK generally accepted accounting practice.
@@ -49,6 +49,6 @@ but does not apply to income which is charged in accordance with section 832 (re
 
 ## Annotations
 
-[^key-b8f7eff92863d646831858daf6d7c9ed]: Textual amendment: Words in s. 227(3)(a) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/1/a)
+[^c-b8f7eff92863d646831858daf6d7c9ed]: Textual amendment: Words in s. 227(3)(a) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/1/a)
 
-[^key-3ad3c53b64dfab31b465cb50fa3d3516]: Textual amendment: S. 227(4) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/1/b)
+[^c-3ad3c53b64dfab31b465cb50fa3d3516]: Textual amendment: S. 227(4) substituted (with effect in accordance with s. 54(5)(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 54(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/54/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Reviews, investigations and inspections[^key-53339c009f01b1df3197067014918300][^key-5113d2bd2ea0420f002fc889365947d8][^key-520dcc606f0ee4e43bfa315a6aab66d5][^key-dd7f525ca3f43b97e25ca404ab24067f][^key-c0196bdefba2acf739bcc461cced6c52][^key-5113d2bd2ea0420f002fc889365947d8][^key-520dcc606f0ee4e43bfa315a6aab66d5][^key-dd7f525ca3f43b97e25ca404ab24067f][^key-c0196bdefba2acf739bcc461cced6c52]
+## 57. Reviews, investigations and inspections[^c-53339c009f01b1df3197067014918300][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52][^c-5113d2bd2ea0420f002fc889365947d8][^c-520dcc606f0ee4e43bfa315a6aab66d5][^c-dd7f525ca3f43b97e25ca404ab24067f][^c-c0196bdefba2acf739bcc461cced6c52]
 
 *Extent: E+W*
 
@@ -227,12 +227,12 @@ summary: ''
 
 ## Annotations
 
-[^key-53339c009f01b1df3197067014918300]: Commencement: S. 57 in force at 29.4.2019 by [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)
+[^c-53339c009f01b1df3197067014918300]: Commencement: S. 57 in force at 29.4.2019 by [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/c)
 
-[^key-5113d2bd2ea0420f002fc889365947d8]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [58(3)](https://www.legislation.gov.uk/wsi/2019/165/regulation/58/3)
+[^c-5113d2bd2ea0420f002fc889365947d8]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Advocacy Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/165)](https://www.legislation.gov.uk/wsi/2019/165), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2), [58(3)](https://www.legislation.gov.uk/wsi/2019/165/regulation/58/3)
 
-[^key-520dcc606f0ee4e43bfa315a6aab66d5]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71)
+[^c-520dcc606f0ee4e43bfa315a6aab66d5]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Fostering Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/169)](https://www.legislation.gov.uk/wsi/2019/169), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2), [71](https://www.legislation.gov.uk/wsi/2019/169/regulation/71)
 
-[^key-dd7f525ca3f43b97e25ca404ab24067f]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/762)](https://www.legislation.gov.uk/wsi/2019/762), [regs.](https://www.legislation.gov.uk/wsi/2019/762/regulation), [57(3)](https://www.legislation.gov.uk/wsi/2019/762/regulation/57/3)
+[^c-dd7f525ca3f43b97e25ca404ab24067f]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Regulated Adoption Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/762)](https://www.legislation.gov.uk/wsi/2019/762), [regs.](https://www.legislation.gov.uk/wsi/2019/762/regulation), [57(3)](https://www.legislation.gov.uk/wsi/2019/762/regulation/57/3)
 
-[^key-c0196bdefba2acf739bcc461cced6c52]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [67(3)](https://www.legislation.gov.uk/wsi/2019/163/regulation/67/3)
+[^c-c0196bdefba2acf739bcc461cced6c52]: Modification: Pt. 1 applied (with modifications) (29.4.2019) by [The Adult Placement Services (Service Providers and Responsible Individuals) (Wales) Regulations 2019 (S.I. 2019/163)](https://www.legislation.gov.uk/wsi/2019/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2), [67(3)](https://www.legislation.gov.uk/wsi/2019/163/regulation/67/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Increased penalty for offence of indecency with children.[^key-62ec25a97c0ab35bf890fe1ff4698d94]
+## 52. Increased penalty for offence of indecency with children.[^c-62ec25a97c0ab35bf890fe1ff4698d94]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62ec25a97c0ab35bf890fe1ff4698d94]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1997/43/section/52) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-62ec25a97c0ab35bf890fe1ff4698d94]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1997/43/section/52) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)

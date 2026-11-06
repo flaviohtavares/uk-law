@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Proposal for new CCA (locally led)[^key-32067da5a4eb103ece414f7db29da969][^key-eff0d995a437bfa24b6ad550377fd8a9]
+## 45. Proposal for new CCA (locally led)[^c-32067da5a4eb103ece414f7db29da969][^c-eff0d995a437bfa24b6ad550377fd8a9]
 
 *Extent: E+W*
 
@@ -37,10 +37,10 @@ summary: ''
 
 (4) Before submitting a proposal under this section to the Secretary of State, the authority or authorities preparing the proposal must—
 
-- (a)[^key-1f8227ec944ec6620843cd4a3cb8c04b] consult the relevant consultees,
+- (a)[^c-1f8227ec944ec6620843cd4a3cb8c04b] consult the relevant consultees,
 - (b) have regard to the results of the consultation in preparing the proposal for submission to the Secretary of State.
 
-(4A)[^key-94a9b1a3de2db5b7beb19fc0dabd5bfd] The “**relevant consultees**” for the purposes of subsection (4)(a) are—
+(4A)[^c-94a9b1a3de2db5b7beb19fc0dabd5bfd] The “**relevant consultees**” for the purposes of subsection (4)(a) are—
 
 - (a) the constituent councils, and
 - (b) any other persons that the authority or authorities preparing the proposal consider it appropriate to consult.
@@ -49,7 +49,7 @@ summary: ''
 
 (6) If a proposal under this section is not submitted by all of the authorities to which this section applies, each authority which does not submit the proposal must consent to its submission to the Secretary of State.
 
-(7)[^key-136209b495529fd03c4b12cce7a3ca1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-136209b495529fd03c4b12cce7a3ca1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The Secretary of State may by regulations—
 
@@ -58,12 +58,12 @@ summary: ''
 
 ## Annotations
 
-[^key-32067da5a4eb103ece414f7db29da969]: Commencement: S. 45 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
+[^c-32067da5a4eb103ece414f7db29da969]: Commencement: S. 45 in force at Royal Assent, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/a)
 
-[^key-eff0d995a437bfa24b6ad550377fd8a9]: Textual amendment: Words in [s. 45](https://www.legislation.gov.uk/ukpga/2023/55/section/45) heading inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 1 para. 36(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-eff0d995a437bfa24b6ad550377fd8a9]: Textual amendment: Words in [s. 45](https://www.legislation.gov.uk/ukpga/2023/55/section/45) heading inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3), [Sch. 1 para. 36(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-1f8227ec944ec6620843cd4a3cb8c04b]: Textual amendment: S. 45(4)(a) substituted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 36(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-1f8227ec944ec6620843cd4a3cb8c04b]: Textual amendment: S. 45(4)(a) substituted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 36(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-94a9b1a3de2db5b7beb19fc0dabd5bfd]: Textual amendment: S. 45(4A) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 36(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/c) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-94a9b1a3de2db5b7beb19fc0dabd5bfd]: Textual amendment: S. 45(4A) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 36(c)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/c) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-136209b495529fd03c4b12cce7a3ca1d]: Textual amendment: S. 45(7) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 36(d)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/d) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-136209b495529fd03c4b12cce7a3ca1d]: Textual amendment: S. 45(7) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 36(d)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/36/d) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))

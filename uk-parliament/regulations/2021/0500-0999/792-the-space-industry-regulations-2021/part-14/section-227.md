@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Persons to whom obligation applies[^key-e39188652c587b594a413c65a25368f5]
+## 227. Persons to whom obligation applies[^c-e39188652c587b594a413c65a25368f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ This Chapter applies to a person who—
 
 ## Annotations
 
-[^key-e39188652c587b594a413c65a25368f5]: Commencement: Reg. 227 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-e39188652c587b594a413c65a25368f5]: Commencement: Reg. 227 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Minor and consequential amendments and repeals[^key-8cfc8c4edf7de2c71c7489dc3af2d839]
+## 2. Minor and consequential amendments and repeals[^c-8cfc8c4edf7de2c71c7489dc3af2d839]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cfc8c4edf7de2c71c7489dc3af2d839]: Commencement: S. 2 in force at 28.4.2026 for specified purposes, see [s. 5(1)(b)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/b)
+[^c-8cfc8c4edf7de2c71c7489dc3af2d839]: Commencement: S. 2 in force at 28.4.2026 for specified purposes, see [s. 5(1)(b)](https://www.legislation.gov.uk/asc/2026/7/section/5/1/b)

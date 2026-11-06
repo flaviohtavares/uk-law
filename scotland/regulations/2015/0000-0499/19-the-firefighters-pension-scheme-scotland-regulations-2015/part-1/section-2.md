@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Establishment of Firefighters’ Pension Scheme 2015[^key-48003bd847c7923d7508fd6ded393023]
+## 2. Establishment of Firefighters’ Pension Scheme 2015[^c-48003bd847c7923d7508fd6ded393023]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48003bd847c7923d7508fd6ded393023]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/19/regulation/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-48003bd847c7923d7508fd6ded393023]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/19/regulation/2) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00002]: Footnote: See paragraph 6 of Schedule 1 to the Public Service Pensions Act 2013 for the definition of “fire and rescue workers”.

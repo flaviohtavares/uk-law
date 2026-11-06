@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Trigger events[^key-13f19ae6172b97d6761ddd7397938a49]
+## 7. Trigger events[^c-13f19ae6172b97d6761ddd7397938a49]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13f19ae6172b97d6761ddd7397938a49]: Commencement: Reg. 7 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-13f19ae6172b97d6761ddd7397938a49]: Commencement: Reg. 7 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00010]: Footnote: Section 69 of SBEEA 2015 defines “pub-owning business”.

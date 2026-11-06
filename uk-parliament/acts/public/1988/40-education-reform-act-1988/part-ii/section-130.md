@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies to an institution designated under section 129 of this Act in any case where—
 
 - (a) the order designating the institution under that section so provides; and
-- (b) immediately before the date on which the designation takes effect (referred to below in this section, in relation to such an institution, as the designation date) the institution is an institution assisted by a local authority[^key-dd8a5cd1b7a66756b606dd2897e7636c] (referred to below in this section as the former assisting authority).
+- (b) immediately before the date on which the designation takes effect (referred to below in this section, in relation to such an institution, as the designation date) the institution is an institution assisted by a local authority[^c-dd8a5cd1b7a66756b606dd2897e7636c] (referred to below in this section as the former assisting authority).
 
 (2) Subject to subsection (4) below and section 198 of this Act, on the designation date in relation to any institution to which this section applies the property, rights and liabilities mentioned in subsection (3) below shall be transferred to, and by virtue of this Act vest in, the appropriate transferee.
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)
+[^c-dd8a5cd1b7a66756b606dd2897e7636c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/2)

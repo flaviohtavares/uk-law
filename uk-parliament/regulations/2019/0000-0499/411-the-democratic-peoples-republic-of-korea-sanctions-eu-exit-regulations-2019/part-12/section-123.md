@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Restrictions on exercise of maritime enforcement powers[^key-9aab0b066ccbdc56648f3ba7533a1f35][^key-6db746f801cdc7728bf4f5264245804a]
+## 123. Restrictions on exercise of maritime enforcement powers[^c-9aab0b066ccbdc56648f3ba7533a1f35][^c-6db746f801cdc7728bf4f5264245804a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9aab0b066ccbdc56648f3ba7533a1f35]: Commencement: Reg. 123 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-9aab0b066ccbdc56648f3ba7533a1f35]: Commencement: Reg. 123 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-6db746f801cdc7728bf4f5264245804a]: Commencement: [Reg. 123](https://www.legislation.gov.uk/uksi/2019/411/regulation/123) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6db746f801cdc7728bf4f5264245804a]: Commencement: [Reg. 123](https://www.legislation.gov.uk/uksi/2019/411/regulation/123) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636921]: Marginal citation: Command 8941.

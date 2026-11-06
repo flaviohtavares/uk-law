@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 264. Detention in conditions of excessive security: state hospitals[^c535651][^key-4536d5d456974d7a8114d6c908750023]
+## 264. Detention in conditions of excessive security: state hospitals[^c535651][^c-4536d5d456974d7a8114d6c908750023]
 
 *Extent: S*
 
@@ -66,7 +66,7 @@ and whether or not a certificate under section 127(1) (either as enacted or as a
 
   that authorises the patient’s detention in hospital.
 
-(7A)[^key-60cfa4f97e8f2721214e747bfee90988] An application may not be made under subsection (2) above unless it is accompanied by a report prepared by an approved medical[^key-8cf77ab3b7753f90693595ce39462728] practitioner which—
+(7A)[^c-60cfa4f97e8f2721214e747bfee90988] An application may not be made under subsection (2) above unless it is accompanied by a report prepared by an approved medical[^c-8cf77ab3b7753f90693595ce39462728] practitioner which—
 
 - (a) states that in the practitioner's opinion the patient does not require to be detained under conditions of special security that can be provided only in a state hospital, and
 - (b) sets out the practitioner's reasons for being of that opinion.
@@ -102,8 +102,8 @@ and whether or not a certificate under section 127(1) (either as enacted or as a
 
 [^c535651]: Commencement: Part 17 Chapter 3 (ss. 264 - 273) in force 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
 
-[^key-4536d5d456974d7a8114d6c908750023]: Commencement: S. 264 in force at 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
+[^c-4536d5d456974d7a8114d6c908750023]: Commencement: S. 264 in force at 1.5.2006 or such earlier day as the Scottish Ministers may by order appoint, see s. 333(2)
 
-[^key-60cfa4f97e8f2721214e747bfee90988]: Textual amendment: S. 264(7A) inserted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 14(2)](https://www.legislation.gov.uk/asp/2015/9/section/14/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2015/361/article/3), [6](https://www.legislation.gov.uk/ssi/2015/361/article/6))
+[^c-60cfa4f97e8f2721214e747bfee90988]: Textual amendment: S. 264(7A) inserted (16.11.2015) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 14(2)](https://www.legislation.gov.uk/asp/2015/9/section/14/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2015/361/article/3), [6](https://www.legislation.gov.uk/ssi/2015/361/article/6))
 
-[^key-8cf77ab3b7753f90693595ce39462728]: Textual amendment: Words in s. 264(7A) substituted (16.11.2015) by [The Mental Health (Detention in Conditions of Excessive Security) (Scotland) Regulations 2015 (S.S.I. 2015/364)](https://www.legislation.gov.uk/ssi/2015/364), [regs. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/364/regulation/3/a)
+[^c-8cf77ab3b7753f90693595ce39462728]: Textual amendment: Words in s. 264(7A) substituted (16.11.2015) by [The Mental Health (Detention in Conditions of Excessive Security) (Scotland) Regulations 2015 (S.S.I. 2015/364)](https://www.legislation.gov.uk/ssi/2015/364), [regs. 1](https://www.legislation.gov.uk/ssi/2015/364/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/364/regulation/3/a)

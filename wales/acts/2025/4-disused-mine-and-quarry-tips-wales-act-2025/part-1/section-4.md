@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Financial assistance[^key-ea0b7a048d026f0c4ec7fce13036adc1]
+## 4. Financial assistance[^c-ea0b7a048d026f0c4ec7fce13036adc1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea0b7a048d026f0c4ec7fce13036adc1]: Commencement: S. 4 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-ea0b7a048d026f0c4ec7fce13036adc1]: Commencement: S. 4 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

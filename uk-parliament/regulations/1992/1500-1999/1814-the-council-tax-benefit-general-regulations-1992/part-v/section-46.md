@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Other amounts to be disregarded[^key-ff574babcdebdf93a1df5f4054a11aec]
+## 46. Other amounts to be disregarded[^c-ff574babcdebdf93a1df5f4054a11aec]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ For the purposes of ascertaining income other than grant income and covenant inc
 
 ## Annotations
 
-[^key-ff574babcdebdf93a1df5f4054a11aec]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1992/1814/regulation/46) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-ff574babcdebdf93a1df5f4054a11aec]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1992/1814/regulation/46) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

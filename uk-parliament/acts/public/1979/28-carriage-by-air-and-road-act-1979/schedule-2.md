@@ -38,7 +38,7 @@ Sections 1(2).
 
 (c) subsection (4) (which relates to amounts which are to be taken as equivalent to sums expressed in francs) shall be omitted.
 
-**5.**[^key-db3eca6f5321ab6a5d972ec1325ce7f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-db3eca6f5321ab6a5d972ec1325ce7f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In paragraph 2 of Article III in Part I of the Schedule to the said Act of 1962 (which refers to the limits and the destination mentioned in Article 22 of the Convention), after the words “Article 22” in both places there shall be inserted the words “ or Article 22A ” ; and in paragraph 2 of Article III in Part II of that Schedule (which contains the corresponding French text) after the words “l’article 22” in both places there shall be inserted the words “ ou à l’article 22A ”.
 
@@ -48,4 +48,4 @@ Sections 1(2).
 
 [^c984169]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27).
 
-[^key-db3eca6f5321ab6a5d972ec1325ce7f1]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1979/28/schedule/2/paragraph/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-db3eca6f5321ab6a5d972ec1325ce7f1]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1979/28/schedule/2/paragraph/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

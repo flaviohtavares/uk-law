@@ -32,7 +32,7 @@ summary: ''
 
 PESTICIDES, ENGLAND AND WALES
 
-The Plant Protection Products (Amendment) (No.3) Regulations 2007 (revoked)[^key-08c547743f759b99a220931c27774f87]
+The Plant Protection Products (Amendment) (No.3) Regulations 2007 (revoked)[^c-08c547743f759b99a220931c27774f87]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 18th September 2007
 
-[^key-08c547743f759b99a220931c27774f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08c547743f759b99a220931c27774f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-08c547743f759b99a220931c27774f87]
+## 1. Title and commencement[^c-08c547743f759b99a220931c27774f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-08c547743f759b99a220931c27774f87]
+## 2. Amendments[^c-08c547743f759b99a220931c27774f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08c547743f759b99a220931c27774f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08c547743f759b99a220931c27774f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08c547743f759b99a220931c27774f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08c547743f759b99a220931c27774f87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08c547743f759b99a220931c27774f87]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/5)
+[^c-08c547743f759b99a220931c27774f87]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/5)

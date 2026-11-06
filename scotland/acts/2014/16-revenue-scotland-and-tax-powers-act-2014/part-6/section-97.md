@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Determination superseded by actual self-assessment[^key-3c109f8227a091f80d42cb06234ec18d]
+## 97. Determination superseded by actual self-assessment[^c-3c109f8227a091f80d42cb06234ec18d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the proceedings may be continued as if they were proceedings for the recovery of
 
 ## Annotations
 
-[^key-3c109f8227a091f80d42cb06234ec18d]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/16/section/97) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-3c109f8227a091f80d42cb06234ec18d]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2014/16/section/97) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

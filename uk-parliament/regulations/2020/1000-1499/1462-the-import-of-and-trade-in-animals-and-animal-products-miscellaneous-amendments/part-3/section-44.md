@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Modification of Commission Regulation [(EC) No 136/2004](https://www.legislation.gov.uk/european/regulation/2004/0136) laying down procedures for veterinary checks at Community border inspection posts on products imported from third countries[^key-8a2bb8a2df09a839414f11aed6d8c3d8]
+## 44. Modification of Commission Regulation [(EC) No 136/2004](https://www.legislation.gov.uk/european/regulation/2004/0136) laying down procedures for veterinary checks at Community border inspection posts on products imported from third countries[^c-8a2bb8a2df09a839414f11aed6d8c3d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ For Article 9 of Commission Regulation [(EC) No 136/2004](https://www.legislatio
 
 ## Annotations
 
-[^key-8a2bb8a2df09a839414f11aed6d8c3d8]: Commencement: Reg. 44 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-8a2bb8a2df09a839414f11aed6d8c3d8]: Commencement: Reg. 44 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

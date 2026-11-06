@@ -35,10 +35,10 @@ summary: ''
 - (f) this section, and
 - (g) section 1330.
 
-(3)[^key-f80f1881d3132d984d2b1ab0bc776a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f80f1881d3132d984d2b1ab0bc776a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f80f1881d3132d984d2b1ab0bc776a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f80f1881d3132d984d2b1ab0bc776a03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f80f1881d3132d984d2b1ab0bc776a03]: Textual amendment: S. 1329(3)(4) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 paras. 101(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/101/4), [105](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/105)
+[^c-f80f1881d3132d984d2b1ab0bc776a03]: Textual amendment: S. 1329(3)(4) omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 paras. 101(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/101/4), [105](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/105)

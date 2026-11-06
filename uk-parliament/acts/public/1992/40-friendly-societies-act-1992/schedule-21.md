@@ -30,17 +30,17 @@ Section 120.
 
 #### National Savings Bank Act 1971
 
-**2.**[^key-dc80d37ed5a3f0edbb86fe97dc1a6149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dc80d37ed5a3f0edbb86fe97dc1a6149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-dc80d37ed5a3f0edbb86fe97dc1a6149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dc80d37ed5a3f0edbb86fe97dc1a6149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Debt Act 1972
 
-**4.**[^key-dc80d37ed5a3f0edbb86fe97dc1a6149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dc80d37ed5a3f0edbb86fe97dc1a6149] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Solicitors Act 1974
 
-**5.**[^key-625cc84bcb0ddba0877785750c2c86f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-625cc84bcb0ddba0877785750c2c86f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Insurance Companies Act 1982
 
@@ -60,7 +60,7 @@ Section 120.
 
 #### Companies Act 1985
 
-**7.**[^key-c665d9cf3cb8c3ffe9be1b9c14df587f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c665d9cf3cb8c3ffe9be1b9c14df587f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Company Directors Disqualification Act 1986
 
@@ -207,13 +207,13 @@ Section 120.
 
 [^c15396811]: Marginal citation: [1840 c. 110](https://www.legislation.gov.uk/ukpga/1840/110)
 
-[^key-dc80d37ed5a3f0edbb86fe97dc1a6149]: Textual amendment: [Sch. 21 paras. 2-4](https://www.legislation.gov.uk/ukpga/1992/40/schedule/21/paragraph/2) repealed (with effect from 1.9.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
+[^c-dc80d37ed5a3f0edbb86fe97dc1a6149]: Textual amendment: [Sch. 21 paras. 2-4](https://www.legislation.gov.uk/ukpga/1992/40/schedule/21/paragraph/2) repealed (with effect from 1.9.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
 
-[^key-625cc84bcb0ddba0877785750c2c86f4]: Textual amendment: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/1992/40/schedule/21/paragraph/5) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i)[(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/ix)
+[^c-625cc84bcb0ddba0877785750c2c86f4]: Textual amendment: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/1992/40/schedule/21/paragraph/5) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i)[(ix)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/ix)
 
 [^c15396881]: Marginal citation: [1982 c. 50](https://www.legislation.gov.uk/ukpga/1982/50).
 
-[^key-c665d9cf3cb8c3ffe9be1b9c14df587f]: Textual amendment: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/1992/40/schedule/21/paragraph/7) repealed (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [s. 65(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/65/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2)
+[^c-c665d9cf3cb8c3ffe9be1b9c14df587f]: Textual amendment: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/1992/40/schedule/21/paragraph/7) repealed (6.4.2005) by [Companies (Audit, Investigations and Community Enterprise) Act 2004 (c. 27)](https://www.legislation.gov.uk/ukpga/2004/27), [s. 65(1)](https://www.legislation.gov.uk/ukpga/2004/27/section/65/1), [Sch. 8](https://www.legislation.gov.uk/ukpga/2004/27/schedule/8); [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/3322/schedule/2)
 
 [^c15396901]: Marginal citation: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 

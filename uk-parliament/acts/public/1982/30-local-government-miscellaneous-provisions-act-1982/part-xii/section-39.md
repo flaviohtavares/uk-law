@@ -71,7 +71,7 @@ summary: ''
 
 .
 
-(3)[^key-1d043bf7baf932112e08d9993af8182d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1d043bf7baf932112e08d9993af8182d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -79,4 +79,4 @@ summary: ''
 
 [^c2551761]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-1d043bf7baf932112e08d9993af8182d]: Textual amendment: [S. 39(3)](https://www.legislation.gov.uk/ukpga/1982/30/section/39/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-1d043bf7baf932112e08d9993af8182d]: Textual amendment: [S. 39(3)](https://www.legislation.gov.uk/ukpga/1982/30/section/39/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

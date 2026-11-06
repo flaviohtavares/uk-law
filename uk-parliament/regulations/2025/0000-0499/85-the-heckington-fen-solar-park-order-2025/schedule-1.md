@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-**1.**[^key-eb355f07d2771d87594a71a4e4064144] In this Schedule—
+**1.**[^c-eb355f07d2771d87594a71a4e4064144] In this Schedule—
 
 - “**community orchard**” means a new orchard within the Order limits in the area shown on the works plan;
 - “**energy storage station**” means a station comprising transformers, switchgear, power conversion system (PCS) or inverter, and other ancillary equipment with each component either—
@@ -46,7 +46,7 @@ Article 2
 - “**switchgear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure containing an electrical device to transform electricity by increasing or reducing the voltage.
 
-**2.**[^key-ab9ebdcc4bc5e217f85d481145844391] In the Districts of North Kesteven and Boston in the County of Lincolnshire, a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
+**2.**[^c-ab9ebdcc4bc5e217f85d481145844391] In the Districts of North Kesteven and Boston in the County of Lincolnshire, a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
 The nationally significant infrastructure project comprises the following works——
 
@@ -95,7 +95,7 @@ Associated development within the meaning of section 115(2) of the 2008 Act incl
 
 **Work No. 5**— works to lay electrical cables between Work No. 4 and Work No. 6A.
 
-**Work No. 5A**— works to lay electrical cables from Work No. 5 at approximately 52° 56′ 14.1″ N, 0° 13′ 12.0″ W, and 52° 56′ 09.9″ N, 0° 13′ 11.3″ W[^key-4a3678ad8fd0832fda0dd329fd3bc60e], running in a southerly and south easterly direction to Work No. 5 at approximately 52° 55′ 51.1″ N, 0° 13′ 19.0″ W, and 52° 55′ 48.7″ N, 0° 13′ 21.2″ W.
+**Work No. 5A**— works to lay electrical cables from Work No. 5 at approximately 52° 56′ 14.1″ N, 0° 13′ 12.0″ W, and 52° 56′ 09.9″ N, 0° 13′ 11.3″ W[^c-4a3678ad8fd0832fda0dd329fd3bc60e], running in a southerly and south easterly direction to Work No. 5 at approximately 52° 55′ 51.1″ N, 0° 13′ 19.0″ W, and 52° 55′ 48.7″ N, 0° 13′ 21.2″ W.
 
 **Work No. 5B**— works to lay electrical cables from Work No. 5 at approximately 52° 56′ 15.5″ N, 0° 13′ 07.7″ W, and 52° 56′ 09.9″ N, 0° 13′ 11.3″ W running in a south east and south westerly direction to Work No. 5 at approximately 52° 55′ 51.1″ N, 0° 13′ 19.0″ E, and 52° 55′ 50.0″ N, 0° 13′ 17.9″ W.
 
@@ -174,8 +174,8 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-eb355f07d2771d87594a71a4e4064144]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/85/schedule/1/paragraph/1) in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-eb355f07d2771d87594a71a4e4064144]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2025/85/schedule/1/paragraph/1) in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-ab9ebdcc4bc5e217f85d481145844391]: Commencement: Sch. 1 para. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-ab9ebdcc4bc5e217f85d481145844391]: Commencement: Sch. 1 para. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-4a3678ad8fd0832fda0dd329fd3bc60e]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/85/schedule/1/paragraph/2) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-4a3678ad8fd0832fda0dd329fd3bc60e]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/85/schedule/1/paragraph/2) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

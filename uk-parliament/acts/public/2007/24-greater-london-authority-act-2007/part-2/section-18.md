@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Membership of Transport for London: eligibility of holders of political office[^key-d3bbb01d508f6072a06b4389c93aa08e]
+## 18. Membership of Transport for London: eligibility of holders of political office[^c-d3bbb01d508f6072a06b4389c93aa08e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3bbb01d508f6072a06b4389c93aa08e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2007/24/section/18) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
+[^c-d3bbb01d508f6072a06b4389c93aa08e]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2007/24/section/18) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)

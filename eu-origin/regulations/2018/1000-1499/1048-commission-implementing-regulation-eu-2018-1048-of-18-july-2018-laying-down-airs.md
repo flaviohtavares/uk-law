@@ -97,7 +97,7 @@ HAS ADOPTED THIS REGULATION:
 
 1. This Regulation lays down airspace usage requirements and operating procedures concerning performance-based navigation.
 
-2. This Regulation applies to providers of air traffic management/air navigation services (ATM/ANS), and operators of aerodromes (hereinafter ‘providers of ATM/ANS’) that are responsible for putting in place instrument approach procedures or air traffic service (ATS) routes, where they provide their services in the airspace under the responsibility of the United Kingdom.[^key-0e2dcbd20863cbe06f234a6ced03a408]
+2. This Regulation applies to providers of air traffic management/air navigation services (ATM/ANS), and operators of aerodromes (hereinafter ‘providers of ATM/ANS’) that are responsible for putting in place instrument approach procedures or air traffic service (ATS) routes, where they provide their services in the airspace under the responsibility of the United Kingdom.[^c-0e2dcbd20863cbe06f234a6ced03a408]
 
 ## Article 2. Definitions
 
@@ -130,19 +130,19 @@ Providers of ATM/ANS shall comply with the requirements for the implementation o
 
 Those measures shall include the establishment and implementation of a transition plan. Providers of ATM/ANS shall keep their transition plan up-to-date.
 
-The transition plan shall be consistent with any regulations made by the Secretary of State under Article 15a of Regulation 550/2004[^key-3a72ee7f75852b83da52eefdd3e3ba69] of the European Parliament and of the Council[^f00012].
+The transition plan shall be consistent with any regulations made by the Secretary of State under Article 15a of Regulation 550/2004[^c-3a72ee7f75852b83da52eefdd3e3ba69] of the European Parliament and of the Council[^f00012].
 
 2. Providers of ATM/ANS shall consult all of the following parties on the draft transition plan and the draft of any significant updates thereof and take account of their views where appropriate:
 
 - (a) aerodrome operators, airspace users and representative organisations of such airspace users affected by the provision of their services;
-- (b)[^key-144642a6e37a3e2be7dee3c2a1e88c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-144642a6e37a3e2be7dee3c2a1e88c7f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) providers of ATM/ANS that provide their services in adjacent airspace blocks.
 
-3. After having carried out the consultation referred to in paragraph 2, providers of ATM/ANS shall submit the results of the consultation, as well as the draft transition plan, or the draft significant update thereof, for approval to the Civil Aviation Authority[^key-eaad962ff0fa1038c6fbd71c6c1f6a72].
+3. After having carried out the consultation referred to in paragraph 2, providers of ATM/ANS shall submit the results of the consultation, as well as the draft transition plan, or the draft significant update thereof, for approval to the Civil Aviation Authority[^c-eaad962ff0fa1038c6fbd71c6c1f6a72].
 
-The Civil Aviation Authority[^key-f2450aad96a21614d52d53a261cbc622] shall verify whether the draft transition plan, or the draft significant update thereof, complies with the requirements of this Regulation and in particular whether it takes account of the views of airspace users where appropriate, including those operating State aircraft. [^key-3bd823798b1a367b95cb160548d330e9]...
+The Civil Aviation Authority[^c-f2450aad96a21614d52d53a261cbc622] shall verify whether the draft transition plan, or the draft significant update thereof, complies with the requirements of this Regulation and in particular whether it takes account of the views of airspace users where appropriate, including those operating State aircraft. [^c-3bd823798b1a367b95cb160548d330e9]...
 
-The Civil Aviation Authority[^key-ad3180030dc695b2499c3fcbc80c630a] shall inform the providers of ATM/ANS of the outcome of that verification without undue delay. Providers of ATM/ANS shall not establish or implement the transition plan, or the significant update thereof, before having been informed by the Civil Aviation Authority[^key-db4134cdefa306f399ad533a05fac343] that it has approved the draft transition plan or draft significant update thereof.
+The Civil Aviation Authority[^c-ad3180030dc695b2499c3fcbc80c630a] shall inform the providers of ATM/ANS of the outcome of that verification without undue delay. Providers of ATM/ANS shall not establish or implement the transition plan, or the significant update thereof, before having been informed by the Civil Aviation Authority[^c-db4134cdefa306f399ad533a05fac343] that it has approved the draft transition plan or draft significant update thereof.
 
 ## Article 5. Exclusive use of PBN
 
@@ -154,11 +154,11 @@ The Civil Aviation Authority[^key-ad3180030dc695b2499c3fcbc80c630a] shall inform
 
 Providers of ATM/ANS shall take the necessary measures to ensure that they remain capable of providing their services through other means where, for unexpected reasons beyond their control, GNSS or other methods used for performance-based navigation are no longer available, making it impossible for them to provide their services in accordance with Article 3. Those measures shall include, in particular, retaining a network of conventional navigation aids and related surveillance and communications infrastructure.
 
-## Article 7. Entry into force and application[^key-7dcc4fae488a8eb68207e1fe21a8c204]
+## Article 7. Entry into force and application[^c-7dcc4fae488a8eb68207e1fe21a8c204]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b736ec11cfdcd4bafcabf10f88bbeb85]...
+[^c-b736ec11cfdcd4bafcabf10f88bbeb85]...
 
 Done at Brussels, 18 July 2018.
 
@@ -182,7 +182,7 @@ In accordance with Article 3, this Subpart sets out the requirements for the imp
 
 (1)
 
-Providers of ATM/ANS shall implement, at all instrument runway ends, other than for aerodromes listed in point 1.2.1 of the Annex to Implementing Regulation (EU) No 716/2014 and instrument runway ends served by precision approach procedures at other aerodromes,[^key-04d56055f9c1d26cc59aada36351c777] approach procedures in accordance with the requirements of the RNP approach (RNP APCH) specification, including LNAV, LNAV/VNAV and LPV minima and, where required due to traffic density or traffic complexity, radius to fix (RF) legs.
+Providers of ATM/ANS shall implement, at all instrument runway ends, other than for aerodromes listed in point 1.2.1 of the Annex to Implementing Regulation (EU) No 716/2014 and instrument runway ends served by precision approach procedures at other aerodromes,[^c-04d56055f9c1d26cc59aada36351c777] approach procedures in accordance with the requirements of the RNP approach (RNP APCH) specification, including LNAV, LNAV/VNAV and LPV minima and, where required due to traffic density or traffic complexity, radius to fix (RF) legs.
 
 (2)
 
@@ -194,19 +194,19 @@ By way of derogation from point (1) at instrument runway ends without an appropr
 
 (4)
 
-[^key-bf68ba1851122fc9cce96ebcdf4517c8]...
+[^c-bf68ba1851122fc9cce96ebcdf4517c8]...
 
 (5)
 
-[^key-3bb519f9f3ff54727f8cb01db5b45044]...
+[^c-3bb519f9f3ff54727f8cb01db5b45044]...
 
 (6)
 
-Where providers of ATM/ANS have established ATS routes for en route operations, for ATS routes at or above FL150,[^key-c2def08ad3a19bbced5ef5e4d02ee5a9] they shall implement those routes in accordance with the requirements of the RNAV 5 specification.
+Where providers of ATM/ANS have established ATS routes for en route operations, for ATS routes at or above FL150,[^c-c2def08ad3a19bbced5ef5e4d02ee5a9] they shall implement those routes in accordance with the requirements of the RNAV 5 specification.
 
 (7)
 
-By way of derogation from point (6)[^key-1d24db9fb82df8689b7b24c87e56f375], where providers of ATM/ANS have established ATS routes, SID routes or STAR routes for rotorcraft operations, they shall implement those routes in accordance with the requirements of the RNP 0.3, RNAV 1 or RNP 1 specifications. In that case, they shall be entitled to decide which of those three sets of requirements they comply with.
+By way of derogation from point (6)[^c-1d24db9fb82df8689b7b24c87e56f375], where providers of ATM/ANS have established ATS routes, SID routes or STAR routes for rotorcraft operations, they shall implement those routes in accordance with the requirements of the RNP 0.3, RNAV 1 or RNP 1 specifications. In that case, they shall be entitled to decide which of those three sets of requirements they comply with.
 
 ## Annotations
 
@@ -228,36 +228,36 @@ By way of derogation from point (6)[^key-1d24db9fb82df8689b7b24c87e56f375], wher
 
 [^f00009]: Footnote: Regulation (EC) No 549/2004 of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky (the framework Regulation) ([OJ L 96, 31.3.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.096.01.0001.01.ENG)).
 
-[^key-0e2dcbd20863cbe06f234a6ced03a408]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2018/1048/article/1/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1498/regulation/3)
+[^c-0e2dcbd20863cbe06f234a6ced03a408]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2018/1048/article/1/2) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1498/regulation/3)
 
 [^f00011]: Footnote: Commission Regulation (EU) No 139/2014 of 12 February 2014 laying down requirements and administrative procedures related to aerodromes pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council ([OJ L 44, 14.2.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.044.01.0001.01.ENG)).
 
-[^key-3a72ee7f75852b83da52eefdd3e3ba69]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/2)
+[^c-3a72ee7f75852b83da52eefdd3e3ba69]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/2)
 
 [^f00012]: Footnote: Regulation (EC) No 550/2004 of the European Parliament and of the Council of 10 March 2004 on the provision of air navigation services in the single European sky (the service provision Regulation) ([OJ L 96, 31.3.2004, p. 10](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.096.01.0010.01.ENG)).
 
-[^key-144642a6e37a3e2be7dee3c2a1e88c7f]: Textual amendment: [Art. 4(2)(b)](https://www.legislation.gov.uk/eur/2018/1048/article/4/2/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/3)
+[^c-144642a6e37a3e2be7dee3c2a1e88c7f]: Textual amendment: [Art. 4(2)(b)](https://www.legislation.gov.uk/eur/2018/1048/article/4/2/b) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/3)
 
-[^key-eaad962ff0fa1038c6fbd71c6c1f6a72]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2018/1048/article/4/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/4)
+[^c-eaad962ff0fa1038c6fbd71c6c1f6a72]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2018/1048/article/4/3) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/4)
 
-[^key-f2450aad96a21614d52d53a261cbc622]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/a/i)
+[^c-f2450aad96a21614d52d53a261cbc622]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/a/i)
 
-[^key-3bd823798b1a367b95cb160548d330e9]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/a/ii)
+[^c-3bd823798b1a367b95cb160548d330e9]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/a/ii)
 
-[^key-ad3180030dc695b2499c3fcbc80c630a]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/b/i)
+[^c-ad3180030dc695b2499c3fcbc80c630a]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/b/i)
 
-[^key-db4134cdefa306f399ad533a05fac343]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/b/ii)
+[^c-db4134cdefa306f399ad533a05fac343]: Textual amendment: Words in [Art. 4](https://www.legislation.gov.uk/eur/2018/1048/article/4) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [4(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/4/5/b/ii)
 
-[^key-7dcc4fae488a8eb68207e1fe21a8c204]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2018/1048/article/7) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1498/regulation/5)
+[^c-7dcc4fae488a8eb68207e1fe21a8c204]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/eur/2018/1048/article/7) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1498/regulation/5)
 
-[^key-b736ec11cfdcd4bafcabf10f88bbeb85]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/1048/signature) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1498/regulation/6)
+[^c-b736ec11cfdcd4bafcabf10f88bbeb85]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/1048/signature) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1498/regulation/6)
 
-[^key-04d56055f9c1d26cc59aada36351c777]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(1) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/2)
+[^c-04d56055f9c1d26cc59aada36351c777]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(1) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/2)
 
-[^key-bf68ba1851122fc9cce96ebcdf4517c8]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/3)
+[^c-bf68ba1851122fc9cce96ebcdf4517c8]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(4) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/3)
 
-[^key-3bb519f9f3ff54727f8cb01db5b45044]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/3)
+[^c-3bb519f9f3ff54727f8cb01db5b45044]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(5) omitted (31.12.2020) by virtue of [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/3)
 
-[^key-c2def08ad3a19bbced5ef5e4d02ee5a9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(6) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/4)
+[^c-c2def08ad3a19bbced5ef5e4d02ee5a9]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) point AUR.PBN.2005(6) inserted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/4)
 
-[^key-1d24db9fb82df8689b7b24c87e56f375]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/5)
+[^c-1d24db9fb82df8689b7b24c87e56f375]: Textual amendment: Words in [Annex](https://www.legislation.gov.uk/eur/2018/1048/annex) substituted (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) (No. 3) Regulations 2020 (S.I. 2020/1498)](https://www.legislation.gov.uk/uksi/2020/1498), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2020/1498/regulation/7/5)

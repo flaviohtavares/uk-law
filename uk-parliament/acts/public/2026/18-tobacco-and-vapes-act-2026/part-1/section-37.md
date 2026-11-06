@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Fixed penalty notices: England[^key-cea1366771cceaeda76757e20d7f1ff6]
+## 37. Fixed penalty notices: England[^c-cea1366771cceaeda76757e20d7f1ff6]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cea1366771cceaeda76757e20d7f1ff6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2026/18/section/37) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-cea1366771cceaeda76757e20d7f1ff6]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2026/18/section/37) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

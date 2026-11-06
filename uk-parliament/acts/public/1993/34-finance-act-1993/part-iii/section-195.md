@@ -29,7 +29,7 @@ summary: ''
 
 (2) The Board may make all such amendments of assessments or determinations or of decisions on claims as may be necessary in consequence of the provisions of this Part.
 
-(3) This Part[^key-f2816e90c7039bb95a46abbc01c48297]... shall be construed as one with Part I of the principal Act.
+(3) This Part[^c-f2816e90c7039bb95a46abbc01c48297]... shall be construed as one with Part I of the principal Act.
 
 ## Annotations
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c15156061]: Marginal citation: [1983 c. 56](https://www.legislation.gov.uk/ukpga/1983/56).
 
-[^key-f2816e90c7039bb95a46abbc01c48297]: Textual amendment: Words in [s. 195(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/195/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/50), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f2816e90c7039bb95a46abbc01c48297]: Textual amendment: Words in [s. 195(3)](https://www.legislation.gov.uk/ukpga/1993/34/section/195/3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 50](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/50), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

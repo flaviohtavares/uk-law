@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Requirements for register of members[^key-37e245beba0498a3a313047524b6b928]
+## 18. Requirements for register of members[^c-37e245beba0498a3a313047524b6b928]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37e245beba0498a3a313047524b6b928]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/1804/regulation/18) omitted (18.11.2025) by virtue of [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-37e245beba0498a3a313047524b6b928]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2009/1804/regulation/18) omitted (18.11.2025) by virtue of [The Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025 (S.I. 2025/1033)](https://www.legislation.gov.uk/uksi/2025/1033), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2025/1033/regulation/6/4) (with [regs. 12-16](https://www.legislation.gov.uk/uksi/2025/1033/regulation/12)); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)

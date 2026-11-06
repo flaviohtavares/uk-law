@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72A. Financial Assistance Scheme[^key-c06acf88fedcf8af794b77053776d5d5]
+## 72A. Financial Assistance Scheme[^c-c06acf88fedcf8af794b77053776d5d5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c06acf88fedcf8af794b77053776d5d5]: Textual amendment: [Reg. 72A](https://www.legislation.gov.uk/nisr/2008/280/regulation/72A) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(7)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/7)
+[^c-c06acf88fedcf8af794b77053776d5d5]: Textual amendment: [Reg. 72A](https://www.legislation.gov.uk/nisr/2008/280/regulation/72A) inserted (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/413)](https://www.legislation.gov.uk/nisr/2008/413), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/413/regulation/1/1), [3(7)](https://www.legislation.gov.uk/nisr/2008/413/regulation/3/7)

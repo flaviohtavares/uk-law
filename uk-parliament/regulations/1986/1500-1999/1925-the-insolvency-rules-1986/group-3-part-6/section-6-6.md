@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.6. Preliminary[^key-dda56a00604e04f20e8ced7e4a044909]
+## 6.6. Preliminary[^c-dda56a00604e04f20e8ced7e4a044909]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ Those Rules also apply to a petition under section 264(1)(c) (supervisor of, or 
 
 ## Annotations
 
-[^key-dda56a00604e04f20e8ced7e4a044909]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-dda56a00604e04f20e8ced7e4a044909]: Commencement: [Rule 6.6](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.6) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00125]: Marginal citation: \[FORM 6.7\] or \[FORM 6.8\] or \[FORM 6.9\] or \[FORM 6.10\]

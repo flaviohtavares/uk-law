@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Release from detention of child or young person with special educational needs[^key-391e70695b01a8cad94808e271839ebd][^key-6c1dac2f4fc21f012fdd0e8ae3a5500c]
+## 52. Release from detention of child or young person with special educational needs[^c-391e70695b01a8cad94808e271839ebd][^c-6c1dac2f4fc21f012fdd0e8ae3a5500c]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 >
 > (2) The following provisions of this section apply where a child who has been subject to a detention order is released having, immediately before release, been detained in relevant youth accommodation.
 >
-> (3) Subject to subsection (6), a statement which was maintained for the child by a local authority[^key-539a148a152b679b0b2f5402f58a05e0] under section 324 immediately before the beginning of the detention is, from the child's release, to be treated as being maintained by that authority under section 324.
+> (3) Subject to subsection (6), a statement which was maintained for the child by a local authority[^c-539a148a152b679b0b2f5402f58a05e0] under section 324 immediately before the beginning of the detention is, from the child's release, to be treated as being maintained by that authority under section 324.
 >
 > (4) In subsection (3) “**the beginning of the detention**” means—
 >
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-391e70695b01a8cad94808e271839ebd]: Commencement: S. 52 in force at 1.9.2010 for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-391e70695b01a8cad94808e271839ebd]: Commencement: S. 52 in force at 1.9.2010 for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-6c1dac2f4fc21f012fdd0e8ae3a5500c]: Commencement: S. 52 in force at 1.4.2011 for W. by [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/829/article/2/d)
+[^c-6c1dac2f4fc21f012fdd0e8ae3a5500c]: Commencement: S. 52 in force at 1.4.2011 for W. by [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(d)](https://www.legislation.gov.uk/uksi/2011/829/article/2/d)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

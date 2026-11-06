@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Powers of authorised employees in relation to investigating fires[^key-bd53b8e5665f04e9159756d40b22730f][^key-3ba1c0f291c10dc7760e932e808384c0]
+## 29. Powers of authorised employees in relation to investigating fires[^c-bd53b8e5665f04e9159756d40b22730f][^c-3ba1c0f291c10dc7760e932e808384c0]
 
 *Extent: S*
 
-(1) An employee of SFRS[^key-32a6157ff5e6a048bb6bbe2455d6796a] who is authorised in writing by SFRS[^key-8da13f414a3e3ca46b2c988b0766d2f5] for the purposes of this section (an “authorised employee”) may, at any reasonable time (by force if necessary), enter premises in which there has been a fire for the purpose of investigating—
+(1) An employee of SFRS[^c-32a6157ff5e6a048bb6bbe2455d6796a] who is authorised in writing by SFRS[^c-8da13f414a3e3ca46b2c988b0766d2f5] for the purposes of this section (an “authorised employee”) may, at any reasonable time (by force if necessary), enter premises in which there has been a fire for the purpose of investigating—
 
 - (a) what caused the fire; or
 - (b) why it progressed as it did.
@@ -72,10 +72,10 @@ summary: ''
 
 ## Annotations
 
-[^key-bd53b8e5665f04e9159756d40b22730f]: Modification: S. 29 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2013/602/article/21/4)
+[^c-bd53b8e5665f04e9159756d40b22730f]: Modification: S. 29 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2013/602/article/21/4)
 
-[^key-3ba1c0f291c10dc7760e932e808384c0]: Modification: S. 29 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2013/602/article/22/4)
+[^c-3ba1c0f291c10dc7760e932e808384c0]: Modification: S. 29 applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [22(4)](https://www.legislation.gov.uk/uksi/2013/602/article/22/4)
 
-[^key-32a6157ff5e6a048bb6bbe2455d6796a]: Textual amendment: Word in s. 29(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(12)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/12/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-32a6157ff5e6a048bb6bbe2455d6796a]: Textual amendment: Word in s. 29(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(12)(a)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/12/a); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-8da13f414a3e3ca46b2c988b0766d2f5]: Textual amendment: Word in s. 29(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(12)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/12/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-8da13f414a3e3ca46b2c988b0766d2f5]: Textual amendment: Word in s. 29(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(12)(b)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/12/b); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

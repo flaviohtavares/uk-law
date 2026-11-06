@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Felling or lopping of trees or shrubs[^key-e5d7b2de2157152f358053aea1e2dfcc]
+## 33. Felling or lopping of trees or shrubs[^c-e5d7b2de2157152f358053aea1e2dfcc]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d7b2de2157152f358053aea1e2dfcc]: Commencement: Art. 33 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)
+[^c-e5d7b2de2157152f358053aea1e2dfcc]: Commencement: Art. 33 in force at 5.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/433/article/1)

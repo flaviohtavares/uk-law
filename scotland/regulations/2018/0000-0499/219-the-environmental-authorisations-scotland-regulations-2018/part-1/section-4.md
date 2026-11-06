@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Interpretation: regulated activities[^key-37cc3d07c9636714ee28aece4e8145d6]
+## 4. Interpretation: regulated activities[^c-37cc3d07c9636714ee28aece4e8145d6]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ In these Regulations—
   - (c) acting as a dealer or broker,
 
   in or on land, or in the vicinity of land when connected with a waste management activity taking place on land,
-- “[^key-a4dd84afb34780b8f5af7f8f81b7b92f]**water activity**” means—
+- “[^c-a4dd84afb34780b8f5af7f8f81b7b92f]**water activity**” means—
   - (a) any activity liable to cause the direct or indirect introduction, as a result of human activity, of any substance or heat into the water environment which may give rise to harm to the water environment,
   - (b) any activity, carried on in the course of operation of a fish farm, liable to cause the direct or indirect introduction of any substance into the Scottish marine area outside of the water environment which may give rise to harm to any part of the water environment or the Scottish marine area,
   - (c) abstraction of water from the water environment,
@@ -61,6 +61,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-37cc3d07c9636714ee28aece4e8145d6]: Textual amendment: Reg. 4 substituted (1.6.2025 for specified purposes, 1.11.2025 in so far as not already in force) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)[(4)(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/c), [7](https://www.legislation.gov.uk/ssi/2025/165/regulation/7) (with [reg. 1(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/5), [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-37cc3d07c9636714ee28aece4e8145d6]: Textual amendment: Reg. 4 substituted (1.6.2025 for specified purposes, 1.11.2025 in so far as not already in force) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)[(4)(c)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/c), [7](https://www.legislation.gov.uk/ssi/2025/165/regulation/7) (with [reg. 1(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/5), [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-a4dd84afb34780b8f5af7f8f81b7b92f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2018/219/regulation/4) substituted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [4](https://www.legislation.gov.uk/ssi/2026/55/regulation/4)
+[^c-a4dd84afb34780b8f5af7f8f81b7b92f]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2018/219/regulation/4) substituted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [4](https://www.legislation.gov.uk/ssi/2026/55/regulation/4)

@@ -105,7 +105,7 @@ In subsection (1) of section 38 of the Act of 1954 (restriction on agreements ex
 >
 > if the agreement is contained in or endorsed on the instrument creating the tenancy or such other instrument as the court may specify; and an agreement contained in or endorsed on an instrument in pursuance of an authorisation given under this subsection shall be valid notwithstanding anything in the preceding provisions of this section.
 
-#### 6. Business carried on by company controlled by landlord.[^key-af510a6b1afba4049b8a72bb86fe245e]
+#### 6. Business carried on by company controlled by landlord.[^c-af510a6b1afba4049b8a72bb86fe245e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -225,7 +225,7 @@ Sections 24, 27, 30, 32, 34, 37, 38, 42 and 44 of the Act of 1954 and Schedule 6
 
 ## Part II — Closing of Yorkshire Deeds Registries
 
-### 16. Closing of Yorkshire deeds registries.[^key-d3ff8e41909e2a349110ee1287de3106]
+### 16. Closing of Yorkshire deeds registries.[^c-d3ff8e41909e2a349110ee1287de3106]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -238,7 +238,7 @@ Sections 24, 27, 30, 32, 34, 37, 38, 42 and 44 of the Act of 1954 and Schedule 6
 
 and accordingly as from that date the enactments specified in Part II of Schedule 2 to this Act shall, to the extent specified in the third column of that Schedule, be repealed as respects that registry and the area which is then within its jurisdiction.
 
-(2)[^key-40161a7632787636d3dfee3b49f1c32c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40161a7632787636d3dfee3b49f1c32c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c13555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -311,7 +311,7 @@ Section 44(1) of the [^c13562]Law of Property Act 1925 (under which the period o
 
 ### 24. Contracts for purchase of land affected by land charge, etc.
 
-(1) Where under a contract for the sale or other disposition of any estate or interest in land the title to which is not registered under the Land Registration Act 2002[^key-7b70501bc7db47a812021a349c7625e5] or any enactment replaced by it any question arises whether the purchaser had knowledge, at the time of entering into the contract, of a registered land charge, that question shall be determined by reference to his actual knowledge nd without regard to the provisions of section 198 of the [^c13564]Law of Property Act 1925 (under which registration under the [^c13565]Land Charges Act 1925 or any enactment replaced by it is deemed to constitute actual notice).
+(1) Where under a contract for the sale or other disposition of any estate or interest in land the title to which is not registered under the Land Registration Act 2002[^c-7b70501bc7db47a812021a349c7625e5] or any enactment replaced by it any question arises whether the purchaser had knowledge, at the time of entering into the contract, of a registered land charge, that question shall be determined by reference to his actual knowledge nd without regard to the provisions of section 198 of the [^c13564]Law of Property Act 1925 (under which registration under the [^c13565]Land Charges Act 1925 or any enactment replaced by it is deemed to constitute actual notice).
 
 (2) Where any estate or interest with which such a contract is concerned is affected by a registered land charge and the purchaser, at the time of entering into the contract, had not received notice and did not otherwise actually know that the estate or interest was affected by the charge, any provision of the contract shall be void so far as it purports to exclude the operation of subsection (1) above or to exclude or restrict any right or remedy that might otherwise be exercisable by the purchaser on the ground that the estate or interest is affected by the charge.
 
@@ -423,7 +423,7 @@ and after section 84(1) there shall be inserted as new subsections (1A), (1B) an
 
 > (3A) On an application to the Lands Tribunal under this section the Lands Tribunal shall give any necessary directions as to the persons who are or are not to be admitted (as appearing to be entitled to the benefit of the restriction) to oppose the application, and no appeal shall lie against any such direction ; but rules under the Lands Tribunal Act 1949 shall make provision whereby, in cases in which there arises on such an application (whether or not in connection with the admission of persons to oppose) any such question as is referred to in subsection (2)(a) or (b) of this section, the proceedings on the application can and, if the rules so provide, shall be suspended to enable the decision of the court to be obtained on that question by an application under that subsection, or by means of a case stated by the Lands Tribunal, or otherwise, as may be provided by those rules or by rules of court.
 
-(7)[^key-afacf93a539252b921f3544e3a660c71][^c13577] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-afacf93a539252b921f3544e3a660c71][^c13577] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13585]
 
@@ -436,10 +436,10 @@ and after section 84(1) there shall be inserted as new subsections (1A), (1B) an
 
 (10)[^c13577] In section 38(3) of the [^c13588]Requisitioned Land and War Works Act 1945 (under which section 84 of the [^c13589]Law of Property Act 1925 does not apply to a covenant obtained under the Defence Acts, so long as the covenant is enforceable on behalf of the Crown) for the words “any covenant obtained under the Defence Acts” there shall be substituted the words “any restriction created or imposed under the Defence Acts or under section 13 (acquisition of land for oil installations) of the [^c13590]Land Powers (Defence) Act 1958”, and for the words “the covenant” there shall be substituted the words “the restriction”.
 
-(11) This section applies to restrictions whether subsisting at the time it comes into force or created or imposed thereafter,[^key-aa8bd3bbc43545927ffb74cca3df54e5]...
+(11) This section applies to restrictions whether subsisting at the time it comes into force or created or imposed thereafter,[^c-aa8bd3bbc43545927ffb74cca3df54e5]...
 
-- (a)[^key-aa8bd3bbc43545927ffb74cca3df54e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-aa8bd3bbc43545927ffb74cca3df54e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-aa8bd3bbc43545927ffb74cca3df54e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-aa8bd3bbc43545927ffb74cca3df54e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part V — Supplementary Provisions
 
@@ -814,7 +814,7 @@ Provided that this subsection shall not apply to mining leases.
 
 [^c13539]: Editorial: The text of ss. 1–12(1), 13 and 14 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-af510a6b1afba4049b8a72bb86fe245e]: Textual amendment: S. 6 repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
+[^c-af510a6b1afba4049b8a72bb86fe245e]: Textual amendment: S. 6 repealed (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 6](https://www.legislation.gov.uk/uksi/2003/3096/schedule/6)
 
 [^c13541]: Editorial: The text of ss. 1–12(1), 13 and 14 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -832,13 +832,13 @@ Provided that this subsection shall not apply to mining leases.
 
 [^c13547]: Editorial: The text of ss. 1–12(1), 13 and 14 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-d3ff8e41909e2a349110ee1287de3106]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1969/59/section/16) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-d3ff8e41909e2a349110ee1287de3106]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1969/59/section/16) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c13553]: Marginal citation: [1925 c. 22](https://www.legislation.gov.uk/ukpga/1925/22).
 
 [^c13554]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-40161a7632787636d3dfee3b49f1c32c]: Textual amendment: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1969/59/section/17/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-40161a7632787636d3dfee3b49f1c32c]: Textual amendment: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1969/59/section/17/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c13555]: Textual amendment: S. 17(3)(4) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIII](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIII) Gp. 1.
 
@@ -854,7 +854,7 @@ Provided that this subsection shall not apply to mining leases.
 
 [^c13562]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-7b70501bc7db47a812021a349c7625e5]: Textual amendment: Words in s. 24(1) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/9) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-7b70501bc7db47a812021a349c7625e5]: Textual amendment: Words in s. 24(1) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/9) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c13564]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -884,7 +884,7 @@ Provided that this subsection shall not apply to mining leases.
 
 [^c13577]: Editorial: The text of s. 28(2)–(7)(9)(10) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-afacf93a539252b921f3544e3a660c71]: Textual amendment: S. 28(7) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-afacf93a539252b921f3544e3a660c71]: Textual amendment: S. 28(7) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c13585]: Textual amendment: S. 28(8) repealed by [Civil Aviation Act 1982 (c. 16, SIF 9)](https://www.legislation.gov.uk/ukpga/1982/16), [s. 109(3)](https://www.legislation.gov.uk/ukpga/1982/16/section/109/3), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/16/schedule/16)
 
@@ -894,7 +894,7 @@ Provided that this subsection shall not apply to mining leases.
 
 [^c13590]: Marginal citation: [1958 c. 30](https://www.legislation.gov.uk/ukpga/1958/30).
 
-[^key-aa8bd3bbc43545927ffb74cca3df54e5]: Textual amendment: S. 28(11)(a)(b) and preceding word repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-aa8bd3bbc43545927ffb74cca3df54e5]: Textual amendment: S. 28(11)(a)(b) and preceding word repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c13591]: Marginal citation: [1884 c. 54](https://www.legislation.gov.uk/ukpga/1884/54).
 

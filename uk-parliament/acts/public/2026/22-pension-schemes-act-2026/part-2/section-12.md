@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Publication etc of metric data[^key-a014c5db216cc583ed1642637e15b4ee]
+## 12. Publication etc of metric data[^c-a014c5db216cc583ed1642637e15b4ee]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a014c5db216cc583ed1642637e15b4ee]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-a014c5db216cc583ed1642637e15b4ee]: Commencement: S. 12 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

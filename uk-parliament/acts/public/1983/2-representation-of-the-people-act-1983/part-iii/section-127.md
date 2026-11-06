@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Method of questioning local election.[^key-f369926e99b4b70fbd965f215cfdc115][^c14479931]
+## 127. Method of questioning local election.[^c-f369926e99b4b70fbd965f215cfdc115][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ or on the ground that the election was avoided by corrupt or illegal practices o
 
 ## Annotations
 
-[^key-f369926e99b4b70fbd965f215cfdc115]: Modification: S. 127 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2012/1917/article/50/6), [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/paragraph/1/5)
+[^c-f369926e99b4b70fbd965f215cfdc115]: Modification: S. 127 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2012/1917/article/50/6), [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/paragraph/1/5)
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))

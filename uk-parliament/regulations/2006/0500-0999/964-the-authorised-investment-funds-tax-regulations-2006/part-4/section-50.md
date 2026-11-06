@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. References to gross income[^key-2571ebeffe51f5f62a34c243964d8684]
+## 50. References to gross income[^c-2571ebeffe51f5f62a34c243964d8684]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of this Chapter, references to gross income are references to t
 
 ## Annotations
 
-[^key-2571ebeffe51f5f62a34c243964d8684]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/uksi/2006/964/regulation/50) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2010/294/regulation/15) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))
+[^c-2571ebeffe51f5f62a34c243964d8684]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/uksi/2006/964/regulation/50) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2010/294/regulation/15) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))

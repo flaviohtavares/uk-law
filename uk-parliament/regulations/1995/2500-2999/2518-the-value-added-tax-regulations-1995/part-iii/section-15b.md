@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15B. Change of liability: anti-forestalling invoices[^key-3c19b50ded234e8da768a1143c13d02a]
+## 15B. Change of liability: anti-forestalling invoices[^c-3c19b50ded234e8da768a1143c13d02a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ the supplier shall, within 45 days after the date when the anti-forestalling cha
 
 ## Annotations
 
-[^key-3c19b50ded234e8da768a1143c13d02a]: Textual amendment: [Reg. 15B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/15B) inserted (1.10.2012) by [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/1), [9](https://www.legislation.gov.uk/uksi/2012/1899/regulation/9)
+[^c-3c19b50ded234e8da768a1143c13d02a]: Textual amendment: [Reg. 15B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/15B) inserted (1.10.2012) by [The Value Added Tax (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1899)](https://www.legislation.gov.uk/uksi/2012/1899), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2012/1899/regulation/2/1), [9](https://www.legislation.gov.uk/uksi/2012/1899/regulation/9)

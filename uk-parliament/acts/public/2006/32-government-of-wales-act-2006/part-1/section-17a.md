@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Exception from disqualification by virtue of being an MP: recently elected members[^key-8d48ae2a8624aca5800c9c97d3cfe344]
+## 17A. Exception from disqualification by virtue of being an MP: recently elected members[^c-8d48ae2a8624aca5800c9c97d3cfe344]
 
 *Extent: E+W+S+N.I.*
 
-(1) A person returned at an election as a Member of the Senedd[^key-9348d22b2d042136af6e1508e7843105] is not disqualified under section 16(1)(za) (disqualification by virtue of being an MP) at any time in the period of 8 days beginning with the day the person is so returned.
+(1) A person returned at an election as a Member of the Senedd[^c-9348d22b2d042136af6e1508e7843105] is not disqualified under section 16(1)(za) (disqualification by virtue of being an MP) at any time in the period of 8 days beginning with the day the person is so returned.
 
 (2) Subsection (3) applies where a person—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8d48ae2a8624aca5800c9c97d3cfe344]: Textual amendment: Ss. 17A, 17B inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/3/2), [29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/a)
+[^c-8d48ae2a8624aca5800c9c97d3cfe344]: Textual amendment: Ss. 17A, 17B inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/3/2), [29(2)(a)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/a)
 
-[^key-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))
+[^c-9348d22b2d042136af6e1508e7843105]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(15)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/15) (with [Sch. 1 para. 2(11)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11)[(12)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/12)[(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/14))

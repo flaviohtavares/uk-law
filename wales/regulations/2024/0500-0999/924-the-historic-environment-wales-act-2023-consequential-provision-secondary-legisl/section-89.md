@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**89.**[^key-abe43a2b8c313f59daace4a9eb7018f3] In regulation 2(1)—
+**89.**[^c-abe43a2b8c313f59daace4a9eb7018f3] In regulation 2(1)—
 
 - (a) insert in the appropriate place ““**the 2023 Act**” (“***Deddf 2023***”) means the Historic Environment (Wales) Act 2023;”;
 - (b) omit the definition of “the Listed Buildings Act”;
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abe43a2b8c313f59daace4a9eb7018f3]: Commencement: [Reg. 89](https://www.legislation.gov.uk/wsi/2024/924/regulation/89) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-abe43a2b8c313f59daace4a9eb7018f3]: Commencement: [Reg. 89](https://www.legislation.gov.uk/wsi/2024/924/regulation/89) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

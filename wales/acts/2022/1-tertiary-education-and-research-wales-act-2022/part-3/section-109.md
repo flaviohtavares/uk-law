@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Consent for payments to collaborating bodies‍[^key-3c5a5d62a14e28688c437835308a56e2][^key-425b5dd98eb1ba9c9a47b3d7fcc23253]
+## 109. Consent for payments to collaborating bodies‍[^c-3c5a5d62a14e28688c437835308a56e2][^c-425b5dd98eb1ba9c9a47b3d7fcc23253]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c5a5d62a14e28688c437835308a56e2]: Commencement: S. 109 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-3c5a5d62a14e28688c437835308a56e2]: Commencement: S. 109 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-425b5dd98eb1ba9c9a47b3d7fcc23253]: Commencement: [S. 109](https://www.legislation.gov.uk/asc/2022/1/section/109) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ee)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ee)
+[^c-425b5dd98eb1ba9c9a47b3d7fcc23253]: Commencement: [S. 109](https://www.legislation.gov.uk/asc/2022/1/section/109) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(ee)](https://www.legislation.gov.uk/wsi/2026/62/article/2/ee)

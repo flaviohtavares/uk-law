@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Introductory[^key-34976751f2953786a03826713bae6347]
+## 176. Introductory[^c-34976751f2953786a03826713bae6347]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of the Rules has effect for their interpretation and application; and 
 
 ## Annotations
 
-[^key-34976751f2953786a03826713bae6347]: Commencement: Rule 176 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-34976751f2953786a03826713bae6347]: Commencement: Rule 176 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

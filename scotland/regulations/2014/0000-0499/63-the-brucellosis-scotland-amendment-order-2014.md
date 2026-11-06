@@ -96,7 +96,7 @@ This Order may be cited as the Brucellosis (Scotland) Amendment Order 2014 and c
 
 .
 
-(8)[^key-0f520b0858c99eaa2172167e45ddb0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-0f520b0858c99eaa2172167e45ddb0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Revocation
 
@@ -134,6 +134,6 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^c22023871]: Marginal citation: [S.S.I. 2009/232](https://www.legislation.gov.uk/ssi/2009/232), amended by [S.S.I. 2011/51](https://www.legislation.gov.uk/ssi/2011/51).
 
-[^key-0f520b0858c99eaa2172167e45ddb0f4]: Textual amendment: Art. 2(8) revoked (31.3.2014) by [The Brucellosis (Scotland) Amendment (No. 2) Order 2014 (S.S.I. 2014/72)](https://www.legislation.gov.uk/ssi/2014/72), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/72/article/1/2), [2](https://www.legislation.gov.uk/ssi/2014/72/article/2)
+[^c-0f520b0858c99eaa2172167e45ddb0f4]: Textual amendment: Art. 2(8) revoked (31.3.2014) by [The Brucellosis (Scotland) Amendment (No. 2) Order 2014 (S.S.I. 2014/72)](https://www.legislation.gov.uk/ssi/2014/72), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/72/article/1/2), [2](https://www.legislation.gov.uk/ssi/2014/72/article/2)
 
 [^c22023881]: Marginal citation: [S.I. 1971/531](https://www.legislation.gov.uk/uksi/1971/531).

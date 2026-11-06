@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-b3f1d0a6c47be6180ad77c34c70b8115] The Department shall prepare, either annually or at such times or intervals as may be prescribed, a report on—
+(1)[^c-b3f1d0a6c47be6180ad77c34c70b8115] The Department shall prepare, either annually or at such times or intervals as may be prescribed, a report on—
 
 - (a) the standards achieved by the Department in the making of decisions against which an appeal lies to an appeal tribunal constituted under Chapter 1 of Part 2;
 - (b) the standards of advice and assistance provided under Article 138 of the Welfare Reform (Northern Ireland) Order 2015; and
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3f1d0a6c47be6180ad77c34c70b8115]: Textual amendment: [Art. 76(1)-(1B)](https://www.legislation.gov.uk/nisi/1998/1506/article/76/1) substituted for [art. 76(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/76/1) (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [125](https://www.legislation.gov.uk/nisi/2015/2006/article/125); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(j)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/j)
+[^c-b3f1d0a6c47be6180ad77c34c70b8115]: Textual amendment: [Art. 76(1)-(1B)](https://www.legislation.gov.uk/nisi/1998/1506/article/76/1) substituted for [art. 76(1)](https://www.legislation.gov.uk/nisi/1998/1506/article/76/1) (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [125](https://www.legislation.gov.uk/nisi/2015/2006/article/125); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(j)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/j)

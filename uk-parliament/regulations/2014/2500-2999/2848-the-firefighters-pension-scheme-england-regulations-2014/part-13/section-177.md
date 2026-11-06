@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Scheme administrator for the purposes of the Finance Act 2004[^key-e39bde52727dd1ca26c2fdcbdf5e49a9]
+## 177. Scheme administrator for the purposes of the Finance Act 2004[^c-e39bde52727dd1ca26c2fdcbdf5e49a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The scheme manager is appointed to be responsible for all liabilities and respon
 
 ## Annotations
 
-[^key-e39bde52727dd1ca26c2fdcbdf5e49a9]: Commencement: [Reg. 177](https://www.legislation.gov.uk/uksi/2014/2848/regulation/177) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e39bde52727dd1ca26c2fdcbdf5e49a9]: Commencement: [Reg. 177](https://www.legislation.gov.uk/uksi/2014/2848/regulation/177) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00068]: Footnote: [S.I.2006/569](https://www.legislation.gov.uk/uksi/2006/569); amended by [S.I. 2013/1114](https://www.legislation.gov.uk/uksi/2013/1114).

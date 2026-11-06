@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section applies where a person is made[^key-ccf2b4c6a21d9f3a97b9474e287dbd0e] bankrupt who is or has been a party to a transaction for, or involving, the provision to him of credit.
+(1) This section applies where a person is made[^c-ccf2b4c6a21d9f3a97b9474e287dbd0e] bankrupt who is or has been a party to a transaction for, or involving, the provision to him of credit.
 
 (2) The court may, on the application of the trustee of the bankrupt’s estate, make an order with respect to the transaction if the transaction is or was extortionate and was not entered into more than 3 years before the commencement of the bankruptcy.
 
@@ -51,6 +51,6 @@ and it shall be presumed, unless the contrary is proved, that a transaction, wit
 
     S. 343 applied (with modifications) (4.4.2006) by The Cross-[Border Insolvency Regulations 2006 (S.I. 2006/1030)](https://www.legislation.gov.uk/uksi/2006/1030), [reg. 2](https://www.legislation.gov.uk/uksi/2006/1030/regulation/2), [Sch. 1 Art. 23 paras. 1-3](https://www.legislation.gov.uk/uksi/2006/1030/schedule/1/article/23/paragraph/1) (subject to [Sch. 1 Art. 23 paras. 6-9](https://www.legislation.gov.uk/uksi/2006/1030/schedule/1/article/23/paragraph/6))
 
-[^key-ccf2b4c6a21d9f3a97b9474e287dbd0e]: Textual amendment: Word in s. 343(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 36](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/36); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-ccf2b4c6a21d9f3a97b9474e287dbd0e]: Textual amendment: Word in s. 343(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 36](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/36); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c18984811]: Textual amendment: Words in s. 343(6) repealed (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), [ss. 69(1)](https://www.legislation.gov.uk/ukpga/2006/14/section/69/1), [70](https://www.legislation.gov.uk/ukpga/2006/14/section/70), [71](https://www.legislation.gov.uk/ukpga/2006/14/section/71), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) (with [Sch. 3 para. 15(5)](https://www.legislation.gov.uk/ukpga/2006/14/schedule/3/paragraph/15/5)); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2) (as amended by [S.I. 2007/387](https://www.legislation.gov.uk/uksi/2007/387), [art. 2(3)(e)(iii)](https://www.legislation.gov.uk/uksi/2007/387/article/2/3/e/iii))

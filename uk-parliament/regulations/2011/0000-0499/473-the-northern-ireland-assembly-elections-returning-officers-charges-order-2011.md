@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People, Northern Ireland
 
-The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2011 (revoked)[^key-bd87aea819ca28347de91400a03090e7]
+The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2011 (revoked)[^c-bd87aea819ca28347de91400a03090e7]
 
 Made
 
@@ -39,27 +39,27 @@ Made
 
 Coming into force in accordance with Article 1(2)
 
-[^key-bd87aea819ca28347de91400a03090e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd87aea819ca28347de91400a03090e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bd87aea819ca28347de91400a03090e7]
+## 1. Citation and commencement[^c-bd87aea819ca28347de91400a03090e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Overall maximum recoverable amount[^key-bd87aea819ca28347de91400a03090e7]
+## 2. Overall maximum recoverable amount[^c-bd87aea819ca28347de91400a03090e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-bd87aea819ca28347de91400a03090e7]
+## 3. Revocations[^c-bd87aea819ca28347de91400a03090e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd87aea819ca28347de91400a03090e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd87aea819ca28347de91400a03090e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amount for each constituency[^key-bd87aea819ca28347de91400a03090e7]
+## SCHEDULE — Overall maximum recoverable amount for each constituency[^c-bd87aea819ca28347de91400a03090e7]
 
 Article 2
 
@@ -67,8 +67,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-bd87aea819ca28347de91400a03090e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd87aea819ca28347de91400a03090e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd87aea819ca28347de91400a03090e7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/473) revoked (23.3.2016) by [The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2016 (S.I. 2016/473)](https://www.legislation.gov.uk/uksi/2016/473), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/473/article/1/2), [3](https://www.legislation.gov.uk/uksi/2016/473/article/3)
+[^c-bd87aea819ca28347de91400a03090e7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/473) revoked (23.3.2016) by [The Northern Ireland Assembly Elections (Returning Officer’s Charges) Order 2016 (S.I. 2016/473)](https://www.legislation.gov.uk/uksi/2016/473), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/473/article/1/2), [3](https://www.legislation.gov.uk/uksi/2016/473/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5C. Crofters: duty to cultivate and maintain[^key-45e9868f0ec7463919467fd77bfa8ef6][^key-d982552fa1b68069b96ca7a863e311a3]
+## 5C. Crofters: duty to cultivate and maintain[^c-45e9868f0ec7463919467fd77bfa8ef6][^c-d982552fa1b68069b96ca7a863e311a3]
 
 *Extent: S*
 
@@ -67,6 +67,6 @@ whichever occurs first.
 
 ## Annotations
 
-[^key-45e9868f0ec7463919467fd77bfa8ef6]: Textual amendment: Ss. 5B, 5C substituted for s. 5B (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 33(3)](https://www.legislation.gov.uk/asp/2010/14/section/33/3), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-45e9868f0ec7463919467fd77bfa8ef6]: Textual amendment: Ss. 5B, 5C substituted for s. 5B (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 33(3)](https://www.legislation.gov.uk/asp/2010/14/section/33/3), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
 
-[^key-d982552fa1b68069b96ca7a863e311a3]: Textual amendment: S. 5AA and cross-heading inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 33(2)](https://www.legislation.gov.uk/asp/2010/14/section/33/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-d982552fa1b68069b96ca7a863e311a3]: Textual amendment: S. 5AA and cross-heading inserted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [ss. 33(2)](https://www.legislation.gov.uk/asp/2010/14/section/33/2), [57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

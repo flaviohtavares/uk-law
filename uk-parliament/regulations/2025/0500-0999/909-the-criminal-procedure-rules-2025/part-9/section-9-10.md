@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.10. Adult defendant: not guilty plea[^key-67c04c29de4dbea23b0e05ebf8b9d8fe]
+## 9.10. Adult defendant: not guilty plea[^c-67c04c29de4dbea23b0e05ebf8b9d8fe]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-67c04c29de4dbea23b0e05ebf8b9d8fe]: Commencement: [Rule 9.10](https://www.legislation.gov.uk/uksi/2025/909/rule/9.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-67c04c29de4dbea23b0e05ebf8b9d8fe]: Commencement: [Rule 9.10](https://www.legislation.gov.uk/uksi/2025/909/rule/9.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00278]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 18 was amended by section 59 of, and paragraph 1 of Schedule 9 to, the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 68 of, and paragraph 6 of Schedule 8 to, the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), section 49 of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), and paragraphs 1 and 4 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 19 was substituted by paragraphs 1 and 5 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and amended by sections 144, 177 and 178 of, and paragraph 4 of Schedule 17, paragraph 80 of Schedule 21 and Part 5 of Schedule 23 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 

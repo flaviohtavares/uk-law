@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Inquiries[^key-b6eb5550f3272a133b50e4887dd45cf1]
+## 28. Inquiries[^c-b6eb5550f3272a133b50e4887dd45cf1]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ the relevant authority or authorities may direct that the two inquiries be held 
 
 ## Annotations
 
-[^key-b6eb5550f3272a133b50e4887dd45cf1]: Commencement: S. 28 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-b6eb5550f3272a133b50e4887dd45cf1]: Commencement: S. 28 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

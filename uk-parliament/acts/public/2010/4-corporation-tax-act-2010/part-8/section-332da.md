@@ -50,9 +50,9 @@ F is the total field allowance for the oil field, as originally determined under
 
 E is the company's share of the equity in the oil field at the end of the relevant day.
 
-(5) This section does not apply to expenditure which is incurred on or after the day determined by the relevant national authority[^key-f5639e767685a7c6e1a50451c5a5252b] as that on which the relevant project was materially completed.
+(5) This section does not apply to expenditure which is incurred on or after the day determined by the relevant national authority[^c-f5639e767685a7c6e1a50451c5a5252b] as that on which the relevant project was materially completed.
 
-(5A)[^key-72dd758951a66b3b72dcbeae11217fe6] The relevant national authority” is—
+(5A)[^c-72dd758951a66b3b72dcbeae11217fe6] The relevant national authority” is—
 
 - (a) where the relevant project relates to a field that is wholly within the Welsh onshore area (as defined in section 8A of the Petroleum Act 1998), the Welsh Ministers;
 - (b) otherwise, the OGA.
@@ -71,6 +71,6 @@ E is the company's share of the equity in the oil field at the end of the releva
 
 ## Annotations
 
-[^key-f5639e767685a7c6e1a50451c5a5252b]: Textual amendment: Words in [s. 332DA(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/332DA/5) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/25/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-f5639e767685a7c6e1a50451c5a5252b]: Textual amendment: Words in [s. 332DA(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/332DA/5) substituted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 25(2)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/25/2) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
 
-[^key-72dd758951a66b3b72dcbeae11217fe6]: Textual amendment: [S. 332DA(5A)](https://www.legislation.gov.uk/ukpga/2010/4/section/332DA/5A) inserted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 25(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/25/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)
+[^c-72dd758951a66b3b72dcbeae11217fe6]: Textual amendment: [S. 332DA(5A)](https://www.legislation.gov.uk/ukpga/2010/4/section/332DA/5A) inserted (1.10.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 25(3)](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/25/3) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/4/b)

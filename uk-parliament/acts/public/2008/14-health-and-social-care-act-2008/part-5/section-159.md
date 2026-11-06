@@ -20,20 +20,20 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-33c5a3764b99279c6bbcbd7bbbebbe86] The National Biological Standards Board is abolished (and, accordingly, the Biological Standards Act 1975 (c. 4) ceases to have effect).
+(1)[^c-33c5a3764b99279c6bbcbd7bbbebbe86] The National Biological Standards Board is abolished (and, accordingly, the Biological Standards Act 1975 (c. 4) ceases to have effect).
 
-(2)[^key-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-aa62913cdc5b3e53244a7347525a351c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33c5a3764b99279c6bbcbd7bbbebbe86]: Commencement: S. 159(1)-(4) (5)(b) (6) in force at 1.4.2009 by [S.I. 2009/270](https://www.legislation.gov.uk/uksi/2009/270), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/270/article/2/2/a)
+[^c-33c5a3764b99279c6bbcbd7bbbebbe86]: Commencement: S. 159(1)-(4) (5)(b) (6) in force at 1.4.2009 by [S.I. 2009/270](https://www.legislation.gov.uk/uksi/2009/270), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/270/article/2/2/a)
 
-[^key-aa62913cdc5b3e53244a7347525a351c]: Textual amendment: [S. 159(2)-(6)](https://www.legislation.gov.uk/ukpga/2008/14/section/159/2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/24); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-aa62913cdc5b3e53244a7347525a351c]: Textual amendment: [S. 159(2)-(6)](https://www.legislation.gov.uk/ukpga/2008/14/section/159/2) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/24); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

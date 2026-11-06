@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Exercise of powers by the Privy Council[^key-8c0633d3d282ba05c1f2c1a24786d6c3][^key-e7cabaf6632fb9bbf83e9464ec70836d]
+## 42. Exercise of powers by the Privy Council[^c-8c0633d3d282ba05c1f2c1a24786d6c3][^c-e7cabaf6632fb9bbf83e9464ec70836d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) Any power of the Privy Council under this Order to make an order shall be exercisable by statutory instrument.
 
-(2A)[^key-14dafabd8eb628b692215bbb28443f45] For the purposes of section 1 of the Statutory Instruments Act 1946 (definition of “Statutory Instrument”), any power of the Privy Council to make an order under this Order is to be taken to be conferred by an Act of Parliament.
+(2A)[^c-14dafabd8eb628b692215bbb28443f45] For the purposes of section 1 of the Statutory Instruments Act 1946 (definition of “Statutory Instrument”), any power of the Privy Council to make an order under this Order is to be taken to be conferred by an Act of Parliament.
 
-(3)[^key-f94fcfe7b63c72e582d0cb2e15457531] A statutory instrument that contains an order made by the Privy Council, other than an order made under article 48(2) or under paragraph 19, 20 or 21 of Schedule 2, shall—
+(3)[^c-f94fcfe7b63c72e582d0cb2e15457531] A statutory instrument that contains an order made by the Privy Council, other than an order made under article 48(2) or under paragraph 19, 20 or 21 of Schedule 2, shall—
 
 - (a) where paragraph (3A) applies, be subject to annulment in pursuance of a resolution of either House of Parliament or a resolution of the Scottish Parliament; or
 - (b) where paragraph (3A) does not apply, be subject to annulment in pursuance of a resolution of either House of Parliament.
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8c0633d3d282ba05c1f2c1a24786d6c3]: Commencement: Art. 42 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-8c0633d3d282ba05c1f2c1a24786d6c3]: Commencement: Art. 42 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-e7cabaf6632fb9bbf83e9464ec70836d]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2002/254/article/42) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-e7cabaf6632fb9bbf83e9464ec70836d]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2002/254/article/42) in force at 1.4.2002 as notified in the London Gazette dated 25.3.2002, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-14dafabd8eb628b692215bbb28443f45]: Textual amendment: [Art. 42(2A)](https://www.legislation.gov.uk/uksi/2002/254/article/42/2A) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/c), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/12/a) (with [arts. 2](https://www.legislation.gov.uk/uksi/2009/1182/article/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2009/1182/article/6/1/b))
+[^c-14dafabd8eb628b692215bbb28443f45]: Textual amendment: [Art. 42(2A)](https://www.legislation.gov.uk/uksi/2002/254/article/42/2A) inserted (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/c), [Sch. 2 para. 12(a)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/12/a) (with [arts. 2](https://www.legislation.gov.uk/uksi/2009/1182/article/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2009/1182/article/6/1/b))
 
-[^key-f94fcfe7b63c72e582d0cb2e15457531]: Textual amendment: [Art. 42(3)](https://www.legislation.gov.uk/uksi/2002/254/article/42/3)[(3A)](https://www.legislation.gov.uk/uksi/2002/254/article/42/3A) substituted for [art. 42(3)](https://www.legislation.gov.uk/uksi/2002/254/article/42/3) (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/c), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/12/b) (with [arts. 2](https://www.legislation.gov.uk/uksi/2009/1182/article/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2009/1182/article/6/1/b))
+[^c-f94fcfe7b63c72e582d0cb2e15457531]: Textual amendment: [Art. 42(3)](https://www.legislation.gov.uk/uksi/2002/254/article/42/3)[(3A)](https://www.legislation.gov.uk/uksi/2002/254/article/42/3A) substituted for [art. 42(3)](https://www.legislation.gov.uk/uksi/2002/254/article/42/3) (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/c), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/uksi/2009/1182/schedule/2/paragraph/12/b) (with [arts. 2](https://www.legislation.gov.uk/uksi/2009/1182/article/2), [6(1)(b)](https://www.legislation.gov.uk/uksi/2009/1182/article/6/1/b))

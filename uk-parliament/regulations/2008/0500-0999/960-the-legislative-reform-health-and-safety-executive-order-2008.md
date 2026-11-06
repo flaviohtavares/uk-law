@@ -54,19 +54,19 @@ As provided for in section 15 of the 2006 Act, the affirmative resolution proced
 
 Pursuant to section 17(2) of the 2006 Act, the draft has been approved by resolution of each House of Parliament after the expiry of the 40-day period referred to in that provision.
 
-## 1. Citation and Commencement[^key-879f3421c0cb9e57c690c56a83c3101c]
+## 1. Citation and Commencement[^c-879f3421c0cb9e57c690c56a83c3101c]
 
 This Order may be cited as the Legislative Reform (Health and Safety Executive) Order 2008 and shall come into force on the day after it is made.
 
-## 2. Abolition of the Health and Safety Commission and Executive[^key-34d466173ac03717fb3f89a5ad2e8403]
+## 2. Abolition of the Health and Safety Commission and Executive[^c-34d466173ac03717fb3f89a5ad2e8403]
 
 The Health and Safety Commission and the Health and Safety Executive, as established under section 10 of the Health and Safety at Work etc. Act 1974[^f00002], are abolished.
 
-## 3. Establishment of the new Health and Safety Executive[^key-d877aaeaee42474aaaee1de3ff747140]
+## 3. Establishment of the new Health and Safety Executive[^c-d877aaeaee42474aaaee1de3ff747140]
 
 The Health and Safety at Work etc. Act 1974 shall be amended as specified in articles 4 to 20 of this Order.
 
-**4.**[^key-b7139ec56bda73b0c3a80b0e8741b0f5] For section 10 substitute ──
+**4.**[^c-b7139ec56bda73b0c3a80b0e8741b0f5] For section 10 substitute ──
 
 > **10. Establishment of the Executive**
 >
@@ -81,7 +81,7 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 > - (a) in England and Wales and Northern Ireland, the Crown Proceedings Act 1947 shall apply to the Executive as if it were a government department within the meaning of that Act, and
 > - (b) in Scotland, the Crown Suits (Scotland) Act 1857 shall apply to the Executive as if it were a public department within the meaning of that Act.
 
-**5.**[^key-ea667df81f1dfc1345ed52a549d6a0ed] For sections 11 to 13 substitute─
+**5.**[^c-ea667df81f1dfc1345ed52a549d6a0ed] For sections 11 to 13 substitute─
 
 > **11. Functions of the Executive**
 >
@@ -169,7 +169,7 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 
 .
 
-**6.**[^key-ec7505ad4806e0d0522109269ce2200f] (1) Section 14 is amended as follows.
+**6.**[^c-ec7505ad4806e0d0522109269ce2200f] (1) Section 14 is amended as follows.
 
 (2) In subsection (1), for “the Commission” substitute “the Executive”.
 
@@ -200,13 +200,13 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 
 (7) In subsection (7), for “subsection (2)(b)” substitute “subsection (2A)”.
 
-**7.**[^key-52307260bc3a36d61bdde39898607426] In section 15(4)(a), for “the Commission” substitute “the Executive”.
+**7.**[^c-52307260bc3a36d61bdde39898607426] In section 15(4)(a), for “the Commission” substitute “the Executive”.
 
-**8.**[^key-dd3b8f500284739f4a54bbedf2a6e896] In section 16, for each reference to “the Commission” substitute “the Executive”.
+**8.**[^c-dd3b8f500284739f4a54bbedf2a6e896] In section 16, for each reference to “the Commission” substitute “the Executive”.
 
-**9.**[^key-79667a146c9a0de40ad4cda8eb14196a] In section 17(3)(a), for “the Commission” substitute “the Executive”.
+**9.**[^c-79667a146c9a0de40ad4cda8eb14196a] In section 17(3)(a), for “the Commission” substitute “the Executive”.
 
-**10.**[^key-9c1bf7e6f6186dc082ee90cfd8111115] (1) Section 18 is amended as follows.
+**10.**[^c-9c1bf7e6f6186dc082ee90cfd8111115] (1) Section 18 is amended as follows.
 
 (2) In subsection (4)(b), for “the Commission” substitute “the Executive”.
 
@@ -230,7 +230,7 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 - (b) for “that paragraph” substitute “that subsection”, and
 - (c) each time it appears, omit “the Commission or”.
 
-**11.**[^key-68e81a2486f43dd5abb3b5967bf3cb0c] (1) Section 27 is amended as follows.
+**11.**[^c-68e81a2486f43dd5abb3b5967bf3cb0c] (1) Section 27 is amended as follows.
 
 (2) In subsection (1), for each reference to “the Commission” substitute “the Executive”.
 
@@ -248,7 +248,7 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 
 (5) In subsection (4), omit “of the Commission or, as the case may be,”.
 
-**12.**[^key-2e9322d49f7b1510546e7044fcc1f55a] (1) Section 28 is amended as follows.
+**12.**[^c-2e9322d49f7b1510546e7044fcc1f55a] (1) Section 28 is amended as follows.
 
 (2) In subsection (3)—
 
@@ -269,21 +269,21 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 
 (5) In subsection (7), for each reference to “section 14(2)” substitute “section 14(2) or (2A)”.
 
-**13.**[^key-d414ec7e8ab9b04cd4adf469373dd446] In section 34(1)—
+**13.**[^c-d414ec7e8ab9b04cd4adf469373dd446] In section 34(1)—
 
 - (a) in paragraph (a), for “(2)(a)” substitute “(2)”; and
 - (b) in paragraph (b), for “(2)(b)” substitute “(2A)”.
 
-**14.**[^key-373bc00f8523042281bd8535e39ab4e2] In section 43—
+**14.**[^c-373bc00f8523042281bd8535e39ab4e2] In section 43—
 
 - (a) in subsection (1)—
   - (i) for each of the first two references to “the Commission” substitute “the Executive”; and
   - (ii) omit the words from “and it shall” to the end; and
 - (b) in subsection (3), omit “the Commission,”.
 
-**15.**[^key-61e3cd5c9a0a825a9e0448bf510fbd33] In section 45(1), for each reference to “the Commission”, substitute “the Executive”.
+**15.**[^c-61e3cd5c9a0a825a9e0448bf510fbd33] In section 45(1), for each reference to “the Commission”, substitute “the Executive”.
 
-**16.**[^key-db32d78f0407e31a7ddfefa0f0e20e3e] (1) Section 50 is amended as follows.
+**16.**[^c-db32d78f0407e31a7ddfefa0f0e20e3e] (1) Section 50 is amended as follows.
 
 (2) For subsection (1), substitute—
 
@@ -303,12 +303,12 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 - (a) for “11(2)(d)”, substitute “11(3)”; and
 - (b) for each reference to “the Commission” substitute “the Executive”.
 
-**17.**[^key-7d7e40b6520242451106f0c6734ba534] In section 53(1)—
+**17.**[^c-7d7e40b6520242451106f0c6734ba534] In section 53(1)—
 
 - (a) omit the definition of “the Commission”; and
 - (b) in the definition of “the Executive”, for “10(5)” substitute “10(1)”.
 
-**18.**[^key-2e59bad75d7a556108a8ed6b75d60638] (1) Section 55 is amended as follows.
+**18.**[^c-2e59bad75d7a556108a8ed6b75d60638] (1) Section 55 is amended as follows.
 
 (2) In subsections (1) and (2), for each reference to “the Health and Safety Commission” substitute “the Health and Safety Executive”.
 
@@ -320,17 +320,17 @@ The Health and Safety at Work etc. Act 1974 shall be amended as specified in art
 
 (4) In subsection (6)(b), for “the Health and Safety Commission” substitute “the Health and Safety Executive”.
 
-**19.**[^key-4d5913f4fbd4d77bf74a0b581755d7e3] In section 59(5), for “the Commission” substitute “the Executive”.
+**19.**[^c-4d5913f4fbd4d77bf74a0b581755d7e3] In section 59(5), for “the Commission” substitute “the Executive”.
 
-**20.**[^key-9046af87ec90067e77ee4ed980ecb090] For Schedule 2, substitute the schedule set out in Schedule 1 to this Order.
+**20.**[^c-9046af87ec90067e77ee4ed980ecb090] For Schedule 2, substitute the schedule set out in Schedule 1 to this Order.
 
-## 21. Transitional provisions[^key-09479579284f00e4ba33e6d55d8fff4e]
+## 21. Transitional provisions[^c-09479579284f00e4ba33e6d55d8fff4e]
 
 (1) Any reference to the Health and Safety Executive in any enactment passed or made before the day on which this Order comes into force shall have effect on and after that day as a reference to the Health and Safety Executive as established by this Order.
 
 (2) Schedule 2 has effect.
 
-## 22. Consequential Amendments[^key-495f3d53fc9de1901f2c15e11e2a6d9e]
+## 22. Consequential Amendments[^c-495f3d53fc9de1901f2c15e11e2a6d9e]
 
 Schedule 3 has effect.
 
@@ -344,7 +344,7 @@ Department for Work and Pensions
 
 31st March 2008
 
-## SCHEDULE 1 — THE SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 2 TO THE HEALTH AND SAFETY AT WORK ETC. ACT 1974[^key-667772e440b26e349d380fec7c800ca9]
+## SCHEDULE 1 — THE SCHEDULE TO BE SUBSTITUTED FOR SCHEDULE 2 TO THE HEALTH AND SAFETY AT WORK ETC. ACT 1974[^c-667772e440b26e349d380fec7c800ca9]
 
 Article 20
 
@@ -469,7 +469,7 @@ Article 20
 
 Article 21
 
-**1.**[^key-5439355bdc06d8b711884d0fa9d79d2f] In this Schedule—
+**1.**[^c-5439355bdc06d8b711884d0fa9d79d2f] In this Schedule—
 
 - “the Act” means the Health and Safety at Work etc. Act 1974 as amended by this Order;
 - “the appointed day” means the day on which this Order comes into force;
@@ -485,7 +485,7 @@ Article 21
 
 ### Transfer of Chairman and members of the Commission
 
-**2.**[^key-19c5c88debaebf3e2d4a0ad102571c42] (1) The person who immediately before the appointed day was the Chairman shall on the appointed day become the Chair of the new Executive as if duly appointed under paragraph 2 of Schedule 2 to the Act.
+**2.**[^c-19c5c88debaebf3e2d4a0ad102571c42] (1) The person who immediately before the appointed day was the Chairman shall on the appointed day become the Chair of the new Executive as if duly appointed under paragraph 2 of Schedule 2 to the Act.
 
 (2) Any other person who before the appointed day was a Commissioner shall on the appointed day become a member of the new Executive as if duly appointed under paragraph 2 of that Schedule.
 
@@ -502,7 +502,7 @@ Article 21
 
 ### Transfer of officers and staff
 
-**3.**[^key-1d7a796b0819934d96f2f454fd492fd8] (1) Where immediately before the appointed day a person holds appointment under paragraph 11 of Schedule 2 to the existing Act as a servant of the former Executive, his appointment shall continue in effect on and after the appointed day in the service of the new Executive as if made by the new Executive under paragraph 8(2) of Schedule 2 to the Act.
+**3.**[^c-1d7a796b0819934d96f2f454fd492fd8] (1) Where immediately before the appointed day a person holds appointment under paragraph 11 of Schedule 2 to the existing Act as a servant of the former Executive, his appointment shall continue in effect on and after the appointed day in the service of the new Executive as if made by the new Executive under paragraph 8(2) of Schedule 2 to the Act.
 
 (2) The person who immediately before the appointed day was the director of the former Executive shall on the appointed day become the Chief Executive of the new Executive as if appointed by the new Executive under paragraph 8(1) of Schedule 2 to the Act.
 
@@ -512,7 +512,7 @@ Article 21
 
 ### First annual report and statement of accounts of the new Executive
 
-**4.**[^key-cde76b2c4bd80b61926bcbe629cef5e2] (1) This paragraph applies if there is a period of one or more days which—
+**4.**[^c-cde76b2c4bd80b61926bcbe629cef5e2] (1) This paragraph applies if there is a period of one or more days which—
 
 - (a) began on the day after the end of the last year for which the Commission made a report under paragraph 15 of Schedule 2 to the existing Act, and
 - (b) ended on the day before the appointed day.
@@ -523,7 +523,7 @@ Article 21
 
 ### Investigations and special reports
 
-**5.**[^key-22b25417771813e5194d055cb789c679] (1) This paragraph applies where, before the appointed day, the Commission authorised a person to investigate and make a special report under section 14(2) of the existing Act.
+**5.**[^c-22b25417771813e5194d055cb789c679] (1) This paragraph applies where, before the appointed day, the Commission authorised a person to investigate and make a special report under section 14(2) of the existing Act.
 
 (2) For the purposes of carrying out or continuing the investigation and the making of a special report on or after after the appointed day, the authorisation shall be treated as an authorisation by the new Executive.
 
@@ -545,7 +545,7 @@ the report shall be treated as if it had been made to the new Executive under se
 
 ### Inquiries
 
-**6.**[^key-537f074321944bf35c8bb7e864e8fca6] (1) This paragraph applies where, before the appointed day, the Commission directed an inquiry to be held under section 14(2) of the existing Act.
+**6.**[^c-537f074321944bf35c8bb7e864e8fca6] (1) This paragraph applies where, before the appointed day, the Commission directed an inquiry to be held under section 14(2) of the existing Act.
 
 (2) Section 14 of the Act shall continue to apply in relation to that inquiry on or after the appointed day but as if all things done or required to be done by or in relation to the Commission under that section were done or required to be done by or in relation to the new Executive.
 
@@ -555,7 +555,7 @@ the report shall be treated as if it had been made to the new Executive under se
 
 ### Agreements entered into with other public bodies
 
-**7.**[^key-2304b8111b3bd5ae18696dc3a03c48a6] (1) This paragraph applies where, before the appointed day, the Commission either—
+**7.**[^c-2304b8111b3bd5ae18696dc3a03c48a6] (1) This paragraph applies where, before the appointed day, the Commission either—
 
 - (a) entered into an agreement under section 13(1)(a) of the existing Act with any government department or person for that department or other person to perform any of the Commission’s functions; or
 - (b) entered into an agreement under section 13(1)(b) of the existing Act with any Minister of the Crown, government department or other public authority to perform their functions.
@@ -564,7 +564,7 @@ the report shall be treated as if it had been made to the new Executive under se
 
 ### Approval of Codes of Practice
 
-**8.**[^key-dcf525a4d6863e12989c5db88b2c1c1d] (1) This paragraph applies where, before the appointed day, the Commission—
+**8.**[^c-dcf525a4d6863e12989c5db88b2c1c1d] (1) This paragraph applies where, before the appointed day, the Commission—
 
 - (a) approved or issued a code of practice under section 16(1) of the existing Act; or
 - (b) revised, or approved a revision (or proposed revision) of, a code of practice or part of a code of practice, under section 16(4) of the existing Act.
@@ -577,7 +577,7 @@ the report shall be treated as if it had been made to the new Executive under se
 
 ### Information
 
-**9.**[^key-bf743357823dfe327b1010d9933e07f1] (1) This paragraph applies where, before the appointed day, the Commission served a notice under section 27(1) of the Act requiring any person to furnish information to the Commission.
+**9.**[^c-bf743357823dfe327b1010d9933e07f1] (1) This paragraph applies where, before the appointed day, the Commission served a notice under section 27(1) of the Act requiring any person to furnish information to the Commission.
 
 (2) Any notice to which this paragraph applies shall have effect on and after the appointed day as if requiring such information to be furnished to the new Executive.
 
@@ -585,7 +585,7 @@ the report shall be treated as if it had been made to the new Executive under se
 
 ### Other provisions
 
-**10.**[^key-617547a03c5a6045231b46892ab4d743] Subject to paragraphs 5 to 9, anything done by, on behalf of or in relation to the Commission or the former Executive, in particular but not limited to—
+**10.**[^c-617547a03c5a6045231b46892ab4d743] Subject to paragraphs 5 to 9, anything done by, on behalf of or in relation to the Commission or the former Executive, in particular but not limited to—
 
 - (a) any proposals submitted under section 11(2)(d) of the existing Act;
 - (b) any direction given by the Secretary of State under section 12(b) of the existing Act;
@@ -598,7 +598,7 @@ which is in effect immediately before the appointed day shall, so far as is nece
 
 ### General transfer
 
-**11.**[^key-e8622b4409eed56b6ff8c3e612854ed8] (1) By virtue of this paragraph, the property, rights and liabilities to which the Commission or the former Executive was entitled or subject immediately before the appointed day, shall become on that day the property, rights and liabilities of the new Executive.
+**11.**[^c-e8622b4409eed56b6ff8c3e612854ed8] (1) By virtue of this paragraph, the property, rights and liabilities to which the Commission or the former Executive was entitled or subject immediately before the appointed day, shall become on that day the property, rights and liabilities of the new Executive.
 
 (2) Sub-paragraph (1) has effect in relation to property, rights and liabilities—
 
@@ -616,11 +616,11 @@ may be continued on and after the appointed day by, on behalf of or in relation 
 
 (5) Nothing in this paragraph affects the validity of anything done by the new Executive.
 
-## SCHEDULE 3 — AMENDMENTS[^key-9d7ae11ddaeef7735a9c197ca31a77a2]
+## SCHEDULE 3 — AMENDMENTS[^c-9d7ae11ddaeef7735a9c197ca31a77a2]
 
 Article 22
 
-[^key-9d7ae11ddaeef7735a9c197ca31a77a2]
+[^c-9d7ae11ddaeef7735a9c197ca31a77a2]
 
 The enactments and instruments listed in column 1 below shall be amended to the extent set out in column 2.
 
@@ -700,7 +700,7 @@ The enactments and instruments listed in column 1 below shall be amended to the 
 </tbody>
 </table>
 
-[^key-715f14e26ebd46d15488720a0483db48][^key-715f14e26ebd46d15488720a0483db48][^key-1417b1b210a4f20948faea4be10993f0][^key-1417b1b210a4f20948faea4be10993f0][^key-347c7d329ea97b8cfaf413a3f0c24e9c][^key-347c7d329ea97b8cfaf413a3f0c24e9c][^M_F_af780af3-df1f-4458-dc25-cb8464379a9c][^M_F_af780af3-df1f-4458-dc25-cb8464379a9c]
+[^c-715f14e26ebd46d15488720a0483db48][^c-715f14e26ebd46d15488720a0483db48][^c-1417b1b210a4f20948faea4be10993f0][^c-1417b1b210a4f20948faea4be10993f0][^c-347c7d329ea97b8cfaf413a3f0c24e9c][^c-347c7d329ea97b8cfaf413a3f0c24e9c][^M_F_af780af3-df1f-4458-dc25-cb8464379a9c][^M_F_af780af3-df1f-4458-dc25-cb8464379a9c]
 
 EXPLANATORY NOTE
 
@@ -734,82 +734,82 @@ EXPLANATORY NOTE
 
 [^f00001]: Footnote: [2006 c.51](https://www.legislation.gov.uk/ukpga/2006/51) as amended by article 3 of, and paragraph 146 of Schedule 1 to, the Government of Wales (Consequential Modifications and Transitional Provisions) Order 2007 ([S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388)); see section 32 for the definitions of “Minister of the Crown” and “regulatory function”.
 
-[^key-879f3421c0cb9e57c690c56a83c3101c]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-879f3421c0cb9e57c690c56a83c3101c]: Commencement: Art. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-34d466173ac03717fb3f89a5ad2e8403]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-34d466173ac03717fb3f89a5ad2e8403]: Commencement: Art. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
 [^f00002]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 16(1), 18(5), 43(3) and 50(1) are amended by the Employment Protection Act [1975 (c.71)](https://www.legislation.gov.uk/ukpga/1975/71), sections 116 and 125, Schedule 5, paragraphs 3 to 5, 7 and 8; Schedule 15, paragraphs 12 and 16, and Schedule 18. Sections 27(2) and (3) and 55(1) are amended by the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38) section 29, Schedule 6, paragraphs 10 and 11, and Schedule 7, Part 1. Section 28(3)(a) and (4) is amended by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) section 120 and Schedule 22, paragraph 30. Section 28(5) is amended by [S.I.2005/3363](https://www.legislation.gov.uk/uksi/2005/3363), article 5. Sections 16(2) and 50(3) are amended by the Health Protection Agency Act [2004 (c.17)](https://www.legislation.gov.uk/ukpga/2004/17), section 11(1) and Schedule 3, paragraph 5. Sections 14(1), 16(1) and 18(5) are amended by the Railways Act [2005 (c.14)](https://www.legislation.gov.uk/ukpga/2005/14), section 2, Schedule 3, paragraphs 3, 4, 9 and 10 and Schedule 13, Part 1.
 
-[^key-d877aaeaee42474aaaee1de3ff747140]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-d877aaeaee42474aaaee1de3ff747140]: Commencement: Art. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-b7139ec56bda73b0c3a80b0e8741b0f5]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-b7139ec56bda73b0c3a80b0e8741b0f5]: Commencement: Art. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-ea667df81f1dfc1345ed52a549d6a0ed]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-ea667df81f1dfc1345ed52a549d6a0ed]: Commencement: Art. 5 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-ec7505ad4806e0d0522109269ce2200f]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-ec7505ad4806e0d0522109269ce2200f]: Commencement: Art. 6 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-52307260bc3a36d61bdde39898607426]: Commencement: Art. 7 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-52307260bc3a36d61bdde39898607426]: Commencement: Art. 7 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-dd3b8f500284739f4a54bbedf2a6e896]: Commencement: Art. 8 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-dd3b8f500284739f4a54bbedf2a6e896]: Commencement: Art. 8 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-79667a146c9a0de40ad4cda8eb14196a]: Commencement: Art. 9 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-79667a146c9a0de40ad4cda8eb14196a]: Commencement: Art. 9 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-9c1bf7e6f6186dc082ee90cfd8111115]: Commencement: Art. 10 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-9c1bf7e6f6186dc082ee90cfd8111115]: Commencement: Art. 10 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-68e81a2486f43dd5abb3b5967bf3cb0c]: Commencement: Art. 11 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-68e81a2486f43dd5abb3b5967bf3cb0c]: Commencement: Art. 11 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-2e9322d49f7b1510546e7044fcc1f55a]: Commencement: Art. 12 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-2e9322d49f7b1510546e7044fcc1f55a]: Commencement: Art. 12 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-d414ec7e8ab9b04cd4adf469373dd446]: Commencement: Art. 13 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-d414ec7e8ab9b04cd4adf469373dd446]: Commencement: Art. 13 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-373bc00f8523042281bd8535e39ab4e2]: Commencement: Art. 14 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-373bc00f8523042281bd8535e39ab4e2]: Commencement: Art. 14 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-61e3cd5c9a0a825a9e0448bf510fbd33]: Commencement: Art. 15 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-61e3cd5c9a0a825a9e0448bf510fbd33]: Commencement: Art. 15 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-db32d78f0407e31a7ddfefa0f0e20e3e]: Commencement: Art. 16 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-db32d78f0407e31a7ddfefa0f0e20e3e]: Commencement: Art. 16 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-7d7e40b6520242451106f0c6734ba534]: Commencement: Art. 17 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-7d7e40b6520242451106f0c6734ba534]: Commencement: Art. 17 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-2e59bad75d7a556108a8ed6b75d60638]: Commencement: Art. 18 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-2e59bad75d7a556108a8ed6b75d60638]: Commencement: Art. 18 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-4d5913f4fbd4d77bf74a0b581755d7e3]: Commencement: Art. 19 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-4d5913f4fbd4d77bf74a0b581755d7e3]: Commencement: Art. 19 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-9046af87ec90067e77ee4ed980ecb090]: Commencement: Art. 20 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-9046af87ec90067e77ee4ed980ecb090]: Commencement: Art. 20 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-09479579284f00e4ba33e6d55d8fff4e]: Commencement: Art. 21 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-09479579284f00e4ba33e6d55d8fff4e]: Commencement: Art. 21 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-495f3d53fc9de1901f2c15e11e2a6d9e]: Commencement: Art. 22 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-495f3d53fc9de1901f2c15e11e2a6d9e]: Commencement: Art. 22 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-667772e440b26e349d380fec7c800ca9]: Commencement: Sch. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-667772e440b26e349d380fec7c800ca9]: Commencement: Sch. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-5439355bdc06d8b711884d0fa9d79d2f]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-5439355bdc06d8b711884d0fa9d79d2f]: Commencement: Sch. 2 para. 1 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-19c5c88debaebf3e2d4a0ad102571c42]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-19c5c88debaebf3e2d4a0ad102571c42]: Commencement: Sch. 2 para. 2 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-1d7a796b0819934d96f2f454fd492fd8]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-1d7a796b0819934d96f2f454fd492fd8]: Commencement: Sch. 2 para. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-cde76b2c4bd80b61926bcbe629cef5e2]: Commencement: Sch. 2 para. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-cde76b2c4bd80b61926bcbe629cef5e2]: Commencement: Sch. 2 para. 4 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-22b25417771813e5194d055cb789c679]: Commencement: Sch. 2 para. 5 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-22b25417771813e5194d055cb789c679]: Commencement: Sch. 2 para. 5 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-537f074321944bf35c8bb7e864e8fca6]: Commencement: Sch. 2 para. 6 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-537f074321944bf35c8bb7e864e8fca6]: Commencement: Sch. 2 para. 6 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-2304b8111b3bd5ae18696dc3a03c48a6]: Commencement: Sch. 2 para. 7 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-2304b8111b3bd5ae18696dc3a03c48a6]: Commencement: Sch. 2 para. 7 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-dcf525a4d6863e12989c5db88b2c1c1d]: Commencement: Sch. 2 para. 8 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-dcf525a4d6863e12989c5db88b2c1c1d]: Commencement: Sch. 2 para. 8 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-bf743357823dfe327b1010d9933e07f1]: Commencement: Sch. 2 para. 9 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-bf743357823dfe327b1010d9933e07f1]: Commencement: Sch. 2 para. 9 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-617547a03c5a6045231b46892ab4d743]: Commencement: Sch. 2 para. 10 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-617547a03c5a6045231b46892ab4d743]: Commencement: Sch. 2 para. 10 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-e8622b4409eed56b6ff8c3e612854ed8]: Commencement: Sch. 2 para. 11 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-e8622b4409eed56b6ff8c3e612854ed8]: Commencement: Sch. 2 para. 11 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-9d7ae11ddaeef7735a9c197ca31a77a2]: Commencement: Sch. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
+[^c-9d7ae11ddaeef7735a9c197ca31a77a2]: Commencement: Sch. 3 in force at 1.4.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1)
 
-[^key-715f14e26ebd46d15488720a0483db48]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/74), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
+[^c-715f14e26ebd46d15488720a0483db48]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) revoked (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/74), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2085/schedule/2)
 
-[^key-1417b1b210a4f20948faea4be10993f0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) omitted (8.12.2016) by virtue of [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 7](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/7) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
+[^c-1417b1b210a4f20948faea4be10993f0]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) omitted (8.12.2016) by virtue of [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 7](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/7) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
 
-[^key-347c7d329ea97b8cfaf413a3f0c24e9c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/8) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
+[^c-347c7d329ea97b8cfaf413a3f0c24e9c]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) omitted (1.1.2018) by virtue of [The Ionising Radiations Regulations 2017 (S.I. 2017/1075)](https://www.legislation.gov.uk/uksi/2017/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/1/2), [Sch. 9 para. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/9/paragraph/8) (with [regs. 2(5)](https://www.legislation.gov.uk/uksi/2017/1075/regulation/2/5), [3](https://www.legislation.gov.uk/uksi/2017/1075/regulation/3), [Sch. 8](https://www.legislation.gov.uk/uksi/2017/1075/schedule/8))
 
 [^M_F_af780af3-df1f-4458-dc25-cb8464379a9c]: Textual amendment: Words in Sch. 3 revoked (6.4.2009) by [The Chemicals (Hazard Information and Packaging for Supply) Regulations 2009 (S.I. 2009/716)](https://www.legislation.gov.uk/uksi/2009/716), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/716/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2009/716/schedule/7) (with [regs. 3](https://www.legislation.gov.uk/uksi/2009/716/regulation/3), [16](https://www.legislation.gov.uk/uksi/2009/716/regulation/16))

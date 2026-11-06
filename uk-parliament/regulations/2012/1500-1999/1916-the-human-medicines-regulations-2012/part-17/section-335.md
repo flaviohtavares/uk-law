@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335. Contravention due to fault of another person[^key-c4949b5020a1a87af2646f645958ee98]
+## 335. Contravention due to fault of another person[^c-c4949b5020a1a87af2646f645958ee98]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 (6) The provisions mentioned in paragraph (1) are—
 
 - (a) regulation 251 (compliance with standards specified in certain publications);
-- (b) regulations 268, 268A, 269 and 269A[^key-3bdde1740487f786e1af59b352b24f13] (offences relating to packaging and package leaflets);
+- (b) regulations 268, 268A, 269 and 269A[^c-3bdde1740487f786e1af59b352b24f13] (offences relating to packaging and package leaflets);
 - (c) regulation 273 (child resistant containers for regulated medicinal products);
 - (d) regulation 275 (colouring of aspirin and paracetamol products for children);
 - (e) any prohibition or requirement in Chapter 2 of Part 14 (advertising); and
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c4949b5020a1a87af2646f645958ee98]: Modification: Regs. 332-339 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
+[^c-c4949b5020a1a87af2646f645958ee98]: Modification: Regs. 332-339 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
 
-[^key-3bdde1740487f786e1af59b352b24f13]: Textual amendment: Words in reg. 335(6)(b) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 224ZA](https://www.legislation.gov.uk/uksi/2019/775/regulation/224ZA) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/183))
+[^c-3bdde1740487f786e1af59b352b24f13]: Textual amendment: Words in reg. 335(6)(b) substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 224ZA](https://www.legislation.gov.uk/uksi/2019/775/regulation/224ZA) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/183))

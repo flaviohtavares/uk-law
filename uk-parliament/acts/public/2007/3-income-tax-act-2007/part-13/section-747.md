@@ -27,7 +27,7 @@ summary: ''
   - (ii) making qualifying accrued income profits of a greater amount,
 
   in an interest period, but
-- (b) is not so treated because of being resident [^key-07024f44bb71d41c126a5f7b9a70c97f]... outside the United Kingdom throughout any tax year in which the interest period (or part of it) falls.
+- (b) is not so treated because of being resident [^c-07024f44bb71d41c126a5f7b9a70c97f]... outside the United Kingdom throughout any tax year in which the interest period (or part of it) falls.
 
 (2) If subsection (1) applies, this Chapter applies as if the amount which the person would be treated as making or, as the case may be, the additional amount were income becoming payable to the person.
 
@@ -36,7 +36,7 @@ summary: ''
 (4) This subsection applies if income consisting of interest which falls due at the end of an interest period—
 
 - (a) would have been income as respects which a person is entitled to an exemption, or an exemption of a greater amount, from liability to income tax under section 679 (interest on securities involving accrued income losses: general), but
-- (b) is not such income because it is income of a person who is resident [^key-08d336fef3119e69c7085280c3d39217]... outside the United Kingdom throughout any tax year in which the interest period (or part of it) falls.
+- (b) is not such income because it is income of a person who is resident [^c-08d336fef3119e69c7085280c3d39217]... outside the United Kingdom throughout any tax year in which the interest period (or part of it) falls.
 
 (5) If subsection (4) applies, for the purposes of this Chapter the interest is treated as reduced by the amount of the exemption or, as the case may be, the additional exemption.
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07024f44bb71d41c126a5f7b9a70c97f]: Textual amendment: Words in [s. 747(1)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/747/1/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 49](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/49), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-07024f44bb71d41c126a5f7b9a70c97f]: Textual amendment: Words in [s. 747(1)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/747/1/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 49](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/49), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-08d336fef3119e69c7085280c3d39217]: Textual amendment: Words in [s. 747(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/747/4/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 49](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/49), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-08d336fef3119e69c7085280c3d39217]: Textual amendment: Words in [s. 747(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/747/4/b) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 49](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/49), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

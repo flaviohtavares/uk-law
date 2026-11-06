@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Liability of creditor for breaches by supplier.[^key-601384f2ea62f20af04768ffcc65170c][^key-caa7feee04c2838437187c3742a9c304][^key-aade9e360760db66a701a65884e3fda7][^key-23a1919be83c162459965ce9c1d5797a]
+## 75. Liability of creditor for breaches by supplier.[^c-601384f2ea62f20af04768ffcc65170c][^c-caa7feee04c2838437187c3742a9c304][^c-aade9e360760db66a701a65884e3fda7][^c-23a1919be83c162459965ce9c1d5797a]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,13 +38,13 @@ summary: ''
 
 ## Annotations
 
-[^key-601384f2ea62f20af04768ffcc65170c]: Modification: S. 75 applied (with modifications) by 1967 c. 7, s. 2(5) (as inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2014/870/regulation/5))
+[^c-601384f2ea62f20af04768ffcc65170c]: Modification: S. 75 applied (with modifications) by 1967 c. 7, s. 2(5) (as inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2014/870/regulation/5))
 
-[^key-caa7feee04c2838437187c3742a9c304]: Modification: S. 75 applied (with modifications) by 1967 c. 14 (N.I.) s. 2(5) (as inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2014/870/regulation/6))
+[^c-caa7feee04c2838437187c3742a9c304]: Modification: S. 75 applied (with modifications) by 1967 c. 14 (N.I.) s. 2(5) (as inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2014/870/regulation/6))
 
-[^key-aade9e360760db66a701a65884e3fda7]: Modification: S. 75 applied (with modifications) by 1985 c. 73, s. 10(4) (as inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2014/870/regulation/8))
+[^c-aade9e360760db66a701a65884e3fda7]: Modification: S. 75 applied (with modifications) by 1985 c. 73, s. 10(4) (as inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Consumer Protection (Amendment) Regulations 2014 (S.I. 2014/870)](https://www.legislation.gov.uk/uksi/2014/870), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2014/870/regulation/8))
 
-[^key-23a1919be83c162459965ce9c1d5797a]: Modification: S. 75 modified (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [84(4)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/4)[(5)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/5)
+[^c-23a1919be83c162459965ce9c1d5797a]: Modification: S. 75 modified (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [84(4)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/4)[(5)](https://www.legislation.gov.uk/uksi/2018/1253/article/84/5)
 
 [^c20968971]: Textual amendment: Word in s. 75(3)(a) omitted (1.2.2011) by virtue of [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 24(a)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/24/a), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 

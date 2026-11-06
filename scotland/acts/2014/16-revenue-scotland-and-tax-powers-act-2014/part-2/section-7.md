@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Independence of Revenue Scotland[^key-a968e961022014a1396fca3653248b08]
+## 7. Independence of Revenue Scotland[^c-a968e961022014a1396fca3653248b08]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ the exercise by Revenue Scotland of its functions.
 
 ## Annotations
 
-[^key-a968e961022014a1396fca3653248b08]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/16/section/7) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-a968e961022014a1396fca3653248b08]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/16/section/7) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

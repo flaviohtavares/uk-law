@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Compulsory acquisition of rights[^key-16796c42ec76324792fa6824a505b88f]
+## 29. Compulsory acquisition of rights[^c-16796c42ec76324792fa6824a505b88f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16796c42ec76324792fa6824a505b88f]: Commencement: Art. 29 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-16796c42ec76324792fa6824a505b88f]: Commencement: Art. 29 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

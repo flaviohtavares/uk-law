@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Secretary of State's annual report[^key-662efad4ca754aa9b565472f21d8b696]
+## 53. Secretary of State's annual report[^c-662efad4ca754aa9b565472f21d8b696]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ After section 247C of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-662efad4ca754aa9b565472f21d8b696]: Commencement: S. 53 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-662efad4ca754aa9b565472f21d8b696]: Commencement: S. 53 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

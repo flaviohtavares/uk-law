@@ -53,7 +53,7 @@ summary: ''
 
 (3) Subsequent reports must be published at intervals not exceeding 5 years.
 
-(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 [^V_NI_79cbf126-9852-80e5-b53b-cbf40a6deecd] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the Directive is implemented in other relevant states[^key-e8df54ad49734480f8778ce0d5f47770].
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 [^V_NI_79cbf126-9852-80e5-b53b-cbf40a6deecd] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the Directive is implemented in other relevant states[^c-e8df54ad49734480f8778ce0d5f47770].
 
 (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
 
@@ -74,4 +74,4 @@ summary: ''
 
 [^V_NI_79cbf126-9852-80e5-b53b-cbf40a6deecd]: Textual amendment: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the [Enterprise Act 2016 (c.12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 19](https://www.legislation.gov.uk/ukpga/2016/12/section/19).
 
-[^key-e8df54ad49734480f8778ce0d5f47770]: Textual amendment: Words in [reg. 76(4)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/76/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/7)
+[^c-e8df54ad49734480f8778ce0d5f47770]: Textual amendment: Words in [reg. 76(4)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/76/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 16 para. 7](https://www.legislation.gov.uk/uksi/2020/1112/schedule/16/paragraph/7)

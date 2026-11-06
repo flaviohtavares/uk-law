@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.3. Prescribed officer[^key-ca3d46c4c87d3a519954911da3b8d342]
+## 5.3. Prescribed officer[^c-ca3d46c4c87d3a519954911da3b8d342]
 
 *Extent: S*
 
 (1) The sheriff clerk shall be–
 
-- (a) the prescribed officer for the purposes of the 1950, 1958 and 1972 Acts, the 1972 Act as amended by any Order in Council, the 1982 Act and the 2011 Regulations[^key-03e122ee263a3fec4336690072c62a7e]; and
+- (a) the prescribed officer for the purposes of the 1950, 1958 and 1972 Acts, the 1972 Act as amended by any Order in Council, the 1982 Act and the 2011 Regulations[^c-03e122ee263a3fec4336690072c62a7e]; and
 - (b) the proper officer for the purposes of Schedules 6 and 7 to the 1982 Act (enforcement of U.K. judgments).
 
 (2) Unless otherwise provided, all communications which the prescribed officer is required to send to–
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3d46c4c87d3a519954911da3b8d342]: Commencement: Rule 5.3 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-ca3d46c4c87d3a519954911da3b8d342]: Commencement: Rule 5.3 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-03e122ee263a3fec4336690072c62a7e]: Textual amendment: Words in rule 5.3(1)(a) substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(4)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/4) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-03e122ee263a3fec4336690072c62a7e]: Textual amendment: Words in rule 5.3(1)(a) substituted (28.11.2011) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(4)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/4) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

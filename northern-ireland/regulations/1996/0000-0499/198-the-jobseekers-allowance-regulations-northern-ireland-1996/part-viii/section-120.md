@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Period over which periodical payments are to be taken into account[^key-7d86bb1690bdda8d39d43ab005e85395]
+## 120. Period over which periodical payments are to be taken into account[^c-7d86bb1690bdda8d39d43ab005e85395]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d86bb1690bdda8d39d43ab005e85395]: Commencement: Reg. 120 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7d86bb1690bdda8d39d43ab005e85395]: Commencement: Reg. 120 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

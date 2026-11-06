@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29.[^key-4175ad3235d2736cf638d46cd73cd978][^key-320940db962bec445e784af52bf72bbf]
+## 29.[^c-4175ad3235d2736cf638d46cd73cd978][^c-320940db962bec445e784af52bf72bbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ In paragraph 7 (holding of appropriate qualification)—
 
 ## Annotations
 
-[^key-4175ad3235d2736cf638d46cd73cd978]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-4175ad3235d2736cf638d46cd73cd978]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
-[^key-320940db962bec445e784af52bf72bbf]: Textual amendment: Reg. 29 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/f)
+[^c-320940db962bec445e784af52bf72bbf]: Textual amendment: Reg. 29 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [14(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/14/f)

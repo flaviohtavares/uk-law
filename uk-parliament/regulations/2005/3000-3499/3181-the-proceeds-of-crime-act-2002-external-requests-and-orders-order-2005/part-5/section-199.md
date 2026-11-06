@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Legal expenses: regulations for purposes of article 177(11) or 198(3)[^key-5ff12e3f04433dfe378b6f4817ae1ecf]
+## 199. Legal expenses: regulations for purposes of article 177(11) or 198(3)[^c-5ff12e3f04433dfe378b6f4817ae1ecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ff12e3f04433dfe378b6f4817ae1ecf]: Commencement: [Art. 199](https://www.legislation.gov.uk/uksi/2005/3181/article/199) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-5ff12e3f04433dfe378b6f4817ae1ecf]: Commencement: [Art. 199](https://www.legislation.gov.uk/uksi/2005/3181/article/199) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

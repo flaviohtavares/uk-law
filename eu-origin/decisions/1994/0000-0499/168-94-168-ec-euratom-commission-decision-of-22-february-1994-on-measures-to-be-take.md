@@ -31,10 +31,10 @@ summary: ''
 
 of 22 February 1994 on measures to be taken for the implementation of Council Directive 89/130/EEC, Euratom on the harmonization of the compilation of gross national product at market prices (revoked)
 
-[^key-f04ed6320c6fed05f8e3c9fdf403a84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f04ed6320c6fed05f8e3c9fdf403a84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-f04ed6320c6fed05f8e3c9fdf403a84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-f04ed6320c6fed05f8e3c9fdf403a84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f04ed6320c6fed05f8e3c9fdf403a84a]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/10)
+[^c-f04ed6320c6fed05f8e3c9fdf403a84a]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/10)

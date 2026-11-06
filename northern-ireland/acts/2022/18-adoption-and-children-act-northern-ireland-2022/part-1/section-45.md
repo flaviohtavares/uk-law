@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Restrictions on making adoption orders[^key-0151acb197bf3b58f3b9e209c4f445a6]
+## 45. Restrictions on making adoption orders[^c-0151acb197bf3b58f3b9e209c4f445a6]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0151acb197bf3b58f3b9e209c4f445a6]: Commencement: S. 45 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0151acb197bf3b58f3b9e209c4f445a6]: Commencement: S. 45 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

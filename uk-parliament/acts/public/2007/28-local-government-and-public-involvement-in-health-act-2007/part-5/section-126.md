@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Reference of local crime and disorder matters to crime and disorder committees etc[^key-6c73b0234e5cad00b1fed3cc4bb84043][^key-df37df2fb4a1bebd34eb94f5a45ae164]
+## 126. Reference of local crime and disorder matters to crime and disorder committees etc[^c-6c73b0234e5cad00b1fed3cc4bb84043][^c-df37df2fb4a1bebd34eb94f5a45ae164]
 
 *Extent: E+W*
 
@@ -90,6 +90,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c73b0234e5cad00b1fed3cc4bb84043]: Commencement: S. 126 in force at 30.4.2009 for E. by [S.I. 2009/959](https://www.legislation.gov.uk/uksi/2009/959), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/959/article/2/a)
+[^c-6c73b0234e5cad00b1fed3cc4bb84043]: Commencement: S. 126 in force at 30.4.2009 for E. by [S.I. 2009/959](https://www.legislation.gov.uk/uksi/2009/959), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/959/article/2/a)
 
-[^key-df37df2fb4a1bebd34eb94f5a45ae164]: Commencement: S. 126 in force at 1.10.2009 for W. by [S.I. 2009/2539](https://www.legislation.gov.uk/uksi/2009/2539), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2539/article/2/a)
+[^c-df37df2fb4a1bebd34eb94f5a45ae164]: Commencement: S. 126 in force at 1.10.2009 for W. by [S.I. 2009/2539](https://www.legislation.gov.uk/uksi/2009/2539), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/2539/article/2/a)

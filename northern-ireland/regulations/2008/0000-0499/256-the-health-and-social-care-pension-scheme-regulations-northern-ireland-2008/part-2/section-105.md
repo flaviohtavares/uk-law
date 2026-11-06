@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Public sector transfer arrangements[^key-d716ec5ce702be54ea06e704ad60dbd6]
+## 105. Public sector transfer arrangements[^c-d716ec5ce702be54ea06e704ad60dbd6]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d716ec5ce702be54ea06e704ad60dbd6]: Textual amendment: [Reg. 105](https://www.legislation.gov.uk/nisr/2008/256/regulation/105) substituted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/14)
+[^c-d716ec5ce702be54ea06e704ad60dbd6]: Textual amendment: [Reg. 105](https://www.legislation.gov.uk/nisr/2008/256/regulation/105) substituted (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [reg. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [Sch. 2 para. 14](https://www.legislation.gov.uk/nisr/2015/122/schedule/2/paragraph/14)

@@ -47,7 +47,7 @@ In section 14 of the [^c756642]Contempt of Court Act 1981 (penalties for contemp
 
 (1) This Act may be cited as the County Courts (Penalties for Contempt) Act 1983.
 
-(2)[^key-02754dd96bd3d8a3a59afcb597e5c837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02754dd96bd3d8a3a59afcb597e5c837] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act extends to Northern Ireland, and accordingly the reference in section 1 to section 14 of the Contempt of Court Act 1981 includes a reference to that section as set out in Schedule 4 to that Act.
 
@@ -55,4 +55,4 @@ In section 14 of the [^c756642]Contempt of Court Act 1981 (penalties for contemp
 
 [^c756642]: Marginal citation: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49).
 
-[^key-02754dd96bd3d8a3a59afcb597e5c837]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1983/45/section/2/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4
+[^c-02754dd96bd3d8a3a59afcb597e5c837]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1983/45/section/2/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4

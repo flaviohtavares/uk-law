@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — Selection criteria for screening Schedule 2 development[^key-be37b3716594333413aa947f9a5a053d]
+## SCHEDULE 3 — Selection criteria for screening Schedule 2 development[^c-be37b3716594333413aa947f9a5a053d]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Regulation 4(6)
 
-### 1. Characteristics of development[^key-be37b3716594333413aa947f9a5a053d]
+### 1. Characteristics of development[^c-be37b3716594333413aa947f9a5a053d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Location of development[^key-be37b3716594333413aa947f9a5a053d]
+### 2. Location of development[^c-be37b3716594333413aa947f9a5a053d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Characteristics of the potential impact[^key-be37b3716594333413aa947f9a5a053d]
+### 3. Characteristics of the potential impact[^c-be37b3716594333413aa947f9a5a053d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be37b3716594333413aa947f9a5a053d]: Textual amendment: Instrument revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [reg. 76(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/1) (with transitional provisions in [reg. 76(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/2)[(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/3))
+[^c-be37b3716594333413aa947f9a5a053d]: Textual amendment: Instrument revoked (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) Regulations 2017 (S.I. 2017/571)](https://www.legislation.gov.uk/uksi/2017/571), [reg. 76(1)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/1) (with transitional provisions in [reg. 76(2)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/2)[(3)](https://www.legislation.gov.uk/uksi/2017/571/regulation/76/3))

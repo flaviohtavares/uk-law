@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Endowments[^key-2bc2f28cf8b718cda01631039a99eb80]
+## 43. Endowments[^c-2bc2f28cf8b718cda01631039a99eb80]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ In section 122 (interpretation of Part 6) of the Education (Scotland) Act 1980 (
 
 ## Annotations
 
-[^key-2bc2f28cf8b718cda01631039a99eb80]: Commencement: S. 43 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-2bc2f28cf8b718cda01631039a99eb80]: Commencement: S. 43 in force at 1.4.2006 by [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24.1. Application of this Chapter[^key-40e465b01df424772e5aebc63efdc5ee]
+## 24.1. Application of this Chapter[^c-40e465b01df424772e5aebc63efdc5ee]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40e465b01df424772e5aebc63efdc5ee]: Textual amendment: [Rule 24.1](https://www.legislation.gov.uk/ssi/2021/468/rule/24.1) substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/3/2/b)
+[^c-40e465b01df424772e5aebc63efdc5ee]: Textual amendment: [Rule 24.1](https://www.legislation.gov.uk/ssi/2021/468/rule/24.1) substituted (1.1.2025) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules 2021 and Sheriff Court Rules Amendment) (Statutory Interveners) 2024 (S.S.I. 2024/353)](https://www.legislation.gov.uk/ssi/2024/353), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/1/2), [3(2)(b)](https://www.legislation.gov.uk/ssi/2024/353/paragraph/3/2/b)

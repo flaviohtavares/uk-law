@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Disposal of industrial estates[^key-73943ed636a385814f2144b00852187c]
+## 88. Disposal of industrial estates[^c-73943ed636a385814f2144b00852187c]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73943ed636a385814f2144b00852187c]: Commencement: Reg. 88 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-73943ed636a385814f2144b00852187c]: Commencement: Reg. 88 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00082]: Footnote: Copies of the publication can be obtained from the offices of the Royal Institution of Chartered Surveyors at 12 Great George Street, London SW1P 3AD.

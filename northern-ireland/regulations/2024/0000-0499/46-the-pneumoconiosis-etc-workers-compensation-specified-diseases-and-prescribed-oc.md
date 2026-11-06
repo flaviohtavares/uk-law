@@ -42,11 +42,11 @@ Coming into operation in accordance with Article 1
 
 The Department for Communities makes the following Order in exercise of the powers conferred by Article 3(1) of, and paragraph 8(1) of the Schedule to, the Pneumoconiosis, etc., (Workers’ Compensation) (Northern Ireland) Order 1979[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-cb7d6b93a33b45983332be81c4e20e40]
+## 1. Citation and commencement[^c-cb7d6b93a33b45983332be81c4e20e40]
 
 This Order may be cited as the Pneumoconiosis, etc., (Workers’ Compensation) (Specified Diseases and Prescribed Occupations) (Amendment) Order (Northern Ireland) 2024 and shall come into operation on the day after it is affirmed by resolution of the Assembly.
 
-## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Specified Diseases) Order[^key-305d53ed67a0cc2a56739cf2b4a65c33]
+## 2. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Specified Diseases) Order[^c-305d53ed67a0cc2a56739cf2b4a65c33]
 
 For Article 2 of the Pneumoconiosis, etc., (Workers’ Compensation) (Specified Diseases) Order (Northern Ireland) 1986[^f00003] substitute—
 
@@ -59,7 +59,7 @@ For Article 2 of the Pneumoconiosis, etc., (Workers’ Compensation) (Specified 
 
 .
 
-## 3. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Prescribed Occupations) Order[^key-425a109d5f0d9acb35e95abb8fa5a03c]
+## 3. Amendment of the Pneumoconiosis, etc., (Workers’ Compensation) (Prescribed Occupations) Order[^c-425a109d5f0d9acb35e95abb8fa5a03c]
 
 In the table in Part 2 of the Schedule to the Pneumoconiosis, etc., (Workers’ Compensation) (Prescribed Occupations) Order (Northern Ireland) 2007[^f00004] (occupations prescribed in relation to the other diseases to which the Order applies)—
 
@@ -108,12 +108,12 @@ Article 3 makes amendments to the occupations prescribed in [S.R. 2007 No. 337](
 
 [^f00002]: Footnote: *See* Article 4(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), the Department for Employment and Learning Act (Northern Ireland) [2001 (c. 15 (N.I.))](https://www.legislation.gov.uk/nia/2001/15), Article 3 of [S.R. 2006 No. 192](https://www.legislation.gov.uk/nisr/2006/192) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-cb7d6b93a33b45983332be81c4e20e40]: Commencement: Art. 1 in operation at 20.3.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/46/article/1)
+[^c-cb7d6b93a33b45983332be81c4e20e40]: Commencement: Art. 1 in operation at 20.3.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/46/article/1)
 
-[^key-305d53ed67a0cc2a56739cf2b4a65c33]: Commencement: Art. 2 in operation at 20.3.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/46/article/1)
+[^c-305d53ed67a0cc2a56739cf2b4a65c33]: Commencement: Art. 2 in operation at 20.3.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/46/article/1)
 
 [^f00003]: Footnote: [S.R. 1986 No. 168](https://www.legislation.gov.uk/nisr/1986/168)
 
-[^key-425a109d5f0d9acb35e95abb8fa5a03c]: Commencement: Art. 3 in operation at 20.3.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/46/article/1)
+[^c-425a109d5f0d9acb35e95abb8fa5a03c]: Commencement: Art. 3 in operation at 20.3.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/46/article/1)
 
 [^f00004]: Footnote: [S.R. 2007 No. 337](https://www.legislation.gov.uk/nisr/2007/337)

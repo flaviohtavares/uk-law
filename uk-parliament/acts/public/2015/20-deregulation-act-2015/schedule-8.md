@@ -24,9 +24,9 @@ Section 49
 
 ### Consequential amendments
 
-**1.**[^c22548741][^key-ee6e5aabcb797de32cc430e67d299b14] The Transport Act 1968 is amended in accordance with paragraphs 2 to 5.
+**1.**[^c22548741][^c-ee6e5aabcb797de32cc430e67d299b14] The Transport Act 1968 is amended in accordance with paragraphs 2 to 5.
 
-**2.**[^c22548751][^key-6e14d28008f3e6e7ac19409039454e51] (1) Section 10(1) is amended as follows.
+**2.**[^c22548751][^c-6e14d28008f3e6e7ac19409039454e51] (1) Section 10(1) is amended as follows.
 
 (2) In paragraph (iii), before “(ii)”, in both places, insert “ (ia)(b) or ”.
 
@@ -40,9 +40,9 @@ Section 49
 
 (5) In paragraph (viiib), at the beginning insert “ where that area is in Wales or Scotland, ”.
 
-**3.**[^c22548761][^key-da0911811f246f3c59c88cd6b3ee9db4] In section 10(1), paragraphs (vi) and (viza) have effect, until the day on which the repeal of those provisions in relation to Scotland by section 14(1)(a) of the Railways Act 2005 comes into force, as if for “(ii)” there were substituted “ (ia)(b) ”.
+**3.**[^c22548761][^c-da0911811f246f3c59c88cd6b3ee9db4] In section 10(1), paragraphs (vi) and (viza) have effect, until the day on which the repeal of those provisions in relation to Scotland by section 14(1)(a) of the Railways Act 2005 comes into force, as if for “(ii)” there were substituted “ (ia)(b) ”.
 
-**4.**[^c22548771][^key-17ca4cdd28c48538c1f8493d82fda997] (1) Section 20 (special duty of certain Executives with respect to railway passenger services) is amended as follows.
+**4.**[^c22548771][^c-17ca4cdd28c48538c1f8493d82fda997] (1) Section 20 (special duty of certain Executives with respect to railway passenger services) is amended as follows.
 
 (2) In paragraph (a) of subsection (2), omit the words from “for the purposes” to the end of the paragraph.
 
@@ -50,22 +50,22 @@ Section 49
 
 > (2A) For the purposes of subsection (2)(a) “**permitted distance**”, in relation to an integrated transport area, a combined authority area or a passenger transport area, means the distance of 25 miles from the nearest point on the boundary of that area.
 
-**5.**[^c22548781][^key-e03bd0beeabf159eea571e25673ddf3d] In section 23A (interpretation of certain provisions of this Part relating to railways), after subsection (1) insert—
+**5.**[^c22548781][^c-e03bd0beeabf159eea571e25673ddf3d] In section 23A (interpretation of certain provisions of this Part relating to railways), after subsection (1) insert—
 
 > (1A) For the purposes of section 10, “**railway**” has the meaning given in section 67(1) of the Transport and Works Act 1992.
 
-**6.**[^c22548791][^key-2a6ed1074de6bb5e151e7b8c58e5f39b] Section 119 of the Transport Act 1985 (bus substitution services and bus service conditions) has effect, until the repeal of the section by Part 4 of Schedule 31 to the Transport Act 2000 comes into force, as if—
+**6.**[^c22548791][^c-2a6ed1074de6bb5e151e7b8c58e5f39b] Section 119 of the Transport Act 1985 (bus substitution services and bus service conditions) has effect, until the repeal of the section by Part 4 of Schedule 31 to the Transport Act 2000 comes into force, as if—
 
 - (a) in subsection (3) the words from “for the purposes” to the end of the subsection were omitted;
 - (b) after subsection (5) there were inserted—
 
   > (5A) For the purposes of subsection (3) “**permitted distance**”, in relation to a passenger transport area, means the distance of 25 miles from the nearest point on the boundary of that area.
 
-**7.**[^c22548801][^key-edcf78b302190ffc9339358ae372dcf1] In section 13 of the Railways Act 2005 (railway functions of Passenger Transport Executives), in subsection (9), for the words from “has the same meaning” to the end substitute “ , in relation to an integrated transport area, means the distance of 25 miles from the nearest point on the boundary of that area. ”
+**7.**[^c22548801][^c-edcf78b302190ffc9339358ae372dcf1] In section 13 of the Railways Act 2005 (railway functions of Passenger Transport Executives), in subsection (9), for the words from “has the same meaning” to the end substitute “ , in relation to an integrated transport area, means the distance of 25 miles from the nearest point on the boundary of that area. ”
 
 ### Franchise exemptions granted by Secretary of State: protection of railway assets etc
 
-**8.**[^c22548811][^key-34b662fabf0cdce67664a76576df106c] After section 24 of the Railways Act 1993 insert—
+**8.**[^c22548811][^c-34b662fabf0cdce67664a76576df106c] After section 24 of the Railways Act 1993 insert—
 
 > **24A. Secretary of State franchise exemptions: operator agreements**
 >
@@ -110,7 +110,7 @@ Section 49
 
 ### Minor correcting amendments
 
-**9.**[^c22548821][^key-c94cad0390c14c257e88cbe35500e4ff] (1) The Transport Act 1968 is amended as follows.
+**9.**[^c22548821][^c-c94cad0390c14c257e88cbe35500e4ff] (1) The Transport Act 1968 is amended as follows.
 
 (2) In section 9(1)(c)—
 
@@ -139,7 +139,7 @@ Section 49
 - (a) in Part 2, in paragraph 2, after “as the case may be,”, in both places where it occurs, insert “ the combined authority area or ”;
 - (b) in Part 3, in paragraph 11(a), after “integrated transport area” insert “ , a combined authority area ”.
 
-**10.**[^c22548831][^key-e652f7ca75f7a1637fdab8a31049ff78] (1) In section 30 of the Railways Act 1993 (duty of relevant franchising authority), subsection (3) is amended as follows.
+**10.**[^c22548831][^c-e652f7ca75f7a1637fdab8a31049ff78] (1) In section 30 of the Railways Act 1993 (duty of relevant franchising authority), subsection (3) is amended as follows.
 
 (2) In paragraph (b)—
 
@@ -152,40 +152,40 @@ Section 49
 
 [^c22548741]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-ee6e5aabcb797de32cc430e67d299b14]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/1) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-ee6e5aabcb797de32cc430e67d299b14]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/1) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548751]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-6e14d28008f3e6e7ac19409039454e51]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/2) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-6e14d28008f3e6e7ac19409039454e51]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/2) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548761]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-da0911811f246f3c59c88cd6b3ee9db4]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/3) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-da0911811f246f3c59c88cd6b3ee9db4]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/3) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548771]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-17ca4cdd28c48538c1f8493d82fda997]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/4) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-17ca4cdd28c48538c1f8493d82fda997]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/4) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548781]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-e03bd0beeabf159eea571e25673ddf3d]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/5) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-e03bd0beeabf159eea571e25673ddf3d]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/5) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548791]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-2a6ed1074de6bb5e151e7b8c58e5f39b]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/6) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-2a6ed1074de6bb5e151e7b8c58e5f39b]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/6) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548801]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-edcf78b302190ffc9339358ae372dcf1]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/7) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-edcf78b302190ffc9339358ae372dcf1]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/7) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548811]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-34b662fabf0cdce67664a76576df106c]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/8) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-34b662fabf0cdce67664a76576df106c]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/8) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548821]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-c94cad0390c14c257e88cbe35500e4ff]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/9) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-c94cad0390c14c257e88cbe35500e4ff]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/9) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
 
 [^c22548831]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-e652f7ca75f7a1637fdab8a31049ff78]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/10) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)
+[^c-e652f7ca75f7a1637fdab8a31049ff78]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/8/paragraph/10) in force at 1.10.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 11(o)](https://www.legislation.gov.uk/uksi/2015/994/article/11/o)

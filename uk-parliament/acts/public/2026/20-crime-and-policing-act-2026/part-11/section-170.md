@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Suspension of internet protocol addresses and internet domain names[^key-f574e09547bbf4f33d911fe83425fd6b]
+## 170. Suspension of internet protocol addresses and internet domain names[^c-f574e09547bbf4f33d911fe83425fd6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 18 makes provision about IP address suspension orders and domain name s
 
 ## Annotations
 
-[^key-f574e09547bbf4f33d911fe83425fd6b]: Commencement: S. 170 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f574e09547bbf4f33d911fe83425fd6b]: Commencement: S. 170 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

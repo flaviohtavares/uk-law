@@ -77,7 +77,7 @@ A person who makes an election under regulation 2 above shall, as soon as is rea
 
 The employer to be regarded for the purposes of statutory sick pay as the employee’s employer under the one contract where 2 or more contacts of service are treated as one in accordance with regulation 2 above, shall be–
 
-- (a)[^key-15b7cecd451e81c33a90d6b3e3f65669] in the case of a person whose contract of employment is treated by a scheme under Part I of the National Health Service and Community Care Act 1990 or the National Health Service (Scotland) Act 1978 as divided—
+- (a)[^c-15b7cecd451e81c33a90d6b3e3f65669] in the case of a person whose contract of employment is treated by a scheme under Part I of the National Health Service and Community Care Act 1990 or the National Health Service (Scotland) Act 1978 as divided—
   - (i) the Health Authority [^M_F_8ff2d08d-977b-4173-cf52-51f42702f558] ... from which the employee was transferred, in a case where any one of the employee’s contracts of service is with that Health Authority; [^M_F_6ed07db8-3528-41fd-bf32-21a8fb21d467] ...
   - (ii) the first NHS trust to which a contract of service was transferred in a case where none of the employee’s contracts of service are with the Health Authority [^M_F_d8f90b4e-3bb1-4923-bd02-e9f1cb25ab89] ... from which he was transferred; [^M_F_c61e689a-9f09-4c4e-90bf-bce8bf130f9f]...
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -134,7 +134,7 @@ Regulation 6 provides for the time for which an election is to have effect.
 
 [^c1853206]: Marginal citation: *See* section 26(3) of the [Social Security and Housing Benefits Act 1982 (c.24)](https://www.legislation.gov.uk/ukpga/1982/24) and regulations 17 and 19 of the Statutory Sick Pay (General) Regulations 1982/894; the relevant amending instruments are 1983/376 and 1987/868.
 
-[^key-15b7cecd451e81c33a90d6b3e3f65669]: Textual amendment: Reg. 5(a)(b) substituted (1.4.2000) by [The Health Act 1999 (Supplementary, Consequential etc. Provisions) (No. 2) Order 2000 (S.I. 2000/694)](https://www.legislation.gov.uk/uksi/2000/694), [art. 1](https://www.legislation.gov.uk/uksi/2000/694/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2000/694/schedule/paragraph/2/4)
+[^c-15b7cecd451e81c33a90d6b3e3f65669]: Textual amendment: Reg. 5(a)(b) substituted (1.4.2000) by [The Health Act 1999 (Supplementary, Consequential etc. Provisions) (No. 2) Order 2000 (S.I. 2000/694)](https://www.legislation.gov.uk/uksi/2000/694), [art. 1](https://www.legislation.gov.uk/uksi/2000/694/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2000/694/schedule/paragraph/2/4)
 
 [^M_F_8ff2d08d-977b-4173-cf52-51f42702f558]: Textual amendment: Words in reg. 5(a) omitted (1.4.13) by virtue of S.I. 2013/235, sch. 2, para. 15(4)(a)
 

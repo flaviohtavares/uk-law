@@ -46,10 +46,10 @@ summary: ''
 
 (5) No proceedings shall be instituted in respect of an offence under this Article except by or on behalf of the Department.
 
-(6) In this Article, “published criteria” means the criteria determined by the Department from time to time in accordance with and for the purposes of Article 7(2)[^key-5849e1ef5b7cb5b5cb6cb4c36511d7c7] of the Directive and published by it.
+(6) In this Article, “published criteria” means the criteria determined by the Department from time to time in accordance with and for the purposes of Article 7(2)[^c-5849e1ef5b7cb5b5cb6cb4c36511d7c7] of the Directive and published by it.
 
 ## Annotations
 
 [^c17137471]: Textual amendment: SR 2005/335
 
-[^key-5849e1ef5b7cb5b5cb6cb4c36511d7c7]: Textual amendment: Words in [art. 40(6)](https://www.legislation.gov.uk/nisi/1992/231/article/40/6) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [14](https://www.legislation.gov.uk/nisr/2020/307/regulation/14)
+[^c-5849e1ef5b7cb5b5cb6cb4c36511d7c7]: Textual amendment: Words in [art. 40(6)](https://www.legislation.gov.uk/nisi/1992/231/article/40/6) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [14](https://www.legislation.gov.uk/nisr/2020/307/regulation/14)

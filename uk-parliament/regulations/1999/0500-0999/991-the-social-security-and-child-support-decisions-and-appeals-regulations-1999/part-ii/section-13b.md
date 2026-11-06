@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13B. State pension under Part 1 of the Pensions Act 2014 after period of deferment[^key-25123699a3e591c5f2763ee52f7be35e]
+## 13B. State pension under Part 1 of the Pensions Act 2014 after period of deferment[^c-25123699a3e591c5f2763ee52f7be35e]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25123699a3e591c5f2763ee52f7be35e]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/1999/991/regulation/13B) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [18(7)](https://www.legislation.gov.uk/uksi/2015/1985/article/18/7)
+[^c-25123699a3e591c5f2763ee52f7be35e]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/uksi/1999/991/regulation/13B) inserted (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [18(7)](https://www.legislation.gov.uk/uksi/2015/1985/article/18/7)

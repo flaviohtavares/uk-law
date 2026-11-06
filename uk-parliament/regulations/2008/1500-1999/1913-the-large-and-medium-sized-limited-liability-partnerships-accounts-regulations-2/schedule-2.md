@@ -32,7 +32,7 @@ Regulation 5
 
 (3) There must be stated with respect to each subsidiary undertaking—
 
-- (a)[^key-30b9ad2d1a1875a023bcb72b14a1533b] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
+- (a)[^c-30b9ad2d1a1875a023bcb72b14a1533b] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
 - (b) if it is unincorporated, the address of its principal place of business.
 
 #### 2. Financial information about subsidiary undertakings
@@ -71,7 +71,7 @@ Regulation 5
 
 (2) There must be stated—
 
-- (a)[^key-cbc2e31f0b4c077044a10c848f5751ea] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
+- (a)[^c-cbc2e31f0b4c077044a10c848f5751ea] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
 - (b) if it is unincorporated, the address of its principal place of business.
 
 (3) There must also be stated—
@@ -107,7 +107,7 @@ Regulation 5
 
 (3) There must be stated—
 
-- (a)[^key-0f7c4ae2943e26d096277995f405b746] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
+- (a)[^c-0f7c4ae2943e26d096277995f405b746] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
 - (b) if it is unincorporated, the address of its principal place of business.
 
 (4) If copies of the group accounts referred to in sub-paragraph (1) are available to the public, there must also be stated the addresses from which copies of the accounts can be obtained.
@@ -205,7 +205,7 @@ and the information under paragraphs (a) and (b) must (if different) be shown se
 (1) The following information must be given where an undertaking is dealt with in the consolidated accounts by the method of proportional consolidation in accordance with paragraph 18 of Schedule 3 to these Regulations (joint ventures)—
 
 - (a) the name of the undertaking,
-- (b)[^key-5281cc02c156b17dd87b07d3b9a95639] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
+- (b)[^c-5281cc02c156b17dd87b07d3b9a95639] the address of the undertaking’s registered office (whether in or outside the United Kingdom),
 - (c) the factors on which joint management of the undertaking is based, and
 - (d) the proportion of the capital of the undertaking held by undertakings included in the consolidation.
 
@@ -220,7 +220,7 @@ and the information under paragraphs (a) and (b) must (if different) be shown se
 (3) There must be stated—
 
 - (a) if the undertaking is incorporated outside the United Kingdom, the country in which it is incorporated,
-- (b)[^key-d2a1792168574b54a6ae030a30f5417d] the address of the undertaking’s registered office (whether in or outside the United Kingdom).
+- (b)[^c-d2a1792168574b54a6ae030a30f5417d] the address of the undertaking’s registered office (whether in or outside the United Kingdom).
 
 (4) The following information must be given with respect to the shares of the undertaking held—
 
@@ -268,12 +268,12 @@ and the information under paragraphs (a) and (b) must be shown separately.
 
 ## Annotations
 
-[^key-30b9ad2d1a1875a023bcb72b14a1533b]: Textual amendment: [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/1/3/a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [58(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/58/a)
+[^c-30b9ad2d1a1875a023bcb72b14a1533b]: Textual amendment: [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/1/3/a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [58(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/58/a)
 
-[^key-cbc2e31f0b4c077044a10c848f5751ea]: Textual amendment: [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/4/2/a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [58(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/58/b)
+[^c-cbc2e31f0b4c077044a10c848f5751ea]: Textual amendment: [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/4/2/a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [58(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/58/b)
 
-[^key-0f7c4ae2943e26d096277995f405b746]: Textual amendment: [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/6/3/a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [58(c)](https://www.legislation.gov.uk/uksi/2016/575/regulation/58/c)
+[^c-0f7c4ae2943e26d096277995f405b746]: Textual amendment: [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/6/3/a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [58(c)](https://www.legislation.gov.uk/uksi/2016/575/regulation/58/c)
 
-[^key-5281cc02c156b17dd87b07d3b9a95639]: Textual amendment: [Sch. 2 para. 16(1)(b)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/16/1/b) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [59(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/59/a)
+[^c-5281cc02c156b17dd87b07d3b9a95639]: Textual amendment: [Sch. 2 para. 16(1)(b)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/16/1/b) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [59(a)](https://www.legislation.gov.uk/uksi/2016/575/regulation/59/a)
 
-[^key-d2a1792168574b54a6ae030a30f5417d]: Textual amendment: [Sch. 2 para. 17(3)(b)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/17/3/b) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [59(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/59/b)
+[^c-d2a1792168574b54a6ae030a30f5417d]: Textual amendment: [Sch. 2 para. 17(3)(b)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/2/paragraph/17/3/b) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [59(b)](https://www.legislation.gov.uk/uksi/2016/575/regulation/59/b)

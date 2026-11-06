@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15A — Video-sharing platform services: appropriate measures for the purposes of section 368Z1(1)[^key-b613e058e67cad7fe49374634d918b8d]
+## SCHEDULE 15A — Video-sharing platform services: appropriate measures for the purposes of section 368Z1(1)[^c-b613e058e67cad7fe49374634d918b8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ Section 368Z1(1)
 
 ## Annotations
 
-[^key-b613e058e67cad7fe49374634d918b8d]: Textual amendment: [Sch. 15A](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15A) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [48](https://www.legislation.gov.uk/uksi/2020/1062/regulation/48) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-b613e058e67cad7fe49374634d918b8d]: Textual amendment: [Sch. 15A](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15A) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [48](https://www.legislation.gov.uk/uksi/2020/1062/regulation/48) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))

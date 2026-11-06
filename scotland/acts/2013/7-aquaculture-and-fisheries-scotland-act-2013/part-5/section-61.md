@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Fixed penalty notices and civil sanctions under the Marine (Scotland) Act 2010[^key-8b25db2e11b6c45b0c08c51e45b1f019]
+## 61. Fixed penalty notices and civil sanctions under the Marine (Scotland) Act 2010[^c-8b25db2e11b6c45b0c08c51e45b1f019]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b25db2e11b6c45b0c08c51e45b1f019]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2013/7/section/61) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-8b25db2e11b6c45b0c08c51e45b1f019]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2013/7/section/61) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

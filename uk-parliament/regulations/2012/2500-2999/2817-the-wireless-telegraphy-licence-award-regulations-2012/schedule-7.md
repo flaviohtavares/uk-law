@@ -24,20 +24,20 @@ Regulation 68
 
 ### Base price
 
-**1.**[^key-214cc752c60f012e6f24e900023e79eb] (1) OFCOM shall determine a base price for each winning principal stage bid by imposition of the requirements that the base prices must satisfy that are set out in paragraphs 2 to 5.
+**1.**[^c-214cc752c60f012e6f24e900023e79eb] (1) OFCOM shall determine a base price for each winning principal stage bid by imposition of the requirements that the base prices must satisfy that are set out in paragraphs 2 to 5.
 
 (2) Where a base price so determined is not a number of whole thousands of pounds, the base price shall be that price rounded up to the nearest number of whole thousands of pounds.
 
 ### First requirement
 
-**2.**[^key-476c70838af1ddeb032fa8004ed11499] The base price for each winning principal stage bid shall be—
+**2.**[^c-476c70838af1ddeb032fa8004ed11499] The base price for each winning principal stage bid shall be—
 
 - (a) no less than the total of the round prices in the first primary bid round for the lots included in the selection of lots specified in that winning principal stage bid; and
 - (b) no greater than the amount of that winning principal stage bid.
 
 ### Second requirement
 
-**3.**[^key-c492dc4356be44da64b8fa487f2636d6] (1) Taking the base prices for the winning principal stage bids together, the base prices shall be such that if—
+**3.**[^c-c492dc4356be44da64b8fa487f2636d6] (1) Taking the base prices for the winning principal stage bids together, the base prices shall be such that if—
 
 - (a) the amount bid by each winning bidder in respect of its winning principal stage bid had been the base price rather than the amount of its winning principal stage bid (“reduced winning principal stage bid”), and
 - (b) subject to sub-paragraph (2), the amount bid by each winning bidder in respect of each other valid principal stage bid made by that bidder had been reduced by an amount equal to the difference between the amount of its winning principal stage bid and the base price for that winning principal stage bid,
@@ -50,11 +50,11 @@ the combination of the reduced winning principal stage bids submitted by the win
 
 ### Third requirement
 
-**4.**[^key-79f332a8d295a0d42cac6251a1ef7703] Taking the base prices for the winning principal stage bids together, the total of those base prices shall be no greater than the total of any other prices for the winning principal stage bids that satisfy the requirements set out in paragraphs 2 and 3.
+**4.**[^c-79f332a8d295a0d42cac6251a1ef7703] Taking the base prices for the winning principal stage bids together, the total of those base prices shall be no greater than the total of any other prices for the winning principal stage bids that satisfy the requirements set out in paragraphs 2 and 3.
 
 ### Fourth requirement
 
-**5.**[^key-bfd0242a45907344bfe4a35ca8fcc001] (1) Taking the base prices for the winning principal stage bids together, the opportunity cost variance of those base prices calculated in accordance with sub-paragraph (2) shall be less than the opportunity cost variance, calculated in accordance with sub-paragraph (2), of any other prices for the winning principal stage bids that satisfy the requirements set out in paragraphs 2 to 4.
+**5.**[^c-bfd0242a45907344bfe4a35ca8fcc001] (1) Taking the base prices for the winning principal stage bids together, the opportunity cost variance of those base prices calculated in accordance with sub-paragraph (2) shall be less than the opportunity cost variance, calculated in accordance with sub-paragraph (2), of any other prices for the winning principal stage bids that satisfy the requirements set out in paragraphs 2 to 4.
 
 (2) The opportunity cost variance (“[formula: see source](https://www.legislation.gov.uk/uksi/2012/2817)”) of prices mentioned in sub-paragraph (1), is the amount calculated in accordance with the formula—
 
@@ -79,18 +79,18 @@ where—
 
 ### Interpretation
 
-**6.**[^key-916b42805d52f56d6a847263df38eb17] In this Schedule “valid combination of principal stage bids” shall be construed in accordance with regulation 67.
+**6.**[^c-916b42805d52f56d6a847263df38eb17] In this Schedule “valid combination of principal stage bids” shall be construed in accordance with regulation 67.
 
 ## Annotations
 
-[^key-214cc752c60f012e6f24e900023e79eb]: Commencement: Sch. 7 para. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-214cc752c60f012e6f24e900023e79eb]: Commencement: Sch. 7 para. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-476c70838af1ddeb032fa8004ed11499]: Commencement: Sch. 7 para. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-476c70838af1ddeb032fa8004ed11499]: Commencement: Sch. 7 para. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-c492dc4356be44da64b8fa487f2636d6]: Commencement: Sch. 7 para. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-c492dc4356be44da64b8fa487f2636d6]: Commencement: Sch. 7 para. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-79f332a8d295a0d42cac6251a1ef7703]: Commencement: Sch. 7 para. 4 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-79f332a8d295a0d42cac6251a1ef7703]: Commencement: Sch. 7 para. 4 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-bfd0242a45907344bfe4a35ca8fcc001]: Commencement: Sch. 7 para. 5 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-bfd0242a45907344bfe4a35ca8fcc001]: Commencement: Sch. 7 para. 5 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-916b42805d52f56d6a847263df38eb17]: Commencement: Sch. 7 para. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-916b42805d52f56d6a847263df38eb17]: Commencement: Sch. 7 para. 6 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

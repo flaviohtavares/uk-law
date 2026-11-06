@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75ZB. Information about neighbourhood development plans[^key-f7770c4d6cca36fc64ae677510065469]
+## 75ZB. Information about neighbourhood development plans[^c-f7770c4d6cca36fc64ae677510065469]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7770c4d6cca36fc64ae677510065469]: Textual amendment: S. 75ZB inserted (1.10.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 156](https://www.legislation.gov.uk/ukpga/2016/22/section/156), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/g) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/2))
+[^c-f7770c4d6cca36fc64ae677510065469]: Textual amendment: S. 75ZB inserted (1.10.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 156](https://www.legislation.gov.uk/ukpga/2016/22/section/156), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/g) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/2))

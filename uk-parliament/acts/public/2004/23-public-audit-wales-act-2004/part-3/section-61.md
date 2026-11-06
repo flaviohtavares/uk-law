@@ -25,7 +25,7 @@ summary: ''
 (2) The Auditor General for Wales must—
 
 - (a) examine and certify any accounts submitted to him under this section, and
-- (b) no later than four months after the accounts are submitted to him, lay before the National Assembly for Wales[^key-4219a65c35ac05f0de45b29e9384c548] a copy of them as certified by him together with his report on them.
+- (b) no later than four months after the accounts are submitted to him, lay before the National Assembly for Wales[^c-4219a65c35ac05f0de45b29e9384c548] a copy of them as certified by him together with his report on them.
 
 (3) In examining any accounts submitted to him under this section, the Auditor General for Wales must, in particular, satisfy himself—
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c20973421]: Textual amendment: Words in s. 61(1) substituted (1.2.2007) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 80](https://www.legislation.gov.uk/ukpga/2006/28/section/80), [83](https://www.legislation.gov.uk/ukpga/2006/28/section/83), [Sch. 8 para. 62](https://www.legislation.gov.uk/ukpga/2006/28/schedule/8/paragraph/62); [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/204/article/4/b)
 
-[^key-4219a65c35ac05f0de45b29e9384c548]: Textual amendment: Words in [s. 61(2)(b)](https://www.legislation.gov.uk/ukpga/2004/23/section/61/2/b) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 60](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/60) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-4219a65c35ac05f0de45b29e9384c548]: Textual amendment: Words in [s. 61(2)(b)](https://www.legislation.gov.uk/ukpga/2004/23/section/61/2/b) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 60](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/60) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

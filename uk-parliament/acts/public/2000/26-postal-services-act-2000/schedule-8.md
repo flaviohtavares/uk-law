@@ -103,11 +103,11 @@ shall be construed as a reference to a receipt of, or an acknowledgement or cert
 
 .
 
-**10.** In Schedule 2 to the Parliamentary Commissioner Act 1967[^key-8a40342b9e2cda3d245b0c1e6c2869a2] the reference to the Postal Services Commission shall be construed as a reference to the Commission established by section 1 of this Act.
+**10.** In Schedule 2 to the Parliamentary Commissioner Act 1967[^c-8a40342b9e2cda3d245b0c1e6c2869a2] the reference to the Postal Services Commission shall be construed as a reference to the Commission established by section 1 of this Act.
 
 #### Post Office Act 1969 (c.48)
 
-**11.**[^key-481413b054798f067009c390cee8d2db][^c10294351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-481413b054798f067009c390cee8d2db][^c10294351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Pensions (Increase) Act 1971 (c.56)
 
@@ -141,7 +141,7 @@ shall be construed as a reference to a receipt of, or an acknowledgement or cert
 
 #### Rates (Northern Ireland) Order 1977 (S.I.1977/2157 (N.I.28))
 
-**16.**[^key-80fe94dd38018543d4f79c6b49563b08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-80fe94dd38018543d4f79c6b49563b08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Representation of the People Act 1983 (c.2)
 
@@ -197,13 +197,13 @@ shall be construed as a reference to a receipt of, or an acknowledgement or cert
 - (b) for “the Post Office Act 1953” there shall be substituted “ that Act ”, and
 - (c) for “them” there shall be substituted “ the operator concerned ”.
 
-#### ...[^key-11a5c94ae7abade057984723edbd6119]
+#### ...[^c-11a5c94ae7abade057984723edbd6119]
 
-**21.**[^key-11a5c94ae7abade057984723edbd6119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-11a5c94ae7abade057984723edbd6119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Value Added Tax Act 1994 (c.23)
 
-**22.**[^key-5a27413d4d794b0b5f656226f64ce775] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-5a27413d4d794b0b5f656226f64ce775] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Value Added Tax Regulations 1995 (S.I.1995/2518)
 
@@ -257,9 +257,9 @@ shall be construed as a reference to a receipt of, or an acknowledgement or cert
 
 [^c10294341]: Commencement: Sch. 8 para. 8 wholly in force; Sch. 8 para. 8 not in force at Royal Assent see s. 130; Sch. 8 para. 8 in force for specified purposes at 6.11.2000 and in force insofar as not already in force at 1.1.2001 by [S.I. 2000/2957](https://www.legislation.gov.uk/uksi/2000/2957), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2000/2957/article/2/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2957/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2957/schedule/2) (with transitional provisions in [arts. 3-8](https://www.legislation.gov.uk/uksi/2000/2957/article/3))
 
-[^key-8a40342b9e2cda3d245b0c1e6c2869a2]: Textual amendment: Words in Sch. 8 para. 10 substituted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2007/17/schedule/7/paragraph/17); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-8a40342b9e2cda3d245b0c1e6c2869a2]: Textual amendment: Words in Sch. 8 para. 10 substituted (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2007/17/schedule/7/paragraph/17); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-481413b054798f067009c390cee8d2db]: Textual amendment: Sch. 8 para. 11 repealed (E.W.) (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(p)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/p)
+[^c-481413b054798f067009c390cee8d2db]: Textual amendment: Sch. 8 para. 11 repealed (E.W.) (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(p)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/p)
 
 [^c10294351]: Commencement: Sch. 8 para. 11 wholly in force at 26.3.2001, see s. 130 and [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
@@ -267,7 +267,7 @@ shall be construed as a reference to a receipt of, or an acknowledgement or cert
 
 [^c10294371]: Commencement: Sch. 8 para. 14 wholly in force; Sch. 8 para. 14 not in force at Royal Assent see s. 130; Sch. 8 para. 14(1)(3) in force at 6.11.2000 and Sch. 8 para. 14 in force insofar as not already in force at 1.1.2001 by [S.I. 2000/2957](https://www.legislation.gov.uk/uksi/2000/2957), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2000/2957/article/2/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2957/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2957/schedule/2) (with transitional provisions in [arts. 3-8](https://www.legislation.gov.uk/uksi/2000/2957/article/3))
 
-[^key-80fe94dd38018543d4f79c6b49563b08]: Textual amendment: Sch. 8 para. 16 repealed (N.I.) (14.12.2009) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/375/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/375/schedule/2)
+[^c-80fe94dd38018543d4f79c6b49563b08]: Textual amendment: Sch. 8 para. 16 repealed (N.I.) (14.12.2009) by [Rates (Amendment) Act (Northern Ireland) 2009 (c. 8)](https://www.legislation.gov.uk/nia/2009/8), [s. 19(1)](https://www.legislation.gov.uk/nia/2009/8/section/19/1), [Sch. 2](https://www.legislation.gov.uk/nia/2009/8/schedule/2); [S.R. 2009/375](https://www.legislation.gov.uk/nisr/2009/375), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/375/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/375/schedule/2)
 
 [^c10294391]: Commencement: Sch. 8 para. 17 wholly in force at 26.3.2001, see s. 130 and [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
@@ -277,9 +277,9 @@ shall be construed as a reference to a receipt of, or an acknowledgement or cert
 
 [^c10294421]: Commencement: Sch. 8 para. 20 wholly in force at 26.3.2001, see s. 130 and [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 
-[^key-11a5c94ae7abade057984723edbd6119]: Textual amendment: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2000/26/schedule/8/paragraph/21) and cross-heading omitted (E.W.) (with effect in relation to financial years beginning on or after 1.4.2024) by virtue of [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/15)
+[^c-11a5c94ae7abade057984723edbd6119]: Textual amendment: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2000/26/schedule/8/paragraph/21) and cross-heading omitted (E.W.) (with effect in relation to financial years beginning on or after 1.4.2024) by virtue of [Non Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/b), [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2023/53/schedule/paragraph/15)
 
-[^key-5a27413d4d794b0b5f656226f64ce775]: Textual amendment: Sch. 8 para. 22 repealed (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 132(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/132/b) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-5a27413d4d794b0b5f656226f64ce775]: Textual amendment: Sch. 8 para. 22 repealed (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 132(b)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/132/b) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^c10294451]: Commencement: Sch. 8 para. 23 wholly in force at 26.3.2001, see s. 130 and [S.I. 2001/1148](https://www.legislation.gov.uk/uksi/2001/1148), [art. 2](https://www.legislation.gov.uk/uksi/2001/1148/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1148/schedule) (subject to [arts. 3-42](https://www.legislation.gov.uk/uksi/2001/1148/article/3))
 

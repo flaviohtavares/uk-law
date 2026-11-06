@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33D. Practice rules relating to law centres, citizens advice bodies and charities[^key-c4d2f41ef9e089517562de6f6116e8ea]
+## 33D. Practice rules relating to law centres, citizens advice bodies and charities[^c-c4d2f41ef9e089517562de6f6116e8ea]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d2f41ef9e089517562de6f6116e8ea]: Textual amendment: S. 33D inserted (5.3.2026) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [ss. 89(5)](https://www.legislation.gov.uk/asp/2025/8/section/89/5), [103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-c4d2f41ef9e089517562de6f6116e8ea]: Textual amendment: S. 33D inserted (5.3.2026) by [Regulation of Legal Services (Scotland) Act 2025 (asp 8)](https://www.legislation.gov.uk/asp/2025/8), [ss. 89(5)](https://www.legislation.gov.uk/asp/2025/8/section/89/5), [103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3); [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

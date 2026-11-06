@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.1. Citation and commencement[^key-5c49c7a046b20cb3814b46510e2130ba]
+## 1.1. Citation and commencement[^c-5c49c7a046b20cb3814b46510e2130ba]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c49c7a046b20cb3814b46510e2130ba]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-5c49c7a046b20cb3814b46510e2130ba]: Commencement: [Rule 1.1](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

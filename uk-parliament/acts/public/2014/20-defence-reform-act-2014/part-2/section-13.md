@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Single Source Regulations Office (or “SSRO”)[^key-5891b9ff445775744fc3ed50453e4601]
+## 13. Single Source Regulations Office (or “SSRO”)[^c-5891b9ff445775744fc3ed50453e4601]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5891b9ff445775744fc3ed50453e4601]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/20/section/13) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/a)
+[^c-5891b9ff445775744fc3ed50453e4601]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2014/20/section/13) in force at 14.7.2014 by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1751/article/3/a)

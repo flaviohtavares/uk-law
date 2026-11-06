@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Interpretation[^key-8f1a67051c59b1a82b84032f943a73f8]
+## 105. Interpretation[^c-8f1a67051c59b1a82b84032f943a73f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f1a67051c59b1a82b84032f943a73f8]: Commencement: Reg. 105 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-8f1a67051c59b1a82b84032f943a73f8]: Commencement: Reg. 105 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

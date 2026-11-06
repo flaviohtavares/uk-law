@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Temporary closing of river in connection with works[^key-7f7cb34a80af78507b5bed7bc58a995b]
+## 17. Temporary closing of river in connection with works[^c-7f7cb34a80af78507b5bed7bc58a995b]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ without the consent of the Harbour Authority (such consent not to be unreasonabl
 
 ## Annotations
 
-[^key-7f7cb34a80af78507b5bed7bc58a995b]: Commencement: Art. 17 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-7f7cb34a80af78507b5bed7bc58a995b]: Commencement: Art. 17 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

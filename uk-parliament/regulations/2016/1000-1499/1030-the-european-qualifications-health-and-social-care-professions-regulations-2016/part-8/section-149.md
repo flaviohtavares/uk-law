@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Amendment of article 38[^key-d5ce69dca7eeb0b40c43980e30893c68]
+## 149. Amendment of article 38[^c-d5ce69dca7eeb0b40c43980e30893c68]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ce69dca7eeb0b40c43980e30893c68]: Commencement: Reg. 149 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-d5ce69dca7eeb0b40c43980e30893c68]: Commencement: Reg. 149 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00102]: Footnote: Article 38 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

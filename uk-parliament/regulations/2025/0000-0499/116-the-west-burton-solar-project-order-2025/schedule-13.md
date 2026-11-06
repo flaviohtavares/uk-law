@@ -22,17 +22,17 @@ summary: ''
 
 Article ‎40
 
-### PART 1 — DOCUMENTS AND PLANS[^key-d9036e35f414412be86ecdb90a0f4dbd]
+### PART 1 — DOCUMENTS AND PLANS[^c-d9036e35f414412be86ecdb90a0f4dbd]
 
 | *(1)*<br>*Document name* | *(2)*<br>*Document reference* | *(3)*<br>*Revision number* | *(4)*<br>*Date* |
 | --- | --- | --- | --- |
 | Access plan | EN010132/EX5/WB2.5 | C | April 2024 |
-| Book of reference | EN010132/DEC/WB4.3[^key-e4952db19b452e87074857e597ab6957] | G | October 2024 |
+| Book of reference | EN010132/DEC/WB4.3[^c-e4952db19b452e87074857e597ab6957] | G | October 2024 |
 | Concept design parameters and principles | EN010132/EX5/WB7.13 | D | April 2024 |
 | Crown land plan | EN010132/APP/WB2.10 | A | August 2023 |
 | Environmental statement | EN010132/APP/WB6.1 | 1 | March 2023 |
-| [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . |
-| [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^key-6cfffff3ff60a3fad38e923c6dc509bc]. . . |
+| [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . |
+| [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . | [^c-6cfffff3ff60a3fad38e923c6dc509bc]. . . |
 | Important hedgerows plan | EN010132/EX4/WB2.9 | B | February 2024 |
 | Land plan | DEC/WB2.2 | E | October 2024 |
 | Outline battery storage safety management plan | EN010132/EX6/WB7.9 | B | April 2024 |
@@ -52,7 +52,7 @@ Article ‎40
 | Works plan | DEC/WB2.3 | F | October 2024 |
 | Written scheme of investigation | EN010132/EX5/WB6.3.13.7 | B | April 2024 |
 
-### PART 2 — SUBSTITUTE AND SUPPLEMENTARY DOCUMENTS[^key-365f925356988f07136f993cbd867281]
+### PART 2 — SUBSTITUTE AND SUPPLEMENTARY DOCUMENTS[^c-365f925356988f07136f993cbd867281]
 
 | *(1)*<br>*Originating Document* | *(2)*<br>*Replacement or supplementary part* | *(3)*<br>*Document reference* | *(4)*<br>*Date* | *(5)*<br>*Examination library reference* |
 | --- | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ Article ‎40
 | Environmental Statement | Appendix 14.1: Transport Assessment | EX4/WB6.3.14.1 \_C | February 2024 | \[REP4-036\] |
 | Environmental Statement | Non-Technical Summary | EX6/WB6.5\_B | April 2024 | \[REP6-011\] |
 | Environmental Statement | Interrelationship with Other National Infrastructure Projects | EX6/WB8.1.9\_D | April 2024 | \[REP6-015\] |
-| Environmental Statement | Technical Note on Cumulative Effects of Additional Schemes | EX4/WB8.2.5\_B | May 2024 | \[REP7-016\][^key-8a9e58f5b506032395f2a43d589fe574] |
+| Environmental Statement | Technical Note on Cumulative Effects of Additional Schemes | EX4/WB8.2.5\_B | May 2024 | \[REP7-016\][^c-8a9e58f5b506032395f2a43d589fe574] |
 | Environmental Statement | Technical Note on Horizontal Directional Drilling and Cabling under the River Trent | EX4/WB8.2.8 | February 2024 | \[REP4-074\] |
 | Environmental Statement | ES Addendum 13.1: Archaeological Trial Trenching Evaluation Fieldwork Report for the Shared Cable Corridor | EX4/WB8.4.13.1 | February 2024 | \[REP4-076\] |
 | Environmental Statement | ES Addendum: Air Quality Impact Assessment of BESS Fire | EX3/WB8.4.17.1 | January 2024 | \[REP3-040\] |
@@ -74,12 +74,12 @@ Article ‎40
 
 ## Annotations
 
-[^key-d9036e35f414412be86ecdb90a0f4dbd]: Commencement: Sch. 13 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-d9036e35f414412be86ecdb90a0f4dbd]: Commencement: Sch. 13 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-e4952db19b452e87074857e597ab6957]: Textual amendment: Words in [Sch. 13 Pt. 1](https://www.legislation.gov.uk/uksi/2025/116/schedule/13/part/1) (including words in "row 11" and words in row 13 column 2) substituted (4.6.2025) by virtue of [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-e4952db19b452e87074857e597ab6957]: Textual amendment: Words in [Sch. 13 Pt. 1](https://www.legislation.gov.uk/uksi/2025/116/schedule/13/part/1) (including words in "row 11" and words in row 13 column 2) substituted (4.6.2025) by virtue of [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
 
-[^key-6cfffff3ff60a3fad38e923c6dc509bc]: Textual amendment: Words in [Sch. 13 Pt. 1](https://www.legislation.gov.uk/uksi/2025/116/schedule/13/part/1) omitted (4.6.2025) by virtue of [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-6cfffff3ff60a3fad38e923c6dc509bc]: Textual amendment: Words in [Sch. 13 Pt. 1](https://www.legislation.gov.uk/uksi/2025/116/schedule/13/part/1) omitted (4.6.2025) by virtue of [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
 
-[^key-365f925356988f07136f993cbd867281]: Commencement: Sch. 13 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-365f925356988f07136f993cbd867281]: Commencement: Sch. 13 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-8a9e58f5b506032395f2a43d589fe574]: Textual amendment: Words in [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2025/116/schedule/13/part/2) inserted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table
+[^c-8a9e58f5b506032395f2a43d589fe574]: Textual amendment: Words in [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2025/116/schedule/13/part/2) inserted (4.6.2025) by [The West Burton Solar Project (Correction) Order 2025 (S.I. 2025/647)](https://www.legislation.gov.uk/uksi/2025/647), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/647/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/647/schedule/1) Table

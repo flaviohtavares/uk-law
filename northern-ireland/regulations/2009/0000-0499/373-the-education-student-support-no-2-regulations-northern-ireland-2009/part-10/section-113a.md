@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113A. Requirement to enter into a contract for a distance learning fee loan[^key-14187a78575bb445ee8725a769116353]
+## 113A. Requirement to enter into a contract for a distance learning fee loan[^c-14187a78575bb445ee8725a769116353]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14187a78575bb445ee8725a769116353]: Textual amendment: [Reg. 113A](https://www.legislation.gov.uk/nisr/2009/373/regulation/113A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2017/7/regulation/13)
+[^c-14187a78575bb445ee8725a769116353]: Textual amendment: [Reg. 113A](https://www.legislation.gov.uk/nisr/2009/373/regulation/113A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2017/7/regulation/13)

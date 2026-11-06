@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.8. Procedure on enquiry[^key-07af60763811e3fa531be663ea60faa4]
+## 48.8. Procedure on enquiry[^c-07af60763811e3fa531be663ea60faa4]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07af60763811e3fa531be663ea60faa4]: Commencement: [Rule 48.8](https://www.legislation.gov.uk/uksi/2025/909/rule/48.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-07af60763811e3fa531be663ea60faa4]: Commencement: [Rule 48.8](https://www.legislation.gov.uk/uksi/2025/909/rule/48.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -53,13 +53,13 @@ The special verdict required by section 2 of the [^c713500]Trial of Lunatics Act
 
 (4) Subject to subsections (2) and (3) above, the question of fitness to be tried shall be determined as soon as it arises.
 
-(5) The question of fitness to be tried shall be determined by the court without a jury[^key-328d84870ca6c8ff950c51e01dd2dc01] .
+(5) The question of fitness to be tried shall be determined by the court without a jury[^c-328d84870ca6c8ff950c51e01dd2dc01] .
 
-(6) The court[^key-a178cc50aaa7aac568495bf62bc81df1] shall not make a determination under subsection (5) above except on the written or oral evidence of two or more registered medical practitioners at least one of whom is duly approved.
+(6) The court[^c-a178cc50aaa7aac568495bf62bc81df1] shall not make a determination under subsection (5) above except on the written or oral evidence of two or more registered medical practitioners at least one of whom is duly approved.
 
 ## 4A. Finding that the accused did the act or made the omission charged against him.
 
-(1) This section applies where in accordance with section 4(5) above it is determined by a court[^key-8350026cb9b2e984686a2bd0c13a05aa] that the accused is under a disability.
+(1) This section applies where in accordance with section 4(5) above it is determined by a court[^c-8350026cb9b2e984686a2bd0c13a05aa] that the accused is under a disability.
 
 (2) The trial shall not proceed or further proceed but it shall be determined by a jury—
 
@@ -74,7 +74,7 @@ whether they are satisfied, as respects the count or each of the counts on which
 
 (5)[^M_F_98d25ce4-0489-4112-ec93-df6fa9a44479] Where the question of disability was determined after arraignment of the accused, the determination under subsection (2) is to be made by the jury by whom he was being tried.
 
-## 5. Powers to deal with persons not guilty by reason of insanity or unfit to plead etc.[^key-155d9e8fd97b2431a9f0b6aa9f55c576]
+## 5. Powers to deal with persons not guilty by reason of insanity or unfit to plead etc.[^c-155d9e8fd97b2431a9f0b6aa9f55c576]
 
 (1) This section applies where—
 
@@ -94,7 +94,7 @@ whether they are satisfied, as respects the count or each of the counts on which
 
 the court shall make a hospital order with a restriction order (whether or not they would have power to make a restriction order apart from this subsection).
 
-(3A)[^key-bce8e1d0b513132ac62c53abba68826a] Where the court have power under subsection (2)(c) to make an order for the absolute discharge of the accused, they may do so where they think, having regard to the circumstances, including the nature of the offence charged and the character of the accused, that such an order would be most suitable in all the circumstances of the case.
+(3A)[^c-bce8e1d0b513132ac62c53abba68826a] Where the court have power under subsection (2)(c) to make an order for the absolute discharge of the accused, they may do so where they think, having regard to the circumstances, including the nature of the offence charged and the character of the accused, that such an order would be most suitable in all the circumstances of the case.
 
 (4) In this section—
 
@@ -102,7 +102,7 @@ the court shall make a hospital order with a restriction order (whether or not t
 - “**restriction order**” has the meaning given to it by section 41 of that Act;
 - “**supervision order**” has the meaning given in Part 1 of Schedule 1A to this Act.
 
-## 5A. Orders made under or by virtue of section 5[^key-081bbae2d01eff46c1a88d0c1fd9456d]
+## 5A. Orders made under or by virtue of section 5[^c-081bbae2d01eff46c1a88d0c1fd9456d]
 
 (1) In relation to the making of an order by virtue of subsection (2)(a) of section 5 above, section 37 (hospital orders etc ) of the Mental Health Act 1983 (“ **the 1983 Act** ”) shall have effect as if—
 
@@ -128,24 +128,24 @@ the court shall make a hospital order with a restriction order (whether or not t
 - (a) a person is detained in pursuance of a hospital order which the court had power to make by virtue of section 5(1)(b) above, and
 - (b) the court also made a restriction order, and that order has not ceased to have effect,
 
-the Secretary of State, if satisfied after consultation with the responsible clinician[^key-6654daa08eb2c56cbb6dea6916ccd933] that the person can properly be tried, may remit the person for trial, either to the court of trial or to a prison.
+the Secretary of State, if satisfied after consultation with the responsible clinician[^c-6654daa08eb2c56cbb6dea6916ccd933] that the person can properly be tried, may remit the person for trial, either to the court of trial or to a prison.
 
 On the person’s arrival at the court or prison, the hospital order and the restriction order shall cease to have effect.
 
 (5) Schedule 1A to this Act (supervision orders) has effect with respect to the making of supervision orders under subsection (2)(b) of section 5 above, and with respect to the revocation and amendment of such orders.
 
-(6)[^key-d96c0de861e205f7f96af9994cef110c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-d96c0de861e205f7f96af9994cef110c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Evidence by prosecution of insanity or diminished responsibility.
 
 Where on a trial for murder the accused contends—
 
 - (a) that at the time of the alleged offence he was insane so as not to be responsible according to law for his actions; or
-- (b) that at that time he was suffering from such abnormality of mental functioning[^key-836173791f2d07e0368e2c5e99cd3c18] as is specified in subsection (1) of section 2 of the [^c713516]Homicide Act 1957 (diminished responsibility),
+- (b) that at that time he was suffering from such abnormality of mental functioning[^c-836173791f2d07e0368e2c5e99cd3c18] as is specified in subsection (1) of section 2 of the [^c713516]Homicide Act 1957 (diminished responsibility),
 
 the court shall allow the prosecution to adduce or elicit evidence tending to prove the other of those contentions, and may give directions as to the stage of the proceedings at which the prosecution may adduce such evidence.
 
-## 7. Courts-martial.[^key-e82423b5f3b209ce96e094d1229997b0][^c713517]
+## 7. Courts-martial.[^c-e82423b5f3b209ce96e094d1229997b0][^c713517]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -155,8 +155,8 @@ the court shall allow the prosecution to adduce or elicit evidence tending to pr
 
 (2) In this Act—
 
-- “[^c713535]**duly approved**” in relation to a registered medical practitioner, means approved for the purposes of section 12 of the Mental Health Act 1983 by the Secretary of State, or by another person by virtue of section 12ZA or 12ZB of that Act,[^key-5d2632afc0b23b3d057708f8bff33759] as having special experience in the diagnosis or treatment of mental disorder;
-- “[^key-69588f58fd40d16a3298eef0c972a726]**local probation board**” means a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000;
+- “[^c713535]**duly approved**” in relation to a registered medical practitioner, means approved for the purposes of section 12 of the Mental Health Act 1983 by the Secretary of State, or by another person by virtue of section 12ZA or 12ZB of that Act,[^c-5d2632afc0b23b3d057708f8bff33759] as having special experience in the diagnosis or treatment of mental disorder;
+- “[^c-69588f58fd40d16a3298eef0c972a726]**local probation board**” means a local probation board established under section 4 of the Criminal Justice and Court Services Act 2000;
 - “**registered medical practitioner**” means a fully registered person within the meaning of the Medical Act 1983 who holds a licence to practise[^c713536] ;
 - “**special verdict**” has the meaning assigned by section 1 of this Act,
 - “**under disability**” has the meaning assigned by section 4 of this Act,
@@ -166,9 +166,9 @@ and other expressions used in this Act and in the Mental Health Act 1983[^c71353
 
 (2A)[^c713540] Subsections (2) and (3) of section 54 of the Mental Health Act 1983 shall have effect with respect to proof of the accused’s mental condition for the purposes of section 4 of this Act as they have effect with respect to proof of an offender’s mental condition for the purposes of section 37(2)(a) of that Act.
 
-(3) This Act shall come into operation at the time of expiration of a period of one month beginning with the day on which it was passed [^key-661821c4a7b8b3d2045e4a9a5b3a491d]. . .
+(3) This Act shall come into operation at the time of expiration of a period of one month beginning with the day on which it was passed [^c-661821c4a7b8b3d2045e4a9a5b3a491d]. . .
 
-(4) This Act [^key-9afc8366c40811b238ada392c497cd06]. . . shall extend to England and Wales only.
+(4) This Act [^c-9afc8366c40811b238ada392c497cd06]. . . shall extend to England and Wales only.
 
 (5)[^c713541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -184,13 +184,13 @@ SCHEDULES
 
 **2.**[^c713569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 1A — Supervision orders[^key-50803309bdd5956af4dc258e4dc68387]
+## SCHEDULE 1A — Supervision orders[^c-50803309bdd5956af4dc258e4dc68387]
 
 Section 5A
 
 ### Part 1 — Preliminary
 
-**1.** (1) In this Schedule “ **supervision order** ” means an order which requires the person in respect of whom it is made (“the supervised person”) to be under the supervision of a social worker , an[^key-afab3952303da17dd0aa439cd3f465f0] officer of a local probation board or an officer of a provider of probation services[^key-63de3d87c2dac2047e52424d9a607044] (“the supervising officer”) for a period specified in the order of not more than two years.
+**1.** (1) In this Schedule “ **supervision order** ” means an order which requires the person in respect of whom it is made (“the supervised person”) to be under the supervision of a social worker , an[^c-afab3952303da17dd0aa439cd3f465f0] officer of a local probation board or an officer of a provider of probation services[^c-63de3d87c2dac2047e52424d9a607044] (“the supervising officer”) for a period specified in the order of not more than two years.
 
 (2) A supervision order may, in accordance with paragraph 4 or 5 below, require the supervised person to submit, during the whole of that period or such part of it as may be specified in the order, to treatment by or under the direction of a registered medical practitioner.
 
@@ -216,14 +216,14 @@ Section 5A
 **3.** (1) A supervision order shall either—
 
 - (a) specify the local social services authority area in which the supervised person resides or will reside, and require him to be under the supervision of a social worker of the local social services authority for that area; or
-- (b) specify the local justice area in which that person resides or will reside, and require him to be under the supervision of an officer of a local probation board appointed for or assigned to that area, or (as the case may be) an officer of a provider of probation services acting in that area[^key-f1cfde0bd0d9dfa149ae157f22d2ea5b].
+- (b) specify the local justice area in which that person resides or will reside, and require him to be under the supervision of an officer of a local probation board appointed for or assigned to that area, or (as the case may be) an officer of a provider of probation services acting in that area[^c-f1cfde0bd0d9dfa149ae157f22d2ea5b].
 
 (2) Before making such an order, the court shall explain to the supervised person in ordinary language—
 
 - (a) the effect of the order (including any requirements proposed to be included in the order in accordance with paragraph 4, 5 or 8 below); and
 - (b) that a magistrates' court has power under paragraphs 9 to 11 below to review the order on the application either of the supervised person or of the supervising officer.
 
-(3) After making such an order, the court shall forthwith give copies of the order to an officer of a local probation board assigned to the court or an officer of a provider of probation services acting at the court[^key-71b64ab0d478d94c450e58efda5fd2b2], and he shall give a copy—
+(3) After making such an order, the court shall forthwith give copies of the order to an officer of a local probation board assigned to the court or an officer of a provider of probation services acting at the court[^c-71b64ab0d478d94c450e58efda5fd2b2], and he shall give a copy—
 
 - (a) to the supervised person; and
 - (b) to the supervising officer.
@@ -361,7 +361,7 @@ and in a case falling within paragraph (b) above, the designated officer for tha
 
 (3) Where in accordance with sub-paragraph (1) or (2) above copies of an order are given to the supervising officer, he shall give a copy to the supervised person and to the person in charge of any institution in which the supervised person is or was residing.
 
-## SCHEDULE 2 — ...[^key-8daf2c58bbebfde81aaa15514aa0f65a]
+## SCHEDULE 2 — ...[^c-8daf2c58bbebfde81aaa15514aa0f65a]
 
 Section 7.
 
@@ -395,37 +395,37 @@ Section 7.
 
 [^c713505]: Textual amendment: Ss. 4 and 4A substituted (01.01.1992) for s. 4 by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [ss.2](https://www.legislation.gov.uk/ukpga/1991/25/section/2), [8](https://www.legislation.gov.uk/ukpga/1991/25/section/8); [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art.2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
-[^key-328d84870ca6c8ff950c51e01dd2dc01]: Textual amendment: Words in s. 4(5) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/2), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-328d84870ca6c8ff950c51e01dd2dc01]: Textual amendment: Words in s. 4(5) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/2), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
-[^key-a178cc50aaa7aac568495bf62bc81df1]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/1964/84/section/4/6) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/3), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-a178cc50aaa7aac568495bf62bc81df1]: Textual amendment: Words in [s. 4(6)](https://www.legislation.gov.uk/ukpga/1964/84/section/4/6) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/3), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
-[^key-8350026cb9b2e984686a2bd0c13a05aa]: Textual amendment: Word in [s. 4A(1)](https://www.legislation.gov.uk/ukpga/1964/84/section/4A/1) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/4), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-8350026cb9b2e984686a2bd0c13a05aa]: Textual amendment: Word in [s. 4A(1)](https://www.legislation.gov.uk/ukpga/1964/84/section/4A/1) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(4)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/4), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
 [^M_F_98d25ce4-0489-4112-ec93-df6fa9a44479]: Textual amendment: [s. 4A(5)](https://www.legislation.gov.uk/ukpga/1964/84/section/4A/1) substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 22(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/22/4), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
-[^key-155d9e8fd97b2431a9f0b6aa9f55c576]: Textual amendment: Ss. 5, 5A substituted (31.3.2005) for s. 5 by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-155d9e8fd97b2431a9f0b6aa9f55c576]: Textual amendment: Ss. 5, 5A substituted (31.3.2005) for s. 5 by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/1), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
-[^key-bce8e1d0b513132ac62c53abba68826a]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukpga/1964/84/section/5/3A) inserted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 114(2)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/114/2); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-bce8e1d0b513132ac62c53abba68826a]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukpga/1964/84/section/5/3A) inserted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 114(2)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/114/2); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-081bbae2d01eff46c1a88d0c1fd9456d]: Modification: S. 5A applied by 1968 c. 19, s. 6(4) 14(4) (as substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/3), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b))
+[^c-081bbae2d01eff46c1a88d0c1fd9456d]: Modification: S. 5A applied by 1968 c. 19, s. 6(4) 14(4) (as substituted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/3), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b))
 
-[^key-6654daa08eb2c56cbb6dea6916ccd933]: Textual amendment: Words in s. 5A(4) substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 15(4)](https://www.legislation.gov.uk/ukpga/2007/12/section/15/4), [56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
+[^c-6654daa08eb2c56cbb6dea6916ccd933]: Textual amendment: Words in s. 5A(4) substituted (3.11.2008) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 15(4)](https://www.legislation.gov.uk/ukpga/2007/12/section/15/4), [56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [S.I. 2008/1900](https://www.legislation.gov.uk/uksi/2008/1900), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1900/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1900/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/1900/schedule))
 
-[^key-d96c0de861e205f7f96af9994cef110c]: Textual amendment: S. 5A(6) omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 114(3)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/114/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-d96c0de861e205f7f96af9994cef110c]: Textual amendment: S. 5A(6) omitted (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by virtue of [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3), [Sch. 2 para. 114(3)](https://www.legislation.gov.uk/ukpga/2020/9/schedule/2/paragraph/114/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-836173791f2d07e0368e2c5e99cd3c18]: Textual amendment: Words in [s. 6(b)](https://www.legislation.gov.uk/ukpga/1964/84/section/6/b) substituted (4.10.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/52/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/816/article/5/a)
+[^c-836173791f2d07e0368e2c5e99cd3c18]: Textual amendment: Words in [s. 6(b)](https://www.legislation.gov.uk/ukpga/1964/84/section/6/b) substituted (4.10.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2009/25/section/52/2), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/816/article/5/a)
 
 [^c713516]: Marginal citation: [1957 c. 11](https://www.legislation.gov.uk/ukpga/1957/11).
 
-[^key-e82423b5f3b209ce96e094d1229997b0]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1964/84/section/7) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-e82423b5f3b209ce96e094d1229997b0]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1964/84/section/7) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
 [^c713517]: Modification: The text of S. 7, Sch. 2 Pt. I, is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
 [^c713535]: Textual amendment: In s. 8(2), definitions of "duly approved" and "registered medical practitioner" inserted (1.1.1992) by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [s. 7](https://www.legislation.gov.uk/ukpga/1991/25/section/7), [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/1991/25/schedule/3/paragraph/1/1), [S.I](https://www.legislation.gov.uk/ukpga/1991/25/section/I). 1991/2488, art. 2.
 
-[^key-5d2632afc0b23b3d057708f8bff33759]: Textual amendment: Words in s. 8(2) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/a), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-5d2632afc0b23b3d057708f8bff33759]: Textual amendment: Words in s. 8(2) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(a)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/a), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-69588f58fd40d16a3298eef0c972a726]: Textual amendment: Words in s. 8(2) inserted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/3); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(g)](https://www.legislation.gov.uk/uksi/2005/579/article/3/g)
+[^c-69588f58fd40d16a3298eef0c972a726]: Textual amendment: Words in s. 8(2) inserted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10/paragraph/3); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(g)](https://www.legislation.gov.uk/uksi/2005/579/article/3/g)
 
 [^c713536]: Textual amendment: Words in the definition of “registered medical practitioner” in s. 8(2) inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [art. 16(1)](https://www.legislation.gov.uk/uksi/2002/3135/article/16/1), [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/part/I/paragraph/5) (with transitional provisions in [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2)) (the amendment coming into force in accordance with art. 1(3) of the amending S.I. and see the Gazette (Issue 59163) dated 21.8.2009)
 
@@ -435,9 +435,9 @@ Section 7.
 
 [^c713540]: Textual amendment: S. 8(2A) inserted (1.1.1992) by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [s. 7](https://www.legislation.gov.uk/ukpga/1991/25/section/7), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/1991/25/schedule/3/paragraph/1/2), [S.I](https://www.legislation.gov.uk/ukpga/1991/25/section/I). 1991/2488, art. 2.
 
-[^key-661821c4a7b8b3d2045e4a9a5b3a491d]: Textual amendment: Words in s. 8(3) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-661821c4a7b8b3d2045e4a9a5b3a491d]: Textual amendment: Words in s. 8(3) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
-[^key-9afc8366c40811b238ada392c497cd06]: Textual amendment: Words in s. 8(4) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-9afc8366c40811b238ada392c497cd06]: Textual amendment: Words in s. 8(4) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
 [^c713541]: Textual amendment: S. 8(5) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
@@ -449,14 +449,14 @@ Section 7.
 
 [^c713569]: Textual amendment: Sch. 1 para. 2 repealed (01.01.1992) by [Criminal Procedure (Insanity and Unfitness to Plead) Act 1991 (c. 25, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/25), [s. 8(3)](https://www.legislation.gov.uk/ukpga/1991/25/section/8/3), [Sch.4](https://www.legislation.gov.uk/ukpga/1991/25/schedule/4) (with [s. 8](https://www.legislation.gov.uk/ukpga/1991/25/section/8)), [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art.2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
-[^key-50803309bdd5956af4dc258e4dc68387]: Textual amendment: Sch. 1A inserted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/28/schedule/2) (with [Sch. 12 paras. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8), [9](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/9)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-50803309bdd5956af4dc258e4dc68387]: Textual amendment: Sch. 1A inserted (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/28/schedule/2) (with [Sch. 12 paras. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8), [9](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/9)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
-[^key-afab3952303da17dd0aa439cd3f465f0]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/1/1) substituted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/a)
+[^c-afab3952303da17dd0aa439cd3f465f0]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/1/1) substituted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/a)
 
-[^key-63de3d87c2dac2047e52424d9a607044]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/1/1) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/a)
+[^c-63de3d87c2dac2047e52424d9a607044]: Textual amendment: Words in [Sch. 1A para. 1(1)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/1/1) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/a)
 
-[^key-f1cfde0bd0d9dfa149ae157f22d2ea5b]: Textual amendment: Words in [Sch. 1A para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/3/1/b) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/b/i)
+[^c-f1cfde0bd0d9dfa149ae157f22d2ea5b]: Textual amendment: Words in [Sch. 1A para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/3/1/b) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/b/i)
 
-[^key-71b64ab0d478d94c450e58efda5fd2b2]: Textual amendment: Words in [Sch. 1A para. 3(3)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/3/3) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/b/ii)
+[^c-71b64ab0d478d94c450e58efda5fd2b2]: Textual amendment: Words in [Sch. 1A para. 3(3)](https://www.legislation.gov.uk/ukpga/1964/84/schedule/1A/paragraph/3/3) inserted (1.4.2008) by [The Offender Management Act 2007 (Consequential Amendments) Order 2008 (S.I. 2008/912)](https://www.legislation.gov.uk/uksi/2008/912), [art. 1](https://www.legislation.gov.uk/uksi/2008/912/article/1), [Sch. 1 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2008/912/schedule/1/paragraph/2/2/b/ii)
 
-[^key-8daf2c58bbebfde81aaa15514aa0f65a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1964/84/schedule/2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-8daf2c58bbebfde81aaa15514aa0f65a]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1964/84/schedule/2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)

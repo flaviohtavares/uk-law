@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Electoral Commission strategy: spoilt ballot papers[^key-565480de6b64fe08d42396188f79065b][^key-cee3d11cdbc62ec34f8e99b1819f2624]
+## 68. Electoral Commission strategy: spoilt ballot papers[^c-565480de6b64fe08d42396188f79065b][^c-cee3d11cdbc62ec34f8e99b1819f2624]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-565480de6b64fe08d42396188f79065b]: Commencement: S. 68 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-565480de6b64fe08d42396188f79065b]: Commencement: S. 68 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-cee3d11cdbc62ec34f8e99b1819f2624]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2025/4/section/68) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-cee3d11cdbc62ec34f8e99b1819f2624]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2025/4/section/68) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

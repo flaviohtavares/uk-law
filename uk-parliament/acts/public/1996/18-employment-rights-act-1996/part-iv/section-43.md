@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Contractual requirements relating to Sunday work : opting-out notices.[^c20379711][^key-de3cd95ff074477c5466dcacd257b929]
+## 43. Contractual requirements relating to Sunday work : opting-out notices.[^c20379711][^c-de3cd95ff074477c5466dcacd257b929]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 [^c20379711]: Extent: S. 43, which previously extended to England and Wales only, extends to England and Wales and Scotland from 6.4.2004 by virtue of the amendment to s. 244(2) by [Sunday Working (Scotland) Act 2003 (c. 18)](https://www.legislation.gov.uk/ukpga/2003/18), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2003/18/section/1/5), [3](https://www.legislation.gov.uk/ukpga/2003/18/section/3); [S.I. 2004/958](https://www.legislation.gov.uk/uksi/2004/958), [art. 2](https://www.legislation.gov.uk/uksi/2004/958/article/2)
 
-[^key-de3cd95ff074477c5466dcacd257b929]: Textual amendment: Words in s. 43 heading inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/5)
+[^c-de3cd95ff074477c5466dcacd257b929]: Textual amendment: Words in s. 43 heading inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/5)
 
 [^c16325081]: Textual amendment: S. 43(4)(5)(b) repealed (15.12.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 9](https://www.legislation.gov.uk/ukpga/1999/26/section/9), [Sch. 4 Pt. III para. 7(a)(c)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/4/part/III/paragraph/7/a/c), [Sch. 9(2)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/2); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(1)(3)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/1/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/1/part/II), [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/II) (with [Sch. 3 paras. 10](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/10), [11](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/11))
 

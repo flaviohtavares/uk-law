@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4C — UNCONNECTED MULTIPLE EMPLOYER SCHEMES: PROMOTION OR MARKETING REQUIREMENT[^key-037b73fbcbd717513f9c9e25ae113afa]
+## SCHEDULE 4C — UNCONNECTED MULTIPLE EMPLOYER SCHEMES: PROMOTION OR MARKETING REQUIREMENT[^c-037b73fbcbd717513f9c9e25ae113afa]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ Section 65D(1) and (2)
 
 ## Annotations
 
-[^key-037b73fbcbd717513f9c9e25ae113afa]: Textual amendment: [Schs. 4A-4C](https://www.legislation.gov.uk/ukpga/2021/1/schedule/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2026/151/regulation/23)
+[^c-037b73fbcbd717513f9c9e25ae113afa]: Textual amendment: [Schs. 4A-4C](https://www.legislation.gov.uk/ukpga/2021/1/schedule/4A) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [23](https://www.legislation.gov.uk/nisr/2026/151/regulation/23)

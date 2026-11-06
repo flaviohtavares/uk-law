@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Inspection of documents[^key-a73317a0933cf25221be46e1f908b100]
+## 10. Inspection of documents[^c-a73317a0933cf25221be46e1f908b100]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a73317a0933cf25221be46e1f908b100]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/544/regulation/10) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-a73317a0933cf25221be46e1f908b100]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/544/regulation/10) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

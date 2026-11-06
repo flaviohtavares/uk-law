@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Publication of draft regulatory scheme and representations[^key-0cca35514f7c5135f1797766733aa25f][^key-5b5fb714b36d5e2f50f02b1581892f85]
+## 26. Publication of draft regulatory scheme and representations[^c-0cca35514f7c5135f1797766733aa25f][^c-5b5fb714b36d5e2f50f02b1581892f85]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cca35514f7c5135f1797766733aa25f]: Commencement: S. 26 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0cca35514f7c5135f1797766733aa25f]: Commencement: S. 26 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-5b5fb714b36d5e2f50f02b1581892f85]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/8/section/26) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-5b5fb714b36d5e2f50f02b1581892f85]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/8/section/26) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

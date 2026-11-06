@@ -83,7 +83,7 @@ The Secretary of State, being a Minister designated [^c12129751] for the purpose
 - [Section 19 — Prohibition on mixing hazardous waste without a permit](part-4/section-19.md)
 - [Section 20 — Duty to separate mixed wastes](part-4/section-20.md)
 
-### PART 5 — Notification of Premises[^key-fc3e1f91f5f067cdf5203aab1b6f7c81]
+### PART 5 — Notification of Premises[^c-fc3e1f91f5f067cdf5203aab1b6f7c81]
 
 *Extent: E+W*
 
@@ -281,4 +281,4 @@ The volume entitled “Indexes to the United Kingdom Standard Industrial Classif
 
 [^c12129771]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). The relevant functions of the Secretary of State in so far as they relate to Scotland were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-fc3e1f91f5f067cdf5203aab1b6f7c81]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2005/894/part/5) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/3)
+[^c-fc3e1f91f5f067cdf5203aab1b6f7c81]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2005/894/part/5) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/3)

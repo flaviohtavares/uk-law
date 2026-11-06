@@ -63,7 +63,7 @@ In section 90 of the Employment Rights Act 1996 [^c1933456] (short-term incapaci
 - (a) in the heading after “short-term incapacity benefit” insert “, contributory employment and support allowance”; and
 - (b) in subsection (1)(b) after “short-term incapacity benefit” insert “, contributory employment and support allowance”.
 
-### 3. Amendment of the National Minimum Wage Regulations 1999[^key-e3d3e1b311191871be496c8104923079]
+### 3. Amendment of the National Minimum Wage Regulations 1999[^c-e3d3e1b311191871be496c8104923079]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -135,24 +135,24 @@ In regulation 4(2) of the Home Energy Efficiency Scheme (England) Regulations 20
 
 .
 
-(3) In regulation 3(3)(a) *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928] [^c1933465] (entitlement to benefit) after sub-paragraph (iii) insert— *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+(3) In regulation 3(3)(a) *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928] [^c1933465] (entitlement to benefit) after sub-paragraph (iii) insert— *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
-> or *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+> or *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 >
-> - (iv (Extent: S) (affected by repeal, see note))[^key-b19117e10cf7e5021b1dfb15d62de928] an income-related employment and support allowance; *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+> - (iv (Extent: S) (affected by repeal, see note))[^c-b19117e10cf7e5021b1dfb15d62de928] an income-related employment and support allowance; *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
-(4) In Schedule 2 *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928] [^c1933466] (application for benefit) in paragraph 4(1)(a)— *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+(4) In Schedule 2 *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928] [^c1933466] (application for benefit) in paragraph 4(1)(a)— *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-b19117e10cf7e5021b1dfb15d62de928] after sub-paragraph (ii) omit “or”; *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
-- (b (Extent: S) (affected by repeal, see note))[^key-b19117e10cf7e5021b1dfb15d62de928] at the end of sub-paragraph (iii) for “and” substitute— *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+- (a (Extent: S) (affected by repeal, see note))[^c-b19117e10cf7e5021b1dfb15d62de928] after sub-paragraph (ii) omit “or”; *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
+- (b (Extent: S) (affected by repeal, see note))[^c-b19117e10cf7e5021b1dfb15d62de928] at the end of sub-paragraph (iii) for “and” substitute— *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
-  > or *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+  > or *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
   >
-  > - (iv (Extent: S) (affected by repeal, see note))[^key-b19117e10cf7e5021b1dfb15d62de928] an income-related employment and support allowance; and *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+  > - (iv (Extent: S) (affected by repeal, see note))[^c-b19117e10cf7e5021b1dfb15d62de928] an income-related employment and support allowance; and *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
-  . *(Extent: S)* *(affected by repeal, see note)*[^key-b19117e10cf7e5021b1dfb15d62de928]
+  . *(Extent: S)* *(affected by repeal, see note)*[^c-b19117e10cf7e5021b1dfb15d62de928]
 
 ## PART 6 — Immigration and Asylum
 
@@ -254,7 +254,7 @@ In regulation 5(4) of the Criminal Defence Service (Financial Eligibility) Regul
 
 .
 
-### 19. Amendment of the Gambling Appeals Tribunal Fees Regulations 2006[^key-7ba0f47b0bdadfed2ebf709b69d72264]
+### 19. Amendment of the Gambling Appeals Tribunal Fees Regulations 2006[^c-7ba0f47b0bdadfed2ebf709b69d72264]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -715,7 +715,7 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1933456]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-e3d3e1b311191871be496c8104923079]: Textual amendment: Reg. 3 revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
+[^c-e3d3e1b311191871be496c8104923079]: Textual amendment: Reg. 3 revoked (6.4.2015) by [The National Minimum Wage Regulations 2015 (S.I. 2015/621)](https://www.legislation.gov.uk/uksi/2015/621), [reg. 1](https://www.legislation.gov.uk/uksi/2015/621/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/621/schedule)
 
 [^c1933458]: Marginal citation: [S.I. 1997/1969](https://www.legislation.gov.uk/uksi/1997/1969). Regulation 9(3) was amended by [S.I. 2003/1707](https://www.legislation.gov.uk/uksi/2003/1707).
 
@@ -731,7 +731,7 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1933464]: Marginal citation: [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262).
 
-[^key-b19117e10cf7e5021b1dfb15d62de928]: Textual amendment: Reg. 10(3)(4) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
+[^c-b19117e10cf7e5021b1dfb15d62de928]: Textual amendment: Reg. 10(3)(4) revoked (S.) (31.3.2020) by [The Welfare Foods (Best Start Foods) (Scotland) Regulations 2019 (S.S.I. 2019/193)](https://www.legislation.gov.uk/ssi/2019/193), [reg. 1(3)](https://www.legislation.gov.uk/ssi/2019/193/regulation/1/3), [sch. 2](https://www.legislation.gov.uk/ssi/2019/193/schedule/2)
 
 [^c1933465]: Marginal citation: Regulation 3(3) was amended by [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818) and [S.I. 2008/408](https://www.legislation.gov.uk/uksi/2008/408).
 
@@ -753,7 +753,7 @@ These Regulations have no impact on the cost of business, charities or the volun
 
 [^c1933474]: Marginal citation: [S.I. 2006/2492](https://www.legislation.gov.uk/uksi/2006/2492).
 
-[^key-7ba0f47b0bdadfed2ebf709b69d72264]: Textual amendment: Reg. 19 revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
+[^c-7ba0f47b0bdadfed2ebf709b69d72264]: Textual amendment: Reg. 19 revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 
 [^c1933476]: Marginal citation: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005).
 

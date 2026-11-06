@@ -106,7 +106,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 (8) References in this Regulation to a person having an interest in goods, material or articles include any person in whose favour an order could be made under—
 
 - (a) this Regulation,
-- (b) section 19 of the Trade Marks Act 1994 [^c20489391] [^key-e6fac568dbb08a44ff997fb97059b9ae]...,
+- (b) section 19 of the Trade Marks Act 1994 [^c20489391] [^c-e6fac568dbb08a44ff997fb97059b9ae]...,
 - (c) section 24D of the Registered Designs Act 1949 [^c20489411],
 - (d) section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988 [^c20489421], or
 - (e) regulation 1C of the Community Design Regulations 2005 [^c20489431].
@@ -190,7 +190,7 @@ Regulation 6 amends 1995 Regulations relating the Olympics association right (cr
 
 [^c20489391]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26); [section 19](https://www.legislation.gov.uk/uksi/2010/2477/section/19) was amended by paragraph 16 of Schedule 2 to the [Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028).
 
-[^key-e6fac568dbb08a44ff997fb97059b9ae]: Textual amendment: Words in [reg. 4(8)(b)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/4/8/b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e6fac568dbb08a44ff997fb97059b9ae]: Textual amendment: Words in [reg. 4(8)(b)](https://www.legislation.gov.uk/uksi/2010/2477/regulation/4/8/b) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20489411]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88); [section 24D](https://www.legislation.gov.uk/uksi/2010/2477/section/24D) was inserted by paragraph 3 of Schedule 1 to the Intellectual Property (Enforcement, etc.) Regulations 2006.
 

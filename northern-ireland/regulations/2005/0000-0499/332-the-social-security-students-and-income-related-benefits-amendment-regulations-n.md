@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING; RATES; SOCIAL SECURITY
 
-The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-4dede62b1af2b6c5544f20894e285954]
+The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-4dede62b1af2b6c5544f20894e285954]
 
 Made
 
@@ -39,22 +39,22 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-4dede62b1af2b6c5544f20894e285954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dede62b1af2b6c5544f20894e285954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4dede62b1af2b6c5544f20894e285954]
+## 1. Citation, commencement and interpretation[^c-4dede62b1af2b6c5544f20894e285954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments in relation to the calculation of grant income[^key-4dede62b1af2b6c5544f20894e285954]
+## 2. Amendments in relation to the calculation of grant income[^c-4dede62b1af2b6c5544f20894e285954]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4dede62b1af2b6c5544f20894e285954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dede62b1af2b6c5544f20894e285954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4dede62b1af2b6c5544f20894e285954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4dede62b1af2b6c5544f20894e285954]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dede62b1af2b6c5544f20894e285954]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/332) revoked (for specified purposes and with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/301)](https://www.legislation.gov.uk/nisr/2006/301), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a), [5](https://www.legislation.gov.uk/nisr/2006/301/regulation/5)
+[^c-4dede62b1af2b6c5544f20894e285954]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/332) revoked (for specified purposes and with effect in accordance with reg. 1(2)(b) of the amending Rule) by [The Social Security (Students and Income-related Benefits) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/301)](https://www.legislation.gov.uk/nisr/2006/301), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2006/301/regulation/1/2/a), [5](https://www.legislation.gov.uk/nisr/2006/301/regulation/5)

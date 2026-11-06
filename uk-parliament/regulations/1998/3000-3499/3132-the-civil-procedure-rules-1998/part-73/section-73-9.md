@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73.9. Effect of interim order in relation to funds in court[^key-fdbca829a1eadd8b270e2bd2b8a32cf5][^key-2c19800aed515831ce1f85e551322f5f]
+## 73.9. Effect of interim order in relation to funds in court[^c-fdbca829a1eadd8b270e2bd2b8a32cf5][^c-2c19800aed515831ce1f85e551322f5f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ If a judgment debtor disposes of their interest in funds in court while they are
 
 ## Annotations
 
-[^key-fdbca829a1eadd8b270e2bd2b8a32cf5]: Textual amendment: Rules 73.1-73.10C substituted for rules 73.1-73.10 (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [14](https://www.legislation.gov.uk/uksi/2016/234/rule/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/234/schedule/1) (with [rule 24](https://www.legislation.gov.uk/uksi/2016/234/rule/24))
+[^c-fdbca829a1eadd8b270e2bd2b8a32cf5]: Textual amendment: Rules 73.1-73.10C substituted for rules 73.1-73.10 (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [14](https://www.legislation.gov.uk/uksi/2016/234/rule/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/234/schedule/1) (with [rule 24](https://www.legislation.gov.uk/uksi/2016/234/rule/24))
 
-[^key-2c19800aed515831ce1f85e551322f5f]: Textual amendment: Pt. 73 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2792/schedule/4) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
+[^c-2c19800aed515831ce1f85e551322f5f]: Textual amendment: Pt. 73 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2792/schedule/4) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))

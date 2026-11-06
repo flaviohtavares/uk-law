@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Food for Particular Nutritional Uses (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (revoked)[^key-a630cc2d717d732ea55211a6a9ac5457]
+The Food for Particular Nutritional Uses (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (revoked)[^c-a630cc2d717d732ea55211a6a9ac5457]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into operation
 
 15th March 2010
 
-[^key-a630cc2d717d732ea55211a6a9ac5457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a630cc2d717d732ea55211a6a9ac5457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a630cc2d717d732ea55211a6a9ac5457]
+## 1. Citation and commencement[^c-a630cc2d717d732ea55211a6a9ac5457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a630cc2d717d732ea55211a6a9ac5457]
+## 2. Interpretation[^c-a630cc2d717d732ea55211a6a9ac5457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^key-a630cc2d717d732ea55211a6a9ac5457]
+## 3. Amendment of the Food Labelling Regulations (Northern Ireland) 1996[^c-a630cc2d717d732ea55211a6a9ac5457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2007[^key-a630cc2d717d732ea55211a6a9ac5457]
+## 4. Amendment of the Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2007[^c-a630cc2d717d732ea55211a6a9ac5457]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a630cc2d717d732ea55211a6a9ac5457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a630cc2d717d732ea55211a6a9ac5457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a630cc2d717d732ea55211a6a9ac5457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a630cc2d717d732ea55211a6a9ac5457]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a630cc2d717d732ea55211a6a9ac5457]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/33) revoked (20.7.2016) by [The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 (S.R. 2016/251)](https://www.legislation.gov.uk/nisr/2016/251), [reg. 7(c)](https://www.legislation.gov.uk/nisr/2016/251/regulation/7/c)
+[^c-a630cc2d717d732ea55211a6a9ac5457]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/33) revoked (20.7.2016) by [The Food Safety (Information and Compositional Requirements) Regulations (Northern Ireland) 2016 (S.R. 2016/251)](https://www.legislation.gov.uk/nisr/2016/251), [reg. 7(c)](https://www.legislation.gov.uk/nisr/2016/251/regulation/7/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Interpretation etc[^key-88481c5bd2dddd3cc32725fb2183cf14]
+## 65. Interpretation etc[^c-88481c5bd2dddd3cc32725fb2183cf14]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Act—
 
 ## Annotations
 
-[^key-88481c5bd2dddd3cc32725fb2183cf14]: Commencement: S. 65 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)
+[^c-88481c5bd2dddd3cc32725fb2183cf14]: Commencement: S. 65 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)

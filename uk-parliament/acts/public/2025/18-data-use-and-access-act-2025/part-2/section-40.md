@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Duty to remove person from the DVS register[^key-484a46a3e8d0767057a33ed689c0bb5e][^key-44bf92bafaab315e29054de481b54a1e]
+## 40. Duty to remove person from the DVS register[^c-484a46a3e8d0767057a33ed689c0bb5e][^c-44bf92bafaab315e29054de481b54a1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-484a46a3e8d0767057a33ed689c0bb5e]: Commencement: S. 40 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-484a46a3e8d0767057a33ed689c0bb5e]: Commencement: S. 40 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-44bf92bafaab315e29054de481b54a1e]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/18/section/40) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-44bf92bafaab315e29054de481b54a1e]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2025/18/section/40) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

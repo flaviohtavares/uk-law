@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Emergency authorisation[^key-58ea7601793330a71daf9ba20c7a80ac]
+## 15. Emergency authorisation[^c-58ea7601793330a71daf9ba20c7a80ac]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ the Executive may extend that period or renew that authorisation.
 
 ## Annotations
 
-[^key-58ea7601793330a71daf9ba20c7a80ac]: Commencement: Reg. 15 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-58ea7601793330a71daf9ba20c7a80ac]: Commencement: Reg. 15 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

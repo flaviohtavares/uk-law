@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Disclosing information to adopted adult[^key-0d01a1e026cc040bf4382672577e1e12]
+## 59. Disclosing information to adopted adult[^c-0d01a1e026cc040bf4382672577e1e12]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d01a1e026cc040bf4382672577e1e12]: Commencement: S. 59 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-0d01a1e026cc040bf4382672577e1e12]: Commencement: S. 59 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

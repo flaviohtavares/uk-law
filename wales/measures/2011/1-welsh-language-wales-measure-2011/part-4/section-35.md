@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Amendment of persons and categories specified in Schedules 6 and 8[^key-14fc4358f38128bce68c7235963c95cf]
+## 35. Amendment of persons and categories specified in Schedules 6 and 8[^c-14fc4358f38128bce68c7235963c95cf]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14fc4358f38128bce68c7235963c95cf]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2011/1/section/35) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-14fc4358f38128bce68c7235963c95cf]: Commencement: [S. 35](https://www.legislation.gov.uk/mwa/2011/1/section/35) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

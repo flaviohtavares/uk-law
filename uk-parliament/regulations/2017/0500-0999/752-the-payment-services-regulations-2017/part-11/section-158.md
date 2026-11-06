@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Review[^key-c44c9cbe02c509295e84da687d49c55d]
+## 158. Review[^c-c44c9cbe02c509295e84da687d49c55d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c44c9cbe02c509295e84da687d49c55d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/752) revoked (14.12.2023 for the revocation of reg. 158) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xix)
+[^c-c44c9cbe02c509295e84da687d49c55d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2017/752) revoked (14.12.2023 for the revocation of reg. 158) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xix)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xix)

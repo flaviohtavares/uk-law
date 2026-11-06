@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Amendment of the British Nationality Act 1981[^key-3693b117bcc3c96a52e9381a1e5149bd][^M_I_8f167071-7f14-4eb4-e073-87c191ff7e52]
+## 78. Amendment of the British Nationality Act 1981[^c-3693b117bcc3c96a52e9381a1e5149bd][^M_I_8f167071-7f14-4eb4-e073-87c191ff7e52]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3693b117bcc3c96a52e9381a1e5149bd]: Commencement: Reg. 78 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-3693b117bcc3c96a52e9381a1e5149bd]: Commencement: Reg. 78 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_8f167071-7f14-4eb4-e073-87c191ff7e52]: Commencement: Reg. 78 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

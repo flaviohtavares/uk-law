@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Finance: licensing offences[^key-7f9d4382cb081e68c9ab71ea6a57c92d]
+## 64. Finance: licensing offences[^c-7f9d4382cb081e68c9ab71ea6a57c92d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ for the purpose of obtaining a Treasury licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-7f9d4382cb081e68c9ab71ea6a57c92d]: Commencement: Reg. 64 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-7f9d4382cb081e68c9ab71ea6a57c92d]: Commencement: Reg. 64 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

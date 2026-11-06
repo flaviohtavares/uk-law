@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 67A. Application to extend two year period to impose penalty under section 30[^key-8297351e7706f612de3e5171c0d5ff78]
+## 67A. Application to extend two year period to impose penalty under section 30[^c-8297351e7706f612de3e5171c0d5ff78]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8297351e7706f612de3e5171c0d5ff78]: Textual amendment: Rule 67A inserted (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 23](https://www.legislation.gov.uk/uksi/2013/1917/rule/23), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)
+[^c-8297351e7706f612de3e5171c0d5ff78]: Textual amendment: Rule 67A inserted (1.2.2014) by [The Clergy Discipline (Amendment) Rules 2013 (S.I. 2013/1917)](https://www.legislation.gov.uk/uksi/2013/1917), [rules 23](https://www.legislation.gov.uk/uksi/2013/1917/rule/23), [37(2)](https://www.legislation.gov.uk/uksi/2013/1917/rule/37/2); [2014 No. 2](https://www.legislation.gov.uk/ukcm/2014/2), [s. 2](https://www.legislation.gov.uk/ukcm/2014/2/section/2)

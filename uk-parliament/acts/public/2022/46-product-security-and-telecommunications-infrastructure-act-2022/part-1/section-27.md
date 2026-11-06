@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Delegation of enforcement functions[^key-26d9aa92d453561122743739ac150e6a]
+## 27. Delegation of enforcement functions[^c-26d9aa92d453561122743739ac150e6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26d9aa92d453561122743739ac150e6a]: Commencement: S. 27 in force at Royal Assent, see [s. 79(1)(a)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/a)
+[^c-26d9aa92d453561122743739ac150e6a]: Commencement: S. 27 in force at Royal Assent, see [s. 79(1)(a)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Recall of orders granted in absence of person to whom application relates[^key-1001166c6f9b3d2b206fb1ffb375e6e0]
+## 59. Recall of orders granted in absence of person to whom application relates[^c-1001166c6f9b3d2b206fb1ffb375e6e0]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ is made in the absence of the person to whom the order applies.
 
 ## Annotations
 
-[^key-1001166c6f9b3d2b206fb1ffb375e6e0]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2008/5/section/59) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-1001166c6f9b3d2b206fb1ffb375e6e0]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2008/5/section/59) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

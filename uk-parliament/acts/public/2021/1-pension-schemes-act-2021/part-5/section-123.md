@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Funding of defined benefit schemes[^key-8c8b4123250edbef88bbd5a464d03894]
+## 123. Funding of defined benefit schemes[^c-8c8b4123250edbef88bbd5a464d03894]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Schedule 10 contains—
 
 ## Annotations
 
-[^key-8c8b4123250edbef88bbd5a464d03894]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2021/1/section/123) in force at 6.4.2024 by [S.I. 2024/451](https://www.legislation.gov.uk/uksi/2024/451), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/451/regulation/2/a)
+[^c-8c8b4123250edbef88bbd5a464d03894]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2021/1/section/123) in force at 6.4.2024 by [S.I. 2024/451](https://www.legislation.gov.uk/uksi/2024/451), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/451/regulation/2/a)

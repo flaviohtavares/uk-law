@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Disposal of land—development of land by authority[^key-c9a93110eeccdc02ec249a823cc95837]
+## 103. Disposal of land—development of land by authority[^c-c9a93110eeccdc02ec249a823cc95837]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9a93110eeccdc02ec249a823cc95837]: Commencement: Reg. 103 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c9a93110eeccdc02ec249a823cc95837]: Commencement: Reg. 103 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

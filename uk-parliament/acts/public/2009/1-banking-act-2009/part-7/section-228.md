@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Consolidated Fund[^key-e3b5740185a2286f391cdb2fd65212b6]
+## 228. Consolidated Fund[^c-e3b5740185a2286f391cdb2fd65212b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3b5740185a2286f391cdb2fd65212b6]: Commencement: S. 228 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/5)
+[^c-e3b5740185a2286f391cdb2fd65212b6]: Commencement: S. 228 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Establishment of added pension account[^key-10d45da168553a438df7da931a6fd95c]
+## 38. Establishment of added pension account[^c-10d45da168553a438df7da931a6fd95c]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10d45da168553a438df7da931a6fd95c]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2015/19/regulation/38) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-10d45da168553a438df7da931a6fd95c]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2015/19/regulation/38) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Payments by employing authorities to appropriate administering authorities[^key-0dcea59c1187d27bb399f98cfc227292]
+## 80. Payments by employing authorities to appropriate administering authorities[^c-0dcea59c1187d27bb399f98cfc227292]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dcea59c1187d27bb399f98cfc227292]: Commencement: Reg. 80 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-0dcea59c1187d27bb399f98cfc227292]: Commencement: Reg. 80 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

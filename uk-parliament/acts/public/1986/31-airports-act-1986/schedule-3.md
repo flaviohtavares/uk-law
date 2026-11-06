@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Airport Byelaws made by Persons other than the Secretary of State[^key-0515bf82597068f5018cc19b07f2e87b]
+## SCHEDULE 3 — Airport Byelaws made by Persons other than the Secretary of State[^c-0515bf82597068f5018cc19b07f2e87b]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ shall be evidence, and in Scotland sufficient evidence, of the facts stated in t
 
 ## Annotations
 
-[^key-0515bf82597068f5018cc19b07f2e87b]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1986/31/schedule/3) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 24(7)](https://www.legislation.gov.uk/ukpga/2018/5/section/24/7), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/43) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-0515bf82597068f5018cc19b07f2e87b]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1986/31/schedule/3) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 24(7)](https://www.legislation.gov.uk/ukpga/2018/5/section/24/7), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/43) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

@@ -44,7 +44,7 @@ Section 165.
 - (a) the trustees of a settlement make a disposal otherwise than under a bargain at arm’s length of an asset within sub-paragraph (2) below, and
 - (b) a claim for relief under section 165 is made by the trustees and the person who acquires the asset (“**the transferee**”) or, where the trustees of a settlement are also the transferee, by the trustees making the disposal alone,
 
-then, subject to sections 165(3), 166, 167, 169, 169B and 169C[^key-75767dfd6bc9d007d569cccc0fd9aa6b], section 165(4) shall apply in relation to the disposal.
+then, subject to sections 165(3), 166, 167, 169, 169B and 169C[^c-75767dfd6bc9d007d569cccc0fd9aa6b], section 165(4) shall apply in relation to the disposal.
 
 (2) An asset is within this sub-paragraph if—
 
@@ -52,7 +52,7 @@ then, subject to sections 165(3), 166, 167, 169, 169B and 169C[^key-75767dfd6bc9
   - (i) the trustees making the disposal, or
   - (ii) a beneficiary who had an interest in possession in the settled property immediately before the disposal, or
 - (b) it consists of shares or securities of a trading company, or of the holding company of a trading group, where—
-  - (i) the shares or securities are not listed on a recognised stock exchange[^key-a09434311d17f9c1b66bd4934fff2018], or
+  - (i) the shares or securities are not listed on a recognised stock exchange[^c-a09434311d17f9c1b66bd4934fff2018], or
   - (ii) not less than 25 per cent. of the voting rights exercisable by shareholders of the company in general meeting are exercisable by the trustees at the time of the disposal.
 
 (3) Where section 165(4) applies by virtue of this paragraph, references to the trustees shall be substituted for the references in section 165(4)(a) to the transferor; and where it applies in relation to a disposal which is deemed to occur by virtue of section 71(1) or 72(1) section 165(7) shall not apply.
@@ -150,15 +150,15 @@ where—
 
 #### Reduction where gain partly relieved by retirement relief
 
-**8.**[^key-d8676cbbf4b1c3f8af860d0a9b37c880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d8676cbbf4b1c3f8af860d0a9b37c880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c2138478]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
-[^key-75767dfd6bc9d007d569cccc0fd9aa6b]: Textual amendment: Words in Sch. 7 para. 2(1) substituted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/9/2)
+[^c-75767dfd6bc9d007d569cccc0fd9aa6b]: Textual amendment: Words in Sch. 7 para. 2(1) substituted (with effect in accordance with Sch. 21 para. 10(4) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 21 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/21/paragraph/9/2)
 
-[^key-a09434311d17f9c1b66bd4934fff2018]: Textual amendment: Words in Sch. 7 para. 2(2)(b)(i) substituted (with effect in accordance with s. 90(5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 90(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/90/3)
+[^c-a09434311d17f9c1b66bd4934fff2018]: Textual amendment: Words in Sch. 7 para. 2(2)(b)(i) substituted (with effect in accordance with s. 90(5) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 90(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/90/3)
 
 [^c2138479]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51).
 
@@ -166,4 +166,4 @@ where—
 
 [^c2138481]: Textual amendment: Words in Sch. 7 para. 7(1) substituted (27.7.1993 with effect in relation to any disposal made on or after 16.3.1993 as mentioned in s. 87(2)) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 87](https://www.legislation.gov.uk/ukpga/1993/34/section/87), [Sch. 7 Pt. I para. 1(1)](https://www.legislation.gov.uk/ukpga/1993/34/schedule/7/part/I/paragraph/1/1)
 
-[^key-d8676cbbf4b1c3f8af860d0a9b37c880]: Textual amendment: Sch. 7 para. 8 repealed (with effect in relation to disposals in the year 2003-04 and subsequent years of assessment in accordance with Sch. 27 Pt. III(31) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)
+[^c-d8676cbbf4b1c3f8af860d0a9b37c880]: Textual amendment: Sch. 7 para. 8 repealed (with effect in relation to disposals in the year 2003-04 and subsequent years of assessment in accordance with Sch. 27 Pt. III(31) of the amending Act) by [Finance Act 1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), [Sch. 27 Pt. III(31)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/31)

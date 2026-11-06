@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Compulsory acquisition of land[^key-8a0fdc10636a7db74c584d5eaed81c9f]
+## 15. Compulsory acquisition of land[^c-8a0fdc10636a7db74c584d5eaed81c9f]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a0fdc10636a7db74c584d5eaed81c9f]: Commencement: Art. 15 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-8a0fdc10636a7db74c584d5eaed81c9f]: Commencement: Art. 15 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00029]: Footnote: Section 134 was amended by section 142 of, and Schedule 25 to, the Localism Act 2011.

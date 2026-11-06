@@ -31,7 +31,7 @@ summary: ''
 
   in communicating with the Ombudsman for the purposes of this Act, or by the Ombudsman in communicating with any such person or authority for those purposes,
 - (c) any statement made in pursuance of arrangements under section 15(4) or 16(5).
-- (d)[^key-777762d7979cbcc32177679e0367171e] any statement made by the Ombudsman in pursuance of section 11 of the 2015 Act,
+- (d)[^c-777762d7979cbcc32177679e0367171e] any statement made by the Ombudsman in pursuance of section 11 of the 2015 Act,
 - (e) any statement made by the Ombudsman in communicating with any person for the purposes of a welfare fund review,
 - (f) any statement made by any person in communicating with the Ombudsman for the purposes of such a review.
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-777762d7979cbcc32177679e0367171e]: Textual amendment: [S. 18(1)(d)-(f)](https://www.legislation.gov.uk/asp/2002/11/section/18/1/d) inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(4)](https://www.legislation.gov.uk/asp/2015/5/section/13/4), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)
+[^c-777762d7979cbcc32177679e0367171e]: Textual amendment: [S. 18(1)(d)-(f)](https://www.legislation.gov.uk/asp/2002/11/section/18/1/d) inserted (1.4.2016) by [Welfare Funds (Scotland) Act 2015 (asp 5)](https://www.legislation.gov.uk/asp/2015/5), [ss. 13(4)](https://www.legislation.gov.uk/asp/2015/5/section/13/4), [14(2)](https://www.legislation.gov.uk/asp/2015/5/section/14/2); [S.S.I. 2015/428](https://www.legislation.gov.uk/ssi/2015/428), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/428/article/2/2)

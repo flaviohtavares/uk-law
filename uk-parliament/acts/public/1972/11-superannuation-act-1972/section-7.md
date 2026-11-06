@@ -25,7 +25,7 @@ summary: ''
 - (a) persons, or classes of persons, employed in local government service; and
 - (b) other persons, or classes of persons, for whom it is appropriate, in the opinion of the Secretary of State, to provide pensions, allowances or gratuities under the regulations.
 
-(1A)[^key-3485f48ffa858354d24688261f7d34d7] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(1A)[^c-3485f48ffa858354d24688261f7d34d7] Subsection (1) is subject to sections 18 and 19 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 (2) Without prejudice to the generality of subsection (1) above, regulations under this section—
 
@@ -65,7 +65,7 @@ and any provisions of the said Act of 1971, or of regulations made under section
 
 [^c8518671]: Modification: S. 7: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1) Table H1
 
-[^key-3485f48ffa858354d24688261f7d34d7]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/1972/11/section/7/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/8) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/d)
+[^c-3485f48ffa858354d24688261f7d34d7]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/1972/11/section/7/1A) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/8) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/d)
 
 [^c8518681]: Modification: S. 7(3) extended by [Pensions (Increase) Act 1974 (c. 9)](https://www.legislation.gov.uk/ukpga/1974/9), [s. 2(2)](https://www.legislation.gov.uk/ukpga/1974/9/section/2/2)
 

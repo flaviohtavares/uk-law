@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Nuclear Cooperation Agreement[^key-f230e8d482cb79bf9573378b113582ed]
+## 28. Nuclear Cooperation Agreement[^c-f230e8d482cb79bf9573378b113582ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f230e8d482cb79bf9573378b113582ed]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/29/section/28) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/y)
+[^c-f230e8d482cb79bf9573378b113582ed]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2020/29/section/28) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/y)

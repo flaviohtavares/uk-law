@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 550ZC. Power to seize items found during search under section 550ZA[^key-5ba8cc289df00fe228800e9937d24135]
+## 550ZC. Power to seize items found during search under section 550ZA[^c-5ba8cc289df00fe228800e9937d24135]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) anything which that person has reasonable grounds for suspecting is a prohibited item;
 - (b) any other thing which that person has reasonable grounds for suspecting is evidence in relation to an offence.
 
-(2) A person exercising the power in subsection (1) to seize an item within section 550ZA(3)(a) to (f) or anything within subsection (1)(b)[^key-f8257782d3b41fd87aad6bc44438bd9e] may use such force as is reasonable in the circumstances for exercising that power.
+(2) A person exercising the power in subsection (1) to seize an item within section 550ZA(3)(a) to (f) or anything within subsection (1)(b)[^c-f8257782d3b41fd87aad6bc44438bd9e] may use such force as is reasonable in the circumstances for exercising that power.
 
 (3) A person who seizes alcohol under subsection (1) may retain or dispose of the alcohol and its container.
 
@@ -41,7 +41,7 @@ summary: ''
 
 (6) In determining, for the purposes of subsections (4) and (5), whether there is a good reason to dispose of a controlled drug or to return a stolen article to its owner, retain it or dispose of it, the person must have regard to any guidance issued by the Secretary of State.
 
-(6A)[^key-137dcd3ae0497313d0757d28eaa38c58] A person who seizes an item that is a prohibited item by virtue of section 550ZA(3)(ea) (article used in commission of offence or to cause personal injury or damage to property) under subsection (1) must—
+(6A)[^c-137dcd3ae0497313d0757d28eaa38c58] A person who seizes an item that is a prohibited item by virtue of section 550ZA(3)(ea) (article used in commission of offence or to cause personal injury or damage to property) under subsection (1) must—
 
 - (a) deliver the item to a police constable as soon as reasonably practicable,
 - (b) return the item to its owner,
@@ -74,16 +74,16 @@ summary: ''
 
 must deliver it to a police constable as soon as reasonably practicable.
 
-(9) Subsection (8)(c) is subject to subsections (3), (4), (5) and (6A)[^key-fa9df854491396384c5bf2adb25553b2] and regulations made under subsection (7).
+(9) Subsection (8)(c) is subject to subsections (3), (4), (5) and (6A)[^c-fa9df854491396384c5bf2adb25553b2] and regulations made under subsection (7).
 
 (10) In subsections (3) to (8), references to alcohol, a controlled drug, a stolen article, an article to which section 139 of the Criminal Justice Act 1988 applies and an offensive weapon include references to anything which the person has reasonable grounds for suspecting is alcohol, a controlled drug, a stolen article, an article to which section 139 of the Criminal Justice Act 1988 applies or an offensive weapon.
 
 ## Annotations
 
-[^key-5ba8cc289df00fe228800e9937d24135]: Textual amendment: Ss. 550ZA-550ZD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/242/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-5ba8cc289df00fe228800e9937d24135]: Textual amendment: Ss. 550ZA-550ZD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/242/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
 
-[^key-f8257782d3b41fd87aad6bc44438bd9e]: Textual amendment: Words in s. 550ZC(2) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/4/a), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-f8257782d3b41fd87aad6bc44438bd9e]: Textual amendment: Words in s. 550ZC(2) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/4/a), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-137dcd3ae0497313d0757d28eaa38c58]: Textual amendment: Ss. 550ZC(6A)-(6G) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/4/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-137dcd3ae0497313d0757d28eaa38c58]: Textual amendment: Ss. 550ZC(6A)-(6G) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/4/b), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-fa9df854491396384c5bf2adb25553b2]: Textual amendment: Words in s. 550ZC(9) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/4/c), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-fa9df854491396384c5bf2adb25553b2]: Textual amendment: Words in s. 550ZC(9) substituted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 2(4)(c)](https://www.legislation.gov.uk/ukpga/2011/21/section/2/4/c), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

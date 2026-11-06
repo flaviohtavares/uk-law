@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Protected taxpayer information[^key-3d65b9cd3c1615d44f313196d3f22ae2]
+## 14. Protected taxpayer information[^c-3d65b9cd3c1615d44f313196d3f22ae2]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d65b9cd3c1615d44f313196d3f22ae2]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/16/section/14) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-3d65b9cd3c1615d44f313196d3f22ae2]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2014/16/section/14) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

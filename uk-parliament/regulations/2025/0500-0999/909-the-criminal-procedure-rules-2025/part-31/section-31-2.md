@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.2. Behaviour orders and bind overs: general rules[^key-71aa92d2a92f9e3332085232fecc25ad]
+## 31.2. Behaviour orders and bind overs: general rules[^c-71aa92d2a92f9e3332085232fecc25ad]
 
 *Extent: E+W*
 
@@ -43,14 +43,14 @@ summary: ''
 
 the court must announce, at a hearing in public, the reasons for its decision.
 
-*\[Note. The Acts listed in the note to rule 31.1 impose requirements specific to each different type of behaviour order. Not all allow the court to make an interim behaviour order.* See section 34 of the Domestic Abuse Act 2021 about making a domestic abuse protection order without notice.[^key-72a63e4fc3f65086382dfaa888baec9e]
+*\[Note. The Acts listed in the note to rule 31.1 impose requirements specific to each different type of behaviour order. Not all allow the court to make an interim behaviour order.* See section 34 of the Domestic Abuse Act 2021 about making a domestic abuse protection order without notice.[^c-72a63e4fc3f65086382dfaa888baec9e]
 
-*Reasons for a decision to make no order are required by section 14A(3) of the Football Spectators Act 1989 (football banning order) and section 366(3) of the Sentencing Act 2020[^key-f48902e7f3fa8ff71f62dbb4ec078495]**(parenting order).*
+*Reasons for a decision to make no order are required by section 14A(3) of the Football Spectators Act 1989 (football banning order) and section 366(3) of the Sentencing Act 2020[^c-f48902e7f3fa8ff71f62dbb4ec078495]**(parenting order).*
 
 ## Annotations
 
-[^key-71aa92d2a92f9e3332085232fecc25ad]: Commencement: Rule 31.2 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-71aa92d2a92f9e3332085232fecc25ad]: Commencement: Rule 31.2 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-72a63e4fc3f65086382dfaa888baec9e]: Textual amendment: Words in rule 31.2 Note inserted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [9(b)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/9/b/i)
+[^c-72a63e4fc3f65086382dfaa888baec9e]: Textual amendment: Words in rule 31.2 Note inserted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [9(b)(i)](https://www.legislation.gov.uk/uksi/2026/47/rule/9/b/i)
 
-[^key-f48902e7f3fa8ff71f62dbb4ec078495]: Textual amendment: Words in rule 31.2 Note substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2026/47/rule/9/b/ii)
+[^c-f48902e7f3fa8ff71f62dbb4ec078495]: Textual amendment: Words in rule 31.2 Note substituted (6.4.2026) by [The Criminal Procedure (Amendment) Rules 2026 (S.I. 2026/47)](https://www.legislation.gov.uk/uksi/2026/47), [rules 3](https://www.legislation.gov.uk/uksi/2026/47/rule/3), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2026/47/rule/9/b/ii)

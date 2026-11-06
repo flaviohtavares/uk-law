@@ -60,7 +60,7 @@ An Act to establish a Sea Fish Industry Authority with the duty of promoting the
 - [Section 13 — Abolition of White Fish Authority and Herring Industry Board.](part-i/section-13.md)
 - [Section 14 — Interpretation of Part I.](part-i/section-14.md)
 
-### Part II — Financial Assistance for Sea Fish Industry[^key-e55bd9394d37e7b000bae5b1d38209fd]
+### Part II — Financial Assistance for Sea Fish Industry[^c-e55bd9394d37e7b000bae5b1d38209fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ An Act to establish a Sea Fish Industry Authority with the duty of promoting the
 - [Section 18 — Interpretation of Part II.](part-ii/section-18.md)
 - [Section 18A](part-ii/section-18a.md)
 
-### Part III — Regulation of Sea Fishing[^key-c229abe86699b344c09294ef172dcbc0][^key-c5b3fa647cb4e5f98d78ce361166ddbb]
+### Part III — Regulation of Sea Fishing[^c-c229abe86699b344c09294ef172dcbc0][^c-c5b3fa647cb4e5f98d78ce361166ddbb]
 
 - [Section 19 — Size limits for fish.](part-iii/section-19.md)
 - [Section 20 — Licensing of fishing boats.](part-iii/section-20.md)
@@ -87,7 +87,7 @@ An Act to establish a Sea Fish Industry Authority with the duty of promoting the
 - [Section 29 — Jurisdiction.](part-iii/section-29.md)
 - [Section 30 — Enforcement of rules relating to sea fishing.](part-iii/section-30.md)
 
-### Part IV — Fish Farming[^key-c229abe86699b344c09294ef172dcbc0][^key-c5b3fa647cb4e5f98d78ce361166ddbb]
+### Part IV — Fish Farming[^c-c229abe86699b344c09294ef172dcbc0][^c-c5b3fa647cb4e5f98d78ce361166ddbb]
 
 *Extent: E+W+S*
 
@@ -123,8 +123,8 @@ SCHEDULES
 
 [^c8101531]: Modification: Act: transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-e55bd9394d37e7b000bae5b1d38209fd]: Textual amendment: Pt. 2 omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/1/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-e55bd9394d37e7b000bae5b1d38209fd]: Textual amendment: Pt. 2 omitted (23.11.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(c)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/c), [Sch. 6 para. 4(1)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/6/paragraph/4/1/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-c229abe86699b344c09294ef172dcbc0]: Modification: Pts. II-IV: transfer of functions (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [4(1)(e)](https://www.legislation.gov.uk/uksi/2010/760/article/4/1/e) (with [arts. 5(2)](https://www.legislation.gov.uk/uksi/2010/760/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2010/760/article/5/3), [6(2)](https://www.legislation.gov.uk/uksi/2010/760/article/6/2))
+[^c-c229abe86699b344c09294ef172dcbc0]: Modification: Pts. II-IV: transfer of functions (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [4(1)(e)](https://www.legislation.gov.uk/uksi/2010/760/article/4/1/e) (with [arts. 5(2)](https://www.legislation.gov.uk/uksi/2010/760/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2010/760/article/5/3), [6(2)](https://www.legislation.gov.uk/uksi/2010/760/article/6/2))
 
-[^key-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-c5b3fa647cb4e5f98d78ce361166ddbb]: Modification: Pts. 2-4 functions transferred (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 53(2)(c)(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/53/2/c/3), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

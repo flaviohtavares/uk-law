@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Suspension of requirement to hold inquest with jury: Northern Ireland[^key-5be7c747d28b72fd79d7f0cd0564598a]
+## 31. Suspension of requirement to hold inquest with jury: Northern Ireland[^c-5be7c747d28b72fd79d7f0cd0564598a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5be7c747d28b72fd79d7f0cd0564598a]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2020/7/section/31) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-5be7c747d28b72fd79d7f0cd0564598a]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2020/7/section/31) expires (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

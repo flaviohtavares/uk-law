@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Guidance for chief constable[^key-9ce29e5960707572630a04cd5efedfa4][^key-9a5a2d0cdaf9b93f51b6a4d583275331]
+## 89. Guidance for chief constable[^c-9ce29e5960707572630a04cd5efedfa4][^c-9a5a2d0cdaf9b93f51b6a4d583275331]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ After section 84 of the PVG Act insert—
 
 ## Annotations
 
-[^key-9ce29e5960707572630a04cd5efedfa4]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2020/13/section/89) in force at 10.12.2021 for specified purposes by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-9ce29e5960707572630a04cd5efedfa4]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2020/13/section/89) in force at 10.12.2021 for specified purposes by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
 
-[^key-9a5a2d0cdaf9b93f51b6a4d583275331]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2020/13/section/89) in force at 1.4.2023 in so far as not already in force by [S.S.I. 2023/79](https://www.legislation.gov.uk/ssi/2023/79), [reg. 2](https://www.legislation.gov.uk/ssi/2023/79/regulation/2)
+[^c-9a5a2d0cdaf9b93f51b6a4d583275331]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2020/13/section/89) in force at 1.4.2023 in so far as not already in force by [S.S.I. 2023/79](https://www.legislation.gov.uk/ssi/2023/79), [reg. 2](https://www.legislation.gov.uk/ssi/2023/79/regulation/2)

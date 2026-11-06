@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Regional spatial strategies: climate change policies[^key-2e71288c6490a0a66ef3014e2da08d43][^key-462769a564ac6c6c9483dbe7a9db10a4]
+## 181. Regional spatial strategies: climate change policies[^c-2e71288c6490a0a66ef3014e2da08d43][^c-462769a564ac6c6c9483dbe7a9db10a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e71288c6490a0a66ef3014e2da08d43]: Textual amendment: S. 181 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
+[^c-2e71288c6490a0a66ef3014e2da08d43]: Textual amendment: S. 181 repealed (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 146(3)](https://www.legislation.gov.uk/ukpga/2009/20/section/146/3), [148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/4); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ii)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ii)
 
-[^key-462769a564ac6c6c9483dbe7a9db10a4]: Commencement: S. 181 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/400/article/3/e)
+[^c-462769a564ac6c6c9483dbe7a9db10a4]: Commencement: S. 181 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(e)](https://www.legislation.gov.uk/uksi/2009/400/article/3/e)

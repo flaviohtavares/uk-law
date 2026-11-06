@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 41(1) and 42 of the Finance Act 2008 [^c19951941].
 
-In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this instrument was laid before the House of Commons and approved by a resolution of that House.[^key-2cb38ea0df72472197d9c1ba2d8a50b1][^key-5f498c1a0625b818a19fcf47ddb8d187][^key-0f6da4ef27cea3acd3ede358729bc60a][^key-8f1d835f4df98cd6629e9725f8aa0d4a][^key-8f553bd17097c5ad9d87a3651dc7ba8c][^key-fe3140d6507be9de3a8616c58f2e947f][^key-2387bad8bc6b5a79886d1412a5b38631][^key-daba49093e047e5931d5c71491809b40][^key-722f531513e38a00b985fae4a0fe9c0a]
+In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this instrument was laid before the House of Commons and approved by a resolution of that House.[^c-2cb38ea0df72472197d9c1ba2d8a50b1][^c-5f498c1a0625b818a19fcf47ddb8d187][^c-0f6da4ef27cea3acd3ede358729bc60a][^c-8f1d835f4df98cd6629e9725f8aa0d4a][^c-8f553bd17097c5ad9d87a3651dc7ba8c][^c-fe3140d6507be9de3a8616c58f2e947f][^c-2387bad8bc6b5a79886d1412a5b38631][^c-daba49093e047e5931d5c71491809b40][^c-722f531513e38a00b985fae4a0fe9c0a]
 
 ## Contents
 
@@ -190,7 +190,7 @@ In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this i
 - [Section 55 — Response by HMRC to application](part-3/section-55.md)
 - [Section 56 — Appeal against rejection of application](part-3/section-56.md)
 
-#### CHAPTER 2A — AMENDMENT TO APPLICATION FOR THIS PART TO APPLY[^key-b41c1987844bd90fa2722b7fef471fa9]
+#### CHAPTER 2A — AMENDMENT TO APPLICATION FOR THIS PART TO APPLY[^c-b41c1987844bd90fa2722b7fef471fa9]
 
 *Extent: E+W+S+N.I.*
 
@@ -217,7 +217,7 @@ In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this i
 - [Section 62 — Duty to provide computation](part-3/section-62.md)
 - [Section 63 — Computation of reportable income: general](part-3/section-63.md)
 
-##### Adjustments for capital items and miscellaneous items[^key-97a0f5bcb12d188a15b8f2b3b38860bb]
+##### Adjustments for capital items and miscellaneous items[^c-97a0f5bcb12d188a15b8f2b3b38860bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -242,7 +242,7 @@ In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this i
 
 - [Section 72 — Treatment of reporting funds operating equalisation arrangements](part-3/section-72.md)
 
-##### Adjustments where funds do not operate equalisation arrangements[^key-776e18df5fdac5abc16fdc4f95da5c77]
+##### Adjustments where funds do not operate equalisation arrangements[^c-776e18df5fdac5abc16fdc4f95da5c77]
 
 - [Section 72A — Reporting Funds not operating equalisation: income adjustments based on reportable income for computation periods](part-3/section-72a.md)
 - [Section 72B — Reporting Funds not operating equalisation: income adjustments based on accounting income for computation periods](part-3/section-72b.md)
@@ -276,7 +276,7 @@ In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this i
 - [Section 88 — Meaning of “units in a collective investment scheme”](part-3/section-88.md)
 - [Section 89 — Meaning of “transaction in a carbon emission trading product”](part-3/section-89.md)
 
-#### CHAPTER 6A — TRANSPARENT REPORTING FUNDS[^key-a4663699366052dd724eb0195138d783]
+#### CHAPTER 6A — TRANSPARENT REPORTING FUNDS[^c-a4663699366052dd724eb0195138d783]
 
 *Extent: E+W+S+N.I.*
 
@@ -364,7 +364,7 @@ In accordance with section 42A(2)(c) of that Act [^c19951951], a draft of this i
 - [Section 123 — Modified application of Chapter 10](part-3/section-123.md)
 - [Section 124 — Disapplication of Chapter 11](part-3/section-124.md)
 
-### PART 3A — ANNUAL PAYMENTS TO NON-RESIDENTS[^key-72f227c1743a5e2143ff6e5e43a7bd2e]
+### PART 3A — ANNUAL PAYMENTS TO NON-RESIDENTS[^c-72f227c1743a5e2143ff6e5e43a7bd2e]
 
 - [Section 124A — Annual Payments – duty to deduct income tax](part-3a/section-124a.md)
 - [Section 124B — Consequences of reasonable but incorrect belief](part-3a/section-124b.md)
@@ -459,30 +459,30 @@ A full impact assessment of the effect that the new legislation relating to offs
 
 [^c19951951]: Marginal citation: Section 42A was inserted by paragraph 5 of Schedule 22 to the Finance Act 2009.
 
-[^key-2cb38ea0df72472197d9c1ba2d8a50b1]: Modification: Regulations applied (with modifications) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 7(5)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/7/5) (as inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/21))
+[^c-2cb38ea0df72472197d9c1ba2d8a50b1]: Modification: Regulations applied (with modifications) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 7(5)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/7/5) (as inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/21))
 
-[^key-5f498c1a0625b818a19fcf47ddb8d187]: Modification: Regulations applied (with modifications) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 13(3)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/13/3) (as inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/21))
+[^c-5f498c1a0625b818a19fcf47ddb8d187]: Modification: Regulations applied (with modifications) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 13(3)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/13/3) (as inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/21))
 
-[^key-0f6da4ef27cea3acd3ede358729bc60a]: Modification: Regulations applied (with modifications) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 46(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/46/4) (as inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/21))
+[^c-0f6da4ef27cea3acd3ede358729bc60a]: Modification: Regulations applied (with modifications) by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 46(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/46/4) (as inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/21))
 
-[^key-8f1d835f4df98cd6629e9725f8aa0d4a]: Modification: Regulations modified (11.7.2023) by [2022 c. 3](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 9(3)(za)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/9/3/za) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/a))
+[^c-8f1d835f4df98cd6629e9725f8aa0d4a]: Modification: Regulations modified (11.7.2023) by [2022 c. 3](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 9(3)(za)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/9/3/za) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 12(3)(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/12/3/a))
 
-[^key-8f553bd17097c5ad9d87a3651dc7ba8c]: Modification: Regulations modified (11.7.2023) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 528ZB(2A)](https://www.legislation.gov.uk/ukpga/2010/4/section/528ZB/2A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/5/3))
+[^c-8f553bd17097c5ad9d87a3651dc7ba8c]: Modification: Regulations modified (11.7.2023) by [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4), [s. 528ZB(2A)](https://www.legislation.gov.uk/ukpga/2010/4/section/528ZB/2A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/5/3))
 
-[^key-fe3140d6507be9de3a8616c58f2e947f]: Modification: Regulations modified (11.7.2023) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 7(5A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/7/5A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/1/2/b))
+[^c-fe3140d6507be9de3a8616c58f2e947f]: Modification: Regulations modified (11.7.2023) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 7(5A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/7/5A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/1/2/b))
 
-[^key-2387bad8bc6b5a79886d1412a5b38631]: Modification: Regulations modified (11.7.2023) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 46(4A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/46/4A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/1/4/b))
+[^c-2387bad8bc6b5a79886d1412a5b38631]: Modification: Regulations modified (11.7.2023) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 46(4A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/46/4A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 1(4)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/1/4/b))
 
-[^key-daba49093e047e5931d5c71491809b40]: Modification: Regulations modified (11.7.2023) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 13(3A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/13/3A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/1/3/b))
+[^c-daba49093e047e5931d5c71491809b40]: Modification: Regulations modified (11.7.2023) by [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5AAA para. 13(3A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/5AAA/paragraph/13/3A) (as inserted by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 4 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/4/paragraph/1/3/b))
 
-[^key-722f531513e38a00b985fae4a0fe9c0a]: Modification: Regulations modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/200/regulation/7/4) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-722f531513e38a00b985fae4a0fe9c0a]: Modification: Regulations modified (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2025/200/regulation/7/4) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-b41c1987844bd90fa2722b7fef471fa9]: Textual amendment: Pt. 3 Ch. 2A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2011/1211/regulation/8)
+[^c-b41c1987844bd90fa2722b7fef471fa9]: Textual amendment: Pt. 3 Ch. 2A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2011/1211/regulation/8)
 
-[^key-97a0f5bcb12d188a15b8f2b3b38860bb]: Textual amendment: Words in [reg. 64 cross-heading](https://www.legislation.gov.uk/uksi/2009/3001/part/3/chapter/5/crossheading/adjustments-for-capital-items) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2017 (S.I. 2017/240)](https://www.legislation.gov.uk/uksi/2017/240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/240/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/240/regulation/2/2/b)
+[^c-97a0f5bcb12d188a15b8f2b3b38860bb]: Textual amendment: Words in [reg. 64 cross-heading](https://www.legislation.gov.uk/uksi/2009/3001/part/3/chapter/5/crossheading/adjustments-for-capital-items) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2017 (S.I. 2017/240)](https://www.legislation.gov.uk/uksi/2017/240), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/240/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/240/regulation/2/2/b)
 
-[^key-776e18df5fdac5abc16fdc4f95da5c77]: Textual amendment: Regs. 72A-72C and cross-heading inserted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/1411/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))
+[^c-776e18df5fdac5abc16fdc4f95da5c77]: Textual amendment: Regs. 72A-72C and cross-heading inserted (28.6.2013) by [The Offshore Funds (Tax) (Amendment No. 2) Regulations 2013 (S.I. 2013/1411)](https://www.legislation.gov.uk/uksi/2013/1411), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2013/1411/regulation/6) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2013/1411/regulation/1/4))
 
-[^key-a4663699366052dd724eb0195138d783]: Textual amendment: Pt. 3 Ch. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2011/1211/regulation/24)
+[^c-a4663699366052dd724eb0195138d783]: Textual amendment: Pt. 3 Ch. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2011/1211/regulation/24)
 
-[^key-72f227c1743a5e2143ff6e5e43a7bd2e]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/3001/part/3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment No. 3) Regulations 2013 (S.I. 2013/1770)](https://www.legislation.gov.uk/uksi/2013/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/2/3)
+[^c-72f227c1743a5e2143ff6e5e43a7bd2e]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2009/3001/part/3A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment No. 3) Regulations 2013 (S.I. 2013/1770)](https://www.legislation.gov.uk/uksi/2013/1770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/1770/regulation/2/3)

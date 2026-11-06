@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Application of certain provisions to civil partnerships[^key-0fd36f1c0701f687c8b07ec963b448d0][^c20863221]
+## 98. Application of certain provisions to civil partnerships[^c-0fd36f1c0701f687c8b07ec963b448d0][^c20863221]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd36f1c0701f687c8b07ec963b448d0]: Modification: S. 98 modified (24.3.2016) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Order 2016 (S.S.I. 2016/67)](https://www.legislation.gov.uk/ssi/2016/67), [arts. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1), [4](https://www.legislation.gov.uk/ssi/2016/67/article/4) (as amended (23.9.2022) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Amendment Order 2022 (S.S.I. 2022/202)](https://www.legislation.gov.uk/ssi/2022/202), [arts. 1](https://www.legislation.gov.uk/ssi/2022/202/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/202/article/2/2))
+[^c-0fd36f1c0701f687c8b07ec963b448d0]: Modification: S. 98 modified (24.3.2016) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Order 2016 (S.S.I. 2016/67)](https://www.legislation.gov.uk/ssi/2016/67), [arts. 1](https://www.legislation.gov.uk/ssi/2016/67/article/1), [4](https://www.legislation.gov.uk/ssi/2016/67/article/4) (as amended (23.9.2022) by [The Gender Recognition (Marriage and Civil Partnership Registration) (Modification) (Scotland) Amendment Order 2022 (S.S.I. 2022/202)](https://www.legislation.gov.uk/ssi/2022/202), [arts. 1](https://www.legislation.gov.uk/ssi/2022/202/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/202/article/2/2))
 
 [^c20863221]: Textual amendment: S. 98 substituted (1.10.2006 for certain purposes and 1.1.2007 for further certain purposes and otherwise prosp.) by [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 52(6)](https://www.legislation.gov.uk/asp/2006/14/section/52/6), [63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [arts. 2](https://www.legislation.gov.uk/ssi/2006/469/article/2), [3](https://www.legislation.gov.uk/ssi/2006/469/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/469/schedule/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/469/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Termination of agreement or provision of agreement[^key-36972729c7a704288c0c987be8070f50][^key-9a1f782e8ce050b4829cb085121ea059]
+## 115. Termination of agreement or provision of agreement[^c-36972729c7a704288c0c987be8070f50][^c-9a1f782e8ce050b4829cb085121ea059]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-36972729c7a704288c0c987be8070f50]: Commencement: S. 115 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-36972729c7a704288c0c987be8070f50]: Commencement: S. 115 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-9a1f782e8ce050b4829cb085121ea059]: Commencement: [S. 115](https://www.legislation.gov.uk/asc/2023/3/section/115) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-9a1f782e8ce050b4829cb085121ea059]: Commencement: [S. 115](https://www.legislation.gov.uk/asc/2023/3/section/115) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

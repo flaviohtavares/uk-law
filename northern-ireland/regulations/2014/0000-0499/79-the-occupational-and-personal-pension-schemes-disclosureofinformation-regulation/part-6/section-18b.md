@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18B. Information to be given on communicating with a member about what the member may do with flexible benefits[^key-4d14690d495d75fd903c7fc95ca2459a]
+## 18B. Information to be given on communicating with a member about what the member may do with flexible benefits[^c-4d14690d495d75fd903c7fc95ca2459a]
 
 *Extent: N.I.*
 
-(1) Subject to paragraph (5) and regulation 18C[^key-64e44ffdca99771f32cc3899916b1b98], the information mentioned in paragraph (2) must be given to a member in accordance with this regulation where—
+(1) Subject to paragraph (5) and regulation 18C[^c-64e44ffdca99771f32cc3899916b1b98], the information mentioned in paragraph (2) must be given to a member in accordance with this regulation where—
 
 - (a) the member has an opportunity to transfer flexible benefits;
 - (b) the trustees or managers of the scheme contact the member, or the member contacts the trustees or managers of the scheme, in connection with what the member may do with the flexible benefits, and
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d14690d495d75fd903c7fc95ca2459a]: Textual amendment: [Regs. 18A-18B](https://www.legislation.gov.uk/nisr/2014/79/regulation/18A) inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/154/regulation/6)
+[^c-4d14690d495d75fd903c7fc95ca2459a]: Textual amendment: [Regs. 18A-18B](https://www.legislation.gov.uk/nisr/2014/79/regulation/18A) inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/154)](https://www.legislation.gov.uk/nisr/2015/154), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/154/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/154/regulation/6)
 
-[^key-64e44ffdca99771f32cc3899916b1b98]: Textual amendment: Words in [reg. 18B(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/18B/1) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/115)](https://www.legislation.gov.uk/nisr/2022/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/115/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2022/115/regulation/2/5)
+[^c-64e44ffdca99771f32cc3899916b1b98]: Textual amendment: Words in [reg. 18B(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/18B/1) inserted (1.6.2022) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Requirements to Refer Members to Guidance etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/115)](https://www.legislation.gov.uk/nisr/2022/115), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/115/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2022/115/regulation/2/5)

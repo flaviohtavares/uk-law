@@ -55,7 +55,7 @@ summary: ''
 (6) In this Part—
 
 - (a) “**defence contract**” means—
-  - (i)[^key-ef5460423736494b90b3c57362cce0d4] any contract to which the Secretary of State is a party which is for, or substantially for, defence purposes (within the meaning of regulation 3); or
+  - (i)[^c-ef5460423736494b90b3c57362cce0d4] any contract to which the Secretary of State is a party which is for, or substantially for, defence purposes (within the meaning of regulation 3); or
   - (ii) any contract entered into for the purpose of enabling a contract within paragraph (i), or this paragraph, to be fulfilled;
 - (b) “**the designated person**” means—
   - (i) where the person mentioned in regulation 31(1) (“P”) is associated with one or more other persons, the ultimate parent undertaking in relation to P and those other persons,
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef5460423736494b90b3c57362cce0d4]: Textual amendment: [Reg. 32(6)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/32/6/a/i) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2024/420/regulation/37)
+[^c-ef5460423736494b90b3c57362cce0d4]: Textual amendment: [Reg. 32(6)(a)(i)](https://www.legislation.gov.uk/uksi/2014/3337/regulation/32/6/a/i) substituted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2024/420/regulation/37)

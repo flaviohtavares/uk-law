@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.28. Information from receiver[^key-272eb44c8ca3d1d5a1f1f9d2756c61a1]
+## 3.28. Information from receiver[^c-272eb44c8ca3d1d5a1f1f9d2756c61a1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-272eb44c8ca3d1d5a1f1f9d2756c61a1]: Commencement: [Rule 3.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-272eb44c8ca3d1d5a1f1f9d2756c61a1]: Commencement: [Rule 3.28](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.28) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

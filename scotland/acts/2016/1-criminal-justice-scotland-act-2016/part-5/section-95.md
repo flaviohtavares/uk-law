@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Courts reform: spent provisions[^key-d4ab519db5851137abee46b98e1ed4d9]
+## 95. Courts reform: spent provisions[^c-d4ab519db5851137abee46b98e1ed4d9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In schedule 3 to the Courts Reform (Scotland) Act 2014, the following provisions
 
 ## Annotations
 
-[^key-d4ab519db5851137abee46b98e1ed4d9]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2016/1/section/95) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-d4ab519db5851137abee46b98e1ed4d9]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2016/1/section/95) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

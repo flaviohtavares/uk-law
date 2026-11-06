@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Police fund[^key-04e2579086d57c5866c7a04cb689cc1f][^key-cfa80b70a11ed9a6de0d013f80aabaa5][^key-ac8f7d25a95218b062ecd191878d6899][^key-8b240e3390156dfcdf62924f67b500c2]
+## 21. Police fund[^c-04e2579086d57c5866c7a04cb689cc1f][^c-cfa80b70a11ed9a6de0d013f80aabaa5][^c-ac8f7d25a95218b062ecd191878d6899][^c-8b240e3390156dfcdf62924f67b500c2]
 
 *Extent: E+W*
 
@@ -34,10 +34,10 @@ summary: ''
 
 ## Annotations
 
-[^key-04e2579086d57c5866c7a04cb689cc1f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-04e2579086d57c5866c7a04cb689cc1f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-cfa80b70a11ed9a6de0d013f80aabaa5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-cfa80b70a11ed9a6de0d013f80aabaa5]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
 
-[^key-ac8f7d25a95218b062ecd191878d6899]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/22)
+[^c-ac8f7d25a95218b062ecd191878d6899]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/22)
 
-[^key-8b240e3390156dfcdf62924f67b500c2]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/22)
+[^c-8b240e3390156dfcdf62924f67b500c2]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/2011/13/section/21) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 22](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/22)

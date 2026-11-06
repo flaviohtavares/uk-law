@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Defence to proceedings in respect of statutory nuisance[^key-d749becf54e6990677d947d166f7b840]
+## 8. Defence to proceedings in respect of statutory nuisance[^c-d749becf54e6990677d947d166f7b840]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d749becf54e6990677d947d166f7b840]: Commencement: Art. 8 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-d749becf54e6990677d947d166f7b840]: Commencement: Art. 8 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
 [^f00022]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Amended by section 103 of the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16). There are other amendments not relevant to this Order.
 

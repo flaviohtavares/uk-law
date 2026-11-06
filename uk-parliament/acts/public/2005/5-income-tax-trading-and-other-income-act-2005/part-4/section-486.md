@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 486. Exclusion of maturity of capital redemption policies in certain circumstances[^key-a220697c19562e7a018f5e1f82e9b83c]
+## 486. Exclusion of maturity of capital redemption policies in certain circumstances[^c-a220697c19562e7a018f5e1f82e9b83c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a220697c19562e7a018f5e1f82e9b83c]: Textual amendment: S. 486 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/13)
+[^c-a220697c19562e7a018f5e1f82e9b83c]: Textual amendment: S. 486 omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/13)

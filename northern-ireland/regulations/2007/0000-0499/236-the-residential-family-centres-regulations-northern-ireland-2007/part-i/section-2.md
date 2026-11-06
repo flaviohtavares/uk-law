@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-bd4d619beaaa42232ee0fe401645bfcc]
+## 2. Interpretation[^c-bd4d619beaaa42232ee0fe401645bfcc]
 
 *Extent: N.I.*
 
 (1) In these Regulations—
 
-- “[^key-5fa65f7f23a59e6ee3919730a3c719fa]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “[^c-5fa65f7f23a59e6ee3919730a3c719fa]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
 - “child protection enquiry” means any enquiries carried out by an HSS trust in the exercise of any of its functions conferred by or under the Children Order relating to the protection of children;
-- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-62665599fdea93420f0ef83c109035d9]
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^c-62665599fdea93420f0ef83c109035d9]
 - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1989;
 - “family” means a child and his parent accommodated or to be accommodated together in a residential family centre;
 - “general medical practitioner” means a medical practitioner providing primary medical services;
@@ -34,7 +34,7 @@ summary: ''
 - “personal care” has the same meaning as in Article 10 (3) of the Order;
 - “placement plan” means the written plan prepared in accordance with regulation 15;
 - “placing authority” means, in relation to a family, the HSS trust or other body that has arranged for the family to be accommodated in a residential family centre;
-- “the register” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;[^key-ea96c1ba5754d40db9f2466513088462]
+- “the register” means the register of social care workers maintained by the Northern Ireland Social Care Council under section 3(1) of the 2001 Act;[^c-ea96c1ba5754d40db9f2466513088462]
 - “relative” in relation to any person, means—
   - (a) the person’s spouse or civil partner;
   - (b) any parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece of his or his spouse or civil partner;
@@ -57,14 +57,14 @@ summary: ''
 
 ## Annotations
 
-[^key-bd4d619beaaa42232ee0fe401645bfcc]: Commencement: Reg. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-bd4d619beaaa42232ee0fe401645bfcc]: Commencement: Reg. 2 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-5fa65f7f23a59e6ee3919730a3c719fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/236/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/43/2)
+[^c-5fa65f7f23a59e6ee3919730a3c719fa]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/236/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 43(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/43/2)
 
-[^key-62665599fdea93420f0ef83c109035d9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/236/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 50(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/50/2)
+[^c-62665599fdea93420f0ef83c109035d9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/236/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 50(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/50/2)
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265) Article 15C was inserted by Article 6(3) of the Primary Medical Services (Northern Ireland) Order 2004 (S.I. [2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311))
 
-[^key-ea96c1ba5754d40db9f2466513088462]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/236/regulation/2/1) inserted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2017/207/regulation/13/2)
+[^c-ea96c1ba5754d40db9f2466513088462]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/236/regulation/2/1) inserted (27.10.2017) by [The Northern Ireland Social Care Council (Social Care Workers Prohibition) and Fitness of Workers (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/207)](https://www.legislation.gov.uk/nisr/2017/207), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/207/regulation/1/1), [13(2)](https://www.legislation.gov.uk/nisr/2017/207/regulation/13/2)
 
 [^f00003]: Footnote: S.I. [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)

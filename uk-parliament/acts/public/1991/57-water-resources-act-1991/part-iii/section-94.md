@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94. Nitrate sensitive areas.[^key-3cd4f907d452cbbe383be3fd1929f75e]
+## 94. Nitrate sensitive areas.[^c-3cd4f907d452cbbe383be3fd1929f75e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd4f907d452cbbe383be3fd1929f75e]: Textual amendment: S. 94 repealed (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2009/3104/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))
+[^c-3cd4f907d452cbbe383be3fd1929f75e]: Textual amendment: S. 94 repealed (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [4](https://www.legislation.gov.uk/uksi/2009/3104/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))

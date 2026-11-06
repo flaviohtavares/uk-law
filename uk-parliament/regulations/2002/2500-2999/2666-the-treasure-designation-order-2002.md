@@ -43,15 +43,15 @@ Whereas a draft of this Order has been laid before, and approved by resolution o
 
 Now, therefore, the Secretary of State, in exercise of the powers conferred upon her by section 2(1) and (3) of the Treasure Act 1996 and all other powers enabling her in that behalf, hereby makes the following order:
 
-## Part 1 — Introductory provisions[^key-0aa545be6222a13f4efd20f469bd11f6]
+## Part 1 — Introductory provisions[^c-0aa545be6222a13f4efd20f469bd11f6]
 
-### 1. Citation, commencement and application[^key-d7b96806730592763f9bdc46fb1c081e]
+### 1. Citation, commencement and application[^c-d7b96806730592763f9bdc46fb1c081e]
 
 (1) This Order may be cited as the Treasure (Designation) Order 2002 and shall come into force on 1st January 2003.
 
 (2) This Order applies only in relation to objects found on or after the date when it comes into force.
 
-### 2. Interpretation[^key-990a59bbc4a0b4d03a5a8877da5b8ea1]
+### 2. Interpretation[^c-990a59bbc4a0b4d03a5a8877da5b8ea1]
 
 In this Order—
 
@@ -59,17 +59,17 @@ In this Order—
 - “base metal” means any metal other than gold or silver; and
 - “of prehistoric date” means dating from the Iron Age or any earlier period.
 
-## Part 2 — Designation of classes of objects of outstanding historical, archaeological or cultural importance[^key-84086069d29d6b48be07df6b86c72f3a]
+## Part 2 — Designation of classes of objects of outstanding historical, archaeological or cultural importance[^c-84086069d29d6b48be07df6b86c72f3a]
 
-### 3. ...[^key-17d2eeb14793796e526fc956bd9c2269][^key-8b213fbe70ad390e68ac776352f75d0f]
+### 3. ...[^c-17d2eeb14793796e526fc956bd9c2269][^c-8b213fbe70ad390e68ac776352f75d0f]
 
-(1)[^key-d78322f83a2b831738b2cb1d4c3193bd] The following classes of objects are designated pursuant to section 2(1) of the Act.
+(1)[^c-d78322f83a2b831738b2cb1d4c3193bd] The following classes of objects are designated pursuant to section 2(1) of the Act.
 
 - (a) any object (other than a coin), any part of which is base metal, which, when found is one of at least two base metal objects in the same find which are of prehistoric date;
 - (b) any object, (other than a coin) which is of prehistoric date, and any part of which is gold or silver;
-- (c)[^key-a114b497b2526b4de0ba1c1e5b66fa4f] any object, any part of which is metal, which satisfies paragraph (2).
+- (c)[^c-a114b497b2526b4de0ba1c1e5b66fa4f] any object, any part of which is metal, which satisfies paragraph (2).
 
-(2)[^key-b9c9c978624ece8df60a429dc0828857] An object satisfies this paragraph if—
+(2)[^c-b9c9c978624ece8df60a429dc0828857] An object satisfies this paragraph if—
 
 - (a) it provides an exceptional insight into an aspect of national or regional history, archaeology or culture by virtue of one or more of the following—
   - (i) its rarity as an example of its type found in the United Kingdom,
@@ -77,7 +77,7 @@ In this Order—
   - (iii) its connection with a particular person or event; or
 - (b) although it does not, on its own, provide such an insight, it is, when found, part of the same find as one or more other objects, and provides such an insight when taken together with those objects.
 
-## Part 3 — Designation of classes of objects which are excluded from the definition of treasure[^key-b8bf479a1d47e0ab3f32971177ff87a3]
+## Part 3 — Designation of classes of objects which are excluded from the definition of treasure[^c-b8bf479a1d47e0ab3f32971177ff87a3]
 
 **4.** (1) The following classes of objects, to the extent that they would be treasure apart from this Order, are designated pursuant to section 2(2) of the Act—
 
@@ -112,22 +112,22 @@ The second class of object is any object (other than a coin) of prehistoric date
 
 [^f00001]: Footnote: [1996 c. 24](https://www.legislation.gov.uk/ukpga/1996/24).
 
-[^key-0aa545be6222a13f4efd20f469bd11f6]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2002/2666/part/1) heading inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/404/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-0aa545be6222a13f4efd20f469bd11f6]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2002/2666/part/1) heading inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/404/article/2/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
 
-[^key-d7b96806730592763f9bdc46fb1c081e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/2666/article/1) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2666/article/1/1)
+[^c-d7b96806730592763f9bdc46fb1c081e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2002/2666/article/1) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2666/article/1/1)
 
-[^key-990a59bbc4a0b4d03a5a8877da5b8ea1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/2666/article/2) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2666/article/1/1)
+[^c-990a59bbc4a0b4d03a5a8877da5b8ea1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2002/2666/article/2) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2666/article/1/1)
 
-[^key-84086069d29d6b48be07df6b86c72f3a]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2002/2666/part/2) heading inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/404/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-84086069d29d6b48be07df6b86c72f3a]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2002/2666/part/2) heading inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/404/article/2/3) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
 
-[^key-17d2eeb14793796e526fc956bd9c2269]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2666/article/3) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2666/article/1/1)
+[^c-17d2eeb14793796e526fc956bd9c2269]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2666/article/3) in force at 1.1.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2002/2666/article/1/1)
 
-[^key-8b213fbe70ad390e68ac776352f75d0f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2666/article/3) heading omitted (30.7.2023) by virtue of [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-8b213fbe70ad390e68ac776352f75d0f]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2002/2666/article/3) heading omitted (30.7.2023) by virtue of [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
 
-[^key-d78322f83a2b831738b2cb1d4c3193bd]: Textual amendment: Art. 3 renumbered as art. 3(1) (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-d78322f83a2b831738b2cb1d4c3193bd]: Textual amendment: Art. 3 renumbered as art. 3(1) (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
 
-[^key-a114b497b2526b4de0ba1c1e5b66fa4f]: Textual amendment: [Art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2002/2666/article/3/1/c) inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-a114b497b2526b4de0ba1c1e5b66fa4f]: Textual amendment: [Art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2002/2666/article/3/1/c) inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
 
-[^key-b9c9c978624ece8df60a429dc0828857]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2002/2666/article/3/2) inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-b9c9c978624ece8df60a429dc0828857]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2002/2666/article/3/2) inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/404/article/2/4/c) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
 
-[^key-b8bf479a1d47e0ab3f32971177ff87a3]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2002/2666/part/3) inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/404/article/2/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))
+[^c-b8bf479a1d47e0ab3f32971177ff87a3]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/uksi/2002/2666/part/3) inserted (30.7.2023) by [The Treasure (Designation) (Amendment) Order 2023 (S.I. 2023/404)](https://www.legislation.gov.uk/uksi/2023/404), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/404/article/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2023/404/article/2/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/404/article/1/3))

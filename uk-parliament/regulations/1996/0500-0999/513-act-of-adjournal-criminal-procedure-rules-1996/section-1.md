@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-0c7f2e42bb399f37d2fc8b3a3b9fc91b]
+## 1. Citation and commencement[^c-0c7f2e42bb399f37d2fc8b3a3b9fc91b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c7f2e42bb399f37d2fc8b3a3b9fc91b]: Commencement: Para. 1 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)
+[^c-0c7f2e42bb399f37d2fc8b3a3b9fc91b]: Commencement: Para. 1 in force at 1.4.1996, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1996/513/paragraph/1/1)

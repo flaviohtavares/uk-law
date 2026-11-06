@@ -45,7 +45,7 @@ Accordingly (but without prejudice to the generality of the preceding provision)
 - (a) considers appropriate to apply in the case of that authority’s successor company; and
 - (b) has notified to that company in writing.
 
-(5) References in this section to the statutory accounts of a company are references to any accounts prepared by the company for the purposes of any provision of the Companies Act 2006[^key-27667611ae979375f0fd42da4c0e8e56] (including group accounts); and in this section—
+(5) References in this section to the statutory accounts of a company are references to any accounts prepared by the company for the purposes of any provision of the Companies Act 2006[^c-27667611ae979375f0fd42da4c0e8e56] (including group accounts); and in this section—
 
 - “**accounting reference period**” has the same meaning, in relation to a successor company, as in that Act;
 - “**complete accounting year,**” in relation to a water authority, means an accounting year of the authority ending on 31st March;
@@ -54,4 +54,4 @@ Accordingly (but without prejudice to the generality of the preceding provision)
 
 ## Annotations
 
-[^key-27667611ae979375f0fd42da4c0e8e56]: Textual amendment: Words in [s. 91(5)](https://www.legislation.gov.uk/ukpga/1989/15/section/91/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 155](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/155) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-27667611ae979375f0fd42da4c0e8e56]: Textual amendment: Words in [s. 91(5)](https://www.legislation.gov.uk/ukpga/1989/15/section/91/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 155](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/155) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))

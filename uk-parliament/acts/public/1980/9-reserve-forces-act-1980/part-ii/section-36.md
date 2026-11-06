@@ -24,7 +24,7 @@ summary: ''
 
 - (a) section 71(5) of that Act shall apply to persons liable to be recalled under section 31 or 34 above as if for the first two lines there were substituted—
 
-“When a call-out order under section 52 of the Reserve Forces Act 1996 is in force, and men of the Regular Reserve[^key-a4a6117152a70855c16dfaf06fa247f5] or the Air Force Reserve, as the case may be, are in permanent service under it, any person who is thereby liable to be recalled under section 31 or 34 above who—”
+“When a call-out order under section 52 of the Reserve Forces Act 1996 is in force, and men of the Regular Reserve[^c-a4a6117152a70855c16dfaf06fa247f5] or the Air Force Reserve, as the case may be, are in permanent service under it, any person who is thereby liable to be recalled under section 31 or 34 above who—”
 
 ;
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c11525891]: Textual amendment: S. 36 substituted (1.4.1997) by [S.I. 1997/306](https://www.legislation.gov.uk/uksi/1997/306), [reg. 19](https://www.legislation.gov.uk/uksi/1997/306/regulation/19)
 
-[^key-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
 [^c11525901]: Textual amendment: Words in s. 36(3)(b) repealed (1.1.1999) by [S.I. 1998/3086](https://www.legislation.gov.uk/uksi/1998/3086), [reg. 12](https://www.legislation.gov.uk/uksi/1998/3086/regulation/12)

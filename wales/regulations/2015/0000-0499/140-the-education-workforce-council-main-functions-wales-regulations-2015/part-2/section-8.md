@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Registration on establishment of the Register[^key-12aadfd44d669c547db5855b9f0b5fd5]
+## 8. Registration on establishment of the Register[^c-12aadfd44d669c547db5855b9f0b5fd5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12aadfd44d669c547db5855b9f0b5fd5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/140/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-12aadfd44d669c547db5855b9f0b5fd5]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/140/regulation/8) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

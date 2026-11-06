@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Substitution of proceedings under the Act for proceedings before interim tribunal[^key-88b55ce1b273f623d7f2f018341cbd34]
+## 64. Substitution of proceedings under the Act for proceedings before interim tribunal[^c-88b55ce1b273f623d7f2f018341cbd34]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ provided in each case that the reasons stated in the notice why the Authority pr
 
 ## Annotations
 
-[^key-88b55ce1b273f623d7f2f018341cbd34]: Commencement: Art. 64 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-88b55ce1b273f623d7f2f018341cbd34]: Commencement: Art. 64 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

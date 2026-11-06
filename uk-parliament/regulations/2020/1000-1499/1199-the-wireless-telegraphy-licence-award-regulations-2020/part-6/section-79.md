@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Alternative method for submission of assignment stage form[^key-9d23b32a0f1e41391f6a32950983a45d]
+## 79. Alternative method for submission of assignment stage form[^c-9d23b32a0f1e41391f6a32950983a45d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d23b32a0f1e41391f6a32950983a45d]: Commencement: Reg. 79 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-9d23b32a0f1e41391f6a32950983a45d]: Commencement: Reg. 79 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

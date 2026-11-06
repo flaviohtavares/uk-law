@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Transfer of technology of strategic concern[^key-57573557bbb0a224018b0a2037d965b0][^key-f594daffeda63d7b06311449819ad8de]
+## 40. Transfer of technology of strategic concern[^c-57573557bbb0a224018b0a2037d965b0][^c-f594daffeda63d7b06311449819ad8de]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57573557bbb0a224018b0a2037d965b0]: Commencement: Reg. 40 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-57573557bbb0a224018b0a2037d965b0]: Commencement: Reg. 40 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-f594daffeda63d7b06311449819ad8de]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2023/1314/regulation/40) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/4/b)
+[^c-f594daffeda63d7b06311449819ad8de]: Textual amendment: Words in [reg. 40](https://www.legislation.gov.uk/uksi/2023/1314/regulation/40) substituted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2024/944/regulation/3/4/b)

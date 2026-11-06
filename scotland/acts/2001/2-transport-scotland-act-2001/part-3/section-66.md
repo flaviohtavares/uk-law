@@ -26,7 +26,7 @@ summary: ''
 
 (3) No contravention by the Crown of any provision of this Act or of any regulations or orders made under it shall make the Crown criminally liable; but the Court of Session may, on the application of a charging authority, declare unlawful any act or omission of the Crown which constitutes such a contravention.
 
-(4) Notwithstanding anything in subsection (3)[^key-5f78ce6af000d274535f28c2e906dbd0] above, the provisions of this Act and of regulations and orders made under it shall, subject to subsection (5) below, apply to motor vehicles, or persons, in the public service of the Crown as they apply to other motor vehicles or persons.
+(4) Notwithstanding anything in subsection (3)[^c-5f78ce6af000d274535f28c2e906dbd0] above, the provisions of this Act and of regulations and orders made under it shall, subject to subsection (5) below, apply to motor vehicles, or persons, in the public service of the Crown as they apply to other motor vehicles or persons.
 
 (5) No power of entry or seizure conferred by regulations made under section 56(2) of this Act shall be exercisable in relation to any motor vehicle in the public service of the Crown.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f78ce6af000d274535f28c2e906dbd0]: Textual amendment: Words in [s. 66(4)](https://www.legislation.gov.uk/asp/2001/2/section/66/4) substituted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(5)](https://www.legislation.gov.uk/asp/2005/12/section/51/5), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-5f78ce6af000d274535f28c2e906dbd0]: Textual amendment: Words in [s. 66(4)](https://www.legislation.gov.uk/asp/2001/2/section/66/4) substituted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(5)](https://www.legislation.gov.uk/asp/2005/12/section/51/5), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

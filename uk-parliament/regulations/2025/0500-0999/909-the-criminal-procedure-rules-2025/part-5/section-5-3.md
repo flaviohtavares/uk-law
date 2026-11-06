@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.3. Signature of forms[^key-c24c6bef36de2390e0f093549f08cee3]
+## 5.3. Signature of forms[^c-c24c6bef36de2390e0f093549f08cee3]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c24c6bef36de2390e0f093549f08cee3]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/uksi/2025/909/rule/5.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c24c6bef36de2390e0f093549f08cee3]: Commencement: [Rule 5.3](https://www.legislation.gov.uk/uksi/2025/909/rule/5.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00179]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).

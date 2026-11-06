@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 62. Demolition of church[^key-e2e9912bcd98560ba8128a6d3763ba57]
+## 62. Demolition of church[^c-e2e9912bcd98560ba8128a6d3763ba57]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2e9912bcd98560ba8128a6d3763ba57]: Commencement: [S. 62](https://www.legislation.gov.uk/ukcm/2018/3/section/62) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-e2e9912bcd98560ba8128a6d3763ba57]: Commencement: [S. 62](https://www.legislation.gov.uk/ukcm/2018/3/section/62) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

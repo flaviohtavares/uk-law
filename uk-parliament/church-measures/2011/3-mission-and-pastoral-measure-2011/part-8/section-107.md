@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 107. Saving for planning legislation[^key-5bdf81bb6cab4994fc13b333109d4b39]
+## 107. Saving for planning legislation[^c-5bdf81bb6cab4994fc13b333109d4b39]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Notwithstanding that the development of any land is or may be authorised or regu
 
 ## Annotations
 
-[^key-5bdf81bb6cab4994fc13b333109d4b39]: Commencement: S. 107 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-5bdf81bb6cab4994fc13b333109d4b39]: Commencement: S. 107 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

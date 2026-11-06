@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Qualifying income for the purposes of savings credit[^key-0379bd17b664a33ce497bbb56e27267f]
+## 9. Qualifying income for the purposes of savings credit[^c-0379bd17b664a33ce497bbb56e27267f]
 
 *Extent: N.I.*
 
@@ -28,12 +28,12 @@ For the purposes of section 3 of the Act (savings credit), all income is to be t
 - (d) severe disablement allowance;
 - (e) maternity allowance;
 - (f) payments referred to in regulation 15(5)(d) (maintenance payments).
-- (g)[^key-0dfa9014935e3ea7cfd765b758208f03] contributory employment and support allowance.
+- (g)[^c-0dfa9014935e3ea7cfd765b758208f03] contributory employment and support allowance.
 
 ## Annotations
 
-[^key-0379bd17b664a33ce497bbb56e27267f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/28/regulation/9) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-0379bd17b664a33ce497bbb56e27267f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2003/28/regulation/9) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
 [^f00027]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-0dfa9014935e3ea7cfd765b758208f03]: Textual amendment: [Reg. 9(g)](https://www.legislation.gov.uk/nisr/2003/28/regulation/9/g) added (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [30(3)](https://www.legislation.gov.uk/nisr/2008/286/regulation/30/3)
+[^c-0dfa9014935e3ea7cfd765b758208f03]: Textual amendment: [Reg. 9(g)](https://www.legislation.gov.uk/nisr/2003/28/regulation/9/g) added (27.10.2008) by [The Employment and Support Allowance (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/286)](https://www.legislation.gov.uk/nisr/2008/286), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2008/286/regulation/1/b), [30(3)](https://www.legislation.gov.uk/nisr/2008/286/regulation/30/3)

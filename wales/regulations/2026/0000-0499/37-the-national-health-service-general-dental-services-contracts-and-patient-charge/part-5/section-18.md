@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Period over which the proportion of mandatory services must be delivered[^key-075bb91e15a63ca073561d1e2877c29e]
+## 18. Period over which the proportion of mandatory services must be delivered[^c-075bb91e15a63ca073561d1e2877c29e]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The proportion of each mandatory service, expressed as a percentage, to be provi
 
 ## Annotations
 
-[^key-075bb91e15a63ca073561d1e2877c29e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2026/37/regulation/18) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-075bb91e15a63ca073561d1e2877c29e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2026/37/regulation/18) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

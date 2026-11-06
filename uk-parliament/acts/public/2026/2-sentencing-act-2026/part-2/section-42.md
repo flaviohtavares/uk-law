@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Imprisonment or detention for public protection: termination of licences[^key-316a08ae8ad27d346b4b2d6a2bef89e1][^key-ab5b36692a1ee951ca7dceae2c0030f0]
+## 42. Imprisonment or detention for public protection: termination of licences[^c-316a08ae8ad27d346b4b2d6a2bef89e1][^c-ab5b36692a1ee951ca7dceae2c0030f0]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-316a08ae8ad27d346b4b2d6a2bef89e1]: Commencement: S. 42 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-316a08ae8ad27d346b4b2d6a2bef89e1]: Commencement: S. 42 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-ab5b36692a1ee951ca7dceae2c0030f0]: Commencement: S. 42 in force at 1.6.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 3](https://www.legislation.gov.uk/uksi/2026/402/regulation/3)
+[^c-ab5b36692a1ee951ca7dceae2c0030f0]: Commencement: S. 42 in force at 1.6.2026 by [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 3](https://www.legislation.gov.uk/uksi/2026/402/regulation/3)

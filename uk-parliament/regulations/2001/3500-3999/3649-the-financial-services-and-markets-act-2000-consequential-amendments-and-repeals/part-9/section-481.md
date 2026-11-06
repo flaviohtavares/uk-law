@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 481. Revocation of the 1994 Regulations[^key-8b6338f50e192345763725e06677a6a5]
+## 481. Revocation of the 1994 Regulations[^c-8b6338f50e192345763725e06677a6a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance Companies (Amendment) Regulations 1994 are revoked.
 
 ## Annotations
 
-[^key-8b6338f50e192345763725e06677a6a5]: Commencement: Art. 481 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8b6338f50e192345763725e06677a6a5]: Commencement: Art. 481 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.144. Loss of qualification as insolvency practitioner[^key-6623dbce702565ed44de70ce5b832271]
+## 6.144. Loss of qualification as insolvency practitioner[^c-6623dbce702565ed44de70ce5b832271]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ The official receiver shall file in court a copy of his notice under this paragr
 
 ## Annotations
 
-[^key-6623dbce702565ed44de70ce5b832271]: Commencement: [Rule 6.144](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.144) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6623dbce702565ed44de70ce5b832271]: Commencement: [Rule 6.144](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.144) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00174]: Marginal citation: \[FORM 6.51\]

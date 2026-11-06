@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Temporary use of land for maintaining the authorised development[^key-ae984387969e5e29d864ee6c4e447396]
+## 40. Temporary use of land for maintaining the authorised development[^c-ae984387969e5e29d864ee6c4e447396]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-ae984387969e5e29d864ee6c4e447396]: Commencement: Art. 40 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-ae984387969e5e29d864ee6c4e447396]: Commencement: Art. 40 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

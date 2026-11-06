@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.3. Issue of a witness summons[^key-533f7a69f0a70440111f60c09066a164]
+## 34.3. Issue of a witness summons[^c-533f7a69f0a70440111f60c09066a164]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-533f7a69f0a70440111f60c09066a164]: Commencement: [Rule 34.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-533f7a69f0a70440111f60c09066a164]: Commencement: [Rule 34.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

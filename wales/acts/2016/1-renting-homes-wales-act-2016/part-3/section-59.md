@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Sub-occupation contracts: interpretation[^key-d08f61a764d6e0661c988c703a1b3646]
+## 59. Sub-occupation contracts: interpretation[^c-d08f61a764d6e0661c988c703a1b3646]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d08f61a764d6e0661c988c703a1b3646]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2016/1/section/59) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-d08f61a764d6e0661c988c703a1b3646]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2016/1/section/59) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

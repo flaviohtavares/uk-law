@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Finality of decisions[^c17081421][^key-24ed62c00b1fccfde2fb14decf9e4b78]
+## 17. Finality of decisions[^c17081421][^c-24ed62c00b1fccfde2fb14decf9e4b78]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 [^c17081421]: Textual amendment: mod. by SR 1999/349, 350
 
-[^key-24ed62c00b1fccfde2fb14decf9e4b78]: Modification: [Art. 17](https://www.legislation.gov.uk/nisi/1998/1506/article/17) applied (with modifications) (30.11.2016) by [The Childcare Payments (Appeals) Regulations 2016 (S.I. 2016/1078)](https://www.legislation.gov.uk/uksi/2016/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1078/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/1078/regulation/5)
+[^c-24ed62c00b1fccfde2fb14decf9e4b78]: Modification: [Art. 17](https://www.legislation.gov.uk/nisi/1998/1506/article/17) applied (with modifications) (30.11.2016) by [The Childcare Payments (Appeals) Regulations 2016 (S.I. 2016/1078)](https://www.legislation.gov.uk/uksi/2016/1078), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1078/regulation/1), [5](https://www.legislation.gov.uk/uksi/2016/1078/regulation/5)
 
 [^c17081431]: Textual amendment: temp. mod. by SI 2002/2926
 

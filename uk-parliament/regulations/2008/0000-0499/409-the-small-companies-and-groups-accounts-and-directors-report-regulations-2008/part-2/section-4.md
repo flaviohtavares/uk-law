@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Information about related undertakings (Companies Act or IAS individual accounts)[^key-68277e1b73becb188ba0423e3f5c8d3a]
+## 4. Information about related undertakings (Companies Act or IAS individual accounts)[^c-68277e1b73becb188ba0423e3f5c8d3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68277e1b73becb188ba0423e3f5c8d3a]: Textual amendment: Reg. 4 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [14(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/14/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-68277e1b73becb188ba0423e3f5c8d3a]: Textual amendment: Reg. 4 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [14(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/14/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

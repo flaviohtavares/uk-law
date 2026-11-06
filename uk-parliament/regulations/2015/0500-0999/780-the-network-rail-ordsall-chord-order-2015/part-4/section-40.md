@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Certification of plans etc.[^key-b32d66e19a638550ac802bad112c40a4]
+## 40. Certification of plans etc.[^c-b32d66e19a638550ac802bad112c40a4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Network Rail must, as soon as practicable after the making of this Order, submit
 
 ## Annotations
 
-[^key-b32d66e19a638550ac802bad112c40a4]: Commencement: Art. 40 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-b32d66e19a638550ac802bad112c40a4]: Commencement: Art. 40 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

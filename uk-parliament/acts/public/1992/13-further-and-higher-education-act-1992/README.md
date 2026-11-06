@@ -33,7 +33,7 @@ An Act to make new provision about further and higher education.
 
 \[6th March 1992\] [^c11061541]
 
-[^c11061551][^c11061561][^c11061571][^c11061581][^c11061591]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f2495adb6426c1df7e863fb05ae270bc][^key-93f7c91629ae953a852bd1fbec69dce3][^key-31a05673ee5b10303e64f5912bbe00fc][^key-93e392e2e9fe8b1cc1d81e33aacf0441]
+[^c11061551][^c11061561][^c11061571][^c11061581][^c11061591]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f2495adb6426c1df7e863fb05ae270bc][^c-93f7c91629ae953a852bd1fbec69dce3][^c-31a05673ee5b10303e64f5912bbe00fc][^c-93e392e2e9fe8b1cc1d81e33aacf0441]
 
 ## Contents
 
@@ -135,7 +135,7 @@ An Act to make new provision about further and higher education.
 - [Section 32 — Transfer of property, etc., to designated institutions.](part-i/section-32.md)
 - [Section 33 — Provisions supplementary to section 32.](part-i/section-33.md)
 
-##### Sixth form college corporations: England[^key-1dc714bc06c48a6f744ef1dcb4317329]
+##### Sixth form college corporations: England[^c-1dc714bc06c48a6f744ef1dcb4317329]
 
 *Extent: E+W+S*
 
@@ -324,12 +324,12 @@ SCHEDULES
 
 [^c11061591]: Modification: Certain powers transferred as specified (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch.1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1).
 
-[^key-f2495adb6426c1df7e863fb05ae270bc]: Modification: Act excluded (1.7.2004 for E., 31.3.2011 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2004/8/section/29/3), [52(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/1); [S.I. 2011/297](https://www.legislation.gov.uk/uksi/2011/297), [art. 4(a)](https://www.legislation.gov.uk/uksi/2011/297/article/4/a)
+[^c-f2495adb6426c1df7e863fb05ae270bc]: Modification: Act excluded (1.7.2004 for E., 31.3.2011 for W.) by [Higher Education Act 2004 (c. 8)](https://www.legislation.gov.uk/ukpga/2004/8), [ss. 29(3)](https://www.legislation.gov.uk/ukpga/2004/8/section/29/3), [52(1)](https://www.legislation.gov.uk/ukpga/2004/8/section/52/1); [S.I. 2011/297](https://www.legislation.gov.uk/uksi/2011/297), [art. 4(a)](https://www.legislation.gov.uk/uksi/2011/297/article/4/a)
 
-[^key-93f7c91629ae953a852bd1fbec69dce3]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-93f7c91629ae953a852bd1fbec69dce3]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-31a05673ee5b10303e64f5912bbe00fc]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-31a05673ee5b10303e64f5912bbe00fc]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-93e392e2e9fe8b1cc1d81e33aacf0441]: Modification: Education Acts modified (*temp.*) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-93e392e2e9fe8b1cc1d81e33aacf0441]: Modification: Education Acts modified (*temp.*) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
-[^key-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-1dc714bc06c48a6f744ef1dcb4317329]: Textual amendment: Ss. 33A-33N and cross-heading inserted (12.1.2010 for the insertion of ss. 33A-33J, 33M, 33N, 1.4.2010 in so far as not already in force) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2009/22/schedule/8/paragraph/3); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))

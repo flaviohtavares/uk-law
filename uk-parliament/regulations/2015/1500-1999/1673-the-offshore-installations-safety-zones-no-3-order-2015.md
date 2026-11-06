@@ -42,21 +42,21 @@ The Secretary of State makes this Order—
 - (a) in exercise of the powers conferred by section 22 of the Petroleum Act 1987[^f00001]; and
 - (b) for the purpose of giving effect to proposals submitted to him by the Health and Safety Executive under section 24(2A)[^f00002] of that Act.
 
-## 1. Citation and commencement[^key-1e82d25dfc8358f4b1a06e1247a2c693]
+## 1. Citation and commencement[^c-1e82d25dfc8358f4b1a06e1247a2c693]
 
 (1) This Order may be cited as the Offshore Installations (Safety Zones) (No. 3) Order 2015.
 
 (2) This Order comes into force on 30th September 2015 except for article 2(2) which comes into force as provided in article 2(3).
 
-## 2. Establishment of safety zones[^key-f5bed441c9d8cb47953fa331e71d2cb6][^key-82518485bf1d5d7244bf4d68169e481d]
+## 2. Establishment of safety zones[^c-f5bed441c9d8cb47953fa331e71d2cb6][^c-82518485bf1d5d7244bf4d68169e481d]
 
-(1)[^key-f5bed441c9d8cb47953fa331e71d2cb6] A safety zone is established around the installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
+(1)[^c-f5bed441c9d8cb47953fa331e71d2cb6] A safety zone is established around the installation specified in column 1 of Part 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984[^f00003] specified in columns 2 and 3 of Part 1 of the Schedule.
 
-(2)[^key-82518485bf1d5d7244bf4d68169e481d] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
+(2)[^c-82518485bf1d5d7244bf4d68169e481d] A safety zone is established around each installation specified in column 1 of Part 2 of the Schedule (being an installation to be stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres, as respects that installation, from the point which has the co-ordinates of latitude and longitude according to the World Geodetic System 1984 specified in columns 2 and 3 of Part 2 of the Schedule.
 
-(3)[^key-f5bed441c9d8cb47953fa331e71d2cb6] Paragraph (2) comes into force, as respects each installation specified in column 1 of Part 2 of the Schedule, when the installation arrives at its station.
+(3)[^c-f5bed441c9d8cb47953fa331e71d2cb6] Paragraph (2) comes into force, as respects each installation specified in column 1 of Part 2 of the Schedule, when the installation arrives at its station.
 
-## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^key-10dd12c1ed26582a2fd890b03c6ac338]
+## 3. Amendment of the Offshore Installations (Safety Zones) Order 1997[^c-10dd12c1ed26582a2fd890b03c6ac338]
 
 In Schedule 1 to the Offshore Installations (Safety Zones) Order 1997[^f00004], omit the entries relating to—
 
@@ -64,18 +64,18 @@ In Schedule 1 to the Offshore Installations (Safety Zones) Order 1997[^f00004], 
 - (b) Fife Field Wellhead 2; and
 - (c) Fergus—Wellhead.
 
-## 4. Amendment of the Offshore Installations (Safety Zones) (No. 3) Order 1998[^key-b40761f408971ab2d931debeb98c688c]
+## 4. Amendment of the Offshore Installations (Safety Zones) (No. 3) Order 1998[^c-b40761f408971ab2d931debeb98c688c]
 
 In the Schedule to the Offshore Installations (Safety Zones) (No. 3) Order 1998[^f00005], omit the entries relating to—
 
 - (a) Flora 1 Wellheads; and
 - (b) Flora 2 Wellheads.
 
-## 5. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2001[^key-1aeda2bddafd28b0fbe20086ce8bc239]
+## 5. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2001[^c-1aeda2bddafd28b0fbe20086ce8bc239]
 
 In the Schedule to the Offshore Installations (Safety Zones) (No. 2) Order 2001[^f00006], omit the entry relating to Angus Well.
 
-## 6. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2008[^key-de5e5d5283983903f3a25b680e93c970]
+## 6. Amendment of the Offshore Installations (Safety Zones) (No. 2) Order 2008[^c-de5e5d5283983903f3a25b680e93c970]
 
 In the Schedule to the Offshore Installations (Safety Zones) (No. 2) Order 2008[^f00007], omit the entry relating to FFFA Centre, Block 31/26a, Fife Field.
 
@@ -93,18 +93,18 @@ Department for Work and Pensions
 
 Article 2
 
-### PART 1 — Installation stationed at the time the Order is made[^key-05ac029aa13dbd18cd807776529b2049]
+### PART 1 — Installation stationed at the time the Order is made[^c-05ac029aa13dbd18cd807776529b2049]
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | Ettrick I2 Water Injection Well, Block 20/2a, Ettrick Field | 57°53.54′ North | 00°40.50′ West |
 
-### PART 2 — Installations not stationed at the time the Order is made[^key-b6c5b210757982105e77963f8a2a6c07]
+### PART 2 — Installations not stationed at the time the Order is made[^c-b6c5b210757982105e77963f8a2a6c07]
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | FNT Development, Block 9/13, Beryl Field | 59°35.60′ North | 01°26.92′ East |
-| Kraken DC3 Production Well, Block 9/2b, Kraken Field | 59°56.89′ North[^key-85290f81a5719ce89250fbaeb4861f34] | 01°15.76′ East |
+| Kraken DC3 Production Well, Block 9/2b, Kraken Field | 59°56.89′ North[^c-85290f81a5719ce89250fbaeb4861f34] | 01°15.76′ East |
 | Well W197, Block 23/26a, Machar Field | 57°04.74′ North | 02°04.91′ East |
 
 EXPLANATORY NOTE
@@ -135,32 +135,32 @@ Articles 3 to 6 remove seven safety zones established under previous orders.
 
 [^f00002]: Footnote: Section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823) and amended by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-1e82d25dfc8358f4b1a06e1247a2c693]: Commencement: Art. 1 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-1e82d25dfc8358f4b1a06e1247a2c693]: Commencement: Art. 1 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
-[^key-f5bed441c9d8cb47953fa331e71d2cb6]: Commencement: Art. 2(1)(3) in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-f5bed441c9d8cb47953fa331e71d2cb6]: Commencement: Art. 2(1)(3) in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
-[^key-82518485bf1d5d7244bf4d68169e481d]: Commencement: Art. 2(2) comes into force in accordance with art. 2(3)
+[^c-82518485bf1d5d7244bf4d68169e481d]: Commencement: Art. 2(2) comes into force in accordance with art. 2(3)
 
 [^f00003]: Footnote: The World Geodetic System 1984 (“WGS 84”) defines a reference frame for the earth, for use in geodesy and navigation. It was developed by the United States’ National Geospatial-Intelligence Agency and is maintained by it. WGS 84 is defined at paragraph 2.1 of the United States’ National Imagery and Mapping Agency Technical Report TR8350.2, third edition, amendment 1 of 3rd January 2000 entitled “Department of Defense World Geodetic System 1984” (http://earth-info.nga.mil/GandG/publications/tr8350.2/wgs84fin.pdf).
 
-[^key-10dd12c1ed26582a2fd890b03c6ac338]: Commencement: Art. 3 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-10dd12c1ed26582a2fd890b03c6ac338]: Commencement: Art. 3 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
 [^f00004]: Footnote: [S.I. 1997/735](https://www.legislation.gov.uk/uksi/1997/735), to which there are amendments not relevant to this Order.
 
-[^key-b40761f408971ab2d931debeb98c688c]: Commencement: Art. 4 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-b40761f408971ab2d931debeb98c688c]: Commencement: Art. 4 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
 [^f00005]: Footnote: [S.I. 1998/1660](https://www.legislation.gov.uk/uksi/1998/1660).
 
-[^key-1aeda2bddafd28b0fbe20086ce8bc239]: Commencement: Art. 5 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-1aeda2bddafd28b0fbe20086ce8bc239]: Commencement: Art. 5 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2001/2528](https://www.legislation.gov.uk/uksi/2001/2528).
 
-[^key-de5e5d5283983903f3a25b680e93c970]: Commencement: Art. 6 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-de5e5d5283983903f3a25b680e93c970]: Commencement: Art. 6 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2008/2157](https://www.legislation.gov.uk/uksi/2008/2157).
 
-[^key-05ac029aa13dbd18cd807776529b2049]: Commencement: Sch. Pt. 1 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
+[^c-05ac029aa13dbd18cd807776529b2049]: Commencement: Sch. Pt. 1 in force at 30.9.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1673/article/1/2)
 
-[^key-b6c5b210757982105e77963f8a2a6c07]: Commencement: Sch. Pt. 2 in force in accordance with art. 2(3)
+[^c-b6c5b210757982105e77963f8a2a6c07]: Commencement: Sch. Pt. 2 in force in accordance with art. 2(3)
 
-[^key-85290f81a5719ce89250fbaeb4861f34]: Textual amendment: Words in Sch. Pt. 2 substituted (10.4.2017) by [The Offshore Installations (Safety Zones) (No. 2) Order 2017 (S.I. 2017/458)](https://www.legislation.gov.uk/uksi/2017/458), [arts. 1](https://www.legislation.gov.uk/uksi/2017/458/article/1), [4](https://www.legislation.gov.uk/uksi/2017/458/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2017/458/article/2))
+[^c-85290f81a5719ce89250fbaeb4861f34]: Textual amendment: Words in Sch. Pt. 2 substituted (10.4.2017) by [The Offshore Installations (Safety Zones) (No. 2) Order 2017 (S.I. 2017/458)](https://www.legislation.gov.uk/uksi/2017/458), [arts. 1](https://www.legislation.gov.uk/uksi/2017/458/article/1), [4](https://www.legislation.gov.uk/uksi/2017/458/article/4) (with [art. 2](https://www.legislation.gov.uk/uksi/2017/458/article/2))

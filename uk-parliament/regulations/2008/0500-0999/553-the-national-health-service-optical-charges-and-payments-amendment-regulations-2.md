@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Optical Charges and Payments) Amendment Regulations 2008 (revoked)[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]
+The National Health Service (Optical Charges and Payments) Amendment Regulations 2008 (revoked)[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]
 
 Made
 
@@ -46,35 +46,35 @@ Coming into force
 
 1st April 2008
 
-[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]
+## 1. Citation, commencement, interpretation and application[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Optical Regulations[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]
+## 2. Amendment to the Optical Regulations[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Schedules to the Optical Regulations[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]
+## 3. Amendments to the Schedules to the Optical Regulations[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional Provision[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]
+## 4. Transitional Provision[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SCHEDULE 3 TO THE OPTICAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]
+## SCHEDULE — SCHEDULE 3 TO THE OPTICAL REGULATIONS AS SUBSTITUTED BY THESE REGULATIONS[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]
 
 Regulation 3(3)
 
-> **SCHEDULE 3 — VOUCHER VALUES REPAIR[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]**
+> **SCHEDULE 3 — VOUCHER VALUES REPAIR[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]**
 >
 > Regulation 19(2) and (3)
 >
@@ -82,8 +82,8 @@ Regulation 3(3)
 
 **May not be in force at this date. Check the source.**
 
-[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beedcefe4bc66e5e77f46e7d3f3dfea1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/553) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)
+[^c-beedcefe4bc66e5e77f46e7d3f3dfea1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/553) revoked (1.4.2013) by [The National Health Service (Optical Charges and Payments) Regulations 2013 (S.I. 2013/461)](https://www.legislation.gov.uk/uksi/2013/461), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/461/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/461/schedule/4)

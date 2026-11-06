@@ -30,18 +30,18 @@ Section 118
 
 ### Finance Act 1969 (c. 32)
 
-**2.**[^key-f2511c6eeac5fbb3e265aa01ea19e6d6][^key-c8845d6a4c31b9af85af8b8ef5fdbe91] In section 58(4) of the Finance Act 1969 (disclosure of information for statistical purposes), in the Table in the entry relating to local planning authorities—
+**2.**[^c-f2511c6eeac5fbb3e265aa01ea19e6d6][^c-c8845d6a4c31b9af85af8b8ef5fdbe91] In section 58(4) of the Finance Act 1969 (disclosure of information for statistical purposes), in the Table in the entry relating to local planning authorities—
 
 - (a) in the first column for “the Town and Country Planning Act 1990” there is substituted “ Part 2 or 6 of the Planning and Compulsory Purchase Act 2004 ”;
 - (b) In the second column for “Part II of the Town and Country Planning Act 1990” there is substituted “ Part 2 or 6 of the Planning and Compulsory Purchase Act 2004 ”.
 
 ### Leasehold Reform Act 1967 (c. 88)
 
-**3.**[^key-3b4da1a7024534ad293858383bd145da][^key-5a7a3f8c524a8c346670d70a6288744f] In section 28(6)(a) of the Leasehold Reform Act 1967 (development for certain public purposes) for “Town and Country Planning Act 1990” there is substituted “ Planning and Compulsory Purchase Act 2004 ”.
+**3.**[^c-3b4da1a7024534ad293858383bd145da][^c-5a7a3f8c524a8c346670d70a6288744f] In section 28(6)(a) of the Leasehold Reform Act 1967 (development for certain public purposes) for “Town and Country Planning Act 1990” there is substituted “ Planning and Compulsory Purchase Act 2004 ”.
 
 ### Agriculture (Miscellaneous Provisions) Act 1968 (c. 34)
 
-**4.**[^key-3f7639185ea88213086ba42c152fa9f7] In section 12 of the Agriculture (Miscellaneous Provisions) Act 1968 after subsection (3) there is inserted the following subsection—
+**4.**[^c-3f7639185ea88213086ba42c152fa9f7] In section 12 of the Agriculture (Miscellaneous Provisions) Act 1968 after subsection (3) there is inserted the following subsection—
 
 > (4) If a person is entitled in respect of the same interest in land to a payment both—
 >
@@ -52,7 +52,7 @@ Section 118
 
 ### Countryside Act 1968 (c. 41)
 
-**5.**[^key-fd00e06be2154ad8cf13a8ca207af89a] (1) Paragraph 3 of Schedule 2 to the Countryside Act 1968 is amended as follows.
+**5.**[^c-fd00e06be2154ad8cf13a8ca207af89a] (1) Paragraph 3 of Schedule 2 to the Countryside Act 1968 is amended as follows.
 
 (2) In sub-paragraph (2), after “published” there is inserted “ , affixed ”.
 
@@ -62,11 +62,11 @@ Section 118
 
 ### Greater London Council (General Powers) Act 1969 (c lii)
 
-**6.**[^key-7c63ffb0908c40f3041acaec7bc4d3aa] In section 13 of the Greater London Council (General Powers) Act 1969 (exercise of powers relating to walkways), in the proviso for the words from “any local plan” to “Schedule 1 to that Act)” there is substituted “ a local development document (within the meaning of Part 2 of the Planning and Compulsory Purchase Act 2004) ”.
+**6.**[^c-7c63ffb0908c40f3041acaec7bc4d3aa] In section 13 of the Greater London Council (General Powers) Act 1969 (exercise of powers relating to walkways), in the proviso for the words from “any local plan” to “Schedule 1 to that Act)” there is substituted “ a local development document (within the meaning of Part 2 of the Planning and Compulsory Purchase Act 2004) ”.
 
 ### Land Compensation Act 1973 (c. 26)
 
-**7.**[^key-39275a7f417d201c616c20a3e138cc7e] (1) The Land Compensation Act 1973 is amended as follows.
+**7.**[^c-39275a7f417d201c616c20a3e138cc7e] (1) The Land Compensation Act 1973 is amended as follows.
 
 (2) In section 29 (home loss payments) after subsection (3A) there is inserted the following subsection—
 
@@ -80,14 +80,14 @@ Section 118
 
 ### Greater London Council (General Powers) Act 1973 (c xxx)
 
-**8.**[^key-70c0b47a9b9087f573b595451ce3a6a0] In section 24(4) of the Greater London Council (General Powers) Act 1973 (definitions for the purpose or provision relating to parking place agreements)—
+**8.**[^c-70c0b47a9b9087f573b595451ce3a6a0] In section 24(4) of the Greater London Council (General Powers) Act 1973 (definitions for the purpose or provision relating to parking place agreements)—
 
 - (a) in the definition of appropriate provision for “the Greater London” there is substituted “ their ”;
 - (b) in the second place where it occurs “Greater London development plan” is omitted.
 
 ### Welsh Development Agency Act 1975 (c. 70)
 
-**9.**[^key-0c2f96b1de2c36c094776be70f67bdfd] (1) Schedule 4 to the Welsh Development Agency Act 1975 is amended as follows.
+**9.**[^c-0c2f96b1de2c36c094776be70f67bdfd] (1) Schedule 4 to the Welsh Development Agency Act 1975 is amended as follows.
 
 (2) Paragraph 2 is omitted.
 
@@ -97,17 +97,17 @@ Section 118
 
 ### Local Government, Planning and Land Act 1980 (c. 65)
 
-**10.**[^c994752] (1)[^key-42c3fbdc43c7021b5b0884e848ee818c] The Local Government, Planning and Land Act 1980 is amended as follows.
+**10.**[^c994752] (1)[^c-42c3fbdc43c7021b5b0884e848ee818c] The Local Government, Planning and Land Act 1980 is amended as follows.
 
-(2)[^key-42c3fbdc43c7021b5b0884e848ee818c] In section 142 (acquisition by corporation), in subsection (2A), “(subject to section 144(2))” is omitted.
+(2)[^c-42c3fbdc43c7021b5b0884e848ee818c] In section 142 (acquisition by corporation), in subsection (2A), “(subject to section 144(2))” is omitted.
 
-(3)[^key-42c3fbdc43c7021b5b0884e848ee818c] In section 143 (acquisition by local highway authority), in subsection (3A), “(subject to section 144(2))” is omitted.
+(3)[^c-42c3fbdc43c7021b5b0884e848ee818c] In section 143 (acquisition by local highway authority), in subsection (3A), “(subject to section 144(2))” is omitted.
 
-(4)[^key-42c3fbdc43c7021b5b0884e848ee818c] In section 144, in subsection (2), “the 1981 Act and” is omitted.
+(4)[^c-42c3fbdc43c7021b5b0884e848ee818c] In section 144, in subsection (2), “the 1981 Act and” is omitted.
 
-(5)[^key-42c3fbdc43c7021b5b0884e848ee818c] In Schedule 28, in paragraph 1, “The 1981 Act and” and the words from “and in paragraph 2” to the end are omitted.
+(5)[^c-42c3fbdc43c7021b5b0884e848ee818c] In Schedule 28, in paragraph 1, “The 1981 Act and” and the words from “and in paragraph 2” to the end are omitted.
 
-(6)[^key-42c3fbdc43c7021b5b0884e848ee818c] The amendments made by this paragraph do not apply to compulsory purchase orders of which notice under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 is published before commencement of this paragraph.
+(6)[^c-42c3fbdc43c7021b5b0884e848ee818c] The amendments made by this paragraph do not apply to compulsory purchase orders of which notice under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 is published before commencement of this paragraph.
 
 (7) In Schedule 26 (Urban Development Corporations), after paragraph 14 there are inserted the following paragraphs—
 
@@ -158,32 +158,32 @@ Section 118
 
 ### Highways Act 1980 (c. 66)
 
-**11.** (1)[^key-a084110ad4c9e4fe488e6c804ae029ee][^key-029ccef4993b31cc243240c27e1aa5f4] The Highways Act 1980 is amended as follows.
+**11.** (1)[^c-a084110ad4c9e4fe488e6c804ae029ee][^c-029ccef4993b31cc243240c27e1aa5f4] The Highways Act 1980 is amended as follows.
 
-(2)[^key-a084110ad4c9e4fe488e6c804ae029ee][^key-029ccef4993b31cc243240c27e1aa5f4] In section 232(8) after “1990” there is inserted “ and Parts 2 and 6 of the Planning and Compulsory Purchase Act 2004 ”.
+(2)[^c-a084110ad4c9e4fe488e6c804ae029ee][^c-029ccef4993b31cc243240c27e1aa5f4] In section 232(8) after “1990” there is inserted “ and Parts 2 and 6 of the Planning and Compulsory Purchase Act 2004 ”.
 
-(3)[^key-a084110ad4c9e4fe488e6c804ae029ee][^key-029ccef4993b31cc243240c27e1aa5f4] In section 232(9) for the definition of development plan there is substituted—
+(3)[^c-a084110ad4c9e4fe488e6c804ae029ee][^c-029ccef4993b31cc243240c27e1aa5f4] In section 232(9) for the definition of development plan there is substituted—
 
 > - “**development plan**” must be construed in accordance with section 38 of the Planning and Compulsory Purchase Act 2004;
 > - “**local authority**” has the same meaning as in the Town and Country Planning Act 1990.
 
-(4)[^key-ef22e5d7d52d9327718e549db4dc6b0f] Section 259(power to confirm, etc, compulsory purchase order in part) is omitted.
+(4)[^c-ef22e5d7d52d9327718e549db4dc6b0f] Section 259(power to confirm, etc, compulsory purchase order in part) is omitted.
 
-(5)[^key-ef22e5d7d52d9327718e549db4dc6b0f] The amendment made by sub-paragraph (4) does not apply to a compulsory purchase order of which notice under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 is published before the commencement of that sub-paragraph.
+(5)[^c-ef22e5d7d52d9327718e549db4dc6b0f] The amendment made by sub-paragraph (4) does not apply to a compulsory purchase order of which notice under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 is published before the commencement of that sub-paragraph.
 
 ### Acquisition of Land Act 1981 (c. 67)
 
-**12.**[^key-08aabde5b372342ed587527498917074] In section 29(5) of the Acquisition of Land Act 1981 for the words “any reference to any owner, lessee or occupier” there are substituted the words “ the reference to a qualifying person for the purposes of section 12(2) ”.
+**12.**[^c-08aabde5b372342ed587527498917074] In section 29(5) of the Acquisition of Land Act 1981 for the words “any reference to any owner, lessee or occupier” there are substituted the words “ the reference to a qualifying person for the purposes of section 12(2) ”.
 
 ### Housing Act 1985 (c. 68)
 
-**13.**[^key-831976f4138384195827f97090c41551] (1) In section 578A of the Housing Act 1985 (modification of compulsory purchase order in case of acquisition of land for clearance), in subsection (2), for “section 13” there is substituted “ sections 13 to 13C ”.
+**13.**[^c-831976f4138384195827f97090c41551] (1) In section 578A of the Housing Act 1985 (modification of compulsory purchase order in case of acquisition of land for clearance), in subsection (2), for “section 13” there is substituted “ sections 13 to 13C ”.
 
 (2) The amendment made by sub-paragraph (1) does not apply to compulsory purchase orders of which notice under section 11 of the Acquisition of Land Act 1981 is published before commencement of this paragraph.
 
 ### Education Reform Act 1988 (c. 40)
 
-**14.**[^key-b2d7fc44751d88a00fec9ec47c476aae] (1) The Education Reform Act 1988 is amended as follows.
+**14.**[^c-b2d7fc44751d88a00fec9ec47c476aae] (1) The Education Reform Act 1988 is amended as follows.
 
 (2) In section 190 (wrongful contracts or disposals), in subsection (6) for the words from “references” to the end there is substituted “ the reference in section 12 of that Act to an owner of the land included reference to the London Residuary Body ”.
 
@@ -193,27 +193,27 @@ Section 118
 
 ### Housing Act 1988 (c. 50)
 
-**15.**[^key-6a70b014b1af919ede5cfde6ecdf42f3] (1) Paragraph 2 of Schedule 10 to the Housing Act 1988 (modifications of Acquisition of Land Act 1981) is omitted.
+**15.**[^c-6a70b014b1af919ede5cfde6ecdf42f3] (1) Paragraph 2 of Schedule 10 to the Housing Act 1988 (modifications of Acquisition of Land Act 1981) is omitted.
 
 (2) The amendment made by sub-paragraph (1) does not apply to compulsory purchase orders of which notice under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 is published before commencement of this paragraph.
 
 ### Planning and Compensation Act 1991 (c. 34)
 
-**16.**[^key-c126ab5ffba7e73c11a0cfd53780ebb5][^key-9c3f663292c5dca18311a6cac2d1472b] In Schedule 4 to the Planning and Compensation Act 1991 Part 3 is omitted.
+**16.**[^c-c126ab5ffba7e73c11a0cfd53780ebb5][^c-9c3f663292c5dca18311a6cac2d1472b] In Schedule 4 to the Planning and Compensation Act 1991 Part 3 is omitted.
 
 ### Local Government Act 1992 (c. 19)
 
-**17.**[^key-ddbc0f330f2f849cf7a3e242c28ef3ca][^key-283c1d97de27e11f4b2bec3143e81f84] In section 14(5) of the Local Government Act 1992 (structural changes which may be recommended by the Electoral Commission), paragraph (d) is omitted.
+**17.**[^c-ddbc0f330f2f849cf7a3e242c28ef3ca][^c-283c1d97de27e11f4b2bec3143e81f84] In section 14(5) of the Local Government Act 1992 (structural changes which may be recommended by the Electoral Commission), paragraph (d) is omitted.
 
-### ...[^key-36b65ca930d2341e023794604ae9cc36]
+### ...[^c-36b65ca930d2341e023794604ae9cc36]
 
-**18.** [^key-36b65ca930d2341e023794604ae9cc36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.** [^c-36b65ca930d2341e023794604ae9cc36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Environment Act 1995 (c. 25)
 
-**19.**[^key-f90068165bfa593037b59f6905b4da7f] (1) The Environment Act 1995 is amended as follows.
+**19.**[^c-f90068165bfa593037b59f6905b4da7f] (1) The Environment Act 1995 is amended as follows.
 
-(2)[^key-60038f253d83fcc365072b2d05e1ba15][^key-4ac7f7c58bad6cdc87c61643815a79b7] In section 67 (which makes provision for a National Park authority to be the local planning authority) subsections (2) to (4) are omitted.
+(2)[^c-60038f253d83fcc365072b2d05e1ba15][^c-4ac7f7c58bad6cdc87c61643815a79b7] In section 67 (which makes provision for a National Park authority to be the local planning authority) subsections (2) to (4) are omitted.
 
 (3) In Schedule 14 (periodic review of mineral planning permissions) in paragraph 2(1), in the definition of “first review date”, for “paragraph 5” there is substituted “ paragraphs 3A and 5 ”.
 
@@ -231,7 +231,7 @@ Section 118
 
 ### Town and Country Planning (Scotland) Act 1997 (c. 8)
 
-**20.**[^key-ebf5366de9bef6124108439a2bbbfc93] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
+**20.**[^c-ebf5366de9bef6124108439a2bbbfc93] (1) The Town and Country Planning (Scotland) Act 1997 is amended as follows.
 
 (2) In section 26(2)(b) (meaning of “development”), for “local roads authority” there is substituted “ roads authority (as defined by section 151(1) of the Roads (Scotland) Act 1984) ”.
 
@@ -256,13 +256,13 @@ Section 118
 
 ### Regional Development Agencies Act 1998 (c. 45)
 
-**21.**[^key-04bafc777a9a61890e2af385faf6ce64] (1) Paragraph 1 of Schedule 5 to the Regional Development Agencies Act 1998 (modifications of Acquisition of Land Act 1981) is omitted.
+**21.**[^c-04bafc777a9a61890e2af385faf6ce64] (1) Paragraph 1 of Schedule 5 to the Regional Development Agencies Act 1998 (modifications of Acquisition of Land Act 1981) is omitted.
 
 (2) The amendment made by sub-paragraph (1) does not apply to compulsory purchase orders of which notice has been published under section 11 of or, as the case may be, paragraph 2 of Schedule 1 to the Acquisition of Land Act 1981 (c. 67) before commencement of this paragraph.
 
 ### Greater London Authority Act 1999 (c. 29)
 
-**22.**[^key-1fb39aabcff48c807aea406f3e103d1a] (1) The Greater London Authority Act 1999 is amended as follows.
+**22.**[^c-1fb39aabcff48c807aea406f3e103d1a] (1) The Greater London Authority Act 1999 is amended as follows.
 
 (2) In section 337 (publication)—
 
@@ -279,73 +279,73 @@ Section 118
 
 ### Countryside and Rights of Way Act 2000 (c. 37)
 
-**23.**[^key-0882ee8e56bf7510794c10c4f72bd884][^key-e2a9f9c169936dab0ca708a2e01732fc] In section 86(4) of the Countryside and Rights of Way Act 2000—
+**23.**[^c-0882ee8e56bf7510794c10c4f72bd884][^c-e2a9f9c169936dab0ca708a2e01732fc] In section 86(4) of the Countryside and Rights of Way Act 2000—
 
 - (a) “II,” is omitted;
 - (b) at the end there is inserted “ or under Part 2 or 6 of the Planning and Compulsory Purchase Act 2004 ”.
 
 ## Annotations
 
-[^key-f2511c6eeac5fbb3e265aa01ea19e6d6]: Commencement: Sch. 7 para. 2 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-f2511c6eeac5fbb3e265aa01ea19e6d6]: Commencement: Sch. 7 para. 2 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-c8845d6a4c31b9af85af8b8ef5fdbe91]: Commencement: Sch. 7 para. 2 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-c8845d6a4c31b9af85af8b8ef5fdbe91]: Commencement: Sch. 7 para. 2 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
 
-[^key-3b4da1a7024534ad293858383bd145da]: Commencement: Sch. 7 para. 3 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-3b4da1a7024534ad293858383bd145da]: Commencement: Sch. 7 para. 3 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-5a7a3f8c524a8c346670d70a6288744f]: Commencement: Sch. 7 para. 3 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-5a7a3f8c524a8c346670d70a6288744f]: Commencement: Sch. 7 para. 3 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
 
-[^key-3f7639185ea88213086ba42c152fa9f7]: Commencement: Sch. 7 para. 4 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-3f7639185ea88213086ba42c152fa9f7]: Commencement: Sch. 7 para. 4 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-fd00e06be2154ad8cf13a8ca207af89a]: Commencement: Sch. 7 para. 5 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-fd00e06be2154ad8cf13a8ca207af89a]: Commencement: Sch. 7 para. 5 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-7c63ffb0908c40f3041acaec7bc4d3aa]: Commencement: Sch. 7 para. 6 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-7c63ffb0908c40f3041acaec7bc4d3aa]: Commencement: Sch. 7 para. 6 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-39275a7f417d201c616c20a3e138cc7e]: Commencement: Sch. 7 para. 7 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-39275a7f417d201c616c20a3e138cc7e]: Commencement: Sch. 7 para. 7 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-70c0b47a9b9087f573b595451ce3a6a0]: Commencement: Sch. 7 para. 8 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-70c0b47a9b9087f573b595451ce3a6a0]: Commencement: Sch. 7 para. 8 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-0c2f96b1de2c36c094776be70f67bdfd]: Commencement: Sch. 7 para. 9 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-0c2f96b1de2c36c094776be70f67bdfd]: Commencement: Sch. 7 para. 9 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
 [^c994752]: Commencement: Sch. 7 para. 10 partly in force; Sch. 7 para. 10(7) in force at 13.7.2004, see s. 121(6)
 
-[^key-42c3fbdc43c7021b5b0884e848ee818c]: Commencement: Sch. 7 para. 10(1)-(6) in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-42c3fbdc43c7021b5b0884e848ee818c]: Commencement: Sch. 7 para. 10(1)-(6) in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-a084110ad4c9e4fe488e6c804ae029ee]: Commencement: Sch. 7 para. 11(1)-(3) in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-a084110ad4c9e4fe488e6c804ae029ee]: Commencement: Sch. 7 para. 11(1)-(3) in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-029ccef4993b31cc243240c27e1aa5f4]: Commencement: Sch. 7 para. 11(1)-(3) in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-029ccef4993b31cc243240c27e1aa5f4]: Commencement: Sch. 7 para. 11(1)-(3) in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
 
-[^key-ef22e5d7d52d9327718e549db4dc6b0f]: Commencement: Sch. 7 para. 11(4)(5) in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-ef22e5d7d52d9327718e549db4dc6b0f]: Commencement: Sch. 7 para. 11(4)(5) in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-08aabde5b372342ed587527498917074]: Commencement: Sch. 7 para. 12 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-08aabde5b372342ed587527498917074]: Commencement: Sch. 7 para. 12 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-831976f4138384195827f97090c41551]: Commencement: Sch. 7 para. 13 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-831976f4138384195827f97090c41551]: Commencement: Sch. 7 para. 13 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-b2d7fc44751d88a00fec9ec47c476aae]: Commencement: Sch. 7 para. 14 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-b2d7fc44751d88a00fec9ec47c476aae]: Commencement: Sch. 7 para. 14 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-6a70b014b1af919ede5cfde6ecdf42f3]: Commencement: Sch. 7 para. 15 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-6a70b014b1af919ede5cfde6ecdf42f3]: Commencement: Sch. 7 para. 15 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-c126ab5ffba7e73c11a0cfd53780ebb5]: Commencement: Sch. 7 para. 16 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
+[^c-c126ab5ffba7e73c11a0cfd53780ebb5]: Commencement: Sch. 7 para. 16 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/2202/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/2202/schedule/2))
 
-[^key-9c3f663292c5dca18311a6cac2d1472b]: Commencement: Sch. 7 para. 16 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
+[^c-9c3f663292c5dca18311a6cac2d1472b]: Commencement: Sch. 7 para. 16 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2847/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/2847/schedule))
 
-[^key-ddbc0f330f2f849cf7a3e242c28ef3ca]: Commencement: Sch. 7 para. 17 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-ddbc0f330f2f849cf7a3e242c28ef3ca]: Commencement: Sch. 7 para. 17 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-283c1d97de27e11f4b2bec3143e81f84]: Commencement: Sch. 7 para. 17 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-283c1d97de27e11f4b2bec3143e81f84]: Commencement: Sch. 7 para. 17 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
 
-[^key-36b65ca930d2341e023794604ae9cc36]: Textual amendment: Sch. 7 para. 18 and cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/3002/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2009/803, arts. 1(2), 3, 10)
+[^c-36b65ca930d2341e023794604ae9cc36]: Textual amendment: Sch. 7 para. 18 and cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 1(3)](https://www.legislation.gov.uk/uksi/2008/3002/article/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/3002/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2009/803, arts. 1(2), 3, 10)
 
-[^key-f90068165bfa593037b59f6905b4da7f]: Commencement: Sch. 7 para. 19 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-f90068165bfa593037b59f6905b4da7f]: Commencement: Sch. 7 para. 19 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-60038f253d83fcc365072b2d05e1ba15]: Commencement: Sch. 7 para. 19(2) in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-60038f253d83fcc365072b2d05e1ba15]: Commencement: Sch. 7 para. 19(2) in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-4ac7f7c58bad6cdc87c61643815a79b7]: Commencement: Sch. 7 para. 19(2) in force at 15.10.2005 for W. so far as not already in force by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-4ac7f7c58bad6cdc87c61643815a79b7]: Commencement: Sch. 7 para. 19(2) in force at 15.10.2005 for W. so far as not already in force by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
 
-[^key-ebf5366de9bef6124108439a2bbbfc93]: Commencement: Sch. 7 para. 20 in force at 12.6.2006 for S. by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(d)](https://www.legislation.gov.uk/ssi/2006/268/article/3/d)
+[^c-ebf5366de9bef6124108439a2bbbfc93]: Commencement: Sch. 7 para. 20 in force at 12.6.2006 for S. by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(d)](https://www.legislation.gov.uk/ssi/2006/268/article/3/d)
 
-[^key-04bafc777a9a61890e2af385faf6ce64]: Commencement: Sch. 7 para. 21 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
+[^c-04bafc777a9a61890e2af385faf6ce64]: Commencement: Sch. 7 para. 21 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d)
 
-[^key-1fb39aabcff48c807aea406f3e103d1a]: Commencement: Sch. 7 para. 22 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-1fb39aabcff48c807aea406f3e103d1a]: Commencement: Sch. 7 para. 22 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-0882ee8e56bf7510794c10c4f72bd884]: Commencement: Sch. 7 para. 23 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
+[^c-0882ee8e56bf7510794c10c4f72bd884]: Commencement: Sch. 7 para. 23 in force at 28.9.2004 for E. by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i)
 
-[^key-e2a9f9c169936dab0ca708a2e01732fc]: Commencement: Sch. 7 para. 23 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-e2a9f9c169936dab0ca708a2e01732fc]: Commencement: Sch. 7 para. 23 in force at 15.10.2005 for W. by [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Complaints procedure[^key-6d479bba981d9122107e14a027b0856d][^key-4edfc95105b7c8a24a8352cd4a1a7cb0]
+## 97. Complaints procedure[^c-6d479bba981d9122107e14a027b0856d][^c-4edfc95105b7c8a24a8352cd4a1a7cb0]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d479bba981d9122107e14a027b0856d]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2010/8/section/97) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-6d479bba981d9122107e14a027b0856d]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2010/8/section/97) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-4edfc95105b7c8a24a8352cd4a1a7cb0]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2010/8/section/97) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-4edfc95105b7c8a24a8352cd4a1a7cb0]: Commencement: [S. 97](https://www.legislation.gov.uk/asp/2010/8/section/97) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Appointed councillors[^key-ca3415b936a00996b931de6eceda3b5b]
+## 76. Appointed councillors[^c-ca3415b936a00996b931de6eceda3b5b]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca3415b936a00996b931de6eceda3b5b]: Commencement: S. 76 in force at 1.4.2008 for specified purposes by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 4](https://www.legislation.gov.uk/uksi/2008/917/article/4)
+[^c-ca3415b936a00996b931de6eceda3b5b]: Commencement: S. 76 in force at 1.4.2008 for specified purposes by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 4](https://www.legislation.gov.uk/uksi/2008/917/article/4)

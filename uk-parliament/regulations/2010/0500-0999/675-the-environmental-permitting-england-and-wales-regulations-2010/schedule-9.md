@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — Waste operations[^key-ee162d1d2ef05d6d716d416236816f22]
+## SCHEDULE 9 — Waste operations[^c-ee162d1d2ef05d6d716d416236816f22]
 
 *Extent: E+W+S*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Regulation 35(2)(c)
 
-### 1. Application[^key-ee162d1d2ef05d6d716d416236816f22]
+### 1. Application[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-ee162d1d2ef05d6d716d416236816f22]
+### 2. Interpretation[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Grant of an environmental permit for a relevant waste operation: requirement for prior planning permission[^key-ee162d1d2ef05d6d716d416236816f22]
+### 3. Grant of an environmental permit for a relevant waste operation: requirement for prior planning permission[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Exercise of relevant functions[^key-ee162d1d2ef05d6d716d416236816f22]
+### 4. Exercise of relevant functions[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Exercise of relevant functions: disposal of waste[^key-ee162d1d2ef05d6d716d416236816f22]
+### 5. Exercise of relevant functions: disposal of waste[^c-ee162d1d2ef05d6d716d416236816f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee162d1d2ef05d6d716d416236816f22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/675) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-ee162d1d2ef05d6d716d416236816f22]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/675) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

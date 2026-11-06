@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food Labelling (Amendment) (No. 2) Regulations 1999 (revoked)[^key-66a284f7ae8e697acb404fd701fc1882]
+The Food Labelling (Amendment) (No. 2) Regulations 1999 (revoked)[^c-66a284f7ae8e697acb404fd701fc1882]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 30th June 1999
 
-[^key-66a284f7ae8e697acb404fd701fc1882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66a284f7ae8e697acb404fd701fc1882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-66a284f7ae8e697acb404fd701fc1882]
+## 1. Title and commencement[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Labelling Regulations 1996[^key-66a284f7ae8e697acb404fd701fc1882]
+## 2. Amendment of the Food Labelling Regulations 1996[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-66a284f7ae8e697acb404fd701fc1882]
+## 3.[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-66a284f7ae8e697acb404fd701fc1882]
+## 4.[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-66a284f7ae8e697acb404fd701fc1882]
+## 5.[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-66a284f7ae8e697acb404fd701fc1882]
+## 6.[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-66a284f7ae8e697acb404fd701fc1882]
+## 7.[^c-66a284f7ae8e697acb404fd701fc1882]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-66a284f7ae8e697acb404fd701fc1882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66a284f7ae8e697acb404fd701fc1882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-66a284f7ae8e697acb404fd701fc1882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66a284f7ae8e697acb404fd701fc1882]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66a284f7ae8e697acb404fd701fc1882]: Textual amendment: Regulations revoked (13.12.2014) by (E.) [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1 Entry 6](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1), (W.) [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1) and (S.) [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-66a284f7ae8e697acb404fd701fc1882]: Textual amendment: Regulations revoked (13.12.2014) by (E.) [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 6 Pt. 1 Entry 6](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1), (W.) [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/6/part/1) and (S.) [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

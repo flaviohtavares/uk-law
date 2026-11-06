@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 171B. Decision under section 171A: application to review[^key-4e25b9722c81862bf5a85231a243ae9e]
+## 171B. Decision under section 171A: application to review[^c-4e25b9722c81862bf5a85231a243ae9e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e25b9722c81862bf5a85231a243ae9e]: Textual amendment: [Ss. 171A-171C](https://www.legislation.gov.uk/asp/2016/21/section/171A) and cross-heading inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/3/3)
+[^c-4e25b9722c81862bf5a85231a243ae9e]: Textual amendment: [Ss. 171A-171C](https://www.legislation.gov.uk/asp/2016/21/section/171A) and cross-heading inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/3/3)

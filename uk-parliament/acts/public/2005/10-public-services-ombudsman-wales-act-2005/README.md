@@ -30,7 +30,7 @@ Public Services Ombudsman (Wales) Act 2005
 
 2005 c. 10
 
-[^key-3150a080622a2939edc4019c0aa7cfd0]An Act to establish and make provision about the office of Public Services Ombudsman for Wales; to make provision about the functions of the Public Services Ombudsman for Wales; to make provision about compensation; to abolish the Commission for Local Administration in Wales and the offices of Welsh Administration Ombudsman, Health Service Commissioner for Wales and Social Housing Ombudsman for Wales; and for connected purposes.
+[^c-3150a080622a2939edc4019c0aa7cfd0]An Act to establish and make provision about the office of Public Services Ombudsman for Wales; to make provision about the functions of the Public Services Ombudsman for Wales; to make provision about compensation; to abolish the Commission for Local Administration in Wales and the offices of Welsh Administration Ombudsman, Health Service Commissioner for Wales and Social Housing Ombudsman for Wales; and for connected purposes.
 
 \[7th April 2005\]
 
@@ -42,7 +42,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1 — The Public Services Ombudsman for Wales](part-1/section-1.md)
 
-### Part 2 — Investigation of complaints relating to listed authorities[^key-cc9623b29d99f9301af0a4533612909b][^c20336681][^key-37a495b36c58fd57cc0df7590f7c6d69]
+### Part 2 — Investigation of complaints relating to listed authorities[^c-cc9623b29d99f9301af0a4533612909b][^c20336681][^c-37a495b36c58fd57cc0df7590f7c6d69]
 
 *Extent: E+W*
 
@@ -90,7 +90,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 23 — Special reports: supplementary](part-2/section-23.md)
 - [Section 24 — Special reports relating to the Welsh Assembly Government etc.](part-2/section-24.md)
 
-#### ...[^key-7f8dac057aea2735007ec4469dfa86ff]
+#### ...[^c-7f8dac057aea2735007ec4469dfa86ff]
 
 *Extent: E+W*
 
@@ -98,7 +98,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 25A — Working jointly with the Commissioner for Older People in Wales](part-2/section-25a.md)
 - [Section 25B — Working collaboratively with the Commissioner for Older People in Wales](part-2/section-25b.md)
 
-#### ...[^key-f4da1301f4ea1bd020d39defc251e145]
+#### ...[^c-f4da1301f4ea1bd020d39defc251e145]
 
 - [Section 26 — Disclosure of information](part-2/section-26.md)
 - [Section 27 — Disclosure prejudicial to safety of State or contrary to public interest](part-2/section-27.md)
@@ -116,13 +116,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 33 — Publicity for complaints procedures](part-2/section-33.md)
 - [Section 34 — Compensation for the person aggrieved](part-2/section-34.md)
 
-### PART 2A — INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE AND PALLIATIVE CARE[^key-cc96a2831599042c9f50396815a8ed9b]
+### PART 2A — INVESTIGATION OF COMPLAINTS RELATING TO OTHER PERSONS: SOCIAL CARE AND PALLIATIVE CARE[^c-cc96a2831599042c9f50396815a8ed9b]
 
-#### Application of this Part[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Application of this Part[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34A — Matters to which this Part applies](part-2a/section-34a.md)
 
-#### Investigation of complaints[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Investigation of complaints[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34B — Power to investigate complaints](part-2a/section-34b.md)
 - [Section 34C — Alternative resolution of complaints](part-2a/section-34c.md)
@@ -130,44 +130,44 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 34E — Requirements: complaints made to the Ombudsman](part-2a/section-34e.md)
 - [Section 34F — Requirements: complaints referred to the Ombudsman](part-2a/section-34f.md)
 
-#### Decisions not to investigate etc[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Decisions not to investigate etc[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34G — Decisions not to investigate complaints or to discontinue investigations](part-2a/section-34g.md)
 
-#### Investigation procedure and evidence[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Investigation procedure and evidence[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34H — Investigation procedure](part-2a/section-34h.md)
 - [Section 34I — Information, documents, evidence and facilities](part-2a/section-34i.md)
 - [Section 34J — Obstruction and contempt](part-2a/section-34j.md)
 
-#### Reports about investigations[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Reports about investigations[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34K — Investigation reports](part-2a/section-34k.md)
 - [Section 34L — Further publicity for investigation reports](part-2a/section-34l.md)
 - [Section 34M — Action following receipt of investigation reports](part-2a/section-34m.md)
 - [Section 34N — Reports: alternative procedure](part-2a/section-34n.md)
 
-#### Special reports[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Special reports[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34O — Circumstances in which special reports may be prepared](part-2a/section-34o.md)
 - [Section 34P — Special reports](part-2a/section-34p.md)
 - [Section 34Q — Further publicity for special reports](part-2a/section-34q.md)
 
-#### Interpretation[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Interpretation[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34R — Meaning of “care home” and “care home provider”](part-2a/section-34r.md)
 - [Section 34S — Meaning of “domiciliary care” and “domiciliary care provider”](part-2a/section-34s.md)
 - [Section 34T — Meaning of “palliative care service” and “independent palliative care provider”](part-2a/section-34t.md)
 
-### PART 2B — INVESTIGATION OF COMPLAINTS: SUPPLEMENTARY[^key-cc96a2831599042c9f50396815a8ed9b]
+### PART 2B — INVESTIGATION OF COMPLAINTS: SUPPLEMENTARY[^c-cc96a2831599042c9f50396815a8ed9b]
 
-#### Consultation and co-operation[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Consultation and co-operation[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34U — Consultation and co-operation with other ombudsmen](part-2b/section-34u.md)
 - [Section 34V — Working jointly with other Commissioners](part-2b/section-34v.md)
 - [Section 34W — Working collaboratively with other Commissioners](part-2b/section-34w.md)
 
-#### Disclosure[^key-cc96a2831599042c9f50396815a8ed9b]
+#### Disclosure[^c-cc96a2831599042c9f50396815a8ed9b]
 
 - [Section 34X — Disclosure of information](part-2b/section-34x.md)
 - [Section 34Y — Disclosure prejudicial to safety of State or contrary to public interest](part-2b/section-34y.md)
@@ -213,16 +213,16 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3150a080622a2939edc4019c0aa7cfd0]: Textual amendment: Act repealed in part (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [ss. 75(1)](https://www.legislation.gov.uk/anaw/2019/3/section/75/1)[(2)](https://www.legislation.gov.uk/anaw/2019/3/section/75/2), [77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1) (with [s. 74](https://www.legislation.gov.uk/anaw/2019/3/section/74)); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-3150a080622a2939edc4019c0aa7cfd0]: Textual amendment: Act repealed in part (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [ss. 75(1)](https://www.legislation.gov.uk/anaw/2019/3/section/75/1)[(2)](https://www.legislation.gov.uk/anaw/2019/3/section/75/2), [77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1) (with [s. 74](https://www.legislation.gov.uk/anaw/2019/3/section/74)); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
 
-[^key-cc9623b29d99f9301af0a4533612909b]: Modification: Pt. 2 applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
+[^c-cc9623b29d99f9301af0a4533612909b]: Modification: Pt. 2 applied (with modifications) (22.11.2012) by [The Police and Crime Panels (Application of Local Authority Enactments) Regulations 2012 (S.I. 2012/2734)](https://www.legislation.gov.uk/uksi/2012/2734), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2734/regulation/1/1), [3-6](https://www.legislation.gov.uk/uksi/2012/2734/regulation/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2012/2734/schedule/part/3)
 
 [^c20336681]: Modification: Pt. 2 applied (11.10.2005) by [The Public Services Ombudsman (Wales) Act 2005 (Commencement No. 1 and Transitional Provisions and Savings) Order 2005 (S.I. 2005/2800)](https://www.legislation.gov.uk/uksi/2005/2800), [art. 6](https://www.legislation.gov.uk/uksi/2005/2800/article/6)
 
-[^key-37a495b36c58fd57cc0df7590f7c6d69]: Textual amendment: Words in Pt. 2 heading inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/14); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-37a495b36c58fd57cc0df7590f7c6d69]: Textual amendment: Words in Pt. 2 heading inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/14); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-7f8dac057aea2735007ec4469dfa86ff]: Textual amendment: S. 25 cross-heading omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/22); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-7f8dac057aea2735007ec4469dfa86ff]: Textual amendment: S. 25 cross-heading omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 22](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/22); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-f4da1301f4ea1bd020d39defc251e145]: Textual amendment: S. 26 cross-heading omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 24](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/24); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-f4da1301f4ea1bd020d39defc251e145]: Textual amendment: S. 26 cross-heading omitted (1.11.2014) by virtue of [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 24](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/24); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
 
-[^key-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-cc96a2831599042c9f50396815a8ed9b]: Textual amendment: Pts. 2A, 2B inserted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/3)); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

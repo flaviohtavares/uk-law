@@ -24,7 +24,7 @@ Section 56
 
 ### PART 1 — New Chapter 2A of Part 18 of FSMA 2000
 
-**1.**[^key-870be7d75f5ace5c7212ea2bd2d1f13c] In Part 18 of FSMA 2000 (recognised investment exchanges, clearing houses and CSDs), before Chapter 3B insert—
+**1.**[^c-870be7d75f5ace5c7212ea2bd2d1f13c] In Part 18 of FSMA 2000 (recognised investment exchanges, clearing houses and CSDs), before Chapter 3B insert—
 
 > **CHAPTER 2A — Performance of functions of recognised bodies**
 >
@@ -840,11 +840,11 @@ Section 56
 
 ### PART 2 — Related amendments
 
-#### 2. Amendments to FSMA 2000[^key-0882be3ad6ebde34e796a83bbf33e647]
+#### 2. Amendments to FSMA 2000[^c-0882be3ad6ebde34e796a83bbf33e647]
 
 FSMA 2000 is amended as follows.
 
-**3.**[^key-e0b654bd0e47bd6f86c0011f60cc1dce] (1) Section 56 (prohibition orders) is amended as follows—
+**3.**[^c-e0b654bd0e47bd6f86c0011f60cc1dce] (1) Section 56 (prohibition orders) is amended as follows—
 
 (2) After subsection (7C) insert—
 
@@ -865,7 +865,7 @@ FSMA 2000 is amended as follows.
 > - “**recognised body**” has the meaning given by section 313;
 > - “**specified**” means specified in the prohibition order.
 
-**4.**[^key-0d30b6624abdcc12ca7156daaa886d9c] (1) Section 57 (prohibition orders: procedure and right to refer to Tribunal) is amended as follows.
+**4.**[^c-0d30b6624abdcc12ca7156daaa886d9c] (1) Section 57 (prohibition orders: procedure and right to refer to Tribunal) is amended as follows.
 
 (2) After subsection (8) insert—
 
@@ -885,20 +885,20 @@ FSMA 2000 is amended as follows.
 
 .
 
-**5.**[^key-040a779c7befef7dbf7ce882eac8c99a] In section 59AB(1) (specifying functions as controlled functions: transitional provision), after “this Part”, in both places, insert “or Chapter 2A of Part 18”.
+**5.**[^c-040a779c7befef7dbf7ce882eac8c99a] In section 59AB(1) (specifying functions as controlled functions: transitional provision), after “this Part”, in both places, insert “or Chapter 2A of Part 18”.
 
-**6.**[^key-26f211ae67f489649eb0fadbf538b316] In section 133(7A) (proceedings before Tribunal: general provision), after paragraph (l) insert—
+**6.**[^c-26f211ae67f489649eb0fadbf538b316] In section 133(7A) (proceedings before Tribunal: general provision), after paragraph (l) insert—
 
 > - (la) a decision to impose a penalty under section 309U;
 > - (lb) a decision to take action under section 309Z2;
 
 .
 
-**7.**[^key-fed4d9c6656f78d69a9510881624c41f] In section 138A (modification or waiver of rules), in subsection (2), after paragraph (b) insert—
+**7.**[^c-fed4d9c6656f78d69a9510881624c41f] In section 138A (modification or waiver of rules), in subsection (2), after paragraph (b) insert—
 
 > - (c) rules made by the FCA under section 309Z1 (rules of conduct).
 
-**8.**[^key-b044b95e4ce2c926a7dc29addf8b000d] (1) Section 168 (appointment of persons to carry out investigations in particular cases) is amended as follows.
+**8.**[^c-b044b95e4ce2c926a7dc29addf8b000d] (1) Section 168 (appointment of persons to carry out investigations in particular cases) is amended as follows.
 
 (2) After subsection (4) insert—
 
@@ -920,16 +920,16 @@ FSMA 2000 is amended as follows.
 
 > (7) “**Relevant recognised body**” has the same meaning as in Chapter 2A of Part 18 (see section 309A).
 
-**9.**[^key-3cffe8f9ae0d119fd0ade3f31e98682f] In the heading of Chapter 3B of Part 18, at the end insert “in respect of recognised bodies”.
+**9.**[^c-3cffe8f9ae0d119fd0ade3f31e98682f] In the heading of Chapter 3B of Part 18, at the end insert “in respect of recognised bodies”.
 
-**10.**[^key-257ae1385b9efa7ebb0027eccacc401d] Section 312FA is omitted.
+**10.**[^c-257ae1385b9efa7ebb0027eccacc401d] Section 312FA is omitted.
 
-**11.**[^key-3422a59827eb31942457c419a90a473f] In section 313 (interpretation of Part 18), in subsection (1)—
+**11.**[^c-3422a59827eb31942457c419a90a473f] In section 313 (interpretation of Part 18), in subsection (1)—
 
 - (a) omit the definition of “application”;
 - (b) omit the definition of “applicant”.
 
-**12.**[^key-2ea42f5129c7d82217723a28946ff088] (1) Section 347 (the record of authorised persons etc) is amended as follows.
+**12.**[^c-2ea42f5129c7d82217723a28946ff088] (1) Section 347 (the record of authorised persons etc) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -980,26 +980,26 @@ FSMA 2000 is amended as follows.
 
 > (10) “**The relevant recognised body concerned**”, in relation to a Part 18 approved person, means the relevant recognised body on whose application approval under section 309G was given.
 
-**13.**[^key-0ce38baeadcf2c50ce4dc48cccc8fdd2] In section 391 (publication of notices), in subsection (1ZB), after paragraph (k) insert—
+**13.**[^c-0ce38baeadcf2c50ce4dc48cccc8fdd2] In section 391 (publication of notices), in subsection (1ZB), after paragraph (k) insert—
 
 > - (ka) section 309V;
 > - (kb) section 309Z4;
 
 .
 
-**14.**[^key-e4a852101bb2b23b3b4befecc3988ef9] (1) Section 392 (application of sections 393 and 394) is amended as follows.
+**14.**[^c-e4a852101bb2b23b3b4befecc3988ef9] (1) Section 392 (application of sections 393 and 394) is amended as follows.
 
 (2) In paragraph (a) (warning notices), after “282B(3),” insert “309C(1)(b), 309P(1)(b), 309V(1), 309Z4(1),”.
 
 (3) In paragraph (b) (decision notices), after “282B(4),” insert “309C(3), 309P(2), 309V(3), 309Z4(6),”.
 
-**15.**[^key-741e858b5e1ecc74e44de588763639ea] In section 395 (the FCA’s and PRA’s procedures), in subsection (13), after paragraph (fa) insert—
+**15.**[^c-741e858b5e1ecc74e44de588763639ea] In section 395 (the FCA’s and PRA’s procedures), in subsection (13), after paragraph (fa) insert—
 
 > - (fb) 309R(5), (8) or (10)(b);
 
 .
 
-**16.**[^key-3255ffbcd9777880205d974723ff7022] (1) Section 417(1) (interpretation) is amended as follows.
+**16.**[^c-3255ffbcd9777880205d974723ff7022] (1) Section 417(1) (interpretation) is amended as follows.
 
 (2) In the appropriate place insert—
 
@@ -1009,7 +1009,7 @@ FSMA 2000 is amended as follows.
 
 (3) In the definition of “prohibition order”, after ““Part 9C prohibition order”” insert “or ““Part 18C prohibition order””.
 
-**17.**[^key-b15ae98f3c7c1c16e0d66a2f55a96281] In section 429 (Parliamentary control of statutory instruments)
+**17.**[^c-b15ae98f3c7c1c16e0d66a2f55a96281] In section 429 (Parliamentary control of statutory instruments)
 
 - (a) in subsection (2), in the list of sections beginning with “90B” insert at the appropriate place “309Z8,”;
 - (b) in subsection (2B), after paragraph (ba) insert—
@@ -1018,7 +1018,7 @@ FSMA 2000 is amended as follows.
 
   .
 
-**18.**[^key-87c462f7c35916d77ec719b6482067f6] (1) Schedule 1ZA (the Financial Conduct Authority) is amended as follows.
+**18.**[^c-87c462f7c35916d77ec719b6482067f6] (1) Schedule 1ZA (the Financial Conduct Authority) is amended as follows.
 
 (2) In paragraph 20(4), after paragraph (ba) insert—
 
@@ -1030,7 +1030,7 @@ FSMA 2000 is amended as follows.
 
 > - (c) a fee to be paid by any person whose application under section 309I for approval under section 309G has been granted.
 
-**19.**[^key-9862f9e69ddfeddd4bc7a6a83b616701] In Schedule 2A (Gibraltar-based persons carrying on activities in the UK), in paragraph 19 (power to reject: prohibition order in respect of senior manager), in sub-paragraph (2)(b)—
+**19.**[^c-9862f9e69ddfeddd4bc7a6a83b616701] In Schedule 2A (Gibraltar-based persons carrying on activities in the UK), in paragraph 19 (power to reject: prohibition order in respect of senior manager), in sub-paragraph (2)(b)—
 
 - (a) omit the “or” at the end of paragraph (ii) and insert—
 
@@ -1039,7 +1039,7 @@ FSMA 2000 is amended as follows.
   ;
 - (b) in paragraph (iii) for “or 143S” substitute “, 143S or 309B”.
 
-**20.**[^key-971d64b90f75ceefe914556d9cf16ffc] (1) Schedule 17A (further provision in relation to exercise of Part 18 functions by Bank of England) is amended as follows.
+**20.**[^c-971d64b90f75ceefe914556d9cf16ffc] (1) Schedule 17A (further provision in relation to exercise of Part 18 functions by Bank of England) is amended as follows.
 
 (2) After paragraph 6 insert—
 
@@ -1092,7 +1092,7 @@ FSMA 2000 is amended as follows.
 
 > (5) The power conferred by this paragraph may not be used to require a fee to be paid by any person whose application under section 309I for approval under section 309G has been granted.
 
-#### 21. Financial Services Act 2012[^key-a0f79cd64470e1537a4b28c7393ba0a4]
+#### 21. Financial Services Act 2012[^c-a0f79cd64470e1537a4b28c7393ba0a4]
 
 (1) Section 110 of the Financial Services Act 2012 (payment to Treasury of penalties received by Bank of England) is amended as follows.
 
@@ -1106,44 +1106,44 @@ FSMA 2000 is amended as follows.
 
 ## Annotations
 
-[^key-870be7d75f5ace5c7212ea2bd2d1f13c]: Commencement: Sch. 10 para. 1 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-870be7d75f5ace5c7212ea2bd2d1f13c]: Commencement: Sch. 10 para. 1 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-0882be3ad6ebde34e796a83bbf33e647]: Commencement: Sch. 10 para. 2 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-0882be3ad6ebde34e796a83bbf33e647]: Commencement: Sch. 10 para. 2 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-e0b654bd0e47bd6f86c0011f60cc1dce]: Commencement: Sch. 10 para. 3 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-e0b654bd0e47bd6f86c0011f60cc1dce]: Commencement: Sch. 10 para. 3 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-0d30b6624abdcc12ca7156daaa886d9c]: Commencement: Sch. 10 para. 4 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-0d30b6624abdcc12ca7156daaa886d9c]: Commencement: Sch. 10 para. 4 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-040a779c7befef7dbf7ce882eac8c99a]: Commencement: Sch. 10 para. 5 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-040a779c7befef7dbf7ce882eac8c99a]: Commencement: Sch. 10 para. 5 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-26f211ae67f489649eb0fadbf538b316]: Commencement: Sch. 10 para. 6 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-26f211ae67f489649eb0fadbf538b316]: Commencement: Sch. 10 para. 6 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-fed4d9c6656f78d69a9510881624c41f]: Commencement: Sch. 10 para. 7 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-fed4d9c6656f78d69a9510881624c41f]: Commencement: Sch. 10 para. 7 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-b044b95e4ce2c926a7dc29addf8b000d]: Commencement: Sch. 10 para. 8 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-b044b95e4ce2c926a7dc29addf8b000d]: Commencement: Sch. 10 para. 8 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-3cffe8f9ae0d119fd0ade3f31e98682f]: Commencement: Sch. 10 para. 9 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-3cffe8f9ae0d119fd0ade3f31e98682f]: Commencement: Sch. 10 para. 9 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-257ae1385b9efa7ebb0027eccacc401d]: Commencement: Sch. 10 para. 10 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-257ae1385b9efa7ebb0027eccacc401d]: Commencement: Sch. 10 para. 10 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-3422a59827eb31942457c419a90a473f]: Commencement: Sch. 10 para. 11 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-3422a59827eb31942457c419a90a473f]: Commencement: Sch. 10 para. 11 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-2ea42f5129c7d82217723a28946ff088]: Commencement: Sch. 10 para. 12 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-2ea42f5129c7d82217723a28946ff088]: Commencement: Sch. 10 para. 12 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-0ce38baeadcf2c50ce4dc48cccc8fdd2]: Commencement: Sch. 10 para. 13 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-0ce38baeadcf2c50ce4dc48cccc8fdd2]: Commencement: Sch. 10 para. 13 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-e4a852101bb2b23b3b4befecc3988ef9]: Commencement: Sch. 10 para. 14 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-e4a852101bb2b23b3b4befecc3988ef9]: Commencement: Sch. 10 para. 14 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-741e858b5e1ecc74e44de588763639ea]: Commencement: Sch. 10 para. 15 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-741e858b5e1ecc74e44de588763639ea]: Commencement: Sch. 10 para. 15 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-3255ffbcd9777880205d974723ff7022]: Commencement: Sch. 10 para. 16 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-3255ffbcd9777880205d974723ff7022]: Commencement: Sch. 10 para. 16 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-b15ae98f3c7c1c16e0d66a2f55a96281]: Commencement: Sch. 10 para. 17 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-b15ae98f3c7c1c16e0d66a2f55a96281]: Commencement: Sch. 10 para. 17 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-87c462f7c35916d77ec719b6482067f6]: Commencement: Sch. 10 para. 18 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-87c462f7c35916d77ec719b6482067f6]: Commencement: Sch. 10 para. 18 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-9862f9e69ddfeddd4bc7a6a83b616701]: Commencement: Sch. 10 para. 19 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-9862f9e69ddfeddd4bc7a6a83b616701]: Commencement: Sch. 10 para. 19 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-971d64b90f75ceefe914556d9cf16ffc]: Commencement: Sch. 10 para. 20 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-971d64b90f75ceefe914556d9cf16ffc]: Commencement: Sch. 10 para. 20 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
 
-[^key-a0f79cd64470e1537a4b28c7393ba0a4]: Commencement: Sch. 10 para. 21 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-a0f79cd64470e1537a4b28c7393ba0a4]: Commencement: Sch. 10 para. 21 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)

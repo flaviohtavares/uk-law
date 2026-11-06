@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Transitional provisions in respect of applications to release[^key-871bf264098c6dfdc459b92e9ffeeb3c]
+## 13. Transitional provisions in respect of applications to release[^c-871bf264098c6dfdc459b92e9ffeeb3c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-871bf264098c6dfdc459b92e9ffeeb3c]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2002/541/regulation/13) omitted (15.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2019/86/regulation/6)
+[^c-871bf264098c6dfdc459b92e9ffeeb3c]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2002/541/regulation/13) omitted (15.3.2019) by virtue of [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2019/86/regulation/6)

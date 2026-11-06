@@ -39,7 +39,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by sections 74(2)(c) and 75(3) of the Children and Families (Wales) Measure 2010[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-3eb8f7daeda775d06f4e8ded9bbe93e9]
+## 1. Title and interpretation[^c-3eb8f7daeda775d06f4e8ded9bbe93e9]
 
 (1) The title of this Order is the Children and Families (Wales) Measure 2010 (Commencement No. 2, Savings and Transitional Provisions) Order 2010.
 
@@ -49,19 +49,19 @@ The Welsh Ministers, in exercise of the powers conferred by sections 74(2)(c) an
 - “the Measure” (“*y Mesur*”) means the Children and Families (Wales) Measure 2010;
 - “the Disqualification Regulations” (“*y Rheoliadau Anghymwyso*”) means the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010[^f00003].
 
-## 2. Provisions coming into force on 1 April 2011[^key-9f69995383e8b1356d797f023ae51e22]
+## 2. Provisions coming into force on 1 April 2011[^c-9f69995383e8b1356d797f023ae51e22]
 
 Subject to articles 3, 4 and 5, the provisions of the Measure specified in Schedule 1 come into force on 1 April 2011.
 
-## 3. Saving provision for the Disqualification Regulations[^key-0e5a9b4e23842fd184e407d50afa9d9c]
+## 3. Saving provision for the Disqualification Regulations[^c-0e5a9b4e23842fd184e407d50afa9d9c]
 
 Notwithstanding the repeal of sections 79C(2) and (3) and 79M of the 1989 Act, the Child Minding and Day Care (Disqualification) (Wales) Regulations 2010 continue to have effect until such time as regulations are made under section 38 of the Measure (*disqualification from registration*).
 
-## 4. Savings and transitional provisions[^key-f0956458170f5ac1b4c7044127b16a74]
+## 4. Savings and transitional provisions[^c-f0956458170f5ac1b4c7044127b16a74]
 
 Schedules 2 and 3, which make savings and transitional provisions in connection with the commencement by this Order of the provisions set out in Schedule 1, have effect and come into force on 1 April 2011.
 
-## 5. Consequential amendments to miscellaneous subordinate legislation[^key-391ef4bb8269d855c19eb2db6d8bfcd7]
+## 5. Consequential amendments to miscellaneous subordinate legislation[^c-391ef4bb8269d855c19eb2db6d8bfcd7]
 
 Schedule 4, which contains amendments to miscellaneous subordinate legislation in consequence of the commencement of the provisions specified in Schedule 1, has effect and comes into force on 1 April 2011.
 
@@ -71,7 +71,7 @@ Deputy Minister for Children, under authority of the Minister for Children, Educ
 
 20 October 2010
 
-## SCHEDULE 1 — PROVISIONS COMING INTO FORCE ON 1 APRIL 2011[^key-13eb8b36df7e9fe2b94941c58ba9f2d4]
+## SCHEDULE 1 — PROVISIONS COMING INTO FORCE ON 1 APRIL 2011[^c-13eb8b36df7e9fe2b94941c58ba9f2d4]
 
 Article 2
 
@@ -122,13 +122,13 @@ Article 2
 
 Article 4
 
-### 1. Interpretation[^key-9e67713ab1cf442628c31ac98240bc25]
+### 1. Interpretation[^c-9e67713ab1cf442628c31ac98240bc25]
 
 In this Schedule and in Schedule 3—
 
 - “First-tier Tribunal” (“*Tribiwnlys Haen Cyntaf*”) has the same meaning as in the Tribunals, Courts and Enforcement Act 2007[^f00004].
 
-### 2. General savings for things done before the relevant date[^key-c69cff74da04ea18bcddd81f57fc8046]
+### 2. General savings for things done before the relevant date[^c-c69cff74da04ea18bcddd81f57fc8046]
 
 (1) Unless in Schedule 3 the contrary intention appears, the coming into force of the provisions set out in Schedule 1 does not affect—
 
@@ -145,7 +145,7 @@ under, or in relation to any of the provisions amended or repealed as a conseque
 
 Article 4
 
-### 1. Interpretation[^key-91823d7fe6b6dfb073633537b20ade05]
+### 1. Interpretation[^c-91823d7fe6b6dfb073633537b20ade05]
 
 In this Schedule—
 
@@ -158,7 +158,7 @@ In this Schedule—
 - “the relevant date” (“*y dyddiad perthnasol*”) means 1 April 2011;
 - “transfer” (“*trosglwyddo*”) in relation to registration refers to the process for which provision is made in paragraph 2(2) and “transferred” (“*trosglwyddwyd*”) is to be construed accordingly.
 
-### 2. Registration of Child Minders and Day Care Providers under Part XA of and Schedule 9A to the 1989 Act on 1 April 2011[^key-f957bf48d4b0ad72c42f8a0a9ec4f5e8]
+### 2. Registration of Child Minders and Day Care Providers under Part XA of and Schedule 9A to the 1989 Act on 1 April 2011[^c-f957bf48d4b0ad72c42f8a0a9ec4f5e8]
 
 (1) This paragraph applies in respect of a person who immediately before the relevant date—
 
@@ -175,7 +175,7 @@ In this Schedule—
 
 (6) Sub-paragraph (2) does not apply in respect of a person who immediately before the relevant date was registered as child minder under section 79F(1) or, as the case may be, a provider of day care under section 79F(2) of the 1989 Act and who, on the relevant date and in accordance with the coming into force of the Exceptions Order 2010, is no longer eligible to register as child minder under section 24 or, as the case may be, a provider of day care for children under section 26 of the Measure.
 
-### 3. Certificates of registration[^key-95180e02a8fb111cc39503be2a5b44c4]
+### 3. Certificates of registration[^c-95180e02a8fb111cc39503be2a5b44c4]
 
 (1) This paragraph applies in relation to any person whose registration is transferred under paragraph 2(2).
 
@@ -192,7 +192,7 @@ In this Schedule—
 
 provided by a person to whom this paragraph applies will be taken to constitute a change of circumstances for the purposes of that section in relation to the registration concerned.
 
-### 4. Persons not eligible for registration under Part XA of and Schedule 9A to the 1989 Act before 1 April 2011[^key-8b0602e6ffc1cafd09ed71f106a8305d]
+### 4. Persons not eligible for registration under Part XA of and Schedule 9A to the 1989 Act before 1 April 2011[^c-8b0602e6ffc1cafd09ed71f106a8305d]
 
 (1) This sub-paragraph applies to any person (“an unregistered child minder”) who before the relevant date—
 
@@ -220,7 +220,7 @@ provided by a person to whom this paragraph applies will be taken to constitute 
   - (i) if no appeal is brought, until the expiration of the period of 28 days after service upon the unregistered provider of the decision of the Welsh Ministers; or
   - (ii) if an appeal is brought, until it is determined or abandoned.
 
-### 5. Applications for registration under Part XA of and Schedule 9A to the 1989 Act: undetermined applications[^key-695f8b7df68b5c0a16188f58e0626159]
+### 5. Applications for registration under Part XA of and Schedule 9A to the 1989 Act: undetermined applications[^c-695f8b7df68b5c0a16188f58e0626159]
 
 (1) Where a person has applied for registration as a child minder under section 79E of the 1989 (*applications for registration*) and, immediately before the relevant date, the Welsh Ministers have not granted or refused the person’s application, the application is to be determined as if it had been made under section 24 of the Measure (*applications for registration: child minding*).
 
@@ -228,7 +228,7 @@ provided by a person to whom this paragraph applies will be taken to constitute 
 
 (3) Where this paragraph applies, the Welsh Ministers may only register that person if, had the application been made under Part 2 of the Measure, the Welsh Ministers would have been required by section 24 or, as the case may be, section 26 of the Measure, to grant the application.
 
-### 6. Notice of intention to refuse an application for registration under section 79L(1)(a) of the 1989 Act[^key-114baf1732877b7455db680b022da6cd]
+### 6. Notice of intention to refuse an application for registration under section 79L(1)(a) of the 1989 Act[^c-114baf1732877b7455db680b022da6cd]
 
 (1) This paragraph applies where the Welsh Ministers have, before the relevant date, sent a notice to a person of intention to refuse an application for registration under section 79(L)(1)(a) of the 1989 Act (*notice of intention to take steps*).
 
@@ -242,7 +242,7 @@ provided by a person to whom this paragraph applies will be taken to constitute 
 
 (6) Where this paragraph applies, a notice continues to have effect only to the extent that it could have had effect had it been given under section 36 of the Measure.
 
-### 7. Notice of intention to take steps under section 79L(1)(b) to (d) of the 1989 Act[^key-5b1017a597fa7b56ab8fe21991b7d1ee]
+### 7. Notice of intention to take steps under section 79L(1)(b) to (d) of the 1989 Act[^c-5b1017a597fa7b56ab8fe21991b7d1ee]
 
 (1) This paragraph applies where—
 
@@ -260,7 +260,7 @@ provided by a person to whom this paragraph applies will be taken to constitute 
 
 (6) Where this paragraph applies, a notice continues to have effect only to the extent that it could have effect had it been given under section 36 of the Measure.
 
-### 8. Appeals against steps mentioned in section 79L(1) of the 1989 Act[^key-fd75a3536beb649e45df98e68def19b9]
+### 8. Appeals against steps mentioned in section 79L(1) of the 1989 Act[^c-fd75a3536beb649e45df98e68def19b9]
 
 (1) This paragraph applies where, before the relevant date, an appeal has been made to the First-tier Tribunal under section 79M(1) of the 1989 Act (*appeals*) against a step taken by the Welsh Ministers mentioned in section 79L(1), in respect of which the Tribunal has not reached a decision under section 79M(2).
 
@@ -268,34 +268,34 @@ provided by a person to whom this paragraph applies will be taken to constitute 
 
 (3) Where this paragraph applies, an appeal falls to be decided as if the step in respect of which the appeal is brought had been taken under the Measure.
 
-### 9. Appeals: protection of children in an emergency[^key-b19b88389fa101363b840a544482b295]
+### 9. Appeals: protection of children in an emergency[^c-b19b88389fa101363b840a544482b295]
 
 (1) This paragraph applies where, before the relevant date, an appeal has been made to the First-Tier Tribunal under section 79M(1) of the 1989 Act against an order under section 79K of the 1989 Act (*protection of children in an emergency*), in respect of which the Tribunal has not reached a decision under section 79M(2).
 
 (2) The appeal will be treated, on and after the relevant date, as being an appeal under section 37 of the Measure.
 
-### 10. Appeals: disqualification[^key-b4955ee06266f9008b5df3a25a04b74a]
+### 10. Appeals: disqualification[^c-b4955ee06266f9008b5df3a25a04b74a]
 
 (1) This paragraph applies where, before the relevant date, an appeal has been made to the First-Tier Tribunal under section 79M(1) of the 1989 Act against a determination by the Welsh Ministers under regulation 9 of the Disqualification Regulations 2010, in respect of which the Tribunal has not reached a decision under section 79M(2).
 
 (2) Subject to article 3, the appeal will be treated, on and after the relevant date, as being an appeal made in accordance with the Disqualification Regulations 2010 and will be determined in accordance with section 79M of the 1989 Act.
 
-### 11. Notice under section 79D of the 1989 Act[^key-488d4cc0c4b4261856a8bc61006def70]
+### 11. Notice under section 79D of the 1989 Act[^c-488d4cc0c4b4261856a8bc61006def70]
 
 Where before the relevant date, the Welsh Ministers have served an enforcement notice under section 79D(2) of the 1989 Act, the notice continues to have effect on and after the relevant date as if it had been served under section 21(3) of the Measure (*duty of child minders to register*).
 
-### 12. Compliance notices under the 2002 Regulations[^key-98a570c11b0d7e90d30d487b1c1dbe20]
+### 12. Compliance notices under the 2002 Regulations[^c-98a570c11b0d7e90d30d487b1c1dbe20]
 
 Where before the relevant date, the Welsh Ministers have issued a compliance notice in accordance with regulation 3C of the 2002 Regulations (*compliance notification*), on or after the relevant date that notice will be treated as having been given under regulation 18 of the 2010 Regulations.
 
-### 13. National Minimum Standards[^key-7c08f2df48c7b034105bda23f4c60995]
+### 13. National Minimum Standards[^c-7c08f2df48c7b034105bda23f4c60995]
 
 In exercising functions under Part 2 of the Measure, the Welsh Ministers may have regard to–
 
 - (a) anything done, or alleged to have been done, by a person registered under Part XA of and Schedule 9A to the 1989 Act to comply with the duty imposed by regulation 23 of the 2002 Regulations (*standards*);
 - (b) any failure, or alleged failure, by a person registered under Part XA of and Schedule 9A to the 1989 Act to comply with the duty imposed by regulation 24 of the 2002 Regulations.
 
-### 14. Suspension[^key-3eaabaebb5daaa3768ccafcd755a6066]
+### 14. Suspension[^c-3eaabaebb5daaa3768ccafcd755a6066]
 
 (1) This paragraph applies where immediately before the relevant date a person’s registration is suspended by the Welsh Ministers under regulation 3 of the Suspension Regulations 2004 (*power to suspend registration*).
 
@@ -303,7 +303,7 @@ In exercising functions under Part 2 of the Measure, the Welsh Ministers may hav
 
 (3) Where a person has appealed to the Tribunal under regulation 8 of the Suspension Regulations 2004 (*rights of appeal*) and the First-Tier Tribunal has not reached a decision, the appeal will, on and after the relevant date, be treated as having been made under regulation 45 of the 2010 Regulations (*rights of appeal*).
 
-### 15. Disqualification: waivers[^key-521fd74cb0ce42a24a93993dc8747838]
+### 15. Disqualification: waivers[^c-521fd74cb0ce42a24a93993dc8747838]
 
 (1) Where before the relevant date the Welsh Ministers have given consent to waive a disqualification under regulation 9 of the Disqualification Regulations 2010 (and have not withdrawn that consent) that consent will continue to have effect on and after the relevant date.
 
@@ -311,14 +311,14 @@ In exercising functions under Part 2 of the Measure, the Welsh Ministers may hav
 
 (3) A consent given by a local authority and referred to in regulation 9(3)(b) of the Disqualification Regulations 2010 continues to have effect on and after the relevant date.
 
-### 16. Protection of children in an emergency: application under section 79K of the 1989 Act[^key-e5ee70e702ae5526b4dea435505f6fb0]
+### 16. Protection of children in an emergency: application under section 79K of the 1989 Act[^c-e5ee70e702ae5526b4dea435505f6fb0]
 
 Where the Welsh Ministers have applied to a justice of the peace for an order—
 
 - (a) cancelling a person’s registration under section 79K(1)(a)(i) (protection of children in an emergency) of the 1989 Act and, immediately before the relevant date, the justice of the peace has not made the order, the application will, on and after that date, be treated as having been made under section 34 of the Measure (*protection of children in an emergency: cancellation of registration*);
 - (b) seeking to vary or remove any condition upon a person’s registration, or to impose a new condition under section 79K(1)(a)(ii) or (iii) respectively of the 1989 Act and, immediately before the relevant date, the justice of the peace has not made the order, the Welsh Ministers will withdraw the application and take action in accordance with the provisions of section 35 of the Measure (*protection of children in an emergency: changes to conditions*).
 
-## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS TO MISCELLANEOUS SUBORDINATE LEGISLATION[^key-efc0950d85ce87b6926df3e1604dac2f]
+## SCHEDULE 4 — CONSEQUENTIAL AMENDMENTS TO MISCELLANEOUS SUBORDINATE LEGISLATION[^c-efc0950d85ce87b6926df3e1604dac2f]
 
 Article 5
 
@@ -331,7 +331,7 @@ Article 5
 - (a) in paragraph (a) of the definition of “child minding”, for “section 79A of the Children Act 1989” substitute “section 19 of the Children and Families (Wales) Measure 2010”, and
 - (b) in paragraph (a) of the definition of “day care”, for “section 79D(5) of the Children Act 1989” substitute “section 23(1) of the Children and Families (Wales) Measure 2010”.
 
-### 2. Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^key-ed04225da0e59ddb363081b07a7146e1]
+### 2. Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^c-ed04225da0e59ddb363081b07a7146e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -550,7 +550,7 @@ In paragraph 19 of Schedule 1 to the Childcare (Disqualification) Regulations 20
 
   .
 
-### 24. Supreme Court Fees Order 2009[^key-ada0fa731faadefb335a295814eff24c]
+### 24. Supreme Court Fees Order 2009[^c-ada0fa731faadefb335a295814eff24c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -667,29 +667,29 @@ Schedule 3 contains savings and transitional provision. In particular—
 
 [^f00001]: Footnote: [2010 nawm 1](https://www.legislation.gov.uk/mwa/2010/1).
 
-[^key-3eb8f7daeda775d06f4e8ded9bbe93e9]: Commencement: Art. 1 in force at made date
+[^c-3eb8f7daeda775d06f4e8ded9bbe93e9]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
 [^f00003]: Footnote: S.I. [2010/1703 (W.163)](https://www.legislation.gov.uk/wsi/2010/1703).
 
-[^key-9f69995383e8b1356d797f023ae51e22]: Commencement: Art. 2 in force at made date
+[^c-9f69995383e8b1356d797f023ae51e22]: Commencement: Art. 2 in force at made date
 
-[^key-0e5a9b4e23842fd184e407d50afa9d9c]: Commencement: Art. 3 in force at made date
+[^c-0e5a9b4e23842fd184e407d50afa9d9c]: Commencement: Art. 3 in force at made date
 
-[^key-f0956458170f5ac1b4c7044127b16a74]: Commencement: Art. 4 in force at made date
+[^c-f0956458170f5ac1b4c7044127b16a74]: Commencement: Art. 4 in force at made date
 
-[^key-391ef4bb8269d855c19eb2db6d8bfcd7]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2010/2582/article/5) inserted (4.3.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/wsi/2011/577), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/577/article/2/1)[(2)](https://www.legislation.gov.uk/wsi/2011/577/article/2/2)
+[^c-391ef4bb8269d855c19eb2db6d8bfcd7]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/wsi/2010/2582/article/5) inserted (4.3.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/wsi/2011/577), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/577/article/2/1)[(2)](https://www.legislation.gov.uk/wsi/2011/577/article/2/2)
 
-[^key-13eb8b36df7e9fe2b94941c58ba9f2d4]: Commencement: Sch. 1 in force at made date
+[^c-13eb8b36df7e9fe2b94941c58ba9f2d4]: Commencement: Sch. 1 in force at made date
 
-[^key-9e67713ab1cf442628c31ac98240bc25]: Commencement: Sch. 2 para. 1 in force at made date
+[^c-9e67713ab1cf442628c31ac98240bc25]: Commencement: Sch. 2 para. 1 in force at made date
 
 [^f00004]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-c69cff74da04ea18bcddd81f57fc8046]: Commencement: Sch. 2 para. 2 in force at made date
+[^c-c69cff74da04ea18bcddd81f57fc8046]: Commencement: Sch. 2 para. 2 in force at made date
 
-[^key-91823d7fe6b6dfb073633537b20ade05]: Commencement: Sch. 3 para. 1 in force at made date
+[^c-91823d7fe6b6dfb073633537b20ade05]: Commencement: Sch. 3 para. 1 in force at made date
 
 [^f00005]: Footnote: S.I. [2002/812 (W.92)](https://www.legislation.gov.uk/wsi/2002/812).
 
@@ -699,38 +699,38 @@ Schedule 3 contains savings and transitional provision. In particular—
 
 [^f00008]: Footnote: S.I. [2010/1703 (W.163)](https://www.legislation.gov.uk/wsi/2010/1703).
 
-[^key-f957bf48d4b0ad72c42f8a0a9ec4f5e8]: Commencement: Sch. 3 para. 2 in force at made date
+[^c-f957bf48d4b0ad72c42f8a0a9ec4f5e8]: Commencement: Sch. 3 para. 2 in force at made date
 
-[^key-95180e02a8fb111cc39503be2a5b44c4]: Commencement: Sch. 3 para. 3 in force at made date
+[^c-95180e02a8fb111cc39503be2a5b44c4]: Commencement: Sch. 3 para. 3 in force at made date
 
-[^key-8b0602e6ffc1cafd09ed71f106a8305d]: Commencement: Sch. 3 para. 4 in force at made date
+[^c-8b0602e6ffc1cafd09ed71f106a8305d]: Commencement: Sch. 3 para. 4 in force at made date
 
-[^key-695f8b7df68b5c0a16188f58e0626159]: Commencement: Sch. 3 para. 5 in force at made date
+[^c-695f8b7df68b5c0a16188f58e0626159]: Commencement: Sch. 3 para. 5 in force at made date
 
-[^key-114baf1732877b7455db680b022da6cd]: Commencement: Sch. 3 para. 6 in force at made date
+[^c-114baf1732877b7455db680b022da6cd]: Commencement: Sch. 3 para. 6 in force at made date
 
-[^key-5b1017a597fa7b56ab8fe21991b7d1ee]: Commencement: Sch. 3 para. 7 in force at made date
+[^c-5b1017a597fa7b56ab8fe21991b7d1ee]: Commencement: Sch. 3 para. 7 in force at made date
 
-[^key-fd75a3536beb649e45df98e68def19b9]: Commencement: Sch. 3 para. 8 in force at made date
+[^c-fd75a3536beb649e45df98e68def19b9]: Commencement: Sch. 3 para. 8 in force at made date
 
-[^key-b19b88389fa101363b840a544482b295]: Commencement: Sch. 3 para. 9 in force at made date
+[^c-b19b88389fa101363b840a544482b295]: Commencement: Sch. 3 para. 9 in force at made date
 
-[^key-b4955ee06266f9008b5df3a25a04b74a]: Commencement: Sch. 3 para. 10 in force at made date
+[^c-b4955ee06266f9008b5df3a25a04b74a]: Commencement: Sch. 3 para. 10 in force at made date
 
-[^key-488d4cc0c4b4261856a8bc61006def70]: Commencement: Sch. 3 para. 11 in force at made date
+[^c-488d4cc0c4b4261856a8bc61006def70]: Commencement: Sch. 3 para. 11 in force at made date
 
-[^key-98a570c11b0d7e90d30d487b1c1dbe20]: Commencement: Sch. 3 para. 12 in force at made date
+[^c-98a570c11b0d7e90d30d487b1c1dbe20]: Commencement: Sch. 3 para. 12 in force at made date
 
-[^key-7c08f2df48c7b034105bda23f4c60995]: Commencement: Sch. 3 para. 13 in force at made date
+[^c-7c08f2df48c7b034105bda23f4c60995]: Commencement: Sch. 3 para. 13 in force at made date
 
-[^key-3eaabaebb5daaa3768ccafcd755a6066]: Commencement: Sch. 3 para. 14 in force at made date
+[^c-3eaabaebb5daaa3768ccafcd755a6066]: Commencement: Sch. 3 para. 14 in force at made date
 
-[^key-521fd74cb0ce42a24a93993dc8747838]: Commencement: Sch. 3 para. 15 in force at made date
+[^c-521fd74cb0ce42a24a93993dc8747838]: Commencement: Sch. 3 para. 15 in force at made date
 
-[^key-e5ee70e702ae5526b4dea435505f6fb0]: Commencement: Sch. 3 para. 16 in force at made date
+[^c-e5ee70e702ae5526b4dea435505f6fb0]: Commencement: Sch. 3 para. 16 in force at made date
 
-[^key-efc0950d85ce87b6926df3e1604dac2f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4) inserted (4.3.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/wsi/2011/577), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/577/article/2/1)[(3)](https://www.legislation.gov.uk/wsi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/wsi/2011/577/schedule)
+[^c-efc0950d85ce87b6926df3e1604dac2f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4) inserted (4.3.2011) by [The Children and Families (Wales) Measure 2010 (Commencement No.2, Savings and Transitional Provisions) (Amendment) and (Consequential Amendments) Order 2011 (S.I. 2011/577)](https://www.legislation.gov.uk/wsi/2011/577), [art. 2(1)](https://www.legislation.gov.uk/wsi/2011/577/article/2/1)[(3)](https://www.legislation.gov.uk/wsi/2011/577/article/2/3), [Sch.](https://www.legislation.gov.uk/wsi/2011/577/schedule)
 
-[^key-ed04225da0e59ddb363081b07a7146e1]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4/paragraph/2) revoked (13.3.2017 with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) (with [reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7))
+[^c-ed04225da0e59ddb363081b07a7146e1]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4/paragraph/2) revoked (13.3.2017 with application in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017 (S.I. 2017/113)](https://www.legislation.gov.uk/wsi/2017/113), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) (with [reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7))
 
-[^key-ada0fa731faadefb335a295814eff24c]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4/paragraph/24) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-ada0fa731faadefb335a295814eff24c]: Textual amendment: [Sch. 4 para. 24](https://www.legislation.gov.uk/wsi/2010/2582/schedule/4/paragraph/24) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)

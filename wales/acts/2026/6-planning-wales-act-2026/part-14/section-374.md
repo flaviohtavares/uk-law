@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 374. Statutory review of development plans[^key-9d5b1501fa656fd4f1cd0b3a0facaa56]
+## 374. Statutory review of development plans[^c-9d5b1501fa656fd4f1cd0b3a0facaa56]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d5b1501fa656fd4f1cd0b3a0facaa56]: Commencement: S. 374 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-9d5b1501fa656fd4f1cd0b3a0facaa56]: Commencement: S. 374 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

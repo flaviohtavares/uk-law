@@ -52,7 +52,7 @@ The Secretary of State, in accordance with the requirements of section 173(6) of
 
 Accordingly the Secretary of State makes the following Order:
 
-## 1. Citation, commencement, extent and application[^key-94624457f7716e0d50553de3af08c201]
+## 1. Citation, commencement, extent and application[^c-94624457f7716e0d50553de3af08c201]
 
 (1) This Order may be cited as the Electricity and Gas Appeals (Designation and Exclusion) Order 2014 and comes into force on 18th June 2014.
 
@@ -60,19 +60,19 @@ Accordingly the Secretary of State makes the following Order:
 
 (3) This Order applies to appeals under section 173 of the Act[^f00003] from decisions made by GEMA on or after the date on which this Order comes into force.
 
-## 2. Interpretation[^key-4813e2ea054139135f53079e15797aea]
+## 2. Interpretation[^c-4813e2ea054139135f53079e15797aea]
 
 (1) In this Order—
 
 - “the Act” means the Energy Act 2004;
 - “distribution licence” means a licence granted under section 6(1)(c) of the Electricity Act 1989[^f00004];
 - “electricity supply licence” means a licence granted under section 6(1)(d) of the Electricity Act 1989[^f00005];
-- “[^key-df2da43447b420d9f81f50d7dc5cdc16]**electricity system operator licence**” means a licence granted under section 6(1)(da) of the Electricity Act 1989;
+- “[^c-df2da43447b420d9f81f50d7dc5cdc16]**electricity system operator licence**” means a licence granted under section 6(1)(da) of the Electricity Act 1989;
 - “gas supply licence” means a licence granted under section 7A of the Gas Act 1986[^f00006];
 - “smart meter communication licences” means—
   - (a) the licence granted to Smart DCC Limited[^f00007] on 20th September 2013 under section 7AB(2) of the Gas Act 1986[^f00008]; and
   - (b) the licence granted to Smart DCC Limited on 20th September 2013 under section 6(1A) of the Electricity Act 1989[^f00009];
-- [^key-7fb1551e729dc9c387c3c70c89f1162b]...
+- [^c-7fb1551e729dc9c387c3c70c89f1162b]...
 - “transportation licence” means a licence granted under section 7(2) of the Gas Act 1986[^f00011].
 
 (2) Subject to paragraph (3), a reference in this Order to—
@@ -82,16 +82,16 @@ Accordingly the Secretary of State makes the following Order:
 
 is to the version current at the date on which this Order comes into force.
 
-(2A)[^key-e8df976e47558571c85f72fc6bf6540f] A reference in this Order to a condition of an electricity system operator licence is to the version current at the date on which section 166(2) of the Energy Act 2023 (licensing of electricity system operator) came into force.
+(2A)[^c-e8df976e47558571c85f72fc6bf6540f] A reference in this Order to a condition of an electricity system operator licence is to the version current at the date on which section 166(2) of the Energy Act 2023 (licensing of electricity system operator) came into force.
 
-(3) At the time of any appeal under section 173 of the Act, the references mentioned in paragraph (2) or paragraph (2A)[^key-97672564e044b2f1b09545c80b7efc0d] are to the version of those conditions or documents current at the time of the decision by GEMA which is the subject of the appeal.
+(3) At the time of any appeal under section 173 of the Act, the references mentioned in paragraph (2) or paragraph (2A)[^c-97672564e044b2f1b09545c80b7efc0d] are to the version of those conditions or documents current at the time of the decision by GEMA which is the subject of the appeal.
 
-## 3. Designation of documents[^key-ef58277dcd569b46b9bd46b497de74a4]
+## 3. Designation of documents[^c-ef58277dcd569b46b9bd46b497de74a4]
 
 The following documents are designated for the purposes of section 173 of the Act—
 
-- (a) the Balancing and Settlement Code, being the document of that title required to be prepared pursuant to Condition E1 of an electricity system operator licence[^key-e1950dd0b55f0b20de9c1598885a8b9b];
-- (b) the Connection and Use of System Code, being the document of that title required to be prepared pursuant to Condition E2 of an electricity system operator licence[^key-80e468fb92461bec789528818fb74ebb];
+- (a) the Balancing and Settlement Code, being the document of that title required to be prepared pursuant to Condition E1 of an electricity system operator licence[^c-e1950dd0b55f0b20de9c1598885a8b9b];
+- (b) the Connection and Use of System Code, being the document of that title required to be prepared pursuant to Condition E2 of an electricity system operator licence[^c-80e468fb92461bec789528818fb74ebb];
 - (c) the Network Code, being the document of that title required to be prepared pursuant to Standard Special Condition A11 of a transportation licence[^f00013];
 - (d) the Uniform Network Code, being the document of that title required to be prepared pursuant to Standard Special Condition A11 of a transportation licence;
 - (e) the Uniform Network Code, being the document of that title required to be prepared pursuant to Standard Condition 9 of a transportation licence[^f00014];
@@ -100,7 +100,7 @@ The following documents are designated for the purposes of section 173 of the Ac
 - (h) the Distribution Connection and Use of System Agreement*,* being the document of that title referred to in Standard Condition 22 of a distribution licence[^f00017];
 - (i) the Smart Energy Code, being the document of that title required to be maintained and in force pursuant to Condition 21 of smart meter communication licences[^f00018].
 
-## 4. Exclusions[^key-6e8da34c9db4a1533803d575d7c54ca8]
+## 4. Exclusions[^c-6e8da34c9db4a1533803d575d7c54ca8]
 
 (1) A right of appeal under section 173 of the Act is excluded in respect of a decision by GEMA relating to a document designated by article 3 if—
 
@@ -109,13 +109,13 @@ The following documents are designated for the purposes of section 173 of the Ac
 
 (2) Where GEMA makes a determination under paragraph (1)(b), it must give notice of the determination in such manner as it considers appropriate for the purpose of bringing it to the attention of persons likely to be interested in it.
 
-## 5. Balancing and Settlement Code[^key-8e68a2e595c5c8b1718d14fe8d250390]
+## 5. Balancing and Settlement Code[^c-8e68a2e595c5c8b1718d14fe8d250390]
 
 (1) For a decision relating to the Balancing and Settlement Code, the specified condition is that the decision consists in the giving of a consent to a majority recommendation made by the Panel in the Modification Report.
 
 (2) In this article, the words “Panel” and “Modification Report” have the same meanings as in the Balancing and Settlement Code.
 
-## 6. Connection and Use of System Code[^key-0ec72fdc2a2c3af4fe873c28ac83447b]
+## 6. Connection and Use of System Code[^c-0ec72fdc2a2c3af4fe873c28ac83447b]
 
 (1) For a decision relating to the Connection and Use of System Code, the specified condition is that the decision consists in the giving of a consent to a majority recommendation of Panel Members in the Modification Report.
 
@@ -124,43 +124,43 @@ The following documents are designated for the purposes of section 173 of the Ac
 - (a) “majority recommendation” means a recommendation that is supported by the majority of those views of Panel Members which, in the reasonable opinion of GEMA, are clearly expressed in the Modification Report; and
 - (b) the words “Panel Members” and “Modification Report” have the same meanings as in the Connection and Use of System Code.
 
-## 7. Network Code[^key-e8f344ff1a5ec9b32e5632f5e60e906a]
+## 7. Network Code[^c-e8f344ff1a5ec9b32e5632f5e60e906a]
 
 (1) For a decision relating to the Network Code, the specified condition is that the decision accords with a majority recommendation made by the Modification Panel in the Modification Report.
 
 (2) In this article, the words “Modification Panel” and “Modification Report” have the same meanings as in the Uniform Network Code designated by article 3(d).
 
-## 8. Uniform Network Code required under transportation licence Standard Special Conditions[^key-0cd4baee6a4d3528983e314dc347c6c7]
+## 8. Uniform Network Code required under transportation licence Standard Special Conditions[^c-0cd4baee6a4d3528983e314dc347c6c7]
 
 (1) For a decision relating to the Uniform Network Code designated by article 3(d), the specified condition is that the decision consists in the giving of a consent to a majority recommendation made by the Modification Panel in the Modification Report.
 
 (2) In this article, the words “Modification Panel” and “Modification Report” have the same meanings as in the Uniform Network Code designated by article 3(d).
 
-## 9. Uniform Network Code required under transportation licence Standard Conditions[^key-f9282ff67ea1b3f0ba7870637c21a26d]
+## 9. Uniform Network Code required under transportation licence Standard Conditions[^c-f9282ff67ea1b3f0ba7870637c21a26d]
 
 (1) For a decision relating to the Uniform Network Code designated by article 3(e), the specified condition is that the decision is to give consent to the recommendation by the Panel Majority in respect of a proposed modification in a Final Modification Report.
 
 (2) In this article, the words “Final Modification Report” and “Panel Majority” have the same meaning as in the Uniform Network Code designated by article 3(e).
 
-## 10. Supply Point Administration Agreement[^key-62d774e65a3e99ead0708dfc88cfa93b]
+## 10. Supply Point Administration Agreement[^c-62d774e65a3e99ead0708dfc88cfa93b]
 
 (1) For a decision relating to the Supply Point Administration Agreement, the specified condition is that the decision consists in the giving of a consent to a Change Proposal.
 
 (2) In this article, the words “Change Proposal” have the same meaning as in the Supply Point Administration Agreement.
 
-## 11. Master Registration Agreement[^key-4ae7001349caba8f99168d7653fe95d3]
+## 11. Master Registration Agreement[^c-4ae7001349caba8f99168d7653fe95d3]
 
 (1) For a decision relating to the Master Registration Agreement, the specified condition is that the decision consists in the giving of a consent to a resolution of the MEC arising from the Change Procedures.
 
 (2) In this article, the words “MEC” and “Change Procedures” have the same meanings as in the Master Registration Agreement.
 
-## 12. Distribution Connection and Use of System Agreement[^key-7fa3d4e998efc03dbe3939c031785596]
+## 12. Distribution Connection and Use of System Agreement[^c-7fa3d4e998efc03dbe3939c031785596]
 
 (1) For a decision relating to the Distribution Connection and Use of System Agreement, the specified condition is that the decision is to give consent to the deemed recommendation of the Parties pursuant to the Voting Procedure.
 
 (2) In this article, the words “Parties” and “Voting Procedure” have the same meaning as in the Distribution Connection and Use of System Agreement.
 
-## 13. Smart Energy Code[^key-3bb0577737e18ed37f50c59b839900eb]
+## 13. Smart Energy Code[^c-3bb0577737e18ed37f50c59b839900eb]
 
 (1) For a decision relating to the Smart Energy Code, the specified condition is that the decision accords with—
 
@@ -174,7 +174,7 @@ The following documents are designated for the purposes of section 173 of the Ac
 
 (3) In this article, the words “Panel”, “Path 1 Modification”, “Path 2 Modification”, “Path 3 Modification” and “Change Board” have the same meaning as in section A1 of the Smart Energy Code.
 
-## 14. Revocation and transitional provision[^key-c9ad4943aae37920fa0e27e164aa38f4]
+## 14. Revocation and transitional provision[^c-c9ad4943aae37920fa0e27e164aa38f4]
 
 (1) The Orders listed in the Schedule are revoked, subject to the transitional provision in paragraph (2).
 
@@ -188,7 +188,7 @@ Department of Energy and Climate Change
 
 19th May 2014
 
-## SCHEDULE[^key-4041bbf0d63c9844286402cc77217b75]
+## SCHEDULE[^c-4041bbf0d63c9844286402cc77217b75]
 
 Article 14
 
@@ -230,17 +230,17 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00002]: Footnote: The Gas and Electricity Markets Authority, referred to as “GEMA” in accordance with section 196(1) of the Energy Act 2004, was established by section 1 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-94624457f7716e0d50553de3af08c201]: Commencement: Art. 1 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-94624457f7716e0d50553de3af08c201]: Commencement: Art. 1 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
 [^f00003]: Footnote: Section 173 has been amended by paragraphs 101 and 102 of Schedule 6 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) and section 81(4) of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-4813e2ea054139135f53079e15797aea]: Commencement: Art. 2 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-4813e2ea054139135f53079e15797aea]: Commencement: Art. 2 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
 [^f00004]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act 2000, and subsection (1)(c) was amended by Part 1 of Schedule 23 to the Energy Act 2004.
 
 [^f00005]: Footnote: Section 6(1)(d) was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
-[^key-df2da43447b420d9f81f50d7dc5cdc16]: Textual amendment: Words in art. 2(1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/a/i); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-df2da43447b420d9f81f50d7dc5cdc16]: Textual amendment: Words in art. 2(1) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/a/i); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00006]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Section 7A was inserted by section 6(1) of the Gas Act [1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45); amended by section 149 of the Energy Act 2004 and Schedule 8 to the Utilities Act 2000; and modified by section 3(2) of, and paragraphs 1 and 2 of Schedule 6 to the Utilities Act 2000.
 
@@ -250,19 +250,19 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00009]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the Utilities Act 2000. Subsection (1A) was inserted by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400). A smart meter communication licence authorises the carrying out of a smart meter communication service within the meaning of section 4(3G) of the Electricity Act 1989; subsection (3G) was inserted by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
-[^key-7fb1551e729dc9c387c3c70c89f1162b]: Textual amendment: Words in art. 2(1) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/a/ii); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-7fb1551e729dc9c387c3c70c89f1162b]: Textual amendment: Words in art. 2(1) omitted (1.10.2024) by virtue of [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/a/ii); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00011]: Footnote: Section 7 was substituted by section 5 of the Gas Act 1995. Subsection (2) was amended by section 76 of, and paragraphs 1 and 4 of Schedule 6 to, the Utilities Act 2000 and by [S.I. 2011/2704](https://www.legislation.gov.uk/uksi/2011/2704); and modified by section 3(2) of the Utilities Act 2000.
 
-[^key-e8df976e47558571c85f72fc6bf6540f]: Textual amendment: Art. 2(2A) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-e8df976e47558571c85f72fc6bf6540f]: Textual amendment: Art. 2(2A) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-97672564e044b2f1b09545c80b7efc0d]: Textual amendment: Words in art. 2(3) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(c)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/c); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-97672564e044b2f1b09545c80b7efc0d]: Textual amendment: Words in art. 2(3) inserted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(2)(c)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/2/c); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-ef58277dcd569b46b9bd46b497de74a4]: Commencement: Art. 3 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-ef58277dcd569b46b9bd46b497de74a4]: Commencement: Art. 3 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-e1950dd0b55f0b20de9c1598885a8b9b]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1293/article/3/a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(3)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/3/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-e1950dd0b55f0b20de9c1598885a8b9b]: Textual amendment: Words in [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/1293/article/3/a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(3)(a)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/3/a); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-80e468fb92461bec789528818fb74ebb]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1293/article/3/b) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/3/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-80e468fb92461bec789528818fb74ebb]: Textual amendment: Words in [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/1293/article/3/b) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [27(3)(b)](https://www.legislation.gov.uk/uksi/2024/706/regulation/27/3/b); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
 [^f00013]: Footnote: A consolidated version of the standard special conditions for a transportation licence can be found here: https://epr.ofgem.gov.uk//Content/Documents/Standard%20Special%20Condition%20-%20PART%20A%20Consolidated%20-%20Current%20Version.pdf .
 
@@ -276,26 +276,26 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^f00018]: Footnote: The Smart Energy Code came into force on 23rd September 2013 and is available at *www.gemserv.com*.
 
-[^key-6e8da34c9db4a1533803d575d7c54ca8]: Commencement: Art. 4 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-6e8da34c9db4a1533803d575d7c54ca8]: Commencement: Art. 4 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-8e68a2e595c5c8b1718d14fe8d250390]: Commencement: Art. 5 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-8e68a2e595c5c8b1718d14fe8d250390]: Commencement: Art. 5 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-0ec72fdc2a2c3af4fe873c28ac83447b]: Commencement: Art. 6 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-0ec72fdc2a2c3af4fe873c28ac83447b]: Commencement: Art. 6 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-e8f344ff1a5ec9b32e5632f5e60e906a]: Commencement: Art. 7 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-e8f344ff1a5ec9b32e5632f5e60e906a]: Commencement: Art. 7 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-0cd4baee6a4d3528983e314dc347c6c7]: Commencement: Art. 8 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-0cd4baee6a4d3528983e314dc347c6c7]: Commencement: Art. 8 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-f9282ff67ea1b3f0ba7870637c21a26d]: Commencement: Art. 9 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-f9282ff67ea1b3f0ba7870637c21a26d]: Commencement: Art. 9 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-62d774e65a3e99ead0708dfc88cfa93b]: Commencement: Art. 10 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-62d774e65a3e99ead0708dfc88cfa93b]: Commencement: Art. 10 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-4ae7001349caba8f99168d7653fe95d3]: Commencement: Art. 11 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-4ae7001349caba8f99168d7653fe95d3]: Commencement: Art. 11 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-7fa3d4e998efc03dbe3939c031785596]: Commencement: Art. 12 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-7fa3d4e998efc03dbe3939c031785596]: Commencement: Art. 12 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-3bb0577737e18ed37f50c59b839900eb]: Commencement: Art. 13 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-3bb0577737e18ed37f50c59b839900eb]: Commencement: Art. 13 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-c9ad4943aae37920fa0e27e164aa38f4]: Commencement: Art. 14 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-c9ad4943aae37920fa0e27e164aa38f4]: Commencement: Art. 14 in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
 
-[^key-4041bbf0d63c9844286402cc77217b75]: Commencement: Sch. in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)
+[^c-4041bbf0d63c9844286402cc77217b75]: Commencement: Sch. in force at 18.6.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26A. Who can complain[^key-38ee10f9157b47d059e2249654a1817b]
+## 26A. Who can complain[^c-38ee10f9157b47d059e2249654a1817b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38ee10f9157b47d059e2249654a1817b]: Textual amendment: Ss. 26A-26D inserted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 174(1)](https://www.legislation.gov.uk/ukpga/2007/28/section/174/1), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-38ee10f9157b47d059e2249654a1817b]: Textual amendment: Ss. 26A-26D inserted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 174(1)](https://www.legislation.gov.uk/ukpga/2007/28/section/174/1), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

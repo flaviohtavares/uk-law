@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Registration requests: Union scheme[^key-ea8560bb5c3c3a878b31953dd42aec03]
+## 216. Registration requests: Union scheme[^c-ea8560bb5c3c3a878b31953dd42aec03]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea8560bb5c3c3a878b31953dd42aec03]: Textual amendment: [Pt. 26](https://www.legislation.gov.uk/uksi/1995/2518/part/26) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/59/regulation/79); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 17](https://www.legislation.gov.uk/uksi/2020/1641/regulation/17), [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))
+[^c-ea8560bb5c3c3a878b31953dd42aec03]: Textual amendment: [Pt. 26](https://www.legislation.gov.uk/uksi/1995/2518/part/26) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [79](https://www.legislation.gov.uk/uksi/2019/59/regulation/79); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule) (with savings in [reg. 17](https://www.legislation.gov.uk/uksi/2020/1641/regulation/17), [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule))

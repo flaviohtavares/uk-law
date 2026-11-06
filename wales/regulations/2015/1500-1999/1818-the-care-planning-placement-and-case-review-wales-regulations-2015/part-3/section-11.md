@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (2) and (3), if C is a registered pupil at a school in year 10 or year 11[^key-88cbae9863d75d79b28a84708f8797e6], a decision to make any change to C's placement that would have the effect of disrupting the arrangements made for C's education must not be put into effect until it has been approved by the nominated officer.
+(1) Subject to paragraphs (2) and (3), if C is a registered pupil at a school in year 10 or year 11[^c-88cbae9863d75d79b28a84708f8797e6], a decision to make any change to C's placement that would have the effect of disrupting the arrangements made for C's education must not be put into effect until it has been approved by the nominated officer.
 
 (2) Before approving a decision under paragraph (1), the nominated officer must be satisfied that—
 
@@ -47,7 +47,7 @@ and in such a case the responsible authority must make appropriate arrangements 
 
 ## Annotations
 
-[^key-88cbae9863d75d79b28a84708f8797e6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2015/1818/regulation/11/1) substituted (with effect in accordance with reg. 11(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [11(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/11/4)
+[^c-88cbae9863d75d79b28a84708f8797e6]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2015/1818/regulation/11/1) substituted (with effect in accordance with reg. 11(2) of the amending S.I.) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 1) Regulations 2022 (S.I. 2022/666)](https://www.legislation.gov.uk/wsi/2022/666), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/666/regulation/1/2), [11(4)](https://www.legislation.gov.uk/wsi/2022/666/regulation/11/4)
 
 [^c22637521]: Marginal citation: The “designated person” in the case of a maintained school means the member of staff designated by the governing body in accordance with section 20(1) of the 2008 Act and in this case the meaning given to “school” is set out in section 434(5) of the [Education Act 1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56).
 

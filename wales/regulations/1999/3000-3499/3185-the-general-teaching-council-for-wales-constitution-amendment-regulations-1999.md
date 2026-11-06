@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The General Teaching Council for Wales (Constitution) (Amendment) Regulations 1999 (revoked)[^key-8f16b1728bf940555476238e1c85b8b7]
+The General Teaching Council for Wales (Constitution) (Amendment) Regulations 1999 (revoked)[^c-8f16b1728bf940555476238e1c85b8b7]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 29th October 1999
 
-[^key-8f16b1728bf940555476238e1c85b8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f16b1728bf940555476238e1c85b8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8f16b1728bf940555476238e1c85b8b7]
+## 1. Citation and commencement[^c-8f16b1728bf940555476238e1c85b8b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the General Teaching Council for Wales (Constitution) Regulations 1999[^key-8f16b1728bf940555476238e1c85b8b7]
+## 2. Amendment of the General Teaching Council for Wales (Constitution) Regulations 1999[^c-8f16b1728bf940555476238e1c85b8b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8f16b1728bf940555476238e1c85b8b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f16b1728bf940555476238e1c85b8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f16b1728bf940555476238e1c85b8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f16b1728bf940555476238e1c85b8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f16b1728bf940555476238e1c85b8b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f16b1728bf940555476238e1c85b8b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/1999/3185) revoked (1.4.2015) by [The Education Workforce Council (Membership and Appointment) (Wales) Regulations 2014 (S.I. 2014/2365)](https://www.legislation.gov.uk/wsi/2014/2365), [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/1)
+[^c-8f16b1728bf940555476238e1c85b8b7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/1999/3185) revoked (1.4.2015) by [The Education Workforce Council (Membership and Appointment) (Wales) Regulations 2014 (S.I. 2014/2365)](https://www.legislation.gov.uk/wsi/2014/2365), [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2365/schedule/1)

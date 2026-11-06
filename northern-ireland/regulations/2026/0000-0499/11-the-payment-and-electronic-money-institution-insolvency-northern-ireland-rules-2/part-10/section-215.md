@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 215. Record of examination[^key-f471e1a99cc20eac63a53b80bbbd1e2d]
+## 215. Record of examination[^c-f471e1a99cc20eac63a53b80bbbd1e2d]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f471e1a99cc20eac63a53b80bbbd1e2d]: Commencement: [Rule 215](https://www.legislation.gov.uk/nisr/2026/11/rule/215) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f471e1a99cc20eac63a53b80bbbd1e2d]: Commencement: [Rule 215](https://www.legislation.gov.uk/nisr/2026/11/rule/215) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

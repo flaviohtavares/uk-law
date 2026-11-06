@@ -25,7 +25,7 @@ summary: ''
 - (a) procures, tests or processes gametes or embryos (or both), on behalf of the holder of the licence, or
 - (b) supplies to the holder of the licence any goods or services (including distribution services) which may affect the quality or safety of gametes or embryos.
 
-(1A)[^key-2b67dc3341c10e5ac78f7f26aeb64fe1] For the purposes of subsection (1), as it applies in relation to Great Britain, Article 24 of the first Directive is to be read subject to the modifications set out in paragraph 11A(8) of Schedule 3A.
+(1A)[^c-2b67dc3341c10e5ac78f7f26aeb64fe1] For the purposes of subsection (1), as it applies in relation to Great Britain, Article 24 of the first Directive is to be read subject to the modifications set out in paragraph 11A(8) of Schedule 3A.
 
 (2) In this Act—
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c1969981]: Textual amendment: S. 2A inserted (25.5.2007 for certain purposes, otherwise 5.7.2007) by [The Human Fertilisation and Embryology (Quality and Safety) Regulations 2007 (S.I. 2007/1522)](https://www.legislation.gov.uk/uksi/2007/1522), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1522/regulation/1), [7](https://www.legislation.gov.uk/uksi/2007/1522/regulation/7)
 
-[^key-2b67dc3341c10e5ac78f7f26aeb64fe1]: Textual amendment: S. 2A(1A) inserted (31.12.2020) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/482)](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/4) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1307/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b67dc3341c10e5ac78f7f26aeb64fe1]: Textual amendment: S. 2A(1A) inserted (31.12.2020) by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/482)](https://www.legislation.gov.uk/uksi/2019/482), [regs. 1](https://www.legislation.gov.uk/uksi/2019/482/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2019/482/regulation/2/4) (as amended by [The Human Fertilisation and Embryology (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1307)](https://www.legislation.gov.uk/uksi/2020/1307), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1307/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/1307/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Power to amend enactments in consequence of rules[^key-281451b1eba4982a9f3eccd07795d90f][^key-e8c39eb0dfafd29cab02438e92172fcb]
+## 65. Power to amend enactments in consequence of rules[^c-281451b1eba4982a9f3eccd07795d90f][^c-e8c39eb0dfafd29cab02438e92172fcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-281451b1eba4982a9f3eccd07795d90f]: Commencement: S. 65 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-281451b1eba4982a9f3eccd07795d90f]: Commencement: S. 65 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-e8c39eb0dfafd29cab02438e92172fcb]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/29/section/65) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(qq)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/qq)
+[^c-e8c39eb0dfafd29cab02438e92172fcb]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2023/29/section/65) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(qq)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/qq)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Abolition of requirement of approval for independent schools: England[^key-cc29d4b13cd733328fa60be2ccb3be53]
+## 146. Abolition of requirement of approval for independent schools: England[^c-cc29d4b13cd733328fa60be2ccb3be53]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc29d4b13cd733328fa60be2ccb3be53]: Textual amendment: S. 146 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/15/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxix)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxix)
+[^c-cc29d4b13cd733328fa60be2ccb3be53]: Textual amendment: S. 146 omitted (1.9.2021) by virtue of [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/15/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxix)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxix)

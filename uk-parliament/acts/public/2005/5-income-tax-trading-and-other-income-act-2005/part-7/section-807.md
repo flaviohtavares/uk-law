@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 807. Calculation of “total qualifying care receipts”[^key-a8f60f9ef245295b596e2bb088e67f2b]
+## 807. Calculation of “total qualifying care receipts”[^c-a8f60f9ef245295b596e2bb088e67f2b]
 
 *Extent: E+W+S+N.I.*
 
-For the purposes of this Chapter, in calculating an individual's “total qualifying care[^key-beafaa6c39082cc837fc4e09ff012f06] receipts” for a tax year, no deduction is allowed for expenses or any other matter.
+For the purposes of this Chapter, in calculating an individual's “total qualifying care[^c-beafaa6c39082cc837fc4e09ff012f06] receipts” for a tax year, no deduction is allowed for expenses or any other matter.
 
 ## Annotations
 
-[^key-a8f60f9ef245295b596e2bb088e67f2b]: Textual amendment: Words in s. 807 heading substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/8/2) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-a8f60f9ef245295b596e2bb088e67f2b]: Textual amendment: Words in s. 807 heading substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/8/2) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
 
-[^key-beafaa6c39082cc837fc4e09ff012f06]: Textual amendment: Words in s. 807 substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/8/1) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-beafaa6c39082cc837fc4e09ff012f06]: Textual amendment: Words in s. 807 substituted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 8(1)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/8/1) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

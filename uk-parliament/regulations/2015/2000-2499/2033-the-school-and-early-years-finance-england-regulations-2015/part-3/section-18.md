@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Additional requirements, factors or criteria[^key-03ca0ec38cff574446eec2904ed8ecf1]
+## 18. Additional requirements, factors or criteria[^c-03ca0ec38cff574446eec2904ed8ecf1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03ca0ec38cff574446eec2904ed8ecf1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/2033) revoked (1.4.2018) by [The School and Early Years Finance (England) Regulations 2018 (revoked) 2018 (S.I. 2018/10)](https://www.legislation.gov.uk/uksi/2018/10), [reg. 2](https://www.legislation.gov.uk/uksi/2018/10/regulation/2)
+[^c-03ca0ec38cff574446eec2904ed8ecf1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/2033) revoked (1.4.2018) by [The School and Early Years Finance (England) Regulations 2018 (revoked) 2018 (S.I. 2018/10)](https://www.legislation.gov.uk/uksi/2018/10), [reg. 2](https://www.legislation.gov.uk/uksi/2018/10/regulation/2)

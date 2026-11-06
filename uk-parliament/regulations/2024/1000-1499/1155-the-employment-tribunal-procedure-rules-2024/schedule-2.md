@@ -22,7 +22,7 @@ summary: ''
 
 Rule 1(3)(b)
 
-### 1. Application and interpretation of Schedule 2[^key-ebf6323abdabbb5ee48f2dbdd8ed3e78]
+### 1. Application and interpretation of Schedule 2[^c-ebf6323abdabbb5ee48f2dbdd8ed3e78]
 
 (1) This Schedule applies to equal value claims.
 
@@ -37,7 +37,7 @@ Rule 1(3)(b)
 
 (3) Any reference in this Schedule to a rule, is a reference to a rule in this Schedule unless otherwise provided.
 
-### 2. General power to manage proceedings[^key-a317032480825bd651a1eb0d0dacfe07]
+### 2. General power to manage proceedings[^c-a317032480825bd651a1eb0d0dacfe07]
 
 (1) Subject to rules 3(1) (conduct of stage 1 equal value hearing) and 6(1) (conduct of stage 2 equal value hearing) the Tribunal may order—
 
@@ -46,7 +46,7 @@ Rule 1(3)(b)
 - (c) the respondent to grant the independent expert access to the respondent’s premises during a period specified in the order to allow the independent expert to conduct interviews with persons identified as relevant by the independent expert;
 - (d) when more than one expert is to give evidence in the proceedings, that those experts present to the Tribunal a joint statement of matters which are agreed between them and matters on which they disagree.
 
-### 3. Conduct of stage 1 equal value hearing[^key-36e8b1bed115c91a7aa2a72262f3571d]
+### 3. Conduct of stage 1 equal value hearing[^c-36e8b1bed115c91a7aa2a72262f3571d]
 
 (1) Where there is a dispute as to whether one person’s work is of equal value to another’s (equal value being construed in accordance with section 65(6) of the Equality Act), the Tribunal must conduct a hearing, which must be referred to as a “**stage 1 equal value hearing**”, and at that hearing must—
 
@@ -61,7 +61,7 @@ Rule 1(3)(b)
 
 (4) The Tribunal must give the parties reasonable notice of the date of the stage 1 equal value hearing. The notice must specify the matters that are to be, or may be, considered at the hearing and give notice of the standard orders in rule 4.
 
-### 4. Standard orders for stage 1 equal value hearing[^key-b693e4e079e2bb68977ac47ee6719108]
+### 4. Standard orders for stage 1 equal value hearing[^c-b693e4e079e2bb68977ac47ee6719108]
 
 (1) At a stage 1 equal value hearing a Tribunal must, unless it considers it inappropriate to do so, order that—
 
@@ -82,11 +82,11 @@ Rule 1(3)(b)
 
 (2) The Tribunal may add to, vary or omit any of the standard orders in paragraph (1).
 
-### 5. Involvement of independent expert in fact finding[^key-8646b3430ebab7e116c22b18d49a8e9b]
+### 5. Involvement of independent expert in fact finding[^c-8646b3430ebab7e116c22b18d49a8e9b]
 
 Where the Tribunal has decided to require an independent expert to prepare a report on the question, it may, on its own initiative or on the application of a party, order the independent expert to assist the Tribunal in establishing the facts on which the independent expert may rely in preparing the report.
 
-### 6. Conduct of stage 2 equal value hearing[^key-0ee40679fdcceda5dd9fa6b95c39cd00]
+### 6. Conduct of stage 2 equal value hearing[^c-0ee40679fdcceda5dd9fa6b95c39cd00]
 
 (1) At a stage 2 equal value hearing the Tribunal must—
 
@@ -99,7 +99,7 @@ Where the Tribunal has decided to require an independent expert to prepare a rep
 
 (4) The Tribunal must give the parties reasonable notice of the date of the stage 2 equal value hearing. The notice must draw the attention of the parties to this rule and give notice of the standard orders in rule 7.
 
-### 7. Standard orders for stage 2 equal value hearing[^key-035dec6604f199109c6765c035b3765d]
+### 7. Standard orders for stage 2 equal value hearing[^c-035dec6604f199109c6765c035b3765d]
 
 (1) At a stage 2 equal value hearing the Tribunal must, unless it considers it inappropriate to do so, order that—
 
@@ -108,7 +108,7 @@ Where the Tribunal has decided to require an independent expert to prepare a rep
 
 (2) The Tribunal may add to, vary or omit any of the standard orders in paragraph (1).
 
-### 8. Final hearing[^key-9068507729e78be164b67ef415cd3be2]
+### 8. Final hearing[^c-9068507729e78be164b67ef415cd3be2]
 
 (1) Where an independent expert has prepared a report, unless the Tribunal determines that the report is not based on the facts relating to the question, the report must be admitted in evidence.
 
@@ -116,7 +116,7 @@ Where the Tribunal has decided to require an independent expert to prepare a rep
 
 (3) The Tribunal may refuse to admit evidence of facts or hear submissions on issues which have not been disclosed to the other party as required by these Rules or any order (unless it was not reasonably practicable for a party to have done so).
 
-### 9. Duties and powers of the independent expert[^key-24afa3de3048ba3d169ee252c905f451]
+### 9. Duties and powers of the independent expert[^c-24afa3de3048ba3d169ee252c905f451]
 
 (1) When the Tribunal makes an order under rule 3(1)(b) (conduct of stage 1 equal value hearing) or 5 (involvement of independent expert in fact finding), it must inform the independent expert of the duties and powers under this rule.
 
@@ -136,7 +136,7 @@ Where the Tribunal has decided to require an independent expert to prepare a rep
 
 (5) When paragraph (4) applies, the independent expert who is no longer required to prepare a report must provide the Tribunal with all documentation and work in progress relating to the proceedings by a date specified by the Tribunal. Such documentation and work in progress must be in a form which the Tribunal is able to use and may be used in relation to those proceedings by the Tribunal or by another independent expert.
 
-### 10. Use of expert evidence[^key-b895dc9ca0878cc981b690bb3fdda942]
+### 10. Use of expert evidence[^c-b895dc9ca0878cc981b690bb3fdda942]
 
 (1) The Tribunal must restrict expert evidence to that which it considers is reasonably required to resolve the proceedings.
 
@@ -152,7 +152,7 @@ Where the Tribunal has decided to require an independent expert to prepare a rep
 
 (7) Where two or more parties wish to submit expert evidence on a particular issue, the Tribunal may order that the evidence on that issue is to be given by one joint expert only. If the parties wishing to instruct the joint expert cannot agree an expert, the Tribunal may select an expert.
 
-### 11. Written questions to experts (including independent experts)[^key-4cb250fdf3e34654cba440cecd83b9d3]
+### 11. Written questions to experts (including independent experts)[^c-4cb250fdf3e34654cba440cecd83b9d3]
 
 (1) When an expert has prepared a report, a party or any other expert involved in the proceedings may put written questions about the report to the expert who has prepared the report.
 
@@ -169,13 +169,13 @@ Where the Tribunal has decided to require an independent expert to prepare a rep
 
 (5) In this rule, reference to an expert includes reference to an independent expert.
 
-### 12. Procedural matters[^key-7e5e7dfb4e5ba9b9e59e7c41315b1870]
+### 12. Procedural matters[^c-7e5e7dfb4e5ba9b9e59e7c41315b1870]
 
 (1) Where an independent expert has been required to prepare a report, the Tribunal must send that expert notice of any hearing, application, order or judgment in the proceedings as if the independent expert were a party to those proceedings and when these Rules or an order requires a party to provide information to another party, such information must also be provided to the independent expert.
 
 (2) There may be more than one stage 1 or stage 2 equal value hearing in any case.
 
-### 13. National security proceedings[^key-d9e0d031134811f37ebc219cd0ad2b18]
+### 13. National security proceedings[^c-d9e0d031134811f37ebc219cd0ad2b18]
 
 Where in an equal value claim a direction is given, or order is made, under rule 93 of Part 15 to these Rules (national security proceedings)—
 
@@ -194,28 +194,28 @@ Where in an equal value claim a direction is given, or order is made, under rule
 
 ## Annotations
 
-[^key-ebf6323abdabbb5ee48f2dbdd8ed3e78]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/1) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-ebf6323abdabbb5ee48f2dbdd8ed3e78]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/1) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-a317032480825bd651a1eb0d0dacfe07]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/2) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-a317032480825bd651a1eb0d0dacfe07]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/2) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-36e8b1bed115c91a7aa2a72262f3571d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/3) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-36e8b1bed115c91a7aa2a72262f3571d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/3) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-b693e4e079e2bb68977ac47ee6719108]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/4) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-b693e4e079e2bb68977ac47ee6719108]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/4) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-8646b3430ebab7e116c22b18d49a8e9b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/5) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-8646b3430ebab7e116c22b18d49a8e9b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/5) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-0ee40679fdcceda5dd9fa6b95c39cd00]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/6) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-0ee40679fdcceda5dd9fa6b95c39cd00]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/6) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-035dec6604f199109c6765c035b3765d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/7) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-035dec6604f199109c6765c035b3765d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/7) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-9068507729e78be164b67ef415cd3be2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/8) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-9068507729e78be164b67ef415cd3be2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/8) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-24afa3de3048ba3d169ee252c905f451]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/9) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-24afa3de3048ba3d169ee252c905f451]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/9) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-b895dc9ca0878cc981b690bb3fdda942]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/10) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-b895dc9ca0878cc981b690bb3fdda942]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/10) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-4cb250fdf3e34654cba440cecd83b9d3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/11) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-4cb250fdf3e34654cba440cecd83b9d3]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/11) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-7e5e7dfb4e5ba9b9e59e7c41315b1870]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/12) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-7e5e7dfb4e5ba9b9e59e7c41315b1870]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/12) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
-[^key-d9e0d031134811f37ebc219cd0ad2b18]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/13) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-d9e0d031134811f37ebc219cd0ad2b18]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2024/1155/schedule/2/paragraph/13) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

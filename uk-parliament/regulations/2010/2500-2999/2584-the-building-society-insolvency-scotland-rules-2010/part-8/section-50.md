@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Primacy of Objective 1[^key-7a0043818817e457f10bd649f3da9f77]
+## 50. Primacy of Objective 1[^c-7a0043818817e457f10bd649f3da9f77]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing done under this section of the Rules may prejudice the achievement of Ob
 
 ## Annotations
 
-[^key-7a0043818817e457f10bd649f3da9f77]: Commencement: Rule 50 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-7a0043818817e457f10bd649f3da9f77]: Commencement: Rule 50 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280A. The 80% qualifying holdings condition: disposal of holding[^key-00329cb8d5b7fb3ffb842d114a34bb9a][^key-c5d204c5cd67bba4de731e5f7a9b6fc7]
+## 280A. The 80% qualifying holdings condition: disposal of holding[^c-00329cb8d5b7fb3ffb842d114a34bb9a][^c-c5d204c5cd67bba4de731e5f7a9b6fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,9 +26,9 @@ summary: ''
 - (b) the consideration for the disposal does not consist wholly of new qualifying holdings, and
 - (c) the holding was comprised in the company's qualifying holdings throughout the 6 months ending immediately before the disposal.
 
-(2) For the purpose of determining whether the 80%[^key-8be4581fedcedb345afba88dccf281a9] qualifying holdings condition is, has been or will be met—
+(2) For the purpose of determining whether the 80%[^c-8be4581fedcedb345afba88dccf281a9] qualifying holdings condition is, has been or will be met—
 
-- (a) the company is to be treated as if it continued to hold the holding for the period of 12[^key-82077fab03895ca61f37688b52cf66d1] months beginning with the disposal (but see subsection (4)), and
+- (a) the company is to be treated as if it continued to hold the holding for the period of 12[^c-82077fab03895ca61f37688b52cf66d1] months beginning with the disposal (but see subsection (4)), and
 - (b) the value of the company's investments in that period is to be treated as reduced by the amount of any monetary consideration for the disposal.
 
 (3) The value of the holding in the period mentioned in subsection (2)(a) is to be treated as equal to its value (determined in accordance with this Chapter) immediately before the disposal.
@@ -55,10 +55,10 @@ NQH is the market value (at that time) of the new qualifying holdings.
 
 ## Annotations
 
-[^key-00329cb8d5b7fb3ffb842d114a34bb9a]: Textual amendment: S. 280A inserted (with effect in accordance with Sch. 16 para. 20(5) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 20(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/20/3), [(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/20/4)
+[^c-00329cb8d5b7fb3ffb842d114a34bb9a]: Textual amendment: S. 280A inserted (with effect in accordance with Sch. 16 para. 20(5) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 16 para. 20(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/20/3), [(4)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/16/paragraph/20/4)
 
-[^key-c5d204c5cd67bba4de731e5f7a9b6fc7]: Textual amendment: Word in s. 280A heading substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(e)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/e), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
+[^c-c5d204c5cd67bba4de731e5f7a9b6fc7]: Textual amendment: Word in s. 280A heading substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(e)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/e), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
 
-[^key-8be4581fedcedb345afba88dccf281a9]: Textual amendment: Word in s. 280A(2) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(e)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/e), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
+[^c-8be4581fedcedb345afba88dccf281a9]: Textual amendment: Word in s. 280A(2) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 3(e)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/3/e), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/a)
 
-[^key-82077fab03895ca61f37688b52cf66d1]: Textual amendment: Word in s. 280A(2)(a) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/4), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/b)
+[^c-82077fab03895ca61f37688b52cf66d1]: Textual amendment: Word in s. 280A(2)(a) substituted (6.4.2019) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 4](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/4), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/b)

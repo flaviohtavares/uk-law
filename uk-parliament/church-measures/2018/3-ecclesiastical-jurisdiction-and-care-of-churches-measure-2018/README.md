@@ -217,7 +217,7 @@ A Measure passed by the General Synod of the Church of England to consolidate wi
 - [Section 92 — Power of bishop to remove legal effects of consecration](part-5/section-92.md)
 - [Section 93 — Section 92: application to Crown land](part-5/section-93.md)
 
-#### Other matters[^key-8c21b1a90baa2ceb5b3c4a818710f7d9]
+#### Other matters[^c-8c21b1a90baa2ceb5b3c4a818710f7d9]
 
 - [Section 93A — Live broadcast of proceedings](part-5/section-93a.md)
 
@@ -253,4 +253,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-8c21b1a90baa2ceb5b3c4a818710f7d9]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukcm/2018/3/section/93A) and cross-heading inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 12](https://www.legislation.gov.uk/ukcm/2024/1/section/12), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-8c21b1a90baa2ceb5b3c4a818710f7d9]: Textual amendment: [S. 93A](https://www.legislation.gov.uk/ukcm/2018/3/section/93A) and cross-heading inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 12](https://www.legislation.gov.uk/ukcm/2024/1/section/12), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

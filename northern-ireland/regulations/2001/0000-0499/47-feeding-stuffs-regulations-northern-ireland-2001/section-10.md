@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Control of feed materials[^key-7b3dcc6bd3a68f20756bb93d37984bd6]
+## 10. Control of feed materials[^c-7b3dcc6bd3a68f20756bb93d37984bd6]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ unless, in either case, the feed material was prepared by the process specified,
 
 ## Annotations
 
-[^key-7b3dcc6bd3a68f20756bb93d37984bd6]: Commencement: Reg. 10 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7b3dcc6bd3a68f20756bb93d37984bd6]: Commencement: Reg. 10 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

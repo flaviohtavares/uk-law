@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Offences[^key-cc9e5ce9de9238184f97066babc405fe][^key-cd813f004950a29e37b734dd9b007894]
+## 10. Offences[^c-cc9e5ce9de9238184f97066babc405fe][^c-cd813f004950a29e37b734dd9b007894]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ is guilty of an offence and liable, on summary conviction, to imprisonment for a
 
 ## Annotations
 
-[^key-cc9e5ce9de9238184f97066babc405fe]: Commencement: S. 10 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
+[^c-cc9e5ce9de9238184f97066babc405fe]: Commencement: S. 10 in force at 4.10.2004 for E. by [S.I. 2004/2380](https://www.legislation.gov.uk/uksi/2004/2380), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2380/article/2/a)
 
-[^key-cd813f004950a29e37b734dd9b007894]: Commencement: S. 10 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/a)
+[^c-cd813f004950a29e37b734dd9b007894]: Commencement: S. 10 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/a)

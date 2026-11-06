@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Compulsory acquisition of rights and restrictive covenants[^key-4b971e0f148b4c90c776d9901ab06160]
+## 23. Compulsory acquisition of rights and restrictive covenants[^c-4b971e0f148b4c90c776d9901ab06160]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b971e0f148b4c90c776d9901ab06160]: Commencement: Art. 23 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-4b971e0f148b4c90c776d9901ab06160]: Commencement: Art. 23 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

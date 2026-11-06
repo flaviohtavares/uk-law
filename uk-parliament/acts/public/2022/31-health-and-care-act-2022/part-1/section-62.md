@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Capital spending limits for NHS foundation trusts[^key-0dfbe9678adf9a37ca537bdd0d60534d][^key-2a1b8c09da4cad687c43f1dc6b0b6007]
+## 62. Capital spending limits for NHS foundation trusts[^c-0dfbe9678adf9a37ca537bdd0d60534d][^c-2a1b8c09da4cad687c43f1dc6b0b6007]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0dfbe9678adf9a37ca537bdd0d60534d]: Commencement: S. 62 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0dfbe9678adf9a37ca537bdd0d60534d]: Commencement: S. 62 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-2a1b8c09da4cad687c43f1dc6b0b6007]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/31/section/62) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-2a1b8c09da4cad687c43f1dc6b0b6007]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2022/31/section/62) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

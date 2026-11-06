@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Grant of full gender recognition certificate after death of civil partner while section 4A application pending[^key-15922db0733233cea82d54d0f0352886]
+## 29. Grant of full gender recognition certificate after death of civil partner while section 4A application pending[^c-15922db0733233cea82d54d0f0352886]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15922db0733233cea82d54d0f0352886]: Commencement: Reg. 29 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-15922db0733233cea82d54d0f0352886]: Commencement: Reg. 29 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00050]: Footnote: Section 4B was inserted by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 4.

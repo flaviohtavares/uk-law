@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.14. Cross-examination of maker of written witness statement or other hearsay[^key-af0bbe746e688e06cbed00e94a69e66f]
+## 48.14. Cross-examination of maker of written witness statement or other hearsay[^c-af0bbe746e688e06cbed00e94a69e66f]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af0bbe746e688e06cbed00e94a69e66f]: Commencement: [Rule 48.14](https://www.legislation.gov.uk/uksi/2025/909/rule/48.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-af0bbe746e688e06cbed00e94a69e66f]: Commencement: [Rule 48.14](https://www.legislation.gov.uk/uksi/2025/909/rule/48.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01309]: Footnote: [1995 c. 38](https://www.legislation.gov.uk/ukpga/1995/38).

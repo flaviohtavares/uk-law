@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101A. Benefit cap review[^key-21bbfc40b6e2b23d540b7621fc6f7c4e]
+## 101A. Benefit cap review[^c-21bbfc40b6e2b23d540b7621fc6f7c4e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21bbfc40b6e2b23d540b7621fc6f7c4e]: Textual amendment: [Art. 101A](https://www.legislation.gov.uk/nisi/2015/2006/article/101A) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/c), [6(1)](https://www.legislation.gov.uk/nisi/2016/999/article/6/1)
+[^c-21bbfc40b6e2b23d540b7621fc6f7c4e]: Textual amendment: [Art. 101A](https://www.legislation.gov.uk/nisi/2015/2006/article/101A) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(c)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/c), [6(1)](https://www.legislation.gov.uk/nisi/2016/999/article/6/1)

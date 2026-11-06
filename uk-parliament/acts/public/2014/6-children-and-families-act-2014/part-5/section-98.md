@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Arrangements for living with former foster parents after reaching adulthood[^key-091573039f362c35ecbb1fc99cf08092]
+## 98. Arrangements for living with former foster parents after reaching adulthood[^c-091573039f362c35ecbb1fc99cf08092]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-091573039f362c35ecbb1fc99cf08092]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2014/6/section/98) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)
+[^c-091573039f362c35ecbb1fc99cf08092]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2014/6/section/98) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(e)](https://www.legislation.gov.uk/uksi/2014/889/article/5/e)

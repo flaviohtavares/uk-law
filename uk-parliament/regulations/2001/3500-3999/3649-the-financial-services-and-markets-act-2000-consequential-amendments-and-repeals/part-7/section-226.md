@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Definition of “bank”[^key-d82d2f30dd7bcf777800252cebae7394]
+## 226. Definition of “bank”[^c-d82d2f30dd7bcf777800252cebae7394]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d82d2f30dd7bcf777800252cebae7394]: Commencement: Art. 226 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d82d2f30dd7bcf777800252cebae7394]: Commencement: Art. 226 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

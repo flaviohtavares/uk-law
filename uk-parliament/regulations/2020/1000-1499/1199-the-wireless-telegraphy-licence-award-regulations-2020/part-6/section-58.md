@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Assignment of numbered 3.6 GHz lots without bidding[^key-af1cab4c9c9df87fb6fef4a517705f87]
+## 58. Assignment of numbered 3.6 GHz lots without bidding[^c-af1cab4c9c9df87fb6fef4a517705f87]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where there is only one winning bidder for all of the 3.6 GHz lots, OFCOM shall 
 
 ## Annotations
 
-[^key-af1cab4c9c9df87fb6fef4a517705f87]: Commencement: Reg. 58 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-af1cab4c9c9df87fb6fef4a517705f87]: Commencement: Reg. 58 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

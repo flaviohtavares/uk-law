@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Payment out of benefit of sums in respect of mortgage interest etc[^key-f2ffc30ee7e153e5c334920ae9ecf609]
+## 15A. Payment out of benefit of sums in respect of mortgage interest etc[^c-f2ffc30ee7e153e5c334920ae9ecf609]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ffc30ee7e153e5c334920ae9ecf609]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1992/5/section/15A) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/1), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))
+[^c-f2ffc30ee7e153e5c334920ae9ecf609]: Textual amendment: [S. 15A](https://www.legislation.gov.uk/ukpga/1992/5/section/15A) repealed (6.4.2018) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 20(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/20/1), [36(6)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/6); [S.I. 2018/438](https://www.legislation.gov.uk/uksi/2018/438), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2018/438/regulation/2/3))

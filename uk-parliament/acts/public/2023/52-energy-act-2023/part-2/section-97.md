@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Change of use relief: carbon storage network pipelines[^key-7904e70d12cccd282c81a74ce27e8fef]
+## 97. Change of use relief: carbon storage network pipelines[^c-7904e70d12cccd282c81a74ce27e8fef]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7904e70d12cccd282c81a74ce27e8fef]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/52/section/97) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-7904e70d12cccd282c81a74ce27e8fef]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/52/section/97) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

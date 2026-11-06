@@ -28,7 +28,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Common Agricultural Policy Single Payment and Support Schemes (Amendment) (No. 3) Regulations 2006 (revoked)[^key-0bdbe87d6cce247bbb4b290668ac64d8]
+The Common Agricultural Policy Single Payment and Support Schemes (Amendment) (No. 3) Regulations 2006 (revoked)[^c-0bdbe87d6cce247bbb4b290668ac64d8]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 1st April 2006
 
-[^key-0bdbe87d6cce247bbb4b290668ac64d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bdbe87d6cce247bbb4b290668ac64d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-0bdbe87d6cce247bbb4b290668ac64d8]
+## 1. Title, commencement and application[^c-0bdbe87d6cce247bbb4b290668ac64d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-0bdbe87d6cce247bbb4b290668ac64d8]
+## 2. Amendment[^c-0bdbe87d6cce247bbb4b290668ac64d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0bdbe87d6cce247bbb4b290668ac64d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bdbe87d6cce247bbb4b290668ac64d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0bdbe87d6cce247bbb4b290668ac64d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bdbe87d6cce247bbb4b290668ac64d8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bdbe87d6cce247bbb4b290668ac64d8]: Textual amendment: Regulations revoked (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3102/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9/e)
+[^c-0bdbe87d6cce247bbb4b290668ac64d8]: Textual amendment: Regulations revoked (1.12.2009) by [The Common Agricultural Policy Single Payment and Support Schemes Regulations 2009 (S.I. 2009/3102)](https://www.legislation.gov.uk/uksi/2009/3102), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3102/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/2009/3102/regulation/9/e)

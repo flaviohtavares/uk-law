@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Interpretation etc[^key-7bc189fb379ce5c2b144afff67f59f85][^key-bd03f1442cfd511296e68e9967716b70]
+## 43. Interpretation etc[^c-7bc189fb379ce5c2b144afff67f59f85][^c-bd03f1442cfd511296e68e9967716b70]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this Part—
 
 - “**authorised person**” means a person authorised by the Secretary of State;
-- “[^key-e0d5039efc40aab7b1aeeb8134e69e16]**component**” has the meaning given by section 15(6);
+- “[^c-e0d5039efc40aab7b1aeeb8134e69e16]**component**” has the meaning given by section 15(6);
 - “**financial year**” means a year beginning with 1 April;
 - “**primary contractor**” has the meaning given by section 14(9);
 - “**qualifying defence contract**” has the meaning given by section 14(2);
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7bc189fb379ce5c2b144afff67f59f85]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/20/section/43) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(t)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/t)
+[^c-7bc189fb379ce5c2b144afff67f59f85]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/20/section/43) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(t)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/t)
 
-[^key-bd03f1442cfd511296e68e9967716b70]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/20/section/43) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/e)
+[^c-bd03f1442cfd511296e68e9967716b70]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2014/20/section/43) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/e)
 
-[^key-e0d5039efc40aab7b1aeeb8134e69e16]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/43/1) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/8); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-e0d5039efc40aab7b1aeeb8134e69e16]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/43/1) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/8); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

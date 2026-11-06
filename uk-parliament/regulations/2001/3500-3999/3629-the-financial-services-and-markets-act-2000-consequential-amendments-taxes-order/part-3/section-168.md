@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Introduction[^key-2f7e3bbe681d15860f0a7892d0f395af]
+## 168. Introduction[^c-2f7e3bbe681d15860f0a7892d0f395af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Individual Savings Account Regulations 1998 in accordance with Article
 
 ## Annotations
 
-[^key-2f7e3bbe681d15860f0a7892d0f395af]: Commencement: Art. 168 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-2f7e3bbe681d15860f0a7892d0f395af]: Commencement: Art. 168 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

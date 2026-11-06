@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Consequential and minor repeals[^key-b0c9ff9bc6a07a1abe490d766b5a7d5c][^key-745ee61a0c81b888c3d2b89d290d7745]
+## 169. Consequential and minor repeals[^c-b0c9ff9bc6a07a1abe490d766b5a7d5c][^c-745ee61a0c81b888c3d2b89d290d7745]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0c9ff9bc6a07a1abe490d766b5a7d5c]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2003/43/section/169) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/d)
+[^c-b0c9ff9bc6a07a1abe490d766b5a7d5c]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2003/43/section/169) in force at 29.1.2007 for S. by [S.S.I. 2007/10](https://www.legislation.gov.uk/ssi/2007/10), [art. 2(2)(d)](https://www.legislation.gov.uk/ssi/2007/10/article/2/2/d)
 
-[^key-745ee61a0c81b888c3d2b89d290d7745]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2003/43/section/169) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/3397/article/3/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/3397/article/4))
+[^c-745ee61a0c81b888c3d2b89d290d7745]: Commencement: [S. 169](https://www.legislation.gov.uk/ukpga/2003/43/section/169) in force at 29.1.2007 for E.W. by [S.I. 2006/3397](https://www.legislation.gov.uk/uksi/2006/3397), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/3397/article/3/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/3397/article/4))

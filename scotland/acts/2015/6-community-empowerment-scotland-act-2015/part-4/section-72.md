@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Register of Crofting Community Rights to Buy[^key-71dfe83c372737f4e6d9b79be1d8f339]
+## 72. Register of Crofting Community Rights to Buy[^c-71dfe83c372737f4e6d9b79be1d8f339]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71dfe83c372737f4e6d9b79be1d8f339]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2015/6/section/72) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-71dfe83c372737f4e6d9b79be1d8f339]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2015/6/section/72) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

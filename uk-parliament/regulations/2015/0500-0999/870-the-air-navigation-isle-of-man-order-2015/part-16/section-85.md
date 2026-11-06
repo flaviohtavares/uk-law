@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Keeping and production of records of exposure to cosmic radiation[^key-75da4ef77ab5f598d294038d2c99dfe7]
+## 85. Keeping and production of records of exposure to cosmic radiation[^c-75da4ef77ab5f598d294038d2c99dfe7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75da4ef77ab5f598d294038d2c99dfe7]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2015/870/article/85) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-75da4ef77ab5f598d294038d2c99dfe7]: Commencement: [Art. 85](https://www.legislation.gov.uk/uksi/2015/870/article/85) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

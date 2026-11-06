@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Licensing and authorisations of maintenance engineers[^key-65c384326fd86b8a7d29745c6aa88afc]
+## 33. Licensing and authorisations of maintenance engineers[^c-65c384326fd86b8a7d29745c6aa88afc]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,10 +42,10 @@ summary: ''
 
 (7) The holder of an aircraft maintenance engineer’s licence must not exercise the privileges of such a licence if the holder knows or suspects that their physical or mental condition renders them unfit to exercise such privileges.
 
-(8)[^key-0e6de65fdca3157eb5268baa4c93c3f3] When exercising the privileges of an aircraft maintenance engineer’s licence, the holder must not be under the influence of any psychoactive substance or any medication which renders the holder unable to safely exercise the privileges of that licence or makes the holder a risk to the safety of any other person.
+(8)[^c-0e6de65fdca3157eb5268baa4c93c3f3] When exercising the privileges of an aircraft maintenance engineer’s licence, the holder must not be under the influence of any psychoactive substance or any medication which renders the holder unable to safely exercise the privileges of that licence or makes the holder a risk to the safety of any other person.
 
 ## Annotations
 
-[^key-65c384326fd86b8a7d29745c6aa88afc]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2013/2870/article/33) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-65c384326fd86b8a7d29745c6aa88afc]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2013/2870/article/33) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-0e6de65fdca3157eb5268baa4c93c3f3]: Textual amendment: [Art. 33(8)](https://www.legislation.gov.uk/uksi/2013/2870/article/33/8) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/755/article/6/5)
+[^c-0e6de65fdca3157eb5268baa4c93c3f3]: Textual amendment: [Art. 33(8)](https://www.legislation.gov.uk/uksi/2013/2870/article/33/8) substituted (22.7.2021) by [The Air Navigation (Overseas Territories) (Amendment) (No. 2) Order 2021 (S.I. 2021/755)](https://www.legislation.gov.uk/uksi/2021/755), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/755/article/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/755/article/6/5)

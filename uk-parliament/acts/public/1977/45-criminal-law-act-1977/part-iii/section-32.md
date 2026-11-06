@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c4765291] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d30851764fe1eaa480c925b810fa933f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d30851764fe1eaa480c925b810fa933f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c4765291]: Textual amendment: Ss. 32(2), 34, 35, 36(2)–(8) repealed by [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [Sch. 9](https://www.legislation.gov.uk/ukpga/1980/43/schedule/9)
 
-[^key-d30851764fe1eaa480c925b810fa933f]: Textual amendment: S. 32(3) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-d30851764fe1eaa480c925b810fa933f]: Textual amendment: S. 32(3) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))

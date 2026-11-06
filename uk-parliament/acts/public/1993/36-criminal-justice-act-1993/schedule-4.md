@@ -41,7 +41,7 @@ Section 77.
 
 *Extent: E+W+S*
 
-**3.**[^key-8b5950f4bd581914021ee913ca5838dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8b5950f4bd581914021ee913ca5838dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Prevention of Terrorism (Temporary Provisions) Act 1989 (c.4)
 
@@ -64,7 +64,7 @@ Section 77.
 
 [^c10499471]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1993/36/schedule/4/paragraph/1) repealed (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [ss. 67](https://www.legislation.gov.uk/ukpga/1994/37/section/67), [69(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/69/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/37/schedule/3) (with saving in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1994/37/schedule/2/paragraph/10))
 
-[^key-8b5950f4bd581914021ee913ca5838dd]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1993/36/schedule/4/paragraph/3) repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-8b5950f4bd581914021ee913ca5838dd]: Textual amendment: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/1993/36/schedule/4/paragraph/3) repealed (24.2.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
 [^c10499491]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1993/36/schedule/4/paragraph/4) repealed (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125(2)](https://www.legislation.gov.uk/ukpga/2000/11/section/125/2), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/11/schedule/16/part/I); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 

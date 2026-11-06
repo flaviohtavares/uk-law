@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Review of arrangements for assuring quality of qualifications[^key-b7c16a4b6880d0d41b0815be88bae4e9][^key-e13d6327f1e5d1b0b761c98266a6bb6e]
+## 31. Review of arrangements for assuring quality of qualifications[^c-b7c16a4b6880d0d41b0815be88bae4e9][^c-e13d6327f1e5d1b0b761c98266a6bb6e]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7c16a4b6880d0d41b0815be88bae4e9]: Commencement: S. 31 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-b7c16a4b6880d0d41b0815be88bae4e9]: Commencement: S. 31 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-e13d6327f1e5d1b0b761c98266a6bb6e]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2025/11/section/31) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-e13d6327f1e5d1b0b761c98266a6bb6e]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2025/11/section/31) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

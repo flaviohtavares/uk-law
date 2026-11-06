@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 22(5) of the National Assistance Act 1948 [^c23982131], as applied by section 87(3) and (4) of the Social Work (Scotland) Act 1968 [^c23982141], and all other powers enabling them to do so.
 
-## 1. Citation, commencement, interpretation and extent[^key-9ba2659702d348f0da7073c47e7b6ef6]
+## 1. Citation, commencement, interpretation and extent[^c-9ba2659702d348f0da7073c47e7b6ef6]
 
 (1) These Regulations may be cited as the National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2020 and come into force on 6 April 2020.
 
@@ -54,22 +54,22 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) These Regulations extend to Scotland only.
 
-## 2. Amendment of regulation 20 of the principal Regulations[^key-d1d6a44d7e8fded8c1791d2524e3761d]
+## 2. Amendment of regulation 20 of the principal Regulations[^c-d1d6a44d7e8fded8c1791d2524e3761d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 28 of the principal Regulations[^key-179e912945f318e6c30dd5a24d1aba37]
+## 3. Amendment of regulation 28 of the principal Regulations[^c-179e912945f318e6c30dd5a24d1aba37]
 
 In regulation 28(1) of the principal Regulations (calculation of income from capital) [^c23982171]—
 
-- (a)[^key-5a11b80782ce08addc789622d2b98823] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-7b2f5deef778b46d7956b979243c9b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5a11b80782ce08addc789622d2b98823] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7b2f5deef778b46d7956b979243c9b44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of schedule 3 of the principal Regulations[^key-06d24e933c1e73018eca5c2d05d84ab8]
+## 4. Amendment of schedule 3 of the principal Regulations[^c-06d24e933c1e73018eca5c2d05d84ab8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-6244115e8d8c993ac3e46c911bb68ac2]
+## 5. Revocation[^c-6244115e8d8c993ac3e46c911bb68ac2]
 
 The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2019 [^c23982191] are revoked.
 
@@ -101,22 +101,22 @@ No Business and Regulatory Impact Assessment has been prepared in respect of the
 
 [^c23982141]: Marginal citation: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49) (“**the 1968 Act**”). Section 87(3) of the 1968 Act was amended by section 28(1) of the [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) (“**the 2003 Act**”) and by section 62(2) of the [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10). Section 87(4) of the 1968 Act was amended by section 28(1) of the 2003 Act. By virtue of section 87(3) of the 1968 Act, accommodation provided under that Act or under section 25 of the 2003 Act is regarded as accommodation provided under Part III of the 1948 Act.
 
-[^key-9ba2659702d348f0da7073c47e7b6ef6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/54/regulation/1) in force at 6.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/54/regulation/1/1)
+[^c-9ba2659702d348f0da7073c47e7b6ef6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/54/regulation/1) in force at 6.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/54/regulation/1/1)
 
 [^c23982151]: Marginal citation: [S.I. 1992/2977](https://www.legislation.gov.uk/uksi/1992/2977).
 
-[^key-d1d6a44d7e8fded8c1791d2524e3761d]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/54/regulation/2) revoked (12.4.2021) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2021 (S.S.I. 2021/77)](https://www.legislation.gov.uk/ssi/2021/77), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/77/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/77/regulation/5) (as amended by [S.S.I. 2021/115](https://www.legislation.gov.uk/ssi/2021/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/115/regulation/2/2))
+[^c-d1d6a44d7e8fded8c1791d2524e3761d]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/54/regulation/2) revoked (12.4.2021) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2021 (S.S.I. 2021/77)](https://www.legislation.gov.uk/ssi/2021/77), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/77/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/77/regulation/5) (as amended by [S.S.I. 2021/115](https://www.legislation.gov.uk/ssi/2021/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/115/regulation/2/2))
 
-[^key-179e912945f318e6c30dd5a24d1aba37]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/54/regulation/3) in force at 6.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/54/regulation/1/1)
+[^c-179e912945f318e6c30dd5a24d1aba37]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/54/regulation/3) in force at 6.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/54/regulation/1/1)
 
 [^c23982171]: Marginal citation: [Regulation 28](https://www.legislation.gov.uk/ssi/2020/54/regulation/28) as it relates to Scotland was relevantly amended by [S.I. 1996/602](https://www.legislation.gov.uk/uksi/1996/602) and by [S.S.I. 2019/12](https://www.legislation.gov.uk/ssi/2019/12).
 
-[^key-5a11b80782ce08addc789622d2b98823]: Textual amendment: [Reg. 3(a)](https://www.legislation.gov.uk/ssi/2020/54/regulation/3/a) revoked (11.4.2022) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2022 (S.S.I. 2022/71)](https://www.legislation.gov.uk/ssi/2022/71), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/71/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2022/71/regulation/5/a)
+[^c-5a11b80782ce08addc789622d2b98823]: Textual amendment: [Reg. 3(a)](https://www.legislation.gov.uk/ssi/2020/54/regulation/3/a) revoked (11.4.2022) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2022 (S.S.I. 2022/71)](https://www.legislation.gov.uk/ssi/2022/71), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/71/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2022/71/regulation/5/a)
 
-[^key-7b2f5deef778b46d7956b979243c9b44]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/ssi/2020/54/regulation/3/b) revoked (12.4.2021) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2021 (S.S.I. 2021/77)](https://www.legislation.gov.uk/ssi/2021/77), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/77/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/77/regulation/5) (as amended by [S.S.I. 2021/115](https://www.legislation.gov.uk/ssi/2021/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/115/regulation/2/2))
+[^c-7b2f5deef778b46d7956b979243c9b44]: Textual amendment: [Reg. 3(b)](https://www.legislation.gov.uk/ssi/2020/54/regulation/3/b) revoked (12.4.2021) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2021 (S.S.I. 2021/77)](https://www.legislation.gov.uk/ssi/2021/77), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/77/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/77/regulation/5) (as amended by [S.S.I. 2021/115](https://www.legislation.gov.uk/ssi/2021/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/115/regulation/2/2))
 
-[^key-06d24e933c1e73018eca5c2d05d84ab8]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/54/regulation/4) revoked (12.4.2021) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2021 (S.S.I. 2021/77)](https://www.legislation.gov.uk/ssi/2021/77), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/77/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/77/regulation/5) (as amended by [S.S.I. 2021/115](https://www.legislation.gov.uk/ssi/2021/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/115/regulation/2/2))
+[^c-06d24e933c1e73018eca5c2d05d84ab8]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/54/regulation/4) revoked (12.4.2021) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2021 (S.S.I. 2021/77)](https://www.legislation.gov.uk/ssi/2021/77), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/77/regulation/1/1), [5](https://www.legislation.gov.uk/ssi/2021/77/regulation/5) (as amended by [S.S.I. 2021/115](https://www.legislation.gov.uk/ssi/2021/115), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2021/115/regulation/2/2))
 
-[^key-6244115e8d8c993ac3e46c911bb68ac2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/54/regulation/5) in force at 6.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/54/regulation/1/1)
+[^c-6244115e8d8c993ac3e46c911bb68ac2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/54/regulation/5) in force at 6.4.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/54/regulation/1/1)
 
 [^c23982191]: Marginal citation: [S.S.I. 2019/12](https://www.legislation.gov.uk/ssi/2019/12).

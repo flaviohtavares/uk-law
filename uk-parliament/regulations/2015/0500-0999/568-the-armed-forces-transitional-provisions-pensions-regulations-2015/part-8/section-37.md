@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Amendment of article 27 (interpretation of Part 4) of the AF(RRGES) (No.2) Order[^key-6d22a35f9488dffac655dce956f26c45]
+## 37. Amendment of article 27 (interpretation of Part 4) of the AF(RRGES) (No.2) Order[^c-6d22a35f9488dffac655dce956f26c45]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ for—
 
 ## Annotations
 
-[^key-6d22a35f9488dffac655dce956f26c45]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-6d22a35f9488dffac655dce956f26c45]: Commencement: Reg. 37 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

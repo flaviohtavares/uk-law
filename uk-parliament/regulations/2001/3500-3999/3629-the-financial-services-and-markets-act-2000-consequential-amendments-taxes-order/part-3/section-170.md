@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Transfers from matured tax-exempt special savings accounts[^key-00dcd0bc2f5f89d01993cffcc75f746a]
+## 170. Transfers from matured tax-exempt special savings accounts[^c-00dcd0bc2f5f89d01993cffcc75f746a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 5(3)(a) and (b) (twice), (4)(b)(i) and (ii) and (5) (transfers fro
 
 ## Annotations
 
-[^key-00dcd0bc2f5f89d01993cffcc75f746a]: Commencement: Art. 170 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-00dcd0bc2f5f89d01993cffcc75f746a]: Commencement: Art. 170 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Agricultural holdings[^key-089dd3d30dbf6c59240874718ba2aeae]
+## 75. Agricultural holdings[^c-089dd3d30dbf6c59240874718ba2aeae]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-089dd3d30dbf6c59240874718ba2aeae]: Commencement: Reg. 75 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-089dd3d30dbf6c59240874718ba2aeae]: Commencement: Reg. 75 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00073]: Footnote: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5).
 

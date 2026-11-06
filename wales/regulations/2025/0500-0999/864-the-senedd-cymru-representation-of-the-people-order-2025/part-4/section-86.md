@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Interpretation of Part 4[^key-2c0ebb8d34b9548ca9f8e6e43f1579e8]
+## 86. Interpretation of Part 4[^c-2c0ebb8d34b9548ca9f8e6e43f1579e8]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ In this Part—
 
 ## Annotations
 
-[^key-2c0ebb8d34b9548ca9f8e6e43f1579e8]: Commencement: Art. 86 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-2c0ebb8d34b9548ca9f8e6e43f1579e8]: Commencement: Art. 86 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00058]: Footnote: [S.I. 1960/543](https://www.legislation.gov.uk/uksi/1960/543).
 

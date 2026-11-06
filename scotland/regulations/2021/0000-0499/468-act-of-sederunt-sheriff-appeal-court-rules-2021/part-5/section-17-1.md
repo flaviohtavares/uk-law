@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17.1. Amendment of sheriff court pleadings[^key-6b6aa718bd50e0b65359c7d6d6deb54b]
+## 17.1. Amendment of sheriff court pleadings[^c-6b6aa718bd50e0b65359c7d6d6deb54b]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ the procedural Appeal Sheriff may recall the decision appealed against and remit
 
 ## Annotations
 
-[^key-6b6aa718bd50e0b65359c7d6d6deb54b]: Commencement: Para. 17.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-6b6aa718bd50e0b65359c7d6d6deb54b]: Commencement: Para. 17.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

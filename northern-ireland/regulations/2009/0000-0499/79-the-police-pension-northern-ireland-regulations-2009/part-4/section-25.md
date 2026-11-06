@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Calculation of ordinary pension[^key-e8f7fe8cfc4707734a8db57418b319ce]
+## 25. Calculation of ordinary pension[^c-e8f7fe8cfc4707734a8db57418b319ce]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f7fe8cfc4707734a8db57418b319ce]: Commencement: Reg. 25 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-e8f7fe8cfc4707734a8db57418b319ce]: Commencement: Reg. 25 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

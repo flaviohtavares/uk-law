@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E24. Certificates as to reduction in remuneration[^key-6997cca900143d8442fee68cabf195cc]
+## E24. Certificates as to reduction in remuneration[^c-6997cca900143d8442fee68cabf195cc]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6997cca900143d8442fee68cabf195cc]: Commencement: [Reg. E24](https://www.legislation.gov.uk/uksi/1986/24/regulation/E24) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-6997cca900143d8442fee68cabf195cc]: Commencement: [Reg. E24](https://www.legislation.gov.uk/uksi/1986/24/regulation/E24) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Sanctions for the purposes of Scottish tenants' energy efficiency improvements regulations[^key-75609f745ecb3c7b2f74d1b480141f19]
+## 60. Sanctions for the purposes of Scottish tenants' energy efficiency improvements regulations[^c-75609f745ecb3c7b2f74d1b480141f19]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ Scottish tenants' energy efficiency improvements regulations may revoke or amend
 
 ## Annotations
 
-[^key-75609f745ecb3c7b2f74d1b480141f19]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2011/16/section/60) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-75609f745ecb3c7b2f74d1b480141f19]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2011/16/section/60) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

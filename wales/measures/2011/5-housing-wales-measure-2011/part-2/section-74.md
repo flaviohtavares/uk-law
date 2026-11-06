@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Management transfer[^key-bbf75cf2902c46db94ea4e0b6e53d82e]
+## 74. Management transfer[^c-bbf75cf2902c46db94ea4e0b6e53d82e]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ After paragraph 15C of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-bbf75cf2902c46db94ea4e0b6e53d82e]: Commencement: [S. 74](https://www.legislation.gov.uk/mwa/2011/5/section/74) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(p)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/p)
+[^c-bbf75cf2902c46db94ea4e0b6e53d82e]: Commencement: [S. 74](https://www.legislation.gov.uk/mwa/2011/5/section/74) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(p)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/p)

@@ -39,21 +39,21 @@ Coming into force
 
 8th October 2001
 
-[^key-ffc835ddbff59baf12530ac2dee65aa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc835ddbff59baf12530ac2dee65aa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-ffc835ddbff59baf12530ac2dee65aa7][^key-ffc835ddbff59baf12530ac2dee65aa7]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the General Regulations[^key-ffc835ddbff59baf12530ac2dee65aa7][^key-ffc835ddbff59baf12530ac2dee65aa7]
+## 1. Citation, commencement and interpretation[^c-ffc835ddbff59baf12530ac2dee65aa7][^c-ffc835ddbff59baf12530ac2dee65aa7]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-ffc835ddbff59baf12530ac2dee65aa7][^key-ffc835ddbff59baf12530ac2dee65aa7]
+## 2. Amendment of the General Regulations[^c-ffc835ddbff59baf12530ac2dee65aa7][^c-ffc835ddbff59baf12530ac2dee65aa7]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Transitional provision[^c-ffc835ddbff59baf12530ac2dee65aa7][^c-ffc835ddbff59baf12530ac2dee65aa7]
 
 **No longer in force.**
 
@@ -61,10 +61,10 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-ffc835ddbff59baf12530ac2dee65aa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc835ddbff59baf12530ac2dee65aa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffc835ddbff59baf12530ac2dee65aa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffc835ddbff59baf12530ac2dee65aa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffc835ddbff59baf12530ac2dee65aa7]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/3023) revoked (5.12.2005) by [Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+[^c-ffc835ddbff59baf12530ac2dee65aa7]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2001/3023) revoked (5.12.2005) by [Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)

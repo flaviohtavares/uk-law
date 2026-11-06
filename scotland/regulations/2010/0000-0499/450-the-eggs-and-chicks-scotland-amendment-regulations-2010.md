@@ -62,8 +62,8 @@ These Regulations may be cited as the Eggs and Chicks (Scotland) Amendment Regul
 
 In these Regulations—
 
-- “**the principal Regulations**” means the Eggs and Chicks (Scotland) (No. 2) Regulations 2008 [^c20639121];[^key-262163dbeb3b5f83a317e239b26ccd87]...
-- [^key-262163dbeb3b5f83a317e239b26ccd87]...
+- “**the principal Regulations**” means the Eggs and Chicks (Scotland) (No. 2) Regulations 2008 [^c20639121];[^c-262163dbeb3b5f83a317e239b26ccd87]...
+- [^c-262163dbeb3b5f83a317e239b26ccd87]...
 
 ## PART 2 — Amendments to the principal Regulations
 
@@ -263,7 +263,7 @@ After Schedule 2 (community provisions relating to eggs in shell for consumptio
 
 Regulation 22(1) (saving and transitional provisions) and paragraph 2(b) of Schedule 3 (Food Labelling Regulations 1996 amendment) to the principal Regulations are revoked.
 
-### 19.[^key-41427448c29f253947438e89cda5dca9]
+### 19.[^c-41427448c29f253947438e89cda5dca9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -303,8 +303,8 @@ A Business and Regulatory Impact Assessment has not been produced, as there will
 
 [^c20639121]: Marginal citation: S.S.I. 2008/395.
 
-[^key-262163dbeb3b5f83a317e239b26ccd87]: Textual amendment: Words in reg. 2 omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 17](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/17)
+[^c-262163dbeb3b5f83a317e239b26ccd87]: Textual amendment: Words in reg. 2 omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 17](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/17)
 
 [^c20639141]: Marginal citation: O.J. L 325, 12.12.2003, p.1; last amended by Regulation (EC) No. 596/2009 O.J. L 188, 18.7.2009, p.14.
 
-[^key-41427448c29f253947438e89cda5dca9]: Textual amendment: Reg. 19 revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-41427448c29f253947438e89cda5dca9]: Textual amendment: Reg. 19 revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)

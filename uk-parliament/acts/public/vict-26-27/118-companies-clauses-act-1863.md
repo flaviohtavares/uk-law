@@ -35,7 +35,7 @@ An Act for consolidating in One Act certain Provisions frequently inserted in Ac
 
 [^c5640481][^c5640491][^c5640501]Whereas the Companies Clauses Consolidation Act 1845 and the Companies Clauses Consolidation (Scotland) Act 1845 respectively, were passed in order to comprise in one general Act such provisions relating to the constitution and management of joint stock companies incorporated for the purpose of carrying on undertakings of a public nature in England or Ireland, or in Scotland, respectively, as were at the times of the passing of those Acts usually introduced into Acts of Parliament relating to such companies:
 
-And whereas sundry provisions of the like nature, but not comprised in the said general Acts respectively, are now frequently introduced into Acts of Parliament relating to such companies; and it is expedient to comprise such last-mentioned provisions also in one general Act, such Act to be applicable to England or Ireland, or to Scotland, as the case may require, and that as well for the purpose of avoiding the necessity of repeating such provisions in the Acts relating to such undertakings, as for ensuring greater uniformity in the provisions themselves:[^key-8a0810240a3d2de2cdc3ef453a55beff]
+And whereas sundry provisions of the like nature, but not comprised in the said general Acts respectively, are now frequently introduced into Acts of Parliament relating to such companies; and it is expedient to comprise such last-mentioned provisions also in one general Act, such Act to be applicable to England or Ireland, or to Scotland, as the case may require, and that as well for the purpose of avoiding the necessity of repeating such provisions in the Acts relating to such undertakings, as for ensuring greater uniformity in the provisions themselves:[^c-8a0810240a3d2de2cdc3ef453a55beff]
 
 ## 1. Short title.
 
@@ -221,7 +221,7 @@ Notwithstanding the change of the name of the company, all deeds, instruments, p
 
 [^c5640501]: Marginal citation: [1845 c. 17](https://www.legislation.gov.uk/ukpga/1845/17).
 
-[^key-8a0810240a3d2de2cdc3ef453a55beff]: Modification: Act excluded (27.4.2017) by [Faversham Oyster Fishery Company Act 2017 (c. i)](https://www.legislation.gov.uk/ukla/2017/1), [s. 5](https://www.legislation.gov.uk/ukla/2017/1/section/5) (with [ss. 17](https://www.legislation.gov.uk/ukla/2017/1/section/17), [18](https://www.legislation.gov.uk/ukla/2017/1/section/18), [20(8)](https://www.legislation.gov.uk/ukla/2017/1/section/20/8))
+[^c-8a0810240a3d2de2cdc3ef453a55beff]: Modification: Act excluded (27.4.2017) by [Faversham Oyster Fishery Company Act 2017 (c. i)](https://www.legislation.gov.uk/ukla/2017/1), [s. 5](https://www.legislation.gov.uk/ukla/2017/1/section/5) (with [ss. 17](https://www.legislation.gov.uk/ukla/2017/1/section/17), [18](https://www.legislation.gov.uk/ukla/2017/1/section/18), [20(8)](https://www.legislation.gov.uk/ukla/2017/1/section/20/8))
 
 [^c5640511]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/26-27/118/section/2) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Pt. V](https://www.legislation.gov.uk/ukpga/1993/50/part/V).
 

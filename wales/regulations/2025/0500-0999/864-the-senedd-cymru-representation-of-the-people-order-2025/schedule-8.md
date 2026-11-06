@@ -22,7 +22,7 @@ summary: ''
 
 Article 71(8)
 
-### 1. Use of rooms in school premises[^key-4ce4426d7bf5156a09303e441e23c57b]
+### 1. Use of rooms in school premises[^c-4ce4426d7bf5156a09303e441e23c57b]
 
 (1) Arrangements for the use of a room in the premises of a school must be made with—
 
@@ -35,7 +35,7 @@ Article 71(8)
 - (b) the times at which a candidate is entitled to use the rooms;
 - (c) the notice which is reasonable for a candidate to give to use the rooms.
 
-### 2. List of rooms in school premises[^key-80e673f4f162ff4f5bbb5e8af098cb61]
+### 2. List of rooms in school premises[^c-80e673f4f162ff4f5bbb5e8af098cb61]
 
 (1) Each local authority must prepare and keep under review, for each Senedd constituency partly or wholly situated within its area, a list of rooms in school premises which candidates are entitled to use.
 
@@ -43,7 +43,7 @@ Article 71(8)
 
 (3) The list, including any changes or revisions, must be provided to the registration officer by the relevant local authority.
 
-### 3. List of meeting rooms[^key-fea41824b40ee48bf1cfb54f746313a5]
+### 3. List of meeting rooms[^c-fea41824b40ee48bf1cfb54f746313a5]
 
 (1) Each local authority must prepare and keep under review, for each Senedd constituency partly or wholly within its area, a list of the meeting rooms which candidates are entitled to use.
 
@@ -56,22 +56,22 @@ Article 71(8)
 
 (4) The relevant local authority must provide the list, including any changes or revisions, to the registration officer.
 
-### 4. Lists to be kept by the registration officer[^key-ed52b09ac3aaebd0f98b8f2be568966d]
+### 4. Lists to be kept by the registration officer[^c-ed52b09ac3aaebd0f98b8f2be568966d]
 
 The lists of rooms must be kept by the registration officer for the Senedd constituency to which they relate.
 
-### 5. Inspection of lists[^key-e34274401fc889ebc049f5f77c6f06b7]
+### 5. Inspection of lists[^c-e34274401fc889ebc049f5f77c6f06b7]
 
 When a notice of election is published in accordance with the table in rule 1(1) of Schedule 5, a candidate or an election agent is entitled, at all reasonable hours, to inspect the lists or a copy of the lists.
 
 ## Annotations
 
-[^key-4ce4426d7bf5156a09303e441e23c57b]: Commencement: Sch. 8 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4ce4426d7bf5156a09303e441e23c57b]: Commencement: Sch. 8 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-80e673f4f162ff4f5bbb5e8af098cb61]: Commencement: Sch. 8 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-80e673f4f162ff4f5bbb5e8af098cb61]: Commencement: Sch. 8 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-fea41824b40ee48bf1cfb54f746313a5]: Commencement: Sch. 8 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-fea41824b40ee48bf1cfb54f746313a5]: Commencement: Sch. 8 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-ed52b09ac3aaebd0f98b8f2be568966d]: Commencement: Sch. 8 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ed52b09ac3aaebd0f98b8f2be568966d]: Commencement: Sch. 8 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-e34274401fc889ebc049f5f77c6f06b7]: Commencement: Sch. 8 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e34274401fc889ebc049f5f77c6f06b7]: Commencement: Sch. 8 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -199,23 +199,23 @@ After regulation 3 of the Social Security (Widow’s Benefit and Retirement Pens
 
 ## PART III — AMENDMENT OF INCOME-RELATED BENEFITS AND JOBSEEKER’S ALLOWANCE REGULATIONS
 
-### 8. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-8cd78c5fc15c1f428158ae95c6c648ab]
+### 8. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-8cd78c5fc15c1f428158ae95c6c648ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of the Council Tax Benefit (General) Amendment Regulations 1997[^key-8cd78c5fc15c1f428158ae95c6c648ab]
+### 9. Amendment of the Council Tax Benefit (General) Amendment Regulations 1997[^c-8cd78c5fc15c1f428158ae95c6c648ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of the Housing Benefit (General) Regulations 1987[^key-8cd78c5fc15c1f428158ae95c6c648ab]
+### 10. Amendment of the Housing Benefit (General) Regulations 1987[^c-8cd78c5fc15c1f428158ae95c6c648ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of the Housing Benefit (General) Amendment Regulations 1995[^key-8cd78c5fc15c1f428158ae95c6c648ab]
+### 11. Amendment of the Housing Benefit (General) Amendment Regulations 1995[^c-8cd78c5fc15c1f428158ae95c6c648ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendment of the Housing Benefit and Council Tax Benefit (General) Amendment Regulations 1997[^key-8cd78c5fc15c1f428158ae95c6c648ab]
+### 12. Amendment of the Housing Benefit and Council Tax Benefit (General) Amendment Regulations 1997[^c-8cd78c5fc15c1f428158ae95c6c648ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -365,7 +365,7 @@ An assessment of the compliance cost for employers of the measures arising from 
 
 [^c1659472]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-8cd78c5fc15c1f428158ae95c6c648ab]: Textual amendment: [Regs. 8-12](https://www.legislation.gov.uk/uksi/1998/2231/regulation/8) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-8cd78c5fc15c1f428158ae95c6c648ab]: Textual amendment: [Regs. 8-12](https://www.legislation.gov.uk/uksi/1998/2231/regulation/8) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1659481]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663), 1992/468, 1993/315, 1995/482, 2303 and 2927 and 1996/1944.
 

@@ -57,7 +57,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 1 — General
 
-### 1. Citation, commencement, transitional provision and extent[^key-e8cdd5fed8855b1ea6d3e1a0a6943e41]
+### 1. Citation, commencement, transitional provision and extent[^c-e8cdd5fed8855b1ea6d3e1a0a6943e41]
 
 (1) These Regulations may be cited as the Alternative Dispute Resolution for Consumer Disputes (Amendment) Regulations 2015.
 
@@ -69,9 +69,9 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 2 — Amendments to the Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015
 
-### 2. Amendments to the Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015[^key-38b59ad595d15748b5460e99a54d137f][^M_I_0f6051a6-95ae-4d4c-9866-369c1b76e084]
+### 2. Amendments to the Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015[^c-38b59ad595d15748b5460e99a54d137f][^M_I_0f6051a6-95ae-4d4c-9866-369c1b76e084]
 
-(1)[^key-38b59ad595d15748b5460e99a54d137f] The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015[^f00004] are amended as follows.
+(1)[^c-38b59ad595d15748b5460e99a54d137f] The Alternative Dispute Resolution for Consumer Disputes (Competent Authorities and Information) Regulations 2015[^f00004] are amended as follows.
 
 (2) For the word “body”, in each place it occurs, substitute “person” except in paragraph 3(h) of Schedule 3.
 
@@ -296,7 +296,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## PART 3 — Amendments to Primary Legislation
 
-### 3. Amendments to the Prescription and Limitation (Scotland) Act 1973[^key-037f1f43680b478613acb2e9557bb1ad]
+### 3. Amendments to the Prescription and Limitation (Scotland) Act 1973[^c-037f1f43680b478613acb2e9557bb1ad]
 
 (1) The Prescription and Limitation (Scotland) Act 1973[^f00005] is amended as follows.
 
@@ -354,7 +354,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
   .
 
-### 4. Amendments to the Limitation Act 1980[^key-0f759496f9ff011922d269356b8b4d3e]
+### 4. Amendments to the Limitation Act 1980[^c-0f759496f9ff011922d269356b8b4d3e]
 
 (1) The Limitation Act 1980[^f00007] is amended as follows.
 
@@ -402,7 +402,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 >
 > (9) In the case of any relevant dispute, references in this section to a non-binding ADR procedure are references to the non-binding ADR procedure so far as it relates to that dispute, and references to a party are to be read accordingly.
 
-### 5. Amendments to the Foreign Limitation Periods Act 1984[^key-b0eba0199ef200e8d3d7e6ba82408587]
+### 5. Amendments to the Foreign Limitation Periods Act 1984[^c-b0eba0199ef200e8d3d7e6ba82408587]
 
 (1) The Foreign Limitation Periods Act 1984[^f00010] is amended as follows.
 
@@ -453,7 +453,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 .
 
-### 6. Amendments to Schedule 13 to the Enterprise Act 2002[^key-365a1ba244c4456988a2ec88671b9298]
+### 6. Amendments to Schedule 13 to the Enterprise Act 2002[^c-365a1ba244c4456988a2ec88671b9298]
 
 In Part 2 of Schedule 13 to the Enterprise Act 2002 (provisions of Directives)[^f00013]—
 
@@ -464,7 +464,7 @@ In Part 2 of Schedule 13 to the Enterprise Act 2002 (provisions of Directives)[^
 
   .
 
-### 7. Amendments to the Equality Act 2010[^key-b7d50df5cc3f8ca79b5e6a661482aa3d]
+### 7. Amendments to the Equality Act 2010[^c-b7d50df5cc3f8ca79b5e6a661482aa3d]
 
 (1) The Equality Act 2010[^f00014] is amended as follows.
 
@@ -516,7 +516,7 @@ In Part 2 of Schedule 13 to the Enterprise Act 2002 (provisions of Directives)[^
 
 ## PART 4 — Amendments to other Secondary Legislation
 
-### 8. Amendments to the Limitation (Northern Ireland) Order 1989[^key-66f51fcb2a2e78e197e37698995486d9]
+### 8. Amendments to the Limitation (Northern Ireland) Order 1989[^c-66f51fcb2a2e78e197e37698995486d9]
 
 After Article 51A of the Limitation (Northern Ireland) Order 1989[^f00017] insert—
 
@@ -555,7 +555,7 @@ After Article 51A of the Limitation (Northern Ireland) Order 1989[^f00017] inser
 
 .
 
-### 9. Amendments to the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^key-6d0035ff8df22142d46944023ada9975]
+### 9. Amendments to the Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^c-6d0035ff8df22142d46944023ada9975]
 
 (1) The Enterprise Act 2002 (Part 8 Community Infringements Specified UK Laws) Order 2003[^f00018] is amended as follows.
 
@@ -614,21 +614,21 @@ A transposition note setting out how the ADR Regulations and this instrument and
 
 [^f00003]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40); section 210 was amended by regulations 4 and 5 of [S.I. 2006/3363](https://www.legislation.gov.uk/uksi/2006/3363) and article 4(1) of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 212 was amended by regulations 6 to 8 of [S.I. 2006/3363](https://www.legislation.gov.uk/uksi/2006/3363) and regulation 2 of [S.I. 2007/528](https://www.legislation.gov.uk/uksi/2007/528).
 
-[^key-e8cdd5fed8855b1ea6d3e1a0a6943e41]: Commencement: Reg. 1 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-e8cdd5fed8855b1ea6d3e1a0a6943e41]: Commencement: Reg. 1 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
-[^key-38b59ad595d15748b5460e99a54d137f]: Commencement: Reg. 2(1)-(4)(5)(a)(b)(6)-(12)(15)(a)-(i) in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-38b59ad595d15748b5460e99a54d137f]: Commencement: Reg. 2(1)-(4)(5)(a)(b)(6)-(12)(15)(a)-(i) in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^M_I_0f6051a6-95ae-4d4c-9866-369c1b76e084]: Commencement: Reg. 2(5)(c)(13)(14)(15)(j) in force at 9.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2015/542](https://www.legislation.gov.uk/uksi/2015/542).
 
-[^key-037f1f43680b478613acb2e9557bb1ad]: Commencement: Reg. 3 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-037f1f43680b478613acb2e9557bb1ad]: Commencement: Reg. 3 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00005]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
 
 [^f00006]: Footnote: Section 14 was amended by paragraph 6 of Schedule 1 to the Prescription and Limitation Act [1984 (c.45)](https://www.legislation.gov.uk/ukpga/1984/45) and regulation 5(2), (3)(a) and (b) of [S.I. 2011/234](https://www.legislation.gov.uk/uksi/2011/234).
 
-[^key-0f759496f9ff011922d269356b8b4d3e]: Commencement: Reg. 4 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-0f759496f9ff011922d269356b8b4d3e]: Commencement: Reg. 4 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00007]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
@@ -636,7 +636,7 @@ A transposition note setting out how the ADR Regulations and this instrument and
 
 [^f00009]: Footnote: Section 33A was inserted by regulation 26 of [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-b0eba0199ef200e8d3d7e6ba82408587]: Commencement: Reg. 5 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-b0eba0199ef200e8d3d7e6ba82408587]: Commencement: Reg. 5 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00010]: Footnote: [1984 c.16](https://www.legislation.gov.uk/ukpga/1984/16).
 
@@ -644,11 +644,11 @@ A transposition note setting out how the ADR Regulations and this instrument and
 
 [^f00012]: Footnote: Section 1A was inserted by regulation 29 of [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-365a1ba244c4456988a2ec88671b9298]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1392/regulation/6) in force at 9.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-365a1ba244c4456988a2ec88671b9298]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1392/regulation/6) in force at 9.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00013]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40). Part 2 of Schedule 13 was amended by paragraph 19 of Schedule 1 to [S.I. 2005/2759](https://www.legislation.gov.uk/uksi/2005/2759), paragraph 70(c) of Part 2 of Schedule 2 to [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), regulation 16(b) of [S.I. 2011/1208](https://www.legislation.gov.uk/uksi/2011/1208) and regulation 20(1) of [S.I. 2015/542](https://www.legislation.gov.uk/uksi/2015/542).
 
-[^key-b7d50df5cc3f8ca79b5e6a661482aa3d]: Commencement: Reg. 7 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-b7d50df5cc3f8ca79b5e6a661482aa3d]: Commencement: Reg. 7 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00014]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -656,10 +656,10 @@ A transposition note setting out how the ADR Regulations and this instrument and
 
 [^f00016]: Footnote: Section 140A was inserted by regulation 58 of [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
-[^key-66f51fcb2a2e78e197e37698995486d9]: Commencement: Reg. 8 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-66f51fcb2a2e78e197e37698995486d9]: Commencement: Reg. 8 in force at 9.7.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339), amended by [S.R. (N.I.) 2011 No 157](https://www.legislation.gov.uk/nisr/2011/157); there are other amending instruments but none is relevant.
 
-[^key-6d0035ff8df22142d46944023ada9975]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1392/regulation/9) in force at 9.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
+[^c-6d0035ff8df22142d46944023ada9975]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1392/regulation/9) in force at 9.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1392/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2003/1374](https://www.legislation.gov.uk/uksi/2003/1374); amended by [S.I. 2004/2095](https://www.legislation.gov.uk/uksi/2004/2095), [2005/2418](https://www.legislation.gov.uk/uksi/2005/2418), [2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [2008/1816](https://www.legislation.gov.uk/uksi/2008/1816), [2010/1010](https://www.legislation.gov.uk/uksi/2010/1010), [2010/2960](https://www.legislation.gov.uk/uksi/2010/2960), [2011/1208](https://www.legislation.gov.uk/uksi/2011/1208), [2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) and [2013/472](https://www.legislation.gov.uk/uksi/2013/472).

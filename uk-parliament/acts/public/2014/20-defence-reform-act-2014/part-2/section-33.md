@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Amount of penalty[^key-d2f07db0467dd801935c3944187a515a][^key-31dbaec1febef2e9e5f04c0abcd75663]
+## 33. Amount of penalty[^c-d2f07db0467dd801935c3944187a515a][^c-31dbaec1febef2e9e5f04c0abcd75663]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f07db0467dd801935c3944187a515a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/20/section/33) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(q)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/q)
+[^c-d2f07db0467dd801935c3944187a515a]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/20/section/33) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(q)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/q)
 
-[^key-31dbaec1febef2e9e5f04c0abcd75663]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/20/section/33) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-31dbaec1febef2e9e5f04c0abcd75663]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2014/20/section/33) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

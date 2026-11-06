@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Guidance[^key-76330abe31a1faf5d995f779c8a434a1][^key-a02d8b4b7f1acb9250f4127d1cf3410a]
+## 42. Guidance[^c-76330abe31a1faf5d995f779c8a434a1][^c-a02d8b4b7f1acb9250f4127d1cf3410a]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76330abe31a1faf5d995f779c8a434a1]: Commencement: S. 42 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-76330abe31a1faf5d995f779c8a434a1]: Commencement: S. 42 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-a02d8b4b7f1acb9250f4127d1cf3410a]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2021/7/section/42) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-a02d8b4b7f1acb9250f4127d1cf3410a]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2021/7/section/42) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

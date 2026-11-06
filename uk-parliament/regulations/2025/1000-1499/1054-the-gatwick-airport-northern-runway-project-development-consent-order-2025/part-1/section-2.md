@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-5a0c5b53e86e65a749942799a313db57]
+## 2. Interpretation[^c-5a0c5b53e86e65a749942799a313db57]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 - “**existing northern runway**” means the airport’s northern runway as configured and used at the date of this Order;
 - “**footway**” and “**footpath**” have the same meaning as in section 329(1) of the 1980 Act and include part of a footway or footpath;
 - “**highway**” and “**highway authority**” have the same meaning as in sections 328 (meaning of highway) and 1[^f00027] (highway authorities: general provision) (respectively) of the 1980 Act and “**highway**” includes part of a highway;
-- “**land plans**” means the plans of that description listed in Schedule 12[^key-25560cde08b6ec28abc86b0861d9f835] and certified by the Secretary of State as the land plans for the purposes of this Order;
+- “**land plans**” means the plans of that description listed in Schedule 12[^c-25560cde08b6ec28abc86b0861d9f835] and certified by the Secretary of State as the land plans for the purposes of this Order;
 - “**limits of works**” means the limits of works referred to in article 6 (limits of works);
 - “**local highway**” means a highway—
   - (a) which is not an airport road; and
@@ -93,7 +93,7 @@ summary: ''
 - “**parameter plans**” means the document of that description listed in Schedule 12 and certified by the Secretary of State as the parameter plans for the purposes of this Order;
 - “**RBBC**” means Reigate and Banstead Borough Council;
 - “**relevant highway authority**” means, in any given provision of this Order, the highway authority for the highway to which the provision refers or relates;
-- “**relevant planning authority**” means in any given provision of this Order, the local[^key-70fc7903dcce02b4b14d9c1c0298fee7] planning authority, as defined in[^key-691d31c8707f88dde6d86de1a1e8e82a] section 1[^f00029] (local planning authorities: general) of the 1990 Act, for the area of land to which the provision refers or relates;
+- “**relevant planning authority**” means in any given provision of this Order, the local[^c-70fc7903dcce02b4b14d9c1c0298fee7] planning authority, as defined in[^c-691d31c8707f88dde6d86de1a1e8e82a] section 1[^f00029] (local planning authorities: general) of the 1990 Act, for the area of land to which the provision refers or relates;
 - “**replacement land**” has the same meaning as in section 131(12) (commons, open spaces etc: compulsory acquisition of land) of the 2008 Act;
 - “**repositioned northern runway**” means the existing northern runway as amended by Work No. 1;
 - “**requirement**” means a requirement set out in Schedule 2 (requirements), and a reference to a numbered requirement is a reference to the requirement set out in the paragraph of the same number in that Schedule;
@@ -140,7 +140,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5a0c5b53e86e65a749942799a313db57]: Commencement: Art. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-5a0c5b53e86e65a749942799a313db57]: Commencement: Art. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00015]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -168,13 +168,13 @@ summary: ''
 
 [^f00027]: Footnote: Section 1 was amended by paragraph 1 of Part 1 of Schedule 4, and Schedule 17, to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), section 21(2) of the New Roads and Street Works Act 1991, paragraph 1 of Part 1 of Schedule 7 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), section 259(1) to (3) of the Greater London Authority Act [1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27) and paragraph 2 of Part 1 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-25560cde08b6ec28abc86b0861d9f835]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1054/article/2/1) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-25560cde08b6ec28abc86b0861d9f835]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1054/article/2/1) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
 [^f00028]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by paragraph 9 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 
-[^key-70fc7903dcce02b4b14d9c1c0298fee7]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1054/article/2/1) inserted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-70fc7903dcce02b4b14d9c1c0298fee7]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1054/article/2/1) inserted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
-[^key-691d31c8707f88dde6d86de1a1e8e82a]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1054/article/2/1) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-691d31c8707f88dde6d86de1a1e8e82a]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2025/1054/article/2/1) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
 [^f00029]: Footnote: Section 1 was amended by paragraph 28 of Schedule 21 to the Leasehold Reform, Housing and Urban Development Act [1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28), paragraph 32(1) of Schedule 10 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and section 31(1) of the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24).
 

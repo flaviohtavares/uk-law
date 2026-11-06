@@ -38,7 +38,7 @@ summary: ''
 (5) The following elections are relevant elections—
 
 - (a) Parliamentary Elections;
-- (b)[^key-03d595bde77fd70251ea7982e26ab426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-03d595bde77fd70251ea7982e26ab426] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) elections to the Scottish Parliament;
 - (d) elections to the National Assembly for Wales.
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03d595bde77fd70251ea7982e26ab426]: Textual amendment: [S. 106(5)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/106/5/b) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-03d595bde77fd70251ea7982e26ab426]: Textual amendment: [S. 106(5)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/106/5/b) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

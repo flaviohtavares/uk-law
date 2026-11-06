@@ -23,7 +23,7 @@ summary: ''
 (1) Any person who—
 
 - (a) wilfully fails to comply with any requirement properly made of him by an inspector under section 38, 39 or 40 above, or
-- (b) without reasonable cause fails to give to any inspector acting in pursuance of this Act any other assistance or information which the inspector may reasonably require of him for the purposes of the performance by the inspector of his functions under Part II, III, IV or VI of this Act [^key-0fb9a6c855e79ed8d69995aecb5f489c]...,
+- (b) without reasonable cause fails to give to any inspector acting in pursuance of this Act any other assistance or information which the inspector may reasonably require of him for the purposes of the performance by the inspector of his functions under Part II, III, IV or VI of this Act [^c-0fb9a6c855e79ed8d69995aecb5f489c]...,
 
 shall be guilty of an offence.
 
@@ -35,6 +35,6 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-0fb9a6c855e79ed8d69995aecb5f489c]: Textual amendment: Words in [s. 81(1)(b)](https://www.legislation.gov.uk/ukpga/1985/72/section/81/1/b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/34); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-0fb9a6c855e79ed8d69995aecb5f489c]: Textual amendment: Words in [s. 81(1)(b)](https://www.legislation.gov.uk/ukpga/1985/72/section/81/1/b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/34); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c13370301]: Marginal citation: [1968 c. 64](https://www.legislation.gov.uk/ukpga/1968/64).

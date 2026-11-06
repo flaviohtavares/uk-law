@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule — The UNCRC requirements[^key-665edc4cd5e84300bd19a2f4bc769a77]
+## Schedule — The UNCRC requirements[^c-665edc4cd5e84300bd19a2f4bc769a77]
 
 *Extent: S*
 
@@ -476,4 +476,4 @@ Nothing in the present Protocol shall affect any provisions that are more conduc
 
 ## Annotations
 
-[^key-665edc4cd5e84300bd19a2f4bc769a77]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2024/1/schedule) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)
+[^c-665edc4cd5e84300bd19a2f4bc769a77]: Commencement: [Sch.](https://www.legislation.gov.uk/asp/2024/1/schedule) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)

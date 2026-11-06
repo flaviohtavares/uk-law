@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Increase in rates of age addition to long-term incapacity benefit[^key-8576d2c6284be78d70d7da7dfd4ff11b]
+## 14. Increase in rates of age addition to long-term incapacity benefit[^c-8576d2c6284be78d70d7da7dfd4ff11b]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ In regulation 9(2) of the Social Security (Incapacity Benefit) Regulations (Nort
 
 ## Annotations
 
-[^key-8576d2c6284be78d70d7da7dfd4ff11b]: Commencement: Art. 14 in operation at 11.4.1996, see [art. 1(1)(g)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/g)
+[^c-8576d2c6284be78d70d7da7dfd4ff11b]: Commencement: Art. 14 in operation at 11.4.1996, see [art. 1(1)(g)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/g)
 
 [^f00023]: Footnote: [S.R. 1994 No. 461](https://www.legislation.gov.uk/nisr/1994/461); relevant amending provisions are [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Professional indemnity insurance[^key-e4ec806469408c2a5889b793f315150b][^key-dddea0c018dc87df238c5ec683b820a8]
+## 17. Professional indemnity insurance[^c-e4ec806469408c2a5889b793f315150b][^c-dddea0c018dc87df238c5ec683b820a8]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e4ec806469408c2a5889b793f315150b]: Commencement: S. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-e4ec806469408c2a5889b793f315150b]: Commencement: S. 17 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-dddea0c018dc87df238c5ec683b820a8]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/8/section/17) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-dddea0c018dc87df238c5ec683b820a8]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/8/section/17) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

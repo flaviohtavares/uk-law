@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39A. Power to make regulations about records[^key-68dece8ca593e48879daee5e00a4d56a]
+## 39A. Power to make regulations about records[^c-68dece8ca593e48879daee5e00a4d56a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may by regulations provide that the records required to be k
 
 ## Annotations
 
-[^key-68dece8ca593e48879daee5e00a4d56a]: Textual amendment: S. 39A inserted (18.10.2017) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/8); [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/953/article/2/j)
+[^c-68dece8ca593e48879daee5e00a4d56a]: Textual amendment: S. 39A inserted (18.10.2017) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/8); [S.I. 2017/953](https://www.legislation.gov.uk/wsi/2017/953), [art. 2(j)](https://www.legislation.gov.uk/wsi/2017/953/article/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Contents of notices to be gazetted under the 1986 Act or the Rules[^key-05783ca51656a0067495e1bf2a8757ec]
+## 181. Contents of notices to be gazetted under the 1986 Act or the Rules[^c-05783ca51656a0067495e1bf2a8757ec]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05783ca51656a0067495e1bf2a8757ec]: Commencement: [Rule 181](https://www.legislation.gov.uk/uksi/2013/3208/rule/181) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-05783ca51656a0067495e1bf2a8757ec]: Commencement: [Rule 181](https://www.legislation.gov.uk/uksi/2013/3208/rule/181) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

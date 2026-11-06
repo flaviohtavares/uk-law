@@ -75,13 +75,13 @@ Section 1.
 
 ### National Parks and Access to the Countryside Act 1949[^c880376]
 
-**1.**[^key-4c4fbb19b22274a763caf83a956012d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4c4fbb19b22274a763caf83a956012d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** (1)[^c880378] For subsection (1) of section 103 of that Act (general provisions as to acquisition of land) there shall be substituted the following subsection—
 
 > (1) Any power conferred by this Act on the Nature Conservancy Council or a local authority to acquire land compulsorily shall be exercisable in any particular case on their being authorised so to do by the Secretary of State.
 
-(2)[^key-6263578c5370ff8aac9cd00986b149f5][^c880378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6263578c5370ff8aac9cd00986b149f5][^c880378] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c880380]
 
@@ -103,7 +103,7 @@ Section 1.
 
 ### Countryside Act 1968[^c880392]
 
-**9.**[^key-31c79ecbc7e5796cfd9376a4d75f862c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-31c79ecbc7e5796cfd9376a4d75f862c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Conservation of Seals Act 1970[^c880395]
 
@@ -245,11 +245,11 @@ Section 5.
 
 [^c880376]: Marginal citation: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97).
 
-[^key-4c4fbb19b22274a763caf83a956012d2]: Textual amendment: Sch. 1 para. 1 repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+[^c-4c4fbb19b22274a763caf83a956012d2]: Textual amendment: Sch. 1 para. 1 repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
 [^c880378]: Modification: The text of s.5(2), Sch. 1 paras. 1, 2, 4, 8, 9, 11, 13, Sch. 2 and Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-6263578c5370ff8aac9cd00986b149f5]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/2/2) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+[^c-6263578c5370ff8aac9cd00986b149f5]: Textual amendment: [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/2/2) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
 [^c880380]: Textual amendment: [Sch. 1 paras. 3](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/5), [7](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/7), [12](https://www.legislation.gov.uk/ukpga/1973/54/schedule/1/paragraph/12)(*a*)(*c*) repealed by [Wildlife and Countryside Act 1981 (c. 69, SIF 4:5)](https://www.legislation.gov.uk/ukpga/1981/69), [s. 73](https://www.legislation.gov.uk/ukpga/1981/69/section/73), [Sch. 17 Pt. II](https://www.legislation.gov.uk/ukpga/1981/69/schedule/17/part/II)
 
@@ -271,7 +271,7 @@ Section 5.
 
 [^c880392]: Marginal citation: [1968 c.41](https://www.legislation.gov.uk/ukpga/1968/41).
 
-[^key-31c79ecbc7e5796cfd9376a4d75f862c]: Textual amendment: Sch. 1 para. 9 repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+[^c-31c79ecbc7e5796cfd9376a4d75f862c]: Textual amendment: Sch. 1 para. 9 repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
 [^c880395]: Marginal citation: [1970 c.30](https://www.legislation.gov.uk/ukpga/1970/30)
 

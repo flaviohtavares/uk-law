@@ -23,9 +23,9 @@ summary: ''
 (1) The information mentioned in paragraph (2) must be given in accordance with this regulation where—
 
 - (a) the member has rights to benefits that are not money purchase benefits,
-- (b) the member requests that information, [^key-4f06ca5124eb5b2eeadb4fcd555fb78a]...
-- (c) information has not been given to that member under this regulation in the 12 months before that request, and[^key-d1310853201ba0c4e498988e57a4ad66].
-- (d)[^key-97c7eee571b8a6d0b3283127181a92ee] in relation to active members, a benefit information statement has not been provided pursuant to section 14(1) (information about benefits) of the 2013 Act in the 12 months before the request in sub-paragraph (b).
+- (b) the member requests that information, [^c-4f06ca5124eb5b2eeadb4fcd555fb78a]...
+- (c) information has not been given to that member under this regulation in the 12 months before that request, and[^c-d1310853201ba0c4e498988e57a4ad66].
+- (d)[^c-97c7eee571b8a6d0b3283127181a92ee] in relation to active members, a benefit information statement has not been provided pursuant to section 14(1) (information about benefits) of the 2013 Act in the 12 months before the request in sub-paragraph (b).
 
 (2) The information is—
 
@@ -39,10 +39,10 @@ summary: ''
 
 ## Annotations
 
-[^key-4f06ca5124eb5b2eeadb4fcd555fb78a]: Textual amendment: Word in reg. 16(1)(b) omitted (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/482/regulation/6/a)
+[^c-4f06ca5124eb5b2eeadb4fcd555fb78a]: Textual amendment: Word in reg. 16(1)(b) omitted (6.4.2015) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2015/482/regulation/6/a)
 
-[^key-d1310853201ba0c4e498988e57a4ad66]: Textual amendment: Words in reg. 16(1)(c) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/482/regulation/6/b)
+[^c-d1310853201ba0c4e498988e57a4ad66]: Textual amendment: Words in reg. 16(1)(c) substituted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2015/482/regulation/6/b)
 
-[^key-97c7eee571b8a6d0b3283127181a92ee]: Textual amendment: Reg. 16(1)(d) inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2015/482/regulation/6/c)
+[^c-97c7eee571b8a6d0b3283127181a92ee]: Textual amendment: Reg. 16(1)(d) inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2015/482/regulation/6/c)
 
 [^c2193089]: Marginal citation: [S.I. 1999/147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/147).

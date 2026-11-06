@@ -25,7 +25,7 @@ summary: ''
 - “[^c6090361]**Approved school**” means a school approved by the Secretary of State under section seventy-nine of this Act;
 - “**Approved school order**” means an order made by a court sending a [^c6090381]. . . person to an approved school;
 - [^c6090391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “Chief officer of police” [^c6090401]. . . as regards Scotland means the chief constable of the Police Service of Scotland[^key-72659fd0d6fa20d344afa0bd048a14da], and as regards Northern Ireland means a district inspector of the Royal Ulster Constabulary;
+- “Chief officer of police” [^c6090401]. . . as regards Scotland means the chief constable of the Police Service of Scotland[^c-72659fd0d6fa20d344afa0bd048a14da], and as regards Northern Ireland means a district inspector of the Royal Ulster Constabulary;
 - “**Child**” means a person under the age of fourteen years;
 - [^c6090431]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**Guardian**”, in relation to a child or young person, includes any person who, in the opinion of the court having cognisance of any case in relation to the child or young person or in which the child or young person is concerned, has for the time being the care of[^c6090441] the child or young person;
@@ -60,7 +60,7 @@ summary: ''
 
 [^c6090401]: Textual amendment: Words in s. 107(1), in the definition of "Chief officer of police" repealed (22.8.1996) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [ss. 103](https://www.legislation.gov.uk/ukpga/1996/16/section/103), [104(1)](https://www.legislation.gov.uk/ukpga/1996/16/section/104/1), [Sch. 9 Pt.I](https://www.legislation.gov.uk/ukpga/1996/16/schedule/9/part/I)
 
-[^key-72659fd0d6fa20d344afa0bd048a14da]: Textual amendment: Words in s. 107(1) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/4)
+[^c-72659fd0d6fa20d344afa0bd048a14da]: Textual amendment: Words in s. 107(1) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/4)
 
 [^c6090431]: Textual amendment: Definition repealed (1.4.1981) by [Child Care Act 1980 (c. 5)](https://www.legislation.gov.uk/ukpga/1980/5), [s. 89](https://www.legislation.gov.uk/ukpga/1980/5/section/89), [Sch. 6](https://www.legislation.gov.uk/ukpga/1980/5/schedule/6)
 

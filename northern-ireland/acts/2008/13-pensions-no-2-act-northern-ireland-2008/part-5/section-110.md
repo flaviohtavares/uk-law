@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Official pensions: adjustment of increases in survivors' pensions[^key-09fbda5c1c1358926bbbf265a8a4007f]
+## 110. Official pensions: adjustment of increases in survivors' pensions[^c-09fbda5c1c1358926bbbf265a8a4007f]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09fbda5c1c1358926bbbf265a8a4007f]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2008/13/section/110) in operation at 13.3.2014 by [S.R. 2014/76](https://www.legislation.gov.uk/nisr/2014/76), [art. 2](https://www.legislation.gov.uk/nisr/2014/76/article/2)
+[^c-09fbda5c1c1358926bbbf265a8a4007f]: Commencement: [S. 110](https://www.legislation.gov.uk/nia/2008/13/section/110) in operation at 13.3.2014 by [S.R. 2014/76](https://www.legislation.gov.uk/nisr/2014/76), [art. 2](https://www.legislation.gov.uk/nisr/2014/76/article/2)

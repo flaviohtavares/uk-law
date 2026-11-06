@@ -26,7 +26,7 @@ Section 89
 
 #### Marriage Act 1949 (c. 76)
 
-**1.**[^key-f9ed6cfccb7e4ba2f332f26606c31ea5] Before section 72 of the Marriage Act 1949 (but after the heading of Part 6 of that Act) insert—
+**1.**[^c-f9ed6cfccb7e4ba2f332f26606c31ea5] Before section 72 of the Marriage Act 1949 (but after the heading of Part 6 of that Act) insert—
 
 > **71A. Fees**
 >
@@ -73,7 +73,7 @@ Section 89
 
 #### Births and Deaths Registration Act 1953 (c. 20)
 
-**2.**[^key-688e2484694343859d331a397ca03e83] Before section 39 of the Births and Deaths Registration Act 1953 (but after the cross-heading above that section) insert—
+**2.**[^c-688e2484694343859d331a397ca03e83] Before section 39 of the Births and Deaths Registration Act 1953 (but after the cross-heading above that section) insert—
 
 > **38A. Fees**
 >
@@ -108,7 +108,7 @@ Section 89
 
 #### Registration Service Act 1953 (c. 37)
 
-**3.**[^key-bd4b03d7e352c44ff8a3e99dd7adc447] After section 19A of the Registration Service Act 1953 insert—
+**3.**[^c-bd4b03d7e352c44ff8a3e99dd7adc447] After section 19A of the Registration Service Act 1953 insert—
 
 > **19B. Fees in respect of provision of copies of records etc**
 >
@@ -133,7 +133,7 @@ Section 89
 
 #### Civil Partnership Act 2004 (c. 33)
 
-**4.**[^key-71235797120f92c50a0aec1630b84564] (1) Section 34 of the Civil Partnership Act 2004 (fees) is amended as follows.
+**4.**[^c-71235797120f92c50a0aec1630b84564] (1) Section 34 of the Civil Partnership Act 2004 (fees) is amended as follows.
 
 (2) In subsection (1), omit “, of such amounts as may be specified in the order,”.
 
@@ -154,7 +154,7 @@ Section 89
 
 #### Marriage (Same Sex Couples) Act 2013 (c. 30)
 
-**5.**[^key-311b63a27ddaa2d97528d643454cfac3] In section 9 of the Marriage (Same Sex Couples) Act 2013 (conversion of civil partnership into marriage) after subsection (5) insert—
+**5.**[^c-311b63a27ddaa2d97528d643454cfac3] In section 9 of the Marriage (Same Sex Couples) Act 2013 (conversion of civil partnership into marriage) after subsection (5) insert—
 
 > (5A) Subsection (5B) applies where regulations under this section provide for a fee to be payable to a superintendent registrar or registrar.
 >
@@ -166,7 +166,7 @@ Section 89
 
 #### Places of Worship Registration Act 1855 (c. 81)
 
-**6.**[^key-c22b62630ca1123c0416aa6f715ec5b7] For section 5 of the Places of Worship Registration Act 1855 (fee to superintendent registrar) substitute—
+**6.**[^c-c22b62630ca1123c0416aa6f715ec5b7] For section 5 of the Places of Worship Registration Act 1855 (fee to superintendent registrar) substitute—
 
 > **5. Fees**
 >
@@ -195,7 +195,7 @@ Section 89
 
 #### Savings Banks Act 1887 (c. 40)
 
-**7.**[^key-168e03eebf2e6558381afeced649093a] In section 10 of the Savings Banks Act 1887 (price of certificate of birth, death or marriage)—
+**7.**[^c-168e03eebf2e6558381afeced649093a] In section 10 of the Savings Banks Act 1887 (price of certificate of birth, death or marriage)—
 
 - (a) the existing text becomes subsection (1),
 - (b) in that subsection (1), after “entered for” insert “ , where the birth, death or marriage is registered in England and Wales, the appropriate fee or in any other case for ”, and
@@ -205,82 +205,82 @@ Section 89
 
 #### Marriage Act 1949 (c. 76)
 
-**8.**[^key-f5c2c40479d1c6c8d2170f82f2137db3] The Marriage Act 1949 is amended as follows.
+**8.**[^c-f5c2c40479d1c6c8d2170f82f2137db3] The Marriage Act 1949 is amended as follows.
 
-**9.**[^key-ec087580de192f18bbba69cabadf2a38] In section 27 (notice of marriage) omit subsections (6) and (7).
+**9.**[^c-ec087580de192f18bbba69cabadf2a38] In section 27 (notice of marriage) omit subsections (6) and (7).
 
-**10.**[^key-03ec885674aec199edda2a3fe1d850a1] In section 31 (marriage under certificate without licence)—
+**10.**[^c-03ec885674aec199edda2a3fe1d850a1] In section 31 (marriage under certificate without licence)—
 
 - (a) omit subsections (5F) and (5G),
 - (b) in subsection (5H), omit “or an order under subsection (5F)”, and
 - (c) omit subsection (5I).
 
-**11.**[^key-328cd0549682728132d51552561e6f42] In section 41 (registration of buildings: marriage of a man and a woman) omit subsection (6).
+**11.**[^c-328cd0549682728132d51552561e6f42] In section 41 (registration of buildings: marriage of a man and a woman) omit subsection (6).
 
-**12.**[^key-e733db770ac14fc84068bf270cb5e411] In section 43D (regulations about registration of buildings) in subsection (1), omit “and the fees payable”.
+**12.**[^c-e733db770ac14fc84068bf270cb5e411] In section 43D (regulations about registration of buildings) in subsection (1), omit “and the fees payable”.
 
-**13.**[^key-6180c9bf3abbe9450285700721cfe9fb] In section 51 (fees of registrars for attending marriages)—
+**13.**[^c-6180c9bf3abbe9450285700721cfe9fb] In section 51 (fees of registrars for attending marriages)—
 
 - (a) for the heading substitute “ Fees of superintendent registrars for attending marriages in approved premises ”,
 - (b) omit subsection (1),
 - (c) in subsection (1A), omit paragraph (a) (and the “but” after it), and
 - (d) omit subsection (2).
 
-**14.**[^key-c0e7395d6f5551a06dbff1cfb999907f] In section 57 (quarterly returns to superintendent registrar) omit subsection (4).
+**14.**[^c-c0e7395d6f5551a06dbff1cfb999907f] In section 57 (quarterly returns to superintendent registrar) omit subsection (4).
 
-**15.**[^key-2622d47c39a0e04c5208de87a2a47fcc] In section 63 (searches in register books) in subsection (1), omit from “, on payment” to the end.
+**15.**[^c-2622d47c39a0e04c5208de87a2a47fcc] In section 63 (searches in register books) in subsection (1), omit from “, on payment” to the end.
 
-**16.**[^key-ff0eb7b4849a77be48b24692a79d9394] In section 64 (searches of indexes kept by superintendent registrars) in subsection (2), omit from “, on payment” to the end.
+**16.**[^c-ff0eb7b4849a77be48b24692a79d9394] In section 64 (searches of indexes kept by superintendent registrars) in subsection (2), omit from “, on payment” to the end.
 
-**17.**[^key-db09a922cbd7988358c47b7a78dba367] In section 65 (searches of indexes kept by Registrar General) in subsection (2), omit from “, on payment” to the end.
+**17.**[^c-db09a922cbd7988358c47b7a78dba367] In section 65 (searches of indexes kept by Registrar General) in subsection (2), omit from “, on payment” to the end.
 
-**18.**[^key-f2473d44b2dadcc926b5a9c3e33f1457] In section 65A (searches and records of information: additional provision) omit subsection (2).
+**18.**[^c-f2473d44b2dadcc926b5a9c3e33f1457] In section 65A (searches and records of information: additional provision) omit subsection (2).
 
-**19.**[^key-2858537a757d29cf29b32340c0e411c1] In section 74 (regulations) in subsection (1)(b), after “this Act” insert “ (other than section 71A) ”.
+**19.**[^c-2858537a757d29cf29b32340c0e411c1] In section 74 (regulations) in subsection (1)(b), after “this Act” insert “ (other than section 71A) ”.
 
-**20.**[^key-1fbd770d321462b5916b034c9431c70d] In section 78 (interpretation) in subsection (1), in the definition of “prescribed” after “ “prescribed”” insert “ (other than in section 71A) ”.
+**20.**[^c-1fbd770d321462b5916b034c9431c70d] In section 78 (interpretation) in subsection (1), in the definition of “prescribed” after “ “prescribed”” insert “ (other than in section 71A) ”.
 
 #### Births and Deaths Registration Act 1953 (c. 20)
 
-**21.**[^key-5250417ff4ecbc654e41b25faae9c569] The Births and Deaths Registration Act 1953 is amended as follows.
+**21.**[^c-5250417ff4ecbc654e41b25faae9c569] The Births and Deaths Registration Act 1953 is amended as follows.
 
-**22.**[^key-351a562cb5d2dc236b7031f758f5472f] In section 13 (registration of name of child or of alteration of name) in subsection (2), omit “on payment of a fee not exceeding £1.00”.
+**22.**[^c-351a562cb5d2dc236b7031f758f5472f] In section 13 (registration of name of child or of alteration of name) in subsection (2), omit “on payment of a fee not exceeding £1.00”.
 
-**23.**[^key-7b0cfb34cd3b75398721b4c1b783fc23] In section 30 (searches of indexes kept by Registrar General)—
+**23.**[^c-7b0cfb34cd3b75398721b4c1b783fc23] In section 30 (searches of indexes kept by Registrar General)—
 
 - (a) in subsection (2), omit from “, on payment” to the end, and
 - (b) in subsection (3), omit “and on payment as aforesaid of the appropriate fee aforesaid”.
 
-**24.**[^key-3f03d0aec7f0b59a46e1a25ce54dfbb2] In section 31 (searches of indexes kept by superintendent registrars) in subsection (2), omit from “, on payment” to the end.
+**24.**[^c-3f03d0aec7f0b59a46e1a25ce54dfbb2] In section 31 (searches of indexes kept by superintendent registrars) in subsection (2), omit from “, on payment” to the end.
 
-**25.**[^key-5b5eebae8c34a59fb5cd213020f028a3] In section 32 (searches in registers kept by registrars) omit from “, on payment” to the end of paragraph (c).
+**25.**[^c-5b5eebae8c34a59fb5cd213020f028a3] In section 32 (searches in registers kept by registrars) omit from “, on payment” to the end of paragraph (c).
 
-**26.**[^key-6c5eab1a8866c25db768ae0fc22ebc97] In section 33 (short certificate of birth) in subsection (1), omit from “on payment” to “and”.
+**26.**[^c-6c5eab1a8866c25db768ae0fc22ebc97] In section 33 (short certificate of birth) in subsection (1), omit from “on payment” to “and”.
 
-**27.**[^key-04b7f0b022b8b9445d30e7871a265906] In section 33A (short certificate of death)—
+**27.**[^c-04b7f0b022b8b9445d30e7871a265906] In section 33A (short certificate of death)—
 
 - (a) in subsection (1), for paragraphs (a) and (b) substitute “ , on furnishing the prescribed particulars, ”, and
 - (b) omit subsection (3).
 
-**28.**[^key-4fbfc40ca3a0f8a9fbf1a6aa30da7747] In section 34A (searches and records of information: additional provision) omit subsection (2).
+**28.**[^c-4fbfc40ca3a0f8a9fbf1a6aa30da7747] In section 34A (searches and records of information: additional provision) omit subsection (2).
 
-**29.**[^key-44d3a8171eab32bd472e155d692fcbbb] In section 39 (regulations made by the Registrar General) in paragraph (a), for “and 34A” substitute “ , 34A and 38A ”.
+**29.**[^c-44d3a8171eab32bd472e155d692fcbbb] In section 39 (regulations made by the Registrar General) in paragraph (a), for “and 34A” substitute “ , 34A and 38A ”.
 
-**30.**[^key-a54c174f795f832c0b7dc7a52c120de6] In section 39A (regulations made by the Minister: further provisions)—
+**30.**[^c-a54c174f795f832c0b7dc7a52c120de6] In section 39A (regulations made by the Minister: further provisions)—
 
 - (a) in subsection (1)(c), after “such” insert “ consequential, ”,
 - (b) in subsection (2), after “provisions” insert “ other than section 38A ”, and
 - (c) in subsection (5), for “and 34A” substitute “ , 34A and 38A ”.
 
-**31.**[^key-3cb3c299620d1dc5cc65a396411f7bdc] In section 41 (interpretation) in subsection (1), in the definition of “prescribed”, for “and 10C” substitute “ , 10C and 38A ”.
+**31.**[^c-3cb3c299620d1dc5cc65a396411f7bdc] In section 41 (interpretation) in subsection (1), in the definition of “prescribed”, for “and 10C” substitute “ , 10C and 38A ”.
 
 #### Registration Service Act 1953 (c. 37)
 
-**32.**[^key-bde50d7219b5c1f8a1ebbcce603b31a0] Omit section 16 of the Registration Service Act 1953 (general provision as to fees).
+**32.**[^c-bde50d7219b5c1f8a1ebbcce603b31a0] Omit section 16 of the Registration Service Act 1953 (general provision as to fees).
 
 #### Factories Act 1961 (c. 34)
 
-**33.**[^key-a758b9f10aab3dedaebca369636bd0ec] In section 178 of the Factories Act 1961 (certificates of birth)—
+**33.**[^c-a758b9f10aab3dedaebca369636bd0ec] In section 178 of the Factories Act 1961 (certificates of birth)—
 
 - (a) in subsection (1), after “payment of” insert “ the appropriate fee in England and Wales or ”,
 - (b) also in subsection (1), before “, be entitled” insert “ in Scotland ”, and
@@ -290,7 +290,7 @@ Section 89
 
 #### Public Expenditure and Receipts Act 1968 (c. 14)
 
-**34.**[^key-211c388bdd2fde6bbb481ba5b6cce708] In Schedule 3 to the Public Expenditure and Receipts Act 1968 (variation of fees)—
+**34.**[^c-211c388bdd2fde6bbb481ba5b6cce708] In Schedule 3 to the Public Expenditure and Receipts Act 1968 (variation of fees)—
 
 - (a) omit the entry relating to the Education Act 1996,
 - (b) omit the entry relating to the Marriage Act 1949,
@@ -302,11 +302,11 @@ Section 89
 
 #### Marriage (Registrar General's Licence) Act 1970 (c. 34)
 
-**35.**[^key-10296068845489b9cb92df5bd9fb8f8a] Omit section 17 of the Marriage (Registrar General's Licence) Act 1970 (fees).
+**35.**[^c-10296068845489b9cb92df5bd9fb8f8a] Omit section 17 of the Marriage (Registrar General's Licence) Act 1970 (fees).
 
 #### Social Security Administration Act 1992 (c. 5)
 
-**36.**[^key-add6cc106cb9b2db9cb3d09c523ba045] (1) Section 124 of the Social Security Administration Act 1992 (provisions relating to age, death and marriage) is amended as follows.
+**36.**[^c-add6cc106cb9b2db9cb3d09c523ba045] (1) Section 124 of the Social Security Administration Act 1992 (provisions relating to age, death and marriage) is amended as follows.
 
 (2) In subsection (3), for the words from “a fee” to “Wales and” substitute “ the appropriate fee in England and Wales and a fee of ”.
 
@@ -322,7 +322,7 @@ Section 89
 
 #### Education Act 1996 (c. 56)
 
-**37.**[^key-f92a5b56da0f298d8dc296c801e71bd1] (1) Section 564 of the Education Act 1996 (certificates of birth and registrars' returns) is amended as follows.
+**37.**[^c-f92a5b56da0f298d8dc296c801e71bd1] (1) Section 564 of the Education Act 1996 (certificates of birth and registrars' returns) is amended as follows.
 
 (2) In subsection (1), for paragraph (b) substitute—
 
@@ -341,76 +341,76 @@ Section 89
 
 ## Annotations
 
-[^key-f9ed6cfccb7e4ba2f332f26606c31ea5]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/1) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-f9ed6cfccb7e4ba2f332f26606c31ea5]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/1) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-688e2484694343859d331a397ca03e83]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/2) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-688e2484694343859d331a397ca03e83]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/2) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-bd4b03d7e352c44ff8a3e99dd7adc447]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/3) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-bd4b03d7e352c44ff8a3e99dd7adc447]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/3) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-71235797120f92c50a0aec1630b84564]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/4) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-71235797120f92c50a0aec1630b84564]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/4) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-311b63a27ddaa2d97528d643454cfac3]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/5) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-311b63a27ddaa2d97528d643454cfac3]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/5) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-c22b62630ca1123c0416aa6f715ec5b7]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/6) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-c22b62630ca1123c0416aa6f715ec5b7]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/6) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-168e03eebf2e6558381afeced649093a]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/7) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-168e03eebf2e6558381afeced649093a]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/7) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-f5c2c40479d1c6c8d2170f82f2137db3]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/8) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-f5c2c40479d1c6c8d2170f82f2137db3]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/8) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-ec087580de192f18bbba69cabadf2a38]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/9) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-ec087580de192f18bbba69cabadf2a38]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/9) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-03ec885674aec199edda2a3fe1d850a1]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/10) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-03ec885674aec199edda2a3fe1d850a1]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/10) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-328cd0549682728132d51552561e6f42]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/11) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-328cd0549682728132d51552561e6f42]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/11) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-e733db770ac14fc84068bf270cb5e411]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/12) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-e733db770ac14fc84068bf270cb5e411]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/12) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-6180c9bf3abbe9450285700721cfe9fb]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/13) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-6180c9bf3abbe9450285700721cfe9fb]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/13) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-c0e7395d6f5551a06dbff1cfb999907f]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/14) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-c0e7395d6f5551a06dbff1cfb999907f]: Commencement: [Sch. 15 para. 14](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/14) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-2622d47c39a0e04c5208de87a2a47fcc]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/15) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-2622d47c39a0e04c5208de87a2a47fcc]: Commencement: [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/15) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-ff0eb7b4849a77be48b24692a79d9394]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/16) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-ff0eb7b4849a77be48b24692a79d9394]: Commencement: [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/16) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-db09a922cbd7988358c47b7a78dba367]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/17) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-db09a922cbd7988358c47b7a78dba367]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/17) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-f2473d44b2dadcc926b5a9c3e33f1457]: Commencement: [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/18) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-f2473d44b2dadcc926b5a9c3e33f1457]: Commencement: [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/18) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-2858537a757d29cf29b32340c0e411c1]: Commencement: [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/19) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-2858537a757d29cf29b32340c0e411c1]: Commencement: [Sch. 15 para. 19](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/19) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-1fbd770d321462b5916b034c9431c70d]: Commencement: [Sch. 15 para. 20](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/20) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-1fbd770d321462b5916b034c9431c70d]: Commencement: [Sch. 15 para. 20](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/20) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-5250417ff4ecbc654e41b25faae9c569]: Commencement: [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/21) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-5250417ff4ecbc654e41b25faae9c569]: Commencement: [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/21) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-351a562cb5d2dc236b7031f758f5472f]: Commencement: [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/22) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-351a562cb5d2dc236b7031f758f5472f]: Commencement: [Sch. 15 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/22) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-7b0cfb34cd3b75398721b4c1b783fc23]: Commencement: [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/23) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-7b0cfb34cd3b75398721b4c1b783fc23]: Commencement: [Sch. 15 para. 23](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/23) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-3f03d0aec7f0b59a46e1a25ce54dfbb2]: Commencement: [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/24) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-3f03d0aec7f0b59a46e1a25ce54dfbb2]: Commencement: [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/24) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-5b5eebae8c34a59fb5cd213020f028a3]: Commencement: [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/25) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-5b5eebae8c34a59fb5cd213020f028a3]: Commencement: [Sch. 15 para. 25](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/25) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-6c5eab1a8866c25db768ae0fc22ebc97]: Commencement: [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/26) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-6c5eab1a8866c25db768ae0fc22ebc97]: Commencement: [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/26) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-04b7f0b022b8b9445d30e7871a265906]: Commencement: [Sch. 15 para. 27](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/27) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-04b7f0b022b8b9445d30e7871a265906]: Commencement: [Sch. 15 para. 27](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/27) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-4fbfc40ca3a0f8a9fbf1a6aa30da7747]: Commencement: [Sch. 15 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/28) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-4fbfc40ca3a0f8a9fbf1a6aa30da7747]: Commencement: [Sch. 15 para. 28](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/28) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-44d3a8171eab32bd472e155d692fcbbb]: Commencement: [Sch. 15 para. 29](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/29) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-44d3a8171eab32bd472e155d692fcbbb]: Commencement: [Sch. 15 para. 29](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/29) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-a54c174f795f832c0b7dc7a52c120de6]: Commencement: [Sch. 15 para. 30](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/30) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-a54c174f795f832c0b7dc7a52c120de6]: Commencement: [Sch. 15 para. 30](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/30) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-3cb3c299620d1dc5cc65a396411f7bdc]: Commencement: [Sch. 15 para. 31](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/31) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-3cb3c299620d1dc5cc65a396411f7bdc]: Commencement: [Sch. 15 para. 31](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/31) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-bde50d7219b5c1f8a1ebbcce603b31a0]: Commencement: [Sch. 15 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/32) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-bde50d7219b5c1f8a1ebbcce603b31a0]: Commencement: [Sch. 15 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/32) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-a758b9f10aab3dedaebca369636bd0ec]: Commencement: [Sch. 15 para. 33](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/33) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-a758b9f10aab3dedaebca369636bd0ec]: Commencement: [Sch. 15 para. 33](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/33) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-211c388bdd2fde6bbb481ba5b6cce708]: Commencement: [Sch. 15 para. 34](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-211c388bdd2fde6bbb481ba5b6cce708]: Commencement: [Sch. 15 para. 34](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-10296068845489b9cb92df5bd9fb8f8a]: Commencement: [Sch. 15 para. 35](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/35) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-10296068845489b9cb92df5bd9fb8f8a]: Commencement: [Sch. 15 para. 35](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/35) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-add6cc106cb9b2db9cb3d09c523ba045]: Commencement: [Sch. 15 para. 36](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/36) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-add6cc106cb9b2db9cb3d09c523ba045]: Commencement: [Sch. 15 para. 36](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/36) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-f92a5b56da0f298d8dc296c801e71bd1]: Commencement: [Sch. 15 para. 37](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/37) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
+[^c-f92a5b56da0f298d8dc296c801e71bd1]: Commencement: [Sch. 15 para. 37](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/37) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)

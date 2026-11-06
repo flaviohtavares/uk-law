@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Obtaining information from practitioners[^key-97bde8ab789571e3f9c2b1443cb52184]
+## 72. Obtaining information from practitioners[^c-97bde8ab789571e3f9c2b1443cb52184]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97bde8ab789571e3f9c2b1443cb52184]: Commencement: S. 72 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-97bde8ab789571e3f9c2b1443cb52184]: Commencement: S. 72 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

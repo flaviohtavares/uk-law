@@ -22,34 +22,34 @@ summary: ''
 
 Section 1
 
-### ...[^key-f81be4f8d6cb212abdb0e72544952efe][^key-f81be4f8d6cb212abdb0e72544952efe]
+### ...[^c-f81be4f8d6cb212abdb0e72544952efe][^c-f81be4f8d6cb212abdb0e72544952efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f81be4f8d6cb212abdb0e72544952efe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f81be4f8d6cb212abdb0e72544952efe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f81be4f8d6cb212abdb0e72544952efe]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-f81be4f8d6cb212abdb0e72544952efe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-f81be4f8d6cb212abdb0e72544952efe]
+[^c-f81be4f8d6cb212abdb0e72544952efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f81be4f8d6cb212abdb0e72544952efe]
+[^c-f81be4f8d6cb212abdb0e72544952efe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f81be4f8d6cb212abdb0e72544952efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f81be4f8d6cb212abdb0e72544952efe]
+[^c-f81be4f8d6cb212abdb0e72544952efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f81be4f8d6cb212abdb0e72544952efe]
+[^c-f81be4f8d6cb212abdb0e72544952efe]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-f81be4f8d6cb212abdb0e72544952efe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f81be4f8d6cb212abdb0e72544952efe]: Textual amendment: Sch. 1 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 142](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/142), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-f81be4f8d6cb212abdb0e72544952efe]: Textual amendment: Sch. 1 repealed (1.4.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 142](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/142), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a)[(d)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/d) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))

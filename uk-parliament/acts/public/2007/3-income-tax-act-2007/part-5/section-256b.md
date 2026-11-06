@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256B. Meaning of “specified Northern Ireland company”[^key-080bbb5696e269c3c3a765cc8657acb1]
+## 256B. Meaning of “specified Northern Ireland company”[^c-080bbb5696e269c3c3a765cc8657acb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purposes of this Part, a “**specified Northern Ireland company**” me
 
 ## Annotations
 
-[^key-080bbb5696e269c3c3a765cc8657acb1]: Textual amendment: S. 256B inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 14(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/7)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/8)
+[^c-080bbb5696e269c3c3a765cc8657acb1]: Textual amendment: S. 256B inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 14(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/7)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/14/8)

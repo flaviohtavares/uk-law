@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Right of attendance[^key-3ad08a9cbcdbd104ba1c714cb0ab3fcf]
+## 74. Right of attendance[^c-3ad08a9cbcdbd104ba1c714cb0ab3fcf]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad08a9cbcdbd104ba1c714cb0ab3fcf]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2007/3141/rule/74) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-3ad08a9cbcdbd104ba1c714cb0ab3fcf]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2007/3141/rule/74) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

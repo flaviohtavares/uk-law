@@ -29,9 +29,9 @@ Stamp Act 1891
 
 1891 c.39
 
-An Act to consolidate the Enactments granting and relating to the Stamp Duties upon Instruments and certain other enactments relating to Stamp Duties.[^c5968271][^c5968281][^c5968291][^c5968301][^c5968311][^c5968321][^c5968331][^c5968341][^key-f0ab7144c80523ceda446cf2c6c728b0][^key-ff516eb17d58ddfa134d5474874728ce][^key-c1a54621d20779d2f4d4f7e145410581][^key-0c6229885f92a675b414b0c7c4952743][^key-8d9dd0917c52b1fe2f0cfbc4e3e58697]
+An Act to consolidate the Enactments granting and relating to the Stamp Duties upon Instruments and certain other enactments relating to Stamp Duties.[^c5968271][^c5968281][^c5968291][^c5968301][^c5968311][^c5968321][^c5968331][^c5968341][^c-f0ab7144c80523ceda446cf2c6c728b0][^c-ff516eb17d58ddfa134d5474874728ce][^c-c1a54621d20779d2f4d4f7e145410581][^c-0c6229885f92a675b414b0c7c4952743][^c-8d9dd0917c52b1fe2f0cfbc4e3e58697]
 
-\[21st July 1891\][^key-0e7783eeaec77c6e4ff4e5e538002856][^key-541677da2da91806b26967bd816fdfa6]
+\[21st July 1891\][^c-0e7783eeaec77c6e4ff4e5e538002856][^c-541677da2da91806b26967bd816fdfa6]
 
 ## Part I — Regulations applicable to Instruments generally
 
@@ -41,7 +41,7 @@ An Act to consolidate the Enactments granting and relating to the Stamp Duties u
 
 #### 2. All duties to be paid according to regulations of Act.
 
-All stamp duties for the time being chargeable by law upon any instruments are to be paid and denoted according to the regulations in this Act contained, and except where express provision is made to the contrary are to be denoted by stamps produced by means of a die[^key-b81d086e03e67d5cf073914e1ee06571] only.
+All stamp duties for the time being chargeable by law upon any instruments are to be paid and denoted according to the regulations in this Act contained, and except where express provision is made to the contrary are to be denoted by stamps produced by means of a die[^c-b81d086e03e67d5cf073914e1ee06571] only.
 
 #### 3. How instruments are to be written and stamped.[^c5968361]
 
@@ -105,7 +105,7 @@ Where the duty with which an instrument is chargeable depends in any manner upon
 
 ### Adjudication Stamps
 
-#### 12. Adjudication by Commissioners.[^c5968571][^key-5d4ed0858da9a7ab5d3a3f4029e30887][^c5968561]
+#### 12. Adjudication by Commissioners.[^c5968571][^c-5d4ed0858da9a7ab5d3a3f4029e30887][^c5968561]
 
 (1) Subject to such regulations as the Commissioners may think fit to make, the Commissioners may be required by any person to adjudicate with reference to any executed instrument upon the questions—
 
@@ -145,34 +145,34 @@ Where the duty with which an instrument is chargeable depends in any manner upon
 - (a) duty and any penalty in conformity with the Commissioners’ decision, and
 - (b) any interest that in conformity with that decision would be payable on stamping the instrument on the day on which the appeal is brought.
 
-(4) An appeal which relates only to the penalty payable on late stamping may be brought to the First-tier Tribunal[^key-a1d3c410c051fa5f4025aef87cc41632] in accordance with section 13A below.
+(4) An appeal which relates only to the penalty payable on late stamping may be brought to the First-tier Tribunal[^c-a1d3c410c051fa5f4025aef87cc41632] in accordance with section 13A below.
 
 (5) Any other appeal may be brought in accordance with section 13B below to the High Court of the part of the United Kingdom in which the case has arisen.
 
-#### 13A. Appeal to the First-tier Tribunal .[^c5968671][^c5968661][^key-f81837489442e92f7447a908323ae56a]
+#### 13A. Appeal to the First-tier Tribunal .[^c5968671][^c5968661][^c-f81837489442e92f7447a908323ae56a]
 
 (1) The following provisions apply in relation to an appeal under section 13(4).
 
 (2) Notice of appeal must be given in writing to the Commissioners, specifying the grounds of appeal.
 
-(3)[^key-7223f8503874e3f58012535418da4cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7223f8503874e3f58012535418da4cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7223f8503874e3f58012535418da4cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7223f8503874e3f58012535418da4cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) On the appeal the First-tier Tribunal[^key-f909d1770504e1d43d744a3d47b94b74] may—
+(5) On the appeal the First-tier Tribunal[^c-f909d1770504e1d43d744a3d47b94b74] may—
 
-- (a) if it appears [^key-cda96444b039d365d667460418eba8d6]... that no penalty should be paid, set the decision aside;
-- (b) if the amount determined appears [^key-cda96444b039d365d667460418eba8d6]... to be appropriate, confirm the decision;
-- (c) if the amount determined appears [^key-d84c80b64964aaa728f0f6585f2ba19d]... to be excessive, reduce it to such other amount (including nil) as the tribunal considers[^key-9074cc59aed8ce54fa850a8058ffc6d5] appropriate;
-- (d) if the amount determined appears [^key-d84c80b64964aaa728f0f6585f2ba19d]... to be insufficient, increase it to such amount as the tribunal considers appropriate.
+- (a) if it appears [^c-cda96444b039d365d667460418eba8d6]... that no penalty should be paid, set the decision aside;
+- (b) if the amount determined appears [^c-cda96444b039d365d667460418eba8d6]... to be appropriate, confirm the decision;
+- (c) if the amount determined appears [^c-d84c80b64964aaa728f0f6585f2ba19d]... to be excessive, reduce it to such other amount (including nil) as the tribunal considers[^c-9074cc59aed8ce54fa850a8058ffc6d5] appropriate;
+- (d) if the amount determined appears [^c-d84c80b64964aaa728f0f6585f2ba19d]... to be insufficient, increase it to such amount as the tribunal considers appropriate.
 
-(6)[^key-fe213762b4643b849124d98948bb53a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fe213762b4643b849124d98948bb53a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-03f06a9ec6a28d608335fe4d90dd0a62] In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of the penalty which has been determined under subsection (5), but not against any decision which falls under section 11(5)(d) or (e) of that Act and was made in connection with the determination of the amount of the penalty.
+(7)[^c-03f06a9ec6a28d608335fe4d90dd0a62] In addition to any right of appeal on a point of law under section 11(2) of the Tribunals, Courts and Enforcement Act 2007, the person liable to the penalty may appeal to the Upper Tribunal against the amount of the penalty which has been determined under subsection (5), but not against any decision which falls under section 11(5)(d) or (e) of that Act and was made in connection with the determination of the amount of the penalty.
 
 (7A) Section 11(3) and (4) of the Tribunals, Courts and Enforcement Act 2007 applies to the right of appeal under subsection (7) as it applies to the right of appeal under section 11(2) of that Act.
 
-(8) On an appeal under subsection (7) the Upper Tribunal[^key-85c8658d2ec38b0a06bfa7f0a4a8f699] has the same powers as are conferred on the First-tier Tribunal[^key-6781cde97237183a7c137d3bb6f4f186] by subsection (5) above.
+(8) On an appeal under subsection (7) the Upper Tribunal[^c-85c8658d2ec38b0a06bfa7f0a4a8f699] has the same powers as are conferred on the First-tier Tribunal[^c-6781cde97237183a7c137d3bb6f4f186] by subsection (5) above.
 
 #### 13B. Appeal to the High Court.[^c5968691][^c5968681]
 
@@ -194,9 +194,9 @@ Where the duty with which an instrument is chargeable depends in any manner upon
 
 (3) On production to the Commissioners of any instrument in respect of which any duty, interest or penalty[^c5968821] has been paid, together with the receipt, the payment of the duty, interest and penalty[^c5968831] shall be denoted on the instrument.
 
-(4)[^c5968841][^c5968851][^c5968861][^c5968871][^key-cc6ce0e9297999cebaede40ed3fb6659][^key-9d9f1f194ef696e62e53227ca19ad762][^key-84bbd23545f0e47b9dfc100fef84b86c] Save as aforesaid, an instrument executed in any part of the United Kingdom, or relating, wheresoever executed, to any property situate, or to any matter or thing done or to be done, in any part of the United Kingdom, shall not, except in criminal proceedings, be given in evidence, or be available for any purpose whatever, unless it is duly stamped in accordance with the law in force at the time when it was executed[^c5968881].
+(4)[^c5968841][^c5968851][^c5968861][^c5968871][^c-cc6ce0e9297999cebaede40ed3fb6659][^c-9d9f1f194ef696e62e53227ca19ad762][^c-84bbd23545f0e47b9dfc100fef84b86c] Save as aforesaid, an instrument executed in any part of the United Kingdom, or relating, wheresoever executed, to any property situate, or to any matter or thing done or to be done, in any part of the United Kingdom, shall not, except in criminal proceedings, be given in evidence, or be available for any purpose whatever, unless it is duly stamped in accordance with the law in force at the time when it was executed[^c5968881].
 
-(5)[^key-2ba2ed554015a8aafac40a3b9df0daa6] Where an instrument is denoted with any duty by a method required or permitted by the law in force at the time when it is stamped, the method is to be treated for the purposes of subsection (4) as being in accordance with the law in force at the time when the instrument was executed.
+(5)[^c-2ba2ed554015a8aafac40a3b9df0daa6] Where an instrument is denoted with any duty by a method required or permitted by the law in force at the time when it is stamped, the method is to be treated for the purposes of subsection (4) as being in accordance with the law in force at the time when the instrument was executed.
 
 ### Stamping of Instruments after Execution
 
@@ -268,7 +268,7 @@ If any person whose office it is to enrol, register, or enter in or upon any rol
 
 ### Instruments of Apprenticeship
 
-#### 25. Meaning of instrument of apprenticeship.[^key-7241245ef5be257c9c327027f71d61ac]
+#### 25. Meaning of instrument of apprenticeship.[^c-7241245ef5be257c9c327027f71d61ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -304,7 +304,7 @@ A bill of sale is not to be registered under any Act for the time being in force
 
 ### Charter-parties
 
-#### 49. Provisions as to duty on charter-party.[^key-249eea6ffc40b1c6fe40f147cf0c0e0d]
+#### 49. Provisions as to duty on charter-party.[^c-249eea6ffc40b1c6fe40f147cf0c0e0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -475,7 +475,7 @@ Every person who in the United Kingdom [^c22106321]. . . assigns, transfers, neg
 
 ### Warrants for Goods
 
-#### 111. Provisions as to warrants for goods.[^key-8650c6a7755680c413e3a62e3d392029]
+#### 111. Provisions as to warrants for goods.[^c-8650c6a7755680c413e3a62e3d392029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -503,7 +503,7 @@ Every condition of sale framed with the view of precluding objection or requisit
 
 Except where express provision to the contrary is made by this or any other Act, an instrument relating to property belonging to the Crown, or being the private property of the sovereign, is to be charged with the same duty as an instrument of the same kind relating to property belonging to a subject.
 
-#### 120. As to instruments charged with duty of 35s.[^key-2d05a49e1490e9e171e276c17042e7cd]
+#### 120. As to instruments charged with duty of 35s.[^c-2d05a49e1490e9e171e276c17042e7cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -511,19 +511,19 @@ Except where express provision to the contrary is made by this or any other Act,
 
 #### 122. Definitions.
 
-(1)[^c5970661][^key-7f2e062c69fa0af4d851ad7ab50781eb] In this Act, unless the context otherwise requires,—
+(1)[^c5970661][^c-7f2e062c69fa0af4d851ad7ab50781eb] In this Act, unless the context otherwise requires,—
 
 - The expression “**Commissioners**” means Commissioners of Inland Revenue:
 - The expression “**material**” includes every sort of material upon which words or figures can be expressed:
 - [^c5970671]The expression “**instrument**” includes every written document:
-- The expression “**stamp**” means as well a stamp produced[^key-2880c38fa86ea0663dbae0f2463e4471] by means of a die as an adhesive stamp:
-- The expression “stamped”, with reference to instruments and material, applies as well to instruments and material bearing stamps produced[^key-8711945fa41cb39a0c6a7bc817986f33] by means of a die as to instruments and material having adhesive stamps affixed thereto:
+- The expression “**stamp**” means as well a stamp produced[^c-2880c38fa86ea0663dbae0f2463e4471] by means of a die as an adhesive stamp:
+- The expression “stamped”, with reference to instruments and material, applies as well to instruments and material bearing stamps produced[^c-8711945fa41cb39a0c6a7bc817986f33] by means of a die as to instruments and material having adhesive stamps affixed thereto:
 - The expressions “executed” and “execution”, with reference to instruments not under seal, mean signed and signature: (but subject to subsection (1A) of this section)[^c5970681]
 - The expression “**money**” includes all sums expressed in British or in any foreign or colonial currency:
-- The expression “**stock**” includes any share in any stocks or funds transferable by the Registrar of Government Stock[^key-43279db79c0d1d6f9419e8ed29943946] [^c5970691]. . ., any strip (within the meaning of section 47 of the[^c5970701] [^c5970711]Finance Act 1942) of any such stocks or funds,. . . and any share in the stocks or funds of any foreign or colonial state or government, or in the capital stock or funded debt of any county council, corporation, company, or society in the United Kingdom, or of any foreign or colonial corporation, company, or society:
+- The expression “**stock**” includes any share in any stocks or funds transferable by the Registrar of Government Stock[^c-43279db79c0d1d6f9419e8ed29943946] [^c5970691]. . ., any strip (within the meaning of section 47 of the[^c5970701] [^c5970711]Finance Act 1942) of any such stocks or funds,. . . and any share in the stocks or funds of any foreign or colonial state or government, or in the capital stock or funded debt of any county council, corporation, company, or society in the United Kingdom, or of any foreign or colonial corporation, company, or society:
 - The expression “**marketable security**” means a security of such a description as to be capable of being sold in any stock market in the United Kingdom:
-- [^key-f2661b85ee977a00431c3d9dada82d26]...
-- “The expression “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.[^key-329fd4c049e4a2f26d064178b10c460d]
+- [^c-f2661b85ee977a00431c3d9dada82d26]...
+- “The expression “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.[^c-329fd4c049e4a2f26d064178b10c460d]
 
 (1A)[^c5970731] For the purposes of this Act a deed (or, in Scotland, a deed for which delivery is required) shall be treated as executed when it is delivered or, if it is delivered subject to conditions, when the conditions are fulfilled
 
@@ -605,23 +605,23 @@ SCHEDULES
 
     Act: s. 116 and Sch. 37 of [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23) to be construed as one with this Act (retrospective to 23.4.2002 with application as mentioned in [s. 116(4)](https://www.legislation.gov.uk/ukpga/2002/23/section/116/4) of the amending Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 116(3)(4)(5)](https://www.legislation.gov.uk/ukpga/2002/23/section/116/3/4/5), [Sch. 37](https://www.legislation.gov.uk/ukpga/2002/23/schedule/37)
 
-[^key-f0ab7144c80523ceda446cf2c6c728b0]: Modification: Act: 2003 c. 14, s. 129 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 129(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/129/7) (with [s. 130(9)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/9))
+[^c-f0ab7144c80523ceda446cf2c6c728b0]: Modification: Act: 2003 c. 14, s. 129 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 129(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/129/7) (with [s. 130(9)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/9))
 
-[^key-ff516eb17d58ddfa134d5474874728ce]: Modification: Act: 2003 c. 14, s. 125 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 125(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/125/3)
+[^c-ff516eb17d58ddfa134d5474874728ce]: Modification: Act: 2003 c. 14, s. 125 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 125(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/125/3)
 
-[^key-c1a54621d20779d2f4d4f7e145410581]: Modification: Act: 2003 c. 14, s. 130 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 130(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/7)
+[^c-c1a54621d20779d2f4d4f7e145410581]: Modification: Act: 2003 c. 14, s. 130 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 130(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/7)
 
-[^key-0c6229885f92a675b414b0c7c4952743]: Modification: Act: 2003 c. 14, s. 128 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/14/section/128/6) (with [s. 128(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/128/7))
+[^c-0c6229885f92a675b414b0c7c4952743]: Modification: Act: 2003 c. 14, s. 128 to be construed as one with this Act (10.7.2003) by virtue of [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/14/section/128/6) (with [s. 128(7)](https://www.legislation.gov.uk/ukpga/2003/14/section/128/7))
 
-[^key-8d9dd0917c52b1fe2f0cfbc4e3e58697]: Modification: Act: 2003 c. 14, Sch. 15 para. 33 to be construed as one with this Act by virtue of [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 15 para. 33(9)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/15/paragraph/33/9) (as substituted (with effect in accordance with Sch. 41 para. 3 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 41 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/41/paragraph/1))
+[^c-8d9dd0917c52b1fe2f0cfbc4e3e58697]: Modification: Act: 2003 c. 14, Sch. 15 para. 33 to be construed as one with this Act by virtue of [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 15 para. 33(9)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/15/paragraph/33/9) (as substituted (with effect in accordance with Sch. 41 para. 3 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 41 para. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/41/paragraph/1))
 
-[^key-0e7783eeaec77c6e4ff4e5e538002856]: Modification: Act to be construed as one with Finance Act 2019 (c. 1), s. 47 (with effect in accordance with s. 47(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 47(9)](https://www.legislation.gov.uk/ukpga/2019/1/section/47/9)
+[^c-0e7783eeaec77c6e4ff4e5e538002856]: Modification: Act to be construed as one with Finance Act 2019 (c. 1), s. 47 (with effect in accordance with s. 47(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 47(9)](https://www.legislation.gov.uk/ukpga/2019/1/section/47/9)
 
-[^key-541677da2da91806b26967bd816fdfa6]: Modification: Act: 2019 c. 1, s. 47A to be construed as one with this Act by [2019 c. 1](https://www.legislation.gov.uk/ukpga/2019/1), [s. 47A(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/47A/7) (as inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 77](https://www.legislation.gov.uk/ukpga/2020/14/section/77))
+[^c-541677da2da91806b26967bd816fdfa6]: Modification: Act: 2019 c. 1, s. 47A to be construed as one with this Act by [2019 c. 1](https://www.legislation.gov.uk/ukpga/2019/1), [s. 47A(7)](https://www.legislation.gov.uk/ukpga/2019/1/section/47A/7) (as inserted (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 77](https://www.legislation.gov.uk/ukpga/2020/14/section/77))
 
 [^c5968351]: Textual amendment: S. 1 repealed (27.7.1999 with effect as mentioned in Sch. 20 Pt. V(2) Notes 1, 2 of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139(1)](https://www.legislation.gov.uk/ukpga/1999/16/section/139/1), [Sch. 20 Pt. V(2)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/V/2) Notes 1, 2
 
-[^key-b81d086e03e67d5cf073914e1ee06571]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/2) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/2)
+[^c-b81d086e03e67d5cf073914e1ee06571]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/2) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/2)
 
 [^c5968361]: Modification: S. 3 excluded by [Finance Act 1988 (c. 39, SIF 114)](https://www.legislation.gov.uk/ukpga/1988/39), [s. 143(7)(9)](https://www.legislation.gov.uk/ukpga/1988/39/section/143/7/9)
 
@@ -653,7 +653,7 @@ SCHEDULES
 
     s. 12 applied (with modifications) (retrospective to 28.3.2000 and with effect as mentioned in s. 116(2) of the affecting Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 116(2)(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/116/2/3), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2000/17/schedule/32/paragraph/7)
 
-[^key-5d4ed0858da9a7ab5d3a3f4029e30887]: Modification: S. 12 applied (8.9.2008 for specified purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/7/paragraph/12/3); [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-5d4ed0858da9a7ab5d3a3f4029e30887]: Modification: S. 12 applied (8.9.2008 for specified purposes) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/7/paragraph/12/3); [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/2/1), [3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
 [^c5968561]: Textual amendment: S. 12 and s. 12A substituted (27.7.1999 with effect as mentioned in [s. 109(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/4) of the amending Act) for s. 12 by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [ss. 109(3)(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/3/4), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/1999/16/schedule/12/paragraph/1)
 
@@ -667,31 +667,31 @@ SCHEDULES
 
 [^c5968641]: Textual amendment: Ss. 13, 13A and 13B substituted (27.7.1999 with effect as mentioned in [s. 109(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/4) of the amending Act) for s. 13 by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [ss. 109(3)(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/3/4), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/1999/16/schedule/12/paragraph/2)
 
-[^key-a1d3c410c051fa5f4025aef87cc41632]: Textual amendment: Words in s. 13(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/2)
+[^c-a1d3c410c051fa5f4025aef87cc41632]: Textual amendment: Words in s. 13(4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/2)
 
 [^c5968671]: Modification: S. 13A applied (with modifications) (retrospective to 28.3.2000 and with effect as mentioned in s. 116(2) of thew amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 116(2)(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/116/2/3), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2000/17/schedule/32/paragraph/7)
 
 [^c5968661]: Textual amendment: Ss. 13, 13A and 13B substituted (27.7.1999 with effect as mentioned in [s. 109(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/4) of the amending Act) for s. 13 by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [ss. 109(3)(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/3/4), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/1999/16/schedule/12/paragraph/2)
 
-[^key-f81837489442e92f7447a908323ae56a]: Textual amendment: Words in s. 13A heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/2)
+[^c-f81837489442e92f7447a908323ae56a]: Textual amendment: Words in s. 13A heading substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/2)
 
-[^key-7223f8503874e3f58012535418da4cfe]: Textual amendment: S. 13A(3)(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/3)
+[^c-7223f8503874e3f58012535418da4cfe]: Textual amendment: S. 13A(3)(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/3)
 
-[^key-f909d1770504e1d43d744a3d47b94b74]: Textual amendment: Words in s. 13A(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/a)
+[^c-f909d1770504e1d43d744a3d47b94b74]: Textual amendment: Words in s. 13A(5) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/a)
 
-[^key-cda96444b039d365d667460418eba8d6]: Textual amendment: Words in s. 13A(5)(a)(b) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/b)
+[^c-cda96444b039d365d667460418eba8d6]: Textual amendment: Words in s. 13A(5)(a)(b) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/b)
 
-[^key-d84c80b64964aaa728f0f6585f2ba19d]: Textual amendment: Words in s. 13A(5)(c)(d) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/c/i)
+[^c-d84c80b64964aaa728f0f6585f2ba19d]: Textual amendment: Words in s. 13A(5)(c)(d) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(c)(i)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/c/i)
 
-[^key-9074cc59aed8ce54fa850a8058ffc6d5]: Textual amendment: Words in s. 13A(5)(c)(d) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/c/ii)
+[^c-9074cc59aed8ce54fa850a8058ffc6d5]: Textual amendment: Words in s. 13A(5)(c)(d) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/4/c/ii)
 
-[^key-fe213762b4643b849124d98948bb53a0]: Textual amendment: S. 13A(6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/5)
+[^c-fe213762b4643b849124d98948bb53a0]: Textual amendment: S. 13A(6) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/5)
 
-[^key-03f06a9ec6a28d608335fe4d90dd0a62]: Textual amendment: S. 13A(7)(7A) substituted for s. 13A(7) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(6)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/6)
+[^c-03f06a9ec6a28d608335fe4d90dd0a62]: Textual amendment: S. 13A(7)(7A) substituted for s. 13A(7) (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(6)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/6)
 
-[^key-85c8658d2ec38b0a06bfa7f0a4a8f699]: Textual amendment: Words in s. 13A(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(7)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/7/a)
+[^c-85c8658d2ec38b0a06bfa7f0a4a8f699]: Textual amendment: Words in s. 13A(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(7)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/7/a)
 
-[^key-6781cde97237183a7c137d3bb6f4f186]: Textual amendment: Words in s. 13A(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(7)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/7/b)
+[^c-6781cde97237183a7c137d3bb6f4f186]: Textual amendment: Words in s. 13A(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 3(7)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/3/7/b)
 
 [^c5968691]: Modification: S. 13B applied (with modifications) (retrospective to 28.3.2000 and with effect as mentioned in [s. 109(4)](https://www.legislation.gov.uk/ukpga/2000/17/section/109/4) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 116(2)(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/116/2/3), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2000/17/schedule/32/paragraph/7)
 
@@ -723,15 +723,15 @@ SCHEDULES
 
     S. 14(4) restricted (24.7.2002 with effect as mentioned in s. 115(8) of the affecting Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 115(5)(a)](https://www.legislation.gov.uk/ukpga/2002/23/section/115/5/a)
 
-[^key-cc6ce0e9297999cebaede40ed3fb6659]: Modification: S. 14(4) modified (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 99(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/99/3)
+[^c-cc6ce0e9297999cebaede40ed3fb6659]: Modification: S. 14(4) modified (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 99(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/99/3)
 
-[^key-9d9f1f194ef696e62e53227ca19ad762]: Modification: S. 14(4) modified (with effect in accordance with s. 100(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/4)
+[^c-9d9f1f194ef696e62e53227ca19ad762]: Modification: S. 14(4) modified (with effect in accordance with s. 100(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 100(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/100/4)
 
-[^key-84bbd23545f0e47b9dfc100fef84b86c]: Modification: S. 14(4) modified (with effect in accordance with s. 98(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 98(6)](https://www.legislation.gov.uk/ukpga/2008/9/section/98/6)
+[^c-84bbd23545f0e47b9dfc100fef84b86c]: Modification: S. 14(4) modified (with effect in accordance with s. 98(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 98(6)](https://www.legislation.gov.uk/ukpga/2008/9/section/98/6)
 
 [^c5968881]: Textual amendment: Words in s. 14(4) substituted (27.7.1999 with effect as mentioned in [s. 109(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/4) of the amending Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [ss. 109(3)(4)](https://www.legislation.gov.uk/ukpga/1999/16/section/109/3/4), [122](https://www.legislation.gov.uk/ukpga/1999/16/section/122), [Sch. 12 para. 3(5)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/12/paragraph/3/5)
 
-[^key-2ba2ed554015a8aafac40a3b9df0daa6]: Textual amendment: [S. 14(5)](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/14/5) inserted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/3)
+[^c-2ba2ed554015a8aafac40a3b9df0daa6]: Textual amendment: [S. 14(5)](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/14/5) inserted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/3)
 
 [^c5969001]: Modification: S. 15 applied (with modifications) (retrospective to 28.3.2000 and with effect as mentioned in [s. 116(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/116/2) of the amending Act) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 116(2)(3)](https://www.legislation.gov.uk/ukpga/2000/17/section/116/2/3), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2000/17/schedule/32/paragraph/7)
 
@@ -783,7 +783,7 @@ SCHEDULES
 
 [^c5969251]: Textual amendment: S. 24 repealed by [Finance Act 1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47), [Sch. 11 Pt. V](https://www.legislation.gov.uk/ukpga/1949/47/schedule/11/part/V)
 
-[^key-7241245ef5be257c9c327027f71d61ac]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/25) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-7241245ef5be257c9c327027f71d61ac]: Textual amendment: [S. 25](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/25) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c5969261]: Textual amendment: S. 26 repealed by [Finance Act 1947 (c. 35)](https://www.legislation.gov.uk/ukpga/1947/35), [Sch. 11 Pt. I](https://www.legislation.gov.uk/ukpga/1947/35/schedule/11/part/I)
 
@@ -811,7 +811,7 @@ SCHEDULES
 
 [^c5969371]: Textual amendment: Ss. 45–48 repealed by Solicitors, Public Notaries, &c., Act 1949 (c. 21), Sch. 2
 
-[^key-249eea6ffc40b1c6fe40f147cf0c0e0d]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-249eea6ffc40b1c6fe40f147cf0c0e0d]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/49) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c5969391]: Textual amendment: Ss. 49(2), 50, 51 repealed by [Finance Act 1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47), [Sch. 11 Pt. V](https://www.legislation.gov.uk/ukpga/1949/47/schedule/11/part/V)
 
@@ -937,7 +937,7 @@ SCHEDULES
 
 [^c5970381]: Textual amendment: Ss. 110, 111(2)(3) repealed by [Finance Act 1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47), [Sch. 11 Pt. V](https://www.legislation.gov.uk/ukpga/1949/47/schedule/11/part/V)
 
-[^key-8650c6a7755680c413e3a62e3d392029]: Textual amendment: [S. 111](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/111) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-8650c6a7755680c413e3a62e3d392029]: Textual amendment: [S. 111](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/111) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c5970401]: Textual amendment: Ss. 112, 113 repealed with saving by [Finance Act 1973 (c. 51)](https://www.legislation.gov.uk/ukpga/1973/51), [ss. 49(1)](https://www.legislation.gov.uk/ukpga/1973/51/section/49/1), [59(7)](https://www.legislation.gov.uk/ukpga/1973/51/section/59/7), [Sch. 22 Pt. V](https://www.legislation.gov.uk/ukpga/1973/51/schedule/22/part/V)
 
@@ -949,7 +949,7 @@ SCHEDULES
 
 [^c5970441]: Textual amendment: S. 118 repealed by [Finance Act 1989 (c. 26, SIF 114)](https://www.legislation.gov.uk/ukpga/1989/26), [ss. 173(4)(9)](https://www.legislation.gov.uk/ukpga/1989/26/section/173/4/9), [187(1)](https://www.legislation.gov.uk/ukpga/1989/26/section/187/1), [Sch. 17 Pt. IX](https://www.legislation.gov.uk/ukpga/1989/26/schedule/17/part/IX)
 
-[^key-2d05a49e1490e9e171e276c17042e7cd]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/120) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-2d05a49e1490e9e171e276c17042e7cd]: Textual amendment: [S. 120](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/120) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c5970511]: Textual amendment: S. 121 repealed (1.10.1999) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20), [Pt. V(3)](https://www.legislation.gov.uk/ukpga/1999/16/part/V/3), Note
 
@@ -957,17 +957,17 @@ SCHEDULES
 
     Words in s. 122(1) excluded (8.10.1997 but with application 20.10.1997) by [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41), [s. 80C(5)](https://www.legislation.gov.uk/ukpga/1986/41/section/80C/5) (as inserted by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 98(1)](https://www.legislation.gov.uk/ukpga/1997/16/section/98/1));[S.I. 1997/2428](https://www.legislation.gov.uk/uksi/1997/2428), [art. 2(2)](https://www.legislation.gov.uk/uksi/1997/2428/article/2/2))
 
-[^key-7f2e062c69fa0af4d851ad7ab50781eb]: Modification: S. 122(1) excluded by 1986 c. 41, s. 80D(8) (as inserted (with effect in accordance with s. 83(2)(3) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/37/paragraph/2))
+[^c-7f2e062c69fa0af4d851ad7ab50781eb]: Modification: S. 122(1) excluded by 1986 c. 41, s. 80D(8) (as inserted (with effect in accordance with s. 83(2)(3) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/37/paragraph/2))
 
 [^c5970671]: Modification: Definition of “instrument” extended by [Companies Act 1948 (c. 38)](https://www.legislation.gov.uk/ukpga/1948/38), [s. 52(2)](https://www.legislation.gov.uk/ukpga/1948/38/section/52/2)
 
-[^key-2880c38fa86ea0663dbae0f2463e4471]: Textual amendment: Word in [s. 122(1)](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/122/1) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/4/a)
+[^c-2880c38fa86ea0663dbae0f2463e4471]: Textual amendment: Word in [s. 122(1)](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/122/1) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/4/a)
 
-[^key-8711945fa41cb39a0c6a7bc817986f33]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/122/1) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/4/b)
+[^c-8711945fa41cb39a0c6a7bc817986f33]: Textual amendment: Words in [s. 122(1)](https://www.legislation.gov.uk/ukpga/Vict/54-55/39/section/122/1) substituted (22.4.2019) by [The Stamp Duty (Method of Denoting Duty) Regulations 2019 (S.I. 2019/719)](https://www.legislation.gov.uk/uksi/2019/719), [regs. 1](https://www.legislation.gov.uk/uksi/2019/719/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/719/regulation/3/4/b)
 
 [^c5970681]: Textual amendment: Words in s. 122(1) added (3.5.1994 with effect as mentioned in [s. 239(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/239/3) of the amending Act) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 239](https://www.legislation.gov.uk/ukpga/1994/9/section/239)(1(b)(3)
 
-[^key-43279db79c0d1d6f9419e8ed29943946]: Textual amendment: Words in s. 122(1) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [6](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-43279db79c0d1d6f9419e8ed29943946]: Textual amendment: Words in s. 122(1) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [6](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5970691]: Textual amendment: Words in s. 122(1) repealed (28.10.2002) by [S.I. 2002/2521](https://www.legislation.gov.uk/uksi/2002/2521), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/2521/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2002/2521/article/2/1), [10(2)](https://www.legislation.gov.uk/uksi/2002/2521/article/10/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2002/2521/schedule/2/part/I)
 
@@ -975,9 +975,9 @@ SCHEDULES
 
 [^c5970711]: Marginal citation: [1942 c. 21](https://www.legislation.gov.uk/ukpga/1942/21).
 
-[^key-f2661b85ee977a00431c3d9dada82d26]: Textual amendment: Words in s. 122(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-f2661b85ee977a00431c3d9dada82d26]: Textual amendment: Words in s. 122(1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
-[^key-329fd4c049e4a2f26d064178b10c460d]: Textual amendment: Words in s. 122(1) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/4)
+[^c-329fd4c049e4a2f26d064178b10c460d]: Textual amendment: Words in s. 122(1) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/4)
 
 [^c5970731]: Textual amendment: S. 122(1A) inserted (3.5.1994 with effect as mentioned in [s. 239(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/239/3) of the amending Act) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [s. 239(1)(a)(3)](https://www.legislation.gov.uk/ukpga/1994/9/section/239/1/a/3)
 

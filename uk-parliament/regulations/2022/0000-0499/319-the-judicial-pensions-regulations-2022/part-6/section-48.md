@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Annual rate of full retirement pension (deferred members)[^key-21eaa4079dbe6e5cdded62b2c2d3c983]
+## 48. Annual rate of full retirement pension (deferred members)[^c-21eaa4079dbe6e5cdded62b2c2d3c983]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21eaa4079dbe6e5cdded62b2c2d3c983]: Commencement: Reg. 48 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-21eaa4079dbe6e5cdded62b2c2d3c983]: Commencement: Reg. 48 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 179. Notice, etc to solicitors[^key-634e01e636c9b14450d4a2fdd88bdd01]
+## 179. Notice, etc to solicitors[^c-634e01e636c9b14450d4a2fdd88bdd01]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in energy administration proceedings a notice or other document is require
 
 ## Annotations
 
-[^key-634e01e636c9b14450d4a2fdd88bdd01]: Commencement: Rule 179 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-634e01e636c9b14450d4a2fdd88bdd01]: Commencement: Rule 179 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B8. Age of compulsory retirement[^key-49b59e40123952f2821e7d74fb6951cb]
+## B8. Age of compulsory retirement[^c-49b59e40123952f2821e7d74fb6951cb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ When a pensionable employee attains the age of 65 years he shall cease to hold h
 
 ## Annotations
 
-[^key-49b59e40123952f2821e7d74fb6951cb]: Commencement: [Reg. B8](https://www.legislation.gov.uk/uksi/1986/24/regulation/B8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-49b59e40123952f2821e7d74fb6951cb]: Commencement: [Reg. B8](https://www.legislation.gov.uk/uksi/1986/24/regulation/B8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

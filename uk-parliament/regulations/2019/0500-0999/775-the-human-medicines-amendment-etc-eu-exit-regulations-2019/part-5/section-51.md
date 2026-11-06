@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendment of Schedule 8A (material to accompany an application for a parallel import licence)[^key-5d10a6a688e2b258854886d65e7ec327]
+## 51. Amendment of Schedule 8A (material to accompany an application for a parallel import licence)[^c-5d10a6a688e2b258854886d65e7ec327]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ Paragraph 6 of Schedule 8A [^c23884771] is amended as follows—
 
 ## Annotations
 
-[^key-5d10a6a688e2b258854886d65e7ec327]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5d10a6a688e2b258854886d65e7ec327]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884771]: Marginal citation: Schedule 8A was inserted by [S.I. 2014/1878](https://www.legislation.gov.uk/uksi/2014/1878).

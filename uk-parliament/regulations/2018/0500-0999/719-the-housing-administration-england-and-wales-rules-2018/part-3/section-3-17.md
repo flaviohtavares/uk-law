@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.17. Application of Chapter 5 to meetings of the registered provider[^key-0b4dbccc75a57e7069f61da649c01f5f]
+## 3.17. Application of Chapter 5 to meetings of the registered provider[^c-0b4dbccc75a57e7069f61da649c01f5f]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ This Chapter applies where the housing administrator calls a meeting of members 
 
 ## Annotations
 
-[^key-0b4dbccc75a57e7069f61da649c01f5f]: Commencement: Rule 3.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-0b4dbccc75a57e7069f61da649c01f5f]: Commencement: Rule 3.17 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
 
 [^f00017]: Footnote: Paragraph 62 was amended by paragraph 10 of Schedule 9 to the Small Business, Enterprise and Employment Act 2015.

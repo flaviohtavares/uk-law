@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Power of Commission to correct inaccuracies in directions etc.[^key-1b71a19db8bb39c009f44edbc3a0a05e]
+## 29. Power of Commission to correct inaccuracies in directions etc.[^c-1b71a19db8bb39c009f44edbc3a0a05e]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b71a19db8bb39c009f44edbc3a0a05e]: Commencement: S. 29 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-1b71a19db8bb39c009f44edbc3a0a05e]: Commencement: S. 29 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

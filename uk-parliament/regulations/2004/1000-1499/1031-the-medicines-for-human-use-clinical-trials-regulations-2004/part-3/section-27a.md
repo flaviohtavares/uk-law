@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Information sharing[^key-61c1ea957ceb25f4f4376b648741818f]
+## 27A. Information sharing[^c-61c1ea957ceb25f4f4376b648741818f]
 
 *Extent: E+W+S+N.I.*
 
-The licensing authority , the Authority[^key-5004a46c5d5aee8bdd7c274ae892b552] and an ethics committee may disclose to each other any information acquired in carrying out their respective functions under these Regulations where disclosing such information may assist the other body in carrying out its functions under these Regulations.
+The licensing authority , the Authority[^c-5004a46c5d5aee8bdd7c274ae892b552] and an ethics committee may disclose to each other any information acquired in carrying out their respective functions under these Regulations where disclosing such information may assist the other body in carrying out its functions under these Regulations.
 
 ## Annotations
 
-[^key-61c1ea957ceb25f4f4376b648741818f]: Textual amendment: Reg. 27A inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2006/1928/regulation/14)
+[^c-61c1ea957ceb25f4f4376b648741818f]: Textual amendment: Reg. 27A inserted (29.8.2006) by [The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2006/1928/regulation/14)
 
-[^key-5004a46c5d5aee8bdd7c274ae892b552]: Textual amendment: Words in reg. 27A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2025/538/regulation/15)
+[^c-5004a46c5d5aee8bdd7c274ae892b552]: Textual amendment: Words in reg. 27A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2025/538/regulation/15)

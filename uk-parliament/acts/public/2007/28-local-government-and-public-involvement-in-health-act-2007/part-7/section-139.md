@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Abolition of performance indicators etc except for Welsh authorities[^key-afbd9accb7be83907fb5455c5c27d36a]
+## 139. Abolition of performance indicators etc except for Welsh authorities[^c-afbd9accb7be83907fb5455c5c27d36a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afbd9accb7be83907fb5455c5c27d36a]: Commencement: S. 139 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/c) (with [art. 6(1)-(3)](https://www.legislation.gov.uk/uksi/2008/917/article/6/1))
+[^c-afbd9accb7be83907fb5455c5c27d36a]: Commencement: S. 139 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/c) (with [art. 6(1)-(3)](https://www.legislation.gov.uk/uksi/2008/917/article/6/1))

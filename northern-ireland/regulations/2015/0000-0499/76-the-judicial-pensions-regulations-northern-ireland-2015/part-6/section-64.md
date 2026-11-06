@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) This regulation applies if an active member of this scheme (P) exercises the partial retirement option in respect of part only of P's accrued pensions in the office from which P is taking partial retirement.[^key-360e720340b94f9731b7d12fdd430984] .
+(1) This regulation applies if an active member of this scheme (P) exercises the partial retirement option in respect of part only of P's accrued pensions in the office from which P is taking partial retirement.[^c-360e720340b94f9731b7d12fdd430984] .
 
 (2) The annual rate of each description of partial retirement pension is calculated under regulation 57 by reference to the amount of each description of full retirement pension specified in the full retirement account.
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-360e720340b94f9731b7d12fdd430984]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/nisr/2015/76/regulation/64/1) inserted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(9)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/9)
+[^c-360e720340b94f9731b7d12fdd430984]: Textual amendment: Words in [reg. 64(1)](https://www.legislation.gov.uk/nisr/2015/76/regulation/64/1) inserted (1.4.2022) by [The Judicial Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/73)](https://www.legislation.gov.uk/nisr/2022/73), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/73/regulation/1/2), [3(9)](https://www.legislation.gov.uk/nisr/2022/73/regulation/3/9)

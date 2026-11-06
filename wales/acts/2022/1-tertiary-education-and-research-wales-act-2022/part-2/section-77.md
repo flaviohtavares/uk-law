@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Information to be given with notices and directions and effect pending review[^key-fae6d86f571a34daa1a200abbbedc122][^key-2f073161e0b498fcdfa12cd0a67c0801]
+## 77. Information to be given with notices and directions and effect pending review[^c-fae6d86f571a34daa1a200abbbedc122][^c-2f073161e0b498fcdfa12cd0a67c0801]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fae6d86f571a34daa1a200abbbedc122]: Commencement: S. 77 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-fae6d86f571a34daa1a200abbbedc122]: Commencement: S. 77 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-2f073161e0b498fcdfa12cd0a67c0801]: Commencement: [S. 77](https://www.legislation.gov.uk/asc/2022/1/section/77) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(z)](https://www.legislation.gov.uk/wsi/2025/432/article/2/z)
+[^c-2f073161e0b498fcdfa12cd0a67c0801]: Commencement: [S. 77](https://www.legislation.gov.uk/asc/2022/1/section/77) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(z)](https://www.legislation.gov.uk/wsi/2025/432/article/2/z)

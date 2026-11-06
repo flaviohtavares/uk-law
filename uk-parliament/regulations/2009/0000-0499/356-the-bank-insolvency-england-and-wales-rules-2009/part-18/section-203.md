@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 203. Orders enforcing compliance with the rules[^key-e6577a336dd98b8c7587745549e227bf]
+## 203. Orders enforcing compliance with the rules[^c-e6577a336dd98b8c7587745549e227bf]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6577a336dd98b8c7587745549e227bf]: Commencement: Rule 203 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e6577a336dd98b8c7587745549e227bf]: Commencement: Rule 203 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

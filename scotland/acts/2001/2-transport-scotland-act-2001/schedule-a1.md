@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE A1 — Bus services improvement partnership plans and schemes: procedures[^key-83351451f0f0dfd1ee811e9a9dfcb3b6]
+## SCHEDULE A1 — Bus services improvement partnership plans and schemes: procedures[^c-83351451f0f0dfd1ee811e9a9dfcb3b6]
 
 *Extent: S*
 
 (introduced by section 3A)
 
-### PART 1 — Making[^key-b90433dadc594c4d3af86c1abad437b1]
+### PART 1 — Making[^c-b90433dadc594c4d3af86c1abad437b1]
 
 #### Meaning of partnership proposal
 
@@ -160,7 +160,7 @@ summary: ''
 
 (4) The notice must include a statement of the local transport authority's reasons for deciding to postpone the coming into operation of the partnership scheme (or any part of it).
 
-### PART 2 — Variation[^key-b90433dadc594c4d3af86c1abad437b1]
+### PART 2 — Variation[^c-b90433dadc594c4d3af86c1abad437b1]
 
 #### Meaning of local transport authority for the purposes of this Part
 
@@ -283,7 +283,7 @@ summary: ''
 
 (4) The notice must include a statement of the local transport authority's reasons for deciding to postpone the coming into operation of the variation of a partnership scheme (or any part of it).
 
-### PART 3 — Revocation[^key-b90433dadc594c4d3af86c1abad437b1]
+### PART 3 — Revocation[^c-b90433dadc594c4d3af86c1abad437b1]
 
 #### Notice of proposal to revoke
 
@@ -353,6 +353,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83351451f0f0dfd1ee811e9a9dfcb3b6]: Textual amendment: Sch. A1 inserted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 36(2)](https://www.legislation.gov.uk/asp/2019/17/section/36/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-83351451f0f0dfd1ee811e9a9dfcb3b6]: Textual amendment: Sch. A1 inserted (4.12.2023) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 36(2)](https://www.legislation.gov.uk/asp/2019/17/section/36/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
 
-[^key-b90433dadc594c4d3af86c1abad437b1]: Modification: [Sch. A1 Pts. 1-3](https://www.legislation.gov.uk/asp/2001/2/schedule/A1/part/1): functions exercisable concurrently (5.6.2024) by [The Transport Partnerships (Transfer of Functions) (Scotland) Order 2024 (S.S.I. 2024/161)](https://www.legislation.gov.uk/ssi/2024/161), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/161/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2024/161/article/2)
+[^c-b90433dadc594c4d3af86c1abad437b1]: Modification: [Sch. A1 Pts. 1-3](https://www.legislation.gov.uk/asp/2001/2/schedule/A1/part/1): functions exercisable concurrently (5.6.2024) by [The Transport Partnerships (Transfer of Functions) (Scotland) Order 2024 (S.S.I. 2024/161)](https://www.legislation.gov.uk/ssi/2024/161), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/161/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2024/161/article/2)

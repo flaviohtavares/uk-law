@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Refusal of an application[^key-d7a3c2300bf8a8f11e511fee188b969e]
+## 18. Refusal of an application[^c-d7a3c2300bf8a8f11e511fee188b969e]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7a3c2300bf8a8f11e511fee188b969e]: Commencement: Reg. 18 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)
+[^c-d7a3c2300bf8a8f11e511fee188b969e]: Commencement: Reg. 18 in force at 7.8.2012, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/2)

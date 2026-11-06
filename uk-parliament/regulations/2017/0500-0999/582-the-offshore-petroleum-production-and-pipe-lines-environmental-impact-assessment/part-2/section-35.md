@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Amendment of regulation 11 (further information and evidence respecting environmental statements)[^key-9d064bfe8671f56369f1568e89d9e492]
+## 35. Amendment of regulation 11 (further information and evidence respecting environmental statements)[^c-9d064bfe8671f56369f1568e89d9e492]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In regulation 11—
 
 ## Annotations
 
-[^key-9d064bfe8671f56369f1568e89d9e492]: Commencement: Reg. 35 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-9d064bfe8671f56369f1568e89d9e492]: Commencement: Reg. 35 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

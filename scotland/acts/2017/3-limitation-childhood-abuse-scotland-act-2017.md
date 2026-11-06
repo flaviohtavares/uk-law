@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to remove the limitation period for actions of
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 22nd June 2017 and received Royal Assent on 28th July 2017
 
-## 1. Removal of 3 year limitation period in certain actions[^key-1acdd8dc87658f33dd0182d7822e5b69]
+## 1. Removal of 3 year limitation period in certain actions[^c-1acdd8dc87658f33dd0182d7822e5b69]
 
 After section 17 of the Prescription and Limitation (Scotland) Act 1973 insert—
 
@@ -109,4 +109,4 @@ The short title of this Act is the Limitation (Childhood Abuse) (Scotland) Act 2
 
 ## Annotations
 
-[^key-1acdd8dc87658f33dd0182d7822e5b69]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/3/section/1) in force at 4.10.2017 by [S.S.I. 2017/279](https://www.legislation.gov.uk/ssi/2017/279), [reg. 2](https://www.legislation.gov.uk/ssi/2017/279/regulation/2)
+[^c-1acdd8dc87658f33dd0182d7822e5b69]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2017/3/section/1) in force at 4.10.2017 by [S.S.I. 2017/279](https://www.legislation.gov.uk/ssi/2017/279), [reg. 2](https://www.legislation.gov.uk/ssi/2017/279/regulation/2)

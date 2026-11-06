@@ -22,13 +22,13 @@ summary: ''
 
 Article 3
 
-### PART 1 — Authorised development[^key-c2f379b0452e543ead0e98d4265027ca]
+### PART 1 — Authorised development[^c-c2f379b0452e543ead0e98d4265027ca]
 
 #### In North Lincolnshire
 
-A nationally significant infrastructure project comprising a generating station with a nominal gross electrical output of up to[^key-4923eb2ab03f0ec919c176637a369156] 550 MWe[^key-5991b407256357a0846aabc5a6e3c852] as defined in sections 14(1)(a) and 15 of the 2008 Act comprising—
+A nationally significant infrastructure project comprising a generating station with a nominal gross electrical output of up to[^c-4923eb2ab03f0ec919c176637a369156] 550 MWe[^c-5991b407256357a0846aabc5a6e3c852] as defined in sections 14(1)(a) and 15 of the 2008 Act comprising—
 
-- *Work No. 1* — a combined cycle plant [^key-1e81a5c93cd9e9814d0e459a5b555df4]... fuelled by gas and including—
+- *Work No. 1* — a combined cycle plant [^c-1e81a5c93cd9e9814d0e459a5b555df4]... fuelled by gas and including—
   - (a) one gas turbine within a turbine hall;
   - (b) one steam turbine within a turbine hall;
   - (c) one or two electricity generators and one or two transformers within a compound;
@@ -42,9 +42,9 @@ A nationally significant infrastructure project comprising a generating station 
   - (k) an administration building;
   - (l) a workshop and warehouse building;
   - (m) a materials storage facility;
-  - (n) a waste water treatment plant; [^key-c716c46308f72897c2194a7e29e71ac3]...
-  - (o) a facility to enable steam-water pass-outs and/or hot-water pass-outs ; and[^key-2aec184f2f0b28ee8853afb009e68a40]
-  - (p) an auxiliary boiler and associated stack;[^key-7cfdde878d450fdd0ceb908971c4cefb]
+  - (n) a waste water treatment plant; [^c-c716c46308f72897c2194a7e29e71ac3]...
+  - (o) a facility to enable steam-water pass-outs and/or hot-water pass-outs ; and[^c-2aec184f2f0b28ee8853afb009e68a40]
+  - (p) an auxiliary boiler and associated stack;[^c-7cfdde878d450fdd0ceb908971c4cefb]
 - *Work No. 2a* — a gasification facility to enable the processing of solid fuels to produce syngas to supply to the gas turbine comprised in Work No. 1 including—
   - (a) a gasifier;
   - (b) a syngas treatment/conditioning facility;
@@ -82,7 +82,7 @@ A nationally significant infrastructure project comprising a generating station 
   - (h) the provision of footways; and
   - (i) lighting columns and lighting.
 
-### PART 2 — Building heights[^key-6c0f37b08ffc21b2434de8290427eb5a]
+### PART 2 — Building heights[^c-6c0f37b08ffc21b2434de8290427eb5a]
 
 <table>
 <thead>
@@ -117,11 +117,11 @@ A nationally significant infrastructure project comprising a generating station 
 </tbody>
 </table>
 
-[^key-46b83ead59800c902e2ece38e64cf702]
+[^c-46b83ead59800c902e2ece38e64cf702]
 
 ### PART 3 — Requirements
 
-#### 1. Interpretation[^key-e7fc1083fe76c1c87b0522309132c633]
+#### 1. Interpretation[^c-e7fc1083fe76c1c87b0522309132c633]
 
 In this Part of this Schedule—
 
@@ -132,24 +132,24 @@ In this Part of this Schedule—
 - “CCS” means carbon capture and storage;
 - “CCS proposal” means a proposal for the capture, compression (should that be necessary) transport and storage of the target carbon dioxide, which identifies the proposed capture technology, compressor siting, transport route and storage location for the authorised development;
 - “CEMP” means the construction environmental management plan to be submitted and approved pursuant to requirement 15 below;
-- “current CCS proposal” means—[^key-7bd3ce16c22f0d1b63abd9b04b718caf]
+- “current CCS proposal” means—[^c-7bd3ce16c22f0d1b63abd9b04b718caf]
   - (a) the pre-combustion CCS proposal; or
   - (b) the post-combustion CCS proposal;
 - “Design and Access Statement” means the document with that title certified by the Secretary of State for the purposes of this Order;
-- “designated site” means the land shown hatched blue and labelled[^key-be3567da0451aa18b521ae9868e7a247] “Land Reserved for carbon capture readiness compliance”[^key-a9dca35b4357d26656cc36380aca1e62] on the works plans as the area where the undertaker proposes to locate capture equipment for the post-combustion CCS proposal;
-- “operations area” means that part of the authorised development comprising parcel numbers 05/04, 05/05, 06/01, 07/03, 07/04, 07/05, 07/06, 08/01, 08/02 and 08/03 shown on the land plans and described in the book of reference; [^key-32f4ff2bdb82faff03995b429891d242]...
-- “overlap areas” means the areas of Work No. 1 shown cross hatched green on the works plans;[^key-33936fdebe183f95939bf4f82dee9fd9]
-- “post-combustion CCS proposal” means the CCS proposal not including Work No. 2a set out in the feasibility study dated 21 July 2025 (North Killingholme (Generating Station) Order – Non-Material Change Application 2025 Carbon Capture Readiness Compliance) certified by the Secretary of State for the purposes of this Order;[^key-e1a7583fed4c112f71c07bf9960d3f89]
-- “pre-combustion CCS proposal” means the CCS proposal including Work No. 2a set out in the feasibility study dated May 2021 (Carbon Capture Readiness Feasibility Study / Carbon Capture and Storage Design Concept Report) certified by the Secretary of State for the purposes of this Order; and[^key-f989b69e1b7ee8ecd450b3095166abe2]
-- “target carbon dioxide” means—[^key-4af3a019957b6b0a520c2df1cbf78737]
+- “designated site” means the land shown hatched blue and labelled[^c-be3567da0451aa18b521ae9868e7a247] “Land Reserved for carbon capture readiness compliance”[^c-a9dca35b4357d26656cc36380aca1e62] on the works plans as the area where the undertaker proposes to locate capture equipment for the post-combustion CCS proposal;
+- “operations area” means that part of the authorised development comprising parcel numbers 05/04, 05/05, 06/01, 07/03, 07/04, 07/05, 07/06, 08/01, 08/02 and 08/03 shown on the land plans and described in the book of reference; [^c-32f4ff2bdb82faff03995b429891d242]...
+- “overlap areas” means the areas of Work No. 1 shown cross hatched green on the works plans;[^c-33936fdebe183f95939bf4f82dee9fd9]
+- “post-combustion CCS proposal” means the CCS proposal not including Work No. 2a set out in the feasibility study dated 21 July 2025 (North Killingholme (Generating Station) Order – Non-Material Change Application 2025 Carbon Capture Readiness Compliance) certified by the Secretary of State for the purposes of this Order;[^c-e1a7583fed4c112f71c07bf9960d3f89]
+- “pre-combustion CCS proposal” means the CCS proposal including Work No. 2a set out in the feasibility study dated May 2021 (Carbon Capture Readiness Feasibility Study / Carbon Capture and Storage Design Concept Report) certified by the Secretary of State for the purposes of this Order; and[^c-f989b69e1b7ee8ecd450b3095166abe2]
+- “target carbon dioxide” means—[^c-4af3a019957b6b0a520c2df1cbf78737]
   - (a) in respect of the pre-combustion CCS proposal, as much of the carbon dioxide emitted by the first 300 MWe of the capacity of the authorised development when it is operating at full capacity as it is reasonably practicable to capture for the purposes of permanent storage, having regard to the state of the art in pre-combustion carbon capture and storage technology for the time being; or
   - (b) in respect of the post-combustion CCS proposal, as much of the carbon dioxide emitted by the authorised development when it is operating at full capacity as it is reasonably practicable to capture for the purposes of permanent storage, having regard to the state of the art in post-combustion carbon capture and storage technology.
 
-#### 2. Time limits etc.[^key-93918eedecf7bf6a6b23ae118ad81d99]
+#### 2. Time limits etc.[^c-93918eedecf7bf6a6b23ae118ad81d99]
 
-The authorised development shall commence no later than the expiration of twelve[^key-14d7460c51d7ddaa8fbabf14266b9310] years beginning with the date that this Order comes into force.
+The authorised development shall commence no later than the expiration of twelve[^c-14d7460c51d7ddaa8fbabf14266b9310] years beginning with the date that this Order comes into force.
 
-#### 3. Development masterplan[^key-f58effd3c84a623a1a13df2381789b76]
+#### 3. Development masterplan[^c-f58effd3c84a623a1a13df2381789b76]
 
 (1) No part of the authorised development shall be carried out until there has been submitted to and approved by the relevant planning authority—
 
@@ -181,7 +181,7 @@ The authorised development shall commence no later than the expiration of twelve
 
 (5) The authorised development shall be carried out in accordance with the relevant approved masterplan.
 
-#### 4. Detailed design[^key-f0d7e5ab3da4a3f3df275ee29bbf8f9f]
+#### 4. Detailed design[^c-f0d7e5ab3da4a3f3df275ee29bbf8f9f]
 
 (1) No works within the relevant phase of the authorised development may commence until details of the following, which must accord with requirement 5, have been submitted and approved by the relevant planning authority—
 
@@ -192,15 +192,15 @@ The authorised development shall commence no later than the expiration of twelve
 
 (2) The authorised development shall be carried out and maintained in accordance with the approved details.
 
-**5.**[^key-2cf3373ccbd169b4fe3bf4a26ca2677d] (1) The authorised development shall be carried out in accordance with the principles contained in the Architectural Study and the Design and Access Statement (with the former taking precedence in the case of conflict) and in general accordance with the building envelopes shown on the elevations contained in the works plans, (subject always to article 3(5) and (6), Part 2 of this Schedule and paragraph 5(2) of this Part).
+**5.**[^c-2cf3373ccbd169b4fe3bf4a26ca2677d] (1) The authorised development shall be carried out in accordance with the principles contained in the Architectural Study and the Design and Access Statement (with the former taking precedence in the case of conflict) and in general accordance with the building envelopes shown on the elevations contained in the works plans, (subject always to article 3(5) and (6), Part 2 of this Schedule and paragraph 5(2) of this Part).
 
 (2) This requirement is subject to the approvals required under requirement 4.
 
-#### 6. Site road[^key-210fe84ceb4e8742231853e275644a55]
+#### 6. Site road[^c-210fe84ceb4e8742231853e275644a55]
 
 The site access road comprised in Work No. 4 must be completed prior to commencement of construction of Work Nos. 1, 2a, 2b, 2c, 3a, 3b, 5, 6, and 7.
 
-#### 7. Provision of landscaping[^key-eb385bc758cca798dbaab8429a777ffb]
+#### 7. Provision of landscaping[^c-eb385bc758cca798dbaab8429a777ffb]
 
 (1) No part of the authorised development shall commence until a detailed landscaping scheme, associated working programme and long term management plan for the operations area which are consistent with the environmental statement has been submitted to and approved by the relevant planning authority.
 
@@ -222,7 +222,7 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (4) The authorised development shall not commence until the screen planting referred to at Requirement 7(2)(a)(ii) above has been undertaken.
 
-#### 8. Implementation and maintenance of landscaping[^key-d37a8cb355f023c010bd93668bf86503]
+#### 8. Implementation and maintenance of landscaping[^c-d37a8cb355f023c010bd93668bf86503]
 
 (1) All landscaping works shall be carried out in accordance with the detailed written landscaping scheme approved under requirement 7 and to the specified standard.
 
@@ -230,13 +230,13 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (3) If any boundary shrub or vegetation is the subject of localised clearance for the purpose of construction of the authorised development, replacement planting will be undertaken to replace the extent of vegetation lost using locally occurring species to retain the existing vegetation pattern, unless otherwise approved by the relevant planning authority.
 
-#### 9. Highway works[^key-48615a3c36ba15658ade372da5f53da4]
+#### 9. Highway works[^c-48615a3c36ba15658ade372da5f53da4]
 
 (1) No part of the authorised development shall be carried out until details of the siting, design and layout of the highway works comprised in Work Nos. 4 and 8 have after consultation with the relevant planning authority and highway authority been submitted to and approved by the relevant planning authority.
 
 (2) The approved Works shall be carried out in accordance with the approved details.
 
-#### 10. Fencing and other means of site perimeter enclosure[^key-b3abab9a741c5ebab7b51202845fb370]
+#### 10. Fencing and other means of site perimeter enclosure[^c-b3abab9a741c5ebab7b51202845fb370]
 
 (1) No part of the authorised development shall be carried out until written details of all proposed permanent or temporary fences, hoardings, walls or other means of enclosure of the operations area has been submitted to and approved by the relevant planning authority.
 
@@ -244,7 +244,7 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (3) All temporary fencing shall be removed on completion of construction of the authorised development.
 
-#### 11. Construction surface water drainage[^key-8151dadabd64010a91770cc440a87536]
+#### 11. Construction surface water drainage[^c-8151dadabd64010a91770cc440a87536]
 
 (1) No part of the authorised development shall be carried out until a written scheme to deal with the disposal of surface and foul water drainage during construction (the “Construction Drainage Scheme”) has been submitted to and approved by the relevant planning authority, in consultation with the Environment Agency and North East Lindsey Drainage Board.
 
@@ -260,7 +260,7 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (3) Unless otherwise approved by the relevant planning authority, the scheme shall be implemented in accordance with the approved details and an approved programme.
 
-#### 12. Operational surface and foul water drainage[^key-bd5056c2421e24f780637bd188471c32]
+#### 12. Operational surface and foul water drainage[^c-bd5056c2421e24f780637bd188471c32]
 
 (1) No part of the authorised development shall commence until a written scheme to deal with the details of the surface water drainage system, the oily water drainage system, the waste water treatment plant system and the sewage system (together the “operational drainage scheme”) has been submitted to and approved by the relevant planning authority.
 
@@ -278,7 +278,7 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (3) Unless otherwise agreed by the relevant planning authority, the scheme shall be implemented in accordance with the approved details prior to operation of the authorised development.
 
-#### 13. Contamination and groundwater[^key-ab813533c891d8acc5191cd458be3b51]
+#### 13. Contamination and groundwater[^c-ab813533c891d8acc5191cd458be3b51]
 
 (1) No part of the authorised development shall be carried out until details of a comprehensive contaminated land investigation has been submitted to and approved by the relevant planning authority and until the scope of works approved therein have been implemented.
 
@@ -298,7 +298,7 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (6) If during development, contamination not previously considered is identified then the relevant planning authority shall be notified immediately and no further work shall be carried out until a method statement detailing a scheme for dealing with the suspect contamination has been submitted to and agreed with the relevant planning authority.
 
-#### 14. Archaeology[^key-2b3c1838c514c1859519ae5192692750]
+#### 14. Archaeology[^c-2b3c1838c514c1859519ae5192692750]
 
 (1) No part of the authorised development shall be carried out until a detailed and appropriate mitigation strategy, to ensure that all archaeological assets encountered before and during construction in the south western area of the operations area are adequately recorded, has been submitted to and approved by the relevant planning authority; the strategy shall include provision—
 
@@ -309,13 +309,13 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (3) Any analysis, reporting, publication or archiving required as part of the mitigation strategy in the written scheme for archaeological investigation shall be deposited with the North Lincolnshire Historic Environment Record, within a reasonable period to be agreed with the relevant planning authority.
 
-#### 15. CEMP[^key-e8a4cd275642b5d6cd505b931dbcca10]
+#### 15. CEMP[^c-e8a4cd275642b5d6cd505b931dbcca10]
 
 (1) No part of the authorised development shall be carried out until a CEMP, substantially in accordance with the outline Construction Environmental Management Plan certified by the Secretary of State for the purposes of this Order, has been submitted to and approved by the relevant planning authority.
 
 (2) All construction work shall be carried out in accordance with the approved CEMP unless otherwise approved by the relevant planning authority.
 
-#### 16. Storage of liquids on site[^key-4670f673848444f0cedbd33b7b72b2f1]
+#### 16. Storage of liquids on site[^c-4670f673848444f0cedbd33b7b72b2f1]
 
 (1) No part of the authorised development shall be brought into use until a written scheme to deal with handling and onsite storage of process chemicals, cleaning substances, fuels, and oils and lubricants on site has been submitted to and approved by the relevant planning authority.
 
@@ -328,17 +328,17 @@ The site access road comprised in Work No. 4 must be completed prior to commence
 
 (3) Liquids shall be stored in accordance with the approved scheme.
 
-#### 17. Control of noise during construction[^key-6c8c8e06c5c62559824687cd1c53ab93]
+#### 17. Control of noise during construction[^c-6c8c8e06c5c62559824687cd1c53ab93]
 
 During construction of the authorised development, the noise level as a result of the construction at any residential location shall not exceed 51dB LAeq, 1 hour unless otherwise approved by the relevant planning authority.
 
-**18.**[^key-ea8618e5b7bbe622acf339da8ba1491a] No part of the authorised development shall be carried out until a written scheme providing for the monitoring of noise generated during the construction of the authorised development has been submitted to and approved by the relevant planning authority; the scheme shall specify—
+**18.**[^c-ea8618e5b7bbe622acf339da8ba1491a] No part of the authorised development shall be carried out until a written scheme providing for the monitoring of noise generated during the construction of the authorised development has been submitted to and approved by the relevant planning authority; the scheme shall specify—
 
 - (a) the locations at which noise will be monitored;
 - (b) the method of noise measurement (which shall accord with BS 5228 or, an equivalent successor standard or other agreed noise measurement methodology appropriate to the circumstances); and
 - (c) the frequency of submission of data to the relevant planning authority.
 
-**19.**[^key-5fe0addc8bfb016c890a9613c2021441] (1) Prior to commencement of construction Work No. 1 or Work No. 2a or Work No. 2b an acoustic design report must be submitted in relation to the construction of the relevant work and approved by the relevant planning authority.
+**19.**[^c-5fe0addc8bfb016c890a9613c2021441] (1) Prior to commencement of construction Work No. 1 or Work No. 2a or Work No. 2b an acoustic design report must be submitted in relation to the construction of the relevant work and approved by the relevant planning authority.
 
 (2) The report must detail—
 
@@ -350,7 +350,7 @@ During construction of the authorised development, the noise level as a result o
 
 (3) The measures must be installed in accordance with the approved scheme prior to commencement of operation of the relevant Work and retained and maintained afterwards in accordance with the manufacturers’ specifications unless otherwise approved by the relevant planning authority.
 
-#### 20. Control of noise during operation[^key-d5520ef5b824acfcc488c0875652737a]
+#### 20. Control of noise during operation[^c-d5520ef5b824acfcc488c0875652737a]
 
 (1) Operating of the authorised development shall not be commenced until a scheme has been submitted to the relevant planning authority and approved with the objective that the rating level, as defined in BS4142:1997, of noise emitted from the authorised development following commissioning shall not exceed the noise levels listed in the following table except in the case of an emergency, or unless otherwise approved by the relevant planning authority.
 
@@ -362,7 +362,7 @@ During construction of the authorised development, the noise level as a result o
 
 (3) The monitoring of noise pursuant to this requirement shall be compliant with the requirements of ISO 1996 Part 2 (2007).
 
-**21.**[^key-ede04c8d54aed2d99b20a970ebeb6b32] (1) No part of the authorised development shall be brought into use until a written scheme providing for the monitoring of noise generated during the operation of the authorised development has been submitted to and approved by the relevant planning authority.
+**21.**[^c-ede04c8d54aed2d99b20a970ebeb6b32] (1) No part of the authorised development shall be brought into use until a written scheme providing for the monitoring of noise generated during the operation of the authorised development has been submitted to and approved by the relevant planning authority.
 
 (2) The scheme shall provide for monitoring at the locations shown on Figure 4 of the North Killingholme Power Project: Outline Operational Noise Compliance Methodology (January 2014) and the method of noise measurement (which shall accord with BS 4142, an equivalent successor standard or other agreed noise measurement methodology appropriate to the circumstances). The scheme shall be implemented to establish baseline noise conditions.
 
@@ -373,9 +373,9 @@ During construction of the authorised development, the noise level as a result o
 
 any such review shall be submitted to the relevant planning authority for its approval within 4 weeks of the notification or request.
 
-**22.**[^key-0e4803258a52635be533cdaa3dcb5951] In any case where the noise levels specified in requirement 20 or otherwise agreed by the relevant planning authority are exceeded because of an emergency, notification must be given to the relevant planning authority and local residents of the reasons for and anticipated duration of any such exceedences.
+**22.**[^c-0e4803258a52635be533cdaa3dcb5951] In any case where the noise levels specified in requirement 20 or otherwise agreed by the relevant planning authority are exceeded because of an emergency, notification must be given to the relevant planning authority and local residents of the reasons for and anticipated duration of any such exceedences.
 
-**23.**[^key-4eab7b4d5f5189034d4d49f967305000] (1) Operation of the authorised development shall not be commenced until a scheme has been submitted to the relevant planning authority in consultation with Natural England and approved with the objective that the rating level, as defined in BS4142:1997, of noise from the authorised development following commissioning, recorded at the stated locations, shall not exceed the noise levels listed in the following table except in the case of an emergency, or unless otherwise approved by the relevant planning authority.
+**23.**[^c-4eab7b4d5f5189034d4d49f967305000] (1) Operation of the authorised development shall not be commenced until a scheme has been submitted to the relevant planning authority in consultation with Natural England and approved with the objective that the rating level, as defined in BS4142:1997, of noise from the authorised development following commissioning, recorded at the stated locations, shall not exceed the noise levels listed in the following table except in the case of an emergency, or unless otherwise approved by the relevant planning authority.
 
 | Location | Rating Level dBL<sub>Aeq 1 hour</sub> |
 | --- | --- |
@@ -386,19 +386,19 @@ any such review shall be submitted to the relevant planning authority for its ap
 
 (3) The monitoring of noise pursuant to this requirement shall be compliant with the requirements of ISO 1996 Part 2 (2007).
 
-#### 24. Construction hours[^key-21f72abcd03cfdbdfde12bbd42a3bdaa]
+#### 24. Construction hours[^c-21f72abcd03cfdbdfde12bbd42a3bdaa]
 
 (1) Construction or demolition work shall not take place other than between 0700 and 1900 hours Monday to Saturday, and shall not take place at all on Sundays or public holidays, unless otherwise approved by the relevant planning authority or in case of emergency.
 
 (2) If work is proposed outside of the construction work hours referred to in paragraph (1) then the undertaker will submit risk assessments and method statements to the relevant planning authority and will advise local residents by posting the information on its website.
 
-#### 25. Piling[^key-5c50d5146917b3b1d17d9d0ccd9f331f]
+#### 25. Piling[^c-5c50d5146917b3b1d17d9d0ccd9f331f]
 
 (1) No piling activities for the construction of the authorised development may commence until a piling method statement describing the measures to be taken to protect the North Killingholme Haven Pits Site of Special Scientific Interest and the Humber Estuary Special Protection Area which is consistent with the environmental statement has been submitted to and approved by the relevant planning authority.
 
 (2) Piling shall be carried out in accordance with the approved method statement unless otherwise approved by the relevant planning authority.
 
-#### 26. Construction of Work Nos. 6a and 6b[^key-97a03bdeb9d3e3e4f71c95f137757461]
+#### 26. Construction of Work Nos. 6a and 6b[^c-97a03bdeb9d3e3e4f71c95f137757461]
 
 (1) No construction of Work Nos. 6a and 6b shall be carried out until a strategy to mitigate effects from construction of those works on the North Killingholme Haven Pits has been submitted to and approved by the relevant planning authority, in consultation with Natural England.
 
@@ -412,11 +412,11 @@ any such review shall be submitted to the relevant planning authority for its ap
 
 (3) Construction of Work Nos. 6a and 6b shall be carried out in accordance with the approved strategy.
 
-#### 27. Combined heat and power[^key-59aae863371e8d8c27e11975f5edaf12]
+#### 27. Combined heat and power[^c-59aae863371e8d8c27e11975f5edaf12]
 
 A facility shall be provided and maintained within Work No. 1 to enable steam pass-outs and/or hot water pass-outs and reserve space for the provision of water pressurisation, heating and pumping systems for off-site users of process or space heating and its later connection to such systems.
 
-**28.**[^key-cd3c107b314d9d37a515453cebe3b1a1] (1) Prior to the operation of Work No. 1, a review of potential opportunities for the use of heat from the authorised development must be submitted to and approved by the relevant planning authority.
+**28.**[^c-cd3c107b314d9d37a515453cebe3b1a1] (1) Prior to the operation of Work No. 1, a review of potential opportunities for the use of heat from the authorised development must be submitted to and approved by the relevant planning authority.
 
 (2) The review shall provide for the on-going monitoring and full exploration of potential opportunities to use heat from the authorised development as part of a good quality CHP scheme in accordance with the principles set out in the CHPQA Standard Issue 3, and for the provision of subsequent reviews of such opportunities as necessary.
 
@@ -424,7 +424,7 @@ A facility shall be provided and maintained within Work No. 1 to enable steam pa
 
 (4) In this requirement, ‘CHPQA Standard Issue 3’ refers to the document of that name prepared by the Department for Environment, Food and Rural Affairs and published in January 2009, and the reference to a ‘good quality CHP scheme’ should be interpreted in accordance with that document.
 
-#### 29. Control of dust emissions during operation[^key-6818d923504d002f06d96a58b23f1642]
+#### 29. Control of dust emissions during operation[^c-6818d923504d002f06d96a58b23f1642]
 
 (1) No part of Work No. 2a, 2b, 2c, 5, 6a, 6b, or 7 shall be operated until a written scheme for the management and mitigation of dust emissions from solid fuels during operation of the authorised development substantially in accordance with the Outline Coal Dust Management Plan dated January 2014 has been submitted to and approved by the relevant planning authority (such approval not to be unreasonably withheld).
 
@@ -439,7 +439,7 @@ A facility shall be provided and maintained within Work No. 1 to enable steam pa
 
 (3) Operation of the authorised development shall be carried out in accordance with the approved scheme.
 
-#### 30. Construction and security lighting scheme[^key-e4f782c91f71970dd201ecedc4994126]
+#### 30. Construction and security lighting scheme[^c-e4f782c91f71970dd201ecedc4994126]
 
 (1) No part of the authorised development shall be carried out until a detailed written construction and security lighting scheme which is consistent with the environmental statement has been prepared in consultation with an experienced bat worker and has been submitted to and approved by the relevant planning authority.
 
@@ -451,7 +451,7 @@ A facility shall be provided and maintained within Work No. 1 to enable steam pa
 
 (3) Construction of the authorised development must be carried out in accordance with the approved scheme unless otherwise approved by the relevant planning authority.
 
-#### 31. Permanent lighting scheme[^key-1a1c031396eb2f9ea165d3ab6b13de80]
+#### 31. Permanent lighting scheme[^c-1a1c031396eb2f9ea165d3ab6b13de80]
 
 (1) No part of the authorised development shall commence until a detailed written permanent lighting scheme which is consistent with the environmental statement has been prepared in consultation with an experienced bat worker and submitted to and approved by the relevant planning authority.
 
@@ -464,7 +464,7 @@ A facility shall be provided and maintained within Work No. 1 to enable steam pa
 
 (3) The scheme shall be implemented as approved, unless otherwise approved by the relevant planning authority.
 
-#### 32. Bat mitigation strategy[^key-55fbc7da9f04c225cf60062e1eb2123d]
+#### 32. Bat mitigation strategy[^c-55fbc7da9f04c225cf60062e1eb2123d]
 
 (1) No part of the authorised development shall be carried out and, in particular, no demolition shall take place, until a written strategy for the mitigation of the impacts of the authorised development on bats, as outlined in the environmental statement, has been submitted to and approved by the relevant planning authority.
 
@@ -483,7 +483,7 @@ A facility shall be provided and maintained within Work No. 1 to enable steam pa
 
 (4) No demolition work shall take place until a written strategy for surveys to adequately inform a decision as to whether a European Protected Species Licence is required, has been submitted to and approved by Natural England.
 
-#### 33. Water vole mitigation strategy[^key-13bbacf8954b98c482cb4ee198c4adf3]
+#### 33. Water vole mitigation strategy[^c-13bbacf8954b98c482cb4ee198c4adf3]
 
 (1) No part of the authorised development shall be carried out until a written strategy for the mitigation of the impacts of the authorised development on water voles, as outlined in the environmental statement, has been submitted to and approved by the relevant planning authority.
 
@@ -503,24 +503,24 @@ the construction of the authorised development shall not commence until the wate
 
 (4) The approved water vole mitigation strategy and any measures thereunder shall be implemented and maintained during construction and operation of the development unless otherwise approved by the relevant planning authority.
 
-#### 34. Other ecological matters[^key-8937b3dec64a02c8e1a77c8bcfff3e2c]
+#### 34. Other ecological matters[^c-8937b3dec64a02c8e1a77c8bcfff3e2c]
 
 (1) No works shall be carried out to remove or modify the northern water body shown in the figures forming part of the environmental statement until details of measures to enhance the ecological value of the southern water body shown in those figures have been submitted to and approved by the relevant planning authority and have been carried out in accordance with that approval.
 
 (2) The measures shall include enhancement of riparian vegetation using appropriate native species, scrub clearance around the margins of the pond to reduce shading and encroachment, and the planting of areas of grassy bank and reeds to enhance habitat and species diversity.
 
-**35.**[^key-443cc73507534df18646e9e6ddf5c460] (1) No part of the authorised development comprised in Works 2a or 5 shall be carried out until a strategy for the establishment of appropriate ecological mitigation in parcels 05/02 and 07/01 as shown on the land plans and described in the book of reference and measures for the relocation of species has been submitted to and approved by the relevant planning authority.
+**35.**[^c-443cc73507534df18646e9e6ddf5c460] (1) No part of the authorised development comprised in Works 2a or 5 shall be carried out until a strategy for the establishment of appropriate ecological mitigation in parcels 05/02 and 07/01 as shown on the land plans and described in the book of reference and measures for the relocation of species has been submitted to and approved by the relevant planning authority.
 
 (2) The approved measures shall be implemented prior to construction of any part of the authorised development.
 
-#### 36. CCS[^key-395a5f9d8187c253b743e7d49e853047]
+#### 36. CCS[^c-395a5f9d8187c253b743e7d49e853047]
 
 Until the permanent cessation of commercial operation of the authorised development, the undertaker shall not, without the written consent of the Secretary of State—
 
-- (a) dispose of any interest in the designated site[^key-85aa18e78bcd703282608e27abc29eba] except by way of a lease having a term of less than 2 years or which is otherwise determinable within 2 years by the undertaker for the purpose of installing the capture equipment; or
+- (a) dispose of any interest in the designated site[^c-85aa18e78bcd703282608e27abc29eba] except by way of a lease having a term of less than 2 years or which is otherwise determinable within 2 years by the undertaker for the purpose of installing the capture equipment; or
 - (b) do any other thing, or allow any other thing to be done or to occur, which may reasonably be expected to diminish the ability, within the 2 years following such act or occurrence or thereafter, to install and operate the capture equipment on the designated site.
 
-**37.**[^key-54d1c57fa972b2a7dc3e2cfa447e1989][^key-968fb414afab93a3d6362f4fd7962dd0] (1) The undertaker must make a report (“carbon capture readiness monitoring report”) to the Secretary of State—
+**37.**[^c-54d1c57fa972b2a7dc3e2cfa447e1989][^c-968fb414afab93a3d6362f4fd7962dd0] (1) The undertaker must make a report (“carbon capture readiness monitoring report”) to the Secretary of State—
 
 - (a) on or before the date which is three months after the date upon which electricity is first exported by the authorised development; and
 - (b) within one month of the second anniversary, and each subsequent even-numbered anniversary, of that date.
@@ -536,17 +536,17 @@ and explain how the undertaker expects to continue to comply with requirement 36
 
 (4) Each carbon capture readiness monitoring report must state, with reasons, whether the undertaker has decided to seek any additional regulatory clearances, or to modify any existing regulatory clearances, in respect of any carbon capture readiness proposals.
 
-**38.**[^key-1c405858def80650d2c3db12436cf43d] (1) The generating station comprised in Work No. 1 shall not operate using gas supplied by Work No. 2a unless—
+**38.**[^c-1c405858def80650d2c3db12436cf43d] (1) The generating station comprised in Work No. 1 shall not operate using gas supplied by Work No. 2a unless—
 
 - (a) the fuel used to supply the gas comprises biomass only; or
 - (b) the Secretary of State has given in consent in writing to the plant being so operated and—
-  - (i) capture equipment is installed for the pre-combustion CCS proposal[^key-f68d5311e01323d7fa68d23a3e8f0c82];
+  - (i) capture equipment is installed for the pre-combustion CCS proposal[^c-f68d5311e01323d7fa68d23a3e8f0c82];
   - (ii) the Secretary of State has either—
     - (aa) provided pursuant to any enactment that some or all of the emissions from the authorised development are not to be treated as emissions from fossil fuel; or
     - (bb) otherwise issued a direction pursuant to any enactment that the emissions duty of the undertaker is modified or suspended; or
   - (iii) an exemption period under section 58 of the Energy Act 2013[^f00016] is applicable to the CCS claim (or any part of it) serving the authorised development.
 
-(2) Where the capture equipment referred to in this requirement comprises alternative technology to that comprised in Work No. 2a (such as the post-combustion CCS proposal[^key-0ddd0f2bda7f388578a204dffd26a681]) the generating station comprised in Work No. 1 shall not operate except where it is fuelled wholly or principally by natural gas.
+(2) Where the capture equipment referred to in this requirement comprises alternative technology to that comprised in Work No. 2a (such as the post-combustion CCS proposal[^c-0ddd0f2bda7f388578a204dffd26a681]) the generating station comprised in Work No. 1 shall not operate except where it is fuelled wholly or principally by natural gas.
 
 (3) Work No. 2a shall not be operated as allowed by paragraph (1)(b)(i) unless—
 
@@ -556,7 +556,7 @@ and explain how the undertaker expects to continue to comply with requirement 36
 
 provided that where and for so long as an environmental permit authorises operation without compliance with sub-paragraph (a) or (b), those sub-paragraphs shall not apply.
 
-#### 39. Fire water[^key-f99ba46506451df7fedee4c9a4cf728f]
+#### 39. Fire water[^c-f99ba46506451df7fedee4c9a4cf728f]
 
 (1) No part of the authorised development shall be operated until scheme for the storage and handling of fire water has been submitted to and approved by the relevant planning authority.
 
@@ -567,19 +567,19 @@ provided that where and for so long as an environmental permit authorises operat
 
 (3) The approved scheme shall be implemented prior to operation of Work No. 1.
 
-#### 40. Drainage pond[^key-05bf5253ef6fb28e333bca041c5e238b]
+#### 40. Drainage pond[^c-05bf5253ef6fb28e333bca041c5e238b]
 
 (1) No works shall be carried out to remove or modify the northernmost pond in the operations area until details of the works to be carried out and a method statement for the carrying out of such works, to be prepared in consultation with C.RO Ports Killingholme Limited, the Environment Agency and North East Lindsey Drainage Board, have been submitted to and approved by the relevant planning authority.
 
 (2) The method statement shall detail protective works which will be carried out to ensure that no contaminants are mobilised by the works. The method statement shall also detail how the works will be carried out to ensure that there will be no detrimental effect on the performance of existing flood attenuation and thereafter once any modified pond is operational. The works shall be carried out in accordance with the approved details.
 
-#### 41. Site waste management plan[^key-0501a800be71f38cdbc6ccd4b7bbc40e]
+#### 41. Site waste management plan[^c-0501a800be71f38cdbc6ccd4b7bbc40e]
 
 (1) No part of the authorised development shall be constructed until a plan for the management and disposal of waste produced as a result of the construction of the authorised development has been submitted to and approved by the relevant planning authority. The construction of the authorised development shall be carried out in accordance with the approved details.
 
 (2) No part of the authorised development shall be operated until a plan for the management and disposal of waste produced as a result of the operation of the authorised development has been submitted to and approved by the relevant planning authority. The authorised development shall be operated in accordance with the approved details.
 
-#### 42. Biomass fuel sustainability[^key-65076b9a13170b2470ba7a69eb58caf2]
+#### 42. Biomass fuel sustainability[^c-65076b9a13170b2470ba7a69eb58caf2]
 
 (1) Biomass fuel shall not be used in the gasifier comprised in the authorised development unless it complies with the applicable mandatory sustainability criteria.
 
@@ -596,7 +596,7 @@ provided that where and for so long as an environmental permit authorises operat
 - “mandatory sustainability criteria” means criteria relating to the sustainability of biomass for energy use (other than biofuels and bioliquids) which are prescribed in a relevant assistance regime; and
 - “relevant assistance regime” means the provisions of any legislation or other legally binding arrangements established or approved by Government under or by virtue of which the generation of electricity from biomass fuel on a commercial basis qualifies for financial assistance by reason of the burning of biomass fuel which comply with prescribed sustainability criteria.
 
-#### 43. Decommissioning[^key-223a198d0b758870828af59bdd9d0ef5]
+#### 43. Decommissioning[^c-223a198d0b758870828af59bdd9d0ef5]
 
 (1) Within 12 months of the authorised development ceasing to be used for the purposes of generating electricity a site closure and restoration plan for the demolition and removal of the authorised development shall be submitted for approval by the relevant planning authority (such approval not to be unreasonably withheld).
 
@@ -614,25 +614,25 @@ provided that where and for so long as an environmental permit authorises operat
 
 (3) The demolition and removal of the authorised development must be carried out fully in accordance with the approved scheme.
 
-#### 44. Requirements for written approval, etc.[^key-e1bab1f70de0b99873cd12ecdcc9ede0]
+#### 44. Requirements for written approval, etc.[^c-e1bab1f70de0b99873cd12ecdcc9ede0]
 
 (1) Where under any of the above requirements the approval or agreement of the relevant planning authority or any other party is required, that approval or agreement must be provided in writing. Thereafter the matter approved shall be carried out in accordance with the approved or agreed details as they subsist from time to time.
 
 (2) Where under any of the above requirements a written scheme is required it shall be accompanied by such illustrations as are necessary and appropriate in the circumstances.
 
-#### 45. Amendments to approved details[^key-f9a9c885e7e178a3570e1205a31de7eb]
+#### 45. Amendments to approved details[^c-f9a9c885e7e178a3570e1205a31de7eb]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved by the relevant planning authority the approved details shall be taken to include any amendments that may subsequently be approved in writing by the relevant planning authority.
 
-#### 46. Flood warning and evacuation plan[^key-0e702edf115db36d949b06753d092498]
+#### 46. Flood warning and evacuation plan[^c-0e702edf115db36d949b06753d092498]
 
 No part of the authorised development shall come into operation until details of a flood warning and evacuation plan has been submitted to and approved by the relevant planning authority. The authorised development shall only be occupied and operated in accordance with the approved flood warning and evacuation plan.
 
-#### 47. Aerodrome safeguarding[^key-2ab005db12f2e45737e0113a4667b7f4]
+#### 47. Aerodrome safeguarding[^c-2ab005db12f2e45737e0113a4667b7f4]
 
 No part of the authorised development shall commence until an Aerodrome Safeguarding Report (to include information required by the Defence Geographic Centre to chart the site for civil aviation purposes) has been submitted to and approved by the relevant planning authority and any mitigation measures for the protection of aviation interests identified in that report shall thereafter be implemented.
 
-#### 48. Train speed at North Killingholme Haven Pits[^key-cab59b894d5b42e9a78712dcaad9ce8c]
+#### 48. Train speed at North Killingholme Haven Pits[^c-cab59b894d5b42e9a78712dcaad9ce8c]
 
 (1) No solid fuel for the purposes of the authorised development shall be received by rail until a scheme comprising or governing the manner of operation of trains serving the authorised development which limits the speed of those trains upon that part of the Killingholme Branch Line adjacent to North Killingholme Haven Pits, as shown on drawing 64042B-DCO-48, to 10 km/h, or other noise attenuation measures, with at least the same sound attenuation, to address the effects of those trains upon the North Killingholme Haven Pits, has been submitted to and approved by the relevant planning authority in consultation with Natural England. The scheme approved under this requirement shall incorporate provisions for noise monitoring.
 
@@ -642,7 +642,7 @@ No part of the authorised development shall commence until an Aerodrome Safeguar
 
 (4) The scheme approved under this requirement shall not fetter the powers of Network Rail with respect to operation of the railway in any way, nor impose any obligation upon Network Rail to impose or procure speed limits upon its railway network or request any other network and/or physical change.
 
-#### 49. Acoustic hoarding[^key-724bad8d63f3752b7b489136c2af8c6d]
+#### 49. Acoustic hoarding[^c-724bad8d63f3752b7b489136c2af8c6d]
 
 (1) No part of the authorised development shall be carried out until details of an acoustic hoarding on the northern and western boundaries of the operations area have been submitted to the relevant planning authority and approved.
 
@@ -653,7 +653,7 @@ No part of the authorised development shall commence until an Aerodrome Safeguar
 
 (3) The acoustic hoarding shall be erected and maintained during any works of construction for the authorised development.
 
-#### 50. Visual attenuation of train movements[^key-467642044a2904d3e9c9d4ab61626921]
+#### 50. Visual attenuation of train movements[^c-467642044a2904d3e9c9d4ab61626921]
 
 (1) Unless otherwise approved by the relevant planning authority in consultation with Natural England, no trains shall serve the authorised development until a scheme of planting, to be carried out adjacent to and both north and south of the Killingholme Branch Railway Line as it passes North Killingholme Haven Pits as shown on drawing 64042B-DCO-48, has been submitted to and approved by the relevant planning authority in consultation with Natural England and Network Rail.
 
@@ -670,7 +670,7 @@ No part of the authorised development shall commence until an Aerodrome Safeguar
 
 (4) This requirement shall not apply where the Killingholme Loop, or a scheme having similar effect, has been constructed to provide a connection between the existing Killingholme Branch Line and the Barton-upon-Humber to Habrough railway line.
 
-#### 51. Control of construction noise at North Killingholme Haven Pits[^key-bad1c9214a7cbad15cdf62ba5366248a]
+#### 51. Control of construction noise at North Killingholme Haven Pits[^c-bad1c9214a7cbad15cdf62ba5366248a]
 
 (1) Construction of Work Nos. 6a and 6b adjacent to the North Killingholme Haven Pits, as shown on drawing 64042B-DCO-48, shall not take place except in accordance with a scheme that has been submitted to and approved by the relevant planning authority in consultation with Natural England in advance of such works.
 
@@ -686,166 +686,166 @@ No part of the authorised development shall commence until an Aerodrome Safeguar
 
 (5) The mean LAmax will be calculated as the logarithmic average of LAmax values recorded at NSR A using a Class A integrating sound level meter, with a 15-minute sampling period, operating continuously throughout the entire construction day. In processing the recorded data to calculate the mean LAmax, the dataset over the course of the construction day could show “sampling periods of no construction activity”. These “sampling periods of no construction activity” will not be included in the mean LA max calculation.
 
-#### 52. Changes approved by the relevant planning authority[^key-130c6e10f659c5e09ed8f9b5a4afb319]
+#### 52. Changes approved by the relevant planning authority[^c-130c6e10f659c5e09ed8f9b5a4afb319]
 
 Where the words ‘unless otherwise approved by the relevant planning authority’ appear in these requirements, any such approval may only be given in relation to immaterial changes where it has been demonstrated to the satisfaction of that authority that the subject matter of the approval or agreement sought is unlikely to give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
-#### 53. Work No. 1[^key-78861bd3710edd4c30fcec6ada473374]
+#### 53. Work No. 1[^c-78861bd3710edd4c30fcec6ada473374]
 
 Work Nos. 1(a), 1(b), 1(c), 1(d), 1(e) and 1(p) must not be carried out within the overlap areas.
 
 ## Annotations
 
-[^key-c2f379b0452e543ead0e98d4265027ca]: Commencement: Sch. 1 Pt. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-c2f379b0452e543ead0e98d4265027ca]: Commencement: Sch. 1 Pt. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-4923eb2ab03f0ec919c176637a369156]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (27.10.2015) by [The North Killingholme (Generating Station) (Correction) Order 2015 (S.I. 2015/1829)](https://www.legislation.gov.uk/uksi/2015/1829), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1829/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1829/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1829/schedule)
+[^c-4923eb2ab03f0ec919c176637a369156]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (27.10.2015) by [The North Killingholme (Generating Station) (Correction) Order 2015 (S.I. 2015/1829)](https://www.legislation.gov.uk/uksi/2015/1829), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1829/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1829/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1829/schedule)
 
-[^key-5991b407256357a0846aabc5a6e3c852]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/445/article/5/2)
+[^c-5991b407256357a0846aabc5a6e3c852]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/445/article/5/2)
 
-[^key-1e81a5c93cd9e9814d0e459a5b555df4]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (27.10.2015) by virtue of [The North Killingholme (Generating Station) (Correction) Order 2015 (S.I. 2015/1829)](https://www.legislation.gov.uk/uksi/2015/1829), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1829/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1829/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1829/schedule)
+[^c-1e81a5c93cd9e9814d0e459a5b555df4]: Textual amendment: Words in Sch. 1 Pt. 1 omitted (27.10.2015) by virtue of [The North Killingholme (Generating Station) (Correction) Order 2015 (S.I. 2015/1829)](https://www.legislation.gov.uk/uksi/2015/1829), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1829/article/1), [2](https://www.legislation.gov.uk/uksi/2015/1829/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/1829/schedule)
 
-[^key-c716c46308f72897c2194a7e29e71ac3]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (3.4.2026) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2026/445/article/5/3/a)
+[^c-c716c46308f72897c2194a7e29e71ac3]: Textual amendment: Word in Sch. 1 Pt. 1 omitted (3.4.2026) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2026/445/article/5/3/a)
 
-[^key-2aec184f2f0b28ee8853afb009e68a40]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2026/445/article/5/3/b)
+[^c-2aec184f2f0b28ee8853afb009e68a40]: Textual amendment: Word in Sch. 1 Pt. 1 substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2026/445/article/5/3/b)
 
-[^key-7cfdde878d450fdd0ceb908971c4cefb]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2026/445/article/5/3/c)
+[^c-7cfdde878d450fdd0ceb908971c4cefb]: Textual amendment: Words in Sch. 1 Pt. 1 inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/2026/445/article/5/3/c)
 
-[^key-6c0f37b08ffc21b2434de8290427eb5a]: Commencement: Sch. 1 Pt. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-6c0f37b08ffc21b2434de8290427eb5a]: Commencement: Sch. 1 Pt. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-46b83ead59800c902e2ece38e64cf702]: Textual amendment: Sch. 1 Pt. 2 table substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [6](https://www.legislation.gov.uk/uksi/2026/445/article/6)
+[^c-46b83ead59800c902e2ece38e64cf702]: Textual amendment: Sch. 1 Pt. 2 table substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [6](https://www.legislation.gov.uk/uksi/2026/445/article/6)
 
-[^key-e7fc1083fe76c1c87b0522309132c633]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-e7fc1083fe76c1c87b0522309132c633]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-7bd3ce16c22f0d1b63abd9b04b718caf]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/a)
+[^c-7bd3ce16c22f0d1b63abd9b04b718caf]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/a)
 
-[^key-be3567da0451aa18b521ae9868e7a247]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/b)
+[^c-be3567da0451aa18b521ae9868e7a247]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/b)
 
-[^key-a9dca35b4357d26656cc36380aca1e62]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/445/article/7/2/a)
+[^c-a9dca35b4357d26656cc36380aca1e62]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/445/article/7/2/a)
 
-[^key-32f4ff2bdb82faff03995b429891d242]: Textual amendment: Word in Sch. 1 Pt. 3 para. 1 omitted (17.9.2021) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/c)
+[^c-32f4ff2bdb82faff03995b429891d242]: Textual amendment: Word in Sch. 1 Pt. 3 para. 1 omitted (17.9.2021) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/c)
 
-[^key-33936fdebe183f95939bf4f82dee9fd9]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/445/article/7/2/b)
+[^c-33936fdebe183f95939bf4f82dee9fd9]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/445/article/7/2/b)
 
-[^key-e1a7583fed4c112f71c07bf9960d3f89]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (3.4.2026) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2026/445/article/7/2/c)
+[^c-e1a7583fed4c112f71c07bf9960d3f89]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (3.4.2026) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2026/445/article/7/2/c)
 
-[^key-f989b69e1b7ee8ecd450b3095166abe2]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 inserted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/d)
+[^c-f989b69e1b7ee8ecd450b3095166abe2]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 inserted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/d)
 
-[^key-4af3a019957b6b0a520c2df1cbf78737]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(e)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/e)
+[^c-4af3a019957b6b0a520c2df1cbf78737]: Textual amendment: Words in Sch. 1 Pt. 3 para. 1 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(2)(e)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/2/e)
 
-[^key-93918eedecf7bf6a6b23ae118ad81d99]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-93918eedecf7bf6a6b23ae118ad81d99]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-14d7460c51d7ddaa8fbabf14266b9310]: Textual amendment: Word in Sch. 1 Pt. 3 para. 2 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/3)
+[^c-14d7460c51d7ddaa8fbabf14266b9310]: Textual amendment: Word in Sch. 1 Pt. 3 para. 2 substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/3)
 
-[^key-f58effd3c84a623a1a13df2381789b76]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f58effd3c84a623a1a13df2381789b76]: Commencement: Sch. 1 Pt. 3 para. 3 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-f0d7e5ab3da4a3f3df275ee29bbf8f9f]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f0d7e5ab3da4a3f3df275ee29bbf8f9f]: Commencement: Sch. 1 Pt. 3 para. 4 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-2cf3373ccbd169b4fe3bf4a26ca2677d]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-2cf3373ccbd169b4fe3bf4a26ca2677d]: Commencement: Sch. 1 Pt. 3 para. 5 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-210fe84ceb4e8742231853e275644a55]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-210fe84ceb4e8742231853e275644a55]: Commencement: Sch. 1 Pt. 3 para. 6 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-eb385bc758cca798dbaab8429a777ffb]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-eb385bc758cca798dbaab8429a777ffb]: Commencement: Sch. 1 Pt. 3 para. 7 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-d37a8cb355f023c010bd93668bf86503]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-d37a8cb355f023c010bd93668bf86503]: Commencement: Sch. 1 Pt. 3 para. 8 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-48615a3c36ba15658ade372da5f53da4]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-48615a3c36ba15658ade372da5f53da4]: Commencement: Sch. 1 Pt. 3 para. 9 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-b3abab9a741c5ebab7b51202845fb370]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-b3abab9a741c5ebab7b51202845fb370]: Commencement: Sch. 1 Pt. 3 para. 10 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-8151dadabd64010a91770cc440a87536]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-8151dadabd64010a91770cc440a87536]: Commencement: Sch. 1 Pt. 3 para. 11 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-bd5056c2421e24f780637bd188471c32]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-bd5056c2421e24f780637bd188471c32]: Commencement: Sch. 1 Pt. 3 para. 12 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-ab813533c891d8acc5191cd458be3b51]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-ab813533c891d8acc5191cd458be3b51]: Commencement: Sch. 1 Pt. 3 para. 13 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-2b3c1838c514c1859519ae5192692750]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-2b3c1838c514c1859519ae5192692750]: Commencement: Sch. 1 Pt. 3 para. 14 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-e8a4cd275642b5d6cd505b931dbcca10]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-e8a4cd275642b5d6cd505b931dbcca10]: Commencement: Sch. 1 Pt. 3 para. 15 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-4670f673848444f0cedbd33b7b72b2f1]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-4670f673848444f0cedbd33b7b72b2f1]: Commencement: Sch. 1 Pt. 3 para. 16 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-6c8c8e06c5c62559824687cd1c53ab93]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-6c8c8e06c5c62559824687cd1c53ab93]: Commencement: Sch. 1 Pt. 3 para. 17 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-ea8618e5b7bbe622acf339da8ba1491a]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-ea8618e5b7bbe622acf339da8ba1491a]: Commencement: Sch. 1 Pt. 3 para. 18 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-5fe0addc8bfb016c890a9613c2021441]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-5fe0addc8bfb016c890a9613c2021441]: Commencement: Sch. 1 Pt. 3 para. 19 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-d5520ef5b824acfcc488c0875652737a]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-d5520ef5b824acfcc488c0875652737a]: Commencement: Sch. 1 Pt. 3 para. 20 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-ede04c8d54aed2d99b20a970ebeb6b32]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-ede04c8d54aed2d99b20a970ebeb6b32]: Commencement: Sch. 1 Pt. 3 para. 21 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-0e4803258a52635be533cdaa3dcb5951]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-0e4803258a52635be533cdaa3dcb5951]: Commencement: Sch. 1 Pt. 3 para. 22 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-4eab7b4d5f5189034d4d49f967305000]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-4eab7b4d5f5189034d4d49f967305000]: Commencement: Sch. 1 Pt. 3 para. 23 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-21f72abcd03cfdbdfde12bbd42a3bdaa]: Commencement: Sch. 1 Pt. 3 para. 24 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-21f72abcd03cfdbdfde12bbd42a3bdaa]: Commencement: Sch. 1 Pt. 3 para. 24 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-5c50d5146917b3b1d17d9d0ccd9f331f]: Commencement: Sch. 1 Pt. 3 para. 25 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-5c50d5146917b3b1d17d9d0ccd9f331f]: Commencement: Sch. 1 Pt. 3 para. 25 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-97a03bdeb9d3e3e4f71c95f137757461]: Commencement: Sch. 1 Pt. 3 para. 26 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-97a03bdeb9d3e3e4f71c95f137757461]: Commencement: Sch. 1 Pt. 3 para. 26 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-59aae863371e8d8c27e11975f5edaf12]: Commencement: Sch. 1 Pt. 3 para. 27 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-59aae863371e8d8c27e11975f5edaf12]: Commencement: Sch. 1 Pt. 3 para. 27 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-cd3c107b314d9d37a515453cebe3b1a1]: Commencement: Sch. 1 Pt. 3 para. 28 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-cd3c107b314d9d37a515453cebe3b1a1]: Commencement: Sch. 1 Pt. 3 para. 28 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-6818d923504d002f06d96a58b23f1642]: Commencement: Sch. 1 Pt. 3 para. 29 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-6818d923504d002f06d96a58b23f1642]: Commencement: Sch. 1 Pt. 3 para. 29 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-e4f782c91f71970dd201ecedc4994126]: Commencement: Sch. 1 Pt. 3 para. 30 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-e4f782c91f71970dd201ecedc4994126]: Commencement: Sch. 1 Pt. 3 para. 30 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-1a1c031396eb2f9ea165d3ab6b13de80]: Commencement: Sch. 1 Pt. 3 para. 31 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-1a1c031396eb2f9ea165d3ab6b13de80]: Commencement: Sch. 1 Pt. 3 para. 31 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-55fbc7da9f04c225cf60062e1eb2123d]: Commencement: Sch. 1 Pt. 3 para. 32 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-55fbc7da9f04c225cf60062e1eb2123d]: Commencement: Sch. 1 Pt. 3 para. 32 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-13bbacf8954b98c482cb4ee198c4adf3]: Commencement: Sch. 1 Pt. 3 para. 33 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-13bbacf8954b98c482cb4ee198c4adf3]: Commencement: Sch. 1 Pt. 3 para. 33 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-8937b3dec64a02c8e1a77c8bcfff3e2c]: Commencement: Sch. 1 Pt. 3 para. 34 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-8937b3dec64a02c8e1a77c8bcfff3e2c]: Commencement: Sch. 1 Pt. 3 para. 34 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-443cc73507534df18646e9e6ddf5c460]: Commencement: Sch. 1 Pt. 3 para. 35 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-443cc73507534df18646e9e6ddf5c460]: Commencement: Sch. 1 Pt. 3 para. 35 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-395a5f9d8187c253b743e7d49e853047]: Commencement: Sch. 1 Pt. 3 para. 36 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-395a5f9d8187c253b743e7d49e853047]: Commencement: Sch. 1 Pt. 3 para. 36 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-85aa18e78bcd703282608e27abc29eba]: Textual amendment: Words in Sch. 1 Pt. 3 para. 36(a) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/4)
+[^c-85aa18e78bcd703282608e27abc29eba]: Textual amendment: Words in Sch. 1 Pt. 3 para. 36(a) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/4)
 
-[^key-54d1c57fa972b2a7dc3e2cfa447e1989]: Commencement: Sch. 1 Pt. 3 para. 37 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-54d1c57fa972b2a7dc3e2cfa447e1989]: Commencement: Sch. 1 Pt. 3 para. 37 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-968fb414afab93a3d6362f4fd7962dd0]: Textual amendment: Sch. 1 Pt. 3 para. 37(1)-(4) substituted for Sch. 1 Pt. 3 para. 37(1)-(7) (17.9.2021) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/5)
+[^c-968fb414afab93a3d6362f4fd7962dd0]: Textual amendment: Sch. 1 Pt. 3 para. 37(1)-(4) substituted for Sch. 1 Pt. 3 para. 37(1)-(7) (17.9.2021) by virtue of [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/5)
 
-[^key-1c405858def80650d2c3db12436cf43d]: Commencement: Sch. 1 Pt. 3 para. 38 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-1c405858def80650d2c3db12436cf43d]: Commencement: Sch. 1 Pt. 3 para. 38 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-f68d5311e01323d7fa68d23a3e8f0c82]: Textual amendment: Words in Sch. 1 Pt. 3 para. 38(1)(b)(i) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/6)
+[^c-f68d5311e01323d7fa68d23a3e8f0c82]: Textual amendment: Words in Sch. 1 Pt. 3 para. 38(1)(b)(i) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(6)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/6)
 
 [^f00016]: Footnote: [2013 c.32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-0ddd0f2bda7f388578a204dffd26a681]: Textual amendment: Words in Sch. 1 Pt. 3 para. 38(2) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(7)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/7)
+[^c-0ddd0f2bda7f388578a204dffd26a681]: Textual amendment: Words in Sch. 1 Pt. 3 para. 38(2) substituted (17.9.2021) by [The North Killingholme (Generating Station) (Amendment) Order 2021 (S.I. 2021/1055)](https://www.legislation.gov.uk/uksi/2021/1055), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1055/article/1), [5(7)](https://www.legislation.gov.uk/uksi/2021/1055/article/5/7)
 
-[^key-f99ba46506451df7fedee4c9a4cf728f]: Commencement: Sch. 1 Pt. 3 para. 39 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f99ba46506451df7fedee4c9a4cf728f]: Commencement: Sch. 1 Pt. 3 para. 39 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-05bf5253ef6fb28e333bca041c5e238b]: Commencement: Sch. 1 Pt. 3 para. 40 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-05bf5253ef6fb28e333bca041c5e238b]: Commencement: Sch. 1 Pt. 3 para. 40 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-0501a800be71f38cdbc6ccd4b7bbc40e]: Commencement: Sch. 1 Pt. 3 para. 41 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-0501a800be71f38cdbc6ccd4b7bbc40e]: Commencement: Sch. 1 Pt. 3 para. 41 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-65076b9a13170b2470ba7a69eb58caf2]: Commencement: Sch. 1 Pt. 3 para. 42 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-65076b9a13170b2470ba7a69eb58caf2]: Commencement: Sch. 1 Pt. 3 para. 42 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
 [^f00017]: Footnote: [S.I. 2009/785](https://www.legislation.gov.uk/uksi/2009/785).
 
-[^key-223a198d0b758870828af59bdd9d0ef5]: Commencement: Sch. 1 Pt. 3 para. 43 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-223a198d0b758870828af59bdd9d0ef5]: Commencement: Sch. 1 Pt. 3 para. 43 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-e1bab1f70de0b99873cd12ecdcc9ede0]: Commencement: Sch. 1 Pt. 3 para. 44 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-e1bab1f70de0b99873cd12ecdcc9ede0]: Commencement: Sch. 1 Pt. 3 para. 44 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-f9a9c885e7e178a3570e1205a31de7eb]: Commencement: Sch. 1 Pt. 3 para. 45 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-f9a9c885e7e178a3570e1205a31de7eb]: Commencement: Sch. 1 Pt. 3 para. 45 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-0e702edf115db36d949b06753d092498]: Commencement: Sch. 1 Pt. 3 para. 46 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-0e702edf115db36d949b06753d092498]: Commencement: Sch. 1 Pt. 3 para. 46 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-2ab005db12f2e45737e0113a4667b7f4]: Commencement: Sch. 1 Pt. 3 para. 47 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-2ab005db12f2e45737e0113a4667b7f4]: Commencement: Sch. 1 Pt. 3 para. 47 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-cab59b894d5b42e9a78712dcaad9ce8c]: Commencement: Sch. 1 Pt. 3 para. 48 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-cab59b894d5b42e9a78712dcaad9ce8c]: Commencement: Sch. 1 Pt. 3 para. 48 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-724bad8d63f3752b7b489136c2af8c6d]: Commencement: Sch. 1 Pt. 3 para. 49 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-724bad8d63f3752b7b489136c2af8c6d]: Commencement: Sch. 1 Pt. 3 para. 49 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-467642044a2904d3e9c9d4ab61626921]: Commencement: Sch. 1 Pt. 3 para. 50 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-467642044a2904d3e9c9d4ab61626921]: Commencement: Sch. 1 Pt. 3 para. 50 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-bad1c9214a7cbad15cdf62ba5366248a]: Commencement: Sch. 1 Pt. 3 para. 51 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-bad1c9214a7cbad15cdf62ba5366248a]: Commencement: Sch. 1 Pt. 3 para. 51 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-130c6e10f659c5e09ed8f9b5a4afb319]: Commencement: Sch. 1 Pt. 3 para. 52 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-130c6e10f659c5e09ed8f9b5a4afb319]: Commencement: Sch. 1 Pt. 3 para. 52 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
-[^key-78861bd3710edd4c30fcec6ada473374]: Textual amendment: Sch. 1 Pt. 3 para. 53 inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/445/article/7/3)
+[^c-78861bd3710edd4c30fcec6ada473374]: Textual amendment: Sch. 1 Pt. 3 para. 53 inserted (3.4.2026) by [The North Killingholme (Generating Station) (Amendment) Order 2026 (S.I. 2026/445)](https://www.legislation.gov.uk/uksi/2026/445), [arts. 1](https://www.legislation.gov.uk/uksi/2026/445/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/445/article/7/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107AC. Power to apply Article 107A to other cases[^key-c9c7f6ddd2544dc7cf5b3f4a2ef4f203][^c21418651][^c22340171]
+## 107AC. Power to apply Article 107A to other cases[^c-c9c7f6ddd2544dc7cf5b3f4a2ef4f203][^c21418651][^c22340171]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ The Department may by regulations provide for Article 107A to have effect, with 
 
 ## Annotations
 
-[^key-c9c7f6ddd2544dc7cf5b3f4a2ef4f203]: Textual amendment: Art. 107AC substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(10)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/10)
+[^c-c9c7f6ddd2544dc7cf5b3f4a2ef4f203]: Textual amendment: Art. 107AC substituted (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 1 para. 13(10)](https://www.legislation.gov.uk/uksi/2018/1413/schedule/1/paragraph/13/10)
 
 [^c21418651]: Textual amendment: [2002 NI 2](https://www.legislation.gov.uk/nisi/2002)
 

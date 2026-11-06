@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. Work search requirement[^key-e95fcd64b72026bcb101e69190780b16]
+## 6D. Work search requirement[^c-e95fcd64b72026bcb101e69190780b16]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ and may be indefinite or for a particular period.
 
 ## Annotations
 
-[^key-e95fcd64b72026bcb101e69190780b16]: Textual amendment: Ss. 6-6L substituted for ss. 6-10 (25.2.2013 for specified purposes, 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/49/3), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), art. 6)
+[^c-e95fcd64b72026bcb101e69190780b16]: Textual amendment: Ss. 6-6L substituted for ss. 6-10 (25.2.2013 for specified purposes, 29.4.2013 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/49/3), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/358/article/2/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/358/schedule/1/paragraph/11); [S.I. 2013/983](https://www.legislation.gov.uk/uksi/2013/983), [art. 7(1)(b)](https://www.legislation.gov.uk/uksi/2013/983/article/7/1/b) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2013/983/article/7/2)) (as amended: (1.7.2013) by [S.I. 2013/1511](https://www.legislation.gov.uk/uksi/2013/1511), art. 6)

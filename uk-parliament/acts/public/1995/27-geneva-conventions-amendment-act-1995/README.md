@@ -33,7 +33,7 @@ An Act to make provision for the amendment of the Geneva Conventions Act 1957 to
 
 \[19th July 1995\]
 
-[^c831258]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-578432e5750dbb69ffc72577afd1f613]
+[^c831258]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-578432e5750dbb69ffc72577afd1f613]
 
 ## Contents
 
@@ -55,4 +55,4 @@ SCHEDULE
 
     Act extended (with modifications) to the territories specified in Sch. 1 of the extending S.I. (1.5.2002) by [S.I. 2002/1076](https://www.legislation.gov.uk/uksi/2002/1076), [art. 2](https://www.legislation.gov.uk/uksi/2002/1076/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1076/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1076/schedule/2)
 
-[^key-578432e5750dbb69ffc72577afd1f613]: Modification: Act: amendment to earlier affecting provision SI 1999/1316 Sch. (15.1.2011) by [Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [5](https://www.legislation.gov.uk/uksi/2010/2965/article/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/2965/schedule/3)
+[^c-578432e5750dbb69ffc72577afd1f613]: Modification: Act: amendment to earlier affecting provision SI 1999/1316 Sch. (15.1.2011) by [Geneva Conventions Act (Guernsey) Order 2010 (S.I. 2010/2965)](https://www.legislation.gov.uk/uksi/2010/2965), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2965/article/1), [5](https://www.legislation.gov.uk/uksi/2010/2965/article/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/2965/schedule/3)

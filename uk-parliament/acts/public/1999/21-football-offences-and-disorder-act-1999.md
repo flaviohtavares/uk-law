@@ -45,7 +45,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2)[^c879299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-abe04018cc22922dda836ab04b9b4de2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-abe04018cc22922dda836ab04b9b4de2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4)[^c879299] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -163,7 +163,7 @@ There shall be paid out of money provided by Parliament any increase attributabl
 
 [^c879299]: Textual amendment: S. 2(1)(2)(4)(5) repealed (28.8.2000) by [2000 c. 25](https://www.legislation.gov.uk/ukpga/2000/25), [s. 1](https://www.legislation.gov.uk/ukpga/2000/25/section/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/25/schedule/3); [S.I. 2000/2125](https://www.legislation.gov.uk/uksi/2000/2125), [art. 2](https://www.legislation.gov.uk/uksi/2000/2125/article/2)
 
-[^key-abe04018cc22922dda836ab04b9b4de2]: Textual amendment: S. 2(3) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(ix)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/ix)
+[^c-abe04018cc22922dda836ab04b9b4de2]: Textual amendment: S. 2(3) repealed (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(n)(ix)](https://www.legislation.gov.uk/uksi/2007/858/article/2/n/ix)
 
 [^c879304]: Textual amendment: [S. 3(1)-(11)](https://www.legislation.gov.uk/ukpga/1999/21/section/3/1) repealed (28.8.2000) by [2000 c. 25](https://www.legislation.gov.uk/ukpga/2000/25), [s. 1](https://www.legislation.gov.uk/ukpga/2000/25/section/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/25/schedule/3); [S.I. 2000/2125](https://www.legislation.gov.uk/uksi/2000/2125), [art. 2](https://www.legislation.gov.uk/uksi/2000/2125/article/2)
 

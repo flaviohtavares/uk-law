@@ -22,7 +22,7 @@ summary: ''
 
 Section 107
 
-**1.**[^key-9ed904005b4c0a19d78a625e5b196b26][^key-352a35e140695a938d4ee1d619ba0270] For section 6 of the Road Traffic Act 1988 (c. 52) (testing for drink or drugs) substitute—
+**1.**[^c-9ed904005b4c0a19d78a625e5b196b26][^c-352a35e140695a938d4ee1d619ba0270] For section 6 of the Road Traffic Act 1988 (c. 52) (testing for drink or drugs) substitute—
 
 > **6. Power to administer preliminary tests**
 >
@@ -140,51 +140,51 @@ Section 107
 > - (a) does not extend to Scotland, and
 > - (b) is without prejudice to any rule of law or enactment about the right of a constable in Scotland to enter any place.
 
-**2.**[^key-31f5f390e3b0a5e58a63469c31dab613] In section 7(3) of that Act (provision of specimen for analysis) after the word “or” after subsection (bb) insert—
+**2.**[^c-31f5f390e3b0a5e58a63469c31dab613] In section 7(3) of that Act (provision of specimen for analysis) after the word “or” after subsection (bb) insert—
 
 > - (bc) as a result of the administration of a preliminary drug test, the constable making the requirement has reasonable cause to believe that the person required to provide a specimen of blood or urine has a drug in his body, or
 
 .
 
-**3.**[^key-f14e49d9ac41faf1252fe6c8cdf956ff] In section 9(1) of that Act (protection for hospital patients)—
+**3.**[^c-f14e49d9ac41faf1252fe6c8cdf956ff] In section 9(1) of that Act (protection for hospital patients)—
 
 - (a) for “to provide a specimen of breath for a breath test” substitute “ to co-operate with a preliminary test ”, and
 - (b) in paragraph (a), for “it shall be for the provision of a specimen at the hospital” substitute “ it shall be for co-operation with a test administered, or for the provision of a specimen, at the hospital ”.
 
-**4.**[^key-bf4a1a04bfe9d262d5caec06662ffec2] In section 10(1) of that Act (detention of persons affected by alcohol or drugs) in subsection (1) after “a person required” insert “ under section 7 or 7A ”.
+**4.**[^c-bf4a1a04bfe9d262d5caec06662ffec2] In section 10(1) of that Act (detention of persons affected by alcohol or drugs) in subsection (1) after “a person required” insert “ under section 7 or 7A ”.
 
-**5.**[^key-7e37d81cec63e42affa9547a88dd3444] In section 11 of that Act (interpretation)—
+**5.**[^c-7e37d81cec63e42affa9547a88dd3444] In section 11 of that Act (interpretation)—
 
 - (a) in subsection (2), omit the definition of “breath test”, and
 - (b) in subsection (3) for “A person does not provide a specimen of breath for a breath test or for analysis unless the specimen” substitute “ A person does not co-operate with a preliminary test or provide a specimen of breath for analysis unless his co-operation or the specimen ”.
 
-**6.**[^key-fc59fa4ff6217105afde093c25e9fd9e] In section 184(1)(f) of that Act (application of sections 5 to 10 to military personnel) for “in section 6(1) the reference to a traffic offence” substitute “ in section 6 a reference to a traffic offence ”.
+**6.**[^c-fc59fa4ff6217105afde093c25e9fd9e] In section 184(1)(f) of that Act (application of sections 5 to 10 to military personnel) for “in section 6(1) the reference to a traffic offence” substitute “ in section 6 a reference to a traffic offence ”.
 
-**7.**[^key-7ff1fd0398cfd0e4d497cce06c629782] In Schedule 1 to the Road Traffic Offenders Act 1988 (c. 53) (offences to which certain provisions apply), in the entry for section 6 of the Road Traffic Act 1988 (c. 52) for the description of the general nature of the offence substitute “ Failing to co-operate with a preliminary test ”.
+**7.**[^c-7ff1fd0398cfd0e4d497cce06c629782] In Schedule 1 to the Road Traffic Offenders Act 1988 (c. 53) (offences to which certain provisions apply), in the entry for section 6 of the Road Traffic Act 1988 (c. 52) for the description of the general nature of the offence substitute “ Failing to co-operate with a preliminary test ”.
 
-**8.**[^key-5a25fd2d594eae1ccf6388168d2371ae] In Schedule 2 to that Act (prosecution and punishment of offenders), in the entry for section 6 of the Road Traffic Act 1988 (c. 52) for the description of the general nature of the offence substitute “ Failing to co-operate with a preliminary test ”.
+**8.**[^c-5a25fd2d594eae1ccf6388168d2371ae] In Schedule 2 to that Act (prosecution and punishment of offenders), in the entry for section 6 of the Road Traffic Act 1988 (c. 52) for the description of the general nature of the offence substitute “ Failing to co-operate with a preliminary test ”.
 
-**9.**[^key-2890225ce76ea9f128ddb82454165596] In section 34A(1D)(a) of the Army Act 1955 (c. 18) (testing for drugs) for sub-paragraph (i) substitute—
-
-> - (i) any provision of the Road Traffic Act 1988 (c. 52),
-
-.
-
-**10.**[^key-5fc9285186d0cc2e536813fe2d4d7455] In section 34A(1D)(a) of the Air Force Act 1955 (c. 19) (testing for drugs) for sub-paragraph (i) substitute—
+**9.**[^c-2890225ce76ea9f128ddb82454165596] In section 34A(1D)(a) of the Army Act 1955 (c. 18) (testing for drugs) for sub-paragraph (i) substitute—
 
 > - (i) any provision of the Road Traffic Act 1988 (c. 52),
 
 .
 
-**11.**[^key-1af2bc5ea9296589e5cc0c1653a2201e] In section 12A(1D)(a) of the Naval Discipline Act 1957 (c. 53) (testing for drugs) for sub-paragraph (i) substitute—
+**10.**[^c-5fc9285186d0cc2e536813fe2d4d7455] In section 34A(1D)(a) of the Air Force Act 1955 (c. 19) (testing for drugs) for sub-paragraph (i) substitute—
 
 > - (i) any provision of the Road Traffic Act 1988 (c. 52),
 
 .
 
-**12.**[^key-4edf7f8a67256e8705f8517fb611f52d] In section 34(6) of the Police and Criminal Evidence Act 1984 (c. 60) (arrest) for “section 6(5) of the Road Traffic Act 1988” substitute “ section 6D of the Road Traffic Act 1988 ”.
+**11.**[^c-1af2bc5ea9296589e5cc0c1653a2201e] In section 12A(1D)(a) of the Naval Discipline Act 1957 (c. 53) (testing for drugs) for sub-paragraph (i) substitute—
 
-**13.**[^key-2bbed49148711197afc439b7e4b601c1] In section 32(8)(a) of the Armed Forces Act 2001 (c. 19) (testing for drink or drugs) for sub-paragraph (i) substitute—
+> - (i) any provision of the Road Traffic Act 1988 (c. 52),
+
+.
+
+**12.**[^c-4edf7f8a67256e8705f8517fb611f52d] In section 34(6) of the Police and Criminal Evidence Act 1984 (c. 60) (arrest) for “section 6(5) of the Road Traffic Act 1988” substitute “ section 6D of the Road Traffic Act 1988 ”.
+
+**13.**[^c-2bbed49148711197afc439b7e4b601c1] In section 32(8)(a) of the Armed Forces Act 2001 (c. 19) (testing for drink or drugs) for sub-paragraph (i) substitute—
 
 > - (i) any provision of the Road Traffic Act 1988 (c. 52),
 
@@ -192,30 +192,30 @@ Section 107
 
 ## Annotations
 
-[^key-9ed904005b4c0a19d78a625e5b196b26]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/1) in force at 29.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/827/article/2/b)
+[^c-9ed904005b4c0a19d78a625e5b196b26]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/1) in force at 29.3.2004 for specified purposes by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/827/article/2/b)
 
-[^key-352a35e140695a938d4ee1d619ba0270]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/1) in force at 30.3.2004 in so far as not already in force by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-352a35e140695a938d4ee1d619ba0270]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/1) in force at 30.3.2004 in so far as not already in force by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-31f5f390e3b0a5e58a63469c31dab613]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/2) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-31f5f390e3b0a5e58a63469c31dab613]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/2) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-f14e49d9ac41faf1252fe6c8cdf956ff]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/3) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-f14e49d9ac41faf1252fe6c8cdf956ff]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/3) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-bf4a1a04bfe9d262d5caec06662ffec2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/4) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-bf4a1a04bfe9d262d5caec06662ffec2]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/4) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-7e37d81cec63e42affa9547a88dd3444]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/5) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-7e37d81cec63e42affa9547a88dd3444]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/5) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-fc59fa4ff6217105afde093c25e9fd9e]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/6) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-fc59fa4ff6217105afde093c25e9fd9e]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/6) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-7ff1fd0398cfd0e4d497cce06c629782]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/7) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-7ff1fd0398cfd0e4d497cce06c629782]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/7) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-5a25fd2d594eae1ccf6388168d2371ae]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/8) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-5a25fd2d594eae1ccf6388168d2371ae]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/8) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-2890225ce76ea9f128ddb82454165596]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/9) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-2890225ce76ea9f128ddb82454165596]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/9) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-5fc9285186d0cc2e536813fe2d4d7455]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/10) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-5fc9285186d0cc2e536813fe2d4d7455]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/10) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-1af2bc5ea9296589e5cc0c1653a2201e]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/11) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-1af2bc5ea9296589e5cc0c1653a2201e]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/11) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-4edf7f8a67256e8705f8517fb611f52d]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/12) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-4edf7f8a67256e8705f8517fb611f52d]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/12) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
 
-[^key-2bbed49148711197afc439b7e4b601c1]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/13) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)
+[^c-2bbed49148711197afc439b7e4b601c1]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2003/20/schedule/7/paragraph/13) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(ii)](https://www.legislation.gov.uk/uksi/2004/827/article/3/ii)

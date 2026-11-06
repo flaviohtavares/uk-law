@@ -31,10 +31,10 @@ summary: ''
 
 of 26 February 1988 concerning the conclusion of an Agreement of participation in the International Thermonuclear Experimental Reactor (ITER) Conceptual Design Activities, by the European Atomic Energy Community, with Japan, the Union of Soviet Socialist Republics, and the United States of America, by the Commission for and on behalf of the Community (revoked)
 
-[^key-1db7466b7307d197c4f6920293aa29e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1db7466b7307d197c4f6920293aa29e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-1db7466b7307d197c4f6920293aa29e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-1db7466b7307d197c4f6920293aa29e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1db7466b7307d197c4f6920293aa29e8]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-1db7466b7307d197c4f6920293aa29e8]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

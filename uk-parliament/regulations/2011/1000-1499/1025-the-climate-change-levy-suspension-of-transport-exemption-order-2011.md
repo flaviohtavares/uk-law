@@ -32,7 +32,7 @@ summary: ''
 
 Climate Change Levy
 
-The Climate Change Levy (Suspension of Transport Exemption) Order 2011 (revoked)[^key-744855072b3e580583d217d6afabb600]
+The Climate Change Levy (Suspension of Transport Exemption) Order 2011 (revoked)[^c-744855072b3e580583d217d6afabb600]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 1st April 2011
 
-[^key-744855072b3e580583d217d6afabb600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-744855072b3e580583d217d6afabb600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-744855072b3e580583d217d6afabb600]
+## 1. Citation and commencement[^c-744855072b3e580583d217d6afabb600]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Suspension of exemption for certain transport supplies[^key-744855072b3e580583d217d6afabb600]
+## 2. Suspension of exemption for certain transport supplies[^c-744855072b3e580583d217d6afabb600]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-744855072b3e580583d217d6afabb600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-744855072b3e580583d217d6afabb600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-744855072b3e580583d217d6afabb600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-744855072b3e580583d217d6afabb600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-744855072b3e580583d217d6afabb600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-744855072b3e580583d217d6afabb600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-744855072b3e580583d217d6afabb600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-744855072b3e580583d217d6afabb600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-744855072b3e580583d217d6afabb600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-744855072b3e580583d217d6afabb600]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-744855072b3e580583d217d6afabb600]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1025) revoked (29.4.2011 with effect in relation to supplies of taxable commodities made on or after 1.4.2011) by [The Climate Change Levy (Suspension of Transport Exemption) (Revocation) Order 2011 (S.I. 2011/1178)](https://www.legislation.gov.uk/uksi/2011/1178), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1178/article/1), [2](https://www.legislation.gov.uk/uksi/2011/1178/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2011/1178/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1178/article/4))
+[^c-744855072b3e580583d217d6afabb600]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1025) revoked (29.4.2011 with effect in relation to supplies of taxable commodities made on or after 1.4.2011) by [The Climate Change Levy (Suspension of Transport Exemption) (Revocation) Order 2011 (S.I. 2011/1178)](https://www.legislation.gov.uk/uksi/2011/1178), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1178/article/1), [2](https://www.legislation.gov.uk/uksi/2011/1178/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2011/1178/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1178/article/4))

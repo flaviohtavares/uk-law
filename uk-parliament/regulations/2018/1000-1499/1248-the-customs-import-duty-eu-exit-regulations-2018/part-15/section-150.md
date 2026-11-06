@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Goods located in the United Kingdom released to a special procedure[^key-c951929892846d0455ae9c109497efa6]
+## 150. Goods located in the United Kingdom released to a special procedure[^c-c951929892846d0455ae9c109497efa6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c951929892846d0455ae9c109497efa6]: Textual amendment: Reg. 150 omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(15)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/15); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-c951929892846d0455ae9c109497efa6]: Textual amendment: Reg. 150 omitted (31.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/2), [11(15)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/11/15); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

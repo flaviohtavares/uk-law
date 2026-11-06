@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9A. Interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+## 9A. Interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 - “ **action** ” includes, in the sheriff court—
   - (a) a summary cause;
-  - (b) a simple procedure case (within the meaning of section 72(9) of the Courts Reform (Scotland) Act 2014); and[^key-ca55a85ebf13856082bd9abb4675dc0a]
+  - (b) a simple procedure case (within the meaning of section 72(9) of the Courts Reform (Scotland) Act 2014); and[^c-ca55a85ebf13856082bd9abb4675dc0a]
   - (c) a summary application,
 
   and references to “summons”, “conclusion” and to cognate expressions shall be construed accordingly;
@@ -44,6 +44,6 @@ expressions used in this Part of this Act have, unless the context otherwise req
 
 ## Annotations
 
-[^key-f533edabd47adb0f974a7e91bcbc7cda]: Textual amendment: Pt. 1A inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 173](https://www.legislation.gov.uk/asp/2007/3/section/173), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)
+[^c-f533edabd47adb0f974a7e91bcbc7cda]: Textual amendment: Pt. 1A inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 173](https://www.legislation.gov.uk/asp/2007/3/section/173), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)
 
-[^key-ca55a85ebf13856082bd9abb4675dc0a]: Textual amendment: Words in s. 9A(4) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 3(2)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/3/2) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
+[^c-ca55a85ebf13856082bd9abb4675dc0a]: Textual amendment: Words in s. 9A(4) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 3(2)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/3/2) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Appointment of manager: breach of redress scheme requirements[^key-a28fb0fc5ec1481f21801b43c1769cff]
+## 66. Appointment of manager: breach of redress scheme requirements[^c-a28fb0fc5ec1481f21801b43c1769cff]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In section 24(2) of the LTA 1987 (grounds for appointment of manager)—
 
 ## Annotations
 
-[^key-a28fb0fc5ec1481f21801b43c1769cff]: Commencement: S. 66 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a28fb0fc5ec1481f21801b43c1769cff]: Commencement: S. 66 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

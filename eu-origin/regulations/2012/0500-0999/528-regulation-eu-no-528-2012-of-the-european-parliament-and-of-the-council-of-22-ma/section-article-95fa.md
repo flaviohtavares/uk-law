@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 95FA. Transitional measures for applications for same biocidal product authorisations under the simplified procedure[^key-96a25c9c4bc96012e794f94ae570a8e9][^key-b261474fd75e07ea6a720d53ff01224a]
+## Article 95FA. Transitional measures for applications for same biocidal product authorisations under the simplified procedure[^c-96a25c9c4bc96012e794f94ae570a8e9][^c-b261474fd75e07ea6a720d53ff01224a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96a25c9c4bc96012e794f94ae570a8e9]: Textual amendment: [Art. 95FA](https://www.legislation.gov.uk/eur/2012/528/article/95FA) inserted (31.12.2022) by [The Biocidal Products (Health and Safety) (Amendment) Regulations 2022 (S.I. 2022/1291)](https://www.legislation.gov.uk/uksi/2022/1291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/2/8)
+[^c-96a25c9c4bc96012e794f94ae570a8e9]: Textual amendment: [Art. 95FA](https://www.legislation.gov.uk/eur/2012/528/article/95FA) inserted (31.12.2022) by [The Biocidal Products (Health and Safety) (Amendment) Regulations 2022 (S.I. 2022/1291)](https://www.legislation.gov.uk/uksi/2022/1291), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2022/1291/regulation/2/8)
 
-[^key-b261474fd75e07ea6a720d53ff01224a]: Textual amendment: [Arts. 95A-95N](https://www.legislation.gov.uk/eur/2012/528/article/95A) inserted (31.12.2020) by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/2) (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4))
+[^c-b261474fd75e07ea6a720d53ff01224a]: Textual amendment: [Arts. 95A-95N](https://www.legislation.gov.uk/eur/2012/528/article/95A) inserted (31.12.2020) by [S.I. 2019/720](https://www.legislation.gov.uk/uksi/2019/720), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2019/720/schedule/4/paragraph/2) (as inserted by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1567)](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1567/schedule/4))

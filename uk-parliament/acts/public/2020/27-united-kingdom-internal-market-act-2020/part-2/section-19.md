@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Services: mutual recognition of authorisation requirements[^key-38a500464ddcb025cb4d2d52de0388e3]
+## 19. Services: mutual recognition of authorisation requirements[^c-38a500464ddcb025cb4d2d52de0388e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38a500464ddcb025cb4d2d52de0388e3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2020/27/section/19) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)
+[^c-38a500464ddcb025cb4d2d52de0388e3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2020/27/section/19) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)

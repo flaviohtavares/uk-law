@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63.[^key-21dd75dba9d06d290f625f29c5863883]
+## 63.[^c-21dd75dba9d06d290f625f29c5863883]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-21dd75dba9d06d290f625f29c5863883]: Commencement: Reg. 63 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-21dd75dba9d06d290f625f29c5863883]: Commencement: Reg. 63 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
 
 [^f00016]: Footnote: Sections 282A and 282B were inserted by section 34 of the Finance Act 1988.
 

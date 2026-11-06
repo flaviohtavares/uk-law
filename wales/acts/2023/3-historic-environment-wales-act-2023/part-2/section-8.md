@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Compensation for loss or damage caused by interim protection[^key-2f1b3d4ecb35131fc1e26250c23757ba][^key-9dba09b9cca8331dce6edea30db0f7d1]
+## 8. Compensation for loss or damage caused by interim protection[^c-2f1b3d4ecb35131fc1e26250c23757ba][^c-9dba09b9cca8331dce6edea30db0f7d1]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f1b3d4ecb35131fc1e26250c23757ba]: Commencement: S. 8 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-2f1b3d4ecb35131fc1e26250c23757ba]: Commencement: S. 8 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-9dba09b9cca8331dce6edea30db0f7d1]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/3/section/8) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-9dba09b9cca8331dce6edea30db0f7d1]: Commencement: [S. 8](https://www.legislation.gov.uk/asc/2023/3/section/8) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

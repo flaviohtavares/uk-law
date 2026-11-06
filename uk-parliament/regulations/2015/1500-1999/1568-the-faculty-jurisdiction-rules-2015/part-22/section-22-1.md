@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22.1. Appeals from consistory courts[^key-f098ab606bc2ac948bdc5e766403a482]
+## 22.1. Appeals from consistory courts[^c-f098ab606bc2ac948bdc5e766403a482]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f098ab606bc2ac948bdc5e766403a482]: Commencement: [Rule 22.1](https://www.legislation.gov.uk/uksi/2015/1568/article/22.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-f098ab606bc2ac948bdc5e766403a482]: Commencement: [Rule 22.1](https://www.legislation.gov.uk/uksi/2015/1568/article/22.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

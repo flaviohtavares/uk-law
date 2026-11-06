@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 100. Decision by appointed person and notice of it[^key-042c799f8e169b6b79d3ba7e75398804]
+## 100. Decision by appointed person and notice of it[^c-042c799f8e169b6b79d3ba7e75398804]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ by notice in writing before the expiry of the period of two months beginning wit
 
 ## Annotations
 
-[^key-042c799f8e169b6b79d3ba7e75398804]: Commencement: Reg. 100 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-042c799f8e169b6b79d3ba7e75398804]: Commencement: Reg. 100 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

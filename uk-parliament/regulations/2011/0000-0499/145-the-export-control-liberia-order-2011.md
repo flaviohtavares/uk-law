@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Liberia) Order 2011 (revoked)[^key-7579762202a4a2be24465e32dff22f8b]
+The Export Control (Liberia) Order 2011 (revoked)[^c-7579762202a4a2be24465e32dff22f8b]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 17th February 2011
 
-[^key-7579762202a4a2be24465e32dff22f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7579762202a4a2be24465e32dff22f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1.[^key-7579762202a4a2be24465e32dff22f8b]
+## 1.[^c-7579762202a4a2be24465e32dff22f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of the Export Control (Liberia) Order 2006[^key-7579762202a4a2be24465e32dff22f8b]
+## 2. Revocation of the Export Control (Liberia) Order 2006[^c-7579762202a4a2be24465e32dff22f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences supplementing the Regulation[^key-7579762202a4a2be24465e32dff22f8b]
+## 3. Offences supplementing the Regulation[^c-7579762202a4a2be24465e32dff22f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences related to EU authorisations[^key-7579762202a4a2be24465e32dff22f8b]
+## 4. Offences related to EU authorisations[^c-7579762202a4a2be24465e32dff22f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-7579762202a4a2be24465e32dff22f8b]
+## 5. Penalties[^c-7579762202a4a2be24465e32dff22f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of the 1979 Act[^key-7579762202a4a2be24465e32dff22f8b]
+## 6. Application of the 1979 Act[^c-7579762202a4a2be24465e32dff22f8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7579762202a4a2be24465e32dff22f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7579762202a4a2be24465e32dff22f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7579762202a4a2be24465e32dff22f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7579762202a4a2be24465e32dff22f8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7579762202a4a2be24465e32dff22f8b]: Textual amendment: Order revoked (12.8.2016) by [The Export Control (Libya Sanctions) Order 2016 (S.I. 2016/787)](https://www.legislation.gov.uk/uksi/2016/787), [arts. 1](https://www.legislation.gov.uk/uksi/2016/787/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/787/article/2/b)
+[^c-7579762202a4a2be24465e32dff22f8b]: Textual amendment: Order revoked (12.8.2016) by [The Export Control (Libya Sanctions) Order 2016 (S.I. 2016/787)](https://www.legislation.gov.uk/uksi/2016/787), [arts. 1](https://www.legislation.gov.uk/uksi/2016/787/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2016/787/article/2/b)

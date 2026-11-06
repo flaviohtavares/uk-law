@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Supplementary provisions[^key-fa6c5ea52bf3fcbdbbc83887c8f588c6]
+## 65. Supplementary provisions[^c-fa6c5ea52bf3fcbdbbc83887c8f588c6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6c5ea52bf3fcbdbbc83887c8f588c6]: Commencement: Art. 65 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-fa6c5ea52bf3fcbdbbc83887c8f588c6]: Commencement: Art. 65 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

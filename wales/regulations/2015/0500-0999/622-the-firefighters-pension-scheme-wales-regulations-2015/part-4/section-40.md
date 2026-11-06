@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Establishment of active member’s account[^key-5ceeb229fe8cc5e6f4031cfa60a14bba]
+## 40. Establishment of active member’s account[^c-5ceeb229fe8cc5e6f4031cfa60a14bba]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ceeb229fe8cc5e6f4031cfa60a14bba]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5ceeb229fe8cc5e6f4031cfa60a14bba]: Commencement: Reg. 40 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

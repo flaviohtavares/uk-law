@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279. Obtaining a money transfer by deception: interpretation[^key-13af35210b56c4a1e6f9d72ba9a91bf7]
+## 279. Obtaining a money transfer by deception: interpretation[^c-13af35210b56c4a1e6f9d72ba9a91bf7]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13af35210b56c4a1e6f9d72ba9a91bf7]: Commencement: Art. 279 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-13af35210b56c4a1e6f9d72ba9a91bf7]: Commencement: Art. 279 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00200]: Footnote: Section 15B was inserted by the Theft (Amendment) (Northern Ireland) Order [1997 NI 3](https://www.legislation.gov.uk/nisi/1997/277), Article 3(1).

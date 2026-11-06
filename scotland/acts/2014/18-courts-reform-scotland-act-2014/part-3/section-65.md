@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Application to allow the jury to view property[^key-8d83a3a241c48d1843f27ee379a391c5]
+## 65. Application to allow the jury to view property[^c-8d83a3a241c48d1843f27ee379a391c5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d83a3a241c48d1843f27ee379a391c5]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/18/section/65) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-8d83a3a241c48d1843f27ee379a391c5]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2014/18/section/65) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

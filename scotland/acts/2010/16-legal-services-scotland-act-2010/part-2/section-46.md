@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Guidance on functions[^key-0753cd39a10c186573ccc7ea932cdcee]
+## 46. Guidance on functions[^c-0753cd39a10c186573ccc7ea932cdcee]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0753cd39a10c186573ccc7ea932cdcee]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/16/section/46) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-0753cd39a10c186573ccc7ea932cdcee]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2010/16/section/46) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

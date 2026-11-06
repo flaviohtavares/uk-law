@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 76A. Power to make charging schemes[^M_C_39332ced-a97b-436b-88a5-bf906c09ea6c][^key-e21244d46a3d143428a387b5e4bc9617]
+## 76A. Power to make charging schemes[^M_C_39332ced-a97b-436b-88a5-bf906c09ea6c][^c-e21244d46a3d143428a387b5e4bc9617]
 
 *Extent: N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^M_C_39332ced-a97b-436b-88a5-bf906c09ea6c]: Modification: [Art. 76A(2)(c)](https://www.legislation.gov.uk/nisi/1997/2778/article/76A/2/c) modified (temp.) (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/2), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)
 
-[^key-e21244d46a3d143428a387b5e4bc9617]: Textual amendment: [Art. 76A](https://www.legislation.gov.uk/nisi/1997/2778/article/76A) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/1), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)
+[^c-e21244d46a3d143428a387b5e4bc9617]: Textual amendment: [Art. 76A](https://www.legislation.gov.uk/nisi/1997/2778/article/76A) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/1), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)

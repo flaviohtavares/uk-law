@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendment of Health Professions Council (Registration and Fees) Rules Order of Council 2003[^key-1a728adfe3334eb6226dc9225bca7cfa]
+## 4. Amendment of Health Professions Council (Registration and Fees) Rules Order of Council 2003[^c-1a728adfe3334eb6226dc9225bca7cfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1a728adfe3334eb6226dc9225bca7cfa]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1479/article/4) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
+[^c-1a728adfe3334eb6226dc9225bca7cfa]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1479/article/4) in force at 1.8.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1479/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2003/1572](https://www.legislation.gov.uk/uksi/2003/1572). Rule 2 was amended, and rule 2A inserted, by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). Rule 11A was inserted by [S.I. 2005/1625](https://www.legislation.gov.uk/uksi/2005/1625). Rule 15 was most recently substituted by [S.I. 2009/1355](https://www.legislation.gov.uk/uksi/2009/1355). Rule 10 was amended, and Schedule 5 substituted, by [S.I. 2004/2524](https://www.legislation.gov.uk/uksi/2004/2524). Other relevant amendments were made by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2007/1280](https://www.legislation.gov.uk/uksi/2007/1280), [2009/272](https://www.legislation.gov.uk/uksi/2009/272) and [1355](https://www.legislation.gov.uk/uksi/2009/1355) and [2010/479](https://www.legislation.gov.uk/uksi/2010/479).
 

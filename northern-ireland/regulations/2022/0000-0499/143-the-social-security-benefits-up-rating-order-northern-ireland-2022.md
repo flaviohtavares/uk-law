@@ -36,7 +36,7 @@ Social Security
 
 Statutory Maternity Pay; Statutory Sick Pay; Employment; Housing; Rates
 
-The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (revoked)[^key-eb6298a224906b93d90b3268c5e5e816]
+The Social Security Benefits Up-rating Order (Northern Ireland) 2022 (revoked)[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Made
 
@@ -44,288 +44,288 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-eb6298a224906b93d90b3268c5e5e816]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb6298a224906b93d90b3268c5e5e816]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — INTRODUCTION[^key-eb6298a224906b93d90b3268c5e5e816]
+## PART 1 — INTRODUCTION[^c-eb6298a224906b93d90b3268c5e5e816]
 
-### 1. Citation, commencement and effect[^key-eb6298a224906b93d90b3268c5e5e816]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-eb6298a224906b93d90b3268c5e5e816]
+### 1. Citation, commencement and effect[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — SOCIAL SECURITY BENEFITS AND PENSIONS[^key-eb6298a224906b93d90b3268c5e5e816]
-
-### 3. Rates or amounts of certain benefits under the Contributions and Benefits Act[^key-eb6298a224906b93d90b3268c5e5e816]
+### 2. Interpretation[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Rates or amounts of certain pensions and allowances under the Contributions and Benefits Act[^key-eb6298a224906b93d90b3268c5e5e816]
+## PART 2 — SOCIAL SECURITY BENEFITS AND PENSIONS[^c-eb6298a224906b93d90b3268c5e5e816]
+
+### 3. Rates or amounts of certain benefits under the Contributions and Benefits Act[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Rates or amounts of certain benefits under the Pension Schemes Act[^key-eb6298a224906b93d90b3268c5e5e816]
+### 4. Rates or amounts of certain pensions and allowances under the Contributions and Benefits Act[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Rates or amounts of certain pensions under Part 1 of the Pensions Act[^key-eb6298a224906b93d90b3268c5e5e816]
+### 5. Rates or amounts of certain benefits under the Pension Schemes Act[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Dates on which sums specified for rates or amounts of benefits in Articles 3, 4, 5, 6, 12, 13 and 14 are changed by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+### 6. Rates or amounts of certain pensions under Part 1 of the Pensions Act[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Earnings limits[^key-eb6298a224906b93d90b3268c5e5e816]
+### 7. Dates on which sums specified for rates or amounts of benefits in Articles 3, 4, 5, 6, 12, 13 and 14 are changed by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Statutory sick pay[^key-eb6298a224906b93d90b3268c5e5e816]
+### 8. Earnings limits[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Statutory maternity pay[^key-eb6298a224906b93d90b3268c5e5e816]
+### 9. Statutory sick pay[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Statutory paternity pay, statutory adoption pay and statutory shared parental pay[^key-eb6298a224906b93d90b3268c5e5e816]
+### 10. Statutory maternity pay[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Graduated retirement benefit[^key-eb6298a224906b93d90b3268c5e5e816]
+### 11. Statutory paternity pay, statutory adoption pay and statutory shared parental pay[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amount of Category C retirement pension under the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^key-eb6298a224906b93d90b3268c5e5e816]
+### 12. Graduated retirement benefit[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Maximum additional pension[^key-eb6298a224906b93d90b3268c5e5e816]
+### 13. Amount of Category C retirement pension under the Social Security (Widow’s Benefit and Retirement Pensions) Regulations (Northern Ireland) 1979[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Disability living allowance[^key-eb6298a224906b93d90b3268c5e5e816]
+### 14. Maximum additional pension[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Personal independence payment[^key-eb6298a224906b93d90b3268c5e5e816]
+### 15. Disability living allowance[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Age addition to long-term incapacity benefit[^key-eb6298a224906b93d90b3268c5e5e816]
+### 16. Personal independence payment[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Transitional invalidity allowance in long-term incapacity benefit cases[^key-eb6298a224906b93d90b3268c5e5e816]
+### 17. Age addition to long-term incapacity benefit[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Bereavement benefits[^key-eb6298a224906b93d90b3268c5e5e816]
+### 18. Transitional invalidity allowance in long-term incapacity benefit cases[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Bereavement support payment[^key-eb6298a224906b93d90b3268c5e5e816]
+### 19. Bereavement benefits[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — INCOME SUPPORT AND HOUSING BENEFIT[^key-eb6298a224906b93d90b3268c5e5e816]
-
-### 21. Applicable amounts for income support[^key-eb6298a224906b93d90b3268c5e5e816]
+### 20. Bereavement support payment[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Income support transitional protection[^key-eb6298a224906b93d90b3268c5e5e816]
+## PART 3 — INCOME SUPPORT AND HOUSING BENEFIT[^c-eb6298a224906b93d90b3268c5e5e816]
+
+### 21. Applicable amounts for income support[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Relevant sum for income support[^key-eb6298a224906b93d90b3268c5e5e816]
+### 22. Income support transitional protection[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Housing benefit[^key-eb6298a224906b93d90b3268c5e5e816]
+### 23. Relevant sum for income support[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Housing benefit for certain persons over the qualifying age for state pension credit[^key-eb6298a224906b93d90b3268c5e5e816]
+### 24. Housing benefit[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — JOBSEEKER’S ALLOWANCE[^key-eb6298a224906b93d90b3268c5e5e816]
-
-### 26. Age-related amounts of contribution-based jobseeker’s allowance[^key-eb6298a224906b93d90b3268c5e5e816]
+### 25. Housing benefit for certain persons over the qualifying age for state pension credit[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Applicable amounts for jobseeker’s allowance[^key-eb6298a224906b93d90b3268c5e5e816]
+## PART 4 — JOBSEEKER’S ALLOWANCE[^c-eb6298a224906b93d90b3268c5e5e816]
+
+### 26. Age-related amounts of contribution-based jobseeker’s allowance[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Prescribed sum for the Jobseeker’s Allowance Regulations 1996[^key-eb6298a224906b93d90b3268c5e5e816]
+### 27. Applicable amounts for jobseeker’s allowance[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Amounts for the Jobseeker’s Allowance Regulations 2016[^key-eb6298a224906b93d90b3268c5e5e816]
+### 28. Prescribed sum for the Jobseeker’s Allowance Regulations 1996[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — STATE PENSION CREDIT[^key-eb6298a224906b93d90b3268c5e5e816]
-
-### 30. State pension credit[^key-eb6298a224906b93d90b3268c5e5e816]
+### 29. Amounts for the Jobseeker’s Allowance Regulations 2016[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — EMPLOYMENT AND SUPPORT ALLOWANCE[^key-eb6298a224906b93d90b3268c5e5e816]
+## PART 5 — STATE PENSION CREDIT[^c-eb6298a224906b93d90b3268c5e5e816]
 
-### 31. Applicable amounts for the Employment and Support Allowance Regulations 2008[^key-eb6298a224906b93d90b3268c5e5e816]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 32. Prescribed amount for the Employment and Support Allowance Regulations 2016[^key-eb6298a224906b93d90b3268c5e5e816]
+### 30. State pension credit[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — UNIVERSAL CREDIT[^key-eb6298a224906b93d90b3268c5e5e816]
+## PART 6 — EMPLOYMENT AND SUPPORT ALLOWANCE[^c-eb6298a224906b93d90b3268c5e5e816]
 
-### 33. Universal credit[^key-eb6298a224906b93d90b3268c5e5e816]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 8 — REVOCATION[^key-eb6298a224906b93d90b3268c5e5e816]
-
-### 34. Revocation[^key-eb6298a224906b93d90b3268c5e5e816]
+### 31. Applicable amounts for the Employment and Support Allowance Regulations 2008[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb6298a224906b93d90b3268c5e5e816]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 32. Prescribed amount for the Employment and Support Allowance Regulations 2016[^c-eb6298a224906b93d90b3268c5e5e816]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 7 — UNIVERSAL CREDIT[^c-eb6298a224906b93d90b3268c5e5e816]
+
+### 33. Universal credit[^c-eb6298a224906b93d90b3268c5e5e816]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 8 — REVOCATION[^c-eb6298a224906b93d90b3268c5e5e816]
+
+### 34. Revocation[^c-eb6298a224906b93d90b3268c5e5e816]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-eb6298a224906b93d90b3268c5e5e816]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Provisions of Schedule 4 to the Contributions and Benefits Act as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 1 — Provisions of Schedule 4 to the Contributions and Benefits Act as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 3(1)
 
-### PART I — CONTRIBUTORY PERIODICAL BENEFITS[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART I — CONTRIBUTORY PERIODICAL BENEFITS[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — NON-CONTRIBUTORY PERIODICAL BENEFITS[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART III — NON-CONTRIBUTORY PERIODICAL BENEFITS[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — INCREASES FOR DEPENDANTS[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART IV — INCREASES FOR DEPENDANTS[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART V — RATE OF INDUSTRIAL INJURIES BENEFIT[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART V — RATE OF INDUSTRIAL INJURIES BENEFIT[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 2 — Part I of Schedule 2 to the Income Support Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 21(3)
 
-### PART 1 — PERSONAL ALLOWANCES[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART 1 — PERSONAL ALLOWANCES[^c-eb6298a224906b93d90b3268c5e5e816]
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 3 — Part IV of Schedule 2 to the Income Support Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 21(5)
 
-### PART IV — WEEKLY AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART IV — WEEKLY AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Part I of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 4 — Part I of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 24(5)
 
-### PART I — PERSONAL ALLOWANCES[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART I — PERSONAL ALLOWANCES[^c-eb6298a224906b93d90b3268c5e5e816]
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Part IV of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 5 — Part IV of Schedule 4 to the Housing Benefit Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 24(7)
 
-### PART IV — AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART IV — AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Paragraph 1 of Part I of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 6 — Paragraph 1 of Part I of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 25(5)(a)
 
-### PART I — PERSONAL ALLOWANCES[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART I — PERSONAL ALLOWANCES[^c-eb6298a224906b93d90b3268c5e5e816]
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Part IV of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 7 — Part IV of Schedule 4 to the Housing Benefit (SPC) Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 25(7)
 
-### PART IV — AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART IV — AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — Part I of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 8 — Part I of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 27(3)(a)
 
-### PART I — PERSONAL ALLOWANCES[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART I — PERSONAL ALLOWANCES[^c-eb6298a224906b93d90b3268c5e5e816]
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 9 — Part IV of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 9 — Part IV of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 27(5)
 
-### PART IV — WEEKLY AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART IV — WEEKLY AMOUNTS OF PREMIUMS SPECIFIED IN PART III[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 10 — Part IVB of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 10 — Part IVB of Schedule 1 to the Jobseeker’s Allowance Regulations 1996 as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 27(6)
 
-### PART IVB — WEEKLY AMOUNTS OF PREMIUMS SPECIFIED IN PART IVA[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART IVB — WEEKLY AMOUNTS OF PREMIUMS SPECIFIED IN PART IVA[^c-eb6298a224906b93d90b3268c5e5e816]
 
-## SCHEDULE 11 — Part 1 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 11 — Part 1 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 31(1), (2) and (3)
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1 — PRESCRIBED AMOUNTS[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART 1 — PRESCRIBED AMOUNTS[^c-eb6298a224906b93d90b3268c5e5e816]
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 1 — PRESCRIBED AMOUNTS[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART 1 — PRESCRIBED AMOUNTS[^c-eb6298a224906b93d90b3268c5e5e816]
 
-**1.**[^key-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb6298a224906b93d90b3268c5e5e816] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 12 — Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 12 — Part 3 of Schedule 4 to the Employment and Support Allowance Regulations 2008 as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 31(1), (4) and (5)
 
-### PART 3 — WEEKLY AMOUNT OF PREMIUMS SPECIFIED IN PART 2[^key-eb6298a224906b93d90b3268c5e5e816]
+### PART 3 — WEEKLY AMOUNT OF PREMIUMS SPECIFIED IN PART 2[^c-eb6298a224906b93d90b3268c5e5e816]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 13 — Amounts of certain elements specified in the table in regulation 38 of the Universal Credit Regulations as amended by this Order[^key-eb6298a224906b93d90b3268c5e5e816]
+## SCHEDULE 13 — Amounts of certain elements specified in the table in regulation 38 of the Universal Credit Regulations as amended by this Order[^c-eb6298a224906b93d90b3268c5e5e816]
 
 Article 33(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eb6298a224906b93d90b3268c5e5e816]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eb6298a224906b93d90b3268c5e5e816]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eb6298a224906b93d90b3268c5e5e816]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/143) revoked (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/231)](https://www.legislation.gov.uk/nisr/2022/231), [arts. 1](https://www.legislation.gov.uk/nisr/2022/231/article/1), [33](https://www.legislation.gov.uk/nisr/2022/231/article/33)
+[^c-eb6298a224906b93d90b3268c5e5e816]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2022/143) revoked (28.9.2022) by [The Social Security Benefits Up-rating (No. 2) Order (Northern Ireland) 2022 (S.R. 2022/231)](https://www.legislation.gov.uk/nisr/2022/231), [arts. 1](https://www.legislation.gov.uk/nisr/2022/231/article/1), [33](https://www.legislation.gov.uk/nisr/2022/231/article/33)

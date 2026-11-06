@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Crown application[^key-9cff658800ca2030ab3db5d1f93ad698]
+## 72. Crown application[^c-9cff658800ca2030ab3db5d1f93ad698]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Part applies in relation to property irrespective of whether it belongs to 
 
 ## Annotations
 
-[^key-9cff658800ca2030ab3db5d1f93ad698]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2003/20/section/72) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ccc)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ccc)
+[^c-9cff658800ca2030ab3db5d1f93ad698]: Commencement: [S. 72](https://www.legislation.gov.uk/ukpga/2003/20/section/72) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(ccc)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/ccc)

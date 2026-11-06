@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Meaning of “leaver index adjustment”[^key-2d10ab42a5457741e4083bd563496e75]
+## 42. Meaning of “leaver index adjustment”[^c-2d10ab42a5457741e4083bd563496e75]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ The resulting amount is the leaver index adjustment.
 
 ## Annotations
 
-[^key-2d10ab42a5457741e4083bd563496e75]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2014/292/regulation/42) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-2d10ab42a5457741e4083bd563496e75]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2014/292/regulation/42) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

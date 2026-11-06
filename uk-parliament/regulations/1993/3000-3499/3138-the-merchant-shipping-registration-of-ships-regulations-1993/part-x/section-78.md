@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Names[^key-cea3c40c2b077d8f6cc698eed269c129]
+## 78. Names[^c-cea3c40c2b077d8f6cc698eed269c129]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cea3c40c2b077d8f6cc698eed269c129]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1993/3138/regulation/78) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-cea3c40c2b077d8f6cc698eed269c129]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1993/3138/regulation/78) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

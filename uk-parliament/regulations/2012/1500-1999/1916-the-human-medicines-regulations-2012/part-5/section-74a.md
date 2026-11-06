@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Obligation to provide information relating to methods of manufacture and control: MM medicinal products[^key-716a599c2b163bb584bdb1aebf862226]
+## 74A. Obligation to provide information relating to methods of manufacture and control: MM medicinal products[^c-716a599c2b163bb584bdb1aebf862226]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The holder of a UK marketing authorisation relating to an MM medicinal product m
 
 ## Annotations
 
-[^key-716a599c2b163bb584bdb1aebf862226]: Textual amendment: [Regs. 74A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/74A), [74B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/74B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2025/87/regulation/18)
+[^c-716a599c2b163bb584bdb1aebf862226]: Textual amendment: [Regs. 74A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/74A), [74B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/74B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2025/87/regulation/18)

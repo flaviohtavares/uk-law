@@ -48,13 +48,13 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and of all other powers enabling them in that behalf, after consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002], hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-4a2f1b5b91eb5b525a7fcedc1643985a]
+## 1. Citation, commencement and extent[^c-4a2f1b5b91eb5b525a7fcedc1643985a]
 
 (1) These Regulations may be cited as the Bovine Products (Restriction on Placing on the Market) (Scotland) (No. 2) Regulations 2005 and come into force on 1st January 2006.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-f7072b09af600f6e7dd996fa454d321c]
+## 2. Interpretation[^c-f7072b09af600f6e7dd996fa454d321c]
 
 In these Regulations–
 
@@ -87,7 +87,7 @@ In these Regulations–
   - (a) is approved or conditionally approved under Article 31.2 of Regulation 882/2004; or
   - (b) (although lacking the approval or conditional approval that it requires under Article 4.3 of Regulation 853/2004) was, on 31st December 2005, a licensed slaughterhouse under the Fresh Meat (Hygiene and Inspection) Regulations 1995.
 
-## 3. Prohibition on marketing of certain products derived from older bovine animals[^key-d60694910c179f3b8e0893143932e184]
+## 3. Prohibition on marketing of certain products derived from older bovine animals[^c-d60694910c179f3b8e0893143932e184]
 
 (1) Subject to paragraph (2), no person shall place on the market any product–
 
@@ -96,7 +96,7 @@ In these Regulations–
 
 (2) Nothing in paragraph (1) shall prevent milk derived from a bovine animal born or reared within the United Kingdom before 1st August 1996 from being placed on the market.
 
-## 4. Appointment of authorised officers[^key-61e62216b97cce0af05545a390899f91]
+## 4. Appointment of authorised officers[^c-61e62216b97cce0af05545a390899f91]
 
 (1) Subject to paragraph (2), the Agency and any local authority may in writing appoint as authorised officers, either generally or specially, such persons (whether or not officers of the Agency or the authority) as it considers necessary to act in matters arising under these Regulations.
 
@@ -107,7 +107,7 @@ In these Regulations–
 - (c) any establishment to which Chapter I of section V of Annex III to Regulation 853/2004 applies; and
 - (d) any establishment at which meat products are produced.
 
-## 5. Application of various provisions of the Food Safety Act 1990[^key-c38c30907792423a78b3aa64b11816c8]
+## 5. Application of various provisions of the Food Safety Act 1990[^c-c38c30907792423a78b3aa64b11816c8]
 
 The following provisions of the Food Safety Act 1990[^f00006] apply for the purposes of these Regulations with the modification that any reference in those provisions to that Act or Part thereof is construed as a reference to these Regulations–
 
@@ -120,7 +120,7 @@ The following provisions of the Food Safety Act 1990[^f00006] apply for the purp
 - (g) section 36A (offences by Scottish partnerships)[^f00008]; and
 - (h) section 44 (protection of officers acting in good faith), with the modification that the references to “food authority” are deemed to be references to the relevant enforcement authority.
 
-## 6. Inspection and seizure of suspected products[^key-b845240b6acbd2aca281e5ef078ddb29]
+## 6. Inspection and seizure of suspected products[^c-b845240b6acbd2aca281e5ef078ddb29]
 
 (1) An authorised officer of the relevant enforcement authority may at all reasonable times inspect any product that has been placed on the market and paragraphs (2) to (8) shall apply where, on such an inspection or for any other reasonable cause, it appears to that officer that any person has failed to comply with regulation 3 in relation to any product.
 
@@ -149,7 +149,7 @@ The following provisions of the Food Safety Act 1990[^f00006] apply for the purp
 
 (8) Any disputed question as to the right to or the amount of any compensation payable under paragraph (7) shall be determined by a single arbiter appointed, failing agreement between the parties, by the sheriff.
 
-## 7. Offences and penalties[^key-bc2a27ded1cfb120b6416a23d130fd97]
+## 7. Offences and penalties[^c-bc2a27ded1cfb120b6416a23d130fd97]
 
 (1) Any person who contravenes regulation 3 or knowingly contravenes the requirements of a notice given under regulation 6(2)(a) is guilty of an offence.
 
@@ -167,7 +167,7 @@ whichever is the earlier.
 
 (4) For the purposes of this regulation, a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient in the prosecutor’s opinion to warrant the proceedings came to the prosecutor’s knowledge shall be conclusive evidence of that fact; and a certificate stating that matter and purporting to be so signed shall be deemed to be so signed unless the contrary is proved.
 
-## 8. Enforcement[^key-9b02bcd171ec6904072918766ec500be]
+## 8. Enforcement[^c-9b02bcd171ec6904072918766ec500be]
 
 (1) These Regulations shall be executed and enforced–
 
@@ -183,7 +183,7 @@ whichever is the earlier.
 
 (3) Before exercising its option to enforce and execute these Regulations under paragraph (2), the Agency shall consult the local authority which would otherwise have a duty to carry out such enforcement and execution.
 
-## 9. Amendment of the Animal By Products (Identification) Regulations 1995[^key-f16d823b2be5d20f0d96ff3a4c429ef8]
+## 9. Amendment of the Animal By Products (Identification) Regulations 1995[^c-f16d823b2be5d20f0d96ff3a4c429ef8]
 
 For regulation 3(3) (meaning of animal by product) of the Animal By Products (Identification) Regulations 1995[^f00009] substitute–
 
@@ -194,7 +194,7 @@ For regulation 3(3) (meaning of animal by product) of the Animal By Products (Id
 
 .
 
-## 10. Revocation[^key-8df5950a9d029e247a360813b2d38b90]
+## 10. Revocation[^c-8df5950a9d029e247a360813b2d38b90]
 
 The Bovine Products (Restriction on Placing on the Market) (Scotland) Regulations 2005[^f00011] are revoked.
 
@@ -206,7 +206,7 @@ St Andrew’s House, Edinburgh
 
 17th November 2005
 
-## SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^key-4fceb4bc5234116e83905b5f7fb8bd8b]
+## SCHEDULE — DEFINITIONS OF COMMUNITY LEGISLATION[^c-4fceb4bc5234116e83905b5f7fb8bd8b]
 
 Regulation 2
 
@@ -245,9 +245,9 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^f00002]: Footnote: O.J. No. L 31, 1.2.02, p.1, as last amended by Regulation [(EC) No. 1642/2003](https://www.legislation.gov.uk/european/regulation/2003/1642) of the European Parliament and of the Council (O.J. No. L 245, 29.9.03, p.4).
 
-[^key-4a2f1b5b91eb5b525a7fcedc1643985a]: Commencement: Reg. 1 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-4a2f1b5b91eb5b525a7fcedc1643985a]: Commencement: Reg. 1 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
-[^key-f7072b09af600f6e7dd996fa454d321c]: Commencement: Reg. 2 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-f7072b09af600f6e7dd996fa454d321c]: Commencement: Reg. 2 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked with effect from 1st January 2006 by [S.S.I. 2005/470](https://www.legislation.gov.uk/ssi/2005/470).
 
@@ -255,11 +255,11 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^f00005]: Footnote: O.J. No. L 204, 5.8.05, p.22.
 
-[^key-d60694910c179f3b8e0893143932e184]: Commencement: Reg. 3 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-d60694910c179f3b8e0893143932e184]: Commencement: Reg. 3 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
-[^key-61e62216b97cce0af05545a390899f91]: Commencement: Reg. 4 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-61e62216b97cce0af05545a390899f91]: Commencement: Reg. 4 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
-[^key-c38c30907792423a78b3aa64b11816c8]: Commencement: Reg. 5 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-c38c30907792423a78b3aa64b11816c8]: Commencement: Reg. 5 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
 [^f00006]: Footnote: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
@@ -267,23 +267,23 @@ No regulatory impact assessment has been prepared in relation to these Regulatio
 
 [^f00008]: Footnote: Section 36A was inserted by the Food Standards Act 1999 ([1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 16.
 
-[^key-b845240b6acbd2aca281e5ef078ddb29]: Commencement: Reg. 6 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-b845240b6acbd2aca281e5ef078ddb29]: Commencement: Reg. 6 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
-[^key-bc2a27ded1cfb120b6416a23d130fd97]: Commencement: Reg. 7 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-bc2a27ded1cfb120b6416a23d130fd97]: Commencement: Reg. 7 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
-[^key-9b02bcd171ec6904072918766ec500be]: Commencement: Reg. 8 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-9b02bcd171ec6904072918766ec500be]: Commencement: Reg. 8 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
-[^key-f16d823b2be5d20f0d96ff3a4c429ef8]: Commencement: Reg. 9 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-f16d823b2be5d20f0d96ff3a4c429ef8]: Commencement: Reg. 9 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
 [^f00009]: Footnote: S.I. [1995/614](https://www.legislation.gov.uk/uksi/1995/614), amended by S.I. [1995/1955](https://www.legislation.gov.uk/uksi/1995/1955), S.I. [1996/3124](https://www.legislation.gov.uk/uksi/1996/3124), S.I. [1997/2073](https://www.legislation.gov.uk/uksi/1997/2073), [S.S.I. 2000/62](https://www.legislation.gov.uk/ssi/2000/62), [S.S.I. 2002/83](https://www.legislation.gov.uk/ssi/2002/83), [S.S.I. 2003/53](https://www.legislation.gov.uk/ssi/2003/53) and [411](https://www.legislation.gov.uk/ssi/2003/411) and [S.S.I. 2005/470](https://www.legislation.gov.uk/ssi/2005/470).
 
 [^f00010]: Footnote: [S.S.I. 2002/255](https://www.legislation.gov.uk/ssi/2002/255) as amended by [S.S.I. 2003/198](https://www.legislation.gov.uk/ssi/2003/198) and [411](https://www.legislation.gov.uk/ssi/2003/411), [2004/277](https://www.legislation.gov.uk/ssi/2004/277) and [2005/173](https://www.legislation.gov.uk/ssi/2005/173) and [469](https://www.legislation.gov.uk/ssi/2005/469).
 
-[^key-8df5950a9d029e247a360813b2d38b90]: Commencement: Reg. 10 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-8df5950a9d029e247a360813b2d38b90]: Commencement: Reg. 10 in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
 [^f00011]: Footnote: [S.S.I. 2005/470](https://www.legislation.gov.uk/ssi/2005/470).
 
-[^key-4fceb4bc5234116e83905b5f7fb8bd8b]: Commencement: Sch. in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
+[^c-4fceb4bc5234116e83905b5f7fb8bd8b]: Commencement: Sch. in force at 1.1.2006, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/586/regulation/1/1)
 
 [^f00012]: Footnote: O.J. No. L 157, 30.4.04, p.33. The revised text of Directive [2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) is now set out in a Corrigendum (O.J. No. L 195, 2.6.2004, p.12).
 

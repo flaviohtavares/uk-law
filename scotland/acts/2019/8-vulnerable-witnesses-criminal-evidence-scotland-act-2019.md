@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Child witnesses
 
-### 1. Child witnesses in certain solemn cases[^key-a38d4fa577e0ee269582d5de08174ab3][^key-e025cefcf50b958952829cb2010df354]
+### 1. Child witnesses in certain solemn cases[^c-a38d4fa577e0ee269582d5de08174ab3][^c-e025cefcf50b958952829cb2010df354]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -199,7 +199,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 2. Child witnesses under the age of 12[^key-6510b55a609696b06c67b4e9014f3d51]
+### 2. Child witnesses under the age of 12[^c-6510b55a609696b06c67b4e9014f3d51]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -255,7 +255,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Review of arrangements for taking evidence
 
-### 4. Review of arrangements for vulnerable witnesses[^key-b7e7dd9e5a4fbd71e89afaae8c937bf2]
+### 4. Review of arrangements for vulnerable witnesses[^c-b7e7dd9e5a4fbd71e89afaae8c937bf2]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -282,7 +282,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Taking evidence by commissioner
 
-### 5. Taking evidence by commissioner[^key-9e64a9fbdb0aeeb271895aca9c1b3528]
+### 5. Taking evidence by commissioner[^c-9e64a9fbdb0aeeb271895aca9c1b3528]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -356,7 +356,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Notification procedure for standard special measures
 
-### 6. Using only standard special measures[^key-005edaf5fc29ddd36bb62b92ca9ad394]
+### 6. Using only standard special measures[^c-005edaf5fc29ddd36bb62b92ca9ad394]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -416,7 +416,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Timeframes for vulnerable witness notices
 
-### 7. Timeframe for considering vulnerable witness notice[^key-09ac345f9195e6e4d3bddc71e1466ca7]
+### 7. Timeframe for considering vulnerable witness notice[^c-09ac345f9195e6e4d3bddc71e1466ca7]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -429,7 +429,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-### 8. Vulnerable witness notice: lodging deadline[^key-4496fc2df483b1c4cd6505109b346602]
+### 8. Vulnerable witness notice: lodging deadline[^c-4496fc2df483b1c4cd6505109b346602]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -448,7 +448,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Reporting requirement
 
-### 9. Report on operation of sections 1 and 5[^key-6d1da08a49482793e5246d62dc4b2db0]
+### 9. Report on operation of sections 1 and 5[^c-6d1da08a49482793e5246d62dc4b2db0]
 
 (1) The Scottish Ministers must prepare a report—
 
@@ -493,13 +493,13 @@ as soon as practicable after the end of the review period.
 
 ### 10. Consequential amendments
 
-(1)[^key-f221f602b7b494cbd655f4cf921a41e7] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+(1)[^c-f221f602b7b494cbd655f4cf921a41e7] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
-(2)[^key-f221f602b7b494cbd655f4cf921a41e7] In section 271A(5), for “section 271B” substitute “ sections 271B to 271BZB ”.
+(2)[^c-f221f602b7b494cbd655f4cf921a41e7] In section 271A(5), for “section 271B” substitute “ sections 271B to 271BZB ”.
 
-(3)[^key-f221f602b7b494cbd655f4cf921a41e7] In section 271D(7), for “section 271B” substitute “ sections 271B to 271BZC ”.
+(3)[^c-f221f602b7b494cbd655f4cf921a41e7] In section 271D(7), for “section 271B” substitute “ sections 271B to 271BZC ”.
 
-(4)[^key-62a55f24cd0e9e601bc7b8122ee300bf] In section 271F(2), after paragraph (a) insert—
+(4)[^c-62a55f24cd0e9e601bc7b8122ee300bf] In section 271F(2), after paragraph (a) insert—
 
 > - (aa) section 271AA applies in relation to the accused with the following modifications—
 >   - (i) in subsection (1)(a), the reference to a child witness or a deemed vulnerable witness is to be read as if it were a reference to the accused,
@@ -546,24 +546,24 @@ The short title of this Act is the Vulnerable Witnesses (Criminal Evidence) (Sco
 
 ## Annotations
 
-[^key-a38d4fa577e0ee269582d5de08174ab3]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/8/section/1) in force at 20.1.2020 for specified purposes by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/392/regulation/3))
+[^c-a38d4fa577e0ee269582d5de08174ab3]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/8/section/1) in force at 20.1.2020 for specified purposes by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/392/regulation/3))
 
-[^key-e025cefcf50b958952829cb2010df354]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/8/section/1) in force at 30.3.2026 for specified purposes by [S.S.I. 2026/136](https://www.legislation.gov.uk/ssi/2026/136), [reg. 2](https://www.legislation.gov.uk/ssi/2026/136/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/136/regulation/3))
+[^c-e025cefcf50b958952829cb2010df354]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2019/8/section/1) in force at 30.3.2026 for specified purposes by [S.S.I. 2026/136](https://www.legislation.gov.uk/ssi/2026/136), [reg. 2](https://www.legislation.gov.uk/ssi/2026/136/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/136/regulation/3))
 
-[^key-6510b55a609696b06c67b4e9014f3d51]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/8/section/2) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
+[^c-6510b55a609696b06c67b4e9014f3d51]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2019/8/section/2) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
 
-[^key-b7e7dd9e5a4fbd71e89afaae8c937bf2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/8/section/4) in force at 20.1.2020 for specified purposes by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
+[^c-b7e7dd9e5a4fbd71e89afaae8c937bf2]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2019/8/section/4) in force at 20.1.2020 for specified purposes by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
 
-[^key-9e64a9fbdb0aeeb271895aca9c1b3528]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/8/section/5) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/392/regulation/4))
+[^c-9e64a9fbdb0aeeb271895aca9c1b3528]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2019/8/section/5) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/392/regulation/4))
 
-[^key-005edaf5fc29ddd36bb62b92ca9ad394]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/8/section/6) in force at 27.6.2025 by [S.S.I. 2025/179](https://www.legislation.gov.uk/ssi/2025/179), [reg. 2](https://www.legislation.gov.uk/ssi/2025/179/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/179/regulation/3))
+[^c-005edaf5fc29ddd36bb62b92ca9ad394]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2019/8/section/6) in force at 27.6.2025 by [S.S.I. 2025/179](https://www.legislation.gov.uk/ssi/2025/179), [reg. 2](https://www.legislation.gov.uk/ssi/2025/179/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/179/regulation/3))
 
-[^key-09ac345f9195e6e4d3bddc71e1466ca7]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/8/section/7) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
+[^c-09ac345f9195e6e4d3bddc71e1466ca7]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2019/8/section/7) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
 
-[^key-4496fc2df483b1c4cd6505109b346602]: Commencement: S. 8 in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
+[^c-4496fc2df483b1c4cd6505109b346602]: Commencement: S. 8 in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
 
-[^key-6d1da08a49482793e5246d62dc4b2db0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/8/section/9) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
+[^c-6d1da08a49482793e5246d62dc4b2db0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2019/8/section/9) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
 
-[^key-f221f602b7b494cbd655f4cf921a41e7]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/asp/2019/8/section/10/1) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
+[^c-f221f602b7b494cbd655f4cf921a41e7]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/asp/2019/8/section/10/1) in force at 20.1.2020 by [S.S.I. 2019/392](https://www.legislation.gov.uk/ssi/2019/392), [reg. 2](https://www.legislation.gov.uk/ssi/2019/392/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/392/schedule)
 
-[^key-62a55f24cd0e9e601bc7b8122ee300bf]: Commencement: [S. 10(4)](https://www.legislation.gov.uk/asp/2019/8/section/10/4) in force at 27.6.2025 by [S.S.I. 2025/179](https://www.legislation.gov.uk/ssi/2025/179), [reg. 2](https://www.legislation.gov.uk/ssi/2025/179/regulation/2)
+[^c-62a55f24cd0e9e601bc7b8122ee300bf]: Commencement: [S. 10(4)](https://www.legislation.gov.uk/asp/2019/8/section/10/4) in force at 27.6.2025 by [S.S.I. 2025/179](https://www.legislation.gov.uk/ssi/2025/179), [reg. 2](https://www.legislation.gov.uk/ssi/2025/179/regulation/2)

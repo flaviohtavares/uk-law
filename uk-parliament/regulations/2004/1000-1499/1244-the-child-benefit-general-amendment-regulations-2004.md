@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Child Benefit (General) (Amendment) Regulations 2004 (revoked)[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]
+The Child Benefit (General) (Amendment) Regulations 2004 (revoked)[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st May 2004
 
-[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]
+## 1. Citation, commencement and effect[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Child Benefit (General) Regulations 2003[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]
+## 2. Amendment of the Child Benefit (General) Regulations 2003[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3eb0f3e9c1ae905ce6a17f139f9f3408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3eb0f3e9c1ae905ce6a17f139f9f3408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3eb0f3e9c1ae905ce6a17f139f9f3408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3eb0f3e9c1ae905ce6a17f139f9f3408] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3eb0f3e9c1ae905ce6a17f139f9f3408]: Textual amendment: Regulations revoked (10.4.2006) by [The Child Benefit (General) Regulations 2006 (S.I. 2006/223)](https://www.legislation.gov.uk/uksi/2006/223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2006/223/regulation/40)
+[^c-3eb0f3e9c1ae905ce6a17f139f9f3408]: Textual amendment: Regulations revoked (10.4.2006) by [The Child Benefit (General) Regulations 2006 (S.I. 2006/223)](https://www.legislation.gov.uk/uksi/2006/223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/223/regulation/1/1), [40](https://www.legislation.gov.uk/uksi/2006/223/regulation/40)

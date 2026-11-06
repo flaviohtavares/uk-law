@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. The applicable amount[^key-b0f4eb3f0672e8b0821a3f299f383332]
+## 11. The applicable amount[^c-b0f4eb3f0672e8b0821a3f299f383332]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0f4eb3f0672e8b0821a3f299f383332]: Commencement: Reg. 11 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-b0f4eb3f0672e8b0821a3f299f383332]: Commencement: Reg. 11 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

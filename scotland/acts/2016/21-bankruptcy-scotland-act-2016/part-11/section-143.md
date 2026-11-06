@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Debtor not traced: subsequent debtor contact[^key-b404f651b3893a63712d82ef3e792c5f]
+## 143. Debtor not traced: subsequent debtor contact[^c-b404f651b3893a63712d82ef3e792c5f]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b404f651b3893a63712d82ef3e792c5f]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2016/21/section/143) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b404f651b3893a63712d82ef3e792c5f]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2016/21/section/143) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

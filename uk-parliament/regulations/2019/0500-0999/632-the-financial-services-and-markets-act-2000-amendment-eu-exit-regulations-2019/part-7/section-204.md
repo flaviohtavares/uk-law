@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Revocation of transitional directions[^key-7984bfc109581243484be5d3a3432df1]
+## 204. Revocation of transitional directions[^c-7984bfc109581243484be5d3a3432df1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7984bfc109581243484be5d3a3432df1]: Commencement: Reg. 204 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-7984bfc109581243484be5d3a3432df1]: Commencement: Reg. 204 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)

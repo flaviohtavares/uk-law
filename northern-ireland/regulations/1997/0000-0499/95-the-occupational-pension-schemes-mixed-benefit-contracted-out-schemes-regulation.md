@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 146 and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-46eb1e205dbf5f6f9e83f80815ebce59]
+## 1. Citation, commencement and interpretation[^c-46eb1e205dbf5f6f9e83f80815ebce59]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Mixed Benefit Contracted-out Schemes) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -70,7 +70,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - (a) any reference to a numbered section is a reference to the section of the Pension Schemes Act bearing that number; and
 - (b) any reference to a numbered Article is a reference to the Article of the Pensions (Northern Ireland) Order 1995 bearing that number.
 
-## 2. Parts of a relevant scheme to be treated as separate schemes for contracting-out purposes[^key-ffa5aaeab691b3ea4dedd6be7ac99bd4]
+## 2. Parts of a relevant scheme to be treated as separate schemes for contracting-out purposes[^c-ffa5aaeab691b3ea4dedd6be7ac99bd4]
 
 (1) Subject to paragraph (4), if the condition specified in paragraph (2) is satisfied, a relevant scheme is to be treated for the purposes of Part III of the Pension Schemes Act as if the separate parts of the scheme were separate schemes.
 
@@ -93,7 +93,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (5) For the purposes of any regulations made under Part III of the Pension Schemes Act, a relevant scheme is also to be treated as if the separate parts of the scheme were separate schemes, subject to the modifications to that Part provided for in paragraph (4) and any modifications to such regulations provided for in regulations 3 and 4.
 
-## 3. Modification of the Contracting-out Regulations[^key-01981785408d63df7990c0be8fee8b2e]
+## 3. Modification of the Contracting-out Regulations[^c-01981785408d63df7990c0be8fee8b2e]
 
 (1) The Contracting-out Regulations are modified in relation to the separate parts of a relevant scheme in accordance with the following provisions of this regulation.
 
@@ -150,7 +150,7 @@ the trustees must, within 5 weeks of the date of the transfer payment or of the 
 
 (14) In regulation 72 (transitional requirements as to sufficiency of resources of salary related schemes) references to the resources and liabilities of a scheme are to be read as references to the resources and liabilities of the relevant scheme.
 
-## 4. Transfer of guaranteed minimum pensions, section 5(2B) rights and protected rights between parts of a relevant scheme[^key-c3329f1fd0db836754b5a0d78be99054]
+## 4. Transfer of guaranteed minimum pensions, section 5(2B) rights and protected rights between parts of a relevant scheme[^c-c3329f1fd0db836754b5a0d78be99054]
 
 (1) The following Regulations are to be modified in relation to the separate parts of a relevant scheme in accordance with paragraph (2)—
 
@@ -167,7 +167,7 @@ the trustees must, within 5 weeks of the date of the transfer payment or of the 
 - (b) the earner has been notified in writing of the amount of that cash equivalent; and
 - (c) in a case where the transfer payment is in respect of guaranteed minimum pensions or section 5(2B) rights, that amount has not been reduced since he was so notified.
 
-## 5. Transitional arrangements for the certification of relevant schemes which were formerly contracted-out money purchase schemes[^key-a85451c5ac746f04cca5a8e8842fce42]
+## 5. Transitional arrangements for the certification of relevant schemes which were formerly contracted-out money purchase schemes[^c-a85451c5ac746f04cca5a8e8842fce42]
 
 In the case of a scheme which, immediately before the 6th April 1997 or at any time during the period beginning with that day and ending on 5th April 1998, is a money purchase contracted-out scheme, any variation or issue of a contracting-out certificate in the event of that scheme becoming a relevant scheme may not have effect before that period has expired.
 
@@ -199,7 +199,7 @@ The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S
 
 [^f00001]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-46eb1e205dbf5f6f9e83f80815ebce59]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
+[^c-46eb1e205dbf5f6f9e83f80815ebce59]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1996 No. 493](https://www.legislation.gov.uk/nisr/1996/493)
 
@@ -207,7 +207,7 @@ The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ffa5aaeab691b3ea4dedd6be7ac99bd4]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
+[^c-ffa5aaeab691b3ea4dedd6be7ac99bd4]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
 
 [^f00005]: Footnote: Section 5(2) was substituted by Article 133(3) of the Pensions (Northern Ireland) Order 1995 and section 5(3) is amended by Article 133(4) of, and paragraph 17 of Schedule 3 to, that Order
 
@@ -221,9 +221,9 @@ The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S
 
 [^f00010]: Footnote: Section 53(4) is amended by paragraph 14 of Schedule 3 to the Pensions (Northern Ireland) Order 1995; section 56(4) is amended by paragraph 46(*b*) of Schedule 3 to that Order and section 57(8) is amended by paragraph 47(*b*) of Schedule 3 to that Order
 
-[^key-01981785408d63df7990c0be8fee8b2e]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
+[^c-01981785408d63df7990c0be8fee8b2e]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
 
-[^key-c3329f1fd0db836754b5a0d78be99054]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
+[^c-c3329f1fd0db836754b5a0d78be99054]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509)
 
@@ -231,4 +231,4 @@ The Pensions (1995 Order) (Commencement No. 2) Order (Northern Ireland) 1996 ([S
 
 [^f00013]: Footnote: Section 93 was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-a85451c5ac746f04cca5a8e8842fce42]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)
+[^c-a85451c5ac746f04cca5a8e8842fce42]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/95/regulation/1/1)

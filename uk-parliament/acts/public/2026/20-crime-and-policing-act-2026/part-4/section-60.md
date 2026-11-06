@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Offences relating to notifications[^key-76e31c62c1e5730b01d7fc2b1381c046]
+## 60. Offences relating to notifications[^c-76e31c62c1e5730b01d7fc2b1381c046]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e31c62c1e5730b01d7fc2b1381c046]: Commencement: S. 60 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-76e31c62c1e5730b01d7fc2b1381c046]: Commencement: S. 60 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

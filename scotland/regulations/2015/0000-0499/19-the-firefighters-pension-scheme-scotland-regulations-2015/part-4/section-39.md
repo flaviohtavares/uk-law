@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Account to specify amount of added pension[^key-ec631ed9ba1b414c94e848f773b83504]
+## 39. Account to specify amount of added pension[^c-ec631ed9ba1b414c94e848f773b83504]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec631ed9ba1b414c94e848f773b83504]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2015/19/regulation/39) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-ec631ed9ba1b414c94e848f773b83504]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2015/19/regulation/39) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

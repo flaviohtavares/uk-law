@@ -44,17 +44,17 @@ Coming into force
 
 22nd November 2012
 
-The Secretary of State makes the following Regulations in exercise of the powers conferred by paragraphs 7 and 8 of Schedule 5 and paragraphs 9 and 10 of Schedule 8 to the Police Reform and Social Responsibility Act 2011[^f00001].[^key-747756c441b140f04efc0b1c9430da2e][^key-4eb7d4d293b1da6d38de2b3dce14b985][^key-f4e53219280c1af69416c1decfc07217][^key-d8a53ee776e9158c8edf5d3d4c83236d]
+The Secretary of State makes the following Regulations in exercise of the powers conferred by paragraphs 7 and 8 of Schedule 5 and paragraphs 9 and 10 of Schedule 8 to the Police Reform and Social Responsibility Act 2011[^f00001].[^c-747756c441b140f04efc0b1c9430da2e][^c-4eb7d4d293b1da6d38de2b3dce14b985][^c-f4e53219280c1af69416c1decfc07217][^c-d8a53ee776e9158c8edf5d3d4c83236d]
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-eac183449f67ea21915540fe0a88ecf3]
+### 1. Citation, commencement and extent[^c-eac183449f67ea21915540fe0a88ecf3]
 
 (1) These Regulations may be cited as the Police and Crime Panels (Precepts and Chief Constable Appointments) Regulations 2012 and come into force on 22nd November 2012.
 
 (2) These Regulations extend to England and Wales.
 
-### 2. Interpretation[^key-92121b46419ebb035660e1d9997464c0]
+### 2. Interpretation[^c-92121b46419ebb035660e1d9997464c0]
 
 In these Regulations—
 
@@ -66,42 +66,42 @@ In these Regulations—
 
 ## PART 2 — Precepts
 
-### 3. Notification of proposed precept[^key-231c10133215d0113d86bf379b8d9be3]
+### 3. Notification of proposed precept[^c-231c10133215d0113d86bf379b8d9be3]
 
 The police and crime commissioner shall comply with the duty under paragraph 2 of Schedule 5 (commissioner to notify panel of proposed precept) by 1st February of the relevant financial year.
 
-### 4. Report on proposed precept[^key-2b0d1f24b0ad930c6d9ad74075dcac6b]
+### 4. Report on proposed precept[^c-2b0d1f24b0ad930c6d9ad74075dcac6b]
 
 (1) The panel shall comply with the duty under paragraph 3 of Schedule 5 (panel to review proposed precept) by 8th February of the relevant financial year.
 
-(2)[^key-13e6f7b12a63afe056553bc90cfca603][^key-812bd947dce27f430fa4e8a65ffe3774] Where the panel exercises the power under paragraph 4 of Schedule 5 (panel’s power to veto precept) but fails to act in accordance with paragraph (1) of this regulation, the end of the scrutiny process is reached and, notwithstanding the veto, the police and crime commissioner may issue the proposed precept as the precept for the financial year.
+(2)[^c-13e6f7b12a63afe056553bc90cfca603][^c-812bd947dce27f430fa4e8a65ffe3774] Where the panel exercises the power under paragraph 4 of Schedule 5 (panel’s power to veto precept) but fails to act in accordance with paragraph (1) of this regulation, the end of the scrutiny process is reached and, notwithstanding the veto, the police and crime commissioner may issue the proposed precept as the precept for the financial year.
 
-### 5. Veto: police and crime commissioner’s response[^key-500fb542574153af8597551ace51dcd1]
+### 5. Veto: police and crime commissioner’s response[^c-500fb542574153af8597551ace51dcd1]
 
 (1) Where the panel exercises the power under paragraph 4 of Schedule 5, the police and crime commissioner shall comply with the duty under paragraph 6(3) of that Schedule (next steps if veto) by 15th February of the relevant financial year.
 
-(2)[^key-32c868b92d7eb2975fb0007a12bf22ce][^key-d5cf6ac48563f3e3c59abec430c39914] The police and crime commissioner shall, in the response given under paragraph 6(3)(b) of Schedule 5, notify the police and crime panel of the precept that he now proposes to issue (“the revised precept”).
+(2)[^c-32c868b92d7eb2975fb0007a12bf22ce][^c-d5cf6ac48563f3e3c59abec430c39914] The police and crime commissioner shall, in the response given under paragraph 6(3)(b) of Schedule 5, notify the police and crime panel of the precept that he now proposes to issue (“the revised precept”).
 
 (3) Where the panel’s report under paragraph 3(2) of Schedule 5—
 
 - (a) indicates that the panel vetoes the proposed precept because it is too high, the revised precept shall be lower than the proposed precept;
 - (b) indicates that the panel vetoes the proposed precept because it is too low, the revised precept shall be higher than the proposed precept.
 
-### 6. Panel’s review of revised precept[^key-086e5d32131efaec2706d2a5f644118a]
+### 6. Panel’s review of revised precept[^c-086e5d32131efaec2706d2a5f644118a]
 
 (1) On receiving a response containing notification of a revised precept under regulation 5(2) the panel shall, by 22nd February of the relevant financial year—
 
 - (a) review the revised precept; and
 - (b) make a report to the police and crime commissioner on the revised precept (“the second report”).
 
-(2)[^key-4c6b1d375cde38b874b52e4329ac85a3][^key-86d091212fdd9f989f5fd616db1428f3] The second report may—
+(2)[^c-4c6b1d375cde38b874b52e4329ac85a3][^c-86d091212fdd9f989f5fd616db1428f3] The second report may—
 
 - (a) indicate whether the panel accepts or rejects the revised precept (but rejection does not prevent the police and crime commissioner from issuing the revised precept as the precept for the financial year); and
 - (b) make recommendations, including recommendations as to the precept that should be issued for the financial year.
 
 (3) Where the panel fails to act in accordance with paragraph (1), the end of the scrutiny process is reached and the police and crime commissioner may issue the revised precept as the precept for the financial year.
 
-### 7. Police and crime commissioner’s consideration of second report[^key-7c325ec03b94717916252d0be3daa98d][^key-81b3aef6cca592e63ec0627a2f269f84][^key-107c2b189d5b133d605b56e74290bcd3]
+### 7. Police and crime commissioner’s consideration of second report[^c-7c325ec03b94717916252d0be3daa98d][^c-81b3aef6cca592e63ec0627a2f269f84][^c-107c2b189d5b133d605b56e74290bcd3]
 
 On receiving the panel’s second report the police and crime commissioner shall, by 1st March of the relevant financial year—
 
@@ -109,7 +109,7 @@ On receiving the panel’s second report the police and crime commissioner shall
 - (b) give the panel a response to the second report (and any such recommendations); and
 - (c) publish the response.
 
-### 8. Issuing precept[^key-c5379c5c2519a79f93a1bfa298ec5c40][^key-011782d7aeb9046a2ad72145c9c9e84e][^key-a7fd94845ba0c5704275207956355187]
+### 8. Issuing precept[^c-c5379c5c2519a79f93a1bfa298ec5c40][^c-011782d7aeb9046a2ad72145c9c9e84e][^c-a7fd94845ba0c5704275207956355187]
 
 (1) In a case other than one to which regulation 4(2) or 6(3) applies, the end of the scrutiny process is reached when the police and crime commissioner gives the panel the response mentioned in regulation 7(b).
 
@@ -127,7 +127,7 @@ unless it would be in accordance with a recommendation made by the panel in the 
 
 ## PART 3 — Chief Constable Appointments
 
-### 9. Veto: proposal of reserve candidate[^key-b9918b7d42e9c70a27b7a705c8317cb0]
+### 9. Veto: proposal of reserve candidate[^c-b9918b7d42e9c70a27b7a705c8317cb0]
 
 (1) Where the panel exercises the power under paragraph 5 of Schedule 8 (power to veto proposed appointment) the police and crime commissioner shall propose another person for appointment as chief constable (“a reserve candidate”).
 
@@ -138,7 +138,7 @@ unless it would be in accordance with a recommendation made by the panel in the 
 - (c) why the reserve candidate satisfies those criteria; and
 - (d) the terms and conditions on which the reserve candidate is to be appointed.
 
-### 10. Panel’s consideration of reserve candidate[^key-0c85269d90a2211f0abd0249f3392afb]
+### 10. Panel’s consideration of reserve candidate[^c-0c85269d90a2211f0abd0249f3392afb]
 
 (1) Within the period of three weeks beginning with the day on which the panel receives notification under regulation 9(2) the panel shall—
 
@@ -153,14 +153,14 @@ unless it would be in accordance with a recommendation made by the panel in the 
 
 (5) In calculating the period of three weeks for the purpose of paragraph (1), any relevant post-election period within the meaning of paragraph 4(10) of Schedule 8 is to be ignored.
 
-### 11. Police and crime commissioner’s consideration of report[^key-d1353c423c71aa20f7a67acb2ca7d24f]
+### 11. Police and crime commissioner’s consideration of report[^c-d1353c423c71aa20f7a67acb2ca7d24f]
 
 On receiving a report under regulation 10(1)(b) the commissioner shall—
 
 - (a) have regard to the report (including the recommendation in the report); and
 - (b) notify the panel of his decision as to whether he accepts or rejects the recommendation.
 
-### 12. Appointment of chief constable[^key-b7d3b14728a8a892ffbc458b71bc8def]
+### 12. Appointment of chief constable[^c-b7d3b14728a8a892ffbc458b71bc8def]
 
 (1) The end of the confirmation process is reached when the police and crime commissioner gives the notification mentioned in regulation 11(b).
 
@@ -205,54 +205,54 @@ On receiving the police and crime panel’s report, regulation 11 requires the p
 
 [^f00001]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13).
 
-[^key-747756c441b140f04efc0b1c9430da2e]: Modification: Regulations applied (with modifications) (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
+[^c-747756c441b140f04efc0b1c9430da2e]: Modification: Regulations applied (with modifications) (E.) (1.10.2017) by [The Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017 (S.I. 2017/863)](https://www.legislation.gov.uk/uksi/2017/863), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/863/article/1/1), [28](https://www.legislation.gov.uk/uksi/2017/863/article/28), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/863/schedule/1)
 
-[^key-4eb7d4d293b1da6d38de2b3dce14b985]: Modification: Regulations applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1/2), [Sch. 5 para. 55](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/55)
+[^c-4eb7d4d293b1da6d38de2b3dce14b985]: Modification: Regulations applied (with modifications) (E.) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1/2), [Sch. 5 para. 55](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/55)
 
-[^key-f4e53219280c1af69416c1decfc07217]: Modification: Regulations applied (as modified by [S.I. 2017/863](https://www.legislation.gov.uk/uksi/2017/863)) (E.) (1.1.2023) by [The Police, Fire and Crime Commissioner for Cumbria (Fire and Rescue Authority) Order 2022 (S.I. 2022/1230)](https://www.legislation.gov.uk/uksi/2022/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1230/article/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2022/1230/article/11/3)
+[^c-f4e53219280c1af69416c1decfc07217]: Modification: Regulations applied (as modified by [S.I. 2017/863](https://www.legislation.gov.uk/uksi/2017/863)) (E.) (1.1.2023) by [The Police, Fire and Crime Commissioner for Cumbria (Fire and Rescue Authority) Order 2022 (S.I. 2022/1230)](https://www.legislation.gov.uk/uksi/2022/1230), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1230/article/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2022/1230/article/11/3)
 
-[^key-d8a53ee776e9158c8edf5d3d4c83236d]: Modification: Regulations applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/54)
+[^c-d8a53ee776e9158c8edf5d3d4c83236d]: Modification: Regulations applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 54](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/54)
 
-[^key-eac183449f67ea21915540fe0a88ecf3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-eac183449f67ea21915540fe0a88ecf3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-92121b46419ebb035660e1d9997464c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2271/regulation/2) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-92121b46419ebb035660e1d9997464c0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/2271/regulation/2) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-231c10133215d0113d86bf379b8d9be3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2271/regulation/3) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-231c10133215d0113d86bf379b8d9be3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/2271/regulation/3) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-2b0d1f24b0ad930c6d9ad74075dcac6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2271/regulation/4) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-2b0d1f24b0ad930c6d9ad74075dcac6b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/2271/regulation/4) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-13e6f7b12a63afe056553bc90cfca603]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/4/2) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/2)
+[^c-13e6f7b12a63afe056553bc90cfca603]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/4/2) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(2)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/2)
 
-[^key-812bd947dce27f430fa4e8a65ffe3774]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/4/2) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/2)
+[^c-812bd947dce27f430fa4e8a65ffe3774]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/4/2) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/2)
 
-[^key-500fb542574153af8597551ace51dcd1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/2271/regulation/5) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-500fb542574153af8597551ace51dcd1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/2271/regulation/5) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-32c868b92d7eb2975fb0007a12bf22ce]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/5/2) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/3)
+[^c-32c868b92d7eb2975fb0007a12bf22ce]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/5/2) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(3)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/3)
 
-[^key-d5cf6ac48563f3e3c59abec430c39914]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/5/2) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/3)
+[^c-d5cf6ac48563f3e3c59abec430c39914]: Modification: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/5/2) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(3)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/3)
 
-[^key-086e5d32131efaec2706d2a5f644118a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2271/regulation/6) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-086e5d32131efaec2706d2a5f644118a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/2271/regulation/6) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-4c6b1d375cde38b874b52e4329ac85a3]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/6/2) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/4)
+[^c-4c6b1d375cde38b874b52e4329ac85a3]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/6/2) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(4)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/4)
 
-[^key-86d091212fdd9f989f5fd616db1428f3]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/6/2) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/4)
+[^c-86d091212fdd9f989f5fd616db1428f3]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/6/2) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(4)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/4)
 
-[^key-7c325ec03b94717916252d0be3daa98d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2271/regulation/7) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-7c325ec03b94717916252d0be3daa98d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2271/regulation/7) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-81b3aef6cca592e63ec0627a2f269f84]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2271/regulation/7) applied (with modifications) (29.3.2018) by [S.I. 2017/470](https://www.legislation.gov.uk/uksi/2017/470), [Sch. 1 para. 55(4A)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/4A) (as inserted by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/c))
+[^c-81b3aef6cca592e63ec0627a2f269f84]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2271/regulation/7) applied (with modifications) (29.3.2018) by [S.I. 2017/470](https://www.legislation.gov.uk/uksi/2017/470), [Sch. 1 para. 55(4A)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/4A) (as inserted by [The Greater Manchester Combined Authority (Amendment) Order 2018 (S.I. 2018/444)](https://www.legislation.gov.uk/uksi/2018/444), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/444/article/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2018/444/article/4/3/c))
 
-[^key-107c2b189d5b133d605b56e74290bcd3]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2271/regulation/7) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(5)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/5)
+[^c-107c2b189d5b133d605b56e74290bcd3]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/2271/regulation/7) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(5)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/5)
 
-[^key-c5379c5c2519a79f93a1bfa298ec5c40]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2271/regulation/8) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-c5379c5c2519a79f93a1bfa298ec5c40]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2271/regulation/8) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-011782d7aeb9046a2ad72145c9c9e84e]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2271/regulation/8) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(5)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/5)
+[^c-011782d7aeb9046a2ad72145c9c9e84e]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2271/regulation/8) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 55(5)](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/55/5)
 
-[^key-a7fd94845ba0c5704275207956355187]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2271/regulation/8) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(6)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/6)
+[^c-a7fd94845ba0c5704275207956355187]: Modification: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/2271/regulation/8) modified (E.) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 54(6)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/54/6)
 
-[^key-b9918b7d42e9c70a27b7a705c8317cb0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2271/regulation/9) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-b9918b7d42e9c70a27b7a705c8317cb0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2271/regulation/9) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-0c85269d90a2211f0abd0249f3392afb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2271/regulation/10) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-0c85269d90a2211f0abd0249f3392afb]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2271/regulation/10) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-d1353c423c71aa20f7a67acb2ca7d24f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2271/regulation/11) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-d1353c423c71aa20f7a67acb2ca7d24f]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/2271/regulation/11) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
 
-[^key-b7d3b14728a8a892ffbc458b71bc8def]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2271/regulation/12) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)
+[^c-b7d3b14728a8a892ffbc458b71bc8def]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/2271/regulation/12) in force at 22.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2271/regulation/1/1)

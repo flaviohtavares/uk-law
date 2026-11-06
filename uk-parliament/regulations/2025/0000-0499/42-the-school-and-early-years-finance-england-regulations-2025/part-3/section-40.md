@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Pupils permanently excluded from, or leaving, maintained schools[^key-a5f4fd9c8bcec89e004f9f042e1ac940]
+## 40. Pupils permanently excluded from, or leaving, maintained schools[^c-a5f4fd9c8bcec89e004f9f042e1ac940]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5f4fd9c8bcec89e004f9f042e1ac940]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/42/regulation/40) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-a5f4fd9c8bcec89e004f9f042e1ac940]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2025/42/regulation/40) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00096]: Footnote: [S.I. 2012/1033](https://www.legislation.gov.uk/uksi/2012/1033). Regulation 25 was amended by [S.I. 2022/788](https://www.legislation.gov.uk/uksi/2022/788).

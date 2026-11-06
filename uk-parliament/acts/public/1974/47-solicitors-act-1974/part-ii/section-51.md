@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Procedure upon certain applications to High Court.[^c13350941][^key-cce208627fe5b38c713282399e64f368]
+## 51. Procedure upon certain applications to High Court.[^c13350941][^c-cce208627fe5b38c713282399e64f368]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c13350941]: Modification: [S. 51](https://www.legislation.gov.uk/ukpga/1974/47/section/51) extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/10) (as amended (1.7.2009) by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(10)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/10))
 
-[^key-cce208627fe5b38c713282399e64f368]: Modification: [S. 51](https://www.legislation.gov.uk/ukpga/1974/47/section/51) applied (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-cce208627fe5b38c713282399e64f368]: Modification: [S. 51](https://www.legislation.gov.uk/ukpga/1974/47/section/51) applied (with modifications) (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)

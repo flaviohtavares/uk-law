@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 245(2), 246(1) and 325 of the Mental Health (Care and Treatment) (Scotland) Act 2003[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-033e7e5b0c0988adebccbee04f91034b]
+## 1. Citation and commencement[^c-033e7e5b0c0988adebccbee04f91034b]
 
 These Regulations may be cited as the Mental Health (Certificates for Medical Treatment) (Scotland) Amendment Regulations 2008 and come into force on 12th October 2008.
 
-## 2. Amendment of the Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2005[^key-07d4d868f617e07f986fc641fac37510]
+## 2. Amendment of the Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2005[^c-07d4d868f617e07f986fc641fac37510]
 
 In Schedule 2 of the Mental Health (Certificates for Medical Treatment) (Scotland) Regulations 2005[^f00002]–
 
@@ -68,7 +68,7 @@ Edinburgh
 
 18th September 2008
 
-## SCHEDULE[^key-4319d6b4edd75d044ad9ecfb05707258]
+## SCHEDULE[^c-4319d6b4edd75d044ad9ecfb05707258]
 
 Regulation 2
 
@@ -88,10 +88,10 @@ These Regulations substitute the prescribed contents of forms T1, T2 and T3 whic
 
 [^f00001]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
-[^key-033e7e5b0c0988adebccbee04f91034b]: Commencement: Reg. 1 in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
+[^c-033e7e5b0c0988adebccbee04f91034b]: Commencement: Reg. 1 in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
 
-[^key-07d4d868f617e07f986fc641fac37510]: Commencement: Reg. 2 in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
+[^c-07d4d868f617e07f986fc641fac37510]: Commencement: Reg. 2 in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2005/443](https://www.legislation.gov.uk/ssi/2005/443).
 
-[^key-4319d6b4edd75d044ad9ecfb05707258]: Commencement: Sch. in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)
+[^c-4319d6b4edd75d044ad9ecfb05707258]: Commencement: Sch. in force at 12.10.2008, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/316/regulation/1)

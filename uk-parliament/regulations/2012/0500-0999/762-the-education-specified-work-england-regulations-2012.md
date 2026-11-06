@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 133, 134, 145 and 210(7) of the Education Act 2002[^f00001]:
 
-## 1. Citation, and commencement and application[^key-f40c10df14c87de0c9c1530282b58476]
+## 1. Citation, and commencement and application[^c-f40c10df14c87de0c9c1530282b58476]
 
 (1) These Regulations may be cited as the Education (Specified Work) (England) Regulations 2012 and come into force on 1st April 2012.
 
 (2) These Regulations apply in relation to England.
 
-## 2. Interpretation[^key-4c16a39122a943559993d9200ab543a9]
+## 2. Interpretation[^c-4c16a39122a943559993d9200ab543a9]
 
 In these Regulations—
 
@@ -61,7 +61,7 @@ In these Regulations—
 - “the 2003 Qualifications Regulations” means the Education (School Teachers’ Qualifications) (England) Regulations 2003[^f00004];
 - “employment-based teacher training scheme” means a scheme established by the Secretary of State under paragraph 19 of Schedule 2 to the Education (Teachers’ Qualifications and Health Standards) (England) Regulations 1999[^f00005] or paragraph 10 of Schedule 2 to the 2003 Qualifications Regulations.
 
-## 3. Requirement to be qualified[^key-6c02a72200603f52741a1133b829cf91]
+## 3. Requirement to be qualified[^c-6c02a72200603f52741a1133b829cf91]
 
 (1) Subject to regulation 4, a person may not carry out specified work in a school unless that person—
 
@@ -73,15 +73,15 @@ In these Regulations—
 - (a) in exercise of—
   - (i) her right to maternity leave conferred by section 71 or 73 of the ERA 1996[^f00007] or her contract of employment and has the right to return to work by virtue of either of those sections or her contract of employment;
   - (ii) the right to parental leave conferred by section 76 of the ERA 1996;
-  - (iii) the right to paternity leave conferred by section 80A, [^key-e59048f8d4433a02c982f03f379262a5]... 80B or [^key-e59048f8d4433a02c982f03f379262a5]... of the ERA 1996[^f00008]; or
-  - (iv) the right to adoption leave conferred by section 75A or 75B of the ERA 1996[^f00009]; [^key-d6242314a99bb99a5e6c75b5efe70f91]...
-  - (v)[^key-b97fe82d938394741a057b321ce65c73] the right to shared parental leave conferred by section 75E or 75G of the ERA 1996;
-  - (vi)[^key-e65e918dd12998de9b72161a97f862cb] the right to parental bereavement leave conferred by section 80EA of the ERA 1996; [^key-4112ea71c143d795d45b8df06b6f68a2]...
-  - (vii)[^key-8f35c82647443bb9cdaa975c6b606a89] the right to carer’s leave conferred by section 80J of the ERA 1996; [^key-17d317688b17099ef8cb400f426318b9]...
-  - (viii)[^key-88bbc857ccd2259aa43b62a01b32406c] the right to neonatal care leave conferred by section 80EF of the ERA 1996; or
+  - (iii) the right to paternity leave conferred by section 80A, [^c-e59048f8d4433a02c982f03f379262a5]... 80B or [^c-e59048f8d4433a02c982f03f379262a5]... of the ERA 1996[^f00008]; or
+  - (iv) the right to adoption leave conferred by section 75A or 75B of the ERA 1996[^f00009]; [^c-d6242314a99bb99a5e6c75b5efe70f91]...
+  - (v)[^c-b97fe82d938394741a057b321ce65c73] the right to shared parental leave conferred by section 75E or 75G of the ERA 1996;
+  - (vi)[^c-e65e918dd12998de9b72161a97f862cb] the right to parental bereavement leave conferred by section 80EA of the ERA 1996; [^c-4112ea71c143d795d45b8df06b6f68a2]...
+  - (vii)[^c-8f35c82647443bb9cdaa975c6b606a89] the right to carer’s leave conferred by section 80J of the ERA 1996; [^c-17d317688b17099ef8cb400f426318b9]...
+  - (viii)[^c-88bbc857ccd2259aa43b62a01b32406c] the right to neonatal care leave conferred by section 80EF of the ERA 1996; or
 - (b) because of her pregnancy.
 
-## 4. Qualified teachers: further provision[^key-3632b986986687540991adbd87356710]
+## 4. Qualified teachers: further provision[^c-3632b986986687540991adbd87356710]
 
 (1) This paragraph applies in the case of a teacher who—
 
@@ -90,7 +90,7 @@ In these Regulations—
 
 (2) On and after 1st September 2012 a teacher mentioned in sub-paragraph (1) may only carry out specified work in a school if the teacher has, before that date, obtained the consent of the Secretary of State.
 
-## 5. Specified work[^key-8b0e1e85f99f9d776c54bab7d684e267]
+## 5. Specified work[^c-8b0e1e85f99f9d776c54bab7d684e267]
 
 (1) Each of the following activities is specified work for the purposes of these Regulations—
 
@@ -101,7 +101,7 @@ In these Regulations—
 
 (2) In paragraph (1)(b) “delivering” includes delivery via distance learning or computer aided techniques.
 
-## 6. Revocations and saving[^key-47731cde1aa48cf869af5062298f2858]
+## 6. Revocations and saving[^c-47731cde1aa48cf869af5062298f2858]
 
 (1) The following instruments are revoked—
 
@@ -123,7 +123,7 @@ Department for Education
 
 Regulation 3
 
-### 1. Existing unqualified teachers in nursery classes and at nursery schools[^key-ddec8287b24fefb6be1d07c1066d51bf]
+### 1. Existing unqualified teachers in nursery classes and at nursery schools[^c-ddec8287b24fefb6be1d07c1066d51bf]
 
 (1) This paragraph applies in the case of—
 
@@ -134,7 +134,7 @@ who was permitted to be employed as a teacher by paragraph 4 of Schedule 4 to th
 
 (2) A person mentioned in sub-paragraph (1) may continue to carry out specified work in a school in that same capacity.
 
-### 2. Instructors with special qualifications or experience[^key-3b3f7ec26460d0b689d9a196a811ee71]
+### 2. Instructors with special qualifications or experience[^c-3b3f7ec26460d0b689d9a196a811ee71]
 
 (1) This paragraph applies in the case of a person appointed, or proposed to be appointed, to give instruction in any art or skill or in any subject or group of subjects (including any form of vocational training), where special qualifications or experience or both are required in order to carry out the specified work.
 
@@ -145,24 +145,24 @@ who was permitted to be employed as a teacher by paragraph 4 of Schedule 4 to th
   - (ii) the governing body acting with the consent of the local authority, in the case of a school which has a delegated budget; or
   - (iii) the governing body in the case of a special school not maintained by a local authority,
 
-  is satisfied as to that person’s qualifications or experience or both; [^key-8e0785cacdb38f769c7f98c8518c9114]...
-- (b)[^key-8e0785cacdb38f769c7f98c8518c9114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  is satisfied as to that person’s qualifications or experience or both; [^c-8e0785cacdb38f769c7f98c8518c9114]...
+- (b)[^c-8e0785cacdb38f769c7f98c8518c9114] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-19f292c6929fcfb5e05fc947f48d64e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-19f292c6929fcfb5e05fc947f48d64e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7c7e05a27024c6b01d2ffe237438a0b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7c7e05a27024c6b01d2ffe237438a0b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Overseas trained teachers[^key-3f0bb22a77cd9dac2306c482df65493a]
+### 3. Overseas trained teachers[^c-3f0bb22a77cd9dac2306c482df65493a]
 
 (1) This paragraph applies to a person who has successfully completed a programme of professional training for teachers in any country outside of the United Kingdom, which programme is recognised as such by the competent authority in that country.
 
 (2) A person mentioned in sub-paragraph (1) may carry out specified work in a school (other than a pupil referral unit) for a period of up to four years commencing on the day on which that person first carries out specified work in a school.
 
-### 4. Teacher trainees who have yet to pass the skills test[^key-619e585d52802b524d60580d25c5520c]
+### 4. Teacher trainees who have yet to pass the skills test[^c-619e585d52802b524d60580d25c5520c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Employment-based teacher training schemes[^key-f68ec868fbaad8a8c05da80d4b1b6b77]
+### 5. Employment-based teacher training schemes[^c-f68ec868fbaad8a8c05da80d4b1b6b77]
 
 (1) This paragraph applies to a person who is undertaking training for the purposes of a employment-based teacher training scheme.
 
@@ -172,7 +172,7 @@ who was permitted to be employed as a teacher by paragraph 4 of Schedule 4 to th
 - (b) that person ceases to undertake the scheme; or
 - (c) where the person is also a person mentioned in paragraph 3(1), the period specified in paragraph 3(2) expires, if that occurs first.
 
-### 6. Persons who may carry out specified work under supervision[^key-b281c68746eaf0a405905dbc36ec0da3]
+### 6. Persons who may carry out specified work under supervision[^c-b281c68746eaf0a405905dbc36ec0da3]
 
 (1) This paragraph applies to a person who carries out specified work in a school where—
 
@@ -180,7 +180,7 @@ who was permitted to be employed as a teacher by paragraph 4 of Schedule 4 to th
 - (b) the person is subject to the direction and supervision of a qualified teacher or nominated teacher in accordance with arrangements made by the head teacher of the school; and
 - (c) the head teacher is satisfied that the person has the skills, expertise and experience required to carry out specified work.
 
-(2) In this paragraph a “nominated teacher” means a person who is mentioned in paragraphs 2 or 3[^key-b73cc193d458d81e3b6470846af1a737] of this Schedule and who is nominated by the head teacher where the head teacher considers that appropriate in the circumstances.
+(2) In this paragraph a “nominated teacher” means a person who is mentioned in paragraphs 2 or 3[^c-b73cc193d458d81e3b6470846af1a737] of this Schedule and who is nominated by the head teacher where the head teacher considers that appropriate in the circumstances.
 
 (3) In determining whether the person mentioned in sub-paragraph (1) has the skills, expertise and experience required to carry out specified work in a school, the head teacher may have regard to—
 
@@ -205,9 +205,9 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32); section 133 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 134 was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and is amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), Schedule 2, paragraph 19(1) and (3) (not in force at the time of making these Regulations). Section 145 was amended by paragraph 24 of Schedule 14 to the Education Act [2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18) and is amended by paragraph 19(1) and (4) of Schedule 2, and paragraph 17 of Schedule 5, to the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) (not in force at the time of making these Regulations). For the meaning of “regulations” see section 212(1) of the Education Act 2002.
 
-[^key-f40c10df14c87de0c9c1530282b58476]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-f40c10df14c87de0c9c1530282b58476]: Commencement: Reg. 1 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-4c16a39122a943559993d9200ab543a9]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-4c16a39122a943559993d9200ab543a9]: Commencement: Reg. 2 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -217,39 +217,39 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00005]: Footnote: [S.I. 1999/2166](https://www.legislation.gov.uk/uksi/1999/2166), amended by [S.I. 2000/2704](https://www.legislation.gov.uk/uksi/2000/2704), [2001/1391](https://www.legislation.gov.uk/uksi/2001/1391), [2001/2896](https://www.legislation.gov.uk/uksi/2001/2896), [2001/3737](https://www.legislation.gov.uk/uksi/2001/3737), [2002/1434](https://www.legislation.gov.uk/uksi/2002/1434) and [2003/107](https://www.legislation.gov.uk/uksi/2003/107).
 
-[^key-6c02a72200603f52741a1133b829cf91]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-6c02a72200603f52741a1133b829cf91]: Commencement: Reg. 3 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
 [^f00006]: Footnote: As to status as a qualified teacher see section 132 of the Education Act 2002 and the Regulations made under that section ([S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662)).
 
 [^f00007]: Footnote: Section 71 was amended by paragraph 31, and section 73 by paragraph 32, of Schedule 1 to the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18) and both sections were amended by section 17 of the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22). The application of section 71 to a school governing body with a delegated budget was modified by article 3 of, and the Schedule to, [S.I. 2003/1964](https://www.legislation.gov.uk/uksi/2003/1964).
 
-[^key-e59048f8d4433a02c982f03f379262a5]: Textual amendment: Words in [reg. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/iii) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [25(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/25/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-e59048f8d4433a02c982f03f379262a5]: Textual amendment: Words in [reg. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/iii) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [25(a)](https://www.legislation.gov.uk/uksi/2014/3255/article/25/a) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
 
 [^f00008]: Footnote: Sections 80A and 80B were inserted by section 1 of the Employment Act 2002, and sections 80AA and 80BB were inserted by sections 3 and 4 respectively of the Work and Families Act [2006 (c. 18)](https://www.legislation.gov.uk/ukpga/2006/18).
 
 [^f00009]: Footnote: Sections 75A and 75B were inserted by section 3 of the Education Act 2002 and section 75A amended by paragraph 33, and section 75B amended by paragraph 34, of Schedule 1 to the Work and Families 2006.
 
-[^key-d6242314a99bb99a5e6c75b5efe70f91]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/26/2)
+[^c-d6242314a99bb99a5e6c75b5efe70f91]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/26/2)
 
-[^key-b97fe82d938394741a057b321ce65c73]: Textual amendment: [Reg. 3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/v) added (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/25/b)
+[^c-b97fe82d938394741a057b321ce65c73]: Textual amendment: [Reg. 3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/v) added (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2014/3255/article/25/b)
 
-[^key-e65e918dd12998de9b72161a97f862cb]: Textual amendment: [Reg. 3(2)(vi)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/vi) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/26/2)
+[^c-e65e918dd12998de9b72161a97f862cb]: Textual amendment: [Reg. 3(2)(vi)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/vi) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [26(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/26/2)
 
-[^key-4112ea71c143d795d45b8df06b6f68a2]: Textual amendment: Word in [reg. 3(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/vi) omitted (6.4.2024) by virtue of [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/4/2)
+[^c-4112ea71c143d795d45b8df06b6f68a2]: Textual amendment: Word in [reg. 3(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/vi) omitted (6.4.2024) by virtue of [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/4/2)
 
-[^key-8f35c82647443bb9cdaa975c6b606a89]: Textual amendment: [Reg. 3(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/vii) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/4/2)
+[^c-8f35c82647443bb9cdaa975c6b606a89]: Textual amendment: [Reg. 3(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/vii) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/4/2)
 
-[^key-17d317688b17099ef8cb400f426318b9]: Textual amendment: Word in [reg. 3(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/vii) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/16/2/a)
+[^c-17d317688b17099ef8cb400f426318b9]: Textual amendment: Word in [reg. 3(2)(a)(vii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/vii) omitted (6.4.2025) by virtue of [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/16/2/a)
 
-[^key-88bbc857ccd2259aa43b62a01b32406c]: Textual amendment: [Reg. 3(2)(a)(viii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/viii) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/16/2/b)
+[^c-88bbc857ccd2259aa43b62a01b32406c]: Textual amendment: [Reg. 3(2)(a)(viii)](https://www.legislation.gov.uk/uksi/2012/762/regulation/3/2/a/viii) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/16/2/b)
 
-[^key-3632b986986687540991adbd87356710]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-3632b986986687540991adbd87356710]: Commencement: Reg. 4 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1959/364](https://www.legislation.gov.uk/uksi/1959/364), amended by [S.I. 1968/1281](https://www.legislation.gov.uk/uksi/1968/1281), [1969/1777](https://www.legislation.gov.uk/uksi/1969/1777), [1971/342](https://www.legislation.gov.uk/uksi/1971/342), [1973/2021](https://www.legislation.gov.uk/uksi/1973/2021) and [1978/1144](https://www.legislation.gov.uk/uksi/1978/1144).
 
-[^key-8b0e1e85f99f9d776c54bab7d684e267]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-8b0e1e85f99f9d776c54bab7d684e267]: Commencement: Reg. 5 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-47731cde1aa48cf869af5062298f2858]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-47731cde1aa48cf869af5062298f2858]: Commencement: Reg. 6 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2003/1663](https://www.legislation.gov.uk/uksi/2003/1663).
 
@@ -257,22 +257,22 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00013]: Footnote: [S.I. 2008/1883](https://www.legislation.gov.uk/uksi/2008/1883).
 
-[^key-ddec8287b24fefb6be1d07c1066d51bf]: Commencement: Sch. para. 1 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-ddec8287b24fefb6be1d07c1066d51bf]: Commencement: Sch. para. 1 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-3b3f7ec26460d0b689d9a196a811ee71]: Commencement: Sch. para. 2 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-3b3f7ec26460d0b689d9a196a811ee71]: Commencement: Sch. para. 2 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-8e0785cacdb38f769c7f98c8518c9114]: Textual amendment: [Sch. para. 2(2)(b) and word](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/2/2/b) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/3/2)
+[^c-8e0785cacdb38f769c7f98c8518c9114]: Textual amendment: [Sch. para. 2(2)(b) and word](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/2/2/b) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/3/2)
 
-[^key-19f292c6929fcfb5e05fc947f48d64e2]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/2/3) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/3/2)
+[^c-19f292c6929fcfb5e05fc947f48d64e2]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/2/3) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/3/2)
 
-[^key-7c7e05a27024c6b01d2ffe237438a0b2]: Textual amendment: [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/2/4) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/3/2)
+[^c-7c7e05a27024c6b01d2ffe237438a0b2]: Textual amendment: [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/2/4) omitted (1.9.2012) by virtue of [The Education (School Teachers) (Qualifications and Specified Work) (Miscellaneous Amendments) (England) Regulations 2012 (S.I. 2012/1736)](https://www.legislation.gov.uk/uksi/2012/1736), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1736/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2012/1736/regulation/3/2)
 
-[^key-3f0bb22a77cd9dac2306c482df65493a]: Commencement: Sch. para. 3 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-3f0bb22a77cd9dac2306c482df65493a]: Commencement: Sch. para. 3 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-619e585d52802b524d60580d25c5520c]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/4) omitted (25.6.2020) by virtue of [The Teachers’ Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/476/regulation/4/a)
+[^c-619e585d52802b524d60580d25c5520c]: Textual amendment: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/4) omitted (25.6.2020) by virtue of [The Teachers’ Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/476/regulation/4/a)
 
-[^key-f68ec868fbaad8a8c05da80d4b1b6b77]: Commencement: Sch. para. 5 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-f68ec868fbaad8a8c05da80d4b1b6b77]: Commencement: Sch. para. 5 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-b281c68746eaf0a405905dbc36ec0da3]: Commencement: Sch. para. 6 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
+[^c-b281c68746eaf0a405905dbc36ec0da3]: Commencement: Sch. para. 6 in force at 1.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/762/regulation/1/1)
 
-[^key-b73cc193d458d81e3b6470846af1a737]: Textual amendment: Words in [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/6/2) substituted (25.6.2020) by [The Teachers’ Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/476/regulation/4/b)
+[^c-b73cc193d458d81e3b6470846af1a737]: Textual amendment: Words in [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2012/762/schedule/paragraph/6/2) substituted (25.6.2020) by [The Teachers’ Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2020/476/regulation/4/b)

@@ -57,7 +57,7 @@ has the right to be legally represented in the proceedings, subject to any power
 - (a) the need to secure that certificates which are the subject of appeals are properly reviewed; and
 - (b) the need to secure that information is not disclosed contrary to the public interest.
 
-(7) The Advocate General for Northern Ireland[^key-b3fa3907369f89085871fe333a0ab10d] may appoint a person to represent the interests of a party to proceedings before the Tribunal in any proceedings from which he and any legal representative of his are excluded.
+(7) The Advocate General for Northern Ireland[^c-b3fa3907369f89085871fe333a0ab10d] may appoint a person to represent the interests of a party to proceedings before the Tribunal in any proceedings from which he and any legal representative of his are excluded.
 
 (8) A person appointed under subsection (7)—
 
@@ -80,4 +80,4 @@ has the right to be legally represented in the proceedings, subject to any power
 
 [^c20122311]: Textual amendment: S. 91(2A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 106(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/106/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 
-[^key-b3fa3907369f89085871fe333a0ab10d]: Textual amendment: Words in s. 91(7) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/19); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)
+[^c-b3fa3907369f89085871fe333a0ab10d]: Textual amendment: Words in s. 91(7) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/19); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(d)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/d)

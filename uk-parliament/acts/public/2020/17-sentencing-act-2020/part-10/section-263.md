@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263. Term of detention in a young offender institution[^key-91ba300d8f47a063a315ddc24a690504]
+## 263. Term of detention in a young offender institution[^c-91ba300d8f47a063a315ddc24a690504]
 
 *Extent: E+W*
 
@@ -30,10 +30,10 @@ summary: ''
 
 - (a) section 265 (special sentence for certain offenders of particular concern);
 - (b) section 268 (extended sentence).
-- (c)[^key-78e6d70997b63aeae5e27408b4fc2c64] section 268B (serious terrorism sentence).
+- (c)[^c-78e6d70997b63aeae5e27408b4fc2c64] section 268B (serious terrorism sentence).
 
 ## Annotations
 
-[^key-91ba300d8f47a063a315ddc24a690504]: Commencement: S. 263 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-91ba300d8f47a063a315ddc24a690504]: Commencement: S. 263 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-78e6d70997b63aeae5e27408b4fc2c64]: Textual amendment: S. 263(4)(c) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(10)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/10)
+[^c-78e6d70997b63aeae5e27408b4fc2c64]: Textual amendment: S. 263(4)(c) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 11(10)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/11/10)

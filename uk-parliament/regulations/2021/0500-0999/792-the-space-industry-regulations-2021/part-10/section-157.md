@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Safety clear zone requirement[^key-9184d4fcafaabfe2ca46f27d4b451988]
+## 157. Safety clear zone requirement[^c-9184d4fcafaabfe2ca46f27d4b451988]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9184d4fcafaabfe2ca46f27d4b451988]: Commencement: Reg. 157 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9184d4fcafaabfe2ca46f27d4b451988]: Commencement: Reg. 157 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

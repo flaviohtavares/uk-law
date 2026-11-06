@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Data protection for biocidal products[^key-c38e9451705246bca3009406928d48a4]
+## 24. Data protection for biocidal products[^c-c38e9451705246bca3009406928d48a4]
 
 *Extent: N.I.*
 
@@ -71,4 +71,4 @@ whichever is the later.
 
 ## Annotations
 
-[^key-c38e9451705246bca3009406928d48a4]: Commencement: Reg. 24 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-c38e9451705246bca3009406928d48a4]: Commencement: Reg. 24 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

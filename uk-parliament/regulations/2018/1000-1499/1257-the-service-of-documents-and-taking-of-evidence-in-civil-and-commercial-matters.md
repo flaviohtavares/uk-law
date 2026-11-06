@@ -74,8 +74,8 @@ In this Part—
 - “**the 2008 Regulations**” means the European Communities (Service of Judicial and Extrajudicial Documents) (Scotland) Amendment Regulations 2008 [^c23456811];
 - “**the Agreement**” means the Agreement between the European Community and the Kingdom of Denmark on the service of judicial and extrajudicial documents in civil or commercial matters [^c23456821];
 - “**Regulation [(EC) No 1393/2007](https://www.legislation.gov.uk/eur/2007/1393)**” means Regulation [(EC) No. 1393/2007](https://www.legislation.gov.uk/eur/2007/1393) of the European Parliament and of the Council on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters and repealing Council Regulation [(EC) No. 1348/2000](https://www.legislation.gov.uk/eur/2000/1348);
-- [^key-7c91e038dbe2cfa23c0e8ac3c9fe862a]...
-- [^key-7c91e038dbe2cfa23c0e8ac3c9fe862a]...
+- [^c-7c91e038dbe2cfa23c0e8ac3c9fe862a]...
+- [^c-7c91e038dbe2cfa23c0e8ac3c9fe862a]...
 
 ### Chapter 2 — Revocations
 
@@ -101,7 +101,7 @@ Regulation [(EC) No 1393/2007](https://www.legislation.gov.uk/european/regulatio
 
 ### Chapter 2 — Savings
 
-#### 8. Saving relating to the service of judicial and extrajudicial documents: application of Article 68 of the withdrawal agreement[^c23476401][^key-095770c04150fef721e9f119516efcd0]
+#### 8. Saving relating to the service of judicial and extrajudicial documents: application of Article 68 of the withdrawal agreement[^c23476401][^c-095770c04150fef721e9f119516efcd0]
 
 (1) Nothing in this Part affects the application of paragraph (a) of Article 68 of the withdrawal agreement.
 
@@ -109,11 +109,11 @@ Regulation [(EC) No 1393/2007](https://www.legislation.gov.uk/european/regulatio
 
 (3) Regulation [(EC) 1393/2007](https://www.legislation.gov.uk/eur/2007/1393) continues to have effect for the purposes of that paragraph.
 
-#### 9. Saving: Regulation (EC) No 1393/2007 - judicial and extrajudicial documents received in the United Kingdom before exit day[^key-095770c04150fef721e9f119516efcd0]
+#### 9. Saving: Regulation (EC) No 1393/2007 - judicial and extrajudicial documents received in the United Kingdom before exit day[^c-095770c04150fef721e9f119516efcd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chapter 3 — The Agreement - cessation, and saving, of rights etc.[^key-34b5a39dfe95a0146e1cf296754a409c]
+### Chapter 3 — The Agreement - cessation, and saving, of rights etc.[^c-34b5a39dfe95a0146e1cf296754a409c]
 
 **No longer in force.**
 
@@ -131,7 +131,7 @@ In this Part “**Regulation [(EC) No 1206/2001](https://www.legislation.gov.uk/
 
 Regulation [(EC) No 1206/2001](https://www.legislation.gov.uk/european/regulation/2001/1206) is revoked.
 
-### 13. Saving relating to requests received before IP completion day: application of Article 68 of the withdrawal agreement[^c23476451][^key-ec09fda2884fbffd581d28f06d7c1857]
+### 13. Saving relating to requests received before IP completion day: application of Article 68 of the withdrawal agreement[^c23476451][^c-ec09fda2884fbffd581d28f06d7c1857]
 
 Nothing in this Part affects the application of paragraph (b) of Article 68 of the withdrawal agreement and Regulation [(EC) No 1206/2001](https://www.legislation.gov.uk/eur/2001/1206) continues to have effect for the purposes of that paragraph.
 
@@ -169,7 +169,7 @@ A full impact assessment has not been published for this instrument as no, or no
 
 [^c23456821]: Marginal citation: OJ No L 300, 17.11.2005, p.55.
 
-[^key-7c91e038dbe2cfa23c0e8ac3c9fe862a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/1257/regulation/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/2)
+[^c-7c91e038dbe2cfa23c0e8ac3c9fe862a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2018/1257/regulation/2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/2)
 
 [^c23476351]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2018/1257/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
@@ -183,9 +183,9 @@ A full impact assessment has not been published for this instrument as no, or no
 
 [^c23476401]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-095770c04150fef721e9f119516efcd0]: Textual amendment: Reg. 8 substituted for regs. 8, 9 (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3)
+[^c-095770c04150fef721e9f119516efcd0]: Textual amendment: Reg. 8 substituted for regs. 8, 9 (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3)
 
-[^key-34b5a39dfe95a0146e1cf296754a409c]: Textual amendment: [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2018/1257/part/2/chapter/3) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/6)
+[^c-34b5a39dfe95a0146e1cf296754a409c]: Textual amendment: [Pt. 2 Ch. 3](https://www.legislation.gov.uk/uksi/2018/1257/part/2/chapter/3) omitted (1.3.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Provision) Regulations 2024 (S.I. 2024/80)](https://www.legislation.gov.uk/uksi/2024/80), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/80/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2024/80/schedule/paragraph/6)
 
 [^c23476431]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2018/1257/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
@@ -193,4 +193,4 @@ A full impact assessment has not been published for this instrument as no, or no
 
 [^c23476451]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ec09fda2884fbffd581d28f06d7c1857]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/1257/regulation/13) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/5)
+[^c-ec09fda2884fbffd581d28f06d7c1857]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2018/1257/regulation/13) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/5)

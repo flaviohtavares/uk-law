@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Assignment of numbered 700 MHz paired frequency lots by bidding[^key-08fb0fd3a9a610046a48b54ec615d8ee]
+## 63. Assignment of numbered 700 MHz paired frequency lots by bidding[^c-08fb0fd3a9a610046a48b54ec615d8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Except where regulation 60 applies, the particular numbered 700 MHz paired frequ
 
 ## Annotations
 
-[^key-08fb0fd3a9a610046a48b54ec615d8ee]: Commencement: Reg. 63 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-08fb0fd3a9a610046a48b54ec615d8ee]: Commencement: Reg. 63 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

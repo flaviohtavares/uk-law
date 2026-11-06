@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Amendment of regulation J1[^key-95a71bb583cd15f658decec8c34222e2]
+## 35. Amendment of regulation J1[^c-95a71bb583cd15f658decec8c34222e2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ For paragraph (4)(b) of regulation J1 (allocation of pension) substitute—
 
 ## Annotations
 
-[^key-95a71bb583cd15f658decec8c34222e2]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-95a71bb583cd15f658decec8c34222e2]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -69,7 +69,7 @@ is guilty of an offence.
 
 (7) In deciding whether to make a forfeiture order, the court must take into account any representations made to it by any person who has an interest in any animals to which the order may apply.
 
-(8) Any person who has an interest in any animals in respect of which the court has made a forfeiture order may appeal to the Sheriff Appeal Court[^key-3050bc327a77af9bb5804c0240baffcc] against the order within the period of 7 days beginning with the date of the order.
+(8) Any person who has an interest in any animals in respect of which the court has made a forfeiture order may appeal to the Sheriff Appeal Court[^c-3050bc327a77af9bb5804c0240baffcc] against the order within the period of 7 days beginning with the date of the order.
 
 ## 3. Enforcement of forfeiture orders
 
@@ -133,6 +133,6 @@ and may make different provision for different cases or descriptions of case.
 
 ## Annotations
 
-[^key-3050bc327a77af9bb5804c0240baffcc]: Textual amendment: Words in [s. 2(8)](https://www.legislation.gov.uk/asp/2002/10/section/2/8) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-3050bc327a77af9bb5804c0240baffcc]: Textual amendment: Words in [s. 2(8)](https://www.legislation.gov.uk/asp/2002/10/section/2/8) substituted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/7) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
 [^c887662]: Subordinate legislation: [S. 6(1)](https://www.legislation.gov.uk/asp/2002/10/section/6/1) power fully exercised: 1.1.2003 appointed by [S.S.I. 2002/519](https://www.legislation.gov.uk/ssi/2002/519), [art. 2](https://www.legislation.gov.uk/ssi/2002/519/article/2)

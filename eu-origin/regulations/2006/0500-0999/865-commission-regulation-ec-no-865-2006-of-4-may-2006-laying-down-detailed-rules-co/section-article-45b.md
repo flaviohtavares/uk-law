@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45b. Treatment of references to customs offices[^key-c236a242b02561ccfa691d44a0f0e9d2]
+## Article 45b. Treatment of references to customs offices[^c-c236a242b02561ccfa691d44a0f0e9d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Where authorisation is given under Article 12(4) of Regulation [(EC) No 338/97](
 
 ## Annotations
 
-[^key-c236a242b02561ccfa691d44a0f0e9d2]: Textual amendment: [Ch. 9A](https://www.legislation.gov.uk/eur/2006/865/chapter/9A) inserted (31.12.2020 at 11.30 p.m.) by [The Trade in Endangered Species of Wild Fauna and Flora (Commission Regulation (EC) No 865/2006) (Amendment) Regulations 2020 (S.I. 2020/1668)](https://www.legislation.gov.uk/uksi/2020/1668), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1668/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1668/regulation/2)
+[^c-c236a242b02561ccfa691d44a0f0e9d2]: Textual amendment: [Ch. 9A](https://www.legislation.gov.uk/eur/2006/865/chapter/9A) inserted (31.12.2020 at 11.30 p.m.) by [The Trade in Endangered Species of Wild Fauna and Flora (Commission Regulation (EC) No 865/2006) (Amendment) Regulations 2020 (S.I. 2020/1668)](https://www.legislation.gov.uk/uksi/2020/1668), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1668/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1668/regulation/2)

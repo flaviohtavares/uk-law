@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Amendment of the Statutory Auditors and Third Country Auditors Regulations 2016[^key-c1defa78af569a6e99940edee9b2edde]
+## 105. Amendment of the Statutory Auditors and Third Country Auditors Regulations 2016[^c-c1defa78af569a6e99940edee9b2edde]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Statutory Auditors and Third Country Auditors Regulations 2016 is amended in
 
 ## Annotations
 
-[^key-c1defa78af569a6e99940edee9b2edde]: Commencement: Reg. 105 in force at 22.2.2019, see reg. 2
+[^c-c1defa78af569a6e99940edee9b2edde]: Commencement: Reg. 105 in force at 22.2.2019, see reg. 2

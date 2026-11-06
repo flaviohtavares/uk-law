@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Exception for OMP producers[^key-98bdfcd345d839a42cacc0c0173c6094]
+## 24A. Exception for OMP producers[^c-98bdfcd345d839a42cacc0c0173c6094]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98bdfcd345d839a42cacc0c0173c6094]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/24A) inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/910/regulation/11) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))
+[^c-98bdfcd345d839a42cacc0c0173c6094]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2013/3113/regulation/24A) inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/910/regulation/11) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))

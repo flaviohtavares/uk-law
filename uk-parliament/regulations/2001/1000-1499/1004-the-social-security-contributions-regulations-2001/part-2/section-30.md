@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Abnormal pay practices[^key-6073ec483885d7e7719c75a9d4f4e663]
+## 30. Abnormal pay practices[^c-6073ec483885d7e7719c75a9d4f4e663]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ paragraph (2) applies.
 
 ## Annotations
 
-[^key-6073ec483885d7e7719c75a9d4f4e663]: Textual amendment: Reg. 30 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/2366/regulation/5)
+[^c-6073ec483885d7e7719c75a9d4f4e663]: Textual amendment: Reg. 30 substituted (8.10.2002) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2002 (S.I. 2002/2366)](https://www.legislation.gov.uk/uksi/2002/2366), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2366/regulation/1), [5](https://www.legislation.gov.uk/uksi/2002/2366/regulation/5)

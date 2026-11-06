@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Applications[^key-24dc5d04859191eb8e11cd95de19727a][^key-db40a783d80ee619528c6caff68384b8]
+## 153. Applications[^c-24dc5d04859191eb8e11cd95de19727a][^c-db40a783d80ee619528c6caff68384b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24dc5d04859191eb8e11cd95de19727a]: Commencement: S. 153 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-24dc5d04859191eb8e11cd95de19727a]: Commencement: S. 153 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-db40a783d80ee619528c6caff68384b8]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2024/13/section/153) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-db40a783d80ee619528c6caff68384b8]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2024/13/section/153) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

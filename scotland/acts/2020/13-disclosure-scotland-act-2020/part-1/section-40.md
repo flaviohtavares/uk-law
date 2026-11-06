@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Presumption as to age in relation to convictions[^key-dd1992a5f5cb5d9aafbfb4f6a28ae1a9]
+## 40. Presumption as to age in relation to convictions[^c-dd1992a5f5cb5d9aafbfb4f6a28ae1a9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purposes of the exercise of their functions under this Part, the Scottis
 
 ## Annotations
 
-[^key-dd1992a5f5cb5d9aafbfb4f6a28ae1a9]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2020/13/section/40) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-dd1992a5f5cb5d9aafbfb4f6a28ae1a9]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2020/13/section/40) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

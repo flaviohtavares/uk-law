@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Right of appeal by P[^key-7ce4af6bd1449e86f7da33e0a7f44275]
+## 99. Right of appeal by P[^c-7ce4af6bd1449e86f7da33e0a7f44275]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ce4af6bd1449e86f7da33e0a7f44275]: Commencement: [S. 99](https://www.legislation.gov.uk/mwa/2011/1/section/99) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-7ce4af6bd1449e86f7da33e0a7f44275]: Commencement: [S. 99](https://www.legislation.gov.uk/mwa/2011/1/section/99) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

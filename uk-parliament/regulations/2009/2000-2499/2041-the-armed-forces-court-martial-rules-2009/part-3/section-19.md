@@ -24,8 +24,8 @@ summary: ''
 
 (2) This rule does not permit a defendant to be arraigned in his absence.
 
-(3)[^key-8cac5daac59fab4ff9e207d7f10f566c] The court may not impose a driving disqualification order in the absence of an offender, unless the court is satisfied that the offender was informed prior to the hearing that the court was considering disqualification.
+(3)[^c-8cac5daac59fab4ff9e207d7f10f566c] The court may not impose a driving disqualification order in the absence of an offender, unless the court is satisfied that the offender was informed prior to the hearing that the court was considering disqualification.
 
 ## Annotations
 
-[^key-8cac5daac59fab4ff9e207d7f10f566c]: Textual amendment: [Rule 19(3)](https://www.legislation.gov.uk/uksi/2009/2041/rule/19/3) inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/209/regulation/16)
+[^c-8cac5daac59fab4ff9e207d7f10f566c]: Textual amendment: [Rule 19(3)](https://www.legislation.gov.uk/uksi/2009/2041/rule/19/3) inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/209/regulation/16)

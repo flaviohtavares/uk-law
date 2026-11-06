@@ -78,21 +78,21 @@ In accordance with section 97(8)(a) of the Act, a draft of this Order has been l
 - (b) the cereal and oilseed industries in the United Kingdom;
 - (c) the horticulture industry in Great Britain;
 - (d) the milk industry in Great Britain;
-- (e) the pig industry in England; [^key-0cffdbf123d6df5da40e44cf0f0c29ec]...
+- (e) the pig industry in England; [^c-0cffdbf123d6df5da40e44cf0f0c29ec]...
 - (f) the potato industry in Great Britain.
-- (g)[^key-574d3114ed232f94f0088dd576efea79] any agricultural industry in the United Kingdom not covered by any of sub-paragraphs (a) to (f); and
+- (g)[^c-574d3114ed232f94f0088dd576efea79] any agricultural industry in the United Kingdom not covered by any of sub-paragraphs (a) to (f); and
 - (h) in relation to an industry covered by any of sub-paragraphs (a) to (g), any related industry.
 
 (2) For these purposes—
 
-- “[^key-ec6d6e305f4480d865aface7255f0912]**agricultural industry**” means horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, and the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds;
+- “[^c-ec6d6e305f4480d865aface7255f0912]**agricultural industry**” means horticulture, fruit growing, seed growing, dairy farming and livestock breeding and keeping, and the use of land as grazing land, meadow land, osier land, market gardens and nursery grounds;
 - “**beef and sheep industry**” means all the activities comprised in the production, marketing and distribution of—
   - (a) cattle and sheep, including the carrying on of slaughterhouses and cattle and sheep auctions and markets;
   - (b) meat and meat products (other than milk and milk products) from cattle and sheep;
 - “**cereal and oilseed industries**” means the industries comprising the activities of growers and persons trading as wholesale buyers or sellers of cereal or oilseed, or processing cereal, and—
   - (c) “**cereal**” means wheat (including durum wheat), barley, oats, rye, maize, triticale or any two or more of such cereals grown as one crop; and
   - (d) “**oilseed**” means rapeseed, linseed, soyabean or sunflowerseed or any two or more of such oilseeds grown as one crop;
-- “[^key-077b7af078cd3e2612e1fc4074645228]**horticulture industry**” means the growing by way of business of—
+- “[^c-077b7af078cd3e2612e1fc4074645228]**horticulture industry**” means the growing by way of business of—
   - (a) protected vegetables, herbs and leafy salads grown in glasshouse systems and indoors;
   - (b) field vegetables grown outdoors, including vegetables, herbs, leafy salads but not including potatoes;
   - (c) soft fruit grown outdoors or under cover and indoors;
@@ -136,7 +136,7 @@ Schedule 2 (constitution and proceedings of the Agriculture and Horticulture Dev
 
 ## 6. Levies
 
-(1)[^key-1f6f04dfcc9950c8fcc5f497ed00ab7b] The Agriculture and Horticulture Development Board must impose a levy in relation to each industry covered by article 2(1)(a), (b), (d) and (e) to enable it to provide services for each of those industries, and Schedule 3 has effect for that purpose.
+(1)[^c-1f6f04dfcc9950c8fcc5f497ed00ab7b] The Agriculture and Horticulture Development Board must impose a levy in relation to each industry covered by article 2(1)(a), (b), (d) and (e) to enable it to provide services for each of those industries, and Schedule 3 has effect for that purpose.
 
 (2) All figures in that Schedule exclude VAT.
 
@@ -147,9 +147,9 @@ Schedule 2 (constitution and proceedings of the Agriculture and Horticulture Dev
 - (c) further a purpose in article 3(2); and
 - (d) establish a reserve fund.
 
-(4) The rate of levy (and any higher rate for late payment of the levy) must be approved [^key-56546d4cb7157661a5e521d403a6643a]... by the appropriate authority.
+(4) The rate of levy (and any higher rate for late payment of the levy) must be approved [^c-56546d4cb7157661a5e521d403a6643a]... by the appropriate authority.
 
-(4A)[^key-e1d7cb3aac6e72e3d2583aa9f08faacf] The Board may impose a levy rate of zero for a period of time in relation to any industry covered by article 2(1)(a), (b), (d) or (e) if—
+(4A)[^c-e1d7cb3aac6e72e3d2583aa9f08faacf] The Board may impose a levy rate of zero for a period of time in relation to any industry covered by article 2(1)(a), (b), (d) or (e) if—
 
 - (a) it considers that there are exceptional circumstances which justify doing so, and
 - (b) the appropriate authority has approved the imposition of a levy rate of zero for that period of time.
@@ -166,7 +166,7 @@ Schedule 2 (constitution and proceedings of the Agriculture and Horticulture Dev
 
 (3) The Board may provide that a higher rate of levy is payable on the estimated amount, but that higher rate may not exceed the maximum rates provided for in Schedule 3.
 
-## 8. Charges for services[^key-03345e6e9f266f0a455272b716f773dc]
+## 8. Charges for services[^c-03345e6e9f266f0a455272b716f773dc]
 
 (1) Subject to paragraph (2), the Agriculture and Horticulture Development Board (“**the Board**”), or any subsidiary company, may make such charges for the services provided in the exercise of its functions specified in Schedule 1 to any industry covered by this Order as appear to the Board or subsidiary company to be reasonable.
 
@@ -195,22 +195,22 @@ The Agriculture and Horticulture Development Board may—
 
 ## 11. Ballots
 
-(1)[^key-be55881e0e08c7b4e85f9eda801b71ca] For each industry for which there is a levy in place under article 6, the Agriculture and Horticulture Development Board—
+(1)[^c-be55881e0e08c7b4e85f9eda801b71ca] For each industry for which there is a levy in place under article 6, the Agriculture and Horticulture Development Board—
 
 - (a) must hold a vote at least once every five years on proposals as to how the levy will be spent;
 - (b) may hold a ballot at any time on whether or not a levy should continue (“levy continuation ballot”).
 
-(2) It must hold a levy continuation ballot[^key-bc25b0288fe3454beae14450de3e321b] if directed by the appropriate authority.
+(2) It must hold a levy continuation ballot[^c-bc25b0288fe3454beae14450de3e321b] if directed by the appropriate authority.
 
-(3)[^key-bb71b2feca4013b8adacfdf02158b0dd] It must hold a levy continuation ballot if, within a three month period, it receives from 5% or more of persons entitled to vote in such a ballot a signed request or requests for such a ballot.
+(3)[^c-bb71b2feca4013b8adacfdf02158b0dd] It must hold a levy continuation ballot if, within a three month period, it receives from 5% or more of persons entitled to vote in such a ballot a signed request or requests for such a ballot.
 
 (4) The three month period is calculated from the first day of any month.
 
-(5) The maximum frequency with which a levy continuation ballot[^key-7ce95053369b56267dda4b63ecdabd68] for the same levy can be held at the request of persons entitled to vote is 5 years.
+(5) The maximum frequency with which a levy continuation ballot[^c-7ce95053369b56267dda4b63ecdabd68] for the same levy can be held at the request of persons entitled to vote is 5 years.
 
-(6)[^key-499a504bd468eb65c5b3dc0993184405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-499a504bd468eb65c5b3dc0993184405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) The Board must immediately inform the appropriate authority of the result of a levy continuation ballot[^key-0bd66b56d5d8b4dfd9bca350a0a03e26], but the appropriate authority is not bound by the result.
+(7) The Board must immediately inform the appropriate authority of the result of a levy continuation ballot[^c-0bd66b56d5d8b4dfd9bca350a0a03e26], but the appropriate authority is not bound by the result.
 
 ## 12. Who can vote
 
@@ -220,15 +220,15 @@ Voters
 
 | *Levy* | *Voters and categories* |
 | --- | --- |
-| Pigs | Any person who pays the producer levy related to pigs[^key-1a9239c1c8f7e7e2109d576a9b4679f3] |
+| Pigs | Any person who pays the producer levy related to pigs[^c-1a9239c1c8f7e7e2109d576a9b4679f3] |
 |  | Any person who slaughters or exports pigs in England |
 | Cattle | Any person who keeps cattle in England |
 |  | Any person who slaughters or exports cattle in England |
 | Sheep | Any person who keeps sheep in England |
 |  | Any person who slaughters or exports sheep in England |
 | Milk | Any milk producer in Great Britain |
-| [^key-f8296d83e1d1976da7242165afe4d05b]. . . | [^key-f8296d83e1d1976da7242165afe4d05b]. . . |
-| [^key-f8296d83e1d1976da7242165afe4d05b]. . . | [^key-f8296d83e1d1976da7242165afe4d05b]. . . |
+| [^c-f8296d83e1d1976da7242165afe4d05b]. . . | [^c-f8296d83e1d1976da7242165afe4d05b]. . . |
+| [^c-f8296d83e1d1976da7242165afe4d05b]. . . | [^c-f8296d83e1d1976da7242165afe4d05b]. . . |
 |  | Any person who pays the potato buyer levy |
 | Cereal | Any person who pays the cereal buyer levy |
 |  | Any person who pays the cereal processor levy |
@@ -322,7 +322,7 @@ that person is guilty of the offence as well as the body corporate.
 
 ## 18. Repeals, etc.
 
-Schedule 5 (consequential amendments, transitional provisions, repeals and revocations) has effect. *(Extent: W)* *(affected by repeal, see note)*[^key-4cf319c5ea58761d34aa7f08d3d29f80]
+Schedule 5 (consequential amendments, transitional provisions, repeals and revocations) has effect. *(Extent: W)* *(affected by repeal, see note)*[^c-4cf319c5ea58761d34aa7f08d3d29f80]
 
 Jeff Rooker
 
@@ -414,7 +414,7 @@ Article 3(2)(d)
 
 **20.** Promoting or undertaking arrangements for encouraging the entry of persons into the industry.
 
-**21.**[^key-bc0c82ce520717e5e13048fded89f7c4] Collecting, managing and making available information regarding the identification, movement and health of animals.
+**21.**[^c-bc0c82ce520717e5e13048fded89f7c4] Collecting, managing and making available information regarding the identification, movement and health of animals.
 
 **22.** Allocating unique identification codes to the means of identifying animals in England and Wales.
 
@@ -434,7 +434,7 @@ Article 4
 
 ### 2. Members' terms of office and removal from office
 
-(1) The term of office of a Board member, including the chair,[^key-f4a71759dd6d27a94830d96a60ed53ef] may not exceed four years.
+(1) The term of office of a Board member, including the chair,[^c-f4a71759dd6d27a94830d96a60ed53ef] may not exceed four years.
 
 (2) A member may resign by giving written notice to the appropriate authority.
 
@@ -444,7 +444,7 @@ Article 4
 - (b) becomes bankrupt or makes an arrangement with his creditors or (in Scotland) has his estate sequestrated, or
 - (c) in the opinion of the appropriate authority has become unable, unfit or unsuitable to carry out his duties.
 
-(4)[^key-835d8b1c85cede382a687c4e69422ac0] A person may be reappointed to a particular position on the Board once only (and sub-paragraph (1) applies in relation to that reappointment).
+(4)[^c-835d8b1c85cede382a687c4e69422ac0] A person may be reappointed to a particular position on the Board once only (and sub-paragraph (1) applies in relation to that reappointment).
 
 (5) A member of the Board must immediately disclose any direct or indirect interest in any contract or other matter proposed or discussed by the Board.
 
@@ -497,13 +497,13 @@ In this Schedule “**person**” includes a partnership.
 
 (4) The levy consists of two parts, the producer levy and the slaughter or export levy.
 
-(5)[^key-9dc16d4e4448cd17bd3e66d05ca85d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-9dc16d4e4448cd17bd3e66d05ca85d56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) If a slaughterer or exporter buys an animal for slaughter or export, he must deduct the producer levy from the price he pays, and hold it on trust for the Agriculture and Horticulture Development Board[^key-c87cf14fc1fb0f8f03d0c86b4ba8e27f].
+(6) If a slaughterer or exporter buys an animal for slaughter or export, he must deduct the producer levy from the price he pays, and hold it on trust for the Agriculture and Horticulture Development Board[^c-c87cf14fc1fb0f8f03d0c86b4ba8e27f].
 
 (7) If a slaughterer slaughters an animal without buying it, he must charge the owner both the producer levy and the slaughter levy, and hold it on trust for the Board.
 
-(7A)[^key-dc1d8c52d04fd8614f7eae6db3eb7a34] The Board may reduce the levy that the slaughterer or exporter would otherwise be required to pay to the Board to cover the administrative costs of the slaughterer or exporter in administering the levy.
+(7A)[^c-dc1d8c52d04fd8614f7eae6db3eb7a34] The Board may reduce the levy that the slaughterer or exporter would otherwise be required to pay to the Board to cover the administrative costs of the slaughterer or exporter in administering the levy.
 
 (8) The maximum rate of levy is in accordance with the following table.
 
@@ -533,11 +533,11 @@ Maximum levy for cattle, sheep and pigs
 </tbody>
 </table>
 
-[^key-00ee767f3f33fb9e6ea8d222cbcbd1ca][^key-fda206d9116803e9f3bbcc5434cf7762][^key-c14fb9cea6dd4c90fa96eacccb667278]
+[^c-00ee767f3f33fb9e6ea8d222cbcbd1ca][^c-fda206d9116803e9f3bbcc5434cf7762][^c-c14fb9cea6dd4c90fa96eacccb667278]
 
 #### 4. Exceptions
 
-(1) Levy is not payable for animals imported into the United Kingdom[^key-a51a6c409d0464d9d95064c16562969c] and slaughtered within 3 months in the case of cattle and 2 months in the case of pigs or sheep.
+(1) Levy is not payable for animals imported into the United Kingdom[^c-a51a6c409d0464d9d95064c16562969c] and slaughtered within 3 months in the case of cattle and 2 months in the case of pigs or sheep.
 
 (2) Levy is not payable if an animal is subject to compulsory slaughter or the entire carcase is declared unfit for human consumption by the official veterinarian.
 
@@ -551,13 +551,13 @@ Maximum levy for cattle, sheep and pigs
 
 #### 6. Payment of the levy by slaughterhouse occupiers
 
-An occupier must pay the levy due for animals slaughtered in any month within the period of 30 days beginning with the date on which the invoice for the levy is issued[^key-cbb459ea5970164398c50a3363f7f72f].
+An occupier must pay the levy due for animals slaughtered in any month within the period of 30 days beginning with the date on which the invoice for the levy is issued[^c-cbb459ea5970164398c50a3363f7f72f].
 
 #### 7. Returns and payment of the levy by exporters
 
 (1) An exporter must notify the Agriculture and Horticulture Development Board, within 30 days of the end of the month, of the number of animals exported in the previous month, and failure to do so is an offence.
 
-(2) He must pay the levy due for animals exported in that month within the period of 30 days beginning with the date on which the invoice for the levy is issued[^key-c159595c906edcf81b837c71dedca511].
+(2) He must pay the levy due for animals exported in that month within the period of 30 days beginning with the date on which the invoice for the levy is issued[^c-c159595c906edcf81b837c71dedca511].
 
 #### 8. Enforcement
 
@@ -573,7 +573,7 @@ An occupier must pay the levy due for animals slaughtered in any month within th
 
 (2) The levy is based on the weight bought.
 
-(3)[^key-576b0866e3eede9353598d4b5dd8c714] In the case of cereal—
+(3)[^c-576b0866e3eede9353598d4b5dd8c714] In the case of cereal—
 
 - (a) the levy consists of two parts, the cereal grower levy and the cereal buyer levy;
 - (b) the buyer must deduct the cereal grower levy from the price paid and hold it on trust for the Agriculture and Horticulture Development Board; and
@@ -620,17 +620,17 @@ Maximum levy for cereal and oilseed
 </tbody>
 </table>
 
-#### 12. Returns and payment of the levy[^key-4580158d102ef887a44bccfd33160bae]
+#### 12. Returns and payment of the levy[^c-4580158d102ef887a44bccfd33160bae]
 
-(1) Any person liable to pay a levy[^key-51c5c429dbead42385cab3f8cf32d62d] relating to cereal to the Agriculture and Horticulture Development Board must notify it of the amount of cereal bought, processed or sold on which a levy is due in each three month period ending 31st December, 31st March, 30th June and 30th September.
+(1) Any person liable to pay a levy[^c-51c5c429dbead42385cab3f8cf32d62d] relating to cereal to the Agriculture and Horticulture Development Board must notify it of the amount of cereal bought, processed or sold on which a levy is due in each three month period ending 31st December, 31st March, 30th June and 30th September.
 
 (2) Any person who has bought less than 250 tonnes of cereal in any year ending 30th June, or processed less than 1,000 tonnes in any year, may instead notify once a year the amount bought in that year.
 
-(3) Any person liable to pay a levy[^key-722100c660e93554469000da98948130] relating to oilseed must notify the Board of the amount of oilseed bought in the six month period ending 31st December and 30th June each year.
+(3) Any person liable to pay a levy[^c-722100c660e93554469000da98948130] relating to oilseed must notify the Board of the amount of oilseed bought in the six month period ending 31st December and 30th June each year.
 
 (4) That person must notify within 28 days of the end of any period referred to in sub-paragraph (1), (2) or (3), and failure to so is an offence.
 
-(5)[^key-cafa09a9074c507b4d082e454972646d] In each case, the levy is payable to the Board within the period of 30 days beginning with the date on which the invoice for the levy is issued.
+(5)[^c-cafa09a9074c507b4d082e454972646d] In each case, the levy is payable to the Board within the period of 30 days beginning with the date on which the invoice for the levy is issued.
 
 #### 13. Weekly returns
 
@@ -645,41 +645,41 @@ Maximum levy for cereal and oilseed
 
 (4) The Board must publish the mean average price of each type of cereal on a weekly, monthly and annual basis.
 
-### PART 4 — Horticulture[^key-22675c7e3b3131180c2f8416d3c823e2]
+### PART 4 — Horticulture[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 **No longer in force.**
 
-#### 14. Levy on horticultural products[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 14. Levy on horticultural products[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Levy on mushroom spawn[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 15. Levy on mushroom spawn[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Returns[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 16. Returns[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Information notices[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 17. Information notices[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Maximum levy for horticultural products[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 18. Maximum levy for horticultural products[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Maximum levy for mushrooms[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 19. Maximum levy for mushrooms[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Payment[^key-22675c7e3b3131180c2f8416d3c823e2]
+#### 20. Payment[^c-22675c7e3b3131180c2f8416d3c823e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 5 — Milk
 
-#### 21. Levies on milk[^key-67035e28735cc219e5d6d217f24c4405]
+#### 21. Levies on milk[^c-67035e28735cc219e5d6d217f24c4405]
 
 (1) A person who buys milk from a producer or is a direct seller of milk must pay a levy.
 
@@ -700,25 +700,25 @@ Maximum levy for cereal and oilseed
 
 (2) A direct seller of milk must notify to the Board by 14th May each year the amount of milk produced on his holding in the previous year ending 1st April, and failure to do so is an offence.
 
-(3) In both cases the levy is payable to the Board within the period of 30 days beginning with the date on which the invoice for the levy is issued[^key-2d339d268b12efe21ffcbf49bd0bfc46].
+(3) In both cases the levy is payable to the Board within the period of 30 days beginning with the date on which the invoice for the levy is issued[^c-2d339d268b12efe21ffcbf49bd0bfc46].
 
-### PART 6 — Potatoes[^key-e22bd0c8c735b6eec7ab8323a42de262]
+### PART 6 — Potatoes[^c-e22bd0c8c735b6eec7ab8323a42de262]
 
 **No longer in force.**
 
-#### 23. Levy on potato growers[^key-e22bd0c8c735b6eec7ab8323a42de262]
+#### 23. Levy on potato growers[^c-e22bd0c8c735b6eec7ab8323a42de262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 24. Levy on buyers of potatoes[^key-e22bd0c8c735b6eec7ab8323a42de262]
+#### 24. Levy on buyers of potatoes[^c-e22bd0c8c735b6eec7ab8323a42de262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 25. Returns by growers[^key-e22bd0c8c735b6eec7ab8323a42de262]
+#### 25. Returns by growers[^c-e22bd0c8c735b6eec7ab8323a42de262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 26. Returns by buyers[^key-e22bd0c8c735b6eec7ab8323a42de262]
+#### 26. Returns by buyers[^c-e22bd0c8c735b6eec7ab8323a42de262]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -821,7 +821,7 @@ In Schedule 2 to the Parliamentary Commissioner Act 1967 (c. 13) (departments et
 
 > The Agriculture and Horticulture Development Board.
 
-**4.**[^key-3b48c8a5d03e734b3ea16f11d24a8397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3b48c8a5d03e734b3ea16f11d24a8397] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (c. 36) (other public bodies and offices: general), at the appropriate place insert—
 
@@ -880,7 +880,7 @@ The following are repealed to the extent specified.
 | The Companies Act 1989 (Eligibility for Appointment as Company Auditor) (Consequential Amendments) Regulations 1991 (S. I. 1991/1997) | Paragraphs 13 and 16 of the Schedule. |
 | The Beef Carcase (Classification) Regulations 1991 (S. I. 1991/2242) | Regulation 10(12). |
 | The Horticultural Development Council (Amendment) Order 1992 (S. I. 1992/1836) | The whole Order. |
-| The Pig Carcase (Grading) Regulations 1994, (S. I. 1994/2155) *(Extent: W)* *(affected by repeal, see note)*[^key-041af03fe53f23d1e6411c41dc779b3c] | Regulation 7(12). *(Extent: W)* *(affected by repeal, see note)*[^key-041af03fe53f23d1e6411c41dc779b3c] |
+| The Pig Carcase (Grading) Regulations 1994, (S. I. 1994/2155) *(Extent: W)* *(affected by repeal, see note)*[^c-041af03fe53f23d1e6411c41dc779b3c] | Regulation 7(12). *(Extent: W)* *(affected by repeal, see note)*[^c-041af03fe53f23d1e6411c41dc779b3c] |
 | The Milk Development Council Order 1995 (S. I. 1995/356) | The whole Order. |
 | The Deregulation (Corn Returns Act 1882) Order 1996 (S. I. 1996/848) | The whole Order. |
 | The Potato Industry Development Council Order 1997 (S. I. 1997/266) | The whole Order. |
@@ -926,81 +926,81 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19148971]: Marginal citation: [2006 c.16](https://www.legislation.gov.uk/ukpga/2006/16). The “appropriate authority” empowered to make an Order is defined in section 96. By virtue of sections 59(1) and 162 of, and paragraphs 28 and 30 of Schedule 11 to, the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), functions conferred on the National Assembly for Wales are exercisable by the Welsh Ministers.
 
-[^key-0cffdbf123d6df5da40e44cf0f0c29ec]: Textual amendment: Word in [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/e) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/2/a)
+[^c-0cffdbf123d6df5da40e44cf0f0c29ec]: Textual amendment: Word in [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/e) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/2/a)
 
-[^key-574d3114ed232f94f0088dd576efea79]: Textual amendment: [Art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/g)[(h)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/h) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/2/b)
+[^c-574d3114ed232f94f0088dd576efea79]: Textual amendment: [Art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/g)[(h)](https://www.legislation.gov.uk/uksi/2008/576/article/2/1/h) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/2/b)
 
-[^key-ec6d6e305f4480d865aface7255f0912]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/576/article/2/2) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/3)
+[^c-ec6d6e305f4480d865aface7255f0912]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/576/article/2/2) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/3/3)
 
-[^key-077b7af078cd3e2612e1fc4074645228]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/576/article/2/2) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/577/article/2/2)
+[^c-077b7af078cd3e2612e1fc4074645228]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/576/article/2/2) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/577/article/2/2)
 
-[^key-1f6f04dfcc9950c8fcc5f497ed00ab7b]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2008/576/article/6/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/2)
+[^c-1f6f04dfcc9950c8fcc5f497ed00ab7b]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2008/576/article/6/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/2)
 
-[^key-56546d4cb7157661a5e521d403a6643a]: Textual amendment: Word in [art. 6(4)](https://www.legislation.gov.uk/uksi/2008/576/article/6/4) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/3)
+[^c-56546d4cb7157661a5e521d403a6643a]: Textual amendment: Word in [art. 6(4)](https://www.legislation.gov.uk/uksi/2008/576/article/6/4) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/3)
 
-[^key-e1d7cb3aac6e72e3d2583aa9f08faacf]: Textual amendment: [Art. 6(4A)](https://www.legislation.gov.uk/uksi/2008/576/article/6/4A) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/4)
+[^c-e1d7cb3aac6e72e3d2583aa9f08faacf]: Textual amendment: [Art. 6(4A)](https://www.legislation.gov.uk/uksi/2008/576/article/6/4A) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/4/4)
 
-[^key-03345e6e9f266f0a455272b716f773dc]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2008/576/article/8) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/577/article/2/4)
+[^c-03345e6e9f266f0a455272b716f773dc]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2008/576/article/8) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/577/article/2/4)
 
-[^key-be55881e0e08c7b4e85f9eda801b71ca]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2008/576/article/11/1) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/a)
+[^c-be55881e0e08c7b4e85f9eda801b71ca]: Textual amendment: [Art. 11(1)](https://www.legislation.gov.uk/uksi/2008/576/article/11/1) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/a)
 
-[^key-bc25b0288fe3454beae14450de3e321b]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2008/576/article/11/2) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/b)
+[^c-bc25b0288fe3454beae14450de3e321b]: Textual amendment: Words in [art. 11(2)](https://www.legislation.gov.uk/uksi/2008/576/article/11/2) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/b)
 
-[^key-bb71b2feca4013b8adacfdf02158b0dd]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/uksi/2008/576/article/11/3) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/c)
+[^c-bb71b2feca4013b8adacfdf02158b0dd]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/uksi/2008/576/article/11/3) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/c)
 
-[^key-7ce95053369b56267dda4b63ecdabd68]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2008/576/article/11/5) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/d)
+[^c-7ce95053369b56267dda4b63ecdabd68]: Textual amendment: Words in [art. 11(5)](https://www.legislation.gov.uk/uksi/2008/576/article/11/5) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(d)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/d)
 
-[^key-499a504bd468eb65c5b3dc0993184405]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2008/576/article/11/6) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/e)
+[^c-499a504bd468eb65c5b3dc0993184405]: Textual amendment: [Art. 11(6)](https://www.legislation.gov.uk/uksi/2008/576/article/11/6) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(e)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/e)
 
-[^key-0bd66b56d5d8b4dfd9bca350a0a03e26]: Textual amendment: Words in [art. 11(7)](https://www.legislation.gov.uk/uksi/2008/576/article/11/7) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/f)
+[^c-0bd66b56d5d8b4dfd9bca350a0a03e26]: Textual amendment: Words in [art. 11(7)](https://www.legislation.gov.uk/uksi/2008/576/article/11/7) substituted (26.5.2022) by [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(5)(f)](https://www.legislation.gov.uk/uksi/2022/577/article/2/5/f)
 
-[^key-1a9239c1c8f7e7e2109d576a9b4679f3]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/article/12/1) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/5/2)
+[^c-1a9239c1c8f7e7e2109d576a9b4679f3]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/article/12/1) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/5/2)
 
-[^key-f8296d83e1d1976da7242165afe4d05b]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/article/12/1) table omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/577/article/2/6)
+[^c-f8296d83e1d1976da7242165afe4d05b]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/article/12/1) table omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/577/article/2/6)
 
-[^key-4cf319c5ea58761d34aa7f08d3d29f80]: Textual amendment: Art. 18 revoked in part (E.) (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/f/ii) and (W.) (1.9.2011) by [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(e)(ii)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/e/ii)
+[^c-4cf319c5ea58761d34aa7f08d3d29f80]: Textual amendment: Art. 18 revoked in part (E.) (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(f)(ii)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/f/ii) and (W.) (1.9.2011) by [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(e)(ii)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/e/ii)
 
-[^key-bc0c82ce520717e5e13048fded89f7c4]: Textual amendment: [Sch. 1 paras. 21](https://www.legislation.gov.uk/uksi/2008/576/schedule/1/paragraph/21), [22](https://www.legislation.gov.uk/uksi/2008/576/schedule/1/paragraph/22) inserted (12.1.2021) by [The Agriculture and Horticulture Development Board (Amendment) Order 2021 (S.I. 2021/23)](https://www.legislation.gov.uk/uksi/2021/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/23/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/23/article/2/2)
+[^c-bc0c82ce520717e5e13048fded89f7c4]: Textual amendment: [Sch. 1 paras. 21](https://www.legislation.gov.uk/uksi/2008/576/schedule/1/paragraph/21), [22](https://www.legislation.gov.uk/uksi/2008/576/schedule/1/paragraph/22) inserted (12.1.2021) by [The Agriculture and Horticulture Development Board (Amendment) Order 2021 (S.I. 2021/23)](https://www.legislation.gov.uk/uksi/2021/23), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/23/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/23/article/2/2)
 
-[^key-f4a71759dd6d27a94830d96a60ed53ef]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/2/paragraph/2/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/6/2/a)
+[^c-f4a71759dd6d27a94830d96a60ed53ef]: Textual amendment: Words in [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/2/paragraph/2/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/6/2/a)
 
-[^key-835d8b1c85cede382a687c4e69422ac0]: Textual amendment: [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2008/576/schedule/2/paragraph/2/4) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/6/2/b)
+[^c-835d8b1c85cede382a687c4e69422ac0]: Textual amendment: [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2008/576/schedule/2/paragraph/2/4) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/6/2/b)
 
-[^key-9dc16d4e4448cd17bd3e66d05ca85d56]: Textual amendment: [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/5) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/a) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+[^c-9dc16d4e4448cd17bd3e66d05ca85d56]: Textual amendment: [Sch. 3 para. 3(5)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/5) omitted (14.10.2023) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/a) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
 
-[^key-c87cf14fc1fb0f8f03d0c86b4ba8e27f]: Textual amendment: Words in [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/6) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/b) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+[^c-c87cf14fc1fb0f8f03d0c86b4ba8e27f]: Textual amendment: Words in [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/6) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/b) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
 
-[^key-dc1d8c52d04fd8614f7eae6db3eb7a34]: Textual amendment: [Sch. 3 para. 3(7A)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/7A) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/c) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+[^c-dc1d8c52d04fd8614f7eae6db3eb7a34]: Textual amendment: [Sch. 3 para. 3(7A)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/7A) inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/c) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
 
-[^key-00ee767f3f33fb9e6ea8d222cbcbd1ca]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/i) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+[^c-00ee767f3f33fb9e6ea8d222cbcbd1ca]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/i) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
 
-[^key-fda206d9116803e9f3bbcc5434cf7762]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/ii) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+[^c-fda206d9116803e9f3bbcc5434cf7762]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/ii) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
 
-[^key-c14fb9cea6dd4c90fa96eacccb667278]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/iii) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
+[^c-c14fb9cea6dd4c90fa96eacccb667278]: Textual amendment: Word in [Sch. 3 para. 3(8)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/3/8) table substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/2/d/iii) (with [art. 8(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/1))
 
-[^key-a51a6c409d0464d9d95064c16562969c]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/4/1) substituted (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/733/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a51a6c409d0464d9d95064c16562969c]: Textual amendment: Words in [Sch. 3 para. 4(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/4/1) substituted (31.12.2020) by [The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/733)](https://www.legislation.gov.uk/uksi/2019/733), [regs. 1](https://www.legislation.gov.uk/uksi/2019/733/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2019/733/regulation/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cbb459ea5970164398c50a3363f7f72f]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/6) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/3) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/2))
+[^c-cbb459ea5970164398c50a3363f7f72f]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/6) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/3) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/2))
 
-[^key-c159595c906edcf81b837c71dedca511]: Textual amendment: Words in [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/7/2) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/4) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/2))
+[^c-c159595c906edcf81b837c71dedca511]: Textual amendment: Words in [Sch. 3 para. 7(2)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/7/2) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/4) (with [art. 8(2)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/2))
 
-[^key-576b0866e3eede9353598d4b5dd8c714]: Textual amendment: [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/9/4) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/5) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/3))
+[^c-576b0866e3eede9353598d4b5dd8c714]: Textual amendment: [Sch. 3 para. 9(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/9/3)[(4)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/9/4) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/5) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/3))
 
-[^key-4580158d102ef887a44bccfd33160bae]: Textual amendment: Words in [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12) heading inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/a) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+[^c-4580158d102ef887a44bccfd33160bae]: Textual amendment: Words in [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12) heading inserted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/a) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
 
-[^key-51c5c429dbead42385cab3f8cf32d62d]: Textual amendment: Words in [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/b) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+[^c-51c5c429dbead42385cab3f8cf32d62d]: Textual amendment: Words in [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/1) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/b) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
 
-[^key-722100c660e93554469000da98948130]: Textual amendment: Words in [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/3) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/b) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+[^c-722100c660e93554469000da98948130]: Textual amendment: Words in [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/3) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/b) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
 
-[^key-cafa09a9074c507b4d082e454972646d]: Textual amendment: [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/5) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/c) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
+[^c-cafa09a9074c507b4d082e454972646d]: Textual amendment: [Sch. 3 para. 12(5)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/12/5) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/6/c) (with [art. 8(4)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/4)[(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/7))
 
-[^key-22675c7e3b3131180c2f8416d3c823e2]: Textual amendment: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/part/4) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2022/577/article/2/7)
+[^c-22675c7e3b3131180c2f8416d3c823e2]: Textual amendment: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/part/4) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2022/577/article/2/7)
 
-[^key-67035e28735cc219e5d6d217f24c4405]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/21) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/7) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/5))
+[^c-67035e28735cc219e5d6d217f24c4405]: Textual amendment: [Sch. 3 para. 21](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/21) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(7)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/7) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/5))
 
-[^key-2d339d268b12efe21ffcbf49bd0bfc46]: Textual amendment: Words in [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/22/3) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(8)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/8) (with [art. 8(6)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/6))
+[^c-2d339d268b12efe21ffcbf49bd0bfc46]: Textual amendment: Words in [Sch. 3 para. 22(3)](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/paragraph/22/3) substituted (14.10.2023) by [The Agriculture and Horticulture Development Board (Amendment) Order 2023 (S.I. 2023/1055)](https://www.legislation.gov.uk/uksi/2023/1055), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1055/article/1/1), [7(8)](https://www.legislation.gov.uk/uksi/2023/1055/article/7/8) (with [art. 8(6)](https://www.legislation.gov.uk/uksi/2023/1055/article/8/6))
 
-[^key-e22bd0c8c735b6eec7ab8323a42de262]: Textual amendment: [Sch. 3 Pt. 6](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/part/6) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2022/577/article/2/7)
+[^c-e22bd0c8c735b6eec7ab8323a42de262]: Textual amendment: [Sch. 3 Pt. 6](https://www.legislation.gov.uk/uksi/2008/576/schedule/3/part/6) omitted (26.5.2022) by virtue of [The Agriculture and Horticulture Development Board (Amendment) Order 2022 (S.I. 2022/577)](https://www.legislation.gov.uk/uksi/2022/577), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/577/article/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2022/577/article/2/7)
 
 [^c19148981]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 
@@ -1014,6 +1014,6 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c19149051]: Marginal citation: [1965 c. 14](https://www.legislation.gov.uk/ukpga/1965/14).
 
-[^key-3b48c8a5d03e734b3ea16f11d24a8397]: Textual amendment: Sch. 5 para. 4 repealed by 2010 c. 15 Sch. 27 Pt. 3 (as inserted (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
+[^c-3b48c8a5d03e734b3ea16f11d24a8397]: Textual amendment: Sch. 5 para. 4 repealed by 2010 c. 15 Sch. 27 Pt. 3 (as inserted (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(b)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/b), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1060/schedule/4))
 
-[^key-041af03fe53f23d1e6411c41dc779b3c]: Textual amendment: Words in Sch. 5 para. 8 revoked (E.) (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/f/i) and (W.) (1.9.2011) by virtue of [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(e)(i)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/e/i)
+[^c-041af03fe53f23d1e6411c41dc779b3c]: Textual amendment: Words in Sch. 5 para. 8 revoked (E.) (1.6.2010) by [The Beef and Pig Carcase Classification (England) Regulations 2010 (S.I. 2010/1090)](https://www.legislation.gov.uk/uksi/2010/1090), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1090/regulation/1), [4(f)(i)](https://www.legislation.gov.uk/uksi/2010/1090/regulation/4/f/i) and (W.) (1.9.2011) by virtue of [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(e)(i)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/e/i)

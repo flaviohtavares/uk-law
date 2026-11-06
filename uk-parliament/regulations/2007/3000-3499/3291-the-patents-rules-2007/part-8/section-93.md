@@ -37,7 +37,7 @@ summary: ''
 
 (5) Each such statement, evidence or other document must be provided in duplicate.
 
-(6)[^key-5351053f2d4ec7d6d811faa619f44f9d] The prescribed matters for the purposes of section 74A(1) are as follows—
+(6)[^c-5351053f2d4ec7d6d811faa619f44f9d] The prescribed matters for the purposes of section 74A(1) are as follows—
 
 - (a) whether a particular act constitutes, or (if done) would constitute, an infringement of the patent;
 - (b) whether, or to what extent, an invention for which the patent has been granted is not a patentable invention;
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5351053f2d4ec7d6d811faa619f44f9d]: Textual amendment: [Rule 93(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/93/6) inserted (1.10.2014) by [The Patents (Amendment) (No. 2) Rules 2014 (S.I. 2014/2401)](https://www.legislation.gov.uk/uksi/2014/2401), [rules 1](https://www.legislation.gov.uk/uksi/2014/2401/rule/1), [10](https://www.legislation.gov.uk/uksi/2014/2401/rule/10)
+[^c-5351053f2d4ec7d6d811faa619f44f9d]: Textual amendment: [Rule 93(6)](https://www.legislation.gov.uk/uksi/2007/3291/rule/93/6) inserted (1.10.2014) by [The Patents (Amendment) (No. 2) Rules 2014 (S.I. 2014/2401)](https://www.legislation.gov.uk/uksi/2014/2401), [rules 1](https://www.legislation.gov.uk/uksi/2014/2401/rule/1), [10](https://www.legislation.gov.uk/uksi/2014/2401/rule/10)

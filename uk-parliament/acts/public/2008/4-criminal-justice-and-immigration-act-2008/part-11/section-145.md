@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Amendments to armed forces legislation[^key-4146fd11edb49c5a51c0cd6e3ffbe6e8][^key-5d497c0c98287970ea78e9d38b468a98]
+## 145. Amendments to armed forces legislation[^c-4146fd11edb49c5a51c0cd6e3ffbe6e8][^c-5d497c0c98287970ea78e9d38b468a98]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Schedule 25 contains—
 
 ## Annotations
 
-[^key-4146fd11edb49c5a51c0cd6e3ffbe6e8]: Commencement: S. 145 in force at 31.10.2009 for specified purposes by [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2](https://www.legislation.gov.uk/uksi/2009/1028/article/2)
+[^c-4146fd11edb49c5a51c0cd6e3ffbe6e8]: Commencement: S. 145 in force at 31.10.2009 for specified purposes by [S.I. 2009/1028](https://www.legislation.gov.uk/uksi/2009/1028), [art. 2](https://www.legislation.gov.uk/uksi/2009/1028/article/2)
 
-[^key-5d497c0c98287970ea78e9d38b468a98]: Commencement: S. 145 in force at 31.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/d)
+[^c-5d497c0c98287970ea78e9d38b468a98]: Commencement: S. 145 in force at 31.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(d)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/d)

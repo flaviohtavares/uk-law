@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Recognised professional bodies: recognition[^key-32943b985363f93dbb280a906a597664]
+## 137. Recognised professional bodies: recognition[^c-32943b985363f93dbb280a906a597664]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32943b985363f93dbb280a906a597664]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2015/26/section/137) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-32943b985363f93dbb280a906a597664]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2015/26/section/137) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)

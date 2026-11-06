@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Discharge of water[^key-be55b0db613fca49b02dfe6721b744f6]
+## 16. Discharge of water[^c-be55b0db613fca49b02dfe6721b744f6]
 
 *Extent: E+W+S*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-be55b0db613fca49b02dfe6721b744f6]: Commencement: Art. 16 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-be55b0db613fca49b02dfe6721b744f6]: Commencement: Art. 16 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
 [^c23642861]: Marginal citation: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 43(2) and 35(8)(a) and paragraph 1 of Schedule 2 to the [Competition and Service (Utilities) Act 1992 (c.43)](https://www.legislation.gov.uk/ukpga/1992/43) and sections 99(2), (4), (5)(a), (5)(b),(5)(c) and 36(2) of the [Water Act 2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 

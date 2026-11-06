@@ -42,7 +42,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 #### Course of abusive behaviour
 
-##### 1. The domestic abuse offence[^key-1e1a162b343c7252f536869d09fce194]
+##### 1. The domestic abuse offence[^c-1e1a162b343c7252f536869d09fce194]
 
 (1) A person (“A”) commits an offence if—
 
@@ -61,7 +61,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) The offence under this section is to be known as the domestic abuse offence.
 
-##### 2. What amounts to abusive behaviour[^key-20d7cadfedc6d7d21846e4cff1619c80]
+##### 2. What amounts to abusive behaviour[^c-20d7cadfedc6d7d21846e4cff1619c80]
 
 (1) This section contains provision for determining for the purposes of this Chapter when behaviour of a person (“A”) is abusive of another person (“B”).
 
@@ -88,7 +88,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) None of the paragraphs of subsection (2) or (as the case may be) (3) is to be taken to limit the meaning of any of the other paragraphs of that subsection.
 
-##### 3. Impact of behaviour on victim[^key-9b786449c6b5b653fac033b45e173ea2]
+##### 3. Impact of behaviour on victim[^c-9b786449c6b5b653fac033b45e173ea2]
 
 (1) The domestic abuse offence can be committed whether or not A's behaviour actually causes B to suffer harm of the sort referred to in section 1(2).
 
@@ -101,7 +101,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (4) In this section, “A” and “B” are as referred to in section 1 or (as the case may be) 2.
 
-##### 4. Meaning of behaviour etc.[^key-cae4fddb4e9cbe0c853532a05c25ca07]
+##### 4. Meaning of behaviour etc.[^c-cae4fddb4e9cbe0c853532a05c25ca07]
 
 (1) This section has effect for the purposes of this Chapter.
 
@@ -125,7 +125,7 @@ as well as in a personal or direct manner.
 
 #### Personal connection
 
-##### 5. Meaning of personal connection[^key-d6b639694dbb11df7645522e30cd3fcf]
+##### 5. Meaning of personal connection[^c-d6b639694dbb11df7645522e30cd3fcf]
 
 (1) This section has effect for the purposes of this Chapter.
 
@@ -154,7 +154,7 @@ as well as in a personal or direct manner.
 - (a) a relationship of the half blood or by affinity is to be treated as a relationship of the whole blood, and
 - (b) a stepchild of a person is to be treated as the person's child.
 
-##### 6. Establishing connection by notice[^key-ba8715dbbf975bc20c136fb2ecd58634]
+##### 6. Establishing connection by notice[^c-ba8715dbbf975bc20c136fb2ecd58634]
 
 (1) In proceedings in respect of a charge against a person (“A”) of the domestic abuse offence, the prosecutor may serve notice on A or A's solicitor proposing that the matter of A and B being personally connected as required for proof of the charge is to be taken as established for the purposes of the proceedings.
 
@@ -172,7 +172,7 @@ as well as in a personal or direct manner.
 
 (5) In this section, “B” is the person in relation to whom the offence is alleged to have been committed.
 
-##### 7. How notice is to be served[^key-bf6c3b8967c15ba83650f1e401b4b08f]
+##### 7. How notice is to be served[^c-bf6c3b8967c15ba83650f1e401b4b08f]
 
 (1) This section governs service in proceedings by virtue of section 6—
 
@@ -213,7 +213,7 @@ as well as in a personal or direct manner.
 
 #### Aggravating factors
 
-##### 8. Aggravation where victim is under 18[^key-bcce2dfdf996ef15b8c03be9f5546a7b]
+##### 8. Aggravation where victim is under 18[^c-bcce2dfdf996ef15b8c03be9f5546a7b]
 
 (1) It may be specified as an allegation alongside a charge of the domestic abuse offence against a person (“A”) that the offence is aggravated by reason of the person in relation to whom the offence is alleged to have been committed (“B”) having been under 18 years of age at the time of any of the behaviour by virtue of which the offence is constituted.
 
@@ -236,7 +236,7 @@ as well as in a personal or direct manner.
 
 A's conviction is as if there were no reference to the aggravation alongside the charge.
 
-##### 9. Aggravation where relevant child is involved[^key-310a724d11fe5be70c6afcc10b1d45d2]
+##### 9. Aggravation where relevant child is involved[^c-310a724d11fe5be70c6afcc10b1d45d2]
 
 (1) It may be specified as an allegation alongside a charge of the domestic abuse offence against a person (“A”) that the offence is aggravated by reason of involving a relevant child.
 
@@ -284,7 +284,7 @@ A's conviction is as if there were no reference to the aggravation alongside the
 
 #### Applicable rules and penalty
 
-##### 10. Behaviour occurring outside the UK[^key-a2d4da31a5a5c174b1684e06f0c261b1]
+##### 10. Behaviour occurring outside the UK[^c-a2d4da31a5a5c174b1684e06f0c261b1]
 
 (1) If—
 
@@ -302,7 +302,7 @@ the person commits the domestic abuse offence as if the course of behaviour occu
   - (b) a person who under the British Nationality Act 1981 is a British subject, or
   - (c) a British protected person within the meaning of that Act.
 
-##### 11. Exception where responsibility for children[^key-85c3db69a970757034e38ce4777e04fb]
+##### 11. Exception where responsibility for children[^c-85c3db69a970757034e38ce4777e04fb]
 
 .—(1) A person (“A”) does not commit the domestic abuse offence in relation to another person (“B”) by engaging in behaviour that is abusive of B at a time when—
 
@@ -311,7 +311,7 @@ the person commits the domestic abuse offence as if the course of behaviour occu
 
 (2) Section 36 of the Children and Young Persons Act (Northern Ireland) 1968 applies for the purposes of determining whether A has responsibility for B as it applies for the purposes of determining whether a person has responsibility for a child or young person within the meaning of that Act.
 
-##### 12. Defence on grounds of reasonableness[^key-0aa3daa131f0b741296f2ad41ab04011]
+##### 12. Defence on grounds of reasonableness[^c-0aa3daa131f0b741296f2ad41ab04011]
 
 (1) In proceedings in respect of a charge against a person (“A”) of the domestic abuse offence, it is a defence for A to show that the course of behaviour was reasonable in the particular circumstances.
 
@@ -320,7 +320,7 @@ the person commits the domestic abuse offence as if the course of behaviour occu
 - (a) evidence adduced is enough to raise an issue as to whether the course of behaviour is as described in subsection (1), and
 - (b) the prosecution does not prove beyond reasonable doubt that the course of behaviour is not as described in subsection (1).
 
-##### 13. Alternative available for conviction[^key-374881c3b911ef74d5110b0672e8ec75]
+##### 13. Alternative available for conviction[^c-374881c3b911ef74d5110b0672e8ec75]
 
 (1) In proceedings in respect of a charge against a person (“A”) of the domestic abuse offence, A may be convicted of an alternative offence if the facts proved against A—
 
@@ -331,12 +331,12 @@ the person commits the domestic abuse offence as if the course of behaviour occu
 
 - (a) an offence under Article 4 of the Protection from Harassment (Northern Ireland) Order 1997 (harassment),
 - (b) an offence under Article 6 of that Order (putting people in fear of violence).
-- (c)[^key-3005555f781220b09d8b5c6c0cb12b8c] an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021 (offence of stalking),
+- (c)[^c-3005555f781220b09d8b5c6c0cb12b8c] an offence under section 1 of the Protection from Stalking Act (Northern Ireland) 2021 (offence of stalking),
 - (d) an offence under section 2 of that Act (offence of threatening or abusive behaviour).
 
 (3) This section is without prejudice to section 6(2) of the Criminal Law Act (Northern Ireland) 1967 (alternative verdicts on trial on indictment).
 
-##### 14. Penalty for the offence[^key-a1b4e5f21c54e8131dec7169bb0669a5]
+##### 14. Penalty for the offence[^c-a1b4e5f21c54e8131dec7169bb0669a5]
 
 A person who commits the domestic abuse offence is liable—
 
@@ -347,7 +347,7 @@ A person who commits the domestic abuse offence is liable—
 
 #### Sentencing aggravation
 
-##### 15. Aggravation as to domestic abuse[^key-f895836b04e68b1a7c173950aace15d2]
+##### 15. Aggravation as to domestic abuse[^c-f895836b04e68b1a7c173950aace15d2]
 
 (1) It may be specified as an allegation alongside a charge of an offence against a person (“A”) that the offence is aggravated by reason of involving domestic abuse.
 
@@ -372,7 +372,7 @@ A person who commits the domestic abuse offence is liable—
 
 A's conviction is as if there were no reference to the aggravation alongside the charge.
 
-##### 16. What amounts to the aggravation[^key-46ba4c0323995d2d9160a3f45205e44b]
+##### 16. What amounts to the aggravation[^c-46ba4c0323995d2d9160a3f45205e44b]
 
 (1) For the purposes of section 15, an offence committed by a person (“A”) is aggravated by reason of involving domestic abuse if the three listed conditions are met.
 
@@ -393,7 +393,7 @@ A's conviction is as if there were no reference to the aggravation alongside the
 
 (5) The references in this section to psychological harm include fear, alarm and distress.
 
-##### 17. Exception regarding the aggravation[^key-c683e91817f45b1f3565e3038c2580ba]
+##### 17. Exception regarding the aggravation[^c-c683e91817f45b1f3565e3038c2580ba]
 
 (1) For the purposes of section 16, an offence committed by a person (“A”) cannot be aggravated in relation to another person (“B”) by reason of involving domestic abuse if, at the time of the commission of the offence—
 
@@ -404,7 +404,7 @@ A's conviction is as if there were no reference to the aggravation alongside the
 
 #### Personal connection
 
-##### 18. Meaning of personal connection[^key-eb3a8e9f6cb1a75eb743f8fa678d9a9a]
+##### 18. Meaning of personal connection[^c-eb3a8e9f6cb1a75eb743f8fa678d9a9a]
 
 (1) This section has effect for the purposes of this Chapter.
 
@@ -433,7 +433,7 @@ A's conviction is as if there were no reference to the aggravation alongside the
 - (a) a relationship of the half blood or by affinity is to be treated as a relationship of the whole blood, and
 - (b) a stepchild of a person is to be treated as the person's child.
 
-##### 19. Establishing connection by notice[^key-420454a03aad89a915fe122328a41046]
+##### 19. Establishing connection by notice[^c-420454a03aad89a915fe122328a41046]
 
 (1) In proceedings in respect of a charge against a person (“A”) of an offence alongside which there is specification of an allegation of aggravation as mentioned in section 15, the prosecutor may serve notice on A or A's solicitor proposing that the matter of A and B being personally connected as required for proof of the aggravation is to be taken as established for the purposes of the proceedings.
 
@@ -451,7 +451,7 @@ A's conviction is as if there were no reference to the aggravation alongside the
 
 (5) In this section, “B” is the person in relation to whom the offence is alleged to have been committed.
 
-##### 20. How notice is to be served[^key-1858bbff08e783657edb31a02e041c0b]
+##### 20. How notice is to be served[^c-1858bbff08e783657edb31a02e041c0b]
 
 (1) This section governs service in proceedings by virtue of section 19—
 
@@ -494,7 +494,7 @@ A's conviction is as if there were no reference to the aggravation alongside the
 
 #### Definitions for child cruelty offence
 
-##### 21. Meaning of ill-treatment etc. in offence provision[^key-e3b26e2a85d1c9d58eb1a265791eb54f]
+##### 21. Meaning of ill-treatment etc. in offence provision[^c-e3b26e2a85d1c9d58eb1a265791eb54f]
 
 In section 20 (cruelty to persons under 16) of the Children and Young Persons Act (Northern Ireland) 1968—
 
@@ -509,7 +509,7 @@ In section 20 (cruelty to persons under 16) of the Children and Young Persons Ac
 
 #### Criminal cases involving domestic abuse
 
-##### 22. No right to claim trial by jury[^key-a4f631bba43b48a79859aa6e2b842870]
+##### 22. No right to claim trial by jury[^c-a4f631bba43b48a79859aa6e2b842870]
 
 In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right to claim trial by jury for certain summary offences), after sub-paragraph (p) insert—
 
@@ -517,7 +517,7 @@ In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right
 
 .
 
-##### 23. Special measures directions[^key-9256ba8337d872c30c2ab1acfce0f939]
+##### 23. Special measures directions[^c-9256ba8337d872c30c2ab1acfce0f939]
 
 (1) The Criminal Evidence (Northern Ireland) Order 1999 is amended as follows.
 
@@ -536,7 +536,7 @@ In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right
 
 (3) In Article 13(4)(a) (evidence given in private), for “a sexual offence or a slavery or human trafficking offence” substitute “ an offence listed in Article 5(5) ”.
 
-##### 24. Prohibition of cross-examination in person[^key-36e9ec0668920fb933b1019cfd8a3f5d]
+##### 24. Prohibition of cross-examination in person[^c-36e9ec0668920fb933b1019cfd8a3f5d]
 
 (1) The Criminal Evidence (Northern Ireland) Order 1999 is amended as follows.
 
@@ -571,7 +571,7 @@ In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right
 
 (6) In Article 27(1) (warning to jury), after “22,” insert “ 22A, ”.
 
-##### 25. Meaning of offence involving domestic abuse etc.[^key-1ab1b094149655eeb221699c1e5434ab]
+##### 25. Meaning of offence involving domestic abuse etc.[^c-1ab1b094149655eeb221699c1e5434ab]
 
 (1) The Criminal Evidence (Northern Ireland) Order 1999 is amended as follows (in connection with sections 23 and 24).
 
@@ -606,7 +606,7 @@ In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right
 
 #### Information-sharing and victim protection
 
-##### 26. Information-sharing with schools etc.[^key-4d19bd3ed2c6255166d5bcfacd1410a5]
+##### 26. Information-sharing with schools etc.[^c-4d19bd3ed2c6255166d5bcfacd1410a5]
 
 (1) The Department of Justice may by regulations make provision—
 
@@ -646,7 +646,7 @@ In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right
 
 (7) Regulations under this section may not be made unless a draft of the regulations has been laid before and approved by a resolution of the Assembly.
 
-##### 27. Protective measures for victims of abuse[^key-7347b3865464d13ca73ee3d35f854ccd]
+##### 27. Protective measures for victims of abuse[^c-7347b3865464d13ca73ee3d35f854ccd]
 
 (1) The Department of Justice may by regulations make provision—
 
@@ -748,7 +748,7 @@ In Article 29(1) of the Magistrates' Courts (Northern Ireland) Order 1981 (right
 
 #### Civil legal aid for victims of abuse
 
-##### 28. Eligibility of victims for civil legal aid[^key-59345a0b3b10cbd5b0ebd1bba8eb9caa]
+##### 28. Eligibility of victims for civil legal aid[^c-59345a0b3b10cbd5b0ebd1bba8eb9caa]
 
 (1) In the Civil Legal Services (Financial) Regulations (Northern Ireland) 2015, in regulation 10 (waiver of eligibility limits in proceedings relating to domestic violence or forced marriage)—
 
@@ -833,7 +833,7 @@ may be reached, particularly on the basis of applicable information about the co
 
 #### Guidance and operational matters
 
-##### 30. Guidance about domestic abuse[^key-bedb0ce60526dccff005c15bff1532c0]
+##### 30. Guidance about domestic abuse[^c-bedb0ce60526dccff005c15bff1532c0]
 
 (1) The Department of Justice must issue guidance about—
 
@@ -851,7 +851,7 @@ may be reached, particularly on the basis of applicable information about the co
 
 (5) Nothing in this section permits the Department of Justice to issue guidance to a court or tribunal.
 
-##### 31. Guidance on data collection[^key-231e1f87ae73a4ceec71e87b1683f13e]
+##### 31. Guidance on data collection[^c-231e1f87ae73a4ceec71e87b1683f13e]
 
 (1) The Department of Justice—
 
@@ -864,7 +864,7 @@ may be reached, particularly on the basis of applicable information about the co
 - (b) the Public Prosecution Service for Northern Ireland, and
 - (c) such additional bodies as the Department considers appropriate.
 
-##### 32. Training within relevant bodies[^key-ab978d8f5177486114f07cb093fa9531]
+##### 32. Training within relevant bodies[^c-ab978d8f5177486114f07cb093fa9531]
 
 (1) Each of the following must provide such training on the effect of this Part as it considers appropriate for its personnel—
 
@@ -924,7 +924,7 @@ may be reached, particularly on the basis of applicable information about the co
 
 (7) Regulations under this section are subject to negative resolution.
 
-##### 34. Report on the operation of this Part[^key-1f7f8c324677f89c3e51a744eb77abff]
+##### 34. Report on the operation of this Part[^c-1f7f8c324677f89c3e51a744eb77abff]
 
 (1) The Department of Justice must prepare a report, covering the reporting period, in relation to the following categories of offence—
 
@@ -978,7 +978,7 @@ as soon as practicable after the report is completed by the time and in the form
 
 ### Residence and contact orders
 
-#### 35. Factors relevant to residence and contact orders[^key-e9f5a005358d0471bb87946c09231479]
+#### 35. Factors relevant to residence and contact orders[^c-e9f5a005358d0471bb87946c09231479]
 
 In the Children (Northern Ireland) Order 1995, in Article 12A (residence and contact orders and domestic violence)—
 
@@ -1228,7 +1228,7 @@ In the Family Law (Northern Ireland) Order 1993, after Article 11 insert—
 
 .
 
-#### 37. Special measures directions in family proceedings[^key-f5c68e735e08dfc6c7612cdd171fc118]
+#### 37. Special measures directions in family proceedings[^c-f5c68e735e08dfc6c7612cdd171fc118]
 
 In the Family Law (Northern Ireland) Order 1993, after Article 11J (as inserted by this Act) insert—
 
@@ -1539,72 +1539,72 @@ This Act may be cited as the Domestic Abuse and Civil Proceedings Act (Northern 
 
 ## Annotations
 
-[^key-1e1a162b343c7252f536869d09fce194]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2021/2/section/1) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/57/article/2/a)
+[^c-1e1a162b343c7252f536869d09fce194]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2021/2/section/1) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/57/article/2/a)
 
-[^key-20d7cadfedc6d7d21846e4cff1619c80]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/2/section/2) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/57/article/2/b)
+[^c-20d7cadfedc6d7d21846e4cff1619c80]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/2/section/2) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/57/article/2/b)
 
-[^key-9b786449c6b5b653fac033b45e173ea2]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/2/section/3) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/57/article/2/c)
+[^c-9b786449c6b5b653fac033b45e173ea2]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/2/section/3) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/57/article/2/c)
 
-[^key-cae4fddb4e9cbe0c853532a05c25ca07]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/2/section/4) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/57/article/2/d)
+[^c-cae4fddb4e9cbe0c853532a05c25ca07]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/2/section/4) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/57/article/2/d)
 
-[^key-d6b639694dbb11df7645522e30cd3fcf]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/2/section/5) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(e)](https://www.legislation.gov.uk/nisr/2022/57/article/2/e)
+[^c-d6b639694dbb11df7645522e30cd3fcf]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/2/section/5) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(e)](https://www.legislation.gov.uk/nisr/2022/57/article/2/e)
 
-[^key-ba8715dbbf975bc20c136fb2ecd58634]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2021/2/section/6) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(f)](https://www.legislation.gov.uk/nisr/2022/57/article/2/f)
+[^c-ba8715dbbf975bc20c136fb2ecd58634]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2021/2/section/6) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(f)](https://www.legislation.gov.uk/nisr/2022/57/article/2/f)
 
-[^key-bf6c3b8967c15ba83650f1e401b4b08f]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/2/section/7) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(g)](https://www.legislation.gov.uk/nisr/2022/57/article/2/g)
+[^c-bf6c3b8967c15ba83650f1e401b4b08f]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/2/section/7) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(g)](https://www.legislation.gov.uk/nisr/2022/57/article/2/g)
 
-[^key-bcce2dfdf996ef15b8c03be9f5546a7b]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/2/section/8) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(h)](https://www.legislation.gov.uk/nisr/2022/57/article/2/h)
+[^c-bcce2dfdf996ef15b8c03be9f5546a7b]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/2/section/8) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(h)](https://www.legislation.gov.uk/nisr/2022/57/article/2/h)
 
-[^key-310a724d11fe5be70c6afcc10b1d45d2]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/2/section/9) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(i)](https://www.legislation.gov.uk/nisr/2022/57/article/2/i)
+[^c-310a724d11fe5be70c6afcc10b1d45d2]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/2/section/9) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(i)](https://www.legislation.gov.uk/nisr/2022/57/article/2/i)
 
-[^key-a2d4da31a5a5c174b1684e06f0c261b1]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/2/section/10) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(j)](https://www.legislation.gov.uk/nisr/2022/57/article/2/j)
+[^c-a2d4da31a5a5c174b1684e06f0c261b1]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/2/section/10) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(j)](https://www.legislation.gov.uk/nisr/2022/57/article/2/j)
 
-[^key-85c3db69a970757034e38ce4777e04fb]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2021/2/section/11) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(k)](https://www.legislation.gov.uk/nisr/2022/57/article/2/k)
+[^c-85c3db69a970757034e38ce4777e04fb]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2021/2/section/11) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(k)](https://www.legislation.gov.uk/nisr/2022/57/article/2/k)
 
-[^key-0aa3daa131f0b741296f2ad41ab04011]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/2/section/12) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(l)](https://www.legislation.gov.uk/nisr/2022/57/article/2/l)
+[^c-0aa3daa131f0b741296f2ad41ab04011]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/2/section/12) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(l)](https://www.legislation.gov.uk/nisr/2022/57/article/2/l)
 
-[^key-374881c3b911ef74d5110b0672e8ec75]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2021/2/section/13) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(m)](https://www.legislation.gov.uk/nisr/2022/57/article/2/m)
+[^c-374881c3b911ef74d5110b0672e8ec75]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2021/2/section/13) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(m)](https://www.legislation.gov.uk/nisr/2022/57/article/2/m)
 
-[^key-3005555f781220b09d8b5c6c0cb12b8c]: Textual amendment: [S. 13(2)(c)-(d)](https://www.legislation.gov.uk/nia/2021/2/section/13/2/c) addded (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 4](https://www.legislation.gov.uk/nia/2022/17/section/4), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
+[^c-3005555f781220b09d8b5c6c0cb12b8c]: Textual amendment: [S. 13(2)(c)-(d)](https://www.legislation.gov.uk/nia/2021/2/section/13/2/c) addded (27.4.2022) by [Protection from Stalking Act (Northern Ireland) 2022 (c. 17)](https://www.legislation.gov.uk/nia/2022/17), [ss. 4](https://www.legislation.gov.uk/nia/2022/17/section/4), [22(1)](https://www.legislation.gov.uk/nia/2022/17/section/22/1)
 
-[^key-a1b4e5f21c54e8131dec7169bb0669a5]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/2/section/14) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(n)](https://www.legislation.gov.uk/nisr/2022/57/article/2/n)
+[^c-a1b4e5f21c54e8131dec7169bb0669a5]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/2/section/14) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(n)](https://www.legislation.gov.uk/nisr/2022/57/article/2/n)
 
-[^key-f895836b04e68b1a7c173950aace15d2]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/2/section/15) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(o)](https://www.legislation.gov.uk/nisr/2022/57/article/2/o)
+[^c-f895836b04e68b1a7c173950aace15d2]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/2/section/15) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(o)](https://www.legislation.gov.uk/nisr/2022/57/article/2/o)
 
-[^key-46ba4c0323995d2d9160a3f45205e44b]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/2/section/16) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(p)](https://www.legislation.gov.uk/nisr/2022/57/article/2/p)
+[^c-46ba4c0323995d2d9160a3f45205e44b]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/2/section/16) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(p)](https://www.legislation.gov.uk/nisr/2022/57/article/2/p)
 
-[^key-c683e91817f45b1f3565e3038c2580ba]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/2/section/17) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(q)](https://www.legislation.gov.uk/nisr/2022/57/article/2/q)
+[^c-c683e91817f45b1f3565e3038c2580ba]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/2/section/17) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(q)](https://www.legislation.gov.uk/nisr/2022/57/article/2/q)
 
-[^key-eb3a8e9f6cb1a75eb743f8fa678d9a9a]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/2/section/18) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(r)](https://www.legislation.gov.uk/nisr/2022/57/article/2/r)
+[^c-eb3a8e9f6cb1a75eb743f8fa678d9a9a]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/2/section/18) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(r)](https://www.legislation.gov.uk/nisr/2022/57/article/2/r)
 
-[^key-420454a03aad89a915fe122328a41046]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/2/section/19) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(s)](https://www.legislation.gov.uk/nisr/2022/57/article/2/s)
+[^c-420454a03aad89a915fe122328a41046]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/2/section/19) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(s)](https://www.legislation.gov.uk/nisr/2022/57/article/2/s)
 
-[^key-1858bbff08e783657edb31a02e041c0b]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/2/section/20) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(t)](https://www.legislation.gov.uk/nisr/2022/57/article/2/t)
+[^c-1858bbff08e783657edb31a02e041c0b]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/2/section/20) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(t)](https://www.legislation.gov.uk/nisr/2022/57/article/2/t)
 
-[^key-e3b26e2a85d1c9d58eb1a265791eb54f]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/2/section/21) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(u)](https://www.legislation.gov.uk/nisr/2022/57/article/2/u)
+[^c-e3b26e2a85d1c9d58eb1a265791eb54f]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/2/section/21) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(u)](https://www.legislation.gov.uk/nisr/2022/57/article/2/u)
 
-[^key-a4f631bba43b48a79859aa6e2b842870]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/2/section/22) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(v)](https://www.legislation.gov.uk/nisr/2022/57/article/2/v)
+[^c-a4f631bba43b48a79859aa6e2b842870]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/2/section/22) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(v)](https://www.legislation.gov.uk/nisr/2022/57/article/2/v)
 
-[^key-9256ba8337d872c30c2ab1acfce0f939]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/2/section/23) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
+[^c-9256ba8337d872c30c2ab1acfce0f939]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/2/section/23) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(w)](https://www.legislation.gov.uk/nisr/2022/57/article/2/w)
 
-[^key-36e9ec0668920fb933b1019cfd8a3f5d]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/2/section/24) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
+[^c-36e9ec0668920fb933b1019cfd8a3f5d]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/2/section/24) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(x)](https://www.legislation.gov.uk/nisr/2022/57/article/2/x)
 
-[^key-1ab1b094149655eeb221699c1e5434ab]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/2/section/25) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(y)](https://www.legislation.gov.uk/nisr/2022/57/article/2/y)
+[^c-1ab1b094149655eeb221699c1e5434ab]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/2/section/25) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(y)](https://www.legislation.gov.uk/nisr/2022/57/article/2/y)
 
-[^key-4d19bd3ed2c6255166d5bcfacd1410a5]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/2/section/26) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(z)](https://www.legislation.gov.uk/nisr/2022/57/article/2/z)
+[^c-4d19bd3ed2c6255166d5bcfacd1410a5]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/2/section/26) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(z)](https://www.legislation.gov.uk/nisr/2022/57/article/2/z)
 
-[^key-7347b3865464d13ca73ee3d35f854ccd]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/2/section/27) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(aa)](https://www.legislation.gov.uk/nisr/2022/57/article/2/aa)
+[^c-7347b3865464d13ca73ee3d35f854ccd]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/2/section/27) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(aa)](https://www.legislation.gov.uk/nisr/2022/57/article/2/aa)
 
-[^key-59345a0b3b10cbd5b0ebd1bba8eb9caa]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/2/section/28) in operation at 22.2.2022 by [S.R. 2022/59](https://www.legislation.gov.uk/nisr/2022/59), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/59/article/2/a)
+[^c-59345a0b3b10cbd5b0ebd1bba8eb9caa]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/2/section/28) in operation at 22.2.2022 by [S.R. 2022/59](https://www.legislation.gov.uk/nisr/2022/59), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/59/article/2/a)
 
-[^key-bedb0ce60526dccff005c15bff1532c0]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/2/section/30) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(bb)](https://www.legislation.gov.uk/nisr/2022/57/article/2/bb)
+[^c-bedb0ce60526dccff005c15bff1532c0]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/2/section/30) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(bb)](https://www.legislation.gov.uk/nisr/2022/57/article/2/bb)
 
-[^key-231e1f87ae73a4ceec71e87b1683f13e]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/2/section/31) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(cc)](https://www.legislation.gov.uk/nisr/2022/57/article/2/cc)
+[^c-231e1f87ae73a4ceec71e87b1683f13e]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/2/section/31) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(cc)](https://www.legislation.gov.uk/nisr/2022/57/article/2/cc)
 
-[^key-ab978d8f5177486114f07cb093fa9531]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2021/2/section/32) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(dd)](https://www.legislation.gov.uk/nisr/2022/57/article/2/dd)
+[^c-ab978d8f5177486114f07cb093fa9531]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2021/2/section/32) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(dd)](https://www.legislation.gov.uk/nisr/2022/57/article/2/dd)
 
-[^key-1f7f8c324677f89c3e51a744eb77abff]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2021/2/section/34) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(ee)](https://www.legislation.gov.uk/nisr/2022/57/article/2/ee)
+[^c-1f7f8c324677f89c3e51a744eb77abff]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2021/2/section/34) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(ee)](https://www.legislation.gov.uk/nisr/2022/57/article/2/ee)
 
-[^key-e9f5a005358d0471bb87946c09231479]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/2/section/35) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(ff)](https://www.legislation.gov.uk/nisr/2022/57/article/2/ff)
+[^c-e9f5a005358d0471bb87946c09231479]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/2/section/35) in operation at 21.2.2022 by [S.R. 2022/57](https://www.legislation.gov.uk/nisr/2022/57), [art. 2(ff)](https://www.legislation.gov.uk/nisr/2022/57/article/2/ff)
 
-[^key-f5c68e735e08dfc6c7612cdd171fc118]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/2/section/37) in operation at 28.11.2022 by [S.R. 2022/253](https://www.legislation.gov.uk/nisr/2022/253), [art. 2](https://www.legislation.gov.uk/nisr/2022/253/article/2)
+[^c-f5c68e735e08dfc6c7612cdd171fc118]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/2/section/37) in operation at 28.11.2022 by [S.R. 2022/253](https://www.legislation.gov.uk/nisr/2022/253), [art. 2](https://www.legislation.gov.uk/nisr/2022/253/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Transfer of other functions to Treasury, Board or Secretary of State[^key-5fa094acdd9a15fb55e9c59939c6f4d1][^key-944db3cd01e31eaf4fc704357c55dd9b]
+## 4. Transfer of other functions to Treasury, Board or Secretary of State[^c-5fa094acdd9a15fb55e9c59939c6f4d1][^c-944db3cd01e31eaf4fc704357c55dd9b]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Schedule 3 to this Order (which contains amendments transferring to the Treasury
 
 ## Annotations
 
-[^key-5fa094acdd9a15fb55e9c59939c6f4d1]: Commencement: Art. 4 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-5fa094acdd9a15fb55e9c59939c6f4d1]: Commencement: Art. 4 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-944db3cd01e31eaf4fc704357c55dd9b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1999/671/article/4) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-944db3cd01e31eaf4fc704357c55dd9b]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/1999/671/article/4) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))

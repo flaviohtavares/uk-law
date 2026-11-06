@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Interpretation[^key-14c7ffb1448cd73eda106f8fc04262ce]
+## 70. Interpretation[^c-14c7ffb1448cd73eda106f8fc04262ce]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14c7ffb1448cd73eda106f8fc04262ce]: Commencement: Art. 70 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-14c7ffb1448cd73eda106f8fc04262ce]: Commencement: Art. 70 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00050]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664) as amended by [S.I.1996/703](https://www.legislation.gov.uk/uksi/1996/703), [1998/674](https://www.legislation.gov.uk/uksi/1998/674), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2003/1397](https://www.legislation.gov.uk/uksi/2003/1397).

@@ -33,7 +33,7 @@ An Act to provide for the establishment and functions of a body corporate to be 
 
 \[30th October 1985\] [^c767644]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-9cb42fac5419f1f6082df27d689dc80a]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-9cb42fac5419f1f6082df27d689dc80a]
 
 ## 1. The Agency.
 
@@ -119,7 +119,7 @@ In this Act—
 - (a) any participation agreement as defined in section 1 of the [^c767651]Participation Agreements Act 1978; or
 - (b) so much of any scheme made under section 2 or 10 of the [^c767652]Oil and Gas (Enterprise) Act 1982 as would, if made by agreement, constitute a participation agreement as so defined;
   - “[^c767653] **petroleum** ” has the same meaning as in Part I of the Petroleum Act 1998;
-  - “**subsidiary**” and “**wholly owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^key-3adf76328e0545221e5064ae65202dea];
+  - “**subsidiary**” and “**wholly owned subsidiary**” have the meanings given by section 1159 of the Companies Act 2006[^c-3adf76328e0545221e5064ae65202dea];
   - “**the transfer date**” has the meaning given by section 3(1) above;
   - “**the transitional period**” has the meaning given by section 3(4) above.
 
@@ -379,7 +379,7 @@ and the Comptroller and Auditor General shall examine, certify and report on the
 
 and where the Agency prepares such a statement of consolidated accounts in respect of any accounting year, the Secretary of State may with the approval of the Treasury direct that the statement of accounts prepared by the Agency under sub-paragraph (1) above in respect of that year shall not be required to show the Agency’s profit or loss.
 
-In this sub-paragraph “[^c767670]**subsidiary undertaking**” has the same meaning as in the Companies Acts (see section 1162 of, and Schedule 7 to, the Companies Act 2006)[^key-c87075324ac0501bb4a00781575b7a98].
+In this sub-paragraph “[^c767670]**subsidiary undertaking**” has the same meaning as in the Companies Acts (see section 1162 of, and Schedule 7 to, the Companies Act 2006)[^c-c87075324ac0501bb4a00781575b7a98].
 
 (3) Without prejudice to the requirements of sub-paragraphs (1) and (2) above, every statement of accounts prepared by the Agency in accordance with this paragraph shall comply with any requirement which the Secretary of State has with the approval of the Treasury notified in writing to the Agency relating to—
 
@@ -387,13 +387,13 @@ In this sub-paragraph “[^c767670]**subsidiary undertaking**” has the same me
 - (b) the manner in which that information is to be presented; and
 - (c) the methods and principles according to which the statement is to be prepared.
 
-(4) The accounts kept, and all statements prepared, by the Agency under this paragraph in respect of accounting years ending on or before 31st March 2002[^key-7e9b6d34629a95a44aec5e10bd229310] shall be audited by auditors appointed for each such[^key-aa2031de5365256e727b52596fcbfd64] accounting year by the Secretary of State after consultation with the Agency.
+(4) The accounts kept, and all statements prepared, by the Agency under this paragraph in respect of accounting years ending on or before 31st March 2002[^c-7e9b6d34629a95a44aec5e10bd229310] shall be audited by auditors appointed for each such[^c-aa2031de5365256e727b52596fcbfd64] accounting year by the Secretary of State after consultation with the Agency.
 
-(5)[^c767671] a person shall not be appointed under sub-paragraph (4) above unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^key-eca55d812c2e561c3697aaaf38235d88].
+(5)[^c767671] a person shall not be appointed under sub-paragraph (4) above unless he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c-eca55d812c2e561c3697aaaf38235d88].
 
-(6) As soon as the accounts kept, and the statements prepared, by the Agency under this paragraph in respect of accounting years ending on or before 31st March 2002[^key-ee729faf16d21d79a8a8af5f40b0aae0] have been audited, the Agency shall send to the Secretary of State a copy of the statements together with a copy of any report made by the auditors on the statements or on the accounts of the Agency; and the Secretary of State shall lay a copy of every statement and report of which a copy is received by him in pursuance of this sub-paragraph before each House of Parliament.
+(6) As soon as the accounts kept, and the statements prepared, by the Agency under this paragraph in respect of accounting years ending on or before 31st March 2002[^c-ee729faf16d21d79a8a8af5f40b0aae0] have been audited, the Agency shall send to the Secretary of State a copy of the statements together with a copy of any report made by the auditors on the statements or on the accounts of the Agency; and the Secretary of State shall lay a copy of every statement and report of which a copy is received by him in pursuance of this sub-paragraph before each House of Parliament.
 
-(7)[^key-bb94fc18e0d323099c5f073e317006a3] The Agency shall send the accounts kept in respect of each accounting year ending on or after 31st March 2003 and the statement of accounts prepared by it under this paragraph in respect of each such accounting year to the Comptroller and Auditor General as soon as reasonably practicable after the end of the accounting year to which the accounts relate.
+(7)[^c-bb94fc18e0d323099c5f073e317006a3] The Agency shall send the accounts kept in respect of each accounting year ending on or after 31st March 2003 and the statement of accounts prepared by it under this paragraph in respect of each such accounting year to the Comptroller and Auditor General as soon as reasonably practicable after the end of the accounting year to which the accounts relate.
 
 ### Meaning of “accounting year”
 
@@ -442,7 +442,7 @@ Section 7.
 
 [^c767644]: Commencement: Act not in force at Royal Assent see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1985/62/section/8/2) ; Act wholly in force on 27.03.1986.
 
-[^key-9cb42fac5419f1f6082df27d689dc80a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/62) power to repeal conferred (E.W.S.) (30.4.2015) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 129(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/129/1), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [s. 130](https://www.legislation.gov.uk/ukpga/2013/32/section/130)); [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-9cb42fac5419f1f6082df27d689dc80a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1985/62) power to repeal conferred (E.W.S.) (30.4.2015) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 129(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/129/1), [156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1) (with [s. 130](https://www.legislation.gov.uk/ukpga/2013/32/section/130)); [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
 
 [^c767645]: Modification: 1.12.1985 appointed as the transfer date for the purposes of s. 3(1) by [S.I. 1985/1749](https://www.legislation.gov.uk/uksi/1985/1749), [art. 2](https://www.legislation.gov.uk/uksi/1985/1749/article/2)
 
@@ -454,7 +454,7 @@ Section 7.
 
 [^c767653]: Textual amendment: S. 6(b): definition substituted (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 50](https://www.legislation.gov.uk/ukpga/1998/17/section/50), [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/1998/17/schedule/4/paragraph/21) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 
-[^key-3adf76328e0545221e5064ae65202dea]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/59) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-3adf76328e0545221e5064ae65202dea]: Textual amendment: Words in s. 6 substituted (1.10.2009) by [Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/59) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c767655]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/1985/62/section/7/2) repealed (E.W.S.) by [Gas Act 1986 (c. 44, SIF 44:2)](https://www.legislation.gov.uk/ukpga/1986/44), [s. 67(4)](https://www.legislation.gov.uk/ukpga/1986/44/section/67/4), [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1986/44/schedule/9/part/II)
 
@@ -474,16 +474,16 @@ Section 7.
 
 [^c767670]: Textual amendment: Words added by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40) , [s. 23](https://www.legislation.gov.uk/ukpga/1989/40/section/23) , [Sch. 10 para. 33](https://www.legislation.gov.uk/ukpga/1989/40/schedule/10/paragraph/33) (subject to savings and transitional provisions in [S.I. 1990/1392](https://www.legislation.gov.uk/uksi/1990/1392) , [art. 6](https://www.legislation.gov.uk/uksi/1990/1392/article/6) )
 
-[^key-c87075324ac0501bb4a00781575b7a98]: Textual amendment: Words in [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/1985/62/schedule/3/paragraph/9/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2)[Sch. 1 para. 96](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/96) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6)[11](https://www.legislation.gov.uk/uksi/2008/948/article/11)[12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-c87075324ac0501bb4a00781575b7a98]: Textual amendment: Words in [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/1985/62/schedule/3/paragraph/9/2) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2)[Sch. 1 para. 96](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/96) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6)[11](https://www.legislation.gov.uk/uksi/2008/948/article/11)[12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-7e9b6d34629a95a44aec5e10bd229310]: Textual amendment: Words in Sch. 3 para. 9(4) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(2)(a)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/2/a)
+[^c-7e9b6d34629a95a44aec5e10bd229310]: Textual amendment: Words in Sch. 3 para. 9(4) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(2)(a)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/2/a)
 
-[^key-aa2031de5365256e727b52596fcbfd64]: Textual amendment: Word in Sch. 3 para. 9(4) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(2)(b)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/2/b)
+[^c-aa2031de5365256e727b52596fcbfd64]: Textual amendment: Word in Sch. 3 para. 9(4) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(2)(b)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/2/b)
 
 [^c767671]: Textual amendment: Sch. 3 para. 9(5) substituted (1.10.1991) by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997) , [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2) ,Sch. (with reg. 4)
 
-[^key-eca55d812c2e561c3697aaaf38235d88]: Textual amendment: Words in [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ukpga/1985/62/schedule/3/paragraph/9/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2)[Sch. 1 para. 1(gg)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/gg) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6)[11](https://www.legislation.gov.uk/uksi/2008/948/article/11)[12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-eca55d812c2e561c3697aaaf38235d88]: Textual amendment: Words in [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/ukpga/1985/62/schedule/3/paragraph/9/5) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2)[Sch. 1 para. 1(gg)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/gg) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6)[11](https://www.legislation.gov.uk/uksi/2008/948/article/11)[12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-ee729faf16d21d79a8a8af5f40b0aae0]: Textual amendment: Words in Sch. 3 para. 9(6) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(3)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/3)
+[^c-ee729faf16d21d79a8a8af5f40b0aae0]: Textual amendment: Words in Sch. 3 para. 9(6) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(3)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/3)
 
-[^key-bb94fc18e0d323099c5f073e317006a3]: Textual amendment: Sch. 3 para. 9(7) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(4)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/4)
+[^c-bb94fc18e0d323099c5f073e317006a3]: Textual amendment: Sch. 3 para. 9(7) inserted (23.5.2003) by [Government Resources and Accounts Act 2000 (Audit of Public Bodies) Order 2003 (S.I. 2003/1326)](https://www.legislation.gov.uk/uksi/2003/1326) , [art. 1](https://www.legislation.gov.uk/uksi/2003/1326/article/1) [15(4)](https://www.legislation.gov.uk/uksi/2003/1326/article/15/4)

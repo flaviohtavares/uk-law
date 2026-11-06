@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7.10. Authorities[^key-9c79050f38faa10bbba9824836dcb080]
+## 7.10. Authorities[^c-9c79050f38faa10bbba9824836dcb080]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c79050f38faa10bbba9824836dcb080]: Commencement: Para. 7.10 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-9c79050f38faa10bbba9824836dcb080]: Commencement: Para. 7.10 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

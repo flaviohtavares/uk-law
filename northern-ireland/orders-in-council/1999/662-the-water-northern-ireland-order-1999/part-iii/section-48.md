@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Acquisition of land and other rights by the Department[^key-80effcb8f6c831bf6595d84cd37f8620]
+## 48. Acquisition of land and other rights by the Department[^c-80effcb8f6c831bf6595d84cd37f8620]
 
 *Extent: N.I.*
 
@@ -44,7 +44,7 @@ shall not, where representations objecting to the proposal for making the order 
 
 ## Annotations
 
-[^key-80effcb8f6c831bf6595d84cd37f8620]: Modification: Arts. 41-56: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-80effcb8f6c831bf6595d84cd37f8620]: Modification: Arts. 41-56: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/3/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00015]: Marginal citation: 1972 c.9 (N.I.).
 

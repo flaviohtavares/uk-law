@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Inspection and health marking[^key-497f3f06c54d5642672ea7cfa3fd218d]
+## 10. Inspection and health marking[^c-497f3f06c54d5642672ea7cfa3fd218d]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ it shall be marked in accordance with the requirements of Schedule 12.
 
 ## Annotations
 
-[^key-497f3f06c54d5642672ea7cfa3fd218d]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-497f3f06c54d5642672ea7cfa3fd218d]: Commencement: Reg. 10 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

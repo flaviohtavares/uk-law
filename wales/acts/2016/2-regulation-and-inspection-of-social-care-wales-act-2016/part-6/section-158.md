@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Appeals against decisions of a fitness to practise panel[^key-1e35de7caa72f3bb32a2a4fcd4e27cf8]
+## 158. Appeals against decisions of a fitness to practise panel[^c-1e35de7caa72f3bb32a2a4fcd4e27cf8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e35de7caa72f3bb32a2a4fcd4e27cf8]: Commencement: [S. 158](https://www.legislation.gov.uk/anaw/2016/2/section/158) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-1e35de7caa72f3bb32a2a4fcd4e27cf8]: Commencement: [S. 158](https://www.legislation.gov.uk/anaw/2016/2/section/158) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(e)](https://www.legislation.gov.uk/wsi/2017/309/article/2/e) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

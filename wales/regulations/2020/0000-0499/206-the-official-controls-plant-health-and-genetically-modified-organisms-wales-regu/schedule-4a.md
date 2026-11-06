@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4A — Civil sanctions[^key-7ac4caa972dd45846ac4d5db99f679c5]
+## SCHEDULE 4A — Civil sanctions[^c-7ac4caa972dd45846ac4d5db99f679c5]
 
 *Extent: E+W*
 
@@ -485,4 +485,4 @@ The appropriate authority must consult such persons as it considers appropriate 
 
 ## Annotations
 
-[^key-7ac4caa972dd45846ac4d5db99f679c5]: Textual amendment: Sch. 4A inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [reg. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2020/1303/schedule)
+[^c-7ac4caa972dd45846ac4d5db99f679c5]: Textual amendment: Sch. 4A inserted (15.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/1303)](https://www.legislation.gov.uk/wsi/2020/1303), [reg. 1](https://www.legislation.gov.uk/wsi/2020/1303/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2020/1303/schedule)

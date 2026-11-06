@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-279535eb355c9a295b62ec3f92bbfe2b] The Conveyancing (Scotland) Act 1924 (c.27) is amended as follows.
+(1)[^c-279535eb355c9a295b62ec3f92bbfe2b] The Conveyancing (Scotland) Act 1924 (c.27) is amended as follows.
 
-(2)[^key-279535eb355c9a295b62ec3f92bbfe2b] In section 4 (completion of title)—
+(2)[^c-279535eb355c9a295b62ec3f92bbfe2b] In section 4 (completion of title)—
 
 - (a) for “by a title which has not been completed by being recorded in the appropriate Register of Sasines, may” substitute “ may, if the last recorded title to the right is recorded in the General Register of Sasines, ”,
 - (b) the title of the section becomes “ Completion of title: General Register of Sasines ”.
 
-(3)[^key-279535eb355c9a295b62ec3f92bbfe2b] After section 4 insert—
+(3)[^c-279535eb355c9a295b62ec3f92bbfe2b] After section 4 insert—
 
 > **4A. Completion of title: Land Register**
 >
@@ -41,7 +41,7 @@ summary: ''
 
 .
 
-(4)[^key-8d44bea00d36bb4c5d3127eeb56e6612] After section 49 insert—
+(4)[^c-8d44bea00d36bb4c5d3127eeb56e6612] After section 49 insert—
 
 > **49A. Power of the Scottish Ministers to prescribe forms**
 >
@@ -53,7 +53,7 @@ summary: ''
 
 .
 
-(5)[^key-279535eb355c9a295b62ec3f92bbfe2b] After schedule B insert—
+(5)[^c-279535eb355c9a295b62ec3f92bbfe2b] After schedule B insert—
 
 > **SCHEDULE BA — Form of notice of title: Land Register**
 >
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-279535eb355c9a295b62ec3f92bbfe2b]: Commencement: S. 53(1)-(3)(5) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-279535eb355c9a295b62ec3f92bbfe2b]: Commencement: S. 53(1)-(3)(5) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-8d44bea00d36bb4c5d3127eeb56e6612]: Commencement: S. 53(4) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)
+[^c-8d44bea00d36bb4c5d3127eeb56e6612]: Commencement: S. 53(4) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)

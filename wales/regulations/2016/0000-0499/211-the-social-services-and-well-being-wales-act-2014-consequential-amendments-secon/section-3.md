@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Consequential amendments[^key-80ba702d11f34147cb24e2961b824b8c]
+## 3. Consequential amendments[^c-80ba702d11f34147cb24e2961b824b8c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 (which makes amendments consequential upon provisions of the Act) has
 
 ## Annotations
 
-[^key-80ba702d11f34147cb24e2961b824b8c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/211/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)
+[^c-80ba702d11f34147cb24e2961b824b8c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/211/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2)

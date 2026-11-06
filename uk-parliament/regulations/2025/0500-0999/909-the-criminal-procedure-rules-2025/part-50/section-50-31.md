@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.31. Payment of High Court fees[^key-a4e4f0c5ad1d57b66decbd12d74be2c9]
+## 50.31. Payment of High Court fees[^c-a4e4f0c5ad1d57b66decbd12d74be2c9]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e4f0c5ad1d57b66decbd12d74be2c9]: Commencement: [Rule 50.31](https://www.legislation.gov.uk/uksi/2025/909/rule/50.31) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a4e4f0c5ad1d57b66decbd12d74be2c9]: Commencement: [Rule 50.31](https://www.legislation.gov.uk/uksi/2025/909/rule/50.31) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01373]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 92 was amended by sections 15 and 59 of, and paragraphs 308 and 345 of Schedule 4 and paragraph 4 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4) and section 17 of, and paragraph 40 of Schedule 9 and paragraphs 83 and 95 of Schedule 10 to, the Crime and Courts Act 2013.
 

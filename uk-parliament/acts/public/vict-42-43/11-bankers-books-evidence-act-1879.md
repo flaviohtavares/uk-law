@@ -31,7 +31,7 @@ Bankers’ Books Evidence Act 1879
 
 An Act to amend the Law of Evidence with respect to Bankers’ Books.
 
-\[23rd May 1879\][^c569845][^c569846][^c569847][^c569848][^c569849][^c569850][^c2088361][^c2088362][^c2088365][^key-96d51a705564a3a8542c12a2112ba6a0]
+\[23rd May 1879\][^c569845][^c569846][^c569847][^c569848][^c569849][^c569850][^c2088361][^c2088362][^c2088365][^c-96d51a705564a3a8542c12a2112ba6a0]
 
 ## 1. Short title.
 
@@ -84,7 +84,7 @@ The costs of any application to a court or judge under or for the purposes of th
 
 (1A)[^c569893] “Deposit taker” means—
 
-- (a) a person who has permission under Part 4A[^key-6ee914d2cb0cbb86685082980d7ca9d6] of the Financial Services and Markets Act 2000 to accept deposits; or
+- (a) a person who has permission under Part 4A[^c-6ee914d2cb0cbb86685082980d7ca9d6] of the Financial Services and Markets Act 2000 to accept deposits; or
 - (b) an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to that Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits or other repayable funds from the public.
 
 (1B) But a person is not a deposit-taker if he has permission to accept deposits only for the purpose of carrying on another regulated activity in accordance with that permission.
@@ -108,7 +108,7 @@ In this Act—
   - The expression “**the court**” means the court, judge, arbitrator, persons or person before whom a legal proceeding is held or taken;
   - The expression “**a judge**” means with respect to England a judge of the High Court, and with respect to Scotland a lord ordinary of the Outer House of the Court of Session, and with respect to Ireland a judge of the High Court in Northern Ireland[^c569905];
 
-A judge of the county court[^key-3b574eca5bcb93a96ef25dad8ed2ff77] may with respect to any action in such court exercise the powers of a judge under this Act.
+A judge of the county court[^c-3b574eca5bcb93a96ef25dad8ed2ff77] may with respect to any action in such court exercise the powers of a judge under this Act.
 
 ## 11. Computation of time.
 
@@ -162,7 +162,7 @@ Sunday, Christmas Day, Good Friday, and any bank holiday shall be excluded from 
 
 [^c2088365]: Modification: Act applied (with effect as mentioned in [s. 9](https://www.legislation.gov.uk/ukla/2006/1/section/9) of the amending Act) by [HBOS Group Reorganisation Act 2006 (c. i)](https://www.legislation.gov.uk/ukla/2006/1), [ss. 3](https://www.legislation.gov.uk/ukla/2006/1/section/3), [20(2)](https://www.legislation.gov.uk/ukla/2006/1/section/20/2)
 
-[^key-96d51a705564a3a8542c12a2112ba6a0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/42-43/11) applied (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2017/730/schedule/5/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
+[^c-96d51a705564a3a8542c12a2112ba6a0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/42-43/11) applied (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2017/730/schedule/5/paragraph/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3))
 
 [^c569851]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/Vict/42-43/11/section/2) repealed by [Statute Law Revision Act 1894 (c. 56)](https://www.legislation.gov.uk/ukpga/1894/56), [Sch. 1](https://www.legislation.gov.uk/ukpga/1894/56/schedule/1)
 
@@ -240,7 +240,7 @@ Sunday, Christmas Day, Good Friday, and any bank holiday shall be excluded from 
 
 [^c569893]: Textual amendment: S. 9(1A)-(1C) inserted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [265(3)](https://www.legislation.gov.uk/uksi/2001/3649/article/265/3)
 
-[^key-6ee914d2cb0cbb86685082980d7ca9d6]: Textual amendment: Words in [s. 9(1A)(a)](https://www.legislation.gov.uk/ukpga/Vict/42-43/11/section/9/1A/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 27](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/27) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-6ee914d2cb0cbb86685082980d7ca9d6]: Textual amendment: Words in [s. 9(1A)(a)](https://www.legislation.gov.uk/ukpga/Vict/42-43/11/section/9/1A/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 27](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/27) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c569894]: Modification: S. 9(2) applied (29.3.1993) by [1993 c. iii](https://www.legislation.gov.uk/ukla/1993/3), [s. 9(3)](https://www.legislation.gov.uk/ukla/1993/3/section/9/3).
 
@@ -266,4 +266,4 @@ Sunday, Christmas Day, Good Friday, and any bank holiday shall be excluded from 
 
 [^c569905]: Textual amendment: Words substituted by S.R. & O. 1921/1802 (Rev. XVI, p. 954: 1921, p. 1332), art. 2
 
-[^key-3b574eca5bcb93a96ef25dad8ed2ff77]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Vict/42-43/11/section/10) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/14); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-3b574eca5bcb93a96ef25dad8ed2ff77]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Vict/42-43/11/section/10) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/14); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

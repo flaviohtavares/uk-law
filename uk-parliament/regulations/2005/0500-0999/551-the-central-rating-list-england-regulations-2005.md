@@ -58,7 +58,7 @@ The First Secretary of State, in exercise of the powers conferred by sections 53
 - “**office premises**” means any hereditament constructed or adapted as offices or for office purposes;
 - “**office purposes**” includes the purposes of administration and clerical work and handling money; and “**clerical work**” includes writing, book-keeping, typing, filing, duplicating, sorting papers or information, calculating (whether by manual, mechanical or electronic means), drawing, and the editorial preparation of matter for publication;
 - “**operational land**”, in relation to a designated person, means land which is used for the purposes of carrying on that person's undertaking, not being land which, in respect of its nature and situation, is comparable rather with land in general than with land which is used for the purposes of the carrying on of statutory undertakings (within the meaning of the Town and Country Planning Act 1990 [^c11310121]);
-- “[^key-28348c6882eda0f19a0f7dd7fb43f63f]**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
+- “[^c-28348c6882eda0f19a0f7dd7fb43f63f]**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006.
 
 (3) Any reference in these Regulations to—
 
@@ -97,9 +97,9 @@ The central list shall show, for each day in each year for which it is in force�
 
 (2) The central list shall also show, where it has been altered in pursuance of a direction by a tribunal, the name of the tribunal which gave the direction.
 
-## 6. Railway hereditaments[^key-8dbe4c57ca7502df4b950a3658af1f85]
+## 6. Railway hereditaments[^c-8dbe4c57ca7502df4b950a3658af1f85]
 
-(1) Where either Network Rail Infrastructure Limited or the company bearing the name HS1 Limited on 1st May 2022[^key-8eb89ef381eb95f60136ce3816fecf19]—
+(1) Where either Network Rail Infrastructure Limited or the company bearing the name HS1 Limited on 1st May 2022[^c-8eb89ef381eb95f60136ce3816fecf19]—
 
 - (a) occupies or, if it is unoccupied, owns any hereditament; or
 - (b) lets or licenses a hereditament to—
@@ -118,13 +118,13 @@ and if, apart from these Regulations, those hereditaments would be more than one
 (3) The conditions mentioned in paragraphs (1) and (2) are that the hereditament is—
 
 - (a) used wholly or mainly for—
-  - (i) in the case of the persons mentioned in paragraph (1)[^key-dc203e931e70f59d9c88d03d7ccc1f64], railway purposes;
+  - (i) in the case of the persons mentioned in paragraph (1)[^c-dc203e931e70f59d9c88d03d7ccc1f64], railway purposes;
   - (ii) in the case of London Underground Limited, LUL purposes; and
 - (b) not an excepted hereditament.
 
 (4) In this regulation—
 
-- [^key-af088e93622c816671eab2eaba77f46f]...
+- [^c-af088e93622c816671eab2eaba77f46f]...
 - “**excepted hereditament**” means a hereditament consisting of or comprising—
   - (a) premises used as a shop, hotel, museum or place of public refreshment;
   - (b) premises used wholly or mainly as office premises, where those premises are not situated on the operational land of—
@@ -136,7 +136,7 @@ and if, apart from these Regulations, those hereditaments would be more than one
     - (ii) harbours,
 
     or for purposes incidental to such purposes;
-- “licence exempt operator” and “licence holder” have the meanings given by section 10(6) and 83(1) respectively of the Railways Act 1993 [^c11310151] except that “licence holder” also includes a holder of a[^key-224fc11947b3acce276d8474ad3a3bdd] railway undertaking licence[^key-539ddf18a040e9875e3105a80eb0fee2] granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^key-9779c29cb43d3fd78928130896e0d5b5]... ;
+- “licence exempt operator” and “licence holder” have the meanings given by section 10(6) and 83(1) respectively of the Railways Act 1993 [^c11310151] except that “licence holder” also includes a holder of a[^c-224fc11947b3acce276d8474ad3a3bdd] railway undertaking licence[^c-539ddf18a040e9875e3105a80eb0fee2] granted pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 [^c-9779c29cb43d3fd78928130896e0d5b5]... ;
 - “**LUL purposes**” means the purposes of the parts of LUL's undertaking which are concerned with the carriage of goods or passengers by rail, or for purposes ancillary to those purposes (including the purpose of the exhibiting of advertisements); and
 - “**railway purposes**” means the purposes of providing railway services, within the meaning given by section 82(1) of the Railways Act 1993 [^c11310161], or for purposes ancillary to those purposes (including the purposes of providing policing services or the exhibiting of advertisements).
 
@@ -170,14 +170,14 @@ and if, apart from these Regulations, those hereditaments would be more than one
 
 and which would, apart from these Regulations, be more than one hereditament, those hereditaments shall be treated as one hereditament.
 
-(2) Subject to paragraph (2A), where[^key-c4411ce0974cfe697f5d268545443e2b] a company which is a designated person by virtue of regulation 3(1) and Part 3 of the Schedule occupies or, if it is unoccupied, owns any hereditament which comprises posts, wires, fibres, cables, ducts, telephone kiosks, towers, masts, switching equipment, or other equipment, or easements or wayleaves, being property used for the monitoring, processing or transmission of communications or other signals for the provision of electronic communications services, and which would, apart from these Regulations, be more than one hereditament, those hereditaments shall be treated as one hereditament.
+(2) Subject to paragraph (2A), where[^c-c4411ce0974cfe697f5d268545443e2b] a company which is a designated person by virtue of regulation 3(1) and Part 3 of the Schedule occupies or, if it is unoccupied, owns any hereditament which comprises posts, wires, fibres, cables, ducts, telephone kiosks, towers, masts, switching equipment, or other equipment, or easements or wayleaves, being property used for the monitoring, processing or transmission of communications or other signals for the provision of electronic communications services, and which would, apart from these Regulations, be more than one hereditament, those hereditaments shall be treated as one hereditament.
 
-(2A)[^key-a1955172914b2447e81c091de7d239ec] Paragraph (2) does not apply to a hereditament which is either—
+(2A)[^c-a1955172914b2447e81c091de7d239ec] Paragraph (2) does not apply to a hereditament which is either—
 
 - (a) wholly or mainly a tower or mast, or
 - (b) part of a tower or mast.
 
-(3)[^key-91c174b5e34517c5a9aab45b94544b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-91c174b5e34517c5a9aab45b94544b5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The hereditament described in paragraph (1) shall be treated as occupied by British Telecommunications plc.
 
@@ -212,8 +212,8 @@ which British Telecommunications plc lets or licenses to any person.
     - (ii) premises used wholly or mainly for the manufacture of plant or gas fittings;
     - (iii) premises used wholly or mainly as storage facilities, being underground storage cavities, liquefied natural gas storage facilities and facilities used or available for use in connection with off-shore storage;
 - “**gas transporter**” has the meaning given by section 7 of the Gas Act 1986 [^c11310171];
-- “**Transco**” means Transco plc and each subsidiary of National Grid Transco plc existing on 1st March 2005; [^key-175f25bbb3037e3e682532bcadf19c77]...
-- [^key-175f25bbb3037e3e682532bcadf19c77]...
+- “**Transco**” means Transco plc and each subsidiary of National Grid Transco plc existing on 1st March 2005; [^c-175f25bbb3037e3e682532bcadf19c77]...
+- [^c-175f25bbb3037e3e682532bcadf19c77]...
 
 (6) The hereditament described in paragraph (1) shall be treated as occupied by Transco.
 
@@ -251,8 +251,8 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 (4) In this regulation and Part 6—
 
 - (a) “**gas pipeline**” means a hereditament described in regulation 9(1) or (2);
-- (b) “**Transco**” means Transco plc and each subsidiary of National Grid Transco plc existing on 1st March 2005; [^key-b7e650606d01c82c4069230ccececd6c]...
-- (c)[^key-b7e650606d01c82c4069230ccececd6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “**Transco**” means Transco plc and each subsidiary of National Grid Transco plc existing on 1st March 2005; [^c-b7e650606d01c82c4069230ccececd6c]...
+- (c)[^c-b7e650606d01c82c4069230ccececd6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The hereditament described in paragraph (1) shall be treated as occupied by Transco.
 
@@ -270,10 +270,10 @@ occupies or, if it is unoccupied, owns what would, apart from these Regulations,
 (3) In this regulation and in Part 7—
 
 - (a) “**excepted hereditament**” means a hereditament consisting of or comprising premises used wholly or mainly as office premises of the designated person, where those premises are not situated on operational land of the designated person;
-- (b)[^key-b1fce40ea731f19b66e0a003bb3c83d8] “National Grid” means—
+- (b)[^c-b1fce40ea731f19b66e0a003bb3c83d8] “National Grid” means—
   - (i) the company bearing the name National Grid Electricity Transmission plc on 1st January 2019; and
   - (ii) until the first date after 1st April 2019 on which a central non-domestic rating list is compiled for England in accordance with section 52 of the Act, the company bearing the name National Grid Electricity System Operator Limited on 1st January 2019.
-- (c)[^key-f1c0cd7b0a1d214a664782b65ab4b0ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f1c0cd7b0a1d214a664782b65ab4b0ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The hereditament described in paragraph (1) shall be treated as occupied by National Grid.
 
@@ -420,7 +420,7 @@ Regulation 3
 | *Designated person* | *Relevant hereditaments* |
 | --- | --- |
 | Network Rail Infrastructure Limited | The hereditament described in regulation 6(1) |
-| The company bearing the name HS1 Limited on 1st May 2022[^key-c1348322fc14344c412c8cd2c036b2c9] |  |
+| The company bearing the name HS1 Limited on 1st May 2022[^c-c1348322fc14344c412c8cd2c036b2c9] |  |
 | London Underground Limited | The hereditament described in regulation 6(2) |
 
 ### PART 2 — Light railway hereditaments
@@ -438,16 +438,16 @@ Regulation 3
 | Cable and Wireless UK |  |
 | Global Crossing (UK) Telecommunications Limited | The hereditament described in regulation 8(2) |
 | Energis Communications Limited |  |
-| The company bearing the name Exponential-e Limited on 1st September 2010[^key-85b2a2aabb3775c95ffe3edac4a4559c] |  |
+| The company bearing the name Exponential-e Limited on 1st September 2010[^c-85b2a2aabb3775c95ffe3edac4a4559c] |  |
 | The company bearing the name Easynet Telecommunications Limited on 1st September 2010 |  |
 | The company bearing the name Cogent Communications UK Limited on 1st September 2010 |  |
 | The company bearing the name Level 3 Communications Limited on 1st September 2010 |  |
 | The company bearing the name Sohonet Limited on 1st September 2010 |  |
 | The company bearing the name Colt Technology Services Group Limited on 1st September 2010 |  |
 | The company bearing the name T.M.I. Telemedia International Limited on 1st September 2010 |  |
-| The company bearing the name The JNT Association on 1st September 2011[^key-f4bde623e199158e90b8081fd165d46d] |  |
+| The company bearing the name The JNT Association on 1st September 2011[^c-f4bde623e199158e90b8081fd165d46d] |  |
 | The company bearing the name London Internet Exchange Limited on 1st September 2011 |  |
-| The company bearing the name CityFibre Limited on 1st May 2022[^key-fb5fbbca8296741ca8d21f6b79b47d4d] |  |
+| The company bearing the name CityFibre Limited on 1st May 2022[^c-fb5fbbca8296741ca8d21f6b79b47d4d] |  |
 | The company bearing the name Gamma Telecom Holdings Limited on 1st May 2022 |  |
 | The company bearing the name GCI Network Solutions Limited on 1st May 2022 |  |
 | The company bearing the name Hutchison 3G UK Limited on 1st May 2022 |  |
@@ -459,7 +459,7 @@ Regulation 3
 | The company bearing the name Vodafone Limited on 1st May 2022 |  |
 | The company bearing the name WPD Telecoms Limited on 1st May 2022 |  |
 | The company bearing the name Zayo Group UK Limited on 1st May 2022 |  |
-| The charity bearing the name London Grid for Learning Trust on 1st January 2024[^key-7233930935228ac117d3f2201d981484] |  |
+| The charity bearing the name London Grid for Learning Trust on 1st January 2024[^c-7233930935228ac117d3f2201d981484] |  |
 
 ### PART 4 — National and Regional gas transportation hereditaments
 
@@ -469,7 +469,7 @@ Regulation 3
 | Blackwater 2 Limited |  |
 | Blackwater F Limited | The hereditament described in regulation 9(2) |
 | Blackwater G Limited |  |
-| The company bearing the name National Grid Gas Distribution Limited on 5th[^key-0ba90155a403e1211038fca57ee5bbb4] May 2016 |  |
+| The company bearing the name National Grid Gas Distribution Limited on 5th[^c-0ba90155a403e1211038fca57ee5bbb4] May 2016 |  |
 
 ### PART 5 — Local gas transportation hereditaments
 
@@ -497,7 +497,7 @@ Regulation 3
 | Blackwater 2 Limited |  |
 | Blackwater F Limited | The hereditament described in regulation 11(2) |
 | Blackwater G Limited |  |
-| The company bearing the name National Grid Gas Distribution Limited on 5th[^key-2540339006f023a6c25bc9ba61f1f067] May 2016 |  |
+| The company bearing the name National Grid Gas Distribution Limited on 5th[^c-2540339006f023a6c25bc9ba61f1f067] May 2016 |  |
 
 ### PART 7 — Electricity transmission hereditaments
 
@@ -514,8 +514,8 @@ Regulation 3
 | EDF Energy Networks (EPN) plc |  |
 | EDF Energy Networks (LPN) plc |  |
 | EDF Energy Networks (SPN) plc |  |
-| [^key-b38032c9ddb754c50411c75c4e825c2f]. . . |  |
-| [^key-b38032c9ddb754c50411c75c4e825c2f]. . . |  |
+| [^c-b38032c9ddb754c50411c75c4e825c2f]. . . |  |
+| [^c-b38032c9ddb754c50411c75c4e825c2f]. . . |  |
 | Northern Electric Distribution Limited |  |
 | Southern Electric Power Distribution plc |  |
 | SP Distribution Limited |  |
@@ -534,8 +534,8 @@ Regulation 3
 | EDF Energy Networks (EPN) plc |  |
 | EDF Energy Networks (LPN) plc |  |
 | EDF Energy Networks (SPN) plc |  |
-| [^key-0316ace704f5d0e7c6bb2b7da3352550]. . . | The hereditament described in regulation 14(1) |
-| [^key-0316ace704f5d0e7c6bb2b7da3352550]. . . |  |
+| [^c-0316ace704f5d0e7c6bb2b7da3352550]. . . | The hereditament described in regulation 14(1) |
+| [^c-0316ace704f5d0e7c6bb2b7da3352550]. . . |  |
 | Northern Electric Distribution Limited |  |
 | Southern Electric Power Distribution plc |  |
 | SP Distribution Limited |  |
@@ -579,7 +579,7 @@ Regulation 3
 | --- | --- |
 | The British Waterways Board | The hereditament described in regulation 16(1) |
 
-### Part 12 — Long-distance pipe-line hereditaments[^key-57c5e8db3e07e756af7ac65388dadcf8]
+### Part 12 — Long-distance pipe-line hereditaments[^c-57c5e8db3e07e756af7ac65388dadcf8]
 
 | Designated person | Relevant Hereditaments |
 | --- | --- |
@@ -646,47 +646,47 @@ with effect from 1st April 2005 subject to certain savings.
 
 [^c11310121]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8) *see* section 262. Relevant amendments are made by section 76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-28348c6882eda0f19a0f7dd7fb43f63f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/551/regulation/1/2) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/2)
+[^c-28348c6882eda0f19a0f7dd7fb43f63f]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/551/regulation/1/2) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/2)
 
 [^c11310131]: Marginal citation: [S.I. 1989/1060](https://www.legislation.gov.uk/uksi/1989/1060) as amended by 1993/616
 
-[^key-8dbe4c57ca7502df4b950a3658af1f85]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/551/regulation/6) modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8dbe4c57ca7502df4b950a3658af1f85]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/551/regulation/6) modified (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2019/700/regulation/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8eb89ef381eb95f60136ce3816fecf19]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/1) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/3/a)
+[^c-8eb89ef381eb95f60136ce3816fecf19]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/1) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/3/a)
 
 [^c11310141]: Marginal citation: [S.I. 2005/549](https://www.legislation.gov.uk/uksi/2005/549)
 
-[^key-dc203e931e70f59d9c88d03d7ccc1f64]: Textual amendment: Words in [reg. 6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/3/a/i) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/3/b)
+[^c-dc203e931e70f59d9c88d03d7ccc1f64]: Textual amendment: Words in [reg. 6(3)(a)(i)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/3/a/i) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/3/b)
 
-[^key-af088e93622c816671eab2eaba77f46f]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af088e93622c816671eab2eaba77f46f]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c11310151]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-224fc11947b3acce276d8474ad3a3bdd]: Textual amendment: Words in reg. 6(4) inserted (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/1/1), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/14/2/b)
+[^c-224fc11947b3acce276d8474ad3a3bdd]: Textual amendment: Words in reg. 6(4) inserted (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3050/regulation/1/1), [Sch. 1 para. 14(2)(b)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/14/2/b)
 
-[^key-539ddf18a040e9875e3105a80eb0fee2]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-539ddf18a040e9875e3105a80eb0fee2]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9779c29cb43d3fd78928130896e0d5b5]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9779c29cb43d3fd78928130896e0d5b5]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/uksi/2005/551/regulation/6/4) omitted (31.12.2020) by virtue of [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/30/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c11310161]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-c4411ce0974cfe697f5d268545443e2b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/2) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/4/a)
+[^c-c4411ce0974cfe697f5d268545443e2b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/2) substituted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/4/a)
 
-[^key-a1955172914b2447e81c091de7d239ec]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/2A) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/4/b)
+[^c-a1955172914b2447e81c091de7d239ec]: Textual amendment: [Reg. 8(2A)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/2A) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/4/b)
 
-[^key-91c174b5e34517c5a9aab45b94544b5b]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/3) omitted (1.4.2008) by virtue of [The Central Rating List (England) (Amendment) Regulations 2008 (S.I. 2008/429)](https://www.legislation.gov.uk/uksi/2008/429), [regs. 1](https://www.legislation.gov.uk/uksi/2008/429/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/429/regulation/2/a)
+[^c-91c174b5e34517c5a9aab45b94544b5b]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2005/551/regulation/8/3) omitted (1.4.2008) by virtue of [The Central Rating List (England) (Amendment) Regulations 2008 (S.I. 2008/429)](https://www.legislation.gov.uk/uksi/2008/429), [regs. 1](https://www.legislation.gov.uk/uksi/2008/429/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2008/429/regulation/2/a)
 
 [^c11310171]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Relevant amendments made by section76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-175f25bbb3037e3e682532bcadf19c77]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2005/551/regulation/9/5) omitted (1.4.2023) by virtue of [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/5)
+[^c-175f25bbb3037e3e682532bcadf19c77]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2005/551/regulation/9/5) omitted (1.4.2023) by virtue of [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/5)
 
 [^c11310191]: Marginal citation: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). Relevant amendments made by section76 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-b7e650606d01c82c4069230ccececd6c]: Textual amendment: [Reg. 11(4)(c)](https://www.legislation.gov.uk/uksi/2005/551/regulation/11/4/c) and word omitted (1.4.2023) by virtue of [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/6)
+[^c-b7e650606d01c82c4069230ccececd6c]: Textual amendment: [Reg. 11(4)(c)](https://www.legislation.gov.uk/uksi/2005/551/regulation/11/4/c) and word omitted (1.4.2023) by virtue of [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/6)
 
-[^key-b1fce40ea731f19b66e0a003bb3c83d8]: Textual amendment: [Reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2005/551/regulation/12/3/b) substituted (1.4.2019) by [The Central Rating List (England) (Amendment) Regulations 2019 (S.I. 2019/395)](https://www.legislation.gov.uk/uksi/2019/395), [regs. 1](https://www.legislation.gov.uk/uksi/2019/395/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/395/regulation/2)
+[^c-b1fce40ea731f19b66e0a003bb3c83d8]: Textual amendment: [Reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2005/551/regulation/12/3/b) substituted (1.4.2019) by [The Central Rating List (England) (Amendment) Regulations 2019 (S.I. 2019/395)](https://www.legislation.gov.uk/uksi/2019/395), [regs. 1](https://www.legislation.gov.uk/uksi/2019/395/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/395/regulation/2)
 
-[^key-f1c0cd7b0a1d214a664782b65ab4b0ed]: Textual amendment: Reg. 12(3)(c) omitted (1.4.2017) by virtue of [The Central Rating List (England) (Amendment) Regulations 2016 (S.I. 2016/146)](https://www.legislation.gov.uk/uksi/2016/146), [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2016/146/regulation/1/4/a)[(5)](https://www.legislation.gov.uk/uksi/2016/146/regulation/1/5), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/146/regulation/2/2/b)
+[^c-f1c0cd7b0a1d214a664782b65ab4b0ed]: Textual amendment: Reg. 12(3)(c) omitted (1.4.2017) by virtue of [The Central Rating List (England) (Amendment) Regulations 2016 (S.I. 2016/146)](https://www.legislation.gov.uk/uksi/2016/146), [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2016/146/regulation/1/4/a)[(5)](https://www.legislation.gov.uk/uksi/2016/146/regulation/1/5), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/146/regulation/2/2/b)
 
 [^c11310211]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted for section 6 as originally enacted by section 30 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27). Section 31 further provides that references in any enactment after 1st October 2001 to public electricity suppliers shall have effect as references to electricity suppliers or distributors or both suppliers and distributors.
 
@@ -702,22 +702,22 @@ with effect from 1st April 2005 subject to certain savings.
 
 [^c11310271]: Marginal citation: [S.I. 2001/737](https://www.legislation.gov.uk/uksi/2001/737).
 
-[^key-c1348322fc14344c412c8cd2c036b2c9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/1) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/7/a)
+[^c-c1348322fc14344c412c8cd2c036b2c9]: Textual amendment: Words in [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/1) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/7/a)
 
-[^key-85b2a2aabb3775c95ffe3edac4a4559c]: Textual amendment: Words in Sch. Pt. 3 inserted (17.12.2010) by [The Central Rating List (England) (Amendment) (No. 2) Regulations 2010 (S.I. 2010/2692)](https://www.legislation.gov.uk/uksi/2010/2692), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2010/2692/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2010/2692/regulation/2/2)
+[^c-85b2a2aabb3775c95ffe3edac4a4559c]: Textual amendment: Words in Sch. Pt. 3 inserted (17.12.2010) by [The Central Rating List (England) (Amendment) (No. 2) Regulations 2010 (S.I. 2010/2692)](https://www.legislation.gov.uk/uksi/2010/2692), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2010/2692/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2010/2692/regulation/2/2)
 
-[^key-f4bde623e199158e90b8081fd165d46d]: Textual amendment: Words in Sch. Pt. 3 inserted (22.12.2011) by [The Central Rating List (England) (Amendment) Regulations 2011 (S.I. 2011/2743)](https://www.legislation.gov.uk/uksi/2011/2743), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2011/2743/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2011/2743/regulation/2/2)
+[^c-f4bde623e199158e90b8081fd165d46d]: Textual amendment: Words in Sch. Pt. 3 inserted (22.12.2011) by [The Central Rating List (England) (Amendment) Regulations 2011 (S.I. 2011/2743)](https://www.legislation.gov.uk/uksi/2011/2743), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2011/2743/regulation/1/a), [2(2)](https://www.legislation.gov.uk/uksi/2011/2743/regulation/2/2)
 
-[^key-fb5fbbca8296741ca8d21f6b79b47d4d]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/3) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/7/b)
+[^c-fb5fbbca8296741ca8d21f6b79b47d4d]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/3) inserted (1.4.2023) by [The Central Rating List and Telecommunications Apparatus (England) (Amendment) Regulations 2022 (S.I. 2022/1083)](https://www.legislation.gov.uk/uksi/2022/1083), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2022/1083/regulation/2/7/b)
 
-[^key-7233930935228ac117d3f2201d981484]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/3) inserted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/246/regulation/2)
+[^c-7233930935228ac117d3f2201d981484]: Textual amendment: Words in [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/3) inserted (1.4.2024) by [The Non-Domestic Rating (Consequential and Other Amendments) (England) Regulations 2024 (S.I. 2024/246)](https://www.legislation.gov.uk/uksi/2024/246), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/246/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/246/regulation/2)
 
-[^key-0ba90155a403e1211038fca57ee5bbb4]: Textual amendment: Words in Sch. Pt. 4 inserted (31.7.2016) by [The Central Rating List (England) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/714)](https://www.legislation.gov.uk/uksi/2016/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/714/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/714/regulation/2/2)
+[^c-0ba90155a403e1211038fca57ee5bbb4]: Textual amendment: Words in Sch. Pt. 4 inserted (31.7.2016) by [The Central Rating List (England) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/714)](https://www.legislation.gov.uk/uksi/2016/714), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/714/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/714/regulation/2/2)
 
-[^key-2540339006f023a6c25bc9ba61f1f067]: Textual amendment: Words in [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/6) inserted (1.10.2016) by [The Central Rating List (England) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/882)](https://www.legislation.gov.uk/uksi/2016/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/882/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/882/regulation/2/2)
+[^c-2540339006f023a6c25bc9ba61f1f067]: Textual amendment: Words in [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2005/551/schedule/part/6) inserted (1.10.2016) by [The Central Rating List (England) (Amendment) (No. 3) Regulations 2016 (S.I. 2016/882)](https://www.legislation.gov.uk/uksi/2016/882), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/882/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2016/882/regulation/2/2)
 
-[^key-b38032c9ddb754c50411c75c4e825c2f]: Textual amendment: Words in Sch. Pt. 8 omitted (1.4.2013) by virtue of [The Central Rating List (England) (Amendment) Regulations 2013 (S.I. 2013/408)](https://www.legislation.gov.uk/uksi/2013/408), [regs. 1](https://www.legislation.gov.uk/uksi/2013/408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/408/regulation/2)
+[^c-b38032c9ddb754c50411c75c4e825c2f]: Textual amendment: Words in Sch. Pt. 8 omitted (1.4.2013) by virtue of [The Central Rating List (England) (Amendment) Regulations 2013 (S.I. 2013/408)](https://www.legislation.gov.uk/uksi/2013/408), [regs. 1](https://www.legislation.gov.uk/uksi/2013/408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/408/regulation/2)
 
-[^key-0316ace704f5d0e7c6bb2b7da3352550]: Textual amendment: Words in Sch. Pt. 9 omitted (1.4.2013) by virtue of [The Central Rating List (England) (Amendment) Regulations 2013 (S.I. 2013/408)](https://www.legislation.gov.uk/uksi/2013/408), [regs. 1](https://www.legislation.gov.uk/uksi/2013/408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/408/regulation/2)
+[^c-0316ace704f5d0e7c6bb2b7da3352550]: Textual amendment: Words in Sch. Pt. 9 omitted (1.4.2013) by virtue of [The Central Rating List (England) (Amendment) Regulations 2013 (S.I. 2013/408)](https://www.legislation.gov.uk/uksi/2013/408), [regs. 1](https://www.legislation.gov.uk/uksi/2013/408/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/408/regulation/2)
 
-[^key-57c5e8db3e07e756af7ac65388dadcf8]: Textual amendment: Sch. Pt. 12 substituted (31.3.2026) by [The Central Rating List (England) (Amendment) Regulations 2026 (S.I. 2026/172)](https://www.legislation.gov.uk/uksi/2026/172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/172/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2026/172/regulation/2)
+[^c-57c5e8db3e07e756af7ac65388dadcf8]: Textual amendment: Sch. Pt. 12 substituted (31.3.2026) by [The Central Rating List (England) (Amendment) Regulations 2026 (S.I. 2026/172)](https://www.legislation.gov.uk/uksi/2026/172), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/172/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2026/172/regulation/2)

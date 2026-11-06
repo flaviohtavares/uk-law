@@ -68,7 +68,7 @@ Judith Simpson
 
 Clerk of the Privy Council
 
-## SCHEDULE — The General Medical Council (Registration Appeals Panels Procedure) Rules 2010[^key-7a1d77206deea1669c8f4785db94c8ca]
+## SCHEDULE — The General Medical Council (Registration Appeals Panels Procedure) Rules 2010[^c-7a1d77206deea1669c8f4785db94c8ca]
 
 > The General Medical Council make the following Rules in exercise of powers conferred by sections 29F(2) and 34B(1) of, and paragraphs 2A(5) and 3(3) of Schedule 3A, and paragraph 3(1) of Schedule 3B to, the Medical Act 1983.
 >
@@ -104,8 +104,8 @@ Clerk of the Privy Council
 >
 > (1) For the purposes of paragraph 3(3) of Schedule 3A, the requisite period is, subject to paragraph (2)—
 >
-> - (a) three months from the date of receipt by the Registrar of an application for inclusion in the General Practitioner Register on the basis of eligibility by virtue of article 4(4) of the 2010 Order (general practitioners eligible for entry in the General Practitioner Register) or for inclusion in the Specialist Register on the basis of eligibility by virtue of article 8(3) or (4) of that Order (specialists eligible for entry in the specialist register); [^key-e9ae7c10b5604ce80fdebc18e2e24ced]...
-> - (b) four months from the date of receipt by the Registrar of an application for inclusion in the General Practitioner Register on the basis of eligibility by virtue of article 5 of the 2010 Order (general systems practitioners eligible for entry in the General Practitioner Register) or for inclusion in the Specialist Register on the basis of eligibility by virtue of article 9 of the 2010 Order (general systems specialists eligible for entry in the specialist register); or[^key-441484325c9debc5a63deb9731e772e7]
+> - (a) three months from the date of receipt by the Registrar of an application for inclusion in the General Practitioner Register on the basis of eligibility by virtue of article 4(4) of the 2010 Order (general practitioners eligible for entry in the General Practitioner Register) or for inclusion in the Specialist Register on the basis of eligibility by virtue of article 8(3) or (4) of that Order (specialists eligible for entry in the specialist register); [^c-e9ae7c10b5604ce80fdebc18e2e24ced]...
+> - (b) four months from the date of receipt by the Registrar of an application for inclusion in the General Practitioner Register on the basis of eligibility by virtue of article 5 of the 2010 Order (general systems practitioners eligible for entry in the General Practitioner Register) or for inclusion in the Specialist Register on the basis of eligibility by virtue of article 9 of the 2010 Order (general systems specialists eligible for entry in the specialist register); or[^c-441484325c9debc5a63deb9731e772e7]
 > - (c) four months from the date of receipt by the Registrar of an application for inclusion in the General Practitioner Register on the basis of eligibility by virtue of article 4(4A) of the 2010 Order(2) (general practitioners eligible for entry in the General Practitioner Register) or for inclusion in the Specialist Register on the basis of eligibility by virtue of article 8(6A) of the 2010 Order(3) (specialists eligible for entry in the Specialist Register).
 >
 > (2) Where any document required for the purpose of the application is missing when the Registrar receives the application, the period in paragraph (1) begins on the day on which the Registrar first has all the documents required.
@@ -406,7 +406,7 @@ Rule 20 revokes the existing rules.
 
 [^f00002]: Footnote: [S.I.2005/400](https://www.legislation.gov.uk/uksi/2005/400).
 
-[^key-7a1d77206deea1669c8f4785db94c8ca]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/476/schedule) in force at 1.4.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/476/schedule/rule/1)
+[^c-7a1d77206deea1669c8f4785db94c8ca]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/476/schedule) in force at 1.4.2010, see [Sch. rule 1](https://www.legislation.gov.uk/uksi/2010/476/schedule/rule/1)
 
 [^f00003]: Footnote: [S.I.2010/473](https://www.legislation.gov.uk/uksi/2010/473).
 
@@ -420,9 +420,9 @@ Rule 20 revokes the existing rules.
 
 [^f00008]: Footnote: Section 35C is inserted by [S.I.2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). Subsection (9) is amended by [S.I.2008/3131](https://www.legislation.gov.uk/uksi/2008/3131).
 
-[^key-e9ae7c10b5604ce80fdebc18e2e24ced]: Textual amendment: Word in [Sch. rule 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/476/schedule/rule/3/1/a) omitted (31.1.2025) by virtue of [The General Medical Council (Registration Appeals Panels Procedure) (Amendment) Rules Order of Council 2024 (S.I. 2024/1351)](https://www.legislation.gov.uk/uksi/2024/1351), [art. 1](https://www.legislation.gov.uk/uksi/2024/1351/article/1), [Sch. rule 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1351/schedule/rule/2/2/a)
+[^c-e9ae7c10b5604ce80fdebc18e2e24ced]: Textual amendment: Word in [Sch. rule 3(1)(a)](https://www.legislation.gov.uk/uksi/2010/476/schedule/rule/3/1/a) omitted (31.1.2025) by virtue of [The General Medical Council (Registration Appeals Panels Procedure) (Amendment) Rules Order of Council 2024 (S.I. 2024/1351)](https://www.legislation.gov.uk/uksi/2024/1351), [art. 1](https://www.legislation.gov.uk/uksi/2024/1351/article/1), [Sch. rule 2(2)(a)](https://www.legislation.gov.uk/uksi/2024/1351/schedule/rule/2/2/a)
 
-[^key-441484325c9debc5a63deb9731e772e7]: Textual amendment: [Sch. rule 3(1)(c)](https://www.legislation.gov.uk/uksi/2010/476/schedule/rule/3/1/c) and word inserted (31.1.2025) by [The General Medical Council (Registration Appeals Panels Procedure) (Amendment) Rules Order of Council 2024 (S.I. 2024/1351)](https://www.legislation.gov.uk/uksi/2024/1351), [art. 1](https://www.legislation.gov.uk/uksi/2024/1351/article/1), [Sch. rule 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1351/schedule/rule/2/2/b)
+[^c-441484325c9debc5a63deb9731e772e7]: Textual amendment: [Sch. rule 3(1)(c)](https://www.legislation.gov.uk/uksi/2010/476/schedule/rule/3/1/c) and word inserted (31.1.2025) by [The General Medical Council (Registration Appeals Panels Procedure) (Amendment) Rules Order of Council 2024 (S.I. 2024/1351)](https://www.legislation.gov.uk/uksi/2024/1351), [art. 1](https://www.legislation.gov.uk/uksi/2024/1351/article/1), [Sch. rule 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1351/schedule/rule/2/2/b)
 
 [^f00009]: Footnote: The Panel may make an order as to costs by virtue of paragraph 4(8) of Schedule 3A and paragraph 5 of Schedule 3B.
 

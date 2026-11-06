@@ -43,11 +43,11 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-44961103a1f75ecd8c56fb49f693b992]
+### 1. Citation and commencement[^c-44961103a1f75ecd8c56fb49f693b992]
 
 These Regulations may be cited as the Paternity and Adoption Leave Regulations (Northern Ireland) 2002 and shall come into operation on 8th December 2002.
 
-### 2. Interpretation[^key-43bbeff08c67d42d65015278c6803d1c]
+### 2. Interpretation[^c-43bbeff08c67d42d65015278c6803d1c]
 
 (1) In these Regulations–
 
@@ -92,7 +92,7 @@ but do not include any other adoptive relationships.
 
 and “associated employer” shall be construed accordingly.
 
-### 3. Application[^key-0bc8628a1ba4bfcd3a4ed62aa5487684]
+### 3. Application[^c-0bc8628a1ba4bfcd3a4ed62aa5487684]
 
 (1) The provisions relating to paternity leave under regulation 4 below have effect only in relation to children–
 
@@ -120,7 +120,7 @@ and “associated employer” shall be construed accordingly.
 
 ## PART II — PATERNITY LEAVE
 
-### 4. Entitlement to paternity leave: birth[^key-3a54924d2e77006e0054073715a95f1d]
+### 4. Entitlement to paternity leave: birth[^c-3a54924d2e77006e0054073715a95f1d]
 
 (1) An employee is entitled to be absent from work for the purpose of caring for a child or supporting the child’s mother if he–
 
@@ -148,7 +148,7 @@ and “associated employer” shall be construed accordingly.
 
 (6) An employee’s entitlement to leave under this regulation shall not be affected by the birth, or expected birth, of more than one child as a result of the same pregnancy.
 
-### 5. Options in respect of leave under regulation 4[^key-d7b684a6b2fd65b6fbd4c60dc45510dd]
+### 5. Options in respect of leave under regulation 4[^c-d7b684a6b2fd65b6fbd4c60dc45510dd]
 
 (1) An employee may choose to take either one week’s leave or two consecutive weeks' leave in respect of a child under regulation 4.
 
@@ -165,7 +165,7 @@ and “associated employer” shall be construed accordingly.
 
 (4) In a case where the leave is in respect of a child whose expected week of birth begins before 6th April 2003, an employee may choose to begin a period of leave only on a predetermined date, specified in a notice under regulation 6, which is at least 28 days after the date on which that notice is given.
 
-### 6. Notice and evidential requirements for leave under regulation 4[^key-1ee92fd473fbd4fafabb811a288b4c42]
+### 6. Notice and evidential requirements for leave under regulation 4[^c-1ee92fd473fbd4fafabb811a288b4c42]
 
 (1) An employee must give his employer notice of his intention to take leave in respect of a child under regulation 4, specifying–
 
@@ -201,7 +201,7 @@ the employee must vary his choice of date, by substituting a later predetermined
 
 (8) Notice under paragraph (1), (4), (6) or (7) shall be given in writing, if the employer so requests.
 
-### 7. Commencement of leave under regulation 4[^key-93a8ae86f382f43def37b939c6f505d6]
+### 7. Commencement of leave under regulation 4[^c-93a8ae86f382f43def37b939c6f505d6]
 
 (1) Except in the case referred to in paragraph (2), an employee’s period of paternity leave under regulation 4 begins on the date specified in his notice under regulation 6(1), or, where he has varied his choice of date under regulation 6(4) or (6), on the date specified in his notice under that provision (or the last such notice if he has varied his choice more than once).
 
@@ -212,7 +212,7 @@ the employee must vary his choice of date, by substituting a later predetermined
 
 the employee’s period of leave begins on the day after that date.
 
-### 8. Entitlement to paternity leave: adoption[^key-2e3dc8a65b15bb482da5304bc19b56e1]
+### 8. Entitlement to paternity leave: adoption[^c-2e3dc8a65b15bb482da5304bc19b56e1]
 
 (1) An employee is entitled to be absent from work for the purpose of caring for a child or supporting the child’s adopter if he–
 
@@ -233,7 +233,7 @@ the employee’s period of leave begins on the day after that date.
 
 (6) An employee’s entitlement to leave under this regulation shall not be affected by the placement for adoption of more than one child as part of the same arrangement.
 
-### 9. Options in respect of leave under regulation 8[^key-ab4922e4870da2179200ee54fdf32c4d]
+### 9. Options in respect of leave under regulation 8[^c-ab4922e4870da2179200ee54fdf32c4d]
 
 (1) An employee may choose to take either one week’s leave or two consecutive weeks' leave in respect of a child under regulation 8.
 
@@ -247,7 +247,7 @@ the employee’s period of leave begins on the day after that date.
 
 (4) In a case where the adopter was notified of having been matched with the child before 6th April 2003, the employee may choose to begin a period of leave only on a predetermined date, specified in a notice under regulation 10, which is at least 28 days after the date on which that notice is given.
 
-### 10. Notice and evidential requirements for leave under regulation 8[^key-3565bed3330f40c023acfdc29da9019e]
+### 10. Notice and evidential requirements for leave under regulation 8[^c-3565bed3330f40c023acfdc29da9019e]
 
 (1) An employee must give his employer notice of his intention to take leave in respect of a child under regulation 8, specifying–
 
@@ -284,7 +284,7 @@ the employee must vary his choice of date, by substituting a later predetermined
 
 (8) Notice under paragraph (1), (4), (6) or (7) shall be given in writing, if the employer so requests.
 
-### 11. Commencement of leave under regulation 8[^key-d45f36c0d33a463b1dadeeb2c0f5c7e8]
+### 11. Commencement of leave under regulation 8[^c-d45f36c0d33a463b1dadeeb2c0f5c7e8]
 
 (1) Except in the case referred to in paragraph (2), an employee’s period of paternity leave under regulation 8 begins on the date specified in his notice under regulation 10(1), or, where he has varied his choice of date under regulation 10(4) or (6), on the date specified in his notice under that provision (or the last such date if he has varied his choice more than once).
 
@@ -295,7 +295,7 @@ the employee must vary his choice of date, by substituting a later predetermined
 
 the employee’s period of leave begins on the day after that date.
 
-### 12. Application of terms and conditions during paternity leave[^key-20e269553d43721afd7af8f7b49f70d2]
+### 12. Application of terms and conditions during paternity leave[^c-20e269553d43721afd7af8f7b49f70d2]
 
 (1) An employee who takes paternity leave–
 
@@ -306,7 +306,7 @@ the employee’s period of leave begins on the day after that date.
 
 (3) For the purposes of Article 112C of the 1996 Order, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
 
-### 13. Right to return after paternity leave[^key-20fcfc067a8074f4c6d9207172da7c7d]
+### 13. Right to return after paternity leave[^c-20fcfc067a8074f4c6d9207172da7c7d]
 
 (1) An employee who returns to work after a period of paternity leave which was–
 
@@ -322,7 +322,7 @@ is entitled to return from leave to the job in which he was employed before his 
 - (a) if his return is from an isolated period of paternity leave, immediately before that period began;
 - (b) if his return is from consecutive periods of statutory leave, immediately before the first such period.
 
-### 14. Incidents of the right to return after paternity leave[^key-d86e0586dd8a8e57a2fcc1e954149bc0]
+### 14. Incidents of the right to return after paternity leave[^c-d86e0586dd8a8e57a2fcc1e954149bc0]
 
 (1) An employee’s right to return under regulation 13 is a right to return–
 
@@ -340,7 +340,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 ## PART III — ADOPTION LEAVE
 
-### 15. Entitlement to ordinary adoption leave[^key-b92c9799d32314e0044783c1c8c0b204]
+### 15. Entitlement to ordinary adoption leave[^c-b92c9799d32314e0044783c1c8c0b204]
 
 (1) An employee is entitled to ordinary adoption leave in respect of a child if he–
 
@@ -357,7 +357,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (4) An employee’s entitlement to leave under this regulation shall not be affected by the placement for adoption of more than one child as part of the same arrangement.
 
-### 16. Options in respect of ordinary adoption leave[^key-727efae966540327973abb9aa62fafb3]
+### 16. Options in respect of ordinary adoption leave[^c-727efae966540327973abb9aa62fafb3]
 
 (1) Except in the case referred to in paragraph (2), an employee may choose to begin a period of ordinary adoption leave on–
 
@@ -366,7 +366,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (2) In a case where the employee was notified of having been matched with the child before 6th April 2003, the employee may choose to begin a period of leave only on a predetermined date, specified in a notice under regulation 17, which is after 6th April 2003 and at least 28 days after the date on which that notice is given.
 
-### 17. Notice and evidential requirements for ordinary adoption leave[^key-757b45f0e7c31ddb66f71f3835e21e20]
+### 17. Notice and evidential requirements for ordinary adoption leave[^c-757b45f0e7c31ddb66f71f3835e21e20]
 
 (1) An employee must give his employer notice of his intention to take ordinary adoption leave in respect of a child, specifying–
 
@@ -403,7 +403,7 @@ or, if it is not reasonably practicable to give the notice 28 days before whiche
 - (a) where the employer is given notice under paragraph (1), within 28 days of the date on which he received that notice;
 - (b) where the employer is given notice under paragraph (4), within 28 days of the date on which the employee’s ordinary adoption leave period began.
 
-### 18. Duration and commencement of ordinary adoption leave[^key-635680af1b18b10276bc9ed0093b4579]
+### 18. Duration and commencement of ordinary adoption leave[^c-635680af1b18b10276bc9ed0093b4579]
 
 (1) Subject to regulations 22 and 24, an employee’s ordinary adoption leave period is a period of 26 weeks.
 
@@ -416,7 +416,7 @@ or, if it is not reasonably practicable to give the notice 28 days before whiche
 
 the employee’s period of leave begins on the day after that date.
 
-### 19. Application of terms and conditions during ordinary adoption leave[^key-980efad1df4b69308a12ceffdf484ef3]
+### 19. Application of terms and conditions during ordinary adoption leave[^c-980efad1df4b69308a12ceffdf484ef3]
 
 (1) An employee who takes ordinary adoption leave–
 
@@ -427,7 +427,7 @@ the employee’s period of leave begins on the day after that date.
 
 (3) For the purposes of Article 107A of the 1996 Order, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
 
-### 20. Additional adoption leave: entitlement, duration and commencement[^key-742fd3e97593dd4d31c1cfefbcfc54b3]
+### 20. Additional adoption leave: entitlement, duration and commencement[^c-742fd3e97593dd4d31c1cfefbcfc54b3]
 
 (1) An employee is entitled to additional adoption leave in respect of a child if–
 
@@ -437,7 +437,7 @@ the employee’s period of leave begins on the day after that date.
 
 (2) Subject to regulations 22 and 24, an employee’s additional adoption leave period is a period of 26 weeks beginning on the day after the last day of his ordinary adoption leave period.
 
-### 21. Application of terms and conditions during additional adoption leave[^key-d46bed0b45c1e42d83b9158a8a8ca939]
+### 21. Application of terms and conditions during additional adoption leave[^c-d46bed0b45c1e42d83b9158a8a8ca939]
 
 An employee who takes additional adoption leave–
 
@@ -451,7 +451,7 @@ An employee who takes additional adoption leave–
   - (iii) the acceptance of gifts or other benefits, or
   - (iv) the employee’s participation in any other business.
 
-### 22. Disrupted placement in the course of adoption leave[^key-adeafc18fec597bd0b57119c10b6bfc1]
+### 22. Disrupted placement in the course of adoption leave[^c-adeafc18fec597bd0b57119c10b6bfc1]
 
 (1) This regulation applies where–
 
@@ -477,7 +477,7 @@ An employee who takes additional adoption leave–
 
 (4) In paragraph (3), “week” means the period of seven days beginning with Sunday.
 
-### 23. Redundancy during adoption leave[^key-cee42cbd2f18a8fe966d545141ae4a3a]
+### 23. Redundancy during adoption leave[^c-cee42cbd2f18a8fe966d545141ae4a3a]
 
 (1) This regulation applies where, during an employee’s ordinary or additional adoption leave period, it is not practicable by reason of redundancy for his employer to continue to employ him under his existing contract of employment.
 
@@ -488,11 +488,11 @@ An employee who takes additional adoption leave–
 - (a) the work to be done under it is of a kind which is both suitable in relation to the employee and appropriate for him to do in the circumstances, and
 - (b) its provisions as to the capacity and place in which he is to be employed, and as to the other terms and conditions of his employment, are not substantially less favourable to him than if he had continued to be employed under the previous contract.
 
-### 24. Dismissal during adoption leave[^key-e05c9818b319d50ca51a2df6baa11e5c]
+### 24. Dismissal during adoption leave[^c-e05c9818b319d50ca51a2df6baa11e5c]
 
 Where an employee is dismissed after an ordinary or additional adoption leave period has begun but before the time when (apart from this regulation) that period would end, the period ends at the time of the dismissal.
 
-### 25. Requirement to notify intention to return during adoption leave period[^key-b8f8822147b61ec9214e921008c88fe8]
+### 25. Requirement to notify intention to return during adoption leave period[^c-b8f8822147b61ec9214e921008c88fe8]
 
 (1) An employee who intends to return to work earlier than the end of his additional adoption leave period must give his employer at least 28 days' notice of the date on which he intends to return.
 
@@ -506,7 +506,7 @@ Where an employee is dismissed after an ordinary or additional adoption leave pe
 
 (6) In a case where an employee’s adoption leave is curtailed because regulation 22 applies, the references in this regulation to the end of an employee’s additional adoption leave period are references to the date on which that period would have ended had that regulation not applied, irrespective of whether it was the employee’s ordinary adoption leave period or his additional adoption leave period that was curtailed.
 
-### 26. Right to return after adoption leave[^key-2801f81130ecd48c9d23a09519ede91e]
+### 26. Right to return after adoption leave[^c-2801f81130ecd48c9d23a09519ede91e]
 
 (1) An employee who returns to work after a period of ordinary adoption leave which was–
 
@@ -529,7 +529,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (4) This regulation does not apply where regulation 23 applies.
 
-### 27. Incidents of the right to return from adoption leave[^key-87400109f4112b88318bd52c4ae6964c]
+### 27. Incidents of the right to return from adoption leave[^c-87400109f4112b88318bd52c4ae6964c]
 
 (1) An employee’s right to return under regulation 26 is to return–
 
@@ -547,7 +547,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 ## PART IV — PROVISIONS APPLICABLE IN RELATION TO BOTH PATERNITY AND ADOPTION LEAVE
 
-### 28. Protection from detriment[^key-cc93b8e025138fc008b5069757ee7866]
+### 28. Protection from detriment[^c-cc93b8e025138fc008b5069757ee7866]
 
 (1) An employee is entitled under Article 70C of the 1996 Order[^f00018] not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer because–
 
@@ -559,7 +559,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (2) Paragraph (1) does not apply where the detriment in question amounts to dismissal within the meaning of Part XI of the 1996 Order.
 
-### 29. Unfair dismissal[^key-ca574e70a059e7910d81027d2c3d775e]
+### 29. Unfair dismissal[^c-ca574e70a059e7910d81027d2c3d775e]
 
 (1) An employee who is dismissed is entitled under Article 131 of the 1996 Order to be regarded for the purpose of Part XI of that Order as unfairly dismissed if–
 
@@ -593,7 +593,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (6) Where, on a complaint of unfair dismissal, any question arises as to whether the operation of paragraph (1) is excluded by the provisions of paragraphs (4) or (5), it is for the employer to show that the provisions in question were satisfied in relation to the complainant.
 
-### 30. Contractual rights to paternity or adoption leave[^key-fc72b059a68b01e9981e030216169524]
+### 30. Contractual rights to paternity or adoption leave[^c-fc72b059a68b01e9981e030216169524]
 
 (1) This regulation applies where an employee is entitled to–
 
@@ -608,7 +608,7 @@ is entitled to return from leave to the job in which he was employed before his 
 - (a) the employee may not exercise the statutory right and the corresponding right separately but may, in taking the leave for which the two rights provide, take advantage of whichever right is, in any particular respect, the more favourable, and
 - (b) the provisions of the 1996 Order and of these Regulations relating to the statutory right apply, subject to any modifications necessary to give effect to any more favourable contractual terms, to the exercise of the composite right described in sub-paragraph (a) as they apply to the exercise of the statutory right.
 
-### 31. Calculation of a week’s pay[^key-935bc40a5332df8f52e206afc7fe55ff]
+### 31. Calculation of a week’s pay[^c-935bc40a5332df8f52e206afc7fe55ff]
 
 Where–
 
@@ -660,9 +660,9 @@ Regulations 28–31 contain provisions applicable in relation to both paternity 
 
 [^f00006]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999
 
-[^key-44961103a1f75ecd8c56fb49f693b992]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-44961103a1f75ecd8c56fb49f693b992]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-43bbeff08c67d42d65015278c6803d1c]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-43bbeff08c67d42d65015278c6803d1c]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
 [^f00007]: Footnote: S.I. [1987/2203 (N.I. 22)](https://www.legislation.gov.uk/nisi/1987/2203); Article 3(3) was amended by Schedule 1 to the Health and Personal Social Services (Northern Ireland) Order 1994 (S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429))
 
@@ -678,70 +678,70 @@ Regulations 28–31 contain provisions applicable in relation to both paternity 
 
 [^f00013]: Footnote: S.I. [1996/3266](https://www.legislation.gov.uk/uksi/1996/3266)
 
-[^key-0bc8628a1ba4bfcd3a4ed62aa5487684]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-0bc8628a1ba4bfcd3a4ed62aa5487684]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-3a54924d2e77006e0054073715a95f1d]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-3a54924d2e77006e0054073715a95f1d]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-d7b684a6b2fd65b6fbd4c60dc45510dd]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-d7b684a6b2fd65b6fbd4c60dc45510dd]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-1ee92fd473fbd4fafabb811a288b4c42]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-1ee92fd473fbd4fafabb811a288b4c42]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-93a8ae86f382f43def37b939c6f505d6]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-93a8ae86f382f43def37b939c6f505d6]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-2e3dc8a65b15bb482da5304bc19b56e1]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-2e3dc8a65b15bb482da5304bc19b56e1]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-ab4922e4870da2179200ee54fdf32c4d]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-ab4922e4870da2179200ee54fdf32c4d]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-3565bed3330f40c023acfdc29da9019e]: Commencement: Reg. 10 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-3565bed3330f40c023acfdc29da9019e]: Commencement: Reg. 10 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-d45f36c0d33a463b1dadeeb2c0f5c7e8]: Commencement: Reg. 11 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-d45f36c0d33a463b1dadeeb2c0f5c7e8]: Commencement: Reg. 11 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-20e269553d43721afd7af8f7b49f70d2]: Commencement: Reg. 12 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-20e269553d43721afd7af8f7b49f70d2]: Commencement: Reg. 12 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
 [^f00014]: Footnote: Article 112C was inserted by Article 4 of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
-[^key-20fcfc067a8074f4c6d9207172da7c7d]: Commencement: Reg. 13 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-20fcfc067a8074f4c6d9207172da7c7d]: Commencement: Reg. 13 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-d86e0586dd8a8e57a2fcc1e954149bc0]: Commencement: Reg. 14 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-d86e0586dd8a8e57a2fcc1e954149bc0]: Commencement: Reg. 14 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1989 /1342 (N.I. 13)](https://www.legislation.gov.uk/nisi/1989/1342)
 
-[^key-b92c9799d32314e0044783c1c8c0b204]: Commencement: Reg. 15 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-b92c9799d32314e0044783c1c8c0b204]: Commencement: Reg. 15 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-727efae966540327973abb9aa62fafb3]: Commencement: Reg. 16 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-727efae966540327973abb9aa62fafb3]: Commencement: Reg. 16 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-757b45f0e7c31ddb66f71f3835e21e20]: Commencement: Reg. 17 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-757b45f0e7c31ddb66f71f3835e21e20]: Commencement: Reg. 17 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-635680af1b18b10276bc9ed0093b4579]: Commencement: Reg. 18 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-635680af1b18b10276bc9ed0093b4579]: Commencement: Reg. 18 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-980efad1df4b69308a12ceffdf484ef3]: Commencement: Reg. 19 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-980efad1df4b69308a12ceffdf484ef3]: Commencement: Reg. 19 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
 [^f00016]: Footnote: Article 107A was inserted by Article 3 of the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
-[^key-742fd3e97593dd4d31c1cfefbcfc54b3]: Commencement: Reg. 20 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-742fd3e97593dd4d31c1cfefbcfc54b3]: Commencement: Reg. 20 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-d46bed0b45c1e42d83b9158a8a8ca939]: Commencement: Reg. 21 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-d46bed0b45c1e42d83b9158a8a8ca939]: Commencement: Reg. 21 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-adeafc18fec597bd0b57119c10b6bfc1]: Commencement: Reg. 22 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-adeafc18fec597bd0b57119c10b6bfc1]: Commencement: Reg. 22 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-cee42cbd2f18a8fe966d545141ae4a3a]: Commencement: Reg. 23 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-cee42cbd2f18a8fe966d545141ae4a3a]: Commencement: Reg. 23 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-e05c9818b319d50ca51a2df6baa11e5c]: Commencement: Reg. 24 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-e05c9818b319d50ca51a2df6baa11e5c]: Commencement: Reg. 24 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-b8f8822147b61ec9214e921008c88fe8]: Commencement: Reg. 25 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-b8f8822147b61ec9214e921008c88fe8]: Commencement: Reg. 25 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-2801f81130ecd48c9d23a09519ede91e]: Commencement: Reg. 26 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-2801f81130ecd48c9d23a09519ede91e]: Commencement: Reg. 26 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-87400109f4112b88318bd52c4ae6964c]: Commencement: Reg. 27 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-87400109f4112b88318bd52c4ae6964c]: Commencement: Reg. 27 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
 [^f00017]: Footnote: [S.I. 1989 /1342 (N.I. 13)](https://www.legislation.gov.uk/nisi/1989/1342)
 
-[^key-cc93b8e025138fc008b5069757ee7866]: Commencement: Reg. 28 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-cc93b8e025138fc008b5069757ee7866]: Commencement: Reg. 28 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
 [^f00018]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 70C was inserted by paragraph 3 of Part III of Schedule 4 to the Employment Relations (Northern Ireland) Order 1999 (S.I. [1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790)) and amended by paragraph 4(6) and (7) of Schedule 2 to the Employment (Northern Ireland) Order 2002 (S.I. [2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836))
 
-[^key-ca574e70a059e7910d81027d2c3d775e]: Commencement: Reg. 29 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-ca574e70a059e7910d81027d2c3d775e]: Commencement: Reg. 29 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-fc72b059a68b01e9981e030216169524]: Commencement: Reg. 30 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-fc72b059a68b01e9981e030216169524]: Commencement: Reg. 30 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
 
-[^key-935bc40a5332df8f52e206afc7fe55ff]: Commencement: Reg. 31 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)
+[^c-935bc40a5332df8f52e206afc7fe55ff]: Commencement: Reg. 31 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/377/regulation/1)

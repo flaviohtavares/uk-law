@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Section 8 orders: local authority foster parents[^key-49695c659c329ea137302337ce282218]
+## 113. Section 8 orders: local authority foster parents[^c-49695c659c329ea137302337ce282218]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 9 of the 1989 Act (restrictions on making section 8 orders)—
 
 ## Annotations
 
-[^key-49695c659c329ea137302337ce282218]: Commencement: S. 113 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-49695c659c329ea137302337ce282218]: Commencement: S. 113 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

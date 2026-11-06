@@ -34,7 +34,7 @@ An Act to make provision for the setting of a decarbonisation target range and d
 
 \[18th December 2013\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-75863d98fde40c40162fd21e2cbd87cd]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-75863d98fde40c40162fd21e2cbd87cd]
 
 ## Contents
 
@@ -170,7 +170,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 75 — Nuclear regulations: offences](part-3/section-75.md)
 - [Section 76 — Nuclear regulations: civil liability](part-3/section-76.md)
 
-#### CHAPTER 2A — Nuclear safeguards[^key-1fbdc598e5e28c601c8bafe9ef7a6ce1]
+#### CHAPTER 2A — Nuclear safeguards[^c-1fbdc598e5e28c601c8bafe9ef7a6ce1]
 
 - [Section 76A — Nuclear safeguards regulations](part-3/section-76a.md)
 - [Section 76B — Payments in respect of compliance costs](part-3/section-76b.md)
@@ -367,6 +367,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-75863d98fde40c40162fd21e2cbd87cd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2013/32) modified (temp.) (E.W.) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 7(2)](https://www.legislation.gov.uk/uksi/2014/469/article/7/2), [(3)(c)](https://www.legislation.gov.uk/uksi/2014/469/article/7/3/c), [art. 7(4)-(9)](https://www.legislation.gov.uk/uksi/2014/469/article/7/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-75863d98fde40c40162fd21e2cbd87cd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2013/32) modified (temp.) (E.W.) (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 7(2)](https://www.legislation.gov.uk/uksi/2014/469/article/7/2), [(3)(c)](https://www.legislation.gov.uk/uksi/2014/469/article/7/3/c), [art. 7(4)-(9)](https://www.legislation.gov.uk/uksi/2014/469/article/7/4) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-1fbdc598e5e28c601c8bafe9ef7a6ce1]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2013/32/part/3/chapter/2A) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
+[^c-1fbdc598e5e28c601c8bafe9ef7a6ce1]: Textual amendment: [Pt. 3 Ch. 2A](https://www.legislation.gov.uk/ukpga/2013/32/part/3/chapter/2A) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Provision as to re-examination[^key-8a3e955862e0338a3313bf5531ed8096]
+## 33. Provision as to re-examination[^c-8a3e955862e0338a3313bf5531ed8096]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a3e955862e0338a3313bf5531ed8096]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1988/1478/regulation/33) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-8a3e955862e0338a3313bf5531ed8096]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1988/1478/regulation/33) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Breach of youth injunctions: powers of court in respect of under-18s[^key-9a76dc9321ca51b5df555c48c0b68372]
+## SCHEDULE 2 — Breach of youth injunctions: powers of court in respect of under-18s[^c-9a76dc9321ca51b5df555c48c0b68372]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ Section 12
 
 #### Power to make supervision order or detention order
 
-**1.**[^key-f0c4885a6f1ca3a0545acc15d64317a5] (1) A youth court, if satisfied beyond reasonable doubt that a person aged under 18 is in breach of a provision of a youth injunction[^key-3cbb88664e0e35a7c18b8f63e5a58e75] to which he or she is subject, may make in respect of the person—
+**1.**[^c-f0c4885a6f1ca3a0545acc15d64317a5] (1) A youth court, if satisfied beyond reasonable doubt that a person aged under 18 is in breach of a provision of a youth injunction[^c-3cbb88664e0e35a7c18b8f63e5a58e75] to which he or she is subject, may make in respect of the person—
 
 - (a) a supervision order (see Part 2 of this Schedule), or
 - (b) a detention order (see Part 3 of this Schedule).
@@ -48,7 +48,7 @@ Section 12
 
 #### Supervision orders
 
-**2.**[^key-98cee43e6e7603d4b780fa0c7a7a0007] (1) A supervision order is an order imposing on the person in respect of whom it is made (“**the defaulter**”) one or more of the following requirements—
+**2.**[^c-98cee43e6e7603d4b780fa0c7a7a0007] (1) A supervision order is an order imposing on the person in respect of whom it is made (“**the defaulter**”) one or more of the following requirements—
 
 - (a) a supervision requirement (see paragraph 3);
 - (b) an activity requirement (see paragraph 4);
@@ -74,7 +74,7 @@ Section 12
 
 #### Supervision requirements
 
-**3.**[^key-9669a4321f60d3fb03be3571f3ed3534] (1) In this Schedule “**supervision requirement**”, in relation to a supervision order, means a requirement that the defaulter attend appointments with—
+**3.**[^c-9669a4321f60d3fb03be3571f3ed3534] (1) In this Schedule “**supervision requirement**”, in relation to a supervision order, means a requirement that the defaulter attend appointments with—
 
 - (a) the responsible officer (see paragraph 7), or
 - (b) another person decided by the responsible officer,
@@ -85,7 +85,7 @@ at whatever times and places the responsible officer instructs.
 
 #### Activity requirements
 
-**4.**[^key-1591661484fa7fc506edf2eb4d5c5b96] (1) In this Schedule “**activity requirement**”, in relation to a supervision order, means a requirement that the defaulter do any or all of the following within the period for the time being specified in the order under paragraph 2(5)—
+**4.**[^c-1591661484fa7fc506edf2eb4d5c5b96] (1) In this Schedule “**activity requirement**”, in relation to a supervision order, means a requirement that the defaulter do any or all of the following within the period for the time being specified in the order under paragraph 2(5)—
 
 - (a) participate, on however many days are specified in the order, in activities at a place or places specified in it;
 - (b) participate in an activity or activities specified in the order on however many days are specified in it;
@@ -153,13 +153,13 @@ The instructions operate to require the defaulter, on that day or while particip
 (14) In sub-paragraph (10) “**guardian**” has the same meaning as in the Children and Young Persons Act 1933. But where a local authority has parental responsibility (within the meaning given by section 3 of the Children Act 1989) for a defaulter who—
 
 - (a) is in the authority's care, or
-- (b) is provided with accommodation by the authority in the exercise of social services functions (within the meaning given by section 1A of the Local Authority Social Services Act 1970 in relation to a local authority in England or for the purposes of the Social Services and Well-being (Wales) Act 2014 in relation to a local authority in Wales[^key-ca8c28fe6f6bdd8b8fd21e475fe9f03d]),
+- (b) is provided with accommodation by the authority in the exercise of social services functions (within the meaning given by section 1A of the Local Authority Social Services Act 1970 in relation to a local authority in England or for the purposes of the Social Services and Well-being (Wales) Act 2014 in relation to a local authority in Wales[^c-ca8c28fe6f6bdd8b8fd21e475fe9f03d]),
 
 the reference to “guardian” in sub-paragraph (10) is to be read as a reference to that authority.
 
 #### Curfew requirements
 
-**5.**[^key-b08224cc912c6ede24c2dd775e858182] (1) In this Schedule “**curfew requirement**”, in relation to a supervision order, means a requirement that the defaulter remain at a place specified in the order for the periods specified in it.
+**5.**[^c-b08224cc912c6ede24c2dd775e858182] (1) In this Schedule “**curfew requirement**”, in relation to a supervision order, means a requirement that the defaulter remain at a place specified in the order for the periods specified in it.
 
 (2) A supervision order imposing a curfew requirement may specify different places or different periods for different days.
 
@@ -177,7 +177,7 @@ the reference to “guardian” in sub-paragraph (10) is to be read as a referen
 
 #### Electronic monitoring requirements
 
-**6.**[^key-f0fa3c26a226d0a3e84d0b47346de9be] (1) A supervision order containing a curfew requirement may also contain a requirement (an “electronic monitoring requirement”) for securing the electronic monitoring of compliance with the curfew requirement during a period—
+**6.**[^c-f0fa3c26a226d0a3e84d0b47346de9be] (1) A supervision order containing a curfew requirement may also contain a requirement (an “electronic monitoring requirement”) for securing the electronic monitoring of compliance with the curfew requirement during a period—
 
 - (a) specified in the order, or
 - (b) determined by the responsible officer in accordance with the order.
@@ -210,7 +210,7 @@ the requirement may not be included in the order without that person's consent.
 
 #### “Responsible officer”
 
-**7.**[^key-f9129b4b48bce77ebdbd29578b1b75cd] (1) For the purposes of this Part of this Schedule, the “**responsible officer**”, in relation to a supervision order, means—
+**7.**[^c-f9129b4b48bce77ebdbd29578b1b75cd] (1) For the purposes of this Part of this Schedule, the “**responsible officer**”, in relation to a supervision order, means—
 
 - (a) in a case where the order imposes a curfew requirement and an electronic monitoring requirement, but does not impose an activity or supervision requirement, the person who under paragraph 6(4) is responsible for the electronic monitoring;
 - (b) in any other case, the member of the youth offending team for the time being specified in the order who is for the time being responsible for discharging the functions conferred by this Schedule on the responsible officer.
@@ -231,13 +231,13 @@ These obligations have effect as requirements of the order.
 
 #### Amendment of operative period
 
-**8.**[^key-ef6f2ce740257e6c899ca29d6200957b] (1) The court may, on the application of the original applicant, amend a supervision order by substituting a new period for the one specified in the order for the time being under paragraph 2(5) (subject to paragraph 2(6)).
+**8.**[^c-ef6f2ce740257e6c899ca29d6200957b] (1) The court may, on the application of the original applicant, amend a supervision order by substituting a new period for the one specified in the order for the time being under paragraph 2(5) (subject to paragraph 2(6)).
 
 (2) A court amending a supervision order under sub-paragraph (1) may make whatever other amendments to the order the court considers appropriate in relation to a requirement imposed by the order.
 
 #### Amendment on change of area of residence
 
-**9.**[^key-a283e712918c27e61a4556fd7e1ce50f] (1) This paragraph applies where, on an application made in relation to a supervision order by the original applicant or the defaulter, the court is satisfied that the defaulter proposes to live, or is living, in the area of a youth offending team other than the team for the time being specified in the order.
+**9.**[^c-a283e712918c27e61a4556fd7e1ce50f] (1) This paragraph applies where, on an application made in relation to a supervision order by the original applicant or the defaulter, the court is satisfied that the defaulter proposes to live, or is living, in the area of a youth offending team other than the team for the time being specified in the order.
 
 (2) If the application is made by the defaulter, the court may amend the order by substituting for the youth offending team specified in the order the youth offending team for the area referred to in sub-paragraph (1) (or, if there is more than one youth offending team for that area, whichever of them the court decides).
 
@@ -254,7 +254,7 @@ These obligations have effect as requirements of the order.
 
 #### Revocation of supervision order
 
-**10.**[^key-32512dd2784ca5e4a37b46fedf8b32f4] (1) The original applicant or the defaulter may apply to a youth court—
+**10.**[^c-32512dd2784ca5e4a37b46fedf8b32f4] (1) The original applicant or the defaulter may apply to a youth court—
 
 - (a) to revoke a supervision order;
 - (b) to amend a supervision order by removing a requirement from it.
@@ -272,11 +272,11 @@ These obligations have effect as requirements of the order.
 
 #### Compliance with supervision order
 
-**11.**[^key-d764b75a5a9c15b583ba26c49276325b] If the responsible officer considers that the defaulter has complied with all the requirements of the supervision order, the officer must inform the original applicant.
+**11.**[^c-d764b75a5a9c15b583ba26c49276325b] If the responsible officer considers that the defaulter has complied with all the requirements of the supervision order, the officer must inform the original applicant.
 
 #### Non-compliance with supervision order
 
-**12.**[^key-4e94872e8a1b59d3382224214e5bb4cf] (1) If the responsible officer considers that the defaulter has failed to comply with a requirement of the supervision order, the officer must inform the original applicant.
+**12.**[^c-4e94872e8a1b59d3382224214e5bb4cf] (1) If the responsible officer considers that the defaulter has failed to comply with a requirement of the supervision order, the officer must inform the original applicant.
 
 (2) On being informed under sub-paragraph (1) the original applicant may apply to a youth court.
 
@@ -299,7 +299,7 @@ These obligations have effect as requirements of the order.
 
 #### Copies of supervision order etc
 
-**13.**[^key-166ebe164aa186a232d5e7519375e0b5] (1) A court that makes a supervision order must straight away provide a copy of the order to—
+**13.**[^c-166ebe164aa186a232d5e7519375e0b5] (1) A court that makes a supervision order must straight away provide a copy of the order to—
 
 - (a) the defaulter;
 - (b) the youth offending team for the time being specified in the order.
@@ -329,7 +329,7 @@ the original applicant must straight away give a copy of the revoking order, or 
 
 #### Detention orders
 
-**14.**[^key-84c0d109b0ac72fef271da8f8816c4a7] (1) A detention order is an order that the person in respect of whom it is made (“**the defaulter**”) be detained for a period specified in the order in whatever youth detention accommodation the Secretary of State decides.
+**14.**[^c-84c0d109b0ac72fef271da8f8816c4a7] (1) A detention order is an order that the person in respect of whom it is made (“**the defaulter**”) be detained for a period specified in the order in whatever youth detention accommodation the Secretary of State decides.
 
 (2) The period specified under sub-paragraph (1) may not exceed the period of 3 months (not counting the day on which the order is made).
 
@@ -345,7 +345,7 @@ the original applicant must straight away give a copy of the revoking order, or 
 
 #### Revocation of detention order
 
-**15.**[^key-21ae3c89dc4c59ec05c0359a5f43e140] (1) Where a detention order is made, the original applicant or the defaulter may apply to a youth court to revoke it.
+**15.**[^c-21ae3c89dc4c59ec05c0359a5f43e140] (1) Where a detention order is made, the original applicant or the defaulter may apply to a youth court to revoke it.
 
 (2) If it appears to the court to be in the interests of justice to do so, having regard to circumstances that have arisen since the detention order was made, the court may grant an application under sub-paragraph (1) and revoke the order accordingly.
 
@@ -362,38 +362,38 @@ the original applicant must straight away give a copy of the revoking order, or 
 
 ## Annotations
 
-[^key-9a76dc9321ca51b5df555c48c0b68372]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/ukpga/2014/12/schedule/2) heading inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/22/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-9a76dc9321ca51b5df555c48c0b68372]: Textual amendment: Word in [Sch. 2](https://www.legislation.gov.uk/ukpga/2014/12/schedule/2) heading inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 22(2)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/22/2) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
-[^key-f0c4885a6f1ca3a0545acc15d64317a5]: Commencement: Sch. 2 para. 1 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-f0c4885a6f1ca3a0545acc15d64317a5]: Commencement: Sch. 2 para. 1 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-3cbb88664e0e35a7c18b8f63e5a58e75]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/2/paragraph/1/1) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/22/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
+[^c-3cbb88664e0e35a7c18b8f63e5a58e75]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2014/12/schedule/2/paragraph/1/1) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 1 para. 22(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/1/paragraph/22/3) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/2/3)); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/g)
 
-[^key-98cee43e6e7603d4b780fa0c7a7a0007]: Commencement: Sch. 2 para. 2 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-98cee43e6e7603d4b780fa0c7a7a0007]: Commencement: Sch. 2 para. 2 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-9669a4321f60d3fb03be3571f3ed3534]: Commencement: Sch. 2 para. 3 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-9669a4321f60d3fb03be3571f3ed3534]: Commencement: Sch. 2 para. 3 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-1591661484fa7fc506edf2eb4d5c5b96]: Commencement: Sch. 2 para. 4 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-1591661484fa7fc506edf2eb4d5c5b96]: Commencement: Sch. 2 para. 4 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-ca8c28fe6f6bdd8b8fd21e475fe9f03d]: Textual amendment: Words in Sch. 2 para. 4(14)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [292](https://www.legislation.gov.uk/wsi/2016/413/regulation/292)
+[^c-ca8c28fe6f6bdd8b8fd21e475fe9f03d]: Textual amendment: Words in Sch. 2 para. 4(14)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [292](https://www.legislation.gov.uk/wsi/2016/413/regulation/292)
 
-[^key-b08224cc912c6ede24c2dd775e858182]: Commencement: Sch. 2 para. 5 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-b08224cc912c6ede24c2dd775e858182]: Commencement: Sch. 2 para. 5 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-f0fa3c26a226d0a3e84d0b47346de9be]: Commencement: Sch. 2 para. 6 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-f0fa3c26a226d0a3e84d0b47346de9be]: Commencement: Sch. 2 para. 6 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-f9129b4b48bce77ebdbd29578b1b75cd]: Commencement: Sch. 2 para. 7 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-f9129b4b48bce77ebdbd29578b1b75cd]: Commencement: Sch. 2 para. 7 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-ef6f2ce740257e6c899ca29d6200957b]: Commencement: Sch. 2 para. 8 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-ef6f2ce740257e6c899ca29d6200957b]: Commencement: Sch. 2 para. 8 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-a283e712918c27e61a4556fd7e1ce50f]: Commencement: Sch. 2 para. 9 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-a283e712918c27e61a4556fd7e1ce50f]: Commencement: Sch. 2 para. 9 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-32512dd2784ca5e4a37b46fedf8b32f4]: Commencement: Sch. 2 para. 10 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-32512dd2784ca5e4a37b46fedf8b32f4]: Commencement: Sch. 2 para. 10 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-d764b75a5a9c15b583ba26c49276325b]: Commencement: Sch. 2 para. 11 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-d764b75a5a9c15b583ba26c49276325b]: Commencement: Sch. 2 para. 11 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-4e94872e8a1b59d3382224214e5bb4cf]: Commencement: Sch. 2 para. 12 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-4e94872e8a1b59d3382224214e5bb4cf]: Commencement: Sch. 2 para. 12 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-166ebe164aa186a232d5e7519375e0b5]: Commencement: Sch. 2 para. 13 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-166ebe164aa186a232d5e7519375e0b5]: Commencement: Sch. 2 para. 13 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-84c0d109b0ac72fef271da8f8816c4a7]: Commencement: Sch. 2 para. 14 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-84c0d109b0ac72fef271da8f8816c4a7]: Commencement: Sch. 2 para. 14 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
 
-[^key-21ae3c89dc4c59ec05c0359a5f43e140]: Commencement: Sch. 2 para. 15 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)
+[^c-21ae3c89dc4c59ec05c0359a5f43e140]: Commencement: Sch. 2 para. 15 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(d)](https://www.legislation.gov.uk/uksi/2015/373/article/4/d)

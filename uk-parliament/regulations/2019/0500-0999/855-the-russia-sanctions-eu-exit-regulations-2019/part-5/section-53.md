@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Brokering services: non-UK activity relating to infrastructure-related goods and goods from non-government controlled Ukrainian territory[^key-4c731b51feb92a7e6fdffbe1386d91c3][^key-ca9db1a26986683e79d699e3fec31094]
+## 53. Brokering services: non-UK activity relating to infrastructure-related goods and goods from non-government controlled Ukrainian territory[^c-4c731b51feb92a7e6fdffbe1386d91c3][^c-ca9db1a26986683e79d699e3fec31094]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4c731b51feb92a7e6fdffbe1386d91c3]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-4c731b51feb92a7e6fdffbe1386d91c3]: Commencement: Reg. 53 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-ca9db1a26986683e79d699e3fec31094]: Textual amendment: Words in [reg. 53](https://www.legislation.gov.uk/uksi/2019/855/regulation/53) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(vii)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/vii)
+[^c-ca9db1a26986683e79d699e3fec31094]: Textual amendment: Words in [reg. 53](https://www.legislation.gov.uk/uksi/2019/855/regulation/53) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [15(b)(vii)](https://www.legislation.gov.uk/uksi/2022/395/regulation/15/b/vii)

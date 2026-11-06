@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Transitional modification and derogation for the purpose of listing third countries.[^key-addb84e0799427bd558c73c2cecf8841]
+## 47. Transitional modification and derogation for the purpose of listing third countries.[^c-addb84e0799427bd558c73c2cecf8841]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-addb84e0799427bd558c73c2cecf8841]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-addb84e0799427bd558c73c2cecf8841]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

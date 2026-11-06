@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Calculation of amount of accrued pension for purposes of retirement other than phased retirement[^key-e98b6b216194383594c6719e9691492e]
+## 44. Calculation of amount of accrued pension for purposes of retirement other than phased retirement[^c-e98b6b216194383594c6719e9691492e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e98b6b216194383594c6719e9691492e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2014/292/regulation/44) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-e98b6b216194383594c6719e9691492e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2014/292/regulation/44) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

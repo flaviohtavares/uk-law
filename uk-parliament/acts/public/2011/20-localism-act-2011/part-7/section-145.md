@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Allocation of housing accommodation[^key-9bc8f2061bd7a37f3b86f77086bf93e5][^key-ade7d0dd997c992bc60caea0384d8706]
+## 145. Allocation of housing accommodation[^c-9bc8f2061bd7a37f3b86f77086bf93e5][^c-ade7d0dd997c992bc60caea0384d8706]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc8f2061bd7a37f3b86f77086bf93e5]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2011/20/section/145) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(j)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/j) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-9bc8f2061bd7a37f3b86f77086bf93e5]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2011/20/section/145) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(j)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/j) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-ade7d0dd997c992bc60caea0384d8706]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2011/20/section/145) in force at 18.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
+[^c-ade7d0dd997c992bc60caea0384d8706]: Commencement: [S. 145](https://www.legislation.gov.uk/ukpga/2011/20/section/145) in force at 18.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Extent[^key-c9ff59311b9cd697858822386986f698]
+## 66. Extent[^c-c9ff59311b9cd697858822386986f698]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ff59311b9cd697858822386986f698]: Commencement: S. 66 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)
+[^c-c9ff59311b9cd697858822386986f698]: Commencement: S. 66 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)

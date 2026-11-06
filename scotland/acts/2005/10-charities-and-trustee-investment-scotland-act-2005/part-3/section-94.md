@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Exercise of power of investment[^key-13b1e245476d1ac4693ce9ba352d9309]
+## 94. Exercise of power of investment[^c-13b1e245476d1ac4693ce9ba352d9309]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ After section 4 of the Trusts (Scotland) Act 1921 (c. 58) insert—
 
 ## Annotations
 
-[^key-13b1e245476d1ac4693ce9ba352d9309]: Commencement: S. 94 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-13b1e245476d1ac4693ce9ba352d9309]: Commencement: S. 94 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

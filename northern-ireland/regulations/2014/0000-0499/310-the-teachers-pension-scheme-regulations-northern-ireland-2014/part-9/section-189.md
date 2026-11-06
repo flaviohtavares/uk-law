@@ -32,7 +32,7 @@ summary: ''
 - (b) a transfer payment has been made in respect of P's pensionable service; or
 - (c) P is in a period of post-benefit service immediately before the last day of pensionable service [^c22298901].
 
-(3) For the purpose of this regulation, P is in pensionable service while P is absent on maternity leave, paternity leave, [^key-690ca1587b0616e16f9e1e727e0c4f10]... parental leave , shared parental leave[^M_F_ab8ed7b9-3bf1-4449-8c64-f502de93be87] or adoption leave if P is entitled to return from leave by virtue of Part IX of the Employment Rights (Northern Ireland) Order 1996 [^c22298911].
+(3) For the purpose of this regulation, P is in pensionable service while P is absent on maternity leave, paternity leave, [^c-690ca1587b0616e16f9e1e727e0c4f10]... parental leave , shared parental leave[^M_F_ab8ed7b9-3bf1-4449-8c64-f502de93be87] or adoption leave if P is entitled to return from leave by virtue of Part IX of the Employment Rights (Northern Ireland) Order 1996 [^c22298911].
 
 (4) If a repayment of the balance of contributions is made, P's rights under this scheme are extinguished.
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c22298901]: Marginal citation: See regulation 124 for P's entitlement to a short service annuity if P is not re-qualified for retirement benefits in respect of a period of post-benefit service.
 
-[^key-690ca1587b0616e16f9e1e727e0c4f10]: Textual amendment: Words in [reg. 189(3)](https://www.legislation.gov.uk/nisr/2014/310/regulation/189/3) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(10)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/10/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
+[^c-690ca1587b0616e16f9e1e727e0c4f10]: Textual amendment: Words in [reg. 189(3)](https://www.legislation.gov.uk/nisr/2014/310/regulation/189/3) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2015/146/article/1/3), [23(10)(a)](https://www.legislation.gov.uk/nisr/2015/146/article/23/10/a) (with [art. 25](https://www.legislation.gov.uk/nisr/2015/146/article/25))
 
 [^M_F_ab8ed7b9-3bf1-4449-8c64-f502de93be87]: Textual amendment: Words in reg. 189(3) inserted (15.3.2015) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order (Northern Ireland) 2015 (S.R. 2015/146)](https://www.legislation.gov.uk/nisr/2015/146), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2015/146/article/1/2), [23(10)(b)](https://www.legislation.gov.uk/nisr/2015/146/article/23/10/b)
 

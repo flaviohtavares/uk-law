@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Incidents etc in Scotland[^key-91e9b2cc33f47bac776c60b1953fb652]
+## 87. Incidents etc in Scotland[^c-91e9b2cc33f47bac776c60b1953fb652]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91e9b2cc33f47bac776c60b1953fb652]: Commencement: S. 87 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-91e9b2cc33f47bac776c60b1953fb652]: Commencement: S. 87 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 661D. Tax treatment of gifts qualifying for gift aid relief[^key-91a467372b5816db5c0d0af9fdfd0c42]
+## 661D. Tax treatment of gifts qualifying for gift aid relief[^c-91a467372b5816db5c0d0af9fdfd0c42]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ But this is subject to section 664 (exemption for interest and gift aid income).
 
 ## Annotations
 
-[^key-91a467372b5816db5c0d0af9fdfd0c42]: Textual amendment: S. 661D and cross-heading inserted (with effect in accordance with Sch. 15 para. 17(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/6)
+[^c-91a467372b5816db5c0d0af9fdfd0c42]: Textual amendment: S. 661D and cross-heading inserted (with effect in accordance with Sch. 15 para. 17(2) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/6)

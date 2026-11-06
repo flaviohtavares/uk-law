@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Tenement Management Scheme: definition of “maintenance”[^key-68913d6cac263ee2da5999b7df9f05dd]
+## 69. Tenement Management Scheme: definition of “maintenance”[^c-68913d6cac263ee2da5999b7df9f05dd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In schedule 1 (Tenement Management Scheme) to the Tenements (Scotland) Act 2004 
 
 ## Annotations
 
-[^key-68913d6cac263ee2da5999b7df9f05dd]: Commencement: S. 69 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-68913d6cac263ee2da5999b7df9f05dd]: Commencement: S. 69 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

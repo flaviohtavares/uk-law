@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J5. Termination of right to payment out of fund authority's superannuation fund[^key-30c4eaab23745876b55e334219213543]
+## J5. Termination of right to payment out of fund authority's superannuation fund[^c-30c4eaab23745876b55e334219213543]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Notwithstanding anything in the Acts of 1937 to 1953 and the regulations made th
 
 ## Annotations
 
-[^key-30c4eaab23745876b55e334219213543]: Commencement: [Reg. J5](https://www.legislation.gov.uk/uksi/1986/24/regulation/J5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-30c4eaab23745876b55e334219213543]: Commencement: [Reg. J5](https://www.legislation.gov.uk/uksi/1986/24/regulation/J5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

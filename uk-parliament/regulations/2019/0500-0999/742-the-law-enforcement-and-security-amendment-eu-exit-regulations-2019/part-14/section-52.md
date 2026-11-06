@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Interpretation[^key-1037b74fd24d07e4f370cf45c55ed0cf]
+## 52. Interpretation[^c-1037b74fd24d07e4f370cf45c55ed0cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In this Part “**the 2003 Act**” means the Extradition Act 2003 [^c23691241].
 
 ## Annotations
 
-[^key-1037b74fd24d07e4f370cf45c55ed0cf]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1037b74fd24d07e4f370cf45c55ed0cf]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691241]: Marginal citation: [2003 c. 41](https://www.legislation.gov.uk/ukpga/2003/41).

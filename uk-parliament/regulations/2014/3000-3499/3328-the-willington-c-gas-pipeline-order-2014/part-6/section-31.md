@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Operational land for purposes of 1990 Act[^key-bee0ecdcd91a0c02f9e98d78dfce1556]
+## 31. Operational land for purposes of 1990 Act[^c-bee0ecdcd91a0c02f9e98d78dfce1556]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order must be treated as specific planning p
 
 ## Annotations
 
-[^key-bee0ecdcd91a0c02f9e98d78dfce1556]: Commencement: Art. 31 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-bee0ecdcd91a0c02f9e98d78dfce1556]: Commencement: Art. 31 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)

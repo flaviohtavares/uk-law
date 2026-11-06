@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Power to make further exemptions[^c23269021][^key-e25930aa3cf639fbe9dcbc865cf147f2]
+## 113. Power to make further exemptions[^c23269021][^c-e25930aa3cf639fbe9dcbc865cf147f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c23269021]: Commencement: S. 113 in force at Royal Assent for specified purposes, see [s. 212(2)(f)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/2/f)
 
-[^key-e25930aa3cf639fbe9dcbc865cf147f2]: Commencement: S. 113 in force at 25.5.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-e25930aa3cf639fbe9dcbc865cf147f2]: Commencement: S. 113 in force at 25.5.2018 in so far as not already in force by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

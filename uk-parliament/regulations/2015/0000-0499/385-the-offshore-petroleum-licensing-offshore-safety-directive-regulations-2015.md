@@ -65,9 +65,9 @@ These Regulations may be cited as the Offshore Petroleum Licensing (Offshore Saf
 - “**information notice**” has the meaning given in regulation 11(4);
 - “**installation**” has the meaning given in Article 2(19) of the Directive;
 - “**installation operator**” means a person appointed in accordance with regulation 5 or 6 to conduct any offshore petroleum operations, other than the planning or execution of any well operations;
-- “**licensing authority**” means the Oil and Gas Authority[^key-2efa988456369800b3886942a90ab740];
+- “**licensing authority**” means the Oil and Gas Authority[^c-2efa988456369800b3886942a90ab740];
 - “**major accident**” has the meaning given in Article 2(1) of the 2013 Directive;
-- “obligation” includes a prohibition where relevant;[^key-b2ff1fa3fea94b15117186d16098a0ab]
+- “obligation” includes a prohibition where relevant;[^c-b2ff1fa3fea94b15117186d16098a0ab]
 - “**offshore licence**” means a licence granted under section 2(1) of the Petroleum (Production) Act 1934 [^c22459611] or section 3(1) of the Petroleum Act 1998 [^c22459621] which confers on the holder of that licence the exclusive right to prospect or explore for or produce petroleum, in offshore waters;
 - “**offshore licensee**” means a person who—
   - (a) holds an offshore licence; or
@@ -81,7 +81,7 @@ These Regulations may be cited as the Offshore Petroleum Licensing (Offshore Saf
 - “**operator**” means a person who has been appointed as an installation operator, as a well operator or as both;
 - “**petroleum**” has the meaning given in section 1 of the Petroleum Act 1998;
 - “**production installation**” means an installation used for offshore extraction of petroleum from the underground strata of the area covered by an offshore licence, including offshore processing of petroleum and its conveyance through connected infrastructure;
-- “prospective offshore licensee” means a person in respect of whom an application has been made to the licensing authority—[^key-b44719b6941bb676d6263a47b928d9a9]
+- “prospective offshore licensee” means a person in respect of whom an application has been made to the licensing authority—[^c-b44719b6941bb676d6263a47b928d9a9]
   - (a) for the grant of an offshore licence to that person; or
   - (b) for consent to a transfer of an offshore licence to that person (whether or not after the transfer the licence will be held jointly with another person, including an existing licence holder),
 
@@ -220,7 +220,7 @@ In respect of an offshore licence, an offshore licensee must—
 
 ## 11. Requirement to provide information
 
-(1)[^key-edbae50baf7b0a34e60f24f9d1bff597] The licensing authority may require an offshore licensee, prospective offshore licensee, operator or proposed operator to provide it with information—
+(1)[^c-edbae50baf7b0a34e60f24f9d1bff597] The licensing authority may require an offshore licensee, prospective offshore licensee, operator or proposed operator to provide it with information—
 
 - (a) relevant for the performance of the licensing authority’s functions under regulation 3(1), 3(4) or 6(1); or
 - (b) relating to compliance with any obligation applying to that person under regulation 4, 5(1), 5(5), 8(6), or 9.
@@ -271,7 +271,7 @@ In respect of an offshore licence, an offshore licensee must—
 
 (4) Any revocation of an offshore licence under paragraph (1) has effect as if it was a revocation in accordance with the terms of the licence.
 
-## 13A. Fees[^key-c4c2d4e23294d0b9bd291f4db1c245b7]
+## 13A. Fees[^c-c4c2d4e23294d0b9bd291f4db1c245b7]
 
 (1) The Secretary of State may charge fees in relation to the Secretary of State’s functions as competent authority in respect of—
 
@@ -283,9 +283,9 @@ In respect of an offshore licence, an offshore licensee must—
 (2) A fee charged under paragraph (1) is [formula: see source](https://www.legislation.gov.uk/uksi/2015/385) where—
 
 - A is the number of hours work carried out by specialist officers;
-- B is £256[^key-bd29a93a4ec3b75d5886dc4429afb8dc];
+- B is £256[^c-bd29a93a4ec3b75d5886dc4429afb8dc];
 - C is the number of hours work carried out by non-specialist officers; and
-- D is £130[^key-08ee73cb1196c70136db21b1da4da937].
+- D is £130[^c-08ee73cb1196c70136db21b1da4da937].
 
 (3) For the purposes of paragraph (2), the number of hours work may be expressed as a fraction where—
 
@@ -396,9 +396,9 @@ A transposition note and a full regulatory impact assessment of the effect that 
 
 [^c22459601]: Marginal citation: O.J. No. L178, 28.06.13, p.66.
 
-[^key-2efa988456369800b3886942a90ab740]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/81); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-2efa988456369800b3886942a90ab740]: Textual amendment: Words in reg. 2(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/81); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-b2ff1fa3fea94b15117186d16098a0ab]: Textual amendment: Words in reg. 2(1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(2)(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/2/a)
+[^c-b2ff1fa3fea94b15117186d16098a0ab]: Textual amendment: Words in reg. 2(1) inserted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(2)(a)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/2/a)
 
 [^c22459611]: Marginal citation: [1934 c. 36](https://www.legislation.gov.uk/ukpga/1934/36).
 
@@ -408,7 +408,7 @@ A transposition note and a full regulatory impact assessment of the effect that 
 
 [^c22459641]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-b44719b6941bb676d6263a47b928d9a9]: Textual amendment: Words in reg. 2(1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(2)(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/2/b)
+[^c-b44719b6941bb676d6263a47b928d9a9]: Textual amendment: Words in reg. 2(1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(2)(b)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/2/b)
 
 [^c22459651]: Marginal citation: [1987 c. 12](https://www.legislation.gov.uk/ukpga/1987/12).
 
@@ -436,13 +436,13 @@ A transposition note and a full regulatory impact assessment of the effect that 
 
 [^c22459771]: Marginal citation: OJ No L143, 30.4.2004, p.56.
 
-[^key-edbae50baf7b0a34e60f24f9d1bff597]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2015/385/regulation/11/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(3)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/3)
+[^c-edbae50baf7b0a34e60f24f9d1bff597]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2015/385/regulation/11/1) substituted (16.5.2017) by [The Offshore Petroleum Production and Pipe-lines (Environmental Impact Assessment and other Miscellaneous Provisions) (Amendment) Regulations 2017 (S.I. 2017/582)](https://www.legislation.gov.uk/uksi/2017/582), [regs. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1), [61(3)](https://www.legislation.gov.uk/uksi/2017/582/regulation/61/3)
 
-[^key-c4c2d4e23294d0b9bd291f4db1c245b7]: Textual amendment: Reg. 13A inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/404/regulation/5)
+[^c-c4c2d4e23294d0b9bd291f4db1c245b7]: Textual amendment: Reg. 13A inserted (6.4.2017) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/404)](https://www.legislation.gov.uk/uksi/2017/404), [regs. 1](https://www.legislation.gov.uk/uksi/2017/404/regulation/1), [5](https://www.legislation.gov.uk/uksi/2017/404/regulation/5)
 
-[^key-bd29a93a4ec3b75d5886dc4429afb8dc]: Textual amendment: Sum in reg. 13A(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/3/a)
+[^c-bd29a93a4ec3b75d5886dc4429afb8dc]: Textual amendment: Sum in reg. 13A(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2026/757/regulation/3/a)
 
-[^key-08ee73cb1196c70136db21b1da4da937]: Textual amendment: Sum in reg. 13A(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/3/b)
+[^c-08ee73cb1196c70136db21b1da4da937]: Textual amendment: Sum in reg. 13A(2) substituted (7.7.2026) by [The Pollution Prevention and Control (Fees) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/757)](https://www.legislation.gov.uk/uksi/2026/757), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/757/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2026/757/regulation/3/b)
 
 [^c22459781]: Marginal citation: [S.I. 2005/3117](https://www.legislation.gov.uk/uksi/2005/3117).
 

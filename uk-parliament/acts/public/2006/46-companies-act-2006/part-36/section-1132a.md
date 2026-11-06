@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1132A. Power to make provision for financial penalties[^key-b8d167414f9879ac99b96110dcd01be0]
+## 1132A. Power to make provision for financial penalties[^c-b8d167414f9879ac99b96110dcd01be0]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8d167414f9879ac99b96110dcd01be0]: Textual amendment: [S. 1132A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/36/crossheading/financial-penalties) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 104(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/104/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)
+[^c-b8d167414f9879ac99b96110dcd01be0]: Textual amendment: [S. 1132A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/36/crossheading/financial-penalties) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 104(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/104/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)

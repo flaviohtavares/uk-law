@@ -32,7 +32,7 @@ Industrial And Provident Societies
 
 Credit Unions
 
-The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014[^key-3bc48c40367390cdbfc8f588cf7e9766]
+The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014[^c-3bc48c40367390cdbfc8f588cf7e9766]
 
 Made
 
@@ -126,6 +126,6 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 ## Annotations
 
-[^key-3bc48c40367390cdbfc8f588cf7e9766]: Textual amendment: Title amended (1.8.2014) by virtue of The Co-operative and [Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/33)
+[^c-3bc48c40367390cdbfc8f588cf7e9766]: Textual amendment: Title amended (1.8.2014) by virtue of The Co-operative and [Community Benefit Societies and Credit Unions Act 2010 (Consequential Amendments) Regulations 2014 (S.I. 2014/1815)](https://www.legislation.gov.uk/uksi/2014/1815), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1815/regulation/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/33)
 
 [^c22008741]: Marginal citation: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40).

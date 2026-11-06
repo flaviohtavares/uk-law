@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Time for discharge of liability.[^c1314283][^key-5dc8a0baa898a09aa6a6455269ecb11e]
+## 33. Time for discharge of liability.[^c1314283][^c-5dc8a0baa898a09aa6a6455269ecb11e]
 
 *Extent: E+W+S*
 
@@ -31,16 +31,16 @@ summary: ''
 
 (4) On the application of the trustees or managers of an occupational pension scheme who are subject to liability in respect of a pension credit, the Regulatory Authority may extend the implementation period for the credit for the purposes of this section if it is satisfied that the application is made in such circumstances as the Secretary of State may prescribe by regulations.
 
-(5) In this section “**the Regulatory Authority**” means the Pensions Regulator[^key-2cddb17a7d0009ca6e4e37a75b41621e].
+(5) In this section “**the Regulatory Authority**” means the Pensions Regulator[^c-2cddb17a7d0009ca6e4e37a75b41621e].
 
 ## Annotations
 
 [^c1314283]: Commencement: S. 33 wholly in force at 1.12.2000; s. 33 in force for certain purposes at Royal Assent see s. 89(1); s. 33 in force at 1.12.2000 insofar as not already in force by [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/IV)
 
-[^key-5dc8a0baa898a09aa6a6455269ecb11e]: Modification: S. 33 modified (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/5)
+[^c-5dc8a0baa898a09aa6a6455269ecb11e]: Modification: S. 33 modified (1.4.2008) by [The Agriculture and Horticulture Development Board Order 2008 (S.I. 2008/576)](https://www.legislation.gov.uk/uksi/2008/576), [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2008/576/schedule/4/paragraph/5)
 
 [^c1314284]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^c1314285]: Marginal citation: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-2cddb17a7d0009ca6e4e37a75b41621e]: Textual amendment: Words in s. 33 substituted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2004/35/section/7/2/d), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-2cddb17a7d0009ca6e4e37a75b41621e]: Textual amendment: Words in s. 33 substituted (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 7(2)(d)](https://www.legislation.gov.uk/ukpga/2004/35/section/7/2/d), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

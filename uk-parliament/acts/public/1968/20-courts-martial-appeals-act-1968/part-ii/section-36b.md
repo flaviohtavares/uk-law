@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36B. Procedural directions: powers of single judge and registrar[^key-100c4445a660f0d073d401e05ec174a4]
+## 36B. Procedural directions: powers of single judge and registrar[^c-100c4445a660f0d073d401e05ec174a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ under this Part.
 
 ## Annotations
 
-[^key-100c4445a660f0d073d401e05ec174a4]: Textual amendment: Ss. 36B, 36C inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 90(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/90/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/39/section/90/4), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(v)](https://www.legislation.gov.uk/uksi/2005/910/article/3/v)
+[^c-100c4445a660f0d073d401e05ec174a4]: Textual amendment: Ss. 36B, 36C inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 90(3)](https://www.legislation.gov.uk/ukpga/2003/39/section/90/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/39/section/90/4), [110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(v)](https://www.legislation.gov.uk/uksi/2005/910/article/3/v)

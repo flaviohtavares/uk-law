@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 140. Llanover and Llanarth — change in community boundaries and consequential change to electoral arrangements[^key-5a5178cd6004084d824cabc56b413b59][^key-d8b0bd8ca4308757d5b8ec6aebbef938]
+## 140. Llanover and Llanarth — change in community boundaries and consequential change to electoral arrangements[^c-5a5178cd6004084d824cabc56b413b59][^c-d8b0bd8ca4308757d5b8ec6aebbef938]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Llanarth shown hatched on Map 102—
 
 ## Annotations
 
-[^key-5a5178cd6004084d824cabc56b413b59]: Commencement: Art. 140 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-5a5178cd6004084d824cabc56b413b59]: Commencement: Art. 140 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-d8b0bd8ca4308757d5b8ec6aebbef938]: Commencement: [Art. 140](https://www.legislation.gov.uk/wsi/2021/1227/article/140) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-d8b0bd8ca4308757d5b8ec6aebbef938]: Commencement: [Art. 140](https://www.legislation.gov.uk/wsi/2021/1227/article/140) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Reduction in pensions in cases of wide age disparity[^key-2d39a3fa7ca3be77fbcd2f24e138f371]
+## 82. Reduction in pensions in cases of wide age disparity[^c-2d39a3fa7ca3be77fbcd2f24e138f371]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d39a3fa7ca3be77fbcd2f24e138f371]: Commencement: [Reg. 82](https://www.legislation.gov.uk/ssi/2015/19/regulation/82) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-2d39a3fa7ca3be77fbcd2f24e138f371]: Commencement: [Reg. 82](https://www.legislation.gov.uk/ssi/2015/19/regulation/82) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

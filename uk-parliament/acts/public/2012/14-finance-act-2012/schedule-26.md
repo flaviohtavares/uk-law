@@ -75,7 +75,7 @@ Section 196
 
 #### Caravans
 
-**4.**[^key-1f3d652b78a814b71a7231011e8cde25] (1) Group 9 (caravans and houseboats) is amended as follows.
+**4.**[^c-1f3d652b78a814b71a7231011e8cde25] (1) Group 9 (caravans and houseboats) is amended as follows.
 
 (2) For item 1 substitute—
 
@@ -148,7 +148,7 @@ Section 196
 
 ### PART 3 — Supplies chargeable at reduced rate
 
-**6.**[^key-9d3cb5a1778a48284d40c7c9ab051fdb] (1) Schedule 7A to VATA 1994 (charge at reduced rate) is amended as follows.
+**6.**[^c-9d3cb5a1778a48284d40c7c9ab051fdb] (1) Schedule 7A to VATA 1994 (charge at reduced rate) is amended as follows.
 
 (2) In Part 1 (index to reduced-rate supplies of goods and services), at the appropriate place insert—
 
@@ -220,6 +220,6 @@ Section 196
 
 [^c22717761]: Commencement: [Sch. 26 para. 3(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/3/1) in force at Royal Assent and Sch. 26 para. 3(2)-(6) in force in relation to relevant supplies at 1.10.2015, see [Sch. 26 para. 7(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/26/paragraph/7/3)
 
-[^key-1f3d652b78a814b71a7231011e8cde25]: Commencement: Sch. 26 para. 4 in force at 6.4.2013 see Sch. 26 para. 7(2)
+[^c-1f3d652b78a814b71a7231011e8cde25]: Commencement: Sch. 26 para. 4 in force at 6.4.2013 see Sch. 26 para. 7(2)
 
-[^key-9d3cb5a1778a48284d40c7c9ab051fdb]: Commencement: Sch. 26 para. 6 in force at 6.4.2013 see Sch. 26 para. 7(2)
+[^c-9d3cb5a1778a48284d40c7c9ab051fdb]: Commencement: Sch. 26 para. 6 in force at 6.4.2013 see Sch. 26 para. 7(2)

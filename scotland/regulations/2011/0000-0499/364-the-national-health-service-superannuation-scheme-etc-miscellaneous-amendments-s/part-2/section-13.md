@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Amendment of regulation V13[^key-1b653369aa952a90b04953a3cda7263b]
+## 13. Amendment of regulation V13[^c-1b653369aa952a90b04953a3cda7263b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation V13 (pension credit member dies after credit pension becomes payab
 
 ## Annotations
 
-[^key-1b653369aa952a90b04953a3cda7263b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/364/regulation/13) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-1b653369aa952a90b04953a3cda7263b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/364/regulation/13) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

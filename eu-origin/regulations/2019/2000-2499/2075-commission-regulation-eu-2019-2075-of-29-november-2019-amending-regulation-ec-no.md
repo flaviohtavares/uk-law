@@ -35,66 +35,66 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-03c2aab7bd7fab8e35df03263140077d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03c2aab7bd7fab8e35df03263140077d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-03c2aab7bd7fab8e35df03263140077d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-03c2aab7bd7fab8e35df03263140077d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-03c2aab7bd7fab8e35df03263140077d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-03c2aab7bd7fab8e35df03263140077d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-03c2aab7bd7fab8e35df03263140077d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-03c2aab7bd7fab8e35df03263140077d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03c2aab7bd7fab8e35df03263140077d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Amendments to References to the Conceptual Framework in IFRS Standards — Amendments to IFRS Standards[^key-03c2aab7bd7fab8e35df03263140077d]
+## ANNEX — Amendments to References to the Conceptual Framework in IFRS Standards — Amendments to IFRS Standards[^c-03c2aab7bd7fab8e35df03263140077d]
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendments to IFRS 2 *Share-based Payment***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendments to IFRS 2 *Share-based Payment***
 
 Paragraph 63E is added.
 
-[^key-03c2aab7bd7fab8e35df03263140077d]EFFECTIVE DATE
+[^c-03c2aab7bd7fab8e35df03263140077d]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendment to IAS 37 *Provisions, Contingent Liabilities and Contingent Assets***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendment to IAS 37 *Provisions, Contingent Liabilities and Contingent Assets***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendment to IAS 38 *Intangible Assets***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendment to IAS 38 *Intangible Assets***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 12 *Service Concession Arrangements***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 12 *Service Concession Arrangements***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 19 *Extinguishing Financial Liabilities with Equity Instruments***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 19 *Extinguishing Financial Liabilities with Equity Instruments***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 20 *Stripping Costs in the Production Phase of a Surface Mine***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 20 *Stripping Costs in the Production Phase of a Surface Mine***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 22 *Foreign Currency Transactions and Advance Consideration***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendment to IFRIC 22 *Foreign Currency Transactions and Advance Consideration***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]**Amendments to SIC-32 *Intangible Assets—Web Site Costs***
+[^c-03c2aab7bd7fab8e35df03263140077d]**Amendments to SIC-32 *Intangible Assets—Web Site Costs***
 
 Paragraph 5 is amended and the footnote to the ‘*Framework*’ in paragraph 5 is deleted. A new paragraph is added at the end of the section under the heading ‘Effective date’.
 
-[^key-03c2aab7bd7fab8e35df03263140077d]ISSUE
+[^c-03c2aab7bd7fab8e35df03263140077d]ISSUE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-03c2aab7bd7fab8e35df03263140077d]EFFECTIVE DATE
+[^c-03c2aab7bd7fab8e35df03263140077d]EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03c2aab7bd7fab8e35df03263140077d]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/153/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/2/3))
+[^c-03c2aab7bd7fab8e35df03263140077d]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/153/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/2/3))

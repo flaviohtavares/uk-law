@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — INFORMATION TO BE GIVEN ON THE PENSIONS GUIDANCE AND MEMBERS’ BENEFITS[^key-34afea928eb8e4d3aa7f1131bcc96f60]
+## SCHEDULE 10 — INFORMATION TO BE GIVEN ON THE PENSIONS GUIDANCE AND MEMBERS’ BENEFITS[^c-34afea928eb8e4d3aa7f1131bcc96f60]
 
 *Extent: E+W+S*
 
@@ -71,4 +71,4 @@ calculated and verified in accordance with regulations 7 to 7E of the Occupation
 
 ## Annotations
 
-[^key-34afea928eb8e4d3aa7f1131bcc96f60]: Textual amendment: Sch. 10 inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [14](https://www.legislation.gov.uk/uksi/2015/482/regulation/14)
+[^c-34afea928eb8e4d3aa7f1131bcc96f60]: Textual amendment: Sch. 10 inserted (6.4.2015) by [The Occupational and Personal Pension Schemes (Disclosure of Information) (Amendment) Regulations 2015 (S.I. 2015/482)](https://www.legislation.gov.uk/uksi/2015/482), [regs. 1](https://www.legislation.gov.uk/uksi/2015/482/regulation/1), [14](https://www.legislation.gov.uk/uksi/2015/482/regulation/14)

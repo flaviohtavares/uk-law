@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Gazetting and advertisement of meetings[^key-0cb717c35e2560d8b5fba8d02a5c1a2b]
+## 41. Gazetting and advertisement of meetings[^c-0cb717c35e2560d8b5fba8d02a5c1a2b]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ is to take place,
 
 ## Annotations
 
-[^key-0cb717c35e2560d8b5fba8d02a5c1a2b]: Commencement: Rule 41 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0cb717c35e2560d8b5fba8d02a5c1a2b]: Commencement: Rule 41 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -56,10 +56,10 @@ the agreement shall have effect, in relation to anything falling to be done on o
 
 ### Final accounts and annual report of Cable Authority
 
-**4.**[^key-ba4e703f5d916e168b3264b4d108d2c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ba4e703f5d916e168b3264b4d108d2c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c16553621]: Marginal citation: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794).
 
-[^key-ba4e703f5d916e168b3264b4d108d2c0]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/1990/42/schedule/10/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 19
+[^c-ba4e703f5d916e168b3264b4d108d2c0]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/1990/42/schedule/10/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 19

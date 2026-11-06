@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Enforcement and treatment of offender levy imposed by court[^key-025136339798d53c448c41c897929d71]
+## 2. Enforcement and treatment of offender levy imposed by court[^c-025136339798d53c448c41c897929d71]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-025136339798d53c448c41c897929d71]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/24/section/2) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/214/article/2/d)
+[^c-025136339798d53c448c41c897929d71]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/24/section/2) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/214/article/2/d)

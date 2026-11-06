@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Recovery of monetary penalties[^key-a9e6e1d699ea8e1b671945fae80af30d][^key-54b5c6bbcbbdfb4ff05cb03a75bb1ed7]
+## 206. Recovery of monetary penalties[^c-a9e6e1d699ea8e1b671945fae80af30d][^c-54b5c6bbcbbdfb4ff05cb03a75bb1ed7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9e6e1d699ea8e1b671945fae80af30d]: Commencement: S. 206 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a9e6e1d699ea8e1b671945fae80af30d]: Commencement: S. 206 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-54b5c6bbcbbdfb4ff05cb03a75bb1ed7]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2024/13/section/206) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-54b5c6bbcbbdfb4ff05cb03a75bb1ed7]: Commencement: [S. 206](https://www.legislation.gov.uk/ukpga/2024/13/section/206) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

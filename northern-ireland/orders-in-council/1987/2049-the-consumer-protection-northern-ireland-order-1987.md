@@ -147,7 +147,7 @@ the effective supplier and not the ostensible supplier shall be treated as suppl
 
 ### 4. Purpose and construction of Part II
 
-(1) This Part was enacted[^key-991b3da844237abd39dd07a2a9d15e29] for the purpose of making such provision as was[^key-def3b8158d4e73cda639323255837288] necessary in order to comply with the product liability Directive and shall be construed accordingly.
+(1) This Part was enacted[^c-991b3da844237abd39dd07a2a9d15e29] for the purpose of making such provision as was[^c-def3b8158d4e73cda639323255837288] necessary in order to comply with the product liability Directive and shall be construed accordingly.
 
 (2) In this Part—
 
@@ -175,7 +175,7 @@ the effective supplier and not the ostensible supplier shall be treated as suppl
 
 - (a) the producer of the product;
 - (b)[^c548962] any person who, by putting his name on the product or using a trade mark or other distinguishing mark in relation to the product, has held himself out to be the producer of the product;
-- (c) any person who has imported the product into the United Kingdom[^key-813376de5fac095eabe31674a59607f6] in order, in the course of any business of his, to supply it to another.
+- (c) any person who has imported the product into the United Kingdom[^c-813376de5fac095eabe31674a59607f6] in order, in the course of any business of his, to supply it to another.
 
 (3) Subject to this Part, where any damage is caused wholly or partly by a defect in a product, any person who supplied the product (whether to the person who suffered the damage, to the producer of any product in which the product in question is comprised or to any other person) shall be liable for the damage if—
 
@@ -205,7 +205,7 @@ and nothing in this Article shall require a defect to be inferred from the fact 
 
 (1) In any civil proceedings by virtue of this Part against any person ( “the person proceeded against”) in respect of a defect in a product it shall be a defence for him to show—
 
-- (a) that the defect is attributable to compliance with any requirement imposed by or under any enactment or with any retained[^key-0b0f763aafce18f97b00f73708fce34e] Community obligation; or
+- (a) that the defect is attributable to compliance with any requirement imposed by or under any enactment or with any retained[^c-0b0f763aafce18f97b00f73708fce34e] Community obligation; or
 - (b) that the person proceeded against did not at any time supply the product to another; or
 - (c) that the following conditions are satisfied, that is to say—
   - (i) that the only supply of the product to another by the person proceeded against was otherwise than in the course of a business of that person's; and
@@ -277,7 +277,7 @@ this Part shall have effect for the purposes of Part III of the Law Reform (Misc
 
 The liability of a person by virtue of this Part to a person who has suffered damage caused wholly or partly by a defect in a product, or to a dependant or relative of such a person, shall not be limited or excluded by any contract term, by any notice or by any other provision.
 
-### 11. Power to modify enactments[^key-899b5e607d1b14b9c753823b3500672b]
+### 11. Power to modify enactments[^c-899b5e607d1b14b9c753823b3500672b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -408,17 +408,17 @@ Where the commission by any person of an offence to which Article 30(1) applies 
 
 [^c548960]: Textual amendment: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-991b3da844237abd39dd07a2a9d15e29]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisi/1987/2049/article/4/1) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-991b3da844237abd39dd07a2a9d15e29]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/nisi/1987/2049/article/4/1) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-def3b8158d4e73cda639323255837288]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/nisi/1987/2049/article/4/1) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-def3b8158d4e73cda639323255837288]: Textual amendment: Word in [art. 4(1)](https://www.legislation.gov.uk/nisi/1987/2049/article/4/1) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c548961]: Textual amendment: [1977 NI 18](https://www.legislation.gov.uk/nisi/1977)
 
 [^c548962]: Textual amendment: mod. by [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26)
 
-[^key-813376de5fac095eabe31674a59607f6]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/nisi/1987/2049/article/5/2/c) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-813376de5fac095eabe31674a59607f6]: Textual amendment: Words in [art. 5(2)(c)](https://www.legislation.gov.uk/nisi/1987/2049/article/5/2/c) substituted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0b0f763aafce18f97b00f73708fce34e]: Textual amendment: Word in [art. 7(1)(a)](https://www.legislation.gov.uk/nisi/1987/2049/article/7/1/a) inserted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b0f763aafce18f97b00f73708fce34e]: Textual amendment: Word in [art. 7(1)(a)](https://www.legislation.gov.uk/nisi/1987/2049/article/7/1/a) inserted (31.12.2020) by [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c548963]: Textual amendment: 1977 NI 18
 
@@ -432,7 +432,7 @@ Where the commission by any person of an offence to which Article 30(1) applies 
 
 [^c548968]: Textual amendment: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57)
 
-[^key-899b5e607d1b14b9c753823b3500672b]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisi/1987/2049/article/11) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2019/202/article/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-899b5e607d1b14b9c753823b3500672b]: Textual amendment: [Art. 11](https://www.legislation.gov.uk/nisi/1987/2049/article/11) omitted (31.12.2020) by virtue of [The Metrology, Health and Safety and Product Safety (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/202)](https://www.legislation.gov.uk/uksi/2019/202), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/202/regulation/1/2), [Sch. 1 para. 1(5)](https://www.legislation.gov.uk/uksi/2019/202/schedule/1/paragraph/1/5) (with [art. 6](https://www.legislation.gov.uk/uksi/2019/202/article/6)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c548973]: Textual amendment: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44)
 

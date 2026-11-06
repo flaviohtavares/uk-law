@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164A. Disabled passengers: duties of drivers[^key-75ab8da5558a73938a597443fdbcf569]
+## 164A. Disabled passengers: duties of drivers[^c-75ab8da5558a73938a597443fdbcf569]
 
 *Extent: E+W+S*
 
@@ -81,4 +81,4 @@ For provision that applies in such a case, see section 165.
 
 ## Annotations
 
-[^key-75ab8da5558a73938a597443fdbcf569]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/ukpga/2010/15/section/164A) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-75ab8da5558a73938a597443fdbcf569]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/ukpga/2010/15/section/164A) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/1/2), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82A. Claims not included in returns[^key-dede04218b87d51bc7519a869991564e]
+## 82A. Claims not included in returns[^c-dede04218b87d51bc7519a869991564e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11A has effect with respect to claims not included in returns.
 
 ## Annotations
 
-[^key-dede04218b87d51bc7519a869991564e]: Textual amendment: S. 82A inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 299(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/299/2)
+[^c-dede04218b87d51bc7519a869991564e]: Textual amendment: S. 82A inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 299(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/299/2)

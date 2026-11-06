@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269A. Local authorities: censure during or following inquiry[^key-af82478936b6e89a6a4cd8d4a6ee9196]
+## 269A. Local authorities: censure during or following inquiry[^c-af82478936b6e89a6a4cd8d4a6ee9196]
 
 *Extent: E+W*
 
@@ -25,17 +25,17 @@ summary: ''
 - (a) an inquiry under section 206 is in progress in respect of the authority, and
 - (b) either of the following cases applies.
 
-(2) Case 1 applies if the regulator is satisfied[^key-20574870ccdfa680ac3d5d71863f284f]—
+(2) Case 1 applies if the regulator is satisfied[^c-20574870ccdfa680ac3d5d71863f284f]—
 
 - (a) that the affairs of the authority have been mismanaged, and
 - (b) that the interests of tenants of the authority, or its assets, require protection.
 
-(3) Case 2 applies if as a result of an inquirer’s interim report under section 207 the regulator is satisfied that—[^key-be17eb9f78a389913388cd53fbd78fc8]
+(3) Case 2 applies if as a result of an inquirer’s interim report under section 207 the regulator is satisfied that—[^c-be17eb9f78a389913388cd53fbd78fc8]
 
 - (a) the affairs of the authority have been mismanaged, or
 - (b) the authority has failed to meet a standard under section 193, 194 or 194C.
 
-(4) The regulator may also give a censure notice to a local authority if, as a result of an inquiry under section 206, the regulator is satisfied that—[^key-05b9286dbb0a317e79f0937c8fd489b9]
+(4) The regulator may also give a censure notice to a local authority if, as a result of an inquiry under section 206, the regulator is satisfied that—[^c-05b9286dbb0a317e79f0937c8fd489b9]
 
 - (a) the affairs of the authority have been mismanaged, or
 - (b) the authority has failed to meet a standard under section 193, 194 or 194C.
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-af82478936b6e89a6a4cd8d4a6ee9196]: Textual amendment: Ss. 269A, 269B and cross-heading inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/74)
+[^c-af82478936b6e89a6a4cd8d4a6ee9196]: Textual amendment: Ss. 269A, 269B and cross-heading inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Registration of Local Authorities) Order 2010 (S.I. 2010/844)](https://www.legislation.gov.uk/uksi/2010/844), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/844/article/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2010/844/schedule/1/paragraph/74)
 
-[^key-20574870ccdfa680ac3d5d71863f284f]: Textual amendment: Words in [s. 269A(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/269A/2) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/40); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z) (with [reg. 5(7)](https://www.legislation.gov.uk/uksi/2024/437/regulation/5/7))
+[^c-20574870ccdfa680ac3d5d71863f284f]: Textual amendment: Words in [s. 269A(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/269A/2) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2023/36/schedule/5/paragraph/40); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/z) (with [reg. 5(7)](https://www.legislation.gov.uk/uksi/2024/437/regulation/5/7))
 
-[^key-be17eb9f78a389913388cd53fbd78fc8]: Textual amendment: Words in [s. 269A(3)](https://www.legislation.gov.uk/ukpga/2008/17/section/269A/3) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 3 para. 19(a)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/3/paragraph/19/a); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/y)
+[^c-be17eb9f78a389913388cd53fbd78fc8]: Textual amendment: Words in [s. 269A(3)](https://www.legislation.gov.uk/ukpga/2008/17/section/269A/3) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 3 para. 19(a)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/3/paragraph/19/a); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/y)
 
-[^key-05b9286dbb0a317e79f0937c8fd489b9]: Textual amendment: Words in [s. 269A(4)](https://www.legislation.gov.uk/ukpga/2008/17/section/269A/4) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 3 para. 19(b)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/3/paragraph/19/b); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/y)
+[^c-05b9286dbb0a317e79f0937c8fd489b9]: Textual amendment: Words in [s. 269A(4)](https://www.legislation.gov.uk/ukpga/2008/17/section/269A/4) substituted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3), [Sch. 3 para. 19(b)](https://www.legislation.gov.uk/ukpga/2023/36/schedule/3/paragraph/19/b); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/y)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Fines for offences against regulations relating to wireless telegraphy apparatus on foreign ships and aircraft.[^key-3c3b2cd56b1fbc568db9b432b1f75f3a]
+## 50. Fines for offences against regulations relating to wireless telegraphy apparatus on foreign ships and aircraft.[^c-3c3b2cd56b1fbc568db9b432b1f75f3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c3b2cd56b1fbc568db9b432b1f75f3a]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1982/48/section/50) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-3c3b2cd56b1fbc568db9b432b1f75f3a]: Textual amendment: [S. 50](https://www.legislation.gov.uk/ukpga/1982/48/section/50) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))

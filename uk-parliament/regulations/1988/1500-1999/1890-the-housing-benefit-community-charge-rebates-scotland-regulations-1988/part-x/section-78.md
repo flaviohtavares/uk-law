@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Person to whom benefit is to be paid[^key-70e3a5dab3ca4b5ee516147557fc5624]
+## 78. Person to whom benefit is to be paid[^c-70e3a5dab3ca4b5ee516147557fc5624]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ may pay the outstanding benefit to the person to whom the relevant contribution 
 
 ## Annotations
 
-[^key-70e3a5dab3ca4b5ee516147557fc5624]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1988/1890/regulation/78) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-70e3a5dab3ca4b5ee516147557fc5624]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/1988/1890/regulation/78) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

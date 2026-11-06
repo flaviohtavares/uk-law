@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment to Part 4 of Schedule 1 (special provision where LLP is a parent LLP or subsidiary undertaking: non-IAS individual accounts)[^key-076a9322cab5fd66425fe828806e5497]
+## 57. Amendment to Part 4 of Schedule 1 (special provision where LLP is a parent LLP or subsidiary undertaking: non-IAS individual accounts)[^c-076a9322cab5fd66425fe828806e5497]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Part 4 of Schedule 1 (special provision where LLP is a parent LLP or subsidia
 
 ## Annotations
 
-[^key-076a9322cab5fd66425fe828806e5497]: Commencement: Reg. 57 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-076a9322cab5fd66425fe828806e5497]: Commencement: Reg. 57 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

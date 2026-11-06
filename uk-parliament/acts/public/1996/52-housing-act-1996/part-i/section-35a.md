@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A (Extent: W). Guidance about complaints about performance (Extent: W)[^key-06439ffe679d8a6a1ebe51f569aea898]
+## 35A (Extent: W). Guidance about complaints about performance (Extent: W)[^c-06439ffe679d8a6a1ebe51f569aea898]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06439ffe679d8a6a1ebe51f569aea898]: Textual amendment: S. 35A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 39](https://www.legislation.gov.uk/mwa/2011/5/section/39), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/d)
+[^c-06439ffe679d8a6a1ebe51f569aea898]: Textual amendment: S. 35A and cross-heading inserted (18.10.2011) by [Housing (Wales) Measure 2011 (nawm 5)](https://www.legislation.gov.uk/mwa/2011/5), [ss. 39](https://www.legislation.gov.uk/mwa/2011/5/section/39), [90(2)](https://www.legislation.gov.uk/mwa/2011/5/section/90/2); [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(d)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/d)

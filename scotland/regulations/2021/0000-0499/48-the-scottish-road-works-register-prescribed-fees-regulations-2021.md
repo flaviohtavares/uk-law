@@ -32,7 +32,7 @@ summary: ''
 
 Roads And Bridges
 
-The Scottish Road Works Register (Prescribed Fees) Regulations 2021 (revoked)[^key-ebe2d47f34ef5861af1ced609e1e1b11]
+The Scottish Road Works Register (Prescribed Fees) Regulations 2021 (revoked)[^c-ebe2d47f34ef5861af1ced609e1e1b11]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st April 2021
 
-[^key-ebe2d47f34ef5861af1ced609e1e1b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe2d47f34ef5861af1ced609e1e1b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ebe2d47f34ef5861af1ced609e1e1b11]
+## 1. Citation and commencement[^c-ebe2d47f34ef5861af1ced609e1e1b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ebe2d47f34ef5861af1ced609e1e1b11]
+## 2. Interpretation[^c-ebe2d47f34ef5861af1ced609e1e1b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed fees[^key-ebe2d47f34ef5861af1ced609e1e1b11]
+## 3. Prescribed fees[^c-ebe2d47f34ef5861af1ced609e1e1b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-ebe2d47f34ef5861af1ced609e1e1b11]
+## 4. Revocation[^c-ebe2d47f34ef5861af1ced609e1e1b11]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ebe2d47f34ef5861af1ced609e1e1b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ebe2d47f34ef5861af1ced609e1e1b11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FIGURE FOR ROADS AUTHORITIES IN RELATION TO FORMULA FOR CALCULATION OF PRESCRIBED FEES AT REGULATION 3(5)[^key-ebe2d47f34ef5861af1ced609e1e1b11]
+## SCHEDULE — FIGURE FOR ROADS AUTHORITIES IN RELATION TO FORMULA FOR CALCULATION OF PRESCRIBED FEES AT REGULATION 3(5)[^c-ebe2d47f34ef5861af1ced609e1e1b11]
 
 Regulation 3(5)
 
@@ -82,4 +82,4 @@ Regulation 3(5)
 
 ## Annotations
 
-[^key-ebe2d47f34ef5861af1ced609e1e1b11]: Textual amendment: Regulations revoked (1.4.2022) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2022 (S.S.I. 2022/9)](https://www.legislation.gov.uk/ssi/2022/9), [regs. 1](https://www.legislation.gov.uk/ssi/2022/9/regulation/1), [4](https://www.legislation.gov.uk/ssi/2022/9/regulation/4)
+[^c-ebe2d47f34ef5861af1ced609e1e1b11]: Textual amendment: Regulations revoked (1.4.2022) by [The Scottish Road Works Register (Prescribed Fees) Regulations 2022 (S.S.I. 2022/9)](https://www.legislation.gov.uk/ssi/2022/9), [regs. 1](https://www.legislation.gov.uk/ssi/2022/9/regulation/1), [4](https://www.legislation.gov.uk/ssi/2022/9/regulation/4)

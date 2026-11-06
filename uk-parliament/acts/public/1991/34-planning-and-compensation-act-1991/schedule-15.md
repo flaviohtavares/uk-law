@@ -161,13 +161,13 @@ Section 70.
 
 #### Land Compensation Act 1961 (c. 33)
 
-**15.**[^c15666131] (1) In [^key-5cfb28064ce1473953facaa555f2b46c]... the Land Compensation Act 1961 [^key-5cfb28064ce1473953facaa555f2b46c]...
+**15.**[^c15666131] (1) In [^c-5cfb28064ce1473953facaa555f2b46c]... the Land Compensation Act 1961 [^c-5cfb28064ce1473953facaa555f2b46c]...
 
-(2)[^key-453b085f3c77867e1455189875f1a38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-453b085f3c77867e1455189875f1a38b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.**[^c15666151][^c15666161] In section 17 of that Act—
 
-- (a)[^key-b0213b4e1e2d299f7f30e92f32d3af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b0213b4e1e2d299f7f30e92f32d3af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) subsection (8) is omitted.
 
 **17.**[^c15666171][^c15666181] In section 19(1) of that Act for “in the circumstances mentioned in subsection (1) of section 17 of this Act” there is substituted “ by an authority possessing compulsory purchase powers ”.
@@ -237,7 +237,7 @@ Section 70.
 
 #### Local Government, Planning and Land Act 1980 (c. 65)
 
-**25.**[^key-c95a35ba5b482cb8738ca8c416a8b5e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-c95a35ba5b482cb8738ca8c416a8b5e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Highways Act 1980 (c. 66)
 
@@ -363,15 +363,15 @@ Section 70.
 
 [^c15666131]: Commencement: Sch. 15 para. 15 wholly in force at 25.9.1991, see s. 84(2)(3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 
-[^key-5cfb28064ce1473953facaa555f2b46c]: Textual amendment: Words in Sch. 15 para. 15(1) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-5cfb28064ce1473953facaa555f2b46c]: Textual amendment: Words in Sch. 15 para. 15(1) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
-[^key-453b085f3c77867e1455189875f1a38b]: Textual amendment: Sch. 15 para. 15(2) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-453b085f3c77867e1455189875f1a38b]: Textual amendment: Sch. 15 para. 15(2) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c15666151]: Commencement: Sch. 15 para. 16 wholly in force at 25.9.1991, see s. 84(2)(3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 
 [^c15666161]: Modification: Sch. 15 para. 16 restricted (9.9.1991) by [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4), [Sch. 2 Pt. II para. 5(1)](https://www.legislation.gov.uk/uksi/1991/2067/schedule/2/part/II/paragraph/5/1)
 
-[^key-b0213b4e1e2d299f7f30e92f32d3af72]: Textual amendment: [Sch. 15 para. 16(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/16/a) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-b0213b4e1e2d299f7f30e92f32d3af72]: Textual amendment: [Sch. 15 para. 16(a)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/16/a) repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c15666171]: Commencement: [Sch. 15 para. 17](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/17) wholly in force at 25.9.1991, see [s. 84(2)(3)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 
@@ -415,7 +415,7 @@ Section 70.
 
 [^c15666371]: Modification: [Sch. 15 para. 24](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/24) restricted (9.9.1991) by [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 4](https://www.legislation.gov.uk/uksi/1991/2067/article/4), [Sch. 2 Pt. I para. 4](https://www.legislation.gov.uk/uksi/1991/2067/schedule/2/part/I/paragraph/4)
 
-[^key-c95a35ba5b482cb8738ca8c416a8b5e2]: Textual amendment: Sch. 15 para. 25 repealed (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(c)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/c), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
+[^c-c95a35ba5b482cb8738ca8c416a8b5e2]: Textual amendment: Sch. 15 para. 25 repealed (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 33(4)(c)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/4/c), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2017/20/section/33/5)); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/c)
 
 [^c15666401]: Commencement: [Sch. 15 para. 26](https://www.legislation.gov.uk/ukpga/1991/34/schedule/15/paragraph/26) wholly in force at 25.9.1991, see [s. 84(2)(3)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/2/3) and [S.I. 1991/2067](https://www.legislation.gov.uk/uksi/1991/2067), [art. 3](https://www.legislation.gov.uk/uksi/1991/2067/article/3)
 

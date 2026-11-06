@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Exemption for profits or losses of foreign permanent establishments[^key-7ecf91942442bc685d5c039773680a41]
+## 18A. Exemption for profits or losses of foreign permanent establishments[^c-7ecf91942442bc685d5c039773680a41]
 
 *Extent: E+W+S+N.I.*
 
-(1) If a [^key-695aadf5eae4d3d98558a5917dc69e34]... company makes an election under this section, exemption adjustments are to be made at the appropriate stages in calculating the taxable total profits of the company for each relevant accounting period.
+(1) If a [^c-695aadf5eae4d3d98558a5917dc69e34]... company makes an election under this section, exemption adjustments are to be made at the appropriate stages in calculating the taxable total profits of the company for each relevant accounting period.
 
 (2) For that purpose “**exemption adjustments**” means any such adjustments as are appropriate to secure that there are left out of account any profits and losses taken into account in arriving at the foreign permanent establishments amount in relation to any relevant accounting period.
 
-(2A)[^key-46e458329769d56b47152b25653688fc] But profits and losses are not to be left out of account as mentioned in subsection (2) so far as they are or, if the company were non-UK resident, would be—[^key-73299db4c1e14169468ba1f42dee7f8e]
+(2A)[^c-46e458329769d56b47152b25653688fc] But profits and losses are not to be left out of account as mentioned in subsection (2) so far as they are or, if the company were non-UK resident, would be—[^c-73299db4c1e14169468ba1f42dee7f8e]
 
 - (a) profits or losses of the company's trade of dealing in or developing UK land (see section 5B),
 - (b) profits or losses of the company's UK property business,
 - (c) profits consisting of the company's other UK property income, or
 - (d) profits or losses arising from loan relationships or derivative contracts that the company is a party to for the purposes of its UK property business or for the purposes of enabling it to generate other UK property income.
 
-(2B)[^key-af4287e54ab6802356b75763b05fe8b0] Profits and losses are not to be left out of account as mentioned in subsection (2) so far as, if the company were non-UK resident, they would be gains or losses accruing on disposals of assets within section 2B(4)(a) or (b) of TCGA 1992 (interests in UK land or other assets deriving at least 75% of their value from UK land).
+(2B)[^c-af4287e54ab6802356b75763b05fe8b0] Profits and losses are not to be left out of account as mentioned in subsection (2) so far as, if the company were non-UK resident, they would be gains or losses accruing on disposals of assets within section 2B(4)(a) or (b) of TCGA 1992 (interests in UK land or other assets deriving at least 75% of their value from UK land).
 
 (3) In this Chapter “**relevant accounting period**”, in relation to a company by which an election is made under this section, means an accounting period of the company to which the election applies (as to which see section 18F).
 
@@ -62,12 +62,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7ecf91942442bc685d5c039773680a41]: Textual amendment: Pt. 2 Ch. 3A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/4), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-7ecf91942442bc685d5c039773680a41]: Textual amendment: Pt. 2 Ch. 3A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/4), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
 
-[^key-695aadf5eae4d3d98558a5917dc69e34]: Textual amendment: Words in s. 18A(1) omitted (1.1.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/3), [55(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/55/1)
+[^c-695aadf5eae4d3d98558a5917dc69e34]: Textual amendment: Words in s. 18A(1) omitted (1.1.2013) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 20 paras. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/3), [55(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/20/paragraph/55/1)
 
-[^key-46e458329769d56b47152b25653688fc]: Textual amendment: S. 18A(2A) inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 76(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/76/7) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))
+[^c-46e458329769d56b47152b25653688fc]: Textual amendment: S. 18A(2A) inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 76(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/76/7) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))
 
-[^key-73299db4c1e14169468ba1f42dee7f8e]: Textual amendment: Words in s. 18A(2A) substituted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 12](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/12), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-73299db4c1e14169468ba1f42dee7f8e]: Textual amendment: Words in s. 18A(2A) substituted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 12](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/12), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
 
-[^key-af4287e54ab6802356b75763b05fe8b0]: Textual amendment: S. 18A(2B) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 111](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/111)
+[^c-af4287e54ab6802356b75763b05fe8b0]: Textual amendment: S. 18A(2B) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 111](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/111)

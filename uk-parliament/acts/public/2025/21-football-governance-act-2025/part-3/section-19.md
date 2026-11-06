@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Revocation and cessation of operating licence[^key-b2fd3c8e990d939d31c33166494b8c2b][^key-d94c633c83e9e94a5ef8a89ebef6f0c6]
+## 19. Revocation and cessation of operating licence[^c-b2fd3c8e990d939d31c33166494b8c2b][^c-d94c633c83e9e94a5ef8a89ebef6f0c6]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2fd3c8e990d939d31c33166494b8c2b]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-b2fd3c8e990d939d31c33166494b8c2b]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-d94c633c83e9e94a5ef8a89ebef6f0c6]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/21/section/19) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(v)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/v)
+[^c-d94c633c83e9e94a5ef8a89ebef6f0c6]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/21/section/19) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(v)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/v)

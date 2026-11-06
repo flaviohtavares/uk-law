@@ -20,22 +20,22 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-06327741fed7ec11d1e5eb1ac298f48d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-436d497f92053b67098a187d397d3dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-436d497f92053b67098a187d397d3dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-436d497f92053b67098a187d397d3dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-436d497f92053b67098a187d397d3dc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06327741fed7ec11d1e5eb1ac298f48d]: Textual amendment: S. 260(1)-(5) omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [14](https://www.legislation.gov.uk/uksi/2011/702/article/14) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/702/article/1/2), [21](https://www.legislation.gov.uk/uksi/2011/702/article/21))
+[^c-06327741fed7ec11d1e5eb1ac298f48d]: Textual amendment: S. 260(1)-(5) omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [14](https://www.legislation.gov.uk/uksi/2011/702/article/14) (with [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/702/article/1/2), [21](https://www.legislation.gov.uk/uksi/2011/702/article/21))
 
-[^key-436d497f92053b67098a187d397d3dc1]: Textual amendment: S. 260(6)(7) omitted (1.6.2013) by virtue of [The Pension Schemes (Miscellaneous Amendments) Order 2013 (S.I. 2013/1114)](https://www.legislation.gov.uk/uksi/2013/1114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1114/article/1/1), [5](https://www.legislation.gov.uk/uksi/2013/1114/article/5)
+[^c-436d497f92053b67098a187d397d3dc1]: Textual amendment: S. 260(6)(7) omitted (1.6.2013) by virtue of [The Pension Schemes (Miscellaneous Amendments) Order 2013 (S.I. 2013/1114)](https://www.legislation.gov.uk/uksi/2013/1114), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1114/article/1/1), [5](https://www.legislation.gov.uk/uksi/2013/1114/article/5)

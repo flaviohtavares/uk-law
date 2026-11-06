@@ -26,20 +26,20 @@ Section 57(1).
 
 *Extent: E+W*
 
-**1.**[^key-5d0d8d48830d43678e8bea7377717bcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5d0d8d48830d43678e8bea7377717bcc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-8c01b2578a3393c1f85154009f69ecd0]
+### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-8c01b2578a3393c1f85154009f69ecd0]
 
 *Extent: E+W*
 
-**2.**[^key-8c01b2578a3393c1f85154009f69ecd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8c01b2578a3393c1f85154009f69ecd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Superannuation Act 1972 (c. 11)
 
 **3.**[^c11260851] (1) In Schedule 1 to the Superannuation Act 1972, in the list of Other Bodies (bodies in respect of which there are superannuation schemes)—
 
-- (a) omit the entries relating to the Curriculum and Assessment Authority for Wales and the School Curriculum and Assessment Authority; [^key-d5fb7ce5b37d04d30b5bde4de134a734]...
-- (b)[^key-d5fb7ce5b37d04d30b5bde4de134a734] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) omit the entries relating to the Curriculum and Assessment Authority for Wales and the School Curriculum and Assessment Authority; [^c-d5fb7ce5b37d04d30b5bde4de134a734]...
+- (b)[^c-d5fb7ce5b37d04d30b5bde4de134a734] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Section 1 of that Act (persons to or in respect of whom benefits may be provided by schemes under that section) shall apply to persons who at any time before the coming into force of section 21 of this Act have ceased to serve in employment with the National Council for Vocational Qualifications.
 
@@ -49,7 +49,7 @@ Section 57(1).
 
 (2) Omit the entries relating to the Curriculum and Assessment Authority for Wales and the School Curriculum and Assessment Authority.
 
-(3)[^key-be7a433406ab3ee7e53867c7a27888d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-be7a433406ab3ee7e53867c7a27888d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit the entry relating to the National Council for Vocational Qualifications.
 
@@ -67,13 +67,13 @@ Section 57(1).
 
 ### Charities Act 1993 (c. 10)
 
-**7.**[^key-796eb460a3c51f93e3b0b0171ef3d855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-796eb460a3c51f93e3b0b0171ef3d855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Nursery Education and Grant-Maintained Schools Act 1996 (c. 50)
 
 *Extent: E+W*
 
-**8.**[^key-44fe51843a585ad265eea9a9dc5ffe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-44fe51843a585ad265eea9a9dc5ffe16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Education Act 1996 (c. 56)
 
@@ -94,11 +94,11 @@ Section 57(1).
 
 **11.** In section 6(1) of that Act (nursery schools), for “the age of five” substitute “ compulsory school age ”.
 
-**12.** In section 14(4) of that Act (functions of local authority[^key-3899b1dd63a4b3603b94d0a6d752b94c] in respect of provision of primary and secondary schools), for “the age of five” substitute “ compulsory school age ”.
+**12.** In section 14(4) of that Act (functions of local authority[^c-3899b1dd63a4b3603b94d0a6d752b94c] in respect of provision of primary and secondary schools), for “the age of five” substitute “ compulsory school age ”.
 
 **13.** In section 17(2) of that Act (powers of local authority in respect of nursery education), for “the age of five”, in both places, substitute “ compulsory school age ”.
 
-**14.**[^key-7643d766079f3a9ea18e8bbf377cbebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7643d766079f3a9ea18e8bbf377cbebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.**[^c11260921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,7 +139,7 @@ Section 57(1).
 
 **29.** In section 391(10) of that Act (functions of advisory councils)—
 
-- (a)[^key-d6d83870759db9d234197d8de67cf984] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d6d83870759db9d234197d8de67cf984] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “the Curriculum and Assessment Authority for Wales” substitute “ the Qualifications, Curriculum and Assessment Authority for Wales ”.
 
 **30.**[^c11261051] In section 408 of that Act (provision of information)—
@@ -157,7 +157,7 @@ Section 57(1).
 
 **35.**[^c11261121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-e69ffd566c6cb50747978490c66c63e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-e69ffd566c6cb50747978490c66c63e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.** In section 537(4) of that Act (power of Secretary of State to require information from governing bodies etc.), at the end add “ ; and regulations under this section may provide that, in such circumstances as may be prescribed, the provision of information to a person other than the Secretary of State is to be treated, for the purposes of any provision of such regulations or this section, as compliance with any requirement of such regulations relating to the provision of information to the Secretary of State. ”
 
@@ -232,31 +232,31 @@ Section 57(1).
 
 ## Annotations
 
-[^key-5d0d8d48830d43678e8bea7377717bcc]: Textual amendment: Sch. 7 para. 1 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-5d0d8d48830d43678e8bea7377717bcc]: Textual amendment: Sch. 7 para. 1 repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-8c01b2578a3393c1f85154009f69ecd0]: Textual amendment: Sch. 7 para. 2 and cross-heading repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-8c01b2578a3393c1f85154009f69ecd0]: Textual amendment: Sch. 7 para. 2 and cross-heading repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
 [^c11260851]: Commencement: Sch 7 para. 3 wholly in force at 1.3.1998; Sch. 7 para. 3 not in force at Royal Assent see s. 58(3); Sch. 7 para. 3(1) in force at 1.10.1997 except so far as it omits the entry relating to SCAA by [S.I. 1997/1468](https://www.legislation.gov.uk/uksi/1997/1468), [art. 2 Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1997/1468/article/2/schedule/1/part/III); Sch. 7 para. 3(1) in force at 1.3.1998 insofar as not already in force and Sch. 7 para. 3(2) in force at 1.3.1998 by [S.I. 1998/386](https://www.legislation.gov.uk/uksi/1998/386), [art. 2](https://www.legislation.gov.uk/uksi/1998/386/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/386/schedule/1/part/I)
 
-[^key-d5fb7ce5b37d04d30b5bde4de134a734]: Textual amendment: Sch. 7 para. 3(1)(b) and preceding word repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-d5fb7ce5b37d04d30b5bde4de134a734]: Textual amendment: Sch. 7 para. 3(1)(b) and preceding word repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
 [^c11260861]: Commencement: Sch 7 para. 4 wholly in force at 1.3.1998; Sch. 7 para. 4 not in force at Royal Assent see s. 58(3); Sch. 7 para. 4 in force at 1.10.1997 except so far as it omits the entry relating to SCAA by [S.I. 1997/1468](https://www.legislation.gov.uk/uksi/1997/1468), [art. 2 Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1997/1468/article/2/schedule/1/part/III); Sch. 7 para. 4 in force at 1.3.1998 insofar as not already in force by [S.I. 1998/386](https://www.legislation.gov.uk/uksi/1998/386), [art. 2](https://www.legislation.gov.uk/uksi/1998/386/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1998/386/schedule/1/part/I)
 
-[^key-be7a433406ab3ee7e53867c7a27888d7]: Textual amendment: Sch. 7 para. 4(3) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-be7a433406ab3ee7e53867c7a27888d7]: Textual amendment: Sch. 7 para. 4(3) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
 [^c11260881]: Textual amendment: Sch. 7 para. 5 repealed (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch.5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5)
 
 [^c11260901]: Textual amendment: Sch. 7 para. 6 repealed (27.7.1999 with effect as mentioned in s. 59(3)(b) of the repealing Act) by [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16), [s. 139](https://www.legislation.gov.uk/ukpga/1999/16/section/139), [Sch. 20 Pt. III(15)](https://www.legislation.gov.uk/ukpga/1999/16/schedule/20/part/III/15)
 
-[^key-796eb460a3c51f93e3b0b0171ef3d855]: Textual amendment: Sch. 7 para. 7 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-796eb460a3c51f93e3b0b0171ef3d855]: Textual amendment: Sch. 7 para. 7 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-44fe51843a585ad265eea9a9dc5ffe16]: Textual amendment: Sch. 7 para. 8 repealed (1.4.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
+[^c-44fe51843a585ad265eea9a9dc5ffe16]: Textual amendment: Sch. 7 para. 8 repealed (1.4.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
 
 [^c17911461]: Textual amendment: Sch. 7 para. 9(3) repealed (1.10.2002 for E., 1.9.2003 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-3899b1dd63a4b3603b94d0a6d752b94c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/2)
+[^c-3899b1dd63a4b3603b94d0a6d752b94c]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/8/2)
 
-[^key-7643d766079f3a9ea18e8bbf377cbebe]: Textual amendment: Sch. 7 para. 14 repealed (1.9.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-7643d766079f3a9ea18e8bbf377cbebe]: Textual amendment: Sch. 7 para. 14 repealed (1.9.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
 [^c11260921]: Textual amendment: Sch. 7 paras. 15-22, 25, 31-35, 40, 45-51 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para.223](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/223), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
@@ -286,7 +286,7 @@ Section 57(1).
 
 [^c18371601]: Textual amendment: Sch. 7 paras. 27, 28 repealed (1.10.2002 for E. for specified purposes, 20.1.2003 for E in so far as not already in force) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3); [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-d6d83870759db9d234197d8de67cf984]: Textual amendment: Sch. 7 para. 29(a) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-d6d83870759db9d234197d8de67cf984]: Textual amendment: Sch. 7 para. 29(a) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
 [^c11261051]: Commencement: Sch. 7 para. 30 wholly in force; Sch. 7 para. 30 not in force at Royal Assent see s. 58(3); Sch. 7 para. 30(a) in force at 1.10.1997 by [S.I. 1997/1468](https://www.legislation.gov.uk/uksi/1997/1468), [art. 2](https://www.legislation.gov.uk/uksi/1997/1468/article/2), [Sch. 1 Pt. III](https://www.legislation.gov.uk/uksi/1997/1468/schedule/1/part/III); Sch. 7 para. 30(b) in force at 1.9.2001 by [S.I. 2001/1215](https://www.legislation.gov.uk/uksi/2001/1215), [art. 2](https://www.legislation.gov.uk/uksi/2001/1215/article/2)
 
@@ -300,7 +300,7 @@ Section 57(1).
 
 [^c11261121]: Textual amendment: Sch. 7 paras. 15-22, 25, 31-35, 40, 45-51 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para.223](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/223), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-e69ffd566c6cb50747978490c66c63e5]: Textual amendment: Sch. 7 para. 36 repealed (1.4.2003 for E., 9.1.2004 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 7](https://www.legislation.gov.uk/uksi/2003/2961/article/7), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/IV)
+[^c-e69ffd566c6cb50747978490c66c63e5]: Textual amendment: Sch. 7 para. 36 repealed (1.4.2003 for E., 9.1.2004 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 7](https://www.legislation.gov.uk/uksi/2003/2961/article/7), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/IV)
 
 [^c11261131]: Textual amendment: Sch. 7 paras. 15-22, 25, 31-35, 40, 45-51 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para.223](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/223), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 

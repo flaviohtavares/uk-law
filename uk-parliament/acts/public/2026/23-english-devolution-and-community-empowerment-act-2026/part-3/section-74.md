@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Further provision about standards[^key-75c9d7415193b7ddd86f593989c3980c]
+## 74. Further provision about standards[^c-75c9d7415193b7ddd86f593989c3980c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c9d7415193b7ddd86f593989c3980c]: Commencement: S. 74 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-75c9d7415193b7ddd86f593989c3980c]: Commencement: S. 74 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

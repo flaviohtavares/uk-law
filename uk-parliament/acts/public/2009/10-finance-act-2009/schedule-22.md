@@ -187,7 +187,7 @@ Section 44
 
 #### Restriction on regulation-making power under section 41 of FA 2008
 
-**6.**[^key-9b5e675e8f1f40b4b8547d27ea47a538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9b5e675e8f1f40b4b8547d27ea47a538] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Application of TCGA 1992 to offshore funds
 
@@ -195,27 +195,27 @@ Section 44
 
 **7.** TCGA 1992 is amended as follows.
 
-**8.**[^key-47d794e3a1c73e725f295c3d13eef28a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-47d794e3a1c73e725f295c3d13eef28a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-a5378d9c6aa101b755ceb1e4d180c6ea] Accordingly, in the title of Part 3 and in the title of Chapter 3 of that Part, insert at the end “etc”.
+**9.**[^c-a5378d9c6aa101b755ceb1e4d180c6ea] Accordingly, in the title of Part 3 and in the title of Chapter 3 of that Part, insert at the end “etc”.
 
-**10.**[^key-2933ee74af296c1aa67099d83117cfe8] In section 288(1) (interpretation), in the definition of “company”, for “section 99” substitute “ sections 99 and 103A ”.
+**10.**[^c-2933ee74af296c1aa67099d83117cfe8] In section 288(1) (interpretation), in the definition of “company”, for “section 99” substitute “ sections 99 and 103A ”.
 
 #### Consequential provision
 
 **11.** (1) In TMA 1970, in—
 
 - (a) section 25(9) (issuing houses, stockbrokers, auctioneers, etc), and
-- (b)[^key-e427fd4d2974202b4d5a656f268960ad] section 28(2) (non-resident companies and trusts),
+- (b)[^c-e427fd4d2974202b4d5a656f268960ad] section 28(2) (non-resident companies and trusts),
 
 after “sections 99” insert “ , 103A ”.
 
-(2)[^key-ec1f91fcf395b81fad49c8c9766c123c] In section 1165 of CTA 2010—
+(2)[^c-ec1f91fcf395b81fad49c8c9766c123c] In section 1165 of CTA 2010—
 
 - (a) in subsection (1) for “section 99 of TCGA 1992 (application of that Act to unit trust schemes)” substitute “ sections 99 and 103A of TCGA 1992 (application of that Act to unit trust schemes and to certain offshore funds) ”, and
 - (b) in subsection (3) for “section 99 of TCGA 1992” substitute “ sections 99 and 103A of TCGA 1992 ”.
 
-(3)[^key-e427fd4d2974202b4d5a656f268960ad] In ITTOIA 2005—
+(3)[^c-e427fd4d2974202b4d5a656f268960ad] In ITTOIA 2005—
 
 - (a) in section 149(4) (taxation of amounts taken to reserves), at the end of paragraph (b) (before the “and”) insert—
 
@@ -230,7 +230,7 @@ after “sections 99” insert “ , 103A ”.
 
 (4) In section 834(5) of the Companies Act 2006 (investment company: condition as to holdings in other companies), in the definition of “company” and “shares”, after “sections 99” insert “ , 103A ”.
 
-(5)[^key-f031b0ac9c6797d83703a1ecab0d18b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f031b0ac9c6797d83703a1ecab0d18b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Commencement: general
 
@@ -239,7 +239,7 @@ after “sections 99” insert “ , 103A ”.
 (2) In this paragraph and paragraphs 15 to 18 “**the commencement day**” means—
 
 - (a) in relation to the acquisition, holding and disposal of rights by a person subject to the charge to capital gains tax, 1 December 2009, and
-- (b)[^key-c3def5aaf4cb32ccfa6d6356587044f7] in relation to the acquisition, holding and disposal of rights by a person subject to the charge to corporation tax, such day as the Treasury may by order appoint.
+- (b)[^c-c3def5aaf4cb32ccfa6d6356587044f7] in relation to the acquisition, holding and disposal of rights by a person subject to the charge to corporation tax, such day as the Treasury may by order appoint.
 
 #### Commencement: certain consequential amendments
 
@@ -254,7 +254,7 @@ after “sections 99” insert “ , 103A ”.
 - (a) may make different provision for different cases or different purposes, and
 - (b) may include transitional provision and savings.
 
-(2) Section 1171(4) of CTA 2010[^key-202ad6547ff0cd86b4e08ae74f749e83], section 287(3) of TCGA 1992 and section 1014(4) of ITA 2007 (orders etc subject to annulment) do not apply in relation to such an order.
+(2) Section 1171(4) of CTA 2010[^c-202ad6547ff0cd86b4e08ae74f749e83], section 287(3) of TCGA 1992 and section 1014(4) of ITA 2007 (orders etc subject to annulment) do not apply in relation to such an order.
 
 #### Election modifying commencement
 
@@ -322,20 +322,20 @@ after “sections 99” insert “ , 103A ”.
 
 ## Annotations
 
-[^key-9b5e675e8f1f40b4b8547d27ea47a538]: Textual amendment: Sch. 22 para. 6 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 174](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/174), [10 Pt. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9b5e675e8f1f40b4b8547d27ea47a538]: Textual amendment: Sch. 22 para. 6 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 174](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/174), [10 Pt. 5](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/5) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-47d794e3a1c73e725f295c3d13eef28a]: Textual amendment: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/1204/regulation/13)
+[^c-47d794e3a1c73e725f295c3d13eef28a]: Textual amendment: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/8) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/1204/regulation/13)
 
-[^key-a5378d9c6aa101b755ceb1e4d180c6ea]: Modification: Sch. 22 para. 9 having effect as specified (1.4.2010) by [Finance Act 2009, Paragraph 12(2)(b) of Schedule 22 (Appointed Day) Order 2010 (S.I. 2010/670)](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
+[^c-a5378d9c6aa101b755ceb1e4d180c6ea]: Modification: Sch. 22 para. 9 having effect as specified (1.4.2010) by [Finance Act 2009, Paragraph 12(2)(b) of Schedule 22 (Appointed Day) Order 2010 (S.I. 2010/670)](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
 
-[^key-2933ee74af296c1aa67099d83117cfe8]: Modification: Sch. 22 para. 10 having effect as specified (1.4.2010) by [Finance Act 2009, Paragraph 12(2)(b) of Schedule 22 (Appointed Day) Order 2010 (S.I. 2010/670)](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
+[^c-2933ee74af296c1aa67099d83117cfe8]: Modification: Sch. 22 para. 10 having effect as specified (1.4.2010) by [Finance Act 2009, Paragraph 12(2)(b) of Schedule 22 (Appointed Day) Order 2010 (S.I. 2010/670)](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
 
-[^key-e427fd4d2974202b4d5a656f268960ad]: Modification: Sch. 22 para. 11(1)(b)(3) having effect as specified (1.4.2010) by [Finance Act 2009, Paragraph 12(2)(b) of Schedule 22 (Appointed Day) Order 2010 (S.I. 2010/670)](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
+[^c-e427fd4d2974202b4d5a656f268960ad]: Modification: Sch. 22 para. 11(1)(b)(3) having effect as specified (1.4.2010) by [Finance Act 2009, Paragraph 12(2)(b) of Schedule 22 (Appointed Day) Order 2010 (S.I. 2010/670)](https://www.legislation.gov.uk/uksi/2010/670), [art. 2](https://www.legislation.gov.uk/uksi/2010/670/article/2)
 
-[^key-ec1f91fcf395b81fad49c8c9766c123c]: Textual amendment: Sch. 22 para. 11(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 716(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/716/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ec1f91fcf395b81fad49c8c9766c123c]: Textual amendment: Sch. 22 para. 11(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 716(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/716/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f031b0ac9c6797d83703a1ecab0d18b8]: Textual amendment: [Sch. 22 para. 11(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/11/5) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/1204/regulation/13)
+[^c-f031b0ac9c6797d83703a1ecab0d18b8]: Textual amendment: [Sch. 22 para. 11(5)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/22/paragraph/11/5) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Collective Investment Schemes and Offshore Funds (Amendment of the Taxation of Chargeable Gains Act 1992) Regulations 2017 (S.I. 2017/1204)](https://www.legislation.gov.uk/uksi/2017/1204), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1204/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2017/1204/regulation/13)
 
-[^key-c3def5aaf4cb32ccfa6d6356587044f7]: Modification: Sch. 22 para. 12(2)(b): 1.4.2010 appointed by [S.I. 2010/670](https://www.legislation.gov.uk/uksi/2010/670), art. 2
+[^c-c3def5aaf4cb32ccfa6d6356587044f7]: Modification: Sch. 22 para. 12(2)(b): 1.4.2010 appointed by [S.I. 2010/670](https://www.legislation.gov.uk/uksi/2010/670), art. 2
 
-[^key-202ad6547ff0cd86b4e08ae74f749e83]: Textual amendment: Words in Sch. 22 para. 14(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 716(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/716/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-202ad6547ff0cd86b4e08ae74f749e83]: Textual amendment: Words in Sch. 22 para. 14(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 716(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/716/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

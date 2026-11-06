@@ -28,7 +28,7 @@ summary: ''
 
 (4) The following may take part in the public examination of the bankrupt and may question him concerning his affairs, dealings and property and the causes of his failure, namely—
 
-- (a) the official receiver and, in the case of an individual made[^key-8f309d1621cd9e2a0f6a669906bd57b8] bankrupt on a petition under section 264(1)(d), the Official Petitioner,
+- (a) the official receiver and, in the case of an individual made[^c-8f309d1621cd9e2a0f6a669906bd57b8] bankrupt on a petition under section 264(1)(d), the Official Petitioner,
 - (b) the trustee of the bankrupt’s estate, if his appointment has taken effect,
 - (c) any person who has been appointed as special manager of the bankrupt’s estate or business,
 - (d) any creditor of the bankrupt who has tendered a proof in the bankruptcy.
@@ -39,4 +39,4 @@ summary: ''
 
 [^c15578411]: Modification: S. 290 modified (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 11(2)(3)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/2/3), [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7/paragraph/9)
 
-[^key-8f309d1621cd9e2a0f6a669906bd57b8]: Textual amendment: Word in s. 290(4)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 19](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/19); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-8f309d1621cd9e2a0f6a669906bd57b8]: Textual amendment: Word in s. 290(4)(a) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 19](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/19); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

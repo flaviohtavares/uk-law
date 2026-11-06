@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Interim freezing orders[^key-ed283a108a4d6d4a22c84896d05c1574][^c22725101]
+## 5. Interim freezing orders[^c-ed283a108a4d6d4a22c84896d05c1574][^c22725101]
 
 *Extent: S*
 
@@ -243,6 +243,6 @@ After section 396I of the Proceeds of Crime Act 2002 (inserted by section 4 abov
 
 ## Annotations
 
-[^key-ed283a108a4d6d4a22c84896d05c1574]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/22/section/5) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-ed283a108a4d6d4a22c84896d05c1574]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/22/section/5) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
 [^c22725101]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/22/section/5) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

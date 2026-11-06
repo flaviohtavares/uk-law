@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Restriction on closure proposals[^key-a0a0703ea263f688733399c661c6b0e2]
+## 77. Restriction on closure proposals[^c-a0a0703ea263f688733399c661c6b0e2]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ After section 2 of the 2010 Act, insert—
 
 ## Annotations
 
-[^key-a0a0703ea263f688733399c661c6b0e2]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/8/section/77) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/165/article/3), [4](https://www.legislation.gov.uk/ssi/2014/165/article/4))
+[^c-a0a0703ea263f688733399c661c6b0e2]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/8/section/77) in force at 1.8.2014 by [S.S.I. 2014/165](https://www.legislation.gov.uk/ssi/2014/165), [art. 2](https://www.legislation.gov.uk/ssi/2014/165/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/165/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/165/article/3), [4](https://www.legislation.gov.uk/ssi/2014/165/article/4))

@@ -70,7 +70,7 @@ An Act of the National Assembly for Wales to promote the accessibility of Welsh 
 - [Section 11 — References to the Sovereign](part-2/section-11.md)
 - [Section 12 — Measurement of distance](part-2/section-12.md)
 
-#### Laying documents before Senedd Cymru[^key-a6c2e2e77198108550266b0380bf7b5b]
+#### Laying documents before Senedd Cymru[^c-a6c2e2e77198108550266b0380bf7b5b]
 
 - [Section 12A — Meaning of references to laying documents before Senedd Cymru](part-2/section-12a.md)
 
@@ -123,14 +123,14 @@ An Act of the National Assembly for Wales to promote the accessibility of Welsh 
 - [Section 36 — Referring to an Act of Senedd Cymru or Welsh subordinate instrument after repeal or revocation](part-2/section-36.md)
 - [Section 37 — Interpretation of provisions about amendment, repeal and revocation in this Part](part-2/section-37.md)
 
-### PART 2A — PROCEDURE FOR MAKING WELSH SUBORDINATE LEGISLATION[^key-54196cdebe9860d95485aea69918ac41]
+### PART 2A — PROCEDURE FOR MAKING WELSH SUBORDINATE LEGISLATION[^c-54196cdebe9860d95485aea69918ac41]
 
-#### Introduction[^key-54196cdebe9860d95485aea69918ac41]
+#### Introduction[^c-54196cdebe9860d95485aea69918ac41]
 
 - [Section 37A — Welsh statutory instruments](part-2a/section-37a.md)
 - [Section 37B — Interpretation](part-2a/section-37b.md)
 
-#### Senedd subordinate legislation procedures[^key-54196cdebe9860d95485aea69918ac41]
+#### Senedd subordinate legislation procedures[^c-54196cdebe9860d95485aea69918ac41]
 
 - [Section 37C — Senedd approval procedure](part-2a/section-37c.md)
 - [Section 37D — Senedd confirmation procedure](part-2a/section-37d.md)
@@ -138,24 +138,24 @@ An Act of the National Assembly for Wales to promote the accessibility of Welsh 
 - [Section 37F — Other Welsh statutory instruments to be laid before Senedd Cymru](part-2a/section-37f.md)
 - [Section 37G — Combining subordinate legislation subject to different Senedd procedures](part-2a/section-37g.md)
 
-#### Existing powers to make subordinate legislation subject to parliamentary procedure[^key-54196cdebe9860d95485aea69918ac41]
+#### Existing powers to make subordinate legislation subject to parliamentary procedure[^c-54196cdebe9860d95485aea69918ac41]
 
 - [Section 37H — Application of this Part in different circumstances](part-2a/section-37h.md)
 
-### PART 2B — PUBLICATION ETC. OF WELSH LEGISLATION[^key-c01032c3256ce469c7966fab67d1e5ef]
+### PART 2B — PUBLICATION ETC. OF WELSH LEGISLATION[^c-c01032c3256ce469c7966fab67d1e5ef]
 
-#### Introduction[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### Introduction[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37I — The King’s Printer for Wales](part-2b/section-37i.md)
 
-#### Preservation and publication of Acts of Senedd Cymru[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### Preservation and publication of Acts of Senedd Cymru[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37J — Numbering of Acts of Senedd Cymru](part-2b/section-37j.md)
 - [Section 37K — Official prints and certified copies of Acts of Senedd Cymru](part-2b/section-37k.md)
 - [Section 37L — Preservation of Acts of Senedd Cymru](part-2b/section-37l.md)
 - [Section 37M — Publication of Acts of Senedd Cymru](part-2b/section-37m.md)
 
-#### Preservation and publication of Welsh statutory instruments[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### Preservation and publication of Welsh statutory instruments[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37N — Official versions and certified copies of Welsh statutory instruments](part-2b/section-37n.md)
 - [Section 37O — Preservation of Welsh statutory instruments](part-2b/section-37o.md)
@@ -165,25 +165,25 @@ An Act of the National Assembly for Wales to promote the accessibility of Welsh 
 - [Section 37S — Proceedings for offence under unpublished Welsh statutory instrument: defence](part-2b/section-37s.md)
 - [Section 37T — Draft Welsh statutory instruments](part-2b/section-37t.md)
 
-#### Publication of Welsh legislation in up-to-date form[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### Publication of Welsh legislation in up-to-date form[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37U — Publication of effects of legislation](part-2b/section-37u.md)
 - [Section 37V — Publication of Welsh legislation as amended](part-2b/section-37v.md)
 
-#### Legislation record[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### Legislation record[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37W — Record of Welsh legislation](part-2b/section-37w.md)
 - [Section 37X — Evidential status of record](part-2b/section-37x.md)
 
-#### King’s Printer for Wales: printing and selling[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### King’s Printer for Wales: printing and selling[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37Y — Printing and selling Welsh legislation and related documents](part-2b/section-37y.md)
 
-#### Publication of subordinate legislation not made by Welsh statutory instrument[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### Publication of subordinate legislation not made by Welsh statutory instrument[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37Z — Welsh Ministers to publish subordinate legislation not made by statutory instrument](part-2b/section-37z.md)
 
-#### General[^key-c01032c3256ce469c7966fab67d1e5ef]
+#### General[^c-c01032c3256ce469c7966fab67d1e5ef]
 
 - [Section 37Z1 — References to Welsh statutory instruments](part-2b/section-37z1.md)
 - [Section 37Z2 — The King’s Printer for Wales: delegation of functions](part-2b/section-37z2.md)
@@ -214,8 +214,8 @@ An Act of the National Assembly for Wales to promote the accessibility of Welsh 
 
 ## Annotations
 
-[^key-a6c2e2e77198108550266b0380bf7b5b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/anaw/2019/4/section/12A) and cross-heading inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(e)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/e), [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2025/3/schedule/2/paragraph/3)
+[^c-a6c2e2e77198108550266b0380bf7b5b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/anaw/2019/4/section/12A) and cross-heading inserted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(e)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/e), [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2025/3/schedule/2/paragraph/3)
 
-[^key-54196cdebe9860d95485aea69918ac41]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/anaw/2019/4/part/2A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 1(2)](https://www.legislation.gov.uk/asc/2025/3/section/1/2), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))
+[^c-54196cdebe9860d95485aea69918ac41]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/anaw/2019/4/part/2A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 1(2)](https://www.legislation.gov.uk/asc/2025/3/section/1/2), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))
 
-[^key-c01032c3256ce469c7966fab67d1e5ef]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/anaw/2019/4/part/2B) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 3](https://www.legislation.gov.uk/asc/2025/3/section/3), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2025/1160/article/4))
+[^c-c01032c3256ce469c7966fab67d1e5ef]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/anaw/2019/4/part/2B) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 3](https://www.legislation.gov.uk/asc/2025/3/section/3), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(b)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2025/1160/article/4))

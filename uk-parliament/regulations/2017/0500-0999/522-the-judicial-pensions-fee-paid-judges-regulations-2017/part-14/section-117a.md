@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117A. Deemed JASAPS membership where a 2015 scheme election is made[^key-a743c903d5e357963690facda5905147]
+## 117A. Deemed JASAPS membership where a 2015 scheme election is made[^c-a743c903d5e357963690facda5905147]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a743c903d5e357963690facda5905147]: Textual amendment: [Reg. 117A](https://www.legislation.gov.uk/uksi/2017/522/regulation/117A) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/7)
+[^c-a743c903d5e357963690facda5905147]: Textual amendment: [Reg. 117A](https://www.legislation.gov.uk/uksi/2017/522/regulation/117A) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(7)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/7)

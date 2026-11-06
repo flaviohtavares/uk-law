@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Application of the Banking Act to transitional appeals[^key-ce08fab16e69484d768902a2a5063f63]
+## 113. Application of the Banking Act to transitional appeals[^c-ce08fab16e69484d768902a2a5063f63]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce08fab16e69484d768902a2a5063f63]: Commencement: Art. 113 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-ce08fab16e69484d768902a2a5063f63]: Commencement: Art. 113 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

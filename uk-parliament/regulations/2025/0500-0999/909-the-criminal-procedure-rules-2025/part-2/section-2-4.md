@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.4. Exercise of court’s functions by authorised court officers: general rules[^key-b267512ee55928a436e3a14c7b2f8246]
+## 2.4. Exercise of court’s functions by authorised court officers: general rules[^c-b267512ee55928a436e3a14c7b2f8246]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ summary: ''
   - (i) acquitting a defendant against whom the prosecutor offers no evidence,
   - (ii) convicting a defendant who pleads guilty, or
   - (iii) giving a prosecutor permission to withdraw a case;
-- (e) determine the admissibility of evidence , except to the extent that rule 2.8 allows[^key-b7dd30f9419413d959ad3e3682f9c13a];
+- (e) determine the admissibility of evidence , except to the extent that rule 2.8 allows[^c-b7dd30f9419413d959ad3e3682f9c13a];
 - (f) set ground rules for the conduct of questioning where rule 3.8(6), (7) (directions for the appropriate treatment and questioning of a witness or the defendant) applies;
 - (g) make findings of fact for the purpose of sentence, defer or pass sentence, impose a penalty or commit a defendant to the Crown Court for sentence;
 - (h) make an order for a party or other person to pay costs, unless that party or person agrees;
@@ -69,10 +69,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b267512ee55928a436e3a14c7b2f8246]: Commencement: [Rule 2.4](https://www.legislation.gov.uk/uksi/2025/909/rule/2.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b267512ee55928a436e3a14c7b2f8246]: Commencement: [Rule 2.4](https://www.legislation.gov.uk/uksi/2025/909/rule/2.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00052]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 67A is inserted by section 3 of, and paragraph 32 of the Schedule to, the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33).
 
 [^f00053]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 67B is inserted by section 3 of, and paragraph 32 of the Schedule to, the Courts and Tribunals (Judiciary and Functions of Staff) Act [2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33).
 
-[^key-b7dd30f9419413d959ad3e3682f9c13a]: Textual amendment: Words in [rule 2.4(3)(e)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.4/3/e) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/a)
+[^c-b7dd30f9419413d959ad3e3682f9c13a]: Textual amendment: Words in [rule 2.4(3)(e)](https://www.legislation.gov.uk/uksi/2025/909/rule/2.4/3/e) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/721/rule/4/a)

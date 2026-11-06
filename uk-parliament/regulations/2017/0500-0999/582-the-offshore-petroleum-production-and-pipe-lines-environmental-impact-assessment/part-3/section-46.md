@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Amendment of regulation 2 (interpretation)[^key-d0e7de7f891e6d0d89eb3994f1a10535]
+## 46. Amendment of regulation 2 (interpretation)[^c-d0e7de7f891e6d0d89eb3994f1a10535]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ In regulation 2—
 
 ## Annotations
 
-[^key-d0e7de7f891e6d0d89eb3994f1a10535]: Commencement: Reg. 46 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-d0e7de7f891e6d0d89eb3994f1a10535]: Commencement: Reg. 46 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00020]: Footnote: OJ L 26 28.1.2012 p1.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2ZA — Persons to be consulted in respect of the Code of Ethics for Policing in Scotland[^key-146c06f4b9a0a30f8c0b1db444d6fc1e]
+## SCHEDULE 2ZA — Persons to be consulted in respect of the Code of Ethics for Policing in Scotland[^c-146c06f4b9a0a30f8c0b1db444d6fc1e]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-146c06f4b9a0a30f8c0b1db444d6fc1e]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/asp/2012/8/schedule/2ZA) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 2(6)](https://www.legislation.gov.uk/asp/2025/5/section/2/6), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)
+[^c-146c06f4b9a0a30f8c0b1db444d6fc1e]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/asp/2012/8/schedule/2ZA) inserted (25.6.2025) by [Police (Ethics, Conduct and Scrutiny) (Scotland) Act 2025 (asp 5)](https://www.legislation.gov.uk/asp/2025/5), [ss. 2(6)](https://www.legislation.gov.uk/asp/2025/5/section/2/6), [22(2)](https://www.legislation.gov.uk/asp/2025/5/section/22/2); [S.S.I. 2025/175](https://www.legislation.gov.uk/ssi/2025/175), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/175/regulation/2/b)

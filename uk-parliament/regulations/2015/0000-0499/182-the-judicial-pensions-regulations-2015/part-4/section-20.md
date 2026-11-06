@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Opting out of this scheme[^key-51ebe3291e52d16bae00b53c3bd6a4f8]
+## 20. Opting out of this scheme[^c-51ebe3291e52d16bae00b53c3bd6a4f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51ebe3291e52d16bae00b53c3bd6a4f8]: Commencement: Reg. 20 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-51ebe3291e52d16bae00b53c3bd6a4f8]: Commencement: Reg. 20 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Absent vote at Scottish parliamentary elections for an indefinite or a particular period[^key-9fa64cdbc8a77e71229832abe473edcc]
+## 8. Absent vote at Scottish parliamentary elections for an indefinite or a particular period[^c-9fa64cdbc8a77e71229832abe473edcc]
 
 *Extent: S*
 
@@ -40,8 +40,8 @@ summary: ''
   - (ii) to vote unaided there,
 
   by reason of blindness or other disability;
-- (d) cannot reasonably be expected to go in person to that polling station by reason of the general nature of P’s occupation, service or employment or that of P’s spouse or civil partner or by reason of P’s attendance on a course provided by an educational institution or that of P’s spouse or civil partner; [^key-64cc56f6a818d7d365190c572964f5e5]...
-- (e) cannot go in person from P’s qualifying address to that polling station without making a journey by air or sea ; or[^key-783a83b3c45365cb0ce3c3363c880a18]
+- (d) cannot reasonably be expected to go in person to that polling station by reason of the general nature of P’s occupation, service or employment or that of P’s spouse or civil partner or by reason of P’s attendance on a course provided by an educational institution or that of P’s spouse or civil partner; [^c-64cc56f6a818d7d365190c572964f5e5]...
+- (e) cannot go in person from P’s qualifying address to that polling station without making a journey by air or sea ; or[^c-783a83b3c45365cb0ce3c3363c880a18]
 - (f) is a person to whom section 3(1A) of the 1983 Act (exception to disenfranchisement for offenders sentenced to term not exceeding 12 months) applies.
 
 (4) The ERO shall keep a record of those whose applications under this article have been granted showing—
@@ -81,8 +81,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9fa64cdbc8a77e71229832abe473edcc]: Commencement: Art. 8 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-9fa64cdbc8a77e71229832abe473edcc]: Commencement: Art. 8 in force at 16.12.2015 in accordance with art. 1(1)
 
-[^key-64cc56f6a818d7d365190c572964f5e5]: Textual amendment: Word in [art. 8(3)(d)](https://www.legislation.gov.uk/ssi/2015/425/article/8/3/d) revoked (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(3)(a)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/3/a)
+[^c-64cc56f6a818d7d365190c572964f5e5]: Textual amendment: Word in [art. 8(3)(d)](https://www.legislation.gov.uk/ssi/2015/425/article/8/3/d) revoked (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(3)(a)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/3/a)
 
-[^key-783a83b3c45365cb0ce3c3363c880a18]: Textual amendment: [Art. 8(3)(f)](https://www.legislation.gov.uk/ssi/2015/425/article/8/3/f) and word inserted (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(3)(b)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/3/b)
+[^c-783a83b3c45365cb0ce3c3363c880a18]: Textual amendment: [Art. 8(3)(f)](https://www.legislation.gov.uk/ssi/2015/425/article/8/3/f) and word inserted (2.4.2020) by [Scottish Elections (Franchise and Representation) Act 2020 (asp 6)](https://www.legislation.gov.uk/asp/2020/6), [s. 12(1)](https://www.legislation.gov.uk/asp/2020/6/section/12/1), [sch. para. 2(3)(b)](https://www.legislation.gov.uk/asp/2020/6/schedule/paragraph/2/3/b)

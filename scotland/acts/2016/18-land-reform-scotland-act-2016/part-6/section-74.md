@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Repeal of exclusion of shootings and deer forests from valuation roll[^key-3c6ecebbd92733c46c828ccb7f974517]
+## 74. Repeal of exclusion of shootings and deer forests from valuation roll[^c-3c6ecebbd92733c46c828ccb7f974517]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c6ecebbd92733c46c828ccb7f974517]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2016/18/section/74) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-3c6ecebbd92733c46c828ccb7f974517]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2016/18/section/74) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))

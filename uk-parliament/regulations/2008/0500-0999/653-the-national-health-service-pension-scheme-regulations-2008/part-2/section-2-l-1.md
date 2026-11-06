@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.L.1. Application of Chapter 2.L[^key-fbda4064e3008371b283317496ade442]
+## 2.L.1. Application of Chapter 2.L[^c-fbda4064e3008371b283317496ade442]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbda4064e3008371b283317496ade442]: Textual amendment: [Ch. 2.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2010/492/regulation/35)
+[^c-fbda4064e3008371b283317496ade442]: Textual amendment: [Ch. 2.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/2.L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2010/492/regulation/35)

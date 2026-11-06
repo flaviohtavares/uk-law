@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ecde6ed9c8dcbae8fea77ac30af3d345]
+## 1. Citation and commencement[^c-ecde6ed9c8dcbae8fea77ac30af3d345]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Abergelli Power Gas Fired Generating Station Orde
 
 ## Annotations
 
-[^key-ecde6ed9c8dcbae8fea77ac30af3d345]: Commencement: Art. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-ecde6ed9c8dcbae8fea77ac30af3d345]: Commencement: Art. 1 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)

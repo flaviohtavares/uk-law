@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Provisional payment of eligible child’s pension: later adjustments[^key-091c3b298d2b8dc331913b4cc627006f]
+## 139. Provisional payment of eligible child’s pension: later adjustments[^c-091c3b298d2b8dc331913b4cc627006f]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-091c3b298d2b8dc331913b4cc627006f]: Commencement: Reg. 139 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-091c3b298d2b8dc331913b4cc627006f]: Commencement: Reg. 139 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Review of the performance of the ICRIR’s functions[^key-473c6709d32c7cd56cbe7fe83bc3d9e9][^key-2dcb66676dd5b98a1544c03249a82d7c]
+## 36. Review of the performance of the ICRIR’s functions[^c-473c6709d32c7cd56cbe7fe83bc3d9e9][^c-2dcb66676dd5b98a1544c03249a82d7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-473c6709d32c7cd56cbe7fe83bc3d9e9]: Commencement: S. 36 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-473c6709d32c7cd56cbe7fe83bc3d9e9]: Commencement: S. 36 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-2dcb66676dd5b98a1544c03249a82d7c]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/41/section/36) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/y) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-2dcb66676dd5b98a1544c03249a82d7c]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/41/section/36) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/y) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

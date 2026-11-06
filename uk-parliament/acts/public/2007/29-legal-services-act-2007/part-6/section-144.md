@@ -22,7 +22,7 @@ summary: ''
 
 (1) Scheme rules must make provision requiring persons within subsection (3) to disclose to an approved regulator information of such description as may be specified in the rules, in such circumstances as may be so specified.
 
-(2)[^key-9e99400f72041112d8869507ee8ad966] The regulatory arrangements of an approved regulator must make provision requiring the approved regulator to disclose to persons within subsection (3) information of such description as may be specified in the arrangements, in such circumstances as may be so specified.
+(2)[^c-9e99400f72041112d8869507ee8ad966] The regulatory arrangements of an approved regulator must make provision requiring the approved regulator to disclose to persons within subsection (3) information of such description as may be specified in the arrangements, in such circumstances as may be so specified.
 
 (3) The persons are—
 
@@ -44,15 +44,15 @@ summary: ''
 - (a) before publishing under section 205(2) a draft of rules it proposes to make under subsection (1), consult each approved regulator to which the proposed rules apply, and
 - (b) when seeking the Board's consent to such rules under section 155, identify any objections made by an approved regulator to the rules and not withdrawn.
 
-(8)[^key-9e99400f72041112d8869507ee8ad966] An approved regulator must—
+(8)[^c-9e99400f72041112d8869507ee8ad966] An approved regulator must—
 
 - (a) consult the OLC before making provisions in its regulatory arrangements of the kind mentioned in subsection (2), and
 - (b) where an application is made for the Board's approval of such provisions, identify any objections made by the OLC to the provisions and not withdrawn.
 
-(9)[^key-9e99400f72041112d8869507ee8ad966] This section applies to the Board in its capacity as a licensing authority and licensing rules made by the Board as it applies to an approved regulator and its regulatory arrangements; and for this purpose the reference in subsection (5)(b) to “**regulatory functions**” is to be read as a reference to the Board's functions under its licensing rules.
+(9)[^c-9e99400f72041112d8869507ee8ad966] This section applies to the Board in its capacity as a licensing authority and licensing rules made by the Board as it applies to an approved regulator and its regulatory arrangements; and for this purpose the reference in subsection (5)(b) to “**regulatory functions**” is to be read as a reference to the Board's functions under its licensing rules.
 
 ## Annotations
 
 [^c20331231]: Commencement: S. 144 partly in force; s. 144 not in force at Royal Assent see s. 211; s. 144(1)(3) in force at 1.1.2009 by [S.I. 2008/3149](https://www.legislation.gov.uk/uksi/2008/3149), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2008/3149/article/2/e/i)
 
-[^key-9e99400f72041112d8869507ee8ad966]: Commencement: S. 144(2)(8)(9) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2089/article/5)) (as amended (30.9.2011) by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), art. 6)
+[^c-9e99400f72041112d8869507ee8ad966]: Commencement: S. 144(2)(8)(9) in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2089/article/5)) (as amended (30.9.2011) by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), art. 6)

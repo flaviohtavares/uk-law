@@ -44,7 +44,7 @@ summary: ''
 
 (6) Proceedings for an offence under this section shall not be instituted against any person except by or with the consent of the Attorney General.
 
-(7)[^key-ccb42e300deb0d524949cdf6a63bbbe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ccb42e300deb0d524949cdf6a63bbbe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c4764631]: Textual amendment: Words substituted by virtue of [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46)
 
-[^key-ccb42e300deb0d524949cdf6a63bbbe2]: Textual amendment: [S. 9(7)](https://www.legislation.gov.uk/ukpga/1977/45/section/9/7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 19(5)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/19/5), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)
+[^c-ccb42e300deb0d524949cdf6a63bbbe2]: Textual amendment: [S. 9(7)](https://www.legislation.gov.uk/ukpga/1977/45/section/9/7) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 19(5)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/19/5), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)[(u)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/u)

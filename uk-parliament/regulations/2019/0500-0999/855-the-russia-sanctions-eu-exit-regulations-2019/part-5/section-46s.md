@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46S. Import of Schedule 3D revenue generating goods[^key-7788dbe4e19a81e510e80c310a1dcf8e][^key-867a3131e9312718379de7bb0375c576]
+## 46S. Import of Schedule 3D revenue generating goods[^c-7788dbe4e19a81e510e80c310a1dcf8e][^c-867a3131e9312718379de7bb0375c576]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-7788dbe4e19a81e510e80c310a1dcf8e]: Textual amendment: [Pt. 5 Chs. 4D-4G](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/792/regulation/8) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-867a3131e9312718379de7bb0375c576]: Textual amendment: Words in [reg. 46S](https://www.legislation.gov.uk/uksi/2019/855/regulation/46S) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/c)
+[^c-867a3131e9312718379de7bb0375c576]: Textual amendment: Words in [reg. 46S](https://www.legislation.gov.uk/uksi/2019/855/regulation/46S) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/4/c)

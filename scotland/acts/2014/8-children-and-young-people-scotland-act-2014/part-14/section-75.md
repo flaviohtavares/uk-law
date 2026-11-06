@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Scotland's Adoption Register[^key-870f686e84a9dff34875d5c88bccae76][^key-d7af253c73750874c3111782d9e2aa3c]
+## 75. Scotland's Adoption Register[^c-870f686e84a9dff34875d5c88bccae76][^c-d7af253c73750874c3111782d9e2aa3c]
 
 *Extent: S*
 
@@ -115,6 +115,6 @@ After section 13 of the Adoption and Children (Scotland) Act 2007, insert—
 
 ## Annotations
 
-[^key-870f686e84a9dff34875d5c88bccae76]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/8/section/75) in force at 30.9.2015 for specified purposes by [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule)
+[^c-870f686e84a9dff34875d5c88bccae76]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/8/section/75) in force at 30.9.2015 for specified purposes by [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule)
 
-[^key-d7af253c73750874c3111782d9e2aa3c]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/8/section/75) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)
+[^c-d7af253c73750874c3111782d9e2aa3c]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2014/8/section/75) in force at 1.4.2016 in so far as not already in force by [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)

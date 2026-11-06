@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Application of the Tenement Management Scheme[^key-530f1496cc59906e6e53f0804fb665ed]
+## 4. Application of the Tenement Management Scheme[^c-530f1496cc59906e6e53f0804fb665ed]
 
 *Extent: S*
 
@@ -60,10 +60,10 @@ of the Scheme shall apply, so far as relevant, for the purpose of supplementing 
 
 (13) Where some but not all of the provisions of the Scheme apply, references in the Scheme to “the scheme” shall be read as references only to those provisions of the Scheme which apply.
 
-(14) In this section and section 4A[^key-85f24bc6fd2a032c0560c8a0329254d3], “**scheme costs**” and “**scheme decision**” have the same meanings as they have in the Scheme.
+(14) In this section and section 4A[^c-85f24bc6fd2a032c0560c8a0329254d3], “**scheme costs**” and “**scheme decision**” have the same meanings as they have in the Scheme.
 
 ## Annotations
 
-[^key-530f1496cc59906e6e53f0804fb665ed]: Commencement: S. 4 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-530f1496cc59906e6e53f0804fb665ed]: Commencement: S. 4 in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
 
-[^key-85f24bc6fd2a032c0560c8a0329254d3]: Textual amendment: Words in [s. 4(14)](https://www.legislation.gov.uk/asp/2004/11/section/4/14) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(1)(a)](https://www.legislation.gov.uk/asp/2014/14/section/85/1/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)
+[^c-85f24bc6fd2a032c0560c8a0329254d3]: Textual amendment: Words in [s. 4(14)](https://www.legislation.gov.uk/asp/2004/11/section/4/14) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(1)(a)](https://www.legislation.gov.uk/asp/2014/14/section/85/1/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)

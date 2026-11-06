@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Export of restricted goods[^key-c1f89372e12e5f92b4c589299606cd66]
+## 22. Export of restricted goods[^c-c1f89372e12e5f92b4c589299606cd66]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1f89372e12e5f92b4c589299606cd66]: Commencement: Reg. 22 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-c1f89372e12e5f92b4c589299606cd66]: Commencement: Reg. 22 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

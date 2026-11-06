@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.4. Requirements of a contempt application[^key-d301ac6fb80ebdbaa10b54f971c927c8]
+## 21.4. Requirements of a contempt application[^c-d301ac6fb80ebdbaa10b54f971c927c8]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 - (k) that the defendant may be entitled to the services of an interpreter;
 - (l) that the defendant is entitled to a reasonable time to prepare for the hearing;
 - (m) that the defendant is entitled but not obliged to give written and oral evidence in their defence;
-- (n) that the defendant has the right to remain silent and to decline to answer any question the answer to which may incriminate the defendant , but that the court may draw adverse inferences if this right is exercised[^key-46c73f713ce1c1043209659ed6ae527c];
+- (n) that the defendant has the right to remain silent and to decline to answer any question the answer to which may incriminate the defendant , but that the court may draw adverse inferences if this right is exercised[^c-46c73f713ce1c1043209659ed6ae527c];
 - (o) that the court may proceed in the defendant’s absence if they do not attend but(whether or not they attend) will only find the defendant in contempt if satisfied beyond reasonable doubt of the facts constituting contempt and that they do constitute contempt;
 - (p) that if the court is satisfied that the defendant has committed a contempt, the court may punish the defendant by a fine, imprisonment, confiscation of assets or other punishment under the law;
 - (q) that if the defendant admits the contempt and wishes to apologise to the court, that is likely to reduce the seriousness of any punishment by the court;
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
+[^c-d301ac6fb80ebdbaa10b54f971c927c8]: Textual amendment: Pt. 21 substituted (1.1.2023) by [The Court of Protection (Amendment) Rules 2022 (S.I. 2022/1192)](https://www.legislation.gov.uk/uksi/2022/1192), [rule 1(1)](https://www.legislation.gov.uk/uksi/2022/1192/rule/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/1192/schedule)
 
-[^key-46c73f713ce1c1043209659ed6ae527c]: Textual amendment: Words in [rule 21.4(2)(n)](https://www.legislation.gov.uk/uksi/2017/1035/article/21.4/2/n) inserted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2025/866/rule/4)
+[^c-46c73f713ce1c1043209659ed6ae527c]: Textual amendment: Words in [rule 21.4(2)(n)](https://www.legislation.gov.uk/uksi/2017/1035/article/21.4/2/n) inserted (1.10.2025) by [The Court of Protection (Amendment) Rules 2025 (S.I. 2025/866)](https://www.legislation.gov.uk/uksi/2025/866), [rules 1(1)](https://www.legislation.gov.uk/uksi/2025/866/rule/1/1), [4](https://www.legislation.gov.uk/uksi/2025/866/rule/4)

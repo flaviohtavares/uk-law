@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 42. Transfer of homes of residence to General Purposes Fund[^key-9166b83eefea36bb9d1fa6c81f41dcc8]
+## 42. Transfer of homes of residence to General Purposes Fund[^c-9166b83eefea36bb9d1fa6c81f41dcc8]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9166b83eefea36bb9d1fa6c81f41dcc8]: Commencement: [S. 42](https://www.legislation.gov.uk/ukcm/2018/9/section/42) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-9166b83eefea36bb9d1fa6c81f41dcc8]: Commencement: [S. 42](https://www.legislation.gov.uk/ukcm/2018/9/section/42) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

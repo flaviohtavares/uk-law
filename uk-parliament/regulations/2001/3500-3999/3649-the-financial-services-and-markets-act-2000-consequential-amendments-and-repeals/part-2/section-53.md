@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Limitations on exemptions for dormant companies[^key-f1cf0134c041ee80d43f2eca5f3e151c]
+## 53. Limitations on exemptions for dormant companies[^c-f1cf0134c041ee80d43f2eca5f3e151c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In paragraph (3) of Article 257AA of the 1986 Order (dormant companies)[^f00058]
 
 ## Annotations
 
-[^key-f1cf0134c041ee80d43f2eca5f3e151c]: Commencement: Art. 53 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f1cf0134c041ee80d43f2eca5f3e151c]: Commencement: Art. 53 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00058]: Footnote: Article 257AA was inserted by [SR (N.I.) 2001/154](https://www.legislation.gov.uk/nisr/2001/154).

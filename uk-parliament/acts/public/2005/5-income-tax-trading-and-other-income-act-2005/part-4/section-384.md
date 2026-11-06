@@ -27,8 +27,8 @@ summary: ''
 - section 393(2) and (3) (later charge where cash dividends retained in SIPs are paid over), and
 - section 394(3) (distribution when dividend shares cease to be subject to SIP).
 
-(3)[^key-407b0742a68605588b1bce39892e1e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-407b0742a68605588b1bce39892e1e8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-407b0742a68605588b1bce39892e1e8d]: Textual amendment: [S. 384(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/384/3) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/5)
+[^c-407b0742a68605588b1bce39892e1e8d]: Textual amendment: [S. 384(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/384/3) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/5)

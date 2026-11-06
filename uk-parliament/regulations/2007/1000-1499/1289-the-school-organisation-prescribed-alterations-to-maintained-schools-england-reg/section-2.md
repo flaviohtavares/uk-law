@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-257d78dc5f1098a3431dd11e17304c66]
+## 2. Interpretation[^c-257d78dc5f1098a3431dd11e17304c66]
 
 *Extent: E+W*
 
@@ -63,7 +63,7 @@ any references to section 18, 19, 20, 21 , 23 or 24 is a reference to that secti
 
 ## Annotations
 
-[^key-257d78dc5f1098a3431dd11e17304c66]: Commencement: Reg. 2 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-257d78dc5f1098a3431dd11e17304c66]: Commencement: Reg. 2 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
 
 [^f00002]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).
 

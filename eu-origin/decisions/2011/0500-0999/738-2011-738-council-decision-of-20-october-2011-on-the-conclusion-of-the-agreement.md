@@ -31,10 +31,10 @@ summary: ''
 
 of 20 October 2011 on the conclusion of the Agreement between the European Union and the Swiss Confederation on the protection of designations of origin and geographical indications for agricultural products and foodstuffs, amending the Agreement between the European Community and the Swiss Confederation on trade in agricultural products (revoked)
 
-[^key-b4ed168a96edfa08eb828303d335a306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b4ed168a96edfa08eb828303d335a306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-b4ed168a96edfa08eb828303d335a306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-b4ed168a96edfa08eb828303d335a306] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b4ed168a96edfa08eb828303d335a306]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 30](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4ed168a96edfa08eb828303d335a306]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 30](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/30); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

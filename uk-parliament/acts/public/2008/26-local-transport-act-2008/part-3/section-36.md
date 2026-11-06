@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Appeals where proposed continuation considered non-exempt[^key-4622b73cf1a22019c8dbd3d9c5cc4903]
+## 36. Appeals where proposed continuation considered non-exempt[^c-4622b73cf1a22019c8dbd3d9c5cc4903]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4622b73cf1a22019c8dbd3d9c5cc4903]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2008/26/section/36) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/28)
+[^c-4622b73cf1a22019c8dbd3d9c5cc4903]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/2008/26/section/36) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/28)

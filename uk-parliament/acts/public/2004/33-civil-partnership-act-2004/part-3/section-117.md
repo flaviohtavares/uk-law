@@ -25,7 +25,7 @@ summary: ''
 (2) In such an action the court may grant decree, if, but only if, it is established that—
 
 - (a) the civil partnership has broken down irretrievably, or
-- (b) subject to subsection (3A),[^key-589c32c3746f5944866db6dd83d03200] an interim gender recognition certificate under the Gender Recognition Act 2004 (c. 7) has, after the date of registration of the civil partnership, been issued to either of the civil partners.
+- (b) subject to subsection (3A),[^c-589c32c3746f5944866db6dd83d03200] an interim gender recognition certificate under the Gender Recognition Act 2004 (c. 7) has, after the date of registration of the civil partnership, been issued to either of the civil partners.
 
 (3) The irretrievable breakdown of a civil partnership is taken to be established if—
 
@@ -34,7 +34,7 @@ summary: ''
 - (c) there has been no cohabitation between the civil partners at any time during a continuous period of one year[^c20604981] after the date of registration of the civil partnership and immediately preceding the bringing of the action and the defender consents to the granting of decree of dissolution of the civil partnership, or
 - (d) there has been no cohabitation between the civil partners at any time during a continuous period of two[^c20605001] years after that date and immediately preceding the bringing of the action.
 
-(3A)[^key-99cb4b1fd71f8a6f4727174cf643269e] Subsection (2)(b)—
+(3A)[^c-99cb4b1fd71f8a6f4727174cf643269e] Subsection (2)(b)—
 
 - (a) does not apply where, under the Gender Recognition Act 2004, a Gender Recognition Panel issues a full gender recognition certificate to the person to whom the interim gender recognition certificate was issued, but
 - (b) continues to apply despite a full gender recognition certificate being issued to that person by the sheriff under section 4E of that Act.
@@ -58,7 +58,7 @@ and where the defender has indicated (and not withdrawn) such consent in the pre
 
 ## Annotations
 
-[^key-589c32c3746f5944866db6dd83d03200]: Textual amendment: Words in [s. 117(2)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/117/2/b) inserted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/2/a); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-589c32c3746f5944866db6dd83d03200]: Textual amendment: Words in [s. 117(2)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/117/2/b) inserted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/2/a); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
 [^c20604971]: Textual amendment: S. 117(3)(b) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 45(2)](https://www.legislation.gov.uk/asp/2006/2/section/45/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
@@ -66,7 +66,7 @@ and where the defender has indicated (and not withdrawn) such consent in the pre
 
 [^c20605001]: Textual amendment: Word in s. 117(3)(d) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 33](https://www.legislation.gov.uk/asp/2006/2/section/33), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/9/b); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-99cb4b1fd71f8a6f4727174cf643269e]: Textual amendment: [S. 117(3A)](https://www.legislation.gov.uk/ukpga/2004/33/section/117/3A) inserted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/2/b); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-99cb4b1fd71f8a6f4727174cf643269e]: Textual amendment: [S. 117(3A)](https://www.legislation.gov.uk/ukpga/2004/33/section/117/3A) inserted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 6(2)(b)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/6/2/b); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
 [^c20605081]: Textual amendment: S. 117(6) repealed (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 45(2)](https://www.legislation.gov.uk/asp/2006/2/section/45/2), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 3](https://www.legislation.gov.uk/asp/2006/2/schedule/3); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 

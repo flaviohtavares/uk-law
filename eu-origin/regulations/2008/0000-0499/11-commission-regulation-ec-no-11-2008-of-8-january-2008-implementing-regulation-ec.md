@@ -33,18 +33,18 @@ of 8 January 2008
 
 implementing Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) on the transmission of the time series for the new regional breakdown (revoked)
 
-[^key-e81e223842e5e7edb59bd2c45ecda1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e81e223842e5e7edb59bd2c45ecda1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e81e223842e5e7edb59bd2c45ecda1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e81e223842e5e7edb59bd2c45ecda1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e81e223842e5e7edb59bd2c45ecda1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e81e223842e5e7edb59bd2c45ecda1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e81e223842e5e7edb59bd2c45ecda1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e81e223842e5e7edb59bd2c45ecda1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e81e223842e5e7edb59bd2c45ecda1bf]
+## ANNEX[^c-e81e223842e5e7edb59bd2c45ecda1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e81e223842e5e7edb59bd2c45ecda1bf]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 113](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e81e223842e5e7edb59bd2c45ecda1bf]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 113](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/113); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

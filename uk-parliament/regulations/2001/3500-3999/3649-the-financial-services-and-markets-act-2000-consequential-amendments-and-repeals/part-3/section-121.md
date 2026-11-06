@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Ways of taking rights to cash equivalent: members of occupational pension schemes[^key-dd3805a781e11df7718c073cc2e8811e]
+## 121. Ways of taking rights to cash equivalent: members of occupational pension schemes[^c-dd3805a781e11df7718c073cc2e8811e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 95(2)(c) of the Pension Schemes Act 1993 (ways of taking rights to ca
 
 ## Annotations
 
-[^key-dd3805a781e11df7718c073cc2e8811e]: Commencement: Art. 121 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-dd3805a781e11df7718c073cc2e8811e]: Commencement: Art. 121 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

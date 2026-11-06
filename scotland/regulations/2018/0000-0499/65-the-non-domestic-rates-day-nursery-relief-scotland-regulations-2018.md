@@ -44,7 +44,7 @@ Coming into force
 
 1st April 2018
 
-The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 [^c22972331] and all other powers enabling them to do so.[^key-0db412f76c2b920f7072d19a34c0c3b4][^key-b3c1f8134aa429f0689c9a09cef770cb]
+The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 153 of the Local Government etc. (Scotland) Act 1994 [^c22972331] and all other powers enabling them to do so.[^c-0db412f76c2b920f7072d19a34c0c3b4][^c-b3c1f8134aa429f0689c9a09cef770cb]
 
 ## 1. Citation and commencement
 
@@ -67,10 +67,10 @@ In these Regulations—
 
 ## 3. Amount payable as rates – lands and heritages used as a day nursery
 
-No rates are payable in respect of lands and heritages on a day on or after 1 April 2018[^key-217f3beb40a976a57711f1925b4cf9f8] if—
+No rates are payable in respect of lands and heritages on a day on or after 1 April 2018[^c-217f3beb40a976a57711f1925b4cf9f8] if—
 
 - (a) the lands and heritages are used wholly or mainly as a day nursery;
-- (b)[^key-ba5fd6ad8775171e345c3f34d6e95469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ba5fd6ad8775171e345c3f34d6e95469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) an application for relief is made in accordance with regulation 4.
 
 ## 4. Application for relief
@@ -82,7 +82,7 @@ An application for relief under these Regulations must—
   - (i) addressing it to the local authority; and
   - (ii) delivering it or sending it to the local authority's office by post or electronic communication.
 
-## 5. Relief – further provision[^key-33670ddce5c5cfdefb1d1cc5cfa7225a]
+## 5. Relief – further provision[^c-33670ddce5c5cfdefb1d1cc5cfa7225a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -106,9 +106,9 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22972331]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39). Section 153 was amended by section 67 of the [Climate Change (Scotland) Act 2009 (asp 12)](https://www.legislation.gov.uk/asp/2009/12). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0db412f76c2b920f7072d19a34c0c3b4]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2021 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1](https://www.legislation.gov.uk/ssi/2021/145/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3)
+[^c-0db412f76c2b920f7072d19a34c0c3b4]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2021 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2021 (S.S.I. 2021/145)](https://www.legislation.gov.uk/ssi/2021/145), [regs. 1](https://www.legislation.gov.uk/ssi/2021/145/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/145/regulation/3)
 
-[^key-b3c1f8134aa429f0689c9a09cef770cb]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2023 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
+[^c-b3c1f8134aa429f0689c9a09cef770cb]: Modification: Regulations restricted (with application to the financial year beginning 1.4.2023 and each subsequent financial year) by [The Non-Domestic Rates (Restriction of Relief) (Scotland) Regulations 2023 (S.S.I. 2023/28)](https://www.legislation.gov.uk/ssi/2023/28), [regs. 1](https://www.legislation.gov.uk/ssi/2023/28/regulation/1), [3](https://www.legislation.gov.uk/ssi/2023/28/regulation/3)
 
 [^c22972341]: Marginal citation: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). Section 135 was relevantly amended by paragraph 2(6)(b) of schedule 5 of the [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8).
 
@@ -122,8 +122,8 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c22972391]: Marginal citation: [1975 c.30](https://www.legislation.gov.uk/ukpga/1975/30). Section 1 was amended by section 34 and schedule 6 of the [Abolition of Domestic Rates etc. (Scotland) Act 1987 (c.47)](https://www.legislation.gov.uk/ukpga/1987/47), [paragraph 1](https://www.legislation.gov.uk/ukpga/1987/47/paragraph/1) of schedule 14 of the Local Government etc. (Scotland) Act 1994 and paragraph 1 of schedule 4 of the [Local Government and Rating Act 1997 (c.29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-217f3beb40a976a57711f1925b4cf9f8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2018/65/regulation/3) substituted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [12(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/12/2)
+[^c-217f3beb40a976a57711f1925b4cf9f8]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2018/65/regulation/3) substituted (1.4.2023) by [The Non-Domestic Rates (Levying and Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/30)](https://www.legislation.gov.uk/ssi/2023/30), [regs. 1](https://www.legislation.gov.uk/ssi/2023/30/regulation/1), [12(2)](https://www.legislation.gov.uk/ssi/2023/30/regulation/12/2)
 
-[^key-ba5fd6ad8775171e345c3f34d6e95469]: Textual amendment: Reg. 3(b) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Levying) (Scotland) Regulations 2018 (S.S.I. 2018/74)](https://www.legislation.gov.uk/ssi/2018/74), [regs. 1](https://www.legislation.gov.uk/ssi/2018/74/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2018/74/regulation/7/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2018/74/regulation/5))
+[^c-ba5fd6ad8775171e345c3f34d6e95469]: Textual amendment: Reg. 3(b) omitted (1.4.2018) by virtue of [The Non-Domestic Rates (Levying) (Scotland) Regulations 2018 (S.S.I. 2018/74)](https://www.legislation.gov.uk/ssi/2018/74), [regs. 1](https://www.legislation.gov.uk/ssi/2018/74/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2018/74/regulation/7/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2018/74/regulation/5))
 
-[^key-33670ddce5c5cfdefb1d1cc5cfa7225a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2018/65/regulation/5) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [8](https://www.legislation.gov.uk/ssi/2020/391/regulation/8)
+[^c-33670ddce5c5cfdefb1d1cc5cfa7225a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/ssi/2018/65/regulation/5) omitted (1.1.2021) by virtue of [The Non-Domestic Rates (Restriction of Relief and Consequential Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/391)](https://www.legislation.gov.uk/ssi/2020/391), [regs. 1](https://www.legislation.gov.uk/ssi/2020/391/regulation/1), [8](https://www.legislation.gov.uk/ssi/2020/391/regulation/8)

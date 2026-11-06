@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Advertisements[^key-0e3e89907df2fdf591d2aababd9df8a1]
+## 89. Advertisements[^c-0e3e89907df2fdf591d2aababd9df8a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Town and Country Planning (Control of Advertisements) (Scotland) Regulations
 
 ## Annotations
 
-[^key-0e3e89907df2fdf591d2aababd9df8a1]: Commencement: Art. 89 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-0e3e89907df2fdf591d2aababd9df8a1]: Commencement: Art. 89 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00055]: Footnote: [S.I. 1984/467](https://www.legislation.gov.uk/uksi/1984/467).

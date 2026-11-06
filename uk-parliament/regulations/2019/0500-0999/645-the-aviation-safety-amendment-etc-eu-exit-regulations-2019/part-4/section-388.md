@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 388. Amendment of the table of contents for the Annexes to [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^key-8da9fb97900a8c975a59917b441de246]
+## 388. Amendment of the table of contents for the Annexes to [Commission Regulation (EU) No 2015/34](https://www.legislation.gov.uk/eur/1934/2015)0[^c-8da9fb97900a8c975a59917b441de246]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The table of contents for the Annexes is amended as follows—
 
 ## Annotations
 
-[^key-8da9fb97900a8c975a59917b441de246]: Commencement: Reg. 388 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8da9fb97900a8c975a59917b441de246]: Commencement: Reg. 388 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

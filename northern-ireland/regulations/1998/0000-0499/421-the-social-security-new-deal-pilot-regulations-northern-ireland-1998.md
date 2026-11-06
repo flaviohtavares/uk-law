@@ -30,7 +30,7 @@ summary: ''
 
 HOUSING; RATES; SOCIAL SECURITY
 
-The Social Security (New Deal Pilot) Regulations (Northern Ireland) 1998 (revoked)[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+The Social Security (New Deal Pilot) Regulations (Northern Ireland) 1998 (revoked)[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 Made
 
@@ -40,96 +40,96 @@ Coming into operation
 
 30th November 1998
 
-[^key-4c1a866249b2cc1bccc8dc1a04a39f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1a866249b2cc1bccc8dc1a04a39f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I — General[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+## Part I — General[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
-### 1. Citation, commencement and duration[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 1. Citation, commencement and duration[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application: persons aged 25 and over in receipt of benefit for 18 months[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 2. Interpretation[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Application: volunteers[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 3. Application: persons aged 25 and over in receipt of benefit for 18 months[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part II — The Intensive Activity Period of the New Deal Pilot for 25 Plus[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
-
-### 5. Sanction[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 4. Application: volunteers[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Interpretation of Article 21 of the Order and Part V of the Jobseeker’s Allowance Regulations[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+## Part II — The Intensive Activity Period of the New Deal Pilot for 25 Plus[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
+
+### 5. Sanction[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Availability for employment[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 6. Interpretation of Article 21 of the Order and Part V of the Jobseeker’s Allowance Regulations[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Good cause[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 7. Availability for employment[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Payability of allowance[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 8. Good cause[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part III — Consequential Provisions[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
-
-### 10. Scope of Part III[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 9. Payability of allowance[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Definition of “training allowance”[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+## Part III — Consequential Provisions[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
+
+### 10. Scope of Part III[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Remunerative work[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 11. Definition of “training allowance”[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Notional income[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 12. Remunerative work[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Notional capital[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 13. Notional income[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Income to be disregarded[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 14. Notional capital[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Capital to be disregarded[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 15. Income to be disregarded[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Part IV — The New Deal Education and Training Opportunities Pilot for 25 Plus[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
-
-### 17. Scope of Part IV[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+### 16. Capital to be disregarded[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Modification of regulation 17A of the Jobseeker’s Allowance Regulations[^key-4c1a866249b2cc1bccc8dc1a04a39f67]
+## Part IV — The New Deal Education and Training Opportunities Pilot for 25 Plus[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
+
+### 17. Scope of Part IV[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4c1a866249b2cc1bccc8dc1a04a39f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 18. Modification of regulation 17A of the Jobseeker’s Allowance Regulations[^c-4c1a866249b2cc1bccc8dc1a04a39f67]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-4c1a866249b2cc1bccc8dc1a04a39f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4c1a866249b2cc1bccc8dc1a04a39f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4c1a866249b2cc1bccc8dc1a04a39f67]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c1a866249b2cc1bccc8dc1a04a39f67]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/421) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4)); \[Editorial note: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]
+[^c-4c1a866249b2cc1bccc8dc1a04a39f67]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/421) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4)); \[Editorial note: No historical revised versions have been created for amendments to this S.R. made prior to its final revocation. A revised version of how the S.R. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

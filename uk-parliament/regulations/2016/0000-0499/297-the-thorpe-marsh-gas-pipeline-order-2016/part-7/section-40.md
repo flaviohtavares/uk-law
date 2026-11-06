@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Certification of plans etc.[^key-127d86ab4f17b2579d4d294891e39038]
+## 40. Certification of plans etc.[^c-127d86ab4f17b2579d4d294891e39038]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-127d86ab4f17b2579d4d294891e39038]: Commencement: Art. 40 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-127d86ab4f17b2579d4d294891e39038]: Commencement: Art. 40 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

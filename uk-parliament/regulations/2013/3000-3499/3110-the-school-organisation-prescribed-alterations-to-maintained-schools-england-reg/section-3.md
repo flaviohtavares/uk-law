@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Alterations to maintained schools by governing bodies: foundation proposals[^key-ac2e00c82f4b25f948d4bd8ce4c8c687]
+## 3. Alterations to maintained schools by governing bodies: foundation proposals[^c-ac2e00c82f4b25f948d4bd8ce4c8c687]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ac2e00c82f4b25f948d4bd8ce4c8c687]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/3110/regulation/3) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
+[^c-ac2e00c82f4b25f948d4bd8ce4c8c687]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/3110/regulation/3) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
 
 [^f00011]: Footnote: For the meaning of “foundation governor” see section 19(1A)(e) of the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).

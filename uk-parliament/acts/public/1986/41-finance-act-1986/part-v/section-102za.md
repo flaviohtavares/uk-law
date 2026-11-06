@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102ZA. Gifts with reservation: termination of interests in possession[^key-4e848f43df28b042c9616edec4c3ebe9]
+## 102ZA. Gifts with reservation: termination of interests in possession[^c-4e848f43df28b042c9616edec4c3ebe9]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) an individual is beneficially entitled to an interest in possession in settled property,
 - (b) either—
   - (i) the individual became beneficially entitled to the interest in possession before 22nd March 2006, or
-  - (ii) the individual became beneficially entitled to the interest in possession on or after 22nd March 2006 and the interest is an immediate post-death interest, a disabled person's interest or a transitional serial interest or falls within section 5(1B) of the 1984 Act[^key-c57ec3176d72bae9649de01ab54d48bd], and
+  - (ii) the individual became beneficially entitled to the interest in possession on or after 22nd March 2006 and the interest is an immediate post-death interest, a disabled person's interest or a transitional serial interest or falls within section 5(1B) of the 1984 Act[^c-c57ec3176d72bae9649de01ab54d48bd], and
 - (c) the interest in possession comes to an end during the individual's life.
 
 (2) For the purposes of—
@@ -39,6 +39,6 @@ the individual shall be taken (if, or so far as, he would not otherwise be) to d
 
 ## Annotations
 
-[^key-4e848f43df28b042c9616edec4c3ebe9]: Textual amendment: S. 102ZA inserted (retrospective to 22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 20 para. 33(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4) (with [Sch. 20 para. 33(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4))
+[^c-4e848f43df28b042c9616edec4c3ebe9]: Textual amendment: S. 102ZA inserted (retrospective to 22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 20 para. 33(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/2)[(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4) (with [Sch. 20 para. 33(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4))
 
-[^key-c57ec3176d72bae9649de01ab54d48bd]: Textual amendment: Words in [s. 102ZA(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1986/41/section/102ZA/1/b/ii) inserted (with effect in accordance with s. 53(10) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 53(8)](https://www.legislation.gov.uk/ukpga/2010/13/section/53/8)
+[^c-c57ec3176d72bae9649de01ab54d48bd]: Textual amendment: Words in [s. 102ZA(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/1986/41/section/102ZA/1/b/ii) inserted (with effect in accordance with s. 53(10) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 53(8)](https://www.legislation.gov.uk/ukpga/2010/13/section/53/8)

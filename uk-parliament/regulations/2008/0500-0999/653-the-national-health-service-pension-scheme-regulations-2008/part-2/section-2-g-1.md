@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Chapter applies to persons who—
 
-- (a) have been active members of this Section of[^key-a20c79834eec62db64bf770adec8da9c] the Scheme in respect of their service in an employment,
+- (a) have been active members of this Section of[^c-a20c79834eec62db64bf770adec8da9c] the Scheme in respect of their service in an employment,
 - (b) have ceased to be employed in that employment and have become deferred members or pensioner members of this Section of the Scheme because of their rights in respect of that service,
 - (c) become employed again in an employment that qualifies them to belong to this Section of the Scheme, and
 - (d) become active members of the Scheme in respect of their service in that employment.
@@ -53,4 +53,4 @@ as it applies to members who cease to be employed in the employment in which the
 
 ## Annotations
 
-[^key-a20c79834eec62db64bf770adec8da9c]: Textual amendment: Words in [reg. 2.G.1](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-a20c79834eec62db64bf770adec8da9c]: Textual amendment: Words in [reg. 2.G.1](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.G.1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

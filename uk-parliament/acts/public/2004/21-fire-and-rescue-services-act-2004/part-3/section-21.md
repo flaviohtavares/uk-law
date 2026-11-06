@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Fire and Rescue National Framework[^key-a73ff0084c163af5648d0358f49c9148][^key-91955e413e36a6177e9fc1bd9a83d248]
+## 21. Fire and Rescue National Framework[^c-a73ff0084c163af5648d0358f49c9148][^c-91955e413e36a6177e9fc1bd9a83d248]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) may contain guidance to fire and rescue authorities in connection with the discharge of any of their functions;
 - (c) may contain any other matter relating to fire and rescue authorities or their functions that the Secretary of State considers appropriate.
 
-(2A)[^key-66a519a22a17f5b44549617cebcca95a] The Framework may contain different provision for different descriptions of fire and rescue authority.
+(2A)[^c-66a519a22a17f5b44549617cebcca95a] The Framework may contain different provision for different descriptions of fire and rescue authority.
 
 (3) The Secretary of State must keep the terms of the Framework under review and may from time to time make revisions to it.
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a73ff0084c163af5648d0358f49c9148]: Commencement: S. 21 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-a73ff0084c163af5648d0358f49c9148]: Commencement: S. 21 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-91955e413e36a6177e9fc1bd9a83d248]: Commencement: S. 21 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-91955e413e36a6177e9fc1bd9a83d248]: Commencement: S. 21 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
 
-[^key-66a519a22a17f5b44549617cebcca95a]: Textual amendment: S. 21(2A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/9); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-66a519a22a17f5b44549617cebcca95a]: Textual amendment: S. 21(2A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/9); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)

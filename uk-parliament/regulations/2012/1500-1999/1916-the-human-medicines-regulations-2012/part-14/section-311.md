@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies—
 
-- (a) if the Ministers consider that an advertisement that has been published, or that is proposed to be published, is incompatible with the prohibitions imposed by Chapter 2 in respect of—[^key-d1ebe5b46ecee4e960cbd511f58c5371]
+- (a) if the Ministers consider that an advertisement that has been published, or that is proposed to be published, is incompatible with the prohibitions imposed by Chapter 2 in respect of—[^c-d1ebe5b46ecee4e960cbd511f58c5371]
   - (i) Great Britain;
   - (ii) Northern Ireland; or
   - (iii) both Great Britain and Northern Ireland; and
@@ -30,7 +30,7 @@ summary: ''
 
 (2) The Ministers may apply to the court for an injunction against any person appearing to them to be concerned or likely to be concerned with the publication of the advertisement.
 
-(3) On the making of an application under paragraph (2), the court may grant an injunction prohibiting the publication, or further publication, of the advertisement in—[^key-f432038df19edd04a9abba6b518a5391]
+(3) On the making of an application under paragraph (2), the court may grant an injunction prohibiting the publication, or further publication, of the advertisement in—[^c-f432038df19edd04a9abba6b518a5391]
 
 - (i) Great Britain;
 - (ii) Northern Ireland; or
@@ -55,6 +55,6 @@ as the case may be.
 
 ## Annotations
 
-[^key-d1ebe5b46ecee4e960cbd511f58c5371]: Textual amendment: Reg. 311(1)(a)(i)-(iii) substituted for words in reg. 311(1)(a) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217D(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217D/a) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))
+[^c-d1ebe5b46ecee4e960cbd511f58c5371]: Textual amendment: Reg. 311(1)(a)(i)-(iii) substituted for words in reg. 311(1)(a) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217D(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217D/a) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))
 
-[^key-f432038df19edd04a9abba6b518a5391]: Textual amendment: Reg. 311(3)(i)(iii) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217D(b)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217D/b) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))
+[^c-f432038df19edd04a9abba6b518a5391]: Textual amendment: Reg. 311(3)(i)(iii) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 217D(b)](https://www.legislation.gov.uk/uksi/2019/775/regulation/217D/b) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/177))

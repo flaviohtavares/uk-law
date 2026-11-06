@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Requirement to publish certain notices etc[^key-3e84e9e58520beec2c667571ed493286][^key-2915182a092223bd38e6a41ecc35797e]
+## 80. Requirement to publish certain notices etc[^c-3e84e9e58520beec2c667571ed493286][^c-2915182a092223bd38e6a41ecc35797e]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ it must, as soon as reasonably practicable after giving the notice or direction,
 
 ## Annotations
 
-[^key-3e84e9e58520beec2c667571ed493286]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-3e84e9e58520beec2c667571ed493286]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-2915182a092223bd38e6a41ecc35797e]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2025/21/section/80) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(v)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/v)
+[^c-2915182a092223bd38e6a41ecc35797e]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2025/21/section/80) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(c)(v)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/c/v)

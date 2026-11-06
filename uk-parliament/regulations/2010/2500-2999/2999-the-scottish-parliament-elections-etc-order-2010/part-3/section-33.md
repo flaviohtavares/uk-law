@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Appointment of sub-agent[^key-3c6f6884c489c26a24a77f6de1d6cd5f]
+## 33. Appointment of sub-agent[^c-3c6f6884c489c26a24a77f6de1d6cd5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and in the event of the revocation of the appointment or of the death of a sub-a
 
 ## Annotations
 
-[^key-3c6f6884c489c26a24a77f6de1d6cd5f]: Commencement: Art. 33 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-3c6f6884c489c26a24a77f6de1d6cd5f]: Commencement: Art. 33 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

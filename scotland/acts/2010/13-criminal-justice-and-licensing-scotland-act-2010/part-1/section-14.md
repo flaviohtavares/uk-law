@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-9c541c94b66acb3d55640d3d6e5c7dc3] After section 227 of the 1995 Act insert—
+(1)[^c-9c541c94b66acb3d55640d3d6e5c7dc3] After section 227 of the 1995 Act insert—
 
 > **Community payback orders**
 >
@@ -970,10 +970,10 @@ summary: ''
 
 .
 
-(2)[^key-c5d2c0871fed5b52714165b2e3dc3322] Schedule 2 modifies enactments in consequence of this section.
+(2)[^c-c5d2c0871fed5b52714165b2e3dc3322] Schedule 2 modifies enactments in consequence of this section.
 
 ## Annotations
 
-[^key-9c541c94b66acb3d55640d3d6e5c7dc3]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2010/13/section/14/1) in force at 1.2.2011 for specified purposes and 1.4.2011 in so far as not already in force by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
+[^c-9c541c94b66acb3d55640d3d6e5c7dc3]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2010/13/section/14/1) in force at 1.2.2011 for specified purposes and 1.4.2011 in so far as not already in force by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
 
-[^key-c5d2c0871fed5b52714165b2e3dc3322]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
+[^c-c5d2c0871fed5b52714165b2e3dc3322]: Commencement: [S. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2) in force at 1.2.2011 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))

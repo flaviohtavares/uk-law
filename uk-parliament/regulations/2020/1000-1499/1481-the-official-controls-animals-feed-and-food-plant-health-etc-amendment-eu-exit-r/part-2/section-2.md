@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendments to Regulation (EU) 2017/625 of the European Parliament and of the Council[^key-1024ef356c1d8d657df5d7ab8558fde8]
+## 2. Amendments to Regulation (EU) 2017/625 of the European Parliament and of the Council[^c-1024ef356c1d8d657df5d7ab8558fde8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation (EU) 2017/625 of the European Parliament and of the Council on offici
 
 ## Annotations
 
-[^key-1024ef356c1d8d657df5d7ab8558fde8]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-1024ef356c1d8d657df5d7ab8558fde8]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Opting out of this scheme[^key-c71acb7ce901536583189e0da51bdab3]
+## 14. Opting out of this scheme[^c-c71acb7ce901536583189e0da51bdab3]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c71acb7ce901536583189e0da51bdab3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/19/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-c71acb7ce901536583189e0da51bdab3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/19/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

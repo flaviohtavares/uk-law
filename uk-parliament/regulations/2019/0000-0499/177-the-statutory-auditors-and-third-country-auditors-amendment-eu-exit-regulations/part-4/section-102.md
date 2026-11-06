@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102.[^key-b226f6dea9a08036a5eba9bdfd8cebff]
+## 102.[^c-b226f6dea9a08036a5eba9bdfd8cebff]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Article 28 (transparency of competent authorities)—
 
 ## Annotations
 
-[^key-b226f6dea9a08036a5eba9bdfd8cebff]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-b226f6dea9a08036a5eba9bdfd8cebff]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

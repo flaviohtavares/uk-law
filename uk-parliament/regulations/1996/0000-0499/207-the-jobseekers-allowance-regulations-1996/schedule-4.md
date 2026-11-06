@@ -18,36 +18,36 @@ summary: ''
 
 Regulation 86
 
-**....**[^key-05c14f2a97e8768dc4e5de7cfab4226f][^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**....**[^c-05c14f2a97e8768dc4e5de7cfab4226f][^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-05c14f2a97e8768dc4e5de7cfab4226f]
+[^c-05c14f2a97e8768dc4e5de7cfab4226f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-05c14f2a97e8768dc4e5de7cfab4226f]
+[^c-05c14f2a97e8768dc4e5de7cfab4226f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f]
+[^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-05c14f2a97e8768dc4e5de7cfab4226f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-05c14f2a97e8768dc4e5de7cfab4226f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-05c14f2a97e8768dc4e5de7cfab4226f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05c14f2a97e8768dc4e5de7cfab4226f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1996/207/schedule/4) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. II para. 19](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/II/paragraph/19)
+[^c-05c14f2a97e8768dc4e5de7cfab4226f]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/1996/207/schedule/4) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. II para. 19](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/II/paragraph/19)

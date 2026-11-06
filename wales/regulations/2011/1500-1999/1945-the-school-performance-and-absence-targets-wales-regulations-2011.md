@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, WALES
 
-The School Performance and Absence Targets (Wales) Regulations 2011 (revoked)[^key-2755e890b2b161098e4f538fa454a9b5]
+The School Performance and Absence Targets (Wales) Regulations 2011 (revoked)[^c-2755e890b2b161098e4f538fa454a9b5]
 
 Made
 
@@ -45,68 +45,68 @@ Coming into force
 
 1 September 2011
 
-[^key-2755e890b2b161098e4f538fa454a9b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2755e890b2b161098e4f538fa454a9b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and revocation[^key-2755e890b2b161098e4f538fa454a9b5]
+## 1. Title, commencement, application and revocation[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2755e890b2b161098e4f538fa454a9b5]
+## 2. Interpretation[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Performance targets for pupils in the second key stage[^key-2755e890b2b161098e4f538fa454a9b5]
+## 3. Performance targets for pupils in the second key stage[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Performance targets for pupils in the third key stage[^key-2755e890b2b161098e4f538fa454a9b5]
+## 4. Performance targets for pupils in the third key stage[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Performance targets for pupils who will be in Year 11[^key-2755e890b2b161098e4f538fa454a9b5]
+## 5. Performance targets for pupils who will be in Year 11[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Absence Targets[^key-2755e890b2b161098e4f538fa454a9b5]
+## 6. Absence Targets[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Alteration of targets[^key-2755e890b2b161098e4f538fa454a9b5]
+## 7. Alteration of targets[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Publication of information[^key-2755e890b2b161098e4f538fa454a9b5]
+## 8. Publication of information[^c-2755e890b2b161098e4f538fa454a9b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2755e890b2b161098e4f538fa454a9b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2755e890b2b161098e4f538fa454a9b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REGULATIONS REVOKED[^key-2755e890b2b161098e4f538fa454a9b5]
+## SCHEDULE 1 — REGULATIONS REVOKED[^c-2755e890b2b161098e4f538fa454a9b5]
 
 Regulation 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — INFORMATION ABOUT PUPILS' ATTAINMENT RESULTS, PERFORMANCE TARGETS, ABSENCE RATES AND TARGETS FOR ABSENCES TO BE PUBLISHED IN ANNUAL REPORTS[^key-2755e890b2b161098e4f538fa454a9b5]
+## SCHEDULE 2 — INFORMATION ABOUT PUPILS' ATTAINMENT RESULTS, PERFORMANCE TARGETS, ABSENCE RATES AND TARGETS FOR ABSENCES TO BE PUBLISHED IN ANNUAL REPORTS[^c-2755e890b2b161098e4f538fa454a9b5]
 
 Regulation 8
 
-**1.**[^key-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2755e890b2b161098e4f538fa454a9b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2755e890b2b161098e4f538fa454a9b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2755e890b2b161098e4f538fa454a9b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2755e890b2b161098e4f538fa454a9b5]: Textual amendment: Regulations revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/uksi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/729/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/729/regulation/5/a)
+[^c-2755e890b2b161098e4f538fa454a9b5]: Textual amendment: Regulations revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/uksi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/729/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/729/regulation/5/a)

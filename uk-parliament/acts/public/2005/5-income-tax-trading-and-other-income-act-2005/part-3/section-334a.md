@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 334A. Spreading on leaving cash basis and related election[^key-6eed2749d6c6f6d84d10b3971d141f42]
+## 334A. Spreading on leaving cash basis and related election[^c-6eed2749d6c6f6d84d10b3971d141f42]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Sections 239A (spreading on leaving cash basis) and 239B (election to accelerate
 
 ## Annotations
 
-[^key-6eed2749d6c6f6d84d10b3971d141f42]: Textual amendment: [Ss. 334A-334E](https://www.legislation.gov.uk/ukpga/2005/5/section/334A) and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/29)
+[^c-6eed2749d6c6f6d84d10b3971d141f42]: Textual amendment: [Ss. 334A-334E](https://www.legislation.gov.uk/ukpga/2005/5/section/334A) and cross-headings inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/29)

@@ -22,11 +22,11 @@ summary: ''
 
 Article 70(6)
 
-### 1. Introduction[^key-63a193b17988e86cf94ec96680806edf]
+### 1. Introduction[^c-63a193b17988e86cf94ec96680806edf]
 
 The procedures specified in this Schedule are concerned with the verification requirements in Part 3.
 
-### 2. Verification body[^key-da0f3e858d603dcd358988925496e289]
+### 2. Verification body[^c-da0f3e858d603dcd358988925496e289]
 
 (1) This paragraph sets out the procedures required for verification bodies.
 
@@ -40,15 +40,15 @@ Avoidance of conflict of interest[^f00089]
 
 (5) The relationship between the verification body and the aeroplane operator must not be based on common ownership, common governance, common management or personnel, shared resources, common finances or common contracts or marketing.
 
-(6) The verification body must not take over responsibility for[^key-75c1695f96b4b4c5ce617bfd99c07c1c] any activities from the aeroplane operator with regard to the preparation of the Emissions Monitoring Plan or the Emissions Report, including monitoring of fuel use and calculation of CO<sub>2</sub> emissions.
+(6) The verification body must not take over responsibility for[^c-75c1695f96b4b4c5ce617bfd99c07c1c] any activities from the aeroplane operator with regard to the preparation of the Emissions Monitoring Plan or the Emissions Report, including monitoring of fuel use and calculation of CO<sub>2</sub> emissions.
 
 (7) To enable an assessment of impartiality and independence by the national accreditation body, the verification body must document how it relates to any other parts of the same legal entity.
 
 Management and personnel[^f00090]
 
-(8) The verification body must establish, implement and document a method for evaluating the competence of the verification team personnel against the competence requirements outlined in ISO 14065:2013, ISO 14066:2011 and sub-paragraphs (10) to (13)[^key-5bbe050d97463c0222d192ab4ab6b4ac].
+(8) The verification body must establish, implement and document a method for evaluating the competence of the verification team personnel against the competence requirements outlined in ISO 14065:2013, ISO 14066:2011 and sub-paragraphs (10) to (13)[^c-5bbe050d97463c0222d192ab4ab6b4ac].
 
-(9) The verification body must maintain records to demonstrate the competency of the verification team and personnel in accordance with sub-paragraph (10)[^key-2be67870721523ff6af284fc3ff9ef30].
+(9) The verification body must maintain records to demonstrate the competency of the verification team and personnel in accordance with sub-paragraph (10)[^c-2be67870721523ff6af284fc3ff9ef30].
 
 Competencies of personnel[^f00091]
 
@@ -83,11 +83,11 @@ Validation of verification team technical expertise[^f00095]
 - (g) greenhouse gas information and data management systems and controls, including quality management systems and quality assurance / quality control techniques,
 - (h) aviation related IT systems such as flight planning software or operational management systems,
 - (i) knowledge of approved CORSIA Sustainability Certification Schemes relevant for CORSIA eligible fuels under this Order, including certification scopes[^f00096], and
-- (j) except when carrying out the verification of an Emissions Report,[^key-add6552636a09c9f994d8ce49d460dba] basic knowledge of greenhouse gas markets and emissions units programme registries.
+- (j) except when carrying out the verification of an Emissions Report,[^c-add6552636a09c9f994d8ce49d460dba] basic knowledge of greenhouse gas markets and emissions units programme registries.
 
 (13) Evidence of these competencies must include proof of relevant professional experience, complemented by appropriate training and education credentials.
 
-(13A)[^key-841c8d35d0effa6b914c3e75a9cddba5] When conducting the verification of an Emissions Report, paragraphs **(**12)(a) to (i) apply.
+(13A)[^c-841c8d35d0effa6b914c3e75a9cddba5] When conducting the verification of an Emissions Report, paragraphs **(**12)(a) to (i) apply.
 
 Validation of verification team data and information auditing[^f00097]
 
@@ -130,7 +130,7 @@ Agreement[^f00102]
 - (f) requirement of the aeroplane operator to authorise the release of the Emissions Report, and the Verification Report by the verification body to the Regulator, and
 - (g) liability coverage.
 
-### 3. Verification of Emissions Report[^key-5ee7f3020f31c95efc920114ff0bedfb]
+### 3. Verification of Emissions Report[^c-5ee7f3020f31c95efc920114ff0bedfb]
 
 (1) This paragraph sets out the procedures required of verification bodies for the verification of Emissions Reports.
 
@@ -244,7 +244,7 @@ Validation and verification statement[^f00113]
 - (q) results of the independent review and the name of the independent reviewer, and
 - (r) concluding verification statement.
 
-(23) The verification body must provide a conclusion on each of the verification objectives listed in sub-paragraph (4)[^key-1a8f037adf369a08488cdda4791fa230] in the concluding verification statement.
+(23) The verification body must provide a conclusion on each of the verification objectives listed in sub-paragraph (4)[^c-1a8f037adf369a08488cdda4791fa230] in the concluding verification statement.
 
 (24) When conducting the verification of an Emissions Report, the verification body must choose between two types of verification opinion statements; either ‘verified as satisfactory’ or ‘verified as not satisfactory’.
 
@@ -260,19 +260,19 @@ Validation of verification records[^f00114]
 
 ## Annotations
 
-[^key-63a193b17988e86cf94ec96680806edf]: Commencement: Sch. 6 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-63a193b17988e86cf94ec96680806edf]: Commencement: Sch. 6 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-da0f3e858d603dcd358988925496e289]: Commencement: Sch. 6 para. 2 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-da0f3e858d603dcd358988925496e289]: Commencement: Sch. 6 para. 2 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00089]: Footnote: ISO 14065:2013 section 5.4.2.
 
-[^key-75c1695f96b4b4c5ce617bfd99c07c1c]: Textual amendment: Words in [Sch. 6 para. 2(6)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/6) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(a)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/a)
+[^c-75c1695f96b4b4c5ce617bfd99c07c1c]: Textual amendment: Words in [Sch. 6 para. 2(6)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/6) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(a)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/a)
 
 [^f00090]: Footnote: ISO 14065:2013 section 6.1.
 
-[^key-5bbe050d97463c0222d192ab4ab6b4ac]: Textual amendment: Words in [Sch. 6 para. 2(8)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/8) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/b)
+[^c-5bbe050d97463c0222d192ab4ab6b4ac]: Textual amendment: Words in [Sch. 6 para. 2(8)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/8) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(b)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/b)
 
-[^key-2be67870721523ff6af284fc3ff9ef30]: Textual amendment: Words in [Sch. 6 para. 2(9)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/9) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(c)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/c)
+[^c-2be67870721523ff6af284fc3ff9ef30]: Textual amendment: Words in [Sch. 6 para. 2(9)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/9) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(c)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/c)
 
 [^f00091]: Footnote: ISO 14065:2013 section 6.2.
 
@@ -286,9 +286,9 @@ Validation of verification records[^f00114]
 
 [^f00096]: Footnote: “CORSIA Approved Sustainability Certification Schemes” is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
-[^key-add6552636a09c9f994d8ce49d460dba]: Textual amendment: Words in [Sch. 6 para. 2(12)(j)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/12/j) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(d)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/d)
+[^c-add6552636a09c9f994d8ce49d460dba]: Textual amendment: Words in [Sch. 6 para. 2(12)(j)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/12/j) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(d)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/d)
 
-[^key-841c8d35d0effa6b914c3e75a9cddba5]: Textual amendment: [Sch. 6 para. 2(13A)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/13A) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(e)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/e)
+[^c-841c8d35d0effa6b914c3e75a9cddba5]: Textual amendment: [Sch. 6 para. 2(13A)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/2/13A) inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(2)(e)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/2/e)
 
 [^f00097]: Footnote: ISO 14065:2013 section 6.3.4.
 
@@ -302,7 +302,7 @@ Validation of verification records[^f00114]
 
 [^f00102]: Footnote: ISO 14065:2013 section 8.2.3.
 
-[^key-5ee7f3020f31c95efc920114ff0bedfb]: Commencement: Sch. 6 para. 3 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-5ee7f3020f31c95efc920114ff0bedfb]: Commencement: Sch. 6 para. 3 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00103]: Footnote: ISO 14064-3:2006 section 4.3.1.
 
@@ -326,6 +326,6 @@ Validation of verification records[^f00114]
 
 [^f00113]: Footnote: ISO 14064-3:2006 section 4.9.
 
-[^key-1a8f037adf369a08488cdda4791fa230]: Textual amendment: Words in [Sch. 6 para. 3(23)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/3/23) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/3)
+[^c-1a8f037adf369a08488cdda4791fa230]: Textual amendment: Words in [Sch. 6 para. 3(23)](https://www.legislation.gov.uk/uksi/2021/534/schedule/6/paragraph/3/23) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [35(3)](https://www.legislation.gov.uk/uksi/2022/1050/article/35/3)
 
 [^f00114]: Footnote: ISO 14064-3:2006 section 4.10.

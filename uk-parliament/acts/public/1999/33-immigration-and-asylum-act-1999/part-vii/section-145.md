@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Codes of practice.[^key-d93a416a343563cd0154135d5e191f7b][^key-125f6eea25b9040ffff167ef8cbb360e]
+## 145. Codes of practice.[^c-d93a416a343563cd0154135d5e191f7b][^c-125f6eea25b9040ffff167ef8cbb360e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ must have regard to such provisions of a code as may be specified.
 
 (2) Subsection (1) also applies to an authorised person exercising the power to take fingerprints conferred by section 141.
 
-(2A)[^key-0c82316208568efc851258fd54d404a5] A person exercising a power under regulations made by virtue of section 144 must have regard to such provisions of a code as may be specified.
+(2A)[^c-0c82316208568efc851258fd54d404a5] A person exercising a power under regulations made by virtue of section 144 must have regard to such provisions of a code as may be specified.
 
 (3) Any specified provision of a code may have effect for the purposes of this section subject to such modifications as may be specified.
 
@@ -47,11 +47,11 @@ must have regard to such provisions of a code as may be specified.
 
 ## Annotations
 
-[^key-d93a416a343563cd0154135d5e191f7b]: Modification: S. 145 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358)](https://www.legislation.gov.uk/uksi/2018/1358), [art. 2](https://www.legislation.gov.uk/uksi/2018/1358/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1358/schedule/1)
+[^c-d93a416a343563cd0154135d5e191f7b]: Modification: S. 145 extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Biometric Information) (Jersey) Order 2018 (S.I. 2018/1358)](https://www.legislation.gov.uk/uksi/2018/1358), [art. 2](https://www.legislation.gov.uk/uksi/2018/1358/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/1358/schedule/1)
 
-[^key-125f6eea25b9040ffff167ef8cbb360e]: Modification: S. 145 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1560/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1560/schedule/1), [1A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/1A)
+[^c-125f6eea25b9040ffff167ef8cbb360e]: Modification: S. 145 extended (Guernsey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2020 (S.I. 2020/1560)](https://www.legislation.gov.uk/uksi/2020/1560), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1560/article/1/1), [2](https://www.legislation.gov.uk/uksi/2020/1560/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2020/1560/schedule/1), [1A](https://www.legislation.gov.uk/uksi/2020/1560/schedule/1A)
 
-[^key-0c82316208568efc851258fd54d404a5]: Textual amendment: S. 145(2A) inserted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 128(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/128/2), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-0c82316208568efc851258fd54d404a5]: Textual amendment: S. 145(2A) inserted (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 128(2)](https://www.legislation.gov.uk/ukpga/2002/41/section/128/2), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
 
 [^c11434551]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 

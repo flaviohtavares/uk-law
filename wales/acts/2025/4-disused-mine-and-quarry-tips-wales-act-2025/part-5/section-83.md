@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Raising of money in particular cases to meet expenditure[^key-74aa57eb78d662df43697c7006d0db03]
+## 83. Raising of money in particular cases to meet expenditure[^c-74aa57eb78d662df43697c7006d0db03]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74aa57eb78d662df43697c7006d0db03]: Commencement: S. 83 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-74aa57eb78d662df43697c7006d0db03]: Commencement: S. 83 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

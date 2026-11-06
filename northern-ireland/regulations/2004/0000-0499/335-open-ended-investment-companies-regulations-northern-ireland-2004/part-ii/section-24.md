@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Procedure[^key-1f9115848d286af8bdd3b7313625feda]
+## 24. Procedure[^c-1f9115848d286af8bdd3b7313625feda]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f9115848d286af8bdd3b7313625feda]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2004/335/regulation/24) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-1f9115848d286af8bdd3b7313625feda]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2004/335/regulation/24) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

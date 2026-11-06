@@ -22,7 +22,7 @@ summary: ''
 
 In section 28(3) of the [^c13164911]Further and Higher Education Act 1992 (designation of institutions for funding) the following shall be inserted after subsection (3)—
 
-> (3A) The Secretary of State shall not make an order under this section in respect of a voluntary aided school without the consent of the governing body and the local authority[^key-35207b0165f4bf8683c697e9c46b3e8b] .
+> (3A) The Secretary of State shall not make an order under this section in respect of a voluntary aided school without the consent of the governing body and the local authority[^c-35207b0165f4bf8683c697e9c46b3e8b] .
 
 ## Annotations
 
@@ -30,4 +30,4 @@ In section 28(3) of the [^c13164911]Further and Higher Education Act 1992 (desig
 
 [^c13164911]: Marginal citation: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)
+[^c-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)

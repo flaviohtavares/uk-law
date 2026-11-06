@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Obstruction[^key-9eb3a88d0bf9d8fab1524068f023632a]
+## 9. Obstruction[^c-9eb3a88d0bf9d8fab1524068f023632a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If any person intentionally obstructs an inspector (or a person assisting an ins
 
 ## Annotations
 
-[^key-9eb3a88d0bf9d8fab1524068f023632a]: Commencement: Reg. 9 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)
+[^c-9eb3a88d0bf9d8fab1524068f023632a]: Commencement: Reg. 9 in force at 5.11.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/388/regulation/1)

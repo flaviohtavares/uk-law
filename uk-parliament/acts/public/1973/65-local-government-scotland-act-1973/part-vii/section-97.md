@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Establishment of Commission for Local Authority Accounts in Scotland.[^key-8d9d8ed73a454973c3145f4094b55f8e]
+## 97. Establishment of Commission for Local Authority Accounts in Scotland.[^c-8d9d8ed73a454973c3145f4094b55f8e]
 
 *Extent: S*
 
@@ -80,11 +80,11 @@ in accordance with the provisions of this Part of this Act;
 - (a) he is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006[^c20017691] ; or
 - (b)[^c19246591] he is a member of a body of accountants established in the United Kingdom or another EEA State.
 
-(7A)[^key-6d8a6f29d6f6bb60f0406f79053aac42] In subsection (7), “EEA State” means a member State, Norway, Iceland or Lichtenstein.
+(7A)[^c-6d8a6f29d6f6bb60f0406f79053aac42] In subsection (7), “EEA State” means a member State, Norway, Iceland or Lichtenstein.
 
 ## Annotations
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9675941]: Textual amendment: Words in s. 97(1) substituted (1.12.1994) by [National Health Service and Community Care Act 1990 (c. 19, SIF 113:2)](https://www.legislation.gov.uk/ukpga/1990/19), [s. 36(1)](https://www.legislation.gov.uk/ukpga/1990/19/section/36/1), [Sch. 7 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/1990/19/schedule/7/paragraph/3/2/a): [S.I. 1994/2658](https://www.legislation.gov.uk/uksi/1994/2658), [art. 3(d)](https://www.legislation.gov.uk/uksi/1994/2658/article/3/d)
 
@@ -142,4 +142,4 @@ in accordance with the provisions of this Part of this Act;
 
 [^c19246591]: Textual amendment: S. 97(7)(b) substituted (1.4.2003) by Local Government in [Scotland Act 2003 (asp 1)](https://www.legislation.gov.uk/asp/2003/1), [ss. 53(1)](https://www.legislation.gov.uk/asp/2003/1/section/53/1), [62(2)](https://www.legislation.gov.uk/asp/2003/1/section/62/2); [S.S.I. 2003/134](https://www.legislation.gov.uk/ssi/2003/134), [art. 2(1)](https://www.legislation.gov.uk/ssi/2003/134/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2003/134/schedule)
 
-[^key-6d8a6f29d6f6bb60f0406f79053aac42]: Textual amendment: S. 97(7A) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/1)
+[^c-6d8a6f29d6f6bb60f0406f79053aac42]: Textual amendment: S. 97(7A) substituted (1.7.2013) by [The European Union (Amendments in respect of the Accession of Croatia) (Scotland) Regulations 2013 (S.S.I. 2013/177)](https://www.legislation.gov.uk/ssi/2013/177), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2013/177/regulation/1/1), [sch. para. 1](https://www.legislation.gov.uk/ssi/2013/177/schedule/paragraph/1)

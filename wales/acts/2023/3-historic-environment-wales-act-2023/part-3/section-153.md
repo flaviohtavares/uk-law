@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 153. Exercise of power to enter land without warrant[^key-581c13ddd35a517bb0d17b7b2a2d9d14][^key-f945fa18f7ab482c3c0cb3765d7bf980]
+## 153. Exercise of power to enter land without warrant[^c-581c13ddd35a517bb0d17b7b2a2d9d14][^c-f945fa18f7ab482c3c0cb3765d7bf980]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ the person may not carry out the works without the agreement of the appropriate 
 
 ## Annotations
 
-[^key-581c13ddd35a517bb0d17b7b2a2d9d14]: Commencement: S. 153 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-581c13ddd35a517bb0d17b7b2a2d9d14]: Commencement: S. 153 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f945fa18f7ab482c3c0cb3765d7bf980]: Commencement: [S. 153](https://www.legislation.gov.uk/asc/2023/3/section/153) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-f945fa18f7ab482c3c0cb3765d7bf980]: Commencement: [S. 153](https://www.legislation.gov.uk/asc/2023/3/section/153) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

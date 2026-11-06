@@ -27,11 +27,11 @@ summary: ''
 - (a) a body appearing to him to represent the interests of employers, a body appearing to him to represent the interests of employees and a body appearing to him to represent the interests of the self-employed; and
 - (b) the associations established under Part XI or a body appearing to him to represent those associations.
 
-(2A)[^key-8559d4e8219557b0309efceb70b01630] The Lord Chancellor may not appoint a member of the panel unless the appropriate senior judge concurs.
+(2A)[^c-8559d4e8219557b0309efceb70b01630] The Lord Chancellor may not appoint a member of the panel unless the appropriate senior judge concurs.
 
 (3)[^c8319651][^c8319661] The appointment of a person to the panel shall be for such term as may be determined by the Lord Chancellor [^c8319671]. . ..
 
-(4) A member of the panel shall vacate his office on the day on which he attains the age of 75[^key-2de20a0a53adb56aca2ae084ca4d3382].
+(4) A member of the panel shall vacate his office on the day on which he attains the age of 75[^c-2de20a0a53adb56aca2ae084ca4d3382].
 
 (5) There shall be paid to members of the panel such fees, allowances and expenses (if any) as the Secretary of State may determine.
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c8319671]: Textual amendment: Words in s. 91(1)(3) omitted (1.7.1999) by virtue of [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 16](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/16)
 
-[^key-8559d4e8219557b0309efceb70b01630]: Textual amendment: S. 91(2A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 242](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/242); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
+[^c-8559d4e8219557b0309efceb70b01630]: Textual amendment: S. 91(2A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 242](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/242); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(v)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/v)
 
-[^key-2de20a0a53adb56aca2ae084ca4d3382]: Textual amendment: Word in [s. 91(4)](https://www.legislation.gov.uk/ukpga/1996/14/section/91/4) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/27/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-2de20a0a53adb56aca2ae084ca4d3382]: Textual amendment: Word in [s. 91(4)](https://www.legislation.gov.uk/ukpga/1996/14/section/91/4) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/27/3) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))

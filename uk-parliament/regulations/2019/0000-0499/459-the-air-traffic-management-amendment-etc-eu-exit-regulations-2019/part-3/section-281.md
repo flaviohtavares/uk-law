@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 281. Article 7 of Commission Implementing Regulation (EU) No 1207/2011[^key-02c2385c4e80d38dc860e9a66b530549]
+## 281. Article 7 of Commission Implementing Regulation (EU) No 1207/2011[^c-02c2385c4e80d38dc860e9a66b530549]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 7 (associated procedures), in paragraph 3 for “Member States” sub
 
 ## Annotations
 
-[^key-02c2385c4e80d38dc860e9a66b530549]: Commencement: Reg. 281 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-02c2385c4e80d38dc860e9a66b530549]: Commencement: Reg. 281 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

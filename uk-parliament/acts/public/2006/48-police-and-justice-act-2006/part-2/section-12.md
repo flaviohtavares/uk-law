@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Power to stop and search at aerodromes[^key-2d487266e8087209a2b4ff9b05ac3d50]
+## 12. Power to stop and search at aerodromes[^c-2d487266e8087209a2b4ff9b05ac3d50]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ In Part 3 of the Aviation Security Act 1982 (c. 36) (policing of airports), befo
 
 ## Annotations
 
-[^key-2d487266e8087209a2b4ff9b05ac3d50]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/48/section/12) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(j)](https://www.legislation.gov.uk/uksi/2007/709/article/3/j) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-2d487266e8087209a2b4ff9b05ac3d50]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/48/section/12) in force at 1.4.2007 by [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(j)](https://www.legislation.gov.uk/uksi/2007/709/article/3/j) (with [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))

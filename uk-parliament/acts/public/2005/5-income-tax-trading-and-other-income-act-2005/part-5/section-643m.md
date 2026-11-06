@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 643M. Onward gift to settlor or close family member by other recipient[^key-a5736e720e974a79280d1acd6b03bd23][^key-53dd1d32fe87071ab4e6e05e1e106b63]
+## 643M. Onward gift to settlor or close family member by other recipient[^c-a5736e720e974a79280d1acd6b03bd23][^c-53dd1d32fe87071ab4e6e05e1e106b63]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a5736e720e974a79280d1acd6b03bd23]: Textual amendment: [Ss. 643I-643M](https://www.legislation.gov.uk/ukpga/2005/5/section/643I) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 21](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/21), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1) (with [Sch. 12 para. 72](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/72))
+[^c-a5736e720e974a79280d1acd6b03bd23]: Textual amendment: [Ss. 643I-643M](https://www.legislation.gov.uk/ukpga/2005/5/section/643I) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 21](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/21), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1) (with [Sch. 12 para. 72](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/72))
 
-[^key-53dd1d32fe87071ab4e6e05e1e106b63]: Textual amendment: Ss. 643A-643N and cross-heading inserted (with effect in accordance with Sch. 10 para. 21 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11) (with [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/22))
+[^c-53dd1d32fe87071ab4e6e05e1e106b63]: Textual amendment: Ss. 643A-643N and cross-heading inserted (with effect in accordance with Sch. 10 para. 21 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/11) (with [Sch. 10 para. 22](https://www.legislation.gov.uk/ukpga/2018/3/schedule/10/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.18. Service of schedule of arrestment[^key-701a4d4d16f00b46f57375b9bd9b8f71]
+## 2.18. Service of schedule of arrestment[^c-701a4d4d16f00b46f57375b9bd9b8f71]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ and the sheriff officer shall, on the certificate of execution, certify that thi
 
 ## Annotations
 
-[^key-701a4d4d16f00b46f57375b9bd9b8f71]: Commencement: Rule 2.18 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-701a4d4d16f00b46f57375b9bd9b8f71]: Commencement: Rule 2.18 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

@@ -42,11 +42,11 @@ Coming into force
 
 The Department for Communities [^f00001], in exercise of the powers conferred by section 84 of the Houses in Multiple Occupation Act (Northern Ireland) 2016 [^f00002], makes the following Regulations.
 
-## 1. Citation and commencement[^key-da42183d9f8839b59767c1a95b8ed4ff]
+## 1. Citation and commencement[^c-da42183d9f8839b59767c1a95b8ed4ff]
 
 These Regulations may be cited as the Houses in Multiple Occupation (Fees) (Amendment) Regulations (Northern Ireland) 2025 and come into operation on 1st August 2025.
 
-## 2. Amendment of the Houses in Multiple Occupation (Fees) Regulations (Northern Ireland) 2019[^key-9ff71f71c5bb9f8d3aa25b18d77c4eea]
+## 2. Amendment of the Houses in Multiple Occupation (Fees) Regulations (Northern Ireland) 2019[^c-9ff71f71c5bb9f8d3aa25b18d77c4eea]
 
 In regulation 2 (maximum HMO licence application fee) of the Houses in Multiple Occupation (Fees) Regulations (Northern Ireland) 2019[^f00003] for “£45” substitute “£75”.
 
@@ -70,8 +70,8 @@ These Regulations amend the maximum fee per person per annum the council may cha
 
 [^f00002]: Footnote: [2016 c.22 (N.I.)](https://www.legislation.gov.uk/nia/2016/22)
 
-[^key-da42183d9f8839b59767c1a95b8ed4ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1)
+[^c-da42183d9f8839b59767c1a95b8ed4ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1)
 
-[^key-9ff71f71c5bb9f8d3aa25b18d77c4eea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/124/regulation/2) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1)
+[^c-9ff71f71c5bb9f8d3aa25b18d77c4eea]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/124/regulation/2) in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2019 No. 34](https://www.legislation.gov.uk/nisr/2019/34)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Date on which income is treated as paid[^key-569a754ac18b4b7aa8bcd18626c7a5e1]
+## 78. Date on which income is treated as paid[^c-569a754ac18b4b7aa8bcd18626c7a5e1]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ A payment of income to which regulation 76 (calculation of earnings derived from
 
 ## Annotations
 
-[^key-569a754ac18b4b7aa8bcd18626c7a5e1]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2016/219/regulation/78) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-569a754ac18b4b7aa8bcd18626c7a5e1]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2016/219/regulation/78) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

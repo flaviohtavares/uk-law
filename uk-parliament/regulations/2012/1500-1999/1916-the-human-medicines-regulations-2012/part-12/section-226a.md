@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226A. Sale etc by a pharmacist in accordance with a serious shortage protocol[^key-294f6a81d18cdec437513d12c24af734]
+## 226A. Sale etc by a pharmacist in accordance with a serious shortage protocol[^c-294f6a81d18cdec437513d12c24af734]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-294f6a81d18cdec437513d12c24af734]: Textual amendment: Reg. 226A inserted (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.I. 2019/62)](https://www.legislation.gov.uk/uksi/2019/62), [regs. 1](https://www.legislation.gov.uk/uksi/2019/62/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/62/regulation/9) and reg. 226A inserted (N.I.) (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.R. 2019/10)](https://www.legislation.gov.uk/nisr/2019/10), [regs. 1](https://www.legislation.gov.uk/nisr/2019/10/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/10/regulation/9)
+[^c-294f6a81d18cdec437513d12c24af734]: Textual amendment: Reg. 226A inserted (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.I. 2019/62)](https://www.legislation.gov.uk/uksi/2019/62), [regs. 1](https://www.legislation.gov.uk/uksi/2019/62/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/62/regulation/9) and reg. 226A inserted (N.I.) (9.2.2019) by [The Human Medicines (Amendment) Regulations 2019 (S.R. 2019/10)](https://www.legislation.gov.uk/nisr/2019/10), [regs. 1](https://www.legislation.gov.uk/nisr/2019/10/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/10/regulation/9)

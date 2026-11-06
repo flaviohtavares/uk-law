@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Surveillance for avian influenza[^key-359e2a1ed16601ceab652bcb27f3fbde]
+## 7. Surveillance for avian influenza[^c-359e2a1ed16601ceab652bcb27f3fbde]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-359e2a1ed16601ceab652bcb27f3fbde]: Commencement: Reg. 7 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-359e2a1ed16601ceab652bcb27f3fbde]: Commencement: Reg. 7 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

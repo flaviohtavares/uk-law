@@ -41,15 +41,15 @@ Coming into force
 
 The Office for Students, in exercise of the powers conferred by section 42(1) of the Higher Education and Research Act 2017[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-6b0e17303d05e8418515934728d24a51]
+## 1. Citation and commencement[^c-6b0e17303d05e8418515934728d24a51]
 
 This Order may be cited as the Power to Award Degrees etc. (Lamda Limited) Order 2021 and shall come into force on 1st August 2021.
 
-## 2. Competence to grant awards[^key-1fa69d8cde4f38d6e338ee0bf966ba8a]
+## 2. Competence to grant awards[^c-1fa69d8cde4f38d6e338ee0bf966ba8a]
 
 Lamda Limited (registered company number 00364456) is authorised to grant taught awards of the kind mentioned in section 42(2)(a) of the said Act for an indefinite period.
 
-**3.**[^key-20cda5aad0a6f50464659f1ce5f93a74] Lamda Limited may authorise other institutions to grant such awards as specified in paragraph 2 of this Order on its behalf.
+**3.**[^c-20cda5aad0a6f50464659f1ce5f93a74] Lamda Limited may authorise other institutions to grant such awards as specified in paragraph 2 of this Order on its behalf.
 
 Susan Lapworth
 
@@ -71,8 +71,8 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00001]: Footnote: [2017 c.29](https://www.legislation.gov.uk/ukpga/2017/29).
 
-[^key-6b0e17303d05e8418515934728d24a51]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/559/article/1) in force at 1.8.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/559/article/1)
+[^c-6b0e17303d05e8418515934728d24a51]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/559/article/1) in force at 1.8.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/559/article/1)
 
-[^key-1fa69d8cde4f38d6e338ee0bf966ba8a]: Textual amendment: Art. 2 substituted (31.1.2026) by [The Power to Award Degrees etc. (Lamda Limited) (Amendment) Order 2026 (S.I. 2026/29)](https://www.legislation.gov.uk/uksi/2026/29), [arts. 1](https://www.legislation.gov.uk/uksi/2026/29/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/29/article/2/2)
+[^c-1fa69d8cde4f38d6e338ee0bf966ba8a]: Textual amendment: Art. 2 substituted (31.1.2026) by [The Power to Award Degrees etc. (Lamda Limited) (Amendment) Order 2026 (S.I. 2026/29)](https://www.legislation.gov.uk/uksi/2026/29), [arts. 1](https://www.legislation.gov.uk/uksi/2026/29/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/29/article/2/2)
 
-[^key-20cda5aad0a6f50464659f1ce5f93a74]: Commencement: Art. 3 in force at 1.8.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/559/article/1)
+[^c-20cda5aad0a6f50464659f1ce5f93a74]: Commencement: Art. 3 in force at 1.8.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/559/article/1)

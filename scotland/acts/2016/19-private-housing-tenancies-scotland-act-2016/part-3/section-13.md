@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Prohibition on charging for information[^key-874bfcda7ab345864d7a365956522141]
+## 13. Prohibition on charging for information[^c-874bfcda7ab345864d7a365956522141]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The person who is, or is to be, the tenant under a private residential tenancy m
 
 ## Annotations
 
-[^key-874bfcda7ab345864d7a365956522141]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/19/section/13) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-874bfcda7ab345864d7a365956522141]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2016/19/section/13) in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

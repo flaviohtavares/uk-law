@@ -48,7 +48,7 @@ so however that no assessment shall be reduced by virtue of this paragraph.
 
 ### Disablement benefit
 
-**6.** (1)[^key-60753e6b5e1a0856e9637a2823789512] Subject to sub-paragraphs (2) and (3) below, the period to be taken into account by an assessment for the purposes of section 103 above and Part II of Schedule 7 to this Act of the extent of a claimant’s disablement shall be the period (beginning not earlier than the end of the period of 90 days referred to in section 103(6) above and in paragraph 9(3) of that Schedule and limited by reference either to the claimant’s life or to a definite date) during which the claimant has suffered and may be expected to continue to suffer from the relevant loss of faculty.
+**6.** (1)[^c-60753e6b5e1a0856e9637a2823789512] Subject to sub-paragraphs (2) and (3) below, the period to be taken into account by an assessment for the purposes of section 103 above and Part II of Schedule 7 to this Act of the extent of a claimant’s disablement shall be the period (beginning not earlier than the end of the period of 90 days referred to in section 103(6) above and in paragraph 9(3) of that Schedule and limited by reference either to the claimant’s life or to a definite date) during which the claimant has suffered and may be expected to continue to suffer from the relevant loss of faculty.
 
 (2) If on any assessment the condition of the claimant is not such, having regard to the possibility of changes in that condition (whether predictable or not), as to allow of a final assessment being made up to the end of the period provided by sub-paragraph (1) above, then, subject to sub-paragraph (3) below—
 
@@ -80,14 +80,14 @@ but the percentage and the period shall not be specified more particularly than 
 **8.** (1) For the purpose of determining whether a person is entitled—
 
 - (a) to an increase of a disablement pension under section 104 above; or
-- (b)[^key-645dcd537d0033b65cdb36c15de894d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-645dcd537d0033b65cdb36c15de894d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 regulations may provide for the extent of the person’s disablement resulting from the relevant injury or disease to be determined in such manner as may be provided for by the regulations by reference to all disabilities to which that person is subject which result either from the relevant injury or disease or from any other injury or disease in respect of which there fall to be made to the person payments of any of the descriptions listed in sub-paragraph (2) below.
 
 (2) Those payments are payments—
 
 - (a) by way of disablement pension;
-- (b)[^key-d5f416577f44cfdaea2a074af1b5b0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d5f416577f44cfdaea2a074af1b5b0d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in such circumstances as may be prescribed by way of such other benefit as may be prescribed (being benefit in connection with any hostilities or with service as a member of Her Majesty’s forces or of such other organisation as may be specified in the regulations).
 
 ## Annotations
@@ -98,8 +98,8 @@ regulations may provide for the extent of the person’s disablement resulting f
 
 [^c16406071]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/1992/7/schedule/6/paragraph/5) repealed (3.11.2000 for specified purposes and 6.4.2001 otherwise) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 76](https://www.legislation.gov.uk/nisi/1999/3147/article/76), [Sch. 10 Pt. IV](https://www.legislation.gov.uk/nisi/1999/3147/schedule/10/part/IV); [S.R. 2000/332](https://www.legislation.gov.uk/nisr/2000/332), [art. 2(3)(g)(4)(5)](https://www.legislation.gov.uk/nisr/2000/332/article/2/3/g/4/5) (subject to saving in art. 4 of that S.R.)
 
-[^key-60753e6b5e1a0856e9637a2823789512]: Modification: Sch. 6 para. 6(1) modified (6.4.2006) by [The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986 (S.R. 1986/179)](https://www.legislation.gov.uk/nisr/1986/179), [art. 18B(2)(b)](https://www.legislation.gov.uk/nisr/1986/179/article/18B/2/b) (as inserted by [S.R. 2006/96](https://www.legislation.gov.uk/nisr/2006/96), [regs. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2006/96/regulation/2/3))
+[^c-60753e6b5e1a0856e9637a2823789512]: Modification: Sch. 6 para. 6(1) modified (6.4.2006) by [The Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986 (S.R. 1986/179)](https://www.legislation.gov.uk/nisr/1986/179), [art. 18B(2)(b)](https://www.legislation.gov.uk/nisr/1986/179/article/18B/2/b) (as inserted by [S.R. 2006/96](https://www.legislation.gov.uk/nisr/2006/96), [regs. 1](https://www.legislation.gov.uk/nisr/2006/96/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2006/96/regulation/2/3))
 
-[^key-645dcd537d0033b65cdb36c15de894d0]: Textual amendment: [Sch. 6 para. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/6/paragraph/8/1/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-645dcd537d0033b65cdb36c15de894d0]: Textual amendment: [Sch. 6 para. 8(1)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/6/paragraph/8/1/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
 
-[^key-d5f416577f44cfdaea2a074af1b5b0d5]: Textual amendment: [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/6/paragraph/8/2/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)
+[^c-d5f416577f44cfdaea2a074af1b5b0d5]: Textual amendment: [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/1992/7/schedule/6/paragraph/8/2/b) repealed (31.10.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 6](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/6); [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/234/article/3/3)

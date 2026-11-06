@@ -31,7 +31,7 @@ summary: ''
 
 ATOMIC ENERGY AND RADIOACTIVE SUBSTANCES
 
-The British Nuclear Fuels plc (Financial Limit) Order 1987 (revoked)[^key-e517b4e467f03dbfa06d35619ad8540b]
+The British Nuclear Fuels plc (Financial Limit) Order 1987 (revoked)[^c-e517b4e467f03dbfa06d35619ad8540b]
 
 Made
 
@@ -41,13 +41,13 @@ Coming into force
 
 15th May 1987
 
-[^key-e517b4e467f03dbfa06d35619ad8540b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e517b4e467f03dbfa06d35619ad8540b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-e517b4e467f03dbfa06d35619ad8540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e517b4e467f03dbfa06d35619ad8540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e517b4e467f03dbfa06d35619ad8540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e517b4e467f03dbfa06d35619ad8540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,4 +55,4 @@ Coming into force
 
 ## Annotations
 
-[^key-e517b4e467f03dbfa06d35619ad8540b]: Textual amendment: Order revoked by virtue of the substitution of the enabling provision, [1977 c. 7](https://www.legislation.gov.uk/ukpga/1977/7), [s. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1977/7/section/2) (1.9.1989) by [Atomic Energy Act 1989 (c. 7)](https://www.legislation.gov.uk/ukpga/1989/7), [ss. 1](https://www.legislation.gov.uk/ukpga/1989/7/section/1), [7(2)](https://www.legislation.gov.uk/ukpga/1989/7/section/7/2); [S.I. 1989/1317](https://www.legislation.gov.uk/uksi/1989/1317), [art. 2](https://www.legislation.gov.uk/uksi/1989/1317/article/2)
+[^c-e517b4e467f03dbfa06d35619ad8540b]: Textual amendment: Order revoked by virtue of the substitution of the enabling provision, [1977 c. 7](https://www.legislation.gov.uk/ukpga/1977/7), [s. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1977/7/section/2) (1.9.1989) by [Atomic Energy Act 1989 (c. 7)](https://www.legislation.gov.uk/ukpga/1989/7), [ss. 1](https://www.legislation.gov.uk/ukpga/1989/7/section/1), [7(2)](https://www.legislation.gov.uk/ukpga/1989/7/section/7/2); [S.I. 1989/1317](https://www.legislation.gov.uk/uksi/1989/1317), [art. 2](https://www.legislation.gov.uk/uksi/1989/1317/article/2)

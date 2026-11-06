@@ -29,7 +29,7 @@ summary: ''
 - (a) the circumstances of the person have changed materially; or
 - (b) the person puts before the court material information which was not available to it when its decision was made.
 
-(2A)[^key-12b9f72a3e39164348c09ba2dc42a1ec][^c18937771] On receipt of an application under subsection (2), the court must—
+(2A)[^c-12b9f72a3e39164348c09ba2dc42a1ec][^c18937771] On receipt of an application under subsection (2), the court must—
 
 - (a) intimate the application to the prosecutor, and
 - (b) before determining the application, give the prosecutor an opportunity to be heard.
@@ -45,7 +45,7 @@ summary: ''
 (2C) Where this subsection applies the application shall be—
 
 - (a) intimated by the person making it immediately and in writing to the Crown Agent; and
-- (b) determined[^key-14ea4c66ef67a86f186c0d3c1e6d45c0] not less than 7 days after the date of that intimation.
+- (b) determined[^c-14ea4c66ef67a86f186c0d3c1e6d45c0] not less than 7 days after the date of that intimation.
 
 (3) An application under this section, where it relates to the original decision of the court, shall not be made before the fifth day after that decision and, where it relates to a subsequent decision, before the fifteenth day thereafter.
 
@@ -57,8 +57,8 @@ summary: ''
 
 [^c19794661]: Textual amendment: Words in s. 30(02) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 4(1)(b)](https://www.legislation.gov.uk/asp/2007/6/section/4/1/b), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S.I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-12b9f72a3e39164348c09ba2dc42a1ec]: Textual amendment: S. 30(2A)(2AA) substituted for s. 30(2A) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/57/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-12b9f72a3e39164348c09ba2dc42a1ec]: Textual amendment: S. 30(2A)(2AA) substituted for s. 30(2A) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/57/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c18937771]: Textual amendment: S. 30(2A)-(2C) inserted (1.2.2005) by [Criminal Procedure (Amendment) (Scotland) Act 2004 (asp 5)](https://www.legislation.gov.uk/asp/2004/5), [ss. 18(3)](https://www.legislation.gov.uk/asp/2004/5/section/18/3), [27(1)](https://www.legislation.gov.uk/asp/2004/5/section/27/1); [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2](https://www.legislation.gov.uk/ssi/2004/405/article/2) Sch. 1 (subject to arts. 3-5)
 
-[^key-14ea4c66ef67a86f186c0d3c1e6d45c0]: Textual amendment: Word in s. 30(2C)(b) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/57/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-14ea4c66ef67a86f186c0d3c1e6d45c0]: Textual amendment: Word in s. 30(2C)(b) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 57(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/57/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

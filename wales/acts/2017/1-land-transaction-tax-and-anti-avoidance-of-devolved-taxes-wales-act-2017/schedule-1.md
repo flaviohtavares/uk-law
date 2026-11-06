@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — OVERVIEW OF SCHEDULES[^key-3fc9668561ee1609f47dbfc53397fc94]
+## SCHEDULE 1 — OVERVIEW OF SCHEDULES[^c-3fc9668561ee1609f47dbfc53397fc94]
 
 *Extent: E+W*
 
 (as introduced by section 1(2))
 
-[^key-3fc9668561ee1609f47dbfc53397fc94]
+[^c-3fc9668561ee1609f47dbfc53397fc94]
 
 The Schedules to this Act are arranged as follows—
 
@@ -38,4 +38,4 @@ The Schedules to this Act are arranged as follows—
 
 ## Annotations
 
-[^key-3fc9668561ee1609f47dbfc53397fc94]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3fc9668561ee1609f47dbfc53397fc94]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

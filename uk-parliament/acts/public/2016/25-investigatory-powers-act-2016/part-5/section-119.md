@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Persons who may make modifications under section 118[^key-4221f4fd61a2b6dd873c7b3ed3a6a023]
+## 119. Persons who may make modifications under section 118[^c-4221f4fd61a2b6dd873c7b3ed3a6a023]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ Section 122 contains provision about the approval of modifications made in urgen
 
 ## Annotations
 
-[^key-4221f4fd61a2b6dd873c7b3ed3a6a023]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2016/25/section/119) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(i)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/i)
+[^c-4221f4fd61a2b6dd873c7b3ed3a6a023]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2016/25/section/119) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 9(i)](https://www.legislation.gov.uk/uksi/2018/652/regulation/9/i)

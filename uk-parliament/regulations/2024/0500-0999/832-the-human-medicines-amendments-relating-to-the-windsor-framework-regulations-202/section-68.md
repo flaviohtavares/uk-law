@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendment to regulation 101[^key-f8582bce386ee416609f35b880ad4e5a]
+## 68. Amendment to regulation 101[^c-f8582bce386ee416609f35b880ad4e5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 101(3) (defences), for “88” substitute “89”.
 
 ## Annotations
 
-[^key-f8582bce386ee416609f35b880ad4e5a]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2024/832/regulation/68) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f8582bce386ee416609f35b880ad4e5a]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2024/832/regulation/68) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)

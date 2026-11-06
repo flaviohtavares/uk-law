@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97B. Relevant PAYE and apprenticeship levy debts of managed service companies[^key-7d4617430a0049f624fddf2d6c5ac8b1][^key-03d4a568f933d4477a02fb160efd4298]
+## 97B. Relevant PAYE and apprenticeship levy debts of managed service companies[^c-7d4617430a0049f624fddf2d6c5ac8b1][^c-03d4a568f933d4477a02fb160efd4298]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0e089e96d1ea4972091e1c7bfa926560] A managed service company has a relevant PAYE debt or a relevant apprenticeship levy debt if a managed service company must pay an amount of tax or apprenticeship levy for a qualifying period, and—
+(1)[^c-0e089e96d1ea4972091e1c7bfa926560] A managed service company has a relevant PAYE debt or a relevant apprenticeship levy debt if a managed service company must pay an amount of tax or apprenticeship levy for a qualifying period, and—
 
 - (a) in the case of a relevant PAYE debt one of conditions A to E is met, and
 - (b) in the case of a relevant apprenticeship levy debt one of conditions F or G is met.
@@ -30,7 +30,7 @@ summary: ''
 - (a) an amount of tax for a qualifying period has been determined in accordance with regulation 80 (determination of unpaid tax and appeal against determination), and
 - (b) any part of the tax determined has not been paid within 14 days from the date on which the determination became final and conclusive.
 
-(2A)[^key-7e92b89e9f3f02ec1e57bd53f5b63c22] Condition A2 is met if—
+(2A)[^c-7e92b89e9f3f02ec1e57bd53f5b63c22] Condition A2 is met if—
 
 - (a) HMRC serve a notice on an employer under regulation 75A(5) (power of HMRC to issue a notice and certificate in cases where regulation 67B or 67D returns are not made, etc) requiring payment of the amount of tax they consider the employer is liable to pay, and
 - (b) any part of that amount remains unpaid at the end of a period of 14 days beginning with the date on which the notice is prepared.
@@ -57,7 +57,7 @@ summary: ''
 - (b) HM Revenue and Customs make a written demand for payment of that amount of tax, and
 - (c) any part of that amount remains unpaid at the end of a period of 14 days beginning with the date on which the written demand for payment is made.
 
-(7)[^key-34aad9f9625bca6bacdba0c9dd38af4c] Condition F is met if—
+(7)[^c-34aad9f9625bca6bacdba0c9dd38af4c] Condition F is met if—
 
 - (a) an amount of apprenticeship levy for a qualifying period has been assessed in accordance with regulation 147L (assessment of unpaid apprenticeship levy), and
 - (b) any part of the apprenticeship levy assessed has not been paid within 14 days beginning with the date on which the assessment is served.
@@ -70,12 +70,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
 
-[^key-03d4a568f933d4477a02fb160efd4298]: Textual amendment: Words in [reg. 97B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B) heading inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/6/a)
+[^c-03d4a568f933d4477a02fb160efd4298]: Textual amendment: Words in [reg. 97B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B) heading inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/6/a)
 
-[^key-0e089e96d1ea4972091e1c7bfa926560]: Textual amendment: [Reg. 97B(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/1) substituted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/6/b)
+[^c-0e089e96d1ea4972091e1c7bfa926560]: Textual amendment: [Reg. 97B(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/1) substituted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/6/b)
 
-[^key-7e92b89e9f3f02ec1e57bd53f5b63c22]: Textual amendment: [Reg. 97B(2A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/2A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2012/822/regulation/42)
+[^c-7e92b89e9f3f02ec1e57bd53f5b63c22]: Textual amendment: [Reg. 97B(2A)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/2A) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2012/822/regulation/42)
 
-[^key-34aad9f9625bca6bacdba0c9dd38af4c]: Textual amendment: [Reg. 97B(7)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/7)[(8)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/8) added (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/6/c)
+[^c-34aad9f9625bca6bacdba0c9dd38af4c]: Textual amendment: [Reg. 97B(7)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/7)[(8)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/97B/8) added (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [2(6)(c)](https://www.legislation.gov.uk/uksi/2017/414/regulation/2/6/c)

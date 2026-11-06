@@ -31,7 +31,7 @@ summary: ''
 
 social security
 
-The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-be5d537c8f5abbf1196ed7655b1354b6]
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-be5d537c8f5abbf1196ed7655b1354b6]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 1st April 2007
 
-[^key-be5d537c8f5abbf1196ed7655b1354b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be5d537c8f5abbf1196ed7655b1354b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-be5d537c8f5abbf1196ed7655b1354b6]
+## 1. Citation and commencement[^c-be5d537c8f5abbf1196ed7655b1354b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-be5d537c8f5abbf1196ed7655b1354b6]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-be5d537c8f5abbf1196ed7655b1354b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-be5d537c8f5abbf1196ed7655b1354b6]
+## 3. Revocation[^c-be5d537c8f5abbf1196ed7655b1354b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be5d537c8f5abbf1196ed7655b1354b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be5d537c8f5abbf1196ed7655b1354b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be5d537c8f5abbf1196ed7655b1354b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be5d537c8f5abbf1196ed7655b1354b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be5d537c8f5abbf1196ed7655b1354b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/128) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)
+[^c-be5d537c8f5abbf1196ed7655b1354b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/128) revoked (6.4.2009) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/92)](https://www.legislation.gov.uk/nisr/2009/92), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/92/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/92/schedule)

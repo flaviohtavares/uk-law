@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Recovery by parent etc. where child placed and consent withdrawn[^key-de14e95a33dcb26219e01883d3fbb5e6]
+## 32. Recovery by parent etc. where child placed and consent withdrawn[^c-de14e95a33dcb26219e01883d3fbb5e6]
 
 *Extent: E+W*
 
@@ -36,9 +36,9 @@ unless an application is, or has been, made for a placement order and the applic
 
 (4) As soon as a child is returned to an adoption agency under this section, the agency must return the child to the parent or guardian in question.
 
-(5)[^key-94afcab06b92b8eff6668c89001241e7] Where a notice under subsection (2) is given, but—
+(5)[^c-94afcab06b92b8eff6668c89001241e7] Where a notice under subsection (2) is given, but—
 
-- (a)[^key-628d8809e5055b6eacea6c3c63ae12a1] before the notice was given, an application—
+- (a)[^c-628d8809e5055b6eacea6c3c63ae12a1] before the notice was given, an application—
   - (i) for an adoption order (including a Scottish or Northern Irish adoption order),
   - (ii) for a special guardianship order,
   - (iii) for a child arrangements order to which subsection (6) applies, or
@@ -49,17 +49,17 @@ unless an application is, or has been, made for a placement order and the applic
 
 the prospective adopters are not required by virtue of the notice to return the child to the agency unless the court so orders.
 
-(6)[^key-9fda8454cf581e4f59dc663b0aa95c44] A child arrangements order is one to which this subsection applies if it is an order regulating arrangements that consist of, or include, arrangements which relate to either or both of the following—
+(6)[^c-9fda8454cf581e4f59dc663b0aa95c44] A child arrangements order is one to which this subsection applies if it is an order regulating arrangements that consist of, or include, arrangements which relate to either or both of the following—
 
 - (a) with whom a child is to live, and
 - (b) when the child is to live with any person.
 
 ## Annotations
 
-[^key-de14e95a33dcb26219e01883d3fbb5e6]: Commencement: S. 32 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-de14e95a33dcb26219e01883d3fbb5e6]: Commencement: S. 32 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-94afcab06b92b8eff6668c89001241e7]: Modification: S. 32(5) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(h)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/h), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
+[^c-94afcab06b92b8eff6668c89001241e7]: Modification: S. 32(5) applied (with modifications) (30.12.2005) by [The Adoptions with a Foreign Element Regulations 2005 (S.I. 2005/392)](https://www.legislation.gov.uk/uksi/2005/392), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/392/regulation/1/1), [11(1)(h)](https://www.legislation.gov.uk/uksi/2005/392/regulation/11/1/h), [52](https://www.legislation.gov.uk/uksi/2005/392/regulation/52), [55](https://www.legislation.gov.uk/uksi/2005/392/regulation/55)
 
-[^key-628d8809e5055b6eacea6c3c63ae12a1]: Textual amendment: S. 32(5)(a)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 63(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/63/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-628d8809e5055b6eacea6c3c63ae12a1]: Textual amendment: S. 32(5)(a)(b) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 63(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/63/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-9fda8454cf581e4f59dc663b0aa95c44]: Textual amendment: S. 32(6) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 63(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/63/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-9fda8454cf581e4f59dc663b0aa95c44]: Textual amendment: S. 32(6) inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 63(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/63/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

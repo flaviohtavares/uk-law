@@ -80,7 +80,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 3 — Amendment of subordinate legislation: European Union (Withdrawal) Act 2018
 
-### 3. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007[^key-6924452d6fbfe6c06a30961fb6ae1882]
+### 3. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007[^c-6924452d6fbfe6c06a30961fb6ae1882]
 
 (1) The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 [^c23440051] are amended as follows.
 
@@ -133,7 +133,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   ;
 - (c) in paragraph (5)—
   - (i) for “another”, substitute “ a ”;
-  - (ii) for “requires”, substitute “ required before IP completion day[^key-9189d94301e89a0568748cad6cd821e8] ”.
+  - (ii) for “requires”, substitute “ required before IP completion day[^c-9189d94301e89a0568748cad6cd821e8] ”.
 
 (6) After Schedule 1, insert—
 
@@ -283,7 +283,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 .
 
-### 4. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008[^key-da2b58c77e768e21c54d9ee50e4cbce7]
+### 4. Amendment of the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008[^c-da2b58c77e768e21c54d9ee50e4cbce7]
 
 (1) The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 are amended as follows.
 
@@ -339,7 +339,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   ;
 - (c) in paragraph (5)—
   - (i) for “another”, substitute “ a ”;
-  - (ii) for “requires”, substitute “ required before IP completion day[^key-20203033fd31a4b2070e8fb2de259f9a] ”;
+  - (ii) for “requires”, substitute “ required before IP completion day[^c-20203033fd31a4b2070e8fb2de259f9a] ”;
 - (d) in paragraph (6), for “another”, substitute “ a ”.
 
 (7) After Schedule 1, insert—
@@ -492,7 +492,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 4 — Amendments to retained direct EU legislation
 
-### 5. Amendment of Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952)[^key-be49a5884b940c8c87699d7ff2d5f34d]
+### 5. Amendment of Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952)[^c-be49a5884b940c8c87699d7ff2d5f34d]
 
 (1) Commission Decision [2008/952/EC](https://www.legislation.gov.uk/eud/2008/952) of 19 November 2008 establishing detailed guidelines for the implementation and application of Annex II to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8) of the European Parliament and of the Council is amended as follows.
 
@@ -510,7 +510,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 - (f) in paragraph 8.1, for “Annex II to Directive [2004/8/EC](https://www.legislation.gov.uk/eudr/2004/8)”, substitute “ paragraph 1 of Schedule 4 to the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations 2007 or the Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration Regulations (Northern Ireland) 2008 (as applicable) ”;
 - (g) in paragraph 8.2, for “each Member State as referred to in Article 5 of the Directive”, substitute “ in respect of Great Britain, the Secretary of State, and in respect of Northern Ireland, the Department for the Economy ”.
 
-### 6. Amendment of Commission Delegated Regulation (EU) 2015/2402[^key-bbef70758b9c2d33c40ea8810f74d66b]
+### 6. Amendment of Commission Delegated Regulation (EU) 2015/2402[^c-bbef70758b9c2d33c40ea8810f74d66b]
 
 (1) Commission Delegated Regulation (EU) 2015/2402 of 12 October 2015 reviewing harmonised efficiency reference values for separate production of electricity and heat in application of Directive 2012/27/EU of the European Parliament and of the Council and repealing Commission Implementing Decision 2011/877/EU is amended as follows.
 
@@ -583,7 +583,7 @@ The net costs imposed on business, the voluntary sector and the public sector by
 
 [^c23440041]: Marginal citation: Available online at https://www.gov.uk/combined-heat-power-quality-assurance-programme or available from the CHPQA Administrator by telephoning 01235 753004 or emailing chpqainfo@chpqa.com.
 
-[^key-6924452d6fbfe6c06a30961fb6ae1882]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6924452d6fbfe6c06a30961fb6ae1882]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23440051]: Marginal citation: [S.I. 2007/292](https://www.legislation.gov.uk/uksi/2007/292), as amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), 2014/1403, 2016/992 and 2016/1108.
 
@@ -595,9 +595,9 @@ The net costs imposed on business, the voluntary sector and the public sector by
 
 [^c23440091]: Marginal citation: S.R. [2008 No. 287](https://www.legislation.gov.uk/ukcm/2008/287), as amended by S.R. [2014 No. 284](https://www.legislation.gov.uk/ukcm/2014/284).
 
-[^key-9189d94301e89a0568748cad6cd821e8]: Textual amendment: Words in [reg. 3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/3/5/c/ii) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/2)
+[^c-9189d94301e89a0568748cad6cd821e8]: Textual amendment: Words in [reg. 3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/3/5/c/ii) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/2)
 
-[^key-da2b58c77e768e21c54d9ee50e4cbce7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-da2b58c77e768e21c54d9ee50e4cbce7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23440101]: Marginal citation: Available online at https://www.gov.uk/combined-heat-power-quality-assurance-programme or available from the CHPQA Administrator by telephoning 01235 753004 or emailing chpqainfo@chpqa.com.
 
@@ -607,12 +607,12 @@ The net costs imposed on business, the voluntary sector and the public sector by
 
 [^c23440131]: Marginal citation: [S.I. 2007/292](https://www.legislation.gov.uk/uksi/2007/292), as amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229), 2014/1403 and 2016/992 and 1108.
 
-[^key-20203033fd31a4b2070e8fb2de259f9a]: Textual amendment: Words in [reg. 4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/ii) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/3)
+[^c-20203033fd31a4b2070e8fb2de259f9a]: Textual amendment: Words in [reg. 4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1206/regulation/4/6/c/ii) substituted (31.12.2020 immediately before IP completion day) by [The Guarantees of Origin of Electricity Produced from High-efficiency Cogeneration and Renewables Obligation (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/849)](https://www.legislation.gov.uk/uksi/2020/849), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/849/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/849/regulation/2/3)
 
-[^key-be49a5884b940c8c87699d7ff2d5f34d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-be49a5884b940c8c87699d7ff2d5f34d]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23440141]: Marginal citation: Schedule 3 is inserted into each of the respective Regulations by regulation 2(6) and 3(7) of these Regulations.
 
 [^c23440151]: Marginal citation: Schedule 4 is inserted into each of the respective Regulations by regulation 2(6) and 3(7) of these Regulations.
 
-[^key-bbef70758b9c2d33c40ea8810f74d66b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bbef70758b9c2d33c40ea8810f74d66b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

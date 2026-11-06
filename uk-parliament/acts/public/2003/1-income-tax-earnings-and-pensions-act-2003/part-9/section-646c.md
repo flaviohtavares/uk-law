@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 646C. Registered schemes: beneficiaries' annuities from drawdown funds[^key-6e63a90e057898465e2546c0c91a1018]
+## 646C. Registered schemes: beneficiaries' annuities from drawdown funds[^c-6e63a90e057898465e2546c0c91a1018]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ subsection (1) does not exempt payments to the person of a dependants' short-ter
 
 ## Annotations
 
-[^key-6e63a90e057898465e2546c0c91a1018]: Textual amendment: Ss. 646B-646F inserted (with effect in accordance with Sch. 4 para. 17(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 17(1)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/17/1)
+[^c-6e63a90e057898465e2546c0c91a1018]: Textual amendment: Ss. 646B-646F inserted (with effect in accordance with Sch. 4 para. 17(2) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 4 para. 17(1)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/4/paragraph/17/1)

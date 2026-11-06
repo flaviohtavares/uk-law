@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, commencement and extent[^key-b49b32d2a0a34ac4d49d872ae751622d]
+## 1. Citation, commencement and extent[^c-b49b32d2a0a34ac4d49d872ae751622d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b49b32d2a0a34ac4d49d872ae751622d]: Commencement: Art. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b49b32d2a0a34ac4d49d872ae751622d]: Commencement: Art. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00003]: Footnote: For the meaning of “modifications”, *see* section 158(1) of the Government of Wales Act 2006.
 

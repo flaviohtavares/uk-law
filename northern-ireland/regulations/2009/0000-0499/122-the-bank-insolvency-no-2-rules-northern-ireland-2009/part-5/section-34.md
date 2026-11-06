@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Report by bank liquidator[^key-60be6d2b224a3f7dffff74de3c26e953]
+## 34. Report by bank liquidator[^c-60be6d2b224a3f7dffff74de3c26e953]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60be6d2b224a3f7dffff74de3c26e953]: Commencement: Rule 34 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-60be6d2b224a3f7dffff74de3c26e953]: Commencement: Rule 34 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

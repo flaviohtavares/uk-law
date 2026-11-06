@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Interpretation of Part[^key-8d796f73d050a79c9c81a2a55c87b6c0]
+## 25. Interpretation of Part[^c-8d796f73d050a79c9c81a2a55c87b6c0]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d796f73d050a79c9c81a2a55c87b6c0]: Commencement: S. 25 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-8d796f73d050a79c9c81a2a55c87b6c0]: Commencement: S. 25 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

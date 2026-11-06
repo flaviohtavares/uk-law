@@ -28,17 +28,17 @@ Section 43.
 
 ### Disapplication of enactments in the case of the Concessionaires and through service operators
 
-**2.**[^key-b52576e6949a62de91f9ce254f0a41c2] Section[^c7870091] 4 (duty of railway company to make returns of overtime worked by certain employees) [^c7870101]. . . of the [^c7870111]Regulation of Railways Act 1889 and the [^c7870121]Railway Companies (Accounts and Returns) Act 1911 shall not apply to the Concessionaires or to any through service operator.
+**2.**[^c-b52576e6949a62de91f9ce254f0a41c2] Section[^c7870091] 4 (duty of railway company to make returns of overtime worked by certain employees) [^c7870101]. . . of the [^c7870111]Regulation of Railways Act 1889 and the [^c7870121]Railway Companies (Accounts and Returns) Act 1911 shall not apply to the Concessionaires or to any through service operator.
 
 ### Extension of enactments in relation to through service operators
 
-**3.**[^key-ef03483ccb91196aea46f3b871d04839] In the following enactments, the expressions “**company**” and “**railway company**” shall be treated as including (in so far as they do not already do so) any through service operator—
+**3.**[^c-ef03483ccb91196aea46f3b871d04839] In the following enactments, the expressions “**company**” and “**railway company**” shall be treated as including (in so far as they do not already do so) any through service operator—
 
 section 16 of the [^c7870161]Railway Regulation Act 1840 (obstruction of officers of railway company);
 
 sections 22 (provision and improper use of means of communication) and 25 (arbitration of compensation for railway accidents) of the [^c7870171]Regulation of Railways Act 1868;
 
-sections 3 and 4 (inspection of railways) and 6[^c7870181][^key-e63c38ffae23a8352b306650f84bef93]...returns of and [^key-e63c38ffae23a8352b306650f84bef93]... of the Regulation of Railways Act 1871;
+sections 3 and 4 (inspection of railways) and 6[^c7870181][^c-e63c38ffae23a8352b306650f84bef93]...returns of and [^c-e63c38ffae23a8352b306650f84bef93]... of the Regulation of Railways Act 1871;
 
 sections 1(1)(c) (power of Secretary of State to make orders in relation to the provision and use of brakes on passenger trains) and 5 (penalty for avoiding payment of fare) of the Regulation of Railways Act 1889; and
 
@@ -46,7 +46,7 @@ section 43 of the [^c7870211]Road and Rail Traffic Act 1933 (which modifes secti
 
 ### Modification of enactments applying to Concessionaires and through service operators
 
-**4.**[^key-834b30e7994478c3ea482b290d345aa1] (1) In their application to—
+**4.**[^c-834b30e7994478c3ea482b290d345aa1] (1) In their application to—
 
 - (a) the Concessionaires or any through service operator;
 - (b) any railway of the Concessionaires or any station or other works or premises connected therewith; or
@@ -89,7 +89,7 @@ The Table
 
 [^c7870061]: Marginal citation: [1871 c. 78](https://www.legislation.gov.uk/ukpga/1871/78).
 
-[^key-b52576e6949a62de91f9ce254f0a41c2]: Modification: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/2) applied (E.W.S.) (28.11.2005) by [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/3049/regulation/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
+[^c-b52576e6949a62de91f9ce254f0a41c2]: Modification: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/2) applied (E.W.S.) (28.11.2005) by [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/3049/regulation/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
 
 [^c7870091]: Textual amendment: Word in [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/2) substituted (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [ss. 150(1)(o)](https://www.legislation.gov.uk/ukpga/1993/43/section/150/1/o), [152(1)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/1), [Sch. 12 para. 27](https://www.legislation.gov.uk/ukpga/1993/43/schedule/12/paragraph/27); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
@@ -99,7 +99,7 @@ The Table
 
 [^c7870121]: Marginal citation: [1911 c. 34](https://www.legislation.gov.uk/ukpga/1911/34).
 
-[^key-ef03483ccb91196aea46f3b871d04839]: Modification: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/3) applied (E.W.S.) (28.11.2005) by [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/3049/regulation/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
+[^c-ef03483ccb91196aea46f3b871d04839]: Modification: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/3) applied (E.W.S.) (28.11.2005) by [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/3049/regulation/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
 
 [^c7870161]: Marginal citation: [1840 c. 97](https://www.legislation.gov.uk/ukpga/1840/97).
 
@@ -107,11 +107,11 @@ The Table
 
 [^c7870181]: Textual amendment: Words in Sch. 6 para. 3 repealed (E.W.S.)(1.4.1994) by [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [s. 68(1)](https://www.legislation.gov.uk/ukpga/1992/42/section/68/1), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1992/42/schedule/4/part/I); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5)
 
-[^key-e63c38ffae23a8352b306650f84bef93]: Textual amendment: Words in Sch. 6 para. 3 repealed (7.6.2005) by virtue of [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-e63c38ffae23a8352b306650f84bef93]: Textual amendment: Words in Sch. 6 para. 3 repealed (7.6.2005) by virtue of [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
 
 [^c7870211]: Marginal citation: [1933 c. 53](https://www.legislation.gov.uk/ukpga/1933/53).
 
-[^key-834b30e7994478c3ea482b290d345aa1]: Modification: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/4) applied (E.W.S.) (28.11.2005) by [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/3049/regulation/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
+[^c-834b30e7994478c3ea482b290d345aa1]: Modification: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/1987/53/schedule/6/paragraph/4) applied (E.W.S.) (28.11.2005) by [Railways Infrastructure (Access and Management) Regulations 2005 (S.I. 2005/3049)](https://www.legislation.gov.uk/uksi/2005/3049), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3049/regulation/1/1), [34](https://www.legislation.gov.uk/uksi/2005/3049/regulation/34) (with [reg. 4](https://www.legislation.gov.uk/uksi/2005/3049/regulation/4))
 
 [^c7870221]: Marginal citation: [1840 c. 97](https://www.legislation.gov.uk/ukpga/1840/97).
 

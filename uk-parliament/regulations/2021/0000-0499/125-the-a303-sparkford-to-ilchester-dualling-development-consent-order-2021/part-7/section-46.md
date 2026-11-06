@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Removal of human remains[^key-81a6805501a31e1b724358c28e2d085d]
+## 46. Removal of human remains[^c-81a6805501a31e1b724358c28e2d085d]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ subject to paragraph (10) the undertaker is to remove the remains and cause them
 
 ## Annotations
 
-[^key-81a6805501a31e1b724358c28e2d085d]: Commencement: Art. 46 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-81a6805501a31e1b724358c28e2d085d]: Commencement: Art. 46 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
 
 [^c24442711]: Marginal citation: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the [Church of England (Miscellaneous Provisions) 2014 (2014 No. 1)](https://www.legislation.gov.uk/ukpga/2014) and amended by section 96(1) of and paragraph 1 in Schedule 3 to, the [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (2018 No. 3)](https://www.legislation.gov.uk/ukpga/2018).

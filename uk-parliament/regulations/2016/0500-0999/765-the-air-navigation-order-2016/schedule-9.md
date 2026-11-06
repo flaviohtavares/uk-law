@@ -44,7 +44,7 @@ Articles 114(2) and (3), 116(5) and 117(4)
 - (p) Emergency flight procedures, including procedures for the instruction of passengers in the position and use of emergency equipment and procedures to be adopted when the pilot in command of the aircraft becomes aware that another aircraft or a vessel is in distress and needs assistance.
 - (q) In the case of aircraft intended to fly at an altitude of more than 49,000 feet the procedures for the use of cosmic radiation detection equipment.
 - (r) The labelling and marking of dangerous goods, the manner in which the dangerous goods must be loaded on or suspended beneath an aircraft, the responsibilities of members of the crew for the carriage of dangerous goods and the action to be taken in the event of emergencies arising involving dangerous goods.
-- (s) Such detailed information about any permission granted to the operator under article 78A(2)[^key-63190c5194acca675854d7f884cc1c6b] as may be necessary to enable the pilot in command of the aircraft to determine whether article 69(8)(b) can be complied with.
+- (s) Such detailed information about any permission granted to the operator under article 78A(2)[^c-63190c5194acca675854d7f884cc1c6b] as may be necessary to enable the pilot in command of the aircraft to determine whether article 69(8)(b) can be complied with.
 - (t) Procedures for the operation of any airborne collision avoidance system carried on the aircraft.
 - (u) The establishment and maintenance of an accident prevention and flight safety programme.
 - (v) In the case of a helicopter, the maximum approved passenger seating configuration.
@@ -210,4 +210,4 @@ For the purposes of this Part—
 
 ## Annotations
 
-[^key-63190c5194acca675854d7f884cc1c6b]: Textual amendment: Word in Sch. 9 Pt. 1 para. 1(s) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [47](https://www.legislation.gov.uk/uksi/2017/1112/article/47)
+[^c-63190c5194acca675854d7f884cc1c6b]: Textual amendment: Word in Sch. 9 Pt. 1 para. 1(s) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [47](https://www.legislation.gov.uk/uksi/2017/1112/article/47)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Enforcers[^key-14cb375b5937acd285e214772a8b3b2d][^key-83027f0aeaf832fa822240bf81a75213]
+## 151. Enforcers[^c-14cb375b5937acd285e214772a8b3b2d][^c-83027f0aeaf832fa822240bf81a75213]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,10 +30,10 @@ summary: ''
 - (f) the Gas and Electricity Markets Authority;
 - (g) the Department of Health in Northern Ireland;
 - (h) the Department for Infrastructure in Northern Ireland;
-- (ha)[^key-114aaa46252e98d3e6bca3faf1e7e854] every district council in Northern Ireland;
+- (ha)[^c-114aaa46252e98d3e6bca3faf1e7e854] every district council in Northern Ireland;
 - (i) the Northern Ireland Authority for Utility Regulation;
 - (j) an enforcement authority within the meaning of section 120(15) of the Communications Act 2003 (regulation of premium rate services);
-- (k) the Information Commission[^key-a5cdeea7543355afc113b8438e35c940];
+- (k) the Information Commission[^c-a5cdeea7543355afc113b8438e35c940];
 - (l) the Maritime and Coastguard Agency;
 - (m) the Office of Communications;
 - (n) the Office of Rail and Road;
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-14cb375b5937acd285e214772a8b3b2d]: Commencement: S. 151 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-14cb375b5937acd285e214772a8b3b2d]: Commencement: S. 151 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-83027f0aeaf832fa822240bf81a75213]: Commencement: S. 151 in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-83027f0aeaf832fa822240bf81a75213]: Commencement: S. 151 in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
 
-[^key-114aaa46252e98d3e6bca3faf1e7e854]: Textual amendment: [S. 151(1)(ha)](https://www.legislation.gov.uk/ukpga/2024/13/section/151/1/ha) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 32(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/32/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-114aaa46252e98d3e6bca3faf1e7e854]: Textual amendment: [S. 151(1)(ha)](https://www.legislation.gov.uk/ukpga/2024/13/section/151/1/ha) inserted (29.10.2026) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 14 para. 32(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/32/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
-[^key-a5cdeea7543355afc113b8438e35c940]: Textual amendment: Words in s. 151(1)(k) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 27(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-a5cdeea7543355afc113b8438e35c940]: Textual amendment: Words in s. 151(1)(k) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 27(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/27/2/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Hot pursuit of ships in England and Wales waters[^c22719341][^key-78f9453c2a85a0fbe72d74c24ad95109]
+## 98. Hot pursuit of ships in England and Wales waters[^c22719341][^c-78f9453c2a85a0fbe72d74c24ad95109]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ changes during the course of the pursuit.
 
 [^c22719341]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/3/section/98) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-78f9453c2a85a0fbe72d74c24ad95109]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/3/section/98) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)
+[^c-78f9453c2a85a0fbe72d74c24ad95109]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2017/3/section/98) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/227/article/2/e)

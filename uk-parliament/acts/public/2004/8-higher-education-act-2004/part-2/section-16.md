@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Termination of designation[^key-50e0eda9dce353684d526ed7c6879c86][^key-b60b2aa5c895d872ac422a13093eedb7]
+## 16. Termination of designation[^c-50e0eda9dce353684d526ed7c6879c86][^c-b60b2aa5c895d872ac422a13093eedb7]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50e0eda9dce353684d526ed7c6879c86]: Commencement: S. 16 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
+[^c-50e0eda9dce353684d526ed7c6879c86]: Commencement: S. 16 in force for E. at 1.11.2004 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 2](https://www.legislation.gov.uk/uksi/2004/2781/article/2)
 
-[^key-b60b2aa5c895d872ac422a13093eedb7]: Commencement: S. 16 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)
+[^c-b60b2aa5c895d872ac422a13093eedb7]: Commencement: S. 16 in force for W. at 1.12.2004 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/1)

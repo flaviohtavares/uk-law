@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Transportable Pressure Vessels Regulations (Northern Ireland) 2003 (revoked)[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]
+Transportable Pressure Vessels Regulations (Northern Ireland) 2003 (revoked)[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]
 
 Made
 
@@ -47,11 +47,11 @@ remaining regulations
 
 1st December 2003
 
-[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — PRELIMINARY[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]
+### PART 1 — PRELIMINARY[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]
 
 *Extent: N.I.*
 
@@ -61,7 +61,7 @@ remaining regulations
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Application](part-1/section-3.md)
 
-### PART 2 — GENERAL REQUIREMENTS[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]
+### PART 2 — GENERAL REQUIREMENTS[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]
 
 *Extent: N.I.*
 
@@ -76,7 +76,7 @@ remaining regulations
 - [Section 10 — Appointment of notified bodies and approved bodies by the Executive](part-2/section-10.md)
 - [Section 11 — Conformity marking](part-2/section-11.md)
 
-### PART 3 — MISCELLANEOUS[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]
+### PART 3 — MISCELLANEOUS[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]
 
 *Extent: N.I.*
 
@@ -99,14 +99,14 @@ remaining regulations
 
 **No longer in force.**
 
-[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7e4b9fcae8789f8fef8c2a07d3d49fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/386) revoked (1.8.2006) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (S.R. 2006/173)](https://www.legislation.gov.uk/nisr/2006/173), [reg. 1](https://www.legislation.gov.uk/nisr/2006/173/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/173/schedule/14) (with [reg. 56](https://www.legislation.gov.uk/nisr/2006/173/regulation/56))
+[^c-b7e4b9fcae8789f8fef8c2a07d3d49fe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/386) revoked (1.8.2006) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations (Northern Ireland) 2006 (S.R. 2006/173)](https://www.legislation.gov.uk/nisr/2006/173), [reg. 1](https://www.legislation.gov.uk/nisr/2006/173/regulation/1), [Sch. 14](https://www.legislation.gov.uk/nisr/2006/173/schedule/14) (with [reg. 56](https://www.legislation.gov.uk/nisr/2006/173/regulation/56))

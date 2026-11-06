@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Beef Special Premium Regulations 1996 (revoked)[^key-61a28c5521c50d5df012e4b90ee380e0]
+The Beef Special Premium Regulations 1996 (revoked)[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 Made
 
@@ -44,112 +44,112 @@ Coming into force
 
 1st January 1997
 
-[^key-61a28c5521c50d5df012e4b90ee380e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61a28c5521c50d5df012e4b90ee380e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, extent and commencement[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 1. Citation, extent and commencement[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 2. Interpretation[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2A.[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 2A.[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. National administrative documents[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 3. National administrative documents[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Sale of specified animals[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 4. Sale of specified animals[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Loss, theft or export of animal[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 5. Loss, theft or export of animal[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Slaughter and death of animal[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 5A. Slaughter and death of animal[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Replacement of national administrative documents[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 6. Replacement of national administrative documents[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Applications for first premium[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 7. Applications for first premium[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Applications for second premium[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 8. Applications for second premium[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Applications for bull premium[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 9. Applications for bull premium[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Commencement of retention period[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 10. Commencement of retention period[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Overgrazing[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 11. Overgrazing[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Unsuitable supplementary feeding methods[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 12. Unsuitable supplementary feeding methods[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Retention of records[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 13. Retention of records[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Powers of authorised persons[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 14. Powers of authorised persons[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Assistance to authorised persons[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 15. Assistance to authorised persons[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Recovery of Community premium and additional amounts[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 16. Recovery of Community premium and additional amounts[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Rate of interest[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 17. Rate of interest[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Offences[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 18. Offences[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Punishment of offences[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 19. Punishment of offences[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Time limit for prosecutions[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 20. Time limit for prosecutions[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. Offences by bodies corporate[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 21. Offences by bodies corporate[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 22. Revocations[^key-61a28c5521c50d5df012e4b90ee380e0]
+## 22. Revocations[^c-61a28c5521c50d5df012e4b90ee380e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61a28c5521c50d5df012e4b90ee380e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61a28c5521c50d5df012e4b90ee380e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61a28c5521c50d5df012e4b90ee380e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61a28c5521c50d5df012e4b90ee380e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61a28c5521c50d5df012e4b90ee380e0]: Textual amendment: Regulations revoked with savings (E.W.) (15.8.2001) by [The Beef Special Premium Regulations 2001 (S.I. 2001/2503)](https://www.legislation.gov.uk/uksi/2001/2503), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2503/regulation/1), [23(1)](https://www.legislation.gov.uk/uksi/2001/2503/regulation/23/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2001/2503/regulation/3), [23(2)](https://www.legislation.gov.uk/uksi/2001/2503/regulation/23/2)); and revoked with savings (S.) (1.1.2002) by [The Beef Special Premium (Scotland) Regulations 2001 (S.S.I. 2001/445)](https://www.legislation.gov.uk/ssi/2001/445), [regs. 1](https://www.legislation.gov.uk/ssi/2001/445/regulation/1), [26(1)(a)](https://www.legislation.gov.uk/ssi/2001/445/regulation/26/1/a) (with [reg. 26(2)](https://www.legislation.gov.uk/ssi/2001/445/regulation/26/2))
+[^c-61a28c5521c50d5df012e4b90ee380e0]: Textual amendment: Regulations revoked with savings (E.W.) (15.8.2001) by [The Beef Special Premium Regulations 2001 (S.I. 2001/2503)](https://www.legislation.gov.uk/uksi/2001/2503), [regs. 1](https://www.legislation.gov.uk/uksi/2001/2503/regulation/1), [23(1)](https://www.legislation.gov.uk/uksi/2001/2503/regulation/23/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2001/2503/regulation/3), [23(2)](https://www.legislation.gov.uk/uksi/2001/2503/regulation/23/2)); and revoked with savings (S.) (1.1.2002) by [The Beef Special Premium (Scotland) Regulations 2001 (S.S.I. 2001/445)](https://www.legislation.gov.uk/ssi/2001/445), [regs. 1](https://www.legislation.gov.uk/ssi/2001/445/regulation/1), [26(1)(a)](https://www.legislation.gov.uk/ssi/2001/445/regulation/26/1/a) (with [reg. 26(2)](https://www.legislation.gov.uk/ssi/2001/445/regulation/26/2))

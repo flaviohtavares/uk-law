@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Land required as service area for special road: compensation in certain cases of compulsory acquisition.[^key-2347b0a943bf612c9cc3edcbde338175]
+## 139. Land required as service area for special road: compensation in certain cases of compulsory acquisition.[^c-2347b0a943bf612c9cc3edcbde338175]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2347b0a943bf612c9cc3edcbde338175]: Textual amendment: S. 139 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-2347b0a943bf612c9cc3edcbde338175]: Textual amendment: S. 139 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

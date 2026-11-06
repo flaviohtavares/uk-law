@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.128. Leave to resign granted by the court[^key-5e1ee1495cbb00ce1b811525e2eaaa64]
+## 6.128. Leave to resign granted by the court[^c-5e1ee1495cbb00ce1b811525e2eaaa64]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5e1ee1495cbb00ce1b811525e2eaaa64]: Commencement: [Rule 6.128](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.128) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5e1ee1495cbb00ce1b811525e2eaaa64]: Commencement: [Rule 6.128](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.128) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00166]: Marginal citation: \[FORM 6.45\]
 

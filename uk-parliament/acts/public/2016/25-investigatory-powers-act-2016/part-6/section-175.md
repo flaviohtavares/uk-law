@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Chapter 2: interpretation[^key-c40dd0239bc0d77830a6d7e46c612aab]
+## 175. Chapter 2: interpretation[^c-c40dd0239bc0d77830a6d7e46c612aab]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c40dd0239bc0d77830a6d7e46c612aab]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2016/25/section/175) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/h)
+[^c-c40dd0239bc0d77830a6d7e46c612aab]: Commencement: [S. 175](https://www.legislation.gov.uk/ukpga/2016/25/section/175) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/h)

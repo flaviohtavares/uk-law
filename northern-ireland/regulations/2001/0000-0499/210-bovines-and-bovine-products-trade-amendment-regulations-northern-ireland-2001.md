@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Bovines and Bovine Products (Trade) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-e19e18c6e420a292ea42383c08f86dbb]
+Bovines and Bovine Products (Trade) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-e19e18c6e420a292ea42383c08f86dbb]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 21st June 2001
 
-[^key-e19e18c6e420a292ea42383c08f86dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19e18c6e420a292ea42383c08f86dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e19e18c6e420a292ea42383c08f86dbb]
+## 1. Citation and commencement[^c-e19e18c6e420a292ea42383c08f86dbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e19e18c6e420a292ea42383c08f86dbb]
+## 2. Interpretation[^c-e19e18c6e420a292ea42383c08f86dbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1999[^key-e19e18c6e420a292ea42383c08f86dbb]
+## 3. Amendments to the Bovines and Bovine Products (Trade) Regulations (Northern Ireland) 1999[^c-e19e18c6e420a292ea42383c08f86dbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e19e18c6e420a292ea42383c08f86dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19e18c6e420a292ea42383c08f86dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e19e18c6e420a292ea42383c08f86dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19e18c6e420a292ea42383c08f86dbb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e19e18c6e420a292ea42383c08f86dbb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/210) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule)
+[^c-e19e18c6e420a292ea42383c08f86dbb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/210) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule)

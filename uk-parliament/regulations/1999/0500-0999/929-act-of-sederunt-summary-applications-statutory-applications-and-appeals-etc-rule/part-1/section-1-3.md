@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.3. Revocation[^key-ba945e839b72cef2a160e7d7fe20c770]
+## 1.3. Revocation[^c-ba945e839b72cef2a160e7d7fe20c770]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Acts of Sederunt mentioned in column (1) of Schedule 2 to this Act of Sederu
 
 ## Annotations
 
-[^key-ba945e839b72cef2a160e7d7fe20c770]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/uksi/1999/929/rule/1.3) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-ba945e839b72cef2a160e7d7fe20c770]: Commencement: [Rule 1.3](https://www.legislation.gov.uk/uksi/1999/929/rule/1.3) in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

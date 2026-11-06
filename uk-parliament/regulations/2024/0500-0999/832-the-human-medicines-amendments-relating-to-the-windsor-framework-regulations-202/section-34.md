@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment to regulation 51[^key-94d655ed211c9f88d90b57feb23a125f]
+## 34. Amendment to regulation 51[^c-94d655ed211c9f88d90b57feb23a125f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 51 (application for UKMA(NI) relating to generic medicinal product
 
 ## Annotations
 
-[^key-94d655ed211c9f88d90b57feb23a125f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2024/832/regulation/34) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-94d655ed211c9f88d90b57feb23a125f]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2024/832/regulation/34) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00045]: Footnote: Regulation 51 was substituted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 218. Transitional provisions[^key-1dd33cbcbbcb857c89da37ba45836022]
+## 218. Transitional provisions[^c-1dd33cbcbbcb857c89da37ba45836022]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 4 (transitional provisions) has effect.
 
 ## Annotations
 
-[^key-1dd33cbcbbcb857c89da37ba45836022]: Commencement: Reg. 218 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1dd33cbcbbcb857c89da37ba45836022]: Commencement: Reg. 218 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

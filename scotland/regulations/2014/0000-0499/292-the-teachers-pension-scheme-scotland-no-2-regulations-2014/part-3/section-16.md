@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Meaning of “irregular employment”[^key-ea960a5e5d0891b05bd39806959b193d]
+## 16. Meaning of “irregular employment”[^c-ea960a5e5d0891b05bd39806959b193d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea960a5e5d0891b05bd39806959b193d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/292/regulation/16) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-ea960a5e5d0891b05bd39806959b193d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/292/regulation/16) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

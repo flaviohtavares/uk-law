@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Traffic regulation[^key-4770ad7a434cafaf44ee830faf119bb8]
+## 17. Traffic regulation[^c-4770ad7a434cafaf44ee830faf119bb8]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ to the chief officer of police and to the traffic authority in whose area the ro
 
 ## Annotations
 
-[^key-4770ad7a434cafaf44ee830faf119bb8]: Commencement: Art. 17 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-4770ad7a434cafaf44ee830faf119bb8]: Commencement: Art. 17 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
 [^f00046]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and by section 168(1) of, and paragraph 39 of Schedule 8 to, the New Works and Street Works Act 1991.
 

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Vaccine Damage Payments (Specified Disease) Order 2009 (revoked)[^key-1a69d2a935c76119781dc98534dd7a06]
+The Vaccine Damage Payments (Specified Disease) Order 2009 (revoked)[^c-1a69d2a935c76119781dc98534dd7a06]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 10th October 2009
 
-[^key-1a69d2a935c76119781dc98534dd7a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a69d2a935c76119781dc98534dd7a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1a69d2a935c76119781dc98534dd7a06]
+## 1. Citation, commencement and interpretation[^c-1a69d2a935c76119781dc98534dd7a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Addition to the diseases to which the Act applies[^key-1a69d2a935c76119781dc98534dd7a06]
+## 2. Addition to the diseases to which the Act applies[^c-1a69d2a935c76119781dc98534dd7a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Modification of conditions of entitlement[^key-1a69d2a935c76119781dc98534dd7a06]
+## 3. Modification of conditions of entitlement[^c-1a69d2a935c76119781dc98534dd7a06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a69d2a935c76119781dc98534dd7a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a69d2a935c76119781dc98534dd7a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a69d2a935c76119781dc98534dd7a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a69d2a935c76119781dc98534dd7a06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a69d2a935c76119781dc98534dd7a06]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2516) revoked (1.9.2010) by [The Vaccine Damage Payments (Specified Disease) (Revocation and Savings) Order 2010 (S.I. 2010/1988)](https://www.legislation.gov.uk/uksi/2010/1988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/1988/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/1988/article/4))
+[^c-1a69d2a935c76119781dc98534dd7a06]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/2516) revoked (1.9.2010) by [The Vaccine Damage Payments (Specified Disease) (Revocation and Savings) Order 2010 (S.I. 2010/1988)](https://www.legislation.gov.uk/uksi/2010/1988), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1988/article/1), [3](https://www.legislation.gov.uk/uksi/2010/1988/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/1988/article/4))

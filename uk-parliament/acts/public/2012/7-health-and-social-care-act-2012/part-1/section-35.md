@@ -20,25 +20,25 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-6ffe739e78fb87984c0806328fc1493f] Chapter 4 of Part 3 of the Water Industry Act 1991 (fluoridation), as amended by the Water Act 2003, is amended as follows.
+(1)[^c-6ffe739e78fb87984c0806328fc1493f] Chapter 4 of Part 3 of the Water Industry Act 1991 (fluoridation), as amended by the Water Act 2003, is amended as follows.
 
-(2)[^key-6ffe739e78fb87984c0806328fc1493f] In section 87 (fluoridation of water supplies at request of relevant authorities), in subsection (3)(a) for sub-paragraph (i) substitute—
+(2)[^c-6ffe739e78fb87984c0806328fc1493f] In section 87 (fluoridation of water supplies at request of relevant authorities), in subsection (3)(a) for sub-paragraph (i) substitute—
 
 > - (i) in relation to areas in England, are to the Secretary of State;
 
 .
 
-(3)[^key-6ffe739e78fb87984c0806328fc1493f] After subsection (3) of that section insert—
+(3)[^c-6ffe739e78fb87984c0806328fc1493f] After subsection (3) of that section insert—
 
 > (3A) The Secretary of State may make a request under subsection (1) only if the Secretary of State is required to do so by section 88G(2) (following the making of a fluoridation proposal in accordance with section 88B).
 
-(4)[^key-6ffe739e78fb87984c0806328fc1493f] In subsection (4) of that section, for paragraph (a) substitute—
+(4)[^c-6ffe739e78fb87984c0806328fc1493f] In subsection (4) of that section, for paragraph (a) substitute—
 
 > - (a) in relation to England, such area as the Secretary of State considers appropriate for the purpose of complying with section 88G(2);
 
 .
 
-(5)[^key-6ffe739e78fb87984c0806328fc1493f] After subsection (7) of that section insert—
+(5)[^c-6ffe739e78fb87984c0806328fc1493f] After subsection (7) of that section insert—
 
 > (7A) The Secretary of State must, in relation to the terms to be included in any arrangements under this section, consult any local authority whose area includes, coincides with or is wholly or partly within the specified area.
 >
@@ -62,11 +62,11 @@ summary: ''
 >
 > (7F) If suitable terms are not agreed for a variation to which subsection (7D) or (7E) applies, a combined reference may be made by the Secretary of State and the Welsh Ministers under section 87B below so that (following the variation) both sets of arrangements are consistent.
 
-(7)[^key-6ffe739e78fb87984c0806328fc1493f] Omit subsections (8) to (10) of that section.
+(7)[^c-6ffe739e78fb87984c0806328fc1493f] Omit subsections (8) to (10) of that section.
 
-(8)[^key-6ffe739e78fb87984c0806328fc1493f] In subsection (11) of that section for “a relevant authority” substitute “the Welsh Ministers”.
+(8)[^c-6ffe739e78fb87984c0806328fc1493f] In subsection (11) of that section for “a relevant authority” substitute “the Welsh Ministers”.
 
-(9)[^key-6ffe739e78fb87984c0806328fc1493f] In section 87A (target concentration of fluoridation), after subsection (3) insert—
+(9)[^c-6ffe739e78fb87984c0806328fc1493f] In section 87A (target concentration of fluoridation), after subsection (3) insert—
 
 > (3A) If the Secretary of State proposes to—
 >
@@ -75,7 +75,7 @@ summary: ''
 >
 > the Secretary of State shall consult any local authority whose area includes, coincides with or is wholly or partly within the specified area.
 
-(10)[^key-6ffe739e78fb87984c0806328fc1493f] In section 87B (fluoridation arrangements: determination of terms), in subsection (2) —
+(10)[^c-6ffe739e78fb87984c0806328fc1493f] In section 87B (fluoridation arrangements: determination of terms), in subsection (2) —
 
 - (a) for paragraph (a) substitute—
 
@@ -85,11 +85,11 @@ summary: ''
 
 - (b) omit paragraph (b).
 
-(11)[^key-6ffe739e78fb87984c0806328fc1493f] In that section, in subsection (4) for the words from the beginning to “section 87(8)(b) or (10)” substitute “Where a combined reference is made under section 87(7C)(b) or 87(7F)”.
+(11)[^c-6ffe739e78fb87984c0806328fc1493f] In that section, in subsection (4) for the words from the beginning to “section 87(8)(b) or (10)” substitute “Where a combined reference is made under section 87(7C)(b) or 87(7F)”.
 
-(12)[^key-6ffe739e78fb87984c0806328fc1493f] In section 87C (fluoridation arrangements: compliance), omit subsection (8).
+(12)[^c-6ffe739e78fb87984c0806328fc1493f] In section 87C (fluoridation arrangements: compliance), omit subsection (8).
 
-(13)[^key-6ffe739e78fb87984c0806328fc1493f] In section 89—
+(13)[^c-6ffe739e78fb87984c0806328fc1493f] In section 89—
 
 - (a) in the heading, after “Consultation” insert “:Wales”,
 - (b) in subsections (1) and (4) for “a relevant authority” substitute “the Welsh Ministers”,
@@ -98,7 +98,7 @@ summary: ''
 - (e) in subsection (4) for “the appropriate authority so directs” substitute “the Welsh Ministers so direct”, and
 - (f) omit subsection (5).
 
-(14)[^key-6ffe739e78fb87984c0806328fc1493f] In section 90A (review of fluoridation) after subsection (5) insert—
+(14)[^c-6ffe739e78fb87984c0806328fc1493f] In section 90A (review of fluoridation) after subsection (5) insert—
 
 > (5A) The relevant authority must, in exercising its functions under subsection (1)—
 >
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ffe739e78fb87984c0806328fc1493f]: Commencement: S. 35(1)-(5)(7)-(14) in force at 1.4.2013 for E. by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6ffe739e78fb87984c0806328fc1493f]: Commencement: S. 35(1)-(5)(7)-(14) in force at 1.4.2013 for E. by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

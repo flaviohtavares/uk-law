@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91A. Members of the Police Service of Northern Ireland Reserve.[^key-f512ab2bc6700a64979d1f52678d4bde]
+## 91A. Members of the Police Service of Northern Ireland Reserve.[^c-f512ab2bc6700a64979d1f52678d4bde]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f512ab2bc6700a64979d1f52678d4bde]: Textual amendment: [Reg. 91A](https://www.legislation.gov.uk/nisr/2009/79/regulation/91A) inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/7)
+[^c-f512ab2bc6700a64979d1f52678d4bde]: Textual amendment: [Reg. 91A](https://www.legislation.gov.uk/nisr/2009/79/regulation/91A) inserted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Application of rules, construction and interpretation[^key-b7170688e131bf8e3a3a63117faca438]
+## 3. Application of rules, construction and interpretation[^c-b7170688e131bf8e3a3a63117faca438]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 - “the 1986 Rules” means the Insolvency (Scotland) Rules 1986 as amended as at 1st October 2009[^f00004];
 - “the 2009 Order” means the Building Societies (Insolvency and Special Administration) Order 2009[^f00005];
 - “the 2010 Rules” means these Rules;
-- “the appropriate regulator”, in relation to a building society, means—[^key-6686f6e441988602bb10ca90caec8903]
+- “the appropriate regulator”, in relation to a building society, means—[^c-6686f6e441988602bb10ca90caec8903]
   - (a) if the building society is a PRA-authorised person (within the meaning of the Financial Services and Markets Act 2000), the Prudential Regulation Authority and the Financial Conduct Authority (except in rules 11(2), 40(2) and 87 where it means the Prudential Regulation Authority or the Financial Conduct Authority);
   - (b) in any other case, the Financial Conduct Authority;
 - “the Banking Act” means the Banking Act 2009;
@@ -42,8 +42,8 @@ summary: ''
     but does not include persons liable to contribute by virtue of a declaration by the court under section 213 (responsibility for fraudulent trading) or 214 (wrongful trading) of the Insolvency Act;
 - “**court**” means the Court of Session;
 - “**eligible depositor**” means a depositor who is eligible for compensation under the FSCS;
-- [^key-9ea41089758d8e891d4a9dd3d21aa2bf]...
-- “appropriate regulator’s rules” means the rules, as amended from time to time, made under section 213 of the Financial Services and Markets Act 2000 by—[^key-e9efe705b274ea90d6466dbfb48a94d2]
+- [^c-9ea41089758d8e891d4a9dd3d21aa2bf]...
+- “appropriate regulator’s rules” means the rules, as amended from time to time, made under section 213 of the Financial Services and Markets Act 2000 by—[^c-e9efe705b274ea90d6466dbfb48a94d2]
   - (a) if the building society is a PRA-authorised person (within the meaning of that Act), the Prudential Regulation Authority or the Financial Conduct Authority; or
   - (b) in any other case, the Financial Conduct Authority;
 - “the FSCS” means the Financial Services Compensation Scheme (established under Part 15 of the Financial Services and Markets Act 2000) or, where appropriate, the scheme manager of that scheme;
@@ -51,10 +51,10 @@ summary: ''
 - “**the liquidation committee**” means the committee established pursuant to section 100 of the Banking Act;
 - “**Objective 1**” has the same meaning as in Part 2 of the Banking Act (section 99(2));
 - “**principal office**” means—
-  - (a) the place which is specified in the building society’s memorandum sent to the Financial Conduct Authority[^key-210973a2d022cbca52739c8e479c1b0b] under paragraph 1(1)(c) of Schedule 2 to the Building Societies Act as the address of its principal office; or
+  - (a) the place which is specified in the building society’s memorandum sent to the Financial Conduct Authority[^c-210973a2d022cbca52739c8e479c1b0b] under paragraph 1(1)(c) of Schedule 2 to the Building Societies Act as the address of its principal office; or
   - (b) if notice has been given by the building society to the Financial Conduct Authority under paragraph 11(2) of that Schedule (change of principal office), the place specified in that notice or, as the case may be, in the last such notice;
-- “**protected deposit**” means a protected deposit within the meaning given by the appropriate regulator’s rules[^key-8e2a6a3f2843c329b27dd1f50eb12cd3] but does not include a share in the society held by an eligible depositor;
-- “**registered name**” in relation to a building society means the name of the society which is for the time being registered with the Financial Conduct Authority[^key-0d5550357c663701dc342b5322eb6659];
+- “**protected deposit**” means a protected deposit within the meaning given by the appropriate regulator’s rules[^c-8e2a6a3f2843c329b27dd1f50eb12cd3] but does not include a share in the society held by an eligible depositor;
+- “**registered name**” in relation to a building society means the name of the society which is for the time being registered with the Financial Conduct Authority[^c-0d5550357c663701dc342b5322eb6659];
 - “release” and related expressions mean release within the meaning of section 111 of the Banking Act;
 - “**Rules of the Court of Session**” means Schedule 2 to the Act of Sederunt (Rules of the Court of Session 1994) 1994[^f00010];
 - “**set-off**” includes (without limitation) claims of compensation, rights of retention and rights of balancing accounts on insolvency; and
@@ -96,7 +96,7 @@ summary: ''
 - (p) the registered office is a reference to the principal office within the meaning of these Rules;
 - (q) the articles is a reference to the rules of the building society;
 - (r) the officers, or a particular officer of a company, is a reference to the officers, or the corresponding officer, of the building society and includes a person holding themselves out as such an officer;
-- (s) the registrar of companies or the registrar is a reference to the Financial Conduct Authority[^key-aa4951a98f71bfbfceb6304f00911b24]; and
+- (s) the registrar of companies or the registrar is a reference to the Financial Conduct Authority[^c-aa4951a98f71bfbfceb6304f00911b24]; and
 - (t) contributory is a reference to a contributory in relation to a building society within the meaning of these Rules.
 
 (7) Expressions used—
@@ -136,7 +136,7 @@ the reference in Rule A shall be treated, for the purpose of these Rules, as bei
 
 ## Annotations
 
-[^key-b7170688e131bf8e3a3a63117faca438]: Commencement: Rule 3 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-b7170688e131bf8e3a3a63117faca438]: Commencement: Rule 3 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00002]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
@@ -146,24 +146,24 @@ the reference in Rule A shall be treated, for the purpose of these Rules, as bei
 
 [^f00005]: Footnote: [S.I.2009/805](https://www.legislation.gov.uk/uksi/2009/805). [S.I. 2009/805](https://www.legislation.gov.uk/uksi/2009/805) was amended by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189).
 
-[^key-6686f6e441988602bb10ca90caec8903]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/i)
+[^c-6686f6e441988602bb10ca90caec8903]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/i)
 
 [^f00006]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66).
 
 [^f00007]: Footnote: [1986 c.53](https://www.legislation.gov.uk/ukpga/1986/53).
 
-[^key-9ea41089758d8e891d4a9dd3d21aa2bf]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/ii)
+[^c-9ea41089758d8e891d4a9dd3d21aa2bf]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/ii)
 
-[^key-e9efe705b274ea90d6466dbfb48a94d2]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/iii)
+[^c-e9efe705b274ea90d6466dbfb48a94d2]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/iii)
 
 [^f00009]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-210973a2d022cbca52739c8e479c1b0b]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/iv)
+[^c-210973a2d022cbca52739c8e479c1b0b]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/iv)
 
-[^key-8e2a6a3f2843c329b27dd1f50eb12cd3]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/v)
+[^c-8e2a6a3f2843c329b27dd1f50eb12cd3]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/v)
 
-[^key-0d5550357c663701dc342b5322eb6659]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/vi)
+[^c-0d5550357c663701dc342b5322eb6659]: Textual amendment: Words in [rule 3(2)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/a/vi)
 
 [^f00010]: Footnote: [S.I. 1994/1443](https://www.legislation.gov.uk/uksi/1994/1443), last amended by [S.S.I. 2010/205](https://www.legislation.gov.uk/ssi/2010/205).
 
-[^key-aa4951a98f71bfbfceb6304f00911b24]: Textual amendment: Words in [rule 3(6)(s)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/6/s) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/b)
+[^c-aa4951a98f71bfbfceb6304f00911b24]: Textual amendment: Words in [rule 3(6)(s)](https://www.legislation.gov.uk/uksi/2010/2584/rule/3/6/s) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 192(2)(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/192/2/b)

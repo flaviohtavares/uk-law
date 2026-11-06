@@ -33,15 +33,15 @@ TABLE
 | (1) | (2) |
 | --- | --- |
 | Category or sub-category of licence applied for | Category/sub-category of full licence required |
-| [^key-839ba06ea9f416d1e15f77509ef6a130]. . . | [^key-839ba06ea9f416d1e15f77509ef6a130]. . . |
+| [^c-839ba06ea9f416d1e15f77509ef6a130]. . . | [^c-839ba06ea9f416d1e15f77509ef6a130]. . . |
 | C | B |
 | C1 | B |
 | D | B |
 | D1 | B |
-| C1+E | B[^key-0497f56e8c25b93811151e2fa7ca7fe5] |
-| C+E | B[^key-2df7742e41786c9e88a5f4365f7b861c] |
-| D1+E | B[^key-d8dabef60c94f3cae3cab43636c5bb43] |
-| D+E | B[^key-cb903982be3b3922a57191339ee482d3] |
+| C1+E | B[^c-0497f56e8c25b93811151e2fa7ca7fe5] |
+| C+E | B[^c-2df7742e41786c9e88a5f4365f7b861c] |
+| D1+E | B[^c-d8dabef60c94f3cae3cab43636c5bb43] |
+| D+E | B[^c-cb903982be3b3922a57191339ee482d3] |
 | G | B |
 | H | B |
 
@@ -49,12 +49,12 @@ TABLE
 
 [^c16598611]: Textual amendment: Subsection (2)(c) was substituted by the 1989 Act, section 4(3). For designations made under that provision see S.I. 1996/3206.
 
-[^key-839ba06ea9f416d1e15f77509ef6a130]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table omitted (16.12.2021) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2021 (S.I. 2021/1450)](https://www.legislation.gov.uk/uksi/2021/1450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1450/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/1450/regulation/4)
+[^c-839ba06ea9f416d1e15f77509ef6a130]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table omitted (16.12.2021) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) (No. 5) Regulations 2021 (S.I. 2021/1450)](https://www.legislation.gov.uk/uksi/2021/1450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1450/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2021/1450/regulation/4)
 
-[^key-0497f56e8c25b93811151e2fa7ca7fe5]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-0497f56e8c25b93811151e2fa7ca7fe5]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/a) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-2df7742e41786c9e88a5f4365f7b861c]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-2df7742e41786c9e88a5f4365f7b861c]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/b) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-d8dabef60c94f3cae3cab43636c5bb43]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/c) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-d8dabef60c94f3cae3cab43636c5bb43]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/c) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
 
-[^key-cb903982be3b3922a57191339ee482d3]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))
+[^c-cb903982be3b3922a57191339ee482d3]: Textual amendment: Word in [reg. 11](https://www.legislation.gov.uk/uksi/1999/2864/regulation/11) table substituted (15.11.2021) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 4) Regulations 2021 (S.I. 2021/1251)](https://www.legislation.gov.uk/uksi/2021/1251), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/1/2), [3(d)](https://www.legislation.gov.uk/uksi/2021/1251/regulation/3/d) (with [reg. 9](https://www.legislation.gov.uk/uksi/2021/1251/regulation/9))

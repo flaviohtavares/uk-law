@@ -51,11 +51,11 @@ The Secretary of State, in exercise of the powers conferred by sections 114, 115
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-edc23de6963e5158d5a19e4da118e769]
+### 1. Citation and commencement[^c-edc23de6963e5158d5a19e4da118e769]
 
 This Order may be cited as the Network Rail (North Doncaster Chord) Order 2012 and comes into force on 6th November 2012.
 
-### 2. Interpretation[^key-be6de8df43546ee1e9ab5f61fa6bdd92]
+### 2. Interpretation[^c-be6de8df43546ee1e9ab5f61fa6bdd92]
 
 (1) In this Order—
 
@@ -110,7 +110,7 @@ This Order may be cited as the Network Rail (North Doncaster Chord) Order 2012 a
 
 (6) References in this Order to numbered works are references to the works as numbered in Schedule 1.
 
-### 3. Incorporation of Railways Clauses Acts[^key-0ffa3e46f6173bd0f94a0fb1950a7e42]
+### 3. Incorporation of Railways Clauses Acts[^c-0ffa3e46f6173bd0f94a0fb1950a7e42]
 
 (1) The following provisions of the Railways Clauses Consolidation Act 1845[^f00014] are incorporated in this Order—
 
@@ -142,17 +142,17 @@ This Order may be cited as the Network Rail (North Doncaster Chord) Order 2012 a
 
 ## PART 2 — PRINCIPAL POWERS
 
-### 4. Development consent etc. granted by the Order[^key-7353f1d6665780ffff088b2ed5981874]
+### 4. Development consent etc. granted by the Order[^c-7353f1d6665780ffff088b2ed5981874]
 
 (1) Subject to the provisions of this Order and to the requirements in Schedule 2 (requirements) Network Rail is granted development consent for the authorised development to be carried out within the Order limits.
 
 (2) Subject to article 8 (limits of deviation) the authorised development may only be constructed in the lines and situations shown on the works plans and in accordance with the levels shown on the sections.
 
-### 5. Maintenance of authorised development[^key-34d78f6f7c1169c4b5e9cdc76d4630da]
+### 5. Maintenance of authorised development[^c-34d78f6f7c1169c4b5e9cdc76d4630da]
 
 Network Rail may at any time maintain the authorised development, except to the extent that this Order or an agreement made under this Order, provides otherwise.
 
-### 6. Procedure in relation to certain approvals, etc. other than under Schedule 2[^key-6c24a704e6fc5aca6733e2db5141022d]
+### 6. Procedure in relation to certain approvals, etc. other than under Schedule 2[^c-6c24a704e6fc5aca6733e2db5141022d]
 
 (1) In this article—
 
@@ -166,7 +166,7 @@ Network Rail may at any time maintain the authorised development, except to the 
 
 (5) Network Rail must not carry out the proposal until such plans have been approved or are deemed to have been approved or have been settled by arbitration.
 
-### 7. Further provision as to approvals, etc, under Schedule 2[^key-b696ec989bad860edd04b8a2a15d2a7f]
+### 7. Further provision as to approvals, etc, under Schedule 2[^c-b696ec989bad860edd04b8a2a15d2a7f]
 
 (1) Where the application is for a consent, agreement or approval of a relevant planning authority required by a requirement under Schedule 2 (requirements), the following provisions apply, so far as they relate to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission, as if the requirement was a condition imposed on the grant of a planning permission—
 
@@ -175,7 +175,7 @@ Network Rail may at any time maintain the authorised development, except to the 
 
 (2) For the purposes of paragraph (1), a provision relates to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission in so far as it makes provision in relation to an application for such a consent, agreement or approval, or the grant or refusal of such an application, or a failure to give notice of a decision on such an application.
 
-### 8. Limits of deviation[^key-4386ca2fb5c86a8e3598cbd87c43e952]
+### 8. Limits of deviation[^c-4386ca2fb5c86a8e3598cbd87c43e952]
 
 In carrying out the authorised development Network Rail may—
 
@@ -184,7 +184,7 @@ In carrying out the authorised development Network Rail may—
   - (i) to any extent not exceeding 2 metres upwards; or
   - (ii) to any extent downwards as may be found to be necessary or convenient.
 
-### 9. Benefit of Order[^key-12cfc4020d5814a583ad78ba2ed10748]
+### 9. Benefit of Order[^c-12cfc4020d5814a583ad78ba2ed10748]
 
 (1) The provisions of this Order conferring powers on Network Rail have effect solely for the benefit of Network Rail.
 
@@ -195,7 +195,7 @@ In carrying out the authorised development Network Rail may—
 
 ## PART 3 — STREETS
 
-### 10. Power to alter layout, etc., of streets[^key-07d7d5135bde38a785289a63dcaaff20]
+### 10. Power to alter layout, etc., of streets[^c-07d7d5135bde38a785289a63dcaaff20]
 
 (1) Network Rail may for the purposes of the authorised development alter the layout of or carry out any works in the streets specified in column (2) of Schedule 3 (streets subject to temporary alteration of layout) in the manner specified in relation to that street in column (3).
 
@@ -210,7 +210,7 @@ In carrying out the authorised development Network Rail may—
 
 (4) The powers conferred by paragraph (2) are not to be exercised without the consent of the street authority but such consent must not be unreasonably withheld.
 
-### 11. Street works[^key-80667b72a2afa9a25754e8e43409ece2]
+### 11. Street works[^c-80667b72a2afa9a25754e8e43409ece2]
 
 (1) Network Rail may, for the purposes of the authorised development, enter upon so much of any of the streets specified in Schedule 4 (streets subject to street works) as is within the Order limits and may—
 
@@ -222,7 +222,7 @@ In carrying out the authorised development Network Rail may—
 
 (2) In this article, “apparatus” has the same meaning as in Part 3 of the 1991 Act.
 
-### 12. Construction and maintenance of new or altered streets[^key-50a7c8267e383397a746659ea7868fe4]
+### 12. Construction and maintenance of new or altered streets[^c-50a7c8267e383397a746659ea7868fe4]
 
 (1) Any street to be constructed under this Order must be completed to the reasonable satisfaction of the highway authority and, unless otherwise agreed with the highway authority, must be maintained by and at the expense of Network Rail for a period of 12 months from its completion and at the expiry of that period by and at the expense of the highway authority.
 
@@ -249,7 +249,7 @@ but for the purposes of such a defence it is not relevant to prove that Network 
 - (a) prejudices the operation of section 87 of the 1991 Act (prospectively maintainable highways); and Network Rail is not by reason of any duty under this article to maintain a street taken to be a street authority in relation to that street for the purposes of Part 3 of that Act; or
 - (b) has effect in relation to the street works with regard to which the provisions of Part 3 of the 1991 Act apply.
 
-### 13. Stopping up of streets[^key-3121833dc803d59c6b0b6ee929730ac2]
+### 13. Stopping up of streets[^c-3121833dc803d59c6b0b6ee929730ac2]
 
 (1) Subject to the provisions of this article, Network Rail may, in connection with the carrying out of the authorised development, stop up each of the streets specified in columns (1) and (2) of Schedule 5 (streets to be stopped up) to the extent specified, by reference to the letters and numbers shown on the street plans, in column (3) of that Schedule.
 
@@ -267,7 +267,7 @@ but for the purposes of such a defence it is not relevant to prove that Network 
 
 (5) This article is subject to article 33 (apparatus and rights of statutory undertakers in stopped up streets).
 
-### 14. Application of the 1991 Act[^key-800f08d70f38e85169863d8b282833c2]
+### 14. Application of the 1991 Act[^c-800f08d70f38e85169863d8b282833c2]
 
 (1) Works carried out under this Order in relation to a highway which consists of or includes a carriageway are to be treated for the purposes of Part 3 of the 1991 Act (street works in England and Wales) as major transport works if—
 
@@ -292,7 +292,7 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 (4) Sections 54 and 55 of the 1991 Act, as applied by paragraph (3), have effect as if references in section 57 of that Act to emergency works were a reference to a stopping up, alteration or diversion (as the case may be) required in a case of emergency.
 
-### 15. Temporary stopping up of streets[^key-0f4c2eb3334db8026f69fa579a228001]
+### 15. Temporary stopping up of streets[^c-0f4c2eb3334db8026f69fa579a228001]
 
 (1) Network Rail may, during and for the purposes of carrying out the authorised development, temporarily stop up, alter or divert any existing street and may for any reasonable time—
 
@@ -312,11 +312,11 @@ all such other provisions as apply for the purposes of the provisions mentioned 
 
 (6) Any person who suffers loss by the suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-### 16. Access to works[^key-09fd39405083117ad1c797e6e62487eb]
+### 16. Access to works[^c-09fd39405083117ad1c797e6e62487eb]
 
 Network Rail may, for the purposes of the construction or maintenance of the authorised development with the approval of the relevant planning authority, after consultation with the highway authority, form and lay out such other means of access or improve existing means of access, at such locations within the Order limits as Network Rail reasonably requires for the purposes of the authorised development.
 
-### 17. Agreements with street authorities[^key-4dfa24916147d76e29b331ed22a12f64]
+### 17. Agreements with street authorities[^c-4dfa24916147d76e29b331ed22a12f64]
 
 (1) A street authority and Network Rail may enter into agreements with respect to—
 
@@ -332,11 +332,11 @@ Network Rail may, for the purposes of the construction or maintenance of the aut
 - (b) include an agreement between Network Rail and the street authority specifying a reasonable time for the completion of the works; and
 - (c) contain such terms as to payment and otherwise as the parties consider appropriate.
 
-### 18. Construction of bridges and tunnels[^key-b6a3f9b36b204af50a26edecbd0fa27b]
+### 18. Construction of bridges and tunnels[^c-b6a3f9b36b204af50a26edecbd0fa27b]
 
 Any bridge or tunnel to be constructed under this Order for carrying a highway over or under a railway must be constructed in accordance with the plans and specifications approved by the highway authority.
 
-### 19. Level crossings[^key-727eaa2a052875f9dfdbe17e27563577]
+### 19. Level crossings[^c-727eaa2a052875f9dfdbe17e27563577]
 
 (1) Subject to paragraph (3), the level crossings specified in columns (1) and (2) of Schedule 7 (replacement and closure of level crossings) are stopped up and discontinued.
 
@@ -350,7 +350,7 @@ Any bridge or tunnel to be constructed under this Order for carrying a highway o
 
 ## PART 4 — SUPPLEMENTAL POWERS
 
-### 20. Discharge of water[^key-7860e0005008e998e9b7cb23d298a9fe]
+### 20. Discharge of water[^c-7860e0005008e998e9b7cb23d298a9fe]
 
 (1) Network Rail may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -367,14 +367,14 @@ Any bridge or tunnel to be constructed under this Order for carrying a highway o
 
 (6) Network Rail must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain under the powers conferred by this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^key-10e093e43a229b56c47758d3caf00612].
+(7) Nothing in this article overrides the requirement for an environmental permit under regulation 12(1)(b) of the Environmental Permitting (England and Wales) Regulations 2016[^c-10e093e43a229b56c47758d3caf00612].
 
 (8) In this article—
 
 - (a) “public sewer or drain” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board or a local authority; and
 - (b) other expressions, excluding watercourses, used both in this article and in the Water Resources Act 1991[^f00019] have the same meaning as in that Act.
 
-### 21. Authority to survey and investigate land[^key-aabd114a19a8941b0f9e40d71643edaf]
+### 21. Authority to survey and investigate land[^c-aabd114a19a8941b0f9e40d71643edaf]
 
 (1) Network Rail may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
 
@@ -399,13 +399,13 @@ Any bridge or tunnel to be constructed under this Order for carrying a highway o
 
 ## PART 5 — POWERS OF ACQUISITION
 
-### 22. Compulsory acquisition of land[^key-c1788a1b01d50ad4c750d64d84da09bc]
+### 22. Compulsory acquisition of land[^c-c1788a1b01d50ad4c750d64d84da09bc]
 
 (1) Network Rail may acquire compulsorily so much of the Order land as is required for the authorised development or to facilitate, or is incidental to, it.
 
 (2) This article is subject to paragraph (2) of article 24 (compulsory acquisition of rights) and paragraph (8) of article 30 (temporary use of land for carrying out the authorised development).
 
-### 23. Time limit for exercise of authority to acquire land compulsorily[^key-0f57db4359e8e4d06060506f5dc63c47]
+### 23. Time limit for exercise of authority to acquire land compulsorily[^c-0f57db4359e8e4d06060506f5dc63c47]
 
 (1) After the end of the period of 5 years beginning on the day on which the Order is made—
 
@@ -414,7 +414,7 @@ Any bridge or tunnel to be constructed under this Order for carrying a highway o
 
 (2) The authority conferred by article 30 (temporary use of land for carrying out the authorised development) ceases at the end of the period referred to in paragraph (1), except that nothing in this paragraph prevents Network Rail remaining in possession of land after the end of that period, if the land was entered and possession was taken before the end of that period.
 
-### 24. Compulsory acquisition of rights[^key-b8b5583973c4178f5e8dba91ebf2136a]
+### 24. Compulsory acquisition of rights[^c-b8b5583973c4178f5e8dba91ebf2136a]
 
 (1) Subject to paragraph (2), Network Rail may acquire compulsorily such rights over the Order land as may be required for any purpose for which that land may be acquired under article 22 (compulsory acquisition of land) by creating them as well as by acquiring rights already in existence.
 
@@ -428,7 +428,7 @@ Any bridge or tunnel to be constructed under this Order for carrying a highway o
 
 (6) The exercise by a statutory undertaker of any power in accordance with a transfer under paragraph (5) is subject to the same restrictions, liabilities and obligations as would apply under this Order if that power were exercised by Network Rail.
 
-### 25. Private rights[^key-2b80d8c6141f4015859e29afc43dc54d]
+### 25. Private rights[^c-2b80d8c6141f4015859e29afc43dc54d]
 
 (1) Subject to the provisions of this article, all private rights over land subject to compulsory acquisition under this Order are extinguished—
 
@@ -472,7 +472,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 (9) Reference in this article to private rights over land includes reference to any trusts or incidents to which the land is subject.
 
-### 26. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^key-76e6b15b28da1f71de201242ae0f30ed]
+### 26. Application of Compulsory Purchase (Vesting Declarations) Act 1981[^c-76e6b15b28da1f71de201242ae0f30ed]
 
 (1) The 1981 Act applies as if this Order were a compulsory purchase order.
 
@@ -507,7 +507,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 (8) References to the 1965 Act in the 1981 Act are construed as references to the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the compulsory acquisition of land under this Order.
 
-### 27. Acquisition of subsoil or airspace only[^key-9928a33204baa61d29a7a28058f95940]
+### 27. Acquisition of subsoil or airspace only[^c-9928a33204baa61d29a7a28058f95940]
 
 (1) Network Rail may acquire compulsorily so much of, or such rights in, the subsoil of or the airspace over the land referred to in article 22 (compulsory acquisition of land) as may be required for any purpose for which that land may be acquired under that provision instead of acquiring the whole of the land.
 
@@ -515,7 +515,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 (3) Paragraph (2) does not prevent article 28 (acquisition of part of certain properties) from applying where Network Rail acquires a cellar, vault, arch or other construction forming part of a house, building or manufactory.
 
-### 28. Acquisition of part of certain properties[^key-df246569699d75f570c29ace36b7c96d]
+### 28. Acquisition of part of certain properties[^c-df246569699d75f570c29ace36b7c96d]
 
 (1) This article applies instead of section 8(1) of the 1965 Act (other provisions or divided land) (as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act) where—
 
@@ -560,7 +560,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, Network Rail must pay the owner compensation for any loss sustained by the owner due to the severance of that part in addition to the value of the interest acquired.
 
-### 29. Rights under or over streets[^key-f087c586a6c25b994f8ab70ffe7095d3]
+### 29. Rights under or over streets[^c-f087c586a6c25b994f8ab70ffe7095d3]
 
 (1) Network Rail may enter upon and appropriate so much of the subsoil of, or airspace over, any street within the Order limits as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
 
@@ -575,7 +575,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (5) Compensation is not payable under paragraph (4) to any person who is an undertaker to whom section 85 of the 1991 Act applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
 
-### 30. Temporary use of land for carrying out the authorised development[^key-dd9658dfd66f4307c383345b5f32f046]
+### 30. Temporary use of land for carrying out the authorised development[^c-dd9658dfd66f4307c383345b5f32f046]
 
 (1) Network Rail may, in connection with the carrying out of the authorised development—
 
@@ -615,7 +615,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (11) Paragraph (1)(a)(ii) does not authorise Network Rail to take temporary possession of any land which it is not authorised to acquire under article 22 (compulsory acquisition of land) or any land specified in Schedule 8 (land in which only new rights etc. may be acquired).
 
-### 31. Temporary use of land for maintaining authorised development[^key-9dfbd507dc717bbefe78a3b8cdb6b4f3]
+### 31. Temporary use of land for maintaining authorised development[^c-9dfbd507dc717bbefe78a3b8cdb6b4f3]
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to any of the authorised development, Network Rail may—
 
@@ -645,14 +645,14 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (11) In this article, “the maintenance period”, in relation to any part of the authorised development, means the period of 5 years beginning with the date on which that part of the authorised development is first opened for use.
 
-### 32. Statutory undertakers[^key-5e0c450d1d3e7fdcb780735afbc4464d]
+### 32. Statutory undertakers[^c-5e0c450d1d3e7fdcb780735afbc4464d]
 
 Subject to the provisions of Schedule 12 (protective provisions), Network Rail may—
 
 - (a) acquire compulsorily, or acquire new rights over, the land belonging to statutory undertakers shown on the land plans within the limits of the land to be acquired or used and described in the book of reference;
 - (b) extinguish the rights of, remove or reposition the apparatus belonging to statutory undertakers over or within the Order land.
 
-### 33. Apparatus and rights of statutory undertakers in stopped up streets[^key-bdb976beca646804d79f1072c3c66c7e]
+### 33. Apparatus and rights of statutory undertakers in stopped up streets[^c-bdb976beca646804d79f1072c3c66c7e]
 
 (1) Where a street is stopped up under article 13 (stopping up of streets) or article 19 (level crossings) any statutory utility whose apparatus is under, in, on, along or across the street has the same powers and rights in respect of that apparatus, subject to the provisions of this article, as if this Order had not been made.
 
@@ -691,7 +691,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - “relocation works” means work executed, or apparatus provided, under paragraph (2); and
 - “statutory utility” means a statutory undertaker for the purposes of the 1980 Act or a public communications provider as defined in section 151(1) of the Communications Act 2003[^f00020].
 
-### 34. Recovery of costs of new connections[^key-1fc8ea15e5c4449417dec67e613394bc]
+### 34. Recovery of costs of new connections[^c-1fc8ea15e5c4449417dec67e613394bc]
 
 (1) Where any apparatus of a public utility undertaker or of a public communications provider is removed under article 32 (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus is entitled to recover from Network Rail compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
@@ -711,13 +711,13 @@ is entitled to recover from Network Rail compensation in respect of expenditure 
 
 ## PART 6 — OPERATIONS
 
-### 35. Operation and use of railways[^key-2d531d50a870008fece73914223ae668]
+### 35. Operation and use of railways[^c-2d531d50a870008fece73914223ae668]
 
 (1) Network Rail may operate and use the railway and any other elements of the authorised development as a system, or part of a system, of transport for the carriage of passengers and goods.
 
 (2) Nothing in this Order, or in any enactment incorporated with or applied by this Order, prejudices or affects the operation of Part 1 of the Railways Act 1993[^f00021] (the provision of railway services).
 
-### 36. Felling or lopping trees[^key-302c51f756251ed9c7621948aa971529]
+### 36. Felling or lopping trees[^c-302c51f756251ed9c7621948aa971529]
 
 (1) Network Rail may fell or lop any tree or shrub within or overhanging land within the Order limits or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub—
 
@@ -733,11 +733,11 @@ is entitled to recover from Network Rail compensation in respect of expenditure 
 
 ## PART 7 — MISCELLANEOUS AND GENERAL
 
-### 37. Operational land for purposes of the 1990 Act[^key-1853e21db692f474a6013728c23b731c]
+### 37. Operational land for purposes of the 1990 Act[^c-1853e21db692f474a6013728c23b731c]
 
 Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) of the 1990 Act (cases in which land is to be treated as not being operational land for the purposes of that Act).
 
-### 38. Defence to proceedings in respect of statutory nuisance[^key-b76c22923c79a9fd8050417a95f8d1ad]
+### 38. Defence to proceedings in respect of statutory nuisance[^c-b76c22923c79a9fd8050417a95f8d1ad]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00022] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or a nuisance) no order is to be made, and no fine may be imposed, under section 82(2) of that Act if—
 
@@ -748,7 +748,7 @@ Development consent granted by this Order is to be treated as specific planning 
 
 (2) Section 61(9) (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) of the Control of Pollution Act 1974 and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded), does not apply where the consent relates to the use of premises by Network Rail for the purposes of, or in connection with, the construction or maintenance of the authorised development.
 
-### 39. Traffic regulation[^key-98a58013d503c40aae9169030423df4c]
+### 39. Traffic regulation[^c-98a58013d503c40aae9169030423df4c]
 
 (1) Subject to the provisions of this article, and the consent of the traffic authority in whose area the road concerned is situated, Network Rail may at any time for the purposes of the construction of the authorised development prohibit vehicular access in the manner specified in Schedule 11 (traffic regulation) on those roads specified in column (1) between the points specified in column (2) of that Schedule.
 
@@ -782,17 +782,17 @@ either at all times or at times, on days or during such periods as may be specif
 
 (7) Expressions used in this article and in the 1984 Act have the same meaning in this article as in that Act.
 
-### 40. Protection of interests[^key-027c6da7873a4d305820048838a086f8]
+### 40. Protection of interests[^c-027c6da7873a4d305820048838a086f8]
 
 Schedule 12 (protective provisions) has effect.
 
-### 41. Application of the Land Compensation Act 1973[^key-0433df410fc9b5594f6959082734703d]
+### 41. Application of the Land Compensation Act 1973[^c-0433df410fc9b5594f6959082734703d]
 
 (1) Any regulations made by the Secretary of State under section 20 (sound proofing of buildings affected by public works) and 20A (power to make payments in respect of caravans and other structures affected by noise of public works) of the Land Compensation Act 1973[^f00025] which apply to a railway provided or used in the exercise of statutory powers apply to the railway comprised in the authorised development as if that railway was provided or used in the exercise of statutory powers.
 
 (2) Section 28 (power to pay expenses) of the Land Compensation Act 1973 has effect as if any works comprised in the authorised development were public works for the purposes of that section.
 
-### 42. Certification of plans, etc.[^key-2e1688a33eeda7cd16321082df254a1d]
+### 42. Certification of plans, etc.[^c-2e1688a33eeda7cd16321082df254a1d]
 
 (1) Network Rail must, as soon as practicable after the making of this Order, submit to the Secretary of State copies of—
 
@@ -808,7 +808,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-### 43. Service of notices[^key-18a8a4c2cf308b31369b274c807799ee]
+### 43. Service of notices[^c-18a8a4c2cf308b31369b274c807799ee]
 
 (1) A notice or other document required or authorised to be served for the purposes of this Order may be served—
 
@@ -848,7 +848,7 @@ for certification that they are true copies of the documents referred to in this
 
 (10) In this article “legible in all material respects” means that the information contained in the notice or document is available to that person to no lesser extent than it would be if served, given or supplied by means of a notice or document in printed form.
 
-### 44. Arbitration[^key-f4edaf7fd5412f084b43d357e7372740]
+### 44. Arbitration[^c-f4edaf7fd5412f084b43d357e7372740]
 
 Except where otherwise expressly provided for in this Order and unless otherwise agreed between the parties, any difference under any provision of this Order (other than a difference which falls to be determined by the tribunal) must be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after notice in writing to the other) by the President of the Institution of Civil Engineers.
 
@@ -864,21 +864,21 @@ Department for Transport
 
 SCHEDULES
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-83c0ff7cd0c45ce2583f57c888a4af14]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-83c0ff7cd0c45ce2583f57c888a4af14]
 
 Articles 2 and 5
 
-[^key-83c0ff7cd0c45ce2583f57c888a4af14]
+[^c-83c0ff7cd0c45ce2583f57c888a4af14]
 
 A nationally significant infrastructure project as defined in sections 14 and 25 of the 2008 Act comprising—
 
-[^key-83c0ff7cd0c45ce2583f57c888a4af14]
+[^c-83c0ff7cd0c45ce2583f57c888a4af14]
 
 **In Doncaster Metropolitan Borough**
 
 - **Work No.1** — The construction of a new permanent railway chord (centred on grid reference SE 58166 10443) (3,200 metres in length) commencing at a point on the existing Askern railway line at Owston Grange Farm No. 1 level crossing, running southwards along the eastern side of the said section of the Askern line on embankment, then a multi-span railway viaduct (246 metres in length) spanning Joan Croft Lane, the East Coast Main Line and Applehurst Chord railways, continuing on embankment curving south-eastwards along the eastern side of the Applehurst Chord railway before terminating at a point on the Skellow railway line 520 metres east of Applehurst Lane level crossing; including permanent way (rail tracks), railway switch and crossing track and the construction of temporary haul roads located adjacent to the embankment.
 
-[^key-83c0ff7cd0c45ce2583f57c888a4af14]
+[^c-83c0ff7cd0c45ce2583f57c888a4af14]
 
 Associated development within the meaning of section 115(2) of the 2008 Act comprising—
 
@@ -896,7 +896,7 @@ Associated development within the meaning of section 115(2) of the 2008 Act comp
 - **Work No**.**12** — Installation of a new permanent buried power cable in the existing verge commencing from a point 28 metres north of Applehurst level crossing, continuing along Applehurst Lane before turning eastwards into Sickle Croft Farm (located north east of Applehurst level crossing) and terminating at a point 355 metres from its commencement.
 - **Work No.13** — Widening works to Applehurst level crossing (50 metres in length and 6.5 metres wide) across Work No. 1 to accommodate haul road traffic from both directions,
 
-[^key-83c0ff7cd0c45ce2583f57c888a4af14]
+[^c-83c0ff7cd0c45ce2583f57c888a4af14]
 
 and in connection with such works further associated development within the Order limits consisting of—
 
@@ -914,22 +914,22 @@ and in connection with such works further associated development within the Orde
 
 Article 4
 
-### 1. Interpretation[^key-b254e6aae1f030e12604dff236d9dc77]
+### 1. Interpretation[^c-b254e6aae1f030e12604dff236d9dc77]
 
 In this Schedule—
 
 - “the CR-E” means Network Rail’s Contract Requirements – Environment, Issue 5, April 2004, as set out in Volume I, Appendix E, of the environment statement; and
 - “stage” means a defined section or part of the authorised development, the extent of which is shown in a scheme submitted to and approved by the relevant planning authority under requirement 2 (stages of authorised development).
 
-### 2. Stages of authorised development[^key-63200764140d0abf1947b906e363f65a]
+### 2. Stages of authorised development[^c-63200764140d0abf1947b906e363f65a]
 
 No authorised development is to commence until a written scheme setting out all the stages of the authorised development has, after consultation with the highway authority, been submitted to, and approved in writing by, the relevant planning authority.
 
-### 3. In accordance with approved details[^key-b99f198430385bddd2a245a4eb59a87d]
+### 3. In accordance with approved details[^c-b99f198430385bddd2a245a4eb59a87d]
 
 The authorised development must be carried out in accordance with the design drawings unless otherwise agreed in writing by the relevant planning authority.
 
-### 4. Landscaping[^key-f46326187665ff30d62e25d8600b789d]
+### 4. Landscaping[^c-f46326187665ff30d62e25d8600b789d]
 
 (1) No stage of the authorised development is to commence until a written landscaping scheme for that stage has, after consultation with the relevant planning authority, been submitted to, and approved in writing by, the relevant planning authority.
 
@@ -942,20 +942,20 @@ The authorised development must be carried out in accordance with the design dra
 - (c) implementation timetables for all landscaping; and
 - (d) temporary fencing that complies with current best practice to protect trees and hedgerows adjacent to the works.
 
-### 5. Implementation and maintenance of landscaping[^key-3053fa9b7d1d67cf7475e5f053ebea8a]
+### 5. Implementation and maintenance of landscaping[^c-3053fa9b7d1d67cf7475e5f053ebea8a]
 
 (1) All landscaping work must be carried out in accordance with the scheme and implementation timetable approved under requirement 4 (landscaping).
 
 (2) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved in writing by the relevant planning authority.
 
-### 6. Highway accesses[^key-9fc643f410c68cc5964acaa3d9decdbf]
+### 6. Highway accesses[^c-9fc643f410c68cc5964acaa3d9decdbf]
 
 No part of the authorised development, other than Works numbered 2, 3A, 3B, 4, 5 and 13, which requires road access for construction traffic from the west side of the East Coast Main Line, is to commence until—
 
 - (a) for that part details of the siting, design and layout of any new or altered, permanent or temporary, access, and any temporary or permanent road improvements on Rockley Lane, Holme Lane and Storr Lane, and any temporary haul roads, have, after consultation with the relevant planning authority and local highway authority, been submitted to and approved in writing by the relevant planning authority; and
 - (b) the approved highway alterations and improvements, including any altered or new accesses and any temporary haul roads, for that part have been implemented.
 
-### 7. Archaeology[^key-3c7b05f458d5617a66c72046701d2f32]
+### 7. Archaeology[^c-3c7b05f458d5617a66c72046701d2f32]
 
 (1) No stage of the authorised development is to commence until for that stage a written scheme for the investigation of areas of archaeological interest identified at paragraph 5.2.1 (Incorporated Mitigation) of Technical Appendix E, (Historic Environment) to Volume II of the environmental statement has, after consultation with the relevant planning authority, been submitted to, and approved in writing by, the relevant planning authority.
 
@@ -965,7 +965,7 @@ No part of the authorised development, other than Works numbered 2, 3A, 3B, 4, 5
 
 (4) Any archaeological works or watching brief must be carried out in accordance with the approved scheme.
 
-### 8. Contract Requirements – Environment[^key-cfcfd80239bd97f3f2828ecf2420a64b]
+### 8. Contract Requirements – Environment[^c-cfcfd80239bd97f3f2828ecf2420a64b]
 
 (1) The authorised development must be carried out in accordance with the CR-E or as otherwise amended with the written agreement of the relevant planning authority. The mitigation measures set out in the environmental statement must be reflected in preparing any plan required by the CR-E.
 
@@ -991,33 +991,33 @@ must not be agreed by Network Rail until they have been submitted to, and approv
 
 (5) No stage of the authorised development is to be commenced until such of the plans or programmes required under sections 5.10, 5.13, 5.17, 6.2, 6.3, 6.4 of the CR-E and the Nuisance Management Plan as relate to that stage have been approved in writing by the relevant planning authority and those plans or programmes must be implemented as approved.
 
-### 9. Ecological Management Plan[^key-1cb460867c65d3aac8c74b6db470200d]
+### 9. Ecological Management Plan[^c-1cb460867c65d3aac8c74b6db470200d]
 
 (1) No stage of the authorised development is to commence until for that stage a written ecological management plan reflecting the survey results and ecological mitigation and enhancement measures included in the environmental statement, in particular to accord with paragraph 5.2.1 of section 5 (Mitigation & Prediction of Effects) of Technical Appendix C (Ecology) to Volume II of the environmental statement, has been submitted to, and approved in writing by, the relevant planning authority.
 
 (2) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
-### 10. Alteration, reconstruction or replacement of buildings[^key-36feb76bca5409559edd36d1bb585431]
+### 10. Alteration, reconstruction or replacement of buildings[^c-36feb76bca5409559edd36d1bb585431]
 
 No alteration, reconstruction or replacement of a building is to be carried out under article 5 (maintenance of authorised development) except in accordance with plans and specifications approved (after consultation) in writing by the relevant planning authority.
 
-### 11. Alteration, reconstruction or replacement of level crossings[^key-347c06d459ed5dc6270886486cbea904]
+### 11. Alteration, reconstruction or replacement of level crossings[^c-347c06d459ed5dc6270886486cbea904]
 
-(1) Within 12 months of the commencement of the operation of the authorised development a report on the optimisation of the operation and risk assessments of the level crossings on the Askern Line between the authorised development and the Norton level crossing must be submitted to, and agreed in writing by, the Office of Rail and Road[^key-825e9a45155c02fc4fd537cb56b9a6d6] and made available to the relevant local highway authority.
+(1) Within 12 months of the commencement of the operation of the authorised development a report on the optimisation of the operation and risk assessments of the level crossings on the Askern Line between the authorised development and the Norton level crossing must be submitted to, and agreed in writing by, the Office of Rail and Road[^c-825e9a45155c02fc4fd537cb56b9a6d6] and made available to the relevant local highway authority.
 
 (2) Before commencement of the removal of the level crossing at Honey Lands Lane a report on the amendments to and risk assessment of the Owston Grange Farm No. 1 crossing both during construction and in final operational form must be submitted to, and agreed in writing by, the Office of Rail and Road and made available to the relevant highway authority.
 
-### 12. Amendments to approved details[^key-c5d6cea765d4f1f2604a7efec1969256]
+### 12. Amendments to approved details[^c-c5d6cea765d4f1f2604a7efec1969256]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved by the relevant planning authority, the approved details are taken to include any amendments that may subsequently be approved in writing by the relevant planning authority.
 
-### 13. Flood Risk Assessment and Piling Method Statement[^key-4e324ed712e10828b949cbcadb5ebca9]
+### 13. Flood Risk Assessment and Piling Method Statement[^c-4e324ed712e10828b949cbcadb5ebca9]
 
 (1) The authorised development must be carried out in accordance with the approved Flood Risk Assessment document reference 3.2 version 3 dated May 2011 (Mott MacDonald) and the mitigation measures detailed in that document.
 
 (2) No piling works for any part of the authorised development are to commence until a method statement for the piling works has been submitted to, and approved in writing by, the Environment Agency. Any piling works carried out in relation to the authorised development must be carried out in accordance with the approved method statement.
 
-## SCHEDULE 3 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^key-87d7970aae2ed203705058095199f0cc]
+## SCHEDULE 3 — STREETS SUBJECT TO TEMPORARY ALTERATION OF LAYOUT[^c-87d7970aae2ed203705058095199f0cc]
 
 Article 10
 
@@ -1027,7 +1027,7 @@ Article 10
 |  |  | Widen street between point WS1 and WS2 (Holme Lane and Storrs Lane) to accommodate traffic shown on the design drawings (Temporary Works). |
 |  | Holme Lane | Create new passing bays between point PB11-PB12, PB13-PB14 and PB15-PB16 shown on the design drawings (Temporary Works). |
 
-## SCHEDULE 4 — STREETS SUBJECT TO STREET WORKS[^key-c5ea92611e0596e4e524aee7fedc7564]
+## SCHEDULE 4 — STREETS SUBJECT TO STREET WORKS[^c-c5ea92611e0596e4e524aee7fedc7564]
 
 Article 11
 
@@ -1046,7 +1046,7 @@ Article 11
 |  | Private track from Sickle Croft Farm to Applehurst Lane |
 |  | A19 |
 
-## SCHEDULE 5 — STREETS TO BE STOPPED UP[^key-7af9eae012758f1694aa1bd6a7012e65]
+## SCHEDULE 5 — STREETS TO BE STOPPED UP[^c-7af9eae012758f1694aa1bd6a7012e65]
 
 Article 13
 
@@ -1056,7 +1056,7 @@ Article 13
 |  | Farm access over Honey Lands Lane level crossing and Footpath 11 south to Honey Lands Lane. | Stopping up of farm access between points 1, 2 and 3.<br>Stopping up of Footpath 11 between points 2 and 2a. | New farm access and footpath to be provided between point 1 and point 4, between point 4 and point 5 and between point 5 and point 3. |
 |  | Honey Lands Lane at junction with Joan Croft Lane | Close bridleway 13 between points 6 and 7. | Proposed new bridleway to be created between point 6 and point 8. |
 
-## SCHEDULE 6 — STREETS TO BE TEMPORARILY STOPPED UP[^key-1978dd395352a7e16a84848ebca31da0]
+## SCHEDULE 6 — STREETS TO BE TEMPORARILY STOPPED UP[^c-1978dd395352a7e16a84848ebca31da0]
 
 Article 15
 
@@ -1073,7 +1073,7 @@ Article 15
 |  | Applehurst Lane | Between points X and Y |
 |  | Applehurst Lane | Between points Y and Z |
 
-## SCHEDULE 7 — REPLACEMENT AND CLOSURE OF LEVEL CROSSINGS[^key-997966aa19218a150446cb2cc05a85c3]
+## SCHEDULE 7 — REPLACEMENT AND CLOSURE OF LEVEL CROSSINGS[^c-997966aa19218a150446cb2cc05a85c3]
 
 Article 19
 
@@ -1082,7 +1082,7 @@ Article 19
 | Doncaster Metropolitan Borough | Joan Croft Level Crossing | Joan Croft Lane over the level crossing and the south eastern section of Joan Croft Lane between points V and W | New access to be provided over new highway bridge over railway line (Work No.8) between points S and U via point T |
 |  | Owston Grange No. 1 Level Crossing | Stopping up of the farm access between points 1, 2 and 3 | New boundary and farm access to be provided between point 1 and point 4, point 4 and point 5, and point 5 and point 3 |
 
-## SCHEDULE 8 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^key-5335de6a6da5f7642b875be1aaf9f9f3]
+## SCHEDULE 8 — LAND IN WHICH ONLY NEW RIGHTS ETC. MAY BE ACQUIRED[^c-5335de6a6da5f7642b875be1aaf9f9f3]
 
 Article 24(2)
 
@@ -1100,9 +1100,9 @@ Article 24(3)
 
 ### Compensation enactments
 
-**1.**[^key-bc0e261fef6d72554473aff6209d5834] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
+**1.**[^c-bc0e261fef6d72554473aff6209d5834] The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-445c3d12900badde2212125463d3a200] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00028] has effect subject to the modifications set out in sub-paragraphs (2) and (3).
+**2.**[^c-445c3d12900badde2212125463d3a200] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00028] has effect subject to the modifications set out in sub-paragraphs (2) and (3).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 4—
 
@@ -1118,20 +1118,20 @@ Article 24(3)
 
 ### Application of the 1965 Act
 
-**3.**[^key-2baedd2c2229664b5ec88821ad1f400b] (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
+**3.**[^c-2baedd2c2229664b5ec88821ad1f400b] (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land are read (according to the requirements of the particular context) as referring to, or as including references to—
 
 - (a) the right acquired or to be acquired; or
 - (b) the land over which the right is or is to be exercisable.
 
 (2) Without limitation on the scope of sub-paragraph (1), Part 1 of the 1965 Act applies in relation to the compulsory acquisition under this Order of a right by the creation of a new right with the modifications specified in the following provisions of this Schedule.
 
-**4.**[^key-8a2246e08de715d7fc38651679fa2e7c] For section 7 of the 1965 Act (measure of compensation in case of severance) there is substituted the following section—
+**4.**[^c-8a2246e08de715d7fc38651679fa2e7c] For section 7 of the 1965 Act (measure of compensation in case of severance) there is substituted the following section—
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act, regard must be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of the owner, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
 .
 
-**5.**[^key-69c8efd50f9b8098d8afc87a0be47c4b] For section 8 of the 1965 Act (other provisions as to divided land) there is substituted the following section—
+**5.**[^c-69c8efd50f9b8098d8afc87a0be47c4b] For section 8 of the 1965 Act (other provisions as to divided land) there is substituted the following section—
 
 > **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“the relevant land”)—
 >
@@ -1148,7 +1148,7 @@ Article 24(3)
 
 .
 
-**6.**[^key-2bdbc632e5484fb75e3f9408e568ae91] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
+**6.**[^c-2bdbc632e5484fb75e3f9408e568ae91] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
 
 - (a) section 9(4) (failure by owners to convey);
 - (b) paragraph 10(3) of Schedule 1 (owners under incapacity);
@@ -1157,13 +1157,13 @@ Article 24(3)
 
 are modified so as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**7.**[^key-6c2ec9f8fe2e86b3a4a39dc19b6bcf8f] Section 11 of the 1965 Act (powers of entry) is modified so as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
+**7.**[^c-6c2ec9f8fe2e86b3a4a39dc19b6bcf8f] Section 11 of the 1965 Act (powers of entry) is modified so as to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
 
-**8.**[^key-ac671dedec7867f2f2484873a06a4e63] Section 20 of the 1965 Act (protection for interests of tenants at will, etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
+**8.**[^c-ac671dedec7867f2f2484873a06a4e63] Section 20 of the 1965 Act (protection for interests of tenants at will, etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
-**9.**[^key-3cf7f28975ae5019eb9370c8223b362b] Section 22 of the 1965 Act (interests omitted from purchase) is modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
+**9.**[^c-3cf7f28975ae5019eb9370c8223b362b] Section 22 of the 1965 Act (interests omitted from purchase) is modified so as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired, subject to compliance with that section as respects compensation.
 
-## SCHEDULE 10 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-a0fcd27dd0a84d888482bcbe7bbae6d7]
+## SCHEDULE 10 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-a0fcd27dd0a84d888482bcbe7bbae6d7]
 
 Article 30
 
@@ -1195,7 +1195,7 @@ Article 30
 |  | 84, 85, 86, | Worksite and access for construction | Work Nos 1, 11, 12, 13 |
 |  | 89, 93, 96, 98, 99, 99a, 102, 103, 104, 105, 106, 107, 109a, 110a, 111, 112, 113, 114 | Worksite and access for construction | Work Nos 1, 11, 12, 13 |
 
-## SCHEDULE 11 — TRAFFIC REGULATION[^key-efdfba00d50df0f2a8b4c1699de8796a]
+## SCHEDULE 11 — TRAFFIC REGULATION[^c-efdfba00d50df0f2a8b4c1699de8796a]
 
 Article 39
 
@@ -1212,9 +1212,9 @@ Article 40
 
 ### PART 1 — FOR THE PROTECTION OF ELECTRICITY, GAS, WATER AND SEWERAGE UNDERTAKERS
 
-**1.**[^key-f82453a80ba840312604a2a2f150d711] For the protection of the undertakers referred to in this Part of this Schedule, the following provisions, unless otherwise agreed in writing between Network Rail and the undertaker concerned, have effect.
+**1.**[^c-f82453a80ba840312604a2a2f150d711] For the protection of the undertakers referred to in this Part of this Schedule, the following provisions, unless otherwise agreed in writing between Network Rail and the undertaker concerned, have effect.
 
-**2.**[^key-af4a91f7659adc743e9f32e79e2b3093] In this Part of this Schedule—
+**2.**[^c-af4a91f7659adc743e9f32e79e2b3093] In this Part of this Schedule—
 
 - “alternative apparatus” means alternative apparatus adequate to enable the undertaker in question to fulfil its statutory functions in a manner not less efficient than previously;
 - “apparatus” means—
@@ -1238,11 +1238,11 @@ Article 40
 
   for the area of the authorised development, and in relation to any apparatus, means the undertaker to whom it belongs or by whom it is maintained.
 
-**3.**[^key-a6df4d7c692f6c4bc9ffc554b096ac3b] This Part of this Schedule does not apply to apparatus in respect of which the relations between Network Rail and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
+**3.**[^c-a6df4d7c692f6c4bc9ffc554b096ac3b] This Part of this Schedule does not apply to apparatus in respect of which the relations between Network Rail and the undertaker are regulated by the provisions of Part 3 of the 1991 Act.
 
-**4.**[^key-2fb850b2f5d57051b14b1ca53bba2929] Regardless of any provision in this Order or anything shown on the land plans, Network Rail must not acquire any apparatus otherwise than by agreement.
+**4.**[^c-2fb850b2f5d57051b14b1ca53bba2929] Regardless of any provision in this Order or anything shown on the land plans, Network Rail must not acquire any apparatus otherwise than by agreement.
 
-**5.**[^key-9e1e991dc2a4ff519ffd96d1937c2ead] (1) If, in the exercise of the powers conferred by this Order, Network Rail acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of an undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker in question.
+**5.**[^c-9e1e991dc2a4ff519ffd96d1937c2ead] (1) If, in the exercise of the powers conferred by this Order, Network Rail acquires any interest in any land in which any apparatus is placed, that apparatus must not be removed under this Part of this Schedule and any right of an undertaker to maintain that apparatus in that land must not be extinguished until alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertaker in question.
 
 (2) If, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, Network Rail requires the removal of any apparatus placed in that land, it must give to the undertaker in question written notice of that requirement, together with a plan and section of the work proposed, and of the proposed position of the alternative apparatus to be provided or constructed and in that case (or if in consequence of the exercise of any of the powers conferred by this Order an undertaker reasonably needs to remove any of its apparatus) Network Rail must, subject to sub-paragraph (3), afford to the undertaker the necessary facilities and rights for the construction of alternative apparatus in other land of Network Rail and subsequently for the maintenance of that apparatus.
 
@@ -1256,7 +1256,7 @@ Article 40
 
 (7) Nothing in sub-paragraph (6) authorises Network Rail to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-**6.**[^key-0db212d919f4e12b63f3e36060fb2b66] (1) Where, in accordance with the provisions of this Part of this Schedule, Network Rail affords to an undertaker facilities and rights for the construction and maintenance in land of Network Rail of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between Network Rail and the undertaker in question or in default of agreement settled by arbitration in accordance with article 44 (arbitration).
+**6.**[^c-0db212d919f4e12b63f3e36060fb2b66] (1) Where, in accordance with the provisions of this Part of this Schedule, Network Rail affords to an undertaker facilities and rights for the construction and maintenance in land of Network Rail of alternative apparatus in substitution for apparatus to be removed, those facilities and rights are to be granted upon such terms and conditions as may be agreed between Network Rail and the undertaker in question or in default of agreement settled by arbitration in accordance with article 44 (arbitration).
 
 (2) In settling those terms and conditions in respect of alternative apparatus to be constructed in or along any railway of Network Rail, the arbitrator must—
 
@@ -1265,7 +1265,7 @@ Article 40
 
 (3) If the facilities and rights to be afforded by Network Rail in respect of any alternative apparatus, and the terms and conditions subject to which those facilities and rights are to be granted, are in the opinion of the arbitrator less favourable on the whole to the undertaker in question than the facilities and rights enjoyed by it in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator must make such provision for the payment of compensation by Network Rail to that undertaker as appears to the arbitrator to be reasonable having regard to all the circumstances of the particular case.
 
-**7.**[^key-4c8c9ab2927eaff2761ea3567c8673f4] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 5(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by Network Rail under paragraph 5(2), Network Rail must submit to the undertaker in question a plan, section and description of the works to be executed.
+**7.**[^c-4c8c9ab2927eaff2761ea3567c8673f4] (1) Not less than 28 days before starting the execution of any works of the type referred to in paragraph 5(2) that are near to, or will or may affect, any apparatus the removal of which has not been required by Network Rail under paragraph 5(2), Network Rail must submit to the undertaker in question a plan, section and description of the works to be executed.
 
 (2) Those works are to be executed only in accordance with the plan, section and description submitted under sub-paragraph (1) and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) by the undertaker for the alteration or otherwise for the protection of the apparatus, or for securing access to it, and the undertaker is entitled to watch and inspect the execution of those works.
 
@@ -1277,7 +1277,7 @@ Article 40
 
 (6) Network Rail is not required to comply with sub-paragraph (1) in a case of emergency but in that case it must give to the undertaker in question notice as soon as is reasonably practicable and a plan, section and description of those works as soon as reasonably practicable subsequently and must comply with sub-paragraph (2) in so far as is reasonably practicable in the circumstances.
 
-**8.**[^key-a850360575bfc2253cd5a2609ce028dd] (1) Subject to the following provisions of this paragraph, Network Rail must repay to an undertaker the reasonable expenses incurred by that undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 5(2).
+**8.**[^c-a850360575bfc2253cd5a2609ce028dd] (1) Subject to the following provisions of this paragraph, Network Rail must repay to an undertaker the reasonable expenses incurred by that undertaker in, or in connection with, the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 5(2).
 
 (2) The value of any apparatus removed under the provisions of this Part of this Schedule is to be deducted from any sum payable under sub-paragraph (1), that value being calculated after removal.
 
@@ -1295,7 +1295,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) An amount which apart from this sub-paragraph would be payable to an undertaker in respect of works by virtue of sub-paragraph (1) must, if the works include the placing of apparatus provided in substitution for apparatus placed more than 7 years and 6 months earlier so as to confer on the undertaker any financial benefit by deferment of the time for renewal of the apparatus in the ordinary course, be reduced by the amount which represents that benefit.
 
-**9.**[^key-f170fe934ebc18688c52ef6b6a118b0c] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraph 5(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any undertaker, Network Rail must—
+**9.**[^c-f170fe934ebc18688c52ef6b6a118b0c] (1) Subject to sub-paragraphs (2) and (3), if by reason or in consequence of the construction of any such works referred to in paragraph 5(2), any damage is caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works) or property of an undertaker, or there is any interruption in any service provided, or in the supply of any goods, by any undertaker, Network Rail must—
 
 - (a) bear and pay the cost reasonably incurred by that undertaker in making good such damage or restoring the supply; and
 - (b) make reasonable compensation to that undertaker for any other expenses, loss, damages, penalty or costs incurred by the undertaker,
@@ -1306,28 +1306,28 @@ by reason or in consequence of any such damage or interruption.
 
 (3) An undertaker must give Network Rail reasonable notice of any such claim or demand and no settlement or compromise is to be made without the consent of Network Rail which, if it withholds such consent, has the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**10.**[^key-213b907236bbf5e2808f13b121f11492] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between Network Rail and an undertaker in respect of any apparatus laid or erected in land belonging to Network Rail on the date on which this Order is made.
+**10.**[^c-213b907236bbf5e2808f13b121f11492] Nothing in this Part of this Schedule affects the provisions of any enactment or agreement regulating the relations between Network Rail and an undertaker in respect of any apparatus laid or erected in land belonging to Network Rail on the date on which this Order is made.
 
 ### PART 2 — FOR THE PROTECTION OF OPERATORS OF ELECTRONIC COMMUNICATIONS CODE NETWORKS
 
-**11.**[^key-d7de96488f9e504793520fc35cfdfe53] For the protection of any operator, the following provisions, unless otherwise agreed in writing between Network Rail and the operator, have effect.
+**11.**[^c-d7de96488f9e504793520fc35cfdfe53] For the protection of any operator, the following provisions, unless otherwise agreed in writing between Network Rail and the operator, have effect.
 
-**12.**[^key-20a18d38bb3d18f13f548749276adbec] In this Part of this Schedule—
+**12.**[^c-20a18d38bb3d18f13f548749276adbec] In this Part of this Schedule—
 
 - “the 2003 Act” means the Communications Act 2003[^f00033];
-- [^key-fca45c7e0fb426ef9a1d25d21da7fb15]...
+- [^c-fca45c7e0fb426ef9a1d25d21da7fb15]...
 - “electronic communications apparatus” has the same meaning as in the electronic communications code;
 - “the electronic communications code” has the same meaning as in Chapter 1 of Part 2 of the 2003 Act[^f00034];
 - “electronic communications code network” means—
-  - (a) so much of an electronic communications network or infrastructure system[^key-4c65d269e11cc221082e01a2d3f3a3cf] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
+  - (a) so much of an electronic communications network or infrastructure system[^c-4c65d269e11cc221082e01a2d3f3a3cf] provided by an electronic communications code operator as is not excluded from the application of the electronic communications code by a direction under section 106 of the 2003 Act; and
   - (b) an electronic communications network which the Secretary of State is providing or proposing to provide;
 - “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106 of the 2003 Act; and
-- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^key-3d617e337d95153e839f7c734720517d]
+- “infrastructure system” has the same meaning as in the electronic communications code and references to providing an infrastructure system are to be construed in accordance with paragraph 7 of that code;[^c-3d617e337d95153e839f7c734720517d]
 - “operator” means the operator of an electronic communications code network.
 
-**13.**[^key-bed23af9632edff30d30f11cef15734e] The exercise of the powers of article 32 (statutory undertakers) are subject to Part 10 of Schedule 3A to the Communications Act 2003[^key-ebcb51e0a906f1c00d3587a7daa4e438] (undertaker’s works).
+**13.**[^c-bed23af9632edff30d30f11cef15734e] The exercise of the powers of article 32 (statutory undertakers) are subject to Part 10 of Schedule 3A to the Communications Act 2003[^c-ebcb51e0a906f1c00d3587a7daa4e438] (undertaker’s works).
 
-**14.**[^key-3ea342cf50c9f64bc7f53bcab4ead1fb] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or their construction, or of any subsidence resulting from any of those works—
+**14.**[^c-3ea342cf50c9f64bc7f53bcab4ead1fb] (1) Subject to sub-paragraphs (2) to (4), if as the result of the authorised development or their construction, or of any subsidence resulting from any of those works—
 
 - (a) any damage is caused to any electronic communications apparatus belonging to an operator (other than apparatus the repair of which is not reasonably necessary in view of its intended removal for the purposes of those works, or other property of an operator); or
 - (b) there is any interruption in the supply of the service provided by an operator, Network Rail must bear and pay the cost reasonably incurred by the operator in making good such damage or restoring the supply and must—
@@ -1349,7 +1349,7 @@ by reason or in consequence of any such damage or interruption.
 
 ### PART 3 — FOR THE PROTECTION OF THE ENVIRONMENT AGENCY
 
-**15.**[^key-f8ef305a083c372d4d723bf56616b79e] (1) For the protection of the Agency, the following provisions, unless otherwise agreed in writing between Network Rail and the Agency, have effect.
+**15.**[^c-f8ef305a083c372d4d723bf56616b79e] (1) For the protection of the Agency, the following provisions, unless otherwise agreed in writing between Network Rail and the Agency, have effect.
 
 (2) In this Part of this Schedule—
 
@@ -1365,7 +1365,7 @@ by reason or in consequence of any such damage or interruption.
   - (d) affect the conservation, distribution or use of water resources; and
 - “watercourse” includes all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer.
 
-**16.**[^key-46bba4bb119c27a360a8b619f594bc96] (1) Before beginning to construct any specified work, Network Rail must submit to the Agency plans of the specified work and such further particulars available to it as the Agency may within 28 days of the receipt of the plans reasonably require.
+**16.**[^c-46bba4bb119c27a360a8b619f594bc96] (1) Before beginning to construct any specified work, Network Rail must submit to the Agency plans of the specified work and such further particulars available to it as the Agency may within 28 days of the receipt of the plans reasonably require.
 
 (2) Any such specified work must not be constructed except in accordance with such plans as may be approved in writing by the Agency, or determined under paragraph 26.
 
@@ -1377,14 +1377,14 @@ by reason or in consequence of any such damage or interruption.
 
 (4) The Agency must use its reasonable endeavours to respond to the submission of any plans before the expiration of the period mentioned in sub-paragraph (3)(b).
 
-**17.**[^key-15d22b5cc40dee0beca95d36e99069bd] Without limitation on the scope of paragraph 16 but subject always to the provision of that paragraph as to reasonableness, the requirements which the Agency may make under that paragraph include conditions requiring Network Rail at its own expense to construct such protective works, whether temporary or permanent, before or during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary—
+**17.**[^c-15d22b5cc40dee0beca95d36e99069bd] Without limitation on the scope of paragraph 16 but subject always to the provision of that paragraph as to reasonableness, the requirements which the Agency may make under that paragraph include conditions requiring Network Rail at its own expense to construct such protective works, whether temporary or permanent, before or during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary—
 
 - (a) to safeguard any drainage work against damage; or
 - (b) to secure that its efficiency for flood defence purposes is not impaired and that the risk of flooding is not otherwise increased,
 
 by reason of the specified work.
 
-**18.**[^key-c552fdb6f33036a3b3c8eb35d4042276] (1) Subject to sub-paragraph (2), the specified work, and all protective works required by the Agency under paragraph 17, must be constructed—
+**18.**[^c-c552fdb6f33036a3b3c8eb35d4042276] (1) Subject to sub-paragraph (2), the specified work, and all protective works required by the Agency under paragraph 17, must be constructed—
 
 - (a) without unnecessary delay in accordance with the plans approved or deemed to have been approved or settled under this Part of this Schedule; and
 - (b) to the reasonable satisfaction of the Agency,
@@ -1401,7 +1401,7 @@ and an officer of the Agency is entitled to watch and inspect the construction o
 
 (6) In the event of any dispute as to whether sub-paragraph (4) is properly applicable to any work in respect of which notice has been served under that sub-paragraph, or as to the reasonableness of any requirement of such a notice, the Agency must not except in emergency exercise the powers conferred by sub-paragraph (5) until the dispute has been finally determined.
 
-**19.**[^key-191313fa5a03c56aa1922739262ea9af] (1) Subject to sub-paragraph (6), Network Rail must from the commencement of the construction of the specified works maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation and on land held by Network Rail for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
+**19.**[^c-191313fa5a03c56aa1922739262ea9af] (1) Subject to sub-paragraph (6), Network Rail must from the commencement of the construction of the specified works maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation and on land held by Network Rail for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers conferred by this Order or is already in existence.
 
 (2) If any such drainage work which Network Rail is liable to maintain is not maintained to the reasonable satisfaction of the Agency, the Agency may by notice in writing require Network Rail to repair and restore the work, or any part of such work, or (if Network Rail so elects and the Agency in writing consents, such consent not to be unreasonably withheld or delayed), to remove the work and restore the site to its former condition, to such extent and within such limits as the Agency reasonably requires.
 
@@ -1413,9 +1413,9 @@ and an officer of the Agency is entitled to watch and inspect the construction o
 
 (6) This paragraph does not apply to drainage works which are vested in the Agency, or which the Agency or another person is liable to maintain and is not prescribed by the powers of the Order from doing so.
 
-**20.**[^key-06db7c962c592d4d9b1b36f7c1039316] Subject to paragraph 22, if by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage must be made good by Network Rail to the reasonable satisfaction of the Agency and if Network Rail fails to do so, the Agency may make good the same and recover from Network Rail the expense reasonably incurred by it in so doing.
+**20.**[^c-06db7c962c592d4d9b1b36f7c1039316] Subject to paragraph 22, if by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage must be made good by Network Rail to the reasonable satisfaction of the Agency and if Network Rail fails to do so, the Agency may make good the same and recover from Network Rail the expense reasonably incurred by it in so doing.
 
-**21.**[^key-bdbee3894c269af476b4f6afd7c9411f] (1) Network Rail must take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
+**21.**[^c-bdbee3894c269af476b4f6afd7c9411f] (1) Network Rail must take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
 
 (2) If by reason of—
 
@@ -1428,17 +1428,17 @@ damage to the fishery is caused, or the Agency has reason to expect that such da
 
 (4) Subject to paragraph 22, in any case where immediate action by the Agency is reasonably required in order to secure that the risk of damage to the fishery is avoided or reduced, the Agency may take such steps as are reasonable for the purpose, and may recover from Network Rail the reasonable cost of so doing provided that notice specifying those steps is served on Network Rail as soon as reasonably practicable after the Agency has taken, or commenced to take, the steps specified in the notice.
 
-**22.**[^key-9a3c7e719cab9a909c8659a415e4cacb] (1) Nothing in paragraphs 18(4), 19(3), 20, 21(3) and (4) authorises the Agency to execute works on or affecting an operational railway forming part of Network Rail’s network without the prior consent in writing of Network Rail.
+**22.**[^c-9a3c7e719cab9a909c8659a415e4cacb] (1) Nothing in paragraphs 18(4), 19(3), 20, 21(3) and (4) authorises the Agency to execute works on or affecting an operational railway forming part of Network Rail’s network without the prior consent in writing of Network Rail.
 
 (2) Consent under paragraph 1 must not be unreasonably withheld or delayed and Network Rail is deemed to have given its consent if it has not refused consent within 2 calendar months of receiving a written request by the Agency.
 
-**23.**[^key-99749681d0559485441ff4a3dd4d5cf2] Network Rail must indemnify the Agency in respect of all costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain—
+**23.**[^c-99749681d0559485441ff4a3dd4d5cf2] Network Rail must indemnify the Agency in respect of all costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain—
 
 - (a) in the examination or approval of plans under this Part of this Schedule; and
 - (b) in the inspection of the construction of the specified works or any protective works required by the Agency under this Part of this Schedule; and
 - (c) the carrying out of any surveys or tests by the Agency which are reasonably required in connection with the construction of the specified works.
 
-**24.**[^key-fb0d3ee7ffe44cd6770d8b52fd086430] (1) Without affecting the other provisions of this Part of this Schedule, Network Rail must indemnify the Agency from all claims, demands, proceedings, costs, damages, expenses or loss, which may be made or taken against, recovered from, or incurred by, the Agency by reason of—
+**24.**[^c-fb0d3ee7ffe44cd6770d8b52fd086430] (1) Without affecting the other provisions of this Part of this Schedule, Network Rail must indemnify the Agency from all claims, demands, proceedings, costs, damages, expenses or loss, which may be made or taken against, recovered from, or incurred by, the Agency by reason of—
 
 - (a) any damage to any drainage work so as to impair its efficiency for the purposes of flood defence;
 - (b) any damage to the fishery;
@@ -1450,9 +1450,9 @@ which is caused by the construction of any of the specified works or any act or 
 
 (2) The Agency must give to Network Rail reasonable notice of any such claim or demand and no settlement or compromise may be made without the agreement of Network Rail which agreement must not be unreasonably withheld or delayed.
 
-**25.**[^key-57786dca25d896345ed82f37b9bd71ad] The fact that any work or thing has been executed or done by Network Rail in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, does not relieve Network Rail from any liability under the provisions of this Part of this Schedule.
+**25.**[^c-57786dca25d896345ed82f37b9bd71ad] The fact that any work or thing has been executed or done by Network Rail in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, does not relieve Network Rail from any liability under the provisions of this Part of this Schedule.
 
-**26.**[^key-512c7d20f9226046c21037eea273b253] Any dispute arising between Network Rail and the Agency under this Part of this Schedule, if the parties agree, is to be determined by arbitration under article 44 (arbitration), but otherwise is to be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly on a reference to them by Network Rail or the Agency, after notice in writing by one to the other.
+**26.**[^c-512c7d20f9226046c21037eea273b253] Any dispute arising between Network Rail and the Agency under this Part of this Schedule, if the parties agree, is to be determined by arbitration under article 44 (arbitration), but otherwise is to be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly on a reference to them by Network Rail or the Agency, after notice in writing by one to the other.
 
 EXPLANATORY NOTE
 
@@ -1476,9 +1476,9 @@ A copy of the plans and sections and the book of reference mentioned in this Ord
 
 [^f00003]: Footnote: [S.I. 2010/103](https://www.legislation.gov.uk/uksi/2010/103).
 
-[^key-edc23de6963e5158d5a19e4da118e769]: Commencement: Art. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-edc23de6963e5158d5a19e4da118e769]: Commencement: Art. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-be6de8df43546ee1e9ab5f61fa6bdd92]: Commencement: Art. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-be6de8df43546ee1e9ab5f61fa6bdd92]: Commencement: Art. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00004]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -1500,7 +1500,7 @@ A copy of the plans and sections and the book of reference mentioned in this Ord
 
 [^f00013]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-0ffa3e46f6173bd0f94a0fb1950a7e42]: Commencement: Art. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-0ffa3e46f6173bd0f94a0fb1950a7e42]: Commencement: Art. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00014]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 
@@ -1508,181 +1508,181 @@ A copy of the plans and sections and the book of reference mentioned in this Ord
 
 [^f00016]: Footnote: [1863 c. 92](https://www.legislation.gov.uk/ukpga/1863/92).
 
-[^key-7353f1d6665780ffff088b2ed5981874]: Commencement: Art. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-7353f1d6665780ffff088b2ed5981874]: Commencement: Art. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-34d78f6f7c1169c4b5e9cdc76d4630da]: Commencement: Art. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-34d78f6f7c1169c4b5e9cdc76d4630da]: Commencement: Art. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-6c24a704e6fc5aca6733e2db5141022d]: Commencement: Art. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-6c24a704e6fc5aca6733e2db5141022d]: Commencement: Art. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-b696ec989bad860edd04b8a2a15d2a7f]: Commencement: Art. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-b696ec989bad860edd04b8a2a15d2a7f]: Commencement: Art. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-4386ca2fb5c86a8e3598cbd87c43e952]: Commencement: Art. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-4386ca2fb5c86a8e3598cbd87c43e952]: Commencement: Art. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-12cfc4020d5814a583ad78ba2ed10748]: Commencement: Art. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-12cfc4020d5814a583ad78ba2ed10748]: Commencement: Art. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-07d7d5135bde38a785289a63dcaaff20]: Commencement: Art. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-07d7d5135bde38a785289a63dcaaff20]: Commencement: Art. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-80667b72a2afa9a25754e8e43409ece2]: Commencement: Art. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-80667b72a2afa9a25754e8e43409ece2]: Commencement: Art. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-50a7c8267e383397a746659ea7868fe4]: Commencement: Art. 12 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-50a7c8267e383397a746659ea7868fe4]: Commencement: Art. 12 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-3121833dc803d59c6b0b6ee929730ac2]: Commencement: Art. 13 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-3121833dc803d59c6b0b6ee929730ac2]: Commencement: Art. 13 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-800f08d70f38e85169863d8b282833c2]: Commencement: Art. 14 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-800f08d70f38e85169863d8b282833c2]: Commencement: Art. 14 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-0f4c2eb3334db8026f69fa579a228001]: Commencement: Art. 15 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-0f4c2eb3334db8026f69fa579a228001]: Commencement: Art. 15 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-09fd39405083117ad1c797e6e62487eb]: Commencement: Art. 16 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-09fd39405083117ad1c797e6e62487eb]: Commencement: Art. 16 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-4dfa24916147d76e29b331ed22a12f64]: Commencement: Art. 17 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-4dfa24916147d76e29b331ed22a12f64]: Commencement: Art. 17 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-b6a3f9b36b204af50a26edecbd0fa27b]: Commencement: Art. 18 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-b6a3f9b36b204af50a26edecbd0fa27b]: Commencement: Art. 18 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-727eaa2a052875f9dfdbe17e27563577]: Commencement: Art. 19 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-727eaa2a052875f9dfdbe17e27563577]: Commencement: Art. 19 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-7860e0005008e998e9b7cb23d298a9fe]: Commencement: Art. 20 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-7860e0005008e998e9b7cb23d298a9fe]: Commencement: Art. 20 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00017]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-10e093e43a229b56c47758d3caf00612]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2012/2635/article/20/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 43](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/43) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-10e093e43a229b56c47758d3caf00612]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2012/2635/article/20/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 43](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/43) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00019]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57)
 
-[^key-aabd114a19a8941b0f9e40d71643edaf]: Commencement: Art. 21 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-aabd114a19a8941b0f9e40d71643edaf]: Commencement: Art. 21 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-c1788a1b01d50ad4c750d64d84da09bc]: Commencement: Art. 22 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-c1788a1b01d50ad4c750d64d84da09bc]: Commencement: Art. 22 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-0f57db4359e8e4d06060506f5dc63c47]: Commencement: Art. 23 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-0f57db4359e8e4d06060506f5dc63c47]: Commencement: Art. 23 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-b8b5583973c4178f5e8dba91ebf2136a]: Commencement: Art. 24 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-b8b5583973c4178f5e8dba91ebf2136a]: Commencement: Art. 24 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-2b80d8c6141f4015859e29afc43dc54d]: Commencement: Art. 25 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-2b80d8c6141f4015859e29afc43dc54d]: Commencement: Art. 25 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-76e6b15b28da1f71de201242ae0f30ed]: Commencement: Art. 26 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-76e6b15b28da1f71de201242ae0f30ed]: Commencement: Art. 26 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-9928a33204baa61d29a7a28058f95940]: Commencement: Art. 27 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-9928a33204baa61d29a7a28058f95940]: Commencement: Art. 27 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-df246569699d75f570c29ace36b7c96d]: Commencement: Art. 28 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-df246569699d75f570c29ace36b7c96d]: Commencement: Art. 28 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-f087c586a6c25b994f8ab70ffe7095d3]: Commencement: Art. 29 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-f087c586a6c25b994f8ab70ffe7095d3]: Commencement: Art. 29 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-dd9658dfd66f4307c383345b5f32f046]: Commencement: Art. 30 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-dd9658dfd66f4307c383345b5f32f046]: Commencement: Art. 30 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-9dfbd507dc717bbefe78a3b8cdb6b4f3]: Commencement: Art. 31 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-9dfbd507dc717bbefe78a3b8cdb6b4f3]: Commencement: Art. 31 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-5e0c450d1d3e7fdcb780735afbc4464d]: Commencement: Art. 32 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-5e0c450d1d3e7fdcb780735afbc4464d]: Commencement: Art. 32 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-bdb976beca646804d79f1072c3c66c7e]: Commencement: Art. 33 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-bdb976beca646804d79f1072c3c66c7e]: Commencement: Art. 33 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00020]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to this Act which are not relevant to this Order.
 
-[^key-1fc8ea15e5c4449417dec67e613394bc]: Commencement: Art. 34 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-1fc8ea15e5c4449417dec67e613394bc]: Commencement: Art. 34 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-2d531d50a870008fece73914223ae668]: Commencement: Art. 35 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-2d531d50a870008fece73914223ae668]: Commencement: Art. 35 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00021]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43). This Act has been amended by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), the Railways and Transport Safety Act [2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20) and the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14). There are other amendments to this Act which are not relevant to this Order.
 
-[^key-302c51f756251ed9c7621948aa971529]: Commencement: Art. 36 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-302c51f756251ed9c7621948aa971529]: Commencement: Art. 36 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-1853e21db692f474a6013728c23b731c]: Commencement: Art. 37 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-1853e21db692f474a6013728c23b731c]: Commencement: Art. 37 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-b76c22923c79a9fd8050417a95f8d1ad]: Commencement: Art. 38 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-b76c22923c79a9fd8050417a95f8d1ad]: Commencement: Art. 38 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00022]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 
 [^f00023]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act [1990, c. 25](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to the 1974 Act which are not relevant to this Order.
 
-[^key-98a58013d503c40aae9169030423df4c]: Commencement: Art. 39 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-98a58013d503c40aae9169030423df4c]: Commencement: Art. 39 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00024]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-027c6da7873a4d305820048838a086f8]: Commencement: Art. 40 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-027c6da7873a4d305820048838a086f8]: Commencement: Art. 40 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-0433df410fc9b5594f6959082734703d]: Commencement: Art. 41 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-0433df410fc9b5594f6959082734703d]: Commencement: Art. 41 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00025]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26). Section 20 was amended by subsection (6) and (12) of section 146 of, and Schedule 13 to, the Road Traffic Regulation Act [1984 (c.27)](https://www.legislation.gov.uk/ukpga/1984/27). Subsection (10) of section 20 was repealed by section 343(3) of, and Schedule 25 to, the Highway Act [1980 (c.66)](https://www.legislation.gov.uk/ukpga/1980/66) and subsection (11) was repealed by section 155 of, and Schedule 25 to, the Rent Act [1977 (c.42)](https://www.legislation.gov.uk/ukpga/1977/42). There are other amendments to the 1973 Act which are not relevant to this Order.
 
-[^key-2e1688a33eeda7cd16321082df254a1d]: Commencement: Art. 42 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-2e1688a33eeda7cd16321082df254a1d]: Commencement: Art. 42 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-18a8a4c2cf308b31369b274c807799ee]: Commencement: Art. 43 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-18a8a4c2cf308b31369b274c807799ee]: Commencement: Art. 43 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00026]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f4edaf7fd5412f084b43d357e7372740]: Commencement: Art. 44 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-f4edaf7fd5412f084b43d357e7372740]: Commencement: Art. 44 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-83c0ff7cd0c45ce2583f57c888a4af14]: Commencement: Sch. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-83c0ff7cd0c45ce2583f57c888a4af14]: Commencement: Sch. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-b254e6aae1f030e12604dff236d9dc77]: Commencement: Sch. 2 para. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-b254e6aae1f030e12604dff236d9dc77]: Commencement: Sch. 2 para. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-63200764140d0abf1947b906e363f65a]: Commencement: Sch. 2 para. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-63200764140d0abf1947b906e363f65a]: Commencement: Sch. 2 para. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-b99f198430385bddd2a245a4eb59a87d]: Commencement: Sch. 2 para. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-b99f198430385bddd2a245a4eb59a87d]: Commencement: Sch. 2 para. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-f46326187665ff30d62e25d8600b789d]: Commencement: Sch. 2 para. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-f46326187665ff30d62e25d8600b789d]: Commencement: Sch. 2 para. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-3053fa9b7d1d67cf7475e5f053ebea8a]: Commencement: Sch. 2 para. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-3053fa9b7d1d67cf7475e5f053ebea8a]: Commencement: Sch. 2 para. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-9fc643f410c68cc5964acaa3d9decdbf]: Commencement: Sch. 2 para. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-9fc643f410c68cc5964acaa3d9decdbf]: Commencement: Sch. 2 para. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-3c7b05f458d5617a66c72046701d2f32]: Commencement: Sch. 2 para. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-3c7b05f458d5617a66c72046701d2f32]: Commencement: Sch. 2 para. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-cfcfd80239bd97f3f2828ecf2420a64b]: Commencement: Sch. 2 para. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-cfcfd80239bd97f3f2828ecf2420a64b]: Commencement: Sch. 2 para. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00027]: Footnote: [S.I. 2008/314](https://www.legislation.gov.uk/uksi/2008/314).
 
-[^key-1cb460867c65d3aac8c74b6db470200d]: Commencement: Sch. 2 para. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-1cb460867c65d3aac8c74b6db470200d]: Commencement: Sch. 2 para. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-36feb76bca5409559edd36d1bb585431]: Commencement: Sch. 2 para. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-36feb76bca5409559edd36d1bb585431]: Commencement: Sch. 2 para. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-347c06d459ed5dc6270886486cbea904]: Commencement: Sch. 2 para. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-347c06d459ed5dc6270886486cbea904]: Commencement: Sch. 2 para. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-825e9a45155c02fc4fd537cb56b9a6d6]: Textual amendment: Words in [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2012/2635/schedule/2/paragraph/11) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(hh)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/hh) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+[^c-825e9a45155c02fc4fd537cb56b9a6d6]: Textual amendment: Words in [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2012/2635/schedule/2/paragraph/11) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(hh)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/hh) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
 
-[^key-c5d6cea765d4f1f2604a7efec1969256]: Commencement: Sch. 2 para. 12 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-c5d6cea765d4f1f2604a7efec1969256]: Commencement: Sch. 2 para. 12 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-4e324ed712e10828b949cbcadb5ebca9]: Commencement: Sch. 2 para. 13 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-4e324ed712e10828b949cbcadb5ebca9]: Commencement: Sch. 2 para. 13 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-87d7970aae2ed203705058095199f0cc]: Commencement: Sch. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-87d7970aae2ed203705058095199f0cc]: Commencement: Sch. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-c5ea92611e0596e4e524aee7fedc7564]: Commencement: Sch. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-c5ea92611e0596e4e524aee7fedc7564]: Commencement: Sch. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-7af9eae012758f1694aa1bd6a7012e65]: Commencement: Sch. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-7af9eae012758f1694aa1bd6a7012e65]: Commencement: Sch. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-1978dd395352a7e16a84848ebca31da0]: Commencement: Sch. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-1978dd395352a7e16a84848ebca31da0]: Commencement: Sch. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-997966aa19218a150446cb2cc05a85c3]: Commencement: Sch. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-997966aa19218a150446cb2cc05a85c3]: Commencement: Sch. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-5335de6a6da5f7642b875be1aaf9f9f3]: Commencement: Sch. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-5335de6a6da5f7642b875be1aaf9f9f3]: Commencement: Sch. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-bc0e261fef6d72554473aff6209d5834]: Commencement: Sch. 9 para. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-bc0e261fef6d72554473aff6209d5834]: Commencement: Sch. 9 para. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-445c3d12900badde2212125463d3a200]: Commencement: Sch. 9 para. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-445c3d12900badde2212125463d3a200]: Commencement: Sch. 9 para. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00028]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-2baedd2c2229664b5ec88821ad1f400b]: Commencement: Sch. 9 para. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-2baedd2c2229664b5ec88821ad1f400b]: Commencement: Sch. 9 para. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-8a2246e08de715d7fc38651679fa2e7c]: Commencement: Sch. 9 para. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-8a2246e08de715d7fc38651679fa2e7c]: Commencement: Sch. 9 para. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-69c8efd50f9b8098d8afc87a0be47c4b]: Commencement: Sch. 9 para. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-69c8efd50f9b8098d8afc87a0be47c4b]: Commencement: Sch. 9 para. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00029]: Footnote: [S.I. 2012/2635](https://www.legislation.gov.uk/uksi/2012/2635)
 
-[^key-2bdbc632e5484fb75e3f9408e568ae91]: Commencement: Sch. 9 para. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-2bdbc632e5484fb75e3f9408e568ae91]: Commencement: Sch. 9 para. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-6c2ec9f8fe2e86b3a4a39dc19b6bcf8f]: Commencement: Sch. 9 para. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-6c2ec9f8fe2e86b3a4a39dc19b6bcf8f]: Commencement: Sch. 9 para. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-ac671dedec7867f2f2484873a06a4e63]: Commencement: Sch. 9 para. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-ac671dedec7867f2f2484873a06a4e63]: Commencement: Sch. 9 para. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-3cf7f28975ae5019eb9370c8223b362b]: Commencement: Sch. 9 para. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-3cf7f28975ae5019eb9370c8223b362b]: Commencement: Sch. 9 para. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-a0fcd27dd0a84d888482bcbe7bbae6d7]: Commencement: Sch. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-a0fcd27dd0a84d888482bcbe7bbae6d7]: Commencement: Sch. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-efdfba00d50df0f2a8b4c1699de8796a]: Commencement: Sch. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-efdfba00d50df0f2a8b4c1699de8796a]: Commencement: Sch. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-f82453a80ba840312604a2a2f150d711]: Commencement: Sch. 12 para. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-f82453a80ba840312604a2a2f150d711]: Commencement: Sch. 12 para. 1 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-af4a91f7659adc743e9f32e79e2b3093]: Commencement: Sch. 12 para. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-af4a91f7659adc743e9f32e79e2b3093]: Commencement: Sch. 12 para. 2 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00030]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -1690,62 +1690,62 @@ A copy of the plans and sections and the book of reference mentioned in this Ord
 
 [^f00032]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44). A new section 7 was substituted by section 5 of the Gas Act [1995 (c.45)](https://www.legislation.gov.uk/ukpga/1995/45), and was further amended by section 76 of the Utilities Act [2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-a6df4d7c692f6c4bc9ffc554b096ac3b]: Commencement: Sch. 12 para. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-a6df4d7c692f6c4bc9ffc554b096ac3b]: Commencement: Sch. 12 para. 3 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-2fb850b2f5d57051b14b1ca53bba2929]: Commencement: Sch. 12 para. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-2fb850b2f5d57051b14b1ca53bba2929]: Commencement: Sch. 12 para. 4 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-9e1e991dc2a4ff519ffd96d1937c2ead]: Commencement: Sch. 12 para. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-9e1e991dc2a4ff519ffd96d1937c2ead]: Commencement: Sch. 12 para. 5 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-0db212d919f4e12b63f3e36060fb2b66]: Commencement: Sch. 12 para. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-0db212d919f4e12b63f3e36060fb2b66]: Commencement: Sch. 12 para. 6 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-4c8c9ab2927eaff2761ea3567c8673f4]: Commencement: Sch. 12 para. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-4c8c9ab2927eaff2761ea3567c8673f4]: Commencement: Sch. 12 para. 7 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-a850360575bfc2253cd5a2609ce028dd]: Commencement: Sch. 12 para. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-a850360575bfc2253cd5a2609ce028dd]: Commencement: Sch. 12 para. 8 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-f170fe934ebc18688c52ef6b6a118b0c]: Commencement: Sch. 12 para. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-f170fe934ebc18688c52ef6b6a118b0c]: Commencement: Sch. 12 para. 9 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-213b907236bbf5e2808f13b121f11492]: Commencement: Sch. 12 para. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-213b907236bbf5e2808f13b121f11492]: Commencement: Sch. 12 para. 10 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-d7de96488f9e504793520fc35cfdfe53]: Commencement: Sch. 12 para. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-d7de96488f9e504793520fc35cfdfe53]: Commencement: Sch. 12 para. 11 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-20a18d38bb3d18f13f548749276adbec]: Commencement: Sch. 12 para. 12 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-20a18d38bb3d18f13f548749276adbec]: Commencement: Sch. 12 para. 12 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
 [^f00033]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-fca45c7e0fb426ef9a1d25d21da7fb15]: Textual amendment: Words in [Sch. 12 para. 12](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/12) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/a/i)
+[^c-fca45c7e0fb426ef9a1d25d21da7fb15]: Textual amendment: Words in [Sch. 12 para. 12](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/12) omitted (28.12.2017) by virtue of [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/a/i)
 
 [^f00034]: Footnote: See section 106.
 
-[^key-4c65d269e11cc221082e01a2d3f3a3cf]: Textual amendment: Words in [Sch. 12 para. 12](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/12/a) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/a/ii)
+[^c-4c65d269e11cc221082e01a2d3f3a3cf]: Textual amendment: Words in [Sch. 12 para. 12](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/12/a) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/a/ii)
 
-[^key-3d617e337d95153e839f7c734720517d]: Textual amendment: Words in [Sch. 12 para. 12](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/12) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/a/iii)
+[^c-3d617e337d95153e839f7c734720517d]: Textual amendment: Words in [Sch. 12 para. 12](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/12) inserted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/a/iii)
 
-[^key-bed23af9632edff30d30f11cef15734e]: Commencement: Sch. 12 para. 13 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-bed23af9632edff30d30f11cef15734e]: Commencement: Sch. 12 para. 13 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-ebcb51e0a906f1c00d3587a7daa4e438]: Textual amendment: Words in [Sch. 12 para. 13](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/13) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/b)
+[^c-ebcb51e0a906f1c00d3587a7daa4e438]: Textual amendment: Words in [Sch. 12 para. 13](https://www.legislation.gov.uk/uksi/2012/2635/schedule/12/paragraph/13) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 1 para. 7(2)(b)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/1/paragraph/7/2/b)
 
-[^key-3ea342cf50c9f64bc7f53bcab4ead1fb]: Commencement: Sch. 12 para. 14 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-3ea342cf50c9f64bc7f53bcab4ead1fb]: Commencement: Sch. 12 para. 14 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-f8ef305a083c372d4d723bf56616b79e]: Commencement: Sch. 12 para. 15 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-f8ef305a083c372d4d723bf56616b79e]: Commencement: Sch. 12 para. 15 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-46bba4bb119c27a360a8b619f594bc96]: Commencement: Sch. 12 para. 16 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-46bba4bb119c27a360a8b619f594bc96]: Commencement: Sch. 12 para. 16 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-15d22b5cc40dee0beca95d36e99069bd]: Commencement: Sch. 12 para. 17 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-15d22b5cc40dee0beca95d36e99069bd]: Commencement: Sch. 12 para. 17 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-c552fdb6f33036a3b3c8eb35d4042276]: Commencement: Sch. 12 para. 18 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-c552fdb6f33036a3b3c8eb35d4042276]: Commencement: Sch. 12 para. 18 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-191313fa5a03c56aa1922739262ea9af]: Commencement: Sch. 12 para. 19 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-191313fa5a03c56aa1922739262ea9af]: Commencement: Sch. 12 para. 19 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-06db7c962c592d4d9b1b36f7c1039316]: Commencement: Sch. 12 para. 20 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-06db7c962c592d4d9b1b36f7c1039316]: Commencement: Sch. 12 para. 20 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-bdbee3894c269af476b4f6afd7c9411f]: Commencement: Sch. 12 para. 21 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-bdbee3894c269af476b4f6afd7c9411f]: Commencement: Sch. 12 para. 21 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-9a3c7e719cab9a909c8659a415e4cacb]: Commencement: Sch. 12 para. 22 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-9a3c7e719cab9a909c8659a415e4cacb]: Commencement: Sch. 12 para. 22 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-99749681d0559485441ff4a3dd4d5cf2]: Commencement: Sch. 12 para. 23 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-99749681d0559485441ff4a3dd4d5cf2]: Commencement: Sch. 12 para. 23 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-fb0d3ee7ffe44cd6770d8b52fd086430]: Commencement: Sch. 12 para. 24 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-fb0d3ee7ffe44cd6770d8b52fd086430]: Commencement: Sch. 12 para. 24 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-57786dca25d896345ed82f37b9bd71ad]: Commencement: Sch. 12 para. 25 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-57786dca25d896345ed82f37b9bd71ad]: Commencement: Sch. 12 para. 25 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
 
-[^key-512c7d20f9226046c21037eea273b253]: Commencement: Sch. 12 para. 26 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)
+[^c-512c7d20f9226046c21037eea273b253]: Commencement: Sch. 12 para. 26 in force at 6.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2635/article/1)

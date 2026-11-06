@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Participation in respect of shares[^key-f60106ce256a2fc761b30186bb41c91e]
+## 14. Participation in respect of shares[^c-f60106ce256a2fc761b30186bb41c91e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ title to shares of that class which are recorded on an Operator register of memb
 
 ## Annotations
 
-[^key-f60106ce256a2fc761b30186bb41c91e]: Commencement: Reg. 14 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-f60106ce256a2fc761b30186bb41c91e]: Commencement: Reg. 14 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

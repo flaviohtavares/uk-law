@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Transitional provision: prior obligations etc.[^key-d42afd5dff72e338ca2107f72a2fda43][^key-368823161ba146771656796f320a907c]
+## 134. Transitional provision: prior obligations etc.[^c-d42afd5dff72e338ca2107f72a2fda43][^c-368823161ba146771656796f320a907c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ any reference in a provision mentioned in paragraph (3) to the date on which a p
 (3) The provisions referred to in paragraphs (1) and (2) are—
 
 - (a) regulation 81(5) (asset-freeze etc.: exceptions from prohibitions),
-- (b) paragraph 7A(b)(i)[^key-068f2b6d1e8c5deced024dc5c742633e] of Schedule 3 (pre-existing judicial decisions etc.), and
+- (b) paragraph 7A(b)(i)[^c-068f2b6d1e8c5deced024dc5c742633e] of Schedule 3 (pre-existing judicial decisions etc.), and
 - (c) paragraph 8(a)(i) of Schedule 3 (prior obligations).
 
 (4) In this regulation—
@@ -47,10 +47,10 @@ any reference in a provision mentioned in paragraph (3) to the date on which a p
 
 ## Annotations
 
-[^key-d42afd5dff72e338ca2107f72a2fda43]: Commencement: Reg. 134 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-d42afd5dff72e338ca2107f72a2fda43]: Commencement: Reg. 134 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-368823161ba146771656796f320a907c]: Commencement: [Reg. 134](https://www.legislation.gov.uk/uksi/2019/411/regulation/134) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-368823161ba146771656796f320a907c]: Commencement: [Reg. 134](https://www.legislation.gov.uk/uksi/2019/411/regulation/134) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-068f2b6d1e8c5deced024dc5c742633e]: Textual amendment: Word in [reg. 134(3)(b)](https://www.legislation.gov.uk/uksi/2019/411/regulation/134/3/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/16)
+[^c-068f2b6d1e8c5deced024dc5c742633e]: Textual amendment: Word in [reg. 134(3)(b)](https://www.legislation.gov.uk/uksi/2019/411/regulation/134/3/b) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/3/16)
 
 [^c23637001]: Marginal citation: OJ L 088, 29.3.2007, p. 1.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297. Habitats: reducing effects of offshore oil or gas activities etc[^key-1f54b8a13f7385edb5b0eb991859f7f8][^key-f778c5dae1f9298c21c6ee5b76389ab3]
+## 297. Habitats: reducing effects of offshore oil or gas activities etc[^c-1f54b8a13f7385edb5b0eb991859f7f8][^c-f778c5dae1f9298c21c6ee5b76389ab3]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f54b8a13f7385edb5b0eb991859f7f8]: Commencement: S. 297 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-1f54b8a13f7385edb5b0eb991859f7f8]: Commencement: S. 297 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-f778c5dae1f9298c21c6ee5b76389ab3]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2023/52/section/297) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)
+[^c-f778c5dae1f9298c21c6ee5b76389ab3]: Commencement: [S. 297](https://www.legislation.gov.uk/ukpga/2023/52/section/297) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)

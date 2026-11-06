@@ -31,7 +31,7 @@ summary: ''
 
 EMPLOYMENT
 
-Code of Practice (Time Off for Trade Union Duties and Activities) (Appointed Day) Order (Northern Ireland) 2004 (revoked)[^key-d73a1826a42753db398e1874fd42551d]
+Code of Practice (Time Off for Trade Union Duties and Activities) (Appointed Day) Order (Northern Ireland) 2004 (revoked)[^c-d73a1826a42753db398e1874fd42551d]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 19th May 2004
 
-[^key-d73a1826a42753db398e1874fd42551d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d73a1826a42753db398e1874fd42551d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d73a1826a42753db398e1874fd42551d]
+## 1. Citation and commencement[^c-d73a1826a42753db398e1874fd42551d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-d73a1826a42753db398e1874fd42551d]
+## 2. Code of Practice[^c-d73a1826a42753db398e1874fd42551d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and saving[^key-d73a1826a42753db398e1874fd42551d]
+## 3. Revocation and saving[^c-d73a1826a42753db398e1874fd42551d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d73a1826a42753db398e1874fd42551d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d73a1826a42753db398e1874fd42551d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d73a1826a42753db398e1874fd42551d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d73a1826a42753db398e1874fd42551d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d73a1826a42753db398e1874fd42551d]: Textual amendment: Order revoked (19.4.2012) by [The Code of Practice (Time Off for Trade Union Duties and Activities) (Appointed Day) Order (Northern Ireland) 2012 (S.R. 2012/138)](https://www.legislation.gov.uk/nisr/2012/138), [arts. 2](https://www.legislation.gov.uk/nisr/2012/138/article/2), [3(1)](https://www.legislation.gov.uk/nisr/2012/138/article/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2012/138/regulation/3/2))
+[^c-d73a1826a42753db398e1874fd42551d]: Textual amendment: Order revoked (19.4.2012) by [The Code of Practice (Time Off for Trade Union Duties and Activities) (Appointed Day) Order (Northern Ireland) 2012 (S.R. 2012/138)](https://www.legislation.gov.uk/nisr/2012/138), [arts. 2](https://www.legislation.gov.uk/nisr/2012/138/article/2), [3(1)](https://www.legislation.gov.uk/nisr/2012/138/article/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2012/138/regulation/3/2))

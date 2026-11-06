@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Meaning of “lower tier payment threshold”[^key-c2decc4230a19ae899eafdd3034ea093]
+## 72. Meaning of “lower tier payment threshold”[^c-c2decc4230a19ae899eafdd3034ea093]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An active member of this scheme meets the lower tier threshold for payment of an
 
 ## Annotations
 
-[^key-c2decc4230a19ae899eafdd3034ea093]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2014/1964/regulation/72) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c2decc4230a19ae899eafdd3034ea093]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2014/1964/regulation/72) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

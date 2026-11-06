@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 175. Litigation expenses and property subject to a floating charge-application to court by the bank liquidator[^key-d326696b6a5e1d167f5f822a984aa9d1]
+## 175. Litigation expenses and property subject to a floating charge-application to court by the bank liquidator[^c-d326696b6a5e1d167f5f822a984aa9d1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.228E of the 1991 Rules.
 
 ## Annotations
 
-[^key-d326696b6a5e1d167f5f822a984aa9d1]: Commencement: Rule 175 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d326696b6a5e1d167f5f822a984aa9d1]: Commencement: Rule 175 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

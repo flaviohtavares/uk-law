@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Transfer of functions and abolition of tribunal[^key-a7fd1a8fc9edeb5a49951c0a395eda10]
+## 2. Transfer of functions and abolition of tribunal[^c-a7fd1a8fc9edeb5a49951c0a395eda10]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7fd1a8fc9edeb5a49951c0a395eda10]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/21/article/2) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)
+[^c-a7fd1a8fc9edeb5a49951c0a395eda10]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/21/article/2) in force at 15.2.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/21/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Conditions of registration: certain deeds relating to unregistered plots[^key-1d3e8d155bc5a54713ac1571f8126cf3]
+## 25. Conditions of registration: certain deeds relating to unregistered plots[^c-1d3e8d155bc5a54713ac1571f8126cf3]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d3e8d155bc5a54713ac1571f8126cf3]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2012/5/section/25) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1d3e8d155bc5a54713ac1571f8126cf3]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2012/5/section/25) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

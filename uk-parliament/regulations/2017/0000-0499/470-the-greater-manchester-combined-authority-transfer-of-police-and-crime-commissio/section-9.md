@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Extension of financial year of Police and Crime Commissioner and Chief Constable for Greater Manchester[^key-188892cad4df762a8be9c13893dc0957]
+## 9. Extension of financial year of Police and Crime Commissioner and Chief Constable for Greater Manchester[^c-188892cad4df762a8be9c13893dc0957]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ to prepare a statement of accounts from that date for the period which ends on 7
 
 ## Annotations
 
-[^key-188892cad4df762a8be9c13893dc0957]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/470/article/9) in force at 25.3.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3)
+[^c-188892cad4df762a8be9c13893dc0957]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/470/article/9) in force at 25.3.2017, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2017/470/article/1/3)
 
 [^f00015]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 

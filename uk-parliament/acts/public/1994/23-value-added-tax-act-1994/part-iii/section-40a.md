@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Northern Ireland Protocol[^key-84c10f677b20ec0eede60b1af7806ca7]
+## 40A. Northern Ireland Protocol[^c-84c10f677b20ec0eede60b1af7806ca7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,12 +31,12 @@ summary: ''
 - (b) makes provision about the treatment, for the purposes of VAT, of goods that are removed from Northern Ireland to Great Britain and goods that are removed from Great Britain to Northern Ireland, and
 - (c) contains other provision relevant to the application of this Act in Northern Ireland.
 
-(3)[^key-54a0b5df2cda58373ebdd1ed49f11855] Schedule 9ZC makes provision, as a result of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, about the application of this Act in cases involving—
+(3)[^c-54a0b5df2cda58373ebdd1ed49f11855] Schedule 9ZC makes provision, as a result of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement, about the application of this Act in cases involving—
 
 - (a) supplies of goods by persons established outside the United Kingdom that are facilitated by online marketplaces, and
 - (b) the importation of goods of a low value.
 
-(4)[^key-094d86995c70d36b1d824dde97ca4a3e] Schedule 9ZD—
+(4)[^c-094d86995c70d36b1d824dde97ca4a3e] Schedule 9ZD—
 
 - (a) establishes a special accounting scheme (“**the OSS scheme**”) for use by persons making intra-Community distance sales of goods from Northern Ireland to member States, and
 - (b) makes provision about corresponding schemes in member States.
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-84c10f677b20ec0eede60b1af7806ca7]: Textual amendment: S. 40A inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/1), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-84c10f677b20ec0eede60b1af7806ca7]: Textual amendment: S. 40A inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/1), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-54a0b5df2cda58373ebdd1ed49f11855]: Textual amendment: S. 40A(3) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/26) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-54a0b5df2cda58373ebdd1ed49f11855]: Textual amendment: S. 40A(3) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2020/26/schedule/3/paragraph/26) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-094d86995c70d36b1d824dde97ca4a3e]: Textual amendment: [S. 40A(4)-(9)](https://www.legislation.gov.uk/ukpga/1994/23/section/40A/4) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/5); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)
+[^c-094d86995c70d36b1d824dde97ca4a3e]: Textual amendment: [S. 40A(4)-(9)](https://www.legislation.gov.uk/ukpga/1994/23/section/40A/4) inserted (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/5); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [reg. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3)

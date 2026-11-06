@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Task of the building society tribunal in relation to a transitional building society appeal[^key-d3f49fbfad65a9d67ad9c7ad35212063]
+## 128. Task of the building society tribunal in relation to a transitional building society appeal[^c-d3f49fbfad65a9d67ad9c7ad35212063]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ in the manner most appropriate to give effect to the building society tribunalâ€
 
 ## Annotations
 
-[^key-d3f49fbfad65a9d67ad9c7ad35212063]: Commencement: Art. 128 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-d3f49fbfad65a9d67ad9c7ad35212063]: Commencement: Art. 128 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

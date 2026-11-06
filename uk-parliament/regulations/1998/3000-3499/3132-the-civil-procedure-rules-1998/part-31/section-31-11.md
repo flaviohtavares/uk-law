@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.11. Duty of disclosure continues during proceedings[^key-de8683b77142d1dfd0692d46cc4ff8dc]
+## 31.11. Duty of disclosure continues during proceedings[^c-de8683b77142d1dfd0692d46cc4ff8dc]
 
 *Extent: E+W*
 
 (1) Any duty of disclosure continues until the proceedings are concluded.
 
-(2) If documents to which that duty extends come to a party’s notice at any time during the proceedings, they[^key-d5eab3d59eae40b90dc0616c9cbad518] must immediately notify every other party.
+(2) If documents to which that duty extends come to a party’s notice at any time during the proceedings, they[^c-d5eab3d59eae40b90dc0616c9cbad518] must immediately notify every other party.
 
 ## Annotations
 
-[^key-de8683b77142d1dfd0692d46cc4ff8dc]: Commencement: Rule 31.11 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-de8683b77142d1dfd0692d46cc4ff8dc]: Commencement: Rule 31.11 in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-d5eab3d59eae40b90dc0616c9cbad518]: Textual amendment: Word in [rule 31.11(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.11/2) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(7)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/7)
+[^c-d5eab3d59eae40b90dc0616c9cbad518]: Textual amendment: Word in [rule 31.11(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.11/2) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(7)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/7)

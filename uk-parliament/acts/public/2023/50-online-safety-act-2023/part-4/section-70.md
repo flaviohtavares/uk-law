@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Interpretation of this Chapter[^key-bda049cd50ddafbcdb380aa929ac4bc9]
+## 70. Interpretation of this Chapter[^c-bda049cd50ddafbcdb380aa929ac4bc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ For the purposes of paragraphs (b), (c) and (d) an offence is “related” to C
 
 ## Annotations
 
-[^key-bda049cd50ddafbcdb380aa929ac4bc9]: Commencement: S. 70 in force at Royal Assent, see [s. 240(4)(i)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/i)
+[^c-bda049cd50ddafbcdb380aa929ac4bc9]: Commencement: S. 70 in force at Royal Assent, see [s. 240(4)(i)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/i)

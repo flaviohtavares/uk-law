@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. The parts of the register[^key-dedb77588a411665ea7ec002d46ce4e2]
+## 2. The parts of the register[^c-dedb77588a411665ea7ec002d46ce4e2]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The Keeper must make up and maintain, as parts of the register—
 
 ## Annotations
 
-[^key-dedb77588a411665ea7ec002d46ce4e2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/5/section/2) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-dedb77588a411665ea7ec002d46ce4e2]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2012/5/section/2) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Insolvency Regulations[^key-d5c67dcb2a0afddb5f9387d6d105f9ef]
+## 23A. Insolvency Regulations[^c-d5c67dcb2a0afddb5f9387d6d105f9ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Sections 93(4) and 233 to 236 of the Banking Act 2009 apply to authorised paymen
 
 ## Annotations
 
-[^key-d5c67dcb2a0afddb5f9387d6d105f9ef]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2017/752/regulation/23A) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1275/regulation/6)
+[^c-d5c67dcb2a0afddb5f9387d6d105f9ef]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2017/752/regulation/23A) inserted (8.12.2020) by [The Payment Services and Electronic Money (Amendment) Regulations 2020 (S.I. 2020/1275)](https://www.legislation.gov.uk/uksi/2020/1275), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1275/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2020/1275/regulation/6)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. Institutions shall collect and store data on aspects of their internal ratings as required under the Disclosure (CRR) Part of the PRA Rulebook[^key-9fa5f79b39000e5ba9439ec9aaf07863].
+1. Institutions shall collect and store data on aspects of their internal ratings as required under the Disclosure (CRR) Part of the PRA Rulebook[^c-9fa5f79b39000e5ba9439ec9aaf07863].
 
 2. For exposures to corporates, institutions and central governments and central banks, and for equity exposures where an institution uses the PD/LGD approach set out in Article 155(3), institutions shall collect and store:
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-9fa5f79b39000e5ba9439ec9aaf07863]: Textual amendment: Words in [Art. 176(1)](https://www.legislation.gov.uk/eur/2013/575/article/176/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(20)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/20)
+[^c-9fa5f79b39000e5ba9439ec9aaf07863]: Textual amendment: Words in [Art. 176(1)](https://www.legislation.gov.uk/eur/2013/575/article/176/1) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(20)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/20)

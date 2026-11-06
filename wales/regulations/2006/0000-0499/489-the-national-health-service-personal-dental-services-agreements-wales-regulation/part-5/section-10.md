@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. NHS contracts[^key-70f325c3e3d969c7f26f060491a32df4]
+## 10. NHS contracts[^c-70f325c3e3d969c7f26f060491a32df4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the contractor is to be regarded as a health service body, the agreement must
 
 ## Annotations
 
-[^key-70f325c3e3d969c7f26f060491a32df4]: Commencement: Reg. 10 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-70f325c3e3d969c7f26f060491a32df4]: Commencement: Reg. 10 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

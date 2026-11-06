@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Amendment to the Education (Foundation Body) (Wales) Regulations 2001[^key-7e4fe7efee96687985878bdf99aa839b]
+## 88. Amendment to the Education (Foundation Body) (Wales) Regulations 2001[^c-7e4fe7efee96687985878bdf99aa839b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In sub-paragraph (a) of paragraph 2, of Schedule 2 to the Education (Foundation 
 
 ## Annotations
 
-[^key-7e4fe7efee96687985878bdf99aa839b]: Commencement: [Reg. 88](https://www.legislation.gov.uk/wsi/2010/638/regulation/88) in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/638/regulation/1/1)
+[^c-7e4fe7efee96687985878bdf99aa839b]: Commencement: [Reg. 88](https://www.legislation.gov.uk/wsi/2010/638/regulation/88) in force at 12.4.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/638/regulation/1/1)
 
 [^f00048]: Footnote: 2001 (S.I. [2001/2709 (W.228)](https://www.legislation.gov.uk/wsi/2001/2709)).

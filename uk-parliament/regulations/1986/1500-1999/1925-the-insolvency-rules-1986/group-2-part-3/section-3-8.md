@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.8. Report to creditors[^key-96912d6fe3c2dc3dc15ee4090fb1fd6f]
+## 3.8. Report to creditors[^c-96912d6fe3c2dc3dc15ee4090fb1fd6f]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) [^m00026] If the statement of affairs or affidavits of concurrence, if any, have not been submitted to the receiver by the time he sends a copy of his report to the registrar of companies, he shall send a copy of the statement and any affidavits of concurrence as soon thereafter as he receives them.
 
-(5)[^key-a0f92540c9041d964092251694997629] The receiver’s report under section 48(1) shall state, to the best of his knowledge and belief—
+(5)[^c-a0f92540c9041d964092251694997629] The receiver’s report under section 48(1) shall state, to the best of his knowledge and belief—
 
 - (a) an estimate of the value of the prescribed part (whether or not he proposes to make an application under section 176A(5) or whether section 176A(3) applies); and
 - (b) an estimate of the value of the company’s net property.
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-96912d6fe3c2dc3dc15ee4090fb1fd6f]: Commencement: Rule 3.8 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-96912d6fe3c2dc3dc15ee4090fb1fd6f]: Commencement: Rule 3.8 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00026]: Marginal citation: \[FORM 3.3\]
 
-[^key-a0f92540c9041d964092251694997629]: Textual amendment: Rule 3.8(5)-(7) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/10)
+[^c-a0f92540c9041d964092251694997629]: Textual amendment: Rule 3.8(5)-(7) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/10)

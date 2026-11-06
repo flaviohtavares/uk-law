@@ -24,15 +24,15 @@ Sections 8(12) and 9(6)
 
 ### Part 1 — Scotland
 
-#### 1. Rehabilitation of Offenders Act 1974[^key-845b05b094af84193eb87b5ce1255da5]
+#### 1. Rehabilitation of Offenders Act 1974[^c-845b05b094af84193eb87b5ce1255da5]
 
 In section 5(1)(da) of the Rehabilitation of Offenders Act 1974 as it forms part of the law of Scotland (disclosure periods for particular sentences), for “(terrorism sentence for young offenders or children)” substitute “(sentence with fixed licence period for young offenders or children)”.
 
-#### 2. Prisons (Scotland) Act 1989[^key-00d1c0736cfa3c98374bf80f9ebe7199]
+#### 2. Prisons (Scotland) Act 1989[^c-00d1c0736cfa3c98374bf80f9ebe7199]
 
 In section 39(7B)(a) of the Prisons (Scotland) Act 1989 (rules for the management of prisons and other institutions), after “terrorism” insert “or national security-related”.
 
-#### 3. Prisoners and Criminal Proceedings (Scotland) Act 1993[^key-1c2cd9b6d3c20be5f194b52c139880ec]
+#### 3. Prisoners and Criminal Proceedings (Scotland) Act 1993[^c-1c2cd9b6d3c20be5f194b52c139880ec]
 
 (1) The Prisoners and Criminal Proceedings (Scotland) Act 1993 is amended as follows.
 
@@ -144,7 +144,7 @@ In section 39(7B)(a) of the Prisons (Scotland) Act 1989 (rules for the managemen
   - (i) for “an offence within section 1AB(2)”, in the first place it appears, substitute “a sentence passed on a person in respect of an offence within section 1AB(2) or a national security-related sentence”;
   - (ii) after “1AB(2)”, in the second place it appears, insert “or a national security-related sentence”.
 
-#### 4. Repatriation of Prisoners Act 1984[^key-c6443d699f2550a9a735c1c6da0f30bd]
+#### 4. Repatriation of Prisoners Act 1984[^c-c6443d699f2550a9a735c1c6da0f30bd]
 
 (1) In the Schedule to the Repatriation of Prisoners Act 1984, paragraph 2 (application of early release provisions) as it applies in relation to prisoners repatriated to Scotland is amended as follows.
 
@@ -178,7 +178,7 @@ In section 39(7B)(a) of the Prisons (Scotland) Act 1989 (rules for the managemen
 
 ### Part 2 — Northern Ireland
 
-#### 5. Criminal Justice (Northern Ireland) Order 2008[^key-e03a0fc388afaf4357986063e66bfe24]
+#### 5. Criminal Justice (Northern Ireland) Order 2008[^c-e03a0fc388afaf4357986063e66bfe24]
 
 (1) The Criminal Justice (Northern Ireland) Order 2008 ([S.I 2008/1216 (N.I.1)](https://www.legislation.gov.uk/nisi/2008/1216)) is amended as follows.
 
@@ -208,7 +208,7 @@ In section 39(7B)(a) of the Prisons (Scotland) Act 1989 (rules for the managemen
 
 (7) In Article 33(6) (custodial periods to be aggregated in case of consecutive sentences), in sub-paragraph (a)(i), for “Article 15A terrorism sentence” substitute “Article 15A sentence”.
 
-#### 6. Repatriation of Prisoners Act 1984[^key-2d73e02252656892366245b96cb57f0f]
+#### 6. Repatriation of Prisoners Act 1984[^c-2d73e02252656892366245b96cb57f0f]
 
 In paragraph 2A of the Schedule to the Repatriation of Prisoners Act 1984 (application of early release provisions to prisoners repatriated to Northern Ireland), after sub-paragraph (4D) insert—
 
@@ -238,14 +238,14 @@ In paragraph 2A of the Schedule to the Repatriation of Prisoners Act 1984 (appli
 
 ## Annotations
 
-[^key-845b05b094af84193eb87b5ce1255da5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/1) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-845b05b094af84193eb87b5ce1255da5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/1) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-00d1c0736cfa3c98374bf80f9ebe7199]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/2) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-00d1c0736cfa3c98374bf80f9ebe7199]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/2) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-1c2cd9b6d3c20be5f194b52c139880ec]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-1c2cd9b6d3c20be5f194b52c139880ec]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/3) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-c6443d699f2550a9a735c1c6da0f30bd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/4) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-c6443d699f2550a9a735c1c6da0f30bd]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/4) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-e03a0fc388afaf4357986063e66bfe24]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-e03a0fc388afaf4357986063e66bfe24]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/5) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
 
-[^key-2d73e02252656892366245b96cb57f0f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/6) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-2d73e02252656892366245b96cb57f0f]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2026/2/schedule/2/paragraph/6) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

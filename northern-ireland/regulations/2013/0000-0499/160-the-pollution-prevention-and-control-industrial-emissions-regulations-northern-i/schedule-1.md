@@ -45,9 +45,9 @@ Nil.
 **Part C**
 
 - (a) Unless falling within Part A of this section, burning any fuel, in a boiler or furnace or a gas turbine or compression ignition engine with, in the case of any of these appliances, a net rated thermal input of 20 megawatts or more but less than a rated thermal input of 50 megawatts.
-- (b)[^key-93636c34669f591457aefb1c09f218ff] Unless falling within head (a) of this Part, burning any fuel or fuels in a medium combustion plant with a net rated thermal input of 1 megawatt or more but less than a rated thermal input of 20 megawatts.
+- (b)[^c-93636c34669f591457aefb1c09f218ff] Unless falling within head (a) of this Part, burning any fuel or fuels in a medium combustion plant with a net rated thermal input of 1 megawatt or more but less than a rated thermal input of 20 megawatts.
 - (c) Unless falling within another head in this part, the operation of a specified generator.
-- (b)[^key-0d76e8d354511ab0463b4df863370809] Unless falling within Part A of this section, or head (a) of this Part, burning any fuel or fuels in a combination of boilers, furnaces, turbines or compression ignition engines on the same site which, when added together, have a net rated thermal input of 20 megawatts or more but less than a rated thermal input of 50 megawatts.
+- (b)[^c-0d76e8d354511ab0463b4df863370809] Unless falling within Part A of this section, or head (a) of this Part, burning any fuel or fuels in a combination of boilers, furnaces, turbines or compression ignition engines on the same site which, when added together, have a net rated thermal input of 20 megawatts or more but less than a rated thermal input of 50 megawatts.
 
 *Interpretation of Part C*
 
@@ -55,7 +55,7 @@ Nil.
 
 **1.** Nothing in this Part applies to any activity falling within Part A of section 5.1.
 
-**2.**[^key-5530ce04d4269fc43eb6c96e23906d40] Head (b) of this Part shall only apply to installations to which Article 14(5) of the Energy Efficiency Directive applies.
+**2.**[^c-5530ce04d4269fc43eb6c96e23906d40] Head (b) of this Part shall only apply to installations to which Article 14(5) of the Energy Efficiency Directive applies.
 
 ##### SECTION 1.2 — GASIFICATION, LIQUEFACTION AND REFINING ACTIVITIES[^M_I_8ba056da-d029-413d-df95-b181d1fa70e0]
 
@@ -114,7 +114,7 @@ Nil.
 before 31<sup>st</sup> December 2009;
 
 - “inland waterway vessel” means a vessel, other than a sea-going vessel, having a total dead weight of 15 tonnes or more;
-- “new service station” means, in relation to service stations mentioned in paragraph (d)[^key-22bf16c2547da259652ca8bb1e798b78] , those which are put into operation on or after 1<sup>st</sup> January 2010 and, in relation to service stations mentioned in paragraph (e), those which are put into operation on or after 1<sup>st</sup> January 2012;
+- “new service station” means, in relation to service stations mentioned in paragraph (d)[^c-22bf16c2547da259652ca8bb1e798b78] , those which are put into operation on or after 1<sup>st</sup> January 2010 and, in relation to service stations mentioned in paragraph (e), those which are put into operation on or after 1<sup>st</sup> January 2012;
 - “petrol” means any petroleum derivative (other than liquefied petroleum gas), with or without additives, having a Reid vapour pressure of 27.6 kilopascals or more which is intended for use as a fuel for motor vehicles;
 - “listed date” means 1<sup>st</sup> January 2012 if the throughput is greater than 3500m<sup>3</sup> and 31<sup>st</sup> December 2018 if the throughput is greater than 3000m<sup>3</sup>
 - “service station” means any premises where petrol is dispensed to motor vehicle fuel tanks from stationary storage tanks but shall not include any service station exclusively used in association with the construction and delivery of new motor vehicles;
@@ -122,7 +122,7 @@ before 31<sup>st</sup> December 2009;
 
 *Extent: E+W+S+N.I.*
 
-**2.** Any other expressions used in this Part which are also used in Directive [94/63/EC](https://www.legislation.gov.uk/european/directive/1994/0063)[^f00027] of 20 December 1994 on the control of volatile organic compound (VOC) emissions resulting from the storage of petrol and its distribution from terminals to service stations as last amended by Council Regulation ([^key-eedc5d10e9993c51966e4435266b3e7b]EC) No.1137/2008 have the same meaning as in that Directive.
+**2.** Any other expressions used in this Part which are also used in Directive [94/63/EC](https://www.legislation.gov.uk/european/directive/1994/0063)[^f00027] of 20 December 1994 on the control of volatile organic compound (VOC) emissions resulting from the storage of petrol and its distribution from terminals to service stations as last amended by Council Regulation ([^c-eedc5d10e9993c51966e4435266b3e7b]EC) No.1137/2008 have the same meaning as in that Directive.
 
 #### CHAPTER 2 — PRODUCTION AND PROCESSING OF METALS
 
@@ -187,11 +187,11 @@ before 31<sup>st</sup> December 2009;
   - (ii) it does not involve the removal by heat of plastic or rubber covering from scrap cable or of any asbestos contaminant.
 - (c) Unless falling within Part A or B of this section, the separation of copper, aluminium, magnesium or zinc from mixed scrap by differential melting.
 
-*[^key-5b6da422f88bac0e5033a6b72964abd0]...*
+*[^c-5b6da422f88bac0e5033a6b72964abd0]...*
 
 *Extent: E+W+S+N.I.*
 
-**1.** [^key-5b6da422f88bac0e5033a6b72964abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.** [^c-5b6da422f88bac0e5033a6b72964abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Interpretation of section 2.2*
 
@@ -601,7 +601,7 @@ Nil
     - (iv) wood waste with the exception of wood waste which may contain halogenated organic compounds or heavy metals as a result of treatment with wood-preservatives or coating, and which includes in particular such wood waste originating from construction and demolition waste;
     - (v) cork waste;
     - (vi) radioactive waste;
-    - (vii) animal carcasses as regulated by Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)(b) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption as last amended by Council Regulation[^key-9ea4087350563624b4db4e2077ca1baa] [(EC) No. 1385/2013](https://www.legislation.gov.uk/european/regulation/2013/1385) ; or
+    - (vii) animal carcasses as regulated by Regulation [(EC) No 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)(b) of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption as last amended by Council Regulation[^c-9ea4087350563624b4db4e2077ca1baa] [(EC) No. 1385/2013](https://www.legislation.gov.uk/european/regulation/2013/1385) ; or
     - (viii) waste resulting from exploration for, and the exploitation of, oil and gas resources from off-shore installations and incinerated on board the installation;
   - (b) an experimental plant used for research, development and testing in order to improve the incineration process and which treats less than 50 tonnes of waste per year; and
   - (c) gasification or pyrolysis plants, if the gases resulting from the thermal treatment of waste are purified to such an extent that they are no longer a waste prior to their incineration and they can cause emissions no higher than those resulting from the burning of natural gas.
@@ -652,13 +652,13 @@ Nil.
 
 P**art A**
 
-- (a) Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day involving one or more of the following activities, (but excluding activities covered by Council Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271)[^f00029] of 21 May 1991 concerning urban waste-water treatment as last amended by Council[^key-d2f2a6dbefdad1e1eb89692a64e79f6f] [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) )—
+- (a) Disposal of non-hazardous waste with a capacity exceeding 50 tonnes per day involving one or more of the following activities, (but excluding activities covered by Council Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271)[^f00029] of 21 May 1991 concerning urban waste-water treatment as last amended by Council[^c-d2f2a6dbefdad1e1eb89692a64e79f6f] [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) )—
   - (i) biological treatment;
   - (ii) physico-chemical treatment;
   - (iii) pre-treatment of waste for incineration or co-incineration;
   - (iv) treatment of slags and ashes;
   - (v) treatment in shredders of metal waste, including waste electrical and electronic equipment and end-of-life vehicles and their components.
-- (b) Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving one or more of the following activities, (but excluding activities covered by Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) as last amended by Council[^key-55833734a5f025d8fad13df01789f853] [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) )—
+- (b) Recovery, or a mix of recovery and disposal, of non-hazardous waste with a capacity exceeding 75 tonnes per day involving one or more of the following activities, (but excluding activities covered by Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) as last amended by Council[^c-55833734a5f025d8fad13df01789f853] [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) )—
   - (i) biological treatment;
   - (ii) pre-treatment of waste for incineration or co-incineration;
   - (iii) treatment of slags and ashes;
@@ -833,7 +833,7 @@ Nil.
 
 **Part C**
 
-- (a) Unless falling within Part A of section 6.1, manufacturing products wholly or mainly of wood at any works if the activity involves the sawing, drilling, sanding, shaping, turning, planing[^key-7cf8f4aff112be802b22cf52bd694415] , curing or chemical treatment of wood (“relevant activities”) and the throughput of the works in any period of 12 months is likely to be more than—
+- (a) Unless falling within Part A of section 6.1, manufacturing products wholly or mainly of wood at any works if the activity involves the sawing, drilling, sanding, shaping, turning, planing[^c-7cf8f4aff112be802b22cf52bd694415] , curing or chemical treatment of wood (“relevant activities”) and the throughput of the works in any period of 12 months is likely to be more than—
   - (i) 10,000 cubic metres, in the case of works at which wood is sawed but at which wood is not subjected to any other relevant activities or is subjected only to relevant activities which are exempt activities; or
   - (ii) 1,000 cubic metres in any other case.
 
@@ -961,7 +961,7 @@ Nil.
 
 **Part A**
 
-- (a) Capture of carbon dioxide streams from an installation for the purposes of geological storage pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) [^f00032] of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide as last amended by[^key-6853dc2a77ae6e3691fc2bc2867825fc] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) .
+- (a) Capture of carbon dioxide streams from an installation for the purposes of geological storage pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/european/directive/2009/0031) [^f00032] of the European Parliament and of the Council of 23 April 2009 on the geological storage of carbon dioxide as last amended by[^c-6853dc2a77ae6e3691fc2bc2867825fc] [Directive 2011/92/EU](https://www.legislation.gov.uk/european/directive/2011/0092) .
 
 **Part B**
 
@@ -975,7 +975,7 @@ Nil.
 
 **Part A**
 
-- (a) Independently operated treatment of waste water not covered by Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) as last amended by[^key-103ebf7e6b2a6af4a6c354e3b2a648bf] [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) and discharged by a Part A installation or Part A mobile plant.
+- (a) Independently operated treatment of waste water not covered by Directive [91/271/EEC](https://www.legislation.gov.uk/european/directive/1991/0271) as last amended by[^c-103ebf7e6b2a6af4a6c354e3b2a648bf] [Directive 2013/64/EU](https://www.legislation.gov.uk/european/directive/2013/0064) and discharged by a Part A installation or Part A mobile plant.
 
 **Part B**
 
@@ -1061,12 +1061,12 @@ Nil
   - (iv) formulation; or
   - (v) finishing of pharmaceutical products and where carried out at the same site, the manufacture of intermediate products;
 - “other coating activities” means a coating activity applied to—
-  - (i) trailers, defined in categories O1, O2, O3 and O4 in Article 4 of Regulation (EU) 2018/858[^key-4eec6b4fe51a2d570b5cb2ecb67bf900]
+  - (i) trailers, defined in categories O1, O2, O3 and O4 in Article 4 of Regulation (EU) 2018/858[^c-4eec6b4fe51a2d570b5cb2ecb67bf900]
   - (ii) metallic and plastic surfaces including the surfaces of airplanes, ships and trains; and
   - (iii) textile, fabric, film and paper surfaces;
 - “printing activity” means any activity (not being a step in a coating activity) for reproducing text and/or images in which, with the use of an image carrier, ink is transferred on to any type of surface, including the use of associated varnishing, coating and laminating techniques;
 - “publication rotogravure” means a rotogravure printing activity used for printing paper for magazines, brochures, catalogues or similar products, using toluene-based inks;
-- “[^key-4e6e8cebad8481462fec06bb499a01c9]**Regulation (EU) 2018/858**” means Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;
+- “[^c-4e6e8cebad8481462fec06bb499a01c9]**Regulation (EU) 2018/858**” means Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;
 - “reuse” means the use of organic solvents recovered from an installation for any technical or commercial purpose and including use as a fuel but excluding the final disposal of such recovered organic solvent as waste;
 - “rotary screen printing” means a web-fed printing activity in which liquid ink which dries only through evaporation is passed on to the surface to be printed by forcing it through a porous image carrier, in which the printing area is open and the non-printing area is sealed off;
 - “rotogravure” means a printing activity using a cylindrical image carrier in which the printing area is below the non-printing area and liquid inks which dry through evaporation in which the recesses are filled with ink and the surplus is cleaned off the non-printing area before the surface to be printed contacts the cylinder and lifts the ink from the recesses;
@@ -1075,12 +1075,12 @@ Nil
   - (ii) any ancillary operations for converting natural or synthetic rubber into a finished product;
 - “specified substances or mixtures” mean—
   - (i) until 1<sup>st</sup> June 2015—
-    - (aa) any substances or mixtures which because of their content of volatile organic compounds are classified as carcinogens, mutagens, or toxic to reproduction and are assigned or need to carry the risk phrases R45, R46, R49, R60 or R61, or under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) as last amended by Commission Regulation 2017/776/[^key-0f21d93b7641cac9d7bb826dd3418c7f]EU , are assigned or need to carry the hazard statement H340, H350, H350i, H360D, or H360F; and
+    - (aa) any substances or mixtures which because of their content of volatile organic compounds are classified as carcinogens, mutagens, or toxic to reproduction and are assigned or need to carry the risk phrases R45, R46, R49, R60 or R61, or under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) as last amended by Commission Regulation 2017/776/[^c-0f21d93b7641cac9d7bb826dd3418c7f]EU , are assigned or need to carry the hazard statement H340, H350, H350i, H360D, or H360F; and
     - (bb) halogenated organic compounds which are assigned or need to carry the risk phrases R40 or R68 or the hazard statements H341 or H351; or
   - (ii) from 1<sup>st</sup> June 2015, any substances or mixtures which because of their content of volatile organic compounds are classified as carcinogens, mutagens, or toxic to reproduction under Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) [^f00034] as last amended by Commission Regulation 2017/776/EU , and are assigned or need to carry the hazard statement H340, H350, H350i, H360D or H360F or halogenated volatile organic compounds which are assigned or need to carry the hazard statements H341 or H351;
 - “surface cleaning” means any activity, except dry cleaning, using organic solvents to remove contamination from the surface of material including degreasing but excluding the cleaning of equipment; and a cleaning activity consisting of more than one step before or after any other activity shall be considered as one surface cleaning activity;
 - “vehicle coating” means a coating activity applied to the following vehicles—
-  - (i) new cars, defined as vehicles of category M1 in Article 4 of Regulation (EU) 2018/858[^key-e9e415310abbff0ed6c11ec929990f76], and of category N1 in so far as they are coated at the same installation as M1 vehicles;
+  - (i) new cars, defined as vehicles of category M1 in Article 4 of Regulation (EU) 2018/858[^c-e9e415310abbff0ed6c11ec929990f76], and of category N1 in so far as they are coated at the same installation as M1 vehicles;
   - (ii) truck cabins, defined as the housing for the driver, and all integrated housing for the technical equipment, of vehicles of categories N2 and N3 in Article 4 of Regulation (EU) 2018/858 ;
   - (iii) vans and trucks, defined as vehicles of categories N1, N2 and N3 in Article 4 of Regulation (EU) 2018/858, but not including truck cabins; or
   - (iv) buses, defined as vehicles in categories M2 and M3 in Article 4 of Regulation (EU) 2018/858 ;
@@ -1088,7 +1088,7 @@ Nil
 - “varnishing” means an activity by which varnish or an adhesive coating for the purpose of sealing the packaging material is applied to a flexible material;
 - “vegetable oil and animal fat extraction and vegetable oil refining activities” means any activity to extract vegetable oil from seeds and other vegetable matter, the processing of dry residues to produce animal feed, the purification of fats and vegetable oils derived from seeds, vegetable matter or animal matter;
 - “vehicle refinishing” means any industrial or commercial coating activity and associated degreasing activities performing—
-  - (i) the original coating of road vehicles as defined in Article 4 of Regulation (EU) 2018/858[^key-526b99e9adee3064d8b72b5e80679687] or part of them with refinishing-type materials, where this is carried out away from the original manufacturing line; or
+  - (i) the original coating of road vehicles as defined in Article 4 of Regulation (EU) 2018/858[^c-526b99e9adee3064d8b72b5e80679687] or part of them with refinishing-type materials, where this is carried out away from the original manufacturing line; or
   - (ii) the coating of trailers (including semi-trailers) (category O);
 - “web-fed” means that the material to be printed is fed to the machine from a reel as distinct from separate sheets;
 - “winding wire coating” means any coating activity of metallic conductors used for winding the coils in transformers and motors, etc;
@@ -1097,16 +1097,16 @@ Nil
 
 ### PART 2 — INTERPRETATION OF PART 1
 
-**1.**[^key-9165418e8d8eefe6fc796cac8f084c34] The following rules apply for the interpretation of Part 1 of this Schedule.
+**1.**[^c-9165418e8d8eefe6fc796cac8f084c34] The following rules apply for the interpretation of Part 1 of this Schedule.
 
-**2.**[^key-72dce57a274e0f5e5a9ed2ae294eb537] (1) Subject to sub-paragraph (2), an activity shall not be taken to be a Part B or Part C activity if it cannot result in the release into the air of a substance listed in paragraph 9 or there is no likelihood that it will result in the release into the air of any such substance except in a quantity which is so trivial that it is incapable of causing pollution or its capacity to cause pollution is insignificant.
+**2.**[^c-72dce57a274e0f5e5a9ed2ae294eb537] (1) Subject to sub-paragraph (2), an activity shall not be taken to be a Part B or Part C activity if it cannot result in the release into the air of a substance listed in paragraph 9 or there is no likelihood that it will result in the release into the air of any such substance except in a quantity which is so trivial that it is incapable of causing pollution or its capacity to cause pollution is insignificant.
 
 (2) Sub-paragraph (1) shall not apply to—
 
 - (a) a SED activity; or
 - (b) an activity which may give rise to an offensive smell noticeable outside the site where the activity is carried out.
 
-**3.**[^key-1f3362e6761ecdca3d5ccce2bed41969] An activity shall not be taken to be an activity falling within sections 1.1 to 7 of Part 1 if it is—
+**3.**[^c-1f3362e6761ecdca3d5ccce2bed41969] An activity shall not be taken to be an activity falling within sections 1.1 to 7 of Part 1 if it is—
 
 - (a) carried out in a working museum to demonstrate an industrial activity of historic interest or if it is carried out for educational purposes in a school as defined by Article 2(1) of the Education and Libraries (Northern Ireland) Order 1986[^f00035];
 - (b) carried out at an installation or mobile plant solely used for research, development and testing of new products and processes;
@@ -1114,11 +1114,11 @@ Nil
 - (d) the running of an engine in order to test it before it is installed or in the course of its development; or
 - (e) carried out as a domestic activity in connection with a private dwelling.
 
-**4.**[^key-5c8f7a87a741e97792095e7fa20688c3] An activity listed in section 7 of Part 1 shall include the cleaning of equipment but, except for a surface cleaning activity, not the cleaning of products.
+**4.**[^c-5c8f7a87a741e97792095e7fa20688c3] An activity listed in section 7 of Part 1 shall include the cleaning of equipment but, except for a surface cleaning activity, not the cleaning of products.
 
-**5.**[^key-f24959669cdde78805dd1d1e41ece571] References in Part 1 to related activities are references to separate activities being carried out by the same person on the same site.
+**5.**[^c-f24959669cdde78805dd1d1e41ece571] References in Part 1 to related activities are references to separate activities being carried out by the same person on the same site.
 
-**6.**[^key-56085a8085137ce0988bee058c73b4e6] (1) This paragraph applies for the purpose of determining whether an activity carried out in a stationary technical unit falls within a description in Part A which refers to capacity, other than design holding capacity.
+**6.**[^c-56085a8085137ce0988bee058c73b4e6] (1) This paragraph applies for the purpose of determining whether an activity carried out in a stationary technical unit falls within a description in Part A which refers to capacity, other than design holding capacity.
 
 (2) Where a person carries out several activities falling within the same description in Part A in different parts of the same stationary technical unit or in different stationary technical units on the same site, the capacities of each part or unit shall be added together and the total capacity shall be attributed to each part or unit for the purpose of determining whether the activity carried out in each part or unit falls within a description in Part A.
 
@@ -1126,13 +1126,13 @@ Nil
 
 (4) Where an activity falls within a description in Part A by virtue of this paragraph it shall not be taken to be an activity falling within a description in Part B or Part C (other than a description in section 7).
 
-**7.**[^key-2dcd15e45369962113dc2f21cef11ffb] (1) Where an activity falls within a description in Part A and a description in Part B that activity shall be regarded as falling only within the description in Part A.
+**7.**[^c-2dcd15e45369962113dc2f21cef11ffb] (1) Where an activity falls within a description in Part A and a description in Part B that activity shall be regarded as falling only within the description in Part A.
 
 (2) Where an activity falls within a description in Part A and a description in Part C (other than a description in section 7) that activity shall be regarded as falling only within the description in Part A.
 
 (3) Where an activity falls within a description in Part B and a description in Part C (other than a description in section 7) that activity shall be regarded as falling only within that description which fits it most aptly.
 
-**8.**[^key-e3ccf3965e82b617e160efb569971e47] In Part 1—
+**8.**[^c-e3ccf3965e82b617e160efb569971e47] In Part 1—
 
 - “background quantity” means, in relation to the release of a substance resulting from an activity, such quantity of that substance as is present in—
   - (i) water supplied to the site where the activity is carried out;
@@ -1142,7 +1142,7 @@ Nil
 - “Part B activity” means an activity falling within Part B of any section in Part 1;
 - “Part C activity” means an activity falling within Part C of any section in Part 1.
 
-**9.**[^key-38e699c08b808377951e320ec997f239] References to, or to the release into the air of, a substance listed in this paragraph are to any of the following substances—
+**9.**[^c-38e699c08b808377951e320ec997f239] References to, or to the release into the air of, a substance listed in this paragraph are to any of the following substances—
 
 - (a) oxides of sulphur and other sulphur compounds;
 - (b) oxides of nitrogen and other nitrogen compounds;
@@ -1154,7 +1154,7 @@ Nil
 - (h) phosphorus and its compounds;
 - (i) particulate matter.
 
-**10.**[^key-9f1d0c447efd9c19184307c8829102d6] References to, or to the release into water of, a substance listed in this paragraph or to its release in a quantity which, in any period of 12 months, is greater than the background quantity by an amount specified in this paragraph are to the following substances and amounts—
+**10.**[^c-9f1d0c447efd9c19184307c8829102d6] References to, or to the release into water of, a substance listed in this paragraph or to its release in a quantity which, in any period of 12 months, is greater than the background quantity by an amount specified in this paragraph are to the following substances and amounts—
 
 <table>
 <thead>
@@ -1192,7 +1192,7 @@ Nil
 
 [^f01000][^f01000]
 
-**11.**[^key-006c3c20b23ea8e26778afb68f7a0638] (1) References to a substance listed in this paragraph are to any of the following substances—
+**11.**[^c-006c3c20b23ea8e26778afb68f7a0638] (1) References to a substance listed in this paragraph are to any of the following substances—
 
 - (a) alkali metals and their oxides and alkaline earth metals and their oxides;
 - (b) organic solvents;
@@ -1211,55 +1211,55 @@ Nil
 
 ### PART 3 — INTERPRETATION OF “PART A INSTALLATION” ETC.
 
-**12.**[^key-62a149bd0ee63c03cae1198fb0475932] For the purpose of these Regulations—
+**12.**[^c-62a149bd0ee63c03cae1198fb0475932] For the purpose of these Regulations—
 
 - “Part A installation” means an installation where a Part A activity is carried out (including such an installation where a Part B or Part C activity is also carried out);
 - “Part B installation” means an installation where a Part B activity is carried out, not being a Part A installation (including such an installation where a Part C activity is also carried out);
 - “Part C installation” means an installation where a Part C activity is carried out, not being a Part A installation or Part B installation.
 
-**13.**[^key-9afb66a31c69808d57b16402a48f213f] For the purpose of these Regulations—
+**13.**[^c-9afb66a31c69808d57b16402a48f213f] For the purpose of these Regulations—
 
 - “Part A mobile plant” means mobile plant used to carry out a Part A activity (including such plant which is also used to carry out a Part B or Part C activity);
 - “Part B mobile plant” means mobile plant used to carry out a Part B activity, not being Part A mobile plant;
 - “Part C mobile plant” means mobile plant used to carry out a Part C activity, not being Part A mobile plant or Part B mobile plant.
 
-**14.**[^key-3dc745d850e111d88001e7239b0478f0] A Part B installation where an activity falling within paragraph (a) of Part B of section 2.2, or a Part C installation, where an activity falling within paragraph (c) of Part C of section 2.2 is carried out, does not include any location where the associated storage or handling of scrap which is to be heated as part of that activity is carried out, other than a location where scrap is loaded into a furnace.
+**14.**[^c-3dc745d850e111d88001e7239b0478f0] A Part B installation where an activity falling within paragraph (a) of Part B of section 2.2, or a Part C installation, where an activity falling within paragraph (c) of Part C of section 2.2 is carried out, does not include any location where the associated storage or handling of scrap which is to be heated as part of that activity is carried out, other than a location where scrap is loaded into a furnace.
 
-**15.**[^key-c84d06fed2f4e9cceefdb9c664979104] A Part B installation where an activity falling within paragraph (a) of Part B of section 5.1 or a Part C installation, where an activity falling within paragraph (a) or (b) of Part C of section 5.1 is carried out, does not include any location where the associated storage or handling of wastes and residues which are to be incinerated as part of that activity is carried out, other than a location where the associated storage or handling of animal remains, intended for burning in an incinerator used wholly or mainly for the incineration of such remains or residues from the burning of such remains in such an incinerator, is carried out.
+**15.**[^c-c84d06fed2f4e9cceefdb9c664979104] A Part B installation where an activity falling within paragraph (a) of Part B of section 5.1 or a Part C installation, where an activity falling within paragraph (a) or (b) of Part C of section 5.1 is carried out, does not include any location where the associated storage or handling of wastes and residues which are to be incinerated as part of that activity is carried out, other than a location where the associated storage or handling of animal remains, intended for burning in an incinerator used wholly or mainly for the incineration of such remains or residues from the burning of such remains in such an incinerator, is carried out.
 
-**16.**[^key-d1582a5a7dad7f1b26e60a5aa3e48ff9] (1) A Part B or Part C installation where an activity falling within Part B or Part C of section 6.4 is carried out, does not include any location where the associated cleaning of used storage drums prior to painting or their incidental handling in connection with such cleaning is carried out.
+**16.**[^c-d1582a5a7dad7f1b26e60a5aa3e48ff9] (1) A Part B or Part C installation where an activity falling within Part B or Part C of section 6.4 is carried out, does not include any location where the associated cleaning of used storage drums prior to painting or their incidental handling in connection with such cleaning is carried out.
 
 (2) Sub-paragraph (1) shall not apply where the location referred to in that sub-paragraph forms part of a SED installation.
 
-**17.**[^key-b63e03eea709fae06f5d53ba832f6539] Where an installation is a Part A installation, a Part B installation or a Part C installation by virtue of the carrying out of an activity which is only carried out during part of a year, that installation shall not cease to be such an installation during the parts of the year when that activity is not being carried out.
+**17.**[^c-b63e03eea709fae06f5d53ba832f6539] Where an installation is a Part A installation, a Part B installation or a Part C installation by virtue of the carrying out of an activity which is only carried out during part of a year, that installation shall not cease to be such an installation during the parts of the year when that activity is not being carried out.
 
-**18.**[^key-5b6a386d263d1eda69292f633ed99a3e] Where an installation is authorised by a permit granted under these Regulations to carry out Part A activities, Part B activities or Part C activities which are described in Part 1 by reference to a threshold (whether in terms of capacity or otherwise), the installation shall not cease to be a Part A installation, a Part B installation or a Part C installation by virtue of the installation being operated below the relevant threshold, unless the permit ceases to have effect in accordance with these Regulations.
+**18.**[^c-5b6a386d263d1eda69292f633ed99a3e] Where an installation is authorised by a permit granted under these Regulations to carry out Part A activities, Part B activities or Part C activities which are described in Part 1 by reference to a threshold (whether in terms of capacity or otherwise), the installation shall not cease to be a Part A installation, a Part B installation or a Part C installation by virtue of the installation being operated below the relevant threshold, unless the permit ceases to have effect in accordance with these Regulations.
 
-**19.**[^key-3df57f4897fda08c0f229401b1eac5cb] In this Part, “Part A activity”, “Part B activity” and “Part C activity” have the meaning given by paragraph 8 in Part 2.
+**19.**[^c-3df57f4897fda08c0f229401b1eac5cb] In this Part, “Part A activity”, “Part B activity” and “Part C activity” have the meaning given by paragraph 8 in Part 2.
 
 ## Annotations
 
 [^M_I_55d16204-7a90-4209-eb3f-e283086de79f]: Commencement: Sch. 1 Pt. 1 section 1.1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-93636c34669f591457aefb1c09f218ff]: Textual amendment: [Sch. 1 s. 1.1 Pt. C (b)(c)](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1C/section/1.1/b/c) inserted (20.3.2018) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/33)](https://www.legislation.gov.uk/nisr/2018/33), [regs. 1](https://www.legislation.gov.uk/nisr/2018/33/regulation/1), [4](https://www.legislation.gov.uk/nisr/2018/33/regulation/4)
+[^c-93636c34669f591457aefb1c09f218ff]: Textual amendment: [Sch. 1 s. 1.1 Pt. C (b)(c)](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1C/section/1.1/b/c) inserted (20.3.2018) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/33)](https://www.legislation.gov.uk/nisr/2018/33), [regs. 1](https://www.legislation.gov.uk/nisr/2018/33/regulation/1), [4](https://www.legislation.gov.uk/nisr/2018/33/regulation/4)
 
-[^key-0d76e8d354511ab0463b4df863370809]: Textual amendment: Words in [Sch. 1 s. 1.1](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/section/1.1/b) [Pt. C](https://www.legislation.gov.uk/nisr/2013/160/part/C) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/a)
+[^c-0d76e8d354511ab0463b4df863370809]: Textual amendment: Words in [Sch. 1 s. 1.1](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/section/1.1/b) [Pt. C](https://www.legislation.gov.uk/nisr/2013/160/part/C) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/a)
 
-[^key-5530ce04d4269fc43eb6c96e23906d40]: Textual amendment: [Sch. 1 s. 1.1 Pt. C (2)](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/section/1.1/2) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/b)
+[^c-5530ce04d4269fc43eb6c96e23906d40]: Textual amendment: [Sch. 1 s. 1.1 Pt. C (2)](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/section/1.1/2) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/b)
 
 [^M_I_8ba056da-d029-413d-df95-b181d1fa70e0]: Commencement: Sch. 1 Pt. 1 section 1.2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-22bf16c2547da259652ca8bb1e798b78]: Textual amendment: Words in [Sch. 1 s. 1.2 Pt. C(1)](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1C/section/1.2) substituted (22.8.2016) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/309)](https://www.legislation.gov.uk/nisr/2016/309), [regs. 1](https://www.legislation.gov.uk/nisr/2016/309/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/309/regulation/3/a)
+[^c-22bf16c2547da259652ca8bb1e798b78]: Textual amendment: Words in [Sch. 1 s. 1.2 Pt. C(1)](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1C/section/1.2) substituted (22.8.2016) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/309)](https://www.legislation.gov.uk/nisr/2016/309), [regs. 1](https://www.legislation.gov.uk/nisr/2016/309/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2016/309/regulation/3/a)
 
 [^f00027]: Footnote: OJ No. L 365, 31.12.1994, p.24
 
-[^key-eedc5d10e9993c51966e4435266b3e7b]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 1.2](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/1.2) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/a)
+[^c-eedc5d10e9993c51966e4435266b3e7b]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 1.2](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/1.2) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(a)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/a)
 
 [^M_I_5a1006d0-6ee6-4499-ea1b-05cdf42dda41]: Commencement: Sch. 1 Pt. 1 section 2.1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^M_I_5ff3498f-a850-44a7-cdbe-928965cae57a]: Commencement: Sch. 1 Pt. 1 section 2.2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-5b6da422f88bac0e5033a6b72964abd0]: Textual amendment: Sch. 1 s. 2.2 Pt. C (1) omitted and heading (10.12.2014) by virtue of [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(c)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/c)
+[^c-5b6da422f88bac0e5033a6b72964abd0]: Textual amendment: Sch. 1 s. 2.2 Pt. C (1) omitted and heading (10.12.2014) by virtue of [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(c)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/c)
 
 [^M_I_b29c5d4d-653a-49f9-c98e-3c9012db8e2c]: Commencement: Sch. 1 Pt. 1 section 2.3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
@@ -1297,7 +1297,7 @@ Nil
 
     O.J.L 300, 14.11.2009, p.1
 
-[^key-9ea4087350563624b4db4e2077ca1baa]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 5.1](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/5.1) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/b)
+[^c-9ea4087350563624b4db4e2077ca1baa]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 5.1](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/5.1) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/b)
 
 [^M_I_0da76379-530c-40cd-dfe9-9f32c5cb24b8]: Commencement: Sch. 1 Pt. 1 section 5.2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
@@ -1307,9 +1307,9 @@ Nil
 
 [^f00029]: Footnote: O.J.L 135, 30.5.1991, p.40
 
-[^key-d2f2a6dbefdad1e1eb89692a64e79f6f]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 5.4](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/5.4) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/c)
+[^c-d2f2a6dbefdad1e1eb89692a64e79f6f]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 5.4](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/5.4) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(c)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/c)
 
-[^key-55833734a5f025d8fad13df01789f853]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 5.4](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/5.4) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(d)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/d)
+[^c-55833734a5f025d8fad13df01789f853]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 5.4](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/5.4) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(d)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/d)
 
 [^M_I_1598f304-6abe-450f-c9fa-fe2e338dfd8e]: Commencement: Sch. 1 Pt. 1 section 5.5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
@@ -1325,7 +1325,7 @@ Nil
 
 [^M_I_908d9e81-aae7-44a7-bfc3-7970df40bf58]: Commencement: Sch. 1 Pt. 1 section 6.6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-7cf8f4aff112be802b22cf52bd694415]: Textual amendment: Word in [Sch. 1 s. 6](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/section/6).6 Pt. C substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(d)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/d)
+[^c-7cf8f4aff112be802b22cf52bd694415]: Textual amendment: Word in [Sch. 1 s. 6](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/section/6).6 Pt. C substituted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [regs. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [9(d)](https://www.legislation.gov.uk/nisr/2014/304/regulation/9/d)
 
 [^M_I_17014fd5-5e4e-4740-cbe5-b66c61ea737b]: Commencement: Sch. 1 Pt. 1 section 6.7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
@@ -1341,66 +1341,66 @@ Nil
 
 [^f00032]: Footnote: O.J. L140, 5.6.2009, p.114
 
-[^key-6853dc2a77ae6e3691fc2bc2867825fc]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 6.10](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/6.10) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(e)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/e)
+[^c-6853dc2a77ae6e3691fc2bc2867825fc]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 6.10](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/6.10) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(e)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/e)
 
 [^M_I_d6ee412e-01b9-4eb1-9855-149e9bcf7522]: Commencement: Sch. 1 Pt. 1 section 6.11 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-103ebf7e6b2a6af4a6c354e3b2a648bf]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 6.11](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/6.11) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(f)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/f)
+[^c-103ebf7e6b2a6af4a6c354e3b2a648bf]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 6.11](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/6.11) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(f)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/f)
 
 [^M_I_29d5b82f-5ea3-479a-9477-6a2adea5066d]: Commencement: Sch. 1 Pt. 1 section 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-4eec6b4fe51a2d570b5cb2ecb67bf900]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-4eec6b4fe51a2d570b5cb2ecb67bf900]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-4e6e8cebad8481462fec06bb499a01c9]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(d)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/d) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-4e6e8cebad8481462fec06bb499a01c9]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(d)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/d) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-0f21d93b7641cac9d7bb826dd3418c7f]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/7) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(h)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/h)
+[^c-0f21d93b7641cac9d7bb826dd3418c7f]: Textual amendment: Words in [Sch. 1 Pt. 1 s. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/section/7) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 12(h)](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/12/h)
 
 [^f00034]: Footnote: O.J. No.L353, 31.12.2008, p.1
 
-[^key-e9e415310abbff0ed6c11ec929990f76]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-e9e415310abbff0ed6c11ec929990f76]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-526b99e9adee3064d8b72b5e80679687]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(c)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/c) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-526b99e9adee3064d8b72b5e80679687]: Textual amendment: Words in [Sch. 1 Pt. 1 Ch. 7](https://www.legislation.gov.uk/nisr/2013/160/schedule/1/part/1/chapter/7) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 28(2)(c)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/28/2/c) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-9165418e8d8eefe6fc796cac8f084c34]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-9165418e8d8eefe6fc796cac8f084c34]: Commencement: Sch. 1 Pt. 2 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-72dce57a274e0f5e5a9ed2ae294eb537]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-72dce57a274e0f5e5a9ed2ae294eb537]: Commencement: Sch. 1 Pt. 2 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-1f3362e6761ecdca3d5ccce2bed41969]: Commencement: Sch. 1 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-1f3362e6761ecdca3d5ccce2bed41969]: Commencement: Sch. 1 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f00035]: Footnote: [S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594)
 
-[^key-5c8f7a87a741e97792095e7fa20688c3]: Commencement: Sch. 1 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-5c8f7a87a741e97792095e7fa20688c3]: Commencement: Sch. 1 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-f24959669cdde78805dd1d1e41ece571]: Commencement: Sch. 1 para. 5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-f24959669cdde78805dd1d1e41ece571]: Commencement: Sch. 1 para. 5 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-56085a8085137ce0988bee058c73b4e6]: Commencement: Sch. 1 para. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-56085a8085137ce0988bee058c73b4e6]: Commencement: Sch. 1 para. 6 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-2dcd15e45369962113dc2f21cef11ffb]: Commencement: Sch. 1 para. 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-2dcd15e45369962113dc2f21cef11ffb]: Commencement: Sch. 1 para. 7 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-e3ccf3965e82b617e160efb569971e47]: Commencement: Sch. 1 para. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-e3ccf3965e82b617e160efb569971e47]: Commencement: Sch. 1 para. 8 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-38e699c08b808377951e320ec997f239]: Commencement: Sch. 1 para. 9 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-38e699c08b808377951e320ec997f239]: Commencement: Sch. 1 para. 9 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-9f1d0c447efd9c19184307c8829102d6]: Commencement: Sch. 1 para. 10 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-9f1d0c447efd9c19184307c8829102d6]: Commencement: Sch. 1 para. 10 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
 [^f01000]: Footnote: \*
 
     Where both Atrazine and Simazine are released, the figure for both substances in aggregate is 350 grammes.
 
-[^key-006c3c20b23ea8e26778afb68f7a0638]: Commencement: Sch. 1 para. 11 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-006c3c20b23ea8e26778afb68f7a0638]: Commencement: Sch. 1 para. 11 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-62a149bd0ee63c03cae1198fb0475932]: Commencement: Sch. 1 para. 12 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-62a149bd0ee63c03cae1198fb0475932]: Commencement: Sch. 1 para. 12 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-9afb66a31c69808d57b16402a48f213f]: Commencement: Sch. 1 para. 13 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-9afb66a31c69808d57b16402a48f213f]: Commencement: Sch. 1 para. 13 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-3dc745d850e111d88001e7239b0478f0]: Commencement: Sch. 1 para. 14 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-3dc745d850e111d88001e7239b0478f0]: Commencement: Sch. 1 para. 14 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-c84d06fed2f4e9cceefdb9c664979104]: Commencement: Sch. 1 para. 15 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c84d06fed2f4e9cceefdb9c664979104]: Commencement: Sch. 1 para. 15 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-d1582a5a7dad7f1b26e60a5aa3e48ff9]: Commencement: Sch. 1 para. 16 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-d1582a5a7dad7f1b26e60a5aa3e48ff9]: Commencement: Sch. 1 para. 16 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-b63e03eea709fae06f5d53ba832f6539]: Commencement: Sch. 1 para. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-b63e03eea709fae06f5d53ba832f6539]: Commencement: Sch. 1 para. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-5b6a386d263d1eda69292f633ed99a3e]: Commencement: Sch. 1 para. 18 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-5b6a386d263d1eda69292f633ed99a3e]: Commencement: Sch. 1 para. 18 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-3df57f4897fda08c0f229401b1eac5cb]: Commencement: Sch. 1 para. 19 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-3df57f4897fda08c0f229401b1eac5cb]: Commencement: Sch. 1 para. 19 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

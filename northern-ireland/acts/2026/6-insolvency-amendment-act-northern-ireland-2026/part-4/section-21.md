@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Administration[^key-8f427c055dcf00040a683547fe59bf98]
+## 21. Administration[^c-8f427c055dcf00040a683547fe59bf98]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Schedule 1 to this Act amends Schedule B1 (administration).
 
 ## Annotations
 
-[^key-8f427c055dcf00040a683547fe59bf98]: Commencement: S. 21 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8f427c055dcf00040a683547fe59bf98]: Commencement: S. 21 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

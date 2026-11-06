@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238A. Qualifying pensions dashboard service[^key-8b3ba6d49bf228266aaa24fa0c80594c]
+## 238A. Qualifying pensions dashboard service[^c-8b3ba6d49bf228266aaa24fa0c80594c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
   - (i) state pensions;
   - (ii) basic or additional retirement pensions;
 - (b) state pension information relating to the individual in question of such description as may be prescribed;
-- (ba)[^key-64fdc31a4791fba1d5589e0919392415] information of a prescribed description about—
+- (ba)[^c-64fdc31a4791fba1d5589e0919392415] information of a prescribed description about—
   - (i) the Pension Protection Fund;
   - (ii) the financial assistance scheme;
 - (bb) Pension Protection Fund information relating to the individual in question of such description as may be prescribed;
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3ba6d49bf228266aaa24fa0c80594c]: Textual amendment: Ss. 238A-238C and cross-heading inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/118/2), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
+[^c-8b3ba6d49bf228266aaa24fa0c80594c]: Textual amendment: Ss. 238A-238C and cross-heading inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 118(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/118/2), [131(1)(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/a)
 
-[^key-64fdc31a4791fba1d5589e0919392415]: Textual amendment: S. 238A(4)(ba)-(bc) inserted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 124(4)](https://www.legislation.gov.uk/ukpga/2026/22/section/124/4), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)
+[^c-64fdc31a4791fba1d5589e0919392415]: Textual amendment: S. 238A(4)(ba)-(bc) inserted (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 124(4)](https://www.legislation.gov.uk/ukpga/2026/22/section/124/4), [133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)

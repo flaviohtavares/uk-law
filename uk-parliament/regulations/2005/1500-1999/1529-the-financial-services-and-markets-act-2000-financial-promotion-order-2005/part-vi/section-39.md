@@ -22,10 +22,10 @@ summary: ''
 
 (1) The financial promotion restriction does not apply to any communication which is made or directed by a participator in a joint enterprise to or at another participator in the same joint enterprise in connection with, or for the purposes of, that enterprise.
 
-(2) “**Joint enterprise**” means an enterprise into which two or more persons (“the participators”) enter for commercial purposes related to a business or businesses (other than the business of engaging in a controlled activity or controlled claims management activity *(Extent: E+W+S)*[^key-89411aea528706506def045a9e0412b0]) carried on by them; and, where a participator is a member of a group, each other member of the group is also to be regarded as a participator in the enterprise.
+(2) “**Joint enterprise**” means an enterprise into which two or more persons (“the participators”) enter for commercial purposes related to a business or businesses (other than the business of engaging in a controlled activity or controlled claims management activity *(Extent: E+W+S)*[^c-89411aea528706506def045a9e0412b0]) carried on by them; and, where a participator is a member of a group, each other member of the group is also to be regarded as a participator in the enterprise.
 
 (3) “**Participator**” includes potential participator.
 
 ## Annotations
 
-[^key-89411aea528706506def045a9e0412b0]: Textual amendment: Words in art. 39(2) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [29](https://www.legislation.gov.uk/uksi/2018/1253/article/29)
+[^c-89411aea528706506def045a9e0412b0]: Textual amendment: Words in art. 39(2) inserted (E.W.S.) (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [29](https://www.legislation.gov.uk/uksi/2018/1253/article/29)

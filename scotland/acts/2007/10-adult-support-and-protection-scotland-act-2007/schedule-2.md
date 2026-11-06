@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — Repeals[^key-57ff3197ac6aafd6adef2cc12d200dfe][^key-c361ff220e53f4a36824923cc67bc0df]
+## SCHEDULE 2 — Repeals[^c-57ff3197ac6aafd6adef2cc12d200dfe][^c-c361ff220e53f4a36824923cc67bc0df]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57ff3197ac6aafd6adef2cc12d200dfe]: Commencement: Sch. 2 in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2007/334/article/6))
+[^c-57ff3197ac6aafd6adef2cc12d200dfe]: Commencement: Sch. 2 in force at 5.10.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/334/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2007/334/schedule/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2007/334/article/6))
 
-[^key-c361ff220e53f4a36824923cc67bc0df]: Commencement: Sch. 2 in force at 29.10.2008 in so far as not already in force by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-c361ff220e53f4a36824923cc67bc0df]: Commencement: Sch. 2 in force at 29.10.2008 in so far as not already in force by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

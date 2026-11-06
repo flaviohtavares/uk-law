@@ -32,7 +32,7 @@ summary: ''
 
 Data Protection
 
-The Data Protection (Assessment Notices) (Designation of National Health Service Bodies) Order 2014 (revoked)[^key-af45650cccdb4b24e7db262894491e75]
+The Data Protection (Assessment Notices) (Designation of National Health Service Bodies) Order 2014 (revoked)[^c-af45650cccdb4b24e7db262894491e75]
 
 Made
 
@@ -46,96 +46,96 @@ Coming into force
 
 1st February 2015
 
-[^key-af45650cccdb4b24e7db262894491e75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af45650cccdb4b24e7db262894491e75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-af45650cccdb4b24e7db262894491e75]
+## 1. Citation and commencement[^c-af45650cccdb4b24e7db262894491e75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation for purposes of section 41A of the Data Protection Act 1998[^key-af45650cccdb4b24e7db262894491e75]
+## 2. Designation for purposes of section 41A of the Data Protection Act 1998[^c-af45650cccdb4b24e7db262894491e75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af45650cccdb4b24e7db262894491e75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af45650cccdb4b24e7db262894491e75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-af45650cccdb4b24e7db262894491e75]
+## SCHEDULE[^c-af45650cccdb4b24e7db262894491e75]
 
 Article 2
 
-### PART 1[^key-af45650cccdb4b24e7db262894491e75]
+### PART 1[^c-af45650cccdb4b24e7db262894491e75]
 
-#### Designated public authorities: England and Wales[^key-af45650cccdb4b24e7db262894491e75]
+#### Designated public authorities: England and Wales[^c-af45650cccdb4b24e7db262894491e75]
 
-**1.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-af45650cccdb4b24e7db262894491e75]
+### PART 2[^c-af45650cccdb4b24e7db262894491e75]
 
-#### Designated public authorities: Northern Ireland[^key-af45650cccdb4b24e7db262894491e75]
+#### Designated public authorities: Northern Ireland[^c-af45650cccdb4b24e7db262894491e75]
 
-**10.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3[^key-af45650cccdb4b24e7db262894491e75]
+### PART 3[^c-af45650cccdb4b24e7db262894491e75]
 
-#### Designated public authorities: Scotland[^key-af45650cccdb4b24e7db262894491e75]
+#### Designated public authorities: Scotland[^c-af45650cccdb4b24e7db262894491e75]
 
-**17.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-af45650cccdb4b24e7db262894491e75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-af45650cccdb4b24e7db262894491e75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af45650cccdb4b24e7db262894491e75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af45650cccdb4b24e7db262894491e75]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3282) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 381](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/381) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 32](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/32)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-af45650cccdb4b24e7db262894491e75]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/3282) revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 381](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/381) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210), [Sch. 20 para. 32](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/32)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

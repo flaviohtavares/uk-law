@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Power for Licensing Board to grant general extensions of licensed hours[^key-637ab8c56cda9eab9ee35b7ab9138ff1]
+## 67. Power for Licensing Board to grant general extensions of licensed hours[^c-637ab8c56cda9eab9ee35b7ab9138ff1]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 (4) Where a Licensing Board makes a determination under subsection (1), the Board must—
 
 - (a) give notice of the determination to—
-  - (i) the chief constable[^key-b7a21f80c369c9fac6ec1ca479a749d3], and
+  - (i) the chief constable[^c-b7a21f80c369c9fac6ec1ca479a749d3], and
   - (ii) the holders of premises licences and occasional licences in respect of premises to which the determination applies, and
 - (b) publicise it in such manner as the Board sees fit.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-637ab8c56cda9eab9ee35b7ab9138ff1]: Commencement: S. 67 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-637ab8c56cda9eab9ee35b7ab9138ff1]: Commencement: S. 67 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-b7a21f80c369c9fac6ec1ca479a749d3]: Textual amendment: Words in s. 67(4)(a)(i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-b7a21f80c369c9fac6ec1ca479a749d3]: Textual amendment: Words in s. 67(4)(a)(i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

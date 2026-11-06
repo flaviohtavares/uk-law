@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Persons entitled to copy of application[^key-d36120bea7c5e3ddffcea5f4c678fe84]
+## 7. Persons entitled to copy of application[^c-d36120bea7c5e3ddffcea5f4c678fe84]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d36120bea7c5e3ddffcea5f4c678fe84]: Commencement: Rule 7 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-d36120bea7c5e3ddffcea5f4c678fe84]: Commencement: Rule 7 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

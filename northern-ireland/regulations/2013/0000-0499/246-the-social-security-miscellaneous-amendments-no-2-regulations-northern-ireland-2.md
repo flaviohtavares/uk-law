@@ -325,7 +325,7 @@ In regulation 2(4) of the State Pension Credit Regulations (Northern Ireland) 20
 
 (13) In regulation 30 (conditions for treating a claimant as having limited capability for work until a determination about limited capability for work has been made)—
 
-- (a)[^key-6f1fca2bf104e86a3a875158bbba3a0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6f1fca2bf104e86a3a875158bbba3a0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) omit paragraph (2)(c) [^c21927701]; and
 - (c) after paragraph (3) add—
 
@@ -693,7 +693,7 @@ In so far as these Regulations are required, for the purposes of regulations 9 a
 
 [^c21927691]: Marginal citation: Paragraph (3) was added by regulation 3(6)(b) of S.R. [2013 No.2](https://www.legislation.gov.uk/ukcm/2013/2)
 
-[^key-6f1fca2bf104e86a3a875158bbba3a0e]: Textual amendment: [Reg. 11(13)(a)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/13/a) revoked (30.3.2015) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/185)](https://www.legislation.gov.uk/nisr/2015/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/185/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/185/regulation/6)
+[^c-6f1fca2bf104e86a3a875158bbba3a0e]: Textual amendment: [Reg. 11(13)(a)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/13/a) revoked (30.3.2015) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/185)](https://www.legislation.gov.uk/nisr/2015/185), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/185/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2015/185/regulation/6)
 
 [^c21927701]: Marginal citation: Paragraph (2)(c) was added by regulation 9(8) of S.R. [2010 No. 200](https://www.legislation.gov.uk/ukcm/2010/200)
 

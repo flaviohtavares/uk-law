@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 259. Costs, expenses, etc[^key-03f4afc3d5410c9d1d70fb275523ae25]
+## 259. Costs, expenses, etc[^c-03f4afc3d5410c9d1d70fb275523ae25]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03f4afc3d5410c9d1d70fb275523ae25]: Commencement: Rule 259 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-03f4afc3d5410c9d1d70fb275523ae25]: Commencement: Rule 259 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

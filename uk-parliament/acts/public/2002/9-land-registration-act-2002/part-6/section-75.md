@@ -26,8 +26,8 @@ summary: ''
 
 (3) A requirement under subsection (1) shall be enforceable as an order of the court.
 
-(4) A person aggrieved by a requirement under subsection (1) may appeal to the county court[^key-4292ba67aff95f6e982b630199aa520f], which may make any order which appears appropriate.
+(4) A person aggrieved by a requirement under subsection (1) may appeal to the county court[^c-4292ba67aff95f6e982b630199aa520f], which may make any order which appears appropriate.
 
 ## Annotations
 
-[^key-4292ba67aff95f6e982b630199aa520f]: Textual amendment: Words in [s. 75(4)](https://www.legislation.gov.uk/ukpga/2002/9/section/75/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4292ba67aff95f6e982b630199aa520f]: Textual amendment: Words in [s. 75(4)](https://www.legislation.gov.uk/ukpga/2002/9/section/75/4) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

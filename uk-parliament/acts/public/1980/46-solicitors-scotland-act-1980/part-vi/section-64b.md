@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-When he has received advice under section 64A(3) in relation to a rule made under section 25A(4) or (5) [^key-2379a6b74370ea6e7fe5fa955b44cf74]..., the Secretary of State may, having considered—
+When he has received advice under section 64A(3) in relation to a rule made under section 25A(4) or (5) [^c-2379a6b74370ea6e7fe5fa955b44cf74]..., the Secretary of State may, having considered—
 
 - (a) that advice;
 - (b) whether the interests of justice require that there should be such a rule; and
@@ -32,4 +32,4 @@ approve or refuse to approve the rule.
 
 [^c8124291]: Textual amendment: Ss. 64A–64D inserted (3.6.1991) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s.43](https://www.legislation.gov.uk/ukpga/1990/40/section/43); [S.I. 1991/1252](https://www.legislation.gov.uk/uksi/1991/1252), [art. 3](https://www.legislation.gov.uk/uksi/1991/1252/article/3), [Sch.1](https://www.legislation.gov.uk/uksi/1991/1252/schedule/1)
 
-[^key-2379a6b74370ea6e7fe5fa955b44cf74]: Textual amendment: Words in [s. 64B](https://www.legislation.gov.uk/ukpga/1980/46/section/64B) repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(c)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/c), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-2379a6b74370ea6e7fe5fa955b44cf74]: Textual amendment: Words in [s. 64B](https://www.legislation.gov.uk/ukpga/1980/46/section/64B) repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(2)(c)](https://www.legislation.gov.uk/asp/2010/16/section/124/2/c), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 7(2) and 86(2) of the Adults with Incapacity (Scotland) Act 2000[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, effect and interpretation[^key-d559e88f8db0a3ad0222f81b560f060a]
+## 1. Citation, commencement, effect and interpretation[^c-d559e88f8db0a3ad0222f81b560f060a]
 
 (1) These Regulations may be cited as the Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2026 and, subject to paragraph (2), come into force on 1 April 2026.
 
@@ -54,14 +54,14 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (3) In these Regulations, “**the Act**” means the Adults with Incapacity (Scotland) Act 2000.
 
-## 2. Fees payable to the Public Guardian[^key-dcfd0ada2974c5491620e7bdea76ed60]
+## 2. Fees payable to the Public Guardian[^c-dcfd0ada2974c5491620e7bdea76ed60]
 
 Subject to regulations 3 and 4—
 
 - (a) the fees payable to the Public Guardian in respect of the matters specified in column 1 of the Table of Fees in schedule 1 (table of fees payable from 1 April 2026) are the fees prescribed in relation to those matters in column 2 of that table, and
 - (b) the fees payable to the Public Guardian in respect of the matters specified in column 1 of the Table of Fees in schedule 2 (table of fees payable from 1 April 2027) are the fees prescribed in relation to those matters in column 2 of that table.
 
-## 3. Exemption of certain persons from fees: legal aid[^key-3d2981ff21f5bd7b39b40f1516c959cd]
+## 3. Exemption of certain persons from fees: legal aid[^c-3d2981ff21f5bd7b39b40f1516c959cd]
 
 (1) A fee prescribed by these Regulations is not payable by a person if—
 
@@ -71,7 +71,7 @@ Subject to regulations 3 and 4—
 
 (2) In this regulation, “**the 1986 Act**” means the Legal Aid (Scotland) Act 1986[^f00003].
 
-## 4. Exemption of certain persons from fees: social security[^key-c603f2ff282c4edcc66673507e342cc6]
+## 4. Exemption of certain persons from fees: social security[^c-c603f2ff282c4edcc66673507e342cc6]
 
 (1) A fee prescribed by these Regulations is not payable by a person if—
 
@@ -92,7 +92,7 @@ Subject to regulations 3 and 4—
 - “**the 2012 Act**” means the Welfare Reform Act 2012[^f00012],
 - “**partner**” means a person to whom a person is married or with whom the person is in a civil partnership.
 
-## 5. Revocation[^key-5c8de42ddaf3a52c8960e435798602ed]
+## 5. Revocation[^c-5c8de42ddaf3a52c8960e435798602ed]
 
 The Adults with Incapacity (Public Guardian’s Fees) (Scotland) Regulations 2024[^f00013] are revoked.
 
@@ -106,7 +106,7 @@ Edinburgh
 
 11th February 2026
 
-## Schedule 1 — Table of Fees[^key-d7120fd4ec3fda32f4a38239172a8527]
+## Schedule 1 — Table of Fees[^c-d7120fd4ec3fda32f4a38239172a8527]
 
 Regulation 2(a)
 
@@ -133,7 +133,7 @@ Payable from 1 April 2026
 | 16\. Intermediate review of accounts submitted in accordance with paragraph 7 of schedule 2 of the Act (where the Public Guardian has specified limited supervision)—<br>Estate value (excluding heritable property)<br>£0 to £30,000,<br>£30,001 to £50,000,<br>£50,001 to £250,000,<br>£250,001 to £500,000,<br>£500,001 and over.<br>(Note: these fees only apply where the Public Guardian has requested formal accounting.) | <br> <br> <br> <br> <br>102<br>253<br>716<br>926<br>1,235 | <br> <br> <br> <br> <br>99<br>246<br>695<br>899<br>1,199 |
 | 17\. Final review of accounts submitted in accordance with paragraph 7 of schedule 2 of the Act—<br>Estate value (excluding heritable property)<br>£0 to £30,000,<br>£30,001 to £50,000,<br>£50,001 to £250,000,<br>£250,001 to £500,000,<br>£500,001 and over. | <br>  <br> <br>192<br>358<br>811<br>1,018<br>1,328 | <br> <br> <br>186<br>347<br>787<br>988<br>1,289 |
 
-## Schedule 2 — Table of Fees[^key-1d093d2dc3e7457d50b9a4721e5619bf]
+## Schedule 2 — Table of Fees[^c-1d093d2dc3e7457d50b9a4721e5619bf]
 
 Regulation 2(b)
 
@@ -179,17 +179,17 @@ Regulation 5 revokes the Adults with Incapacity (Public Guardian’s Fees) (Scot
 
 [^f00001]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4) (“**the 2000 Act**”). The 2000 Act was relevantly amended by the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10). Section 87(1) of the 2000 Act contains a definition of “prescribe” relevant to the exercise of the statutory powers under which these Regulations are made. Section 87(1A) provides that any power under the 2000 Act to prescribe anything by regulations is exercisable by the Scottish Ministers.
 
-[^key-d559e88f8db0a3ad0222f81b560f060a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/81/regulation/1) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-d559e88f8db0a3ad0222f81b560f060a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2026/81/regulation/1) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
-[^key-dcfd0ada2974c5491620e7bdea76ed60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/81/regulation/2) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-dcfd0ada2974c5491620e7bdea76ed60]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2026/81/regulation/2) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
-[^key-3d2981ff21f5bd7b39b40f1516c959cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/81/regulation/3) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-3d2981ff21f5bd7b39b40f1516c959cd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2026/81/regulation/3) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). Section 13(2) was amended by paragraph 36 of schedule 8 and schedule 9 of the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00003]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47).
 
-[^key-c603f2ff282c4edcc66673507e342cc6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/81/regulation/4) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-c603f2ff282c4edcc66673507e342cc6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2026/81/regulation/4) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
 [^f00004]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124, which provides for income support, was amended by paragraph 30 of schedule 2 and schedule 3 of the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 28 of schedule 8 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 2 of schedule 2 and schedule 3 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 42 of schedule 24 of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 9 of schedule 3 and schedule 8 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 3 of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), and section 58 and schedule 14 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -209,14 +209,14 @@ Regulation 5 revokes the Adults with Incapacity (Public Guardian’s Fees) (Scot
 
 [^f00012]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-5c8de42ddaf3a52c8960e435798602ed]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/81/regulation/5) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-5c8de42ddaf3a52c8960e435798602ed]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2026/81/regulation/5) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
 [^f00013]: Footnote: [S.S.I. 2024/240](https://www.legislation.gov.uk/ssi/2024/240).
 
-[^key-d7120fd4ec3fda32f4a38239172a8527]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/81/schedule/1) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-d7120fd4ec3fda32f4a38239172a8527]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/81/schedule/1) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
 [^f00014]: Footnote: Column 3 shows the fees payable by virtue of the schedule of [S.S.I. 2024/240](https://www.legislation.gov.uk/ssi/2024/240) immediately before the coming into force of this schedule.
 
-[^key-1d093d2dc3e7457d50b9a4721e5619bf]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/81/schedule/2) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
+[^c-1d093d2dc3e7457d50b9a4721e5619bf]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/81/schedule/2) in force at 1.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2026/81/regulation/1/1)
 
 [^f00015]: Footnote: Column 3 shows the fees which were payable by virtue of the schedule 1 of these Regulations immediately before the coming into force of this schedule.

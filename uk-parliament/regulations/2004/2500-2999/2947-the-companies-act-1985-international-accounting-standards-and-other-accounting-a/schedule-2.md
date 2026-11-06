@@ -22,26 +22,26 @@ summary: ''
 
 Regulation 14(1)
 
-**1.**[^key-360e5424745ecdccb8f67fbeca72c4e3] Schedule 4 to the 1985 Act (form and content of company accounts) is amended as follows.
+**1.**[^c-360e5424745ecdccb8f67fbeca72c4e3] Schedule 4 to the 1985 Act (form and content of company accounts) is amended as follows.
 
-**2.**[^key-6c15bed7abaf749ddfc7dddc14ddf4ae] Omit sub-paragraph (7) of paragraph 3 (dividends in profit and loss account to be shown as separate items)[^f00051].
+**2.**[^c-6c15bed7abaf749ddfc7dddc14ddf4ae] Omit sub-paragraph (7) of paragraph 3 (dividends in profit and loss account to be shown as separate items)[^f00051].
 
-**3.**[^key-8d1e32c40262a20c6f3ededbc17a47b5] After paragraph 5 insert–
+**3.**[^c-8d1e32c40262a20c6f3ededbc17a47b5] After paragraph 5 insert–
 
 > **5A.** The directors of a company must, in determining how amounts are presented within items in the profit and loss account and balance sheet, have regard to the substance of the reported transaction or arrangement, in accordance with generally accepted accounting principles or practice
 
 .
 
-**4.**[^key-87c05d6549223bea1c3bc258d242350d] (1) In the Balance Sheet Formats, for “provisions for liabilities and charges”, wherever occurring, substitute “provisions for liabilities”.
+**4.**[^c-87c05d6549223bea1c3bc258d242350d] (1) In the Balance Sheet Formats, for “provisions for liabilities and charges”, wherever occurring, substitute “provisions for liabilities”.
 
 (2) That expression occurs–
 
 - (a) in Balance Sheet Format 1, in Item I;
 - (b) in Balance Sheet Format 2, under the heading “LIABILITIES”, in Item B.
 
-**5.**[^key-f866825022e76186aab04b63894f8b6f] In paragraph 12(b) (extent to which liabilities and losses to be taken into account) omit “and losses” and “or are likely to arise”.
+**5.**[^c-f866825022e76186aab04b63894f8b6f] In paragraph 12(b) (extent to which liabilities and losses to be taken into account) omit “and losses” and “or are likely to arise”.
 
-**6.**[^key-3ae6311625a175e46495fb933ddd7325] (1) Part 2 (accounting principles and rules) is amended as follows.
+**6.**[^c-3ae6311625a175e46495fb933ddd7325] (1) Part 2 (accounting principles and rules) is amended as follows.
 
 (2) In paragraph 16 (general requirement to use historical cost accounting), for “Subject to section C” substitute “Subject to sections C and D”.
 
@@ -129,7 +129,7 @@ Regulation 14(1)
 >
 > (2) The treatment for taxation purposes of amounts credited or debited to the fair value reserve must be disclosed in a note to the accounts.
 
-**7.**[^key-8813420240aa4d3a130c89e842977761] (1) Part 3 (notes to the accounts) is amended as follows.
+**7.**[^c-8813420240aa4d3a130c89e842977761] (1) Part 3 (notes to the accounts) is amended as follows.
 
 (2) After paragraph 35 insert–
 
@@ -199,14 +199,14 @@ Regulation 14(1)
 > - (a) the aggregate amount which would be required to be shown in respect of that item if the amounts to be included in respect of all the assets covered by that item were determined according to the historical cost accounting rules; and
 > - (b) the aggregate amount of the cumulative provisions for depreciation or diminution in value which would be permitted or required in determining those amounts according to those rules.
 
-**8.**[^key-1913ca89c77a094b23c453df6a3b1dd5] In paragraph 46(1) (transfers to and from reserves and provisions)–
+**8.**[^c-1913ca89c77a094b23c453df6a3b1dd5] In paragraph 46(1) (transfers to and from reserves and provisions)–
 
 - (a) in paragraph (b), for “provisions for liabilities and charges” substitute “provisions for liabilities”;
 - (b) in paragraph (c), for “provision for liabilities and charges” substitute “provision for liabilities”**.**
 
-**9.**[^key-bff4303b3626a6909702fc0c43b3a738] In paragraph 72(2) (distributions by investment companies), for “provision for liabilities or charges” substitute “provision for liabilities”.
+**9.**[^c-bff4303b3626a6909702fc0c43b3a738] In paragraph 72(2) (distributions by investment companies), for “provision for liabilities or charges” substitute “provision for liabilities”.
 
-**10.**[^key-f5aca542b25c9af18df172d44fbc49f6] After paragraph 76 (interpretation) insert–
+**10.**[^c-f5aca542b25c9af18df172d44fbc49f6] After paragraph 76 (interpretation) insert–
 
 > **76A. Financial instruments**
 >
@@ -220,45 +220,45 @@ Regulation 14(1)
 >
 > (2) Those expressions are “available for sale financial asset”, “business combination”, “commodity-based contracts”, “derivative”, “equity instrument”, “exchange difference”, “fair value hedge accounting system”, “financial fixed asset”, “financial instrument”, “foreign entity”, “hedge accounting”, “hedge accounting system”, “hedged items”, “hedging instrument”, “held for trading purposes”, “held to maturity”, “monetary item”, “receivables”, “reliable market” and “trading portfolio”.
 
-**11.**[^key-11116e038238a5acccb72ac97a28a367] After paragraph 82 insert–
+**11.**[^c-11116e038238a5acccb72ac97a28a367] After paragraph 82 insert–
 
 > **82A. Investment property**
 >
 > “Investment property” means land held to earn rent or for capital appreciation.
 
-**12.**[^key-9cc527b7d5703c6969aaa091310bfe9e] In paragraph 89 (interpretation of references to provisions for liabilities or charges)–
+**12.**[^c-9cc527b7d5703c6969aaa091310bfe9e] In paragraph 89 (interpretation of references to provisions for liabilities or charges)–
 
 - (a) for “provisions for liabilities or charges” substitute “provisions for liabilities”, and
 - (b) for “or loss” substitute “the nature of which is clearly defined and” .
 
 ## Annotations
 
-[^key-360e5424745ecdccb8f67fbeca72c4e3]: Commencement: Sch. 2 para. 1 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-360e5424745ecdccb8f67fbeca72c4e3]: Commencement: Sch. 2 para. 1 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-6c15bed7abaf749ddfc7dddc14ddf4ae]: Commencement: Sch. 2 para. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-6c15bed7abaf749ddfc7dddc14ddf4ae]: Commencement: Sch. 2 para. 2 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00051]: Footnote: Paragraph 3(7) was amended by regulation 14(1) of, and paragraphs 1 and 2 of Schedule 1 to, S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189).
 
-[^key-8d1e32c40262a20c6f3ededbc17a47b5]: Commencement: Sch. 2 para. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-8d1e32c40262a20c6f3ededbc17a47b5]: Commencement: Sch. 2 para. 3 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-87c05d6549223bea1c3bc258d242350d]: Commencement: Sch. 2 para. 4 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-87c05d6549223bea1c3bc258d242350d]: Commencement: Sch. 2 para. 4 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-f866825022e76186aab04b63894f8b6f]: Commencement: Sch. 2 para. 5 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-f866825022e76186aab04b63894f8b6f]: Commencement: Sch. 2 para. 5 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-3ae6311625a175e46495fb933ddd7325]: Commencement: Sch. 2 para. 6 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-3ae6311625a175e46495fb933ddd7325]: Commencement: Sch. 2 para. 6 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-8813420240aa4d3a130c89e842977761]: Commencement: Sch. 2 para. 7 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-8813420240aa4d3a130c89e842977761]: Commencement: Sch. 2 para. 7 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00052]: Footnote: Paragraph 45 was amended by regulation 14(1) of, and paragraphs 1 and 7 of Schedule 1 to, S.I. [1996/189](https://www.legislation.gov.uk/uksi/1996/189).
 
-[^key-1913ca89c77a094b23c453df6a3b1dd5]: Commencement: Sch. 2 para. 8 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-1913ca89c77a094b23c453df6a3b1dd5]: Commencement: Sch. 2 para. 8 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-bff4303b3626a6909702fc0c43b3a738]: Commencement: Sch. 2 para. 9 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-bff4303b3626a6909702fc0c43b3a738]: Commencement: Sch. 2 para. 9 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-f5aca542b25c9af18df172d44fbc49f6]: Commencement: Sch. 2 para. 10 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-f5aca542b25c9af18df172d44fbc49f6]: Commencement: Sch. 2 para. 10 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00053]: Footnote: O.J. L222 of 14.8.1978, page 11, as amended in particular by Directive [2001/65/EEC](https://www.legislation.gov.uk/european/directive/2001/0065) (O.J. L238 of 27.12.2001, page 28).
 
-[^key-11116e038238a5acccb72ac97a28a367]: Commencement: Sch. 2 para. 11 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-11116e038238a5acccb72ac97a28a367]: Commencement: Sch. 2 para. 11 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
-[^key-9cc527b7d5703c6969aaa091310bfe9e]: Commencement: Sch. 2 para. 12 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-9cc527b7d5703c6969aaa091310bfe9e]: Commencement: Sch. 2 para. 12 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)

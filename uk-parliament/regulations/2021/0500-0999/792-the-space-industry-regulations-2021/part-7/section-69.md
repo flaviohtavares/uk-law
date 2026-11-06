@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Training programme[^key-026749567655286be54daef587800f0e]
+## 69. Training programme[^c-026749567655286be54daef587800f0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-026749567655286be54daef587800f0e]: Commencement: Reg. 69 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-026749567655286be54daef587800f0e]: Commencement: Reg. 69 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00043]: Footnote: Regulation 140 (provision of information and training to crew) requires crew members referred to in that regulation to be given training about matters relating to exposure to cosmic radiation. Launch vehicle task specialists are treated as crew members for the purpose of that regulation by virtue of regulation 134(2) (interpretation).

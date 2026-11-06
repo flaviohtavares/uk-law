@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Obligations of pilot in command or remote pilot immediately before the flight[^key-b870e7a5e7fe3a84fe96602493d0eb3e]
+## 114. Obligations of pilot in command or remote pilot immediately before the flight[^c-b870e7a5e7fe3a84fe96602493d0eb3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Immediately before a flight, the pilot in command or the remote pilot must—
 
 ## Annotations
 
-[^key-b870e7a5e7fe3a84fe96602493d0eb3e]: Commencement: Reg. 114 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-b870e7a5e7fe3a84fe96602493d0eb3e]: Commencement: Reg. 114 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

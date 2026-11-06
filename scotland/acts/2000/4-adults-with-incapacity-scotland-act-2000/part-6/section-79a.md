@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79A. Guardianship orders: children[^key-3cbadbb53e7d193b0c37bdf40e8fb5c1]
+## 79A. Guardianship orders: children[^c-3cbadbb53e7d193b0c37bdf40e8fb5c1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 57 to 79 apply in relation to a child who will become an adult within 3
 
 ## Annotations
 
-[^key-3cbadbb53e7d193b0c37bdf40e8fb5c1]: Textual amendment: [S. 79A and crossheading](https://www.legislation.gov.uk/asp/2000/4/part/6/crossheading/guardianship-orders-children) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(16)](https://www.legislation.gov.uk/asp/2007/10/section/60/16), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)
+[^c-3cbadbb53e7d193b0c37bdf40e8fb5c1]: Textual amendment: [S. 79A and crossheading](https://www.legislation.gov.uk/asp/2000/4/part/6/crossheading/guardianship-orders-children) inserted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 60(16)](https://www.legislation.gov.uk/asp/2007/10/section/60/16), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1)

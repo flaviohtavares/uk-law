@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Environment protection advisory committees[^key-ef744d2ae6478d35cc815437ab92139b]
+## SCHEDULE 3 — Environment protection advisory committees[^c-ef744d2ae6478d35cc815437ab92139b]
 
 *Extent: E+W+S*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 12.
 
-### Introductory[^key-ef744d2ae6478d35cc815437ab92139b]
+### Introductory[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**1.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duty of Agency to prepare and submit schemes for each region[^key-ef744d2ae6478d35cc815437ab92139b]
+### Duty of Agency to prepare and submit schemes for each region[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**2.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Approval of schemes[^key-ef744d2ae6478d35cc815437ab92139b]
+### Approval of schemes[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**3.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Replacement and variation of approved membership schemes[^key-ef744d2ae6478d35cc815437ab92139b]
+### Replacement and variation of approved membership schemes[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**4.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Appointment of members[^key-ef744d2ae6478d35cc815437ab92139b]
+### Appointment of members[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**5.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Vacancies, defective appointments et ceteralaetc.[^key-ef744d2ae6478d35cc815437ab92139b]
+### Vacancies, defective appointments et ceteralaetc.[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**6.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration and allowances[^key-ef744d2ae6478d35cc815437ab92139b]
+### Remuneration and allowances[^c-ef744d2ae6478d35cc815437ab92139b]
 
-**7.**[^key-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ef744d2ae6478d35cc815437ab92139b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef744d2ae6478d35cc815437ab92139b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/25/schedule/3) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ef744d2ae6478d35cc815437ab92139b]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/25/schedule/3) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

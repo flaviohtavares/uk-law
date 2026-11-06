@@ -27,25 +27,25 @@ summary: ''
 
 2004 No. 65
 
-ROAD TRAFFIC AND VEHICLES *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+ROAD TRAFFIC AND VEHICLES *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2004 *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2004 *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-Made *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+Made *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-26th February 2004 *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+26th February 2004 *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-Coming into operation *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+Coming into operation *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-31st March 2004 *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+31st March 2004 *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-The Department of the Environment, in exercise of the powers conferred on it by Articles 31D(1) and (2) and 218(1) of the Road Traffic (Northern Ireland) Order 1981 *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e][^f00001], and of powers conferred by section 128(2) of the Finance Act 1990 *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e][^f00002] and of every other power enabling it in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^key-057a92bb8b445cc96b28e50678655b4e]
+The Department of the Environment, in exercise of the powers conferred on it by Articles 31D(1) and (2) and 218(1) of the Road Traffic (Northern Ireland) Order 1981 *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e][^f00001], and of powers conferred by section 128(2) of the Finance Act 1990 *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e][^f00002] and of every other power enabling it in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^c-057a92bb8b445cc96b28e50678655b4e]
 
-## 1. Citation and commencement[^key-be31096627772078022ac1c7b39ef731]
+## 1. Citation and commencement[^c-be31096627772078022ac1c7b39ef731]
 
 These Regulations may be cited as the Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2004 and shall come into operation on 31st March 2004.
 
-## 2. Interpretation[^key-7a544789b22209006d55c4a620c0248d]
+## 2. Interpretation[^c-7a544789b22209006d55c4a620c0248d]
 
 (1) In these Regulations –
 
@@ -66,11 +66,11 @@ These Regulations may be cited as the Motor Vehicles (Approval) (Fees) Regulatio
 
 (2) For the purposes of these Regulations, a vehicle is to be regarded as being manufactured on or after a particular date if it is first assembled on or after that date, even if it includes one or more parts which were manufactured before that date.
 
-## 3. Application[^key-5f3a22b71a0311259c8a09b9e289c9ed]
+## 3. Application[^c-5f3a22b71a0311259c8a09b9e289c9ed]
 
 These Regulations apply to every motor vehicle to which Part II of the Approval Regulations applies.
 
-**4.**[^key-a0311b61958709ec28a79b3565091926][^key-5f3a22b71a0311259c8a09b9e289c9ed] (1) Subject to paragraph (2), the fee prescribed for the purposes of regulation 5(3)(b) of the Approval Regulations, in respect of an original application, is –
+**4.**[^c-a0311b61958709ec28a79b3565091926][^c-5f3a22b71a0311259c8a09b9e289c9ed] (1) Subject to paragraph (2), the fee prescribed for the purposes of regulation 5(3)(b) of the Approval Regulations, in respect of an original application, is –
 
 - (a) £200 in the case of any passenger vehicle which is a Schedule 1 vehicle;
 - (b) £85 in the case of any goods vehicle which is a Schedule 1 vehicle;
@@ -87,7 +87,7 @@ These Regulations apply to every motor vehicle to which Part II of the Approval 
 - (b) in the case of any vehicle which is not a Schedule 1 vehicle but which is the subject of a model report, £120; and
 - (c) in the case of any vehicle which is not a Schedule 1 vehicle and which is not the subject of a model report, £110.
 
-**5.**[^key-1fab3b51d9f7eda737770e8e6c8d56fb][^key-5f3a22b71a0311259c8a09b9e289c9ed] (1) The fee prescribed for the purposes of regulation 5(7)(d) of the Approval Regulations, in respect of a further application, is –
+**5.**[^c-1fab3b51d9f7eda737770e8e6c8d56fb][^c-5f3a22b71a0311259c8a09b9e289c9ed] (1) The fee prescribed for the purposes of regulation 5(7)(d) of the Approval Regulations, in respect of a further application, is –
 
 - (a) £10 in the case of a goods vehicle which is of a type which has EC Type Approval but which does not have an EC certificate of conformity and where the Department is satisfied that the vehicle has been driven no more than 3000km since the date of manufacture;
 - (b) £21 in the case of any other goods vehicle;
@@ -111,7 +111,7 @@ or any combination of sub-paragraphs (a) and (b).
 - (a) one or more items of the Table in Schedule 2 to the Approval Regulations in respect of which sufficient documentary evidence is produced to the Department before the examination to satisfy it as to compliance with the requirements of those items; or
 - (b) item 25 of the Table in Schedule 2 to the Approval Regulations[^f00011].
 
-## 6. Fees — general provisions[^key-b7fdbb760b30196406adc94c18c83f4b]
+## 6. Fees — general provisions[^c-b7fdbb760b30196406adc94c18c83f4b]
 
 If the applicant –
 
@@ -120,11 +120,11 @@ If the applicant –
 
 then, unless another time is arranged for the examination, the application shall be treated as one in respect of which no fee is payable and any sum previously paid in respect of that application shall be repaid to the applicant.
 
-## 7. Fees — replacement certificates[^key-11d2f024f5beb3231e47caffe1c7ea7f]
+## 7. Fees — replacement certificates[^c-11d2f024f5beb3231e47caffe1c7ea7f]
 
 The fee prescribed for the purposes of regulation 9(2)(b) of the Approval Regulations is £10.
 
-## 8. Provisions as to notices[^key-c490ad21e5f121e10863f37af485e0f2]
+## 8. Provisions as to notices[^c-c490ad21e5f121e10863f37af485e0f2]
 
 (1) Any notice given under these Regulations may be given by post.
 
@@ -132,7 +132,7 @@ The fee prescribed for the purposes of regulation 9(2)(b) of the Approval Regula
 
 (3) For the purposes of this regulation, “public holiday” shall not include Good Friday and shall include Easter Tuesday.
 
-## 9. Revocation and transitional arrangements[^key-18aab217af1e2b5d397f96a86b20c141]
+## 9. Revocation and transitional arrangements[^c-18aab217af1e2b5d397f96a86b20c141]
 
 (1) Subject to paragraph (2), the Motor Vehicles (Approval) (Fees) Regulations (Northern Ireland) 2001 (“the 2001 Regulations”)[^f00012] are hereby revoked.
 
@@ -191,15 +191,15 @@ Copies of the Regulations referred to in these Regulations can be obtained from 
 
 ## Annotations
 
-[^key-057a92bb8b445cc96b28e50678655b4e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/65) revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-057a92bb8b445cc96b28e50678655b4e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/65) revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^f00001]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”; Article 31D was inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755), Article 3 and amended by [S.R. 1993 No. 246](https://www.legislation.gov.uk/nisr/1993/246), regulation 5
 
 [^f00002]: Footnote: [1990 c. 29](https://www.legislation.gov.uk/ukpga/1990/29)
 
-[^key-be31096627772078022ac1c7b39ef731]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-be31096627772078022ac1c7b39ef731]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
-[^key-7a544789b22209006d55c4a620c0248d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/65/regulation/2) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-7a544789b22209006d55c4a620c0248d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/65/regulation/2) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2001 No. 172](https://www.legislation.gov.uk/nisr/2001/172) as amended by [S.R. 2004 No. 30](https://www.legislation.gov.uk/nisr/2004/30)
 
@@ -217,20 +217,20 @@ Copies of the Regulations referred to in these Regulations can be obtained from 
 
 [^f00010]: Footnote: [S.R. 1985 No. 294](https://www.legislation.gov.uk/nisr/1985/294); relevant amending Regulations are [S.R. 1987 No. 389](https://www.legislation.gov.uk/nisr/1987/389), [S.R. 1988 No. 405](https://www.legislation.gov.uk/nisr/1988/405), [S.R. 1990 No. 84](https://www.legislation.gov.uk/nisr/1990/84), [S.R. 1991 No. 408](https://www.legislation.gov.uk/nisr/1991/408), [S.R. 1992 Nos. 86](https://www.legislation.gov.uk/nisr/1992/86) and [508](https://www.legislation.gov.uk/nisr/1992/508), [S.R. 1995 No. 38](https://www.legislation.gov.uk/nisr/1995/38), [S.R. 1996 No. 156](https://www.legislation.gov.uk/nisr/1996/156), [S.R. 1998 No. 363](https://www.legislation.gov.uk/nisr/1998/363), [S.R. 1999 No. 234](https://www.legislation.gov.uk/nisr/1999/234) and [S.R. 2001 No. 174](https://www.legislation.gov.uk/nisr/2001/174)
 
-[^key-5f3a22b71a0311259c8a09b9e289c9ed]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/65/regulation/3) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-5f3a22b71a0311259c8a09b9e289c9ed]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/65/regulation/3) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
-[^key-a0311b61958709ec28a79b3565091926]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/65/regulation/4) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-a0311b61958709ec28a79b3565091926]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/65/regulation/4) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
-[^key-1fab3b51d9f7eda737770e8e6c8d56fb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/65/regulation/5) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-1fab3b51d9f7eda737770e8e6c8d56fb]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/65/regulation/5) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
 [^f00011]: Footnote: Item 25 was added by [S.R. 2004 No. 30](https://www.legislation.gov.uk/nisr/2004/30), regulation 6(3)
 
-[^key-b7fdbb760b30196406adc94c18c83f4b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/65/regulation/6) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-b7fdbb760b30196406adc94c18c83f4b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/65/regulation/6) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
-[^key-11d2f024f5beb3231e47caffe1c7ea7f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/65/regulation/7) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-11d2f024f5beb3231e47caffe1c7ea7f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/65/regulation/7) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
-[^key-c490ad21e5f121e10863f37af485e0f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/65/regulation/8) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-c490ad21e5f121e10863f37af485e0f2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/65/regulation/8) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
-[^key-18aab217af1e2b5d397f96a86b20c141]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/65/regulation/9) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
+[^c-18aab217af1e2b5d397f96a86b20c141]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/65/regulation/9) in operation at 31.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/65/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2001 No. 170](https://www.legislation.gov.uk/nisr/2001/170)

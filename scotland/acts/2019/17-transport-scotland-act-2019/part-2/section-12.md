@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Examination of proposals[^key-de5376ba480dd16bbcd097e6fc2e90e3]
+## 12. Examination of proposals[^c-de5376ba480dd16bbcd097e6fc2e90e3]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ may (if it or they consider it appropriate) appoint a person (“the reporter”
 
 ## Annotations
 
-[^key-de5376ba480dd16bbcd097e6fc2e90e3]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/17/section/12) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-de5376ba480dd16bbcd097e6fc2e90e3]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2019/17/section/12) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

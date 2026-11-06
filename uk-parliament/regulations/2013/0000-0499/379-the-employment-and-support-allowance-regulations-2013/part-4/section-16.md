@@ -36,8 +36,8 @@ summary: ''
   by reason of it being known or reasonably suspected that the claimant is infected or contaminated by, or has been in contact with a case of, a relevant infection or contamination;
 - (d) in the case of a pregnant woman, there is a serious risk of damage to her health or to the health of her unborn child if she does not refrain from work;
 - (e) in the case of a pregnant woman, she—
-  - (i) is within the maternity allowance period (which has the meaning it has in [^key-b2a99693594bf45c5ed4057ab6962125]... the Contributions and Benefits Act); and
-  - (ii) is entitled to a maternity allowance under section 35(1) or 35B(1)[^key-01578a5b6371fd7a128e51658493a571] of the Contributions and Benefits Act[^c21661101];
+  - (i) is within the maternity allowance period (which has the meaning it has in [^c-b2a99693594bf45c5ed4057ab6962125]... the Contributions and Benefits Act); and
+  - (ii) is entitled to a maternity allowance under section 35(1) or 35B(1)[^c-01578a5b6371fd7a128e51658493a571] of the Contributions and Benefits Act[^c21661101];
 - (f) in the case of a pregnant woman whose expected or actual date of confinement has been certified in accordance with the Medical Evidence Regulations, on any day in the period—
   - (i) beginning with the first date of the 6th week before the expected week of her confinement or the actual date of her confinement, whichever is earlier; and
   - (ii) ending on the 14th day after the actual date of her confinement,
@@ -59,9 +59,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b2a99693594bf45c5ed4057ab6962125]: Textual amendment: Words in reg. 16(1)(e)(i) omitted (18.5.2014) by virtue of [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2014/884/regulation/6/3/a)
+[^c-b2a99693594bf45c5ed4057ab6962125]: Textual amendment: Words in reg. 16(1)(e)(i) omitted (18.5.2014) by virtue of [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2014/884/regulation/6/3/a)
 
-[^key-01578a5b6371fd7a128e51658493a571]: Textual amendment: Words in reg. 16(1)(e)(ii) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2014/884/regulation/6/3/b)
+[^c-01578a5b6371fd7a128e51658493a571]: Textual amendment: Words in reg. 16(1)(e)(ii) inserted (18.5.2014) by [The Social Security (Maternity Allowance) (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/884)](https://www.legislation.gov.uk/uksi/2014/884), [regs. 1](https://www.legislation.gov.uk/uksi/2014/884/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2014/884/regulation/6/3/b)
 
 [^c21661101]: Marginal citation: Section 35(1) was substituted by section 53 of the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by paragraph 4 of Schedule 7 to the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and section 63 of the Welfare Reform Act 2012.
 

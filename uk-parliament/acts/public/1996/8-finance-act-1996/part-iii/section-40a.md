@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Disposals of material[^key-26eb7e99c2a3641bc8965b20a1d94a1e]
+## 40A. Disposals of material[^c-26eb7e99c2a3641bc8965b20a1d94a1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26eb7e99c2a3641bc8965b20a1d94a1e]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1996/8/section/40A) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/3)
+[^c-26eb7e99c2a3641bc8965b20a1d94a1e]: Textual amendment: [S. 40A](https://www.legislation.gov.uk/ukpga/1996/8/section/40A) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/3)

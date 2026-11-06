@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Work orders[^c21037181][^key-19261826f757465b043b93c8b8c64c57]
+## 51. Work orders[^c21037181][^c-19261826f757465b043b93c8b8c64c57]
 
 *Extent: S*
 
@@ -95,4 +95,4 @@ After section 303 of the 1995 Act there is inserted—
 
 [^c21037181]: Commencement: S. 51 partly in force; s. 51 not in force at Royal Assent, see s. 84; s. 51 in force for certain purposes at 2.6.2008 by [S.S.I. 2008/192](https://www.legislation.gov.uk/ssi/2008/192), [art. 3](https://www.legislation.gov.uk/ssi/2008/192/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/192/schedule)
 
-[^key-19261826f757465b043b93c8b8c64c57]: Commencement: S. 51 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/188](https://www.legislation.gov.uk/ssi/2011/188), [art. 2](https://www.legislation.gov.uk/ssi/2011/188/article/2)
+[^c-19261826f757465b043b93c8b8c64c57]: Commencement: S. 51 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/188](https://www.legislation.gov.uk/ssi/2011/188), [art. 2](https://www.legislation.gov.uk/ssi/2011/188/article/2)

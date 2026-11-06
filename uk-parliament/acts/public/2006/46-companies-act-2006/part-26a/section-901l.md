@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 901L. Power to amend Act[^key-ac89852855d24441a2c54d2d1a7c13a2]
+## 901L. Power to amend Act[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac89852855d24441a2c54d2d1a7c13a2]: Textual amendment: Pt. 26A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-ac89852855d24441a2c54d2d1a7c13a2]: Textual amendment: Pt. 26A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))

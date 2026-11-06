@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Mobility component[^key-94729a44534db5277ddb253a4c86bc8c]
+## 14. Mobility component[^c-94729a44534db5277ddb253a4c86bc8c]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94729a44534db5277ddb253a4c86bc8c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/24/section/14) in force at 11.4.2011 in so far as not already in force by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/293/article/2/2)
+[^c-94729a44534db5277ddb253a4c86bc8c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2009/24/section/14) in force at 11.4.2011 in so far as not already in force by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/293/article/2/2)
 
 [^M_I_badda6fb-0427-47db-f49b-53e5b41a3f0d]: Commencement: S. 14 in force at 15.10.2010 for specified purposes by [S.I. 2010/293](https://www.legislation.gov.uk/uksi/2010/293), art. 2(2)(b)

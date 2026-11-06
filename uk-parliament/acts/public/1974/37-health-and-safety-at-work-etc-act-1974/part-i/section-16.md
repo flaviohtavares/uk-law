@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Approval of codes of practice by the Executive.[^c18893731][^c7807241][^c7807251][^c7807262][^c20459331][^key-0fe72d9a6077d9cfd7b83aac041509d3][^key-2efaa75a9f67da686fec016a584e2dea][^key-ec168a840a406d01236d93e7f84e66aa][^key-7271194b82074fcbd37965884f3cf752][^c19946601]
+## 16. Approval of codes of practice by the Executive.[^c18893731][^c7807241][^c7807251][^c7807262][^c20459331][^c-0fe72d9a6077d9cfd7b83aac041509d3][^c-2efaa75a9f67da686fec016a584e2dea][^c-ec168a840a406d01236d93e7f84e66aa][^c-7271194b82074fcbd37965884f3cf752][^c19946601]
 
 *Extent: E+W+S*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (2) The Executive shall not approve a code of practice under subsection (1) above without the consent of the Secretary of State, and shall, before seeking his consent, consult—
 
-- (a) any government department or other body that appears to the Executive to be appropriate[^key-6882bfafe60c6456eeee109e72448fa8]...[^key-6882bfafe60c6456eeee109e72448fa8]...[^key-6882bfafe60c6456eeee109e72448fa8]...; and
+- (a) any government department or other body that appears to the Executive to be appropriate[^c-6882bfafe60c6456eeee109e72448fa8]...[^c-6882bfafe60c6456eeee109e72448fa8]...[^c-6882bfafe60c6456eeee109e72448fa8]...; and
 - (b) such government departments and other bodies, if any, as in relation to any matter dealt with in the code, the Executive is required to consult under this section by virtue of directions given to it by the Secretary of State.
 
 (3) Where a code of practice is approved by the Executive under subsection (1) above, the Executive shall issue a notice in writing—
@@ -56,7 +56,7 @@ and the provisions of subsections (2) and (3) above shall, with the necessary mo
 
 (8) The power of the Executive under subsection (1)(b) above to approve a code of practice issued or proposed to be issued otherwise than by the Executive shall include power to approve a part of such a code of practice; and accordingly in this Part “code of practice” may be read as including a part of such a code of practice.
 
-## 16. Approval of codes of practice by the Executive.[^c18893771][^c7807241][^c7807251][^c7807262][^c20459331][^key-ec168a840a406d01236d93e7f84e66aa][^key-7271194b82074fcbd37965884f3cf752]
+## 16. Approval of codes of practice by the Executive.[^c18893771][^c7807241][^c7807251][^c7807262][^c20459331][^c-ec168a840a406d01236d93e7f84e66aa][^c-7271194b82074fcbd37965884f3cf752]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ and the provisions of subsections (2) and (3) above shall, with the necessary mo
 
 (2) The Executive shall not approve a code of practice under subsection (1) above without the consent of the Secretary of State, and shall, before seeking his consent, consult—
 
-- (a) any government department or other body that appears to the Executive to be appropriate[^key-6882bfafe60c6456eeee109e72448fa8]...; and
+- (a) any government department or other body that appears to the Executive to be appropriate[^c-6882bfafe60c6456eeee109e72448fa8]...; and
 - (b) such government departments and other bodies, if any, as in relation to any matter dealt with in the code, the Executive is required to consult under this section by virtue of directions given to it by the Secretary of State.
 
 (3) Where a code of practice is approved by the Executive under subsection (1) above, the Executive shall issue a notice in writing—
@@ -112,13 +112,13 @@ and the provisions of subsections (2) and (3) above shall, with the necessary mo
 
 [^c20459331]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-0fe72d9a6077d9cfd7b83aac041509d3]: Modification: Ss. 1-59 applied by S.I. 2001/2127 art. 8A 8B (as inserted (E.W.S.) (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
-[^key-2efaa75a9f67da686fec016a584e2dea]: Modification: Ss. 16-26 applied (E.W.S.) (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1663/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/30/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/2))
+[^c-2efaa75a9f67da686fec016a584e2dea]: Modification: Ss. 16-26 applied (E.W.S.) (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1663/regulation/1), [30(2)(a)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/30/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/2))
 
-[^key-ec168a840a406d01236d93e7f84e66aa]: Modification: Ss. 16-21 applied (with modifications) (E.W.S.) (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [27(1)(a)](https://www.legislation.gov.uk/uksi/2015/483/regulation/27/1/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
+[^c-ec168a840a406d01236d93e7f84e66aa]: Modification: Ss. 16-21 applied (with modifications) (E.W.S.) (1.6.2015) by [The Control of Major Accident Hazards Regulations 2015 (S.I. 2015/483)](https://www.legislation.gov.uk/uksi/2015/483), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/483/regulation/1/1), [27(1)(a)](https://www.legislation.gov.uk/uksi/2015/483/regulation/27/1/a) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2015/483/regulation/3/2))
 
-[^key-7271194b82074fcbd37965884f3cf752]: Modification: Ss. 16-22 applied (E.W.S.) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [regs. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [36(1)(a)](https://www.legislation.gov.uk/uksi/2015/398/regulation/36/1/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-7271194b82074fcbd37965884f3cf752]: Modification: Ss. 16-22 applied (E.W.S.) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [regs. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [36(1)(a)](https://www.legislation.gov.uk/uksi/2015/398/regulation/36/1/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
 [^c19946601]: Textual amendment: Words in s. 16 substituted (1.4.2008) by [The Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 8](https://www.legislation.gov.uk/uksi/2008/960/article/8) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
@@ -128,6 +128,6 @@ and the provisions of subsections (2) and (3) above shall, with the necessary mo
 
 [^c18609381]: Textual amendment: S. 16(1A) inserted (E.W.S.) (1.4.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 2](https://www.legislation.gov.uk/ukpga/2005/14/section/2), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60), [Sch. 3 para. 9(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/3/paragraph/9/2); [S.I. 2006/266](https://www.legislation.gov.uk/uksi/2006/266), [art. 2](https://www.legislation.gov.uk/uksi/2006/266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/266/schedule)
 
-[^key-6882bfafe60c6456eeee109e72448fa8]: Textual amendment: Words in s. 16(2)(a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/5); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-6882bfafe60c6456eeee109e72448fa8]: Textual amendment: Words in s. 16(2)(a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2012/7/schedule/7/paragraph/5); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c18893771]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

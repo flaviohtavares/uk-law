@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Interpretation, translation for persons other than a person to whom proceedings relate[^key-7c63c9570fb7f4737dad6059ed7ef0a9]
+## 21A. Interpretation, translation for persons other than a person to whom proceedings relate[^c-7c63c9570fb7f4737dad6059ed7ef0a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c63c9570fb7f4737dad6059ed7ef0a9]: Textual amendment: [Rule 21A](https://www.legislation.gov.uk/uksi/2009/1209/rule/21A) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [15](https://www.legislation.gov.uk/uksi/2015/1812/rule/15)
+[^c-7c63c9570fb7f4737dad6059ed7ef0a9]: Textual amendment: [Rule 21A](https://www.legislation.gov.uk/uksi/2009/1209/rule/21A) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [15](https://www.legislation.gov.uk/uksi/2015/1812/rule/15)

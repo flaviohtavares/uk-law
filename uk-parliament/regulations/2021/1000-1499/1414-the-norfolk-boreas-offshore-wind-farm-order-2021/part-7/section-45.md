@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Compensation to protect the coherence of the national site network[^key-7dcd4abf704246451e85dfbfe3183e3a]
+## 45. Compensation to protect the coherence of the national site network[^c-7dcd4abf704246451e85dfbfe3183e3a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 19 (compensation to protect the coherence of the national site network)
 
 ## Annotations
 
-[^key-7dcd4abf704246451e85dfbfe3183e3a]: Commencement: Art. 45 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-7dcd4abf704246451e85dfbfe3183e3a]: Commencement: Art. 45 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

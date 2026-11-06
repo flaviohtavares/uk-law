@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Amount of grant[^key-7020f55bd90f51152a35c1301dfc3702]
+## 119. Amount of grant[^c-7020f55bd90f51152a35c1301dfc3702]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7020f55bd90f51152a35c1301dfc3702]: Commencement: [Reg. 119](https://www.legislation.gov.uk/ssi/2014/292/regulation/119) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-7020f55bd90f51152a35c1301dfc3702]: Commencement: [Reg. 119](https://www.legislation.gov.uk/ssi/2014/292/regulation/119) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

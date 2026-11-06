@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Technology Advisory Panel[^key-5b3ad781e0e3920ada755905386f2f20]
+## 246. Technology Advisory Panel[^c-5b3ad781e0e3920ada755905386f2f20]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3ad781e0e3920ada755905386f2f20]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2016/25/section/246) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/o)
+[^c-5b3ad781e0e3920ada755905386f2f20]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2016/25/section/246) in force at 13.2.2017 by [S.I. 2017/137](https://www.legislation.gov.uk/uksi/2017/137), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2017/137/regulation/2/o)

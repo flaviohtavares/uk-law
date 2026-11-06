@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Removal of liquidator: winding up by the High Court[^key-c36f6b12569f9da75590b6ba45d2b62f]
+## 48. Removal of liquidator: winding up by the High Court[^c-c36f6b12569f9da75590b6ba45d2b62f]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36f6b12569f9da75590b6ba45d2b62f]: Commencement: S. 48 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-c36f6b12569f9da75590b6ba45d2b62f]: Commencement: S. 48 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

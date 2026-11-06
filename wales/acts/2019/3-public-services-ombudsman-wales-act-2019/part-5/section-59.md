@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Circumstances in which special reports may be prepared[^key-a781a08a2b259f065e5c4213f86653c3]
+## 59. Circumstances in which special reports may be prepared[^c-a781a08a2b259f065e5c4213f86653c3]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a781a08a2b259f065e5c4213f86653c3]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2019/3/section/59) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-a781a08a2b259f065e5c4213f86653c3]: Commencement: [S. 59](https://www.legislation.gov.uk/anaw/2019/3/section/59) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

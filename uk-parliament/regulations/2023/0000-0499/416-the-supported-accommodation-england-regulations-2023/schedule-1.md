@@ -22,9 +22,9 @@ summary: ''
 
 Regulations 11, 12 and 17
 
-**1.**[^key-5d39e029de0cc78fbc3eb5df0e81e1a0] Proof of identity, including a recent photograph.
+**1.**[^c-5d39e029de0cc78fbc3eb5df0e81e1a0] Proof of identity, including a recent photograph.
 
-**2.**[^key-657cc35c795a539303bdb2189f0d1c5f] Either—
+**2.**[^c-657cc35c795a539303bdb2189f0d1c5f] Either—
 
 - (a) where the position falls within regulation 5A of the Police Act 1997 (Criminal Records) Regulations 2002[^f00045], an enhanced criminal record certificate issued under section 113B of the Police Act 1997[^f00046] which includes, where applicable—
   - (i) suitability information relating to children (within the meaning given in section 113BA(2) of the Police Act 1997[^f00047]), or
@@ -32,19 +32,19 @@ Regulations 11, 12 and 17
   - (iii) as the case may be, both (i) and (ii), or
 - (b) in any other case, a criminal record certificate issued under section 113A of the Police Act 1997[^f00049].
 
-**3.**[^key-df14ccb87c920481cca552c22f2c91d6] Two written references, including a reference from the person’s most recent employer, if any.
+**3.**[^c-df14ccb87c920481cca552c22f2c91d6] Two written references, including a reference from the person’s most recent employer, if any.
 
-**4.**[^key-4102b82ac49d3e80adcb19b090efc870] If a person has previously worked in a position involving work with children or vulnerable adults, verification so far as reasonably practicable of the reason why the employment or position ended.
+**4.**[^c-4102b82ac49d3e80adcb19b090efc870] If a person has previously worked in a position involving work with children or vulnerable adults, verification so far as reasonably practicable of the reason why the employment or position ended.
 
-**5.**[^key-cccb1676fc07cb8f564304dec1eb5ade] Documentary evidence of any qualifications which the person considers relevant for the position for which they are applying to register.
+**5.**[^c-cccb1676fc07cb8f564304dec1eb5ade] Documentary evidence of any qualifications which the person considers relevant for the position for which they are applying to register.
 
-**6.**[^key-4c94996b2bc65f3b823ff4532b351f6b] A full employment history, together with a satisfactory explanation of any gaps in employment, in writing.
+**6.**[^c-4c94996b2bc65f3b823ff4532b351f6b] A full employment history, together with a satisfactory explanation of any gaps in employment, in writing.
 
 ## Annotations
 
-[^key-5d39e029de0cc78fbc3eb5df0e81e1a0]: Commencement: Sch. 1 para. 1 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-5d39e029de0cc78fbc3eb5df0e81e1a0]: Commencement: Sch. 1 para. 1 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
-[^key-657cc35c795a539303bdb2189f0d1c5f]: Commencement: Sch. 1 para. 2 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-657cc35c795a539303bdb2189f0d1c5f]: Commencement: Sch. 1 para. 2 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00045]: Footnote: [S.I. 2002/233](https://www.legislation.gov.uk/uksi/2002/233); regulation 5A was inserted by [S.I. 2006/748](https://www.legislation.gov.uk/uksi/2006/748); relevant amending instruments are [S.I. 2006/2181](https://www.legislation.gov.uk/uksi/2006/2181), [2007/1892](https://www.legislation.gov.uk/uksi/2007/1892), [2008/2143](https://www.legislation.gov.uk/uksi/2008/2143), [2009/1882](https://www.legislation.gov.uk/uksi/2009/1882), [2010/817](https://www.legislation.gov.uk/uksi/2010/817), [2012/523](https://www.legislation.gov.uk/uksi/2012/523), [2012/2114](https://www.legislation.gov.uk/uksi/2012/2114), [2012/3006](https://www.legislation.gov.uk/uksi/2012/3006), [2012/3016](https://www.legislation.gov.uk/uksi/2012/3016), [2013/1194](https://www.legislation.gov.uk/uksi/2013/1194), [2013/2669](https://www.legislation.gov.uk/uksi/2013/2669), [2014/955](https://www.legislation.gov.uk/uksi/2014/955), [2022/979](https://www.legislation.gov.uk/uksi/2022/979).
 
@@ -56,10 +56,10 @@ Regulations 11, 12 and 17
 
 [^f00049]: Footnote: Section 113A was inserted by the Serious Organised Crime and Police Act 2005, section 163(2).
 
-[^key-df14ccb87c920481cca552c22f2c91d6]: Commencement: Sch. 1 para. 3 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-df14ccb87c920481cca552c22f2c91d6]: Commencement: Sch. 1 para. 3 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
-[^key-4102b82ac49d3e80adcb19b090efc870]: Commencement: Sch. 1 para. 4 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-4102b82ac49d3e80adcb19b090efc870]: Commencement: Sch. 1 para. 4 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
-[^key-cccb1676fc07cb8f564304dec1eb5ade]: Commencement: Sch. 1 para. 5 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-cccb1676fc07cb8f564304dec1eb5ade]: Commencement: Sch. 1 para. 5 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
-[^key-4c94996b2bc65f3b823ff4532b351f6b]: Commencement: Sch. 1 para. 6 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-4c94996b2bc65f3b823ff4532b351f6b]: Commencement: Sch. 1 para. 6 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

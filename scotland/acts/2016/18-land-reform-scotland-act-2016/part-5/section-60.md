@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Notification of Ministers' decision on application[^key-771807e2515e18bfc6b16100eb40ad1c]
+## 60. Notification of Ministers' decision on application[^c-771807e2515e18bfc6b16100eb40ad1c]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-771807e2515e18bfc6b16100eb40ad1c]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2016/18/section/60) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-771807e2515e18bfc6b16100eb40ad1c]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2016/18/section/60) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

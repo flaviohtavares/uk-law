@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Recovery of overpayment of benefits[^key-57216782af7cc43520a916b1850cf31a]
+## 165. Recovery of overpayment of benefits[^c-57216782af7cc43520a916b1850cf31a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-57216782af7cc43520a916b1850cf31a]: Commencement: [Reg. 165](https://www.legislation.gov.uk/uksi/2014/2848/regulation/165) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-57216782af7cc43520a916b1850cf31a]: Commencement: [Reg. 165](https://www.legislation.gov.uk/uksi/2014/2848/regulation/165) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00055]: Footnote: Under section 9 of the 2013 Act the change in earnings to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.

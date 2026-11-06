@@ -103,7 +103,7 @@ The Aggregates Levy (General) Regulations 2002 ([S.I. 2002/761](https://www.legi
 
 **15.** In consequence of the amendment made by paragraph 14(b), in regulation 15(3) after “United Kingdom” insert “from a place in England, Wales or Northern Ireland”.
 
-### 16. Repeals: the levy register etc[^key-cbe083b9507bbb2187cab122c12dc44d]
+### 16. Repeals: the levy register etc[^c-cbe083b9507bbb2187cab122c12dc44d]
 
 In the Scotland Act 2016, in Schedule 1 (disapplication of UK aggregates levy)—
 
@@ -123,6 +123,6 @@ Paragraphs 1 to 15 have effect in relation to commercial exploitation of aggrega
 
 ## Annotations
 
-[^key-cbe083b9507bbb2187cab122c12dc44d]: Commencement: Sch. 14 para. 16 in force at Royal Assent, see [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)
+[^c-cbe083b9507bbb2187cab122c12dc44d]: Commencement: Sch. 14 para. 16 in force at Royal Assent, see [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)
 
 [^M_I_4ce33a72-969b-4d21-a5ea-b4fd3930d441]: Commencement: Sch. 14 para. 17 in force at Royal Assent, see [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/14/paragraph/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Measures in LME orders[^key-95797b88f939428356e0134026193ea4][^key-27f827752ef44401b8f55c98f1d44274]
+## 126. Measures in LME orders[^c-95797b88f939428356e0134026193ea4][^c-27f827752ef44401b8f55c98f1d44274]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95797b88f939428356e0134026193ea4]: Commencement: S. 126 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-95797b88f939428356e0134026193ea4]: Commencement: S. 126 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-27f827752ef44401b8f55c98f1d44274]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2025/36/section/126) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(27)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/27)
+[^c-27f827752ef44401b8f55c98f1d44274]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2025/36/section/126) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(27)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/27)

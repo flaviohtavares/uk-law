@@ -26,7 +26,7 @@ summary: ''
 - “**the appropriate Minister**” in relation to any statutory undertakers in relation to whom it is defined by section 265 of the Town and Country Planning Act 1990[^c301786] or any other Act, has the meaning assigned to it by the Act so defining it;
 - “[^c301787]**business**” includes any industrial, commercial or professional activities (whether or not with a view to profit) and the activities of any government department or any local or other public authority;
 - [^c301788] “**common**” includes any land subject to be enclosed under the Inclosure Acts 1845 to 1882 and any town or village green;
-- “[^key-ab2fda8cb1d683f9c6107dd49b457d6f]**corporate joint committee**” means a corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
+- “[^c-ab2fda8cb1d683f9c6107dd49b457d6f]**corporate joint committee**” means a corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
 - [^c301789] “**dispose**” includes dispose by sale or exchange or dispose by lease (whether by grant or assignment) and related expressions shall be construed accordingly;
 - [^c301790] “**fuel or field garden allotment**” means any allotment set out as a fuel allotment, or a field garden allotment, under an Inclosure Act;
 - “**holding company**” means a holding company as defined in section 1159 of the Companies Act 2006[^c2091546] [^c2091546];
@@ -39,7 +39,7 @@ summary: ''
 
   and “**statutory undertaking**” shall be construed accordingly;
 - “**subsidiary**” means a subsidiary as defined by section 1159 of the Companies Act 2006 [^c2091546]; and
-- “universal service provider” has the same meaning as in[^c301804] Part 3 of the Postal Services Act 2011[^key-3a3e78e8674e3c09d784c02a85d3b455]; and references to the provision of a universal postal service shall be construed in accordance with that Part[^key-79ba364e3daae13b6f8ecf53cdfbf728];
+- “universal service provider” has the same meaning as in[^c301804] Part 3 of the Postal Services Act 2011[^c-3a3e78e8674e3c09d784c02a85d3b455]; and references to the provision of a universal postal service shall be construed in accordance with that Part[^c-79ba364e3daae13b6f8ecf53cdfbf728];
 - “**wholly owned subsidiary**” has the meaning assigned to it by section 1159 of the Companies Act 2006 [^c2091546].
 
 (1A)[^c301807] The undertaking of a universal service provider so far as relating to the provision of a universal postal service shall be taken to be his statutory undertaking for the purposes of this Act; and references in this Act to his undertaking shall be construed accordingly.
@@ -66,7 +66,7 @@ summary: ''
 
 [^c301788]: Textual amendment: S. 27(1): Definition of “common” inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 128](https://www.legislation.gov.uk/ukpga/1998/38/section/128), [Sch. 14 Pt. I para. 10(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/I/paragraph/10/2); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
-[^key-ab2fda8cb1d683f9c6107dd49b457d6f]: Textual amendment: Words in s. 27(1) inserted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 18](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/18)
+[^c-ab2fda8cb1d683f9c6107dd49b457d6f]: Textual amendment: Words in s. 27(1) inserted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 18](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/18)
 
 [^c301789]: Textual amendment: S. 27(1): Definition of “dispose” inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 128](https://www.legislation.gov.uk/ukpga/1998/38/section/128), [Sch. 14 Pt. I para. 10(2)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/14/part/I/paragraph/10/2); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 
@@ -96,9 +96,9 @@ summary: ''
 
 [^c301804]: Textual amendment: Definition of “universal service provider” in s. 27(1) inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 40(2)(b)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/40/2/b)
 
-[^key-3a3e78e8674e3c09d784c02a85d3b455]: Textual amendment: Words in s. 27(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 101(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/101/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-3a3e78e8674e3c09d784c02a85d3b455]: Textual amendment: Words in s. 27(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 101(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/101/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-79ba364e3daae13b6f8ecf53cdfbf728]: Textual amendment: Words in s. 27(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 101(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/101/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-79ba364e3daae13b6f8ecf53cdfbf728]: Textual amendment: Words in s. 27(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 101(b)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/101/b); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c301807]: Textual amendment: S. 27(1A) inserted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 40(3)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/40/3)
 

@@ -50,7 +50,7 @@ These Regulations may be cited as the Mussels (Prohibition of Fishing) Regulatio
 
 (1) Subject to paragraph (2), these Regulations apply in the Northern Ireland zone.
 
-(2) These Regulations do not apply to fishing vessels within the meaning of Article 4(1)(4) of Regulation ([^key-0e87bbf5168a23fb0f6454bf3328086c]EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy, as last amended by Regulation (EU) 2017/2092.
+(2) These Regulations do not apply to fishing vessels within the meaning of Article 4(1)(4) of Regulation ([^c-0e87bbf5168a23fb0f6454bf3328086c]EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy, as last amended by Regulation (EU) 2017/2092.
 
 ## 3. Interpretation
 
@@ -98,7 +98,7 @@ These Regulations, which are made in reliance on Article 10 of Council Regulatio
 
 [^c21522871]: Marginal citation: [1966 c.17 (N.I.)](https://www.legislation.gov.uk/apni/1966/17). Section 124 was substituted by [S.I. 1981/227 (N.I.7)](https://www.legislation.gov.uk/nisi/1981/227) Article 6. Section 124(1) and (2) were amended by [2001 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2001/4) section 1(2) - (5) and section 124(1) was amended by [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790) Article 6(2)
 
-[^key-0e87bbf5168a23fb0f6454bf3328086c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2013/1/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/7)
+[^c-0e87bbf5168a23fb0f6454bf3328086c]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2013/1/regulation/2/2) substituted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 4 para. 7](https://www.legislation.gov.uk/nisr/2018/200/schedule/4/paragraph/7)
 
 [^c21522891]: Marginal citation: [1967 c.84](https://www.legislation.gov.uk/ukpga/1967/84). Section 4 was substituted by [1976 c.86](https://www.legislation.gov.uk/ukpga/1976/86) section 3 and amended by [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29) section 20, [1992 c.60](https://www.legislation.gov.uk/ukpga/1992/60) section 1 and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) article 4, Schedule 2, Part 1, paragraph 43. By virtue of article 3(1) of, and paragraph 3(1)(d) of Schedule 1 to, [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), the functions of the Ministers exercisable under section 4 of the 1967 Act in relation to the granting of licences authorising fishing within the Northern Ireland zone were transferred to the Department of Agriculture and Rural Development but, by virtue of paragraph 3(2)(a), the Ministers retain a concurrent function to grant licences authorising fishing by British fishing boats, other than Northern Ireland fishing boats, within the Northern Ireland zone.
 

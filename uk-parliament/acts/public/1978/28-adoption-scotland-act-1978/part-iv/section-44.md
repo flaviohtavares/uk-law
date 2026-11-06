@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Effect of s. 39 on succession and inter vivos deed.[^key-d52c3583814725ae92ac2eb54117b979]
+## 44. Effect of s. 39 on succession and inter vivos deed.[^c-d52c3583814725ae92ac2eb54117b979]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Section 39 (status conferred by adoption) does not affect the existing law relat
 
 ## Annotations
 
-[^key-d52c3583814725ae92ac2eb54117b979]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1978/28/section/44) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/9)
+[^c-d52c3583814725ae92ac2eb54117b979]: Modification: [S. 44](https://www.legislation.gov.uk/ukpga/1978/28/section/44) modified (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/2), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2018/1412/schedule/4/paragraph/9)

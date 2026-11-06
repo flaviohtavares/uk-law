@@ -31,17 +31,9 @@ Scotch Whisky Act 1988 (repealed)
 
 1988 c. 22
 
-[^key-d70d4dd1ea3813018835f049e1e885bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d70d4dd1ea3813018835f049e1e885bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Prohibition of production in Scotland of whisky other than Scotch whisky.[^key-d70d4dd1ea3813018835f049e1e885bd]
-
-*Extent: E+W+S*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Restrictions on sale of spirits as Scotch whisky.[^key-d70d4dd1ea3813018835f049e1e885bd]
+## 1. Prohibition of production in Scotland of whisky other than Scotch whisky.[^c-d70d4dd1ea3813018835f049e1e885bd]
 
 *Extent: E+W+S*
 
@@ -49,7 +41,7 @@ Scotch Whisky Act 1988 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation, orders and consequential amendments.[^key-d70d4dd1ea3813018835f049e1e885bd]
+## 2. Restrictions on sale of spirits as Scotch whisky.[^c-d70d4dd1ea3813018835f049e1e885bd]
 
 *Extent: E+W+S*
 
@@ -57,13 +49,21 @@ Scotch Whisky Act 1988 (repealed)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Corresponding provision for Northern Ireland.[^key-d70d4dd1ea3813018835f049e1e885bd]
+## 3. Interpretation, orders and consequential amendments.[^c-d70d4dd1ea3813018835f049e1e885bd]
+
+*Extent: E+W+S*
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Citation, commencement and extent.[^key-d70d4dd1ea3813018835f049e1e885bd]
+## 4. Corresponding provision for Northern Ireland.[^c-d70d4dd1ea3813018835f049e1e885bd]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Citation, commencement and extent.[^c-d70d4dd1ea3813018835f049e1e885bd]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ Scotch Whisky Act 1988 (repealed)
 
 ## Annotations
 
-[^key-d70d4dd1ea3813018835f049e1e885bd]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/22) repealed (with application in accordance with reg. 1(2) of the commencing S.I.) by [Scotch Whisky Regulations 2009 (S.I. 2009/2890)](https://www.legislation.gov.uk/uksi/2009/2890), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/2/1)
+[^c-d70d4dd1ea3813018835f049e1e885bd]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1988/22) repealed (with application in accordance with reg. 1(2) of the commencing S.I.) by [Scotch Whisky Regulations 2009 (S.I. 2009/2890)](https://www.legislation.gov.uk/uksi/2009/2890), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2009/2890/regulation/2/1)

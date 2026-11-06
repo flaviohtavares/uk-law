@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Average weekly unearned income[^key-02fdf597687c9e6570a45c2498d12548]
+## 41. Average weekly unearned income[^c-02fdf597687c9e6570a45c2498d12548]
 
 *Extent: S*
 
-(1) For the purpose of regulation 38(2)(b), an applicant’s unearned income must, except where paragraph (2) applies, be estimated over a period that is appropriate to allow the applicant’s average weekly income to be estimated accurately but the length of the period is not in any case to exceed 52 weeks [^key-69c10fba89d754b89d61b89bf5c95572]....
+(1) For the purpose of regulation 38(2)(b), an applicant’s unearned income must, except where paragraph (2) applies, be estimated over a period that is appropriate to allow the applicant’s average weekly income to be estimated accurately but the length of the period is not in any case to exceed 52 weeks [^c-69c10fba89d754b89d61b89bf5c95572]....
 
 (2) The period over which any benefit under the benefit Acts is to be taken into account is the period in respect of which that benefit is payable.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02fdf597687c9e6570a45c2498d12548]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2021/249/regulation/41) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-02fdf597687c9e6570a45c2498d12548]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2021/249/regulation/41) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
-[^key-69c10fba89d754b89d61b89bf5c95572]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/ssi/2021/249/regulation/41/1) omitted (1.4.2023) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [9](https://www.legislation.gov.uk/ssi/2023/38/regulation/9)
+[^c-69c10fba89d754b89d61b89bf5c95572]: Textual amendment: Words in [reg. 41(1)](https://www.legislation.gov.uk/ssi/2021/249/regulation/41/1) omitted (1.4.2023) by virtue of [The Council Tax Reduction and Council Tax (Discounts) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/38)](https://www.legislation.gov.uk/ssi/2023/38), [regs. 1](https://www.legislation.gov.uk/ssi/2023/38/regulation/1), [9](https://www.legislation.gov.uk/ssi/2023/38/regulation/9)

@@ -25,7 +25,7 @@ summary: ''
 - (a) the tenancy or, as the case may be, the right to use (in this Part of this Act referred to as the former tenancy) has come to an end; but
 - (b) the occupier continues to reside in the premises or part of them;
 
-subject to section 23A,[^c980991] it shall not be lawful for the owner to enforce against the occupier, otherwise than by proceedings in the court *(affected by repeal, see note)*[^key-7b028d9a00cee1c58440f174fcbd9a4d] First-tier Tribunal, his right to recover possession of the premises.
+subject to section 23A,[^c980991] it shall not be lawful for the owner to enforce against the occupier, otherwise than by proceedings in the court *(affected by repeal, see note)*[^c-7b028d9a00cee1c58440f174fcbd9a4d] First-tier Tribunal, his right to recover possession of the premises.
 
 (2) For the purposes of this Part of this Act a person who, under the terms of his employment, had exclusive possession of any premises otherwise than as a tenant shall be deemed to have been a tenant and the expressions “**let**”; and “**tenancy**” shall be construed accordingly.
 
@@ -41,6 +41,6 @@ subject to section 23A,[^c980991] it shall not be lawful for the owner to enforc
 
 [^c980991]: Textual amendment: Words inserted by [Housing (Scotland) Act 1988 (c. 43, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/43), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/1988/43/section/39/1), [52](https://www.legislation.gov.uk/ukpga/1988/43/section/52)
 
-[^key-7b028d9a00cee1c58440f174fcbd9a4d]: Textual amendment: Words in s. 23(1) substituted (1.12.2017 for specified purposes) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/7); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-7b028d9a00cee1c58440f174fcbd9a4d]: Textual amendment: Words in s. 23(1) substituted (1.12.2017 for specified purposes) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 7](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/7); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
 
 [^c981001]: Textual amendment: S. 23(2A) inserted by [Housing (Scotland) Act 1988 (c. 43, SIF 61)](https://www.legislation.gov.uk/ukpga/1988/43), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/1988/43/section/39/2), [52](https://www.legislation.gov.uk/ukpga/1988/43/section/52)

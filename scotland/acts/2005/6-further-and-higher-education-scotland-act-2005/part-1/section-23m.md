@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23M. Regional strategic bodies: consultation and collaboration[^key-96d99c74be52b69fa1aa1f120141c78d]
+## 23M. Regional strategic bodies: consultation and collaboration[^c-96d99c74be52b69fa1aa1f120141c78d]
 
 *Extent: S*
 
@@ -34,8 +34,8 @@ summary: ''
 - (h) any person who appears to it to be representative of the interests of any sector for which any of its colleges provides specialist education or training;
 - (i) The Open University;
 - (j) The Skills Development Scotland Co. Limited;
-- (k) Qualifications Scotland[^key-b52df0162256722a5934736f83910a5b]; and
-- (l) Scottish Enterprise , South of Scotland Enterprise[^key-fba0a0a9aeb4b9b22addec8a3039eda5] or Highlands and Islands Enterprise (as appropriate).
+- (k) Qualifications Scotland[^c-b52df0162256722a5934736f83910a5b]; and
+- (l) Scottish Enterprise , South of Scotland Enterprise[^c-fba0a0a9aeb4b9b22addec8a3039eda5] or Highlands and Islands Enterprise (as appropriate).
 
 (2) Any particular requirement for consultation imposed on a regional strategic body by virtue of this or any other enactment is without prejudice to subsection (1).
 
@@ -49,8 +49,8 @@ summary: ''
 - (f) any other regional college or regional strategic body whom it considers it appropriate to collaborate with;
 - (g) The Open University;
 - (h) The Skills Development Scotland Co. Limited;
-- (i) Qualifications Scotland[^key-9fa8c89453c442f917dbbab085619270]; and
-- (j) Scottish Enterprise , South of Scotland Enterprise[^key-f0d585f0396b327ab9096901f18b4ca1] or Highlands and Islands Enterprise (as appropriate).
+- (i) Qualifications Scotland[^c-9fa8c89453c442f917dbbab085619270]; and
+- (j) Scottish Enterprise , South of Scotland Enterprise[^c-f0d585f0396b327ab9096901f18b4ca1] or Highlands and Islands Enterprise (as appropriate).
 
 (4) The Scottish Ministers may by order modify subsection (1) or (3)—
 
@@ -66,12 +66,12 @@ summary: ''
 
 ## Annotations
 
-[^key-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-b52df0162256722a5934736f83910a5b]: Textual amendment: Words in s. 23M(1)(k) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 13(5)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/13/5/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-b52df0162256722a5934736f83910a5b]: Textual amendment: Words in s. 23M(1)(k) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 13(5)(a)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/13/5/a); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-fba0a0a9aeb4b9b22addec8a3039eda5]: Textual amendment: Words in s. 23M(1)(l) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 5(4)(a)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/5/4/a); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-fba0a0a9aeb4b9b22addec8a3039eda5]: Textual amendment: Words in s. 23M(1)(l) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 5(4)(a)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/5/4/a); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
 
-[^key-9fa8c89453c442f917dbbab085619270]: Textual amendment: Words in s. 23M(3)(i) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 13(5)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/13/5/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-9fa8c89453c442f917dbbab085619270]: Textual amendment: Words in s. 23M(3)(i) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 13(5)(b)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/13/5/b); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-f0d585f0396b327ab9096901f18b4ca1]: Textual amendment: Words in s. 23M(3)(j) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 5(4)(b)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/5/4/b); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)
+[^c-f0d585f0396b327ab9096901f18b4ca1]: Textual amendment: Words in s. 23M(3)(j) inserted (16.10.2019) by [South of Scotland Enterprise Act 2019 (asp 9)](https://www.legislation.gov.uk/asp/2019/9), [s. 24(2)](https://www.legislation.gov.uk/asp/2019/9/section/24/2), [sch. 2 para. 5(4)(b)](https://www.legislation.gov.uk/asp/2019/9/schedule/2/paragraph/5/4/b); [S.S.I. 2019/308](https://www.legislation.gov.uk/ssi/2019/308), [reg. 2](https://www.legislation.gov.uk/ssi/2019/308/regulation/2)

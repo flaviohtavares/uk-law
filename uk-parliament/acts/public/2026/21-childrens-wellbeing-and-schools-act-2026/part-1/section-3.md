@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Multi-agency child protection teams for local authority areas[^key-b698c1c1068be9e968d0f356e4216918]
+## 3. Multi-agency child protection teams for local authority areas[^c-b698c1c1068be9e968d0f356e4216918]
 
 *Extent: E+W*
 
@@ -123,4 +123,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b698c1c1068be9e968d0f356e4216918]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-b698c1c1068be9e968d0f356e4216918]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)

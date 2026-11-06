@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79A. Business names[^key-c4fa134e077bb3412cadb432d29c6d61]
+## 79A. Business names[^c-c4fa134e077bb3412cadb432d29c6d61]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Sections 1198A, 1198B and 1199A of the 2006 Act apply to LLPs, modified to read 
 >
 > - (a) the period for complying with the direction or order has not yet expired,
 > - (b) the LLP complied with the direction or order and has since become registered with the name again following approval given under section 57B, or
-> - (c) the direction was given, or the order was made, before regulation 46[^key-821dd0f86eb27eb13dea49da1e76f3fa] of the Limited Liability Partnerships (Application of Company Law) Regulations 2024 ([S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234)) came into force.
+> - (c) the direction was given, or the order was made, before regulation 46[^c-821dd0f86eb27eb13dea49da1e76f3fa] of the Limited Liability Partnerships (Application of Company Law) Regulations 2024 ([S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234)) came into force.
 >
 > (3) If an LLP uses a name in contravention of this section an offence is committed by—
 >
@@ -52,7 +52,7 @@ Sections 1198A, 1198B and 1199A of the 2006 Act apply to LLPs, modified to read 
 >
 > - (a) it is registered under the Limited Liability Partnerships Act 2000 by that name,
 > - (b) the period for complying with the direction or order has not yet expired, or
-> - (c) the direction was given, or the order was made, before regulation 46[^key-0611fd4940fe1217a1bc3d78b9a4c9b5] of the Limited Liability Partnerships (Application of Company Law) Regulations 2024 ([S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234)) came into force.
+> - (c) the direction was given, or the order was made, before regulation 46[^c-0611fd4940fe1217a1bc3d78b9a4c9b5] of the Limited Liability Partnerships (Application of Company Law) Regulations 2024 ([S.I. 2024/234](https://www.legislation.gov.uk/uksi/2024/234)) came into force.
 >
 > (3) For the purposes of subsection (1) it is irrelevant whether the person has, or has had, a relevant relationship with both LLPs at the same time.
 >
@@ -91,8 +91,8 @@ Sections 1198A, 1198B and 1199A of the 2006 Act apply to LLPs, modified to read 
 
 ## Annotations
 
-[^key-c4fa134e077bb3412cadb432d29c6d61]: Textual amendment: [Reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2024/234/regulation/46); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-c4fa134e077bb3412cadb432d29c6d61]: Textual amendment: [Reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2024/234/regulation/46); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-821dd0f86eb27eb13dea49da1e76f3fa]: Textual amendment: Words in [reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) substituted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/49/regulation/4/3/a); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+[^c-821dd0f86eb27eb13dea49da1e76f3fa]: Textual amendment: Words in [reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) substituted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/49/regulation/4/3/a); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
 
-[^key-0611fd4940fe1217a1bc3d78b9a4c9b5]: Textual amendment: Words in [reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) substituted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/49/regulation/4/3/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)
+[^c-0611fd4940fe1217a1bc3d78b9a4c9b5]: Textual amendment: Words in [reg. 79A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/79A) substituted (18.3.2025) by [The Unique Identifiers (Application of Company Law) Regulations 2025 (S.I. 2025/49)](https://www.legislation.gov.uk/uksi/2025/49), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/49/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/49/regulation/4/3/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/b)

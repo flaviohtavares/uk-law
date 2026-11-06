@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Consenting to transfer[^key-97a43b1b153ffb9a96e413f0bd6f4644]
+## 19. Consenting to transfer[^c-97a43b1b153ffb9a96e413f0bd6f4644]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ and must be published in such manner as the economic regulator considers appropr
 
 ## Annotations
 
-[^key-97a43b1b153ffb9a96e413f0bd6f4644]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/52/section/19) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-97a43b1b153ffb9a96e413f0bd6f4644]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2023/52/section/19) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

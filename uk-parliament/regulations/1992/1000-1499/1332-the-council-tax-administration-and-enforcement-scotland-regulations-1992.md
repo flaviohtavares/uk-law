@@ -48,7 +48,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-a323ebb3070197f797e6698ca9b688d5]
+### 1. Citation, commencement and interpretation[^c-a323ebb3070197f797e6698ca9b688d5]
 
 (1) These Regulations may be cited as the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992 and shall come into force on 1st July 1992.
 
@@ -73,7 +73,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART II — INFORMATION
 
-### 2. Information as to liable persons, etc.[^key-bef13a471f40b0292ce3f17568bbbd9a]
+### 2. Information as to liable persons, etc.[^c-bef13a471f40b0292ce3f17568bbbd9a]
 
 (1) Any person appearing to a levying authority to be a resident, owner or managing agent of a particular dwelling shall supply to the authority in accordance with paragraph (2) such information as fulfils the following conditions:—
 
@@ -89,7 +89,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (3) In paragraph (1), the reference to a managing agent of a particular dwelling is to a person authorised to arrange lettings of the dwelling.
 
-### 3. Information from public bodies[^key-d82f6057079205d6bec2af2ee4880f6f]
+### 3. Information from public bodies[^c-d82f6057079205d6bec2af2ee4880f6f]
 
 (1) A levying authority may, for the purpose of carrying out their functions under Part II of the Act, by notice request a person mentioned in paragraph (3) to supply to them such information as is specified in the notice and does not fall within paragraph (2).
 
@@ -128,7 +128,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 - (a) in relation to such officers in England and Wales, in accordance with section 26 of the Local Government Finance Act 1988[^f00004]; and
 - (b) in relation to such officers in Scotland, in accordance with section 12 of the Abolition of Domestic Rates Etc. (Scotland) Act 1987[^f00005].
 
-### 4. Information as to deaths[^key-94cfb1ce4e6eab38cd9205dca87b2e50]
+### 4. Information as to deaths[^c-94cfb1ce4e6eab38cd9205dca87b2e50]
 
 (1) Within 7 days of the registration in a registration district in Scotland of the death of any person aged 18 or over, the district registrar for that district shall, in accordance with paragraph (2), supply to any levying authority within the area of which the registration district wholly or partly falls the following particulars of the death:—
 
@@ -139,7 +139,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 (2) The registrar shall supply the particulars specified in paragraph (1) by sending such form as is from time to time approved by the Registrar General for such purposes with these particulars duly entered thereon.
 
-### 5. Use of information by levying authority[^key-0440eff6febc10789a336a50a72c3e22]
+### 5. Use of information by levying authority[^c-0440eff6febc10789a336a50a72c3e22]
 
 (1) In carrying out their functions under Part II of the Act, a levying authority may use information which—
 
@@ -150,7 +150,7 @@ The Secretary of State, in exercise of the powers conferred on him by sections 1
 
 ## PART III — EXEMPT DWELLINGS, ETC.
 
-### 6. Information for owners of exempt dwellings, etc.[^key-d81ef386a25117d5e7ad2ff2af355b15]
+### 6. Information for owners of exempt dwellings, etc.[^c-d81ef386a25117d5e7ad2ff2af355b15]
 
 (1) Subject to paragraph (5), a levying authority who have received a copy of a proposed list sent to them under section 85(1)(b) of the Act shall, as respects each dwelling shown in the copy which in the opinion of the authority will be a relevant dwelling on the day when the list comes into force, notify the person concerned of the valuation band shown in the copy as applicable to the dwelling.
 
@@ -194,17 +194,17 @@ the authority shall notify the person concerned of the valuation band shown in t
   - (ii) the qualifying conditions specified in paragraph 8 of Schedule 11 to the Act are not met in respect of the dwelling on the day, and the day falls within a financial year in respect of which the levying authority, and (where that authority is a regional council) the district council within the area of which the dwelling is situated, have set an amount of nil under section 93(1) of the Act; and
 - (b) any reference to the person concerned, in relation to a dwelling, is a reference to a person who would be liable (whether solely or jointly and severally with another person or persons) to pay to the authority an amount in respect of council tax or the council water charge for the particular day if the dwelling were not or had not been a relevant dwelling on that day.
 
-### 7. Inquiries as to dwellings[^key-c8dd1812ad0b1af1145b254d1bc5d74d]
+### 7. Inquiries as to dwellings[^c-c8dd1812ad0b1af1145b254d1bc5d74d]
 
 A levying authority shall, as regards each financial year commencing with the financial year beginning on 1st April 1993, take reasonable steps to ascertain whether any dwellings in their area will be or were exempt dwellings for any period during the year.
 
-### 8. Assumptions as to dwellings[^key-3d4bd03008cd09c61aa6ced2872f8504]
+### 8. Assumptions as to dwellings[^c-3d4bd03008cd09c61aa6ced2872f8504]
 
 (1) Where a levying authority, having taken such steps as are referred to in regulation 7, have no reason to believe that a particular dwelling will be or was an exempt dwelling for any period during the year, they shall assume, for the purposes of Part V of these Regulations, that the dwelling will be or was a chargeable dwelling for that period.
 
 (2) Where a levying authority, having taken such steps as are referred to in regulation 7, have reason to believe that a particular dwelling will be or was an exempt dwelling for a period during the year, they shall assume, for the purposes of the said Part V, that the dwelling will be or was an exempt dwelling for that period.
 
-### 9. Notification of assumptions[^key-35e320a89135f434113e9f090731de1c]
+### 9. Notification of assumptions[^c-35e320a89135f434113e9f090731de1c]
 
 (1) Subject to paragraphs (3) and (4), as soon as reasonably practicable after a levying authority have made such an assumption as is mentioned in regulation 8(2) in respect of a period commencing after 1st April 1993, they shall by notice inform the relevant person of the assumption made in his case.
 
@@ -233,7 +233,7 @@ A levying authority shall, as regards each financial year commencing with the fi
 
 (6) In this regulation, “relevant person” means a person who, in respect of the particular dwelling, would be liable (whether solely or jointly and severally with another person or persons) to pay to the authority an amount in respect of council tax or the council water charge for the period to which the assumption relates if the dwelling were not or had not been an exempt dwelling for that period.
 
-### 10. Correction of assumptions[^key-8219b0d7f193ed3ebd2fb0f77f47ebb0]
+### 10. Correction of assumptions[^c-8219b0d7f193ed3ebd2fb0f77f47ebb0]
 
 (1) Subject to paragraph (2), where a person—
 
@@ -248,21 +248,21 @@ he shall, within the period of 21 days beginning on the day on which he first ha
 
 ## PART IV — DISCOUNTS
 
-### 11. Interpretation of Part IV[^key-2760319f59f30719494c84376a451e90]
+### 11. Interpretation of Part IV[^c-2760319f59f30719494c84376a451e90]
 
 In this Part, any reference to any calculation of the chargeable amount includes a reference to any estimate of the amount.
 
-### 12. Ascertainment of entitlement to discount[^key-e86ad3cfd3f3736bb895fc3e1248a18b]
+### 12. Ascertainment of entitlement to discount[^c-e86ad3cfd3f3736bb895fc3e1248a18b]
 
 A levying authority shall, before making any calculation for the purposes of Part V of these Regulations of the chargeable amount in respect of any dwelling in their area, take reasonable steps to ascertain whether that amount is subject to any discount under section 79 of the Act or under that section as read with paragraph 11 of Schedule 11 to the Act and, if so, the amount of that discount.
 
-### 13. Assumptions as to discount[^key-d75348f57d02af084d785377f1c0a998]
+### 13. Assumptions as to discount[^c-d75348f57d02af084d785377f1c0a998]
 
 (1) Where a levying authority, having taken such steps as are referred to in regulation 12, have no reason to believe that the chargeable amount for the financial year concerned is subject to a discount, they shall assume, in making any calculation of the chargeable amount for the purposes of Part V of these Regulations, that the chargeable amount is not subject to any discount.
 
 (2) Where a levying authority, having taken such steps as are referred to in regulation 12, have reason to believe that the chargeable amount for the financial year concerned is subject to a discount of a particular amount, they shall assume, in making any such calculation as is mentioned in paragraph (1), that the chargeable amount is subject to a discount of that amount.
 
-### 14. Notification of discount assumptions[^key-b2ad4580c5d1664d6d93a32914cb4306]
+### 14. Notification of discount assumptions[^c-b2ad4580c5d1664d6d93a32914cb4306]
 
 (1) Subject to paragraphs (3) to (5), as soon as reasonably practicable after a levying authority have made such an assumption as is mentioned in regulation 13(2), they shall by notice inform the relevant person of the assumption made in his case.
 
@@ -279,7 +279,7 @@ A levying authority shall, before making any calculation for the purposes of Par
 
 (6) In this regulation, “relevant person” means a person who is liable (whether solely or jointly and severally with another person or persons) to pay to the authority the chargeable amount in respect of which the assumption in question is made, and includes a person who in the opinion of the authority will be so liable.
 
-### 15. Correction of discount assumptions[^key-2b23d622b996f64f38472a7d87a5d29d]
+### 15. Correction of discount assumptions[^c-2b23d622b996f64f38472a7d87a5d29d]
 
 (1) Subject to paragraph (3), where a person—
 
@@ -294,11 +294,11 @@ he shall, within the period of 21 days beginning on the day on which he first ha
 
 ## PART V — BILLING
 
-### 16. Interpretation of Part V[^key-b7698524571549a79cdc3a4a356a34ee]
+### 16. Interpretation of Part V[^c-b7698524571549a79cdc3a4a356a34ee]
 
 The provisions of this Part which provide for the repayment or crediting of any amount or the adjustment of payments due under a notice shall have effect subject to section 94(8) of the Act.
 
-### 17. The requirement for demand notices[^key-a4e13d3f73ae79ef51a6ea9322fffc00]
+### 17. The requirement for demand notices[^c-a4e13d3f73ae79ef51a6ea9322fffc00]
 
 (1) Subject to paragraph (5), in respect of each financial year commencing with the financial year beginning on 1st April 1993, a levying authority shall serve, in accordance with paragraph (2) or (3), a demand notice as regards every dwelling in their area appearing to them likely to be, or to have been, a chargeable dwelling on 1st April in the year in question.
 
@@ -329,7 +329,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
   - (ii) the Council Tax (Liability of Owners) (Scotland) Regulations 1992[^f00008];
     - and who has agreed with the levying authority that no demand notice need be served on him.
 
-### 18. Payments required: general[^key-111061c7805052d08f26bb111761d389]
+### 18. Payments required: general[^c-111061c7805052d08f26bb111761d389]
 
 (1) Subject to paragraphs (2) and (3), no payment on account of the chargeable amount (whether interim, final or sole) need be made unless a notice served under this Part requires it.
 
@@ -337,7 +337,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 (3) Paragraph (1) shall not apply where payment is due in terms of such an agreement as is referred to in paragraph (7) of regulation 21.
 
-### 19. Notices: general[^key-f58406381ac5e0d4c4305ce3cab99f02]
+### 19. Notices: general[^c-f58406381ac5e0d4c4305ce3cab99f02]
 
 (1) A notice under this Part shall relate to a particular dwelling and a particular financial year only.
 
@@ -345,7 +345,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 (3) If at the time of serving a notice under this Part it appears to the levying authority that there are persons jointly and severally liable to make any payments to which the notice relates, they shall address the notice in the joint names of those persons and may, where all such persons appear to the authority to be resident at the same address, effect service by sending or delivering only one copy of the notice to that address.
 
-### 20. Demand notices: payments required[^key-0bcd1d120a1fafb1582e3fdb9bf272a5]
+### 20. Demand notices: payments required[^c-0bcd1d120a1fafb1582e3fdb9bf272a5]
 
 (1) Subject to paragraph (4), if a demand notice is issued before or during the relevant year, it shall require the making of payments on account of the amount referred to in paragraph (2).
 
@@ -376,7 +376,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 - (a) the chargeable amount; or
 - (b) where an amount falls to be credited by the levying authority against the chargeable amount, an amount equal to the amount (if any) by which the chargeable amount exceeds the amount falling to be so credited.
 
-### 21. Council tax and the council water charge: payments[^key-9b5dda8f0c346220ce7fbf8b29239c92]
+### 21. Council tax and the council water charge: payments[^c-9b5dda8f0c346220ce7fbf8b29239c92]
 
 (1) Unless an agreement under paragraph (4) in relation to the relevant year has been reached between the levying authority and the liable person before a demand notice is issued, a demand notice to which paragraph (1) of regulation 20 applies shall require the amount mentioned in paragraph (2) of that regulation to be paid by instalments in accordance with Part I of Schedule 1.
 
@@ -395,7 +395,7 @@ The provisions of this Part which provide for the repayment or crediting of any 
 
 (7) Where, under paragraph (5) of regulation 17, a demand notice is not served in respect of a dwelling and a period in a financial year, any sum that would have been payable to a levying authority had such a notice been served shall instead be payable to them in terms of any agreement entered into between them and the liable person.
 
-### 22. Failure to pay instalments[^key-93b6dc7c1ec7756447b6419860c89fce]
+### 22. Failure to pay instalments[^c-93b6dc7c1ec7756447b6419860c89fce]
 
 (1) Subject to paragraph (2), where—
 
@@ -418,7 +418,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (4) If, after making a payment in accordance with a reminder notice which is the second such notice as regards the relevant year, the liable person fails to pay any subsequent instalment as regards that year on or before the day on which it falls due, the unpaid balance of the estimated amount specified in the notice referred to in sub-paragraph (a) of paragraph (1) shall become payable by him on the day following the day of the failure.
 
-### 23. Payments: adjustments[^key-78e0509157c7dccebfb362c7af14243c]
+### 23. Payments: adjustments[^c-78e0509157c7dccebfb362c7af14243c]
 
 (1) This regulation applies for the purpose of adjusting amounts payable under this Part, but shall not apply in the circumstances specified in paragraph 5(1) or 6(1) of Schedule 1.
 
@@ -433,7 +433,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (5) In this regulation, “the estimated amount” means the amount last estimated under paragraph (2) of regulation 20 for the purposes of a demand notice or any subsequent notice served under paragraph 6(3)(b) of Schedule 1.
 
-### 24. Lump sum payments[^key-931871e63f410d1087b0aef582af0cdd]
+### 24. Lump sum payments[^c-931871e63f410d1087b0aef582af0cdd]
 
 (1) A levying authority may, subject to the conditions set out in paragraph (2), accept an amount payable in a single lump sum in such cases as they may determine and in satisfaction of any liability of a liable person under a demand notice to which paragraph (1) of regulation 20 applies to pay the estimated amount, being a lump sum which is of an amount determined by the authority and less than the estimated amount.
 
@@ -470,7 +470,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 - “the appropriate amount” has the meaning given in paragraph (7); and
 - “the estimated amount” means the amount last estimated under paragraph (2) of regulation 20 for the purposes of a demand notice or any subsequent notice given under paragraph 6(3)(b) of Schedule 1 prior to the payment of the single lump sum mentioned in paragraph (1) above; save that if in any case an interim adjustment has been made under paragraph (6), in relation to the next payment, repayment or interim adjustment in that case under this regulation (if any) it means (except in paragraph (9)) the appropriate amount by reference to which the previous interim adjustment was so made.
 
-### 25. Non-cash payments[^key-6204d24a4573c95dfa892d122d5058d8]
+### 25. Non-cash payments[^c-6204d24a4573c95dfa892d122d5058d8]
 
 (1) A levying authority may, subject to the conditions set out in paragraph (2), accept an amount ( “discounted amount”) in such cases as they may determine and in satisfaction of any liability of a person to pay to them any instalment or other payment on account due under a notice given under this Part, being an amount determined by the authority and less than the amount of the instalment or other payment due.
 
@@ -485,7 +485,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (5) Paragraph (4), and the power to revoke under paragraph (3), have effect in any case subject to any agreement to the contrary between the levying authority and the person liable to pay the instalment or other payment concerned.
 
-### 26. Collection of penalties[^key-8dfae78bc6c465e3abe5bd2a1cd029c0]
+### 26. Collection of penalties[^c-8dfae78bc6c465e3abe5bd2a1cd029c0]
 
 (1) Subject to paragraphs (2) and (4), where a penalty is payable by a person to a levying authority under any of sub-paragraphs (1) to (3) of paragraph 2 of Schedule 3 to the Act, it may be collected, as the authority to which it is payable determine, either—
 
@@ -500,7 +500,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (5) Where an amount has been paid by a person in respect of a penalty which is quashed under paragraph 2(6) of Schedule 3 to the Act or pursuant to the order of a valuation appeal committee or the Court of Session, the levying authority which imposed the penalty may allow the amount to him by way of deduction against any other sum which has become due from him under this Part (whether in respect of another penalty or otherwise); and any balance shall be repaid to him.
 
-### 27. Final adjustment of sums payable[^key-d53c3ecdb4ee952b8db83c467a296748]
+### 27. Final adjustment of sums payable[^c-d53c3ecdb4ee952b8db83c467a296748]
 
 (1) This regulation applies where—
 
@@ -519,7 +519,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 ## PART VI — CONTENTS OF DEMAND NOTICES
 
-### 28. Contents of demand notices[^key-9b641726421369b8812fb9952bf19028]
+### 28. Contents of demand notices[^c-9b641726421369b8812fb9952bf19028]
 
 (1) Any demand notice issued by a levying authority must contain the matters specified in Part I of Schedule 2.
 
@@ -527,7 +527,7 @@ the levying authority shall serve a notice ( “reminder notice”) on the liabl
 
 (3) Nothing in this regulation requires a demand notice to be given on a single sheet of paper, but if more than one sheet is used, the sheets shall be issued together, whether or not attached, so as to comprise one notice.
 
-### 29. Invalid notices[^key-19eb526f0d5f05660229a1e2fb6f4eeb]
+### 29. Invalid notices[^c-19eb526f0d5f05660229a1e2fb6f4eeb]
 
 (1) Where—
 
@@ -541,7 +541,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 ## PART VII — ENFORCEMENT
 
-### 30. Certificates with application for a summary warrant[^key-6d66362d59276d0ac216c406549e801f]
+### 30. Certificates with application for a summary warrant[^c-6d66362d59276d0ac216c406549e801f]
 
 (1) For the purposes of paragraph 2(2) of Schedule 8 to the Act, the certificate from a levying authority accompanying their application for a summary warrant shall contain the following particulars:—
 
@@ -558,7 +558,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 - (a) which shows those persons as jointly and severally liable for that sum; or
 - (b) which shows them as individually liable for that sum.
 
-### 31. Duty of debtor to supply information[^key-d797f13329c1dc54c43aaf27c319f6e9]
+### 31. Duty of debtor to supply information[^c-d797f13329c1dc54c43aaf27c319f6e9]
 
 (1) Where, under Schedule 8 to the Act, a summary warrant or a decree in an action for payment has been granted, the debtor against whom it was granted shall, during such time as the amount in respect of which the warrant or decree was granted remains wholly or partly unpaid, be under a duty to supply, in accordance with paragraph (5), relevant information to the levying authority on whose application the warrant or decree was granted.
 
@@ -599,7 +599,7 @@ Regulation 21
 
 ### PART I — PAYMENT OF THE AGGREGATE AMOUNT: MONTHLY INSTALMENTS
 
-**1.**[^key-a68adf186c5332a1145ef689e7e0ce4a] (1) This paragraph applies where a demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 2 below.
+**1.**[^c-a68adf186c5332a1145ef689e7e0ce4a] (1) This paragraph applies where a demand notice is issued on or before 31st December in the relevant year, but has effect subject to paragraph 2 below.
 
 (2) The aggregate amount is to be payable in monthly instalments—
 
@@ -622,7 +622,7 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 - C is equal to the aggregate amount; and
 - D is equal to the number of instalments to be paid.
 
-**2.**[^key-1349946374e56795c92ddcd2aa37a5b7] (1) If amounts calculated in accordance with paragraph 1 would produce an amount for an instalment of less than £5, a demand notice may require the aggregate amount to be paid—
+**2.**[^c-1349946374e56795c92ddcd2aa37a5b7] (1) If amounts calculated in accordance with paragraph 1 would produce an amount for an instalment of less than £5, a demand notice may require the aggregate amount to be paid—
 
 - (a) where the aggregate amount is less than £10, in a single instalment payable on such day as is specified in the notice; or
 - (b) where the aggregate amount is equal to or greater than £10, by a number of monthly instalments equal to the greatest whole number by which £5 can be multiplied to give a product which is less than or equal to the aggregate amount.
@@ -631,13 +631,13 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 
 (3) Sub-paragraphs (3) and (4) of paragraph 1 apply to instalments under sub-paragraph (1)(b) as they apply to instalments under that paragraph.
 
-**3.**[^key-d95e3c2b585ef452ad77a5dca571eaae] Where a demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
+**3.**[^c-d95e3c2b585ef452ad77a5dca571eaae] Where a demand notice is issued between 1st January and 31st March in the relevant year, the aggregate amount is to be payable in a single instalment on such day as is specified in the notice.
 
-**4.**[^key-7ff864e96700570fd96d8e36a3c66e5c] In this Part, “the aggregate amount” means the amount referred to in paragraph (2) of regulation 20.
+**4.**[^c-7ff864e96700570fd96d8e36a3c66e5c] In this Part, “the aggregate amount” means the amount referred to in paragraph (2) of regulation 20.
 
 ### PART II — CESSATION AND ADJUSTMENT OF INSTALMENTS
 
-**5.**[^key-e7e5bf2ec85aa4490db89342d8ef0100] (1) This paragraph applies where—
+**5.**[^c-e7e5bf2ec85aa4490db89342d8ef0100] (1) This paragraph applies where—
 
 - (a) a demand notice has been served on a liable person by a levying authority;
 - (b) the notice requires instalments to be paid in accordance with Part I of this Schedule; and
@@ -656,7 +656,7 @@ rounded up or down (as the levying authority shall determine) to a multiple of �
 
 (6) In this paragraph “the relevant day” means the day on which the notice referred to in sub-paragraph (3) is issued.
 
-**6.**[^key-c57b2b38b8724e47d1b9ea4d7193da37] (1) This paragraph applies where—
+**6.**[^c-c57b2b38b8724e47d1b9ea4d7193da37] (1) This paragraph applies where—
 
 - (a) a demand notice has been served on a liable person by a levying authority;
 - (b) the notice requires instalments to be paid in accordance with Part I of this Schedule;
@@ -714,20 +714,20 @@ Regulation 28
 
 ### PART I — MATTERS TO BE CONTAINED IN ALL DEMAND NOTICES
 
-**1.**[^key-9e13f3631d3db424deab4c496b4944f2] A statement of the address of the dwelling to which the notice relates ( “the relevant dwelling”).
+**1.**[^c-9e13f3631d3db424deab4c496b4944f2] A statement of the address of the dwelling to which the notice relates ( “the relevant dwelling”).
 
-**2.**[^key-760ac35554cf8204233e5e14bf16f228] A statement of the valuation band shown in the valuation list as applicable to the relevant dwelling ( “the relevant valuation band”) and, where the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^f00012] apply, a statement of the valuation band applicable in terms of paragraph (1) of regulation 4 of those Regulations ( “the alternative valuation band”).
+**2.**[^c-760ac35554cf8204233e5e14bf16f228] A statement of the valuation band shown in the valuation list as applicable to the relevant dwelling ( “the relevant valuation band”) and, where the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^f00012] apply, a statement of the valuation band applicable in terms of paragraph (1) of regulation 4 of those Regulations ( “the alternative valuation band”).
 
-**3.**[^key-f0039681ac109d4db3acd4d289172fdc] A statement, as regards the relevant year and the relevant valuation band or, where applicable, the alternative valuation band, of—
+**3.**[^c-f0039681ac109d4db3acd4d289172fdc] A statement, as regards the relevant year and the relevant valuation band or, where applicable, the alternative valuation band, of—
 
 - (a) where the relevant dwelling is situated within the area of a regional council, the amounts last set or determined—
   - (i) as council tax by that council and by the district council within the area of which the dwelling is situated; and
   - (ii) as council water charge by that regional council; or
 - (b) where the relevant dwelling is situated within the area of an islands council, the amounts last set or determined as council tax and council water charge by that council.
 
-**4.**[^key-4940553615a9d749dbdb443c19c2c9fb] A statement of the period within the relevant year to which the notice relates.
+**4.**[^c-4940553615a9d749dbdb443c19c2c9fb] A statement of the period within the relevant year to which the notice relates.
 
-**5.**[^key-6e6d343d4ff280c627aeb9cb5b2fb7a7] A statement of the total amounts payable under the notice in respect of—
+**5.**[^c-6e6d343d4ff280c627aeb9cb5b2fb7a7] A statement of the total amounts payable under the notice in respect of—
 
 - (a) council tax; and
 - (b) the council water charge;
@@ -741,11 +741,11 @@ showing itemised separately in each case the amount of any reductions or additio
 - (v) penalties under Schedule 3 to the Act; and
 - (vi) any excess council tax benefit being recovered otherwise than by allowing, for the purposes of calculating the total amount payable under the notice, a smaller reduction in respect of council tax benefit than would have been applicable but for the previous over-allowance of such benefit.
 
-**6.**[^key-7c9f5ae2e1f92e3c08195231523220e7] A statement of the instalments or other payments required to be paid under the notice and of the dates on which, and the manner in which, those payments are to be made.
+**6.**[^c-7c9f5ae2e1f92e3c08195231523220e7] A statement of the instalments or other payments required to be paid under the notice and of the dates on which, and the manner in which, those payments are to be made.
 
-**7.**[^key-3deab617b13173c5accdf20e263ececb] The name, address and telephone number of the department or unit of the levying authority to which enquiries may be directed as to any matter of which a statement is required to be given by any of the foregoing paragraphs, together with a note of the hours during which persons may attend at that department or unit with enquiries or during which they may make enquiries by telephone.
+**7.**[^c-3deab617b13173c5accdf20e263ececb] The name, address and telephone number of the department or unit of the levying authority to which enquiries may be directed as to any matter of which a statement is required to be given by any of the foregoing paragraphs, together with a note of the hours during which persons may attend at that department or unit with enquiries or during which they may make enquiries by telephone.
 
-**8.**[^key-ecfd1b59b9e8a22f1f591c125becf894] Explanatory notes, which shall include—
+**8.**[^c-ecfd1b59b9e8a22f1f591c125becf894] Explanatory notes, which shall include—
 
 - (a) a general indication of the circumstances in which—
   - (i) a dwelling may be an exempt dwelling for the purposes of Part II of the Act;
@@ -762,9 +762,9 @@ showing itemised separately in each case the amount of any reductions or additio
 
 ### PART II — MATTERS TO BE CONTAINED IN DEMAND NOTICES SO FAR AS NOT ALREADY NOTIFIED
 
-**9.**[^key-759e85c03d88338e453d3e0e0da29516] A statement to the same effect as the statement mentioned in paragraph (2) of regulation 14 (if the demand notice shows a deduction attributable as specified in sub-paragraph (ii) of paragraph 5 above).
+**9.**[^c-759e85c03d88338e453d3e0e0da29516] A statement to the same effect as the statement mentioned in paragraph (2) of regulation 14 (if the demand notice shows a deduction attributable as specified in sub-paragraph (ii) of paragraph 5 above).
 
-**10.**[^key-1eb019c4da1eb830ea7048f581c56186] A general explanation of how the amount of any reduction attributable to the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or to the matters specified in sub-paragraph (i) or (iii) of paragraph 5 above has been determined.
+**10.**[^c-1eb019c4da1eb830ea7048f581c56186] A general explanation of how the amount of any reduction attributable to the Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992 or to the matters specified in sub-paragraph (i) or (iii) of paragraph 5 above has been determined.
 
 (This note is not part of the Regulations)
 
@@ -790,116 +790,116 @@ Part VII (regulations 30 and 31) is concerned with enforcement. Regulation 30 li
 
 [^f00002]: Footnote: S.I. [1992/1203](https://www.legislation.gov.uk/uksi/1992/1203).
 
-[^key-a323ebb3070197f797e6698ca9b688d5]: Commencement: Reg. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-a323ebb3070197f797e6698ca9b688d5]: Commencement: Reg. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00003]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-bef13a471f40b0292ce3f17568bbbd9a]: Commencement: Reg. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-bef13a471f40b0292ce3f17568bbbd9a]: Commencement: Reg. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-d82f6057079205d6bec2af2ee4880f6f]: Commencement: Reg. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-d82f6057079205d6bec2af2ee4880f6f]: Commencement: Reg. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00004]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41); section 26 was amended by the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), Schedule 5, paragraph 7.
 
 [^f00005]: Footnote: [1987 c. 47](https://www.legislation.gov.uk/ukpga/1987/47).
 
-[^key-94cfb1ce4e6eab38cd9205dca87b2e50]: Commencement: Reg. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-94cfb1ce4e6eab38cd9205dca87b2e50]: Commencement: Reg. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-0440eff6febc10789a336a50a72c3e22]: Commencement: Reg. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-0440eff6febc10789a336a50a72c3e22]: Commencement: Reg. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00006]: Footnote: [1968 c. 49](https://www.legislation.gov.uk/ukpga/1968/49).
 
-[^key-d81ef386a25117d5e7ad2ff2af355b15]: Commencement: Reg. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-d81ef386a25117d5e7ad2ff2af355b15]: Commencement: Reg. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-c8dd1812ad0b1af1145b254d1bc5d74d]: Commencement: Reg. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-c8dd1812ad0b1af1145b254d1bc5d74d]: Commencement: Reg. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-3d4bd03008cd09c61aa6ced2872f8504]: Commencement: Reg. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-3d4bd03008cd09c61aa6ced2872f8504]: Commencement: Reg. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-35e320a89135f434113e9f090731de1c]: Commencement: Reg. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-35e320a89135f434113e9f090731de1c]: Commencement: Reg. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00007]: Footnote: S.I. [1992/1334](https://www.legislation.gov.uk/uksi/1992/1334).
 
-[^key-8219b0d7f193ed3ebd2fb0f77f47ebb0]: Commencement: Reg. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-8219b0d7f193ed3ebd2fb0f77f47ebb0]: Commencement: Reg. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-2760319f59f30719494c84376a451e90]: Commencement: Reg. 11 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-2760319f59f30719494c84376a451e90]: Commencement: Reg. 11 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-e86ad3cfd3f3736bb895fc3e1248a18b]: Commencement: Reg. 12 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-e86ad3cfd3f3736bb895fc3e1248a18b]: Commencement: Reg. 12 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-d75348f57d02af084d785377f1c0a998]: Commencement: Reg. 13 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-d75348f57d02af084d785377f1c0a998]: Commencement: Reg. 13 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-b2ad4580c5d1664d6d93a32914cb4306]: Commencement: Reg. 14 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-b2ad4580c5d1664d6d93a32914cb4306]: Commencement: Reg. 14 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-2b23d622b996f64f38472a7d87a5d29d]: Commencement: Reg. 15 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-2b23d622b996f64f38472a7d87a5d29d]: Commencement: Reg. 15 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-b7698524571549a79cdc3a4a356a34ee]: Commencement: Reg. 16 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-b7698524571549a79cdc3a4a356a34ee]: Commencement: Reg. 16 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-a4e13d3f73ae79ef51a6ea9322fffc00]: Commencement: Reg. 17 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-a4e13d3f73ae79ef51a6ea9322fffc00]: Commencement: Reg. 17 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1992/1331](https://www.legislation.gov.uk/uksi/1992/1331).
 
-[^key-111061c7805052d08f26bb111761d389]: Commencement: Reg. 18 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-111061c7805052d08f26bb111761d389]: Commencement: Reg. 18 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-f58406381ac5e0d4c4305ce3cab99f02]: Commencement: Reg. 19 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-f58406381ac5e0d4c4305ce3cab99f02]: Commencement: Reg. 19 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-0bcd1d120a1fafb1582e3fdb9bf272a5]: Commencement: Reg. 20 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-0bcd1d120a1fafb1582e3fdb9bf272a5]: Commencement: Reg. 20 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00009]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 138 is amended by paragraph 19 of Schedule 9 to the Act.
 
-[^key-9b5dda8f0c346220ce7fbf8b29239c92]: Commencement: Reg. 21 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-9b5dda8f0c346220ce7fbf8b29239c92]: Commencement: Reg. 21 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-93b6dc7c1ec7756447b6419860c89fce]: Commencement: Reg. 22 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-93b6dc7c1ec7756447b6419860c89fce]: Commencement: Reg. 22 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-78e0509157c7dccebfb362c7af14243c]: Commencement: Reg. 23 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-78e0509157c7dccebfb362c7af14243c]: Commencement: Reg. 23 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-931871e63f410d1087b0aef582af0cdd]: Commencement: Reg. 24 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-931871e63f410d1087b0aef582af0cdd]: Commencement: Reg. 24 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-6204d24a4573c95dfa892d122d5058d8]: Commencement: Reg. 25 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-6204d24a4573c95dfa892d122d5058d8]: Commencement: Reg. 25 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-8dfae78bc6c465e3abe5bd2a1cd029c0]: Commencement: Reg. 26 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-8dfae78bc6c465e3abe5bd2a1cd029c0]: Commencement: Reg. 26 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-d53c3ecdb4ee952b8db83c467a296748]: Commencement: Reg. 27 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-d53c3ecdb4ee952b8db83c467a296748]: Commencement: Reg. 27 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-9b641726421369b8812fb9952bf19028]: Commencement: Reg. 28 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-9b641726421369b8812fb9952bf19028]: Commencement: Reg. 28 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-19eb526f0d5f05660229a1e2fb6f4eeb]: Commencement: Reg. 29 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-19eb526f0d5f05660229a1e2fb6f4eeb]: Commencement: Reg. 29 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-6d66362d59276d0ac216c406549e801f]: Commencement: Reg. 30 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-6d66362d59276d0ac216c406549e801f]: Commencement: Reg. 30 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-d797f13329c1dc54c43aaf27c319f6e9]: Commencement: Reg. 31 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-d797f13329c1dc54c43aaf27c319f6e9]: Commencement: Reg. 31 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00010]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22).
 
 [^f00011]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
-[^key-a68adf186c5332a1145ef689e7e0ce4a]: Commencement: Sch. 1 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-a68adf186c5332a1145ef689e7e0ce4a]: Commencement: Sch. 1 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-1349946374e56795c92ddcd2aa37a5b7]: Commencement: Sch. 1 para. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-1349946374e56795c92ddcd2aa37a5b7]: Commencement: Sch. 1 para. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-d95e3c2b585ef452ad77a5dca571eaae]: Commencement: Sch. 1 para. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-d95e3c2b585ef452ad77a5dca571eaae]: Commencement: Sch. 1 para. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-7ff864e96700570fd96d8e36a3c66e5c]: Commencement: Sch. 1 para. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-7ff864e96700570fd96d8e36a3c66e5c]: Commencement: Sch. 1 para. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-e7e5bf2ec85aa4490db89342d8ef0100]: Commencement: Sch. 1 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-e7e5bf2ec85aa4490db89342d8ef0100]: Commencement: Sch. 1 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-c57b2b38b8724e47d1b9ea4d7193da37]: Commencement: Sch. 1 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-c57b2b38b8724e47d1b9ea4d7193da37]: Commencement: Sch. 1 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-9e13f3631d3db424deab4c496b4944f2]: Commencement: Sch. 2 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-9e13f3631d3db424deab4c496b4944f2]: Commencement: Sch. 2 para. 1 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-760ac35554cf8204233e5e14bf16f228]: Commencement: Sch. 2 para. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-760ac35554cf8204233e5e14bf16f228]: Commencement: Sch. 2 para. 2 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1992/1335](https://www.legislation.gov.uk/uksi/1992/1335).
 
-[^key-f0039681ac109d4db3acd4d289172fdc]: Commencement: Sch. 2 para. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-f0039681ac109d4db3acd4d289172fdc]: Commencement: Sch. 2 para. 3 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-4940553615a9d749dbdb443c19c2c9fb]: Commencement: Sch. 2 para. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-4940553615a9d749dbdb443c19c2c9fb]: Commencement: Sch. 2 para. 4 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-6e6d343d4ff280c627aeb9cb5b2fb7a7]: Commencement: Sch. 2 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-6e6d343d4ff280c627aeb9cb5b2fb7a7]: Commencement: Sch. 2 para. 5 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-7c9f5ae2e1f92e3c08195231523220e7]: Commencement: Sch. 2 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-7c9f5ae2e1f92e3c08195231523220e7]: Commencement: Sch. 2 para. 6 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-3deab617b13173c5accdf20e263ececb]: Commencement: Sch. 2 para. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-3deab617b13173c5accdf20e263ececb]: Commencement: Sch. 2 para. 7 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-ecfd1b59b9e8a22f1f591c125becf894]: Commencement: Sch. 2 para. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-ecfd1b59b9e8a22f1f591c125becf894]: Commencement: Sch. 2 para. 8 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-759e85c03d88338e453d3e0e0da29516]: Commencement: Sch. 2 para. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-759e85c03d88338e453d3e0e0da29516]: Commencement: Sch. 2 para. 9 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
 
-[^key-1eb019c4da1eb830ea7048f581c56186]: Commencement: Sch. 2 para. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)
+[^c-1eb019c4da1eb830ea7048f581c56186]: Commencement: Sch. 2 para. 10 in force at 1.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1332/regulation/1/1)

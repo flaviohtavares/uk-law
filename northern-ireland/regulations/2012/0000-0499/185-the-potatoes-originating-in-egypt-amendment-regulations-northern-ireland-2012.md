@@ -32,7 +32,7 @@ summary: ''
 
 Seeds
 
-The Potatoes Originating in Egypt (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^key-8141a9ea380f1b1069185197971238ce]
+The Potatoes Originating in Egypt (Amendment) Regulations (Northern Ireland) 2012 (revoked)[^c-8141a9ea380f1b1069185197971238ce]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 11th June 2012
 
-[^key-8141a9ea380f1b1069185197971238ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8141a9ea380f1b1069185197971238ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8141a9ea380f1b1069185197971238ce]
+## 1. Citation, commencement and interpretation[^c-8141a9ea380f1b1069185197971238ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to The Potatoes Originating in Egypt Regulations (Northern Ireland) 2004[^key-8141a9ea380f1b1069185197971238ce]
+## 2. Amendment to The Potatoes Originating in Egypt Regulations (Northern Ireland) 2004[^c-8141a9ea380f1b1069185197971238ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8141a9ea380f1b1069185197971238ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8141a9ea380f1b1069185197971238ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8141a9ea380f1b1069185197971238ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8141a9ea380f1b1069185197971238ce]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8141a9ea380f1b1069185197971238ce]: Textual amendment: Regulations revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(b)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/b)
+[^c-8141a9ea380f1b1069185197971238ce]: Textual amendment: Regulations revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(b)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Insurance and reinsurance services in relation to ships[^key-d20886db8a78bcf267080a7f4a64ced1][^key-004b52357856daf19199f1bf1fb7842d]
+## 29. Insurance and reinsurance services in relation to ships[^c-d20886db8a78bcf267080a7f4a64ced1][^c-004b52357856daf19199f1bf1fb7842d]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d20886db8a78bcf267080a7f4a64ced1]: Commencement: Reg. 29 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-d20886db8a78bcf267080a7f4a64ced1]: Commencement: Reg. 29 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-004b52357856daf19199f1bf1fb7842d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/411/regulation/29) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-004b52357856daf19199f1bf1fb7842d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2019/411/regulation/29) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

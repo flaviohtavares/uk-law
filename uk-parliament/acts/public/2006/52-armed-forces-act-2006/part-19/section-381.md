@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 381. Alignment of SDAs etc with this Act[^key-0bc6b2d6806f722d7c4df342e85767ca]
+## 381. Alignment of SDAs etc with this Act[^c-0bc6b2d6806f722d7c4df342e85767ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc6b2d6806f722d7c4df342e85767ca]: Commencement: S. 381 in force at 4.6.2007 by [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)
+[^c-0bc6b2d6806f722d7c4df342e85767ca]: Commencement: S. 381 in force at 4.6.2007 by [S.I. 2007/1442](https://www.legislation.gov.uk/uksi/2007/1442), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1442/article/2/2)

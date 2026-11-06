@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Powers of police in relation to a cordoned area[^key-bcf17b26f339ced95aa72f97ea3e2b60][^key-851a34cee35736c498b6272c6d89c7b3]
+## 11. Powers of police in relation to a cordoned area[^c-bcf17b26f339ced95aa72f97ea3e2b60][^c-851a34cee35736c498b6272c6d89c7b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf17b26f339ced95aa72f97ea3e2b60]: Commencement: S. 11 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-bcf17b26f339ced95aa72f97ea3e2b60]: Commencement: S. 11 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-851a34cee35736c498b6272c6d89c7b3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/32/section/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-851a34cee35736c498b6272c6d89c7b3]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/32/section/11) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

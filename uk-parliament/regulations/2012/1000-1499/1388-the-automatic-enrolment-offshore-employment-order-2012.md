@@ -50,11 +50,11 @@ In accordance with section 97(7) of the Pensions Act 2008[^f00001] a draft of th
 
 Accordingly, Her Majesty, in exercise of the powers conferred on Her by sections 97(1), (4) and (5) and 144(2) of the Pensions Act 2008, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation, commencement... and interpretation[^key-b8eb2f655a370ee7bc9c41adb1585341][^key-f2a034445e19424bcda1999631a4c321]
+## 1. Citation, commencement... and interpretation[^c-b8eb2f655a370ee7bc9c41adb1585341][^c-f2a034445e19424bcda1999631a4c321]
 
 (1) This Order may be cited as the Automatic Enrolment (Offshore Employment) Order 2012 and comes into force on 1st July 2012.
 
-(2)[^key-6d2ef22d3133d4404366844977722710] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6d2ef22d3133d4404366844977722710] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this Order—
 
@@ -62,7 +62,7 @@ Accordingly, Her Majesty, in exercise of the powers conferred on Her by sections
 - “the (No. 2) 2008 Act” means the Pensions (No. 2) Act (Northern Ireland) 2008[^f00002];
 - “the English area”, “the Scottish area” and “the Northern Irish area” have the same meaning in each case as in article 1(2) of the Civil Jurisdiction (Offshore Activities) Order 1987[^f00003].
 
-## 2. Application of relevant provisions[^key-18d7dbd9b8908a10c6aaba065bda13ff]
+## 2. Application of relevant provisions[^c-18d7dbd9b8908a10c6aaba065bda13ff]
 
 (1) Subject to paragraph (2), the relevant provisions apply in relation to a person in offshore employment[^f00004]—
 
@@ -80,7 +80,7 @@ Accordingly, Her Majesty, in exercise of the powers conferred on Her by sections
 
 (5) For the purposes of this article, “cross-boundary petroleum field” and “foreign sector of the continental shelf” have the same meaning in each case as in section 201 of the Employment Rights Act 1996[^f00005].
 
-## 3. Jurisdiction[^key-09501141e857fe4882fd9674f2f84b47]
+## 3. Jurisdiction[^c-09501141e857fe4882fd9674f2f84b47]
 
 (1) In Great Britain—
 
@@ -103,7 +103,7 @@ for the purposes of Part 1 of the (No. 2) 2008 Act, or any enactment as amended 
 - (a) in relation to Great Britain, has the meaning given in section 44(4A)[^f00006] of the 2008 Act; and
 - (b) in relation to Northern Ireland, has the meaning given in section 44(4A)[^f00007] of the (No. 2) 2008 Act.
 
-## 4. Review[^key-5485de566e332ba1ef0dbfab5476f6ce]
+## 4. Review[^c-5485de566e332ba1ef0dbfab5476f6ce]
 
 (1) Before the end of the review period, the Secretary of State must—
 
@@ -119,7 +119,7 @@ for the purposes of Part 1 of the (No. 2) 2008 Act, or any enactment as amended 
 
 (3) “Review period” means the period of six years beginning with 1st July 2012.
 
-## 5. Savings[^key-86d3a8015b76bee3114fd65795c9f159][^key-0e2104772f96cf1d9e29999768fd086d]
+## 5. Savings[^c-86d3a8015b76bee3114fd65795c9f159][^c-0e2104772f96cf1d9e29999768fd086d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,30 +145,30 @@ An assessment of the impact of this legislation on the private sector and civil 
 
 [^f00001]: Footnote: [2008 c. 30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-b8eb2f655a370ee7bc9c41adb1585341]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1388/article/1) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
+[^c-b8eb2f655a370ee7bc9c41adb1585341]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/1388/article/1) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
 
-[^key-f2a034445e19424bcda1999631a4c321]: Textual amendment: Word in [art. 1](https://www.legislation.gov.uk/uksi/2012/1388/article/1) heading omitted (30.6.2020) by virtue of [The Automatic Enrolment (Offshore Employment) (Amendment) Order 2020 (S.I. 2020/634)](https://www.legislation.gov.uk/uksi/2020/634), [arts. 1](https://www.legislation.gov.uk/uksi/2020/634/article/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2020/634/article/2/a/i)
+[^c-f2a034445e19424bcda1999631a4c321]: Textual amendment: Word in [art. 1](https://www.legislation.gov.uk/uksi/2012/1388/article/1) heading omitted (30.6.2020) by virtue of [The Automatic Enrolment (Offshore Employment) (Amendment) Order 2020 (S.I. 2020/634)](https://www.legislation.gov.uk/uksi/2020/634), [arts. 1](https://www.legislation.gov.uk/uksi/2020/634/article/1), [2(a)(i)](https://www.legislation.gov.uk/uksi/2020/634/article/2/a/i)
 
-[^key-6d2ef22d3133d4404366844977722710]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/2) omitted (30.6.2020) by virtue of [The Automatic Enrolment (Offshore Employment) (Amendment) Order 2020 (S.I. 2020/634)](https://www.legislation.gov.uk/uksi/2020/634), [arts. 1](https://www.legislation.gov.uk/uksi/2020/634/article/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2020/634/article/2/a/ii)
+[^c-6d2ef22d3133d4404366844977722710]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/2) omitted (30.6.2020) by virtue of [The Automatic Enrolment (Offshore Employment) (Amendment) Order 2020 (S.I. 2020/634)](https://www.legislation.gov.uk/uksi/2020/634), [arts. 1](https://www.legislation.gov.uk/uksi/2020/634/article/1), [2(a)(ii)](https://www.legislation.gov.uk/uksi/2020/634/article/2/a/ii)
 
 [^f00002]: Footnote: [2008 c.13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13).
 
 [^f00003]: Footnote: [S.I. 1987/2197](https://www.legislation.gov.uk/uksi/1987/2197).
 
-[^key-18d7dbd9b8908a10c6aaba065bda13ff]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
+[^c-18d7dbd9b8908a10c6aaba065bda13ff]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
 
 [^f00004]: Footnote: *See* section 97of the 2008 Act for the meaning given to “relevant provisions” and “offshore employment”.
 
 [^f00005]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Subsection (1) was substituted, and subsection (5) repealed, by the Petroleum Act [1998 (c.17)](https://www.legislation.gov.uk/ukpga/1998/17), Schedule 4, paragraph 40, but the amending provisions are not yet in force. There are amendments to subsection (3) but they are not relevant to this Order.
 
-[^key-09501141e857fe4882fd9674f2f84b47]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1388/article/3) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
+[^c-09501141e857fe4882fd9674f2f84b47]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/1388/article/3) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
 
 [^f00006]: Footnote: Subsection (4A) was inserted into section 44 of the 2008 Act by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22). The functions of the Pensions Regulator Tribunal, in so far as relating to Great Britain, were transferred to the Upper Tribunal and the First-Tier Tribunal by the Tribunals Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), section 30.
 
 [^f00007]: Footnote: Subsection (4A) was inserted into section 44 of the (No. 2) 2008 Act by the Pensions Regulator Tribunal (Transfer of Functions) Act (Northern Ireland) 2010 (c. 4 N. I.), Schedule 1, paragraph 31(c). The functions of the Pensions Regulator Tribunal, in so far as relating to Northern Ireland, were transferred to the Upper Tribunal and the First-Tier Tribunal by that Act of 2010, section 1.
 
-[^key-5485de566e332ba1ef0dbfab5476f6ce]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1388/article/4) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
+[^c-5485de566e332ba1ef0dbfab5476f6ce]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/1388/article/4) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
 
-[^key-86d3a8015b76bee3114fd65795c9f159]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5) omitted (30.6.2020) by virtue of [The Automatic Enrolment (Offshore Employment) (Amendment) Order 2020 (S.I. 2020/634)](https://www.legislation.gov.uk/uksi/2020/634), [arts. 1](https://www.legislation.gov.uk/uksi/2020/634/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/634/article/2/b)
+[^c-86d3a8015b76bee3114fd65795c9f159]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5) omitted (30.6.2020) by virtue of [The Automatic Enrolment (Offshore Employment) (Amendment) Order 2020 (S.I. 2020/634)](https://www.legislation.gov.uk/uksi/2020/634), [arts. 1](https://www.legislation.gov.uk/uksi/2020/634/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2020/634/article/2/b)
 
-[^key-0e2104772f96cf1d9e29999768fd086d]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)
+[^c-0e2104772f96cf1d9e29999768fd086d]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5) in force at 1.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1)

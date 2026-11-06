@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Criminal Justice (European Protection Order) (England and Wales) Regulations 2014 (revoked)[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+The Criminal Justice (European Protection Order) (England and Wales) Regulations 2014 (revoked)[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 Made
 
@@ -46,119 +46,119 @@ Coming into force
 
 11th January 2015
 
-[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+## PART 1 — General[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
-### 1. Citation, commencement and extent[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation – general[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 1. Citation, commencement and extent[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Making a European protection order in England and Wales: requests to other member States to recognise the order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
-
-### 3. Interpretation – Part 2[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 2. Interpretation – general[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Power of a court to make a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+## PART 2 — Making a European protection order in England and Wales: requests to other member States to recognise the order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
+
+### 3. Interpretation – Part 2[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Applications for a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 4. Power of a court to make a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Form and content of the European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 5. Applications for a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Duty to inform a protected person of the possibility of a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 6. Form and content of the European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Duty to inform a protected person about remedies if a request is refused[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 7. Duty to inform a protected person of the possibility of a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Notifying the executing State of the European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 8. Duty to inform a protected person about remedies if a request is refused[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Renewing, modifying or revoking a protection measure and related European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 9. Notifying the executing State of the European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Recognition in England and Wales of a European protection order made in a member State other than the United Kingdom[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
-
-### 11. Interpretation – Part 3 and the Schedule[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 10. Renewing, modifying or revoking a protection measure and related European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Requests from other member States to recognise a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+## PART 3 — Recognition in England and Wales of a European protection order made in a member State other than the United Kingdom[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
+
+### 11. Interpretation – Part 3 and the Schedule[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Giving effect in England and Wales to a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 12. Requests from other member States to recognise a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Procedural requirements relating to the making of a restraining order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 13. Giving effect in England and Wales to a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Request for a European protection order from a protected person where the protection measures relate to a member State other than the United Kingdom[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 14. Procedural requirements relating to the making of a restraining order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Notification of breach of a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 15. Request for a European protection order from a protected person where the protection measures relate to a member State other than the United Kingdom[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Modification of the European protection order (and giving effect to a modified order)[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 16. Notification of breach of a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Revocation of the European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 17. Modification of the European protection order (and giving effect to a modified order)[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Discharging a restraining order made under these regulations[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+### 18. Revocation of the European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Discharging a restraining order made under these regulations[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Grounds for refusal to give effect to a European protection order[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]
+## SCHEDULE — Grounds for refusal to give effect to a European protection order[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]
 
 Regulation 12
 
-**1.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-2f8a6b8d0fd2e76d5798240137c8a4d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]EXPLANATORY NOTE
+[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -176,4 +176,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-2f8a6b8d0fd2e76d5798240137c8a4d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3300) revoked (31.12.2020) by [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/780/regulation/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2019/780/regulation/5), [6](https://www.legislation.gov.uk/uksi/2019/780/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [41-43](https://www.legislation.gov.uk/uksi/2020/1408/regulation/41)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f8a6b8d0fd2e76d5798240137c8a4d5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3300) revoked (31.12.2020) by [The Criminal Justice (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/780)](https://www.legislation.gov.uk/uksi/2019/780), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/780/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/780/regulation/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2019/780/regulation/5), [6](https://www.legislation.gov.uk/uksi/2019/780/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [41-43](https://www.legislation.gov.uk/uksi/2020/1408/regulation/41)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

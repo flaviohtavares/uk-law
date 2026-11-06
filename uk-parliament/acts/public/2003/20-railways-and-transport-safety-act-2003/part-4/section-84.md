@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Detention pending arrival of police[^key-8edca242d0002ad7f78e057416e42166]
+## 84. Detention pending arrival of police[^c-8edca242d0002ad7f78e057416e42166]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8edca242d0002ad7f78e057416e42166]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2003/20/section/84) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(g)](https://www.legislation.gov.uk/uksi/2004/827/article/3/g)
+[^c-8edca242d0002ad7f78e057416e42166]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2003/20/section/84) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(g)](https://www.legislation.gov.uk/uksi/2004/827/article/3/g)

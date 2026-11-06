@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76.[^key-a6497b2720cc995fd979a4ef68fa8f12]
+## 76.[^c-a6497b2720cc995fd979a4ef68fa8f12]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 544 (second and subsequent assignment of life policies and contracts)
 
 ## Annotations
 
-[^key-a6497b2720cc995fd979a4ef68fa8f12]: Commencement: Reg. 76 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-a6497b2720cc995fd979a4ef68fa8f12]: Commencement: Reg. 76 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

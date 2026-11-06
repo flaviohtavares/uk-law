@@ -29,7 +29,7 @@ Regulation (EU) No 598/2014 of the European Parliament and of the Council
 
 of 16 April 2014
 
-on the establishment of rules and procedures with regard to the introduction of noise-related operating restrictions at United Kingdom[^key-a4bcede9ac2cfbd67ebb981e256a4ff4] airports within a Balanced Approach and repealing Directive 2002/30/EC
+on the establishment of rules and procedures with regard to the introduction of noise-related operating restrictions at United Kingdom[^c-a4bcede9ac2cfbd67ebb981e256a4ff4] airports within a Balanced Approach and repealing Directive 2002/30/EC
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -147,7 +147,7 @@ HAVE ADOPTED THIS REGULATION:
 
 2. The objectives of this Regulation are:
 
-- (a) to facilitate the achievement of specific noise abatement objectives, including health aspects, at the level of individual airports, while respecting relevant legislation within the United Kingdom[^key-ee3a3ac90969789ff44de3f963512837];
+- (a) to facilitate the achievement of specific noise abatement objectives, including health aspects, at the level of individual airports, while respecting relevant legislation within the United Kingdom[^c-ee3a3ac90969789ff44de3f963512837];
 - (b) to enable the use of operating restrictions in accordance with the Balanced Approach so as to achieve the sustainable development of the airport and air traffic management network capacity from a gate-to-gate perspective.
 
 3. This Regulation shall apply to aircraft engaged in civil aviation. It shall not apply to aircraft engaged in military, customs, police or similar operations.
@@ -162,7 +162,7 @@ For the purpose of this Regulation, the following definitions shall apply:
 - ((4)) ‘marginally compliant aircraft’ means aircraft which are certified in accordance with limits laid down in Volume 1, Part II, Chapter 3 of Annex 16 to the Convention on International Civil Aviation signed on 7 December 1944 (the Chicago Convention) by a cumulative margin of less than 8 EPNdB (Effective Perceived Noise in Decibels) during a transitional period ending on 14 June 2020, and by a cumulative margin of less than 10 EPNdB following the end of that transitional period, whereby the cumulative margin is the figure expressed in EPNdB obtained by adding the individual margins (i.e. the differences between the certificated noise level and the maximum permitted noise level) at each of the three reference noise measurement points defined in Volume 1, Part II, Chapter 3 of Annex 16 to the Chicago Convention;
 - ((5)) ‘noise-related action’ means any measure that affects the noise climate around airports, for which the principles of the Balanced Approach apply, including other non-operational actions that can affect the number of people exposed to aircraft noise;
 - ((6)) ‘operating restriction’ means a noise-related action that limits access to or reduces the operational capacity of an airport, including operating restrictions aimed at the withdrawal from operations of marginally compliant aircraft at specific airports as well as operating restrictions of a partial nature, which for example apply for an identified period of time during the day or only for certain runways at the airport.
-- ((7)) ‘relevant authority’ means—[^key-af7df653f31ad1b4c573594c46b15365]
+- ((7)) ‘relevant authority’ means—[^c-af7df653f31ad1b4c573594c46b15365]
   - (a) in relation to England and Wales, the Secretary of State;
   - (b) in relation to Northern Ireland, the Northern Ireland Department for Infrastructure; and
   - (c) in relation to Scotland, the Scottish Ministers.
@@ -174,25 +174,25 @@ For the purpose of this Regulation, the following definitions shall apply:
 
 ## Article 3. Competent authorities
 
-1. Where an airport is located in Great Britain, the Secretary of State, or in Northern Ireland, the Northern Ireland Department for Infrastructure,[^key-a27119e0c708c5b37cc167c2204682bf] shall designate one or more competent authorities responsible for the process to be followed when adopting operating restrictions.
+1. Where an airport is located in Great Britain, the Secretary of State, or in Northern Ireland, the Northern Ireland Department for Infrastructure,[^c-a27119e0c708c5b37cc167c2204682bf] shall designate one or more competent authorities responsible for the process to be followed when adopting operating restrictions.
 
 2. The competent authorities shall be independent of any organisation which could be affected by noise-related action. That independence may be achieved through a functional separation.
 
-3.[^key-f88d643550a6e587f07a3ac6e9d85314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-f88d643550a6e587f07a3ac6e9d85314] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 4. Right of appeal
 
-1. The relevant authority[^key-6e48c80c503c3a4ea55883b40e5e7595] shall ensure the right to appeal against operating restrictions adopted pursuant to this Regulation before an appeal body other than the authority that adopted the contested restriction, in accordance with national legislation and procedures.
+1. The relevant authority[^c-6e48c80c503c3a4ea55883b40e5e7595] shall ensure the right to appeal against operating restrictions adopted pursuant to this Regulation before an appeal body other than the authority that adopted the contested restriction, in accordance with national legislation and procedures.
 
-2.[^key-56c787942838484d1fa3fd22e1159792] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-56c787942838484d1fa3fd22e1159792] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 5. General rules on aircraft noise management
 
-1.[^key-e660bc5e447d849a76149ce5aa07cce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-e660bc5e447d849a76149ce5aa07cce4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2. The competent authority[^key-dbc5d395317ae0d045ebcfe385475f65] shall ensure that the Balanced Approach is adopted in respect of aircraft noise management at those airports where a noise problem has been identified. To that end, they shall ensure that:
+2. The competent authority[^c-dbc5d395317ae0d045ebcfe385475f65] shall ensure that the Balanced Approach is adopted in respect of aircraft noise management at those airports where a noise problem has been identified. To that end, they shall ensure that:
 
-- (a) the noise abatement objective for that airport, taking into account, as appropriate, requirements relating to action plans under the relevant environmental noise regulations[^key-4b7ccf44ee67b2dcda3ac26d12723687], is defined;
+- (a) the noise abatement objective for that airport, taking into account, as appropriate, requirements relating to action plans under the relevant environmental noise regulations[^c-4b7ccf44ee67b2dcda3ac26d12723687], is defined;
 - (b) measures available to reduce the noise impact are identified;
 - (c) the likely cost-effectiveness of the noise mitigation measures is thoroughly evaluated;
 - (d) the measures, taking into account public interest in the field of air transport as regards the development prospects of their airports, are selected without detriment to safety;
@@ -201,14 +201,14 @@ For the purpose of this Regulation, the following definitions shall apply:
 - (g) the measures are implemented; and
 - (h) dispute resolution is provided for.
 
-3. The competent authority[^key-d90e56b0389f10d2b9848dd686f827c0] shall ensure that, when noise-related action is taken, the following combination of available measures is considered, with a view to determining the most cost-effective measure or combination of measures:
+3. The competent authority[^c-d90e56b0389f10d2b9848dd686f827c0] shall ensure that, when noise-related action is taken, the following combination of available measures is considered, with a view to determining the most cost-effective measure or combination of measures:
 
 - (a) the foreseeable effect of a reduction of aircraft noise at source;
 - (b) land-use planning and management;
 - (c) noise abatement operational procedures;
 - (d) not applying operating restrictions as a first resort, but only after consideration of the other measures of the Balanced Approach.
 
-The available measures may if necessary include the withdrawal of marginally compliant aircraft. Airport[^key-5fb4311d124de50510976967b567ffb4] managing bodies[^key-c1dd0e0e0308e2c1ed7ed81dd6687105]... may offer economic incentives to encourage aircraft operators to use less noisy aircraft during the transitional period referred to in point (4) of Article 2. Those economic incentives shall comply with the applicable rules on State aid.
+The available measures may if necessary include the withdrawal of marginally compliant aircraft. Airport[^c-5fb4311d124de50510976967b567ffb4] managing bodies[^c-c1dd0e0e0308e2c1ed7ed81dd6687105]... may offer economic incentives to encourage aircraft operators to use less noisy aircraft during the transitional period referred to in point (4) of Article 2. Those economic incentives shall comply with the applicable rules on State aid.
 
 4. The measures may, within the Balanced Approach, be differentiated according to aircraft type, aircraft noise performance, use of airport and air navigation facilities, flight path and/or the timeframe covered.
 
@@ -218,7 +218,7 @@ The available measures may if necessary include the withdrawal of marginally com
 
 ## Article 6. Rules on noise assessment
 
-1. The competent authorities shall ensure that the noise situation at airports for which they are responsible is assessed on a regular basis, in accordance with the relevant environmental noise regulations[^key-c9e0677e0736d01e67e4a497a2970341].
+1. The competent authorities shall ensure that the noise situation at airports for which they are responsible is assessed on a regular basis, in accordance with the relevant environmental noise regulations[^c-c9e0677e0736d01e67e4a497a2970341].
 
 2. If the assessment referred to in paragraph 1 indicates that new operating restriction measures may be required to address a noise problem at an airport, the competent authorities shall ensure that:
 
@@ -231,7 +231,7 @@ The available measures may if necessary include the withdrawal of marginally com
   - ((iii)) relevant airport operators;
   - ((iv)) representatives of those aircraft operators which may be affected by noise-related actions;
   - ((v)) the relevant air navigation service providers;
-  - ((vi)) Eurocontrol, as defined in Article 2(20) of Regulation[^key-53cebbc50265f464fd8662e252a17cb6] [(EC) No 549/2004](https://www.legislation.gov.uk/european/regulation/2004/0549) of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky;
+  - ((vi)) Eurocontrol, as defined in Article 2(20) of Regulation[^c-53cebbc50265f464fd8662e252a17cb6] [(EC) No 549/2004](https://www.legislation.gov.uk/european/regulation/2004/0549) of the European Parliament and of the Council of 10 March 2004 laying down the framework for the creation of the single European sky;
   - ((vii)) where applicable, the designated slots coordinator.
 
 3. The competent authorities shall follow up and monitor the implementation of the operating restrictions and take action as appropriate. They shall ensure that relevant information is made available free of charge and that it is readily and promptly accessible to local residents living in the vicinity of the airports and to the relevant local authorities.
@@ -246,43 +246,43 @@ The available measures may if necessary include the withdrawal of marginally com
 
 1. Decisions on noise-related operating restrictions shall be based on the noise performance of the aircraft as determined by the certification procedure conducted in accordance with Volume 1 of Annex 16 to the Chicago Convention, sixth edition of March 2011.
 
-2. At the request of the Civil Aviation Authority[^key-d327b7894cbdda10216ba1796addeffb], aircraft operators shall communicate the following noise information in respect of the aircraft that they operate at United Kingdom[^key-e09c3c5980c9fd617124168aedd97895] airports:
+2. At the request of the Civil Aviation Authority[^c-d327b7894cbdda10216ba1796addeffb], aircraft operators shall communicate the following noise information in respect of the aircraft that they operate at United Kingdom[^c-e09c3c5980c9fd617124168aedd97895] airports:
 
 - (a) the aircraft nationality and registration mark;
 - (b) the noise documentation of the aircraft used, together with the associated maximum take-off weight;
 - (c) any modification of the aircraft which affects its noise performance and is stated on the noise documentation.
 
-3. Upon request of the Civil Aviation Authority[^key-ea0198719f1224e3514d1a0b4ba70f4f], holders of an aircraft type certificate or a supplemental type certificate issued in accordance with Regulation (EC) No 216/2008 of the European Parliament and of the Council[^f00009], and legal or natural persons operating aircraft for which no type certificate has been issued under that Regulation, shall provide aircraft noise and performance information for noise modelling purposes. The Civil Aviation Authority shall specify the data required and the timeframe for, and the form and manner of, its provision. The Civil Aviation Authority shall verify the received aircraft noise and performance information for modelling purposes and shall make the information available to other parties for noise modelling purposes.
+3. Upon request of the Civil Aviation Authority[^c-ea0198719f1224e3514d1a0b4ba70f4f], holders of an aircraft type certificate or a supplemental type certificate issued in accordance with Regulation (EC) No 216/2008 of the European Parliament and of the Council[^f00009], and legal or natural persons operating aircraft for which no type certificate has been issued under that Regulation, shall provide aircraft noise and performance information for noise modelling purposes. The Civil Aviation Authority shall specify the data required and the timeframe for, and the form and manner of, its provision. The Civil Aviation Authority shall verify the received aircraft noise and performance information for modelling purposes and shall make the information available to other parties for noise modelling purposes.
 
 4. The data referred to in paragraphs 2 and 3 of this Article shall be limited to what is strictly necessary and shall be provided free of charge, in electronic form and using the format specified, where applicable.
 
-5. The Civil Aviation Authority[^key-455c9539cc4e62ae70504f30d9c8b120] shall verify the aircraft noise and performance data for modelling purposes in relation to its tasks performed in accordance with Article 6(1) of Regulation (EC) No 216/2008.
+5. The Civil Aviation Authority[^c-455c9539cc4e62ae70504f30d9c8b120] shall verify the aircraft noise and performance data for modelling purposes in relation to its tasks performed in accordance with Article 6(1) of Regulation (EC) No 216/2008.
 
 6. Data shall be stored in a central database and made available to competent authorities, aircraft operators, air navigation service providers and airport operators for operational purposes.
 
 ## Article 8. Rules on the introduction of operating restrictions
 
-1. Before introducing an operating restriction, the competent authorities must give notice at least two months prior to the determination of the slot coordination parameters as defined in point (m) of Article 2 of[^key-d74739c3520c63b8623010904b27f6af] [Council Regulation (EEC) No 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) for the airport concerned for the relevant scheduling period, to:
+1. Before introducing an operating restriction, the competent authorities must give notice at least two months prior to the determination of the slot coordination parameters as defined in point (m) of Article 2 of[^c-d74739c3520c63b8623010904b27f6af] [Council Regulation (EEC) No 95/93](https://www.legislation.gov.uk/european/regulation/1993/0095) for the airport concerned for the relevant scheduling period, to:
 
 - (a) the relevant authority if that authority is not the competent authority; and
 - (b) the relevant interested parties.
 
-2. Following the assessment carried out in accordance with Article 6, the notification shall be accompanied by a written report in accordance with the requirements specified in Article 5 explaining the reasons for introducing the operating restriction, the noise abatement objective established for the airport, the measures that were considered to meet that objective, and the evaluation of the likely cost-effectiveness of the various measures considered[^key-0af357a8df01e04c56420d5027a566c4]....
+2. Following the assessment carried out in accordance with Article 6, the notification shall be accompanied by a written report in accordance with the requirements specified in Article 5 explaining the reasons for introducing the operating restriction, the noise abatement objective established for the airport, the measures that were considered to meet that objective, and the evaluation of the likely cost-effectiveness of the various measures considered[^c-0af357a8df01e04c56420d5027a566c4]....
 
-3.[^key-0a754f056ec34845dc8d34440a20bc2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-0a754f056ec34845dc8d34440a20bc2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4. Where the operating restriction concerns the withdrawal of marginally compliant aircraft from an airport, no additional services above the number of movements with marginally compliant aircraft in the corresponding period of the previous year shall be allowed at that airport six months after the notification referred to in paragraph 1. The relevant authority[^key-4d497032f21f996b5681b62d3a3ea2b8] shall ensure that the competent authorities decide on the annual rate for reducing the number of movements of marginally compliant aircraft of affected operators at that airport, taking due account of the age of the aircraft and the composition of the total fleet. Without prejudice to Article 5(4), that rate shall not be more than 25 % of the number of movements of marginally compliant aircraft for each operator serving that airport.
+4. Where the operating restriction concerns the withdrawal of marginally compliant aircraft from an airport, no additional services above the number of movements with marginally compliant aircraft in the corresponding period of the previous year shall be allowed at that airport six months after the notification referred to in paragraph 1. The relevant authority[^c-4d497032f21f996b5681b62d3a3ea2b8] shall ensure that the competent authorities decide on the annual rate for reducing the number of movements of marginally compliant aircraft of affected operators at that airport, taking due account of the age of the aircraft and the composition of the total fleet. Without prejudice to Article 5(4), that rate shall not be more than 25 % of the number of movements of marginally compliant aircraft for each operator serving that airport.
 
 ## Article 9. Developing countries
 
 1. In order to avoid undue economic hardship, the competent authorities may exempt marginally compliant aircraft registered in developing countries from noise operating restrictions, while fully respecting the principle of non-discrimination, provided that such aircraft:
 
 - (a) are granted a noise certification to the standards specified in Chapter 3, Volume 1 of Annex 16 to the Chicago Convention;
-- (b) were operated in the United Kingdom[^key-9ee65c9381da9a8858fcb14ec6a6ef55] during the five-year period preceding the entry into force of this Regulation;
+- (b) were operated in the United Kingdom[^c-9ee65c9381da9a8858fcb14ec6a6ef55] during the five-year period preceding the entry into force of this Regulation;
 - (c) were on the register of the developing country concerned in that five-year period; and
 - (d) continue to be operated by a natural or legal person established in that country.
 
-2.[^key-8d943c90f18084349b371d5067ef82e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-8d943c90f18084349b371d5067ef82e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 10. Exemption for aircraft operations of an exceptional nature
 
@@ -295,14 +295,14 @@ The exemption shall be limited to:
 
 ## Article 11. Delegated acts
 
-The The Secretary of State may make regulations[^key-7b97f937a57f8da7fb8b2a19a6584bc7] concerning:
+The The Secretary of State may make regulations[^c-7b97f937a57f8da7fb8b2a19a6584bc7] concerning:
 
 - ((a)) technical updates to the noise certification standards provided for in Article 5(5) and point (a) of Article 9(1), and to the certification procedure provided for in Article 7(1);
 - ((b)) technical updates to the methodology and indicators set out in Annex I.
 
 The purpose of those updates shall be to take into account changes to relevant international rules, as appropriate.
 
-## Article 12. Regulations[^key-c4c3591cd081c8c03a6b539f0cec3673]
+## Article 12. Regulations[^c-c4c3591cd081c8c03a6b539f0cec3673]
 
 1. Regulations made under this Regulation are to be made by statutory instrument.
 
@@ -314,7 +314,7 @@ The purpose of those updates shall be to take into account changes to relevant i
 - (b) include supplementary, incidental or consequential provision;
 - (c) make transitional, transitory or saving provision.
 
-## Article 13. Information and revision[^key-9ccafc0e80d462be3bf61fc6caf17f87]
+## Article 13. Information and revision[^c-9ccafc0e80d462be3bf61fc6caf17f87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -334,7 +334,7 @@ Notwithstanding Article 15 of this Regulation, noise-related operating restricti
 
 This Regulation shall enter into force on 13 June 2016.
 
-[^key-a91ddd27977b8e40982bccd9a7edbc8f]...
+[^c-a91ddd27977b8e40982bccd9a7edbc8f]...
 
 Done at Strasbourg, 16 April 2014.
 
@@ -360,7 +360,7 @@ Competent authorities will ensure the use of noise assessment methods which have
 
 1\.
 
-Air traffic noise impact will be described, at least, in terms of noise indicators L<sub>den</sub> and L<sub>night</sub> which are defined and calculated in accordance with the relevant environmental noise regulations[^key-36051b6c41f0a1cb62520c3262b51bf9].
+Air traffic noise impact will be described, at least, in terms of noise indicators L<sub>den</sub> and L<sub>night</sub> which are defined and calculated in accordance with the relevant environmental noise regulations[^c-36051b6c41f0a1cb62520c3262b51bf9].
 
 2\.
 
@@ -382,7 +382,7 @@ A description of any environmental objectives for the airport and the national c
 
 1.3.
 
-Details of noise contours for the relevant previous years — including an assessment of the number of people affected by aircraft noise, carried out in accordance with the relevant environmental noise regulations[^key-1db35275cb79e8df4be6c6bb74db902c].
+Details of noise contours for the relevant previous years — including an assessment of the number of people affected by aircraft noise, carried out in accordance with the relevant environmental noise regulations[^c-1db35275cb79e8df4be6c6bb74db902c].
 
 1.4.
 
@@ -400,7 +400,7 @@ A description of the existing and planned measures to manage aircraft noise alre
   - ((a)) use of preferential runways;
   - ((b)) use of noise-preferential routes;
   - ((c)) use of noise abatement take-off and approach procedures;
-  - ((d)) indication of the extent to which those measures are regulated under environment indicators[^key-0816154412f779514f9014d677426984]....
+  - ((d)) indication of the extent to which those measures are regulated under environment indicators[^c-0816154412f779514f9014d677426984]....
 - For operating restrictions:
   - ((a)) use of global restrictions, such as a cap on movements or noise quotas;
   - ((b)) use of aircraft-specific restrictions, such as the withdrawal of marginally compliant aircraft;
@@ -458,7 +458,7 @@ The cost-effectiveness of envisaged noise-related operating restrictions will be
 - ((1)) the anticipated noise benefit of the envisaged measures, now and in the future;
 - ((2)) the safety of aviation operations, including third-party risks;
 - ((3)) the capacity of the airport;
-- ((4)) any effects on the United Kingdom[^key-f181446a2de7f3a6a025bfce1933822b] aviation network.
+- ((4)) any effects on the United Kingdom[^c-f181446a2de7f3a6a025bfce1933822b] aviation network.
 
 In addition, competent authorities may take due account of the following factors:
 
@@ -474,7 +474,7 @@ Based on work the WHO is currently undertaking regarding the methodology to asse
 
 ## Annotations
 
-[^key-a4bcede9ac2cfbd67ebb981e256a4ff4]: Textual amendment: Words in Regulation title substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4bcede9ac2cfbd67ebb981e256a4ff4]: Textual amendment: Words in Regulation title substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ C 181, 21.6.2012, p. 173](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.181.01.0173.01.ENG).
 
@@ -488,68 +488,68 @@ Based on work the WHO is currently undertaking regarding the methodology to asse
 
 [^f00006]: Footnote: Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise ([OJ L 189, 18.7.2002, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.189.01.0012.01.ENG)).
 
-[^key-ee3a3ac90969789ff44de3f963512837]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2014/598/article/1/2/a) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee3a3ac90969789ff44de3f963512837]: Textual amendment: Words in [Art. 1(2)(a)](https://www.legislation.gov.uk/eur/2014/598/article/1/2/a) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af7df653f31ad1b4c573594c46b15365]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/eur/2014/598/article/2/7)[(8)](https://www.legislation.gov.uk/eur/2014/598/article/2/8) inserted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af7df653f31ad1b4c573594c46b15365]: Textual amendment: [Art. 2(7)](https://www.legislation.gov.uk/eur/2014/598/article/2/7)[(8)](https://www.legislation.gov.uk/eur/2014/598/article/2/8) inserted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a27119e0c708c5b37cc167c2204682bf]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2014/598/article/3/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a27119e0c708c5b37cc167c2204682bf]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2014/598/article/3/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f88d643550a6e587f07a3ac6e9d85314]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/eur/2014/598/article/3/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f88d643550a6e587f07a3ac6e9d85314]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/eur/2014/598/article/3/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e48c80c503c3a4ea55883b40e5e7595]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2014/598/article/4/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6e48c80c503c3a4ea55883b40e5e7595]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2014/598/article/4/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56c787942838484d1fa3fd22e1159792]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2014/598/article/4/2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56c787942838484d1fa3fd22e1159792]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/eur/2014/598/article/4/2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e660bc5e447d849a76149ce5aa07cce4]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/eur/2014/598/article/5/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e660bc5e447d849a76149ce5aa07cce4]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/eur/2014/598/article/5/1) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dbc5d395317ae0d045ebcfe385475f65]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2014/598/article/5/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dbc5d395317ae0d045ebcfe385475f65]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2014/598/article/5/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b7ccf44ee67b2dcda3ac26d12723687]: Textual amendment: Words in [Art. 5(2)(a)](https://www.legislation.gov.uk/eur/2014/598/article/5/2/a) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b7ccf44ee67b2dcda3ac26d12723687]: Textual amendment: Words in [Art. 5(2)(a)](https://www.legislation.gov.uk/eur/2014/598/article/5/2/a) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d90e56b0389f10d2b9848dd686f827c0]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2014/598/article/5/3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(c)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d90e56b0389f10d2b9848dd686f827c0]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2014/598/article/5/3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(c)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5fb4311d124de50510976967b567ffb4]: Textual amendment: Word in [Art. 5(3)](https://www.legislation.gov.uk/eur/2014/598/article/5/3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(d)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5fb4311d124de50510976967b567ffb4]: Textual amendment: Word in [Art. 5(3)](https://www.legislation.gov.uk/eur/2014/598/article/5/3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(d)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1dd0e0e0308e2c1ed7ed81dd6687105]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2014/598/article/5/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1dd0e0e0308e2c1ed7ed81dd6687105]: Textual amendment: Words in [Art. 5(3)](https://www.legislation.gov.uk/eur/2014/598/article/5/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/7/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9e0677e0736d01e67e4a497a2970341]: Textual amendment: Words in [Art. 6(1)](https://www.legislation.gov.uk/eur/2014/598/article/6/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9e0677e0736d01e67e4a497a2970341]: Textual amendment: Words in [Art. 6(1)](https://www.legislation.gov.uk/eur/2014/598/article/6/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(8)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53cebbc50265f464fd8662e252a17cb6]: Textual amendment: [Art. 6(2)(d)(vi)](https://www.legislation.gov.uk/eur/2014/598/article/6/2/d/vi) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53cebbc50265f464fd8662e252a17cb6]: Textual amendment: [Art. 6(2)(d)(vi)](https://www.legislation.gov.uk/eur/2014/598/article/6/2/d/vi) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(8)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d327b7894cbdda10216ba1796addeffb]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2014/598/article/7/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(a)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d327b7894cbdda10216ba1796addeffb]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2014/598/article/7/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(a)(i)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e09c3c5980c9fd617124168aedd97895]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2014/598/article/7/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e09c3c5980c9fd617124168aedd97895]: Textual amendment: Words in [Art. 7(2)](https://www.legislation.gov.uk/eur/2014/598/article/7/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ea0198719f1224e3514d1a0b4ba70f4f]: Textual amendment: Words in [Art. 7(3)](https://www.legislation.gov.uk/eur/2014/598/article/7/3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea0198719f1224e3514d1a0b4ba70f4f]: Textual amendment: Words in [Art. 7(3)](https://www.legislation.gov.uk/eur/2014/598/article/7/3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC ([OJ L 79, 19.3.2008, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.079.01.0001.01.ENG)).
 
-[^key-455c9539cc4e62ae70504f30d9c8b120]: Textual amendment: Words in [Art. 7(5)](https://www.legislation.gov.uk/eur/2014/598/article/7/5) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-455c9539cc4e62ae70504f30d9c8b120]: Textual amendment: Words in [Art. 7(5)](https://www.legislation.gov.uk/eur/2014/598/article/7/5) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(9)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d74739c3520c63b8623010904b27f6af]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2014/598/article/8/1) substituted (1.7.2026) by [The Airport Noise-related Operating Restrictions (Amendment) Regulations 2026 (S.I. 2026/332)](https://www.legislation.gov.uk/uksi/2026/332), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/332/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/332/regulation/2/2)
+[^c-d74739c3520c63b8623010904b27f6af]: Textual amendment: Words in [Art. 8(1)](https://www.legislation.gov.uk/eur/2014/598/article/8/1) substituted (1.7.2026) by [The Airport Noise-related Operating Restrictions (Amendment) Regulations 2026 (S.I. 2026/332)](https://www.legislation.gov.uk/uksi/2026/332), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/332/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/332/regulation/2/2)
 
-[^key-0af357a8df01e04c56420d5027a566c4]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2014/598/article/8/2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(10)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0af357a8df01e04c56420d5027a566c4]: Textual amendment: Words in [Art. 8(2)](https://www.legislation.gov.uk/eur/2014/598/article/8/2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(10)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a754f056ec34845dc8d34440a20bc2c]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2014/598/article/8/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(10)(c)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a754f056ec34845dc8d34440a20bc2c]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2014/598/article/8/3) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(10)(c)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/10/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d497032f21f996b5681b62d3a3ea2b8]: Textual amendment: Words in [Art. 8(4)](https://www.legislation.gov.uk/eur/2014/598/article/8/4) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(10)(d)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/10/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d497032f21f996b5681b62d3a3ea2b8]: Textual amendment: Words in [Art. 8(4)](https://www.legislation.gov.uk/eur/2014/598/article/8/4) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(10)(d)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/10/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ee65c9381da9a8858fcb14ec6a6ef55]: Textual amendment: Words in [Art. 9(1)(b)](https://www.legislation.gov.uk/eur/2014/598/article/9/1/b) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ee65c9381da9a8858fcb14ec6a6ef55]: Textual amendment: Words in [Art. 9(1)(b)](https://www.legislation.gov.uk/eur/2014/598/article/9/1/b) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(11)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8d943c90f18084349b371d5067ef82e0]: Textual amendment: [Art. 9(2)](https://www.legislation.gov.uk/eur/2014/598/article/9/2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d943c90f18084349b371d5067ef82e0]: Textual amendment: [Art. 9(2)](https://www.legislation.gov.uk/eur/2014/598/article/9/2) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(11)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b97f937a57f8da7fb8b2a19a6584bc7]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2014/598/article/11/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(12)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b97f937a57f8da7fb8b2a19a6584bc7]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2014/598/article/11/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(12)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c4c3591cd081c8c03a6b539f0cec3673]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2014/598/article/12) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4c3591cd081c8c03a6b539f0cec3673]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/eur/2014/598/article/12) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(13)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ccafc0e80d462be3bf61fc6caf17f87]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2014/598/article/13) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ccafc0e80d462be3bf61fc6caf17f87]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/eur/2014/598/article/13) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(14)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a91ddd27977b8e40982bccd9a7edbc8f]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/598/signature) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(15)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a91ddd27977b8e40982bccd9a7edbc8f]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2014/598/signature) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(15)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36051b6c41f0a1cb62520c3262b51bf9]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2014/598/annex/1/paragraph/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(16)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36051b6c41f0a1cb62520c3262b51bf9]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2014/598/annex/1/paragraph/1) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(16)(a)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1db35275cb79e8df4be6c6bb74db902c]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2014/598/annex/1/paragraph/1.3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(16)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1db35275cb79e8df4be6c6bb74db902c]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2014/598/annex/1/paragraph/1.3) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(16)(b)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0816154412f779514f9014d677426984]: Textual amendment: Words in [Annex 1 para. 1.4.3(d)](https://www.legislation.gov.uk/eur/2014/598/annex/1/paragraph/1.4.3/d) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(16)(c)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0816154412f779514f9014d677426984]: Textual amendment: Words in [Annex 1 para. 1.4.3(d)](https://www.legislation.gov.uk/eur/2014/598/annex/1/paragraph/1.4.3/d) omitted (31.12.2020) by virtue of [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(16)(c)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/16/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f181446a2de7f3a6a025bfce1933822b]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2014/598/annex/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(17)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f181446a2de7f3a6a025bfce1933822b]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2014/598/annex/2) substituted (31.12.2020) by [The Aviation Noise (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/643)](https://www.legislation.gov.uk/uksi/2019/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/643/regulation/1/2), [5(17)](https://www.legislation.gov.uk/uksi/2019/643/regulation/5/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -35,18 +35,18 @@ concerning the authorisation of L-tryptophan produced by *Escherichia coli* CGMC
 
 (Text with EEA relevance) (revoked)
 
-[^key-c6573dd2d065bd8829ddc736496647cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6573dd2d065bd8829ddc736496647cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c6573dd2d065bd8829ddc736496647cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c6573dd2d065bd8829ddc736496647cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c6573dd2d065bd8829ddc736496647cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c6573dd2d065bd8829ddc736496647cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6573dd2d065bd8829ddc736496647cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6573dd2d065bd8829ddc736496647cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-c6573dd2d065bd8829ddc736496647cb]
+## ANNEX[^c-c6573dd2d065bd8829ddc736496647cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6573dd2d065bd8829ddc736496647cb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 384](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/384) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c6573dd2d065bd8829ddc736496647cb]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 384](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/384) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

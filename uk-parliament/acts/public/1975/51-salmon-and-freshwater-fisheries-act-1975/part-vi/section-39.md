@@ -23,9 +23,9 @@ summary: ''
 (1)[^c10050511] This Act—
 
 - (a) does not apply to the River Tweed, but
-- (b) except where otherwise indicated,[^key-f50e06a59529e19fc8a372eb8f7c3d81]applies to so much of the River Esk, with its banks and tributary streams up to their source, as is situated in Scotland,
+- (b) except where otherwise indicated,[^c-f50e06a59529e19fc8a372eb8f7c3d81]applies to so much of the River Esk, with its banks and tributary streams up to their source, as is situated in Scotland,
 
-and in this subsection “**the River Tweed**” means the Tweed district (as defined in article[^key-55a2f6e0d65839d08e3683c3db55cdeb] 2(1) of the Scotland Act 1998 (River Tweed) Order 2006 ( [S.I.   2006/2913](https://www.legislation.gov.uk/uksi/2006/2913) )).
+and in this subsection “**the River Tweed**” means the Tweed district (as defined in article[^c-55a2f6e0d65839d08e3683c3db55cdeb] 2(1) of the Scotland Act 1998 (River Tweed) Order 2006 ( [S.I.   2006/2913](https://www.legislation.gov.uk/uksi/2006/2913) )).
 
 (1A)[^c10050531] In the application of this Act, under subsection (1)( *b* ) above, to the River Esk in Scotland, references to this Act in sections 31 to 33 and section 36 shall be construed as including references to sections 1, 3 and 18 to 20 of the Salmon and Freshwater Fisheries (Protection) (Scotland) Act [^c10050541] 1951 as applied to that River by section 21 of that Act.
 
@@ -56,9 +56,9 @@ which he has reasonable cause to suspect has been committed in a place to which 
 
 [^c10050511]: Modification: By [Salmon Act 1986 (c. 62, SIF 52:2)](https://www.legislation.gov.uk/ukpga/1986/62), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/1986/62/section/32/6)(*b*), 43(4) it is provided that s. 39(1) is amended (E.W. and as mentioned in the said s. 43(4) (border rivers))
 
-[^key-f50e06a59529e19fc8a372eb8f7c3d81]: Textual amendment: Words in [s. 39(1)(b)](https://www.legislation.gov.uk/ukpga/1975/51/section/39/1/b) inserted (19.1.2015) by [The Keeping and Introduction of Fish (England and River Esk Catchment Area) Regulations 2015 (S.I. 2015/10)](https://www.legislation.gov.uk/uksi/2015/10), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2015/10/regulation/18/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/10/regulation/3))
+[^c-f50e06a59529e19fc8a372eb8f7c3d81]: Textual amendment: Words in [s. 39(1)(b)](https://www.legislation.gov.uk/ukpga/1975/51/section/39/1/b) inserted (19.1.2015) by [The Keeping and Introduction of Fish (England and River Esk Catchment Area) Regulations 2015 (S.I. 2015/10)](https://www.legislation.gov.uk/uksi/2015/10), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2015/10/regulation/1/1/b), [18(2)](https://www.legislation.gov.uk/uksi/2015/10/regulation/18/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/10/regulation/3))
 
-[^key-55a2f6e0d65839d08e3683c3db55cdeb]: Textual amendment: Words in s. 39(1) substituted (15.11.2006) by [Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/paragraph/2)
+[^c-55a2f6e0d65839d08e3683c3db55cdeb]: Textual amendment: Words in s. 39(1) substituted (15.11.2006) by [Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/paragraph/2)
 
 [^c10050531]: Textual amendment: S. 39(1A) inserted by [Salmon Act 1986 (c. 62, SIF 52:2)](https://www.legislation.gov.uk/ukpga/1986/62), [s. 26(2)](https://www.legislation.gov.uk/ukpga/1986/62/section/26/2)
 

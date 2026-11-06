@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Timetables for changing English district councils' electoral schemes[^key-530d601e98c53fb3c9bdc3461027447e]
+## 24. Timetables for changing English district councils' electoral schemes[^c-530d601e98c53fb3c9bdc3461027447e]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-530d601e98c53fb3c9bdc3461027447e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/20/section/24) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-530d601e98c53fb3c9bdc3461027447e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/20/section/24) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

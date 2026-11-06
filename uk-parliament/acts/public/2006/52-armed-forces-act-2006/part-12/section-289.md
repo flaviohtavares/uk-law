@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Commencement of sentences of the Court Martial and Service Civilian Court[^key-efed67c578b8c163a11b7527ae28154c][^key-c6d5e8ccb6d42aeab9bf3603f4fc4626]
+## 289. Commencement of sentences of the Court Martial and Service Civilian Court[^c-efed67c578b8c163a11b7527ae28154c][^c-c6d5e8ccb6d42aeab9bf3603f4fc4626]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-efed67c578b8c163a11b7527ae28154c]: Commencement: S. 289 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-efed67c578b8c163a11b7527ae28154c]: Commencement: S. 289 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c6d5e8ccb6d42aeab9bf3603f4fc4626]: Commencement: S. 289 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c6d5e8ccb6d42aeab9bf3603f4fc4626]: Commencement: S. 289 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

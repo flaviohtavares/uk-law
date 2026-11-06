@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Direction of Social Security Appeal Tribunal: time limit for compliance[^key-0bedd73a1aa576bfe411ef3b9a804bfa]
+## 43. Direction of Social Security Appeal Tribunal: time limit for compliance[^c-0bedd73a1aa576bfe411ef3b9a804bfa]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The prescribed period for the purposes of Article 13(5) of the Order shall be th
 
 ## Annotations
 
-[^key-0bedd73a1aa576bfe411ef3b9a804bfa]: Commencement: Reg. 43 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0bedd73a1aa576bfe411ef3b9a804bfa]: Commencement: Reg. 43 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

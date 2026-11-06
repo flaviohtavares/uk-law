@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Exemptions[^key-554b43697330956aa70f1cc571651685]
+## 70. Exemptions[^c-554b43697330956aa70f1cc571651685]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-554b43697330956aa70f1cc571651685]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2016/427/regulation/70) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-554b43697330956aa70f1cc571651685]: Commencement: [Reg. 70](https://www.legislation.gov.uk/nisr/2016/427/regulation/70) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

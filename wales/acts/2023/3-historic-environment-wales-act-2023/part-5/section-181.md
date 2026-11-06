@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181. Orders relating to costs of parties[^key-cf486c19f19676dd8f03e6f33547e826][^key-500776e999d478d59411d31f500848b5]
+## 181. Orders relating to costs of parties[^c-cf486c19f19676dd8f03e6f33547e826][^c-500776e999d478d59411d31f500848b5]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf486c19f19676dd8f03e6f33547e826]: Commencement: S. 181 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-cf486c19f19676dd8f03e6f33547e826]: Commencement: S. 181 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-500776e999d478d59411d31f500848b5]: Commencement: [S. 181](https://www.legislation.gov.uk/asc/2023/3/section/181) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-500776e999d478d59411d31f500848b5]: Commencement: [S. 181](https://www.legislation.gov.uk/asc/2023/3/section/181) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

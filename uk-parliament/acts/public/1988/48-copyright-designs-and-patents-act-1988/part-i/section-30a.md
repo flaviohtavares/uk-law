@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30A. Caricature, parody or pastiche[^key-3f888d9a80139afa0c83721ed56e4dc0]
+## 30A. Caricature, parody or pastiche[^c-3f888d9a80139afa0c83721ed56e4dc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f888d9a80139afa0c83721ed56e4dc0]: Textual amendment: S. 30A inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/5/1)
+[^c-3f888d9a80139afa0c83721ed56e4dc0]: Textual amendment: S. 30A inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/5/1)

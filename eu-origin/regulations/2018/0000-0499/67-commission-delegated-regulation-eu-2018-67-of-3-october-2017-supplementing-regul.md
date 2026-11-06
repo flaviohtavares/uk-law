@@ -33,7 +33,7 @@ supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Co
 
 (Text with EEA relevance)
 
-[^key-d2188e95244cb74392f644ab355f03e8]
+[^c-d2188e95244cb74392f644ab355f03e8]
 
 THE EUROPEAN COMMISSION,
 
@@ -71,7 +71,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Conditions for assessment
 
-1. The FCA[^key-24ef7d7c448e0178aec23e124d2f7858] shall, for the purpose of Article 51(4) of Regulation (EU) 2016/1011, take into account the following conditions when assessing whether the cessation of or the changing of a benchmark that does not meet the requirements of that Regulation would result in a force majeure event, or would frustrate or otherwise breach the terms of any financial contract or financial instrument or the rules of any investment fund which references that benchmark:
+1. The FCA[^c-24ef7d7c448e0178aec23e124d2f7858] shall, for the purpose of Article 51(4) of Regulation (EU) 2016/1011, take into account the following conditions when assessing whether the cessation of or the changing of a benchmark that does not meet the requirements of that Regulation would result in a force majeure event, or would frustrate or otherwise breach the terms of any financial contract or financial instrument or the rules of any investment fund which references that benchmark:
 
 - (a) changing the benchmark would require a material change to the nature of the input data, to the methodology to determine those data, to the data gathering process itself or to other elements of the benchmark provision, which would lead to a significantly different value of the benchmark;
 - (b) changing the nature of the input data or the methodology to determine those data in order to make the benchmark compliant with Regulation (EU) 2016/1011 would undermine the representativeness of the benchmark of the market or the economic reality the benchmark is intended to measure, ultimately causing a change in the nature of the benchmark;
@@ -88,7 +88,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-6865798353faabf7405c8601d211a2c3]...
+[^c-6865798353faabf7405c8601d211a2c3]...
 
 Done at Brussels, 3 October 2017.
 
@@ -100,10 +100,10 @@ Jean-Claude Juncker
 
 ## Annotations
 
-[^key-d2188e95244cb74392f644ab355f03e8]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/13); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-d2188e95244cb74392f644ab355f03e8]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/13); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 171, 29.6.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.171.01.0001.01.ENG).
 
-[^key-24ef7d7c448e0178aec23e124d2f7858]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2018/67/article/1) substituted (31.12.2020) by [The Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/657)](https://www.legislation.gov.uk/uksi/2019/657), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/657/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2019/657/regulation/50/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24ef7d7c448e0178aec23e124d2f7858]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2018/67/article/1) substituted (31.12.2020) by [The Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/657)](https://www.legislation.gov.uk/uksi/2019/657), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/657/regulation/1/2), [50(2)](https://www.legislation.gov.uk/uksi/2019/657/regulation/50/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6865798353faabf7405c8601d211a2c3]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/67/signature) omitted (31.12.2020) by virtue of [The Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/657)](https://www.legislation.gov.uk/uksi/2019/657), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/657/regulation/1/2), [50(3)](https://www.legislation.gov.uk/uksi/2019/657/regulation/50/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6865798353faabf7405c8601d211a2c3]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2018/67/signature) omitted (31.12.2020) by virtue of [The Benchmarks (Amendment and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/657)](https://www.legislation.gov.uk/uksi/2019/657), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/657/regulation/1/2), [50(3)](https://www.legislation.gov.uk/uksi/2019/657/regulation/50/3) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

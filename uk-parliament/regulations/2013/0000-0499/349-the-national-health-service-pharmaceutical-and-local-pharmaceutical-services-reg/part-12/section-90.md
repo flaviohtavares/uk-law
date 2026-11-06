@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The data which the Secretary of State and NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] may take into account prior to making a determination under section 164 of the 2006 Act [^c21647111] (remuneration for persons providing pharmaceutical services) may include information obtained pursuant to paragraph (3) by—
+(1) The data which the Secretary of State and NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] may take into account prior to making a determination under section 164 of the 2006 Act [^c21647111] (remuneration for persons providing pharmaceutical services) may include information obtained pursuant to paragraph (3) by—
 
 - (a) the Secretary of State or a person appointed by the Secretary of State under this paragraph; or
 - (b) NHS England or a person appointed by NHS England under this paragraph,
@@ -54,6 +54,6 @@ in such manner as NHS England may reasonably specify.
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647111]: Marginal citation: [Section 164](https://www.legislation.gov.uk/uksi/2013/349/section/164) has been amended by the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [section 141(1)](https://www.legislation.gov.uk/ukpga/2008/14/section/141/1), and Schedule 15, Part 4, and by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4), [paragraph 89](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/89)..

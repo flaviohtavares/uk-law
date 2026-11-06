@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Supplies spanning change of rate etc.[^key-2f590ec0de2a1b210625e3f9b80a0778]
+## 95. Supplies spanning change of rate etc.[^c-2f590ec0de2a1b210625e3f9b80a0778]
 
 *Extent: E+W+S+N.I.*
 
-Section 88 of the Act shall apply as if the references in subsection (2) of that section to section 6(4), (5), (6) and (10) of the Act included references to regulations 81, 82, 82A,[^key-e2ebc7d04cb1cf8dc9d258db5dfd77e0] 84, 85, 86(1) to (4) ,[^key-30346907189f78fff3bdd6b4de33ef60] and 94B[^key-57c2a5ae4018553f335022f07113718d] of these Regulations.
+Section 88 of the Act shall apply as if the references in subsection (2) of that section to section 6(4), (5), (6) and (10) of the Act included references to regulations 81, 82, 82A,[^c-e2ebc7d04cb1cf8dc9d258db5dfd77e0] 84, 85, 86(1) to (4) ,[^c-30346907189f78fff3bdd6b4de33ef60] and 94B[^c-57c2a5ae4018553f335022f07113718d] of these Regulations.
 
 ## Annotations
 
-[^key-2f590ec0de2a1b210625e3f9b80a0778]: Commencement: Reg. 95 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-2f590ec0de2a1b210625e3f9b80a0778]: Commencement: Reg. 95 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
-[^key-e2ebc7d04cb1cf8dc9d258db5dfd77e0]: Textual amendment: Word in [reg. 95](https://www.legislation.gov.uk/uksi/1995/2518/regulation/95) inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Value Added Tax (Amendment) (No. 4) Regulations 2004 (S.I. 2004/3140)](https://www.legislation.gov.uk/uksi/2004/3140), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2004/3140/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2004/3140/regulation/5)
+[^c-e2ebc7d04cb1cf8dc9d258db5dfd77e0]: Textual amendment: Word in [reg. 95](https://www.legislation.gov.uk/uksi/1995/2518/regulation/95) inserted (with effect in accordance with reg. 2(1) of the amending S.I.) by [The Value Added Tax (Amendment) (No. 4) Regulations 2004 (S.I. 2004/3140)](https://www.legislation.gov.uk/uksi/2004/3140), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2004/3140/regulation/2/1), [5](https://www.legislation.gov.uk/uksi/2004/3140/regulation/5)
 
-[^key-30346907189f78fff3bdd6b4de33ef60]: Textual amendment: Comma in reg. 95 substituted for word (1.10.2003) by [The Value Added Tax (Amendment) (No. 5) Regulations 2003 (S.I. 2003/2318)](https://www.legislation.gov.uk/uksi/2003/2318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2003/2318/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2))
+[^c-30346907189f78fff3bdd6b4de33ef60]: Textual amendment: Comma in reg. 95 substituted for word (1.10.2003) by [The Value Added Tax (Amendment) (No. 5) Regulations 2003 (S.I. 2003/2318)](https://www.legislation.gov.uk/uksi/2003/2318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2003/2318/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2))
 
-[^key-57c2a5ae4018553f335022f07113718d]: Textual amendment: Words in [reg. 95](https://www.legislation.gov.uk/uksi/1995/2518/regulation/95) inserted (1.10.2003) by [The Value Added Tax (Amendment) (No. 5) Regulations 2003 (S.I. 2003/2318)](https://www.legislation.gov.uk/uksi/2003/2318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2003/2318/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2))
+[^c-57c2a5ae4018553f335022f07113718d]: Textual amendment: Words in [reg. 95](https://www.legislation.gov.uk/uksi/1995/2518/regulation/95) inserted (1.10.2003) by [The Value Added Tax (Amendment) (No. 5) Regulations 2003 (S.I. 2003/2318)](https://www.legislation.gov.uk/uksi/2003/2318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2003/2318/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/2318/regulation/1/2))

@@ -31,7 +31,7 @@ summary: ''
 
 Fisheries
 
-The Sea Fishing (Marking and Identification of Passive Fishing Gear and Beam Trawls) Order (Northern Ireland) 2008 (revoked)[^key-7630792d06387f2608d871cdbd2d7863]
+The Sea Fishing (Marking and Identification of Passive Fishing Gear and Beam Trawls) Order (Northern Ireland) 2008 (revoked)[^c-7630792d06387f2608d871cdbd2d7863]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into operation
 
 31st December 2008
 
-[^key-7630792d06387f2608d871cdbd2d7863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7630792d06387f2608d871cdbd2d7863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7630792d06387f2608d871cdbd2d7863]
+## 1. Citation and commencement[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7630792d06387f2608d871cdbd2d7863]
+## 2. Interpretation[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences[^key-7630792d06387f2608d871cdbd2d7863]
+## 3. Offences[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Penalties[^key-7630792d06387f2608d871cdbd2d7863]
+## 4. Penalties[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of fines[^key-7630792d06387f2608d871cdbd2d7863]
+## 5. Recovery of fines[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Powers of British sea-fishery officers in relation to fishing boats[^key-7630792d06387f2608d871cdbd2d7863]
+## 6. Powers of British sea-fishery officers in relation to fishing boats[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Powers of British sea-fishery officers to seize fish and fishing gear[^key-7630792d06387f2608d871cdbd2d7863]
+## 7. Powers of British sea-fishery officers to seize fish and fishing gear[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Protection of officers[^key-7630792d06387f2608d871cdbd2d7863]
+## 8. Protection of officers[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Obstruction of officers[^key-7630792d06387f2608d871cdbd2d7863]
+## 9. Obstruction of officers[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provisions as to offences[^key-7630792d06387f2608d871cdbd2d7863]
+## 10. Provisions as to offences[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Admissibility in evidence of logbooks and other documents[^key-7630792d06387f2608d871cdbd2d7863]
+## 11. Admissibility in evidence of logbooks and other documents[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7630792d06387f2608d871cdbd2d7863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7630792d06387f2608d871cdbd2d7863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REQUIREMENTS AS TO DEPLOYMENT, MARKING AND IDENTIFICATION OF PASSIVE FISHING GEAR, BUOYS AND BEAM TRAWLS, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^key-7630792d06387f2608d871cdbd2d7863]
+## SCHEDULE 1 — REQUIREMENTS AS TO DEPLOYMENT, MARKING AND IDENTIFICATION OF PASSIVE FISHING GEAR, BUOYS AND BEAM TRAWLS, CONTRAVENTION OF WHICH CONSTITUTES AN OFFENCE[^c-7630792d06387f2608d871cdbd2d7863]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7630792d06387f2608d871cdbd2d7863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7630792d06387f2608d871cdbd2d7863]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7630792d06387f2608d871cdbd2d7863]: Textual amendment: Order revoked (1.12.2018) by [The Sea Fishing (Miscellaneous Amendments and Revocations) Order (Northern Ireland) 2018 (S.R. 2018/185)](https://www.legislation.gov.uk/nisr/2018/185), [art. 1](https://www.legislation.gov.uk/nisr/2018/185/article/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2018/185/schedule/2)
+[^c-7630792d06387f2608d871cdbd2d7863]: Textual amendment: Order revoked (1.12.2018) by [The Sea Fishing (Miscellaneous Amendments and Revocations) Order (Northern Ireland) 2018 (S.R. 2018/185)](https://www.legislation.gov.uk/nisr/2018/185), [art. 1](https://www.legislation.gov.uk/nisr/2018/185/article/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2018/185/schedule/2)

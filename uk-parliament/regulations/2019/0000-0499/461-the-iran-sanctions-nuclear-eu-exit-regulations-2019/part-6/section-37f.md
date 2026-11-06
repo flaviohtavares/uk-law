@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37F. Trade: exception in respect of the acquisition of goods[^key-4aa1f039f85342d0414ce1418ac6ad8e]
+## 37F. Trade: exception in respect of the acquisition of goods[^c-4aa1f039f85342d0414ce1418ac6ad8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4aa1f039f85342d0414ce1418ac6ad8e]: Textual amendment: [Regs. 37B-37G](https://www.legislation.gov.uk/uksi/2019/461/regulation/37B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/c)
+[^c-4aa1f039f85342d0414ce1418ac6ad8e]: Textual amendment: [Regs. 37B-37G](https://www.legislation.gov.uk/uksi/2019/461/regulation/37B) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/c)

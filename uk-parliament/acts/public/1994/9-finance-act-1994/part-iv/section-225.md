@@ -35,7 +35,7 @@ summary: ''
 (3) Where, as respects the payment of any such insurance money as is mentioned in subsection (2) above—
 
 - (a) the inspector is not notified of the payment at least 30 days before the time after which any assessment or further assessment of profits for any of the accounting periods or (as the case may be) the accounting period is precluded by section 34 of the Management Act (ordinary time limit), and
-- (b) the inspector is not entitled, after that time, to make any such assessment or further assessment by virtue of section 36 ( loss of tax brought about carelessly or deliberately[^key-3cc1b7c720d1f440275ca64acfbca709] ) of that Act,
+- (b) the inspector is not entitled, after that time, to make any such assessment or further assessment by virtue of section 36 ( loss of tax brought about carelessly or deliberately[^c-3cc1b7c720d1f440275ca64acfbca709] ) of that Act,
 
 that subsection shall have effect in relation to the apportioned part of that insurance money or (as the case may be) that insurance money as if, instead of that accounting period, it referred to the accounting period in which the payment is made.
 
@@ -46,7 +46,7 @@ that subsection shall have effect in relation to the apportioned part of that in
 
 (3B) Where a corporate member has entered a quota share contract, any amount paid by it to cover a cash call in respect of transferred losses that are not declared at the time the contract takes effect shall be treated, for the purposes of subsections (1)(b)(i) and (3A) above, as an amount payable under the contract at that time.
 
-(3C)[^key-d4ee8fb0ffdaa10c6dbd0d80ca574a3b] Subsection (3D) applies to any premium which is payable by a corporate member under a stop-loss insurance taken out in respect of its underwriting business and in relation to which section 220(2)(a) does not apply.
+(3C)[^c-d4ee8fb0ffdaa10c6dbd0d80ca574a3b] Subsection (3D) applies to any premium which is payable by a corporate member under a stop-loss insurance taken out in respect of its underwriting business and in relation to which section 220(2)(a) does not apply.
 
 (3D) The premium is to be treated for the purposes of the Corporation Tax Acts—
 
@@ -66,7 +66,7 @@ the contract is treated for the purposes of subsections (3C) to (3E) as if it we
 
 (4)[^c15993161] In this section—
 
-- “**apportioned part**”, in relation to any insurance money or other amount, means a part apportioned under section 52 of the Corporation Tax Act 2009[^key-c9984e328ae8c5265acc3cf62b368a92] ;
+- “**apportioned part**”, in relation to any insurance money or other amount, means a part apportioned under section 52 of the Corporation Tax Act 2009[^c-c9984e328ae8c5265acc3cf62b368a92] ;
 - “**cash call**” means a request for funds which, in pursuance of a contract made in accordance with the rules and practices of Lloyd’s, is made to a corporate member by the agent of a syndicate of which it is a member;
 - “**quota share contract**” means any contract between a corporate member and another person which—
   - (a) is made in accordance with the rules or practice of Lloyd’s; and
@@ -79,12 +79,12 @@ the contract is treated for the purposes of subsections (3C) to (3E) as if it we
 
 [^c15987711]: Textual amendment: S. 225(1)(b) substituted (with effect as mentioned in [s. 86(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/86/2) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 82(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/82/1), [Sch. 32 para. 7](https://www.legislation.gov.uk/ukpga/2002/23/schedule/32/paragraph/7)
 
-[^key-3cc1b7c720d1f440275ca64acfbca709]: Textual amendment: Words in s. 225(3)(b) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 64](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/64); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
+[^c-3cc1b7c720d1f440275ca64acfbca709]: Textual amendment: Words in s. 225(3)(b) substituted (1.4.2010) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/118/2), [Sch. 39 para. 64](https://www.legislation.gov.uk/ukpga/2008/9/schedule/39/paragraph/64); [S.I. 2009/403](https://www.legislation.gov.uk/uksi/2009/403), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/403/article/2/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/403/article/10))
 
 [^c15987751]: Textual amendment: S. 225(3A)(3B) inserted (with effect as mentioned in [s. 86(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/86/2) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 82(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/82/1), [Sch. 32 para. 8](https://www.legislation.gov.uk/ukpga/2002/23/schedule/32/paragraph/8)
 
-[^key-d4ee8fb0ffdaa10c6dbd0d80ca574a3b]: Textual amendment: [S. 225(3C)-(3G)](https://www.legislation.gov.uk/ukpga/1994/9/section/225/3C) inserted (17.7.2012) (with effect in accordance with s. 25(2)-(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/25/1)
+[^c-d4ee8fb0ffdaa10c6dbd0d80ca574a3b]: Textual amendment: [S. 225(3C)-(3G)](https://www.legislation.gov.uk/ukpga/1994/9/section/225/3C) inserted (17.7.2012) (with effect in accordance with s. 25(2)-(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/25/1)
 
 [^c15993161]: Textual amendment: S. 225(4) substituted (with effect as mentioned in [s. 86(2)](https://www.legislation.gov.uk/ukpga/2002/23/section/86/2) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [s. 82(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/82/1), [Sch. 32 para. 9](https://www.legislation.gov.uk/ukpga/2002/23/schedule/32/paragraph/9)
 
-[^key-c9984e328ae8c5265acc3cf62b368a92]: Textual amendment: Words in s. 225(4) substituted (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 394](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/394) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-c9984e328ae8c5265acc3cf62b368a92]: Textual amendment: Words in s. 225(4) substituted (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 394](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/394) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21G. Holding of property: trusts and company arrangements etc.[^key-edc9bff5ab79f1844fe87f371d901184]
+## 21G. Holding of property: trusts and company arrangements etc.[^c-edc9bff5ab79f1844fe87f371d901184]
 
 *Extent: E+W+N.I.*
 
@@ -42,4 +42,4 @@ direct or indirect control over the property.
 
 ## Annotations
 
-[^key-edc9bff5ab79f1844fe87f371d901184]: Textual amendment: Arts. 21A-21G inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [7](https://www.legislation.gov.uk/uksi/2018/1078/article/7)
+[^c-edc9bff5ab79f1844fe87f371d901184]: Textual amendment: Arts. 21A-21G inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [7](https://www.legislation.gov.uk/uksi/2018/1078/article/7)

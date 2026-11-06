@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Education and training for persons aged 16 to 19[^key-9ac6f0d1f50abec64fba273b1365aea5][^key-00807f840e8a9fe3465aecce6603fce0]
+## 93. Education and training for persons aged 16 to 19[^c-9ac6f0d1f50abec64fba273b1365aea5][^c-00807f840e8a9fe3465aecce6603fce0]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ac6f0d1f50abec64fba273b1365aea5]: Commencement: S. 93 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-9ac6f0d1f50abec64fba273b1365aea5]: Commencement: S. 93 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-00807f840e8a9fe3465aecce6603fce0]: Commencement: [S. 93](https://www.legislation.gov.uk/asc/2022/1/section/93) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(t)](https://www.legislation.gov.uk/wsi/2026/62/article/2/t)
+[^c-00807f840e8a9fe3465aecce6603fce0]: Commencement: [S. 93](https://www.legislation.gov.uk/asc/2022/1/section/93) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(t)](https://www.legislation.gov.uk/wsi/2026/62/article/2/t)

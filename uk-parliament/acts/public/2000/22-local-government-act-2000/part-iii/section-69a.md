@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A (Extent: W). Possible conflict of interest in an investigation (Extent: W)[^key-1273902fdb4bd70d7be1bd6a934e4579]
+## 69A (Extent: W). Possible conflict of interest in an investigation (Extent: W)[^c-1273902fdb4bd70d7be1bd6a934e4579]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ of the relevant authority concerned. *(Extent: W)*
 
 ## Annotations
 
-[^key-1273902fdb4bd70d7be1bd6a934e4579]: Textual amendment: [Ss. 69A-69F](https://www.legislation.gov.uk/ukpga/2000/22/section/69A) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/3); [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))
+[^c-1273902fdb4bd70d7be1bd6a934e4579]: Textual amendment: [Ss. 69A-69F](https://www.legislation.gov.uk/ukpga/2000/22/section/69A) inserted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 8 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/8/paragraph/3); [S.I. 2022/98](https://www.legislation.gov.uk/wsi/2022/98), [art. 2(b)](https://www.legislation.gov.uk/wsi/2022/98/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2022/98/article/3))

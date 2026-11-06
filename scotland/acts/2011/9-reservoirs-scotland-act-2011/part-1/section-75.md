@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Stop notices: compensation[^key-f8d72b3896ab2ed83904e2f94d1bd8ac]
+## 75. Stop notices: compensation[^c-f8d72b3896ab2ed83904e2f94d1bd8ac]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8d72b3896ab2ed83904e2f94d1bd8ac]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2011/9/section/75) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-f8d72b3896ab2ed83904e2f94d1bd8ac]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2011/9/section/75) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Corporate plan[^key-1f8859de2d4384fdf5e2994b99ba85bc][^key-dda89863108f4f260b19111a7314441b]
+## 11. Corporate plan[^c-1f8859de2d4384fdf5e2994b99ba85bc][^c-dda89863108f4f260b19111a7314441b]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f8859de2d4384fdf5e2994b99ba85bc]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/16/section/11) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-1f8859de2d4384fdf5e2994b99ba85bc]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/16/section/11) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-dda89863108f4f260b19111a7314441b]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/16/section/11) in force at 1.1.2015 in so far as not already in force by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-dda89863108f4f260b19111a7314441b]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/16/section/11) in force at 1.1.2015 in so far as not already in force by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

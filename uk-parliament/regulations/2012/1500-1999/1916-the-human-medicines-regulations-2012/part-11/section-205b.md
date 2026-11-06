@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205B. Guidance in respect of good pharmacovigilance practice and post authorisation efficacy studies[^key-1e0d7c4a47ccd5677c952111071c9922]
+## 205B. Guidance in respect of good pharmacovigilance practice and post authorisation efficacy studies[^c-1e0d7c4a47ccd5677c952111071c9922]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e0d7c4a47ccd5677c952111071c9922]: Textual amendment: [Reg. 205B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205B) and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [169](https://www.legislation.gov.uk/uksi/2019/775/regulation/169); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e0d7c4a47ccd5677c952111071c9922]: Textual amendment: [Reg. 205B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/205B) and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [169](https://www.legislation.gov.uk/uksi/2019/775/regulation/169); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

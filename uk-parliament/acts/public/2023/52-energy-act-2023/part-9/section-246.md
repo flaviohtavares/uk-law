@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Power to amend licence conditions etc: procedure[^key-f94b4782b1a38e86036452c3b9d8d37f][^key-4251505df288f2c0cb296dd539bff7b4]
+## 246. Power to amend licence conditions etc: procedure[^c-f94b4782b1a38e86036452c3b9d8d37f][^c-4251505df288f2c0cb296dd539bff7b4]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f94b4782b1a38e86036452c3b9d8d37f]: Commencement: S. 246 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-f94b4782b1a38e86036452c3b9d8d37f]: Commencement: S. 246 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-4251505df288f2c0cb296dd539bff7b4]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2023/52/section/246) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-4251505df288f2c0cb296dd539bff7b4]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2023/52/section/246) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of the NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012[^key-7fa65104203a1b7f41af1da8035c88d3]
+## 54. Amendment of the NHS Commissioning Board Authority (Abolition and Transfer of Staff, Property and Liabilities) and the Health and Social Care Act 2012 (Consequential Amendments) Order 2012[^c-7fa65104203a1b7f41af1da8035c88d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fa65104203a1b7f41af1da8035c88d3]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-7fa65104203a1b7f41af1da8035c88d3]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2023/1071/regulation/54) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00043]: Footnote: [S.I. 2012/1641](https://www.legislation.gov.uk/uksi/2012/1641), to which there are amendments not relevant to these Regulations.

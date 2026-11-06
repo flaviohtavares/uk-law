@@ -106,10 +106,10 @@ summary: ''
 (3) The amendments made by this section have effect in relation to—
 
 - (a) sums other than carried interest arising on or after 22 October 2015, (whenever the arrangements under which the sums arise were made), and
-- (b) carried interest arising on or after 22 October 2015 under any arrangements, [^key-2b77f07ab5b7c67951e3d7763cdb2c92]....
+- (b) carried interest arising on or after 22 October 2015 under any arrangements, [^c-2b77f07ab5b7c67951e3d7763cdb2c92]....
 
 (4) In subsection (3), “**arise**”, “**arrangements**” and “**carried interest**” have the same meanings as in Chapter 5E of Part 13 of ITA 2007.
 
 ## Annotations
 
-[^key-2b77f07ab5b7c67951e3d7763cdb2c92]: Textual amendment: Words in [s. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/45/3/b) omitted (with effect in accordance with s. 37(2) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 37(1)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/37/1/c)
+[^c-2b77f07ab5b7c67951e3d7763cdb2c92]: Textual amendment: Words in [s. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2015/33/section/45/3/b) omitted (with effect in accordance with s. 37(2) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 37(1)(c)](https://www.legislation.gov.uk/ukpga/2018/3/section/37/1/c)

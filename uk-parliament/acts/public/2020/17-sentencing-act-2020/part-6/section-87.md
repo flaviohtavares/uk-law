@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Referral order consecutive to earlier referral order[^key-b3efb23e394c6ea71cabc1a217da37ed]
+## 87. Referral order consecutive to earlier referral order[^c-b3efb23e394c6ea71cabc1a217da37ed]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the court may direct that any youth offender contract under the later order is n
 
 ## Annotations
 
-[^key-b3efb23e394c6ea71cabc1a217da37ed]: Commencement: S. 87 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b3efb23e394c6ea71cabc1a217da37ed]: Commencement: S. 87 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

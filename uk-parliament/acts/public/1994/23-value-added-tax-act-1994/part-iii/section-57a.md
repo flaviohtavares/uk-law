@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57A. Importation following zero-rated free zone supply: deemed supply[^key-086ba826095cd0ded39a965e80467838]
+## 57A. Importation following zero-rated free zone supply: deemed supply[^c-086ba826095cd0ded39a965e80467838]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ in relation to cases set out in the regulations.
 
 ## Annotations
 
-[^key-086ba826095cd0ded39a965e80467838]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/ukpga/1994/23/section/57A) inserted (with effect in accordance with Sch. 15 para. 8 of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2022/3/schedule/15/paragraph/7)
+[^c-086ba826095cd0ded39a965e80467838]: Textual amendment: [S. 57A](https://www.legislation.gov.uk/ukpga/1994/23/section/57A) inserted (with effect in accordance with Sch. 15 para. 8 of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2022/3/schedule/15/paragraph/7)

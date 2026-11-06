@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.9. Form, lodging and renewal of caveats[^key-94fb62120d8560fbae8c33b12a3f7b55]
+## 2.9. Form, lodging and renewal of caveats[^c-94fb62120d8560fbae8c33b12a3f7b55]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94fb62120d8560fbae8c33b12a3f7b55]: Commencement: Rule 2.9 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-94fb62120d8560fbae8c33b12a3f7b55]: Commencement: Rule 2.9 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

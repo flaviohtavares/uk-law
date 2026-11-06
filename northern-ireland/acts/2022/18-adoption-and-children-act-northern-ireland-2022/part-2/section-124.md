@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Placement of looked after children with prospective adopters[^key-27ac73f38974eeccdcb5ddbddc07a7b3]
+## 124. Placement of looked after children with prospective adopters[^c-27ac73f38974eeccdcb5ddbddc07a7b3]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ In Article 27 of the Children Order (accommodation and maintenance for children)
 
 ## Annotations
 
-[^key-27ac73f38974eeccdcb5ddbddc07a7b3]: Commencement: S. 124 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-27ac73f38974eeccdcb5ddbddc07a7b3]: Commencement: S. 124 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

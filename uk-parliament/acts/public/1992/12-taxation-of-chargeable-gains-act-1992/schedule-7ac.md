@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7AC — Exemptions for disposals by companies with substantial shareholding[^key-39c6fea00fb9c0d687377d75ea84525d]
+## SCHEDULE 7AC — Exemptions for disposals by companies with substantial shareholding[^c-39c6fea00fb9c0d687377d75ea84525d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 (2) The requirements are set out in—
 
 - Part 2 (the substantial shareholding requirement), and
-- Part 3 (requirements to be met in relation to [^key-da90684acd4461fca0524b68be854198]... the company invested in).
+- Part 3 (requirements to be met in relation to [^c-da90684acd4461fca0524b68be854198]... the company invested in).
 
 (3) The exemption conferred by this paragraph does not apply in the circumstances specified in paragraph 5 or the cases specified in paragraph 6.
 
@@ -53,15 +53,15 @@ summary: ''
 
 #### Subsidiary exemption: disposal of shares or related asset where main exemption conditions previously met
 
-**3.**[^key-ab2b244f58c073a2b3fb58a00feb8dce] (1) A gain accruing to a company (“**company A**”) on a disposal of shares, or an interest in shares or an asset related to shares, in another company (“**company B**”) is not a chargeable gain if the following conditions are met.
+**3.**[^c-ab2b244f58c073a2b3fb58a00feb8dce] (1) A gain accruing to a company (“**company A**”) on a disposal of shares, or an interest in shares or an asset related to shares, in another company (“**company B**”) is not a chargeable gain if the following conditions are met.
 
 (2) The conditions are—
 
 - (a) that at the time of the disposal company A meets the requirement in paragraph 7 (the substantial shareholding requirement) in relation to company B;
-- (b) that a chargeable gain or allowable loss would, apart from this paragraph, accrue to company A on the disposal [^key-9a368cc964c5988c6e69df04b1deb706]... ;
+- (b) that a chargeable gain or allowable loss would, apart from this paragraph, accrue to company A on the disposal [^c-9a368cc964c5988c6e69df04b1deb706]... ;
 - (c) that at the time of the disposal—
   - (i) company A is resident in the United Kingdom, or
-  - (ii) any chargeable gain accruing to company A on the disposal would be chargeable to corporation tax as a result of section 2B(3) or (4)[^key-1ee1724940d7958a6894fa462593ad62];
+  - (ii) any chargeable gain accruing to company A on the disposal would be chargeable to corporation tax as a result of section 2B(3) or (4)[^c-1ee1724940d7958a6894fa462593ad62];
 - (d) that there was a time within the period of two years ending with the disposal (“**the relevant period**”) when, if—
   - (i) company A, or
   - (ii) a company that at any time in the relevant period was a member of the same group as company A,
@@ -73,9 +73,9 @@ summary: ''
   - (iii) a company that at any time in the relevant period was a member of the same group as company A, or
   - (iv) any such company together with any persons connected with it.
 
-(3)[^key-79c13ec5be94641ab8810ed60ed3bc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-79c13ec5be94641ab8810ed60ed3bc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) In determining for the purpose of sub-paragraph (2)(d) whether a gain accruing on the hypothetical disposal referred to would have been a chargeable gain, the requirements [^key-c2ac068de6df04334bf8ab7b80ce1d5f]... of paragraph 19(1)(b) (requirement as to company invested in to be met immediately after the disposal) shall be assumed to be met.
+(4) In determining for the purpose of sub-paragraph (2)(d) whether a gain accruing on the hypothetical disposal referred to would have been a chargeable gain, the requirements [^c-c2ac068de6df04334bf8ab7b80ce1d5f]... of paragraph 19(1)(b) (requirement as to company invested in to be met immediately after the disposal) shall be assumed to be met.
 
 (5) Where—
 
@@ -91,7 +91,7 @@ sub-paragraph (1) does not prevent a gain accruing to company A on the disposal 
 
 (8) The exemption conferred by this paragraph does not apply in the circumstances specified in paragraph 5 or the cases specified in paragraph 6.
 
-#### Subsidiary exemption: qualifying institutional investors[^key-bc2c4fe49a0af53982873b087b7e7369]
+#### Subsidiary exemption: qualifying institutional investors[^c-bc2c4fe49a0af53982873b087b7e7369]
 
 **3A.** (1) This paragraph applies in relation to a gain or loss accruing to a company (“the investing company”) on a disposal of shares or an interest in shares in another company (“the company invested in”).
 
@@ -130,16 +130,16 @@ sub-paragraph (1) does not prevent a gain accruing to company A on the disposal 
 
 - (a) ordinary share capital may not be owned through a disqualified listed company;
 - (b) treat references to a body corporate
-  - (i)[^key-3288157812e3c64452c5000fc9b71f9e] as including an exempt unauthorised unit trust (and references to ordinary share capital, in the case of such a trust, as references to units in the trust)
-  - (ii)[^key-d8094d7fb8a270026bb24049d303df5a] as including an exempt Reserved Investor Fund (Contractual Scheme) (and references to ordinary share capital, in the case of such a scheme, as references to units in the scheme).
+  - (i)[^c-3288157812e3c64452c5000fc9b71f9e] as including an exempt unauthorised unit trust (and references to ordinary share capital, in the case of such a trust, as references to units in the trust)
+  - (ii)[^c-d8094d7fb8a270026bb24049d303df5a] as including an exempt Reserved Investor Fund (Contractual Scheme) (and references to ordinary share capital, in the case of such a scheme, as references to units in the scheme).
 
 (5) A person is also to be regarded as owning ordinary share capital in a company in circumstances where a person would, under paragraphs 12 and 13 of this Schedule, be regarded as holding shares in a company.
 
 (6) Where the assets of a partnership include ordinary share capital of a company, each partner is to be regarded as owning a proportion of that share capital equal to the partner's proportionate interest in that ordinary share capital.
 
-(6A)[^key-5f57e15328a71152639b620ab118cc03] Sub-paragraph (6) does not apply in relation to a co-ownership scheme which is treated as a partnership under section 103DC (co-ownership schemes which are to be treated as partnerships).
+(6A)[^c-5f57e15328a71152639b620ab118cc03] Sub-paragraph (6) does not apply in relation to a co-ownership scheme which is treated as a partnership under section 103DC (co-ownership schemes which are to be treated as partnerships).
 
-(7)[^key-72c5b91c5fc16fb714322354504c4c70] In this Schedule—
+(7)[^c-72c5b91c5fc16fb714322354504c4c70] In this Schedule—
 
 - “**exempt Reserved Investor Fund (Contractual Scheme)**” means a Reserved Investor Fund (Contractual Scheme) which meets the exempt investor condition in regulation 14 of the Co-ownership Contractual Schemes (Tax) Regulations 2025;
 - “**exempt unauthorised unit trust**” has the same meaning as in regulation 3 of the Unauthorised Unit Trusts (Tax) Regulations 2013.
@@ -192,16 +192,16 @@ sub-paragraph (1) does not prevent a gain accruing to company A on the disposal 
 (6) In this paragraph—
 
 - “**arrangements**” includes any scheme, agreement or understanding, whether or not legally enforceable;
-- “**major change in the nature or conduct of a trade**” has the same meaning as in section 673 of CTA 2010[^key-1c256cce464613fcf8b396987d3fffbb] (change of ownership of company: disallowance of trading losses);
+- “**major change in the nature or conduct of a trade**” has the same meaning as in section 673 of CTA 2010[^c-1c256cce464613fcf8b396987d3fffbb] (change of ownership of company: disallowance of trading losses);
 - “**profits**” means income or gains (including unrealised income or gains).
 
 #### Other cases excluded from exemptions
 
-**6.**[^key-ef71b7b69809e16d2e83747680b25c1b] (1) The exemptions conferred by this Schedule do not apply—
+**6.**[^c-ef71b7b69809e16d2e83747680b25c1b] (1) The exemptions conferred by this Schedule do not apply—
 
 - (a) to a disposal that by virtue of any enactment relating to chargeable gains is deemed to be for a consideration such that no gain or loss accrues to the person making the disposal,
 - (b) to a disposal a gain on which would, by virtue of any enactment not contained in this Schedule, not be a chargeable gain, or
-- (c) to a deemed disposal under any of sections 116 to 118 of the Finance Act 2012[^key-e15e6e37d0c995662401f76c4aa38787] (deemed disposal on transfer of asset of insurance company from one category to another).
+- (c) to a deemed disposal under any of sections 116 to 118 of the Finance Act 2012[^c-e15e6e37d0c995662401f76c4aa38787] (deemed disposal on transfer of asset of insurance company from one category to another).
 
 (2) The hypothetical disposal referred to in paragraph 2(2)(b) or (3)(b) or paragraph 3(2)(d) shall be assumed not to be a disposal within sub-paragraph (1)(a), (b) or (c) above.
 
@@ -209,7 +209,7 @@ sub-paragraph (1) does not prevent a gain accruing to company A on the disposal 
 
 #### The requirement
 
-**7.** The investing company must have held a substantial shareholding in the company invested in throughout a twelve-month period beginning not more than six[^key-d94d21c2632515c7196175a255e36eae] years before the day on which the disposal takes place.
+**7.** The investing company must have held a substantial shareholding in the company invested in throughout a twelve-month period beginning not more than six[^c-d94d21c2632515c7196175a255e36eae] years before the day on which the disposal takes place.
 
 #### Meaning of “substantial shareholding"
 
@@ -221,7 +221,7 @@ sub-paragraph (1) does not prevent a gain accruing to company A on the disposal 
 
   This is without prejudice to what is meant by “**substantial**” where the word appears in other contexts.
 
-(2)[^key-b7de2c1469e84e8cc147ee5b840364b4] Chapter 6 of Part 5 of CTA 2010 (group relief: equity holders and profits or assets available for distribution) applies for the purposes of sub-paragraph (1) as it applies for the purposes of the provisions mentioned in section 157(1) of that Act, but as if—[^key-24b63841d74bbb4a4e08b1f3653dd668]
+(2)[^c-b7de2c1469e84e8cc147ee5b840364b4] Chapter 6 of Part 5 of CTA 2010 (group relief: equity holders and profits or assets available for distribution) applies for the purposes of sub-paragraph (1) as it applies for the purposes of the provisions mentioned in section 157(1) of that Act, but as if—[^c-24b63841d74bbb4a4e08b1f3653dd668]
 
 - (a) in section 158 of that Act after subsection (2) there were inserted—
 
@@ -230,7 +230,7 @@ sub-paragraph (1) does not prevent a gain accruing to company A on the disposal 
   , and
 - (b) sections 171(1)(b) and (3), 173, 174 and 176 to 181 of that Act were omitted.
 
-**8A.**[^key-32713e7069fb12fa34b1b78001e4cc41] (1) This paragraph applies in a case where at least 25% of the ordinary share capital of the investing company is owned by qualifying institutional investors.
+**8A.**[^c-32713e7069fb12fa34b1b78001e4cc41] (1) This paragraph applies in a case where at least 25% of the ordinary share capital of the investing company is owned by qualifying institutional investors.
 
 (2) The investing company also holds a “substantial shareholding” in the company invested in for the purposes of this Schedule if—
 
@@ -261,7 +261,7 @@ the investing company is treated as meeting the condition in sub-paragraph (2)(b
 
 #### Aggregation of holdings of group companies
 
-**9.**[^key-b275a7cc29e1a7f82f72aeaa67d358b3][^key-3d1daccfa0710b491717f30f6447ff73] (1) For the purposes of paragraphs 7 and 8A(2)[^key-2f1c37304a6464f789a12099591b9549] (the substantial shareholding requirement) a company that is a member of a group is treated—
+**9.**[^c-b275a7cc29e1a7f82f72aeaa67d358b3][^c-3d1daccfa0710b491717f30f6447ff73] (1) For the purposes of paragraphs 7 and 8A(2)[^c-2f1c37304a6464f789a12099591b9549] (the substantial shareholding requirement) a company that is a member of a group is treated—
 
 - (a) as holding any shares or interest in shares held by any other company in the group, and
 - (b) as having the same entitlement as any such company to any rights enjoyed by virtue of holding shares or an interest in shares.
@@ -280,7 +280,7 @@ the investing company is treated as meeting the condition in sub-paragraph (2)(b
 (2) For the purposes of sub-paragraph (1)—
 
 - (a) a “**no-gain/no-loss transfer**” means a disposal and corresponding acquisition that by virtue of any enactment relating to chargeable gains are deemed to be for a consideration such that no gain or loss accrues to the person making the disposal;
-- (b) a transfer shall be treated as if it had been a no-gain/no- loss transfer if it is a transfer to which subsection (1) of section 171 (transfers within a group) would apply but for subsection (1A) or[^key-7e4c30038124ed239332900139464cdd] subsection (3) of that section.
+- (b) a transfer shall be treated as if it had been a no-gain/no- loss transfer if it is a transfer to which subsection (1) of section 171 (transfers within a group) would apply but for subsection (1A) or[^c-7e4c30038124ed239332900139464cdd] subsection (3) of that section.
 
 (3) Where sub-paragraph (1) applies to extend the period for which a company (“**company A**”) is treated as having held any shares, that company shall be treated for the purposes of this Part as having had at any time the same entitlement—
 
@@ -304,7 +304,7 @@ as the company (“**company B**”) that at that time held the shares concerned
 
 #### Effect of deemed disposal and reacquisition
 
-**11.**[^key-7132032cfefc174a594ea77cb0553702][^key-e6122233f1f1f56c4ff2f96b4460cf8f][^key-e9b95ab52e831d07a9eb932bc83769e3][^key-d897616b1b78198e321f6f0b54861c5e] (1) For the purposes of this Part a company is not regarded as having held shares throughout a period if, at any time during that period, there is a deemed disposal and reacquisition of—
+**11.**[^c-7132032cfefc174a594ea77cb0553702][^c-e6122233f1f1f56c4ff2f96b4460cf8f][^c-e9b95ab52e831d07a9eb932bc83769e3][^c-d897616b1b78198e321f6f0b54861c5e] (1) For the purposes of this Part a company is not regarded as having held shares throughout a period if, at any time during that period, there is a deemed disposal and reacquisition of—
 
 - (a) the shares concerned, or
 - (b) shares, or an interest in shares, from which those shares are derived.
@@ -321,7 +321,7 @@ as the company (“**company B**”) that at that time held the shares concerned
 
 #### Effect of repurchase agreement
 
-**12.**[^key-af5dcbd007c751d627722d9a06090b6e] (1) This paragraph applies where—
+**12.**[^c-af5dcbd007c751d627722d9a06090b6e] (1) This paragraph applies where—
 
 - (a) a company (“**the borrower**”) which holds shares in another company sells the shares under an arrangement by reference to which the borrower has a debtor repo, and
 - (b) by virtue of paragraph 6 of Schedule 13 to the Finance Act 2007 (sale and repurchase of securities) the sale is ignored for the purposes of corporation tax in respect of chargeable gains.
@@ -415,7 +415,7 @@ that requirement may instead be met, in relation to times before the transfer, b
 
 (4) In this paragraph a “**transfer of shares on a demerger**” means a transfer such that, by virtue of section 192(2)(b), sections 126 to 130 apply as if the parent company and the subsidiary were the same company and the transfer were a reorganisation of that company’s share capital not involving a disposal or acquisition.
 
-#### Effect of transfer of trading assets within a group[^key-62e9123d16d389c649dc9214e16d1391]
+#### Effect of transfer of trading assets within a group[^c-62e9123d16d389c649dc9214e16d1391]
 
 **15A.** (1) For the purposes of this Part, the period for which the investing company is treated as holding a substantial shareholding in the company invested in is extended in accordance with sub-paragraph (3) if the following conditions are met.
 
@@ -426,7 +426,7 @@ that requirement may instead be met, in relation to times before the transfer, b
 - (c) that, at the time of the transfer of the asset, the company invested in, the investing company and, if different, the company which transferred the asset were all members of the same group, and
 - (d) that the asset was previously used by a member of the group (other than the company invested in) for the purposes of a trade carried on by that member at a time when it was such a member.
 
-(2A)[^key-9c99c57e344a102d4a42a41c2a708215] For the purposes of sub-paragraph (2)(b) and (d), “**trade**” includes oil and gas exploration and appraisal.
+(2A)[^c-9c99c57e344a102d4a42a41c2a708215] For the purposes of sub-paragraph (2)(b) and (d), “**trade**” includes oil and gas exploration and appraisal.
 
 (3) The investing company is to be treated as having held the substantial shareholding at any time during the final 12 month period when the asset was used as mentioned in sub-paragraph (2)(d) (if it did not hold a substantial shareholding at that time).
 
@@ -436,50 +436,50 @@ that requirement may instead be met, in relation to times before the transfer, b
 
 **16.** Where assets of the investing company, or of a company that is a member of the same group as the investing company, are vested in a liquidator under section 145 of the Insolvency Act 1986 or Article 123 of the Insolvency (Northern Ireland) Order 1989 or otherwise, this Part applies as if the assets were vested in, and the acts of the liquidator in relation to the assets were the acts of, the company (acquisitions from or disposals to him by the company being disregarded accordingly).
 
-#### Special rules for assets of insurance company held for the purposes of its long-term business[^key-2dc9a46ea2bfc5e2b13112b9fb790dbb]
+#### Special rules for assets of insurance company held for the purposes of its long-term business[^c-2dc9a46ea2bfc5e2b13112b9fb790dbb]
 
-**17.**[^key-cdf03635d31ed06c1adc9bae7bdcff61] (1) In the following two cases paragraph 8(1) (meaning of substantial shareholding) has effect as if, in paragraphs (a), (b) and (c), “30%" were substituted for “10%".
+**17.**[^c-cdf03635d31ed06c1adc9bae7bdcff61] (1) In the following two cases paragraph 8(1) (meaning of substantial shareholding) has effect as if, in paragraphs (a), (b) and (c), “30%" were substituted for “10%".
 
-(2) The first case is where the investing company is an insurance company and the disposal is of an asset held by it for the purposes of its long-term business[^key-fdb31fc984ba52772f433cf4f82f5e96].
+(2) The first case is where the investing company is an insurance company and the disposal is of an asset held by it for the purposes of its long-term business[^c-fdb31fc984ba52772f433cf4f82f5e96].
 
 (3) The second case is where—
 
 - (a) the investing company is a 51% subsidiary of an insurance company, and
-- (b) the insurance company holds as an asset for the purposes of its long-term business[^key-2348d31dcc955fbdb1a56576e839a54f] shares or an interest in shares—
+- (b) the insurance company holds as an asset for the purposes of its long-term business[^c-2348d31dcc955fbdb1a56576e839a54f] shares or an interest in shares—
   - (i) in the investing company, or
   - (ii) in another company through which it owns shares in the investing company.
 
-    The reference in paragraph (b)(ii) to owning shares through another company has the same meaning as in Chapter 3 of Part 24 of CTA 2010[^key-540877340414267cd069fd6cd9479452] (subsidiaries).
+    The reference in paragraph (b)(ii) to owning shares through another company has the same meaning as in Chapter 3 of Part 24 of CTA 2010[^c-540877340414267cd069fd6cd9479452] (subsidiaries).
 
-(4) Where the investing company is a member of a group that includes an insurance company, paragraph 9 (aggregation of holdings of group companies) does not apply in relation to shares or an interest in shares held by the insurance company for the purposes of its long-term business[^key-beb725cbc7f87688b8021b810a37df3c].
+(4) Where the investing company is a member of a group that includes an insurance company, paragraph 9 (aggregation of holdings of group companies) does not apply in relation to shares or an interest in shares held by the insurance company for the purposes of its long-term business[^c-beb725cbc7f87688b8021b810a37df3c].
 
-(4A)[^key-7b0ae9812aeb2ec22ddc509e03b132fb] The reference in sub-paragraph (2) to an asset held by the investing company for the purposes of its long-term business[^key-831d7b5ebc287107cc23b5a823896257], and the references in sub-paragraphs (3) and (4) to shares or an interest in shares held for the purposes of its long-term business[^key-be72775147ec080d3d9a3546b3395288], do not include an asset or assets which formed part of the long-term business fixed capital of the company in question[^key-47aa59916953b2b0c14062bbe1656c9a].
+(4A)[^c-7b0ae9812aeb2ec22ddc509e03b132fb] The reference in sub-paragraph (2) to an asset held by the investing company for the purposes of its long-term business[^c-831d7b5ebc287107cc23b5a823896257], and the references in sub-paragraphs (3) and (4) to shares or an interest in shares held for the purposes of its long-term business[^c-be72775147ec080d3d9a3546b3395288], do not include an asset or assets which formed part of the long-term business fixed capital of the company in question[^c-47aa59916953b2b0c14062bbe1656c9a].
 
-(5)[^key-3491cf7c6bb93f5fe1e07aef3b3bf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3491cf7c6bb93f5fe1e07aef3b3bf800] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 3 — Requirements to be met in relation to ... company invested in[^key-80c2428245649a7b6d89b783449e423e]
+### Part 3 — Requirements to be met in relation to ... company invested in[^c-80c2428245649a7b6d89b783449e423e]
 
 #### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-acaec2dc889bac5493685d255434e042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-acaec2dc889bac5493685d255434e042] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Requirements relating to the company invested in
 
-**19.** (1)[^key-5eaf4d0fac815f0916983825320670ae][^key-0f2e4e38f5250e8c3a456e7ed4c0d0e9] The company invested in must—
+**19.** (1)[^c-5eaf4d0fac815f0916983825320670ae][^c-0f2e4e38f5250e8c3a456e7ed4c0d0e9] The company invested in must—
 
 - (a) have been a qualifying company throughout the period—
   - (i) beginning with the start of the latest twelve-month period by reference to which the requirement of paragraph 7 (the substantial shareholding requirement) is met, and
   - (ii) ending with the time of the disposal, and
-- (b) in a case where sub-paragraph 1A) applies,[^key-a36d0940c160aa6ba7434f3909eef54f] be a qualifying company immediately after the time of the disposal.
+- (b) in a case where sub-paragraph 1A) applies,[^c-a36d0940c160aa6ba7434f3909eef54f] be a qualifying company immediately after the time of the disposal.
 
-(1A)[^key-0b851668bfd718a65b50b578e0a9f582] This sub-paragraph applies where—
+(1A)[^c-0b851668bfd718a65b50b578e0a9f582] This sub-paragraph applies where—
 
 - (a) the disposal is a disposal to a person connected with the investing company, or
 - (b) the requirement in paragraph 7 is met by virtue of paragraph 15A.
 
 (2) For this purpose a “**qualifying company**” means a trading company or the holding company of a trading group or a trading subgroup.
 
-(2A)[^key-1f8444982b424716cad44e6392b36125] If the conditions in paragraph 15A(2)(b) to (d) are met, sub-paragraph (2B) applies for the purpose of determining whether the requirement of sub-paragraph (1)(a) is satisfied.
+(2A)[^c-1f8444982b424716cad44e6392b36125] If the conditions in paragraph 15A(2)(b) to (d) are met, sub-paragraph (2B) applies for the purpose of determining whether the requirement of sub-paragraph (1)(a) is satisfied.
 
 (2B) The company invested in is to be treated as having been a trading company at any time during the final 12 month period when the asset was used as mentioned in paragraph 15A(2)(d) (if it was not a trading company at that time).
 
@@ -487,7 +487,7 @@ that requirement may instead be met, in relation to times before the transfer, b
 
 (3) If the disposal is by virtue of section 28(1) or (2) (asset disposed of under contract) treated as made at a time before the asset is conveyed or transferred, the requirements in sub-paragraph (1)(a) and (b) must also be complied with as they would have effect if the references there to the time of the disposal were to the time of the conveyance or transfer.
 
-(4)[^key-9b5045b2cc77162407a3b1dcb5b0738d] Section 1122 of CTA 2010 (meaning of “connected” persons) applies for the purposes of sub-paragraph (1A)(a).
+(4)[^c-9b5045b2cc77162407a3b1dcb5b0738d] Section 1122 of CTA 2010 (meaning of “connected” persons) applies for the purposes of sub-paragraph (1A)(a).
 
 #### Meaning of “trading company"
 
@@ -572,7 +572,7 @@ that requirement may instead be met, in relation to times before the transfer, b
 
     This sub-paragraph does not apply if the company is a member of a group and the joint venture company is a member of the same group.
 
-(3) In determining whether the company is [^key-e7c85b8ef19fdf961366bc195a7ba23d]... the holding company of a trading group—
+(3) In determining whether the company is [^c-e7c85b8ef19fdf961366bc195a7ba23d]... the holding company of a trading group—
 
 - (a) every holding of shares in the joint venture company by a member of the group having a qualifying shareholding in that company shall be disregarded, and
 - (b) each member of the group having a qualifying shareholding in the joint venture company shall be treated as carrying on an appropriate proportion—
@@ -637,9 +637,9 @@ have effect in relation to the requirements of paragraph 19 (requirements in rel
 - (a) in relation to a group, means the company described in section 170 as the principal company of the group;
 - (b) in relation to a subgroup, means a company that would be the holding company of a group but for being a 51% subsidiary of another company.
 
-(4) In this Schedule “**51% subsidiary**” has the meaning given by Chapter 3 of Part 24 of CTA 2010[^key-e6a494af4bc924fc835416b7d8eecba1].
+(4) In this Schedule “**51% subsidiary**” has the meaning given by Chapter 3 of Part 24 of CTA 2010[^c-e6a494af4bc924fc835416b7d8eecba1].
 
-In applying that Chapter[^key-62a86c30fe8b927c147941eb6915b9b9] for the purposes of this Schedule, any share capital of a registered society (see section 1119 of that Act)[^key-829df5d10f593bc006f197014acb2854] shall be treated as ordinary share capital.
+In applying that Chapter[^c-62a86c30fe8b927c147941eb6915b9b9] for the purposes of this Schedule, any share capital of a registered society (see section 1119 of that Act)[^c-829df5d10f593bc006f197014acb2854] shall be treated as ordinary share capital.
 
 (5) References in this Schedule to a “**group**” or “**subsidiary**” shall be construed with any necessary modifications where applied to a company incorporated under the law of a country or territory outside the United Kingdom.
 
@@ -682,7 +682,7 @@ In applying that Chapter[^key-62a86c30fe8b927c147941eb6915b9b9] for the purposes
 
 (4) The references in this paragraph to an interest in a security or option have a meaning corresponding to that given by paragraph 29 in relation to an interest in shares.
 
-#### Meaning of “qualifying institutional investor”[^key-401bc20b5c54a875d511ef0f9eb4f40b]
+#### Meaning of “qualifying institutional investor”[^c-401bc20b5c54a875d511ef0f9eb4f40b]
 
 **30A.** (1) In this Schedule “**qualifying institutional investor**” means a person falling within any of A to G below.
 
@@ -724,7 +724,7 @@ In applying that Chapter[^key-62a86c30fe8b927c147941eb6915b9b9] for the purposes
   The trustees of an exempt unauthorised unit trust, where the trust meets the genuine diversity of ownership condition throughout the accounting period of the trust in which the disposal is made.
 
   Regulation 9A of the Authorised Investment Funds (Tax) Regulations 2006 (genuine diversity of ownership) applies for this purpose (treating references to an authorised investment fund as including an exempt unauthorised unit trust).
-- *Exempt Reserved Investor Fund (Contractual Scheme)[^key-b647d32f03256079b7f2e92fd15c143e]*
+- *Exempt Reserved Investor Fund (Contractual Scheme)[^c-b647d32f03256079b7f2e92fd15c143e]*
 
   Exempt Reserved Investor Fund (Contractual Scheme) (within the meaning given by paragraph 3B(7)).
 
@@ -739,7 +739,7 @@ In applying that Chapter[^key-62a86c30fe8b927c147941eb6915b9b9] for the purposes
 | asset related to shares | paragraph 30 |
 | company | paragraph 26(1)(a) |
 | company invested in | paragraph 1 |
-| Exempt unauthorised unit trust[^key-8bd0dd5a39487e6902d6635d433db325] | paragraph 3B(7) |
+| Exempt unauthorised unit trust[^c-8bd0dd5a39487e6902d6635d433db325] | paragraph 3B(7) |
 | 51% subsidiary | paragraph 26(4) and (5) |
 | group (and member of group) | paragraph 26(1)(b) and (5) |
 | holding company | paragraph 26(3) |
@@ -781,13 +781,13 @@ as it applies to shares in that company.
 
 **34.** (1) The exemptions conferred by this Schedule do not apply to or affect a chargeable gain or allowable loss deemed to accrue on a disposal by virtue of section 116(10)(b) (reorganisations, conversions and reconstructions: deemed accrual of gain or loss held over on earlier transaction).
 
-(2)[^key-1ddd9e173a41fbe288fe604a48ad34a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1ddd9e173a41fbe288fe604a48ad34a3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-da194ad83037af922324de5e345eaee3] Sub-paragraph (1) does not apply where the relevant earlier transaction is a disposal and reacquisition deemed to have occurred (in a period of account beginning before 1 January 2005) under section 92(7) of the Finance Act 1996 (convertible securities etc: creditor relationships).
+(2)[^c-da194ad83037af922324de5e345eaee3] Sub-paragraph (1) does not apply where the relevant earlier transaction is a disposal and reacquisition deemed to have occurred (in a period of account beginning before 1 January 2005) under section 92(7) of the Finance Act 1996 (convertible securities etc: creditor relationships).
 
 #### Recovery of charge postponed on transfer of assets to non-resident company
 
-**35.**[^key-b2eec19dc7a5575befe590ec4da71443] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-b2eec19dc7a5575befe590ec4da71443] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Appropriation of asset to trading stock
 
@@ -840,120 +840,120 @@ section 179(6) shall have effect as if it provided for the deemed sale and reacq
 
 ## Annotations
 
-[^key-39c6fea00fb9c0d687377d75ea84525d]: Textual amendment: Sch. 7AC inserted (with effect in accordance with s. 44(3)(4) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2002/23/schedule/8/paragraph/1)
+[^c-39c6fea00fb9c0d687377d75ea84525d]: Textual amendment: Sch. 7AC inserted (with effect in accordance with s. 44(3)(4) of the amending Act) by [Finance Act 2002 (c. 23)](https://www.legislation.gov.uk/ukpga/2002/23), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2002/23/schedule/8/paragraph/1)
 
-[^key-da90684acd4461fca0524b68be854198]: Textual amendment: Words in Sch. 7AC para. 1(2) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/a)
+[^c-da90684acd4461fca0524b68be854198]: Textual amendment: Words in Sch. 7AC para. 1(2) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/a)
 
-[^key-ab2b244f58c073a2b3fb58a00feb8dce]: Modification: [Sch. 7AC para. 3](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3) modified (with effect in accordance with Sch. 5 para. 20(1) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/20)
+[^c-ab2b244f58c073a2b3fb58a00feb8dce]: Modification: [Sch. 7AC para. 3](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3) modified (with effect in accordance with Sch. 5 para. 20(1) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/20)
 
-[^key-9a368cc964c5988c6e69df04b1deb706]: Textual amendment: Words in Sch. 7AC para. 3(2)(b) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/b/i)
+[^c-9a368cc964c5988c6e69df04b1deb706]: Textual amendment: Words in Sch. 7AC para. 3(2)(b) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/b/i)
 
-[^key-1ee1724940d7958a6894fa462593ad62]: Textual amendment: Words in [Sch. 7AC para. 3(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3/2/c/ii) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/92)
+[^c-1ee1724940d7958a6894fa462593ad62]: Textual amendment: Words in [Sch. 7AC para. 3(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3/2/c/ii) substituted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 92](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/92)
 
-[^key-79c13ec5be94641ab8810ed60ed3bc69]: Textual amendment: Sch. 7AC para. 3(3) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/b/ii)
+[^c-79c13ec5be94641ab8810ed60ed3bc69]: Textual amendment: Sch. 7AC para. 3(3) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/b/ii)
 
-[^key-c2ac068de6df04334bf8ab7b80ce1d5f]: Textual amendment: Words in Sch. 7AC para. 3(4) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/b/iii)
+[^c-c2ac068de6df04334bf8ab7b80ce1d5f]: Textual amendment: Words in Sch. 7AC para. 3(4) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/b/iii)
 
-[^key-bc2c4fe49a0af53982873b087b7e7369]: Textual amendment: [Sch. 7AC paras. 3A](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3A), [3B](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B) and cross-heading inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/2)
+[^c-bc2c4fe49a0af53982873b087b7e7369]: Textual amendment: [Sch. 7AC paras. 3A](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3A), [3B](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B) and cross-heading inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/2)
 
-[^key-3288157812e3c64452c5000fc9b71f9e]: Textual amendment: Words in [Sch. 7AC para. 3B(4)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/4/b/i) renumbered as Sch. 7AC para. 3B(4)(b)(i) (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/a/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-3288157812e3c64452c5000fc9b71f9e]: Textual amendment: Words in [Sch. 7AC para. 3B(4)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/4/b/i) renumbered as Sch. 7AC para. 3B(4)(b)(i) (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(a)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/a/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-d8094d7fb8a270026bb24049d303df5a]: Textual amendment: [Sch. 7AC para. 3B(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/4/b/ii) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/a/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-d8094d7fb8a270026bb24049d303df5a]: Textual amendment: [Sch. 7AC para. 3B(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/4/b/ii) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/a/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-5f57e15328a71152639b620ab118cc03]: Textual amendment: [Sch. 7AC para. 3B(6A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/6A) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(b)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/b) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-5f57e15328a71152639b620ab118cc03]: Textual amendment: [Sch. 7AC para. 3B(6A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/6A) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(b)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/b) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-72c5b91c5fc16fb714322354504c4c70]: Textual amendment: [Sch. 7AC para. 3B(7)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/7) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(c)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/c) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-72c5b91c5fc16fb714322354504c4c70]: Textual amendment: [Sch. 7AC para. 3B(7)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/3B/7) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(2)(c)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/2/c) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-1c256cce464613fcf8b396987d3fffbb]: Textual amendment: Words in Sch. 7AC para. 5(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1c256cce464613fcf8b396987d3fffbb]: Textual amendment: Words in Sch. 7AC para. 5(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-ef71b7b69809e16d2e83747680b25c1b]: Modification: Sch. 7AC para. 6 excluded by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 782A(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/782A/3) (as inserted (with effect in accordance with s. 26(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/26/3))
+[^c-ef71b7b69809e16d2e83747680b25c1b]: Modification: Sch. 7AC para. 6 excluded by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 782A(3)](https://www.legislation.gov.uk/ukpga/2009/4/section/782A/3) (as inserted (with effect in accordance with s. 26(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/26/3))
 
-[^key-e15e6e37d0c995662401f76c4aa38787]: Textual amendment: Words in Sch. 7AC para. 6(1)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/2)
+[^c-e15e6e37d0c995662401f76c4aa38787]: Textual amendment: Words in Sch. 7AC para. 6(1)(c) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/2)
 
-[^key-d94d21c2632515c7196175a255e36eae]: Textual amendment: Word in [Sch. 7AC para. 7](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/7) substituted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/3)
+[^c-d94d21c2632515c7196175a255e36eae]: Textual amendment: Word in [Sch. 7AC para. 7](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/7) substituted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/3)
 
-[^key-b7de2c1469e84e8cc147ee5b840364b4]: Textual amendment: Sch. 7AC para. 8(2) substituted for Sch. 7AC para. 8(2)(3) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b7de2c1469e84e8cc147ee5b840364b4]: Textual amendment: Sch. 7AC para. 8(2) substituted for Sch. 7AC para. 8(2)(3) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-24b63841d74bbb4a4e08b1f3653dd668]: Textual amendment: Words in Sch. 7AC para. 8(2) substituted (with retrospective effect in accordance with art. 1(2) of the amending S.I.) by [The Corporation Tax Act 2010 (Amendment) Order 2010 (S.I. 2010/2902)](https://www.legislation.gov.uk/uksi/2010/2902), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2902/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2902/article/2/3)
+[^c-24b63841d74bbb4a4e08b1f3653dd668]: Textual amendment: Words in Sch. 7AC para. 8(2) substituted (with retrospective effect in accordance with art. 1(2) of the amending S.I.) by [The Corporation Tax Act 2010 (Amendment) Order 2010 (S.I. 2010/2902)](https://www.legislation.gov.uk/uksi/2010/2902), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/2902/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2010/2902/article/2/3)
 
-[^key-32713e7069fb12fa34b1b78001e4cc41]: Textual amendment: [Sch. 7AC para. 8A](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/8A) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/3)
+[^c-32713e7069fb12fa34b1b78001e4cc41]: Textual amendment: [Sch. 7AC para. 8A](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/8A) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/3)
 
-[^key-b275a7cc29e1a7f82f72aeaa67d358b3]: Modification: [Sch. 7AC para. 9](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/9) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 17(5)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/17/5/a)
+[^c-b275a7cc29e1a7f82f72aeaa67d358b3]: Modification: [Sch. 7AC para. 9](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/9) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 17(5)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/17/5/a)
 
-[^key-3d1daccfa0710b491717f30f6447ff73]: Modification: [Sch. 7AC para. 9](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/9) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/34/2/a)
+[^c-3d1daccfa0710b491717f30f6447ff73]: Modification: [Sch. 7AC para. 9](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/9) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/34/2/a)
 
-[^key-2f1c37304a6464f789a12099591b9549]: Textual amendment: Words in [Sch. 7AC para. 9(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/9/1) substituted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/4)
+[^c-2f1c37304a6464f789a12099591b9549]: Textual amendment: Words in [Sch. 7AC para. 9(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/9/1) substituted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/4)
 
-[^key-7e4c30038124ed239332900139464cdd]: Textual amendment: Words in [Sch. 7AC para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/10/2/b) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/4)
+[^c-7e4c30038124ed239332900139464cdd]: Textual amendment: Words in [Sch. 7AC para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/10/2/b) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/4)
 
-[^key-7132032cfefc174a594ea77cb0553702]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 22(8)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/22/8)
+[^c-7132032cfefc174a594ea77cb0553702]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 22(8)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/22/8)
 
-[^key-e6122233f1f1f56c4ff2f96b4460cf8f]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 34(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/34/2/b)
+[^c-e6122233f1f1f56c4ff2f96b4460cf8f]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 34(2)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/34/2/b)
 
-[^key-e9b95ab52e831d07a9eb932bc83769e3]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 31(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/31/4)
+[^c-e9b95ab52e831d07a9eb932bc83769e3]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 31(4)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/31/4)
 
-[^key-d897616b1b78198e321f6f0b54861c5e]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 17(6)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/17/6)
+[^c-d897616b1b78198e321f6f0b54861c5e]: Modification: [Sch. 7AC para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/11) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 17(6)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/17/6)
 
-[^key-af5dcbd007c751d627722d9a06090b6e]: Textual amendment: Sch. 7AC para. 12 substituted (with effect in relation to an arrangement that comes into force on or after 1.10.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 47(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/47/4), [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/14/paragraph/13); [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
+[^c-af5dcbd007c751d627722d9a06090b6e]: Textual amendment: Sch. 7AC para. 12 substituted (with effect in relation to an arrangement that comes into force on or after 1.10.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 47(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/47/4), [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2007/11/schedule/14/paragraph/13); [S.I. 2007/2483](https://www.legislation.gov.uk/uksi/2007/2483), [art. 3](https://www.legislation.gov.uk/uksi/2007/2483/article/3)
 
-[^key-62e9123d16d389c649dc9214e16d1391]: Textual amendment: Sch. 7AC para. 15A and cross-heading inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/6/2)
+[^c-62e9123d16d389c649dc9214e16d1391]: Textual amendment: Sch. 7AC para. 15A and cross-heading inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/6/2)
 
-[^key-9c99c57e344a102d4a42a41c2a708215]: Textual amendment: Sch. 7AC para. 15A(2A) inserted (with effect in accordance with s. 72(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/72/1)
+[^c-9c99c57e344a102d4a42a41c2a708215]: Textual amendment: Sch. 7AC para. 15A(2A) inserted (with effect in accordance with s. 72(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/72/1)
 
-[^key-2dc9a46ea2bfc5e2b13112b9fb790dbb]: Textual amendment: Words in Sch. 7AC para. 17 cross-heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(8)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/8)
+[^c-2dc9a46ea2bfc5e2b13112b9fb790dbb]: Textual amendment: Words in Sch. 7AC para. 17 cross-heading substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(8)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/8)
 
-[^key-cdf03635d31ed06c1adc9bae7bdcff61]: Modification: Sch. 7AC para. 17 modified by [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997 (S.I. 1997/473)](https://www.legislation.gov.uk/uksi/1997/473), [reg. 50A](https://www.legislation.gov.uk/uksi/1997/473/regulation/50A) (as inserted (30.1.2003) by [S.I. 2003/23](https://www.legislation.gov.uk/uksi/2003/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/23/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/23/regulation/9))
+[^c-cdf03635d31ed06c1adc9bae7bdcff61]: Modification: Sch. 7AC para. 17 modified by [The Friendly Societies (Modification of the Corporation Tax Acts) Regulations 1997 (S.I. 1997/473)](https://www.legislation.gov.uk/uksi/1997/473), [reg. 50A](https://www.legislation.gov.uk/uksi/1997/473/regulation/50A) (as inserted (30.1.2003) by [S.I. 2003/23](https://www.legislation.gov.uk/uksi/2003/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/23/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/23/regulation/9))
 
-[^key-fdb31fc984ba52772f433cf4f82f5e96]: Textual amendment: Words in Sch. 7AC para. 17(2) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/4)
+[^c-fdb31fc984ba52772f433cf4f82f5e96]: Textual amendment: Words in Sch. 7AC para. 17(2) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/4)
 
-[^key-2348d31dcc955fbdb1a56576e839a54f]: Textual amendment: Words in Sch. 7AC para. 17(3)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/5)
+[^c-2348d31dcc955fbdb1a56576e839a54f]: Textual amendment: Words in Sch. 7AC para. 17(3)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(5)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/5)
 
-[^key-540877340414267cd069fd6cd9479452]: Textual amendment: Words in Sch. 7AC para. 17(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-540877340414267cd069fd6cd9479452]: Textual amendment: Words in Sch. 7AC para. 17(3) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/4) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-beb725cbc7f87688b8021b810a37df3c]: Textual amendment: Words in Sch. 7AC para. 17(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/6)
+[^c-beb725cbc7f87688b8021b810a37df3c]: Textual amendment: Words in Sch. 7AC para. 17(4) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(6)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/6)
 
-[^key-7b0ae9812aeb2ec22ddc509e03b132fb]: Textual amendment: Sch. 7AC para. 17(4A) inserted (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 2(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/2/5)
+[^c-7b0ae9812aeb2ec22ddc509e03b132fb]: Textual amendment: Sch. 7AC para. 17(4A) inserted (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 2(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/2/5)
 
-[^key-831d7b5ebc287107cc23b5a823896257]: Textual amendment: Words in Sch. 7AC para. 17(4A) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(7)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/7/a)
+[^c-831d7b5ebc287107cc23b5a823896257]: Textual amendment: Words in Sch. 7AC para. 17(4A) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(7)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/7/a)
 
-[^key-be72775147ec080d3d9a3546b3395288]: Textual amendment: Words in Sch. 7AC para. 17(4A) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(7)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/7/b)
+[^c-be72775147ec080d3d9a3546b3395288]: Textual amendment: Words in Sch. 7AC para. 17(4A) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(7)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/7/b)
 
-[^key-47aa59916953b2b0c14062bbe1656c9a]: Textual amendment: Words in Sch. 7AC para. 17(4A) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(7)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/7/c)
+[^c-47aa59916953b2b0c14062bbe1656c9a]: Textual amendment: Words in Sch. 7AC para. 17(4A) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 88(7)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/88/7/c)
 
-[^key-3491cf7c6bb93f5fe1e07aef3b3bf800]: Textual amendment: Sch. 7AC para. 17(5) repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/14/5/b), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-3491cf7c6bb93f5fe1e07aef3b3bf800]: Textual amendment: Sch. 7AC para. 17(5) repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 14(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/14/5/b), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
 
-[^key-80c2428245649a7b6d89b783449e423e]: Textual amendment: Words in [Sch. 7AC Pt. 3](https://www.legislation.gov.uk/ukpga/1992/12/part/III/part/3) heading omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/c)
+[^c-80c2428245649a7b6d89b783449e423e]: Textual amendment: Words in [Sch. 7AC Pt. 3](https://www.legislation.gov.uk/ukpga/1992/12/part/III/part/3) heading omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/c)
 
-[^key-acaec2dc889bac5493685d255434e042]: Textual amendment: Sch. 7AC para. 18 and preceding cross-heading omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/d)
+[^c-acaec2dc889bac5493685d255434e042]: Textual amendment: Sch. 7AC para. 18 and preceding cross-heading omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(d)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/d)
 
-[^key-5eaf4d0fac815f0916983825320670ae]: Modification: [Sch. 7AC para. 19(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 17(5)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/17/5/b)
+[^c-5eaf4d0fac815f0916983825320670ae]: Modification: [Sch. 7AC para. 19(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 17(5)(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/17/5/b)
 
-[^key-0f2e4e38f5250e8c3a456e7ed4c0d0e9]: Modification: [Sch. 7AC para. 19(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/34/2/c)
+[^c-0f2e4e38f5250e8c3a456e7ed4c0d0e9]: Modification: [Sch. 7AC para. 19(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1) modified (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 2 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/2/paragraph/34/2/c)
 
-[^key-a36d0940c160aa6ba7434f3909eef54f]: Textual amendment: Words in [Sch. 7AC para. 19(1)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1/b) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/5/a)
+[^c-a36d0940c160aa6ba7434f3909eef54f]: Textual amendment: Words in [Sch. 7AC para. 19(1)(b)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1/b) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(5)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/5/a)
 
-[^key-0b851668bfd718a65b50b578e0a9f582]: Textual amendment: [Sch. 7AC para. 19(1A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1A) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/5/b)
+[^c-0b851668bfd718a65b50b578e0a9f582]: Textual amendment: [Sch. 7AC para. 19(1A)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/1A) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(5)(b)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/5/b)
 
-[^key-1f8444982b424716cad44e6392b36125]: Textual amendment: Sch. 7AC para. 19(2A)-(2C) inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/6/3)
+[^c-1f8444982b424716cad44e6392b36125]: Textual amendment: Sch. 7AC para. 19(2A)-(2C) inserted (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 6(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/6/3)
 
-[^key-9b5045b2cc77162407a3b1dcb5b0738d]: Textual amendment: [Sch. 7AC para. 19(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/4) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(5)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/5/c)
+[^c-9b5045b2cc77162407a3b1dcb5b0738d]: Textual amendment: [Sch. 7AC para. 19(4)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/19/4) inserted (with effect in accordance with s. 27(6) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(5)(c)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/5/c)
 
-[^key-e7c85b8ef19fdf961366bc195a7ba23d]: Textual amendment: Words in [Sch. 7AC para. 23(3)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/23/3) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(e)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/e)
+[^c-e7c85b8ef19fdf961366bc195a7ba23d]: Textual amendment: Words in [Sch. 7AC para. 23(3)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/23/3) omitted (with effect in accordance with s. 27(6) of the amending Act) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 27(2)(e)](https://www.legislation.gov.uk/ukpga/2017/32/section/27/2/e)
 
-[^key-e6a494af4bc924fc835416b7d8eecba1]: Textual amendment: Words in Sch. 7AC para. 26(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e6a494af4bc924fc835416b7d8eecba1]: Textual amendment: Words in Sch. 7AC para. 26(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(5)(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/5/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-62a86c30fe8b927c147941eb6915b9b9]: Textual amendment: Words in Sch. 7AC para. 26(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-62a86c30fe8b927c147941eb6915b9b9]: Textual amendment: Words in Sch. 7AC para. 26(4) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 269(5)(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/269/5/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-829df5d10f593bc006f197014acb2854]: Textual amendment: Words in Sch. 7AC para. 26(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 53](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/53) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/7), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15))
+[^c-829df5d10f593bc006f197014acb2854]: Textual amendment: Words in Sch. 7AC para. 26(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 53](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/53) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)) (as amended (1.8.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 39 paras. 7](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/7), [15](https://www.legislation.gov.uk/ukpga/2014/26/schedule/39/paragraph/15))
 
-[^key-401bc20b5c54a875d511ef0f9eb4f40b]: Textual amendment: Sch. 7AC para. 30A and cross-heading inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/5)
+[^c-401bc20b5c54a875d511ef0f9eb4f40b]: Textual amendment: Sch. 7AC para. 30A and cross-heading inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(5)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/5)
 
-[^key-b647d32f03256079b7f2e92fd15c143e]: Textual amendment: Words in [Sch. 7AC para. 30A(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/30A/1) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(3)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/3) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-b647d32f03256079b7f2e92fd15c143e]: Textual amendment: Words in [Sch. 7AC para. 30A(1)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/30A/1) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [54(3)](https://www.legislation.gov.uk/uksi/2025/200/regulation/54/3) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-8bd0dd5a39487e6902d6635d433db325]: Textual amendment: Words in [Sch. 7AC para. 31](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/31) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/6)
+[^c-8bd0dd5a39487e6902d6635d433db325]: Textual amendment: Words in [Sch. 7AC para. 31](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7AC/paragraph/31) inserted (with effect in accordance with s. 28(7) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 28(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/28/6)
 
-[^key-1ddd9e173a41fbe288fe604a48ad34a3]: Textual amendment: Sch. 7AC para. 34(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 386](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/386), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1ddd9e173a41fbe288fe604a48ad34a3]: Textual amendment: Sch. 7AC para. 34(2) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 386](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/386), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-da194ad83037af922324de5e345eaee3]: Textual amendment: Sch. 7AC para. 34(2) inserted (with retrospective effect in accordance with art. 1(2) of the amending S.I.) by [The Corporation Tax Act 2009 (Amendment) Order 2010 (S.I. 2010/614)](https://www.legislation.gov.uk/uksi/2010/614), [art. 2](https://www.legislation.gov.uk/uksi/2010/614/article/2)
+[^c-da194ad83037af922324de5e345eaee3]: Textual amendment: Sch. 7AC para. 34(2) inserted (with retrospective effect in accordance with art. 1(2) of the amending S.I.) by [The Corporation Tax Act 2009 (Amendment) Order 2010 (S.I. 2010/614)](https://www.legislation.gov.uk/uksi/2010/614), [art. 2](https://www.legislation.gov.uk/uksi/2010/614/article/2)
 
-[^key-b2eec19dc7a5575befe590ec4da71443]: Textual amendment: Sch. 7AC para. 35 omitted (with effect in accordance with s. 37(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2010/13/section/37/2)
+[^c-b2eec19dc7a5575befe590ec4da71443]: Textual amendment: Sch. 7AC para. 35 omitted (with effect in accordance with s. 37(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 37(2)](https://www.legislation.gov.uk/ukpga/2010/13/section/37/2)

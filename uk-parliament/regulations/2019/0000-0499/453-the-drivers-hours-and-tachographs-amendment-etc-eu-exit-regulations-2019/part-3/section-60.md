@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60.[^key-7f79c32fc9ccef6ddfab02f69fafceff]
+## 60.[^c-7f79c32fc9ccef6ddfab02f69fafceff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 5(2) omit the words from “However” to the end.
 
 ## Annotations
 
-[^key-7f79c32fc9ccef6ddfab02f69fafceff]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7f79c32fc9ccef6ddfab02f69fafceff]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)

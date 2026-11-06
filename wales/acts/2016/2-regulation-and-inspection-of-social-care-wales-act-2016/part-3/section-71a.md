@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Provision of information – specified state professionals[^key-ed11c5e080c9c5cc9e4ab06533527ca7]
+## 71A. Provision of information – specified state professionals[^c-ed11c5e080c9c5cc9e4ab06533527ca7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed11c5e080c9c5cc9e4ab06533527ca7]: Textual amendment: S. 71A inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [4](https://www.legislation.gov.uk/wsi/2026/24/regulation/4)
+[^c-ed11c5e080c9c5cc9e4ab06533527ca7]: Textual amendment: S. 71A inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [4](https://www.legislation.gov.uk/wsi/2026/24/regulation/4)

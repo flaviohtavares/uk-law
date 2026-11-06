@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 403A. Acquisition of land by the Authority and TfL for shared purposes[^key-e00f5c3835c3cf4aff9169b59bbe8cbc]
+## 403A. Acquisition of land by the Authority and TfL for shared purposes[^c-e00f5c3835c3cf4aff9169b59bbe8cbc]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ would be advanced by one or both of them acquiring land for a joint project.
 
 ## Annotations
 
-[^key-e00f5c3835c3cf4aff9169b59bbe8cbc]: Textual amendment: Ss. 403A, 403B and cross-heading inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
+[^c-e00f5c3835c3cf4aff9169b59bbe8cbc]: Textual amendment: Ss. 403A, 403B and cross-heading inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)

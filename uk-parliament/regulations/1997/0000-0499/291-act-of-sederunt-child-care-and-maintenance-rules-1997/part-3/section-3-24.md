@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.24. Exclusion of certain enactments[^key-63b4e01f32d30c28d5f6d71aa7445aaa]
+## 3.24. Exclusion of certain enactments[^c-63b4e01f32d30c28d5f6d71aa7445aaa]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The enactments specified in column (1) of Schedule 3 to this Act of Sederunt (be
 
 ## Annotations
 
-[^key-63b4e01f32d30c28d5f6d71aa7445aaa]: Commencement: Rule 3.24 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-63b4e01f32d30c28d5f6d71aa7445aaa]: Commencement: Rule 3.24 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

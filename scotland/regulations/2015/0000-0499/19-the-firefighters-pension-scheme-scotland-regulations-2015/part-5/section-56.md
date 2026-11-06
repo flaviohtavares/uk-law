@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Application of Part[^key-fb6d2a5aaee518d21d430102dfb1dd59]
+## 56. Application of Part[^c-fb6d2a5aaee518d21d430102dfb1dd59]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Part applies in relation to retirement benefits payable in respect of a con
 
 ## Annotations
 
-[^key-fb6d2a5aaee518d21d430102dfb1dd59]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2015/19/regulation/56) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-fb6d2a5aaee518d21d430102dfb1dd59]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2015/19/regulation/56) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

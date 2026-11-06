@@ -74,7 +74,7 @@ The governing body of the institution may by agreement enter on, take, and use a
 - (a) It shall not in itself, or in addition to any land conveyed under this Act by the same person, comprise more than two acres in the whole in any one county, city, or borough:
 - (b) It shall be made either with the consent of the person, if any, entitled to the next estate of freehold in remainder for the time being, or with the approval of the High Court of Justice.
 
-(2) Every application to the Court for an Order approving a conveyance under this Act shall be by summons in chambers, and shall, subject to the Acts regulating the Court, be assigned to the Business and Property Division[^key-54d141c720dd337d89de8a25f5678c56].
+(2) Every application to the Court for an Order approving a conveyance under this Act shall be by summons in chambers, and shall, subject to the Acts regulating the Court, be assigned to the Business and Property Division[^c-54d141c720dd337d89de8a25f5678c56].
 
 (3) On any such application the Court may direct notice to be served on such persons, if any, as it thinks fit.
 
@@ -86,7 +86,7 @@ Every institution for which land has been acquired under an exercise of the powe
 
 ## 9. Site may be sold or exchanged.
 
-(1) Land acquired under the powers of this Act shall not be used otherwise than for the purposes of an institution within the meaning of this Act, but, with the consent of the Charity Commission or in accordance with such provisions of sections 117(2) and 119 to 121 of the Charities Act 2011 as are applicable[^key-87886cdbc397e345354a0365b6874a63] , may be sold or may be exchanged for other land.
+(1) Land acquired under the powers of this Act shall not be used otherwise than for the purposes of an institution within the meaning of this Act, but, with the consent of the Charity Commission or in accordance with such provisions of sections 117(2) and 119 to 121 of the Charities Act 2011 as are applicable[^c-87886cdbc397e345354a0365b6874a63] , may be sold or may be exchanged for other land.
 
 (2) The governing body or their trustees may execute conveyances and do all acts necessary to effectuate a sale or exchange.
 
@@ -119,9 +119,9 @@ This Act shall not extend to Scotland.
 
 [^c575280]: Marginal citation: [1860 c. 106](https://www.legislation.gov.uk/ukpga/1860/106).
 
-[^key-54d141c720dd337d89de8a25f5678c56]: Textual amendment: Words in s. 7(2) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/5)
+[^c-54d141c720dd337d89de8a25f5678c56]: Textual amendment: Words in s. 7(2) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/5)
 
-[^key-87886cdbc397e345354a0365b6874a63]: Textual amendment: Words in s. 9(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/7) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-87886cdbc397e345354a0365b6874a63]: Textual amendment: Words in s. 9(1) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/7) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c575281]: Textual amendment: S. 9(5)(6) substituted (1.2.2001) for s. 9(5) by [2000 c. 29](https://www.legislation.gov.uk/ukpga/2000/29), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2000/29/section/40/1), [Sch. 2 Pt. II para. 4](https://www.legislation.gov.uk/ukpga/2000/29/schedule/2/part/II/paragraph/4) (with [s. 35](https://www.legislation.gov.uk/ukpga/2000/29/section/35)); [S.I. 2001/49](https://www.legislation.gov.uk/uksi/2001/49), [art. 2](https://www.legislation.gov.uk/uksi/2001/49/article/2)
 

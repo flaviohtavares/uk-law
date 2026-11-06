@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Postponement of scheme in part[^key-b49219fd795d5a3f0117178783176efd]
+## 28. Postponement of scheme in part[^c-b49219fd795d5a3f0117178783176efd]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 128 of the TA 2000 (postponement of scheme) in subsection (1)—
 
 ## Annotations
 
-[^key-b49219fd795d5a3f0117178783176efd]: Commencement: S. 28 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-b49219fd795d5a3f0117178783176efd]: Commencement: S. 28 in force at 11.1.2010 for E. by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

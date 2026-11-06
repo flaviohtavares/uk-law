@@ -35,20 +35,20 @@ concerning the renewal of the authorisation of the preparation of *Saccharomyces
 
 (Text with EEA relevance) (revoked)
 
-[^key-8744f9c6a5873485552aeb1e2cf73847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8744f9c6a5873485552aeb1e2cf73847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-8744f9c6a5873485552aeb1e2cf73847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8744f9c6a5873485552aeb1e2cf73847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8744f9c6a5873485552aeb1e2cf73847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8744f9c6a5873485552aeb1e2cf73847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-8744f9c6a5873485552aeb1e2cf73847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-8744f9c6a5873485552aeb1e2cf73847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8744f9c6a5873485552aeb1e2cf73847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8744f9c6a5873485552aeb1e2cf73847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-8744f9c6a5873485552aeb1e2cf73847]
+## ANNEX[^c-8744f9c6a5873485552aeb1e2cf73847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8744f9c6a5873485552aeb1e2cf73847]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 375](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/375) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-8744f9c6a5873485552aeb1e2cf73847]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 375](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/375) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

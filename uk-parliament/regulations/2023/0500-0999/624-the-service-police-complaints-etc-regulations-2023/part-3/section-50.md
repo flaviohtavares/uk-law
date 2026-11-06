@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Special procedure: representations to the person investigating[^key-d5b2b2cead21fe1052a0ad364cc71cea]
+## 50. Special procedure: representations to the person investigating[^c-d5b2b2cead21fe1052a0ad364cc71cea]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the person concerned provides the person investigating the complaint or matter w
 
 ## Annotations
 
-[^key-d5b2b2cead21fe1052a0ad364cc71cea]: Commencement: Reg. 50 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-d5b2b2cead21fe1052a0ad364cc71cea]: Commencement: Reg. 50 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

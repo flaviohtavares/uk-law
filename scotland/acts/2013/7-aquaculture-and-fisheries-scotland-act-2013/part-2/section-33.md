@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Offences exempted by permission or consent: power to attach conditions, etc.[^key-ed94cf890f15c0f2f06ede5a74f9d64d]
+## 33. Offences exempted by permission or consent: power to attach conditions, etc.[^c-ed94cf890f15c0f2f06ede5a74f9d64d]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed94cf890f15c0f2f06ede5a74f9d64d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/7/section/33) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-ed94cf890f15c0f2f06ede5a74f9d64d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2013/7/section/33) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

@@ -35,18 +35,18 @@ amending Implementing Decision 2013/780/EU providing for a derogation from Artic
 
 *(notified under document C(2016) 7181)* (revoked)
 
-[^key-2c106bbee51f688d6a380db145305c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c106bbee51f688d6a380db145305c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendment of Implementing Decision 2013/780/EU[^key-2c106bbee51f688d6a380db145305c36]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Addressees[^key-2c106bbee51f688d6a380db145305c36]
+## Article 1. Amendment of Implementing Decision 2013/780/EU[^c-2c106bbee51f688d6a380db145305c36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c106bbee51f688d6a380db145305c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 2. Addressees[^c-2c106bbee51f688d6a380db145305c36]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2c106bbee51f688d6a380db145305c36]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c106bbee51f688d6a380db145305c36]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/25) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-2c106bbee51f688d6a380db145305c36]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/25) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

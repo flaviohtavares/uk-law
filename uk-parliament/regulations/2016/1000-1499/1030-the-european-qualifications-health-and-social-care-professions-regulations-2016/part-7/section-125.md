@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Amendment of section 79 (Welsh text)[^key-af76a601cfa2ab419ac97e3b7927605d]
+## 125. Amendment of section 79 (Welsh text)[^c-af76a601cfa2ab419ac97e3b7927605d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af76a601cfa2ab419ac97e3b7927605d]: Commencement: Reg. 125 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-af76a601cfa2ab419ac97e3b7927605d]: Commencement: Reg. 125 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

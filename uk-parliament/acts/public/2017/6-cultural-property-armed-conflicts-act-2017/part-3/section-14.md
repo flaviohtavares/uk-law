@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Forfeiture following conviction under section 9[^key-eb3f76402135bbf66786a70ac89f13c5]
+## 14. Forfeiture following conviction under section 9[^c-eb3f76402135bbf66786a70ac89f13c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb3f76402135bbf66786a70ac89f13c5]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/6/section/14) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-eb3f76402135bbf66786a70ac89f13c5]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/6/section/14) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

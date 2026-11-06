@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Grant of full operating licence[^key-d1fe4fda5b6d689c16be43d8c82bb803][^key-283985d568560adfb636a81bb8f9c9b1]
+## 18. Grant of full operating licence[^c-d1fe4fda5b6d689c16be43d8c82bb803][^c-283985d568560adfb636a81bb8f9c9b1]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ and must have regard to any representations which are duly made.
 
 ## Annotations
 
-[^key-d1fe4fda5b6d689c16be43d8c82bb803]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-d1fe4fda5b6d689c16be43d8c82bb803]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-283985d568560adfb636a81bb8f9c9b1]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/21/section/18) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/iv)
+[^c-283985d568560adfb636a81bb8f9c9b1]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/21/section/18) in force at 1.11.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 3(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/3/1/a/iv)

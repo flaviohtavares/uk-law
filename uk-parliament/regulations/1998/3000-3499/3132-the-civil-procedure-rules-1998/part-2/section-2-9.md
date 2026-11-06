@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.9. Dates for compliance to be calendar dates and to include time of day[^key-949803675b547899101ed26e5f2af846]
+## 2.9. Dates for compliance to be calendar dates and to include time of day[^c-949803675b547899101ed26e5f2af846]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-949803675b547899101ed26e5f2af846]: Commencement: [Rule 2.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-949803675b547899101ed26e5f2af846]: Commencement: [Rule 2.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

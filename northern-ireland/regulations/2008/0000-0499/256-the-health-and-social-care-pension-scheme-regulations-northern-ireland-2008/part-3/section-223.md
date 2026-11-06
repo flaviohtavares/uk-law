@@ -32,14 +32,14 @@ summary: ''
 
 (3) Paragraph (4) applies if—
 
-- (a) disciplinary or court proceedings against the member are begun within 12 months after the member leaves the employment which qualified the member to belong to this Section of[^key-8c36705c554744db9799f24915157d3b] the Scheme, and
+- (a) disciplinary or court proceedings against the member are begun within 12 months after the member leaves the employment which qualified the member to belong to this Section of[^c-8c36705c554744db9799f24915157d3b] the Scheme, and
 - (b) it appears to the Department that the proceedings may lead to all or part of the member's benefits being forfeited under regulation 254 (forfeiture of rights to benefit).
 
 (4) The Department may defer doing what is needed to carry out what the member requires until the end of the period of 3 months beginning with the date on which those proceedings (including any proceedings on appeal) are concluded.
 
 (5) In any case where a direction is given under regulation 254 for the forfeiture of a member's benefits, this regulation applies as if the amount specified in the statement of entitlement were reduced by an amount equal to the value of the benefits forfeited, as determined by the Scheme actuary.
 
-(6) In respect of an applicant who falls within regulation 220(4)[^key-05857925394a0dec4c7e9950ff8e47cd] —
+(6) In respect of an applicant who falls within regulation 220(4)[^c-05857925394a0dec4c7e9950ff8e47cd] —
 
 - (a) in the case of an application that requires the guaranteed cash equivalent transfer value payment to be made to a registered occupational pension scheme or a registered personal pension scheme, an application under paragraph (1) may only be made if—
   - (i) the applicant became a member of that scheme not later than the end of the period of 12 months beginning with the day after the date on which member ceased to be in the pensionable service in which the rights accrued (“the leaving date”), and
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c36705c554744db9799f24915157d3b]: Textual amendment: Words in [reg. 223(3)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/223/3/a) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-8c36705c554744db9799f24915157d3b]: Textual amendment: Words in [reg. 223(3)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/223/3/a) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-05857925394a0dec4c7e9950ff8e47cd]: Textual amendment: Words in [reg. 223(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/223/6) substituted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2015/121/regulation/38)
+[^c-05857925394a0dec4c7e9950ff8e47cd]: Textual amendment: Words in [reg. 223(6)](https://www.legislation.gov.uk/nisr/2008/256/regulation/223/6) substituted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [38](https://www.legislation.gov.uk/nisr/2015/121/regulation/38)

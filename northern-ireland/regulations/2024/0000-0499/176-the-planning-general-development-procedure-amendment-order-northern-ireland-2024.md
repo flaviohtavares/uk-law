@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure makes the following Order in exercise of the powers conferred by sections 32, 40(1), and 247(6) of the Planning Act (Northern Ireland) 2011[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-551056cc0b69685e9a8f21835e87dd43]
+## 1. Citation and commencement[^c-551056cc0b69685e9a8f21835e87dd43]
 
 This Order may be cited as the Planning (General Development Procedure) (Amendment) Order (Northern Ireland) 2024 and shall come into operation on 1st April 2025.
 
-## 2. Amendment of the Planning (General Development Procedure) Order (Northern Ireland) 2015[^key-3e62897bde03c66e8cd001a6f41225e1]
+## 2. Amendment of the Planning (General Development Procedure) Order (Northern Ireland) 2015[^c-3e62897bde03c66e8cd001a6f41225e1]
 
 (1) The Planning (General Development Procedure) Order (Northern Ireland) 2015[^f00003] is amended in accordance with paragraphs (2) to (9).
 
@@ -183,8 +183,8 @@ The Explanatory Memorandum is available alongside the instrument on the Governme
 
 [^f00002]: Footnote: [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76) – see Article 8 and Part 2 of Schedule 5 of the Departments (Transfer of Functions) Order (Northern Ireland) 2016
 
-[^key-551056cc0b69685e9a8f21835e87dd43]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1) in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1)
+[^c-551056cc0b69685e9a8f21835e87dd43]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1) in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1)
 
-[^key-3e62897bde03c66e8cd001a6f41225e1]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/176/article/2) in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1)
+[^c-3e62897bde03c66e8cd001a6f41225e1]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2024/176/article/2) in operation at 1.4.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2024/176/article/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 72](https://www.legislation.gov.uk/nisr/2015/72)

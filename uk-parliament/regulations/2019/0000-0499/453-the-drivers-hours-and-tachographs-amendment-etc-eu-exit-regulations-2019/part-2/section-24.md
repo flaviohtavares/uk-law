@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Motor Vehicles (Tests) Regulations 1981[^key-50e35317508f10bbcc54693f42b10168]
+## 24. Motor Vehicles (Tests) Regulations 1981[^c-50e35317508f10bbcc54693f42b10168]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50e35317508f10bbcc54693f42b10168]: Commencement: Reg. 24 in force at 26.3.2019, see reg. 1(2)
+[^c-50e35317508f10bbcc54693f42b10168]: Commencement: Reg. 24 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620831]: Marginal citation: [S.I. 1981/1694](https://www.legislation.gov.uk/uksi/1981/1694), amended by [S.I. 1991/1525](https://www.legislation.gov.uk/uksi/1991/1525), 1998/1672, 2003/1698. There are other amendments which are not relevant to these Regulations.

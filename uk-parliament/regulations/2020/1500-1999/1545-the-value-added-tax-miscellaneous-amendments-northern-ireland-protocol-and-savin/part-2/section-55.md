@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Part 13 (Place of supply)[^key-0328b9ffa964d9d1c8613582a16d38e6]
+## 55. Part 13 (Place of supply)[^c-0328b9ffa964d9d1c8613582a16d38e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 98 [^c24395241] (distance sales from the United Kingdom)—
 
 ## Annotations
 
-[^key-0328b9ffa964d9d1c8613582a16d38e6]: Commencement: Reg. 55 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-0328b9ffa964d9d1c8613582a16d38e6]: Commencement: Reg. 55 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395241]: Marginal citation: Regulation 98 was omitted by [S.I. 2019/59](https://www.legislation.gov.uk/uksi/2019/59) but that provision is not yet in force and is omitted by this instrument.

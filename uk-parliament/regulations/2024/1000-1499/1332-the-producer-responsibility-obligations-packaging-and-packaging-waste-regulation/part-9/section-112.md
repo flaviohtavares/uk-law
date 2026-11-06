@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Powers of entry etc: England, Wales and Scotland[^key-236ec7bdb3f7465ca8b124cee44942cb]
+## 112. Powers of entry etc: England, Wales and Scotland[^c-236ec7bdb3f7465ca8b124cee44942cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-236ec7bdb3f7465ca8b124cee44942cb]: Commencement: Reg. 112 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-236ec7bdb3f7465ca8b124cee44942cb]: Commencement: Reg. 112 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00068]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25). Section 108 has been amended in relation to England and Wales by paragraph 5 of Schedule 10 to the Environment Act [2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30) and [S.I. 2016/475](https://www.legislation.gov.uk/uksi/2016/475), and in relation to Scotland by section 46(2) of the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3). There are other amendments to section 108 which are not relevant. Section 108A was inserted by section 46(3) of the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3).

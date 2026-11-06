@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 40
 
-### 1. The National Health Service (Service Committees and Tribunal) Regulations 1992[^key-3ed3521f5d4f082e5342490ba5992861]
+### 1. The National Health Service (Service Committees and Tribunal) Regulations 1992[^c-3ed3521f5d4f082e5342490ba5992861]
 
 (1) The National Health Service (Service Committees and Tribunal) Regulations 1992[^f00066] are amended as follows.
 
@@ -56,7 +56,7 @@ Regulation 40
 
 (5) In regulation 20(3) (power of Local Representative Committees to consider complaints), for “general ophthalmic services” substitute “primary ophthalmic services or other ophthalmic services pursuant to arrangements with Local Health Boards under the National Health Service (Wales) Act 2006”.
 
-### 2. The National Health Service Pension Scheme Regulations 1995[^key-2c8ebe9d67dc74f5265775acf312c261]
+### 2. The National Health Service Pension Scheme Regulations 1995[^c-2c8ebe9d67dc74f5265775acf312c261]
 
 (1) The National Health Service Pension Scheme Regulations 1995[^f00067] are amended as follows.
 
@@ -66,7 +66,7 @@ Regulation 40
 
 .
 
-### 3. The National Health Service (Optical Charges and Payments) Regulations 1997[^key-472348b37a3ae34015d0177b744781b2]
+### 3. The National Health Service (Optical Charges and Payments) Regulations 1997[^c-472348b37a3ae34015d0177b744781b2]
 
 (1) The National Health Service (Optical Charges and Payments) Regulations 1997[^f00068] are amended as follows.
 
@@ -90,7 +90,7 @@ Regulation 40
 
 (3) In regulation 9(1) (issue of vouchers by ophthalmic medical practitioners or opticians), in the words after paragraph (b) omit “paragraph 10(1) of Schedule 1 of”.
 
-### 4. The National Health Service Pension Scheme Regulations 2008[^key-ca01f8286cf3eaf6dcf4a148c063ff21]
+### 4. The National Health Service Pension Scheme Regulations 2008[^c-ca01f8286cf3eaf6dcf4a148c063ff21]
 
 (1) The National Health Service Pension Scheme Regulations 2008[^f00069] are amended as follows.
 
@@ -106,7 +106,7 @@ Regulation 40
 
 .
 
-### 5. The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^key-a19adfece2ba3aa6eadbebce6d5faed8]
+### 5. The National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^c-a19adfece2ba3aa6eadbebce6d5faed8]
 
 (1) Regulation 2(1) of the National Health Service (Concerns, Complaints and Redress Arrangements) (Wales) Regulations 2011[^f00070] is amended as follows.
 
@@ -128,7 +128,7 @@ Regulation 40
 
 .
 
-### 6. The Safeguarding Vulnerable Groups Act 2006 (Miscellaneous Provisions) Order 2012[^key-f1454eb9ff3a247dfc9b1a355631204a]
+### 6. The Safeguarding Vulnerable Groups Act 2006 (Miscellaneous Provisions) Order 2012[^c-f1454eb9ff3a247dfc9b1a355631204a]
 
 (1) Article 5 of the Safeguarding Vulnerable Groups Act 2006 (Miscellaneous Provisions) Order 2012[^f00071] is amended as follows.
 
@@ -140,7 +140,7 @@ Regulation 40
 
 (3) In paragraph (b), in the definition of “mobile services”, for “National Health Service (General Ophthalmic Services) Regulations 1986” substitute “National Health Service (Ophthalmic Services) (Wales) Regulations 2023”.
 
-### 7. The National Health Service Pension Scheme Regulations 2015[^key-4f807f317ed145fbfefa2d60592a6809]
+### 7. The National Health Service Pension Scheme Regulations 2015[^c-4f807f317ed145fbfefa2d60592a6809]
 
 (1) Regulation 166(10) (medical practitioner) of the National Health Service Pension Scheme Regulations 2015[^f00072] is amended as follows.
 
@@ -152,30 +152,30 @@ Regulation 40
 
 ## Annotations
 
-[^key-3ed3521f5d4f082e5342490ba5992861]: Commencement: Sch. 6 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-3ed3521f5d4f082e5342490ba5992861]: Commencement: Sch. 6 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00066]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664).
 
-[^key-2c8ebe9d67dc74f5265775acf312c261]: Commencement: Sch. 6 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-2c8ebe9d67dc74f5265775acf312c261]: Commencement: Sch. 6 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00067]: Footnote: [S.I. 1995/300](https://www.legislation.gov.uk/uksi/1995/300).
 
-[^key-472348b37a3ae34015d0177b744781b2]: Commencement: Sch. 6 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-472348b37a3ae34015d0177b744781b2]: Commencement: Sch. 6 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00068]: Footnote: [S.I. 1997/818](https://www.legislation.gov.uk/uksi/1997/818).
 
-[^key-ca01f8286cf3eaf6dcf4a148c063ff21]: Commencement: Sch. 6 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-ca01f8286cf3eaf6dcf4a148c063ff21]: Commencement: Sch. 6 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00069]: Footnote: [S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653).
 
-[^key-a19adfece2ba3aa6eadbebce6d5faed8]: Commencement: Sch. 6 para. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-a19adfece2ba3aa6eadbebce6d5faed8]: Commencement: Sch. 6 para. 5 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00070]: Footnote: [S.I. 2011/704 (W. 108)](https://www.legislation.gov.uk/wsi/2011/704).
 
-[^key-f1454eb9ff3a247dfc9b1a355631204a]: Commencement: Sch. 6 para. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-f1454eb9ff3a247dfc9b1a355631204a]: Commencement: Sch. 6 para. 6 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00071]: Footnote: [S.I. 2012/2113](https://www.legislation.gov.uk/uksi/2012/2113).
 
-[^key-4f807f317ed145fbfefa2d60592a6809]: Commencement: Sch. 6 para. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-4f807f317ed145fbfefa2d60592a6809]: Commencement: Sch. 6 para. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00072]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94).

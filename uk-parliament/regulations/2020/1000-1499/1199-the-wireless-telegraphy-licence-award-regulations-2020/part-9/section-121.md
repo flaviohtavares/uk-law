@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Completion of the award process[^key-cc5efedd4fcf4bbff1515b181c35ab12]
+## 121. Completion of the award process[^c-cc5efedd4fcf4bbff1515b181c35ab12]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ OFCOM shall complete the award process by publishing on OFCOM's website—
 
 ## Annotations
 
-[^key-cc5efedd4fcf4bbff1515b181c35ab12]: Commencement: Reg. 121 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-cc5efedd4fcf4bbff1515b181c35ab12]: Commencement: Reg. 121 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

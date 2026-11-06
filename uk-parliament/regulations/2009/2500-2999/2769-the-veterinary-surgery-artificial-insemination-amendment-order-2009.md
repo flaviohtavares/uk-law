@@ -32,7 +32,7 @@ summary: ''
 
 Veterinary Surgeons
 
-The Veterinary Surgery (Artificial Insemination) (Amendment) Order 2009 (revoked)[^key-d31a9b8226234da8eee90e289aad15f8]
+The Veterinary Surgery (Artificial Insemination) (Amendment) Order 2009 (revoked)[^c-d31a9b8226234da8eee90e289aad15f8]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 9th November 2009
 
-[^key-d31a9b8226234da8eee90e289aad15f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d31a9b8226234da8eee90e289aad15f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-d31a9b8226234da8eee90e289aad15f8]
+## 1. Title and commencement[^c-d31a9b8226234da8eee90e289aad15f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Veterinary Surgery (Artificial Insemination) Order 2007[^key-d31a9b8226234da8eee90e289aad15f8]
+## 2. Amendments to the Veterinary Surgery (Artificial Insemination) Order 2007[^c-d31a9b8226234da8eee90e289aad15f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d31a9b8226234da8eee90e289aad15f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d31a9b8226234da8eee90e289aad15f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d31a9b8226234da8eee90e289aad15f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d31a9b8226234da8eee90e289aad15f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d31a9b8226234da8eee90e289aad15f8]: Textual amendment: Order revoked (14.9.2010) by [The Veterinary Surgery (Artificial Insemination) Order 2010 (S.I. 2010/2059)](https://www.legislation.gov.uk/uksi/2010/2059), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/c), [2](https://www.legislation.gov.uk/uksi/2010/2059/article/2)
+[^c-d31a9b8226234da8eee90e289aad15f8]: Textual amendment: Order revoked (14.9.2010) by [The Veterinary Surgery (Artificial Insemination) Order 2010 (S.I. 2010/2059)](https://www.legislation.gov.uk/uksi/2010/2059), [arts. 1(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/c), [2](https://www.legislation.gov.uk/uksi/2010/2059/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — Special measures for the control of Potato wart disease[^key-beb16187072957edd1166bcde92be6a9]
+## SCHEDULE 13 — Special measures for the control of Potato wart disease[^c-beb16187072957edd1166bcde92be6a9]
 
 *Extent: E+W*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Article 39(3)
 
-**1.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-beb16187072957edd1166bcde92be6a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))
+[^c-beb16187072957edd1166bcde92be6a9]: Textual amendment: Order revoked (27.3.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (Wales) Regulations 2020 (S.I. 2020/206)](https://www.legislation.gov.uk/wsi/2020/206), [reg. 1](https://www.legislation.gov.uk/wsi/2020/206/regulation/1), [Sch. 6](https://www.legislation.gov.uk/wsi/2020/206/schedule/6) (with [regs. 51-54](https://www.legislation.gov.uk/wsi/2020/206/regulation/51))

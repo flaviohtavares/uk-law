@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Apparatus and rights of statutory undertakers in stopped up streets[^key-c13e7e3bae4a1085da6517b6a4afcb48]
+## 32. Apparatus and rights of statutory undertakers in stopped up streets[^c-c13e7e3bae4a1085da6517b6a4afcb48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-c13e7e3bae4a1085da6517b6a4afcb48]: Commencement: Art. 32 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-c13e7e3bae4a1085da6517b6a4afcb48]: Commencement: Art. 32 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

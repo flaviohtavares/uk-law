@@ -31,7 +31,7 @@ summary: ''
 - (e) from a decree absolute for the dissolution or nullity of marriage by a party aggrieved thereby who, having had time and the opportunity to appeal from the decree nisi on which the decree absolute was founded, has not appealed from that decree nisi;
 - (ea)[^c20741381] from a dissolution order or nullity order[^c20741891] under Chapter 2 of Part 4 of the Civil Partnership Act 2004 that has been made final, by a party who, having had time and the opportunity to appeal from the conditional order on which the final order was founded, has not appealed from that conditional order;
 - (f) without the leave of the court or judge making the order, from an order of the High Court or a judge thereof made with the consent of the parties or as to costs only;
-- (fa)[^key-38cc9b7f58584814b3bcac896273a6b4] from a decision of the High Court under Part 1 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) in a case where that Part makes provision about appeals from the decision, except in accordance with that provision;
+- (fa)[^c-38cc9b7f58584814b3bcac896273a6b4] from a decision of the High Court under Part 1 of the [Arbitration Act 1996](https://www.legislation.gov.uk/ukpga/1996/23) in a case where that Part makes provision about appeals from the decision, except in accordance with that provision;
 - (g) without the leave of the judge or of the Court of Appeal, from any interlocutory order or judgment made or given by a judge of the High Court, except in the following cases namely:—
   - (i) where the liberty of the subject or the residence of, or contact with,[^c13725411] minors is concerned;
   - (ii) where an injunction or the appointment of a receiver is granted or refused;
@@ -57,7 +57,7 @@ summary: ''
 
 [^c20741891]: Textual amendment: Words in s. 35(2)(ea) substituted (N.I.) (9.11.2009) by [Presumption of Death Act (Northern Ireland) 2009 (c. 6 (N.I.))](https://www.legislation.gov.uk/nia/2009/6), [ss. 19(1)](https://www.legislation.gov.uk/nia/2009/6/section/19/1), [20(2)](https://www.legislation.gov.uk/nia/2009/6/section/20/2), [Sch. 2](https://www.legislation.gov.uk/nia/2009/6/schedule/2); [S.R. 2009/356](https://www.legislation.gov.uk/nisr/2009/356), [art. 2](https://www.legislation.gov.uk/nisr/2009/356/article/2)
 
-[^key-38cc9b7f58584814b3bcac896273a6b4]: Textual amendment: S. 35(2)(fa) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/13/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-38cc9b7f58584814b3bcac896273a6b4]: Textual amendment: S. 35(2)(fa) substituted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/13/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
 
 [^c13725411]: Textual amendment: S. 35(2)(g)(i) amended (4.11.1996) by [S.I. 1995/755](https://www.legislation.gov.uk/uksi/1995/755)(N.I. 2) art. 185(1), Sch. 9, para. 92; S.R. 96/297, art. 2(2)
 

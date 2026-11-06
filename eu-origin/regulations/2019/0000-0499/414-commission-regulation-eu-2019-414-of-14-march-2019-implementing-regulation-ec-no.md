@@ -35,43 +35,43 @@ implementing Regulation (EC) No 1177/2003 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1dc3e7137be8c9f448b99974b7ba5d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1dc3e7137be8c9f448b99974b7ba5d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1dc3e7137be8c9f448b99974b7ba5d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1dc3e7137be8c9f448b99974b7ba5d46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-1dc3e7137be8c9f448b99974b7ba5d46]
+## ANNEX[^c-1dc3e7137be8c9f448b99974b7ba5d46]
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]
 
 The target secondary variables and identifiers for the 2020 module on over-indebtedness, consumption and wealth as well as labour — part of the cross-sectional component of European Union Statistics on Income and Living Conditions (EU-SILC) — shall be as follows:
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]1.
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]1.
 
 **Units**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]2.
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]2.
 
 **Mode of data collection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]3.
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]3.
 
 **Reference period**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]4.
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]4.
 
 **Data transmission**
 
@@ -79,4 +79,4 @@ The target secondary variables and identifiers for the 2020 module on over-indeb
 
 ## Annotations
 
-[^key-1dc3e7137be8c9f448b99974b7ba5d46]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 105](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/105)
+[^c-1dc3e7137be8c9f448b99974b7ba5d46]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 105](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/105)

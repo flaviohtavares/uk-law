@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Consultations about regulations.[^key-07f5f191cfc3e58bb633df362563aca3][^key-6facebd63d9b0d0c6358d77c0227751f]
+## 120. Consultations about regulations.[^c-07f5f191cfc3e58bb633df362563aca3][^c-6facebd63d9b0d0c6358d77c0227751f]
 
 *Extent: E+W+S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07f5f191cfc3e58bb633df362563aca3]: Commencement: S. 120 in force at 4.12.1995 for specified purposes and 1.1.1996 for specified purposes by [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), [art. 2(2)](https://www.legislation.gov.uk/uksi/1995/3104/article/2/2)
+[^c-07f5f191cfc3e58bb633df362563aca3]: Commencement: S. 120 in force at 4.12.1995 for specified purposes and 1.1.1996 for specified purposes by [S.I. 1995/3104](https://www.legislation.gov.uk/uksi/1995/3104), [art. 2(2)](https://www.legislation.gov.uk/uksi/1995/3104/article/2/2)
 
-[^key-6facebd63d9b0d0c6358d77c0227751f]: Commencement: S. 120 in force at 6.4.1996 in so far as not already in force by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
+[^c-6facebd63d9b0d0c6358d77c0227751f]: Commencement: S. 120 in force at 6.4.1996 in so far as not already in force by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)

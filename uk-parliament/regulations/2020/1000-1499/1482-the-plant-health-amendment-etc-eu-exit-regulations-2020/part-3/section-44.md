@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Commission Decision [2005/51/EC](https://www.legislation.gov.uk/eud/2005/51) authorising Member States temporarily to provide for derogations from certain provisions of Council Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29) in respect of the importation of soil contaminated by pesticides or persistent organic pollutants for decontamination purposes[^key-b49017550349ff5291dbde6dfb1ac883]
+## 44. Commission Decision [2005/51/EC](https://www.legislation.gov.uk/eud/2005/51) authorising Member States temporarily to provide for derogations from certain provisions of Council Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29) in respect of the importation of soil contaminated by pesticides or persistent organic pollutants for decontamination purposes[^c-b49017550349ff5291dbde6dfb1ac883]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b49017550349ff5291dbde6dfb1ac883]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-b49017550349ff5291dbde6dfb1ac883]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
 
 [^c24375181]: Marginal citation: EUDN 2005/51.
 

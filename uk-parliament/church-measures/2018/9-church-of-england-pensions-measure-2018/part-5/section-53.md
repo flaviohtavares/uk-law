@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England.
 
-## 53. Power to make further provision by regulations[^key-cc939385e5930ad7e98b086948f1e5d8]
+## 53. Power to make further provision by regulations[^c-cc939385e5930ad7e98b086948f1e5d8]
 
 *Extent: E*
 
 (1) Regulations may make further or different provision about—
 
-- (a) a pension or lump sum payment for or in respect of a clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^key-ecd615fb070f7cc882a742c1e012dc35];
-- (b) a pension for the surviving spouse or civil partner or for a child or dependant of a clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^key-f7e8810d7b3c8ee4b6fdc317ee0c559b];
-- (c) a residence for a retired clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^key-6799eba1894874f0ed6f0b2c7ffd2857] and for his or her spouse or civil partner;
-- (d) a residence for the surviving spouse or civil partner or child or dependant of a retired clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^key-92a69d14846a870ecc5117b4fa235f1a].
+- (a) a pension or lump sum payment for or in respect of a clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^c-ecd615fb070f7cc882a742c1e012dc35];
+- (b) a pension for the surviving spouse or civil partner or for a child or dependant of a clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^c-f7e8810d7b3c8ee4b6fdc317ee0c559b];
+- (c) a residence for a retired clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^c-6799eba1894874f0ed6f0b2c7ffd2857] and for his or her spouse or civil partner;
+- (d) a residence for the surviving spouse or civil partner or child or dependant of a retired clerk, deaconess, licensed lay worker , church worker or lay residentiary canon[^c-92a69d14846a870ecc5117b4fa235f1a].
 
 (2) Regulations may make further or different provision about—
 
@@ -36,7 +36,7 @@ summary: ''
 - (e) disqualification from membership of, or removal from, the Board;
 - (f) filling casual vacancies in the membership of the Board.
 
-(3) But regulations may not make provision under subsection (2) the effect of which would be that the membership of the Board did not include at least four[^key-0212679ab8d1d946eaf5c120c80d0680] persons each of whom is a representative of a pension scheme administered by the Board.
+(3) But regulations may not make provision under subsection (2) the effect of which would be that the membership of the Board did not include at least four[^c-0212679ab8d1d946eaf5c120c80d0680] persons each of whom is a representative of a pension scheme administered by the Board.
 
 (4) Regulations may make further or different provision about—
 
@@ -65,14 +65,14 @@ summary: ''
 
 ## Annotations
 
-[^key-cc939385e5930ad7e98b086948f1e5d8]: Commencement: S. 53 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-cc939385e5930ad7e98b086948f1e5d8]: Commencement: S. 53 in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
-[^key-ecd615fb070f7cc882a742c1e012dc35]: Textual amendment: Words in [s. 53(1)(a)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/a) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
+[^c-ecd615fb070f7cc882a742c1e012dc35]: Textual amendment: Words in [s. 53(1)(a)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/a) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
 
-[^key-f7e8810d7b3c8ee4b6fdc317ee0c559b]: Textual amendment: Words in [s. 53(1)(b)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/b) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
+[^c-f7e8810d7b3c8ee4b6fdc317ee0c559b]: Textual amendment: Words in [s. 53(1)(b)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/b) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
 
-[^key-6799eba1894874f0ed6f0b2c7ffd2857]: Textual amendment: Words in [s. 53(1)(c)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/c) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
+[^c-6799eba1894874f0ed6f0b2c7ffd2857]: Textual amendment: Words in [s. 53(1)(c)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/c) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
 
-[^key-92a69d14846a870ecc5117b4fa235f1a]: Textual amendment: Words in [s. 53(1)(d)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/d) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
+[^c-92a69d14846a870ecc5117b4fa235f1a]: Textual amendment: Words in [s. 53(1)(d)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/1/d) substituted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/13)
 
-[^key-0212679ab8d1d946eaf5c120c80d0680]: Textual amendment: Word in [s. 53(3)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/3) substituted (1.7.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/554/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/554/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2021/554/article/7))
+[^c-0212679ab8d1d946eaf5c120c80d0680]: Textual amendment: Word in [s. 53(3)](https://www.legislation.gov.uk/ukcm/2018/9/section/53/3) substituted (1.7.2021) by [The Legislative Reform (Church of England Pensions) Order 2021 (S.I. 2021/554)](https://www.legislation.gov.uk/uksi/2021/554), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/554/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/554/article/2/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2021/554/article/7))

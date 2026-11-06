@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. District salmon fishery boards[^key-1b0a2f65af244c95c15e8276e4b2e16d]
+## 43. District salmon fishery boards[^c-1b0a2f65af244c95c15e8276e4b2e16d]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ that committee shall be the district salmon fishery board for that district; and
 
 ## Annotations
 
-[^key-1b0a2f65af244c95c15e8276e4b2e16d]: Commencement: S. 43 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-1b0a2f65af244c95c15e8276e4b2e16d]: Commencement: S. 43 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

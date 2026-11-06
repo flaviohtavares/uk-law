@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64B. Reports by the Police Remuneration Review Body[^key-6354f1de89c5bc1b01f223478287c600]
+## 64B. Reports by the Police Remuneration Review Body[^c-6354f1de89c5bc1b01f223478287c600]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ as regards members of the Police Service of Northern Ireland of or below the ran
 
 ## Annotations
 
-[^key-6354f1de89c5bc1b01f223478287c600]: Textual amendment: Pt. 3A inserted (E.W.N.I.) (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 132(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/132/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)
+[^c-6354f1de89c5bc1b01f223478287c600]: Textual amendment: Pt. 3A inserted (E.W.N.I.) (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 132(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/132/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/b)

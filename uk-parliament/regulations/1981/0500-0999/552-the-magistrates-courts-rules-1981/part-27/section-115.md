@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Service of orders[^key-4b9dc19c3c72eeba144a551b090e35a1]
+## 115. Service of orders[^c-4b9dc19c3c72eeba144a551b090e35a1]
 
 *Extent: E+W*
 
@@ -43,13 +43,13 @@ unless something different is shown.
 
 (5) Unless something different is shown, a document produced by a computer system for dispatch by post is to be taken as having been sent by post, or the equivalent of post, to the addressee on the third business day after the day on which it was produced.
 
-(6)[^key-31ed57eab25fd8accda2408615195f4c] This rule does not apply to—
+(6)[^c-31ed57eab25fd8accda2408615195f4c] This rule does not apply to—
 
 - (a) a domestic abuse protection order (for which rule 19 requires service on the defendant personally); or
 - (b) a liability order.
 
 ## Annotations
 
-[^key-4b9dc19c3c72eeba144a551b090e35a1]: Textual amendment: [Rule 115](https://www.legislation.gov.uk/uksi/1981/552/rule/115) inserted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2019/1367/rule/10), (with [rule 11(2)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/2))
+[^c-4b9dc19c3c72eeba144a551b090e35a1]: Textual amendment: [Rule 115](https://www.legislation.gov.uk/uksi/1981/552/rule/115) inserted (1.1.2020) by [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2019/1367/rule/10), (with [rule 11(2)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/2))
 
-[^key-31ed57eab25fd8accda2408615195f4c]: Textual amendment: [Rule 115(6)](https://www.legislation.gov.uk/uksi/1981/552/rule/115/6) substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/14)
+[^c-31ed57eab25fd8accda2408615195f4c]: Textual amendment: [Rule 115(6)](https://www.legislation.gov.uk/uksi/1981/552/rule/115/6) substituted (8.4.2024) by [The Magistrates’ Courts (Amendment) Rules 2024 (S.I. 2024/254)](https://www.legislation.gov.uk/uksi/2024/254), [rules 1(2)](https://www.legislation.gov.uk/uksi/2024/254/rule/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/254/rule/2/14)

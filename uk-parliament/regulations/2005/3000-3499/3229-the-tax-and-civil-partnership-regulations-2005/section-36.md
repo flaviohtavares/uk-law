@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36.[^key-c11b9055cc950bd1b211e6414ea5649f]
+## 36.[^c-c11b9055cc950bd1b211e6414ea5649f]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 203 (liability of spouse ) —
 
 ## Annotations
 
-[^key-c11b9055cc950bd1b211e6414ea5649f]: Commencement: Reg. 36 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c11b9055cc950bd1b211e6414ea5649f]: Commencement: Reg. 36 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

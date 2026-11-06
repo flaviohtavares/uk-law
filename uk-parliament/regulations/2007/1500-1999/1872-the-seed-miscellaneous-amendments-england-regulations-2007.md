@@ -32,7 +32,7 @@ summary: ''
 
 seeds, england
 
-The Seed (Miscellaneous Amendments) (England) Regulations 2007 (revoked)[^key-9d13c38e5cb0654f78cd1abaa071f795]
+The Seed (Miscellaneous Amendments) (England) Regulations 2007 (revoked)[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 Made
 
@@ -46,56 +46,56 @@ Coming into force
 
 27th July 2007
 
-[^key-9d13c38e5cb0654f78cd1abaa071f795]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d13c38e5cb0654f78cd1abaa071f795]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 1. Title and commencement[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Beet Seed (England) Regulations 2002[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 2. Amendment of the Beet Seed (England) Regulations 2002[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Cereal Seed (England) Regulations 2002[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 3. Amendment of the Cereal Seed (England) Regulations 2002[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Fodder Plant Seed (England) Regulations 2002[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 4. Amendment of the Fodder Plant Seed (England) Regulations 2002[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Oil and Fibre Plant Seed (England) Regulations 2002[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 5. Amendment of the Oil and Fibre Plant Seed (England) Regulations 2002[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Vegetable Seed (England) Regulations 2002[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 6. Amendment of the Vegetable Seed (England) Regulations 2002[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Seed (Registration, Licensing and Enforcement) (England) Regulations 2002[^key-9d13c38e5cb0654f78cd1abaa071f795]
+## 7. Amendment of the Seed (Registration, Licensing and Enforcement) (England) Regulations 2002[^c-9d13c38e5cb0654f78cd1abaa071f795]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d13c38e5cb0654f78cd1abaa071f795]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d13c38e5cb0654f78cd1abaa071f795]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9d13c38e5cb0654f78cd1abaa071f795]EXPLANATORY NOTE
+[^c-9d13c38e5cb0654f78cd1abaa071f795]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
 These Regulations amend the following Regulations:
 
-- (a)[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-9d13c38e5cb0654f78cd1abaa071f795] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 These Regulations implement Council Decision [2005/834/EC](https://www.legislation.gov.uk/european/decision/2005/0834) amending Council Decision [2003/17/EC](https://www.legislation.gov.uk/european/decision/2003/0017) (OJ No L 312, 29.11.2005, p 51). They make amendments to bring certain pre-basic seed that has been officially certified in third countries within the scope of the amended Regulations, allowing such seed to be marketed if it meets the requirements of those Regulations (regulations 2(2)(b) and (5), 3(2)(b) and (7), 4(2)(b) and (7) and 5(2)(b) and (7)). They make consequential amendments to provisions concerning the labelling of such seed (regulations 2(4), 3(6), 4(6) and 5(6)), and make further consequential amendments.
 
@@ -109,4 +109,4 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 ## Annotations
 
-[^key-9d13c38e5cb0654f78cd1abaa071f795]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(v)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/v)
+[^c-9d13c38e5cb0654f78cd1abaa071f795]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(v)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/v)

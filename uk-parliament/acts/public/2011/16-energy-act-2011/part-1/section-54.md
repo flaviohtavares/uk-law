@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Meaning of “domestic PR property” and “non-domestic PR property”: Scotland[^key-074e1e06ac2734bd6cec2889d9ed3a16]
+## 54. Meaning of “domestic PR property” and “non-domestic PR property”: Scotland[^c-074e1e06ac2734bd6cec2889d9ed3a16]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-074e1e06ac2734bd6cec2889d9ed3a16]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/16/section/54) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-074e1e06ac2734bd6cec2889d9ed3a16]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/16/section/54) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

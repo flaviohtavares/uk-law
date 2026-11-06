@@ -32,12 +32,12 @@ summary: ''
 (2) In determining profits or income for the purposes of subsection (1)(d)—
 
 - (a) any other amounts deferred under section 135 are to be taken into account, and
-- (b) any amounts brought forward under section 83 of ITA 2007 or[^key-0748a8e97b346590f5acfe8df57f78b2] section 45[^key-ce121c90bf590701b1ce35ccd890b693], 45A or 45B[^key-0370167956dbfbc0a1a8a5ca220c63e6] of CTA 2010 (losses) are to be disregarded.
+- (b) any amounts brought forward under section 83 of ITA 2007 or[^c-0748a8e97b346590f5acfe8df57f78b2] section 45[^c-ce121c90bf590701b1ce35ccd890b693], 45A or 45B[^c-0370167956dbfbc0a1a8a5ca220c63e6] of CTA 2010 (losses) are to be disregarded.
 
 ## Annotations
 
-[^key-0748a8e97b346590f5acfe8df57f78b2]: Textual amendment: Words in s. 138(2)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 400](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/400) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-0748a8e97b346590f5acfe8df57f78b2]: Textual amendment: Words in s. 138(2)(b) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 400](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/400) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-ce121c90bf590701b1ce35ccd890b693]: Textual amendment: Words in s. 138(2)(b) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 338](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/338) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ce121c90bf590701b1ce35ccd890b693]: Textual amendment: Words in s. 138(2)(b) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 338](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/338) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-0370167956dbfbc0a1a8a5ca220c63e6]: Textual amendment: Words in s. 138(2)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 125](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/125)
+[^c-0370167956dbfbc0a1a8a5ca220c63e6]: Textual amendment: Words in s. 138(2)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 125](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/125)

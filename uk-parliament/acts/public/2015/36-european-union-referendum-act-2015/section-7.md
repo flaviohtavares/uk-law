@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Duty to publish information about membership of the European Union etc[^key-a78f4b94922b9415c7f5c7af50c33343]
+## 7. Duty to publish information about membership of the European Union etc[^c-a78f4b94922b9415c7f5c7af50c33343]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a78f4b94922b9415c7f5c7af50c33343]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/36/section/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-a78f4b94922b9415c7f5c7af50c33343]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2015/36/section/7) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

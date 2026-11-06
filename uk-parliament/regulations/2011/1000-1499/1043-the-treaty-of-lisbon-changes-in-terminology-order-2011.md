@@ -250,9 +250,9 @@ Article 7
 
 **6.** In regulation 6A(b)(i) of the General Food Regulations 2004 [^c20818701] for “Community level” substitute “ EU level ”.
 
-**7.**[^key-980367b9a03372ff188188cb925ea143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-980367b9a03372ff188188cb925ea143] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9218ed3877d8d7007fe1e2673b0f43ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9218ed3877d8d7007fe1e2673b0f43ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** In the Ceramic Articles in Contact with Food (England) Regulations 2006 [^c20818731], for “the Community”, in each place, substitute “ the EEA ”.
 
@@ -681,9 +681,9 @@ No impact assessment has been prepared for this instrument as no impact on the p
 
 [^c20818701]: Marginal citation: [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279), amended by [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626); [S.I. 2005/3254](https://www.legislation.gov.uk/uksi/2005/3254) and S.S.I 2005/616.
 
-[^key-980367b9a03372ff188188cb925ea143]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/1043/schedule/1/paragraph/7) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-980367b9a03372ff188188cb925ea143]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/1043/schedule/1/paragraph/7) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
-[^key-9218ed3877d8d7007fe1e2673b0f43ea]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/1043/schedule/1/paragraph/8) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
+[^c-9218ed3877d8d7007fe1e2673b0f43ea]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/1043/schedule/1/paragraph/8) revoked (18.4.2016) by [The Public Procurement (Amendments, Repeals and Revocations) Regulations 2016 (S.I. 2016/275)](https://www.legislation.gov.uk/uksi/2016/275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/275/regulation/1/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2016/275/schedule/3/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/275/regulation/5))
 
 [^c20818731]: Marginal citation: [S.I. 2006/1179](https://www.legislation.gov.uk/uksi/2006/1179), amended by [S.I. 2007/2790](https://www.legislation.gov.uk/uksi/2007/2790).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 145. Final distribution[^key-ce455be5b507bcbf541f1935d26e61ae]
+## 145. Final distribution[^c-ce455be5b507bcbf541f1935d26e61ae]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.186 of the 1986 Rules[^f00060]. For “Part 11 of the Rules”, sub
 
 ## Annotations
 
-[^key-ce455be5b507bcbf541f1935d26e61ae]: Commencement: Rule 145 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-ce455be5b507bcbf541f1935d26e61ae]: Commencement: Rule 145 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00060]: Footnote: Paragraph (3) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

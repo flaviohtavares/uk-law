@@ -35,29 +35,29 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-6884f4879e736e63aa5a4c342689789d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6884f4879e736e63aa5a4c342689789d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6884f4879e736e63aa5a4c342689789d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6884f4879e736e63aa5a4c342689789d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6884f4879e736e63aa5a4c342689789d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6884f4879e736e63aa5a4c342689789d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6884f4879e736e63aa5a4c342689789d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6884f4879e736e63aa5a4c342689789d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6884f4879e736e63aa5a4c342689789d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-6884f4879e736e63aa5a4c342689789d]
+## ANNEX[^c-6884f4879e736e63aa5a4c342689789d]
 
-[^key-6884f4879e736e63aa5a4c342689789d] INTERNATIONAL ACCOUNTING STANDARDS
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6884f4879e736e63aa5a4c342689789d] INTERNATIONAL ACCOUNTING STANDARDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]CLASSIFICATION OF RIGHTS ISSUES
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6884f4879e736e63aa5a4c342689789d]CLASSIFICATION OF RIGHTS ISSUES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d] Amendment to IAS 32
+[^c-6884f4879e736e63aa5a4c342689789d] Amendment to IAS 32
 
 ***Financial Instruments: Presentation***
 
@@ -65,38 +65,38 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]DEFINITIONS (SEE ALSO PARAGRAPHS AG3–AG23)
+[^c-6884f4879e736e63aa5a4c342689789d]DEFINITIONS (SEE ALSO PARAGRAPHS AG3–AG23)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d] 11
+[^c-6884f4879e736e63aa5a4c342689789d] 11
 
 **The following terms are used in this Standard with the meanings specified:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]PRESENTATION
+[^c-6884f4879e736e63aa5a4c342689789d]PRESENTATION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d] Liabilities and equity (see also paragraphs AG13–AG14J and AG25–AG29A)
+[^c-6884f4879e736e63aa5a4c342689789d] Liabilities and equity (see also paragraphs AG13–AG14J and AG25–AG29A)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]16
+[^c-6884f4879e736e63aa5a4c342689789d]16
 
 When an issuer applies the definitions in paragraph 11 to determine whether a financial instrument is an equity instrument rather than a financial liability, the instrument is an equity instrument if, and only if, both conditions (a) and (b) below are met.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]EFFECTIVE DATE AND TRANSITION
+[^c-6884f4879e736e63aa5a4c342689789d]EFFECTIVE DATE AND TRANSITION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6884f4879e736e63aa5a4c342689789d]97E
+[^c-6884f4879e736e63aa5a4c342689789d]97E
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6884f4879e736e63aa5a4c342689789d]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/22) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6884f4879e736e63aa5a4c342689789d]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/22) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

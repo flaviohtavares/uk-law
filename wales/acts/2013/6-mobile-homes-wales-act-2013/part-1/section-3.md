@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Owners of sites[^key-856586fdbc4a05f134863d130346398d]
+## 3. Owners of sites[^c-856586fdbc4a05f134863d130346398d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ but see also sections 39(2), 42(7) and 55(2)(a).
 
 ## Annotations
 
-[^key-856586fdbc4a05f134863d130346398d]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/6/section/3) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-856586fdbc4a05f134863d130346398d]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2013/6/section/3) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

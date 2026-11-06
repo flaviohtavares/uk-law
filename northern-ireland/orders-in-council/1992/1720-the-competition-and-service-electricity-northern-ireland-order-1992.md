@@ -115,7 +115,7 @@ After Article 45A of the Electricity Order there shall be inserted the following
 
 .
 
-## 6. Billing disputes[^key-4448d42ff8de966d55a3c597abac4050]
+## 6. Billing disputes[^c-4448d42ff8de966d55a3c597abac4050]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -149,4 +149,4 @@ In Article 43 of the Electricity Order (electricity supply: overall performance)
 
 [^c5478291]: Textual amendment: [1992 NI 1](https://www.legislation.gov.uk/1992/ni1)
 
-[^key-4448d42ff8de966d55a3c597abac4050]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1992/1720/article/6) repealed (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [31(1)](https://www.legislation.gov.uk/nisr/2013/92/regulation/31/1)
+[^c-4448d42ff8de966d55a3c597abac4050]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/nisi/1992/1720/article/6) repealed (12.4.2013) by [The Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [regs. 1](https://www.legislation.gov.uk/nisr/2013/92/regulation/1), [31(1)](https://www.legislation.gov.uk/nisr/2013/92/regulation/31/1)

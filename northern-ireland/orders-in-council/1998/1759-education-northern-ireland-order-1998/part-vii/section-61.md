@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Maintenance and other grants to voluntary grammar schools[^key-83c3607ff7a251a20875fb0c904187e0]
+## 61. Maintenance and other grants to voluntary grammar schools[^c-83c3607ff7a251a20875fb0c904187e0]
 
 *Extent: N.I.*
 
-(1) Subject to the provisions of this Article and Article 62, [^M_F_78842195-48b2-457d-b9ce-cee410294edc]the Authority shall in respect of each financial year make grants (known as maintenance grants) to the Board of Governors of a voluntary grammar school [^key-da26182077b5947f1840272ed18f9d5a]... in respect of expenditure incurred or to be incurred in that year in carrying on the school, except—
+(1) Subject to the provisions of this Article and Article 62, [^M_F_78842195-48b2-457d-b9ce-cee410294edc]the Authority shall in respect of each financial year make grants (known as maintenance grants) to the Board of Governors of a voluntary grammar school [^c-da26182077b5947f1840272ed18f9d5a]... in respect of expenditure incurred or to be incurred in that year in carrying on the school, except—
 
 - (a) expenditure incurred or to be incurred for the provision or alteration of the premises of the school; and
 - (b) expenditure incurred or to be incurred for the provision of equipment for the school which is approved expenditure for the purposes of Article 68(1)(b).
@@ -30,7 +30,7 @@ summary: ''
 - (a) an amount equal to the budget share of the school for that year; and
 - (b) such other amount determined by or in accordance with the common funding scheme as, in accordance with that scheme, falls to be paid by way of maintenence grant.
 
-(3) [^M_F_d37841c0-4fd7-4b2a-a629-d2f6149cf292] The Authority shall make grants to the trustees of a voluntary grammar school [^key-24ff8ecc31f44c549116af50fe160293]... of amounts equal to the costs of the trustees on foot of an approved contract.
+(3) [^M_F_d37841c0-4fd7-4b2a-a629-d2f6149cf292] The Authority shall make grants to the trustees of a voluntary grammar school [^c-24ff8ecc31f44c549116af50fe160293]... of amounts equal to the costs of the trustees on foot of an approved contract.
 
 (4) Grants under this Article shall be made on such conditions (including conditions as to repayment) as [^M_F_a4326cd4-5488-4ab3-ee8f-a8483dd5c5a2]the Authority may determine with the approval of the Department.
 
@@ -45,17 +45,17 @@ summary: ''
 
 ## Annotations
 
-[^key-83c3607ff7a251a20875fb0c904187e0]: Commencement: [Art. 61](https://www.legislation.gov.uk/nisi/1998/1759/article/61) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
+[^c-83c3607ff7a251a20875fb0c904187e0]: Commencement: [Art. 61](https://www.legislation.gov.uk/nisi/1998/1759/article/61) in operation at 1.4.2016 by [S.R. 2016/207](https://www.legislation.gov.uk/nisr/2016/207), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/207/article/2/a)
 
 [^M_F_78842195-48b2-457d-b9ce-cee410294edc]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art.2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of [S.I. 1998/1759](https://www.legislation.gov.uk/uksi/1998/1759), [art. 61](https://www.legislation.gov.uk/uksi/1998/1759/article/61))
 
-[^key-da26182077b5947f1840272ed18f9d5a]: Textual amendment: Words in art. 61(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 61)
+[^c-da26182077b5947f1840272ed18f9d5a]: Textual amendment: Words in art. 61(1) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 61)
 
 [^c17053911]: Textual amendment: [2003 NI 12](https://www.legislation.gov.uk/nisi/2003)
 
 [^M_F_d37841c0-4fd7-4b2a-a629-d2f6149cf292]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art.2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of [S.I. 1998/1759](https://www.legislation.gov.uk/uksi/1998/1759), [art. 61](https://www.legislation.gov.uk/uksi/1998/1759/article/61))
 
-[^key-24ff8ecc31f44c549116af50fe160293]: Textual amendment: Words in art. 61(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 61)
+[^c-24ff8ecc31f44c549116af50fe160293]: Textual amendment: Words in art. 61(3) repealed (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 4](https://www.legislation.gov.uk/nia/2014/12/schedule/4) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of S.I. 1998/1759, art. 61)
 
 [^M_F_a4326cd4-5488-4ab3-ee8f-a8483dd5c5a2]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art.2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b) (but this amendment cannot take effect until the commencement of [S.I. 1998/1759](https://www.legislation.gov.uk/uksi/1998/1759), [art. 61](https://www.legislation.gov.uk/uksi/1998/1759/article/61))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19DA. Provision of information[^key-a6f437f115081b232e4fbbc0a33db0dd]
+## 19DA. Provision of information[^c-a6f437f115081b232e4fbbc0a33db0dd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6f437f115081b232e4fbbc0a33db0dd]: Textual amendment: S. 19DA omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/7/3)
+[^c-a6f437f115081b232e4fbbc0a33db0dd]: Textual amendment: S. 19DA omitted (10.11.2011) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/7/3)

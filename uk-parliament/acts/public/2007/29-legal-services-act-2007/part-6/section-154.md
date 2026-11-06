@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 154. Protection from defamation claims[^key-4c35fa4574dd9da801380f59def72d82]
+## 154. Protection from defamation claims[^c-4c35fa4574dd9da801380f59def72d82]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ For the purposes of the law of defamation—
 
 ## Annotations
 
-[^key-4c35fa4574dd9da801380f59def72d82]: Commencement: S. 154 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-4c35fa4574dd9da801380f59def72d82]: Commencement: S. 154 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

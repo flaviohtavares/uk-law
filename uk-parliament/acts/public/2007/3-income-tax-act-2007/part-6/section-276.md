@@ -25,11 +25,11 @@ summary: ''
 - (a) the amount of a company's income, or
 - (b) the amount of income which a company derives from shares or securities.
 
-(2) The amounts to be brought into account under Part 5 of CTA 2009[^key-e2dc8847fc6124a17dde6c7cc581370c] in respect of the company's loan relationships are to be determined without reference to any debtor relationship of the company.
+(2) The amounts to be brought into account under Part 5 of CTA 2009[^c-e2dc8847fc6124a17dde6c7cc581370c] in respect of the company's loan relationships are to be determined without reference to any debtor relationship of the company.
 
 (3) The excess of any relevant credits over any relevant debits is to be treated as income which the company derives from shares or securities.
 
-In this subsection “relevant credits” and “relevant debits” are credits and debits brought into account by virtue of section 574 of CTA 2009 (non-trading credits and debits to be brought into account under Part 5 of that Act)[^key-b90777cd94252f580387032bc593c930].
+In this subsection “relevant credits” and “relevant debits” are credits and debits brought into account by virtue of section 574 of CTA 2009 (non-trading credits and debits to be brought into account under Part 5 of that Act)[^c-b90777cd94252f580387032bc593c930].
 
 (4) The income retention condition does not apply as regards an accounting period if the amount which the company would be required to distribute in order to meet that condition is less than—
 
@@ -50,6 +50,6 @@ In this subsection “relevant credits” and “relevant debits” are credits 
 
 ## Annotations
 
-[^key-e2dc8847fc6124a17dde6c7cc581370c]: Textual amendment: Words in s. 276(2) substituted (retrospective to 1.4.2009) by [The Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [5](https://www.legislation.gov.uk/uksi/2009/2860/article/5)
+[^c-e2dc8847fc6124a17dde6c7cc581370c]: Textual amendment: Words in s. 276(2) substituted (retrospective to 1.4.2009) by [The Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [5](https://www.legislation.gov.uk/uksi/2009/2860/article/5)
 
-[^key-b90777cd94252f580387032bc593c930]: Textual amendment: Words in s. 276(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 701](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/701) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b90777cd94252f580387032bc593c930]: Textual amendment: Words in s. 276(3) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 701](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/701) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

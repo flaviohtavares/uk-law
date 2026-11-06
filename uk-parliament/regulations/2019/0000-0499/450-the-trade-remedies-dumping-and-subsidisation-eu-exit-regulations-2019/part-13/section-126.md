@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126.[^key-64dfe1159b2b8290eda4e214b092b9c9]
+## 126.[^c-64dfe1159b2b8290eda4e214b092b9c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 81 (the acceptance of a new undertaking in place of an existing under
 
 ## Annotations
 
-[^key-64dfe1159b2b8290eda4e214b092b9c9]: Commencement: Reg. 126 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-64dfe1159b2b8290eda4e214b092b9c9]: Commencement: Reg. 126 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -82,14 +82,14 @@ summary: ''
 
 - (a) introduces Schedule 2, which specifies the social services functions of local authorities (section 143);
 - (b) requires the appointment of directors of social services by local authorities and makes related provision (section 144);
-- (ba)[^key-f228c43e8feaf7bbc790e5e2d81920b5] requires local authorities to produce—
+- (ba)[^c-f228c43e8feaf7bbc790e5e2d81920b5] requires local authorities to produce—
   - (i) annual reports about the exercise of social services functions, and
   - (ii) reports about the stability of local markets for providing care and support,
 
   (sections 144A and 144B);
 - (c) provides for codes about the exercise of social services functions to be made by the Welsh Ministers (sections 145 to 149);
-- (ca)[^key-fbfdcd4ad0eb9ff44d1ea6cbb42f9590] provides powers for the Welsh Ministers to conduct reviews relating to the exercise of social services functions of local authorities (sections 149A and 149B);
-- (d) provides for intervention by the Welsh Ministers in the exercise of social services functions where a local authority is failing to exercise them properly (sections 150 to 160);[^key-dfd03db7bfddd3d829a52f1f5cf398fd]
+- (ca)[^c-fbfdcd4ad0eb9ff44d1ea6cbb42f9590] provides powers for the Welsh Ministers to conduct reviews relating to the exercise of social services functions of local authorities (sections 149A and 149B);
+- (d) provides for intervention by the Welsh Ministers in the exercise of social services functions where a local authority is failing to exercise them properly (sections 150 to 160);[^c-dfd03db7bfddd3d829a52f1f5cf398fd]
 - (da) allows for the inspection of premises in connection with reviews of local authority social services functions conducted by the Welsh Ministers or the exercise of the Welsh Ministers' powers of intervention in relation to those functions, and for the Welsh Ministers to request information in connection with such reviews and makes related provision (sections 161 to 161C).
 
 (10) Part 9 (co-operation and partnership)—
@@ -112,7 +112,7 @@ summary: ''
 
 - (a) empowers the Welsh Ministers, local authorities and Local Health Boards to conduct research, and empowers the Welsh Ministers to require information, about matters connected with functions under the Act and other related matters (section 184);
 - (b) makes provision about how this Act applies to persons in prison, youth detention accommodation or bail accommodation etc (sections 185 to 188);
-- (c) makes provision about the steps to be taken by a local authority where a service provider (within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016)[^key-617ae9c4722d297f21bdd52038c68e87] becomes unable to meet needs in the authority's area because of business failure (sections 189 to 191);
+- (c) makes provision about the steps to be taken by a local authority where a service provider (within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016)[^c-617ae9c4722d297f21bdd52038c68e87] becomes unable to meet needs in the authority's area because of business failure (sections 189 to 191);
 - (d) disapplies section 49 of the National Assistance Act 1948 (which allows a local authority to meet expenses incurred by any of its officers appointed by the Court of Protection as a deputy) (section 192);
 - (e) makes provision for the recovery of costs between local authorities in certain circumstances (section 193);
 - (f) provides for the resolution of questions about the ordinary residence of a person for the purposes of this Act (section 194);
@@ -123,10 +123,10 @@ summary: ''
 
 ## Annotations
 
-[^key-f228c43e8feaf7bbc790e5e2d81920b5]: Textual amendment: S. 1(9)(ba) inserted (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(a)(i)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/a/i); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
+[^c-f228c43e8feaf7bbc790e5e2d81920b5]: Textual amendment: S. 1(9)(ba) inserted (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(a)(i)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/a/i); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
 
-[^key-fbfdcd4ad0eb9ff44d1ea6cbb42f9590]: Textual amendment: S. 1(9)(ca) inserted (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(a)(ii)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/a/ii); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
+[^c-fbfdcd4ad0eb9ff44d1ea6cbb42f9590]: Textual amendment: S. 1(9)(ca) inserted (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(a)(ii)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/a/ii); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
 
-[^key-dfd03db7bfddd3d829a52f1f5cf398fd]: Textual amendment: S. 1(9)(da) and word substituted for word (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(a)(iii)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/a/iii); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
+[^c-dfd03db7bfddd3d829a52f1f5cf398fd]: Textual amendment: S. 1(9)(da) and word substituted for word (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(a)(iii)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/a/iii); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
 
-[^key-617ae9c4722d297f21bdd52038c68e87]: Textual amendment: Words in s. 1(15)(c) substituted (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(b)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/b); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)
+[^c-617ae9c4722d297f21bdd52038c68e87]: Textual amendment: Words in s. 1(15)(c) substituted (23.2.2021) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 30(b)](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/30/b); [S.I. 2021/181](https://www.legislation.gov.uk/wsi/2021/181), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/181/regulation/2/c)

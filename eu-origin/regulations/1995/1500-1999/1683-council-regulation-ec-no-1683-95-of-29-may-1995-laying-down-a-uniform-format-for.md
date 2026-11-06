@@ -39,104 +39,104 @@ of 29 May 1995
 
 laying down a uniform format for visas (revoked)
 
-[^key-6157f099bc085eb761c0f2774128f524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6157f099bc085eb761c0f2774128f524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-6157f099bc085eb761c0f2774128f524] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6157f099bc085eb761c0f2774128f524]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-6157f099bc085eb761c0f2774128f524]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-6157f099bc085eb761c0f2774128f524] Security features
+## ANNEX[^c-6157f099bc085eb761c0f2774128f524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 1.
+[^c-6157f099bc085eb761c0f2774128f524] Security features
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 2.
+[^c-6157f099bc085eb761c0f2774128f524] 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 3.
+[^c-6157f099bc085eb761c0f2774128f524] 2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 4.
+[^c-6157f099bc085eb761c0f2774128f524] 3.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6157f099bc085eb761c0f2774128f524] 4.
 
 The following shall appear, in capital letters, in this space:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 5.
+[^c-6157f099bc085eb761c0f2774128f524] 5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 6.
+[^c-6157f099bc085eb761c0f2774128f524] 6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 7.
+[^c-6157f099bc085eb761c0f2774128f524] 7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 8.
+[^c-6157f099bc085eb761c0f2774128f524] 8.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Sections to be completed[^key-6157f099bc085eb761c0f2774128f524]
+### Sections to be completed[^c-6157f099bc085eb761c0f2774128f524]
 
 The captions for the boxes shall appear in English and French. The issuing Member State may add a translation in another official language of the institutions of the Union.
 
-[^key-6157f099bc085eb761c0f2774128f524] 9.
+[^c-6157f099bc085eb761c0f2774128f524] 9.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 10.
+[^c-6157f099bc085eb761c0f2774128f524] 10.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 11.
+[^c-6157f099bc085eb761c0f2774128f524] 11.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 12.
+[^c-6157f099bc085eb761c0f2774128f524] 12.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 13.
+[^c-6157f099bc085eb761c0f2774128f524] 13.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 14.
+[^c-6157f099bc085eb761c0f2774128f524] 14.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 15.
+[^c-6157f099bc085eb761c0f2774128f524] 15.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6157f099bc085eb761c0f2774128f524] 16.
+[^c-6157f099bc085eb761c0f2774128f524] 16.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6157f099bc085eb761c0f2774128f524]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6157f099bc085eb761c0f2774128f524]: Textual amendment: Regulation revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

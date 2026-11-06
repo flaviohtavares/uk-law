@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Operators of landfill sites.[^key-7565aba6e988f03e5c562c33e56531c0]
+## 67. Operators of landfill sites.[^c-7565aba6e988f03e5c562c33e56531c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7565aba6e988f03e5c562c33e56531c0]: Textual amendment: [Ss. 64-67](https://www.legislation.gov.uk/ukpga/1996/8/section/64) omitted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/13)
+[^c-7565aba6e988f03e5c562c33e56531c0]: Textual amendment: [Ss. 64-67](https://www.legislation.gov.uk/ukpga/1996/8/section/64) omitted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by virtue of [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/13)

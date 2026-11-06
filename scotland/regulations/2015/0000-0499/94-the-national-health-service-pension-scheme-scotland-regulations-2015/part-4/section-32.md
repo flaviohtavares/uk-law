@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) The employing authority of an active member of this scheme must contribute to the scheme in respect of the pensionable earnings of the member at the employer's standard rate: 22.5%[^key-94d55c24762eb498c529b581607b4cef].
+(1) The employing authority of an active member of this scheme must contribute to the scheme in respect of the pensionable earnings of the member at the employer's standard rate: 22.5%[^c-94d55c24762eb498c529b581607b4cef].
 
 (2) Paragraph (3) applies if—
 
@@ -44,12 +44,12 @@ summary: ''
 | Employment by a Section 17C Agreement provider, GMS practice, HBPMS contractor or OOH provider | The Section 17C Agreement provider, GMS practice, HBPMS contractor or OOH provider in question |
 | Employment by a determination employer | The determination employer |
 | Medical practitioner employed by a medical contractor or non-GP provider on a locum basis | The Health Board or someone appointed to act on its behalf |
-| Medical contractor or non-GP provider (including an ophthalmic provider[^key-5e9c6be640c06f27f2b8325823a2f511] with a GOS contract) | The Health Board or someone appointed to act on its behalf |
+| Medical contractor or non-GP provider (including an ophthalmic provider[^c-5e9c6be640c06f27f2b8325823a2f511] with a GOS contract) | The Health Board or someone appointed to act on its behalf |
 | General dental practitioner | The Health Board or someone appointed to act on its behalf |
 | Dental contractor | The dental contractor |
 
 ## Annotations
 
-[^key-94d55c24762eb498c529b581607b4cef]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/32/1) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [47](https://www.legislation.gov.uk/ssi/2024/272/regulation/47)
+[^c-94d55c24762eb498c529b581607b4cef]: Textual amendment: Word in [reg. 32(1)](https://www.legislation.gov.uk/ssi/2015/94/regulation/32/1) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [47](https://www.legislation.gov.uk/ssi/2024/272/regulation/47)
 
-[^key-5e9c6be640c06f27f2b8325823a2f511]: Textual amendment: Words in reg. 32(6) Table substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2016/97/regulation/6)
+[^c-5e9c6be640c06f27f2b8325823a2f511]: Textual amendment: Words in reg. 32(6) Table substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [6](https://www.legislation.gov.uk/ssi/2016/97/regulation/6)

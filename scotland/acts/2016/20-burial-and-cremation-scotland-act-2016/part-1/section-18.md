@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Registers under section 17: offence[^key-d3019dbb33566a83bc34edc7f2c6f20c]
+## 18. Registers under section 17: offence[^c-d3019dbb33566a83bc34edc7f2c6f20c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3019dbb33566a83bc34edc7f2c6f20c]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/20/section/18) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-d3019dbb33566a83bc34edc7f2c6f20c]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2016/20/section/18) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)

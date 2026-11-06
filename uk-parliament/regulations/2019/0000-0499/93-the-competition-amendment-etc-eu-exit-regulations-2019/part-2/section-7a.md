@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**7A.**[^M_I_53513408-9708-40a0-e963-861cfbb29e43][^key-0db8871b36b93e53954db2de6f8bd0fe] In section 30A(1), for “sections 26 and 27 to 28A” substitute “sections 26, 27 to 28A and 40ZD”.
+**7A.**[^M_I_53513408-9708-40a0-e963-861cfbb29e43][^c-0db8871b36b93e53954db2de6f8bd0fe] In section 30A(1), for “sections 26 and 27 to 28A” substitute “sections 26, 27 to 28A and 40ZD”.
 
 ## Annotations
 
 [^M_I_53513408-9708-40a0-e963-861cfbb29e43]: Commencement: Reg. 7A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-0db8871b36b93e53954db2de6f8bd0fe]: Textual amendment: Reg. 7A inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1343/regulation/3)
+[^c-0db8871b36b93e53954db2de6f8bd0fe]: Textual amendment: Reg. 7A inserted (31.12.2020 immediately before IP completion day) by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/1343/regulation/3)

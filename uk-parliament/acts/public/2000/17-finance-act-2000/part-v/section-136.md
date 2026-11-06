@@ -22,7 +22,7 @@ summary: ''
 
 (1) In section 3(2) of the [^c14055181]Value Added Tax Act 1994 (taxable persons and registration), for “Schedules 1 to 3" there shall be substituted “ Schedules 1 to 3A ”.
 
-(2)[^key-fdd461032b7674afcb43dc341b02ca42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fdd461032b7674afcb43dc341b02ca42] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 69(1)(a) of that Act (breaches of regulatory provisions), for “or paragraph 5 of Schedule 3" there shall be substituted “ , paragraph 5 of Schedule 3 or paragraph 5 of Schedule 3A ”.
 
@@ -54,4 +54,4 @@ for “or paragraph 6(3) of Schedule 3" there shall be substituted “ , paragra
 
 [^c14055181]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-fdd461032b7674afcb43dc341b02ca42]: Textual amendment: [S. 136(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/136/2) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(k)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/k/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))
+[^c-fdd461032b7674afcb43dc341b02ca42]: Textual amendment: [S. 136(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/136/2) omitted (with effect in accordance with art. 3 of the commencing S.I.) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 123(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/123/2), [Sch. 41 para. 25(k)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/41/paragraph/25/k/i); [S.I. 2009/511](https://www.legislation.gov.uk/uksi/2009/511), [art. 2](https://www.legislation.gov.uk/uksi/2009/511/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/511/article/4))

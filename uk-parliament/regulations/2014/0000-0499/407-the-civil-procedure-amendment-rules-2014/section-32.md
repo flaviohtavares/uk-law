@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**32.**[^key-f5faa1d5cbcee2febc9441bab97f677c] In Part 72—
+**32.**[^c-f5faa1d5cbcee2febc9441bab97f677c] In Part 72—
 
 - (a) in rule 72.3, in paragraph (1), in subparagraph (b), in sub-subparagraph (ii), for the words from “Northampton” to “designated money claim”, substitute “the County Court Money Claims Centre”; and
 - (b) in rule 72.7, in paragraph (2), in subparagraph (b), for “county court” substitute “County Court hearing centre”.
 
 ## Annotations
 
-[^key-f5faa1d5cbcee2febc9441bab97f677c]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2014/407/rule/32) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-f5faa1d5cbcee2febc9441bab97f677c]: Commencement: [Rule 32](https://www.legislation.gov.uk/uksi/2014/407/rule/32) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Activities of occupational pension schemes[^M_I_a46db682-207d-4d59-c840-31515726defc][^key-a1ea81f6abc6badb15a0e49f46065c14]
+## 255. Activities of occupational pension schemes[^M_I_a46db682-207d-4d59-c840-31515726defc][^c-a1ea81f6abc6badb15a0e49f46065c14]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^M_I_a46db682-207d-4d59-c840-31515726defc]: Commencement: S. 255 in force at 1.7.2005 for specified purposes by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(14)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/14), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/1)
 
-[^key-a1ea81f6abc6badb15a0e49f46065c14]: Commencement: S. 255 in force at 22.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(14)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/14), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/1)
+[^c-a1ea81f6abc6badb15a0e49f46065c14]: Commencement: S. 255 in force at 22.9.2005 in so far as not already in force by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(14)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/14), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/1)

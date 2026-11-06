@@ -45,11 +45,11 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 143(1) and (2) of, and paragraphs 3(1)(b) and (2) and 10(7) and (8) of Schedule 4ZA and paragraphs 3(1)(c)(ii) and (3) and 6(6) and (7) of Schedule 5A to, the Local Government Finance Act 1988[^f00001].
 
-## 1. Title and coming into force[^key-41124f6aa8bf132d57947e649a35e2dd]
+## 1. Title and coming into force[^c-41124f6aa8bf132d57947e649a35e2dd]
 
 The title of these Regulations is the Non-Domestic Rating (Improvement Relief) (Wales) Regulations 2023 and they come into force on 1 April 2024.
 
-## 2. Interpretation[^key-b2364b5ab832cc61c46e6d3eb8671d56]
+## 2. Interpretation[^c-b2364b5ab832cc61c46e6d3eb8671d56]
 
 In these Regulations—
 
@@ -57,10 +57,10 @@ In these Regulations—
 - “**appropriate valuation officer**” (“*swyddog prisio* priodol”) —
   - (a) in relation to a hereditament in respect of which regulations under section 53(1) of the Act (contents of central lists)[^f00002] apply, means the central valuation officer;
   - (b) in relation to any other hereditament, means the valuation officer compiling or maintaining a local list in which the hereditament is shown;
-- “**central list**” (“***rhestr ganolog***”) means a list compiled and maintained in accordance with section 52ZA[^key-82d92aaa0ecd7c576a059b7e4443858b] of the Act;
+- “**central list**” (“***rhestr ganolog***”) means a list compiled and maintained in accordance with section 52ZA[^c-82d92aaa0ecd7c576a059b7e4443858b] of the Act;
 - “**chargeable day**” (“***diwrnod y codir swm ynglŷn ag ef***”), in relation to an occupied hereditament on a local list, has the meaning given by section 43(3) of the Act, and, in relation to a hereditament on the central list, has the meaning given by section 54(3) of the Act;
 - “**list**” (“***rhestr***”) means a local or central list;
-- “**local list**” (“***rhestr leol***”) means a list compiled and maintained in accordance with section 41ZA[^key-e4aba6fddd7f698956474c2e460ed344] of the Act;
+- “**local list**” (“***rhestr leol***”) means a list compiled and maintained in accordance with section 41ZA[^c-e4aba6fddd7f698956474c2e460ed344] of the Act;
 - “**new hereditament**” (“***hereditament newydd***”) means a hereditament which comes into existence because—
   - (a) property previously rated as a single hereditament becomes liable to be rated in parts;
   - (b) property previously rated in parts becomes liable to be rated as a single hereditament;
@@ -70,7 +70,7 @@ In these Regulations—
 - “**relevant certificate**” (“***tystysgrif berthnasol***”) means a certificate issued under regulation 5(1);
 - “**relevant predecessor hereditament**” (“***hereditament rhagflaenol perthnasol***”), in relation to a new hereditament, means a hereditament in relation to which the qualifying improvement works were commenced or which includes land which formed part of that hereditament.
 
-## 3. Conditions for relief[^key-1fb8f09b3184a83650d132b1bf8b45cf]
+## 3. Conditions for relief[^c-1fb8f09b3184a83650d132b1bf8b45cf]
 
 (1) The conditions prescribed for the purposes of paragraph 3(1)(b) of Schedule 4ZA and paragraph 3(1)(c)(ii) of Schedule 5A to the Act are that—
 
@@ -94,7 +94,7 @@ In these Regulations—
 - (c) “**occupier**” has the meaning given in section 65 of the Act;
 - (d) “**relevant period**” means the period beginning with the day on which the qualifying improvement works were commenced and ending with the chargeable day.
 
-## 4. Meaning of qualifying improvement works[^key-bab972ec37fdd3eea9d7df210add9d07]
+## 4. Meaning of qualifying improvement works[^c-bab972ec37fdd3eea9d7df210add9d07]
 
 (1) For the purposes of paragraph 3(2) of Schedule 4ZA and paragraph 3(3) of Schedule 5A to the Act, “**qualifying improvement works**”, in relation to a hereditament, means any works completed before 1 April 2028 which—
 
@@ -110,7 +110,7 @@ In these Regulations—
 - (a) references to “hereditament” include references to any relevant predecessor hereditament;
 - (b) “**rateable plant and machinery**” means any plant and machinery assumed to be part of the hereditament in accordance with the Valuation for Rating (Plant and Machinery) (Wales) Regulations 2000[^f00004].
 
-## 5. Relevant certificate of qualifying improvement works[^key-302bd1c5b60c9cb99ca48afa4c169baf]
+## 5. Relevant certificate of qualifying improvement works[^c-302bd1c5b60c9cb99ca48afa4c169baf]
 
 (1) Where the appropriate valuation officer is satisfied that—
 
@@ -143,7 +143,7 @@ that officer must certify the amount of the change (if any) in the rateable valu
 - (a) except in paragraphs (4), (5) and (6), references to “hereditament” include references to any relevant predecessor hereditament, and
 - (b) “**new part**” in relation to a new hereditament means any part of the new hereditament which did not form part of a relevant predecessor hereditament prior to the commencement of the qualifying improvement works, including any new building or an extension to an existing building.
 
-## 6. Calculation of the amount of “G”[^key-e0f3341ac5ef23d65c6797ee2b438129]
+## 6. Calculation of the amount of “G”[^c-e0f3341ac5ef23d65c6797ee2b438129]
 
 (1) The amount of “G” prescribed for the purposes of paragraph 10(7) of Schedule 4ZA and paragraph 6(6) of Schedule 5A to the Act in relation to each chargeable day within the qualifying period is the amount certified by the appropriate valuation officer under regulation 5(1).
 
@@ -151,7 +151,7 @@ that officer must certify the amount of the change (if any) in the rateable valu
 
 (3) This paragraph applies where the chargeable day falls within the qualifying period in relation to each set of works.
 
-## 7. Certificates: general[^key-5dc8c37772f31032ec53b5a1ad871ccb]
+## 7. Certificates: general[^c-5dc8c37772f31032ec53b5a1ad871ccb]
 
 (1) The appropriate valuation officer must certify the amount of the change in rateable value which falls to be certified under regulations 5 and 7 as soon as practicable after the circumstances calling for the certification come to the appropriate valuation officer’s attention (whether by virtue of an application by the ratepayer or otherwise).
 
@@ -234,29 +234,29 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Section 143(2) was amended by section 154(3)(a) of the Local Government and Elections (Wales) Act 2021; there is another amendment not relevant to these Regulations. Schedules 4ZA and 5A were inserted into the 1988 Act by sections 1 and 3 of the Non-Domestic Rating Act [2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53).
 
-[^key-41124f6aa8bf132d57947e649a35e2dd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-41124f6aa8bf132d57947e649a35e2dd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
-[^key-b2364b5ab832cc61c46e6d3eb8671d56]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/1354/regulation/2) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-b2364b5ab832cc61c46e6d3eb8671d56]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/1354/regulation/2) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
 [^f00002]: Footnote: Section 53(1) was amended by section 139 of, and paragraph 29 of Schedule 5 to, the Local Government and Housing Act [1989 (c. 42.)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-82d92aaa0ecd7c576a059b7e4443858b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1354/regulation/2) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [21(a)](https://www.legislation.gov.uk/wsi/2024/998/regulation/21/a)
+[^c-82d92aaa0ecd7c576a059b7e4443858b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1354/regulation/2) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [21(a)](https://www.legislation.gov.uk/wsi/2024/998/regulation/21/a)
 
-[^key-e4aba6fddd7f698956474c2e460ed344]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1354/regulation/2) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [21(b)](https://www.legislation.gov.uk/wsi/2024/998/regulation/21/b)
+[^c-e4aba6fddd7f698956474c2e460ed344]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2023/1354/regulation/2) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [21(b)](https://www.legislation.gov.uk/wsi/2024/998/regulation/21/b)
 
-[^key-1fb8f09b3184a83650d132b1bf8b45cf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2023/1354/regulation/3) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-1fb8f09b3184a83650d132b1bf8b45cf]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2023/1354/regulation/3) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-bab972ec37fdd3eea9d7df210add9d07]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/1354/regulation/4) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-bab972ec37fdd3eea9d7df210add9d07]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/1354/regulation/4) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2000/1097 (W. 75)](https://www.legislation.gov.uk/wsi/2000/1097), amended by [S.I. 2001/2357 (W. 195)](https://www.legislation.gov.uk/wsi/2001/2357), [S.I. 2010/146 (W. 21)](https://www.legislation.gov.uk/wsi/2010/146) and [S.I. 2023/1229 (W. 217)](https://www.legislation.gov.uk/wsi/2023/1229).
 
-[^key-302bd1c5b60c9cb99ca48afa4c169baf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1354/regulation/5) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-302bd1c5b60c9cb99ca48afa4c169baf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1354/regulation/5) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
-[^key-e0f3341ac5ef23d65c6797ee2b438129]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/1354/regulation/6) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-e0f3341ac5ef23d65c6797ee2b438129]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/1354/regulation/6) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
-[^key-5dc8c37772f31032ec53b5a1ad871ccb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/1354/regulation/7) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
+[^c-5dc8c37772f31032ec53b5a1ad871ccb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/1354/regulation/7) in force at 1.4.2024, see [reg. 1](https://www.legislation.gov.uk/wsi/2023/1354/regulation/1)
 
 [^f00005]: Footnote: Established by the Valuation Tribunal for Wales Regulations 2010 ([S.I. 2010/713 (W. 69)](https://www.legislation.gov.uk/wsi/2010/713)).
 

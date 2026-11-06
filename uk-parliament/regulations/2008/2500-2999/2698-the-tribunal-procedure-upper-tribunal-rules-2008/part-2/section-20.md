@@ -16,7 +16,7 @@ summary: ''
 
 ## 20. Power to pay expenses and allowances
 
-(1) In proceedings brought under section 4 of the Safeguarding Vulnerable Groups Act 2006 [^c1943663] [^key-49daae6869298f3790a4131a7185eb7b]..., the Secretary of State may pay such allowances for the purpose of or in connection with the attendance of persons at hearings as the Secretary of State may, with the consent of the Treasury, determine.
+(1) In proceedings brought under section 4 of the Safeguarding Vulnerable Groups Act 2006 [^c1943663] [^c-49daae6869298f3790a4131a7185eb7b]..., the Secretary of State may pay such allowances for the purpose of or in connection with the attendance of persons at hearings as the Secretary of State may, with the consent of the Treasury, determine.
 
 (2) Paragraph (3) applies to proceedings on appeal from a decision of—
 
@@ -30,7 +30,7 @@ summary: ''
 
 [^c1943663]: Marginal citation: [2006 c.47](https://www.legislation.gov.uk/ukpga/2006/47).
 
-[^key-49daae6869298f3790a4131a7185eb7b]: Textual amendment: Words in rule 20(1) omitted (1.4.2009) by virtue of [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [12](https://www.legislation.gov.uk/uksi/2009/274/article/12)
+[^c-49daae6869298f3790a4131a7185eb7b]: Textual amendment: Words in rule 20(1) omitted (1.4.2009) by virtue of [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [12](https://www.legislation.gov.uk/uksi/2009/274/article/12)
 
 [^c1943664]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 

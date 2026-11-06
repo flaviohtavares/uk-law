@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Power to give effect to Community obligations etc.[^key-cca7dd9bb6e0583ff9d7e4d77c174a74]
+## 25. Power to give effect to Community obligations etc.[^c-cca7dd9bb6e0583ff9d7e4d77c174a74]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cca7dd9bb6e0583ff9d7e4d77c174a74]: Textual amendment: [S. 25](https://www.legislation.gov.uk/asp/2003/3/section/25) repealed (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/138/regulation/2)
+[^c-cca7dd9bb6e0583ff9d7e4d77c174a74]: Textual amendment: [S. 25](https://www.legislation.gov.uk/asp/2003/3/section/25) repealed (1.6.2022) by [The Environment and Trade in Animals and Related Products (EU Exit) (Scotland) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/138)](https://www.legislation.gov.uk/ssi/2022/138), [regs. 1](https://www.legislation.gov.uk/ssi/2022/138/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/138/regulation/2)

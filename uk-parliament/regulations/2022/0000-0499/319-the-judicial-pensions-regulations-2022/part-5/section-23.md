@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Determination of “the assumed age addition”[^key-26f50afc3dd1c0c8c90d0a675ed03b3b]
+## 23. Determination of “the assumed age addition”[^c-26f50afc3dd1c0c8c90d0a675ed03b3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26f50afc3dd1c0c8c90d0a675ed03b3b]: Commencement: Reg. 23 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-26f50afc3dd1c0c8c90d0a675ed03b3b]: Commencement: Reg. 23 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

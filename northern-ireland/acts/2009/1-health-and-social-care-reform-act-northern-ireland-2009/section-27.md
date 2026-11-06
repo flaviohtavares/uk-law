@@ -29,7 +29,7 @@ summary: ''
 (2) In relation to any time after the transfer date, any reference in any statutory provision or document to a Health and Social Services Board (whether general or particular) shall—
 
 - (a) in relation to any function transferred by section 24(1), be construed as a reference to the Regional Agency;
-- (b)[^key-24f8c0c392c0bae5f209075a96553770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-24f8c0c392c0bae5f209075a96553770] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and any reference which delimits functions of a Board by reference to its area shall, in relation to that time, be disregarded.
 
@@ -47,4 +47,4 @@ and any reference which delimits functions of a Board by reference to its area s
 
 ## Annotations
 
-[^key-24f8c0c392c0bae5f209075a96553770]: Textual amendment: [S. 27(2)(b)](https://www.legislation.gov.uk/nia/2009/1/section/27/2/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 238](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/238); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-24f8c0c392c0bae5f209075a96553770]: Textual amendment: [S. 27(2)(b)](https://www.legislation.gov.uk/nia/2009/1/section/27/2/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 238](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/238); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

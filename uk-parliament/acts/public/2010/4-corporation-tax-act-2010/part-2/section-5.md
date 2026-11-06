@@ -29,8 +29,8 @@ summary: ''
 - section 8 (UK resident company preparing accounts in currency other than sterling),
 - section 9 (non-UK resident company preparing accounts in currency other than sterling).
 
-(3)[^key-c772b044f8d3c4d3fadb9aef6d6e5a52] See section 9C for provision about the application of subsection (1) so far as it relates to calculating chargeable gains.
+(3)[^c-c772b044f8d3c4d3fadb9aef6d6e5a52] See section 9C for provision about the application of subsection (1) so far as it relates to calculating chargeable gains.
 
 ## Annotations
 
-[^key-c772b044f8d3c4d3fadb9aef6d6e5a52]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/5/3) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/2)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/4); [S.I. 2013/1815](https://www.legislation.gov.uk/uksi/2013/1815), [art. 2](https://www.legislation.gov.uk/uksi/2013/1815/article/2)
+[^c-c772b044f8d3c4d3fadb9aef6d6e5a52]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/2010/4/section/5/3) inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/2)[(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/66/4); [S.I. 2013/1815](https://www.legislation.gov.uk/uksi/2013/1815), [art. 2](https://www.legislation.gov.uk/uksi/2013/1815/article/2)

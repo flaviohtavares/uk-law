@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. How functions are to be exercised[^key-d34a9dec51822e5def8d70ce49c72f7d][^key-4b80760dd6313808266dad3552cdcd8f]
+## 17. How functions are to be exercised[^c-d34a9dec51822e5def8d70ce49c72f7d][^c-4b80760dd6313808266dad3552cdcd8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d34a9dec51822e5def8d70ce49c72f7d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/4/section/17) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-d34a9dec51822e5def8d70ce49c72f7d]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/4/section/17) in force in so far as not already in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
 
-[^key-4b80760dd6313808266dad3552cdcd8f]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/4/section/17) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))
+[^c-4b80760dd6313808266dad3552cdcd8f]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2011/4/section/17) in force for specified purposes at 1.1.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/2576/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2011/2576/article/4))

@@ -30,7 +30,7 @@ Regulation 2
 - (b) except from the premises where it was born and reared under the licence;
 - (c) otherwise than to—
   - (i) a person who holds a licence for the activity described in paragraph 2 of Schedule 1; or
-  - (ii) a keeper of a pet shop in Wales who is licensed under regulations 2 and 4 of the Animal Welfare (Licensing of Activities Involving Animals) (Wales) Regulations 2021[^key-7d1541e45229113daa0460a50acddef4],
+  - (ii) a keeper of a pet shop in Wales who is licensed under regulations 2 and 4 of the Animal Welfare (Licensing of Activities Involving Animals) (Wales) Regulations 2021[^c-7d1541e45229113daa0460a50acddef4],
 
   knowing or believing that the person who buys it intends to sell it or intends it to be sold by any other person.
 
@@ -186,4 +186,4 @@ Staff must—
 
 ## Annotations
 
-[^key-7d1541e45229113daa0460a50acddef4]: Textual amendment: Words in [Sch. 6 para. 1(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/486/schedule/6/paragraph/1/1/c/ii) substituted (10.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Wales) Regulations 2021 (S.I. 2021/416)](https://www.legislation.gov.uk/wsi/2021/416), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/416/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/wsi/2021/416/schedule/5/paragraph/2) (with [reg. 25](https://www.legislation.gov.uk/wsi/2021/416/regulation/25))
+[^c-7d1541e45229113daa0460a50acddef4]: Textual amendment: Words in [Sch. 6 para. 1(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/486/schedule/6/paragraph/1/1/c/ii) substituted (10.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Wales) Regulations 2021 (S.I. 2021/416)](https://www.legislation.gov.uk/wsi/2021/416), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/416/regulation/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/wsi/2021/416/schedule/5/paragraph/2) (with [reg. 25](https://www.legislation.gov.uk/wsi/2021/416/regulation/25))

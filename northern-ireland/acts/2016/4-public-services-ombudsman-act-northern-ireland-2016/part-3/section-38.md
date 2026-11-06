@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Obligation for listed authority to comply with model CHPs[^key-aac29f30b37b3c578268e437c5b85fe4]
+## 38. Obligation for listed authority to comply with model CHPs[^c-aac29f30b37b3c578268e437c5b85fe4]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aac29f30b37b3c578268e437c5b85fe4]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2016/4/section/38) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-aac29f30b37b3c578268e437c5b85fe4]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2016/4/section/38) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 21. Company to make good all damage.[^c6404031][^c6404041][^key-a2ae204ab17002f676b58d283d66f80e][^key-4bc72546cd67f2f1401dd345945b5c10]
+## 21. Company to make good all damage.[^c6404031][^c6404041][^c-a2ae204ab17002f676b58d283d66f80e][^c-4bc72546cd67f2f1401dd345945b5c10]
 
 *Extent: E+W+N.I.*
 
@@ -40,6 +40,6 @@ The company shall make good all damage done to the property of the water or gas 
 
     Ss. 18-23 incorporated (with modifications) (9.10.1997) by [S.I. 1997/2534](https://www.legislation.gov.uk/uksi/1997/2534), [art. 3(1)(3)](https://www.legislation.gov.uk/uksi/1997/2534/article/3/1/3)
 
-[^key-a2ae204ab17002f676b58d283d66f80e]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/21) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
+[^c-a2ae204ab17002f676b58d283d66f80e]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/21) incorporated (with modifications) (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 29 para. 4](https://www.legislation.gov.uk/ukpga/2017/7/schedule/29/paragraph/4)
 
-[^key-4bc72546cd67f2f1401dd345945b5c10]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/21) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)
+[^c-4bc72546cd67f2f1401dd345945b5c10]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/Vict/8-9/20/section/21) incorporated (with modifications) (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/2/schedule/28/paragraph/4)

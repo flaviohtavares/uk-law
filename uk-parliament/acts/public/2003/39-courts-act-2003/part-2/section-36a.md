@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. All functions of fines officers may be contracted-out[^key-3c58b8d8418647cc0c150c031c076a0e]
+## 36A. All functions of fines officers may be contracted-out[^c-3c58b8d8418647cc0c150c031c076a0e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A function given by or under an enactment to a fines officer as such is to be ta
 
 ## Annotations
 
-[^key-3c58b8d8418647cc0c150c031c076a0e]: Textual amendment: S. 36A inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/26/2), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)
+[^c-3c58b8d8418647cc0c150c031c076a0e]: Textual amendment: S. 36A inserted (25.6.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/26/2), [61(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/6)

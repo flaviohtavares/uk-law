@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 507. Offences in connection with auditor's report[^c20617931][^key-22e8df7d6c049c512f7312efc09e240b][^c19906521]
+## 507. Offences in connection with auditor's report[^c20617931][^c-22e8df7d6c049c512f7312efc09e240b][^c19906521]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c20617931]: Modification: Ss. 484-539 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/11) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-22e8df7d6c049c512f7312efc09e240b]: Modification: Ss. 507-509 applied (with modifications) by S.I. 2008/565, reg. 8A (as inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/9) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-22e8df7d6c049c512f7312efc09e240b]: Modification: Ss. 507-509 applied (with modifications) by S.I. 2008/565, reg. 8A (as inserted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/9) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
 [^c19906521]: Modification: Ss. 507-509 applied (with modifications) (1.10.2008) by [The Limited Liability Partnerships (Accounts and Audit) (Application of Companies Act 2006) Regulations 2008 (S.I. 2008/1911)](https://www.legislation.gov.uk/uksi/2008/1911), [reg. 42](https://www.legislation.gov.uk/uksi/2008/1911/regulation/42)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Applications by the Crown[^key-bf81d9ccbb2b70c03d2465bc73972905]
+## 84. Applications by the Crown[^c-bf81d9ccbb2b70c03d2465bc73972905]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf81d9ccbb2b70c03d2465bc73972905]: Commencement: S. 84 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-bf81d9ccbb2b70c03d2465bc73972905]: Commencement: S. 84 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

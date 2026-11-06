@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Special support grant –eligible students who are 2011 cohort students[^key-1e58d587d6f22c721411696cb20d9ba3]
+## 40. Special support grant –eligible students who are 2011 cohort students[^c-1e58d587d6f22c721411696cb20d9ba3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e58d587d6f22c721411696cb20d9ba3]: Commencement: Reg. 40 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-1e58d587d6f22c721411696cb20d9ba3]: Commencement: Reg. 40 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

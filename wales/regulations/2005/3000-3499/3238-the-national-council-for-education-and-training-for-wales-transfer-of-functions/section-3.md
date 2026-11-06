@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Transfer of staff[^key-c44aa21a1cbbc66268bbf3b676247e26]
+## 3. Transfer of staff[^c-c44aa21a1cbbc66268bbf3b676247e26]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ For the purposes of the Transfer of Undertaking (Protection of Employment) Regul
 
 ## Annotations
 
-[^key-c44aa21a1cbbc66268bbf3b676247e26]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2005/3238/article/3) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-c44aa21a1cbbc66268bbf3b676247e26]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2005/3238/article/3) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1981/1794](https://www.legislation.gov.uk/uksi/1981/1794): amended by [S.I. 1987/442](https://www.legislation.gov.uk/uksi/1987/442).

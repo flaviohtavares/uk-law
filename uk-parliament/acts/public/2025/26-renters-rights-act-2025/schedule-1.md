@@ -22,11 +22,11 @@ summary: ''
 
 Section 3
 
-### 1. Introductory[^key-6156d40d2c3e0c60d1519a7409d58e36][^key-23c270956b4843bc2e37356c9c8b2c4a]
+### 1. Introductory[^c-6156d40d2c3e0c60d1519a7409d58e36][^c-23c270956b4843bc2e37356c9c8b2c4a]
 
 Schedule 2 to [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) (grounds for possession of dwelling-houses let on assured tenancies) is amended as follows.
 
-### 2. Amendments of Ground 1: occupation by landlord or family[^key-4b9cfce3a9a6ab54c8cc11d82fee437f][^key-ac5459b53acee5bacefe7c4045405c0b]
+### 2. Amendments of Ground 1: occupation by landlord or family[^c-4b9cfce3a9a6ab54c8cc11d82fee437f][^c-ac5459b53acee5bacefe7c4045405c0b]
 
 For Ground 1 (excluding the italic heading) substitute—
 
@@ -52,7 +52,7 @@ For Ground 1 (excluding the italic heading) substitute—
 >
 >   must be included in the calculation.
 
-### 3. New ground for sale of dwelling-house[^key-aae34a4de617ab91b37c78660450a43d][^key-d3abab8929400347c3878feedd9a18ac]
+### 3. New ground for sale of dwelling-house[^c-aae34a4de617ab91b37c78660450a43d][^c-d3abab8929400347c3878feedd9a18ac]
 
 After Ground 1 insert—
 
@@ -81,7 +81,7 @@ After Ground 1 insert—
 >
 >   must be included in the calculation.
 
-### 4. New ground for possession after rent-to-buy agreement[^key-7e5e6d96d1c4171ab88f116b7b5bb3f1][^key-7cf12e0ad09f93a6851041251717bcf9]
+### 4. New ground for possession after rent-to-buy agreement[^c-7e5e6d96d1c4171ab88f116b7b5bb3f1][^c-7cf12e0ad09f93a6851041251717bcf9]
 
 After Ground 1A (inserted by paragraph 3 of this Schedule) insert—
 
@@ -107,14 +107,14 @@ After Ground 1A (inserted by paragraph 3 of this Schedule) insert—
 >     - (a) provides for the tenant to pay rent that is no higher than 80% of market rent (and here “rent” and “market rent” include any amount payable by way of service charge), and
 >     - (b) gives notice that the landlord intends after a period stated in the agreement which is not less than 5 years or, for dwelling-houses in Greater London, 10 years from the beginning of the tenancy to offer the dwelling-house for sale to the tenant.
 
-### 5. Amendments of Ground 2: sale by mortgagee[^key-16e4cb113f053355a18267e2e15bf29c][^key-0b7d2a8c2b723f76ee9076d4e6e3ec24]
+### 5. Amendments of Ground 2: sale by mortgagee[^c-16e4cb113f053355a18267e2e15bf29c][^c-0b7d2a8c2b723f76ee9076d4e6e3ec24]
 
 In Ground 2—
 
 - (a) in the words before paragraph (a) omit “granted before the beginning of the tenancy”;
 - (b) omit paragraph (c) (and the “and” before it).
 
-### 6. New ground for possession when superior lease ends[^key-b9e1a3f251b76992a350785f8a0b5324][^key-e56366ee370495782070e628ca148298]
+### 6. New ground for possession when superior lease ends[^c-b9e1a3f251b76992a350785f8a0b5324][^c-e56366ee370495782070e628ca148298]
 
 After Ground 2 insert—
 
@@ -131,7 +131,7 @@ After Ground 2 insert—
 >     - (iii) a person who held the dwelling-house for the purpose of making it available for occupation as supported accommodation, or
 >     - (iv) a company of which a local authority owns at least 50% of the issued share capital.
 
-### 7. New grounds for possession in cases where there is a superior lease[^key-463db8555cd0a7ecb1d93cc75886ed76][^key-5857d93ff39b359f2a25edde51915a18]
+### 7. New grounds for possession in cases where there is a superior lease[^c-463db8555cd0a7ecb1d93cc75886ed76][^c-5857d93ff39b359f2a25edde51915a18]
 
 After Ground 2ZA (inserted by paragraph 6 of this Schedule) insert—
 
@@ -157,11 +157,11 @@ After Ground 2ZA (inserted by paragraph 6 of this Schedule) insert—
 >   - (b) within the period of 12 months ending with the date on which the fixed term would have expired if the tenancy had not come to an end, or
 >   - (c) after the expiry of the fixed term, as a result of a valid notice to terminate the tenancy.
 
-### 8. Repeal of Ground 3: holiday accommodation[^key-627ea7c6827d2e6368d771b3d7610428][^key-325921f61599319a41d72bb130ce1d9b]
+### 8. Repeal of Ground 3: holiday accommodation[^c-627ea7c6827d2e6368d771b3d7610428][^c-325921f61599319a41d72bb130ce1d9b]
 
 Omit Ground 3.
 
-### 9. Amendments of Ground 4: student accommodation[^key-55ee8a83dbf2b2b3da310f7aa49d6dcb][^key-a08823b75da135ff803ffa5a964dd87f]
+### 9. Amendments of Ground 4: student accommodation[^c-55ee8a83dbf2b2b3da310f7aa49d6dcb][^c-a08823b75da135ff803ffa5a964dd87f]
 
 In Ground 4—
 
@@ -175,7 +175,7 @@ In Ground 4—
   > - (a) if the tenancy arose by succession as mentioned in section 39(5), notice was given to the previous tenant under Case 14 of Schedule 15 to the [Rent Act 1977](https://www.legislation.gov.uk/ukpga/1977/42), and
   > - (b) the tenancy is not an assured agricultural occupancy in respect of which the agricultural worker condition is fulfilled by virtue of paragraph 3 of Schedule 3.
 
-### 10. New ground for possession of student accommodation for occupation by students[^key-5dc706cbf4625bded06e4ea2c837ce0f][^key-2d524fd8e9a8bbbb3222cd3c96d8c693]
+### 10. New ground for possession of student accommodation for occupation by students[^c-5dc706cbf4625bded06e4ea2c837ce0f][^c-2d524fd8e9a8bbbb3222cd3c96d8c693]
 
 After Ground 4 insert—
 
@@ -211,7 +211,7 @@ After Ground 4 insert—
 >
 >   In a case where, because of paragraph 8(7) of Schedule 1 to the 1988 Act, a tenancy becomes an assured tenancy, the condition in paragraph (c) of the first paragraph of this ground is met if the written statement referred to there is given within the period of 28 days beginning with the date on which the tenancy becomes an assured tenancy.
 
-### 11. Amendment of Ground 5: ministers of religion[^key-cf612715b2bb20746e1c63aa92a67b8d][^key-b5f16f85c847128f15805c271d5b0b7e]
+### 11. Amendment of Ground 5: ministers of religion[^c-cf612715b2bb20746e1c63aa92a67b8d][^c-b5f16f85c847128f15805c271d5b0b7e]
 
 In Ground 5—
 
@@ -221,7 +221,7 @@ In Ground 5—
   > - (a) if the tenancy arose by succession as mentioned in section 39(5), notice was given to the previous tenant under Case 15 of Schedule 15 to the [Rent Act 1977](https://www.legislation.gov.uk/ukpga/1977/42), and
   > - (b) the tenancy is not an assured agricultural occupancy in respect of which the agricultural worker condition is fulfilled by virtue of paragraph 3 of Schedule 3.
 
-### 12. New ground for possession for occupation by agricultural worker[^key-b21119434c10332d25a968be339bc265][^key-9e32ce0c9e2ad1ece6220da5b08dd8e4]
+### 12. New ground for possession for occupation by agricultural worker[^c-b21119434c10332d25a968be339bc265][^c-9e32ce0c9e2ad1ece6220da5b08dd8e4]
 
 After Ground 5 insert—
 
@@ -255,7 +255,7 @@ After Ground 5 insert—
 >   - “**agriculture**” has the same meaning as in the Rent (Agriculture) Act 1976 (see section 1 of that Act);
 >   - “**contract of employment**” has the meaning given by section 230(2) of the Employment Rights Act 1996.
 
-### 13. New ground for possession for occupation by person who meets employment requirements[^key-c544452e84019791c4751ad9cebefe08][^key-2446d338c54e6cf9d6d502392168c4f4]
+### 13. New ground for possession for occupation by person who meets employment requirements[^c-c544452e84019791c4751ad9cebefe08][^c-2446d338c54e6cf9d6d502392168c4f4]
 
 After Ground 5A (inserted by paragraph 12 of this Schedule) insert—
 
@@ -269,7 +269,7 @@ After Ground 5A (inserted by paragraph 12 of this Schedule) insert—
 >
 >   and the tenant in possession does not fulfil those requirements.
 
-### 14. Ground 16 to be renumbered as Ground 5C and to be a mandatory ground for possession[^key-b7ef5a4dc63ed343328957d1424d7751][^key-4f245569a4928d906298298c5e09f620]
+### 14. Ground 16 to be renumbered as Ground 5C and to be a mandatory ground for possession[^c-b7ef5a4dc63ed343328957d1424d7751][^c-4f245569a4928d906298298c5e09f620]
 
 (1) Ground 16 in Part 2 of Schedule 2, together with the italic heading before it, moves to after Ground 5B (inserted by paragraph 13 of this Schedule) and becomes Ground 5C in Part 1 of that Schedule.
 
@@ -328,7 +328,7 @@ After Ground 5A (inserted by paragraph 12 of this Schedule) insert—
 
 (4) In the italic heading, for “16” substitute “5C”.
 
-### 15. New ground for possession for end of employment requirements[^key-814bd91cb0b1f7afadf182185687b29c][^key-9d2649ac715ea774bae3fc6d1444ed00]
+### 15. New ground for possession for end of employment requirements[^c-814bd91cb0b1f7afadf182185687b29c][^c-9d2649ac715ea774bae3fc6d1444ed00]
 
 After Ground 5C (as renumbered by paragraph 14 of this Schedule) insert—
 
@@ -336,7 +336,7 @@ After Ground 5C (as renumbered by paragraph 14 of this Schedule) insert—
 >
 >   The landlord seeking possession is a private registered provider of social housing, the tenancy agreement includes a requirement connected with the tenant’s employment and the tenant no longer fulfils that requirement.
 
-### 16. New ground for possession for occupation as supported accommodation[^key-66233a09bed07b8b2ec0a948b22690bc][^key-96ac452e778b6a137c687dcfc7178539]
+### 16. New ground for possession for occupation as supported accommodation[^c-66233a09bed07b8b2ec0a948b22690bc][^c-96ac452e778b6a137c687dcfc7178539]
 
 After Ground 5D (inserted by paragraph 15 of this Schedule) insert—
 
@@ -347,7 +347,7 @@ After Ground 5D (inserted by paragraph 15 of this Schedule) insert—
 >   - (a) the landlord holds the dwelling-house for the purpose of making it available for occupation as supported accommodation, and
 >   - (b) the tenant did not enter the assured tenancy for the purpose of receiving care, support or supervision.
 
-### 17. New grounds for possession of dwelling-house occupied as supported accommodation[^key-04f9808b870ae3a1c577311d2a8720f0][^key-d3ec901cdc276982c455605eea23e0bb]
+### 17. New grounds for possession of dwelling-house occupied as supported accommodation[^c-04f9808b870ae3a1c577311d2a8720f0][^c-d3ec901cdc276982c455605eea23e0bb]
 
 (1) After Ground 5E (inserted by paragraph 16 of this Schedule) insert—
 
@@ -384,7 +384,7 @@ After Ground 5D (inserted by paragraph 15 of this Schedule) insert—
 >
 >   The tenancy is of supported accommodation and the tenant has unreasonably refused to co-operate with the person providing support services with regard to those services.
 
-### 18. New ground for possession for tenancy granted for homelessness duty[^key-c2e8fa1a2fd98c0f79b520073e55297d][^key-71ffe7fcc1f008f8fcae88b807353bf2]
+### 18. New ground for possession for tenancy granted for homelessness duty[^c-c2e8fa1a2fd98c0f79b520073e55297d][^c-71ffe7fcc1f008f8fcae88b807353bf2]
 
 After Ground 5F (inserted by paragraph 17 of this Schedule) insert—
 
@@ -397,7 +397,7 @@ After Ground 5F (inserted by paragraph 17 of this Schedule) insert—
 >
 >   In this ground “**local housing authority**” means a district council, a county council in England for an area for which there is no district council, a London borough council, the Common Council of the City of London or the Council of the Isles of Scilly.
 
-### 19. New ground for possession of stepping stone accommodation[^key-a6bb32ac736e24aee60efdabf8ff7ec3][^key-796ba112869230424cba31d5688a1d0b]
+### 19. New ground for possession of stepping stone accommodation[^c-a6bb32ac736e24aee60efdabf8ff7ec3][^c-796ba112869230424cba31d5688a1d0b]
 
 After Ground 5G (inserted by paragraph 18 of this Schedule) insert—
 
@@ -456,7 +456,7 @@ After Ground 5G (inserted by paragraph 18 of this Schedule) insert—
 >
 >   A statutory instrument containing eligibility condition regulations may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### 20. Amendments of Ground 6: redevelopment[^key-3cd2892e06040996c66c2a07369c9e8d][^key-4ff93c0a843d4175c0b8c37218458c4d]
+### 20. Amendments of Ground 6: redevelopment[^c-3cd2892e06040996c66c2a07369c9e8d][^c-4ff93c0a843d4175c0b8c37218458c4d]
 
 For Ground 6 (excluding the italic heading) substitute—
 
@@ -548,7 +548,7 @@ For Ground 6 (excluding the italic heading) substitute—
 >     - (d) a housing trust, within the meaning of the [Housing Associations Act 1985](https://www.legislation.gov.uk/ukpga/1985/69), which is a charity, or
 >     - (e) where the dwelling-house is social housing within the meaning of Part 2 of the [Housing and Regeneration Act 2008](https://www.legislation.gov.uk/ukpga/2008/17), a profit-making registered provider of social housing.
 
-### 21. New ground for possession of alternative accommodation provided during redevelopment[^key-c5d81219903b732baeaf996f7023a291][^key-45d79b05ae7b93ba8a8666de3dfc1331]
+### 21. New ground for possession of alternative accommodation provided during redevelopment[^c-c5d81219903b732baeaf996f7023a291][^c-45d79b05ae7b93ba8a8666de3dfc1331]
 
 After Ground 6 insert—
 
@@ -591,7 +591,7 @@ After Ground 6 insert—
 >     - (b) carrying out substantial works on the dwelling-house or any part of it, or any building of which it forms part;
 >   - “**relevant social landlord**” has the same meaning as in Ground 6.
 
-### 22. New ground for possession to allow compliance with enforcement action[^key-d89e9d683d15aba4da7ba829267f58d8][^key-8d51d6ebcb5e3ceeba6965e5bb40d1c1]
+### 22. New ground for possession to allow compliance with enforcement action[^c-d89e9d683d15aba4da7ba829267f58d8][^c-8d51d6ebcb5e3ceeba6965e5bb40d1c1]
 
 After Ground 6A (inserted by paragraph 21) insert—
 
@@ -633,7 +633,7 @@ After Ground 6A (inserted by paragraph 21) insert—
 >   - “**TCPA 1990**” means the Town and Country Planning Act 1990;
 >   - “**the local housing authority**” has the meaning given in section 261 of the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34).
 
-### 23. Amendments of Ground 7: death of tenant[^key-8b2ca878f2959bb2446b3d7069b15bbe][^key-037b2972d123a4621b04c01f4e380bc7]
+### 23. Amendments of Ground 7: death of tenant[^c-8b2ca878f2959bb2446b3d7069b15bbe][^c-037b2972d123a4621b04c01f4e380bc7]
 
 In Ground 7—
 
@@ -653,7 +653,7 @@ In Ground 7—
   >   - (e) a tenancy which meets the conditions in paragraphs (a), (b), (d) and (e) in the first paragraph of Ground 5H.
 - (c) omit the third unnumbered paragraph.
 
-### 24. Amendments of Ground 8: rent arrears[^key-8395302289894e270f26570d4f7ea00f][^key-0080dc928f9fc234ebbc5232f777db89]
+### 24. Amendments of Ground 8: rent arrears[^c-8395302289894e270f26570d4f7ea00f][^c-0080dc928f9fc234ebbc5232f777db89]
 
 In Ground 8—
 
@@ -664,7 +664,7 @@ In Ground 8—
 
   > - When calculating how much rent is unpaid for the purpose of this ground, if the tenant is entitled to receive an amount for housing as part of an award of universal credit under Part 1 of the [Welfare Reform Act 2012](https://www.legislation.gov.uk/ukpga/2012/5), any amount that was unpaid only because the tenant had not yet received the payment of that award is to be ignored.
 
-### 25. Power to amend Schedule 2 and new interpretation provisions[^key-1baf468e52ca758882283266f67c3529][^key-97493cf1780eac8c5bb8b38960107988]
+### 25. Power to amend Schedule 2 and new interpretation provisions[^c-1baf468e52ca758882283266f67c3529][^c-97493cf1780eac8c5bb8b38960107988]
 
 After Part 4 of Schedule 2 to [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) insert—
 
@@ -736,102 +736,102 @@ After Part 4 of Schedule 2 to [the 1988 Act](https://www.legislation.gov.uk/ukpg
 
 ## Annotations
 
-[^key-6156d40d2c3e0c60d1519a7409d58e36]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-6156d40d2c3e0c60d1519a7409d58e36]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-23c270956b4843bc2e37356c9c8b2c4a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/1) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-23c270956b4843bc2e37356c9c8b2c4a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/1) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-4b9cfce3a9a6ab54c8cc11d82fee437f]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-4b9cfce3a9a6ab54c8cc11d82fee437f]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-ac5459b53acee5bacefe7c4045405c0b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/2) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-ac5459b53acee5bacefe7c4045405c0b]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/2) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-aae34a4de617ab91b37c78660450a43d]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-aae34a4de617ab91b37c78660450a43d]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d3abab8929400347c3878feedd9a18ac]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/3) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/421/regulation/5))
+[^c-d3abab8929400347c3878feedd9a18ac]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/3) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/421/regulation/5))
 
-[^key-7e5e6d96d1c4171ab88f116b7b5bb3f1]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-7e5e6d96d1c4171ab88f116b7b5bb3f1]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-7cf12e0ad09f93a6851041251717bcf9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/4) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-7cf12e0ad09f93a6851041251717bcf9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/4) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-16e4cb113f053355a18267e2e15bf29c]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-16e4cb113f053355a18267e2e15bf29c]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-0b7d2a8c2b723f76ee9076d4e6e3ec24]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/5) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-0b7d2a8c2b723f76ee9076d4e6e3ec24]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/5) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-b9e1a3f251b76992a350785f8a0b5324]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b9e1a3f251b76992a350785f8a0b5324]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e56366ee370495782070e628ca148298]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/6) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-e56366ee370495782070e628ca148298]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/6) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-463db8555cd0a7ecb1d93cc75886ed76]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-463db8555cd0a7ecb1d93cc75886ed76]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-5857d93ff39b359f2a25edde51915a18]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/7) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-5857d93ff39b359f2a25edde51915a18]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/7) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-627ea7c6827d2e6368d771b3d7610428]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-627ea7c6827d2e6368d771b3d7610428]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-325921f61599319a41d72bb130ce1d9b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/8) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-325921f61599319a41d72bb130ce1d9b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/8) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-55ee8a83dbf2b2b3da310f7aa49d6dcb]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-55ee8a83dbf2b2b3da310f7aa49d6dcb]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-a08823b75da135ff803ffa5a964dd87f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/9) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-a08823b75da135ff803ffa5a964dd87f]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/9) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-5dc706cbf4625bded06e4ea2c837ce0f]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5dc706cbf4625bded06e4ea2c837ce0f]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-2d524fd8e9a8bbbb3222cd3c96d8c693]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/10) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/421/regulation/6))
+[^c-2d524fd8e9a8bbbb3222cd3c96d8c693]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/10) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/421/regulation/6))
 
-[^key-cf612715b2bb20746e1c63aa92a67b8d]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-cf612715b2bb20746e1c63aa92a67b8d]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-b5f16f85c847128f15805c271d5b0b7e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/11) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-b5f16f85c847128f15805c271d5b0b7e]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/11) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-b21119434c10332d25a968be339bc265]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b21119434c10332d25a968be339bc265]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-9e32ce0c9e2ad1ece6220da5b08dd8e4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/12) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-9e32ce0c9e2ad1ece6220da5b08dd8e4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/12) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-c544452e84019791c4751ad9cebefe08]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-c544452e84019791c4751ad9cebefe08]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-2446d338c54e6cf9d6d502392168c4f4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/13) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-2446d338c54e6cf9d6d502392168c4f4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/13) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-b7ef5a4dc63ed343328957d1424d7751]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-b7ef5a4dc63ed343328957d1424d7751]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4f245569a4928d906298298c5e09f620]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/14) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-4f245569a4928d906298298c5e09f620]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/14) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-814bd91cb0b1f7afadf182185687b29c]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-814bd91cb0b1f7afadf182185687b29c]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-9d2649ac715ea774bae3fc6d1444ed00]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/15) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-9d2649ac715ea774bae3fc6d1444ed00]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/15) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-66233a09bed07b8b2ec0a948b22690bc]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-66233a09bed07b8b2ec0a948b22690bc]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-96ac452e778b6a137c687dcfc7178539]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/16) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-96ac452e778b6a137c687dcfc7178539]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/16) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-04f9808b870ae3a1c577311d2a8720f0]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-04f9808b870ae3a1c577311d2a8720f0]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d3ec901cdc276982c455605eea23e0bb]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/17) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-d3ec901cdc276982c455605eea23e0bb]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/17) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-c2e8fa1a2fd98c0f79b520073e55297d]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-c2e8fa1a2fd98c0f79b520073e55297d]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-71ffe7fcc1f008f8fcae88b807353bf2]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/18) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-71ffe7fcc1f008f8fcae88b807353bf2]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/18) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-a6bb32ac736e24aee60efdabf8ff7ec3]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-a6bb32ac736e24aee60efdabf8ff7ec3]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-796ba112869230424cba31d5688a1d0b]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/19) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-796ba112869230424cba31d5688a1d0b]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/19) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-3cd2892e06040996c66c2a07369c9e8d]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-3cd2892e06040996c66c2a07369c9e8d]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4ff93c0a843d4175c0b8c37218458c4d]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/20) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-4ff93c0a843d4175c0b8c37218458c4d]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/20) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-c5d81219903b732baeaf996f7023a291]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-c5d81219903b732baeaf996f7023a291]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-45d79b05ae7b93ba8a8666de3dfc1331]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/21) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-45d79b05ae7b93ba8a8666de3dfc1331]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/21) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-d89e9d683d15aba4da7ba829267f58d8]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-d89e9d683d15aba4da7ba829267f58d8]: Commencement: Sch. 1 para. 22 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-8d51d6ebcb5e3ceeba6965e5bb40d1c1]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/22) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-8d51d6ebcb5e3ceeba6965e5bb40d1c1]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/22) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-8b2ca878f2959bb2446b3d7069b15bbe]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-8b2ca878f2959bb2446b3d7069b15bbe]: Commencement: Sch. 1 para. 23 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-037b2972d123a4621b04c01f4e380bc7]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/23) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-037b2972d123a4621b04c01f4e380bc7]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/23) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-8395302289894e270f26570d4f7ea00f]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-8395302289894e270f26570d4f7ea00f]: Commencement: Sch. 1 para. 24 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-0080dc928f9fc234ebbc5232f777db89]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/24) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-0080dc928f9fc234ebbc5232f777db89]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/24) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
 
-[^key-1baf468e52ca758882283266f67c3529]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-1baf468e52ca758882283266f67c3529]: Commencement: Sch. 1 para. 25 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-97493cf1780eac8c5bb8b38960107988]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/25) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)
+[^c-97493cf1780eac8c5bb8b38960107988]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2025/26/schedule/1/paragraph/25) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/b)

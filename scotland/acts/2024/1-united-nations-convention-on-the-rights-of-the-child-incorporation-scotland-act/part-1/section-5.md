@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Duty to modify section 4 on ratification of the third optional protocol to the Convention[^key-06113db9f4c898aaa2d379a6909d4ede]
+## 5. Duty to modify section 4 on ratification of the third optional protocol to the Convention[^c-06113db9f4c898aaa2d379a6909d4ede]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06113db9f4c898aaa2d379a6909d4ede]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/1/section/5) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-06113db9f4c898aaa2d379a6909d4ede]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/1/section/5) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^key-f45b6fc8eb93c4a682495b73cfe1194d]
+## 83. Child Support (Maintenance Assessments and Special Cases) Regulations (Northern Ireland) 1992[^c-f45b6fc8eb93c4a682495b73cfe1194d]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Child Support (Maintenance Assessments and Special Cas
 
 ## Annotations
 
-[^key-f45b6fc8eb93c4a682495b73cfe1194d]: Commencement: Reg. 83 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f45b6fc8eb93c4a682495b73cfe1194d]: Commencement: Reg. 83 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00144]: Footnote: [S.R. (N.I.) 1992/341](https://www.legislation.gov.uk/nisr/1992/341). In regulation 1(2), the definition of “couple” was substituted by paragraph 2 of Schedule 4 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

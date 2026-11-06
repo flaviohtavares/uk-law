@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Minor and consequential amendments[^key-1613b59b63c666b7045f7b7b98d13d4f]
+## 18. Minor and consequential amendments[^c-1613b59b63c666b7045f7b7b98d13d4f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 6 provides for amendments to the 2016 Act and to the Renting Homes (Fee
 
 ## Annotations
 
-[^key-1613b59b63c666b7045f7b7b98d13d4f]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2021/3/section/18) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-1613b59b63c666b7045f7b7b98d13d4f]: Commencement: [S. 18](https://www.legislation.gov.uk/asc/2021/3/section/18) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

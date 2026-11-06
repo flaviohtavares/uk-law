@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Review[^key-156d76084e3e9714020b2f2b047eb40a]
+## 88. Review[^c-156d76084e3e9714020b2f2b047eb40a]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 (3) Subsequent reports must be published at intervals not exceeding 5 years.
 
-(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00020] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the Directive is implemented in other relevant states[^key-0e9618b58265da35db178d231853ef97].
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015[^f00020] requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the Directive is implemented in other relevant states[^c-0e9618b58265da35db178d231853ef97].
 
 (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulations must, in particular—
 
@@ -66,7 +66,7 @@ summary: ''
 
 ## Annotations
 
-[^key-156d76084e3e9714020b2f2b047eb40a]: Commencement: Reg. 88 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-156d76084e3e9714020b2f2b047eb40a]: Commencement: Reg. 88 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
 [^f00020]: Footnote:
 
@@ -74,4 +74,4 @@ summary: ''
 
 [^V_NI_87b32047-741a-72a6-6ad2-2b7058545151]: Commencement: Reg. 88 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
 
-[^key-0e9618b58265da35db178d231853ef97]: Textual amendment: Words in [reg. 88(4)](https://www.legislation.gov.uk/uksi/2017/737/regulation/88/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/6)
+[^c-0e9618b58265da35db178d231853ef97]: Textual amendment: Words in [reg. 88(4)](https://www.legislation.gov.uk/uksi/2017/737/regulation/88/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 15 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/15/paragraph/6)

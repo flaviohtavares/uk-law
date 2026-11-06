@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Facility for the provision of electronic notices of the convening of community meetings[^key-4ee31363cb20ed9c040936386eb769d0]
+## 90. Facility for the provision of electronic notices of the convening of community meetings[^c-4ee31363cb20ed9c040936386eb769d0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After paragraph 30B of Schedule 12 to the Local Government Act 1972 insert the f
 
 ## Annotations
 
-[^key-4ee31363cb20ed9c040936386eb769d0]: Commencement: [S. 90](https://www.legislation.gov.uk/mwa/2011/4/section/90) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)
+[^c-4ee31363cb20ed9c040936386eb769d0]: Commencement: [S. 90](https://www.legislation.gov.uk/mwa/2011/4/section/90) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)

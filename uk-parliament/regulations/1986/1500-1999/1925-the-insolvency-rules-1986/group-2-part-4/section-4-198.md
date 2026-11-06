@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.198. Procedure for settling list[^key-a471e6807df69beca0a48c773c70e873]
+## 4.198. Procedure for settling list[^c-a471e6807df69beca0a48c773c70e873]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ The notice shall in either case inform the objector of the effect of Rule 4.199.
 
 ## Annotations
 
-[^key-a471e6807df69beca0a48c773c70e873]: Commencement: [Rule 4.198](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.198) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-a471e6807df69beca0a48c773c70e873]: Commencement: [Rule 4.198](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.198) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

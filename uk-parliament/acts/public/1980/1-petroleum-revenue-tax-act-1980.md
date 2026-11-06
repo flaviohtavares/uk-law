@@ -46,7 +46,7 @@ An Act to make new provision in respect of petroleum revenue tax so as to requir
 
 (3A)[^c914736] In subsections (1) and (3) above “APRT credit” has the meaning given by section 139(4) of the Finance Act 1982.
 
-(3B) Paragraphs 3 [^key-e890415285f2dc86a190b5b0c91001c2]... of Schedule 2 of the principal Act (penalties for failure to make returns under paragraph 2 of that Schedule) shall apply in relation to statements required to be made under subsection (1)( *a* ) above as they apply in relation to returns required to be made under paragraph 2 of that Schedule.
+(3B) Paragraphs 3 [^c-e890415285f2dc86a190b5b0c91001c2]... of Schedule 2 of the principal Act (penalties for failure to make returns under paragraph 2 of that Schedule) shall apply in relation to statements required to be made under subsection (1)( *a* ) above as they apply in relation to returns required to be made under paragraph 2 of that Schedule.
 
 (4) In paragraph 13 of Schedule 2 to the said Act of 1975 (time for payment of tax charged in an assessment) after the words “the tax charged in an assessment made on a participator for any chargeable period” there shall be inserted the words “ so far as not paid on account ”.
 
@@ -128,7 +128,7 @@ An Act to make new provision in respect of petroleum revenue tax so as to requir
 
 [^c914736]: Textual amendment: S. 1(3A)(3B) inserted by [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 139(1)(6)](https://www.legislation.gov.uk/ukpga/1982/39/section/139/1/6), [Sch. 19 para. 21](https://www.legislation.gov.uk/ukpga/1982/39/schedule/19/paragraph/21) for chargeable periods ending after 31 December 1982. With respect to chargeable periods ending on or before 30 June 1983 see [Finance Act 1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), [s. 105](https://www.legislation.gov.uk/ukpga/1980/48/section/105). In relation to chargeable periods ending after 30 June 1983 see [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [Sch. 19 paras 2 to 4](https://www.legislation.gov.uk/ukpga/1982/39/schedule/19/paragraph/2) — instalments of APRT and petroleum revenue tax.
 
-[^key-e890415285f2dc86a190b5b0c91001c2]: Textual amendment: Words in s. 1(3B) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/b); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)
+[^c-e890415285f2dc86a190b5b0c91001c2]: Textual amendment: Words in s. 1(3B) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/b); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2)
 
 [^c914737]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 

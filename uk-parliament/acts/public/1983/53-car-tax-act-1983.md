@@ -31,139 +31,139 @@ Car Tax Act 1983 (repealed)
 
 1983 c. 53
 
-[^key-d72539357e15bd589019e237a5ddd54c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d72539357e15bd589019e237a5ddd54c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Car tax.[^key-d72539357e15bd589019e237a5ddd54c]
+## 1. Car tax.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Chargeable vehicles.[^key-d72539357e15bd589019e237a5ddd54c]
+## 2. Chargeable vehicles.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Wholesale value.[^key-d72539357e15bd589019e237a5ddd54c]
+## 3. Wholesale value.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Registration of makers and importers of chargeable vehicles.[^key-d72539357e15bd589019e237a5ddd54c]
+## 4. Registration of makers and importers of chargeable vehicles.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Liability to and payment of tax.[^key-d72539357e15bd589019e237a5ddd54c]
+## 5. Liability to and payment of tax.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5A. Relief where vehicle leased to the handicapped.[^key-d72539357e15bd589019e237a5ddd54c]
+## 5A. Relief where vehicle leased to the handicapped.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Converted and adapted vehicles.[^key-d72539357e15bd589019e237a5ddd54c]
+## 6. Converted and adapted vehicles.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Remission of tax on certain vehicles.[^key-d72539357e15bd589019e237a5ddd54c]
+## 7. Remission of tax on certain vehicles.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Abolition: special cases.[^key-d72539357e15bd589019e237a5ddd54c]
+## 7A. Abolition: special cases.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Orders and regulations.[^key-d72539357e15bd589019e237a5ddd54c]
+## 8. Orders and regulations.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Interpretation.[^key-d72539357e15bd589019e237a5ddd54c]
+## 9. Interpretation.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consequential, transitional and saving provisions and repeals.[^key-d72539357e15bd589019e237a5ddd54c]
+## 10. Consequential, transitional and saving provisions and repeals.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Short title, commencement and extent.[^key-d72539357e15bd589019e237a5ddd54c]
+## 11. Short title, commencement and extent.[^c-d72539357e15bd589019e237a5ddd54c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d72539357e15bd589019e237a5ddd54c] SCHEDULES
+[^c-d72539357e15bd589019e237a5ddd54c] SCHEDULES
 
-## SCHEDULE 1 — Administration and Collection[^key-d72539357e15bd589019e237a5ddd54c]
+## SCHEDULE 1 — Administration and Collection[^c-d72539357e15bd589019e237a5ddd54c]
 
 Section 1(4).
 
-### General[^key-d72539357e15bd589019e237a5ddd54c]
+### General[^c-d72539357e15bd589019e237a5ddd54c]
 
-**1.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power of Commissioners to assess tax due[^key-d72539357e15bd589019e237a5ddd54c]
+### Power of Commissioners to assess tax due[^c-d72539357e15bd589019e237a5ddd54c]
 
-**2.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Recovery of tax[^key-d72539357e15bd589019e237a5ddd54c]
+### Recovery of tax[^c-d72539357e15bd589019e237a5ddd54c]
 
-**3.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Priority of tax in bankruptcy, winding up, etc.[^key-d72539357e15bd589019e237a5ddd54c]
+### Priority of tax in bankruptcy, winding up, etc.[^c-d72539357e15bd589019e237a5ddd54c]
 
-**4.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Records, accounts and returns[^key-d72539357e15bd589019e237a5ddd54c]
+### Records, accounts and returns[^c-d72539357e15bd589019e237a5ddd54c]
 
-**5.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Giving of information[^key-d72539357e15bd589019e237a5ddd54c]
+### Giving of information[^c-d72539357e15bd589019e237a5ddd54c]
 
-**6.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Entry and search[^key-d72539357e15bd589019e237a5ddd54c]
+### Entry and search[^c-d72539357e15bd589019e237a5ddd54c]
 
-**7.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Offences[^key-d72539357e15bd589019e237a5ddd54c]
+### Offences[^c-d72539357e15bd589019e237a5ddd54c]
 
-**8.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Forfeiture[^key-d72539357e15bd589019e237a5ddd54c]
+### Forfeiture[^c-d72539357e15bd589019e237a5ddd54c]
 
-**9.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Evidence by certificate[^key-d72539357e15bd589019e237a5ddd54c]
+### Evidence by certificate[^c-d72539357e15bd589019e237a5ddd54c]
 
-**10.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Service of notices[^key-d72539357e15bd589019e237a5ddd54c]
+### Service of notices[^c-d72539357e15bd589019e237a5ddd54c]
 
-**11.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Regulations[^key-d72539357e15bd589019e237a5ddd54c]
+### Regulations[^c-d72539357e15bd589019e237a5ddd54c]
 
-**12.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restriction on registration of chargeable vehicles[^key-d72539357e15bd589019e237a5ddd54c]
+### Restriction on registration of chargeable vehicles[^c-d72539357e15bd589019e237a5ddd54c]
 
-**13.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Transitional and Saving Provisions[^key-d72539357e15bd589019e237a5ddd54c]
+## SCHEDULE 2 — Transitional and Saving Provisions[^c-d72539357e15bd589019e237a5ddd54c]
 
 Section 10(3).
 
-**1.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d72539357e15bd589019e237a5ddd54c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Repeals[^key-d72539357e15bd589019e237a5ddd54c]
+## SCHEDULE 3 — Repeals[^c-d72539357e15bd589019e237a5ddd54c]
 
 Section 10(4).
 
@@ -171,4 +171,4 @@ Section 10(4).
 
 ## Annotations
 
-[^key-d72539357e15bd589019e237a5ddd54c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/53) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5
+[^c-d72539357e15bd589019e237a5ddd54c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1983/53) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 5

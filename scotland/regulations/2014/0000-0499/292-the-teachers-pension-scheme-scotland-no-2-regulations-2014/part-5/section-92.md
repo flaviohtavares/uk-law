@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Phased retirement proportion[^key-1873c21b1f5884a78efa64e254fc7419]
+## 92. Phased retirement proportion[^c-1873c21b1f5884a78efa64e254fc7419]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1873c21b1f5884a78efa64e254fc7419]: Commencement: [Reg. 92](https://www.legislation.gov.uk/ssi/2014/292/regulation/92) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1873c21b1f5884a78efa64e254fc7419]: Commencement: [Reg. 92](https://www.legislation.gov.uk/ssi/2014/292/regulation/92) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

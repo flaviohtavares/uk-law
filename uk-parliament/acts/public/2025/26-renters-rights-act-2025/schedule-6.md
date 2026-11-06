@@ -24,13 +24,13 @@ Section 146(2)
 
 ### Part 1 — Application of Chapter 1 of Part 1 to existing tenancies
 
-#### 1. Tenancies which become periodic on the commencement date[^key-4d2f496ed67abed4c854491721e90847]
+#### 1. Tenancies which become periodic on the commencement date[^c-4d2f496ed67abed4c854491721e90847]
 
 (1) This paragraph applies to an existing tenancy which becomes a periodic tenancy on the expiry of a fixed term.
 
 (2) Where the fixed term expires immediately before the commencement date, the amendments made by Chapter 1 of Part 1 do not apply in relation to the tenancy until immediately after the first periodic term has begun.
 
-#### 2. Section 1: start of deemed rent period for existing tenancies[^key-cf0d448e5bb91089b9eca53c80360993]
+#### 2. Section 1: start of deemed rent period for existing tenancies[^c-cf0d448e5bb91089b9eca53c80360993]
 
 In relation to an existing tenancy, section 4A of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) (inserted by section 1) is to be read as if—
 
@@ -44,7 +44,7 @@ In relation to an existing tenancy, section 4A of [the 1988 Act](https://www.leg
   ;
 - (c) in subsection (6), for “R is the rent that would have been due for the first rent period of the tenancy under the terms that are of no effect by virtue of subsection (3)” there were substituted “R is the rent due for the rent period before the first rent period provided for by subsection (5)(a)”.
 
-#### 3. Section 2: claim form for section 21 possession proceedings already requested[^key-a86e66cb7b763ed95cae58cc4a9d56ec]
+#### 3. Section 2: claim form for section 21 possession proceedings already requested[^c-a86e66cb7b763ed95cae58cc4a9d56ec]
 
 (1) This paragraph applies where—
 
@@ -65,7 +65,7 @@ In relation to an existing tenancy, section 4A of [the 1988 Act](https://www.leg
 
 (5) In this paragraph “**possession proceedings**” means proceedings for an order for possession under section 21 of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) in reliance on a valid notice given under that section.
 
-#### 4. Section 2: claim form for section 21 possession proceedings not already requested[^key-009ee53a1bdf70baeb969d93404c8418]
+#### 4. Section 2: claim form for section 21 possession proceedings not already requested[^c-009ee53a1bdf70baeb969d93404c8418]
 
 (1) This paragraph applies where, before the commencement date—
 
@@ -113,18 +113,18 @@ In relation to an existing tenancy, section 4A of [the 1988 Act](https://www.leg
 - “**applicable period**”, in relation to possession proceedings, has the same meaning that it has in relation to those proceedings in section 21 of the 1988 Act as modified by sub-paragraph (2);
 - “**possession proceedings**” means proceedings for an order for possession under section 21 of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) in reliance on a valid notice given under that section.
 
-#### 5. Section 3(2)(g): saving of section 7(7) in relation to tenancies where fixed term ends before commencement date[^key-89dbf658b4c5e4520927abbe57bd2bf3]
+#### 5. Section 3(2)(g): saving of section 7(7) in relation to tenancies where fixed term ends before commencement date[^c-89dbf658b4c5e4520927abbe57bd2bf3]
 
 Section 7(7) of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) continues to apply after the commencement date, despite section 3(2)(g), in relation to an existing tenancy that was a fixed term tenancy before the commencement date.
 
-#### 6. Section 6: no effect on rent increases before commencement date[^key-9a191345185e26a7f324521e0ec86ce8]
+#### 6. Section 6: no effect on rent increases before commencement date[^c-9a191345185e26a7f324521e0ec86ce8]
 
 The amendments made by section 6 do not affect the validity of any increase in rent under an existing tenancy, before the commencement date, in reliance on a provision—
 
 - (a) which was at the time binding on the tenant, and
 - (b) under which the rent for a particular period of the tenancy would or might be greater than the rent for an earlier period.
 
-#### 7. Sections 12, 13 and 15: provision of information in writing[^key-ea1a906bb1a6765376d80edd4be77b77]
+#### 7. Sections 12, 13 and 15: provision of information in writing[^c-ea1a906bb1a6765376d80edd4be77b77]
 
 (1) Where an existing tenancy is wholly or partly in writing—
 
@@ -152,30 +152,30 @@ The amendments made by section 6 do not affect the validity of any increase in r
 
 (7) A statutory instrument containing regulations under sub-paragraph (2) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-#### 8. Section 15: no liability in respect of conduct before commencement date[^key-d8c64225eaed7358dd00d4e0aa7270e3]
+#### 8. Section 15: no liability in respect of conduct before commencement date[^c-d8c64225eaed7358dd00d4e0aa7270e3]
 
 Conduct engaged in, in relation to an existing tenancy, before the commencement date—
 
 - (a) does not give rise to liability to a financial penalty under section 16I or 16K of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) (inserted by section 13), and
 - (b) does not constitute an offence under [section 16J](https://www.legislation.gov.uk/ukpga/1988/50/section/16J) (as so inserted).
 
-#### 9. Section 20: no effect on notice to quit given before commencement date[^key-e2c7de48cea34c3f742b61c3dd61dac9]
+#### 9. Section 20: no effect on notice to quit given before commencement date[^c-e2c7de48cea34c3f742b61c3dd61dac9]
 
 The amendment made by section 20 does not affect the validity of any notice given under section 5 of the [Protection from Eviction Act 1977](https://www.legislation.gov.uk/ukpga/1977/43) in relation to an existing tenancy before the commencement date.
 
-#### 10. Section 24: existing opt-out notices for assured agricultural occupancies[^key-20f28c9b4fbc8d4b482c858607beea32]
+#### 10. Section 24: existing opt-out notices for assured agricultural occupancies[^c-20f28c9b4fbc8d4b482c858607beea32]
 
 Where an existing tenancy would be an assured agricultural occupancy but for a notice served under paragraph 9(2) of Schedule 2A to [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50), the tenancy is to be treated for the purposes of Chapter 3 of Part 1 of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) as amended by this Act, on and after the commencement date, as a tenancy in relation to which an opt-out notice has been served under section 24A of [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) (inserted by section 24 of this Act).
 
-#### 11. Section 26: tenancy deposits[^key-a7b85df94484bf7c3e60877b4df52296]
+#### 11. Section 26: tenancy deposits[^c-a7b85df94484bf7c3e60877b4df52296]
 
 The amendments made by section 26 do not apply in relation to an existing tenancy that, immediately before the commencement date, was an assured tenancy other than an assured shorthold tenancy.
 
-#### 12. Section 27: tenant fees[^key-fc20bbcff8f7bfb1fef08dfd5570e9b6]
+#### 12. Section 27: tenant fees[^c-fc20bbcff8f7bfb1fef08dfd5570e9b6]
 
 The amendments made by section 27 do not apply in relation to an existing tenancy that, immediately before the commencement date, was an assured tenancy other than an assured shorthold tenancy.
 
-#### 13. Schedule 1: student accommodation ground[^key-46f132ba473666870bde1dba31e417e8]
+#### 13. Schedule 1: student accommodation ground[^c-46f132ba473666870bde1dba31e417e8]
 
 (1) In relation to an existing tenancy, ground 4A in Schedule 2 to [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) has effect as if—
 
@@ -217,15 +217,15 @@ The amendments made by section 27 do not apply in relation to an existing tenanc
   - (b) the repair, maintenance, improvement or insurance of the building;
 - “**specified**” means specified in regulations made by the Secretary of State.
 
-#### 14. Schedule 1: stepping stone accommodation ground[^key-a4c0fdbd8985a552d2f4426fe6a39409]
+#### 14. Schedule 1: stepping stone accommodation ground[^c-a4c0fdbd8985a552d2f4426fe6a39409]
 
 In relation to an existing tenancy, paragraph (b) in Ground 5H in Schedule 2 to [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) is to be read as if after “agreement” there were inserted “or a written statement given to the tenant before the commencement date (within the meaning given by section 146 of the Renters’ Rights Act 2025)”.
 
-#### 15. Schedule 1: redevelopment ground[^key-fb70c7a3f91203d681ca6418df481018]
+#### 15. Schedule 1: redevelopment ground[^c-fb70c7a3f91203d681ca6418df481018]
 
 In relation to an existing tenancy, paragraph (c) in case C where the “additional RSL condition” is met in Ground 6 in Schedule 2 to [the 1988 Act](https://www.legislation.gov.uk/ukpga/1988/50) is to be read as if for “before the tenancy was entered into” there were substituted “before the end of the period of one month beginning with the commencement date (within the meaning given by section 146 of the Renters’ Rights Act 2025)”.
 
-#### 16. Claim form for section 8 possession proceedings already requested[^key-603e80ef7dd460b5ad490cb06a01e671]
+#### 16. Claim form for section 8 possession proceedings already requested[^c-603e80ef7dd460b5ad490cb06a01e671]
 
 (1) This paragraph applies where—
 
@@ -246,7 +246,7 @@ In relation to an existing tenancy, paragraph (c) in case C where the “additio
 
 (5) In this paragraph “**possession proceedings**” means proceedings for an order for possession under section 8 of the 1988 Act in reliance on a valid notice given under that section.
 
-#### 17. Claim form for section 8 possession proceedings not already requested[^key-56a3dc2e9cdf19d6185a7e6a3fd9476f]
+#### 17. Claim form for section 8 possession proceedings not already requested[^c-56a3dc2e9cdf19d6185a7e6a3fd9476f]
 
 (1) This paragraph applies where, before the commencement date—
 
@@ -273,13 +273,13 @@ In relation to an existing tenancy, paragraph (c) in case C where the “additio
   - (b) the period of three months beginning with the commencement date, if this three month period ends before the twelve month period mentioned in paragraph (a);
 - “**possession proceedings**” means proceedings for an order for possession under section 8 of the 1988 Act in reliance on a valid notice given under that section.
 
-#### 18. Interpretation[^key-4e3248767a72bab31075bd57b691a89f]
+#### 18. Interpretation[^c-4e3248767a72bab31075bd57b691a89f]
 
 In this Schedule “commencement date” and “existing tenancy” have the meanings given by section 146.
 
 ### Part 2 — Existing instruments which permit or require letting etc
 
-#### 19. Key definitions[^key-29270ee2c4766411f2e587a4206b0a76]
+#### 19. Key definitions[^c-29270ee2c4766411f2e587a4206b0a76]
 
 (1) “Residential premises” are premises that consist of or include one or more dwelling-houses in England.
 
@@ -326,11 +326,11 @@ In this Schedule “commencement date” and “existing tenancy” have the mea
 
   including where there are different periods at different times, each of which falls within sub-paragraph (i) or (ii).
 
-#### 20. Saving for existing powers to vary[^key-cd1d1d49f711f79fc2bf66b34c41d90a]
+#### 20. Saving for existing powers to vary[^c-cd1d1d49f711f79fc2bf66b34c41d90a]
 
 Nothing in this Part of this Schedule prevents a relevant pre-application instrument from being varied or modified by the parties to it (and accordingly paragraphs 21 to 26 and paragraph 28 are subject to any such variation or modification).
 
-#### 21. Relevant pre-application instruments that permit letting on tenancies that are no longer possible[^key-9b62947bd9fdc75a4cfe7a4c1fdcf845]
+#### 21. Relevant pre-application instruments that permit letting on tenancies that are no longer possible[^c-9b62947bd9fdc75a4cfe7a4c1fdcf845]
 
 (1) This paragraph applies to a relevant pre-application instrument if either or both of conditions A and B are met in relation to the affected dwelling-house.
 
@@ -354,13 +354,13 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 - (b) if only condition B is met, the power to let mentioned in sub-paragraph (3)(a);
 - (c) if conditions A and B are both met, the power to let mentioned in sub-paragraph (3)(a).
 
-#### 22. Relevant pre-application instruments that permit letting on tenancies that continue to be possible[^key-5c8aae53c06b8d3c948c99018b3cf2cf]
+#### 22. Relevant pre-application instruments that permit letting on tenancies that continue to be possible[^c-5c8aae53c06b8d3c948c99018b3cf2cf]
 
 (1) This paragraph applies to a relevant pre-application instrument if, immediately before the commencement date, the relevant pre-application instrument permitted the affected dwelling-house to be let under a relevant assured tenancy.
 
 (2) That power to let under a relevant assured tenancy continues to be exercisable in the same circumstances, and on the same terms, as it was exercisable immediately before the commencement date, except so far as that would be inconsistent with any provision made by or under this Act.
 
-#### 23. Relevant pre-application instruments that require letting on tenancies that are no longer possible[^key-42968ab46a5c5f418d24029b31b17f88]
+#### 23. Relevant pre-application instruments that require letting on tenancies that are no longer possible[^c-42968ab46a5c5f418d24029b31b17f88]
 
 (1) This paragraph applies to a relevant pre-application instrument if either or both of conditions A and B are met.
 
@@ -388,7 +388,7 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 - (b) if only condition B is met, the requirement to let mentioned in sub-paragraph (3)(b)(i);
 - (c) if conditions A and B are both met, the requirement to let mentioned in sub-paragraph (3)(b)(i).
 
-#### 24. Relevant pre-application instruments that require letting on tenancies that continue to be possible[^key-e9a0d2e3766c4b78ee9f3e084a6002a9]
+#### 24. Relevant pre-application instruments that require letting on tenancies that continue to be possible[^c-e9a0d2e3766c4b78ee9f3e084a6002a9]
 
 (1) This paragraph applies to a relevant pre-application instrument if, immediately before the commencement date—
 
@@ -397,7 +397,7 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 
 (2) That requirement to let under a relevant assured tenancy must still be complied with in the same circumstances, and on the same terms, as it had to be complied with immediately before the commencement date, except so far as that would be inconsistent with any provision made by or under this Act.
 
-#### 25. Pre-commencement s.106 obligations with provision relating to letting on terms that are no longer possible[^key-4fb3632ad31feb7e0b2041bd355ecf61]
+#### 25. Pre-commencement s.106 obligations with provision relating to letting on terms that are no longer possible[^c-4fb3632ad31feb7e0b2041bd355ecf61]
 
 (1) This paragraph applies to a pre-application section 106 obligation if, immediately before the commencement date, it prevented or restricted the taking of particular action unless or until the affected dwelling-house was let under a superseded tenancy.
 
@@ -405,7 +405,7 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 
 (3) Any such letting under a relevant assured tenancy is to be made in the same circumstances, and on the same terms, as a letting under a superseded tenancy immediately before the commencement date, except so far as that would be inconsistent with any provision made by or under this Act.
 
-#### 26. Pre-commencement s.106 obligations with provision relating to letting on terms that continue to be possible[^key-7a760c74732fcbe1e6df59ca9484f39e]
+#### 26. Pre-commencement s.106 obligations with provision relating to letting on terms that continue to be possible[^c-7a760c74732fcbe1e6df59ca9484f39e]
 
 (1) This paragraph applies to a pre-application section 106 obligation if, immediately before the commencement date—
 
@@ -414,7 +414,7 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 
 (2) Such a letting under a relevant assured tenancy must still be made in the same circumstances, and on the same terms, as a letting under a relevant assured tenancy immediately before the commencement date, except so far as that would be inconsistent with any provision made by or under this Act.
 
-#### 27. Requirements under the Community Infrastructure Regulations 2010[^key-feb4cf5c2f5dc8f4073108e99c868d5b]
+#### 27. Requirements under the Community Infrastructure Regulations 2010[^c-feb4cf5c2f5dc8f4073108e99c868d5b]
 
 (1) This paragraph applies where—
 
@@ -426,7 +426,7 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 
 (3) In this paragraph “**relevant determination**” has the meaning given by regulation 122(3) of the Community Infrastructure Regulations 2010.
 
-#### 28. Leases which cannot be returned at end of term free of sub-lease[^key-deae16357387941e65bdb0a5cec3c085]
+#### 28. Leases which cannot be returned at end of term free of sub-lease[^c-deae16357387941e65bdb0a5cec3c085]
 
 (1) This paragraph applies to a lease if—
 
@@ -440,20 +440,20 @@ Nothing in this Part of this Schedule prevents a relevant pre-application instru
 
 (2) The lease has effect as if it provided that a failure by the lessee at the end of the lease to return the premises to the landlord free from the relevant assured tenancy does not constitute a breach of the lease.
 
-#### 29. Application to agreements etc relating to leases, mortgage arrangements or contracts of insurance[^key-8204326a178176bf1ba854795dcfa606]
+#### 29. Application to agreements etc relating to leases, mortgage arrangements or contracts of insurance[^c-8204326a178176bf1ba854795dcfa606]
 
 In this Part of this Schedule references to a lease, mortgage arrangement or contract of insurance, and references to the terms of a lease, mortgage arrangement or contract of insurance, include references to—
 
 - (a) the terms of any agreement relating to the lease, mortgage arrangement, or contract of insurance, and
 - (b) any document or communication from a party to the lease, mortgage arrangement, or contract of insurance, which gives or refuses consent for letting in relation to a category or description of tenancy.
 
-#### 30. Application to sub-letting[^key-cad9bef374103224d9255bfe7e4071ec]
+#### 30. Application to sub-letting[^c-cad9bef374103224d9255bfe7e4071ec]
 
 (1) In a case where the relevant pre-application instrument is a lease, a reference in this Part of this Schedule to a letting of the affected dwelling-house is a reference to a sub-letting of those premises under that lease or any inferior lease.
 
 (2) In the case of any other relevant pre-application instrument, a reference in this Part of this Schedule to a letting of the affected dwelling-house includes a reference to a sub-letting of those premises under any lease or inferior lease of those premises.
 
-#### 31. Application in certain circumstances[^key-19a2210a1ca4aff660b14a0f539cc0e6]
+#### 31. Application in certain circumstances[^c-19a2210a1ca4aff660b14a0f539cc0e6]
 
 (1) In a case where a relevant pre-application instrument—
 
@@ -468,17 +468,17 @@ the instrument is to be regarded as permitting (and not as requiring) the dwelli
 
 (4) But, if any term of the instrument is such that it gave, or gives, a discretion as to which particular dwelling-house or dwelling-houses the term applies to, this Schedule does not affect that discretion (but the term otherwise has effect subject to this Part of this Schedule).
 
-#### 32. Power to disapply or modify this Part[^key-8ded566009f61a2f1db3a2baf3f61f79]
+#### 32. Power to disapply or modify this Part[^c-8ded566009f61a2f1db3a2baf3f61f79]
 
 (1) The Secretary of State may by regulations disapply or modify the effect of this Part of this Schedule in relation to relevant pre-application instruments of a specified description.
 
 (2) Where the Secretary of State makes regulations under this paragraph disapplying the effect of this Part, the fact that this Schedule has previously applied in relation to a relevant pre-application instrument does not prevent the exercise of the powers in section 148(7)(b) in relation to the relevant pre-application instrument.
 
-#### 33. Meaning of “permitting” letting[^key-37a07a460161e76cb220613ac8b54fea]
+#### 33. Meaning of “permitting” letting[^c-37a07a460161e76cb220613ac8b54fea]
 
 A relevant pre-application instrument permitted, or permits, the affected dwelling-house to be let under a tenancy of a particular description if letting the affected dwelling-house under a tenancy of that description would not have breached the terms of the relevant pre-application instrument.
 
-#### 34. Interpretation[^key-f7803703ac6162416eca04bd90fbf145]
+#### 34. Interpretation[^c-f7803703ac6162416eca04bd90fbf145]
 
 In this Part of this Schedule—
 
@@ -502,70 +502,70 @@ In this Part of this Schedule—
 
 ## Annotations
 
-[^key-4d2f496ed67abed4c854491721e90847]: Commencement: Sch. 6 para. 1 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-4d2f496ed67abed4c854491721e90847]: Commencement: Sch. 6 para. 1 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-cf0d448e5bb91089b9eca53c80360993]: Commencement: Sch. 6 para. 2 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-cf0d448e5bb91089b9eca53c80360993]: Commencement: Sch. 6 para. 2 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-a86e66cb7b763ed95cae58cc4a9d56ec]: Commencement: Sch. 6 para. 3 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-a86e66cb7b763ed95cae58cc4a9d56ec]: Commencement: Sch. 6 para. 3 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-009ee53a1bdf70baeb969d93404c8418]: Commencement: Sch. 6 para. 4 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-009ee53a1bdf70baeb969d93404c8418]: Commencement: Sch. 6 para. 4 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-89dbf658b4c5e4520927abbe57bd2bf3]: Commencement: Sch. 6 para. 5 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-89dbf658b4c5e4520927abbe57bd2bf3]: Commencement: Sch. 6 para. 5 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-9a191345185e26a7f324521e0ec86ce8]: Commencement: Sch. 6 para. 6 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-9a191345185e26a7f324521e0ec86ce8]: Commencement: Sch. 6 para. 6 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-ea1a906bb1a6765376d80edd4be77b77]: Commencement: Sch. 6 para. 7 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-ea1a906bb1a6765376d80edd4be77b77]: Commencement: Sch. 6 para. 7 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-d8c64225eaed7358dd00d4e0aa7270e3]: Commencement: Sch. 6 para. 8 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-d8c64225eaed7358dd00d4e0aa7270e3]: Commencement: Sch. 6 para. 8 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-e2c7de48cea34c3f742b61c3dd61dac9]: Commencement: Sch. 6 para. 9 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-e2c7de48cea34c3f742b61c3dd61dac9]: Commencement: Sch. 6 para. 9 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-20f28c9b4fbc8d4b482c858607beea32]: Commencement: Sch. 6 para. 10 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-20f28c9b4fbc8d4b482c858607beea32]: Commencement: Sch. 6 para. 10 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-a7b85df94484bf7c3e60877b4df52296]: Commencement: Sch. 6 para. 11 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-a7b85df94484bf7c3e60877b4df52296]: Commencement: Sch. 6 para. 11 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-fc20bbcff8f7bfb1fef08dfd5570e9b6]: Commencement: Sch. 6 para. 12 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-fc20bbcff8f7bfb1fef08dfd5570e9b6]: Commencement: Sch. 6 para. 12 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-46f132ba473666870bde1dba31e417e8]: Commencement: Sch. 6 para. 13 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-46f132ba473666870bde1dba31e417e8]: Commencement: Sch. 6 para. 13 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-a4c0fdbd8985a552d2f4426fe6a39409]: Commencement: Sch. 6 para. 14 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-a4c0fdbd8985a552d2f4426fe6a39409]: Commencement: Sch. 6 para. 14 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-fb70c7a3f91203d681ca6418df481018]: Commencement: Sch. 6 para. 15 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-fb70c7a3f91203d681ca6418df481018]: Commencement: Sch. 6 para. 15 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-603e80ef7dd460b5ad490cb06a01e671]: Commencement: Sch. 6 para. 16 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-603e80ef7dd460b5ad490cb06a01e671]: Commencement: Sch. 6 para. 16 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-56a3dc2e9cdf19d6185a7e6a3fd9476f]: Commencement: Sch. 6 para. 17 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-56a3dc2e9cdf19d6185a7e6a3fd9476f]: Commencement: Sch. 6 para. 17 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-4e3248767a72bab31075bd57b691a89f]: Commencement: Sch. 6 para. 18 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-4e3248767a72bab31075bd57b691a89f]: Commencement: Sch. 6 para. 18 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-29270ee2c4766411f2e587a4206b0a76]: Commencement: Sch. 6 para. 19 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-29270ee2c4766411f2e587a4206b0a76]: Commencement: Sch. 6 para. 19 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-cd1d1d49f711f79fc2bf66b34c41d90a]: Commencement: Sch. 6 para. 20 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-cd1d1d49f711f79fc2bf66b34c41d90a]: Commencement: Sch. 6 para. 20 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-9b62947bd9fdc75a4cfe7a4c1fdcf845]: Commencement: Sch. 6 para. 21 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-9b62947bd9fdc75a4cfe7a4c1fdcf845]: Commencement: Sch. 6 para. 21 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-5c8aae53c06b8d3c948c99018b3cf2cf]: Commencement: Sch. 6 para. 22 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-5c8aae53c06b8d3c948c99018b3cf2cf]: Commencement: Sch. 6 para. 22 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-42968ab46a5c5f418d24029b31b17f88]: Commencement: Sch. 6 para. 23 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-42968ab46a5c5f418d24029b31b17f88]: Commencement: Sch. 6 para. 23 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-e9a0d2e3766c4b78ee9f3e084a6002a9]: Commencement: Sch. 6 para. 24 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-e9a0d2e3766c4b78ee9f3e084a6002a9]: Commencement: Sch. 6 para. 24 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-4fb3632ad31feb7e0b2041bd355ecf61]: Commencement: Sch. 6 para. 25 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-4fb3632ad31feb7e0b2041bd355ecf61]: Commencement: Sch. 6 para. 25 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-7a760c74732fcbe1e6df59ca9484f39e]: Commencement: Sch. 6 para. 26 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-7a760c74732fcbe1e6df59ca9484f39e]: Commencement: Sch. 6 para. 26 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-feb4cf5c2f5dc8f4073108e99c868d5b]: Commencement: Sch. 6 para. 27 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-feb4cf5c2f5dc8f4073108e99c868d5b]: Commencement: Sch. 6 para. 27 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-deae16357387941e65bdb0a5cec3c085]: Commencement: Sch. 6 para. 28 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-deae16357387941e65bdb0a5cec3c085]: Commencement: Sch. 6 para. 28 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-8204326a178176bf1ba854795dcfa606]: Commencement: Sch. 6 para. 29 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-8204326a178176bf1ba854795dcfa606]: Commencement: Sch. 6 para. 29 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-cad9bef374103224d9255bfe7e4071ec]: Commencement: Sch. 6 para. 30 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-cad9bef374103224d9255bfe7e4071ec]: Commencement: Sch. 6 para. 30 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-19a2210a1ca4aff660b14a0f539cc0e6]: Commencement: Sch. 6 para. 31 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-19a2210a1ca4aff660b14a0f539cc0e6]: Commencement: Sch. 6 para. 31 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-8ded566009f61a2f1db3a2baf3f61f79]: Commencement: Sch. 6 para. 32 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-8ded566009f61a2f1db3a2baf3f61f79]: Commencement: Sch. 6 para. 32 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-37a07a460161e76cb220613ac8b54fea]: Commencement: Sch. 6 para. 33 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-37a07a460161e76cb220613ac8b54fea]: Commencement: Sch. 6 para. 33 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
 
-[^key-f7803703ac6162416eca04bd90fbf145]: Commencement: Sch. 6 para. 34 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-f7803703ac6162416eca04bd90fbf145]: Commencement: Sch. 6 para. 34 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

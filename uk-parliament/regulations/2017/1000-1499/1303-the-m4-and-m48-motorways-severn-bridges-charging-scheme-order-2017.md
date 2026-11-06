@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The M4 and M48 Motorways (Severn Bridges Charging Scheme) Order 2017 (revoked)[^key-3ebdd8c6f7dc554b4a893df156245310]
+The M4 and M48 Motorways (Severn Bridges Charging Scheme) Order 2017 (revoked)[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 Made
 
@@ -41,60 +41,60 @@ Coming into force
 
 8th January 2018
 
-[^key-3ebdd8c6f7dc554b4a893df156245310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ebdd8c6f7dc554b4a893df156245310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and period in force[^key-3ebdd8c6f7dc554b4a893df156245310]
+## 1. Citation, commencement and period in force[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3ebdd8c6f7dc554b4a893df156245310]
+## 2. Interpretation[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the scheme roads[^key-3ebdd8c6f7dc554b4a893df156245310]
+## 3. Designation of the scheme roads[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Imposition of charges[^key-3ebdd8c6f7dc554b4a893df156245310]
+## 4. Imposition of charges[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Advance payments[^key-3ebdd8c6f7dc554b4a893df156245310]
+## 5. Advance payments[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ebdd8c6f7dc554b4a893df156245310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ebdd8c6f7dc554b4a893df156245310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — CLASSES OF MOTOR VEHICLE AND CHARGES[^key-3ebdd8c6f7dc554b4a893df156245310]
+## SCHEDULE 1 — CLASSES OF MOTOR VEHICLE AND CHARGES[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 Article 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — DECRIPTIONS OF MOTOR VEHICLES NOT SUBJECT TO CHARGE[^key-3ebdd8c6f7dc554b4a893df156245310]
+## SCHEDULE 2 — DECRIPTIONS OF MOTOR VEHICLES NOT SUBJECT TO CHARGE[^c-3ebdd8c6f7dc554b4a893df156245310]
 
 Article 4(2)
 
-**1.**[^key-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3ebdd8c6f7dc554b4a893df156245310] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3ebdd8c6f7dc554b4a893df156245310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ebdd8c6f7dc554b4a893df156245310]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ebdd8c6f7dc554b4a893df156245310]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1303) revoked (31.12.2018) by [The M4 and M48 Motorways (Severn Bridges Charging Scheme) (Amendment etc.) Order 2018 (S.I. 2018/1300)](https://www.legislation.gov.uk/uksi/2018/1300), [art. 5](https://www.legislation.gov.uk/uksi/2018/1300/article/5)
+[^c-3ebdd8c6f7dc554b4a893df156245310]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/1303) revoked (31.12.2018) by [The M4 and M48 Motorways (Severn Bridges Charging Scheme) (Amendment etc.) Order 2018 (S.I. 2018/1300)](https://www.legislation.gov.uk/uksi/2018/1300), [art. 5](https://www.legislation.gov.uk/uksi/2018/1300/article/5)

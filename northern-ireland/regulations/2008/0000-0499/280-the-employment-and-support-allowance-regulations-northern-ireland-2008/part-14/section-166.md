@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 166. Relevant week[^key-43b6c4d8dd4f7294a2f9a4e298cbc37e]
+## 166. Relevant week[^c-43b6c4d8dd4f7294a2f9a4e298cbc37e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43b6c4d8dd4f7294a2f9a4e298cbc37e]: Commencement: [Reg. 166](https://www.legislation.gov.uk/nisr/2008/280/regulation/166) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-43b6c4d8dd4f7294a2f9a4e298cbc37e]: Commencement: [Reg. 166](https://www.legislation.gov.uk/nisr/2008/280/regulation/166) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

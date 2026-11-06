@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137B. Cost of work allowance[^key-fd44d5c804b577b5169fc9c92c0552ff]
+## 137B. Cost of work allowance[^c-fd44d5c804b577b5169fc9c92c0552ff]
 
 *Extent: N.I.*
 
@@ -104,4 +104,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd44d5c804b577b5169fc9c92c0552ff]: Textual amendment: [Art. 137B](https://www.legislation.gov.uk/nisi/2015/2006/article/137B) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [20(2)](https://www.legislation.gov.uk/nisi/2016/999/article/20/2)
+[^c-fd44d5c804b577b5169fc9c92c0552ff]: Textual amendment: [Art. 137B](https://www.legislation.gov.uk/nisi/2015/2006/article/137B) inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [20(2)](https://www.legislation.gov.uk/nisi/2016/999/article/20/2)

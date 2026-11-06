@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.5. Duty of Crown Court officer[^key-82aa2c38f821a5b6d06a0b7b82743db6]
+## 42.5. Duty of Crown Court officer[^c-82aa2c38f821a5b6d06a0b7b82743db6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ unless the court, the Registrar or the Crown Court otherwise directs.
 
 ## Annotations
 
-[^key-82aa2c38f821a5b6d06a0b7b82743db6]: Commencement: [Rule 42.5](https://www.legislation.gov.uk/uksi/2025/909/rule/42.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-82aa2c38f821a5b6d06a0b7b82743db6]: Commencement: [Rule 42.5](https://www.legislation.gov.uk/uksi/2025/909/rule/42.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

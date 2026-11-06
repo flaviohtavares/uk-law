@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Transfer of liabilities relating to section 92 arrangements[^key-8401efa2953ccef9ebda47d316472fa0]
+## 95. Transfer of liabilities relating to section 92 arrangements[^c-8401efa2953ccef9ebda47d316472fa0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8401efa2953ccef9ebda47d316472fa0]: Textual amendment: [S. 95](https://www.legislation.gov.uk/ukpga/2006/41/section/95) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/39); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-8401efa2953ccef9ebda47d316472fa0]: Textual amendment: [S. 95](https://www.legislation.gov.uk/ukpga/2006/41/section/95) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/39); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Delegation by the Commander[^key-e791e2f1e5052a608a891b89a96a8173][^key-69ebecd855121159a026ccfd434d0458]
+## 7. Delegation by the Commander[^c-e791e2f1e5052a608a891b89a96a8173][^c-69ebecd855121159a026ccfd434d0458]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e791e2f1e5052a608a891b89a96a8173]: Commencement: S. 7 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-e791e2f1e5052a608a891b89a96a8173]: Commencement: S. 7 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-69ebecd855121159a026ccfd434d0458]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/31/section/7) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-69ebecd855121159a026ccfd434d0458]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2025/31/section/7) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Appeals relating to age assessments: supplementary[^key-9994a3b41758462764bd5f46fba54bbe]
+## 55. Appeals relating to age assessments: supplementary[^c-9994a3b41758462764bd5f46fba54bbe]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9994a3b41758462764bd5f46fba54bbe]: Commencement: S. 55 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-9994a3b41758462764bd5f46fba54bbe]: Commencement: S. 55 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

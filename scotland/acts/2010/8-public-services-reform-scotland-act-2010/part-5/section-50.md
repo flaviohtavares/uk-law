@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Standards and outcomes[^key-5b8444ba87dbace5c934103382ff43a4][^key-02db0ec2564cd53edefb8a7d737570d4]
+## 50. Standards and outcomes[^c-5b8444ba87dbace5c934103382ff43a4][^c-02db0ec2564cd53edefb8a7d737570d4]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ the Scottish Ministers must consult such persons, or groups of persons, as they 
 
 ## Annotations
 
-[^key-5b8444ba87dbace5c934103382ff43a4]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/8/section/50) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-5b8444ba87dbace5c934103382ff43a4]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/8/section/50) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-02db0ec2564cd53edefb8a7d737570d4]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/8/section/50) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-02db0ec2564cd53edefb8a7d737570d4]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2010/8/section/50) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-be1d0f36c71ce596542796ef54e08abe]
+The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-be1d0f36c71ce596542796ef54e08abe]
 
 Made
 
@@ -41,50 +41,50 @@ Coming into operation
 
 20th September 2006
 
-[^key-be1d0f36c71ce596542796ef54e08abe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be1d0f36c71ce596542796ef54e08abe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-be1d0f36c71ce596542796ef54e08abe]
+## 1. Citation and commencement[^c-be1d0f36c71ce596542796ef54e08abe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-be1d0f36c71ce596542796ef54e08abe]
+## 2. Interpretation[^c-be1d0f36c71ce596542796ef54e08abe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-be1d0f36c71ce596542796ef54e08abe]
+## 3. Amendment of the principal Regulations[^c-be1d0f36c71ce596542796ef54e08abe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-be1d0f36c71ce596542796ef54e08abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be1d0f36c71ce596542796ef54e08abe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be1d0f36c71ce596542796ef54e08abe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be1d0f36c71ce596542796ef54e08abe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be1d0f36c71ce596542796ef54e08abe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be1d0f36c71ce596542796ef54e08abe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/383) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/b)
+[^c-be1d0f36c71ce596542796ef54e08abe]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/383) revoked (1.5.2007) by [The Education (Student Support) Regulations (Northern Ireland) 2007 (S.R. 2007/195)](https://www.legislation.gov.uk/nisr/2007/195), [regs. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2007/195/regulation/4/1/b)

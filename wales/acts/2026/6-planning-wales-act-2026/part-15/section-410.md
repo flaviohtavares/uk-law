@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 410. Short title[^key-0c061e5f2217058efaf64f38d3f9f934]
+## 410. Short title[^c-0c061e5f2217058efaf64f38d3f9f934]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Act may be referred to as—
 
 ## Annotations
 
-[^key-0c061e5f2217058efaf64f38d3f9f934]: Commencement: S. 410 in force at 28.4.2026, see [s. 409(1)(c)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/c)
+[^c-0c061e5f2217058efaf64f38d3f9f934]: Commencement: S. 410 in force at 28.4.2026, see [s. 409(1)(c)](https://www.legislation.gov.uk/asc/2026/6/section/409/1/c)

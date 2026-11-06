@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Penalty fares.[^key-58870fb5fb736a5ce5f2064e18278829]
+## 245. Penalty fares.[^c-58870fb5fb736a5ce5f2064e18278829]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 17 to this Act shall have effect for the purpose of providing for the p
 
 ## Annotations
 
-[^key-58870fb5fb736a5ce5f2064e18278829]: Commencement: S. 245 in force at 15.7.2003 in so far as not already in force by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/c)
+[^c-58870fb5fb736a5ce5f2064e18278829]: Commencement: S. 245 in force at 15.7.2003 in so far as not already in force by [S.I. 2003/1920](https://www.legislation.gov.uk/uksi/2003/1920), [art. 2(c)](https://www.legislation.gov.uk/uksi/2003/1920/article/2/c)

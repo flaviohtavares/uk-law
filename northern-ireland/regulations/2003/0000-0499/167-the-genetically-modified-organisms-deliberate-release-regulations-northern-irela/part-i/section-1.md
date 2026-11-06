@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-ca842cdf986f0b337ac39714f93d0033]
+## 1. Citation and commencement[^c-ca842cdf986f0b337ac39714f93d0033]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the Genetically Modified Organisms (Deliberate
 
 ## Annotations
 
-[^key-ca842cdf986f0b337ac39714f93d0033]: Commencement: Reg. 1 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-ca842cdf986f0b337ac39714f93d0033]: Commencement: Reg. 1 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

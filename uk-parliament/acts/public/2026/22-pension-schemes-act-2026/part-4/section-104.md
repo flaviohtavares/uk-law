@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Powers to amend provisions of Chapter 1 etc: Great Britain[^key-45fe66dd3ed9be44a6647efd2877bf99]
+## 104. Powers to amend provisions of Chapter 1 etc: Great Britain[^c-45fe66dd3ed9be44a6647efd2877bf99]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45fe66dd3ed9be44a6647efd2877bf99]: Commencement: S. 104 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-45fe66dd3ed9be44a6647efd2877bf99]: Commencement: S. 104 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

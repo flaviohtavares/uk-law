@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257GF. Information to be provided by the issuing company etc[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257GF. Information to be provided by the issuing company etc[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ the notice must include particulars of that receipt of replacement value (or exp
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. General duties of the mine operator[^key-482a88c4103b9331240c6e85628b5c0a]
+## 7. General duties of the mine operator[^c-482a88c4103b9331240c6e85628b5c0a]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-482a88c4103b9331240c6e85628b5c0a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/427/regulation/7) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-482a88c4103b9331240c6e85628b5c0a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2016/427/regulation/7) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

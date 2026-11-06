@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Certification of plans, etc.[^key-41ef87a95b15e73c5dc2c77b4b667b42]
+## 51. Certification of plans, etc.[^c-41ef87a95b15e73c5dc2c77b4b667b42]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker shall, as soon as practicable after the making of this Order, sub
 
 ## Annotations
 
-[^key-41ef87a95b15e73c5dc2c77b4b667b42]: Commencement: Art. 51 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-41ef87a95b15e73c5dc2c77b4b667b42]: Commencement: Art. 51 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

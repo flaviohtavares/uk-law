@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) Regulations 2004 (revoked)[^key-fb6b4c430ea73943a1c9ff0194574942]
+The Dangerous Substances and Preparations (Safety) (Consolidation) (Amendment) Regulations 2004 (revoked)[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 Made
 
@@ -52,48 +52,48 @@ for all other purposes
 
 25th December 2004
 
-[^key-fb6b4c430ea73943a1c9ff0194574942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb6b4c430ea73943a1c9ff0194574942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and Interpretation[^key-fb6b4c430ea73943a1c9ff0194574942]
+## 1. Citation, Commencement and Interpretation[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Principal Regulations[^key-fb6b4c430ea73943a1c9ff0194574942]
+## 2. Amendments to the Principal Regulations[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb6b4c430ea73943a1c9ff0194574942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb6b4c430ea73943a1c9ff0194574942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DANGEROUS SUBSTANCES AND PREPARATIONS RESTRICTED BY DIRECTIVE 2003/36 EC[^key-fb6b4c430ea73943a1c9ff0194574942]
+## SCHEDULE 1 — DANGEROUS SUBSTANCES AND PREPARATIONS RESTRICTED BY DIRECTIVE 2003/36 EC[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 Regulation 2(1) and 2(2)
 
-### PART 1[^key-fb6b4c430ea73943a1c9ff0194574942]
+### PART 1[^c-fb6b4c430ea73943a1c9ff0194574942]
 
-[^key-fb6b4c430ea73943a1c9ff0194574942]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2[^key-fb6b4c430ea73943a1c9ff0194574942]
-
-[^key-fb6b4c430ea73943a1c9ff0194574942]
+[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — DANGEROUS SUBSTANCES AND PREPARATIONS RESTRICTED BY DIRECTIVE 2003/34 EC[^key-fb6b4c430ea73943a1c9ff0194574942]
+### PART 2[^c-fb6b4c430ea73943a1c9ff0194574942]
+
+[^c-fb6b4c430ea73943a1c9ff0194574942]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — DANGEROUS SUBSTANCES AND PREPARATIONS RESTRICTED BY DIRECTIVE 2003/34 EC[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 Regulation 2(3)
 
-[^key-fb6b4c430ea73943a1c9ff0194574942]
+[^c-fb6b4c430ea73943a1c9ff0194574942]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb6b4c430ea73943a1c9ff0194574942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb6b4c430ea73943a1c9ff0194574942]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb6b4c430ea73943a1c9ff0194574942]: Textual amendment: Regulations revoked (24.8.2007) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2916/regulation/3))
+[^c-fb6b4c430ea73943a1c9ff0194574942]: Textual amendment: Regulations revoked (24.8.2007) by [The Dangerous Substances and Preparations (Safety) Regulations 2006 (S.I. 2006/2916)](https://www.legislation.gov.uk/uksi/2006/2916), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2916/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2916/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264. Exclusion of the National Lottery[^key-1f1d18ae8e9be651b1f80ff03da609f6]
+## 264. Exclusion of the National Lottery[^c-1f1d18ae8e9be651b1f80ff03da609f6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The preceding provisions of this Part do not apply to the National Lottery.
 
 ## Annotations
 
-[^key-1f1d18ae8e9be651b1f80ff03da609f6]: Commencement: [S. 264](https://www.legislation.gov.uk/ukpga/2005/19/section/264) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-1f1d18ae8e9be651b1f80ff03da609f6]: Commencement: [S. 264](https://www.legislation.gov.uk/ukpga/2005/19/section/264) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)

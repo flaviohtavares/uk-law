@@ -22,11 +22,11 @@ summary: ''
 
 Sections 247 and 257
 
-### 1. Seizure[^key-9dc35a3d77e587db7ff11dba010f9984]
+### 1. Seizure[^c-9dc35a3d77e587db7ff11dba010f9984]
 
 Power to seize property to which the order applies.
 
-### 2. Information[^key-a8beaf5c0ba11eb54f2700dd85e0a7bc]
+### 2. Information[^c-a8beaf5c0ba11eb54f2700dd85e0a7bc]
 
 (1) Power to obtain information or to require a person to answer any question.
 
@@ -46,7 +46,7 @@ Power to seize property to which the order applies.
 
 by him or on his behalf in the proceedings arising out of the prosecution.
 
-### 3. Entry, search, etc.[^key-cf6d5dc7750ad91d69dd4bb2e2d504da]
+### 3. Entry, search, etc.[^c-cf6d5dc7750ad91d69dd4bb2e2d504da]
 
 (1) Power to—
 
@@ -61,7 +61,7 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 
 (3) The order may describe anything generally, whether by reference to a class or otherwise.
 
-### 4. Supplementary[^key-0f13a70af55d070d2f0fa009e078d0d6]
+### 4. Supplementary[^c-0f13a70af55d070d2f0fa009e078d0d6]
 
 (1) An order making any provision under paragraph 2 or 3 must make provision in respect of legal professional privilege (in Scotland, legal privilege within the meaning of Chapter 3 of Part 8).
 
@@ -70,7 +70,7 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 - (a) to give the interim receiver or administrator access to any premises which he may enter in pursuance of paragraph 3,
 - (b) to give the interim receiver or administrator any assistance he may require for taking the steps mentioned in that paragraph.
 
-### 5. Management[^key-b8254edfc1838c6214591f6e2cd67960]
+### 5. Management[^c-b8254edfc1838c6214591f6e2cd67960]
 
 (1) Power to manage any property to which the order applies.
 
@@ -82,12 +82,12 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 
 ## Annotations
 
-[^key-9dc35a3d77e587db7ff11dba010f9984]: Commencement: Sch. 6 para. 1 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-9dc35a3d77e587db7ff11dba010f9984]: Commencement: Sch. 6 para. 1 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-a8beaf5c0ba11eb54f2700dd85e0a7bc]: Commencement: Sch. 6 para. 2 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-a8beaf5c0ba11eb54f2700dd85e0a7bc]: Commencement: Sch. 6 para. 2 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-cf6d5dc7750ad91d69dd4bb2e2d504da]: Commencement: Sch. 6 para. 3 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-cf6d5dc7750ad91d69dd4bb2e2d504da]: Commencement: Sch. 6 para. 3 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-0f13a70af55d070d2f0fa009e078d0d6]: Commencement: Sch. 6 para. 4 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-0f13a70af55d070d2f0fa009e078d0d6]: Commencement: Sch. 6 para. 4 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-b8254edfc1838c6214591f6e2cd67960]: Commencement: Sch. 6 para. 5 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-b8254edfc1838c6214591f6e2cd67960]: Commencement: Sch. 6 para. 5 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Physical examinations at oral hearings[^key-0b147cf522dc234ef43289fd6ebd4737]
+## 52. Physical examinations at oral hearings[^c-0b147cf522dc234ef43289fd6ebd4737]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b147cf522dc234ef43289fd6ebd4737]: Textual amendment: Regs. 49-58 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/126) (with [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/c) , [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4) )
+[^c-0b147cf522dc234ef43289fd6ebd4737]: Textual amendment: Regs. 49-58 omitted (3.11.2008) by virtue of [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683) , [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1) , [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/126) (with [arts. 3(2)(c)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/2/c) , [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4) )

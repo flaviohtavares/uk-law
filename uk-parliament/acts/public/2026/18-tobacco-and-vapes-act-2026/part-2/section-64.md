@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Displays of vaping and nicotine products[^key-70846797bfbfe4928bde2b9be6fca016][^key-2ac57e329b918babb20cce958b47ac17]
+## 64. Displays of vaping and nicotine products[^c-70846797bfbfe4928bde2b9be6fca016][^c-2ac57e329b918babb20cce958b47ac17]
 
 *Extent: S*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70846797bfbfe4928bde2b9be6fca016]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-70846797bfbfe4928bde2b9be6fca016]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-2ac57e329b918babb20cce958b47ac17]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2026/18/section/64) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-2ac57e329b918babb20cce958b47ac17]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2026/18/section/64) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

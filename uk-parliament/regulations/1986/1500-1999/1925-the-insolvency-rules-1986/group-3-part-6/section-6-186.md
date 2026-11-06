@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.186. Application for exercise of court's powers under s.320[^key-de7f236c88084a30771d079f804ce736]
+## 6.186. Application for exercise of court's powers under s.320[^c-de7f236c88084a30771d079f804ce736]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ This paragraph does not apply if, at the time when the order is issued, other ap
 
 ## Annotations
 
-[^key-de7f236c88084a30771d079f804ce736]: Commencement: [Rule 6.186](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.186) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-de7f236c88084a30771d079f804ce736]: Commencement: [Rule 6.186](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.186) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

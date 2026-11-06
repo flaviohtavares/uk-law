@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Operation of an offshore electricity generating station and keeping of overhead lines[^key-2ecfe22493130264ed8054af4dee7d59]
+## 5. Operation of an offshore electricity generating station and keeping of overhead lines[^c-2ecfe22493130264ed8054af4dee7d59]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ecfe22493130264ed8054af4dee7d59]: Commencement: Art. 5 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-2ecfe22493130264ed8054af4dee7d59]: Commencement: Art. 5 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

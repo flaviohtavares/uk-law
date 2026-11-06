@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 491. Meaning of “the reference banks”[^key-0c4d10204451c333aea55ec518f5cb3f]
+## 491. Meaning of “the reference banks”[^c-0c4d10204451c333aea55ec518f5cb3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0c4d10204451c333aea55ec518f5cb3f]: Commencement: Art. 491 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0c4d10204451c333aea55ec518f5cb3f]: Commencement: Art. 491 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00322]: Footnote: Schedule A1 was revoked by virtue of [S.I. 1997/1613](https://www.legislation.gov.uk/uksi/1997/1613), regulation 3(1), insofar as it applies to the “active” members of a scheme as defined in these Regulations and by Pensions Act 1995, section 124(1).
 

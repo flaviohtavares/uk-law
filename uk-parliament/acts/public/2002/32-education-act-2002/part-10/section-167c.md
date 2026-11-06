@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167C. Directions under section 167A: information[^key-f2e784abbc45b1834252ce21dbe392b1][^key-5a37e4effc66a21ab6373bb7ca85fb7e]
+## 167C. Directions under section 167A: information[^c-f2e784abbc45b1834252ce21dbe392b1][^c-5a37e4effc66a21ab6373bb7ca85fb7e]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f2e784abbc45b1834252ce21dbe392b1]: Textual amendment: S. 167C substituted (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/23) (with [s. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139)); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))
+[^c-f2e784abbc45b1834252ce21dbe392b1]: Textual amendment: S. 167C substituted (5.1.2015) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/23) (with [s. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139)); [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(z)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/z) (with [art. 4](https://www.legislation.gov.uk/uksi/2014/3364/article/4))
 
-[^key-5a37e4effc66a21ab6373bb7ca85fb7e]: Textual amendment: Ss. 167A-167D and cross-heading inserted (12.10.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 169](https://www.legislation.gov.uk/ukpga/2006/40/section/169), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)
+[^c-5a37e4effc66a21ab6373bb7ca85fb7e]: Textual amendment: Ss. 167A-167D and cross-heading inserted (12.10.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 169](https://www.legislation.gov.uk/ukpga/2006/40/section/169), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2009/2545](https://www.legislation.gov.uk/uksi/2009/2545), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2009/2545/article/3/1/a)

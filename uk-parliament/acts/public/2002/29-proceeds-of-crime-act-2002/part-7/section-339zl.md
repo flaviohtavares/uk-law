@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339ZL. Code of practice about certain information orders[^key-cf899a1dffb3a230ca40284f394eb6f8][^key-bc547a8ca556dd31fa7f460cf64920e2]
+## 339ZL. Code of practice about certain information orders[^c-cf899a1dffb3a230ca40284f394eb6f8][^c-bc547a8ca556dd31fa7f460cf64920e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf899a1dffb3a230ca40284f394eb6f8]: Textual amendment: [S. 339ZL](https://www.legislation.gov.uk/ukpga/2002/29/section/339ZL) inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 185(12)](https://www.legislation.gov.uk/ukpga/2023/56/section/185/12), [219(2)(h)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/h)
+[^c-cf899a1dffb3a230ca40284f394eb6f8]: Textual amendment: [S. 339ZL](https://www.legislation.gov.uk/ukpga/2002/29/section/339ZL) inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 185(12)](https://www.legislation.gov.uk/ukpga/2023/56/section/185/12), [219(2)(h)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/h)
 
-[^key-bc547a8ca556dd31fa7f460cf64920e2]: Textual amendment: Ss. 339ZH-339ZK and cross-heading inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 12](https://www.legislation.gov.uk/ukpga/2017/22/section/12), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/2))
+[^c-bc547a8ca556dd31fa7f460cf64920e2]: Textual amendment: Ss. 339ZH-339ZK and cross-heading inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 12](https://www.legislation.gov.uk/ukpga/2017/22/section/12), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/c) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2017/991/regulation/3/2))

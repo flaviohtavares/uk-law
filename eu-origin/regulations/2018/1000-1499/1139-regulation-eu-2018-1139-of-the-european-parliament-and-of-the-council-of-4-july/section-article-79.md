@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-With regard to the safety-related aerodrome equipment referred to in Article 35, the CAA[^key-96a09bc6df33f966107c55bcdbeb73ba] shall:
+With regard to the safety-related aerodrome equipment referred to in Article 35, the CAA[^c-96a09bc6df33f966107c55bcdbeb73ba] shall:
 
 - ((a)) establish and notify to the applicant the detailed specifications for the safety-related aerodrome equipment which is subject to certification in accordance with Article 35;
 - ((b)) establish and make available the detailed specifications for the safety-related aerodrome equipment which is subject to a declaration in accordance with Article 35;
@@ -28,4 +28,4 @@ With regard to the safety-related aerodrome equipment referred to in Article 35,
 
 ## Annotations
 
-[^key-96a09bc6df33f966107c55bcdbeb73ba]: Textual amendment: Word in [Art. 79](https://www.legislation.gov.uk/eur/2018/1139/article/79) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [150](https://www.legislation.gov.uk/uksi/2019/645/regulation/150) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96a09bc6df33f966107c55bcdbeb73ba]: Textual amendment: Word in [Art. 79](https://www.legislation.gov.uk/eur/2018/1139/article/79) substituted (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [regs. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [150](https://www.legislation.gov.uk/uksi/2019/645/regulation/150) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

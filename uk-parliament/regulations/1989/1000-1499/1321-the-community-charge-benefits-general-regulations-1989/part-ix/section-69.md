@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Further review of determinations[^key-68d4e727aae2797e8bc2431db51ab450]
+## 69. Further review of determinations[^c-68d4e727aae2797e8bc2431db51ab450]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68d4e727aae2797e8bc2431db51ab450]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1989/1321/regulation/69) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-68d4e727aae2797e8bc2431db51ab450]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1989/1321/regulation/69) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
 [^f00064]: Footnote: [1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).

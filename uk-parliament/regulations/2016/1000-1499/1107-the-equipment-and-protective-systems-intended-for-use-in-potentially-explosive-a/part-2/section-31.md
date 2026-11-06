@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Prohibition on making available on the market where product not considered to be in conformity with safety objectives[^key-bab385e4896505dba93b38f0553bfe19]
+## 31. Prohibition on making available on the market where product not considered to be in conformity with safety objectives[^c-bab385e4896505dba93b38f0553bfe19]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bab385e4896505dba93b38f0553bfe19]: Commencement: Reg. 31 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-bab385e4896505dba93b38f0553bfe19]: Commencement: Reg. 31 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

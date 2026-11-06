@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Victim’s right to receive information concerning offender subject to compulsion order by virtue of cross-border transfer[^key-719e0aeca4fd28404fdcc765c2979fc0]
+## 45. Victim’s right to receive information concerning offender subject to compulsion order by virtue of cross-border transfer[^c-719e0aeca4fd28404fdcc765c2979fc0]
 
 *Extent: S*
 
@@ -119,4 +119,4 @@ summary: ''
 
 ## Annotations
 
-[^key-719e0aeca4fd28404fdcc765c2979fc0]: Commencement: S. 45 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-719e0aeca4fd28404fdcc765c2979fc0]: Commencement: S. 45 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

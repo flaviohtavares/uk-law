@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A disposal made at a landfill site[^key-8bfc695ae757641f9c8843c114f52d3d] is not a taxable disposal for the purposes of this Part if it is shown to the satisfaction of the Commissioners that the disposal is of material all of which fulfils each of the conditions set out in subsections (2) to (4) below.
+(1) A disposal made at a landfill site[^c-8bfc695ae757641f9c8843c114f52d3d] is not a taxable disposal for the purposes of this Part if it is shown to the satisfaction of the Commissioners that the disposal is of material all of which fulfils each of the conditions set out in subsections (2) to (4) below.
 
 (2) The material must result from commercial mining operations (whether the mining is deep or open-cast) or from commercial quarrying operations.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bfc695ae757641f9c8843c114f52d3d]: Textual amendment: Words in [s. 44(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/44/1) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/6)
+[^c-8bfc695ae757641f9c8843c114f52d3d]: Textual amendment: Words in [s. 44(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/44/1) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/6)

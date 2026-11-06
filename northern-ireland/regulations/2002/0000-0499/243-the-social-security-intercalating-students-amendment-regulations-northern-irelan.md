@@ -43,13 +43,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(d), 133(2)(j) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 8(4) of the Jobseekers (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004], in so far as regulation 2(1) and (2)(a) are concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-1bc6d75f436bd6dac31161b3f3140893]
+## 1. Citation, commencement and interpretation[^c-1bc6d75f436bd6dac31161b3f3140893]
 
 (1) These Regulations may be cited as the Social Security (Intercalating Students Amendment) Regulations (Northern Ireland) 2002 and shall come into operation on 1st August 2002.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Intercalating students[^key-995271ed6f2c45489b1cd548146598be]
+## 2. Intercalating students[^c-995271ed6f2c45489b1cd548146598be]
 
 (1) In each of the provisions specified in paragraph (2) –
 
@@ -62,7 +62,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (2) The provisions specified for the purposes of paragraph (1) are –
 
-- (a)[^key-8733eb5d4342733032f8f35f5c1be876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8733eb5d4342733032f8f35f5c1be876] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) regulation 1(2E) of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00008] (interpretation).
 
 Sealed with the Official Seal of the Department for Social Development on 10th July 2002.
@@ -105,12 +105,12 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-1bc6d75f436bd6dac31161b3f3140893]: Commencement: Reg. 1 in operation at 1.8.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/243/regulation/1/1)
+[^c-1bc6d75f436bd6dac31161b3f3140893]: Commencement: Reg. 1 in operation at 1.8.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/243/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-995271ed6f2c45489b1cd548146598be]: Commencement: Reg. 2 in operation at 1.8.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/243/regulation/1/1)
+[^c-995271ed6f2c45489b1cd548146598be]: Commencement: Reg. 2 in operation at 1.8.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/243/regulation/1/1)
 
-[^key-8733eb5d4342733032f8f35f5c1be876]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2002/243/regulation/2/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8733eb5d4342733032f8f35f5c1be876]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/nisr/2002/243/regulation/2/2/a) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00008]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); paragraph (2E) was inserted by regulation 4(2)(b) of [S.R. 2000 No. 241](https://www.legislation.gov.uk/nisr/2000/241)

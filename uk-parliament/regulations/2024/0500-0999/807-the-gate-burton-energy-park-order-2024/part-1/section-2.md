@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-8df2628a3c8c4ef57d80d391d2a3e211]
+## 2. Interpretation[^c-8df2628a3c8c4ef57d80d391d2a3e211]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - “**the 1990 Act**” means the Town and Country Planning Act 1990[^f00018];
 - “**the 1991 Act**” means the New Roads and Street Works Act 1991[^f00019];
 - “**the 2008 Act**” means the Planning Act 2008[^f00020];
-- [^key-e79e24aca7b16a09f21eecc8792ab512]...
+- [^c-e79e24aca7b16a09f21eecc8792ab512]...
 - “**address**” includes any number or address used for the purposes of electronic transmission;
 - “**apparatus**” has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act except that, unless otherwise provided, it further includes pipelines (and parts of them), aerial markers, cathodic protection test posts, field boundary markers, transformer rectifier kiosks, electricity cables, telecommunications equipment and electricity cabinets;
 - “**Archaeological mitigation strategy**” means the plans of that name identified in the table at Schedule 12 (documents and plans to be certified), including Part 1 and Part 2, and which are certified by the Secretary of State as the archaeological mitigation strategy for the purposes of this Order;
@@ -109,7 +109,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8df2628a3c8c4ef57d80d391d2a3e211]: Commencement: Art. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-8df2628a3c8c4ef57d80d391d2a3e211]: Commencement: Art. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
 [^f00012]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -129,7 +129,7 @@ summary: ''
 
 [^f00020]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-e79e24aca7b16a09f21eecc8792ab512]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/807/article/2/1) omitted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-e79e24aca7b16a09f21eecc8792ab512]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2024/807/article/2/1) omitted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
 [^f00022]: Footnote: As amended by paragraph 10(2) of Schedule 7 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34).
 

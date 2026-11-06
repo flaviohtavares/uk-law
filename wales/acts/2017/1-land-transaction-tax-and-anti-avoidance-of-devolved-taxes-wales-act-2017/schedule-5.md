@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — HIGHER RATES RESIDENTIAL PROPERTY TRANSACTIONS[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+## SCHEDULE 5 — HIGHER RATES RESIDENTIAL PROPERTY TRANSACTIONS[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 *Extent: E+W*
 
 (as introduced by section 24(10))
 
-### PART 1 — INTRODUCTORY[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+### PART 1 — INTRODUCTORY[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 #### Overview
 
-**1.**[^key-66de51f4505d6e28ac8fc06842b42a10][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This Schedule makes provision about higher rates residential property transactions.
+**1.**[^c-66de51f4505d6e28ac8fc06842b42a10][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This Schedule makes provision about higher rates residential property transactions.
 
 (2) This Schedule is arranged as follows—
 
@@ -36,15 +36,15 @@ summary: ''
 - (d) Part 5 contains supplementary provision, including about returns and about the application of the provisions in Parts 2, 3 and 4 in specified circumstances;
 - (e) Part 6 contains interpretative provision.
 
-### PART 2 — BUYER IS AN INDIVIDUAL: SINGLE DWELLING TRANSACTIONS[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+### PART 2 — BUYER IS AN INDIVIDUAL: SINGLE DWELLING TRANSACTIONS[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 #### Introductory
 
-**2.**[^key-cdc3c71148979e61492233d906f7a14e][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] This Part sets out when a chargeable transaction is a ““higher rates residential property transaction”” for the purpose of regulations under section 24(1)(b) in the case of a transaction involving a dwelling where the buyer is an individual.
+**2.**[^c-cdc3c71148979e61492233d906f7a14e][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] This Part sets out when a chargeable transaction is a ““higher rates residential property transaction”” for the purpose of regulations under section 24(1)(b) in the case of a transaction involving a dwelling where the buyer is an individual.
 
 #### Higher rates residential property transactions
 
-**3.**[^key-9bd7aecda7fedab04c9fbb1cffe9803d][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
+**3.**[^c-9bd7aecda7fedab04c9fbb1cffe9803d][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
 
 - (a) it falls within sub-paragraph (2), and
 - (b) paragraph 5 applies.
@@ -68,17 +68,17 @@ summary: ''
 
 (5) This paragraph applies subject to the exceptions provided for in—
 
-- (a) paragraph 7 (interest in same main residence exception), [^key-3d9e0432299e54c25f86e89c506edce2]...
-- (b) paragraph 8 (replacement of main residence exception) and,[^key-70d338f2536bac1b6b26c555843ca299]
+- (a) paragraph 7 (interest in same main residence exception), [^c-3d9e0432299e54c25f86e89c506edce2]...
+- (b) paragraph 8 (replacement of main residence exception) and,[^c-70d338f2536bac1b6b26c555843ca299]
 - (c) paragraph 9A (subsequent disposal to local authorities exception).
 
 (6) In this Part of this Schedule, “**"purchased dwelling”**” has the meaning given by sub-paragraph (2)(b).
 
-**4.**[^key-31bdff928e0b274f2f842536b1296ae5][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where paragraph 9 applies, an intermediate transaction (within the meaning given by that paragraph) is to be treated as a higher rates residential property transaction.
+**4.**[^c-31bdff928e0b274f2f842536b1296ae5][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where paragraph 9 applies, an intermediate transaction (within the meaning given by that paragraph) is to be treated as a higher rates residential property transaction.
 
 #### Buyer has a major interest in other dwelling
 
-**5.**[^key-840730c940f8e779f3a3b675f1448e4b][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies in relation to a transaction if, at the end of the day that is the effective date of the transaction—
+**5.**[^c-840730c940f8e779f3a3b675f1448e4b][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies in relation to a transaction if, at the end of the day that is the effective date of the transaction—
 
 - (a) the buyer has a major interest in a dwelling other than the purchased dwelling, and
 - (b) that interest has a market value of £40,000 or more.
@@ -124,31 +124,31 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Two or more buyers
 
-**6.**[^key-834e01b5457623e314f6967ca29a9e36][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where there are two or more buyers who are individuals in a transaction—
+**6.**[^c-834e01b5457623e314f6967ca29a9e36][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where there are two or more buyers who are individuals in a transaction—
 
 - (a) the transaction is a higher rates residential property transaction if paragraph 3 applies in relation to any one of the buyers;
 - (b) an intermediate transaction (within the meaning of paragraph 9(2)) is to be treated as a higher rates residential property transaction if paragraph 9 applies in relation to any one of the buyers.
 
 #### Interest in same main residence exception
 
-**7.**[^key-3ee7795aa7719583b3e28686297fb412][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] A transaction is not a higher rates residential property transaction under paragraph 3 if the main subject-matter of the transaction is a major interest in a dwelling—
+**7.**[^c-3ee7795aa7719583b3e28686297fb412][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] A transaction is not a higher rates residential property transaction under paragraph 3 if the main subject-matter of the transaction is a major interest in a dwelling—
 
-- (a) in which, immediately before the effective date of the transaction, the buyer or the buyer’s spouse or civil partner[^key-4b1a28892210175e4524a70fe2b228d0] had another major interest, and
+- (a) in which, immediately before the effective date of the transaction, the buyer or the buyer’s spouse or civil partner[^c-4b1a28892210175e4524a70fe2b228d0] had another major interest, and
 - (b) which, immediately before and after the effective date of the transaction, is the buyer's only or main residence.
 
 #### Replacement of main residence exception
 
-**8.**[^key-2e49110772f59c7b2bb1b1b7521af151][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A transaction is not a higher rates residential property transaction under paragraph 3 if the purchased dwelling is a replacement for the buyer's only or main residence.
+**8.**[^c-2e49110772f59c7b2bb1b1b7521af151][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A transaction is not a higher rates residential property transaction under paragraph 3 if the purchased dwelling is a replacement for the buyer's only or main residence.
 
 (2) For the purposes of this paragraph, the purchased dwelling is a replacement for the buyer's only or main residence if—
 
 - (a) on the effective date of the transaction (““the transaction concerned””) the buyer intends the purchased dwelling to be the buyer's only or main residence,
-- (b) in another land transaction (““the previous transaction””), the effective date of which was during the permitted period[^key-e6b47bd268b678a429f0b687cd2bb3d3], the buyer or the buyer's spouse or civil partner at the time disposed of a major interest in another dwelling (““the sold dwelling””),
+- (b) in another land transaction (““the previous transaction””), the effective date of which was during the permitted period[^c-e6b47bd268b678a429f0b687cd2bb3d3], the buyer or the buyer's spouse or civil partner at the time disposed of a major interest in another dwelling (““the sold dwelling””),
 - (c) immediately after the effective date of the previous transaction, neither the buyer nor the buyer's spouse or civil partner had a major interest in the sold dwelling,
-- (d) at any time during the permitted period[^key-e31391deb94261d3621859038e49a6ca] referred to in paragraph (b) the sold dwelling was the buyer's only or main residence, and
+- (d) at any time during the permitted period[^c-e31391deb94261d3621859038e49a6ca] referred to in paragraph (b) the sold dwelling was the buyer's only or main residence, and
 - (e) at no time during the period beginning with the effective date of the previous transaction and ending with the effective date of the transaction concerned has the buyer or the buyer's spouse or civil partner acquired a major interest in any other dwelling with the intention of it being the buyer's only or main residence.
 
-(2A)[^key-8c305403af75b6dcf8e3491d99839b23] For the purposes of sub-paragraphs (2)(b) and (d), “**the permitted period**” means—
+(2A)[^c-8c305403af75b6dcf8e3491d99839b23] For the purposes of sub-paragraphs (2)(b) and (d), “**the permitted period**” means—
 
 - (a) the period of 3 years ending with the effective date of the transaction concerned, or
 - (b) any period ending with the effective date of the transaction concerned that is longer than 3 years if the conditions in sub-paragraph (2B) are met.
@@ -168,11 +168,11 @@ JT is the number of joint tenants entitled to the interest.
 (4) For the purposes of this paragraph, the purchased dwelling may become a replacement for the buyer's only or main residence if—
 
 - (a) on the effective date of the transaction (““the transaction concerned””) the buyer intended the purchased dwelling to be the buyer's only or main residence,
-- (b) in another land transaction (“the disposal transaction”)[^key-be6cb84c9f361040df16358f015392a3] the effective date of which is during the permitted period[^key-668901ad0a71aac6e97df13587639304], the buyer or the buyer's spouse, former spouse, civil partner or former civil partner disposes of a major interest in another dwelling (““the sold dwelling””),
-- (c) immediately after the effective date of the disposal transaction[^key-b72505a22eea1810ab94b345b02c49af], neither the buyer nor the buyer's spouse or civil partner has a major interest in the sold dwelling, and
+- (b) in another land transaction (“the disposal transaction”)[^c-be6cb84c9f361040df16358f015392a3] the effective date of which is during the permitted period[^c-668901ad0a71aac6e97df13587639304], the buyer or the buyer's spouse, former spouse, civil partner or former civil partner disposes of a major interest in another dwelling (““the sold dwelling””),
+- (c) immediately after the effective date of the disposal transaction[^c-b72505a22eea1810ab94b345b02c49af], neither the buyer nor the buyer's spouse or civil partner has a major interest in the sold dwelling, and
 - (d) at any time during the period of 3 years ending with the effective date of the transaction concerned the sold dwelling was the buyer's only or main residence.
 
-(4A)[^key-a360ea22f5d4463f1f721aa185ea3af5] For the purposes of sub-paragraph (4)(b), “**the permitted period**” means—
+(4A)[^c-a360ea22f5d4463f1f721aa185ea3af5] For the purposes of sub-paragraph (4)(b), “**the permitted period**” means—
 
 - (a) the period of 3 years beginning with the day after the effective date of the transaction concerned, or
 - (b) any period beginning with the day after the effective date of the transaction concerned that is longer than 3 years if the conditions in sub-paragraph (4B) or sub-paragraph (4C) are met.
@@ -209,13 +209,13 @@ JT is the number of joint tenants entitled to the interest.
 
 (4E) In the definition of “relevant person” in sub-paragraph (4D), “**developer**” does not include a developer who is also the person who had the major interest.
 
-(5) Sub-paragraph (4)(c) does not apply in relation to a spouse or civil partner of the buyer if the two of them are not living together on the effective date of the disposal transaction[^key-203aa4f8ba7a2014789b319c2faf3d7d] (for the meaning of ““living together””, see paragraph 25(3)).
+(5) Sub-paragraph (4)(c) does not apply in relation to a spouse or civil partner of the buyer if the two of them are not living together on the effective date of the disposal transaction[^c-203aa4f8ba7a2014789b319c2faf3d7d] (for the meaning of ““living together””, see paragraph 25(3)).
 
 (6) For further provision in connection with a dwelling becoming a replacement for the buyer's only or main residence, see paragraph 23.
 
 #### Replacement of main residence: transactions during interim period
 
-**9.**[^key-aff99bd21008e56cfa71b41956cb6781][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where—
+**9.**[^c-aff99bd21008e56cfa71b41956cb6781][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where—
 
 - (a) the buyer in an intermediate transaction replaces a main residence in another transaction, and
 - (b) the effective date of the intermediate transaction is during the interim period.
@@ -250,7 +250,7 @@ JT is the number of joint tenants entitled to the interest.
 
 (6) For further provision in connection with an intermediate transaction being treated as a higher rates residential property transaction, see paragraph 24.
 
-#### Subsequent disposal to local authorities exception: buyer is an individual in a single dwelling transaction[^key-88d97598f2e0bd09d25cde5c63e88aa9]
+#### Subsequent disposal to local authorities exception: buyer is an individual in a single dwelling transaction[^c-88d97598f2e0bd09d25cde5c63e88aa9]
 
 **9A.** (1) This paragraph applies to a transaction (“**the acquisition transaction**”)—
 
@@ -274,15 +274,15 @@ JT is the number of joint tenants entitled to the interest.
 
 (5) For the purposes of sub-paragraph (2), paragraph 20(1) of Schedule 6 (agreement for lease that is substantially performed is treated as a grant of a lease) does not apply.
 
-### PART 3 — BUYER IS AN INDIVIDUAL: MULTIPLE DWELLING TRANSACTIONS[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+### PART 3 — BUYER IS AN INDIVIDUAL: MULTIPLE DWELLING TRANSACTIONS[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 #### Introductory
 
-**10.**[^key-e8ade75fe54cb7e1103918da702c32ca][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] This Part sets out when a chargeable transaction is a ““higher rates residential property transaction”” for the purpose of regulations under section 24(1)(b) in the case of a transaction involving multiple dwellings where the buyer is an individual.
+**10.**[^c-e8ade75fe54cb7e1103918da702c32ca][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] This Part sets out when a chargeable transaction is a ““higher rates residential property transaction”” for the purpose of regulations under section 24(1)(b) in the case of a transaction involving multiple dwellings where the buyer is an individual.
 
 #### Higher rates residential property transaction
 
-**11.**[^key-823838170c04ebce4d662045bbbd5f6b][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
+**11.**[^c-823838170c04ebce4d662045bbbd5f6b][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
 
 - (a) it falls within sub-paragraph (2), and
 - (b) paragraph 13 or 15 applies.
@@ -300,14 +300,14 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Two or more buyers
 
-**12.**[^key-9545235a9997c509bde0d22bba909bd5][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where there are two or more buyers who are individuals in a transaction—
+**12.**[^c-9545235a9997c509bde0d22bba909bd5][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where there are two or more buyers who are individuals in a transaction—
 
 - (a) the transaction is a higher rates residential property transaction if paragraph 11 applies in relation to any one of the buyers;
 - (b) an intermediate transaction (within the meaning given by paragraph 18(2)) is to be treated as a higher rates residential property transaction if paragraph 18 applies in relation to any one of the buyers.
 
 #### Two or more qualifying dwellings
 
-**13.**[^key-4bd945068e3a348052b20e6adb6708b4][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies if at least two of the purchased dwellings are qualifying dwellings.
+**13.**[^c-4bd945068e3a348052b20e6adb6708b4][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies if at least two of the purchased dwellings are qualifying dwellings.
 
 (2) A purchased dwelling is a qualifying dwelling for the purposes of this Part of this Schedule if the amount of the chargeable consideration for the transaction which is attributable on a just and reasonable basis to the purchased dwelling is £40,000 or more.
 
@@ -324,11 +324,11 @@ JT is the number of joint tenants entitled to the interest.
 
 (5) A purchased dwelling is not a qualifying dwelling if the exception provided for in paragraph 14 applies (subsidiary dwelling exception).
 
-(6)[^key-f85b047a52a6b9f49ecf97cce621f302] This paragraph applies subject to the exception in paragraph 18A (subsequent disposal to local authorities exception).
+(6)[^c-f85b047a52a6b9f49ecf97cce621f302] This paragraph applies subject to the exception in paragraph 18A (subsequent disposal to local authorities exception).
 
 #### Subsidiary dwelling exception
 
-**14.**[^key-2f1543bcf9854954a99ff283747f8248][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A purchased dwelling is not a qualifying dwelling if it is subsidiary to any of the other purchased dwellings.
+**14.**[^c-2f1543bcf9854954a99ff283747f8248][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A purchased dwelling is not a qualifying dwelling if it is subsidiary to any of the other purchased dwellings.
 
 (2) For the purposes of this paragraph, one of the purchased dwellings (““dwelling A””) is subsidiary to another of the purchased dwellings (““dwelling B””) if—
 
@@ -340,7 +340,7 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Buyer has a major interest in other dwelling
 
-**15.**[^key-fedf3d5e32aa374a128c274f25dda7e3][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies if—
+**15.**[^c-fedf3d5e32aa374a128c274f25dda7e3][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies if—
 
 - (a) only one of the purchased dwellings is a qualifying dwelling, and
 - (b) at the end of the day that is the effective date of the transaction—
@@ -388,30 +388,30 @@ JT is the number of joint tenants entitled to the interest.
 
 (7) This paragraph applies subject to the exceptions provided for in—
 
-- (a) paragraph 16 (interest in same main residence exception), [^key-34375e5c47acf70f6a594428250d6dad]...
-- (b) paragraph 17 (replacement of main residence exception) and[^key-801dd0907573aa7962d549f8f567394c]
+- (a) paragraph 16 (interest in same main residence exception), [^c-34375e5c47acf70f6a594428250d6dad]...
+- (b) paragraph 17 (replacement of main residence exception) and[^c-801dd0907573aa7962d549f8f567394c]
 - (c) paragraph 18A (subsequent disposal to local authorities exception).
 
 #### Interest in same main residence exception
 
-**16.**[^key-9f4d31e53224e2f961c4b382b8a3d4ab][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Paragraph 15 does not apply if the main subject-matter of the transaction is a major interest in the qualifying dwelling referred to in paragraph 15(1)(a), and that dwelling is one—
+**16.**[^c-9f4d31e53224e2f961c4b382b8a3d4ab][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Paragraph 15 does not apply if the main subject-matter of the transaction is a major interest in the qualifying dwelling referred to in paragraph 15(1)(a), and that dwelling is one—
 
-- (a) in which, immediately before the effective date of the transaction, the buyer or the buyer’s spouse or civil partner[^key-0f227e1f044968d6cea123163ccd2b84] had another major interest, and
+- (a) in which, immediately before the effective date of the transaction, the buyer or the buyer’s spouse or civil partner[^c-0f227e1f044968d6cea123163ccd2b84] had another major interest, and
 - (b) which, immediately before and after the effective date of the transaction, is the buyer's only or main residence.
 
 #### Replacement of main residence exception
 
-**17.**[^key-2dc39b68873192deaec7c7a7e42c762b][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Paragraph 15 does not apply if the qualifying dwelling referred to in paragraph 15(1)(a) is a replacement for the buyer's only or main residence.
+**17.**[^c-2dc39b68873192deaec7c7a7e42c762b][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Paragraph 15 does not apply if the qualifying dwelling referred to in paragraph 15(1)(a) is a replacement for the buyer's only or main residence.
 
 (2) For the purposes of this paragraph, a qualifying dwelling is a replacement for the buyer's only or main residence if—
 
 - (a) on the effective date of the transaction (““the transaction concerned””) the buyer intends that qualifying dwelling to be the buyer's only or main residence,
-- (b) in another land transaction (““the previous transaction””), the effective date of which was during the permitted period[^key-12ad6320811e408e5f5a09e0d1b0210a], the buyer or the buyer's spouse or civil partner at the time disposed of a major interest in another dwelling (““the sold dwelling””),
+- (b) in another land transaction (““the previous transaction””), the effective date of which was during the permitted period[^c-12ad6320811e408e5f5a09e0d1b0210a], the buyer or the buyer's spouse or civil partner at the time disposed of a major interest in another dwelling (““the sold dwelling””),
 - (c) immediately after the effective date of the previous transaction, neither the buyer nor the buyer's spouse or civil partner had a major interest in the sold dwelling,
-- (d) at any time during the permitted period[^key-73bc517295a478b2ea641f6e1891d505] referred to in paragraph (b) the sold dwelling was the buyer's only or main residence, and
+- (d) at any time during the permitted period[^c-73bc517295a478b2ea641f6e1891d505] referred to in paragraph (b) the sold dwelling was the buyer's only or main residence, and
 - (e) at no time during the period beginning with the effective date of the previous transaction and ending with the effective date of the transaction concerned has the buyer or the buyer's spouse or civil partner acquired a major interest in any other dwelling with the intention of it being the buyer's only or main residence.
 
-(2A)[^key-f37497c3dad2f787289a8b9c98a2d2da] For the purposes of sub-paragraphs (2)(b) and (d), “**the permitted period**” means—
+(2A)[^c-f37497c3dad2f787289a8b9c98a2d2da] For the purposes of sub-paragraphs (2)(b) and (d), “**the permitted period**” means—
 
 - (a) the period of 3 years ending with the effective date of the transaction concerned, or
 - (b) any period ending with the effective date of the transaction concerned that is longer than 3 years if the conditions in sub-paragraph (2B) are met.
@@ -431,11 +431,11 @@ JT is the number of joint tenants entitled to the interest.
 (4) For the purposes of this paragraph, that qualifying dwelling may become a replacement for the buyer's only or main residence if—
 
 - (a) on the effective date of the transaction (““the transaction concerned””) the buyer intended that qualifying dwelling to be the buyer's only or main residence,
-- (b) in another land transaction (“the disposal transaction”)[^key-bcff7d450ae0fd09aadfcf037bf64ac4] the effective date of which is during the permitted period[^key-2d2e367ca9e8d758822fb8bbf1ce3fdd], the buyer or the buyer's spouse, former spouse, civil partner or former civil partner disposes of a major interest in another dwelling (““the sold dwelling””),
-- (c) immediately after the effective date of the disposal transaction[^key-75cabd0b22b49520800d0bd550acb22b], neither the buyer nor the buyer's spouse or civil partner has a major interest in the sold dwelling, and
+- (b) in another land transaction (“the disposal transaction”)[^c-bcff7d450ae0fd09aadfcf037bf64ac4] the effective date of which is during the permitted period[^c-2d2e367ca9e8d758822fb8bbf1ce3fdd], the buyer or the buyer's spouse, former spouse, civil partner or former civil partner disposes of a major interest in another dwelling (““the sold dwelling””),
+- (c) immediately after the effective date of the disposal transaction[^c-75cabd0b22b49520800d0bd550acb22b], neither the buyer nor the buyer's spouse or civil partner has a major interest in the sold dwelling, and
 - (d) at any time during the period of 3 years ending with the effective date of the transaction concerned the sold dwelling was the buyer's only or main residence.
 
-(4A)[^key-f04fd20c4890a6b92ead4cf6fff9566a] For the purposes of sub-paragraph (4)(b), “**the permitted period**” means—
+(4A)[^c-f04fd20c4890a6b92ead4cf6fff9566a] For the purposes of sub-paragraph (4)(b), “**the permitted period**” means—
 
 - (a) the period of 3 years beginning with the day after the effective date of the transaction concerned, or
 - (b) any period beginning with the day after the effective date of the transaction concerned that is longer than 3 years if the conditions in sub-paragraph (4B) or sub-paragraph (4C) are met.
@@ -472,13 +472,13 @@ JT is the number of joint tenants entitled to the interest.
 
 (4E) In the definition of “relevant person” in sub-paragraph (4D), “**developer**” does not include a developer who is also the person who had the major interest.
 
-(5) Sub-paragraph (4)(c) does not apply in relation to a spouse or civil partner of the buyer if the two of them are not living together on the effective date of the disposal transaction[^key-4815a7cd3a83db71caac3ae926c69162] (for the meaning of ““living together””, see paragraph 25(3)).
+(5) Sub-paragraph (4)(c) does not apply in relation to a spouse or civil partner of the buyer if the two of them are not living together on the effective date of the disposal transaction[^c-4815a7cd3a83db71caac3ae926c69162] (for the meaning of ““living together””, see paragraph 25(3)).
 
 (6) For further provision in connection with a dwelling becoming a replacement for the buyer's only or main residence, see paragraph 23.
 
 #### Replacement of main residence: transactions during interim period
 
-**18.**[^key-85d8a1cbd44ca4b46d9f47a8803faa7a][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where—
+**18.**[^c-85d8a1cbd44ca4b46d9f47a8803faa7a][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where—
 
 - (a) the buyer in an intermediate transaction replaces a main residence in another transaction, and
 - (b) the effective date of the intermediate transaction is during the interim period.
@@ -514,7 +514,7 @@ JT is the number of joint tenants entitled to the interest.
 
 (6) For further provision in connection with an intermediate transaction being treated as a higher rates residential property transaction, see paragraph 24.
 
-#### Subsequent disposal to local authorities exception: multiple dwelling transactions[^key-214c1135531d5edf7f500e620e898a71]
+#### Subsequent disposal to local authorities exception: multiple dwelling transactions[^c-214c1135531d5edf7f500e620e898a71]
 
 **18A.** (1) This paragraph applies to a transaction (“**the acquisition transaction**”)—
 
@@ -554,26 +554,26 @@ JT is the number of joint tenants entitled to the interest.
 
 (10) For the purposes of sub-paragraph (2), paragraph 20(1) of Schedule 6 (agreement for lease that is substantially performed is treated as a grant of a lease) does not apply.
 
-### PART 4 — BUYER IS NOT AN INDIVIDUAL[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+### PART 4 — BUYER IS NOT AN INDIVIDUAL[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 #### Introductory
 
-**19.**[^key-a6f6b2a6c73167e9ae13edd38f4cd114][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] This Part sets out when a chargeable transaction where the buyer is not an individual is a ““higher rates residential property transaction”” for the purpose of regulations under section 24(1)(b).
+**19.**[^c-a6f6b2a6c73167e9ae13edd38f4cd114][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] This Part sets out when a chargeable transaction where the buyer is not an individual is a ““higher rates residential property transaction”” for the purpose of regulations under section 24(1)(b).
 
 #### Transaction involving a dwelling
 
-**20.**[^key-e2fb74b105723ce56e6cb3b3c0d0cf0d][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
+**20.**[^c-e2fb74b105723ce56e6cb3b3c0d0cf0d][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
 
 - (a) the buyer is not an individual,
 - (b) the main subject-matter of the transaction consists of a major interest in a dwelling (““the purchased dwelling””), and
 - (c) the chargeable consideration for the dwelling is £40,000 or more.
 
-(1A)[^key-d0a781523eed0a6d196e5ea692292599] Sub-paragraph (1) applies subject to the exceptions in—
+(1A)[^c-d0a781523eed0a6d196e5ea692292599] Sub-paragraph (1) applies subject to the exceptions in—
 
 - (a) sub-paragraph (2), and
 - (b) paragraph 20A (subsequent disposal to local authorities exception).
 
-(2) [^key-2024ecf386ba63ecc94b98225a55f529]... A transaction is not a higher rates residential property transaction under sub-paragraph (1) if at the end of the day that is the effective date of the transaction—
+(2) [^c-2024ecf386ba63ecc94b98225a55f529]... A transaction is not a higher rates residential property transaction under sub-paragraph (1) if at the end of the day that is the effective date of the transaction—
 
 - (a) the purchased dwelling is subject to a lease,
 - (b) the main subject-matter of the transaction is reversionary on that lease, and
@@ -584,7 +584,7 @@ JT is the number of joint tenants entitled to the interest.
 - (a) the lease is not held by a person connected with the buyer, and
 - (b) the lease has an unexpired term of more than 21 years.
 
-#### Subsequent disposal to local authorities exception: transaction involving a dwelling[^key-d65ca41eb3b45a4235e8e4bbb0a9975d]
+#### Subsequent disposal to local authorities exception: transaction involving a dwelling[^c-d65ca41eb3b45a4235e8e4bbb0a9975d]
 
 **20A.** (1) This paragraph applies to a transaction (“**the acquisition transaction**”)—
 
@@ -610,7 +610,7 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Transaction involving multiple dwellings
 
-**21.**[^key-f719c8e5787ab436d1999cd1304d1df1][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
+**21.**[^c-f719c8e5787ab436d1999cd1304d1df1][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) A chargeable transaction is a higher rates residential property transaction if—
 
 - (a) the buyer is not an individual,
 - (b) the main subject-matter of the transaction consists of a major interest in two or more dwellings (““the purchased dwellings””), and
@@ -631,9 +631,9 @@ JT is the number of joint tenants entitled to the interest.
 
 (5) A transaction within section 72(9) is not a higher rates residential property transaction save where Schedule 13 applies (see in particular paragraph 6(6) of that Schedule).
 
-(5A)[^key-82b5c59e737e474af4aca5424be7a8e3] This paragraph applies subject to paragraph 21A (subsequent disposal to local authorities exception).
+(5A)[^c-82b5c59e737e474af4aca5424be7a8e3] This paragraph applies subject to paragraph 21A (subsequent disposal to local authorities exception).
 
-#### Subsequent disposal to local authorities exception: transaction involving multiple dwellings[^key-d4833e776cfc093fde84234bbc0c1b78]
+#### Subsequent disposal to local authorities exception: transaction involving multiple dwellings[^c-d4833e776cfc093fde84234bbc0c1b78]
 
 **21A.** (1) This paragraph applies to a transaction (“**the acquisition transaction**”)—
 
@@ -675,13 +675,13 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Two or more buyers
 
-**22.**[^key-b4e9e415c008db62e459ce0f7da38e58][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where there are two or more buyers in a transaction, the transaction is a higher rates residential property transaction if paragraph 20 or 21 applies in relation to any one of the buyers.
+**22.**[^c-b4e9e415c008db62e459ce0f7da38e58][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] Where there are two or more buyers in a transaction, the transaction is a higher rates residential property transaction if paragraph 20 or 21 applies in relation to any one of the buyers.
 
-### PART 5 — SUPPLEMENTARY PROVISIONS[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+### PART 5 — SUPPLEMENTARY PROVISIONS[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 #### Further provision in connection with replacement of main residence exception
 
-**23.**[^key-e294dcb2f970fd3767d06ab250a19f69][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where by reason of paragraph 8(4) or 17(4) a chargeable transaction (““the transaction concerned””) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b).
+**23.**[^c-e294dcb2f970fd3767d06ab250a19f69][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where by reason of paragraph 8(4) or 17(4) a chargeable transaction (““the transaction concerned””) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b).
 
 (2) The land transaction (““the subsequent transaction””) by reference to which the condition in paragraph 8(4)(b) or 17(4)(b) was met may not be taken into account for the purposes of paragraph 8(2)(b) or 17(2)(b) in determining whether any other chargeable transaction is a higher rates residential property transaction.
 
@@ -699,7 +699,7 @@ JT is the number of joint tenants entitled to the interest.
 - (a) within the period allowed for amendment of the return, amend it accordingly (see section 41 of TCMA);
 - (b) after the end of that period (if that return is not so amended), make a claim for repayment of the amount overpaid in accordance with Chapter 7 of Part 3 of TCMA.
 
-(7)[^key-773f36592377597c41d61d5669200c43] If the effective date of the disposal transaction (within the meaning of paragraph 8(4)(b)) is within the period mentioned in paragraph 8(4A)(b) by virtue of the conditions in paragraph 8(4B) being met—
+(7)[^c-773f36592377597c41d61d5669200c43] If the effective date of the disposal transaction (within the meaning of paragraph 8(4)(b)) is within the period mentioned in paragraph 8(4A)(b) by virtue of the conditions in paragraph 8(4B) being met—
 
 - (a) section 78 of TCMA applies for the purposes of sub-paragraph (6) as if for “4 years” to the end there were substituted “12 months beginning with the effective date of the disposal transaction (within the meaning of paragraph 8(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA.”;
 - (b) the claim must explain how the conditions in paragraph 8(4B) are met.
@@ -723,7 +723,7 @@ JT is the number of joint tenants entitled to the interest.
   - (ii) 12 July 2024 if the effective date of the disposal transaction (within the meaning of paragraph 17(4)(b) of Schedule 5 to the LTTA) by reference to which the transaction concerned (within the meaning of paragraph 23(1) of that Schedule) ceases to be a higher rates residential property transaction for the purpose of regulations under section 24(1)(b) of LTTA is on or after 1 April 2021 but before 12 July 2024.”;
 - (b) the claim must explain how the conditions in paragraph 17(4C) are met.
 
-#### Further provision in connection with subsequent disposal to local authorities exception[^key-3e07852d2ed958b583305ed19fc74069]
+#### Further provision in connection with subsequent disposal to local authorities exception[^c-3e07852d2ed958b583305ed19fc74069]
 
 **23A.** (1) This paragraph applies where—
 
@@ -770,7 +770,7 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Further provision in connection with transactions being treated as higher rates residential property transactions
 
-**24.**[^key-1d89933876a79bf75bb6400c1a4caead][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where by reason of the application of paragraph 9 or 18 a chargeable transaction (““the intermediate transaction””) is treated as a higher rates residential property transaction.
+**24.**[^c-1d89933876a79bf75bb6400c1a4caead][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where by reason of the application of paragraph 9 or 18 a chargeable transaction (““the intermediate transaction””) is treated as a higher rates residential property transaction.
 
 (2) The intermediate transaction is treated as a higher rates residential property transaction for the purposes of this Act as from the end of the interim period that applies in accordance with paragraph 9(5) or 18(5).
 
@@ -783,7 +783,7 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Spouses and civil partners purchasing alone
 
-**25.**[^key-6ff93fee716e984554899562a6b0d05d][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (2) applies in relation to a chargeable transaction if—
+**25.**[^c-6ff93fee716e984554899562a6b0d05d][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (2) applies in relation to a chargeable transaction if—
 
 - (a) the buyer (or one of them) is married or in a civil partnership on the effective date,
 - (b) the buyer and the buyer's spouse or civil partner are living together on that date, and
@@ -799,7 +799,7 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Property adjustment on divorce, dissolution of civil partnership etc.
 
-**26.**[^key-c623e2e5299ace4a743b581c63f021ce][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) For the purpose of determining whether paragraph 5 or 15 applies to a chargeable transaction, the buyer is not to be treated as having a major interest in another dwelling to which sub-paragraphs (2) and (3) apply.
+**26.**[^c-c623e2e5299ace4a743b581c63f021ce][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) For the purpose of determining whether paragraph 5 or 15 applies to a chargeable transaction, the buyer is not to be treated as having a major interest in another dwelling to which sub-paragraphs (2) and (3) apply.
 
 (2) This sub-paragraph applies to a dwelling the interest in which is held by the buyer as a tenant in common in consequence of—
 
@@ -812,7 +812,7 @@ JT is the number of joint tenants entitled to the interest.
 
 #### Settlements and bare trusts
 
-**27.**[^key-6f4c51907d7c0a245ee733659cacf277][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (3) applies in relation to a land transaction if—
+**27.**[^c-6f4c51907d7c0a245ee733659cacf277][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (3) applies in relation to a land transaction if—
 
 - (a) the main subject-matter of the transaction consists of a major interest in one or more dwellings,
 - (b) the buyer (or one of them) is acting as trustee of a settlement, and
@@ -829,7 +829,7 @@ JT is the number of joint tenants entitled to the interest.
 
 (4) Paragraphs 3(3) and 4 of Schedule 8 (trustees to be treated as the buyer) have effect subject to sub-paragraph (3).
 
-**28.**[^key-02ab24ac08cc7794a57361a987c4bdb6][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (3) applies where—
+**28.**[^c-02ab24ac08cc7794a57361a987c4bdb6][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (3) applies where—
 
 - (a) a person is a beneficiary under a settlement,
 - (b) a major interest in a dwelling forms part of the trust property, and
@@ -847,7 +847,7 @@ JT is the number of joint tenants entitled to the interest.
 - (a) the beneficiary is to be treated for the purposes of this Schedule as holding the interest in the dwelling, and
 - (b) if the trustee of the settlement or bare trust disposes of the interest, the beneficiary is to be treated for the purposes of this Schedule as having disposed of it.
 
-**29.**[^key-a7ed5bf16590f6646690cc55ffe7a22b][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Where—
+**29.**[^c-a7ed5bf16590f6646690cc55ffe7a22b][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Where—
 
 - (a) the main subject-matter of a land transaction consists of an interest other than a major interest in a dwelling, and
 - (b) sub-paragraph (2) or (3) applies in relation to the transaction,
@@ -877,7 +877,7 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 (4) In determining whether sub-paragraph (2) or (3) applies to a transaction, ignore paragraphs 30 and 35(5).
 
-**30.**[^key-e4790317175be7bf0c31c50c5dc7a2b2][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where, by reason of paragraph 27 or 28 or paragraph 3(1) of Schedule 8 (bare trusts), the child of a person (““P””) would (but for this paragraph) be treated for the purposes of this Schedule as—
+**30.**[^c-e4790317175be7bf0c31c50c5dc7a2b2][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where, by reason of paragraph 27 or 28 or paragraph 3(1) of Schedule 8 (bare trusts), the child of a person (““P””) would (but for this paragraph) be treated for the purposes of this Schedule as—
 
 - (a) being the buyer in relation to a land transaction,
 - (b) holding an interest in a dwelling, or
@@ -901,7 +901,7 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 - (a) a person appointed under section 16 of the Mental Capacity Act 2005 (c. 9), or
 - (b) a person appointed to an equivalent position under the law of a country or territory outside England and Wales (and accordingly the reference to an interest being held on trust by such a person is to its being held on an equivalent basis under that law).
 
-**31.**[^key-44abfbda1959138ea9589c3ac14ffeaf][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies in relation to a land transaction if—
+**31.**[^c-44abfbda1959138ea9589c3ac14ffeaf][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies in relation to a land transaction if—
 
 - (a) the main subject-matter of the transaction consists of a major interest in one or more dwellings,
 - (b) the buyer (or one of them) is acting as trustee of a settlement,
@@ -917,7 +917,7 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 #### Partnerships
 
-**32.**[^key-fd85140694a0b7be883fd2ea27250cc1][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (2) applies in relation to a chargeable transaction, the subject-matter of which consists of a major interest in one or more dwellings if—
+**32.**[^c-fd85140694a0b7be883fd2ea27250cc1][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) Sub-paragraph (2) applies in relation to a chargeable transaction, the subject-matter of which consists of a major interest in one or more dwellings if—
 
 - (a) the buyer (or one of them) is a partner in a partnership, but
 - (b) the buyer does not enter into the transaction for the purposes of the partnership.
@@ -928,7 +928,7 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 #### Alternative finance arrangements
 
-**33.**[^key-19b2fb49a41d1c1a181286a0c07abc31][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies in relation to a chargeable transaction which is the first transaction under an alternative finance arrangement entered into between a person and a financial institution.
+**33.**[^c-19b2fb49a41d1c1a181286a0c07abc31][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies in relation to a chargeable transaction which is the first transaction under an alternative finance arrangement entered into between a person and a financial institution.
 
 (2) The person (rather than the institution) is to be treated for the purposes of this Schedule as the buyer in relation to the transaction.
 
@@ -940,7 +940,7 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 #### Major interests in dwellings inherited jointly
 
-**34.**[^key-83c6faa62def3b54888d751f920eda10][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where by virtue of an inheritance—
+**34.**[^c-83c6faa62def3b54888d751f920eda10][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph applies where by virtue of an inheritance—
 
 - (a) a person (““P””) becomes jointly entitled with one or more other persons to a major interest in a dwelling, and
 - (b) P's beneficial share in the interest does not exceed 50% (see sub-paragraph (4)).
@@ -961,11 +961,11 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 (7) This paragraph applies in relation to an interest acquired following a person's death as a result of a variation of a disposition (whether effected by will, under the law relating to intestacy or otherwise) of property comprised in that person's estate made within the period of 2 years after the person's death, as it applies in relation to an inheritance; and in such a case the reference in sub-paragraph (2) to the date of the inheritance means the date of the acquisition of the interest in accordance with the variation.
 
-### PART 6 — INTERPRETATION[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
+### PART 6 — INTERPRETATION[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]
 
 #### Dwellings outside Wales
 
-**35.**[^key-8c3874d30b350f0d61888ddc36f6b51b][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) In the provisions of this Schedule specified in sub-paragraph (4), references to a ““dwelling”” include references to a dwelling situated outside Wales.
+**35.**[^c-8c3874d30b350f0d61888ddc36f6b51b][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) In the provisions of this Schedule specified in sub-paragraph (4), references to a ““dwelling”” include references to a dwelling situated outside Wales.
 
 (2) In relation to a dwelling situated in England, those provisions are to be construed in accordance with the provisions of the Finance Act 2003 (c. 14).
 
@@ -974,18 +974,18 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 - (a) references to a ““major interest”” in the dwelling are to an equivalent interest in the dwelling under the law of that country or territory,
 - (b) references to persons being beneficially entitled as joint tenants, tenants in common or coparceners to an interest in the dwelling are to persons having an equivalent entitlement to the interest in the dwelling under the law of that country or territory,
 - (c) references to a “**"land transaction”**” in relation to the dwelling are to the acquisition of an interest in the dwelling under the law of that country or territory,
-- (d) references to the “**"effective date”**” of a land transaction in relation to the dwelling are to the date on which the interest in the dwelling is acquired under the law of that country or territory, [^key-cc1a9daf90ef6e930e54a023ff8c6c7c]...
+- (d) references to the “**"effective date”**” of a land transaction in relation to the dwelling are to the date on which the interest in the dwelling is acquired under the law of that country or territory, [^c-cc1a9daf90ef6e930e54a023ff8c6c7c]...
 - (e) references to ““inheritance”” are to the acquisition of an interest from a deceased person's estate in accordance with the laws of that country or territory concerning the inheritance of property.
-- (f)[^key-07a86b59f0804b149f66abaf19c65067] references to “**relevant restrictions**” are references to a prohibition or restriction of any activity by the law of that country or territory or by a public authority of that country or territory by virtue of such a law for the purpose of preventing and controlling or mitigating the effects of an emergency, and
+- (f)[^c-07a86b59f0804b149f66abaf19c65067] references to “**relevant restrictions**” are references to a prohibition or restriction of any activity by the law of that country or territory or by a public authority of that country or territory by virtue of such a law for the purpose of preventing and controlling or mitigating the effects of an emergency, and
 - (g) the reference to “emergency” in paragraph (f), if the dwelling is situated outside the United Kingdom, is to be interpreted as if each reference to the United Kingdom in section 19(1) of the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36) were a reference to the country or territory in which the dwelling is situated.
 
 (4) The provisions of this Schedule referred to in sub-paragraphs (1), (2) and (3) are—
 
 - (a) paragraph 5(1)(a),
-- (b)[^key-1f1aeb20cdbccd3c4ce3ad59dc6a0ba6] paragraph 8(2)(b), (c), (d) and (e); paragraph 8(2A)(a) and (b); paragraph 8(2B)(a) and (c); paragraph 8(4)(b), (c) and (d); paragraph 8(4A)(a) and (b); paragraph 8(4B)(a) and (c) and paragraph 8(4C)(a),
+- (b)[^c-1f1aeb20cdbccd3c4ce3ad59dc6a0ba6] paragraph 8(2)(b), (c), (d) and (e); paragraph 8(2A)(a) and (b); paragraph 8(2B)(a) and (c); paragraph 8(4)(b), (c) and (d); paragraph 8(4A)(a) and (b); paragraph 8(4B)(a) and (c) and paragraph 8(4C)(a),
 - (c) paragraph 9(4),
 - (d) paragraph 15(1)(b),
-- (e)[^key-885f17ffdbce6984af45967c331003a4] paragraph 17(2)(b), (c), (d) and (e); paragraph 17(2A)(a) and (b); paragraph 17(2B)(a) and (c); paragraph 17(4)(b), (c) and (d); paragraph 17(4A)(a) and (b); paragraph 17(4B)(a) and (c) and paragraph 17(4C)(a),
+- (e)[^c-885f17ffdbce6984af45967c331003a4] paragraph 17(2)(b), (c), (d) and (e); paragraph 17(2A)(a) and (b); paragraph 17(2B)(a) and (c); paragraph 17(4)(b), (c) and (d); paragraph 17(4A)(a) and (b); paragraph 17(4B)(a) and (c) and paragraph 17(4C)(a),
 - (f) paragraph 18(4),
 - (g) paragraph 26,
 - (h) paragraph 28,
@@ -1012,7 +1012,7 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 #### What counts as a dwelling
 
-**36.**[^key-3790418bffe921063c64da0ee45f86b9][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph sets out rules for determining what counts as a dwelling for the purposes of this Schedule.
+**36.**[^c-3790418bffe921063c64da0ee45f86b9][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] (1) This paragraph sets out rules for determining what counts as a dwelling for the purposes of this Schedule.
 
 (2) A building or part of a building counts as a dwelling if—
 
@@ -1041,14 +1041,14 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 #### Major interest not to include certain leases
 
-**37.**[^key-748a8609e5904af9bab64ed0611e3a5e][^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0] For the purposes of this Schedule, any term of years absolute or leasehold estate is not a ““major interest”” if its term does not exceed 7 years on the date of its grant.
+**37.**[^c-748a8609e5904af9bab64ed0611e3a5e][^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0] For the purposes of this Schedule, any term of years absolute or leasehold estate is not a ““major interest”” if its term does not exceed 7 years on the date of its grant.
 
-#### Other definitions[^key-33dc487dfbaeba31670b13b6615f75f8][^key-5954afce12a082dc218a01c6d443e29b]
+#### Other definitions[^c-33dc487dfbaeba31670b13b6615f75f8][^c-5954afce12a082dc218a01c6d443e29b]
 
 **38.** (1) For the purposes of this Schedule—
 
 - “**emergency**” (“***argyfwng***”) has the meaning given by section 19 of the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36) and is not restricted to events or situations in relation to which powers are exercised under that Act;
-- “[^key-708f9793d15e888c4d9dbfe1a8172d33]**local authority**” (“***awdurdod lleol***”) means a council of a county or county borough constituted under section 21 of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70);
+- “[^c-708f9793d15e888c4d9dbfe1a8172d33]**local authority**” (“***awdurdod lleol***”) means a council of a county or county borough constituted under section 21 of the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70);
 - “**local housing allowance**” (“*lwfans tai lleol”)*means the allowance determined in accordance with paragraph 2 of Schedule 3B to the Rent Officers (Housing Benefit Functions) Order 1997 ([S.I. 1997/1984](https://www.legislation.gov.uk/uksi/1997/1984));
 - “**public authority**” (“***awdurdod cyhoeddus***”) means a person carrying out a function of a public nature;
 - “**relevant restriction**” (“***cyfyngiad perthnasol***”) means a prohibition or restriction of any activity by an enactment, or by a public authority by virtue of an enactment, for the purpose of preventing, controlling or mitigating the effects of an emergency.
@@ -1057,156 +1057,156 @@ then, for the avoidance of doubt, the effect of paragraph 28 of this Schedule or
 
 ## Annotations
 
-[^key-ca6d4a53e6b0ecf274e2ca90fa26d9f0]: Modification: Sch. 5 applied (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2018/126/regulation/12)
+[^c-ca6d4a53e6b0ecf274e2ca90fa26d9f0]: Modification: Sch. 5 applied (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [12](https://www.legislation.gov.uk/wsi/2018/126/regulation/12)
 
-[^key-66de51f4505d6e28ac8fc06842b42a10]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-66de51f4505d6e28ac8fc06842b42a10]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-cdc3c71148979e61492233d906f7a14e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-cdc3c71148979e61492233d906f7a14e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-9bd7aecda7fedab04c9fbb1cffe9803d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9bd7aecda7fedab04c9fbb1cffe9803d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3d9e0432299e54c25f86e89c506edce2]: Textual amendment: Word in Sch. 5 para. 3(5)(a) omitted (13.2.2026) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/42/regulation/2/2/a)
+[^c-3d9e0432299e54c25f86e89c506edce2]: Textual amendment: Word in Sch. 5 para. 3(5)(a) omitted (13.2.2026) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/42/regulation/2/2/a)
 
-[^key-70d338f2536bac1b6b26c555843ca299]: Textual amendment: Sch. 5 para. 3(5)(c) and word inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/42/regulation/2/2/b)
+[^c-70d338f2536bac1b6b26c555843ca299]: Textual amendment: Sch. 5 para. 3(5)(c) and word inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/42/regulation/2/2/b)
 
-[^key-31bdff928e0b274f2f842536b1296ae5]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-31bdff928e0b274f2f842536b1296ae5]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-840730c940f8e779f3a3b675f1448e4b]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-840730c940f8e779f3a3b675f1448e4b]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-834e01b5457623e314f6967ca29a9e36]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-834e01b5457623e314f6967ca29a9e36]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-3ee7795aa7719583b3e28686297fb412]: Commencement: Sch. 5 para. 7 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3ee7795aa7719583b3e28686297fb412]: Commencement: Sch. 5 para. 7 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4b1a28892210175e4524a70fe2b228d0]: Textual amendment: Words in [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/7/a) inserted (1.4.2018) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendment to Schedule 5) Regulations 2018 (S.I. 2018/125)](https://www.legislation.gov.uk/wsi/2018/125), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/125/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2018/125/regulation/2/a)
+[^c-4b1a28892210175e4524a70fe2b228d0]: Textual amendment: Words in [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/7/a) inserted (1.4.2018) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendment to Schedule 5) Regulations 2018 (S.I. 2018/125)](https://www.legislation.gov.uk/wsi/2018/125), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/125/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2018/125/regulation/2/a)
 
-[^key-2e49110772f59c7b2bb1b1b7521af151]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2e49110772f59c7b2bb1b1b7521af151]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e6b47bd268b678a429f0b687cd2bb3d3]: Textual amendment: Words in [Sch. 5 para. 8(2)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/2/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/2/a)
+[^c-e6b47bd268b678a429f0b687cd2bb3d3]: Textual amendment: Words in [Sch. 5 para. 8(2)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/2/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/2/a)
 
-[^key-e31391deb94261d3621859038e49a6ca]: Textual amendment: Words in [Sch. 5 para. 8(2)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/2/d) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/2/b)
+[^c-e31391deb94261d3621859038e49a6ca]: Textual amendment: Words in [Sch. 5 para. 8(2)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/2/d) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/2/b)
 
-[^key-8c305403af75b6dcf8e3491d99839b23]: Textual amendment: [Sch. 5 para. 8(2A)-(2C)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/2A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/3)
+[^c-8c305403af75b6dcf8e3491d99839b23]: Textual amendment: [Sch. 5 para. 8(2A)-(2C)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/2A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/3)
 
-[^key-be6cb84c9f361040df16358f015392a3]: Textual amendment: Words in [Sch. 5 para. 8(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4/b) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/4/a/i)
+[^c-be6cb84c9f361040df16358f015392a3]: Textual amendment: Words in [Sch. 5 para. 8(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4/b) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/4/a/i)
 
-[^key-668901ad0a71aac6e97df13587639304]: Textual amendment: Words in [Sch. 5 para. 8(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/4/a/ii)
+[^c-668901ad0a71aac6e97df13587639304]: Textual amendment: Words in [Sch. 5 para. 8(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/4/a/ii)
 
-[^key-b72505a22eea1810ab94b345b02c49af]: Textual amendment: Words in [Sch. 5 para. 8(4)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4/c) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/4/b)
+[^c-b72505a22eea1810ab94b345b02c49af]: Textual amendment: Words in [Sch. 5 para. 8(4)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4/c) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/4/b)
 
-[^key-a360ea22f5d4463f1f721aa185ea3af5]: Textual amendment: [Sch. 5 para. 8(4A)-(4E)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/5)
+[^c-a360ea22f5d4463f1f721aa185ea3af5]: Textual amendment: [Sch. 5 para. 8(4A)-(4E)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/4A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/5)
 
-[^key-203aa4f8ba7a2014789b319c2faf3d7d]: Textual amendment: Words in [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/5) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/6)
+[^c-203aa4f8ba7a2014789b319c2faf3d7d]: Textual amendment: Words in [Sch. 5 para. 8(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/8/5) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [3(6)](https://www.legislation.gov.uk/wsi/2024/791/regulation/3/6)
 
-[^key-aff99bd21008e56cfa71b41956cb6781]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-aff99bd21008e56cfa71b41956cb6781]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-88d97598f2e0bd09d25cde5c63e88aa9]: Textual amendment: Sch. 5 para. 9A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/42/regulation/2/3)
+[^c-88d97598f2e0bd09d25cde5c63e88aa9]: Textual amendment: Sch. 5 para. 9A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2026/42/regulation/2/3)
 
-[^key-e8ade75fe54cb7e1103918da702c32ca]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e8ade75fe54cb7e1103918da702c32ca]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-823838170c04ebce4d662045bbbd5f6b]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-823838170c04ebce4d662045bbbd5f6b]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/11) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-9545235a9997c509bde0d22bba909bd5]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9545235a9997c509bde0d22bba909bd5]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4bd945068e3a348052b20e6adb6708b4]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4bd945068e3a348052b20e6adb6708b4]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-f85b047a52a6b9f49ecf97cce621f302]: Textual amendment: Sch. 5 para. 13(6) inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/2)
+[^c-f85b047a52a6b9f49ecf97cce621f302]: Textual amendment: Sch. 5 para. 13(6) inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/2)
 
-[^key-2f1543bcf9854954a99ff283747f8248]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2f1543bcf9854954a99ff283747f8248]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/14) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fedf3d5e32aa374a128c274f25dda7e3]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-fedf3d5e32aa374a128c274f25dda7e3]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/15) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-34375e5c47acf70f6a594428250d6dad]: Textual amendment: Word in Sch. 5 para. 15(7)(a) omitted (13.2.2026) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/3/a)
+[^c-34375e5c47acf70f6a594428250d6dad]: Textual amendment: Word in Sch. 5 para. 15(7)(a) omitted (13.2.2026) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/3/a)
 
-[^key-801dd0907573aa7962d549f8f567394c]: Textual amendment: Sch. 5 para. 15(7)(c) and word inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/3/b)
+[^c-801dd0907573aa7962d549f8f567394c]: Textual amendment: Sch. 5 para. 15(7)(c) and word inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(3)(b)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/3/b)
 
-[^key-9f4d31e53224e2f961c4b382b8a3d4ab]: Commencement: Sch. 5 para. 16 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-9f4d31e53224e2f961c4b382b8a3d4ab]: Commencement: Sch. 5 para. 16 in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-0f227e1f044968d6cea123163ccd2b84]: Textual amendment: Words in [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/16/a) inserted (1.4.2018) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendment to Schedule 5) Regulations 2018 (S.I. 2018/125)](https://www.legislation.gov.uk/wsi/2018/125), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/125/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2018/125/regulation/2/b)
+[^c-0f227e1f044968d6cea123163ccd2b84]: Textual amendment: Words in [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/16/a) inserted (1.4.2018) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendment to Schedule 5) Regulations 2018 (S.I. 2018/125)](https://www.legislation.gov.uk/wsi/2018/125), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/125/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2018/125/regulation/2/b)
 
-[^key-2dc39b68873192deaec7c7a7e42c762b]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-2dc39b68873192deaec7c7a7e42c762b]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-12ad6320811e408e5f5a09e0d1b0210a]: Textual amendment: Words in [Sch. 5 para. 17(2)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/2/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/2/a)
+[^c-12ad6320811e408e5f5a09e0d1b0210a]: Textual amendment: Words in [Sch. 5 para. 17(2)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/2/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/2/a)
 
-[^key-73bc517295a478b2ea641f6e1891d505]: Textual amendment: Words in [Sch. 5 para. 17(2)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/2/d) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/2/b)
+[^c-73bc517295a478b2ea641f6e1891d505]: Textual amendment: Words in [Sch. 5 para. 17(2)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/2/d) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/2/b)
 
-[^key-f37497c3dad2f787289a8b9c98a2d2da]: Textual amendment: [Sch. 5 para. 17(2A)-(2C)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/2A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/3)
+[^c-f37497c3dad2f787289a8b9c98a2d2da]: Textual amendment: [Sch. 5 para. 17(2A)-(2C)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/2A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/3)
 
-[^key-bcff7d450ae0fd09aadfcf037bf64ac4]: Textual amendment: Words in [Sch. 5 para. 17(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4/b) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(4)(a)(i)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/4/a/i)
+[^c-bcff7d450ae0fd09aadfcf037bf64ac4]: Textual amendment: Words in [Sch. 5 para. 17(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4/b) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(4)(a)(i)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/4/a/i)
 
-[^key-2d2e367ca9e8d758822fb8bbf1ce3fdd]: Textual amendment: Words in [Sch. 5 para. 17(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/4/a/ii)
+[^c-2d2e367ca9e8d758822fb8bbf1ce3fdd]: Textual amendment: Words in [Sch. 5 para. 17(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(4)(a)(ii)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/4/a/ii)
 
-[^key-75cabd0b22b49520800d0bd550acb22b]: Textual amendment: Words in [Sch. 5 para. 17(4)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4/c) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/4/b)
+[^c-75cabd0b22b49520800d0bd550acb22b]: Textual amendment: Words in [Sch. 5 para. 17(4)(c)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4/c) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/4/b)
 
-[^key-f04fd20c4890a6b92ead4cf6fff9566a]: Textual amendment: [Sch. 5 para. 17(4A)-(4E)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/5)
+[^c-f04fd20c4890a6b92ead4cf6fff9566a]: Textual amendment: [Sch. 5 para. 17(4A)-(4E)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/4A) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/5)
 
-[^key-4815a7cd3a83db71caac3ae926c69162]: Textual amendment: Words in [Sch. 5 para. 17(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/5) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(6)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/6)
+[^c-4815a7cd3a83db71caac3ae926c69162]: Textual amendment: Words in [Sch. 5 para. 17(5)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/17/5) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [4(6)](https://www.legislation.gov.uk/wsi/2024/791/regulation/4/6)
 
-[^key-85d8a1cbd44ca4b46d9f47a8803faa7a]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-85d8a1cbd44ca4b46d9f47a8803faa7a]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/18) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-214c1135531d5edf7f500e620e898a71]: Textual amendment: Sch. 5 para. 18A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/4)
+[^c-214c1135531d5edf7f500e620e898a71]: Textual amendment: Sch. 5 para. 18A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [3(4)](https://www.legislation.gov.uk/wsi/2026/42/regulation/3/4)
 
-[^key-a6f6b2a6c73167e9ae13edd38f4cd114]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a6f6b2a6c73167e9ae13edd38f4cd114]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/19) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e2fb74b105723ce56e6cb3b3c0d0cf0d]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e2fb74b105723ce56e6cb3b3c0d0cf0d]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/20) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-d0a781523eed0a6d196e5ea692292599]: Textual amendment: Sch. 5 para. 20(1A) inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/2/a)
+[^c-d0a781523eed0a6d196e5ea692292599]: Textual amendment: Sch. 5 para. 20(1A) inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/2/a)
 
-[^key-2024ecf386ba63ecc94b98225a55f529]: Textual amendment: Word in Sch. 5 para. 20(2) omitted (13.2.2026) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/2/b)
+[^c-2024ecf386ba63ecc94b98225a55f529]: Textual amendment: Word in Sch. 5 para. 20(2) omitted (13.2.2026) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/2/b)
 
-[^key-d65ca41eb3b45a4235e8e4bbb0a9975d]: Textual amendment: Sch. 5 para. 20A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/3)
+[^c-d65ca41eb3b45a4235e8e4bbb0a9975d]: Textual amendment: Sch. 5 para. 20A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(3)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/3)
 
-[^key-f719c8e5787ab436d1999cd1304d1df1]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-f719c8e5787ab436d1999cd1304d1df1]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/21) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-82b5c59e737e474af4aca5424be7a8e3]: Textual amendment: Sch. 5 para. 21(5A) inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/4)
+[^c-82b5c59e737e474af4aca5424be7a8e3]: Textual amendment: Sch. 5 para. 21(5A) inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(4)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/4)
 
-[^key-d4833e776cfc093fde84234bbc0c1b78]: Textual amendment: Sch. 5 para. 21A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/5)
+[^c-d4833e776cfc093fde84234bbc0c1b78]: Textual amendment: Sch. 5 para. 21A and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2026/42/regulation/4/5)
 
-[^key-b4e9e415c008db62e459ce0f7da38e58]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-b4e9e415c008db62e459ce0f7da38e58]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/22) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e294dcb2f970fd3767d06ab250a19f69]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/23) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e294dcb2f970fd3767d06ab250a19f69]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/23) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-773f36592377597c41d61d5669200c43]: Textual amendment: [Sch. 5 para. 23(7)-(10)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/23/7) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/5/2)
+[^c-773f36592377597c41d61d5669200c43]: Textual amendment: [Sch. 5 para. 23(7)-(10)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/23/7) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/5/2)
 
-[^key-3e07852d2ed958b583305ed19fc74069]: Textual amendment: Sch. 5 paras. 23A, 23B and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/5/2)
+[^c-3e07852d2ed958b583305ed19fc74069]: Textual amendment: Sch. 5 paras. 23A, 23B and cross-heading inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [5(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/5/2)
 
-[^key-1d89933876a79bf75bb6400c1a4caead]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/24) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-1d89933876a79bf75bb6400c1a4caead]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/24) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6ff93fee716e984554899562a6b0d05d]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/25) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6ff93fee716e984554899562a6b0d05d]: Commencement: [Sch. 5 para. 25](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/25) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-c623e2e5299ace4a743b581c63f021ce]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-c623e2e5299ace4a743b581c63f021ce]: Commencement: [Sch. 5 para. 26](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/26) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6f4c51907d7c0a245ee733659cacf277]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/27) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6f4c51907d7c0a245ee733659cacf277]: Commencement: [Sch. 5 para. 27](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/27) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-02ab24ac08cc7794a57361a987c4bdb6]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/28) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-02ab24ac08cc7794a57361a987c4bdb6]: Commencement: [Sch. 5 para. 28](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/28) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-a7ed5bf16590f6646690cc55ffe7a22b]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a7ed5bf16590f6646690cc55ffe7a22b]: Commencement: [Sch. 5 para. 29](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/29) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-e4790317175be7bf0c31c50c5dc7a2b2]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/30) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-e4790317175be7bf0c31c50c5dc7a2b2]: Commencement: [Sch. 5 para. 30](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/30) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-44abfbda1959138ea9589c3ac14ffeaf]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-44abfbda1959138ea9589c3ac14ffeaf]: Commencement: [Sch. 5 para. 31](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-fd85140694a0b7be883fd2ea27250cc1]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/32) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-fd85140694a0b7be883fd2ea27250cc1]: Commencement: [Sch. 5 para. 32](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/32) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-19b2fb49a41d1c1a181286a0c07abc31]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/33) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-19b2fb49a41d1c1a181286a0c07abc31]: Commencement: [Sch. 5 para. 33](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/33) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-83c6faa62def3b54888d751f920eda10]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/34) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-83c6faa62def3b54888d751f920eda10]: Commencement: [Sch. 5 para. 34](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/34) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-8c3874d30b350f0d61888ddc36f6b51b]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8c3874d30b350f0d61888ddc36f6b51b]: Commencement: [Sch. 5 para. 35](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-cc1a9daf90ef6e930e54a023ff8c6c7c]: Textual amendment: Word in [Sch. 5 para. 35(3)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/3/d) omitted (12.7.2024) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/2)
+[^c-cc1a9daf90ef6e930e54a023ff8c6c7c]: Textual amendment: Word in [Sch. 5 para. 35(3)(d)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/3/d) omitted (12.7.2024) by virtue of [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/2)
 
-[^key-07a86b59f0804b149f66abaf19c65067]: Textual amendment: [Sch. 5 para. 35(3)(f)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/3/f)[(g)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/3/g) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/3)
+[^c-07a86b59f0804b149f66abaf19c65067]: Textual amendment: [Sch. 5 para. 35(3)(f)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/3/f)[(g)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/3/g) inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/3)
 
-[^key-1f1aeb20cdbccd3c4ce3ad59dc6a0ba6]: Textual amendment: [Sch. 5 para. 35(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/4/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/4/a)
+[^c-1f1aeb20cdbccd3c4ce3ad59dc6a0ba6]: Textual amendment: [Sch. 5 para. 35(4)(b)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/4/b) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/4/a)
 
-[^key-885f17ffdbce6984af45967c331003a4]: Textual amendment: [Sch. 5 para. 35(4)(e)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/4/e) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/4/b)
+[^c-885f17ffdbce6984af45967c331003a4]: Textual amendment: [Sch. 5 para. 35(4)(e)](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/35/4/e) substituted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/wsi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/791/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/wsi/2024/791/regulation/6/4/b)
 
-[^key-3790418bffe921063c64da0ee45f86b9]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/36) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-3790418bffe921063c64da0ee45f86b9]: Commencement: [Sch. 5 para. 36](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/36) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-748a8609e5904af9bab64ed0611e3a5e]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/37) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-748a8609e5904af9bab64ed0611e3a5e]: Commencement: [Sch. 5 para. 37](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/37) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-33dc487dfbaeba31670b13b6615f75f8]: Textual amendment: Sch. 5 para. 38 heading substituted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/6/2)
+[^c-33dc487dfbaeba31670b13b6615f75f8]: Textual amendment: Sch. 5 para. 38 heading substituted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/6/2)
 
-[^key-5954afce12a082dc218a01c6d443e29b]: Textual amendment: [Sch. 5 para. 38](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/38) and crossheading inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/uksi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/791/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/791/regulation/7)
+[^c-5954afce12a082dc218a01c6d443e29b]: Textual amendment: [Sch. 5 para. 38](https://www.legislation.gov.uk/anaw/2017/1/schedule/5/paragraph/38) and crossheading inserted (12.7.2024) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2024 (S.I. 2024/791)](https://www.legislation.gov.uk/uksi/2024/791), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/791/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/791/regulation/7)
 
-[^key-708f9793d15e888c4d9dbfe1a8172d33]: Textual amendment: Words in Sch. 5 para. 38 inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2026/42/regulation/6/3)
+[^c-708f9793d15e888c4d9dbfe1a8172d33]: Textual amendment: Words in Sch. 5 para. 38 inserted (13.2.2026) by [The Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (Amendments to Schedule 5) Regulations 2026 (W.S.I. 2026/42)](https://www.legislation.gov.uk/wsi/2026/42), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/42/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2026/42/regulation/6/3)

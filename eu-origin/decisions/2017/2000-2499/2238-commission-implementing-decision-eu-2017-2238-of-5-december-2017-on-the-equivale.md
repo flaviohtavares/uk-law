@@ -35,22 +35,22 @@ on the equivalence of the legal and supervisory framework applicable to designat
 
 (Text with EEA relevance) (revoked)
 
-[^key-91e82d2d106912a988f38e8b512b4bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91e82d2d106912a988f38e8b512b4bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-91e82d2d106912a988f38e8b512b4bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-91e82d2d106912a988f38e8b512b4bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-91e82d2d106912a988f38e8b512b4bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-91e82d2d106912a988f38e8b512b4bf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91e82d2d106912a988f38e8b512b4bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91e82d2d106912a988f38e8b512b4bf3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-91e82d2d106912a988f38e8b512b4bf3]
+## ANNEX[^c-91e82d2d106912a988f38e8b512b4bf3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-91e82d2d106912a988f38e8b512b4bf3]: Textual amendment: Decision revoked (4.6.2024) by [The Markets in Financial Instruments (Equivalence) (United States of America) (Commodity Futures Trading Commission) Regulations 2024 (S.I. 2024/638)](https://www.legislation.gov.uk/uksi/2024/638), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/638/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/638/regulation/3)
+[^c-91e82d2d106912a988f38e8b512b4bf3]: Textual amendment: Decision revoked (4.6.2024) by [The Markets in Financial Instruments (Equivalence) (United States of America) (Commodity Futures Trading Commission) Regulations 2024 (S.I. 2024/638)](https://www.legislation.gov.uk/uksi/2024/638), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/638/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/638/regulation/3)

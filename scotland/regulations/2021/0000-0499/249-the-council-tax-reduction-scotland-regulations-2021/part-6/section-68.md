@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Jointly held capital[^key-fb6bff68d69d297039cece0a84eab6f9]
+## 68. Jointly held capital[^c-fb6bff68d69d297039cece0a84eab6f9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where an applicant and one or more other persons have a beneficial interest in a
 
 ## Annotations
 
-[^key-fb6bff68d69d297039cece0a84eab6f9]: Commencement: [Reg. 68](https://www.legislation.gov.uk/ssi/2021/249/regulation/68) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-fb6bff68d69d297039cece0a84eab6f9]: Commencement: [Reg. 68](https://www.legislation.gov.uk/ssi/2021/249/regulation/68) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

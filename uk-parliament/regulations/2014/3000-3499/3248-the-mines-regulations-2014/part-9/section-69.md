@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Plans of abandoned mines[^key-b22cad6cafbe940fb0d123d2c5c70b12]
+## 69. Plans of abandoned mines[^c-b22cad6cafbe940fb0d123d2c5c70b12]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b22cad6cafbe940fb0d123d2c5c70b12]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2014/3248/regulation/69) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-b22cad6cafbe940fb0d123d2c5c70b12]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2014/3248/regulation/69) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

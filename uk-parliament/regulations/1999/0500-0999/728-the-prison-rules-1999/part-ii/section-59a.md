@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59A. Removal from a cell or living unit[^key-08bf14937c813dc6a4e1a911ba3d5451]
+## 59A. Removal from a cell or living unit[^c-08bf14937c813dc6a4e1a911ba3d5451]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Following the imposition of a punishment of removal from his cell or living unit
 
 ## Annotations
 
-[^key-08bf14937c813dc6a4e1a911ba3d5451]: Textual amendment: Rule 59A inserted (15.8.2002) by [The Prison (Amendment) Rules 2002 (S.I. 2002/2116)](https://www.legislation.gov.uk/uksi/2002/2116), [rule 1](https://www.legislation.gov.uk/uksi/2002/2116/rule/1), Sch. para. 9
+[^c-08bf14937c813dc6a4e1a911ba3d5451]: Textual amendment: Rule 59A inserted (15.8.2002) by [The Prison (Amendment) Rules 2002 (S.I. 2002/2116)](https://www.legislation.gov.uk/uksi/2002/2116), [rule 1](https://www.legislation.gov.uk/uksi/2002/2116/rule/1), Sch. para. 9

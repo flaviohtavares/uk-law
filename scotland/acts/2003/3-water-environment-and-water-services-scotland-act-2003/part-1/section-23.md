@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Fixing of charges for water services[^key-8d544de9cb1ad3fa5914c3c6b960cd6a]
+## 23. Fixing of charges for water services[^c-8d544de9cb1ad3fa5914c3c6b960cd6a]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d544de9cb1ad3fa5914c3c6b960cd6a]: Commencement: S. 23 in force at 21.9.2013 by [S.S.I. 2013/252](https://www.legislation.gov.uk/ssi/2013/252), [art. 2](https://www.legislation.gov.uk/ssi/2013/252/article/2)
+[^c-8d544de9cb1ad3fa5914c3c6b960cd6a]: Commencement: S. 23 in force at 21.9.2013 by [S.S.I. 2013/252](https://www.legislation.gov.uk/ssi/2013/252), [art. 2](https://www.legislation.gov.uk/ssi/2013/252/article/2)

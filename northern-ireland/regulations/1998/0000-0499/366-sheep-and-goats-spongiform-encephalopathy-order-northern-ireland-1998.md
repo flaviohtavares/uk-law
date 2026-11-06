@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Sheep and Goats (Spongiform Encephalopathy) Order (Northern Ireland) 1998 (revoked)[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+Sheep and Goats (Spongiform Encephalopathy) Order (Northern Ireland) 1998 (revoked)[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 Made
 
@@ -40,59 +40,59 @@ Coming into operation
 
 7th December 1998
 
-[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 1. Citation and commencement[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 2. Interpretation[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of definitions of animals and poultry[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 3. Extension of definitions of animals and poultry[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Notification of disease in sheep and goats[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 4. Notification of disease in sheep and goats[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on movement of, and imposition of requirements relating to, affected or suspected animals[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 5. Restrictions on movement of, and imposition of requirements relating to, affected or suspected animals[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on movement of other sheep and goats[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 6. Restrictions on movement of other sheep and goats[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Cleansing and disinfection[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 7. Cleansing and disinfection[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Compensation after seizure of carcases[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 8. Compensation after seizure of carcases[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Production of licences[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 9. Production of licences[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Notice of intended slaughter[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 10. Notice of intended slaughter[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## 11. Amendment of the Specified Diseases (Notification and Movement Restrictions) Order (Northern Ireland) 1997[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## SCHEDULE 1[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 **Diseases of Animals (Northern Ireland) Order 1981**
 
@@ -102,7 +102,7 @@ Article 5(1) to (5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]
+## SCHEDULE 2[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]
 
 **Diseases of Animals (Northern Ireland) Order 1981**
 
@@ -114,8 +114,8 @@ Article 5(4)
 
 **May not be in force at this date. Check the source.**
 
-[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c6fc6a26026db2ac8dac4f18cc22bdb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/366) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I) (with [Sch. 8 Pt. IV](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/IV))
+[^c-6c6fc6a26026db2ac8dac4f18cc22bdb]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/366) revoked (18.7.2002) by [Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (S.R. 2002/225)](https://www.legislation.gov.uk/nisr/2002/225), [reg. 1](https://www.legislation.gov.uk/nisr/2002/225/regulation/1), [Sch. 8 Pt. I](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/I) (with [Sch. 8 Pt. IV](https://www.legislation.gov.uk/nisr/2002/225/schedule/8/part/IV))

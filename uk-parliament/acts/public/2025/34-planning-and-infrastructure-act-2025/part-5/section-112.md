@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Temporary possession of land in connection with compulsory purchase[^key-55f05f3f6329b28553506bcec08c0812]
+## 112. Temporary possession of land in connection with compulsory purchase[^c-55f05f3f6329b28553506bcec08c0812]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In [section 18](https://www.legislation.gov.uk/ukpga/2017/20/section/18) of the 
 
 ## Annotations
 
-[^key-55f05f3f6329b28553506bcec08c0812]: Commencement: S. 112 comes into force in accordance with s. 118(5)(f)
+[^c-55f05f3f6329b28553506bcec08c0812]: Commencement: S. 112 comes into force in accordance with s. 118(5)(f)

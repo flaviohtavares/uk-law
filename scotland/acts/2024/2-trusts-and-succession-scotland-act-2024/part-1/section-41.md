@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Delictual liability: trustee’s right of relief against other trustees[^key-c31eced6c3c9481f1ecd2b8f013dac24]
+## 41. Delictual liability: trustee’s right of relief against other trustees[^c-c31eced6c3c9481f1ecd2b8f013dac24]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c31eced6c3c9481f1ecd2b8f013dac24]: Commencement: S. 41 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-c31eced6c3c9481f1ecd2b8f013dac24]: Commencement: S. 41 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

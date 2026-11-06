@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Review of group resolution plan drawn up by another resolution authority[^key-f79156be5217964091a59e7448b6389d]
+## 55. Review of group resolution plan drawn up by another resolution authority[^c-f79156be5217964091a59e7448b6389d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f79156be5217964091a59e7448b6389d]: Textual amendment: [Art. 55](https://www.legislation.gov.uk/uksi/2014/3348/article/55) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f79156be5217964091a59e7448b6389d]: Textual amendment: [Art. 55](https://www.legislation.gov.uk/uksi/2014/3348/article/55) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

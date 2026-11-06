@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Relief on life assurance premiums[^key-c011947de9fc1fd8516205457de6ff16]
+## 18. Relief on life assurance premiums[^c-c011947de9fc1fd8516205457de6ff16]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c011947de9fc1fd8516205457de6ff16]: Commencement: Art. 18 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-c011947de9fc1fd8516205457de6ff16]: Commencement: Art. 18 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00019]: Footnote: Section 266 was relevantly amended by paragraph 2(3) of Schedule 9 to the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48).
 

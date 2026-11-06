@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396. Exemption where the creditor is an authorised deposit taker[^key-97e51275702da5bd96224258cbc1729f]
+## 396. Exemption where the creditor is an authorised deposit taker[^c-97e51275702da5bd96224258cbc1729f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In paragraph (2) of article 2 of the Consumer Credit (Exempt Agreements) Order 1
 
 ## Annotations
 
-[^key-97e51275702da5bd96224258cbc1729f]: Commencement: Art. 396 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-97e51275702da5bd96224258cbc1729f]: Commencement: Art. 396 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

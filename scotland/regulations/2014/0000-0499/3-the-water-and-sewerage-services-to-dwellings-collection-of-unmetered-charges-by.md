@@ -46,11 +46,11 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by sections 37 and 68(2) of the Water Industry (Scotland) Act 2002[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-9f8c4eca6384aa8526a2f603d5e60eee]
+## 1. Citation and commencement[^c-9f8c4eca6384aa8526a2f603d5e60eee]
 
 This Order may be cited as the Water and Sewerage Services to Dwellings (Collection of Unmetered Charges by Local Authority) (Scotland) Order 2014 and comes into force on 8th February 2014.
 
-## 2. Interpretation[^key-f35c729f5d914dbc4dae8157a2e02c40]
+## 2. Interpretation[^c-f35c729f5d914dbc4dae8157a2e02c40]
 
 In this Order—
 
@@ -59,18 +59,18 @@ In this Order—
 - “charges scheme” means a scheme approved under section 29A of the Act[^f00003];
 - “council tax” has the same meaning as it has in Part 2 of the 1992 Act;
 - “dwelling” has the same meaning as it has in Part 2 of the 1992 Act;
-- “service year” means each of the financial years beginning in 2014, 2015, 2016 , 2017, 2018 and 2019[^key-61db2bec05844baac61d5bdf26f979e5];
+- “service year” means each of the financial years beginning in 2014, 2015, 2016 , 2017, 2018 and 2019[^c-61db2bec05844baac61d5bdf26f979e5];
 - “the services” means those services provided by Scottish Water for which a local authority must, under article 3, demand and recover the charges payable under a charges scheme;
 - “sewerage charges” means charges for sewerage services under a charges scheme; and
 - “water charges” means charges for water services under a charges scheme.
 
-## 3. Local authority to demand and recover charges[^key-f669ece02139f0efa71b29a786f5b9e7]
+## 3. Local authority to demand and recover charges[^c-f669ece02139f0efa71b29a786f5b9e7]
 
 (1) As respects water services and sewerage services provided within a service year by Scottish Water to a dwelling situated within a local authority’s area, the local authority (and not Scottish Water) must demand and recover the charges payable for those services under a charges scheme.
 
 (2) Paragraph (1) does not apply as respects the provision of such water services and sewerage services to a dwelling where the provision of the water services is charged on a metered basis.
 
-## 4. Local authority to make payments to Scottish Water[^key-c82145655cb19474f4691584163a598d]
+## 4. Local authority to make payments to Scottish Water[^c-c82145655cb19474f4691584163a598d]
 
 (1) In respect of the services provided within a service year, a local authority must pay to Scottish Water the sum determined by the formula—
 
@@ -94,7 +94,7 @@ where—
   - (ii) remains payable; or
   - (iii) has been written off by the local authority as irrecoverable.
 
-## 5. Amount and timing of payments to Scottish Water[^key-f0cef9e56d6d5729f5dcf51ee8ec8198]
+## 5. Amount and timing of payments to Scottish Water[^c-f0cef9e56d6d5729f5dcf51ee8ec8198]
 
 (1) Each sum payable under article 4(1) must be paid in instalments.
 
@@ -129,7 +129,7 @@ less the amount to be deducted for costs and the amount of each previous instalm
 - “payment period” means period beginning with the first day of the service year in respect of which the sum is payable and ending with the day on which the final instalment is paid; and
 - “the sum” means, in respect of the services provided within the service year in question, the sum payable in accordance with paragraph (1).
 
-## 6. Forms and procedures for demanding payment[^key-e4bf44e02b81d5ce6cd329fd31592e28]
+## 6. Forms and procedures for demanding payment[^c-e4bf44e02b81d5ce6cd329fd31592e28]
 
 (1) Where, at the time of serving on a person any notice demanding council tax for a service year in respect of a dwelling, it appears to a local authority that water charges and/or sewerage charges are also payable to the local authority by that person in respect of the dwelling and have not yet been demanded, it must include a demand for those charges in that notice.
 
@@ -142,7 +142,7 @@ less the amount to be deducted for costs and the amount of each previous instalm
 - (a) the date on which it begins, or otherwise ceases, to provide those services; and
 - (b) the address of that dwelling.
 
-**7.**[^key-ff3cf9004ffed44ffd11d52d948f4e6d] (1) Any notice issued by a local authority which includes a demand for water charges and/or sewerage charges must contain details of the—
+**7.**[^c-ff3cf9004ffed44ffd11d52d948f4e6d] (1) Any notice issued by a local authority which includes a demand for water charges and/or sewerage charges must contain details of the—
 
 - (a) gross amount payable as water charges;
 - (b) gross amount payable as sewerage charges;
@@ -157,9 +157,9 @@ less the amount to be deducted for costs and the amount of each previous instalm
 - (a) the amount of any reduction referred to in paragraph (1)(c) need not be shown on the notice separately from the amount of reduction of council tax attributable to discounts under section 79 of the 1992 Act[^f00006]; and
 - (b) the amount referred to in paragraph (1)(d) need not be shown on the notice separately from the net amount of council tax payable.
 
-**8.**[^key-01a85470f294e87c0e3eed7a3912247a] For the purposes of demanding payments due to a local authority under this Order, regulations 20 to 25 and 27 of, and Schedule 1 to, the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992 apply in respect of water charges and sewerage charges as those provisions applied in respect of the council water charge for the year beginning on 1st April 1995.
+**8.**[^c-01a85470f294e87c0e3eed7a3912247a] For the purposes of demanding payments due to a local authority under this Order, regulations 20 to 25 and 27 of, and Schedule 1 to, the Council Tax (Administration and Enforcement) (Scotland) Regulations 1992 apply in respect of water charges and sewerage charges as those provisions applied in respect of the council water charge for the year beginning on 1st April 1995.
 
-## 9. Appeals[^key-6507bcdf43f385ba62432038ca27be71]
+## 9. Appeals[^c-6507bcdf43f385ba62432038ca27be71]
 
 (1) A person may appeal to a valuation appeal committee (established under section 29 of the Local Government etc. (Scotland) Act 1994[^f00007]) if aggrieved by—
 
@@ -184,7 +184,7 @@ and the committee must make such decision as they think just.
   and the person is still aggrieved;
 - (b) the period of two months, beginning with the date of service of the aggrieved person’s notice, has ended without that person being notified under sub-paragraph (a).
 
-**10.**[^key-02adae1500c10d1aea20328f2efe397a] (1) An appeal under article 9 may be initiated by serving on the local authority a notice of appeal in writing.
+**10.**[^c-02adae1500c10d1aea20328f2efe397a] (1) An appeal under article 9 may be initiated by serving on the local authority a notice of appeal in writing.
 
 (2) The notice of appeal must contain the following information—
 
@@ -197,7 +197,7 @@ and the committee must make such decision as they think just.
 
 (5) Part 4 of the Council Tax (Alteration of Lists and Appeals) (Scotland) Regulations 1993[^f00008] applies to appeals under this Order as it applies to appeals under section 81(1) of the 1992 Act[^f00009].
 
-## 11. Accounts and records to be kept by local authorities[^key-ffdf8a28406ce9f2415e1f111802bf47]
+## 11. Accounts and records to be kept by local authorities[^c-ffdf8a28406ce9f2415e1f111802bf47]
 
 (1) Without prejudice to the generality of section 96(1) (accounts) of the Local Government (Scotland) Act 1973[^f00010], a local authority must keep accounts and records of all transactions under this Order.
 
@@ -215,7 +215,7 @@ Edinburgh
 
 8th January 2014
 
-## SCHEDULE — Amount to be deducted (for the cost of collection) from the sum payable under article 4 in respect of the services provided within a service year[^key-8d05fc0f95f13411b5e7a663c2d2cdd1]
+## SCHEDULE — Amount to be deducted (for the cost of collection) from the sum payable under article 4 in respect of the services provided within a service year[^c-8d05fc0f95f13411b5e7a663c2d2cdd1]
 
 Article 4(1)
 
@@ -272,46 +272,46 @@ Articles 6 to 8 set out the forms and procedures for demanding payment. Articles
 
 [^f00001]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3), as relevantly amended by the Water Services etc. (Scotland) Act [2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3) (“the 2005 Act”), section 21.
 
-[^key-9f8c4eca6384aa8526a2f603d5e60eee]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-9f8c4eca6384aa8526a2f603d5e60eee]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
-[^key-f35c729f5d914dbc4dae8157a2e02c40]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/3/article/2) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-f35c729f5d914dbc4dae8157a2e02c40]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2014/3/article/2) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
 [^f00002]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14), as relevantly amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 176, and [S.S.I. 2005/51](https://www.legislation.gov.uk/ssi/2005/51).
 
 [^f00003]: Footnote: Section 29A was inserted by section 21(1) of the 2005 Act.
 
-[^key-61db2bec05844baac61d5bdf26f979e5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/3/article/2) substituted (9.12.2017) by [The Water and Sewerage Services to Dwellings (Collection of Unmetered Charges by Local Authority) (Scotland) Amendment Order 2017 (S.S.I. 2017/348)](https://www.legislation.gov.uk/ssi/2017/348), [arts. 1](https://www.legislation.gov.uk/ssi/2017/348/article/1), [2](https://www.legislation.gov.uk/ssi/2017/348/article/2)
+[^c-61db2bec05844baac61d5bdf26f979e5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2014/3/article/2) substituted (9.12.2017) by [The Water and Sewerage Services to Dwellings (Collection of Unmetered Charges by Local Authority) (Scotland) Amendment Order 2017 (S.S.I. 2017/348)](https://www.legislation.gov.uk/ssi/2017/348), [arts. 1](https://www.legislation.gov.uk/ssi/2017/348/article/1), [2](https://www.legislation.gov.uk/ssi/2017/348/article/2)
 
-[^key-f669ece02139f0efa71b29a786f5b9e7]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/3/article/3) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-f669ece02139f0efa71b29a786f5b9e7]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2014/3/article/3) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
-[^key-c82145655cb19474f4691584163a598d]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/3/article/4) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-c82145655cb19474f4691584163a598d]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/3/article/4) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
-[^key-f0cef9e56d6d5729f5dcf51ee8ec8198]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/3/article/5) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-f0cef9e56d6d5729f5dcf51ee8ec8198]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2014/3/article/5) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
-[^key-e4bf44e02b81d5ce6cd329fd31592e28]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/3/article/6) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-e4bf44e02b81d5ce6cd329fd31592e28]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2014/3/article/6) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
 [^f00004]: Footnote: [S.I. 1992/1332](https://www.legislation.gov.uk/uksi/1992/1332), as amended by [S.I. 1992/3290](https://www.legislation.gov.uk/uksi/1992/3290), [S.I. 1994/3170](https://www.legislation.gov.uk/uksi/1994/3170), [S.I. 1996/430](https://www.legislation.gov.uk/uksi/1996/430), [S.I. 1996/746](https://www.legislation.gov.uk/uksi/1996/746), [S.I 1997/728](https://www.legislation.gov.uk/uksi/1997/728), [S.S.I. 2000/166](https://www.legislation.gov.uk/ssi/2000/166), [S.S.I. 2000/261](https://www.legislation.gov.uk/ssi/2000/261), [S.S.I. 2002/166](https://www.legislation.gov.uk/ssi/2002/166), [S.S.I. 2006/67](https://www.legislation.gov.uk/ssi/2006/67), [S.S.I. 2006/402](https://www.legislation.gov.uk/ssi/2006/402), [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303), [S.S.I. 2012/338](https://www.legislation.gov.uk/ssi/2012/338) and [S.S.I. 2013/119](https://www.legislation.gov.uk/ssi/2013/119).
 
-[^key-ff3cf9004ffed44ffd11d52d948f4e6d]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/3/article/7) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-ff3cf9004ffed44ffd11d52d948f4e6d]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2014/3/article/7) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
 [^f00005]: Footnote: Section 29D was inserted by section 21(1) of the Water Services etc. (Scotland) Act [2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3).
 
 [^f00006]: Footnote: Section 79 was amended by [S.S.I. 2005/51](https://www.legislation.gov.uk/ssi/2005/51).
 
-[^key-01a85470f294e87c0e3eed7a3912247a]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/3/article/8) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-01a85470f294e87c0e3eed7a3912247a]: Commencement: [Art. 8](https://www.legislation.gov.uk/ssi/2014/3/article/8) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
-[^key-6507bcdf43f385ba62432038ca27be71]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/3/article/9) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-6507bcdf43f385ba62432038ca27be71]: Commencement: [Art. 9](https://www.legislation.gov.uk/ssi/2014/3/article/9) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
 [^f00007]: Footnote: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-02adae1500c10d1aea20328f2efe397a]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/3/article/10) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-02adae1500c10d1aea20328f2efe397a]: Commencement: [Art. 10](https://www.legislation.gov.uk/ssi/2014/3/article/10) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
 [^f00008]: Footnote: [S.I. 1993/355](https://www.legislation.gov.uk/uksi/1993/355), as amended by [S.I. 1996/580](https://www.legislation.gov.uk/uksi/1996/580) and [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303).
 
 [^f00009]: Footnote: Section 81(1) was amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 176(5).
 
-[^key-ffdf8a28406ce9f2415e1f111802bf47]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/3/article/11) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-ffdf8a28406ce9f2415e1f111802bf47]: Commencement: [Art. 11](https://www.legislation.gov.uk/ssi/2014/3/article/11) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
 
 [^f00010]: Footnote: [1973 c.65](https://www.legislation.gov.uk/ukpga/1973/65), to which there are amendments not relevant to this Order.
 
-[^key-8d05fc0f95f13411b5e7a663c2d2cdd1]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/3/schedule) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)
+[^c-8d05fc0f95f13411b5e7a663c2d2cdd1]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/3/schedule) in force at 8.2.2014, see [art. 1](https://www.legislation.gov.uk/ssi/2014/3/article/1)

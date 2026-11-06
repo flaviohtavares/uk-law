@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Amendment to regulation 31[^key-5c3475132a83a46c844765066d0a751c]
+## 13. Amendment to regulation 31[^c-5c3475132a83a46c844765066d0a751c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In regulation 31 (certification of manufacturer’s licence)[^f00020]—
 
 ## Annotations
 
-[^key-5c3475132a83a46c844765066d0a751c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/832/regulation/13) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-5c3475132a83a46c844765066d0a751c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2024/832/regulation/13) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00020]: Footnote: Paragraphs (3) and (5) were amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

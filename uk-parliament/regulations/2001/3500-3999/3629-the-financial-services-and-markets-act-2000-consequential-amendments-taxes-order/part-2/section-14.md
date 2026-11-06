@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Transfers of insurance business[^key-6f0981694344c40612ec01e11df44e88]
+## 14. Transfers of insurance business[^c-6f0981694344c40612ec01e11df44e88]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f0981694344c40612ec01e11df44e88]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2001/3629/article/14) revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008 (S.I. 2008/381)](https://www.legislation.gov.uk/uksi/2008/381), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/381/schedule/part/2)
+[^c-6f0981694344c40612ec01e11df44e88]: Textual amendment: [Art. 14](https://www.legislation.gov.uk/uksi/2001/3629/article/14) revoked (with effect in accordance with art. 1(2) of the amending S.I.) by [The Insurance Business Transfer Schemes (Amendment of the Corporation Tax Acts) Order 2008 (S.I. 2008/381)](https://www.legislation.gov.uk/uksi/2008/381), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/381/article/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/381/schedule/part/2)

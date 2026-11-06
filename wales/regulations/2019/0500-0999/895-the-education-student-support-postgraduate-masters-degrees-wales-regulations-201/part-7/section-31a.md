@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31A.[^key-2b624cf8a74524aa0c2e03543448887b]
+## 31A.[^c-2b624cf8a74524aa0c2e03543448887b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b624cf8a74524aa0c2e03543448887b]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/wsi/2019/895/regulation/31A) omitted (8.5.2024) by virtue of [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2024/501/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))
+[^c-2b624cf8a74524aa0c2e03543448887b]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/wsi/2019/895/regulation/31A) omitted (8.5.2024) by virtue of [The Education (Student Support) (Postgraduate Master’s Degrees) (Wales) (Amendment) Regulations 2024 (S.I. 2024/501)](https://www.legislation.gov.uk/wsi/2024/501), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2024/501/regulation/10) (with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/501/regulation/1/3))

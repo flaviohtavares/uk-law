@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Approved body requirements[^key-ba5d96504e6e6e33be830a43d095f45d]
+## SCHEDULE 7 — Approved body requirements[^c-ba5d96504e6e6e33be830a43d095f45d]
 
 *Extent: E+W+S*
 
 Regulation 3 and 40A
 
-**1.**[^key-1a418d9731cb921d8feca2d34968d908] (1) A conformity assessment body must have legal personality and must be established in—
+**1.**[^c-1a418d9731cb921d8feca2d34968d908] (1) A conformity assessment body must have legal personality and must be established in—
 
 - (a) the United Kingdom; or
 - (b) the territory of a party to the CPTPP.
@@ -76,6 +76,6 @@ Regulation 3 and 40A
 
 ## Annotations
 
-[^key-ba5d96504e6e6e33be830a43d095f45d]: Textual amendment: [Schs. 1-7](https://www.legislation.gov.uk/uksi/2011/1881/schedule/1) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 43](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/43) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba5d96504e6e6e33be830a43d095f45d]: Textual amendment: [Schs. 1-7](https://www.legislation.gov.uk/uksi/2011/1881/schedule/1) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 43](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/43) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a418d9731cb921d8feca2d34968d908]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2011/1881/schedule/7/paragraph/1) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 4](https://www.legislation.gov.uk/uksi/2024/504/regulation/4)
+[^c-1a418d9731cb921d8feca2d34968d908]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2011/1881/schedule/7/paragraph/1) substituted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Treatment of Conformity Assessment Bodies (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Regulations 2024 (S.I. 2024/504)](https://www.legislation.gov.uk/uksi/2024/504), [reg. 4](https://www.legislation.gov.uk/uksi/2024/504/regulation/4)

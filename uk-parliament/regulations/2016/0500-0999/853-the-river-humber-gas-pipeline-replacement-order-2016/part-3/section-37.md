@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Incorporation of the mineral code[^key-4079fe72ea998e0b53572f1dc3efa675]
+## 37. Incorporation of the mineral code[^c-4079fe72ea998e0b53572f1dc3efa675]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ Parts 2 and 3 of Schedule 2 to the Acquisition of Land Act 1981[^f00025] (minera
 
 ## Annotations
 
-[^key-4079fe72ea998e0b53572f1dc3efa675]: Commencement: Art. 37 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-4079fe72ea998e0b53572f1dc3efa675]: Commencement: Art. 37 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
 [^f00025]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67).

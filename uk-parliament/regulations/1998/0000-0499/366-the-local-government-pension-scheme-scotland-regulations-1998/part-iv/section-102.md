@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 102. Decision of the Secretary of State and notice of it[^key-84f57bec66984ec2b113e2a6e96924f2]
+## 102. Decision of the Secretary of State and notice of it[^c-84f57bec66984ec2b113e2a6e96924f2]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84f57bec66984ec2b113e2a6e96924f2]: Commencement: Reg. 102 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-84f57bec66984ec2b113e2a6e96924f2]: Commencement: Reg. 102 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00040]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

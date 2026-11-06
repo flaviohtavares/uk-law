@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Circumstances for requiring information[^key-8ac4ee4b54d3ed0dfa1cd83c2ad67939]
+## 88. Circumstances for requiring information[^c-8ac4ee4b54d3ed0dfa1cd83c2ad67939]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ac4ee4b54d3ed0dfa1cd83c2ad67939]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2006/406/regulation/88) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-8ac4ee4b54d3ed0dfa1cd83c2ad67939]: Commencement: [Reg. 88](https://www.legislation.gov.uk/nisr/2006/406/regulation/88) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Conservation and related measures[^key-c292f1ff22eb81ca744ced54afeff4d4]
+## 12. Conservation and related measures[^c-c292f1ff22eb81ca744ced54afeff4d4]
 
 *Extent: E+W+S*
 
-(1) The[^key-168717172e1ee09226b391250481dc92] appropriate authority may decide not to kill a pig—
+(1) The[^c-168717172e1ee09226b391250481dc92] appropriate authority may decide not to kill a pig—
 
 - (a) kept in a zoo or wildlife park; or
 - (b) kept for—
@@ -32,7 +32,7 @@ summary: ''
 
 *Extent: E+W*
 
-(2A)[^key-7382c14be3b70421e684b044046d77da] Where the Secretary of State decides under paragraph (1) not to kill a pig, the Secretary of State—
+(2A)[^c-7382c14be3b70421e684b044046d77da] Where the Secretary of State decides under paragraph (1) not to kill a pig, the Secretary of State—
 
 - (a) must, without delay, carry out preliminary cleansing and disinfection in accordance with Schedule 4A; and
 - (b) may impose any additional measures the Secretary of State considers necessary to prevent the spread of disease.
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c292f1ff22eb81ca744ced54afeff4d4]: Commencement: Reg. 12 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-c292f1ff22eb81ca744ced54afeff4d4]: Commencement: Reg. 12 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
 
-[^key-168717172e1ee09226b391250481dc92]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/12/1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-168717172e1ee09226b391250481dc92]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/12/1) substituted (31.12.2020) by [The Exotic Disease (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1410)](https://www.legislation.gov.uk/uksi/2018/1410), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1410/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2018/1410/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7382c14be3b70421e684b044046d77da]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/12/2A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2026/475/article/3/7)
+[^c-7382c14be3b70421e684b044046d77da]: Textual amendment: [Reg. 12(2A)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/12/2A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(7)](https://www.legislation.gov.uk/uksi/2026/475/article/3/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Extinguishment of private rights and restrictive covenants relating to apparatus removed from land subject to temporary possession[^key-0adcfa7149fb629d21c775da0a41e855]
+## 24. Extinguishment of private rights and restrictive covenants relating to apparatus removed from land subject to temporary possession[^c-0adcfa7149fb629d21c775da0a41e855]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0adcfa7149fb629d21c775da0a41e855]: Commencement: Art. 24 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-0adcfa7149fb629d21c775da0a41e855]: Commencement: Art. 24 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

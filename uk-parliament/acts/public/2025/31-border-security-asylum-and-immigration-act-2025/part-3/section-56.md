@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Interim serious crime prevention orders[^key-3d6658e00c6c6ded79d7d01fad53d589]
+## 56. Interim serious crime prevention orders[^c-3d6658e00c6c6ded79d7d01fad53d589]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d6658e00c6c6ded79d7d01fad53d589]: Commencement: S. 56 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-3d6658e00c6c6ded79d7d01fad53d589]: Commencement: S. 56 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)

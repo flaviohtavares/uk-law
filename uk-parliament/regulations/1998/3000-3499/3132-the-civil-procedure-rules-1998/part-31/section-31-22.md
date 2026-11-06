@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.22. Subsequent use of disclosed documents and completed Electronic Documents Questionnaires[^key-2cd7bf5bee66106aaeb260c6953a1297][^key-bf762ca24a81c53293ba0cd7f8826770]
+## 31.22. Subsequent use of disclosed documents and completed Electronic Documents Questionnaires[^c-2cd7bf5bee66106aaeb260c6953a1297][^c-bf762ca24a81c53293ba0cd7f8826770]
 
 *Extent: E+W*
 
@@ -33,12 +33,12 @@ summary: ''
 - (a) by a party; or
 - (b) by any person to whom the document belongs.
 
-(4)[^key-1c2a9c07b8501e6a2ff967842ba13de8] For the purpose of this rule, an Electronic Documents Questionnaire which has been completed and served by another party pursuant to Practice Direction 31B is to be treated as if it is a document which has been disclosed.
+(4)[^c-1c2a9c07b8501e6a2ff967842ba13de8] For the purpose of this rule, an Electronic Documents Questionnaire which has been completed and served by another party pursuant to Practice Direction 31B is to be treated as if it is a document which has been disclosed.
 
 ## Annotations
 
-[^key-2cd7bf5bee66106aaeb260c6953a1297]: Commencement: [Rule 31.22](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.22) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-2cd7bf5bee66106aaeb260c6953a1297]: Commencement: [Rule 31.22](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.22) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-bf762ca24a81c53293ba0cd7f8826770]: Textual amendment: Words in rule 31.22 heading inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rules 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2010/1953/rule/4/b)
+[^c-bf762ca24a81c53293ba0cd7f8826770]: Textual amendment: Words in rule 31.22 heading inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rules 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2010/1953/rule/4/b)
 
-[^key-1c2a9c07b8501e6a2ff967842ba13de8]: Textual amendment: Rule 31.22(4) inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rules 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2010/1953/rule/4/c)
+[^c-1c2a9c07b8501e6a2ff967842ba13de8]: Textual amendment: Rule 31.22(4) inserted (1.10.2010) by [The Civil Procedure (Amendment No.2) Rules 2010 (S.I. 2010/1953)](https://www.legislation.gov.uk/uksi/2010/1953), [rules 1(2)](https://www.legislation.gov.uk/uksi/2010/1953/rule/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2010/1953/rule/4/c)

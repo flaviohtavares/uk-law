@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Chair of court[^key-caeaeaa44f4a7e7b050d47d0d1c7f7cc]
+## 241. Chair of court[^c-caeaeaa44f4a7e7b050d47d0d1c7f7cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-caeaeaa44f4a7e7b050d47d0d1c7f7cc]: Commencement: S. 241 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/4)
+[^c-caeaeaa44f4a7e7b050d47d0d1c7f7cc]: Commencement: S. 241 in force at 1.6.2009 by [S.I. 2009/1296](https://www.legislation.gov.uk/uksi/2009/1296), [art. 2](https://www.legislation.gov.uk/uksi/2009/1296/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/1296/schedule/paragraph/4)

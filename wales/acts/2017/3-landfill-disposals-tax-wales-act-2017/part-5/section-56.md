@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Duties of operator in relation to non-disposal area[^key-88a9c227be232a7cd5a6a40aaf0f640e]
+## 56. Duties of operator in relation to non-disposal area[^c-88a9c227be232a7cd5a6a40aaf0f640e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ the operator of the site must ensure that the material is dealt with in accordan
 
 ## Annotations
 
-[^key-88a9c227be232a7cd5a6a40aaf0f640e]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2017/3/section/56) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-88a9c227be232a7cd5a6a40aaf0f640e]: Commencement: [S. 56](https://www.legislation.gov.uk/anaw/2017/3/section/56) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

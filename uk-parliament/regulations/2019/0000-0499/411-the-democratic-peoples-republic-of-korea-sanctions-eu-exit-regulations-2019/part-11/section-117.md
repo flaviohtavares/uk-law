@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^key-bc0c5b11800140783baf0bf7242562af][^key-7fdb6bba0807ce3ca124b4ba428b16f8]
+## 117. Application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^c-bc0c5b11800140783baf0bf7242562af][^c-7fdb6bba0807ce3ca124b4ba428b16f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005 (investig
 
 ## Annotations
 
-[^key-bc0c5b11800140783baf0bf7242562af]: Commencement: Reg. 117 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-bc0c5b11800140783baf0bf7242562af]: Commencement: Reg. 117 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-7fdb6bba0807ce3ca124b4ba428b16f8]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2019/411/regulation/117) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7fdb6bba0807ce3ca124b4ba428b16f8]: Commencement: [Reg. 117](https://www.legislation.gov.uk/uksi/2019/411/regulation/117) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636821]: Marginal citation: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15).

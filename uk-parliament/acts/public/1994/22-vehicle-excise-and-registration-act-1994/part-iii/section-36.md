@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Failed payments: additional liability.[^key-2b67536b384b36161c3e23903e911abc]
+## 36. Failed payments: additional liability.[^c-2b67536b384b36161c3e23903e911abc]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) beginning with the first day of the period for which the licence was applied for or, if later, the day on which the licence first was to have effect, and
 - (b) ending with whichever is the earliest of the times specified in subsection (4A).
 
-(4A)[^key-753877c860b24bbd05b4a793ae5f3108] In the case of a vehicle licence, those times are—
+(4A)[^c-753877c860b24bbd05b4a793ae5f3108] In the case of a vehicle licence, those times are—
 
 - (a) the end of the month in which the relevant notice was sent,
 - (b) the date on which the licence was due to expire, and
@@ -49,15 +49,15 @@ and, in the case of a trade licence, those times are the times specified in para
 (6)[^c12509811] Where—
 
 - (a) a person has been convicted of an offence under section 35A in relation to a vehicle licence or a trade licence, and
-- (b) a requirement to pay an amount with respect to that licence has been imposed on that person by virtue of section 35A(1)(a)[^key-b61d631299959e12bac865cc09a70e0d],
+- (b) a requirement to pay an amount with respect to that licence has been imposed on that person by virtue of section 35A(1)(a)[^c-b61d631299959e12bac865cc09a70e0d],
 
 the order to pay an amount under this section shall have effect instead of that requirement and the amount to be paid under the order shall be reduced by any amount actually paid in pursuance of the requirement.
 
-(7)[^key-026472f65c16353f4040b875950f1a84] In a case where a notice is sent as mentioned in section 19B(5)(f) the amount specified in subsection (2) is to be calculated on the basis of the rate described in section 4(1)(b) or 13(3A) (whichever is relevant).
+(7)[^c-026472f65c16353f4040b875950f1a84] In a case where a notice is sent as mentioned in section 19B(5)(f) the amount specified in subsection (2) is to be calculated on the basis of the rate described in section 4(1)(b) or 13(3A) (whichever is relevant).
 
 ## Annotations
 
-[^key-2b67536b384b36161c3e23903e911abc]: Textual amendment: Words in s. 36 heading substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(8)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/8/b)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-2b67536b384b36161c3e23903e911abc]: Textual amendment: Words in s. 36 heading substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(8)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/8/b)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
 [^c12509781]: Textual amendment: Words in s. 36(1) substituted (1.5.1995 with effect as mentioned in [Sch. 4 para. 32(4)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/paragraph/32/4) of the amending Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 19](https://www.legislation.gov.uk/ukpga/1995/4/section/19), [Sch. 4 Pt. V para. 32(3)(4)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/4/part/V/paragraph/32/3/4)
 
@@ -67,10 +67,10 @@ the order to pay an amount under this section shall have effect instead of that 
 
 [^c12509801]: Textual amendment: S. 36(4)(4A) substituted (31.7.1998 with effect as mentioned in [s. 19(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/19/5) of the amending Act) for s. 36(4) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 19(3)(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/19/3/5)
 
-[^key-753877c860b24bbd05b4a793ae5f3108]: Textual amendment: S. 36(4A)(4B) substituted for s. 36(4A) (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 17(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/17/2), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-753877c860b24bbd05b4a793ae5f3108]: Textual amendment: S. 36(4A)(4B) substituted for s. 36(4A) (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 17(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/17/2), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
 [^c12509811]: Textual amendment: S. 36(6) inserted (31.7.1998 with effect as mentioned in [s. 19(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/19/5) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 19(4)(5)](https://www.legislation.gov.uk/ukpga/1998/36/section/19/4/5)
 
-[^key-b61d631299959e12bac865cc09a70e0d]: Textual amendment: Words in s. 36(6)(b) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 17(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/17/3), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-b61d631299959e12bac865cc09a70e0d]: Textual amendment: Words in s. 36(6)(b) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 17(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/17/3), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-026472f65c16353f4040b875950f1a84]: Textual amendment: S. 36(7) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(8)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/8/a)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-026472f65c16353f4040b875950f1a84]: Textual amendment: S. 36(7) inserted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(8)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/8/a)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Modern limited duration tenancies: subletting[^key-b95038c6a8c25b76e7e75e08befff58e]
+## 86. Modern limited duration tenancies: subletting[^c-b95038c6a8c25b76e7e75e08befff58e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b95038c6a8c25b76e7e75e08befff58e]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2016/18/section/86) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-b95038c6a8c25b76e7e75e08befff58e]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2016/18/section/86) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

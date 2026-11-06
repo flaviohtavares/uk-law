@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Seizure of nationality documents by detainee custody officers etc[^key-bfcc820c2547e35e675bba8a0c66ce81]
+## 52. Seizure of nationality documents by detainee custody officers etc[^c-bfcc820c2547e35e675bba8a0c66ce81]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfcc820c2547e35e675bba8a0c66ce81]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/19/section/52) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)
+[^c-bfcc820c2547e35e675bba8a0c66ce81]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/19/section/52) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/g)

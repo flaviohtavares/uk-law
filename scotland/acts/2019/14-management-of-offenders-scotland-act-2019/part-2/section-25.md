@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Disclosure period: mental health orders[^key-44ff025260fdfd01df17e349772ba885]
+## 25. Disclosure period: mental health orders[^c-44ff025260fdfd01df17e349772ba885]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44ff025260fdfd01df17e349772ba885]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/14/section/25) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-44ff025260fdfd01df17e349772ba885]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2019/14/section/25) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

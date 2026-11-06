@@ -57,16 +57,16 @@ Provided that this subsection shall not affect any right or interest in respect 
 
 (1) Subject to the following provisions of this section, exemption shall be granted—
 
-- (a)[^key-6e70aa1b31c1b3b2b2ca1d782f572c9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) from income tax chargeable . . . [^c659868], under Part 3 of the Income Tax (Trading and Other Income) Act 2005[^key-b2e6211a50aa86105369ce7ecbc69407], in respect of the rents and profits of any land which is for the time being held upon the trusts of the trust instrument;
-- (c) from income tax chargeable under the provisions of the Income Tax (Trading and Other Income) Act 2005 specified in subsection (1A) in respect of the income chargeable under those provisions[^key-7dad192b378a4a68fdd312995a6dcb7a], which constitutes income arising from and subject to those trusts.
-- (d)[^key-0e37d9c78d982a54e72c2803e42898b1] from income tax chargeable under regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013, in respect of income arising from and subject to those trusts.
+- (a)[^c-6e70aa1b31c1b3b2b2ca1d782f572c9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) from income tax chargeable . . . [^c659868], under Part 3 of the Income Tax (Trading and Other Income) Act 2005[^c-b2e6211a50aa86105369ce7ecbc69407], in respect of the rents and profits of any land which is for the time being held upon the trusts of the trust instrument;
+- (c) from income tax chargeable under the provisions of the Income Tax (Trading and Other Income) Act 2005 specified in subsection (1A) in respect of the income chargeable under those provisions[^c-7dad192b378a4a68fdd312995a6dcb7a], which constitutes income arising from and subject to those trusts.
+- (d)[^c-0e37d9c78d982a54e72c2803e42898b1] from income tax chargeable under regulation 15 of the Unauthorised Unit Trusts (Tax) Regulations 2013, in respect of income arising from and subject to those trusts.
 
-(1A)[^key-6edbb3d4e26659b9fcae8fc2ea149030] The provisions are—
+(1A)[^c-6edbb3d4e26659b9fcae8fc2ea149030] The provisions are—
 
-- (a) Chapter 2 of Part 4 (interest) so far as the income is yearly interest or public revenue dividends (as defined in section 533(2) of the Income Tax Act 2007[^key-09164e5c5a497f25277837dd692ca2da]),
+- (a) Chapter 2 of Part 4 (interest) so far as the income is yearly interest or public revenue dividends (as defined in section 533(2) of the Income Tax Act 2007[^c-09164e5c5a497f25277837dd692ca2da]),
 - (b) Chapter 7 of that Part (purchased life annuity payments),
-- (c)[^key-35085b55299c50445fda27af2894b4b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-35085b55299c50445fda27af2894b4b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) Chapter 13 of that Part (sales of foreign dividend coupons) so far as the income arises from foreign holdings within section 571(1)(a) (meaning of “foreign holdings” in that Chapter),
 - (e) Chapter 2 of Part 5, so far as it relates to annual payments (receipts from intellectual property),
 - (f) Chapter 4 of that Part, so far as it relates to annual payments (certain telecommunication rights: non-trading income), and
@@ -110,7 +110,7 @@ and any stamp duty paid on any instrument, whether before or after the passing o
 
 (10) In this section “[^c659876]**the Board**”and “**the National Trust**” have the same meanings respectively as in the trust instrument, and any reference to the will of the Settlor includes a reference to any codicil to that will.
 
-## 2A. Stamp duty land tax[^key-59c6e00a5609f642a7ad3bad4117306d]
+## 2A. Stamp duty land tax[^c-59c6e00a5609f642a7ad3bad4117306d]
 
 (1) A land transaction—
 
@@ -365,21 +365,21 @@ The lands tenements and hereditaments situate at Chevening aforesaid and shown e
 
 [^c659867]: Marginal citation: [1925 c. 23](https://www.legislation.gov.uk/ukpga/1925/23).
 
-[^key-6e70aa1b31c1b3b2b2ca1d782f572c9d]: Textual amendment: S. 2(1)(a) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-6e70aa1b31c1b3b2b2ca1d782f572c9d]: Textual amendment: S. 2(1)(a) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c659868]: Textual amendment: Words repealed by [Finance Act 1963 (c. 25)](https://www.legislation.gov.uk/ukpga/1963/25), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1963/25/schedule/13/part/I) as respects tax for the year 1964-65 and subsequent years
 
-[^key-b2e6211a50aa86105369ce7ecbc69407]: Textual amendment: Words in s. 2(1)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 356(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/356/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-b2e6211a50aa86105369ce7ecbc69407]: Textual amendment: Words in s. 2(1)(b) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 356(2)(b)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/356/2/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-7dad192b378a4a68fdd312995a6dcb7a]: Textual amendment: Words in s. 2(1)(c) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 356(2)(c)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/356/2/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-7dad192b378a4a68fdd312995a6dcb7a]: Textual amendment: Words in s. 2(1)(c) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 356(2)(c)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/356/2/c) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-0e37d9c78d982a54e72c2803e42898b1]: Textual amendment: [S. 2(1)(d)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/49/section/2/1/d) inserted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [33(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/33/a) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-0e37d9c78d982a54e72c2803e42898b1]: Textual amendment: [S. 2(1)(d)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/49/section/2/1/d) inserted (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [33(a)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/33/a) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
-[^key-6edbb3d4e26659b9fcae8fc2ea149030]: Textual amendment: S. 2(1A) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 356(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/356/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-6edbb3d4e26659b9fcae8fc2ea149030]: Textual amendment: S. 2(1A) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 356(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/356/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-09164e5c5a497f25277837dd692ca2da]: Textual amendment: Words in s. 2(1A)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 241](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/241) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-09164e5c5a497f25277837dd692ca2da]: Textual amendment: Words in s. 2(1A)(a) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 241](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/241) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-35085b55299c50445fda27af2894b4b8]: Textual amendment: [S. 2(1A)(c)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/49/section/2/1A/c) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [33(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/33/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-35085b55299c50445fda27af2894b4b8]: Textual amendment: [S. 2(1A)(c)](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/49/section/2/1A/c) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [33(b)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/33/b) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
 
 [^c659871]: Modification: The text of s. 2(3)(4)(repealed by [Finance Act 1963 (c. 25)](https://www.legislation.gov.uk/ukpga/1963/25), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1963/25/schedule/13/part/I) as respects tax for the year 1964-65 and subsequent years) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -391,7 +391,7 @@ The lands tenements and hereditaments situate at Chevening aforesaid and shown e
 
 [^c659876]: Textual amendment: Words substituted by [Chevening Estate Act 1987 (c. 20, SIF 57)](https://www.legislation.gov.uk/ukpga/1987/20), [s. 4(c)](https://www.legislation.gov.uk/ukpga/1987/20/section/4/c)
 
-[^key-59c6e00a5609f642a7ad3bad4117306d]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/49/section/2A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/5)
+[^c-59c6e00a5609f642a7ad3bad4117306d]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/Eliz2/7-8/49/section/2A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/5)
 
 [^c659877]: Textual amendment: Clause 1, para. (*b*) repealed by [Chevening Estate Act 1987 (c. 20, SIF 57)](https://www.legislation.gov.uk/ukpga/1987/20), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1987/20/section/3/1), [Sch. 2 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1987/20/schedule/2/paragraph/1/2/a)
 

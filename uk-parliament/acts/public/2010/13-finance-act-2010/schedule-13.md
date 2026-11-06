@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — Unauthorised unit trusts[^key-071c59e0c0d4b0534bb7f5fda13fdaa1]
+## SCHEDULE 13 — Unauthorised unit trusts[^c-071c59e0c0d4b0534bb7f5fda13fdaa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,22 +24,22 @@ summary: ''
 
 Section 40
 
-### Amendments of Chapter 13 of Part 15 of ITA 2007[^key-071c59e0c0d4b0534bb7f5fda13fdaa1]
+### Amendments of Chapter 13 of Part 15 of ITA 2007[^c-071c59e0c0d4b0534bb7f5fda13fdaa1]
 
-**1.**[^key-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consequential amendments[^key-071c59e0c0d4b0534bb7f5fda13fdaa1]
+### Consequential amendments[^c-071c59e0c0d4b0534bb7f5fda13fdaa1]
 
-**2.**[^key-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Commencement[^key-071c59e0c0d4b0534bb7f5fda13fdaa1]
+### Commencement[^c-071c59e0c0d4b0534bb7f5fda13fdaa1]
 
-**3.**[^key-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transitional provision: opening value of trustees' double tax relief pool[^key-071c59e0c0d4b0534bb7f5fda13fdaa1]
+### Transitional provision: opening value of trustees' double tax relief pool[^c-071c59e0c0d4b0534bb7f5fda13fdaa1]
 
-**4.**[^key-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-071c59e0c0d4b0534bb7f5fda13fdaa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-071c59e0c0d4b0534bb7f5fda13fdaa1]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/13) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [41(f)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/41/f) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-071c59e0c0d4b0534bb7f5fda13fdaa1]: Textual amendment: [Sch. 13](https://www.legislation.gov.uk/ukpga/2010/13/schedule/13) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [41(f)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/41/f) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

@@ -33,7 +33,7 @@ Education, England
 
 Children And Young Persons, England
 
-The Chief Inspector of Education, Children’s Services and Skills Order 2021 (revoked)[^key-f9020144e010b66bf482b31a372d4461]
+The Chief Inspector of Education, Children’s Services and Skills Order 2021 (revoked)[^c-f9020144e010b66bf482b31a372d4461]
 
 Made
 
@@ -49,26 +49,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f9020144e010b66bf482b31a372d4461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9020144e010b66bf482b31a372d4461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f9020144e010b66bf482b31a372d4461]
+## 1. Citation and commencement[^c-f9020144e010b66bf482b31a372d4461]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointment to the Office of Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^key-f9020144e010b66bf482b31a372d4461]
+## 2. Appointment to the Office of Her Majesty’s Chief Inspector of Education, Children’s Services and Skills[^c-f9020144e010b66bf482b31a372d4461]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f9020144e010b66bf482b31a372d4461]
+## 3. Revocation[^c-f9020144e010b66bf482b31a372d4461]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9020144e010b66bf482b31a372d4461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9020144e010b66bf482b31a372d4461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9020144e010b66bf482b31a372d4461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9020144e010b66bf482b31a372d4461]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9020144e010b66bf482b31a372d4461]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/635) revoked (1.1.2024) by [The Chief Inspector of Education, Children’s Services and Skills Order 2023 (S.I. 2023/1088)](https://www.legislation.gov.uk/uksi/2023/1088), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1088/article/1), [3](https://www.legislation.gov.uk/uksi/2023/1088/article/3)
+[^c-f9020144e010b66bf482b31a372d4461]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/635) revoked (1.1.2024) by [The Chief Inspector of Education, Children’s Services and Skills Order 2023 (S.I. 2023/1088)](https://www.legislation.gov.uk/uksi/2023/1088), [arts. 1](https://www.legislation.gov.uk/uksi/2023/1088/article/1), [3](https://www.legislation.gov.uk/uksi/2023/1088/article/3)

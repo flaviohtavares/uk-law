@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Restrictions on alteration of admission arrangements[^key-ba76faeceff33279b8f251c3f9ca18ed][^key-b63acc9a201f16cd6aaca44c7be66a06]
+## 46. Restrictions on alteration of admission arrangements[^c-ba76faeceff33279b8f251c3f9ca18ed][^c-b63acc9a201f16cd6aaca44c7be66a06]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba76faeceff33279b8f251c3f9ca18ed]: Textual amendment: S. 46 repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)
+[^c-ba76faeceff33279b8f251c3f9ca18ed]: Textual amendment: S. 46 repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)
 
-[^key-b63acc9a201f16cd6aaca44c7be66a06]: Commencement: S. 46 in force at 27.2.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 7(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/7/c)
+[^c-b63acc9a201f16cd6aaca44c7be66a06]: Commencement: S. 46 in force at 27.2.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 7(c)](https://www.legislation.gov.uk/uksi/2006/3400/article/7/c)

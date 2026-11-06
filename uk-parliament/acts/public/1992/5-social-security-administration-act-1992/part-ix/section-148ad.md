@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148AD. Revaluation of new state scheme pension debits and credits[^key-aca8d378f50d0cb1f9fca88817e49345]
+## 148AD. Revaluation of new state scheme pension debits and credits[^c-aca8d378f50d0cb1f9fca88817e49345]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca8d378f50d0cb1f9fca88817e49345]: Textual amendment: [S. 148AD](https://www.legislation.gov.uk/ukpga/1992/5/section/148AD) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/8)
+[^c-aca8d378f50d0cb1f9fca88817e49345]: Textual amendment: [S. 148AD](https://www.legislation.gov.uk/ukpga/1992/5/section/148AD) inserted (6.4.2016) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2014/19/schedule/11/paragraph/8)

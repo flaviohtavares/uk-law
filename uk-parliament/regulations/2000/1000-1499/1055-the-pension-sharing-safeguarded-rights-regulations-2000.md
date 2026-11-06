@@ -41,7 +41,7 @@ Coming into force
 
 1st December 2000
 
-[^key-527f36e778834b06163dda50908dda7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-527f36e778834b06163dda50908dda7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -93,12 +93,12 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-527f36e778834b06163dda50908dda7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-527f36e778834b06163dda50908dda7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-527f36e778834b06163dda50908dda7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-527f36e778834b06163dda50908dda7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-527f36e778834b06163dda50908dda7f]: Textual amendment: Instrument revoked (6.4.2009) by [Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [art. 9](https://www.legislation.gov.uk/uksi/2009/598/article/9)
+[^c-527f36e778834b06163dda50908dda7f]: Textual amendment: Instrument revoked (6.4.2009) by [Pensions Act 2008 (Abolition of Safeguarded Rights) (Consequential) Order 2009 (S.I. 2009/598)](https://www.legislation.gov.uk/uksi/2009/598), [art. 9](https://www.legislation.gov.uk/uksi/2009/598/article/9)

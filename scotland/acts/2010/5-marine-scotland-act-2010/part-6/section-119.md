@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Effect of seal conservation area status: licensing decisions[^key-c8bd642f0a27abd83694c402a148544c]
+## 119. Effect of seal conservation area status: licensing decisions[^c-c8bd642f0a27abd83694c402a148544c]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers must not grant a seal licence authorising the killing or 
 
 ## Annotations
 
-[^key-c8bd642f0a27abd83694c402a148544c]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2010/5/section/119) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(c)](https://www.legislation.gov.uk/ssi/2010/230/article/4/c)
+[^c-c8bd642f0a27abd83694c402a148544c]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2010/5/section/119) in force at 31.1.2011 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 4(c)](https://www.legislation.gov.uk/ssi/2010/230/article/4/c)

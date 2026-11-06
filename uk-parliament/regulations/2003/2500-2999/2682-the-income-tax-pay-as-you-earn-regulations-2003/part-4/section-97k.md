@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97K. Application of Part 6 of TMA[^key-7d4617430a0049f624fddf2d6c5ac8b1]
+## 97K. Application of Part 6 of TMA[^c-7d4617430a0049f624fddf2d6c5ac8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ and that Part of that Act applies with the modification specified in paragraph (
 
 ## Annotations
 
-[^key-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)
+[^c-7d4617430a0049f624fddf2d6c5ac8b1]: Textual amendment: Pt. 4 Ch. 4 inserted (6.8.2007) by [The Income Tax (Pay as You Earn) (Amendment No. 2) Regulations 2007 (S.I. 2007/2069)](https://www.legislation.gov.uk/uksi/2007/2069), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2069/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/2069/regulation/2)

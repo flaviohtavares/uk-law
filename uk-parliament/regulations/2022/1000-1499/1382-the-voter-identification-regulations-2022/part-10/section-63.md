@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment of the Neighbourhood Planning (Referendums) Regulations 2012[^key-fedf16f3d357e525af2040bcc2e64ac0]
+## 63. Amendment of the Neighbourhood Planning (Referendums) Regulations 2012[^c-fedf16f3d357e525af2040bcc2e64ac0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Neighbourhood Planning (Referendums) Regulations 2012 are amended in accorda
 
 ## Annotations
 
-[^key-fedf16f3d357e525af2040bcc2e64ac0]: Commencement: Reg. 63 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-fedf16f3d357e525af2040bcc2e64ac0]: Commencement: Reg. 63 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

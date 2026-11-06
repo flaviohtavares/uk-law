@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Functions of Historic Environment Scotland[^key-94dc72ee9f92933f6d0a07ef6614654f][^key-6328361f5b9d2650074f3e528cd27281]
+## 2. Functions of Historic Environment Scotland[^c-94dc72ee9f92933f6d0a07ef6614654f][^c-6328361f5b9d2650074f3e528cd27281]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94dc72ee9f92933f6d0a07ef6614654f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/19/section/2) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-94dc72ee9f92933f6d0a07ef6614654f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/19/section/2) in force at 27.2.2015 for specified purposes by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
 
-[^key-6328361f5b9d2650074f3e528cd27281]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/19/section/2) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-6328361f5b9d2650074f3e528cd27281]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/19/section/2) in force at 1.10.2015 in so far as not already in force by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

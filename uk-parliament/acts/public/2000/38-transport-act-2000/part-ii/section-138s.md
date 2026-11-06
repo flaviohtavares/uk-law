@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138S. Application of TUPE[^key-d236b2a239992040336cae0951f6908e][^key-c05adb8597f2acc398b3fefbd54794ff][^key-652ea49e5927586cb07bdb4300947115]
+## 138S. Application of TUPE[^c-d236b2a239992040336cae0951f6908e][^c-c05adb8597f2acc398b3fefbd54794ff][^c-652ea49e5927586cb07bdb4300947115]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 (8) For the purposes of this section—
 
 - (a) “**transferring employee**” means an employee of a former operator whose contract of employment becomes, either by virtue of TUPE or by virtue of this section, a contract of employment with a new operator;
-- (b)[^key-63452abeaef1a9de9f13ebb547224a44] “pension protection” is secured for a transferring employee if after the change of employer referred to in paragraph (a)—
+- (b)[^c-63452abeaef1a9de9f13ebb547224a44] “pension protection” is secured for a transferring employee if after the change of employer referred to in paragraph (a)—
   - (i) the employee has, as an employee of the new operator, rights to acquire pension benefits, and
   - (ii) those rights are of such description as is prescribed by regulations.
 
@@ -94,10 +94,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
+[^c-d236b2a239992040336cae0951f6908e]: Modification: Ss. 138A-143B: functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/2)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
+[^c-652ea49e5927586cb07bdb4300947115]: Textual amendment: Ss. 138A-138S and cross-heading inserted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [ss. 9](https://www.legislation.gov.uk/ukpga/2017/21/section/9), [26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3)
 
-[^key-63452abeaef1a9de9f13ebb547224a44]: Modification: [S. 138S(8)(b)](https://www.legislation.gov.uk/ukpga/2000/38/section/138S/8/b) modified (19.12.2017) by [The Franchising Schemes and Enhanced Partnership Schemes (Pension Protection) (England) Regulations 2017 (S.I. 2017/1093)](https://www.legislation.gov.uk/uksi/2017/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1093/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1093/regulation/4)
+[^c-63452abeaef1a9de9f13ebb547224a44]: Modification: [S. 138S(8)(b)](https://www.legislation.gov.uk/ukpga/2000/38/section/138S/8/b) modified (19.12.2017) by [The Franchising Schemes and Enhanced Partnership Schemes (Pension Protection) (England) Regulations 2017 (S.I. 2017/1093)](https://www.legislation.gov.uk/uksi/2017/1093), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1093/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1093/regulation/4)

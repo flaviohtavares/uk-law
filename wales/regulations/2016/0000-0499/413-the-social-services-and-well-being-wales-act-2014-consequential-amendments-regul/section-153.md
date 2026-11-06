@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**153.**[^key-a872a4ea423f86a523b74d98b395eb84] The Education Act 1996 is amended as follows.
+**153.**[^c-a872a4ea423f86a523b74d98b395eb84] The Education Act 1996 is amended as follows.
 
 ## Annotations
 
-[^key-a872a4ea423f86a523b74d98b395eb84]: Commencement: Reg. 153 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a872a4ea423f86a523b74d98b395eb84]: Commencement: Reg. 153 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -64,14 +64,14 @@ B e it enacted by the Queen’s most Excellent Majesty, by and with the advice a
 
 (2) In section 109 (search warrants: infringing articles, etc.)—
 
-- (a)[^key-8eaeef79f88cdfe2dd1d4016d01f67c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-8eaeef79f88cdfe2dd1d4016d01f67c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8eaeef79f88cdfe2dd1d4016d01f67c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8eaeef79f88cdfe2dd1d4016d01f67c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in subsection (5), after “buildings,” insert “ fixed or ”.
 
 (3) In section 200 (search warrants: illicit recordings)—
 
 - (a) in subsection (1)(a)—
-  - (i)[^key-8bbe8287fb59bdabe3dc90ee146f48a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-8bbe8287fb59bdabe3dc90ee146f48a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) after “importing” insert “ , possessing, selling etc. ”; and
 - (b) after subsection (3) insert—
 
@@ -410,8 +410,8 @@ After section 92 of the Trade Marks Act 1994 (c. 26) insert—
 
 ## Annotations
 
-[^key-8eaeef79f88cdfe2dd1d4016d01f67c8]: Textual amendment: [S. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2002/25/section/2/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2002/25/section/2/2/b) repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
+[^c-8eaeef79f88cdfe2dd1d4016d01f67c8]: Textual amendment: [S. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2002/25/section/2/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2002/25/section/2/2/b) repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
-[^key-8bbe8287fb59bdabe3dc90ee146f48a8]: Textual amendment: [S. 2(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2002/25/section/2/3/a/i) repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
+[^c-8bbe8287fb59bdabe3dc90ee146f48a8]: Textual amendment: [S. 2(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2002/25/section/2/3/a/i) repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2498/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
 [^c887468]: Subordinate legislation: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2002/25/section/7/2) power fully exercised: 20.11.2002 appointed by [S.I. 2002/2749](https://www.legislation.gov.uk/uksi/2002/2749), [art. 2](https://www.legislation.gov.uk/uksi/2002/2749/article/2)

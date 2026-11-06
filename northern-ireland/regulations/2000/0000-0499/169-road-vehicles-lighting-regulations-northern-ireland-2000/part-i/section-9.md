@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Exceptions — military vehicles[^key-7c31a9b5830cc07b2793b867fd5f0a7c]
+## 9. Exceptions — military vehicles[^c-7c31a9b5830cc07b2793b867fd5f0a7c]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c31a9b5830cc07b2793b867fd5f0a7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/169/regulation/9) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-7c31a9b5830cc07b2793b867fd5f0a7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/169/regulation/9) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
 [^f00013]: Footnote: [1958 c. 7](https://www.legislation.gov.uk/ukpga/1958/7) (7 and Eliz 2)

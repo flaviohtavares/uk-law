@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Duty to establish panels etc.[^key-b989f53574317786d39f791076f33136]
+## 174. Duty to establish panels etc.[^c-b989f53574317786d39f791076f33136]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 - (a) a person who is a member or a member of staff of—
   - (i) SCW,
-  - (ii) Social Work England[^key-96d581afed534a82341121eb485776f0],
+  - (ii) Social Work England[^c-96d581afed534a82341121eb485776f0],
   - (iii) the Scottish Social Services Council, or
   - (iv) the Northern Ireland Social Care Council;
 - (b) a prescribed person.
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b989f53574317786d39f791076f33136]: Commencement: S. 174 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(g)](https://www.legislation.gov.uk/wsi/2017/309/article/2/g) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-b989f53574317786d39f791076f33136]: Commencement: S. 174 in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(g)](https://www.legislation.gov.uk/wsi/2017/309/article/2/g) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
 
-[^key-96d581afed534a82341121eb485776f0]: Textual amendment: Words in [s. 174(5)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/2/section/174/5/a/ii) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 44(b)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/44/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-96d581afed534a82341121eb485776f0]: Textual amendment: Words in [s. 174(5)(a)(ii)](https://www.legislation.gov.uk/anaw/2016/2/section/174/5/a/ii) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 44(b)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/44/b); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)

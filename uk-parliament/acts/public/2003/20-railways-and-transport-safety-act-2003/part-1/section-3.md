@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Establishment[^key-9682dd64cd850246f0207c76a987fb1b]
+## 3. Establishment[^c-9682dd64cd850246f0207c76a987fb1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9682dd64cd850246f0207c76a987fb1b]: Commencement: S. 3 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(iii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/iii)
+[^c-9682dd64cd850246f0207c76a987fb1b]: Commencement: S. 3 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(iii)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/iii)

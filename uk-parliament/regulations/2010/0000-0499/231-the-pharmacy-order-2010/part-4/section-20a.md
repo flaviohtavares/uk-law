@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20A. Article 20: further provision relating to specified state professionals[^key-8e3e970ef017d9db73ed65bfed3e40a6]
+## 20A. Article 20: further provision relating to specified state professionals[^c-8e3e970ef017d9db73ed65bfed3e40a6]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3e970ef017d9db73ed65bfed3e40a6]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/uksi/2010/231/article/20A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 79](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/79)
+[^c-8e3e970ef017d9db73ed65bfed3e40a6]: Textual amendment: [Art. 20A](https://www.legislation.gov.uk/uksi/2010/231/article/20A) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 79](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/79)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 237. Giving notices, statements and other documents[^key-3848a8fc423e5645d10de4eccfd8a6b6]
+## 237. Giving notices, statements and other documents[^c-3848a8fc423e5645d10de4eccfd8a6b6]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3848a8fc423e5645d10de4eccfd8a6b6]: Commencement: [S. 237](https://www.legislation.gov.uk/anaw/2016/1/section/237) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-3848a8fc423e5645d10de4eccfd8a6b6]: Commencement: [S. 237](https://www.legislation.gov.uk/anaw/2016/1/section/237) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

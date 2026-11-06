@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57B. Power to amend section 57(1D)[^key-79600da044ffb235c7d7f881e5524dc0]
+## 57B. Power to amend section 57(1D)[^c-79600da044ffb235c7d7f881e5524dc0]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79600da044ffb235c7d7f881e5524dc0]: Textual amendment: S. 57B inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 125(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/125/6), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/b)
+[^c-79600da044ffb235c7d7f881e5524dc0]: Textual amendment: S. 57B inserted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 125(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/125/6), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Immigration[^key-ea6d13a7fb5da0dcf820eea1cd0b1128][^key-b18d6ca250fb39da74773a748cbdb2a9]
+## 18. Immigration[^c-ea6d13a7fb5da0dcf820eea1cd0b1128][^c-b18d6ca250fb39da74773a748cbdb2a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ A person who is designated under regulation 5 for the purposes of this regulatio
 
 ## Annotations
 
-[^key-ea6d13a7fb5da0dcf820eea1cd0b1128]: Commencement: Reg. 18 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-ea6d13a7fb5da0dcf820eea1cd0b1128]: Commencement: Reg. 18 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-b18d6ca250fb39da74773a748cbdb2a9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/433/regulation/18) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b18d6ca250fb39da74773a748cbdb2a9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/433/regulation/18) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23619071]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 8](https://www.legislation.gov.uk/ukpga/1999/33/section/8) and amended by the [Immigration Act 2016 (c.19)](https://www.legislation.gov.uk/ukpga/2016/19), [section 76](https://www.legislation.gov.uk/ukpga/2016/19/section/76); and the Act, section 59 and Schedule 3, Part 1.

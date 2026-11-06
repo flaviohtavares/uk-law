@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Disqualification of persons under age.[^c13984951][^key-34d46abb23f1cca14bb74bcb5a6d2e27]
+## 101. Disqualification of persons under age.[^c13984951][^c-34d46abb23f1cca14bb74bcb5a6d2e27]
 
 *Extent: E+W+S*
 
@@ -54,6 +54,6 @@ but no approved training scheme for drivers shall be amended without the approva
 
 [^c13984951]: Modification: S. 101 excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(5)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/5)
 
-[^key-34d46abb23f1cca14bb74bcb5a6d2e27]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/1988/52/section/101) modified (10.6.2025) by [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), [reg. 7(12)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/7/12) (as substituted by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/608)](https://www.legislation.gov.uk/uksi/2025/608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/608/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/608/regulation/2))
+[^c-34d46abb23f1cca14bb74bcb5a6d2e27]: Modification: [S. 101](https://www.legislation.gov.uk/ukpga/1988/52/section/101) modified (10.6.2025) by [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), [reg. 7(12)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/7/12) (as substituted by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2025 (S.I. 2025/608)](https://www.legislation.gov.uk/uksi/2025/608), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/608/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2025/608/regulation/2))
 
 [^c13984961]: Textual amendment: Table in s. 101(1) substituted (23.7.1996 for specified purposes and otherwise 1.1.1997) by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974), [reg. 2](https://www.legislation.gov.uk/uksi/1996/1974/regulation/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1996/1974/schedule/1/paragraph/15)

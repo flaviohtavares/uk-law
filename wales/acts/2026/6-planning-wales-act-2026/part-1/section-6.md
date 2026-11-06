@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Operations and changes in use that are not development[^key-8a65542a649d754b160dfabbca6641b3]
+## 6. Operations and changes in use that are not development[^c-8a65542a649d754b160dfabbca6641b3]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a65542a649d754b160dfabbca6641b3]: Commencement: S. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8a65542a649d754b160dfabbca6641b3]: Commencement: S. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Timetables for reports and decisions on applications for development consent[^key-bf80df3136ca1bc3f80e54b8f431fc15]
+## 139. Timetables for reports and decisions on applications for development consent[^c-bf80df3136ca1bc3f80e54b8f431fc15]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf80df3136ca1bc3f80e54b8f431fc15]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2011/20/section/139) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-bf80df3136ca1bc3f80e54b8f431fc15]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2011/20/section/139) in force at 1.4.2012 by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

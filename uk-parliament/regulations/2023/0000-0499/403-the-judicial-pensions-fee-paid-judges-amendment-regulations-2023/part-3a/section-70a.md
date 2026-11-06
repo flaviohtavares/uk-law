@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Benefits in respect of period after amendments[^key-d108ef33542de5adb120a824558ba2a9]
+## 70A. Benefits in respect of period after amendments[^c-d108ef33542de5adb120a824558ba2a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d108ef33542de5adb120a824558ba2a9]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2023/403/part/3A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1358/regulation/2)
+[^c-d108ef33542de5adb120a824558ba2a9]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2023/403/part/3A) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2024/1358/regulation/2)

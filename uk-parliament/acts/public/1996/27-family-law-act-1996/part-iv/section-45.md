@@ -26,7 +26,7 @@ summary: ''
 
 - (a) any risk of significant harm to the applicant or a relevant child, attributable to conduct of the respondent, if the order is not made immediately;
 - (b) whether it is likely that the applicant will be deterred or prevented from pursuing the application if an order is not made immediately; and
-- (c) whether there is reason to believe that the respondent is aware of the proceedings but is deliberately evading service and that the applicant or a relevant child will be seriously prejudiced by the delay involved[^key-49db26a420613abfdcb622ea7d1434e9] in effecting substituted service.
+- (c) whether there is reason to believe that the respondent is aware of the proceedings but is deliberately evading service and that the applicant or a relevant child will be seriously prejudiced by the delay involved[^c-49db26a420613abfdcb622ea7d1434e9] in effecting substituted service.
 
 (3) If the court makes an order by virtue of subsection (1) it must afford the respondent an opportunity to make representations relating to the order as soon as just and convenient at a full hearing.
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49db26a420613abfdcb622ea7d1434e9]: Textual amendment: Word in s. 45(2)(c) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 130](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/130); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-49db26a420613abfdcb622ea7d1434e9]: Textual amendment: Word in s. 45(2)(c) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 130](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/130); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

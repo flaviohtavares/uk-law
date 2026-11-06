@@ -24,10 +24,10 @@ summary: ''
 
 (2) In subsection (1) above—
 
-- “**constable**” and “**chief constable**” shall be construed in accordance with section 99 of the Police and Fire Reform (Scotland) Act 2012 (asp 8)[^key-1ccc95bb4244760c53e0981872dc6eaf] ;
+- “**constable**” and “**chief constable**” shall be construed in accordance with section 99 of the Police and Fire Reform (Scotland) Act 2012 (asp 8)[^c-1ccc95bb4244760c53e0981872dc6eaf] ;
 - “**engaged in the provision or restoration of essential services**” means in the opinion of a constable so engaged; and
 - “**safe**” means in such opinion safe.
 
 ## Annotations
 
-[^key-1ccc95bb4244760c53e0981872dc6eaf]: Textual amendment: Words in s. 33(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 7(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/7/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1ccc95bb4244760c53e0981872dc6eaf]: Textual amendment: Words in s. 33(2) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 7(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/7/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

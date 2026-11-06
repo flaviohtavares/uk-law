@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Suspension of penalty where criminal proceedings have been brought, etc[^key-7c1c988640953cde55912cdd360348cc][^key-5002430be9032f55ba137ad522c6787f]
+## 109. Suspension of penalty where criminal proceedings have been brought, etc[^c-7c1c988640953cde55912cdd360348cc][^c-5002430be9032f55ba137ad522c6787f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c1c988640953cde55912cdd360348cc]: Commencement: S. 109 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7c1c988640953cde55912cdd360348cc]: Commencement: S. 109 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-5002430be9032f55ba137ad522c6787f]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/36/section/109) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(14)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/14)
+[^c-5002430be9032f55ba137ad522c6787f]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2025/36/section/109) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(14)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/14)

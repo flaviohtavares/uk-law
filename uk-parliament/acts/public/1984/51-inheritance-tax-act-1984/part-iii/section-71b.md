@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsections (2) , (2B)[^key-f226cca6cfbda0c6dd91253cd6089e20] and (3) below, there shall be a charge to tax under this section—
+(1) Subject to subsections (2) , (2B)[^c-f226cca6cfbda0c6dd91253cd6089e20] and (3) below, there shall be a charge to tax under this section—
 
 - (a) where settled property ceases to be property to which section 71A above applies, and
 - (b) in a case where paragraph (a) above does not apply, where the trustees make a disposition as a result of which the value of settled property to which section 71A above applies is less than it would be but for the disposition.
@@ -31,7 +31,7 @@ summary: ''
 - (b) the death under that age of the bereaved minor, or
 - (c) being paid or applied for the advancement or benefit of the bereaved minor.
 
-(2A)[^key-58c81adb1ee099f0ce145e55c3830b00] Subsection (2B) applies in a case in which—
+(2A)[^c-58c81adb1ee099f0ce145e55c3830b00] Subsection (2B) applies in a case in which—
 
 - (a) an amount is paid or applied otherwise than for the benefit of the bereaved minor, and
 - (b) the exemptions provided by subsection (2) of this section and subsections (3) and (4) of section 70 do not apply.
@@ -67,6 +67,6 @@ summary: ''
 
 [^c19473191]: Textual amendment: Ss. 71A-71H inserted (22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 156](https://www.legislation.gov.uk/ukpga/2006/25/section/156), [Sch. 20 para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/1/1/2)
 
-[^key-f226cca6cfbda0c6dd91253cd6089e20]: Textual amendment: Word in s. 71B(1) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/3/2)
+[^c-f226cca6cfbda0c6dd91253cd6089e20]: Textual amendment: Word in s. 71B(1) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/3/2)
 
-[^key-58c81adb1ee099f0ce145e55c3830b00]: Textual amendment: S. 71B(2A)(2B) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 3(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/3/3)
+[^c-58c81adb1ee099f0ce145e55c3830b00]: Textual amendment: S. 71B(2A)(2B) inserted (with effect in accordance with Sch. 44 para. 9(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 3(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/3/3)

@@ -30,7 +30,7 @@ Educational Endowments (Confirmation of Schemes) Act (Northern Ireland) 1956 [^c
 
 An Act to confirm, with modifications, certain educational endowments schemes; and for purposes connected therewith.
 
-\[4th December 1956\][^key-3c8b25035fea4ec0e3626868e55ed13f]
+\[4th December 1956\][^c-3c8b25035fea4ec0e3626868e55ed13f]
 
 ## 1. Retrospective confirmation and enactment of certain educational endowment schemes.
 
@@ -55,4 +55,4 @@ This Act may be cited as the Educational Endowments (Confirmation of Schemes) Ac
 
 [^c5441711]: Textual amendment: Functions transf., SR 1999/481
 
-[^key-3c8b25035fea4ec0e3626868e55ed13f]: Modification: [Act](https://www.legislation.gov.uk/apni/1956/15): transfer of functions (1.6.2015 for specified purposes) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 4(b)](https://www.legislation.gov.uk/nia/2013/3/section/4/b), [10(2)](https://www.legislation.gov.uk/nia/2013/3/section/10/2) (with [s. 6](https://www.legislation.gov.uk/nia/2013/3/section/6)); [S.R. 2015/256](https://www.legislation.gov.uk/nisr/2015/256), [art. 2](https://www.legislation.gov.uk/nisr/2015/256/article/2)
+[^c-3c8b25035fea4ec0e3626868e55ed13f]: Modification: [Act](https://www.legislation.gov.uk/apni/1956/15): transfer of functions (1.6.2015 for specified purposes) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 4(b)](https://www.legislation.gov.uk/nia/2013/3/section/4/b), [10(2)](https://www.legislation.gov.uk/nia/2013/3/section/10/2) (with [s. 6](https://www.legislation.gov.uk/nia/2013/3/section/6)); [S.R. 2015/256](https://www.legislation.gov.uk/nisr/2015/256), [art. 2](https://www.legislation.gov.uk/nisr/2015/256/article/2)

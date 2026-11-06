@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Abolition of requirements to hold meetings: company insolvency[^key-f5fcc9faefaafaccb285a94cccad7f41]
+## 7. Abolition of requirements to hold meetings: company insolvency[^c-f5fcc9faefaafaccb285a94cccad7f41]
 
 *Extent: N.I.*
 
@@ -149,4 +149,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5fcc9faefaafaccb285a94cccad7f41]: Commencement: S. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-f5fcc9faefaafaccb285a94cccad7f41]: Commencement: S. 7 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

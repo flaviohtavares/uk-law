@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 273C. Dividends from protected cell companies[^key-e856b230120ae044b41c0005cc0a4b1f]
+## 273C. Dividends from protected cell companies[^c-e856b230120ae044b41c0005cc0a4b1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e856b230120ae044b41c0005cc0a4b1f]: Textual amendment: [S. 273C](https://www.legislation.gov.uk/ukpga/2023/30/section/273C) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 46](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/46)
+[^c-e856b230120ae044b41c0005cc0a4b1f]: Textual amendment: [S. 273C](https://www.legislation.gov.uk/ukpga/2023/30/section/273C) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 46](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/46)

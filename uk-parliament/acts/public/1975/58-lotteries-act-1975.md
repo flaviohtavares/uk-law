@@ -29,38 +29,38 @@ Lotteries Act 1975 (repealed)
 
 1975 c.58
 
-[^key-5ec231b622c437e15c2a31380feba79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5ec231b622c437e15c2a31380feba79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1—15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-5ec231b622c437e15c2a31380feba79e][^key-5ec231b622c437e15c2a31380feba79e]
+## 1—15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-5ec231b622c437e15c2a31380feba79e][^c-5ec231b622c437e15c2a31380feba79e]
 
-## Supplementary[^key-5ec231b622c437e15c2a31380feba79e]
+## Supplementary[^c-5ec231b622c437e15c2a31380feba79e]
 
-### 16—19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-5ec231b622c437e15c2a31380feba79e][^key-5ec231b622c437e15c2a31380feba79e]
+### 16—19. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-5ec231b622c437e15c2a31380feba79e][^c-5ec231b622c437e15c2a31380feba79e]
 
-### 20. Citation, repeals et ceteralaetc.[^key-5ec231b622c437e15c2a31380feba79e][^key-5ec231b622c437e15c2a31380feba79e]
+### 20. Citation, repeals et ceteralaetc.[^c-5ec231b622c437e15c2a31380feba79e][^c-5ec231b622c437e15c2a31380feba79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULES 1—3[^key-5ec231b622c437e15c2a31380feba79e]
+## SCHEDULES 1—3[^c-5ec231b622c437e15c2a31380feba79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — The Betting, Gaming and Lotteries Act 1963[^key-5ec231b622c437e15c2a31380feba79e]
+## SCHEDULE 4 — The Betting, Gaming and Lotteries Act 1963[^c-5ec231b622c437e15c2a31380feba79e]
 
 Section 20.
 
-**1—5**[^key-5ec231b622c437e15c2a31380feba79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1—5**[^c-5ec231b622c437e15c2a31380feba79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5ec231b622c437e15c2a31380feba79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5ec231b622c437e15c2a31380feba79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5[^key-5ec231b622c437e15c2a31380feba79e]
+## SCHEDULE 5[^c-5ec231b622c437e15c2a31380feba79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5ec231b622c437e15c2a31380feba79e]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-5ec231b622c437e15c2a31380feba79e]: Textual amendment: Act repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7) [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)

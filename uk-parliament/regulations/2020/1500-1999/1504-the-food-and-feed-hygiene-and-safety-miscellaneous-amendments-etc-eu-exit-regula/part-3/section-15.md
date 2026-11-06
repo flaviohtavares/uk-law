@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendment of the Novel Food (Amendment) (EU Exit) Regulations 2019[^key-bdadaef9aff488be11a64722c7d43101]
+## 15. Amendment of the Novel Food (Amendment) (EU Exit) Regulations 2019[^c-bdadaef9aff488be11a64722c7d43101]
 
 *Extent: E+W+S*
 
@@ -142,6 +142,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdadaef9aff488be11a64722c7d43101]: Commencement: Reg. 15 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-bdadaef9aff488be11a64722c7d43101]: Commencement: Reg. 15 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375521]: Marginal citation: [S.I. 2019/702](https://www.legislation.gov.uk/uksi/2019/702).

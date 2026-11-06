@@ -52,17 +52,17 @@ In this Act—
 
 “Stockholder” means a person holding stock, being entered as such in—[^c5676361]
 
-- (a) a register kept by the Registrar of Government Stock in accordance with regulations under section 47 of the Finance Act 1942 (see regulation 7 of the Government Stock Regulations 2004); or[^key-80ff329cdb1d25507750495beb3e6915]
+- (a) a register kept by the Registrar of Government Stock in accordance with regulations under section 47 of the Finance Act 1942 (see regulation 7 of the Government Stock Regulations 2004); or[^c-80ff329cdb1d25507750495beb3e6915]
 - (b) a register kept by the Operator of a relevant system under the Uncertificated Securities Regulations 2001 (and “Operator” and “relevant system” shall have the same meanings as they have in those Regulations):
 
 - “**Warrant**” includes draft, order, cheque, or other document used as a medium for payment of dividends:
 - [^c5676351]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-f3b23e6a910dfc12a96674b0b928db1a]......
+- [^c-f3b23e6a910dfc12a96674b0b928db1a]......
 - “**The Consolidated Fund**” means the consolidated fund of the United Kingdom of Great Britain and Ireland:
 - “**The Court of Chancery**” means the Court of Chancery in England or the Court of Chancery in Ireland as the case requires:
 - “**Person**” includes corporation:
 
-- “the Registrar of Government Stock” means the person or persons appointed in accordance with regulations under section 47(1)(b) of the Finance Act 1942 (see regulation 3 of the Government Stock Regulations 2004):[^key-836448fd0c5941aa0799762cc3798469]
+- “the Registrar of Government Stock” means the person or persons appointed in accordance with regulations under section 47(1)(b) of the Finance Act 1942 (see regulation 3 of the Government Stock Regulations 2004):[^c-836448fd0c5941aa0799762cc3798469]
 
 - “**Representatives**” means executors, administrators, or successors and assigns.
 
@@ -72,7 +72,7 @@ In this Act—
 
 ### Denominations and Incidents of Stock
 
-#### 5. Continuance of existing permanent funded debt on existing terms.[^key-b3f1320b8f800f00f279e105b1d9dd18]
+#### 5. Continuance of existing permanent funded debt on existing terms.[^c-b3f1320b8f800f00f279e105b1d9dd18]
 
 The perpetual annuities described in the first schedule to this Act, to the respective amounts thereof subsisting at the passing of this Act, and the several capital sums in respect whereof those several annuities are payable, do and shall form part of the National Debt, . . . [^c5676391]
 
@@ -96,11 +96,11 @@ The annuities of each denomination mentioned in the first schedule to this Act t
 
 Sufficient money to pay the dividends on all stock, with the charges attending the same, shall continue to be from time to time issuable for that purpose out of the National Loans Fund[^c5676441].
 
-#### 13. Registrar of Government Stock to employ suitably qualified persons[^key-3dcdd47fcf204a6f240fb0d18af0d381]
+#### 13. Registrar of Government Stock to employ suitably qualified persons[^c-3dcdd47fcf204a6f240fb0d18af0d381]
 
 Until all stock is redeemed, the Registrar of Government Stock must employ suitably qualified persons to administer the payment of the dividends on stock.
 
-#### 14. Issue by Treasury.[^c5676451][^key-e9047852671cfb1643735e4c7e4d091b]
+#### 14. Issue by Treasury.[^c5676451][^c-e9047852671cfb1643735e4c7e4d091b]
 
 (1) The money from time to time and at any time—
 
@@ -113,13 +113,13 @@ shall, by order of the Treasury, without other warrant, from time to time be iss
 
 (3) The Treasury shall make that amount available to the Registrar of Government Stock for the making of such payments.
 
-#### 15. Application of money by Registrar of Government Stock[^key-2ec7fcb707713080fb52403265142a00]
+#### 15. Application of money by Registrar of Government Stock[^c-2ec7fcb707713080fb52403265142a00]
 
 The Registrar of Government Stock shall without delay apply in payment of the dividends on stock the money from time to time so made available to him.
 
-#### 16. Accounting by Registrar of Government Stock[^key-751433bc7913f74e7ad73a7aba552ec9]
+#### 16. Accounting by Registrar of Government Stock[^c-751433bc7913f74e7ad73a7aba552ec9]
 
-The Registrar of Government Stock shall from time to time render his accounts relating to the money made available[^key-7aed3539eb0ceb73a5b63e63f4a1edce] to him for the payment of the dividends on stock and those accounts shall be audited, as the Treasury from time to time direct, but the Treasury may, if they think fit, dispense with such audit.
+The Registrar of Government Stock shall from time to time render his accounts relating to the money made available[^c-7aed3539eb0ceb73a5b63e63f4a1edce] to him for the payment of the dividends on stock and those accounts shall be audited, as the Treasury from time to time direct, but the Treasury may, if they think fit, dispense with such audit.
 
 #### 17. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5676471]
 
@@ -151,15 +151,15 @@ All such dividends . . . [^c5676551] shall be held by those Commissioners for th
 
 #### 55. Re-transfer and payment to person showing title.[^c5676571][^c5676581]
 
-The Registrar of Government Stock may re-transfer any stock transferred under this Part to any person showing his right to it to the satisfaction of the Registrar of Government Stock, and pay the dividends due on it, as if the stock or dividends had not been transferred or paid to the National Debt Commissioners.[^key-bd650dafe444e5528bce5cbe5f1fa3d0]
+The Registrar of Government Stock may re-transfer any stock transferred under this Part to any person showing his right to it to the satisfaction of the Registrar of Government Stock, and pay the dividends due on it, as if the stock or dividends had not been transferred or paid to the National Debt Commissioners.[^c-bd650dafe444e5528bce5cbe5f1fa3d0]
 
-But in case the Registrar of Government Stock[^key-1891a185b9bca883bbca1264a16f8c68] is not satisfied of the right of any person claiming to be entitled to any such stock or dividends, the claimant may, by petition in a summary way, state and verify his claim to the Court of Chancery.
+But in case the Registrar of Government Stock[^c-1891a185b9bca883bbca1264a16f8c68] is not satisfied of the right of any person claiming to be entitled to any such stock or dividends, the claimant may, by petition in a summary way, state and verify his claim to the Court of Chancery.
 
 The petition shall be served on Her Majesty’s Attorney General and on the National Debt Commissioners, and the Court shall make such order thereon (either for re-transfer of the stock to which the petition relates and payment of the dividends accrued thereon, or otherwise), and touching the costs of the application, as to the Court seems just.
 
 All costs and expenses incurred by or on behalf of the Attorney General, or the National Debt Commissioners, in resisting or appearing on any such petition, if not ordered by the Court to be paid out of the stock and dividends thereby claimed, shall be paid by the National Debt Commissioners, out of unclaimed dividends.
 
-Where any re-transfer or payment is made to any such claimant, either with or without the authority of the Court, the Registrar of Government Stock[^key-5f5aa3695e520ba78d4faeb5f1f74577] [^c22569461]. . . shall give notice thereof to the National Debt Commissioners, within three days after making the same.
+Where any re-transfer or payment is made to any such claimant, either with or without the authority of the Court, the Registrar of Government Stock[^c-5f5aa3695e520ba78d4faeb5f1f74577] [^c22569461]. . . shall give notice thereof to the National Debt Commissioners, within three days after making the same.
 
 #### 56–57. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c5676591]
 
@@ -167,7 +167,7 @@ Where any re-transfer or payment is made to any such claimant, either with or wi
 
 At any time before re-transfer of stock or payment of dividend as aforesaid to a claimant any person may apply to the Court of Chancery, by motion or petition, to rescind or vary any order made for re-transfer or payment thereof.
 
-#### 59. Bank and Registrar of Government Stock not responsible to second claimant[^c5676601][^key-185e5ff3876fa2655e3ad2327eae8b8f]
+#### 59. Bank and Registrar of Government Stock not responsible to second claimant[^c5676601][^c-185e5ff3876fa2655e3ad2327eae8b8f]
 
 (1) Where any stock or dividends have been re-transferred or paid as aforesaid to a claimant by the Bank of England, the Registrar of Government Stock or any previous Registrar of Government Stock and is or are afterwards claimed by another person, none of the persons mentioned in subsection (2) shall be responsible for that stock or those dividends to that other claimant but he may have recourse against the person to whom the re-transfer or payment was made.
 
@@ -192,7 +192,7 @@ Such transfer shall be made from stock transferred to the National Debt Commissi
 
 #### 66. Indemnity to Banks.[^c5676651]
 
-The Registrar of Government Stock, any previous Registrar of Government Stock and the[^key-72782f59179fe1f81faff77adc9a9dc5] Banks of England and Ireland and their respective governors, deputy governors, and officers are hereby indemnified in respect of any transfer or re-transfer of stock or payment of dividends under this part of this Act, and shall not be in any manner responsible to any person having or claiming any interest therein.
+The Registrar of Government Stock, any previous Registrar of Government Stock and the[^c-72782f59179fe1f81faff77adc9a9dc5] Banks of England and Ireland and their respective governors, deputy governors, and officers are hereby indemnified in respect of any transfer or re-transfer of stock or payment of dividends under this part of this Act, and shall not be in any manner responsible to any person having or claiming any interest therein.
 
 #### 67. Application of this part to stock already transferred, &c.
 
@@ -254,15 +254,15 @@ SCHEDULES
 
 [^c5676361]: Textual amendment: S. 3: definition of “Stockholder” substituted (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 1](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/1) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 
-[^key-80ff329cdb1d25507750495beb3e6915]: Textual amendment: Words in s. 3 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-80ff329cdb1d25507750495beb3e6915]: Textual amendment: Words in s. 3 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-f3b23e6a910dfc12a96674b0b928db1a]: Textual amendment: Words in s. 3 omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-f3b23e6a910dfc12a96674b0b928db1a]: Textual amendment: Words in s. 3 omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-836448fd0c5941aa0799762cc3798469]: Textual amendment: Words in s. 3 inserted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
+[^c-836448fd0c5941aa0799762cc3798469]: Textual amendment: Words in s. 3 inserted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
 
 [^c5676381]: Textual amendment: [Ss. 2](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/2), [4](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/4) repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1 Pt. III](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1/part/III)
 
-[^key-b3f1320b8f800f00f279e105b1d9dd18]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/5) excluded in part (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(4)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/4/a)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
+[^c-b3f1320b8f800f00f279e105b1d9dd18]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/5) excluded in part (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 124(4)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/4/a)[(7)](https://www.legislation.gov.uk/ukpga/2015/11/section/124/7)
 
 [^c5676391]: Textual amendment: Words repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
@@ -274,17 +274,17 @@ SCHEDULES
 
 [^c5676441]: Textual amendment: Words substituted by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [Sch. 5](https://www.legislation.gov.uk/ukpga/1968/13/schedule/5)
 
-[^key-3dcdd47fcf204a6f240fb0d18af0d381]: Textual amendment: S. 13 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-3dcdd47fcf204a6f240fb0d18af0d381]: Textual amendment: S. 13 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5676451]: Modification: S. 14 modified (29.4.1996) by [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1), [s. 118E(2)(a)](https://www.legislation.gov.uk/ukpga/1988/1/section/118E/2/a) (as inserted (29.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 156](https://www.legislation.gov.uk/ukpga/1996/8/section/156), [Sch. 29 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1996/8/schedule/29/part/I/paragraph/1))
 
-[^key-e9047852671cfb1643735e4c7e4d091b]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/14) substituted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
+[^c-e9047852671cfb1643735e4c7e4d091b]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/14) substituted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(3)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
 
-[^key-2ec7fcb707713080fb52403265142a00]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/15) substituted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
+[^c-2ec7fcb707713080fb52403265142a00]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/15) substituted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(4)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
 
-[^key-751433bc7913f74e7ad73a7aba552ec9]: Textual amendment: S. 16 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(6)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-751433bc7913f74e7ad73a7aba552ec9]: Textual amendment: S. 16 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(6)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-7aed3539eb0ceb73a5b63e63f4a1edce]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/16) substituted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
+[^c-7aed3539eb0ceb73a5b63e63f4a1edce]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/16) substituted (15.11.2004) by [Government Stock (Consequential and Transitional Provision) (No.3) Order 2004 (S.I. 2004/2744)](https://www.legislation.gov.uk/uksi/2004/2744), [art. 1](https://www.legislation.gov.uk/uksi/2004/2744/article/1), [Sch. para. 1(5)](https://www.legislation.gov.uk/uksi/2004/2744/schedule/paragraph/1/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2744/article/3))
 
 [^c5676471]: Textual amendment: Ss. 7 - 10, 17 repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6)
 
@@ -308,11 +308,11 @@ SCHEDULES
 
 [^c5676581]: Modification: S. 55 amended by [Finance Act 1937 (c. 54)](https://www.legislation.gov.uk/ukpga/1937/54), [s. 28](https://www.legislation.gov.uk/ukpga/1937/54/section/28)
 
-[^key-bd650dafe444e5528bce5cbe5f1fa3d0]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/55) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-bd650dafe444e5528bce5cbe5f1fa3d0]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/55) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-1891a185b9bca883bbca1264a16f8c68]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/55) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-1891a185b9bca883bbca1264a16f8c68]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/55) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(7)(b)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-5f5aa3695e520ba78d4faeb5f1f74577]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/55) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/7/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-5f5aa3695e520ba78d4faeb5f1f74577]: Textual amendment: Words in [s. 55](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/55) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/7/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c22569461]: Textual amendment: Words in s. 55 repealed (28.10.2002) by [The Irish Registers of Government Stock (Closure and Transfer) Order 2002 (S.I. 2002/2521)](https://www.legislation.gov.uk/uksi/2002/2521), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/2521/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2002/2521/article/2/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2521/schedule/2/part/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2002/2521/article/9))
 
@@ -320,7 +320,7 @@ SCHEDULES
 
 [^c5676601]: Modification: S. 59 extended (*retrospectively*) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 138(3)(5)](https://www.legislation.gov.uk/ukpga/2002/23/section/138/3/5)
 
-[^key-185e5ff3876fa2655e3ad2327eae8b8f]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/59) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(8)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-185e5ff3876fa2655e3ad2327eae8b8f]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/59) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(8)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5676611]: Textual amendment: Words repealed by [Finance Act 1949 (c. 47)](https://www.legislation.gov.uk/ukpga/1949/47), [Sch. II Pt. VII](https://www.legislation.gov.uk/ukpga/1949/47/schedule/II/part/VII)
 
@@ -332,7 +332,7 @@ SCHEDULES
 
 [^c5676651]: Modification: S. 66 extended (*retrospectively*) by [2002 c. 17](https://www.legislation.gov.uk/ukpga/2002/17), [s. 138(3)(5)](https://www.legislation.gov.uk/ukpga/2002/17/section/138/3/5)
 
-[^key-72782f59179fe1f81faff77adc9a9dc5]: Textual amendment: Words in [s. 66](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/66) inserted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(9)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-72782f59179fe1f81faff77adc9a9dc5]: Textual amendment: Words in [s. 66](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/66) inserted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [3(9)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/3/9) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c5676661]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukpga/Vict/33-34/71/section/68) repealed by [Statute Law Revision Act 1966 (c. 5)](https://www.legislation.gov.uk/ukpga/1966/5)
 

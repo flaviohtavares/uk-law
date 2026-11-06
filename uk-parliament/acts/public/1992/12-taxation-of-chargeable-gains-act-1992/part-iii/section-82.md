@@ -34,7 +34,7 @@ summary: ''
 (3) This subsection applies to any person who, at any time within the relevant period, was a trustee of the settlement, except that it does not apply to any such person if—
 
 - (a) he ceased to be a trustee of the settlement before the end of the relevant period, and
-- (b) he shows that, when he ceased to be a trustee of the settlement, there was no proposal that the trustees might cease to be resident[^key-b6bf02e122c30b5c29b788a6f7d3b38e] in the United Kingdom.
+- (b) he shows that, when he ceased to be a trustee of the settlement, there was no proposal that the trustees might cease to be resident[^c-b6bf02e122c30b5c29b788a6f7d3b38e] in the United Kingdom.
 
 (4) Any amount which a person is required to pay by a notice under this section may be recovered from him as if it were tax due and duly demanded of him; and he may recover any such amount paid by him from the migrating trustees.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6bf02e122c30b5c29b788a6f7d3b38e]: Textual amendment: Words in s. 82(3)(b) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 86](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/86)
+[^c-b6bf02e122c30b5c29b788a6f7d3b38e]: Textual amendment: Words in s. 82(3)(b) substituted (with effect in accordance with Sch. 46 para. 112 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 86](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/86)

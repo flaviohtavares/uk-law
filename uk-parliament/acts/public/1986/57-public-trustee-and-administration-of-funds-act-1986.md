@@ -31,7 +31,7 @@ Public Trustee and Administration of Funds Act 1986
 
 1986 c. 57
 
-An Act to make provision with respect to certain functions of the Public Trustee, the Accountant General of the Senior Courts[^key-d5fc8b710cc13efa480e6b943560f23f] and the Court of Protection as respects the management, protection or administration of the funds and other property and, if under disability the affairs of private persons; and with respect to the investment expenses of the National Debt Commissioners.
+An Act to make provision with respect to certain functions of the Public Trustee, the Accountant General of the Senior Courts[^c-d5fc8b710cc13efa480e6b943560f23f] and the Court of Protection as respects the management, protection or administration of the funds and other property and, if under disability the affairs of private persons; and with respect to the investment expenses of the National Debt Commissioners.
 
 \[7th November 1986\]
 
@@ -49,7 +49,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) The enactments specified in the Schedule to this Act shall have effect with the amendments specified in that Schedule.
 
-### 2. Exercise by Public Trustee of functions of Court of Protection.[^key-e962921fad05dffcf124a8937759bdc5]
+### 2. Exercise by Public Trustee of functions of Court of Protection.[^c-e962921fad05dffcf124a8937759bdc5]
 
 *Extent: E+W*
 
@@ -59,9 +59,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-(1)[^key-bac0e8b4c738ed9b583fca5f3290b0d6] The Public Trustee may exercise the functions of a deputy appointed by the Court of Protection.
+(1)[^c-bac0e8b4c738ed9b583fca5f3290b0d6] The Public Trustee may exercise the functions of a deputy appointed by the Court of Protection.
 
-(6) The discharge by the Public Trustee of any functions under this section shall not be treated as the discharge of the duties of his office for the purposes of the following provisions of the Public Trustee Act 1906[^key-c4318aa2798f2be9e8288b490b84173b], that is to say—
+(6) The discharge by the Public Trustee of any functions under this section shall not be treated as the discharge of the duties of his office for the purposes of the following provisions of the Public Trustee Act 1906[^c-c4318aa2798f2be9e8288b490b84173b], that is to say—
 
 - (a)[^c788604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 9 (fees); and
@@ -69,9 +69,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 but persons may be appointed as his officers and expenses paid under section 8 and rules may be made under section 114 of that Act for the purposes of this section as for the purposes of that Act.
 
-(7)[^key-740b3181c8868f87bc6822af24b3ee6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-740b3181c8868f87bc6822af24b3ee6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Accountant General’s powers of investment.[^key-538d2e64ae029db571ab64c4f4978855]
+### 4. Accountant General’s powers of investment.[^c-538d2e64ae029db571ab64c4f4978855]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,7 +101,7 @@ but persons may be appointed as his officers and expenses paid under section 8 a
 
 (1) This act may be cited as the Public Trustee and Administration of Funds Act 1986.
 
-(2)[^key-79e5fe52dcf6adddc9a70bc88995f395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-79e5fe52dcf6adddc9a70bc88995f395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) With the exception of the amendments in the Administration of Justice Act 1982, this Act extends to England and Wales only.
 
@@ -141,23 +141,23 @@ Section 1.
 
 ## Annotations
 
-[^key-d5fc8b710cc13efa480e6b943560f23f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-d5fc8b710cc13efa480e6b943560f23f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-e962921fad05dffcf124a8937759bdc5]: Textual amendment: S. 2 repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-e962921fad05dffcf124a8937759bdc5]: Textual amendment: S. 2 repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-bac0e8b4c738ed9b583fca5f3290b0d6]: Textual amendment: S. 3(1) substituted (1.10.2007) for s. 3(1)-(5) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 33(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/33/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-bac0e8b4c738ed9b583fca5f3290b0d6]: Textual amendment: S. 3(1) substituted (1.10.2007) for s. 3(1)-(5) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 33(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/33/a) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-c4318aa2798f2be9e8288b490b84173b]: Textual amendment: Words in s. 3(6) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 33(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/33/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-c4318aa2798f2be9e8288b490b84173b]: Textual amendment: Words in s. 3(6) substituted (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 33(b)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/33/b) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
 [^c788604]: Textual amendment: S. 3(6)(a) repealed (7.11.2002) by [2002 c. 35](https://www.legislation.gov.uk/ukpga/2002/35), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2002/35/section/1/3)
 
-[^key-740b3181c8868f87bc6822af24b3ee6f]: Textual amendment: S. 3(7) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 33(c)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/33/c), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
+[^c-740b3181c8868f87bc6822af24b3ee6f]: Textual amendment: S. 3(7) repealed (1.10.2007) by [Mental Capacity Act 2005 (c. 9)](https://www.legislation.gov.uk/ukpga/2005/9), [s. 68(1)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1), [Sch. 6 para. 33(c)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/6/paragraph/33/c), [Sch. 7](https://www.legislation.gov.uk/ukpga/2005/9/schedule/7) (with [ss. 27-29](https://www.legislation.gov.uk/ukpga/2005/9/section/27), [62](https://www.legislation.gov.uk/ukpga/2005/9/section/62)); [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/1/d)
 
-[^key-538d2e64ae029db571ab64c4f4978855]: Textual amendment: S. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4, Pt. 17, Group 8
+[^c-538d2e64ae029db571ab64c4f4978855]: Textual amendment: S. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4, Pt. 17, Group 8
 
 [^c788606]: Marginal citation: [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53).
 
-[^key-79e5fe52dcf6adddc9a70bc88995f395]: Textual amendment: S. 6(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4, Pt. 17, Group 8
+[^c-79e5fe52dcf6adddc9a70bc88995f395]: Textual amendment: S. 6(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/1) Group 4, Pt. 17, Group 8
 
 [^c788608]: Marginal citation: Edw. 7 c. 55.
 

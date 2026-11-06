@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**20.**[^key-35add87a6dff40a0ef018ac525644426] In Part 59 (Proceeds of Crime Act 2002 150 rules applicable only to restraint proceedings), in the Table of Contents—
+**20.**[^c-35add87a6dff40a0ef018ac525644426] In Part 59 (Proceeds of Crime Act 2002 150 rules applicable only to restraint proceedings), in the Table of Contents—
 
 - (a) at the end of the first column, insert “Application to punish for contempt of court”; and
 - (b) at the end of the second column, insert “rule 59.6”.
 
 ## Annotations
 
-[^key-35add87a6dff40a0ef018ac525644426]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2009/2087/article/20) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-35add87a6dff40a0ef018ac525644426]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2009/2087/article/20) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

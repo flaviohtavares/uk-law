@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**42.**[^key-b323bd847de65f95c9cbd1945a4bf001] Before regulation 46 in the heading “report of export from territory of the EU” insert “or Northern Ireland” at the end.
+**42.**[^c-b323bd847de65f95c9cbd1945a4bf001] Before regulation 46 in the heading “report of export from territory of the EU” insert “or Northern Ireland” at the end.
 
 ## Annotations
 
-[^key-b323bd847de65f95c9cbd1945a4bf001]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-b323bd847de65f95c9cbd1945a4bf001]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Duties of Head of Legal Practice[^key-f9eb47d9a06300e95a09613e67db82aa]
+## 91. Duties of Head of Legal Practice[^c-f9eb47d9a06300e95a09613e67db82aa]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9eb47d9a06300e95a09613e67db82aa]: Commencement: S. 91 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-f9eb47d9a06300e95a09613e67db82aa]: Commencement: S. 91 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

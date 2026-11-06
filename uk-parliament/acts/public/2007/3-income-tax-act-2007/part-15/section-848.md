@@ -26,8 +26,8 @@ summary: ''
 
 (3) But this section does not apply to income tax deducted at source under section 966 (visiting performers) or 971 (non-resident landlords).
 
-(4)[^key-452774c1daec7b31bbd74bf5109bdf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-452774c1daec7b31bbd74bf5109bdf77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-452774c1daec7b31bbd74bf5109bdf77]: Textual amendment: S. 848(4) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(11)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/11) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))
+[^c-452774c1daec7b31bbd74bf5109bdf77]: Textual amendment: S. 848(4) omitted (6.4.2014) by virtue of [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [37(11)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/37/11) (with [reg. 32](https://www.legislation.gov.uk/uksi/2013/2819/regulation/32))

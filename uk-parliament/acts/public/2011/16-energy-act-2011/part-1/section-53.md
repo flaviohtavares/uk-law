@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Crown application: Chapter 2[^key-963691702fe2007857dd078addd72cc6]
+## 53. Crown application: Chapter 2[^c-963691702fe2007857dd078addd72cc6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter binds the Crown.
 
 ## Annotations
 
-[^key-963691702fe2007857dd078addd72cc6]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/16/section/53) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)
+[^c-963691702fe2007857dd078addd72cc6]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/16/section/53) in force at 26.3.2015 by [S.I. 2015/880](https://www.legislation.gov.uk/uksi/2015/880), [art. 2](https://www.legislation.gov.uk/uksi/2015/880/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/880/schedule)

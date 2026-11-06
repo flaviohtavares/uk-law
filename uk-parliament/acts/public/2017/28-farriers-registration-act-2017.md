@@ -36,11 +36,11 @@ An Act to make provision about the constitution of the Farriers Registration Cou
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Constitution of Farriers Registration Council and its committees[^key-262cbfae6222d1e6a96a17730f7cb1dd]
+## 1. Constitution of Farriers Registration Council and its committees[^c-262cbfae6222d1e6a96a17730f7cb1dd]
 
 The Schedule amends the Farriers (Registration) Act 1975 to make changes to the constitution of the Farriers Registration Council and its committees.
 
-## 2. Power to make further changes to constitution of Council and its committees[^key-4dc15c5067506ff876bc4715790486a5]
+## 2. Power to make further changes to constitution of Council and its committees[^c-4dc15c5067506ff876bc4715790486a5]
 
 In the Farriers (Registration) Act 1975, after section 17 insert—
 
@@ -92,7 +92,7 @@ Section 1
 
 ### Part 1 — Constitution of Farriers Registration Council
 
-**1.**[^key-63599d9990f75cd83fc1e129ea97beec] For Part 1 of Schedule 1 to the Farriers (Registration) Act 1975 substitute—
+**1.**[^c-63599d9990f75cd83fc1e129ea97beec] For Part 1 of Schedule 1 to the Farriers (Registration) Act 1975 substitute—
 
 > **Part 1 — Constitution**
 >
@@ -175,7 +175,7 @@ Section 1
 > - (a) a vacancy among its members, or
 > - (b) a defect in the appointment (or election) of a member.
 
-**2.**[^key-b4c54964c2d647aebad925863b123a1c] (1) Part 2 of Schedule 1 to that Act is amended as follows.
+**2.**[^c-b4c54964c2d647aebad925863b123a1c] (1) Part 2 of Schedule 1 to that Act is amended as follows.
 
 (2) Omit paragraphs 7 and 8.
 
@@ -191,7 +191,7 @@ Section 1
   > - (a) for a member of the additional committee or area council to act as its chair;
   > - (b) for a member acting as chair to have an additional casting vote.
 
-**3.**[^key-63144a0ca7dcebd2990ab45af0d91fdd] In section 18 of that Act (interpretation), insert at the appropriate places—
+**3.**[^c-63144a0ca7dcebd2990ab45af0d91fdd] In section 18 of that Act (interpretation), insert at the appropriate places—
 
 > “**registered person**” means a person who is registered in the register;
 
@@ -205,9 +205,9 @@ Section 1
 
 ### Part 2 — Constitution of Investigating Committee
 
-**4.**[^key-21f5c78008d4dfe58b1f4d8f15c5e791] In section 13(1) of the Farriers (Registration) Act 1975 (the Investigating Committee), omit “from among its members”.
+**4.**[^c-21f5c78008d4dfe58b1f4d8f15c5e791] In section 13(1) of the Farriers (Registration) Act 1975 (the Investigating Committee), omit “from among its members”.
 
-**5.**[^key-90f41a9b010e610e584e5423d6edb5ba] For Schedule 2 to that Act substitute—
+**5.**[^c-90f41a9b010e610e584e5423d6edb5ba] For Schedule 2 to that Act substitute—
 
 > **SCHEDULE 2 — Constitution of the Investigating Committee**
 >
@@ -259,12 +259,12 @@ Section 1
 
 ### Part 3 — Constitution of Disciplinary Committee
 
-**6.**[^key-27a6454c246864608fd42b95333b3190] In section 14 of the Farriers (Registration) Act 1975 (the Disciplinary Committee)—
+**6.**[^c-27a6454c246864608fd42b95333b3190] In section 14 of the Farriers (Registration) Act 1975 (the Disciplinary Committee)—
 
 - (a) in subsection (1), omit “from among its members”;
 - (b) in subsection (2), for “and procedure of” substitute “ of, and proceedings before, ”.
 
-**7.**[^key-50910f203c592b288fcc167c81c8efaa] For Part 1 of Schedule 3 to that Act substitute—
+**7.**[^c-50910f203c592b288fcc167c81c8efaa] For Part 1 of Schedule 3 to that Act substitute—
 
 > **Part 1 — Constitution of Disciplinary Committee**
 >
@@ -313,26 +313,26 @@ Section 1
 > - (a) a vacancy among its members, or
 > - (b) a defect in the appointment of a member.
 
-**8.**[^key-2c249bb3b19acb9eefe3f5a7983d92ac] In Part 2 of Schedule 3 to that Act, in the heading, for “Procedure of” substitute “ Proceedings before ”.
+**8.**[^c-2c249bb3b19acb9eefe3f5a7983d92ac] In Part 2 of Schedule 3 to that Act, in the heading, for “Procedure of” substitute “ Proceedings before ”.
 
 ## Annotations
 
-[^key-262cbfae6222d1e6a96a17730f7cb1dd]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/28/section/1) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-262cbfae6222d1e6a96a17730f7cb1dd]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/28/section/1) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-4dc15c5067506ff876bc4715790486a5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/28/section/2) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-4dc15c5067506ff876bc4715790486a5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/28/section/2) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-63599d9990f75cd83fc1e129ea97beec]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/1) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-63599d9990f75cd83fc1e129ea97beec]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/1) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-b4c54964c2d647aebad925863b123a1c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-b4c54964c2d647aebad925863b123a1c]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/2) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-63144a0ca7dcebd2990ab45af0d91fdd]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/3) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-63144a0ca7dcebd2990ab45af0d91fdd]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/3) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-21f5c78008d4dfe58b1f4d8f15c5e791]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/4) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-21f5c78008d4dfe58b1f4d8f15c5e791]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/4) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-90f41a9b010e610e584e5423d6edb5ba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/5) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-90f41a9b010e610e584e5423d6edb5ba]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/5) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-27a6454c246864608fd42b95333b3190]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-27a6454c246864608fd42b95333b3190]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/6) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-50910f203c592b288fcc167c81c8efaa]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/7) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-50910f203c592b288fcc167c81c8efaa]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/7) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
 
-[^key-2c249bb3b19acb9eefe3f5a7983d92ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/8) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)
+[^c-2c249bb3b19acb9eefe3f5a7983d92ac]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2017/28/schedule/paragraph/8) in force at 15.9.2017 by [S.I. 2017/921](https://www.legislation.gov.uk/uksi/2017/921), [reg. 2](https://www.legislation.gov.uk/uksi/2017/921/regulation/2)

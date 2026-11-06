@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59BA. Payment of income tax and capital gains tax: simple assessments[^key-bd9e542dbbe8e1ca85f06d9d94aa2086]
+## 59BA. Payment of income tax and capital gains tax: simple assessments[^c-bd9e542dbbe8e1ca85f06d9d94aa2086]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) Subject to subsection (3), the difference between—
 
 - (a) the amount of income tax and capital gains tax for that year contained in the simple assessment, and
-- (b) the aggregate of any payments on account made by the person in respect of that year (whether under section 59A of this Act or under Schedule 2 to the Finance Act 2019[^key-cf0caafbd09e371997e9085a6f989ed7] or otherwise) and any income tax which in respect of that year has been deducted at source,
+- (b) the aggregate of any payments on account made by the person in respect of that year (whether under section 59A of this Act or under Schedule 2 to the Finance Act 2019[^c-cf0caafbd09e371997e9085a6f989ed7] or otherwise) and any income tax which in respect of that year has been deducted at source,
 
 is payable by that person as mentioned in subsection (4) or (5).
 
@@ -41,6 +41,6 @@ is payable by that person as mentioned in subsection (4) or (5).
 
 ## Annotations
 
-[^key-bd9e542dbbe8e1ca85f06d9d94aa2086]: Textual amendment: S. 59BA inserted (with effect in accordance with s. 167(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/23/paragraph/8)
+[^c-bd9e542dbbe8e1ca85f06d9d94aa2086]: Textual amendment: S. 59BA inserted (with effect in accordance with s. 167(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 23 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/23/paragraph/8)
 
-[^key-cf0caafbd09e371997e9085a6f989ed7]: Textual amendment: Words in s. 59BA(2)(b) substituted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(13)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/13)
+[^c-cf0caafbd09e371997e9085a6f989ed7]: Textual amendment: Words in s. 59BA(2)(b) substituted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 25(13)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/25/13)

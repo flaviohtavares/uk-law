@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256A. Qualifying domestic top-up tax treated as not accruing where contested etc[^key-c93758ab6f13f161b45ab5aefcc7c0cc]
+## 256A. Qualifying domestic top-up tax treated as not accruing where contested etc[^c-c93758ab6f13f161b45ab5aefcc7c0cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c93758ab6f13f161b45ab5aefcc7c0cc]: Textual amendment: [S. 256A](https://www.legislation.gov.uk/ukpga/2023/30/section/256A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 35(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/35/1)
+[^c-c93758ab6f13f161b45ab5aefcc7c0cc]: Textual amendment: [S. 256A](https://www.legislation.gov.uk/ukpga/2023/30/section/256A) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 35(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/35/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Section 52: meaning of “relevant article”[^key-6e37f48b2698f36e90f995f27a4aab4a]
+## 53. Section 52: meaning of “relevant article”[^c-6e37f48b2698f36e90f995f27a4aab4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e37f48b2698f36e90f995f27a4aab4a]: Commencement: S. 53 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-6e37f48b2698f36e90f995f27a4aab4a]: Commencement: S. 53 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)

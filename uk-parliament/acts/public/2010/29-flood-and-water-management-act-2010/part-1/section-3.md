@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. “Risk management”[^key-9b71ce00b8b5194bae0adc2d9844ae12][^key-9b4367923b8cdb4690c0eb6dcac893e6][^key-522e21a73ecae077384a6171cd0ebc90]
+## 3. “Risk management”[^c-9b71ce00b8b5194bae0adc2d9844ae12][^c-9b4367923b8cdb4690c0eb6dcac893e6][^c-522e21a73ecae077384a6171cd0ebc90]
 
 *Extent: E+W*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9b71ce00b8b5194bae0adc2d9844ae12]: Commencement: S. 3 in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/2/c)
+[^c-9b71ce00b8b5194bae0adc2d9844ae12]: Commencement: S. 3 in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/2/c)
 
-[^key-9b4367923b8cdb4690c0eb6dcac893e6]: Commencement: S. 3 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-9b4367923b8cdb4690c0eb6dcac893e6]: Commencement: S. 3 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-522e21a73ecae077384a6171cd0ebc90]: Modification: Ss. 1-3 applied by 2005 c. 5, s. 86B(4) (as inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/1))
+[^c-522e21a73ecae077384a6171cd0ebc90]: Modification: Ss. 1-3 applied by 2005 c. 5, s. 86B(4) (as inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/1))

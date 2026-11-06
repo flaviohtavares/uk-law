@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32ZI. Appeals to the First-tier Tribunal against a notice of civil penalty[^key-5bec75ee798e93e3a458f97685a9c96e]
+## 32ZI. Appeals to the First-tier Tribunal against a notice of civil penalty[^c-5bec75ee798e93e3a458f97685a9c96e]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bec75ee798e93e3a458f97685a9c96e]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3206/regulation/22) (as amended by [S.I. 2014/1250](https://www.legislation.gov.uk/uksi/2014/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1250/regulation/4))
+[^c-5bec75ee798e93e3a458f97685a9c96e]: Textual amendment: Regs. 32ZA-32ZI inserted (10.6.2014) by [The Representation of the People (Scotland) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3206)](https://www.legislation.gov.uk/uksi/2013/3206), [regs. 1(5)(c)](https://www.legislation.gov.uk/uksi/2013/3206/regulation/1/5/c), [22](https://www.legislation.gov.uk/uksi/2013/3206/regulation/22) (as amended by [S.I. 2014/1250](https://www.legislation.gov.uk/uksi/2014/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1250/regulation/1), [4](https://www.legislation.gov.uk/uksi/2014/1250/regulation/4))

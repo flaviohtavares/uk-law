@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Supervision: former appropriate personal pension schemes.[^key-6e6bc21d8bb71d859a5ffc61329297a8]
+## 50. Supervision: former appropriate personal pension schemes.[^c-6e6bc21d8bb71d859a5ffc61329297a8]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e6bc21d8bb71d859a5ffc61329297a8]: Textual amendment: S. 50 omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(13)](https://www.legislation.gov.uk/nisr/2012/124/article/4/13)
+[^c-6e6bc21d8bb71d859a5ffc61329297a8]: Textual amendment: S. 50 omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(13)](https://www.legislation.gov.uk/nisr/2012/124/article/4/13)

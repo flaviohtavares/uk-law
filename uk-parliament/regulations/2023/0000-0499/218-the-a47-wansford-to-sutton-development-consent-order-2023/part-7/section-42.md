@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Operational land for purposes of the 1990 Act[^key-065c7c1971b34bf6ea9858ab4bf41b70]
+## 42. Operational land for purposes of the 1990 Act[^c-065c7c1971b34bf6ea9858ab4bf41b70]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)
+[^c-065c7c1971b34bf6ea9858ab4bf41b70]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2023/218) revoked (3.6.2026) by [The A47 Wansford to Sutton Development Consent (Revocation) Order 2026 (S.I. 2026/579)](https://www.legislation.gov.uk/uksi/2026/579), [arts. 1](https://www.legislation.gov.uk/uksi/2026/579/article/1), [2](https://www.legislation.gov.uk/uksi/2026/579/article/2)

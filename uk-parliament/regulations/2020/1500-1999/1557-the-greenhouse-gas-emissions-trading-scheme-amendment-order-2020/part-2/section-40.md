@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Schedule 8 amended (ultra-small emitters)[^key-ea31890b65b3c482a9e74cb17fdef481]
+## 40. Schedule 8 amended (ultra-small emitters)[^c-ea31890b65b3c482a9e74cb17fdef481]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea31890b65b3c482a9e74cb17fdef481]: Commencement: Art. 40 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-ea31890b65b3c482a9e74cb17fdef481]: Commencement: Art. 40 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

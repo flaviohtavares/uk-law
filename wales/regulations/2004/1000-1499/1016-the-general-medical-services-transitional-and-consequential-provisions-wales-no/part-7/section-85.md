@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Transitory interpretation of references to general medical services contracts[^key-1786ab1ded82c006e2114fc16404c28f]
+## 85. Transitory interpretation of references to general medical services contracts[^c-1786ab1ded82c006e2114fc16404c28f]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The enactments referred to in paragraph (1) are—
 
 - (a) the 1977 Act, sections 3(4)(b)[^f00055], 26(2)[^f00056] and (4)(aa)(b)[^f00056], 28D(1)(bc)(i)[^f00057], 45A(3), (4) and (11)[^f00058], 54(1)(c)[^f00059], 72(5)(d)[^f00060];
-- (b)[^key-3725ae1d67639addc8f189b0904a8535] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3725ae1d67639addc8f189b0904a8535] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Access to Health Records Act 1990[^f00063], section 1(2)(a);
 - (d) the Trade Union and Labour Relations (Consolidation) Act 1992[^f00064], section 279(2);
 - (e) the Health Service Commissioners Act 1993, section 2A(1)(a) and (2)(a)[^f00065];
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1786ab1ded82c006e2114fc16404c28f]: Commencement: Art. 85 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-1786ab1ded82c006e2114fc16404c28f]: Commencement: Art. 85 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00055]: Footnote: Section 3(4) was inserted into the Act by paragraph 8 of Schedule 11 to the Health and Social Care (Community Health and Standards) Act [2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43) (“the 2003 Act”).
 
@@ -48,7 +48,7 @@ summary: ''
 
 [^f00060]: Footnote: Paragraph (d) was inserted into section 72(5) of the Act by paragraph 27(2) of Schedule 11 to the 2003 Act.
 
-[^key-3725ae1d67639addc8f189b0904a8535]: Textual amendment: Art. 85(2)(b) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/4)
+[^c-3725ae1d67639addc8f189b0904a8535]: Textual amendment: Art. 85(2)(b) revoked (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/4)
 
 [^f00063]: Footnote: [1990 c. 23](https://www.legislation.gov.uk/ukpga/1990/23). Section 1(2)(a) was substituted by the 2003 Act, Schedule 11,paragraph 57(2).
 

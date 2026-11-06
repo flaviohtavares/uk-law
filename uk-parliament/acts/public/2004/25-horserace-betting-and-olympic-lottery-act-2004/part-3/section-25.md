@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Payments into Fund from National Lottery Distribution Fund[^key-178b6475e95a806d4b2f6d5e9402cdfb]
+## 25. Payments into Fund from National Lottery Distribution Fund[^c-178b6475e95a806d4b2f6d5e9402cdfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-178b6475e95a806d4b2f6d5e9402cdfb]: Commencement: S. 25 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)
+[^c-178b6475e95a806d4b2f6d5e9402cdfb]: Commencement: S. 25 in force at 8.7.2005 by [S.I. 2005/1831](https://www.legislation.gov.uk/uksi/2005/1831), [art. 2](https://www.legislation.gov.uk/uksi/2005/1831/article/2)

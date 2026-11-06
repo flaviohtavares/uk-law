@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Functions in relation to biological substances[^key-7249a7c4670852ed795c428bfcb9ee5a]
+## 57. Functions in relation to biological substances[^c-7249a7c4670852ed795c428bfcb9ee5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7249a7c4670852ed795c428bfcb9ee5a]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2012/7/section/57) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7249a7c4670852ed795c428bfcb9ee5a]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2012/7/section/57) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

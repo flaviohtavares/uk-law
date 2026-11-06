@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 95. Preliminary[^key-65c367ec7953e14a43a4ab795ad49988]
+## 95. Preliminary[^c-65c367ec7953e14a43a4ab795ad49988]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies to any application made to the court in postal administrati
 
 ## Annotations
 
-[^key-65c367ec7953e14a43a4ab795ad49988]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2013/3208/rule/95) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-65c367ec7953e14a43a4ab795ad49988]: Commencement: [Rule 95](https://www.legislation.gov.uk/uksi/2013/3208/rule/95) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

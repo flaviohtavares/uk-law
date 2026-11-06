@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Exercise of power to make deprivation order[^key-77a91ad6127832c4c9962d40a66db0f7]
+## 155. Exercise of power to make deprivation order[^c-77a91ad6127832c4c9962d40a66db0f7]
 
 *Extent: E+W*
 
@@ -30,10 +30,10 @@ summary: ''
 (3) For the effect of proceedings relating to confiscation orders on the court's powers under this section, see the following provisions of the Proceeds of Crime Act 2002—
 
 - (a) section 13(2) (where confiscation order is made);
-- (b) section 15A (where court sentences before confiscation proceedings)[^key-f7aafa08aa41233a9703ef93f099174d].
+- (b) section 15A (where court sentences before confiscation proceedings)[^c-f7aafa08aa41233a9703ef93f099174d].
 
 ## Annotations
 
-[^key-77a91ad6127832c4c9962d40a66db0f7]: Commencement: S. 155 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-77a91ad6127832c4c9962d40a66db0f7]: Commencement: S. 155 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-f7aafa08aa41233a9703ef93f099174d]: Textual amendment: Words in s. 155(3)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 51](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/51); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-f7aafa08aa41233a9703ef93f099174d]: Textual amendment: Words in s. 155(3)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 51](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/51); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

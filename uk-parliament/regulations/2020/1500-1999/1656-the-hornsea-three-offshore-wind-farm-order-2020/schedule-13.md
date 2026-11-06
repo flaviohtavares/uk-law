@@ -22,7 +22,7 @@ summary: ''
 
 Article 37
 
-### 1. Primary objective[^key-b0d258941a90e4b99b6d550cc7db8381]
+### 1. Primary objective[^c-b0d258941a90e4b99b6d550cc7db8381]
 
 (1) The primary objective of these Arbitration Rules is to achieve a fair, impartial, final and binding award on the substantive difference between the parties (save as to costs) within 4 months from the date the Arbitrator is appointed pursuant to article 37 (arbitration) of the Order.
 
@@ -30,7 +30,7 @@ Article 37
 
 (3) The Arbitration shall be deemed to have commenced when a party (“the Claimant”) serves a written notice of arbitration on the other party (“the Respondent”).
 
-### 2. Time periods[^key-7d708e71a8513f2ee61f53255dddd9d4]
+### 2. Time periods[^c-7d708e71a8513f2ee61f53255dddd9d4]
 
 (1) All time periods in these Arbitration Rules will be measured in business days and this will exclude weekends, bank and public holidays.
 
@@ -39,7 +39,7 @@ Article 37
 - (a) the date the Arbitrator notifies the parties in writing of his/her acceptance of an appointment by agreement of the parties; or
 - (b) the date the Arbitrator is appointed by the Secretary of State.
 
-### 3. Timetable[^key-31a897ffa3879e9c76d923599423566c]
+### 3. Timetable[^c-31a897ffa3879e9c76d923599423566c]
 
 (1) The timetable for the arbitration will be that set out in sub-paragraphs (2) to (4) below unless amended in accordance with paragraph 5(3).
 
@@ -62,7 +62,7 @@ Article 37
 - (d) any objections to the statements of evidence, expert reports or other documents submitted by the Respondent; and
 - (e) its written submissions in response to the legal and factual issues involved.
 
-### 4. Procedure[^key-ad7b6a5d91249b708e04a1eb9e9edc32]
+### 4. Procedure[^c-ad7b6a5d91249b708e04a1eb9e9edc32]
 
 (1) The Arbitrator shall make an award on the substantive difference based solely on the written material submitted by the parties unless the Arbitrator decides that a hearing is necessary to explain or resolve any matters.
 
@@ -80,7 +80,7 @@ Article 37
 - (b) if more than one expert is called, they will jointly confer and produce a joint report or reports within 10 days of the issues being provided; and
 - (c) the form and content of a joint report shall be as directed by the Arbitrator and must be provided at least 5 days before the hearing.
 
-(7) Within 10 days of a Hearing or a decision by the Arbitrator that no hearing is to be held the Parties may by way of exchange provide the Arbitrator with a final submission in connection with the matters in dispute and any submissions on costs. The Arbitrator shall take these submissions into account in the award[^key-50d4defd140170df543990dcd3ffdcd7].
+(7) Within 10 days of a Hearing or a decision by the Arbitrator that no hearing is to be held the Parties may by way of exchange provide the Arbitrator with a final submission in connection with the matters in dispute and any submissions on costs. The Arbitrator shall take these submissions into account in the award[^c-50d4defd140170df543990dcd3ffdcd7].
 
 (8) The Arbitrator may make other directions or rulings as considered appropriate in order to ensure that the parties comply with the timetable and procedures to achieve an award on the substantive difference within 4 months of the date on which they are appointed, unless both parties otherwise agree to an extension to the date for the award.
 
@@ -88,7 +88,7 @@ Article 37
 
 (10) The Arbitrator's award shall include reasons. The parties shall accept that the extent to which reasons are given shall be proportionate to the issues in dispute and the time available to the Arbitrator to deliver the award.
 
-### 5. Arbitrator's powers[^key-f84e31915611831a5bddf40f8d4b87fe]
+### 5. Arbitrator's powers[^c-f84e31915611831a5bddf40f8d4b87fe]
 
 (1) The Arbitrator has all the powers of the Arbitration Act 1996 [^c24413071], including the non-mandatory sections, save where modified by these Rules.
 
@@ -101,7 +101,7 @@ Article 37
 
 (4) On the date the award is made, the Arbitrator will notify the parties that the award is completed, signed and dated, and that it will be issued to the parties on receipt of cleared funds for the Arbitrator's fees and expenses.
 
-### 6. Costs[^key-8e39df62424c7289321bdfda311a1109]
+### 6. Costs[^c-8e39df62424c7289321bdfda311a1109]
 
 (1) The costs of the Arbitration shall include the fees and expenses of the Arbitrator, the reasonable fees and expenses of any experts and the reasonable legal and other costs incurred by the parties for the Arbitration.
 
@@ -109,7 +109,7 @@ Article 37
 
 (3) The Arbitrator may depart from the general principle in sub-paragraph (2) and make such other costs award as it considers reasonable where a party has behaved unreasonably as defined within the National Planning Practice Guidance or such other guidance as may replace it.
 
-### 7. Confidentiality[^key-2af4eac0deb4ad2d508174160ab4ba3f]
+### 7. Confidentiality[^c-2af4eac0deb4ad2d508174160ab4ba3f]
 
 (1) Subject to sub-paragraphs (2) and (3), any arbitration hearing and documentation shall be open to and accessible by the public.
 
@@ -119,20 +119,20 @@ Article 37
 
 ## Annotations
 
-[^key-b0d258941a90e4b99b6d550cc7db8381]: Commencement: Sch. 13 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-b0d258941a90e4b99b6d550cc7db8381]: Commencement: Sch. 13 para. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-7d708e71a8513f2ee61f53255dddd9d4]: Commencement: Sch. 13 para. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-7d708e71a8513f2ee61f53255dddd9d4]: Commencement: Sch. 13 para. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-31a897ffa3879e9c76d923599423566c]: Commencement: Sch. 13 para. 3 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-31a897ffa3879e9c76d923599423566c]: Commencement: Sch. 13 para. 3 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-ad7b6a5d91249b708e04a1eb9e9edc32]: Commencement: Sch. 13 para. 4 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-ad7b6a5d91249b708e04a1eb9e9edc32]: Commencement: Sch. 13 para. 4 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-50d4defd140170df543990dcd3ffdcd7]: Textual amendment: Word in [Sch. 13 para. 4(7)](https://www.legislation.gov.uk/uksi/2020/1656/schedule/13/paragraph/4/7) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
+[^c-50d4defd140170df543990dcd3ffdcd7]: Textual amendment: Word in [Sch. 13 para. 4(7)](https://www.legislation.gov.uk/uksi/2020/1656/schedule/13/paragraph/4/7) substituted (21.5.2021) by [The Hornsea Three Offshore Wind Farm (Correction) Order 2021 (S.I. 2021/599)](https://www.legislation.gov.uk/uksi/2021/599), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/599/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/599/schedule)
 
-[^key-f84e31915611831a5bddf40f8d4b87fe]: Commencement: Sch. 13 para. 5 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-f84e31915611831a5bddf40f8d4b87fe]: Commencement: Sch. 13 para. 5 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24413071]: Marginal citation: [1996 c.23](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-8e39df62424c7289321bdfda311a1109]: Commencement: Sch. 13 para. 6 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-8e39df62424c7289321bdfda311a1109]: Commencement: Sch. 13 para. 6 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-2af4eac0deb4ad2d508174160ab4ba3f]: Commencement: Sch. 13 para. 7 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-2af4eac0deb4ad2d508174160ab4ba3f]: Commencement: Sch. 13 para. 7 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

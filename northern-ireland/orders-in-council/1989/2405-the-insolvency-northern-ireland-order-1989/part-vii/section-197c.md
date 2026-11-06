@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 197C. Powers to amend Article 197B and Schedule 2ZZA[^key-4a97fa9502a6a8892cca4130f99b56a1][^key-a2bf2f68007bbdce65c2dcc9f41f17cf]
+## 197C. Powers to amend Article 197B and Schedule 2ZZA[^c-4a97fa9502a6a8892cca4130f99b56a1][^c-a2bf2f68007bbdce65c2dcc9f41f17cf]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a97fa9502a6a8892cca4130f99b56a1]: Textual amendment: [Arts. 197B](https://www.legislation.gov.uk/nisi/1989/2405/article/197B), 197C inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4))
+[^c-4a97fa9502a6a8892cca4130f99b56a1]: Textual amendment: [Arts. 197B](https://www.legislation.gov.uk/nisi/1989/2405/article/197B), 197C inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [18(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/18/4))
 
-[^key-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Consideration by the Fitness to Practise Committee[^key-198950e37950048f3aa25719675683f9][^key-b12929261924d6efbc38456a2e4f54c7]
+## 54. Consideration by the Fitness to Practise Committee[^c-198950e37950048f3aa25719675683f9][^c-b12929261924d6efbc38456a2e4f54c7]
 
 *Extent: E+W+S*
 
@@ -82,6 +82,6 @@ but may otherwise deal with the matter as a single case.
 
 ## Annotations
 
-[^key-198950e37950048f3aa25719675683f9]: Commencement: Art. 54 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-198950e37950048f3aa25719675683f9]: Commencement: Art. 54 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-b12929261924d6efbc38456a2e4f54c7]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2010/231/article/54) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-b12929261924d6efbc38456a2e4f54c7]: Commencement: [Art. 54](https://www.legislation.gov.uk/uksi/2010/231/article/54) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

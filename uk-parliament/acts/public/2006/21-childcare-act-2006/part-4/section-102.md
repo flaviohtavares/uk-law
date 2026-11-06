@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Disqualification for registration under Children Act 1989[^key-82bb98ab801fabd9bf9380faad1e04fd][^key-4b6dcbbc89919ed556e9abc582c08339]
+## 102. Disqualification for registration under Children Act 1989[^c-82bb98ab801fabd9bf9380faad1e04fd][^c-4b6dcbbc89919ed556e9abc582c08339]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82bb98ab801fabd9bf9380faad1e04fd]: Commencement: S. 102 in force at 20.12.2006 for E. by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/f)
+[^c-82bb98ab801fabd9bf9380faad1e04fd]: Commencement: S. 102 in force at 20.12.2006 for E. by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(f)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/f)
 
-[^key-4b6dcbbc89919ed556e9abc582c08339]: Commencement: S. 102 in force at 31.1.2008 for W. by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(d)](https://www.legislation.gov.uk/wsi/2008/17/article/2/d)
+[^c-4b6dcbbc89919ed556e9abc582c08339]: Commencement: S. 102 in force at 31.1.2008 for W. by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17), [art. 2(d)](https://www.legislation.gov.uk/wsi/2008/17/article/2/d)

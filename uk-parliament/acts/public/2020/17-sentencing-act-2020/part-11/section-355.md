@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 355. Parenting order where sexual harm prevention order made in case of offender aged under 18[^key-f8e66ee6638ac7e9548e85605e1bba3f]
+## 355. Parenting order where sexual harm prevention order made in case of offender aged under 18[^c-f8e66ee6638ac7e9548e85605e1bba3f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ See section 8(1)(b) of the Crime and Disorder Act 1998 for powers of a court to 
 
 ## Annotations
 
-[^key-f8e66ee6638ac7e9548e85605e1bba3f]: Commencement: [S. 355](https://www.legislation.gov.uk/ukpga/2020/17/section/355) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f8e66ee6638ac7e9548e85605e1bba3f]: Commencement: [S. 355](https://www.legislation.gov.uk/ukpga/2020/17/section/355) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

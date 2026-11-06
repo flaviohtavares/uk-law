@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Disqualification from practice, etc.[^key-087f759f9cd3e2ead38158c346a68827]
+## 15. Disqualification from practice, etc.[^c-087f759f9cd3e2ead38158c346a68827]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-087f759f9cd3e2ead38158c346a68827]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/18/section/15) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-087f759f9cd3e2ead38158c346a68827]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/18/section/15) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

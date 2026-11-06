@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Withdrawal of application[^key-357b20dd5bd7bbd98ecd3dcc226f2a6d]
+## 33. Withdrawal of application[^c-357b20dd5bd7bbd98ecd3dcc226f2a6d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-357b20dd5bd7bbd98ecd3dcc226f2a6d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2021/15/section/33) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-357b20dd5bd7bbd98ecd3dcc226f2a6d]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2021/15/section/33) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

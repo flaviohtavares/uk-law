@@ -26,7 +26,7 @@ In the application of this Part to Scotland—
 - “**accounts**” means count, reckoning and payment;
 - “**assignment**” means assignation;
 - “**costs**” means expenses;
-- “[^key-647502c2e0efa07484e3361398d907ad]**declaration**” means “declarator”;
+- “[^c-647502c2e0efa07484e3361398d907ad]**declaration**” means “declarator”;
 - “**defendant**” means defender;
 - “**delivery up**” means delivery;
 - “**injunction**” means interdict;
@@ -35,4 +35,4 @@ In the application of this Part to Scotland—
 
 ## Annotations
 
-[^key-647502c2e0efa07484e3361398d907ad]: Textual amendment: Words in s. 262 inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-647502c2e0efa07484e3361398d907ad]: Textual amendment: Words in s. 262 inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(4)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/4), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))

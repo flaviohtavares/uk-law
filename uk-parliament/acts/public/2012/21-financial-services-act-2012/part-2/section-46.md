@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Members of the professions[^key-3dcd38b41f6757140fdbb8ca2af25e70]
+## 46. Members of the professions[^c-3dcd38b41f6757140fdbb8ca2af25e70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 16 contains miscellaneous amendments of FSMA 2000 relating to financial
 
 ## Annotations
 
-[^key-3dcd38b41f6757140fdbb8ca2af25e70]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2012/21/section/46) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3dcd38b41f6757140fdbb8ca2af25e70]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2012/21/section/46) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

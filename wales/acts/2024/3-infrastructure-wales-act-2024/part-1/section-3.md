@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Liquified natural gas facilities[^key-ed99ee410f00ebb0d784ac181fe57217]
+## 3. Liquified natural gas facilities[^c-ed99ee410f00ebb0d784ac181fe57217]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed99ee410f00ebb0d784ac181fe57217]: Commencement: S. 3 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-ed99ee410f00ebb0d784ac181fe57217]: Commencement: S. 3 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

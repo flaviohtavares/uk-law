@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Power to administer preliminary tests[^key-6aece8b57d0439e5eb10006721787654][^c19115541][^c19117411]
+## 6. Power to administer preliminary tests[^c-6aece8b57d0439e5eb10006721787654][^c19115541][^c19117411]
 
 *Extent: E+W+N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6aece8b57d0439e5eb10006721787654]: Modification: Ss. 4-11 applied (with modifications) (5.8.2011) by [The Road Traffic (Drink and Drugs) (Cambridgeshire Guided Busway) Regulations 2011 (S.I. 2011/1652)](https://www.legislation.gov.uk/uksi/2011/1652), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1652/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1652/regulation/3)
+[^c-6aece8b57d0439e5eb10006721787654]: Modification: Ss. 4-11 applied (with modifications) (5.8.2011) by [The Road Traffic (Drink and Drugs) (Cambridgeshire Guided Busway) Regulations 2011 (S.I. 2011/1652)](https://www.legislation.gov.uk/uksi/2011/1652), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1652/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1652/regulation/3)
 
 [^c19115541]: Modification: S. 6 applied (with modifications) (29.3.2004 for certain purposes and 30.3.2004 otherwise) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 83(1)(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/83/1/3), [96(1)(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/96/1/3), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120) (with [ss. 90](https://www.legislation.gov.uk/ukpga/2003/20/section/90), [100](https://www.legislation.gov.uk/ukpga/2003/20/section/100)); [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [arts. 2](https://www.legislation.gov.uk/uksi/2004/827/article/2), [3](https://www.legislation.gov.uk/uksi/2004/827/article/3)
 

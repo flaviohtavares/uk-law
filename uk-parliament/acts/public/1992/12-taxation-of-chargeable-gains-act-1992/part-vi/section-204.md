@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Policies of insurance and non-deferred annuities[^key-b413227873daeb9f12c8ef42c76c09f1]
+## 204. Policies of insurance and non-deferred annuities[^c-b413227873daeb9f12c8ef42c76c09f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,15 +69,15 @@ and it does not matter whether the annuity includes instalments of capital.
 
 (10) In this section a “**non-life policy of insurance**” means—
 
-- (a) a contract made in the course of a capital redemption business, within the meaning of[^key-71d9f9fae6e02288a94aae505a0b5f1a] section 56(3) of the Finance Act 2012[^key-021965d036d7fc3effe029bd8d8da497], and
-- (b) any [^key-96a4f3a3e440b0f5942996bcf2db534d]... policy of insurance which is not a policy of insurance on the life of any person.
+- (a) a contract made in the course of a capital redemption business, within the meaning of[^c-71d9f9fae6e02288a94aae505a0b5f1a] section 56(3) of the Finance Act 2012[^c-021965d036d7fc3effe029bd8d8da497], and
+- (b) any [^c-96a4f3a3e440b0f5942996bcf2db534d]... policy of insurance which is not a policy of insurance on the life of any person.
 
 ## Annotations
 
-[^key-b413227873daeb9f12c8ef42c76c09f1]: Textual amendment: S. 204 substituted (with effect in accordance with s. 73(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/73/2)
+[^c-b413227873daeb9f12c8ef42c76c09f1]: Textual amendment: S. 204 substituted (with effect in accordance with s. 73(4) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 73(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/73/2)
 
-[^key-71d9f9fae6e02288a94aae505a0b5f1a]: Textual amendment: Words in s. 204(10) substituted (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 7 para. 61(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/paragraph/61/a) (with [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/part/2))
+[^c-71d9f9fae6e02288a94aae505a0b5f1a]: Textual amendment: Words in s. 204(10) substituted (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 7 para. 61(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/paragraph/61/a) (with [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/part/2))
 
-[^key-021965d036d7fc3effe029bd8d8da497]: Textual amendment: Words in s. 204(10)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 79](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/79)
+[^c-021965d036d7fc3effe029bd8d8da497]: Textual amendment: Words in s. 204(10)(a) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 79](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/79)
 
-[^key-96a4f3a3e440b0f5942996bcf2db534d]: Textual amendment: Word in s. 204(10) repealed (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 7 para. 61(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/paragraph/61/b), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7) (with [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/part/2))
+[^c-96a4f3a3e440b0f5942996bcf2db534d]: Textual amendment: Word in s. 204(10) repealed (with effect in accordance with s. 38(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 7 para. 61(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/paragraph/61/b), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7) (with [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/11/schedule/7/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-7fff40a03e8fb75e75ac3f8df6d40f1a]
+## 2. Interpretation[^c-7fff40a03e8fb75e75ac3f8df6d40f1a]
 
 *Extent: N.I.*
 
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7fff40a03e8fb75e75ac3f8df6d40f1a]: Commencement: Reg. 2 in operation at 3.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)
+[^c-7fff40a03e8fb75e75ac3f8df6d40f1a]: Commencement: Reg. 2 in operation at 3.4.2005, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2005/150/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 1976/1042 (N.I. 15)](https://www.legislation.gov.uk/nisi/1976/1042)
 

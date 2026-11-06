@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendment of regulation 123[^key-5e23b4f93f65c63599b9ce15ffb9b3a1]
+## 61. Amendment of regulation 123[^c-5e23b4f93f65c63599b9ce15ffb9b3a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e23b4f93f65c63599b9ce15ffb9b3a1]: Commencement: Reg. 61 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-5e23b4f93f65c63599b9ce15ffb9b3a1]: Commencement: Reg. 61 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

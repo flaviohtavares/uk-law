@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Children’s access assessments[^key-ca54202065513e5b66958d7965671cc4][^key-020b2c508e144d43a7c7ca4d8314c187]
+## 35. Children’s access assessments[^c-ca54202065513e5b66958d7965671cc4][^c-020b2c508e144d43a7c7ca4d8314c187]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca54202065513e5b66958d7965671cc4]: Commencement: S. 35 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-ca54202065513e5b66958d7965671cc4]: Commencement: S. 35 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-020b2c508e144d43a7c7ca4d8314c187]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/50/section/35) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/k)
+[^c-020b2c508e144d43a7c7ca4d8314c187]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/50/section/35) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Joint provision of burial ground[^key-679d930ceb96b499471010153b0eaa98]
+## 5. Joint provision of burial ground[^c-679d930ceb96b499471010153b0eaa98]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-679d930ceb96b499471010153b0eaa98]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/20/section/5) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-679d930ceb96b499471010153b0eaa98]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2016/20/section/5) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))

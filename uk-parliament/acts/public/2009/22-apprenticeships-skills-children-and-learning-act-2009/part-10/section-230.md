@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Consideration of other matters by SSSNB[^key-8a341a147a77e1f74925886eee25a094]
+## 230. Consideration of other matters by SSSNB[^c-8a341a147a77e1f74925886eee25a094]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a341a147a77e1f74925886eee25a094]: Textual amendment: Ss. 227-241 repealed (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/18/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-8a341a147a77e1f74925886eee25a094]: Textual amendment: Ss. 227-241 repealed (1.2.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2011/21/section/18/1), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

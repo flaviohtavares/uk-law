@@ -24,8 +24,8 @@ summary: ''
 
 (2) In this regulation—
 
-- “carbon capture and storage technology” has the meaning given in section 7(3) of the Energy Act 2010;[^key-da1f99bdfac317c20828adfed40f5006]
-- “relevant grant” means a grant—[^key-cb00c7e426613f27cd5e9d08c437f88a]
+- “carbon capture and storage technology” has the meaning given in section 7(3) of the Energy Act 2010;[^c-da1f99bdfac317c20828adfed40f5006]
+- “relevant grant” means a grant—[^c-cb00c7e426613f27cd5e9d08c437f88a]
   - (a) under a relevant scheme;
   - (b) the first payment of which is made, or to be made, within the period of 10 years immediately before the commencement of the delivery period; and
   - (c) which is made for purposes other than—
@@ -40,9 +40,9 @@ summary: ''
 
 ## Annotations
 
-[^key-da1f99bdfac317c20828adfed40f5006]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/17/2) inserted (4.12.2015) by [The Electricity Capacity (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1974)](https://www.legislation.gov.uk/uksi/2015/1974), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/3/a)
+[^c-da1f99bdfac317c20828adfed40f5006]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/17/2) inserted (4.12.2015) by [The Electricity Capacity (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1974)](https://www.legislation.gov.uk/uksi/2015/1974), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/3/a)
 
-[^key-cb00c7e426613f27cd5e9d08c437f88a]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/17/2) substituted (4.12.2015) by [The Electricity Capacity (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1974)](https://www.legislation.gov.uk/uksi/2015/1974), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/3/b)
+[^c-cb00c7e426613f27cd5e9d08c437f88a]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/17/2) substituted (4.12.2015) by [The Electricity Capacity (Amendment) (No. 2) Regulations 2015 (S.I. 2015/1974)](https://www.legislation.gov.uk/uksi/2015/1974), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2015/1974/regulation/3/b)
 
 [^c22186181]: Marginal citation: [2010 c.27](https://www.legislation.gov.uk/ukpga/2010/27).
 

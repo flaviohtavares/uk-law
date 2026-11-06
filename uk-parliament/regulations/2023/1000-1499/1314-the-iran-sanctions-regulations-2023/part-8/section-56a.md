@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Trade: exceptions in relation to personal effects etc.[^key-33e67a6e934642d4421612c4757a6069]
+## 56A. Trade: exceptions in relation to personal effects etc.[^c-33e67a6e934642d4421612c4757a6069]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33e67a6e934642d4421612c4757a6069]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56A) inserted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/944/regulation/5)
+[^c-33e67a6e934642d4421612c4757a6069]: Textual amendment: [Reg. 56A](https://www.legislation.gov.uk/uksi/2023/1314/regulation/56A) inserted (13.9.2024) by [The Iran (Sanctions) (Amendment) Regulations 2024 (S.I. 2024/944)](https://www.legislation.gov.uk/uksi/2024/944), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/944/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/944/regulation/5)

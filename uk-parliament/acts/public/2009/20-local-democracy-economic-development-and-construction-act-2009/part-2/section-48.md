@@ -26,7 +26,7 @@ summary: ''
 
 - (a) in the case of a company, at a general meeting of the company (to be called by the directors under section 302 of the Companies Act 2006 (c. 46));
 - (b) in the case of a limited liability partnership, at a meeting of the members of the partnership;
-- (c) in the case of a registered society[^key-0cf5b5269b4081c6addeb81e0bfe7fca] , at a meeting of the society in accordance with the rules of the society.
+- (c) in the case of a registered society[^c-0cf5b5269b4081c6addeb81e0bfe7fca] , at a meeting of the society in accordance with the rules of the society.
 
 (2) The meeting must be held before the end of the period of one month starting with the day on which the report is sent to it.
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf5b5269b4081c6addeb81e0bfe7fca]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [Sch. 4 para. 149](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/149) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-0cf5b5269b4081c6addeb81e0bfe7fca]: Textual amendment: Words in Act substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [Sch. 4 para. 149](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/149) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

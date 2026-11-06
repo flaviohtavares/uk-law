@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A17. Interpretation[^key-86bf88b35894eebb76eb7f1dfbf9dbd5]
+## A17. Interpretation[^c-86bf88b35894eebb76eb7f1dfbf9dbd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Part “manufacture”, in relation to an active substance, includes any
 
 ## Annotations
 
-[^key-86bf88b35894eebb76eb7f1dfbf9dbd5]: Textual amendment: Pt. 3 heading and Pt. 3 Ch. 1 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1855/regulation/4)
+[^c-86bf88b35894eebb76eb7f1dfbf9dbd5]: Textual amendment: Pt. 3 heading and Pt. 3 Ch. 1 inserted (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/1855/regulation/4)

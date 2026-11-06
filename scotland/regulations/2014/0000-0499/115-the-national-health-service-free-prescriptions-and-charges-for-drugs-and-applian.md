@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2014 (revoked)[^key-437aa642b2257e2e21e48731b4b01e81]
+The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2014 (revoked)[^c-437aa642b2257e2e21e48731b4b01e81]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th May 2014
 
-[^key-437aa642b2257e2e21e48731b4b01e81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-437aa642b2257e2e21e48731b4b01e81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-437aa642b2257e2e21e48731b4b01e81]
+## 1. Citation and commencement[^c-437aa642b2257e2e21e48731b4b01e81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^key-437aa642b2257e2e21e48731b4b01e81]
+## 2. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Regulations 2011[^c-437aa642b2257e2e21e48731b4b01e81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-437aa642b2257e2e21e48731b4b01e81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-437aa642b2257e2e21e48731b4b01e81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-437aa642b2257e2e21e48731b4b01e81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-437aa642b2257e2e21e48731b4b01e81]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-437aa642b2257e2e21e48731b4b01e81]: Textual amendment: Regulations revoked (17.5.2015) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2015/160/regulation/3/c)
+[^c-437aa642b2257e2e21e48731b4b01e81]: Textual amendment: Regulations revoked (17.5.2015) by [The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Scotland) Amendment Regulations 2015 (S.S.I. 2015/160)](https://www.legislation.gov.uk/ssi/2015/160), [regs. 1](https://www.legislation.gov.uk/ssi/2015/160/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2015/160/regulation/3/c)

@@ -31,10 +31,10 @@ summary: ''
 
 must be assigned, for the period of the detention, a supervision level which, in the opinion of the Governor, is the nearest equivalent to the prisoner's classification in the prison or place in the part of the United Kingdom, the Channel Islands or the Isle of Man in which the prisoner was detained immediately before the transfer took place.
 
-(3)[^key-336402c971b412e0b2f4b57fb3f5d3e3] Untried prisoners must be assigned high supervision level at all times.
+(3)[^c-336402c971b412e0b2f4b57fb3f5d3e3] Untried prisoners must be assigned high supervision level at all times.
 
 ## Annotations
 
 [^c21071701]: Marginal citation: [1997 c.43](https://www.legislation.gov.uk/ukpga/1997/43).
 
-[^key-336402c971b412e0b2f4b57fb3f5d3e3]: Textual amendment: Rule 18(3) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/26/article/2/5)
+[^c-336402c971b412e0b2f4b57fb3f5d3e3]: Textual amendment: Rule 18(3) inserted (19.3.2012) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2012 (S.S.I. 2012/26)](https://www.legislation.gov.uk/ssi/2012/26), [rules 1](https://www.legislation.gov.uk/ssi/2012/26/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/26/article/2/5)

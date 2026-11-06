@@ -34,7 +34,7 @@ Article 3
   - (c) inclement weather that disrupts the normal operation of the highway network; or
   - (d) activities reasonably required for emergency purposes to include a health and safety incident and emergency flood protection works;
 - “HGV” means any vehicle exceeding a maximum gross weight of 7.5 tonnes gross required for the construction of the authorised development but excluding any vehicles transporting abnormal indivisible loads;
-- [^key-7a3e0c31e77bce9da2fe937874ecc8e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-7a3e0c31e77bce9da2fe937874ecc8e3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “LGV” means a car, van, 4 x 4 pick up, 4 x 4 transit van or welfare van as set out in Table 2.1 of the Construction Traffic Management Plan;
 - “Lighting Scheme” means the scheme prepared in accordance with Requirement 8 (control of artificial light emissions) and in accordance with section 2.6 of the CEMP;
 - “Pollution Incident Control Plan” means the plan detailing remedial measures in the event of an incident and in accordance with section 1.13 of the CEMP;
@@ -85,7 +85,7 @@ The authorised development must be commenced within 8 years of the date of this 
 
 ### 6. Approval and implementation of construction mitigation plans
 
-(1) No stage of the authorised development may commence until, for that stage, the following plans, scheme, method statements and strategy, to minimise the impacts of construction works, have been submitted[^key-4be897a1af3785a273c45df0c551bea7] to and approved by the relevant planning authority—
+(1) No stage of the authorised development may commence until, for that stage, the following plans, scheme, method statements and strategy, to minimise the impacts of construction works, have been submitted[^c-4be897a1af3785a273c45df0c551bea7] to and approved by the relevant planning authority—
 
 - (a) Soil Management Plan;
 - (b) Drainage Management Plan;
@@ -231,9 +231,9 @@ National Grid must install large spiral bird diverters on the earth wire between
 
 ### 14. Bat mitigation measures
 
-(1) Bat mitigation measures, including measures for the creation of temporary and permanent bat flyways and temporary[^key-2764e37ec5d87940b60c570644024639] foraging areas in the event that hedgerows or grasslands are removed in connection with any stage of the authorised development, must be provided in accordance with the details identified in the Biodiversity Mitigation Strategy, unless otherwise agreed with Natural England after consultation with the relevant planning authority.
+(1) Bat mitigation measures, including measures for the creation of temporary and permanent bat flyways and temporary[^c-2764e37ec5d87940b60c570644024639] foraging areas in the event that hedgerows or grasslands are removed in connection with any stage of the authorised development, must be provided in accordance with the details identified in the Biodiversity Mitigation Strategy, unless otherwise agreed with Natural England after consultation with the relevant planning authority.
 
-(2) The measures referred to in sub-paragraph (1) must be maintained and managed for eight years in relation to the bat flyways[^key-77a8a52dba5b54c18cf51fceab692c9b].
+(2) The measures referred to in sub-paragraph (1) must be maintained and managed for eight years in relation to the bat flyways[^c-77a8a52dba5b54c18cf51fceab692c9b].
 
 ### 15. Reinstatement schemes
 
@@ -259,7 +259,7 @@ National Grid must install large spiral bird diverters on the earth wire between
 
 ### 17. Surface water drainage
 
-(1) No stage of the authorised development may commence until, for that stage, the Drainage Management Plan) containing written details of the surface and foul water drainage system (including means of pollution control) for both permanent and temporary works have been submitted to and approved by the relevant planning authority after consultation with any of the sewerage undertaker, the relevant drainage authority and the Environment Agency, as appropriate[^key-bafd0567edc4ed03b97100436d040d6f].
+(1) No stage of the authorised development may commence until, for that stage, the Drainage Management Plan) containing written details of the surface and foul water drainage system (including means of pollution control) for both permanent and temporary works have been submitted to and approved by the relevant planning authority after consultation with any of the sewerage undertaker, the relevant drainage authority and the Environment Agency, as appropriate[^c-bafd0567edc4ed03b97100436d040d6f].
 
 (2) Any temporary surface or foul water drainage system must be constructed in accordance with the approved details and remain during the construction of the relevant stage of the authorised development.
 
@@ -488,7 +488,7 @@ No construction activities may be carried out at St Anthony’s Park travellers�
 
 ### 44. Bat Special Areas of Conservation
 
-No works may commence until agreement has been secured under section 106 of the 1990 Act between National Grid and the relevant planning authority[^key-da215cb2b4214aa3f6f552ea70a45233] to cover payment for a monitoring service to cover—
+No works may commence until agreement has been secured under section 106 of the 1990 Act between National Grid and the relevant planning authority[^c-da215cb2b4214aa3f6f552ea70a45233] to cover payment for a monitoring service to cover—
 
 - (a) installation, use of and maintenance of temporary bat flyways;
 - (b) phasing of hedgerow removal and reinstatement works within the cable installation area through any Area of Outstanding Natural Beauty;
@@ -508,9 +508,9 @@ No works may commence until agreement has been secured under section 106 of the 
   - (i) between pylon VQ3A and VQ3B, and
   - (ii) between pylon ZZ4 and ZZ5,
 
-may commence until consent given by the relevant street authority[^key-515bb42e42801a6579ac3ffacb4322e1] in respect of the diversion of footpaths WL23/71 and WL23/61.
+may commence until consent given by the relevant street authority[^c-515bb42e42801a6579ac3ffacb4322e1] in respect of the diversion of footpaths WL23/71 and WL23/61.
 
-(2) The consent of the relevant street authority[^key-f535b7fe91ba9a77d1f2e75c534611d7] referred to in paragraph (1) must not be unreasonably withheld.
+(2) The consent of the relevant street authority[^c-f535b7fe91ba9a77d1f2e75c534611d7] referred to in paragraph (1) must not be unreasonably withheld.
 
 ### 46. Avonmouth Sewage Treatment Works
 
@@ -520,20 +520,20 @@ may commence until consent given by the relevant street authority[^key-515bb42e4
 
 ## Annotations
 
-[^key-7a3e0c31e77bce9da2fe937874ecc8e3]: Textual amendment: Words in Sch. 3 para. 1(1) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-7a3e0c31e77bce9da2fe937874ecc8e3]: Textual amendment: Words in Sch. 3 para. 1(1) omitted (21.7.2017) by virtue of [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-4be897a1af3785a273c45df0c551bea7]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/6/1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-4be897a1af3785a273c45df0c551bea7]: Textual amendment: Words in [Sch. 3 para. 6(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/6/1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-2764e37ec5d87940b60c570644024639]: Textual amendment: Word in [Sch. 3 para. 14(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/14/1) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-2764e37ec5d87940b60c570644024639]: Textual amendment: Word in [Sch. 3 para. 14(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/14/1) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-77a8a52dba5b54c18cf51fceab692c9b]: Textual amendment: Words in [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/14/2) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-77a8a52dba5b54c18cf51fceab692c9b]: Textual amendment: Words in [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/14/2) inserted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-bafd0567edc4ed03b97100436d040d6f]: Textual amendment: Words in [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/17/1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-bafd0567edc4ed03b97100436d040d6f]: Textual amendment: Words in [Sch. 3 para. 17(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/17/1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
 [^f00026]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-da215cb2b4214aa3f6f552ea70a45233]: Textual amendment: Words in [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/44) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-da215cb2b4214aa3f6f552ea70a45233]: Textual amendment: Words in [Sch. 3 para. 44](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/44) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-515bb42e42801a6579ac3ffacb4322e1]: Textual amendment: Words in [Sch. 3 para. 45(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/45/1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-515bb42e42801a6579ac3ffacb4322e1]: Textual amendment: Words in [Sch. 3 para. 45(1)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/45/1) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
 
-[^key-f535b7fe91ba9a77d1f2e75c534611d7]: Textual amendment: Words in [Sch. 3 para. 45(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/45/2) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)
+[^c-f535b7fe91ba9a77d1f2e75c534611d7]: Textual amendment: Words in [Sch. 3 para. 45(2)](https://www.legislation.gov.uk/uksi/2016/49/schedule/3/paragraph/45/2) substituted (21.7.2017) by [The National Grid (Hinkley Point C Connection Project) (Correction) Order 2017 (S.I. 2017/786)](https://www.legislation.gov.uk/uksi/2017/786), [art. 1](https://www.legislation.gov.uk/uksi/2017/786/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/786/schedule)

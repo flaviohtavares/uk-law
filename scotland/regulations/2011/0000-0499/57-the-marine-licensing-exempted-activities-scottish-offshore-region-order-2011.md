@@ -64,26 +64,26 @@ This Order applies in relation to any activity for which the Scottish Ministers 
 
 ### 3. Interpretation
 
-(1)[^key-ee9483db3d3ee46bdd6cd64e713373a3] In this Order, except where the context otherwise requires—
+(1)[^c-ee9483db3d3ee46bdd6cd64e713373a3] In this Order, except where the context otherwise requires—
 
 - “**the Act**” means the Marine and Coastal Access Act 2009;
 - “**activity**” means licensable marine activity [^c20693641];
 - “**disposal**” has the meaning given by Article 3 of the Waste Framework Directive;
 - “**a European site**” means—
   - (a) a European site within the meaning of regulation 10(1) of the Conservation (Natural Habitats &c.) Regulations 1994 [^c20693651];
-  - (b) a European offshore marine site within the meaning of regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-b7c886410a75524194815eacc4a8e1d4];
+  - (b) a European offshore marine site within the meaning of regulation 18 of the Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-b7c886410a75524194815eacc4a8e1d4];
 - “**exempt activity**” has the meaning given by article 4;
 - “**fish**” includes shellfish and any part of a fish;
 - “**fishing operation**” includes fishing for or taking shellfish but does not include an activity relating to the propagation or cultivation of shellfish;
 - “**item 10**” means item 10 in section 66(1) of the Act;
 - “**lighthouse authority**” means a general lighthouse authority or a local lighthouse authority within the meaning of Part 8 of the Merchant Shipping Act 1995 [^c20693671];
-- “**an MPA**” means a marine protected area designated under section 116 of the Act [^c20693681] or a Nature Conservation MPA or a Historic MPA[^key-980a6e9bccc4044deb12eb15d207092a] designated under section 67 of the Marine (Scotland) Act 2010;
+- “**an MPA**” means a marine protected area designated under section 116 of the Act [^c20693681] or a Nature Conservation MPA or a Historic MPA[^c-980a6e9bccc4044deb12eb15d207092a] designated under section 67 of the Marine (Scotland) Act 2010;
 - “**plan or project**” has the same meaning as in Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora [^c20693691];
 - “**shellfish**” includes crustaceans and molluscs of any kind and any part of a shellfish;
-- “waste” has the same meaning as in section 75(2) of the Environmental Protection Act 1990 as read with section 75A of that Act;[^key-bc355c0cc71c9b50b2e83a6b28a5f9d6]
-- “the Waste Framework Directive” means[^key-31c1e633b09a9b7dde0b2d2eccdf4c0b] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as last amended by Commission Directive (EU) 2015/1127 amending Annex II to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098).
+- “waste” has the same meaning as in section 75(2) of the Environmental Protection Act 1990 as read with section 75A of that Act;[^c-bc355c0cc71c9b50b2e83a6b28a5f9d6]
+- “the Waste Framework Directive” means[^c-31c1e633b09a9b7dde0b2d2eccdf4c0b] [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste and repealing certain Directives, as last amended by Commission Directive (EU) 2015/1127 amending Annex II to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098).
 
-(2)[^key-18162ba587e895b1e130d5d969bf04c0] A reference in this Order to anything done in writing includes a reference to an electronic communication, as defined in section 15 of the Electronic Communications Act 2000 (general interpretation) which has been recorded in written form and is capable of being reproduced in that form.
+(2)[^c-18162ba587e895b1e130d5d969bf04c0] A reference in this Order to anything done in writing includes a reference to an electronic communication, as defined in section 15 of the Electronic Communications Act 2000 (general interpretation) which has been recorded in written form and is capable of being reproduced in that form.
 
 ## PART 2 — Exempt activities – general provisions
 
@@ -96,7 +96,7 @@ This Order applies in relation to any activity for which the Scottish Ministers 
 - (a) it is an activity to which an article in Part 3 applies; and
 - (b) it satisfies any conditions specified in that article in relation to that activity.
 
-(3) But this is subject to paragraph (4) and article 5[^key-d79918aae32996285a9929aa43207bc5] .
+(3) But this is subject to paragraph (4) and article 5[^c-d79918aae32996285a9929aa43207bc5] .
 
 (4) Nothing in this Order makes an activity an exempt activity to the extent to which the carrying on of the activity is contrary to international law.
 
@@ -109,7 +109,7 @@ This Order applies in relation to any activity for which the Scottish Ministers 
 - (a) disposal of its own non-hazardous waste at the place of production; or
 - (b) recovery of waste.
 
-(3)[^key-2f1b632f7fc8ca39b21d1f8e306ae299] Condition 2 is that the type and quantity of waste involved and the method of disposal or recovery are consistent with the objective that waste management is carried out without endangering human health, without harming the environment and, in particular:
+(3)[^c-2f1b632f7fc8ca39b21d1f8e306ae299] Condition 2 is that the type and quantity of waste involved and the method of disposal or recovery are consistent with the objective that waste management is carried out without endangering human health, without harming the environment and, in particular:
 
 - (a) without risk to water, air, soil, plants or animals;
 - (b) without causing nuisance through noise or odour; and
@@ -125,7 +125,7 @@ This Order applies in relation to any activity for which the Scottish Ministers 
 
 - (a) “**establishment**” and “**undertaking**” have the same meaning as in Articles 23 and 24 of the Waste Framework Directive;
 - (b) “**recovery**” has the meaning given by Article 3 of the Waste Framework Directive;
-- (c)[^key-0d13c76d73e93760cb7ee7bb76292020] “non-hazardous waste” means any waste which is not special waste within the meaning of regulation 2 of the Special Waste Regulations 1996.
+- (c)[^c-0d13c76d73e93760cb7ee7bb76292020] “non-hazardous waste” means any waste which is not special waste within the meaning of regulation 2 of the Special Waste Regulations 1996.
 
 ## PART 3 — Exempt activities and conditions
 
@@ -135,7 +135,7 @@ In this Part—
 
 - (a) a reference to a “**deposit**” is a reference to a deposit falling within item 1 (deposits within UK marine licensing area), 3 (deposits from vehicle, vessel etc. loaded in UK marine licensing area) or, except as otherwise provided, 10 (deposit of explosives within UK marine licensing area);
 - (b) a reference to a “**dredging activity**” is a reference to an activity falling within item 9 (dredging within UK marine licensing area);
-- (c) a reference to a “**removal activity**” is , except as otherwise provided,[^key-f0ae0049225783f08791e75c593827dc] a reference to an activity falling within item 8 (use of vehicle, vessel etc. to remove substance or object from sea bed within UK marine licensing area);
+- (c) a reference to a “**removal activity**” is , except as otherwise provided,[^c-f0ae0049225783f08791e75c593827dc] a reference to an activity falling within item 8 (use of vehicle, vessel etc. to remove substance or object from sea bed within UK marine licensing area);
 - (d) a reference to a “**works activity**” is a reference to an activity falling within item 7 (construction, alteration or improvement of works within UK marine licensing area).
 
 ### 7. Safety directions under the Merchant Shipping Act 1995
@@ -190,7 +190,7 @@ This article applies—
 - (b) marine oil treatment substance;
 - (c) marine surface fouling cleaner.
 
-(2) This article is subject to conditions 1 to 4[^key-db3fa97c336f2ebf7b32b24decd7403e].
+(2) This article is subject to conditions 1 to 4[^c-db3fa97c336f2ebf7b32b24decd7403e].
 
 (3) Condition 1 is that the substance must be one the use of which is for the time being approved for the purposes of this Order by the Scottish Ministers.
 
@@ -198,7 +198,7 @@ This article applies—
 
 (5) Condition 3 is that no deposit must be made in an area of the sea of a depth of less than 20 metres or within one nautical mile of any such area except with the approval of the Scottish Ministers.
 
-(5A)[^key-e944359294e0497828acc9312b2387f2] Condition 4 is that no deposit of any substance may be made below the surface of the sea except with the approval of the Scottish Ministers.
+(5A)[^c-e944359294e0497828acc9312b2387f2] Condition 4 is that no deposit of any substance may be made below the surface of the sea except with the approval of the Scottish Ministers.
 
 (6) In paragraph (1)—
 
@@ -231,7 +231,7 @@ This article applies—
 - (a) a deposit made for the purpose of disposal;
 - (b) a deposit that causes or is likely to cause obstruction or danger to navigation;
 - (c) a deposit—
-  - (i) that falls within sub-paragraph  (a) or (b)[^key-de3985ecf6b5292b3924ed8de105d0c4] of paragraph (4); and
+  - (i) that falls within sub-paragraph  (a) or (b)[^c-de3985ecf6b5292b3924ed8de105d0c4] of paragraph (4); and
   - (ii) that is not directly connected with or necessary to the management of the site or area referred to in that sub-paragraph.
 
 (4) A deposit falls within this paragraph if—
@@ -261,7 +261,7 @@ This article applies—
 
 (4) In paragraph (4)(a), “**likely**” has the same meaning as in Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora.
 
-### 16A. Accidental deposits – removal activity[^key-f53bd6fa56769816fed362be63461db9]
+### 16A. Accidental deposits – removal activity[^c-f53bd6fa56769816fed362be63461db9]
 
 (1) This article applies to a removal activity carried on for the purpose of removing any object from the seabed which has been accidentally deposited there.
 
@@ -365,8 +365,8 @@ This article applies to the deposit or use of any distress flare, smoke float or
 
 (2) In this article, “**third country vessel**” means a vessel which—
 
-- (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^key-24bac1f5f9a6e370bb4efb68be4b1371]; and
-- (b) is not registered in the United Kingdom[^key-f8722e6786c443b46a565ace8208a97b].
+- (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^c-24bac1f5f9a6e370bb4efb68be4b1371]; and
+- (b) is not registered in the United Kingdom[^c-f8722e6786c443b46a565ace8208a97b].
 
 ### 25. Activities carried on in the Scottish inshore region
 
@@ -397,46 +397,46 @@ Part 3 (articles 6 to 25) contains provisions setting out the licensable marine 
 
 [^c20693631]: Marginal citation: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-ee9483db3d3ee46bdd6cd64e713373a3]: Textual amendment: Art. 3(1): art. 3 renumbered as art. 3(1) (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [8(a)](https://www.legislation.gov.uk/ssi/2012/25/article/8/a)
+[^c-ee9483db3d3ee46bdd6cd64e713373a3]: Textual amendment: Art. 3(1): art. 3 renumbered as art. 3(1) (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [8(a)](https://www.legislation.gov.uk/ssi/2012/25/article/8/a)
 
 [^c20693641]: Marginal citation: See section 66 of the Act.
 
 [^c20693651]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 
-[^key-b7c886410a75524194815eacc4a8e1d4]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2011/57/article/3) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/8/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-b7c886410a75524194815eacc4a8e1d4]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2011/57/article/3) substituted (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 8(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/8/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
 
 [^c20693671]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21). See section 193 of that Act, to which certain relevant amendments have been made by paragraph 6 of Schedule 6 to the [Merchant Shipping and Maritime Security Act 1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
 [^c20693681]: Marginal citation: Section 116(7) provides that a marine conservation zone designated by the Scottish Ministers under that section is to be known as a marine protected area.
 
-[^key-980a6e9bccc4044deb12eb15d207092a]: Textual amendment: Words in art. 3(1) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2012/25/article/8/b/ii)
+[^c-980a6e9bccc4044deb12eb15d207092a]: Textual amendment: Words in art. 3(1) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [8(b)(ii)](https://www.legislation.gov.uk/ssi/2012/25/article/8/b/ii)
 
 [^c20693691]: Marginal citation: O.J. No. L 206, 22.7.1992, p.7, last amended by Council Directive 2006/105/EC (O.J. No. L 363, 20.12.2006, p.368).
 
-[^key-bc355c0cc71c9b50b2e83a6b28a5f9d6]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/57/article/3/1) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc355c0cc71c9b50b2e83a6b28a5f9d6]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2011/57/article/3/1) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-31c1e633b09a9b7dde0b2d2eccdf4c0b]: Textual amendment: Words in art. 3(1) substituted (1.7.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) (Scotland) Order 2015 (S.S.I. 2015/438)](https://www.legislation.gov.uk/ssi/2015/438), [arts. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1), [5](https://www.legislation.gov.uk/ssi/2015/438/article/5)
+[^c-31c1e633b09a9b7dde0b2d2eccdf4c0b]: Textual amendment: Words in art. 3(1) substituted (1.7.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) (Scotland) Order 2015 (S.S.I. 2015/438)](https://www.legislation.gov.uk/ssi/2015/438), [arts. 1](https://www.legislation.gov.uk/ssi/2015/438/article/1), [5](https://www.legislation.gov.uk/ssi/2015/438/article/5)
 
-[^key-18162ba587e895b1e130d5d969bf04c0]: Textual amendment: Art. 3(2) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [8(c)](https://www.legislation.gov.uk/ssi/2012/25/article/8/c)
+[^c-18162ba587e895b1e130d5d969bf04c0]: Textual amendment: Art. 3(2) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [8(c)](https://www.legislation.gov.uk/ssi/2012/25/article/8/c)
 
-[^key-d79918aae32996285a9929aa43207bc5]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/ssi/2011/57/article/4/3) substituted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [9](https://www.legislation.gov.uk/ssi/2012/25/article/9)
+[^c-d79918aae32996285a9929aa43207bc5]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/ssi/2011/57/article/4/3) substituted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [9](https://www.legislation.gov.uk/ssi/2012/25/article/9)
 
-[^key-2f1b632f7fc8ca39b21d1f8e306ae299]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/ssi/2011/57/article/5/3) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f1b632f7fc8ca39b21d1f8e306ae299]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/ssi/2011/57/article/5/3) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d13c76d73e93760cb7ee7bb76292020]: Textual amendment: [Art. 5(7)(c)](https://www.legislation.gov.uk/ssi/2011/57/article/5/7/c) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d13c76d73e93760cb7ee7bb76292020]: Textual amendment: [Art. 5(7)(c)](https://www.legislation.gov.uk/ssi/2011/57/article/5/7/c) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0ae0049225783f08791e75c593827dc]: Textual amendment: Words in [art. 6(c)](https://www.legislation.gov.uk/ssi/2011/57/article/6/c) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [10](https://www.legislation.gov.uk/ssi/2012/25/article/10)
+[^c-f0ae0049225783f08791e75c593827dc]: Textual amendment: Words in [art. 6(c)](https://www.legislation.gov.uk/ssi/2011/57/article/6/c) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [10](https://www.legislation.gov.uk/ssi/2012/25/article/10)
 
 [^c20693711]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); section 108A, which gives effect to Schedule 3A, was inserted by section 1(1) of the [Marine Safety Act 2003 (c.16)](https://www.legislation.gov.uk/ukpga/2003/16).
 
-[^key-db3fa97c336f2ebf7b32b24decd7403e]: Textual amendment: Word in [art. 13(2)](https://www.legislation.gov.uk/ssi/2011/57/article/13/2) substituted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [11(a)](https://www.legislation.gov.uk/ssi/2012/25/article/11/a)
+[^c-db3fa97c336f2ebf7b32b24decd7403e]: Textual amendment: Word in [art. 13(2)](https://www.legislation.gov.uk/ssi/2011/57/article/13/2) substituted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [11(a)](https://www.legislation.gov.uk/ssi/2012/25/article/11/a)
 
-[^key-e944359294e0497828acc9312b2387f2]: Textual amendment: [Art. 13(5A)](https://www.legislation.gov.uk/ssi/2011/57/article/13/5A) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [11(b)](https://www.legislation.gov.uk/ssi/2012/25/article/11/b)
+[^c-e944359294e0497828acc9312b2387f2]: Textual amendment: [Art. 13(5A)](https://www.legislation.gov.uk/ssi/2011/57/article/13/5A) inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [11(b)](https://www.legislation.gov.uk/ssi/2012/25/article/11/b)
 
-[^key-de3985ecf6b5292b3924ed8de105d0c4]: Textual amendment: Words in [art. 15(3)(c)(i)](https://www.legislation.gov.uk/ssi/2011/57/article/15/3/c/i) substituted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [12](https://www.legislation.gov.uk/ssi/2012/25/article/12)
+[^c-de3985ecf6b5292b3924ed8de105d0c4]: Textual amendment: Words in [art. 15(3)(c)(i)](https://www.legislation.gov.uk/ssi/2011/57/article/15/3/c/i) substituted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [12](https://www.legislation.gov.uk/ssi/2012/25/article/12)
 
-[^key-f53bd6fa56769816fed362be63461db9]: Textual amendment: Arts. 16A, 16B inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [13](https://www.legislation.gov.uk/ssi/2012/25/article/13)
+[^c-f53bd6fa56769816fed362be63461db9]: Textual amendment: Arts. 16A, 16B inserted (3.2.2012) by [The Marine Licensing (Exempted Activities) (Scottish Inshore and Offshore Regions) Amendment Order 2012 (S.S.I. 2012/25)](https://www.legislation.gov.uk/ssi/2012/25), [arts. 1](https://www.legislation.gov.uk/ssi/2012/25/article/1), [13](https://www.legislation.gov.uk/ssi/2012/25/article/13)
 
-[^key-24bac1f5f9a6e370bb4efb68be4b1371]: Textual amendment: Words in [art. 24(2)(a)](https://www.legislation.gov.uk/ssi/2011/57/article/24/2/a) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24bac1f5f9a6e370bb4efb68be4b1371]: Textual amendment: Words in [art. 24(2)(a)](https://www.legislation.gov.uk/ssi/2011/57/article/24/2/a) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f8722e6786c443b46a565ace8208a97b]: Textual amendment: Words in [art. 24(2)(b)](https://www.legislation.gov.uk/ssi/2011/57/article/24/2/b) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8722e6786c443b46a565ace8208a97b]: Textual amendment: Words in [art. 24(2)(b)](https://www.legislation.gov.uk/ssi/2011/57/article/24/2/b) substituted (31.12.2020) by [The Marine Environment (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/55)](https://www.legislation.gov.uk/ssi/2019/55), [regs. 1](https://www.legislation.gov.uk/ssi/2019/55/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/ssi/2019/55/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Power to modify energy supply licences to make provision as to default in green deal payments[^key-c54f6d19397209d2e485982401e28289]
+## 18. Power to modify energy supply licences to make provision as to default in green deal payments[^c-c54f6d19397209d2e485982401e28289]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c54f6d19397209d2e485982401e28289]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/16/section/18) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
+[^c-c54f6d19397209d2e485982401e28289]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2011/16/section/18) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)

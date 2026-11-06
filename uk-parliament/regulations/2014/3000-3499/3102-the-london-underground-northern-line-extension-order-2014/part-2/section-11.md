@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Access to works[^key-fdee6be9bfe71443ca17d4e12f9fa1fc]
+## 11. Access to works[^c-fdee6be9bfe71443ca17d4e12f9fa1fc]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ LUL may, for the purposes of the authorised works—
 
 ## Annotations
 
-[^key-fdee6be9bfe71443ca17d4e12f9fa1fc]: Commencement: Art. 11 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-fdee6be9bfe71443ca17d4e12f9fa1fc]: Commencement: Art. 11 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

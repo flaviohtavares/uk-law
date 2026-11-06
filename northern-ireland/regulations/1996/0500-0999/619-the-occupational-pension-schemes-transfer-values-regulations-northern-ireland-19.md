@@ -44,7 +44,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Part I — General
 
-### 1. Citation, commencement and interpretation[^key-12858c4bd014b6b9d9378ecd35c6f5fb]
+### 1. Citation, commencement and interpretation[^c-12858c4bd014b6b9d9378ecd35c6f5fb]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1997.
 
@@ -85,7 +85,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 ## Part II — Restrictions on Right to Cash Equivalent
 
-### 2. Pre-1986 leavers[^key-e9ac13de44ff8f5a600af5107a055a37]
+### 2. Pre-1986 leavers[^c-e9ac13de44ff8f5a600af5107a055a37]
 
 Chapter IV of Part IV of the Act shall not apply to a member of a salary related scheme whose pensionable service terminated before 1st January 1986 if all of the member’s accrued rights to benefits under the scheme—
 
@@ -95,7 +95,7 @@ Chapter IV of Part IV of the Act shall not apply to a member of a salary related
   - (iii) to pensions under a scheme the rules of which provide that pensions thereunder shall be increased in accordance with that Act; or
 - (b) are rights to pensions under a scheme the rules of which provide that pensions thereunder shall in the pre-pension period (as defined in section 79(1)(*a*)(iii) (scope of Chapter II: revaluation of accrued benefits excluding guaranteed minimum pensions)) be revalued at a rate equal to or exceeding the rate of inflation as measured by the retail prices index.
 
-### 3. Rules on continuation in employment after termination of pensionable service[^key-2c6e10d3a18d59bb459c689932824826]
+### 3. Rules on continuation in employment after termination of pensionable service[^c-2c6e10d3a18d59bb459c689932824826]
 
 (1) This regulation applies where a member continues in employment to which a scheme applies after the member’s pensionable service in such employment terminates and—
 
@@ -115,7 +115,7 @@ Chapter IV of Part IV of the Act shall not apply to a member of a salary related
 
 (5) Where a member exercises a right to the part of a guaranteed cash equivalent described in paragraph (2) or to a cash equivalent of only certain money purchase benefits as described in paragraph (3), Chapters II and III of Part IV of the Act are modified so that, for the purposes of those provisions, the benefits to which that part or that cash equivalent, as the case may be, related are disregarded and the pensionable service by reference to which those benefits were calculated is excluded from the pensionable service referred to in paragraph 1(1) of Schedule 2 to the Act (the final salary method of revaluation of accrued benefits).
 
-### 4. Right to further cash equivalent on termination of employment to which the scheme applies[^key-6cbe6e051bfd80095a9549b367a9b0eb]
+### 4. Right to further cash equivalent on termination of employment to which the scheme applies[^c-6cbe6e051bfd80095a9549b367a9b0eb]
 
 (1) This regulation applies to a case where regulation 3 (or regulation 2A of the 1985 Regulations[^f00015]) has operated to restrict a member’s cash equivalent and subsequently the member’s employment terminates on a date which is at least one year earlier than the date on which the member would attain the age which is the normal pension age for the scheme or, where the normal pension age is earlier than 60, the age of 60.
 
@@ -144,7 +144,7 @@ and
 
 (5) In this regulation “employment” means employment to which the scheme applies.
 
-### 5. Treatment of a number of employments as a single employment[^key-ca6ca9cbac9ca5aa7e4dc62b9cf33acc]
+### 5. Treatment of a number of employments as a single employment[^c-ca6ca9cbac9ca5aa7e4dc62b9cf33acc]
 
 For the purposes of section 94(1) and (1A) (variation and loss of rights to cash equivalent) and of regulations 3 and 4, where a member’s employment to which a scheme applies terminates but that member enters again into employment to which that scheme applies, then, if there is between those 2 employments—
 
@@ -155,7 +155,7 @@ they shall be treated as a single employment.
 
 ## Part III — Guaranteed Statements of Entitlement and Calculation of Transfer Values
 
-### 6. Guaranteed statements of entitlement[^key-7651e02f9bfc4f54c61dbf2ba1749214]
+### 6. Guaranteed statements of entitlement[^c-7651e02f9bfc4f54c61dbf2ba1749214]
 
 (1) The guarantee date in relation to a statement of entitlement such as is referred to in section 89A (salary related schemes: right to statement of entitlement) must be within a period of 3 months beginning on the date of the member’s application under that section for a statement of entitlement, or, where the trustees of the scheme are for reasons beyond their control unable within that period to obtain the information required to calculate the cash equivalent mentioned in section 89A(1), within such longer period as they may reasonably require as a result of that inability, provided that such longer period does not exceed 6 months beginning on the date of the member’s application.
 
@@ -165,7 +165,7 @@ they shall be treated as a single employment.
 
 (4) Subject to paragraph (3), any application for a cash equivalent made by a member of a salary related scheme which does not result in the member acquiring a right to a guaranteed cash equivalent under section 90(1)(*aa*) shall be treated as if it were an application under section 89A(1) for a statement of entitlement.
 
-### 7. Manner of calculation and verification of cash equivalents[^key-d670a60b07b8a64aec2b1231d1c96a7a]
+### 7. Manner of calculation and verification of cash equivalents[^c-d670a60b07b8a64aec2b1231d1c96a7a]
 
 (1) Except in a case to which, or to the extent to which, paragraph (2) or (5) applies, cash equivalents are to be calculated and verified in such manner as may be approved in particular cases by the scheme actuary or, in relation to a scheme to which Article 47(1)(*b*) (professional advisers) does not apply, by—
 
@@ -190,7 +190,7 @@ and, subject to paragraph (2), in this regulation and in regulations 8 and 11 �
 
 (5) Where a cash equivalent or any portion of a cash equivalent relates to money purchase benefits which do not fall to be valued in a manner which involves making estimates of the value of benefits, then that cash equivalent or that portion shall be calculated and verified in such manner as may be approved in particular cases by the trustees of the scheme and in accordance with methods consistent with the requirements of Chapter IV of Part IV of the Act.
 
-### 8. Further provisions as to calculation of cash equivalents and increases and reductions of cash equivalents (other than guaranteed cash equivalents)[^key-0da07c8d343123f76059803257998d46]
+### 8. Further provisions as to calculation of cash equivalents and increases and reductions of cash equivalents (other than guaranteed cash equivalents)[^c-0da07c8d343123f76059803257998d46]
 
 (1) A cash equivalent such as is mentioned in section 89A shall not be reduced under this regulation once it has become a guaranteed cash equivalent and a direction such as is mentioned in paragraph (2) shall not affect such a cash equivalent unless it is made before the guarantee date.
 
@@ -232,7 +232,7 @@ the cash equivalent, or, as the case may be, that part of it which relates to th
 
 (15) In a case where 2 or more of the paragraphs of this regulation fall to be applied to a calculation, they shall be applied in the order in which they occur in this regulation.
 
-### 9. Increases and reductions of guaranteed cash equivalents[^key-d1c423b7b54a25bdbd99f5a717a07966]
+### 9. Increases and reductions of guaranteed cash equivalents[^c-d1c423b7b54a25bdbd99f5a717a07966]
 
 (1) This regulation applies to a guaranteed cash equivalent when a statement of entitlement has been sent to a member of a salary related scheme by the trustees of the scheme.
 
@@ -246,7 +246,7 @@ the cash equivalent, or, as the case may be, that part of it which relates to th
 
 (6) In a case where 2 or more of the paragraphs of this regulation fall to be applied to a calculation, they shall be applied in the order in which they occur in this regulation except that where paragraph (5) falls to be applied it shall be applied as at the date on which it is established that the guaranteed cash equivalent falls short of or exceeds the proper amount.
 
-### 10. Increases of cash equivalents on late payment[^key-08f9a9d7ab630ed3a57248df03dac825]
+### 10. Increases of cash equivalents on late payment[^c-08f9a9d7ab630ed3a57248df03dac825]
 
 (1) Subject to paragraph (2), if the trustees of a scheme, having received an application under section 91[^f00025], fail to do what is needed to carry out what the member requires within 6 months of the appropriate date the member’s cash equivalent, as calculated in accordance with regulations 7 to 9, shall be increased by the amount, if any, by which that cash equivalent falls short of what it would have been if the appropriate date had been the date on which the trustees carry out what the member requires.
 
@@ -255,7 +255,7 @@ the cash equivalent, or, as the case may be, that part of it which relates to th
 - (a) interest on that cash equivalent calculated on a daily basis over the period from the appropriate date to the date on which the trustees carry out what the member requires, at an annual rate of one per cent. above base rate; or, if it is greater,
 - (b) the amount, if any, by which that cash equivalent falls short of what it would have been if the appropriate date had been the date on which the trustees carry out what the member requires.
 
-### 11. Disclosure[^key-f8e969fc8c983094daadf8b1b5d0be58]
+### 11. Disclosure[^c-f8e969fc8c983094daadf8b1b5d0be58]
 
 (1) An active member of any scheme, and a deferred member of a scheme which is a money purchase scheme, is entitled on request (not being a request made less than 12 months after the last occasion (if any) on which such information was furnished to that member) to the information mentioned in Schedule 1 and such information shall be provided to the member by the trustees in writing as soon as is practicable and in any event within 3 months after the member makes that request.
 
@@ -286,7 +286,7 @@ the cash equivalent, or, as the case may be, that part of it which relates to th
 
 ## Part IV — Receiving Schemes, Annuities and Arrangements
 
-### 12. Requirements to be met by receiving schemes, annuities and arrangements[^key-998f89ecb5e7429b49efa6ed9949c2c1]
+### 12. Requirements to be met by receiving schemes, annuities and arrangements[^c-998f89ecb5e7429b49efa6ed9949c2c1]
 
 (1) The prescribed requirements referred to in section 91(2)(*a*)(ii) and (*b*)(ii) (cash equivalent of member’s rights in a scheme to be used for acquiring transfer credits or rights under another scheme or personal pension scheme) are that—
 
@@ -323,7 +323,7 @@ the cash equivalent, or, as the case may be, that part of it which relates to th
 
 ## Part V — Time Limits for Payment of Cash Equivalents
 
-### 13. Extension of time limits for payment of cash equivalents[^key-f62a190c7a5bfc47414923b72e657f7e]
+### 13. Extension of time limits for payment of cash equivalents[^c-f62a190c7a5bfc47414923b72e657f7e]
 
 The Regulatory Authority may grant an extension of the period mentioned in section 95(2)(*a*) or, as the case may be, (*b*)[^f00030] (trustees' duties after exercise of option) if the trustees have within that period applied to the Regulatory Authority for an extension and—
 
@@ -339,7 +339,7 @@ The Regulatory Authority may grant an extension of the period mentioned in secti
 
 ## Part VI — Modification of the Act
 
-### 14. Extension of time within which member may exercise option to take a guaranteed cash equivalent[^key-4bb0c166194a85393f9fff0525fb3d05]
+### 14. Extension of time within which member may exercise option to take a guaranteed cash equivalent[^c-4bb0c166194a85393f9fff0525fb3d05]
 
 (1) Where a member’s guaranteed cash equivalent has been reduced or increased under regulation 9, section 90(1)(*aa*) does not apply, or ceases to apply, but if the member—
 
@@ -353,11 +353,11 @@ the member acquires a right to the guaranteed cash equivalent as so increased or
 - (a) has made a relevant application within 3 months beginning on the guarantee date; or
 - (b) makes a relevant application within 3 months beginning on the date on which the amount of the guaranteed cash equivalent is finally determined the member acquires a right to the guaranteed cash equivalent at the amount so determined.
 
-### 15. Cases where normal pension age is earlier than 60[^key-aa5522339a986ce692063e92145250ef]
+### 15. Cases where normal pension age is earlier than 60[^c-aa5522339a986ce692063e92145250ef]
 
 In their application to a member of a scheme whose normal pension age is earlier than 60, section 89(1)(*a*)(i)[^f00032] (scope of Chapter IV) shall have effect as if the words “at least one year” were omitted and sections 91(8)(*a*) (ways of taking right to cash equivalent), 94(7)(*a*) (variation and loss of rights under section 90) and 95(2)(*a*) and (*b*) (trustees' duties after exercise of option) shall have effect as if the references therein to normal pension age were references to the age of 60.
 
-### 16. Accrued rights, or liabilities in respect of accrued rights, transferred without consent[^key-00fce2fcb513db59e2efcba08022a9a3]
+### 16. Accrued rights, or liabilities in respect of accrued rights, transferred without consent[^c-00fce2fcb513db59e2efcba08022a9a3]
 
 (1) This regulation applies where—
 
@@ -366,13 +366,13 @@ In their application to a member of a scheme whose normal pension age is earlier
 
 (2) Where this regulation applies, Chapter IV of Part IV of the Act shall have effect as if the member’s right to a cash equivalent of the benefits in respect of which a transfer or transfer payment has been made existed in relation to the receiving scheme instead of the transferring scheme.
 
-### 17. Schemes with an overseas element[^key-3899a3b3de4249ddaea373bdfeaf1fbd]
+### 17. Schemes with an overseas element[^c-3899a3b3de4249ddaea373bdfeaf1fbd]
 
 (1) This regulation applies to schemes with any overseas element, as described in section 161(5) (requirements as to preservation of benefit under occupational pension schemes).
 
 (2) Where this regulation applies, Chapter IV of Part IV of the Act applies to schemes with any overseas element only to the extent that the requirements specified in or under sections 67 to 78[^f00033] (the preservation requirements) apply to the scheme.
 
-### 18. Termination of pensionable service in certain circumstances to be disregarded[^key-7ff8f67c8bf0cf00e6260ed981a83ce9]
+### 18. Termination of pensionable service in certain circumstances to be disregarded[^c-7ff8f67c8bf0cf00e6260ed981a83ce9]
 
 (1) Subject to paragraph (3), where a member’s pensionable service terminates in the circumstances set out in paragraph (2), Chapter IV of Part IV of the Act shall have effect as if that pensionable service had not terminated.
 
@@ -387,7 +387,7 @@ In their application to a member of a scheme whose normal pension age is earlier
 
 (3) This regulation shall not have effect where the trustees of a scheme, during any interval such as is set out in paragraph (2)(*b*)(ii) to (iv), do what is needed to carry out what a member requires in exercising an option under section 91.
 
-### 19. Hybrid schemes[^key-53eff5c5c5b155ac881480da6587eb4d]
+### 19. Hybrid schemes[^c-53eff5c5c5b155ac881480da6587eb4d]
 
 (1) In this regulation “hybrid scheme” means a scheme which is a salary related scheme but under which some of the benefits which may be provided are money purchase benefits.
 
@@ -399,13 +399,13 @@ In their application to a member of a scheme whose normal pension age is earlier
 
 ## Part VII — Penalties
 
-### 20. Maximum penalty under Article 10[^key-d6c64e8bd43a3c3e12b78bba9412d4e3]
+### 20. Maximum penalty under Article 10[^c-d6c64e8bd43a3c3e12b78bba9412d4e3]
 
 Where Article 10 (civil penalties) applies by virtue of section 89A(4)[^f00035] or 95(7)[^f00036], the maximum amount for the purposes of Article 10(2) shall be £1,000 in the case of an individual and £10,000 in any other case.
 
 ## Part VIII — Revocations and Transitional Provisions
 
-### 21. Revocations and transitional provisions[^key-4f68368d20b07510e722689c7f960138]
+### 21. Revocations and transitional provisions[^c-4f68368d20b07510e722689c7f960138]
 
 (1) Subject to paragraph (2) and to Schedule 2, the regulations specified in column (1) of Schedule 3 are revoked to the extent mentioned in column (3) of that Schedule.
 
@@ -421,7 +421,7 @@ Assistant Secretary
 
 Regulation 11
 
-**1.**[^key-c21ca8cf3153a2bb6d50c834a7aa31cd] Whether any cash equivalent (within the meaning of Chapter IV of Part IV of the Act) is available to the member or would be so available if the member’s pensionable service were to terminate and if so—
+**1.**[^c-c21ca8cf3153a2bb6d50c834a7aa31cd] Whether any cash equivalent (within the meaning of Chapter IV of Part IV of the Act) is available to the member or would be so available if the member’s pensionable service were to terminate and if so—
 
 - (a) an estimate of its amount, calculated on the basis that the member’s pensionable service terminated or will terminate on a particular date;
 - (b) the accrued rights to which it relates;
@@ -436,7 +436,7 @@ Regulation 11
   - (ii) an estimate of the date (if any) by which it will be possible to make available a cash equivalent which is not so reduced; and
   - (iii) a statement of the member’s rights to obtain further estimates.
 
-**2.**[^key-cea2a2d81449f8d21ec6e91004f5c3af] Whether any transfer value (not being a cash equivalent within the meaning of Chapter IV of Part IV of the Act) is available to the member or would be so available if the member’s pensionable service were to terminate and if so—
+**2.**[^c-cea2a2d81449f8d21ec6e91004f5c3af] Whether any transfer value (not being a cash equivalent within the meaning of Chapter IV of Part IV of the Act) is available to the member or would be so available if the member’s pensionable service were to terminate and if so—
 
 - (a) an estimate of its amount, calculated on the basis that the member’s pensionable service terminated or will terminate on a particular date;
 - (b) the accrued rights to which it relates;
@@ -450,7 +450,7 @@ Regulation 11
   - (ii) an estimate of the date (if any) by which it will be possible to make available a transfer value the amount of which is not so reduced; and
   - (iii) a statement of the member’s rights to obtain further estimates.
 
-## SCHEDULE 2 — Transitional Provisions[^key-d8f73ee030c945103b21c342510830de]
+## SCHEDULE 2 — Transitional Provisions[^c-d8f73ee030c945103b21c342510830de]
 
 Regulation 21
 
@@ -463,7 +463,7 @@ In the case of an application such as is mentioned in regulation 21(2), the 1985
   ;
 - (b) in regulation 3(2)(*b*)(ii)[^f00038] for “current at the date of the calculation” there shall be substituted “current on 5th April 1997”.
 
-## SCHEDULE 3 — Regulations revoked[^key-6525a2bb3c663b898148eaf51f2211a1]
+## SCHEDULE 3 — Regulations revoked[^c-6525a2bb3c663b898148eaf51f2211a1]
 
 Regulation 21
 
@@ -521,7 +521,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-12858c4bd014b6b9d9378ecd35c6f5fb]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-12858c4bd014b6b9d9378ecd35c6f5fb]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1985 No. 358](https://www.legislation.gov.uk/nisr/1985/358), as amended by [S.R. 1986 Nos. 114](https://www.legislation.gov.uk/nisr/1986/114), [225](https://www.legislation.gov.uk/nisr/1986/225) and [362](https://www.legislation.gov.uk/nisr/1986/362), [S.R. 1987 Nos. 285](https://www.legislation.gov.uk/nisr/1987/285) and [292](https://www.legislation.gov.uk/nisr/1987/292), [S.R. 1988 Nos. 107](https://www.legislation.gov.uk/nisr/1988/107), [109](https://www.legislation.gov.uk/nisr/1988/109), [127](https://www.legislation.gov.uk/nisr/1988/127) and [214](https://www.legislation.gov.uk/nisr/1988/214), [S.R. 1990 No. 203](https://www.legislation.gov.uk/nisr/1990/203), [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37) and [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
@@ -543,25 +543,25 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00012]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e9ac13de44ff8f5a600af5107a055a37]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-e9ac13de44ff8f5a600af5107a055a37]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00013]: Footnote: [1971 c. 35 (N.I.)](https://www.legislation.gov.uk/apni/1971/35); Schedule 2 was amended by paragraph 11 of Schedule 6 to the Superannuation (Northern Ireland) Order 1972 ([S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)), regulation 79 of [S.R. & O. (N.I.) 1972 No. 319](https://www.legislation.gov.uk/nisro/1972/319), paragraph 109 of Schedule 2 to the Social Security (Consequential Provisions) Act [1975 (c. 18)](https://www.legislation.gov.uk/ukpga/1975/18), Schedule 6 to the Social Security Pensions (Northern Ireland) Order 1975 ([S.I. 1975/1503 (N.I. 15)](https://www.legislation.gov.uk/nisi/1975/1503)) and paragraph 5 of Schedule 3 to the Fire Services (Northern Ireland) Order 1984 ([S.I. 1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821))
 
 [^f00014]: Footnote: *See* [S.R. & O. (N.I.) 1973 No. 15](https://www.legislation.gov.uk/nisro/1973/15), [S.R. 1975 Nos. 38](https://www.legislation.gov.uk/nisr/1975/38), [154](https://www.legislation.gov.uk/nisr/1975/154) and [226](https://www.legislation.gov.uk/nisr/1975/226), [S.R. 1977 No. 14](https://www.legislation.gov.uk/nisr/1977/14) and [S.R. 1992 No. 294](https://www.legislation.gov.uk/nisr/1992/294)
 
-[^key-2c6e10d3a18d59bb459c689932824826]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-2c6e10d3a18d59bb459c689932824826]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-6cbe6e051bfd80095a9549b367a9b0eb]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-6cbe6e051bfd80095a9549b367a9b0eb]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00015]: Footnote: Regulation 2A was inserted by regulation 2(4) of [S.R. 1987 No. 285](https://www.legislation.gov.uk/nisr/1987/285) and amended by regulation 2 of [S.R. 1988 No. 127](https://www.legislation.gov.uk/nisr/1988/127), regulation 6 of [S.R. 1990 No. 203](https://www.legislation.gov.uk/nisr/1990/203) and paragraph 5(7) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
-[^key-ca6ca9cbac9ca5aa7e4dc62b9cf33acc]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-ca6ca9cbac9ca5aa7e4dc62b9cf33acc]: Commencement: Reg. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-7651e02f9bfc4f54c61dbf2ba1749214]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-7651e02f9bfc4f54c61dbf2ba1749214]: Commencement: Reg. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-d670a60b07b8a64aec2b1231d1c96a7a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-d670a60b07b8a64aec2b1231d1c96a7a]: Commencement: Reg. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00017]: Footnote: The Institute of Actuaries is at Staple Inn Hall, High Holborn, London WCIV 7QJ
 
@@ -569,7 +569,7 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00019]: Footnote: [S.I. 1972/1073 (N.I. 10)](https://www.legislation.gov.uk/nisi/1972/1073)
 
-[^key-0da07c8d343123f76059803257998d46]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-0da07c8d343123f76059803257998d46]: Commencement: Reg. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1986 No. 225](https://www.legislation.gov.uk/nisr/1986/225), to which there are amendments not relevant to these regulations
 
@@ -581,15 +581,15 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00024]: Footnote: [S.R. 1991 No. 37](https://www.legislation.gov.uk/nisr/1991/37); the definition of “authorised friendly society” was substituted by regulation 8(*b*) of [S.R. 1995 No. 7](https://www.legislation.gov.uk/nisr/1995/7)
 
-[^key-d1c423b7b54a25bdbd99f5a717a07966]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-d1c423b7b54a25bdbd99f5a717a07966]: Commencement: Reg. 9 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-08f9a9d7ab630ed3a57248df03dac825]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-08f9a9d7ab630ed3a57248df03dac825]: Commencement: Reg. 10 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00025]: Footnote: Section 91(1) is amended by paragraph 5 of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-f8e969fc8c983094daadf8b1b5d0be58]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-f8e969fc8c983094daadf8b1b5d0be58]: Commencement: Reg. 11 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-998f89ecb5e7429b49efa6ed9949c2c1]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-998f89ecb5e7429b49efa6ed9949c2c1]: Commencement: Reg. 12 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00026]: Footnote: [S.R. 1996 No. 509](https://www.legislation.gov.uk/nisr/1996/509)
 
@@ -599,46 +599,46 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00029]: Footnote: Section 90 was amended by Article 150 of the Pensions (Northern Ireland) Order 1995
 
-[^key-f62a190c7a5bfc47414923b72e657f7e]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-f62a190c7a5bfc47414923b72e657f7e]: Commencement: Reg. 13 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00030]: Footnote: Section 95(2)(*a*) and (*b*) is substituted by paragraph 8(*a*) of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
 [^f00031]: Footnote: Section 49 applies to occupational pension schemes by virtue of section 48(1) of the Pension Schemes (Northern Ireland) Act 1993. Section 49 is amended by paragraph 40 of Schedule 3 to the Pensions (Northern Ireland) Order 1995
 
-[^key-4bb0c166194a85393f9fff0525fb3d05]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-4bb0c166194a85393f9fff0525fb3d05]: Commencement: Reg. 14 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-aa5522339a986ce692063e92145250ef]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-aa5522339a986ce692063e92145250ef]: Commencement: Reg. 15 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00032]: Footnote: Section 89(1)(*a*) was substituted by Article 148(2) of the Pensions (Northern Ireland) Order 1995
 
-[^key-00fce2fcb513db59e2efcba08022a9a3]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-00fce2fcb513db59e2efcba08022a9a3]: Commencement: Reg. 16 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-3899a3b3de4249ddaea373bdfeaf1fbd]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-3899a3b3de4249ddaea373bdfeaf1fbd]: Commencement: Reg. 17 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00033]: Footnote: Sections 73 to 76 are repealed by paragraph 14 of Schedule 1 to the Pensions (Northern Ireland) Order 1995 and section 78 is amended by paragraph 15 of Schedule 1 to that Order
 
-[^key-7ff8f67c8bf0cf00e6260ed981a83ce9]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-7ff8f67c8bf0cf00e6260ed981a83ce9]: Commencement: Reg. 18 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-53eff5c5c5b155ac881480da6587eb4d]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-53eff5c5c5b155ac881480da6587eb4d]: Commencement: Reg. 19 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-d6c64e8bd43a3c3e12b78bba9412d4e3]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-d6c64e8bd43a3c3e12b78bba9412d4e3]: Commencement: Reg. 20 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00035]: Footnote: Section 89A was inserted by Article 149 of the Pensions (Northern Ireland) Order 1995
 
 [^f00036]: Footnote: Section 95(7) was added by paragraph 8(*e*) of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-4f68368d20b07510e722689c7f960138]: Commencement: Reg. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-4f68368d20b07510e722689c7f960138]: Commencement: Reg. 21 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-c21ca8cf3153a2bb6d50c834a7aa31cd]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-c21ca8cf3153a2bb6d50c834a7aa31cd]: Commencement: Sch. 1 para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-cea2a2d81449f8d21ec6e91004f5c3af]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-cea2a2d81449f8d21ec6e91004f5c3af]: Commencement: Sch. 1 para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
-[^key-d8f73ee030c945103b21c342510830de]: Commencement: Sch. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-d8f73ee030c945103b21c342510830de]: Commencement: Sch. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
 
 [^f00037]: Footnote: Regulation 4(3) and (3A) was substituted for regulation 4(3) by regulation 12 of [S.R. 1986 No. 225](https://www.legislation.gov.uk/nisr/1986/225) and regulation 4(3A) was amended by paragraph 5(12)(*a*) of Schedule 2 to [S.R. 1994 No. 300](https://www.legislation.gov.uk/nisr/1994/300)
 
 [^f00038]: Footnote: Regulation 3(2)(*b*)(ii) was amended by regulation 3 of [S.R. 1986 No. 114](https://www.legislation.gov.uk/nisr/1986/114) and regulation 2(5) of [S.R. 1987 No. 285](https://www.legislation.gov.uk/nisr/1987/285)
 
-[^key-6525a2bb3c663b898148eaf51f2211a1]: Commencement: Sch. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)
+[^c-6525a2bb3c663b898148eaf51f2211a1]: Commencement: Sch. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/619/regulation/1/1)

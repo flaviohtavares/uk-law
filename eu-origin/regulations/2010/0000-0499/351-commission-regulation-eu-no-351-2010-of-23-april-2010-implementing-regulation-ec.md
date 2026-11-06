@@ -35,61 +35,61 @@ implementing Regulation (EC) No 862/2007 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-210cb0835f8fb9c257585227ae1d89e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-210cb0835f8fb9c257585227ae1d89e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-210cb0835f8fb9c257585227ae1d89e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-210cb0835f8fb9c257585227ae1d89e7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX[^c-210cb0835f8fb9c257585227ae1d89e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-210cb0835f8fb9c257585227ae1d89e7]1.
 
 BASIC GROUPS OF COUNTRIES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]1.1.
+[^c-210cb0835f8fb9c257585227ae1d89e7]1.1.
 
 **Groups of citizenship**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]1.2.
+[^c-210cb0835f8fb9c257585227ae1d89e7]1.2.
 
 **Groups of country of birth**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]1.3.
+[^c-210cb0835f8fb9c257585227ae1d89e7]1.3.
 
 **Groups of country of previous usual residence**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]1.4.
+[^c-210cb0835f8fb9c257585227ae1d89e7]1.4.
 
 **Groups of country of next usual residence**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]2.
+[^c-210cb0835f8fb9c257585227ae1d89e7]2.
 
 ADDITIONAL GROUPS OF OTHER NON-EU COUNTRIES AND CITIZENSHIP BY LEVEL OF DEVELOPMENT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]3.
+[^c-210cb0835f8fb9c257585227ae1d89e7]3.
 
 LIST OF COUNTRIES AND CITIZENSHIPS IN GROUPS
 
@@ -97,4 +97,4 @@ LIST OF COUNTRIES AND CITIZENSHIPS IN GROUPS
 
 ## Annotations
 
-[^key-210cb0835f8fb9c257585227ae1d89e7]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 171](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/171); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-210cb0835f8fb9c257585227ae1d89e7]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 171](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/171); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

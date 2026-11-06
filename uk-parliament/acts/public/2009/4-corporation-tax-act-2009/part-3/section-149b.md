@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149B. Allowable deductions: niches[^key-830bde26d44929582acf368679c09b70]
+## 149B. Allowable deductions: niches[^c-830bde26d44929582acf368679c09b70]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-830bde26d44929582acf368679c09b70]: Textual amendment: Ss. 149A-149E inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2012/266/article/5/4) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/266/article/5/5))
+[^c-830bde26d44929582acf368679c09b70]: Textual amendment: Ss. 149A-149E inserted (1.3.2012) by [The Enactment of Extra-Statutory Concessions Order 2012 (S.I. 2012/266)](https://www.legislation.gov.uk/uksi/2012/266), [arts. 1](https://www.legislation.gov.uk/uksi/2012/266/article/1), [5(4)](https://www.legislation.gov.uk/uksi/2012/266/article/5/4) (with [art. 5(5)](https://www.legislation.gov.uk/uksi/2012/266/article/5/5))

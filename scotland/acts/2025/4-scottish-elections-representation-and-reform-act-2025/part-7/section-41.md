@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Proposals for registration of electors pilot provision[^key-77cade5a0d692b5c04bd606af7c8e4d2][^key-bb431e6fedbf2e4850bc6e7a653396b6]
+## 41. Proposals for registration of electors pilot provision[^c-77cade5a0d692b5c04bd606af7c8e4d2][^c-bb431e6fedbf2e4850bc6e7a653396b6]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77cade5a0d692b5c04bd606af7c8e4d2]: Commencement: S. 41 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-77cade5a0d692b5c04bd606af7c8e4d2]: Commencement: S. 41 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-bb431e6fedbf2e4850bc6e7a653396b6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/4/section/41) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-bb431e6fedbf2e4850bc6e7a653396b6]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/4/section/41) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

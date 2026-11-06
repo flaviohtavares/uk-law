@@ -36,7 +36,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-47dd74b358394b06c466fa7b2d5009da]Regulation[^c000001] (EU) No 575/2013 of the European Parliament and of the Council
+[^c-47dd74b358394b06c466fa7b2d5009da]Regulation[^c000001] (EU) No 575/2013 of the European Parliament and of the Council
 
 of 26 June 2013
 
@@ -44,7 +44,7 @@ on prudential requirements for credit institutions and investment firms and amen
 
 (Text with EEA relevance)
 
-[^key-72d1511fdb75ae1807a484492675eac5][^key-5a71a59c7c743b26aa156d0a7c659f8a]
+[^c-72d1511fdb75ae1807a484492675eac5][^c-5a71a59c7c743b26aa156d0a7c659f8a]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -917,7 +917,7 @@ Exemptions from and alternatives to deduction from Common Equity Tier 1 items
 - [Section Article 97 — Own Funds based on Fixed Overheads](section-article-97.md)
 - [Section Article 98 — Own funds for investment firms on a consolidated basis](section-article-98.md)
 
-##### CHAPTER 2 — Calculation and reporting requirements[^key-e81e4456767694a3cc53550be671d2b6]
+##### CHAPTER 2 — Calculation and reporting requirements[^c-e81e4456767694a3cc53550be671d2b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -927,7 +927,7 @@ Exemptions from and alternatives to deduction from Common Equity Tier 1 items
 - [Section Article 100 — Additional reporting requirements](section-article-100.md)
 - [Section Article 101 — Specific reporting obligations](section-article-101.md)
 
-##### CHAPTER 3 — Trading book[^key-5dcc105fdf3e7da03cacf3ee04ff9deb]
+##### CHAPTER 3 — Trading book[^c-5dcc105fdf3e7da03cacf3ee04ff9deb]
 
 *Extent: E+W+S+N.I.*
 
@@ -1550,11 +1550,11 @@ Subsection 5[^c000003][^c000001]
 - [Section Article 325a — Exemptions from specific reporting requirements for market risk](section-article-325a.md)
 - [Section Article 325b — Permission for consolidated requirements](section-article-325b.md)
 
-##### CHAPTER 1a — Alternative standardised approach[^key-a7136403615e047a4656cc5c6331cf9d]
+##### CHAPTER 1a — Alternative standardised approach[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
-###### Section 1 — General provisions[^key-a7136403615e047a4656cc5c6331cf9d]
+###### Section 1 — General provisions[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1562,7 +1562,7 @@ Subsection 5[^c000003][^c000001]
 
 - [Section Article 325c — Scope and structure of the alternative standardised approach](section-article-325c.md)
 
-###### Section 2 — Sensitivities-based method for calculating the own funds requirement[^key-a7136403615e047a4656cc5c6331cf9d]
+###### Section 2 — Sensitivities-based method for calculating the own funds requirement[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1577,7 +1577,7 @@ Subsection 5[^c000003][^c000001]
 - [Section Article 325j — Treatment of collective investment undertakings](section-article-325j.md)
 - [Section Article 325k — Underwriting positions](section-article-325k.md)
 
-###### Section 3 — Risk factor and sensitivity definitions[^key-a7136403615e047a4656cc5c6331cf9d]
+###### Section 3 — Risk factor and sensitivity definitions[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1587,7 +1587,7 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 1
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 1
 
 **Risk factor definitions**
 
@@ -1602,7 +1602,7 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 2
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 2
 
 **Sensitivity definitions**
 
@@ -1610,7 +1610,7 @@ Subsection 5[^c000003][^c000001]
 - [Section Article 325s — Vega risk sensitivities](section-article-325s.md)
 - [Section Article 325t — Requirements on sensitivity computations](section-article-325t.md)
 
-###### Section 4 — The residual risk add-on[^key-a7136403615e047a4656cc5c6331cf9d]
+###### Section 4 — The residual risk add-on[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1618,7 +1618,7 @@ Subsection 5[^c000003][^c000001]
 
 - [Section Article 325u — Own funds requirements for residual risks](section-article-325u.md)
 
-###### Section 5 — Own funds requirements for the default risk[^key-a7136403615e047a4656cc5c6331cf9d]
+###### Section 5 — Own funds requirements for the default risk[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1630,7 +1630,7 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 1
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 1
 
 **Own funds requirements for the default risk for non-securitisations**
 
@@ -1642,7 +1642,7 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 2
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 2
 
 **Own funds requirements for the default risk for securitisations not included in the ACTP**
 
@@ -1653,7 +1653,7 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 3
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 3
 
 **Own funds requirements for the default risk for securitisations included in the ACTP**
 
@@ -1661,7 +1661,7 @@ Subsection 5[^c000003][^c000001]
 - [Section Article 325ac — Jump-to-default amounts for the ACTP](section-article-325ac.md)
 - [Section Article 325ad — Calculation of the own funds requirements for the default risk for the ACTP](section-article-325ad.md)
 
-###### Section 6 — Risk weights and correlations[^key-a7136403615e047a4656cc5c6331cf9d]
+###### Section 6 — Risk weights and correlations[^c-a7136403615e047a4656cc5c6331cf9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -1671,7 +1671,7 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 1
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 1
 
 **Delta risk weights and correlations**
 
@@ -1699,20 +1699,20 @@ Subsection 5[^c000003][^c000001]
 
 **No longer in force.**
 
-[^key-a7136403615e047a4656cc5c6331cf9d]Subsection 2
+[^c-a7136403615e047a4656cc5c6331cf9d]Subsection 2
 
 **Vega and curvature risk weights and correlations**
 
 - [Section Article 325ax — Vega and curvature risk weights](section-article-325ax.md)
 - [Section Article 325ay — Vega and curvature risk correlations](section-article-325ay.md)
 
-##### CHAPTER 1b — Alternative internal model approach[^key-b64b1d70fb6153b6ba469f73ddd1aa62]
+##### CHAPTER 1b — Alternative internal model approach[^c-b64b1d70fb6153b6ba469f73ddd1aa62]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-###### Section 1 — Permission and own funds requirements[^key-b64b1d70fb6153b6ba469f73ddd1aa62]
+###### Section 1 — Permission and own funds requirements[^c-b64b1d70fb6153b6ba469f73ddd1aa62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1721,7 +1721,7 @@ Subsection 5[^c000003][^c000001]
 - [Section Article 325az — Alternative internal model approach and permission to use alternative internal models](section-article-325az.md)
 - [Section Article 325ba — Own funds requirements when using alternative internal models](section-article-325ba.md)
 
-###### Section 2 — General requirements[^key-b64b1d70fb6153b6ba469f73ddd1aa62]
+###### Section 2 — General requirements[^c-b64b1d70fb6153b6ba469f73ddd1aa62]
 
 *Extent: E+W+S+N.I.*
 
@@ -1738,7 +1738,7 @@ Subsection 5[^c000003][^c000001]
 - [Section Article 325bj — Internal validation](section-article-325bj.md)
 - [Section Article 325bk — Calculation of stress scenario risk measure](section-article-325bk.md)
 
-###### Section 3 — Internal default risk model[^key-b64b1d70fb6153b6ba469f73ddd1aa62]
+###### Section 3 — Internal default risk model[^c-b64b1d70fb6153b6ba469f73ddd1aa62]
 
 *Extent: E+W+S+N.I.*
 
@@ -2017,13 +2017,13 @@ General risk
 - [Section Article 430b — Specific reporting requirements for market risk](section-article-430b.md)
 - [Section Article 430c — Feasibility report on the integrated reporting system](section-article-430c.md)
 
-### PART EIGHT — DISCLOSURE BY INSTITUTIONS[^key-ac58e313ee63ecb402f11e38214570e2]
+### PART EIGHT — DISCLOSURE BY INSTITUTIONS[^c-ac58e313ee63ecb402f11e38214570e2]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### TITLE I — GENERAL PRINCIPLES[^key-ac58e313ee63ecb402f11e38214570e2]
+#### TITLE I — GENERAL PRINCIPLES[^c-ac58e313ee63ecb402f11e38214570e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -2035,7 +2035,7 @@ General risk
 - [Section Article 434 — Means of disclosures](section-article-434.md)
 - [Section Article 434a — Uniform disclosure formats](section-article-434a.md)
 
-#### TITLE II — TECHNICAL CRITERIA ON TRANSPARENCY AND DISCLOSURE[^key-ac58e313ee63ecb402f11e38214570e2]
+#### TITLE II — TECHNICAL CRITERIA ON TRANSPARENCY AND DISCLOSURE[^c-ac58e313ee63ecb402f11e38214570e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -2059,7 +2059,7 @@ General risk
 - [Section Article 450 — Remuneration policy](section-article-450.md)
 - [Section Article 451 — Leverage](section-article-451.md)
 
-#### TITLE III — QUALIFYING REQUIREMENTS FOR THE USE OF PARTICULAR INSTRUMENTS OR METHODOLOGIES[^key-ac58e313ee63ecb402f11e38214570e2]
+#### TITLE III — QUALIFYING REQUIREMENTS FOR THE USE OF PARTICULAR INSTRUMENTS OR METHODOLOGIES[^c-ac58e313ee63ecb402f11e38214570e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -2070,7 +2070,7 @@ General risk
 - [Section Article 454 — Use of the Advanced Measurement Approaches to operational risk](section-article-454.md)
 - [Section Article 455 — Use of Internal Market Risk Models](section-article-455.md)
 
-### PART NINE — Regulations, enhanced prudential measures and technical standards[^c000001][^key-f2cff219f402e4a7d07460901f66fcc2]
+### PART NINE — Regulations, enhanced prudential measures and technical standards[^c000001][^c-f2cff219f402e4a7d07460901f66fcc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -2238,7 +2238,7 @@ Inclusion of instruments with a call and incentive to redeem in additional Tier 
 - [Section Article 501a — Adjustment to own funds requirements for credit risk for exposures to entities that operate or finance physical structures or facilities, systems and networks that provide or support essential public services](section-article-501a.md)
 - [Section Article 501b — Derogation from reporting requirements](section-article-501b.md)
 
-#### TITLE II — REPORTS AND REVIEWS[^key-0d92f1e0593e9adf45fc0add71bc0fb5]
+#### TITLE II — REPORTS AND REVIEWS[^c-0d92f1e0593e9adf45fc0add71bc0fb5]
 
 *Extent: E+W+S+N.I.*
 
@@ -2293,17 +2293,17 @@ Inclusion of instruments with a call and incentive to redeem in additional Tier 
 
 *Extent: E+W+S+N.I.*
 
-[^key-5fd16da41d572948f2c4700561f97293] ...
+[^c-5fd16da41d572948f2c4700561f97293] ...
 
 ## Annotations
 
-[^key-47dd74b358394b06c466fa7b2d5009da]: Textual amendment: Regulation revoked (1.1.2024 for the revocation of Art. 92b, 1.1.2026 for the revocation of Arts. 6(1a), 11(3a), 12a, 18(1) (in part), 25-35, 37-47, 47a(1)(2), 47c-79a, 81(1)(a)(i)-(iic)(b)(c)(2), 82(a)(i)-(iic)(b)(c), 83-91, 92a, 466, 468, 469a, 471, 473-474, 476, 479, 480, 482-491, 494-494b, otherwise prosp.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 5(b)(i)](https://www.legislation.gov.uk/uksi/2023/779/regulation/5/b/i); [S.I. 2025/873](https://www.legislation.gov.uk/uksi/2025/873), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/873/regulation/4/b) (with [regs. 6](https://www.legislation.gov.uk/uksi/2025/873/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/873/regulation/7)) (as amended by [S.I. 2025/1293](https://www.legislation.gov.uk/uksi/2025/1293), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1293/regulation/2))
+[^c-47dd74b358394b06c466fa7b2d5009da]: Textual amendment: Regulation revoked (1.1.2024 for the revocation of Art. 92b, 1.1.2026 for the revocation of Arts. 6(1a), 11(3a), 12a, 18(1) (in part), 25-35, 37-47, 47a(1)(2), 47c-79a, 81(1)(a)(i)-(iic)(b)(c)(2), 82(a)(i)-(iic)(b)(c), 83-91, 92a, 466, 468, 469a, 471, 473-474, 476, 479, 480, 482-491, 494-494b, otherwise prosp.) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 5(b)(i)](https://www.legislation.gov.uk/uksi/2023/779/regulation/5/b/i); [S.I. 2025/873](https://www.legislation.gov.uk/uksi/2025/873), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/873/regulation/4/b) (with [regs. 6](https://www.legislation.gov.uk/uksi/2025/873/regulation/6), [7](https://www.legislation.gov.uk/uksi/2025/873/regulation/7)) (as amended by [S.I. 2025/1293](https://www.legislation.gov.uk/uksi/2025/1293), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1293/regulation/2))
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-72d1511fdb75ae1807a484492675eac5]: Modification: Regulation: power to amend conferred (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 3](https://www.legislation.gov.uk/ukpga/2021/22/section/3), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 5(2)-(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/5/2)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/a)
+[^c-72d1511fdb75ae1807a484492675eac5]: Modification: Regulation: power to amend conferred (9.6.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 3](https://www.legislation.gov.uk/ukpga/2021/22/section/3), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 5(2)-(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/5/2)); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/a)
 
-[^key-5a71a59c7c743b26aa156d0a7c659f8a]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-5a71a59c7c743b26aa156d0a7c659f8a]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ C 105, 11.4.2012, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2012.105.01.0001.01.ENG)[^c000001] .
 
@@ -2349,22 +2349,22 @@ Inclusion of instruments with a call and incentive to redeem in additional Tier 
 
 [^c000005]: Textual amendment: Inserted by [Regulation (EU) 2019/876 of the European Parliament and of the Council of 20 May 2019 amending Regulation (EU) No 575/2013 as regards the leverage ratio, the net stable funding ratio, requirements for own funds and eligible liabilities, counterparty credit risk, market risk, exposures to central counterparties, exposures to collective investment undertakings, large exposures, reporting and disclosure requirements, and Regulation (EU) No 648/2012 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/876).
 
-[^key-e81e4456767694a3cc53550be671d2b6]: Textual amendment: [Pt. 3 Title 1 Ch. 2](https://www.legislation.gov.uk/eur/2013/575/part/THREE/title/I/chapter/2) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/b)
+[^c-e81e4456767694a3cc53550be671d2b6]: Textual amendment: [Pt. 3 Title 1 Ch. 2](https://www.legislation.gov.uk/eur/2013/575/part/THREE/title/I/chapter/2) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/b)
 
-[^key-5dcc105fdf3e7da03cacf3ee04ff9deb]: Textual amendment: [Pt. 3 Title 1 Ch. 3](https://www.legislation.gov.uk/eur/2013/575/part/THREE/title/I/chapter/3) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/c)
+[^c-5dcc105fdf3e7da03cacf3ee04ff9deb]: Textual amendment: [Pt. 3 Title 1 Ch. 3](https://www.legislation.gov.uk/eur/2013/575/part/THREE/title/I/chapter/3) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(2)(c)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/2/c)
 
 [^c000003]: Textual amendment: Substituted by [Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms](https://www.legislation.gov.uk/eur/2017/2401).
 
-[^key-a7136403615e047a4656cc5c6331cf9d]: Textual amendment: [Pt. 3 Title 4 Ch. 1a](https://www.legislation.gov.uk/eur/2013/575/part/3/title/4/chapter/1a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(38)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/38/a)
+[^c-a7136403615e047a4656cc5c6331cf9d]: Textual amendment: [Pt. 3 Title 4 Ch. 1a](https://www.legislation.gov.uk/eur/2013/575/part/3/title/4/chapter/1a) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(38)(a)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/38/a)
 
-[^key-b64b1d70fb6153b6ba469f73ddd1aa62]: Textual amendment: [Pt. 3 Title 4 Ch. 1b](https://www.legislation.gov.uk/eur/2013/575/part/3/title/4/chapter/1b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(38)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/38/b)
+[^c-b64b1d70fb6153b6ba469f73ddd1aa62]: Textual amendment: [Pt. 3 Title 4 Ch. 1b](https://www.legislation.gov.uk/eur/2013/575/part/3/title/4/chapter/1b) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(38)(b)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/38/b)
 
 [^c000013]: Textual amendment: Deleted by [Regulation (EU) 2017/2401 of the European Parliament and of the Council of 12 December 2017 amending Regulation (EU) No 575/2013 on prudential requirements for credit institutions and investment firms](https://www.legislation.gov.uk/eur/2017/2401).
 
-[^key-ac58e313ee63ecb402f11e38214570e2]: Textual amendment: Pt. 8 omitted (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) (as substituted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/4))
+[^c-ac58e313ee63ecb402f11e38214570e2]: Textual amendment: Pt. 8 omitted (1.1.2022) by [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2021/1078/regulation/10) (as substituted by [S.I. 2021/1376](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/32/4))
 
-[^key-f2cff219f402e4a7d07460901f66fcc2]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/eur/2013/575/part/9) heading substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [200](https://www.legislation.gov.uk/uksi/2018/1401/regulation/200) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2cff219f402e4a7d07460901f66fcc2]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/eur/2013/575/part/9) heading substituted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [200](https://www.legislation.gov.uk/uksi/2018/1401/regulation/200) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d92f1e0593e9adf45fc0add71bc0fb5]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/eur/2013/575/part/10) Title 2 omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [214](https://www.legislation.gov.uk/uksi/2018/1401/regulation/214) (as amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/3/2) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0d92f1e0593e9adf45fc0add71bc0fb5]: Textual amendment: [Pt. 10](https://www.legislation.gov.uk/eur/2013/575/part/10) Title 2 omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [214](https://www.legislation.gov.uk/uksi/2018/1401/regulation/214) (as amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2019/1232/regulation/3/2) and with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5fd16da41d572948f2c4700561f97293]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/575/signature) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [215](https://www.legislation.gov.uk/uksi/2018/1401/regulation/215) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5fd16da41d572948f2c4700561f97293]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/575/signature) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [215](https://www.legislation.gov.uk/uksi/2018/1401/regulation/215) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

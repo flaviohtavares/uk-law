@@ -34,7 +34,7 @@ Constitutional Law
 
 Devolution, Scotland
 
-The Scottish Parliament (Disqualification) Order 2015 (revoked)[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+The Scottish Parliament (Disqualification) Order 2015 (revoked)[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 Made
 
@@ -50,46 +50,46 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-cd580e9a2fc28c154efd0ceda438e1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd580e9a2fc28c154efd0ceda438e1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+## 1. Citation and commencement[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specified office-holders[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+## 2. Specified office-holders[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+## 3.[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of the Scottish Parliament (Disqualification) Order 2010[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+## 4. Revocation of the Scottish Parliament (Disqualification) Order 2010[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd580e9a2fc28c154efd0ceda438e1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd580e9a2fc28c154efd0ceda438e1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+## SCHEDULE[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 **No longer in force.**
 
 Articles 2 and 3
 
-### PART 1 — OFFICE-HOLDERS DISQUALIFIED FROM BEING A MEMBER OF THE SCOTTISH PARLIAMENT[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+### PART 1 — OFFICE-HOLDERS DISQUALIFIED FROM BEING A MEMBER OF THE SCOTTISH PARLIAMENT[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — OFFICE-HOLDERS DISQUALIFIED FOR PARTICULAR CONSTITUENCIES AND REGIONS[^key-cd580e9a2fc28c154efd0ceda438e1f8]
+### PART 2 — OFFICE-HOLDERS DISQUALIFIED FOR PARTICULAR CONSTITUENCIES AND REGIONS[^c-cd580e9a2fc28c154efd0ceda438e1f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd580e9a2fc28c154efd0ceda438e1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd580e9a2fc28c154efd0ceda438e1f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd580e9a2fc28c154efd0ceda438e1f8]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/350) revoked (15.10.2020) by [The Scottish Parliament (Disqualification) Order 2020 (S.S.I. 2020/321)](https://www.legislation.gov.uk/ssi/2020/321), [arts. 1](https://www.legislation.gov.uk/ssi/2020/321/article/1), [4](https://www.legislation.gov.uk/ssi/2020/321/article/4)
+[^c-cd580e9a2fc28c154efd0ceda438e1f8]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/350) revoked (15.10.2020) by [The Scottish Parliament (Disqualification) Order 2020 (S.S.I. 2020/321)](https://www.legislation.gov.uk/ssi/2020/321), [arts. 1](https://www.legislation.gov.uk/ssi/2020/321/article/1), [4](https://www.legislation.gov.uk/ssi/2020/321/article/4)

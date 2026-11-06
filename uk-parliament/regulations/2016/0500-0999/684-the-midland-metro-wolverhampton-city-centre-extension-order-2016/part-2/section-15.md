@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Restoration of streets if tramway discontinued[^key-67e2855cc7f98cd2238da5b340d3175d]
+## 15. Restoration of streets if tramway discontinued[^c-67e2855cc7f98cd2238da5b340d3175d]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ If the Authority abandons the construction of, or permanently ceases to operate 
 
 ## Annotations
 
-[^key-67e2855cc7f98cd2238da5b340d3175d]: Commencement: Art. 15 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-67e2855cc7f98cd2238da5b340d3175d]: Commencement: Art. 15 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

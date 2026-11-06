@@ -50,13 +50,13 @@ They have had regard to relevant advice given by the Food Standards Agency in ac
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003].
 
-## 1. Citation, extent and commencement[^key-a12bbce5450c4d54d944a196662fd9c7]
+## 1. Citation, extent and commencement[^c-a12bbce5450c4d54d944a196662fd9c7]
 
 (1) These Regulations may be cited as the Products Containing Meat etc. (Scotland) Regulations 2014 and come into force on 13th December 2014.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-ea9de55cfeab96b129fc7664325e1829]
+## 2. Interpretation[^c-ea9de55cfeab96b129fc7664325e1829]
 
 In these Regulations—
 
@@ -72,24 +72,24 @@ In these Regulations—
     - (iii) the heart, the tongue, the muscles of the head (other than the masseters), the carpus, the tarsus, or the tail of any mammalian or bird species recognised as fit for human consumption;
 - “uncooked”, in relation to a food, means a food that has not been subjected to a process of cooking throughout the whole food so that the food is sold on the basis that it will need further cooking before consumption.
 
-## 3. Scope[^key-3c55ec26ad06eaab67c1b91222ffe290]
+## 3. Scope[^c-3c55ec26ad06eaab67c1b91222ffe290]
 
-(1) Subject to paragraph (2)[^key-daa3236337d4eab59709c889cd249f7b], these Regulations apply to food that is ready for delivery to the final consumer or to a mass caterer.
+(1) Subject to paragraph (2)[^c-daa3236337d4eab59709c889cd249f7b], these Regulations apply to food that is ready for delivery to the final consumer or to a mass caterer.
 
 (2) These Regulations do not apply in respect of any food—
 
 - (a) that is not intended for sale for human consumption; or
 - (b) to which the Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Regulations 2004[^f00006] apply.
 
-(3)[^key-a68d69705858d8d90dcf95d976a5476f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a68d69705858d8d90dcf95d976a5476f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this regulation—
 
-- [^key-a67fd8b89ad9b3074c109998a63b5ac5]...
+- [^c-a67fd8b89ad9b3074c109998a63b5ac5]...
 - “final consumer” has the meaning given in point 18 of Article 3 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178)[^f00007] of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety; and
 - “mass caterer” has the meaning given in Article 2(2)(d) of FIC.
 
-## 4. Restrictions on the use of certain names[^key-05c4bf8afa19491cf2a2d088bd92a39a]
+## 4. Restrictions on the use of certain names[^c-05c4bf8afa19491cf2a2d088bd92a39a]
 
 (1) No person may sell or advertise a regulated product using a name that appears in column 1 of the table in the Schedule as the name of the food, whether or not qualified by other words, unless the food complies with the appropriate requirements in columns 2 and 3 of the table in the Schedule.
 
@@ -100,7 +100,7 @@ In these Regulations—
 
 (3) In this regulation “sell” includes offering or exposing for sale and includes having in possession for sale and “sale” must be construed accordingly.
 
-## 5. Parts of the carcase in uncooked regulated products[^key-02d3b0456de162a12bec1e69b222483c]
+## 5. Parts of the carcase in uncooked regulated products[^c-02d3b0456de162a12bec1e69b222483c]
 
 (1) No person may sell an uncooked regulated product if any part of a carcase specified in paragraph (2) from any mammalian species has been used as an ingredient in the preparation of that product.
 
@@ -110,7 +110,7 @@ In these Regulations—
 
 (4) In this regulation “sausage” includes chipolata, frankfurter, link, salami and any similar product.
 
-## 6. Penalties and enforcement[^key-810cf1a23b6191ad66fe5a71c6fe82c4]
+## 6. Penalties and enforcement[^c-810cf1a23b6191ad66fe5a71c6fe82c4]
 
 (1) Any person who contravenes or fails to comply with regulations 4 or 5(1) shall be guilty of an offence.
 
@@ -118,7 +118,7 @@ In these Regulations—
 
 (3) Each food authority[^f00008] shall enforce and execute these Regulations in its area.
 
-## 7. Application and modification of other provisions of the Act[^key-462658b7df4c51580ae9c561055dc3af]
+## 7. Application and modification of other provisions of the Act[^c-462658b7df4c51580ae9c561055dc3af]
 
 The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of the Act is to be construed as a reference to these Regulations—
 
@@ -126,7 +126,7 @@ The following provisions of the Act apply for the purposes of these Regulations 
 - (b) section 3 (presumptions that food intended for human consumption);
 - (c) section 20 (offences due to fault of another person);
 - (d) section 21 (defence of due diligence as it applies for the purposes of sections 8, 14 or 15 of the Act);
-- (da)[^key-4c9b0ff7b7ee43aa2b6e01f7f9146e64] section 22 (defence of publication in the course of business);
+- (da)[^c-4c9b0ff7b7ee43aa2b6e01f7f9146e64] section 22 (defence of publication in the course of business);
 - (e) section 30(8) (which relates to documentary evidence);
 - (f) section 33 (obstruction etc. of officers);
 - (g) section 35(1) to (3) (punishment of offences) insofar as it relates to offences under section 33(1) and (2) as applied by sub-paragraph (f) above;
@@ -134,7 +134,7 @@ The following provisions of the Act apply for the purposes of these Regulations 
 - (i) section 36A (offences by Scottish partnerships)[^f00009]; and
 - (j) section 44 (protection of officers acting in good faith).
 
-## 8. Revocations[^key-8b2d15f80c4fb460dbf7b968e8ef777f]
+## 8. Revocations[^c-8b2d15f80c4fb460dbf7b968e8ef777f]
 
 The following Regulations are revoked—
 
@@ -142,7 +142,7 @@ The following Regulations are revoked—
 - (b) the Meat Products (Scotland) Amendment Regulations 2008[^f00011]; and
 - (c) regulation 18(4) of the Food Additives (Scotland) Regulations 2009[^f00012].
 
-## 9. Transitional provisions[^key-bb12a0338780b65ef6eb8199c4941134]
+## 9. Transitional provisions[^c-bb12a0338780b65ef6eb8199c4941134]
 
 A product which was, or would have been, outside the scope of these Regulations by virtue of regulation 3(3), as it had effect immediately before 22 February 2022, is not subject to these Regulations until 1 October 2022.
 
@@ -160,13 +160,13 @@ Edinburgh
 
 Regulation 4(1) and (2)
 
-**1.**[^key-ed268c4bc3edbe58c7c872e88b7b8662] In this Schedule—
+**1.**[^c-ed268c4bc3edbe58c7c872e88b7b8662] In this Schedule—
 
 - “cured meat” means a food consisting of meat and curing salt, whether or not the food also contains any other ingredient;
 - “curing salt” means—
   - (a) sodium chloride, if used in sufficient quantity to have a significant preserving effect on the food;
   - (b) potassium chloride, if used in sufficient quantity to have a significant preserving effect on the food;
-  - (c) a combination of any of sodium chloride, potassium chloride, sodium nitrate, potassium nitrate and sodium nitrite as authorised for use in accordance with[^key-6faf18f61338c9eafa7e4f4b699decee] [Regulation (EC) No 1333/2008](https://www.legislation.gov.uk/eur/2008/1333)[^key-186a40ed208d23a71134d1d3c78bf76f] of the European Parliament and of the Council on food additives [^key-e89123f8a53902431b956872359ac365]... , except for a mixture of sodium chloride and potassium chloride; or
+  - (c) a combination of any of sodium chloride, potassium chloride, sodium nitrate, potassium nitrate and sodium nitrite as authorised for use in accordance with[^c-6faf18f61338c9eafa7e4f4b699decee] [Regulation (EC) No 1333/2008](https://www.legislation.gov.uk/eur/2008/1333)[^c-186a40ed208d23a71134d1d3c78bf76f] of the European Parliament and of the Council on food additives [^c-e89123f8a53902431b956872359ac365]... , except for a mixture of sodium chloride and potassium chloride; or
   - (d) a mixture of sodium chloride and potassium chloride if used in sufficient quantity to have a significant preserving effect on the food.
 
     <table>
@@ -243,41 +243,41 @@ These Regulations retain existing national provisions on the reserved descriptio
 
 [^f00003]: Footnote: OJ L 31, 1.2.2002, p.1, as last amended by [Commission Regulation (EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) (OJ L 188, 18.7.2009, p.14).
 
-[^key-a12bbce5450c4d54d944a196662fd9c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/289/regulation/1) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-a12bbce5450c4d54d944a196662fd9c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/289/regulation/1) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
-[^key-ea9de55cfeab96b129fc7664325e1829]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/289/regulation/2) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-ea9de55cfeab96b129fc7664325e1829]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/289/regulation/2) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
 [^f00004]: Footnote: OJ L 304, 22.11.2011, p.18.
 
 [^f00005]: Footnote: OJ L 139, 30.4.2004, p.55, as last amended by Council Regulation (EU) No 517/2013 (OJ L 158, 10.6.2013, p.1).
 
-[^key-3c55ec26ad06eaab67c1b91222ffe290]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/289/regulation/3) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-3c55ec26ad06eaab67c1b91222ffe290]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/289/regulation/3) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
-[^key-daa3236337d4eab59709c889cd249f7b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/3/1) substituted (22.2.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/2/a)
+[^c-daa3236337d4eab59709c889cd249f7b]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/3/1) substituted (22.2.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/2/a)
 
 [^f00006]: Footnote: [S.S.I. 2004/8](https://www.legislation.gov.uk/ssi/2004/8), as amended by [S.S.I. 2005/479](https://www.legislation.gov.uk/ssi/2005/479), [2005/616](https://www.legislation.gov.uk/ssi/2005/616), [2007/424](https://www.legislation.gov.uk/ssi/2007/424), [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
 
-[^key-a68d69705858d8d90dcf95d976a5476f]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2014/289/regulation/3/3) omitted (22.2.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/2/b)
+[^c-a68d69705858d8d90dcf95d976a5476f]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/ssi/2014/289/regulation/3/3) omitted (22.2.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/2/b)
 
-[^key-a67fd8b89ad9b3074c109998a63b5ac5]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/ssi/2014/289/regulation/3/4) omitted (22.2.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/2/c)
+[^c-a67fd8b89ad9b3074c109998a63b5ac5]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/ssi/2014/289/regulation/3/4) omitted (22.2.2022) by virtue of [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/2/c)
 
 [^f00007]: Footnote: OJ L 31, 1.2.2002, p.1.
 
-[^key-05c4bf8afa19491cf2a2d088bd92a39a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/289/regulation/4) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-05c4bf8afa19491cf2a2d088bd92a39a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/289/regulation/4) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
-[^key-02d3b0456de162a12bec1e69b222483c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/289/regulation/5) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-02d3b0456de162a12bec1e69b222483c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/289/regulation/5) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
-[^key-810cf1a23b6191ad66fe5a71c6fe82c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/289/regulation/6) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-810cf1a23b6191ad66fe5a71c6fe82c4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/289/regulation/6) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
 [^f00008]: Footnote: By virtue of section 5(2) of the Act, a food authority is a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 ([1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39)).
 
-[^key-462658b7df4c51580ae9c561055dc3af]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/289/regulation/7) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-462658b7df4c51580ae9c561055dc3af]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/289/regulation/7) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
-[^key-4c9b0ff7b7ee43aa2b6e01f7f9146e64]: Textual amendment: [Reg. 7(da)](https://www.legislation.gov.uk/ssi/2014/289/regulation/7/da) inserted (25.2.2016) by [The Products Containing Meat etc. (Scotland) Amendment Regulations 2016 (S.S.I. 2016/24)](https://www.legislation.gov.uk/ssi/2016/24), [regs. 1](https://www.legislation.gov.uk/ssi/2016/24/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/24/regulation/2)
+[^c-4c9b0ff7b7ee43aa2b6e01f7f9146e64]: Textual amendment: [Reg. 7(da)](https://www.legislation.gov.uk/ssi/2014/289/regulation/7/da) inserted (25.2.2016) by [The Products Containing Meat etc. (Scotland) Amendment Regulations 2016 (S.S.I. 2016/24)](https://www.legislation.gov.uk/ssi/2016/24), [regs. 1](https://www.legislation.gov.uk/ssi/2016/24/regulation/1), [2](https://www.legislation.gov.uk/ssi/2016/24/regulation/2)
 
 [^f00009]: Footnote: Section 36A was added by the Food Standards Act [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28) Schedule 5 paragraph 16.
 
-[^key-8b2d15f80c4fb460dbf7b968e8ef777f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/289/regulation/8) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-8b2d15f80c4fb460dbf7b968e8ef777f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/289/regulation/8) in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
 [^f00010]: Footnote: [S.S.I. 2004/6](https://www.legislation.gov.uk/ssi/2004/6), as amended by [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616), [2006/530](https://www.legislation.gov.uk/ssi/2006/530), [2008/97](https://www.legislation.gov.uk/ssi/2008/97), [2009/436](https://www.legislation.gov.uk/ssi/2009/436), [2010/177](https://www.legislation.gov.uk/ssi/2010/177), [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809) and [S.S.I. 2013/177](https://www.legislation.gov.uk/ssi/2013/177).
 
@@ -285,12 +285,12 @@ These Regulations retain existing national provisions on the reserved descriptio
 
 [^f00012]: Footnote: [S.S.I. 2009/436](https://www.legislation.gov.uk/ssi/2009/436), to which there are amendments not relevant to these Regulations.
 
-[^key-bb12a0338780b65ef6eb8199c4941134]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/289/regulation/9) inserted (22.2.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/3)
+[^c-bb12a0338780b65ef6eb8199c4941134]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/289/regulation/9) inserted (22.2.2022) by [The Food (Withdrawal of Recognition) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/477)](https://www.legislation.gov.uk/ssi/2021/477), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/477/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2021/477/regulation/5/3)
 
-[^key-ed268c4bc3edbe58c7c872e88b7b8662]: Commencement: Sch. para. 1 in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
+[^c-ed268c4bc3edbe58c7c872e88b7b8662]: Commencement: Sch. para. 1 in force at 13.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/289/regulation/1/1)
 
-[^key-6faf18f61338c9eafa7e4f4b699decee]: Textual amendment: Words in sch. inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/5/2/a)
+[^c-6faf18f61338c9eafa7e4f4b699decee]: Textual amendment: Words in sch. inserted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/5/2/a)
 
-[^key-186a40ed208d23a71134d1d3c78bf76f]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/289/schedule) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/12/2)
+[^c-186a40ed208d23a71134d1d3c78bf76f]: Textual amendment: Words in [sch.](https://www.legislation.gov.uk/ssi/2014/289/schedule) substituted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/12/2)
 
-[^key-e89123f8a53902431b956872359ac365]: Textual amendment: Words in sch. omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/5/2/b)
+[^c-e89123f8a53902431b956872359ac365]: Textual amendment: Words in sch. omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 5(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/5/2/b)

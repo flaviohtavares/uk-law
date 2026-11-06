@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Requirement to assess costs by the detailed procedure[^key-fbabdad2bd8485d2c60fcd152a3b991a]
+## 116. Requirement to assess costs by the detailed procedure[^c-fbabdad2bd8485d2c60fcd152a3b991a]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbabdad2bd8485d2c60fcd152a3b991a]: Commencement: Rule 116 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-fbabdad2bd8485d2c60fcd152a3b991a]: Commencement: Rule 116 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00019]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110), as amended by the Civil Procedure Acts Repeal Act 1879, section 2, Schedule 1, Part 1, the Statute Law Revision (No. 2) Act 1888, [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), article 2, [1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), article 3(a), (b) and (c).

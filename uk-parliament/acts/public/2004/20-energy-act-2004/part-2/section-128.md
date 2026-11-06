@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Discharge of obligation by payment[^key-44fbdcddbb6f44a5d55f1bfb3a515a73]
+## 128. Discharge of obligation by payment[^c-44fbdcddbb6f44a5d55f1bfb3a515a73]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ must, within the specified period and in the specified circumstances, each make 
 
 (5) The provision that may be made by virtue of subsection (4) includes, in particular, provision for the making of adjustments and repayments after a requirement to make payments has already arisen.
 
-(6)[^key-70f0a003c6826331e6caad20f671d863] Where the Administrator is the Secretary of State—
+(6)[^c-70f0a003c6826331e6caad20f671d863] Where the Administrator is the Secretary of State—
 
 - (a) sums received by the Administrator by virtue of this section must be paid into the Consolidated Fund, and
 - (b) an RTF order may make provision for sums to be paid by the Administrator to transport fuel suppliers, or to transport fuel suppliers of a specified description, in accordance with the specified system of allocation.
@@ -58,6 +58,6 @@ must, within the specified period and in the specified circumstances, each make 
 
 ## Annotations
 
-[^key-44fbdcddbb6f44a5d55f1bfb3a515a73]: Commencement: S. 128 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-44fbdcddbb6f44a5d55f1bfb3a515a73]: Commencement: S. 128 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-70f0a003c6826331e6caad20f671d863]: Textual amendment: [S. 128(6)-(10)](https://www.legislation.gov.uk/ukpga/2004/20/section/128/6) substituted for [s. 128(6)(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/128/6) (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/4)
+[^c-70f0a003c6826331e6caad20f671d863]: Textual amendment: [S. 128(6)-(10)](https://www.legislation.gov.uk/ukpga/2004/20/section/128/6) substituted for [s. 128(6)(7)](https://www.legislation.gov.uk/ukpga/2004/20/section/128/6) (26.1.2009) by [Climate Change Act 2008 (c. 27)](https://www.legislation.gov.uk/ukpga/2008/27), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2008/27/section/100/5), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2008/27/schedule/7/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Promotion of welfare[^key-99c76bda25dcde6c25995e494c6f760d]
+## 10. Promotion of welfare[^c-99c76bda25dcde6c25995e494c6f760d]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99c76bda25dcde6c25995e494c6f760d]: Commencement: Reg. 10 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-99c76bda25dcde6c25995e494c6f760d]: Commencement: Reg. 10 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

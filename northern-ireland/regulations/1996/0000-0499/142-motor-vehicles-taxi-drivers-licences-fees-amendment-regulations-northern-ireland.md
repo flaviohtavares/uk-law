@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 79A(2) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00001], and of every other power enabling it in that behalf, and with the approval of the Department of Finance and Personnel hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-2c76148248b9378f75943d1bbe302616]
+## 1. Citation and commencement[^c-2c76148248b9378f75943d1bbe302616]
 
 These Regulations may be cited as the Motor Vehicles (Taxi Drivers' Licences) (Fees) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 3rd June 1996.
 
-## 2. Amendment of the Motor Vehicles (Taxi Drivers' Licences) Regulations (Northern Ireland) 1991[^key-de5ddba9c00fd897ae9b25f85b05c031]
+## 2. Amendment of the Motor Vehicles (Taxi Drivers' Licences) Regulations (Northern Ireland) 1991[^c-de5ddba9c00fd897ae9b25f85b05c031]
 
 In regulation 4(1) (fee for a licence) of the Motor Vehicles (Taxi Drivers' Licences) Regulations (Northern Ireland) 1991[^f00002] for “£60” there shall be substituted “£58·50”.
 
@@ -78,8 +78,8 @@ The fees for a first licence and a duplicate licence remain unchanged.
 
 [^f00001]: Footnote: [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department” and “prescribed”; Article 79A was inserted by Part II of Sch. 3 to S.I. [1991/197 (N.I. 3)](https://www.legislation.gov.uk/nisi/1991/197)
 
-[^key-2c76148248b9378f75943d1bbe302616]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/142/regulation/1)
+[^c-2c76148248b9378f75943d1bbe302616]: Commencement: Reg. 1 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/142/regulation/1)
 
-[^key-de5ddba9c00fd897ae9b25f85b05c031]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/142/regulation/1)
+[^c-de5ddba9c00fd897ae9b25f85b05c031]: Commencement: Reg. 2 in operation at 3.6.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/142/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1991 No. 454](https://www.legislation.gov.uk/nisr/1991/454); relevant amending Regulations are [S.R. 1995 No. 153](https://www.legislation.gov.uk/nisr/1995/153)

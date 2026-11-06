@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Staffing - overarching requirements[^key-f921b04d1cf9bebdaef42560f0cd9808]
+## 22. Staffing - overarching requirements[^c-f921b04d1cf9bebdaef42560f0cd9808]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f921b04d1cf9bebdaef42560f0cd9808]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/762/regulation/22) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-f921b04d1cf9bebdaef42560f0cd9808]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/762/regulation/22) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

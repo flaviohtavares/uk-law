@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1022. Protection of persons holding under a lease[^c20591641][^c20591781][^c20603351][^key-b5787e1a8da51610d28315f62af12d80]
+## 1022. Protection of persons holding under a lease[^c20591641][^c20591781][^c20603351][^c-b5787e1a8da51610d28315f62af12d80]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ In either event (if the case so requires) the liabilities and obligations must b
 (6) For the purposes of this section a heritable security—
 
 - (a) is duly recorded if it is recorded in the Register of Sasines, and
-- (b) is duly registered if registered in accordance with the Land Registration[^key-7a8a49a1d00fca7bcbd6ee7b0ef1855f] etc. (Scotland) Act 2012 (asp 5).
+- (b) is duly registered if registered in accordance with the Land Registration[^c-7a8a49a1d00fca7bcbd6ee7b0ef1855f] etc. (Scotland) Act 2012 (asp 5).
 
 ## Annotations
 
@@ -53,6 +53,6 @@ In either event (if the case so requires) the liabilities and obligations must b
 
 [^c20603351]: Modification: Ss. 1020-1022 applied (with modifications) (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [54](https://www.legislation.gov.uk/uksi/2009/1804/regulation/54) (with [Sch. 1 paras. 22](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/22), [34](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/34), [35](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/35))
 
-[^key-b5787e1a8da51610d28315f62af12d80]: Modification: [Ss. 1012-1023](https://www.legislation.gov.uk/ukpga/2006/46/section/1012) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [180(10)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/180/10) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-b5787e1a8da51610d28315f62af12d80]: Modification: [Ss. 1012-1023](https://www.legislation.gov.uk/ukpga/2006/46/section/1012) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [180(10)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/180/10) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-7a8a49a1d00fca7bcbd6ee7b0ef1855f]: Textual amendment: Words in s. 1022(6)(b) substituted (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 50(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/50/4) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-7a8a49a1d00fca7bcbd6ee7b0ef1855f]: Textual amendment: Words in s. 1022(6)(b) substituted (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 50(4)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/50/4) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

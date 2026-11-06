@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Electronic communications[^key-12fd6e2383fd0c6dea1c4873fc05972c][^key-c958b46ffded8a1b92d1caca3960a757][^key-5cbaefce149dd85dc95150beaee40d24][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-9907ee4189a0781220e9756f36a52faf][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81]
+## 94. Electronic communications[^c-12fd6e2383fd0c6dea1c4873fc05972c][^c-c958b46ffded8a1b92d1caca3960a757][^c-5cbaefce149dd85dc95150beaee40d24][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-9907ee4189a0781220e9756f36a52faf][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 
 *Extent: E+W*
 
@@ -35,14 +35,14 @@ summary: ''
 
 ## Annotations
 
-[^key-12fd6e2383fd0c6dea1c4873fc05972c]: Commencement: S. 94 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
+[^c-12fd6e2383fd0c6dea1c4873fc05972c]: Commencement: S. 94 in force at 12.1.2009 for specified purposes by [S.I. 2008/3168](https://www.legislation.gov.uk/uksi/2008/3168), [art. 2](https://www.legislation.gov.uk/uksi/2008/3168/article/2)
 
-[^key-c958b46ffded8a1b92d1caca3960a757]: Modification: S. 94 applied (11.12.2009) by [The Health and Social Care Act 2008 (Commencement No. 13, Transitory and Transitional Provisions and Electronic Communications) Order 2009 (S.I. 2009/3023)](https://www.legislation.gov.uk/uksi/2009/3023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1), [18](https://www.legislation.gov.uk/uksi/2009/3023/article/18) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)
+[^c-c958b46ffded8a1b92d1caca3960a757]: Modification: S. 94 applied (11.12.2009) by [The Health and Social Care Act 2008 (Commencement No. 13, Transitory and Transitional Provisions and Electronic Communications) Order 2009 (S.I. 2009/3023)](https://www.legislation.gov.uk/uksi/2009/3023), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/3023/article/1/1), [18](https://www.legislation.gov.uk/uksi/2009/3023/article/18) (as amended (8.2.2010) by [S.I. 2010/47](https://www.legislation.gov.uk/uksi/2010/47), art. 2)
 
-[^key-5cbaefce149dd85dc95150beaee40d24]: Commencement: S. 94 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/14) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-5cbaefce149dd85dc95150beaee40d24]: Commencement: S. 94 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/14) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
+[^c-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
 
-[^key-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
+[^c-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
 
-[^key-9907ee4189a0781220e9756f36a52faf]: Modification: S. 94 applied (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [22](https://www.legislation.gov.uk/uksi/2010/807/article/22)
+[^c-9907ee4189a0781220e9756f36a52faf]: Modification: S. 94 applied (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [22](https://www.legislation.gov.uk/uksi/2010/807/article/22)

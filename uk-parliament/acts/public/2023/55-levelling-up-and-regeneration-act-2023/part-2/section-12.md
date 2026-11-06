@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Associate members of a CCA[^key-981175a3bd4a44398f4795dc5b67f01c]
+## 12. Associate members of a CCA[^c-981175a3bd4a44398f4795dc5b67f01c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-981175a3bd4a44398f4795dc5b67f01c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/55/section/12) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-981175a3bd4a44398f4795dc5b67f01c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/55/section/12) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

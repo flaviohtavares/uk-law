@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. For the protection of the Environment Agency[^key-95c3678dc2c8e5769c7329d0d5831f9e]
+## 44. For the protection of the Environment Agency[^c-95c3678dc2c8e5769c7329d0d5831f9e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 12 (for the protection of the Environment Agency) hav
 
 ## Annotations
 
-[^key-95c3678dc2c8e5769c7329d0d5831f9e]: Commencement: Art. 44 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-95c3678dc2c8e5769c7329d0d5831f9e]: Commencement: Art. 44 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

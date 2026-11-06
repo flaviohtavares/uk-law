@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Other offences relating to absent voting[^key-4a72fc4fdb7e59e1a785bfbc0ec87885]
+## 13. Other offences relating to absent voting[^c-4a72fc4fdb7e59e1a785bfbc0ec87885]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a72fc4fdb7e59e1a785bfbc0ec87885]: Commencement: Art. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4a72fc4fdb7e59e1a785bfbc0ec87885]: Commencement: Art. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

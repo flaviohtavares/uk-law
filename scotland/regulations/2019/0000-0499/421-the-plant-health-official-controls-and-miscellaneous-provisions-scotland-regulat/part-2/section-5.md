@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Designation of competent authority[^key-6aedfe1e1f328be80170eb49234e6af2]
+## 5. Designation of competent authority[^c-6aedfe1e1f328be80170eb49234e6af2]
 
 *Extent: S*
 
@@ -34,35 +34,35 @@ summary: ''
 
 (4) In this regulation—
 
-- [^key-f1d7375b7bc955aa6762607039c6107b]...
-- “**forestry professional operator**” means a professional operator who carries out one or more of the following activities, but no other activities in relation to plants or plant products described in Article 2(9) of the [^key-08b7ee958c37bd38d01672b3a678a838]... Plant Health Regulation—
+- [^c-f1d7375b7bc955aa6762607039c6107b]...
+- “**forestry professional operator**” means a professional operator who carries out one or more of the following activities, but no other activities in relation to plants or plant products described in Article 2(9) of the [^c-08b7ee958c37bd38d01672b3a678a838]... Plant Health Regulation—
   - (a) the introduction of forestry material into Scotland,
-  - (b) the storage, aggregation or movement of forestry material within Scotland, the movement of forestry material into Scotland from another part of Great Britain or a CD territory[^key-4ce549911ca83ad229e2013c1618fc71] or the movement of forestry material from Scotland to another part of Great Britain or a CD territory,
-  - (c) the export of forestry material from Scotland to a third country or Northern Ireland[^key-94ae54bbde92d14759d1dc3d73c94647],
+  - (b) the storage, aggregation or movement of forestry material within Scotland, the movement of forestry material into Scotland from another part of Great Britain or a CD territory[^c-4ce549911ca83ad229e2013c1618fc71] or the movement of forestry material from Scotland to another part of Great Britain or a CD territory,
+  - (c) the export of forestry material from Scotland to a third country or Northern Ireland[^c-94ae54bbde92d14759d1dc3d73c94647],
   - (d) the treatment and marking of wood packaging material or forestry material in accordance with Annex 1 to ISPM 15 or the repair of wood packaging material in Scotland,
   - (e) the introduction of tree pests into Scotland, the movement of tree pests within Scotland or the holding or multiplication of tree pests in Scotland for official testing, scientific or educational purposes, trials, varietal selection or breeding,
   - (f) the introduction of trees or forestry material into Scotland or the movement of trees or forestry material within Scotland for use in official testing, scientific or educational purposes, trials, varietal selection or breeding,
-- [^key-f453a46ebdb78d3ac5a762c7a9ccb428]...
-- [^key-beb3b52a65ccc2bc4c09eb0d42523989]...
-- [^key-ac9861ffd69475451a9751a978c17188]...
+- [^c-f453a46ebdb78d3ac5a762c7a9ccb428]...
+- [^c-beb3b52a65ccc2bc4c09eb0d42523989]...
+- [^c-ac9861ffd69475451a9751a978c17188]...
 - “**tree**” means a living tree or shrub, or a living part of a tree or shrub, at any stage of its growth,
 - “**tree pest**” means a plant pest which is injurious to trees or wood,
 - “**wood packaging material**” means wood or wood products (excluding paper products) used, or intended to be used, for supporting, protecting or carrying a commodity of any kind, including dunnage.
 
 ## Annotations
 
-[^key-6aedfe1e1f328be80170eb49234e6af2]: Commencement: Reg. 5 in force at 14.12.2019, see reg. 1(1)
+[^c-6aedfe1e1f328be80170eb49234e6af2]: Commencement: Reg. 5 in force at 14.12.2019, see reg. 1(1)
 
-[^key-f1d7375b7bc955aa6762607039c6107b]: Textual amendment: Words in reg. 5(4) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/176/regulation/5/a)
+[^c-f1d7375b7bc955aa6762607039c6107b]: Textual amendment: Words in reg. 5(4) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [5(a)](https://www.legislation.gov.uk/ssi/2020/176/regulation/5/a)
 
-[^key-08b7ee958c37bd38d01672b3a678a838]: Textual amendment: Word in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(a)(i)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/a/i) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-08b7ee958c37bd38d01672b3a678a838]: Textual amendment: Word in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(a)(i)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/a/i) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-4ce549911ca83ad229e2013c1618fc71]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) substituted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-4ce549911ca83ad229e2013c1618fc71]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) substituted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-94ae54bbde92d14759d1dc3d73c94647]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(a)(iii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/a/iii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-94ae54bbde92d14759d1dc3d73c94647]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) inserted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(a)(iii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/a/iii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-f453a46ebdb78d3ac5a762c7a9ccb428]: Textual amendment: Words in reg. 5(4) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/176/regulation/5/b)
+[^c-f453a46ebdb78d3ac5a762c7a9ccb428]: Textual amendment: Words in reg. 5(4) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [5(b)](https://www.legislation.gov.uk/ssi/2020/176/regulation/5/b)
 
-[^key-beb3b52a65ccc2bc4c09eb0d42523989]: Textual amendment: Words in reg. 5(4) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/176/regulation/5/c)
+[^c-beb3b52a65ccc2bc4c09eb0d42523989]: Textual amendment: Words in reg. 5(4) omitted (27.6.2020) by virtue of [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [5(c)](https://www.legislation.gov.uk/ssi/2020/176/regulation/5/c)
 
-[^key-ac9861ffd69475451a9751a978c17188]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ac9861ffd69475451a9751a978c17188]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2019/421/regulation/5/4) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [13(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/13/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

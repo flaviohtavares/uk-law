@@ -30,9 +30,9 @@ summary: ''
 - (a) has been included in two or more directions given to different persons (whether or not at the same time), and
 - (b) is framed in general terms applicable to all the persons to whom those directions are given.
 
-(3)[^key-868139da29d6e91507c12d559ce22808] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-868139da29d6e91507c12d559ce22808] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-09809254d3ae0107143f88f6a0bf2eba] Where a person authorised in writing by the Secretary of State for the purposes of this Part of this Act serves an enforcement notice, the Secretary of State must give the CAA a copy of the notice.
+(4)[^c-09809254d3ae0107143f88f6a0bf2eba] Where a person authorised in writing by the Secretary of State for the purposes of this Part of this Act serves an enforcement notice, the Secretary of State must give the CAA a copy of the notice.
 
 (5) Where a person authorised in writing by the CAA for the purposes of this Part of this Act serves an enforcement notice, the CAA must give the Secretary of State a copy of the notice.
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^c794606]: Textual amendment: Ss. 18A–18E inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 4](https://www.legislation.gov.uk/ukpga/1990/31/section/4)
 
-[^key-868139da29d6e91507c12d559ce22808]: Textual amendment: S. 18A(3) omitted (1.4.2014) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 13(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/13/2) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-868139da29d6e91507c12d559ce22808]: Textual amendment: S. 18A(3) omitted (1.4.2014) by virtue of [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 13(2)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/13/2) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
-[^key-09809254d3ae0107143f88f6a0bf2eba]: Textual amendment: S. 18A(4)(5) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 13(3)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/13/3) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-09809254d3ae0107143f88f6a0bf2eba]: Textual amendment: S. 18A(4)(5) inserted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 13(3)](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/13/3) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)

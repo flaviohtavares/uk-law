@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Savings for certain privileges.[^c9341801][^key-fb04a7a468b077923963e37e264b0ce8]
+## 47. Savings for certain privileges.[^c9341801][^c-fb04a7a468b077923963e37e264b0ce8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
     [S. 47](https://www.legislation.gov.uk/ukpga/1987/43/section/47) applied (E.W.S) (28.11.2003 for certain purposes, 15.7.2004 for certain further purposes and otherwise prosp.) by [Fireworks Act 2003 (c. 22)](https://www.legislation.gov.uk/ukpga/2003/22), [ss. 13](https://www.legislation.gov.uk/ukpga/2003/22/section/13), [18](https://www.legislation.gov.uk/ukpga/2003/22/section/18) (with [s. 2(8)](https://www.legislation.gov.uk/ukpga/2003/22/section/2/8)); [S.I. 2003/3084](https://www.legislation.gov.uk/uksi/2003/3084), [art. 2](https://www.legislation.gov.uk/uksi/2003/3084/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3084/schedule); [S.I. 2004/1831](https://www.legislation.gov.uk/uksi/2004/1831), [art. 2](https://www.legislation.gov.uk/uksi/2004/1831/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1831/schedule)
 
-[^key-fb04a7a468b077923963e37e264b0ce8]: Modification: [S. 47](https://www.legislation.gov.uk/ukpga/1987/43/section/47) applied (with modifications) (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/a) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-fb04a7a468b077923963e37e264b0ce8]: Modification: [S. 47](https://www.legislation.gov.uk/ukpga/1987/43/section/47) applied (with modifications) (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 4 para. 1(1)(a)](https://www.legislation.gov.uk/uksi/2015/1640/schedule/4/paragraph/1/1/a) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
 
 [^c18727831]: Textual amendment: Words in [s. 47(2)](https://www.legislation.gov.uk/ukpga/1987/43/section/47/2) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 126](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/126); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/3))

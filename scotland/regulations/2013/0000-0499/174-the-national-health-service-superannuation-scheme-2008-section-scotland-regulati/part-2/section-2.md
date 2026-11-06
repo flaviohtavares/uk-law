@@ -29,30 +29,30 @@ In this Part—
 - “**the 1997 Act**” means the National Health Service (Primary Care) Act 1997 [^c21813811];
 - “**the 1999 Act**” means the Welfare Reform and Pensions Act 1999 [^c21813821];
 - “**the 2004 Act**” means the Finance Act 2004 [^c21813831];
-- [^key-07a63619d0adfd84e7f533fd60134f6c]...
+- [^c-07a63619d0adfd84e7f533fd60134f6c]...
 - “**the 2006 Act**” means the National Health Service Act 2006 [^c21813851];
 - “**the 2008 Act**” means the Pensions Act 2008 [^c21813861];
 - “**the 2008 Regulations**” means the National Health Service Pension Scheme (Scotland) Regulations 2008 [^c21813871];
 - “**2008 Section Optant**” has the meaning given in regulation 2.K.1 (application of Chapter 2.K);
 - “**the 2010 Regulations**” means the Occupational and Personal Pension Schemes (Automatic Enrolment) Regulations 2010 [^c21813881];
 - “**the 2011 Regulations**” means the National Health Service Superannuation Scheme (Scotland) Regulations 2011 [^c21813891];
-- “the[^key-45064701f7658dcaaeb7057a0d3b2680] 2013 Act” means the Public Service Pensions Act 2013;
-- “the 2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014[^key-f5390cf5864e13f07246fec7730ed4c7]
+- “the[^c-45064701f7658dcaaeb7057a0d3b2680] 2013 Act” means the Public Service Pensions Act 2013;
+- “the 2014 Act” means the Public Service Pensions Act (Northern Ireland) 2014[^c-f5390cf5864e13f07246fec7730ed4c7]
 - “the 2015 Scheme” means the scheme set out in the National Health Service Pension Scheme (Scotland) Regulations 2015;
 - “**active member**” has the meaning given in section 124(1) (interpretation of Part 1) of the 1995 Act and, except where the context otherwise requires, refers to membership of this Section of the scheme (but see regulation 2.D.5(9) (partial retirement: members aged at least 55));
 - “**additional pension**”, in relation to a member, except where the context otherwise requires, means so much of any pension payable to a member as is payable by virtue of contributions made under regulations 2.C.8 (option to pay additional periodical contributions), 2.C.10 (option to pay lump sum contribution) and 2.C.11 (additional lump sum contributions by employing authority);
 - “**additional services**” has the meaning given in regulation 3.A.1 (interpretation of Part 3: general);
-- “[^key-66d6173a617465783e68ab44a1bf2f3d]**approved salary sacrifice arrangement**” means an arrangement specified by the scheme manager under which the member gives up the right to receive part of their salary in return for their employer agreeing to provide the member with benefits in kind as specified by the scheme manager;
+- “[^c-66d6173a617465783e68ab44a1bf2f3d]**approved salary sacrifice arrangement**” means an arrangement specified by the scheme manager under which the member gives up the right to receive part of their salary in return for their employer agreeing to provide the member with benefits in kind as specified by the scheme manager;
 - “**assistant practitioner**” has the meaning given in regulation 3.A.1 (interpretation of Part 3: general);
 - “**automatic enrolment date**” means the date referred to in section 3(7) (automatic enrolment) of the 2008 Act;
 - “**automatic re-enrolment date**” means the date determined in accordance with regulation 12 (opting out) of the 2010 Regulations (as modified by regulation 14 (jobholders excluded from automatic re-enrolment) of those Regulations [^c21813901]);.
 - “**base rate**” means the Bank of England base rate—
   - (a) announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate, being the rate at which the Bank is willing to enter into transactions for providing short term liquidity in the money markets; or
   - (b) where an order under section 19 (reserve powers) of the Bank of England Act 1998 [^c21813911] is in force, any equivalent rate determined by the Treasury under that section;
-- “**buy-out policy**” means a policy of insurance or annuity contract that is appropriate for the purposes of section 19 (extinguishment of liability of scheme for pensions secured by insurance policies or annuity contracts) of the 1993 Act [^c21813921] and satisfies any requirement of Her Majesty’s Revenue and Customs[^key-aa3a6461815b2d9241f8da79853a7f88] and “**buy-out**” is to be construed accordingly;
+- “**buy-out policy**” means a policy of insurance or annuity contract that is appropriate for the purposes of section 19 (extinguishment of liability of scheme for pensions secured by insurance policies or annuity contracts) of the 1993 Act [^c21813921] and satisfies any requirement of Her Majesty’s Revenue and Customs[^c-aa3a6461815b2d9241f8da79853a7f88] and “**buy-out**” is to be construed accordingly;
 - “**capped transferred-in service**” is to be construed in accordance with regulation 2.F.12;
-- “**cash equivalent**” is to be construed in accordance with Chapter 1 (transfer rights: general) of Part 4ZA[^key-6d3e862849a389cedda89ac1ce36275e];
-- “**certification services**” means services related to the provision of the medical certificates listed in schedule 4 (list of prescribed medical certificates) of[^key-ed575b30b170665ce4f9d7ef9308934c] the[^key-3716c6c38bb605f1ba73ad66918cd638] GMS Contracts Regulations;
+- “**cash equivalent**” is to be construed in accordance with Chapter 1 (transfer rights: general) of Part 4ZA[^c-6d3e862849a389cedda89ac1ce36275e];
+- “**certification services**” means services related to the provision of the medical certificates listed in schedule 4 (list of prescribed medical certificates) of[^c-ed575b30b170665ce4f9d7ef9308934c] the[^c-3716c6c38bb605f1ba73ad66918cd638] GMS Contracts Regulations;
 - “civil partner” and “civil partnership” are to be construed in accordance with regulation 2.A.1A;
 - “**collaborative services**” means primary medical services provided by a GP performer, a GMS practice, a section 17C agreement provider, an HBPMS contractor or an OOH provider under or as a result of an arrangement between—
   - (a) Scottish Ministers or a Health Board; and
@@ -109,7 +109,7 @@ In this Part—
 - “**enhanced services**” has the meaning given in regulation 3.A.1 (interpretation of Part 3: general);
 - “**essential services**” has the meaning given in regulation 3.A.1 (interpretation of Part 3: general);
 - “**GMS contract**” means a contract under section 17J (health boards' power to enter into general medical services contract) of the 1978 Act [^c21814021] or under article 13 (provision of immediately necessary treatment) of the General Medical Services and Section 17C Agreements (Transitional and other Ancillary Provisions) (Scotland) Order 2004 [^c21814031];
-- “the[^key-db7e92d6711cd57147125bdcd2aae404] GMS Contracts Regulations” means the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018;
+- “the[^c-db7e92d6711cd57147125bdcd2aae404] GMS Contracts Regulations” means the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018;
 - “**GMS practice**” means—
   - (a) a registered medical practitioner [^c21814041] who is a principal practitioner;
   - (b) two or more such individuals practising in a partnership; or
@@ -188,7 +188,7 @@ In this Part—
   - (c) Christmas Day, New Year's Day and any other local or public holiday which has been agreed in writing by the Health Board when entering into a GMS contract,
 
   and part of an out of hours period means any part of any one or more of the periods described in sub-paragraphs (a) to (c);
-- “parental bereavement leave” has the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;[^key-19fedf0b9c5ce981eec30575e850d739]
+- “parental bereavement leave” has the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;[^c-19fedf0b9c5ce981eec30575e850d739]
 - “**pay period**” means, in relation to members who receive either salary, wages or other regular payments under a contract of employment or a contract for services, the period in respect of which each payment is made in accordance with the terms of that contract;
 - “**pension credit**” means a credit under section 29(1)(b) (creation of pension debits and credits) of the 1999 Act and includes a credit under corresponding Northern Ireland legislation;
 - “**pension credit member**” has the meaning given in section 124(1) (interpretation of Part 1) of the 1995 Act;
@@ -219,7 +219,7 @@ In this Part—
 - “**registered**”, in relation to a pension scheme, means registered under Chapter 2 (registration of pension schemes) of Part 4 of the 2004 Act;
 - “registered medical practitioner” means a fully registered medical practitioner within the meaning given in section 55 of the Medical Act 1983;
 - “**retail prices index**” has the meaning given in section 989 (the definitions) of the Income Tax Act 2007 [^c21814191];
-- [^key-5d561717fff1335fc45490ebc5d7070f]...
+- [^c-5d561717fff1335fc45490ebc5d7070f]...
 - “**salary sacrifice arrangement**” means an arrangement under which the member gives up the right to receive an amount of pensionable pay in return for the provision of a benefit in kind;
 - “the scheme”, except where the context otherwise requires, means the National Health Service superannuation scheme for Scotland, the rules of which are set out in these Regulations and the 2011 Regulations;
 - “**the scheme actuary**” means the actuary appointed by the Scottish Ministers for the time being to provide a consulting service on actuarial matters relevant to this Section of the scheme;
@@ -227,7 +227,7 @@ In this Part—
 - “**scheme year**” means a period of one year beginning with 1st April and ending with 31st March;
 - “**section 17C agreement**” means an agreement made under section 17C (personal medical or dental services) of the 1978 Act [^c21814211];
 - “**section 17C agreement provider**” means any person or body who is providing primary medical services in accordance with a section 17C agreement;
-- “shared parental leave” has the meaning given in regulation 3 of the Shared Parental Leave Regulations 2014;[^key-a5e525162ac24a61aaa7b7310bf57797]
+- “shared parental leave” has the meaning given in regulation 3 of the Shared Parental Leave Regulations 2014;[^c-a5e525162ac24a61aaa7b7310bf57797]
 - “**Special Health Board**” means a Special Health Board constituted under section 2(1)(b) of the 1978 Act;
 - “**State pension age**” means pensionable age, as defined in section 181(1) (general interpretation) of the 1993 Act [^c21814221];
 - “**tax year**” means a year of assessment for income tax purposes;
@@ -336,18 +336,18 @@ separate calculations must be made under paragraph (1) or, as the case may be, p
 - (a) illness or injury;
 - (b) maternity leave;
 - (c) adoption leave;
-- (d) paternity leave; [^key-5ba5e375df29a31adec1a950c06154e8]...
-- (e) parental leave or shared parental leave[^key-6dc7cbfc8bb1158deba21af9ab8ad099], or[^key-cf7f5626c8adb06d5e82cae37ecbb363]
+- (d) paternity leave; [^c-5ba5e375df29a31adec1a950c06154e8]...
+- (e) parental leave or shared parental leave[^c-6dc7cbfc8bb1158deba21af9ab8ad099], or[^c-cf7f5626c8adb06d5e82cae37ecbb363]
 - (f) parental bereavement leave.
 
 (2) The period of absence counts as pensionable service if the member contributes to this Section of the scheme under regulation 2.C.1 (contributions by members) in respect of the period of absence.
 
-(3) If a member is on leave of absence that does not fall within paragraph (1)(a) to (f)[^key-ceed31dcad03a205fba592f69488f791], and contributes to this Section of the scheme under regulation 2.C.1 by contributions made at the same intervals as those made by the member before the absence, the maximum period of such leave that can be counted as pensionable service under this paragraph is—
+(3) If a member is on leave of absence that does not fall within paragraph (1)(a) to (f)[^c-ceed31dcad03a205fba592f69488f791], and contributes to this Section of the scheme under regulation 2.C.1 by contributions made at the same intervals as those made by the member before the absence, the maximum period of such leave that can be counted as pensionable service under this paragraph is—
 
 - (a) where the member contributes for a continuous period of 6 months commencing with the first day of the member's leave of absence, 6 months; and
 - (b) where the member contributes for a continuous period of less than 6 months commencing with the first day of the member's leave of absence, the period in respect of which the member pays those contributions.
 
-(4) If, having paid contributions for the period mentioned in paragraph (3)(a) a member remains on a leave of absence that does not fall within paragraph (1)(a) to (f)[^key-52a1ceff8d70d3db8d89478c93813def] and contributes to this Section of the scheme both member contributions under regulation 2.C.1 and employer contributions under regulation 2.C.5 (contributions by employing authorities: general) by contributions made at the same intervals as those made by the member before the absence, the maximum period of such leave that can be counted as pensionable service under this paragraph is—
+(4) If, having paid contributions for the period mentioned in paragraph (3)(a) a member remains on a leave of absence that does not fall within paragraph (1)(a) to (f)[^c-52a1ceff8d70d3db8d89478c93813def] and contributes to this Section of the scheme both member contributions under regulation 2.C.1 and employer contributions under regulation 2.C.5 (contributions by employing authorities: general) by contributions made at the same intervals as those made by the member before the absence, the maximum period of such leave that can be counted as pensionable service under this paragraph is—
 
 - (a) where the member contributes for a continuous period of 18 months commencing immediately after the expiry of the period mentioned in paragraph (3)(a), 18 months; and
 - (b) where the member contributes for a continuous period of less than 18 months commencing immediately after the expiry of the period mentioned in paragraph (3)(a), the period in respect of which the member pays those contributions.
@@ -372,8 +372,8 @@ separate calculations must be made under paragraph (1) or, as the case may be, p
 - (a) illness or injury;
 - (b) maternity leave;
 - (c) adoption leave;
-- (d) paternity leave; [^key-68c9bc6ce9ddc5dc2be4df1b174b6c38]...
-- (e) parental leave or shared parental leave[^key-b53e0cdeabf73a5a3e1a54365b5ae25f], or[^key-9d5d7e84c3b9e2e9f663543fcf6a6724]
+- (d) paternity leave; [^c-68c9bc6ce9ddc5dc2be4df1b174b6c38]...
+- (e) parental leave or shared parental leave[^c-b53e0cdeabf73a5a3e1a54365b5ae25f], or[^c-9d5d7e84c3b9e2e9f663543fcf6a6724]
 - (f) parental bereavement leave
 
 this regulation applies as if the reference to 12 months in paragraph (5)(b) were a reference to three years.
@@ -402,9 +402,9 @@ this regulation applies as if the reference to 12 months in paragraph (5)(b) wer
   a period equal to the period of qualifying service (within the meaning of the 2011 Regulations), measured in years and days, that the member was entitled to count under regulation C3 (meaning of “qualifying service”) of the 2011 Regulations when the member left the 1995 Section;
 - (g) in the case of a 2008 Section Optant, any period of qualifying service the member is entitled to count under Chapter 2.K (2008 Section Optants);
 - (h) in the case of a Waiting Period Joiner (as defined in regulation 2.L.1(2)), a period equal in length to the period of qualifying service which the member is entitled to count under the 1995 Section;
-- (i)[^key-214afb6de0c6163eae176f1e70e0d6e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-214afb6de0c6163eae176f1e70e0d6e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) any period of service which the member was entitled to count as qualifying service under regulation 2.A.5 (meaning of “qualifying service”) of the 2008 Regulations immediately before these Regulations came into force.
-- (k)[^key-28faa1db1390348dc1d77855b4c8c03f] in the case of a person who—
+- (k)[^c-28faa1db1390348dc1d77855b4c8c03f] in the case of a person who—
   - (i) ceased to be an active member of the 1995 Section on leaving NHS employment,
   - (ii) became a deferred member of that Section on leaving that employment and has not since become a pensioner member of that Section between the date of leaving that employment and joining this Section of the Scheme, and
   - (iii) became an active member of this Section of the Scheme during the period beginning with 1 October 2008 and ending with 31 March 2015 and five years or more since last leaving NHS employment,
@@ -515,7 +515,7 @@ are to be converted into years by dividing the number of days by 365, and using 
 
 *Extent: S*
 
-(1) In this Part, subject to the following provisions of this regulation, “**pensionable pay**” means all salary, wages, fees , any amount equal to any part of salary given up under an approved salary sacrifice arrangement,[^key-5dd8a4e8f1c83eee1f5a4adc30f5276f] and other regular payments made to a person in respect of employment in which the person is an active member of this Section of the scheme.
+(1) In this Part, subject to the following provisions of this regulation, “**pensionable pay**” means all salary, wages, fees , any amount equal to any part of salary given up under an approved salary sacrifice arrangement,[^c-5dd8a4e8f1c83eee1f5a4adc30f5276f] and other regular payments made to a person in respect of employment in which the person is an active member of this Section of the scheme.
 
 (2) In the case of a member who, in addition to one or more such employments, holds an honorary office or appointment, any distinction award payable to the member as a consequence of holding the honorary office or appointment, is to be treated—
 
@@ -525,7 +525,7 @@ are to be converted into years by dividing the number of days by 365, and using 
 (3) “**Pensionable pay**” does not include—
 
 - (a) bonuses;
-- (aa)[^key-f73d506a02bd7831d33786691efb46b4] pay awards and pay increases that are expressed by the Scottish Ministers to be non-consolidated;
+- (aa)[^c-f73d506a02bd7831d33786691efb46b4] pay awards and pay increases that are expressed by the Scottish Ministers to be non-consolidated;
 - (b) payments made to cover expenses; or
 - (c) payments for overtime.
 
@@ -562,7 +562,7 @@ the excess pensionable pay is ignored for the purposes of this Part.
 - (c) continues in effect until cancelled or amended by a subsequent notice in writing signed by all the partners in the partnership; and
 - (d) is automatically cancelled upon a change in the members of the partnership.
 
-(12)[^key-c3ab8af1618f4dc110dc93c45e8a4a0f] Paragraphs (13) to (19) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remedial service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the Scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
+(12)[^c-c3ab8af1618f4dc110dc93c45e8a4a0f] Paragraphs (13) to (19) apply to a member who has remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 that is pensionable service under this Section of the scheme by virtue of section 2(1) of that Act (remedial service treated as pensionable under Chapter 1 legacy schemes) and whose pensionable pay and pensionable service in this Section of the Scheme is derived from contributions made to the 2015 Scheme in the relevant scheme years in respect of that remediable service, if—
 
 - (a) at any time during that period of service, the terms of the member’s employment contract required the member to work less than whole-time, according to those terms, for any period of time, and
 - (b) the member received a relevant payment.
@@ -600,8 +600,8 @@ the excess pensionable pay is ignored for the purposes of this Part.
 - (a) illness or injury;
 - (b) maternity leave;
 - (c) adoption leave;
-- (d) paternity leave; [^key-ddbb533afa3b69ee373443737a280c16]...
-- (e) parental leave or shared parental leave[^key-7ff542f8bd67bd5e9111d4ced3cffe85], or[^M_F_7a7b3183-dd36-42d2-f135-e0ab68f4b4ac]
+- (d) paternity leave; [^c-ddbb533afa3b69ee373443737a280c16]...
+- (e) parental leave or shared parental leave[^c-7ff542f8bd67bd5e9111d4ced3cffe85], or[^M_F_7a7b3183-dd36-42d2-f135-e0ab68f4b4ac]
 - (f) parental bereavement leave
 
 and the earnings used to calculate the member's pensionable pay under regulation 2.A.9 (meaning of “pensionable pay”) are reduced or cease.
@@ -613,7 +613,7 @@ and the earnings used to calculate the member's pensionable pay under regulation
 (4) For the purposes of regulations 2.C.1 and 2.C.2, if for any period whilst the member falls within—
 
 - (a) paragraph (1), the earnings used to calculate the member's pensionable pay under regulation 2.A.9 are reduced, amounts equal to the reduced earnings are to be treated as pensionable pay; and
-- (b) paragraph (1)(b) to (f)[^key-73b917bc742640f943a530acf628add0], the earnings used to calculate the member's pensionable pay under regulation 2.A.9 are reduced, during any period following that period whilst the member continues to fall within that paragraph and no such earnings are paid, amounts equal to the reduced earnings are to be treated as pensionable pay.
+- (b) paragraph (1)(b) to (f)[^c-73b917bc742640f943a530acf628add0], the earnings used to calculate the member's pensionable pay under regulation 2.A.9 are reduced, during any period following that period whilst the member continues to fall within that paragraph and no such earnings are paid, amounts equal to the reduced earnings are to be treated as pensionable pay.
 
 (5) For the purposes of paragraph (4)(b), any pay received by a woman on maternity leave in respect of any days during which the member returns to work for the purposes of keeping in touch with the workplace is to be ignored.
 
@@ -627,7 +627,7 @@ and the earnings used to calculate the member's pensionable pay under regulation
 (8) If the earnings used to calculate a member's pensionable pay cease during a period of absence to which this regulation applies—
 
 - (a) a non-GP provider falling within paragraph (1)(a) is, subject to sub-paragraph (b), to be treated as having continued in pensionable employment for a period of 12 months from the date on which the member's earnings ceased and the member is not to be treated as having left pensionable employment until the end of that 12 month period;
-- (b) a non-GP provider falling within paragraph (1)(b) to (f)[^key-2e1ca32551a0bdeb4b2c82849b68fcd4] who paid contributions on the basis of reduced earnings in accordance with paragraph (4)(b) must, subject to paragraph (9), continue to pay contributions at that rate, except that no refund of contributions or other benefit is payable until the member actually leaves pensionable employment; and
+- (b) a non-GP provider falling within paragraph (1)(b) to (f)[^c-2e1ca32551a0bdeb4b2c82849b68fcd4] who paid contributions on the basis of reduced earnings in accordance with paragraph (4)(b) must, subject to paragraph (9), continue to pay contributions at that rate, except that no refund of contributions or other benefit is payable until the member actually leaves pensionable employment; and
 - (c) a member other than a non-GP provider is, subject to paragraph (5), to be treated as having left pensionable employment except that no refund of contributions or other benefit is payable until the member actually leaves pensionable employment.
 
 (9) For the purposes of paragraph (8)(a)—
@@ -907,14 +907,14 @@ that approval takes effect on the later of the nominated date (if any) and the a
 
 *Extent: S*
 
-(1) A person is eligible to be an active member of this Section of the scheme on or after 1st April 2015[^key-53dfbec9c42e7a85aef6167db6889add] if conditions A to C are met and the person is not prevented by regulation 2.B.3 (restrictions on eligibility: general), 2.B.4 (concurrent employments) or 2.B.7 (restriction on further participation).
+(1) A person is eligible to be an active member of this Section of the scheme on or after 1st April 2015[^c-53dfbec9c42e7a85aef6167db6889add] if conditions A to C are met and the person is not prevented by regulation 2.B.3 (restrictions on eligibility: general), 2.B.4 (concurrent employments) or 2.B.7 (restriction on further participation).
 
 (2) Condition A is that the person is in NHS employment.
 
-(3)[^key-61c464bd38cfb2c4d423723c68a36262] Condition B is that the person—
+(3)[^c-61c464bd38cfb2c4d423723c68a36262] Condition B is that the person—
 
 - (a) enters NHS employment on or after 1st April 2008 and has service (“relevant service”) as an active member of this Section of the scheme—
-  - (i) [^key-ac7111107a5d99bed78516ab788242e0]... before 1st April 2012; or
+  - (i) [^c-ac7111107a5d99bed78516ab788242e0]... before 1st April 2012; or
   - (ii) after 1st April 2012, but only where that service is pursuant to the provisions of Chapter 2.K;
 - (b) has not had a break in service for any one period of five years or more ending in the period starting on 2nd April 2012 and finishing on 1st April 2015; and
 - (c) meets all of the “other Section conditions” (see paragraph (5)).
@@ -985,11 +985,11 @@ that approval takes effect on the later of the nominated date (if any) and the a
 
 *Extent: S*
 
-(A1)[^key-04ab8c2323753ea89ddd56e33aef98c7] A person is not eligible to be an active member of this Section of the scheme in respect of service in NHS employment after 31st March 2022.
+(A1)[^c-04ab8c2323753ea89ddd56e33aef98c7] A person is not eligible to be an active member of this Section of the scheme in respect of service in NHS employment after 31st March 2022.
 
 (A2) Paragraphs (1) to (7) of this regulation apply in respect of service in NHS employment before 1st April 2022.
 
-(A3)[^key-315d74376dd2a945f868dc4e8a84f05b] Nothing in paragraph (1A) and paragraphs (1C) to (1L) of this regulation prevents a member’s remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 being treated as pensionable service under this Section of the scheme in accordance with section 2 of that Act (Remediable service treated as pensionable under Chapter 1 legacy schemes).
+(A3)[^c-315d74376dd2a945f868dc4e8a84f05b] Nothing in paragraph (1A) and paragraphs (1C) to (1L) of this regulation prevents a member’s remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 being treated as pensionable service under this Section of the scheme in accordance with section 2 of that Act (Remediable service treated as pensionable under Chapter 1 legacy schemes).
 
 (1) A person who is entitled to the immediate payment of a pension under this Section of the scheme under a regulation that requires the person not to be in NHS employment may only be an active member in accordance with—
 
@@ -997,7 +997,7 @@ that approval takes effect on the later of the nominated date (if any) and the a
 - (b) regulation 2.D.13 (exceptions to requirement that NHS employment must have ceased); or
 - (c) Chapter 2.G (re-employment and rejoining the scheme).
 
-(1A)[^key-74df017cebc61e2243d2845891b6ad8d] A person who was born on or after 1st September 1960 is not eligible to be an active member of this Section of the scheme in respect of service in NHS employment on or after 1st April 2015.
+(1A)[^c-74df017cebc61e2243d2845891b6ad8d] A person who was born on or after 1st September 1960 is not eligible to be an active member of this Section of the scheme in respect of service in NHS employment on or after 1st April 2015.
 
 (1B) A person is not eligible to be an active member of this Section of the scheme if that person has had a break in service ending on or after 2nd April 2012, and any of the following apply—
 
@@ -1035,16 +1035,16 @@ where—
 (1H) Paragraph (1I) applies to a person where in the opinion of the Scottish Ministers—
 
 - (a) that person was previously an active member of a corresponding 2008 scheme;
-- (b) the regulations governing that corresponding scheme include provisions pursuant to subsection (5) of section 18 of the 2013 Act or subsection (5) of section 18 of the 2014 Act[^key-24c0011d4926021eac846b1a81b53314] that provide for exceptions to subsection (1) of those sections[^key-7a8d4f85124621acaab9c26b0ada6a23], and
+- (b) the regulations governing that corresponding scheme include provisions pursuant to subsection (5) of section 18 of the 2013 Act or subsection (5) of section 18 of the 2014 Act[^c-24c0011d4926021eac846b1a81b53314] that provide for exceptions to subsection (1) of those sections[^c-7a8d4f85124621acaab9c26b0ada6a23], and
 - (c) pursuant to those provisions, the member would have been eligible to re-join that corresponding scheme if the member had returned to NHS employment for the purposes of that scheme on the day the member commenced NHS employment within the meaning of these Regulations.
 
 (1I) (The Scottish Ministers may permit a person referred to in paragraph (1H) to join this Section of the scheme and, for the purposes of paragraphs (1C) to (1G), the member’s previous pensionable employment under the corresponding scheme referred to in paragraph (1H) will be treated as is it were previous pensionable employment under this section of the Scheme.
 
 (1J) (Paragraph (1K) applies to a person where in the opinion of the Scottish Ministers—
 
-- (a) that person was previously an active member in respect of service in an existing scheme (within the meaning of Schedule 5 to the 2013 Act or Schedule 5 to the 2014 Act[^key-34a4c33bd5abb0a6bcfcc34b8f6a280d]);
+- (a) that person was previously an active member in respect of service in an existing scheme (within the meaning of Schedule 5 to the 2013 Act or Schedule 5 to the 2014 Act[^c-34a4c33bd5abb0a6bcfcc34b8f6a280d]);
 - (b) that person is not receiving a pension in respect of that service on the relevant day;
-- (c) the regulations of that existing scheme include provisions pursuant to subsection (5) of section 18 of the 2013 Act or subsection (5) of section 18 of the 2014 Act[^key-b2e6090ea6bcfb87d262a971e3587c15] that provide for exceptions to subsection (1) of those sections[^key-b1c0eeaed1ba8f6fb57e893372d735f1];
+- (c) the regulations of that existing scheme include provisions pursuant to subsection (5) of section 18 of the 2013 Act or subsection (5) of section 18 of the 2014 Act[^c-b2e6090ea6bcfb87d262a971e3587c15] that provide for exceptions to subsection (1) of those sections[^c-b1c0eeaed1ba8f6fb57e893372d735f1];
 - (d) pursuant to those provisions, the person would have been eligible to be an active member of the existing scheme if the member had returned to employment for the purposes of that scheme on the relevant day; and
 - (e) the member would, if the member’s previous service in the existing scheme had been previous service under this Section of the scheme, have been eligible for active membership of this Section of the scheme on the relevant day pursuant to paragraphs (1A) to (1G).
 
@@ -1071,7 +1071,7 @@ where—
 
 (2) A person is not eligible to be an active member of this Section of the scheme if the person—
 
-- (a) became a pensioner member of the 1995 Section or a corresponding 1995 scheme before 1st April 2008 (except if regulation 2.B.2(1)(b)(i) (eligibility: transitional) applies to that person or that person became an active member of this Section of the scheme before reaching normal benefit age for the purposes of the 1995 Section[^key-6a1f0874ba30a5fd834e4007275a9053]);
+- (a) became a pensioner member of the 1995 Section or a corresponding 1995 scheme before 1st April 2008 (except if regulation 2.B.2(1)(b)(i) (eligibility: transitional) applies to that person or that person became an active member of this Section of the scheme before reaching normal benefit age for the purposes of the 1995 Section[^c-6a1f0874ba30a5fd834e4007275a9053]);
 - (b) became a pensioner member of the 1995 Section or a corresponding 1995 scheme on or after that date (except if regulation 2.B.2(1)(b)(i) or (ii) (eligibility: transitional) applies to that person); or
 - (c) is a deferred member of the 1995 Section or a corresponding 1995 scheme, but is not a deferred member—
   - (i) to whom regulation 2.B.1(5)(e), (f), (g) or (h) (eligibility: general) applies; and
@@ -1144,7 +1144,7 @@ where—
 - (a) from the beginning of the first pay period to begin after the notice is received by the employing authority; or
 - (b) if the notice specifies a later date, from the beginning of the first pay period after that in which the specified date falls.
 
-(4) A person to whom regulation 2.B.5(1)(a) applies in respect of an employment who gives notice in writing under paragraph (1) within three months[^key-b99e5754030912ba298d550cb36d082d] of the date of commencing that NHS employment, is to be treated as not having become an active member by virtue of that regulation.
+(4) A person to whom regulation 2.B.5(1)(a) applies in respect of an employment who gives notice in writing under paragraph (1) within three months[^c-b99e5754030912ba298d550cb36d082d] of the date of commencing that NHS employment, is to be treated as not having become an active member by virtue of that regulation.
 
 (5) A notice under paragraph (1) ceases to have effect on the day immediately preceding, as the case may be, the person's—
 
@@ -1201,19 +1201,19 @@ where—
 
 (1) Contributions under regulation 2.C.1(1)(a) (contributions by members) must be paid at the member's contribution rate for the scheme year in question.
 
-(2) Where paragraph (2) of regulation 2.C.3 applies, a member's contribution rate—[^key-40a026e066338cfa2321d3732db3289b]
+(2) Where paragraph (2) of regulation 2.C.3 applies, a member's contribution rate—[^c-40a026e066338cfa2321d3732db3289b]
 
 - (a) for the scheme year 2015-16 is the percentage specified in column 2 of table 1 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls;
-- (b) for the scheme year 2016-17 is the percentage specified in column 2 of table 2 ;[^key-0fa747625f22c29ad0cb4168702e6508]
-- (c) for the scheme year 2017-18 is the percentage specified in column 2 of table 3 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls ;[^key-f2c17a7515f3a4109e63a79c8f902c4a]
-- (d) for the scheme year 2018-19 is the percentage specified in column 2 of table 4 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls ;[^key-09554f4d235fa7953e5bab831f4d1e10]
-- (e) for the scheme year 2019-20 is the percentage specified in column 2 of table 5 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls;[^key-e769de6b2f387429bc25e2df9df56fa5]
+- (b) for the scheme year 2016-17 is the percentage specified in column 2 of table 2 ;[^c-0fa747625f22c29ad0cb4168702e6508]
+- (c) for the scheme year 2017-18 is the percentage specified in column 2 of table 3 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls ;[^c-f2c17a7515f3a4109e63a79c8f902c4a]
+- (d) for the scheme year 2018-19 is the percentage specified in column 2 of table 4 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls ;[^c-09554f4d235fa7953e5bab831f4d1e10]
+- (e) for the scheme year 2019-20 is the percentage specified in column 2 of table 5 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls;[^c-e769de6b2f387429bc25e2df9df56fa5]
 - (f) for the scheme year 2020-21 is the percentage specified in column 2 of table 6 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls;
-- (g)[^key-0e0f8c30ab5afdb2e563266c7c65f31d] for the scheme year 2021-22 is the percentage specified in column 2 of table 7 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls.
+- (g)[^c-0e0f8c30ab5afdb2e563266c7c65f31d] for the scheme year 2021-22 is the percentage specified in column 2 of table 7 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member’s pensionable pay falls.
 
 in respect of the corresponding pensionable pay band specified in column 1 of that table into which the member's pensionable pay falls.
 
-Table 1[^key-97c9c5d42ba381911d5b71c571f65097][^key-f7efdde338cdd946572dc143bba6a46a]
+Table 1[^c-97c9c5d42ba381911d5b71c571f65097][^c-f7efdde338cdd946572dc143bba6a46a]
 
 | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
 | --- | --- |
@@ -1225,7 +1225,7 @@ Table 1[^key-97c9c5d42ba381911d5b71c571f65097][^key-f7efdde338cdd946572dc143bba6
 | £71,338 - £111,376 | 13.7% |
 | £111,377 to any higher amount | 14.7% |
 
-Table 2[^key-ad0fe29516c1b1e0b4c22c74eeb699b7]
+Table 2[^c-ad0fe29516c1b1e0b4c22c74eeb699b7]
 
 | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
 | --- | --- |
@@ -1237,7 +1237,7 @@ Table 2[^key-ad0fe29516c1b1e0b4c22c74eeb699b7]
 | £72,051 - £112,490 | 13.7% |
 | £112,491 to any higher amount | 14.7% |
 
-Table 3[^key-04e431e1b516863cc880b253eb6d502c]
+Table 3[^c-04e431e1b516863cc880b253eb6d502c]
 
 | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
 | --- | --- |
@@ -1249,7 +1249,7 @@ Table 3[^key-04e431e1b516863cc880b253eb6d502c]
 | £72,771 - £113,625 | 13.7% |
 | £113,626 to any higher amount | 14.7% |
 
-Table 4[^key-8ca84429857819e88503739f63988764]
+Table 4[^c-8ca84429857819e88503739f63988764]
 
 | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
 | --- | --- |
@@ -1261,7 +1261,7 @@ Table 4[^key-8ca84429857819e88503739f63988764]
 | £73,499 to £114,760 | 13.7% |
 | £114,761 to any higher amount | 14.7% |
 
-Table 5[^key-e311e489586412149b4e2233254b45fe]
+Table 5[^c-e311e489586412149b4e2233254b45fe]
 
 <table>
 <thead>
@@ -1279,7 +1279,7 @@ Table 5[^key-e311e489586412149b4e2233254b45fe]
 </tbody>
 </table>
 
-Table 6[^key-74277f87d43f863690a4b7dd2e246207]
+Table 6[^c-74277f87d43f863690a4b7dd2e246207]
 
 | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
 | --- | --- |
@@ -1291,7 +1291,7 @@ Table 6[^key-74277f87d43f863690a4b7dd2e246207]
 | £79,802 - £117,960 | 13.7% |
 | £117,961 to any higher amount | 14.7% |
 
-Table 7[^key-085b8bca794fc01f0d2165e8a44d416a]
+Table 7[^c-085b8bca794fc01f0d2165e8a44d416a]
 
 | *Column 1*<br>*Pensionable pay band* | *Column 2*<br>*Contribution percentage rate* |
 | --- | --- |
@@ -1303,11 +1303,11 @@ Table 7[^key-085b8bca794fc01f0d2165e8a44d416a]
 | £89,732 - £119,560 | 13.7% |
 | £119,561 to any higher amount | 14.7% |
 
-(3)[^key-6cc912dc99069e1953ba1bf95698308f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6cc912dc99069e1953ba1bf95698308f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6cc912dc99069e1953ba1bf95698308f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6cc912dc99069e1953ba1bf95698308f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4ad2d26a6b82f3923760db1500dfb878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4ad2d26a6b82f3923760db1500dfb878] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2.C.3. Determination of pensionable pay for the purposes of setting a contribution rate for members other than non-GP providers
 
@@ -1336,7 +1336,7 @@ Table 7[^key-085b8bca794fc01f0d2165e8a44d416a]
 - (b) paid contributions in respect of that employment at the same percentage rate throughout that previous scheme year; and
 - (c) is employed by that authority on the first day of the current scheme year,
 
-the member must pay contributions during the current scheme year at the rate specified in column 2 of the applicable table[^key-89ef118c52982e8d2f410add8f0ffa01] in regulation 2.C.2(2) (contribution rate for members other than non-GP providers) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member's pensionable pay received during the previous scheme year.
+the member must pay contributions during the current scheme year at the rate specified in column 2 of the applicable table[^c-89ef118c52982e8d2f410add8f0ffa01] in regulation 2.C.2(2) (contribution rate for members other than non-GP providers) in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the member's pensionable pay received during the previous scheme year.
 
 (5) If a member—
 
@@ -1507,11 +1507,11 @@ where—
 
 *NDPE* is the number of days of pensionable employment with that authority for the period commencing on the date the member's contribution rate last changed in that previous scheme year and ending on the last day of that previous scheme year.
 
-(16) If, at any time during the current scheme year, a member commences a new employment, the member must pay contributions in respect of that employment at the rate specified in column 2 of table 7[^key-774d41e6445be896d272444e41d455b5] in regulation 2.C.2(2)[^key-9c7c21d146485419a3c00d3caf679779] in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member's pensionable pay determined in accordance with paragraph (20).
+(16) If, at any time during the current scheme year, a member commences a new employment, the member must pay contributions in respect of that employment at the rate specified in column 2 of table 7[^c-774d41e6445be896d272444e41d455b5] in regulation 2.C.2(2)[^c-9c7c21d146485419a3c00d3caf679779] in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member's pensionable pay determined in accordance with paragraph (20).
 
 (17) Subject to paragraph (18), if at any time during the current scheme year, a change is made to a member's annual rate of pensionable pay or pensionable allowances in respect of an existing employment the member must pay contributions—
 
-- (a) from the first day of the pay period in which the change is made at the rate specified in column 2 of table 7[^key-d9efb3234718997bf0a83d583c3f7108] in regulation 2.C.2(2)[^key-63ed49f848f32063e6ff2243c9a81af9] in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member's pensionable pay determined in accordance with paragraph (20); and
+- (a) from the first day of the pay period in which the change is made at the rate specified in column 2 of table 7[^c-d9efb3234718997bf0a83d583c3f7108] in regulation 2.C.2(2)[^c-63ed49f848f32063e6ff2243c9a81af9] in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member's pensionable pay determined in accordance with paragraph (20); and
 - (b) as if the member's employment had commenced on that day.
 
 (18) Paragraph (17) does not apply to a change made to a member's annual rate of pensionable allowances in respect of an existing employment that is determined by that member's employer to have been made in respect of—
@@ -1538,8 +1538,8 @@ with the amount determined under sub-paragraph (a) being the member's pensionabl
 
 (21) If none of paragraphs (4) to (17) apply—
 
-- (a) the Scottish Ministers must determine the amount of the member's pensionable pay, and in doing so must[^key-f6dffb02a86624222302721440c70e85]... have regard to the pensionable pay attributable to pensionable employment comparable to the member's employment, prevailing pay scales and prevailing rates of pensionable allowances; and
-- (b) the member must pay contributions at the rate specified in column 2 of table 7[^key-6afb806bcd49c36a1a32549946cf44a1] in regulation 2.C.2(2)[^key-6d1a3af6c8afeec080b54ba581d1c33c] in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member's pensionable pay determined in accordance with paragraph (a).
+- (a) the Scottish Ministers must determine the amount of the member's pensionable pay, and in doing so must[^c-f6dffb02a86624222302721440c70e85]... have regard to the pensionable pay attributable to pensionable employment comparable to the member's employment, prevailing pay scales and prevailing rates of pensionable allowances; and
+- (b) the member must pay contributions at the rate specified in column 2 of table 7[^c-6afb806bcd49c36a1a32549946cf44a1] in regulation 2.C.2(2)[^c-6d1a3af6c8afeec080b54ba581d1c33c] in respect of the amount of pensionable pay referred to in column 1 of that table which corresponds to the amount of the member's pensionable pay determined in accordance with paragraph (a).
 
 (22) In any case where paragraph (16) applies and it is apparent at the time when the person becomes an active member in an employment under this Part the person's pensionable pay in that employment includes any amount that is variable, that amount is to be taken as such amount as the employing authority consider appropriate for the current scheme year scheme year and, in the case of a member who works part time, is the variable amount that would be paid in respect of a comparable whole-time employment.
 
@@ -1593,13 +1593,13 @@ with the amount determined under sub-paragraph (a) being the member's pensionabl
 - (a) deduct contributions under this regulation from any pensionable earnings the authority pays that person; and
 - (b) if it is not also the contracting Health Board, pay those contributions to that contracting Health Board or someone appointed to act on their behalf not later than the 7th day of the month following the month in which the earnings were paid.
 
-(15)[^key-866e31241978aec334492f976edd16aa] For the purposes of this paragraph, the “relevant table” means—
+(15)[^c-866e31241978aec334492f976edd16aa] For the purposes of this paragraph, the “relevant table” means—
 
 - (a) in respect of the 2014-2015 scheme year, table 1;
-- (b)[^key-10f03a15edcef27bc7b0de0a770ea3ee] in respect of the 2015-16 scheme year, table 2;
+- (b)[^c-10f03a15edcef27bc7b0de0a770ea3ee] in respect of the 2015-16 scheme year, table 2;
 - (c) in respect of the 2016-17 scheme year, table 3.
 
-  Table 1: Scheme Year 2014-15[^key-38bcb5d541540ee539a6fe6663b4863a]
+  Table 1: Scheme Year 2014-15[^c-38bcb5d541540ee539a6fe6663b4863a]
 
   | *Column 1*<br>*Pensionable earnings band* | *Column 2*<br>*Contribution percentage rate* |
   | --- | --- |
@@ -1648,7 +1648,7 @@ with the amount determined under sub-paragraph (a) being the member's pensionabl
 
 (3) If, for any period, a person holds more than one employment with an employing authority in respect of which the person is an active member of this Section of the scheme, this regulation and regulation 2.C.6 (contributions by employing authorities: early retirement on termination of employment) apply in respect of each of those employments as if it were the only employment held.
 
-(4) The employer's standard rate is 20.9%[^key-4949bc9635ccd0ea8f5cc23f65a2fd9c]%.
+(4) The employer's standard rate is 20.9%[^c-4949bc9635ccd0ea8f5cc23f65a2fd9c]%.
 
 (5) In any particular case the Scottish Ministers may direct that, for the purposes of this Chapter, “**employing authority**” includes one or more of—
 
@@ -1727,7 +1727,7 @@ that employing authority must pay employer's standard rate contributions to the 
 
 *Extent: S*
 
-[^key-9127e1782163912c6d680036fd570a34]
+[^c-9127e1782163912c6d680036fd570a34]
 
 (1) An active member may opt to make additional periodical contributions by monthly instalments during the contribution option period—
 
@@ -1780,14 +1780,14 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-5910d272665b90da9578494fd4545799]
+[^c-5910d272665b90da9578494fd4545799]
 
 (1) This paragraph applies if during the contribution option period a member who has exercised the option under regulation 2.C.8 (option to pay additional periodical contributions) is—
 
 - (a) absent from work because of illness or injury;
 - (b) on maternity leave;
 - (c) on adoption leave;
-- (d) on paternity leave or on parental bereavement leave[^key-fcfdcd73911606098f20402f095348a6];
+- (d) on paternity leave or on parental bereavement leave[^c-fcfdcd73911606098f20402f095348a6];
 - (e) on parental leave; or
 - (f) on a leave of absence of the kind mentioned in regulation 2.A.5(3) (pensionable service: breaks in service).
 
@@ -1810,7 +1810,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-c15a230f55474ef15a7054e3bd152b16]
+[^c-c15a230f55474ef15a7054e3bd152b16]
 
 (1) An active member may opt to make a single lump sum contribution—
 
@@ -1849,7 +1849,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-8bd9c0bea6298f1225f7937a84a84ef2]
+[^c-8bd9c0bea6298f1225f7937a84a84ef2]
 
 (1) The employing authority of an active member may opt to make a single lump sum contribution—
 
@@ -1878,7 +1878,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-540c119de1491028e95822b70a0942f0]
+[^c-540c119de1491028e95822b70a0942f0]
 
 (1) A member exercising an option under regulation 2.C.8 (option to pay additional periodical contributions) or 2.C.10 (option to pay lump sum contribution) must—
 
@@ -1919,7 +1919,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-9cf55092378c83cd080d4d12e585aa03]
+[^c-9cf55092378c83cd080d4d12e585aa03]
 
 (1) A member may cancel an option under regulation 2.C.8(1) (option to pay additional periodical contributions) by giving the employing authority notice in writing.
 
@@ -1937,7 +1937,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-ceea063771bd1f9e919cfb575dfd9144]
+[^c-ceea063771bd1f9e919cfb575dfd9144]
 
 (1) This regulation applies if—
 
@@ -1971,7 +1971,7 @@ may not exceed £5000 or such other amount as the Scottish Ministers may for the
 
 *Extent: S*
 
-[^key-3cf15898820b7cc7d69991212874bdb4]
+[^c-3cf15898820b7cc7d69991212874bdb4]
 
 (1) If a member in respect of whom an option under regulation 2.C.8 (option to pay additional periodical contributions), 2.C.10 (option to pay lump sum contribution) or 2.C.11 (lump sum contributions by employing authority) has been exercised dies before the end of the period of 12 months beginning with the date on which the option was exercised—
 
@@ -2006,7 +2006,7 @@ the increase in the member's pension under Chapter 2.D (members' retirement bene
 
 *Extent: S*
 
-[^key-3b3393d3f94f55d9042a16c590d590e7]
+[^c-3b3393d3f94f55d9042a16c590d590e7]
 
 (1) This regulation applies if—
 
@@ -2030,7 +2030,7 @@ the increase in the member's pension under Chapter 2.D (members' retirement bene
 
 *Extent: S*
 
-[^key-f7638511c32557d4dfe0ee899397b2d3]
+[^c-f7638511c32557d4dfe0ee899397b2d3]
 
 (1) Where an option under regulation 2.C.8 (option to pay additional periodical contributions), 2.C.10 (option to pay lump sum contribution) or 2.C.11 (lump sum contributions by employing authority) has been exercised, the final amount of the increase in a member's pension immediately before the beginning date for that pension must be determined in accordance with this regulation.
 
@@ -2080,12 +2080,12 @@ the increase in the member's pension under Chapter 2.D (members' retirement bene
 
 *Extent: S*
 
-[^key-ebcad1cc65c22325b38c1d439a519b88]
+[^c-ebcad1cc65c22325b38c1d439a519b88]
 
 (1) The contributions made by a member under this Chapter are not repayable in any circumstances unless—
 
 - (a) paragraph (2) applies; or
-- (b) Chapter 2 (early leavers: cash transfer sums and contribution refunds) of Part 4ZA[^key-7e9aa564fcabc4ec5fd1b2cefdb79277] of the 1993 Act applies and the payment is made in accordance with that Chapter.
+- (b) Chapter 2 (early leavers: cash transfer sums and contribution refunds) of Part 4ZA[^c-7e9aa564fcabc4ec5fd1b2cefdb79277] of the 1993 Act applies and the payment is made in accordance with that Chapter.
 
 (2) This paragraph applies if—
 
@@ -2094,7 +2094,7 @@ the increase in the member's pension under Chapter 2.D (members' retirement bene
 - (c) paragraph (1)(b) does not apply; and
 - (d) the person claims repayment of contributions under this regulation by applying in writing to the Scottish Ministers.
 
-(3) If paragraph (1)(b) applies, the person is entitled to be paid the amount to which the person is entitled under Chapter 2 of Part 4ZA[^key-ae2e9caaa0f0741f5dab97e267c059c2] of the 1993 Act, less—
+(3) If paragraph (1)(b) applies, the person is entitled to be paid the amount to which the person is entitled under Chapter 2 of Part 4ZA[^c-ae2e9caaa0f0741f5dab97e267c059c2] of the 1993 Act, less—
 
 - (a) such part of any contributions equivalent premium paid in respect of the person as is permitted by or under section 61 (deduction of contributions equivalent premium) of the 1993 Act; and
 - (b) an amount equal to the income tax payable under section 205 (short service refund lump sum charge) of the 2004 Act as a result of the repayment.
@@ -2112,7 +2112,7 @@ is entitled to interest on the amount of the repayment unless the person's pensi
 
 (7) Subject to paragraphs (8) and (9), the interest is calculated on a compound basis at the rate of 2.5% per year, with yearly rests, for the period starting on 1st April after the contributions were paid and ending with the day the member leaves pensionable service.
 
-(8) Paragraph (7) does not apply if paragraph (1)(b) applies and the person is entitled to a greater amount of interest under Chapter 2 of Part 4ZA[^key-0a41f7f5017a0c52d172aa581350cd63] of the 1993 Act.
+(8) Paragraph (7) does not apply if paragraph (1)(b) applies and the person is entitled to a greater amount of interest under Chapter 2 of Part 4ZA[^c-0a41f7f5017a0c52d172aa581350cd63] of the 1993 Act.
 
 (9) So far as the contributions were paid under another scheme and were included in a transfer payment to this Section of the scheme—
 
@@ -2234,16 +2234,16 @@ is increased.
 (1) An active member or a non-contributing member may exercise an option under this regulation if—
 
 - (a) the member has reached age 55 and—
-  - (i) continues to be employed in the employment in which the member is an active member of the 2015 Scheme[^key-344b459e805dbb259478515610d9aa76]; or
+  - (i) continues to be employed in the employment in which the member is an active member of the 2015 Scheme[^c-344b459e805dbb259478515610d9aa76]; or
   - (ii) where the member has more than one such employment, in at least one of those employments;
 - (b) the member would be entitled to a pension for life, by virtue of regulation 2.D.1(1)(b)(i) (normal retirement pensions), if the member had—
   - (i) reached age 65;
   - (ii) ceased to be so employed; and
   - (iii) claimed payment of the pension;
 - (c) the terms on which the member holds the employment or employments referred to in sub-paragraph (a) change; and
-- (d) as a result of the change described in sub-paragraph (c), the annual rate of the member's pensionable pay is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^key-2d5ffcab9fd3ebaa4940d6218ee4182d] to 90% or less of the amount of the member's pensionable pay during the period of 12 months ending with the option day.
+- (d) as a result of the change described in sub-paragraph (c), the annual rate of the member's pensionable pay is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^c-2d5ffcab9fd3ebaa4940d6218ee4182d] to 90% or less of the amount of the member's pensionable pay during the period of 12 months ending with the option day.
 
-(2) If the member was not an active member of the 2015 Scheme[^key-c348f26741fbfe80c2739a2e0b0365d5] during the whole of the period of 12 months mentioned in paragraph (1)(d), that paragraph applies as if the member's pensionable pay during that period were—
+(2) If the member was not an active member of the 2015 Scheme[^c-c348f26741fbfe80c2739a2e0b0365d5] during the whole of the period of 12 months mentioned in paragraph (1)(d), that paragraph applies as if the member's pensionable pay during that period were—
 
 [formula: see source](https://www.legislation.gov.uk/ssi/2013/174)
 
@@ -2272,9 +2272,9 @@ where—
 
 - (a) the pension to which the member becomes entitled as a result of the option (before the exercise of the option under regulation 2.D.14 (general option to exchange part of pension for lump sum) and disregarding any additional pension)—
   - (i) is not less than the amount of the pension payable by reference to 20% of the member's pensionable service at the end of the option day (disregarding any additional pension); and
-  - (ii) taken together with any such increase to which the member becomes entitled as a result of the option (before any such commutation), is not less than 0.05% of the member's lump sum and death benefit allowance[^key-6a858de31c00bc9f74d50f83ab8acc14] on the option day;
-- (b)[^key-3219a0130754d22ca9323417c6dd3f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-dba2f9b4300794399934972634f070c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) taken together with any such increase to which the member becomes entitled as a result of the option (before any such commutation), is not less than 0.05% of the member's lump sum and death benefit allowance[^c-6a858de31c00bc9f74d50f83ab8acc14] on the option day;
+- (b)[^c-3219a0130754d22ca9323417c6dd3f87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-dba2f9b4300794399934972634f070c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The option under this regulation may only be exercised on no more than two occasions, and the Scottish Ministers must take advice from the scheme actuary regarding—
 
@@ -2287,12 +2287,12 @@ where—
 (9) For the purposes of this Part, a member who has exercised the option under this regulation—
 
 - (a) is a pensioner member as respects the specified percentage of the pension to which the member is immediately entitled as a result of exercising the option and the percentage of the pensionable service that represents as respects which the member is an active member on the option day;
-- (b) if the member continues in pensionable service in the 2015 Scheme[^key-b3bb205cb206a751840e8c938bd90151] after the option day, is an active member or a non-contributing member as respects—
+- (b) if the member continues in pensionable service in the 2015 Scheme[^c-b3bb205cb206a751840e8c938bd90151] after the option day, is an active member or a non-contributing member as respects—
   - (i) the pensionable service after that day in which the member continues; and
   - (ii) so much of the pensionable service as respects which the member is an active member or a non-contributing member on the option day as does not fall within sub-paragraph (a) (“the unspecified service”); and
 - (c) if the member does not continue in pensionable service after the option day, is a deferred member as respects the unspecified service.
 
-(9A)[^key-60ca25a519aa5b318b49b29bb73cf999] For the purposes of this regulation, in the case of a non-contributing member, “**pensionable pay**” means the member’s pensionable earnings for the purposes of the 2015 Scheme.
+(9A)[^c-60ca25a519aa5b318b49b29bb73cf999] For the purposes of this regulation, in the case of a non-contributing member, “**pensionable pay**” means the member’s pensionable earnings for the purposes of the 2015 Scheme.
 
 (10) In the case of a 2008 Section Optant, this regulation is subject to regulation 2.K.12.
 
@@ -2304,8 +2304,8 @@ where—
 
 - (a) during the period of 12 months beginning with the day after the option day, the terms on which the member holds the employment or employments referred to in regulation 2.D.5(1)(a) change again; and
 - (b) either—
-  - (i) as a result the member's pensionable pay in that employment or those employments is increased (disregarding any increase in pensionable pay resulting from the member leaving a salary sacrifice arrangement)[^key-27d4d2b85495b8bbb076f649bcb88ac2] to more than 90% of the member's pensionable pay during the period 12 months ending with the option day; or
-  - (ii) following an increase referred to in head (i), the member's pensionable pay or less[^key-fbfa82f8d3f71b5756a624f33b5f0354] in that employment or those employments is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^key-edb17f5d1809651f59e41d1aa36c9286] to [^key-46d4df7694e8140983817fb1cc5254fd]... 90% of the member's pensionable pay or less during the period of 12 months ending with the option day.
+  - (i) as a result the member's pensionable pay in that employment or those employments is increased (disregarding any increase in pensionable pay resulting from the member leaving a salary sacrifice arrangement)[^c-27d4d2b85495b8bbb076f649bcb88ac2] to more than 90% of the member's pensionable pay during the period 12 months ending with the option day; or
+  - (ii) following an increase referred to in head (i), the member's pensionable pay or less[^c-fbfa82f8d3f71b5756a624f33b5f0354] in that employment or those employments is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^c-edb17f5d1809651f59e41d1aa36c9286] to [^c-46d4df7694e8140983817fb1cc5254fd]... 90% of the member's pensionable pay or less during the period of 12 months ending with the option day.
 
 (2) In the circumstances referred to in—
 
@@ -2340,13 +2340,13 @@ where—
 
 *Extent: S*
 
-(1) This regulation provides for the application of regulations 2.D.5 (partial retirement: members aged at least 55) and 2.D.6 (increase in pensionable pay following exercise of option) if a person is an active member of the 2015 Scheme[^key-f8cfd560a1d2338b7b5565d0958bc533] in two or more part-time employments held concurrently on the option day.
+(1) This regulation provides for the application of regulations 2.D.5 (partial retirement: members aged at least 55) and 2.D.6 (increase in pensionable pay following exercise of option) if a person is an active member of the 2015 Scheme[^c-f8cfd560a1d2338b7b5565d0958bc533] in two or more part-time employments held concurrently on the option day.
 
 (2) Those regulations apply in relation to each of the employments as if it were the only employment held by the member on that day, but subject to the following modifications.
 
 (3) In regulation 2.D.5(1) for sub-paragraph (d) substitute—
 
-> - (d) as a result the sum of the annual rate of the member's pensionable pay in that employment and every other employment held by the member on the option day is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^key-171c4878be69709ebdfb08b9d793e3ec] to 90% or less of the sum of—
+> - (d) as a result the sum of the annual rate of the member's pensionable pay in that employment and every other employment held by the member on the option day is reduced (disregarding any reduction in pensionable pay resulting from the member entering into a salary sacrifice arrangement)[^c-171c4878be69709ebdfb08b9d793e3ec] to 90% or less of the sum of—
 >   - (i) the member's pensionable pay in the employment during the period of 12 months ending with the option day; and
 >   - (ii) the member's pensionable pay during that period in every other employment held by the member on the option day.
 
@@ -2359,7 +2359,7 @@ where—
 
 (5) For regulation 2.D.6(1)(b) substitute—
 
-> - (b) as a result the annual rate of the member's pensionable pay in that employment is increased (disregarding any increase in pensionable pay resulting from the member leaving a salary sacrifice arrangement)[^key-825af316114b6b18c25ad378cc324c77] to more than 90% of the sum of—
+> - (b) as a result the annual rate of the member's pensionable pay in that employment is increased (disregarding any increase in pensionable pay resulting from the member leaving a salary sacrifice arrangement)[^c-825af316114b6b18c25ad378cc324c77] to more than 90% of the sum of—
 >   - (i) the member's pensionable pay in the employment during the period of 12 months ending with the option day; and
 >   - (ii) the member's pensionable pay during that period in every other employment held by the member on the option day.
 
@@ -2633,9 +2633,9 @@ where—
 
 (2) A certificate under paragraph (1)(d)(ii) may only be given with the agreement of the employing authority.
 
-(3) Subject to paragraph (3A), a pension[^key-2df8f9d9c5a3fc037a3d20060362611e] to which a member is entitled under this regulation becomes payable as soon as the member becomes entitled to it.
+(3) Subject to paragraph (3A), a pension[^c-2df8f9d9c5a3fc037a3d20060362611e] to which a member is entitled under this regulation becomes payable as soon as the member becomes entitled to it.
 
-(3A)[^key-28babb13ab9b0ee1cf611fdcce5011ef] A member who satisfies the conditions of this regulation is not entitled to a pension under this regulation if the Scottish Ministers, after consultation with the scheme actuary, decide that the amount of the pension would be less than the amount of the guaranteed minimum pension to which the member is entitled.
+(3A)[^c-28babb13ab9b0ee1cf611fdcce5011ef] A member who satisfies the conditions of this regulation is not entitled to a pension under this regulation if the Scottish Ministers, after consultation with the scheme actuary, decide that the amount of the pension would be less than the amount of the guaranteed minimum pension to which the member is entitled.
 
 (4) Subject to paragraph (6), the amount of the annual pension payable under this regulation (disregarding any additional pension) is given by the formula—
 
@@ -2720,14 +2720,14 @@ in the opinion of the Scottish Ministers the benefits payable to or in respect o
 
 *Extent: S*
 
-(1) A member is not prevented from becoming entitled to a pension under regulation 2.D.1 (normal retirement pensions) in respect of relevant service because of continuing in NHS employment if paragraph (2) or (2A)[^key-3a197e0bf8c3662b9851dcfa194660f8] applies.
+(1) A member is not prevented from becoming entitled to a pension under regulation 2.D.1 (normal retirement pensions) in respect of relevant service because of continuing in NHS employment if paragraph (2) or (2A)[^c-3a197e0bf8c3662b9851dcfa194660f8] applies.
 
 (2) This paragraph applies if—
 
 - (a) the member is an active member or a non-contributing member in the NHS employment and that employment is employment into which the member has been transferred as a result of a transfer of an undertaking to the employing authority; and
 - (b) the member is a deferred member in respect of pensionable service that ceased before the member commenced the employment referred to in sub-paragraph (a) [^c21814511].
 
-(2A)[^key-fb3b2118fb83a98947321e13f48ce704] This paragraph applies if the member is not a non-contributing member and[^key-1c9b180cb692af154d5443424d9a415d] is in employment with an employing authority in respect of which the member is eligible to join the 2015 Scheme and that member’s service in this Section does not qualify as, or has ceased to be, pensionable service to which paragraph 1(2)(i) and (ii) or paragraph 2(i) and (ii) of Schedule 7 (final salary link) to the 2013 Act applies.
+(2A)[^c-fb3b2118fb83a98947321e13f48ce704] This paragraph applies if the member is not a non-contributing member and[^c-1c9b180cb692af154d5443424d9a415d] is in employment with an employing authority in respect of which the member is eligible to join the 2015 Scheme and that member’s service in this Section does not qualify as, or has ceased to be, pensionable service to which paragraph 1(2)(i) and (ii) or paragraph 2(i) and (ii) of Schedule 7 (final salary link) to the 2013 Act applies.
 
 (3)[^M_F_05a582c7-98a0-4412-b2c5-cb0a3c5f8ade] In paragraph (1), “relevant service” means—
 
@@ -3000,7 +3000,7 @@ but a person falling within paragraph (7) is not to be regarded as a pensioner f
   - (i) as a result of a conviction for treason; or
   - (ii) in a case where an offence within regulation 2.J.8(2)(b) (forfeiture of rights to benefits) is committed;
 - (b) a pension that is commuted under regulation 2.D.15 (option for members in serious ill health to exchange whole pension for lump sum); or
-- (c) a pension that is commuted under regulation 2.J.6 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) ([^key-0e25e48fda74334f5fff889b934fa51b]No. 2) Regulations 2015 are met,
+- (c) a pension that is commuted under regulation 2.J.6 (commutation of small pensions) where the conditions in regulation 25 of the Occupational Pension Schemes (Schemes that were Contracted-out) ([^c-0e25e48fda74334f5fff889b934fa51b]No. 2) Regulations 2015 are met,
 
 but if any other provision of this Section of the scheme is inconsistent with this rule, this rule prevails.
 
@@ -3018,9 +3018,9 @@ but if any other provision of this Section of the scheme is inconsistent with th
 
 (1) If an active member, a non-contributing member, a deferred member or a pensioner member dies leaving a surviving adult dependant, the surviving adult dependant is entitled to a pension that is payable for life [^c21814551].
 
-(2) In this Part “**surviving adult dependant**”, in relation to a deceased member or former member, means the member's or former member's surviving spouse, civil partner or scheme partner[^key-18d3c3aa068041c78a4da42d8c91d631].
+(2) In this Part “**surviving adult dependant**”, in relation to a deceased member or former member, means the member's or former member's surviving spouse, civil partner or scheme partner[^c-18d3c3aa068041c78a4da42d8c91d631].
 
-## 2.E.2. Meaning of “surviving scheme partner”[^key-5180abafbdd9d5d59fecfd4a807d6421]
+## 2.E.2. Meaning of “surviving scheme partner”[^c-5180abafbdd9d5d59fecfd4a807d6421]
 
 *Extent: S*
 
@@ -3121,7 +3121,7 @@ the member's pension referred to in paragraph (1) means that member's original u
 
 the rate of the pension payable under regulation 2.E.1 (surviving dependent adult's pension) is equal to 37.5% of the upper tier ill health pension under regulation 2.D.8 (early retirement on ill health: active members and non-contributing members) to which the member would have been entitled if on the date the member's pensionable service ceased the member had become entitled to such a pension under regulation 2.D.8 (but disregarding any additional pension).
 
-(2) In the case of any other deferred member [^key-6f84b62d1f1261de8e2612ed70cc4b79]..., the rate of the pension payable under regulation 2.E.1 is equal to 37.5% of the pension under regulation 2.D.1 (normal retirement pensions) in respect of any period of pensionable service to which the member would have been entitled if on the date of death the member had become entitled to such a pension.
+(2) In the case of any other deferred member [^c-6f84b62d1f1261de8e2612ed70cc4b79]..., the rate of the pension payable under regulation 2.E.1 is equal to 37.5% of the pension under regulation 2.D.1 (normal retirement pensions) in respect of any period of pensionable service to which the member would have been entitled if on the date of death the member had become entitled to such a pension.
 
 ## 2.E.6. Amount of surviving adult's pension: recent leavers
 
@@ -3214,9 +3214,9 @@ would be greater.
 - (a) a natural child or natural grandchild of the deceased;
 - (b) an adopted child of the deceased who was adopted whilst the deceased was an active member;
 - (c) a step-child of the deceased whose natural or adoptive parent is the deceased's surviving spouse or civil partner from a marriage entered into, or a civil partnership formed, whilst the deceased was an active member;
-- (d) in a case where the deceased left a surviving scheme partner[^key-198f20c6208868abd35043e75918ae64] with whom the deceased was living as mentioned in regulation 2.E.2(a) and (b)[^key-e680767d2bd2a23a6eb9c13a53c3e521] (meaning of “surviving scheme partner”) when the deceased ceased to be an active member, a person whose natural or adoptive parent is the deceased's surviving scheme partner;
-- (e) a brother or sister, or a child of a brother or sister, of the member or the member's spouse or civil partner or scheme partner[^key-27041aef7b16be0ed6f565529afd4417];
-- (f) a half-brother or half-sister, or a child of a half-brother or half-sister, of the member or the member's spouse or civil partner or scheme partner[^key-c32a6898d0e465ebb799b6f7c273779e];
+- (d) in a case where the deceased left a surviving scheme partner[^c-198f20c6208868abd35043e75918ae64] with whom the deceased was living as mentioned in regulation 2.E.2(a) and (b)[^c-e680767d2bd2a23a6eb9c13a53c3e521] (meaning of “surviving scheme partner”) when the deceased ceased to be an active member, a person whose natural or adoptive parent is the deceased's surviving scheme partner;
+- (e) a brother or sister, or a child of a brother or sister, of the member or the member's spouse or civil partner or scheme partner[^c-27041aef7b16be0ed6f565529afd4417];
+- (f) a half-brother or half-sister, or a child of a half-brother or half-sister, of the member or the member's spouse or civil partner or scheme partner[^c-c32a6898d0e465ebb799b6f7c273779e];
 - (g) a person whom, in the opinion of the scheme administrator, the deceased intended when the deceased ceased to be an active member to adopt; or
 - (h) a person who had been dependent on the deceased for at least two years or (if less) at least half the person's life when the deceased ceased to be an active member.
 
@@ -3615,7 +3615,7 @@ the lump sum or pension (or, as the case may be, the percentage of it specified 
 
 the lump sum or pension may be paid to that person unless paragraph (7) applies.
 
-(7) This paragraph applies if the person to whom the lump sum or pension (or a specified percentage of the lump sum or pension) would otherwise be payable has been convicted of an offence specified in regulation 2.J.8(4)[^key-ebec15097fededfe734ca87c9c2b0e10] (forfeiture of rights to benefit) and the Scottish Ministers have directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
+(7) This paragraph applies if the person to whom the lump sum or pension (or a specified percentage of the lump sum or pension) would otherwise be payable has been convicted of an offence specified in regulation 2.J.8(4)[^c-ebec15097fededfe734ca87c9c2b0e10] (forfeiture of rights to benefit) and the Scottish Ministers have directed, as a consequence of that conviction, that the person's right to a payment in respect of the member's death is forfeited.
 
 (8) A notice under paragraph (3)—
 
@@ -3672,7 +3672,7 @@ and the pension (or, as the case may be, the percentage of it specified in respe
 - (a) is absent from work because of illness or injury;
 - (b) is on ordinary maternity leave;
 - (c) is on ordinary adoption leave; or
-- (d) is on paternity leave , parental bereavement leave[^key-ce903300c0310129c598a44ba93ded15] , parental leave or shared parental leave[^key-5edf5731dd99e82843a868001240db4f],
+- (d) is on paternity leave , parental bereavement leave[^c-ce903300c0310129c598a44ba93ded15] , parental leave or shared parental leave[^c-5edf5731dd99e82843a868001240db4f],
 
 and the earnings used to calculate the person's pensionable pay have ceased to be paid before the person's death.
 
@@ -3753,24 +3753,24 @@ and the earnings used to calculate the person's pensionable pay have ceased to b
 
 a pension the weekly rate of which is equal to the guaranteed minimum is payable to the surviving spouse or civil partner for life or, as the case may be, pensions the aggregate weekly rate of which is equal to the guaranteed minimum are so payable.
 
-(3) Paragraph (2) does not apply to a pension that is forfeited following a conviction for—[^key-aeaf7e3acbe2696c97699f3e1a770b7a]
+(3) Paragraph (2) does not apply to a pension that is forfeited following a conviction for—[^c-aeaf7e3acbe2696c97699f3e1a770b7a]
 
 - (a) treason;
-- (b) an offence [^key-4b9a5f5dce4634c5f066804ea994b772]... referred to in regulation 2.J.8(2)(b); or
+- (b) an offence [^c-4b9a5f5dce4634c5f066804ea994b772]... referred to in regulation 2.J.8(2)(b); or
 - (c) murder or culpable homicide or any other offence of unlawful killing referred to in regulation 2.J.8(4).
 
 ## 2.F.1. Introduction: rights to transfer value payment
 
 *Extent: S*
 
-(1) This Chapter supplements the rights conferred by or under Chapter 1 (transfer rights: general) of Part 4ZA of the 1993 Act[^key-cee8936e2c22121f67ea326d60521761].
+(1) This Chapter supplements the rights conferred by or under Chapter 1 (transfer rights: general) of Part 4ZA of the 1993 Act[^c-cee8936e2c22121f67ea326d60521761].
 
-(2) This Chapter is without prejudice to that Chapter or Chapter 2 (early leavers: cash transfer sums and contribution refunds) of that Part[^key-644aa4798787aedcbc3ad15e79f423c3].
+(2) This Chapter is without prejudice to that Chapter or Chapter 2 (early leavers: cash transfer sums and contribution refunds) of that Part[^c-644aa4798787aedcbc3ad15e79f423c3].
 
 (3) Accordingly—
 
-- (a) a member to whom Chapter 1[^key-d82e4c30fe3c1cbd0a36985c31bb5925] of that Part applies (see section 93[^key-e0164c50f63fecae94e6d895d5c227e1] of that Act) is entitled to require the payment of a transfer value in respect of the rights to benefit that have accrued to or in respect of the member under this Section of the scheme; and
-- (b) a member to whom Chapter 2[^key-eacb90b16c936d20d51d54a13e00be3c] of that Part applies (see section 101AA(1) of that Act) is entitled to a cash transfer sum or a contribution refund in accordance with that Chapter.
+- (a) a member to whom Chapter 1[^c-d82e4c30fe3c1cbd0a36985c31bb5925] of that Part applies (see section 93[^c-e0164c50f63fecae94e6d895d5c227e1] of that Act) is entitled to require the payment of a transfer value in respect of the rights to benefit that have accrued to or in respect of the member under this Section of the scheme; and
+- (b) a member to whom Chapter 2[^c-eacb90b16c936d20d51d54a13e00be3c] of that Part applies (see section 101AA(1) of that Act) is entitled to a cash transfer sum or a contribution refund in accordance with that Chapter.
 
 (4) Subject to paragraph (5) and the other provisions of this Chapter, any other member is entitled to require such a payment as if such rights had accrued to or in respect of the member by reference to the pensionable service the member is entitled to count under this Section of the scheme (and references in this Chapter to the member's accrued rights or benefits are to be read accordingly).
 
@@ -3841,7 +3841,7 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 
 (5) In any case where a direction is given under regulation 2.J.8 for the forfeiture of a member's benefits, this regulation applies as if the amount specified in the statement of entitlement were reduced by an amount equal to the value of the benefits forfeited, as determined by the scheme actuary.
 
-(6) In respect of an applicant who falls within regulation 2.F.1(4)[^key-bd8a1f1250ace6969c43625273f283c9]—
+(6) In respect of an applicant who falls within regulation 2.F.1(4)[^c-bd8a1f1250ace6969c43625273f283c9]—
 
 - (a) whose application requires the guaranteed cash equivalent transfer value payment to be made to an occupational pension scheme or a personal pension scheme, an application under paragraph (1) may only be made if—
   - (i) the applicant became a member of that scheme not later than the end of the period of 12 months beginning with the day after the date on which the member ceased to be in the pensionable service in which the rights accrued (“the leaving date”); and
@@ -3854,9 +3854,9 @@ a pension the weekly rate of which is equal to the guaranteed minimum is payable
 
 *Extent: S*
 
-(1) A deferred member[^key-b6fb53840acb75daf5880030f29889b3] may only require the Scottish Ministers to apply the guaranteed cash equivalent transfer value payment in one or more of the ways permitted under section 95 (ways of taking right to cash equivalent) of the 1993 Act.
+(1) A deferred member[^c-b6fb53840acb75daf5880030f29889b3] may only require the Scottish Ministers to apply the guaranteed cash equivalent transfer value payment in one or more of the ways permitted under section 95 (ways of taking right to cash equivalent) of the 1993 Act.
 
-(2)[^key-3c01468c6ea61404359c7f8a3e1c18d2] In any other case, a member may only require the Scottish Ministers to apply the guaranteed equivalent transfer value payment in one or more of the ways permitted under section 101AE of the 1993 Act.
+(2)[^c-3c01468c6ea61404359c7f8a3e1c18d2] In any other case, a member may only require the Scottish Ministers to apply the guaranteed equivalent transfer value payment in one or more of the ways permitted under section 101AE of the 1993 Act.
 
 (3) The whole of the guaranteed cash equivalent transfer value payment must be applied, unless paragraph (4) applies.
 
@@ -3872,7 +3872,7 @@ is to be excluded from the guaranteed cash equivalent transfer value payment if 
 - (a) a pension scheme that is registered under Chapter 2 (registration of pension schemes) of Part 4 of the 2004 Act; or
 - (b) an arrangement that is a qualifying recognised overseas pension scheme for the purposes of that Part (see section 169(2) (recognised charges) of the 2004 Act).
 
-(6)[^key-6ab6da1f48c000bdbf5a1df1c1b62cb6] Paragraph (1) applies whether or not the deferred member is entitled to a guaranteed cash equivalent transfer value payment under Chapter 1 (transfer rights: general) of Part 4ZA of the 1993 Act.
+(6)[^c-6ab6da1f48c000bdbf5a1df1c1b62cb6] Paragraph (1) applies whether or not the deferred member is entitled to a guaranteed cash equivalent transfer value payment under Chapter 1 (transfer rights: general) of Part 4ZA of the 1993 Act.
 
 ## 2.F.6. Calculating amounts of transfer value payments
 
@@ -3947,10 +3947,10 @@ is to be excluded from the guaranteed cash equivalent transfer value payment if 
 
 - (a) must be made in writing;
 - (b) must specify this Section of the scheme or arrangement from which the transfer value payment is to be made and the anticipated amount of the payment;
-- (c)[^key-fc034fe9b4da7ca038f3b4215776115f] may only be made—
+- (c)[^c-fc034fe9b4da7ca038f3b4215776115f] may only be made—
   - (i) during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of this Section of the scheme and before the applicant reaches the age of 65; or
-  - (ii) where the applicant is not eligible to be an active member of this Section of the scheme and the application is made in respect of a transfer from a corresponding 2008 scheme, during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if on that day paragraph 2 of Schedule 7 to the 2013 Act or paragraph 2 of schedule 7 of the Public Service Pensions Act (Northern Ireland) 2014[^key-a83fdf04bf367b409a1790913fa6f464] applies to the period of service in respect of which the transfer value payment will be made; or[^key-5d1bedec91e6ae344a1354d2f4e64244]
-  - (iii)[^key-0a7aac006305e90314c6f1e39c88b2e2] where the applicant is not eligible to be an active member of this Section of the scheme and the application is made in respect of a period of service in an existing scheme (within the meaning of Schedule 5 to the 2013 Act or Schedule 5 to the 2014 Act) or an existing public body scheme listed in Schedule 10 to those Acts, during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if—
+  - (ii) where the applicant is not eligible to be an active member of this Section of the scheme and the application is made in respect of a transfer from a corresponding 2008 scheme, during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if on that day paragraph 2 of Schedule 7 to the 2013 Act or paragraph 2 of schedule 7 of the Public Service Pensions Act (Northern Ireland) 2014[^c-a83fdf04bf367b409a1790913fa6f464] applies to the period of service in respect of which the transfer value payment will be made; or[^c-5d1bedec91e6ae344a1354d2f4e64244]
+  - (iii)[^c-0a7aac006305e90314c6f1e39c88b2e2] where the applicant is not eligible to be an active member of this Section of the scheme and the application is made in respect of a period of service in an existing scheme (within the meaning of Schedule 5 to the 2013 Act or Schedule 5 to the 2014 Act) or an existing public body scheme listed in Schedule 10 to those Acts, during the period of one year beginning with the day on which the applicant becomes eligible to be an active member of the 2015 Scheme if—
     - (aa) paragraph 2 of Schedule 7 to the 2013 Act or paragraph 2 of Schedule 7 to the 2014 Act applies to the period of service in respect of which that transfer value payment will be made; and
     - (bb) the transfer value payment is not made and accepted under the public sector transfer arrangements.
 - (d) must be made before the applicant reaches age 65;
@@ -3983,7 +3983,7 @@ is to be excluded from the guaranteed cash equivalent transfer value payment if 
 
 (6) The Scottish Ministers may not accept a transfer value payment if—
 
-- (a) it would be applied in whole or in part in respect of the member's [^key-804918e615ffc85c43aba5c448e4510d]... entitlement to a guaranteed minimum pension; and
+- (a) it would be applied in whole or in part in respect of the member's [^c-804918e615ffc85c43aba5c448e4510d]... entitlement to a guaranteed minimum pension; and
 - (b) it is less than the amount required for that purpose, as calculated in accordance with guidance and tables prepared by the scheme actuary for the purposes of this paragraph.
 
 (7) Paragraph (6) does not apply if the transfer would be paid under the public sector transfer arrangements.
@@ -4543,7 +4543,7 @@ The Scottish Ministers may extend any time limit mentioned in this Part as it ap
 
 (2) The conditions are that the payment complies with the following requirements (so far as they apply)—
 
-- (a)[^key-f11f80f268910aeebe6fd6650be32292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f11f80f268910aeebe6fd6650be32292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the preservation requirements;
 - (c) regulation 2 of the Occupational Pension Schemes (Assignment, Forfeiture, Bankruptcy etc.) Regulations 1997 [^c21814721];
 - (d) the lump sum rule (see, in particular, paragraph 7 (trivial commutation lump sums) of Schedule 29 to the 2004 Act);
@@ -4565,7 +4565,7 @@ The Scottish Ministers may extend any time limit mentioned in this Part as it ap
 
 (2) Paragraph (1) does not apply so far as the pension or other benefit—
 
-- (a) is a guaranteed minimum pension [^key-2c1ed66ef6d1bd32df6273b4bc7dab4c]...
+- (a) is a guaranteed minimum pension [^c-2c1ed66ef6d1bd32df6273b4bc7dab4c]...
 - (b) arise out of a transfer payment.
 
 (3) If the Scottish Ministers propose to exercise the power under paragraph (1), the Scottish Ministers must give the member a certificate specifying the amount of the loss to public funds and of the reduction in benefits.
@@ -4589,7 +4589,7 @@ The Scottish Ministers may extend any time limit mentioned in this Part as it ap
 (2) The offences are—
 
 - (a) an offence in connection with employment that qualifies the member to belong to this Section of the scheme, in respect of which the Scottish Ministers have issued a forfeiture certificate; and
-- (b) one or more offences under the Official Secrets Acts 1911 to 1989 [^c21814741] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-9f0491491634e1a63a2533ee10b8f99d] for which the member has been sentenced on the same occasion to—
+- (b) one or more offences under the Official Secrets Acts 1911 to 1989 [^c21814741] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-9f0491491634e1a63a2533ee10b8f99d] for which the member has been sentenced on the same occasion to—
   - (i) a term of imprisonment of at least 10 years; or
   - (ii) two or more consecutive terms amounting in the aggregate to at least 10 years.
 
@@ -4602,12 +4602,12 @@ The Scottish Ministers may extend any time limit mentioned in this Part as it ap
 
 (5) This paragraph applies to a person who is—
 
-- (a) the member's widow, widower, surviving scheme partner[^key-175e98c904e444498fcd12fceb0f90a2] or surviving civil partner;
+- (a) the member's widow, widower, surviving scheme partner[^c-175e98c904e444498fcd12fceb0f90a2] or surviving civil partner;
 - (b) a dependant of the member;
 - (c) a person not falling within sub-paragraph (a) or (b) who is specified in a notice given under regulation 2.E.22(3) (payment of lump sums or pensions on death); or
 - (d) a person to whom such benefits or amounts are payable under the member's will or on the member's intestacy.
 
-(6) A guaranteed minimum pension [^key-67bda354351f69d108d900cc4c318af2]... may be forfeited only if paragraph (1) applies in the case of an offence within paragraph (2)(b) or to which paragraph (4) applies[^key-f623b2361c9f4b5ca2134d9084948e5c].
+(6) A guaranteed minimum pension [^c-67bda354351f69d108d900cc4c318af2]... may be forfeited only if paragraph (1) applies in the case of an offence within paragraph (2)(b) or to which paragraph (4) applies[^c-f623b2361c9f4b5ca2134d9084948e5c].
 
 ## 2.J.9. Deduction of tax
 
@@ -4617,12 +4617,12 @@ The Scottish Ministers may extend any time limit mentioned in this Part as it ap
 
 (2) Without prejudice to the generality of paragraph (1), if a person becoming entitled to a benefit under this Part—
 
-- (a) which is a benefit crystallisation event under section 216 (benefit crystallisation event , occurring on or before 6 April 2024,[^key-b0ac65c451ace29281ba938073e26d1c] and amounts crystallised) of the 2004 Act; and
+- (a) which is a benefit crystallisation event under section 216 (benefit crystallisation event , occurring on or before 6 April 2024,[^c-b0ac65c451ace29281ba938073e26d1c] and amounts crystallised) of the 2004 Act; and
 - (b) a lifetime allowance charge under section 214 (lifetime allowance charge) of the 2004 Act arises when that event occurs,
 
 the tax charged must be paid by the scheme administrator.
 
-(2A)[^key-90063868151e5486d697dea2b2f1ffe2] If a person becomes entitled to a lump sum under this Part which is a relevant benefit crystallisation event, occurring on or after 6 April 2024, then for the purposes of section 637Q or section 637S of the Income Tax (Earnings and Pensions) Act 2003, the Scheme administrator must determine—
+(2A)[^c-90063868151e5486d697dea2b2f1ffe2] If a person becomes entitled to a lump sum under this Part which is a relevant benefit crystallisation event, occurring on or after 6 April 2024, then for the purposes of section 637Q or section 637S of the Income Tax (Earnings and Pensions) Act 2003, the Scheme administrator must determine—
 
 - (a) whether any tax is payable in respect of the lump sum in accordance with section 204 of the 2004 Act, and if so,
 - (b) the amount of tax payable, and
@@ -4748,7 +4748,7 @@ no later than one month after the date on which that return was required to be s
 
 (2) As regards a GMS practice, a section 17C agreement provider or an HBPMS contractor, in respect of each scheme year, the practice or contractor must provide the Scottish Ministers with a statement of estimated pensionable earnings in respect of any non-GP provider that is a section 17C agreement provider or HBPMS contractor or who assists in the provisions of NHS services provided by that GMS practice, section 17C agreement provider or an HBPMS contractor, at least one month before the beginning of that scheme year.
 
-(3) Subject to paragraphs (4) and (5) if, in respect of a scheme year, a non-GP provider has failed to comply with the requirements of paragraph (1), the non-GP provider's pensionable earnings for that scheme year must be zero and no contributions paid in respect of that scheme year are to be refunded[^key-d9c0971fa928375f5952b4931d42daaf].
+(3) Subject to paragraphs (4) and (5) if, in respect of a scheme year, a non-GP provider has failed to comply with the requirements of paragraph (1), the non-GP provider's pensionable earnings for that scheme year must be zero and no contributions paid in respect of that scheme year are to be refunded[^c-d9c0971fa928375f5952b4931d42daaf].
 
 (4) If, in respect of a scheme year—
 
@@ -4765,7 +4765,7 @@ the Scottish Ministers may treat that figure as the amount of the non-GP provide
   - (i) within the period referred to in paragraph (1); or
   - (ii) within such other period as the Scottish Ministers permit.
 
-(6)[^key-3be591d35f72d0cea7509e26bf8f933d] An employing authority must, in respect of a person, keep a record of all—
+(6)[^c-3be591d35f72d0cea7509e26bf8f933d] An employing authority must, in respect of a person, keep a record of all—
 
 - (a) contributions paid under regulation 2.C.1, 2.C.8 or 2.C.10;
 - (b) contributions due under regulation 2.C.1, 2.C.8 or 2.C.10, but unpaid;
@@ -4787,7 +4787,7 @@ the Scottish Ministers may treat that figure as the amount of the non-GP provide
 
 (11) Where an employing authority has provided the information requested pursuant to paragraph (10) and there is a revision to the total contributions paid, that employing authority must, within 1 month of the change, provide the Scottish Ministers with the revised total.
 
-(12) In respect of each scheme year an employing authority must, 1 month before the beginning of that scheme year and in a manner specified by the Scottish Ministers, provide them and, in the case of a non-GP Provider, the contracting Health Board[^key-d7cd7d13ebc5193f6a3b483c246f8d52] with a statement of estimated total contributions due under regulations 2.C.1, 2.C.5 and 2.C.8.
+(12) In respect of each scheme year an employing authority must, 1 month before the beginning of that scheme year and in a manner specified by the Scottish Ministers, provide them and, in the case of a non-GP Provider, the contracting Health Board[^c-d7cd7d13ebc5193f6a3b483c246f8d52] with a statement of estimated total contributions due under regulations 2.C.1, 2.C.5 and 2.C.8.
 
 ## 2.K.1. Application of Chapter 2.K
 
@@ -5468,7 +5468,7 @@ in addition to the pensionable service that Optant is entitled to count under re
 
 - (a) a nomination made in accordance with regulation F5 (payment of lump sum) of the 2011 Regulations in favour of one or more persons in respect of any lump sum that becomes payable under regulations F1 to F4 (lump sum on death) of the 2011 Regulations;
 - (b) a notice provided for the purposes of regulation F5(3)(a) of the 2011 Regulations that the person's surviving partner (within the meaning of that regulation) is not to receive the payment of any lump sum that becomes payable under regulations F1 to F4 of the 2011 Regulations;
-- (c)[^key-817afb0724a717003cce78cac0731b6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-817afb0724a717003cce78cac0731b6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of this Section of the scheme a nomination or notice referred to in paragraph (1) must be treated—
 
@@ -5639,7 +5639,7 @@ to which the Optant would have been entitled on the last day of the Optant's pen
 
 - (a) a nomination made in accordance with regulation F5 (payment of lump sum) of the 2011 Regulations (payment of lump sum) in favour of one or more persons in respect of any lump sum that becomes payable under regulations F1 to F4 (lump sum on death) of the 2011 Regulations;
 - (b) a notice provided for the purposes of regulation F5(3)(a) of the 2011 Regulations that the person's surviving partner (within the meaning of that regulation) is not to receive the payment of any lump sum that becomes payable under regulations F1 to F4 of the 2011 Regulations;
-- (c)[^key-2fcaba58916a760ad2bc335641340793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-2fcaba58916a760ad2bc335641340793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of this Section of the scheme a nomination or notice referred to in paragraph (1)(a) must be treated—
 
@@ -5758,7 +5758,7 @@ Table
 
 [^c21813831]: Marginal citation: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-07a63619d0adfd84e7f533fd60134f6c]: Textual amendment: Words in reg. 2.A.1 omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-07a63619d0adfd84e7f533fd60134f6c]: Textual amendment: Words in reg. 2.A.1 omitted (1.4.2018) by virtue of [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(a)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
 [^c21813851]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -5770,11 +5770,11 @@ Table
 
 [^c21813891]: Marginal citation: [S.S.I. 2011/117](https://www.legislation.gov.uk/ssi/2011/117), amended by [S.S.I. 2011/173](https://www.legislation.gov.uk/ssi/2011/173) and 364 and 2012/69 and 163.
 
-[^key-45064701f7658dcaaeb7057a0d3b2680]: Textual amendment: Words in reg. 2.A.1 inserted (retrospective and with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [21](https://www.legislation.gov.uk/ssi/2015/96/regulation/21)
+[^c-45064701f7658dcaaeb7057a0d3b2680]: Textual amendment: Words in reg. 2.A.1 inserted (retrospective and with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [21](https://www.legislation.gov.uk/ssi/2015/96/regulation/21)
 
-[^key-f5390cf5864e13f07246fec7730ed4c7]: Textual amendment: Words in reg. 2.A.1 inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2017/434/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-f5390cf5864e13f07246fec7730ed4c7]: Textual amendment: Words in reg. 2.A.1 inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2017/434/regulation/8) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-66d6173a617465783e68ab44a1bf2f3d]: Textual amendment: Words in [reg. 2.A.1](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.1) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2024/272/regulation/29)
+[^c-66d6173a617465783e68ab44a1bf2f3d]: Textual amendment: Words in [reg. 2.A.1](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.1) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2024/272/regulation/29)
 
 [^c21813901]: Marginal citation: Regulation 14 was substituted by regulations 17 and 22 of [S.I. 2012/215](https://www.legislation.gov.uk/uksi/2012/215).
 
@@ -5782,13 +5782,13 @@ Table
 
 [^c21813921]: Marginal citation: Section 19 was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), 2005/2050 and 2007/3014.
 
-[^key-aa3a6461815b2d9241f8da79853a7f88]: Textual amendment: Words in reg. 2.A.1 inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-aa3a6461815b2d9241f8da79853a7f88]: Textual amendment: Words in reg. 2.A.1 inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-6d3e862849a389cedda89ac1ce36275e]: Textual amendment: Words in reg. 2.A.1 substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-6d3e862849a389cedda89ac1ce36275e]: Textual amendment: Words in reg. 2.A.1 substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-ed575b30b170665ce4f9d7ef9308934c]: Textual amendment: Words in reg. 2.A.1 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(d)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/d) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-ed575b30b170665ce4f9d7ef9308934c]: Textual amendment: Words in reg. 2.A.1 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(d)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/d) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-3716c6c38bb605f1ba73ad66918cd638]: Textual amendment: Words in reg. 2.A.1 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-3716c6c38bb605f1ba73ad66918cd638]: Textual amendment: Words in reg. 2.A.1 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(c)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
 [^c21813931]: Marginal citation: Section 15 was relevantly amended by paragraph 1(2) of schedule 1 to the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1) and by paragraph 17 of schedule 17 of the [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8).
 
@@ -5812,7 +5812,7 @@ Table
 
 [^c21814031]: Marginal citation: [S.S.I. 2004/636](https://www.legislation.gov.uk/ssi/2004/636). There are amendments to the Order which are not relevant for the purposes of these Regulations.
 
-[^key-db7e92d6711cd57147125bdcd2aae404]: Textual amendment: Words in reg. 2.A.1 inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-db7e92d6711cd57147125bdcd2aae404]: Textual amendment: Words in reg. 2.A.1 inserted (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 10 para. 8(2)(b)](https://www.legislation.gov.uk/ssi/2018/66/schedule/10/paragraph/8/2/b) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
 [^c21814041]: Marginal citation: “Registered medical practitioner” is defined in Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30), as amended by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135).
 
@@ -5838,7 +5838,7 @@ Table
 
 [^c21814151]: Marginal citation: Section 608 was repealed, subject to transitional provisions and savings, by Part 3 of Schedule 36 to the Finance Act 2004.
 
-[^key-19fedf0b9c5ce981eec30575e850d739]: Textual amendment: Words in [reg. 2.A.1](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/2)
+[^c-19fedf0b9c5ce981eec30575e850d739]: Textual amendment: Words in [reg. 2.A.1](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.1) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/2)
 
 [^c21814161]: Marginal citation: Section 28 was relevantly amended by paragraph 159 of Schedule 27 to the [Civil Partnership Act 2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33).
 
@@ -5848,11 +5848,11 @@ Table
 
 [^c21814191]: Marginal citation: [2007 c.3](https://www.legislation.gov.uk/ukpga/2007/3). The definition of “retail prices index” was amended by paragraph 16 of Schedule 3 to the [Statistics and Registration Service Act 2007 (c.18)](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-5d561717fff1335fc45490ebc5d7070f]: Textual amendment: Words in reg. 2.A.1 omitted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(c)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/c) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-5d561717fff1335fc45490ebc5d7070f]: Textual amendment: Words in reg. 2.A.1 omitted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(c)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/c) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814211]: Marginal citation: Section 17C was inserted by section 21(2) of the [National Health Service (Primary Care) Act 1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46) and amended by section 2(2) of the [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1).
 
-[^key-a5e525162ac24a61aaa7b7310bf57797]: Textual amendment: Words in reg. 2.A.1 inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(d)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/d) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-a5e525162ac24a61aaa7b7310bf57797]: Textual amendment: Words in reg. 2.A.1 inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [17(d)](https://www.legislation.gov.uk/ssi/2017/27/regulation/17/d) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814221]: Marginal citation: The definition of “pensionable age” in section 181(1) was inserted by paragraph 17 of Schedule 4 to the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
@@ -5860,47 +5860,47 @@ Table
 
 [^c21814241]: Marginal citation: [Section 55](https://www.legislation.gov.uk/ssi/2013/174/section/55) was amended by section 141(1) of, and Part 3 of Schedule 7 to, the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), [paragraph 7(1)(a)](https://www.legislation.gov.uk/ukpga/1995/26/paragraph/7/1/a) of Schedule 2 to the Welfare Reform and Pensions Act 19999 (c.30), [S.I. 2005/2050](https://www.legislation.gov.uk/uksi/2005/2050) and Part 6 of Schedule 7 to the [Pensions Act 2007 (c.22)](https://www.legislation.gov.uk/ukpga/2007/22).
 
-[^key-5ba5e375df29a31adec1a950c06154e8]: Textual amendment: Word in [reg. 2.A.5(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/1/d) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/a)
+[^c-5ba5e375df29a31adec1a950c06154e8]: Textual amendment: Word in [reg. 2.A.5(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/1/d) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/a)
 
-[^key-6dc7cbfc8bb1158deba21af9ab8ad099]: Textual amendment: Words in reg. 2.A.5(1)(e) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [18(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/18/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-6dc7cbfc8bb1158deba21af9ab8ad099]: Textual amendment: Words in reg. 2.A.5(1)(e) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [18(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/18/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-cf7f5626c8adb06d5e82cae37ecbb363]: Textual amendment: [Reg. 2.A.5(1)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/1/f) and word inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/a)
+[^c-cf7f5626c8adb06d5e82cae37ecbb363]: Textual amendment: [Reg. 2.A.5(1)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/1/f) and word inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(a)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/a)
 
-[^key-ceed31dcad03a205fba592f69488f791]: Textual amendment: Word in reg. 2.A.5(3) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [8(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/8/2)
+[^c-ceed31dcad03a205fba592f69488f791]: Textual amendment: Word in reg. 2.A.5(3) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [8(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/8/2)
 
-[^key-52a1ceff8d70d3db8d89478c93813def]: Textual amendment: Word in reg. 2.A.5(4) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [8(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/8/3)
+[^c-52a1ceff8d70d3db8d89478c93813def]: Textual amendment: Word in reg. 2.A.5(4) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [8(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/8/3)
 
 [^c21814251]: Marginal citation: Where paragraph (6) applies in respect of the service in which the person was an active member and becomes an active member again, see Chapter 2.G (re-employment and rejoining the scheme).
 
-[^key-68c9bc6ce9ddc5dc2be4df1b174b6c38]: Textual amendment: Word in [reg. 2.A.5(8)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/8/d) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/b)
+[^c-68c9bc6ce9ddc5dc2be4df1b174b6c38]: Textual amendment: Word in [reg. 2.A.5(8)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/8/d) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/b)
 
-[^key-b53e0cdeabf73a5a3e1a54365b5ae25f]: Textual amendment: Words in reg. 2.A.5(8)(e) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [18(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/18/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-b53e0cdeabf73a5a3e1a54365b5ae25f]: Textual amendment: Words in reg. 2.A.5(8)(e) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [18(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/18/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-9d5d7e84c3b9e2e9f663543fcf6a6724]: Textual amendment: [Reg. 2.A.5(8)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/8/f) and word inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/b)
+[^c-9d5d7e84c3b9e2e9f663543fcf6a6724]: Textual amendment: [Reg. 2.A.5(8)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.5/8/f) and word inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(3)(b)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/3/b)
 
-[^key-214afb6de0c6163eae176f1e70e0d6e1]: Textual amendment: Reg. 2.A.6(1)(i) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/4), [9(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/9/2)
+[^c-214afb6de0c6163eae176f1e70e0d6e1]: Textual amendment: Reg. 2.A.6(1)(i) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/4), [9(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/9/2)
 
-[^key-28faa1db1390348dc1d77855b4c8c03f]: Textual amendment: Reg. 2.A.6(1)(k)-(m) inserted (with effect from 1.4.2015) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/4), [9(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/9/3)
+[^c-28faa1db1390348dc1d77855b4c8c03f]: Textual amendment: Reg. 2.A.6(1)(k)-(m) inserted (with effect from 1.4.2015) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/4), [9(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/9/3)
 
 [^c21814261]: Marginal citation: For the other rules applying where there is a short break in service, see [regulation 2](https://www.legislation.gov.uk/ssi/2013/174/regulation/2).A.7.
 
-[^key-5dd8a4e8f1c83eee1f5a4adc30f5276f]: Textual amendment: Words in [reg. 2.A.9(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.9/1) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2024/272/regulation/30)
+[^c-5dd8a4e8f1c83eee1f5a4adc30f5276f]: Textual amendment: Words in [reg. 2.A.9(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.9/1) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2024/272/regulation/30)
 
-[^key-f73d506a02bd7831d33786691efb46b4]: Textual amendment: [Reg. 2.A.9(3)(aa)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.9/3/aa) inserted (retrospective and with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [23](https://www.legislation.gov.uk/ssi/2015/96/regulation/23)
+[^c-f73d506a02bd7831d33786691efb46b4]: Textual amendment: [Reg. 2.A.9(3)(aa)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.9/3/aa) inserted (retrospective and with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [23](https://www.legislation.gov.uk/ssi/2015/96/regulation/23)
 
-[^key-c3ab8af1618f4dc110dc93c45e8a4a0f]: Textual amendment: Reg. 2.A.9(12)-(19) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2025/259/regulation/10)
+[^c-c3ab8af1618f4dc110dc93c45e8a4a0f]: Textual amendment: Reg. 2.A.9(12)-(19) inserted (with effect from 1.4.2025) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2025/259/regulation/10)
 
-[^key-ddbb533afa3b69ee373443737a280c16]: Textual amendment: Word in [reg. 2.A.10(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.10/1/d) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/4)
+[^c-ddbb533afa3b69ee373443737a280c16]: Textual amendment: Word in [reg. 2.A.10(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.10/1/d) omitted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/4)
 
-[^key-7ff542f8bd67bd5e9111d4ced3cffe85]: Textual amendment: Words in reg. 2.A.10(1)(e) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [19](https://www.legislation.gov.uk/ssi/2017/27/regulation/19) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-7ff542f8bd67bd5e9111d4ced3cffe85]: Textual amendment: Words in reg. 2.A.10(1)(e) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [19](https://www.legislation.gov.uk/ssi/2017/27/regulation/19) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^M_F_7a7b3183-dd36-42d2-f135-e0ab68f4b4ac]: Textual amendment: \\zdfxescx\\\\\\\\\\\\ad
 
     [Reg. 2.A.10(1)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.A.10/1/d) and word inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/4)
 
-[^key-73b917bc742640f943a530acf628add0]: Textual amendment: Word in reg. 2.A.10(4)(b) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [11(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/11/2)
+[^c-73b917bc742640f943a530acf628add0]: Textual amendment: Word in reg. 2.A.10(4)(b) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [11(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/11/2)
 
-[^key-2e1ca32551a0bdeb4b2c82849b68fcd4]: Textual amendment: Word in reg. 2.A.10(8)(b) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [11(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/11/3)
+[^c-2e1ca32551a0bdeb4b2c82849b68fcd4]: Textual amendment: Word in reg. 2.A.10(8)(b) substituted (with effect from 6.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(5)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/5), [11(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/11/3)
 
 [^c21814271]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56). Section 5(1) was amended by paragraph 85 of Schedule 6 to the [Superannuation Act 1972 (c.11)](https://www.legislation.gov.uk/ukpga/1972/11).
 
@@ -5916,185 +5916,185 @@ Table
 
 [^c21814331]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-53dfbec9c42e7a85aef6167db6889add]: Textual amendment: Words in reg. 2.B.1(1) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/9/a)
+[^c-53dfbec9c42e7a85aef6167db6889add]: Textual amendment: Words in reg. 2.B.1(1) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/9/a)
 
-[^key-61c464bd38cfb2c4d423723c68a36262]: Textual amendment: Reg. 2.B.1(3)-(5) substituted for reg. 2.B.1(3)-(6) (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 9(b)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/9/b)
+[^c-61c464bd38cfb2c4d423723c68a36262]: Textual amendment: Reg. 2.B.1(3)-(5) substituted for reg. 2.B.1(3)-(6) (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 9(b)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/9/b)
 
-[^key-ac7111107a5d99bed78516ab788242e0]: Textual amendment: Words in reg. 2.B.1(3)(a)(i) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/4), [12](https://www.legislation.gov.uk/ssi/2025/259/regulation/12)
+[^c-ac7111107a5d99bed78516ab788242e0]: Textual amendment: Words in reg. 2.B.1(3)(a)(i) omitted (with effect from 1.4.2015) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(4)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/4), [12](https://www.legislation.gov.uk/ssi/2025/259/regulation/12)
 
 [^c21814381]: Marginal citation: [S.S.I. 2003/344](https://www.legislation.gov.uk/ssi/2003/344), amended by [S.S.I. 2005/445](https://www.legislation.gov.uk/ssi/2005/445), 512 and 544, 2006/561, 2008/92 and 225 and 2011/211 and 364.
 
-[^key-04ab8c2323753ea89ddd56e33aef98c7]: Textual amendment: [Reg. 2.B.3(A1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.3/A1)[(A2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.3/A2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/3/2)
+[^c-04ab8c2323753ea89ddd56e33aef98c7]: Textual amendment: [Reg. 2.B.3(A1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.3/A1)[(A2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.3/A2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/3/2)
 
-[^key-315d74376dd2a945f868dc4e8a84f05b]: Textual amendment: [Reg. 2.B.3(A3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.3/A3) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 2(2)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/2/2)
+[^c-315d74376dd2a945f868dc4e8a84f05b]: Textual amendment: [Reg. 2.B.3(A3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.3/A3) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 2(2)](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/2/2)
 
-[^key-74df017cebc61e2243d2845891b6ad8d]: Textual amendment: Regs. 2.B.3(1A)-(1Q) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/10)
+[^c-74df017cebc61e2243d2845891b6ad8d]: Textual amendment: Regs. 2.B.3(1A)-(1Q) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 10](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/10)
 
-[^key-24c0011d4926021eac846b1a81b53314]: Textual amendment: Words in reg. 2.B.3(1H)(b) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/2/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-24c0011d4926021eac846b1a81b53314]: Textual amendment: Words in reg. 2.B.3(1H)(b) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(2)(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/2/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-7a8d4f85124621acaab9c26b0ada6a23]: Textual amendment: Words in reg. 2.B.3(1H)(b) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/2/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-7a8d4f85124621acaab9c26b0ada6a23]: Textual amendment: Words in reg. 2.B.3(1H)(b) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(2)(b)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/2/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-34a4c33bd5abb0a6bcfcc34b8f6a280d]: Textual amendment: Words in reg. 2.B.3(1J)(a) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/3/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-34a4c33bd5abb0a6bcfcc34b8f6a280d]: Textual amendment: Words in reg. 2.B.3(1J)(a) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(3)(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/3/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-b2e6090ea6bcfb87d262a971e3587c15]: Textual amendment: Words in reg. 2.B.3(1J)(c) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/3/b/i) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-b2e6090ea6bcfb87d262a971e3587c15]: Textual amendment: Words in reg. 2.B.3(1J)(c) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/3/b/i) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-b1c0eeaed1ba8f6fb57e893372d735f1]: Textual amendment: Words in reg. 2.B.3(1J)(c) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/3/b/ii) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-b1c0eeaed1ba8f6fb57e893372d735f1]: Textual amendment: Words in reg. 2.B.3(1J)(c) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/434/regulation/9/3/b/ii) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-6a1f0874ba30a5fd834e4007275a9053]: Textual amendment: Words in reg. 2.B.3(2)(b) inserted (retrospective and with effect in accordance with reg. 1(7) of the amending S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [24](https://www.legislation.gov.uk/ssi/2015/96/regulation/24)
+[^c-6a1f0874ba30a5fd834e4007275a9053]: Textual amendment: Words in reg. 2.B.3(2)(b) inserted (retrospective and with effect in accordance with reg. 1(7) of the amending S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [24](https://www.legislation.gov.uk/ssi/2015/96/regulation/24)
 
 [^c21814391]: Marginal citation: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11). Section 1 was amended by section 8 of the [Pensions (Miscellaneous Provisions) Act 1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7), by paragraph 6 of Schedule 8 to the [Pension Schemes Act 1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), [paragraph 14](https://www.legislation.gov.uk/ukpga/1993/48/paragraph/14) of Schedule 8 to the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [S.I](https://www.legislation.gov.uk/ukpga/1998/46/section/I). 2000/2040, 2001/3649 and 2007/126. Section 9 was amended by sections 4(1), 8(3) and 11 of the [Pensions (Miscellaneous Provisions) Act 1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7), [paragraph 7](https://www.legislation.gov.uk/ukpga/1990/7/paragraph/7) of Schedule 8 to the [Pension Schemes Act 1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48) and [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-b99e5754030912ba298d550cb36d082d]: Textual amendment: Words in [reg. 2.B.6(4)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.6/4) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [19](https://www.legislation.gov.uk/ssi/2014/154/regulation/19)
+[^c-b99e5754030912ba298d550cb36d082d]: Textual amendment: Words in [reg. 2.B.6(4)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.B.6/4) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [19](https://www.legislation.gov.uk/ssi/2014/154/regulation/19)
 
 [^c21814401]: Marginal citation: Section 3 makes provision for the automatic enrolment of a qualifying worker into a qualifying scheme like the NHS Superannuation Scheme for Scotland. Section 5 makes provision for the automatic re-enrolment of such a person into such a scheme who has previously opted out of it. Section 8 makes provision for the opting out of such a scheme, including the effect of such an opt out.
 
 [^c21814411]: Marginal citation: Regulation 9 sets out the requirements for a valid opt out notice and the time period during which a person who has been automatically enrolled into a qualifying scheme may opt out of it. Regulation 15 applies the provisions of regulation 9 to a person who has been automatically re-enrolled into a qualifying scheme having previously opted out of it. Note that regulation 11 deals with the refund of contributions following an opt out.
 
-[^key-40a026e066338cfa2321d3732db3289b]: Textual amendment: Words in reg. 2.C.2(2) substituted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(a)(i)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/a/i)
+[^c-40a026e066338cfa2321d3732db3289b]: Textual amendment: Words in reg. 2.C.2(2) substituted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(a)(i)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/a/i)
 
-[^key-0fa747625f22c29ad0cb4168702e6508]: Textual amendment: Reg. 2.C.2(2)(c) inserted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [20(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/20/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-0fa747625f22c29ad0cb4168702e6508]: Textual amendment: Reg. 2.C.2(2)(c) inserted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [20(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/20/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-f2c17a7515f3a4109e63a79c8f902c4a]: Textual amendment: Reg. 2.C.2(2)(d) inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [10(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/10/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-f2c17a7515f3a4109e63a79c8f902c4a]: Textual amendment: Reg. 2.C.2(2)(d) inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [10(a)](https://www.legislation.gov.uk/ssi/2017/434/regulation/10/a) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-09554f4d235fa7953e5bab831f4d1e10]: Textual amendment: Reg. 2.C.2(2)(e) inserted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2019/46/regulation/7/a)
+[^c-09554f4d235fa7953e5bab831f4d1e10]: Textual amendment: Reg. 2.C.2(2)(e) inserted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [7(a)](https://www.legislation.gov.uk/ssi/2019/46/regulation/7/a)
 
-[^key-e769de6b2f387429bc25e2df9df56fa5]: Textual amendment: Reg. 2.C.2(2)(f) inserted (1.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/30)](https://www.legislation.gov.uk/ssi/2020/30), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/30/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2020/30/regulation/7/a)
+[^c-e769de6b2f387429bc25e2df9df56fa5]: Textual amendment: Reg. 2.C.2(2)(f) inserted (1.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/30)](https://www.legislation.gov.uk/ssi/2020/30), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/30/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2020/30/regulation/7/a)
 
-[^key-0e0f8c30ab5afdb2e563266c7c65f31d]: Textual amendment: [Reg. 2.C.2(2)(g)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.2/2/g) inserted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [30(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/30/a)
+[^c-0e0f8c30ab5afdb2e563266c7c65f31d]: Textual amendment: [Reg. 2.C.2(2)(g)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.2/2/g) inserted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [30(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/30/a)
 
-[^key-97c9c5d42ba381911d5b71c571f65097]: Textual amendment: Words in reg. 2.C.2(2) substituted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(a)(ii)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/a/ii)
+[^c-97c9c5d42ba381911d5b71c571f65097]: Textual amendment: Words in reg. 2.C.2(2) substituted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(a)(ii)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/a/ii)
 
-[^key-f7efdde338cdd946572dc143bba6a46a]: Textual amendment: Reg. 2.C.2(2) Table substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [25(b)](https://www.legislation.gov.uk/ssi/2015/96/regulation/25/b)
+[^c-f7efdde338cdd946572dc143bba6a46a]: Textual amendment: Reg. 2.C.2(2) Table substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [25(b)](https://www.legislation.gov.uk/ssi/2015/96/regulation/25/b)
 
-[^key-ad0fe29516c1b1e0b4c22c74eeb699b7]: Textual amendment: Reg. 2.C.2(2) Table inserted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(a)(iii)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/a/iii)
+[^c-ad0fe29516c1b1e0b4c22c74eeb699b7]: Textual amendment: Reg. 2.C.2(2) Table inserted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(a)(iii)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/a/iii)
 
-[^key-04e431e1b516863cc880b253eb6d502c]: Textual amendment: Reg. 2.C.2 Table 3 inserted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [20(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/20/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-04e431e1b516863cc880b253eb6d502c]: Textual amendment: Reg. 2.C.2 Table 3 inserted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [20(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/20/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-8ca84429857819e88503739f63988764]: Textual amendment: Reg. 2.C.2(2) Table 4 inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2017/434/regulation/10/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-8ca84429857819e88503739f63988764]: Textual amendment: Reg. 2.C.2(2) Table 4 inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2017/434/regulation/10/b) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-e311e489586412149b4e2233254b45fe]: Textual amendment: Reg. 2.C.2(2) Table 5 inserted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2019/46/regulation/7/b)
+[^c-e311e489586412149b4e2233254b45fe]: Textual amendment: Reg. 2.C.2(2) Table 5 inserted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [7(b)](https://www.legislation.gov.uk/ssi/2019/46/regulation/7/b)
 
-[^key-74277f87d43f863690a4b7dd2e246207]: Textual amendment: Reg. 2.C.2(2) Table 6 inserted (1.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/30)](https://www.legislation.gov.uk/ssi/2020/30), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/30/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2020/30/regulation/7/b)
+[^c-74277f87d43f863690a4b7dd2e246207]: Textual amendment: Reg. 2.C.2(2) Table 6 inserted (1.4.2020) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/30)](https://www.legislation.gov.uk/ssi/2020/30), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/30/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2020/30/regulation/7/b)
 
-[^key-085b8bca794fc01f0d2165e8a44d416a]: Textual amendment: [Reg. 2.C.2(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.2/2) Table 7 inserted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [30(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/30/b)
+[^c-085b8bca794fc01f0d2165e8a44d416a]: Textual amendment: [Reg. 2.C.2(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.2/2) Table 7 inserted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [30(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/30/b)
 
-[^key-6cc912dc99069e1953ba1bf95698308f]: Textual amendment: Reg. 2.C.2(3)(4) omitted (1.4.2015) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [25(c)](https://www.legislation.gov.uk/ssi/2015/96/regulation/25/c)
+[^c-6cc912dc99069e1953ba1bf95698308f]: Textual amendment: Reg. 2.C.2(3)(4) omitted (1.4.2015) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [25(c)](https://www.legislation.gov.uk/ssi/2015/96/regulation/25/c)
 
-[^key-4ad2d26a6b82f3923760db1500dfb878]: Textual amendment: Reg. 2.C.2(5) omitted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/b)
+[^c-4ad2d26a6b82f3923760db1500dfb878]: Textual amendment: Reg. 2.C.2(5) omitted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2016/98/regulation/8/b)
 
-[^key-89ef118c52982e8d2f410add8f0ffa01]: Textual amendment: Words in regs. 2.C.3(4)-(15) substituted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2016/98/regulation/9/a)
+[^c-89ef118c52982e8d2f410add8f0ffa01]: Textual amendment: Words in regs. 2.C.3(4)-(15) substituted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [9(a)](https://www.legislation.gov.uk/ssi/2016/98/regulation/9/a)
 
-[^key-774d41e6445be896d272444e41d455b5]: Textual amendment: Words in [reg. 2.C.3(16)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.3/16) substituted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [31](https://www.legislation.gov.uk/ssi/2021/102/regulation/31)
+[^c-774d41e6445be896d272444e41d455b5]: Textual amendment: Words in [reg. 2.C.3(16)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.3/16) substituted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [31](https://www.legislation.gov.uk/ssi/2021/102/regulation/31)
 
-[^key-9c7c21d146485419a3c00d3caf679779]: Textual amendment: Words in reg. 2.C.3(16) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/96/regulation/26)
+[^c-9c7c21d146485419a3c00d3caf679779]: Textual amendment: Words in reg. 2.C.3(16) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/96/regulation/26)
 
-[^key-d9efb3234718997bf0a83d583c3f7108]: Textual amendment: Words in [reg. 2.C.3(17)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.3/17/a) substituted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [31](https://www.legislation.gov.uk/ssi/2021/102/regulation/31)
+[^c-d9efb3234718997bf0a83d583c3f7108]: Textual amendment: Words in [reg. 2.C.3(17)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.3/17/a) substituted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [31](https://www.legislation.gov.uk/ssi/2021/102/regulation/31)
 
-[^key-63ed49f848f32063e6ff2243c9a81af9]: Textual amendment: Words in reg. 2.C.3(17)(a) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/96/regulation/26)
+[^c-63ed49f848f32063e6ff2243c9a81af9]: Textual amendment: Words in reg. 2.C.3(17)(a) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/96/regulation/26)
 
-[^key-f6dffb02a86624222302721440c70e85]: Textual amendment: Words in reg. 2.C.3(21)(a) omitted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [9(c)](https://www.legislation.gov.uk/ssi/2016/98/regulation/9/c)
+[^c-f6dffb02a86624222302721440c70e85]: Textual amendment: Words in reg. 2.C.3(21)(a) omitted (with effect in accordance with reg. 1(2)(e) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [9(c)](https://www.legislation.gov.uk/ssi/2016/98/regulation/9/c)
 
-[^key-6afb806bcd49c36a1a32549946cf44a1]: Textual amendment: Words in [reg. 2.C.3(21)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.3/21/b) substituted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [31](https://www.legislation.gov.uk/ssi/2021/102/regulation/31)
+[^c-6afb806bcd49c36a1a32549946cf44a1]: Textual amendment: Words in [reg. 2.C.3(21)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.3/21/b) substituted (1.4.2021) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [31](https://www.legislation.gov.uk/ssi/2021/102/regulation/31)
 
-[^key-6d1a3af6c8afeec080b54ba581d1c33c]: Textual amendment: Words in reg. 2.C.3(21)(b) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/96/regulation/26)
+[^c-6d1a3af6c8afeec080b54ba581d1c33c]: Textual amendment: Words in reg. 2.C.3(21)(b) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [26](https://www.legislation.gov.uk/ssi/2015/96/regulation/26)
 
-[^key-866e31241978aec334492f976edd16aa]: Textual amendment: Reg. 2.C.4(15) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [27](https://www.legislation.gov.uk/ssi/2015/96/regulation/27)
+[^c-866e31241978aec334492f976edd16aa]: Textual amendment: Reg. 2.C.4(15) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [27](https://www.legislation.gov.uk/ssi/2015/96/regulation/27)
 
-[^key-10f03a15edcef27bc7b0de0a770ea3ee]: Textual amendment: Reg. 2.C.4(15)(b)(c) substituted for reg. 2.C.4(15)(b) (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [10(a)](https://www.legislation.gov.uk/ssi/2016/98/regulation/10/a)
+[^c-10f03a15edcef27bc7b0de0a770ea3ee]: Textual amendment: Reg. 2.C.4(15)(b)(c) substituted for reg. 2.C.4(15)(b) (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [10(a)](https://www.legislation.gov.uk/ssi/2016/98/regulation/10/a)
 
-[^key-38bcb5d541540ee539a6fe6663b4863a]: Textual amendment: Reg. 2.C.4(15) Tables 1-3 substituted for Tables 1, 2 (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2016/98/regulation/10/b)
+[^c-38bcb5d541540ee539a6fe6663b4863a]: Textual amendment: Reg. 2.C.4(15) Tables 1-3 substituted for Tables 1, 2 (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [10(b)](https://www.legislation.gov.uk/ssi/2016/98/regulation/10/b)
 
 [^c21814421]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
 [^c21814431]: Marginal citation: [1970 c.60](https://www.legislation.gov.uk/ukpga/1970/60). Section 59 was amended by section 11 of, and paragraph 20 of Schedule 3 to, the [Social Security Act 1979 (c.18)](https://www.legislation.gov.uk/ukpga/1979/18), [paragraph 33](https://www.legislation.gov.uk/ukpga/1979/18/paragraph/33) of Schedule 5, and Schedule 6, to the [Social Security Act 1985 (c.53)](https://www.legislation.gov.uk/ukpga/1985/53), [section 9(8)](https://www.legislation.gov.uk/ukpga/1985/53/section/9/8) of the [Social Security Act 1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50), [sections 1(7)](https://www.legislation.gov.uk/ukpga/1986/50/section/1/7) and 5 of the [Pensions (Miscellaneous Provisions) Act 1990 (c.7)](https://www.legislation.gov.uk/ukpga/1990/7), [paragraph 34](https://www.legislation.gov.uk/ukpga/1990/7/paragraph/34) of Schedule 2 to the [Social Security (Consequential Provisions) Act 1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6) and paragraph 9(1) of Schedule 8 to the [Pensions Schemes Act 1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-4949bc9635ccd0ea8f5cc23f65a2fd9c]: Textual amendment: Word in [reg. 2.C.5(4)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.5/4) substituted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [9](https://www.legislation.gov.uk/ssi/2019/46/regulation/9)
+[^c-4949bc9635ccd0ea8f5cc23f65a2fd9c]: Textual amendment: Word in [reg. 2.C.5(4)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.5/4) substituted (1.4.2019) by [The National Health Service Superannuation and Pension Schemes (Scotland) (Miscellaneous Amendments) Regulations 2019 (S.S.I. 2019/46)](https://www.legislation.gov.uk/ssi/2019/46), [regs. 1](https://www.legislation.gov.uk/ssi/2019/46/regulation/1), [9](https://www.legislation.gov.uk/ssi/2019/46/regulation/9)
 
 [^c21814441]: Marginal citation: [S.S.I. 1998/1451](https://www.legislation.gov.uk/ssi/1998/1451), amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and [S.S.I. 2001/465](https://www.legislation.gov.uk/ssi/2001/465), 2004/62, 2005/544, 2006/307, 2008/225, 2010/22 and 369, 2011/364 and 2012/163.
 
-[^key-9127e1782163912c6d680036fd570a34]: Modification: [Reg. 2.C.8](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.8) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-9127e1782163912c6d680036fd570a34]: Modification: [Reg. 2.C.8](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.8) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-5910d272665b90da9578494fd4545799]: Modification: Reg. 2.C.9 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-5910d272665b90da9578494fd4545799]: Modification: Reg. 2.C.9 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-fcfdcd73911606098f20402f095348a6]: Textual amendment: Words in reg. 2.C.9(1)(d) inserted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(5)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/5)
+[^c-fcfdcd73911606098f20402f095348a6]: Textual amendment: Words in reg. 2.C.9(1)(d) inserted (6.4.2020) by virtue of [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(5)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/5)
 
-[^key-c15a230f55474ef15a7054e3bd152b16]: Modification: [Reg. 2.C.10](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.10) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-c15a230f55474ef15a7054e3bd152b16]: Modification: [Reg. 2.C.10](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.10) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-8bd9c0bea6298f1225f7937a84a84ef2]: Modification: [Reg. 2.C.11](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.11) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-8bd9c0bea6298f1225f7937a84a84ef2]: Modification: [Reg. 2.C.11](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.11) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-540c119de1491028e95822b70a0942f0]: Modification: [Reg. 2.C.12](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.12) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-540c119de1491028e95822b70a0942f0]: Modification: [Reg. 2.C.12](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.12) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-9cf55092378c83cd080d4d12e585aa03]: Modification: [Reg. 2.C.13](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.13) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-9cf55092378c83cd080d4d12e585aa03]: Modification: [Reg. 2.C.13](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.13) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-ceea063771bd1f9e919cfb575dfd9144]: Modification: [Reg. 2.C.14](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.14) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-ceea063771bd1f9e919cfb575dfd9144]: Modification: [Reg. 2.C.14](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.14) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
 [^c21814451]: Marginal citation: For the effect of the options under regulation 2.C.8 where this regulation does not apply, see regulation 2.C.16 (effect of part payment of periodical contributions).
 
 [^c21814461]: Marginal citation: See regulations 2.D.3 to 2.D.5 and 2.K.21.
 
-[^key-3cf15898820b7cc7d69991212874bdb4]: Modification: [Reg. 2.C.15](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.15) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-3cf15898820b7cc7d69991212874bdb4]: Modification: [Reg. 2.C.15](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.15) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-3b3393d3f94f55d9042a16c590d590e7]: Modification: [Reg. 2.C.16](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.16) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-3b3393d3f94f55d9042a16c590d590e7]: Modification: [Reg. 2.C.16](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.16) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-f7638511c32557d4dfe0ee899397b2d3]: Modification: [Reg. 2.C.17](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.17) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-f7638511c32557d4dfe0ee899397b2d3]: Modification: [Reg. 2.C.17](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.17) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
 [^c21814471]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
 [^c21814481]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-ebcad1cc65c22325b38c1d439a519b88]: Modification: Reg. 2.C.18 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
+[^c-ebcad1cc65c22325b38c1d439a519b88]: Modification: Reg. 2.C.18 modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [23](https://www.legislation.gov.uk/ssi/2015/95/regulation/23)
 
-[^key-7e9aa564fcabc4ec5fd1b2cefdb79277]: Textual amendment: Words in [reg. 2.C.18(1)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.18/1/b) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [22(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/22/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-7e9aa564fcabc4ec5fd1b2cefdb79277]: Textual amendment: Words in [reg. 2.C.18(1)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.18/1/b) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [22(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/22/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-ae2e9caaa0f0741f5dab97e267c059c2]: Textual amendment: Words in [reg. 2.C.18(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.18/3) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [22(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/22/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-ae2e9caaa0f0741f5dab97e267c059c2]: Textual amendment: Words in [reg. 2.C.18(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.18/3) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [22(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/22/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-0a41f7f5017a0c52d172aa581350cd63]: Textual amendment: Words in [reg. 2.C.18(8)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.18/8) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [22(c)](https://www.legislation.gov.uk/ssi/2017/27/regulation/22/c) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-0a41f7f5017a0c52d172aa581350cd63]: Textual amendment: Words in [reg. 2.C.18(8)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.C.18/8) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [22(c)](https://www.legislation.gov.uk/ssi/2017/27/regulation/22/c) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814491]: Marginal citation: [1967 c.28](https://www.legislation.gov.uk/ukpga/1967/28). Section 7 was amended by [S.I. 1968/1699](https://www.legislation.gov.uk/uksi/1968/1699), [section 10(5)](https://www.legislation.gov.uk/uksi/1968/1699/section/10/5) of, and paragraph 66 of Schedule 6 and Schedule 8 to, the [Superannuation Act 1972 (c.11)](https://www.legislation.gov.uk/ukpga/1972/11), [Schedule 5](https://www.legislation.gov.uk/ukpga/1972/11/schedule/5) to the [National Health Service Reorganisation Act 1973 (c.32)](https://www.legislation.gov.uk/ukpga/1973/32), [paragraph 24](https://www.legislation.gov.uk/ukpga/1973/32/paragraph/24) of Schedule 16 to the [National Health Service (Scotland) Act 1978 (c.29)](https://www.legislation.gov.uk/ukpga/1978/29) and paragraph 29 of Schedule 1 to the [National Health Service (Consequential Provisions) Act 2006 (c.43)](https://www.legislation.gov.uk/ukpga/2006/43).
 
-[^key-344b459e805dbb259478515610d9aa76]: Textual amendment: Words in [reg. 2.D.5(1)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/1/a) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(2)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/2/a)
+[^c-344b459e805dbb259478515610d9aa76]: Textual amendment: Words in [reg. 2.D.5(1)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/1/a) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(2)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/2/a)
 
-[^key-2d5ffcab9fd3ebaa4940d6218ee4182d]: Textual amendment: Words in [reg. 2.D.5(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/1/d) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(2)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/2/b)
+[^c-2d5ffcab9fd3ebaa4940d6218ee4182d]: Textual amendment: Words in [reg. 2.D.5(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/1/d) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(2)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/2/b)
 
-[^key-c348f26741fbfe80c2739a2e0b0365d5]: Textual amendment: Words in [reg. 2.D.5(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/2) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/3)
+[^c-c348f26741fbfe80c2739a2e0b0365d5]: Textual amendment: Words in [reg. 2.D.5(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/2) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/3)
 
-[^key-6a858de31c00bc9f74d50f83ab8acc14]: Textual amendment: Words in [reg. 2.D.5(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/6/a/ii) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(4)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/4/a)
+[^c-6a858de31c00bc9f74d50f83ab8acc14]: Textual amendment: Words in [reg. 2.D.5(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/6/a/ii) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(4)(a)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/4/a)
 
-[^key-3219a0130754d22ca9323417c6dd3f87]: Textual amendment: [Reg. 2.D.5(6)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/6/b) omitted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(4)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/4/b)
+[^c-3219a0130754d22ca9323417c6dd3f87]: Textual amendment: [Reg. 2.D.5(6)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/6/b) omitted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(4)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/4/b)
 
-[^key-dba2f9b4300794399934972634f070c1]: Textual amendment: [Reg. 2.D.5(6)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/6/c) omitted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(4)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/4/b)
+[^c-dba2f9b4300794399934972634f070c1]: Textual amendment: [Reg. 2.D.5(6)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/6/c) omitted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(4)(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/4/b)
 
-[^key-b3bb205cb206a751840e8c938bd90151]: Textual amendment: Words in [reg. 2.D.5(9)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/9/b) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/5)
+[^c-b3bb205cb206a751840e8c938bd90151]: Textual amendment: Words in [reg. 2.D.5(9)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/9/b) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/5)
 
-[^key-60ca25a519aa5b318b49b29bb73cf999]: Textual amendment: [Reg. 2.D.5(9A)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/9A) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/6)
+[^c-60ca25a519aa5b318b49b29bb73cf999]: Textual amendment: [Reg. 2.D.5(9A)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.5/9A) inserted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [31(6)](https://www.legislation.gov.uk/ssi/2024/272/regulation/31/6)
 
-[^key-27d4d2b85495b8bbb076f649bcb88ac2]: Textual amendment: Words in [reg. 2.D.6(1)(b)(i)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.6/1/b/i) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [32(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/32/2)
+[^c-27d4d2b85495b8bbb076f649bcb88ac2]: Textual amendment: Words in [reg. 2.D.6(1)(b)(i)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.6/1/b/i) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [32(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/32/2)
 
-[^key-fbfa82f8d3f71b5756a624f33b5f0354]: Textual amendment: Words in reg. 2.D.6(1)(b)(ii) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [22(b)](https://www.legislation.gov.uk/ssi/2014/154/regulation/22/b)
+[^c-fbfa82f8d3f71b5756a624f33b5f0354]: Textual amendment: Words in reg. 2.D.6(1)(b)(ii) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [22(b)](https://www.legislation.gov.uk/ssi/2014/154/regulation/22/b)
 
-[^key-edb17f5d1809651f59e41d1aa36c9286]: Textual amendment: Words in [reg. 2.D.6(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.6/1/b/ii) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [32(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/32/3)
+[^c-edb17f5d1809651f59e41d1aa36c9286]: Textual amendment: Words in [reg. 2.D.6(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.6/1/b/ii) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [32(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/32/3)
 
-[^key-46d4df7694e8140983817fb1cc5254fd]: Textual amendment: Words in reg. 2.D.6(1)(b)(ii) omitted (28.6.2014) by virtue of [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [22(a)](https://www.legislation.gov.uk/ssi/2014/154/regulation/22/a)
+[^c-46d4df7694e8140983817fb1cc5254fd]: Textual amendment: Words in reg. 2.D.6(1)(b)(ii) omitted (28.6.2014) by virtue of [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [22(a)](https://www.legislation.gov.uk/ssi/2014/154/regulation/22/a)
 
-[^key-f8cfd560a1d2338b7b5565d0958bc533]: Textual amendment: Words in [reg. 2.D.7(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.7/1) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/33/2)
+[^c-f8cfd560a1d2338b7b5565d0958bc533]: Textual amendment: Words in [reg. 2.D.7(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.7/1) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/33/2)
 
-[^key-171c4878be69709ebdfb08b9d793e3ec]: Textual amendment: Words in [reg. 2.D.7(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.7/3) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [33(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/33/3)
+[^c-171c4878be69709ebdfb08b9d793e3ec]: Textual amendment: Words in [reg. 2.D.7(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.7/3) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [33(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/33/3)
 
-[^key-825af316114b6b18c25ad378cc324c77]: Textual amendment: Words in [reg. 2.D.7(5)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.7/5) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [33(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/33/4)
+[^c-825af316114b6b18c25ad378cc324c77]: Textual amendment: Words in [reg. 2.D.7(5)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.7/5) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [33(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/33/4)
 
-[^key-2df8f9d9c5a3fc037a3d20060362611e]: Textual amendment: Words in [reg. 2.D.11(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.11/3) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [29(1)(a)](https://www.legislation.gov.uk/ssi/2015/96/regulation/29/1/a)
+[^c-2df8f9d9c5a3fc037a3d20060362611e]: Textual amendment: Words in [reg. 2.D.11(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.11/3) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [29(1)(a)](https://www.legislation.gov.uk/ssi/2015/96/regulation/29/1/a)
 
-[^key-28babb13ab9b0ee1cf611fdcce5011ef]: Textual amendment: [Reg. 2.D.11(3A)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.11/3A) inserted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [29(1)(b)](https://www.legislation.gov.uk/ssi/2015/96/regulation/29/1/b)
+[^c-28babb13ab9b0ee1cf611fdcce5011ef]: Textual amendment: [Reg. 2.D.11(3A)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.11/3A) inserted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [29(1)(b)](https://www.legislation.gov.uk/ssi/2015/96/regulation/29/1/b)
 
 [^c21814501]: Marginal citation: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-3a197e0bf8c3662b9851dcfa194660f8]: Textual amendment: Words in reg. 2.D.13(1) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 11(a)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/11/a)
+[^c-3a197e0bf8c3662b9851dcfa194660f8]: Textual amendment: Words in reg. 2.D.13(1) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 11(a)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/11/a)
 
 [^c21814511]: Marginal citation: For the effect of a pension becoming payable as a result of paragraph (2) applying, see Chapter 2.G (re-employment and rejoining the scheme) and Chapter 2.H (abatement).
 
-[^key-fb3b2118fb83a98947321e13f48ce704]: Textual amendment: Reg. 2.D.13(2A) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 11(b)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/11/b)
+[^c-fb3b2118fb83a98947321e13f48ce704]: Textual amendment: Reg. 2.D.13(2A) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 11(b)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/11/b)
 
-[^key-1c9b180cb692af154d5443424d9a415d]: Textual amendment: Words in [reg. 2.D.13(2A)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.13/2A) inserted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [34](https://www.legislation.gov.uk/ssi/2024/272/regulation/34)
+[^c-1c9b180cb692af154d5443424d9a415d]: Textual amendment: Words in [reg. 2.D.13(2A)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.13/2A) inserted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [34](https://www.legislation.gov.uk/ssi/2024/272/regulation/34)
 
 [^M_F_05a582c7-98a0-4412-b2c5-cb0a3c5f8ade]: Textual amendment: Reg. 2.D.13(3) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 11(c)](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/11/c)
 
@@ -6102,73 +6102,73 @@ Table
 
 [^c21814531]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-0e25e48fda74334f5fff889b934fa51b]: Textual amendment: Words in [reg. 2.D.21(9)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.21/9/c) substituted (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [23](https://www.legislation.gov.uk/ssi/2017/27/regulation/23) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-0e25e48fda74334f5fff889b934fa51b]: Textual amendment: Words in [reg. 2.D.21(9)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.D.21/9/c) substituted (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [23](https://www.legislation.gov.uk/ssi/2017/27/regulation/23) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814551]: Marginal citation: For the rate at which the pension referred to in paragraph (1) is payable see [regulations 2](https://www.legislation.gov.uk/ssi/2013/174/regulation/2).E.3 to 2.E.7 (amount of surviving adult's pension) and, in any case where that pension includes additional pension, regulations 2.C.14(4) (effect of payment of additional contributions) and 2.C.16(3) (effect of part payment of periodical contributions).
 
-[^key-18d3c3aa068041c78a4da42d8c91d631]: Textual amendment: Words in [reg. 2.E.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.1/2) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [32](https://www.legislation.gov.uk/ssi/2021/102/regulation/32)
+[^c-18d3c3aa068041c78a4da42d8c91d631]: Textual amendment: Words in [reg. 2.E.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.1/2) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [32](https://www.legislation.gov.uk/ssi/2021/102/regulation/32)
 
-[^key-5180abafbdd9d5d59fecfd4a807d6421]: Textual amendment: [Reg. 2.E.2](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.2) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [33](https://www.legislation.gov.uk/ssi/2021/102/regulation/33)
+[^c-5180abafbdd9d5d59fecfd4a807d6421]: Textual amendment: [Reg. 2.E.2](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.2) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [33](https://www.legislation.gov.uk/ssi/2021/102/regulation/33)
 
-[^key-6f84b62d1f1261de8e2612ed70cc4b79]: Textual amendment: Words in reg. 2.E.5(2) omitted (retrospective and with effect in accordance with reg. 1(8) of the amending S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [30](https://www.legislation.gov.uk/ssi/2015/96/regulation/30)
+[^c-6f84b62d1f1261de8e2612ed70cc4b79]: Textual amendment: Words in reg. 2.E.5(2) omitted (retrospective and with effect in accordance with reg. 1(8) of the amending S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [30](https://www.legislation.gov.uk/ssi/2015/96/regulation/30)
 
 [^c21814561]: Marginal citation: For the rate at which the pension referred to in paragraph (1) is payable, see [regulations 2](https://www.legislation.gov.uk/ssi/2013/174/regulation/2).E.10 to 2.E.15 (amount of surviving child's pension) and, in any case where that pension includes additional pension, regulations 2.C.14(4) (effect of payment of additional contributions) and 2.C.16(3) (effect of part payment of periodical contributions).
 
-[^key-198f20c6208868abd35043e75918ae64]: Textual amendment: Words in [reg. 2.E.9(2)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/d) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(a)(ii)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/a/ii)
+[^c-198f20c6208868abd35043e75918ae64]: Textual amendment: Words in [reg. 2.E.9(2)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/d) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(a)(ii)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/a/ii)
 
-[^key-e680767d2bd2a23a6eb9c13a53c3e521]: Textual amendment: Words in [reg. 2.E.9(2)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/d) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(a)(i)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/a/i)
+[^c-e680767d2bd2a23a6eb9c13a53c3e521]: Textual amendment: Words in [reg. 2.E.9(2)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/d) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(a)(i)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/a/i)
 
-[^key-27041aef7b16be0ed6f565529afd4417]: Textual amendment: Words in [reg. 2.E.9(2)(e)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/e) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/b)
+[^c-27041aef7b16be0ed6f565529afd4417]: Textual amendment: Words in [reg. 2.E.9(2)(e)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/e) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/b)
 
-[^key-c32a6898d0e465ebb799b6f7c273779e]: Textual amendment: Words in [reg. 2.E.9(2)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/f) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(c)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/c)
+[^c-c32a6898d0e465ebb799b6f7c273779e]: Textual amendment: Words in [reg. 2.E.9(2)(f)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.9/2/f) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [34(c)](https://www.legislation.gov.uk/ssi/2021/102/regulation/34/c)
 
 [^c21814571]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-ebec15097fededfe734ca87c9c2b0e10]: Textual amendment: Words in reg. 2.E.22(7) substituted (with effect from 1.4.2008) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/3), [13](https://www.legislation.gov.uk/ssi/2025/259/regulation/13)
+[^c-ebec15097fededfe734ca87c9c2b0e10]: Textual amendment: Words in reg. 2.E.22(7) substituted (with effect from 1.4.2008) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/3), [13](https://www.legislation.gov.uk/ssi/2025/259/regulation/13)
 
 [^c21814581]: Marginal citation: [1965 c.32](https://www.legislation.gov.uk/ukpga/1965/32). Section 6(1) was amended by the section 24(2) of the [Parliamentary Pensions Act 1972 (c.48)](https://www.legislation.gov.uk/ukpga/1972/48), [section 6(3)](https://www.legislation.gov.uk/ukpga/1972/48/section/6/3) of the [National Debt Act 1972 (c.65)](https://www.legislation.gov.uk/ukpga/1972/65), [paragraph 20](https://www.legislation.gov.uk/ukpga/1972/65/paragraph/20) of Schedule 9 to the [Friendly Societies Act 1974 (c.46)](https://www.legislation.gov.uk/ukpga/1974/46), [section 36(2)](https://www.legislation.gov.uk/ukpga/1974/46/section/36/2) of, and Schedule 4 to, the [Judicial Pensions Act 1981 (c.20)](https://www.legislation.gov.uk/ukpga/1981/20), [section 1(1)](https://www.legislation.gov.uk/ukpga/1981/20/section/1/1) of, and Part 1 of Schedule 1 to the [Statute Law (Repeals) Act 1986 (c.12)](https://www.legislation.gov.uk/ukpga/1986/12), [section 6](https://www.legislation.gov.uk/ukpga/1986/12/section/6) of, and Schedule 4 of, the Parliamentary and other [Pensions Act 1987 (c.45)](https://www.legislation.gov.uk/ukpga/1987/45) and paragraph 1 of Schedule 12 to the [Merchant Shipping Act 1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-ce903300c0310129c598a44ba93ded15]: Textual amendment: Words in [reg. 2.E.24(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.24/1/d) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(6)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/6)
+[^c-ce903300c0310129c598a44ba93ded15]: Textual amendment: Words in [reg. 2.E.24(1)(d)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.24/1/d) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [32(6)](https://www.legislation.gov.uk/uksi/2020/354/regulation/32/6)
 
-[^key-5edf5731dd99e82843a868001240db4f]: Textual amendment: Words in reg. 2.E.24(1)(d) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2017/27/regulation/24) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-5edf5731dd99e82843a868001240db4f]: Textual amendment: Words in reg. 2.E.24(1)(d) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2017/27/regulation/24) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-aeaf7e3acbe2696c97699f3e1a770b7a]: Textual amendment: Words in [reg. 2.E.27(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.27/3) substituted (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [25](https://www.legislation.gov.uk/ssi/2017/27/regulation/25) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-aeaf7e3acbe2696c97699f3e1a770b7a]: Textual amendment: Words in [reg. 2.E.27(3)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.27/3) substituted (with effect in accordance with reg. 1(2)(f) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [25](https://www.legislation.gov.uk/ssi/2017/27/regulation/25) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-4b9a5f5dce4634c5f066804ea994b772]: Textual amendment: Words in [reg. 2.E.27(3)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.27/3/b) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 32(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/32/3)
+[^c-4b9a5f5dce4634c5f066804ea994b772]: Textual amendment: Words in [reg. 2.E.27(3)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.E.27/3/b) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 32(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/32/3)
 
-[^key-cee8936e2c22121f67ea326d60521761]: Textual amendment: Words in [reg. 2.F.1(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/1) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-cee8936e2c22121f67ea326d60521761]: Textual amendment: Words in [reg. 2.F.1(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/1) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-644aa4798787aedcbc3ad15e79f423c3]: Textual amendment: Words in [reg. 2.F.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/2) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-644aa4798787aedcbc3ad15e79f423c3]: Textual amendment: Words in [reg. 2.F.1(2)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/2) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-d82e4c30fe3c1cbd0a36985c31bb5925]: Textual amendment: Words in [reg. 2.F.1(3)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/3/a) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(c)(i)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/c/i) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-d82e4c30fe3c1cbd0a36985c31bb5925]: Textual amendment: Words in [reg. 2.F.1(3)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/3/a) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(c)(i)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/c/i) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-e0164c50f63fecae94e6d895d5c227e1]: Textual amendment: Words in reg. 2.F.1(3)(a) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [31](https://www.legislation.gov.uk/ssi/2015/96/regulation/31)
+[^c-e0164c50f63fecae94e6d895d5c227e1]: Textual amendment: Words in reg. 2.F.1(3)(a) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [31](https://www.legislation.gov.uk/ssi/2015/96/regulation/31)
 
-[^key-eacb90b16c936d20d51d54a13e00be3c]: Textual amendment: Words in [reg. 2.F.1(3)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/3/b) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(c)(ii)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/c/ii) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-eacb90b16c936d20d51d54a13e00be3c]: Textual amendment: Words in [reg. 2.F.1(3)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.1/3/b) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [26(c)(ii)](https://www.legislation.gov.uk/ssi/2017/27/regulation/26/c/ii) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-bd8a1f1250ace6969c43625273f283c9]: Textual amendment: Words in [reg. 2.F.4(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.4/6) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [32](https://www.legislation.gov.uk/ssi/2015/96/regulation/32)
+[^c-bd8a1f1250ace6969c43625273f283c9]: Textual amendment: Words in [reg. 2.F.4(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.4/6) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [32](https://www.legislation.gov.uk/ssi/2015/96/regulation/32)
 
-[^key-b6fb53840acb75daf5880030f29889b3]: Textual amendment: Words in [reg. 2.F.5(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.5/1) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [27(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/27/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-b6fb53840acb75daf5880030f29889b3]: Textual amendment: Words in [reg. 2.F.5(1)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.5/1) substituted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [27(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/27/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-3c01468c6ea61404359c7f8a3e1c18d2]: Textual amendment: Reg. 2.F.5(2) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [33(1)(b)](https://www.legislation.gov.uk/ssi/2015/96/regulation/33/1/b)
+[^c-3c01468c6ea61404359c7f8a3e1c18d2]: Textual amendment: Reg. 2.F.5(2) substituted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [33(1)(b)](https://www.legislation.gov.uk/ssi/2015/96/regulation/33/1/b)
 
-[^key-6ab6da1f48c000bdbf5a1df1c1b62cb6]: Textual amendment: [Reg. 2.F.5(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.5/6) inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [27(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/27/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-6ab6da1f48c000bdbf5a1df1c1b62cb6]: Textual amendment: [Reg. 2.F.5(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.5/6) inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [27(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/27/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814591]: Marginal citation: [S.I. 1996/1847](https://www.legislation.gov.uk/uksi/1996/1847), amended by 1997/786 and 1613, 2003/1727, 2005/72, 686, 706 and 3377, 2006/34 and 744, 2007/60, 2008/1050 and 2450, 2009/615, 2011/1246 and 2012/692.
 
 [^c21814601]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Section 591 was repealed by Part 3 of Schedule 42 of the [Finance Act 2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-fc034fe9b4da7ca038f3b4215776115f]: Textual amendment: Reg. 2.F.9(c) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/12)
+[^c-fc034fe9b4da7ca038f3b4215776115f]: Textual amendment: Reg. 2.F.9(c) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/12)
 
-[^key-a83fdf04bf367b409a1790913fa6f464]: Textual amendment: Words in reg. 2.F.9(1)(c)(ii) inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [28](https://www.legislation.gov.uk/ssi/2017/27/regulation/28) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-a83fdf04bf367b409a1790913fa6f464]: Textual amendment: Words in reg. 2.F.9(1)(c)(ii) inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [28](https://www.legislation.gov.uk/ssi/2017/27/regulation/28) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-5d1bedec91e6ae344a1354d2f4e64244]: Textual amendment: Word in [reg. 2.F.9(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.9/1/c/ii) inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2017/434/regulation/12/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-5d1bedec91e6ae344a1354d2f4e64244]: Textual amendment: Word in [reg. 2.F.9(1)(c)(ii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.9/1/c/ii) inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2017/434/regulation/12/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-0a7aac006305e90314c6f1e39c88b2e2]: Textual amendment: [Reg. 2.F.9(1)(c)(iii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.9/1/c/iii) inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2017/434/regulation/12/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-0a7aac006305e90314c6f1e39c88b2e2]: Textual amendment: [Reg. 2.F.9(1)(c)(iii)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.9/1/c/iii) inserted (31.1.2018) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2017/434/regulation/12/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
 [^c21814611]: Marginal citation: For the meaning of “capped transferred-in service” see regulation 2.F.12.
 
-[^key-804918e615ffc85c43aba5c448e4510d]: Textual amendment: Words in [reg. 2.F.10(6)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.10/6/a) omitted (1.4.2015) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/96/regulation/34)
+[^c-804918e615ffc85c43aba5c448e4510d]: Textual amendment: Words in [reg. 2.F.10(6)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.F.10/6/a) omitted (1.4.2015) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [34](https://www.legislation.gov.uk/ssi/2015/96/regulation/34)
 
 [^c21814621]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1). Section 590C was repealed, subject to transitional provisions and savings, by Part 3 of Schedule 42 to the [Finance Act 2004 (c.12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -6190,27 +6190,27 @@ Table
 
 [^c21814711]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-f11f80f268910aeebe6fd6650be32292]: Textual amendment: [Reg. 2.J.6(2)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.6/2/a) omitted (13.3.2017) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2017/27/regulation/29) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-f11f80f268910aeebe6fd6650be32292]: Textual amendment: [Reg. 2.J.6(2)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.6/2/a) omitted (13.3.2017) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [29](https://www.legislation.gov.uk/ssi/2017/27/regulation/29) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814721]: Marginal citation: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785). Section 2 was amended by [S.I. 2005/706](https://www.legislation.gov.uk/uksi/2005/706), 2006/744 and 778 and 2009/2930.
 
 [^c21814731]: Marginal citation: [S.I. 2009/1171](https://www.legislation.gov.uk/uksi/2009/1171). Section 12 was amended by paragraph 17 of Schedule 20 to the [Finance Act 2007 (c.11)](https://www.legislation.gov.uk/ukpga/2007/11) and [S.I. 2011/1751](https://www.legislation.gov.uk/uksi/2011/1751).
 
-[^key-2c1ed66ef6d1bd32df6273b4bc7dab4c]: Textual amendment: Words in [reg. 2.J.7(2)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.7/2/a) omitted (13.3.2017) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2017/27/regulation/30) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-2c1ed66ef6d1bd32df6273b4bc7dab4c]: Textual amendment: Words in [reg. 2.J.7(2)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.7/2/a) omitted (13.3.2017) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2017/27/regulation/30) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
 [^c21814741]: Marginal citation: [1911 c.11](https://www.legislation.gov.uk/ukpga/1911/11), [1920 c.75](https://www.legislation.gov.uk/ukpga/1920/75), [1939 c.121](https://www.legislation.gov.uk/ukpga/1939/121) and [1989 c.6](https://www.legislation.gov.uk/ukpga/1989/6).
 
-[^key-9f0491491634e1a63a2533ee10b8f99d]: Textual amendment: Words in [reg. 2.J.8(2)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/2/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 32(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/32/2)
+[^c-9f0491491634e1a63a2533ee10b8f99d]: Textual amendment: Words in [reg. 2.J.8(2)(b)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/2/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 32(2)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/32/2)
 
-[^key-175e98c904e444498fcd12fceb0f90a2]: Textual amendment: Words in [reg. 2.J.8(5)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/5/a) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [35(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/35/2)
+[^c-175e98c904e444498fcd12fceb0f90a2]: Textual amendment: Words in [reg. 2.J.8(5)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/5/a) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [35(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/35/2)
 
-[^key-67bda354351f69d108d900cc4c318af2]: Textual amendment: Words in [reg. 2.J.8(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/6) omitted (13.3.2017) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [31(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/31/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-67bda354351f69d108d900cc4c318af2]: Textual amendment: Words in [reg. 2.J.8(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/6) omitted (13.3.2017) by virtue of [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [31(a)](https://www.legislation.gov.uk/ssi/2017/27/regulation/31/a) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-f623b2361c9f4b5ca2134d9084948e5c]: Textual amendment: Words in [reg. 2.J.8(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/6) inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [31(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/31/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
+[^c-f623b2361c9f4b5ca2134d9084948e5c]: Textual amendment: Words in [reg. 2.J.8(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.8/6) inserted (13.3.2017) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/27)](https://www.legislation.gov.uk/ssi/2017/27), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/27/regulation/1/1), [31(b)](https://www.legislation.gov.uk/ssi/2017/27/regulation/31/b) (with [reg. 53](https://www.legislation.gov.uk/ssi/2017/27/regulation/53))
 
-[^key-b0ac65c451ace29281ba938073e26d1c]: Textual amendment: Words in reg. 2.J.9(2)(a) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [14(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/14/2)
+[^c-b0ac65c451ace29281ba938073e26d1c]: Textual amendment: Words in reg. 2.J.9(2)(a) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [14(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/14/2)
 
-[^key-90063868151e5486d697dea2b2f1ffe2]: Textual amendment: Reg. 2.J.9(2A) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [14(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/14/3)
+[^c-90063868151e5486d697dea2b2f1ffe2]: Textual amendment: Reg. 2.J.9(2A) inserted (with effect from 6.4.2024) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1)[(9)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/9), [14(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/14/3)
 
 [^c21814751]: Marginal citation: [Section 206](https://www.legislation.gov.uk/ssi/2013/174/section/206) was inserted by paragraph 41 of Schedule 16 to the [Finance Act 2011 (c.11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
@@ -6230,11 +6230,11 @@ Table
 
 [^c21814831]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 310 was amended by paragraph 15 of Schedule 3 to the [Pensions Act 1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), [paragraph 2](https://www.legislation.gov.uk/ukpga/1995/26/paragraph/2) of Schedule 2 to the [Welfare Reform and Pensions Act 1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), [section 259(3)](https://www.legislation.gov.uk/ukpga/1999/30/section/259/3) and (4) of, and Schedule 26 to, the [Enterprise Act 2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40) and [S.I. 2011/1730](https://www.legislation.gov.uk/uksi/2011/1730).
 
-[^key-d9c0971fa928375f5952b4931d42daaf]: Textual amendment: Words in reg. 2.J.14(3) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [24(a)](https://www.legislation.gov.uk/ssi/2014/154/regulation/24/a)
+[^c-d9c0971fa928375f5952b4931d42daaf]: Textual amendment: Words in reg. 2.J.14(3) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [24(a)](https://www.legislation.gov.uk/ssi/2014/154/regulation/24/a)
 
-[^key-3be591d35f72d0cea7509e26bf8f933d]: Textual amendment: Reg. 2.J.14(6)-(12) substituted for reg. 2.J.14(6)-(9) (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [24(b)](https://www.legislation.gov.uk/ssi/2014/154/regulation/24/b)
+[^c-3be591d35f72d0cea7509e26bf8f933d]: Textual amendment: Reg. 2.J.14(6)-(12) substituted for reg. 2.J.14(6)-(9) (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [24(b)](https://www.legislation.gov.uk/ssi/2014/154/regulation/24/b)
 
-[^key-d7cd7d13ebc5193f6a3b483c246f8d52]: Textual amendment: Words in [reg. 2.J.14(12)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.14/12) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2016/98/regulation/11)
+[^c-d7cd7d13ebc5193f6a3b483c246f8d52]: Textual amendment: Words in [reg. 2.J.14(12)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.14/12) substituted (with effect in accordance with reg. 1(2)(d) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2016 (S.S.I. 2016/98)](https://www.legislation.gov.uk/ssi/2016/98), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/98/regulation/1/1), [11](https://www.legislation.gov.uk/ssi/2016/98/regulation/11)
 
 [^c21814841]: Marginal citation: [S.I. 1980/1177](https://www.legislation.gov.uk/uksi/1980/1177). Regulations 27 and 28 were revoked by [S.I. 1995/365](https://www.legislation.gov.uk/uksi/1995/365).
 
@@ -6244,6 +6244,6 @@ Table
 
 [^c21814871]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-817afb0724a717003cce78cac0731b6a]: Textual amendment: [Reg. 2.K.20(2)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.K.20/2/c) omitted (1.4.2021) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [36](https://www.legislation.gov.uk/ssi/2021/102/regulation/36)
+[^c-817afb0724a717003cce78cac0731b6a]: Textual amendment: [Reg. 2.K.20(2)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.K.20/2/c) omitted (1.4.2021) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [36](https://www.legislation.gov.uk/ssi/2021/102/regulation/36)
 
-[^key-2fcaba58916a760ad2bc335641340793]: Textual amendment: [Reg. 2.L.2(2)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.L.2/2/c) omitted (1.4.2021) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [37](https://www.legislation.gov.uk/ssi/2021/102/regulation/37)
+[^c-2fcaba58916a760ad2bc335641340793]: Textual amendment: [Reg. 2.L.2(2)(c)](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.L.2/2/c) omitted (1.4.2021) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [37](https://www.legislation.gov.uk/ssi/2021/102/regulation/37)

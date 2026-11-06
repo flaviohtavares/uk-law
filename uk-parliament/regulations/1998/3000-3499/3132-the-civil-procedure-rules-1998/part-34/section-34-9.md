@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.9. Conduct of examination[^key-dbb7f7964e5c1008d0f1edda63994a2e]
+## 34.9. Conduct of examination[^c-dbb7f7964e5c1008d0f1edda63994a2e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb7f7964e5c1008d0f1edda63994a2e]: Commencement: [Rule 34.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-dbb7f7964e5c1008d0f1edda63994a2e]: Commencement: [Rule 34.9](https://www.legislation.gov.uk/uksi/1998/3132/rule/34.9) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

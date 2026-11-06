@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Punishment of offences[^key-85f46673f7f7ccc9c936e5e6e66268c6]
+## 174. Punishment of offences[^c-85f46673f7f7ccc9c936e5e6e66268c6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85f46673f7f7ccc9c936e5e6e66268c6]: Commencement: Rule 174 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-85f46673f7f7ccc9c936e5e6e66268c6]: Commencement: Rule 174 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Annual rate of pension credit member’s pension[^key-393ea47fdcc6c446637950ad11e09bc8]
+## 93. Annual rate of pension credit member’s pension[^c-393ea47fdcc6c446637950ad11e09bc8]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-393ea47fdcc6c446637950ad11e09bc8]: Commencement: [Reg. 93](https://www.legislation.gov.uk/nisr/2014/290/regulation/93) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-393ea47fdcc6c446637950ad11e09bc8]: Commencement: [Reg. 93](https://www.legislation.gov.uk/nisr/2014/290/regulation/93) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00060]: Footnote: ()Regulation 94 provides for the option to buy out early payment reduction

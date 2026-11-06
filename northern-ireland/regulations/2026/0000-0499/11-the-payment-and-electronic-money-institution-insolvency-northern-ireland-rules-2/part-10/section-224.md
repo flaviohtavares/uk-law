@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 224. Procedure where taxation is required[^key-042cbe0821b66b28bcb3ca314ce6de82]
+## 224. Procedure where taxation is required[^c-042cbe0821b66b28bcb3ca314ce6de82]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-042cbe0821b66b28bcb3ca314ce6de82]: Commencement: [Rule 224](https://www.legislation.gov.uk/nisr/2026/11/rule/224) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-042cbe0821b66b28bcb3ca314ce6de82]: Commencement: [Rule 224](https://www.legislation.gov.uk/nisr/2026/11/rule/224) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

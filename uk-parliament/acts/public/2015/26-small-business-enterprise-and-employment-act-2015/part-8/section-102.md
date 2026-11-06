@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Removal from register of material about directors[^key-4de4ce19fd9b1c45a7be53437b455ff3]
+## 102. Removal from register of material about directors[^c-4de4ce19fd9b1c45a7be53437b455ff3]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4de4ce19fd9b1c45a7be53437b455ff3]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2015/26/section/102) in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/a)
+[^c-4de4ce19fd9b1c45a7be53437b455ff3]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2015/26/section/102) in force at 6.4.2016 by [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/a)

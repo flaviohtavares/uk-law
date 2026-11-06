@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Payments for exhibition of election notices[^key-7681fab6c6dff419af875e9a397c58e3]
+## 71. Payments for exhibition of election notices[^c-7681fab6c6dff419af875e9a397c58e3]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ shall be guilty of an illegal practice.
 
 ## Annotations
 
-[^key-7681fab6c6dff419af875e9a397c58e3]: Commencement: Art. 71 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-7681fab6c6dff419af875e9a397c58e3]: Commencement: Art. 71 in force at 16.12.2015 in accordance with art. 1(1)

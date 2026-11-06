@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9A. Parking places: introductory[^key-b1230746ffcfc1190dd7e15b0ab7b055]
+## 9A. Parking places: introductory[^c-b1230746ffcfc1190dd7e15b0ab7b055]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In this Part “**the parking authority**” means—
 
 ## Annotations
 
-[^key-b1230746ffcfc1190dd7e15b0ab7b055]: Textual amendment: Art. 9A inserted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 1](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/1)
+[^c-b1230746ffcfc1190dd7e15b0ab7b055]: Textual amendment: Art. 9A inserted (1.4.2015) by [Off-street Parking (Functions of District Councils) Act (Northern Ireland) 2015 (c. 3)](https://www.legislation.gov.uk/nia/2015/3), [art. 1(8)](https://www.legislation.gov.uk/nia/2015/3/article/1/8), [Sch. para. 1](https://www.legislation.gov.uk/nia/2015/3/schedule/paragraph/1)

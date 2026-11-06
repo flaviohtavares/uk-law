@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Period over which payments other than periodical payments are to be taken into account[^key-cc360fa36f91e9a10468fdd2bb1ca50d]
+## 121. Period over which payments other than periodical payments are to be taken into account[^c-cc360fa36f91e9a10468fdd2bb1ca50d]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ that other payment shall, subject to paragraph (3), be taken into account over a
 
 ## Annotations
 
-[^key-cc360fa36f91e9a10468fdd2bb1ca50d]: Commencement: Reg. 121 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-cc360fa36f91e9a10468fdd2bb1ca50d]: Commencement: Reg. 121 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

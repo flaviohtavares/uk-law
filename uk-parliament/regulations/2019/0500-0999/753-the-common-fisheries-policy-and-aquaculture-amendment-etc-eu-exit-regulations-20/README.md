@@ -144,7 +144,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 - [Section 37 — Regulation (EU) 2016/2336 of the European Parliament and of the Council establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic](part-5/section-37.md)
 
-#### CHAPTER 8 — AMENDMENT OF THE EUROPEAN MARITIME AND FISHERIES FUND REGULATION[^key-14c77ebb353b470f515a50316ac055d0]
+#### CHAPTER 8 — AMENDMENT OF THE EUROPEAN MARITIME AND FISHERIES FUND REGULATION[^c-14c77ebb353b470f515a50316ac055d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,7 +152,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 - [Section 38 — Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund](part-5/section-38.md)
 
-#### CHAPTER 9 — AMENDMENT OF THE TECHNICAL CONSERVATION REGULATION[^key-25fabd33038d0fb66edce14013c72de1]
+#### CHAPTER 9 — AMENDMENT OF THE TECHNICAL CONSERVATION REGULATION[^c-25fabd33038d0fb66edce14013c72de1]
 
 *Extent: E+W+S+N.I.*
 
@@ -173,7 +173,7 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 - [Section 41 — Council Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing](part-6/section-41.md)
 - [Section 42 — Council Regulation (EC) No 708/2007 concerning use of alien and locally absent species in aquaculture](part-6/section-42.md)
 
-### PART 7 — AMENDMENT OF SUBORDINATE LEGISLATION[^key-9f7052ca7b8084315134e9e35240781e]
+### PART 7 — AMENDMENT OF SUBORDINATE LEGISLATION[^c-9f7052ca7b8084315134e9e35240781e]
 
 *Extent: E+W+S+N.I.*
 
@@ -207,8 +207,8 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c24327941]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-14c77ebb353b470f515a50316ac055d0]: Textual amendment: Pt. 5 Ch. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/15/3)
+[^c-14c77ebb353b470f515a50316ac055d0]: Textual amendment: Pt. 5 Ch. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/15/3)
 
-[^key-25fabd33038d0fb66edce14013c72de1]: Textual amendment: Pt. 5 Ch. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25fabd33038d0fb66edce14013c72de1]: Textual amendment: Pt. 5 Ch. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f7052ca7b8084315134e9e35240781e]: Textual amendment: Pt. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f7052ca7b8084315134e9e35240781e]: Textual amendment: Pt. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

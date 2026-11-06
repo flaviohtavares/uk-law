@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Review of decision to list building[^key-eb08d6932ab1d968558b22afa0373bd2][^key-cf2e0a1f66d76b6726ffde1325fb29a3]
+## 81. Review of decision to list building[^c-eb08d6932ab1d968558b22afa0373bd2][^c-cf2e0a1f66d76b6726ffde1325fb29a3]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb08d6932ab1d968558b22afa0373bd2]: Commencement: S. 81 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-eb08d6932ab1d968558b22afa0373bd2]: Commencement: S. 81 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-cf2e0a1f66d76b6726ffde1325fb29a3]: Commencement: [S. 81](https://www.legislation.gov.uk/asc/2023/3/section/81) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-cf2e0a1f66d76b6726ffde1325fb29a3]: Commencement: [S. 81](https://www.legislation.gov.uk/asc/2023/3/section/81) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

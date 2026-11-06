@@ -43,11 +43,11 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 In accordance with section 98(3) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018 and section 209(6) of the Equality Act 2010, a draft of these Regulations was laid before, and approved by a resolution of, Senedd Cymru[^f00003].
 
-## 1. Title and commencement[^key-afd6091331e10ef81b723abdee39180c]
+## 1. Title and commencement[^c-afd6091331e10ef81b723abdee39180c]
 
 The title of these Regulations is the Education Tribunal for Wales Regulations 2021 and they come into force on 1 September 2021.
 
-## 2. Interpretation[^key-f11003489b0212672705022d77d01a29]
+## 2. Interpretation[^c-f11003489b0212672705022d77d01a29]
 
 (1) In these Regulations—
 
@@ -102,11 +102,11 @@ The title of these Regulations is the Education Tribunal for Wales Regulations 2
 
 (2) Words and expressions used in these Regulations and in the 2018 Act have the same meaning as in that Act, except so far as a contrary intention appears.
 
-## 3. Application[^key-a515826bb06d3433fea4e1776ff11571]
+## 3. Application[^c-a515826bb06d3433fea4e1776ff11571]
 
 These Regulations apply to an appeal or a claim entered in the Register on or after 1 September 2021.
 
-## 4. The overriding objective[^key-e54955f98f4d2c1e372aa75d4a11c139]
+## 4. The overriding objective[^c-e54955f98f4d2c1e372aa75d4a11c139]
 
 (1) The overriding objective of these Regulations is to enable the President, and the tribunal panel, to deal with appeals and claims fairly and justly.
 
@@ -125,7 +125,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (4) The President or the tribunal panel must manage appeals and claims actively in accordance with the overriding objective of these Regulations.
 
-## 5. Parties’ obligation to co-operate[^key-fb2131f35d230097f565add6f0aa5ad3]
+## 5. Parties’ obligation to co-operate[^c-fb2131f35d230097f565add6f0aa5ad3]
 
 (1) Parties must—
 
@@ -153,13 +153,13 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (6) The President or the tribunal panel may, after considering any representations made by the party in default, order that the party’s case is struck out.
 
-## 6. Alternative dispute resolution[^key-72993eb1f8326b4378a1f0c8b797a01f]
+## 6. Alternative dispute resolution[^c-72993eb1f8326b4378a1f0c8b797a01f]
 
 (1) The President or the tribunal panel must, where appropriate, bring to the attention of the parties the availability of any alternative procedure for the resolution of the dispute.
 
 (2) If the parties wish to use the alternative dispute resolution procedure the President or the tribunal panel may, provided that it is compatible with the overriding objective of these Regulations, stay the appeal or the claim.
 
-## 7. Lay panel members[^key-fa88cb6e2eb17baa3ff0b7bafbf05f9a]
+## 7. Lay panel members[^c-fa88cb6e2eb17baa3ff0b7bafbf05f9a]
 
 (1) The Welsh Ministers must be satisfied that persons appointed as members of the lay panel are not eligible for appointment as a Chair.
 
@@ -169,13 +169,13 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 - (b) disabilities, or
 - (c) if required, both.
 
-## 8. Establishment of tribunal panels[^key-944dba3b10bb53b0678ee255dd1a9116]
+## 8. Establishment of tribunal panels[^c-944dba3b10bb53b0678ee255dd1a9116]
 
 (1) The jurisdiction of the Tribunal is to be exercised by such number of tribunal panels as the President may from time to time determine.
 
 (2) The tribunal panels exercising the jurisdiction conferred on them in accordance with paragraph (1) are to sit at such times and in such places as the President may from time to time determine.
 
-## 9. Membership of tribunal panel[^key-ac18f0db0b1539ca859e58e12f282b68]
+## 9. Membership of tribunal panel[^c-ac18f0db0b1539ca859e58e12f282b68]
 
 (1) A tribunal panel must be comprised of a Chair together with either one or two lay panel members.
 
@@ -186,7 +186,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (3) Where the panel is comprised of one Chair and one lay panel member, the Chair has the casting vote in the event of a disagreement between the panel members.
 
-## 10. Period within which proceedings must be commenced[^key-16135f2150746e3ba8514105ba1ae199]
+## 10. Period within which proceedings must be commenced[^c-16135f2150746e3ba8514105ba1ae199]
 
 (1) An appeal to the Tribunal must—
 
@@ -211,7 +211,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 - (a) an appeal application, unless proceedings are commenced in accordance with paragraph (1);
 - (b) a claim application, unless proceedings are commenced in accordance with paragraph (3).
 
-## 11. Appeal application[^key-07029bae61b9579c7e820c8c2a18f91c]
+## 11. Appeal application[^c-07029bae61b9579c7e820c8c2a18f91c]
 
 (1) The appeal application must state—
 
@@ -258,7 +258,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (6) The appeal application may, in accordance with regulation 35, include a request that the appeal is heard with a claim against a responsible body.
 
-## 12. Claim application[^key-c6610ae9fe53c81bf17f60918ae1da73]
+## 12. Claim application[^c-c6610ae9fe53c81bf17f60918ae1da73]
 
 (1) The claim application must state—
 
@@ -289,7 +289,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (7) The claim application may, in accordance with regulation 35, include a request that the claim is heard with an appeal against a local authority.
 
-## 13. Action by the Secretary of the Tribunal[^key-eb5773c1706c6f11467a6b8d564de9bf]
+## 13. Action by the Secretary of the Tribunal[^c-eb5773c1706c6f11467a6b8d564de9bf]
 
 (1) Upon receiving the appeal application or the claim application the Secretary of the Tribunal must—
 
@@ -336,7 +336,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (12) If paragraph (11)(a) or (b) applies, references in these Regulations (however expressed) to sending documents to, or giving notice to, the appellant or the claimant must be construed as references to sending documents to, or giving notice to, the representative or to the case friend, as the case may be.
 
-## 14. Appeal or claim made out of time[^key-383f1c905e5dfe11621ae1bebad75a82]
+## 14. Appeal or claim made out of time[^c-383f1c905e5dfe11621ae1bebad75a82]
 
 (1) The President may consider—
 
@@ -345,7 +345,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (2) The President may seek further information from the person making the appeal or claim before making a decision under paragraph (1).
 
-## 15. Sufficiency of reasons[^key-a0793ab52225c62d99aa370d77b55c72]
+## 15. Sufficiency of reasons[^c-a0793ab52225c62d99aa370d77b55c72]
 
 (1) If the appeal application or the claim application does not include, or is not accompanied by, a statement of the reasons for making the appeal or the claim, including in relation to a claim the information set out in regulation 12(1)(i) and (j) and (2), which the President considers sufficient to enable the local authority or responsible body to respond to the appeal or the claim, the President must direct the appellant or the claimant to send details of the reasons to the Secretary of the Tribunal within 10 working days of the direction.
 
@@ -353,7 +353,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (3) Reasons sent in response to a direction made under paragraph (1) are to be treated as part of the appeal application or the claim application.
 
-## 16. Appellant’s or claimant’s representatives[^key-82dcbb7da33e9e5dd3c843026b4b2241]
+## 16. Appellant’s or claimant’s representatives[^c-82dcbb7da33e9e5dd3c843026b4b2241]
 
 (1) The appellant or the claimant may in the appeal application or the claim application or by giving written notice to the Secretary of the Tribunal at any later time—
 
@@ -363,11 +363,11 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (2) Where an appointment is made under paragraph (1), the appellant or the claimant must give the name, address and contact details of the representative.
 
-## 17. Case statement periods[^key-037ded3f366e2974a107df9aea39dd66]
+## 17. Case statement periods[^c-037ded3f366e2974a107df9aea39dd66]
 
 (1) The case statement period for an appellant making an appeal is the relevant period of time set out in regulation 10 and includes any extension to that period of time ordered by the President under regulation 65.
 
-(2)[^key-d92659e882f4515786838c01ba19f5e5] The case statement period for a claimant is a period of 8 weeks beginning with the date on which the acknowledgement given under regulation 13(1)(b)(i) is taken to have been received in accordance with regulation 75(11). It includes any extension to that period ordered by the President under regulation 65.
+(2)[^c-d92659e882f4515786838c01ba19f5e5] The case statement period for a claimant is a period of 8 weeks beginning with the date on which the acknowledgement given under regulation 13(1)(b)(i) is taken to have been received in accordance with regulation 75(11). It includes any extension to that period ordered by the President under regulation 65.
 
 (3) If the President makes a direction in relation to—
 
@@ -384,7 +384,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 - (a) 4 weeks, beginning with the date on which the notice given under regulation 13(2) is taken to have been received in accordance with regulation 75(11), and
 - (b) includes any extension to that period ordered by the President under regulation 65.
 
-## 18. Appellant or claimant’s case statement[^key-87e64957cabfce794c2c03b1ea3ba366]
+## 18. Appellant or claimant’s case statement[^c-87e64957cabfce794c2c03b1ea3ba366]
 
 (1) The appellant or the claimant must submit to the Secretary of the Tribunal before the end of their case statement period, as the case may be—
 
@@ -418,7 +418,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (8) If, at the time permission is given under paragraph (3), the respondent local authority, FEI governing body or the responsible body has lost its entitlement to attend or be represented at the hearing in accordance with regulation 23 or 33, the giving of permission restores such entitlement and, if necessary, the hearing may be postponed or adjourned, as appropriate, the respondent can be represented.
 
-## 19. The respondent local authority, FEI governing body or responsible body’s case statement and evidence[^key-5c0276148c6b88fd2b6433348620576f]
+## 19. The respondent local authority, FEI governing body or responsible body’s case statement and evidence[^c-5c0276148c6b88fd2b6433348620576f]
 
 (1) The local authority, governing body of the FEI or the responsible body respondent (“the respondent”) must submit to the Secretary of the Tribunal before the end of the case statement period—
 
@@ -451,13 +451,13 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (8) If, at the time permission is given under paragraph (5), the appellant or the claimant has lost entitlement to attend or be represented at the hearing in accordance with regulation 33, the giving of permission restores such entitlement and, if necessary, the hearing may be postponed or adjourned, as appropriate, so that the appellant or the claimant can be represented.
 
-## 20. Change of representative of respondent FEI governing body, local authority or responsible body[^key-24dfd928c45939fcb35e520c679c0c6f]
+## 20. Change of representative of respondent FEI governing body, local authority or responsible body[^c-24dfd928c45939fcb35e520c679c0c6f]
 
 (1) The respondent FEI governing body, local authority or the responsible body (“the respondent”) may at any time change its representative for the purposes of the appeal or the claim by notifying the Secretary of the Tribunal of the name and address of its new representative and, if available, the representative’s telephone number and e-mail address.
 
 (2) References in these Regulations (however expressed) to sending documents to, or giving notice to, the governing body of the FEI, the local authority or the responsible body are to be construed as references to sending documents to, or giving notice to, the representative named in accordance with paragraph (1) or regulation 19(3)(b).
 
-## 21. Change of local authority in an appeal[^key-937fcbd18eae986522ab7601fa51d222]
+## 21. Change of local authority in an appeal[^c-937fcbd18eae986522ab7601fa51d222]
 
 (1) This regulation applies for the purposes of an appeal if, after the date on which the local authority made the disputed decision, the local authority is no longer responsible for the child or young person within the meaning of sections 13 and 14, or 18 and 19, of the 2018 Act (“the old authority”).
 
@@ -474,7 +474,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 - (e) the Secretary of the Tribunal must send to the new authority copies of all the documents and written evidence relating to the appeal received by the Tribunal from the appellant and from the old authority;
 - (f) the procedure for determining the appeal re-starts and regulation 13 applies as if the documents and written evidence sent in accordance with sub-paragraph (e) were part of the appeal application referred to in regulation 13(1).
 
-## 22. Copy documents for parties[^key-7ffa25a342f0d5095276324d021b88c0]
+## 22. Copy documents for parties[^c-7ffa25a342f0d5095276324d021b88c0]
 
 (1) Subject to paragraph (2), the Secretary of the Tribunal must—
 
@@ -486,7 +486,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 (3) Where the Secretary of the Tribunal sends any copies of documents referred to in paragraph (1) to a party who has already informed the Secretary of the Tribunal in response to the enquiries made under regulation 24(a)(i) and (ii) that the party does not wish to attend or be represented at the hearing, the Secretary of the Tribunal must ask whether the party wishes to amend that response on the basis of the copies received.
 
-## 23. Failure to submit a case statement and absence of opposition[^key-739b9bc53b084be0bbf0309960f1889e]
+## 23. Failure to submit a case statement and absence of opposition[^c-739b9bc53b084be0bbf0309960f1889e]
 
 (1) The tribunal panel may determine the appeal or the claim without a hearing or by holding a hearing if—
 
@@ -509,7 +509,7 @@ These Regulations apply to an appeal or a claim entered in the Register on or af
 
 ## Tribunal enquiries
 
-### 24. Enquiries by the Secretary of the Tribunal[^key-2f7a212833ff5b96c56de3c91bf5f1f3]
+### 24. Enquiries by the Secretary of the Tribunal[^c-2f7a212833ff5b96c56de3c91bf5f1f3]
 
 The Secretary of the Tribunal must at any time after receiving the appeal application or the claim application—
 
@@ -525,7 +525,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
   - (i) of the effect of regulation 40(6) and the provision of regulation 42(2), and
   - (ii) that where an answer to any of the enquiries under paragraph (a) changes after a party has responded to the enquiries, the party concerned must immediately inform the Secretary of the Tribunal in writing.
 
-### 25. Failure to respond to enquiries made by the Secretary of the Tribunal[^key-cdb71565fd1d249178bbc837382a8cde]
+### 25. Failure to respond to enquiries made by the Secretary of the Tribunal[^c-cdb71565fd1d249178bbc837382a8cde]
 
 (1) The President may order—
 
@@ -543,7 +543,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
 
 (4) If an appeal application or a claim application is struck out under paragraph (1)(a), the proceedings to which the appeal or claim relates are considered to be concluded.
 
-### 26. Power to strike out the appeal or claim[^key-b2cc15370f0d2db771618c07ed689d87]
+### 26. Power to strike out the appeal or claim[^c-b2cc15370f0d2db771618c07ed689d87]
 
 (1) The Secretary of the Tribunal must, at any stage of the appeal or claim if the local authority, FEI governing body or the responsible body applies, or the President or the tribunal panel so directs, serve a notice on the appellant or the claimant stating that it has been proposed that the whole or part of the appeal or the claim should be struck out on one of the grounds specified in paragraph (2) or for want of prosecution.
 
@@ -571,7 +571,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
 
 (8) If the whole of an appeal application or a claim application is struck out under paragraph (5) the proceedings to which the appeal or claim relates are deemed to be concluded.
 
-### 27. Order to amend case statement[^key-2930676337e0b06897239eb2b270641e]
+### 27. Order to amend case statement[^c-2930676337e0b06897239eb2b270641e]
 
 (1) The President or the tribunal panel may, if the President or the tribunal panel thinks fit at any stage of the appeal or the claim, order that a party’s case statement is amended on the grounds that it discloses no reasonable grounds for bringing the appeal or the claim or it is an abuse of the Tribunal’s process.
 
@@ -584,7 +584,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
   - (i) in the case of written representations, they are made within the period so specified, and
   - (ii) in the case of oral representations, the party proposing to make them has requested an opportunity to do so within the period so specified.
 
-### 28. Evidence and submissions[^key-c7f882e0bd4cc1603b1de93b61430fe7]
+### 28. Evidence and submissions[^c-c7f882e0bd4cc1603b1de93b61430fe7]
 
 (1) The President or the tribunal panel may give directions on—
 
@@ -611,7 +611,7 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
   - (ii) the evidence was otherwise provided in a manner that did not comply with a direction, or
   - (iii) it would otherwise be unfair to admit the evidence.
 
-### 29. Case management and directions[^key-a2df6bc0323090671640c0596a7bec4e]
+### 29. Case management and directions[^c-a2df6bc0323090671640c0596a7bec4e]
 
 (1) The President or the tribunal panel may, on the President’s or the tribunal panel’s initiative, or on the application of a party, give such directions to a party on any matter arising in connection with the appeal or claim as the President or the tribunal panel thinks fit, including staying proceedings, or such directions as are provided in regulations 31 and 32 to enable the parties to prepare for the hearing or to assist the President or the tribunal panel to determine the issues.
 
@@ -642,17 +642,17 @@ The Secretary of the Tribunal must at any time after receiving the appeal applic
 
 (10) Where it appears to the President or the tribunal panel that there is an issue in an appeal or claim which must be determined prior to the substantive hearing of the appeal or the claim and which cannot properly be determined by the giving of directions, the President or the tribunal panel may summon the parties to appear before the President or the tribunal panel for this purpose and may give any necessary directions relating to their appearance.
 
-### 30. Varying or setting aside directions[^key-c63d5fdd70e8324198c55679083b718a]
+### 30. Varying or setting aside directions[^c-c63d5fdd70e8324198c55679083b718a]
 
 (1) Where a party to whom a direction is addressed had no opportunity to object to the giving of the direction and did not give written consent to the application for it, that party may apply at any time to the President or the tribunal panel, by notice to the Secretary of the Tribunal, for the direction to be varied or set aside.
 
 (2) The President or the tribunal panel must not vary the direction or set it aside without first notifying the parties and considering any representations made by them.
 
-### 31. Particulars and supplementary statements[^key-980f6406f2533c9f58223314ee2d3a4b]
+### 31. Particulars and supplementary statements[^c-980f6406f2533c9f58223314ee2d3a4b]
 
 The President or the tribunal panel may give directions requiring any party to provide in, or with, that party’s case statement such particulars or supplementary statements as may reasonably be required for the determination of the appeal or the claim.
 
-### 32. Disclosure of documents and other material[^key-d614c7d3d2471d286d1fccf05e316625]
+### 32. Disclosure of documents and other material[^c-d614c7d3d2471d286d1fccf05e316625]
 
 (1) The President or the tribunal panel may—
 
@@ -674,7 +674,7 @@ The President or the tribunal panel may give directions requiring any party to p
 - (a) in relation to an appeal, that under section 79 of the 2018 Act, any person who without reasonable excuse fails to comply with requirements regarding disclosure or inspection of documents is liable on summary conviction to a fine not exceeding level 3 on the standard scale, and
 - (b) in relation to a claim, that under paragraph 6(8) of Schedule 17 to the 2010 Act, any person who without reasonable excuse fails to comply with requirements regarding disclosure or inspection of documents is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 33. Failure to comply with directions[^key-44862907249692d4b71a0c894361a4c9]
+### 33. Failure to comply with directions[^c-44862907249692d4b71a0c894361a4c9]
 
 (1) If a party has not complied with a direction given under these Regulations within the time specified in the direction the President or the tribunal panel may—
 
@@ -686,7 +686,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (2) In this regulation, “the party in default” means the party which has failed to comply with the direction.
 
-### 34. Consolidating appeals or claims[^key-4c36eca7ad83457e3e5302aef2e5cee0]
+### 34. Consolidating appeals or claims[^c-4c36eca7ad83457e3e5302aef2e5cee0]
 
 (1) If more than one appeal relates to the same child or young person, or requires a decision on substantially the same issue, the President may order that the appeals are heard together.
 
@@ -698,7 +698,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (5) An order made under this regulation must only be made if it appears, in the opinion of the President, to be fair and just to do so and before an order is made each party to every appeal or claim affected must be given an opportunity to be heard.
 
-### 35. Consolidating claims together with appeals[^key-ae72946b03307e67a63f119e353d34d3]
+### 35. Consolidating claims together with appeals[^c-ae72946b03307e67a63f119e353d34d3]
 
 (1) Subject to paragraphs (2) and (3), where a claim relates to the same child or young person and either arises from the same circumstances or requires a decision on substantially the same issue as an appeal, the President may order that the claim is heard with the appeal.
 
@@ -712,7 +712,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (6) An order made under this regulation must only be made if it appears, in the opinion of the President, to be fair and just to do so, and before an order is made each party to every claim or appeal affected must be given an opportunity to be heard.
 
-### 36. Addition and substitution of parties[^key-417e9d002bd6e24f1c85ade023534c17]
+### 36. Addition and substitution of parties[^c-417e9d002bd6e24f1c85ade023534c17]
 
 (1) A person may make an application to be joined as a party to the appeal or the claim.
 
@@ -730,7 +730,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (5) Unless the President or the tribunal panel directs otherwise, a person appointed or substituted under this regulation must be treated as a party for the purpose of any provision in these Regulations requiring a document to be served on, or sent to, or notice to be given to a party to the appeal or claim.
 
-### 37. Notice of date, place and time of hearings[^key-045380f88cbb4eb81998d02d1d4233f5]
+### 37. Notice of date, place and time of hearings[^c-045380f88cbb4eb81998d02d1d4233f5]
 
 (1) Subject to the provisions of paragraph (2) and regulation 39, the Secretary of the Tribunal must, after consultation with the parties, fix the date, place and time of the hearing and send to each party a notice specifying the date, place and time of the hearing.
 
@@ -755,7 +755,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (7) Nothing in paragraph (1) or (5) oblige the Secretary of the Tribunal to consult or send a notice to any person who is not entitled to be represented at the hearing.
 
-### 38. Transfers[^key-82a7beb62c62de96488ff6e96c55007a]
+### 38. Transfers[^c-82a7beb62c62de96488ff6e96c55007a]
 
 (1) Subject to paragraph (2), the President may refer proceedings in relation to an appeal to the First- tier Tribunal if the First-tier Tribunal has jurisdiction in relation to the proceedings.
 
@@ -763,7 +763,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (3) If proceedings in relation to an appeal are transferred to the Tribunal by the First-tier Tribunal the Tribunal may continue with the proceedings if the Tribunal has jurisdiction in relation to the proceeding.
 
-### 39. Power to determine the appeal or claim without a hearing[^key-148693b766320da66314063b3f1205ee]
+### 39. Power to determine the appeal or claim without a hearing[^c-148693b766320da66314063b3f1205ee]
 
 (1) The President or the tribunal panel may determine the appeal or the claim or any particular issue without a hearing—
 
@@ -772,7 +772,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (2) Before making a determination under paragraph (1), the President or tribunal panel must consider any representations in writing already submitted by the parties (for the purpose of this regulation, the appeal application or the claim application and the parties’ case statements are treated as representations in writing).
 
-### 40. Public and private hearings: arrangements and exceptions[^key-eb024f9d3eeb01029c544965fc552cd4]
+### 40. Public and private hearings: arrangements and exceptions[^c-eb024f9d3eeb01029c544965fc552cd4]
 
 (1) Subject to paragraph (2), all hearings of the Tribunal must be in private.
 
@@ -810,7 +810,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (7) Except as provided in regulation 43(3) and (4) none of the persons mentioned in paragraph (4) or (5) may, except in the case of the persons specified in sub-paragraphs (c), (g), and (h) of paragraph (4) as their respective duties require, take any part in the hearing or (where entitled or permitted to remain) in the deliberations of the tribunal panel.
 
-### 41. Restricted reporting orders[^key-cae3c472800af104c65b572b24ba6e07]
+### 41. Restricted reporting orders[^c-cae3c472800af104c65b572b24ba6e07]
 
 (1) If it appears appropriate to do so the President or the tribunal panel may make an order limiting or prohibiting the publishing of any matter that is likely to lead members of the public to identify the appellant, claimant, child or other person, where it is considered that they should not be identified.
 
@@ -821,7 +821,7 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (3) An order under this regulation may be made in respect of a limited period and may be varied or revoked by the President or the tribunal panel.
 
-### 42. Procedure at hearing[^key-ab337fbdcfe293182399c9727ca3e848]
+### 42. Procedure at hearing[^c-ab337fbdcfe293182399c9727ca3e848]
 
 (1) At the beginning of the hearing the Chair must explain the order of proceedings which the tribunal panel proposes to adopt.
 
@@ -839,7 +839,7 @@ The President or the tribunal panel may give directions requiring any party to p
 - (a) the hearing may, with the consent of the parties, be conducted by the other two members and in that event the tribunal panel is to be regarded as properly constituted and the decision of the tribunal panel may be taken by those two members, and
 - (b) the absent member must not re-join the hearing.
 
-### 43. Evidence at hearing[^key-4e7f4aa40e59ace56f3251cb2e1401d8]
+### 43. Evidence at hearing[^c-4e7f4aa40e59ace56f3251cb2e1401d8]
 
 (1) Subject to regulation 40(6), in the course of the hearing the parties are entitled to give evidence, to call witnesses, to question any witness and to address the tribunal panel both on the evidence, including the written evidence submitted before the hearing, and generally on the subject matter of the appeal or the claim.
 
@@ -867,13 +867,13 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (8) The President or the tribunal panel may require any party or witness to give evidence on oath or affirmation, and for that purpose there may be administered an oath or affirmation in the correct form, or may require any evidence given by a written statement to be given by statement of truth.
 
-### 44. Change of witness[^key-13da95ac62e09dd694543f1f9846f787]
+### 44. Change of witness[^c-13da95ac62e09dd694543f1f9846f787]
 
 (1) The person named as a party’s witness in response to an enquiry made under regulation 24 may be changed by that party if written notification is received by the Secretary of the Tribunal and a copy of the notification served on the other party no later than 5 working days before the hearing.
 
 (2) Any application to change a witness made less than 5 working days before the hearing must be determined by the President or the tribunal panel.
 
-### 45. Summoning a witness[^key-b44c24c6ddb7ce435e1b0a9c3952a7f0]
+### 45. Summoning a witness[^c-b44c24c6ddb7ce435e1b0a9c3952a7f0]
 
 (1) Subject to paragraphs (2) to (5), the President or the tribunal panel may, on the application of a party or on the President’s or the tribunal panel’s own initiative, require by summons any person to—
 
@@ -900,11 +900,11 @@ The President or the tribunal panel may give directions requiring any party to p
 
 (9) The President or the tribunal panel must not vary or set aside the witness summons without first notifying the party who applied for the issue of the witness summons and considering any representations made by that party.
 
-### 46. Evidence by telephone, video link or other means[^key-9690601120cfe472dd38c2ce65233a2a]
+### 46. Evidence by telephone, video link or other means[^c-9690601120cfe472dd38c2ce65233a2a]
 
 The President may, on the application of a party or on the President’s or the tribunal panel’s own initiative, permit a party or a witness to give evidence by telephone, through a video link or by any other means of communication, if satisfied that this would not prejudice the achievement of the overriding objective of these Regulations.
 
-### 47. Late written evidence[^key-2988a310f4827d3ead82253c8b53b801]
+### 47. Late written evidence[^c-2988a310f4827d3ead82253c8b53b801]
 
 (1) At the beginning of the hearing, a party may submit further written evidence for admission if—
 
@@ -922,7 +922,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (5) If the conditions in paragraph (2) are not met, the President or the tribunal panel may give a party permission to submit further written evidence at the hearing if the President or the tribunal panel is of the opinion that unless the evidence is admitted, there is a serious risk of prejudice to the party seeking to rely on it.
 
-### 48. Postponement of hearing[^key-ed948be05563fd95832b039dc0b449be]
+### 48. Postponement of hearing[^c-ed948be05563fd95832b039dc0b449be]
 
 (1) The President or the tribunal panel may, on the President’s or the tribunal panel’s own initiative or on the application of a party, in exceptional circumstances, make an order to postpone a hearing.
 
@@ -935,7 +935,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (4) Nothing in paragraph (3) obliges the Secretary of the Tribunal to consult or send a notice to any person who is not entitled to be represented at the hearing.
 
-### 49. Adjournments and directions[^key-8c93761921debe11082a3dba7bf03c2f]
+### 49. Adjournments and directions[^c-8c93761921debe11082a3dba7bf03c2f]
 
 (1) The President or the tribunal panel may adjourn a hearing.
 
@@ -950,7 +950,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (5) If the place and time of an adjourned hearing is announced at the hearing before the adjournment, no further notice is required.
 
-### 50. Representation at hearing[^key-face6b914c6613c8726f7992547349fa]
+### 50. Representation at hearing[^c-face6b914c6613c8726f7992547349fa]
 
 (1) Subject to paragraph (2), at any hearing or part of a hearing—
 
@@ -964,7 +964,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (3) If a party does not intend to attend or be represented at the hearing the party may, no later than 5 working days before the hearing, send to the Secretary of the Tribunal additional written representations in support of that party’s case.
 
-### 51. Failure to attend hearing[^key-3ed9759ba19eadc6ba56b1bba9ed0549]
+### 51. Failure to attend hearing[^c-3ed9759ba19eadc6ba56b1bba9ed0549]
 
 (1) If a party fails to attend or be represented at a hearing of which that party had been notified, the tribunal panel may—
 
@@ -973,7 +973,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (2) Before disposing of an appeal or claim in the absence of a party, the tribunal panel must consider any representations in writing submitted by that party in response to the notice of hearing and, for the purpose of this regulation the appeal application or claim application and the parties’ case statements are to be treated as representations in writing.
 
-### 52. Tribunal panel’s decision[^key-4ca407b1164f01defaac1e08ee833165]
+### 52. Tribunal panel’s decision[^c-4ca407b1164f01defaac1e08ee833165]
 
 (1) For the purposes of arriving at its decision the tribunal panel must, and for the purposes of discussing a question of procedure may, notwithstanding anything contained in these Regulations, order all persons to withdraw from the sitting of the tribunal panel other than the members of the tribunal panel and any of the persons mentioned in regulation 40(4)(c) to (f), or, as their respective duties require, regulation 40(4)(g) and (h).
 
@@ -993,7 +993,7 @@ The President may, on the application of a party or on the President’s or the 
 
 ## After the hearing
 
-### 53. Application or proposal for review of the Tribunal’s decision[^key-e1677763beb47437dea706dc782e6456]
+### 53. Application or proposal for review of the Tribunal’s decision[^c-e1677763beb47437dea706dc782e6456]
 
 (1) A party may apply to the Secretary of the Tribunal for the decision of the President or the tribunal panel to be reviewed on the grounds that—
 
@@ -1043,7 +1043,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (14) If a decision is set aside or varied following a review under this regulation the Secretary of the Tribunal must alter the entry in the Register and must notify the parties accordingly.
 
-### 54. Review of Tribunal’s decision not to extend the period in which proceedings must be commenced[^key-69b90af610d3fc44c4db8c9a3ade0c79]
+### 54. Review of Tribunal’s decision not to extend the period in which proceedings must be commenced[^c-69b90af610d3fc44c4db8c9a3ade0c79]
 
 (1) A decision by the President not to extend the time for submitting an appeal application under regulation 14 may be reviewed under regulation 53 on the application of a person as if the person was a party to the appeal.
 
@@ -1051,7 +1051,7 @@ The President may, on the application of a party or on the President’s or the 
 
 (3) If an application for review is made under paragraph (1) or (2), the Secretary of the Tribunal must serve a copy of the application on the local authority, FEI governing body or the responsible body together with a notice inviting written representations within a specified period.
 
-### 55. Application for permission to appeal to the Upper Tribunal[^key-ff1e70bab4a169974f6de0c059527981]
+### 55. Application for permission to appeal to the Upper Tribunal[^c-ff1e70bab4a169974f6de0c059527981]
 
 (1) A party seeking permission to appeal on a point of law under section 81 of the 2018 Act or paragraph 6AA of Schedule 17 to the 2010 Act (appeals from the Education Tribunal for Wales to the Upper Tribunal) must make a written application to the Education Tribunal for permission to appeal.
 
@@ -1082,11 +1082,11 @@ The President may, on the application of a party or on the President’s or the 
 
 (9) The President or Chair may give permission to appeal on limited grounds, but must comply with paragraph (8) in relation to any grounds on which it has refused permission.
 
-### 56. Power to suspend Tribunal’s decision[^key-5054e757c5f98675deecc461bdbdf75e]
+### 56. Power to suspend Tribunal’s decision[^c-5054e757c5f98675deecc461bdbdf75e]
 
 The President or the Chair of the tribunal panel which decided the case may, on application or on the President’s or the Chair’s own initiative, make an order to suspend the effect of the tribunal panel’s decision pending the determination by the President or the Chair or the Upper Tribunal of an application for permission to appeal against, and any appeal or review of, that decision.
 
-### 57. Orders of the Upper Tribunal or the Court[^key-be9e57521cebc58197143f238d3cb1fc]
+### 57. Orders of the Upper Tribunal or the Court[^c-be9e57521cebc58197143f238d3cb1fc]
 
 (1) If any decision of the Tribunal is set aside, varied or altered in any way by order of the Upper Tribunal or the Court, the Secretary of the Tribunal must alter the entry in the Register to correspond to that order and must notify the parties accordingly.
 
@@ -1101,7 +1101,7 @@ The President or the Chair of the tribunal panel which decided the case may, on 
 
 (4) The Secretary of the Tribunal must send a copy of all case statements and written evidence received from a party during the periods referred to in paragraphs (2) and (3)(b) to the other party.
 
-### 58. Compliance with tribunal panel orders - appeals[^key-de41f59fa481b0be06d825861bd08eaa]
+### 58. Compliance with tribunal panel orders - appeals[^c-de41f59fa481b0be06d825861bd08eaa]
 
 (1) If the tribunal panel, following its decision in relation to an appeal, makes an order under section 71 of the 2018 Act requiring a local authority or FEI governing body to perform the actions referred to in paragraph (2) the local authority or FEI governing body must perform the actions within the time period specified in paragraph (2).
 
@@ -1132,7 +1132,7 @@ The President or the Chair of the tribunal panel which decided the case may, on 
 
 ## Children who lack capacity and case friends
 
-### 59. Applications under section 70(3) of the 2018 Act for a declaration under section 71(2) of the 2018 Act relating to child’s capacity to understand[^key-ae356287255a34eeae26b278e92fd25b]
+### 59. Applications under section 70(3) of the 2018 Act for a declaration under section 71(2) of the 2018 Act relating to child’s capacity to understand[^c-ae356287255a34eeae26b278e92fd25b]
 
 (1) A child or child’s parent seeking a declaration from the tribunal pursuant to section 71(2) of the 2018 Act must submit an application in writing to the tribunal.
 
@@ -1159,11 +1159,11 @@ The President or the Chair of the tribunal panel which decided the case may, on 
 
 (5) The Secretary of the Tribunal must record the decision and any declaration in the Register.
 
-### 60. Who may be a case friend[^key-097f318fda4536f737b2f173e018e0f6]
+### 60. Who may be a case friend[^c-097f318fda4536f737b2f173e018e0f6]
 
 A person may only act as a case friend if the person is not barred from regulated activity relating to children under section 3(2)(a) of the Safeguarding Vulnerable Groups Act 2006[^f00012].
 
-### 61. How a person becomes a case friend[^key-1a90eee3836068ec6ffb7d30977ae484]
+### 61. How a person becomes a case friend[^c-1a90eee3836068ec6ffb7d30977ae484]
 
 (1) A person who wishes to act as a case friend must submit an application in writing to the Tribunal.
 
@@ -1200,7 +1200,7 @@ A person may only act as a case friend if the person is not barred from regulate
 - (b) the child’s parent, and
 - (c) the child’s school and local authority.
 
-### 62. Steps in proceedings[^key-91c1cff81ca31c4e72246eba2a57fe96]
+### 62. Steps in proceedings[^c-91c1cff81ca31c4e72246eba2a57fe96]
 
 (1) If during the appeal or the claim the President or the tribunal panel make a finding that a child appellant or claimant lacks capacity to understand within the meaning of section 85(1) of the 2018 Act and requires a case friend to conduct the proceedings on its behalf, no party may take any further step in the appeal or the claim without the President’s or the tribunal panel’s permission until and unless a person who wishes to act as the appellant’s or the claimant’s case friend has submitted an application to the Tribunal in accordance with regulation 61.
 
@@ -1210,7 +1210,7 @@ A person may only act as a case friend if the person is not barred from regulate
 
 (4) If paragraph (3) applies, references in these Regulations (however expressed) to sending documents to, or giving notice to, the appellant or the claimant must be construed as references to sending documents to, or giving notice to, the case friend.
 
-### 63. Removing a case friend[^key-469449415d89b1aced5681306a49037c]
+### 63. Removing a case friend[^c-469449415d89b1aced5681306a49037c]
 
 (1) The President or the tribunal panel may remove a case friend by order in accordance with section 85(2)(b) of the 2018 Act on the President’s or the tribunal panel’s own initiative or on application, if satisfied that—
 
@@ -1234,7 +1234,7 @@ A person may only act as a case friend if the person is not barred from regulate
 
 ## Miscellaneous
 
-### 64. NHS bodies – Reports to the Tribunal[^key-8742085a1e18f2324a5652bf91a02e23]
+### 64. NHS bodies – Reports to the Tribunal[^c-8742085a1e18f2324a5652bf91a02e23]
 
 (1) An NHS body to whom a recommendation has been made by the Tribunal must make a report to the Tribunal before the end of 6 weeks beginning with the date on which the recommendation is made.
 
@@ -1242,7 +1242,7 @@ A person may only act as a case friend if the person is not barred from regulate
 
 ## Extension of time
 
-**65.**[^key-36c74a264375ae24fd0f998b32730937] (1) Subject to paragraph (2), the President may, on application of a party or on the President’s own initiative, direct that a period of time in these Regulations or a direction made under them is extended.
+**65.**[^c-36c74a264375ae24fd0f998b32730937] (1) Subject to paragraph (2), the President may, on application of a party or on the President’s own initiative, direct that a period of time in these Regulations or a direction made under them is extended.
 
 (2) The President may only extend a period of time in accordance with paragraph (1) if the President considers it fair and just to do so.
 
@@ -1250,14 +1250,14 @@ A person may only act as a case friend if the person is not barred from regulate
 
 (4) Where the President has extended a period of time, reference in these Regulations or in a direction made under them to that period of time must be construed as a reference to the period of time so extended.
 
-### 66. Withdrawal[^key-839a93aa59fa9dac974c8f497d3918cb]
+### 66. Withdrawal[^c-839a93aa59fa9dac974c8f497d3918cb]
 
 A person may withdraw an appeal or a claim—
 
 - (a) by giving notice to the Secretary of the Tribunal at any time before a hearing, or
 - (b) orally at a hearing.
 
-### 67. Orders for costs and expenses[^key-54149157a9cbdcdedf4d91b4be8c41ab]
+### 67. Orders for costs and expenses[^c-54149157a9cbdcdedf4d91b4be8c41ab]
 
 (1) The President or the Chair of the tribunal panel which decided the case must not normally make an order in respect of costs and expenses, but may, subject to paragraph (3), make such an order—
 
@@ -1300,7 +1300,7 @@ A person may withdraw an appeal or a claim—
 
 (11) An order under this regulation for costs to be assessed must allow the county court to make a detailed assessment of costs in accordance with the Civil Procedure Rules 1998 either on the standard basis or if specified in the order on the indemnity basis.
 
-### 68. Power to exercise the functions of the President and Chair[^key-2abbea5e39eca69186ea5e691419c9f1]
+### 68. Power to exercise the functions of the President and Chair[^c-2abbea5e39eca69186ea5e691419c9f1]
 
 (1) A Chair may exercise any function which these Regulations require or authorise the President to do.
 
@@ -1311,7 +1311,7 @@ A person may withdraw an appeal or a claim—
 
 (3) Subject to regulation 73(6), in the event of the death or incapacity of the Chair, or if the Chair ceases to be a member of the legal chair’s panel, following the decision of the tribunal panel, the functions of the Chair may be exercised by the President or another Chair appointed from the legal chair’s panel.
 
-### 69. Power to exercise the functions of a panel member in relation to a review[^key-e9b601e9f72acb3f00bbe94d4e33e828]
+### 69. Power to exercise the functions of a panel member in relation to a review[^c-e9b601e9f72acb3f00bbe94d4e33e828]
 
 (1) In the event of the death or incapacity of a member of the tribunal panel other than the Chair, or if a person ceases to be a member of the lay panel, following a decision of the tribunal panel, the functions of the tribunal panel in relation to any review of a decision may be undertaken by the other two panel members.
 
@@ -1320,11 +1320,11 @@ A person may withdraw an appeal or a claim—
 - (a) which is constituted of two members;
 - (b) of which any person is authorised to act in place of the Chair in accordance with regulation 68.
 
-### 70. The Secretary of the Tribunal[^key-ee239e784395f0a3170a36f89345c258]
+### 70. The Secretary of the Tribunal[^c-ee239e784395f0a3170a36f89345c258]
 
 Any function of the Secretary of the Tribunal may be performed by another member of the staff of the Tribunal authorised by the President.
 
-### 71. Register[^key-eab71b2c65300495321962486305b7c3]
+### 71. Register[^c-eab71b2c65300495321962486305b7c3]
 
 (1) The Secretary of the Tribunal must keep a Register of appeals and claims registered by the Tribunal.
 
@@ -1339,7 +1339,7 @@ Any function of the Secretary of the Tribunal may be performed by another member
 
 (3) The Register or any part of it may be kept in electronic form.
 
-### 72. Publication[^key-b85feaf7b49961134d0e02eaaa25ef77]
+### 72. Publication[^c-b85feaf7b49961134d0e02eaaa25ef77]
 
 (1) The President may make such arrangements as the President considers appropriate for the publication of tribunal panel decisions.
 
@@ -1353,7 +1353,7 @@ Any function of the Secretary of the Tribunal may be performed by another member
 
 (4) A decision of the tribunal panel must be published in such manner as to protect the anonymity of the child or young person.
 
-### 73. Irregularities[^key-3bfef8c8e259f10724e1ebc91d4b4c86]
+### 73. Irregularities[^c-3bfef8c8e259f10724e1ebc91d4b4c86]
 
 (1) An irregularity resulting from failure to comply with any provision of these Regulations, a practice direction[^f00013] or of any direction of the President or the tribunal panel before the tribunal panel has reached its decision may not of itself render the proceedings void.
 
@@ -1367,13 +1367,13 @@ Any function of the Secretary of the Tribunal may be performed by another member
 
 (6) Where these Regulations require the Chair to sign a document, but by reason of death or incapacity the Chair is unable to do so, the other members of the tribunal panel must sign it and certify that the Chair is unable to sign.
 
-### 74. Proof of documents and certification of decisions[^key-e844f5d8551ad4754fcb5db684b70138]
+### 74. Proof of documents and certification of decisions[^c-e844f5d8551ad4754fcb5db684b70138]
 
 (1) A document purporting to be a document issued by the Secretary of the Tribunal on behalf of the President or the tribunal panel is, unless the contrary is proved, to be considered to be a document so issued.
 
 (2) A document purporting to be certified by the Secretary of the Tribunal as a true copy of a document containing a decision of the tribunal panel is, unless the contrary is proved, to be sufficient evidence of its contents.
 
-### 75. Method of sending, submitting or serving notices and documents[^key-e7486e211148487e7621c853f77cc97c]
+### 75. Method of sending, submitting or serving notices and documents[^c-e7486e211148487e7621c853f77cc97c]
 
 (1) A notice given under these Regulations must be in writing and a party whom the Regulations require to notify a matter to the Secretary of the Tribunal must do so in writing.
 
@@ -1412,7 +1412,7 @@ Any function of the Secretary of the Tribunal may be performed by another member
 
 (14) Where for any sufficient reason service of any document or notice cannot be effected in the manner prescribed under this regulation, the President or the tribunal panel may dispense with service or make an order for substituted service in such manner as the President or the tribunal panel may deem fit and such service must have the same effect as service in the manner prescribed under this regulation.
 
-### 76. Calculating time[^key-4a7f4984e779b7f3d0a419ab8c47cce0]
+### 76. Calculating time[^c-4a7f4984e779b7f3d0a419ab8c47cce0]
 
 (1) An act required by these Regulations, a practice direction or a direction to be done on or by a particular day must be done by 5pm on that day.
 
@@ -1425,7 +1425,7 @@ Any function of the Secretary of the Tribunal may be performed by another member
 
 (4) Paragraph (3)(b) does not apply where the Tribunal directs that an act must be done by or on a specified date.
 
-### 77. Signature of documents[^key-db9133345d544d1645d5becd4215a261]
+### 77. Signature of documents[^c-db9133345d544d1645d5becd4215a261]
 
 Where these Regulations require a document to be signed, that requirement is satisfied—
 
@@ -1452,9 +1452,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: The references in section 98(3) of the 2018 Act and section 209(6) of the 2010 Act to the National Assembly for Wales are now to be read as references to Senedd Cymru by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-afd6091331e10ef81b723abdee39180c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-afd6091331e10ef81b723abdee39180c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-f11003489b0212672705022d77d01a29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/406/regulation/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-f11003489b0212672705022d77d01a29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/406/regulation/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
 [^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
@@ -1466,164 +1466,164 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-a515826bb06d3433fea4e1776ff11571]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/406/regulation/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-a515826bb06d3433fea4e1776ff11571]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/406/regulation/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-e54955f98f4d2c1e372aa75d4a11c139]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/406/regulation/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-e54955f98f4d2c1e372aa75d4a11c139]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/406/regulation/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-fb2131f35d230097f565add6f0aa5ad3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/406/regulation/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-fb2131f35d230097f565add6f0aa5ad3]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/406/regulation/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-72993eb1f8326b4378a1f0c8b797a01f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/406/regulation/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-72993eb1f8326b4378a1f0c8b797a01f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/406/regulation/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-fa88cb6e2eb17baa3ff0b7bafbf05f9a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/406/regulation/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-fa88cb6e2eb17baa3ff0b7bafbf05f9a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/406/regulation/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-944dba3b10bb53b0678ee255dd1a9116]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/406/regulation/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-944dba3b10bb53b0678ee255dd1a9116]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/406/regulation/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-ac18f0db0b1539ca859e58e12f282b68]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/406/regulation/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ac18f0db0b1539ca859e58e12f282b68]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/406/regulation/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-16135f2150746e3ba8514105ba1ae199]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/406/regulation/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-16135f2150746e3ba8514105ba1ae199]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/406/regulation/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
 [^f00009]: Footnote: Paragraph 4(1) of Schedule 17 to the Equality Act 2010 stipulates the period in which a claim must be made to the Tribunal.
 
-[^key-07029bae61b9579c7e820c8c2a18f91c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/406/regulation/11) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-07029bae61b9579c7e820c8c2a18f91c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/406/regulation/11) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-c6610ae9fe53c81bf17f60918ae1da73]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/406/regulation/12) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-c6610ae9fe53c81bf17f60918ae1da73]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2021/406/regulation/12) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-eb5773c1706c6f11467a6b8d564de9bf]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/406/regulation/13) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-eb5773c1706c6f11467a6b8d564de9bf]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2021/406/regulation/13) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-383f1c905e5dfe11621ae1bebad75a82]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2021/406/regulation/14) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-383f1c905e5dfe11621ae1bebad75a82]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2021/406/regulation/14) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-a0793ab52225c62d99aa370d77b55c72]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2021/406/regulation/15) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-a0793ab52225c62d99aa370d77b55c72]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2021/406/regulation/15) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-82dcbb7da33e9e5dd3c843026b4b2241]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2021/406/regulation/16) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-82dcbb7da33e9e5dd3c843026b4b2241]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2021/406/regulation/16) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-037ded3f366e2974a107df9aea39dd66]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2021/406/regulation/17) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-037ded3f366e2974a107df9aea39dd66]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2021/406/regulation/17) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-d92659e882f4515786838c01ba19f5e5]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/wsi/2021/406/regulation/17/2) substituted (8.10.2021) by [The Education Tribunal for Wales (Amendment) Regulations 2021 (S.I. 2021/1121)](https://www.legislation.gov.uk/wsi/2021/1121), [regs. 1](https://www.legislation.gov.uk/wsi/2021/1121/regulation/1), [2](https://www.legislation.gov.uk/wsi/2021/1121/regulation/2)
+[^c-d92659e882f4515786838c01ba19f5e5]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/wsi/2021/406/regulation/17/2) substituted (8.10.2021) by [The Education Tribunal for Wales (Amendment) Regulations 2021 (S.I. 2021/1121)](https://www.legislation.gov.uk/wsi/2021/1121), [regs. 1](https://www.legislation.gov.uk/wsi/2021/1121/regulation/1), [2](https://www.legislation.gov.uk/wsi/2021/1121/regulation/2)
 
-[^key-87e64957cabfce794c2c03b1ea3ba366]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2021/406/regulation/18) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-87e64957cabfce794c2c03b1ea3ba366]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2021/406/regulation/18) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-5c0276148c6b88fd2b6433348620576f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2021/406/regulation/19) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-5c0276148c6b88fd2b6433348620576f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2021/406/regulation/19) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-24dfd928c45939fcb35e520c679c0c6f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2021/406/regulation/20) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-24dfd928c45939fcb35e520c679c0c6f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2021/406/regulation/20) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-937fcbd18eae986522ab7601fa51d222]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2021/406/regulation/21) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-937fcbd18eae986522ab7601fa51d222]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2021/406/regulation/21) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-7ffa25a342f0d5095276324d021b88c0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2021/406/regulation/22) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-7ffa25a342f0d5095276324d021b88c0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2021/406/regulation/22) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-739b9bc53b084be0bbf0309960f1889e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2021/406/regulation/23) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-739b9bc53b084be0bbf0309960f1889e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2021/406/regulation/23) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-2f7a212833ff5b96c56de3c91bf5f1f3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2021/406/regulation/24) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-2f7a212833ff5b96c56de3c91bf5f1f3]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2021/406/regulation/24) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-cdb71565fd1d249178bbc837382a8cde]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2021/406/regulation/25) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-cdb71565fd1d249178bbc837382a8cde]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2021/406/regulation/25) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-b2cc15370f0d2db771618c07ed689d87]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2021/406/regulation/26) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-b2cc15370f0d2db771618c07ed689d87]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2021/406/regulation/26) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-2930676337e0b06897239eb2b270641e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/406/regulation/27) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-2930676337e0b06897239eb2b270641e]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/406/regulation/27) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-c7f882e0bd4cc1603b1de93b61430fe7]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2021/406/regulation/28) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-c7f882e0bd4cc1603b1de93b61430fe7]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2021/406/regulation/28) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-a2df6bc0323090671640c0596a7bec4e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2021/406/regulation/29) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-a2df6bc0323090671640c0596a7bec4e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2021/406/regulation/29) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-c63d5fdd70e8324198c55679083b718a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2021/406/regulation/30) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-c63d5fdd70e8324198c55679083b718a]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2021/406/regulation/30) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-980f6406f2533c9f58223314ee2d3a4b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/406/regulation/31) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-980f6406f2533c9f58223314ee2d3a4b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/wsi/2021/406/regulation/31) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-d614c7d3d2471d286d1fccf05e316625]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2021/406/regulation/32) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-d614c7d3d2471d286d1fccf05e316625]: Commencement: [Reg. 32](https://www.legislation.gov.uk/wsi/2021/406/regulation/32) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
 [^f00010]: Footnote: See Part 31 – Disclosure and Inspection of Documents.
 
-[^key-44862907249692d4b71a0c894361a4c9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2021/406/regulation/33) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-44862907249692d4b71a0c894361a4c9]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2021/406/regulation/33) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-4c36eca7ad83457e3e5302aef2e5cee0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2021/406/regulation/34) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-4c36eca7ad83457e3e5302aef2e5cee0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/wsi/2021/406/regulation/34) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-ae72946b03307e67a63f119e353d34d3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2021/406/regulation/35) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ae72946b03307e67a63f119e353d34d3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2021/406/regulation/35) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-417e9d002bd6e24f1c85ade023534c17]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2021/406/regulation/36) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-417e9d002bd6e24f1c85ade023534c17]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2021/406/regulation/36) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-045380f88cbb4eb81998d02d1d4233f5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2021/406/regulation/37) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-045380f88cbb4eb81998d02d1d4233f5]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2021/406/regulation/37) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-82a7beb62c62de96488ff6e96c55007a]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2021/406/regulation/38) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-82a7beb62c62de96488ff6e96c55007a]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2021/406/regulation/38) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-148693b766320da66314063b3f1205ee]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2021/406/regulation/39) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-148693b766320da66314063b3f1205ee]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2021/406/regulation/39) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-eb024f9d3eeb01029c544965fc552cd4]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2021/406/regulation/40) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-eb024f9d3eeb01029c544965fc552cd4]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2021/406/regulation/40) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-cae3c472800af104c65b572b24ba6e07]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2021/406/regulation/41) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-cae3c472800af104c65b572b24ba6e07]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2021/406/regulation/41) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
 [^f00011]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42); section 201(1) was amended by Part 3, Chapter 6, section 360 of, and paragraph 1 of Schedule 19 to, the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-ab337fbdcfe293182399c9727ca3e848]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2021/406/regulation/42) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ab337fbdcfe293182399c9727ca3e848]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2021/406/regulation/42) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-4e7f4aa40e59ace56f3251cb2e1401d8]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2021/406/regulation/43) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-4e7f4aa40e59ace56f3251cb2e1401d8]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2021/406/regulation/43) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-13da95ac62e09dd694543f1f9846f787]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2021/406/regulation/44) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-13da95ac62e09dd694543f1f9846f787]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2021/406/regulation/44) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-b44c24c6ddb7ce435e1b0a9c3952a7f0]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2021/406/regulation/45) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-b44c24c6ddb7ce435e1b0a9c3952a7f0]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2021/406/regulation/45) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-9690601120cfe472dd38c2ce65233a2a]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2021/406/regulation/46) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-9690601120cfe472dd38c2ce65233a2a]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2021/406/regulation/46) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-2988a310f4827d3ead82253c8b53b801]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2021/406/regulation/47) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-2988a310f4827d3ead82253c8b53b801]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2021/406/regulation/47) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-ed948be05563fd95832b039dc0b449be]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2021/406/regulation/48) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ed948be05563fd95832b039dc0b449be]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2021/406/regulation/48) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-8c93761921debe11082a3dba7bf03c2f]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2021/406/regulation/49) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-8c93761921debe11082a3dba7bf03c2f]: Commencement: [Reg. 49](https://www.legislation.gov.uk/wsi/2021/406/regulation/49) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-face6b914c6613c8726f7992547349fa]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2021/406/regulation/50) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-face6b914c6613c8726f7992547349fa]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2021/406/regulation/50) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-3ed9759ba19eadc6ba56b1bba9ed0549]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2021/406/regulation/51) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-3ed9759ba19eadc6ba56b1bba9ed0549]: Commencement: [Reg. 51](https://www.legislation.gov.uk/wsi/2021/406/regulation/51) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-4ca407b1164f01defaac1e08ee833165]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2021/406/regulation/52) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-4ca407b1164f01defaac1e08ee833165]: Commencement: [Reg. 52](https://www.legislation.gov.uk/wsi/2021/406/regulation/52) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-e1677763beb47437dea706dc782e6456]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2021/406/regulation/53) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-e1677763beb47437dea706dc782e6456]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2021/406/regulation/53) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-69b90af610d3fc44c4db8c9a3ade0c79]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2021/406/regulation/54) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-69b90af610d3fc44c4db8c9a3ade0c79]: Commencement: [Reg. 54](https://www.legislation.gov.uk/wsi/2021/406/regulation/54) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-ff1e70bab4a169974f6de0c059527981]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2021/406/regulation/55) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ff1e70bab4a169974f6de0c059527981]: Commencement: [Reg. 55](https://www.legislation.gov.uk/wsi/2021/406/regulation/55) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-5054e757c5f98675deecc461bdbdf75e]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2021/406/regulation/56) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-5054e757c5f98675deecc461bdbdf75e]: Commencement: [Reg. 56](https://www.legislation.gov.uk/wsi/2021/406/regulation/56) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-be9e57521cebc58197143f238d3cb1fc]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2021/406/regulation/57) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-be9e57521cebc58197143f238d3cb1fc]: Commencement: [Reg. 57](https://www.legislation.gov.uk/wsi/2021/406/regulation/57) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-de41f59fa481b0be06d825861bd08eaa]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2021/406/regulation/58) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-de41f59fa481b0be06d825861bd08eaa]: Commencement: [Reg. 58](https://www.legislation.gov.uk/wsi/2021/406/regulation/58) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-ae356287255a34eeae26b278e92fd25b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/wsi/2021/406/regulation/59) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ae356287255a34eeae26b278e92fd25b]: Commencement: [Reg. 59](https://www.legislation.gov.uk/wsi/2021/406/regulation/59) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-097f318fda4536f737b2f173e018e0f6]: Commencement: [Reg. 60](https://www.legislation.gov.uk/wsi/2021/406/regulation/60) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-097f318fda4536f737b2f173e018e0f6]: Commencement: [Reg. 60](https://www.legislation.gov.uk/wsi/2021/406/regulation/60) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
 [^f00012]: Footnote: Under section 3(2)(a) of the Safeguarding Vulnerable Groups Act [2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47), a person is barred from regulated activity relating to children if the person’s name is included in the list in Part 1 of Schedule 3 to that Act (“the children’s barred list”).
 
-[^key-1a90eee3836068ec6ffb7d30977ae484]: Commencement: [Reg. 61](https://www.legislation.gov.uk/wsi/2021/406/regulation/61) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-1a90eee3836068ec6ffb7d30977ae484]: Commencement: [Reg. 61](https://www.legislation.gov.uk/wsi/2021/406/regulation/61) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-91c1cff81ca31c4e72246eba2a57fe96]: Commencement: [Reg. 62](https://www.legislation.gov.uk/wsi/2021/406/regulation/62) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-91c1cff81ca31c4e72246eba2a57fe96]: Commencement: [Reg. 62](https://www.legislation.gov.uk/wsi/2021/406/regulation/62) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-469449415d89b1aced5681306a49037c]: Commencement: [Reg. 63](https://www.legislation.gov.uk/wsi/2021/406/regulation/63) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-469449415d89b1aced5681306a49037c]: Commencement: [Reg. 63](https://www.legislation.gov.uk/wsi/2021/406/regulation/63) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-8742085a1e18f2324a5652bf91a02e23]: Commencement: [Reg. 64](https://www.legislation.gov.uk/wsi/2021/406/regulation/64) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-8742085a1e18f2324a5652bf91a02e23]: Commencement: [Reg. 64](https://www.legislation.gov.uk/wsi/2021/406/regulation/64) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-36c74a264375ae24fd0f998b32730937]: Commencement: [Reg. 65](https://www.legislation.gov.uk/wsi/2021/406/regulation/65) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-36c74a264375ae24fd0f998b32730937]: Commencement: [Reg. 65](https://www.legislation.gov.uk/wsi/2021/406/regulation/65) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-839a93aa59fa9dac974c8f497d3918cb]: Commencement: [Reg. 66](https://www.legislation.gov.uk/wsi/2021/406/regulation/66) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-839a93aa59fa9dac974c8f497d3918cb]: Commencement: [Reg. 66](https://www.legislation.gov.uk/wsi/2021/406/regulation/66) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-54149157a9cbdcdedf4d91b4be8c41ab]: Commencement: [Reg. 67](https://www.legislation.gov.uk/wsi/2021/406/regulation/67) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-54149157a9cbdcdedf4d91b4be8c41ab]: Commencement: [Reg. 67](https://www.legislation.gov.uk/wsi/2021/406/regulation/67) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-2abbea5e39eca69186ea5e691419c9f1]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2021/406/regulation/68) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-2abbea5e39eca69186ea5e691419c9f1]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2021/406/regulation/68) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-e9b601e9f72acb3f00bbe94d4e33e828]: Commencement: [Reg. 69](https://www.legislation.gov.uk/wsi/2021/406/regulation/69) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-e9b601e9f72acb3f00bbe94d4e33e828]: Commencement: [Reg. 69](https://www.legislation.gov.uk/wsi/2021/406/regulation/69) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-ee239e784395f0a3170a36f89345c258]: Commencement: [Reg. 70](https://www.legislation.gov.uk/wsi/2021/406/regulation/70) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-ee239e784395f0a3170a36f89345c258]: Commencement: [Reg. 70](https://www.legislation.gov.uk/wsi/2021/406/regulation/70) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-eab71b2c65300495321962486305b7c3]: Commencement: [Reg. 71](https://www.legislation.gov.uk/wsi/2021/406/regulation/71) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-eab71b2c65300495321962486305b7c3]: Commencement: [Reg. 71](https://www.legislation.gov.uk/wsi/2021/406/regulation/71) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-b85feaf7b49961134d0e02eaaa25ef77]: Commencement: [Reg. 72](https://www.legislation.gov.uk/wsi/2021/406/regulation/72) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-b85feaf7b49961134d0e02eaaa25ef77]: Commencement: [Reg. 72](https://www.legislation.gov.uk/wsi/2021/406/regulation/72) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-3bfef8c8e259f10724e1ebc91d4b4c86]: Commencement: [Reg. 73](https://www.legislation.gov.uk/wsi/2021/406/regulation/73) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-3bfef8c8e259f10724e1ebc91d4b4c86]: Commencement: [Reg. 73](https://www.legislation.gov.uk/wsi/2021/406/regulation/73) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
 [^f00013]: Footnote: See section 61(2) of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) for powers to make practice directions.
 
-[^key-e844f5d8551ad4754fcb5db684b70138]: Commencement: [Reg. 74](https://www.legislation.gov.uk/wsi/2021/406/regulation/74) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-e844f5d8551ad4754fcb5db684b70138]: Commencement: [Reg. 74](https://www.legislation.gov.uk/wsi/2021/406/regulation/74) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-e7486e211148487e7621c853f77cc97c]: Commencement: [Reg. 75](https://www.legislation.gov.uk/wsi/2021/406/regulation/75) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-e7486e211148487e7621c853f77cc97c]: Commencement: [Reg. 75](https://www.legislation.gov.uk/wsi/2021/406/regulation/75) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-4a7f4984e779b7f3d0a419ab8c47cce0]: Commencement: [Reg. 76](https://www.legislation.gov.uk/wsi/2021/406/regulation/76) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-4a7f4984e779b7f3d0a419ab8c47cce0]: Commencement: [Reg. 76](https://www.legislation.gov.uk/wsi/2021/406/regulation/76) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
 
-[^key-db9133345d544d1645d5becd4215a261]: Commencement: [Reg. 77](https://www.legislation.gov.uk/wsi/2021/406/regulation/77) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)
+[^c-db9133345d544d1645d5becd4215a261]: Commencement: [Reg. 77](https://www.legislation.gov.uk/wsi/2021/406/regulation/77) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/406/regulation/1)

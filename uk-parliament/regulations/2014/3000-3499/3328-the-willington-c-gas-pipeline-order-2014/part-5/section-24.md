@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Temporary use of land for carrying out authorised development[^key-a7e661448b78835586dedb70284e6625]
+## 24. Temporary use of land for carrying out authorised development[^c-a7e661448b78835586dedb70284e6625]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a7e661448b78835586dedb70284e6625]: Commencement: Art. 24 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-a7e661448b78835586dedb70284e6625]: Commencement: Art. 24 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00035]: Footnote: Section 11 was amended by paragraph 14(3) of Schedule 4 to the Acquisition of Land Act [1981 (c.67)](https://www.legislation.gov.uk/ukpga/1981/67), Part 1 of Schedule 1 to the Housing (Consequential Provisions) Act [1985 (c.71)](https://www.legislation.gov.uk/ukpga/1985/71), paragraph 12(1) of the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)) and paragraph 64 of Schedule 1 to [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

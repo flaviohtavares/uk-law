@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 195. Guaranteed minimum under section 14 of PSA 1993[^key-32e0028c60141b224dfe0f5b8ee3e626]
+## 195. Guaranteed minimum under section 14 of PSA 1993[^c-32e0028c60141b224dfe0f5b8ee3e626]
 
 *Extent: S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32e0028c60141b224dfe0f5b8ee3e626]: Commencement: Reg. 195 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-32e0028c60141b224dfe0f5b8ee3e626]: Commencement: Reg. 195 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00075]: Footnote: Section 14 was amended by the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), Schedule 5, paragraph 27 and Schedule 7, Part 3; the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), Schedule 1, paragraph 38; and the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 22.

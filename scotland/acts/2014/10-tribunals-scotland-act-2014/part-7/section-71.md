@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Proceedings and steps[^key-cac823c7a5ccc5e3521137fc8f307f43]
+## 71. Proceedings and steps[^c-cac823c7a5ccc5e3521137fc8f307f43]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cac823c7a5ccc5e3521137fc8f307f43]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2014/10/section/71) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-cac823c7a5ccc5e3521137fc8f307f43]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2014/10/section/71) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

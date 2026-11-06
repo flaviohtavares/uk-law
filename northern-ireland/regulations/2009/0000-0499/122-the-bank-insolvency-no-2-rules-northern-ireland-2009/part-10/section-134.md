@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Committee’s functions vested in the Department[^key-010c5edcab8a1bce6f8c830a4e19ca6e]
+## 134. Committee’s functions vested in the Department[^c-010c5edcab8a1bce6f8c830a4e19ca6e]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-010c5edcab8a1bce6f8c830a4e19ca6e]: Commencement: Rule 134 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-010c5edcab8a1bce6f8c830a4e19ca6e]: Commencement: Rule 134 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

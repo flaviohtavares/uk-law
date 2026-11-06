@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Giving of approval by court[^key-ffa7c5ec590a381d29dc11fdece22d2b]
+## 60. Giving of approval by court[^c-ffa7c5ec590a381d29dc11fdece22d2b]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa7c5ec590a381d29dc11fdece22d2b]: Commencement: S. 60 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-ffa7c5ec590a381d29dc11fdece22d2b]: Commencement: S. 60 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

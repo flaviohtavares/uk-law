@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Inquiries.[^key-99532b7b3bf74dd88195a09bb09e7366]
+## 84. Inquiries.[^c-99532b7b3bf74dd88195a09bb09e7366]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99532b7b3bf74dd88195a09bb09e7366]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/1977/49/section/84) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)
+[^c-99532b7b3bf74dd88195a09bb09e7366]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/1977/49/section/84) repealed (7.6.2005) by [Inquiries Act 2005 (c. 12)](https://www.legislation.gov.uk/ukpga/2005/12), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/51/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2005/12/schedule/2/paragraph/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/12/schedule/3) (with [ss. 44](https://www.legislation.gov.uk/ukpga/2005/12/section/44), [50](https://www.legislation.gov.uk/ukpga/2005/12/section/50)); [S.I. 2005/1432](https://www.legislation.gov.uk/uksi/2005/1432), [art. 2](https://www.legislation.gov.uk/uksi/2005/1432/article/2)

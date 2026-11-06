@@ -45,7 +45,7 @@ An Act to consolidate certain of the enactments relating to income tax, includin
 
 #### 226, 227. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c602045]
 
-#### 228. Relief from tax in respect of income accumulated under trusts.[^key-9015124e84c2ed292a703eacd3be62db][^c602047][^c602046]
+#### 228. Relief from tax in respect of income accumulated under trusts.[^c-9015124e84c2ed292a703eacd3be62db][^c602047][^c602046]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -67,7 +67,7 @@ An Act to consolidate certain of the enactments relating to income tax, includin
 
 (1)—(3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c602052]
 
-(4)[^key-8e3220c8433f7d8689d37a87ef3bbaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8e3220c8433f7d8689d37a87ef3bbaf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 401—403. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c602053]
 
@@ -79,7 +79,7 @@ An Act to consolidate certain of the enactments relating to income tax, includin
 
 (1)—(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c602056]
 
-(6)[^key-228b471aa7b8fd541291fceebd587ff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-228b471aa7b8fd541291fceebd587ff1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 407—411. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c602057]
 
@@ -132,7 +132,7 @@ This Act may be cited as the Income Tax Act, 1952.
 
 [^c602045]: Textual amendment: [Ss. 226](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/226), [227](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/227) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-9015124e84c2ed292a703eacd3be62db]: Textual amendment: [S. 228](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/228) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-9015124e84c2ed292a703eacd3be62db]: Textual amendment: [S. 228](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/228) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c602047]: Modification: S. 228 modified by [Finance (No. 2) Act 1975 (c. 45, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1975/45), [s. 47(1)(2)(3)](https://www.legislation.gov.uk/ukpga/1975/45/section/47/1/2/3)(*b*)
 
@@ -146,7 +146,7 @@ This Act may be cited as the Income Tax Act, 1952.
 
 [^c602052]: Textual amendment: S. 400(1)–(3) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-8e3220c8433f7d8689d37a87ef3bbaf0]: Textual amendment: [S. 400(4)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/400/4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-8e3220c8433f7d8689d37a87ef3bbaf0]: Textual amendment: [S. 400(4)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/400/4) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c602053]: Textual amendment: [Ss. 401–403](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/401) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
@@ -156,7 +156,7 @@ This Act may be cited as the Income Tax Act, 1952.
 
 [^c602056]: Textual amendment: S. 406(1)–(5) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-228b471aa7b8fd541291fceebd587ff1]: Textual amendment: [S. 406(6)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/406/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-228b471aa7b8fd541291fceebd587ff1]: Textual amendment: [S. 406(6)](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/406/6) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c602057]: Textual amendment: [Ss. 407–411](https://www.legislation.gov.uk/ukpga/Geo6and1Eliz2/15-16/10/section/407) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 

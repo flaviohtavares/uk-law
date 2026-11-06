@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Statements on reports under section 36[^key-8e3f7fae23389075ee8e1ae7eca13133]
+## 37. Statements on reports under section 36[^c-8e3f7fae23389075ee8e1ae7eca13133]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3f7fae23389075ee8e1ae7eca13133]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2020/27/section/37) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/g)
+[^c-8e3f7fae23389075ee8e1ae7eca13133]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2020/27/section/37) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/g)

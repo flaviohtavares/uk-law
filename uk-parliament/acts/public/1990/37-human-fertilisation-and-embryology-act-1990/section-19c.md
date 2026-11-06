@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19C. Power to suspend licence[^key-276078fe05c1ef56282cc526cfb865fe]
+## 19C. Power to suspend licence[^c-276078fe05c1ef56282cc526cfb865fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ it may by notice suspend the licence for such period not exceeding three months 
 
 ## Annotations
 
-[^key-276078fe05c1ef56282cc526cfb865fe]: Textual amendment: S. 19C inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 20](https://www.legislation.gov.uk/ukpga/2008/22/section/20), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/h)
+[^c-276078fe05c1ef56282cc526cfb865fe]: Textual amendment: S. 19C inserted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 20](https://www.legislation.gov.uk/ukpga/2008/22/section/20), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(h)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/h)

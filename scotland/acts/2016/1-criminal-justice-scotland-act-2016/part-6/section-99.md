@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Responsibility for ensuring availability of appropriate adults[^key-45e51a3e07c1e7a330e4197beed64dc3]
+## 99. Responsibility for ensuring availability of appropriate adults[^c-45e51a3e07c1e7a330e4197beed64dc3]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ The Scottish Ministers may by regulations—
 
 ## Annotations
 
-[^key-45e51a3e07c1e7a330e4197beed64dc3]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2016/1/section/99) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-45e51a3e07c1e7a330e4197beed64dc3]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2016/1/section/99) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

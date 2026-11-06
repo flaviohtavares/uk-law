@@ -45,7 +45,7 @@ summary: ''
 
 which the Secretary of State may require for the purpose of enabling the scheme to operate or facilitating its operation or for the purpose of giving full effect to any provision made under subsection (8).
 
-(8)[^key-8281e3d4b59f075bab176e6f5a12e94f] The Secretary of State may—
+(8)[^c-8281e3d4b59f075bab176e6f5a12e94f] The Secretary of State may—
 
 - (a) prohibit any manufacturer or supplier to whom a voluntary scheme applies from increasing any price charged by him for the supply of any health service medicine covered by the scheme without the approval of the Secretary of State, and
 - (b) provide for any amount representing any increase in contravention of that prohibition in the sums charged by that person for that medicine, so far as the increase is attributable to supplies to the health service, to be paid to the Secretary of State within a specified period.
@@ -56,4 +56,4 @@ which the Secretary of State may require for the purpose of enabling the scheme 
 
 [^c22572771]: Textual amendment: S. 33 repealed by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 6](https://www.legislation.gov.uk/ukpga/2006/43/section/6), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1)), the repeal coming into force at 1.3.2007 to the extent that s. 33 is already in force at that date, and otherwise in accordance with s. 8(2)(4)(a)(5) of the repealing Act; [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8), [s. 33](https://www.legislation.gov.uk/ukpga/1999/8/section/33) is re-enacted as [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), [s. 261](https://www.legislation.gov.uk/ukpga/2006/41/section/261), which re-enactment comes into force immediately after and to the extent that s. 33 comes into force, see [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), [s. 277(4)](https://www.legislation.gov.uk/ukpga/2006/41/section/277/4). The commencement of this provision of the [Health Act 1999 (c. 8)](https://www.legislation.gov.uk/ukpga/1999/8) brings into force its re-enactment in the [National Health Service Act 2006 (c. 41)](https://www.legislation.gov.uk/ukpga/2006/41) and also its repeal by virtue of provision in section 6 of, and Schedule 4 to, the [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43)
 
-[^key-8281e3d4b59f075bab176e6f5a12e94f]: Commencement: S. 33(8) in force at 7.8.2017 by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/810/article/2/a)
+[^c-8281e3d4b59f075bab176e6f5a12e94f]: Commencement: S. 33(8) in force at 7.8.2017 by [S.I. 2017/810](https://www.legislation.gov.uk/uksi/2017/810), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/810/article/2/a)

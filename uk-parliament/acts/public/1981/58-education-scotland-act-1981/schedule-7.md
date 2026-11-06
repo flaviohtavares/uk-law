@@ -24,9 +24,9 @@ Section 21.
 
 ### The Teaching Council (Scotland) Act 1965
 
-**1.**[^key-5db5fb14a3061b3fa45fc451bbdb6d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5db5fb14a3061b3fa45fc451bbdb6d80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8aa7168950e2fa268d6f5e4ce4ab5c39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8aa7168950e2fa268d6f5e4ce4ab5c39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Education (Scotland) Act 1980
 
@@ -62,6 +62,6 @@ Section 21.
 
 [^c751817]: Modification: The text of ss. 1–7, 8(1)(2), 9–17, 18(2), 21(1)(3), Schs. 1–7, 9 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-5db5fb14a3061b3fa45fc451bbdb6d80]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/1981/58/schedule/7/paragraph/1) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-5db5fb14a3061b3fa45fc451bbdb6d80]: Textual amendment: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/1981/58/schedule/7/paragraph/1) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
-[^key-8aa7168950e2fa268d6f5e4ce4ab5c39]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1981/58/schedule/7/paragraph/2) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-8aa7168950e2fa268d6f5e4ce4ab5c39]: Textual amendment: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/1981/58/schedule/7/paragraph/2) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

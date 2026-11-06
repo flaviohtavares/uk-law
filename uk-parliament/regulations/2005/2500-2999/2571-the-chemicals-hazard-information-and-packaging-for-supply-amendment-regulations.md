@@ -63,15 +63,15 @@ The Secretary of State being the Minister designated [^c12306831] for the purpos
   > “**the approved supply list**” means the document entitled “Information Approved for the Classification and Labelling of Dangerous Substances and Dangerous Preparations (Eighth Edition)” approved by the Health and Safety Commission on 26 July 2005 [^c12306871];
 
   ;
-- (b)[^key-84ae138235718b5ac178c6e85d9e5cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-84ae138235718b5ac178c6e85d9e5cfe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-cc78aec5ceb0e0a4bfe1ce110cec5d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cc78aec5ceb0e0a4bfe1ce110cec5d98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-03e03239a05821b9a6ad99fce7b20c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-03e03239a05821b9a6ad99fce7b20c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-03e03239a05821b9a6ad99fce7b20c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-03e03239a05821b9a6ad99fce7b20c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-03e03239a05821b9a6ad99fce7b20c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-03e03239a05821b9a6ad99fce7b20c23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Omit regulations 13 and 18(2).
 
@@ -114,8 +114,8 @@ Department of Work and Pensions
 
 [^c12306871]: Marginal citation: ISBN 0717661385
 
-[^key-84ae138235718b5ac178c6e85d9e5cfe]: Textual amendment: Reg. 2(2)(b) omitted (1.10.2008) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 2008 (S.I. 2008/2337)](https://www.legislation.gov.uk/uksi/2008/2337), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/2337/regulation/6)
+[^c-84ae138235718b5ac178c6e85d9e5cfe]: Textual amendment: Reg. 2(2)(b) omitted (1.10.2008) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 2008 (S.I. 2008/2337)](https://www.legislation.gov.uk/uksi/2008/2337), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/2337/regulation/6)
 
-[^key-cc78aec5ceb0e0a4bfe1ce110cec5d98]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/2571/regulation/2/3) revoked (1.12.2008) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/2)
+[^c-cc78aec5ceb0e0a4bfe1ce110cec5d98]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2005/2571/regulation/2/3) revoked (1.12.2008) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/2)
 
-[^key-03e03239a05821b9a6ad99fce7b20c23]: Textual amendment: Reg. 2(4)-(6) omitted (1.10.2008) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 2008 (S.I. 2008/2337)](https://www.legislation.gov.uk/uksi/2008/2337), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/2337/regulation/6)
+[^c-03e03239a05821b9a6ad99fce7b20c23]: Textual amendment: Reg. 2(4)-(6) omitted (1.10.2008) by virtue of [The Chemicals (Hazard Information and Packaging for Supply) (Amendment) Regulations 2008 (S.I. 2008/2337)](https://www.legislation.gov.uk/uksi/2008/2337), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2337/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2008/2337/regulation/6)

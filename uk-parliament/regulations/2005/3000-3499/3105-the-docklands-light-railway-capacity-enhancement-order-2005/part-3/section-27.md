@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Powers to acquire new rights[^key-4c57110e0c9c76e1f54e18abff460d86]
+## 27. Powers to acquire new rights[^c-4c57110e0c9c76e1f54e18abff460d86]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c57110e0c9c76e1f54e18abff460d86]: Commencement: Art. 27 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-4c57110e0c9c76e1f54e18abff460d86]: Commencement: Art. 27 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

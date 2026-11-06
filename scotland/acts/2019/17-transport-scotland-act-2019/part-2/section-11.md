@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Prior consultation[^key-b4f6ba20a064d0ed7c5990eefb8595d8]
+## 11. Prior consultation[^c-b4f6ba20a064d0ed7c5990eefb8595d8]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ Before a local authority asks the Scottish Ministers to approve the making, amen
 
 ## Annotations
 
-[^key-b4f6ba20a064d0ed7c5990eefb8595d8]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/17/section/11) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-b4f6ba20a064d0ed7c5990eefb8595d8]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2019/17/section/11) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

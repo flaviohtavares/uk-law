@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41BA. Scottish Ministers' promotion of reductions in home-heating costs: electricity suppliers[^key-3fbdf4e9def9138d37ee9a1246b70b3c]
+## 41BA. Scottish Ministers' promotion of reductions in home-heating costs: electricity suppliers[^c-3fbdf4e9def9138d37ee9a1246b70b3c]
 
 *Extent: E+W+S*
 
@@ -28,15 +28,15 @@ summary: ''
 
 - (a) for subsection (1) there is substituted a power by order to specify how electricity suppliers may meet their obligations to achieve the home-heating cost reduction target through measures carried out in Scotland;
 - (b) subsection (3) is omitted;
-- (c) subsections (3), (5)(a), (7)(a) , (7C), (7E)[^key-648b46aab3908f4fe6191c088d5577b7] and (10A) of section 41A as applied by subsection (4) are omitted;
+- (c) subsections (3), (5)(a), (7)(a) , (7C), (7E)[^c-648b46aab3908f4fe6191c088d5577b7] and (10A) of section 41A as applied by subsection (4) are omitted;
 - (d) in subsection (2)(a) at the beginning of sub-paragraph (ii) there is inserted “where the Secretary of State has apportioned the overall home-heating costs reduction target under section 103A(3A) of the Utilities Act 2000, and”;
-- (da)[^key-afcbd97cce6ef48028ba14e8b68202d1] in section 41A(7F) as applied by subsection (4), for “order makes” is substituted “Secretary of State has made”;
+- (da)[^c-afcbd97cce6ef48028ba14e8b68202d1] in section 41A(7F) as applied by subsection (4), for “order makes” is substituted “Secretary of State has made”;
 - (db) in section 41A(7G) as applied by subsection (4), for “(7C)” is substituted “(7F)”;
 - (dc) in section 41A(7H) as applied by subsection (4), for “an order includes” is substituted “the Secretary of State has made”;
 - (e) in section 41A(11) as applied by subsection (4) “Citizens Advice” and “electricity distributors” are omitted;
 - (f) in section 41A(12) as applied by subsection (4) for the words from “shall not be made” to the end is substituted “ is subject to the affirmative procedure ”;
 - (g) in section 41A(12A) as applied by subsection (4) for the words from “shall be subject to” to the end is substituted “ is subject to the negative procedure ”;
-- (h) for “Secretary of State” in each place (including any references in section 41A that apply by virtue of subsection (4) other than in section 41A(7D)(a)[^key-41d6b77142bcdc174deb946586560a25]), is substituted “ Scottish Ministers ”.
+- (h) for “Secretary of State” in each place (including any references in section 41A that apply by virtue of subsection (4) other than in section 41A(7D)(a)[^c-41d6b77142bcdc174deb946586560a25]), is substituted “ Scottish Ministers ”.
 
 (4) The power of the Scottish Ministers under section 41B does not include power to make provision in relation to the subject-matter of sections 88 to 90 of the Energy Act 2008 (smart meters).
 
@@ -60,7 +60,7 @@ summary: ''
 (9) Subsection (1) does not prevent the Secretary of State from making provision under—
 
 - (a) section 41B(3),
-- (b) section 41A(3), (5)(a) , (7)(a), (7C) or (7E)[^key-c15ec5d44b095f0f326091aa78ed9e69] as applied by section 41B(4), or
+- (b) section 41A(3), (5)(a) , (7)(a), (7C) or (7E)[^c-c15ec5d44b095f0f326091aa78ed9e69] as applied by section 41B(4), or
 - (c) section 41B(2)(a) where an overall home-heating cost reduction target has not been apportioned under section 103A(3A) of the Utilities Act 2000.
 
 (10) Subsection (1) does not prevent the Secretary of State from making any other provision under section 41B or from varying or revoking an order made by the Scottish Ministers under that section—
@@ -86,12 +86,12 @@ and the Scottish Ministers have failed to comply with a request made to them by 
 
 ## Annotations
 
-[^key-3fbdf4e9def9138d37ee9a1246b70b3c]: Textual amendment: S. 41BA inserted (1.12.2017 for specified purposes, 1.10.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 59(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/6), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 59(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/7)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/b), 5(a)
+[^c-3fbdf4e9def9138d37ee9a1246b70b3c]: Textual amendment: S. 41BA inserted (1.12.2017 for specified purposes, 1.10.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 59(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/6), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 59(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/59/7)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/b), 5(a)
 
-[^key-648b46aab3908f4fe6191c088d5577b7]: Textual amendment: Words in [s. 41BA(3)(c)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/3/c) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/a/i), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-648b46aab3908f4fe6191c088d5577b7]: Textual amendment: Words in [s. 41BA(3)(c)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/3/c) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(a)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/a/i), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
 
-[^key-afcbd97cce6ef48028ba14e8b68202d1]: Textual amendment: [S. 41BA(3)(da)-(dc)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/3/da) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/a/ii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-afcbd97cce6ef48028ba14e8b68202d1]: Textual amendment: [S. 41BA(3)(da)-(dc)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/3/da) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/a/ii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
 
-[^key-41d6b77142bcdc174deb946586560a25]: Textual amendment: Words in [s. 41BA(3)(h)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/3/h) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/a/iii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-41d6b77142bcdc174deb946586560a25]: Textual amendment: Words in [s. 41BA(3)(h)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/3/h) inserted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/a/iii), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
 
-[^key-c15ec5d44b095f0f326091aa78ed9e69]: Textual amendment: Words in [s. 41BA(9)(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/9/b) substituted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/b), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)
+[^c-c15ec5d44b095f0f326091aa78ed9e69]: Textual amendment: Words in [s. 41BA(9)(b)](https://www.legislation.gov.uk/ukpga/1989/29/section/41BA/9/b) substituted (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 214(6)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/214/6/b), [334(3)(g)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/g)

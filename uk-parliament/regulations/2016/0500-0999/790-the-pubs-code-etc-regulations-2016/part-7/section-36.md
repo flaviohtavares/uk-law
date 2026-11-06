@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Appointment of the independent assessor[^key-7f2ae2beabad2f311c4755592d241ff6]
+## 36. Appointment of the independent assessor[^c-7f2ae2beabad2f311c4755592d241ff6]
 
 *Extent: E+W*
 
 (1) The Adjudicator must specify the criteria which a person must satisfy in order to be appointed as an independent assessor.
 
-(2) The following provisions of this regulation apply where a tied pub tenant has sent a notice to the pub-owning business under regulation 35(1)[^key-6e47582e6f7b2055397864182bc6d305].
+(2) The following provisions of this regulation apply where a tied pub tenant has sent a notice to the pub-owning business under regulation 35(1)[^c-6e47582e6f7b2055397864182bc6d305].
 
 (3) The tenant and the pub-owning business must, within the period of 28 days beginning with the day on which the pub-owning business receives the tied pub tenant’s notice under regulation 35(1)—
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7f2ae2beabad2f311c4755592d241ff6]: Commencement: Reg. 36 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-7f2ae2beabad2f311c4755592d241ff6]: Commencement: Reg. 36 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
-[^key-6e47582e6f7b2055397864182bc6d305]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2016/790/regulation/36) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-6e47582e6f7b2055397864182bc6d305]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2016/790/regulation/36) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/13) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
 
 [^f00022]: Footnote: Section 43(10) of SBEEA 2015 defines “market rent”.

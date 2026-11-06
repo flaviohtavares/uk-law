@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People, Northern Ireland
 
-The European Parliamentary Elections (Northern Ireland) (Amendment) Regulations 2013 (revoked)[^key-353834c7ebe353af10b9f620c48724cb]
+The European Parliamentary Elections (Northern Ireland) (Amendment) Regulations 2013 (revoked)[^c-353834c7ebe353af10b9f620c48724cb]
 
 Made
 
@@ -42,66 +42,66 @@ Coming into force
 
 1st January 2014
 
-[^key-353834c7ebe353af10b9f620c48724cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-353834c7ebe353af10b9f620c48724cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent, application and interpretation[^key-353834c7ebe353af10b9f620c48724cb]
+## 1. Citation, commencement, extent, application and interpretation[^c-353834c7ebe353af10b9f620c48724cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the European Parliamentary Elections (Northern Ireland) Regulations 2004[^key-353834c7ebe353af10b9f620c48724cb]
+## 2. Amendment of the European Parliamentary Elections (Northern Ireland) Regulations 2004[^c-353834c7ebe353af10b9f620c48724cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 1 to the European Parliamentary Elections (Northern Ireland) Regulations 2004[^key-353834c7ebe353af10b9f620c48724cb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**17.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**18.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**19.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 20. Amendment of Schedule 2 to the European Parliamentary Elections (Northern Ireland) Regulations 2004[^key-353834c7ebe353af10b9f620c48724cb]
+## 8. Amendment of Schedule 1 to the European Parliamentary Elections (Northern Ireland) Regulations 2004[^c-353834c7ebe353af10b9f620c48724cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-353834c7ebe353af10b9f620c48724cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-353834c7ebe353af10b9f620c48724cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**17.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**18.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**19.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 20. Amendment of Schedule 2 to the European Parliamentary Elections (Northern Ireland) Regulations 2004[^c-353834c7ebe353af10b9f620c48724cb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**21.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**22.**[^c-353834c7ebe353af10b9f620c48724cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-353834c7ebe353af10b9f620c48724cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-353834c7ebe353af10b9f620c48724cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-353834c7ebe353af10b9f620c48724cb]: Textual amendment: Regulations revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-353834c7ebe353af10b9f620c48724cb]: Textual amendment: Regulations revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

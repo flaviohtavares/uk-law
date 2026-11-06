@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Application of maritime enforcement powers: general[^c22719201][^key-5e4df0fe6e6b00053729d067d7dbf0b0]
+## 84. Application of maritime enforcement powers: general[^c22719201][^c-5e4df0fe6e6b00053729d067d7dbf0b0]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c22719201]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2017/3/section/84) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-5e4df0fe6e6b00053729d067d7dbf0b0]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2017/3/section/84) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-5e4df0fe6e6b00053729d067d7dbf0b0]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2017/3/section/84) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

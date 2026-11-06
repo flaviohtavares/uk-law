@@ -172,7 +172,7 @@ Section 4.
 
 ### Act (Northern Ireland) 1955 (c. 29 (N.I.))
 
-**4.**[^key-2123c1485642596fa2c1f70f04f54c2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2123c1485642596fa2c1f70f04f54c2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Contracts of Employment and Redundancy Payments Act (Northern Ireland) 1965 (c. 19 (N.I.))
 
@@ -341,7 +341,7 @@ Section 4.
 
 ### Rent (Northern Ireland) Order 1978 (S.I. 1978 No. 1050 (N.I. 20))
 
-**19.**[^key-5089b0713171894f35931b11ed316c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-5089b0713171894f35931b11ed316c7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Capital Gains Tax Act 1979 (c. 14)
 
@@ -375,7 +375,7 @@ Section 4.
 
 ### Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (S.I. 1981 No. 228 (N.I. 8))
 
-**24.**[^key-5e151b038b77cbdec23b060027802f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-5e151b038b77cbdec23b060027802f50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Magistrates’ Courts (Northern Ireland) Order 1981 (S.I. 1981 No. 1675 (N.I. 26))
 
@@ -462,7 +462,7 @@ Section 4.
 
 ### Income and Corporation Taxes Act 1988 (c. 1)
 
-**33.**[^key-57a917845d01e3f68514a909420c2425] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-57a917845d01e3f68514a909420c2425] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Wages (Northern Ireland) Order 1988 (S.I. 1988 No. 796 (N.I. 7))
 
@@ -493,7 +493,7 @@ Section 4.
 
 ### Insolvency (Northern Ireland) Order 1989 (S.I. 1989 No. 2405 (N.I. 19))
 
-**37.**[^key-cd93e8558e0bb466019b2119d704901d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-cd93e8558e0bb466019b2119d704901d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Capital Allowances Act 1990 (c. 1)
 
@@ -592,7 +592,7 @@ the Contributions and Benefits Act and the Administration Act (so far as they re
 
 **14.** Regulations may provide that the Contributions and Benefits Act and the Administration Act (so far as they represent the 1973 Act) and this Part of this Schedule (except this paragraph) shall have effect subject to prescribed modifications in relation to persons who attained the age of 16 before 6th April 1975 and who, immediately before that day, were not insured under the 1966 Act.
 
-**15.**[^key-8e78191c81e5eb11aa453a6e48c0b636][^key-8a4bc8ca777f2439bde3b7b90c9339d3] Notwithstanding any repeal effected by the 1973 Act, provision may be made by regulations for continuing in force, with or without prescribed modifications, such provisions of the 1966 Act or any other enactments specified in the third column of Schedule 28 to the 1973 Act (repeals) as the Department considers appropriate for the purpose of preserving rights to benefit under that Act or those enactments in those cases (if any) in which in its opinion adequate alternative rights to benefit under the Contributions and Benefits Act are not conferred in pursuance of paragraph 12 above, or for temporarily retaining the effect of those provisions for transitional purposes.
+**15.**[^c-8e78191c81e5eb11aa453a6e48c0b636][^c-8a4bc8ca777f2439bde3b7b90c9339d3] Notwithstanding any repeal effected by the 1973 Act, provision may be made by regulations for continuing in force, with or without prescribed modifications, such provisions of the 1966 Act or any other enactments specified in the third column of Schedule 28 to the 1973 Act (repeals) as the Department considers appropriate for the purpose of preserving rights to benefit under that Act or those enactments in those cases (if any) in which in its opinion adequate alternative rights to benefit under the Contributions and Benefits Act are not conferred in pursuance of paragraph 12 above, or for temporarily retaining the effect of those provisions for transitional purposes.
 
 **16.** In the foregoing provisions of this Part of this Schedule, any reference to benefit under the 1966 Act includes a reference to such other benefit, pension or allowance as is mentioned in paragraph 17(2)(b) of Schedule 9 to that Act (pre-1948 beneficiaries).
 
@@ -880,7 +880,7 @@ then the paragraph of this Schedule mentioned in column 2 of the Table opposite 
 
 [^c860079]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/1) repealed (6.10.1997) by [S.I. 1997/1183 (N.I. 12)](https://www.legislation.gov.uk/nisi/1997/1183), [art. 31(2)](https://www.legislation.gov.uk/nisi/1997/1183/article/31/2), [Sch. 4](https://www.legislation.gov.uk/nisi/1997/1183/schedule/4); [S.R. 1997/400](https://www.legislation.gov.uk/nisr/1997/400), [art. 2(2)](https://www.legislation.gov.uk/nisr/1997/400/article/2/2)
 
-[^key-2123c1485642596fa2c1f70f04f54c2d]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/4) repealed (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-2123c1485642596fa2c1f70f04f54c2d]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/4) repealed (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
 
 [^c860080]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/5) repealed (24.9.1996) by [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919), [art. 257](https://www.legislation.gov.uk/nisi/1996/1919/article/257), [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1919/schedule/3) (with [art. 256](https://www.legislation.gov.uk/nisi/1996/1919/article/256), [Sch. 2](https://www.legislation.gov.uk/nisi/1996/1919/schedule/2))
 
@@ -896,9 +896,9 @@ then the paragraph of this Schedule mentioned in column 2 of the Table opposite 
 
 [^c860110]: Textual amendment: [Sch. 2 paras. 17(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/17/1/2/4) repealed (7.2.1994) by [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49), [s. 182](https://www.legislation.gov.uk/ukpga/1993/49/section/182), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1993/49/schedule/4/part/I); [S.R. 1994/17](https://www.legislation.gov.uk/nisr/1994/17), [art. 2](https://www.legislation.gov.uk/nisr/1994/17/article/2)
 
-[^key-5089b0713171894f35931b11ed316c7d]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/19) repealed (1.4.2007) by [The Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006/1459)](https://www.legislation.gov.uk/nisi/2006/1459), [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1459/article/1/3), [Sch. 5](https://www.legislation.gov.uk/nisi/2006/1459/schedule/5); [S.R. 2006/428](https://www.legislation.gov.uk/nisr/2006/428), [art. 3(c)](https://www.legislation.gov.uk/nisr/2006/428/article/3/c)
+[^c-5089b0713171894f35931b11ed316c7d]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/19) repealed (1.4.2007) by [The Private Tenancies (Northern Ireland) Order 2006 (S.I. 2006/1459)](https://www.legislation.gov.uk/nisi/2006/1459), [art. 1(3)](https://www.legislation.gov.uk/nisi/2006/1459/article/1/3), [Sch. 5](https://www.legislation.gov.uk/nisi/2006/1459/schedule/5); [S.R. 2006/428](https://www.legislation.gov.uk/nisr/2006/428), [art. 3(c)](https://www.legislation.gov.uk/nisr/2006/428/article/3/c)
 
-[^key-5e151b038b77cbdec23b060027802f50]: Textual amendment: Sch. 2 para. 24 repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435) (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-5e151b038b77cbdec23b060027802f50]: Textual amendment: Sch. 2 para. 24 repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435) (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c860113]: Textual amendment: [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/26/1) repealed (29.11.1999) by [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506), [art. 78(2)](https://www.legislation.gov.uk/nisi/1998/1506/article/78/2), [Sch. 7](https://www.legislation.gov.uk/nisi/1998/1506/schedule/7); [S.R. 1999/472](https://www.legislation.gov.uk/nisr/1999/472), [art. 2(1)(a)](https://www.legislation.gov.uk/nisr/1999/472/article/2/1/a), [Sch. 1](https://www.legislation.gov.uk/nisr/1999/472/schedule/1)
 
@@ -906,11 +906,11 @@ then the paragraph of this Schedule mentioned in column 2 of the Table opposite 
 
 [^c860116]: Textual amendment: [Sch. 2 para. 32(5)(6)](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/32/5/6) repealed (4.11.1996) by [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [art. 185(2)](https://www.legislation.gov.uk/nisi/1995/755/article/185/2), [Sch. 10](https://www.legislation.gov.uk/nisi/1995/755/schedule/10); [S.R. 1996/297](https://www.legislation.gov.uk/nisr/1996/297), [art. 2(2)](https://www.legislation.gov.uk/nisr/1996/297/article/2/2)
 
-[^key-57a917845d01e3f68514a909420c2425]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/33) repealed (with effect in accordance with s. 723(1)(a)(b) of the commencing Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-57a917845d01e3f68514a909420c2425]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/33) repealed (with effect in accordance with s. 723(1)(a)(b) of the commencing Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c860118]: Textual amendment: [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/34) repealed (24.9.1996) by [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919), [art. 257](https://www.legislation.gov.uk/nisi/1996/1919/article/257), [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1919/schedule/3) (with [art. 256](https://www.legislation.gov.uk/nisi/1996/1919/article/256), [Sch. 2](https://www.legislation.gov.uk/nisi/1996/1919/schedule/2))
 
-[^key-cd93e8558e0bb466019b2119d704901d]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/37) repealed (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
+[^c-cd93e8558e0bb466019b2119d704901d]: Textual amendment: [Sch. 2 para. 37](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/37) repealed (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
 
 [^c860119]: Textual amendment: [Sch. 2 para. 38](https://www.legislation.gov.uk/ukpga/1992/9/schedule/2/paragraph/38) repealed (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
@@ -932,9 +932,9 @@ then the paragraph of this Schedule mentioned in column 2 of the Table opposite 
 
 [^c860128]: Marginal citation: [1946 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1946/23).
 
-[^key-8e78191c81e5eb11aa453a6e48c0b636]: Modification: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/9/schedule/3/paragraph/15) extended (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/17); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-8e78191c81e5eb11aa453a6e48c0b636]: Modification: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/9/schedule/3/paragraph/15) extended (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/17); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
-[^key-8a4bc8ca777f2439bde3b7b90c9339d3]: Modification: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/9/schedule/3/paragraph/15) extended (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/13); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
+[^c-8a4bc8ca777f2439bde3b7b90c9339d3]: Modification: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1992/9/schedule/3/paragraph/15) extended (4.4.2005) by [Gender Recognition Act 2004 (c. 7)](https://www.legislation.gov.uk/ukpga/2004/7), [s. 26](https://www.legislation.gov.uk/ukpga/2004/7/section/26), [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2004/7/schedule/5/paragraph/13); [S.I. 2005/54](https://www.legislation.gov.uk/uksi/2005/54), [art. 2](https://www.legislation.gov.uk/uksi/2005/54/article/2)
 
 [^c1310018]: Textual amendment: [Para. 17A](https://www.legislation.gov.uk/ukpga/1992/9/paragraph/17A) inserted ( temp. ) (1.7.1992) by [Social Security (Consequential Provisions) (Northern Ireland) Act 1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9), [ss. 6](https://www.legislation.gov.uk/ukpga/1992/9/section/6), [7(2)](https://www.legislation.gov.uk/ukpga/1992/9/section/7/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1992/9/schedule/4), [Pt. I](https://www.legislation.gov.uk/ukpga/1992/9/part/I), [paras. 1](https://www.legislation.gov.uk/ukpga/1992/9/paragraph/1), [15(b)](https://www.legislation.gov.uk/ukpga/1992/9/paragraph/15/b)
 

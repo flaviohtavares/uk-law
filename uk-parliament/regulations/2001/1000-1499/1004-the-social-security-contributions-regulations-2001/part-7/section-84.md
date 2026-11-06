@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Special provisions relating to primary Class 1 contributions[^key-156ccad0ddd31f2924cb1863b5f3da77]
+## 84. Special provisions relating to primary Class 1 contributions[^c-156ccad0ddd31f2924cb1863b5f3da77]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ unless and until the arrangement has been cancelled before the end of the period
 
 ## Annotations
 
-[^key-156ccad0ddd31f2924cb1863b5f3da77]: Textual amendment: Reg. 84 substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2003/193/regulation/8)
+[^c-156ccad0ddd31f2924cb1863b5f3da77]: Textual amendment: Reg. 84 substituted (with effect in accordance with reg. 1(1) of the amending S.I.) by [The Social Security (Contributions) (Amendment) Regulations 2003 (S.I. 2003/193)](https://www.legislation.gov.uk/uksi/2003/193), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/193/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2003/193/regulation/8)

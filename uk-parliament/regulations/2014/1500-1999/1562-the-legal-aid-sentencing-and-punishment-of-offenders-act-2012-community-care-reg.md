@@ -46,21 +46,21 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations[^f00001]in exercise of the powers conferred by section 41(3)(c) of, and paragraph 6(3) of Part 1 of Schedule 1 to, the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-c7b2c12f3eba4a18d21b1a60e55bbc9a]
+## 1. Citation, commencement and interpretation[^c-c7b2c12f3eba4a18d21b1a60e55bbc9a]
 
 (1) These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Community Care) Regulations 2014 and come into force on 7th July 2014.
 
 (2) In these Regulations, “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
-## 2. Prescribed relevant person for the purposes of paragraph 6 of Part 1 of Schedule 1 to the Act[^key-80ccd73582553ad1956bb4fccc9207df]
+## 2. Prescribed relevant person for the purposes of paragraph 6 of Part 1 of Schedule 1 to the Act[^c-80ccd73582553ad1956bb4fccc9207df]
 
-An integrated care board[^key-3004fc1116ca5c4d89e406cf4421130e] is prescribed as a “relevant person” for the purpose of paragraph 6 of Part 1 of Schedule 1 to the Act.
+An integrated care board[^c-3004fc1116ca5c4d89e406cf4421130e] is prescribed as a “relevant person” for the purpose of paragraph 6 of Part 1 of Schedule 1 to the Act.
 
-## 3. Application[^key-aaf0f85e8ecc280065ba41cf8ae48bb1]
+## 3. Application[^c-aaf0f85e8ecc280065ba41cf8ae48bb1]
 
 The provision made by regulation 2 does not apply to a pre-commencement application for civil legal services.
 
-## 4. Pre-commencement applications for civil legal services[^key-4abd8b6c6d06e7a008a01058e67a352c]
+## 4. Pre-commencement applications for civil legal services[^c-4abd8b6c6d06e7a008a01058e67a352c]
 
 (1) For the purpose of regulation 3, a “pre-commencement application for civil legal services” means an application for civil legal services that is made before 7th July 2014.
 
@@ -111,15 +111,15 @@ An impact assessment has not been prepared for this instrument as it has no impa
 
 [^f00002]: Footnote: [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-c7b2c12f3eba4a18d21b1a60e55bbc9a]: Commencement: Reg. 1 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
+[^c-c7b2c12f3eba4a18d21b1a60e55bbc9a]: Commencement: Reg. 1 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
 
-[^key-80ccd73582553ad1956bb4fccc9207df]: Commencement: Reg. 2 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
+[^c-80ccd73582553ad1956bb4fccc9207df]: Commencement: Reg. 2 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
 
-[^key-3004fc1116ca5c4d89e406cf4421130e]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-3004fc1116ca5c4d89e406cf4421130e]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-aaf0f85e8ecc280065ba41cf8ae48bb1]: Commencement: Reg. 3 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
+[^c-aaf0f85e8ecc280065ba41cf8ae48bb1]: Commencement: Reg. 3 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
 
-[^key-4abd8b6c6d06e7a008a01058e67a352c]: Commencement: Reg. 4 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
+[^c-4abd8b6c6d06e7a008a01058e67a352c]: Commencement: Reg. 4 in force at 7.7.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1562/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2012/3098](https://www.legislation.gov.uk/uksi/2012/3098), to which there are amendments which are not relevant to these Regulations.
 

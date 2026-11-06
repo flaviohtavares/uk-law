@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Notification of determination of form of investigation etc: exceptions[^key-9579698ac137e6e9666cb379e0acf005]
+## 67. Notification of determination of form of investigation etc: exceptions[^c-9579698ac137e6e9666cb379e0acf005]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9579698ac137e6e9666cb379e0acf005]: Commencement: Reg. 67 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-9579698ac137e6e9666cb379e0acf005]: Commencement: Reg. 67 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

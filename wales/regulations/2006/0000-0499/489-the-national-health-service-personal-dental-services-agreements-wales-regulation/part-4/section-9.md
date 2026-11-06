@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Health service body status[^key-ca135d7a3ad28e32e86bd7572533cdee]
+## 9. Health service body status[^c-ca135d7a3ad28e32e86bd7572533cdee]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ as a health service body for the purposes of section 4 of the 1990 Act from the 
 (7) Where a contractor ceases to be a health service body pursuant to—
 
 - (a) paragraph (5) or (6), it will continue to be regarded as a health service body for the purposes of being a party to any other NHS contract entered into after it became a health service body but before the date on which the contractor ceased to be a health service body (for which purposes it ceases to be such a body on the termination of that NHS contract);
-- (b)[^key-b27c6c1cd22d528c30ef359ff55c46a9] paragraph (5), where it or the Relevant Body –
+- (b)[^c-b27c6c1cd22d528c30ef359ff55c46a9] paragraph (5), where it or the Relevant Body –
   - (i) has referred any matter to the NHS dispute resolution procedure before it ceases to be a health service body, or
   - (ii) refers any matter to the NHS dispute resolution procedure, in accordance with paragraph 54(1)(a) of Schedule 3, after it ceases to be a health service body,
 
@@ -61,6 +61,6 @@ as a health service body for the purposes of section 4 of the 1990 Act from the 
 
 ## Annotations
 
-[^key-ca135d7a3ad28e32e86bd7572533cdee]: Commencement: Reg. 9 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-ca135d7a3ad28e32e86bd7572533cdee]: Commencement: Reg. 9 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-b27c6c1cd22d528c30ef359ff55c46a9]: Textual amendment: [Reg. 9(7)(b)](https://www.legislation.gov.uk/wsi/2006/489/regulation/9/7/b) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [14](https://www.legislation.gov.uk/wsi/2016/90/regulation/14) (with [reg. 18](https://www.legislation.gov.uk/wsi/2016/90/regulation/18))
+[^c-b27c6c1cd22d528c30ef359ff55c46a9]: Textual amendment: [Reg. 9(7)(b)](https://www.legislation.gov.uk/wsi/2006/489/regulation/9/7/b) substituted (1.3.2016) by [The National Health Service (Primary Medical Services and Primary Dental Services) (Wales) (Amendment and Transitional Provision) Regulations 2016 (S.I. 2016/90)](https://www.legislation.gov.uk/wsi/2016/90), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2016/90/regulation/1/1), [14](https://www.legislation.gov.uk/wsi/2016/90/regulation/14) (with [reg. 18](https://www.legislation.gov.uk/wsi/2016/90/regulation/18))

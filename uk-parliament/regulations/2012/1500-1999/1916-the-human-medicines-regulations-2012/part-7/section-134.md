@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A traditional herbal registration ceases to be in force if the product to which it relates is not placed on the market in the United Kingdom (or, in the case of a THR(GB) granted after an application under the unfettered access route, in Great Britain)[^key-91dc3d4c2b23ca4bbb39872039b79d2d] during the period of three years beginning immediately after the day on which it was granted.
+(1) A traditional herbal registration ceases to be in force if the product to which it relates is not placed on the market in the United Kingdom (or, in the case of a THR(GB) granted after an application under the unfettered access route, in Great Britain)[^c-91dc3d4c2b23ca4bbb39872039b79d2d] during the period of three years beginning immediately after the day on which it was granted.
 
-(2) A traditional herbal registration for a product which has been placed on the market ceases to be in force if the product to which it relates is not sold or supplied in the United Kingdom (or, in the case of a THR(GB) granted after an application under the unfettered access route, in Great Britain)[^key-56c229d6c477dfcbb1783e4fef7733d5] for a period of three years.
+(2) A traditional herbal registration for a product which has been placed on the market ceases to be in force if the product to which it relates is not sold or supplied in the United Kingdom (or, in the case of a THR(GB) granted after an application under the unfettered access route, in Great Britain)[^c-56c229d6c477dfcbb1783e4fef7733d5] for a period of three years.
 
 (3) This regulation does not apply if the licensing authority grants an exemption from its operation.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91dc3d4c2b23ca4bbb39872039b79d2d]: Textual amendment: Words in reg. 134(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 118A(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/118A/2) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/90))
+[^c-91dc3d4c2b23ca4bbb39872039b79d2d]: Textual amendment: Words in reg. 134(1) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 118A(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/118A/2) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/90))
 
-[^key-56c229d6c477dfcbb1783e4fef7733d5]: Textual amendment: Words in reg. 134(2) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 118A(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/118A/3) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/90))
+[^c-56c229d6c477dfcbb1783e4fef7733d5]: Textual amendment: Words in reg. 134(2) inserted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 118A(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/118A/3) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/90))

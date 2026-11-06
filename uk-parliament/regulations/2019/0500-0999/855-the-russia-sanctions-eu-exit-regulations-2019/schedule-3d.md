@@ -16,25 +16,25 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3D — Schedule 3D Revenue generating goods[^key-c4b9dc24520b529eb77fe11f9a2653ac][^key-352b500242cbccac05014815eb402c33]
+## SCHEDULE 3D — Schedule 3D Revenue generating goods[^c-c4b9dc24520b529eb77fe11f9a2653ac][^c-352b500242cbccac05014815eb402c33]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 46S
 
-### PART 1[^key-d3da8dfaa9178d9e94b9386ba5be3ff8]
+### PART 1[^c-d3da8dfaa9178d9e94b9386ba5be3ff8]
 
 **1.** Paragraph 1 of Schedule 3 applies for the purpose of interpreting this Schedule.
 
-**1A.**[^key-0d18ff467a88e72bd84b49666c64b02a] In this Schedule, “n.e.s” means “not elsewhere specified”.
+**1A.**[^c-0d18ff467a88e72bd84b49666c64b02a] In this Schedule, “n.e.s” means “not elsewhere specified”.
 
-**2.** A Schedule 3D revenue generating good[^key-e05ec5ebc800fe98c8a43bccb57fe457] is any thing falling within a commodity code mentioned in column 1 of the table in Part 2 or column 1 of the table in Part 3[^key-b3c796eb8d1b312568fa614650f249b0].
+**2.** A Schedule 3D revenue generating good[^c-e05ec5ebc800fe98c8a43bccb57fe457] is any thing falling within a commodity code mentioned in column 1 of the table in Part 2 or column 1 of the table in Part 3[^c-b3c796eb8d1b312568fa614650f249b0].
 
-| [^key-c5df676e77d3c37a95bbcc0457ae4082]... |  |
+| [^c-c5df676e77d3c37a95bbcc0457ae4082]... |  |
 | --- | --- |
-| [^key-c5df676e77d3c37a95bbcc0457ae4082]. . . | [^key-c5df676e77d3c37a95bbcc0457ae4082]. . . |
+| [^c-c5df676e77d3c37a95bbcc0457ae4082]. . . | [^c-c5df676e77d3c37a95bbcc0457ae4082]. . . |
 
-### PART 2[^key-3a4e2dbb68e2a6b90b9058e5654dd6a6]
+### PART 2[^c-3a4e2dbb68e2a6b90b9058e5654dd6a6]
 
 | Commodity code (1) | Item (2) |
 | --- | --- |
@@ -73,18 +73,18 @@ Regulation 46S
 
 ## Annotations
 
-[^key-c4b9dc24520b529eb77fe11f9a2653ac]: Textual amendment: [Sch. 3D](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/792/schedule/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-c4b9dc24520b529eb77fe11f9a2653ac]: Textual amendment: [Sch. 3D](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/792/schedule/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-352b500242cbccac05014815eb402c33]: Textual amendment: [Sch. 3D](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D) heading substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/a)
+[^c-352b500242cbccac05014815eb402c33]: Textual amendment: [Sch. 3D](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D) heading substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/a)
 
-[^key-d3da8dfaa9178d9e94b9386ba5be3ff8]: Textual amendment: [Sch. 3D Pt. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/part/1) heading inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/b)
+[^c-d3da8dfaa9178d9e94b9386ba5be3ff8]: Textual amendment: [Sch. 3D Pt. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/part/1) heading inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/b)
 
-[^key-0d18ff467a88e72bd84b49666c64b02a]: Textual amendment: [Sch. 3D para. 1A](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/1A) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(7)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/7/a)
+[^c-0d18ff467a88e72bd84b49666c64b02a]: Textual amendment: [Sch. 3D para. 1A](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/1A) inserted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [11(7)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/11/7/a)
 
-[^key-e05ec5ebc800fe98c8a43bccb57fe457]: Textual amendment: Words in [Sch. 3D para. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(c)(i)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/c/i)
+[^c-e05ec5ebc800fe98c8a43bccb57fe457]: Textual amendment: Words in [Sch. 3D para. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(c)(i)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/c/i)
 
-[^key-b3c796eb8d1b312568fa614650f249b0]: Textual amendment: Words in [Sch. 3D para. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/c/ii)
+[^c-b3c796eb8d1b312568fa614650f249b0]: Textual amendment: Words in [Sch. 3D para. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) substituted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/c/ii)
 
-[^key-c5df676e77d3c37a95bbcc0457ae4082]: Textual amendment: [Sch. 3D para. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) table omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(d)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/d)
+[^c-c5df676e77d3c37a95bbcc0457ae4082]: Textual amendment: [Sch. 3D para. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/paragraph/2) table omitted (21.4.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(d)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/d)
 
-[^key-3a4e2dbb68e2a6b90b9058e5654dd6a6]: Textual amendment: [Sch. 3D Pts. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/part/2), [3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/part/3) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(e)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/e)
+[^c-3a4e2dbb68e2a6b90b9058e5654dd6a6]: Textual amendment: [Sch. 3D Pts. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/part/2), [3](https://www.legislation.gov.uk/uksi/2019/855/schedule/3D/part/3) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(6)(e)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/6/e)

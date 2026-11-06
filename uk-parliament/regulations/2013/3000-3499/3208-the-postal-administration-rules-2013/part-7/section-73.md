@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Secured creditors[^key-c52966f19762536ddc9681b5d2a83bf7]
+## 73. Secured creditors[^c-c52966f19762536ddc9681b5d2a83bf7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c52966f19762536ddc9681b5d2a83bf7]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2013/3208/rule/73) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-c52966f19762536ddc9681b5d2a83bf7]: Commencement: [Rule 73](https://www.legislation.gov.uk/uksi/2013/3208/rule/73) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

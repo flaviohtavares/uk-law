@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Appeals against information requests[^key-1030c0c9b97c6d32e5ba63f8d14f166c]
+## 58. Appeals against information requests[^c-1030c0c9b97c6d32e5ba63f8d14f166c]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1030c0c9b97c6d32e5ba63f8d14f166c]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2016/20/section/58) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-1030c0c9b97c6d32e5ba63f8d14f166c]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2016/20/section/58) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

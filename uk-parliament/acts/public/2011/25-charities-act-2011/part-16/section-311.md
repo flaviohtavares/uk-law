@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies where a relevant charity merger is registered in the register of charity mergers.
 
-(2)[^key-b6ad795ce91aff8a1a48ec90dc26da7b] Subsection (2A) applies to a gift, other than an excluded gift, if—
+(2)[^c-b6ad795ce91aff8a1a48ec90dc26da7b] Subsection (2A) applies to a gift, other than an excluded gift, if—
 
 - (a) the gift would have taken effect as a gift to the transferor if the transferor had been in existence, and
 - (b) the date on which the gift would have taken effect is a date on or after the date of the registration of the merger.
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6ad795ce91aff8a1a48ec90dc26da7b]: Textual amendment: S. 311(2)(2A) substituted for s. 311(2) (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/33/4), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2022/6/section/33/5)); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/8)
+[^c-b6ad795ce91aff8a1a48ec90dc26da7b]: Textual amendment: S. 311(2)(2A) substituted for s. 311(2) (7.3.2024) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 33(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/33/4), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 33(5)](https://www.legislation.gov.uk/ukpga/2022/6/section/33/5)); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/8)

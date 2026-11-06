@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9B — Specified generators[^key-1061e0f1fd662e90c269baa716a63ac7]
+## SCHEDULE 9B — Specified generators[^c-1061e0f1fd662e90c269baa716a63ac7]
 
 *Extent: N.I.*
 
@@ -153,4 +153,4 @@ where it is operated only for the purpose of a capacity market framework agreeme
 
 ## Annotations
 
-[^key-1061e0f1fd662e90c269baa716a63ac7]: Textual amendment: [Sch. 9B](https://www.legislation.gov.uk/nisr/2013/160/schedule/9B) inserted (20.3.2018) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/33)](https://www.legislation.gov.uk/nisr/2018/33), [regs. 1](https://www.legislation.gov.uk/nisr/2018/33/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/33/regulation/7)
+[^c-1061e0f1fd662e90c269baa716a63ac7]: Textual amendment: [Sch. 9B](https://www.legislation.gov.uk/nisr/2013/160/schedule/9B) inserted (20.3.2018) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/33)](https://www.legislation.gov.uk/nisr/2018/33), [regs. 1](https://www.legislation.gov.uk/nisr/2018/33/regulation/1), [7](https://www.legislation.gov.uk/nisr/2018/33/regulation/7)

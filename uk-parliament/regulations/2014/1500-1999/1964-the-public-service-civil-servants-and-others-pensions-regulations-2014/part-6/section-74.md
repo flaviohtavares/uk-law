@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Entitlement to ill-health pension[^key-1365452f338fc438ac70ffe010871a73]
+## 74. Entitlement to ill-health pension[^c-1365452f338fc438ac70ffe010871a73]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1365452f338fc438ac70ffe010871a73]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/1964/regulation/74) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1365452f338fc438ac70ffe010871a73]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2014/1964/regulation/74) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Facilities provided to trade union officials and learning representatives[^key-a4db700c1b7edf9328b19b6322d9a25f][^key-d1dafe5fcc9f87082d30e3a1ee2d4967][^key-e24bc92f4b36d06623f6465efd7f8ebf]
+## 64. Facilities provided to trade union officials and learning representatives[^c-a4db700c1b7edf9328b19b6322d9a25f][^c-d1dafe5fcc9f87082d30e3a1ee2d4967][^c-e24bc92f4b36d06623f6465efd7f8ebf]
 
 *Extent: E+W+S*
 
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a4db700c1b7edf9328b19b6322d9a25f]: Commencement: S. 64 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-a4db700c1b7edf9328b19b6322d9a25f]: Commencement: S. 64 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d1dafe5fcc9f87082d30e3a1ee2d4967]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/36/section/64) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
+[^c-d1dafe5fcc9f87082d30e3a1ee2d4967]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/36/section/64) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(21)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/21)
 
-[^key-e24bc92f4b36d06623f6465efd7f8ebf]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/36/section/64) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))
+[^c-e24bc92f4b36d06623f6465efd7f8ebf]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2025/36/section/64) in force at 30.10.2026 in so far as not already in force by [S.I. 2026/1065](https://www.legislation.gov.uk/uksi/2026/1065), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/1065/regulation/3/g) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/1065/regulation/7))

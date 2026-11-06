@@ -270,7 +270,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 - [Section 121 — Rates of gaming duty](part-2/section-121.md)
 
-#### ...[^key-5164850e3a369f20f1c48fbd0a7726c2]
+#### ...[^c-5164850e3a369f20f1c48fbd0a7726c2]
 
 - [Section 122 — Rate of bingo duty](part-2/section-122.md)
 - [Section 123 — Exemption from bingo duty: small-scale amusements provided commercially](part-2/section-123.md)
@@ -287,7 +287,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 - [Section 125 — General betting duty](part-3/section-125.md)
 
-##### General , remote and spread bets[^key-486d108b7ba125a669961482cd3a27b6]
+##### General , remote and spread bets[^c-486d108b7ba125a669961482cd3a27b6]
 
 - [Section 126 — General bets](part-3/section-126.md)
 - [Section 127 — General betting duty charge on general bets](part-3/section-127.md)
@@ -406,7 +406,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 197 — Transitional and saving provisions](part-3/section-197.md)
 - [Section 198 — Commencement and effect](part-3/section-198.md)
 
-### PART 4 — Follower notices and accelerated payments[^key-6d98ae786b91c0dfa6abd8ad56434b8d][^key-18876ad4214a0ed17641853090c4ab66][^key-c3b4c49b04cb920152ac970a06ba5031][^key-b43a125b5839344277c84e4364ed48cf][^M_C_739cc3bc-2403-494d-93a6-13c5f71b388b]
+### PART 4 — Follower notices and accelerated payments[^c-6d98ae786b91c0dfa6abd8ad56434b8d][^c-18876ad4214a0ed17641853090c4ab66][^c-c3b4c49b04cb920152ac970a06ba5031][^c-b43a125b5839344277c84e4364ed48cf][^M_C_739cc3bc-2403-494d-93a6-13c5f71b388b]
 
 *Extent: E+W+S+N.I.*
 
@@ -507,7 +507,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 224 — Restriction on powers to postpone tax payments pending initial appeal](part-4/section-224.md)
 - [Section 225 — Protection of the revenue pending further appeals](part-4/section-225.md)
 
-##### Prevention of surrender of losses[^key-9e1f1c25af634f641088a0be4f4c41d4]
+##### Prevention of surrender of losses[^c-9e1f1c25af634f641088a0be4f4c41d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -525,7 +525,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 - [Section 227 — Withdrawal, modification or suspension of accelerated payment notice](part-4/section-227.md)
 
-##### Group relief claims after accelerated payment notices[^key-38e26ce9fd201ddb1441cfffcc65585a]
+##### Group relief claims after accelerated payment notices[^c-38e26ce9fd201ddb1441cfffcc65585a]
 
 *Extent: E+W+S+N.I.*
 
@@ -566,7 +566,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 
 - [Section 233 — Consequential amendments](part-4/section-233.md)
 
-### PART 5 — Promoters of tax avoidance schemes[^key-cdfe0089c7ef649c3d525213d772dcb5][^key-d4e1fad30be2539ae2b1a7ba1d91fbd2][^key-fe35635f241b7dfb94fcfac18cf29335][^key-192b11b32d012ad5a61028c69af475ee]
+### PART 5 — Promoters of tax avoidance schemes[^c-cdfe0089c7ef649c3d525213d772dcb5][^c-d4e1fad30be2539ae2b1a7ba1d91fbd2][^c-fe35635f241b7dfb94fcfac18cf29335][^c-192b11b32d012ad5a61028c69af475ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -576,7 +576,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 235 — Carrying on a business “as a promoter”](part-5/section-235.md)
 - [Section 236 — Meaning of “intermediary”](part-5/section-236.md)
 
-#### Stop notices[^key-586b29d4a24070b122eaee8199547906]
+#### Stop notices[^c-586b29d4a24070b122eaee8199547906]
 
 - [Section 236A — Power to give stop notices](part-5/section-236a.md)
 - [Section 236B — Effect of stop notices](part-5/section-236b.md)
@@ -605,7 +605,7 @@ WE, Your Majesty's most dutiful and loyal subjects, the Commons of the United Ki
 - [Section 240 — Amendment , withdrawal or reissue of conduct notice](part-5/section-240.md)
 - [Section 241 — Duration of conduct notice](part-5/section-241.md)
 
-#### Defeat notices[^key-1b40b8334fdc9d4905115a70c010da28]
+#### Defeat notices[^c-1b40b8334fdc9d4905115a70c010da28]
 
 - [Section 241A — Defeat notices](part-5/section-241a.md)
 - [Section 241B — Judicial ruling upholding asserted tax advantage: effect on defeat notice](part-5/section-241b.md)
@@ -789,32 +789,32 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5164850e3a369f20f1c48fbd0a7726c2]: Textual amendment: [S. 122 and cross-heading](https://www.legislation.gov.uk/ukpga/2014/26/part/2/crossheading/bingo-duty) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 17(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/17/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-5164850e3a369f20f1c48fbd0a7726c2]: Textual amendment: [S. 122 and cross-heading](https://www.legislation.gov.uk/ukpga/2014/26/part/2/crossheading/bingo-duty) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 17(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/17/a) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
-[^key-486d108b7ba125a669961482cd3a27b6]: Textual amendment: Word in [s. 126 cross-heading](https://www.legislation.gov.uk/ukpga/2014/26/part/3/chapter/1/crossheading/general-and-spread-bets) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/2)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))
+[^c-486d108b7ba125a669961482cd3a27b6]: Textual amendment: Word in [s. 126 cross-heading](https://www.legislation.gov.uk/ukpga/2014/26/part/3/chapter/1/crossheading/general-and-spread-bets) inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/2)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/7) (with [s. 87(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/9))
 
-[^key-6d98ae786b91c0dfa6abd8ad56434b8d]: Modification: Pt. 4 applied (with modifications) by 1992 c. 7 (N.I.), s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/12))
+[^c-6d98ae786b91c0dfa6abd8ad56434b8d]: Modification: Pt. 4 applied (with modifications) by 1992 c. 7 (N.I.), s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/12))
 
-[^key-18876ad4214a0ed17641853090c4ab66]: Modification: Pt. 4 applied (with modifications) by 1992 c. 4, s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/3))
+[^c-18876ad4214a0ed17641853090c4ab66]: Modification: Pt. 4 applied (with modifications) by 1992 c. 4, s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/3))
 
-[^key-c3b4c49b04cb920152ac970a06ba5031]: Modification: Pt. 4 modified (12.4.2015) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/part/1) (with [Sch. 2 paras. 33, 35](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/35))
+[^c-c3b4c49b04cb920152ac970a06ba5031]: Modification: Pt. 4 modified (12.4.2015) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/part/1) (with [Sch. 2 paras. 33, 35](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/35))
 
-[^key-b43a125b5839344277c84e4364ed48cf]: Modification: Pt. 4 applied (with modifications) by [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4), [s. 16(1)(d)](https://www.legislation.gov.uk/ukpga/1992/4/section/16/1/d) (as inserted (12.4.2015) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/32))
+[^c-b43a125b5839344277c84e4364ed48cf]: Modification: Pt. 4 applied (with modifications) by [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4), [s. 16(1)(d)](https://www.legislation.gov.uk/ukpga/1992/4/section/16/1/d) (as inserted (12.4.2015) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/32))
 
 [^M_C_739cc3bc-2403-494d-93a6-13c5f71b388b]: Modification: Pt. 4 applied (with modifications) (retrospective) by [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9), [s. 12ABZAA(4)](https://www.legislation.gov.uk/ukpga/1970/9/section/12ABZAA/4) (as inserted (17.7.2014) by [2020 c. 14](https://www.legislation.gov.uk/ukpga/2020/14), [s. 104(1)(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/104/1/2) (with [s. 104(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/104/3)))
 
-[^key-9e1f1c25af634f641088a0be4f4c41d4]: Textual amendment: S. 225A and cross-heading inserted (with effect in accordance with Sch. 18 para. 12(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/7)
+[^c-9e1f1c25af634f641088a0be4f4c41d4]: Textual amendment: S. 225A and cross-heading inserted (with effect in accordance with Sch. 18 para. 12(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/7)
 
-[^key-38e26ce9fd201ddb1441cfffcc65585a]: Textual amendment: S. 227A and cross-heading inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/9)
+[^c-38e26ce9fd201ddb1441cfffcc65585a]: Textual amendment: S. 227A and cross-heading inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2015/11/schedule/18/paragraph/9)
 
-[^key-cdfe0089c7ef649c3d525213d772dcb5]: Modification: Pt. 5 applied (with modifications) by 1992 c. 7 (N.I.), s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/12))
+[^c-cdfe0089c7ef649c3d525213d772dcb5]: Modification: Pt. 5 applied (with modifications) by 1992 c. 7 (N.I.), s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/12))
 
-[^key-d4e1fad30be2539ae2b1a7ba1d91fbd2]: Modification: Pt. 5 applied (with modifications) by 1992 c. 4, s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/3))
+[^c-d4e1fad30be2539ae2b1a7ba1d91fbd2]: Modification: Pt. 5 applied (with modifications) by 1992 c. 4, s. 11A(1)(3) (as inserted (with effect in accordance with Sch. 1 para. 35 of the amending Act) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2015/5/schedule/1/paragraph/3))
 
-[^key-fe35635f241b7dfb94fcfac18cf29335]: Modification: Pt. 5 modified (12.2.2015 for specified purposes, 12.4.2015 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), Sch. 2 Pt. 2, [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/33/2)
+[^c-fe35635f241b7dfb94fcfac18cf29335]: Modification: Pt. 5 modified (12.2.2015 for specified purposes, 12.4.2015 in so far as not already in force) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), Sch. 2 Pt. 2, [Sch. 2 para. 33(2)](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/33/2)
 
-[^key-192b11b32d012ad5a61028c69af475ee]: Modification: Pt. 5 applied (with modifications) by [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4), [s. 16(1)(d)](https://www.legislation.gov.uk/ukpga/1992/4/section/16/1/d) (as inserted (12.4.2015) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/32))
+[^c-192b11b32d012ad5a61028c69af475ee]: Modification: Pt. 5 applied (with modifications) by [Social Security Contributions and Benefits Act 1992 (c. 4)](https://www.legislation.gov.uk/ukpga/1992/4), [s. 16(1)(d)](https://www.legislation.gov.uk/ukpga/1992/4/section/16/1/d) (as inserted (12.4.2015) by [National Insurance Contributions Act 2015 (c. 5)](https://www.legislation.gov.uk/ukpga/2015/5), [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2015/5/schedule/2/paragraph/32))
 
-[^key-586b29d4a24070b122eaee8199547906]: Textual amendment: [Ss. 236A-236K](https://www.legislation.gov.uk/ukpga/2014/26/section/236A) and cross-heading inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/1)
+[^c-586b29d4a24070b122eaee8199547906]: Textual amendment: [Ss. 236A-236K](https://www.legislation.gov.uk/ukpga/2014/26/section/236A) and cross-heading inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/1)
 
-[^key-1b40b8334fdc9d4905115a70c010da28]: Textual amendment: Ss. 241A, 241B and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/3)
+[^c-1b40b8334fdc9d4905115a70c010da28]: Textual amendment: Ss. 241A, 241B and cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 160(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/160/3)

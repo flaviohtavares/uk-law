@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Bereavement leave[^key-7f3b1cc38ed80588091f1459a6532762]
+## 18. Bereavement leave[^c-7f3b1cc38ed80588091f1459a6532762]
 
 *Extent: E+W+S*
 
-(1)[^key-8f55fc56669152d279af93e093696684] The [Employment Rights Act 1996](https://www.legislation.gov.uk/ukpga/1996/18/contents) is amended in accordance with subsections (2) to (11).
+(1)[^c-8f55fc56669152d279af93e093696684] The [Employment Rights Act 1996](https://www.legislation.gov.uk/ukpga/1996/18/contents) is amended in accordance with subsections (2) to (11).
 
-(2)[^key-f95544f56dc6e918a6f0f744dc9a885f] In [Chapter 4](https://www.legislation.gov.uk/ukpga/1996/18/part/8/chapter/4) of [Part 8](https://www.legislation.gov.uk/ukpga/1996/18/part/8), in the heading, for “Parental bereavement leave” substitute “Bereavement leave”.
+(2)[^c-f95544f56dc6e918a6f0f744dc9a885f] In [Chapter 4](https://www.legislation.gov.uk/ukpga/1996/18/part/8/chapter/4) of [Part 8](https://www.legislation.gov.uk/ukpga/1996/18/part/8), in the heading, for “Parental bereavement leave” substitute “Bereavement leave”.
 
-(3)[^key-f95544f56dc6e918a6f0f744dc9a885f] In [section 80EA](https://www.legislation.gov.uk/ukpga/1996/18/section/80EA) (parental bereavement leave)—
+(3)[^c-f95544f56dc6e918a6f0f744dc9a885f] In [section 80EA](https://www.legislation.gov.uk/ukpga/1996/18/section/80EA) (parental bereavement leave)—
 
 - (a) in [subsection (1)](https://www.legislation.gov.uk/ukpga/1996/18/section/80EA), for “bereaved parent” substitute “bereaved person”;
 - (b) for [subsection (2)](https://www.legislation.gov.uk/ukpga/1996/18/section/80EA) substitute—
@@ -69,7 +69,7 @@ summary: ''
     ;
 - (k) in the heading, for “Parental bereavement” substitute “Bereavement”.
 
-(4)[^key-f95544f56dc6e918a6f0f744dc9a885f] In [section 47C](https://www.legislation.gov.uk/ukpga/1996/18/section/47C) (rights not to suffer detriment: leave for family and domestic reasons), in [subsection (2)](https://www.legislation.gov.uk/ukpga/1996/18/section/47C)[(cb)](https://www.legislation.gov.uk/ukpga/1996/18/section/47C), omit “parental”.
+(4)[^c-f95544f56dc6e918a6f0f744dc9a885f] In [section 47C](https://www.legislation.gov.uk/ukpga/1996/18/section/47C) (rights not to suffer detriment: leave for family and domestic reasons), in [subsection (2)](https://www.legislation.gov.uk/ukpga/1996/18/section/47C)[(cb)](https://www.legislation.gov.uk/ukpga/1996/18/section/47C), omit “parental”.
 
 (5) In [section 75I](https://www.legislation.gov.uk/ukpga/1996/18/section/75I) (rights during and after shared parental leave), in [subsection (3)](https://www.legislation.gov.uk/ukpga/1996/18/section/75I)[(f)](https://www.legislation.gov.uk/ukpga/1996/18/section/75I), omit “parental”.
 
@@ -87,9 +87,9 @@ summary: ''
 - (a) in [subsection (3)](https://www.legislation.gov.uk/ukpga/1996/18/section/89)[(b)](https://www.legislation.gov.uk/ukpga/1996/18/section/89), for “parental bereavement leave,” substitute “bereavement leave,”;
 - (b) in [subsection (4)](https://www.legislation.gov.uk/ukpga/1996/18/section/89), for “parental bereavement pay”, in the first place it occurs, substitute “bereavement pay”.
 
-(10)[^key-f95544f56dc6e918a6f0f744dc9a885f] In [section 99](https://www.legislation.gov.uk/ukpga/1996/18/section/99) (unfair dismissal: leave for family reasons), in [subsection (3)](https://www.legislation.gov.uk/ukpga/1996/18/section/99)[(cb)](https://www.legislation.gov.uk/ukpga/1996/18/section/99), omit “parental”.
+(10)[^c-f95544f56dc6e918a6f0f744dc9a885f] In [section 99](https://www.legislation.gov.uk/ukpga/1996/18/section/99) (unfair dismissal: leave for family reasons), in [subsection (3)](https://www.legislation.gov.uk/ukpga/1996/18/section/99)[(cb)](https://www.legislation.gov.uk/ukpga/1996/18/section/99), omit “parental”.
 
-(11)[^key-f95544f56dc6e918a6f0f744dc9a885f] In [section 235](https://www.legislation.gov.uk/ukpga/1996/18/section/235)[(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/235) (other definitions)—
+(11)[^c-f95544f56dc6e918a6f0f744dc9a885f] In [section 235](https://www.legislation.gov.uk/ukpga/1996/18/section/235)[(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/235) (other definitions)—
 
 - (a) before the definition of “business” insert—
 
@@ -111,8 +111,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7f3b1cc38ed80588091f1459a6532762]: Commencement: S. 18 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7f3b1cc38ed80588091f1459a6532762]: Commencement: S. 18 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-8f55fc56669152d279af93e093696684]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(9)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/9/a)
+[^c-8f55fc56669152d279af93e093696684]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(9)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/9/a)
 
-[^key-f95544f56dc6e918a6f0f744dc9a885f]: Commencement: [S. 18(2)-(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/2), [(10)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/10)[(11)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/11) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/9/b)
+[^c-f95544f56dc6e918a6f0f744dc9a885f]: Commencement: [S. 18(2)-(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/2), [(10)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/10)[(11)](https://www.legislation.gov.uk/ukpga/2025/36/section/18/11) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/9/b)

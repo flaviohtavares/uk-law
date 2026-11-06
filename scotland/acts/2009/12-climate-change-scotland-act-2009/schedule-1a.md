@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1A — FIXED PENALTIES[^key-beba236b632e94e02b02f5611536305b]
+## SCHEDULE 1A — FIXED PENALTIES[^c-beba236b632e94e02b02f5611536305b]
 
 *Extent: S*
 
@@ -142,4 +142,4 @@ is sufficient evidence of the facts stated.
 
 ## Annotations
 
-[^key-beba236b632e94e02b02f5611536305b]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/asp/2009/12/schedule/1A) inserted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 43(3)](https://www.legislation.gov.uk/asp/2014/3/section/43/3), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-beba236b632e94e02b02f5611536305b]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/asp/2009/12/schedule/1A) inserted (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [ss. 43(3)](https://www.legislation.gov.uk/asp/2014/3/section/43/3), [61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

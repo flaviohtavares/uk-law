@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Measures applicable in respect of a restricted zone[^key-71585b2e16a4d6142f15fe65d3ce2ab5]
+## 36. Measures applicable in respect of a restricted zone[^c-71585b2e16a4d6142f15fe65d3ce2ab5]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71585b2e16a4d6142f15fe65d3ce2ab5]: Commencement: Reg. 36 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-71585b2e16a4d6142f15fe65d3ce2ab5]: Commencement: Reg. 36 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

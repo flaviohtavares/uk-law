@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Free School Lunches and Milk (Universal Credit) (England) Order 2013 (revoked)[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]
+The Free School Lunches and Milk (Universal Credit) (England) Order 2013 (revoked)[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 29th April 2013
 
-[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]
+## 1. Citation, commencement, application and interpretation[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed circumstances: receipt of universal credit[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]
+## 2. Prescribed circumstances: receipt of universal credit[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3ff047dc84c8de0f6dac20aedbe6c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3ff047dc84c8de0f6dac20aedbe6c1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ff047dc84c8de0f6dac20aedbe6c1cf]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/650) revoked (1.4.2018) by [The Free School Lunches and Milk, and School and Early Years Finance (Amendments Relating to Universal Credit) (England) Regulations 2018 (S.I. 2018/148)](https://www.legislation.gov.uk/uksi/2018/148), [reg. 5](https://www.legislation.gov.uk/uksi/2018/148/regulation/5)
+[^c-3ff047dc84c8de0f6dac20aedbe6c1cf]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/650) revoked (1.4.2018) by [The Free School Lunches and Milk, and School and Early Years Finance (Amendments Relating to Universal Credit) (England) Regulations 2018 (S.I. 2018/148)](https://www.legislation.gov.uk/uksi/2018/148), [reg. 5](https://www.legislation.gov.uk/uksi/2018/148/regulation/5)

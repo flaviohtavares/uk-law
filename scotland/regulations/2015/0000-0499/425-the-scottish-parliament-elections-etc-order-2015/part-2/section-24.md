@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Payment of expenses of registration duties[^key-b451ac339e870a724e952016c043da05]
+## 24. Payment of expenses of registration duties[^c-b451ac339e870a724e952016c043da05]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b451ac339e870a724e952016c043da05]: Commencement: Art. 24 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-b451ac339e870a724e952016c043da05]: Commencement: Art. 24 in force at 16.12.2015 in accordance with art. 1(1)

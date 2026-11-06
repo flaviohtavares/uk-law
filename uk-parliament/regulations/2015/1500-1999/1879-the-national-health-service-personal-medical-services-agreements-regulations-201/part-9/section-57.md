@@ -22,8 +22,8 @@ summary: ''
 
 (1) The contractor must not prescribe drugs, medicines or appliances the cost or quantity of which, in relation to a patient, is, by reason of the character of the drug, medicine or appliance in question, in excess of that which was reasonably necessary for the proper treatment of the patient.
 
-(2) In considering whether a contractor has breached its obligations under paragraph (1), NHS England[^key-9520329cffeb7671913a444ac58ebf84] may, if the contractor consents, seek the views of the Local Medical Committee (if any) for the area in which the contractor provides services under the agreement.
+(2) In considering whether a contractor has breached its obligations under paragraph (1), NHS England[^c-9520329cffeb7671913a444ac58ebf84] may, if the contractor consents, seek the views of the Local Medical Committee (if any) for the area in which the contractor provides services under the agreement.
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

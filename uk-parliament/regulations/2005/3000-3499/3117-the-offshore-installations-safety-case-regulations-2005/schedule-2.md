@@ -39,7 +39,7 @@ Regulations 7(1) and 9(5)
 **5.** A suitable plan of the location of the installation and of anything connected to it, and particulars of—
 
 - (a) the meteorological and oceanographic conditions to which the installation may foreseeably be subjected; and
-- (b) the properties of the bed of internal waters[^key-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil at its location.
+- (b) the properties of the bed of internal waters[^c-ed9d17e9344a6a9795f4b7252a96dcf6] and subsoil at its location.
 
 **6.** Particulars of the types of operation, and activities in connection with an operation, which the installation is capable of performing.
 
@@ -94,6 +94,6 @@ together with a summary of the document prepared under regulation 23 of the Pipe
 
 [^c12330121]: Marginal citation: [S.I. 1989/971](https://www.legislation.gov.uk/uksi/1989/971), amended by [S.I. 1992/2885](https://www.legislation.gov.uk/uksi/1992/2885), 1995/738 and 1999/3242 and to which there are other amendments not relevant to these Regulations.
 
-[^key-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-ed9d17e9344a6a9795f4b7252a96dcf6]: Textual amendment: Words in Regulations substituted (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3), [Sch. 13 para. 34(3)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 13 para. 34(4)](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/34/4), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
 [^c12330131]: Marginal citation: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825), to which there are amendments not relevant to these Regulations.

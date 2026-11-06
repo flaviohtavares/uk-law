@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. Investigation of conveyancing practitioners[^key-c1f6da7cfd0681b48de8d4f5706d315a]
+## 322. Investigation of conveyancing practitioners[^c-c1f6da7cfd0681b48de8d4f5706d315a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ For section 48(4)[^f00238] of the Courts and Legal Services Act 1990 (investigat
 
 ## Annotations
 
-[^key-c1f6da7cfd0681b48de8d4f5706d315a]: Commencement: Art. 322 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c1f6da7cfd0681b48de8d4f5706d315a]: Commencement: Art. 322 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00238]: Footnote: Section 48(4) was amended by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11), Schedule 5, paragraph 41(2).

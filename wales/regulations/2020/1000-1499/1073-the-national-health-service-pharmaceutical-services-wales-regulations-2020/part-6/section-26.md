@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Arrangements for the provision of pharmaceutical services by doctors[^key-381cb5796360b9224c7407c6929df590]
+## 26. Arrangements for the provision of pharmaceutical services by doctors[^c-381cb5796360b9224c7407c6929df590]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-381cb5796360b9224c7407c6929df590]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2020/1073/regulation/26) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-381cb5796360b9224c7407c6929df590]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2020/1073/regulation/26) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

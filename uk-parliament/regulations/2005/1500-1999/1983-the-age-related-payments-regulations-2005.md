@@ -42,7 +42,7 @@ Coming into force
 
 Whereas a draft of this instrument has been laid before Parliament in accordance with section 7(4) of the Age-Related Payments Act 2004 [^c1226102] and approved by a resolution of each House of Parliament;
 
-Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by section 7 of the Age-Related Payments Act 2004, after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it [^c1226103], hereby makes the following Regulations:[^key-20bb6a9f0764c6894c39c4626f380561]
+Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by section 7 of the Age-Related Payments Act 2004, after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it [^c1226103], hereby makes the following Regulations:[^c-20bb6a9f0764c6894c39c4626f380561]
 
 ## PART 1 — GENERAL
 
@@ -86,7 +86,7 @@ Now, therefore, the Secretary of State for Work and Pensions, in exercise of the
 
 (3) A qualifying individual shall be entitled to a payment of £200 if at any time in the relevant week he is part of a couple and—
 
-- (a) the other member of the couple is not in receipt of guarantee credit, income-based jobseeker's allowance , income support or income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007[^key-0c37e269ed4ec6a0bc67a683982eb96e]; and
+- (a) the other member of the couple is not in receipt of guarantee credit, income-based jobseeker's allowance , income support or income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007[^c-0c37e269ed4ec6a0bc67a683982eb96e]; and
 - (b) either—
   - (i) the other member of the couple is not a qualifying individual; or
   - (ii) either member of the couple is in receipt of savings credit.
@@ -268,11 +268,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1226103]: Marginal citation: *See* section 173(1)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5). Section 7(5) of the Age-Related Payments Act 2004 amended section 170(5) of the Social Security Administration Act 1992 to provide for regulations made under section 7 to be subject to prior consultation with the Social Security Advisory Committee.
 
-[^key-20bb6a9f0764c6894c39c4626f380561]: Modification: Regulations applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-20bb6a9f0764c6894c39c4626f380561]: Modification: Regulations applied (with modifications) (1.10.2010) by [Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No.2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [16(2)(e)(iii)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/e/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
 
 [^c1226104]: Marginal citation: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-0c37e269ed4ec6a0bc67a683982eb96e]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1983/regulation/2/3/a) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [72](https://www.legislation.gov.uk/uksi/2008/1554/regulation/72)
+[^c-0c37e269ed4ec6a0bc67a683982eb96e]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2005/1983/regulation/2/3/a) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) (No.2) Regulations 2008 (S.I. 2008/1554)](https://www.legislation.gov.uk/uksi/2008/1554), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2008/1554/regulation/1/2/b), [72](https://www.legislation.gov.uk/uksi/2008/1554/regulation/72)
 
 [^c1226105]: Marginal citation: [S.I.2000/729](https://www.legislation.gov.uk/uksi/2000/729).
 

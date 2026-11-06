@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Delegation of exercise or performance of powers and duties by the Defence Council or a Board[^key-2bc0607a01226b8263e8b73c8bee7b3e]
+## 71. Delegation of exercise or performance of powers and duties by the Defence Council or a Board[^c-2bc0607a01226b8263e8b73c8bee7b3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bc0607a01226b8263e8b73c8bee7b3e]: Commencement: Reg. 71 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-2bc0607a01226b8263e8b73c8bee7b3e]: Commencement: Reg. 71 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

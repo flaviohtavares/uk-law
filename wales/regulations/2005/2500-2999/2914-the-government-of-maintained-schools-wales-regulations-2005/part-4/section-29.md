@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Removal of appointed parent governors, partnership governors and associate pupil governors:[^key-be810cf0acf071407581c26e7d3cec2f][^key-fb561615684f3d8d80b2606bd2e42183]
+## 29. Removal of appointed parent governors, partnership governors and associate pupil governors:[^c-be810cf0acf071407581c26e7d3cec2f][^c-fb561615684f3d8d80b2606bd2e42183]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Any parent governor appointed by the governing body under paragraphs 10 to 12 of
 
 ## Annotations
 
-[^key-be810cf0acf071407581c26e7d3cec2f]: Commencement: Reg. 29 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-be810cf0acf071407581c26e7d3cec2f]: Commencement: Reg. 29 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-fb561615684f3d8d80b2606bd2e42183]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/wsi/2005/2914/regulation/29) and heading substituted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(5)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/5)
+[^c-fb561615684f3d8d80b2606bd2e42183]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/wsi/2005/2914/regulation/29) and heading substituted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(5)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/5)

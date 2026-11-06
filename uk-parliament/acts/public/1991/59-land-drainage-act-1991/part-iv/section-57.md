@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Contributions by the appropriate agency to expenses of internal drainage boards.[^key-1b149a71903ac57f2abacefae0ec919f]
+## 57. Contributions by the appropriate agency to expenses of internal drainage boards.[^c-1b149a71903ac57f2abacefae0ec919f]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ the relevant Minister shall by his order direct such adjustment to be made in re
 
 ## Annotations
 
-[^key-1b149a71903ac57f2abacefae0ec919f]: Textual amendment: Words in s. 57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 326](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/326) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b149a71903ac57f2abacefae0ec919f]: Textual amendment: Words in s. 57 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 326](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/326) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c1415519]: Textual amendment: Words inserted in s. 57(4)(b) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11), [Pt. II](https://www.legislation.gov.uk/ukpga/1994/19/part/II), [para. 4(8)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/4/8); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art.3](https://www.legislation.gov.uk/uksi/1996/396/article/3)

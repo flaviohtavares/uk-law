@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**20.**[^key-835fec79303b98038321cede6d89a518] In regulation 21—
+**20.**[^c-835fec79303b98038321cede6d89a518] In regulation 21—
 
 - (a) in paragraph (1)—
   - (i) for “This regulation” substitute “Subject to paragraph (1A), this regulation”;
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-835fec79303b98038321cede6d89a518]: Textual amendment: Reg. 20 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/11)
+[^c-835fec79303b98038321cede6d89a518]: Textual amendment: Reg. 20 substituted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/11)

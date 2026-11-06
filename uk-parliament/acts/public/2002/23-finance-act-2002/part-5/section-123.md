@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ebc4386c5fd3b70ada67f260f1f9fc6a] In Schedule 6 to the Finance Act 2000 (c. 17) (climate change levy), after paragraph 20 insert—
+(1)[^c-ebc4386c5fd3b70ada67f260f1f9fc6a] In Schedule 6 to the Finance Act 2000 (c. 17) (climate change levy), after paragraph 20 insert—
 
 > **20A. Exemption: electricity produced in combined heat and power stations**
 >
@@ -120,4 +120,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc4386c5fd3b70ada67f260f1f9fc6a]: Commencement: [S. 123(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/123/1) has effect as specified by [The Finance Act 2002, section 123, (Appointed Day) Order 2003 (S.I. 2003/603)](https://www.legislation.gov.uk/uksi/2003/603), [art. 2](https://www.legislation.gov.uk/uksi/2003/603/article/2)
+[^c-ebc4386c5fd3b70ada67f260f1f9fc6a]: Commencement: [S. 123(1)](https://www.legislation.gov.uk/ukpga/2002/23/section/123/1) has effect as specified by [The Finance Act 2002, section 123, (Appointed Day) Order 2003 (S.I. 2003/603)](https://www.legislation.gov.uk/uksi/2003/603), [art. 2](https://www.legislation.gov.uk/uksi/2003/603/article/2)

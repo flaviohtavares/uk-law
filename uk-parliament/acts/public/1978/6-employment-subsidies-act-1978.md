@@ -31,19 +31,19 @@ Employment Subsidies Act 1978 (repealed)
 
 1978 c.6
 
-[^key-316502241cf47b2feb6f2e21cf58f903]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-316502241cf47b2feb6f2e21cf58f903]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Schemes for financing employment.[^key-316502241cf47b2feb6f2e21cf58f903]
+## 1. Schemes for financing employment.[^c-316502241cf47b2feb6f2e21cf58f903]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Parliamentary control of expenditure.[^key-316502241cf47b2feb6f2e21cf58f903]
+## 2. Parliamentary control of expenditure.[^c-316502241cf47b2feb6f2e21cf58f903]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supplementary provisions.[^key-316502241cf47b2feb6f2e21cf58f903]
+## 3. Supplementary provisions.[^c-316502241cf47b2feb6f2e21cf58f903]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,4 +53,4 @@ Employment Subsidies Act 1978 (repealed)
 
 ## Annotations
 
-[^key-316502241cf47b2feb6f2e21cf58f903]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1978/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-316502241cf47b2feb6f2e21cf58f903]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1978/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

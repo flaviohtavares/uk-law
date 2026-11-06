@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where premises in respect of which a demolition [^c19121271]. . . order under this Part has become operative form the subject matter of a lease, the lessor or the lessee may apply to the appropriate tribunal[^key-a8248b3a1a94a4fe91b32e77d56bd92d] for an order determining or varying the lease.
+(1) Where premises in respect of which a demolition [^c19121271]. . . order under this Part has become operative form the subject matter of a lease, the lessor or the lessee may apply to the appropriate tribunal[^c-a8248b3a1a94a4fe91b32e77d56bd92d] for an order determining or varying the lease.
 
 (2) On the application the tribunal[^c19121401] may make such an order if it thinks fit, after giving any sub-lessee an opportunity of being heard.
 
@@ -34,7 +34,7 @@ summary: ''
 
 [^c19121271]: Textual amendment: Words in s. 317(1) repealed (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 266](https://www.legislation.gov.uk/ukpga/2004/34/section/266), [270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5), [Sch. 16](https://www.legislation.gov.uk/ukpga/2004/34/schedule/16); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(e)(v)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/e/v) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(c)(v)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/c/v) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-a8248b3a1a94a4fe91b32e77d56bd92d]: Textual amendment: Words in s. 317(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/44) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-a8248b3a1a94a4fe91b32e77d56bd92d]: Textual amendment: Words in s. 317(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 44](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/44) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c19121401]: Textual amendment: Words in s. 317(2) substituted (6.4.2006 for E. and 16.6.2006 for W.) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 48(4)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/48/4/b), [270(4)(5)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/4/5); [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 

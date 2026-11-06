@@ -35,18 +35,18 @@ concerning the authorisation of a preparation of kidney bean lectins (*Phaseolus
 
 (Text with EEA relevance) (revoked)
 
-[^key-e7725c428e91ee3d152be6d6b977ab51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7725c428e91ee3d152be6d6b977ab51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e7725c428e91ee3d152be6d6b977ab51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e7725c428e91ee3d152be6d6b977ab51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e7725c428e91ee3d152be6d6b977ab51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e7725c428e91ee3d152be6d6b977ab51] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7725c428e91ee3d152be6d6b977ab51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7725c428e91ee3d152be6d6b977ab51]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e7725c428e91ee3d152be6d6b977ab51]
+## ANNEX[^c-e7725c428e91ee3d152be6d6b977ab51]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7725c428e91ee3d152be6d6b977ab51]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 208](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/208) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e7725c428e91ee3d152be6d6b977ab51]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 208](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/208) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

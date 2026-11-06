@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.6. Fixing the venue[^key-6737c885101272ee291d9fce9edc866e]
+## 4.6. Fixing the venue[^c-6737c885101272ee291d9fce9edc866e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ When an application is filed the court must fix a venue for it to be heard unles
 
 ## Annotations
 
-[^key-6737c885101272ee291d9fce9edc866e]: Commencement: Rule 4.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-6737c885101272ee291d9fce9edc866e]: Commencement: Rule 4.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

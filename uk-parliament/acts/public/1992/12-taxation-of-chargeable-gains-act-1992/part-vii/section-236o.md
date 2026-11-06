@@ -16,26 +16,26 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236O. No section 236H relief if disqualifying event in next four tax years[^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809][^key-8664e7d1ca61c4463a23a3947bbdb183]
+## 236O. No section 236H relief if disqualifying event in next four tax years[^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809][^c-8664e7d1ca61c4463a23a3947bbdb183]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
 - (a) a disposal is made in circumstances where paragraphs (a) and (b) of section 236H(1) are satisfied, and
-- (b) one or more disqualifying events occur in relation to the disposal in any of the first four tax years[^key-6c276f513cac70dee9a9671b293cd473] following the tax year in which the disposal occurs.
+- (b) one or more disqualifying events occur in relation to the disposal in any of the first four tax years[^c-6c276f513cac70dee9a9671b293cd473] following the tax year in which the disposal occurs.
 
 (2) A “disqualifying event” occurs in relation to the disposal if and when—
 
-- (za)[^key-a1f170404c226e24531845fda2fdfb74] the trustees of the settlement cease to be resident in the United Kingdom,
+- (za)[^c-a1f170404c226e24531845fda2fdfb74] the trustees of the settlement cease to be resident in the United Kingdom,
 - (a) C ceases to meet the trading requirement,
 - (b) the settlement ceases to meet the all-employee benefit requirement,
-- (ba)[^key-130530700a5160ef6cdbc1603230adbe] the settlement ceases to meet the trustee independence requirement,
+- (ba)[^c-130530700a5160ef6cdbc1603230adbe] the settlement ceases to meet the trustee independence requirement,
 - (c) the settlement ceases to meet the controlling interest requirement,
 - (d) the participator fraction exceeds 2/5, or
 - (e) the trustees act in a way which the trusts, as required by the all-employee benefit requirement, do not permit.
 
-(2A)[^key-bb73b0e86d4b89180679265206b83e53] Where—
+(2A)[^c-bb73b0e86d4b89180679265206b83e53] Where—
 
 - (a) a disqualifying event falling within subsection (2)(za) occurs (trustees cease to be resident in the United Kingdom),
 - (b) the event only occurs as a result of the death of a trustee of the settlement, and
@@ -67,12 +67,12 @@ the disqualifying event is to be ignored.
 
 [^M_F_1c87fe4b-5186-4ac2-add9-3a37001a8809]: Textual amendment: Ss. 236H-236U and cross-heading inserted (with effect in accordance with [Sch. 37 para. 2](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/1) (with [Sch. 37 paras. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/4))
 
-[^key-8664e7d1ca61c4463a23a3947bbdb183]: Textual amendment: Words in s. 236O heading substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
+[^c-8664e7d1ca61c4463a23a3947bbdb183]: Textual amendment: Words in s. 236O heading substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/1/a)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
 
-[^key-6c276f513cac70dee9a9671b293cd473]: Textual amendment: Words in s. 236O(1)(b) substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/1/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
+[^c-6c276f513cac70dee9a9671b293cd473]: Textual amendment: Words in s. 236O(1)(b) substituted (with effect in accordance with Sch. 6 para. 6(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 6(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/1/b)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/6/4)
 
-[^key-a1f170404c226e24531845fda2fdfb74]: Textual amendment: S. 236O(2)(za) inserted (with effect in accordance with Sch. 6 para. 2(5) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/2/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/2/5)
+[^c-a1f170404c226e24531845fda2fdfb74]: Textual amendment: S. 236O(2)(za) inserted (with effect in accordance with Sch. 6 para. 2(5) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/2/2)[(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/2/5)
 
-[^key-130530700a5160ef6cdbc1603230adbe]: Textual amendment: S. 236O(2)(ba) inserted (with effect in accordance with Sch. 6 para. 3(5) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/3)[(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/5)
+[^c-130530700a5160ef6cdbc1603230adbe]: Textual amendment: S. 236O(2)(ba) inserted (with effect in accordance with Sch. 6 para. 3(5) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/3)[(5)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/3/5)
 
-[^key-bb73b0e86d4b89180679265206b83e53]: Textual amendment: S. 236O(2A)(2B) inserted (with effect in accordance with Sch. 6 para. 4(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 4(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/4/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/4/3)
+[^c-bb73b0e86d4b89180679265206b83e53]: Textual amendment: S. 236O(2A)(2B) inserted (with effect in accordance with Sch. 6 para. 4(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 6 para. 4(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/4/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/6/paragraph/4/3)

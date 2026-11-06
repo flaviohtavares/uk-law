@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Annual canvass[^key-68bbbb76f61e6a79c88c0c6a749e9e81][^key-c9bef4fbea18922e5b3a8bf4c4b7d056]
+## 4. Annual canvass[^c-68bbbb76f61e6a79c88c0c6a749e9e81][^c-c9bef4fbea18922e5b3a8bf4c4b7d056]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ After section 9C of the Representation of the People Act 1983 insert—
 
 ## Annotations
 
-[^key-68bbbb76f61e6a79c88c0c6a749e9e81]: Commencement: S. 4 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/414/article/5/d)
+[^c-68bbbb76f61e6a79c88c0c6a749e9e81]: Commencement: S. 4 in force at 10.6.2014 for E.W. and 19.9.2014 for S. by [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/414/article/5/d)
 
-[^key-c9bef4fbea18922e5b3a8bf4c4b7d056]: Commencement: S. 4 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/c)
+[^c-c9bef4fbea18922e5b3a8bf4c4b7d056]: Commencement: S. 4 in force at 15.9.2014 for N.I. by [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/c)

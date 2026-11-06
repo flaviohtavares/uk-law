@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Application by virtue of section 94: ground accepted by relevant person before determination[^key-20fce1fb264b970b779744ec5701f8d0]
+## 106. Application by virtue of section 94: ground accepted by relevant person before determination[^c-20fce1fb264b970b779744ec5701f8d0]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) an application to the sheriff is made by virtue of section 94(2)(a) in relation to a ground on the basis that the child would not understand, or has not understood, an explanation given in compliance with section 90(1)(a), and
 - (b) before the application is determined the ground is accepted by each relevant person in relation to the child who is present at the hearing before the sheriff.
 
-(1A)[^key-f6f250bf7cf770d220bb25a946f92c79] The reference in subsection (1)(b) to the ground being accepted is, in relation to a ground which was not accepted by virtue of section 90(1B), a reference to all of the supporting facts in relation to the ground being accepted.
+(1A)[^c-f6f250bf7cf770d220bb25a946f92c79] The reference in subsection (1)(b) to the ground being accepted is, in relation to a ground which was not accepted by virtue of section 90(1B), a reference to all of the supporting facts in relation to the ground being accepted.
 
 (2) The sheriff may determine the application without a hearing unless—
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-20fce1fb264b970b779744ec5701f8d0]: Commencement: S. 106 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-20fce1fb264b970b779744ec5701f8d0]: Commencement: S. 106 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-f6f250bf7cf770d220bb25a946f92c79]: Textual amendment: S. 106(1A) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(6)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/6); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-f6f250bf7cf770d220bb25a946f92c79]: Textual amendment: S. 106(1A) inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [Sch. 5 para. 12(6)](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/12/6); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

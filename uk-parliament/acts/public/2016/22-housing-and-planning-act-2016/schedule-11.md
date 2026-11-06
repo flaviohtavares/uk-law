@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Default powers exercisable by Mayor of London or combined authority: Schedule to be inserted in the Planning and Compulsory Purchase Act 2004[^key-1721a907e4556ef3a297ccdeb46d074c]
+## SCHEDULE 11 — Default powers exercisable by Mayor of London or combined authority: Schedule to be inserted in the Planning and Compulsory Purchase Act 2004[^c-1721a907e4556ef3a297ccdeb46d074c]
 
 *Extent: E+W*
 
@@ -187,4 +187,4 @@ Section 147
 
 ## Annotations
 
-[^key-1721a907e4556ef3a297ccdeb46d074c]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/11) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/e)
+[^c-1721a907e4556ef3a297ccdeb46d074c]: Commencement: [Sch. 11](https://www.legislation.gov.uk/ukpga/2016/22/schedule/11) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/e)

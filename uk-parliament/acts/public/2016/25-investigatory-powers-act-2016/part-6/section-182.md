@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Decisions to issue warrants to be taken personally by Secretary of State[^key-c01c165cf860d0598afb2487716f1461]
+## 182. Decisions to issue warrants to be taken personally by Secretary of State[^c-c01c165cf860d0598afb2487716f1461]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c01c165cf860d0598afb2487716f1461]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2016/25/section/182) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/o)
+[^c-c01c165cf860d0598afb2487716f1461]: Commencement: [S. 182](https://www.legislation.gov.uk/ukpga/2016/25/section/182) in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2018/652/regulation/5/o)

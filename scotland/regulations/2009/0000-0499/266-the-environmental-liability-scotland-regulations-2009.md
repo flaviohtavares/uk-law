@@ -59,26 +59,26 @@ These Regulations—
 (1) In these Regulations, except where the context otherwise requires—
 
 - “**activity**” means any activity carried out in the course of an economic activity, a business or an undertaking, irrespectively of its private or public, profit or non‑profit character;
-- [^key-f3b2b7e1a72245e88819a06e89ca2e5c]...
+- [^c-f3b2b7e1a72245e88819a06e89ca2e5c]...
 - **Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43)**” means Council Directive of 21st May 1992 on the conservation of natural habitats and of wild fauna and flora [^c19826501];
 - “**Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)**” means the Directive of the European Parliament and of the Council of 23rd October 2000 establishing a framework for Community action in the field of water policy [^c19826511];
 - “**Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18)**” means the Directive of the European Parliament and of the Council of 12th March 2001 on the deliberate release into the environment of genetically modified organisms [^c19826521];
-- “[^key-cae2e85173fcb3873b5e4009fea8ad45][Directive 2008/56/EC](https://www.legislation.gov.uk/eudr/2008/0056)” means [Directive 2008/56/EC](https://www.legislation.gov.uk/eudr/2008/0056) of the European Parliament and of the Council establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive);
-- [“Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^key-a5e3f6ebae1e53b3ac2f874147daafb3]” means [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds,
+- “[^c-cae2e85173fcb3873b5e4009fea8ad45][Directive 2008/56/EC](https://www.legislation.gov.uk/eudr/2008/0056)” means [Directive 2008/56/EC](https://www.legislation.gov.uk/eudr/2008/0056) of the European Parliament and of the Council establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive);
+- [“Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^c-a5e3f6ebae1e53b3ac2f874147daafb3]” means [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds,
 - “**enactment**” has the meaning assigned to it in section 126(1) (interpretation) of the Scotland Act 1998 [^c19826531];
 - “**environmental damage**” means damage falling within regulation 4;
 - “**genetically modified organisms**” has the meaning assigned to it by Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
-- “marine waters” means waters classified as marine waters pursuant to[^key-0b17730457ca71c7650a2cd86388ad89] [Directive 2008/56/EC](https://www.legislation.gov.uk/eudr/2008/0056);
+- “marine waters” means waters classified as marine waters pursuant to[^c-0b17730457ca71c7650a2cd86388ad89] [Directive 2008/56/EC](https://www.legislation.gov.uk/eudr/2008/0056);
 - “**protected species and natural habitats**” means—
-  - (a) the species mentioned in Article 4(2) of [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^key-3fdf5104be22e9a2024a0dba0e9c8e88] or listed in Annex I to that Directive or the species listed in Annexes II and IV to Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43); and
+  - (a) the species mentioned in Article 4(2) of [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^c-3fdf5104be22e9a2024a0dba0e9c8e88] or listed in Annex I to that Directive or the species listed in Annexes II and IV to Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43); and
   - (b) the habitats of species mentioned in Article 4(2) of [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147) or listed in Annex I to that Directive or the habitats of species listed in Annex II to Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) or the natural habitats listed in Annex I to Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) and the breeding sites or resting places of the species listed in Annex IV to Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43);
-- “the water environment” has the meaning assigned to it by section 3(2) of the Water Environment and Water Services (Scotland) Act 2003.[^key-a786d62ebf991f3127a6e4586fd2df7d]
+- “the water environment” has the meaning assigned to it by section 3(2) of the Water Environment and Water Services (Scotland) Act 2003.[^c-a786d62ebf991f3127a6e4586fd2df7d]
 
 (2) Unless otherwise defined in these Regulations, an expression used in Directive 2004/35/CE of the European Parliament and of the Council of 21st April 2004 on environmental liability with regard to the prevention and remedying of environmental damage [^c19826551] has the same meaning in these Regulations as it has in that Directive.
 
 (3) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication (as defined in section 15 of the Electronic Communications Act 2000 [^c19826561]) which has been recorded in written form and is capable of being reproduced in that form.
 
-## 3. References to EU legislation[^key-c79febd87d4458880ff904e288dc0136][^M_F_9a70f28d-6cbc-4d74-ad51-b67b25953a67]
+## 3. References to EU legislation[^c-c79febd87d4458880ff904e288dc0136][^M_F_9a70f28d-6cbc-4d74-ad51-b67b25953a67]
 
 For the purposes of these Regulations, a reference in any EU instrument referred to in these Regulations—
 
@@ -92,15 +92,15 @@ For the purposes of these Regulations, a reference in any EU instrument referred
 - (a) damage to protected species and natural habitats if—
   - (i) it has significant adverse effects on reaching or maintaining the favourable conservation status of the protected species or natural habitat; and
   - (ii) it is caused by an activity listed in Schedule 1 or by the fault or negligence of an operator whilst carrying on any other activity;
-- (b)[^key-72300b384659068e4bca3c36985c2637] water damage, caused by an activity listed in Schedule 1, which is—
+- (b)[^c-72300b384659068e4bca3c36985c2637] water damage, caused by an activity listed in Schedule 1, which is—
   - (i) any damage that significantly adversely affects any or all of the—
     - (aa) ecological status;
     - (bb) chemical status;
     - (cc) quantitative status;
     - (dd) ecological potential,
 
-    of the water environment with the exception of adverse effects where regulations 8 or 9 of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^key-bf492975257c8f4f63aaba2459c8de0d] applies; or
-  - (ii) any damage that significantly adversely affects the environmental status of marine waters, in so far as particular aspects of the environmental status of the marine environment are not already addressed through the[^key-727117dbfa748f458565142d5f335282] assimilated[^key-f3729e8548cb34986c3e165bc2c45e4f] law which implemented Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60);
+    of the water environment with the exception of adverse effects where regulations 8 or 9 of the Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013[^c-bf492975257c8f4f63aaba2459c8de0d] applies; or
+  - (ii) any damage that significantly adversely affects the environmental status of marine waters, in so far as particular aspects of the environmental status of the marine environment are not already addressed through the[^c-727117dbfa748f458565142d5f335282] assimilated[^c-f3729e8548cb34986c3e165bc2c45e4f] law which implemented Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60);
 - (c) land damage, caused by an activity listed in Schedule 1, which is any land contamination that creates a significant risk of human health being adversely affected as a result of the direct or indirect introduction in, on, or under land of substances, preparations, organisms or micro-organisms.
 
 (2) Paragraphs (3) to (5) apply in relation to assessing whether damage has significant adverse effects for the purposes of paragraph (1)(a)(i).
@@ -116,7 +116,7 @@ For the purposes of these Regulations, a reference in any EU instrument referred
 (5) The significance of any effects has to be assessed with reference to the baseline condition with significant adverse changes thereto being determined by means of measurable data such as—
 
 - (a) the number of individuals, their density or the area covered;
-- (b) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat (assessed at the relevant level whether local, regional , or national or by reference to the natural range of the species[^key-64f77ce4f76e669d87cebc21af12debe]);
+- (b) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat (assessed at the relevant level whether local, regional , or national or by reference to the natural range of the species[^c-64f77ce4f76e669d87cebc21af12debe]);
 - (c) the capacity of the species for propagation, its viability or the capacity of the habitat for natural regeneration;
 - (d) the capacity of the species or habitat to recover within a short time of the damage being caused to a condition which leads to its state at the time of the damage or better without any intervention other than increased protection measures.
 
@@ -124,7 +124,7 @@ For the purposes of these Regulations, a reference in any EU instrument referred
 
 These Regulations do not apply to—
 
-- (a) in relation to damage to protected species and natural habitats, previously identified adverse effects resulting from an act by an operator which was expressly authorised by the relevant authorities in accordance with provisions implementing Article 6(3) and (4) or Article 16 of Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) or Article 9 of [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^key-c8b2710d302eb7cc480d562a1985e77e];
+- (a) in relation to damage to protected species and natural habitats, previously identified adverse effects resulting from an act by an operator which was expressly authorised by the relevant authorities in accordance with provisions implementing Article 6(3) and (4) or Article 16 of Directive [92/43/EEC](https://www.legislation.gov.uk/eudr/1992/43) or Article 9 of [Directive 2009/147/EC](https://www.legislation.gov.uk/eudr/2009/0147)[^c-c8b2710d302eb7cc480d562a1985e77e];
 - (b) environmental damage or an imminent threat of such damage caused by—
   - (i) an act of armed conflict, hostilities, civil war or insurrection;
   - (ii) a natural phenomenon of exceptional, inevitable and irresistible character; or
@@ -138,7 +138,7 @@ These Regulations do not apply to—
   - (i) the main purpose of which is to serve national defence or international security; or
   - (ii) the sole purpose of which is to protect from natural disasters;
 - (f) damage caused by an emission, event or incident that took place before the coming into force of these Regulations;
-- (fa)[^key-56d4954d6340882adc68a6372c181bed] environmental damage of the type defined in regulation 4(1)(b)(ii) to marine waters caused by an emission, event or incident that took place before 19th July 2015;
+- (fa)[^c-56d4954d6340882adc68a6372c181bed] environmental damage of the type defined in regulation 4(1)(b)(ii) to marine waters caused by an emission, event or incident that took place before 19th July 2015;
 - (g) damage caused by an emission, event or incident that occurs after the coming into force of these Regulations which results from a specific activity that took place and finished before that date;
 - (h) damage resulting from the release of genetically modified organisms if more than 75 years have passed since the release; or
 - (i) damage not falling within paragraph (h) if more than 30 years have passed since the emission, event or incident occurred which resulted in the damage.
@@ -155,8 +155,8 @@ These Regulations are without prejudice to—
 (1) For the purposes of these Regulations, the competent authority in relation to instances of environmental damage or an imminent threat of such damage—
 
 - (a) to protected species or natural habitats in the territorial sea or coastal water (within the meaning of section 3(8) of the Water Environment and Water Services (Scotland) Act 2003), is the Scottish Ministers;
-- (b) to protected species or natural habitats in any other place, is Scottish Natural Heritage; [^key-177d1770eb937e5deb2245614f9a79c7]...
-- (c)[^key-0dfea37aaec9d47c3cb52b8feae02abf] to land or, in relation to environmental damage of the type defined in regulation 4(1)(b)(i), to the water environment, is the Scottish Environment Protection Agency; and
+- (b) to protected species or natural habitats in any other place, is Scottish Natural Heritage; [^c-177d1770eb937e5deb2245614f9a79c7]...
+- (c)[^c-0dfea37aaec9d47c3cb52b8feae02abf] to land or, in relation to environmental damage of the type defined in regulation 4(1)(b)(i), to the water environment, is the Scottish Environment Protection Agency; and
 - (d) to marine waters, in relation to environmental damage of the type defined in regulation 4(1)(b)(ii), is the Scottish Ministers.
 
 (2) In relation to environmental damage of the type defined in regulation 4(1)(a), the competent authority shall decide whether or not the damage has occurred or will occur as a result of the fault or negligence of an operator.
@@ -177,7 +177,7 @@ the competent authority shall determine which instance of environmental damage i
 (5) Before making a determination under paragraph (3), the competent authority shall, if practicable, consult—
 
 - (a) any interested person (as defined in regulation 14(1)); and
-- (b) the owner or occupier of the land upon which, or any part of the water environment or any marine waters[^key-cfa33d4b6890eac1f54b755e59580cfa] in respect of which, remedial measures are to be taken.
+- (b) the owner or occupier of the land upon which, or any part of the water environment or any marine waters[^c-cfa33d4b6890eac1f54b755e59580cfa] in respect of which, remedial measures are to be taken.
 
 (6) A person consulted under paragraph (5) may make representations to the competent authority within such time limit as specified by the authority to the person and the competent authority shall take into account any representations in making its determination.
 
@@ -187,7 +187,7 @@ the competent authority shall determine which instance of environmental damage i
 - (b) state the grounds on which it is based; and
 - (c) advise the operator of any available appeal and any time limit to which such an appeal is subject.
 
-## 7A. Reporting requirements[^key-003e5663cb9cb4518a1e5f686d0bb979]
+## 7A. Reporting requirements[^c-003e5663cb9cb4518a1e5f686d0bb979]
 
 (1) In the event that a competent authority other than the Scottish Ministers becomes aware that environmental damage has occurred, whether by virtue of the circumstances specified in paragraph (3) or otherwise, it must, as soon as reasonably practicable, notify the Scottish Ministers, providing the information in paragraph (2).
 
@@ -318,7 +318,7 @@ the competent authority instead of the operator may itself take preventive measu
 (4) As soon as practicable after the receipt of potential remedial measures submitted for approval in terms of paragraph (2) or (3) and before approving remedial measures, the competent authority shall, if practicable, consult—
 
 - (a) any interested person (as defined in regulation 14(1)); and
-- (b) the owner or occupier of the land upon which, or any part of the water environment or any marine waters[^key-ac27f52662619a674537e84eb0f312e7] in respect of which, the potential remedial measures are to be carried out.
+- (b) the owner or occupier of the land upon which, or any part of the water environment or any marine waters[^c-ac27f52662619a674537e84eb0f312e7] in respect of which, the potential remedial measures are to be carried out.
 
 (5) A person consulted under paragraph (4) may make representations to the competent authority within such time limit as is specified by that authority to the person and the competent authority shall take into account any representations in making its determination for the purposes of paragraph (6).
 
@@ -414,7 +414,7 @@ of its decision regarding the request and provide reasons for it.
 
 (1) Where, in the opinion of the competent authority, an instance of environmental damage or an imminent threat of such damage arises from an activity carried on in Scotland and affects or is likely to affect the territory of—
 
-- (a) a[^key-ddbd75343581b1a0bc75f9437cb9c637] Member State; or
+- (a) a[^c-ddbd75343581b1a0bc75f9437cb9c637] Member State; or
 - (b) another part of the United Kingdom,
 
 the competent authority shall—
@@ -433,7 +433,7 @@ and the activity is carried on otherwise than in Scotland, the competent authori
 
 (3) Where the Scottish Ministers receive a notification under paragraph (2) in relation to an activity carried on outside the United Kingdom, they may—
 
-- (a)[^key-3584634c68bbf2790555ad57800de0d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3584634c68bbf2790555ad57800de0d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) notify the relevant competent authority of the Member State in question of the matter; and
 - (c) make recommendations as to the preventive measures or remedial measures required.
 
@@ -443,11 +443,11 @@ and the activity is carried on otherwise than in Scotland, the competent authori
 
 ## 16. Grant of, and compensation for, rights of entry
 
-(1) Any person whose consent is required before any measures required by these Regulations may be carried out must grant, or join in granting, such rights in relation to any land, any part of the water environment or any marine waters[^key-3d7a2ee8981a5a241f91312b7c9ab5f2] as will enable the relevant person to carry out such measures.
+(1) Any person whose consent is required before any measures required by these Regulations may be carried out must grant, or join in granting, such rights in relation to any land, any part of the water environment or any marine waters[^c-3d7a2ee8981a5a241f91312b7c9ab5f2] as will enable the relevant person to carry out such measures.
 
 (2) Before requiring any such consent in terms of paragraph (1), the relevant person shall reasonably endeavour to consult every person who appears to it—
 
-- (a) to be the owner or occupier of any such land, any part of the water environment or any marine waters[^key-cb77c5440bdaf2585b0e745828dba87f]; and
+- (a) to be the owner or occupier of any such land, any part of the water environment or any marine waters[^c-cb77c5440bdaf2585b0e745828dba87f]; and
 - (b) to be a person who might be required by paragraph (1) to grant or join in granting any rights.
 
 (3) Subject to paragraph (4), the relevant person shall compensate a person who grants, or joins in granting, any rights required by paragraph (1), where that person sustains damage as a consequence thereof.
@@ -541,11 +541,11 @@ Edinburgh
 
 Regulation 4(1)
 
-### A1. Interpretation[^key-82d221e2db952efd571e62ca4dde5763]
+### A1. Interpretation[^c-82d221e2db952efd571e62ca4dde5763]
 
-A reference in this schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit, authorisation or registration under, a Directive includes, on or after exit day, any activity authorised, prohibited or managed pursuant to, or subject to a permit, authorisation or registration under, any assimilated[^key-13981e1c72c5119e26e8c1e2b1a1a924] law which transposed that Directive.
+A reference in this schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit, authorisation or registration under, a Directive includes, on or after exit day, any activity authorised, prohibited or managed pursuant to, or subject to a permit, authorisation or registration under, any assimilated[^c-13981e1c72c5119e26e8c1e2b1a1a924] law which transposed that Directive.
 
-**1.**[^key-bfbb563b52b8be8224309c9a59ab10c2] The operation of installations subject to permit in pursuance of—
+**1.**[^c-bfbb563b52b8be8224309c9a59ab10c2] The operation of installations subject to permit in pursuance of—
 
 - (a) Council [Directive 96/61/EC](https://www.legislation.gov.uk/eudr/1996/0061) of 24 September 1996 concerning the integrated pollution prevention and control in respect of all activities listed in Annex I to that Directive with the exception of installations or parts of installations used for research, development and testing of new products and processes,
 - (b) [Directive 2008/1/EC](https://www.legislation.gov.uk/eudr/2008/0001) of the European Parliament and of Council of 15 January 2008 concerning integrated pollution prevention and control in respect of all activities listed in Annex I to that Directive with the exception of installations or parts of installations used for research, development and testing of new products and processes, or
@@ -564,11 +564,11 @@ A reference in this schedule to an activity being authorised, prohibited or mana
   - (i) [Directive 2000/76/EC](https://www.legislation.gov.uk/eudr/2000/0076) of the European Parliament and of the Council of 4 December 2000 on the incineration of waste, or
   - (ii) [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control).
 
-(3)[^key-65800c5fc5c06dcce1d818268a6ee6a7] Sub-paragraphs (1) and (2) do not apply to operations to the extent to which they include the recovery of residual sludge from sewage treatment works treated to an approved standard by application to agricultural land for the purpose of soil improvement (within the meaning of schedule 18 of the Environmental Authorisations (Scotland) Regulations 2018).
+(3)[^c-65800c5fc5c06dcce1d818268a6ee6a7] Sub-paragraphs (1) and (2) do not apply to operations to the extent to which they include the recovery of residual sludge from sewage treatment works treated to an approved standard by application to agricultural land for the purpose of soil improvement (within the meaning of schedule 18 of the Environmental Authorisations (Scotland) Regulations 2018).
 
 **3.** All discharges into inland surface water, which require prior authorisation in pursuance of Council Directive [2006/11/EC](https://www.legislation.gov.uk/eudr/2006/11) of 15th February 2006 on pollution caused by certain dangerous substances discharged into the aquatic environment of the Community [^c19826691].
 
-**4.**[^key-641c15a60b4b6a215fb56cffd368923c] All discharges of substances into groundwater which require prior authorisation in pursuance of—
+**4.**[^c-641c15a60b4b6a215fb56cffd368923c] All discharges of substances into groundwater which require prior authorisation in pursuance of—
 
 - (a) Council [Directive 80/68/EEC](https://www.legislation.gov.uk/eudr/1980/0068) of 17 December 1979 on the protection of groundwater against pollution caused by certain dangerous substances,
 - (b) [Directive 2006/118/EC](https://www.legislation.gov.uk/eudr/2006/0118) of the European Parliament and of the Council of 12 December 2006 on the protection of groundwater against pollution and deterioration.
@@ -577,7 +577,7 @@ A reference in this schedule to an activity being authorised, prohibited or mana
 
 **6.** Water abstraction and impoundment of water subject to prior authorisation in pursuance of Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60).
 
-**7.**[^key-392040bcbd520bfd589343924d77af60] Manufacture, use, storage, processing, filling, release into the environment and onsite transport of—
+**7.**[^c-392040bcbd520bfd589343924d77af60] Manufacture, use, storage, processing, filling, release into the environment and onsite transport of—
 
 - (a) dangerous substances as defined in Article 2(2) of Council Directive [67/548/EEC](https://www.legislation.gov.uk/eudr/1967/548) of 27 June 1967 on the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous substances,
 - (b) hazardous substances as defined in Article 3 of Regulation [(EC) No. 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures,
@@ -593,15 +593,15 @@ A reference in this schedule to an activity being authorised, prohibited or mana
 - (d) [Directive 2002/59/EC](https://www.legislation.gov.uk/eudr/2002/0059) of the European Parliament and of the Council of 27th June 2002 establishing a Community vessel traffic monitoring and information system,
 - (e) [Directive 2008/68/EC](https://www.legislation.gov.uk/eudr/2008/0068) of the European Parliament and of the Council of 24th September 2008 on the inland transport of dangerous goods.
 
-**9.** Any contained use, including transport, involving genetically modified micro‑organisms as defined by [Directive 2009/41/EC](https://www.legislation.gov.uk/eudr/2009/0041)[^key-415c2dc6ede97ddd2ca5ffae38db23e2] of the European Parliament and of the Council of 6 May 2009 on the contained use of genetically modified micro-organisms.
+**9.** Any contained use, including transport, involving genetically modified micro‑organisms as defined by [Directive 2009/41/EC](https://www.legislation.gov.uk/eudr/2009/0041)[^c-415c2dc6ede97ddd2ca5ffae38db23e2] of the European Parliament and of the Council of 6 May 2009 on the contained use of genetically modified micro-organisms.
 
 **10.** Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18).
 
-**11.** Transboundary shipment of waste within, into or out of the European Union or into or out of the United Kingdom[^key-de68678cbee0f27d7b6d2d875ab27fe3], requiring an authorisation or prohibited in the meaning of Council Regulation (EC) No. 1013/2006 of 14th June 2006 on shipments of waste [^c19826791].
+**11.** Transboundary shipment of waste within, into or out of the European Union or into or out of the United Kingdom[^c-de68678cbee0f27d7b6d2d875ab27fe3], requiring an authorisation or prohibited in the meaning of Council Regulation (EC) No. 1013/2006 of 14th June 2006 on shipments of waste [^c19826791].
 
 **12.** The management of extractive waste pursuant to Directive [2006/21/EC](https://www.legislation.gov.uk/eudr/2006/21) of the European Parliament and of the Council of 15th March 2006 on the management of waste from extractive industries [^c19826801].
 
-**13.**[^key-4b1743a273b2fc68610a8b0c98f5fcea] The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) of the European Parliament and of the Council on the geological storage of carbon dioxide and amending Council Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337), European Parliament and Council Directives [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60), [2001/80/EC](https://www.legislation.gov.uk/eudr/2001/80), [2004/35/EC](https://www.legislation.gov.uk/eudr/2004/35), [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12), [2008/1/EC](https://www.legislation.gov.uk/eudr/2008/1) and Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013).
+**13.**[^c-4b1743a273b2fc68610a8b0c98f5fcea] The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) of the European Parliament and of the Council on the geological storage of carbon dioxide and amending Council Directive [85/337/EEC](https://www.legislation.gov.uk/eudr/1985/337), European Parliament and Council Directives [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60), [2001/80/EC](https://www.legislation.gov.uk/eudr/2001/80), [2004/35/EC](https://www.legislation.gov.uk/eudr/2004/35), [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12), [2008/1/EC](https://www.legislation.gov.uk/eudr/2008/1) and Regulation [(EC) No 1013/2006](https://www.legislation.gov.uk/eur/2006/1013).
 
 ## SCHEDULE 2 — SUPPLEMENTARY PROVISIONS IN RESPECT OF POWERS OF ENTRY AND INSPECTION
 
@@ -810,7 +810,7 @@ A Transposition Note and Partial Regulatory Impact Assessment (RIA) have been pr
 
 [^c19826481]: Marginal citation: 1972 (c.68). Section 2(2) was relevantly amended by paragraph 15(3) of Schedule 8 to the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), (“**the 1998 Act**”) and by section 27(1) and (2) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51), (“the 2006 Act”). Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act. The functions conferred upon the Minister of the Crown under section 2(2) of the European Community Act 1972, insofar as exercisable within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act.
 
-[^key-f3b2b7e1a72245e88819a06e89ca2e5c]: Textual amendment: Words in reg. 2(1) omitted (31.10.2019) by virtue of [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/2/a)
+[^c-f3b2b7e1a72245e88819a06e89ca2e5c]: Textual amendment: Words in reg. 2(1) omitted (31.10.2019) by virtue of [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(2)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/2/a)
 
 [^c19826501]: Marginal citation: O.J. No. L 206, 22.7.1992, p.7, as last amended by Council Directive 2006/105/EC (O.J. No. L 363, 20.12.2006, p.368).
 
@@ -818,37 +818,37 @@ A Transposition Note and Partial Regulatory Impact Assessment (RIA) have been pr
 
 [^c19826521]: Marginal citation: O.J. No. L 106, 17.4.2001, p.1, as last amended by Directive 2008/27/EC (O.J. No. L 81, 20.3.2008, p.45).
 
-[^key-cae2e85173fcb3873b5e4009fea8ad45]: Textual amendment: Words in reg. 2(1) inserted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/214/regulation/3/a)
+[^c-cae2e85173fcb3873b5e4009fea8ad45]: Textual amendment: Words in reg. 2(1) inserted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [3(a)](https://www.legislation.gov.uk/ssi/2015/214/regulation/3/a)
 
-[^key-a5e3f6ebae1e53b3ac2f874147daafb3]: Textual amendment: Words in reg. 2(1) inserted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/2/b)
+[^c-a5e3f6ebae1e53b3ac2f874147daafb3]: Textual amendment: Words in reg. 2(1) inserted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/2/b)
 
 [^c19826531]: Marginal citation: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0b17730457ca71c7650a2cd86388ad89]: Textual amendment: Words in reg. 2(1) inserted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/214/regulation/3/b)
+[^c-0b17730457ca71c7650a2cd86388ad89]: Textual amendment: Words in reg. 2(1) inserted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2015/214/regulation/3/b)
 
-[^key-3fdf5104be22e9a2024a0dba0e9c8e88]: Textual amendment: Words in reg. 2(1) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(2)(c)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/2/c)
+[^c-3fdf5104be22e9a2024a0dba0e9c8e88]: Textual amendment: Words in reg. 2(1) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(2)(c)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/2/c)
 
-[^key-a786d62ebf991f3127a6e4586fd2df7d]: Textual amendment: Words in reg. 2(1) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2015/214/regulation/3/c)
+[^c-a786d62ebf991f3127a6e4586fd2df7d]: Textual amendment: Words in reg. 2(1) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [3(c)](https://www.legislation.gov.uk/ssi/2015/214/regulation/3/c)
 
 [^c19826551]: Marginal citation: O.J. No. L 143, 30.4.2004, p.56, as amended by Directive 2006/21/EC (O.J. No. L 102, 11.4.2006, p.15).
 
 [^c19826561]: Marginal citation: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), section 15 was relevantly amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-c79febd87d4458880ff904e288dc0136]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2009/266/regulation/3) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c79febd87d4458880ff904e288dc0136]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2009/266/regulation/3) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_9a70f28d-6cbc-4d74-ad51-b67b25953a67]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6)
 
-[^key-72300b384659068e4bca3c36985c2637]: Textual amendment: Reg. 4(1)(b) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [4](https://www.legislation.gov.uk/ssi/2015/214/regulation/4)
+[^c-72300b384659068e4bca3c36985c2637]: Textual amendment: Reg. 4(1)(b) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [4](https://www.legislation.gov.uk/ssi/2015/214/regulation/4)
 
-[^key-bf492975257c8f4f63aaba2459c8de0d]: Textual amendment: Words in [reg. 4(1)(b)(i)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/1/b/i) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf492975257c8f4f63aaba2459c8de0d]: Textual amendment: Words in [reg. 4(1)(b)(i)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/1/b/i) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-727117dbfa748f458565142d5f335282]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/1/b/ii) inserted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-727117dbfa748f458565142d5f335282]: Textual amendment: Words in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/1/b/ii) inserted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3729e8548cb34986c3e165bc2c45e4f]: Textual amendment: Word in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/1/b/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 13(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/13/2)
+[^c-f3729e8548cb34986c3e165bc2c45e4f]: Textual amendment: Word in [reg. 4(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/1/b/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 13(2)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/13/2)
 
-[^key-64f77ce4f76e669d87cebc21af12debe]: Textual amendment: Words in [reg. 4(5)(b)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/5/b) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(3)(c)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64f77ce4f76e669d87cebc21af12debe]: Textual amendment: Words in [reg. 4(5)(b)](https://www.legislation.gov.uk/ssi/2009/266/regulation/4/5/b) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(3)(c)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c8b2710d302eb7cc480d562a1985e77e]: Textual amendment: Words in reg. 5(a) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/3)
+[^c-c8b2710d302eb7cc480d562a1985e77e]: Textual amendment: Words in reg. 5(a) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/3)
 
 [^c19826571]: Marginal citation: Both these conventions were implemented by Part VI, Chapters III and IV of the Merchant Shipping Act [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -858,51 +858,51 @@ A Transposition Note and Partial Regulatory Impact Assessment (RIA) have been pr
 
 [^c19826601]: Marginal citation: Copies of these can be found at www.nea.fr/.
 
-[^key-56d4954d6340882adc68a6372c181bed]: Textual amendment: Reg. 5(fa) inserted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [5](https://www.legislation.gov.uk/ssi/2015/214/regulation/5)
+[^c-56d4954d6340882adc68a6372c181bed]: Textual amendment: Reg. 5(fa) inserted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [5](https://www.legislation.gov.uk/ssi/2015/214/regulation/5)
 
 [^c19826611]: Marginal citation: The Convention is set out in Schedule 7 to the Merchant Shipping Act 1995, c.21.
 
-[^key-177d1770eb937e5deb2245614f9a79c7]: Textual amendment: Word in reg. 7(1)(b) omitted (19.7.2015) by virtue of [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2015/214/regulation/6/a)
+[^c-177d1770eb937e5deb2245614f9a79c7]: Textual amendment: Word in reg. 7(1)(b) omitted (19.7.2015) by virtue of [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [6(a)](https://www.legislation.gov.uk/ssi/2015/214/regulation/6/a)
 
-[^key-0dfea37aaec9d47c3cb52b8feae02abf]: Textual amendment: Reg. 7(1)(c)(d) substituted for reg. 7(1)(c) (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2015/214/regulation/6/b)
+[^c-0dfea37aaec9d47c3cb52b8feae02abf]: Textual amendment: Reg. 7(1)(c)(d) substituted for reg. 7(1)(c) (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2015/214/regulation/6/b)
 
-[^key-cfa33d4b6890eac1f54b755e59580cfa]: Textual amendment: Words in reg. 7(5)(b) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2015/214/regulation/6/c)
+[^c-cfa33d4b6890eac1f54b755e59580cfa]: Textual amendment: Words in reg. 7(5)(b) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [6(c)](https://www.legislation.gov.uk/ssi/2015/214/regulation/6/c)
 
-[^key-003e5663cb9cb4518a1e5f686d0bb979]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2009/266/regulation/7A) inserted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(4)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/4)
+[^c-003e5663cb9cb4518a1e5f686d0bb979]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/ssi/2009/266/regulation/7A) inserted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(4)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/4)
 
-[^key-ac27f52662619a674537e84eb0f312e7]: Textual amendment: Words in reg. 11(4)(b) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [7](https://www.legislation.gov.uk/ssi/2015/214/regulation/7)
+[^c-ac27f52662619a674537e84eb0f312e7]: Textual amendment: Words in reg. 11(4)(b) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [7](https://www.legislation.gov.uk/ssi/2015/214/regulation/7)
 
-[^key-ddbd75343581b1a0bc75f9437cb9c637]: Textual amendment: Word in [reg. 15(1)(a)](https://www.legislation.gov.uk/ssi/2009/266/regulation/15/1/a) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(4)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddbd75343581b1a0bc75f9437cb9c637]: Textual amendment: Word in [reg. 15(1)(a)](https://www.legislation.gov.uk/ssi/2009/266/regulation/15/1/a) substituted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(4)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3584634c68bbf2790555ad57800de0d9]: Textual amendment: [Reg. 15(3)(a)](https://www.legislation.gov.uk/ssi/2009/266/regulation/15/3/a) omitted (31.12.2020) by virtue of [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(4)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3584634c68bbf2790555ad57800de0d9]: Textual amendment: [Reg. 15(3)(a)](https://www.legislation.gov.uk/ssi/2009/266/regulation/15/3/a) omitted (31.12.2020) by virtue of [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(4)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3d7a2ee8981a5a241f91312b7c9ab5f2]: Textual amendment: Words in reg. 16(1) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2015/214/regulation/8/a)
+[^c-3d7a2ee8981a5a241f91312b7c9ab5f2]: Textual amendment: Words in reg. 16(1) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [8(a)](https://www.legislation.gov.uk/ssi/2015/214/regulation/8/a)
 
-[^key-cb77c5440bdaf2585b0e745828dba87f]: Textual amendment: Words in reg. 16(2)(a) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2015/214/regulation/8/b)
+[^c-cb77c5440bdaf2585b0e745828dba87f]: Textual amendment: Words in reg. 16(2)(a) substituted (19.7.2015) by [The Environmental Liability (Scotland) Amendment Regulations 2015 (S.S.I. 2015/214)](https://www.legislation.gov.uk/ssi/2015/214), [regs. 1](https://www.legislation.gov.uk/ssi/2015/214/regulation/1), [8(b)](https://www.legislation.gov.uk/ssi/2015/214/regulation/8/b)
 
-[^key-82d221e2db952efd571e62ca4dde5763]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/0A1) inserted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-82d221e2db952efd571e62ca4dde5763]: Textual amendment: [Sch. 1 para. A1](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/0A1) inserted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(5)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13981e1c72c5119e26e8c1e2b1a1a924]: Textual amendment: Word in [sch. 1 para. A1](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/A1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 13(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/13/3)
+[^c-13981e1c72c5119e26e8c1e2b1a1a924]: Textual amendment: Word in [sch. 1 para. A1](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/A1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 13(3)](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/13/3)
 
-[^key-bfbb563b52b8be8224309c9a59ab10c2]: Textual amendment: Sch. 1 paras. 1, 2 substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/a)
+[^c-bfbb563b52b8be8224309c9a59ab10c2]: Textual amendment: Sch. 1 paras. 1, 2 substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/a)
 
-[^key-65800c5fc5c06dcce1d818268a6ee6a7]: Textual amendment: Sch. 1 para. 2(3) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/18) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-65800c5fc5c06dcce1d818268a6ee6a7]: Textual amendment: Sch. 1 para. 2(3) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 18](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/18) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c19826691]: Marginal citation: O.J. No. L 64, 4.3.2006, p.52.
 
-[^key-641c15a60b4b6a215fb56cffd368923c]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/4) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/b)
+[^c-641c15a60b4b6a215fb56cffd368923c]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/4) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/b)
 
-[^key-392040bcbd520bfd589343924d77af60]: Textual amendment: [Sch. 1 paras. 7](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/7), [8](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/8) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(c)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/c)
+[^c-392040bcbd520bfd589343924d77af60]: Textual amendment: [Sch. 1 paras. 7](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/7), [8](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/8) substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(c)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/c)
 
-[^key-415c2dc6ede97ddd2ca5ffae38db23e2]: Textual amendment: Words in sch. 1 para. 9 substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(d)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/d)
+[^c-415c2dc6ede97ddd2ca5ffae38db23e2]: Textual amendment: Words in sch. 1 para. 9 substituted (31.10.2019) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/a), [2(5)(d)](https://www.legislation.gov.uk/ssi/2019/276/regulation/2/5/d)
 
-[^key-de68678cbee0f27d7b6d2d875ab27fe3]: Textual amendment: Words in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/11) inserted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(5)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de68678cbee0f27d7b6d2d875ab27fe3]: Textual amendment: Words in [sch. 1 para. 11](https://www.legislation.gov.uk/ssi/2009/266/schedule/1/paragraph/11) inserted (31.12.2020) by [The Environmental Liability etc. (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/276)](https://www.legislation.gov.uk/ssi/2019/276), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/1/1/b), [4(5)(b)](https://www.legislation.gov.uk/ssi/2019/276/regulation/4/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19826791]: Marginal citation: O.J. No. L 190, 12.7.2006, p.1, as last amended by Commission Regulation (EC) No. 669/2008 (O.J. No. L 188, 16.7.2008, p.7).
 
 [^c19826801]: Marginal citation: O.J. No. L 102, 11.4.2006, p.15.
 
-[^key-4b1743a273b2fc68610a8b0c98f5fcea]: Textual amendment: Sch. 1 para. 13 inserted (25.6.2011) by [The Environmental Liability (Scotland) Amendment Regulations 2011 (S.S.I. 2011/116)](https://www.legislation.gov.uk/ssi/2011/116), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/116/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/116/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/116/regulation/1/2))
+[^c-4b1743a273b2fc68610a8b0c98f5fcea]: Textual amendment: Sch. 1 para. 13 inserted (25.6.2011) by [The Environmental Liability (Scotland) Amendment Regulations 2011 (S.S.I. 2011/116)](https://www.legislation.gov.uk/ssi/2011/116), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/116/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2011/116/regulation/2/2) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/116/regulation/1/2))
 
 [^c19826811]: Marginal citation: [1963 c.51](https://www.legislation.gov.uk/ukpga/1963/51).
 

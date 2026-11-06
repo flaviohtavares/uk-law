@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106.[^key-d5a07ec0ca36a819d2b50f063144f475]
+## 106.[^c-d5a07ec0ca36a819d2b50f063144f475]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 45 (confidential information) has effect as if—
 
 ## Annotations
 
-[^key-d5a07ec0ca36a819d2b50f063144f475]: Commencement: Reg. 106 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-d5a07ec0ca36a819d2b50f063144f475]: Commencement: Reg. 106 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

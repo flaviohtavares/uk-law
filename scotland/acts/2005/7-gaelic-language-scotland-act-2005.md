@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to establish a body having functions exercisab
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 21st April 2005 and received Royal Assent on 1st June 2005
 
-## Status of the Gaelic language[^key-5af9871e772d41a8753b85283e1a5cb6]
+## Status of the Gaelic language[^c-5af9871e772d41a8753b85283e1a5cb6]
 
 ### A1. Status of the Gaelic language
 
@@ -63,20 +63,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) promoting, and facilitating the promotion of—
   - (i) the use and understanding of the Gaelic language, and
   - (ii) Gaelic education and Gaelic culture,
-- (aa)[^key-86bd71485db0fe99dd76354b6c5cd682] monitoring, and reporting to the Scottish Ministers on, compliance by relevant public authorities with their duties under this Act,
+- (aa)[^c-86bd71485db0fe99dd76354b6c5cd682] monitoring, and reporting to the Scottish Ministers on, compliance by relevant public authorities with their duties under this Act,
 - (ab) advising and assisting (either on request or when it thinks fit) any person on matters relating to the development of the Gaelic language, Gaelic education and Gaelic culture in a particular area,
 - (b) advising (either on request or when it thinks fit) the Scottish Ministers, public bodies and other persons exercising functions of a public nature on matters relating to the Gaelic language, Gaelic education and Gaelic culture,
 - (c) advising (on request) other persons on matters relating to the Gaelic language, Gaelic education and Gaelic culture,
-- (d)[^key-a1e311c005330300fe1f075dc51b0705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a1e311c005330300fe1f075dc51b0705] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The functions conferred on the Bòrd by this Act are to be exercised with a view to ensuring that the Gaelic language is treated with[^key-0ead9f58b8662cb0150f86903a7a2287] equal respect to the English language through—
+(3) The functions conferred on the Bòrd by this Act are to be exercised with a view to ensuring that the Gaelic language is treated with[^c-0ead9f58b8662cb0150f86903a7a2287] equal respect to the English language through—
 
-- (za)[^key-96129870f51fd4986b476bf8c6ba2323] encouraging and supporting the use and understanding of the Gaelic language, with a particular focus on areas of linguistic significance,
+- (za)[^c-96129870f51fd4986b476bf8c6ba2323] encouraging and supporting the use and understanding of the Gaelic language, with a particular focus on areas of linguistic significance,
 - (a) increasing the number of persons who are able to use and understand the Gaelic language,
-- (b)[^key-d8b224e79083d114408c3e97bff2c307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d8b224e79083d114408c3e97bff2c307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) facilitating access, in Scotland and elsewhere, to the Gaelic language and Gaelic culture.
 
-(3A)[^key-7c24a6dba665348dc1cff3a7f7bc749f] The Bòrd must, on the request of a relevant public authority, provide the authority free of charge with assistance in relation to the application of this Act to the authority.
+(3A)[^c-7c24a6dba665348dc1cff3a7f7bc749f] The Bòrd must, on the request of a relevant public authority, provide the authority free of charge with assistance in relation to the application of this Act to the authority.
 
 (3B) In giving assistance under subsection (3A), the Bòrd must seek to give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the Gaelic and English languages should be accorded equal respect.
 
@@ -88,7 +88,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) Schedule 1 makes further provision with respect to the status, constitution, proceedings, etc. of the Bòrd.
 
-## Areas of linguistic significance[^key-e402cbae8ea5707a8869a083b29f382c]
+## Areas of linguistic significance[^c-e402cbae8ea5707a8869a083b29f382c]
 
 ### 1A. Meaning of “area of linguistic significance”
 
@@ -247,7 +247,7 @@ prepare and submit to the Scottish Ministers a national Gaelic language plan whi
 - (a) publish it in such manner as it thinks fit, and
 - (b) lay a copy of it before the Parliament.
 
-## Functions of relevant public authorities[^key-c798eee2ffa72fbcdbb6492b48a988ae]
+## Functions of relevant public authorities[^c-c798eee2ffa72fbcdbb6492b48a988ae]
 
 ### 2D. Duties of relevant public authorities relating to Gaelic language and culture
 
@@ -300,7 +300,7 @@ a direction given under this section.
 
 (3) In deciding whether to give a notice under subsection (1) to an authority, the Bòrd must have regard to—
 
-- (a)[^key-36d79ff13183d322e303a71d1f41eef9] any national Gaelic language plan published under section 2 which is for the time being in effect,
+- (a)[^c-36d79ff13183d322e303a71d1f41eef9] any national Gaelic language plan published under section 2 which is for the time being in effect,
 - (b) the extent to which—
   - (i) the Gaelic language is used by persons in relation to whom the functions of the authority are exercisable, and
   - (ii) in the Bòrd's opinion, there is potential for the authority to develop the use of the Gaelic language in connection with the exercise of those functions,
@@ -310,21 +310,21 @@ a direction given under this section.
 (4) A Gaelic language plan must—
 
 - (a) set out the measures to be taken by the relevant public authority in relation to the use of the Gaelic language in connection with the exercise of the authority's functions,
-- (aa)[^key-2adc30848346285cc777ab4bee2a3f92] where the relevant public authority exercises functions in an area that has been designated under section 1B as an area of linguistic significance, set out the measures in relation to the use of the Gaelic language to be taken by the authority in connection with the exercise of its functions in that area,
+- (aa)[^c-2adc30848346285cc777ab4bee2a3f92] where the relevant public authority exercises functions in an area that has been designated under section 1B as an area of linguistic significance, set out the measures in relation to the use of the Gaelic language to be taken by the authority in connection with the exercise of its functions in that area,
 - (b) specify the date by which the measures are to be taken, and
 - (c) contain such other information as may be prescribed in regulations made under subsection (7).
 
 (5) A relevant public authority, in preparing a Gaelic language plan, must have regard to—
 
-- (a)[^key-4dedb1c1bda8ad20a60e402ef391068c] any national Gaelic language plan published under section 2 which is for the time being in effect,
-- (aa)[^key-12a7b7f3c9e10a5dbba06c956b7cd7bf] the most recent national Gaelic language strategy published under section 2A,
+- (a)[^c-4dedb1c1bda8ad20a60e402ef391068c] any national Gaelic language plan published under section 2 which is for the time being in effect,
+- (aa)[^c-12a7b7f3c9e10a5dbba06c956b7cd7bf] the most recent national Gaelic language strategy published under section 2A,
 - (ab) the principle that the Gaelic and English languages should be accorded equal respect,
 - (b) the extent to which the persons in relation to whom the authority's functions are exercisable use the Gaelic language,
 - (c) the potential for developing the use of the Gaelic language in connection with the exercise of those functions,
 - (d) any representations made to the authority in relation to the use of the Gaelic language in connection with the exercise of those functions, and
 - (e) any guidance given by the Scottish Ministers or the Bòrd.
 
-(6) In preparing a Gaelic language plan, a relevant public authority must consult—[^key-c20e127e75feec8217d988f69f63041b]
+(6) In preparing a Gaelic language plan, a relevant public authority must consult—[^c-c20e127e75feec8217d988f69f63041b]
 
 - (a) people with Gaelic language skills in relation to whom the authority exercises functions,
 - (b) persons with an interest in the promotion of the Gaelic language, and
@@ -332,7 +332,7 @@ a direction given under this section.
 
 (7) The Scottish Ministers may, after consulting the Bòrd, by regulations make further provision in relation to the content of Gaelic language plans.
 
-(8) Those regulations may make different provision for different purposes or for different types of authority *(affected by repeal, see note)*[^key-02e9404c2ed77a1cff8879154faabdfd] may in particular—
+(8) Those regulations may make different provision for different purposes or for different types of authority *(affected by repeal, see note)*[^c-02e9404c2ed77a1cff8879154faabdfd] may in particular—
 
 - (a) make further provision about the required content of Gaelic language plans in respect of areas that have been designated under section 1B as areas of linguistic significance,
 
@@ -446,19 +446,19 @@ and must take account of any representations made by the Bòrd or the authority 
 
 (4) A relevant public authority may, without undertaking a review, at any time amend a Gaelic language plan published under section 5(9) (for example, by correcting an error or by updating factual information which has changed) in a way that does not alter the plan substantially.
 
-### 7A. Guidance and directions by Scottish Ministers[^key-530d74522a5e3cb36a997417750431d7]
+### 7A. Guidance and directions by Scottish Ministers[^c-530d74522a5e3cb36a997417750431d7]
 
 (1) The Scottish Ministers may give guidance to relevant public authorities relating to Gaelic language plans.
 
 (2) A relevant public authority must have regard to any guidance given by the Scottish Ministers under subsection (1).
 
-(6)[^key-9acc2f7d46310e84fbd4130c2a3dbdf7] Where the authority required to prepare a Gaelic language plan under this Act is an education authority, the Scottish Ministers may give a direction to that authority relating to the application of the standards and requirements specified in regulations made under section 6B of the Education (Scotland) Act 2016 to the preparation of the plan.
+(6)[^c-9acc2f7d46310e84fbd4130c2a3dbdf7] Where the authority required to prepare a Gaelic language plan under this Act is an education authority, the Scottish Ministers may give a direction to that authority relating to the application of the standards and requirements specified in regulations made under section 6B of the Education (Scotland) Act 2016 to the preparation of the plan.
 
 (7) The Scottish Ministers may vary or revoke a direction given under subsection (6).
 
 (8) An education authority must comply with a direction given to it under subsection (6).
 
-## Financial assistance for the promotion etc. of the Gaelic language[^key-c866265742f5173ec8069b002e27a265]
+## Financial assistance for the promotion etc. of the Gaelic language[^c-c866265742f5173ec8069b002e27a265]
 
 ### 7B. Financial assistance for the promotion etc. of the Gaelic language
 
@@ -468,7 +468,7 @@ and must take account of any representations made by the Bòrd or the authority 
 
 (3) Financial assistance under subsection (1) may be made subject to such conditions as the Scottish Ministers think fit.
 
-## Scottish Ministers’ powers relating to research etc.[^key-8b7c88c9acf91ffd2db5e5532a6b82d5]
+## Scottish Ministers’ powers relating to research etc.[^c-8b7c88c9acf91ffd2db5e5532a6b82d5]
 
 ### 7C. Scottish Ministers’ powers relating to research etc.
 
@@ -511,30 +511,30 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 
 (10) In preparing guidance under subsection (1) and giving advice and assistance under subsection (9), the Bòrd must seek to give effect, so far as is both appropriate in the circumstances and reasonably practicable, to the principle that the Gaelic and English languages should be accorded equal respect.
 
-## Gaelic education (affected by repeal, see note)[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+## Gaelic education (affected by repeal, see note)[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
 ### 9. Guidance on Gaelic education
 
-(1) The Bòrd *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7] must[^key-9ed286d7346692ca44f575b496b1b95c] *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7] prepare and submit to the Scottish Ministers guidance in relation to the provision of Gaelic education and the development of such provision. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+(1) The Bòrd *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7] must[^c-9ed286d7346692ca44f575b496b1b95c] *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7] prepare and submit to the Scottish Ministers guidance in relation to the provision of Gaelic education and the development of such provision. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
-(1A)[^key-ccb8ab1f1cc8092bfebc069170cd8a65] Guidance under subsection (1) may, in particular, include provision relating to the provision of Gaelic education in schools. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+(1A)[^c-ccb8ab1f1cc8092bfebc069170cd8a65] Guidance under subsection (1) may, in particular, include provision relating to the provision of Gaelic education in schools. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
-(1B) In subsection (1A), “ *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]**schools *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+(1B) In subsection (1A), “ *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]**schools *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]**” has the meaning given by section 135(1) of the Education (Scotland) Act 1980. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
-(2) Subsections (2) to (8) of section 8 apply to guidance under subsection (1) as they apply to guidance under subsection (1) of that section. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+(2) Subsections (2) to (8) of section 8 apply to guidance under subsection (1) as they apply to guidance under subsection (1) of that section. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
-(2A)[^key-c220e910b6caa7ac7d479440065b1631] Any relevant public authority having functions relating to, or to the provision of, Gaelic education must, to the extent that guidance under subsection (1) relates to the functions, have regard to the guidance in carrying out the functions. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+(2A)[^c-c220e910b6caa7ac7d479440065b1631] Any relevant public authority having functions relating to, or to the provision of, Gaelic education must, to the extent that guidance under subsection (1) relates to the functions, have regard to the guidance in carrying out the functions. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
-(3) After subsection (4) of section 5 (education authority's annual statement of improvement objectives) of the Standards in Scotland's Schools *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7] etc. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7] Act 2000 (asp 6), insert— *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+(3) After subsection (4) of section 5 (education authority's annual statement of improvement objectives) of the Standards in Scotland's Schools *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7] etc. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7] Act 2000 (asp 6), insert— *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
-> (4A) In complying with subsection (2)(c) above, an education authority shall have regard to— *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+> (4A) In complying with subsection (2)(c) above, an education authority shall have regard to— *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 >
-> - (a) any Gaelic language plan published by the authority under section 5(9) of the Gaelic Language (Scotland) Act 2005 (asp 7), and *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
-> - (b) any guidance published by Bòrd na Gàidhlig under section 9 of that Act. *(affected by repeal, see note)*[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]
+> - (a) any Gaelic language plan published by the authority under section 5(9) of the Gaelic Language (Scotland) Act 2005 (asp 7), and *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
+> - (b) any guidance published by Bòrd na Gàidhlig under section 9 of that Act. *(affected by repeal, see note)*[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]
 
 .
 
-## Enforcement of duties[^key-f62f5f913268037daa2599beb85001e7]
+## Enforcement of duties[^c-f62f5f913268037daa2599beb85001e7]
 
 ### 9A. Power to enforce duties of relevant public authorities
 
@@ -555,7 +555,7 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 (1) In this Act—
 
 - “**Gaelic culture**” includes the traditions, ideas, customs, heritage and identity of those who speak or understand the Gaelic language,
-- “**Gaelic education**” means education consisting of teaching and learning[^key-d2548cf7efe3ab88a3f88043d6446214]—
+- “**Gaelic education**” means education consisting of teaching and learning[^c-d2548cf7efe3ab88a3f88043d6446214]—
   - (a) in the use and understanding of,
   - (b) about, or
   - (c) by means of,
@@ -568,13 +568,13 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 (2) References in this Act to a relevant public authority are to—
 
 - (a) a Scottish public authority,
-- (b) so far as not falling within paragraph (a), a cross-border public authority (but only in relation to functions exercisable in or as regards Scotland which do not relate to reserved matters), [^key-65d9353b555061edd1d80562a6e1e51a]. . .
-- (ba)[^key-3ce43f140eeea8b8d03db1c948b68f08] a post-16 education body within the meaning of section 35 of the Further and Higher Education (Scotland) Act 2005,
+- (b) so far as not falling within paragraph (a), a cross-border public authority (but only in relation to functions exercisable in or as regards Scotland which do not relate to reserved matters), [^c-65d9353b555061edd1d80562a6e1e51a]. . .
+- (ba)[^c-3ce43f140eeea8b8d03db1c948b68f08] a post-16 education body within the meaning of section 35 of the Further and Higher Education (Scotland) Act 2005,
 - (bb) Scottish Rail Holdings,
 - (bc) Scottish Water, and
 - (c) the Scottish Parliamentary Corporate Body.
 
-(3)[^key-cc57eea106e480f9db2a9eaf16218d61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cc57eea106e480f9db2a9eaf16218d61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For the purposes of this Act, the functions of a relevant public authority include—
 
@@ -716,7 +716,7 @@ appointed by the Scottish Ministers.
 - (i) invest sums not immediately required in relation to the exercise of its functions,
 - (j) commission research.
 
-(2) Sub-paragraph (1)(g) does not entitle the Bòrd to make charges for the provision of advice and assistance to relevant public authorities under section 1(3A)[^key-c6f12b1d30d1ac9104cc9b9e50e89fef].
+(2) Sub-paragraph (1)(g) does not entitle the Bòrd to make charges for the provision of advice and assistance to relevant public authorities under section 1(3A)[^c-c6f12b1d30d1ac9104cc9b9e50e89fef].
 
 ### Grants
 
@@ -752,66 +752,66 @@ appointed by the Scottish Ministers.
 
 ## Annotations
 
-[^key-5af9871e772d41a8753b85283e1a5cb6]: Textual amendment: S. A1 and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 1(2)](https://www.legislation.gov.uk/asp/2025/10/section/1/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-5af9871e772d41a8753b85283e1a5cb6]: Textual amendment: S. A1 and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 1(2)](https://www.legislation.gov.uk/asp/2025/10/section/1/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-86bd71485db0fe99dd76354b6c5cd682]: Textual amendment: S. 1(2)(aa)(ab) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/a/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-86bd71485db0fe99dd76354b6c5cd682]: Textual amendment: S. 1(2)(aa)(ab) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/a/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-a1e311c005330300fe1f075dc51b0705]: Textual amendment: S. 1(2)(d) repealed (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(a)(ii)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/a/ii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-a1e311c005330300fe1f075dc51b0705]: Textual amendment: S. 1(2)(d) repealed (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(a)(ii)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/a/ii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-0ead9f58b8662cb0150f86903a7a2287]: Textual amendment: Words in s. 1(3) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/b/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-0ead9f58b8662cb0150f86903a7a2287]: Textual amendment: Words in s. 1(3) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/b/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-96129870f51fd4986b476bf8c6ba2323]: Textual amendment: S. 1(3)(za) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/b/ii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-96129870f51fd4986b476bf8c6ba2323]: Textual amendment: S. 1(3)(za) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/b/ii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-d8b224e79083d114408c3e97bff2c307]: Textual amendment: S. 1(3)(b) repealed (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(b)(iii)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/b/iii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-d8b224e79083d114408c3e97bff2c307]: Textual amendment: S. 1(3)(b) repealed (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(b)(iii)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/b/iii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-7c24a6dba665348dc1cff3a7f7bc749f]: Textual amendment: S. 1(3A)-(3C) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(c)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/c), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-7c24a6dba665348dc1cff3a7f7bc749f]: Textual amendment: S. 1(3A)-(3C) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(2)(c)](https://www.legislation.gov.uk/asp/2025/10/section/2/2/c), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-e402cbae8ea5707a8869a083b29f382c]: Textual amendment: [Ss. 1A-1D](https://www.legislation.gov.uk/asp/2005/7/section/1A) and cross-heading inserted (21.3.2026 for specified purposes, 1.9.2026 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/10/section/4/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
+[^c-e402cbae8ea5707a8869a083b29f382c]: Textual amendment: [Ss. 1A-1D](https://www.legislation.gov.uk/asp/2005/7/section/1A) and cross-heading inserted (21.3.2026 for specified purposes, 1.9.2026 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 4(2)](https://www.legislation.gov.uk/asp/2025/10/section/4/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
 
-[^key-c798eee2ffa72fbcdbb6492b48a988ae]: Textual amendment: Ss. 2D-2F and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 7(2)](https://www.legislation.gov.uk/asp/2025/10/section/7/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c798eee2ffa72fbcdbb6492b48a988ae]: Textual amendment: Ss. 2D-2F and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 7(2)](https://www.legislation.gov.uk/asp/2025/10/section/7/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-36d79ff13183d322e303a71d1f41eef9]: Textual amendment: S. 3(3)(a) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/a/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-36d79ff13183d322e303a71d1f41eef9]: Textual amendment: S. 3(3)(a) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(a)(i)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/a/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-2adc30848346285cc777ab4bee2a3f92]: Textual amendment: [S. 3(4)(aa)](https://www.legislation.gov.uk/asp/2005/7/section/3/4/aa) inserted (21.3.2026 for specified purposes, 1.9.2026 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 4(3)(a)](https://www.legislation.gov.uk/asp/2025/10/section/4/3/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
+[^c-2adc30848346285cc777ab4bee2a3f92]: Textual amendment: [S. 3(4)(aa)](https://www.legislation.gov.uk/asp/2005/7/section/3/4/aa) inserted (21.3.2026 for specified purposes, 1.9.2026 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 4(3)(a)](https://www.legislation.gov.uk/asp/2025/10/section/4/3/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
 
-[^key-4dedb1c1bda8ad20a60e402ef391068c]: Textual amendment: S. 3(5)(a) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/b/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-4dedb1c1bda8ad20a60e402ef391068c]: Textual amendment: S. 3(5)(a) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(b)(i)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/b/i), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-12a7b7f3c9e10a5dbba06c956b7cd7bf]: Textual amendment: S. 3(5)(aa)(ab) inserted (30.11.2025 for the insertion of s. 3(5)(ab), otherwise prosp.) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/b/ii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-12a7b7f3c9e10a5dbba06c956b7cd7bf]: Textual amendment: S. 3(5)(aa)(ab) inserted (30.11.2025 for the insertion of s. 3(5)(ab), otherwise prosp.) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(b)(ii)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/b/ii), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-c20e127e75feec8217d988f69f63041b]: Textual amendment: Words in s. 3(6) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(c)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/c), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c20e127e75feec8217d988f69f63041b]: Textual amendment: Words in s. 3(6) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(2)(c)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/c), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-02e9404c2ed77a1cff8879154faabdfd]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/asp/2005/7/section/3/8) substituted (21.3.2026 for specified purposes, 1.9.2026 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 4(3)(b)](https://www.legislation.gov.uk/asp/2025/10/section/4/3/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
+[^c-02e9404c2ed77a1cff8879154faabdfd]: Textual amendment: Words in [s. 3(8)](https://www.legislation.gov.uk/asp/2005/7/section/3/8) substituted (21.3.2026 for specified purposes, 1.9.2026 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 4(3)(b)](https://www.legislation.gov.uk/asp/2025/10/section/4/3/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
 
-[^key-530d74522a5e3cb36a997417750431d7]: Textual amendment: S. 7A inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(6)](https://www.legislation.gov.uk/asp/2025/10/section/9/6), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-530d74522a5e3cb36a997417750431d7]: Textual amendment: S. 7A inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 9(6)](https://www.legislation.gov.uk/asp/2025/10/section/9/6), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-9acc2f7d46310e84fbd4130c2a3dbdf7]: Textual amendment: S. 7A(6)-(8) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 16(5)](https://www.legislation.gov.uk/asp/2025/10/section/16/5), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-9acc2f7d46310e84fbd4130c2a3dbdf7]: Textual amendment: S. 7A(6)-(8) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 16(5)](https://www.legislation.gov.uk/asp/2025/10/section/16/5), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-c866265742f5173ec8069b002e27a265]: Textual amendment: S. 7B and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 10(2)](https://www.legislation.gov.uk/asp/2025/10/section/10/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c866265742f5173ec8069b002e27a265]: Textual amendment: S. 7B and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 10(2)](https://www.legislation.gov.uk/asp/2025/10/section/10/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-8b7c88c9acf91ffd2db5e5532a6b82d5]: Textual amendment: S. 7C and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 11(2)](https://www.legislation.gov.uk/asp/2025/10/section/11/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-8b7c88c9acf91ffd2db5e5532a6b82d5]: Textual amendment: S. 7C and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 11(2)](https://www.legislation.gov.uk/asp/2025/10/section/11/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-3679777b7da687c1cf5a3bbd1b4bd3d7]: Textual amendment: S. 9 and cross-heading repealed (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(8)](https://www.legislation.gov.uk/asp/2025/10/section/17/8), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-3679777b7da687c1cf5a3bbd1b4bd3d7]: Textual amendment: S. 9 and cross-heading repealed (30.11.2025 for specified purposes) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 17(8)](https://www.legislation.gov.uk/asp/2025/10/section/17/8), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-9ed286d7346692ca44f575b496b1b95c]: Textual amendment: Word in s. 9(1) substituted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 16(2)](https://www.legislation.gov.uk/asp/2016/8/section/16/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-9ed286d7346692ca44f575b496b1b95c]: Textual amendment: Word in s. 9(1) substituted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 16(2)](https://www.legislation.gov.uk/asp/2016/8/section/16/2), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-ccb8ab1f1cc8092bfebc069170cd8a65]: Textual amendment: S. 9(1A)(1B) inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 16(3)](https://www.legislation.gov.uk/asp/2016/8/section/16/3), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-ccb8ab1f1cc8092bfebc069170cd8a65]: Textual amendment: S. 9(1A)(1B) inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 16(3)](https://www.legislation.gov.uk/asp/2016/8/section/16/3), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-c220e910b6caa7ac7d479440065b1631]: Textual amendment: S. 9(2A) inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 16(4)](https://www.legislation.gov.uk/asp/2016/8/section/16/4), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-c220e910b6caa7ac7d479440065b1631]: Textual amendment: S. 9(2A) inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 16(4)](https://www.legislation.gov.uk/asp/2016/8/section/16/4), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
-[^key-f62f5f913268037daa2599beb85001e7]: Textual amendment: S. 9A and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 12(2)](https://www.legislation.gov.uk/asp/2025/10/section/12/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-f62f5f913268037daa2599beb85001e7]: Textual amendment: S. 9A and cross-heading inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 12(2)](https://www.legislation.gov.uk/asp/2025/10/section/12/2), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-d2548cf7efe3ab88a3f88043d6446214]: Textual amendment: Words in s. 10(1) inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 17(1)](https://www.legislation.gov.uk/asp/2016/8/section/17/1), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
+[^c-d2548cf7efe3ab88a3f88043d6446214]: Textual amendment: Words in s. 10(1) inserted (15.7.2016) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 17(1)](https://www.legislation.gov.uk/asp/2016/8/section/17/1), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/192](https://www.legislation.gov.uk/ssi/2016/192), [reg. 2](https://www.legislation.gov.uk/ssi/2016/192/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/192/schedule)
 
 [^c2032540]: Textual amendment: S. 10(1A) inserted (23.6.2006) by [The Electronic Communications (Scotland) Order 2006 (S.S.I. 2006/367)](https://www.legislation.gov.uk/ssi/2006/367), [art. 7](https://www.legislation.gov.uk/ssi/2006/367/article/7)
 
-[^key-65d9353b555061edd1d80562a6e1e51a]: Textual amendment: Word in s. 10(2) repealed (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 13(2)(a)](https://www.legislation.gov.uk/asp/2025/10/section/13/2/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-65d9353b555061edd1d80562a6e1e51a]: Textual amendment: Word in s. 10(2) repealed (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 13(2)(a)](https://www.legislation.gov.uk/asp/2025/10/section/13/2/a), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-3ce43f140eeea8b8d03db1c948b68f08]: Textual amendment: S. 10(2)(ba)-(bc) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 13(2)(b)](https://www.legislation.gov.uk/asp/2025/10/section/13/2/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-3ce43f140eeea8b8d03db1c948b68f08]: Textual amendment: S. 10(2)(ba)-(bc) inserted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 13(2)(b)](https://www.legislation.gov.uk/asp/2025/10/section/13/2/b), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-cc57eea106e480f9db2a9eaf16218d61]: Textual amendment: S. 10(3) repealed (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 9](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/9) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
+[^c-cc57eea106e480f9db2a9eaf16218d61]: Textual amendment: S. 10(3) repealed (1.4.2015) by [Food (Scotland) Act 2015 (asp 1)](https://www.legislation.gov.uk/asp/2015/1), [s. 63(2)](https://www.legislation.gov.uk/asp/2015/1/section/63/2), [Sch. para. 9](https://www.legislation.gov.uk/asp/2015/1/schedule/paragraph/9) (with [s. 62](https://www.legislation.gov.uk/asp/2015/1/section/62)); [S.S.I. 2015/99](https://www.legislation.gov.uk/ssi/2015/99), [art. 2](https://www.legislation.gov.uk/ssi/2015/99/article/2)
 
 [^c2035273]: Subordinate legislation: S. 13(2) power fully exercised: 13.2.2006 appointed by {[S.S.I. 2006/31](https://www.legislation.gov.uk/ssi/2006/31)}, art. 2
 
 [^c2032549]: Textual amendment: Words in [sch. 1 para. 11(1)(b)](https://www.legislation.gov.uk/asp/2005/7/schedule/1/paragraph/11/1/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 249](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/249) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-c6f12b1d30d1ac9104cc9b9e50e89fef]: Textual amendment: Word in [sch. 1 para. 11(2)](https://www.legislation.gov.uk/asp/2005/7/schedule/1/paragraph/11/2) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(3)](https://www.legislation.gov.uk/asp/2025/10/section/2/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c6f12b1d30d1ac9104cc9b9e50e89fef]: Textual amendment: Word in [sch. 1 para. 11(2)](https://www.legislation.gov.uk/asp/2005/7/schedule/1/paragraph/11/2) substituted (30.11.2025) by [Scottish Languages Act 2025 (asp 10)](https://www.legislation.gov.uk/asp/2025/10), [ss. 2(3)](https://www.legislation.gov.uk/asp/2025/10/section/2/3), [48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2); [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)

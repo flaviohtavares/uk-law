@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Rules for Senedd elections[^key-dc4d8665ac326d9df50efce813e1dd67]
+## 17. Rules for Senedd elections[^c-dc4d8665ac326d9df50efce813e1dd67]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc4d8665ac326d9df50efce813e1dd67]: Commencement: Art. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-dc4d8665ac326d9df50efce813e1dd67]: Commencement: Art. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Penalties for failure to comply with notice under section 12[^key-94de8f9be26f0e0adc2bea8185b02709]
+## 13. Penalties for failure to comply with notice under section 12[^c-94de8f9be26f0e0adc2bea8185b02709]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94de8f9be26f0e0adc2bea8185b02709]: Commencement: S. 13 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-94de8f9be26f0e0adc2bea8185b02709]: Commencement: S. 13 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Interpretation[^key-909b9ea2f1bc6dff092e2a7c245f3511]
+## 30. Interpretation[^c-909b9ea2f1bc6dff092e2a7c245f3511]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In this Chapter, “**the 2013 Regulations**” means the Working with Children 
 
 ## Annotations
 
-[^key-909b9ea2f1bc6dff092e2a7c245f3511]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-909b9ea2f1bc6dff092e2a7c245f3511]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691151]: Marginal citation: [S.I. 2013/2945](https://www.legislation.gov.uk/uksi/2013/2945).

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Relevant funds must be safeguarded in accordance with either regulation 21 or regulation 22.
 
-(2A)[^key-1c7d55b27e8dd05b710c5b68ff2a40a9] An electronic money institution may safeguard certain relevant funds in accordance with regulation 21 and the remaining relevant funds in accordance with regulation 22.
+(2A)[^c-1c7d55b27e8dd05b710c5b68ff2a40a9] An electronic money institution may safeguard certain relevant funds in accordance with regulation 21 and the remaining relevant funds in accordance with regulation 22.
 
 (3) Where—
 
@@ -42,7 +42,7 @@ provided that such funds must be safeguarded by the end of five business days af
 
 (5) In paragraphs (1) to (4) and in regulations 21 to 24 references to an electronic money institution include references to a credit union.
 
-(6) Regulation 23 of the Payment Services Regulations 2017[^key-61605825ccd4a93638c7e06049bca5c1] applies in relation to funds received by electronic money institutions and credit unions for the execution of payment transactions that are not related to the issuance of electronic money with the following modifications—
+(6) Regulation 23 of the Payment Services Regulations 2017[^c-61605825ccd4a93638c7e06049bca5c1] applies in relation to funds received by electronic money institutions and credit unions for the execution of payment transactions that are not related to the issuance of electronic money with the following modifications—
 
 - (a) references to an “authorised payment institution” are to be treated as references to an authorised electronic money institution;
 - (b) references to a “small payment institution” are to be treated as references to—
@@ -52,6 +52,6 @@ provided that such funds must be safeguarded by the end of five business days af
 
 ## Annotations
 
-[^key-1c7d55b27e8dd05b710c5b68ff2a40a9]: Textual amendment: Reg. 20(2A) inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(13)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/13/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-1c7d55b27e8dd05b710c5b68ff2a40a9]: Textual amendment: Reg. 20(2A) inserted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(13)(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/13/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
-[^key-61605825ccd4a93638c7e06049bca5c1]: Textual amendment: Words in reg. 20(6) substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(13)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/13/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-61605825ccd4a93638c7e06049bca5c1]: Textual amendment: Words in reg. 20(6) substituted (13.8.2017 for specified purposes, 13.10.2017 for specified purposes, 13.1.2018 in so far as not already in force) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/c/iii)[(3)(f)(i)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/3/f/i)[(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 5(13)(b)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/5/13/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))

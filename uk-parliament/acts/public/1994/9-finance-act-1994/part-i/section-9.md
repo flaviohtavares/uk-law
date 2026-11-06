@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Penalties for contraventions of statutory requirements.[^c14449101][^c14449091][^c14449111][^c15968871][^c15968911][^key-bcaa218f395852bc60fcc44c562549f1][^key-cc11aa3fd7cd8d63ea7e4645ef776697][^key-0267c9dbc17d2c6b2f51a0d802a7218b][^key-ae9e43ecfe24d401bf5b29db0cee81af][^key-a96a1d31b29be3f499e2d95a9c337bb9][^key-99f0398ea82b67cab4107753c50e6c6b]
+## 9. Penalties for contraventions of statutory requirements.[^c14449101][^c14449091][^c14449111][^c15968871][^c15968911][^c-bcaa218f395852bc60fcc44c562549f1][^c-cc11aa3fd7cd8d63ea7e4645ef776697][^c-0267c9dbc17d2c6b2f51a0d802a7218b][^c-ae9e43ecfe24d401bf5b29db0cee81af][^c-a96a1d31b29be3f499e2d95a9c337bb9][^c-99f0398ea82b67cab4107753c50e6c6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) Any person to whose conduct this section applies shall be liable—
 
 - (a) in the case of conduct in relation to which provision is made by subsection (4) below , or by or under any other enactment,[^c14449121] for the penalty attracted to be calculated by reference to an amount of, or an amount payable on account of, any duty of excise, to a penalty of whichever is the greater of 5 per cent. of that amount and £250; and
-- (b)[^key-0844e9d8093188184052d87efebd6aa4] in any other case, to a penalty of £250.
+- (b)[^c-0844e9d8093188184052d87efebd6aa4] in any other case, to a penalty of £250.
 
 (3) Subject to section 13(3) and (4) below, in the case of any conduct to which this section applies which is conduct in relation to which provision is made by subsection (4) or (5) below or any other enactment for that conduct to attract daily penalties, the person whose conduct it is—
 
@@ -83,18 +83,18 @@ that contravention shall also attract daily penalties.
 
 [^c15968911]: Modification: S. 9 applied (1.8.2002) by [S.I. 2002/1773](https://www.legislation.gov.uk/uksi/2002/1773), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2002/1773/regulation/15/2)
 
-[^key-bcaa218f395852bc60fcc44c562549f1]: Modification: S. 9 applied by 1979 c. 4, Sch. 2A para. 9(6) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1))
+[^c-bcaa218f395852bc60fcc44c562549f1]: Modification: S. 9 applied by 1979 c. 4, Sch. 2A para. 9(6) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1))
 
-[^key-cc11aa3fd7cd8d63ea7e4645ef776697]: Modification: S. 9 applied by 1979 c. 4, Sch. 2A para. 10(1)(a) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1))
+[^c-cc11aa3fd7cd8d63ea7e4645ef776697]: Modification: S. 9 applied by 1979 c. 4, Sch. 2A para. 10(1)(a) (as inserted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1))
 
-[^key-0267c9dbc17d2c6b2f51a0d802a7218b]: Modification: S. 9 applied (with modifications) by 1979 c. 7, s. 6B(2)(3) (as inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 56](https://www.legislation.gov.uk/ukpga/2015/11/section/56))
+[^c-0267c9dbc17d2c6b2f51a0d802a7218b]: Modification: S. 9 applied (with modifications) by 1979 c. 7, s. 6B(2)(3) (as inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 56](https://www.legislation.gov.uk/ukpga/2015/11/section/56))
 
-[^key-ae9e43ecfe24d401bf5b29db0cee81af]: Modification: S. 9 applied by 1979 c. 2, s. 60B(2)(4) (as inserted (1.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 paras. 6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/10); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2))
+[^c-ae9e43ecfe24d401bf5b29db0cee81af]: Modification: S. 9 applied by 1979 c. 2, s. 60B(2)(4) (as inserted (1.4.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 21 paras. 6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/6), [10](https://www.legislation.gov.uk/ukpga/2014/26/schedule/21/paragraph/10); [S.I. 2015/812](https://www.legislation.gov.uk/uksi/2015/812), [art. 2](https://www.legislation.gov.uk/uksi/2015/812/article/2))
 
-[^key-a96a1d31b29be3f499e2d95a9c337bb9]: Modification: S. 9 applied by 1979 c. 4, s. 55ZA(2) (as inserted (with effect in accordance with s. 81(2) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/81/1))
+[^c-a96a1d31b29be3f499e2d95a9c337bb9]: Modification: S. 9 applied by 1979 c. 4, s. 55ZA(2) (as inserted (with effect in accordance with s. 81(2) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/81/1))
 
-[^key-99f0398ea82b67cab4107753c50e6c6b]: Modification: S. 9 modified (with effect in accordance with [s. 130(2)](https://www.legislation.gov.uk/ukpga/1979/2/section/130/2) of the amending Act) by [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2), [Sch. 3 para. 18(6)(7)](https://www.legislation.gov.uk/ukpga/1979/2/schedule/3/paragraph/18/6/7) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/130/1))
+[^c-99f0398ea82b67cab4107753c50e6c6b]: Modification: S. 9 modified (with effect in accordance with [s. 130(2)](https://www.legislation.gov.uk/ukpga/1979/2/section/130/2) of the amending Act) by [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2), [Sch. 3 para. 18(6)(7)](https://www.legislation.gov.uk/ukpga/1979/2/schedule/3/paragraph/18/6/7) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 130(1)](https://www.legislation.gov.uk/ukpga/2021/26/section/130/1))
 
 [^c14449121]: Textual amendment: Words in s. 9(2)(a) substituted (28.7.2000) by [2000 c. 17](https://www.legislation.gov.uk/ukpga/2000/17), [s. 28](https://www.legislation.gov.uk/ukpga/2000/17/section/28)
 
-[^key-0844e9d8093188184052d87efebd6aa4]: Modification: S. 9(2)(b) applied (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2018/75/regulation/11)
+[^c-0844e9d8093188184052d87efebd6aa4]: Modification: S. 9(2)(b) applied (1.8.2018) by [The Tobacco Products Manufacturing Machinery (Licensing Scheme) Regulations 2018 (S.I. 2018/75)](https://www.legislation.gov.uk/uksi/2018/75), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/75/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2018/75/regulation/11)

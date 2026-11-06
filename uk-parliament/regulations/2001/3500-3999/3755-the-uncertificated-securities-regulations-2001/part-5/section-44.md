@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Actual notice[^key-303532bd726213447bb6e71af58a3f22]
+## 44. Actual notice[^c-303532bd726213447bb6e71af58a3f22]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purpose of determining under these Regulations whether a person has actu
 
 ## Annotations
 
-[^key-303532bd726213447bb6e71af58a3f22]: Commencement: Reg. 44 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-303532bd726213447bb6e71af58a3f22]: Commencement: Reg. 44 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Annual rate of ill-health pension under this scheme[^key-ca18adcc1ac01cb38e9b0423af2834fa]
+## 94. Annual rate of ill-health pension under this scheme[^c-ca18adcc1ac01cb38e9b0423af2834fa]
 
 *Extent: S*
 
@@ -38,7 +38,7 @@ summary: ''
 - “assumed period of pensionable service” means the period (expressed in years)—
   - (a) beginning with the day after the member’s period of service ceased; and
   - (b) ending with the day before the day on which the member will reach normal pension age under this scheme (assuming that the member lives until that age); and
-- “final pay” has the meaning given in regulation 149 but where a member was in part-time service at any time during the 12 months ending with the last day of pensionable service, or the earnings year, the amount of the member’s pensionable earnings is adjusted by increasing it to the amount payable as if the member had been in full-time service for that period.[^key-95c089980fa7f9cd4c879bc3c9168935]
+- “final pay” has the meaning given in regulation 149 but where a member was in part-time service at any time during the 12 months ending with the last day of pensionable service, or the earnings year, the amount of the member’s pensionable earnings is adjusted by increasing it to the amount payable as if the member had been in full-time service for that period.[^c-95c089980fa7f9cd4c879bc3c9168935]
 
 (5) The annual rate of an enhanced upper tier ill-health pension payable to a member whose aggregate period of service is 5 years or more is—
 
@@ -47,7 +47,7 @@ summary: ''
 where—
 
 - “assumed period of pensionable service” has the same meaning as in paragraph (4); and
-- “final pay” has the meaning given in regulation 149 but where a member was in part-time service at any time during the 12 months ending with the last day of pensionable service, or the earnings year, the amount of the member’s pensionable earnings is adjusted by increasing it to the amount payable as if the member had been in full-time service for that period.[^key-3a6334030eafcf4bf5b9fc72b6889418]
+- “final pay” has the meaning given in regulation 149 but where a member was in part-time service at any time during the 12 months ending with the last day of pensionable service, or the earnings year, the amount of the member’s pensionable earnings is adjusted by increasing it to the amount payable as if the member had been in full-time service for that period.[^c-3a6334030eafcf4bf5b9fc72b6889418]
 
 (6) In this regulation, “aggregate period of service” means—
 
@@ -64,7 +64,7 @@ where—
 
 ## Annotations
 
-[^key-ca18adcc1ac01cb38e9b0423af2834fa]: Commencement: Reg. 94 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-ca18adcc1ac01cb38e9b0423af2834fa]: Commencement: Reg. 94 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00051]: Footnote: For the annual rate of a transition member’s ill-health pension, see Schedule 4, Part 6.
 
@@ -72,6 +72,6 @@ where—
 
 [^f00053]: Footnote: Regulation 36 provides for the calculation of an amount of accrued earned pension. This amount forms the basis for determining the amount of retirement earned pension under regulation 60. The annual rate of retirement earned pension in relation to active members is calculated under regulation 88.
 
-[^key-95c089980fa7f9cd4c879bc3c9168935]: Textual amendment: Words in [reg. 94(4)](https://www.legislation.gov.uk/ssi/2015/142/regulation/94/4) inserted (with effect from 1.4.2015) by virtue of [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2/c), [11(2)(a)](https://www.legislation.gov.uk/ssi/2020/33/regulation/11/2/a)
+[^c-95c089980fa7f9cd4c879bc3c9168935]: Textual amendment: Words in [reg. 94(4)](https://www.legislation.gov.uk/ssi/2015/142/regulation/94/4) inserted (with effect from 1.4.2015) by virtue of [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2/c), [11(2)(a)](https://www.legislation.gov.uk/ssi/2020/33/regulation/11/2/a)
 
-[^key-3a6334030eafcf4bf5b9fc72b6889418]: Textual amendment: Words in [reg. 94(5)](https://www.legislation.gov.uk/ssi/2015/142/regulation/94/5) inserted (with effect from 1.4.2015) by virtue of [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2/c), [11(2)(b)](https://www.legislation.gov.uk/ssi/2020/33/regulation/11/2/b)
+[^c-3a6334030eafcf4bf5b9fc72b6889418]: Textual amendment: Words in [reg. 94(5)](https://www.legislation.gov.uk/ssi/2015/142/regulation/94/5) inserted (with effect from 1.4.2015) by virtue of [The Police Pensions (Amendment) (Scotland) Regulations 2020 (S.S.I. 2020/33)](https://www.legislation.gov.uk/ssi/2020/33), [regs. 1(2)(c)](https://www.legislation.gov.uk/ssi/2020/33/regulation/1/2/c), [11(2)(b)](https://www.legislation.gov.uk/ssi/2020/33/regulation/11/2/b)

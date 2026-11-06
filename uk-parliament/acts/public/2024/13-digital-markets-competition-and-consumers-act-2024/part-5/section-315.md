@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315. Offences etc[^key-905828d0d88fbfa33545afd8dde8d275][^key-7f9f9186b5754d4e55699edfe104d201]
+## 315. Offences etc[^c-905828d0d88fbfa33545afd8dde8d275][^c-7f9f9186b5754d4e55699edfe104d201]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-905828d0d88fbfa33545afd8dde8d275]: Commencement: S. 315 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-905828d0d88fbfa33545afd8dde8d275]: Commencement: S. 315 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-7f9f9186b5754d4e55699edfe104d201]: Commencement: [S. 315](https://www.legislation.gov.uk/ukpga/2024/13/section/315) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)
+[^c-7f9f9186b5754d4e55699edfe104d201]: Commencement: [S. 315](https://www.legislation.gov.uk/ukpga/2024/13/section/315) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)

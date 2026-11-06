@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Designation of areas for purpose of making unauthorised camping unlawful.[^key-aecf1da329bedea83f7154a24bfbe287]
+## 175. Designation of areas for purpose of making unauthorised camping unlawful.[^c-aecf1da329bedea83f7154a24bfbe287]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aecf1da329bedea83f7154a24bfbe287]: Textual amendment: [Ss. 173-175](https://www.legislation.gov.uk/ukpga/1980/65/section/173) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-aecf1da329bedea83f7154a24bfbe287]: Textual amendment: [Ss. 173-175](https://www.legislation.gov.uk/ukpga/1980/65/section/173) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

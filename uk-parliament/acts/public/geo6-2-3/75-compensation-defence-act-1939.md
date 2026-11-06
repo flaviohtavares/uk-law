@@ -193,21 +193,21 @@ Provided that at any stage in proceedings before it the tribunal may, and, if so
 
 (5) There shall be paid out of moneys provided by Parliament—
 
-- (a) to any member of a tribunal constituted under this Act such remuneration (if any) and such allowances (if any)[^key-03ccc692e5d9794a2adc0618c476f144] as the Lord Chancellor, with the approval of the Treasury, may determine in his case, and
+- (a) to any member of a tribunal constituted under this Act such remuneration (if any) and such allowances (if any)[^c-03ccc692e5d9794a2adc0618c476f144] as the Lord Chancellor, with the approval of the Treasury, may determine in his case, and
 - (b) the amounts necessary to defray such expenses of the tribunals constituted under this Act as the Lord Chancellor and the Treasury may approve.
 
-### 9. Incidental powers of tribunals and rules of procedure[^key-f7d9cd7ea5a17eb0c8a946c0f43ac7f5][^c590413]
+### 9. Incidental powers of tribunals and rules of procedure[^c-f7d9cd7ea5a17eb0c8a946c0f43ac7f5][^c590413]
 
 (1) Each of the tribunals constituted under this Act shall have the following powers, that is to say:—
 
-- (a)[^key-ee0a4b0b71d002dac374517da08305b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ee0a4b0b71d002dac374517da08305b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) to order persons to attend and give evidence, and to produce and give discovery and inspection of documents, in like manner as in proceedings in the High Court;
 - (c) to award and assess, or direct the assessment of, such sums by way of costs as the tribunal in its discretion thinks just, and in particular to award costs to an unsuccessful claimant where such an award appears to the tribunal to be justified on the merits of the case;
 - (d) to call in the aid of one or more assessors specially qualified, and hear any claim wholly or partly with their assistance;
 - (e) to appoint an expert or experts to report on any matter material to the hearing of any claim;
 - (f) to determine, subject to the approval of the Treasury, the remuneration, if any, of such assessors and experts.
 
-(1A)[^key-95cec485f9dd6d05591872bfb1c2d434] Rules prescribing the procedure for notifying, presenting and hearing claims and all matters incidental thereto may be made in relation to each of the tribunals constituted under this Act.
+(1A)[^c-95cec485f9dd6d05591872bfb1c2d434] Rules prescribing the procedure for notifying, presenting and hearing claims and all matters incidental thereto may be made in relation to each of the tribunals constituted under this Act.
 
 (1B) Such rules are to be made as follows—
 
@@ -215,11 +215,11 @@ Provided that at any stage in proceedings before it the tribunal may, and, if so
 - (b) if the rules relate to proceedings in Scotland, they are to be made by the Lord President of the Court of Session;
 - (c) if the rules relate to proceedings in Northern Ireland, they are to be made by the Lord Chancellor with the concurrence of the Lord Chief Justice of Northern Ireland.
 
-(2) Such rules[^key-e67d6a6f4880867f6e7024e4e425bcc2] may contain provisions authorising a tribunal to take into consideration any matter which the tribunal considers relevant to the subject of the inquiry before it, notwithstanding that the matter is not admissible in evidence under the law relating to evidence.
+(2) Such rules[^c-e67d6a6f4880867f6e7024e4e425bcc2] may contain provisions authorising a tribunal to take into consideration any matter which the tribunal considers relevant to the subject of the inquiry before it, notwithstanding that the matter is not admissible in evidence under the law relating to evidence.
 
 (3) The High Court shall have, for the purposes of and in relation to any proceedings under this Act, the same power of making orders in respect of any of the matters specified in paragraph (b) of subsection (1) of this section as it has for the purpose of and in relation to an action or matter in that Court.
 
-(4)[^key-18e35c9a973094c4d5e0d6f47b474548] The Lord President of the Court of Session may nominate a judge of the Court of Session who is a member of the First or Second Division of the Inner House of that Court to exercise his functions under this section.
+(4)[^c-18e35c9a973094c4d5e0d6f47b474548] The Lord President of the Court of Session may nominate a judge of the Court of Session who is a member of the First or Second Division of the Inner House of that Court to exercise his functions under this section.
 
 (5) The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise his functions under this section—
 
@@ -298,13 +298,13 @@ Any notice which by this Act is required or authorised to be served on any perso
 
 ### 18. Application to Scotland and Northern Ireland.
 
-(1) For the purpose of the application of this Act to Scotland, the expression “**chattels**” means corporeal moveables; . . . [^c590447]; the reference in the last preceding section to allotment gardens within the meaning of the Allotments Act, 1922 is omitted *(Extent: S)*[^key-e634cf5642c65760ff9874a900a1f861]; and the expression “owner”, where used in relation to land, has the like meaning as in the [^c590450]Public Health (Scotland) Act, 1897.
+(1) For the purpose of the application of this Act to Scotland, the expression “**chattels**” means corporeal moveables; . . . [^c590447]; the reference in the last preceding section to allotment gardens within the meaning of the Allotments Act, 1922 is omitted *(Extent: S)*[^c-e634cf5642c65760ff9874a900a1f861]; and the expression “owner”, where used in relation to land, has the like meaning as in the [^c590450]Public Health (Scotland) Act, 1897.
 
-(2)[^key-7155ade58c9a8f4d12fc77771e6bea5b][^c590451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7155ade58c9a8f4d12fc77771e6bea5b][^c590451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of the application of this Act to Northern Ireland, the expression “rackrent,”’ where used in relation to land, has the same meaning as in the [^c590452]Public Health (Ireland) Act, 1878.
 
-(4)[^key-fb5ae641a1bb83f43f7c1c76d142b7a2] Sections seven and nine of this Act shall have effect with these modifications—
+(4)[^c-fb5ae641a1bb83f43f7c1c76d142b7a2] Sections seven and nine of this Act shall have effect with these modifications—
 
 - (a) in their application to proceedings in Scotland before a tribunal constituted under this Act, for references to the High Court there shall be substituted references to the Court of Session;
 - (b) in their application to proceedings in Northern Ireland before a tribunal constituted under this Act, for references to the High Court there shall be substituted references to the High Court of Justice in Northern Ireland.
@@ -353,19 +353,19 @@ Any notice which by this Act is required or authorised to be served on any perso
 
 [^c590412]: Textual amendment: [S. 8(3)(4)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/8/3/4) repealed by [Land Powers (Defence) Act 1958 (c. 30)](https://www.legislation.gov.uk/ukpga/1958/30), [s. 22](https://www.legislation.gov.uk/ukpga/1958/30/section/22)
 
-[^key-03ccc692e5d9794a2adc0618c476f144]: Textual amendment: Words in [s. 8(5)(a)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/8/5/a) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/1)
+[^c-03ccc692e5d9794a2adc0618c476f144]: Textual amendment: Words in [s. 8(5)(a)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/8/5/a) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/1)
 
-[^key-f7d9cd7ea5a17eb0c8a946c0f43ac7f5]: Textual amendment: [Words in s. 9](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
+[^c-f7d9cd7ea5a17eb0c8a946c0f43ac7f5]: Textual amendment: [Words in s. 9](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
 
 [^c590413]: Modification: S. 9 applied with modifications by [Public Works (Festival of Britain) Act 1949 (c. 26)](https://www.legislation.gov.uk/ukpga/1949/26), [s. 5(8)(b)](https://www.legislation.gov.uk/ukpga/1949/26/section/5/8/b); applied by [War Damaged Sites Act 1949 (c. 84)](https://www.legislation.gov.uk/ukpga/1949/84), [s. 13](https://www.legislation.gov.uk/ukpga/1949/84/section/13)
 
-[^key-ee0a4b0b71d002dac374517da08305b9]: Textual amendment: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/1/a) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/3), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
+[^c-ee0a4b0b71d002dac374517da08305b9]: Textual amendment: [S. 9(1)(a)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/1/a) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/3), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
-[^key-95cec485f9dd6d05591872bfb1c2d434]: Textual amendment: [S. 9(1A)(1B)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/1A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
+[^c-95cec485f9dd6d05591872bfb1c2d434]: Textual amendment: [S. 9(1A)(1B)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/1A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/4); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
 
-[^key-e67d6a6f4880867f6e7024e4e425bcc2]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/5); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
+[^c-e67d6a6f4880867f6e7024e4e425bcc2]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/5); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
 
-[^key-18e35c9a973094c4d5e0d6f47b474548]: Textual amendment: [S. 9(4)(5)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(6)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/6); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), Sch. 1 para. 11(d)
+[^c-18e35c9a973094c4d5e0d6f47b474548]: Textual amendment: [S. 9(4)(5)](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/9/4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 21(6)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/21/6); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), Sch. 1 para. 11(d)
 
 [^c590414]: Modification: [S. 10](https://www.legislation.gov.uk/ukpga/Geo6/2-3/75/section/10) applied by [Requisitioned Land and War Works Act 1948 (c. 17)](https://www.legislation.gov.uk/ukpga/1948/17), [s. 13(4)(5)](https://www.legislation.gov.uk/ukpga/1948/17/section/13/4/5); applied with modifications by [Public Works (Festival of Britain) Act 1949 (c. 26)](https://www.legislation.gov.uk/ukpga/1949/26), [s. 5(8)(b)](https://www.legislation.gov.uk/ukpga/1949/26/section/5/8/b)
 
@@ -413,17 +413,17 @@ Any notice which by this Act is required or authorised to be served on any perso
 
 [^c590447]: Textual amendment: Words repealed by [Consumer Credit Act 1974 (c. 39, SIF 60)](https://www.legislation.gov.uk/ukpga/1974/39), [s. 192(3)](https://www.legislation.gov.uk/ukpga/1974/39/section/192/3)(*b*), Sch. 5 Pt. I
 
-[^key-e634cf5642c65760ff9874a900a1f861]: Textual amendment: Words in s. 18(1) substituted (S.) (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 2](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/2); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/458/article/4))
+[^c-e634cf5642c65760ff9874a900a1f861]: Textual amendment: Words in s. 18(1) substituted (S.) (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 4 para. 2](https://www.legislation.gov.uk/asp/2015/6/schedule/4/paragraph/2); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/458/article/4))
 
 [^c590450]: Marginal citation: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38).
 
-[^key-7155ade58c9a8f4d12fc77771e6bea5b]: Textual amendment: S. 18(2) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 22(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/22/a), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
+[^c-7155ade58c9a8f4d12fc77771e6bea5b]: Textual amendment: S. 18(2) repealed (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 22(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/22/a), [Sch. 18 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/4/schedule/18/part/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 30(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/30/b)
 
 [^c590451]: Modification: S. 18(2) applied by [War Damaged Sites Act 1949 (c. 84)](https://www.legislation.gov.uk/ukpga/1949/84), [s. 13](https://www.legislation.gov.uk/ukpga/1949/84/section/13)
 
 [^c590452]: Marginal citation: [1878 c. 52](https://www.legislation.gov.uk/ukpga/1878/52).
 
-[^key-fb5ae641a1bb83f43f7c1c76d142b7a2]: Textual amendment: S. 18(4) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 22(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/22/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
+[^c-fb5ae641a1bb83f43f7c1c76d142b7a2]: Textual amendment: S. 18(4) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 22(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/22/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [Sch. 1 para. 11(d)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/d)
 
 [^c590454]: Editorial: A dagger appended to a marginal note means that it is no longer accurate.
 

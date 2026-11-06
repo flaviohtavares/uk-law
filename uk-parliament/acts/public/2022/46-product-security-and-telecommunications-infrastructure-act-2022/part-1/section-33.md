@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Appeals against enforcement notices[^key-df9ebd935a6da00d3f95c07692ae47a5][^key-ceb5d87816ef5edc0a1059da063f5d74]
+## 33. Appeals against enforcement notices[^c-df9ebd935a6da00d3f95c07692ae47a5][^c-ceb5d87816ef5edc0a1059da063f5d74]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df9ebd935a6da00d3f95c07692ae47a5]: Commencement: S. 33 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-df9ebd935a6da00d3f95c07692ae47a5]: Commencement: S. 33 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-ceb5d87816ef5edc0a1059da063f5d74]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/46/section/33) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-ceb5d87816ef5edc0a1059da063f5d74]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2022/46/section/33) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

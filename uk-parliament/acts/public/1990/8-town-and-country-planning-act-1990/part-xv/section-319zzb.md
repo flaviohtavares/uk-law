@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 319ZZB. Training: certain mayoral planning functions[^key-e48b13d724c79f729644f25a35599225]
+## 319ZZB. Training: certain mayoral planning functions[^c-e48b13d724c79f729644f25a35599225]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e48b13d724c79f729644f25a35599225]: Textual amendment: Ss. 319ZZA, 319ZZB and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 53](https://www.legislation.gov.uk/ukpga/2025/34/section/53), [118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-e48b13d724c79f729644f25a35599225]: Textual amendment: Ss. 319ZZA, 319ZZB and cross-heading inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 53](https://www.legislation.gov.uk/ukpga/2025/34/section/53), [118(2)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/b) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

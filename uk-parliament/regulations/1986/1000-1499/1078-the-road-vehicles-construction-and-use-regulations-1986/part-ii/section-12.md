@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Minimum ground clearance[^key-f986e87b7c17b4c8280dd6eb817b19a1]
+## 12. Minimum ground clearance[^c-f986e87b7c17b4c8280dd6eb817b19a1]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ shall have a minimum ground clearance of not less than 160 mm if the trailer has
 
 ## Annotations
 
-[^key-f986e87b7c17b4c8280dd6eb817b19a1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1986/1078/regulation/12) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-f986e87b7c17b4c8280dd6eb817b19a1]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1986/1078/regulation/12) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Who may claim[^key-9c99ec377672314568e4f40f2bb50545]
+## 61. Who may claim[^c-9c99ec377672314568e4f40f2bb50545]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ that controller or attorney, as the case may be, may make a claim on behalf of t
 
 ## Annotations
 
-[^key-9c99ec377672314568e4f40f2bb50545]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2006/406/regulation/61) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-9c99ec377672314568e4f40f2bb50545]: Commencement: [Reg. 61](https://www.legislation.gov.uk/nisr/2006/406/regulation/61) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
 [^f00129]: Footnote: [1971 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1971/33)
 

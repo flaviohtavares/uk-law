@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Information to be given as to meetings.[^key-45c36e57e4500a98154fc4ae30e7e53d]
+## 24. Information to be given as to meetings.[^c-45c36e57e4500a98154fc4ae30e7e53d]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45c36e57e4500a98154fc4ae30e7e53d]: Textual amendment: [Ss. 11-27](https://www.legislation.gov.uk/apni/1972/9/section/11) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-45c36e57e4500a98154fc4ae30e7e53d]: Textual amendment: [Ss. 11-27](https://www.legislation.gov.uk/apni/1972/9/section/11) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.62-CVL. Expenses of meeting under s. 98[^key-ab9d200f50c226c7270af0a4c452e078]
+## 4.62-CVL. Expenses of meeting under s. 98[^c-ab9d200f50c226c7270af0a4c452e078]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Any such payment is an expense of the liquidation.
 
 ## Annotations
 
-[^key-ab9d200f50c226c7270af0a4c452e078]: Commencement: [Rule 4.62CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.62CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ab9d200f50c226c7270af0a4c452e078]: Commencement: [Rule 4.62CVL](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.62CVL) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

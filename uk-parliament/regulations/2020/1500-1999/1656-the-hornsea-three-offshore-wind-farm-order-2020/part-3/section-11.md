@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary stopping up of public rights of way[^key-62313e1831ce82abc7b91a1a010acf2d]
+## 11. Temporary stopping up of public rights of way[^c-62313e1831ce82abc7b91a1a010acf2d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The undertaker may, in connection with the carrying out of the authorised projec
 
 ## Annotations
 
-[^key-62313e1831ce82abc7b91a1a010acf2d]: Commencement: Art. 11 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-62313e1831ce82abc7b91a1a010acf2d]: Commencement: Art. 11 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

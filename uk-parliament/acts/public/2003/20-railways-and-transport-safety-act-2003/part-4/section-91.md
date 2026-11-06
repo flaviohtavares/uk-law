@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Territorial application[^key-f996c4a0ee77e39f70f07cbdceb883b5]
+## 91. Territorial application[^c-f996c4a0ee77e39f70f07cbdceb883b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f996c4a0ee77e39f70f07cbdceb883b5]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2003/20/section/91) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(n)](https://www.legislation.gov.uk/uksi/2004/827/article/3/n)
+[^c-f996c4a0ee77e39f70f07cbdceb883b5]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2003/20/section/91) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(n)](https://www.legislation.gov.uk/uksi/2004/827/article/3/n)

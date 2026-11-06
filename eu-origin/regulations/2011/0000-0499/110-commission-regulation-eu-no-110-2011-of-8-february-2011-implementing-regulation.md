@@ -35,115 +35,115 @@ implementing Regulation (EC) No 458/2007 of the European Parliament and of the C
 
 (Text with EEA relevance) (revoked)
 
-[^key-43a455492595809ed9defd6e32580e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43a455492595809ed9defd6e32580e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-43a455492595809ed9defd6e32580e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-43a455492595809ed9defd6e32580e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-43a455492595809ed9defd6e32580e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-43a455492595809ed9defd6e32580e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43a455492595809ed9defd6e32580e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Formats for the transmission of data relating to the module on net social protection benefits and results to be transmitted[^key-43a455492595809ed9defd6e32580e88]
+## ANNEX I — Formats for the transmission of data relating to the module on net social protection benefits and results to be transmitted[^c-43a455492595809ed9defd6e32580e88]
 
-[^key-43a455492595809ed9defd6e32580e88]1.
+[^c-43a455492595809ed9defd6e32580e88]1.
 
 DATA TO BE TRANSMITTED
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]2.
+[^c-43a455492595809ed9defd6e32580e88]2.
 
 REFERENCE MANUAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-43a455492595809ed9defd6e32580e88]
+## ANNEX II[^c-43a455492595809ed9defd6e32580e88]
 
-[^key-43a455492595809ed9defd6e32580e88]A.
+[^c-43a455492595809ed9defd6e32580e88]A.
 
 CRITERIA FOR MEASURING THE QUALITY OF DATA RELATING TO THE MODULE ON NET SOCIAL PROTECTION BENEFITS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]B.
+[^c-43a455492595809ed9defd6e32580e88]B.
 
 INFORMATION TO TRANSMIT
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]1.
+[^c-43a455492595809ed9defd6e32580e88]1.
 
 **Contact**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]1.1.
+[^c-43a455492595809ed9defd6e32580e88]1.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]2.
+[^c-43a455492595809ed9defd6e32580e88]2.
 
 **Accuracy**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]2.1.
+[^c-43a455492595809ed9defd6e32580e88]2.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]2.2.
+[^c-43a455492595809ed9defd6e32580e88]2.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]2.3.
+[^c-43a455492595809ed9defd6e32580e88]2.3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]3.
+[^c-43a455492595809ed9defd6e32580e88]3.
 
 **Comparability**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]3.1.
+[^c-43a455492595809ed9defd6e32580e88]3.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]3.2.
+[^c-43a455492595809ed9defd6e32580e88]3.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]4.
+[^c-43a455492595809ed9defd6e32580e88]4.
 
 **Accessibility and clarity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]4.1.
+[^c-43a455492595809ed9defd6e32580e88]4.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]4.2.
+[^c-43a455492595809ed9defd6e32580e88]4.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]5.
+[^c-43a455492595809ed9defd6e32580e88]5.
 
 **Relevance**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]5.1.
+[^c-43a455492595809ed9defd6e32580e88]5.1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]C.
+[^c-43a455492595809ed9defd6e32580e88]C.
 
 TIMETABLE FOR THE PRODUCTION OF THE QUALITY REPORTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-43a455492595809ed9defd6e32580e88]D.
+[^c-43a455492595809ed9defd6e32580e88]D.
 
 FORMAT FOR THE TRANSMISSION OF QUALITY REPORTS
 
@@ -151,4 +151,4 @@ FORMAT FOR THE TRANSMISSION OF QUALITY REPORTS
 
 ## Annotations
 
-[^key-43a455492595809ed9defd6e32580e88]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/183); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43a455492595809ed9defd6e32580e88]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 183](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/183); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

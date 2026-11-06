@@ -31,26 +31,26 @@ Parsonages (Amendment) Measure 1947 (repealed)
 
 1947 No.3
 
-[^key-be3c414a6cc2f27a33663892a7a726f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be3c414a6cc2f27a33663892a7a726f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Power for the Church Commissioners to purchase parsonage houses.[^key-be3c414a6cc2f27a33663892a7a726f1]
+## 1. Power for the Church Commissioners to purchase parsonage houses.[^c-be3c414a6cc2f27a33663892a7a726f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Power of postponing certain loan payments.[^key-be3c414a6cc2f27a33663892a7a726f1]
+## 2. Power of postponing certain loan payments.[^c-be3c414a6cc2f27a33663892a7a726f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Extension of section five of the Parsonages Measure, 1938.[^key-be3c414a6cc2f27a33663892a7a726f1]
+## 3. Extension of section five of the Parsonages Measure, 1938.[^c-be3c414a6cc2f27a33663892a7a726f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title and construction.[^key-be3c414a6cc2f27a33663892a7a726f1]
+## 4. Short title and construction.[^c-be3c414a6cc2f27a33663892a7a726f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be3c414a6cc2f27a33663892a7a726f1]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/Geo6/10-11/3) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-be3c414a6cc2f27a33663892a7a726f1]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/Geo6/10-11/3) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

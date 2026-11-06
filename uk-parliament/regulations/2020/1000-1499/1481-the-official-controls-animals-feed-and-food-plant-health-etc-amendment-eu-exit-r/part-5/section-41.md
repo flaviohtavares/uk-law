@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019[^key-c45585f5b26318812a12312b9666e9ba]
+## 41. The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019[^c-c45585f5b26318812a12312b9666e9ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c45585f5b26318812a12312b9666e9ba]: Commencement: Reg. 41 in force at 31.12.2020 immediately before IP completion day, see reg. 1 (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+[^c-c45585f5b26318812a12312b9666e9ba]: Commencement: Reg. 41 in force at 31.12.2020 immediately before IP completion day, see reg. 1 (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
 
 [^c24368971]: Marginal citation: [S.I. 2019/822](https://www.legislation.gov.uk/uksi/2019/822).

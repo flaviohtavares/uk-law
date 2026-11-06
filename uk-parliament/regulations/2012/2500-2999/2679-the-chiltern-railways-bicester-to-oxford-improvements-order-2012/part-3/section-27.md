@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Cases where powers of acquisition limited to ground anchor rights[^key-7354ce55246d6951ac40253955719b5a]
+## 27. Cases where powers of acquisition limited to ground anchor rights[^c-7354ce55246d6951ac40253955719b5a]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7354ce55246d6951ac40253955719b5a]: Commencement: Art. 27 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-7354ce55246d6951ac40253955719b5a]: Commencement: Art. 27 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

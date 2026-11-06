@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Inheritance of graduated retirement benefit[^M_I_d2f20e15-d250-4d2b-ddbf-20b5595abe7f][^key-012bf03a461469b123ce5d9490677314]
+## 10. Inheritance of graduated retirement benefit[^M_I_d2f20e15-d250-4d2b-ddbf-20b5595abe7f][^c-012bf03a461469b123ce5d9490677314]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_d2f20e15-d250-4d2b-ddbf-20b5595abe7f]: Commencement: S. 10 in force at 23.2.2016 for specified purposes by [S.I. 2016/203](https://www.legislation.gov.uk/uksi/2016/203), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/203/article/2/b)
 
-[^key-012bf03a461469b123ce5d9490677314]: Commencement: S. 10 in force at 6.4.2016 in so far as not already in force, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-012bf03a461469b123ce5d9490677314]: Commencement: S. 10 in force at 6.4.2016 in so far as not already in force, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

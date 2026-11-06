@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Temporary use of land for maintaining authorised project[^key-83b88c09524e8e64d2d9f9d20e2a45b8]
+## 24. Temporary use of land for maintaining authorised project[^c-83b88c09524e8e64d2d9f9d20e2a45b8]
 
 *Extent: E+W+S*
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to any part of the authorised project, the undertaker may—
 
-- (a) enter on and take temporary possession of any land referred to in paragraph (1) (a)(i) or (ii)[^key-c174ff1c9ac950871e5e6fc89b8644d4] of article 23 (temporary use of land for carrying out the authorised project) if such possession is reasonably required for the purpose of maintaining the authorised project; and
+- (a) enter on and take temporary possession of any land referred to in paragraph (1) (a)(i) or (ii)[^c-c174ff1c9ac950871e5e6fc89b8644d4] of article 23 (temporary use of land for carrying out the authorised project) if such possession is reasonably required for the purpose of maintaining the authorised project; and
 - (b) construct such temporary works (including the provision of means of access) and buildings on the land as may be reasonably necessary for that purpose.
 
 (2) Paragraph (1) does not authorise the undertaker to take temporary possession of—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83b88c09524e8e64d2d9f9d20e2a45b8]: Commencement: Art. 24 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-83b88c09524e8e64d2d9f9d20e2a45b8]: Commencement: Art. 24 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-c174ff1c9ac950871e5e6fc89b8644d4]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/uksi/2014/3331/article/24/1/a) inserted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
+[^c-c174ff1c9ac950871e5e6fc89b8644d4]: Textual amendment: Words in [art. 24(1)(a)](https://www.legislation.gov.uk/uksi/2014/3331/article/24/1/a) inserted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)

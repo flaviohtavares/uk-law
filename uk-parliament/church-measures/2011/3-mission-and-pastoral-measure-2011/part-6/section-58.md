@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 58. Provision by pastoral church buildings scheme for appropriation or demolition of church to be closed for regular public worship to be replaced by new church[^key-dd654113c3c016f12e29a4596593fc73]
+## 58. Provision by pastoral church buildings scheme for appropriation or demolition of church to be closed for regular public worship to be replaced by new church[^c-dd654113c3c016f12e29a4596593fc73]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd654113c3c016f12e29a4596593fc73]: Commencement: S. 58 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-dd654113c3c016f12e29a4596593fc73]: Commencement: S. 58 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

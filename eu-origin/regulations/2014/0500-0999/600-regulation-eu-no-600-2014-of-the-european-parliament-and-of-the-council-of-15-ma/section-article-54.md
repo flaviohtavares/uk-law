@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 54 (affected by repeal, see note). Transitional provisions (affected by repeal, see note)[^key-057ff2ca79433bd867253a78b52f54b3][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
+## Article 54 (affected by repeal, see note). Transitional provisions (affected by repeal, see note)[^c-057ff2ca79433bd867253a78b52f54b3][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945][^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-057ff2ca79433bd867253a78b52f54b3]: Textual amendment: [Art. 54](https://www.legislation.gov.uk/eur/2014/600/article/54) omitted (1.7.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/14); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
+[^c-057ff2ca79433bd867253a78b52f54b3]: Textual amendment: [Art. 54](https://www.legislation.gov.uk/eur/2014/600/article/54) omitted (1.7.2021) by virtue of [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2021/22/schedule/10/paragraph/14); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/o)
 
 [^M_F_d902aeb0-be53-47f1-c9c0-dd03b0be1945]: Textual amendment: Regulation revoked (5.4.2024 for the revocation of Sch. 3 paras. 17, 34-39, 1.12.2025 for the revocation of Art. 18b, 30.3.2026 for the revocation of Arts. 4, 4a) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/4/b); [S.I. 2025/1078](https://www.legislation.gov.uk/uksi/2025/1078), [regs. 4(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/4/b), [6(b)](https://www.legislation.gov.uk/uksi/2025/1078/regulation/6/b)

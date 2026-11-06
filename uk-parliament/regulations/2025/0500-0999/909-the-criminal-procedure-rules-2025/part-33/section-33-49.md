@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.49. Application for discharge of restraint or ancillary order by the person who applied for the order[^key-67ebcfcc0a4d0eb6702c40ce9c84d41c]
+## 33.49. Application for discharge of restraint or ancillary order by the person who applied for the order[^c-67ebcfcc0a4d0eb6702c40ce9c84d41c]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67ebcfcc0a4d0eb6702c40ce9c84d41c]: Commencement: [Rule 33.49](https://www.legislation.gov.uk/uksi/2025/909/rule/33.49) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-67ebcfcc0a4d0eb6702c40ce9c84d41c]: Commencement: [Rule 33.49](https://www.legislation.gov.uk/uksi/2025/909/rule/33.49) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

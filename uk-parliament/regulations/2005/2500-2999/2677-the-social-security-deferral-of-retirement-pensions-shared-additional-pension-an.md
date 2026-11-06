@@ -103,7 +103,7 @@ An election under paragraph A1(1) or 3C(2) of Schedule 5 or under paragraph 1(1)
 (2) This regulation does not apply in the case of an election which is—
 
 - (a) made, or treated as made, by an elector who has subsequently died; or
-- (b) treated as having been made by virtue of regulation 30(5E) or (5G)[^key-1ec964dcaa4853bef67bbd6c60361ab4] of the Claims and Payments Regulations [^c1230895].
+- (b) treated as having been made by virtue of regulation 30(5E) or (5G)[^c-1ec964dcaa4853bef67bbd6c60361ab4] of the Claims and Payments Regulations [^c1230895].
 
 (3) An election specified in paragraph (1) may be changed by way of application made no later than the last day of the period specified in paragraph (4).
 
@@ -552,7 +552,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1230894]: Marginal citation: “**W**” and “**S**” have the same meaning for the purposes of this sub-paragraph as for the purposes of paragraph 3C of Schedule 5.
 
-[^key-1ec964dcaa4853bef67bbd6c60361ab4]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/5/2/b) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/516/regulation/4)
+[^c-1ec964dcaa4853bef67bbd6c60361ab4]: Textual amendment: Words in [reg. 5(2)(b)](https://www.legislation.gov.uk/uksi/2005/2677/regulation/5/2/b) substituted (6.4.2006) by [Social Security (Deferral of Retirement Pensions etc.) Regulations 2006 (S.I. 2006/516)](https://www.legislation.gov.uk/uksi/2006/516), [regs. 1](https://www.legislation.gov.uk/uksi/2006/516/regulation/1), [4](https://www.legislation.gov.uk/uksi/2006/516/regulation/4)
 
 [^c1230895]: Marginal citation: Regulation 30(5D) to (5F) is inserted by [S.I.2005/455](https://www.legislation.gov.uk/uksi/2005/455) and amended by [S.I.2005/1551](https://www.legislation.gov.uk/uksi/2005/1551).
 

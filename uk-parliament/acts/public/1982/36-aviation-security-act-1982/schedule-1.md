@@ -36,24 +36,24 @@ Section 22.
 **5.** Regulations made by the Secretary of State by statutory instrument may make provision—
 
 - (a) requiring compensation to which this Schedule applies, in such cases as may be specified in the regulations, to be paid to a person other than the person entitled to it in accordance with the relevant section;
-- (b) as to the application of any compensation to which this Schedule applies, or any part of it, in cases where the right to claim compensation is exercisable by reference to an interest in land which is subject to a mortgage, or to a rentcharge, or to the trusts of a settlement, or, in Scotland, to a feuduty or ground annual or *(Extent: S)* *(affected by repeal, see note)*[^key-9f3885b114d4d132d6f41ed614719639] to the purposes of a trust, or which was so subject at a time specified in the regulations; or
+- (b) as to the application of any compensation to which this Schedule applies, or any part of it, in cases where the right to claim compensation is exercisable by reference to an interest in land which is subject to a mortgage, or to a rentcharge, or to the trusts of a settlement, or, in Scotland, to a feuduty or ground annual or *(Extent: S)* *(affected by repeal, see note)*[^c-9f3885b114d4d132d6f41ed614719639] to the purposes of a trust, or which was so subject at a time specified in the regulations; or
 - (c) as to any assumptions to be made, or matters to be taken into or left out of account, for the purpose of assessing any compensation to which this Schedule applies.
 
 **6.** A statutory instrument containing regulations made under paragraph 5 of this Schedule shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**7.** Any dispute arising under the relevant section or under this Schedule, whether as to the right to any compensation or as to the amount of any compensation or otherwise, shall be referred to and determined by the Upper Tribunal[^key-8e6e883ccb4b9a071fb377f4a71953b4].
+**7.** Any dispute arising under the relevant section or under this Schedule, whether as to the right to any compensation or as to the amount of any compensation or otherwise, shall be referred to and determined by the Upper Tribunal[^c-8e6e883ccb4b9a071fb377f4a71953b4].
 
 **8.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c794817]
 
 **9.** In the application of this Schedule to Scotland—
 
 - (a) the reference in paragraph 4(a) to section 5 of the [^c794818]Land Compensation Act 1961 shall be construed as a reference to section 12 of the [^c794819]Land Compensation (Scotland) Act 1963, and
-- (b) the reference in paragraph 7 to the Upper Tribunal shall[^key-39181c8a335e4370340d22747eb9330e] be construed as a reference to the Lands Tribunal for Scotland.
+- (b) the reference in paragraph 7 to the Upper Tribunal shall[^c-39181c8a335e4370340d22747eb9330e] be construed as a reference to the Lands Tribunal for Scotland.
 
 **10.** In the application of this Schedule to Northern Ireland—
 
 - (a) the reference in paragraph 4(a) to section 5 of the Land Compensation Act 1961 shall be construed, notwithstanding paragraph 4 of Schedule 1 to the [^c794820]Land Compensation (Northern Ireland) Order 1982 (which confines the operation of that Order to matters within the legislative competence of the Parliament of Northern Ireland), as a reference to Article 6(1) of that Order; and
-- (b) the reference in paragraph 7 to the Upper Tribunal shall[^key-a1a66b107668078af9772d33cd451fbe] be construed as a reference to the Lands Tribunal for Northern Ireland.
+- (b) the reference in paragraph 7 to the Upper Tribunal shall[^c-a1a66b107668078af9772d33cd451fbe] be construed as a reference to the Lands Tribunal for Northern Ireland.
 
 **11.** In this Schedule mortgage includes any charge or lien on any property for securing money or money’s worth, and any heritable security within the meaning of section 9(8) of the [^c794821]Conveyancing and Feudal Reform (Scotland) Act 1970.
 
@@ -71,9 +71,9 @@ Section 22.
 
 [^c794816]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-9f3885b114d4d132d6f41ed614719639]: Textual amendment: Words in Sch. 1 para. 5(b) repealed (S.) (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
+[^c-9f3885b114d4d132d6f41ed614719639]: Textual amendment: Words in Sch. 1 para. 5(b) repealed (S.) (28.11.2004) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 122(1)](https://www.legislation.gov.uk/asp/2003/9/section/122/1), [129(2)](https://www.legislation.gov.uk/asp/2003/9/section/129/2), [Sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121)) (see [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), art. 2)
 
-[^key-8e6e883ccb4b9a071fb377f4a71953b4]: Textual amendment: Words in Sch. 1 para. 7 substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 159(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/159/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-8e6e883ccb4b9a071fb377f4a71953b4]: Textual amendment: Words in Sch. 1 para. 7 substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 159(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/159/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c794817]: Textual amendment: Sch. 1 para. 8 repealed by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1), [53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/20/4), [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 
@@ -81,10 +81,10 @@ Section 22.
 
 [^c794819]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).
 
-[^key-39181c8a335e4370340d22747eb9330e]: Textual amendment: Words in Sch. 1 para. 9(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 159(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/159/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-39181c8a335e4370340d22747eb9330e]: Textual amendment: Words in Sch. 1 para. 9(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 159(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/159/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c794820]: Marginal citation: [S.I. 1982/712 (N.I. 9)](https://www.legislation.gov.uk/nisi/1982/712)
 
-[^key-a1a66b107668078af9772d33cd451fbe]: Textual amendment: Words in Sch. 1 para. 10(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 159(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/159/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-a1a66b107668078af9772d33cd451fbe]: Textual amendment: Words in Sch. 1 para. 10(b) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 159(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/159/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c794821]: Marginal citation: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).

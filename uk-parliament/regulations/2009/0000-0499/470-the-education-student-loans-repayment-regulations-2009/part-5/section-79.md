@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Costs and expenses of the Authority[^key-b95fe03b2f3c4b7371d461bf4b7fe2b5]
+## 79. Costs and expenses of the Authority[^c-b95fe03b2f3c4b7371d461bf4b7fe2b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ the Authority may require reimbursement of those costs or expenses by the borrow
 
 ## Annotations
 
-[^key-b95fe03b2f3c4b7371d461bf4b7fe2b5]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2009/470/regulation/79) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-b95fe03b2f3c4b7371d461bf4b7fe2b5]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2009/470/regulation/79) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. General power to make regulations as to professional practice, conduct and discipline of solicitors[^key-750352fcce45fa48840d0c6133e416db]
+## 26. General power to make regulations as to professional practice, conduct and discipline of solicitors[^c-750352fcce45fa48840d0c6133e416db]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-750352fcce45fa48840d0c6133e416db]: Modification: [Art. 26](https://www.legislation.gov.uk/nisi/1976/582/article/26) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/a)
+[^c-750352fcce45fa48840d0c6133e416db]: Modification: [Art. 26](https://www.legislation.gov.uk/nisi/1976/582/article/26) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/a)
 
 [^c17113121]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

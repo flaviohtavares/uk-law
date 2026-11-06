@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Persons disqualified by immigration status not to be leased premises[^key-c59d22d77d1442f5c0d1c41602257a8a][^key-edd2f8a72ac10610f4c20505bc4c5d6d]
+## 22. Persons disqualified by immigration status not to be leased premises[^c-c59d22d77d1442f5c0d1c41602257a8a][^c-edd2f8a72ac10610f4c20505bc4c5d6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c59d22d77d1442f5c0d1c41602257a8a]: Commencement: S. 22 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/c)
+[^c-c59d22d77d1442f5c0d1c41602257a8a]: Commencement: S. 22 in force at 1.12.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 6(1)(c)](https://www.legislation.gov.uk/uksi/2014/2771/article/6/1/c)
 
-[^key-edd2f8a72ac10610f4c20505bc4c5d6d]: Commencement: S. 22 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/11/article/2/c)
+[^c-edd2f8a72ac10610f4c20505bc4c5d6d]: Commencement: S. 22 in force at 1.2.2016 for E. in so far as not already in force by [S.I. 2016/11](https://www.legislation.gov.uk/uksi/2016/11), [art. 2(c)](https://www.legislation.gov.uk/uksi/2016/11/article/2/c)

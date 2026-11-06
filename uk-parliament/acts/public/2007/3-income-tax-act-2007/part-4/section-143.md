@@ -30,7 +30,7 @@ summary: ''
 
 (2) The arrangements referred to in subsection (1)(b) and (c)(ii) do not include arrangements in consequence of which any shares, stocks, debentures or other securities of the company or the new company are at any subsequent time—
 
-- (a) listed on a stock exchange that is a recognised stock exchange by virtue of an order made under section 1005(1)(b)[^key-72d3e60d2973837a078c5cf632469594], or
+- (a) listed on a stock exchange that is a recognised stock exchange by virtue of an order made under section 1005(1)(b)[^c-72d3e60d2973837a078c5cf632469594], or
 - (b) listed on an exchange, or dealt in by any means, designated by an order made for the purposes of section 184(3)(b) or (c),
 
 if the order was made after the relevant time.
@@ -42,4 +42,4 @@ if the order was made after the relevant time.
 
 ## Annotations
 
-[^key-72d3e60d2973837a078c5cf632469594]: Textual amendment: Word in s. 143(2)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/2)
+[^c-72d3e60d2973837a078c5cf632469594]: Textual amendment: Word in s. 143(2)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/2)

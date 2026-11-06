@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Conclusion of trial of Senedd election petition[^key-745c3dabdac2339e93280a30efeacb12]
+## 101. Conclusion of trial of Senedd election petition[^c-745c3dabdac2339e93280a30efeacb12]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-745c3dabdac2339e93280a30efeacb12]: Commencement: Art. 101 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-745c3dabdac2339e93280a30efeacb12]: Commencement: Art. 101 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

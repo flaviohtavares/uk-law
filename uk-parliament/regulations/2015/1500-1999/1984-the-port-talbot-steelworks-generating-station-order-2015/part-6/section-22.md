@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Certification of plans, etc.[^key-9bd6edf279ba547f75e9083717072acc]
+## 22. Certification of plans, etc.[^c-9bd6edf279ba547f75e9083717072acc]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ for certification that they are true copies of the plans or documents referred t
 
 ## Annotations
 
-[^key-9bd6edf279ba547f75e9083717072acc]: Commencement: Art. 22 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-9bd6edf279ba547f75e9083717072acc]: Commencement: Art. 22 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Cars with a CO<sub>2</sub> emissions figure[^key-938ed7170ddd510fa3e206315068d312]
+## 59. Cars with a CO<sub>2</sub> emissions figure[^c-938ed7170ddd510fa3e206315068d312]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-938ed7170ddd510fa3e206315068d312]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/2006/25/section/59) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(a)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/a)
+[^c-938ed7170ddd510fa3e206315068d312]: Textual amendment: [S. 59](https://www.legislation.gov.uk/ukpga/2006/25/section/59) omitted (with effect in accordance with s. 59(5) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 59(4)(a)](https://www.legislation.gov.uk/ukpga/2010/13/section/59/4/a)

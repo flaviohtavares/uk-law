@@ -86,16 +86,16 @@ An Act to provide for the transfer to British Nuclear Fuels Limited and The Radi
 
 ### 4. Use of certain lands, premises, apparatus, facilities and services.
 
-(1)[^key-ed7e44228981c23f37d675d28783abdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ed7e44228981c23f37d675d28783abdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Authority shall secure to the Radiochemical Company the exclusive occupation and use of the lands and premises at Harwell which, immediately before the day which is the appointed day for the purposes of section 2 of this Act, are occupied and used exclusively for the purposes of that part of the Authority’s undertaking which is transferred by that section, and shall make available to that company the use of—
 
 - (a) such means of access and other facilities and services as may be agreed between them to be requisite in connection with the occupation and use of those lands and premises or as, in default of such agreement, the Secretary of State may direct as being in his opinion requisite in connection therewith, and
 - (b) all such additional apparatus, facilities and services as may be agreed between them to be additional apparatus, facilities and services which, immediately before that day, were used or enjoyed in connection with that part of the Authority’s undertaking carried on at Harwell which is transferred by section 2 of this Act or as, in default of such agreement, the Secretary of State may direct as being in his opinion additional apparatus, facilities and services which were so used or enjoyed.
 
-(3)[^key-397a86820abbfc792ee7ec31a981a3f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-397a86820abbfc792ee7ec31a981a3f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to subsection (3) of this section, anything which, in accordance with [^key-f2bd83258dcc37b43514d8d9401de383]... subsection (2) of this section, is required to be secured or made available shall be so secured or made available on such terms, as to payment or otherwise, as may be agreed between the Authority and [^key-f2bd83258dcc37b43514d8d9401de383]... the Radiochemical Company, as the case may be, or as, in default of such agreement, the Secretary of State may direct.
+(4) Subject to subsection (3) of this section, anything which, in accordance with [^c-f2bd83258dcc37b43514d8d9401de383]... subsection (2) of this section, is required to be secured or made available shall be so secured or made available on such terms, as to payment or otherwise, as may be agreed between the Authority and [^c-f2bd83258dcc37b43514d8d9401de383]... the Radiochemical Company, as the case may be, or as, in default of such agreement, the Secretary of State may direct.
 
 (5) In this section any reference to additional apparatus, facilities and services is a reference to apparatus, facilities and services which—
 
@@ -104,21 +104,21 @@ An Act to provide for the transfer to British Nuclear Fuels Limited and The Radi
 
 ### 5. Powers of Secretary of State in relation to transfers under ss. 1 and 2.
 
-(1)[^key-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-02e4c11077dd0d72f08cbc0c337fa523] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) [^key-9ccc85117d8a14324f911a871ad2f4a8]... a certificate issued by the Secretary of State to the effect that any part of the Authority’s undertaking or any property of the Authority which is specified in the certificate was, or was not, transferred to the Nuclear Fuels Company or to the Radiochemical Company by virtue of this Act, or that any rights, liabilities or obligations of the Authority specified in the certificate were, or were not, so transferred, shall be conclusive evidence of the matters stated in the certificate.
+(5) [^c-9ccc85117d8a14324f911a871ad2f4a8]... a certificate issued by the Secretary of State to the effect that any part of the Authority’s undertaking or any property of the Authority which is specified in the certificate was, or was not, transferred to the Nuclear Fuels Company or to the Radiochemical Company by virtue of this Act, or that any rights, liabilities or obligations of the Authority specified in the certificate were, or were not, so transferred, shall be conclusive evidence of the matters stated in the certificate.
 
-(6)[^key-c73b55695a1da73be7ace81202654c09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c73b55695a1da73be7ace81202654c09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) Before [^key-0b347010fcddc7b7fd75f05d92869cf2]... issuing any certificate under this section in relation to any matter the Secretary of State shall consult the Authority and the companies, if all three of them are affected by that matter, or, if only two of them are affected by it, shall consult those two; and on [^key-0b347010fcddc7b7fd75f05d92869cf2]... issuing any certificate under this section the Secretary of State shall send a copy of it to each of those bodies which is affected by it.
+(7) Before [^c-0b347010fcddc7b7fd75f05d92869cf2]... issuing any certificate under this section in relation to any matter the Secretary of State shall consult the Authority and the companies, if all three of them are affected by that matter, or, if only two of them are affected by it, shall consult those two; and on [^c-0b347010fcddc7b7fd75f05d92869cf2]... issuing any certificate under this section the Secretary of State shall send a copy of it to each of those bodies which is affected by it.
 
-(8)[^key-fd210b3827d52f4c78db51564ea8c262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-fd210b3827d52f4c78db51564ea8c262] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Supplementary provisions relating to transfers.
 
@@ -135,11 +135,11 @@ An Act to provide for the transfer to British Nuclear Fuels Limited and The Radi
 
 the agreement shall have effect, in relation to anything falling to be done on or after that day, as if for that reference there were substituted a reference to such person as that company may appoint or, in default of such appointment, to the officer of that company who corresponds as nearly as may be to the member or officer of the Authority in question.
 
-(3) Where any right, liability or obligation is transferred to one of the companies by virtue of this Act, that company and all other persons shall, on and after the day on which it is so transferred, have the same rights, powers and remedies (and, in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the company[^key-c03c9533be070464ac0e644e4421839b]....
+(3) Where any right, liability or obligation is transferred to one of the companies by virtue of this Act, that company and all other persons shall, on and after the day on which it is so transferred, have the same rights, powers and remedies (and, in particular, the same rights as to the taking or resisting of legal proceedings) for ascertaining, perfecting or enforcing that right, liability or obligation as they would have had if it had at all times been a right, liability or obligation of the company[^c-c03c9533be070464ac0e644e4421839b]....
 
 (4) In subsection (3) of this section any reference to legal proceedings shall be construed as including a reference to any application to an authority, and any reference to the taking or resisting of legal proceedings shall be construed accordingly.
 
-### 7. Issue of shares in consideration of transfers.[^key-9b048c7f786a488855f76e48235fd43e]
+### 7. Issue of shares in consideration of transfers.[^c-9b048c7f786a488855f76e48235fd43e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -162,9 +162,9 @@ and in the following provisions of this section and in sections 9, 10 and 20 of 
 
 (4) For the purposes of this section, in relation to a person who by virtue of subsection (1) of this section becomes an employee of one of the companies, the terms and conditions appropriate to him immediately after the transfer shall be taken to be such terms and conditions as correspond, as nearly as the circumstances permit, to those which immediately before the date of transfer applied to him under his contract of employment with the Authority.
 
-(5)[^key-6168e8f182830bfe97f7017fd547bf1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6168e8f182830bfe97f7017fd547bf1a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Nothing in subsection (3) [^key-3bfc92f6ce076fe0575850c075f33907]... of this section shall have effect in relation to an employee in respect of any time after the contract deemed to be in force between him and one of the companies by virtue of subsection (3) of this section has been superseded by a new contract of employment made between him and the company; and nothing in those subsections shall be construed as preventing a contract so deemed to be in force from being varied by agreement between the employer and the employee.
+(6) Nothing in subsection (3) [^c-3bfc92f6ce076fe0575850c075f33907]... of this section shall have effect in relation to an employee in respect of any time after the contract deemed to be in force between him and one of the companies by virtue of subsection (3) of this section has been superseded by a new contract of employment made between him and the company; and nothing in those subsections shall be construed as preventing a contract so deemed to be in force from being varied by agreement between the employer and the employee.
 
 ### 9. Machinery for settling terms and conditions of employment.
 
@@ -173,11 +173,11 @@ and in the following provisions of this section and in sections 9, 10 and 20 of 
 - (a) the settlement by negotiation of terms and conditions of employment of persons employed by the company, with provision for reference to arbitration, in default of such settlement, of such cases as may be determined by or under the agreements, and
 - (b) the promotion and encouragement of measures affecting the safety, health and welfare of persons employed by the company and (so far as in the opinion of the company considerations of national security permit) the discussion of other matters of mutual interest to the company and their employees, including efficiency in the work of the company.
 
-(2)[^key-451511cfc9d1919a19973317c08a259f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-451511cfc9d1919a19973317c08a259f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-451511cfc9d1919a19973317c08a259f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-451511cfc9d1919a19973317c08a259f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-451511cfc9d1919a19973317c08a259f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-451511cfc9d1919a19973317c08a259f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 10. Supplementary provisions relating to contracts of employment.
 
@@ -198,19 +198,19 @@ and in the following provisions of this section and in sections 9, 10 and 20 of 
 
 ### 11. Provisions as to shares in the companies.
 
-(1)[^key-b0becadacff24a27bbff69c662004338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b0becadacff24a27bbff69c662004338] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e64b40905716ec7a0fa57dedb11ca8b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e64b40905716ec7a0fa57dedb11ca8b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-29b09e702b5db58241f4aaabde8fdecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-29b09e702b5db58241f4aaabde8fdecd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to section 2 of the[^c8156931] [^c8156941]Nuclear Industry (Finance) Act 1977, where any shares are issued by the Nuclear Fuels Company[^key-c7d8c8369fb2eb66eee3c9ad51d7c3f6], otherwise than in pursuance of section 7 of this Act, the Secretary of State, with the consent of the Treasury, may subscribe for any such shares and pay for them out of moneys provided by Parliament.
+(4) Subject to section 2 of the[^c8156931] [^c8156941]Nuclear Industry (Finance) Act 1977, where any shares are issued by the Nuclear Fuels Company[^c-c7d8c8369fb2eb66eee3c9ad51d7c3f6], otherwise than in pursuance of section 7 of this Act, the Secretary of State, with the consent of the Treasury, may subscribe for any such shares and pay for them out of moneys provided by Parliament.
 
 (5) Any dividends or other sums received by the Secretary of State in right of or on the disposal of[^c8156951] any shares held by him in either of the companies shall be paid into the Consolidated Fund.
 
 ### 12. Loans by Secretary of State to the companies.
 
-(1) Subject to section 2 of the[^c8156961] [^c8156971]Nuclear Industry (Finance) Act 1977, the Secretary of State may with the approval of the Treasury make loans to the Nuclear Fuels Company[^key-6f1cbc31afb905216b12a26e5146749a] on such terms as may with the approval of the Treasury be agreed between the Secretary of State and that Company.
+(1) Subject to section 2 of the[^c8156961] [^c8156971]Nuclear Industry (Finance) Act 1977, the Secretary of State may with the approval of the Treasury make loans to the Nuclear Fuels Company[^c-6f1cbc31afb905216b12a26e5146749a] on such terms as may with the approval of the Treasury be agreed between the Secretary of State and that Company.
 
 (2) The Treasury may issue out of the National Loans Fund to the Secretary of State such sums as are necessary to enable him to make loans under this section.
 
@@ -220,7 +220,7 @@ and in the following provisions of this section and in sections 9, 10 and 20 of 
 
 ### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8156981]
 
-### 14. Accounts of companies to be laid before Parliament.[^key-541e935610039502215b765958f4d9a0][^c8156991]
+### 14. Accounts of companies to be laid before Parliament.[^c-541e935610039502215b765958f4d9a0][^c8156991]
 
 As soon as practicable after either of the companies—
 
@@ -255,7 +255,7 @@ the Secretary of State shall lay before each House of Parliament a copy of those
 
 (2)[^c8157041] In subsection (2) of that section, for the words “the foregoing subsection”, there shall be substituted the words “subsection (1) of this section”.
 
-(3)[^key-927c83ba65368c1a031d4e73592d3cd6][^c8157041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-927c83ba65368c1a031d4e73592d3cd6][^c8157041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 27(1) of that Act (Northern Ireland)—
 
@@ -284,7 +284,7 @@ the Secretary of State shall lay before each House of Parliament a copy of those
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8157211]
 
-### 19. Application of security provisions to companies established in connection with agreement on gas centrifuge process.[^key-3da4fc486ceacb8aadfb928d1cc46e34]
+### 19. Application of security provisions to companies established in connection with agreement on gas centrifuge process.[^c-3da4fc486ceacb8aadfb928d1cc46e34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -302,7 +302,7 @@ the Secretary of State shall lay before each House of Parliament a copy of those
 - (a) transferred employees to whom the scheme is applicable by virtue of subsection (1) of this section, and
 - (b) persons to whom the scheme is applicable apart from the provisions of this section.
 
-(4)[^key-a85a3c4980b30c462d0267389c9d5805] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a85a3c4980b30c462d0267389c9d5805] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In respect of—
 
@@ -348,7 +348,7 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 (1) In this Act “**the companies**” means the Nuclear Fuels Company and the Radiochemical Company, “**share**” includes stock, and “**pension**” has the meaning assigned to it by section 8(2) of the [^c8157411]Atomic Energy Authority Act 1954.
 
-(2)[^c8157421] In this Act “**the appointed day**” means such day as the Secretary of State may appoint by order made by statutory instrument;[^key-c766cca8249c18f40f104abca6a51b51]....
+(2)[^c8157421] In this Act “**the appointed day**” means such day as the Secretary of State may appoint by order made by statutory instrument;[^c-c766cca8249c18f40f104abca6a51b51]....
 
 (3) For the purposes of this Act—
 
@@ -420,31 +420,31 @@ Provided that any person aggrieved by a refusal of the specified body corporate 
 
 [^c8156701]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-ed7e44228981c23f37d675d28783abdf]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1971/11/section/4/1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(1)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/1/a), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ed7e44228981c23f37d675d28783abdf]: Textual amendment: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1971/11/section/4/1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(1)(a)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/1/a), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-397a86820abbfc792ee7ec31a981a3f3]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/4/3) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-397a86820abbfc792ee7ec31a981a3f3]: Textual amendment: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/4/3) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-f2bd83258dcc37b43514d8d9401de383]: Textual amendment: Words in [s. 4(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/4/4) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-f2bd83258dcc37b43514d8d9401de383]: Textual amendment: Words in [s. 4(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/4/4) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-02e4c11077dd0d72f08cbc0c337fa523]: Textual amendment: [S. 5(1)-(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-02e4c11077dd0d72f08cbc0c337fa523]: Textual amendment: [S. 5(1)-(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-9ccc85117d8a14324f911a871ad2f4a8]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-9ccc85117d8a14324f911a871ad2f4a8]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-c73b55695a1da73be7ace81202654c09]: Textual amendment: [S. 5(6)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-c73b55695a1da73be7ace81202654c09]: Textual amendment: [S. 5(6)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-0b347010fcddc7b7fd75f05d92869cf2]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-0b347010fcddc7b7fd75f05d92869cf2]: Textual amendment: Words in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-fd210b3827d52f4c78db51564ea8c262]: Textual amendment: [S. 5(8)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-fd210b3827d52f4c78db51564ea8c262]: Textual amendment: [S. 5(8)](https://www.legislation.gov.uk/ukpga/1971/11/section/5/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-c03c9533be070464ac0e644e4421839b]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/6/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-c03c9533be070464ac0e644e4421839b]: Textual amendment: Words in [s. 6(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/6/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-9b048c7f786a488855f76e48235fd43e]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1971/11/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-9b048c7f786a488855f76e48235fd43e]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/1971/11/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-6168e8f182830bfe97f7017fd547bf1a]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/ukpga/1971/11/section/8/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-6168e8f182830bfe97f7017fd547bf1a]: Textual amendment: [S. 8(5)](https://www.legislation.gov.uk/ukpga/1971/11/section/8/5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-3bfc92f6ce076fe0575850c075f33907]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1971/11/section/8/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-3bfc92f6ce076fe0575850c075f33907]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1971/11/section/8/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-451511cfc9d1919a19973317c08a259f]: Textual amendment: S. 9(2)-(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-451511cfc9d1919a19973317c08a259f]: Textual amendment: S. 9(2)-(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c8156801]: Textual amendment: [S. 10(1)](https://www.legislation.gov.uk/ukpga/1971/11/section/10/1) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
@@ -458,17 +458,17 @@ Provided that any person aggrieved by a refusal of the specified body corporate 
 
 [^c8156891]: Textual amendment: Words substituted by [Employment Protection (Consolidation) Act 1978 (c. 44, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1978/44), [s. 159(2)](https://www.legislation.gov.uk/ukpga/1978/44/section/159/2), [Sch. 16 para. 10(4)](https://www.legislation.gov.uk/ukpga/1978/44/schedule/16/paragraph/10/4)(*a*)
 
-[^key-b0becadacff24a27bbff69c662004338]: Textual amendment: S. 11(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-b0becadacff24a27bbff69c662004338]: Textual amendment: S. 11(1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-e64b40905716ec7a0fa57dedb11ca8b2]: Textual amendment: S. 11(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-e64b40905716ec7a0fa57dedb11ca8b2]: Textual amendment: S. 11(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
-[^key-29b09e702b5db58241f4aaabde8fdecd]: Textual amendment: [S. 11(1)-(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/11/1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(1)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/1/b), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-29b09e702b5db58241f4aaabde8fdecd]: Textual amendment: [S. 11(1)-(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/11/1) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(1)(b)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/1/b), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c8156931]: Textual amendment: Words substituted by [Nuclear Industry (Finance) Act 1977 (c. 7)](https://www.legislation.gov.uk/ukpga/1977/7), [s. 2(5)](https://www.legislation.gov.uk/ukpga/1977/7/section/2/5)
 
 [^c8156941]: Marginal citation: [1977 c. 7](https://www.legislation.gov.uk/ukpga/1977/7).
 
-[^key-c7d8c8369fb2eb66eee3c9ad51d7c3f6]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/11/4) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-c7d8c8369fb2eb66eee3c9ad51d7c3f6]: Textual amendment: Words in [s. 11(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/11/4) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/2), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c8156951]: Textual amendment: Words inserted by [Atomic Energy (Miscellaneous Provisions) Act 1981 (c. 48, SIF 8)](https://www.legislation.gov.uk/ukpga/1981/48), [s. 1(8)](https://www.legislation.gov.uk/ukpga/1981/48/section/1/8)
 
@@ -476,11 +476,11 @@ Provided that any person aggrieved by a refusal of the specified body corporate 
 
 [^c8156971]: Marginal citation: [1977 c. 7](https://www.legislation.gov.uk/ukpga/1977/7).
 
-[^key-6f1cbc31afb905216b12a26e5146749a]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1971/11/section/12/1) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(3)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/3), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-6f1cbc31afb905216b12a26e5146749a]: Textual amendment: Words in [s. 12(1)](https://www.legislation.gov.uk/ukpga/1971/11/section/12/1) substituted (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(3)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/3), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c8156981]: Textual amendment: [S. 13](https://www.legislation.gov.uk/ukpga/1971/11/section/13) repealed by [Nuclear Industry (Finance) Act 1977 (c. 7)](https://www.legislation.gov.uk/ukpga/1977/7), [s. 2(5)](https://www.legislation.gov.uk/ukpga/1977/7/section/2/5)
 
-[^key-541e935610039502215b765958f4d9a0]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1971/11/section/14) substituted (1.10.2007) by [Companies Act 2006 (Commencement No.3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/31) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-541e935610039502215b765958f4d9a0]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1971/11/section/14) substituted (1.10.2007) by [Companies Act 2006 (Commencement No.3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 31](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/31) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
 
 [^c8156991]: Modification: S. 14 restricted by [Atomic Energy (Miscellaneous Provisions) Act 1981 (c. 48, SIF 8)](https://www.legislation.gov.uk/ukpga/1981/48), [s. 1(7)](https://www.legislation.gov.uk/ukpga/1981/48/section/1/7)
 
@@ -490,7 +490,7 @@ Provided that any person aggrieved by a refusal of the specified body corporate 
 
 [^c8157051]: Marginal citation: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
 
-[^key-927c83ba65368c1a031d4e73592d3cd6]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/17/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-927c83ba65368c1a031d4e73592d3cd6]: Textual amendment: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/17/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c8157111]: Textual amendment: S. 17(5) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
@@ -512,9 +512,9 @@ Provided that any person aggrieved by a refusal of the specified body corporate 
 
 [^c8157211]: Textual amendment: [S. 18(3)](https://www.legislation.gov.uk/ukpga/1971/11/section/18/3) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-3da4fc486ceacb8aadfb928d1cc46e34]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1971/11/section/19) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-3da4fc486ceacb8aadfb928d1cc46e34]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukpga/1971/11/section/19) repealed (1.4.2005) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [s. 198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
 
-[^key-a85a3c4980b30c462d0267389c9d5805]: Textual amendment: [S. 20(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/20/4) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(4)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/4), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-a85a3c4980b30c462d0267389c9d5805]: Textual amendment: [S. 20(4)](https://www.legislation.gov.uk/ukpga/1971/11/section/20/4) repealed (5.10.2004) by [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20), [ss. 197(4)](https://www.legislation.gov.uk/ukpga/2004/20/section/197/4), [198(2)](https://www.legislation.gov.uk/ukpga/2004/20/section/198/2), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/20/schedule/23/part/1); [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
 [^c8157321]: Marginal citation: [1954 c. 32](https://www.legislation.gov.uk/ukpga/1954/32).
 
@@ -538,7 +538,7 @@ Provided that any person aggrieved by a refusal of the specified body corporate 
 
 [^c8157421]: Modification: 1.4.1971 appointed under s. 24(2) by [S.I. 1971/478](https://www.legislation.gov.uk/uksi/1971/478), [art. 2](https://www.legislation.gov.uk/uksi/1971/478/article/2)
 
-[^key-c766cca8249c18f40f104abca6a51b51]: Textual amendment: Words in s. 24(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
+[^c-c766cca8249c18f40f104abca6a51b51]: Textual amendment: Words in s. 24(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 1
 
 [^c8157431]: Marginal citation: [1954 c. 32](https://www.legislation.gov.uk/ukpga/1954/32).
 

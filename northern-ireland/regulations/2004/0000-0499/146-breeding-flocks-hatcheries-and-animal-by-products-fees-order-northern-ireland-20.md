@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS
 
-Breeding Flocks, Hatcheries and Animal By-Products (Fees) Order (Northern Ireland) 2004 (revoked)[^key-9112b7f5914bb95a8ebeb924148d7450]
+Breeding Flocks, Hatcheries and Animal By-Products (Fees) Order (Northern Ireland) 2004 (revoked)[^c-9112b7f5914bb95a8ebeb924148d7450]
 
 Made
 
@@ -41,31 +41,31 @@ Coming into operation
 
 26th April 2004
 
-[^key-9112b7f5914bb95a8ebeb924148d7450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9112b7f5914bb95a8ebeb924148d7450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9112b7f5914bb95a8ebeb924148d7450]
+## 1. Citation and commencement[^c-9112b7f5914bb95a8ebeb924148d7450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9112b7f5914bb95a8ebeb924148d7450]
+## 2. Interpretation[^c-9112b7f5914bb95a8ebeb924148d7450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-9112b7f5914bb95a8ebeb924148d7450]
+## 3. Fees[^c-9112b7f5914bb95a8ebeb924148d7450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-9112b7f5914bb95a8ebeb924148d7450]
+## 4. Revocation[^c-9112b7f5914bb95a8ebeb924148d7450]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9112b7f5914bb95a8ebeb924148d7450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9112b7f5914bb95a8ebeb924148d7450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PAYMENT TO THE DEPARTMENT[^key-9112b7f5914bb95a8ebeb924148d7450]
+## SCHEDULE — PAYMENT TO THE DEPARTMENT[^c-9112b7f5914bb95a8ebeb924148d7450]
 
 Article 3
 
@@ -73,8 +73,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-9112b7f5914bb95a8ebeb924148d7450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9112b7f5914bb95a8ebeb924148d7450]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9112b7f5914bb95a8ebeb924148d7450]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/146) revoked (26.9.2008) by [The Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/359)](https://www.legislation.gov.uk/nisr/2008/359), [regs. 1](https://www.legislation.gov.uk/nisr/2008/359/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/359/regulation/4)
+[^c-9112b7f5914bb95a8ebeb924148d7450]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2004/146) revoked (26.9.2008) by [The Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/359)](https://www.legislation.gov.uk/nisr/2008/359), [regs. 1](https://www.legislation.gov.uk/nisr/2008/359/regulation/1), [4](https://www.legislation.gov.uk/nisr/2008/359/regulation/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Instrument flight procedures[^key-360497fe7061e1689e2e87ba273b1775]
+## 157. Instrument flight procedures[^c-360497fe7061e1689e2e87ba273b1775]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-360497fe7061e1689e2e87ba273b1775]: Commencement: [Art. 157](https://www.legislation.gov.uk/uksi/2013/2870/article/157) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-360497fe7061e1689e2e87ba273b1775]: Commencement: [Art. 157](https://www.legislation.gov.uk/uksi/2013/2870/article/157) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Judicial disqualification.[^key-77fcfbd9154b761dec5f730310e948e1]
+## 212. Judicial disqualification.[^c-77fcfbd9154b761dec5f730310e948e1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No judge of any court or justice of the peace shall be disqualified from acting 
 
 ## Annotations
 
-[^key-77fcfbd9154b761dec5f730310e948e1]: Modification: [S. 212](https://www.legislation.gov.uk/ukpga/1991/56/section/212) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/16/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-77fcfbd9154b761dec5f730310e948e1]: Modification: [S. 212](https://www.legislation.gov.uk/ukpga/1991/56/section/212) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 16(1)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/16/1) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))

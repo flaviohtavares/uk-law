@@ -31,7 +31,7 @@ summary: ''
 
 Building And Buildings, Wales
 
-The Building Safety Act 2022 (Consequential Amendments) (Approved Inspectors) (Wales) Regulations 2022 (revoked)[^key-4ed3a892b5273a45330c226626ac33ba]
+The Building Safety Act 2022 (Consequential Amendments) (Approved Inspectors) (Wales) Regulations 2022 (revoked)[^c-4ed3a892b5273a45330c226626ac33ba]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 28 July 2022
 
-[^key-4ed3a892b5273a45330c226626ac33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed3a892b5273a45330c226626ac33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-4ed3a892b5273a45330c226626ac33ba]
+## 1. Title, application and commencement[^c-4ed3a892b5273a45330c226626ac33ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^key-4ed3a892b5273a45330c226626ac33ba]
+## 2. Amendment of the Building (Approved Inspectors etc.) Regulations 2010[^c-4ed3a892b5273a45330c226626ac33ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ed3a892b5273a45330c226626ac33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed3a892b5273a45330c226626ac33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ed3a892b5273a45330c226626ac33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ed3a892b5273a45330c226626ac33ba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ed3a892b5273a45330c226626ac33ba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/767) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(g)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/g)
+[^c-4ed3a892b5273a45330c226626ac33ba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2022/767) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(g)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/g)

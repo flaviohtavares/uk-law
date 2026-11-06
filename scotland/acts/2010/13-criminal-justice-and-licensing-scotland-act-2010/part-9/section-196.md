@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 196. False statements in applications: offence[^key-fa43e4efc7513ab4bc20e231b815bcbd]
+## 196. False statements in applications: offence[^c-fa43e4efc7513ab4bc20e231b815bcbd]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ After section 134 of the 2005 Act insert—
 
 ## Annotations
 
-[^key-fa43e4efc7513ab4bc20e231b815bcbd]: Commencement: [S. 196](https://www.legislation.gov.uk/asp/2010/13/section/196) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-fa43e4efc7513ab4bc20e231b815bcbd]: Commencement: [S. 196](https://www.legislation.gov.uk/asp/2010/13/section/196) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

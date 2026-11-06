@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66.5. Applications in revenue matters[^key-00eea1fd5eed534283c06566585bcacf]
+## 66.5. Applications in revenue matters[^c-00eea1fd5eed534283c06566585bcacf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00eea1fd5eed534283c06566585bcacf]: Textual amendment: Pt. 66 inserted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rule 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2292/schedule/2)
+[^c-00eea1fd5eed534283c06566585bcacf]: Textual amendment: Pt. 66 inserted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rule 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2292/schedule/2)

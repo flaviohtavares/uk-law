@@ -23,7 +23,7 @@ summary: ''
 (1) The Authority shall, as soon as practicable after the end of each financial year, make to the Department a report (the “annual report” for that year) on—
 
 - (a) its activities during that year in the exercise of its functions under this Order; and
-- (b) the activities of the CMA[^key-fdc87dd0ed64a0a7660695672abcf4ad] during that year in respect of any references made by the Authority under this Order.
+- (b) the activities of the CMA[^c-fdc87dd0ed64a0a7660695672abcf4ad] during that year in respect of any references made by the Authority under this Order.
 
 (2) The annual report for each year shall include—
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^c20587741]: Commencement: Art. 5 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-fdc87dd0ed64a0a7660695672abcf4ad]: Textual amendment: Word in [art. 5(1)(b)](https://www.legislation.gov.uk/nisi/2006/3336/article/5/1/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 248](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/248) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-fdc87dd0ed64a0a7660695672abcf4ad]: Textual amendment: Word in [art. 5(1)(b)](https://www.legislation.gov.uk/nisi/2006/3336/article/5/1/b) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 248](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/248) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

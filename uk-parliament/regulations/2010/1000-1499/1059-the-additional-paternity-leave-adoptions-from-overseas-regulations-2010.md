@@ -44,11 +44,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 236(3)[^f00002] of the Employment Rights Act 1996, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-9a35d7704871bc653bd71a39e6fab025]
+## 1. Citation, commencement and extent[^c-9a35d7704871bc653bd71a39e6fab025]
 
 These Regulations may be cited as the Additional Paternity Leave (Adoptions from Overseas) Regulations 2010 and shall come into force on 9th April 2010.
 
-## 2. Interpretation[^key-1377b99c6ac02c6139e215dde440fcd3]
+## 2. Interpretation[^c-1377b99c6ac02c6139e215dde440fcd3]
 
 (1) In these Regulations—
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Additional Paternity Leave (Adoptions from
 - “processing”, in relation to information, has the meaning given in section 1(1) of the Data Protection Act 1998[^f00007];
 - “relevant central authority” means—
   - (a) in the case of an adopter to whom Part 3 of the Adoptions with a Foreign Element Regulations 2005[^f00008] apply and who is habitually resident in Wales, the Welsh Ministers;
-  - (b) in the case of an adopter to whom [^key-74684500499e1481f9d5bbd966308a05]... the Adoptions with a Foreign Element (Scotland) Regulations 2009[^f00009] apply and who is habitually resident in Scotland, the Scottish Ministers; and
+  - (b) in the case of an adopter to whom [^c-74684500499e1481f9d5bbd966308a05]... the Adoptions with a Foreign Element (Scotland) Regulations 2009[^f00009] apply and who is habitually resident in Scotland, the Scottish Ministers; and
   - (c) in any other case, the Secretary of State;
 - “statutory adoption pay” has the meaning given in section 171ZL of the Social Security Contributions and Benefits Act 1992[^f00010];
 - “statutory maternity pay” has the meaning given in section 164(1) of the Social Security Contributions and Benefits Act 1992; and
@@ -85,7 +85,7 @@ but do not include any other adoptive relationships.
 
 (4) A reference in any provision of these Regulations to a period of continuous employment is to a period computed in accordance with Chapter 1 of Part 14 of the 1996 Act, as if that provision were a part of that Act.
 
-## 3. Application[^key-235b5a8f3d4671c170b0a95e45227dbb]
+## 3. Application[^c-235b5a8f3d4671c170b0a95e45227dbb]
 
 (1) The provisions relating to additional paternity leave under regulation 4 have effect only in relation to an employee who is married to, or the civil partner or partner of, an adopter whose child enters Great Britain on or after 3rd April 2011.
 
@@ -103,7 +103,7 @@ but do not include any other adoptive relationships.
 
 (5) Regulation 24 (unfair dismissal) has effect only in relation to dismissals where the effective date of termination (within the meaning of section 97 of the 1996 Act[^f00011]) falls on or after 9th April 2010.
 
-## 4. Entitlement to additional paternity leave (adoptions from overseas)[^key-56532a8e84f5ead80d97680537c4aa0b]
+## 4. Entitlement to additional paternity leave (adoptions from overseas)[^c-56532a8e84f5ead80d97680537c4aa0b]
 
 (1) An employee (“P”) is entitled to be absent from work for the purpose of caring for a child (“C”) if—
 
@@ -131,7 +131,7 @@ but do not include any other adoptive relationships.
 
 (5) P’s entitlement to leave under this section shall not be affected by the adoption from overseas of more than one child by the adopter as part of the same arrangement.
 
-## 5. Options in respect of leave under regulation 4[^key-b3fbf1095d9a3db91d336c4c1299d515]
+## 5. Options in respect of leave under regulation 4[^c-b3fbf1095d9a3db91d336c4c1299d515]
 
 (1) P may choose to take leave under regulation 4 at any time within the period which begins 20 weeks after the date on which C entered Great Britain and ends 12 months after that date.
 
@@ -143,7 +143,7 @@ but do not include any other adoptive relationships.
 
 (5) This regulation is subject to regulation 14 (disrupted placement or death of child).
 
-## 6. Notice and evidential requirements for leave under regulation 4[^key-984700739ebf60dd046584a5858603b5]
+## 6. Notice and evidential requirements for leave under regulation 4[^c-984700739ebf60dd046584a5858603b5]
 
 (1) P must, not less than eight weeks before the start date chosen by P for the period of leave, give P’s employer (“E”)—
 
@@ -205,7 +205,7 @@ but do not include any other adoptive relationships.
   - (ii) the end date specified in P’s leave notice or, where applicable, last varied in accordance with regulation 7; and
 - (b) shall be treated as additional paternity leave for the purpose of these Regulations.
 
-## 7. Variation or cancellation of leave under regulation 4 before leave period has begun[^key-06ae432afdd09b49be8655f352477c04]
+## 7. Variation or cancellation of leave under regulation 4 before leave period has begun[^c-06ae432afdd09b49be8655f352477c04]
 
 (1) Before P’s leave period has begun, P may cancel P’s leave notice, or vary the dates notified as the start and end date for the period of leave, provided that P gives E written notice (“subsequent notice”)—
 
@@ -234,20 +234,20 @@ E may require that P take a period of additional paternity leave.
 
 (4) In this regulation, “leave notice” has the meaning given by regulation 6(2).
 
-## 8. Employer’s confirmation of period of leave under regulation 4[^key-f7ca5197b352dc583f17f5363af9a911]
+## 8. Employer’s confirmation of period of leave under regulation 4[^c-f7ca5197b352dc583f17f5363af9a911]
 
 (1) Subject to paragraph (2), where P gives leave notice under regulation 6(1) or subsequent notice under regulation 7(1) to E, E shall, within 28 days of receipt of the notice, confirm the start and end dates of P’s leave to P in writing.
 
 (2) Where E requires P to take leave under regulations 6(5) or 7(2), E shall notify P of the dates of that leave as soon as reasonably practicable, and at any event before the start of the leave that P is required to take under regulations 6(5) or 7(2).
 
-## 9. Commencement of leave under regulation 4[^key-97de4f1288d0673f4c6b4c5aec08c7d5]
+## 9. Commencement of leave under regulation 4[^c-97de4f1288d0673f4c6b4c5aec08c7d5]
 
 Save where regulations 6(5) and 7(2), apply P’s period of additional paternity leave under regulation 4 begins—
 
 - (a) on the start date notified in P’s leave notice under regulation 6(1), or,
 - (b) where applicable, the start date specified in P’s most recent subsequent notice under regulation 7(1).
 
-## 10. Entitlement to additional paternity leave (adoptions from overseas) in the event of the death of the adopter[^key-a8228c26c1469db6d488d25af7ce42ff]
+## 10. Entitlement to additional paternity leave (adoptions from overseas) in the event of the death of the adopter[^c-a8228c26c1469db6d488d25af7ce42ff]
 
 (1) In a case where A has died before the end of the period of twelve months beginning with the date of C entering Great Britain, the provisions in regulations 4 to 9 shall apply with the following modifications.
 
@@ -275,7 +275,7 @@ Save where regulations 6(5) and 7(2), apply P’s period of additional paternity
 - (c) to regulation 7(1) were references to regulation 13(2); and
 - (d) to regulation 7(2) were references to regulation 13(3).
 
-## 11. Options in respect of leave under regulation 4 in the event of the death of the adopter[^key-c3dceefbf9019b64bc59abb880691d5d]
+## 11. Options in respect of leave under regulation 4 in the event of the death of the adopter[^c-c3dceefbf9019b64bc59abb880691d5d]
 
 (1) P may choose to take leave under regulation 4, as modified by regulation 10, at any time within the period beginning with the date of A’s death and ending 12 months after the date of C’s entering Great Britain.
 
@@ -294,7 +294,7 @@ Save where regulations 6(5) and 7(2), apply P’s period of additional paternity
 
 (6) This regulation is subject to regulation 14 (disrupted placement or death of a child).
 
-## 12. Notice and evidential requirements for leave under regulation 4 in the event of the death of the adopter[^key-5b6117d2c15e463208864f034bd3239e]
+## 12. Notice and evidential requirements for leave under regulation 4 in the event of the death of the adopter[^c-5b6117d2c15e463208864f034bd3239e]
 
 (1) As soon as reasonably practicable after the date of A’s death, and in any event, on or before the relevant date, P must give P’s employer (“E”), in writing—
 
@@ -360,7 +360,7 @@ Save where regulations 6(5) and 7(2), apply P’s period of additional paternity
   whichever is the earlier; and
 - (b) shall be treated as additional paternity leave for the purpose of these Regulations.
 
-## 13. Variation or cancellation of leave under regulation 4 in the event of the death of the adopter[^key-6e089dd9b04d76c5e77594c7426bafa1]
+## 13. Variation or cancellation of leave under regulation 4 in the event of the death of the adopter[^c-6e089dd9b04d76c5e77594c7426bafa1]
 
 (1) Notwithstanding regulation 9 as modified by regulation 10, P may, on or before the relevant date, cancel P’s leave notice, or vary the dates notified as the start and end dates for the period of leave, by notifying E in writing on or before any date that is varied or cancelled.
 
@@ -391,7 +391,7 @@ E may require that P take a period of additional paternity leave.
 
 (5) In this regulation, the terms “relevant date” and “leave notice” have the meanings given by regulation 12(2).
 
-## 14. Disrupted placement or death of a child in the course of additional paternity leave[^key-89bd2c652d767b69aa00469297210793]
+## 14. Disrupted placement or death of a child in the course of additional paternity leave[^c-89bd2c652d767b69aa00469297210793]
 
 (1) This regulation applies where, during P’s leave notice period or additional paternity leave period in respect of C—
 
@@ -416,7 +416,7 @@ E may require that P take a period of additional paternity leave.
 
 (4) In paragraph (1), P’s leave notice period is the period starting on the day P notifies E in accordance with regulation 6(1) or 12(1) of P’s intention to take additional paternity leave and ending on the day before the day that leave begins.
 
-## 15. Return to work[^key-17faa8f90d90c536bf1a8d7826eabff8]
+## 15. Return to work[^c-17faa8f90d90c536bf1a8d7826eabff8]
 
 For the purposes of these Regulations, A is treated as returning to work if one of the following conditions is satisfied—
 
@@ -424,7 +424,7 @@ For the purposes of these Regulations, A is treated as returning to work if one 
 - (b) in a case where A is entitled to statutory adoption pay, that payment is not payable to A in accordance with section 171ZN(3) or 171ZN(5) of the Social Security Contributions and Benefits Act 1992[^f00012]; or
 - (c) in a case where both (a) and (b) apply, the conditions in both (a) and (b) are satisfied.
 
-## 16. Work during an additional paternity leave period[^key-5b693fda20a2b63876ca063047c58a4c]
+## 16. Work during an additional paternity leave period[^c-5b693fda20a2b63876ca063047c58a4c]
 
 (1) P may carry out up to ten days’ work for E during P’s additional paternity leave period without bringing the additional paternity leave period to an end.
 
@@ -438,7 +438,7 @@ For the purposes of these Regulations, A is treated as returning to work if one 
 
 (6) Any days’ work carried out under this regulation shall not have the effect of extending the total duration of the additional paternity leave period.
 
-## 17. Application of terms and conditions during additional paternity leave[^key-2437cadc4c0b6f1bf935ca523ff21e5f]
+## 17. Application of terms and conditions during additional paternity leave[^c-2437cadc4c0b6f1bf935ca523ff21e5f]
 
 (1) During the period of additional paternity leave, P—
 
@@ -451,7 +451,7 @@ For the purposes of these Regulations, A is treated as returning to work if one 
 
 (4) In the case of accrual of rights under an employment-related benefit scheme within the meaning given by Schedule 5 to the Social Security Act 1989[^f00013], nothing in paragraph (1)(a) shall be taken to impose a requirement which exceeds the requirements of paragraph 5A of that Schedule.
 
-## 18. Redundancy during additional paternity leave[^key-6919593157b03cb2aae3e9b4bc5c970a]
+## 18. Redundancy during additional paternity leave[^c-6919593157b03cb2aae3e9b4bc5c970a]
 
 (1) This regulation applies where, during P’s additional paternity leave period, it is not practicable by reason of redundancy for E to continue to employ P under P’s existing contract of employment.
 
@@ -462,11 +462,11 @@ For the purposes of these Regulations, A is treated as returning to work if one 
 - (a) the work to be done under it is of a kind which is both suitable in relation to P and appropriate for P to do in the circumstances, and
 - (b) its provisions as to the capacity and place in which P is to be employed, and as to the other terms and conditions of P’s employment, are not substantially less favourable to P than if P had continued to be employed under the previous contract.
 
-## 19. Dismissal during additional paternity leave[^key-310530b95fc2042a7c7c62d1f01a99fd]
+## 19. Dismissal during additional paternity leave[^c-310530b95fc2042a7c7c62d1f01a99fd]
 
 Where P is dismissed after P’s additional paternity leave period has begun but before the time when (apart from this regulation) that period would end, the period ends at the time of the dismissal.
 
-## 20. Early return from additional paternity leave period[^key-839335bc52e9dadb532fd84c207f120b]
+## 20. Early return from additional paternity leave period[^c-839335bc52e9dadb532fd84c207f120b]
 
 (1) Subject to regulation 13(1) (variation or cancellation of leave in the event of the adopter’s death), where, after P’s additional paternity leave period has begun, P intends to return to work earlier than the end of P’s additional paternity leave period, P must give E at least six weeks’ notice of the date on which P intends to return.
 
@@ -491,7 +491,7 @@ E is under no contractual obligation to pay P’s remuneration until the date to
 - (a) regulation 8, if E is entitled to additional paternity leave by virtue of regulation 4; or
 - (b) regulation 8 as modified by regulation 10, if P is entitled to additional paternity leave by virtue of regulation 4 as modified by regulation 10.
 
-## 21. Right to return after additional paternity leave[^key-29c17e26d5062d198c5bb0adf3d9ba47]
+## 21. Right to return after additional paternity leave[^c-29c17e26d5062d198c5bb0adf3d9ba47]
 
 (1) In a case where P returns to work after a period of additional paternity leave, lasting no longer than 26 weeks, which was—
 
@@ -509,7 +509,7 @@ P is entitled to return from leave to the job in which P was employed before P�
 
 (4) This regulation does not apply where regulation 18 (redundancy during additional paternity leave) applies.
 
-## 22. Incidents of the right to return after additional paternity leave[^key-dee6a4e69b24239e57327af0153e7286]
+## 22. Incidents of the right to return after additional paternity leave[^c-dee6a4e69b24239e57327af0153e7286]
 
 (1) P’s right to return under regulation 21 is a right to return—
 
@@ -523,7 +523,7 @@ P is entitled to return from leave to the job in which P was employed before P�
 - (a) if P’s return is from an isolated period of additional paternity leave, since the beginning of that period,
 - (b) if P’s return is from consecutive periods of statutory leave, since the beginning of the first such period.
 
-## 23. Protection from detriment[^key-cfae8a37267004d5d91038c9009c0ebe]
+## 23. Protection from detriment[^c-cfae8a37267004d5d91038c9009c0ebe]
 
 (1) P is entitled under section 47C of the 1996 Act[^f00014] not to be subjected to any detriment by any act, or any deliberate failure to act, by E because—
 
@@ -538,7 +538,7 @@ P is entitled to return from leave to the job in which P was employed before P�
 
 (3) Paragraph (1) does not apply where the detriment in question amounts to dismissal within the meaning of Part 10 of the 1996 Act.
 
-## 24. Unfair dismissal[^key-9fc3a4de56c243b1e588b1a7d5a34830]
+## 24. Unfair dismissal[^c-9fc3a4de56c243b1e588b1a7d5a34830]
 
 (1) In a case where P is dismissed, P is entitled under section 99 of the 1996 Act[^f00016] to be regarded for the purpose of Part 10 of that Act as unfairly dismissed if—
 
@@ -570,7 +570,7 @@ P is entitled to return from leave to the job in which P was employed before P�
 
 (6) Where, on a complaint of unfair dismissal, any question arises as to whether the operation of paragraph (1) is excluded by the provisions of paragraph (5), it is for E to show that the provision in question was satisfied in relation to the complainant.
 
-## 25. Contractual rights to additional paternity leave[^key-6c1d44c88b28683d6e28f6a7c32c133c]
+## 25. Contractual rights to additional paternity leave[^c-6c1d44c88b28683d6e28f6a7c32c133c]
 
 (1) This regulation applies where P is entitled to additional paternity leave (referred to in paragraph (2) as a “statutory right”) and also to a right which corresponds to that right and which arises under P’s contract of employment or otherwise.
 
@@ -579,7 +579,7 @@ P is entitled to return from leave to the job in which P was employed before P�
 - (a) P may not exercise the statutory right and the corresponding right separately but may, in taking the leave for which the two rights provide, take advantage of whichever right is, in any particular respect, the more favourable, and
 - (b) the provisions of the 1996 Act and of these Regulations relating to the statutory right apply, subject to any modifications necessary to give effect to any more favourable contractual terms, to the exercise of the composite right described in sub-paragraph (a) as they apply to the exercise of the statutory right.
 
-## 26. Calculation of a week’s pay[^key-30d7918624356995025f6bd333efd968]
+## 26. Calculation of a week’s pay[^c-30d7918624356995025f6bd333efd968]
 
 Where—
 
@@ -633,9 +633,9 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: Section 236(3) of the Employment Rights Act 1996 was amended by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 42 and the Employment Act 2002, Schedule 7, paragraphs 24 and 49. A further relevant amendment was made by paragraph 44 of Schedule 1 to the Work and Families Act 2006.
 
-[^key-9a35d7704871bc653bd71a39e6fab025]: Commencement: Reg. 1 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-9a35d7704871bc653bd71a39e6fab025]: Commencement: Reg. 1 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-1377b99c6ac02c6139e215dde440fcd3]: Commencement: Reg. 2 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-1377b99c6ac02c6139e215dde440fcd3]: Commencement: Reg. 2 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
 [^f00003]: Footnote: Sections 75A and 75B were inserted by section 3 of the Employment Act 2002 and were amended by paragraphs 33 and 34 respectively of Schedule 1 to the Work and Families Act 2006.
 
@@ -649,68 +649,68 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00008]: Footnote: [S.I. 2005/392](https://www.legislation.gov.uk/uksi/2005/392).
 
-[^key-74684500499e1481f9d5bbd966308a05]: Textual amendment: Words in reg. 2(1) omitted (S.) (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/3/2); and (15.7.2011) by virtue of [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-74684500499e1481f9d5bbd966308a05]: Textual amendment: Words in reg. 2(1) omitted (S.) (21.3.2011) by virtue of [The Adoptions with a Foreign Element (Scotland) Amendment Regulations 2011 (S.S.I. 2011/159)](https://www.legislation.gov.uk/ssi/2011/159), [regs. 1](https://www.legislation.gov.uk/ssi/2011/159/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2011/159/regulation/3/2); and (15.7.2011) by virtue of [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
 
 [^f00009]: Footnote: [S.S.I 2009/182](https://www.legislation.gov.uk/ssi/2009/182).
 
 [^f00010]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 171ZL was inserted by section 4 of the Employment Act 2002 and was amended by article 3 of [S.I 2006/2012](https://www.legislation.gov.uk/uksi/2006/2012).
 
-[^key-235b5a8f3d4671c170b0a95e45227dbb]: Commencement: Reg. 3 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-235b5a8f3d4671c170b0a95e45227dbb]: Commencement: Reg. 3 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
 [^f00011]: Footnote: Section 97 was amended by [SI 2002/2034](https://www.legislation.gov.uk/uksi/2002/2034), regulations 11, 18-20, Schedule 2, Part 1, paragraphs 3(1) and (8) and the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5, 14 and Schedule 9.
 
-[^key-56532a8e84f5ead80d97680537c4aa0b]: Commencement: Reg. 4 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-56532a8e84f5ead80d97680537c4aa0b]: Commencement: Reg. 4 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-b3fbf1095d9a3db91d336c4c1299d515]: Commencement: Reg. 5 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-b3fbf1095d9a3db91d336c4c1299d515]: Commencement: Reg. 5 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-984700739ebf60dd046584a5858603b5]: Commencement: Reg. 6 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-984700739ebf60dd046584a5858603b5]: Commencement: Reg. 6 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-06ae432afdd09b49be8655f352477c04]: Commencement: Reg. 7 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-06ae432afdd09b49be8655f352477c04]: Commencement: Reg. 7 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-f7ca5197b352dc583f17f5363af9a911]: Commencement: Reg. 8 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-f7ca5197b352dc583f17f5363af9a911]: Commencement: Reg. 8 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-97de4f1288d0673f4c6b4c5aec08c7d5]: Commencement: Reg. 9 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-97de4f1288d0673f4c6b4c5aec08c7d5]: Commencement: Reg. 9 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-a8228c26c1469db6d488d25af7ce42ff]: Commencement: Reg. 10 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-a8228c26c1469db6d488d25af7ce42ff]: Commencement: Reg. 10 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-c3dceefbf9019b64bc59abb880691d5d]: Commencement: Reg. 11 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-c3dceefbf9019b64bc59abb880691d5d]: Commencement: Reg. 11 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-5b6117d2c15e463208864f034bd3239e]: Commencement: Reg. 12 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-5b6117d2c15e463208864f034bd3239e]: Commencement: Reg. 12 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-6e089dd9b04d76c5e77594c7426bafa1]: Commencement: Reg. 13 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-6e089dd9b04d76c5e77594c7426bafa1]: Commencement: Reg. 13 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-89bd2c652d767b69aa00469297210793]: Commencement: Reg. 14 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-89bd2c652d767b69aa00469297210793]: Commencement: Reg. 14 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-17faa8f90d90c536bf1a8d7826eabff8]: Commencement: Reg. 15 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-17faa8f90d90c536bf1a8d7826eabff8]: Commencement: Reg. 15 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
 [^f00012]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 171ZN was inserted by section 4 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended by the Work and Families Act 2006, section 11 and Schedule 1 paragraph 21(2).
 
-[^key-5b693fda20a2b63876ca063047c58a4c]: Commencement: Reg. 16 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-5b693fda20a2b63876ca063047c58a4c]: Commencement: Reg. 16 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-2437cadc4c0b6f1bf935ca523ff21e5f]: Commencement: Reg. 17 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-2437cadc4c0b6f1bf935ca523ff21e5f]: Commencement: Reg. 17 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
 [^f00013]: Footnote: [1989 c.24](https://www.legislation.gov.uk/ukpga/1989/24).
 
-[^key-6919593157b03cb2aae3e9b4bc5c970a]: Commencement: Reg. 18 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-6919593157b03cb2aae3e9b4bc5c970a]: Commencement: Reg. 18 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-310530b95fc2042a7c7c62d1f01a99fd]: Commencement: Reg. 19 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-310530b95fc2042a7c7c62d1f01a99fd]: Commencement: Reg. 19 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-839335bc52e9dadb532fd84c207f120b]: Commencement: Reg. 20 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-839335bc52e9dadb532fd84c207f120b]: Commencement: Reg. 20 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-29c17e26d5062d198c5bb0adf3d9ba47]: Commencement: Reg. 21 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-29c17e26d5062d198c5bb0adf3d9ba47]: Commencement: Reg. 21 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-dee6a4e69b24239e57327af0153e7286]: Commencement: Reg. 22 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-dee6a4e69b24239e57327af0153e7286]: Commencement: Reg. 22 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-cfae8a37267004d5d91038c9009c0ebe]: Commencement: Reg. 23 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-cfae8a37267004d5d91038c9009c0ebe]: Commencement: Reg. 23 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
 [^f00014]: Footnote: Section 47C was inserted by the Employment Relations Act [1999 (c. 26)](https://www.legislation.gov.uk/ukpga/1999/26), Schedule 4, Part 3, paragraphs 5 and 8. Further relevant amendments were made by the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), Schedule 7, paragraphs 24 and 26 and by the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraph 30.
 
 [^f00015]: Footnote: Section 80C was inserted by section 1 of the Employment Act 2002 and subsequently amended by section 5 of the Work and Families Act 2006.
 
-[^key-9fc3a4de56c243b1e588b1a7d5a34830]: Commencement: Reg. 24 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-9fc3a4de56c243b1e588b1a7d5a34830]: Commencement: Reg. 24 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
 [^f00016]: Footnote: Section 99 was substituted by the Employment Relations Act 1999, Schedule 4, Part 3, paragraphs 5 and 16, and amended by the Employment Act 2002, Schedule 7, paragraphs 24 and 33 and by the Work and Families Act 2006, Schedule 1, paragraph 41.
 
-[^key-6c1d44c88b28683d6e28f6a7c32c133c]: Commencement: Reg. 25 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-6c1d44c88b28683d6e28f6a7c32c133c]: Commencement: Reg. 25 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
 
-[^key-30d7918624356995025f6bd333efd968]: Commencement: Reg. 26 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)
+[^c-30d7918624356995025f6bd333efd968]: Commencement: Reg. 26 in force at 9.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1059/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Employer’s discretion to reduce members' contribution rate[^key-1a2600de97efb5677b38ba34a83122f9]
+## 14. Employer’s discretion to reduce members' contribution rate[^c-1a2600de97efb5677b38ba34a83122f9]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a2600de97efb5677b38ba34a83122f9]: Commencement: Reg. 14 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-1a2600de97efb5677b38ba34a83122f9]: Commencement: Reg. 14 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

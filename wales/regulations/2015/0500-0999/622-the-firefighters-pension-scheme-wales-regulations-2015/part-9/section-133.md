@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Payments to be made from the Firefighters’ Pension Fund[^key-10606cbebaa87c6a635056ac11a8c5b9]
+## 133. Payments to be made from the Firefighters’ Pension Fund[^c-10606cbebaa87c6a635056ac11a8c5b9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ The scheme manager must make payments out of the FPF in respect of the following
 
 ## Annotations
 
-[^key-10606cbebaa87c6a635056ac11a8c5b9]: Commencement: Reg. 133 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-10606cbebaa87c6a635056ac11a8c5b9]: Commencement: Reg. 133 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. SEPA to identify potentially vulnerable areas and local plan districts[^key-fe378d9a73a11ed0f01226e981453a90]
+## 13. SEPA to identify potentially vulnerable areas and local plan districts[^c-fe378d9a73a11ed0f01226e981453a90]
 
 *Extent: S*
 
@@ -55,10 +55,10 @@ summary: ''
 
 (10) An area referred to in subsection (3) and identified in such a document is referred to in this Part and Part 4 as a “local plan district”.
 
-(11)[^key-58ddf7069d136b55057766082dffe1c0] In relation to a Scottish cross border area, this section has effect as if each reference to the Scottish Ministers is a reference to the Scottish Ministers and the Secretary of State acting jointly.
+(11)[^c-58ddf7069d136b55057766082dffe1c0] In relation to a Scottish cross border area, this section has effect as if each reference to the Scottish Ministers is a reference to the Scottish Ministers and the Secretary of State acting jointly.
 
 ## Annotations
 
-[^key-fe378d9a73a11ed0f01226e981453a90]: Commencement: S. 13 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-fe378d9a73a11ed0f01226e981453a90]: Commencement: S. 13 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
 
-[^key-58ddf7069d136b55057766082dffe1c0]: Textual amendment: [S. 13(11)](https://www.legislation.gov.uk/asp/2009/6/section/13/11) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2010/1102/regulation/28)
+[^c-58ddf7069d136b55057766082dffe1c0]: Textual amendment: [S. 13(11)](https://www.legislation.gov.uk/asp/2009/6/section/13/11) inserted (30.4.2010) by [Flood Risk (Cross Border Areas) Regulations 2010 (S.I. 2010/1102)](https://www.legislation.gov.uk/uksi/2010/1102), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1102/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2010/1102/regulation/28)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1c46a1fcb002a669ce497bd6e81e2317] Schedule 7 makes provision about the cases to which the amendments made by this Act apply.
+(1)[^c-1c46a1fcb002a669ce497bd6e81e2317] Schedule 7 makes provision about the cases to which the amendments made by this Act apply.
 
 (2) The Secretary of State may by order make other transitional, transitory or saving provision in connection with the coming into force of any provision of this Act.
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c2210494]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/11/section/21) partly in force; [s. 21(2)-(4)](https://www.legislation.gov.uk/ukpga/2014/11/section/21/2) in force at Royal Assent, see [s. 22(1)(2)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1/2)
 
-[^key-1c46a1fcb002a669ce497bd6e81e2317]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/21/1) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/40/article/2/q)
+[^c-1c46a1fcb002a669ce497bd6e81e2317]: Commencement: [S. 21(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/21/1) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(q)](https://www.legislation.gov.uk/uksi/2015/40/article/2/q)

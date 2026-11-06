@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Meaning of “insurer”[^key-a8d1db307abfbc5d163b098239821d91]
+## 240. Meaning of “insurer”[^c-a8d1db307abfbc5d163b098239821d91]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8d1db307abfbc5d163b098239821d91]: Commencement: Art. 240 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a8d1db307abfbc5d163b098239821d91]: Commencement: Art. 240 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

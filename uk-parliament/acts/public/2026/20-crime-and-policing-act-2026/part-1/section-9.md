@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Guidance on fly-tipping enforcement in England[^key-300a7018411a86abb63ee7d7a52237c0]
+## 9. Guidance on fly-tipping enforcement in England[^c-300a7018411a86abb63ee7d7a52237c0]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ In the [Environmental Protection Act 1990](https://www.legislation.gov.uk/ukpga/
 
 ## Annotations
 
-[^key-300a7018411a86abb63ee7d7a52237c0]: Commencement: S. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-300a7018411a86abb63ee7d7a52237c0]: Commencement: S. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

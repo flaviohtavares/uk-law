@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56. Noise limits—agricultural motor vehicles and industrial tractors[^key-1a33d5f50252e123120e9f24953ef7d8]
+## 56. Noise limits—agricultural motor vehicles and industrial tractors[^c-1a33d5f50252e123120e9f24953ef7d8]
 
 *Extent: E+W+S*
 
 (1) Save as provided in regulation 59, this regulation applies to every wheeled vehicle first used on or after 1st April 1983 being an agricultural motor vehicle or an industrial tractor, other than—
 
-- (a)[^key-288cf5f1d76b815e9e186f4ec71a6acf] an agricultural motor vehicle, not being a category T tractor, which is first used on or after 1st June 1986 and which is driven at more than 20 mph;
+- (a)[^c-288cf5f1d76b815e9e186f4ec71a6acf] an agricultural motor vehicle, not being a category T tractor, which is first used on or after 1st June 1986 and which is driven at more than 20 mph;
 - (aa) a category T tractor which is first used on or after 1st June 1986 and which is driven at more than 40 km/h; or
 - (b) a road roller.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a33d5f50252e123120e9f24953ef7d8]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1a33d5f50252e123120e9f24953ef7d8]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-288cf5f1d76b815e9e186f4ec71a6acf]: Textual amendment: [Reg. 56(1)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56/1/a)[(aa)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56/1/aa) substituted for [reg. 56(1)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56/1/a) (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2015/142/regulation/18)
+[^c-288cf5f1d76b815e9e186f4ec71a6acf]: Textual amendment: [Reg. 56(1)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56/1/a)[(aa)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56/1/aa) substituted for [reg. 56(1)(a)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/56/1/a) (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2015/142/regulation/18)

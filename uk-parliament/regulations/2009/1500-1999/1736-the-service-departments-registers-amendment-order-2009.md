@@ -49,7 +49,7 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by sections 1(1), (2) and (4), 2, and 6 of the Registration of Births, Deaths and Marriages (Special Provisions) Act 1957[^f00001], is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:
 
-## 1. Citation, commencement and interpretation[^key-eae592ac885f532076a38df7229a63ef]
+## 1. Citation, commencement and interpretation[^c-eae592ac885f532076a38df7229a63ef]
 
 (1) This Order may be cited as the Service Departments Registers (Amendment) Order 2009 and shall come into force on 1st September 2009.
 
@@ -58,7 +58,7 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 1(1), (2) 
 - “the principal Order” means the Service Departments Registers Order 1959[^f00002];
 - “required form” means such form as may be provided by the Registrar General of England and Wales who is appointed under section 1 of the Registration Service Act 1953[^f00003].
 
-## 2. Amendment of article 3A of the principal Order[^key-e2acd97fe7a425be657a17f991531dd5]
+## 2. Amendment of article 3A of the principal Order[^c-e2acd97fe7a425be657a17f991531dd5]
 
 Article 3A of the principal Order is amended as follows—
 
@@ -136,7 +136,7 @@ Article 3A of the principal Order is amended as follows—
 
 .
 
-## 3. Amendment of article 3B of the principal Order[^key-6646c7bb8a595e752b0076cef8ae1afa]
+## 3. Amendment of article 3B of the principal Order[^c-6646c7bb8a595e752b0076cef8ae1afa]
 
 Article 3B of the principal Order is amended as follows—
 
@@ -171,13 +171,13 @@ Article 3A of the 1959 Order required specified documentation to be provided by 
 
 [^f00001]: Footnote: [1957 c. 58](https://www.legislation.gov.uk/ukpga/1957/58) .This Act has been amended by various subsequent Acts, including the Human Fertilisation and Embryology Act [2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22).
 
-[^key-eae592ac885f532076a38df7229a63ef]: Commencement: Art. 1 in force at 1.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1736/article/1/1)
+[^c-eae592ac885f532076a38df7229a63ef]: Commencement: Art. 1 in force at 1.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1736/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1959/406](https://www.legislation.gov.uk/uksi/1959/406). This order has been amended by various instruments, including [S.I. 2007/908](https://www.legislation.gov.uk/uksi/2007/908) which inserted articles 3A and 3B.
 
 [^f00003]: Footnote: [1953 c. 37](https://www.legislation.gov.uk/ukpga/1953/37).
 
-[^key-e2acd97fe7a425be657a17f991531dd5]: Commencement: Art. 2 in force at 1.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1736/article/1/1)
+[^c-e2acd97fe7a425be657a17f991531dd5]: Commencement: Art. 2 in force at 1.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1736/article/1/1)
 
 [^f00004]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 
@@ -193,4 +193,4 @@ Article 3A of the 1959 Order required specified documentation to be provided by 
 
 [^f00010]: Footnote: Section 4A(1) was inserted by section 56 and paragraph 51 of Schedule 6 to the Human Fertilisation and Embryology Act 2008.
 
-[^key-6646c7bb8a595e752b0076cef8ae1afa]: Commencement: Art. 3 in force at 1.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1736/article/1/1)
+[^c-6646c7bb8a595e752b0076cef8ae1afa]: Commencement: Art. 3 in force at 1.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/1736/article/1/1)

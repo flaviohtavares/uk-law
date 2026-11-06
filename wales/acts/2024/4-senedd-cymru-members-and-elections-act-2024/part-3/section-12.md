@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Renaming the Local Democracy and Boundary Commission for Wales[^key-389c17bc9c287f11972466ec437e6ba8]
+## 12. Renaming the Local Democracy and Boundary Commission for Wales[^c-389c17bc9c287f11972466ec437e6ba8]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-389c17bc9c287f11972466ec437e6ba8]: Commencement: S. 12 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-389c17bc9c287f11972466ec437e6ba8]: Commencement: S. 12 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

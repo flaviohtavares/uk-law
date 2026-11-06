@@ -25,8 +25,8 @@ summary: ''
 - (a) any information relating to the descriptors set out in Schedule 3 as may be requested in the form of a questionnaire; and
 - (b) any such additional information as may be requested.
 
-(2) Where the Secretary of State is satisfied that there is sufficient information to determine whether a claimant has limited capability for work-related activity without the information specified in paragraph (1)(a), that information must[^key-819a84a42caeea09564b6a45d766e6af] not be required for the purposes of making the determination.
+(2) Where the Secretary of State is satisfied that there is sufficient information to determine whether a claimant has limited capability for work-related activity without the information specified in paragraph (1)(a), that information must[^c-819a84a42caeea09564b6a45d766e6af] not be required for the purposes of making the determination.
 
 ## Annotations
 
-[^key-819a84a42caeea09564b6a45d766e6af]: Textual amendment: Word in reg. 36(2) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(18)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/18)
+[^c-819a84a42caeea09564b6a45d766e6af]: Textual amendment: Word in reg. 36(2) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2013 (S.I. 2013/2536)](https://www.legislation.gov.uk/uksi/2013/2536), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/1/1), [13(18)](https://www.legislation.gov.uk/uksi/2013/2536/regulation/13/18)

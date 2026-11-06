@@ -24,8 +24,8 @@ summary: ''
 
 - (a) the Authority,
 - (b) Transport for London,
-- (c)[^key-21ebd16ee6b3a0455c0c94ca17a28deb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) the Mayor's Office for Policing and Crime[^key-49bdb42edf5135f65d14da2193e4b788], or
+- (c)[^c-21ebd16ee6b3a0455c0c94ca17a28deb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Mayor's Office for Policing and Crime[^c-49bdb42edf5135f65d14da2193e4b788], or
 - (e) the London Transport Users’ Committee,
 
 shall be included among the kinds of employment to which a scheme under section 1 of the [^c12808101]Superannuation Act 1972 can apply.
@@ -55,15 +55,15 @@ the Minister for the Civil Service may determine that his service as such a memb
 
 - (a) paragraph 2(6) of Schedule 10 to this Act, in the case of Transport for London;
 - (b) paragraph 2 of Schedule 18 to this Act, in the case of the London Transport Users’ Committee; or
-- (c)[^key-466a83adfa9cec61ff646cf17e8a3e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-466a83adfa9cec61ff646cf17e8a3e97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-74db49a20b5ae22e3cfc3e88bbaf5603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-74db49a20b5ae22e3cfc3e88bbaf5603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21ebd16ee6b3a0455c0c94ca17a28deb]: Textual amendment: S. 389(1)(c) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-21ebd16ee6b3a0455c0c94ca17a28deb]: Textual amendment: S. 389(1)(c) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-49bdb42edf5135f65d14da2193e4b788]: Textual amendment: Words in s. 389(1)(d) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/54); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-49bdb42edf5135f65d14da2193e4b788]: Textual amendment: Words in s. 389(1)(d) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 54](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/54); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c12808101]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
@@ -71,6 +71,6 @@ the Minister for the Civil Service may determine that his service as such a memb
 
 [^c12808121]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-466a83adfa9cec61ff646cf17e8a3e97]: Textual amendment: S. 389(5)(c) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-466a83adfa9cec61ff646cf17e8a3e97]: Textual amendment: S. 389(5)(c) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
 
-[^key-74db49a20b5ae22e3cfc3e88bbaf5603]: Textual amendment: S. 389(6) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-74db49a20b5ae22e3cfc3e88bbaf5603]: Textual amendment: S. 389(6) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)

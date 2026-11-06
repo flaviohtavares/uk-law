@@ -33,7 +33,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) (Amendment) (No. 2) Regulations 2020 (revoked)[^key-212114fcf91e968da2d7d804ecdf1aae]
+The Health Protection (Coronavirus, Wearing of Face Coverings in a Relevant Place) (England) (Amendment) (No. 2) Regulations 2020 (revoked)[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 Approved by both Houses of Parliament
 
@@ -49,48 +49,48 @@ Coming into force
 
 22nd August 2020
 
-[^key-212114fcf91e968da2d7d804ecdf1aae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-212114fcf91e968da2d7d804ecdf1aae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 1. Citation, commencement and application[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. General[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 2. General[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 3. Amendment of regulation 2[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 4.[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 5.[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 3[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 6. Amendment of regulation 3[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 1[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 7. Amendment of Schedule 1[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 2[^key-212114fcf91e968da2d7d804ecdf1aae]
+## 8. Amendment of Schedule 2[^c-212114fcf91e968da2d7d804ecdf1aae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-212114fcf91e968da2d7d804ecdf1aae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-212114fcf91e968da2d7d804ecdf1aae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-212114fcf91e968da2d7d804ecdf1aae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-212114fcf91e968da2d7d804ecdf1aae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-212114fcf91e968da2d7d804ecdf1aae]: Textual amendment: Regulations revoked (E.) (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/848/schedule/paragraph/2)
+[^c-212114fcf91e968da2d7d804ecdf1aae]: Textual amendment: Regulations revoked (E.) (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2021/848/schedule/paragraph/2)

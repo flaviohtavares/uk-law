@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019[^key-ba08edf863b52373e342cbbc15c724fb]
+## 21. The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019[^c-ba08edf863b52373e342cbbc15c724fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -180,6 +180,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba08edf863b52373e342cbbc15c724fb]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1388/regulation/21) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-ba08edf863b52373e342cbbc15c724fb]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1388/regulation/21) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00054]: Footnote: [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809).

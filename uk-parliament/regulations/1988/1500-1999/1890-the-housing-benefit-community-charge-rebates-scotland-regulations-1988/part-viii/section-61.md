@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61. Evidence and information[^key-bee983fb85de06b9ecb802b33a344ad2]
+## 61. Evidence and information[^c-bee983fb85de06b9ecb802b33a344ad2]
 
 *Extent: E+W+S*
 
-(1) A person who makes a claim shall furnish such certificates, documents, information and evidence in connection with the claim, or any question arising out of it, as may be reasonably required by the appropriate authority in order to determine that person’s entitlement to housing benefit, and shall do so within 4 weeks of being required to do so or such longer period as the appropriate authority may consider reasonable; but nothing in this regulation shall require a person to furnish any certificates, documents, information or evidence relating to a payment which is disregarded under paragraph 34 of Schedule 3 or paragraph 23 of Schedule 4 (payments made under the Macfarlane Trust , the Macfarlane (Special Payments) Trust[^key-010e14c334974f88480246cc17708325] or the Independent Living Fund).
+(1) A person who makes a claim shall furnish such certificates, documents, information and evidence in connection with the claim, or any question arising out of it, as may be reasonably required by the appropriate authority in order to determine that person’s entitlement to housing benefit, and shall do so within 4 weeks of being required to do so or such longer period as the appropriate authority may consider reasonable; but nothing in this regulation shall require a person to furnish any certificates, documents, information or evidence relating to a payment which is disregarded under paragraph 34 of Schedule 3 or paragraph 23 of Schedule 4 (payments made under the Macfarlane Trust , the Macfarlane (Special Payments) Trust[^c-010e14c334974f88480246cc17708325] or the Independent Living Fund).
 
 (2) Where a request is made under paragraph (1), the appropriate authority shall–
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bee983fb85de06b9ecb802b33a344ad2]: Commencement: Reg. 61 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-bee983fb85de06b9ecb802b33a344ad2]: Commencement: Reg. 61 in force at 23.11.1988, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
-[^key-010e14c334974f88480246cc17708325]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/61/1) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/3)
+[^c-010e14c334974f88480246cc17708325]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/61/1) inserted (31.1.1990) by [The Income-related Benefits Schemes Amendment Regulations 1990 (S.I. 1990/127)](https://www.legislation.gov.uk/uksi/1990/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/127/regulation/1/1), [5(3)(c)](https://www.legislation.gov.uk/uksi/1990/127/regulation/5/3)

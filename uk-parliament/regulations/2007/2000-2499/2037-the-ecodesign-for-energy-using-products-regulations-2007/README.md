@@ -32,7 +32,7 @@ summary: ''
 
 ENERGY CONSERVATION
 
-The Ecodesign for Energy-Using Products Regulations 2007 (revoked)[^key-103bc36561c2e47c5c4432fff3008f4b]
+The Ecodesign for Energy-Using Products Regulations 2007 (revoked)[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 Made
 
@@ -46,18 +46,18 @@ Coming into force
 
 11th August 2007
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-103bc36561c2e47c5c4432fff3008f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction and interpretation[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 1 — Introduction and interpretation[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Restriction on listed products, conformity assessments, declarations of conformity and the CE conformity marking[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 2 — Restriction on listed products, conformity assessments, declarations of conformity and the CE conformity marking[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
@@ -67,7 +67,7 @@ Coming into force
 - [Section 6 — Displays of listed products not restricted](part-2/section-6.md)
 - [Section 6A — Restriction on special purpose lamps](part-2/section-6a.md)
 
-### PART 3 — Presumption of conformity, non-conformity, misleading markings and documentation[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 3 — Presumption of conformity, non-conformity, misleading markings and documentation[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
@@ -76,7 +76,7 @@ Coming into force
 - [Section 9 — Misleading markings](part-3/section-9.md)
 - [Section 10 — Documentation for inspection](part-3/section-10.md)
 
-### PART 4 — Notified bodies[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 4 — Notified bodies[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 16 — Non-conformity notices](part-4/section-16.md)
 - [Section 17 — Information to be supplied to other notified bodies](part-4/section-17.md)
 
-### PART 5 — Enforcement[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 5 — Enforcement[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
@@ -98,7 +98,7 @@ Coming into force
 - [Section 21 — Enforcement notices](part-5/section-21.md)
 - [Section 22 — Notification of enforcement notices](part-5/section-22.md)
 
-### PART 6 — Offences and penalties[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 6 — Offences and penalties[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
@@ -109,7 +109,7 @@ Coming into force
 - [Section 27 — Remediation orders](part-6/section-27.md)
 - [Section 27A — Recovery of expenses of enforcement](part-6/section-27a.md)
 
-### PART 7 — Revocations[^key-103bc36561c2e47c5c4432fff3008f4b]
+### PART 7 — Revocations[^c-103bc36561c2e47c5c4432fff3008f4b]
 
 **No longer in force.**
 
@@ -130,12 +130,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-103bc36561c2e47c5c4432fff3008f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-103bc36561c2e47c5c4432fff3008f4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)
+[^c-103bc36561c2e47c5c4432fff3008f4b]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/a)

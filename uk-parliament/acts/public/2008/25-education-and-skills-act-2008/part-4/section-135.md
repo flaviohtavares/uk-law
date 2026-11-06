@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Offences by bodies corporate[^key-24d518507b01e36658e28470d0311f5a]
+## 135. Offences by bodies corporate[^c-24d518507b01e36658e28470d0311f5a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ that person (as well as the body corporate) is guilty of the offence and liable 
 
 ## Annotations
 
-[^key-24d518507b01e36658e28470d0311f5a]: Commencement: S. 135 in force at 12.10.2009 by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 4](https://www.legislation.gov.uk/uksi/2009/1606/article/4)
+[^c-24d518507b01e36658e28470d0311f5a]: Commencement: S. 135 in force at 12.10.2009 by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 4](https://www.legislation.gov.uk/uksi/2009/1606/article/4)

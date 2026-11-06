@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Special directions[^key-589747c47541d837c298019993583dc3]
+## 11. Special directions[^c-589747c47541d837c298019993583dc3]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Nothing in these General Directions limits the power of the Secretary of State, 
 
 ## Annotations
 
-[^key-589747c47541d837c298019993583dc3]: Commencement: [Dir. 11](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/11) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-589747c47541d837c298019993583dc3]: Commencement: [Dir. 11](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/11) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
 
 [^f00021]: Footnote: For the transfer of functions applicable to special directions in Scotland and Wales, see [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750) (in relation to Scotland) and [S.I 1999/672](https://www.legislation.gov.uk/uksi/1999/672) and the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) (in relation to Wales).

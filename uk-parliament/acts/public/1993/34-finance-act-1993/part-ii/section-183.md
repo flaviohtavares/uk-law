@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-446915b0637b6c401040db1419c749f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-446915b0637b6c401040db1419c749f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-f0fd710f1d4bdb9d2ea1f0217808ae82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f0fd710f1d4bdb9d2ea1f0217808ae82] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3)[^c15155601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,9 +55,9 @@ the words from “a special reserve fund” to the end shall be omitted.
 
 ## Annotations
 
-[^key-446915b0637b6c401040db1419c749f3]: Textual amendment: S. 183(1) repealed (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-446915b0637b6c401040db1419c749f3]: Textual amendment: S. 183(1) repealed (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-f0fd710f1d4bdb9d2ea1f0217808ae82]: Textual amendment: [S. 183(2)](https://www.legislation.gov.uk/ukpga/1993/34/section/183/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-f0fd710f1d4bdb9d2ea1f0217808ae82]: Textual amendment: [S. 183(2)](https://www.legislation.gov.uk/ukpga/1993/34/section/183/2) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c15155601]: Textual amendment: S. 183(3) repealed (3.5.1994 with effect for the year 1997-98 and subsequent years of assessment) by [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9), [ss. 228(2)(c)(4)](https://www.legislation.gov.uk/ukpga/1994/9/section/228/2/c/4), [230](https://www.legislation.gov.uk/ukpga/1994/9/section/230), [258](https://www.legislation.gov.uk/ukpga/1994/9/section/258), [Sch. 26 Pt. V(25)](https://www.legislation.gov.uk/ukpga/1994/9/schedule/26/part/V/25) Note 1
 

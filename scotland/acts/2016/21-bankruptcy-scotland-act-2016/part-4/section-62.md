@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Procedure in application under section 60, or appeal under section 61, to sheriff[^key-b546ddca03901b2fde113f8fc1aba326]
+## 62. Procedure in application under section 60, or appeal under section 61, to sheriff[^c-b546ddca03901b2fde113f8fc1aba326]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b546ddca03901b2fde113f8fc1aba326]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2016/21/section/62) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-b546ddca03901b2fde113f8fc1aba326]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2016/21/section/62) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-9972201cd0c1743b71e6b70473690f7b]
+### 1. Interpretation[^c-9972201cd0c1743b71e6b70473690f7b]
 
 In this Schedule—
 
@@ -45,7 +45,7 @@ In this Schedule—
   - (i) are beneath the sea (whether on or in the seabed or in a tunnel); and
   - (ii) are intended for the conveyance of signals.
 
-### 2. Interpretation – public sector authority[^key-3da1e4f05b1c70f6db1830c97cc28908]
+### 2. Interpretation – public sector authority[^c-3da1e4f05b1c70f6db1830c97cc28908]
 
 The authorities referred to in the definition of a “public sector authority” in paragraph 1 are set out in the following Table.
 
@@ -66,7 +66,7 @@ Table
 | The Electoral Commission |
 | UK Statistics Authority |
 |  |
-| Department for Business and Trade[^key-55cd704df03cec011a6c8543d86e55cc] |
+| Department for Business and Trade[^c-55cd704df03cec011a6c8543d86e55cc] |
 | Competition and Markets Authority |
 | HM Land Registry |
 | UK Export Finance (also known as the Exports Credit Guarantee Department) |
@@ -75,7 +75,7 @@ Table
 | Nuclear Decommissioning Authority |
 | Department for Science, Innovation and Technology |
 |  |
-| Information Commission[^key-f6e303a47313d084dc48e5677f27503a] |
+| Information Commission[^c-f6e303a47313d084dc48e5677f27503a] |
 | Intellectual Property Office |
 | Meteorological Office |
 | Office of Communications (Ofcom) |
@@ -92,8 +92,8 @@ Table
 | Department for Environment, Food and Rural Affairs |
 | Water Services Regulation Authority (Ofwat) |
 |  |
-| [^key-6ced291b6aeaab77f06dbdea0ac97f86]. . . |
-| [^key-6ced291b6aeaab77f06dbdea0ac97f86]. . . |
+| [^c-6ced291b6aeaab77f06dbdea0ac97f86]. . . |
+| [^c-6ced291b6aeaab77f06dbdea0ac97f86]. . . |
 |  |
 | Department for Transport |
 | Civil Aviation Authority |
@@ -106,7 +106,7 @@ Table
 | Office for Nuclear Regulation |
 |  |
 | Department of Health and Social Care |
-| NHS England[^key-126d59157e03a01546cffa1e7ff66e1b] |
+| NHS England[^c-126d59157e03a01546cffa1e7ff66e1b] |
 | Joint Committee on Vaccination and Immunisation |
 | Medicines and Healthcare products Regulatory Agency |
 | Public Health England |
@@ -204,11 +204,11 @@ Table
 | The Education and Public Services Group |
 |  |
 
-### 3. Activity – data infrastructure[^key-e8c55bc82f31d05bad30a4122301abe9]
+### 3. Activity – data infrastructure[^c-e8c55bc82f31d05bad30a4122301abe9]
 
 A qualifying entity carrying on any of the activities set out in paragraph 4.
 
-**4.**[^key-baf34decb3adf14b99e33f3495811df3] The activities referred to in paragraph 3 are—
+**4.**[^c-baf34decb3adf14b99e33f3495811df3] The activities referred to in paragraph 3 are—
 
 - (a) owning or operating relevant data infrastructure;
 - (b) managing relevant data infrastructure on behalf of other entities;
@@ -219,20 +219,20 @@ A qualifying entity carrying on any of the activities set out in paragraph 4.
 
 ## Annotations
 
-[^key-9972201cd0c1743b71e6b70473690f7b]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/9/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-9972201cd0c1743b71e6b70473690f7b]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/2021/1264/schedule/9/paragraph/1) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
 [^f00028]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210), regulation 1(2), Schedule 1 paragraph 9(a)(i) and Schedule 3 paragraph 2, and [S.I. 2020/1419](https://www.legislation.gov.uk/uksi/2020/1419), regulation 1(2), Schedule 1, paragraph 6.
 
-[^key-3da1e4f05b1c70f6db1830c97cc28908]: Commencement: Sch. 9 para. 2 in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-3da1e4f05b1c70f6db1830c97cc28908]: Commencement: Sch. 9 para. 2 in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-55cd704df03cec011a6c8543d86e55cc]: Textual amendment: Words in Sch. 9 para. 2 table substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 73(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/73/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-55cd704df03cec011a6c8543d86e55cc]: Textual amendment: Words in Sch. 9 para. 2 table substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 73(3)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/73/3) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-f6e303a47313d084dc48e5677f27503a]: Textual amendment: Words in Sch. 9 para. 2 table substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/28); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-f6e303a47313d084dc48e5677f27503a]: Textual amendment: Words in Sch. 9 para. 2 table substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/28); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-6ced291b6aeaab77f06dbdea0ac97f86]: Textual amendment: Words in Sch. 9 para. 2 table omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 73(2)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/73/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-6ced291b6aeaab77f06dbdea0ac97f86]: Textual amendment: Words in Sch. 9 para. 2 table omitted (3.5.2023) by virtue of [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 73(2)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/73/2) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-126d59157e03a01546cffa1e7ff66e1b]: Textual amendment: Words in Sch. 9 para. 2 table substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/62) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-126d59157e03a01546cffa1e7ff66e1b]: Textual amendment: Words in Sch. 9 para. 2 table substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 62](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/62) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-e8c55bc82f31d05bad30a4122301abe9]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/9/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-e8c55bc82f31d05bad30a4122301abe9]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/2021/1264/schedule/9/paragraph/3) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
 
-[^key-baf34decb3adf14b99e33f3495811df3]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/9/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-baf34decb3adf14b99e33f3495811df3]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/2021/1264/schedule/9/paragraph/4) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

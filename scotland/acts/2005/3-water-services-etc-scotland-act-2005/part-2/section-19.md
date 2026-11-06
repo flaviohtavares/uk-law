@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Disconnections code[^key-a0de7dd64378aa4ca2d3199b2455714f]
+## 19. Disconnections code[^c-a0de7dd64378aa4ca2d3199b2455714f]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 - (a) Scottish Water;
 - (b) every water services provider and sewerage services provider;
-- (c)[^key-7fb176c1c990d404ea4adcf741021379] Consumer Scotland[^key-68389ded7f875a85a492316227ec674b];
+- (c)[^c-7fb176c1c990d404ea4adcf741021379] Consumer Scotland[^c-68389ded7f875a85a492316227ec674b];
 - (d) the Drinking Water Quality Regulator for Scotland; and
 - (e) such other persons as the Commission considers appropriate.
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a0de7dd64378aa4ca2d3199b2455714f]: Commencement: S. 19 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-a0de7dd64378aa4ca2d3199b2455714f]: Commencement: S. 19 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-7fb176c1c990d404ea4adcf741021379]: Textual amendment: S. 19(4)(c) substituted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/14); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)
+[^c-7fb176c1c990d404ea4adcf741021379]: Textual amendment: S. 19(4)(c) substituted (15.8.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7)[(8)](https://www.legislation.gov.uk/asp/2010/8/section/134/8), [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2010/8/schedule/2/paragraph/14); [S.S.I. 2011/278](https://www.legislation.gov.uk/ssi/2011/278), [art. 2(d)](https://www.legislation.gov.uk/ssi/2011/278/article/2/d)
 
-[^key-68389ded7f875a85a492316227ec674b]: Textual amendment: Words in [s. 19(4)(c)](https://www.legislation.gov.uk/asp/2005/3/section/19/4/c) substituted (10.11.2022) by [The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296)](https://www.legislation.gov.uk/ssi/2022/296), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/296/regulation/1/1), [sch. para. 2(2)](https://www.legislation.gov.uk/ssi/2022/296/schedule/paragraph/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/296/regulation/3))
+[^c-68389ded7f875a85a492316227ec674b]: Textual amendment: Words in [s. 19(4)(c)](https://www.legislation.gov.uk/asp/2005/3/section/19/4/c) substituted (10.11.2022) by [The Consumer Scotland (Transfer of Functions) Regulations 2022 (S.S.I. 2022/296)](https://www.legislation.gov.uk/ssi/2022/296), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2022/296/regulation/1/1), [sch. para. 2(2)](https://www.legislation.gov.uk/ssi/2022/296/schedule/paragraph/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/296/regulation/3))

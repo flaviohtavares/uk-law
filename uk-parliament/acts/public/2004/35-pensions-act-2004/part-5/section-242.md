@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Requirement for member-nominated directors of corporate trustees[^key-8585cdf00414fd201e8a86b4dacc78ae][^key-547ba793e7eaf0b66c31cb20da20dfca][^key-48514c20e5ab0e4bb30b7f5b738951a5]
+## 242. Requirement for member-nominated directors of corporate trustees[^c-8585cdf00414fd201e8a86b4dacc78ae][^c-547ba793e7eaf0b66c31cb20da20dfca][^c-48514c20e5ab0e4bb30b7f5b738951a5]
 
 *Extent: E+W+S*
 
@@ -72,8 +72,8 @@ section 10 of the Pensions Act 1995 (c. 26) (civil penalties) applies to the com
 
 ## Annotations
 
-[^key-8585cdf00414fd201e8a86b4dacc78ae]: Commencement: S. 242 in force at 1.11.2005 for specified purpose and 6.4.2006 in so far as not already in force by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)
+[^c-8585cdf00414fd201e8a86b4dacc78ae]: Commencement: S. 242 in force at 1.11.2005 for specified purpose and 6.4.2006 in so far as not already in force by [S.I. 2005/2447](https://www.legislation.gov.uk/uksi/2005/2447), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/2447/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2005/2447/schedule/part/2)
 
-[^key-547ba793e7eaf0b66c31cb20da20dfca]: Modification: Ss. 241, 242 modified (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/714/regulation/5)
+[^c-547ba793e7eaf0b66c31cb20da20dfca]: Modification: Ss. 241, 242 modified (6.4.2006) by [The Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations 2006 (S.I. 2006/714)](https://www.legislation.gov.uk/uksi/2006/714), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/714/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/714/regulation/5)
 
-[^key-48514c20e5ab0e4bb30b7f5b738951a5]: Modification: [S. 242](https://www.legislation.gov.uk/ukpga/2004/35/section/242) power to apply (with modifications) conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2), [Sch. 1 para. 1(6)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/1/paragraph/1/6)
+[^c-48514c20e5ab0e4bb30b7f5b738951a5]: Modification: [S. 242](https://www.legislation.gov.uk/ukpga/2004/35/section/242) power to apply (with modifications) conferred (26.11.2008) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/2), [Sch. 1 para. 1(6)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/1/paragraph/1/6)

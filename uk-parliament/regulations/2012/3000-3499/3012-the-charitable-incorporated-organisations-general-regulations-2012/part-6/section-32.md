@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Validity of acts of charity trustee[^key-274a6448cbc9f330cfa45468df1b84e8]
+## 32. Validity of acts of charity trustee[^c-274a6448cbc9f330cfa45468df1b84e8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-274a6448cbc9f330cfa45468df1b84e8]: Commencement: Reg. 32 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-274a6448cbc9f330cfa45468df1b84e8]: Commencement: Reg. 32 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

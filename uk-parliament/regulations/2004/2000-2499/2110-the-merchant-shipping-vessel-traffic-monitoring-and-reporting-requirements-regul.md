@@ -62,27 +62,27 @@ These Regulations may be cited as the Merchant Shipping (Vessel Traffic Monitori
 
 - “**the 1995 Act**” means the Merchant Shipping Act 1995;
 - “**agent**” means a person mandated or authorised to supply information on behalf of the owner of a ship;
-- [^key-6a66a2ae5469dd30cdcd71e6d2580cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “**the Directive**” means Directive [2002/59/EC](https://www.legislation.gov.uk/eudr/2002/59) of the European Parliament and of the Council of 27th June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive [93/75/EEC](https://www.legislation.gov.uk/eudr/1993/75) , as amended by Directive[^key-279537c24daa4e2e11f8cd3b1c58003b] [2009/17/EC](https://www.legislation.gov.uk/eudr/2009/17) of the European Parliament and of the Council of 23 June 2009 and by Commission Directive 2011/15/EU of the 23rd February 2011;
-- “[^key-e0aefd9f1fe09581e25dcae2e0bf4b55]**domestic voyage**” means a voyage from a port in the United Kingdom to the same or another port in the United Kingdom;
+- [^c-6a66a2ae5469dd30cdcd71e6d2580cf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “**the Directive**” means Directive [2002/59/EC](https://www.legislation.gov.uk/eudr/2002/59) of the European Parliament and of the Council of 27th June 2002 establishing a Community vessel traffic monitoring and information system and repealing Council Directive [93/75/EEC](https://www.legislation.gov.uk/eudr/1993/75) , as amended by Directive[^c-279537c24daa4e2e11f8cd3b1c58003b] [2009/17/EC](https://www.legislation.gov.uk/eudr/2009/17) of the European Parliament and of the Council of 23 June 2009 and by Commission Directive 2011/15/EU of the 23rd February 2011;
+- “[^c-e0aefd9f1fe09581e25dcae2e0bf4b55]**domestic voyage**” means a voyage from a port in the United Kingdom to the same or another port in the United Kingdom;
 - “**EEA State**” means a member State, Norway, Iceland or Liechtenstein;
-- “**the IBC Code**” means the 2007[^key-7f2281d4cd2152fb551d80c7f88d3426] edition of the IMO International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk;
+- “**the IBC Code**” means the 2007[^c-7f2281d4cd2152fb551d80c7f88d3426] edition of the IMO International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk;
 - “**the IGC Code**” means the 1993 edition of the IMO International Code for the Construction and Equipment of Ships Carrying Liquified Gases in Bulk;
-- “**IMDG Code**” means the 2010/11[^key-49f9366e93ac6c54c16d4898a1826d60] edition of the IMO International Maritime Dangerous Goods Code;
+- “**IMDG Code**” means the 2010/11[^c-49f9366e93ac6c54c16d4898a1826d60] edition of the IMO International Maritime Dangerous Goods Code;
 - “**IMO**” means the International Maritime Organization;
 - “**the IMO guidelines**” means the Guidelines for Vessel Traffic Services contained in IMO Resolution A.857(20) adopted on 27th November 1997;
-- “the[^key-63d035221ce003089192c6a562d4cb1e] IMSBC Code” means the International Maritime Solid Bulk Cargoes (IMSBC) Code, 2009 edition & supplement (formerly the Code of Safe Practice for Solid Bulk Cargoes (BC Code));
-- “the[^key-9d43d9bd988895592e15b4497f01f127] ISM Code” means the 2010 edition of the International Safety Management (ISM) Code for the Safe Operation of Ships and for Pollution Prevention;
+- “the[^c-63d035221ce003089192c6a562d4cb1e] IMSBC Code” means the International Maritime Solid Bulk Cargoes (IMSBC) Code, 2009 edition & supplement (formerly the Code of Safe Practice for Solid Bulk Cargoes (BC Code));
+- “the[^c-9d43d9bd988895592e15b4497f01f127] ISM Code” means the 2010 edition of the International Safety Management (ISM) Code for the Safe Operation of Ships and for Pollution Prevention;
 - “**the MCA**” means the Maritime and Coastguard Agency, an Executive Agency of the Department for Transport;
-- “**the MARPOL Convention**” means the International Convention for the Prevention of Pollution from Ships [^c5398131] and the 1978 Protocol thereto [^c5398141] and the amendments in force on the date on which the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 come into force;[^key-fa13dd3c49fdd16f1f508be5066d471e]
+- “**the MARPOL Convention**” means the International Convention for the Prevention of Pollution from Ships [^c5398131] and the 1978 Protocol thereto [^c5398141] and the amendments in force on the date on which the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 come into force;[^c-fa13dd3c49fdd16f1f508be5066d471e]
 - “**Merchant Shipping Notice**” means a Notice described as such and issued by the MCA;
 - “**non-United Kingdom ship**” means a ship which is not a United Kingdom ship;
 - “**owner**”, as regards a ship, includes any organisation or person such as the manager or the bareboat charterer who has assumed responsibility for the operation of the ship from the owner of the ship, and who on assuming such responsibility has agreed to take over all the duties and responsibilities imposed by the ISM Code;
-- “[^key-6fb8a1626a3cf14e49704c8778af3c38]**port authority**” in relation a member State means a port authority within the meaning of the Directive and in relation to the United Kingdom means a statutory harbour authority within the meaning of the 1995 Act, and “**authority**” in relation to a port shall be construed accordingly;
-- “relevant requirements” means the requirements of paragraph 2.4.5 of regulation 19 in Chapter V of the Annex to the SOLAS Convention;[^key-d474d3f42f5f7a7dd2e9249ba0f599dd]
+- “[^c-6fb8a1626a3cf14e49704c8778af3c38]**port authority**” in relation a member State means a port authority within the meaning of the Directive and in relation to the United Kingdom means a statutory harbour authority within the meaning of the 1995 Act, and “**authority**” in relation to a port shall be construed accordingly;
+- “relevant requirements” means the requirements of paragraph 2.4.5 of regulation 19 in Chapter V of the Annex to the SOLAS Convention;[^c-d474d3f42f5f7a7dd2e9249ba0f599dd]
 - “scheduled service” means a series of ship crossings operated so as to serve traffic between the same two or more ports, either according to a published timetable or with crossings so regular or frequent that they constitute a recognisable systematic series and it is intended that the service will be operated for a minimum of one month,
 - “**ship**” means a sea-going vessel or craft;
-- “**the SOLAS Convention**” means the International Convention for the Safety of Life at Sea, 1974 [^c5398151] as amended in accordance with its Protocol of 1988 [^c5398161] and the amendments in force on the date on which the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2011[^key-3f0c8b0da2ac36f9246a3653ba0d2a68] come into force;
+- “**the SOLAS Convention**” means the International Convention for the Safety of Life at Sea, 1974 [^c5398151] as amended in accordance with its Protocol of 1988 [^c5398161] and the amendments in force on the date on which the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2011[^c-3f0c8b0da2ac36f9246a3653ba0d2a68] come into force;
 - “**traditional ship**” means an historical ship or a replica of an historical ship operated according to traditional principles of seamanship and technique, and for the purposes of this definition, a replica of an historical ship includes such replica designed to encourage and promote traditional skills and seamanship;
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
 - “**VTS**” means vessel traffic service;
@@ -114,7 +114,7 @@ These Regulations may be cited as the Merchant Shipping (Vessel Traffic Monitori
 - (a) goods classified as dangerous in the IMDG Code;
 - (b) dangerous liquid substances listed in Chapter 17 of the IBC Code;
 - (c) liquefied gases listed in Chapter 19 of the IGC Code;
-- (d) solids referred to in Appendix B of the IMSBC[^key-cdd984e53d1489c44e341d09b37dea11] Code;
+- (d) solids referred to in Appendix B of the IMSBC[^c-cdd984e53d1489c44e341d09b37dea11] Code;
 - (e) goods in respect of whose carriage appropriate preconditions have been imposed in accordance with paragraph 1.1.3 of the IBC Code or paragraph 1.1.6 of the IGC Code.
 
 (4) For the purposes of these Regulations, “**polluting goods**” means—
@@ -138,10 +138,10 @@ These Regulations may be cited as the Merchant Shipping (Vessel Traffic Monitori
 
 (8) Any reference in these Regulations to—
 
-- (a)[^key-55d8d0218bd9728064878a7eb3d654bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-55d8d0218bd9728064878a7eb3d654bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the IBC Code;
 - (c) the IGC Code;
-- (ca)[^key-f3f459c14039f9e3769b59dbb72c6dc6] the IMSBC Code;
+- (ca)[^c-f3f459c14039f9e3769b59dbb72c6dc6] the IMSBC Code;
 - (d) the IMDG Code; or
 - (e) the ISM Code,
 
@@ -152,7 +152,7 @@ includes a reference to any document amending that publication which is consider
 For the purposes of these Regulations—
 
 - (a) as regards the United Kingdom, the competent authority shall be the MCA;
-- (b) as regards an EEA State [^key-cadb03bd4264de9df773d6e8363a8b4c]..., the competent authority shall be the authority designated as such by the EEA State in question in accordance with article 22 of the Directive.
+- (b) as regards an EEA State [^c-cadb03bd4264de9df773d6e8363a8b4c]..., the competent authority shall be the authority designated as such by the EEA State in question in accordance with article 22 of the Directive.
 
 ### 4. Application
 
@@ -161,31 +161,31 @@ For the purposes of these Regulations—
 - (a) all United Kingdom ships wherever they may be; and
 - (b) all non-United Kingdom ships whilst they are in United Kingdom waters.
 
-(2) [^key-a76074630f855c46b711520cabb31e40]... These Regulations do not apply to—
+(2) [^c-a76074630f855c46b711520cabb31e40]... These Regulations do not apply to—
 
 - (a) ships of less than 300 gross tonnage, unless otherwise stated;
-- (b) warships, naval auxiliaries and other ships owned or operated by the Government of the United Kingdom or[^key-b428afabe6062ee706266d3925293b37] an EEA State which are used for non-commercial public service;
-- (c) fishing vessels having a length of less than 45 metres[^key-343d41b70fd27d27020d844e77bc4d6a] unless otherwise stated[^key-921c7968817bcebd99e4cdc46817ccf4];
-- (d) traditional ships having a length of less than 45 metres[^key-c071166e14c76ce0ba9d2f4813df0058];
+- (b) warships, naval auxiliaries and other ships owned or operated by the Government of the United Kingdom or[^c-b428afabe6062ee706266d3925293b37] an EEA State which are used for non-commercial public service;
+- (c) fishing vessels having a length of less than 45 metres[^c-343d41b70fd27d27020d844e77bc4d6a] unless otherwise stated[^c-921c7968817bcebd99e4cdc46817ccf4];
+- (d) traditional ships having a length of less than 45 metres[^c-c071166e14c76ce0ba9d2f4813df0058];
 - (e) recreational craft having a length of less than 45 metres.
 
-(3) [^key-9e3f4324d9edfa0fbf1fb8b063f297f7]... In relation to a ship, these Regulations do not apply to—
+(3) [^c-9e3f4324d9edfa0fbf1fb8b063f297f7]... In relation to a ship, these Regulations do not apply to—
 
-- (a)[^key-0659a5e2a1003a60139bbb612941e8d0] bunkers on ships of less than 1000 gross tonnage;
+- (a)[^c-0659a5e2a1003a60139bbb612941e8d0] bunkers on ships of less than 1000 gross tonnage;
 - (b) ships’ stores and equipment for use on board any ship.
 
 (4) For the purposes of regulation 10, in relation to a ship, bunkers for use on board that ship shall not be regarded as dangerous or polluting goods.
 
-(5)[^key-e73da6631f9d7b34db8618c7ad2c17b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e73da6631f9d7b34db8618c7ad2c17b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) In this regulation, “**length**” [^key-e572779a0129627ed565d6342e130ee9]... means either—
+(6) In this regulation, “**length**” [^c-e572779a0129627ed565d6342e130ee9]... means either—
 
-- (a) 96% of the total length of the vessel, ship or craft[^key-9863ae43a09ad91c84ee51510b1804e1] on a waterline at 85% of the least moulded depth measured from the keel line; or
+- (a) 96% of the total length of the vessel, ship or craft[^c-9863ae43a09ad91c84ee51510b1804e1] on a waterline at 85% of the least moulded depth measured from the keel line; or
 - (b) the length from the foreside of the stem to the axis of the rudder stock on that waterline,
 
 whichever is the greater, and where the vessel, ship or craft in question is designed with rake of keel, the waterline on which the lengths referred to in (a) and (b) are measured shall be parallel to the designed waterline.
 
-### 4A. Exemptions from the requirements of regulations 5 or 10[^key-b836432311d96d744b8ab8fc8d3dbf01]
+### 4A. Exemptions from the requirements of regulations 5 or 10[^c-b836432311d96d744b8ab8fc8d3dbf01]
 
 (1) The Secretary of State may exempt the owner, agent and master of a specified ship on a scheduled service from the requirements of regulation 5(2) or 10(2) in relation to a voyage that is scheduled to last up to 12 hours and is part of a scheduled service between ports within the United Kingdom.
 
@@ -201,7 +201,7 @@ whichever is the greater, and where the vessel, ship or craft in question is des
 
 (3) Where an exemption has been granted under paragraph (1) the master of a specified ship shall notify the port authority of destination of any deviation of 3 hours or more from the estimated time of arrival at that port, or the pilot station for that port.
 
-(4) Regulations 5(2) and 10(2) do not apply to the owner, agent or master of a ship engaged on an international scheduled service in respect of which there is in force an exemption granted pursuant to Article 15.2 of the Directive , reading each reference in the Article to ‘Member States’ as including the United Kingdom[^key-e3b21c81ed910bb3d0840387085803f0].
+(4) Regulations 5(2) and 10(2) do not apply to the owner, agent or master of a ship engaged on an international scheduled service in respect of which there is in force an exemption granted pursuant to Article 15.2 of the Directive , reading each reference in the Article to ‘Member States’ as including the United Kingdom[^c-e3b21c81ed910bb3d0840387085803f0].
 
 ## PART 2 — SHIP REPORTING AND MONITORING
 
@@ -230,7 +230,7 @@ whichever is the greater, and where the vessel, ship or craft in question is des
 
 (5) Where information has been notified in accordance with paragraph (2), the master of the ship in question shall notify immediately the authorities of the port to which the ship is bound of any changes to that information.
 
-(6) A port authority in the United Kingdom to whom information has been notified pursuant to this regulation shall, on receipt of that information, pass it to the MCA and whenever practicable the notification by the port authority shall be made electronically[^key-f3a696ab40ed48dc00af989324c75078].
+(6) A port authority in the United Kingdom to whom information has been notified pursuant to this regulation shall, on receipt of that information, pass it to the MCA and whenever practicable the notification by the port authority shall be made electronically[^c-f3a696ab40ed48dc00af989324c75078].
 
 ### 6. Vessel traffic services within territorial seas
 
@@ -295,17 +295,17 @@ the ship shall follow the rules of that VTS whenever possible.
 
 (2) A ship referred to in paragraph (1), other than a ship referred to in paragraph (1)(f), shall be fitted with an automatic identification system, which complies with the relevant requirements.
 
-(3) Subject to paragraph (4), a ship referred to in paragraph (1)(f) shall be fitted with an automatic identification system, which complies with the relevant requirements in accordance with the timetable contained in Part I of Annex II to the Directive , reading each reference in the Annex to ‘a port of a Member State of the Community’ as including a port in the United Kingdom[^key-5e20ca83bafe9e8cc6d28e089dcfc2ee].
+(3) Subject to paragraph (4), a ship referred to in paragraph (1)(f) shall be fitted with an automatic identification system, which complies with the relevant requirements in accordance with the timetable contained in Part I of Annex II to the Directive , reading each reference in the Annex to ‘a port of a Member State of the Community’ as including a port in the United Kingdom[^c-5e20ca83bafe9e8cc6d28e089dcfc2ee].
 
 (4) If a tanker built before 1st July 2002 on a domestic voyage has not undergone a survey for safety equipment since 1st July 2003, the tanker in question shall be fitted with an automatic identification system which complies with the relevant requirements no later than the next such survey.
 
 (5) In this regulation—
 
 - (a) “**cargo craft**” means a high-speed craft, other than a craft carrying more than 12 passengers, which is capable of maintaining the main functions and safety systems of unaffected spaces after damage in any one compartment on board;
-- (b) “**high speed craft**” means a craft capable of a maximum speed in metres per second (m/s) equal to or exceeding: 3.7∇<sup>0.1667</sup> where ∇ = volume of displacement corresponding to the design waterline (m<sup>3</sup>), excluding craft the hull of which is supported clear above the water surface in non displacement mode by aerodynamic forces generated by ground effect; [^key-8069f606785a79d16596df6b51c4984d]...
-- (c)[^key-8069f606785a79d16596df6b51c4984d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) “**high speed craft**” means a craft capable of a maximum speed in metres per second (m/s) equal to or exceeding: 3.7∇<sup>0.1667</sup> where ∇ = volume of displacement corresponding to the design waterline (m<sup>3</sup>), excluding craft the hull of which is supported clear above the water surface in non displacement mode by aerodynamic forces generated by ground effect; [^c-8069f606785a79d16596df6b51c4984d]...
+- (c)[^c-8069f606785a79d16596df6b51c4984d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8A. Installation of automatic identification systems on fishing vessels[^key-7e036f87d053647661bf9a8d3af5fae8]
+### 8A. Installation of automatic identification systems on fishing vessels[^c-7e036f87d053647661bf9a8d3af5fae8]
 
 (1) This regulation applies to a fishing vessel having an overall length of more than 15 metres which—
 
@@ -313,9 +313,9 @@ the ship shall follow the rules of that VTS whenever possible.
 - (b) is landing its catch at a port situated in the United Kingdom; or
 - (c) is registered in the United Kingdom.
 
-(2) A fishing vessel referred to in paragraph (1) shall be fitted with an automatic identification system which complies with the relevant requirements in accordance with the timetable contained in Part I of Annex II to the Directive , reading each reference in the Annex to ‘a port of a Member State of the Community’ as including a port in the United Kingdom[^key-53f61a1416b4423eab81727a564735ad].
+(2) A fishing vessel referred to in paragraph (1) shall be fitted with an automatic identification system which complies with the relevant requirements in accordance with the timetable contained in Part I of Annex II to the Directive , reading each reference in the Annex to ‘a port of a Member State of the Community’ as including a port in the United Kingdom[^c-53f61a1416b4423eab81727a564735ad].
 
-### 9. Operation of automatic identification systems[^key-52227e9089a41e553f9c93d8943a6ba9]
+### 9. Operation of automatic identification systems[^c-52227e9089a41e553f9c93d8943a6ba9]
 
 (1) Where a ship is fitted with an automatic identification system pursuant to regulation 8 or 8A, the master shall comply with—
 
@@ -335,9 +335,9 @@ the ship shall follow the rules of that VTS whenever possible.
 - (a) dangerous goods; or
 - (b) polluting goods.
 
-(2) Subject to paragraph (8) and regulation 4A[^key-ee2d14536f5c8d39acfb648fca23da36], before a ship departs from a port in the United Kingdom, the owner, agent or master of that ship shall notify the MCA of the information specified in Annex B of Merchant Shipping Notice 1831 (M+F)[^key-a61fa6b2b991b8b6bb871e9fca2ecc38] in accordance with that Notice.
+(2) Subject to paragraph (8) and regulation 4A[^c-ee2d14536f5c8d39acfb648fca23da36], before a ship departs from a port in the United Kingdom, the owner, agent or master of that ship shall notify the MCA of the information specified in Annex B of Merchant Shipping Notice 1831 (M+F)[^c-a61fa6b2b991b8b6bb871e9fca2ecc38] in accordance with that Notice.
 
-(3) Subject to regulation 4A, before a United Kingdom ship departs from a port located in an EEA State [^key-e2ab237b35f4ba7cce2d438f6b35f377]... the owner, agent or master of that United Kingdom ship shall notify the competent authority of the State in which that port is situated of the information specified in Annex B of Merchant Shipping Notice 1831 (M+F) in accordance with that Notice.
+(3) Subject to regulation 4A, before a United Kingdom ship departs from a port located in an EEA State [^c-e2ab237b35f4ba7cce2d438f6b35f377]... the owner, agent or master of that United Kingdom ship shall notify the competent authority of the State in which that port is situated of the information specified in Annex B of Merchant Shipping Notice 1831 (M+F) in accordance with that Notice.
 
 (4) Subject to regulation 4A, where a United Kingdom ship—
 
@@ -346,13 +346,13 @@ the ship shall follow the rules of that VTS whenever possible.
   - (i) a port located in, or
   - (ii) an anchorage located in the territorial waters of,
 
-  an EEA State [^key-8c6453ed18f2318d8bacf3165310927f]...,
+  an EEA State [^c-8c6453ed18f2318d8bacf3165310927f]...,
 
 the owner, master or agent of that ship shall notify the competent authority of the EEA State in question of the information specified in Annex B of Merchant Shipping Notice 1831 (M+F) in accordance with that Notice by the time specified in paragraph (6).
 
 (5) Subject to paragraph (8) and regulation 4A, where a ship—
 
-- (a) is coming from a port which is not located in an EEA State or in the United Kingdom[^key-41bc9a0334e9bf9b355bde4e7429c83a]; and
+- (a) is coming from a port which is not located in an EEA State or in the United Kingdom[^c-41bc9a0334e9bf9b355bde4e7429c83a]; and
 - (b) is bound for a port in the United Kingdom or an anchorage located in United Kingdom waters,
 
 the owner, master or agent of that ship shall notify the MCA of the information specified in Annex B of Merchant Shipping Notice 1831 (M+F) in accordance with that Notice by the time specified in paragraph (6).
@@ -370,7 +370,7 @@ the owner, master or agent of that ship shall notify the MCA of the information 
 
   is not known at the time of departure from the port at which the dangerous goods or the polluting goods, as the case may be, were loaded, the time immediately such port or such location is known.
 
-(7) Whenever practicable, the information referred to in paragraphs (2) and (5) shall be notified to the MCA by electronic means using the procedures specified in Merchant Shipping Notice 1831 (M+F)[^key-39abb66716a0fdd7f7d8d0fcae7522ba].
+(7) Whenever practicable, the information referred to in paragraphs (2) and (5) shall be notified to the MCA by electronic means using the procedures specified in Merchant Shipping Notice 1831 (M+F)[^c-39abb66716a0fdd7f7d8d0fcae7522ba].
 
 (8) When required to do so by the MCA, the owner, agent or master of a ship shall notify—
 
@@ -384,13 +384,13 @@ the owner, master or agent of that ship shall notify the MCA of the information 
 
 (10) Where information has been notified in accordance with this regulation, the master of the ship in question shall notify immediately the person to whom that information was notified of any changes to that information.
 
-### 11. Exemptions from the requirements of regulation 10[^key-76f0ab7bc3edfe07f6616ad7c7d5a276]
+### 11. Exemptions from the requirements of regulation 10[^c-76f0ab7bc3edfe07f6616ad7c7d5a276]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — INCIDENTS AND ACCIDENTS AT SEA
 
-### 12. Reporting of incidents and accidents at sea[^key-9dbfbfdbaf5b514fad6d6fc6047dedf6]
+### 12. Reporting of incidents and accidents at sea[^c-9dbfbfdbaf5b514fad6d6fc6047dedf6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -398,7 +398,7 @@ the owner, master or agent of that ship shall notify the MCA of the information 
 
 (1) This regulation applies whenever, in the event of exceptionally bad weather or sea conditions, the MCA are of the opinion, based on information provided to them by the Meteorological Office, that there is—
 
-- (a) a serious threat of pollution in United Kingdom waters or the territorial sea of any [^key-a87fede252244bd04d0e958bc47b97bb]... EEA State; or
+- (a) a serious threat of pollution in United Kingdom waters or the territorial sea of any [^c-a87fede252244bd04d0e958bc47b97bb]... EEA State; or
 - (b) a risk to human life.
 
 (2) Whenever possible, the MCA shall provide to the master of every ship which intends to enter or leave a port in a relevant area full details of—
@@ -442,12 +442,12 @@ the MCA shall inform the master of the ship of that opinion.
 - (a) “**relevant area**” means an area in United Kingdom waters in respect of which exceptionally bad weather or sea conditions are forecast;
 - (b) “**professional judgement**” means professional judgement as regards matters relating to safe navigation or the protection of the marine environment.
 
-### 13A. Measures to be taken in the event of risks posed by the presence of ice[^key-87c16bcf8e0eb8ac88b53d798bb0adae]
+### 13A. Measures to be taken in the event of risks posed by the presence of ice[^c-87c16bcf8e0eb8ac88b53d798bb0adae]
 
 (1) This regulation applies whenever the MCA are of the opinion, based on information provided to them by the Meteorological Office, that the presence of ice poses a serious threat to the—
 
 - (a) safety of human life at sea; or
-- (b) protection of United Kingdom waters or the territorial sea of any [^key-0ceff7ea90ec8d4674722ca4eacc3b41]... EEA State.
+- (b) protection of United Kingdom waters or the territorial sea of any [^c-0ceff7ea90ec8d4674722ca4eacc3b41]... EEA State.
 
 (2) The MCA shall supply to the master of every ship in United Kingdom waters or which intends to enter or leave a port in the United Kingdom appropriate information on the—
 
@@ -457,13 +457,13 @@ the MCA shall inform the master of the ship of that opinion.
 
 within United Kingdom waters.
 
-### 14. Measures to be taken in the event of incidents or accidents at sea[^key-18b35bc6906dec52e97218283a1b727c]
+### 14. Measures to be taken in the event of incidents or accidents at sea[^c-18b35bc6906dec52e97218283a1b727c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 15. Obligations of shipowners in relation to accidents and incidents
 
-(1) When the owner of a ship is informed by the master of that ship of an accident or incident at sea [^key-fd1e526fd182da8e64337a7acd8db280]... in accordance with the ISM Code [^key-a5a47383b5e140795bc0842d00c65dde]... that owner—
+(1) When the owner of a ship is informed by the master of that ship of an accident or incident at sea [^c-fd1e526fd182da8e64337a7acd8db280]... in accordance with the ISM Code [^c-a5a47383b5e140795bc0842d00c65dde]... that owner—
 
 - (a) shall inform the relevant authority immediately of the accident or incident; and
 - (b) shall give such assistance as may be reasonably required by the relevant authority.
@@ -476,24 +476,24 @@ within United Kingdom waters.
   - (iii) a person or body who is responsible for the co-ordination of search and rescue operations at sea or the co-ordination of operations to deal with pollution at sea; and
 - (b) “**the relevant authority**” means—
   - (i) Her Majesty’s Coastguard, where the accident or incident occurs in United Kingdom waters, or
-  - (ii) the coastal authority of the EEA State [^key-32a5ca5d55364597798f711045755f43]... in whose territorial waters the accident or incident occurred.
+  - (ii) the coastal authority of the EEA State [^c-32a5ca5d55364597798f711045755f43]... in whose territorial waters the accident or incident occurred.
 
 ## PART 5 — MISCELLANEOUS PROVISIONS
 
 ### 16. Confidentiality of information
 
-(1)[^key-a9e1525938f4e0c49858f5115d2011d0] Subject to paragraph (4), no authority or member of staff of an authority shall—
+(1)[^c-a9e1525938f4e0c49858f5115d2011d0] Subject to paragraph (4), no authority or member of staff of an authority shall—
 
 - (a) disclose any confidential information which has been obtained by, or furnished to, that authority or member of staff, as the case may be, under or for the purposes of the Directive and these Regulations; or
 - (b) use any such information,
 
 unless the disclosure or use is made with lawful justification.
 
-(2) For the purposes of paragraph (1), a disclosure or use[^key-b711d48f6551f6565f87d75df00d38a9] of information is made with lawful justification only if, and to the extent that—
+(2) For the purposes of paragraph (1), a disclosure or use[^c-b711d48f6551f6565f87d75df00d38a9] of information is made with lawful justification only if, and to the extent that—
 
 - (a) the disclosure or use is made for the purposes of, and is necessary for, the performance of any obligation under the Directive and these Regulations;
 - (b) the disclosure or use is made with the consent of the person to whom, or to whose business, property or other assets, the information relates;
-- (c) the disclosure or use is made for the purposes of any proceedings, whether criminal or civil; or[^key-03f288306fbb2008293dd1f28e13ab54]
+- (c) the disclosure or use is made for the purposes of any proceedings, whether criminal or civil; or[^c-03f288306fbb2008293dd1f28e13ab54]
 - (d) having regard to the rights and freedoms or legitimate interests of any person, the disclosure or use is necessary in the public interest.
 
 (3) In this regulation, “**authority**” means the MCA, Her Majesty’s Coastguard or a United Kingdom port authority.
@@ -519,12 +519,12 @@ unless the disclosure or use is made with lawful justification.
 - (a) on summary conviction to a fine not exceeding the statutory maximum; and
 - (b) on conviction on indictment to a fine.
 
-(3) If the master of a ship fails to comply with regulation 5(5), 6(1), 6(2), 7(2), 10(10), 12(1), 12(2), 12(4), 12(5), 12(7), 13(6), 13(8) or 13(9)[^key-02004a8f044683acf736a47b3360ec17], that master shall be guilty of an offence and liable—
+(3) If the master of a ship fails to comply with regulation 5(5), 6(1), 6(2), 7(2), 10(10), 12(1), 12(2), 12(4), 12(5), 12(7), 13(6), 13(8) or 13(9)[^c-02004a8f044683acf736a47b3360ec17], that master shall be guilty of an offence and liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; and
 - (b) on conviction on indictment to a fine.
 
-(4) If a ship does not comply with regulation 8(2), 8(3), 8(4) or 8A[^key-934d2daafbffa56389c3f4cfa6d7dbab], the owner of that ship shall be guilty of an offence and liable—
+(4) If a ship does not comply with regulation 8(2), 8(3), 8(4) or 8A[^c-934d2daafbffa56389c3f4cfa6d7dbab], the owner of that ship shall be guilty of an offence and liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; and
 - (b) on conviction on indictment to a fine or to imprisonment for a term not exceeding two years or both.
@@ -583,15 +583,15 @@ In any case where a ship does not comply with the requirements of these Regulati
 
 (1) In Schedule 3A to the 1995 Act [^c5398221], after sub-paragraph (d) of paragraph 1(2), there shall be inserted “ (da) the owner of a hazardous substance in the ship, ”.
 
-(2)[^key-d9eb139cb4203a6849506b797e7fa5fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d9eb139cb4203a6849506b797e7fa5fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-047dd9921114224c5485256d77ab5427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-047dd9921114224c5485256d77ab5427] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-7d88dc20dd3550807886bbf2d9bc82c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7d88dc20dd3550807886bbf2d9bc82c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-08e9d8c99b95725b189de7535445424b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-08e9d8c99b95725b189de7535445424b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Review[^key-907e9a347574cdac196ac6e9956608a9]
+### 23. Review[^c-907e9a347574cdac196ac6e9956608a9]
 
 (1) The Secretary of State must from time to time—
 
@@ -619,33 +619,33 @@ Parliamentary Under Secretary of State,
 
 Department for Transport
 
-## SCHEDULE 1 — Amendments to the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^key-119a1be211e69b81f3749b05488d6fe2]
+## SCHEDULE 1 — Amendments to the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995[^c-119a1be211e69b81f3749b05488d6fe2]
 
 **No longer in force.**
 
 Regulation 22(2)
 
-**1.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-119a1be211e69b81f3749b05488d6fe2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Amendments to the Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997
 
@@ -705,25 +705,25 @@ Regulation 22(4)
 
 .
 
-## SCHEDULE 3 — Amendments to the Merchant Shipping (Safety of Navigation) Regulations 2002[^key-9ae7fd9103999a6fec6ffebd92be1a77]
+## SCHEDULE 3 — Amendments to the Merchant Shipping (Safety of Navigation) Regulations 2002[^c-9ae7fd9103999a6fec6ffebd92be1a77]
 
 **No longer in force.**
 
 Regulation 22(5)
 
-**1.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-9ae7fd9103999a6fec6ffebd92be1a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Order)*
 
@@ -787,140 +787,140 @@ A copy of the Transposition Note is also available from the Maritime and Coastgu
 
 [^c5398111]: Marginal citation: [S.I. 1990/2595](https://www.legislation.gov.uk/uksi/1990/2595).
 
-[^key-6a66a2ae5469dd30cdcd71e6d2580cf8]: Textual amendment: Words in reg. 2(1) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/a)
+[^c-6a66a2ae5469dd30cdcd71e6d2580cf8]: Textual amendment: Words in reg. 2(1) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/a)
 
-[^key-279537c24daa4e2e11f8cd3b1c58003b]: Textual amendment: Words in reg. 2(1) added (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/b)
+[^c-279537c24daa4e2e11f8cd3b1c58003b]: Textual amendment: Words in reg. 2(1) added (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/b)
 
-[^key-e0aefd9f1fe09581e25dcae2e0bf4b55]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0aefd9f1fe09581e25dcae2e0bf4b55]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(2)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f2281d4cd2152fb551d80c7f88d3426]: Textual amendment: Word in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/c)
+[^c-7f2281d4cd2152fb551d80c7f88d3426]: Textual amendment: Word in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(c)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/c)
 
-[^key-49f9366e93ac6c54c16d4898a1826d60]: Textual amendment: Word in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(d)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/d)
+[^c-49f9366e93ac6c54c16d4898a1826d60]: Textual amendment: Word in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(d)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/d)
 
-[^key-63d035221ce003089192c6a562d4cb1e]: Textual amendment: Words in reg. 2(1) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/f)
+[^c-63d035221ce003089192c6a562d4cb1e]: Textual amendment: Words in reg. 2(1) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/f)
 
-[^key-9d43d9bd988895592e15b4497f01f127]: Textual amendment: Words in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(e)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/e)
+[^c-9d43d9bd988895592e15b4497f01f127]: Textual amendment: Words in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(e)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/e)
 
 [^c5398131]: Marginal citation: Cmnd 5748.
 
 [^c5398141]: Marginal citation: Cmnd 7347.
 
-[^key-fa13dd3c49fdd16f1f508be5066d471e]: Textual amendment: Words in reg. 2(1) added (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(g)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/g)
+[^c-fa13dd3c49fdd16f1f508be5066d471e]: Textual amendment: Words in reg. 2(1) added (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(g)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/g)
 
-[^key-6fb8a1626a3cf14e49704c8778af3c38]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fb8a1626a3cf14e49704c8778af3c38]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/2/1) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(2)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d474d3f42f5f7a7dd2e9249ba0f599dd]: Textual amendment: Words in reg. 2(1) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(h)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/h)
+[^c-d474d3f42f5f7a7dd2e9249ba0f599dd]: Textual amendment: Words in reg. 2(1) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(h)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/h)
 
 [^c5398151]: Marginal citation: Cmnd. 7874.
 
 [^c5398161]: Marginal citation: Cm 4420.
 
-[^key-3f0c8b0da2ac36f9246a3653ba0d2a68]: Textual amendment: Words in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(i)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/i)
+[^c-3f0c8b0da2ac36f9246a3653ba0d2a68]: Textual amendment: Words in reg. 2(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 2(i)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/2/i)
 
-[^key-cdd984e53d1489c44e341d09b37dea11]: Textual amendment: Words in reg. 2(3)(d) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/3)
+[^c-cdd984e53d1489c44e341d09b37dea11]: Textual amendment: Words in reg. 2(3)(d) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/3)
 
 [^c5398171]: Marginal citation: 1981 c .61.
 
-[^key-55d8d0218bd9728064878a7eb3d654bd]: Textual amendment: Reg. 2(8)(a) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/4/a)
+[^c-55d8d0218bd9728064878a7eb3d654bd]: Textual amendment: Reg. 2(8)(a) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/4/a)
 
-[^key-f3f459c14039f9e3769b59dbb72c6dc6]: Textual amendment: Reg. 2(8)(ca) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/4/b)
+[^c-f3f459c14039f9e3769b59dbb72c6dc6]: Textual amendment: Reg. 2(8)(ca) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/4/b)
 
-[^key-cadb03bd4264de9df773d6e8363a8b4c]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/3/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cadb03bd4264de9df773d6e8363a8b4c]: Textual amendment: Words in [reg. 3(b)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/3/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a76074630f855c46b711520cabb31e40]: Textual amendment: Words in reg. 4(2) revoked (27.4.2005) by [The Merchant Shipping (Amendments to Reporting Requirements) Regulations 2005 (S.I. 2005/1092)](https://www.legislation.gov.uk/uksi/2005/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1092/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2005/1092/regulation/7/2)
+[^c-a76074630f855c46b711520cabb31e40]: Textual amendment: Words in reg. 4(2) revoked (27.4.2005) by [The Merchant Shipping (Amendments to Reporting Requirements) Regulations 2005 (S.I. 2005/1092)](https://www.legislation.gov.uk/uksi/2005/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1092/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2005/1092/regulation/7/2)
 
-[^key-b428afabe6062ee706266d3925293b37]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/4/2/b) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b428afabe6062ee706266d3925293b37]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/4/2/b) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(4)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-343d41b70fd27d27020d844e77bc4d6a]: Textual amendment: Words in reg. 4(2)(c) added (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/a)
+[^c-343d41b70fd27d27020d844e77bc4d6a]: Textual amendment: Words in reg. 4(2)(c) added (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/a)
 
-[^key-921c7968817bcebd99e4cdc46817ccf4]: Textual amendment: Words in reg. 4(2)(c) added (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/5/a)
+[^c-921c7968817bcebd99e4cdc46817ccf4]: Textual amendment: Words in reg. 4(2)(c) added (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/5/a)
 
-[^key-c071166e14c76ce0ba9d2f4813df0058]: Textual amendment: Words in reg. 4(2)(d) added (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/b)
+[^c-c071166e14c76ce0ba9d2f4813df0058]: Textual amendment: Words in reg. 4(2)(d) added (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/b)
 
-[^key-9e3f4324d9edfa0fbf1fb8b063f297f7]: Textual amendment: Words in reg. 4(3) revoked (27.4.2005) by [The Merchant Shipping (Amendments to Reporting Requirements) Regulations 2005 (S.I. 2005/1092)](https://www.legislation.gov.uk/uksi/2005/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1092/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/1092/regulation/7/3)
+[^c-9e3f4324d9edfa0fbf1fb8b063f297f7]: Textual amendment: Words in reg. 4(3) revoked (27.4.2005) by [The Merchant Shipping (Amendments to Reporting Requirements) Regulations 2005 (S.I. 2005/1092)](https://www.legislation.gov.uk/uksi/2005/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1092/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2005/1092/regulation/7/3)
 
-[^key-0659a5e2a1003a60139bbb612941e8d0]: Textual amendment: Reg. 4(3)(a)(b) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/5/b) (it is presumed the closing words “for use on board that ship” were intended to be included in this substitution)
+[^c-0659a5e2a1003a60139bbb612941e8d0]: Textual amendment: Reg. 4(3)(a)(b) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/5/b) (it is presumed the closing words “for use on board that ship” were intended to be included in this substitution)
 
-[^key-e73da6631f9d7b34db8618c7ad2c17b8]: Textual amendment: Reg. 4(5) revoked (27.4.2005) by [The Merchant Shipping (Amendments to Reporting Requirements) Regulations 2005 (S.I. 2005/1092)](https://www.legislation.gov.uk/uksi/2005/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1092/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2005/1092/regulation/7/4)
+[^c-e73da6631f9d7b34db8618c7ad2c17b8]: Textual amendment: Reg. 4(5) revoked (27.4.2005) by [The Merchant Shipping (Amendments to Reporting Requirements) Regulations 2005 (S.I. 2005/1092)](https://www.legislation.gov.uk/uksi/2005/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1092/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2005/1092/regulation/7/4)
 
-[^key-e572779a0129627ed565d6342e130ee9]: Textual amendment: Words in reg. 4(6) omitted (2.1.2009) by virtue of [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/c/i)
+[^c-e572779a0129627ed565d6342e130ee9]: Textual amendment: Words in reg. 4(6) omitted (2.1.2009) by virtue of [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/c/i)
 
-[^key-9863ae43a09ad91c84ee51510b1804e1]: Textual amendment: Words in reg. 4(6) substituted (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/c/ii)
+[^c-9863ae43a09ad91c84ee51510b1804e1]: Textual amendment: Words in reg. 4(6) substituted (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/c/ii)
 
-[^key-b836432311d96d744b8ab8fc8d3dbf01]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2004/2110/regulation/4A) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/6)
+[^c-b836432311d96d744b8ab8fc8d3dbf01]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2004/2110/regulation/4A) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/6)
 
-[^key-e3b21c81ed910bb3d0840387085803f0]: Textual amendment: Words in [reg. 4A(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/4A/4) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(5)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e3b21c81ed910bb3d0840387085803f0]: Textual amendment: Words in [reg. 4A(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/4A/4) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(5)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f3a696ab40ed48dc00af989324c75078]: Textual amendment: Words in reg. 5(6) substituted (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/d)
+[^c-f3a696ab40ed48dc00af989324c75078]: Textual amendment: Words in reg. 5(6) substituted (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/d)
 
-[^key-5e20ca83bafe9e8cc6d28e089dcfc2ee]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/8/3) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(6)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e20ca83bafe9e8cc6d28e089dcfc2ee]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/8/3) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(6)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8069f606785a79d16596df6b51c4984d]: Textual amendment: Reg. 8(5)(c) and preceding word revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/7)
+[^c-8069f606785a79d16596df6b51c4984d]: Textual amendment: Reg. 8(5)(c) and preceding word revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/7)
 
-[^key-7e036f87d053647661bf9a8d3af5fae8]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2004/2110/regulation/8A) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/8)
+[^c-7e036f87d053647661bf9a8d3af5fae8]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2004/2110/regulation/8A) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/8)
 
-[^key-53f61a1416b4423eab81727a564735ad]: Textual amendment: Words in [reg. 8A(2)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/8A/2) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(7)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53f61a1416b4423eab81727a564735ad]: Textual amendment: Words in [reg. 8A(2)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/8A/2) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(7)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52227e9089a41e553f9c93d8943a6ba9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/2110/regulation/9) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/9)
+[^c-52227e9089a41e553f9c93d8943a6ba9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2004/2110/regulation/9) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/9)
 
-[^key-ee2d14536f5c8d39acfb648fca23da36]: Textual amendment: Word in reg. 10 substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/10/a/ii)
+[^c-ee2d14536f5c8d39acfb648fca23da36]: Textual amendment: Word in reg. 10 substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 10(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/10/a/ii)
 
-[^key-a61fa6b2b991b8b6bb871e9fca2ecc38]: Textual amendment: Words in reg. 10 substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/10/a/i)
+[^c-a61fa6b2b991b8b6bb871e9fca2ecc38]: Textual amendment: Words in reg. 10 substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 10(a)(i)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/10/a/i)
 
-[^key-e2ab237b35f4ba7cce2d438f6b35f377]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/10/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(8)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2ab237b35f4ba7cce2d438f6b35f377]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/10/3) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(8)(a)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c6453ed18f2318d8bacf3165310927f]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/10/4) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(8)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8c6453ed18f2318d8bacf3165310927f]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/10/4) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(8)(b)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-41bc9a0334e9bf9b355bde4e7429c83a]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/10/5) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(8)(c)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-41bc9a0334e9bf9b355bde4e7429c83a]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/10/5) inserted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(8)(c)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-39abb66716a0fdd7f7d8d0fcae7522ba]: Textual amendment: Words in reg. 10(7) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/10/b)
+[^c-39abb66716a0fdd7f7d8d0fcae7522ba]: Textual amendment: Words in reg. 10(7) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/10/b)
 
-[^key-76f0ab7bc3edfe07f6616ad7c7d5a276]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2004/2110/regulation/11) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/11)
+[^c-76f0ab7bc3edfe07f6616ad7c7d5a276]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2004/2110/regulation/11) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/11)
 
-[^key-9dbfbfdbaf5b514fad6d6fc6047dedf6]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2004/2110/regulation/12) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-9dbfbfdbaf5b514fad6d6fc6047dedf6]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2004/2110/regulation/12) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
-[^key-a87fede252244bd04d0e958bc47b97bb]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/13/1/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(9)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a87fede252244bd04d0e958bc47b97bb]: Textual amendment: Word in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/13/1/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(9)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87c16bcf8e0eb8ac88b53d798bb0adae]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2004/2110/regulation/13A) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/13)
+[^c-87c16bcf8e0eb8ac88b53d798bb0adae]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2004/2110/regulation/13A) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/13)
 
-[^key-0ceff7ea90ec8d4674722ca4eacc3b41]: Textual amendment: Word in [reg. 13A(1)(b)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/13A/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(10)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ceff7ea90ec8d4674722ca4eacc3b41]: Textual amendment: Word in [reg. 13A(1)(b)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/13A/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(10)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-18b35bc6906dec52e97218283a1b727c]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2004/2110/regulation/14) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/14)
+[^c-18b35bc6906dec52e97218283a1b727c]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2004/2110/regulation/14) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/14)
 
-[^key-fd1e526fd182da8e64337a7acd8db280]: Textual amendment: Word in reg. 15(1) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/15/a)
+[^c-fd1e526fd182da8e64337a7acd8db280]: Textual amendment: Word in reg. 15(1) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 15(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/15/a)
 
-[^key-a5a47383b5e140795bc0842d00c65dde]: Textual amendment: Words in reg. 15(1) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/15/b)
+[^c-a5a47383b5e140795bc0842d00c65dde]: Textual amendment: Words in reg. 15(1) revoked (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 15(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/15/b)
 
-[^key-32a5ca5d55364597798f711045755f43]: Textual amendment: Words in [reg. 15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/15/2/b/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(11)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32a5ca5d55364597798f711045755f43]: Textual amendment: Words in [reg. 15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/15/2/b/ii) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 20(11)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/20/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9e1525938f4e0c49858f5115d2011d0]: Textual amendment: Reg. 16(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/16/a)
+[^c-a9e1525938f4e0c49858f5115d2011d0]: Textual amendment: Reg. 16(1) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/16/a)
 
-[^key-b711d48f6551f6565f87d75df00d38a9]: Textual amendment: Words in reg. 16(2) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/16/b)
+[^c-b711d48f6551f6565f87d75df00d38a9]: Textual amendment: Words in reg. 16(2) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/16/b)
 
-[^key-03f288306fbb2008293dd1f28e13ab54]: Textual amendment: Word in reg. 16(2)(c) added (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/e)
+[^c-03f288306fbb2008293dd1f28e13ab54]: Textual amendment: Word in reg. 16(2)(c) added (2.1.2009) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) (Amendment) Regulations 2008 (S.I. 2008/3145)](https://www.legislation.gov.uk/uksi/2008/3145), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3145/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2008/3145/regulation/3/e)
 
-[^key-02004a8f044683acf736a47b3360ec17]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/17/3) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/17/a)
+[^c-02004a8f044683acf736a47b3360ec17]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/17/3) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 17(a)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/17/a)
 
-[^key-934d2daafbffa56389c3f4cfa6d7dbab]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/17/4) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/17/b)
+[^c-934d2daafbffa56389c3f4cfa6d7dbab]: Textual amendment: Words in [reg. 17(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/17/4) substituted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 17(b)](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/17/b)
 
 [^c5398211]: Marginal citation: Section 284 was amended by section 9 of, and paragraph 5 of Schedule 1 to, the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
 [^c5398221]: Marginal citation: Schedule 3A was inserted by Schedule 1 to the Marine Safety Act [2003 c. 16](https://www.legislation.gov.uk/ukpga/2003/16).
 
-[^key-d9eb139cb4203a6849506b797e7fa5fd]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/2) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-d9eb139cb4203a6849506b797e7fa5fd]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/2) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
-[^key-047dd9921114224c5485256d77ab5427]: Textual amendment: Reg. 22(3) revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-047dd9921114224c5485256d77ab5427]: Textual amendment: Reg. 22(3) revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule/part/2) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
-[^key-7d88dc20dd3550807886bbf2d9bc82c7]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/4) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-7d88dc20dd3550807886bbf2d9bc82c7]: Textual amendment: [Reg. 22(4)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/4) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
-[^key-08e9d8c99b95725b189de7535445424b]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/5) revoked (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
+[^c-08e9d8c99b95725b189de7535445424b]: Textual amendment: [Reg. 22(5)](https://www.legislation.gov.uk/uksi/2004/2110/regulation/22/5) revoked (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
 
-[^key-907e9a347574cdac196ac6e9956608a9]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2004/2110/regulation/23) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/18)
+[^c-907e9a347574cdac196ac6e9956608a9]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2004/2110/regulation/23) inserted (25.11.2011) by [The Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements)(Amendment) Regulations 2011 (S.I. 2011/2616)](https://www.legislation.gov.uk/uksi/2011/2616), [reg. 1](https://www.legislation.gov.uk/uksi/2011/2616/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2011/2616/schedule/1/paragraph/18)
 
-[^key-119a1be211e69b81f3749b05488d6fe2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2110/schedule/1) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
+[^c-119a1be211e69b81f3749b05488d6fe2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2110/schedule/1) revoked (11.6.2024) by [The Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 (S.I. 2024/636)](https://www.legislation.gov.uk/uksi/2024/636), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/636/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/636/regulation/4))
 
 [^c5398311]: Marginal citation: Cmnd 5748.
 
 [^c5398321]: Marginal citation: Cmnd 7347.
 
-[^key-9ae7fd9103999a6fec6ffebd92be1a77]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2004/2110/schedule/3) revoked (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))
+[^c-9ae7fd9103999a6fec6ffebd92be1a77]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2004/2110/schedule/3) revoked (31.7.2020) by [The Merchant Shipping (Safety of Navigation) Regulations 2020 (S.I. 2020/673)](https://www.legislation.gov.uk/uksi/2020/673), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/673/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/673/schedule/part/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/673/regulation/3))

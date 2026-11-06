@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. First excepted case[^key-0effbeac28033a356f1022005ecd8b01]
+## 184. First excepted case[^c-0effbeac28033a356f1022005ecd8b01]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.228 of the 1986 Rules[^f00064]. In paragraph (1)(b)(ii) ignore the 
 
 ## Annotations
 
-[^key-0effbeac28033a356f1022005ecd8b01]: Commencement: Rule 184 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-0effbeac28033a356f1022005ecd8b01]: Commencement: Rule 184 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00064]: Footnote: Rule 4.228 was substituted by [S.I. 2007/1974](https://www.legislation.gov.uk/uksi/2007/1974).

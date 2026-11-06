@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Exclusion of claims for certain existing benefits[^key-8f31b846846e9a223dcd4c39c5521d99]
+## 6. Exclusion of claims for certain existing benefits[^c-8f31b846846e9a223dcd4c39c5521d99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f31b846846e9a223dcd4c39c5521d99]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1230/regulation/6) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/752/regulation/3)
+[^c-8f31b846846e9a223dcd4c39c5521d99]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1230/regulation/6) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/752/regulation/3)

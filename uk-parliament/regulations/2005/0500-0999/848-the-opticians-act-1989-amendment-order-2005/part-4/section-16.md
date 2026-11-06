@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Insertion of Part 2A[^key-46149145fe7ed1dfc5a0ed71541d30ce]
+## 16. Insertion of Part 2A[^c-46149145fe7ed1dfc5a0ed71541d30ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -492,4 +492,4 @@ After section 13 insert the following Part—
 
 ## Annotations
 
-[^key-46149145fe7ed1dfc5a0ed71541d30ce]: Commencement: Art. 16 comes into force in accordance with art. 1(3)-(6)
+[^c-46149145fe7ed1dfc5a0ed71541d30ce]: Commencement: Art. 16 comes into force in accordance with art. 1(3)-(6)

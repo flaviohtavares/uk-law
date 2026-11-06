@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Conditions of accreditation[^key-c199fd4c5d725563af63514c51549bc6]
+## 98. Conditions of accreditation[^c-c199fd4c5d725563af63514c51549bc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ An accreditation granted to a reprocessor or exporter (“**RE**”) under this 
 - (b) complies with—
   - (i) the conditions of registration in regulation 88;
   - (ii) the conditions in Part 3 of Schedule 8; and
-  - (iii) any special conditions specified by the appropriate agency under regulation 97(4)(c) or (5)(d)[^key-ba025364e605c6fa9512523f4f0a8517] in the grant of accreditation;
+  - (iii) any special conditions specified by the appropriate agency under regulation 97(4)(c) or (5)(d)[^c-ba025364e605c6fa9512523f4f0a8517] in the grant of accreditation;
 - (c) informs the appropriate agency in writing of—
   - (i) any change in RE’s circumstances which relates to RE’s accreditation and, where RE is a partnership, any change of partners; and
   - (ii) any material change in the information provided in accordance with regulation 94(3) or 95(3),
@@ -36,6 +36,6 @@ An accreditation granted to a reprocessor or exporter (“**RE**”) under this 
 
 ## Annotations
 
-[^key-c199fd4c5d725563af63514c51549bc6]: Commencement: Reg. 98 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c199fd4c5d725563af63514c51549bc6]: Commencement: Reg. 98 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-ba025364e605c6fa9512523f4f0a8517]: Textual amendment: Words in [reg. 98(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/98/b/iii) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1369/regulation/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-ba025364e605c6fa9512523f4f0a8517]: Textual amendment: Words in [reg. 98(b)(iii)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/98/b/iii) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1369/regulation/8) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

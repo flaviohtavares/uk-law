@@ -31,7 +31,7 @@ summary: ''
 - (g) previous contraventions or failures by P; and
 - (h) any potential systemic consequences of the contravention or failure.
 
-(1A)[^key-56d7eb9b80228e430154bba105a95923] Before imposing a sanction on P under regulation 76, 77 or 78, the FCA must check whether P has any criminal convictions that may be relevant to the determination referred to in paragraph (1).
+(1A)[^c-56d7eb9b80228e430154bba105a95923] Before imposing a sanction on P under regulation 76, 77 or 78, the FCA must check whether P has any criminal convictions that may be relevant to the determination referred to in paragraph (1).
 
 (2) If the FCA proposes to impose a sanction on P under regulation 76, 77 or 78 it must give P a warning notice.
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-56d7eb9b80228e430154bba105a95923]: Textual amendment: Reg. 81(1A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/9/1)
+[^c-56d7eb9b80228e430154bba105a95923]: Textual amendment: Reg. 81(1A) inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [9(1)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/9/1)
 
 [^c23048661]: Marginal citation: Section 387 was amended by paragraph 26 of Schedule 9 to the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), paragraph 12 of Schedule 3 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
 

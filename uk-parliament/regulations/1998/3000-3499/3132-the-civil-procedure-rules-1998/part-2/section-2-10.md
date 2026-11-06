@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.10. Meaning of “month” in judgments, etc.[^key-0ee674b9854ae5d64af643a879d9aa26]
+## 2.10. Meaning of “month” in judgments, etc.[^c-0ee674b9854ae5d64af643a879d9aa26]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where “month” occurs in any judgment, order, direction or other document, it
 
 ## Annotations
 
-[^key-0ee674b9854ae5d64af643a879d9aa26]: Commencement: [Rule 2.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-0ee674b9854ae5d64af643a879d9aa26]: Commencement: [Rule 2.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/2.10) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

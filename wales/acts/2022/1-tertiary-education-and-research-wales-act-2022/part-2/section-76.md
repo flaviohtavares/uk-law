@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Proposed notices and directions: requirement to give warning notice[^key-0635819e93ac118aa63b1a3b35d5c366][^key-679e8fd86d54a6e870a4c6ab5c54fb64]
+## 76. Proposed notices and directions: requirement to give warning notice[^c-0635819e93ac118aa63b1a3b35d5c366][^c-679e8fd86d54a6e870a4c6ab5c54fb64]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0635819e93ac118aa63b1a3b35d5c366]: Commencement: S. 76 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-0635819e93ac118aa63b1a3b35d5c366]: Commencement: S. 76 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-679e8fd86d54a6e870a4c6ab5c54fb64]: Commencement: [S. 76](https://www.legislation.gov.uk/asc/2022/1/section/76) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(y)](https://www.legislation.gov.uk/wsi/2025/432/article/2/y)
+[^c-679e8fd86d54a6e870a4c6ab5c54fb64]: Commencement: [S. 76](https://www.legislation.gov.uk/asc/2022/1/section/76) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(y)](https://www.legislation.gov.uk/wsi/2025/432/article/2/y)

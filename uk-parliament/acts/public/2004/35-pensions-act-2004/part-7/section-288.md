@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. General authorisation to accept contributions from European employers[^key-b04934cd888e7276c0a6939405dcd835]
+## 288. General authorisation to accept contributions from European employers[^c-b04934cd888e7276c0a6939405dcd835]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b04934cd888e7276c0a6939405dcd835]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2004/35/part/7) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/192/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b04934cd888e7276c0a6939405dcd835]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2004/35/part/7) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/192/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

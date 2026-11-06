@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Amendment of regulation 6 (interpretation: technical schedule)[^key-d312e6aae8c7b19595fc075230a0d58d][^key-039bc168daabd39cf78a6d60201e3d28]
+## 9. Amendment of regulation 6 (interpretation: technical schedule)[^c-d312e6aae8c7b19595fc075230a0d58d][^c-039bc168daabd39cf78a6d60201e3d28]
 
 *Extent: S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d312e6aae8c7b19595fc075230a0d58d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/165/regulation/9) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/5)
+[^c-d312e6aae8c7b19595fc075230a0d58d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/165/regulation/9) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(d)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/d/5)
 
-[^key-039bc168daabd39cf78a6d60201e3d28]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/165/regulation/9) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-039bc168daabd39cf78a6d60201e3d28]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2025/165/regulation/9) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

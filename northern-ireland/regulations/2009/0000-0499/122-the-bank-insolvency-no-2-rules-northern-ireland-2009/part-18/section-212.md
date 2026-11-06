@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 212. Requirement to assess costs by the detailed procedure[^key-2bbe18e06ca72603d60df1696c4002b7]
+## 212. Requirement to assess costs by the detailed procedure[^c-2bbe18e06ca72603d60df1696c4002b7]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bbe18e06ca72603d60df1696c4002b7]: Commencement: Rule 212 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2bbe18e06ca72603d60df1696c4002b7]: Commencement: Rule 212 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

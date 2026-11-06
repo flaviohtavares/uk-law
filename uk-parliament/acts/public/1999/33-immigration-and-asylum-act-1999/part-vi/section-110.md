@@ -51,8 +51,8 @@ such sums as he considers appropriate in respect of services provided by the aut
 (9) “**Northern Ireland authority**” means—
 
 - (a) the Executive; or
-- (b)[^key-5ce4c40ba96c044f7649b3190407847c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-eea1c337977f977f16d6c4205034f287] a Health and Social Care trust[^key-c5b2e4c93e9eb2df8b97928e8af52f3f] established under the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1).
+- (b)[^c-5ce4c40ba96c044f7649b3190407847c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-eea1c337977f977f16d6c4205034f287] a Health and Social Care trust[^c-c5b2e4c93e9eb2df8b97928e8af52f3f] established under the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I. 1).
 
 ## Annotations
 
@@ -60,8 +60,8 @@ such sums as he considers appropriate in respect of services provided by the aut
 
 [^c17633111]: Modification: S. 110 modified (7.11.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 48](https://www.legislation.gov.uk/ukpga/2002/41/section/48) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159))
 
-[^key-5ce4c40ba96c044f7649b3190407847c]: Textual amendment: [S. 110(9)(b)](https://www.legislation.gov.uk/ukpga/1999/33/section/110/9/b) and word omitted (30.11.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2022/1174/article/7/2/a)
+[^c-5ce4c40ba96c044f7649b3190407847c]: Textual amendment: [S. 110(9)(b)](https://www.legislation.gov.uk/ukpga/1999/33/section/110/9/b) and word omitted (30.11.2022) by virtue of [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [7(2)(a)](https://www.legislation.gov.uk/uksi/2022/1174/article/7/2/a)
 
-[^key-eea1c337977f977f16d6c4205034f287]: Textual amendment: S. 110(9)(c) and word added (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/60/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
+[^c-eea1c337977f977f16d6c4205034f287]: Textual amendment: S. 110(9)(c) and word added (10.2.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/60/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/1](https://www.legislation.gov.uk/uksi/2003/1), [art. 2](https://www.legislation.gov.uk/uksi/2003/1/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1/schedule)
 
-[^key-c5b2e4c93e9eb2df8b97928e8af52f3f]: Textual amendment: Words in [s. 110(9)(c)](https://www.legislation.gov.uk/ukpga/1999/33/section/110/9/c) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2022/1174/article/7/2/b)
+[^c-c5b2e4c93e9eb2df8b97928e8af52f3f]: Textual amendment: Words in [s. 110(9)(c)](https://www.legislation.gov.uk/ukpga/1999/33/section/110/9/c) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2022/1174/article/7/2/b)

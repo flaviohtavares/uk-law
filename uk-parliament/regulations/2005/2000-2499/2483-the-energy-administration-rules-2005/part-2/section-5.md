@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Form of application[^key-58e9c60e3d55202b9b54fb00cf161bf3]
+## 5. Form of application[^c-58e9c60e3d55202b9b54fb00cf161bf3]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58e9c60e3d55202b9b54fb00cf161bf3]: Commencement: Rule 5 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-58e9c60e3d55202b9b54fb00cf161bf3]: Commencement: Rule 5 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

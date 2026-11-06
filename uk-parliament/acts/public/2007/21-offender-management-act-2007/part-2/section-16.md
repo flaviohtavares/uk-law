@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Power of search in contracted out prisons and secure training centres[^key-f68e69d8db62636521e64162912b584f]
+## 16. Power of search in contracted out prisons and secure training centres[^c-f68e69d8db62636521e64162912b584f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f68e69d8db62636521e64162912b584f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/21/section/16) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/a)
+[^c-f68e69d8db62636521e64162912b584f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2007/21/section/16) in force at 1.11.2007 by [S.I. 2007/3001](https://www.legislation.gov.uk/uksi/2007/3001), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2007/3001/article/2/1/a)

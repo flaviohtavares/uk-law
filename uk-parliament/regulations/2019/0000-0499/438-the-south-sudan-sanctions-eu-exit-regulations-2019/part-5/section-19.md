@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Definition of “military goods” and “military technology”[^key-fa7538b115507071ab3de69ab8065e06][^key-5c524caefc12720de1354d765f45e3d0]
+## 19. Definition of “military goods” and “military technology”[^c-fa7538b115507071ab3de69ab8065e06][^c-5c524caefc12720de1354d765f45e3d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ In this Part—
 
 ## Annotations
 
-[^key-fa7538b115507071ab3de69ab8065e06]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-fa7538b115507071ab3de69ab8065e06]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-5c524caefc12720de1354d765f45e3d0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/438/regulation/19) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(i)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/i)
+[^c-5c524caefc12720de1354d765f45e3d0]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/438/regulation/19) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(1)(i)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/1/i)
 
 [^c23619691]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); and [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

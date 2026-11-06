@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Initial categorisation of a disused tip[^key-36db435dcacba67811e3f77a011d8cdb]
+## 26. Initial categorisation of a disused tip[^c-36db435dcacba67811e3f77a011d8cdb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36db435dcacba67811e3f77a011d8cdb]: Commencement: S. 26 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-36db435dcacba67811e3f77a011d8cdb]: Commencement: S. 26 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

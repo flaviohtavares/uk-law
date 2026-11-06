@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65A. Annual fee[^key-e746f21fd62fa04215fc218b299d75bd]
+## 65A. Annual fee[^c-e746f21fd62fa04215fc218b299d75bd]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e746f21fd62fa04215fc218b299d75bd]: Textual amendment: S. 65A and preceding cross-heading inserted (1.4.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 19](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/19); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/30/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2011/30/schedule/2)
+[^c-e746f21fd62fa04215fc218b299d75bd]: Textual amendment: S. 65A and preceding cross-heading inserted (1.4.2011) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [Sch. 4 para. 19](https://www.legislation.gov.uk/asp/2010/8/schedule/4/paragraph/19); [S.S.I. 2011/30](https://www.legislation.gov.uk/ssi/2011/30), [art. 3(2)](https://www.legislation.gov.uk/ssi/2011/30/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2011/30/article/3/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2011/30/schedule/2)

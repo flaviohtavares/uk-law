@@ -31,7 +31,7 @@ summary: ''
 
 INCOME TAX
 
-The Tax Information Exchange Agreement (Taxes on Income) (Isle of Man) Order 2005 (revoked)[^key-de6e60b04374d30646992dfc45ac9a9f]
+The Tax Information Exchange Agreement (Taxes on Income) (Isle of Man) Order 2005 (revoked)[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 Made
 
@@ -43,146 +43,146 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-de6e60b04374d30646992dfc45ac9a9f]
+## 1. Citation[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Declaration about exchange of information[^key-de6e60b04374d30646992dfc45ac9a9f]
+## 2. Declaration about exchange of information[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-de6e60b04374d30646992dfc45ac9a9f]
+## SCHEDULE[^c-de6e60b04374d30646992dfc45ac9a9f]
 
-### PART I — AGREEMENT ON THE TAXATION OF SAVINGS INCOME BETWEEN THE ISLE OF MAN AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND[^key-de6e60b04374d30646992dfc45ac9a9f]
+### PART I — AGREEMENT ON THE TAXATION OF SAVINGS INCOME BETWEEN THE ISLE OF MAN AND THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 **WHEREAS:**
 
-**1.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-de6e60b04374d30646992dfc45ac9a9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 1 — Retention of Tax by Paying Agents[^key-de6e60b04374d30646992dfc45ac9a9f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Article 2 — Reporting of Information by Paying Agents[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 1 — Retention of Tax by Paying Agents[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 3 — Exceptions to the Retention Tax Procedure[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 2 — Reporting of Information by Paying Agents[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 4 — Basis of assessment for retention tax[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 3 — Exceptions to the Retention Tax Procedure[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 5 — Definition of beneficial owner[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 4 — Basis of assessment for retention tax[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 6 — Identity and residence of beneficial owners[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 5 — Definition of beneficial owner[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 7 — Definition of paying agent[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 6 — Identity and residence of beneficial owners[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 8 — Definition of interest payment[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 7 — Definition of paying agent[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 9 — Retention Tax Revenue sharing[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 8 — Definition of interest payment[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 10 — Elimination of double taxation[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 9 — Retention Tax Revenue sharing[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 11 — Transitional provisions for negotiable debt securities[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 10 — Elimination of double taxation[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 12 — Mutual agreement procedure[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 11 — Transitional provisions for negotiable debt securities[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 13 — Confidentiality[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 12 — Mutual agreement procedure[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 14 — Transitional Period[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 13 — Confidentiality[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 15 — Entry into force[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 14 — Transitional Period[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 16 — Termination[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 15 — Entry into force[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 17 — Application and suspension of application[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 16 — Termination[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Annex: — List of related entities referred to in Article 11[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Article 17 — Application and suspension of application[^c-de6e60b04374d30646992dfc45ac9a9f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Annex: — List of related entities referred to in Article 11[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 For the purposes of Article 11 of this Agreement, the following entities will be considered to be a “*related entity acting as a public authority or whose role is recognised by an international treaty*:”
 
-##### ENTITIES WITHIN THE EUROPEAN UNION:[^key-de6e60b04374d30646992dfc45ac9a9f]
+##### ENTITIES WITHIN THE EUROPEAN UNION:[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### INTERNATIONAL ENTITIES:[^key-de6e60b04374d30646992dfc45ac9a9f]
+##### INTERNATIONAL ENTITIES:[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### ENTITIES IN THIRD COUNTRIES:[^key-de6e60b04374d30646992dfc45ac9a9f]
+##### ENTITIES IN THIRD COUNTRIES:[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### CONDITIONS FOR AMENDING THE PRESENT ANNEX:[^key-de6e60b04374d30646992dfc45ac9a9f]
+##### CONDITIONS FOR AMENDING THE PRESENT ANNEX:[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Exchange of Notes[^key-de6e60b04374d30646992dfc45ac9a9f]
+### PART II — Exchange of Notes[^c-de6e60b04374d30646992dfc45ac9a9f]
 
-#### Note from Her Majesty’s Government[^key-de6e60b04374d30646992dfc45ac9a9f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Note from the Government of the Isle of Man[^key-de6e60b04374d30646992dfc45ac9a9f]
+#### Note from Her Majesty’s Government[^c-de6e60b04374d30646992dfc45ac9a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Note from the Government of the Isle of Man[^c-de6e60b04374d30646992dfc45ac9a9f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de6e60b04374d30646992dfc45ac9a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de6e60b04374d30646992dfc45ac9a9f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/1263) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-de6e60b04374d30646992dfc45ac9a9f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/1263) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -57,11 +57,11 @@ The Scottish Ministers, in exercise of the powers conferred on them by sections 
 
 - “**the Act**” means the Food Safety Act 1990;
 - “**baby foods**” means foods for particular nutritional use fulfilling the particular requirements of infants and young children in good health and intended for use by infants while they are being weaned, and by young children as a supplement to their diet or for their progressive adaptation to ordinary food, but excludes processed cereal-based foods;
-- “the Directive” means Commission Directive[^key-126b35648988d1b26ee3f798784a498f] [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) on processed cereal based foods and baby foods for infants and young children;
+- “the Directive” means Commission Directive[^c-126b35648988d1b26ee3f798784a498f] [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) on processed cereal based foods and baby foods for infants and young children;
 - “**EEA Agreement**” means the Agreement on the European Economic Area [^c5373751] signed at Oporto on 2nd May 1992 as adjusted by the Protocol [^c5373761] signed at Brussels on 17th March 1993;
 - “**EEA State**” means a State which is a Contracting Party to the EEA Agreement;
 - “**infants**” means children under the age of twelve months;
-- “**pesticide residue**” means the residue in processed CEREAL-BASED foods or baby foods of a plant protection product which has the same meaning as in Article 2(1) of Regulation[^key-b30530a0480afacda6a3f6f74833ff5d][(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), and “residue” shall be read in accordance with Article 3(1) of that Regulation, including its metabolites and products resulting from its degradation or reaction;
+- “**pesticide residue**” means the residue in processed CEREAL-BASED foods or baby foods of a plant protection product which has the same meaning as in Article 2(1) of Regulation[^c-b30530a0480afacda6a3f6f74833ff5d][(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), and “residue” shall be read in accordance with Article 3(1) of that Regulation, including its metabolites and products resulting from its degradation or reaction;
 - “**processed cereal-based foods**” means foods for particular nutritional use within the categories specified in Part I of Schedule 1 fulfilling the particular requirements of infants and young children in good health and intended for use by infants while they are being weaned, and by young children as a supplement to their diet or for their progressive adaptation to ordinary food;
 - “**sell**” includes possess for sale and offer, expose or advertise for sale; and
 - “**young children**” means children aged between one and three years.
@@ -121,7 +121,7 @@ at a level exceeding 0.003 mg/kg.
 
 ## 8. Labelling
 
-(1) Without prejudice to the generality of Regulation ([^key-2c0b1e495916691663298752633ddab6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608), processed CEREAL-BASED foods and baby foods shall be labelled with–
+(1) Without prejudice to the generality of Regulation ([^c-2c0b1e495916691663298752633ddab6]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/european/regulation/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/european/directive/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/european/directive/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/european/directive/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/european/directive/2002/0067) and [2008/5/EC](https://www.legislation.gov.uk/european/directive/2008/0005) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/european/regulation/2004/0608), processed CEREAL-BASED foods and baby foods shall be labelled with–
 
 - (a) a statement as to the appropriate age (which shall be not less than four months) from which the food may be used, regard being had to its composition, texture or other particular properties;
 - (b) information as to the presence or absence of gluten if the age stated pursuant to sub-paragraph (a) is less than six months;
@@ -146,7 +146,7 @@ Each food authority shall enforce and execute these Regulations in its area.
 
 If any person contravenes regulation 4, that person shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 11. Defence in relation to exports[^key-4583193c3fb557578522f31c288d61f7]
+## 11. Defence in relation to exports[^c-4583193c3fb557578522f31c288d61f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -166,7 +166,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (j) section 36A (offences by Scottish partnerships); and
 - (k) section 44 (protection of officers acting in good faith).
 
-## 13. Amendment of the Tryptophan in Food (Scotland) Regulations 1990[^key-2843615c2cb220ea55643b449a2255df]
+## 13. Amendment of the Tryptophan in Food (Scotland) Regulations 1990[^c-2843615c2cb220ea55643b449a2255df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -428,7 +428,7 @@ Dexpanthenol
 
 Folic acid
 
-Calcium-L-methylfolate[^key-0ac724248323e424cf5ef14263ca3fa2]
+Calcium-L-methylfolate[^c-0ac724248323e424cf5ef14263ca3fa2]
 
 *Vitamin B*12
 
@@ -570,7 +570,7 @@ Potassium glycerophosphate
 
 Ferrous citrate
 
-Ferrous bisglycinate[^key-fa4af007865b8093d29423cd8020bf7e]
+Ferrous bisglycinate[^c-fa4af007865b8093d29423cd8020bf7e]
 
 Ferric ammonium citrate
 
@@ -608,7 +608,7 @@ Cupric sulphate
 
 Zinc acetate
 
-Zinc chloride[^key-cf980a2d0889034e8dcef2b3408b52bc]
+Zinc chloride[^c-cf980a2d0889034e8dcef2b3408b52bc]
 
 Zinc citrate
 
@@ -791,19 +791,19 @@ A Regulatory Impact Assessment which includes a compliance cost assessment of th
 
 [^c5373701]: Marginal citation: [Section 48(4B)](https://www.legislation.gov.uk/ssi/2004/8/section/48/4B) was inserted by the 1999 Act, Schedule 5, paragraph 21
 
-[^key-126b35648988d1b26ee3f798784a498f]: Textual amendment: Words in reg. 2(1) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Scotland) (Miscellaneous Amendments) Regulations 2007 (S.S.I. 2007/424)](https://www.legislation.gov.uk/ssi/2007/424), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/424/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2007/424/regulation/6/2)
+[^c-126b35648988d1b26ee3f798784a498f]: Textual amendment: Words in reg. 2(1) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Scotland) (Miscellaneous Amendments) Regulations 2007 (S.S.I. 2007/424)](https://www.legislation.gov.uk/ssi/2007/424), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/424/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2007/424/regulation/6/2)
 
 [^c5373751]: Marginal citation: O.J. No. L 1, 3.1.94, p.1.
 
 [^c5373761]: Marginal citation: O.J. No. L 1, 3.1.94, p.571.
 
-[^key-b30530a0480afacda6a3f6f74833ff5d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2004/8/regulation/2) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
+[^c-b30530a0480afacda6a3f6f74833ff5d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2004/8/regulation/2) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
 
-[^key-2c0b1e495916691663298752633ddab6]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2004/8/regulation/8/1) substituted by [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312), [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/11) (as substituted (19.1.2016) by [The Food Information (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/410)](https://www.legislation.gov.uk/ssi/2015/410), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/410/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/ssi/2015/410/regulation/3/10/a))
+[^c-2c0b1e495916691663298752633ddab6]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2004/8/regulation/8/1) substituted by [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312), [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/11) (as substituted (19.1.2016) by [The Food Information (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/410)](https://www.legislation.gov.uk/ssi/2015/410), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/410/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/ssi/2015/410/regulation/3/10/a))
 
-[^key-4583193c3fb557578522f31c288d61f7]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2004/8/regulation/11) revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)
+[^c-4583193c3fb557578522f31c288d61f7]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2004/8/regulation/11) revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)
 
-[^key-2843615c2cb220ea55643b449a2255df]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2004/8/regulation/13) revoked (11.11.2005) by [The Tryptophan in Food (Scotland) Regulations 2005 (S.S.I. 2005/479)](https://www.legislation.gov.uk/ssi/2005/479), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2005/479/regulation/10/3)
+[^c-2843615c2cb220ea55643b449a2255df]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2004/8/regulation/13) revoked (11.11.2005) by [The Tryptophan in Food (Scotland) Regulations 2005 (S.S.I. 2005/479)](https://www.legislation.gov.uk/ssi/2005/479), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/479/regulation/1/1), [10(3)](https://www.legislation.gov.uk/ssi/2005/479/regulation/10/3)
 
 [^c5373811]: Marginal citation: [S.I. 1997/2042](https://www.legislation.gov.uk/uksi/1997/2042).
 
@@ -811,8 +811,8 @@ A Regulatory Impact Assessment which includes a compliance cost assessment of th
 
 [^c5373831]: Marginal citation: [S.S.I. 2000/214](https://www.legislation.gov.uk/ssi/2000/214)
 
-[^key-0ac724248323e424cf5ef14263ca3fa2]: Textual amendment: Word in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2004/8/schedule/4/paragraph/1) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Amendment Regulations 2022 (S.S.I. 2022/342)](https://www.legislation.gov.uk/ssi/2022/342), [regs. 1](https://www.legislation.gov.uk/ssi/2022/342/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/342/regulation/2/2/a)
+[^c-0ac724248323e424cf5ef14263ca3fa2]: Textual amendment: Word in [sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2004/8/schedule/4/paragraph/1) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Amendment Regulations 2022 (S.S.I. 2022/342)](https://www.legislation.gov.uk/ssi/2022/342), [regs. 1](https://www.legislation.gov.uk/ssi/2022/342/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/342/regulation/2/2/a)
 
-[^key-fa4af007865b8093d29423cd8020bf7e]: Textual amendment: Words in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/8/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Amendment Regulations 2022 (S.S.I. 2022/342)](https://www.legislation.gov.uk/ssi/2022/342), [regs. 1](https://www.legislation.gov.uk/ssi/2022/342/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2022/342/regulation/2/2/b/i)
+[^c-fa4af007865b8093d29423cd8020bf7e]: Textual amendment: Words in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/8/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Amendment Regulations 2022 (S.S.I. 2022/342)](https://www.legislation.gov.uk/ssi/2022/342), [regs. 1](https://www.legislation.gov.uk/ssi/2022/342/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2022/342/regulation/2/2/b/i)
 
-[^key-cf980a2d0889034e8dcef2b3408b52bc]: Textual amendment: Words in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/8/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Amendment Regulations 2022 (S.S.I. 2022/342)](https://www.legislation.gov.uk/ssi/2022/342), [regs. 1](https://www.legislation.gov.uk/ssi/2022/342/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/342/regulation/2/2/b/ii)
+[^c-cf980a2d0889034e8dcef2b3408b52bc]: Textual amendment: Words in [sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2004/8/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Scotland) Amendment Regulations 2022 (S.S.I. 2022/342)](https://www.legislation.gov.uk/ssi/2022/342), [regs. 1](https://www.legislation.gov.uk/ssi/2022/342/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/342/regulation/2/2/b/ii)

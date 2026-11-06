@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Dissolution of panels etc.[^key-c588959476a72f2070a0a324963d8fc6]
+## 29. Dissolution of panels etc.[^c-c588959476a72f2070a0a324963d8fc6]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c588959476a72f2070a0a324963d8fc6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/9/section/29) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-c588959476a72f2070a0a324963d8fc6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/9/section/29) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

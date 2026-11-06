@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Applications: visiting and examination[^key-961cc89d4140ed5fdc6551c4e32bebe9]
+## 46. Applications: visiting and examination[^c-961cc89d4140ed5fdc6551c4e32bebe9]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ may, for a purpose mentioned in subsection (2), do anything within section 275 (
 
 ## Annotations
 
-[^key-961cc89d4140ed5fdc6551c4e32bebe9]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2016/18/section/46) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-961cc89d4140ed5fdc6551c4e32bebe9]: Commencement: [S. 46](https://www.legislation.gov.uk/nia/2016/18/section/46) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

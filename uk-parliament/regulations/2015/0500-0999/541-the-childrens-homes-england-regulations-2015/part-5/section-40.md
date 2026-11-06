@@ -26,7 +26,7 @@ summary: ''
 - (b) the placing authority;
 - (c) the Secretary of State (if the Secretary of State is not the placing authority);
 - (d) the local authority in whose area the children's home is located (if that local authority is not the placing authority);
-- (e) the integrated care board (established under Chapter A3 of Part 2[^key-dd475e9f6024566f4c322b7eff17e35e] of the National Health Service Act 2006) for the area in which the home is located;
+- (e) the integrated care board (established under Chapter A3 of Part 2[^c-dd475e9f6024566f4c322b7eff17e35e] of the National Health Service Act 2006) for the area in which the home is located;
 - (f) if the child was accommodated in a secure children's home, the Prisons and Probation Ombudsman for England and Wales (“the PPO”); and
 - (g) each other relevant person.
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd475e9f6024566f4c322b7eff17e35e]: Textual amendment: Words in [reg. 40(1)(e)](https://www.legislation.gov.uk/uksi/2015/541/regulation/40/1/e) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [81(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/81/2)
+[^c-dd475e9f6024566f4c322b7eff17e35e]: Textual amendment: Words in [reg. 40(1)(e)](https://www.legislation.gov.uk/uksi/2015/541/regulation/40/1/e) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [81(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/81/2)
 
 [^c22409201]: Marginal citation: [2006 c.47 (“the SVGA 2006”)](https://www.legislation.gov.uk/ukpga/2006/47). Section 35 was amended by: section 115 of, and Schedules 9 and 10 to, the [Protection of Freedoms Act 2012 (c.9, “the PoFA 2012”)](https://www.legislation.gov.uk/ukpga/2012/9) and [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).

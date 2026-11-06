@@ -23,8 +23,8 @@ summary: ''
 (1) It is hereby declared that the powers to make Orders in Council conferred by—
 
 - (a) sections 8A, 9 and 10 of the [^c984161]Carriage by Air Act 1961 (which provide for the amendment of that Act and other Acts in consequence of a revision of the relevant convention and for the application of that Act to the countries mentioned in section 9 and to such carriage by air as is mentioned in section 10); and
-- (b) sections 8, 8A and 9 of the [^c984162]Carriage of Goods by Road Act 1965 (which provide for the resolution of conflicts between provisions of that Act and certain other provisions relating to carriage by road, for the amendment of that Act in consequence of a revision of the relevant convention and for the application of that Act to the countries mentioned in section 9); [^key-6f56536823b0122f4f222a62ec6b6112]...
-- (c)[^key-6f56536823b0122f4f222a62ec6b6112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) sections 8, 8A and 9 of the [^c984162]Carriage of Goods by Road Act 1965 (which provide for the resolution of conflicts between provisions of that Act and certain other provisions relating to carriage by road, for the amendment of that Act in consequence of a revision of the relevant convention and for the application of that Act to the countries mentioned in section 9); [^c-6f56536823b0122f4f222a62ec6b6112]...
+- (c)[^c-6f56536823b0122f4f222a62ec6b6112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 include power to make Orders in Council in respect of the Act in question as amended by this Act.
 
@@ -35,7 +35,7 @@ include power to make Orders in Council in respect of the Act in question as ame
 (4)[^c984165] The following provisions (which are superseded by this Act) are hereby repealed, namely —
 
 - (a) section 4(4) of the said Act of 1961 ;
-- (b)[^key-398f93d430ec61f13a77480b0b7dfda3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-398f93d430ec61f13a77480b0b7dfda3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -45,10 +45,10 @@ include power to make Orders in Council in respect of the Act in question as ame
 
 [^c984162]: Marginal citation: [1965 c. 37](https://www.legislation.gov.uk/ukpga/1965/37).
 
-[^key-6f56536823b0122f4f222a62ec6b6112]: Textual amendment: S. 6(1)(c) and word preceding it repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-6f56536823b0122f4f222a62ec6b6112]: Textual amendment: S. 6(1)(c) and word preceding it repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c984164]: Marginal citation: [1962 c. 43](https://www.legislation.gov.uk/ukpga/1962/43).
 
 [^c984165]: Modification: The text of Ss. 1(1)(2), 2(1), 3, 4(1)–(3), 6(4), Schs. 1, 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not represent any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-398f93d430ec61f13a77480b0b7dfda3]: Textual amendment: S. 6(4)(b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-398f93d430ec61f13a77480b0b7dfda3]: Textual amendment: S. 6(4)(b) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

@@ -37,7 +37,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Low-welfare animal activities
 
-### 1. Prohibition on sale of low-welfare animal activities[^key-44c994d819996308a0ec15030d7aea97]
+### 1. Prohibition on sale of low-welfare animal activities[^c-44c994d819996308a0ec15030d7aea97]
 
 (1) A person commits an offence if, in a relevant part of the United Kingdom, the person sells, or offers or arranges to sell, any right to observe or participate in an activity which—
 
@@ -52,7 +52,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) An animal is kept in conditions, or is subject to treatment, within this subsection if keeping the animal in the conditions, or subjecting it to the treatment, in the appropriate national authority’s part of the United Kingdom would constitute an offence under the appropriate national legislation.
 
-### 2. Prohibition on advertising of low-welfare animal activities[^key-d960cfad960426b365ac01a74c7867e0]
+### 2. Prohibition on advertising of low-welfare animal activities[^c-d960cfad960426b365ac01a74c7867e0]
 
 (1) For the purposes of this section an advertisement is a prohibited advertisement in a relevant part of the United Kingdom if the advertisement has the purpose or effect of promoting the observation of, or participation in, an activity which—
 
@@ -91,7 +91,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Enforcement
 
-### 3. Offences: penalties, prosecution and liability[^key-e85751846a15c3656c859c94bbae16c0]
+### 3. Offences: penalties, prosecution and liability[^c-e85751846a15c3656c859c94bbae16c0]
 
 (1) A person who commits an offence under this Act is liable—
 
@@ -119,7 +119,7 @@ that person as well as the body corporate commits the offence and is liable to b
   - (i) where the body’s affairs are managed by its members, to a member of the body;
   - (ii) in any other case, to a member of the governing body.
 
-### 4. Enforcement powers of local weights and measures authorities etc[^key-d0dd6cee6f7b2730b6cbbe5373a452e5]
+### 4. Enforcement powers of local weights and measures authorities etc[^c-d0dd6cee6f7b2730b6cbbe5373a452e5]
 
 (1) A local weights and measures authority in England and the Department for the Economy in Northern Ireland may enforce the provisions of this Act.
 
@@ -133,7 +133,7 @@ that person as well as the body corporate commits the offence and is liable to b
 
 ## General
 
-### 5. Regulations[^key-e2ca99a833ab38bd89a376f76d4a5eed]
+### 5. Regulations[^c-e2ca99a833ab38bd89a376f76d4a5eed]
 
 (1) The power to make activity regulations includes power to make—
 
@@ -148,7 +148,7 @@ that person as well as the body corporate commits the offence and is liable to b
 
 (5) The Department of Agriculture, Environment and Rural Affairs may not make activity regulations unless a draft of the regulations has been laid before, and approved by a resolution of, the Northern Ireland Assembly.
 
-### 6. Interpretation[^key-269363ed83513dfda4a9c7b9b90662a8]
+### 6. Interpretation[^c-269363ed83513dfda4a9c7b9b90662a8]
 
 In this Act—
 
@@ -166,7 +166,7 @@ In this Act—
 - “**relevant part of the United Kingdom**” means England or Northern Ireland;
 - “**vertebrate**” means any animal of the Sub-phylum Vertebrata of the Phylum Chordata.
 
-### 7. Extent, commencement and short title[^key-b5bdffb7011ce508a04b00b2a6952d3e]
+### 7. Extent, commencement and short title[^c-b5bdffb7011ce508a04b00b2a6952d3e]
 
 (1) This Act extends to England and Wales and Northern Ireland.
 
@@ -178,14 +178,14 @@ In this Act—
 
 Section 4
 
-### 1. Enforcement authority[^key-544949da6b9967c86eab03a24e4bc6c3]
+### 1. Enforcement authority[^c-544949da6b9967c86eab03a24e4bc6c3]
 
 In this Schedule, “**enforcement authority**” means—
 
 - (a) a local weights and measures authority in England, or
 - (b) the Department for the Economy in Northern Ireland.
 
-### 2. Imposition of monetary penalties[^key-09dd7d9ff3ae5e104ac749269fb9fc54]
+### 2. Imposition of monetary penalties[^c-09dd7d9ff3ae5e104ac749269fb9fc54]
 
 (1) Where an enforcement authority is satisfied beyond reasonable doubt that a person has committed an offence under section 1 or 2 in the authority’s area, the authority may impose a monetary penalty on the person.
 
@@ -193,7 +193,7 @@ In this Schedule, “**enforcement authority**” means—
 
 (3) In Northern Ireland, the amount of the penalty may not exceed an amount equivalent to level 5 on the standard scale.
 
-### 3. Notices and representations[^key-fad0bdb6df1126c8e3064af77be2b1d0]
+### 3. Notices and representations[^c-fad0bdb6df1126c8e3064af77be2b1d0]
 
 (1) Where an enforcement authority proposes to impose a monetary penalty on a person the authority must give the person a notice of what is proposed (an “initial penalty notice”).
 
@@ -212,7 +212,7 @@ In this Schedule, “**enforcement authority**” means—
 
 (7) An initial or final penalty notice may be withdrawn at any time by the enforcement authority that issued it.
 
-### 4. Information to be included in notices under paragraph 3[^key-519a6a97264049faa5d1f13481b898d1]
+### 4. Information to be included in notices under paragraph 3[^c-519a6a97264049faa5d1f13481b898d1]
 
 (1) An initial penalty notice must include information as to—
 
@@ -232,7 +232,7 @@ In this Schedule, “**enforcement authority**” means—
 
 (3) A final penalty notice may provide for interest or other penalties specified in the notice to be payable in the event that payment is not made in the period referred to in sub-paragraph (2)(c).
 
-### 5. Monetary penalties: criminal proceedings[^key-b916a06192ac14402a8fab5001cf2283]
+### 5. Monetary penalties: criminal proceedings[^c-b916a06192ac14402a8fab5001cf2283]
 
 (1) Where an initial penalty notice is given to a person (and has not been withdrawn)—
 
@@ -243,7 +243,7 @@ In this Schedule, “**enforcement authority**” means—
 
 (3) In this paragraph “**relevant offence**” means an offence under section 1 or 2 in respect of which the monetary penalty is proposed to be imposed or is imposed (as the case may be).
 
-### 6. Appeals[^key-bcb4173002a9739c00038f3c733488d1]
+### 6. Appeals[^c-bcb4173002a9739c00038f3c733488d1]
 
 (1) A person to whom a final penalty notice is given under paragraph 3 may appeal against the decision to give the notice on any of the grounds mentioned in sub-paragraph (2).
 
@@ -270,7 +270,7 @@ In this Schedule, “**enforcement authority**” means—
 - (a) the requirement to pay the monetary penalty is suspended pending the final determination or withdrawal of the appeal, and
 - (b) no interest or other penalty is payable by virtue of paragraph 4(3) in respect of the period during which that requirement is suspended.
 
-### 7. Use of proceeds[^key-a336541acbbc8179795b6b6db0be5b9b]
+### 7. Use of proceeds[^c-a336541acbbc8179795b6b6db0be5b9b]
 
 (1) Sums received by local weights and measures authorities pursuant to monetary penalties imposed under this Schedule must be paid into the Consolidated Fund.
 
@@ -284,7 +284,7 @@ In this Schedule, “**enforcement authority**” means—
 - (a) the costs of investigating offences to which monetary penalties imposed by the Department under this Schedule relate, and
 - (b) the costs of imposing the penalties.
 
-### 8. Enforcement[^key-09deadbc6a5b820cca107d514911d2b0]
+### 8. Enforcement[^c-09deadbc6a5b820cca107d514911d2b0]
 
 If a person does not pay the whole or any part of a penalty which the person is liable to pay under this Schedule (including an amount payable by virtue of paragraph 4(3)), the penalty or part of the penalty is recoverable—
 
@@ -293,32 +293,32 @@ If a person does not pay the whole or any part of a penalty which the person is 
 
 ## Annotations
 
-[^key-44c994d819996308a0ec15030d7aea97]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/45/section/1) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-44c994d819996308a0ec15030d7aea97]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/45/section/1) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-d960cfad960426b365ac01a74c7867e0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/45/section/2) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-d960cfad960426b365ac01a74c7867e0]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/45/section/2) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-e85751846a15c3656c859c94bbae16c0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/45/section/3) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-e85751846a15c3656c859c94bbae16c0]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/45/section/3) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-d0dd6cee6f7b2730b6cbbe5373a452e5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/45/section/4) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-d0dd6cee6f7b2730b6cbbe5373a452e5]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/45/section/4) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-e2ca99a833ab38bd89a376f76d4a5eed]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/45/section/5) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-e2ca99a833ab38bd89a376f76d4a5eed]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/45/section/5) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-269363ed83513dfda4a9c7b9b90662a8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/45/section/6) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-269363ed83513dfda4a9c7b9b90662a8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/45/section/6) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-b5bdffb7011ce508a04b00b2a6952d3e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/45/section/7) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-b5bdffb7011ce508a04b00b2a6952d3e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/45/section/7) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-544949da6b9967c86eab03a24e4bc6c3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/1) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-544949da6b9967c86eab03a24e4bc6c3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/1) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-09dd7d9ff3ae5e104ac749269fb9fc54]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/2) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-09dd7d9ff3ae5e104ac749269fb9fc54]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/2) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-fad0bdb6df1126c8e3064af77be2b1d0]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/3) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-fad0bdb6df1126c8e3064af77be2b1d0]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/3) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-519a6a97264049faa5d1f13481b898d1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/4) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-519a6a97264049faa5d1f13481b898d1]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/4) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-b916a06192ac14402a8fab5001cf2283]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/5) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-b916a06192ac14402a8fab5001cf2283]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/5) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-bcb4173002a9739c00038f3c733488d1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/6) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-bcb4173002a9739c00038f3c733488d1]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/6) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-a336541acbbc8179795b6b6db0be5b9b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/7) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-a336541acbbc8179795b6b6db0be5b9b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/7) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
 
-[^key-09deadbc6a5b820cca107d514911d2b0]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/8) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)
+[^c-09deadbc6a5b820cca107d514911d2b0]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2023/45/schedule/paragraph/8) in force at 18.11.2023, see [s. 7(2)](https://www.legislation.gov.uk/ukpga/2023/45/section/7/2)

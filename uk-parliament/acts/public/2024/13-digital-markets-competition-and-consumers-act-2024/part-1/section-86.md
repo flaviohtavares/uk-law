@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Amount of penalties under section 85[^key-d09fce7f0d42ee2301efe7c3d6047b5b][^key-b554f243a18f0582f4b700e44711cae9]
+## 86. Amount of penalties under section 85[^c-d09fce7f0d42ee2301efe7c3d6047b5b][^c-b554f243a18f0582f4b700e44711cae9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d09fce7f0d42ee2301efe7c3d6047b5b]: Commencement: S. 86 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d09fce7f0d42ee2301efe7c3d6047b5b]: Commencement: S. 86 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b554f243a18f0582f4b700e44711cae9]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2024/13/section/86) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-b554f243a18f0582f4b700e44711cae9]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2024/13/section/86) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

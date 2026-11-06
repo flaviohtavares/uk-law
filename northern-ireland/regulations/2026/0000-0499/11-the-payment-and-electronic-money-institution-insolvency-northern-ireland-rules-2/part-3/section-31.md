@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Revision of the statement of proposals[^key-6e313fbaba5050ddced22e2f929d4cae]
+## 31. Revision of the statement of proposals[^c-6e313fbaba5050ddced22e2f929d4cae]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e313fbaba5050ddced22e2f929d4cae]: Commencement: [Rule 31](https://www.legislation.gov.uk/nisr/2026/11/rule/31) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6e313fbaba5050ddced22e2f929d4cae]: Commencement: [Rule 31](https://www.legislation.gov.uk/nisr/2026/11/rule/31) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

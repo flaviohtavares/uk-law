@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 409. Powers to amend the Sentencing Code[^key-b97108c50e039cca3e77c2ea1e8e865a]
+## 409. Powers to amend the Sentencing Code[^c-b97108c50e039cca3e77c2ea1e8e865a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ This is subject to express provision to the contrary.
 
 ## Annotations
 
-[^key-b97108c50e039cca3e77c2ea1e8e865a]: Commencement: [S. 409](https://www.legislation.gov.uk/ukpga/2020/17/section/409) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b97108c50e039cca3e77c2ea1e8e865a]: Commencement: [S. 409](https://www.legislation.gov.uk/ukpga/2020/17/section/409) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

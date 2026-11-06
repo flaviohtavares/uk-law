@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60E. Offence under section 60C: forfeiture[^key-39ddeb6bd16cacf7f1dfb59dc413f246]
+## 60E. Offence under section 60C: forfeiture[^c-39ddeb6bd16cacf7f1dfb59dc413f246]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)
+[^c-39ddeb6bd16cacf7f1dfb59dc413f246]: Textual amendment: Ss. 60C-60E and cross-heading inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/83/1), [208(5)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Jurisdiction[^key-acf501b884e2730176f02529b2436347]
+## 31. Jurisdiction[^c-acf501b884e2730176f02529b2436347]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 - (b) using reasonable force if necessary, and
 - (c) whether or not an offence has been committed.
 
-(3)[^key-ec58c7d8e587f60372f771071c809364] Those things are—
+(3)[^c-ec58c7d8e587f60372f771071c809364] Those things are—
 
 - (a) track,
 - (b) a network,
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acf501b884e2730176f02529b2436347]: Commencement: S. 31 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(n)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/n)
+[^c-acf501b884e2730176f02529b2436347]: Commencement: S. 31 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(n)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/n)
 
-[^key-ec58c7d8e587f60372f771071c809364]: Modification: S. 31(3) applied (S.) (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [46(1)](https://www.legislation.gov.uk/ssi/2017/100/article/46/1) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-ec58c7d8e587f60372f771071c809364]: Modification: S. 31(3) applied (S.) (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [46(1)](https://www.legislation.gov.uk/ssi/2017/100/article/46/1) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Judicial Pensions Act (Northern Ireland) 1951[^key-bddbea7b70e8f9c7783819aa85a85540]
+## 54. Judicial Pensions Act (Northern Ireland) 1951[^c-bddbea7b70e8f9c7783819aa85a85540]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bddbea7b70e8f9c7783819aa85a85540]: Commencement: Reg. 54 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-bddbea7b70e8f9c7783819aa85a85540]: Commencement: Reg. 54 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00070]: Footnote: [1951 c.20 (N.I.)](https://www.legislation.gov.uk/apni/1951/20).
 

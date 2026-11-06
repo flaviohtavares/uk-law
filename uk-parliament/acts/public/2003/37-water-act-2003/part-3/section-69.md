@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Grants for drainage works and flood warning systems[^key-dd8a4bdf6ccf5fa5ca69dca3e6f88220][^key-cc8b983be96f314e31918ebd40478c35]
+## 69. Grants for drainage works and flood warning systems[^c-dd8a4bdf6ccf5fa5ca69dca3e6f88220][^c-cc8b983be96f314e31918ebd40478c35]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd8a4bdf6ccf5fa5ca69dca3e6f88220]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2003/37/section/69) in force at 17.3.2004 for E. by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/641/article/2/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-dd8a4bdf6ccf5fa5ca69dca3e6f88220]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2003/37/section/69) in force at 17.3.2004 for E. by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/641/article/2/a) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-cc8b983be96f314e31918ebd40478c35]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2003/37/section/69) in force at 1.4.2004 for W. by [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/b)
+[^c-cc8b983be96f314e31918ebd40478c35]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2003/37/section/69) in force at 1.4.2004 for W. by [S.I. 2004/910](https://www.legislation.gov.uk/wsi/2004/910), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2004/910/article/2/1/b)

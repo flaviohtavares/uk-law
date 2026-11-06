@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Protective works to buildings[^key-c3e117e9e5ce122944d0c2c4ec38d38c]
+## 18. Protective works to buildings[^c-c3e117e9e5ce122944d0c2c4ec38d38c]
 
 *Extent: E+W+S*
 
@@ -65,6 +65,6 @@ Network Rail must compensate the owners and occupiers of the building for any lo
 
 ## Annotations
 
-[^key-c3e117e9e5ce122944d0c2c4ec38d38c]: Commencement: Art. 18 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-c3e117e9e5ce122944d0c2c4ec38d38c]: Commencement: Art. 18 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
 
 [^f00025]: Footnote: As amended by section 4 of, and paragraph 13(2) of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

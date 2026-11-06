@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Early removal of prisoners liable to removal from United Kingdom[^key-99e610121d64a9f9e83b66984d34acff]
+## 35. Early removal of prisoners liable to removal from United Kingdom[^c-99e610121d64a9f9e83b66984d34acff]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99e610121d64a9f9e83b66984d34acff]: Commencement: S. 35 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-99e610121d64a9f9e83b66984d34acff]: Commencement: S. 35 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)

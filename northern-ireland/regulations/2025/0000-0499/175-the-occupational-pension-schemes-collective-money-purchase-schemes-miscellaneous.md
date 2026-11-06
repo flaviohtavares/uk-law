@@ -44,20 +44,20 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 109(1) and (3) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], Article 236(1) and (2) of the Pensions (Northern Ireland) Order 2005[^f00003] and sections 97(1) and (2) and 102(2) and (3) of the Pension Schemes Act 2021[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-d5c3e86f45833c82f8af1094185de4f9]
+## 1. Citation, commencement and interpretation[^c-d5c3e86f45833c82f8af1094185de4f9]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 and shall come into operation on 4th December 2025.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^key-2f6974d925b03f8a53daa822e3780302]
+## 2. Amendment of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations[^c-2f6974d925b03f8a53daa822e3780302]
 
 In regulation 10(1) of the Occupational and Personal Pension Schemes (Consultation by Employers) Regulations (Northern Ireland) 2006[^f00006] (listed changes: exclusions)—
 
 - (a) in sub-paragraph (ac)[^f00007] omit “which”;
 - (b) in sub-paragraph (ad) omit “which”.
 
-## 3. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-1bc7ee2488feaa26f46600122cd514a7]
+## 3. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-1bc7ee2488feaa26f46600122cd514a7]
 
 (1) The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00008] are amended in accordance with paragraphs (2) to (9).
 
@@ -146,17 +146,17 @@ As these Regulations, in so far as they are made under the Pensions (Northern Ir
 
 [^f00004]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-d5c3e86f45833c82f8af1094185de4f9]: Commencement: Reg. 1 in operation at 4.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1)
+[^c-d5c3e86f45833c82f8af1094185de4f9]: Commencement: Reg. 1 in operation at 4.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2f6974d925b03f8a53daa822e3780302]: Commencement: Reg. 2 in operation at 4.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1)
+[^c-2f6974d925b03f8a53daa822e3780302]: Commencement: Reg. 2 in operation at 4.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2006 No. 48](https://www.legislation.gov.uk/nisr/2006/48); regulation 10(1) was amended by regulation 13(1) of [S.R. 2015 No. 309](https://www.legislation.gov.uk/nisr/2015/309), regulation 3 of [S.R. 2016 No. 144](https://www.legislation.gov.uk/nisr/2016/144) and regulation 11(a) of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
 [^f00007]: Footnote: Sub-paragraphs (ac) and (ad) were inserted by regulation 11(a) of [S.R. 2022 No. 192](https://www.legislation.gov.uk/nisr/2022/192)
 
-[^key-1bc7ee2488feaa26f46600122cd514a7]: Commencement: Reg. 3 in operation at 4.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1)
+[^c-1bc7ee2488feaa26f46600122cd514a7]: Commencement: Reg. 3 in operation at 4.12.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79); relevant amending Regulations are [S.R. 2015 No. 154](https://www.legislation.gov.uk/nisr/2015/154), [S.R. 2018 No. 53](https://www.legislation.gov.uk/nisr/2018/53) and S.R. 2022 Nos. [115](https://www.legislation.gov.uk/nisr/2022/115) and [192](https://www.legislation.gov.uk/nisr/2022/192)
 

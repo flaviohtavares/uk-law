@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Claims for credit for, or repayment of, overstated or overpaid VAT[^key-d78f9a74d4578a81ee53a0e697ac83d1][^key-3d9c7fb866139148df3f40ddc4304ca6]
+## 37. Claims for credit for, or repayment of, overstated or overpaid VAT[^c-d78f9a74d4578a81ee53a0e697ac83d1][^c-3d9c7fb866139148df3f40ddc4304ca6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Any claim under section 80 of the Act shall be made in writing to the Commission
 
 ## Annotations
 
-[^key-d78f9a74d4578a81ee53a0e697ac83d1]: Commencement: Reg. 37 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-d78f9a74d4578a81ee53a0e697ac83d1]: Commencement: Reg. 37 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
 
-[^key-3d9c7fb866139148df3f40ddc4304ca6]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/1995/2518/regulation/37) heading substituted (1.9.2005 in relation to claims made under 1994 c. 23, s. 80 on or after that date) by [The Value Added Tax (Amendment) (No. 2) Regulations 2005 (S.I. 2005/2231)](https://www.legislation.gov.uk/uksi/2005/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2231/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2005/2231/regulation/2)
+[^c-3d9c7fb866139148df3f40ddc4304ca6]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/1995/2518/regulation/37) heading substituted (1.9.2005 in relation to claims made under 1994 c. 23, s. 80 on or after that date) by [The Value Added Tax (Amendment) (No. 2) Regulations 2005 (S.I. 2005/2231)](https://www.legislation.gov.uk/uksi/2005/2231), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/2231/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2005/2231/regulation/2)

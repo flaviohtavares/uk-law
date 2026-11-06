@@ -33,7 +33,7 @@ An Act to establish an Electoral Commission; to make provision about the registr
 
 \[30th November 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c10572761][^c20068901][^c20096451][^c20107331][^key-7152ef8702010fa19d8f6085c403182f][^key-f2bfbf9231e9afabf2fa01c3027b5649][^key-14a02ebda0eebb947855fd7f4b3152e7][^key-3b566de05230f22df62fffa33d605a22][^key-427e214b352058876827187fc89818b0][^key-c7c9676db12a87c2c353a27c495e4717][^key-a6e2f2824be66249fa8923a3eb065453][^key-458f1188124fab13bed02c4e07d34182]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c10572761][^c20068901][^c20096451][^c20107331][^c-7152ef8702010fa19d8f6085c403182f][^c-f2bfbf9231e9afabf2fa01c3027b5649][^c-14a02ebda0eebb947855fd7f4b3152e7][^c-3b566de05230f22df62fffa33d605a22][^c-427e214b352058876827187fc89818b0][^c-c7c9676db12a87c2c353a27c495e4717][^c-a6e2f2824be66249fa8923a3eb065453][^c-458f1188124fab13bed02c4e07d34182]
 
 ## Contents
 
@@ -114,7 +114,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 21 — Interpretation of Part I.](part-i/section-21.md)
 
-### Part II — Registration of political parties[^key-3661b85d886778090f434e1f7a7a1522]
+### Part II — Registration of political parties[^c-3661b85d886778090f434e1f7a7a1522]
 
 *Extent: E+W+S+N.I.*
 
@@ -185,7 +185,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 49 — Division of responsibilities in case of party with accounting units.](part-iii/section-49.md)
 
-### Part IV — Control of donations to registered parties and their members etc.[^key-738ac348a292037981c5f8d1bb14e5ef][^key-ca7f545e1cc5aa65e490f55b7d3a0ad9]
+### Part IV — Control of donations to registered parties and their members etc.[^c-738ac348a292037981c5f8d1bb14e5ef][^c-ca7f545e1cc5aa65e490f55b7d3a0ad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -267,7 +267,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 71D — Duty to verify donation reports](part-iv/section-71d.md)
 - [Section 71E — Duty not to disclose contents of donation reports](part-iv/section-71e.md)
 
-### Part 4A — Regulation of loans and related transactions[^key-769375ff3154003089119cd74c7e566f][^key-9887391fd41d190e623fc5ce15c08359][^c20069971]
+### Part 4A — Regulation of loans and related transactions[^c-769375ff3154003089119cd74c7e566f][^c-9887391fd41d190e623fc5ce15c08359][^c20069971]
 
 *Extent: E+W+S+N.I.*
 
@@ -363,7 +363,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-##### Which third parties may incur expenditure[^key-f71b4c5a3506ba8af4bb87f7d3fddffb]
+##### Which third parties may incur expenditure[^c-f71b4c5a3506ba8af4bb87f7d3fddffb]
 
 - [Section 89A — Restriction on which third parties may incur controlled expenditure](part-vi/section-89a.md)
 - [Section 89B — Restriction on which third parties may incur controlled expenditure: Senedd Cymru elections](part-vi/section-89b.md)
@@ -375,13 +375,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 92 — Restriction on making claims in respect of controlled expenditure.](part-vi/section-92.md)
 - [Section 93 — Disputed claims.](part-vi/section-93.md)
 
-##### Financial limits on controlled expenditure[^key-2cb88d1249663f9d4dcfa950cd05a3c9]
+##### Financial limits on controlled expenditure[^c-2cb88d1249663f9d4dcfa950cd05a3c9]
 
 - [Section 94 — Limits on controlled expenditure by third parties.](part-vi/section-94.md)
 - [Section 94A — Arrangements between third parties notified to the Commission](part-vi/section-94a.md)
 - [Section 94B — Effect where arrangements are notified under section 94A](part-vi/section-94b.md)
 
-##### Financial limits on targeted controlled expenditure[^key-0f66672d122fc560a765ab4a55c1c36e]
+##### Financial limits on targeted controlled expenditure[^c-0f66672d122fc560a765ab4a55c1c36e]
 
 - [Section 94C — Overview of sections 94D to 94H](part-vi/section-94c.md)
 - [Section 94D — Meaning of “targeted”, “targeted expenditure limit” etc](part-vi/section-94d.md)
@@ -395,7 +395,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 95 — Control of donations to recognised third parties.](part-vi/section-95.md)
 - [Section 95ZA — Control of donation to recognised third parties: power of Scottish Ministers](part-vi/section-95za.md)
 
-##### Quarterly and weekly reports of donations to recognised third parties[^key-659db08d2e1d8991daa8fa2200f6da0a]
+##### Quarterly and weekly reports of donations to recognised third parties[^c-659db08d2e1d8991daa8fa2200f6da0a]
 
 - [Section 95A — Quarterly donation reports](part-vi/section-95a.md)
 - [Section 95B — Weekly donation reports during general election periods](part-vi/section-95b.md)
@@ -416,7 +416,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 99A — Declaration by responsible person as to statement of accounts under section 96A](part-vi/section-99a.md)
 - [Section 100 — Public inspection of returns under section 96.](part-vi/section-100.md)
 
-##### Code of practice relating to controlled expenditure[^key-d64745044b90175975ecaac1c084bb8d]
+##### Code of practice relating to controlled expenditure[^c-d64745044b90175975ecaac1c084bb8d]
 
 - [Section 100A — Code of practice on controlled expenditure](part-vi/section-100a.md)
 - [Section 100AA — Code of practice on controlled expenditure: Scottish Parliament elections](part-vi/section-100aa.md)
@@ -424,11 +424,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 100BA — Code of Practice on controlled expenditure for Scottish Parliament elections: consultation and procedural requirements](part-vi/section-100ba.md)
 - [Section 100C — Code of Practice: consultation and procedural requirements on controlled expenditure in Senedd Cymru elections](part-vi/section-100c.md)
 
-### Part VII — Referendums[^key-91fedafdafcdb6a49f59976eedc1dd44][^key-68be39426a37fe1d1cc682c23a57eaea][^key-c2b3c832ebdf54de46a77b5445cce888][^key-f2f96e9f7d766558bce114a591152aee][^key-8ebb1dcb99d998a90f8a85f609a465d5][^key-ac841b9c377cf4ac748a0617db2d62f2]
+### Part VII — Referendums[^c-91fedafdafcdb6a49f59976eedc1dd44][^c-68be39426a37fe1d1cc682c23a57eaea][^c-c2b3c832ebdf54de46a77b5445cce888][^c-f2f96e9f7d766558bce114a591152aee][^c-8ebb1dcb99d998a90f8a85f609a465d5][^c-ac841b9c377cf4ac748a0617db2d62f2]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter I — Preliminary[^key-91fedafdafcdb6a49f59976eedc1dd44][^key-c2b3c832ebdf54de46a77b5445cce888][^key-f2f96e9f7d766558bce114a591152aee][^key-8ebb1dcb99d998a90f8a85f609a465d5][^key-ac841b9c377cf4ac748a0617db2d62f2]
+#### Chapter I — Preliminary[^c-91fedafdafcdb6a49f59976eedc1dd44][^c-c2b3c832ebdf54de46a77b5445cce888][^c-f2f96e9f7d766558bce114a591152aee][^c-8ebb1dcb99d998a90f8a85f609a465d5][^c-ac841b9c377cf4ac748a0617db2d62f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -455,7 +455,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 109 — Applications for designation under section 108.](part-vii/section-109.md)
 - [Section 110 — Assistance available to designated organisations.](part-vii/section-110.md)
 
-#### Chapter II — Financial controls[^key-669f495446ed10b45bdbb9a9782f476b][^key-dab6a8f2e8032027e1c89b8dec1e370f]
+#### Chapter II — Financial controls[^c-669f495446ed10b45bdbb9a9782f476b][^c-dab6a8f2e8032027e1c89b8dec1e370f]
 
 *Extent: E+W+S+N.I.*
 
@@ -660,21 +660,21 @@ SCHEDULES
 
 [^c20107331]: Modification: Act: power to amend conferred (15.5.2008) by [The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008 (S.I. 2008/1319)](https://www.legislation.gov.uk/uksi/2008/1319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2008/1319/article/6/2/a)
 
-[^key-7152ef8702010fa19d8f6085c403182f]: Modification: Act modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2011/1/schedule/9)
+[^c-7152ef8702010fa19d8f6085c403182f]: Modification: Act modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/6/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2011/1/schedule/9)
 
-[^key-f2bfbf9231e9afabf2fa01c3027b5649]: Modification: Act: power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
+[^c-f2bfbf9231e9afabf2fa01c3027b5649]: Modification: Act: power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
 
-[^key-14a02ebda0eebb947855fd7f4b3152e7]: Modification: Act: power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-14a02ebda0eebb947855fd7f4b3152e7]: Modification: Act: power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-3b566de05230f22df62fffa33d605a22]: Modification: Act: functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-3b566de05230f22df62fffa33d605a22]: Modification: Act: functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-427e214b352058876827187fc89818b0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/41): functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(j)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/j) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-427e214b352058876827187fc89818b0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/41): functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(j)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/j) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-c7c9676db12a87c2c353a27c495e4717]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/41) applied (with modifications) (31.1.2017) by [The Combined Authorities (Mayoral Elections) Order 2017 (S.I. 2017/67)](https://www.legislation.gov.uk/uksi/2017/67), [art. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2017/67/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/67/schedule/2)
+[^c-c7c9676db12a87c2c353a27c495e4717]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/41) applied (with modifications) (31.1.2017) by [The Combined Authorities (Mayoral Elections) Order 2017 (S.I. 2017/67)](https://www.legislation.gov.uk/uksi/2017/67), [art. 3(2)-(4)](https://www.legislation.gov.uk/uksi/2017/67/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/67/schedule/2)
 
-[^key-a6e2f2824be66249fa8923a3eb065453]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/41): functions transferred (with modifications) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [45](https://www.legislation.gov.uk/uksi/2018/644/article/45), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/644/schedule/1/paragraph/4)
+[^c-a6e2f2824be66249fa8923a3eb065453]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2000/41): functions transferred (with modifications) (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [45](https://www.legislation.gov.uk/uksi/2018/644/article/45), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/644/schedule/1/paragraph/4)
 
-[^key-458f1188124fab13bed02c4e07d34182]: Modification: Act: functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-458f1188124fab13bed02c4e07d34182]: Modification: Act: functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^M_F_beee4809-f422-4dd8-f7dc-212810eee5b3]: Textual amendment: Ss. 4A-4E and cross-heading inserted (19.8.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 16](https://www.legislation.gov.uk/ukpga/2022/37/section/16), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/908](https://www.legislation.gov.uk/uksi/2022/908), [reg. 2](https://www.legislation.gov.uk/uksi/2022/908/regulation/2)
 
@@ -682,11 +682,11 @@ SCHEDULES
 
 [^c20070151]: Textual amendment: S. 20A and preceding cross-heading inserted (11.7.2006) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [s. 4(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/4/1), [77(1)(d)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/1/d)
 
-[^key-3661b85d886778090f434e1f7a7a1522]: Modification: Pt. 2 referred to (N.I.) (12.12.2014) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7](https://www.legislation.gov.uk/nia/2014/12/section/7), [Sch. 1 para. 3(13)](https://www.legislation.gov.uk/nia/2014/12/schedule/1/paragraph/3/13) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3))
+[^c-3661b85d886778090f434e1f7a7a1522]: Modification: Pt. 2 referred to (N.I.) (12.12.2014) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [s. 7](https://www.legislation.gov.uk/nia/2014/12/section/7), [Sch. 1 para. 3(13)](https://www.legislation.gov.uk/nia/2014/12/schedule/1/paragraph/3/13) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3))
 
-[^key-738ac348a292037981c5f8d1bb14e5ef]: Modification: Pt. 4 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/26); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-738ac348a292037981c5f8d1bb14e5ef]: Modification: Pt. 4 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/26); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-ca7f545e1cc5aa65e490f55b7d3a0ad9]: Modification: Pt. 4 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/28); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ca7f545e1cc5aa65e490f55b7d3a0ad9]: Modification: Pt. 4 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/28); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c10573761]: Modification: Pt. IV Chapters I-III excluded (*temp.*from 16.2.2001) by [S.I. 2001/446](https://www.legislation.gov.uk/uksi/2001/446), [art. 2](https://www.legislation.gov.uk/uksi/2001/446/article/2)
 
@@ -704,9 +704,9 @@ SCHEDULES
 
 [^c20068921]: Textual amendment: Pt. 4 Ch. 6 inserted (1.11.2007) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2006/33/section/10/2/b), [12](https://www.legislation.gov.uk/ukpga/2006/33/section/12), [31(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/2)
 
-[^key-769375ff3154003089119cd74c7e566f]: Modification: Pt. 4A modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/10/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-769375ff3154003089119cd74c7e566f]: Modification: Pt. 4A modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/10/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-9887391fd41d190e623fc5ce15c08359]: Modification: Pt. 4A modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/28); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-9887391fd41d190e623fc5ce15c08359]: Modification: Pt. 4A modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/28); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20069971]: Textual amendment: Pt. 4A (ss. 71F-71X) inserted (11.9.2006 for E.W.S. for specified purposes, 1.1.2007 for N.I. for specified purposes, 1.7.2008 for N.I. for specified purposes, 15.9.2014 for N.I. in so far as not already in force) by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/61/1), [77(2)](https://www.legislation.gov.uk/ukpga/2006/22/section/77/2); [S.I. 2006/1972](https://www.legislation.gov.uk/uksi/2006/1972), [art. 3](https://www.legislation.gov.uk/uksi/2006/1972/article/3), [Sch. 1 para. 20(a)](https://www.legislation.gov.uk/uksi/2006/1972/schedule/1/paragraph/20/a) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2006/1972/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/1972/schedule/2)) (as substituted by [S.I. 2006/2268](https://www.legislation.gov.uk/uksi/2006/2268), [art. 3](https://www.legislation.gov.uk/uksi/2006/2268/article/3)); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 4](https://www.legislation.gov.uk/uksi/2006/3412/article/4) (subject to [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1656](https://www.legislation.gov.uk/uksi/2008/1656), [art. 2](https://www.legislation.gov.uk/uksi/2008/1656/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2008/1656/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2008/1656/schedule/1)); [S.I. 2014/1809](https://www.legislation.gov.uk/uksi/2014/1809), [art. 2](https://www.legislation.gov.uk/uksi/2014/1809/article/2)
 
@@ -714,30 +714,30 @@ SCHEDULES
 
 [^c20235211]: Textual amendment: Pt. 4A Ch. 2 inserted (1.7.2008) by [The Electoral Administration Act 2006 (Regulation of Loans etc: Northern Ireland) Order 2008 (S.I. 2008/1319)](https://www.legislation.gov.uk/uksi/2008/1319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2008/1319/article/3/2)
 
-[^key-f71b4c5a3506ba8af4bb87f7d3fddffb]: Textual amendment: S. 89A and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/2), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/4)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-f71b4c5a3506ba8af4bb87f7d3fddffb]: Textual amendment: S. 89A and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 26(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/2), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/3)[(4)](https://www.legislation.gov.uk/ukpga/2022/37/section/26/4)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-2cb88d1249663f9d4dcfa950cd05a3c9]: Textual amendment: Words in s. 94 cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 30(6)](https://www.legislation.gov.uk/ukpga/2014/4/section/30/6), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-2cb88d1249663f9d4dcfa950cd05a3c9]: Textual amendment: Words in s. 94 cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 30(6)](https://www.legislation.gov.uk/ukpga/2014/4/section/30/6), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
 
-[^key-0f66672d122fc560a765ab4a55c1c36e]: Textual amendment: Ss. 94C-94H and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 30(8)](https://www.legislation.gov.uk/ukpga/2014/4/section/30/8), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-0f66672d122fc560a765ab4a55c1c36e]: Textual amendment: Ss. 94C-94H and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 30(8)](https://www.legislation.gov.uk/ukpga/2014/4/section/30/8), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
 
-[^key-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
 
-[^key-d64745044b90175975ecaac1c084bb8d]: Textual amendment: Ss. 100A, 100B and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/29/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-d64745044b90175975ecaac1c084bb8d]: Textual amendment: Ss. 100A, 100B and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/29/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-91fedafdafcdb6a49f59976eedc1dd44]: Modification: Pt. 7 restricted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 5(c)](https://www.legislation.gov.uk/ukpga/2011/1/section/5/c), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
+[^c-91fedafdafcdb6a49f59976eedc1dd44]: Modification: Pt. 7 restricted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 5(c)](https://www.legislation.gov.uk/ukpga/2011/1/section/5/c), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
 
-[^key-68be39426a37fe1d1cc682c23a57eaea]: Modification: Pt. 7 extended (Gibraltar) for the purposes of the European Union referendum (17.12.2015) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), ss. 12(2), 13(1)
+[^c-68be39426a37fe1d1cc682c23a57eaea]: Modification: Pt. 7 extended (Gibraltar) for the purposes of the European Union referendum (17.12.2015) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), ss. 12(2), 13(1)
 
-[^key-c2b3c832ebdf54de46a77b5445cce888]: Modification: Pt. 7 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/1) (with [Sch. 2 paras. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/4)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-c2b3c832ebdf54de46a77b5445cce888]: Modification: Pt. 7 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/1) (with [Sch. 2 paras. 3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/4)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-f2f96e9f7d766558bce114a591152aee]: Modification: Pt. 7 restricted (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/21); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-f2f96e9f7d766558bce114a591152aee]: Modification: Pt. 7 restricted (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/21); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-8ebb1dcb99d998a90f8a85f609a465d5]: Modification: Pt. 7 applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2015/36/section/3), [13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2) (with [Schs. 1-3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-8ebb1dcb99d998a90f8a85f609a465d5]: Modification: Pt. 7 applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [ss. 3](https://www.legislation.gov.uk/ukpga/2015/36/section/3), [13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2) (with [Schs. 1-3](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-ac841b9c377cf4ac748a0617db2d62f2]: Modification: Pt. 7 excluded (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/19); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-ac841b9c377cf4ac748a0617db2d62f2]: Modification: Pt. 7 excluded (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/19); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-669f495446ed10b45bdbb9a9782f476b]: Modification: Pt. 7 Ch. 2 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/35); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-669f495446ed10b45bdbb9a9782f476b]: Modification: Pt. 7 Ch. 2 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/35); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-dab6a8f2e8032027e1c89b8dec1e370f]: Modification: Pt. 7 Ch. 2 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 37(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/1) (with [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/2)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-dab6a8f2e8032027e1c89b8dec1e370f]: Modification: Pt. 7 Ch. 2 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 37(1)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/1) (with [Sch. 1 para. 37(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/37/2)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
 [^c20224941]: Textual amendment: S. 140A and preceding cross-heading inserted (21.7.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 19(1)](https://www.legislation.gov.uk/ukpga/2009/12/section/19/1), [43(1)(5)(c)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1/5/c)

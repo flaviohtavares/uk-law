@@ -31,7 +31,7 @@ summary: ''
 
 INSIDER DEALING
 
-The Insider Dealing (Securities and Regulated Markets) (Amendment) Order 2002 (revoked)[^key-e63cc510cab9eab27936a9afd845edcd]
+The Insider Dealing (Securities and Regulated Markets) (Amendment) Order 2002 (revoked)[^c-e63cc510cab9eab27936a9afd845edcd]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into force
 
 19th July 2002
 
-[^key-e63cc510cab9eab27936a9afd845edcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e63cc510cab9eab27936a9afd845edcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e63cc510cab9eab27936a9afd845edcd]
+## 1. Citation and commencement[^c-e63cc510cab9eab27936a9afd845edcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Insider Dealing (Securities and Regulated Markets) Order 1994[^key-e63cc510cab9eab27936a9afd845edcd]
+## 2. Amendment of the Insider Dealing (Securities and Regulated Markets) Order 1994[^c-e63cc510cab9eab27936a9afd845edcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e63cc510cab9eab27936a9afd845edcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e63cc510cab9eab27936a9afd845edcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e63cc510cab9eab27936a9afd845edcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e63cc510cab9eab27936a9afd845edcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e63cc510cab9eab27936a9afd845edcd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/1874) revoked (15.6.2023) by [The Insider Dealing (Securities and Regulated Markets) Order 2023 (S.I. 2023/582)](https://www.legislation.gov.uk/uksi/2023/582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/582/article/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2023/582/article/7/d)
+[^c-e63cc510cab9eab27936a9afd845edcd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/1874) revoked (15.6.2023) by [The Insider Dealing (Securities and Regulated Markets) Order 2023 (S.I. 2023/582)](https://www.legislation.gov.uk/uksi/2023/582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/582/article/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2023/582/article/7/d)

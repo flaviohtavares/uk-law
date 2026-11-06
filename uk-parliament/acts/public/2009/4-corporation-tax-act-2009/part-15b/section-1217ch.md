@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217CH. Video game tax credit claimable if company has surrenderable loss[^key-430657b7d7e90131044eca9771949694]
+## 1217CH. Video game tax credit claimable if company has surrenderable loss[^c-430657b7d7e90131044eca9771949694]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ RUL is the amount of any relevant unused loss of the company (see subsection (4)
 (4) The “relevant unused loss” of a company is so much of any available loss of the company for the previous accounting period as has not been—
 
 - (a) surrendered under section 1217CI(1), or
-- (b) carried forward under section 45 or 45B[^key-8e402d619f96e56e53c6bf2d8e21878c] of CTA 2010 and set against profits of the separate video game trade.
+- (b) carried forward under section 45 or 45B[^c-8e402d619f96e56e53c6bf2d8e21878c] of CTA 2010 and set against profits of the separate video game trade.
 
 (5) For the first period of account during which the separate video game trade is carried on, the available qualifying expenditure is the amount that is E for that period for the purposes of section 1217CG(1).
 
@@ -58,6 +58,6 @@ S is the total amount previously surrendered under section 1217CI(1).
 
 ## Annotations
 
-[^key-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
+[^c-430657b7d7e90131044eca9771949694]: Textual amendment: Pt. 15B inserted (17.7.2013 for specified purposes and 1.4.2014 in so far as not already in force) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 17 paras. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/17/paragraph/2); [S.I. 2014/1962](https://www.legislation.gov.uk/uksi/2014/1962), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1962/article/2/2)
 
-[^key-8e402d619f96e56e53c6bf2d8e21878c]: Textual amendment: Words in s. 1217CH(4)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 141](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/141)
+[^c-8e402d619f96e56e53c6bf2d8e21878c]: Textual amendment: Words in s. 1217CH(4)(b) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 141](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/141)

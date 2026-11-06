@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Amendment of regulation 64 (consolidation of permits and registrations)[^key-10222d81a4c427dac66e573efe9a5af2]
+## 32. Amendment of regulation 64 (consolidation of permits and registrations)[^c-10222d81a4c427dac66e573efe9a5af2]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In regulation 64 (consolidation of permits and registrations), after paragraph (
 
 ## Annotations
 
-[^key-10222d81a4c427dac66e573efe9a5af2]: Commencement: Reg. 32 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-10222d81a4c427dac66e573efe9a5af2]: Commencement: Reg. 32 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Evacuation of buildings[^key-ff641e9143a7f736b207d4c23d80cef0]
+## 42. Evacuation of buildings[^c-ff641e9143a7f736b207d4c23d80cef0]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ the authority must (unless the building has been demolished) give the person not
 
 ## Annotations
 
-[^key-ff641e9143a7f736b207d4c23d80cef0]: Commencement: S. 42 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-ff641e9143a7f736b207d4c23d80cef0]: Commencement: S. 42 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of PRA power of direction[^key-01b92268af657a5f4e1145a0d7fcbdb7]
+## 3. Amendment of PRA power of direction[^c-01b92268af657a5f4e1145a0d7fcbdb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 3I of FSMA 2000 (power of PRA to require FCA to refrain from specifie
 
 ## Annotations
 
-[^key-01b92268af657a5f4e1145a0d7fcbdb7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/33/section/3) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/c)
+[^c-01b92268af657a5f4e1145a0d7fcbdb7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/33/section/3) in force at 1.1.2019 by [S.I. 2018/1306](https://www.legislation.gov.uk/uksi/2018/1306), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/1306/article/2/c)

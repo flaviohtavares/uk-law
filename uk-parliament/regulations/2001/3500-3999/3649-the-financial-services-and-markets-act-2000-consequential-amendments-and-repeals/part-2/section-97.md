@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Power to make provision about certain charges other than market charges[^key-a638e67d9e05e34a7ba4f4a8e7244d16]
+## 97. Power to make provision about certain charges other than market charges[^c-a638e67d9e05e34a7ba4f4a8e7244d16]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a638e67d9e05e34a7ba4f4a8e7244d16]: Commencement: Art. 97 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a638e67d9e05e34a7ba4f4a8e7244d16]: Commencement: Art. 97 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

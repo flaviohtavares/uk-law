@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.1. Requirement for public notice[^key-42e9f1032f5268e8a351bc1c103c06c6]
+## 6.1. Requirement for public notice[^c-42e9f1032f5268e8a351bc1c103c06c6]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42e9f1032f5268e8a351bc1c103c06c6]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/uksi/2015/1568/article/6.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-42e9f1032f5268e8a351bc1c103c06c6]: Commencement: [Rule 6.1](https://www.legislation.gov.uk/uksi/2015/1568/article/6.1) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

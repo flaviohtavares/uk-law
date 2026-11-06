@@ -34,7 +34,7 @@ This Statutory Instrument has been made to correct an error in [SI 2003/2243](ht
 
 FOOD, ENGLAND
 
-The Honey (Amendment) (England) Regulations 2005 (revoked)[^key-da07aa9953bed663d35d6867c49c3f21]
+The Honey (Amendment) (England) Regulations 2005 (revoked)[^c-da07aa9953bed663d35d6867c49c3f21]
 
 Made
 
@@ -48,26 +48,26 @@ Coming into force
 
 31st August 2005
 
-[^key-da07aa9953bed663d35d6867c49c3f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da07aa9953bed663d35d6867c49c3f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-da07aa9953bed663d35d6867c49c3f21]
+## 1. Title, application and commencement[^c-da07aa9953bed663d35d6867c49c3f21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Honey Regulations 2003[^key-da07aa9953bed663d35d6867c49c3f21]
+## 2. Amendments to the Honey Regulations 2003[^c-da07aa9953bed663d35d6867c49c3f21]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-da07aa9953bed663d35d6867c49c3f21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-da07aa9953bed663d35d6867c49c3f21] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da07aa9953bed663d35d6867c49c3f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da07aa9953bed663d35d6867c49c3f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-da07aa9953bed663d35d6867c49c3f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da07aa9953bed663d35d6867c49c3f21]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da07aa9953bed663d35d6867c49c3f21]: Textual amendment: Regulations revoked (24.6.2015) by [The Honey (England) Regulations 2015 (S.I. 2015/1348)](https://www.legislation.gov.uk/uksi/2015/1348), [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/20/1/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/1348/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/1348/regulation/5))
+[^c-da07aa9953bed663d35d6867c49c3f21]: Textual amendment: Regulations revoked (24.6.2015) by [The Honey (England) Regulations 2015 (S.I. 2015/1348)](https://www.legislation.gov.uk/uksi/2015/1348), [reg. 20(1)(b)](https://www.legislation.gov.uk/uksi/2015/1348/regulation/20/1/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2015/1348/regulation/4), [5](https://www.legislation.gov.uk/uksi/2015/1348/regulation/5))

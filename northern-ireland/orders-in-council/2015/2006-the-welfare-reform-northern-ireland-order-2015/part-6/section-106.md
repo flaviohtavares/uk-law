@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Payments on account[^key-ed5907f0f565ed5c6ebd94510affc886]
+## 106. Payments on account[^c-ed5907f0f565ed5c6ebd94510affc886]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed5907f0f565ed5c6ebd94510affc886]: Commencement: [Art. 106](https://www.legislation.gov.uk/nisi/2015/2006/article/106) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
+[^c-ed5907f0f565ed5c6ebd94510affc886]: Commencement: [Art. 106](https://www.legislation.gov.uk/nisi/2015/2006/article/106) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)

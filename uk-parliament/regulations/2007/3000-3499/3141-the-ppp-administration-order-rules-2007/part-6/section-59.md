@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Requirement to assess costs by the detailed procedure[^key-2abfee01e40f21267c852d8104e301fb]
+## 59. Requirement to assess costs by the detailed procedure[^c-2abfee01e40f21267c852d8104e301fb]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2abfee01e40f21267c852d8104e301fb]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2007/3141/rule/59) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-2abfee01e40f21267c852d8104e301fb]: Commencement: [Rule 59](https://www.legislation.gov.uk/uksi/2007/3141/rule/59) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
 
 [^f00016]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110) (1 & 2 Vict.). Section 17 was amended by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564), article 2 and [1998/2940](https://www.legislation.gov.uk/uksi/1998/2940), article 3 and by other enactments which are not relevant to these Rules.

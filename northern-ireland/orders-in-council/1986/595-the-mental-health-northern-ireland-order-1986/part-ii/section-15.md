@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Leave of absence from hospital[^key-c48964e28a53b2412d4ce61aa71cd256][^key-018649f055780172c4e79631a079cac7][^key-42056f7475fc7e2edadb439c11c20616]
+## 15. Leave of absence from hospital[^c-c48964e28a53b2412d4ce61aa71cd256][^c-018649f055780172c4e79631a079cac7][^c-42056f7475fc7e2edadb439c11c20616]
 
 *Extent: N.I.*
 
@@ -39,11 +39,11 @@ that officer may, subject to paragraph (6), by notice in writing given to the pa
 
 ## Annotations
 
-[^key-c48964e28a53b2412d4ce61aa71cd256]: Modification: [Art. 15](https://www.legislation.gov.uk/nisi/1986/595/article/15) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(l)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/l), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-c48964e28a53b2412d4ce61aa71cd256]: Modification: [Art. 15](https://www.legislation.gov.uk/nisi/1986/595/article/15) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(l)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/l), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
-[^key-018649f055780172c4e79631a079cac7]: Modification: [Art. 15](https://www.legislation.gov.uk/nisi/1986/595/article/15) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(l)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/l), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-018649f055780172c4e79631a079cac7]: Modification: [Art. 15](https://www.legislation.gov.uk/nisi/1986/595/article/15) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(l)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/l), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-42056f7475fc7e2edadb439c11c20616]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1986/595/part/II) expiry of earlier affecting provision 2020 c. 7, Sch. 10 paras. 3-13 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
 [^c17122691]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

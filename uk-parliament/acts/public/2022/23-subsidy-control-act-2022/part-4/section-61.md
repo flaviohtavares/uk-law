@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. CMA reporting period for post-award referrals[^key-a9afa2dcf0a179c31614b776c3643254][^key-7f2a734e5db140ce8230d672c1fb1761]
+## 61. CMA reporting period for post-award referrals[^c-a9afa2dcf0a179c31614b776c3643254][^c-7f2a734e5db140ce8230d672c1fb1761]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a9afa2dcf0a179c31614b776c3643254]: Commencement: S. 61 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
+[^c-a9afa2dcf0a179c31614b776c3643254]: Commencement: S. 61 in force at Royal Assent for specified purposes, see [s. 91(1)(b)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/b)
 
-[^key-7f2a734e5db140ce8230d672c1fb1761]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/23/section/61) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-7f2a734e5db140ce8230d672c1fb1761]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2022/23/section/61) in force at 4.1.2023 in so far as not already in force by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

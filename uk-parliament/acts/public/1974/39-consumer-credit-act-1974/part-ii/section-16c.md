@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16C. Exemption relating to investment properties[^key-660a951cc55dd1e9c7cdfc6b76596c8b]
+## 16C. Exemption relating to investment properties[^c-660a951cc55dd1e9c7cdfc6b76596c8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-660a951cc55dd1e9c7cdfc6b76596c8b]: Textual amendment: S. 16C omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(8)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/8)
+[^c-660a951cc55dd1e9c7cdfc6b76596c8b]: Textual amendment: S. 16C omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(8)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/8)

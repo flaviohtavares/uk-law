@@ -66,16 +66,16 @@ Rule 10.47
 **15.** Where the debtor owns a motor vehicle or has disposed of any vehicle during the 12 months immediately preceding the date of the bankruptcy application, in respect of each motor vehicle—
 
 - (a) make, model and year of manufacture;
-- (b) what the motor vehicle is or was[^key-775261fe2b3bb564689ab31857abd5ea] used for by the debtor;
+- (b) what the motor vehicle is or was[^c-775261fe2b3bb564689ab31857abd5ea] used for by the debtor;
 - (c) save where the motor vehicle has been disposed of, the location of the motor vehicle;
 - (d) where the motor vehicle has been disposed of, the date of disposal and any proceeds from that disposal.
 
-**16.** Where the debtor regularly uses a motor vehicle that the debtor does not own, in relation to[^key-c00539670697197bf6ed1b3259b06603] each motor vehicle—
+**16.** Where the debtor regularly uses a motor vehicle that the debtor does not own, in relation to[^c-c00539670697197bf6ed1b3259b06603] each motor vehicle—
 
 - (a) make and model; and
 - (b) debtor's relationship to the vehicle's owner.
 
-**17.** Where the debtor owns or has an interest in any property, in respect of[^key-ad1e1096f76bd32994f258632e7d856f] each property—
+**17.** Where the debtor owns or has an interest in any property, in respect of[^c-ad1e1096f76bd32994f258632e7d856f] each property—
 
 - (a) address;
 - (b) type of and description of the property;
@@ -83,7 +83,7 @@ Rule 10.47
 - (d) value of that interest; and
 - (e) any income received by the debtor from the property.
 
-**18.** Where the debtor holds or has held within the five years immediately before the date of the bankruptcy application any occupational pension, personal pension, endowment or other life policy in respect of[^key-7f5380e139f0929a53e76f6a5dbe526e] each policy—
+**18.** Where the debtor holds or has held within the five years immediately before the date of the bankruptcy application any occupational pension, personal pension, endowment or other life policy in respect of[^c-7f5380e139f0929a53e76f6a5dbe526e] each policy—
 
 - (a) type of policy;
 - (b) approximate date when the policy was taken out; and
@@ -95,7 +95,7 @@ Rule 10.47
 
 **21.** Current (or last) income tax reference number.
 
-**22.** In respect of[^key-f80f68a8f4fd6a540b9342a4094b6cf9] each creditor—
+**22.** In respect of[^c-f80f68a8f4fd6a540b9342a4094b6cf9] each creditor—
 
 - (a) name and address;
 - (b) date the debt was incurred;
@@ -104,12 +104,12 @@ Rule 10.47
 
 ## Annotations
 
-[^key-775261fe2b3bb564689ab31857abd5ea]: Textual amendment: Words in [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/15/b) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [53](https://www.legislation.gov.uk/uksi/2017/366/rule/53)
+[^c-775261fe2b3bb564689ab31857abd5ea]: Textual amendment: Words in [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/15/b) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [53](https://www.legislation.gov.uk/uksi/2017/366/rule/53)
 
-[^key-c00539670697197bf6ed1b3259b06603]: Textual amendment: Words in [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/16) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [54](https://www.legislation.gov.uk/uksi/2017/366/rule/54)
+[^c-c00539670697197bf6ed1b3259b06603]: Textual amendment: Words in [Sch. 9 para. 16](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/16) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [54](https://www.legislation.gov.uk/uksi/2017/366/rule/54)
 
-[^key-ad1e1096f76bd32994f258632e7d856f]: Textual amendment: Words in [Sch. 9 para. 17](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/17) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [55](https://www.legislation.gov.uk/uksi/2017/366/rule/55)
+[^c-ad1e1096f76bd32994f258632e7d856f]: Textual amendment: Words in [Sch. 9 para. 17](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/17) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [55](https://www.legislation.gov.uk/uksi/2017/366/rule/55)
 
-[^key-7f5380e139f0929a53e76f6a5dbe526e]: Textual amendment: Words in [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/18) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [55](https://www.legislation.gov.uk/uksi/2017/366/rule/55)
+[^c-7f5380e139f0929a53e76f6a5dbe526e]: Textual amendment: Words in [Sch. 9 para. 18](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/18) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [55](https://www.legislation.gov.uk/uksi/2017/366/rule/55)
 
-[^key-f80f68a8f4fd6a540b9342a4094b6cf9]: Textual amendment: Words in [Sch. 9 para. 22](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/22) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [55](https://www.legislation.gov.uk/uksi/2017/366/rule/55)
+[^c-f80f68a8f4fd6a540b9342a4094b6cf9]: Textual amendment: Words in [Sch. 9 para. 22](https://www.legislation.gov.uk/uksi/2016/1024/schedule/9/paragraph/22) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [55](https://www.legislation.gov.uk/uksi/2017/366/rule/55)

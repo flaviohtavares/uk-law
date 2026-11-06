@@ -30,7 +30,7 @@ summary: ''
 
 SEX DISCRIMINATION
 
-The Sex Discrimination Act 1975 (Application to Armed Forces etc) Regulations 1994 (revoked)[^key-cd02632863c8c46ae023154de769d56e]
+The Sex Discrimination Act 1975 (Application to Armed Forces etc) Regulations 1994 (revoked)[^c-cd02632863c8c46ae023154de769d56e]
 
 Made
 
@@ -40,20 +40,20 @@ Laid before Parliament
 
 20th December 1994 Coming into Force 1st February 1995
 
-[^key-cd02632863c8c46ae023154de769d56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd02632863c8c46ae023154de769d56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-cd02632863c8c46ae023154de769d56e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-cd02632863c8c46ae023154de769d56e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-cd02632863c8c46ae023154de769d56e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-cd02632863c8c46ae023154de769d56e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd02632863c8c46ae023154de769d56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd02632863c8c46ae023154de769d56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cd02632863c8c46ae023154de769d56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd02632863c8c46ae023154de769d56e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd02632863c8c46ae023154de769d56e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1994/3276) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-cd02632863c8c46ae023154de769d56e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1994/3276) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

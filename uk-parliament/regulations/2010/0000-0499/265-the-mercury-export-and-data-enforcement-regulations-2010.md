@@ -34,7 +34,7 @@ Environmental Protection
 
 Health And Safety
 
-The Mercury Export and Data (Enforcement) Regulations 2010 (revoked)[^key-429a08dbd66ec2bd0622d178f3728e88]
+The Mercury Export and Data (Enforcement) Regulations 2010 (revoked)[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 Made
 
@@ -46,76 +46,76 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 2
 
-[^key-429a08dbd66ec2bd0622d178f3728e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-429a08dbd66ec2bd0622d178f3728e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introduction[^key-429a08dbd66ec2bd0622d178f3728e88]
+## PART 1 — Introduction[^c-429a08dbd66ec2bd0622d178f3728e88]
 
-### 1. Citation[^key-429a08dbd66ec2bd0622d178f3728e88]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Coming into force[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 1. Citation[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 2. Coming into force[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Competent authority[^key-429a08dbd66ec2bd0622d178f3728e88]
-
-### 4. The competent authority[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 3. Interpretation[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Offences and penalties[^key-429a08dbd66ec2bd0622d178f3728e88]
+## PART 2 — Competent authority[^c-429a08dbd66ec2bd0622d178f3728e88]
 
-### 5. Offences in respect of the EU Regulation[^key-429a08dbd66ec2bd0622d178f3728e88]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Offence of obstruction[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 4. The competent authority[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Corporate, partnership and unincorporated association offences[^key-429a08dbd66ec2bd0622d178f3728e88]
+## PART 3 — Offences and penalties[^c-429a08dbd66ec2bd0622d178f3728e88]
+
+### 5. Offences in respect of the EU Regulation[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of Transfrontier Shipment of Waste Regulations[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 6. Offence of obstruction[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Penalties[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 7. Corporate, partnership and unincorporated association offences[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Enforcement[^key-429a08dbd66ec2bd0622d178f3728e88]
-
-### 10. Enforcement authority[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 8. Amendment of Transfrontier Shipment of Waste Regulations[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Authorised person[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 9. Penalties[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Power to seize and detain[^key-429a08dbd66ec2bd0622d178f3728e88]
+## PART 4 — Enforcement[^c-429a08dbd66ec2bd0622d178f3728e88]
+
+### 10. Enforcement authority[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Power to share information for enforcement purposes[^key-429a08dbd66ec2bd0622d178f3728e88]
+### 11. Authorised person[^c-429a08dbd66ec2bd0622d178f3728e88]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-429a08dbd66ec2bd0622d178f3728e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 12. Power to seize and detain[^c-429a08dbd66ec2bd0622d178f3728e88]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Power to share information for enforcement purposes[^c-429a08dbd66ec2bd0622d178f3728e88]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-429a08dbd66ec2bd0622d178f3728e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-429a08dbd66ec2bd0622d178f3728e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-429a08dbd66ec2bd0622d178f3728e88]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-429a08dbd66ec2bd0622d178f3728e88]: Textual amendment: Regulations revoked (1.1.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [51](https://www.legislation.gov.uk/uksi/2017/1200/regulation/51) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-429a08dbd66ec2bd0622d178f3728e88]: Textual amendment: Regulations revoked (1.1.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [51](https://www.legislation.gov.uk/uksi/2017/1200/regulation/51) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))

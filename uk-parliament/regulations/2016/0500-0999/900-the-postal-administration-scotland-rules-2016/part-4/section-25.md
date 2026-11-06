@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Remote attendance at meetings[^key-981541c93dae6723da130d20013b93b0]
+## 25. Remote attendance at meetings[^c-981541c93dae6723da130d20013b93b0]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-981541c93dae6723da130d20013b93b0]: Commencement: Rule 25 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-981541c93dae6723da130d20013b93b0]: Commencement: Rule 25 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^f00014]: Footnote: Section 246A was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18), Article 3 and amended by the Small Business, Enterprise and Employment Act 2015, Schedule 9(1), paragraph 54(4) (not yet in force).

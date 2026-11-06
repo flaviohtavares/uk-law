@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Arrangements for payments[^key-d85194493cc41ddced36bc4ae38f65d1]
+## 106. Arrangements for payments[^c-d85194493cc41ddced36bc4ae38f65d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d85194493cc41ddced36bc4ae38f65d1]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/ukpga/2001/24/part/11) omitted (1.11.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/62) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/e)
+[^c-d85194493cc41ddced36bc4ae38f65d1]: Textual amendment: [Pt. 11](https://www.legislation.gov.uk/ukpga/2001/24/part/11) omitted (1.11.2018) by virtue of [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/paragraph/62) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/873/regulation/4/e)

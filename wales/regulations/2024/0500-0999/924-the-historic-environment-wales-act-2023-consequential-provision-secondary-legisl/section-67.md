@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**67.**[^key-b68fc931b0b8dc68d2ba7581f92ebb95] In article 45 and in the heading before it, for “Ancient Monuments and Archaeological Areas Act 1979” substitute “Historic Environment (Wales) Act 2023”.
+**67.**[^c-b68fc931b0b8dc68d2ba7581f92ebb95] In article 45 and in the heading before it, for “Ancient Monuments and Archaeological Areas Act 1979” substitute “Historic Environment (Wales) Act 2023”.
 
 ## Annotations
 
-[^key-b68fc931b0b8dc68d2ba7581f92ebb95]: Commencement: [Reg. 67](https://www.legislation.gov.uk/wsi/2024/924/regulation/67) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-b68fc931b0b8dc68d2ba7581f92ebb95]: Commencement: [Reg. 67](https://www.legislation.gov.uk/wsi/2024/924/regulation/67) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

@@ -35,13 +35,13 @@ summary: ''
 
 as if it had been duly stamped in accordance with the law in force at the time when it was executed.
 
-(3)[^key-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8e1e5a53a4e77cf810c4c3600ee031b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) This section shall be construed as one with the Stamp Act 1891.
 
@@ -55,10 +55,10 @@ as if it had been duly stamped in accordance with the law in force at the time w
   - (v) section 57 of the Housing (Scotland) Act 2001 (asp 10), or
 - (b) is a body corporate whose objects correspond to those of a housing association and which, pursuant to a contract with Scottish Homes, is registered in a register kept for the purposes by Scottish Homes.
 
-(9)[^key-da4634ca178042d636a70d6b4bfc9ef5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-da4634ca178042d636a70d6b4bfc9ef5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8e1e5a53a4e77cf810c4c3600ee031b8]: Textual amendment: [S. 130(3)-(6)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/3) repealed (with effect in accordance with Sch. 39 para. 10(2)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/9/1/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-8e1e5a53a4e77cf810c4c3600ee031b8]: Textual amendment: [S. 130(3)-(6)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/3) repealed (with effect in accordance with Sch. 39 para. 10(2)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/9/1/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
-[^key-da4634ca178042d636a70d6b4bfc9ef5]: Textual amendment: [S. 130(9)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/9) repealed (with effect in accordance with Sch. 39 para. 10(2)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/9/1/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-da4634ca178042d636a70d6b4bfc9ef5]: Textual amendment: [S. 130(9)](https://www.legislation.gov.uk/ukpga/2003/14/section/130/9) repealed (with effect in accordance with Sch. 39 para. 10(2)(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 9(1)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/9/1/c) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

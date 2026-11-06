@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Entry to dwellinghouses[^key-10818897737d6bfdd9f6033306947ede]
+## 77. Entry to dwellinghouses[^c-10818897737d6bfdd9f6033306947ede]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ to enter a dwellinghouse, the conditions set out in subsections (2) and (3) must
 
 ## Annotations
 
-[^key-10818897737d6bfdd9f6033306947ede]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2008/5/section/77) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-10818897737d6bfdd9f6033306947ede]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2008/5/section/77) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. General regulation making power for excise duty purposes etc[^key-116d9b592ed34f306df28c25e3317762]
+## 45. General regulation making power for excise duty purposes etc[^c-116d9b592ed34f306df28c25e3317762]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-116d9b592ed34f306df28c25e3317762]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/2018/22/section/45) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 118](https://www.legislation.gov.uk/ukpga/2026/11/section/118)
+[^c-116d9b592ed34f306df28c25e3317762]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/2018/22/section/45) applied (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 118](https://www.legislation.gov.uk/ukpga/2026/11/section/118)

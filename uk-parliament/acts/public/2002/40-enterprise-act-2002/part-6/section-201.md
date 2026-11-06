@@ -36,7 +36,7 @@ is guilty of an offence.
 
 (4) Where any person—
 
-- (a) knows or suspects that an investigation by the Serious Fraud Office or the CMA[^key-518597425b743f7411d558594a0e892a] into an offence under section 188 is being or is likely to be carried out; and
+- (a) knows or suspects that an investigation by the Serious Fraud Office or the CMA[^c-518597425b743f7411d558594a0e892a] into an offence under section 188 is being or is likely to be carried out; and
 - (b) falsifies, conceals, destroys or otherwise disposes of, or causes or permits the falsification, concealment, destruction or disposal of documents which he knows or suspects are or would be relevant to such an investigation,
 
 he is guilty of an offence unless he proves that he had no intention of concealing the facts disclosed by the documents from the persons carrying out such an investigation.
@@ -53,4 +53,4 @@ he is guilty of an offence unless he proves that he had no intention of conceali
 
 ## Annotations
 
-[^key-518597425b743f7411d558594a0e892a]: Textual amendment: Word in [s. 201(4)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/201/4/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 216](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/216) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-518597425b743f7411d558594a0e892a]: Textual amendment: Word in [s. 201(4)(a)](https://www.legislation.gov.uk/ukpga/2002/40/section/201/4/a) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 216](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/216) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

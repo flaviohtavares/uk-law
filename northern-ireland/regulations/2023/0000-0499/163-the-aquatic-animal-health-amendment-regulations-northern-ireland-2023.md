@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes these Regulations in exercise of the powers conferred on it by sections 11 and 22 of, and paragraphs 11M(1), (3) and (8) of Part 1C of Schedule 2 and paragraph 21(b) of Schedule 7, to the European Union (Withdrawal) Act 2018[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-ea382c0b50769cbb92cb4cc86588138c]
+## 1. Citation, commencement and interpretation[^c-ea382c0b50769cbb92cb4cc86588138c]
 
 (1) These Regulations may be cited as the Aquatic Animal Health (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 30th October 2023.
 
@@ -52,11 +52,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes thes
 
 - “**Directive 2006/88**” means Council [Directive 2006/88/EC](https://www.legislation.gov.uk/european/directive/2006/0088) on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals[^f00004].
 
-## 2. Amendment of the Aquatic Animal Health Regulations (Northern Ireland) 2009[^key-b566c2b6a0a201b304124a51b2b99ec8]
+## 2. Amendment of the Aquatic Animal Health Regulations (Northern Ireland) 2009[^c-b566c2b6a0a201b304124a51b2b99ec8]
 
 The Aquatic Animal Health Regulations (Northern Ireland) 2009[^f00005] are amended in accordance with regulations 3 to 12.
 
-## 3. Amendments to regulation 2 (Interpretation)[^key-bb904f0f52bc33ef259300094fca2d78]
+## 3. Amendments to regulation 2 (Interpretation)[^c-bb904f0f52bc33ef259300094fca2d78]
 
 (1) In regulation 2(2)—
 
@@ -78,7 +78,7 @@ The Aquatic Animal Health Regulations (Northern Ireland) 2009[^f00005] are amend
 
 .
 
-## 4. New regulation 4A (Aquatic animal health professional)[^key-e6174618ea9036e9ee9c4f71e51b01a9]
+## 4. New regulation 4A (Aquatic animal health professional)[^c-e6174618ea9036e9ee9c4f71e51b01a9]
 
 After regulation 4, insert—
 
@@ -91,11 +91,11 @@ After regulation 4, insert—
 
 .
 
-## 5. Amendment to regulation 14 (Public register of aquaculture production businesses and processing establishments)[^key-8a668c521cf395c74e60e9eb5bd9cb8a]
+## 5. Amendment to regulation 14 (Public register of aquaculture production businesses and processing establishments)[^c-8a668c521cf395c74e60e9eb5bd9cb8a]
 
 In regulation 14, omit paragraphs (2) and (3).
 
-## 6. Amendment to regulation 19 (General health requirements)[^key-47d1f8205dd7359282fd9c68c9e06eaf]
+## 6. Amendment to regulation 19 (General health requirements)[^c-47d1f8205dd7359282fd9c68c9e06eaf]
 
 In regulation 19—
 
@@ -118,30 +118,30 @@ In regulation 19—
 
   .
 
-## 7. Amendment to regulation 27 (Initial designation area)[^key-d5e05e50908fadb4fe982eea684c91b3]
+## 7. Amendment to regulation 27 (Initial designation area)[^c-d5e05e50908fadb4fe982eea684c91b3]
 
 In regulation 27—
 
 - (a) in paragraph (2)(b), for “Article 57 of Directive 2006/88” substitute “Article 54(2)(b) of Regulation 2016/429”; and
 - (b) in paragraph (2)(d), for “epizootic investigation in accordance with Article 29 of Directive 2006/88” substitute “epidemiological enquiry in accordance with Article 57(1) of Regulation 2016/429”.
 
-## 8. Amendment to regulation 31 (Confirmed designation)[^key-8e56e42fb14e022e4a04a6c9cbe6edfd]
+## 8. Amendment to regulation 31 (Confirmed designation)[^c-8e56e42fb14e022e4a04a6c9cbe6edfd]
 
 In regulation 31(2)(d), for “Article 57 of Directive 2006/88” substitute “Article 54(2)(b) of Regulation 2016/429”.
 
-## 9. Amendment to regulation 37 (Powers of entry)[^key-438e56fdf01cdb0892b3ffc4f724dbb5]
+## 9. Amendment to regulation 37 (Powers of entry)[^c-438e56fdf01cdb0892b3ffc4f724dbb5]
 
 In regulation 37(1), for “Directive 2006/88” substitute “Regulation 2016/429”.
 
-## 10. Omission of regulation 52 (Public register of disease-free zones and compartments)[^key-d7818737cb48bc96dc21ca7e4c51f843]
+## 10. Omission of regulation 52 (Public register of disease-free zones and compartments)[^c-d7818737cb48bc96dc21ca7e4c51f843]
 
 Omit regulation 52.
 
-## 11. Amendment to regulation 56 (Disclosure of information)[^key-91d543f402185dde959c986d41c2a1a8]
+## 11. Amendment to regulation 56 (Disclosure of information)[^c-91d543f402185dde959c986d41c2a1a8]
 
 In regulation 56(1), for “Directive 2006/88” substitute “Regulation 2016/429”.
 
-## 12. Amendment to Schedule 1 (List of Diseases)[^key-1e707b37bd03c7f92e14f55c2ae71006]
+## 12. Amendment to Schedule 1 (List of Diseases)[^c-1e707b37bd03c7f92e14f55c2ae71006]
 
 In Schedule 1 for “(which are not listed in Part II of Annex IV to Directive 2006/88)” substitute “(which are not listed in Annex II to Regulation 2016/429)”.
 
@@ -165,17 +165,17 @@ An impact assessment has not been produced for this Statutory Rule as no, or no 
 
 [^f00002]: Footnote: [2018 (c.16)](https://www.legislation.gov.uk/ukpga/2018/16); section 11 was amended by section 42(6) of, and paragraph 42 of Schedule 5 to the European Union (Withdrawal Agreement) Act [2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (“**the 2020 Act**”); paragraph 11M of Schedule 2 was inserted by section 22 of the 2020 Act; paragraph 21(b) of Schedule 7 was amended by section 41(4) of, and paragraph 42 of Schedule 5 to the 2020 Act
 
-[^key-ea382c0b50769cbb92cb4cc86588138c]: Commencement: Reg. 1 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-ea382c0b50769cbb92cb4cc86588138c]: Commencement: Reg. 1 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00004]: Footnote: O.J. No. L 328, 24.11.2006, p.14 (repealed by [Regulation (EU) 2016/429](https://www.legislation.gov.uk/european/regulation/2016/0429) O.J. No. L 84, 31.3.2016, p.1
 
-[^key-b566c2b6a0a201b304124a51b2b99ec8]: Commencement: Reg. 2 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-b566c2b6a0a201b304124a51b2b99ec8]: Commencement: Reg. 2 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2009 No.129](https://www.legislation.gov.uk/nisr/2009/129), as amended by [S.R. 2011 No. 118](https://www.legislation.gov.uk/nisr/2011/118), [S.R. 2018 No. 200](https://www.legislation.gov.uk/nisr/2018/200), [S.R. 2019 No. 581](https://www.legislation.gov.uk/nisr/2019/581) and [S.R. 2020 No. 353](https://www.legislation.gov.uk/nisr/2020/353)
 
-[^key-bb904f0f52bc33ef259300094fca2d78]: Commencement: Reg. 3 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-bb904f0f52bc33ef259300094fca2d78]: Commencement: Reg. 3 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
 [^f00006]: Footnote: O.J. No. L 98, 20.4.2010, p.7
 
@@ -185,22 +185,22 @@ An impact assessment has not been produced for this Statutory Rule as no, or no 
 
 [^f00009]: Footnote: O.J. No. L 221, 10.7.2020, p.42
 
-[^key-e6174618ea9036e9ee9c4f71e51b01a9]: Commencement: Reg. 4 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-e6174618ea9036e9ee9c4f71e51b01a9]: Commencement: Reg. 4 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-8a668c521cf395c74e60e9eb5bd9cb8a]: Commencement: Reg. 5 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-8a668c521cf395c74e60e9eb5bd9cb8a]: Commencement: Reg. 5 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-47d1f8205dd7359282fd9c68c9e06eaf]: Commencement: Reg. 6 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-47d1f8205dd7359282fd9c68c9e06eaf]: Commencement: Reg. 6 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
 [^f00010]: Footnote: Paragraphs (8) and (9) of regulation 19 were amended by [S.R. 2020/353](https://www.legislation.gov.uk/nisr/2020/353)
 
-[^key-d5e05e50908fadb4fe982eea684c91b3]: Commencement: Reg. 7 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-d5e05e50908fadb4fe982eea684c91b3]: Commencement: Reg. 7 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-8e56e42fb14e022e4a04a6c9cbe6edfd]: Commencement: Reg. 8 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-8e56e42fb14e022e4a04a6c9cbe6edfd]: Commencement: Reg. 8 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-438e56fdf01cdb0892b3ffc4f724dbb5]: Commencement: Reg. 9 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-438e56fdf01cdb0892b3ffc4f724dbb5]: Commencement: Reg. 9 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-d7818737cb48bc96dc21ca7e4c51f843]: Commencement: Reg. 10 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-d7818737cb48bc96dc21ca7e4c51f843]: Commencement: Reg. 10 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-91d543f402185dde959c986d41c2a1a8]: Commencement: Reg. 11 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-91d543f402185dde959c986d41c2a1a8]: Commencement: Reg. 11 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
 
-[^key-1e707b37bd03c7f92e14f55c2ae71006]: Commencement: Reg. 12 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)
+[^c-1e707b37bd03c7f92e14f55c2ae71006]: Commencement: Reg. 12 in operation at 30.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/163/regulation/1/1)

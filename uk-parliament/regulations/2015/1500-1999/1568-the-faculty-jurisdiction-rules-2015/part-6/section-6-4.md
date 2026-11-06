@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.4. Directions by registrar as to public notice[^key-50b832ada918b0a623917fbe1a828a16]
+## 6.4. Directions by registrar as to public notice[^c-50b832ada918b0a623917fbe1a828a16]
 
 *Extent: E*
 
@@ -30,4 +30,4 @@ If the registrar considers that any of the following apply the registrar must gi
 
 ## Annotations
 
-[^key-50b832ada918b0a623917fbe1a828a16]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/uksi/2015/1568/article/6.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-50b832ada918b0a623917fbe1a828a16]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/uksi/2015/1568/article/6.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

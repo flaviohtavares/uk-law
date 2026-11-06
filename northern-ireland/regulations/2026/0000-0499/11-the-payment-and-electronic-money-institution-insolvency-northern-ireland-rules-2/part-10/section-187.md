@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 187. Shorthand writers — nomination, appointment, remuneration and costs[^key-c02d4b57e738af7c54a1ee7ab02e28d9]
+## 187. Shorthand writers — nomination, appointment, remuneration and costs[^c-c02d4b57e738af7c54a1ee7ab02e28d9]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c02d4b57e738af7c54a1ee7ab02e28d9]: Commencement: [Rule 187](https://www.legislation.gov.uk/nisr/2026/11/rule/187) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c02d4b57e738af7c54a1ee7ab02e28d9]: Commencement: [Rule 187](https://www.legislation.gov.uk/nisr/2026/11/rule/187) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00017]: Footnote: Article 200 was amended by Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1) and [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245).

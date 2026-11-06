@@ -48,36 +48,36 @@ Coming into force
 
 The Scottish Ministers, in exercise (with regard to the following Order, except article 9) of the powers conferred by sections 1 and 8A of the Animal Health Act 1981[^f00001], and, in exercise (with regard to article 9) of the powers conferred by section 2(2) of the European Communities Act 1972[^f00002] and of all other powers enabling them in that behalf, and after consultation as required by section 8A(11) of the Animal Health Act 1981, hereby make the following Order:
 
-## 1. Citation, commencement and extent[^key-74ac784952f070b2b8f2e437d4cdff2e]
+## 1. Citation, commencement and extent[^c-74ac784952f070b2b8f2e437d4cdff2e]
 
 (1) This Order may be cited as the Avian Influenza (Preventive Measures) (Scotland) Order 2007 and shall come into force on 15th February 2007.
 
 (2) This Order shall extend to Scotland only.
 
-## 2. Interpretation[^key-35de8737f57ef561b9f253c22004640f]
+## 2. Interpretation[^c-35de8737f57ef561b9f253c22004640f]
 
 In this Order–
 
-- “[^key-5c1501f47f21b57fe5da50c5a95e1f69]**access to the open air**” includes birds housed outdoors in a fully or partially caged, meshed or netted structure, and birds temporarily removed from their housing in order to be flown freely;
+- “[^c-5c1501f47f21b57fe5da50c5a95e1f69]**access to the open air**” includes birds housed outdoors in a fully or partially caged, meshed or netted structure, and birds temporarily removed from their housing in order to be flown freely;
 - “avian influenza” means an infection of poultry or other captive birds caused by any influenza A virus of the subtypes H5 or H7 or with an intravenous pathogenicity index in six week old chickens greater than 1.2;
 - “local authority” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^f00003];
 - “other captive bird” means any bird, other than poultry, kept in captivity including any bird kept for shows, races, exhibitions and competitions (such as ornamental birds and racing pigeons);
 - “poultry” means all birds that are reared or kept in captivity for the production of meat, or eggs for consumption, the production of other commercial products, for restocking supplies of game or for the purposes of any breeding programme for the production of these categories of birds;
 - “premises” includes any land, building or place.
 
-## 3. Notices and licences[^key-d28e221577d9be6966eec8045c2ca190]
+## 3. Notices and licences[^c-d28e221577d9be6966eec8045c2ca190]
 
 (1) Notices and licences under this Order may be subject to conditions and may be varied, suspended or revoked in writing at any time.
 
 (2) The Scottish Ministers shall take such steps as they consider necessary to ensure that notices and licences are brought to the attention of those who may be affected by them.
 
-## 4. Prohibition on fairs, markets, shows and other gatherings[^key-2d3472b1f8e82e090ba015ce08b258d0]
+## 4. Prohibition on fairs, markets, shows and other gatherings[^c-2d3472b1f8e82e090ba015ce08b258d0]
 
 (1) No person shall permit birds to be collected together at any fair, market, show, exhibition or other gathering except under the authority of a licence issued by a veterinary inspector.
 
 (2) A veterinary inspector shall only grant a licence if a veterinary risk assessment has been carried out and the veterinary inspector is satisfied that the gathering and the transit of birds to and from the gathering would not significantly increase the risk of the transmission of avian influenza virus (in particular of virus of the subtype H5N1).
 
-## 5. Identification of premises where birds are kept[^key-883e6dbccf2e49de3adb8b1b44c26cee]
+## 5. Identification of premises where birds are kept[^c-883e6dbccf2e49de3adb8b1b44c26cee]
 
 (1) A person who, at 1 September 2024, is the keeper of any birds at any premises, must notify the Scottish Ministers in writing of the following, in relation to each such premises—
 
@@ -126,30 +126,30 @@ to the Scottish Ministers in writing within three months.
 - (a) the emptying of poultry houses or hatcheries for immediate restocking;
 - (b) seasonal stocking.
 
-## 5A. Requirement to notify premises where birds are kept: exceptions[^key-4930fd52c51c0ba2a35a1dc18e67be5a]
+## 5A. Requirement to notify premises where birds are kept: exceptions[^c-4930fd52c51c0ba2a35a1dc18e67be5a]
 
 The requirement to notify the Scottish Ministers under article 5 (identification of premises where birds are kept) does not apply to keepers of birds where the only birds kept at any premises—
 
 - (a) belong to the order *Psittaciformes* or *Passeriformes*; and
 - (b) are housed fully within a dwelling or within a structure on the premises with no access to the open air.
 
-## 6. Identification of other premises[^key-a3e9f76cc45ecce1303e83a7aca56b4d]
+## 6. Identification of other premises[^c-a3e9f76cc45ecce1303e83a7aca56b4d]
 
 (1) The Scottish Ministers shall, if they consider it necessary for the purpose of carrying out a risk assessment under article 4, require, in writing, any keeper of poultry or other captive birds on premises other than those to which article 5 applies, to comply with some or all of the requirements of article 5.
 
-(2)[^key-d622942f9149148135d54bf8543877bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d622942f9149148135d54bf8543877bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Monitoring of premises[^key-7a035890d28ae12f370bd38507d67e22]
+## 7. Monitoring of premises[^c-7a035890d28ae12f370bd38507d67e22]
 
 The Scottish Ministers shall ensure that veterinary inspectors and inspectors who inspect premises where poultry or other captive birds are kept monitor compliance with this Order.
 
-## 8. Enforcement[^key-ab22773c469ef6669e4d56e98455004a]
+## 8. Enforcement[^c-ab22773c469ef6669e4d56e98455004a]
 
 (1) The local authority shall enforce this Order unless directed otherwise by the Scottish Ministers pursuant to paragraph (2).
 
 (2) The Scottish Ministers may direct, in relation to cases of a particular description or a particular case, that any duty imposed on a local authority under paragraph (1) shall be discharged by the Scottish Ministers and not by the local authority.
 
-## 9. Revocations[^key-41f23e6ac45c0a8bfe475834401563f7]
+## 9. Revocations[^c-41f23e6ac45c0a8bfe475834401563f7]
 
 The Avian Influenza (Preventive Measures) (Scotland) Regulations 2005[^f00005] and the Avian Influenza (Preventive Measures) (Scotland) Amendment Regulations 2005[^f00006] are hereby revoked.
 
@@ -183,31 +183,31 @@ A regulatory impact assessment has not been prepared in respect of this Order as
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred on the Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-74ac784952f070b2b8f2e437d4cdff2e]: Commencement: Art. 1 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-74ac784952f070b2b8f2e437d4cdff2e]: Commencement: Art. 1 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-35de8737f57ef561b9f253c22004640f]: Commencement: Art. 2 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-35de8737f57ef561b9f253c22004640f]: Commencement: Art. 2 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-5c1501f47f21b57fe5da50c5a95e1f69]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/69/article/2) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/87/article/2/2)
+[^c-5c1501f47f21b57fe5da50c5a95e1f69]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/ssi/2007/69/article/2) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2024/87/article/2/2)
 
 [^f00003]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-d28e221577d9be6966eec8045c2ca190]: Commencement: Art. 3 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-d28e221577d9be6966eec8045c2ca190]: Commencement: Art. 3 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-2d3472b1f8e82e090ba015ce08b258d0]: Commencement: Art. 4 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-2d3472b1f8e82e090ba015ce08b258d0]: Commencement: Art. 4 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-883e6dbccf2e49de3adb8b1b44c26cee]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/ssi/2007/69/article/5) substituted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/87/article/2/3)
+[^c-883e6dbccf2e49de3adb8b1b44c26cee]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/ssi/2007/69/article/5) substituted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2024/87/article/2/3)
 
-[^key-4930fd52c51c0ba2a35a1dc18e67be5a]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/ssi/2007/69/article/5A) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/87/article/2/4)
+[^c-4930fd52c51c0ba2a35a1dc18e67be5a]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/ssi/2007/69/article/5A) inserted (1.9.2024) by [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(4)](https://www.legislation.gov.uk/ssi/2024/87/article/2/4)
 
-[^key-a3e9f76cc45ecce1303e83a7aca56b4d]: Commencement: Art. 6 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-a3e9f76cc45ecce1303e83a7aca56b4d]: Commencement: Art. 6 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-d622942f9149148135d54bf8543877bc]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/ssi/2007/69/article/6/2) omitted (1.9.2024) by virtue of [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/87/article/2/5)
+[^c-d622942f9149148135d54bf8543877bc]: Textual amendment: [Art. 6(2)](https://www.legislation.gov.uk/ssi/2007/69/article/6/2) omitted (1.9.2024) by virtue of [The Avian Influenza (Preventive Measures) (Scotland) Amendment Order 2024 (S.S.I. 2024/87)](https://www.legislation.gov.uk/ssi/2024/87), [arts. 1](https://www.legislation.gov.uk/ssi/2024/87/article/1), [2(5)](https://www.legislation.gov.uk/ssi/2024/87/article/2/5)
 
-[^key-7a035890d28ae12f370bd38507d67e22]: Commencement: Art. 7 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-7a035890d28ae12f370bd38507d67e22]: Commencement: Art. 7 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-ab22773c469ef6669e4d56e98455004a]: Commencement: Art. 8 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-ab22773c469ef6669e4d56e98455004a]: Commencement: Art. 8 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
-[^key-41f23e6ac45c0a8bfe475834401563f7]: Commencement: Art. 9 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
+[^c-41f23e6ac45c0a8bfe475834401563f7]: Commencement: Art. 9 in force at 15.2.2007, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1/1)
 
 [^f00005]: Footnote: [S.S.I. 2005/530](https://www.legislation.gov.uk/ssi/2005/530).
 

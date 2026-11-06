@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Cancellation of postal ballot papers[^key-b79c99a51f12564c2d8fc2a16f95c166]
+## 45. Cancellation of postal ballot papers[^c-b79c99a51f12564c2d8fc2a16f95c166]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ After regulation 86 insert—
 
 ## Annotations
 
-[^key-b79c99a51f12564c2d8fc2a16f95c166]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2006/2910/regulation/45) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-b79c99a51f12564c2d8fc2a16f95c166]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2006/2910/regulation/45) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

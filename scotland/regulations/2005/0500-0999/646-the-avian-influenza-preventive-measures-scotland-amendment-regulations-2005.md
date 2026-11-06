@@ -34,7 +34,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Avian Influenza (Preventive Measures) (Scotland) Amendment Regulations 2005 (revoked)[^key-605c0d6750fd9e4affff125ab200ecd5]
+The Avian Influenza (Preventive Measures) (Scotland) Amendment Regulations 2005 (revoked)[^c-605c0d6750fd9e4affff125ab200ecd5]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 16th December 2005
 
-[^key-605c0d6750fd9e4affff125ab200ecd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-605c0d6750fd9e4affff125ab200ecd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-605c0d6750fd9e4affff125ab200ecd5]
+## 1. Citation and commencement[^c-605c0d6750fd9e4affff125ab200ecd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Avian Influenza (Preventive Measures) Regulations 2005[^key-605c0d6750fd9e4affff125ab200ecd5]
+## 2. Amendment of the Avian Influenza (Preventive Measures) Regulations 2005[^c-605c0d6750fd9e4affff125ab200ecd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2[^key-605c0d6750fd9e4affff125ab200ecd5]
+## 3. Amendment to regulation 2[^c-605c0d6750fd9e4affff125ab200ecd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 6[^key-605c0d6750fd9e4affff125ab200ecd5]
+## 4. Amendment to regulation 6[^c-605c0d6750fd9e4affff125ab200ecd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 11[^key-605c0d6750fd9e4affff125ab200ecd5]
+## 5. Amendment to regulation 11[^c-605c0d6750fd9e4affff125ab200ecd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-605c0d6750fd9e4affff125ab200ecd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-605c0d6750fd9e4affff125ab200ecd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-605c0d6750fd9e4affff125ab200ecd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-605c0d6750fd9e4affff125ab200ecd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-605c0d6750fd9e4affff125ab200ecd5]: Textual amendment: Regulations revoked (15.2.2007) by [The Avian Influenza (Preventive Measures) (Scotland) Order 2007 (S.S.I. 2007/69)](https://www.legislation.gov.uk/ssi/2007/69), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1), [9](https://www.legislation.gov.uk/ssi/2007/69/article/9)
+[^c-605c0d6750fd9e4affff125ab200ecd5]: Textual amendment: Regulations revoked (15.2.2007) by [The Avian Influenza (Preventive Measures) (Scotland) Order 2007 (S.S.I. 2007/69)](https://www.legislation.gov.uk/ssi/2007/69), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/69/article/1), [9](https://www.legislation.gov.uk/ssi/2007/69/article/9)

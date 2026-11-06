@@ -54,13 +54,13 @@ Regulation 22(3)(b) and(7) and 62(7)
 (2) The notice must—
 
 - (a) describe the proposed off-site condition;
-- (b) describe the nature of the works or actions which the authorised person under the permit or the person upon whom a notice imposing an off-site condition was served[^key-6778a6b90a248b4525f8b3e0755a837d] may be required to carry out or complete to comply with the off-site condition; and
+- (b) describe the nature of the works or actions which the authorised person under the permit or the person upon whom a notice imposing an off-site condition was served[^c-6778a6b90a248b4525f8b3e0755a837d] may be required to carry out or complete to comply with the off-site condition; and
 - (c) state the representation period in relation to the condition, and the manner in which representations are to be made.
 
 (3) This sub-paragraph applies to a person where—
 
 - (a) that person is the owner, tenant or occupier of land or property affected by the off-site condition; and
-- (b) rights will have to be granted by that person to the authorised person or the person upon whom a notice imposing an off-site condition was served[^key-0265f9e9d045477349077934ff7e3a70] to enable the [^key-d0a54378b1baccd6265a0610988bfe43]... person to comply with the proposed off-site condition.
+- (b) rights will have to be granted by that person to the authorised person or the person upon whom a notice imposing an off-site condition was served[^c-0265f9e9d045477349077934ff7e3a70] to enable the [^c-d0a54378b1baccd6265a0610988bfe43]... person to comply with the proposed off-site condition.
 
 (4) A person notified in accordance with this paragraph may make representations to SEPA regarding the off-site condition during the period of 28 days beginning with the date on which notice is given (“the representation period”).
 
@@ -191,11 +191,11 @@ whichever ends later.
 
 ## Annotations
 
-[^key-6778a6b90a248b4525f8b3e0755a837d]: Textual amendment: Words in sch. 2 para. 3(2)(b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [36(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/36/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6778a6b90a248b4525f8b3e0755a837d]: Textual amendment: Words in sch. 2 para. 3(2)(b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [36(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/36/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0265f9e9d045477349077934ff7e3a70]: Textual amendment: Words in sch. 2 para. 3(3)(b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [36(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/36/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0265f9e9d045477349077934ff7e3a70]: Textual amendment: Words in sch. 2 para. 3(3)(b) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [36(b)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/36/b/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d0a54378b1baccd6265a0610988bfe43]: Textual amendment: Word in sch. 2 para. 3(3)(b) omitted (1.6.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [36(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/36/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d0a54378b1baccd6265a0610988bfe43]: Textual amendment: Word in sch. 2 para. 3(3)(b) omitted (1.6.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [36(b)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/36/b/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c23325721]: Marginal citation: [1947 c.42](https://www.legislation.gov.uk/ukpga/1947/42).
 

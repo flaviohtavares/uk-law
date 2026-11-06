@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Transitional Provisions and Savings[^key-ee84cb2546fd5e72011bbcca0f67012d]
+## SCHEDULE 6 — Transitional Provisions and Savings[^c-ee84cb2546fd5e72011bbcca0f67012d]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ shall, for the purpose of determining whether the scheme satisfied that paragrap
 
 #### Overriding effect of certain requirements for existing contracted-out and appropriate schemes
 
-**11.**[^key-ae3114ac793f4d9cd45566dfa4b5ebf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ae3114ac793f4d9cd45566dfa4b5ebf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **12.** If immediately before 13th July 1990—
 
@@ -109,10 +109,10 @@ it shall be assumed for the purposes of sections 58(4) and 61(2) that his earnin
 
 (2) Section 63(3) applies for the purposes of sub-paragraph (1), in so far as it applies as respects section 58(4), as if the reference in paragraph (b) of section 63(3) to earnings included a reference to earnings relevant for any purpose of that sub-paragraph.
 
-(3) Where the Inland Revenue have[^key-4bca90a12e9874ea77cf7fbc3579f080] acted in pursuance of section 63(3) as applied by sub-paragraph (2) and they subsequently ascertain[^key-0649b9940e1acc62cebab080e4fe7a05] the amount of those earnings—
+(3) Where the Inland Revenue have[^c-4bca90a12e9874ea77cf7fbc3579f080] acted in pursuance of section 63(3) as applied by sub-paragraph (2) and they subsequently ascertain[^c-0649b9940e1acc62cebab080e4fe7a05] the amount of those earnings—
 
-- (a) if it appears to them[^key-cb3eed35136cf138460441d88794dc7f] that the amount of the contributions equivalent premium would have been less if they had not made the calculation on the basis described in sub-paragraph (1), they shall refund the difference to the prescribed person, and
-- (b) if it appears to the Inland Revenue[^key-a8caef8ddfc2a58ae972f05046af0f86] that that premium would have been greater if they had not done so, the prescribed person shall pay the difference to them.
+- (a) if it appears to them[^c-cb3eed35136cf138460441d88794dc7f] that the amount of the contributions equivalent premium would have been less if they had not made the calculation on the basis described in sub-paragraph (1), they shall refund the difference to the prescribed person, and
+- (b) if it appears to the Inland Revenue[^c-a8caef8ddfc2a58ae972f05046af0f86] that that premium would have been greater if they had not done so, the prescribed person shall pay the difference to them.
 
 #### Preservation
 
@@ -184,7 +184,7 @@ paragraph 6(1) of Schedule 16 to the [^c21361791]Social Security Act 1973 (which
 
 ## Annotations
 
-[^key-ee84cb2546fd5e72011bbcca0f67012d]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-ee84cb2546fd5e72011bbcca0f67012d]: Commencement: [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6) in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
 [^c21361711]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -192,7 +192,7 @@ paragraph 6(1) of Schedule 16 to the [^c21361791]Social Security Act 1973 (which
 
 [^c21361731]: Marginal citation: [1985 c. 53](https://www.legislation.gov.uk/ukpga/1985/53).
 
-[^key-ae3114ac793f4d9cd45566dfa4b5ebf2]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6/paragraph/11) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 86](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/86), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
+[^c-ae3114ac793f4d9cd45566dfa4b5ebf2]: Textual amendment: [Sch. 6 para. 11](https://www.legislation.gov.uk/ukpga/1993/48/schedule/6/paragraph/11) repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 86](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/86), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/2)
 
 [^c21361751]: Marginal citation: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60).
 
@@ -202,13 +202,13 @@ paragraph 6(1) of Schedule 16 to the [^c21361791]Social Security Act 1973 (which
 
 [^c21361781]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-4bca90a12e9874ea77cf7fbc3579f080]: Textual amendment: Words in Sch. 6 para. 14(3) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(a)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/a); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
+[^c-4bca90a12e9874ea77cf7fbc3579f080]: Textual amendment: Words in Sch. 6 para. 14(3) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(a)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/a); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
 
-[^key-0649b9940e1acc62cebab080e4fe7a05]: Textual amendment: Words in Sch. 6 para. 14(3) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(b)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/b); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
+[^c-0649b9940e1acc62cebab080e4fe7a05]: Textual amendment: Words in Sch. 6 para. 14(3) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(b)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/b); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
 
-[^key-cb3eed35136cf138460441d88794dc7f]: Textual amendment: Words in Sch. 6 para. 14(3)(a) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(c)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/c); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
+[^c-cb3eed35136cf138460441d88794dc7f]: Textual amendment: Words in Sch. 6 para. 14(3)(a) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(c)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/c); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
 
-[^key-a8caef8ddfc2a58ae972f05046af0f86]: Textual amendment: Words in Sch. 6 para. 14(3)(b) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(d)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/d); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
+[^c-a8caef8ddfc2a58ae972f05046af0f86]: Textual amendment: Words in Sch. 6 para. 14(3)(b) substituted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 63(d)](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/63/d); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
 
 [^c21361791]: Marginal citation: [1973 c. 38](https://www.legislation.gov.uk/ukpga/1973/38).
 

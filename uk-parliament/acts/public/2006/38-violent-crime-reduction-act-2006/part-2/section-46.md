@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Power to search further education students for weapons[^key-5ef519a4604fb2b063542a48c500576f][^key-28ab226e8871a09b8becb3379c0f95f6]
+## 46. Power to search further education students for weapons[^c-5ef519a4604fb2b063542a48c500576f][^c-28ab226e8871a09b8becb3379c0f95f6]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ After section 85A of the Further and Higher Education Act 1992 (c. 13) insert—
 
 ## Annotations
 
-[^key-5ef519a4604fb2b063542a48c500576f]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/38/section/46) in force for E. at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/858/article/3/b)
+[^c-5ef519a4604fb2b063542a48c500576f]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/38/section/46) in force for E. at 31.5.2007 by [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 3(b)](https://www.legislation.gov.uk/uksi/2007/858/article/3/b)
 
-[^key-28ab226e8871a09b8becb3379c0f95f6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/38/section/46) in force at 31.10.2010 for W. by [S.I. 2010/2426](https://www.legislation.gov.uk/wsi/2010/2426), [art. 2](https://www.legislation.gov.uk/wsi/2010/2426/article/2)
+[^c-28ab226e8871a09b8becb3379c0f95f6]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2006/38/section/46) in force at 31.10.2010 for W. by [S.I. 2010/2426](https://www.legislation.gov.uk/wsi/2010/2426), [art. 2](https://www.legislation.gov.uk/wsi/2010/2426/article/2)

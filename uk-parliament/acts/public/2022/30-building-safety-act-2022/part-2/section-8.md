@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Duty to establish system for giving of building safety information[^key-250254935c153bb8ea31a25bacdcc05b][^key-29b8df8a36c578b7d6ef9460a5e3268b]
+## 8. Duty to establish system for giving of building safety information[^c-250254935c153bb8ea31a25bacdcc05b][^c-29b8df8a36c578b7d6ef9460a5e3268b]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-250254935c153bb8ea31a25bacdcc05b]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-250254935c153bb8ea31a25bacdcc05b]: Commencement: S. 8 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-29b8df8a36c578b7d6ef9460a5e3268b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/30/section/8) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/c)
+[^c-29b8df8a36c578b7d6ef9460a5e3268b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2022/30/section/8) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/362/regulation/2/1/c)

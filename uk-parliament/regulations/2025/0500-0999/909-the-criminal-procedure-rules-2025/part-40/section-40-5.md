@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.5. Duty of applicant for order restricting public access[^key-8e3cadda1e4b99e699ad29201f487323]
+## 40.5. Duty of applicant for order restricting public access[^c-8e3cadda1e4b99e699ad29201f487323]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e3cadda1e4b99e699ad29201f487323]: Commencement: [Rule 40.5](https://www.legislation.gov.uk/uksi/2025/909/rule/40.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8e3cadda1e4b99e699ad29201f487323]: Commencement: [Rule 40.5](https://www.legislation.gov.uk/uksi/2025/909/rule/40.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

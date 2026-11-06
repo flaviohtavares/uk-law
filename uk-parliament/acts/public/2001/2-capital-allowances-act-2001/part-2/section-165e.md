@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165E. Transaction to obtain tax advantage[^key-5b9c04d740709b8d2c8a3afc906c1042]
+## 165E. Transaction to obtain tax advantage[^c-5b9c04d740709b8d2c8a3afc906c1042]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ is to enable a person to obtain a tax advantage under this Part that would not o
 
 ## Annotations
 
-[^key-5b9c04d740709b8d2c8a3afc906c1042]: Textual amendment: [Ss. 165A-165E](https://www.legislation.gov.uk/ukpga/2001/2/section/165A) and cross-heading inserted (with effect in accordance with Sch. 32 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/2)
+[^c-5b9c04d740709b8d2c8a3afc906c1042]: Textual amendment: [Ss. 165A-165E](https://www.legislation.gov.uk/ukpga/2001/2/section/165A) and cross-heading inserted (with effect in accordance with Sch. 32 para. 8 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 32 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/32/paragraph/2)

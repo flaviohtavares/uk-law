@@ -35,32 +35,32 @@ supplementing Regulation (EU) No 236/2012 of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-5f22a7997e75f76ace0fdca89d5406bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f22a7997e75f76ace0fdca89d5406bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-5f22a7997e75f76ace0fdca89d5406bb]
+## Article 1. Subject matter[^c-5f22a7997e75f76ace0fdca89d5406bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Method of calculation of a significant fall in value for liquid and illiquid shares[^key-5f22a7997e75f76ace0fdca89d5406bb]
+## Article 2. Method of calculation of a significant fall in value for liquid and illiquid shares[^c-5f22a7997e75f76ace0fdca89d5406bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Method of calculation of a significant fall in value for other non-derivative financial instruments[^key-5f22a7997e75f76ace0fdca89d5406bb]
+## Article 3. Method of calculation of a significant fall in value for other non-derivative financial instruments[^c-5f22a7997e75f76ace0fdca89d5406bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Method of calculation of a significant fall in value for derivatives[^key-5f22a7997e75f76ace0fdca89d5406bb]
+## Article 4. Method of calculation of a significant fall in value for derivatives[^c-5f22a7997e75f76ace0fdca89d5406bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-5f22a7997e75f76ace0fdca89d5406bb]
+## Article 5. Entry into force[^c-5f22a7997e75f76ace0fdca89d5406bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f22a7997e75f76ace0fdca89d5406bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f22a7997e75f76ace0fdca89d5406bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f22a7997e75f76ace0fdca89d5406bb]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/iv)
+[^c-5f22a7997e75f76ace0fdca89d5406bb]: Textual amendment: Regulation revoked (13.7.2026) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2026/587](https://www.legislation.gov.uk/uksi/2026/587), [reg. 2(d)(iv)](https://www.legislation.gov.uk/uksi/2026/587/regulation/2/d/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Financing of benefits.[^key-5ee6c31c3f8bdc74cb4bca543bd9d1d5]
+## 22. Financing of benefits.[^c-5ee6c31c3f8bdc74cb4bca543bd9d1d5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee6c31c3f8bdc74cb4bca543bd9d1d5]: Textual amendment: S. 22 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/30), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), art. 2(3), Sch. Pt. 2
+[^c-5ee6c31c3f8bdc74cb4bca543bd9d1d5]: Textual amendment: S. 22 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 5 para. 30](https://www.legislation.gov.uk/ukpga/1995/26/schedule/5/paragraph/30), [Sch. 7 Pt. III](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/III); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), art. 2(3), Sch. Pt. 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Short title[^key-b7ec0dc7d9f1ce501cc15c9d9f24f91a]
+## 27. Short title[^c-b7ec0dc7d9f1ce501cc15c9d9f24f91a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Armed Forces Act 2021.
 
 ## Annotations
 
-[^key-b7ec0dc7d9f1ce501cc15c9d9f24f91a]: Commencement: S. 27 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)
+[^c-b7ec0dc7d9f1ce501cc15c9d9f24f91a]: Commencement: S. 27 in force at Royal Assent, see [s. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/b)

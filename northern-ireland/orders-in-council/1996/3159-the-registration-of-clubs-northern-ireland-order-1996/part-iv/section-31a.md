@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31A. Irresponsible drinks promotions[^key-54a307d140d579bf3a3ca65e46b70362]
+## 31A. Irresponsible drinks promotions[^c-54a307d140d579bf3a3ca65e46b70362]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-54a307d140d579bf3a3ca65e46b70362]: Textual amendment: Art. 31A inserted (1.1.2013 for specified purposes) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 10](https://www.legislation.gov.uk/nia/2011/18/section/10), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)
+[^c-54a307d140d579bf3a3ca65e46b70362]: Textual amendment: Art. 31A inserted (1.1.2013 for specified purposes) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 10](https://www.legislation.gov.uk/nia/2011/18/section/10), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/405](https://www.legislation.gov.uk/nisr/2012/405), [art. 2](https://www.legislation.gov.uk/nisr/2012/405/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/405/schedule)

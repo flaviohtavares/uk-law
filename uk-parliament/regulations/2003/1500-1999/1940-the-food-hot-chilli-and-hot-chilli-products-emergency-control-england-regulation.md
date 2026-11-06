@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, ENGLAND
 
-The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (England) Regulations 2003 (revoked)[^key-f075110df70cd3d0ddb67259acafe72a]
+The Food (Hot Chilli and Hot Chilli Products) (Emergency Control) (England) Regulations 2003 (revoked)[^c-f075110df70cd3d0ddb67259acafe72a]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 30th July 2003
 
-[^key-f075110df70cd3d0ddb67259acafe72a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f075110df70cd3d0ddb67259acafe72a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-f075110df70cd3d0ddb67259acafe72a]
+## 1. Title, commencement and application[^c-f075110df70cd3d0ddb67259acafe72a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f075110df70cd3d0ddb67259acafe72a]
+## 2. Interpretation[^c-f075110df70cd3d0ddb67259acafe72a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-f075110df70cd3d0ddb67259acafe72a]
+## 3. Prohibition on import[^c-f075110df70cd3d0ddb67259acafe72a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-f075110df70cd3d0ddb67259acafe72a]
+## 4. Enforcement[^c-f075110df70cd3d0ddb67259acafe72a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^key-f075110df70cd3d0ddb67259acafe72a]
+## 5. Application of various provisions of the Food Safety Act 1990 and sampling and analysis[^c-f075110df70cd3d0ddb67259acafe72a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Destruction of illegal imports[^key-f075110df70cd3d0ddb67259acafe72a]
+## 6. Destruction of illegal imports[^c-f075110df70cd3d0ddb67259acafe72a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f075110df70cd3d0ddb67259acafe72a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f075110df70cd3d0ddb67259acafe72a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f075110df70cd3d0ddb67259acafe72a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f075110df70cd3d0ddb67259acafe72a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f075110df70cd3d0ddb67259acafe72a]: Textual amendment: Regulations revoked (2.6.2005) by [The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (England) Regulations 2005 (S.I. 2005/1442)](https://www.legislation.gov.uk/uksi/2005/1442), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1442/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/1442/regulation/7)
+[^c-f075110df70cd3d0ddb67259acafe72a]: Textual amendment: Regulations revoked (2.6.2005) by [The Food (Chilli, Chilli Products, Curcuma and Palm Oil) (Emergency Control) (England) Regulations 2005 (S.I. 2005/1442)](https://www.legislation.gov.uk/uksi/2005/1442), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1442/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2005/1442/regulation/7)

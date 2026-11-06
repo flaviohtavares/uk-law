@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Certain declarants to supply copy of birth certificates[^key-fd794d4fc66a356b8347b3023f1df661]
+## 21. Certain declarants to supply copy of birth certificates[^c-fd794d4fc66a356b8347b3023f1df661]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd794d4fc66a356b8347b3023f1df661]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2008/1741/regulation/21) omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/43/regulation/6) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))
+[^c-fd794d4fc66a356b8347b3023f1df661]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2008/1741/regulation/21) omitted (16.1.2024) by virtue of [The Representation of the People (Overseas Electors etc.) (Amendment) (Northern Ireland) Regulations 2024 (S.I. 2024/43)](https://www.legislation.gov.uk/uksi/2024/43), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2024/43/regulation/6) (with [reg. 27(1)](https://www.legislation.gov.uk/uksi/2024/43/regulation/27/1))

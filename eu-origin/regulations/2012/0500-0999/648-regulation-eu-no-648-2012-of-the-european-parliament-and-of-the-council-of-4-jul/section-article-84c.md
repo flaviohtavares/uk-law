@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 84c. Bank of England rules[^key-923506c69ff892beee7dabdc0e157049]
+## Article 84c. Bank of England rules[^c-923506c69ff892beee7dabdc0e157049]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-923506c69ff892beee7dabdc0e157049]: Textual amendment: [Art. 84c](https://www.legislation.gov.uk/eur/2012/648/article/84c) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/30) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)
+[^c-923506c69ff892beee7dabdc0e157049]: Textual amendment: [Art. 84c](https://www.legislation.gov.uk/eur/2012/648/article/84c) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2023/29/schedule/2/paragraph/30) (with [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/2/3)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(zz)(ii)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/zz/ii)

@@ -31,7 +31,7 @@ summary: ''
 
 agriculture
 
-The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2007 (revoked)[^key-975aee4ad0aaf8570120c8bdb4694157]
+The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2007 (revoked)[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 Made
 
@@ -41,80 +41,80 @@ Coming into operation
 
 2nd April 2007
 
-[^key-975aee4ad0aaf8570120c8bdb4694157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-975aee4ad0aaf8570120c8bdb4694157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-975aee4ad0aaf8570120c8bdb4694157]
+## PART I — GENERAL[^c-975aee4ad0aaf8570120c8bdb4694157]
 
-### 1. Citation and commencement[^key-975aee4ad0aaf8570120c8bdb4694157]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 1. Citation and commencement[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — DESIGNATION OF COMPETENT AUTHORITIES AND THE EXCHANGE OF INFORMATION AMONGST THEM[^key-975aee4ad0aaf8570120c8bdb4694157]
-
-### 3. Designation of the Department as competent authority[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 2. Interpretation[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Exchange of information[^key-975aee4ad0aaf8570120c8bdb4694157]
+## PART II — DESIGNATION OF COMPETENT AUTHORITIES AND THE EXCHANGE OF INFORMATION AMONGST THEM[^c-975aee4ad0aaf8570120c8bdb4694157]
+
+### 3. Designation of the Department as competent authority[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — AUDITS AND COMMUNITY CONTROLS[^key-975aee4ad0aaf8570120c8bdb4694157]
-
-### 5. Powers of auditors[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 4. Exchange of information[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Community controls[^key-975aee4ad0aaf8570120c8bdb4694157]
+## PART III — AUDITS AND COMMUNITY CONTROLS[^c-975aee4ad0aaf8570120c8bdb4694157]
+
+### 5. Powers of auditors[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — ASSISTANCE AND CO-OPERATION UNDER TITLE IV AND RECOVERY OF EXPENSES[^key-975aee4ad0aaf8570120c8bdb4694157]
-
-### 7. Facilitating assistance and co-operation under Title IV[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 6. Community controls[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Recovery of expenses[^key-975aee4ad0aaf8570120c8bdb4694157]
+## PART IV — ASSISTANCE AND CO-OPERATION UNDER TITLE IV AND RECOVERY OF EXPENSES[^c-975aee4ad0aaf8570120c8bdb4694157]
+
+### 7. Facilitating assistance and co-operation under Title IV[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — ENFORCEMENT AND PENALTIES[^key-975aee4ad0aaf8570120c8bdb4694157]
-
-### 9. Interpretation and application of Part V[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 8. Recovery of expenses[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Enforcement[^key-975aee4ad0aaf8570120c8bdb4694157]
+## PART V — ENFORCEMENT AND PENALTIES[^c-975aee4ad0aaf8570120c8bdb4694157]
+
+### 9. Interpretation and application of Part V[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Powers of inspectors[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 10. Enforcement[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Offences and penalties[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 11. Powers of inspectors[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Time limits for prosecution[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 12. Offences and penalties[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendment to the 2006 Regulations[^key-975aee4ad0aaf8570120c8bdb4694157]
+### 13. Time limits for prosecution[^c-975aee4ad0aaf8570120c8bdb4694157]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-975aee4ad0aaf8570120c8bdb4694157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 14. Amendment to the 2006 Regulations[^c-975aee4ad0aaf8570120c8bdb4694157]
 
-[^key-975aee4ad0aaf8570120c8bdb4694157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-975aee4ad0aaf8570120c8bdb4694157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-975aee4ad0aaf8570120c8bdb4694157]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-975aee4ad0aaf8570120c8bdb4694157]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2007/133) revoked (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [reg. 25](https://www.legislation.gov.uk/nisr/2019/227/regulation/25)
+[^c-975aee4ad0aaf8570120c8bdb4694157]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2007/133) revoked (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [reg. 25](https://www.legislation.gov.uk/nisr/2019/227/regulation/25)

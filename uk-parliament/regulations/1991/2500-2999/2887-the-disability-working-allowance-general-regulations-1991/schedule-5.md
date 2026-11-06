@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — DETERMINATION OF APPROPRIATE MAXIMUM DISABLED PERSON'S TAX CREDIT (EXCLUDING CHILDCARE TAX CREDIT)[^key-65b16c40258fc8ebbdd241cc2bfd632c][^key-5b00b5f7a5da077a01ccdb6872b01916]
+## SCHEDULE 5 — DETERMINATION OF APPROPRIATE MAXIMUM DISABLED PERSON'S TAX CREDIT (EXCLUDING CHILDCARE TAX CREDIT)[^c-65b16c40258fc8ebbdd241cc2bfd632c][^c-5b00b5f7a5da077a01ccdb6872b01916]
 
 *Extent: E+W+S*
 
@@ -35,6 +35,6 @@ Article 17(1)(d)
 
 ## Annotations
 
-[^key-65b16c40258fc8ebbdd241cc2bfd632c]: Commencement: Sch. 5 in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-65b16c40258fc8ebbdd241cc2bfd632c]: Commencement: Sch. 5 in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-5b00b5f7a5da077a01ccdb6872b01916]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1991/2887/schedule/5) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1141/schedule/2)
+[^c-5b00b5f7a5da077a01ccdb6872b01916]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/1991/2887/schedule/5) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Order 2001 (S.I. 2001/1141)](https://www.legislation.gov.uk/uksi/2001/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2001/1141/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2001/1141/article/4/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1141/schedule/2)

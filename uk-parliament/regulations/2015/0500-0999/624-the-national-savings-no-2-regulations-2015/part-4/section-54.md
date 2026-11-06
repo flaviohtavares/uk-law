@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Operation of a nomination[^key-4ad8a49f7488a100686d9c9b8bc37075]
+## 54. Operation of a nomination[^c-4ad8a49f7488a100686d9c9b8bc37075]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ to the nominee.
 
 ## Annotations
 
-[^key-4ad8a49f7488a100686d9c9b8bc37075]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-4ad8a49f7488a100686d9c9b8bc37075]: Commencement: Reg. 54 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00020]: Footnote: [1964 c. 41](https://www.legislation.gov.uk/ukpga/1964/41).

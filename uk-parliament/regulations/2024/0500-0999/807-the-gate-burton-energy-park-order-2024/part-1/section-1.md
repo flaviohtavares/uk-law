@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-b39feacc3c9ed8e6f3d379ba888d2d65]
+## 1. Citation and commencement[^c-b39feacc3c9ed8e6f3d379ba888d2d65]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Gate Burton Energy Park Order 2024 and comes into
 
 ## Annotations
 
-[^key-b39feacc3c9ed8e6f3d379ba888d2d65]: Commencement: Art. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-b39feacc3c9ed8e6f3d379ba888d2d65]: Commencement: Art. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

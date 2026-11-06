@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 50. Report from the Commission on the enforcement and effectiveness of measures relating to imports into the Union territory[^key-71fcf13bd7fb403fa624c811da5c1ec5]
+## Article 50. Report from the Commission on the enforcement and effectiveness of measures relating to imports into the Union territory[^c-71fcf13bd7fb403fa624c811da5c1ec5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71fcf13bd7fb403fa624c811da5c1ec5]: Textual amendment: [Art. 50](https://www.legislation.gov.uk/eur/2016/2031/article/50) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(13)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/13) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-71fcf13bd7fb403fa624c811da5c1ec5]: Textual amendment: [Art. 50](https://www.legislation.gov.uk/eur/2016/2031/article/50) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(13)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/13) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

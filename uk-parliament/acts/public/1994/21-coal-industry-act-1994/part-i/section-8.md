@@ -33,7 +33,7 @@ summary: ''
 
 (5) In this section “**designated area**” means any area which is for the time being both outside the territorial sea adjacent to the United Kingdom and comprised in an area designated (whether before or after the beginning of the restructuring date) under section 1(7) of the [^c10937141]Continental Shelf Act 1964.
 
-(6) References in this section to the interests and rights of a freehold owner shall be construed, in relation to any coal the interests or rights in or in relation to which fall to be determined according to the law of Scotland, as references to the interests and rights of an owner[^key-bfc2a7e248a758b87edcecc8883c1a2c] .
+(6) References in this section to the interests and rights of a freehold owner shall be construed, in relation to any coal the interests or rights in or in relation to which fall to be determined according to the law of Scotland, as references to the interests and rights of an owner[^c-bfc2a7e248a758b87edcecc8883c1a2c] .
 
 ## Annotations
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c10937141]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29).
 
-[^key-bfc2a7e248a758b87edcecc8883c1a2c]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1994/21/section/8/6) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 56(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/56/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-bfc2a7e248a758b87edcecc8883c1a2c]: Textual amendment: Words in [s. 8(6)](https://www.legislation.gov.uk/ukpga/1994/21/section/8/6) substituted (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 12 para. 56(2)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/56/2) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

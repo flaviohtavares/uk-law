@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Procedure for section 21 orders: unopposed cases.[^key-cddfc0f40341890ce8b4fc0e5496d236][^key-0481d14bae1c8a1056cb3179ae30282c]
+## 23. Procedure for section 21 orders: unopposed cases.[^c-cddfc0f40341890ce8b4fc0e5496d236][^c-0481d14bae1c8a1056cb3179ae30282c]
 
 *Extent: S*
 
 (1) This section shall have effect where—
 
 - (a) the planning authority have made an order under section 21 revoking or modifying a listed building consent granted by them, and
-- (b) the owner, lessee and occupier of the land , Historic Environment Scotland, such other persons as may be prescribed[^key-23b74534a8b54f65c7d490f07ea096df] and all persons who in the authority’s opinion will be affected by the order have notified the authority in writing that they do not object to the order.
+- (b) the owner, lessee and occupier of the land , Historic Environment Scotland, such other persons as may be prescribed[^c-23b74534a8b54f65c7d490f07ea096df] and all persons who in the authority’s opinion will be affected by the order have notified the authority in writing that they do not object to the order.
 
 (2) Where this section applies, instead of submitting the order to the Secretary of State for confirmation the authority shall—
 
@@ -48,8 +48,8 @@ the order shall take effect at the end of the period referred to in subsection (
 
 ## Annotations
 
-[^key-cddfc0f40341890ce8b4fc0e5496d236]: Modification: S. 23 savings for effects of 2014 asp 19, Sch. 3 para. 11 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [18](https://www.legislation.gov.uk/ssi/2015/239/article/18)
+[^c-cddfc0f40341890ce8b4fc0e5496d236]: Modification: S. 23 savings for effects of 2014 asp 19, Sch. 3 para. 11 (1.10.2015) by [The Historic Environment Scotland Act 2014 (Saving, Transitional and Consequential Provisions) Order 2015 (S.S.I. 2015/239)](https://www.legislation.gov.uk/ssi/2015/239), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/239/article/1/1), [18](https://www.legislation.gov.uk/ssi/2015/239/article/18)
 
-[^key-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-0481d14bae1c8a1056cb3179ae30282c]: Modification: Ss. 6-25 applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
-[^key-23b74534a8b54f65c7d490f07ea096df]: Textual amendment: Words in s. 23(1)(b) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 11](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/11) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); S.S.I. 2015/196, art. 2, sch.
+[^c-23b74534a8b54f65c7d490f07ea096df]: Textual amendment: Words in s. 23(1)(b) inserted (27.2.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Historic Environment Scotland Act 2014 (asp 19)](https://www.legislation.gov.uk/asp/2014/19), [s. 31(2)](https://www.legislation.gov.uk/asp/2014/19/section/31/2), [sch. 3 para. 11](https://www.legislation.gov.uk/asp/2014/19/schedule/3/paragraph/11) (with [ss. 29](https://www.legislation.gov.uk/asp/2014/19/section/29), [30](https://www.legislation.gov.uk/asp/2014/19/section/30)); [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule); S.S.I. 2015/196, art. 2, sch.

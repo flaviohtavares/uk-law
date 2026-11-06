@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G2. Certain employees of the committee of magistrates for the inner London area[^key-bef590177e26d0534dc9c27c9d14aa0c]
+## G2. Certain employees of the committee of magistrates for the inner London area[^c-bef590177e26d0534dc9c27c9d14aa0c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ of Part II of Schedule 15.
 
 ## Annotations
 
-[^key-bef590177e26d0534dc9c27c9d14aa0c]: Commencement: [Reg. G2](https://www.legislation.gov.uk/uksi/1986/24/regulation/G2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-bef590177e26d0534dc9c27c9d14aa0c]: Commencement: [Reg. G2](https://www.legislation.gov.uk/uksi/1986/24/regulation/G2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

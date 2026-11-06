@@ -46,11 +46,11 @@ The Department for Communities[^f00001] makes the following Order in exercise of
 
 In accordance with sections 89(2) and 127 of that Act, the Department has consulted councils and such associations or bodies representative of councils, such associations or bodies representative of officers of councils and such other persons or bodies as appear to the Department to be appropriate.
 
-## 1. Citation and commencement[^key-9b0464b7a9c71dffbee5db43d39fdcca]
+## 1. Citation and commencement[^c-9b0464b7a9c71dffbee5db43d39fdcca]
 
 This Order shall be cited as the Local Government (Performance Indicators and Standards) (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 1<sup>st</sup> June 2023.
 
-## 2. Amendment of the Local Government (Performance Indicators and Standards) Order (Northern Ireland) 2015[^key-ba1c988e8ead849811271f86d2f24eb3]
+## 2. Amendment of the Local Government (Performance Indicators and Standards) Order (Northern Ireland) 2015[^c-ba1c988e8ead849811271f86d2f24eb3]
 
 (1) The Local Government (Performance Indicators and Standards) Order (Northern Ireland) 2015[^f00004] shall be amended as follows:
 
@@ -125,9 +125,9 @@ This Order amends the Local Government (Performance Indicators and Standards) Or
 
 [^f00003]: Footnote: See [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), Article 8 of and Schedule 5 to the Departments (Transfer of Functions) Order (Northern Ireland) 2016 transferred functions to the Department for Communities which were previously exercisable by the Department of the Environment
 
-[^key-9b0464b7a9c71dffbee5db43d39fdcca]: Commencement: Art. 1 in operation at 1.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1)
+[^c-9b0464b7a9c71dffbee5db43d39fdcca]: Commencement: Art. 1 in operation at 1.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1)
 
-[^key-ba1c988e8ead849811271f86d2f24eb3]: Commencement: Art. 2 in operation at 1.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1)
+[^c-ba1c988e8ead849811271f86d2f24eb3]: Commencement: Art. 2 in operation at 1.6.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/78/article/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 327](https://www.legislation.gov.uk/nisr/2015/327)
 

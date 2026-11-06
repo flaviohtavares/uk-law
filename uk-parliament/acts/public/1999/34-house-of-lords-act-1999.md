@@ -39,18 +39,18 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 No-one shall be a member of the House of Lords by virtue of a hereditary peerage.
 
-## 2. Exception from section 1.[^key-530daa9ab3c446fbccc197345c81c350]
+## 2. Exception from section 1.[^c-530daa9ab3c446fbccc197345c81c350]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Removal of disqualifications in relation to the House of Commons.[^key-86283ebe49b5f1103d47e0d3524fce57]
+## 3. Removal of disqualifications in relation to the House of Commons.[^c-86283ebe49b5f1103d47e0d3524fce57]
 
 (1) The holder of a hereditary peerage shall not be disqualified by virtue of that peerage for—
 
 - (a) voting at elections to the House of Commons, or
-- (b)[^key-142fcff97c9b5958e148028cf2ca3809] being, or being elected as, a member of that House.
+- (b)[^c-142fcff97c9b5958e148028cf2ca3809] being, or being elected as, a member of that House.
 
-(2)[^key-65bc9c21d388eb81c1fb9207ebd09644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-65bc9c21d388eb81c1fb9207ebd09644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Amendments and repeals.
 
@@ -85,7 +85,7 @@ Section 4(1).
 
 ### Peerage Act 1963 (c.48)
 
-**1.**[^key-8d91f90fa645be05be42373c07bdfe73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8d91f90fa645be05be42373c07bdfe73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Recess Elections Act 1975 (c.66)
 
@@ -111,12 +111,12 @@ Section 4(2).
 
 ## Annotations
 
-[^key-530daa9ab3c446fbccc197345c81c350]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1999/34/section/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 1](https://www.legislation.gov.uk/ukpga/2026/12/section/1), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-530daa9ab3c446fbccc197345c81c350]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1999/34/section/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 1](https://www.legislation.gov.uk/ukpga/2026/12/section/1), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
-[^key-86283ebe49b5f1103d47e0d3524fce57]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1999/34/section/3) applied (14.5.2014) by [House of Lords Reform Act 2014 (c. 24)](https://www.legislation.gov.uk/ukpga/2014/24), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/4), [7(3)](https://www.legislation.gov.uk/ukpga/2014/24/section/7/3)
+[^c-86283ebe49b5f1103d47e0d3524fce57]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1999/34/section/3) applied (14.5.2014) by [House of Lords Reform Act 2014 (c. 24)](https://www.legislation.gov.uk/ukpga/2014/24), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2014/24/section/4/4), [7(3)](https://www.legislation.gov.uk/ukpga/2014/24/section/7/3)
 
-[^key-142fcff97c9b5958e148028cf2ca3809]: Modification: [S. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1999/34/section/3/1/b) excluded (8.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/42/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52)
+[^c-142fcff97c9b5958e148028cf2ca3809]: Modification: [S. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1999/34/section/3/1/b) excluded (8.4.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 42(4)](https://www.legislation.gov.uk/ukpga/2010/25/section/42/4), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52)
 
-[^key-65bc9c21d388eb81c1fb9207ebd09644]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/3/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/2/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-65bc9c21d388eb81c1fb9207ebd09644]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1999/34/section/3/2) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(2)(a)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/2/a), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
 
-[^key-8d91f90fa645be05be42373c07bdfe73]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1999/34/schedule/1/paragraph/1) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/2/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)
+[^c-8d91f90fa645be05be42373c07bdfe73]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1999/34/schedule/1/paragraph/1) omitted (29.4.2026) by virtue of [House of Lords (Hereditary Peers) Act 2026 (c. 12)](https://www.legislation.gov.uk/ukpga/2026/12), [ss. 4(2)(b)](https://www.legislation.gov.uk/ukpga/2026/12/section/4/2/b), [5(4)](https://www.legislation.gov.uk/ukpga/2026/12/section/5/4)

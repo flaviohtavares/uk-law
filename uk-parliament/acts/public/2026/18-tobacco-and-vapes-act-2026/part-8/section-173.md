@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Regulations and orders: procedure[^key-61f6ef6247902ba25492c1a66f9646ec]
+## 173. Regulations and orders: procedure[^c-61f6ef6247902ba25492c1a66f9646ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61f6ef6247902ba25492c1a66f9646ec]: Commencement: S. 173 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-61f6ef6247902ba25492c1a66f9646ec]: Commencement: S. 173 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

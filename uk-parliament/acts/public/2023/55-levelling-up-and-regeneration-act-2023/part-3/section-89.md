@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Requirements to consult devolved administrations[^key-790d6d03bb99d601cf97c48114ae42b9][^key-1f75e1e4671f8d9e073752e965d6d5c9]
+## 89. Requirements to consult devolved administrations[^c-790d6d03bb99d601cf97c48114ae42b9][^c-1f75e1e4671f8d9e073752e965d6d5c9]
 
 *Extent: E+W+S+N.I.*
 
-[^key-1ae4f302ad00eaa6b0617660e77f9785]
+[^c-1ae4f302ad00eaa6b0617660e77f9785]
 
 (1) The Secretary of State may only make planning data regulations which contain provision—
 
@@ -65,8 +65,8 @@ with the consent of the Scottish Ministers, unless that provision is merely inci
 
 ## Annotations
 
-[^key-790d6d03bb99d601cf97c48114ae42b9]: Commencement: S. 89 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-790d6d03bb99d601cf97c48114ae42b9]: Commencement: S. 89 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-1f75e1e4671f8d9e073752e965d6d5c9]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/55/section/89) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/d)
+[^c-1f75e1e4671f8d9e073752e965d6d5c9]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2023/55/section/89) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/d)
 
-[^key-1ae4f302ad00eaa6b0617660e77f9785]: Modification: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2023/55/part/3/chapter/1): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/135/article/4/1))
+[^c-1ae4f302ad00eaa6b0617660e77f9785]: Modification: [Pt. 3 Ch. 1](https://www.legislation.gov.uk/ukpga/2023/55/part/3/chapter/1): functions in part to be exercisable concurrently by the Secretary of State and the Scottish Ministers (6.2.2025) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2025 (S.I. 2025/135)](https://www.legislation.gov.uk/uksi/2025/135), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/135/article/1/1), [3](https://www.legislation.gov.uk/uksi/2025/135/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/135/article/4/1))

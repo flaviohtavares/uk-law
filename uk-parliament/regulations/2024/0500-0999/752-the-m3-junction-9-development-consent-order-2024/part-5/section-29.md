@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Private rights over land[^key-3793ee4a1f70606f12901fb2bb3070ad]
+## 29. Private rights over land[^c-3793ee4a1f70606f12901fb2bb3070ad]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-3793ee4a1f70606f12901fb2bb3070ad]: Commencement: Art. 29 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-3793ee4a1f70606f12901fb2bb3070ad]: Commencement: Art. 29 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00065]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Staff etc[^key-f2f46b71c39b93bd4571dc629f0b14fd]
+## 6. Staff etc[^c-f2f46b71c39b93bd4571dc629f0b14fd]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ as the Secretary of State considers necessary for the carrying out of the Commis
 
 ## Annotations
 
-[^key-f2f46b71c39b93bd4571dc629f0b14fd]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/17/section/6) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-f2f46b71c39b93bd4571dc629f0b14fd]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/17/section/6) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

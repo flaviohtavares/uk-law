@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Violent offender orders[^key-836235572c6478ad722cf18b42ea34a3]
+## 98. Violent offender orders[^c-836235572c6478ad722cf18b42ea34a3]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ from a current risk of serious physical or psychological harm caused by that per
 - (b) an offence under section 4 of the Offences against the Person Act 1861 (c. 100) (soliciting murder);
 - (c) an offence under section 18 of that Act (wounding with intent to cause grievous bodily harm);
 - (d) an offence under section 20 of that Act (malicious wounding);
-- (da)[^key-7f654bdfdd86531bbc5e13a05c5f8574] an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation);
+- (da)[^c-7f654bdfdd86531bbc5e13a05c5f8574] an offence under section 75A of the Serious Crime Act 2015 (strangulation or suffocation);
 - (e) attempting to commit murder or conspiracy to commit murder; or
 - (f) a relevant service offence.
 
@@ -54,15 +54,15 @@ from a current risk of serious physical or psychological harm caused by that per
 
 (5) Section 48 of the Armed Forces Act 2006 (c. 52) (attempts, conspiracy etc.) applies for the purposes of subsection (4)(b) as if the reference in subsection (3)(b) of that section to any of the following provisions of that Act were a reference to subsection (4)(b).
 
-(6)[^key-8b94458b421d7bd1cac9bfb115fb13d3] The Secretary of State may by order—
+(6)[^c-8b94458b421d7bd1cac9bfb115fb13d3] The Secretary of State may by order—
 
 - (a) amend subsection (3);
 - (b) make consequential amendments to subsection (4).
 
 ## Annotations
 
-[^key-836235572c6478ad722cf18b42ea34a3]: Commencement: S. 98 in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/a)
+[^c-836235572c6478ad722cf18b42ea34a3]: Commencement: S. 98 in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/a)
 
-[^key-7f654bdfdd86531bbc5e13a05c5f8574]: Textual amendment: [S. 98(3)(da)](https://www.legislation.gov.uk/ukpga/2008/4/section/98/3/da) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/10); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
+[^c-7f654bdfdd86531bbc5e13a05c5f8574]: Textual amendment: [S. 98(3)(da)](https://www.legislation.gov.uk/ukpga/2008/4/section/98/3/da) inserted (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [s. 90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2021/17/schedule/2/paragraph/10); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/b)
 
-[^key-8b94458b421d7bd1cac9bfb115fb13d3]: Textual amendment: S. 98(6) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/119/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/9)
+[^c-8b94458b421d7bd1cac9bfb115fb13d3]: Textual amendment: S. 98(6) inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/119/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/9)

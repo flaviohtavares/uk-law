@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Social security references and reports[^key-78f8caea55f2e036759629fb1f5d0a96]
+## 37. Social security references and reports[^c-78f8caea55f2e036759629fb1f5d0a96]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78f8caea55f2e036759629fb1f5d0a96]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/2/section/37) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(w)](https://www.legislation.gov.uk/uksi/2015/841/article/3/w)
+[^c-78f8caea55f2e036759629fb1f5d0a96]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2014/2/section/37) in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(w)](https://www.legislation.gov.uk/uksi/2015/841/article/3/w)

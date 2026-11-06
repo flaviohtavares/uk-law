@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Transfer of justice of the peace court cases[^key-1af4d68326dbd033e7c712de38cfe760]
+## 61. Transfer of justice of the peace court cases[^c-1af4d68326dbd033e7c712de38cfe760]
 
 *Extent: S*
 
@@ -96,4 +96,4 @@ After section 137C of the 1995 Act insert—
 
 ## Annotations
 
-[^key-1af4d68326dbd033e7c712de38cfe760]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2010/13/section/61) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-1af4d68326dbd033e7c712de38cfe760]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2010/13/section/61) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

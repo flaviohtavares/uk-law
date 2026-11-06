@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. For the protection of specified undertakers[^key-8fc36f5f57499b4fb8969baf403614b9]
+## 44. For the protection of specified undertakers[^c-8fc36f5f57499b4fb8969baf403614b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 13 (for the protection of specified undertakers) have
 
 ## Annotations
 
-[^key-8fc36f5f57499b4fb8969baf403614b9]: Commencement: Art. 44 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-8fc36f5f57499b4fb8969baf403614b9]: Commencement: Art. 44 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

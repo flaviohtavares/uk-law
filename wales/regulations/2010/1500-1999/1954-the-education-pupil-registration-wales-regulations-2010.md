@@ -45,35 +45,35 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on the Secretary of State by sections 434(1), (3) and (4), 551(1) and 569 of the Education Act 1996[^f00001], and now vested in them, make the following Regulations:
 
-## 1. Title and commencement[^key-37d897e491d5909c04a375b4b57bde24]
+## 1. Title and commencement[^c-37d897e491d5909c04a375b4b57bde24]
 
 (1) The title of these Regulations is the Education (Pupil Registration) (Wales) Regulations 2010 and they come into force on 1 September 2010.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-72bfa85596e26fd6e608dd5e4fa18232]
+## 2. Interpretation[^c-72bfa85596e26fd6e608dd5e4fa18232]
 
 In these Regulations—
 
-- “[^key-e5335e32a9d61ef4150043f92e75eda5]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
+- “[^c-e5335e32a9d61ef4150043f92e75eda5]**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
 - “local authority” (“*awdurdod lleol*”) means in the case of a school maintained by a local authority that local authority, and in every other case the local authority for the area in which the school is situated;
-- “local curriculum” (“*cwricwlwm lleol*”), [^key-469ed75b52e1cbfa54dfff448de4937f]... in relation to pupils who are above compulsory school age but have not attained the age of nineteen, has the meaning given by section 33N of the Learning and Skills Act 2000[^f00002]; and
+- “local curriculum” (“*cwricwlwm lleol*”), [^c-469ed75b52e1cbfa54dfff448de4937f]... in relation to pupils who are above compulsory school age but have not attained the age of nineteen, has the meaning given by section 33N of the Learning and Skills Act 2000[^f00002]; and
 - “relevant person” (“*person perthnasol*”) means—
   - (a) in relation to a pupil under the age of 18, a parent of the pupil;
   - (b) in relation to a pupil who has attained that age, the pupil.
 
-## 3. Revocation[^key-99c6b8258004612785cdcf61aa747c43]
+## 3. Revocation[^c-99c6b8258004612785cdcf61aa747c43]
 
 The Education (Pupil Registration) Regulations 1995[^f00003] are revoked.
 
-## 4. Registers to be kept[^key-883db5f3b813701400f96063e8ca2e50]
+## 4. Registers to be kept[^c-883db5f3b813701400f96063e8ca2e50]
 
 The proprietor of every school must cause to be kept—
 
 - (a) an admission register; and
 - (b) except in the case of a school of which all the pupils are boarders, an attendance register.
 
-## 5. Contents of admission register[^key-751c8bded0309247b1fed9f8de6c66a1]
+## 5. Contents of admission register[^c-751c8bded0309247b1fed9f8de6c66a1]
 
 (1) The admission register for every school must contain an index in alphabetical order of all the pupils at the school and must also contain the following particulars in respect of every such pupil—
 
@@ -88,7 +88,7 @@ The proprietor of every school must cause to be kept—
 
 (3) For the purpose of this regulation a pupil is a pupil at the school from the beginning of the first day on which the school has agreed, or has been notified, that the pupil will attend the school.
 
-## 6. Contents of attendance register[^key-db403d28b79e7c60dd9ac4a73b23289a]
+## 6. Contents of attendance register[^c-db403d28b79e7c60dd9ac4a73b23289a]
 
 (1) The following particulars must be recorded in the attendance register at the commencement of each morning session and once during each afternoon session—
 
@@ -119,9 +119,9 @@ but this paragraph does not apply in respect of the pupil who is a boarder.
   - (i) approved by a person authorised in that behalf by the proprietor of the school;
   - (ii) of an educational nature, including work experience under section 560 of the Education Act 1996[^f00005] and a sporting activity; and
   - (iii) supervised by a person authorised in that behalf by the proprietor or the head teacher of the school;
-- (b) attendance at another school at which the pupil is a registered pupil; [^key-02923c9a9899efda223e938d7338ddbe]...
-- (c) attendance on a course of study within the local curriculum at a place other than the school ; or[^key-28a713f7d8fd830c634e07b02485df54]
-- (d)[^key-260cbf3896f853d196c15f1af07ea397] attendance on a course of study within the curriculum adopted for pupils aged 14 to 16 under sections 28 and 30 of the 2021 Act at a place other than the school.
+- (b) attendance at another school at which the pupil is a registered pupil; [^c-02923c9a9899efda223e938d7338ddbe]...
+- (c) attendance on a course of study within the local curriculum at a place other than the school ; or[^c-28a713f7d8fd830c634e07b02485df54]
+- (d)[^c-260cbf3896f853d196c15f1af07ea397] attendance on a course of study within the curriculum adopted for pupils aged 14 to 16 under sections 28 and 30 of the 2021 Act at a place other than the school.
 
 (5) The exceptional circumstances in which a pupil may be marked as unable to attend are where—
 
@@ -131,7 +131,7 @@ but this paragraph does not apply in respect of the pupil who is a boarder.
 
 (6) The name of a pupil may only be deleted from the attendance register when the pupil’s name has been deleted from the admission register for that school in accordance with regulation 8.
 
-## 7. Leave of absence[^key-6c780ec9cb046d12f098715b7db289bf]
+## 7. Leave of absence[^c-6c780ec9cb046d12f098715b7db289bf]
 
 (1) Leave of absence may only be granted by a person authorised in that behalf by the proprietor of the school.
 
@@ -146,7 +146,7 @@ but this paragraph does not apply in respect of the pupil who is a boarder.
 
 (5) This regulation applies only in relation to a maintained school and a special school not maintained by a local authority.
 
-## 8. Deletions from admission register[^key-e24c90b3b72c7b45f8b5e864851119b9]
+## 8. Deletions from admission register[^c-e24c90b3b72c7b45f8b5e864851119b9]
 
 (1) The following are prescribed as the grounds on which the name of a pupil of compulsory school age must be deleted from the admission register—
 
@@ -194,7 +194,7 @@ but this paragraph does not apply in respect of the pupil who is a boarder.
   - (ii) the time for bringing an appeal has expired and no appeal has been brought within that time; or
   - (iii) an appeal brought within that time has been determined or abandoned.
 
-## 9. Dual registration[^key-2fccfafdd329d9760361877e3414c0b9]
+## 9. Dual registration[^c-2fccfafdd329d9760361877e3414c0b9]
 
 (1) Where a pupil is registered at a pupil referral unit and at a school other than a pupil referral unit, the name of that pupil must not be removed from the admission register of either the pupil referral unit or the school pursuant to regulation 8(1)(b) without the consent of both the local authority by which the pupil referral unit is maintained and the proprietor of the school.
 
@@ -222,18 +222,18 @@ the name of that pupil must not be removed from the admission register of either
 
 (9) The requirements to obtain consent in paragraphs (1) to (3) do not apply in cases covered by regulation 8(1)(j) and (m).
 
-## 10. Inspection of registers[^key-b999bc725fe72ec040f9f24714f25fed]
+## 10. Inspection of registers[^c-b999bc725fe72ec040f9f24714f25fed]
 
 The admission register and the attendance register of every school must be available for inspection during school hours by—
 
 - (a) Her Majesty’s Chief Inspector of Education and Training in Wales or by any of Her Majesty’s Inspectors of Education and Training; and
 - (b) in the case of a school maintained by a local authority, any officer of the local authority authorised for that purpose.
 
-## 11. Extracts from registers[^key-b1222e322fd35983ab9846396d4313cd]
+## 11. Extracts from registers[^c-b1222e322fd35983ab9846396d4313cd]
 
 The persons authorised by regulation 10 to inspect the admission register and attendance register of any school must be permitted to make extracts from those registers for the purposes of their functions under the Education Acts.
 
-## 12. Returns[^key-355eef7d027b6355ff7d560a65c02a18]
+## 12. Returns[^c-355eef7d027b6355ff7d560a65c02a18]
 
 (1) Subject to paragraph (2), the proprietor of every school must make to the local authority, at such intervals as may be agreed between the proprietor and the local authority, or as may determined by the Welsh Ministers in default of agreement, a return giving the name and address of every registered pupil of compulsory school age who—
 
@@ -249,15 +249,15 @@ The persons authorised by regulation 10 to inspect the admission register and at
 
 (3) When the name of a pupil has been deleted from the admission register in accordance with regulation 8(1)(c), (d), (g), (i) or (m), the proprietor must make a return to the local authority giving the full name and address of that pupil within the ten school days immediately following the date on which the pupil’s name was so deleted.
 
-## 13. Method of making entries[^key-eabc851eb82325589b0862dd87b3bc00]
+## 13. Method of making entries[^c-eabc851eb82325589b0862dd87b3bc00]
 
 Every entry in an admission register or attendance register must be written in ink and any correction must be made in such a manner that the original entry and the correction are both clearly distinguishable.
 
-## 14. Preservation of registers[^key-c0ebf40e9699a4a48190f3c571a14f60]
+## 14. Preservation of registers[^c-c0ebf40e9699a4a48190f3c571a14f60]
 
 Every entry in an admission register or attendance register must be preserved for a period of three years after the date on which the entry was made.
 
-## 15. Use of computers[^key-71ceabf28009b44b312a79521fa59dd1]
+## 15. Use of computers[^c-71ceabf28009b44b312a79521fa59dd1]
 
 (1) Nothing in these Regulations is to be taken to prevent the keeping of an admission register or an attendance register by means of a computer, but where such a register is so kept the following paragraphs of this regulation will apply for the purpose of modifying the requirements of these Regulations.
 
@@ -308,58 +308,58 @@ Where a register is kept by means of a computer that register must be backed-up 
 
 [^f00001]: Footnote: The functions of the Secretary of State under sections 434, 551 and 569 were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). Section 434 was amended by paragraph 111(a) and (b) of Schedule 30 to the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31). Section 551 was amended by paragraph 166(a) and (b) of Schedule 30 to the School Standards and Framework Act 1998.
 
-[^key-37d897e491d5909c04a375b4b57bde24]: Commencement: Reg. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-37d897e491d5909c04a375b4b57bde24]: Commencement: Reg. 1 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-72bfa85596e26fd6e608dd5e4fa18232]: Commencement: Reg. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-72bfa85596e26fd6e608dd5e4fa18232]: Commencement: Reg. 2 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-e5335e32a9d61ef4150043f92e75eda5]: Textual amendment: Words in reg. 2 inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/2)
+[^c-e5335e32a9d61ef4150043f92e75eda5]: Textual amendment: Words in reg. 2 inserted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [13(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/2)
 
-[^key-469ed75b52e1cbfa54dfff448de4937f]: Textual amendment: Words in reg. 2 omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(4)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/4)
+[^c-469ed75b52e1cbfa54dfff448de4937f]: Textual amendment: Words in reg. 2 omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(4)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/4)
 
 [^f00002]: Footnote: Section 33N was inserted by section 35 of the Learning and Skills (Wales) Measure 2009, but is not in force at the time of making of these Regulations. The local curricula for students aged 16 to 18 must be formed in accordance with section 33A of the Learning and Skills Act 2000. Section 33A was inserted by section 22 of the Learning and Skills (Wales) Measure 2009.
 
-[^key-99c6b8258004612785cdcf61aa747c43]: Commencement: Reg. 3 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-99c6b8258004612785cdcf61aa747c43]: Commencement: Reg. 3 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1995/2089](https://www.legislation.gov.uk/uksi/1995/2089); as amended by [S.I. 1997/2624](https://www.legislation.gov.uk/uksi/1997/2624), [S.I. 2001/1109 (W.53)](https://www.legislation.gov.uk/wsi/2001/1109), [S.I. 2003/3227 (W.308)](https://www.legislation.gov.uk/wsi/2003/3227) and [S.I. 2005/2913 (W.210)](https://www.legislation.gov.uk/wsi/2005/2913).
 
-[^key-883db5f3b813701400f96063e8ca2e50]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-883db5f3b813701400f96063e8ca2e50]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-751c8bded0309247b1fed9f8de6c66a1]: Commencement: Reg. 5 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-751c8bded0309247b1fed9f8de6c66a1]: Commencement: Reg. 5 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-db403d28b79e7c60dd9ac4a73b23289a]: Commencement: Reg. 6 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-db403d28b79e7c60dd9ac4a73b23289a]: Commencement: Reg. 6 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
 [^f00004]: Footnote: [2008 nawm 2](https://www.legislation.gov.uk/mwa/2008/2).
 
 [^f00005]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56). Sub-sections (1) and (2) of section 560 were substituted by section 112(1) of the School Standards and Framework Act 1998. Sub-section (3) of section 560 was further amended by section 112(3) of, and Schedule 31 to, the 1998 Act.
 
-[^key-02923c9a9899efda223e938d7338ddbe]: Textual amendment: Word in reg. 6(4)(b) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(5)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/5/a)
+[^c-02923c9a9899efda223e938d7338ddbe]: Textual amendment: Word in reg. 6(4)(b) omitted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(5)(a)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/5/a)
 
-[^key-28a713f7d8fd830c634e07b02485df54]: Textual amendment: Word in reg. 6(4)(c) substituted for full stop (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(5)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/5/b)
+[^c-28a713f7d8fd830c634e07b02485df54]: Textual amendment: Word in reg. 6(4)(c) substituted for full stop (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(5)(b)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/5/b)
 
-[^key-260cbf3896f853d196c15f1af07ea397]: Textual amendment: Reg. 6(4)(d) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(5)(c)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/5/c)
+[^c-260cbf3896f853d196c15f1af07ea397]: Textual amendment: Reg. 6(4)(d) inserted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 in so far as not already in force) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/3)[(5)(c)](https://www.legislation.gov.uk/wsi/2022/758/regulation/13/5/c)
 
-[^key-6c780ec9cb046d12f098715b7db289bf]: Commencement: Reg. 7 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-6c780ec9cb046d12f098715b7db289bf]: Commencement: Reg. 7 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
 [^f00006]: Footnote: [1963 c. 37](https://www.legislation.gov.uk/ukpga/1963/37); amended by [S.I. 1998/276](https://www.legislation.gov.uk/uksi/1998/276), paragraph 32 of Schedule 6 to the Licensing Act [2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), paragraph 6 of Schedule 20 to the Broadcasting Act [1990 (c. 42)](https://www.legislation.gov.uk/ukpga/1990/42) and paragraph 10 of Schedule 37 to the Education Act [1996 (c. 56)](https://www.legislation.gov.uk/ukpga/1996/56).
 
 [^f00007]: Footnote: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12); amended by [S.I. 1998/276](https://www.legislation.gov.uk/uksi/1998/276), paragraph 3 of Schedule 13 to the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41), paragraph 10 of Part 3 of Schedule 3 to the Employment Act [1989 (c. 38)](https://www.legislation.gov.uk/ukpga/1989/38), paragraph 7 of Schedule 5 to the Children and Young Persons Act 1963 and by paragraph 73 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-e24c90b3b72c7b45f8b5e864851119b9]: Commencement: Reg. 8 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-e24c90b3b72c7b45f8b5e864851119b9]: Commencement: Reg. 8 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
 [^f00008]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). The relevant regulations in force at the time of making these Regulations are [S.I. 2003/3227 (W.308)](https://www.legislation.gov.uk/wsi/2003/3227), [S.I. 2003/3246 (W.321)](https://www.legislation.gov.uk/wsi/2003/3246) and [S.I. 2004/1805 (W.193)](https://www.legislation.gov.uk/wsi/2004/1805).
 
-[^key-2fccfafdd329d9760361877e3414c0b9]: Commencement: Reg. 9 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-2fccfafdd329d9760361877e3414c0b9]: Commencement: Reg. 9 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-b999bc725fe72ec040f9f24714f25fed]: Commencement: Reg. 10 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-b999bc725fe72ec040f9f24714f25fed]: Commencement: Reg. 10 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-b1222e322fd35983ab9846396d4313cd]: Commencement: Reg. 11 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-b1222e322fd35983ab9846396d4313cd]: Commencement: Reg. 11 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-355eef7d027b6355ff7d560a65c02a18]: Commencement: Reg. 12 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-355eef7d027b6355ff7d560a65c02a18]: Commencement: Reg. 12 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-eabc851eb82325589b0862dd87b3bc00]: Commencement: Reg. 13 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-eabc851eb82325589b0862dd87b3bc00]: Commencement: Reg. 13 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-c0ebf40e9699a4a48190f3c571a14f60]: Commencement: Reg. 14 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-c0ebf40e9699a4a48190f3c571a14f60]: Commencement: Reg. 14 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
-[^key-71ceabf28009b44b312a79521fa59dd1]: Commencement: Reg. 15 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
+[^c-71ceabf28009b44b312a79521fa59dd1]: Commencement: Reg. 15 in force at 1.9.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1954/regulation/1/1)
 
 [^f00009]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).

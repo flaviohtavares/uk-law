@@ -38,7 +38,7 @@ then, if the property is one of the associated properties and an undertaking for
 - (a) a disposal of the property (or part) concerned by sale by private treaty to a body mentioned in Schedule 3 to this Act, or to such a body otherwise than by sale, or
 - (b) a disposal of the property (or part) concerned in pursuance of section 230 below.
 
-(5A)[^key-d371039caccfc20b365d5ee2946ffd0f] The death of a person beneficially entitled to property, or the disposal of property, is not a chargeable event if—
+(5A)[^c-d371039caccfc20b365d5ee2946ffd0f] The death of a person beneficially entitled to property, or the disposal of property, is not a chargeable event if—
 
 - (a) in the case of a death, a person who became beneficially entitled to the property on the death disposes of it in the circumstances described in paragraph 1 of Schedule 14 to the Finance Act 2012 (gifts to the nation) within 3 years of the death, or
 - (b) in the case of a disposal, the disposal is made in the circumstances described in paragraph 1 of that Schedule.
@@ -50,7 +50,7 @@ then, if the property is one of the associated properties and an undertaking for
 
 and in this subsection “**part disposal**” means a disposal of property which does not consist of or include the whole of each property which is one of the associated properties and of which there has been a conditionally exempt transfer.
 
-(7) Where, after a relevant disposal (that is, a disposal mentioned in subsection (5)(a) or (b) or (5A)(a) or (b)[^key-cbf1b92ec77b96e96fcef6c25bb639e5] above made in circumstances where that subsection applies), a person beneficially entitled to the property (or part) concerned dies or the property (or part) concerned is disposed of, the death or disposal is not a chargeable event with respect to the property (or part) concerned unless there has again been a conditionally exempt transfer of the property (or part) concerned after the relevant disposal.
+(7) Where, after a relevant disposal (that is, a disposal mentioned in subsection (5)(a) or (b) or (5A)(a) or (b)[^c-cbf1b92ec77b96e96fcef6c25bb639e5] above made in circumstances where that subsection applies), a person beneficially entitled to the property (or part) concerned dies or the property (or part) concerned is disposed of, the death or disposal is not a chargeable event with respect to the property (or part) concerned unless there has again been a conditionally exempt transfer of the property (or part) concerned after the relevant disposal.
 
 (8) The death of a person beneficially entitled to property, or the disposal of property (or part) otherwise than by sale, is not a chargeable event if—
 
@@ -84,11 +84,11 @@ and it appears to the Treasury that the entity consisting of the associated prop
 
 [^c13608281]: Textual amendment: Finance Act 1986 Sch. 19, para. 10,*in relation to transfers on or after* 18*March* 1986.
 
-[^key-d371039caccfc20b365d5ee2946ffd0f]: Textual amendment: S. 32A(5A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 30(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/30/2)
+[^c-d371039caccfc20b365d5ee2946ffd0f]: Textual amendment: S. 32A(5A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 30(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/30/2)
 
 [^c13608291]: Textual amendment: S. 32A(6)(a)(b) and the words “unless”and “and”substituted for the words “unless”to “case; and”(31.7.1998 with effect in relation to the giving of any undertaking on or after 31.7.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 142](https://www.legislation.gov.uk/ukpga/1998/36/section/142), [Sch. 25 para. 7(4)(9)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/25/paragraph/7/4/9)
 
-[^key-cbf1b92ec77b96e96fcef6c25bb639e5]: Textual amendment: Words in s. 32A(7) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 30(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/30/3)
+[^c-cbf1b92ec77b96e96fcef6c25bb639e5]: Textual amendment: Words in s. 32A(7) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 30(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/30/3)
 
 [^c13608301]: Textual amendment: S. 32A(8)(b) substituted (31.7.1998 with effect in relation to the giving of any undertaking on or after 31.7.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 142](https://www.legislation.gov.uk/ukpga/1998/36/section/142), [Sch. 25 para. 7(5)(9)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/25/paragraph/7/5/9)
 

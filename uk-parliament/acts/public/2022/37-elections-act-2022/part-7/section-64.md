@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Financial provisions[^key-b7596816828a750f520925bd218acf9f]
+## 64. Financial provisions[^c-b7596816828a750f520925bd218acf9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7596816828a750f520925bd218acf9f]: Commencement: S. 64 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)
+[^c-b7596816828a750f520925bd218acf9f]: Commencement: S. 64 in force at Royal Assent, see [s. 67(3)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/3)

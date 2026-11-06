@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Approval of major modifications made in urgent cases[^key-89866f9fd311fa712fee98f27398ba9b]
+## 188. Approval of major modifications made in urgent cases[^c-89866f9fd311fa712fee98f27398ba9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ and section 187(4) does not apply in relation to the refusal to approve the deci
 
 ## Annotations
 
-[^key-89866f9fd311fa712fee98f27398ba9b]: Commencement: S. 188 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)
+[^c-89866f9fd311fa712fee98f27398ba9b]: Commencement: S. 188 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)

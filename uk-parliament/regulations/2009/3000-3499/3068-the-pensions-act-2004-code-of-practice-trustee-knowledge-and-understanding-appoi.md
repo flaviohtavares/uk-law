@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions Act 2004 (Code of Practice) (Trustee Knowledge and Understanding) Appointed Day Order 2009 (revoked)[^key-354221cf811cfdab824cae8d4c076216]
+The Pensions Act 2004 (Code of Practice) (Trustee Knowledge and Understanding) Appointed Day Order 2009 (revoked)[^c-354221cf811cfdab824cae8d4c076216]
 
 Made
 
 19th November 2009
 
-[^key-354221cf811cfdab824cae8d4c076216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-354221cf811cfdab824cae8d4c076216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-354221cf811cfdab824cae8d4c076216]
+## 1. Citation[^c-354221cf811cfdab824cae8d4c076216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-354221cf811cfdab824cae8d4c076216]
+## 2. Appointed day[^c-354221cf811cfdab824cae8d4c076216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-354221cf811cfdab824cae8d4c076216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-354221cf811cfdab824cae8d4c076216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-354221cf811cfdab824cae8d4c076216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-354221cf811cfdab824cae8d4c076216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-354221cf811cfdab824cae8d4c076216]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3068) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(d)](https://www.legislation.gov.uk/uksi/2024/431/article/4/d)
+[^c-354221cf811cfdab824cae8d4c076216]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/3068) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(d)](https://www.legislation.gov.uk/uksi/2024/431/article/4/d)

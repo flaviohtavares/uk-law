@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Delegation of functions[^key-25558bbe1e3b16e88e8498caa6ac3c08]
+## 14. Delegation of functions[^c-25558bbe1e3b16e88e8498caa6ac3c08]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25558bbe1e3b16e88e8498caa6ac3c08]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2016/6/section/14) in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-25558bbe1e3b16e88e8498caa6ac3c08]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2016/6/section/14) in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)

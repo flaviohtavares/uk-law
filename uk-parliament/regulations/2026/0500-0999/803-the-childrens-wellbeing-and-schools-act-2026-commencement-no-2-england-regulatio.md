@@ -41,7 +41,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 78(5) and (6) of the Children’s Wellbeing and Schools Act 2026[^f00001].
 
-## 1. Citation and interpretation[^key-81a2a5ec312ebc83919be01bbb19567c]
+## 1. Citation and interpretation[^c-81a2a5ec312ebc83919be01bbb19567c]
 
 (1) These Regulations may be cited as the Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) Regulations 2026.
 
@@ -50,11 +50,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**the 2000 Act**” means the Care Standards Act 2000[^f00002];
 - “**the Act**” means the Children’s Wellbeing and Schools Act 2026.
 
-## 2. Commencement of provisions[^key-e27c461ed026f670ebab31c7baba184e]
+## 2. Commencement of provisions[^c-e27c461ed026f670ebab31c7baba184e]
 
 Where a provision of the Act specified in any of regulations 3 to 6 is already in force for certain purposes by virtue of section 78(1)(a) of the Act, that regulation applies in relation to the provision so far as it is not already in force[^f00003].
 
-## 3. Provisions coming into force on 15th July 2026[^key-4d263284b611876c358f49fdaf445556]
+## 3. Provisions coming into force on 15th July 2026[^c-4d263284b611876c358f49fdaf445556]
 
 The following provisions of the Act come into force on 15th July 2026—
 
@@ -81,11 +81,11 @@ The following provisions of the Act come into force on 15th July 2026—
   - (ii) subsection (1) so far as it relates to subsection (3);
 - (k) section 47 (deregistration by agreement).
 
-## 4. Provision coming into force on 17th August 2026[^key-100f41892fa9c533aac095c8e0a77131]
+## 4. Provision coming into force on 17th August 2026[^c-100f41892fa9c533aac095c8e0a77131]
 
 Section 32 (free school lunches: eligibility) of the Act comes into force on 17th August 2026.
 
-## 5. Provisions coming into force on 1st September 2026[^key-f39b910d142933063be7ed6edb678053]
+## 5. Provisions coming into force on 1st September 2026[^c-f39b910d142933063be7ed6edb678053]
 
 The following provisions of the Act come into force on 1st September 2026—
 
@@ -93,11 +93,11 @@ The following provisions of the Act come into force on 1st September 2026—
 - (b) section 35 (school uniforms: limits on branded items);
 - (c) section 65 (amendments to invitation process for establishment of new schools);
 - (d) section 66 (certain proposals to establish new schools: publication requirements etc);
-- (e) section 67 (establishment of pupil referral units) , only in so far as it relates to pupil referral units in England[^key-2c818e3c765defac08d009004b95573b];
+- (e) section 67 (establishment of pupil referral units) , only in so far as it relates to pupil referral units in England[^c-2c818e3c765defac08d009004b95573b];
 - (f) section 68 (process for considering, approving and implementing proposals for the establishment of new schools) and Schedule 4 (establishment of new schools: amendments to Schedule 2 to the Education and Inspections Act 2006)[^f00005];
 - (g) section 69 (transitional provision).
 
-## 6. Provisions coming into force on 30th September 2026[^key-bd522a75b1d4ea42991ba185c4679a37]
+## 6. Provisions coming into force on 30th September 2026[^c-bd522a75b1d4ea42991ba185c4679a37]
 
 The following provisions of the Act come into force on 30th September 2026—
 
@@ -193,26 +193,26 @@ The following provisions of the Children’s Wellbeing and Schools Act [2026 (c.
 
 [^f00001]: Footnote: [2026 c. 21](https://www.legislation.gov.uk/ukpga/2026/21).
 
-[^key-81a2a5ec312ebc83919be01bbb19567c]: Commencement: Reg. 1 in force at made date
+[^c-81a2a5ec312ebc83919be01bbb19567c]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14).
 
-[^key-e27c461ed026f670ebab31c7baba184e]: Commencement: Reg. 2 in force at made date
+[^c-e27c461ed026f670ebab31c7baba184e]: Commencement: Reg. 2 in force at made date
 
 [^f00003]: Footnote: Pursuant to section 78(1)(a)(i) of the Children’s Wellbeing and Schools Act 2026, any provision of or amendment made by Part 1 or 2 of that Act, so far as it relates to a power to make regulations, came into force on the day on which that Act was passed (29th April 2026).
 
-[^key-4d263284b611876c358f49fdaf445556]: Commencement: Reg. 3 in force at made date
+[^c-4d263284b611876c358f49fdaf445556]: Commencement: Reg. 3 in force at made date
 
 [^f00004]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-100f41892fa9c533aac095c8e0a77131]: Commencement: Reg. 4 in force at made date
+[^c-100f41892fa9c533aac095c8e0a77131]: Commencement: Reg. 4 in force at made date
 
-[^key-f39b910d142933063be7ed6edb678053]: Commencement: Reg. 5 in force at made date
+[^c-f39b910d142933063be7ed6edb678053]: Commencement: Reg. 5 in force at made date
 
-[^key-2c818e3c765defac08d009004b95573b]: Textual amendment: Words in reg. 5(e) inserted (28.8.2026) by [The Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) (Amendment) Regulations 2026 (S.I. 2026/941)](https://www.legislation.gov.uk/uksi/2026/941), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/941/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2026/941/regulation/2/2)
+[^c-2c818e3c765defac08d009004b95573b]: Textual amendment: Words in reg. 5(e) inserted (28.8.2026) by [The Children’s Wellbeing and Schools Act 2026 (Commencement No. 2) (England) (Amendment) Regulations 2026 (S.I. 2026/941)](https://www.legislation.gov.uk/uksi/2026/941), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2026/941/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2026/941/regulation/2/2)
 
 [^f00005]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-bd522a75b1d4ea42991ba185c4679a37]: Commencement: Reg. 6 in force at made date
+[^c-bd522a75b1d4ea42991ba185c4679a37]: Commencement: Reg. 6 in force at made date
 
 [^f00006]: Footnote: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31).

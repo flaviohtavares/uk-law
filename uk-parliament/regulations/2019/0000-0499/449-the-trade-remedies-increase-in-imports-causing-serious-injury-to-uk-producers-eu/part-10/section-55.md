@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Further modifications to Part 4[^key-a3c7d426b68f6b0991211a0300955e21]
+## 55. Further modifications to Part 4[^c-a3c7d426b68f6b0991211a0300955e21]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 10 (determination and assessment of an adequate amount to prevent or 
 
 ## Annotations
 
-[^key-a3c7d426b68f6b0991211a0300955e21]: Commencement: Reg. 55 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-a3c7d426b68f6b0991211a0300955e21]: Commencement: Reg. 55 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

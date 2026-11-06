@@ -45,17 +45,17 @@ Coming into force
 
 29th October 1999
 
-The Secretary of State for the Environment, Transport and the Regions, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3), (5) to (7) and section 86(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^key-066867317ddcdd04ed8068f0232e9fa3][^key-7cb3e84287679206ab8d82444bee6f50]
+The Secretary of State for the Environment, Transport and the Regions, after consulting the persons referred to in section 86(4) of the Merchant Shipping Act 1995[^f00001], in exercise of the powers conferred by section 85(1)(a) and (b), (3), (5) to (7) and section 86(1) of that Act, and of all other powers enabling him in that behalf, hereby makes the following Regulations:[^c-066867317ddcdd04ed8068f0232e9fa3][^c-7cb3e84287679206ab8d82444bee6f50]
 
 ## PART I — PRELIMINARY
 
-### 1. Citation, commencement and revocation[^key-404ef08d0d9e511e3327ade28a844be4]
+### 1. Citation, commencement and revocation[^c-404ef08d0d9e511e3327ade28a844be4]
 
 (1) These Regulations may be cited as the Merchant Shipping (Life-Saving Appliances for Passenger Ships of Classes III to VI(A)) Regulations 1999 and shall come into force on 29th October 1999.
 
 (2) The Merchant Shipping (Life-Saving Appliances for Passenger Ships of Classes III to VI(A)) Regulations 1992[^f00002] are hereby revoked.
 
-### 2. Interpretation[^key-34f5cf677029ec0fd2681dc0a2ac833e]
+### 2. Interpretation[^c-34f5cf677029ec0fd2681dc0a2ac833e]
 
 (1) In these Regulations–
 
@@ -73,8 +73,8 @@ The Secretary of State for the Environment, Transport and the Regions, after con
   - (a) a Certificate of Proficiency in Survival Craft under the Merchant Shipping (Certificates of Proficiency in Survival Craft) Regulations 1984[^f00003] or such certificate issued by or under the authority of any government outside the United Kingdom, as is accepted by the Secretary of State as being the equivalent to a certificate issued under those Regulations; or
   - (b) a Certificate of Proficiency as Lifeboatman issued before 28th April 1984 by or under the authority of the Secretary of State or such certificate issued before 28th April 1984 by or under the authority of any government outside the United Kingdom, as is accepted by the Secretary of State as being the equivalent of such a certificate issued by or under the authority of the Secretary of State;
 - “certified” means certified by a certificate issued under regulation 10 of the Merchant Shipping (Survey and Certification) Regulations 1995[^f00004];
-- [^key-5f591e8c9524b11b6ba03b410dcceca9]...
-- “[^key-37d0b5c99117b6fbf77c95aba67fc8cf]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978 .
+- [^c-5f591e8c9524b11b6ba03b410dcceca9]...
+- “[^c-37d0b5c99117b6fbf77c95aba67fc8cf]**EEA State**” has the meaning given by Schedule 1 to the Interpretation Act 1978 .
 - “embarkation ladder” means a ladder provided at embarkation stations to permit safe access to survival craft after launching, complying with the requirements of Part 5 of Schedule 6;
 - “favourable weather” means fine, clear, settled weather with a sea state such as to cause only moderate rolling and/or pitching;
 - “general emergency alarm system” means a system complying with the requirements of Schedule 11;
@@ -134,9 +134,9 @@ The Secretary of State for the Environment, Transport and the Regions, after con
 shall include–
 
 - (i) a reference to any document amending that publication which is considered by the Secretary of State to be relevant from time to time and is specified in a Merchant Shipping Notice, Marine Guidance Note or Marine Information Note; and
-- (ii) with respect to a British Standard, a reference to a relevant standard of an EEA State [^key-e8277e9519ca28ee25dfa014416c1405]... .
+- (ii) with respect to a British Standard, a reference to a relevant standard of an EEA State [^c-e8277e9519ca28ee25dfa014416c1405]... .
 
-### 3. Classification of ships[^key-5edac834b4473e1ef294b3af2c092ce4]
+### 3. Classification of ships[^c-5edac834b4473e1ef294b3af2c092ce4]
 
 For the purposes of these Regulations passenger ships shall be arranged in Classes as follows–
 
@@ -148,27 +148,27 @@ For the purposes of these Regulations passenger ships shall be arranged in Class
 | Class VI | ships engaged only on voyages with not more than 250 passengers on board, to sea, or in Category A, B, C and D waters, in all cases in favourable weather and during restricted periods, in the course of which the ships are at no time more than 15 miles, exclusive of any Category A, B, C and D waters, from their point of departure nor more than 3 miles from land; and |
 | Class VI(A) | ships carrying not more than 50 passengers for a distance of not more than 6 miles on voyages to or from isolated communities on the islands or coasts of the United Kingdom and which do not proceed for a distance of more than 3 miles from land. |
 
-### 4. Application and exemptions[^key-5e943a91c0a60f7ac4d6a5db302e2ec5]
+### 4. Application and exemptions[^c-5e943a91c0a60f7ac4d6a5db302e2ec5]
 
-(1) Subject to[^key-10763ba3cf06a2dc248a3ad3a44e5df5] regulations 4A and 4B[^key-c9a02c7edabc6a083306d96293a8449d] below, and to regulation 5(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations), these Regulations apply to ships when operating as passenger ships of Classes III, IV, V, VI and VI(A) on voyages, other than international voyages, wholly or partly within United Kingdom waters.
+(1) Subject to[^c-10763ba3cf06a2dc248a3ad3a44e5df5] regulations 4A and 4B[^c-c9a02c7edabc6a083306d96293a8449d] below, and to regulation 5(1) of the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (which relates to passenger ships of Classes III, VI and VI(A) which are 24 metres or over in length and are existing ships, engaged on domestic voyages, for the purposes of those Regulations), these Regulations apply to ships when operating as passenger ships of Classes III, IV, V, VI and VI(A) on voyages, other than international voyages, wholly or partly within United Kingdom waters.
 
-(2)[^key-c84bb8ca991cb1756049d648c72a0fe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c84bb8ca991cb1756049d648c72a0fe8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c3ad0e04dabb08aae45002cb637decce] Subject to paragraph (5),[^key-faa099d0261bb38e0a2931e1121b8800] the Secretary of State may exempt any ship or description of ships from all or any of the provisions of these Regulations (as may be specified in the exemption) if he is satisfied that:
+(3)[^c-c3ad0e04dabb08aae45002cb637decce] Subject to paragraph (5),[^c-faa099d0261bb38e0a2931e1121b8800] the Secretary of State may exempt any ship or description of ships from all or any of the provisions of these Regulations (as may be specified in the exemption) if he is satisfied that:
 
 - (a) compliance with such provision is either impracticable or unreasonable in the case of that ship or description of ships, and
 - (b) the exemption is subject to such conditions and limitations as will provide a level of safety equivalent to that provided by the provision or provisions from which exemption is being granted.
 
 (4) The Secretary of State may, on giving reasonable notice, alter or cancel any exemption granted under paragraph (3) above.
 
-(5)[^key-8b1d09c04dc0d4dc4336e0e152f87dcd] Where an application is made for an exemption under paragraph (3)—
+(5)[^c-8b1d09c04dc0d4dc4336e0e152f87dcd] Where an application is made for an exemption under paragraph (3)—
 
 - (a) for a period commencing from the date of the ship’s first survey after the second anniversary of the date on which the Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 came into force, and
 - (b) which relates to amendments made under those Regulations,
 
 the Secretary of State may grant an exemption under paragraph (3) without it being subject to the conditions and limitations specified in paragraph (3)(b).
 
-### 4A.[^key-819280469c90b265eedaf1595e25d08f]
+### 4A.[^c-819280469c90b265eedaf1595e25d08f]
 
 These Regulations do not apply to—
 
@@ -176,7 +176,7 @@ These Regulations do not apply to—
 - (b) any passenger ship to which the Merchant Shipping (Passenger Ships) (Safety Code for UK Categorised Waters) Regulations 2010 apply,
 - (c) any vessel to which the Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 apply.
 
-### 4B.[^key-f2124e6b6ae6b4b4bb376c087014890a]
+### 4B.[^c-f2124e6b6ae6b4b4bb376c087014890a]
 
 (1) The amendments made to these Regulations by regulation 4(4) to (12) of the Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 do not apply to a ship until the date of that ship’s first survey after the anniversary specified in regulation 4(5)(a).
 
@@ -184,7 +184,7 @@ These Regulations do not apply to—
 
 ## PART II — SHIPS OF CLASSES III TO VI(A)
 
-### 5. Ships of Class III[^key-a90c8878121d796038d1e315305b6c9b]
+### 5. Ships of Class III[^c-a90c8878121d796038d1e315305b6c9b]
 
 (1) This regulation applies to ships of Class III.
 
@@ -233,11 +233,11 @@ These Regulations do not apply to—
 - (d) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes the maintenance of life-saving appliances; and
 - (e) a copy of the table Life-Saving Signals and Rescue Methods, “SOLAS No. 1” published by the Department of the Environment, Transport and the Regions, on the bridge.
 
-### 6. Ships of Class IV[^key-f61cda2a6d917aa4812c267d17d59833]
+### 6. Ships of Class IV[^c-f61cda2a6d917aa4812c267d17d59833]
 
 (1) This regulation applies to ships of Class IV.
 
-(2) Subject to regulation 4B(1) (application),[^key-f89b804a414b86bc3811f2f7c589fdb8] every ship shall carry the appliances specified in column (4) of the capacity specified in column (5) in relation to a ship specified in columns (1) to (3) of the following table–
+(2) Subject to regulation 4B(1) (application),[^c-f89b804a414b86bc3811f2f7c589fdb8] every ship shall carry the appliances specified in column (4) of the capacity specified in column (5) in relation to a ship specified in columns (1) to (3) of the following table–
 
 <table>
 <thead>
@@ -258,7 +258,7 @@ These Regulations do not apply to—
 </tbody>
 </table>
 
-[^key-2a7b77c96792bf3ac1387050bbb98b4e][^key-e4414820d0a3c7ab1610d51d41edae95]
+[^c-2a7b77c96792bf3ac1387050bbb98b4e][^c-e4414820d0a3c7ab1610d51d41edae95]
 
 (3) At least one rescue boat or inflated boat shall be provided. The number of lifeboats, rescue boats or inflated boats shall be sufficient to ensure that, in providing for abandonment by the total number of persons the ship is certified to carry, not more than nine liferafts or open reversible liferafts need be marshalled by each lifeboat or rescue boat or inflated boat.
 
@@ -266,7 +266,7 @@ These Regulations do not apply to—
 
 (5) The lifeboats required by paragraph (2) and the rescue boat or inflated boat required by paragraph (3) shall be served by their own launching appliances and be capable of launching and recovery.
 
-(6) Subject to regulation 4B(1) (application),[^key-9b2010487758ba2cf6eca4390bb6ba82] every ship shall carry–
+(6) Subject to regulation 4B(1) (application),[^c-9b2010487758ba2cf6eca4390bb6ba82] every ship shall carry–
 
 - (a) at least 2 waterproofed two-way radiotelephone apparatus, except when the crew number more than five when at least 3 such sets shall be provided;
 - (b) at least the number of lifebuoys determined in accordance with the following table–
@@ -275,7 +275,7 @@ These Regulations do not apply to—
   | --- | --- |
   | not more than 250 | 4 |
   | more than 250 | 8 |
-- (c) a lifejacket suitable for a person weighing 32 kilogrammes or more for each such person on board and a lifejacket suitable for a person weighing less than 32 kilogrammes for each such person on board , and each such lifejacket shall be fitted with an automatically activated light which is of a type that complies with the requirements of either paragraph 2.2.3 of the Life Saving Appliances Code or paragraph 5.8 of Part 8 of ISO 12402, or is approved under the Merchant Shipping (Marine Equipment) Regulations[^key-e85e61aecebdbe39b50253bd658e058d] 2025[^key-4a11ac5f9511391d52c9cd2a61b2bb8d];
+- (c) a lifejacket suitable for a person weighing 32 kilogrammes or more for each such person on board and a lifejacket suitable for a person weighing less than 32 kilogrammes for each such person on board , and each such lifejacket shall be fitted with an automatically activated light which is of a type that complies with the requirements of either paragraph 2.2.3 of the Life Saving Appliances Code or paragraph 5.8 of Part 8 of ISO 12402, or is approved under the Merchant Shipping (Marine Equipment) Regulations[^c-e85e61aecebdbe39b50253bd658e058d] 2025[^c-4a11ac5f9511391d52c9cd2a61b2bb8d];
 - (d) not less than 12 rocket parachute flares; and
 - (e) a line-throwing appliance, provided that in lieu of four projectiles and four lines required by Part V of Schedule 7, two projectiles and two lines may be substituted.
 
@@ -285,17 +285,17 @@ These Regulations do not apply to—
 
 (9) Every ship shall be provided with–
 
-- (a)[^key-ef4da417078faf6c43d5faf6cdabf5f8] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+- (a)[^c-ef4da417078faf6c43d5faf6cdabf5f8] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
 - (b) posters or signs in accordance with the requirements of regulation 12;
 - (c) a training manual; and
 - (d) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes the maintenance of life-saving appliances.
 
-### 7. Ships of Class V[^key-7b2194c0140def1aeca8dcbb14aee57a]
+### 7. Ships of Class V[^c-7b2194c0140def1aeca8dcbb14aee57a]
 
-(1) Subject to regulation 4B(1) (application),[^key-371aaf372af551d9b629042c17a52b0c] this regulation applies to ships of Class V, and
+(1) Subject to regulation 4B(1) (application),[^c-371aaf372af551d9b629042c17a52b0c] this regulation applies to ships of Class V, and
 
 - (a) only paragraphs (2) and (3) apply to ships which operate within Category A waters only and which comply with the standard of survivability specified in Table 1(5) or Table 2(7) (heel test);
-- (b) only paragraphs (4) to (7)[^key-fc6e981c7dd25869843c4efdccb3929c] apply to ships which operate within Category A and B waters; and
+- (b) only paragraphs (4) to (7)[^c-fc6e981c7dd25869843c4efdccb3929c] apply to ships which operate within Category A and B waters; and
 - (c) only paragraphs (8) to (11) apply to ships which operate within Category A, B and C waters.
 
 (2) Every ship to which this paragraph applies shall carry–
@@ -313,7 +313,7 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
 (3) Every such ship shall be provided with:
 
 - (a) suitable arrangements for the recovery of persons from the water; and
-- (b)[^key-41d669f7af8c615f66b05fec529f5fae] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+- (b)[^c-41d669f7af8c615f66b05fec529f5fae] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
 
 (4)
 
@@ -354,7 +354,7 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
   </tbody>
   </table>
 
-  - \* The Buoyant Apparatus shown in columns (4) and (5) may be substituted by lifebuoys [^key-9ec126e03828eb86e2df131892364ae1]..., with each such lifebuoy being suitable to support two persons.
+  - \* The Buoyant Apparatus shown in columns (4) and (5) may be substituted by lifebuoys [^c-9ec126e03828eb86e2df131892364ae1]..., with each such lifebuoy being suitable to support two persons.
   - † Lifeboats, where fitted, shall be served by their own launching appliances and be capable of launching and recovery.
 - (b) Where liferafts are carried they shall, as far as practicable, be equally distributed on each side of the ship.
 
@@ -362,13 +362,13 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
 
 (6) Every ship shall carry–
 
-- (za)[^key-5d14c0bd15fd802358c1030067574b93] subject to regulation 4B(1) (application), for each person on board one of the following—
+- (za)[^c-5d14c0bd15fd802358c1030067574b93] subject to regulation 4B(1) (application), for each person on board one of the following—
   - (i) a lifejacket suitable for a person weighing 32 kilogrammes or more;
   - (ii) a lifejacket suitable for a person weighing less than 32 kilogrammes for each such person on board;
   - (iii) a buoyancy aid suitable for a person weighing 32 kilogrammes or more, and a buoyancy aid suitable for a person weighing less than 32 kilogrammes;
   - (iv) a lifejacket complying with either British Standard Specifications EN 394:1994 and 396:1994 or ISO 12402-3 and ISO 12402-5, provided such lifejackets do not depend wholly upon oral inflation. Lifejackets of the partially inherently buoyant type for persons weighing 32 kilogrammes or more shall have buoyancy in the uninflated state of not less than 89 Newtons; or
   - (v) an inflatable Civil Aviation Authority lifejacket which complies with Part 5 of Schedule 9;
-- (a)[^key-95957a9f575b000bf5694789c54bc39a] if it is a ship which carries one or more open reversible liferafts, a means of communication which is portable, waterproof and capable in an emergency situation of making immediate contact with the emergency services for the area in which the ship is operating; and
+- (a)[^c-95957a9f575b000bf5694789c54bc39a] if it is a ship which carries one or more open reversible liferafts, a means of communication which is portable, waterproof and capable in an emergency situation of making immediate contact with the emergency services for the area in which the ship is operating; and
 - (b) at least the number of lifebuoys determined in accordance with the following table–
 
   | ***Number of passengers the ship is certified to carry*** | ***Number of lifebuoys*** |
@@ -380,14 +380,14 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
 
 (7) Every ship shall be provided with–
 
-- (i)[^key-346f3bd15f1bb1b41d74b8fb49a5a975] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+- (i)[^c-346f3bd15f1bb1b41d74b8fb49a5a975] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
 - (ii) posters or signs in accordance with the requirements of regulation 12;
 - (iii) a training manual; and
 - (iv) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes the maintenance of life-saving appliances.
 
 (8)
 
-- (a) Subject to regulation 4B(1) (application),[^key-ab707a67058693bcb9ee1b9d0c25b886] every ship shall carry the appliances specified in column (4) of the capacity specified in column 5 in relation to a ship specified in columns (1) to (3) of the following table–
+- (a) Subject to regulation 4B(1) (application),[^c-ab707a67058693bcb9ee1b9d0c25b886] every ship shall carry the appliances specified in column (4) of the capacity specified in column 5 in relation to a ship specified in columns (1) to (3) of the following table–
 
   <table>
   <thead>
@@ -424,9 +424,9 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
   </tbody>
   </table>
 
-  [^key-d6ecc2f4f546ab023dca32137f9d8da8][^key-20b206adab8fe66beea0fed8e55b1ef4][^key-64c18686aae2f91bd972a1a5e24f9584]
+  [^c-d6ecc2f4f546ab023dca32137f9d8da8][^c-20b206adab8fe66beea0fed8e55b1ef4][^c-64c18686aae2f91bd972a1a5e24f9584]
 
-  - \* The buoyant apparatus shown in columns (4) and (5) may be substituted by lifebuoys [^key-0588291f5ec57bda9a668143f933caf8]... with each such lifebuoy being suitable to support two persons.
+  - \* The buoyant apparatus shown in columns (4) and (5) may be substituted by lifebuoys [^c-0588291f5ec57bda9a668143f933caf8]... with each such lifebuoy being suitable to support two persons.
   - † Lifeboats, where fitted, shall be served by their own launching appliances and be capable of launching and recovery.
 - (b) Where liferafts are provided they shall, as far as practicable, be equally distributed on each side of the ship.
 
@@ -450,16 +450,16 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
   - (iv) a lifejacket complying with British Standard Specification EN 394 and 396:1994 provided such lifejackets do not depend wholly upon oral inflation. Lifejackets of the partially inherently buoyant type for persons weighing 32 kilogrammes or more shall have buoyancy in the uninflated state of not less than 89 Newtons; or
   - (v) an inflatable Civil Aviation Authority lifejacket which complies with Part 5 of Schedule 9.
 
-(10A)[^key-a86f8e5c21344c82a9f95aa12950c815] Subject to regulation 4B(1) (application), each lifejacket or buoyancy aid carried in accordance with paragraph (10)(c) shall be fitted with an automatically activated light of a type that complies with either paragraph 2.2.3 of the Life Saving Appliances Code or paragraph 5.8 of Part 8 of ISO 12402, or is approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-81e075bb91b8ac8173441a19ac9ca139].
+(10A)[^c-a86f8e5c21344c82a9f95aa12950c815] Subject to regulation 4B(1) (application), each lifejacket or buoyancy aid carried in accordance with paragraph (10)(c) shall be fitted with an automatically activated light of a type that complies with either paragraph 2.2.3 of the Life Saving Appliances Code or paragraph 5.8 of Part 8 of ISO 12402, or is approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-81e075bb91b8ac8173441a19ac9ca139].
 
 (11) Every ship shall be provided with–
 
-- (i)[^key-ff925dd270b9b22f2e8b50709694be2a] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+- (i)[^c-ff925dd270b9b22f2e8b50709694be2a] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
 - (ii) posters or signs in accordance with the requirements of regulation 12;
 - (iii) a training manual; and
 - (iv) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes the maintenance of life-saving appliances.
 
-### 8. Ships of Class VI[^key-c3d893b1c65d935a11068868a12abbb8]
+### 8. Ships of Class VI[^c-c3d893b1c65d935a11068868a12abbb8]
 
 (1) This regulation applies to ships of Class VI, and
 
@@ -468,7 +468,7 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
 
 (2)
 
-- (a) Subject to regulation 4B(1) (application)[^key-d9bc05d32352340bc6cc0ae0b985a9d9] every ship shall carry the appliances specified in column (4) of the capacity specified in column 5 in relation to a ship specified in columns (1) to (3) of the following table–
+- (a) Subject to regulation 4B(1) (application)[^c-d9bc05d32352340bc6cc0ae0b985a9d9] every ship shall carry the appliances specified in column (4) of the capacity specified in column 5 in relation to a ship specified in columns (1) to (3) of the following table–
 
   <table>
   <thead>
@@ -484,11 +484,11 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
   </tbody>
   </table>
 
-  [^key-e070e34745337f75c92bf1d4e3cf2bbe]
+  [^c-e070e34745337f75c92bf1d4e3cf2bbe]
 - (b) Where liferafts are provided this shall, as far as practicable, be equally distributed on each side of the ship.
 - (c) Suitable arrangements shall be provided on board for the recovery of persons from the water.
 - (d) Every ship shall carry–
-  - (i) at least 2[^key-6006383538807b607b4458f9b086c8e5] waterproofed two-way radiotelephone apparatus except where only buoyant apparatus is fitted when these shall not be required;
+  - (i) at least 2[^c-6006383538807b607b4458f9b086c8e5] waterproofed two-way radiotelephone apparatus except where only buoyant apparatus is fitted when these shall not be required;
   - (ii) at least 4 lifebuoys, with at least one on each side of the ship fitted with a buoyant lifeline and the remainder provided with a self-activating smoke signal and capable of quick release from the navigation bridge;
   - (iii) for each person on board one of the following–
     - (aa) a lifejacket suitable for a person weighing 32 kilogrammes or more;
@@ -498,14 +498,14 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
     - (ee) an inflatable Civil Aviation Authority lifejacket which complies with Part 5 of Schedule 9; and
   - (iv) not less than 12 rocket parachute flares.
 - (e) Every ship shall be provided with–
-  - (i)[^key-a4d7818a49bbc84067cadce76f174b75] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+  - (i)[^c-a4d7818a49bbc84067cadce76f174b75] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
   - (ii) posters or signs in accordance with the requirements of regulation 12;
   - (iii) a training manual; and
   - (iv) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes maintenance of life-saving appliances.
 
 (3)
 
-- (a) Subject to regulation 4B(1) (application)[^key-911071860f7d3cad145ac2512fae344f] every ship to which this paragraph applies shall carry the lifesaving appliances specified in column (4) of the capacity specified in column (5) in relation to a ship specified in columns (1) to (3) of the following table–
+- (a) Subject to regulation 4B(1) (application)[^c-911071860f7d3cad145ac2512fae344f] every ship to which this paragraph applies shall carry the lifesaving appliances specified in column (4) of the capacity specified in column (5) in relation to a ship specified in columns (1) to (3) of the following table–
 
   <table>
   <thead>
@@ -519,7 +519,7 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
   </tbody>
   </table>
 
-  [^key-ed4ce1dae94b4f33971053f0724119ea]
+  [^c-ed4ce1dae94b4f33971053f0724119ea]
 - (b) Where liferafts are provided they shall, as far as practicable, be equally distributed on each side of the ship.
 - (c) Suitable arrangements shall be provided on board for the recovery of persons from the water.
 - (d) Every ship shall carry–
@@ -533,12 +533,12 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
     - (ee) an inflatable Civil Aviation Authority lifejacket which complies with Part 5 of Schedule 9; and
   - (iv) not less than 12 rocket parachute flares.
 - (e) Every ship shall be provided with–
-  - (i)[^key-566a6743fbee1ad6501d1669dca0819e] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+  - (i)[^c-566a6743fbee1ad6501d1669dca0819e] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
   - (ii) posters or signs in accordance with the requirements of regulation 12;
   - (iii) a training manual; and
   - (iv) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes maintenance of life-saving appliances.
 
-### 9. Ships of Class VI(A)[^key-8de87ed07b55c9ae93365287446639f6]
+### 9. Ships of Class VI(A)[^c-8de87ed07b55c9ae93365287446639f6]
 
 (1) This regulation applies to ships of Class VI(A).
 
@@ -569,16 +569,16 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
     - (cc) a lifejacket complying with British Standard Specification BS EN 394 and 396: 1994: provided such lifejackets do not depend wholly on oral inflation. Lifejackets of the partially inherently buoyant type for persons weighing 32 kilogrammes or more shall have buoyancy in the uninflated state of not less than 89 newtons; and
   - (iv) not less than 12 rocket parachute flares.
 - (e) Every ship shall be provided with–
-  - (i)[^key-0a124418ff84af2cdb54cf392a41bd1b] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
+  - (i)[^c-0a124418ff84af2cdb54cf392a41bd1b] a general emergency alarm system, or a public address system which can be used for broadcasting a general emergency alarm and which complies with the requirements of Merchant Shipping Notice No. 1676(M) as amended by Merchant Shipping Notice No. 1757(M);
   - (ii) posters or signs in accordance with the requirements of regulation 12;
   - (iii) a training manual; and
   - (iv) instructions for on-board maintenance of life-saving appliances or a shipboard planned maintenance programme which includes maintenance of life-saving appliances.
 
 ## PART III — GENERAL REQUIREMENTS
 
-### 10. Approval and replacement of appliances and arrangements[^key-91649659254507ae0fa8d7dba383a2c2]
+### 10. Approval and replacement of appliances and arrangements[^c-91649659254507ae0fa8d7dba383a2c2]
 
-(1)[^key-754e76aa2287ba654cc44515324d0142] Life-saving appliances and arrangements required by these Regulations shall be of a type which has been approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-4733034030af34491d10827ef9fb56f3].
+(1)[^c-754e76aa2287ba654cc44515324d0142] Life-saving appliances and arrangements required by these Regulations shall be of a type which has been approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-4733034030af34491d10827ef9fb56f3].
 
 (2)
 
@@ -587,7 +587,7 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
 
 (3) Any item of life-saving equipment marked with an expiry date shall be replaced on or before that date: except that such items contained in the emergency pack of an inflatable liferaft or open reversible liferaft may be retained for a further six months beyond the expiry date.
 
-### 11. Operational readiness, maintenance, inspections and servicing[^key-410a63decc80f2f8716e4a454860f4a8]
+### 11. Operational readiness, maintenance, inspections and servicing[^c-410a63decc80f2f8716e4a454860f4a8]
 
 (1) All life-saving appliances shall be in working order and ready for immediate use before any ship to which these Regulations apply commences a voyage, and at all times during the voyage.
 
@@ -607,15 +607,15 @@ At least one lifebuoy on each side of the ship shall be fitted with a buoyant li
 
 (7) Every inflated boat, inflated rescue boat, rigid inflated rescue boat, inflatable liferaft, open reversible liferaft, inflatable lifejacket and hydrostatic release unit shall be serviced at intervals not exceeding 12 months and at a service station approved by the Secretary of State: except disposable hydrostatic release units which have been approved for a service life of 2 years.
 
-### 12. Operating instructions for launching lifeboats and liferafts[^key-4ae053c9886ab4bb7bc855aedf11ae17]
+### 12. Operating instructions for launching lifeboats and liferafts[^c-4ae053c9886ab4bb7bc855aedf11ae17]
 
 Except for ships of Class V operating in Category A waters, posters and signs shall be provided on or in the vicinity of lifeboats, liferafts or their launching arrangements to illustrate the purpose of the controls and the procedures for launching and bowsing-in the lifeboats and liferafts.
 
-### 13. Embarkation arrangements for liferafts[^key-72c307836c4a82538cc052fb4a2d56c0]
+### 13. Embarkation arrangements for liferafts[^c-72c307836c4a82538cc052fb4a2d56c0]
 
 Where the distance between the embarkation deck and the top of a liferaft buoyancy tube exceeds 1 metre when the ship is in the lightest seagoing condition a three string embarkation ladder shall be provided at each liferaft boarding station. Where such a distance exceeds 4.5 metres at least one launching appliance or a marine escape system chute and a boarding platform shall be provided on each side of the ship.
 
-### 14. Launching stations for lifeboats and liferafts[^key-1d157db4067e9908b6525ed42676a64e]
+### 14. Launching stations for lifeboats and liferafts[^c-1d157db4067e9908b6525ed42676a64e]
 
 (1) A launching station for lifeboats and liferafts (including open reversible liferafts) shall be in such a position as to ensure safe launching having particular regard to its clearance from the propeller and steeply overhanging portions of the hull so that, as far as practicable, lifeboats and liferafts can be launched down the straight side of the ship. If positioned forward survival craft shall be stowed abaft the collision bulkhead in a sheltered position.
 
@@ -623,7 +623,7 @@ Where the distance between the embarkation deck and the top of a liferaft buoyan
 
 (3) Means shall be available to prevent any over-board discharge of water on to lifeboats and liferafts during abandonment of the ship.
 
-### 15. Embarkation, launching and recovery arrangements for rescue boats and inflated boats[^key-a3e300e7aed0fbaad9d0b9a284be062d]
+### 15. Embarkation, launching and recovery arrangements for rescue boats and inflated boats[^c-a3e300e7aed0fbaad9d0b9a284be062d]
 
 (1) Embarkation and launching arrangements for rescue boats and inflated boats shall be such that each boat can be boarded and launched in the shortest possible time.
 
@@ -633,7 +633,7 @@ Where the distance between the embarkation deck and the top of a liferaft buoyan
 
 ## PART IV — STOWAGE AND HANDLING
 
-### 16. Stowage of liferafts, lifeboats, rescue boats and inflated boats[^key-43bfd330596128b19a16d00aa9c8f80d]
+### 16. Stowage of liferafts, lifeboats, rescue boats and inflated boats[^c-43bfd330596128b19a16d00aa9c8f80d]
 
 (1)
 
@@ -662,7 +662,7 @@ Where the distance between the embarkation deck and the top of a liferaft buoyan
 - (b) in a position suitable for launching and recovery; and
 - (c) so that neither they nor their stowage arrangements will interfere with the operation of any liferaft or open reversible liferaft at any other launching station.
 
-### 17. Stowage of lifebuoys[^key-a0276b0a8b85f7d5e2df91452ec43544]
+### 17. Stowage of lifebuoys[^c-a0276b0a8b85f7d5e2df91452ec43544]
 
 (1) Lifebuoys shall be so distributed as to be readily available on both sides of the ship and, as far as practicable, on all open decks extending to the ship’s side. At least one lifebuoy shall be placed in the vicinity of the stern.
 
@@ -670,46 +670,46 @@ Where the distance between the embarkation deck and the top of a liferaft buoyan
 
 (3) Lifebuoys with lights and those with both lights and smoke signals shall, so far as practicable, be equally distributed on both sides of the ship.
 
-### 18. Stowage of lifejackets[^key-c355267381ac75cadcc4ef3e0462c3f2]
+### 18. Stowage of lifejackets[^c-c355267381ac75cadcc4ef3e0462c3f2]
 
 Lifejackets shall be so placed as to be readily accessible and their positions shall be clearly indicated.
 
-### 19. Stowage of two-way radio telephone sets[^key-142670bbb04cfc1d4f69fc34a4b13eac]
+### 19. Stowage of two-way radio telephone sets[^c-142670bbb04cfc1d4f69fc34a4b13eac]
 
 Two-way telephone sets for survival craft required to be carried in compliance with these Regulations shall be stowed in a protected and easily accessible position ready to be moved to any survival craft in an emergency.
 
-### 20. Stowage and packing of pyrotechnic signals[^key-31c39e60d306714ac349b1b85254b835]
+### 20. Stowage and packing of pyrotechnic signals[^c-31c39e60d306714ac349b1b85254b835]
 
 (1) Pyrotechnic signals provided for use on board ship shall be stowed on or near the navigating bridge. In the case of a line-throwing appliance which includes a pistol, the pistol line and rockets together with the means of ignition shall be stowed in a container which provides protection from the weather.
 
 (2) All pyrotechnic signals provided for use on board ships shall be packed in a watertight container. These signals and those provided for use in liferafts shall not be packed in plastic envelopes.
 
-### 21. Manning of liferafts and rescue boats[^key-e9ffacba6df7b1d692362f3d8f2d0712]
+### 21. Manning of liferafts and rescue boats[^c-e9ffacba6df7b1d692362f3d8f2d0712]
 
 For every two liferafts carried there shall be at least one crew member trained to supervise the donning of lifejackets and the launching, bowsing-in and boarding of the liferafts. There shall be at least two such trained crew members to launch and recover the rescue boat or inflated boat.
 
-### 22. Retro-reflective material[^key-f6d9eb8f043ef6815b671bc74e2c0a05]
+### 22. Retro-reflective material[^c-f6d9eb8f043ef6815b671bc74e2c0a05]
 
 Life-saving appliances shall be fitted with retro-reflective material, and the dimensions and location of the material shall be as specified in Merchant Shipping Notice No. M.1444.
 
 ## PART V — MISCELLANEOUS PROVISIONS
 
-### 23. Equivalents[^key-3128e0b4fdbed539c5ebd8d40a4ae985]
+### 23. Equivalents[^c-3128e0b4fdbed539c5ebd8d40a4ae985]
 
 (1) Where these Regulations require that a particular fitting, material, appliance or apparatus, or type thereof, shall be fitted or carried in a ship, or that any particular provision shall be made, the Secretary of State may permit any other fitting, material, appliance or apparatus or type thereof to be fitted or carried, or any other provision to be made in that ship if he is satisfied by trial thereof or otherwise that such other fitting, material, appliance or apparatus, or type thereof, or provision is at least as effective as that required by these Regulations.
 
 (2) For the purpose of these Regulations and Merchant Shipping Notices MSN 1676 (M) and MSN 1677 (M) the results or a verification of test shall be accepted if the verification or test is carried out–
 
-- (a) in accordance with these Regulations or with a standard, code of practice, specification or technical description of an EEA State[^key-b08393e6cc940a647dc5649b0a5a6c3f] offering equivalent levels of safety, survivability and fitness for purpose; and
-- (b) by a body or laboratory of an EEA State[^key-b3d5014ab4803e0c08517144e53c7cc0] offering suitable and satisfactory guarantees of technical and professional competence and independence.
+- (a) in accordance with these Regulations or with a standard, code of practice, specification or technical description of an EEA State[^c-b08393e6cc940a647dc5649b0a5a6c3f] offering equivalent levels of safety, survivability and fitness for purpose; and
+- (b) by a body or laboratory of an EEA State[^c-b3d5014ab4803e0c08517144e53c7cc0] offering suitable and satisfactory guarantees of technical and professional competence and independence.
 
-### 24. Penalties[^key-d3f32315194092616f8ab31af1020a23]
+### 24. Penalties[^c-d3f32315194092616f8ab31af1020a23]
 
 (1) If a ship proceeds, or attempts to proceed, on any voyage without complying with the requirements of these Regulations, the owner and master of the ship shall each be guilty of an offence in respect of each case of non-compliance and liable on summary conviction to a fine not exceeding the statutory maximum or on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
 
 (2) It shall be a defence to a charge under this regulation to prove that the person charged took all reasonable steps to avoid commission of the offence.
 
-### 25. Power to detain[^key-6de7d5e4716df03ef67494e1d0952745]
+### 25. Power to detain[^c-6de7d5e4716df03ef67494e1d0952745]
 
 In any case where a ship does not comply with the requirements of these Regulations, the ship shall be liable to be detained and section 284(1) to (3) and (8) of the Merchant Shipping Act 1995[^f00009] (which relates to the detention of a ship) shall have effect in relation to the ship, subject to the modification that as if for the words “this Act” there were substituted the “Merchant Shipping (Life-Saving Appliances for Passenger Ships of Classes III to VI(A)) Regulations 1999”.
 
@@ -741,156 +741,156 @@ Department of the Environment, Transport and the Regions
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 8)](https://www.legislation.gov.uk/ukpga/1997/8), section 8.
 
-[^key-066867317ddcdd04ed8068f0232e9fa3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/2723) excluded in part (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/d)
+[^c-066867317ddcdd04ed8068f0232e9fa3]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/2723) excluded in part (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [regs. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [5(1)(d)](https://www.legislation.gov.uk/uksi/2000/2687/regulation/5/1/d)
 
-[^key-7cb3e84287679206ab8d82444bee6f50]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/2723) applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [reg. 5(3)(d)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
+[^c-7cb3e84287679206ab8d82444bee6f50]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1999/2723) applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [reg. 5(3)(d)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/3/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
 
-[^key-404ef08d0d9e511e3327ade28a844be4]: Commencement: Reg. 1 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-404ef08d0d9e511e3327ade28a844be4]: Commencement: Reg. 1 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1992/2359](https://www.legislation.gov.uk/uksi/1992/2359).
 
-[^key-34f5cf677029ec0fd2681dc0a2ac833e]: Commencement: Reg. 2 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-34f5cf677029ec0fd2681dc0a2ac833e]: Commencement: Reg. 2 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
 [^f00003]: Footnote: S.I. [1984/97](https://www.legislation.gov.uk/uksi/1984/97).
 
 [^f00004]: Footnote: S.I. [1995/1210](https://www.legislation.gov.uk/uksi/1995/1210), to which there are amendments not relevant to these Regulations.
 
-[^key-5f591e8c9524b11b6ba03b410dcceca9]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/2/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(i)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/i)
+[^c-5f591e8c9524b11b6ba03b410dcceca9]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/2/2) omitted (20.12.2018) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(i)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/i)
 
-[^key-37d0b5c99117b6fbf77c95aba67fc8cf]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/2/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(i)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/i)
+[^c-37d0b5c99117b6fbf77c95aba67fc8cf]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/2/2) substituted (20.12.2018) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/a), [3(2)(i)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/3/2/i)
 
 [^f00006]: Footnote: Cmnd. 7874.
 
-[^key-e8277e9519ca28ee25dfa014416c1405]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/2/4) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8277e9519ca28ee25dfa014416c1405]: Textual amendment: Words in [reg. 2(4)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/2/4) omitted (31.12.2020) by virtue of [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 14(2)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5edac834b4473e1ef294b3af2c092ce4]: Commencement: Reg. 3 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-5edac834b4473e1ef294b3af2c092ce4]: Commencement: Reg. 3 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-5e943a91c0a60f7ac4d6a5db302e2ec5]: Commencement: Reg. 4 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-5e943a91c0a60f7ac4d6a5db302e2ec5]: Commencement: Reg. 4 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-10763ba3cf06a2dc248a3ad3a44e5df5]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/1) inserted (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/4/2)
+[^c-10763ba3cf06a2dc248a3ad3a44e5df5]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/1) inserted (23.10.2000) by [The Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000 (S.I. 2000/2687)](https://www.legislation.gov.uk/uksi/2000/2687), [reg. 1](https://www.legislation.gov.uk/uksi/2000/2687/regulation/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2000/2687/schedule/paragraph/4/2)
 
-[^key-c9a02c7edabc6a083306d96293a8449d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/1) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/2/a)
+[^c-c9a02c7edabc6a083306d96293a8449d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/1) substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/2/a)
 
-[^key-c84bb8ca991cb1756049d648c72a0fe8]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/2) revoked (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/2642/regulation/2)
+[^c-c84bb8ca991cb1756049d648c72a0fe8]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/2) revoked (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2001/2642/regulation/2)
 
-[^key-c3ad0e04dabb08aae45002cb637decce]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/4) substituted for [reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/3) (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2001/2642/regulation/3)
+[^c-c3ad0e04dabb08aae45002cb637decce]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/3)[(4)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/4) substituted for [reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/3) (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2001/2642/regulation/3)
 
-[^key-faa099d0261bb38e0a2931e1121b8800]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/3) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/2/b)
+[^c-faa099d0261bb38e0a2931e1121b8800]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/3) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/2/b)
 
-[^key-8b1d09c04dc0d4dc4336e0e152f87dcd]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/5) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/2/c)
+[^c-8b1d09c04dc0d4dc4336e0e152f87dcd]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4/5) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/2/c)
 
-[^key-819280469c90b265eedaf1595e25d08f]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4A) substituted (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
+[^c-819280469c90b265eedaf1595e25d08f]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4A) substituted (20.4.2010) by [The Merchant Shipping (Technical Requirements for Inland Waterway Vessels) Regulations 2010 (S.I. 2010/1075)](https://www.legislation.gov.uk/uksi/2010/1075), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/1075/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1075/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1075/regulation/3))
 
-[^key-f2124e6b6ae6b4b4bb376c087014890a]: Textual amendment: [Reg. 4B](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4B) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/3)
+[^c-f2124e6b6ae6b4b4bb376c087014890a]: Textual amendment: [Reg. 4B](https://www.legislation.gov.uk/uksi/1999/2723/regulation/4B) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/3)
 
-[^key-a90c8878121d796038d1e315305b6c9b]: Commencement: Reg. 5 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-a90c8878121d796038d1e315305b6c9b]: Commencement: Reg. 5 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-f61cda2a6d917aa4812c267d17d59833]: Commencement: Reg. 6 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-f61cda2a6d917aa4812c267d17d59833]: Commencement: Reg. 6 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-f89b804a414b86bc3811f2f7c589fdb8]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/2) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/4/a)
+[^c-f89b804a414b86bc3811f2f7c589fdb8]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/2) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/4/a)
 
-[^key-2a7b77c96792bf3ac1387050bbb98b4e]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/2) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/4/b/i)
+[^c-2a7b77c96792bf3ac1387050bbb98b4e]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/2) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/4/b/i)
 
-[^key-e4414820d0a3c7ab1610d51d41edae95]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/2) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/4/b/ii)
+[^c-e4414820d0a3c7ab1610d51d41edae95]: Textual amendment: Word in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/2) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/4/b/ii)
 
-[^key-9b2010487758ba2cf6eca4390bb6ba82]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/6) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(5)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/5/a)
+[^c-9b2010487758ba2cf6eca4390bb6ba82]: Textual amendment: Words in [reg. 6(6)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/6) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(5)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/5/a)
 
-[^key-e85e61aecebdbe39b50253bd658e058d]: Textual amendment: Words in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/6/c) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(5)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/5/b)
+[^c-e85e61aecebdbe39b50253bd658e058d]: Textual amendment: Words in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/6/c) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(5)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/5/b)
 
-[^key-4a11ac5f9511391d52c9cd2a61b2bb8d]: Textual amendment: Word in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/6/c) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/4/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-4a11ac5f9511391d52c9cd2a61b2bb8d]: Textual amendment: Word in [reg. 6(6)(c)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/6/c) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/4/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-ef4da417078faf6c43d5faf6cdabf5f8]: Textual amendment: [Reg. 6(9)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/9/a) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/1)
+[^c-ef4da417078faf6c43d5faf6cdabf5f8]: Textual amendment: [Reg. 6(9)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/6/9/a) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/1)
 
-[^key-7b2194c0140def1aeca8dcbb14aee57a]: Commencement: Reg. 7 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-7b2194c0140def1aeca8dcbb14aee57a]: Commencement: Reg. 7 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-371aaf372af551d9b629042c17a52b0c]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(6)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/6)
+[^c-371aaf372af551d9b629042c17a52b0c]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/1) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(6)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/6)
 
-[^key-fc6e981c7dd25869843c4efdccb3929c]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/1/b) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/4/1)
+[^c-fc6e981c7dd25869843c4efdccb3929c]: Textual amendment: Words in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/1/b) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/4/1)
 
-[^key-41d669f7af8c615f66b05fec529f5fae]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/3/b) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/2)
+[^c-41d669f7af8c615f66b05fec529f5fae]: Textual amendment: [Reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/3/b) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/2)
 
-[^key-9ec126e03828eb86e2df131892364ae1]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/4/a) table omitted (29.12.2022) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(7)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/7)
+[^c-9ec126e03828eb86e2df131892364ae1]: Textual amendment: Words in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/4/a) table omitted (29.12.2022) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(7)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/7)
 
-[^key-5d14c0bd15fd802358c1030067574b93]: Textual amendment: [Reg. 7(6)(za)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/6/za) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(8)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/8)
+[^c-5d14c0bd15fd802358c1030067574b93]: Textual amendment: [Reg. 7(6)(za)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/6/za) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(8)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/8)
 
-[^key-95957a9f575b000bf5694789c54bc39a]: Textual amendment: [Reg. 7(6)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/6/a) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/4/2)
+[^c-95957a9f575b000bf5694789c54bc39a]: Textual amendment: [Reg. 7(6)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/6/a) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/4/2)
 
-[^key-346f3bd15f1bb1b41d74b8fb49a5a975]: Textual amendment: [Reg. 7(7)(i)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/7/i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/3)
+[^c-346f3bd15f1bb1b41d74b8fb49a5a975]: Textual amendment: [Reg. 7(7)(i)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/7/i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/3)
 
-[^key-ab707a67058693bcb9ee1b9d0c25b886]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/a)
+[^c-ab707a67058693bcb9ee1b9d0c25b886]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/a)
 
-[^key-d6ecc2f4f546ab023dca32137f9d8da8]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/i)
+[^c-d6ecc2f4f546ab023dca32137f9d8da8]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/i)
 
-[^key-20b206adab8fe66beea0fed8e55b1ef4]: Textual amendment: Word in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/ii/aa)
+[^c-20b206adab8fe66beea0fed8e55b1ef4]: Textual amendment: Word in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/ii/aa)
 
-[^key-64c18686aae2f91bd972a1a5e24f9584]: Textual amendment: Word in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/ii/bb)
+[^c-64c18686aae2f91bd972a1a5e24f9584]: Textual amendment: Word in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/ii/bb)
 
-[^key-0588291f5ec57bda9a668143f933caf8]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table omitted (29.12.2022) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/iii)
+[^c-0588291f5ec57bda9a668143f933caf8]: Textual amendment: Words in [reg. 7(8)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/8/a) table omitted (29.12.2022) by virtue of [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/9/b/iii)
 
-[^key-a86f8e5c21344c82a9f95aa12950c815]: Textual amendment: [Reg. 7(10A)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/10A) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(10)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/10)
+[^c-a86f8e5c21344c82a9f95aa12950c815]: Textual amendment: [Reg. 7(10A)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/10A) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(10)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/10)
 
-[^key-81e075bb91b8ac8173441a19ac9ca139]: Textual amendment: Word in [reg. 7(10A)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/10A) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/4/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-81e075bb91b8ac8173441a19ac9ca139]: Textual amendment: Word in [reg. 7(10A)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/10A) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/4/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-ff925dd270b9b22f2e8b50709694be2a]: Textual amendment: [Reg. 7(11)(i)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/11/i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/4)
+[^c-ff925dd270b9b22f2e8b50709694be2a]: Textual amendment: [Reg. 7(11)(i)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/7/11/i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/4)
 
-[^key-c3d893b1c65d935a11068868a12abbb8]: Commencement: Reg. 8 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-c3d893b1c65d935a11068868a12abbb8]: Commencement: Reg. 8 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-d9bc05d32352340bc6cc0ae0b985a9d9]: Textual amendment: Words in reg. 8(2)(a) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(11)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/11/a)
+[^c-d9bc05d32352340bc6cc0ae0b985a9d9]: Textual amendment: Words in reg. 8(2)(a) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(11)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/11/a)
 
-[^key-e070e34745337f75c92bf1d4e3cf2bbe]: Textual amendment: Reg. 8(2)(a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(11)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/11/b)
+[^c-e070e34745337f75c92bf1d4e3cf2bbe]: Textual amendment: Reg. 8(2)(a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(11)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/11/b)
 
-[^key-6006383538807b607b4458f9b086c8e5]: Textual amendment: Words in reg. 8(2)(d)(i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/4/3)
+[^c-6006383538807b607b4458f9b086c8e5]: Textual amendment: Words in reg. 8(2)(d)(i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/4/3)
 
-[^key-a4d7818a49bbc84067cadce76f174b75]: Textual amendment: Reg. 8(2)(e)(i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/5)
+[^c-a4d7818a49bbc84067cadce76f174b75]: Textual amendment: Reg. 8(2)(e)(i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/5)
 
-[^key-911071860f7d3cad145ac2512fae344f]: Textual amendment: Words in reg. 8(3)(a) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(12)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/12/a)
+[^c-911071860f7d3cad145ac2512fae344f]: Textual amendment: Words in reg. 8(3)(a) inserted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(12)(a)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/12/a)
 
-[^key-ed4ce1dae94b4f33971053f0724119ea]: Textual amendment: Reg. 8(3)(a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(12)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/12/b)
+[^c-ed4ce1dae94b4f33971053f0724119ea]: Textual amendment: Reg. 8(3)(a) table substituted (29.12.2022) by [The Merchant Shipping (Safety Standards for Passenger Ships on Domestic Voyages) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1269)](https://www.legislation.gov.uk/uksi/2022/1269), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/1/b), [4(12)(b)](https://www.legislation.gov.uk/uksi/2022/1269/regulation/4/12/b)
 
-[^key-566a6743fbee1ad6501d1669dca0819e]: Textual amendment: Reg. 8(3)(e)(i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/6)
+[^c-566a6743fbee1ad6501d1669dca0819e]: Textual amendment: Reg. 8(3)(e)(i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/6)
 
-[^key-8de87ed07b55c9ae93365287446639f6]: Commencement: Reg. 9 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-8de87ed07b55c9ae93365287446639f6]: Commencement: Reg. 9 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-0a124418ff84af2cdb54cf392a41bd1b]: Textual amendment: [Reg. 9(2)(e)(i)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/9/2/e/i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/7)
+[^c-0a124418ff84af2cdb54cf392a41bd1b]: Textual amendment: [Reg. 9(2)(e)(i)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/9/2/e/i) substituted (14.8.2001) by [The Merchant Shipping (Life-Saving Appliances) (Amendment) Regulations 2001 (S.I. 2001/2642)](https://www.legislation.gov.uk/uksi/2001/2642), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2001/2642/regulation/5/7)
 
-[^key-91649659254507ae0fa8d7dba383a2c2]: Commencement: Reg. 10 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-91649659254507ae0fa8d7dba383a2c2]: Commencement: Reg. 10 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-754e76aa2287ba654cc44515324d0142]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/10/1) substituted (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/7)
+[^c-754e76aa2287ba654cc44515324d0142]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/10/1) substituted (5.12.2016) by [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/7)
 
-[^key-4733034030af34491d10827ef9fb56f3]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/10/1) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/4/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-4733034030af34491d10827ef9fb56f3]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/10/1) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/4/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-410a63decc80f2f8716e4a454860f4a8]: Commencement: Reg. 11 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-410a63decc80f2f8716e4a454860f4a8]: Commencement: Reg. 11 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-4ae053c9886ab4bb7bc855aedf11ae17]: Commencement: Reg. 12 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-4ae053c9886ab4bb7bc855aedf11ae17]: Commencement: Reg. 12 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-72c307836c4a82538cc052fb4a2d56c0]: Commencement: Reg. 13 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-72c307836c4a82538cc052fb4a2d56c0]: Commencement: Reg. 13 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-1d157db4067e9908b6525ed42676a64e]: Commencement: Reg. 14 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-1d157db4067e9908b6525ed42676a64e]: Commencement: Reg. 14 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-a3e300e7aed0fbaad9d0b9a284be062d]: Commencement: Reg. 15 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-a3e300e7aed0fbaad9d0b9a284be062d]: Commencement: Reg. 15 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-43bfd330596128b19a16d00aa9c8f80d]: Commencement: Reg. 16 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-43bfd330596128b19a16d00aa9c8f80d]: Commencement: Reg. 16 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-a0276b0a8b85f7d5e2df91452ec43544]: Commencement: Reg. 17 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-a0276b0a8b85f7d5e2df91452ec43544]: Commencement: Reg. 17 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-c355267381ac75cadcc4ef3e0462c3f2]: Commencement: Reg. 18 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-c355267381ac75cadcc4ef3e0462c3f2]: Commencement: Reg. 18 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-142670bbb04cfc1d4f69fc34a4b13eac]: Commencement: Reg. 19 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-142670bbb04cfc1d4f69fc34a4b13eac]: Commencement: Reg. 19 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-31c39e60d306714ac349b1b85254b835]: Commencement: Reg. 20 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-31c39e60d306714ac349b1b85254b835]: Commencement: Reg. 20 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-e9ffacba6df7b1d692362f3d8f2d0712]: Commencement: Reg. 21 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-e9ffacba6df7b1d692362f3d8f2d0712]: Commencement: Reg. 21 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-f6d9eb8f043ef6815b671bc74e2c0a05]: Commencement: Reg. 22 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-f6d9eb8f043ef6815b671bc74e2c0a05]: Commencement: Reg. 22 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-3128e0b4fdbed539c5ebd8d40a4ae985]: Commencement: Reg. 23 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-3128e0b4fdbed539c5ebd8d40a4ae985]: Commencement: Reg. 23 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-b08393e6cc940a647dc5649b0a5a6c3f]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/23/2/a) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b08393e6cc940a647dc5649b0a5a6c3f]: Textual amendment: Words in [reg. 23(2)(a)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/23/2/a) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3d5014ab4803e0c08517144e53c7cc0]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/23/2/b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3d5014ab4803e0c08517144e53c7cc0]: Textual amendment: Words in [reg. 23(2)(b)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/23/2/b) substituted (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [Sch. para. 14(3)](https://www.legislation.gov.uk/uksi/2018/1221/schedule/paragraph/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d3f32315194092616f8ab31af1020a23]: Commencement: Reg. 24 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-d3f32315194092616f8ab31af1020a23]: Commencement: Reg. 24 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
-[^key-6de7d5e4716df03ef67494e1d0952745]: Commencement: Reg. 25 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
+[^c-6de7d5e4716df03ef67494e1d0952745]: Commencement: Reg. 25 in force at 29.10.1999, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2723/regulation/1/1)
 
 [^f00009]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1.

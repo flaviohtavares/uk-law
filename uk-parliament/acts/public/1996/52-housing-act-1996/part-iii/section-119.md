@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Leasehold valuation tribunals: pre-trial review.[^key-53398705a06e8815e93a7269affd6bb3][^c13152131]
+## 119. Leasehold valuation tribunals: pre-trial review.[^c-53398705a06e8815e93a7269affd6bb3][^c13152131]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53398705a06e8815e93a7269affd6bb3]: Textual amendment: S. 119 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
+[^c-53398705a06e8815e93a7269affd6bb3]: Textual amendment: S. 119 repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); S.I. 2004/669, art. 2(c)(iv), Sch. 1 Pt. 1 (with Sch. 2)
 
 [^c13152131]: Commencement: S. 119 partly in force; s. 119 not in force at Royal Assent see s. 232(1)-(3); s. 119 in force for certain purposes at 23.8.1996 by [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/1)

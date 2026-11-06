@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Register of visitor accommodation providers[^key-dfae42fa67aec76c6f90a1fa73ee97c9][^key-23f985defcac794f99b1e267484f1637]
+## 4. Register of visitor accommodation providers[^c-dfae42fa67aec76c6f90a1fa73ee97c9][^c-23f985defcac794f99b1e267484f1637]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfae42fa67aec76c6f90a1fa73ee97c9]: Commencement: S. 4 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-dfae42fa67aec76c6f90a1fa73ee97c9]: Commencement: S. 4 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-23f985defcac794f99b1e267484f1637]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2025/5/section/4) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/a)
+[^c-23f985defcac794f99b1e267484f1637]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2025/5/section/4) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104A. Authorisations by the Housing Executive[^key-a9ebf7dd2961e98ef7249823f76166dd][^c14897371]
+## 104A. Authorisations by the Housing Executive[^c-a9ebf7dd2961e98ef7249823f76166dd][^c14897371]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a9ebf7dd2961e98ef7249823f76166dd]: Modification: S. 104A extended (6.4.2003) by [The Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [Sch. 8 para. 32(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/1), [(2)(a)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/2/a); [S.R. 2003/204](https://www.legislation.gov.uk/nisr/2003/204), [art. 2](https://www.legislation.gov.uk/nisr/2003/204/article/2)
+[^c-a9ebf7dd2961e98ef7249823f76166dd]: Modification: S. 104A extended (6.4.2003) by [The Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147)](https://www.legislation.gov.uk/nisi/1999/3147), [art. 1(2)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/2), [Sch. 8 para. 32(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/1), [(2)(a)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/8/paragraph/32/2/a); [S.R. 2003/204](https://www.legislation.gov.uk/nisr/2003/204), [art. 2](https://www.legislation.gov.uk/nisr/2003/204/article/2)
 
 [^c14897371]: Textual amendment: S. 104A substituted for ss. 104A, 104B (2.4.2001) by [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4), [s. 68(1)](https://www.legislation.gov.uk/nia/2000/4/section/68/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/nia/2000/4/schedule/6/paragraph/3) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.I. 2001/141](https://www.legislation.gov.uk/uksi/2001/141), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2001/141/article/2/1/a), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/141/schedule/part/I)
 

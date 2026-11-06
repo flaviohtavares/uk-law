@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Operation of aircraft[^key-2caee956277f586d59574504f71fba28]
+## 74. Operation of aircraft[^c-2caee956277f586d59574504f71fba28]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the operating limitations specified in the aircraft flight manual or equivalent document, except as provided in paragraph (4);
 - (b) the Rules of the Air and any supplemental Rules of the Air made by the Governor under article 67(1);
-- (c)[^key-b628134823ab729bb432c0be540b4f4e] any instructions given or published for the operation, safety and security of aircraft and the safety and security of persons and property carried in an aircraft including instructions in respect of the instruments and equipment to be installed in or carried on an aircraft
+- (c)[^c-b628134823ab729bb432c0be540b4f4e] any instructions given or published for the operation, safety and security of aircraft and the safety and security of persons and property carried in an aircraft including instructions in respect of the instruments and equipment to be installed in or carried on an aircraft
 
 (2) Subject to article 156, an aircraft must not take off or land at any place unless—
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2caee956277f586d59574504f71fba28]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2013/2870/article/74) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2caee956277f586d59574504f71fba28]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2013/2870/article/74) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
 
-[^key-b628134823ab729bb432c0be540b4f4e]: Textual amendment: [Art. 74(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/74/1/c) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [6](https://www.legislation.gov.uk/uksi/2014/2925/article/6)
+[^c-b628134823ab729bb432c0be540b4f4e]: Textual amendment: [Art. 74(1)(c)](https://www.legislation.gov.uk/uksi/2013/2870/article/74/1/c) substituted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [6](https://www.legislation.gov.uk/uksi/2014/2925/article/6)

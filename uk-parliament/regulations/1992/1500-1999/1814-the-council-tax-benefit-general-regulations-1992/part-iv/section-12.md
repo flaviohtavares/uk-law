@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Circumstances in which income of non-dependant is to be treated as claimant's[^key-47cfd8dc4efefec7874e1b9f1bfd98fd]
+## 12. Circumstances in which income of non-dependant is to be treated as claimant's[^c-47cfd8dc4efefec7874e1b9f1bfd98fd]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47cfd8dc4efefec7874e1b9f1bfd98fd]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1992/1814/regulation/12) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-47cfd8dc4efefec7874e1b9f1bfd98fd]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1992/1814/regulation/12) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

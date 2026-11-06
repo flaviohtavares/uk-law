@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-Environmentally Sensitive Areas (Enforcement) Regulations (Northern Ireland) 2005 (revoked)[^key-1438f524b03216674b8342f33fcb6058]
+Environmentally Sensitive Areas (Enforcement) Regulations (Northern Ireland) 2005 (revoked)[^c-1438f524b03216674b8342f33fcb6058]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 8th June 2005
 
-[^key-1438f524b03216674b8342f33fcb6058]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1438f524b03216674b8342f33fcb6058]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1438f524b03216674b8342f33fcb6058]
+## 1. Citation and commencement[^c-1438f524b03216674b8342f33fcb6058]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1438f524b03216674b8342f33fcb6058]
+## 2. Interpretation[^c-1438f524b03216674b8342f33fcb6058]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Department’s powers of recovery etc.[^key-1438f524b03216674b8342f33fcb6058]
+## 3. Department’s powers of recovery etc.[^c-1438f524b03216674b8342f33fcb6058]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Recovery of interest[^key-1438f524b03216674b8342f33fcb6058]
+## 4. Recovery of interest[^c-1438f524b03216674b8342f33fcb6058]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recovery of payments[^key-1438f524b03216674b8342f33fcb6058]
+## 5. Recovery of payments[^c-1438f524b03216674b8342f33fcb6058]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation and saving[^key-1438f524b03216674b8342f33fcb6058]
+## 6. Revocation and saving[^c-1438f524b03216674b8342f33fcb6058]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1438f524b03216674b8342f33fcb6058]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1438f524b03216674b8342f33fcb6058]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1438f524b03216674b8342f33fcb6058]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1438f524b03216674b8342f33fcb6058]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1438f524b03216674b8342f33fcb6058]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/277) revoked (14.5.2008) by [Countryside Management Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/174)](https://www.legislation.gov.uk/nisr/2008/174), [regs. 1](https://www.legislation.gov.uk/nisr/2008/174/regulation/1), [17](https://www.legislation.gov.uk/nisr/2008/174/regulation/17)
+[^c-1438f524b03216674b8342f33fcb6058]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/277) revoked (14.5.2008) by [Countryside Management Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/174)](https://www.legislation.gov.uk/nisr/2008/174), [regs. 1](https://www.legislation.gov.uk/nisr/2008/174/regulation/1), [17](https://www.legislation.gov.uk/nisr/2008/174/regulation/17)

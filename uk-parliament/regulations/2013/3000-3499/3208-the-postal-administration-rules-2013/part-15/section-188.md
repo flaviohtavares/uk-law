@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188. Notifications relating to the office of postal administrator[^key-f344d73f2947a26ff38a8803bda71a7b]
+## 188. Notifications relating to the office of postal administrator[^c-f344d73f2947a26ff38a8803bda71a7b]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ In addition to the information required by Rule 187, a notification relating to 
 
 ## Annotations
 
-[^key-f344d73f2947a26ff38a8803bda71a7b]: Commencement: [Rule 188](https://www.legislation.gov.uk/uksi/2013/3208/rule/188) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f344d73f2947a26ff38a8803bda71a7b]: Commencement: [Rule 188](https://www.legislation.gov.uk/uksi/2013/3208/rule/188) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

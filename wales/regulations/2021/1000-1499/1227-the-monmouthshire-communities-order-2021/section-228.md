@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**228.**[^key-ecec816dd52736a299e682d6846561b1][^key-4c4238f4494d40a7dec101327c5cc38f] The part of the community of Llangattock Vibon Avel shown hatched on Map 152—
+**228.**[^c-ecec816dd52736a299e682d6846561b1][^c-4c4238f4494d40a7dec101327c5cc38f] The part of the community of Llangattock Vibon Avel shown hatched on Map 152—
 
 - (a) is transferred to the community of Skenfrith;
 - (b) forms part of the new community ward of Cross Ash;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ecec816dd52736a299e682d6846561b1]: Commencement: Art. 228 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-ecec816dd52736a299e682d6846561b1]: Commencement: Art. 228 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-4c4238f4494d40a7dec101327c5cc38f]: Commencement: [Art. 228](https://www.legislation.gov.uk/wsi/2021/1227/article/228) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-4c4238f4494d40a7dec101327c5cc38f]: Commencement: [Art. 228](https://www.legislation.gov.uk/wsi/2021/1227/article/228) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

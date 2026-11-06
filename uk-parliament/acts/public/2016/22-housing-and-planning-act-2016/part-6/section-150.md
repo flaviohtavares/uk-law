@@ -124,14 +124,14 @@ summary: ''
   >
   > “**Prescribed**” means prescribed for the purposes of this subsection in a development order.
 
-(4)[^key-fcc4017ca69de0a5f7107d73457e2978] In section 333 of that Act (regulations and orders), after subsection (3) insert—
+(4)[^c-fcc4017ca69de0a5f7107d73457e2978] In section 333 of that Act (regulations and orders), after subsection (3) insert—
 
 > (3ZA) No regulations may be made under section 59A(9) unless a draft of the instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
-(5)[^key-fcc4017ca69de0a5f7107d73457e2978] Schedule 12 (permission in principle for development of land: minor and consequential amendments) has effect.
+(5)[^c-fcc4017ca69de0a5f7107d73457e2978] Schedule 12 (permission in principle for development of land: minor and consequential amendments) has effect.
 
 ## Annotations
 
 [^c22569341]: Commencement: [S. 150(1)-(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/1) in force at 12.7.2016, see [s. 216(2)(c)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/2/c)
 
-[^key-fcc4017ca69de0a5f7107d73457e2978]: Commencement: [S. 150(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/5) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)
+[^c-fcc4017ca69de0a5f7107d73457e2978]: Commencement: [S. 150(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/22/section/150/5) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/d)

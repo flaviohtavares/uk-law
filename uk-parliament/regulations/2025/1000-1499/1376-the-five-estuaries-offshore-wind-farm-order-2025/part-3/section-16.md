@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Traffic regulation[^key-9625bceb4f19ffe4f9a57d2550786786]
+## 16. Traffic regulation[^c-9625bceb4f19ffe4f9a57d2550786786]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9625bceb4f19ffe4f9a57d2550786786]: Commencement: Art. 16 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-9625bceb4f19ffe4f9a57d2550786786]: Commencement: Art. 16 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00038]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362).
 

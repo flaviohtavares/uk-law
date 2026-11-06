@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Power to survey and investigate land, etc.[^key-33009f5b05be67f1ee9dc1f5e9266bee]
+## 25. Power to survey and investigate land, etc.[^c-33009f5b05be67f1ee9dc1f5e9266bee]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ but such consent shall not be unreasonably withheld.
 
 ## Annotations
 
-[^key-33009f5b05be67f1ee9dc1f5e9266bee]: Commencement: Art. 25 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-33009f5b05be67f1ee9dc1f5e9266bee]: Commencement: Art. 25 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00029]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46).

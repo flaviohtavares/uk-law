@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Use of application-to-acceptance information for research purposes[^key-00f5c4f3eaf2a34ec0701f476b6b268a]
+## 80. Use of application-to-acceptance information for research purposes[^c-00f5c4f3eaf2a34ec0701f476b6b268a]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00f5c4f3eaf2a34ec0701f476b6b268a]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/29/section/80) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)
+[^c-00f5c4f3eaf2a34ec0701f476b6b268a]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/29/section/80) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)

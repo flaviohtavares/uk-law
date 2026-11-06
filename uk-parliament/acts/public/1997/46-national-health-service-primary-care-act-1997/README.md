@@ -37,11 +37,11 @@ An Act to provide for new arrangements in relation to the provision within the n
 
 ## Contents
 
-### Part I (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note) — Pilot Schemes for Primary Care (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^key-b7babe81737a171c093fd2c5cce1afdb][^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6][^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+### Part I (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note) — Pilot Schemes for Primary Care (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-b7babe81737a171c093fd2c5cce1afdb][^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6][^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S+N.I.*
 
-#### Preparation and making of pilot schemes (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+#### Preparation and making of pilot schemes (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S*
 
@@ -52,26 +52,26 @@ An Act to provide for new arrangements in relation to the provision within the n
 - [Section 5 — Approval of pilot schemes.](part-i/section-5.md)
 - [Section 6 — Making of pilot schemes.](part-i/section-6.md)
 
-#### Reviews of pilot schemes (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+#### Reviews of pilot schemes (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S*
 
 - [Section 7 — Reviews of pilot schemes.](part-i/section-7.md)
 
-#### Variation and termination of pilot schemes (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+#### Variation and termination of pilot schemes (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S*
 
 - [Section 8 — Variation and termination of pilot schemes.](part-i/section-8.md)
 
-#### Services Lists (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c12085721][^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+#### Services Lists (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c12085721][^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S*
 
 - [Section 8ZA — Lists of persons who may perform personal medical services or personal dental services](part-i/section-8za.md)
 - [Section 8A — Delegation of Health Authority functions relating to pilot schemes.](part-i/section-8a.md)
 
-#### General (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+#### General (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ An Act to provide for new arrangements in relation to the provision within the n
 - [Section 16 — NHS contracts.](part-i/section-16.md)
 - [Section 17 — The Dental Practice Boards.](part-i/section-17.md)
 
-#### Financial provisions (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^key-1840bf2f2b5bad1b854c96361c7b02a2][^key-b7babe81737a171c093fd2c5cce1afdb][^key-c7ca9c43dc3c89debb9f9b57d9f45be6]
+#### Financial provisions (Extent: S) (affected by repeal, see note) (Extent: E+W) (affected by repeal, see note) (Extent: S) (affected by repeal, see note)[^c-1840bf2f2b5bad1b854c96361c7b02a2][^c-b7babe81737a171c093fd2c5cce1afdb][^c-c7ca9c43dc3c89debb9f9b57d9f45be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,10 +167,10 @@ SCHEDULES
 
     [S.I. 2000/695](https://www.legislation.gov.uk/uksi/2000/695) amended (1.4.2002) by [S.I. 2002/555](https://www.legislation.gov.uk/uksi/2002/555), [regs. 3(2)](https://www.legislation.gov.uk/uksi/2002/555/regulation/3/2),(3)
 
-[^key-b7babe81737a171c093fd2c5cce1afdb]: Textual amendment: Pt. I repealed (E.W.) (1.4.2004 for specified purposes, 1.4.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 178](https://www.legislation.gov.uk/ukpga/2003/43/section/178), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note (with [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865), arts. 1(1), 58); [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [arts. 4(3)(b)](https://www.legislation.gov.uk/uksi/2004/288/article/4/3/b), [6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(p)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345)), S.I. 2005/2925, arts. 6(2)(b), 11, S.I. 2006/345, art. 4(2)(b)
+[^c-b7babe81737a171c093fd2c5cce1afdb]: Textual amendment: Pt. I repealed (E.W.) (1.4.2004 for specified purposes, 1.4.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 178](https://www.legislation.gov.uk/ukpga/2003/43/section/178), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1)[(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/4) Note (with [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865), arts. 1(1), 58); [S.I. 2004/288](https://www.legislation.gov.uk/uksi/2004/288), [arts. 4(3)(b)](https://www.legislation.gov.uk/uksi/2004/288/article/4/3/b), [6(2)(p)](https://www.legislation.gov.uk/uksi/2004/288/article/6/2/p) (with [art. 8](https://www.legislation.gov.uk/uksi/2004/288/article/8)) (as amended by [S.I. 2004/866](https://www.legislation.gov.uk/uksi/2004/866) and [S.I. 2005/2925](https://www.legislation.gov.uk/uksi/2005/2925)); [S.I. 2004/480](https://www.legislation.gov.uk/uksi/2004/480), [art. 5(2)(p)](https://www.legislation.gov.uk/uksi/2004/480/article/5/2/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2004/480/article/6), [7](https://www.legislation.gov.uk/uksi/2004/480/article/7)) (as amended by [S.I. 2004/1019](https://www.legislation.gov.uk/uksi/2004/1019) and [S.I. 2006/345](https://www.legislation.gov.uk/uksi/2006/345)), S.I. 2005/2925, arts. 6(2)(b), 11, S.I. 2006/345, art. 4(2)(b)
 
-[^key-c7ca9c43dc3c89debb9f9b57d9f45be6]: Textual amendment: Pt. I ceases to have effect for specified purposes (S.) (1.4.2004) by virtue of [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 3](https://www.legislation.gov.uk/asp/2004/1/section/3), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-c7ca9c43dc3c89debb9f9b57d9f45be6]: Textual amendment: Pt. I ceases to have effect for specified purposes (S.) (1.4.2004) by virtue of [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [ss. 3](https://www.legislation.gov.uk/asp/2004/1/section/3), [9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
 
 [^c12085721]: Textual amendment: S. 8ZA and cross-heading inserted (E.W.) (31.5.2002 for E., 1.7.2002 for W.) by [2001 c. 15](https://www.legislation.gov.uk/ukpga/2001/15), [ss. 26(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/26/2), [70(2)](https://www.legislation.gov.uk/ukpga/2001/15/section/70/2) (with [ss. 64(9)](https://www.legislation.gov.uk/ukpga/2001/15/section/64/9), [65(4)](https://www.legislation.gov.uk/ukpga/2001/15/section/65/4)); [S.I. 2002/1095](https://www.legislation.gov.uk/uksi/2002/1095), [art. 2(7)](https://www.legislation.gov.uk/uksi/2002/1095/article/2/7); S.I. 1475, art. 2, Sch. Pt. 1
 
-[^key-1840bf2f2b5bad1b854c96361c7b02a2]: Textual amendment: Ss. 11-13 repealed (S.) (1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [s. 9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1), [sch. para. 2(5)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/2/5); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)
+[^c-1840bf2f2b5bad1b854c96361c7b02a2]: Textual amendment: Ss. 11-13 repealed (S.) (1.4.2004) by [Primary Medical Services (Scotland) Act 2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), [s. 9(1)](https://www.legislation.gov.uk/asp/2004/1/section/9/1), [sch. para. 2(5)](https://www.legislation.gov.uk/asp/2004/1/schedule/paragraph/2/5); [S.S.I. 2004/58](https://www.legislation.gov.uk/ssi/2004/58), [art. 2(3)](https://www.legislation.gov.uk/ssi/2004/58/article/2/3)

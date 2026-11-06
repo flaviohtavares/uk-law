@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8FE. Calculation of lost relievable amount[^key-b458615bf36bbe78f9a9b07671ddd5d6]
+## 8FE. Calculation of lost relievable amount[^c-b458615bf36bbe78f9a9b07671ddd5d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 (9) Where, as a result of section 8FA, there is entitlement to a downsizing addition in calculating the person's residence nil-rate amount, take the following steps to calculate the person's lost relievable amount.
 
 - *Step 1* Express the value of the person's qualifying former residential interest as a percentage of the person's former allowance, but take that percentage to be 100% if it would otherwise be higher.
-- *Step 2* Express QRI as a percentage of the person's allowance on death, where QRI is so much of the value transferred by the transfer of value under section 4 on the person’s death[^key-d74bcff58adf7642ba90d160112af33d] as is attributable to the person's qualifying residential interest, but take that percentage to be 100% if it would otherwise be higher.
+- *Step 2* Express QRI as a percentage of the person's allowance on death, where QRI is so much of the value transferred by the transfer of value under section 4 on the person’s death[^c-d74bcff58adf7642ba90d160112af33d] as is attributable to the person's qualifying residential interest, but take that percentage to be 100% if it would otherwise be higher.
 - *Step 3* Subtract the percentage given by step 2 from the percentage given by step 1, but take the result to be 0% if it would otherwise be negative. The result is P%.
 - *Step 4* The person's lost relievable amount is equal to P% of the person's allowance on death.
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b458615bf36bbe78f9a9b07671ddd5d6]: Textual amendment: Ss. 8FA-8FE inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/5)
+[^c-b458615bf36bbe78f9a9b07671ddd5d6]: Textual amendment: Ss. 8FA-8FE inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/5)
 
-[^key-d74bcff58adf7642ba90d160112af33d]: Textual amendment: Words in [s. 8FE(9)](https://www.legislation.gov.uk/ukpga/1984/51/section/8FE/9) substituted (with application in accordance with s. 66(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/66/3)
+[^c-d74bcff58adf7642ba90d160112af33d]: Textual amendment: Words in [s. 8FE(9)](https://www.legislation.gov.uk/ukpga/1984/51/section/8FE/9) substituted (with application in accordance with s. 66(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 66(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/66/3)

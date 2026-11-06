@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Meaning of qualified auditor[^key-b6e8bacf9ef24e8d70a9456edc32bc19]
+## 41. Meaning of qualified auditor[^c-b6e8bacf9ef24e8d70a9456edc32bc19]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In this Act qualified auditor means a person eligible for appointment as a statu
 
 ## Annotations
 
-[^key-b6e8bacf9ef24e8d70a9456edc32bc19]: Textual amendment: S. 41 substituted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/51)
+[^c-b6e8bacf9ef24e8d70a9456edc32bc19]: Textual amendment: S. 41 substituted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/51)

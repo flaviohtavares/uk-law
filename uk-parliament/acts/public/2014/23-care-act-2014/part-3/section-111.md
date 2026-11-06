@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Co-ordinating and promoting regulatory practice etc.[^key-c0ebdef4730578c50beaf3ba7e7a5a57]
+## 111. Co-ordinating and promoting regulatory practice etc.[^c-c0ebdef4730578c50beaf3ba7e7a5a57]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 - (a) the Secretary of State;
 - (b) the licensing authority for the purposes of the Medicines Act 1968;
-- (c)[^key-1983c09766dc36e63a48589aa9ddaefa] NHS England, but only insofar as its functions relating to health or social care research are relevant data functions (as defined by section 253(3) of the Health and Social Care Act 2012);
-- (d) the Chief Medical Officer of the Department of Health and Social Care[^key-27d2f2cc78233d14a875aaf0a5c0a57a];
+- (c)[^c-1983c09766dc36e63a48589aa9ddaefa] NHS England, but only insofar as its functions relating to health or social care research are relevant data functions (as defined by section 253(3) of the Health and Social Care Act 2012);
+- (d) the Chief Medical Officer of the Department of Health and Social Care[^c-27d2f2cc78233d14a875aaf0a5c0a57a];
 - (e) the Human Fertilisation and Embryology Authority;
 - (f) the Human Tissue Authority;
 - (g) the Care Quality Commission;
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c0ebdef4730578c50beaf3ba7e7a5a57]: Commencement: S. 111 in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/c)
+[^c-c0ebdef4730578c50beaf3ba7e7a5a57]: Commencement: S. 111 in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(c)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/c)
 
-[^key-1983c09766dc36e63a48589aa9ddaefa]: Textual amendment: [S. 111(1)(c)](https://www.legislation.gov.uk/ukpga/2014/23/section/111/1/c) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-1983c09766dc36e63a48589aa9ddaefa]: Textual amendment: [S. 111(1)(c)](https://www.legislation.gov.uk/ukpga/2014/23/section/111/1/c) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 18(2)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/18/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-27d2f2cc78233d14a875aaf0a5c0a57a]: Textual amendment: Words in s. 111(1)(d) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/16) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-27d2f2cc78233d14a875aaf0a5c0a57a]: Textual amendment: Words in s. 111(1)(d) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 16](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/16) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))

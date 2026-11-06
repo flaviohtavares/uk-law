@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Reports by Chief Constable to Secretary of State and Minister of Justice .[^key-787b0afae8a78329c2cbd1a3765ef7b3]
+## 61. Reports by Chief Constable to Secretary of State and Minister of Justice .[^c-787b0afae8a78329c2cbd1a3765ef7b3]
 
 *Extent: N.I.*
 
-(1) The Chief Constable shall, whenever so required by the appropriate authority[^key-8f83028b669120d4ca2183d359ec1be5], submit to the appropriate authority a report on such matters connected with the policing of Northern Ireland as may be specified in the requirement.
+(1) The Chief Constable shall, whenever so required by the appropriate authority[^c-8f83028b669120d4ca2183d359ec1be5], submit to the appropriate authority a report on such matters connected with the policing of Northern Ireland as may be specified in the requirement.
 
-(1A)[^key-6cc1f356c52fb6c2538ffe12f5d9aa01] In this section “the appropriate authority” means, in relation to any matter—
+(1A)[^c-6cc1f356c52fb6c2538ffe12f5d9aa01] In this section “the appropriate authority” means, in relation to any matter—
 
 - (a) the Secretary of State, if the matter relates (in whole or in part other than incidentally) to an excepted matter or reserved matter or to a function conferred or imposed on the Secretary of State by or under a statutory provision;
 - (b) otherwise, the Minister of Justice;
@@ -32,11 +32,11 @@ and in paragraph (a) “excepted matter” and “reserved matter” have the me
 (2) A report under subsection (1) shall be made—
 
 - (a) in such form as may be specified in the requirement under that subsection; and
-- (b) within the period of one month from the date on which that requirement is made, or within such longer period as may be agreed between the Chief Constable and the appropriate authority[^key-e2c6482c33a114ab88f4c843d2b4bd4a].
+- (b) within the period of one month from the date on which that requirement is made, or within such longer period as may be agreed between the Chief Constable and the appropriate authority[^c-e2c6482c33a114ab88f4c843d2b4bd4a].
 
-(3) The appropriate authority[^key-b83f8d929ec42ce83d76cab019d72dd2] may arrange, or require the Chief Constable to arrange, for a report under subsection (1) to be published in such manner as appears to the appropriate authority to be appropriate.
+(3) The appropriate authority[^c-b83f8d929ec42ce83d76cab019d72dd2] may arrange, or require the Chief Constable to arrange, for a report under subsection (1) to be published in such manner as appears to the appropriate authority to be appropriate.
 
-(4)[^key-1d11f9cd6772e33bb063478889636639] If it appears to the Chief Constable that a report that the Chief Constable is required to submit under subsection (1) to the Minister of Justice may contain information which, in the opinion of the Chief Constable, ought not to be disclosed on the ground mentioned in section 76A(1)(a), the Chief Constable may refer the report to the Secretary of State.
+(4)[^c-1d11f9cd6772e33bb063478889636639] If it appears to the Chief Constable that a report that the Chief Constable is required to submit under subsection (1) to the Minister of Justice may contain information which, in the opinion of the Chief Constable, ought not to be disclosed on the ground mentioned in section 76A(1)(a), the Chief Constable may refer the report to the Secretary of State.
 
 (5) If it appears to the Secretary of State that—
 
@@ -81,14 +81,14 @@ notify the Chief Constable whether, in the opinion of the Secretary of State, th
 
 ## Annotations
 
-[^key-787b0afae8a78329c2cbd1a3765ef7b3]: Textual amendment: Words in s. 61 heading inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-787b0afae8a78329c2cbd1a3765ef7b3]: Textual amendment: Words in s. 61 heading inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(5)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/5) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-8f83028b669120d4ca2183d359ec1be5]: Textual amendment: Words in s. 61(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-8f83028b669120d4ca2183d359ec1be5]: Textual amendment: Words in s. 61(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-6cc1f356c52fb6c2538ffe12f5d9aa01]: Textual amendment: S. 61(1A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6cc1f356c52fb6c2538ffe12f5d9aa01]: Textual amendment: S. 61(1A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-e2c6482c33a114ab88f4c843d2b4bd4a]: Textual amendment: Words in s. 61(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e2c6482c33a114ab88f4c843d2b4bd4a]: Textual amendment: Words in s. 61(2) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-b83f8d929ec42ce83d76cab019d72dd2]: Textual amendment: Words in s. 61(3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-b83f8d929ec42ce83d76cab019d72dd2]: Textual amendment: Words in s. 61(3) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-1d11f9cd6772e33bb063478889636639]: Textual amendment: S. 61(4)-(12) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-1d11f9cd6772e33bb063478889636639]: Textual amendment: S. 61(4)-(12) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 76(4)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/76/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

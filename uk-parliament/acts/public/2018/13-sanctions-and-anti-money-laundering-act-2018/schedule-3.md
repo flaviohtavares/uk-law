@@ -26,7 +26,7 @@ Section 59(4) and (5)
 
 #### Immigration Act 1971 (c. 77)
 
-**1.**[^key-ce51a53d68843eb20104d0e5f2c842de] (1) Section 8B of the Immigration Act 1971 (persons excluded from the United Kingdom under international obligations) is amended as follows.
+**1.**[^c-ce51a53d68843eb20104d0e5f2c842de] (1) Section 8B of the Immigration Act 1971 (persons excluded from the United Kingdom under international obligations) is amended as follows.
 
 (2) In the heading for “international obligations” substitute “ certain instruments ”.
 
@@ -45,7 +45,7 @@ Section 59(4) and (5)
 
 #### Senior Courts Act 1981 (c. 54)
 
-**2.**[^key-923d014dc026feee158b40953f8e05dd] In paragraph 2 of Schedule 1 to the Senior Courts Act 1981 (business allocated to the Queen's Bench Division), after sub-paragraph (be) insert—
+**2.**[^c-923d014dc026feee158b40953f8e05dd] In paragraph 2 of Schedule 1 to the Senior Courts Act 1981 (business allocated to the Queen's Bench Division), after sub-paragraph (be) insert—
 
 > - (bf) all proceedings—
 >   - (i) on an application under section 38 of the Sanctions and Anti-Money Laundering Act 2018 (court review of decisions), or
@@ -53,7 +53,7 @@ Section 59(4) and (5)
 
 #### Regulation of Investigatory Powers Act 2000 (c. 23)
 
-**3.**[^key-0d6b6a61e53db85d4ce73c3cc12ec885] (1) Section 18 of the Regulation of Investigatory Powers Act 2000 (exceptions to matters excluded from legal proceedings) is amended as follows.
+**3.**[^c-0d6b6a61e53db85d4ce73c3cc12ec885] (1) Section 18 of the Regulation of Investigatory Powers Act 2000 (exceptions to matters excluded from legal proceedings) is amended as follows.
 
 (2) In subsection (1), after paragraph (de) insert—
 
@@ -75,13 +75,13 @@ Section 59(4) and (5)
 
 #### Serious Organised Crime and Police Act 2005 (c. 15)
 
-**4.**[^key-3c3f14909799bf1ae7fe98aa97df6950] In section 61(1) of the Serious Organised Crime and Police Act 2005 (offences to which investigatory powers etc apply), after paragraph (i) insert—
+**4.**[^c-3c3f14909799bf1ae7fe98aa97df6950] In section 61(1) of the Serious Organised Crime and Police Act 2005 (offences to which investigatory powers etc apply), after paragraph (i) insert—
 
 > - (j) any offence under regulations under section 1 of the Sanctions and Anti-Money Laundering Act 2018 (sanctions regulations) which is specified by those regulations by virtue of section 17(8) of that Act.
 
 #### Serious Crime Act 2007 (c. 27)
 
-**5.**[^key-03f05d978ddceaadae729e23507ab115] (1) Schedule 1 to the Serious Crime Act 2007 (offences in relation to which a serious crime prevention order may be made) is amended as follows.
+**5.**[^c-03f05d978ddceaadae729e23507ab115] (1) Schedule 1 to the Serious Crime Act 2007 (offences in relation to which a serious crime prevention order may be made) is amended as follows.
 
 (2) In paragraph 13B after sub-paragraph (5) insert—
 
@@ -99,7 +99,7 @@ Section 59(4) and (5)
 
 #### Crime and Courts Act 2013 (c. 22)
 
-**6.**[^key-5568dc36401019f29f4f52835533d587] (1) Part 2 of Schedule 17 to the Crime and Courts Act 2013 (offences in relation to which a deferred prosecution agreement may be entered into) is amended as follows.
+**6.**[^c-5568dc36401019f29f4f52835533d587] (1) Part 2 of Schedule 17 to the Crime and Courts Act 2013 (offences in relation to which a deferred prosecution agreement may be entered into) is amended as follows.
 
 (2) In paragraph 26A, after sub-paragraph (5) insert—
 
@@ -111,7 +111,7 @@ Section 59(4) and (5)
 
 #### Investigatory Powers Act 2016 (c. 25)
 
-**7.**[^key-2d59fd93e59fac7cf2c65c9ea3bf7b90] In Schedule 3 to the Investigatory Powers Act 2016 (exceptions to section 56), after paragraph 9 insert—
+**7.**[^c-2d59fd93e59fac7cf2c65c9ea3bf7b90] In Schedule 3 to the Investigatory Powers Act 2016 (exceptions to section 56), after paragraph 9 insert—
 
 > **Sanctions proceedings**
 >
@@ -131,23 +131,23 @@ Section 59(4) and (5)
 
 #### Policing and Crime Act 2017 (c. 3)
 
-**8.** (1)[^key-f90deed43dd92f77ee8c9cc8cf527958] Part 8 of the Policing and Crime Act 2017 (financial sanctions) is amended as follows.
+**8.** (1)[^c-f90deed43dd92f77ee8c9cc8cf527958] Part 8 of the Policing and Crime Act 2017 (financial sanctions) is amended as follows.
 
-(2)[^key-f90deed43dd92f77ee8c9cc8cf527958] In section 143(4) (meaning of “financial sanctions legislation”) after paragraph (e) insert—
+(2)[^c-f90deed43dd92f77ee8c9cc8cf527958] In section 143(4) (meaning of “financial sanctions legislation”) after paragraph (e) insert—
 
 > - (f) a provision of regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018 that contains a prohibition or requirement imposed for a purpose mentioned in section 3(1) or (2) of that Act.
 
-(3)[^key-f90deed43dd92f77ee8c9cc8cf527958] After section 143(4) insert—
+(3)[^c-f90deed43dd92f77ee8c9cc8cf527958] After section 143(4) insert—
 
 > (4A) But “**financial sanctions legislation**” does not include any provision of regulations made under section 1 of the Sanctions and Anti-Money Laundering Act 2018 which is specified in the regulations as a provision to be regarded as not being financial sanctions legislation for the purposes of this Part.
 
-(4)[^key-6e45378fb84031fca9769cc0eb7fb0d2] Omit sections 152 to 156 (avoidance of delay: temporary regulations).
+(4)[^c-6e45378fb84031fca9769cc0eb7fb0d2] Omit sections 152 to 156 (avoidance of delay: temporary regulations).
 
 ### PART 2 — Repeals etc consequential on repeals in Terrorist Asset-Freezing etc Act 2010
 
 #### Repeals and revocations
 
-**9.**[^key-71e0bf78d3717bc317329fa5e5f9375b] The following provisions are repealed or revoked—
+**9.**[^c-71e0bf78d3717bc317329fa5e5f9375b] The following provisions are repealed or revoked—
 
 <table>
 <tbody>
@@ -171,28 +171,28 @@ Section 59(4) and (5)
 
 #### Consequential amendment
 
-**10.**[^key-619882fddeac24af2acaf738be944c4b] In Schedule 3 to the Investigatory Powers Act 2016 (exceptions to section 56), in paragraph 12, for “neither paragraph 10 nor paragraph 11 permits” substitute “ paragraph 10 does not permit ”.
+**10.**[^c-619882fddeac24af2acaf738be944c4b] In Schedule 3 to the Investigatory Powers Act 2016 (exceptions to section 56), in paragraph 12, for “neither paragraph 10 nor paragraph 11 permits” substitute “ paragraph 10 does not permit ”.
 
 ## Annotations
 
-[^key-ce51a53d68843eb20104d0e5f2c842de]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/1) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-ce51a53d68843eb20104d0e5f2c842de]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/1) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-923d014dc026feee158b40953f8e05dd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/2) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-923d014dc026feee158b40953f8e05dd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/2) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-0d6b6a61e53db85d4ce73c3cc12ec885]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/3) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-0d6b6a61e53db85d4ce73c3cc12ec885]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/3) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-3c3f14909799bf1ae7fe98aa97df6950]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/4) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-3c3f14909799bf1ae7fe98aa97df6950]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/4) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-03f05d978ddceaadae729e23507ab115]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/5) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-03f05d978ddceaadae729e23507ab115]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/5) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-5568dc36401019f29f4f52835533d587]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/6) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-5568dc36401019f29f4f52835533d587]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/6) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-2d59fd93e59fac7cf2c65c9ea3bf7b90]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/7) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-2d59fd93e59fac7cf2c65c9ea3bf7b90]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/7) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-f90deed43dd92f77ee8c9cc8cf527958]: Commencement: [Sch. 3 para. 8(1)-(3)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/8/1) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
+[^c-f90deed43dd92f77ee8c9cc8cf527958]: Commencement: [Sch. 3 para. 8(1)-(3)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/8/1) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/f)
 
-[^key-6e45378fb84031fca9769cc0eb7fb0d2]: Commencement: [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/8/4) in force at 27.5.2021 by [S.I. 2021/628](https://www.legislation.gov.uk/uksi/2021/628), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/628/regulation/2/b)
+[^c-6e45378fb84031fca9769cc0eb7fb0d2]: Commencement: [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/8/4) in force at 27.5.2021 by [S.I. 2021/628](https://www.legislation.gov.uk/uksi/2021/628), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2021/628/regulation/2/b)
 
-[^key-71e0bf78d3717bc317329fa5e5f9375b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) in force at 31.12.2020 for specified purposes by [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)
+[^c-71e0bf78d3717bc317329fa5e5f9375b]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) in force at 31.12.2020 for specified purposes by [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)
 
-[^key-619882fddeac24af2acaf738be944c4b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/f)
+[^c-619882fddeac24af2acaf738be944c4b]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/10) in force at 31.12.2020 by [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/f)

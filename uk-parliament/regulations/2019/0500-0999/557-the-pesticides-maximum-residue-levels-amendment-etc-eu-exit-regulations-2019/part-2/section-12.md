@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Commission Implementing Regulation (EU) 2019/533 concerning a coordinated multiannual control programme of the Union for 2020, 2021 and 2022 to ensure compliance with maximum residue levels of pesticides and to assess the consumer exposure to pesticide residues in and on food of plant and animal origin.[^key-80c81b719aeb21cb06793b774f7e20a6][^key-6c8a742dd3bfde022149a24c6eb2a564]
+## 12. Commission Implementing Regulation (EU) 2019/533 concerning a coordinated multiannual control programme of the Union for 2020, 2021 and 2022 to ensure compliance with maximum residue levels of pesticides and to assess the consumer exposure to pesticide residues in and on food of plant and animal origin.[^c-80c81b719aeb21cb06793b774f7e20a6][^c-6c8a742dd3bfde022149a24c6eb2a564]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80c81b719aeb21cb06793b774f7e20a6]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-80c81b719aeb21cb06793b774f7e20a6]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-6c8a742dd3bfde022149a24c6eb2a564]: Textual amendment: Pt. 2 Ch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(7)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/7)
+[^c-6c8a742dd3bfde022149a24c6eb2a564]: Textual amendment: Pt. 2 Ch. 2 substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(7)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/7)

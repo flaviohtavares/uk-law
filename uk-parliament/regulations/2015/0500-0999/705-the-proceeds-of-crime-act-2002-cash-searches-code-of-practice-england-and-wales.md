@@ -42,28 +42,28 @@ Coming into force
 
 1st June 2015
 
-[^key-032c761953ddaa75f03d64aa6353bc8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-032c761953ddaa75f03d64aa6353bc8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-032c761953ddaa75f03d64aa6353bc8d]
+## 1. Citation, commencement and extent[^c-032c761953ddaa75f03d64aa6353bc8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised Code of Practice[^key-032c761953ddaa75f03d64aa6353bc8d]
+## 2. Revised Code of Practice[^c-032c761953ddaa75f03d64aa6353bc8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exercise of powers at time of coming into operation[^key-032c761953ddaa75f03d64aa6353bc8d]
+## 3. Exercise of powers at time of coming into operation[^c-032c761953ddaa75f03d64aa6353bc8d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-032c761953ddaa75f03d64aa6353bc8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-032c761953ddaa75f03d64aa6353bc8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-032c761953ddaa75f03d64aa6353bc8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-032c761953ddaa75f03d64aa6353bc8d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-032c761953ddaa75f03d64aa6353bc8d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/705) revoked (1.3.2016) by [The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order 2016 (S.I. 2016/208)](https://www.legislation.gov.uk/uksi/2016/208), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/208/article/3/c)
+[^c-032c761953ddaa75f03d64aa6353bc8d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/705) revoked (1.3.2016) by [The Proceeds of Crime Act 2002 (Cash Searches: Code of Practice) Order 2016 (S.I. 2016/208)](https://www.legislation.gov.uk/uksi/2016/208), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/208/article/3/c)

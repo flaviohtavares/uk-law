@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) An entity which is not a member of a joint venture group[^key-a8d0983de068d500beae8737aa608fee] is qualifying for an accounting period if it is not a DTT excluded entity [^key-414c70bf8b90a8f4cc850fdd35fd2cc5]..., it meets condition A for that period and—
+(1) An entity which is not a member of a joint venture group[^c-a8d0983de068d500beae8737aa608fee] is qualifying for an accounting period if it is not a DTT excluded entity [^c-414c70bf8b90a8f4cc850fdd35fd2cc5]..., it meets condition A for that period and—
 
 - (a) if it is not a member of a group, it meets condition B for that period, or
 - (b) if it is a member of a group, it meets condition C for that period.
 
-(1A)[^key-5cc2f8dad1869813e6dc3243ea50b980] A member of a joint venture group is a qualifying entity for an accounting period if—
+(1A)[^c-5cc2f8dad1869813e6dc3243ea50b980] A member of a joint venture group is a qualifying entity for an accounting period if—
 
 - (a) the member is not a DTT excluded entity,
 - (b) the member meets condition A for that period, and
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a8d0983de068d500beae8737aa608fee]: Textual amendment: Words in s. 266(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 41(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/41/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-a8d0983de068d500beae8737aa608fee]: Textual amendment: Words in s. 266(1) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 41(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/41/2), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-414c70bf8b90a8f4cc850fdd35fd2cc5]: Textual amendment: Words in s. 266(1) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 43(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/43/2)
+[^c-414c70bf8b90a8f4cc850fdd35fd2cc5]: Textual amendment: Words in s. 266(1) omitted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 43(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/43/2)
 
-[^key-5cc2f8dad1869813e6dc3243ea50b980]: Textual amendment: S. 266(1A)(1B) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 41(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/41/3), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-5cc2f8dad1869813e6dc3243ea50b980]: Textual amendment: S. 266(1A)(1B) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 41(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/41/3), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

@@ -27,7 +27,7 @@ summary: ''
   - (ii) its functions under or by virtue of Part III of that Act (control of pollution of water resources);
   - (iii) its functions under or by virtue of Part IV of that Act (flood defence) and the [^c14535801]Land Drainage Act 1991 and the functions transferred to the Authority by virtue of section 136(8) of the [^c14535811]Water Act 1989 and paragraph 1(3) of Schedule 15 to that Act (transfer of land drainage functions under local statutory provisions and subordinate legislation);
   - (iv) its functions under or by virtue of Part VII of the 1991 Act (land and works powers);
-  - (v) its functions under or by virtue of [^key-5d9f2cf222f0b87591a702467b266be8]... the [^c14535831]Sea Fisheries Regulation Act 1966, the [^c14535841]Salmon and Freshwater Fisheries Act 1975, Part V of the 1991 Act or any other enactment relating to fisheries;
+  - (v) its functions under or by virtue of [^c-5d9f2cf222f0b87591a702467b266be8]... the [^c14535831]Sea Fisheries Regulation Act 1966, the [^c14535841]Salmon and Freshwater Fisheries Act 1975, Part V of the 1991 Act or any other enactment relating to fisheries;
   - (vi) the functions as a navigation authority, harbour authority or conservancy authority which were transferred to the Authority by virtue of Chapter V of Part III of the [^c14535851]Water Act 1989 or paragraph 23(3) of Schedule 13 to that Act or which have been transferred to the Authority by any order or agreement under Schedule 2 to the 1991 Act;
   - (vii) its functions under Schedule 2 to the 1991 Act;
   - (viii) the functions assigned to the Authority by or under any other enactment, apart from this Act;
@@ -51,7 +51,7 @@ summary: ''
 - (d) so far as exercisable in relation to England and Wales, his functions under, or under regulations made by virtue of, section 9 of the 1906 Act (registration of works), other than any functions of his as an appellate authority or any function of making regulations;
 - (e) so far as exercisable in relation to England and Wales, his functions under regulations 7(1) and 8(2) of, and paragraph 2(2)(c) of Schedule 2 to, the [^c14535941]Sludge (Use in Agriculture) Regulations 1989 (which relate to the provision of information and the testing of soil).
 
-(3)[^key-b6a49eff07d7e296033dc05c2b3af737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b6a49eff07d7e296033dc05c2b3af737] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -61,7 +61,7 @@ summary: ''
 
 [^c14535811]: Marginal citation: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15).
 
-[^key-5d9f2cf222f0b87591a702467b266be8]: Textual amendment: Words in s. 2(1)(a)(v) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/9/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2)) and words in s. 2(1)(a)(v) omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/9/a) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
+[^c-5d9f2cf222f0b87591a702467b266be8]: Textual amendment: Words in s. 2(1)(a)(v) omitted (E.W.) (27.3.2009) by virtue of [The Aquatic Animal Health (England and Wales) Regulations 2009 (S.I. 2009/463)](https://www.legislation.gov.uk/uksi/2009/463), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/1/2), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2009/463/schedule/2/paragraph/9/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2009/463/regulation/2/2)) and words in s. 2(1)(a)(v) omitted (S.) (27.3.2009) by virtue of [The Aquatic Animal Health (Scotland) Regulations 2009 (S.S.I. 2009/85)](https://www.legislation.gov.uk/ssi/2009/85), [reg. 1(2)(c)](https://www.legislation.gov.uk/ssi/2009/85/regulation/1/2/c), [sch. 2 para. 9(a)](https://www.legislation.gov.uk/ssi/2009/85/schedule/2/paragraph/9/a) (with [reg. 2.](https://www.legislation.gov.uk/ssi/2009/85/regulation/2.))
 
 [^c14535831]: Marginal citation: [1966 c. 38](https://www.legislation.gov.uk/ukpga/1966/38).
 
@@ -87,4 +87,4 @@ summary: ''
 
 [^c14535941]: Marginal citation: [S.I. 1989/1263](https://www.legislation.gov.uk/uksi/1989/1263).
 
-[^key-b6a49eff07d7e296033dc05c2b3af737]: Textual amendment: S. 2(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-b6a49eff07d7e296033dc05c2b3af737]: Textual amendment: S. 2(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)

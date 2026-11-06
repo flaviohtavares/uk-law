@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Form of appropriate declaration at solemnisation of a marriage[^key-5be09574e207027acdaf8b3966838894]
+## 4. Form of appropriate declaration at solemnisation of a marriage[^c-5be09574e207027acdaf8b3966838894]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In each of Articles 19(3) and 25 of the Marriage (Northern Ireland) Order 2003 (
 
 ## Annotations
 
-[^key-5be09574e207027acdaf8b3966838894]: Commencement: Reg. 4 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-5be09574e207027acdaf8b3966838894]: Commencement: Reg. 4 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

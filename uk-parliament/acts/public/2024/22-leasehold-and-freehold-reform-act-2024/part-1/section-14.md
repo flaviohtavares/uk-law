@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Redress: application of the right to acquire[^key-e280a03dc4a528f8fef6d34d55b16d65]
+## 14. Redress: application of the right to acquire[^c-e280a03dc4a528f8fef6d34d55b16d65]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e280a03dc4a528f8fef6d34d55b16d65]: Commencement: S. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e280a03dc4a528f8fef6d34d55b16d65]: Commencement: S. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

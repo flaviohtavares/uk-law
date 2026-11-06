@@ -42,225 +42,225 @@ Coming into operation
 
 [^c22386151][^c22386161]The Department of the Environment is a designated Department for the purposes of section 2(2) of the European Communities Act 1972 , in relation to the environment.
 
-The Department of the Environment makes the following regulations in exercise of the powers conferred on it by that section and having taken into account the selection criteria in Annex III to Council Directive 2011/92/EU [^c22386171].[^key-3d1410f5a2a1610e6225b8cd7a7c576e]
+The Department of the Environment makes the following regulations in exercise of the powers conferred on it by that section and having taken into account the selection criteria in Annex III to Council Directive 2011/92/EU [^c22386171].[^c-3d1410f5a2a1610e6225b8cd7a7c576e]
 
-## PART 1 — General[^key-4edfb142053d7d782e4807e5e23f891b]
-
-**No longer in force.**
-
-### 1. Citation and commencement[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Directions[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Prohibition on the grant of planning permission or subsequent consent without consideration of environmental information[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Confirmation that development is EIA development[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Appeals under Section 58 or Section 60 of the 2011 Act[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Pre-Application Procedures[^key-4edfb142053d7d782e4807e5e23f891b]
+## PART 1 — General[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 7. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+### 1. Citation and commencement[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Preparation of Environmental Statements[^key-4edfb142053d7d782e4807e5e23f891b]
+### 2. Interpretation[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 3. Directions[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 4. Prohibition on the grant of planning permission or subsequent consent without consideration of environmental information[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Confirmation that development is EIA development[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. Appeals under Section 58 or Section 60 of the 2011 Act[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 2 — Pre-Application Procedures[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 8. Procedure to facilitate preparation of environmental statements[^key-4edfb142053d7d782e4807e5e23f891b]
+### 7. Pre-application determination as to need for environmental impact assessment and opinion as to content of environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Provision of information[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — Procedures on Receipt of Application[^key-4edfb142053d7d782e4807e5e23f891b]
+## PART 3 — Preparation of Environmental Statements[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 10. Applications made to the council which appear to require determination as to need for environmental impact assessment[^key-4edfb142053d7d782e4807e5e23f891b]
+### 8. Procedure to facilitate preparation of environmental statements[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Applications made to the Department which appear to require determination as to need for environmental impact assessment[^key-4edfb142053d7d782e4807e5e23f891b]
+### 9. Provision of information[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Subsequent applications made to the council where environmental information previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Subsequent applications made to the Department where environmental information previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 14. Subsequent applications made to the council where environmental information not previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 15. Subsequent applications made to the Department where environmental information not previously provided[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 16. Application made to the council without an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 17. Application made to the Department without an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 18. Application referred to the Department without an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 19. Extension of the period for council's or Department's decision on an application for planning permission or subsequent application[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 5 — Publicity[^key-4edfb142053d7d782e4807e5e23f891b]
+## PART 4 — Procedures on Receipt of Application[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 20. Publicity where an environmental statement is submitted[^key-4edfb142053d7d782e4807e5e23f891b]
+### 10. Applications made to the council which appear to require determination as to need for environmental impact assessment[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Availability of copies of environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+### 11. Applications made to the Department which appear to require determination as to need for environmental impact assessment[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Consultation where environmental statement submitted[^key-4edfb142053d7d782e4807e5e23f891b]
+### 12. Subsequent applications made to the council where environmental information previously provided[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Further information and evidence relating to environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
+### 13. Subsequent applications made to the Department where environmental information previously provided[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Charges[^key-4edfb142053d7d782e4807e5e23f891b]
+### 14. Subsequent applications made to the council where environmental information not previously provided[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Duty to inform the public of decisions[^key-4edfb142053d7d782e4807e5e23f891b]
+### 15. Subsequent applications made to the Department where environmental information not previously provided[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Development by a council[^key-4edfb142053d7d782e4807e5e23f891b]
+### 16. Application made to the council without an environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 17. Application made to the Department without an environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 18. Application referred to the Department without an environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 19. Extension of the period for council's or Department's decision on an application for planning permission or subsequent application[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 5 — Publicity[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 26. Modifications where application is by a council[^key-4edfb142053d7d782e4807e5e23f891b]
+### 20. Publicity where an environmental statement is submitted[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Development likely to Affect Other EEA states[^key-4edfb142053d7d782e4807e5e23f891b]
+### 21. Availability of copies of environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 22. Consultation where environmental statement submitted[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 23. Further information and evidence relating to environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 24. Charges[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 25. Duty to inform the public of decisions[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 6 — Development by a council[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 27. Development in Northern Ireland likely to have significant effects on the environment in another EEA state[^key-4edfb142053d7d782e4807e5e23f891b]
+### 26. Modifications where application is by a council[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Projects in another EEA state likely to have significant transboundary effects[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 8 — Unauthorised Development[^key-4edfb142053d7d782e4807e5e23f891b]
+## PART 7 — Development likely to Affect Other EEA states[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 29. Interpretation of Part 8[^key-4edfb142053d7d782e4807e5e23f891b]
+### 27. Development in Northern Ireland likely to have significant effects on the environment in another EEA state[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Prohibition on the grant of planning permission for unauthorised development[^key-4edfb142053d7d782e4807e5e23f891b]
+### 28. Projects in another EEA state likely to have significant transboundary effects[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Determination as to need for environmental statement, etc.[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 32. Time period for submission of environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 33. Provision of information[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 34. Procedure where the Commission receives an environmental statement[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 35. Further information and evidence respecting environmental statements[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 36. Publicity for environmental statements and decisions[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 37. Involvement of other EEA states[^key-4edfb142053d7d782e4807e5e23f891b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 9 — Permission in Enterprise and Simplified Planning Zones and Permission Granted by Development Orders[^key-4edfb142053d7d782e4807e5e23f891b]
+## PART 8 — Unauthorised Development[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
-### 38. Restrictions on grant of permission by old enterprise zone schemes[^key-4edfb142053d7d782e4807e5e23f891b]
+### 29. Interpretation of Part 8[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes[^key-4edfb142053d7d782e4807e5e23f891b]
+### 30. Prohibition on the grant of planning permission for unauthorised development[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Development Orders[^key-4edfb142053d7d782e4807e5e23f891b]
+### 31. Determination as to need for environmental statement, etc.[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 32. Time period for submission of environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 33. Provision of information[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 34. Procedure where the Commission receives an environmental statement[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 35. Further information and evidence respecting environmental statements[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 36. Publicity for environmental statements and decisions[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 37. Involvement of other EEA states[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 9 — Permission in Enterprise and Simplified Planning Zones and Permission Granted by Development Orders[^c-4edfb142053d7d782e4807e5e23f891b]
+
+**No longer in force.**
+
+### 38. Restrictions on grant of permission by old enterprise zone schemes[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 39. Restrictions on the grant of permission by simplified planning zone schemes and enterprise zone schemes[^c-4edfb142053d7d782e4807e5e23f891b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Development Orders[^c-4edfb142053d7d782e4807e5e23f891b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 10 — Miscellaneous
 
-### 41. Availability of information in relation to determinations, opinions, decisions, etc.[^key-4edfb142053d7d782e4807e5e23f891b]
+### 41. Availability of information in relation to determinations, opinions, decisions, etc.[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Hearing by the Commission in relation to the council's or Department's determination[^key-4edfb142053d7d782e4807e5e23f891b]
+### 42. Hearing by the Commission in relation to the council's or Department's determination[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Use of electronic communications[^key-4edfb142053d7d782e4807e5e23f891b]
+### 43. Use of electronic communications[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Application to the Crown[^key-4edfb142053d7d782e4807e5e23f891b]
+### 44. Application to the Crown[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
@@ -268,9 +268,9 @@ The Department of the Environment makes the following regulations in exercise of
 
 ### 45. Revocation, saving and transitional provisions
 
-(1)[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Regulations specified in paragraph (4) which continued to apply by virtue of Regulation 40 of the 2012 Regulations (as that regulation had effect immediately before the coming into operation of these Regulations) in respect of the matters specified in paragraph 2(a) to (c) of that regulation shall continue to have effect in relation to those matters subject to the amendments specified in Schedule 5; and anything done by, to or in relation to the Department in connection with its functions under those Regulations shall be treated as if it had been done by, to or in relation to the council or, as the case may be, the Department in connection with its functions under those Regulations as amended by Schedule 5.
 
@@ -281,7 +281,7 @@ The Department of the Environment makes the following regulations in exercise of
 - (c) the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2008 [^c22386351]; and
 - (d) the Planning (Environmental Impact Assessment) (Amendment No. 2) Regulations (Northern Ireland) 2008 [^c22386361].
 
-(5)[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of the Environment on 25th February 2015
 
@@ -291,7 +291,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — Descriptions of development for the purposes of the definition of “Schedule 1 development”[^key-4edfb142053d7d782e4807e5e23f891b]
+## SCHEDULE 1 — Descriptions of development for the purposes of the definition of “Schedule 1 development”[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
@@ -305,17 +305,17 @@ Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”[^key-4edfb142053d7d782e4807e5e23f891b]
+## SCHEDULE 2 — Descriptions of development and applicable thresholds and criteria for the purposes of the definition of “Schedule 2 development”[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
 Regulation 2(2)
 
-**1.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Selection criteria referred to in Article 4.3 of the Directive[^key-4edfb142053d7d782e4807e5e23f891b]
+## SCHEDULE 3 — Selection criteria referred to in Article 4.3 of the Directive[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
@@ -333,39 +333,39 @@ Regulation 2(2) definition of “selection criteria”
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Matters for Inclusion in Environmental Statement[^key-4edfb142053d7d782e4807e5e23f891b]
+## SCHEDULE 4 — Matters for Inclusion in Environmental Statement[^c-4edfb142053d7d782e4807e5e23f891b]
 
 **No longer in force.**
 
 Regulation 2 (2) – definitionof “environmental statement”
 
-### PART 1[^key-4edfb142053d7d782e4807e5e23f891b]
+### PART 1[^c-4edfb142053d7d782e4807e5e23f891b]
 
-**1.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-4edfb142053d7d782e4807e5e23f891b]
+### PART 2[^c-4edfb142053d7d782e4807e5e23f891b]
 
-**1.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4edfb142053d7d782e4807e5e23f891b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 5 — Saving and transitional provisions
 
@@ -814,9 +814,9 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^c22386171]: Marginal citation: O.J. No.L 26. 28.1.2012, p.1
 
-[^key-3d1410f5a2a1610e6225b8cd7a7c576e]: Modification: Rule amendment to earlier revoking in part SR 2017/83, reg. 48 (27.3.2019) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/24)](https://www.legislation.gov.uk/nisr/2019/24), [reg. 3](https://www.legislation.gov.uk/nisr/2019/24/regulation/3)
+[^c-3d1410f5a2a1610e6225b8cd7a7c576e]: Modification: Rule amendment to earlier revoking in part SR 2017/83, reg. 48 (27.3.2019) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/24)](https://www.legislation.gov.uk/nisr/2019/24), [reg. 3](https://www.legislation.gov.uk/nisr/2019/24/regulation/3)
 
-[^key-4edfb142053d7d782e4807e5e23f891b]: Textual amendment: Regulations revoked in part (16.5.2017) by [The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/83)](https://www.legislation.gov.uk/nisr/2017/83), [regs. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1), [48(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/48/1) (with [regs. 47](https://www.legislation.gov.uk/nisr/2017/83/regulation/47), [48(2)-(4)](https://www.legislation.gov.uk/nisr/2017/83/regulation/48/2)) (as amended by [S.I. 2018/1235](https://www.legislation.gov.uk/uksi/2018/1235), [reg. 5](https://www.legislation.gov.uk/uksi/2018/1235/regulation/5))
+[^c-4edfb142053d7d782e4807e5e23f891b]: Textual amendment: Regulations revoked in part (16.5.2017) by [The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/83)](https://www.legislation.gov.uk/nisr/2017/83), [regs. 1](https://www.legislation.gov.uk/nisr/2017/83/regulation/1), [48(1)](https://www.legislation.gov.uk/nisr/2017/83/regulation/48/1) (with [regs. 47](https://www.legislation.gov.uk/nisr/2017/83/regulation/47), [48(2)-(4)](https://www.legislation.gov.uk/nisr/2017/83/regulation/48/2)) (as amended by [S.I. 2018/1235](https://www.legislation.gov.uk/uksi/2018/1235), [reg. 5](https://www.legislation.gov.uk/uksi/2018/1235/regulation/5))
 
 [^c22386331]: Marginal citation: S.R. 1999. No. 73
 

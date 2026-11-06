@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Call out for certain purposes.[^key-8eeb3e4752088d5772cc6c59001b1881]
+## 56. Call out for certain purposes.[^c-8eeb3e4752088d5772cc6c59001b1881]
 
 *Extent: E+W+S+N.I.*
 
-(1B)[^key-30f921065f0853cbfa56b7bd6e054321] The Secretary of State may make an order under this section authorising the calling out of members of a reserve force if it appears to the Secretary of State that it is necessary or desirable to use members of a reserve force for any purpose for which members of the regular services may be used.
+(1B)[^c-30f921065f0853cbfa56b7bd6e054321] The Secretary of State may make an order under this section authorising the calling out of members of a reserve force if it appears to the Secretary of State that it is necessary or desirable to use members of a reserve force for any purpose for which members of the regular services may be used.
 
 (2) A call-out order under this section—
 
@@ -47,6 +47,6 @@ shall not affect the operation of any call-out notice served on any person befor
 
 ## Annotations
 
-[^key-8eeb3e4752088d5772cc6c59001b1881]: Textual amendment: Word in s. 56 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/5), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-8eeb3e4752088d5772cc6c59001b1881]: Textual amendment: Word in s. 56 heading substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/5), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-30f921065f0853cbfa56b7bd6e054321]: Textual amendment: S. 56(1B) substituted for s. 56(1)(1A) (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-30f921065f0853cbfa56b7bd6e054321]: Textual amendment: S. 56(1B) substituted for s. 56(1)(1A) (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [ss. 45(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/45/4), [50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/4), [Sch. 7 para. 12(3)](https://www.legislation.gov.uk/ukpga/2014/20/schedule/7/paragraph/12/3)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

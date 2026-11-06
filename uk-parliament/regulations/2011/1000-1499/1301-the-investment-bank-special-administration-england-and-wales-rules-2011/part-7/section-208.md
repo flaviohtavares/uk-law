@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Notice of resignation[^key-5122c06660e547def9ce3b3756f75dd4]
+## 208. Notice of resignation[^c-5122c06660e547def9ce3b3756f75dd4]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5122c06660e547def9ce3b3756f75dd4]: Commencement: [Rule 208](https://www.legislation.gov.uk/uksi/2011/1301/rule/208) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-5122c06660e547def9ce3b3756f75dd4]: Commencement: [Rule 208](https://www.legislation.gov.uk/uksi/2011/1301/rule/208) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 71. Assembly’s default power[^key-39336b5ca153352452ad85384b345200]
+## 71. Assembly’s default power[^c-39336b5ca153352452ad85384b345200]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39336b5ca153352452ad85384b345200]: Commencement: S. 71 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/i)
+[^c-39336b5ca153352452ad85384b345200]: Commencement: S. 71 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(i)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/i)

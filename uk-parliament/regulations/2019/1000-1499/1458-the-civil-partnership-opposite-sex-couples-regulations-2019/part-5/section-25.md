@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Applications on alternative ground: evidence about civil partnership[^key-070686dfd3a30e5dd43eaf09ace1a218]
+## 25. Applications on alternative ground: evidence about civil partnership[^c-070686dfd3a30e5dd43eaf09ace1a218]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-070686dfd3a30e5dd43eaf09ace1a218]: Commencement: Reg. 25 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-070686dfd3a30e5dd43eaf09ace1a218]: Commencement: Reg. 25 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00047]: Footnote: Section 3B was added by the Marriage (Same Sex Couples) Act 2013, Schedule 5, paragraph 19.

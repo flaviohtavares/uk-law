@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.61. Limited disclosure[^key-546dd858bb5010c7a2189b93e1643517]
+## 6.61. Limited disclosure[^c-546dd858bb5010c7a2189b93e1643517]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-546dd858bb5010c7a2189b93e1643517]: Commencement: [Rule 6.61](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.61) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-546dd858bb5010c7a2189b93e1643517]: Commencement: [Rule 6.61](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.61) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

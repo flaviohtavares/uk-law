@@ -26,7 +26,7 @@ summary: ''
 
 3. Where a customs authority revokes a favourable decision which has been taken on the basis of the status of AEO, it shall notify the customs authority which granted the status.
 
-4. Where the AEOS is a regulated agent or a known consignor as defined in regulation 2 of the Aviation Security (Air Cargo Agents) Regulations 2024[^key-88d4c7e484ae22a3edddb3db4ec1d008], the competent customs authority may[^key-8d27bb235eddfa6d54612defec24e0d0] make available to the appropriate national authority responsible for civil aviation security the following [^key-8ee205cd71fea4189f5dd6e992fbdd77]... information related to the AEO status which it has at its disposal:
+4. Where the AEOS is a regulated agent or a known consignor as defined in regulation 2 of the Aviation Security (Air Cargo Agents) Regulations 2024[^c-88d4c7e484ae22a3edddb3db4ec1d008], the competent customs authority may[^c-8d27bb235eddfa6d54612defec24e0d0] make available to the appropriate national authority responsible for civil aviation security the following [^c-8ee205cd71fea4189f5dd6e992fbdd77]... information related to the AEO status which it has at its disposal:
 
 - (a) the AEOS authorisation, including the name of the holder of the authorisation and, where applicable, its amendment or revocation or the suspension of the status of authorised economic operator and the reasons therefor;
 - (b) information about whether the specific site concerned has been visited by customs authorities, the date of the last visit, and whether the visit took place with a view to the authorisation process, re-assessment or monitoring;
@@ -38,8 +38,8 @@ The national authorities responsible for civil aviation security handling the in
 
 ## Annotations
 
-[^key-88d4c7e484ae22a3edddb3db4ec1d008]: Textual amendment: Words in Art. 35(4) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2026/604/regulation/3/3/a)
+[^c-88d4c7e484ae22a3edddb3db4ec1d008]: Textual amendment: Words in Art. 35(4) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2026/604/regulation/3/3/a)
 
-[^key-8d27bb235eddfa6d54612defec24e0d0]: Textual amendment: Word in Art. 35(4) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2026/604/regulation/3/3/b)
+[^c-8d27bb235eddfa6d54612defec24e0d0]: Textual amendment: Word in Art. 35(4) substituted (30.6.2026) by [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2026/604/regulation/3/3/b)
 
-[^key-8ee205cd71fea4189f5dd6e992fbdd77]: Textual amendment: Word in Art. 35(4) omitted (30.6.2026) by virtue of [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2026/604/regulation/3/3/c)
+[^c-8ee205cd71fea4189f5dd6e992fbdd77]: Textual amendment: Word in Art. 35(4) omitted (30.6.2026) by virtue of [The Customs (Safety and Security Procedures) (Amendment) Regulations 2026 (S.I. 2026/604)](https://www.legislation.gov.uk/uksi/2026/604), [regs. 1](https://www.legislation.gov.uk/uksi/2026/604/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2026/604/regulation/3/3/c)

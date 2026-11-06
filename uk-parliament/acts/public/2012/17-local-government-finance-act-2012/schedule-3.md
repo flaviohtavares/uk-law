@@ -416,7 +416,7 @@ Section 5
 
 #### Audit Commission Act 1998 (c. 18)
 
-**31.**[^key-62caddbe83700e53431dd23ac79d58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-62caddbe83700e53431dd23ac79d58ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Local Government Act 2003 (c. 26)
 
@@ -428,4 +428,4 @@ Section 5
 
 ## Annotations
 
-[^key-62caddbe83700e53431dd23ac79d58ae]: Textual amendment: Sch. 3 para. 31 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-62caddbe83700e53431dd23ac79d58ae]: Textual amendment: Sch. 3 para. 31 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Procedure, references etc[^key-98e95ec6082321b765a777a3b86e8c22]
+## 123. Procedure, references etc[^c-98e95ec6082321b765a777a3b86e8c22]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98e95ec6082321b765a777a3b86e8c22]: Commencement: [Reg. 123](https://www.legislation.gov.uk/uksi/2014/2336/regulation/123) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-98e95ec6082321b765a777a3b86e8c22]: Commencement: [Reg. 123](https://www.legislation.gov.uk/uksi/2014/2336/regulation/123) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

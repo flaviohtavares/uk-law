@@ -54,11 +54,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 1 — Introductory
 
-### 1. Citation, extent and commencement[^key-625d7093c3d27d4656047396b00f365e]
+### 1. Citation, extent and commencement[^c-625d7093c3d27d4656047396b00f365e]
 
 These Regulations may be cited as the Contaminants in Food (Scotland) Regulations 2013, extend to Scotland only and come into force on 1st October 2013.
 
-### 2. Interpretation[^key-ec5005371431785e4198b9591af2b675]
+### 2. Interpretation[^c-ec5005371431785e4198b9591af2b675]
 
 (1) In these Regulations —
 
@@ -78,7 +78,7 @@ These Regulations may be cited as the Contaminants in Food (Scotland) Regulation
 
 ## PART 2 — Erucic acid in food
 
-### 3. Scope[^key-80e633ba87ec3b9f91a959bb910d4a21]
+### 3. Scope[^c-80e633ba87ec3b9f91a959bb910d4a21]
 
 (1) This Part applies to—
 
@@ -88,7 +88,7 @@ These Regulations may be cited as the Contaminants in Food (Scotland) Regulation
 
 (2) In paragraph (1) the expressions “infants” and “young children” have the meanings given to them in Article 2 of Commission [Directive 2006/141/EC](https://www.legislation.gov.uk/european/directive/2006/0141) on infant formulae and follow-on formulae and amending [Directive 1999/21/EC](https://www.legislation.gov.uk/european/directive/1999/0021)[^f00011].
 
-### 4. Controls on erucic acid[^key-1e4d78ee01552f74f18edcff4f4d9938]
+### 4. Controls on erucic acid[^c-1e4d78ee01552f74f18edcff4f4d9938]
 
 (1) No person may place on the market, for consumption by the final consumer, a product to which this Part applies in which the level of erucic acid exceeds 5%, calculated on the total level of fatty acids in the fat component.
 
@@ -98,7 +98,7 @@ These Regulations may be cited as the Contaminants in Food (Scotland) Regulation
 
 ## PART 3 — Contaminants in food
 
-### 5. Controls on contaminants in food[^key-a8544de9318bc3d827bc4d0a7c3975f1]
+### 5. Controls on contaminants in food[^c-a8544de9318bc3d827bc4d0a7c3975f1]
 
 (1) Subject to the transitional arrangements contained in—
 
@@ -106,9 +106,9 @@ These Regulations may be cited as the Contaminants in Food (Scotland) Regulation
 - (b) Article 2 of Regulation 629/2008; or
 - (c) Article 2 of Regulation 165/2010,
 
-a person who contravenes or fails to comply with any of the [^key-2693abeb14b3a27b0cc5b7f256ed8447]... provisions specified in paragraph (2) is guilty of an offence.
+a person who contravenes or fails to comply with any of the [^c-2693abeb14b3a27b0cc5b7f256ed8447]... provisions specified in paragraph (2) is guilty of an offence.
 
-(2) The [^key-2693abeb14b3a27b0cc5b7f256ed8447]... provisions are—
+(2) The [^c-2693abeb14b3a27b0cc5b7f256ed8447]... provisions are—
 
 - (a) Article 1(1) of Regulation 1881/2006 (prohibition on the placing on the market of certain foodstuffs containing contaminants in excess of prescribed limits), as read with—
   - (i) Article 1(2) (maximum levels applying to edible part of food unless otherwise specified in the Annex);
@@ -121,11 +121,11 @@ a person who contravenes or fails to comply with any of the [^key-2693abeb14b3a2
 
 ## PART 4 — Administration and enforcement
 
-### 6. Penalties[^key-6677a64e4c056b94712d72244b4e7287]
+### 6. Penalties[^c-6677a64e4c056b94712d72244b4e7287]
 
 Anyone convicted of an offence under regulation 4(3) or regulation 5(1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 7. Enforcement and competent authorities[^key-26233c9e1f16a5f3087e3dc5905651fa]
+### 7. Enforcement and competent authorities[^c-26233c9e1f16a5f3087e3dc5905651fa]
 
 (1) It is the duty of each food authority within its area to execute and enforce these Regulations, Regulation 1881/2006 and Regulation 124/2009.
 
@@ -134,7 +134,7 @@ Anyone convicted of an offence under regulation 4(3) or regulation 5(1) is liabl
 - (a) Article 2(2) of Regulation 1881/2006 (justification by food business operators of concentration or dilution factors); and
 - (b) Article 1(1) of Regulation 124/2009 (relating to the duty to investigate the reasons for the contamination).
 
-### 8. Application of various sections of the Food Safety Act 1990[^key-0fd19617b36c82f836ec9eaa5cbca744]
+### 8. Application of various sections of the Food Safety Act 1990[^c-0fd19617b36c82f836ec9eaa5cbca744]
 
 (1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations—
 
@@ -155,7 +155,7 @@ Anyone convicted of an offence under regulation 4(3) or regulation 5(1) is liabl
 
 (2) Subject to paragraph (3), section 9 of the Act (inspection and seizure of suspected food) applies for the purposes of these Regulations as if it read as follows—
 
-> **9.** (1) An authorised officer of a food authority may at all reasonable times inspect any food intended for human consumption which has been placed on the market and subsections (2) to (7) below shall apply where, on such an inspection, it appears to the authorised officer that the placing on the market of any food fails to comply with any of the requirements specified in regulation 4(1) or 5(2) of the Contaminants in Food (Scotland) Regulations 2013 (“the [^key-06e7fade97d785369d8e3f266a089671]... requirements”).
+> **9.** (1) An authorised officer of a food authority may at all reasonable times inspect any food intended for human consumption which has been placed on the market and subsections (2) to (7) below shall apply where, on such an inspection, it appears to the authorised officer that the placing on the market of any food fails to comply with any of the requirements specified in regulation 4(1) or 5(2) of the Contaminants in Food (Scotland) Regulations 2013 (“the [^c-06e7fade97d785369d8e3f266a089671]... requirements”).
 >
 > (2) The authorised officer may either—
 >
@@ -164,14 +164,14 @@ Anyone convicted of an offence under regulation 4(3) or regulation 5(1) is liabl
 >   - (ii) either is not to be removed or is to be removed to a place at which there are facilities to carry out sampling in the manner required by law; or
 > - (b) seize the food and remove it in order to have it dealt with by a sheriff.
 >
-> (3) Where the authorised officer exercises the power conferred by subsection (2)(a) above, that officer shall, as soon as is reasonably practicable and in any event within 21 days, determine whether or not the food complies with the [^key-06e7fade97d785369d8e3f266a089671]... requirements and—
+> (3) Where the authorised officer exercises the power conferred by subsection (2)(a) above, that officer shall, as soon as is reasonably practicable and in any event within 21 days, determine whether or not the food complies with the [^c-06e7fade97d785369d8e3f266a089671]... requirements and—
 >
 > - (a) if satisfied that it does comply, shall forthwith withdraw the notice;
 > - (b) if not so satisfied, shall seize the food and remove it in order to have it dealt with by a sheriff.
 >
-> (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, the officer shall inform the person in charge of the food of the intention to have it dealt with by a sheriff and any person who in connection with any of the [^key-06e7fade97d785369d8e3f266a089671]... requirements might be liable to a prosecution in respect of the food shall, if that person attends before the sheriff by whom the food falls to be dealt with, be entitled to be heard and to call witnesses.
+> (4) Where an authorised officer exercises the powers conferred by subsection (2)(b) or (3)(b) above, the officer shall inform the person in charge of the food of the intention to have it dealt with by a sheriff and any person who in connection with any of the [^c-06e7fade97d785369d8e3f266a089671]... requirements might be liable to a prosecution in respect of the food shall, if that person attends before the sheriff by whom the food falls to be dealt with, be entitled to be heard and to call witnesses.
 >
-> (5) If it appears to a sheriff, on the basis of such evidence as the sheriff considers appropriate in the circumstances, that any food falling to be dealt with under this section fails to comply with any of the [^key-06e7fade97d785369d8e3f266a089671]... requirements the sheriff shall condemn the food and order—
+> (5) If it appears to a sheriff, on the basis of such evidence as the sheriff considers appropriate in the circumstances, that any food falling to be dealt with under this section fails to comply with any of the [^c-06e7fade97d785369d8e3f266a089671]... requirements the sheriff shall condemn the food and order—
 >
 > - (a) the food to be destroyed or to be so disposed of as to prevent it from being used for human consumption; and
 > - (b) any expenses reasonably incurred in connection with the destruction or disposal to be defrayed by the owner of the food.
@@ -186,7 +186,7 @@ Anyone convicted of an offence under regulation 4(3) or regulation 5(1) is liabl
 
 (3) The expressions “authorised officer” and “food authority” which are used in section 9 of the Act so far as it applies for the purposes of these Regulations by virtue of paragraph (2) will, for those purposes, have the meanings that those expressions have in these Regulations.
 
-### 9. Consequential amendment[^key-6979303fe6fa43269bab5f976f3e3a62]
+### 9. Consequential amendment[^c-6979303fe6fa43269bab5f976f3e3a62]
 
 In Schedule 1 to the Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013[^f00015] (provisions to which those Regulations do not apply), for columns 1 and 2 of the entry relating to the Contaminants in Food (Scotland) Regulations 2010[^f00016] substitute—
 
@@ -194,7 +194,7 @@ In Schedule 1 to the Food Safety (Sampling and Qualifications) (Scotland) Regula
 > | --- | --- |
 > | The Contaminants in Food (Scotland) Regulations 2013 (to the extent that a sample falls to be prepared and analysed in accordance with Regulation 1881/2006 as that expression is defined in those Regulations) | [S.S.I. 2013/217](https://www.legislation.gov.uk/ssi/2013/217). |
 
-### 10. Revocations[^key-2ea66022451d74db24031666cc8c6af6]
+### 10. Revocations[^c-2ea66022451d74db24031666cc8c6af6]
 
 The Regulations specified in the Schedule are revoked.
 
@@ -206,7 +206,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE — Revocations[^key-c3fe85db9d19676376019ef489791d9b]
+## SCHEDULE — Revocations[^c-c3fe85db9d19676376019ef489791d9b]
 
 Regulation 10
 
@@ -266,9 +266,9 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00004]: Footnote: OJ L 31, 1.2.2002, p.1. That Regulation was last amended by [Commission Regulation (EC) No 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adopting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council [Decision 1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ L 188, 18.7.2009, p.14).
 
-[^key-625d7093c3d27d4656047396b00f365e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-625d7093c3d27d4656047396b00f365e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
-[^key-ec5005371431785e4198b9591af2b675]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/217/regulation/2) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-ec5005371431785e4198b9591af2b675]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/217/regulation/2) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
 [^f00005]: Footnote: OJ L 202, 28.7.1976, p.35. This Directive was last amended by Council Regulation [(EC) No 807/2003](https://www.legislation.gov.uk/european/regulation/2003/0807) (OJ L 122, 16.5.2003, p.36).
 
@@ -282,21 +282,21 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00010]: Footnote: OJ L 50, 27.2.2010, p.8.
 
-[^key-80e633ba87ec3b9f91a959bb910d4a21]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/217/regulation/3) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-80e633ba87ec3b9f91a959bb910d4a21]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/217/regulation/3) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
 [^f00011]: Footnote: OJ L 401, 30.12.2006, p. 1, amended by [Commission Regulation (EC) No 1243/2008](https://www.legislation.gov.uk/european/regulation/2008/1243) (OJ L 335, 13.12.2008, p.25).
 
-[^key-1e4d78ee01552f74f18edcff4f4d9938]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/217/regulation/4) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-1e4d78ee01552f74f18edcff4f4d9938]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/217/regulation/4) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
-[^key-a8544de9318bc3d827bc4d0a7c3975f1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/217/regulation/5) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-a8544de9318bc3d827bc4d0a7c3975f1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/217/regulation/5) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
-[^key-2693abeb14b3a27b0cc5b7f256ed8447]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2013/217/regulation/5) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2019/52/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2693abeb14b3a27b0cc5b7f256ed8447]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/ssi/2013/217/regulation/5) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [12(2)](https://www.legislation.gov.uk/ssi/2019/52/regulation/12/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6677a64e4c056b94712d72244b4e7287]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/217/regulation/6) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-6677a64e4c056b94712d72244b4e7287]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/217/regulation/6) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
-[^key-26233c9e1f16a5f3087e3dc5905651fa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/217/regulation/7) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-26233c9e1f16a5f3087e3dc5905651fa]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/217/regulation/7) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
-[^key-0fd19617b36c82f836ec9eaa5cbca744]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/217/regulation/8) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-0fd19617b36c82f836ec9eaa5cbca744]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/217/regulation/8) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
 [^f00012]: Footnote: Section 21 was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -304,14 +304,14 @@ A Business and Regulatory Impact Assessment has been prepared and placed in the 
 
 [^f00014]: Footnote: Section 36A was inserted by the Food Standards Act [1999 (c.28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 16.
 
-[^key-06e7fade97d785369d8e3f266a089671]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2013/217/regulation/8/2) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2019/52/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-06e7fade97d785369d8e3f266a089671]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/ssi/2013/217/regulation/8/2) omitted (31.12.2020) by virtue of [The Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/52)](https://www.legislation.gov.uk/ssi/2019/52), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/52/regulation/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2019/52/regulation/12/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6979303fe6fa43269bab5f976f3e3a62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/217/regulation/9) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-6979303fe6fa43269bab5f976f3e3a62]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/217/regulation/9) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
 [^f00015]: Footnote: [S.S.I. 2013/84](https://www.legislation.gov.uk/ssi/2013/84).
 
 [^f00016]: Footnote: [S.S.I. 2010/329](https://www.legislation.gov.uk/ssi/2010/329).
 
-[^key-2ea66022451d74db24031666cc8c6af6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/217/regulation/10) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-2ea66022451d74db24031666cc8c6af6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/217/regulation/10) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
 
-[^key-c3fe85db9d19676376019ef489791d9b]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2013/217/schedule) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)
+[^c-c3fe85db9d19676376019ef489791d9b]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2013/217/schedule) in force at 1.10.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/217/regulation/1)

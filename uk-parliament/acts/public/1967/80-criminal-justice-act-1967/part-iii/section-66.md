@@ -30,7 +30,7 @@ summary: ''
 >
 > The Secretary of State may make such payments to or in respect of persons released or about to be released from prison as he may with the consent of the Treasury determine
 
-(4)[^key-56cbed6a976e2b7ae93f9d0077529344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-56cbed6a976e2b7ae93f9d0077529344] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c7284751] In section 47(4) of that Act (duty to include in prison rules provisions for the special treatment of certain classes of prisoners), paragraphs (b) and (c) (persons convicted of sedition, etc., and appellants) shall cease to have effect, and at the end of paragraph (d) (miscellaneous prisoners) there shall be added the words “or a person committed to custody on his conviction”.
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c7284731]: Modification: The text of s. 66(2)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-56cbed6a976e2b7ae93f9d0077529344]: Textual amendment: [S. 66(4)](https://www.legislation.gov.uk/ukpga/1967/80/section/66/4) omitted (20.3.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/29); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
+[^c-56cbed6a976e2b7ae93f9d0077529344]: Textual amendment: [S. 66(4)](https://www.legislation.gov.uk/ukpga/1967/80/section/66/4) omitted (20.3.2015) by virtue of [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 10 para. 29](https://www.legislation.gov.uk/ukpga/2015/2/schedule/10/paragraph/29); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/d)
 
 [^c7284751]: Modification: The text of s. 66(5) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

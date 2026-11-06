@@ -33,7 +33,7 @@ Animals, Wales
 
 Animal Health
 
-The Non-Commercial Movement of Pet Animals (Amendment) (Wales) Regulations 2022 (revoked)[^key-8411bd1c9aaf557690d8c4ad88bd1757]
+The Non-Commercial Movement of Pet Animals (Amendment) (Wales) Regulations 2022 (revoked)[^c-8411bd1c9aaf557690d8c4ad88bd1757]
 
 Made
 
@@ -47,22 +47,22 @@ Coming into force
 
 9 April 2022
 
-[^key-8411bd1c9aaf557690d8c4ad88bd1757]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8411bd1c9aaf557690d8c4ad88bd1757]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, expiry, application and extent[^key-8411bd1c9aaf557690d8c4ad88bd1757]
+## 1. Title, commencement, expiry, application and extent[^c-8411bd1c9aaf557690d8c4ad88bd1757]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to [Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576)[^key-8411bd1c9aaf557690d8c4ad88bd1757]
+## 2. Amendments to [Regulation (EU) No 576/2013](https://www.legislation.gov.uk/european/regulation/2013/0576)[^c-8411bd1c9aaf557690d8c4ad88bd1757]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8411bd1c9aaf557690d8c4ad88bd1757]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8411bd1c9aaf557690d8c4ad88bd1757]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8411bd1c9aaf557690d8c4ad88bd1757]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8411bd1c9aaf557690d8c4ad88bd1757]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8411bd1c9aaf557690d8c4ad88bd1757]: Textual amendment: [Regulation](https://www.legislation.gov.uk/wsi/2022/445) revoked (1.10.2022) by [The Non-Commercial Movement of Pet Animals (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/948)](https://www.legislation.gov.uk/wsi/2022/948), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/948/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2022/948/regulation/2)
+[^c-8411bd1c9aaf557690d8c4ad88bd1757]: Textual amendment: [Regulation](https://www.legislation.gov.uk/wsi/2022/445) revoked (1.10.2022) by [The Non-Commercial Movement of Pet Animals (Amendment) (Wales) (No. 2) Regulations 2022 (S.I. 2022/948)](https://www.legislation.gov.uk/wsi/2022/948), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/948/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2022/948/regulation/2)

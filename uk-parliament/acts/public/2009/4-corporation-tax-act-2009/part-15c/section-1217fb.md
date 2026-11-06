@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217FB. Productions not regarded as theatrical[^key-8ee7e720cfeb865939dadc9ef1b64284]
+## 1217FB. Productions not regarded as theatrical[^c-8ee7e720cfeb865939dadc9ef1b64284]
 
 *Extent: E+W+S+N.I.*
 
 (1) A dramatic production or ballet is not regarded as a theatrical production if—
 
-- (za)[^key-560fc77a65db146b526fb073e45c3431] it is produced for training purposes,
+- (za)[^c-560fc77a65db146b526fb073e45c3431] it is produced for training purposes,
 - (a) the main purpose, or one of the main purposes, for which it is made is to advertise or promote any goods or services,
 - (b) the performances are to consist of or include a competition or contest,
 - (c) a wild animal is to be used in any performance,
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ee7e720cfeb865939dadc9ef1b64284]: Textual amendment: Pt. 15C inserted (17.7.2014 for specified purposes and with effect in accordance with Sch. 4 para. 16 of the amending Act, 22.8.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16); [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-8ee7e720cfeb865939dadc9ef1b64284]: Textual amendment: Pt. 15C inserted (17.7.2014 for specified purposes and with effect in accordance with Sch. 4 para. 16 of the amending Act, 22.8.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16); [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
 
-[^key-560fc77a65db146b526fb073e45c3431]: Textual amendment: [S. 1217FB(1)(za)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217FB/1/za) inserted (1.4.2022 in relation to a theatrical production only where the production phase begins on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 18(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/18/3)[(6)](https://www.legislation.gov.uk/ukpga/2022/3/section/18/6)
+[^c-560fc77a65db146b526fb073e45c3431]: Textual amendment: [S. 1217FB(1)(za)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217FB/1/za) inserted (1.4.2022 in relation to a theatrical production only where the production phase begins on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 18(3)](https://www.legislation.gov.uk/ukpga/2022/3/section/18/3)[(6)](https://www.legislation.gov.uk/ukpga/2022/3/section/18/6)

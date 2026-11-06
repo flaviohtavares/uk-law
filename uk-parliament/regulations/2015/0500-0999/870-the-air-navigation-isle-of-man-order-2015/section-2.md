@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Revocation[^key-2b1c92d937a0941bcde03258cfae7191]
+## 2. Revocation[^c-2b1c92d937a0941bcde03258cfae7191]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ The following Orders are revoked—
 
 ## Annotations
 
-[^key-2b1c92d937a0941bcde03258cfae7191]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/870/article/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-2b1c92d937a0941bcde03258cfae7191]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/870/article/2) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/1115](https://www.legislation.gov.uk/uksi/2007/1115).
 

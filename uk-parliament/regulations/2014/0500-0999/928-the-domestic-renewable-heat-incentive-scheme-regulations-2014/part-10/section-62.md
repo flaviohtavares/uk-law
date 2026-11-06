@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Right of review[^key-2648a31995236ade8641562d28d33596]
+## 62. Right of review[^c-2648a31995236ade8641562d28d33596]
 
 *Extent: E+W+S*
 
-(1) Any prospective, current or former participant or prospective, current or former RI[^key-fa7e1eed3d2016f422c09646088a9561] aggrieved by a decision by the Authority in the exercise of its functions under these Regulations (other than a decision made in accordance with this regulation) may have that decision reviewed by the Authority.
+(1) Any prospective, current or former participant or prospective, current or former RI[^c-fa7e1eed3d2016f422c09646088a9561] aggrieved by a decision by the Authority in the exercise of its functions under these Regulations (other than a decision made in accordance with this regulation) may have that decision reviewed by the Authority.
 
 (2) An application for review must be made by notice in such format as the Authority may require and must—
 
@@ -39,7 +39,7 @@ summary: ''
 
 (6) Within 21 days of completing a review under this regulation, the Authority must send the person who made the application a notice setting out its decision and giving reasons for that decision.
 
-(7)[^key-9ae38e6d3ca12bd1a62b91638a998fcb] Paragraph (8) applies where—
+(7)[^c-9ae38e6d3ca12bd1a62b91638a998fcb] Paragraph (8) applies where—
 
 - (a) the Authority rejects an accreditation application or registration application; and
 - (b) on a review under this regulation, the Authority revokes its decision to reject the application.
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2648a31995236ade8641562d28d33596]: Commencement: Reg. 62 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-2648a31995236ade8641562d28d33596]: Commencement: Reg. 62 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
 
-[^key-fa7e1eed3d2016f422c09646088a9561]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2014/928/regulation/62/1) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [32](https://www.legislation.gov.uk/uksi/2018/610/regulation/32)
+[^c-fa7e1eed3d2016f422c09646088a9561]: Textual amendment: Words in [reg. 62(1)](https://www.legislation.gov.uk/uksi/2014/928/regulation/62/1) inserted (22.5.2018) by [The Domestic Renewable Heat Incentive Scheme (Amendment) Regulations 2018 (S.I. 2018/610)](https://www.legislation.gov.uk/uksi/2018/610), [regs. 1](https://www.legislation.gov.uk/uksi/2018/610/regulation/1), [32](https://www.legislation.gov.uk/uksi/2018/610/regulation/32)
 
-[^key-9ae38e6d3ca12bd1a62b91638a998fcb]: Textual amendment: [Reg. 62(7)](https://www.legislation.gov.uk/uksi/2014/928/regulation/62/7)[(8)](https://www.legislation.gov.uk/uksi/2014/928/regulation/62/8) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [27](https://www.legislation.gov.uk/uksi/2022/159/regulation/27)
+[^c-9ae38e6d3ca12bd1a62b91638a998fcb]: Textual amendment: [Reg. 62(7)](https://www.legislation.gov.uk/uksi/2014/928/regulation/62/7)[(8)](https://www.legislation.gov.uk/uksi/2014/928/regulation/62/8) inserted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [27](https://www.legislation.gov.uk/uksi/2022/159/regulation/27)

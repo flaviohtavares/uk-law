@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57A. Payment of money in bank or building society account in satisfaction of confiscation order[^key-5cd7e1d0a4405b5a3f4f08f57dca5dd5]
+## 57A. Payment of money in bank or building society account in satisfaction of confiscation order[^c-5cd7e1d0a4405b5a3f4f08f57dca5dd5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cd7e1d0a4405b5a3f4f08f57dca5dd5]: Textual amendment: [Rules 56-57A](https://www.legislation.gov.uk/uksi/1981/552/rule/56) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(g)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/g)
+[^c-5cd7e1d0a4405b5a3f4f08f57dca5dd5]: Textual amendment: [Rules 56-57A](https://www.legislation.gov.uk/uksi/1981/552/rule/56) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(g)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/g)

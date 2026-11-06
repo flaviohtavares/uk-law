@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Application for authorisation: contents[^key-326a53508fe80d9df46e95ed86749d63]
+## 29. Application for authorisation: contents[^c-326a53508fe80d9df46e95ed86749d63]
 
 *Extent: N.I.*
 
@@ -91,7 +91,7 @@ summary: ''
 
 ## Annotations
 
-[^key-326a53508fe80d9df46e95ed86749d63]: Commencement: Reg. 29 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-326a53508fe80d9df46e95ed86749d63]: Commencement: Reg. 29 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00030]: Footnote: Section 62(2) is amended by regulation 7 of these Regulations
 

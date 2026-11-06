@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Daily verification and storage[^key-1b6a8b3cc86988a1c614d05fc2ffd8c7]
+## 33. Daily verification and storage[^c-1b6a8b3cc86988a1c614d05fc2ffd8c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 - (c) spoilt signing sheets;
 - (d) tendered signing sheets;
 - (e) the daily signing sheet accounts;
-- (ea)[^key-46ef64bb8241e31b616941c1ed27fd76] the signing sheet refusal list;
+- (ea)[^c-46ef64bb8241e31b616941c1ed27fd76] the signing sheet refusal list;
 - (f) the corresponding number lists.
 
 (6) Where the petition officer receives any signing sheets and other materials by virtue of paragraph (2)(b) or (4), subject to paragraph (7) that officer must ensure they are kept in a secure place until the end of the signing period.
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b6a8b3cc86988a1c614d05fc2ffd8c7]: Commencement: Reg. 33 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-1b6a8b3cc86988a1c614d05fc2ffd8c7]: Commencement: Reg. 33 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-46ef64bb8241e31b616941c1ed27fd76]: Textual amendment: Reg. 33(5)(ea) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [80](https://www.legislation.gov.uk/uksi/2022/1382/regulation/80) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7)) (which affecting provision is extended to N.I. (31.10.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13))
+[^c-46ef64bb8241e31b616941c1ed27fd76]: Textual amendment: Reg. 33(5)(ea) inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [80](https://www.legislation.gov.uk/uksi/2022/1382/regulation/80) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7)) (which affecting provision is extended to N.I. (31.10.2023) by [The Financial Services and Markets Act 2023 (Commencement No. 4 and Transitional and Saving Provisions) (Amendment) Regulations 2023 (S.I. 2023/1382)](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13))

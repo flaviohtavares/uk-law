@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A Minister of the Crown who issues a certificate under section 27, 79 or 111 must send a copy of the certificate to the Commission[^key-c351c856bc3b09af5187bf958997f3fb].
+(1) A Minister of the Crown who issues a certificate under section 27, 79 or 111 must send a copy of the certificate to the Commission[^c-c351c856bc3b09af5187bf958997f3fb].
 
 (2) If the Commission receives a copy of a certificate under subsection (1), the Commission must publish a record of the certificate.
 
@@ -30,7 +30,7 @@ summary: ''
 - (b) the date on which the certificate was issued, and
 - (c) subject to subsection (4), the text of the certificate.
 
-(4) The Commission[^key-d0d5fe8f3ee93b458d38ef69acde4c41] must not publish the text, or a part of the text, of the certificate if—
+(4) The Commission[^c-d0d5fe8f3ee93b458d38ef69acde4c41] must not publish the text, or a part of the text, of the certificate if—
 
 - (a) the Minister determines that publishing the text or that part of the text—
   - (i) would be against the interests of national security,
@@ -46,6 +46,6 @@ summary: ''
 
 [^M_I_a875bc54-5a88-4079-b1a7-42f2b60fce36]: Commencement: S. 130 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/e)
 
-[^key-c351c856bc3b09af5187bf958997f3fb]: Textual amendment: Word in s. 130(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-c351c856bc3b09af5187bf958997f3fb]: Textual amendment: Word in s. 130(1)(2) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-d0d5fe8f3ee93b458d38ef69acde4c41]: Textual amendment: Word in s. 130(4)-(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-d0d5fe8f3ee93b458d38ef69acde4c41]: Textual amendment: Word in s. 130(4)-(6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63KA. Retention of section 63D material under section 63IA: exception for persons under 18 convicted of first minor offence outside England and Wales[^key-32f60d2e9593f022977f44cc522f219e]
+## 63KA. Retention of section 63D material under section 63IA: exception for persons under 18 convicted of first minor offence outside England and Wales[^c-32f60d2e9593f022977f44cc522f219e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32f60d2e9593f022977f44cc522f219e]: Textual amendment: S. 63KA inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 70(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/70/10), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/20) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/399/regulation/6))
+[^c-32f60d2e9593f022977f44cc522f219e]: Textual amendment: S. 63KA inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 70(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/70/10), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/20) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/399/regulation/6))

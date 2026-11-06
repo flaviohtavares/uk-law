@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Open space[^key-13a8d6241476b194d7f640ab007e993a]
+## 34. Open space[^c-13a8d6241476b194d7f640ab007e993a]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13a8d6241476b194d7f640ab007e993a]: Commencement: Art. 34 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-13a8d6241476b194d7f640ab007e993a]: Commencement: Art. 34 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

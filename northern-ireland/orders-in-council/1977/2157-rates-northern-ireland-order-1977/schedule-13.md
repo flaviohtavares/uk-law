@@ -24,7 +24,7 @@ Article 41.
 
 ### Occupying bodies
 
-- The Education Authority.[^key-0256a6f857e812298bb3f82c09a74084]
+- The Education Authority.[^c-0256a6f857e812298bb3f82c09a74084]
 - The Northern Ireland Fire and Rescue Service Board[^c20796281]
 - The Northern Ireland Library Authority.[^c20796261]
 - The governing body of an institution of further education within the meaning of the Further Education (Northern Ireland) Order 1997.[^c16886251]
@@ -38,7 +38,7 @@ Article 41.
 
 ## Annotations
 
-[^key-0256a6f857e812298bb3f82c09a74084]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/nisi/1977/2157/schedule/13) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/8) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-0256a6f857e812298bb3f82c09a74084]: Textual amendment: Words in [Sch. 13](https://www.legislation.gov.uk/nisi/1977/2157/schedule/13) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/8) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
 [^c20796281]: Textual amendment: Words in Sch. 13 substituted (1.7.2006) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/10); [S.R. 2006/257](https://www.legislation.gov.uk/nisr/2006/257), [art. 2(d)](https://www.legislation.gov.uk/nisr/2006/257/article/2/d)
 

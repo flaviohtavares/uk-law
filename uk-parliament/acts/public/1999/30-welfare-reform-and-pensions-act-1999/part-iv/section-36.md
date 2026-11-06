@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Safeguarded rights.[^key-610c77fd021f44c14a5fe31b8f1dfb69]
+## 36. Safeguarded rights.[^c-610c77fd021f44c14a5fe31b8f1dfb69]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-610c77fd021f44c14a5fe31b8f1dfb69]: Textual amendment: S. 36 repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)
+[^c-610c77fd021f44c14a5fe31b8f1dfb69]: Textual amendment: S. 36 repealed (6.4.2009) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [s. 149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1), [Sch. 11 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/30/schedule/11/part/2); [S.I. 2009/82](https://www.legislation.gov.uk/uksi/2009/82), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/82/article/2/2/g)

@@ -14,15 +14,15 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 118. Treatment of ... liable relative payments[^key-f39b52ebc67c1a38f6b10fc28614ed8b]
+## 118. Treatment of ... liable relative payments[^c-f39b52ebc67c1a38f6b10fc28614ed8b]
 
-Subject to regulation 119[^key-cc1f313a339fc8e5305d45161f9a195c]... a payment shall—
+Subject to regulation 119[^c-cc1f313a339fc8e5305d45161f9a195c]... a payment shall—
 
 - (a) to the extent that it is not a payment of income, be treated as income;
 - (b) be taken into account in accordance with the following provisions of this Chapter.
 
 ## Annotations
 
-[^key-f39b52ebc67c1a38f6b10fc28614ed8b]: Textual amendment: Words in [reg. 118 heading](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/crossheading/liable-relatives) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/4)
+[^c-f39b52ebc67c1a38f6b10fc28614ed8b]: Textual amendment: Words in [reg. 118 heading](https://www.legislation.gov.uk/uksi/1996/207/part/VIII/crossheading/liable-relatives) heading omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(4)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/4)
 
-[^key-cc1f313a339fc8e5305d45161f9a195c]: Textual amendment: Words in [reg. 118](https://www.legislation.gov.uk/uksi/1996/207/regulation/118) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(10)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/10)
+[^c-cc1f313a339fc8e5305d45161f9a195c]: Textual amendment: Words in [reg. 118](https://www.legislation.gov.uk/uksi/1996/207/regulation/118) omitted (for specified purposes and with effect in accordance with reg. 1(6) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2009 (S.I. 2009/2655)](https://www.legislation.gov.uk/uksi/2009/2655), [regs. 1(6)(b)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/1/6/b), [4(10)](https://www.legislation.gov.uk/uksi/2009/2655/regulation/4/10)

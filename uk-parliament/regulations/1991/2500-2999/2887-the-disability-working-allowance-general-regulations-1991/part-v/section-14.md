@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Rounding of fractions[^key-38c7c29cff07235e209376c5850437e8]
+## 14. Rounding of fractions[^c-38c7c29cff07235e209376c5850437e8]
 
 *Extent: E+W+S*
 
-Where any calculation under this Part or Part VI[^key-fe72138ad463264fa1796d83d3de28dd] results in a fraction of a penny that fraction shall, if it would be to the claimant’s advantage, be treated as a penny, otherwise it shall be disregarded.
+Where any calculation under this Part or Part VI[^c-fe72138ad463264fa1796d83d3de28dd] results in a fraction of a penny that fraction shall, if it would be to the claimant’s advantage, be treated as a penny, otherwise it shall be disregarded.
 
 ## Annotations
 
-[^key-38c7c29cff07235e209376c5850437e8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1991/2887/regulation/14) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-38c7c29cff07235e209376c5850437e8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1991/2887/regulation/14) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-fe72138ad463264fa1796d83d3de28dd]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1991/2887/regulation/14) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/1999/2487/regulation/15)
+[^c-fe72138ad463264fa1796d83d3de28dd]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/1991/2887/regulation/14) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/1999/2487/regulation/15)

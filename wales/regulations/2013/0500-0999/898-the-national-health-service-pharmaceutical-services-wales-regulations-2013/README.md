@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, WALES
 
-The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (revoked)[^key-51400a435891fe914554ba4d8c50ae6b]
+The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (revoked)[^c-51400a435891fe914554ba4d8c50ae6b]
 
 Made
 
@@ -45,11 +45,11 @@ Coming into force
 
 10 May 2013
 
-[^key-51400a435891fe914554ba4d8c50ae6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51400a435891fe914554ba4d8c50ae6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 1 — Introduction[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -58,7 +58,7 @@ Coming into force
 - [Section 1 — Title, commencement and application](part-1/section-1.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Pharmaceutical lists and dispensing doctor lists[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 2 — Pharmaceutical lists and dispensing doctor lists[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ Coming into force
 - [Section 4 — Preparation and maintenance of dispensing doctor lists](part-2/section-4.md)
 - [Section 5 — Terms of service](part-2/section-5.md)
 
-### PART 3 — Determination of controlled localities[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 3 — Determination of controlled localities[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 6 — Areas that are controlled localities](part-3/section-6.md)
 - [Section 7 — Appeals against decisions under Part 3](part-3/section-7.md)
 
-### PART 4 — Applications by NHS pharmacists and NHS appliance contractors for inclusion in or amendment to pharmaceutical lists[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 4 — Applications by NHS pharmacists and NHS appliance contractors for inclusion in or amendment to pharmaceutical lists[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 18 — Application to extend the relevant period](part-4/section-18.md)
 - [Section 19 — Appeals](part-4/section-19.md)
 
-### PART 5 — Applications by doctors for inclusion in or amendment to dispensing doctor lists[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 5 — Applications by doctors for inclusion in or amendment to dispensing doctor lists[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -114,7 +114,7 @@ Coming into force
 - [Section 29 — Premises approval: practice amalgamations](part-5/section-29.md)
 - [Section 30 — Appeals](part-5/section-30.md)
 
-### PART 6 — Fitness grounds and inclusion in and removal from pharmaceutical lists[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 6 — Fitness grounds and inclusion in and removal from pharmaceutical lists[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -131,7 +131,7 @@ Coming into force
 - [Section 39 — Review of a decision to impose conditions](part-6/section-39.md)
 - [Section 40 — Appeals](part-6/section-40.md)
 
-### PART 7 — Payments to NHS pharmacists and NHS appliance contractors[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 7 — Payments to NHS pharmacists and NHS appliance contractors[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -143,7 +143,7 @@ Coming into force
 - [Section 44 — Reward scheme](part-7/section-44.md)
 - [Section 45 — Payments to suspended NHS pharmacists and NHS appliance contractors](part-7/section-45.md)
 
-### PART 8 — Miscellaneous[^key-51400a435891fe914554ba4d8c50ae6b]
+### PART 8 — Miscellaneous[^c-51400a435891fe914554ba4d8c50ae6b]
 
 *Extent: E+W*
 
@@ -168,12 +168,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-51400a435891fe914554ba4d8c50ae6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51400a435891fe914554ba4d8c50ae6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-51400a435891fe914554ba4d8c50ae6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51400a435891fe914554ba4d8c50ae6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51400a435891fe914554ba4d8c50ae6b]: Textual amendment: Regulations revoked (1.10.2020 for the revocation of Pts. 1-3, 7, 8; 31.2.2021 for the revocation of regs. 8(1), 20; and 1.10.2021 in so far as not already in force) ) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/uksi/2020/1073), [reg. 65](https://www.legislation.gov.uk/uksi/2020/1073/regulation/65) (with [reg. 63](https://www.legislation.gov.uk/uksi/2020/1073/regulation/63))
+[^c-51400a435891fe914554ba4d8c50ae6b]: Textual amendment: Regulations revoked (1.10.2020 for the revocation of Pts. 1-3, 7, 8; 31.2.2021 for the revocation of regs. 8(1), 20; and 1.10.2021 in so far as not already in force) ) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2020 (S.I. 2020/1073)](https://www.legislation.gov.uk/uksi/2020/1073), [reg. 65](https://www.legislation.gov.uk/uksi/2020/1073/regulation/65) (with [reg. 63](https://www.legislation.gov.uk/uksi/2020/1073/regulation/63))

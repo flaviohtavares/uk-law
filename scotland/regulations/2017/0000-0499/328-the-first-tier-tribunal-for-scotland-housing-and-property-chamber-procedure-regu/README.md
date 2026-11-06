@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 55(1) and 80(1) and paragraph 4(2) of schedule 9 of the Tribunals (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-In accordance with paragraph 4(3) of schedule 9 of that Act, they have consulted the President of Tribunals and such other persons as they have considered appropriate.[^key-97855079f791f043429869eaf78b029f]
+In accordance with paragraph 4(3) of schedule 9 of that Act, they have consulted the President of Tribunals and such other persons as they have considered appropriate.[^c-97855079f791f043429869eaf78b029f]
 
 ## Contents
 
@@ -95,4 +95,4 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-97855079f791f043429869eaf78b029f]: Modification: Regulations modified (temp. until 31.3.2024) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 8](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/8) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
+[^c-97855079f791f043429869eaf78b029f]: Modification: Regulations modified (temp. until 31.3.2024) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 8](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/8) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))

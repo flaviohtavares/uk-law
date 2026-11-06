@@ -37,11 +37,11 @@ on the European Union trade mark
 
 (Text with EEA relevance) (revoked)
 
-[^key-f892df1aa8f2352cdc7f9410dcc76c29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f892df1aa8f2352cdc7f9410dcc76c29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### CHAPTER I — GENERAL PROVISIONS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER I — GENERAL PROVISIONS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,13 +51,13 @@ on the European Union trade mark
 - [Section Article 2 — Office](section-article-2.md)
 - [Section Article 3 — Capacity to act](section-article-3.md)
 
-### CHAPTER II — THE LAW RELATING TO TRADE MARKS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER II — THE LAW RELATING TO TRADE MARKS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Definition of an EU trade mark and obtaining an EU trade mark[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — Definition of an EU trade mark and obtaining an EU trade mark[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ on the European Union trade mark
 - [Section Article 7 — Absolute grounds for refusal](section-article-7.md)
 - [Section Article 8 — Relative grounds for refusal](section-article-8.md)
 
-#### SECTION 2 — Effects of an EU trade mark[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Effects of an EU trade mark[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ on the European Union trade mark
 - [Section Article 16 — Intervening right of the proprietor of a later registered trade mark as a defence in infringement proceedings](section-article-16.md)
 - [Section Article 17 — Complementary application of national law relating to infringement](section-article-17.md)
 
-#### SECTION 3 — Use of an EU trade mark[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Use of an EU trade mark[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ on the European Union trade mark
 
 - [Section Article 18 — Use of an EU trade mark](section-article-18.md)
 
-#### SECTION 4 — EU trade marks as objects of property[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 4 — EU trade marks as objects of property[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,13 +111,13 @@ on the European Union trade mark
 - [Section Article 28 — The application for an EU trade mark as an object of property](section-article-28.md)
 - [Section Article 29 — Procedure for cancelling or modifying the entry in the Register of licences and other rights](section-article-29.md)
 
-### CHAPTER III — APPLICATION FOR EU TRADE MARKS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER III — APPLICATION FOR EU TRADE MARKS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Filing of applications and the conditions which govern them[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — Filing of applications and the conditions which govern them[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,7 +128,7 @@ on the European Union trade mark
 - [Section Article 32 — Date of filing](section-article-32.md)
 - [Section Article 33 — Designation and classification of goods and services](section-article-33.md)
 
-#### SECTION 2 — Priority[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Priority[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,7 +139,7 @@ on the European Union trade mark
 - [Section Article 36 — Effect of priority right](section-article-36.md)
 - [Section Article 37 — Equivalence of Union filing with national filing](section-article-37.md)
 
-#### SECTION 3 — Exhibition priority[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Exhibition priority[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -147,7 +147,7 @@ on the European Union trade mark
 
 - [Section Article 38 — Exhibition priority](section-article-38.md)
 
-#### SECTION 4 — Seniority of a national trade mark[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 4 — Seniority of a national trade mark[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -156,13 +156,13 @@ on the European Union trade mark
 - [Section Article 39 — Claiming seniority of a national trade mark in an application for an EU trade mark or subsequent to the filing of the application](section-article-39.md)
 - [Section Article 40 — Claiming seniority of a national trade mark after registration of an EU trade mark](section-article-40.md)
 
-### CHAPTER IV — REGISTRATION PROCEDURE[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER IV — REGISTRATION PROCEDURE[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Examination of applications[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — Examination of applications[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -171,7 +171,7 @@ on the European Union trade mark
 - [Section Article 41 — Examination of the conditions of filing](section-article-41.md)
 - [Section Article 42 — Examination as to absolute grounds for refusal](section-article-42.md)
 
-#### SECTION 2 — Search[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Search[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -179,7 +179,7 @@ on the European Union trade mark
 
 - [Section Article 43 — Search report](section-article-43.md)
 
-#### SECTION 3 — Publication of the application[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Publication of the application[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -187,7 +187,7 @@ on the European Union trade mark
 
 - [Section Article 44 — Publication of the application](section-article-44.md)
 
-#### SECTION 4 — Observations by third parties and opposition[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 4 — Observations by third parties and opposition[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -198,7 +198,7 @@ on the European Union trade mark
 - [Section Article 47 — Examination of opposition](section-article-47.md)
 - [Section Article 48 — Delegation of powers](section-article-48.md)
 
-#### SECTION 5 — Withdrawal, restriction, amendment and division of the application[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 5 — Withdrawal, restriction, amendment and division of the application[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -207,7 +207,7 @@ on the European Union trade mark
 - [Section Article 49 — Withdrawal, restriction and amendment of the application](section-article-49.md)
 - [Section Article 50 — Division of the application](section-article-50.md)
 
-#### SECTION 6 — Registration[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 6 — Registration[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,7 +215,7 @@ on the European Union trade mark
 
 - [Section Article 51 — Registration](section-article-51.md)
 
-### CHAPTER V — DURATION, RENEWAL, ALTERATION AND DIVISION OF EU TRADE MARKS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER V — DURATION, RENEWAL, ALTERATION AND DIVISION OF EU TRADE MARKS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -227,13 +227,13 @@ on the European Union trade mark
 - [Section Article 55 — Change of the name or address](section-article-55.md)
 - [Section Article 56 — Division of the registration](section-article-56.md)
 
-### CHAPTER VI — SURRENDER, REVOCATION AND INVALIDITY[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER VI — SURRENDER, REVOCATION AND INVALIDITY[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Surrender[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — Surrender[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -241,7 +241,7 @@ on the European Union trade mark
 
 - [Section Article 57 — Surrender](section-article-57.md)
 
-#### SECTION 2 — Grounds for revocation[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Grounds for revocation[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -249,7 +249,7 @@ on the European Union trade mark
 
 - [Section Article 58 — Grounds for revocation](section-article-58.md)
 
-#### SECTION 3 — Grounds for invalidity[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Grounds for invalidity[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -259,7 +259,7 @@ on the European Union trade mark
 - [Section Article 60 — Relative grounds for invalidity](section-article-60.md)
 - [Section Article 61 — Limitation in consequence of acquiescence](section-article-61.md)
 
-#### SECTION 4 — Consequences of revocation and invalidity[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 4 — Consequences of revocation and invalidity[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -267,7 +267,7 @@ on the European Union trade mark
 
 - [Section Article 62 — Consequences of revocation and invalidity](section-article-62.md)
 
-#### SECTION 5 — Proceedings in the office in relation to revocation or invalidity[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 5 — Proceedings in the office in relation to revocation or invalidity[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -277,7 +277,7 @@ on the European Union trade mark
 - [Section Article 64 — Examination of the application](section-article-64.md)
 - [Section Article 65 — Delegation of powers](section-article-65.md)
 
-### CHAPTER VII — APPEALS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER VII — APPEALS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -292,13 +292,13 @@ on the European Union trade mark
 - [Section Article 72 — Actions before the Court of Justice](section-article-72.md)
 - [Section Article 73 — Delegation of powers](section-article-73.md)
 
-### CHAPTER VIII — SPECIFIC PROVISIONS ON EUROPEAN UNION COLLECTIVE MARKS AND CERTIFICATION MARKS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER VIII — SPECIFIC PROVISIONS ON EUROPEAN UNION COLLECTIVE MARKS AND CERTIFICATION MARKS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — EU collective marks[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — EU collective marks[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -314,7 +314,7 @@ on the European Union trade mark
 - [Section Article 81 — Grounds for revocation](section-article-81.md)
 - [Section Article 82 — Grounds for invalidity](section-article-82.md)
 
-#### SECTION 2 — EU certification marks[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — EU certification marks[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -332,13 +332,13 @@ on the European Union trade mark
 - [Section Article 92 — Grounds for invalidity](section-article-92.md)
 - [Section Article 93 — Conversion](section-article-93.md)
 
-### CHAPTER IX — PROCEDURE[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER IX — PROCEDURE[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — General provisions[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — General provisions[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -360,7 +360,7 @@ on the European Union trade mark
 - [Section Article 107 — Reference to general principles](section-article-107.md)
 - [Section Article 108 — Termination of financial obligations](section-article-108.md)
 
-#### SECTION 2 — Costs[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Costs[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -369,7 +369,7 @@ on the European Union trade mark
 - [Section Article 109 — Costs](section-article-109.md)
 - [Section Article 110 — Enforcement of decisions fixing the amount of costs](section-article-110.md)
 
-#### SECTION 3 — Information which may be made available to the public and to the authorities of the Member States[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Information which may be made available to the public and to the authorities of the Member States[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -384,7 +384,7 @@ on the European Union trade mark
 - [Section Article 117 — Administrative cooperation](section-article-117.md)
 - [Section Article 118 — Exchange of publications](section-article-118.md)
 
-#### SECTION 4 — Representation[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 4 — Representation[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -394,13 +394,13 @@ on the European Union trade mark
 - [Section Article 120 — Professional representatives](section-article-120.md)
 - [Section Article 121 — Delegation of powers](section-article-121.md)
 
-### CHAPTER X — JURISDICTION AND PROCEDURE IN LEGAL ACTIONS RELATING TO EU TRADE MARKS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER X — JURISDICTION AND PROCEDURE IN LEGAL ACTIONS RELATING TO EU TRADE MARKS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Application of Union rules on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — Application of Union rules on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -408,7 +408,7 @@ on the European Union trade mark
 
 - [Section Article 122 — Application of Union rules on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters](section-article-122.md)
 
-#### SECTION 2 — Disputes concerning the infringement and validity of EU trade marks[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Disputes concerning the infringement and validity of EU trade marks[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -426,7 +426,7 @@ on the European Union trade mark
 - [Section Article 132 — Specific rules on related actions](section-article-132.md)
 - [Section Article 133 — Jurisdiction of EU trade mark courts of second instance — Further appeal](section-article-133.md)
 
-#### SECTION 3 — Other disputes concerning EU trade marks[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Other disputes concerning EU trade marks[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -435,13 +435,13 @@ on the European Union trade mark
 - [Section Article 134 — Supplementary provisions on the jurisdiction of national courts other than EU trade mark courts](section-article-134.md)
 - [Section Article 135 — Obligation of the national court](section-article-135.md)
 
-### CHAPTER XI — EFFECTS ON THE LAWS OF THE MEMBER STATES[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER XI — EFFECTS ON THE LAWS OF THE MEMBER STATES[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — Civil actions on the basis of more than one trade mark[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — Civil actions on the basis of more than one trade mark[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -449,7 +449,7 @@ on the European Union trade mark
 
 - [Section Article 136 — Simultaneous and successive civil actions on the basis of EU trade marks and national trade marks](section-article-136.md)
 
-#### SECTION 2 — Application of national laws for the purpose of prohibiting the use of EU trade marks[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Application of national laws for the purpose of prohibiting the use of EU trade marks[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -458,7 +458,7 @@ on the European Union trade mark
 - [Section Article 137 — Prohibition of use of EU trade marks](section-article-137.md)
 - [Section Article 138 — Prior rights applicable to particular localities](section-article-138.md)
 
-#### SECTION 3 — Conversion into a national trade mark application[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Conversion into a national trade mark application[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -468,13 +468,13 @@ on the European Union trade mark
 - [Section Article 140 — Submission, publication and transmission of the request for conversion](section-article-140.md)
 - [Section Article 141 — Formal requirements for conversion](section-article-141.md)
 
-### CHAPTER XII — THE OFFICE[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER XII — THE OFFICE[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION 1 — General provisions[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 1 — General provisions[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -490,7 +490,7 @@ on the European Union trade mark
 - [Section Article 149 — Transparency](section-article-149.md)
 - [Section Article 150 — Security rules on the protection of classified and sensitive non-classified information](section-article-150.md)
 
-#### SECTION 2 — Tasks of the office and cooperation to promote convergence[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — Tasks of the office and cooperation to promote convergence[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -499,7 +499,7 @@ on the European Union trade mark
 - [Section Article 151 — Tasks of the Office](section-article-151.md)
 - [Section Article 152 — Cooperation to promote convergence of practices and tools](section-article-152.md)
 
-#### SECTION 3 — Management Board[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — Management Board[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -510,7 +510,7 @@ on the European Union trade mark
 - [Section Article 155 — Chairperson of the Management Board](section-article-155.md)
 - [Section Article 156 — Meetings](section-article-156.md)
 
-#### SECTION 4 — Executive Director[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 4 — Executive Director[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -519,7 +519,7 @@ on the European Union trade mark
 - [Section Article 157 — Functions of the Executive Director](section-article-157.md)
 - [Section Article 158 — Appointment and removal of the Executive Director and extension of term of office](section-article-158.md)
 
-#### SECTION 5 — Implementation of procedures[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 5 — Implementation of procedures[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -538,7 +538,7 @@ on the European Union trade mark
 - [Section Article 169 — Exclusion and objection](section-article-169.md)
 - [Section Article 170 — Mediation centre](section-article-170.md)
 
-#### SECTION 6 — Budget and financial control[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 6 — Budget and financial control[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -556,13 +556,13 @@ on the European Union trade mark
 - [Section Article 180 — Deemed date of payment](section-article-180.md)
 - [Section Article 181 — Insufficient payments and refund of insignificant amounts](section-article-181.md)
 
-### CHAPTER XIII — INTERNATIONAL REGISTRATION OF MARKS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER XIII — INTERNATIONAL REGISTRATION OF MARKS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### SECTION I — General provisions[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION I — General provisions[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -570,7 +570,7 @@ on the European Union trade mark
 
 - [Section Article 182 — Application of provisions](section-article-182.md)
 
-#### SECTION 2 — International registration on the basis of applications for an EU trade mark and of EU trade marks[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 2 — International registration on the basis of applications for an EU trade mark and of EU trade marks[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -583,7 +583,7 @@ on the European Union trade mark
 - [Section Article 187 — Request for territorial extension subsequent to international registration](section-article-187.md)
 - [Section Article 188 — International fees](section-article-188.md)
 
-#### SECTION 3 — International registrations designating the Union[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+#### SECTION 3 — International registrations designating the Union[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -608,7 +608,7 @@ on the European Union trade mark
 - [Section Article 205 — Communication with the International Bureau](section-article-205.md)
 - [Section Article 206 — Use of languages](section-article-206.md)
 
-### CHAPTER XIV — FINAL PROVISIONS[^key-f892df1aa8f2352cdc7f9410dcc76c29]
+### CHAPTER XIV — FINAL PROVISIONS[^c-f892df1aa8f2352cdc7f9410dcc76c29]
 
 *Extent: E+W+S+N.I.*
 
@@ -629,8 +629,8 @@ on the European Union trade mark
 
 **No longer in force.**
 
-[^key-f892df1aa8f2352cdc7f9410dcc76c29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f892df1aa8f2352cdc7f9410dcc76c29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f892df1aa8f2352cdc7f9410dcc76c29]: Textual amendment: Regulation revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f892df1aa8f2352cdc7f9410dcc76c29]: Textual amendment: Regulation revoked (31.12.2020) by [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Transfer of registration from relevant British possession[^key-83e935bb2e50436340bd0321aba7be65]
+## 72. Transfer of registration from relevant British possession[^c-83e935bb2e50436340bd0321aba7be65]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (1A), where[^key-26d044cc4886869e1c64d52c4d57598a] a ship, excluding a fishing vessel, is registered in a relevant British possession, the registration of that ship may be transferred to Part I of the Register if:—
+(1) Subject to paragraph (1A), where[^c-26d044cc4886869e1c64d52c4d57598a] a ship, excluding a fishing vessel, is registered in a relevant British possession, the registration of that ship may be transferred to Part I of the Register if:—
 
 - (a) an application to the registrar of the existing port of registration has been made for that purpose by a declaration in writing by all the persons appearing on his register to be interested in the ship as owners, and
 - (b) the following documents have been transmitted to the Registrar;
@@ -28,7 +28,7 @@ summary: ''
   - (ii) a copy transmitted by him of all the registered particulars of the ship and the names of all person appearing on his register to be interested in the ship as owners and mortgagees; and
   - (iii) the ship’s certificate of registry.
 
-(1A)[^key-75587a2c08db1f32a984581379313fea] The registration of a ship may not be transferred to Part I of the Register if the Registrar is satisfied that the ship is a sanctioned ship.
+(1A)[^c-75587a2c08db1f32a984581379313fea] The registration of a ship may not be transferred to Part I of the Register if the Registrar is satisfied that the ship is a sanctioned ship.
 
 (2) On making an application to transfer to the Register the applicant shall specify one of the ports listed in part 1 of Schedule 2 which it is intended shall be the ship’s port of choice.
 
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-83e935bb2e50436340bd0321aba7be65]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-83e935bb2e50436340bd0321aba7be65]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-26d044cc4886869e1c64d52c4d57598a]: Textual amendment: Words in [reg. 72(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72/1) substituted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [18(a)](https://www.legislation.gov.uk/uksi/2019/509/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26d044cc4886869e1c64d52c4d57598a]: Textual amendment: Words in [reg. 72(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72/1) substituted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [18(a)](https://www.legislation.gov.uk/uksi/2019/509/regulation/18/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-75587a2c08db1f32a984581379313fea]: Textual amendment: [Reg. 72(1A)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72/1A) inserted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [18(b)](https://www.legislation.gov.uk/uksi/2019/509/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75587a2c08db1f32a984581379313fea]: Textual amendment: [Reg. 72(1A)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/72/1A) inserted (31.12.2020) by [The Merchant Shipping (Registration of Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/509)](https://www.legislation.gov.uk/uksi/2019/509), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/509/regulation/1/3), [18(b)](https://www.legislation.gov.uk/uksi/2019/509/regulation/18/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

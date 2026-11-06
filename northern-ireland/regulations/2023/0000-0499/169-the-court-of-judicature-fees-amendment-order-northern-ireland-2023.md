@@ -44,7 +44,7 @@ The Department of Justice, in exercise of the powers conferred by section 116(1)
 
 The Department has, in accordance with section 116(1) of that Act, consulted with the Lady Chief Justice.
 
-## 1. Citation, commencement and interpretation[^key-6b5159254ddeb9847c3460ed8af99fff]
+## 1. Citation, commencement and interpretation[^c-6b5159254ddeb9847c3460ed8af99fff]
 
 (1) This Order may be cited as the Court of Judicature Fees (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 1st November 2023.
 
@@ -52,13 +52,13 @@ The Department has, in accordance with section 116(1) of that Act, consulted wit
 
 - “**the Aarhus Convention**” means the United Nations Economic Commission for Europe Convention on Access to Information, Public Participation in Decision-Making and Access to Justice in Environment Matters done at Aarhus on 25th June 1998.
 
-## 2. Amendment of the Court of Judicature Fees Order (Northern Ireland) 1996[^key-47da143fe5446b74deeb90a651d80534]
+## 2. Amendment of the Court of Judicature Fees Order (Northern Ireland) 1996[^c-47da143fe5446b74deeb90a651d80534]
 
 The Court of Judicature Fees Order (Northern Ireland) 1996[^f00004] is amended as follows.
 
-**3.**[^key-2316431de515e1917b8b8e3f78642300] For sections 1 to 6 of the Schedule substitute the new sections set out in the Schedule to this Order.
+**3.**[^c-2316431de515e1917b8b8e3f78642300] For sections 1 to 6 of the Schedule substitute the new sections set out in the Schedule to this Order.
 
-## 4. Saving Provision[^key-856fbdfb7c6a6e0460275c46bd6e9205]
+## 4. Saving Provision[^c-856fbdfb7c6a6e0460275c46bd6e9205]
 
 The 1996 Order as it applied immediately before Article 2 of this Order came into operation, continues to apply to a judicial review or review under any statutory provision of a decision, act or omission which is subject to the provisions of the Aarhus Convention.
 
@@ -76,7 +76,7 @@ Patrick Neeson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE[^key-4b27336474c93c0ec56fbd2941666cb9]
+## SCHEDULE[^c-4b27336474c93c0ec56fbd2941666cb9]
 
 Article 3
 
@@ -576,14 +576,14 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see the Departments Act (Northern Ireland) 2016 ([2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)), section 1(4) and Schedule 1.
 
-[^key-6b5159254ddeb9847c3460ed8af99fff]: Commencement: Art. 1 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
+[^c-6b5159254ddeb9847c3460ed8af99fff]: Commencement: Art. 1 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
 
-[^key-47da143fe5446b74deeb90a651d80534]: Commencement: Art. 2 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
+[^c-47da143fe5446b74deeb90a651d80534]: Commencement: Art. 2 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 100](https://www.legislation.gov.uk/nisr/1996/100) to which relevant amendments are made by [S.R. 2007 No. 376](https://www.legislation.gov.uk/nisr/2007/376), [S.R. 2009 No. 424](https://www.legislation.gov.uk/nisr/2009/424), [S.R. 2017 No. 16](https://www.legislation.gov.uk/nisr/2017/16) and [S.R. 2019 No. 180](https://www.legislation.gov.uk/nisr/2019/180); the Supreme Court Fees Order (Northern Ireland) 1996 has been renamed as a consequence of the renaming of the Supreme Court of Judicature of Northern Ireland by virtue of section 59 and paragraph 6 of Schedule 11 to the Constitutional Reform Act 2005 ([2005 c. 4](https://www.legislation.gov.uk/ukpga/2005/4)).
 
-[^key-2316431de515e1917b8b8e3f78642300]: Commencement: Art. 3 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
+[^c-2316431de515e1917b8b8e3f78642300]: Commencement: Art. 3 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
 
-[^key-856fbdfb7c6a6e0460275c46bd6e9205]: Commencement: Art. 4 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
+[^c-856fbdfb7c6a6e0460275c46bd6e9205]: Commencement: Art. 4 in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
 
-[^key-4b27336474c93c0ec56fbd2941666cb9]: Commencement: Sch. in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)
+[^c-4b27336474c93c0ec56fbd2941666cb9]: Commencement: Sch. in operation at 1.11.2023, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2023/169/article/1/1)

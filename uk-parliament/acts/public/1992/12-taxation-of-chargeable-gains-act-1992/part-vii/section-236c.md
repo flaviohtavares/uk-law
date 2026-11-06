@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236C. Only first £50,000 of shares under associated agreements to be exempt[^key-043722aeb007e36dba637bb8a9342f33][^key-401f8cd3e3244f0e5eed296bfe2ac669]
+## 236C. Only first £50,000 of shares under associated agreements to be exempt[^c-043722aeb007e36dba637bb8a9342f33][^c-401f8cd3e3244f0e5eed296bfe2ac669]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-043722aeb007e36dba637bb8a9342f33]: Textual amendment: Ss. 236B-236F omitted (with effect in accordance with s. 13(6)-(8) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/10/section/13/4)
+[^c-043722aeb007e36dba637bb8a9342f33]: Textual amendment: Ss. 236B-236F omitted (with effect in accordance with s. 13(6)-(8) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/10/section/13/4)
 
-[^key-401f8cd3e3244f0e5eed296bfe2ac669]: Textual amendment: Ss. 236B-236G and cross-heading inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 20](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/20), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
+[^c-401f8cd3e3244f0e5eed296bfe2ac669]: Textual amendment: Ss. 236B-236G and cross-heading inserted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 20](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/20), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)

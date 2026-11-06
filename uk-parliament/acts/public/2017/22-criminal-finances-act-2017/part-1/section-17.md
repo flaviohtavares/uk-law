@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Serious Fraud Office[^key-e95e067f3289d1f37d779146eb80c1be][^key-3661f3308a3448124ed51349794afeb4][^key-d38634d0a066d6d0e88594b45f7575b1][^c22725211]
+## 17. Serious Fraud Office[^c-e95e067f3289d1f37d779146eb80c1be][^c-3661f3308a3448124ed51349794afeb4][^c-d38634d0a066d6d0e88594b45f7575b1][^c22725211]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ Schedule 1 contains amendments conferring certain powers under the Proceeds of C
 
 ## Annotations
 
-[^key-e95e067f3289d1f37d779146eb80c1be]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at 31.10.2017 for specified purposes by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/e)
+[^c-e95e067f3289d1f37d779146eb80c1be]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at 31.10.2017 for specified purposes by [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/e)
 
-[^key-3661f3308a3448124ed51349794afeb4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at 31.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/e)
+[^c-3661f3308a3448124ed51349794afeb4]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at 31.1.2018 for specified purposes for E.W.S. by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/e)
 
-[^key-d38634d0a066d6d0e88594b45f7575b1]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at 28.6.2021 for specified purposes for N.I. by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/h)
+[^c-d38634d0a066d6d0e88594b45f7575b1]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at 28.6.2021 for specified purposes for N.I. by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/h)
 
 [^c22725211]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/22/section/17) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Powers of an inspector[^key-bc263723ecaea675e410ffb317f9263c]
+## 34. Powers of an inspector[^c-bc263723ecaea675e410ffb317f9263c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc263723ecaea675e410ffb317f9263c]: Commencement: Reg. 34 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-bc263723ecaea675e410ffb317f9263c]: Commencement: Reg. 34 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

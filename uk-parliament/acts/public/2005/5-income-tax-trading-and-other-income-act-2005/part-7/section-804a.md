@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 804A. Shared lives care: further condition for relief[^key-ef3194ea3309fad8c02f1f0f91c4caad]
+## 804A. Shared lives care: further condition for relief[^c-ef3194ea3309fad8c02f1f0f91c4caad]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef3194ea3309fad8c02f1f0f91c4caad]: Textual amendment: S. 804A inserted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/4) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))
+[^c-ef3194ea3309fad8c02f1f0f91c4caad]: Textual amendment: S. 804A inserted (16.12.2010) (with effect in accordance with Sch. 1 para. 36 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/4) (with [Sch. 1 para. 37](https://www.legislation.gov.uk/ukpga/2010/33/schedule/1/paragraph/37))

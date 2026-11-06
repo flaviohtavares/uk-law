@@ -25,7 +25,7 @@ summary: ''
 - (a) in subsection (1)(a), for “2013” substitute “2015”, and
 - (b) in subsection (4), for “110” substitute “95”.
 
-(2)[^key-9e1b840781e3189e4bdf5af02ea3b7cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9e1b840781e3189e4bdf5af02ea3b7cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 104AA of that Act (special rate expenditure: meaning of “main rate car”), in subsection (4) for “160” substitute “130”.
 
@@ -52,4 +52,4 @@ section 49(1A) of ITTOIA 2005 and section 57(1A) of CTA 2009 apply on or after t
 
 ## Annotations
 
-[^key-9e1b840781e3189e4bdf5af02ea3b7cb]: Textual amendment: S. 68(2) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/b)[(c)(x)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/x)
+[^c-9e1b840781e3189e4bdf5af02ea3b7cb]: Textual amendment: S. 68(2) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/b)[(c)(x)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/x)

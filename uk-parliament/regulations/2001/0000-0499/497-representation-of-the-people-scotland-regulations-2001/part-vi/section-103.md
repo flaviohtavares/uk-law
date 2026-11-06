@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Supply of full register to holders of relevant elective offices and candidates[^key-479ea397546d3e87432d5dd7db76dcd8]
+## 103. Supply of full register to holders of relevant elective offices and candidates[^c-479ea397546d3e87432d5dd7db76dcd8]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ except for the purpose set out in paragraph (4) below.
 
 ## Annotations
 
-[^key-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
+[^c-479ea397546d3e87432d5dd7db76dcd8]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2001/497/regulation/92) inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [Representation of the People (Scotland) (Amendment) Regulations 2002 (S.I. 2002/1872)](https://www.legislation.gov.uk/uksi/2002/1872), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1872/regulation/2/2), [14](https://www.legislation.gov.uk/uksi/2002/1872/regulation/14)
 
 [^f00026]: Footnote: Sections 13, 13A and 13B were substituted by Schedule 1 to the 2000 Act.

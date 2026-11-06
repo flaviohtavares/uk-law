@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — COLLEGE FEE LOANS[^key-6ad839f5ae7d11b3b7a344b19c372438]
+## SCHEDULE 4 — COLLEGE FEE LOANS[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 *Extent: E+W*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulation 62
 
-### 1. Availability of college fee loans[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 1. Availability of college fee loans[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Disabled students[^key-6ad839f5ae7d11b3b7a344b19c372438]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 5. Students becoming eligible during the course of an academic year[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 4. Disabled students[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Amount of the college fee loan[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 5. Students becoming eligible during the course of an academic year[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Transfers[^key-6ad839f5ae7d11b3b7a344b19c372438]
+**6.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-6ad839f5ae7d11b3b7a344b19c372438] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 10. Amount of the college fee loan[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Payment[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 11. Transfers[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Conditions of entitlement to payment of college fee loan[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 12. Payment[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Information requirements[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 13. Conditions of entitlement to payment of college fee loan[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Overpayment[^key-6ad839f5ae7d11b3b7a344b19c372438]
+### 14. Information requirements[^c-6ad839f5ae7d11b3b7a344b19c372438]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Overpayment[^c-6ad839f5ae7d11b3b7a344b19c372438]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))
+[^c-6ad839f5ae7d11b3b7a344b19c372438]: Textual amendment: Regulations revoked (with savings) (1.9.2013) by [The Education (Student Support) (Wales) Regulations 2012 (S.I. 2012/3097)](https://www.legislation.gov.uk/uksi/2012/3097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3097/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2012/3097/regulation/3))

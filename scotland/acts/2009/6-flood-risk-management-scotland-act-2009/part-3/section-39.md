@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Local flood risk management plans: joint working[^key-0e7ec64768c78f9148f4a78271cd27de]
+## 39. Local flood risk management plans: joint working[^c-0e7ec64768c78f9148f4a78271cd27de]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where a local plan district covers more than one local authority's area, the lea
 
 ## Annotations
 
-[^key-0e7ec64768c78f9148f4a78271cd27de]: Commencement: S. 39 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-0e7ec64768c78f9148f4a78271cd27de]: Commencement: S. 39 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

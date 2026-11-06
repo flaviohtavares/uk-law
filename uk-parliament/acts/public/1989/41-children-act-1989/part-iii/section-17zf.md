@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17ZF. Consideration of parent carers' needs assessments[^key-0144fbc125d226114837b822ce8a3519]
+## 17ZF. Consideration of parent carers' needs assessments[^c-0144fbc125d226114837b822ce8a3519]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ A local authority that carry out a parent carer's needs assessment must consider
 
 ## Annotations
 
-[^key-0144fbc125d226114837b822ce8a3519]: Textual amendment: Ss. 17ZD-17ZF inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 97(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/97/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)
+[^c-0144fbc125d226114837b822ce8a3519]: Textual amendment: Ss. 17ZD-17ZF inserted (1.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 97(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/97/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)

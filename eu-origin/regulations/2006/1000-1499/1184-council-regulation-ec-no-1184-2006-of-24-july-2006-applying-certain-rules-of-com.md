@@ -71,7 +71,7 @@ In order to implement, as part of the development of the common agricultural pol
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.**[^c000002] This Regulation lays down rules concerning the applicability of Articles 101 to 106 [^key-edd65dd7467d3ae7c7a55762319fbc21]... of the Treaty on the functioning of the European Union (TFEU) in relation to production of, or trade in, the products listed in Annex I to the TFEU with the exception of the products covered by Council Regulation (EC) No 1234/2007[^f00004] and Regulation (EU) No 1379/2013 of the European Parliament and of the Council[^f00005].
+**Article 1.**[^c000002] This Regulation lays down rules concerning the applicability of Articles 101 to 106 [^c-edd65dd7467d3ae7c7a55762319fbc21]... of the Treaty on the functioning of the European Union (TFEU) in relation to production of, or trade in, the products listed in Annex I to the TFEU with the exception of the products covered by Council Regulation (EC) No 1234/2007[^f00004] and Regulation (EU) No 1379/2013 of the European Parliament and of the Council[^f00005].
 
 **Article 1a.** Articles 81 to 86 of the Treaty and provisions made for their implementation shall, subject to Article 2 of this Regulation, apply to all agreements, decisions and practices referred to in Articles 81(1) and 82 of the Treaty which relate to the production of, or trade in, the products referred to in Article 1.
 
@@ -85,7 +85,7 @@ The Commission shall so determine either on its own initiative or at the request
 
 3. The publication shall state the names of the parties and the main content of the decision. It shall have regard to the legitimate interest of undertakings in the protection of their business secrets.
 
-**Article 3.**[^key-a81c77cd0e3ca833a00aa17f50359f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a81c77cd0e3ca833a00aa17f50359f16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Article 4.** Regulation No 26 shall be repealed.
 
@@ -134,10 +134,10 @@ Correlation table
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000](https://www.legislation.gov.uk/eur/2013/1379).
 
-[^key-edd65dd7467d3ae7c7a55762319fbc21]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2006/1184/article/1) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/1/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-edd65dd7467d3ae7c7a55762319fbc21]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2006/1184/article/1) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/1/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
 [^f00004]: Footnote: Council Regulation (EC) No 1234/2007 of[^c000002][^c000001] 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) ( [OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG) ).
 
 [^f00005]: Footnote: Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 december 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000 ( [OJ L 354, 28.12.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.354.01.0001.01.ENG) ).
 
-[^key-a81c77cd0e3ca833a00aa17f50359f16]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2006/1184/article/3) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/1/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-a81c77cd0e3ca833a00aa17f50359f16]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eur/2006/1184/article/3) omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/1/paragraph/1/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

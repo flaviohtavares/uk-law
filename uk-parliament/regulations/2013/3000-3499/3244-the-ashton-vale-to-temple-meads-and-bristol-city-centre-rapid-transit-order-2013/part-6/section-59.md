@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. For protection of electricity, gas, water and sewerage undertakers[^key-7f491d997a646ecc0f12ee30294bf9ef]
+## 59. For protection of electricity, gas, water and sewerage undertakers[^c-7f491d997a646ecc0f12ee30294bf9ef]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 10 (for protection of electricity, gas, water and sew
 
 ## Annotations
 
-[^key-7f491d997a646ecc0f12ee30294bf9ef]: Commencement: Art. 59 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-7f491d997a646ecc0f12ee30294bf9ef]: Commencement: Art. 59 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

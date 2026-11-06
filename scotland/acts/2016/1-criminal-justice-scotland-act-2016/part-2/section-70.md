@@ -32,7 +32,7 @@ summary: ''
 - (a) consult publicly on the regulations that they are proposing to make,
 - (b) send a copy of the proposed regulations to—
   - (i) the chief constable of the Police Service of Scotland,
-  - (ia)[^key-dcb6edb714f10769d112f25b76c57072] the chief constable of the British Transport Police Force,
+  - (ia)[^c-dcb6edb714f10769d112f25b76c57072] the chief constable of the British Transport Police Force,
   - (ib) the chief constable of the Civil Nuclear Constabulary,
   - (ic) the chief constable of the Ministry of Defence Police,
   - (ii) the Scottish Human Rights Commission,
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb6edb714f10769d112f25b76c57072]: Textual amendment: S. 70(2)(b)(ia)-(ic) inserted (17.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/e), [24(3)](https://www.legislation.gov.uk/uksi/2018/46/article/24/3)
+[^c-dcb6edb714f10769d112f25b76c57072]: Textual amendment: S. 70(2)(b)(ia)-(ic) inserted (17.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [arts. 2(1)(e)](https://www.legislation.gov.uk/uksi/2018/46/article/2/1/e), [24(3)](https://www.legislation.gov.uk/uksi/2018/46/article/24/3)

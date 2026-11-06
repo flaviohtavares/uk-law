@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Discounts[^key-bf98f095a427676fd2dc95d4879f147b]
+## 163. Discounts[^c-bf98f095a427676fd2dc95d4879f147b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ There shall in every case be deducted from the claim all trade and other discoun
 
 ## Annotations
 
-[^key-bf98f095a427676fd2dc95d4879f147b]: Commencement: [Rule 163](https://www.legislation.gov.uk/uksi/2011/1301/rule/163) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-bf98f095a427676fd2dc95d4879f147b]: Commencement: [Rule 163](https://www.legislation.gov.uk/uksi/2011/1301/rule/163) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

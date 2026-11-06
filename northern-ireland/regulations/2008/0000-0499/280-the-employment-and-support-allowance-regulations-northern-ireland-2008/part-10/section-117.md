@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 117. Capital jointly held[^key-ab6a981029e92012b3ea932279253dc0]
+## 117. Capital jointly held[^c-ab6a981029e92012b3ea932279253dc0]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab6a981029e92012b3ea932279253dc0]: Commencement: [Reg. 117](https://www.legislation.gov.uk/nisr/2008/280/regulation/117) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-ab6a981029e92012b3ea932279253dc0]: Commencement: [Reg. 117](https://www.legislation.gov.uk/nisr/2008/280/regulation/117) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

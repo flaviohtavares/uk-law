@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Recognition of professional qualifications[^key-0135e8279ebbea81601216f740ea3cc2]
+## 12. Recognition of professional qualifications[^c-0135e8279ebbea81601216f740ea3cc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0135e8279ebbea81601216f740ea3cc2]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/1/section/12) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/d)
+[^c-0135e8279ebbea81601216f740ea3cc2]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2020/1/section/12) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/d)

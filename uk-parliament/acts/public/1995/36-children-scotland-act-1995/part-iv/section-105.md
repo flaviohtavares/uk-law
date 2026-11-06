@@ -39,7 +39,7 @@ and different days may be appointed under paragraph (b) above for different purp
 
 (7) A statutory instrument containing an order under subsection (6) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(8) Sections 18, 26(2), 33, 44, [^key-25151f0856c26b31ad5002e49dad666e][^key-2eb8284f2089dca98ae867201bc256bb]..., 93 and 104 of this Act and this section extend to England and Wales, and those sections and this section [^key-2eb8284f2089dca98ae867201bc256bb]... also extend to Northern Ireland; but—
+(8) Sections 18, 26(2), 33, 44, [^c-25151f0856c26b31ad5002e49dad666e][^c-2eb8284f2089dca98ae867201bc256bb]..., 93 and 104 of this Act and this section extend to England and Wales, and those sections and this section [^c-2eb8284f2089dca98ae867201bc256bb]... also extend to Northern Ireland; but—
 
 - (a) subsection (4) of this section so extends—
   - (i) to England and Wales, only in so far as it relates to paragraphs 8, 10, 19, 31, 37, 41(1), (2) and (7) to (9), 48 to 52, 54 and 55 of Schedule 4; and
@@ -50,7 +50,7 @@ and different days may be appointed under paragraph (b) above for different purp
 
 (9) This section, so far as it relates to the repeal of Part V of the Social Work (Scotland) 1968, also extends to the Channel Islands.
 
-(10)[^key-5e224b92ca5402e55331472e1108fdf3][^key-66d8b96afbc211893ad4677266f9bf1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-5e224b92ca5402e55331472e1108fdf3][^c-66d8b96afbc211893ad4677266f9bf1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -68,9 +68,9 @@ and different days may be appointed under paragraph (b) above for different purp
 
 [^c13127851]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-25151f0856c26b31ad5002e49dad666e]: Textual amendment: Words in s. 105(8) repealed (S.) (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)) (as amended (30.9.2015) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), Sch. 5 para. 12(10)(b); S.S.I. 2015/317, art. 2, Sch.); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3(e)(iii)](https://www.legislation.gov.uk/ssi/2013/195/article/3/e/iii)
+[^c-25151f0856c26b31ad5002e49dad666e]: Textual amendment: Words in s. 105(8) repealed (S.) (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)) (as amended (30.9.2015) by virtue of Children and Young People (Scotland) Act 2014 (asp 8), s. 102(3), Sch. 5 para. 12(10)(b); S.S.I. 2015/317, art. 2, Sch.); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3(e)(iii)](https://www.legislation.gov.uk/ssi/2013/195/article/3/e/iii)
 
-[^key-2eb8284f2089dca98ae867201bc256bb]: Textual amendment: Words in s. 105(8) repealed (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2013/1465/schedule/2/part/2)
+[^c-2eb8284f2089dca98ae867201bc256bb]: Textual amendment: Words in s. 105(8) repealed (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2013/1465/schedule/2/part/2)
 
 [^c13127861]: Marginal citation: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49).
 
@@ -84,6 +84,6 @@ and different days may be appointed under paragraph (b) above for different purp
 
 [^c13127911]: Marginal citation: [1993 c.35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-5e224b92ca5402e55331472e1108fdf3]: Textual amendment: S. 105(10) repealed (S.) (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-5e224b92ca5402e55331472e1108fdf3]: Textual amendment: S. 105(10) repealed (S.) (24.6.2013) by [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [s. 206(2)](https://www.legislation.gov.uk/asp/2011/1/section/206/2), [sch. 6](https://www.legislation.gov.uk/asp/2011/1/schedule/6) (with [s. 186](https://www.legislation.gov.uk/asp/2011/1/section/186)); [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-66d8b96afbc211893ad4677266f9bf1f]: Textual amendment: S. 105(10) repealed (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2013/1465/schedule/2/part/2)
+[^c-66d8b96afbc211893ad4677266f9bf1f]: Textual amendment: S. 105(10) repealed (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1465/article/1/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2013/1465/schedule/2/part/2)

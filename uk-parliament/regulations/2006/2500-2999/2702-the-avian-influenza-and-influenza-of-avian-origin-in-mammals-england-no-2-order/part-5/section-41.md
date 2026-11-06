@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Measures at border control posts[^key-8e96795daad5d8c5cb18aec18b594797]
+## 41. Measures at border control posts[^c-8e96795daad5d8c5cb18aec18b594797]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e96795daad5d8c5cb18aec18b594797]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/uksi/2006/2702/article/41) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(22)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/22)
+[^c-8e96795daad5d8c5cb18aec18b594797]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/uksi/2006/2702/article/41) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(22)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/22)

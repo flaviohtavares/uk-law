@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Claim established by witness statement[^key-033891fa159f558364fc0adf3e4397a2]
+## 61. Claim established by witness statement[^c-033891fa159f558364fc0adf3e4397a2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.77 of the 1986 Rules. Ignore paragraph (3).
 
 ## Annotations
 
-[^key-033891fa159f558364fc0adf3e4397a2]: Commencement: Rule 61 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-033891fa159f558364fc0adf3e4397a2]: Commencement: Rule 61 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

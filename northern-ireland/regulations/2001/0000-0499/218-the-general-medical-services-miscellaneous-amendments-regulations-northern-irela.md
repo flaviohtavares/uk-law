@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-The General Medical Services (Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (revoked)[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+The General Medical Services (Miscellaneous Amendments) Regulations (Northern Ireland) 2001 (revoked)[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 Made
 
@@ -41,39 +41,39 @@ Coming into operation
 
 2nd July 2001
 
-[^key-b420dbb15c08e26d92c8072f1b7b5cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b420dbb15c08e26d92c8072f1b7b5cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+## 1. Citation, commencement and interpretation[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Insertion of regulation 17A into the principal Regulations[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+## 2. Insertion of regulation 17A into the principal Regulations[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 37 of the principal Regulations[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+## 3. Amendment of regulation 37 of the principal Regulations[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of Schedule 7A into the principal Regulations[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+## 4. Insertion of Schedule 7A into the principal Regulations[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Insertion of paragraph 4A into Schedule 14 to the principal Regulations[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+## 5. Insertion of paragraph 4A into Schedule 14 to the principal Regulations[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b420dbb15c08e26d92c8072f1b7b5cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b420dbb15c08e26d92c8072f1b7b5cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — New Schedule 7A to be inserted in Principal Regulations[^key-b420dbb15c08e26d92c8072f1b7b5cef]
+## SCHEDULE — New Schedule 7A to be inserted in Principal Regulations[^c-b420dbb15c08e26d92c8072f1b7b5cef]
 
 Regulation 4
 
-> **SCHEDULE 7A[^key-b420dbb15c08e26d92c8072f1b7b5cef]**
+> **SCHEDULE 7A[^c-b420dbb15c08e26d92c8072f1b7b5cef]**
 >
 > Regulation 17A
 >
@@ -81,8 +81,8 @@ Regulation 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-b420dbb15c08e26d92c8072f1b7b5cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b420dbb15c08e26d92c8072f1b7b5cef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b420dbb15c08e26d92c8072f1b7b5cef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/218) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-b420dbb15c08e26d92c8072f1b7b5cef]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/218) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)

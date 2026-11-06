@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256N. Penalties[^key-935f6544e55359fa0989b19ff0c80cd3]
+## 256N. Penalties[^c-935f6544e55359fa0989b19ff0c80cd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)
+[^c-935f6544e55359fa0989b19ff0c80cd3]: Textual amendment: Pt. 12A inserted (coming into force in accordance with reg. 1(2) of the amending S.I.) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2013/1855/regulation/28)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Meaning of “relevant mutual”[^key-15a304c77c862eec3ab92415828ca48a]
+## 7. Meaning of “relevant mutual”[^c-15a304c77c862eec3ab92415828ca48a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15a304c77c862eec3ab92415828ca48a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/5/section/7) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-15a304c77c862eec3ab92415828ca48a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2011/5/section/7) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

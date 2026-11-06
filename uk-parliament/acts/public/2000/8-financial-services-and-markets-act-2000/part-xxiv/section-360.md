@@ -29,7 +29,7 @@ summary: ''
 
 (3) “**Specified**” means specified in the order.
 
-(4)[^key-fa13cd39fae2d657d23dc377135b5524] Subsection (5) applies where, by virtue of an order under this section, a person may be appointed as administrator of an insurer.
+(4)[^c-fa13cd39fae2d657d23dc377135b5524] Subsection (5) applies where, by virtue of an order under this section, a person may be appointed as administrator of an insurer.
 
 (5) While a write-down order under section 377A has effect in relation to an insurer, a person may not be appointed as administrator of the insurer without the consent of the PRA.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c2075401]: Modification: S. 360 excluded (10.8.2005) by [The Insurers (Reorganisation and Winding Up) (Lloyd's) Regulations 2005 (S.I. 2005/1998)](https://www.legislation.gov.uk/uksi/2005/1998), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2005/1998/regulation/2/4)
 
-[^key-fa13cd39fae2d657d23dc377135b5524]: Textual amendment: [S. 360(4)](https://www.legislation.gov.uk/ukpga/2000/8/section/360/4)[(5)](https://www.legislation.gov.uk/ukpga/2000/8/section/360/5) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/2)
+[^c-fa13cd39fae2d657d23dc377135b5524]: Textual amendment: [S. 360(4)](https://www.legislation.gov.uk/ukpga/2000/8/section/360/4)[(5)](https://www.legislation.gov.uk/ukpga/2000/8/section/360/5) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/2)

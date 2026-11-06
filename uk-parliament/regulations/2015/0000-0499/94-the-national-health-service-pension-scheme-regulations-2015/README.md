@@ -50,7 +50,7 @@ The Secretary of State for Health makes these Regulations in exercise of the pow
 
 In accordance with section 21 of that Act, the Secretary of State has consulted the representatives of such persons as appear to the Secretary of State likely to be affected by these Regulations.
 
-In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^key-a459bcdd20632de15ea2beb0dcfc70a8]
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^c-a459bcdd20632de15ea2beb0dcfc70a8]
 
 ## Contents
 
@@ -444,4 +444,4 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22361281]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-a459bcdd20632de15ea2beb0dcfc70a8]: Modification: Regulations modified (temp. until 31.3.2023) (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 45](https://www.legislation.gov.uk/ukpga/2020/7/section/45)) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/273/regulation/12) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9)) (as amended (31.10.2022) by [S.I. 2022/1028](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2))
+[^c-a459bcdd20632de15ea2beb0dcfc70a8]: Modification: Regulations modified (temp. until 31.3.2023) (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 45](https://www.legislation.gov.uk/ukpga/2020/7/section/45)) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2022/273/regulation/12) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9)) (as amended (31.10.2022) by [S.I. 2022/1028](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3[^key-1c0a0675bb941044a48af0f5bc230018]
+## SCHEDULE 3[^c-1c0a0675bb941044a48af0f5bc230018]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ Regulation 9(3)
 
 ## Annotations
 
-[^key-1c0a0675bb941044a48af0f5bc230018]: Commencement: Sch. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-1c0a0675bb941044a48af0f5bc230018]: Commencement: Sch. 3 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00094]: Footnote: [1965 c. 51](https://www.legislation.gov.uk/ukpga/1965/51).

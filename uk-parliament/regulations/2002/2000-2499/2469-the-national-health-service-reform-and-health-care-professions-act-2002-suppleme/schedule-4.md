@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — ENACTMENTS WHERE A DEFINITION OF STRATEGIC HEALTH AUTHORITY IS INSERTED[^key-98f855c855e3929970436fd31f9f3d47]
+## SCHEDULE 4 — ENACTMENTS WHERE A DEFINITION OF STRATEGIC HEALTH AUTHORITY IS INSERTED[^c-98f855c855e3929970436fd31f9f3d47]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ Regulation 7
 
 ## Annotations
 
-[^key-98f855c855e3929970436fd31f9f3d47]: Commencement: Sch. 4 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-98f855c855e3929970436fd31f9f3d47]: Commencement: Sch. 4 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
 
 [^f00161]: Footnote: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830), amended by [S.I. 2000/1917](https://www.legislation.gov.uk/uksi/2000/1917).
 

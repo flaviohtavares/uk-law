@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Regulations on school boarding accommodation[^key-72b1e520c6f96b67cba46330851add29]
+## 9. Regulations on school boarding accommodation[^c-72b1e520c6f96b67cba46330851add29]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b1e520c6f96b67cba46330851add29]: Commencement: S. 9 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-72b1e520c6f96b67cba46330851add29]: Commencement: S. 9 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

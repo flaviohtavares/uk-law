@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28.3. Representations[^key-2dd5e676edbc6fd2ce2112a36c278c89]
+## 28.3. Representations[^c-2dd5e676edbc6fd2ce2112a36c278c89]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd5e676edbc6fd2ce2112a36c278c89]: Commencement: Para. 28.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-2dd5e676edbc6fd2ce2112a36c278c89]: Commencement: Para. 28.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

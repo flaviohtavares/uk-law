@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-c95a1a5d925620c2a43840b6fe196a96] After section 57ZD of the Employment Rights Act 1996 there is inserted—
+(1)[^c-c95a1a5d925620c2a43840b6fe196a96] After section 57ZD of the Employment Rights Act 1996 there is inserted—
 
 > **Accompanying to ante-natal appointments**
 >
@@ -219,22 +219,22 @@ summary: ''
 
 (2) In the Employment Rights Act 1996—
 
-- (a)[^key-5a2f2d16e8f125d76de5f43fd6f0685c] in section 47C (right not to be subject to detriment: leave for family reasons), in subsection (2) (prescribed reasons), after paragraph (a) there is inserted—
+- (a)[^c-5a2f2d16e8f125d76de5f43fd6f0685c] in section 47C (right not to be subject to detriment: leave for family reasons), in subsection (2) (prescribed reasons), after paragraph (a) there is inserted—
 
   > - (aa) time off under section 57ZE,
 
   ;
-- (b)[^key-5a2f2d16e8f125d76de5f43fd6f0685c] in section 99 (being regarded as unfairly dismissed: leave for family reasons), in subsection (3) (prescribed kinds of reasons), after paragraph (a) there is inserted—
+- (b)[^c-5a2f2d16e8f125d76de5f43fd6f0685c] in section 99 (being regarded as unfairly dismissed: leave for family reasons), in subsection (3) (prescribed kinds of reasons), after paragraph (a) there is inserted—
 
   > - (aa) time off under section 57ZE,
 
   ;
-- (c)[^key-c95a1a5d925620c2a43840b6fe196a96] in section 225 (the calculation date in finding a week's pay), after subsection (3) there is inserted—
+- (c)[^c-c95a1a5d925620c2a43840b6fe196a96] in section 225 (the calculation date in finding a week's pay), after subsection (3) there is inserted—
 
   > (3A) Where the calculation is for the purposes of section 57ZF, the calculation date is the day of the appointment.
 
 ## Annotations
 
-[^key-c95a1a5d925620c2a43840b6fe196a96]: Commencement: [S. 127(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/c) in force at 1.10.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
+[^c-c95a1a5d925620c2a43840b6fe196a96]: Commencement: [S. 127(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/c) in force at 1.10.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/a)
 
-[^key-5a2f2d16e8f125d76de5f43fd6f0685c]: Commencement: [S. 127(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/b) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/i)
+[^c-5a2f2d16e8f125d76de5f43fd6f0685c]: Commencement: [S. 127(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/a)[(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/127/2/b) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/i)

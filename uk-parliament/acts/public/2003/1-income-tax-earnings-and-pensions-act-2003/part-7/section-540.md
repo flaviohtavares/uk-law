@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) ... Chapter 3C of this Part[^key-0979444491b9e69a55e150bbf1afa92f] (taxable benefits: notional loans in respect of acquisitions of shares) does not apply in relation to the acquisition of shares by the exercise of a qualifying option.
+(1) ... Chapter 3C of this Part[^c-0979444491b9e69a55e150bbf1afa92f] (taxable benefits: notional loans in respect of acquisitions of shares) does not apply in relation to the acquisition of shares by the exercise of a qualifying option.
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0979444491b9e69a55e150bbf1afa92f]: Textual amendment: Words in s. 540(1) substituted (with effect in accordance with Sch. 22 para. 40(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 40(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/40/1)
+[^c-0979444491b9e69a55e150bbf1afa92f]: Textual amendment: Words in s. 540(1) substituted (with effect in accordance with Sch. 22 para. 40(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 40(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/40/1)

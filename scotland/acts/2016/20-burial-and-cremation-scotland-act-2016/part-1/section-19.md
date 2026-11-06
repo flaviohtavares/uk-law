@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Right to erect headstone[^key-397d778c115151a1a86d533efa4d1a32]
+## 19. Right to erect headstone[^c-397d778c115151a1a86d533efa4d1a32]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-397d778c115151a1a86d533efa4d1a32]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/20/section/19) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)
+[^c-397d778c115151a1a86d533efa4d1a32]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2016/20/section/19) in force at 1.3.2025 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2024/335/schedule)

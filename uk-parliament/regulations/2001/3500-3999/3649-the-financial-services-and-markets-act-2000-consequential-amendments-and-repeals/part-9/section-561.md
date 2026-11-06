@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 561. Interest on unpaid levies[^key-0b474287545143ecb6b8078b744fa475]
+## 561. Interest on unpaid levies[^c-0b474287545143ecb6b8078b744fa475]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ In article 14 of the National Crime Squad Service Authority (Levying) Order 1997
 
 ## Annotations
 
-[^key-0b474287545143ecb6b8078b744fa475]: Commencement: Art. 561 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0b474287545143ecb6b8078b744fa475]: Commencement: Art. 561 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00356]: Footnote: Article 14 was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

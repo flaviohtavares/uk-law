@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4.1. The law of evidence[^key-5457852a126628de8dbd56d93a4e8224]
+## 4.1. The law of evidence[^c-5457852a126628de8dbd56d93a4e8224]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5457852a126628de8dbd56d93a4e8224]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/ssi/2017/103/rule/4.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-5457852a126628de8dbd56d93a4e8224]: Commencement: [Rule 4.1](https://www.legislation.gov.uk/ssi/2017/103/rule/4.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

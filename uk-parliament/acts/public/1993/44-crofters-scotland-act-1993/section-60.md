@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Regulations and orders[^key-a9e1908362368969af175b6f7ccd26b3]
+## 60. Regulations and orders[^c-a9e1908362368969af175b6f7ccd26b3]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ may be made unless a draft of the instrument has been laid before, and approved 
 
 ## Annotations
 
-[^key-a9e1908362368969af175b6f7ccd26b3]: Textual amendment: S. 60 substituted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(35)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/35) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-a9e1908362368969af175b6f7ccd26b3]: Textual amendment: S. 60 substituted (1.10.2011) by [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [s. 57(2)](https://www.legislation.gov.uk/asp/2010/14/section/57/2), [sch. 4 para. 3(35)](https://www.legislation.gov.uk/asp/2010/14/schedule/4/paragraph/3/35) (with [s. 57(4)](https://www.legislation.gov.uk/asp/2010/14/section/57/4)); [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3](https://www.legislation.gov.uk/ssi/2011/334/article/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. First review: responsible medical officer’s duty to apply for extension of compulsion order[^key-b590a54d8dac04cbc5142f3e76a8e10f]
+## 148. First review: responsible medical officer’s duty to apply for extension of compulsion order[^c-b590a54d8dac04cbc5142f3e76a8e10f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ the responsible medical officer is satisfied as to the matters mentioned in sect
 
 ## Annotations
 
-[^key-b590a54d8dac04cbc5142f3e76a8e10f]: Commencement: S. 148 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-b590a54d8dac04cbc5142f3e76a8e10f]: Commencement: S. 148 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

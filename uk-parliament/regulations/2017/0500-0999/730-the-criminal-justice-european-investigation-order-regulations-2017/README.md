@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Criminal Justice (European Investigation Order) Regulations 2017 (revoked)[^key-c8a9b636ec948e661aadb0a68b3eb952]
+The Criminal Justice (European Investigation Order) Regulations 2017 (revoked)[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 31st July 2017
 
-[^key-c8a9b636ec948e661aadb0a68b3eb952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a9b636ec948e661aadb0a68b3eb952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-c8a9b636ec948e661aadb0a68b3eb952]
+### PART 1 — General[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,13 +61,13 @@ Coming into force
 - [Section 3 — Transitional provisions](part-1/section-3.md)
 - [Section 4 — Consequential amendments](part-1/section-4.md)
 
-### PART 2 — Making or validating a European investigation order in the United Kingdom[^key-c8a9b636ec948e661aadb0a68b3eb952]
+### PART 2 — Making or validating a European investigation order in the United Kingdom[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 1 — General[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,7 +82,7 @@ Coming into force
 - [Section 11 — Meaning of “under the same conditions in a similar domestic case”](part-2/section-11.md)
 - [Section 12 — Use of evidence obtained under this Part](part-2/section-12.md)
 
-#### CHAPTER 2 — Additional requirements for certain investigative measures[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 2 — Additional requirements for certain investigative measures[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ Coming into force
 - [Section 18 — Provisional measures](part-2/section-18.md)
 - [Section 19 — Interception of telecommunications where technical assistance is needed](part-2/section-19.md)
 
-#### CHAPTER 3 — Making a European investigation order for the temporary transfer of a prisoner[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 3 — Making a European investigation order for the temporary transfer of a prisoner[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -108,13 +108,13 @@ Coming into force
 - [Section 23 — Restrictions on prosecution and detention for other matters](part-2/section-23.md)
 - [Section 24 — Time spent by UK prisoner in custody overseas](part-2/section-24.md)
 
-### PART 3 — Recognition and execution in the United Kingdom of a European investigation order made in a participating State[^key-c8a9b636ec948e661aadb0a68b3eb952]
+### PART 3 — Recognition and execution in the United Kingdom of a European investigation order made in a participating State[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — General[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 1 — General[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,7 +122,7 @@ Coming into force
 
 - [Section 25 — Interpretation](part-3/section-25.md)
 
-#### CHAPTER 2 — General provisions relating to the recognition and execution of a European investigation order[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 2 — General provisions relating to the recognition and execution of a European investigation order[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -138,7 +138,7 @@ Coming into force
 - [Section 33 — European investigation orders relating to customs matters](part-3/section-33.md)
 - [Section 34 — Request by an authority of the issuing State to assist in the execution of a European investigation order](part-3/section-34.md)
 
-#### CHAPTER 3 — Execution of a European investigation order relating to witness evidence and hearings[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 3 — Execution of a European investigation order relating to witness evidence and hearings[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -148,7 +148,7 @@ Coming into force
 - [Section 36 — Hearing a person through videoconference or other audio visual transmission](part-3/section-36.md)
 - [Section 37 — Hearing a person by telephone conference](part-3/section-37.md)
 
-#### CHAPTER 4 — Execution of a European investigation order by means of a search warrant etc.[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 4 — Execution of a European investigation order by means of a search warrant etc.[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -159,7 +159,7 @@ Coming into force
 - [Section 40 — Evidence seized under a search warrant or production order](part-3/section-40.md)
 - [Section 41 — Power to revoke or vary a search warrant or production order or to authorise the release of evidence seized or produced](part-3/section-41.md)
 
-#### CHAPTER 5 — Execution of a European investigation order by means of a customer information order or an account monitoring order[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 5 — Execution of a European investigation order by means of a customer information order or an account monitoring order[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -175,7 +175,7 @@ Coming into force
 - [Section 49 — Offences in relation to customer information orders](part-3/section-49.md)
 - [Section 50 — Offence of disclosure](part-3/section-50.md)
 
-#### CHAPTER 6 — Referral to an executing authority for assistance in execution of a European investigation order[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 6 — Referral to an executing authority for assistance in execution of a European investigation order[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,7 +184,7 @@ Coming into force
 - [Section 51 — Referral to executing authorities](part-3/section-51.md)
 - [Section 52 — Lord Advocate’s direction in relation to serious or complex fraud](part-3/section-52.md)
 
-#### CHAPTER 7 — Recognition and execution of a European investigation order for the temporary transfer of a prisoner[^key-c8a9b636ec948e661aadb0a68b3eb952]
+#### CHAPTER 7 — Recognition and execution of a European investigation order for the temporary transfer of a prisoner[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -196,7 +196,7 @@ Coming into force
 - [Section 56 — Restrictions on prosecution and detention for other matters](part-3/section-56.md)
 - [Section 57 — Time spent by UK prisoner in custody overseas](part-3/section-57.md)
 
-### PART 4 — Miscellaneous[^key-c8a9b636ec948e661aadb0a68b3eb952]
+### PART 4 — Miscellaneous[^c-c8a9b636ec948e661aadb0a68b3eb952]
 
 *Extent: E+W+S+N.I.*
 
@@ -211,7 +211,7 @@ Coming into force
 
 **No longer in force.**
 
-[^key-c8a9b636ec948e661aadb0a68b3eb952]SCHEDULES
+[^c-c8a9b636ec948e661aadb0a68b3eb952]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -224,12 +224,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-c8a9b636ec948e661aadb0a68b3eb952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a9b636ec948e661aadb0a68b3eb952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-[^key-c8a9b636ec948e661aadb0a68b3eb952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a9b636ec948e661aadb0a68b3eb952]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8a9b636ec948e661aadb0a68b3eb952]: Textual amendment: Regulations revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [74](https://www.legislation.gov.uk/uksi/2019/742/regulation/74) (with [regs. 83-86](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [27](https://www.legislation.gov.uk/uksi/2020/1408/regulation/27), [28](https://www.legislation.gov.uk/uksi/2020/1408/regulation/28)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8a9b636ec948e661aadb0a68b3eb952]: Textual amendment: Regulations revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [74](https://www.legislation.gov.uk/uksi/2019/742/regulation/74) (with [regs. 83-86](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [27](https://www.legislation.gov.uk/uksi/2020/1408/regulation/27), [28](https://www.legislation.gov.uk/uksi/2020/1408/regulation/28)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Powers of authorised officers in relation to obtaining information[^key-18a85c7ba745afc0092a13b88d5454c8]
+## 19. Powers of authorised officers in relation to obtaining information[^c-18a85c7ba745afc0092a13b88d5454c8]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a85c7ba745afc0092a13b88d5454c8]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/2006/1254/article/19) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2013/602/article/18/3)
+[^c-18a85c7ba745afc0092a13b88d5454c8]: Modification: [Art. 19](https://www.legislation.gov.uk/nisi/2006/1254/article/19) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2013/602/article/18/3)

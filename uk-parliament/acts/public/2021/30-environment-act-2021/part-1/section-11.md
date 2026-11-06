@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Reviewing and revising plans: interim targets[^key-8b3f403952a714543498521ccd802c69][^key-43bb17e91f415cecafbb88e26f5d1370]
+## 11. Reviewing and revising plans: interim targets[^c-8b3f403952a714543498521ccd802c69][^c-43bb17e91f415cecafbb88e26f5d1370]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b3f403952a714543498521ccd802c69]: Commencement: S. 11 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-8b3f403952a714543498521ccd802c69]: Commencement: S. 11 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-43bb17e91f415cecafbb88e26f5d1370]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/30/section/11) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)
+[^c-43bb17e91f415cecafbb88e26f5d1370]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2021/30/section/11) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/b)

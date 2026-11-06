@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021 (revoked)[^key-b2cc46b1df2513d3f03ff171e38add80]
+The Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021 (revoked)[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 Approved by both Houses of Parliament
 
@@ -48,170 +48,170 @@ Coming into force
 
 at 4.00 a.m. on 30th November 2021
 
-[^key-b2cc46b1df2513d3f03ff171e38add80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2cc46b1df2513d3f03ff171e38add80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory[^key-b2cc46b1df2513d3f03ff171e38add80]
+## PART 1 — Introductory[^c-b2cc46b1df2513d3f03ff171e38add80]
 
-### 1. Citation, commencement, extent and application[^key-b2cc46b1df2513d3f03ff171e38add80]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 1. Citation, commencement, extent and application[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Requirement to wear a face covering: relevant places and public transport[^key-b2cc46b1df2513d3f03ff171e38add80]
-
-### 3. Requirement to wear a face covering whilst entering or remaining within a relevant place[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 2. Interpretation[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Requirement to wear a face covering when on public transport[^key-b2cc46b1df2513d3f03ff171e38add80]
+## PART 2 — Requirement to wear a face covering: relevant places and public transport[^c-b2cc46b1df2513d3f03ff171e38add80]
+
+### 3. Requirement to wear a face covering whilst entering or remaining within a relevant place[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Reasonable excuse[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 4. Requirement to wear a face covering when on public transport[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Requirements relating to signage and information[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 5. Reasonable excuse[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Prohibition on preventing a person from wearing a face covering[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 6. Requirements relating to signage and information[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Disapplication of requirements[^key-b2cc46b1df2513d3f03ff171e38add80]
-
-### 8. Disapplication by the Secretary of State[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 7. Prohibition on preventing a person from wearing a face covering[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Enforcement[^key-b2cc46b1df2513d3f03ff171e38add80]
+## PART 3 — Disapplication of requirements[^c-b2cc46b1df2513d3f03ff171e38add80]
 
-### 9. Enforcement of requirement to wear a face covering whilst entering or remaining within a relevant place or using public transport[^key-b2cc46b1df2513d3f03ff171e38add80]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 10. Offences and penalties[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 8. Disapplication by the Secretary of State[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Fixed penalty notices[^key-b2cc46b1df2513d3f03ff171e38add80]
+## PART 4 — Enforcement[^c-b2cc46b1df2513d3f03ff171e38add80]
+
+### 9. Enforcement of requirement to wear a face covering whilst entering or remaining within a relevant place or using public transport[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amount of fixed penalty: contravention of regulation 3 or 4[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 10. Offences and penalties[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amount of fixed penalty: contravention of regulation 6 or 7[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 11. Fixed penalty notices[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Prosecutions[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 12. Amount of fixed penalty: contravention of regulation 3 or 4[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Expiry[^key-b2cc46b1df2513d3f03ff171e38add80]
+### 13. Amount of fixed penalty: contravention of regulation 6 or 7[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2cc46b1df2513d3f03ff171e38add80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 14. Prosecutions[^c-b2cc46b1df2513d3f03ff171e38add80]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 15. Expiry[^c-b2cc46b1df2513d3f03ff171e38add80]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-b2cc46b1df2513d3f03ff171e38add80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Relevant places[^key-b2cc46b1df2513d3f03ff171e38add80]
+## SCHEDULE 1 — Relevant places[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 Regulation 3
 
-### PART 1 — Places where face coverings must be worn[^key-b2cc46b1df2513d3f03ff171e38add80]
+### PART 1 — Places where face coverings must be worn[^c-b2cc46b1df2513d3f03ff171e38add80]
 
-**1.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 2 — Places where face coverings need not be worn[^key-b2cc46b1df2513d3f03ff171e38add80]
+### Part 2 — Places where face coverings need not be worn[^c-b2cc46b1df2513d3f03ff171e38add80]
 
-**29.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Gatherings taking place in community premises where face coverings need not be worn[^key-b2cc46b1df2513d3f03ff171e38add80]
+## SCHEDULE 2 — Gatherings taking place in community premises where face coverings need not be worn[^c-b2cc46b1df2513d3f03ff171e38add80]
 
 Regulation 3(2)(q)(i)
 
-**1.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b2cc46b1df2513d3f03ff171e38add80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b2cc46b1df2513d3f03ff171e38add80]EXPLANATORY NOTE
+[^c-b2cc46b1df2513d3f03ff171e38add80]EXPLANATORY NOTE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2cc46b1df2513d3f03ff171e38add80]: Textual amendment: Regulations expired (27.1.2022) by virtue of [The Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021 (S.I. 2021/1340)](https://www.legislation.gov.uk/uksi/2021/1340), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2021/1340/regulation/15/1) (as amended by [S.I. 2021/1400](https://www.legislation.gov.uk/uksi/2021/1400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1400/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2021/1400/regulation/2/12/a))
+[^c-b2cc46b1df2513d3f03ff171e38add80]: Textual amendment: Regulations expired (27.1.2022) by virtue of [The Health Protection (Coronavirus, Wearing of Face Coverings) (England) Regulations 2021 (S.I. 2021/1340)](https://www.legislation.gov.uk/uksi/2021/1340), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2021/1340/regulation/15/1) (as amended by [S.I. 2021/1400](https://www.legislation.gov.uk/uksi/2021/1400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1400/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2021/1400/regulation/2/12/a))

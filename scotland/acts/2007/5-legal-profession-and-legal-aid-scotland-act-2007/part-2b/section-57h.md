@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57H. Complaints about agents and writers[^key-c6cae0773876b5fff30f71dad55c877e]
+## 57H. Complaints about agents and writers[^c-c6cae0773876b5fff30f71dad55c877e]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6cae0773876b5fff30f71dad55c877e]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/asp/2007/5/part/2B) inserted (1.4.2011 for specified purposes) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 114](https://www.legislation.gov.uk/asp/2010/16/section/114), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-c6cae0773876b5fff30f71dad55c877e]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/asp/2007/5/part/2B) inserted (1.4.2011 for specified purposes) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 114](https://www.legislation.gov.uk/asp/2010/16/section/114), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

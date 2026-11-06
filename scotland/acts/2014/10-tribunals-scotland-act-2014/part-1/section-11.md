@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Consultation on regulations[^key-18a99cfe4d7a92c49ade19734641a6a5]
+## 11. Consultation on regulations[^c-18a99cfe4d7a92c49ade19734641a6a5]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18a99cfe4d7a92c49ade19734641a6a5]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/10/section/11) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-18a99cfe4d7a92c49ade19734641a6a5]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2014/10/section/11) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Payment of loans for living costs[^key-bae3c2bad004a3876422dc5974e4e9c9]
+## 61. Payment of loans for living costs[^c-bae3c2bad004a3876422dc5974e4e9c9]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bae3c2bad004a3876422dc5974e4e9c9]: Commencement: Reg. 61 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-bae3c2bad004a3876422dc5974e4e9c9]: Commencement: Reg. 61 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

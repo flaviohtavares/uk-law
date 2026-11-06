@@ -43,13 +43,13 @@ Coming into force in accordance with article 1(2)
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 59 and 74(1)(c) of the Town and Country Planning Act 1990[^f00001] and now exercisable by them[^f00002], and in exercise of the powers conferred on them by sections 61Z(8) and (9), 62R and 333(4B) of that Act[^f00003], make the following Order.
 
-## 1. Title, commencement, application and interpretation[^key-8bb56060d70d175903edee8e975b2329]
+## 1. Title, commencement, application and interpretation[^c-8bb56060d70d175903edee8e975b2329]
 
 (1) The title of this Order is the Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) Order 2021.
 
 (2) This Order comes into force as follows—
 
-- (a)[^key-5e93d1d4bd69fd2d351613a8a7112ea2] this article and articles 2(1) and 3(1) come into force on 1 December 2021;
+- (a)[^c-5e93d1d4bd69fd2d351613a8a7112ea2] this article and articles 2(1) and 3(1) come into force on 1 December 2021;
 - (b) article 2(2)(b), (3)(a) and (c) and article 3(2)(b) come into force on 24 January 2022.
 
 (3) Where—
@@ -72,14 +72,14 @@ the applicant is to be treated as if they have complied with the requirements of
 - “The 2012 Order” (“*Gorchymyn 2012*”) means the Town and Country Planning (Development Management Procedure) (Wales) Order 2012[^f00005];
 - “The 2016 Order” (“*Gorchymyn 2016*”) means the Developments of National Significance (Procedure) (Wales) Order 2016[^f00006].
 
-## 2. Amendment of the 2012 Order[^key-c5a7110fb26250d71ec6fbe29c17ac6c][^key-f279a218a58e234be6c2137e4759465e]
+## 2. Amendment of the 2012 Order[^c-c5a7110fb26250d71ec6fbe29c17ac6c][^c-f279a218a58e234be6c2137e4759465e]
 
-(1)[^key-c5a7110fb26250d71ec6fbe29c17ac6c] Schedule 4 to the 2012 Order is amended as follows.
+(1)[^c-c5a7110fb26250d71ec6fbe29c17ac6c] Schedule 4 to the 2012 Order is amended as follows.
 
 (2) In the table—
 
-- (a)[^key-a7ce61fa94d5346b1057f1d98ff3c550][^key-c5a7110fb26250d71ec6fbe29c17ac6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-f279a218a58e234be6c2137e4759465e] after row (y) insert—
+- (a)[^c-a7ce61fa94d5346b1057f1d98ff3c550][^c-c5a7110fb26250d71ec6fbe29c17ac6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f279a218a58e234be6c2137e4759465e] after row (y) insert—
 
   > |  |  |  |
   > | --- | --- | --- |
@@ -87,26 +87,26 @@ the applicant is to be treated as if they have complied with the requirements of
 
 (3) Under the heading “Interpretation of Table”—
 
-- (a)[^key-f279a218a58e234be6c2137e4759465e] at the end of paragraph (m) omit “and”;
-- (b)[^key-b72e509004b9876da620295b4c988f50][^key-c5a7110fb26250d71ec6fbe29c17ac6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-f279a218a58e234be6c2137e4759465e] after paragraph (n) insert—
+- (a)[^c-f279a218a58e234be6c2137e4759465e] at the end of paragraph (m) omit “and”;
+- (b)[^c-b72e509004b9876da620295b4c988f50][^c-c5a7110fb26250d71ec6fbe29c17ac6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f279a218a58e234be6c2137e4759465e] after paragraph (n) insert—
 
   > - (o) in paragraph (z) “house in multiple occupation” does not include a converted block of flats to which section 257 of the Housing Act 2004 applies but otherwise has the same meaning as in section 254 of the Housing Act 2004.
 
-## 3. Amendment of the 2016 Order[^key-f9527422796e2b1f168dfd91e2a19cdf][^key-e35948e4d52bfcf3cb9833190ff845aa]
+## 3. Amendment of the 2016 Order[^c-f9527422796e2b1f168dfd91e2a19cdf][^c-e35948e4d52bfcf3cb9833190ff845aa]
 
-(1)[^key-f9527422796e2b1f168dfd91e2a19cdf] Schedule 5 to the 2016 Order is amended as follows.
+(1)[^c-f9527422796e2b1f168dfd91e2a19cdf] Schedule 5 to the 2016 Order is amended as follows.
 
 (2) In the table—
 
-- (a)[^key-d18b0a69b74368de0634b4da69d75dce][^key-f9527422796e2b1f168dfd91e2a19cdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-e35948e4d52bfcf3cb9833190ff845aa] after row (v) insert—
+- (a)[^c-d18b0a69b74368de0634b4da69d75dce][^c-f9527422796e2b1f168dfd91e2a19cdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e35948e4d52bfcf3cb9833190ff845aa] after row (v) insert—
 
   > |  |  |  |
   > | --- | --- | --- |
   > | (w) | Development—<br>- (i) involving waste development;<br>- (ii) involving the provision of a building or buildings where the floor space to be created by the development is 1,000 square metres or more; or<br>- (iii) carried out on a site having an area of 1 hectare or more. | The Fire and Rescue Authority concerned |
 
-(3)[^key-87d71c0fd540cd60ca1cfb949700fbd3][^key-f9527422796e2b1f168dfd91e2a19cdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-87d71c0fd540cd60ca1cfb949700fbd3][^c-f9527422796e2b1f168dfd91e2a19cdf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Julie James
 
@@ -147,9 +147,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Section 61Z was inserted by section 17(1) and (2) of the 2015 Act. Section 62R was inserted by section 25 of the 2015 Act. Section 333(4B) was inserted by section 55 of, and paragraph 6(1) and (3) of Schedule 7 to the 2015 Act.
 
-[^key-8bb56060d70d175903edee8e975b2329]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1189/article/1) in force at 1.12.2021, see [art. 1](https://www.legislation.gov.uk/wsi/2021/1189/article/1)
+[^c-8bb56060d70d175903edee8e975b2329]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1189/article/1) in force at 1.12.2021, see [art. 1](https://www.legislation.gov.uk/wsi/2021/1189/article/1)
 
-[^key-5e93d1d4bd69fd2d351613a8a7112ea2]: Textual amendment: [Art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/a) substituted (25.11.2021) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/2)
+[^c-5e93d1d4bd69fd2d351613a8a7112ea2]: Textual amendment: [Art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/a) substituted (25.11.2021) by [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/2)
 
 [^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -157,18 +157,18 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: [S.I. 2016/55 (W. 25)](https://www.legislation.gov.uk/wsi/2016/55).
 
-[^key-c5a7110fb26250d71ec6fbe29c17ac6c]: Commencement: Art. 2(1) in force at 1.12.2021, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/a)
+[^c-c5a7110fb26250d71ec6fbe29c17ac6c]: Commencement: Art. 2(1) in force at 1.12.2021, see [art. 1(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/a)
 
-[^key-f279a218a58e234be6c2137e4759465e]: Commencement: [Art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/2/b)[(3)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/a)[(c)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/c) in force at 24.1.2022, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b)
+[^c-f279a218a58e234be6c2137e4759465e]: Commencement: [Art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/2/b)[(3)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/a)[(c)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/c) in force at 24.1.2022, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b)
 
-[^key-a7ce61fa94d5346b1057f1d98ff3c550]: Textual amendment: [Art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/2/a) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/a)
+[^c-a7ce61fa94d5346b1057f1d98ff3c550]: Textual amendment: [Art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/2/a) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/a)
 
-[^key-b72e509004b9876da620295b4c988f50]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/b) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/b)
+[^c-b72e509004b9876da620295b4c988f50]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/2/3/b) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/b)
 
-[^key-f9527422796e2b1f168dfd91e2a19cdf]: Commencement: Art. 3(1) in force at 1.12.2021, see art. 1(2)(a)
+[^c-f9527422796e2b1f168dfd91e2a19cdf]: Commencement: Art. 3(1) in force at 1.12.2021, see art. 1(2)(a)
 
-[^key-e35948e4d52bfcf3cb9833190ff845aa]: Commencement: [Art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/3/2/b) in force at 24.1.2022, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b)
+[^c-e35948e4d52bfcf3cb9833190ff845aa]: Commencement: [Art. 3(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/3/2/b) in force at 24.1.2022, see [art. 1(2)(b)](https://www.legislation.gov.uk/wsi/2021/1189/article/1/2/b)
 
-[^key-d18b0a69b74368de0634b4da69d75dce]: Textual amendment: [Art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/3/2/a) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/c)
+[^c-d18b0a69b74368de0634b4da69d75dce]: Textual amendment: [Art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2021/1189/article/3/2/a) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/c)
 
-[^key-87d71c0fd540cd60ca1cfb949700fbd3]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/wsi/2021/1189/article/3/3) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/d)
+[^c-87d71c0fd540cd60ca1cfb949700fbd3]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/wsi/2021/1189/article/3/3) omitted (25.11.2021) by virtue of [The Development Procedure (Consultees) (Wales) (Miscellaneous Amendments) (Amendment) Order 2021 (S.I. 2021/1297)](https://www.legislation.gov.uk/wsi/2021/1297), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1297/article/1/2), [2(3)(d)](https://www.legislation.gov.uk/wsi/2021/1297/article/2/3/d)

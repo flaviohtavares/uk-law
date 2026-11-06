@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 393. Compensation for depreciation of value of land[^key-abb26e3a609a141bad596bed0f8a02d4]
+## 393. Compensation for depreciation of value of land[^c-abb26e3a609a141bad596bed0f8a02d4]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abb26e3a609a141bad596bed0f8a02d4]: Commencement: S. 393 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-abb26e3a609a141bad596bed0f8a02d4]: Commencement: S. 393 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

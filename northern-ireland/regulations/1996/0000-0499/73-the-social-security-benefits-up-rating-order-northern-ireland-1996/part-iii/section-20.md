@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. The relevant sum for income support[^key-d466ebd099457e703ab6daca31c8f979]
+## 20. The relevant sum for income support[^c-d466ebd099457e703ab6daca31c8f979]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ In section 125(7) of the Contributions and Benefits Act[^f00034] (trade disputes
 
 ## Annotations
 
-[^key-d466ebd099457e703ab6daca31c8f979]: Commencement: Art. 20 comes into force in accordance with art. 1(1)(h)
+[^c-d466ebd099457e703ab6daca31c8f979]: Commencement: Art. 20 comes into force in accordance with art. 1(1)(h)
 
 [^f00034]: Footnote: Section 125(7) was amended by Article 20 of [S.R. 1995 No. 71](https://www.legislation.gov.uk/nisr/1995/71)

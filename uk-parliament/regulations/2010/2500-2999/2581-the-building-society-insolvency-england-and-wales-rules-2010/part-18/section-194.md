@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194. Nomination and appointment of shorthand writers[^key-fb388d551677207cc4a0e9d85ccbe144]
+## 194. Nomination and appointment of shorthand writers[^c-fb388d551677207cc4a0e9d85ccbe144]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb388d551677207cc4a0e9d85ccbe144]: Commencement: Rule 194 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fb388d551677207cc4a0e9d85ccbe144]: Commencement: Rule 194 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00068]: Footnote: Rule 7.16 was amended by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).

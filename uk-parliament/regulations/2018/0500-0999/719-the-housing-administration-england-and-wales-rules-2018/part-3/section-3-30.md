@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.30. Application of Chapter 7[^key-782617eb7a53e41719e442e08898a16b]
+## 3.30. Application of Chapter 7[^c-782617eb7a53e41719e442e08898a16b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter applies to the disclosure of information which would be likely to p
 
 ## Annotations
 
-[^key-782617eb7a53e41719e442e08898a16b]: Commencement: Rule 3.30 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-782617eb7a53e41719e442e08898a16b]: Commencement: Rule 3.30 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

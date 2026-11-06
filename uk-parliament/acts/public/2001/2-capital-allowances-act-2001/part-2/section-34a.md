@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Expenditure on plant or machinery for long funding leasing not qualifying expenditure[^key-99fcf7a96214f78746665c591bb1ea99]
+## 34A. Expenditure on plant or machinery for long funding leasing not qualifying expenditure[^c-99fcf7a96214f78746665c591bb1ea99]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Expenditure is not qualifying expenditure if it is incurred on the provision of 
 
 ## Annotations
 
-[^key-99fcf7a96214f78746665c591bb1ea99]: Textual amendment: S. 34A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/3)
+[^c-99fcf7a96214f78746665c591bb1ea99]: Textual amendment: S. 34A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/3)

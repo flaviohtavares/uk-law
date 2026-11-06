@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262AD. Co-ownership schemes: effect of election for participants[^key-18b6232020d0001d9dbf020b95ca3a81]
+## 262AD. Co-ownership schemes: effect of election for participants[^c-18b6232020d0001d9dbf020b95ca3a81]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section has effect where an election under section 262AB is made by the operator of a co-ownership [^key-740bf4d3bd6b7b991cb694ce5e7fa3d9]... contractual scheme.
+(1) This section has effect where an election under section 262AB is made by the operator of a co-ownership [^c-740bf4d3bd6b7b991cb694ce5e7fa3d9]... contractual scheme.
 
 (2) For the purposes of sections 61(1) and 196(1) (disposal events and values)—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18b6232020d0001d9dbf020b95ca3a81]: Textual amendment: Ss. 262AA-262AF and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 40](https://www.legislation.gov.uk/ukpga/2017/32/section/40)
+[^c-18b6232020d0001d9dbf020b95ca3a81]: Textual amendment: Ss. 262AA-262AF and cross-heading inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 40](https://www.legislation.gov.uk/ukpga/2017/32/section/40)
 
-[^key-740bf4d3bd6b7b991cb694ce5e7fa3d9]: Textual amendment: Word in [s. 262AD(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/262AD/1) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(6)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/6) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-740bf4d3bd6b7b991cb694ce5e7fa3d9]: Textual amendment: Word in [s. 262AD(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/262AD/1) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [55(6)](https://www.legislation.gov.uk/uksi/2025/200/regulation/55/6) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

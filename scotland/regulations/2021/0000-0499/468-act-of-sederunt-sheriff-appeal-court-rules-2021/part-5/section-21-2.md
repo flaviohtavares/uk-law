@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21.2. Application for an award of expenses[^key-d448e443e1f91498de04ec56a274df5b]
+## 21.2. Application for an award of expenses[^c-d448e443e1f91498de04ec56a274df5b]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d448e443e1f91498de04ec56a274df5b]: Commencement: Para. 21.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-d448e443e1f91498de04ec56a274df5b]: Commencement: Para. 21.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Prohibition of certain payments[^key-bf9fbeefbc5e3a824bf0412e324f5df0]
+## 99. Prohibition of certain payments[^c-bf9fbeefbc5e3a824bf0412e324f5df0]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-bf9fbeefbc5e3a824bf0412e324f5df0]: Commencement: S. 99 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-bf9fbeefbc5e3a824bf0412e324f5df0]: Commencement: S. 99 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

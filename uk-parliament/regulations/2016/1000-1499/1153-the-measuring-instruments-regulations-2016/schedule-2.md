@@ -40,7 +40,7 @@ A cold-water meter—
 
 **2.**[^M_E_72ae6a8c-b80a-4e45-ec58-9239d51b83dc] A cold-water meter—
 
-- (a) in respect of a pattern of which EEC pattern approval was granted before 30th October 2006 in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 (or in accordance with the measures in force in another relevant[^key-541360df65c742e451d4553dab7fffff] state which implement Council Directive [75/33/EEC](https://www.legislation.gov.uk/european/directive/1975/0033) [^V_NI_a18f20c5-4300-fd4e-ab4c-ba1971bfb984]); and
+- (a) in respect of a pattern of which EEC pattern approval was granted before 30th October 2006 in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 (or in accordance with the measures in force in another relevant[^c-541360df65c742e451d4553dab7fffff] state which implement Council Directive [75/33/EEC](https://www.legislation.gov.uk/european/directive/1975/0033) [^V_NI_a18f20c5-4300-fd4e-ab4c-ba1971bfb984]); and
 - (b) which bears a mark of EEC initial verification or of EEC partial verification, in either case, affixed before 30th October 2016 in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 (or in accordance with the measures in force in another relevant state which implement Council Directive [71/316/EEC](https://www.legislation.gov.uk/european/directive/1971/0316) [^V_NI_245387aa-5b34-8a85-b975-1a96ea9cf3e7] as amended by Council Directives [72/427/EEC](https://www.legislation.gov.uk/european/directive/1972/0427) [^V_NI_89273143-1c6b-6b68-df41-6eb210b893ab], [83/575/EEC](https://www.legislation.gov.uk/european/directive/1983/0575) [^V_NI_cdef3a0e-c336-d0d2-8850-fbf4634852dd], [87/354/EEC](https://www.legislation.gov.uk/european/directive/1987/0354) [^V_NI_0a5b6e9b-1381-96a9-bc31-f959c87a5283] [87/355/EEC](https://www.legislation.gov.uk/european/directive/1987/0355) [^V_NI_9b47ee00-a7af-afc9-9fed-48b99bd124a7] and [88/665/EEC](https://www.legislation.gov.uk/european/directive/1988/0665) [^V_NI_f141fcbf-5ace-74ec-c9b5-b97b57823e8e].
 
 ### 3. Gas meters
@@ -67,7 +67,7 @@ A gas meter for use for trade which was—
 
 - (a) in respect of which an EEC pattern approval was granted before 30th October 2006—
   - (i) under the Measuring Instruments (EEC Requirements) Regulations 1988 [^V_NI_86bd3e1c-b5f4-ad1f-86a8-129c002ac582], as applied to gas meters by the Measuring Instruments (EEC Requirements) (Gas Volume Meters) Regulations 1988 [^V_NI_956e6d4b-2b67-e290-2ab3-b97ab1a93767]; or
-  - (ii) by any other relevant[^key-8e86f4a8d1ee3c75fd8cec3d3b5c4025] state in accordance with the relevant provisions of measures in force which implement Council Directive 71/318 [^V_NI_d9adfae8-8886-5747-b4c8-26440a54b1b4],
+  - (ii) by any other relevant[^c-8e86f4a8d1ee3c75fd8cec3d3b5c4025] state in accordance with the relevant provisions of measures in force which implement Council Directive 71/318 [^V_NI_d9adfae8-8886-5747-b4c8-26440a54b1b4],
 
   and
 - (b) which bears a mark of EEC initial verification affixed before 30th October 2016 under those Regulations (as so applied) or by any other relevant state in accordance with those provisions.
@@ -103,7 +103,7 @@ An active electrical energy meter for use for trade which was—
 
 - (a) in respect of which an EEC pattern approval was granted before 30th October 2006—
   - (i) under the Measuring Instruments (EC Requirements) (Electrical Energy Meters) Regulations 1995 [^V_NI_a7758063-9ff3-91a9-6dc6-6cd02ee6bf00]; or
-  - (ii) any other relevant[^key-ab57126773c28bc4ffa4d899fab48524] state in accordance with the relevant provisions of measures in force which implement Council Directive 76/891 [^V_NI_8a32f2e8-e6f4-0845-b21e-b3bc8db15765]; and
+  - (ii) any other relevant[^c-ab57126773c28bc4ffa4d899fab48524] state in accordance with the relevant provisions of measures in force which implement Council Directive 76/891 [^V_NI_8a32f2e8-e6f4-0845-b21e-b3bc8db15765]; and
 - (b) which bears a mark of EEC initial verification affixed before 30th October 2016 under those Regulations or by any other relevant state in accordance with those provisions.
 
 ### 8. Automatic Weighing instruments
@@ -147,7 +147,7 @@ A measuring system for use for trade in the making of a continuous and dynamic m
 
 (2) For the purposes of paragraph (1)—
 
-- (a) a grant of EEC pattern approval or the affixing of a mark of EEC initial verification must have been in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 [^V_NI_27d19c13-5a5d-aba9-2ae7-490cab57e1db] or, in the case of any other relevant[^key-baea01cf11f84621fb62995f1a1953f7] state, in accordance with the measures in force which implemented—
+- (a) a grant of EEC pattern approval or the affixing of a mark of EEC initial verification must have been in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 [^V_NI_27d19c13-5a5d-aba9-2ae7-490cab57e1db] or, in the case of any other relevant[^c-baea01cf11f84621fb62995f1a1953f7] state, in accordance with the measures in force which implemented—
   - (i) Council Directive 71/319 EEC [^V_NI_e0fa5bff-f664-38f9-5db1-82192768d239];
   - (ii) Council Directive [71/348/EEC](https://www.legislation.gov.uk/european/directive/1971/0348) [^V_NI_ce99c04d-ba48-8b9a-efe2-1081d0f2a31b] as amended by the Treaty of Accession 1994 [^V_NI_e873d334-c37a-3fcf-75c0-0d520f28610c]; and
   - (iii) Council Directive [77/313/EEC](https://www.legislation.gov.uk/european/directive/1977/0313) [^V_NI_cce8a609-f37b-e6a3-7b59-7aac2f0d7c23] as amended by Commission Directive [82/625/EEC](https://www.legislation.gov.uk/european/directive/1982/0625) [^V_NI_fd8309ed-ea3e-e503-6df4-a2e20c002707]; and
@@ -184,7 +184,7 @@ A measuring system for use for trade in the making of a continuous and dynamic m
 
 (2) For the purposes of paragraph (1)—
 
-- (a) a grant of EEC pattern approval or the affixing of a mark of EEC initial verification must have been in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 [^V_NI_30f98402-6270-e91a-c01e-263bc5a65c72] or, in the case of any other relevant[^key-7937eeb6943b0145715c43709d27b4c0] state, in accordance with the measures in force which implemented—
+- (a) a grant of EEC pattern approval or the affixing of a mark of EEC initial verification must have been in accordance with the Measuring Instruments (EEC Requirements) Regulations 1988 [^V_NI_30f98402-6270-e91a-c01e-263bc5a65c72] or, in the case of any other relevant[^c-7937eeb6943b0145715c43709d27b4c0] state, in accordance with the measures in force which implemented—
   - (i) Council Directive 71/319 EEC [^V_NI_27545501-07d1-faef-b283-ab3105cdf4e2];
   - (ii) Council Directive [71/348/EEC](https://www.legislation.gov.uk/european/directive/1971/0348) [^V_NI_2453fb1c-319a-1506-9dd0-dd0514b9652b] as amended by the Treaty of Accession 1994 [^V_NI_eb5298e2-d4eb-b4fc-39a6-7c997a02611f]; and
   - (iii) Council Directive [77/313/EEC](https://www.legislation.gov.uk/european/directive/1977/0313) [^V_NI_cd5dcbf7-18ad-db33-b214-93f1a535e9ed] as amended by Commission Directive [82/625/EEC](https://www.legislation.gov.uk/european/directive/1982/0625) [^V_NI_4f0ad8c0-ba2d-90f7-03fe-0179adbe3d7d]; and
@@ -243,7 +243,7 @@ An exhaust gas analyser
 
 [^M_E_72ae6a8c-b80a-4e45-ec58-9239d51b83dc]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-541360df65c742e451d4553dab7fffff]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/a)
+[^c-541360df65c742e451d4553dab7fffff]: Textual amendment: Word in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/a)
 
 [^V_NI_a18f20c5-4300-fd4e-ab4c-ba1971bfb984]: Textual amendment: OJ No. L14, 20.1.75, p.1. Directive 75/33/EEC was repealed by Directive 2004/22/EC (OJ No. L135, 30.04.04, p.1).
 
@@ -277,7 +277,7 @@ An exhaust gas analyser
 
 [^V_NI_956e6d4b-2b67-e290-2ab3-b97ab1a93767]: Textual amendment: [S.I. 1988/296](https://www.legislation.gov.uk/uksi/1988/296), as amended by [S.I. 1996/319](https://www.legislation.gov.uk/uksi/1996/319).
 
-[^key-8e86f4a8d1ee3c75fd8cec3d3b5c4025]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/b)
+[^c-8e86f4a8d1ee3c75fd8cec3d3b5c4025]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/b)
 
 [^V_NI_d9adfae8-8886-5747-b4c8-26440a54b1b4]: Textual amendment: Directive 71/318 on the approximation of the laws of member States relating to gas meters.
 
@@ -295,7 +295,7 @@ An exhaust gas analyser
 
 [^V_NI_a7758063-9ff3-91a9-6dc6-6cd02ee6bf00]: Textual amendment: [S.I. 1995/2607](https://www.legislation.gov.uk/uksi/1995/2607).
 
-[^key-ab57126773c28bc4ffa4d899fab48524]: Textual amendment: Word in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/7) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(c)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/c)
+[^c-ab57126773c28bc4ffa4d899fab48524]: Textual amendment: Word in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/7) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(c)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/c)
 
 [^V_NI_8a32f2e8-e6f4-0845-b21e-b3bc8db15765]: Textual amendment: Directive 76/891 on the approximation of the laws of member States relating to electrical energy meters.
 
@@ -337,7 +337,7 @@ An exhaust gas analyser
 
 [^V_NI_27d19c13-5a5d-aba9-2ae7-490cab57e1db]: Textual amendment: [S.I. 1988/186](https://www.legislation.gov.uk/uksi/1988/186), as amended by [S.I. 1988/296](https://www.legislation.gov.uk/uksi/1988/296) and [S.I. 1988/1128](https://www.legislation.gov.uk/uksi/1988/1128).
 
-[^key-baea01cf11f84621fb62995f1a1953f7]: Textual amendment: Word in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/10) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(d)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/d)
+[^c-baea01cf11f84621fb62995f1a1953f7]: Textual amendment: Word in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/10) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(d)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/d)
 
 [^V_NI_e0fa5bff-f664-38f9-5db1-82192768d239]: Textual amendment: OJ No. L202, 6.9.71, p.32, repealed by Directive 2004/22/EC (OJ No. L13, 30.4.04, p.1.
 
@@ -393,7 +393,7 @@ An exhaust gas analyser
 
 [^V_NI_30f98402-6270-e91a-c01e-263bc5a65c72]: Textual amendment: [S.I. 1988/186](https://www.legislation.gov.uk/uksi/1988/186), as amended by [S.I. 1988/296](https://www.legislation.gov.uk/uksi/1988/296) and [S.I. 1988/1128](https://www.legislation.gov.uk/uksi/1988/1128).
 
-[^key-7937eeb6943b0145715c43709d27b4c0]: Textual amendment: Word in [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/12) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(e)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/e)
+[^c-7937eeb6943b0145715c43709d27b4c0]: Textual amendment: Word in [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2016/1153/schedule/2/paragraph/12) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 14 para. 8(1)(e)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/14/paragraph/8/1/e)
 
 [^V_NI_27545501-07d1-faef-b283-ab3105cdf4e2]: Textual amendment: OJ No. L202, 6.9.71, p.32, repealed by Directive 2004/22/EC (OJ No. L13, 30.4.04, p.1.
 

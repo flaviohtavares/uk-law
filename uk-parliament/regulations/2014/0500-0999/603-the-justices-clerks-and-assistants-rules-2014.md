@@ -44,7 +44,7 @@ In accordance with section 31P(2) of that Act, a draft of these Rules has been l
 
 Before making these Rules, the Lord Chancellor has consulted the Family Procedure Rule Committee in accordance with section 31O(1) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-265ca06f62844f8e3cdbb136ae80a3ab]
+## 1. Citation, commencement and interpretation[^c-265ca06f62844f8e3cdbb136ae80a3ab]
 
 (1) These Rules may be cited as the Justices’ Clerks and Assistants Rules 2014 and shall come into force on the day on which section 17(3) of the Crime and Courts Act 2013[^f00002] comes fully into force.
 
@@ -57,11 +57,11 @@ Before making these Rules, the Lord Chancellor has consulted the Family Procedur
 - “MCA” means the Matrimonial Causes Act 1973[^f00006];
 - “undefended case” has the meaning given in FPR rule 7.1(3);
 
-## 2. Functions which may be carried out by a justices’ clerk[^key-9453d8923dc39319b75428bc52bfca5b]
+## 2. Functions which may be carried out by a justices’ clerk[^c-9453d8923dc39319b75428bc52bfca5b]
 
 The functions of the family court or of a judge of the court that may be carried out by a justices’ clerk are the functions of the family court or of a judge of the court specified in the provisions listed in the first column of the table in the Schedule subject to the exceptions or restrictions specified in the second column in relation to particular functions.
 
-## 3. Functions which may be carried out by an assistant justices’ clerk[^key-da7e4cb93297aebaa7c901eaf391203a]
+## 3. Functions which may be carried out by an assistant justices’ clerk[^c-da7e4cb93297aebaa7c901eaf391203a]
 
 (1) An assistant justices’ clerk may carry out any function that a justices’ clerk may carry out pursuant to rule 2, provided that that assistant justices’ clerk has been authorised by a justices’ clerk to carry out that function.
 
@@ -69,7 +69,7 @@ The functions of the family court or of a judge of the court that may be carried
 
 (3) An authorisation by a justices’ clerk under paragraph (1) above must be recorded in writing at the time the authorisation is given or as soon as practicable thereafter.
 
-## 4. Duty to refer if inappropriate to carry out function[^key-7339daff60dc833e7026c54e1ac00b95]
+## 4. Duty to refer if inappropriate to carry out function[^c-7339daff60dc833e7026c54e1ac00b95]
 
 (1) When considering carrying out a function specified in the Schedule, a justices’ clerk must consider whether in the particular circumstances it would be inappropriate to carry out the function.
 
@@ -87,13 +87,13 @@ Ministry of Justice
 
 12th March 2014
 
-## SCHEDULE[^key-89d7bd5ca3ee531b45357223418a7c37]
+## SCHEDULE[^c-89d7bd5ca3ee531b45357223418a7c37]
 
 Rule 2
 
 |  |  |
 | --- | --- |
-| FPR rule 3.3[^key-1e2ab4a4143a09d5e5b28ec2298a0710] |  |
+| FPR rule 3.3[^c-1e2ab4a4143a09d5e5b28ec2298a0710] |  |
 | FPR rule 3.4 |  |
 | FPR rule 3.10 |  |
 | FPR rule 4.1(3)(a) | Except any extensions in public law proceedings that would have the effect that disposal of the application would occur later than the end of twenty-six weeks beginning with the day on which the application was issued. |
@@ -101,7 +101,7 @@ Rule 2
 | FPR rule 4.3(2) |  |
 | FPR rule 4.3(5) |  |
 | FPR rule 4.7(a) and (b) |  |
-| FPR rule 6.14(4) and (6)[^key-ff01ce0fe29b596af9fa6e9aaaa78a8b] |  |
+| FPR rule 6.14(4) and (6)[^c-ff01ce0fe29b596af9fa6e9aaaa78a8b] |  |
 | FPR rule 6.16(1) |  |
 | FPR rule 6.19 |  |
 | FPR rule 6.20 |  |
@@ -117,23 +117,23 @@ Rule 2
 | CPA, section 37(1)(a) and (d) | Only in undefended cases, and only the making “final” of such orders |
 | CPA, section 42(3) | Only where the parties consent to the adjournment |
 | CPA, sections 44(2) and (4) | Only in undefended cases |
-| FPR rule 7.10(3)(a)[^key-de82566309d0dc9986d96015c8f59224] | Only where the petitioner and respondent agree that a named person should not be made a co-respondent |
-| FPR rule 7.13(5)(b)[^key-8f1608590c433f937e873c744986b3aa] | Only in undefended cases |
+| FPR rule 7.10(3)(a)[^c-de82566309d0dc9986d96015c8f59224] | Only where the petitioner and respondent agree that a named person should not be made a co-respondent |
+| FPR rule 7.13(5)(b)[^c-8f1608590c433f937e873c744986b3aa] | Only in undefended cases |
 | FPR rule 7.13(7) | Only in undefended cases |
 | FPR rule 7.13(8) | Only in undefended cases |
-| FPR rule 7.14(1) | [^key-11300d6163c43c3ec41726f3b85e72ef]. . . |
+| FPR rule 7.14(1) | [^c-11300d6163c43c3ec41726f3b85e72ef]. . . |
 | FPR rule 7.20(2) |  |
 | FPR rule 7.20(3) |  |
-| FPR rule 7.20(4)[^key-eaf480c2d3c6471e870f4cc840cb2546] |  |
+| FPR rule 7.20(4)[^c-eaf480c2d3c6471e870f4cc840cb2546] |  |
 | FPR rule 7.20(5) |  |
-| FPR rule 7.21(3)[^key-ddf41e70ed22fc2f34aeb66ad7e54e7e] |  |
+| FPR rule 7.21(3)[^c-ddf41e70ed22fc2f34aeb66ad7e54e7e] |  |
 | FPR rule 7.30(1)(d)(ii) and (3) | Only where the application under section 10A(2) was made on consent |
 | FPR 7.32(2) |  |
 | FPR rule 8.20(4) | Only where the parties consent to the person being made a respondent and where the person is not a child |
 | FPR rule 9.18 |  |
 | FPR rule 9.20 |  |
 | FPR rule 9.26 |  |
-| FPR rule 9.46(2)[^key-eba1ccda91cee38c2905ddf28b502aa0] |  |
+| FPR rule 9.46(2)[^c-eba1ccda91cee38c2905ddf28b502aa0] |  |
 | FPR rule 10.3(1) |  |
 | FPR rule 10.6(2) |  |
 | FPR rule 10.7 |  |
@@ -313,7 +313,7 @@ An impact assessment for these Rules in annexed to the Explanatory Memorandum, w
 
 [^f00001]: Footnote: [1984 c.42](https://www.legislation.gov.uk/ukpga/1984/42). Sections 31O and 31P were inserted by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(6) and Schedule 10, paragraph 1 (which, together with section 17(3) of that Act, establish the family court in England and Wales).
 
-[^key-265ca06f62844f8e3cdbb136ae80a3ab]: Commencement: Rule 1 in force at 22.4.2014 in accordance with rule 1(1)
+[^c-265ca06f62844f8e3cdbb136ae80a3ab]: Commencement: Rule 1 in force at 22.4.2014 in accordance with rule 1(1)
 
 [^f00002]: Footnote: [2013 c.22](https://www.legislation.gov.uk/ukpga/2013/22).
 
@@ -325,26 +325,26 @@ An impact assessment for these Rules in annexed to the Explanatory Memorandum, w
 
 [^f00006]: Footnote: [1973 c.18](https://www.legislation.gov.uk/ukpga/1973/18).
 
-[^key-9453d8923dc39319b75428bc52bfca5b]: Commencement: Rule 2 in force at 22.4.2014 in accordance with rule 1(1)
+[^c-9453d8923dc39319b75428bc52bfca5b]: Commencement: Rule 2 in force at 22.4.2014 in accordance with rule 1(1)
 
-[^key-da7e4cb93297aebaa7c901eaf391203a]: Commencement: Rule 3 in force at 22.4.2014 in accordance with rule 1(1)
+[^c-da7e4cb93297aebaa7c901eaf391203a]: Commencement: Rule 3 in force at 22.4.2014 in accordance with rule 1(1)
 
-[^key-7339daff60dc833e7026c54e1ac00b95]: Commencement: Rule 4 in force at 22.4.2014 in accordance with rule 1(1)
+[^c-7339daff60dc833e7026c54e1ac00b95]: Commencement: Rule 4 in force at 22.4.2014 in accordance with rule 1(1)
 
-[^key-89d7bd5ca3ee531b45357223418a7c37]: Commencement: Sch. in force at 22.4.2014 in accordance with rule 1(1)
+[^c-89d7bd5ca3ee531b45357223418a7c37]: Commencement: Sch. in force at 22.4.2014 in accordance with rule 1(1)
 
-[^key-1e2ab4a4143a09d5e5b28ec2298a0710]: Textual amendment: Sch. table substituted (22.4.2014) by [The Justices’ Clerks and Assistants (Amendment) Rules 2014 (S.I. 2014/841)](https://www.legislation.gov.uk/uksi/2014/841), [arts. 1](https://www.legislation.gov.uk/uksi/2014/841/article/1), [3](https://www.legislation.gov.uk/uksi/2014/841/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/841/schedule)
+[^c-1e2ab4a4143a09d5e5b28ec2298a0710]: Textual amendment: Sch. table substituted (22.4.2014) by [The Justices’ Clerks and Assistants (Amendment) Rules 2014 (S.I. 2014/841)](https://www.legislation.gov.uk/uksi/2014/841), [arts. 1](https://www.legislation.gov.uk/uksi/2014/841/article/1), [3](https://www.legislation.gov.uk/uksi/2014/841/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/841/schedule)
 
-[^key-ff01ce0fe29b596af9fa6e9aaaa78a8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/a)
+[^c-ff01ce0fe29b596af9fa6e9aaaa78a8b]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/a)
 
-[^key-de82566309d0dc9986d96015c8f59224]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/b)
+[^c-de82566309d0dc9986d96015c8f59224]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/b)
 
-[^key-8f1608590c433f937e873c744986b3aa]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (1.7.2015) by [The Justices' Clerks and Assistants (Amendment) Rules 2015 (S.I. 2015/890)](https://www.legislation.gov.uk/uksi/2015/890), [rules 1](https://www.legislation.gov.uk/uksi/2015/890/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/890/rule/2/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2015/890/rule/3))
+[^c-8f1608590c433f937e873c744986b3aa]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (1.7.2015) by [The Justices' Clerks and Assistants (Amendment) Rules 2015 (S.I. 2015/890)](https://www.legislation.gov.uk/uksi/2015/890), [rules 1](https://www.legislation.gov.uk/uksi/2015/890/rule/1), [2(a)](https://www.legislation.gov.uk/uksi/2015/890/rule/2/a) (with [rule 3](https://www.legislation.gov.uk/uksi/2015/890/rule/3))
 
-[^key-11300d6163c43c3ec41726f3b85e72ef]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table omitted (7.8.2017) by virtue of [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(c)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/c)
+[^c-11300d6163c43c3ec41726f3b85e72ef]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table omitted (7.8.2017) by virtue of [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(c)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/c)
 
-[^key-eaf480c2d3c6471e870f4cc840cb2546]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(d)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/d)
+[^c-eaf480c2d3c6471e870f4cc840cb2546]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(d)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/d)
 
-[^key-ddf41e70ed22fc2f34aeb66ad7e54e7e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (1.7.2015) by [The Justices' Clerks and Assistants (Amendment) Rules 2015 (S.I. 2015/890)](https://www.legislation.gov.uk/uksi/2015/890), [rules 1](https://www.legislation.gov.uk/uksi/2015/890/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/890/rule/2/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2015/890/rule/3))
+[^c-ddf41e70ed22fc2f34aeb66ad7e54e7e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (1.7.2015) by [The Justices' Clerks and Assistants (Amendment) Rules 2015 (S.I. 2015/890)](https://www.legislation.gov.uk/uksi/2015/890), [rules 1](https://www.legislation.gov.uk/uksi/2015/890/rule/1), [2(b)](https://www.legislation.gov.uk/uksi/2015/890/rule/2/b) (with [rule 3](https://www.legislation.gov.uk/uksi/2015/890/rule/3))
 
-[^key-eba1ccda91cee38c2905ddf28b502aa0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(e)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/e)
+[^c-eba1ccda91cee38c2905ddf28b502aa0]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2014/603/schedule) table inserted (7.8.2017) by [The Justices’ Clerks and Assistants (Amendment) Rules 2017 (S.I. 2017/742)](https://www.legislation.gov.uk/uksi/2017/742), [rules 1](https://www.legislation.gov.uk/uksi/2017/742/rule/1), [2(e)](https://www.legislation.gov.uk/uksi/2017/742/rule/2/e)

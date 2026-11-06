@@ -31,7 +31,7 @@ summary: ''
 
 Food
 
-Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-5aa62435132e45e630c3c138ed83cf9e]
+Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-5aa62435132e45e630c3c138ed83cf9e]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 31st August 2009
 
-[^key-5aa62435132e45e630c3c138ed83cf9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5aa62435132e45e630c3c138ed83cf9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5aa62435132e45e630c3c138ed83cf9e]
+## 1. Citation, commencement and interpretation[^c-5aa62435132e45e630c3c138ed83cf9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 1998[^key-5aa62435132e45e630c3c138ed83cf9e]
+## 2. Amendment of the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 1998[^c-5aa62435132e45e630c3c138ed83cf9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5aa62435132e45e630c3c138ed83cf9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5aa62435132e45e630c3c138ed83cf9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5aa62435132e45e630c3c138ed83cf9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5aa62435132e45e630c3c138ed83cf9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5aa62435132e45e630c3c138ed83cf9e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/298) revoked (31.3.2016) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 2016 (S.R. 2016/54)](https://www.legislation.gov.uk/nisr/2016/54), [Sch.](https://www.legislation.gov.uk/nisr/2016/54/schedule)
+[^c-5aa62435132e45e630c3c138ed83cf9e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/298) revoked (31.3.2016) by [The Animals and Animal Products (Examination for Residues and Maximum Residue Limits) Regulations (Northern Ireland) 2016 (S.R. 2016/54)](https://www.legislation.gov.uk/nisr/2016/54), [Sch.](https://www.legislation.gov.uk/nisr/2016/54/schedule)

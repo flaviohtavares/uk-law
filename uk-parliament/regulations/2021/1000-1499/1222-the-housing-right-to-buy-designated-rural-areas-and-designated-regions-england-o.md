@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 157(1)(c) and (3) of the Housing Act 1985[^f00001].
 
-## 1. Citation, commencement, interpretation and application[^key-7c18c7c6bccf944c308ccb44e1c8e1c8]
+## 1. Citation, commencement, interpretation and application[^c-7c18c7c6bccf944c308ccb44e1c8e1c8]
 
 (1) This Order may be cited as the Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2021 and comes into force on 29th November 2021.
 
@@ -57,19 +57,19 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) This Order applies to England only.
 
-## 2. Designated rural areas[^key-57d8e0e803a64e0cded5eded0987f6b6]
+## 2. Designated rural areas[^c-57d8e0e803a64e0cded5eded0987f6b6]
 
 The areas specified in the Schedule are designated as rural areas for the purposes of section 157 of the Act.
 
-## 3. Designated regions[^key-c257f7f8314cb2edd4a3e18d110c0ed5]
+## 3. Designated regions[^c-c257f7f8314cb2edd4a3e18d110c0ed5]
 
 In relation to a dwelling house which is situated in a rural area designated by article 2 and listed in—
 
 - (a) paragraph 1 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of South Somerset;
 - (b) paragraph 2 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of West Lindsey; and
-- (c) paragraph 3 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of Wyre Forest[^key-63ac4e8f35bb80e26ef69450a7abc225].
+- (c) paragraph 3 of the Schedule, the region designated (for the purposes of section 157(3) of the Act) is the district of Wyre Forest[^c-63ac4e8f35bb80e26ef69450a7abc225].
 
-## 4. Revocation of Article 8 of the 2016 Order[^key-8d405fc0071ef7ff9e64287878bb226b]
+## 4. Revocation of Article 8 of the 2016 Order[^c-8d405fc0071ef7ff9e64287878bb226b]
 
 In the 2016 Order, article 8 is revoked.
 
@@ -87,11 +87,11 @@ Department for Levelling Up, Housing and Communities
 
 Article 2
 
-**1.**[^key-59c0bc8dbf47b963ea1d27ac49de16e9] In the district of South Somerset the parishes of Abbas and Templecombe, Alford, Aller, Ash, Ashill, Babcary, Barrington, Barton St. David, Barwick, Beercrocombe, Bratton Seymour, Brewham, Broadway, Chaffcombe, Charlton Horethorne, Charlton Mackrell, Charlton Musgrove, Chillington, Chilthorne Domer, Chilton Cantelo, Chiselborough, Closworth, Combe St Nicholas, Compton Dundon, Compton Pauncefoot, Corton Denham, Cricket St Thomas, Cucklington, Cudworth, Curry Mallet, Curry Rivel, Dinnington, Donyatt, Dowlish Wake, Drayton, East Chinnock, East Coker, Fivehead, Hambridge and Westport, Hardington Mandeville, Haselbury Plucknett, Henstridge, High Ham, Hinton St. George, Holton, Horsington, Horton, Ilchester, Ilton, Isle Abbotts, Isle Brewers, Keinton Mandeville, Kingsbury Episcopi, Kingsdon, Kingstone, Kingweston, Knowle St. Giles, Limington, Long Load, Long Sutton, Lopen, Lovington, Maperton, Marston Magna, Merriott, Misterton, Montacute, Muchelney, Mudford, North Barrow, North Cadbury, North Cheriton, North Perrott, Norton sub Hamdon, Odcombe, Pen Selwood, Pitcombe, Pitney, Puckington, Queen Camel, Rimpton, Seavington St Mary, Seavington St Michael, Shepton Beauchamp, Shepton Montague, South Barrow, South Cadbury, Sparkford, Stocklinch, Stoke sub Hamdon, Stoke Trister, Tatworth and Forton, Tintinhull, Wambrook, Wayford, West and Middle Chinnock, West Camel, West Coker, West Crewkerne, Whitelackington, Winsham, Yarlington and Yeovilton.
+**1.**[^c-59c0bc8dbf47b963ea1d27ac49de16e9] In the district of South Somerset the parishes of Abbas and Templecombe, Alford, Aller, Ash, Ashill, Babcary, Barrington, Barton St. David, Barwick, Beercrocombe, Bratton Seymour, Brewham, Broadway, Chaffcombe, Charlton Horethorne, Charlton Mackrell, Charlton Musgrove, Chillington, Chilthorne Domer, Chilton Cantelo, Chiselborough, Closworth, Combe St Nicholas, Compton Dundon, Compton Pauncefoot, Corton Denham, Cricket St Thomas, Cucklington, Cudworth, Curry Mallet, Curry Rivel, Dinnington, Donyatt, Dowlish Wake, Drayton, East Chinnock, East Coker, Fivehead, Hambridge and Westport, Hardington Mandeville, Haselbury Plucknett, Henstridge, High Ham, Hinton St. George, Holton, Horsington, Horton, Ilchester, Ilton, Isle Abbotts, Isle Brewers, Keinton Mandeville, Kingsbury Episcopi, Kingsdon, Kingstone, Kingweston, Knowle St. Giles, Limington, Long Load, Long Sutton, Lopen, Lovington, Maperton, Marston Magna, Merriott, Misterton, Montacute, Muchelney, Mudford, North Barrow, North Cadbury, North Cheriton, North Perrott, Norton sub Hamdon, Odcombe, Pen Selwood, Pitcombe, Pitney, Puckington, Queen Camel, Rimpton, Seavington St Mary, Seavington St Michael, Shepton Beauchamp, Shepton Montague, South Barrow, South Cadbury, Sparkford, Stocklinch, Stoke sub Hamdon, Stoke Trister, Tatworth and Forton, Tintinhull, Wambrook, Wayford, West and Middle Chinnock, West Camel, West Coker, West Crewkerne, Whitelackington, Winsham, Yarlington and Yeovilton.
 
-**2.**[^key-3df58fad7dce0bad6ec0e2ae313ec02b] In the district of West Lindsey the parishes of Aisthorpe, Apley, Bardney, Barlings, Bigby, Bishop Norton, Blyborough, Blyton, Brampton, Brattleby, Broadholme, Brocklesby, Broxholme, Bullington, Burton, Buslingthorpe, Caenby, Cammeringham, Cold Hanworth, Corringham, East Ferry, East Stockwith, Faldingworth, Fenton, Fillingham, Fiskerton, Friesthorpe, Fulnetby, Gate Burton, Glentham, Glentworth, Goltho, Grange de Lings, Grasby, Grayingham, Great Limber, Hackthorn, Hardwick, Harpswell, Heapham, Hemswell, Hemswell Cliff, Holton cum Beckering, Ingham, Keelby, Kettlethorpe, Kexby, Knaith, Laughton, Legsby, Linwood, Lissington, Marton, Middle Rasen, Newball, Newton on Trent, Normanby by Spital, North Carlton, North Kelsey, Northorpe, Osgodby, Owersby, Owmby-by-Spital, Pilham, Rand, Reepham, Riby, Riseholme, Saxby, Scampton, Scothern, Scotton, Searby cum Owmby, Snarford, Snelland, Snitterby, Somerby, South Carlton, South Kelsey, Spridlington, Springthorpe, Stainfield, Stainton by Langworth, Stow, Sturton by Stow, Sudbrooke, Thonock, Thorpe in the Fallows, Toft Newton, Torksey, Upton, Waddingham, Walkerith, West Firsby, West Rasen, Wickenby, Wildsworth, Willingham and Willoughton.
+**2.**[^c-3df58fad7dce0bad6ec0e2ae313ec02b] In the district of West Lindsey the parishes of Aisthorpe, Apley, Bardney, Barlings, Bigby, Bishop Norton, Blyborough, Blyton, Brampton, Brattleby, Broadholme, Brocklesby, Broxholme, Bullington, Burton, Buslingthorpe, Caenby, Cammeringham, Cold Hanworth, Corringham, East Ferry, East Stockwith, Faldingworth, Fenton, Fillingham, Fiskerton, Friesthorpe, Fulnetby, Gate Burton, Glentham, Glentworth, Goltho, Grange de Lings, Grasby, Grayingham, Great Limber, Hackthorn, Hardwick, Harpswell, Heapham, Hemswell, Hemswell Cliff, Holton cum Beckering, Ingham, Keelby, Kettlethorpe, Kexby, Knaith, Laughton, Legsby, Linwood, Lissington, Marton, Middle Rasen, Newball, Newton on Trent, Normanby by Spital, North Carlton, North Kelsey, Northorpe, Osgodby, Owersby, Owmby-by-Spital, Pilham, Rand, Reepham, Riby, Riseholme, Saxby, Scampton, Scothern, Scotton, Searby cum Owmby, Snarford, Snelland, Snitterby, Somerby, South Carlton, South Kelsey, Spridlington, Springthorpe, Stainfield, Stainton by Langworth, Stow, Sturton by Stow, Sudbrooke, Thonock, Thorpe in the Fallows, Toft Newton, Torksey, Upton, Waddingham, Walkerith, West Firsby, West Rasen, Wickenby, Wildsworth, Willingham and Willoughton.
 
-**3.**[^key-67bee7a9075d233aafbdb71a45ff37ac] In the district of Wyre Forest[^key-64fd2efdadab1ebab19dd5656398f136] the parishes of Broome, Chaddesley Corbett, Churchill and Blakedown, Kidderminster Foreign, Ribbesford, Rock, Rushock, Stone, and Upper Arley.
+**3.**[^c-67bee7a9075d233aafbdb71a45ff37ac] In the district of Wyre Forest[^c-64fd2efdadab1ebab19dd5656398f136] the parishes of Broome, Chaddesley Corbett, Churchill and Blakedown, Kidderminster Foreign, Ribbesford, Rock, Rushock, Stone, and Upper Arley.
 
 EXPLANATORY NOTE
 
@@ -114,22 +114,22 @@ A full impact assessment has not been produced for this instrument as no signifi
 
 [^f00001]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 157(1) was amended by Part 4 of Schedule 18 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38), paragraph 9 of Part 1 of Schedule 15 to the Countryside and Rights of Way Act [2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and section 188(2)(a) of the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34). Section 157(3) was amended by section 126(3) of the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50). There are other amendments to section 157 which are not relevant to this Order.
 
-[^key-7c18c7c6bccf944c308ccb44e1c8e1c8]: Commencement: Art. 1 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-7c18c7c6bccf944c308ccb44e1c8e1c8]: Commencement: Art. 1 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2016/587](https://www.legislation.gov.uk/uksi/2016/587).
 
-[^key-57d8e0e803a64e0cded5eded0987f6b6]: Commencement: Art. 2 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-57d8e0e803a64e0cded5eded0987f6b6]: Commencement: Art. 2 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
-[^key-c257f7f8314cb2edd4a3e18d110c0ed5]: Commencement: Art. 3 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-c257f7f8314cb2edd4a3e18d110c0ed5]: Commencement: Art. 3 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
-[^key-63ac4e8f35bb80e26ef69450a7abc225]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/uksi/2021/1222/article/3/c) substituted (12.12.2022) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2022 (S.I. 2022/1171)](https://www.legislation.gov.uk/uksi/2022/1171), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1171/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1171/article/4)
+[^c-63ac4e8f35bb80e26ef69450a7abc225]: Textual amendment: Words in [art. 3(c)](https://www.legislation.gov.uk/uksi/2021/1222/article/3/c) substituted (12.12.2022) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2022 (S.I. 2022/1171)](https://www.legislation.gov.uk/uksi/2022/1171), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1171/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1171/article/4)
 
-[^key-8d405fc0071ef7ff9e64287878bb226b]: Commencement: Art. 4 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-8d405fc0071ef7ff9e64287878bb226b]: Commencement: Art. 4 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
-[^key-59c0bc8dbf47b963ea1d27ac49de16e9]: Commencement: Sch. para. 1 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-59c0bc8dbf47b963ea1d27ac49de16e9]: Commencement: Sch. para. 1 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
-[^key-3df58fad7dce0bad6ec0e2ae313ec02b]: Commencement: Sch. para. 2 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-3df58fad7dce0bad6ec0e2ae313ec02b]: Commencement: Sch. para. 2 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
-[^key-67bee7a9075d233aafbdb71a45ff37ac]: Commencement: Sch. para. 3 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
+[^c-67bee7a9075d233aafbdb71a45ff37ac]: Commencement: Sch. para. 3 in force at 29.11.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/1222/article/1/1)
 
-[^key-64fd2efdadab1ebab19dd5656398f136]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/1222/schedule/paragraph/3) substituted (12.12.2022) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2022 (S.I. 2022/1171)](https://www.legislation.gov.uk/uksi/2022/1171), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1171/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1171/article/4)
+[^c-64fd2efdadab1ebab19dd5656398f136]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/1222/schedule/paragraph/3) substituted (12.12.2022) by [The Housing (Right to Buy) (Designated Rural Areas and Designated Regions) (England) Order 2022 (S.I. 2022/1171)](https://www.legislation.gov.uk/uksi/2022/1171), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1171/article/1/1), [4](https://www.legislation.gov.uk/uksi/2022/1171/article/4)

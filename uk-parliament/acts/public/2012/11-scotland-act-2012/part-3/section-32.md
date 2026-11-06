@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Borrowing by the Scottish Ministers[^key-58b0f56d52a6376155d5f8d45a1d9964]
+## 32. Borrowing by the Scottish Ministers[^c-58b0f56d52a6376155d5f8d45a1d9964]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58b0f56d52a6376155d5f8d45a1d9964]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2012/11/section/32) in force at 12.12.2014 by [S.I. 2014/3250](https://www.legislation.gov.uk/uksi/2014/3250), [art. 2](https://www.legislation.gov.uk/uksi/2014/3250/article/2)
+[^c-58b0f56d52a6376155d5f8d45a1d9964]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2012/11/section/32) in force at 12.12.2014 by [S.I. 2014/3250](https://www.legislation.gov.uk/uksi/2014/3250), [art. 2](https://www.legislation.gov.uk/uksi/2014/3250/article/2)

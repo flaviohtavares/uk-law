@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Verification and validation by testing etc. of the launch vehicle and the ground support equipment[^key-02215e257b35451c2e558c295621e660]
+## 94. Verification and validation by testing etc. of the launch vehicle and the ground support equipment[^c-02215e257b35451c2e558c295621e660]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02215e257b35451c2e558c295621e660]: Commencement: Reg. 94 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-02215e257b35451c2e558c295621e660]: Commencement: Reg. 94 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

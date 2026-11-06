@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Consent of Secretary of State for certain communications[^key-db89bbb38e4b84fc9d82f095585ed71e]
+## 94. Consent of Secretary of State for certain communications[^c-db89bbb38e4b84fc9d82f095585ed71e]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-db89bbb38e4b84fc9d82f095585ed71e]: Commencement: S. 94 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-db89bbb38e4b84fc9d82f095585ed71e]: Commencement: S. 94 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

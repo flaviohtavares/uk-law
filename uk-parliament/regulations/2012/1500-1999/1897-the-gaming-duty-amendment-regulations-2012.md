@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Gaming Duty (Amendment) Regulations 2012 (revoked)[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]
+The Gaming Duty (Amendment) Regulations 2012 (revoked)[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st October 2012
 
-[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]
+## 1. Citation and commencement[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]
+## 2. Interpretation[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application and revocation[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]
+## 3. Application and revocation[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The amount of payments on account[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]
+## 4. The amount of payments on account[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ffec5bc7de0ed8e64e6d568bbb896f3]: Textual amendment: Regulations revoked (with application in accordance with reg. 3(1) of the amending S.I.) by [The Gaming Duty (Amendment) Regulations 2014 (S.I. 2014/1930)](https://www.legislation.gov.uk/uksi/2014/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1930/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1930/regulation/3/2)
+[^c-0ffec5bc7de0ed8e64e6d568bbb896f3]: Textual amendment: Regulations revoked (with application in accordance with reg. 3(1) of the amending S.I.) by [The Gaming Duty (Amendment) Regulations 2014 (S.I. 2014/1930)](https://www.legislation.gov.uk/uksi/2014/1930), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1930/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1930/regulation/3/2)

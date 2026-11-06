@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Directors’ statement of affairs to creditors[^key-e7b06e35e13b8268afaad68352464b33]
+## 31. Directors’ statement of affairs to creditors[^c-e7b06e35e13b8268afaad68352464b33]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7b06e35e13b8268afaad68352464b33]: Commencement: S. 31 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-e7b06e35e13b8268afaad68352464b33]: Commencement: S. 31 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

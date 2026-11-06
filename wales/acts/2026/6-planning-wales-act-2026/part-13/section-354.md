@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 354. Power of the Welsh Ministers to acquire land affected by order relating to urban development area[^key-6f810d3be609fecc756fd09943cc799f]
+## 354. Power of the Welsh Ministers to acquire land affected by order relating to urban development area[^c-6f810d3be609fecc756fd09943cc799f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f810d3be609fecc756fd09943cc799f]: Commencement: S. 354 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6f810d3be609fecc756fd09943cc799f]: Commencement: S. 354 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

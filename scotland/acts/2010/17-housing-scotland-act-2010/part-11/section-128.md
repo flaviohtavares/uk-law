@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 128. Application to acquire eligible house[^key-8ef6f535f339f617ee813805f181decd]
+## 128. Application to acquire eligible house[^c-8ef6f535f339f617ee813805f181decd]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ but this does not affect the applicant's right to make a further application.
 
 ## Annotations
 
-[^key-8ef6f535f339f617ee813805f181decd]: Commencement: S. 128 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-8ef6f535f339f617ee813805f181decd]: Commencement: S. 128 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

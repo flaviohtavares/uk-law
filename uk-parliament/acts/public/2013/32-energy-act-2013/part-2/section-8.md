@@ -27,8 +27,8 @@ summary: ''
 
 (2) A CFD counterparty must exercise the functions conferred by or by virtue of this Chapter to ensure that it can meet its liabilities under any CFD to which it is a party.
 
-(3) In this Chapter “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023.[^key-7e331defcd267db18314d2bdbc21d241]
+(3) In this Chapter “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023.[^c-7e331defcd267db18314d2bdbc21d241]
 
 ## Annotations
 
-[^key-7e331defcd267db18314d2bdbc21d241]: Textual amendment: Words in s. 8(3) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/2); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-7e331defcd267db18314d2bdbc21d241]: Textual amendment: Words in s. 8(3) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/2); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

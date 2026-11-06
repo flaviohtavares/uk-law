@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Domicile for tax purposes of overseas electors.[^key-21a5b4d058136e18c9a62b43248f166e]
+## 200. Domicile for tax purposes of overseas electors.[^c-21a5b4d058136e18c9a62b43248f166e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21a5b4d058136e18c9a62b43248f166e]: Textual amendment: S. 200 omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/17)
+[^c-21a5b4d058136e18c9a62b43248f166e]: Textual amendment: S. 200 omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 40(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/40/4), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/9/paragraph/17)

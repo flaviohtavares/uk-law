@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Setting of charges[^key-f0e13c58bfbd50ba52722b826a682f63]
+## 41. Setting of charges[^c-f0e13c58bfbd50ba52722b826a682f63]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ provided that the Council must so far as reasonably practicable ensure that the 
 
 ## Annotations
 
-[^key-f0e13c58bfbd50ba52722b826a682f63]: Commencement: Art. 41 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-f0e13c58bfbd50ba52722b826a682f63]: Commencement: Art. 41 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

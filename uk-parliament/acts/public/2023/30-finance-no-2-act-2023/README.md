@@ -328,7 +328,7 @@ We , Your Majesty’s most dutiful and loyal subjects, the Commons of the United
 - [Section 119 — Regulations: procedure](part-2/section-119.md)
 - [Section 120 — Commencement](part-2/section-120.md)
 
-### Part 3 — Multinational top-up tax[^key-3a6f4fab402bb324fb1d2754acf789bd]
+### Part 3 — Multinational top-up tax[^c-3a6f4fab402bb324fb1d2754acf789bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -461,13 +461,13 @@ We , Your Majesty’s most dutiful and loyal subjects, the Commons of the United
 - [Section 175 — Amounts excluded from qualifying current tax expense](part-3/section-175.md)
 - [Section 176 — Amounts to be reflected in qualifying current tax expense](part-3/section-176.md)
 
-##### Transferable tax credits[^key-f085a0bdf9de75d2866dceaa7d1cab17]
+##### Transferable tax credits[^c-f085a0bdf9de75d2866dceaa7d1cab17]
 
 - [Section 176A — Meaning of “non-marketable transferable tax credits”](part-3/section-176a.md)
 - [Section 176B — Value of non-marketable transferable tax credits: originator](part-3/section-176b.md)
 - [Section 176C — Value of non-marketable transferable tax credits: purchaser](part-3/section-176c.md)
 
-##### Tax equity partnerships[^key-1ca094fc27ea3edfa3e7b2e63415a07d]
+##### Tax equity partnerships[^c-1ca094fc27ea3edfa3e7b2e63415a07d]
 
 - [Section 176D — Tax credits etc allocated under tax equity partnerships](part-3/section-176d.md)
 - [Section 176E — Flow-through tax benefits: proportional amortisation method](part-3/section-176e.md)
@@ -486,7 +486,7 @@ We , Your Majesty’s most dutiful and loyal subjects, the Commons of the United
 - [Section 181 — Distributions from other members of a group](part-3/section-181.md)
 - [Section 181A — Cross-border allocation of current tax under cross-crediting regime](part-3/section-181a.md)
 
-##### Cross-border allocation of deferred tax expense[^key-4346a021d7de55e84cc3be718980c0d3]
+##### Cross-border allocation of deferred tax expense[^c-4346a021d7de55e84cc3be718980c0d3]
 
 - [Section 181B — Cross-border allocation of deferred tax assets and liabilities](part-3/section-181b.md)
 
@@ -617,30 +617,30 @@ We , Your Majesty’s most dutiful and loyal subjects, the Commons of the United
 
 - [Section 229 — Multi-parent groups](part-3/section-229.md)
 
-#### Chapter 9A — Untaxed amounts[^key-9fb6e69a9d1806374c1e561501413569]
+#### Chapter 9A — Untaxed amounts[^c-9fb6e69a9d1806374c1e561501413569]
 
-##### Introduction[^key-9fb6e69a9d1806374c1e561501413569]
+##### Introduction[^c-9fb6e69a9d1806374c1e561501413569]
 
 - [Section 229A — Meaning of potentially undertaxed](part-3/section-229a.md)
 - [Section 229B — Untaxed amounts](part-3/section-229b.md)
 
-##### Allocation of untaxed amounts[^key-9fb6e69a9d1806374c1e561501413569]
+##### Allocation of untaxed amounts[^c-9fb6e69a9d1806374c1e561501413569]
 
 - [Section 229C — Allocation of untaxed amount to members](part-3/section-229c.md)
 - [Section 229D — Amount allocated to the United Kingdom](part-3/section-229d.md)
 - [Section 229E — Allocation to qualifying members](part-3/section-229e.md)
 - [Section 229F — Election to make one member of a group liable for untaxed amounts](part-3/section-229f.md)
 
-##### How to determine number of employees and tangible fixed assets values[^key-9fb6e69a9d1806374c1e561501413569]
+##### How to determine number of employees and tangible fixed assets values[^c-9fb6e69a9d1806374c1e561501413569]
 
 - [Section 229G — Number of employees](part-3/section-229g.md)
 - [Section 229H — Value of tangible fixed assets](part-3/section-229h.md)
 
-##### Joint ventures[^key-9fb6e69a9d1806374c1e561501413569]
+##### Joint ventures[^c-9fb6e69a9d1806374c1e561501413569]
 
 - [Section 229I — Joint ventures](part-3/section-229i.md)
 
-##### References to responsible members[^key-9fb6e69a9d1806374c1e561501413569]
+##### References to responsible members[^c-9fb6e69a9d1806374c1e561501413569]
 
 - [Section 229J — References to responsible members](part-3/section-229j.md)
 
@@ -1012,12 +1012,12 @@ Schedules
 
 ## Annotations
 
-[^key-3a6f4fab402bb324fb1d2754acf789bd]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2023/30/part/3) modified (2.12.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 32](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/32), [53(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/3)
+[^c-3a6f4fab402bb324fb1d2754acf789bd]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2023/30/part/3) modified (2.12.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 32](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/32), [53(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/3)
 
-[^key-f085a0bdf9de75d2866dceaa7d1cab17]: Textual amendment: Ss. 176A-176C and cross-heading inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/6)
+[^c-f085a0bdf9de75d2866dceaa7d1cab17]: Textual amendment: Ss. 176A-176C and cross-heading inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/6)
 
-[^key-1ca094fc27ea3edfa3e7b2e63415a07d]: Textual amendment: Ss. 176D-176F and cross-heading inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/16/1)
+[^c-1ca094fc27ea3edfa3e7b2e63415a07d]: Textual amendment: Ss. 176D-176F and cross-heading inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 16(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/16/1)
 
-[^key-4346a021d7de55e84cc3be718980c0d3]: Textual amendment: S. 181B and cross-heading inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 28](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/28), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-4346a021d7de55e84cc3be718980c0d3]: Textual amendment: S. 181B and cross-heading inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 28](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/28), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
 
-[^key-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)
+[^c-9fb6e69a9d1806374c1e561501413569]: Textual amendment: Pt. 3 Ch. 9A inserted (in relation to accounting periods commencing on or after 31.12.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/5), [10](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/10)

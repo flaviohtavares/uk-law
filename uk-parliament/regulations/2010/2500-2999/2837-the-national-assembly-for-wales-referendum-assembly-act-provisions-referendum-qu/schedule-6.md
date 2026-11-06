@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — APPENDIX OF FORMS[^key-60f2d3993c6e3ce3c4d9c8adee9a80b5]
+## SCHEDULE 6 — APPENDIX OF FORMS[^c-60f2d3993c6e3ce3c4d9c8adee9a80b5]
 
 *Extent: E+W+S+N.I.*
 
 Article 28
 
-[^key-60f2d3993c6e3ce3c4d9c8adee9a80b5]
+[^c-60f2d3993c6e3ce3c4d9c8adee9a80b5]
 
 *Note : Subject to article 28(2), the forms contained in this appendix may be adapted in accordance with article 28(1).*
 
@@ -136,4 +136,4 @@ Rule 40(1) of Schedule 3
 
 ## Annotations
 
-[^key-60f2d3993c6e3ce3c4d9c8adee9a80b5]: Commencement: Sch. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-60f2d3993c6e3ce3c4d9c8adee9a80b5]: Commencement: Sch. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

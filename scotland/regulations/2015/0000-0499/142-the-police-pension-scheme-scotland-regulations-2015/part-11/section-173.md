@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 173. Request for transfer payment to be made[^key-79e3e7542addd6311d273524baf93af8]
+## 173. Request for transfer payment to be made[^c-79e3e7542addd6311d273524baf93af8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79e3e7542addd6311d273524baf93af8]: Commencement: Reg. 173 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-79e3e7542addd6311d273524baf93af8]: Commencement: Reg. 173 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

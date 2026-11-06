@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Year of account: societies registered on or before 7 January 2012[^key-052ba79a539390fc22757e3d15738582][^key-ad83ceed26dc6fd4b561e0bb2babb004]
+## 78. Year of account: societies registered on or before 7 January 2012[^c-052ba79a539390fc22757e3d15738582][^c-ad83ceed26dc6fd4b561e0bb2babb004]
 
 *Extent: E+W+S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-052ba79a539390fc22757e3d15738582]: Modification: Ss. 77, 78 excluded by 1979 c. 34, s. 31(4) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(5)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/5/b) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-052ba79a539390fc22757e3d15738582]: Modification: Ss. 77, 78 excluded by 1979 c. 34, s. 31(4) (as amended (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 16(5)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/16/5/b) (with [Sch. 5)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-ad83ceed26dc6fd4b561e0bb2babb004]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/2014/14/section/78) excluded (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/14/paragraph/16); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(eee)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/eee)
+[^c-ad83ceed26dc6fd4b561e0bb2babb004]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/2014/14/section/78) excluded (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2023/29/schedule/14/paragraph/16); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(eee)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/eee)

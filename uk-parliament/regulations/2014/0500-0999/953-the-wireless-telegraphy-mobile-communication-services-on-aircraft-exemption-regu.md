@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Mobile Communication Services on Aircraft) (Exemption) Regulations 2014 (revoked)[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+The Wireless Telegraphy (Mobile Communication Services on Aircraft) (Exemption) Regulations 2014 (revoked)[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 Made
 
@@ -41,35 +41,35 @@ Coming into force
 
 30th April 2014
 
-[^key-64963d7570d1a0e1af90b6fc494d6a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64963d7570d1a0e1af90b6fc494d6a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+## 1. Citation and commencement[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+## 2. Revocation[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+## 3. Interpretation[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+## 4. Exemption[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Terms, provisions and limitations[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+## 5. Terms, provisions and limitations[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-64963d7570d1a0e1af90b6fc494d6a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64963d7570d1a0e1af90b6fc494d6a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-64963d7570d1a0e1af90b6fc494d6a1f]
+## SCHEDULE[^c-64963d7570d1a0e1af90b6fc494d6a1f]
 
 Regulation 5
 
@@ -77,8 +77,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-64963d7570d1a0e1af90b6fc494d6a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-64963d7570d1a0e1af90b6fc494d6a1f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64963d7570d1a0e1af90b6fc494d6a1f]: Textual amendment: Regulations revoked (15.6.2017) by [The Wireless Telegraphy (Mobile Communication Services on Aircraft) (Exemption) Regulations 2017 (S.I. 2017/669)](https://www.legislation.gov.uk/uksi/2017/669), [regs. 1](https://www.legislation.gov.uk/uksi/2017/669/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/669/regulation/2)
+[^c-64963d7570d1a0e1af90b6fc494d6a1f]: Textual amendment: Regulations revoked (15.6.2017) by [The Wireless Telegraphy (Mobile Communication Services on Aircraft) (Exemption) Regulations 2017 (S.I. 2017/669)](https://www.legislation.gov.uk/uksi/2017/669), [regs. 1](https://www.legislation.gov.uk/uksi/2017/669/regulation/1), [2](https://www.legislation.gov.uk/uksi/2017/669/regulation/2)

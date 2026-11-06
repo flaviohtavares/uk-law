@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312A. Limited exemption for qualifying bonus payments[^key-0491cdb747c11813b8a05a7880031421]
+## 312A. Limited exemption for qualifying bonus payments[^c-0491cdb747c11813b8a05a7880031421]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ REA is so much of the exempt amount as remains after taking account of any quali
 
 ## Annotations
 
-[^key-0491cdb747c11813b8a05a7880031421]: Textual amendment: Pt. 4 Ch. 10A inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5)
+[^c-0491cdb747c11813b8a05a7880031421]: Textual amendment: Pt. 4 Ch. 10A inserted (with effect in accordance with Sch. 37 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 5](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/5)

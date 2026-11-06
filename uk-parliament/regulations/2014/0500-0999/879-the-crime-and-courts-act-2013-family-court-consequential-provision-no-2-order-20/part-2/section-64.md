@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**64.**[^key-cbb5b34be6369a0489d1fb082d54061d] In paragraph 17, after sub-paragraph (1) insert—
+**64.**[^c-cbb5b34be6369a0489d1fb082d54061d] In paragraph 17, after sub-paragraph (1) insert—
 
 > (1A) In subsection (A1), omit “, (e)”.
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbb5b34be6369a0489d1fb082d54061d]: Commencement: Art. 64 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-cbb5b34be6369a0489d1fb082d54061d]: Commencement: Art. 64 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

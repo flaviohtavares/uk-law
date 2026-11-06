@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. The Extractive Industries Transparency Initiative[^key-7a23b819f93c7efac0283be0b97d599f]
+## 40. The Extractive Industries Transparency Initiative[^c-7a23b819f93c7efac0283be0b97d599f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 8 of the Commissioners for Revenue and Customs Act 2005 insert—
 
 ## Annotations
 
-[^key-7a23b819f93c7efac0283be0b97d599f]: Commencement: S. 40 in force at 12.4.2015, see s. 57(7)(b)
+[^c-7a23b819f93c7efac0283be0b97d599f]: Commencement: S. 40 in force at 12.4.2015, see s. 57(7)(b)

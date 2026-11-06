@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. UKRI's research and innovation strategy[^key-81bf22db3a67eea9a51fa3892947ba4c]
+## 99. UKRI's research and innovation strategy[^c-81bf22db3a67eea9a51fa3892947ba4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81bf22db3a67eea9a51fa3892947ba4c]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/29/section/99) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)
+[^c-81bf22db3a67eea9a51fa3892947ba4c]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2017/29/section/99) in force at 30.3.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Timing and notification of initial determination of schools’ budget shares[^key-b937088ba8d2c650341ea4392d2c48a8]
+## 9. Timing and notification of initial determination of schools’ budget shares[^c-b937088ba8d2c650341ea4392d2c48a8]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b937088ba8d2c650341ea4392d2c48a8]: Commencement: Reg. 9 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-b937088ba8d2c650341ea4392d2c48a8]: Commencement: Reg. 9 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

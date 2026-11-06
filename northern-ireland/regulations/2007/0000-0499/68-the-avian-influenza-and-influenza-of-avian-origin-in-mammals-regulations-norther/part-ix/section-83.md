@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Duty to comply with declarations, licences, notices and designations[^key-d2bc99ed722eccfbde12ad0da09fffdf]
+## 83. Duty to comply with declarations, licences, notices and designations[^c-d2bc99ed722eccfbde12ad0da09fffdf]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2bc99ed722eccfbde12ad0da09fffdf]: Commencement: Reg. 83 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-d2bc99ed722eccfbde12ad0da09fffdf]: Commencement: Reg. 83 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

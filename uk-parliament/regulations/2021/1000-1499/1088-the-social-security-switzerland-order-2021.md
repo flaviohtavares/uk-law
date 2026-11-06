@@ -51,18 +51,18 @@ Article 72 of the Convention provides that the Convention shall enter into force
 
 In order to give effect to the Convention, therefore, Her Majesty, in exercise of the powers conferred on Her by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-efa233dd33cbabafba6eabe8f0c96355]
+## 1. Citation and commencement[^c-efa233dd33cbabafba6eabe8f0c96355]
 
 This Order may be cited as the Social Security (Switzerland) Order 2021 and comes into force on—
 
 - (a) the day following the later of the States’ notes referred to in Article 73 (Provisional application) of the Convention set out in the Schedule to this Order[^f00003]; or
 - (b) where the Convention has not been applied provisionally as provided for in Article 73, the first day of the third month following the date of receipt of the later of the States’ written notifications referred to in Article 72 (Entry into force) of the Convention set out in the Schedule to this Order[^f00004].
 
-## 2. Modification of legislation[^key-6525c715b3770f3ff14cf7f9cd3ce4d1]
+## 2. Modification of legislation[^c-6525c715b3770f3ff14cf7f9cd3ce4d1]
 
-(1)[^key-0c3d12e2be48df96e3134e09cc47a532] The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Convention set out in the Schedule to this Order.
+(1)[^c-0c3d12e2be48df96e3134e09cc47a532] The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Convention set out in the Schedule to this Order.
 
-(2)[^key-0c3d12e2be48df96e3134e09cc47a532] Subject to paragraph (3), paragraph (1) applies to—
+(2)[^c-0c3d12e2be48df96e3134e09cc47a532] Subject to paragraph (3), paragraph (1) applies to—
 
 - (a) the Social Security Administration Act 1992[^f00005];
 - (b) the Social Security Contributions and Benefits Act 1992[^f00006];
@@ -80,11 +80,11 @@ This Order may be cited as the Social Security (Switzerland) Order 2021 and come
 
 so far as such provisions relate to England, Wales and Scotland.
 
-(3) Paragraph (1) does not modify any legislation so far as it would be within the legislative competence of the Scottish Parliament to make such modification[^key-60ccacf0515ee40a443f21585e4a967d]....
+(3) Paragraph (1) does not modify any legislation so far as it would be within the legislative competence of the Scottish Parliament to make such modification[^c-60ccacf0515ee40a443f21585e4a967d]....
 
-(4) Paragraph (1) also applies to Part 3[^key-3f9802f3170136b69043cce2111e720f] of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999[^f00017] so far as such provision relates to Northern Ireland.
+(4) Paragraph (1) also applies to Part 3[^c-3f9802f3170136b69043cce2111e720f] of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999[^f00017] so far as such provision relates to Northern Ireland.
 
-## 3. Variation of Order[^key-38286bebfa0024b07b4c89f182badb4f][^key-190a81444fda991ca1ade9a5c6aaed38]
+## 3. Variation of Order[^c-38286bebfa0024b07b4c89f182badb4f][^c-190a81444fda991ca1ade9a5c6aaed38]
 
 The Family Allowances, National Insurance and Industrial Injuries (Switzerland) Order 1969[^f00018] is varied in accordance with Article 77 (Relationship with the 1968 Convention) of the Convention set out in the Schedule to this Order.
 
@@ -92,7 +92,7 @@ Ceri King
 
 Deputy Clerk of the Privy Council
 
-## SCHEDULE — Convention on Social Security Coordination between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation[^key-5c7da1bb2809cbfac6db37f093503968]
+## SCHEDULE — Convention on Social Security Coordination between the United Kingdom of Great Britain and Northern Ireland and the Swiss Confederation[^c-5c7da1bb2809cbfac6db37f093503968]
 
 Articles 1, 2 and 3
 
@@ -116,15 +116,15 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00002]: Footnote: 2021 CP 530.
 
-[^key-efa233dd33cbabafba6eabe8f0c96355]: Commencement: Art. 1 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
+[^c-efa233dd33cbabafba6eabe8f0c96355]: Commencement: Art. 1 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
 
 [^f00003]: Footnote: The date from which the Convention is provisionally applied will be published on the relevant page on GOV.UK which can be found at: https://www.gov.uk/
 
 [^f00004]: Footnote: The date on which the Convention enters into force will be published on the relevant page on UK Treaties Online which can be found at: https://www.gov.uk/guidance/uk-treaties
 
-[^key-6525c715b3770f3ff14cf7f9cd3ce4d1]: Commencement: Art. 2 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
+[^c-6525c715b3770f3ff14cf7f9cd3ce4d1]: Commencement: Art. 2 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
 
-[^key-0c3d12e2be48df96e3134e09cc47a532]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/2) applied (coming into force in accordance with art. 1 of the amending S.S.I.) by [The Social Security (Switzerland) (Further provision in respect of Scotland) Order 2021 (S.S.I. 2021/345)](https://www.legislation.gov.uk/ssi/2021/345), [art. 2](https://www.legislation.gov.uk/ssi/2021/345/article/2)
+[^c-0c3d12e2be48df96e3134e09cc47a532]: Modification: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/2) applied (coming into force in accordance with art. 1 of the amending S.S.I.) by [The Social Security (Switzerland) (Further provision in respect of Scotland) Order 2021 (S.S.I. 2021/345)](https://www.legislation.gov.uk/ssi/2021/345), [art. 2](https://www.legislation.gov.uk/ssi/2021/345/article/2)
 
 [^f00005]: Footnote: No modifications are made in respect of community charge benefits, payments out of the social fund, Christmas bonus, statutory sick pay, or statutory maternity pay because section 179(4)(b)(i)-(v) of the Social Security Administration Act 1992 excludes these benefits from the scope of the power to modify.
 
@@ -148,16 +148,16 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00015]: Footnote: Subsection (5) of section 179 has been amended by paragraph 70(4) of Schedule 2 to the Jobseekers Act 1995; paragraph 21(4) of Schedule 2 to the State Pension Credit Act 2002; paragraph 1 of Schedule 6 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21); paragraph 10(29)(c) of Schedule 3 to the Welfare Reform Act 2007; paragraph 27(4) of Schedule 2 to the Welfare Reform Act 2012; paragraph 25(4)(a) and (b) of Schedule 12, and paragraph 33(4)(a) and (b) of Schedule 16 to the Pensions Act 2014; and by regulation 3 of [S.I. 2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
 
-[^key-60ccacf0515ee40a443f21585e4a967d]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/3) omitted (12.10.2023) by virtue of [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/2/a)
+[^c-60ccacf0515ee40a443f21585e4a967d]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/3) omitted (12.10.2023) by virtue of [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/2/a)
 
-[^key-3f9802f3170136b69043cce2111e720f]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/4) substituted (12.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/2/b)
+[^c-3f9802f3170136b69043cce2111e720f]: Textual amendment: Words in [art. 2(4)](https://www.legislation.gov.uk/uksi/2021/1088/article/2/4) substituted (12.10.2023) by [The Social Security (Iceland) (Liechtenstein) (Norway) Order 2023 (S.I. 2023/1060)](https://www.legislation.gov.uk/uksi/2023/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/1060/article/4/2/b)
 
 [^f00017]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-38286bebfa0024b07b4c89f182badb4f]: Commencement: Art. 3 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
+[^c-38286bebfa0024b07b4c89f182badb4f]: Commencement: Art. 3 coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
 
-[^key-190a81444fda991ca1ade9a5c6aaed38]: Modification: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1088/article/3) applied (coming into force in accordance with art. 1 of the amending S.S.I.) by [The Social Security (Switzerland) (Further provision in respect of Scotland) Order 2021 (S.S.I. 2021/345)](https://www.legislation.gov.uk/ssi/2021/345), [art. 3](https://www.legislation.gov.uk/ssi/2021/345/article/3)
+[^c-190a81444fda991ca1ade9a5c6aaed38]: Modification: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1088/article/3) applied (coming into force in accordance with art. 1 of the amending S.S.I.) by [The Social Security (Switzerland) (Further provision in respect of Scotland) Order 2021 (S.S.I. 2021/345)](https://www.legislation.gov.uk/ssi/2021/345), [art. 3](https://www.legislation.gov.uk/ssi/2021/345/article/3)
 
 [^f00018]: Footnote: [S.I. 1969/384](https://www.legislation.gov.uk/uksi/1969/384). Relevant amending instruments are [S.I. 1976/225](https://www.legislation.gov.uk/uksi/1976/225), [1976/963](https://www.legislation.gov.uk/uksi/1976/963), [1979/290](https://www.legislation.gov.uk/uksi/1979/290), [1988/591](https://www.legislation.gov.uk/uksi/1988/591), [1995/767](https://www.legislation.gov.uk/uksi/1995/767), [2001/407](https://www.legislation.gov.uk/uksi/2001/407), [2005/2765](https://www.legislation.gov.uk/uksi/2005/2765) and [2016/158](https://www.legislation.gov.uk/uksi/2016/158).
 
-[^key-5c7da1bb2809cbfac6db37f093503968]: Commencement: Sch. coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)
+[^c-5c7da1bb2809cbfac6db37f093503968]: Commencement: Sch. coming into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2021/1088/article/1)

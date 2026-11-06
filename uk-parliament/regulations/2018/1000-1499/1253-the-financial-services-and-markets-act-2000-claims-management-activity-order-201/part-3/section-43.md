@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Proposal by the Regulator to vary authorisation: determination by the FCA[^key-69a6500876b472674f17aff6fff1ff1d][^key-9026bbf708556b9901d6bcb496bce9c1]
+## 43. Proposal by the Regulator to vary authorisation: determination by the FCA[^c-69a6500876b472674f17aff6fff1ff1d][^c-9026bbf708556b9901d6bcb496bce9c1]
 
 *Extent: E+W+S*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-69a6500876b472674f17aff6fff1ff1d]: Commencement: Art. 43 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-69a6500876b472674f17aff6fff1ff1d]: Commencement: Art. 43 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-9026bbf708556b9901d6bcb496bce9c1]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2018/1253/article/43) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-9026bbf708556b9901d6bcb496bce9c1]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2018/1253/article/43) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00077]: Footnote: Section 55Y was inserted by the Financial Services Act 2012, section 11(2).

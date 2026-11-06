@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Creation of the new community of Pennard[^key-d64222aea9d2f12c5b3456b3a294a5c1]
+## 56. Creation of the new community of Pennard[^c-d64222aea9d2f12c5b3456b3a294a5c1]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community is created which is to be known as Pennard in the English langua
 
 ## Annotations
 
-[^key-d64222aea9d2f12c5b3456b3a294a5c1]: Commencement: [Art. 56](https://www.legislation.gov.uk/wsi/2026/95/article/56) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-d64222aea9d2f12c5b3456b3a294a5c1]: Commencement: [Art. 56](https://www.legislation.gov.uk/wsi/2026/95/article/56) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

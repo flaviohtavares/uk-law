@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25B. Order of children and qualifying young persons[^key-51582e4ffc2c95576f760d00c6acd7fd]
+## 25B. Order of children and qualifying young persons[^c-51582e4ffc2c95576f760d00c6acd7fd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51582e4ffc2c95576f760d00c6acd7fd]: Textual amendment: [Reg. 25B](https://www.legislation.gov.uk/nisr/2016/216/regulation/25B) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/3/b), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))
+[^c-51582e4ffc2c95576f760d00c6acd7fd]: Textual amendment: [Reg. 25B](https://www.legislation.gov.uk/nisr/2016/216/regulation/25B) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/3/b), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 2(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/2/4))

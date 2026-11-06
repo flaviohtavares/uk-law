@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151D. Corporate strips: manipulation of price: associated payment giving rise to loss[^key-52033632b5fba14d5e81f6ef779e5431]
+## 151D. Corporate strips: manipulation of price: associated payment giving rise to loss[^c-52033632b5fba14d5e81f6ef779e5431]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,12 +35,12 @@ summary: ''
 
 (4) The reference in subsection (1)(b) above to the acquisition or disposal of a corporate strip shall be construed as if it were in Chapter 8 of Part 4 of ITTOIA 2005 (profits from deeply discounted securities) (see, in particular, sections 437 and 452F of that Act for the meaning of “**disposal**” and section 452E of that Act for the meaning of “**corporate strip**”).
 
-(5) In subsection (3)(a) above “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-8278b15c0471b4c8b53ce6bb49160338].
+(5) In subsection (3)(a) above “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^c-8278b15c0471b4c8b53ce6bb49160338].
 
 (6) This section applies to losses accruing on or after 6th April 2005.
 
 ## Annotations
 
-[^key-52033632b5fba14d5e81f6ef779e5431]: Textual amendment: S. 151D inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/8)
+[^c-52033632b5fba14d5e81f6ef779e5431]: Textual amendment: S. 151D inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2005/22/schedule/7/paragraph/8)
 
-[^key-8278b15c0471b4c8b53ce6bb49160338]: Textual amendment: Words in s. 151D(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 239](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/239) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-8278b15c0471b4c8b53ce6bb49160338]: Textual amendment: Words in s. 151D(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 239](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/239) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

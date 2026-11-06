@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Exercise of the power[^key-336160b59196bd83ed9636d7f81d6cae]
+## 2. Exercise of the power[^c-336160b59196bd83ed9636d7f81d6cae]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ the constable must show identification to the person as soon as reasonably pract
 
 ## Annotations
 
-[^key-336160b59196bd83ed9636d7f81d6cae]: Commencement: S. 2 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-336160b59196bd83ed9636d7f81d6cae]: Commencement: S. 2 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Conditions for designation as member of group[^key-ea2236d711f6c697944e95db7f0c9c28]
+## 78. Conditions for designation as member of group[^c-ea2236d711f6c697944e95db7f0c9c28]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea2236d711f6c697944e95db7f0c9c28]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2017/3/section/78) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
+[^c-ea2236d711f6c697944e95db7f0c9c28]: Commencement: [S. 78](https://www.legislation.gov.uk/anaw/2017/3/section/78) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)

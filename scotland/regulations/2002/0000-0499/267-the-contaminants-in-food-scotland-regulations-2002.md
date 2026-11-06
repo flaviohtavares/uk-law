@@ -27,7 +27,7 @@ summary: ''
 
 FOOD
 
-The Contaminants in Food (Scotland) Regulations 2002 (revoked)[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+The Contaminants in Food (Scotland) Regulations 2002 (revoked)[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 Made
 
@@ -41,57 +41,57 @@ Coming into force
 
 1st July 2002
 
-[^key-59cbdaf65dbed9ef70a7a2993d2df620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59cbdaf65dbed9ef70a7a2993d2df620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 1. Citation, commencement and extent[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 2. Interpretation[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 3. Offences and penalties[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 4. Enforcement[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Sampling, analysis and modification of section 29 of the Act[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 5. Sampling, analysis and modification of section 29 of the Act[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Defence in relation to exports[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 6. Defence in relation to exports[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various sections of the Act[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 7. Application of various sections of the Act[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 8. Transitional provisions[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-59cbdaf65dbed9ef70a7a2993d2df620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-59cbdaf65dbed9ef70a7a2993d2df620] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Consequential Amendments[^key-59cbdaf65dbed9ef70a7a2993d2df620]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 11. Revocations[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## 10. Consequential Amendments[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-59cbdaf65dbed9ef70a7a2993d2df620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 11. Revocations[^c-59cbdaf65dbed9ef70a7a2993d2df620]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-59cbdaf65dbed9ef70a7a2993d2df620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATIONS[^key-59cbdaf65dbed9ef70a7a2993d2df620]
+## SCHEDULE — REVOCATIONS[^c-59cbdaf65dbed9ef70a7a2993d2df620]
 
 Regulation 11
 
@@ -99,8 +99,8 @@ Regulation 11
 
 **May not be in force at this date. Check the source.**
 
-[^key-59cbdaf65dbed9ef70a7a2993d2df620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-59cbdaf65dbed9ef70a7a2993d2df620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-59cbdaf65dbed9ef70a7a2993d2df620]: Textual amendment: Regulations revoked (1.7.2003) by [The Contaminants in Food (Scotland) Regulations 2003 (S.S.I. 2003/289)](https://www.legislation.gov.uk/ssi/2003/289), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/289/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2003/289/regulation/12)
+[^c-59cbdaf65dbed9ef70a7a2993d2df620]: Textual amendment: Regulations revoked (1.7.2003) by [The Contaminants in Food (Scotland) Regulations 2003 (S.S.I. 2003/289)](https://www.legislation.gov.uk/ssi/2003/289), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/289/regulation/1/1), [12](https://www.legislation.gov.uk/ssi/2003/289/regulation/12)

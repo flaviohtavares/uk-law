@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Account to specify opening balance and index adjustment[^key-6d47430893e69bc3678fbf4f7e8eba04]
+## 33. Account to specify opening balance and index adjustment[^c-6d47430893e69bc3678fbf4f7e8eba04]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d47430893e69bc3678fbf4f7e8eba04]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2336/regulation/33) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-6d47430893e69bc3678fbf4f7e8eba04]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2014/2336/regulation/33) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

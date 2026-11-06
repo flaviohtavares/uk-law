@@ -182,17 +182,17 @@ For paragraph (8) of regulation 7 [^c1646556] (date from which a decision supers
 
 .
 
-### 9 (Extent: E+W+S) (affected by repeal, see note). Amendment of regulation 33[^key-591f419c5d3b38f8e7248441c8753ac9]
+### 9 (Extent: E+W+S) (affected by repeal, see note). Amendment of regulation 33[^c-591f419c5d3b38f8e7248441c8753ac9]
 
-In regulation 33(1)(a)(i) (making of appeals and applications), after the word “under" there shall be inserted the words “section 4(1) of the Vaccine Damage Payments Act,". *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-591f419c5d3b38f8e7248441c8753ac9]
+In regulation 33(1)(a)(i) (making of appeals and applications), after the word “under" there shall be inserted the words “section 4(1) of the Vaccine Damage Payments Act,". *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-591f419c5d3b38f8e7248441c8753ac9]
 
-### 10 (Extent: E+W+S) (affected by repeal, see note). Amendment of regulation 53[^key-1dd0145983068ca64e4e0cf82ee8262c]
+### 10 (Extent: E+W+S) (affected by repeal, see note). Amendment of regulation 53[^c-1dd0145983068ca64e4e0cf82ee8262c]
 
-In regulation 53(3) (decisions of appeal tribunals), for sub-paragraph (b) there shall be substituted the following sub-paragraph— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1dd0145983068ca64e4e0cf82ee8262c]
+In regulation 53(3) (decisions of appeal tribunals), for sub-paragraph (b) there shall be substituted the following sub-paragraph— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1dd0145983068ca64e4e0cf82ee8262c]
 
-> - (b (Extent: E+W+S) (affected by repeal, see note))[^key-1dd0145983068ca64e4e0cf82ee8262c] except in the case of an appeal under the Vaccine Damage Payments Act, the conditions governing appeals to a Commissioner. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1dd0145983068ca64e4e0cf82ee8262c]
+> - (b (Extent: E+W+S) (affected by repeal, see note))[^c-1dd0145983068ca64e4e0cf82ee8262c] except in the case of an appeal under the Vaccine Damage Payments Act, the conditions governing appeals to a Commissioner. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1dd0145983068ca64e4e0cf82ee8262c]
 
-. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1dd0145983068ca64e4e0cf82ee8262c]
+. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1dd0145983068ca64e4e0cf82ee8262c]
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -246,6 +246,6 @@ These Regulations do not impose a charge on business.
 
 [^c1646556]: Marginal citation: [Regulations 6](https://www.legislation.gov.uk/uksi/1999/2677/regulation/6) and 7 were amended by [S.I. 1999/1623](https://www.legislation.gov.uk/uksi/1999/1623).
 
-[^key-591f419c5d3b38f8e7248441c8753ac9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/2677/regulation/9) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-591f419c5d3b38f8e7248441c8753ac9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/2677/regulation/9) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-1dd0145983068ca64e4e0cf82ee8262c]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/2677/regulation/10) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(b)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/b), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-1dd0145983068ca64e4e0cf82ee8262c]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/2677/regulation/10) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(b)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/b), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Additional functions of the Authority, Mayor and functional bodies[^key-ae977021653f42da89d34615361682fe]
+## 40A. Additional functions of the Authority, Mayor and functional bodies[^c-ae977021653f42da89d34615361682fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 27 to the English Devolution and Community Empowerment Act 2026 contain
 
 ## Annotations
 
-[^key-ae977021653f42da89d34615361682fe]: Textual amendment: S. 40A and cross-heading inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 16](https://www.legislation.gov.uk/ukpga/2026/23/section/16), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-ae977021653f42da89d34615361682fe]: Textual amendment: S. 40A and cross-heading inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 16](https://www.legislation.gov.uk/ukpga/2026/23/section/16), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

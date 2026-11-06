@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Limit on total amount of benefits[^key-a4d99573c4cbb69cfa80988977843a2b]
+## 50. Limit on total amount of benefits[^c-a4d99573c4cbb69cfa80988977843a2b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d99573c4cbb69cfa80988977843a2b]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/uksi/2013/2356/regulation/50) omitted (1.4.2026) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [25](https://www.legislation.gov.uk/uksi/2026/226/regulation/25)
+[^c-a4d99573c4cbb69cfa80988977843a2b]: Textual amendment: [Reg. 50](https://www.legislation.gov.uk/uksi/2013/2356/regulation/50) omitted (1.4.2026) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [25](https://www.legislation.gov.uk/uksi/2026/226/regulation/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Interpretation of Chapter 2 of Part 2[^key-d49d1ff8f136a2d38ae60ef3807e0fd5]
+## 104. Interpretation of Chapter 2 of Part 2[^c-d49d1ff8f136a2d38ae60ef3807e0fd5]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
   - (a) a hovercraft;
   - (b) any submersible apparatus; and
   - (c) an installation in transit.
-- “[^key-f3e0afa6c027a67cd4a72d125c64cad7]**Welsh waters**” means so much of the internal waters and territorial sea of the United Kingdom as are adjacent to Wales, and the Welsh zone;
+- “[^c-f3e0afa6c027a67cd4a72d125c64cad7]**Welsh waters**” means so much of the internal waters and territorial sea of the United Kingdom as are adjacent to Wales, and the Welsh zone;
 - “**Welsh zone**” has the meaning given in section 158 of the Government of Wales Act 2006.
 
 (2) References in this Chapter to the production of energy from water include, in particular, references to its production from currents and tides.
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d49d1ff8f136a2d38ae60ef3807e0fd5]: Commencement: S. 104 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-d49d1ff8f136a2d38ae60ef3807e0fd5]: Commencement: S. 104 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-f3e0afa6c027a67cd4a72d125c64cad7]: Textual amendment: Words in s. 104(1) inserted (1.4.2019) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 41(6)](https://www.legislation.gov.uk/ukpga/2017/4/section/41/6), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/10)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)
+[^c-f3e0afa6c027a67cd4a72d125c64cad7]: Textual amendment: Words in s. 104(1) inserted (1.4.2019) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 41(6)](https://www.legislation.gov.uk/ukpga/2017/4/section/41/6), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [8](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/10)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)

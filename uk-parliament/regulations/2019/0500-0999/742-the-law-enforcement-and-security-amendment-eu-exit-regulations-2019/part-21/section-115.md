@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Revocation of the Prüm Decision and related Council Decisions[^key-a892ce2754a16607260f8c7a13bce764]
+## 115. Revocation of the Prüm Decision and related Council Decisions[^c-a892ce2754a16607260f8c7a13bce764]
 
 *Extent: E+W+S+N.I.*
 
-The following are revoked (but see Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act)[^key-e3a388a390930ab752ce77ebcf036d8c]—
+The following are revoked (but see Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act)[^c-e3a388a390930ab752ce77ebcf036d8c]—
 
 - (a) the Prüm Decision;
 - (b) Council Decision 2008/616/JHA of 23 June 2008 on the implementation of Decision 2008/615/JHA on the stepping up of cross-border cooperation, particularly in combating terrorism and cross-border crime;
@@ -29,6 +29,6 @@ The following are revoked (but see Title VII of Part 3 of the withdrawal agreeme
 
 ## Annotations
 
-[^key-a892ce2754a16607260f8c7a13bce764]: Commencement: Reg. 115 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a892ce2754a16607260f8c7a13bce764]: Commencement: Reg. 115 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e3a388a390930ab752ce77ebcf036d8c]: Textual amendment: Words in reg. 115 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [33](https://www.legislation.gov.uk/uksi/2020/1408/regulation/33)
+[^c-e3a388a390930ab752ce77ebcf036d8c]: Textual amendment: Words in reg. 115 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [33](https://www.legislation.gov.uk/uksi/2020/1408/regulation/33)

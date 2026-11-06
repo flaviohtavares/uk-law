@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Additional requirement for postal vote applications[^key-e602a4355c17ad95e963659148f7d060]
+## 61. Additional requirement for postal vote applications[^c-e602a4355c17ad95e963659148f7d060]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ After regulation 51A insert—
 
 ## Annotations
 
-[^key-e602a4355c17ad95e963659148f7d060]: Commencement: Reg. 61 in force at 24.11.2006, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/4)
+[^c-e602a4355c17ad95e963659148f7d060]: Commencement: Reg. 61 in force at 24.11.2006, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/4)
 
 [^f00081]: Footnote: The reference is to Schedule 4 to the Representation of the People Act [2000 (c. 2.)](https://www.legislation.gov.uk/ukpga/2000/2). Paragraphs 3(1) and 4(1) were amended by, respectively, section 14(1)(a) and (2)(a) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).
 

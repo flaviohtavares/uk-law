@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Credit-related agreements made unenforceable by section 26, 26A or 27[^key-711569dc109e4c2d7ce46080ad2f38bf][^key-b891dcf407684f82258b3faed29f0bc2]
+## 28A. Credit-related agreements made unenforceable by section 26, 26A or 27[^c-711569dc109e4c2d7ce46080ad2f38bf][^c-b891dcf407684f82258b3faed29f0bc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-711569dc109e4c2d7ce46080ad2f38bf]: Modification: S. 28A applied (with modifications) (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [2(2)](https://www.legislation.gov.uk/uksi/2014/208/article/2/2)
+[^c-711569dc109e4c2d7ce46080ad2f38bf]: Modification: S. 28A applied (with modifications) (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [2(2)](https://www.legislation.gov.uk/uksi/2014/208/article/2/2)
 
-[^key-b891dcf407684f82258b3faed29f0bc2]: Textual amendment: Ss. 28A, 28B inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-b891dcf407684f82258b3faed29f0bc2]: Textual amendment: Ss. 28A, 28B inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2012/21/schedule/9/paragraph/8) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

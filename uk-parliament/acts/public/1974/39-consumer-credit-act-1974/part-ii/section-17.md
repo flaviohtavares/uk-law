@@ -22,7 +22,7 @@ summary: ''
 
 (1) A small agreement is—
 
-- (a)[^key-aaab71a85bef0d9308afab811e50036a] a regulated consumer credit agreement for credit not exceeding £50, other than—
+- (a)[^c-aaab71a85bef0d9308afab811e50036a] a regulated consumer credit agreement for credit not exceeding £50, other than—
   - (i) a hire-purchase agreement,
   - (ii) a conditional sale agreement, or
   - (iii) a regulated deferred payment credit agreement; or
@@ -43,7 +43,7 @@ this Act applies to the small agreements as if they were regulated agreements ot
 
 ## Annotations
 
-[^key-aaab71a85bef0d9308afab811e50036a]: Textual amendment: S. 17(1)(a) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2025/859/article/2/2)
+[^c-aaab71a85bef0d9308afab811e50036a]: Textual amendment: S. 17(1)(a) substituted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2025/859/article/2/2)
 
 [^c2430421]: Textual amendment: "£50" substituted by [S.I. 1983/1878](https://www.legislation.gov.uk/uksi/1983/1878), [art. 3](https://www.legislation.gov.uk/uksi/1983/1878/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1983/1878/schedule/part/I)
 

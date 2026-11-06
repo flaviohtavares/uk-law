@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 2
 
-### 1. Interpretation[^key-235f22a70fbd527ea1a1cbf36150f457]
+### 1. Interpretation[^c-235f22a70fbd527ea1a1cbf36150f457]
 
 In this schedule—
 
 - “adult cat” means a cat aged 6 months or more,
 - “sleeping area” means a fully-enclosed indoor area in which a cat can rest and sleep.
 
-### 2. Advertisements and sales[^key-e96709ab13a0c4634544d1160f27fb9a]
+### 2. Advertisements and sales[^c-e96709ab13a0c4634544d1160f27fb9a]
 
 (1) A cat must not be advertised or offered for sale—
 
@@ -60,13 +60,13 @@ unless the cat is over the age of 12 months and was procured by the licence hold
 
 (7) A cat may only be sold if the name, and an address, of the licence holder are disclosed to the purchaser.
 
-### 3. Number of breeding female cats and litters produced[^key-f89b4f0d9e4155b8f3908ea6ff8d4e31]
+### 3. Number of breeding female cats and litters produced[^c-f89b4f0d9e4155b8f3908ea6ff8d4e31]
 
 (1) The number of breeding female cats kept in relation to the licensable activity of breeding cats at any time on the premises specified in the licence and on which the licensable activity is carried on must not exceed the number specified by the local authority in the licence.
 
 (2) The number of litters produced on the premises during each consecutive 12 month period commencing with the date on which the licence was granted or, as the case may be, renewed must not exceed twice the maximum number of breeding female cats specified in the licence.
 
-### 4. Suitable environment[^key-9b46c5b67761b2f41009d089b863c1e7]
+### 4. Suitable environment[^c-9b46c5b67761b2f41009d089b863c1e7]
 
 (1) Each cat must have access to—
 
@@ -101,7 +101,7 @@ without touching another cat or the walls of the sleeping area.
 
 (10) In this paragraph, “exercise area” means a secure area where cats may exercise and play.
 
-### 5. Suitable diet[^key-7706793af49a42606c6697bc50eba717]
+### 5. Suitable diet[^c-7706793af49a42606c6697bc50eba717]
 
 (1) Each kitten must be provided with the opportunity to start weaning as soon as it is capable of ingesting feed on its own.
 
@@ -111,7 +111,7 @@ without touching another cat or the walls of the sleeping area.
 
 (4) Reasonable efforts must be made so that each kitten ingests the correct share of the feed provided.
 
-### 6. Training and exercise[^key-b4be89467119fc2f6a2895dc759ef1fa]
+### 6. Training and exercise[^c-b4be89467119fc2f6a2895dc759ef1fa]
 
 (1) Opportunities to exercise which benefit the cats’ physical and mental health must be provided, unless advice from a veterinarian suggests otherwise.
 
@@ -122,11 +122,11 @@ without touching another cat or the walls of the sleeping area.
 
 (3) All adult cats must have at least daily opportunities to interact with people where such interaction benefits their welfare.
 
-### 7. Housing with or apart from other cats[^key-c5a848b376e99cc061a979c613d5f901]
+### 7. Housing with or apart from other cats[^c-c5a848b376e99cc061a979c613d5f901]
 
 Each adult cat must be given suitable and adequate opportunities to become habituated to handling by people.
 
-### 8. Protection from suffering, injury and disease[^key-824e9ecba8b548a34a5e831c05a643fe]
+### 8. Protection from suffering, injury and disease[^c-824e9ecba8b548a34a5e831c05a643fe]
 
 (1) All cats for sale must be in good health.
 
@@ -189,18 +189,18 @@ until it has recovered, ceased to require isolation or, where there is no need f
 
 ## Annotations
 
-[^key-235f22a70fbd527ea1a1cbf36150f457]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-235f22a70fbd527ea1a1cbf36150f457]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-e96709ab13a0c4634544d1160f27fb9a]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-e96709ab13a0c4634544d1160f27fb9a]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-f89b4f0d9e4155b8f3908ea6ff8d4e31]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-f89b4f0d9e4155b8f3908ea6ff8d4e31]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-9b46c5b67761b2f41009d089b863c1e7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-9b46c5b67761b2f41009d089b863c1e7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-7706793af49a42606c6697bc50eba717]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-7706793af49a42606c6697bc50eba717]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-b4be89467119fc2f6a2895dc759ef1fa]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-b4be89467119fc2f6a2895dc759ef1fa]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-c5a848b376e99cc061a979c613d5f901]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-c5a848b376e99cc061a979c613d5f901]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
-[^key-824e9ecba8b548a34a5e831c05a643fe]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-824e9ecba8b548a34a5e831c05a643fe]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ssi/2021/84/schedule/7/paragraph/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

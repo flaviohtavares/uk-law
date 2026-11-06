@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Relevant period[^key-42fcb4740e64437617ab54b7f2c9e7af][^key-f7c1b1edb885ebaef7ddfc929d135c53]
+## 7. Relevant period[^c-42fcb4740e64437617ab54b7f2c9e7af][^c-f7c1b1edb885ebaef7ddfc929d135c53]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42fcb4740e64437617ab54b7f2c9e7af]: Modification: Pt. 1 Ch. 1 modified (28.6.2013) by [The Duty to Participate in Education or Training (Miscellaneous Provisions) Regulations 2013 (S.I. 2013/1205)](https://www.legislation.gov.uk/uksi/2013/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1205/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1205/regulation/8)
+[^c-42fcb4740e64437617ab54b7f2c9e7af]: Modification: Pt. 1 Ch. 1 modified (28.6.2013) by [The Duty to Participate in Education or Training (Miscellaneous Provisions) Regulations 2013 (S.I. 2013/1205)](https://www.legislation.gov.uk/uksi/2013/1205), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1205/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/1205/regulation/8)
 
-[^key-f7c1b1edb885ebaef7ddfc929d135c53]: Commencement: S. 7 in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/g)
+[^c-f7c1b1edb885ebaef7ddfc929d135c53]: Commencement: S. 7 in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/g)

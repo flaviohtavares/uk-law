@@ -32,7 +32,7 @@ Section 13.
 
 **2.** (1) In this Part of this Schedule—
 
-- “[^key-791ff229107ba81b2d9d36a872bec462]**casino premises licence**” has the same meaning as in Part 8 of the Gambling Act 2005 (see section 150(1)(a));
+- “[^c-791ff229107ba81b2d9d36a872bec462]**casino premises licence**” has the same meaning as in Part 8 of the Gambling Act 2005 (see section 150(1)(a));
 - “**club gaming permit**” has the same meaning as in that Act (see section 271);
 - “**the register**” means the gaming duty register;
 - “**registered person**” means a person registered on the register; and
@@ -40,7 +40,7 @@ Section 13.
 
 (2) For the purposes of this Part of this Schedule premises in the United Kingdom are “**unlicensed premises**” unless they are premises in Great Britain—
 
-- (a)[^key-59302e35d4341e44627eaedc82274b47] in respect of which a casino premises licence is for the time being in force, or
+- (a)[^c-59302e35d4341e44627eaedc82274b47] in respect of which a casino premises licence is for the time being in force, or
 - (b) in respect of which a club gaming permit is for the time being in force.
 
 (3) References in this Part of this Schedule to being a member of a group and to being the representative member of a group shall be construed in accordance with paragraph 8 below.
@@ -60,7 +60,7 @@ add that person to the register.
 
 (4) Subject to sub-paragraph (5) below—
 
-- (a) the holder of a casino premises licence or club gaming permit[^key-ac103978f07045a076566405ff562a53] is a registrable person if and for so long as dutiable gaming takes place on the premises in respect of which the licence or permit[^key-16eb90bdfab37a6ebee0f383851daf83] is for the time being in force;
+- (a) the holder of a casino premises licence or club gaming permit[^c-ac103978f07045a076566405ff562a53] is a registrable person if and for so long as dutiable gaming takes place on the premises in respect of which the licence or permit[^c-16eb90bdfab37a6ebee0f383851daf83] is for the time being in force;
 - (b) a provider of unlicensed premises is a registrable person if and for so long as dutiable gaming takes place on those premises;
 - (c) a person is a registrable person if and for so long as he is concerned in the organisation or management of dutiable gaming that takes place on unlicensed premises.
 
@@ -167,7 +167,7 @@ he shall notify the Commissioners accordingly and they shall cause those premise
 
 (10) For the purposes of this paragraph, in the case of a person who is not a body corporate, or who is a body corporate that is not a member of any group—
 
-- (a) premises in respect of which a casino premises licence or club gaming permit[^key-001001169284749359d4b7dab551537d] is for the time being in force are notifiable by him if and for so long as—
+- (a) premises in respect of which a casino premises licence or club gaming permit[^c-001001169284749359d4b7dab551537d] is for the time being in force are notifiable by him if and for so long as—
   - (i) he is the holder of the licence or permit[^M_F_1f0d049f-8d8a-45a5-b6ea-864e3dd072b2], and
   - (ii) dutiable gaming takes place on those premises;
 - (b) unlicensed premises of which he is a provider are notifiable by him if and for so long as dutiable gaming takes place on those premises; and
@@ -177,7 +177,7 @@ he shall notify the Commissioners accordingly and they shall cause those premise
 
 (11) For the purposes of this paragraph, in the case of a body corporate which is the representative member of a group—
 
-- (a) premises in respect of which a casino premises licence or club gaming permit[^key-d616bb4b6ddd9779c6d24b2fb89804b5] is for the time being in force are notifiable by the representative member if and for so long as—
+- (a) premises in respect of which a casino premises licence or club gaming permit[^c-d616bb4b6ddd9779c6d24b2fb89804b5] is for the time being in force are notifiable by the representative member if and for so long as—
   - (i) it, or another body corporate which is a member of that group, is the holder of the licence or permit[^M_F_bfb7694a-d905-4d44-d443-363788533235], and
   - (ii) dutiable gaming takes place on those premises;
 - (b) unlicensed premises of which the representative member or any such other body corporate is a provider are notifiable by the representative member if and for so long as dutiable gaming takes place on those premises; and
@@ -248,17 +248,17 @@ the Commissioners shall, by notice given to such one of the bodies corporate men
 (10) For the purposes of this paragraph a body corporate shall be taken to control another body corporate if—
 
 - (a) it is empowered by statute to control that body’s activities; or
-- (b) it is that body’s holding company within the meaning of section 1159 of and Schedule 6 to[^key-17678d015d1aacaa765d18697acbe3d8] the Companies Act 2006;
+- (b) it is that body’s holding company within the meaning of section 1159 of and Schedule 6 to[^c-17678d015d1aacaa765d18697acbe3d8] the Companies Act 2006;
 
 and an individual or individuals shall be taken to control a body corporate if (were he or they a company) he or they would be that body’s holding company within the meaning of that Act.
 
-(11) Sections 13A to 16[^key-bbea65a545e19d0d5202335622bd005b] of the [^c14709261]Finance Act 1994 (review and appeals) shall have effect in relation to any refusal by the Commissioners of an application under sub-paragraph (2) or (4) above as if that refusal were a decision of a description falling within section 13(A)(2)(j) of that Act[^key-dcd799f9f1c6753ac8eff81bb43d66a8].
+(11) Sections 13A to 16[^c-bbea65a545e19d0d5202335622bd005b] of the [^c14709261]Finance Act 1994 (review and appeals) shall have effect in relation to any refusal by the Commissioners of an application under sub-paragraph (2) or (4) above as if that refusal were a decision of a description falling within section 13(A)(2)(j) of that Act[^c-dcd799f9f1c6753ac8eff81bb43d66a8].
 
 ### Part II — Other provisions
 
 #### Accounting periods
 
-**9.** (1)[^key-81ed009e42b0ad8689697748ab285533] Where the Commissioners and every relevant person so agree, the gaming duty provisions of this Act shall have effect in relation to any premises as if accounting periods for the purposes of those provisions were the periods specified in the agreement, which may be—
+**9.** (1)[^c-81ed009e42b0ad8689697748ab285533] Where the Commissioners and every relevant person so agree, the gaming duty provisions of this Act shall have effect in relation to any premises as if accounting periods for the purposes of those provisions were the periods specified in the agreement, which may be—
 
 - (a) periods of six months (beginning on any date);
 - (b) periods (beginning on any date) which are longer or shorter than six months, but which must be the approximate equivalent of periods of six months in weeks.
@@ -278,16 +278,16 @@ and an individual or individuals shall be taken to control a body corporate if (
 
 (1F) Withdrawal of a direction under this paragraph in relation to any premises does not prevent the giving of further directions in relation to those premises.
 
-(2) For the purposes of this paragraph[^key-091ce4f6b3525b31135beacd4f1e64cc], a person is a relevant person in relation to any premises if—
+(2) For the purposes of this paragraph[^c-091ce4f6b3525b31135beacd4f1e64cc], a person is a relevant person in relation to any premises if—
 
 - (a) he is registered on the gaming duty register, and
 - (b) the entry relating to him on the register specifies those premises.
 
-(3)[^key-ee1e5e004872b8f4ba5dca5997e75e12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ee1e5e004872b8f4ba5dca5997e75e12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8a4bff406becc4af77a8867b5dc7b501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8a4bff406becc4af77a8867b5dc7b501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-3161ecd1a5130ca09396cc539c20a0eb] The decisions mentioned in sub-paragraph (6) are to be treated as if they were listed in subsection (2) of section 13A of FA 1994 (customs and excise reviews and appeals: meaning of “relevant decision”) and accordingly are to be treated—
+(5)[^c-3161ecd1a5130ca09396cc539c20a0eb] The decisions mentioned in sub-paragraph (6) are to be treated as if they were listed in subsection (2) of section 13A of FA 1994 (customs and excise reviews and appeals: meaning of “relevant decision”) and accordingly are to be treated—
 
 - (a) as if they were relevant decisions for the purposes mentioned in subsection (1) of that section, and
 - (b) as if they were ancillary matters for the purposes of section 16 FA 1994 (appeals to a tribunal).
@@ -321,7 +321,7 @@ and an individual or individuals shall be taken to control a body corporate if (
 
 **11.** (1) The Commissioners may make regulations providing for any matter for which provision appears to them to be necessary or expedient for the administration or enforcement of gaming duty, or for the protection of the revenue from that duty.
 
-(2) Regulations under this paragraph may, in particular, include provision as to the giving and operation of directions under section 11(6) of this Act or paragraph 9 of this Schedule[^key-e878ef917110e83682fd0894edc19a98].
+(2) Regulations under this paragraph may, in particular, include provision as to the giving and operation of directions under section 11(6) of this Act or paragraph 9 of this Schedule[^c-e878ef917110e83682fd0894edc19a98].
 
 (3) Where any person contravenes or fails to comply with any of the provisions of any regulations under this paragraph, his contravention or failure to comply shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties).
 
@@ -340,17 +340,17 @@ shall be guilty of an offence.
 (3) A person guilty of an offence under sub-paragraph (2) above shall be liable—
 
 - (a) on summary conviction, to a penalty of—
-  - (i) £20,000,[^key-57e5590a1ea7fad4f2b775824c75be76] or
+  - (i) £20,000,[^c-57e5590a1ea7fad4f2b775824c75be76] or
   - (ii) if greater, three times the duty or other amount which is unpaid or the payment of which is sought to be avoided,
 
   or to imprisonment for a term not exceeding six months, or to both;
 - (b) on conviction on indictment, to a penalty of any amount, or to imprisonment for a term not exceeding—
   - (i) two years in the case of an offence by virtue of sub-paragraph (2)(a) above, and
-  - (ii) 14[^key-9dcdf82dc8548e937c46e8f6f420e70a] years in any other case,
+  - (ii) 14[^c-9dcdf82dc8548e937c46e8f6f420e70a] years in any other case,
 
   or to both.
 
-(4) Section 27 of the [^c14709281]Betting and Gaming Duties Act 1981 (offences by bodies corporate) shall have effect for the purposes of any offence under this paragraph as it has effect for the purposes of the offence[^key-42405aea3ace14d1dc046375588353c5] mentioned in that section.
+(4) Section 27 of the [^c14709281]Betting and Gaming Duties Act 1981 (offences by bodies corporate) shall have effect for the purposes of any offence under this paragraph as it has effect for the purposes of the offence[^c-42405aea3ace14d1dc046375588353c5] mentioned in that section.
 
 (5) Where a person has committed an offence under sub-paragraph (2) above, all designated items related to the relevant gaming shall be liable to forfeiture if—
 
@@ -390,14 +390,14 @@ shall be guilty of an offence.
 
 **14.** (1) No obligation as to secrecy or other restriction on the disclosure of information imposed by statute or otherwise shall prevent—
 
-- (a) the Commissioners or an authorised officer of the Commissioners from disclosing to the Gambling Commission[^key-4e0c26472b83a92cb25d43ae0a470ca3] or to an authorised officer of that Commission, or
+- (a) the Commissioners or an authorised officer of the Commissioners from disclosing to the Gambling Commission[^c-4e0c26472b83a92cb25d43ae0a470ca3] or to an authorised officer of that Commission, or
 - (b) that Commission or an authorised officer of that Commission from disclosing to the Commissioners or an authorised officer of the Commissioners,
 
 information for the purpose of assisting the Commissioners in the carrying out of their functions with respect to gaming duty or, as the case may be, that Commission in the carrying out of that Commission's functions under the Gambling Act 2005 .
 
 (2) Information obtained by virtue of a disclosure authorised by this paragraph shall not be disclosed except—
 
-- (a) to the Commissioners or the Gambling Commission[^key-8791469802146c32d80d9c78b8202654] or to an authorised officer of the Commissioners or that Commission; or
+- (a) to the Commissioners or the Gambling Commission[^c-8791469802146c32d80d9c78b8202654] or to an authorised officer of the Commissioners or that Commission; or
 - (b) for the purposes of any proceedings connected with a matter in relation to which the Commissioners or that Commission carry out the functions mentioned in sub-paragraph (1) above.
 
 #### Evidence by certificate
@@ -406,66 +406,66 @@ information for the purpose of assisting the Commissioners in the carrying out o
 
 #### Protection of officers
 
-**16.**[^key-8c8c6aa66da26c3fc6ef248f641f5a13] Where an officer of Revenue and Customs takes any action in pursuance of instructions of the Commissioners for His Majesty’s Revenue and Customs in connection with the enforcement of the enactments relating to gaming duty and, apart from this paragraph, the officer would in taking that action be committing an offence under the enactments relating to betting or gaming, the officer is not be guilty of that offence.
+**16.**[^c-8c8c6aa66da26c3fc6ef248f641f5a13] Where an officer of Revenue and Customs takes any action in pursuance of instructions of the Commissioners for His Majesty’s Revenue and Customs in connection with the enforcement of the enactments relating to gaming duty and, apart from this paragraph, the officer would in taking that action be committing an offence under the enactments relating to betting or gaming, the officer is not be guilty of that offence.
 
 ## Annotations
 
-[^key-791ff229107ba81b2d9d36a872bec462]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/2/1) inserted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/2)[23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-791ff229107ba81b2d9d36a872bec462]: Textual amendment: Words in [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/2/1) inserted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/2)[23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-59302e35d4341e44627eaedc82274b47]: Textual amendment: [Sch. 1 para. 2(2)(a)-(b)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/2/2/a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/3)[23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-59302e35d4341e44627eaedc82274b47]: Textual amendment: [Sch. 1 para. 2(2)(a)-(b)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/2/2/a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/3)[23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-ac103978f07045a076566405ff562a53]: Textual amendment: Words in Sch. 1 para. 3(4)(a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(4)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/4/a), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-ac103978f07045a076566405ff562a53]: Textual amendment: Words in Sch. 1 para. 3(4)(a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(4)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/4/a), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-16eb90bdfab37a6ebee0f383851daf83]: Textual amendment: Words in Sch. 1 para. 3(4)(a) inserted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(4)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/4/b), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-16eb90bdfab37a6ebee0f383851daf83]: Textual amendment: Words in Sch. 1 para. 3(4)(a) inserted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(4)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/4/b), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^c14709221]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-001001169284749359d4b7dab551537d]: Textual amendment: Words in Sch. 1 para. 6(10)(a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/5/a), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-001001169284749359d4b7dab551537d]: Textual amendment: Words in Sch. 1 para. 6(10)(a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/5/a), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^M_F_1f0d049f-8d8a-45a5-b6ea-864e3dd072b2]: Textual amendment: Words in Sch. 1 para. 6(10)(a) inserted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(5)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/5/a), 23(2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
-[^key-d616bb4b6ddd9779c6d24b2fb89804b5]: Textual amendment: Words in Sch. 1 para. 6(11)(a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/5/b), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
+[^c-d616bb4b6ddd9779c6d24b2fb89804b5]: Textual amendment: Words in Sch. 1 para. 6(11)(a) substituted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/5/b), [23(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^M_F_bfb7694a-d905-4d44-d443-363788533235]: Textual amendment: Words in Sch. 1 para. 6(11)(a) inserted (1.9.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(5)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/5/b), 23(2); [S.I. 2007/2532](https://www.legislation.gov.uk/uksi/2007/2532), [art. 2](https://www.legislation.gov.uk/uksi/2007/2532/article/2)
 
 [^c14709241]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-17678d015d1aacaa765d18697acbe3d8]: Textual amendment: Words in Sch. 1 para. 8(10)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(d)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/d)
+[^c-17678d015d1aacaa765d18697acbe3d8]: Textual amendment: Words in Sch. 1 para. 8(10)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(d)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/d)
 
-[^key-bbea65a545e19d0d5202335622bd005b]: Textual amendment: Words in Sch. 1 para. 8(11) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 243(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/243/2/a)
+[^c-bbea65a545e19d0d5202335622bd005b]: Textual amendment: Words in Sch. 1 para. 8(11) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 243(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/243/2/a)
 
 [^c14709261]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-dcd799f9f1c6753ac8eff81bb43d66a8]: Textual amendment: Words in Sch. 1 para. 8(11) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 243(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/243/2/b)
+[^c-dcd799f9f1c6753ac8eff81bb43d66a8]: Textual amendment: Words in Sch. 1 para. 8(11) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 243(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/243/2/b)
 
-[^key-81ed009e42b0ad8689697748ab285533]: Textual amendment: [Sch. 1 para. 9(1)-(1F)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/1) substituted for [Sch. 1](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1) [para. 9(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/1) (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/2), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7) (with [Sch. 19 para. 8(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/8/2))
+[^c-81ed009e42b0ad8689697748ab285533]: Textual amendment: [Sch. 1 para. 9(1)-(1F)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/1) substituted for [Sch. 1](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1) [para. 9(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/1) (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/2), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7) (with [Sch. 19 para. 8(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/8/2))
 
-[^key-091ce4f6b3525b31135beacd4f1e64cc]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/2) substituted (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/3), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-091ce4f6b3525b31135beacd4f1e64cc]: Textual amendment: Words in [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/2) substituted (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/3), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
-[^key-ee1e5e004872b8f4ba5dca5997e75e12]: Textual amendment: [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/3) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/4), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-ee1e5e004872b8f4ba5dca5997e75e12]: Textual amendment: [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/3) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/4), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
-[^key-8a4bff406becc4af77a8867b5dc7b501]: Textual amendment: [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/4) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/4), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-8a4bff406becc4af77a8867b5dc7b501]: Textual amendment: [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/4) omitted (1.10.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/4), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
-[^key-3161ecd1a5130ca09396cc539c20a0eb]: Textual amendment: [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/5)[(6)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/6) substituted for [Sch. 1](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1) [para. 9(5)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/5) (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(5)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/5), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-3161ecd1a5130ca09396cc539c20a0eb]: Textual amendment: [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/5)[(6)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/6) substituted for [Sch. 1](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1) [para. 9(5)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/9/5) (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 2(5)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/2/5), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
 [^c14709271]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-e878ef917110e83682fd0894edc19a98]: Textual amendment: Words in [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/11/2) inserted (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/3), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
+[^c-e878ef917110e83682fd0894edc19a98]: Textual amendment: Words in [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/11/2) inserted (1.10.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 19 paras. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/3), [7](https://www.legislation.gov.uk/ukpga/2019/1/schedule/19/paragraph/7)
 
-[^key-57e5590a1ea7fad4f2b775824c75be76]: Textual amendment: Sum in Sch. 1 para. 12(3)(a)(i) substituted (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/10) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-57e5590a1ea7fad4f2b775824c75be76]: Textual amendment: Sum in Sch. 1 para. 12(3)(a)(i) substituted (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/10) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-9dcdf82dc8548e937c46e8f6f420e70a]: Textual amendment: Word in [Sch. 1 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/12/3/b/ii) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-9dcdf82dc8548e937c46e8f6f420e70a]: Textual amendment: Word in [Sch. 1 para. 12(3)(b)(ii)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/12/3/b/ii) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
 [^c14709281]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).
 
-[^key-42405aea3ace14d1dc046375588353c5]: Textual amendment: Words in Sch. 1 para. 12(4) substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 20(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/20/2) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
+[^c-42405aea3ace14d1dc046375588353c5]: Textual amendment: Words in Sch. 1 para. 12(4) substituted (1.12.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 198(2)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/198/2/c), [Sch. 28 para. 20(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/28/paragraph/20/2) (with [Sch. 29](https://www.legislation.gov.uk/ukpga/2014/26/schedule/29))
 
 [^c14709291]: Textual amendment: [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/13/1) ceases to have effect (1.7.1997) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s. 13](https://www.legislation.gov.uk/ukpga/1997/16/section/13), [Sch. 1 para. 13(2)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/1/paragraph/13/2); [S.I. 1997/1433](https://www.legislation.gov.uk/uksi/1997/1433), [art. 2](https://www.legislation.gov.uk/uksi/1997/1433/article/2)
 
-[^key-4e0c26472b83a92cb25d43ae0a470ca3]: Textual amendment: Words in Sch. 1 para. 14(1) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(6)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/6/a)[23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
+[^c-4e0c26472b83a92cb25d43ae0a470ca3]: Textual amendment: Words in Sch. 1 para. 14(1) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(6)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/6/a)[23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
 
-[^key-8791469802146c32d80d9c78b8202654]: Textual amendment: Words in Sch. 1 para. 14(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(6)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/6/b)[23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
+[^c-8791469802146c32d80d9c78b8202654]: Textual amendment: Words in Sch. 1 para. 14(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 25 paras. 20(6)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/20/6/b)[23(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/25/paragraph/23/1)
 
 [^c14709311]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).
 
-[^key-8c8c6aa66da26c3fc6ef248f641f5a13]: Textual amendment: Sch. 1 para. 16 substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 8(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/8/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-8c8c6aa66da26c3fc6ef248f641f5a13]: Textual amendment: Sch. 1 para. 16 substituted (1.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 8(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/8/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

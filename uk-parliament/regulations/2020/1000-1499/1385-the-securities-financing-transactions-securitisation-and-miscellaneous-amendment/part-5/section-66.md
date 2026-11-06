@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. The Prospectus (Amendment etc.) (EU Exit) Regulations 2019[^key-314fdca399b919b5f9050de9ed00e880]
+## 66. The Prospectus (Amendment etc.) (EU Exit) Regulations 2019[^c-314fdca399b919b5f9050de9ed00e880]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-314fdca399b919b5f9050de9ed00e880]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2020/1385/regulation/66) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-314fdca399b919b5f9050de9ed00e880]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2020/1385/regulation/66) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00058]: Footnote: [S.I. 2019/1234](https://www.legislation.gov.uk/uksi/2019/1234).

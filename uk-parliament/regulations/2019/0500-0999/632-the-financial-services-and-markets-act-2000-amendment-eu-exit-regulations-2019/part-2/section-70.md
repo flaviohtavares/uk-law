@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Section 380 (injunctions)[^key-2fe1e37530b611b1abbdf64ef1cebf15]
+## 70. Section 380 (injunctions)[^c-2fe1e37530b611b1abbdf64ef1cebf15]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2fe1e37530b611b1abbdf64ef1cebf15]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2fe1e37530b611b1abbdf64ef1cebf15]: Commencement: Reg. 70 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658061]: Marginal citation: Section 380 was amended by section 37(1) of, and paragraph 1 of Part 1 and paragraphs 19(1), (2), (3)(a), (3)(b), (3)(c), (4) and (5) of Part 5 of Schedule 9 to, the Financial Services Act 2012, section 141 of, and paragraphs 3(1) and (2) of Schedule 10 to, the Financial Services (Banking Reform) Act 2013, [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), 2015/1755 and 2016/225.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Commencement[^key-9e2c81ea5385c702350c1ae721c628a3]
+## 88. Commencement[^c-9e2c81ea5385c702350c1ae721c628a3]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2c81ea5385c702350c1ae721c628a3]: Commencement: S. 88 in force at 31.1.2024, see [s. 88(1)](https://www.legislation.gov.uk/asp/2024/2/section/88/1)
+[^c-9e2c81ea5385c702350c1ae721c628a3]: Commencement: S. 88 in force at 31.1.2024, see [s. 88(1)](https://www.legislation.gov.uk/asp/2024/2/section/88/1)

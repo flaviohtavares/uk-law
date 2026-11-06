@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. The investment exception[^key-fbef7788d4786076934d67900f92c664]
+## 56. The investment exception[^c-fbef7788d4786076934d67900f92c664]
 
 *Extent: E+W*
 
@@ -89,10 +89,10 @@ the tenant may refer the matter to the Adjudicator.
   - (i) which is reasonable in the light of the value of the qualifying investment;
   - (ii) which is no later than 7 years from the day on which the investment agreement is signed.
 
-(13) For the purposes of paragraph (4)[^key-431dd8d4e37d6cb5334846a0dca13a3a] a “reasonable forecast” is a forecast which is based on an assessment of the level of trading at the tied pub after the investment if it were operated by a reasonably efficient tenant.
+(13) For the purposes of paragraph (4)[^c-431dd8d4e37d6cb5334846a0dca13a3a] a “reasonable forecast” is a forecast which is based on an assessment of the level of trading at the tied pub after the investment if it were operated by a reasonably efficient tenant.
 
 ## Annotations
 
-[^key-fbef7788d4786076934d67900f92c664]: Commencement: Reg. 56 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-fbef7788d4786076934d67900f92c664]: Commencement: Reg. 56 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
-[^key-431dd8d4e37d6cb5334846a0dca13a3a]: Textual amendment: Words in [reg. 56(13)](https://www.legislation.gov.uk/uksi/2016/790/regulation/56/13) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-431dd8d4e37d6cb5334846a0dca13a3a]: Textual amendment: Words in [reg. 56(13)](https://www.legislation.gov.uk/uksi/2016/790/regulation/56/13) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/18) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

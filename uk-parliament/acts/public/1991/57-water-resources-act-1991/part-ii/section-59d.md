@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59D. Apportionment of licence to abstract: supplementary[^key-0f4c17c9431d4be34ae11e4f1ecc6448]
+## 59D. Apportionment of licence to abstract: supplementary[^c-0f4c17c9431d4be34ae11e4f1ecc6448]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
+[^c-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))

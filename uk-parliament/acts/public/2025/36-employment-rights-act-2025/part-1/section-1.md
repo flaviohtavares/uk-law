@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Right to guaranteed hours[^key-4552470ddb51e0a84941c0d6c8fb5e2c][^key-7afdfdf37cc20d0ee1de9d095ae01718]
+## 1. Right to guaranteed hours[^c-4552470ddb51e0a84941c0d6c8fb5e2c][^c-7afdfdf37cc20d0ee1de9d095ae01718]
 
 *Extent: E+W+S*
 
@@ -450,6 +450,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4552470ddb51e0a84941c0d6c8fb5e2c]: Commencement: S. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-4552470ddb51e0a84941c0d6c8fb5e2c]: Commencement: S. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-7afdfdf37cc20d0ee1de9d095ae01718]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/36/section/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
+[^c-7afdfdf37cc20d0ee1de9d095ae01718]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/36/section/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Deferment of added pension attributable to recent payments[^key-0d7388f8192dc2617ada72e25bcb0296]
+## 71. Deferment of added pension attributable to recent payments[^c-0d7388f8192dc2617ada72e25bcb0296]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d7388f8192dc2617ada72e25bcb0296]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2015/182/regulation/71) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-0d7388f8192dc2617ada72e25bcb0296]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2015/182/regulation/71) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Private rights over land[^key-68b16d7054c4d7cb7aed015936abdf80]
+## 31. Private rights over land[^c-68b16d7054c4d7cb7aed015936abdf80]
 
 *Extent: E+W*
 
@@ -30,11 +30,11 @@ whichever is the earlier.
 (2) Subject to the provisions of this article, all private rights over land subject to the compulsory acquisition of rights or the imposition of restrictive covenants under this Order are extinguished in so far as their continuance would be inconsistent with the exercise of the right or the burden of the restrictive covenant—
 
 - (a) from the date of the acquisition of the right or the benefit of the restrictive covenant by the undertaker, whether compulsorily or by agreement; or
-- (b) on the date of entry on the land by the undertaker under section 11(1) (power of entry) of the 1965 Act,[^key-f0a26ec7aa6faa586e6a80a8480d136f]
+- (b) on the date of entry on the land by the undertaker under section 11(1) (power of entry) of the 1965 Act,[^c-f0a26ec7aa6faa586e6a80a8480d136f]
 
 whichever is earlier.
 
-(3) Subject to the provisions of this article, all private rights over land owned by the undertaker which, being within the limits of land [^key-3f4632d3781f2586db8dafbc3594eda4]... that are within the Order limits are extinguished when any material operation comprised in the authorised development interferes with or breaches those rights.
+(3) Subject to the provisions of this article, all private rights over land owned by the undertaker which, being within the limits of land [^c-3f4632d3781f2586db8dafbc3594eda4]... that are within the Order limits are extinguished when any material operation comprised in the authorised development interferes with or breaches those rights.
 
 (4) Subject to the provisions of this article, all private rights over land of which the undertaker takes temporary possession under this Order are suspended and unenforceable for as long as the undertaker remains in lawful possession of the land.
 
@@ -53,7 +53,7 @@ whichever is earlier.
   that any or all of those paragraphs do not apply to any right specified in the notice; and
 - (b) any agreement made at any time between the undertaker and the person in or to whom the right in question is vested or belongs.
 
-(8) If any such agreement as referred to[^key-fbdaf02e4d3f5a4a714c12971a66350a] in paragraph (7)(b)—
+(8) If any such agreement as referred to[^c-fbdaf02e4d3f5a4a714c12971a66350a] in paragraph (7)(b)—
 
 - (a) is made with a person in or to whom the right is vested or belongs; and
 - (b) is expressed to have effect also for the benefit of those deriving title from or under that person,
@@ -66,16 +66,16 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-68b16d7054c4d7cb7aed015936abdf80]: Commencement: Art. 31 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-68b16d7054c4d7cb7aed015936abdf80]: Commencement: Art. 31 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00069]: Footnote: Section 11(1) was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1); and section 186 of the Housing and Planning Act 2016.
 
-[^key-f0a26ec7aa6faa586e6a80a8480d136f]: Textual amendment: Words in art. 31(2)(b) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1) Tale
+[^c-f0a26ec7aa6faa586e6a80a8480d136f]: Textual amendment: Words in art. 31(2)(b) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1) Tale
 
-[^key-3f4632d3781f2586db8dafbc3594eda4]: Textual amendment: Word in art. 31(3) omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-3f4632d3781f2586db8dafbc3594eda4]: Textual amendment: Word in art. 31(3) omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00070]: Footnote: Section 152 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^f00071]: Footnote: Section 138 was amended by section 23 of the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and [S.I. 2017/1285](https://www.legislation.gov.uk/uksi/2017/1285).
 
-[^key-fbdaf02e4d3f5a4a714c12971a66350a]: Textual amendment: Words in art. 31(8) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-fbdaf02e4d3f5a4a714c12971a66350a]: Textual amendment: Words in art. 31(8) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Amendment of regulation 7[^key-8a99b5cb8e5e9f4fb2c3b71cf0467c5e]
+## 57. Amendment of regulation 7[^c-8a99b5cb8e5e9f4fb2c3b71cf0467c5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8a99b5cb8e5e9f4fb2c3b71cf0467c5e]: Commencement: Reg. 57 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-8a99b5cb8e5e9f4fb2c3b71cf0467c5e]: Commencement: Reg. 57 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00042]: Footnote: Regulation 7 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), which substituted paragraphs (1) and (2) for paragraphs (1) to (3) as originally enacted.

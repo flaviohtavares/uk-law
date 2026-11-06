@@ -36,7 +36,7 @@ An Act to make provision about the lawfulness of decisions taken or other things
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Actions of Commission staff treated as Commission actions[^key-81f7d3f2044227980be193f3b7f75bba][^key-81f7d3f2044227980be193f3b7f75bba]
+## 1. Actions of Commission staff treated as Commission actions[^c-81f7d3f2044227980be193f3b7f75bba][^c-81f7d3f2044227980be193f3b7f75bba]
 
 (1) In this section “**relevant action**” means any decision made or purported to be made, or other thing done or purported to be done, by a member of the Commission’s staff before 16 May 2019 if—
 
@@ -109,7 +109,7 @@ Interpretation etc
 
 (12) This section is to be treated as having come into operation on 27 March 2009.
 
-## 2. Power of Commission to delegate to staff[^key-033bec4ee207a76258583df2027bb3bf]
+## 2. Power of Commission to delegate to staff[^c-033bec4ee207a76258583df2027bb3bf]
 
 In Schedule 1 to the Charities Act (Northern Ireland) 2008 (provision about the Charity Commission), after paragraph 9 insert—
 
@@ -149,7 +149,7 @@ In Schedule 1 to the Charities Act (Northern Ireland) 2008 (provision about the 
 
 .
 
-## 3. Regulations exempting charities from registering by reference to thresholds[^key-b904dd8423f369f965f8ce243b3c6506]
+## 3. Regulations exempting charities from registering by reference to thresholds[^c-b904dd8423f369f965f8ce243b3c6506]
 
 (1) The Charities Act (Northern Ireland) 2008 is amended as follows.
 
@@ -264,7 +264,7 @@ In Schedule 1 to the Charities Act (Northern Ireland) 2008 (provision about the 
 
 (6) In section 179(2)(c) (regulations which must be approved in draft are not subject to negative procedure), after “section” insert “16A(7) or”.
 
-## 4. Short title and commencement[^key-c7287801cf94c84d3dee5545977572c6]
+## 4. Short title and commencement[^c-c7287801cf94c84d3dee5545977572c6]
 
 (1) This Act may be cited as the Charities Act (Northern Ireland) 2022.
 
@@ -272,10 +272,10 @@ In Schedule 1 to the Charities Act (Northern Ireland) 2008 (provision about the 
 
 ## Annotations
 
-[^key-81f7d3f2044227980be193f3b7f75bba]: Commencement: S. 1 in operation retrospectively from 27.3.2009, see [s. 1(12)](https://www.legislation.gov.uk/nia/2022/11/section/1/12)
+[^c-81f7d3f2044227980be193f3b7f75bba]: Commencement: S. 1 in operation retrospectively from 27.3.2009, see [s. 1(12)](https://www.legislation.gov.uk/nia/2022/11/section/1/12)
 
-[^key-033bec4ee207a76258583df2027bb3bf]: Commencement: S. 2 in operation at 30.3.2022, see [s. 4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-033bec4ee207a76258583df2027bb3bf]: Commencement: S. 2 in operation at 30.3.2022, see [s. 4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
 
-[^key-b904dd8423f369f965f8ce243b3c6506]: Commencement: S. 3 in operation at 30.3.2022, see [s. 4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-b904dd8423f369f965f8ce243b3c6506]: Commencement: S. 3 in operation at 30.3.2022, see [s. 4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
 
-[^key-c7287801cf94c84d3dee5545977572c6]: Commencement: S. 4 in operation at 30.3.2022, see [s. 4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)
+[^c-c7287801cf94c84d3dee5545977572c6]: Commencement: S. 4 in operation at 30.3.2022, see [s. 4(2)](https://www.legislation.gov.uk/nia/2022/11/section/4/2)

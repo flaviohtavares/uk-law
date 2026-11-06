@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**39.**[^key-61240742cd7a3130d5eb47b68cfd029c] In regulation 43—
+**39.**[^c-61240742cd7a3130d5eb47b68cfd029c] In regulation 43—
 
 - (a) in paragraph (a) for “the United Kingdom” substitute “Northern Ireland”;
 - (b) in paragraph (b) for “UK” substitute “NI”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61240742cd7a3130d5eb47b68cfd029c]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-61240742cd7a3130d5eb47b68cfd029c]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

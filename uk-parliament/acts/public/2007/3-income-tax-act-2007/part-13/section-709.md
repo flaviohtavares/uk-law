@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 709. Effect of appeals against tribunal's determination under section 706[^key-536b50c29801cd5f86df622f6ce74878]
+## 709. Effect of appeals against tribunal's determination under section 706[^c-536b50c29801cd5f86df622f6ce74878]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-536b50c29801cd5f86df622f6ce74878]: Textual amendment: Ss. 706-711 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 460](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/460)
+[^c-536b50c29801cd5f86df622f6ce74878]: Textual amendment: Ss. 706-711 omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 460](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/460)

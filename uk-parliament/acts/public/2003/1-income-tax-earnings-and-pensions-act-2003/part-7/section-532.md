@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies where—
 
 - (a) a disqualifying event (see section 533) occurs in relation to a qualifying option before the option is exercised, and
-- (b) the option is exercised later than 90[^key-789631bbecb4f11a9c4f235c80884615] days after the day on which the event occurred.
+- (b) the option is exercised later than 90[^c-789631bbecb4f11a9c4f235c80884615] days after the day on which the event occurred.
 
 (2) If the option is within section 530(1) (option to acquire shares at market value), the section 476 gain is—
 
@@ -46,7 +46,7 @@ summary: ''
 
 (4A) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In subsections (2) and (3)[^key-c20a5b08f10d5c0e207332b7164c1274] “**the section 476 gain**” means the amount under section 478 (amount of charge under section 476) is to be regarded as the taxable amount for the purposes of section 476 in respect of the acquisition of the shares pursuant to the option.[^key-ee7f28ed7aea6fa803c57fc4acfa36fd]
+(5) In subsections (2) and (3)[^c-c20a5b08f10d5c0e207332b7164c1274] “**the section 476 gain**” means the amount under section 478 (amount of charge under section 476) is to be regarded as the taxable amount for the purposes of section 476 in respect of the acquisition of the shares pursuant to the option.[^c-ee7f28ed7aea6fa803c57fc4acfa36fd]
 
 (6) Nothing in the following provisions—
 
@@ -57,8 +57,8 @@ applies if the amount that counts as employment income by virtue of section 476 
 
 ## Annotations
 
-[^key-789631bbecb4f11a9c4f235c80884615]: Textual amendment: Word in s. 532(1)(b) substituted (with effect in accordance with Sch. 2 para. 94(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 94(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/94/1)
+[^c-789631bbecb4f11a9c4f235c80884615]: Textual amendment: Word in s. 532(1)(b) substituted (with effect in accordance with Sch. 2 para. 94(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 2 para. 94(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/2/paragraph/94/1)
 
-[^key-c20a5b08f10d5c0e207332b7164c1274]: Textual amendment: Words in s. 532(5) substituted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 14(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/14/3), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
+[^c-c20a5b08f10d5c0e207332b7164c1274]: Textual amendment: Words in s. 532(5) substituted (1.9.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 23 paras. 14(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/14/3), [38](https://www.legislation.gov.uk/ukpga/2013/29/schedule/23/paragraph/38); [S.I. 2013/1755](https://www.legislation.gov.uk/uksi/2013/1755), [art. 2](https://www.legislation.gov.uk/uksi/2013/1755/article/2)
 
-[^key-ee7f28ed7aea6fa803c57fc4acfa36fd]: Textual amendment: Words in s. 532(5) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 38(1)(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/38/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-ee7f28ed7aea6fa803c57fc4acfa36fd]: Textual amendment: Words in s. 532(5) substituted (1.9.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 38(1)(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/38/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

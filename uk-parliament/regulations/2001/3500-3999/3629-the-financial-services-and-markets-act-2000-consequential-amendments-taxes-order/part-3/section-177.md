@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Returns of information by account manager[^key-6067fcc60632fa01f9675c74ee8d5e8b]
+## 177. Returns of information by account manager[^c-6067fcc60632fa01f9675c74ee8d5e8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ In regulation 31(4) (returns of information by account manager)—
 
 ## Annotations
 
-[^key-6067fcc60632fa01f9675c74ee8d5e8b]: Commencement: Art. 177 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-6067fcc60632fa01f9675c74ee8d5e8b]: Commencement: Art. 177 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

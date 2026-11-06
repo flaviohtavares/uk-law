@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Employee share scheme[^key-64b7f3fe1da215a47953375db4360a0b]
+## 3. Employee share scheme[^c-64b7f3fe1da215a47953375db4360a0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64b7f3fe1da215a47953375db4360a0b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/5/section/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-64b7f3fe1da215a47953375db4360a0b]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/5/section/3) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

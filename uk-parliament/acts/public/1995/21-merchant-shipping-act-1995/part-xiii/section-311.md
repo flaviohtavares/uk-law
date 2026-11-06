@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 311. Application of Act to certain structures, etc.[^key-076bf3ab9807684e5a3e08ca1bf4f9a6]
+## 311. Application of Act to certain structures, etc.[^c-076bf3ab9807684e5a3e08ca1bf4f9a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-076bf3ab9807684e5a3e08ca1bf4f9a6]: Textual amendment: [S. 311](https://www.legislation.gov.uk/ukpga/1995/21/section/311) repealed (10.9.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 112(8)](https://www.legislation.gov.uk/ukpga/2003/20/section/112/8), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8)
+[^c-076bf3ab9807684e5a3e08ca1bf4f9a6]: Textual amendment: [S. 311](https://www.legislation.gov.uk/ukpga/1995/21/section/311) repealed (10.9.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 112(8)](https://www.legislation.gov.uk/ukpga/2003/20/section/112/8), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8)

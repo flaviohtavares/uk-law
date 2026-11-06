@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. English apprenticeships: disclosure of information[^key-c887e9fd8940d0c4d41a8cdb2619750e]
+## 5. English apprenticeships: disclosure of information[^c-c887e9fd8940d0c4d41a8cdb2619750e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ section 19 of the Commissioners for Revenue and Customs Act 2005 (wrongful discl
 
 ## Annotations
 
-[^key-c887e9fd8940d0c4d41a8cdb2619750e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/20/section/5) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(c)](https://www.legislation.gov.uk/uksi/2015/994/article/6/c)
+[^c-c887e9fd8940d0c4d41a8cdb2619750e]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2015/20/section/5) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(c)](https://www.legislation.gov.uk/uksi/2015/994/article/6/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. “Illegal content” etc[^key-1482ddc2354bb5ce9de54a9fe06e6bff]
+## 59. “Illegal content” etc[^c-1482ddc2354bb5ce9de54a9fe06e6bff]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
   - (i) the infringement of intellectual property rights,
   - (ii) the safety or quality of goods (as opposed to what kind of goods they are), or
   - (iii) the performance of a service by a person not qualified to perform it; or
-- (b) it is an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-5695df41e9fefe9afbba2f9bd217eec6].
+- (b) it is an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-5695df41e9fefe9afbba2f9bd217eec6].
 
 (7) “**Priority offence**” means—
 
@@ -69,7 +69,7 @@ summary: ''
 - (b) CSEA content, and
 - (c) content that amounts to an offence specified in Schedule 7.
 
-(10A)[^key-052d08156511c42683822abe9881d49e] “Intimate image content” means content that amounts to an offence under section 66B(1), (2) or (3) of the Sexual Offences Act 2003 (sharing intimate image of a person without consent).
+(10A)[^c-052d08156511c42683822abe9881d49e] “Intimate image content” means content that amounts to an offence under section 66B(1), (2) or (3) of the Sexual Offences Act 2003 (sharing intimate image of a person without consent).
 
 (11) For the purposes of determining whether content amounts to an offence, no account is to be taken of whether or not anything done in relation to the content takes place in any part of the United Kingdom.
 
@@ -77,7 +77,7 @@ summary: ''
 
 (13) Subsection (14) applies in relation to a regulated user-to-user service (but, in the case of a combined service, does not apply in relation to the search content of the service).
 
-(14) References to “illegal content”, “terrorism content”, “CSEA content” , “priority illegal content” and “intimate image content”[^key-a12608107633a6704de09fb00a06e3c5] are to be read as—
+(14) References to “illegal content”, “terrorism content”, “CSEA content” , “priority illegal content” and “intimate image content”[^c-a12608107633a6704de09fb00a06e3c5] are to be read as—
 
 - (a) limited to content within the definition in question that is regulated user-generated content in relation to the service, and
 - (b) including material which, if it were present on the service, would be content within paragraph (a) (and this section is to be read with such modifications as may be necessary for the purpose of this paragraph).
@@ -99,10 +99,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1482ddc2354bb5ce9de54a9fe06e6bff]: Commencement: S. 59 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
+[^c-1482ddc2354bb5ce9de54a9fe06e6bff]: Commencement: S. 59 in force at Royal Assent, see [s. 240(4)(h)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/h)
 
-[^key-5695df41e9fefe9afbba2f9bd217eec6]: Textual amendment: Words in s. 59(6) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/13/2) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
+[^c-5695df41e9fefe9afbba2f9bd217eec6]: Textual amendment: Words in s. 59(6) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 13(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/13/2) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
 
-[^key-052d08156511c42683822abe9881d49e]: Textual amendment: S. 59(10A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/8), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-052d08156511c42683822abe9881d49e]: Textual amendment: S. 59(10A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(8)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/8), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-a12608107633a6704de09fb00a06e3c5]: Textual amendment: Words in s. 59(14) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/6), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-a12608107633a6704de09fb00a06e3c5]: Textual amendment: Words in s. 59(14) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(6)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/6), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

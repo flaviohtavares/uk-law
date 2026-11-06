@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Miscellaneous amendments relating to Wales[^key-e55e8579e71a4b293158d66d9809fda2]
+## 175. Miscellaneous amendments relating to Wales[^c-e55e8579e71a4b293158d66d9809fda2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 17 contains further amendments relating to Wales.
 
 ## Annotations
 
-[^key-e55e8579e71a4b293158d66d9809fda2]: Commencement: S. 175 in force at 30.6.2008 by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/2)
+[^c-e55e8579e71a4b293158d66d9809fda2]: Commencement: S. 175 in force at 30.6.2008 by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(2)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/2)

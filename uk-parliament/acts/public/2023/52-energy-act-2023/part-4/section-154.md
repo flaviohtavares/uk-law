@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Regulations for protection of consumers[^key-d1bd3aa55d86a019416e7cf3a1f4dee4]
+## 154. Regulations for protection of consumers[^c-d1bd3aa55d86a019416e7cf3a1f4dee4]
 
 *Extent: E+W+S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1bd3aa55d86a019416e7cf3a1f4dee4]: Commencement: S. 154 in force at Royal Assent, see [s. 334(2)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/d)
+[^c-d1bd3aa55d86a019416e7cf3a1f4dee4]: Commencement: S. 154 in force at Royal Assent, see [s. 334(2)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/d)

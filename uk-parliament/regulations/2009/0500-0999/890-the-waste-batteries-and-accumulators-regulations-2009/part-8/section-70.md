@@ -26,7 +26,7 @@ summary: ''
 
 (3) In this regulation—
 
-- “**collection rate**” means for any scheme in a compliance period the percentage obtained by dividing the weight of portable batteries for which the scheme supplies batteries evidence notes under regulation 25 in respect of that compliance period by the average weight per year of portable batteries that scheme members place on the market for the first time in the United Kingdom during the relevant period excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end-users[^key-0749d059d6b71b223f7cff6bc96624bc];
+- “**collection rate**” means for any scheme in a compliance period the percentage obtained by dividing the weight of portable batteries for which the scheme supplies batteries evidence notes under regulation 25 in respect of that compliance period by the average weight per year of portable batteries that scheme members place on the market for the first time in the United Kingdom during the relevant period excluding any portable batteries and accumulators that have left the United Kingdom before being sold to end-users[^c-0749d059d6b71b223f7cff6bc96624bc];
 - “**the relevant period**” means—
   - (a) for the compliance period 2010, the year 2009;
   - (b) for the compliance period 2011, the years 2009 and 2010;
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0749d059d6b71b223f7cff6bc96624bc]: Textual amendment: Words in reg. 70(3) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(10)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/10) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0749d059d6b71b223f7cff6bc96624bc]: Textual amendment: Words in reg. 70(3) inserted (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [14(10)](https://www.legislation.gov.uk/uksi/2019/188/regulation/14/10) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

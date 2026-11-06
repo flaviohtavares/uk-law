@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Co-ordination of admission arrangements[^c385173][^key-0c27b4e0ac58bb9b46d01a7d6a865e10]
+## 48. Co-ordination of admission arrangements[^c385173][^c-0c27b4e0ac58bb9b46d01a7d6a865e10]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ After section 89A of the School Standards and Framework Act 1998 (c. 31) there i
 
 > **89B. Co-ordination of admission arrangements**
 >
-> (1) Regulations may require a local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] —
+> (1) Regulations may require a local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] —
 >
 > - (a) to formulate, for any academic year in relation to which prescribed conditions are satisfied, a qualifying scheme for co-ordinating the arrangements for the admission of pupils to maintained schools in their area, and
 > - (b) to take prescribed action with a view to securing the adoption of the scheme by themselves and each governing body who are the admission authority for a maintained school in their area.
@@ -36,7 +36,7 @@ After section 89A of the School Standards and Framework Act 1998 (c. 31) there i
 > - (a) a scheme formulated by the local authority in accordance with subsection (1) is adopted in the prescribed manner by the persons mentioned in paragraph (b) of that subsection, and
 > - (b) the authority provide the Secretary of State with a copy of the scheme and inform him that the scheme has been so adopted.
 >
-> (4) The Secretary of State may by regulations require local authorities[^key-0b83dc4852763b67d3e91bf8700f3c44] to provide other local authorities with such information as may be required by them in connection with the exercise of any of their functions under this Chapter.
+> (4) The Secretary of State may by regulations require local authorities[^c-0b83dc4852763b67d3e91bf8700f3c44] to provide other local authorities with such information as may be required by them in connection with the exercise of any of their functions under this Chapter.
 >
 > (5) Regulations may provide—
 >
@@ -74,8 +74,8 @@ After section 89A of the School Standards and Framework Act 1998 (c. 31) there i
 
 [^c385173]: Commencement: S. 48 partly in force; s. 48 not in force at Royal Assent, see s. 216; s. 48 in force for E. at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-0c27b4e0ac58bb9b46d01a7d6a865e10]: Commencement: S. 48 in force at 1.2.2006 for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
+[^c-0c27b4e0ac58bb9b46d01a7d6a865e10]: Commencement: S. 48 in force at 1.2.2006 for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)
+[^c-0b83dc4852763b67d3e91bf8700f3c44]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/3)

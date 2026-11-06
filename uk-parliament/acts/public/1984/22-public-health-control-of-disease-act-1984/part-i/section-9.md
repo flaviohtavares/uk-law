@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Vessels in inland or coastal waters.[^key-48bd17f54079db41ff86f05c16292152]
+## 9. Vessels in inland or coastal waters.[^c-48bd17f54079db41ff86f05c16292152]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48bd17f54079db41ff86f05c16292152]: Textual amendment: S. 9 repealed (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/6), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))
+[^c-48bd17f54079db41ff86f05c16292152]: Textual amendment: S. 9 repealed (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/6), [Sch. 15 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/3); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)(f)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/uksi/2010/1547), [art. 2(e)(f)](https://www.legislation.gov.uk/uksi/2010/1547/article/2/e/f) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1547/schedule/1))

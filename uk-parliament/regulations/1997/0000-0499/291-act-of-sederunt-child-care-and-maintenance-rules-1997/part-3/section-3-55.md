@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.55. Answers[^key-a984c5f8ea2861f6e92bc0cf447f7b6a]
+## 3.55. Answers[^c-a984c5f8ea2861f6e92bc0cf447f7b6a]
 
 *Extent: S*
 
-(1)[^key-e8617cf236e63ac2977e52ef706425e2] Subject to paragraph (1A), if any person on whom service of the appeal has been made wishes to lodge answers to the appeal, he or she must do so not later than 7 days before the diet fixed for the hearing of the appeal.
+(1)[^c-e8617cf236e63ac2977e52ef706425e2] Subject to paragraph (1A), if any person on whom service of the appeal has been made wishes to lodge answers to the appeal, he or she must do so not later than 7 days before the diet fixed for the hearing of the appeal.
 
 (1A) Paragraph (1) does not apply to those appeals referred to in section 157(1), 160(1), 161(1) or 162(3) of the 2011 Act.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a984c5f8ea2861f6e92bc0cf447f7b6a]: Commencement: Rule 3.55 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-a984c5f8ea2861f6e92bc0cf447f7b6a]: Commencement: Rule 3.55 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-e8617cf236e63ac2977e52ef706425e2]: Textual amendment: Rule 3.55(1)(1A) substituted for rule 3.55(1) (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(44)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/44) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-e8617cf236e63ac2977e52ef706425e2]: Textual amendment: Rule 3.55(1)(1A) substituted for rule 3.55(1) (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(44)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/44) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

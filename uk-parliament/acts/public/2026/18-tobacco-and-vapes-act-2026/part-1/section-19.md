@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Prohibition of retail sales of tobacco products etc in Wales without a licence[^key-6bd78a9e48de579e3f20d5ba3150ea7a]
+## 19. Prohibition of retail sales of tobacco products etc in Wales without a licence[^c-6bd78a9e48de579e3f20d5ba3150ea7a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bd78a9e48de579e3f20d5ba3150ea7a]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)
+[^c-6bd78a9e48de579e3f20d5ba3150ea7a]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 175(2)(5)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/5)

@@ -39,7 +39,7 @@ summary: ''
 
 (5) For the purposes of this section a person is an adult member of another’s family if that person is—
 
-- (a) the other’s spouse or civil partner[^key-b9564abf3913bd938a9098f089243fbf]; or
+- (a) the other’s spouse or civil partner[^c-b9564abf3913bd938a9098f089243fbf]; or
 - (b) a son or daughter or a son-in-law or daughter-in-law of the other, or of the other’s spouse or civil partner, who has attained the age of 18; or
 - (c) the father or mother of the other, or of the other’s spouse or civil partner;
 
@@ -63,7 +63,7 @@ and in paragraph (b) any reference to a person’s son or daughter includes a re
 
 [^c17045241]: Textual amendment: S. 10(4A) repealed (26.7.2002 for E. and 1.1.2003 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 180](https://www.legislation.gov.uk/ukpga/2002/15/section/180), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2002/1912](https://www.legislation.gov.uk/uksi/2002/1912), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/1912/article/2/b/ii), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/1912/schedule/1/part/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/1912/schedule/2)); [S. I. 2002/3012](https://www.legislation.gov.uk/uksi/2002/3012), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/3012/article/2/b/ii), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/3012/schedule/1/part/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3012/schedule/2))
 
-[^key-b9564abf3913bd938a9098f089243fbf]: Textual amendment: Words in s. 10(5) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/48); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-b9564abf3913bd938a9098f089243fbf]: Textual amendment: Words in s. 10(5) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 48](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/48); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c17023491]: Textual amendment: Definition in s. 10(6) repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 19 Pt.V](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/V); [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(2)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/2) (with savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2212/schedule))
 

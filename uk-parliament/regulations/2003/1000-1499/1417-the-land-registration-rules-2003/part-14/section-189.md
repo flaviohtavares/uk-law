@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-The period for the purpose of paragraph 3(2) of Schedule 6 to the Act is the period ending at 12 noon on the sixty-fifth working[^key-a30ce1613b57e9ec58e716599ec2d71a] day after the date of issue of the notice.
+The period for the purpose of paragraph 3(2) of Schedule 6 to the Act is the period ending at 12 noon on the sixty-fifth working[^c-a30ce1613b57e9ec58e716599ec2d71a] day after the date of issue of the notice.
 
 ## Annotations
 
-[^key-a30ce1613b57e9ec58e716599ec2d71a]: Textual amendment: Word in [rule 189](https://www.legislation.gov.uk/uksi/2003/1417/rule/189) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)
+[^c-a30ce1613b57e9ec58e716599ec2d71a]: Textual amendment: Word in [rule 189](https://www.legislation.gov.uk/uksi/2003/1417/rule/189) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/6)

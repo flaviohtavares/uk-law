@@ -48,11 +48,11 @@ Section 194.
 
 ### The Public Works Loans Act 1965
 
-**6.**[^key-762832f9f5b9c6a557d6f8fc072175e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-762832f9f5b9c6a557d6f8fc072175e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Public Works Loans Act 1967
 
-**7.**[^key-ea4dc24f9121c01a579055fb0c6fb786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ea4dc24f9121c01a579055fb0c6fb786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Leasehold Reform Act 1967
 
@@ -250,7 +250,7 @@ Section 194.
 
 ### The Local Government (Scotland) Act 1973
 
-**33.**[^key-07593cc5371a37e58c22fc06490815c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-07593cc5371a37e58c22fc06490815c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **34.**[^c15282841] In section 47 of that Act (allowances for conferences and meetings)—
 
@@ -291,7 +291,7 @@ Section 194.
 
 ### The Local Government Act 1974
 
-**37.**[^key-4b09ab7d2d6dc29f652e0495e5e62a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-4b09ab7d2d6dc29f652e0495e5e62a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **38.** In section 23(12) of that Act (triennial reports to Part III authorities) the words “(through the appropriate representative body designated under section 24 below)" shall be omitted and at the end there shall be inserted the words “ and shall send copies of those recommendations or conclusions to the representative persons and authorities concerned ”.
 
@@ -406,24 +406,24 @@ Section 194.
 > - (eza)[^M_F_1806b024-b54c-47cf-87c3-5c6650eaed7c][^M_F_12165fa0-2694-4ef1-c7f0-5b6ed6b7fcef] an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009;
 > - (ezb) a combined authority established under section 103 of that Act; and
 > - (ea) [^M_F_5d7be443-e61d-4a40-d7dd-b6069f6dedb8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-> - (f)[^key-b1df60fd6a59cd03d78ec904c5deb6eb] the London Fire Commissioner.
+> - (f)[^c-b1df60fd6a59cd03d78ec904c5deb6eb] the London Fire Commissioner.
 
 **57.** In section 100 of that Act (interpretation and extent of Part X) for subsection (1) there shall be substituted the following subsections—
 
 > (1) Except where the context otherwise requires, in this Part of this Act, “**subsidiary**”, in relation to a body to whom this Part of this Act applies, means—
 >
-> - (a) if that body is a county council, county borough council[^c15282981] district council, London borough council, the Common Council of the City of London , the London Fire Commissioner[^key-f9aeeddff85db80b88e2a256716a5ae0] , a joint authority established by Part 4 of the Local Government Act 1985[^key-15e4e9aabe03d12c1eb5d6ed31ef6e29] , an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009,[^key-d3327298a55e5c69b16926e397181964] or a combined authority established under section 103 of that Act[^key-2386f4fec425be80674da61668ba669e], a company under the control, or subject to the influence, of that body within the meaning of Part V of the Local Government and Housing Act 1989 (companies in which local authorities have interests); and
+> - (a) if that body is a county council, county borough council[^c15282981] district council, London borough council, the Common Council of the City of London , the London Fire Commissioner[^c-f9aeeddff85db80b88e2a256716a5ae0] , a joint authority established by Part 4 of the Local Government Act 1985[^c-15e4e9aabe03d12c1eb5d6ed31ef6e29] , an economic prosperity board established under section 88 of the Local Democracy, Economic Development and Construction Act 2009,[^c-d3327298a55e5c69b16926e397181964] or a combined authority established under section 103 of that Act[^c-2386f4fec425be80674da61668ba669e], a company under the control, or subject to the influence, of that body within the meaning of Part V of the Local Government and Housing Act 1989 (companies in which local authorities have interests); and
 > - (b) in the case of any other body, a wholly-owned subsidiary of that body.
 >
-> (1A) In this Part of this Act, “wholly-owned subsidiary" has the meaning assigned to it by section 1159 of the Companies Act 2006[^key-22b987f142a7284e4048d7a1cbb322fc].
+> (1A) In this Part of this Act, “wholly-owned subsidiary" has the meaning assigned to it by section 1159 of the Companies Act 2006[^c-22b987f142a7284e4048d7a1cbb322fc].
 
-### ...[^key-6437358dea7cc8303d7611560dca42c2]
+### ...[^c-6437358dea7cc8303d7611560dca42c2]
 
-**58.**[^key-6437358dea7cc8303d7611560dca42c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-6437358dea7cc8303d7611560dca42c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Stock Transfer Act 1982
 
-**59.**[^key-fbe57ad354cb3325ec03c6c076b0225e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**59.**[^c-fbe57ad354cb3325ec03c6c076b0225e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The County Courts Act 1984
 
@@ -593,7 +593,7 @@ Section 194.
 
 **Not yet in force.**
 
-**92.** In section 4(2)(a) of the *(affected by repeal, see note)*[^key-e5749b9735b041417d8ace4d8f288d3a] [^c15283131]Education Act 1986 (definition of “the pooling provisions" for the purposes of sections 2 and 3 of that Act) after “that Schedule” there shall be inserted *(affected by repeal, see note)*[^key-e5749b9735b041417d8ace4d8f288d3a] “ and section 147 of the Local Government and Housing Act 1989 ” *(affected by repeal, see note)*[^key-e5749b9735b041417d8ace4d8f288d3a].
+**92.** In section 4(2)(a) of the *(affected by repeal, see note)*[^c-e5749b9735b041417d8ace4d8f288d3a] [^c15283131]Education Act 1986 (definition of “the pooling provisions" for the purposes of sections 2 and 3 of that Act) after “that Schedule” there shall be inserted *(affected by repeal, see note)*[^c-e5749b9735b041417d8ace4d8f288d3a] “ and section 147 of the Local Government and Housing Act 1989 ” *(affected by repeal, see note)*[^c-e5749b9735b041417d8ace4d8f288d3a].
 
 ### The Housing (Scotland) Act 1987
 
@@ -601,7 +601,7 @@ Section 194.
 
 **94.** In section 62(1) of that Act (price at which secure tenant entitled to buy house to be market value less discount) there shall be inserted after “fixed” the words “ as at the date of service of the application to purchase ”.
 
-**95.**[^key-942d17117af32d0e020dbabed9d9b1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**95.**[^c-942d17117af32d0e020dbabed9d9b1cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government Act 1988
 
@@ -609,7 +609,7 @@ Section 194.
 
 **Not yet in force.**
 
-**97.**[^key-68e55c87df4a3ff005a778bfd55e9abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-68e55c87df4a3ff005a778bfd55e9abe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Education Reform Act 1988
 
@@ -675,7 +675,7 @@ Section 194.
 
 **102.** In section 15 of that Act (limited prohibition on assignment etc. without consent), in subsection (3) after the words “which is not a statutory periodic tenancy” there shall be inserted “ or an assured periodic tenancy arising under Schedule 10 to the Local Government and Housing Act 1989 ”.
 
-**103.** In section 21 of that Act (recovery of possession on expiry or termination of assured shorthold tenancy), in subsection (1)(a) for the words “astatutory periodic tenancy” there shall be substituted *(affected by repeal, see note)*[^key-27ead8a26ee074ee6eca0bff963307c2] “ an assured shorthold periodic tenancy (whether statutory or not) ” *(affected by repeal, see note)*[^key-27ead8a26ee074ee6eca0bff963307c2].
+**103.** In section 21 of that Act (recovery of possession on expiry or termination of assured shorthold tenancy), in subsection (1)(a) for the words “astatutory periodic tenancy” there shall be substituted *(affected by repeal, see note)*[^c-27ead8a26ee074ee6eca0bff963307c2] “ an assured shorthold periodic tenancy (whether statutory or not) ” *(affected by repeal, see note)*[^c-27ead8a26ee074ee6eca0bff963307c2].
 
 **104.** In section 34 of that Act (new protected tenancies etc. restricted to special cases), in subsection (1) for paragraph (d) there shall be substituted the following paragraph—
 
@@ -699,11 +699,11 @@ Section 194.
 
 **107.**[^c15283201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**108.** In Schedule 2 to that Act (grounds for possession of dwelling-houses let on assured tenancies), in Part I (grounds on which court must order possession), in Ground 6 in the paragraph following paragraph (c)— *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626]
+**108.** In Schedule 2 to that Act (grounds for possession of dwelling-houses let on assured tenancies), in Part I (grounds on which court must order possession), in Ground 6 in the paragraph following paragraph (c)— *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626]
 
-- (a) after the words “joint tenants”, in the second place where they occur, there shall be inserted *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626] “ of the dwelling-house concerned ” *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626];
-- (b) for the words “of the dwelling-house concerned” there shall be substituted *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626] “ or, as the case may be, under a tenancy to which Schedule 10 to the Local Government and Housing Act 1989 applied ” *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626]; and *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626]
-- (c) after the words “earlier assured tenancy”, in the second place where they occur, there shall be inserted *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626] “ or, as the case may be, to the grant of the tenancy to which the said Schedule 10 applied ” *(affected by repeal, see note)*[^key-49a3c65700b0b1dd63a859021d3cf626].
+- (a) after the words “joint tenants”, in the second place where they occur, there shall be inserted *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626] “ of the dwelling-house concerned ” *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626];
+- (b) for the words “of the dwelling-house concerned” there shall be substituted *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626] “ or, as the case may be, under a tenancy to which Schedule 10 to the Local Government and Housing Act 1989 applied ” *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626]; and *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626]
+- (c) after the words “earlier assured tenancy”, in the second place where they occur, there shall be inserted *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626] “ or, as the case may be, to the grant of the tenancy to which the said Schedule 10 applied ” *(affected by repeal, see note)*[^c-49a3c65700b0b1dd63a859021d3cf626].
 
 **109.**[^c15283211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -736,9 +736,9 @@ Section 194.
 
 [^c15282611]: Marginal citation: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
 
-[^key-762832f9f5b9c6a557d6f8fc072175e0]: Textual amendment: Sch. 11 para. 6 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-762832f9f5b9c6a557d6f8fc072175e0]: Textual amendment: Sch. 11 para. 6 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-ea4dc24f9121c01a579055fb0c6fb786]: Textual amendment: Sch. 11 para. 7 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-ea4dc24f9121c01a579055fb0c6fb786]: Textual amendment: Sch. 11 para. 7 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c15282641]: Marginal citation: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88).
 
@@ -770,11 +770,11 @@ Section 194.
 
 [^c15282801]: Marginal citation: [1985 c.68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-07593cc5371a37e58c22fc06490815c8]: Textual amendment: Sch. 11 para. 33 repealed (S.) (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
+[^c-07593cc5371a37e58c22fc06490815c8]: Textual amendment: Sch. 11 para. 33 repealed (S.) (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
 
 [^c15282841]: Commencement: Sch. 11 para. 34 wholly in force at 1.4.1991, see s. 195(2)(3) and [S.I. 1991/344](https://www.legislation.gov.uk/uksi/1991/344), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/1991/344/article/3/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1991/344/schedule)
 
-[^key-4b09ab7d2d6dc29f652e0495e5e62a17]: Textual amendment: Sch. 11 para. 37 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-4b09ab7d2d6dc29f652e0495e5e62a17]: Textual amendment: Sch. 11 para. 37 repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
 [^c15282861]: Marginal citation: [1974 c. 44](https://www.legislation.gov.uk/ukpga/1974/44).
 
@@ -812,23 +812,23 @@ Section 194.
 
 [^M_F_5d7be443-e61d-4a40-d7dd-b6069f6dedb8]: Textual amendment: Words in Sch. 11 para. 56 repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 59](https://www.legislation.gov.uk/ukpga/2015/20/section/59), [Sch. 13 para. 6(14)(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/14/b); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-b1df60fd6a59cd03d78ec904c5deb6eb]: Textual amendment: Words in [Sch. 11 para. 56](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/56) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss.](https://www.legislation.gov.uk/ukpga/2017/3/section), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/58); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-b1df60fd6a59cd03d78ec904c5deb6eb]: Textual amendment: Words in [Sch. 11 para. 56](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/56) substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss.](https://www.legislation.gov.uk/ukpga/2017/3/section), [183(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 58](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/58); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
 [^c15282981]: Textual amendment: Words in Sch. 11 para. 57 inserted (29.4.1996) by [S.I. 1996/1008](https://www.legislation.gov.uk/uksi/1996/1008), [art. 2](https://www.legislation.gov.uk/uksi/1996/1008/article/2), [Sch. Pt. I para. 2](https://www.legislation.gov.uk/uksi/1996/1008/schedule/part/I/paragraph/2)
 
-[^key-f9aeeddff85db80b88e2a256716a5ae0]: Textual amendment: Words in Sch. 11 para. 57 substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/60); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-f9aeeddff85db80b88e2a256716a5ae0]: Textual amendment: Words in Sch. 11 para. 57 substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 60](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/60); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-15e4e9aabe03d12c1eb5d6ed31ef6e29]: Textual amendment: Words in Sch. 11 para. 57 substituted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 13 para. 36(5)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/13/paragraph/36/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/p)
+[^c-15e4e9aabe03d12c1eb5d6ed31ef6e29]: Textual amendment: Words in Sch. 11 para. 57 substituted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 13 para. 36(5)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/13/paragraph/36/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/p)
 
-[^key-d3327298a55e5c69b16926e397181964]: Textual amendment: Words in Sch. 11 para. 57 inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/52); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-d3327298a55e5c69b16926e397181964]: Textual amendment: Words in Sch. 11 para. 57 inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 52](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/52); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-2386f4fec425be80674da61668ba669e]: Textual amendment: Words in Sch. 11 para. 57 substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(14)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/14/d); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-2386f4fec425be80674da61668ba669e]: Textual amendment: Words in Sch. 11 para. 57 substituted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(14)(d)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/14/d); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-22b987f142a7284e4048d7a1cbb322fc]: Textual amendment: Words in Sch. 11 para. 57 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 46(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/46/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-22b987f142a7284e4048d7a1cbb322fc]: Textual amendment: Words in Sch. 11 para. 57 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 46(3)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/46/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-6437358dea7cc8303d7611560dca42c2]: Textual amendment: Sch. 11 para. 58 and cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-6437358dea7cc8303d7611560dca42c2]: Textual amendment: Sch. 11 para. 58 and cross-heading repealed (1.4.2009) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [art. 10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
 
-[^key-fbe57ad354cb3325ec03c6c076b0225e]: Textual amendment: Sch. 11 para. 59 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-fbe57ad354cb3325ec03c6c076b0225e]: Textual amendment: Sch. 11 para. 59 repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c15283011]: Marginal citation: [1984 c. 28](https://www.legislation.gov.uk/ukpga/1984/28).
 
@@ -854,17 +854,17 @@ Section 194.
 
 [^c15283121]: Marginal citation: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70).
 
-[^key-e5749b9735b041417d8ace4d8f288d3a]: Textual amendment: Sch. 11 para. 92 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-e5749b9735b041417d8ace4d8f288d3a]: Textual amendment: Sch. 11 para. 92 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c15283131]: Marginal citation: [1986 c. 40](https://www.legislation.gov.uk/ukpga/1986/40).
 
 [^c15283141]: Marginal citation: [1987 c. 26](https://www.legislation.gov.uk/ukpga/1987/26).
 
-[^key-942d17117af32d0e020dbabed9d9b1cf]: Textual amendment: [Sch. 11 para. 95](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/95) repealed (S.) (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-942d17117af32d0e020dbabed9d9b1cf]: Textual amendment: [Sch. 11 para. 95](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/95) repealed (S.) (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
 [^c15283151]: Marginal citation: [1988 c. 9](https://www.legislation.gov.uk/ukpga/1988/9).
 
-[^key-68e55c87df4a3ff005a778bfd55e9abe]: Textual amendment: Sch. 11 para. 97 repealed (18.11.2003 for E. and 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-68e55c87df4a3ff005a778bfd55e9abe]: Textual amendment: Sch. 11 para. 97 repealed (18.11.2003 for E. and 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(i)(iii)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/i/iii) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c15283171]: Textual amendment: Sch. 11 para. 98 repealed (1.4.1993) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4)); [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3(1)](https://www.legislation.gov.uk/uksi/1992/2454/article/3/1)
 
@@ -872,11 +872,11 @@ Section 194.
 
 [^c15283191]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-27ead8a26ee074ee6eca0bff963307c2]: Textual amendment: [Sch. 11 para. 103](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/103) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/40) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-27ead8a26ee074ee6eca0bff963307c2]: Textual amendment: [Sch. 11 para. 103](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/103) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/40) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
 [^c15283201]: Textual amendment: Sch. 11 para. 107 repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 19 Pt. IX](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/IX); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 
-[^key-49a3c65700b0b1dd63a859021d3cf626]: Textual amendment: [Sch. 11 para. 108](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/108) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/40) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
+[^c-49a3c65700b0b1dd63a859021d3cf626]: Textual amendment: [Sch. 11 para. 108](https://www.legislation.gov.uk/ukpga/1989/42/schedule/11/paragraph/108) omitted (1.5.2026 for specified purposes) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [s. 145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8), [Sch. 2 para. 40](https://www.legislation.gov.uk/ukpga/2025/26/schedule/2/paragraph/40) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/c)
 
 [^c15283211]: Textual amendment: Sch. 11 para. 109 repealed (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 227](https://www.legislation.gov.uk/ukpga/1996/52/section/227), [Sch. 19 Pt. IX](https://www.legislation.gov.uk/ukpga/1996/52/schedule/19/part/IX); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 

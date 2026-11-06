@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Insertion of Section C into Part 1 of Schedule 1 (required formats for accounts: non-IAS individual accounts of LLPs which are micro-entities)[^key-19cb344675988b946362538541c61f64]
+## 36. Insertion of Section C into Part 1 of Schedule 1 (required formats for accounts: non-IAS individual accounts of LLPs which are micro-entities)[^c-19cb344675988b946362538541c61f64]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,4 +100,4 @@ After Section B of Part 1 of Schedule 1 (required formats for accounts: non-IAS 
 
 ## Annotations
 
-[^key-19cb344675988b946362538541c61f64]: Commencement: Reg. 36 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-19cb344675988b946362538541c61f64]: Commencement: Reg. 36 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

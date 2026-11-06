@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 140. Insurance by local authorities against accidents to members.[^c15109871][^c15109881][^c15109891][^c15109901][^c18859441][^c20521131][^key-da39e657afc281090170317c17c4f582]
+## 140. Insurance by local authorities against accidents to members.[^c15109871][^c15109881][^c15109891][^c15109901][^c18859441][^c20521131][^c-da39e657afc281090170317c17c4f582]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ summary: ''
 
 [^c20521131]: Modification: S. 140 applied (1.4.2009) by [The Charter Trustees Regulations 2009 (S.I. 2009/467)](https://www.legislation.gov.uk/uksi/2009/467), [reg. 14(1)](https://www.legislation.gov.uk/uksi/2009/467/regulation/14/1)
 
-[^key-da39e657afc281090170317c17c4f582]: Modification: S. 140 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
+[^c-da39e657afc281090170317c17c4f582]: Modification: S. 140 applied (with modifications) (E.) (24.3.2011) by [The Hull and Goole Port Health Authority Order 2011 (S.I. 2011/939)](https://www.legislation.gov.uk/uksi/2011/939), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/939/article/1/1), [7](https://www.legislation.gov.uk/uksi/2011/939/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/939/schedule/1)
 
 [^c15109911]: Textual amendment: S. 140(1) substituted by [Local Government (Miscellaneous Provisions) Act 1982 (c. 30, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1982/30), [s. 39(1)](https://www.legislation.gov.uk/ukpga/1982/30/section/39/1)(*a*)
 

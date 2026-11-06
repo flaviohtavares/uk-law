@@ -113,15 +113,15 @@ and that he is not aware that anyone else has done so since the last disposition
 
 #### 5. Discharge of obligations where property subject to rentcharge or leasehold land.
 
-(1) Where the disposition is a mortgage of property subject to a rentcharge, of leasehold land or of a commonhold unit[^key-92e2aac726acef5d3c53953a2f976840], and is expressed to be made with full title guarantee or with limited title guarantee, the following covenants shall also be implied.
+(1) Where the disposition is a mortgage of property subject to a rentcharge, of leasehold land or of a commonhold unit[^c-92e2aac726acef5d3c53953a2f976840], and is expressed to be made with full title guarantee or with limited title guarantee, the following covenants shall also be implied.
 
 (2) If the property is subject to a rentcharge, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the instrument creating the rentcharge that are for the time being enforceable with respect to the property by the owner of the rentcharge in his capacity as such.
 
 (3) If the property is leasehold land, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the lease subject to the mortgage that are for the time being imposed on him in his capacity as tenant under the lease.
 
-(3A)[^key-d3fc437dc3c0328b0d910b9919a92601] If the property is a commonhold unit, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the commonhold community statement that are for the time being imposed on him in his capacity as a unit-holder or as a joint unit-holder.
+(3A)[^c-d3fc437dc3c0328b0d910b9919a92601] If the property is a commonhold unit, there shall be implied a covenant that the mortgagor will fully and promptly observe and perform all the obligations under the commonhold community statement that are for the time being imposed on him in his capacity as a unit-holder or as a joint unit-holder.
 
-(4)[^key-e13332d57f72d498468afe9c13aa4b28] In this section—
+(4)[^c-e13332d57f72d498468afe9c13aa4b28] In this section—
 
 - (a) “**commonhold community statement**”, “**commonhold unit**”, “**joint unit-holder**” and “**unit-holder**” have the same meanings as in the Commonhold and Leasehold Reform Act 2002, and
 - (b) “**mortgage**” includes charge, and “**mortgagor**” shall be construed accordingly.
@@ -147,7 +147,7 @@ of the person to whom the disposition is made.
 
 (3) For this purpose section 198 of the [^c834242]Law of Property Act 1925 (deemed notice by virtue of registration) shall be disregarded.
 
-(4)[^key-384292937411ea0dc6a880067cc28d26] Moreover, where the disposition is of an interest the title to which is registered under the Land Registration Act 2002, that person is not liable under any of those covenants for anything (not falling within subsection (1) or (2)) which at the time of the disposition was entered in relation to that interest in the register of title under that Act.
+(4)[^c-384292937411ea0dc6a880067cc28d26] Moreover, where the disposition is of an interest the title to which is registered under the Land Registration Act 2002, that person is not liable under any of those covenants for anything (not falling within subsection (1) or (2)) which at the time of the disposition was entered in relation to that interest in the register of title under that Act.
 
 #### 7. Annexation of benefit of covenants.
 
@@ -172,7 +172,7 @@ as it has effect where the English words are used.
 
 (1) Where a form set out in an enactment, or in an instrument made under an enactment, includes words which (in an appropriate case) would have resulted in the implication of a covenant by virtue of section 76 of the [^c834246]Law of Property Act 1925, the form shall be taken to authorise instead the use of the words “with full title guarantee” or “with limited title guarantee” or their Welsh equivalent given in section 8(4).
 
-(2) This applies in particular to the forms set out in [^key-55ead1bc519173021829870ae199a559]... Schedules 4 [^key-55ead1bc519173021829870ae199a559]... to the [^c834248]Law of Property Act 1925.
+(2) This applies in particular to the forms set out in [^c-55ead1bc519173021829870ae199a559]... Schedules 4 [^c-55ead1bc519173021829870ae199a559]... to the [^c834248]Law of Property Act 1925.
 
 ### Transitional provisions
 
@@ -304,10 +304,10 @@ For the purposes of sections 11 and 12 (transitional provisions: implication of 
 (3) The above provisions do not apply to a notice authorised or required to be served for the purposes of proceedings before—
 
 - (a) any court,
-- (b)[^key-be3ed834a7dd3bae379c77e6935219e4] any tribunal that was[^key-9cdf9f28c774e750cbc2d389dbb5df64] (to any extent) a listed tribunal for, or for any of, the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 (functions etc. of Administrative Justice and Tribunals Council) immediately before the coming into force of the repeal of that Schedule[^key-db96bf8500f63004871ca0eee5a45ceb], or
-- (c) the Chief Land Registrar or the Adjudicator to Her Majesty’s Land Registry[^key-794f4ba7f8047bb9c179a37976750fad];
+- (b)[^c-be3ed834a7dd3bae379c77e6935219e4] any tribunal that was[^c-9cdf9f28c774e750cbc2d389dbb5df64] (to any extent) a listed tribunal for, or for any of, the purposes of Schedule 7 to the Tribunals, Courts and Enforcement Act 2007 (functions etc. of Administrative Justice and Tribunals Council) immediately before the coming into force of the repeal of that Schedule[^c-db96bf8500f63004871ca0eee5a45ceb], or
+- (c) the Chief Land Registrar or the Adjudicator to Her Majesty’s Land Registry[^c-794f4ba7f8047bb9c179a37976750fad];
 
-but this is without prejudice to the power to make provision in relation to such proceedings by rules of court, procedural rules of any tribunal referred to in sub-paragraph (b)[^key-ff5f892e8c85e70aa4998a40de330139] or rules under the Land Registration Act 2002[^key-a9bc0af1cedcfafa7e37eeea011fdae8].
+but this is without prejudice to the power to make provision in relation to such proceedings by rules of court, procedural rules of any tribunal referred to in sub-paragraph (b)[^c-ff5f892e8c85e70aa4998a40de330139] or rules under the Land Registration Act 2002[^c-a9bc0af1cedcfafa7e37eeea011fdae8].
 
 ### 18. Notices affecting land: service on personal representatives before filing of grant.
 
@@ -412,7 +412,7 @@ Section 21(1).
 
 *Extent: E+W*
 
-**2.**[^key-41eca11b4f5d7001f7caf0a9faf508f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-41eca11b4f5d7001f7caf0a9faf508f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Law of Property (Joint Tenants) Act 1964 (c.63)
 
@@ -550,21 +550,21 @@ Section 21(2).
 
 [^c834238]: Extent: Act extends to EW, for additional provisions relating to Scotland and Northern Ireland see [s. 22(2)](https://www.legislation.gov.uk/ukpga/1994/36/section/22/2)
 
-[^key-92e2aac726acef5d3c53953a2f976840]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1994/36/section/5/1) substituted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/7/2) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
+[^c-92e2aac726acef5d3c53953a2f976840]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1994/36/section/5/1) substituted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/7/2) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
 
-[^key-d3fc437dc3c0328b0d910b9919a92601]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukpga/1994/36/section/5/3A) inserted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/7/3) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
+[^c-d3fc437dc3c0328b0d910b9919a92601]: Textual amendment: [S. 5(3A)](https://www.legislation.gov.uk/ukpga/1994/36/section/5/3A) inserted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/7/3) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
 
-[^key-e13332d57f72d498468afe9c13aa4b28]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1994/36/section/5/4) substituted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 7(4)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/7/4) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
+[^c-e13332d57f72d498468afe9c13aa4b28]: Textual amendment: [S. 5(4)](https://www.legislation.gov.uk/ukpga/1994/36/section/5/4) substituted (27.9.2004) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 5 para. 7(4)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/5/paragraph/7/4) (with [s. 63](https://www.legislation.gov.uk/ukpga/2002/15/section/63)); [S.I. 2004/1832](https://www.legislation.gov.uk/uksi/2004/1832), [art. 2](https://www.legislation.gov.uk/uksi/2004/1832/article/2)
 
 [^c834242]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-384292937411ea0dc6a880067cc28d26]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1994/36/section/6/4) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 31(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/31/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-384292937411ea0dc6a880067cc28d26]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1994/36/section/6/4) inserted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 31(2)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/31/2) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c834245]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
 [^c834246]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
-[^key-55ead1bc519173021829870ae199a559]: Textual amendment: Words in s. 9(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-55ead1bc519173021829870ae199a559]: Textual amendment: Words in s. 9(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
 [^c834248]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -598,17 +598,17 @@ Section 21(2).
 
 [^c834265]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-be3ed834a7dd3bae379c77e6935219e4]: Textual amendment: S. 17(3)(b) substituted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 33(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/33/2); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
+[^c-be3ed834a7dd3bae379c77e6935219e4]: Textual amendment: S. 17(3)(b) substituted (1.11.2007) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 8 para. 33(2)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/8/paragraph/33/2); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(b)(i)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/b/i)
 
-[^key-9cdf9f28c774e750cbc2d389dbb5df64]: Textual amendment: Word in [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/3/b) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/16/a/i)
+[^c-9cdf9f28c774e750cbc2d389dbb5df64]: Textual amendment: Word in [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/3/b) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 16(a)(i)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/16/a/i)
 
-[^key-db96bf8500f63004871ca0eee5a45ceb]: Textual amendment: Words in [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/3/b) inserted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/16/a/ii)
+[^c-db96bf8500f63004871ca0eee5a45ceb]: Textual amendment: Words in [s. 17(3)(b)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/3/b) inserted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 16(a)(ii)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/16/a/ii)
 
-[^key-794f4ba7f8047bb9c179a37976750fad]: Textual amendment: Words in s. 17(3)(c) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/31/3/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-794f4ba7f8047bb9c179a37976750fad]: Textual amendment: Words in s. 17(3)(c) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 31(3)(a)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/31/3/a) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-ff5f892e8c85e70aa4998a40de330139]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/3) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/16/b)
+[^c-ff5f892e8c85e70aa4998a40de330139]: Textual amendment: Words in [s. 17(3)](https://www.legislation.gov.uk/ukpga/1994/36/section/17/3) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/16/b)
 
-[^key-a9bc0af1cedcfafa7e37eeea011fdae8]: Textual amendment: Words in s. 17(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/31/3/b) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-a9bc0af1cedcfafa7e37eeea011fdae8]: Textual amendment: Words in s. 17(3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 31(3)(b)](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/31/3/b) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c834276]: Marginal citation: [1925 c. 23](https://www.legislation.gov.uk/ukpga/1925/23).
 
@@ -626,6 +626,6 @@ Section 21(2).
 
     [S.23](https://www.legislation.gov.uk/ukpga/1994/36/section/23) power fully exercised (16.5.1995); 1.7.1995 appointed day by [S.I. 1995/1317](https://www.legislation.gov.uk/uksi/1995/1317), [art. 2](https://www.legislation.gov.uk/uksi/1995/1317/article/2).
 
-[^key-41eca11b4f5d7001f7caf0a9faf508f9]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1994/36/schedule/1/paragraph/2) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-41eca11b4f5d7001f7caf0a9faf508f9]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1994/36/schedule/1/paragraph/2) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c834284]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1994/36/schedule/1/paragraph/4) repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/IV) Group2.

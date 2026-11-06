@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Arrangements for exercise of public health functions[^key-df12d2925ad5071419444baea42c5230][^key-7285c3ff41d4f70d9bab2205af601140]
+## 42. Arrangements for exercise of public health functions[^c-df12d2925ad5071419444baea42c5230][^c-7285c3ff41d4f70d9bab2205af601140]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ For section 7A of the National Health Service Act 2006 substitute—
 
 ## Annotations
 
-[^key-df12d2925ad5071419444baea42c5230]: Commencement: S. 42 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-df12d2925ad5071419444baea42c5230]: Commencement: S. 42 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-7285c3ff41d4f70d9bab2205af601140]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/31/section/42) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-7285c3ff41d4f70d9bab2205af601140]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2022/31/section/42) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

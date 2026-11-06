@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Extinguishment and diversion of rights of way[^key-aaffc5200c18ab859bd539287c32e62a]
+## 6. Extinguishment and diversion of rights of way[^c-aaffc5200c18ab859bd539287c32e62a]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaffc5200c18ab859bd539287c32e62a]: Commencement: Art. 6 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-aaffc5200c18ab859bd539287c32e62a]: Commencement: Art. 6 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

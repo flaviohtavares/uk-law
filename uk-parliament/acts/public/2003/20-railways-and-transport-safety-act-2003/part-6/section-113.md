@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Maritime security services[^key-8ffbe2f45afe5d33a652c433b13ba00d]
+## 113. Maritime security services[^c-8ffbe2f45afe5d33a652c433b13ba00d]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ The following shall be inserted after section 36 of the Aviation and Maritime Se
 
 ## Annotations
 
-[^key-8ffbe2f45afe5d33a652c433b13ba00d]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2003/20/section/113) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(dd)](https://www.legislation.gov.uk/uksi/2004/827/article/3/dd)
+[^c-8ffbe2f45afe5d33a652c433b13ba00d]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2003/20/section/113) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(dd)](https://www.legislation.gov.uk/uksi/2004/827/article/3/dd)

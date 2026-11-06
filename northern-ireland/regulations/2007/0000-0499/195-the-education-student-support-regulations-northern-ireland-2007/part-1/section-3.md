@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Amendment of the Education (Student Support) Regulations (Northern Ireland) 2006[^key-e4cf33398d988a67569b1a56f3f6f558]
+## 3. Amendment of the Education (Student Support) Regulations (Northern Ireland) 2006[^c-e4cf33398d988a67569b1a56f3f6f558]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The 2006 Regulations are amended in accordance with Schedule 1.
 
 ## Annotations
 
-[^key-e4cf33398d988a67569b1a56f3f6f558]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/195/regulation/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-e4cf33398d988a67569b1a56f3f6f558]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/195/regulation/3) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

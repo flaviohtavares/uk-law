@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.3. Form of appeal notice[^key-a58d505c8fb103388bd2a5ee39723803]
+## 40.3. Form of appeal notice[^c-a58d505c8fb103388bd2a5ee39723803]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a58d505c8fb103388bd2a5ee39723803]: Commencement: [Rule 40.3](https://www.legislation.gov.uk/uksi/2025/909/rule/40.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a58d505c8fb103388bd2a5ee39723803]: Commencement: [Rule 40.3](https://www.legislation.gov.uk/uksi/2025/909/rule/40.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00982]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 31(2B) was inserted by section 170 of, and paragraphs 20 and 30 of Schedule 15 to, the Criminal Justice Act 1988 (c. 33).

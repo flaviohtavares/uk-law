@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Penalties for breach of Part 6 rules[^key-50863719f61581507463673a30440df2]
+## 20. Penalties for breach of Part 6 rules[^c-50863719f61581507463673a30440df2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 91(6) of FSMA 2000 (penalties for breach of Part 6 rules: limitation 
 
 ## Annotations
 
-[^key-50863719f61581507463673a30440df2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2012/21/section/20) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-50863719f61581507463673a30440df2]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2012/21/section/20) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

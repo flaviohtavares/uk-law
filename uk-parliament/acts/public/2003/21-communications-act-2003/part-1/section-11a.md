@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Regulated services: media literacy strategy and media literacy statement[^key-d30c261746429d20556d9772bb26e369]
+## 11A. Regulated services: media literacy strategy and media literacy statement[^c-d30c261746429d20556d9772bb26e369]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d30c261746429d20556d9772bb26e369]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2003/21/section/11A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 166](https://www.legislation.gov.uk/ukpga/2023/50/section/166), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)
+[^c-d30c261746429d20556d9772bb26e369]: Textual amendment: [S. 11A](https://www.legislation.gov.uk/ukpga/2003/21/section/11A) inserted (10.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 166](https://www.legislation.gov.uk/ukpga/2023/50/section/166), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1); [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z19)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z19)

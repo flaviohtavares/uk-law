@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Opting out after one month[^key-6507638175fa2000c8c473298c672b81]
+## 22. Opting out after one month[^c-6507638175fa2000c8c473298c672b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6507638175fa2000c8c473298c672b81]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/182/regulation/22) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-6507638175fa2000c8c473298c672b81]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/182/regulation/22) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

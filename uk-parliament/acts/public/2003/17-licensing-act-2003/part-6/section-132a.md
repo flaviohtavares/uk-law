@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 132A. Convictions etc of licence-holder: powers of licensing authority[^key-a63a1aaa13ef40de8fc48dce0f844c2b]
+## 132A. Convictions etc of licence-holder: powers of licensing authority[^c-a63a1aaa13ef40de8fc48dce0f844c2b]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ and then make a decision whether to suspend or revoke the licence.
 
 ## Annotations
 
-[^key-a63a1aaa13ef40de8fc48dce0f844c2b]: Textual amendment: S. 132A inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 138(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/138/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/d)
+[^c-a63a1aaa13ef40de8fc48dce0f844c2b]: Textual amendment: S. 132A inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 138(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/138/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/d)

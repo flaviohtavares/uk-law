@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Director disqualification: licensing offences[^key-23121db552acc2ed65b4bc99d9855d66]
+## 36A. Director disqualification: licensing offences[^c-23121db552acc2ed65b4bc99d9855d66]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Annotations
 
-[^key-23121db552acc2ed65b4bc99d9855d66]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2019/604/regulation/36A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2024/643/regulation/5/7)
+[^c-23121db552acc2ed65b4bc99d9855d66]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2019/604/regulation/36A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [5(7)](https://www.legislation.gov.uk/uksi/2024/643/regulation/5/7)

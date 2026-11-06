@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Extinguishment and suspension of private rights[^key-eae029a4b4bdf96e6edb405064bbb2aa]
+## 26. Extinguishment and suspension of private rights[^c-eae029a4b4bdf96e6edb405064bbb2aa]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ whichever is the earliest.
 
 ## Annotations
 
-[^key-eae029a4b4bdf96e6edb405064bbb2aa]: Commencement: Art. 26 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-eae029a4b4bdf96e6edb405064bbb2aa]: Commencement: Art. 26 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

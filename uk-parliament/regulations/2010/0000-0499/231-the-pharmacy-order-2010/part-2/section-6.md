@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. The Council’s general duties[^key-b076341adfd9d817722e9e6b15b173a7][^key-fcbd929b00413bf116b0ac967b9449f7]
+## 6. The Council’s general duties[^c-b076341adfd9d817722e9e6b15b173a7][^c-fcbd929b00413bf116b0ac967b9449f7]
 
 *Extent: E+W+S*
 
-(1)[^key-a1bce494ffd48013c7a5a15fca5c5ec1] The over-arching objective of the Council in exercising its functions is the protection of the public.
+(1)[^c-a1bce494ffd48013c7a5a15fca5c5ec1] The over-arching objective of the Council in exercising its functions is the protection of the public.
 
 (1A) The pursuit by the Council of its over-arching objective involves the pursuit of the following objectives—
 
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b076341adfd9d817722e9e6b15b173a7]: Commencement: Art. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-b076341adfd9d817722e9e6b15b173a7]: Commencement: Art. 6 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-fcbd929b00413bf116b0ac967b9449f7]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/231/article/6) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-fcbd929b00413bf116b0ac967b9449f7]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/231/article/6) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-a1bce494ffd48013c7a5a15fca5c5ec1]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2010/231/article/6/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/231/article/6/1A) substituted for [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/231/article/6/1) (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7/2); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
+[^c-a1bce494ffd48013c7a5a15fca5c5ec1]: Textual amendment: [Art. 6(1)](https://www.legislation.gov.uk/uksi/2010/231/article/6/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/231/article/6/1A) substituted for [art. 6(1)](https://www.legislation.gov.uk/uksi/2010/231/article/6/1) (26.9.2016) by [Health and Social Care (Safety and Quality) Act 2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28), [s. 6(4)](https://www.legislation.gov.uk/ukpga/2015/28/section/6/4), [Sch. para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/28/schedule/paragraph/7/2); [S.I. 2016/906](https://www.legislation.gov.uk/uksi/2016/906), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/906/regulation/2/b)
 
 [^f00025]: Footnote: [2002 c.17](https://www.legislation.gov.uk/ukpga/2002/17). Section 25(3) was amended by paragraph 17 of Schedule 10 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).

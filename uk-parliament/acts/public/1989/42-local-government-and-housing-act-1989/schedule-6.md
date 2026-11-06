@@ -117,21 +117,21 @@ shall be omitted.
 
 ### Duty to notify registration officer about liability for collective community charge
 
-**10.**[^key-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Interest not payable on back dated liability for community charges where there is reasonable excuse for non-registration
 
-**11.**[^key-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exemption from personal community charge
 
-**12.**[^key-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-472a5cc2acf5cc66f9ca60bc696ba7c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Liability for non-domestic water rate
 
@@ -165,41 +165,41 @@ shall be omitted.
 
 ### Liability for non-domestic sewerage rate
 
-**20.**[^key-73140c57192bd0c6d2182c16508287c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-73140c57192bd0c6d2182c16508287c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Reduced liability for non-domestic sewerage rate in respect of certain church and charity premises
 
-**21.**[^key-73140c57192bd0c6d2182c16508287c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-73140c57192bd0c6d2182c16508287c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public inspection of community charges register
 
-**22.**[^key-73140c57192bd0c6d2182c16508287c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-73140c57192bd0c6d2182c16508287c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exclusion from voting disability of local authority members who are community charge payers
 
-**23.**[^key-9c4e88b3f903d74348e10290e17d86b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9c4e88b3f903d74348e10290e17d86b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Revocation of civil penalties imposed by registration officer
 
-**24.**[^key-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Evidence in appeals under Abolition of Domestic Rates Etc. (Scotland) Act 1987
 
-**25.**[^key-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### No liability for community water charges where water previously supplied free
 
-**26.**[^key-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Provision of information by registration officer
 
-**27.**[^key-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Revenue support grants
 
-**28.**[^key-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-50fe1d35c0eb6445f249dfd67e61fd25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -221,7 +221,7 @@ shall be omitted.
 
 [^c15281901]: Marginal citation: [1962 c. 9](https://www.legislation.gov.uk/ukpga/1962/9).
 
-[^key-472a5cc2acf5cc66f9ca60bc696ba7c9]: Textual amendment: [Sch. 6 paras. 10-15](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/10) repealed (26.3.2015) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-472a5cc2acf5cc66f9ca60bc696ba7c9]: Textual amendment: [Sch. 6 paras. 10-15](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/10) repealed (26.3.2015) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
 
 [^c15282021]: Textual amendment: [Sch. 6 para. 16](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/16) repealed (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/323/schedule/2)
 
@@ -237,8 +237,8 @@ shall be omitted.
 
 [^c15282101]: Marginal citation: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45).
 
-[^key-73140c57192bd0c6d2182c16508287c4]: Textual amendment: [Sch. 6 paras. 20-22](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/20) repealed (1.4.1993 for the repeal of Sch. 6 paras. 20 and 21, 26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2(d)](https://www.legislation.gov.uk/uksi/1993/575/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/1993/575/schedule); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-73140c57192bd0c6d2182c16508287c4]: Textual amendment: [Sch. 6 paras. 20-22](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/20) repealed (1.4.1993 for the repeal of Sch. 6 paras. 20 and 21, 26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2(d)](https://www.legislation.gov.uk/uksi/1993/575/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/1993/575/schedule); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
 
-[^key-9c4e88b3f903d74348e10290e17d86b4]: Textual amendment: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/23) repealed (S.) (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
+[^c-9c4e88b3f903d74348e10290e17d86b4]: Textual amendment: [Sch. 6 para. 23](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/23) repealed (S.) (1.5.2003) by [Ethical Standards in Public Life etc. (Scotland) Act 2000 (asp 7)](https://www.legislation.gov.uk/asp/2000/7), [s. 37(2)](https://www.legislation.gov.uk/asp/2000/7/section/37/2), [sch. 4](https://www.legislation.gov.uk/asp/2000/7/schedule/4) (with [s. 31](https://www.legislation.gov.uk/asp/2000/7/section/31)); [S.S.I. 2003/74](https://www.legislation.gov.uk/ssi/2003/74), [art. 2(2)(e)](https://www.legislation.gov.uk/ssi/2003/74/article/2/2/e)
 
-[^key-50fe1d35c0eb6445f249dfd67e61fd25]: Textual amendment: [Sch. 6 paras. 24-29](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/24) repealed (26.3.2015) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-50fe1d35c0eb6445f249dfd67e61fd25]: Textual amendment: [Sch. 6 paras. 24-29](https://www.legislation.gov.uk/ukpga/1989/42/schedule/6/paragraph/24) repealed (26.3.2015) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)

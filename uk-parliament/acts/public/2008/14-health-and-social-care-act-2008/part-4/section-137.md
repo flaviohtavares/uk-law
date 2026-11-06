@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Northern Ireland: health in pregnancy grant to be excepted matter[^key-08f2c0d497074866dfc1dc8a4b8cb442]
+## 137. Northern Ireland: health in pregnancy grant to be excepted matter[^c-08f2c0d497074866dfc1dc8a4b8cb442]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Schedule 2 to the Northern Ireland Act 1998 (c. 47) (excepted matters), at th
 
 ## Annotations
 
-[^key-08f2c0d497074866dfc1dc8a4b8cb442]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2008/14/section/137) in force at 1.1.2009 by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-08f2c0d497074866dfc1dc8a4b8cb442]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2008/14/section/137) in force at 1.1.2009 by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

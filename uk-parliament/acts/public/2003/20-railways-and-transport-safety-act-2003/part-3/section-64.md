@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Action after adverse inspection report[^key-2d99b3781985c916c26fe86369448611]
+## 64. Action after adverse inspection report[^c-2d99b3781985c916c26fe86369448611]
 
 *Extent: E+W+S*
 
@@ -30,10 +30,10 @@ summary: ''
 - (a) generally, or
 - (b) in a specified respect.
 
-(3) In the application of this section in relation to Scotland a reference to Her Majesty’s Inspectors of Constabulary shall be treated as a reference to inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^key-5c66830ad5de05ef27e79546e8a14dd4].
+(3) In the application of this section in relation to Scotland a reference to Her Majesty’s Inspectors of Constabulary shall be treated as a reference to inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^c-5c66830ad5de05ef27e79546e8a14dd4].
 
 ## Annotations
 
-[^key-2d99b3781985c916c26fe86369448611]: Commencement: S. 64 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(uu)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/uu)
+[^c-2d99b3781985c916c26fe86369448611]: Commencement: S. 64 in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(uu)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/uu)
 
-[^key-5c66830ad5de05ef27e79546e8a14dd4]: Textual amendment: Words in [s. 64(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/64/3) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 41(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/41/5)
+[^c-5c66830ad5de05ef27e79546e8a14dd4]: Textual amendment: Words in [s. 64(3)](https://www.legislation.gov.uk/ukpga/2003/20/section/64/3) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 41(5)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/41/5)

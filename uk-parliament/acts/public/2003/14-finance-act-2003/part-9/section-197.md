@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Exchange of information between tax authorities of member States[^key-2dad562b3c0aa25cb19065a369cd8905]
+## 197. Exchange of information between tax authorities of member States[^c-2dad562b3c0aa25cb19065a369cd8905]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dad562b3c0aa25cb19065a369cd8905]: Textual amendment: [S. 197](https://www.legislation.gov.uk/ukpga/2003/14/section/197) repealed (1.1.2013) by [The European Administrative Co-Operation (Taxation) Regulations 2012 (S.I. 2012/3062)](https://www.legislation.gov.uk/uksi/2012/3062), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3062/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3062/schedule)
+[^c-2dad562b3c0aa25cb19065a369cd8905]: Textual amendment: [S. 197](https://www.legislation.gov.uk/ukpga/2003/14/section/197) repealed (1.1.2013) by [The European Administrative Co-Operation (Taxation) Regulations 2012 (S.I. 2012/3062)](https://www.legislation.gov.uk/uksi/2012/3062), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/3062/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3062/schedule)

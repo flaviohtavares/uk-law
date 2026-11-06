@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a contractor is providing essential services under the agreement and would like to enter into a general medical services contract by virtue of this regulation, the contractor must give notice in writing to NHS England[^key-9520329cffeb7671913a444ac58ebf84] to that effect at least three months before the date on which the contractor would like to enter into the general medical services contract.
+(1) Where a contractor is providing essential services under the agreement and would like to enter into a general medical services contract by virtue of this regulation, the contractor must give notice in writing to NHS England[^c-9520329cffeb7671913a444ac58ebf84] to that effect at least three months before the date on which the contractor would like to enter into the general medical services contract.
 
 (2) A notice given under paragraph (1) must—
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-9520329cffeb7671913a444ac58ebf84]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c22690071]: Marginal citation: [Section 86](https://www.legislation.gov.uk/uksi/2015/1879/section/86) was amended by paragraph 32 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7).
 

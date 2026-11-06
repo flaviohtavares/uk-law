@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Duration of Armed Forces Act 2006[^key-0550df5bacda3e4ab0d2f69f6941b98f]
+## 1. Duration of Armed Forces Act 2006[^c-0550df5bacda3e4ab0d2f69f6941b98f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0550df5bacda3e4ab0d2f69f6941b98f]: Commencement: S. 1 in force at Royal Assent, see [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)
+[^c-0550df5bacda3e4ab0d2f69f6941b98f]: Commencement: S. 1 in force at Royal Assent, see [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/2/a)

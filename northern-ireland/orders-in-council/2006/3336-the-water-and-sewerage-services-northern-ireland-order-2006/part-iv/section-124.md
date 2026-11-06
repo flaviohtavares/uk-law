@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any person designated for the purpose by [^key-932a50d893f38840c8a4476fe0956db4]... DOE shall, on producing some duly authenticated document showing his authority, have a right at all reasonable hours to enter any premises for the purpose of ascertaining whether there is or has been any contravention of Article 112 in relation to any waterworks on those premises.
+(1) Any person designated for the purpose by [^c-932a50d893f38840c8a4476fe0956db4]... DOE shall, on producing some duly authenticated document showing his authority, have a right at all reasonable hours to enter any premises for the purpose of ascertaining whether there is or has been any contravention of Article 112 in relation to any waterworks on those premises.
 
 (2) Any person designated in writing for the purpose by DOE may—
 
@@ -49,4 +49,4 @@ summary: ''
 
 [^c20596901]: Commencement: Art. 124 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-932a50d893f38840c8a4476fe0956db4]: Textual amendment: Words in [art. 124(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/124/1) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(8)](https://www.legislation.gov.uk/nia/2016/13/section/19/8), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2) (with S.I. 2006/3336 (N.I. 21), art. 302A(1)(3) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-932a50d893f38840c8a4476fe0956db4]: Textual amendment: Words in [art. 124(1)](https://www.legislation.gov.uk/nisi/2006/3336/article/124/1) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(8)](https://www.legislation.gov.uk/nia/2016/13/section/19/8), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2) (with S.I. 2006/3336 (N.I. 21), art. 302A(1)(3) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))

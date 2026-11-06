@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Guidance[^key-ac930e5c77ca8684de687d4f713c2e3a]
+## 47. Guidance[^c-ac930e5c77ca8684de687d4f713c2e3a]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac930e5c77ca8684de687d4f713c2e3a]: Commencement: S. 47 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-ac930e5c77ca8684de687d4f713c2e3a]: Commencement: S. 47 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2015-05-26.
 
-## SCHEDULE 8 — Electronic Communication[^key-a94c3f6c4bd0b7308a3fc055baf3e2e4]
+## SCHEDULE 8 — Electronic Communication[^c-a94c3f6c4bd0b7308a3fc055baf3e2e4]
 
 ### PART 1 — Introduction
 
@@ -97,4 +97,4 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-a94c3f6c4bd0b7308a3fc055baf3e2e4]: Textual amendment: Sch. 8 inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2006/2968/article/5/5), [Sch.](https://www.legislation.gov.uk/uksi/2006/2968/schedule)
+[^c-a94c3f6c4bd0b7308a3fc055baf3e2e4]: Textual amendment: Sch. 8 inserted (20.12.2006) by [Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [5(5)](https://www.legislation.gov.uk/uksi/2006/2968/article/5/5), [Sch.](https://www.legislation.gov.uk/uksi/2006/2968/schedule)

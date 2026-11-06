@@ -35,14 +35,14 @@ amending Regulation (EC) No 633/2007 as regards the transitional arrangements re
 
 (Text with EEA relevance) (revoked)
 
-[^key-fe781566bd521c2c6691df04f0069133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe781566bd521c2c6691df04f0069133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-fe781566bd521c2c6691df04f0069133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-fe781566bd521c2c6691df04f0069133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-fe781566bd521c2c6691df04f0069133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-fe781566bd521c2c6691df04f0069133] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe781566bd521c2c6691df04f0069133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe781566bd521c2c6691df04f0069133]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe781566bd521c2c6691df04f0069133]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [188](https://www.legislation.gov.uk/uksi/2019/459/regulation/188); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe781566bd521c2c6691df04f0069133]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [188](https://www.legislation.gov.uk/uksi/2019/459/regulation/188); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

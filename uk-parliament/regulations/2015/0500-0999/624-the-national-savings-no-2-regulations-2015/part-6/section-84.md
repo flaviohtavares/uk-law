@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Particulars to be furnished by nominator to Director of savings[^key-544064c3c1b1e79adda9625cb9e9369d]
+## 84. Particulars to be furnished by nominator to Director of savings[^c-544064c3c1b1e79adda9625cb9e9369d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-544064c3c1b1e79adda9625cb9e9369d]: Commencement: Reg. 84 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-544064c3c1b1e79adda9625cb9e9369d]: Commencement: Reg. 84 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

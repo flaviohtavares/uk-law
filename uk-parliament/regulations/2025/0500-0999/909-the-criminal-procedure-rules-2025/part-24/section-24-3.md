@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.3. Procedure on plea of not guilty[^key-1ef938d5d2cd6a96c5f9f679f856c8a6]
+## 24.3. Procedure on plea of not guilty[^c-1ef938d5d2cd6a96c5f9f679f856c8a6]
 
 *Extent: E+W*
 
@@ -82,7 +82,7 @@ it must give sufficient reasons to explain its decision.
 
 ## Annotations
 
-[^key-1ef938d5d2cd6a96c5f9f679f856c8a6]: Commencement: [Rule 24.3](https://www.legislation.gov.uk/uksi/2025/909/rule/24.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1ef938d5d2cd6a96c5f9f679f856c8a6]: Commencement: [Rule 24.3](https://www.legislation.gov.uk/uksi/2025/909/rule/24.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00521]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

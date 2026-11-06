@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51A. Landlord which is body corporate: liability of directors etc[^key-843bfc84fb70da61021f4063a5985408]
+## 51A. Landlord which is body corporate: liability of directors etc[^c-843bfc84fb70da61021f4063a5985408]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-843bfc84fb70da61021f4063a5985408]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/ukpga/2016/22/section/51A) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 104](https://www.legislation.gov.uk/ukpga/2025/26/section/104), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/k) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))
+[^c-843bfc84fb70da61021f4063a5985408]: Textual amendment: [S. 51A](https://www.legislation.gov.uk/ukpga/2016/22/section/51A) inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 104](https://www.legislation.gov.uk/ukpga/2025/26/section/104), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/k) (with [reg. 11](https://www.legislation.gov.uk/uksi/2026/421/regulation/11))

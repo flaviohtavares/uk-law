@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**140.**[^key-ab4f8631bd5a839f4f3c83ab498f130f] In paragraph 7—
+**140.**[^c-ab4f8631bd5a839f4f3c83ab498f130f] In paragraph 7—
 
 - (a) in sub-paragraph (1), for “the designated officer for the magistrates’ court in the local justice area” substitute “the court officer of the family court in the Designated Family Judge area”;
 - (b) in sub-paragraph (2)—
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab4f8631bd5a839f4f3c83ab498f130f]: Commencement: Art. 140 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-ab4f8631bd5a839f4f3c83ab498f130f]: Commencement: Art. 140 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

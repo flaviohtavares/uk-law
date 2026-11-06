@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13 and 14
 
-### PART 1 — Public rights of way to be temporarily restricted[^key-12aa1393692cd0dd293a1c21badd5534]
+### PART 1 — Public rights of way to be temporarily restricted[^c-12aa1393692cd0dd293a1c21badd5534]
 
 | (1) Area | (2) Public right of way | (3) Extent of restriction (being closure to all use) |
 | --- | --- | --- |
@@ -54,7 +54,7 @@ Articles 13 and 14
 | In the County of Flintshire | Footpath 404/66 | Between the points marked 22-I and 22-J on sheet 22 of the access and rights of way plans shown with a dashed orange line |
 | In the County of Flintshire | Footpath 404/39 | Between the points marked 25-I and 25-J on sheet 25 of the access and rights of way plans shown with a dashed orange |
 
-### PART 2 — Public rights of way to be stopped up[^key-8af39f0f4dec570e59b394b2796deaad]
+### PART 2 — Public rights of way to be stopped up[^c-8af39f0f4dec570e59b394b2796deaad]
 
 | Area | (2) Public right of way | (3) Extent of Stopping up | (4) Alternative route |
 | --- | --- | --- | --- |
@@ -62,6 +62,6 @@ Articles 13 and 14
 
 ## Annotations
 
-[^key-12aa1393692cd0dd293a1c21badd5534]: Commencement: Sch. 6 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-12aa1393692cd0dd293a1c21badd5534]: Commencement: Sch. 6 Pt. 1 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
 
-[^key-8af39f0f4dec570e59b394b2796deaad]: Commencement: Sch. 6 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-8af39f0f4dec570e59b394b2796deaad]: Commencement: Sch. 6 Pt. 2 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

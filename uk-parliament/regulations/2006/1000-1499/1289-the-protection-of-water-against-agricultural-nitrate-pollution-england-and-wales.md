@@ -32,7 +32,7 @@ summary: ''
 
 WATER, ENGLAND AND WALES
 
-The Protection of Water Against Agricultural Nitrate Pollution (England and Wales) (Amendment) Regulations 2006 (revoked)[^key-95e32f31f0abd15a298faecd08f4f05d]
+The Protection of Water Against Agricultural Nitrate Pollution (England and Wales) (Amendment) Regulations 2006 (revoked)[^c-95e32f31f0abd15a298faecd08f4f05d]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 1st June 2006
 
-[^key-95e32f31f0abd15a298faecd08f4f05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e32f31f0abd15a298faecd08f4f05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-95e32f31f0abd15a298faecd08f4f05d]
+## 1. Citation, commencement and application[^c-95e32f31f0abd15a298faecd08f4f05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Protection of Water Against Agricultural Nitrate Pollution (England and Wales) Regulations 1996[^key-95e32f31f0abd15a298faecd08f4f05d]
+## 2. Amendment to the Protection of Water Against Agricultural Nitrate Pollution (England and Wales) Regulations 1996[^c-95e32f31f0abd15a298faecd08f4f05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Nitrate Vulnerable Zones (Additional Designations) (England) (No. 2) Regulations 2002[^key-95e32f31f0abd15a298faecd08f4f05d]
+## 3. Amendments to the Nitrate Vulnerable Zones (Additional Designations) (England) (No. 2) Regulations 2002[^c-95e32f31f0abd15a298faecd08f4f05d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95e32f31f0abd15a298faecd08f4f05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e32f31f0abd15a298faecd08f4f05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-95e32f31f0abd15a298faecd08f4f05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-95e32f31f0abd15a298faecd08f4f05d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-95e32f31f0abd15a298faecd08f4f05d]: Textual amendment: Regulations revoked (E.) (1.1.2009) by [The Nitrate Pollution Prevention Regulations 2008 (S.I. 2008/2349)](https://www.legislation.gov.uk/uksi/2008/2349), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/3/1), [50(m)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/50/m) and revoked (W.) (1.1.2009) by [The Nitrate Pollution Prevention (Wales) Regulations 2008 (S.I. 2008/3143)](https://www.legislation.gov.uk/uksi/2008/3143), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/3/1), [50(d)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/50/d)
+[^c-95e32f31f0abd15a298faecd08f4f05d]: Textual amendment: Regulations revoked (E.) (1.1.2009) by [The Nitrate Pollution Prevention Regulations 2008 (S.I. 2008/2349)](https://www.legislation.gov.uk/uksi/2008/2349), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/3/1), [50(m)](https://www.legislation.gov.uk/uksi/2008/2349/regulation/50/m) and revoked (W.) (1.1.2009) by [The Nitrate Pollution Prevention (Wales) Regulations 2008 (S.I. 2008/3143)](https://www.legislation.gov.uk/uksi/2008/3143), [regs. 3(1)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/3/1), [50(d)](https://www.legislation.gov.uk/uksi/2008/3143/regulation/50/d)

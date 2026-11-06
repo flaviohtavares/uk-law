@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Appeal against decision on proof[^key-9d365f97aa2e1436d8a5a4f6ae10400a]
+## 48. Appeal against decision on proof[^c-9d365f97aa2e1436d8a5a4f6ae10400a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d365f97aa2e1436d8a5a4f6ae10400a]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2013/3208/rule/48) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9d365f97aa2e1436d8a5a4f6ae10400a]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2013/3208/rule/48) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

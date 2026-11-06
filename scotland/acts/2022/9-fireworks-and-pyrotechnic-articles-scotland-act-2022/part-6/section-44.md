@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Aggravation of offences against emergency workers[^key-575b39044ce6e8b5420af67e58bb3977][^key-efc20017568eec295aa9c20990cc1516]
+## 44. Aggravation of offences against emergency workers[^c-575b39044ce6e8b5420af67e58bb3977][^c-efc20017568eec295aa9c20990cc1516]
 
 *Extent: S*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-575b39044ce6e8b5420af67e58bb3977]: Commencement: S. 44 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-575b39044ce6e8b5420af67e58bb3977]: Commencement: S. 44 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-efc20017568eec295aa9c20990cc1516]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2022/9/section/44) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-efc20017568eec295aa9c20990cc1516]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2022/9/section/44) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Housing benefit: determination of appropriate maximum[^key-ab8bc93d19c4be1fe663a84d433280ab]
+## 75. Housing benefit: determination of appropriate maximum[^c-ab8bc93d19c4be1fe663a84d433280ab]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab8bc93d19c4be1fe663a84d433280ab]: Commencement: [Art. 75](https://www.legislation.gov.uk/nisi/2015/2006/article/75) in operation at 9.9.2016 by [S.R. 2016/325](https://www.legislation.gov.uk/nisr/2016/325), [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/325/article/2/2)
+[^c-ab8bc93d19c4be1fe663a84d433280ab]: Commencement: [Art. 75](https://www.legislation.gov.uk/nisi/2015/2006/article/75) in operation at 9.9.2016 by [S.R. 2016/325](https://www.legislation.gov.uk/nisr/2016/325), [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/325/article/2/2)

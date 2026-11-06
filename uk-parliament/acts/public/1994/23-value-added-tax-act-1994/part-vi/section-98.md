@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Service of notices.[^key-92d3b276183c321b5179ec3f69a39204]
+## 98. Service of notices.[^c-92d3b276183c321b5179ec3f69a39204]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Any notice, notification, requirement or demand to be served on, given to or mad
 
 ## Annotations
 
-[^key-92d3b276183c321b5179ec3f69a39204]: Modification: [S. 98](https://www.legislation.gov.uk/ukpga/1994/23/section/98) applied (9.3.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/99/2), [Sch. 19 para. 11(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/19/paragraph/11/1)
+[^c-92d3b276183c321b5179ec3f69a39204]: Modification: [S. 98](https://www.legislation.gov.uk/ukpga/1994/23/section/98) applied (9.3.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/99/2), [Sch. 19 para. 11(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/19/paragraph/11/1)

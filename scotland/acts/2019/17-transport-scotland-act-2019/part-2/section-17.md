@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Time-limited exemptions[^key-b533537eb1bb254d2b7b74467469105a]
+## 17. Time-limited exemptions[^c-b533537eb1bb254d2b7b74467469105a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b533537eb1bb254d2b7b74467469105a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/17/section/17) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-b533537eb1bb254d2b7b74467469105a]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2019/17/section/17) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

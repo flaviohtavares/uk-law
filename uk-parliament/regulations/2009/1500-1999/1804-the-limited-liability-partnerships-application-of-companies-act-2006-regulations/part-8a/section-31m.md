@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31M. Schedule 1A[^key-cbd587a2ddd5805ac892a01382fd8b5c]
+## 31M. Schedule 1A[^c-cbd587a2ddd5805ac892a01382fd8b5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -239,4 +239,4 @@ Paragraphs 1 to 24 of Schedule 1A apply to LLPs, modified so that they read as f
 
 ## Annotations
 
-[^key-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)
+[^c-cbd587a2ddd5805ac892a01382fd8b5c]: Textual amendment: Pt. 8A inserted (6.4.2016 except paras. 31E and 31K for specified purposes which come into force otherwise at 30.6.2016) by [The Limited Liability Partnerships (Register of People with Significant Control) Regulations 2016 (S.I. 2016/340)](https://www.legislation.gov.uk/uksi/2016/340), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2016/340/regulation/1/2/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/340/schedule/1)

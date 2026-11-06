@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Renaming the Local Government (Democracy) (Wales) Act 2013[^key-e42b902cd438ffe8fc22b6518e0c709f]
+## 11. Renaming the Local Government (Democracy) (Wales) Act 2013[^c-e42b902cd438ffe8fc22b6518e0c709f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e42b902cd438ffe8fc22b6518e0c709f]: Commencement: S. 11 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)
+[^c-e42b902cd438ffe8fc22b6518e0c709f]: Commencement: S. 11 in force at 25.6.2024, see [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a)

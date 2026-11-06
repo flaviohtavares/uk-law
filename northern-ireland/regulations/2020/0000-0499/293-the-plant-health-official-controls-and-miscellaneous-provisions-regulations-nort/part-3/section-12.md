@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Border control posts: authorisation of inspection centres and commercial storage facilities[^key-363a3fa93095f6955fa979989462608e]
+## 12. Border control posts: authorisation of inspection centres and commercial storage facilities[^c-363a3fa93095f6955fa979989462608e]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-363a3fa93095f6955fa979989462608e]: Commencement: Reg. 12 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-363a3fa93095f6955fa979989462608e]: Commencement: Reg. 12 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00030]: Footnote: O.J. No. L 165, 21.6.2019, p. 10.

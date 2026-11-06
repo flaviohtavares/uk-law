@@ -37,7 +37,7 @@ shall be treated as being unfairly prejudicial to the interests of some part of 
 (3) In this section, and so far as applicable for the purposes of this section in the other provisions of this Part, “**company**” means—
 
 - (a) a company within the meaning of this Act, or
-- (b)[^key-f29522df461e095259436de9b8f49933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f29522df461e095259436de9b8f49933] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -47,4 +47,4 @@ shall be treated as being unfairly prejudicial to the interests of some part of 
 
 [^c19699471]: Textual amendment: S. 994(1A) inserted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 42(1)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/42/1) (with [reg. 42(2)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/42/2))
 
-[^key-f29522df461e095259436de9b8f49933]: Textual amendment: S. 994(3)(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/7)
+[^c-f29522df461e095259436de9b8f49933]: Textual amendment: S. 994(3)(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Child health surveillance list[^key-dc3666cf46381116736a14ae3a0d4764]
+## 26. Child health surveillance list[^c-dc3666cf46381116736a14ae3a0d4764]
 
 *Extent: N.I.*
 
@@ -86,4 +86,4 @@ and shall seek and take into account any medical advice it considers necessary t
 
 ## Annotations
 
-[^key-dc3666cf46381116736a14ae3a0d4764]: Commencement: Reg. 26 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-dc3666cf46381116736a14ae3a0d4764]: Commencement: Reg. 26 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

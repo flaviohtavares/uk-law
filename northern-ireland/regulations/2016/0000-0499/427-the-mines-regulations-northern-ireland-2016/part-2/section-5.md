@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Duties of the owner[^key-556baf68e38fa152b0eb227e230719d6]
+## 5. Duties of the owner[^c-556baf68e38fa152b0eb227e230719d6]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-556baf68e38fa152b0eb227e230719d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/427/regulation/5) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-556baf68e38fa152b0eb227e230719d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2016/427/regulation/5) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

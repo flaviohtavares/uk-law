@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Supervision of certain young offenders after release from detention[^key-6b1fafc931758f0dc1a614bbc7887572]
+## 4. Supervision of certain young offenders after release from detention[^c-6b1fafc931758f0dc1a614bbc7887572]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b1fafc931758f0dc1a614bbc7887572]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/11/section/4) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/40/article/2/d)
+[^c-6b1fafc931758f0dc1a614bbc7887572]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2014/11/section/4) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/40/article/2/d)

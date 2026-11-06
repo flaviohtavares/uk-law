@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Normal weekly earnings of self-employed earners[^key-5a84f2c741298e4363262b2b0453f9a9]
+## 17. Normal weekly earnings of self-employed earners[^c-5a84f2c741298e4363262b2b0453f9a9]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) except where sub-paragraph (b) applies, over a period of 26 weeks immediately preceding the week in which the date of claim falls; or
 - (b) where the claimant provides in respect of the employment a profit and loss account and, where appropriate, a trading account or a balance sheet or both, and the profit and loss account is in respect of a period of at least 6 months but not exceeding 15 months and that period terminates within the 12 months preceding the date of claim, over that period; or
-- (c) over such other period of weeks or months[^key-fc25155d24f05f4246b8a48fc0517773] preceding the week in which the date of claim falls as may, in any particular case, enable his normal weekly earnings to be determined more accurately.
+- (c) over such other period of weeks or months[^c-fc25155d24f05f4246b8a48fc0517773] preceding the week in which the date of claim falls as may, in any particular case, enable his normal weekly earnings to be determined more accurately.
 
 (2) In paragraph (1)(b)—
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a84f2c741298e4363262b2b0453f9a9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1991/2887/regulation/17) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-5a84f2c741298e4363262b2b0453f9a9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1991/2887/regulation/17) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-fc25155d24f05f4246b8a48fc0517773]: Textual amendment: Words in [reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/17/1/c) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No.5) Regulations 1994 (S.I. 1994/2139)](https://www.legislation.gov.uk/uksi/1994/2139), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/1994/2139/regulation/3)
+[^c-fc25155d24f05f4246b8a48fc0517773]: Textual amendment: Words in [reg. 17(1)(c)](https://www.legislation.gov.uk/uksi/1991/2887/regulation/17/1/c) inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Income-related Benefits Schemes (Miscellaneous Amendments) (No.5) Regulations 1994 (S.I. 1994/2139)](https://www.legislation.gov.uk/uksi/1994/2139), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/1994/2139/regulation/1/1/b), [3](https://www.legislation.gov.uk/uksi/1994/2139/regulation/3)

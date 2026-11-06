@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Order of application – other eligible students[^key-46b18478229418ac5044a5bbfcfe44bb]
+## 100. Order of application – other eligible students[^c-46b18478229418ac5044a5bbfcfe44bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ The contribution or the remainder of the contribution, as the case may be, is to
 
 ## Annotations
 
-[^key-46b18478229418ac5044a5bbfcfe44bb]: Commencement: Reg. 100 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-46b18478229418ac5044a5bbfcfe44bb]: Commencement: Reg. 100 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

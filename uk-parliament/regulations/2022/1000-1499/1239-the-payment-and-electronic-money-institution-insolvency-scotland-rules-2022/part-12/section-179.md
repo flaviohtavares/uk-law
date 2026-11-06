@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179. The Gazette — general[^key-96183f48360157cabcd5b3f3b9ed0b29]
+## 179. The Gazette — general[^c-96183f48360157cabcd5b3f3b9ed0b29]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ the person whose responsibility it was to procure the requisite entry in the Gaz
 
 ## Annotations
 
-[^key-96183f48360157cabcd5b3f3b9ed0b29]: Commencement: Rule 179 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-96183f48360157cabcd5b3f3b9ed0b29]: Commencement: Rule 179 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

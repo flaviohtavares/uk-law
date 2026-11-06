@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Private hire vehicles in London[^key-d6fba1748a790fc615e27b471ea3a208]
+## 54. Private hire vehicles in London[^c-d6fba1748a790fc615e27b471ea3a208]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the definition of “private hire vehicle” in section 1(1)(a) of the Privat
 
 ## Annotations
 
-[^key-d6fba1748a790fc615e27b471ea3a208]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/49/section/54) in force at 31.3.2008 for E.W. by [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 3](https://www.legislation.gov.uk/uksi/2007/3492/article/3)
+[^c-d6fba1748a790fc615e27b471ea3a208]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2006/49/section/54) in force at 31.3.2008 for E.W. by [S.I. 2007/3492](https://www.legislation.gov.uk/uksi/2007/3492), [art. 3](https://www.legislation.gov.uk/uksi/2007/3492/article/3)

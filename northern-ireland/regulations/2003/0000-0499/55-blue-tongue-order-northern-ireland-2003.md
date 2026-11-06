@@ -31,7 +31,7 @@ summary: ''
 
 ANIMALS
 
-Blue Tongue Order (Northern Ireland) 2003 (revoked)[^key-b0a53066bad5c42a51b9c7ed0624387f]
+Blue Tongue Order (Northern Ireland) 2003 (revoked)[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 Made
 
@@ -41,72 +41,72 @@ Coming into operation
 
 19th February 2003
 
-[^key-b0a53066bad5c42a51b9c7ed0624387f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0a53066bad5c42a51b9c7ed0624387f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 1. Citation and commencement[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 2. Interpretation[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption for activities authorised under the Specified Animal Pathogens Order (Northern Ireland) 1999[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 3. Exemption for activities authorised under the Specified Animal Pathogens Order (Northern Ireland) 1999[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Vaccination against the disease[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 4. Vaccination against the disease[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Initial requirements where disease is known or suspected to exist[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 5. Initial requirements where disease is known or suspected to exist[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Isolation of animals[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 6. Isolation of animals[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Notification by inspectors[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 7. Notification by inspectors[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Powers of inspectors[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 8. Powers of inspectors[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Measures when the disease is confirmed[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 9. Measures when the disease is confirmed[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Declaration of infected area[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 10. Declaration of infected area[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Powers of inspectors in an infected area[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 11. Powers of inspectors in an infected area[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. General duties of occupiers, keepers etc.[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 12. General duties of occupiers, keepers etc.[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of inspectors in case of default[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 13. Powers of inspectors in case of default[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Revocation[^key-b0a53066bad5c42a51b9c7ed0624387f]
+## 14. Revocation[^c-b0a53066bad5c42a51b9c7ed0624387f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0a53066bad5c42a51b9c7ed0624387f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0a53066bad5c42a51b9c7ed0624387f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b0a53066bad5c42a51b9c7ed0624387f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0a53066bad5c42a51b9c7ed0624387f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0a53066bad5c42a51b9c7ed0624387f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/55) revoked (22.2.2008) by [The Bluetongue Order (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/38)](https://www.legislation.gov.uk/nisr/2008/38), [arts. 1](https://www.legislation.gov.uk/nisr/2008/38/article/1), [24](https://www.legislation.gov.uk/nisr/2008/38/article/24)
+[^c-b0a53066bad5c42a51b9c7ed0624387f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/55) revoked (22.2.2008) by [The Bluetongue Order (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/38)](https://www.legislation.gov.uk/nisr/2008/38), [arts. 1](https://www.legislation.gov.uk/nisr/2008/38/article/1), [24](https://www.legislation.gov.uk/nisr/2008/38/article/24)

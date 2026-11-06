@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Visas for transit passengers.[^key-53ce4dd33a60c56e3e193d91c0af6db1]
+## 41. Visas for transit passengers.[^c-53ce4dd33a60c56e3e193d91c0af6db1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53ce4dd33a60c56e3e193d91c0af6db1]: Modification: Ss. 40-43 power to apply (with modifications) or amend conferred (18.7.2012) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/124/6), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2012/1887](https://www.legislation.gov.uk/uksi/2012/1887), [art. 2](https://www.legislation.gov.uk/uksi/2012/1887/article/2)
+[^c-53ce4dd33a60c56e3e193d91c0af6db1]: Modification: Ss. 40-43 power to apply (with modifications) or amend conferred (18.7.2012) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/124/6), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2012/1887](https://www.legislation.gov.uk/uksi/2012/1887), [art. 2](https://www.legislation.gov.uk/uksi/2012/1887/article/2)

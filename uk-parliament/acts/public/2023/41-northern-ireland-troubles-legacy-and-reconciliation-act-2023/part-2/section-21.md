@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Determining a request for immunity[^key-dd87ab1cf2e3ffd92db0c9f630bcdf2a]
+## 21. Determining a request for immunity[^c-dd87ab1cf2e3ffd92db0c9f630bcdf2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ that does not prevent the immunity requests panel from forming a view on the tru
 
 ## Annotations
 
-[^key-dd87ab1cf2e3ffd92db0c9f630bcdf2a]: Commencement: S. 21 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-dd87ab1cf2e3ffd92db0c9f630bcdf2a]: Commencement: S. 21 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

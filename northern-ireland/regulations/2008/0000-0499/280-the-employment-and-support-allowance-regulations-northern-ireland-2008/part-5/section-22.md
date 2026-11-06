@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Failure to provide information in relation to limited capability for work[^key-19a64f7324a3ba8e81d8aba7b3b25f48]
+## 22. Failure to provide information in relation to limited capability for work[^c-19a64f7324a3ba8e81d8aba7b3b25f48]
 
 *Extent: N.I.*
 
@@ -24,17 +24,17 @@ summary: ''
 
 (2) Paragraph (1) does not apply unless—
 
-- (a)[^key-4ff1ab9e16acbe2ac80d471659e502b1] the claimant was sent a further request at least 3 weeks after the date of the first request;
-- (b) [^key-708be1c954ff6c0d411b12431abc0efa]...at least 3 weeks[^key-8d87ae852ad54d14d12269c6ff613506] after the date of the first request, and at least 1 week has[^key-3701dc3ba79ff2feb77ff47d284b5259] e passed since the further request was sent.
+- (a)[^c-4ff1ab9e16acbe2ac80d471659e502b1] the claimant was sent a further request at least 3 weeks after the date of the first request;
+- (b) [^c-708be1c954ff6c0d411b12431abc0efa]...at least 3 weeks[^c-8d87ae852ad54d14d12269c6ff613506] after the date of the first request, and at least 1 week has[^c-3701dc3ba79ff2feb77ff47d284b5259] e passed since the further request was sent.
 
 ## Annotations
 
-[^key-19a64f7324a3ba8e81d8aba7b3b25f48]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2008/280/regulation/22) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-19a64f7324a3ba8e81d8aba7b3b25f48]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2008/280/regulation/22) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-4ff1ab9e16acbe2ac80d471659e502b1]: Textual amendment: [Reg. 22(2)(a)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/a) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(9)(a)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/9/a)
+[^c-4ff1ab9e16acbe2ac80d471659e502b1]: Textual amendment: [Reg. 22(2)(a)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/a) substituted (29.10.2013) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(9)(a)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/9/a)
 
-[^key-708be1c954ff6c0d411b12431abc0efa]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/b) omitted (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(9)(b)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/9/b)
+[^c-708be1c954ff6c0d411b12431abc0efa]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/b) omitted (29.10.2013) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2013 (S.R. 2013/246)](https://www.legislation.gov.uk/nisr/2013/246), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/246/regulation/1/1), [11(9)(b)](https://www.legislation.gov.uk/nisr/2013/246/regulation/11/9/b)
 
-[^key-8d87ae852ad54d14d12269c6ff613506]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/b) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [21(6)(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/a)[(b)(i)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/b/i)
+[^c-8d87ae852ad54d14d12269c6ff613506]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/b) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [21(6)(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/a)[(b)(i)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/b/i)
 
-[^key-3701dc3ba79ff2feb77ff47d284b5259]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/b) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [21(6)(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/a)[(b)(ii)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/b/ii)
+[^c-3701dc3ba79ff2feb77ff47d284b5259]: Textual amendment: Words in [reg. 22(2)(b)](https://www.legislation.gov.uk/nisr/2008/280/regulation/22/2/b) substituted (with application in accordance with reg. 2 of the amending Rule) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2011 (S.R. 2011/357)](https://www.legislation.gov.uk/nisr/2011/357), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/357/regulation/1/1), [21(6)(a)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/a)[(b)(ii)](https://www.legislation.gov.uk/nisr/2011/357/regulation/21/6/b/ii)

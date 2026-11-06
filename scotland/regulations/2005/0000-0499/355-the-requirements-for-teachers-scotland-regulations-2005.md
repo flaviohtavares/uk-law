@@ -45,11 +45,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by sections 2, 73(c), 74(1) and 90(1) of the Education (Scotland) Act 1980[^f00001] and section 59 of the Standards in Scotland’s Schools etc. Act 2000[^f00002] and all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-ec5677e1519600711fe663e798f39bc7]
+## 1. Citation and commencement[^c-ec5677e1519600711fe663e798f39bc7]
 
 These Regulations may be cited as the Requirements for Teachers (Scotland) Regulations 2005 and shall come into force on 30th September 2005.
 
-## 2. Interpretation[^key-2a94c7e24aae071d339a0bf492e65473]
+## 2. Interpretation[^c-2a94c7e24aae071d339a0bf492e65473]
 
 In these Regulations–
 
@@ -59,19 +59,19 @@ In these Regulations–
 - “hearing impaired” means deaf or partially deaf; and
 - “visually impaired” means blind or partially sighted.
 
-## 3. General requirements in relation to employment of teachers[^key-d64521b4930e7f63889a63e5c865261e]
+## 3. General requirements in relation to employment of teachers[^c-d64521b4930e7f63889a63e5c865261e]
 
-Every education authority and managers of every grant-aided school[^key-fe777b9cad1e2d55d18bd45750965ee5] shall employ adequate numbers of teachers in the schools under their management, with the appropriate professional skills and knowledge necessary to enable those teachers to undertake the teaching duties allocated to them.
+Every education authority and managers of every grant-aided school[^c-fe777b9cad1e2d55d18bd45750965ee5] shall employ adequate numbers of teachers in the schools under their management, with the appropriate professional skills and knowledge necessary to enable those teachers to undertake the teaching duties allocated to them.
 
-## 4. Requirement to employ registered teachers[^key-b563589105dcf84a2ba44ad8600964e6]
+## 4. Requirement to employ registered teachers[^c-b563589105dcf84a2ba44ad8600964e6]
 
-(1) Every education authority shall, in discharging their functions under section 1 of the 1980 Act and section 2(1) of the 2000 Act employ only a registered teacher [^key-36ad42b26513392299df706c990a5458]... as a teacher.
+(1) Every education authority shall, in discharging their functions under section 1 of the 1980 Act and section 2(1) of the 2000 Act employ only a registered teacher [^c-36ad42b26513392299df706c990a5458]... as a teacher.
 
-(1A)[^key-0893b18a309e225a3507a54483b82085] The condition set out in subparagraph (1B) is prescribed for the purpose of section 74(1) in respect of grant-aided schools.
+(1A)[^c-0893b18a309e225a3507a54483b82085] The condition set out in subparagraph (1B) is prescribed for the purpose of section 74(1) in respect of grant-aided schools.
 
 (1B) Managers of grant-aided schools must employ only a registered teacher as a teacher.
 
-(2) “Registered teacher” in these Regulations means a teacher whose particulars are recorded in the register maintained by the General Teaching Council for Scotland under the Public Services Reform (General Teaching Council for Scotland) Order 2011[^key-024e31dc46f3b3161e9ea6ecda469341] and includes a teacher whose registration has been marked as restricted[^key-e2dacf835bb1b534a9b81ccee4ed71e5] on the basis however that, for the duration of that teacher’s registration being marked as restricted, such a teacher may only be employed as a teacher–
+(2) “Registered teacher” in these Regulations means a teacher whose particulars are recorded in the register maintained by the General Teaching Council for Scotland under the Public Services Reform (General Teaching Council for Scotland) Order 2011[^c-024e31dc46f3b3161e9ea6ecda469341] and includes a teacher whose registration has been marked as restricted[^c-e2dacf835bb1b534a9b81ccee4ed71e5] on the basis however that, for the duration of that teacher’s registration being marked as restricted, such a teacher may only be employed as a teacher–
 
 - (a) by his or her existing employer, and
 - (b) in his or her existing teaching post.
@@ -80,41 +80,41 @@ Every education authority and managers of every grant-aided school[^key-fe777b9c
 
 (1B) Managers of grant-aided schools must employ only a registered teacher as a teacher.
 
-## 5. Requirement in the employment of teachers of hearing impaired pupils[^key-53e734167135478d78f48fbde9507134]
+## 5. Requirement in the employment of teachers of hearing impaired pupils[^c-53e734167135478d78f48fbde9507134]
 
 Without prejudice to regulations 3 and 4, where, in discharging their functions under section 1 of the 1980 Act and section 2(1) of the 2000 Act, an education authority employ a teacher wholly or mainly to teach hearing impaired pupils that teacher shall possess an appropriate qualification to teach such pupils.
 
-## 6. Requirement in the employment of teachers of visually impaired pupils[^key-dc50698c6175bd08a56aec3e98736e0a]
+## 6. Requirement in the employment of teachers of visually impaired pupils[^c-dc50698c6175bd08a56aec3e98736e0a]
 
 Without prejudice to regulations 3 and 4, where, in discharging their functions under section 1 of the 1980 Act and section 2(1) of the 2000 Act, an education authority employ a teacher wholly or mainly to teach visually impaired pupils that teacher shall possess an appropriate qualification to teach such pupils.
 
-## 7. Requirement in the employment of teachers of both hearing and visually impaired pupils[^key-0f3bce5cb36ed7fc25009b644d7271e7]
+## 7. Requirement in the employment of teachers of both hearing and visually impaired pupils[^c-0f3bce5cb36ed7fc25009b644d7271e7]
 
 Without prejudice to regulations 3 and 4, where, in discharging their functions under section 1 of the 1980 Act and section 2(1) of the 2000 Act, an education authority employ a teacher wholly or mainly to teach pupils who are both hearing and visually impaired that teacher shall possess an appropriate qualification to teach such pupils.
 
-## 8. Employment of teachers of hearing or visually impaired pupils who do not possess an appropriate qualification[^key-7a76f08628a09256d60c5d7fbd66208c]
+## 8. Employment of teachers of hearing or visually impaired pupils who do not possess an appropriate qualification[^c-7a76f08628a09256d60c5d7fbd66208c]
 
 A teacher who does not possess a qualification as referred to in regulations 5, 6 or 7 may be employed by an education authority wholly or mainly to teach pupils who are hearing impaired, visually impaired or both hearing and visually impaired, if the education authority are satisfied that the teacher is in the process of obtaining a qualification as referred to in regulations 5, 6 or 7, provided that the aggregate period for which the teacher wholly or mainly teaches pupils who are hearing impaired, visually impaired or both hearing and visually impaired, does not exceed five years.
 
-## 9. Existing qualifications for teaching hearing impaired or visually impaired pupils[^key-2b082f5ce2acf40ed4e91536ff64df78]
+## 9. Existing qualifications for teaching hearing impaired or visually impaired pupils[^c-2b082f5ce2acf40ed4e91536ff64df78]
 
 Any teacher, who immediately before 30th September 2005 possessed–
 
 - (a) a special qualification to act as a teacher of deaf pupils for the purposes of regulation 7(1) of the Schools (Scotland) Code 1956[^f00004] shall be treated as possessing a qualification as referred to in regulation 5 above; or
 - (b) a special qualification to act as a teacher of blind pupils or as a blind teacher of the blind for the purposes of regulation 7(2) of the Schools (Scotland) Code 1956[^f00005] shall be treated as possessing a qualification as referred to in regulation 6 above.
 
-## 10. Application of Regulations to Jordanhill School, Glasgow[^key-db8b4d64b5e24df019ac3ee80ff6d693]
+## 10. Application of Regulations to Jordanhill School, Glasgow[^c-db8b4d64b5e24df019ac3ee80ff6d693]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Jordanhill School Grant Regulations 1988[^key-8e0d2783a744872b1af2555568fc47e5]
+## 11. Amendment of the Jordanhill School Grant Regulations 1988[^c-8e0d2783a744872b1af2555568fc47e5]
 
 The Jordanhill School Grant Regulations 1988[^f00007] shall be amended as follows:–
 
 - (a) in regulation 9, in lines 1 and 2, omit “the Schools (Scotland) Code 1956 and”; and
 - (b) in regulation 9(a) omit “in that Code and”.
 
-## 12. Revocations[^key-cfa7ba58f003c37e02bf0569858c7f84]
+## 12. Revocations[^c-cfa7ba58f003c37e02bf0569858c7f84]
 
 The Regulations specified in column (1) of the Schedule are hereby revoked to the extent specified in column (3).
 
@@ -126,7 +126,7 @@ St Andrew’s House, Edinburgh
 
 16th June 2005
 
-## SCHEDULE — REVOCATIONS[^key-a18ca7d5442f4913b9843b88cd676eb7]
+## SCHEDULE — REVOCATIONS[^c-a18ca7d5442f4913b9843b88cd676eb7]
 
 Regulation 12
 
@@ -175,44 +175,44 @@ The Schools (Scotland) Code 1956 as amended related to the organisation and mana
 
 [^f00002]: Footnote: [2000 asp 6](https://www.legislation.gov.uk/asp/2000/6).
 
-[^key-ec5677e1519600711fe663e798f39bc7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-ec5677e1519600711fe663e798f39bc7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-2a94c7e24aae071d339a0bf492e65473]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/355/regulation/2) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-2a94c7e24aae071d339a0bf492e65473]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2005/355/regulation/2) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-d64521b4930e7f63889a63e5c865261e]: Commencement: Reg. 3 in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-d64521b4930e7f63889a63e5c865261e]: Commencement: Reg. 3 in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-fe777b9cad1e2d55d18bd45750965ee5]: Textual amendment: Words in reg. 3 inserted (1.10.2017) by [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/2)
+[^c-fe777b9cad1e2d55d18bd45750965ee5]: Textual amendment: Words in reg. 3 inserted (1.10.2017) by [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/2)
 
-[^key-b563589105dcf84a2ba44ad8600964e6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/355/regulation/4) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-b563589105dcf84a2ba44ad8600964e6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2005/355/regulation/4) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-36ad42b26513392299df706c990a5458]: Textual amendment: Words in reg. 4(1) omitted (1.10.2017) by virtue of [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/4)
+[^c-36ad42b26513392299df706c990a5458]: Textual amendment: Words in reg. 4(1) omitted (1.10.2017) by virtue of [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/4)
 
-[^key-0893b18a309e225a3507a54483b82085]: Textual amendment: Reg. 4(1A)(1B) inserted (1.10.2017) by [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/3)
+[^c-0893b18a309e225a3507a54483b82085]: Textual amendment: Reg. 4(1A)(1B) inserted (1.10.2017) by [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/3)
 
-[^key-024e31dc46f3b3161e9ea6ecda469341]: Textual amendment: Words in reg. 4(2) substituted (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ssi/2011/215/schedule/6)
+[^c-024e31dc46f3b3161e9ea6ecda469341]: Textual amendment: Words in reg. 4(2) substituted (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ssi/2011/215/schedule/6)
 
-[^key-e2dacf835bb1b534a9b81ccee4ed71e5]: Textual amendment: Word in reg. 4(2) substituted (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ssi/2011/215/schedule/6)
+[^c-e2dacf835bb1b534a9b81ccee4ed71e5]: Textual amendment: Word in reg. 4(2) substituted (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ssi/2011/215/schedule/6)
 
-[^key-53e734167135478d78f48fbde9507134]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/355/regulation/5) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-53e734167135478d78f48fbde9507134]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2005/355/regulation/5) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-dc50698c6175bd08a56aec3e98736e0a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/355/regulation/6) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-dc50698c6175bd08a56aec3e98736e0a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2005/355/regulation/6) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-0f3bce5cb36ed7fc25009b644d7271e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/355/regulation/7) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-0f3bce5cb36ed7fc25009b644d7271e7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2005/355/regulation/7) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-7a76f08628a09256d60c5d7fbd66208c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/355/regulation/8) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-7a76f08628a09256d60c5d7fbd66208c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2005/355/regulation/8) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-2b082f5ce2acf40ed4e91536ff64df78]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/355/regulation/9) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-2b082f5ce2acf40ed4e91536ff64df78]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2005/355/regulation/9) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
 [^f00004]: Footnote: Regulation 7(1) was amended by S.I. [1965/55](https://www.legislation.gov.uk/uksi/1965/55) and [1967/1162](https://www.legislation.gov.uk/uksi/1967/1162).
 
 [^f00005]: Footnote: Regulation 7(2) was amended by S.I. [1965/55](https://www.legislation.gov.uk/uksi/1965/55) and [1967/1162](https://www.legislation.gov.uk/uksi/1967/1162).
 
-[^key-db8b4d64b5e24df019ac3ee80ff6d693]: Textual amendment: Reg. 10 omitted (1.10.2017) by virtue of [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/5)
+[^c-db8b4d64b5e24df019ac3ee80ff6d693]: Textual amendment: Reg. 10 omitted (1.10.2017) by virtue of [The Requirements for Teachers (Scotland) Amendment Regulations 2017 (S.S.I. 2017/170)](https://www.legislation.gov.uk/ssi/2017/170), [regs. 1](https://www.legislation.gov.uk/ssi/2017/170/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/170/regulation/2/5)
 
-[^key-8e0d2783a744872b1af2555568fc47e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2005/355/regulation/11) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-8e0d2783a744872b1af2555568fc47e5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2005/355/regulation/11) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
 [^f00007]: Footnote: S.I. [1988/328](https://www.legislation.gov.uk/uksi/1988/328).
 
-[^key-cfa7ba58f003c37e02bf0569858c7f84]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/355/regulation/12) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-cfa7ba58f003c37e02bf0569858c7f84]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2005/355/regulation/12) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
 
-[^key-a18ca7d5442f4913b9843b88cd676eb7]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2005/355/schedule) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)
+[^c-a18ca7d5442f4913b9843b88cd676eb7]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2005/355/schedule) in force at 30.9.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/355/regulation/1)

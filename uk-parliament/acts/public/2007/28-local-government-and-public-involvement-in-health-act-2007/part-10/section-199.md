@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Case tribunals: Wales[^key-e40f14b5ec92ba9817b35e0369d4de45]
+## 199. Case tribunals: Wales[^c-e40f14b5ec92ba9817b35e0369d4de45]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e40f14b5ec92ba9817b35e0369d4de45]: Commencement: S. 199 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/f)
+[^c-e40f14b5ec92ba9817b35e0369d4de45]: Commencement: S. 199 in force at 12.12.2008 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 2(f)](https://www.legislation.gov.uk/uksi/2008/3110/article/2/f)

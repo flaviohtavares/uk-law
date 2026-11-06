@@ -22,7 +22,7 @@ summary: ''
 
 Articles 2 and 29
 
-### PART 1 — SCHEME 0102 – M6 J40 TO KEMPLAY BANK[^key-f3ea58a24a0937e95a8b742c10c45f58]
+### PART 1 — SCHEME 0102 – M6 J40 TO KEMPLAY BANK[^c-f3ea58a24a0937e95a8b742c10c45f58]
 
 #### In the administrative area of Westmorland and Furness Council
 
@@ -53,10 +53,10 @@ A nationally significant infrastructure project as defined in sections 14 (natio
   - (iii) the construction of a new bridge “Kemplay Bank East Bridge” to carry the circulatory carriageway of the A6 (Work No. 0102-7B) over the improved A66, and forming part of the new Kemplay Bank Junction;
   - (iv) the construction of an extension to the existing “Carleton Hall Underpass” and all associated works; and
   - (v) the construction of a new eastbound and westbound merge and diverge slip roads for a new grade separated junction (the new Kemplay Bank Junction) between the improved A66 and the improved A6 (Work No. 0102-7);
-- (e)[^key-1a1ee8189348d97724152673016207be] **Work No. 0102-1D-A** — as shown on sheet 2 of the works plans for scheme 0102 and being the construction of additional carriageway and improvements to sections of the existing A66, to include—
+- (e)[^c-1a1ee8189348d97724152673016207be] **Work No. 0102-1D-A** — as shown on sheet 2 of the works plans for scheme 0102 and being the construction of additional carriageway and improvements to sections of the existing A66, to include—
   - (i) the improvement of the existing A66 eastbound and westbound dual carriageway to the east of the new Kemplay Bank Junction; and
   - (ii) the construction of new private means of access to attenuation pond as shown on sheet 2 of the rights of way and access plans for scheme 0102;
-- (f)[^key-ab6ed440389a27cfcfc72f68f7e115c4] **Work No. 0102-1E**— as shown on sheet 2 of the works plans for scheme 0102 and being the construction of additional carriageway and improvements to sections of the existing A66, to include—
+- (f)[^c-ab6ed440389a27cfcfc72f68f7e115c4] **Work No. 0102-1E**— as shown on sheet 2 of the works plans for scheme 0102 and being the construction of additional carriageway and improvements to sections of the existing A66, to include—
   - (i) the improvement of the existing A66 eastbound and westbound dual carriageway to the east of the new Kemplay Bank Junction; and
   - (ii) the construction of new private means of access to attenuation pond as shown on sheet 2 of the rights of way and access plans for scheme 0102.
 
@@ -111,7 +111,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (e) the construction of a new maintenance layby; and
 - (f) the construction of replacement private means of access as shown illustratively on sheet 2 of the rights of way and access plans for scheme 0102.
 
-### PART 2 — SCHEME 03 – PENRITH TO TEMPLE SOWERBY[^key-5a7fdc069b52cb2a402cc09fd542916c]
+### PART 2 — SCHEME 03 – PENRITH TO TEMPLE SOWERBY[^c-5a7fdc069b52cb2a402cc09fd542916c]
 
 #### In the administrative area of Westmorland and Furness Council
 
@@ -196,10 +196,10 @@ A nationally significant infrastructure project as defined in sections 14 (natio
   - (i) the construction of a new cycle track connecting to the site of the Countess Pillar; and
   - (ii) the construction of new private means of access to land on the south side of the improved A66;
 - (b) **Work No. 03-9B—** as shown on sheet 1 of the works plans for scheme 03 and comprising—
-  - (i) the construction of a new cycle track[^key-42d1dea54562fe0df4122e3e1e586287] connecting to the site of the former Llama Karma Kafe[^key-3fbe44bb974d27e11a8d05ab65f26068]; and
-  - (ii) the construction of new private means of access to land on the south side of the improved A66 (including the site of the former Llama Karma Kafe)[^key-6ef17c05ebffe1e95115a5daec472c44].
+  - (i) the construction of a new cycle track[^c-42d1dea54562fe0df4122e3e1e586287] connecting to the site of the former Llama Karma Kafe[^c-3fbe44bb974d27e11a8d05ab65f26068]; and
+  - (ii) the construction of new private means of access to land on the south side of the improved A66 (including the site of the former Llama Karma Kafe)[^c-6ef17c05ebffe1e95115a5daec472c44].
 
-### PART 3 — SCHEME 0405 – TEMPLE SOWERBY TO APPLEBY[^key-c78928f066e522191d645dc1ed0c727f]
+### PART 3 — SCHEME 0405 – TEMPLE SOWERBY TO APPLEBY[^c-c78928f066e522191d645dc1ed0c727f]
 
 #### In the administrative area of Westmorland and Furness Council
 
@@ -309,8 +309,8 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (c) **Work No. 0405-6C**— as shown on sheet 2 of the works plans for scheme 0405 and comprising**—**
   - (i) the re-alignment of part of the existing Priest Lane to its new junction with the realigned Station Road (Work No. 0405-7) (north of the new A66 eastbound carriageway);
   - (ii) works to effect the designation of the realigned Priest Lane as a quiet lane;
-  - (iii) works to effect the conversion of the existing Priest Lane into a designated quiet lane; and[^key-f2c1d4a0c8f3b512387b50ed01fd3bb6]
-  - (iv)[^key-09559840114fa663e9a04af2138fde5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) works to effect the conversion of the existing Priest Lane into a designated quiet lane; and[^c-f2c1d4a0c8f3b512387b50ed01fd3bb6]
+  - (iv)[^c-09559840114fa663e9a04af2138fde5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) the construction of new and replacement private means of access to land adjacent to the realigned Priest Lane, as shown illustratively on sheet 2 of the rights of way and access plans for scheme 0405.
 
 **Work No. 0405-7**— as shown on sheet 2 of the works plans for scheme 0405 and being the improvement and re-alignment of the existing Cross Street and Station Road, comprising—
@@ -329,7 +329,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 
 **Work No. 0405-9**— as shown on sheets 2 and 3 of the works plans for scheme 0405 and comprising—
 
-- (a) the construction of a length of new footpath , between the realigned Cross Street (Work No. 0405-07) on the south side of the new A66, and the realigned Fell Lane (and access to the existing British Gypsum site) (Work No. 0405-11) on the north side of the new A66, crossing over the new A66 via the new Green Lane Bridge, and linking into existing Footpaths 336/017 and 336/013 on the north side of the new A66, and Green Land Track[^key-220f5528e1379c53e52351889f945a28] on the south side of the A66;
+- (a) the construction of a length of new footpath , between the realigned Cross Street (Work No. 0405-07) on the south side of the new A66, and the realigned Fell Lane (and access to the existing British Gypsum site) (Work No. 0405-11) on the north side of the new A66, crossing over the new A66 via the new Green Lane Bridge, and linking into existing Footpaths 336/017 and 336/013 on the north side of the new A66, and Green Land Track[^c-220f5528e1379c53e52351889f945a28] on the south side of the A66;
 - (b) the provision of new private means of access (on the same alignment as the new footpath) as shown illustratively on sheets 2 and 3 of the rights of way and access plans for scheme 0405; and
 - (c) works to effect the stopping up of a length of existing Footpath 336/017 and of existing private means of access.
 
@@ -444,7 +444,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (b) works to effect the stopping up of part of the existing Footpath 317/004 and private means of access north of the Proposed Roger Head Farm Bridge; and
 - (c) the construction of new private means of access between Roger Head Farm and Roger Head Farm Bridge as shown illustratively on sheet 7 of the rights of way and access plans for scheme 0405.
 
-### PART 4 — SCHEME 06 – APPLEBY TO BROUGH[^key-3dcdd3474f4c213325367379e58a9584]
+### PART 4 — SCHEME 06 – APPLEBY TO BROUGH[^c-3dcdd3474f4c213325367379e58a9584]
 
 #### In the administrative area of Westmorland and Furness Council
 
@@ -577,7 +577,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (a) the provision of a replacement compound including buildings, associated amenities, storage areas, loading and unloading areas, a filling station, hard-standings, and private means of access; and
 - (b) an area laid out for use as a playing field or sports pitch, together with associated facilities, including pavilion, storage shed, parking area, hard-standing, and private means of access (including the provision of passing places) via Castlehill.
 
-### PART 5 — SCHEME 07 – BOWES BYPASS[^key-272ff058e61bd747c241bcbc5184867c]
+### PART 5 — SCHEME 07 – BOWES BYPASS[^c-272ff058e61bd747c241bcbc5184867c]
 
 #### In the administrative area of Durham County Council
 
@@ -684,7 +684,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (a) the improvement of the existing access to Hulands Quarry; and
 - (b) the construction of footpath to connect existing Bowes Footpath 6 at Hulands Quarry to the realigned Bowes Footpath 12 constructed as part of Work No. 07-9.
 
-### PART 6 — SCHEME 08 – CROSS LANES TO ROKEBY[^key-1a3ab1e493b271a021d085a4e72e1c56]
+### PART 6 — SCHEME 08 – CROSS LANES TO ROKEBY[^c-1a3ab1e493b271a021d085a4e72e1c56]
 
 #### In the administrative area of Durham County Council
 
@@ -781,7 +781,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (c) the construction of new private means of access, on the same alignment as the new cycle track ((a) above), to land and premises (including Ewebank Farm¸ attenuation pond, and Tack Room Cottages), as shown illustratively on sheet 3 of the rights of way and access plans for scheme 08; and
 - (d) works to effect the stopping up of a length of Rokeby Footpath 6.
 
-### PART 7 — SCHEME 09 – STEPHEN BANK TO CARKIN MOOR[^key-d41ab09f47e3be2b8b77d72fb3c0ab90]
+### PART 7 — SCHEME 09 – STEPHEN BANK TO CARKIN MOOR[^c-d41ab09f47e3be2b8b77d72fb3c0ab90]
 
 #### In the administrative area of the North Yorkshire Council
 
@@ -921,7 +921,7 @@ A nationally significant infrastructure project as defined in sections 14 (natio
 - (c) the provision of new private means of access over part of the new bridleway, as shown on sheet 4 of the rights of way and access plans for scheme 09; and
 - (d) works to effect the stopping up of a length of the existing Warrener Lane between its junction with the de-trunked A66 and its intersection with the new A66.
 
-### PART 8 — SCHEME 11 – A1(M) J53 SCOTCH CORNER[^key-a17487a28c643a356386553f8a745563]
+### PART 8 — SCHEME 11 – A1(M) J53 SCOTCH CORNER[^c-a17487a28c643a356386553f8a745563]
 
 #### In the administrative area of the North Yorkshire Council
 
@@ -970,34 +970,34 @@ For the purposes of or in connection with the construction of any of the works a
 
 ## Annotations
 
-[^key-f3ea58a24a0937e95a8b742c10c45f58]: Commencement: Sch. 1 Pt. 1 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-f3ea58a24a0937e95a8b742c10c45f58]: Commencement: Sch. 1 Pt. 1 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-1a1ee8189348d97724152673016207be]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/1) inserted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2026/422/article/4/1)
+[^c-1a1ee8189348d97724152673016207be]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/1) inserted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2026/422/article/4/1)
 
-[^key-ab6ed440389a27cfcfc72f68f7e115c4]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/1) renumbered (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/422/article/4/2)
+[^c-ab6ed440389a27cfcfc72f68f7e115c4]: Textual amendment: Word in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/1) renumbered (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2026/422/article/4/2)
 
-[^key-5a7fdc069b52cb2a402cc09fd542916c]: Commencement: Sch. 1 Pt. 2 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-5a7fdc069b52cb2a402cc09fd542916c]: Commencement: Sch. 1 Pt. 2 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-42d1dea54562fe0df4122e3e1e586287]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/2) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/422/article/4/3/a)
+[^c-42d1dea54562fe0df4122e3e1e586287]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/2) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/422/article/4/3/a)
 
-[^key-3fbe44bb974d27e11a8d05ab65f26068]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/2) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/422/article/4/3/b)
+[^c-3fbe44bb974d27e11a8d05ab65f26068]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/2) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/422/article/4/3/b)
 
-[^key-6ef17c05ebffe1e95115a5daec472c44]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/2) inserted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/422/article/4/3/c)
+[^c-6ef17c05ebffe1e95115a5daec472c44]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/2) inserted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/422/article/4/3/c)
 
-[^key-c78928f066e522191d645dc1ed0c727f]: Commencement: Sch. 1 Pt. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-c78928f066e522191d645dc1ed0c727f]: Commencement: Sch. 1 Pt. 3 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-f2c1d4a0c8f3b512387b50ed01fd3bb6]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/3) inserted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/422/article/4/4/a)
+[^c-f2c1d4a0c8f3b512387b50ed01fd3bb6]: Textual amendment: Word in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/3) inserted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/422/article/4/4/a)
 
-[^key-09559840114fa663e9a04af2138fde5c]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/3) omitted (16.4.2026) by virtue of [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/422/article/4/4/b)
+[^c-09559840114fa663e9a04af2138fde5c]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/3) omitted (16.4.2026) by virtue of [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/422/article/4/4/b)
 
-[^key-220f5528e1379c53e52351889f945a28]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/3) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2026/422/article/4/4/c)
+[^c-220f5528e1379c53e52351889f945a28]: Textual amendment: Words in [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2024/360/schedule/1/part/3) substituted (16.4.2026) by [The A66 Northern Trans-Pennine Development Consent (Amendment) Order 2026 (S.I. 2026/422)](https://www.legislation.gov.uk/uksi/2026/422), [arts. 1](https://www.legislation.gov.uk/uksi/2026/422/article/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2026/422/article/4/4/c)
 
-[^key-3dcdd3474f4c213325367379e58a9584]: Commencement: Sch. 1 Pt. 4 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-3dcdd3474f4c213325367379e58a9584]: Commencement: Sch. 1 Pt. 4 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-272ff058e61bd747c241bcbc5184867c]: Commencement: Sch. 1 Pt. 5 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-272ff058e61bd747c241bcbc5184867c]: Commencement: Sch. 1 Pt. 5 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-1a3ab1e493b271a021d085a4e72e1c56]: Commencement: Sch. 1 Pt. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-1a3ab1e493b271a021d085a4e72e1c56]: Commencement: Sch. 1 Pt. 6 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-d41ab09f47e3be2b8b77d72fb3c0ab90]: Commencement: Sch. 1 Pt. 7 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-d41ab09f47e3be2b8b77d72fb3c0ab90]: Commencement: Sch. 1 Pt. 7 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
-[^key-a17487a28c643a356386553f8a745563]: Commencement: Sch. 1 Pt. 8 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-a17487a28c643a356386553f8a745563]: Commencement: Sch. 1 Pt. 8 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

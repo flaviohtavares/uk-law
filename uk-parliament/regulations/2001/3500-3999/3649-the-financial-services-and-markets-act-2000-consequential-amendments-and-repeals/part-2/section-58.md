@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Realised profits of an insurance company with long term business[^key-c26c525feb41196caf772d7952f351ab]
+## 58. Realised profits of an insurance company with long term business[^c-c26c525feb41196caf772d7952f351ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c26c525feb41196caf772d7952f351ab]: Commencement: Art. 58 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c26c525feb41196caf772d7952f351ab]: Commencement: Art. 58 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

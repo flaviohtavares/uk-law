@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Restriction of other schemes[^key-e8e66fb9c15f67213f64d078667e0aea][^key-c791d45de4f8d33d1723542cdd320e3d]
+## 90. Restriction of other schemes[^c-e8e66fb9c15f67213f64d078667e0aea][^c-c791d45de4f8d33d1723542cdd320e3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8e66fb9c15f67213f64d078667e0aea]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-e8e66fb9c15f67213f64d078667e0aea]: Commencement: S. 90 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-c791d45de4f8d33d1723542cdd320e3d]: Commencement: S. 90 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-c791d45de4f8d33d1723542cdd320e3d]: Commencement: S. 90 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

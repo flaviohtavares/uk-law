@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Transitional provisions relating to block grant and expenditure levels.[^key-af272e05a6b46aac2ef69dde04a52fea]
+## 80. Transitional provisions relating to block grant and expenditure levels.[^c-af272e05a6b46aac2ef69dde04a52fea]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af272e05a6b46aac2ef69dde04a52fea]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/1985/51/section/80) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-af272e05a6b46aac2ef69dde04a52fea]: Textual amendment: [S. 80](https://www.legislation.gov.uk/ukpga/1985/51/section/80) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2

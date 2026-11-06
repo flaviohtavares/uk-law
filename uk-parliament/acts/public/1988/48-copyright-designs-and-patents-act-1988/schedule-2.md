@@ -39,7 +39,7 @@ Section 189.
 
 and which has no independent economic significance.
 
-### Personal copies of recordings for private use[^key-30458068beb6f5640be4f12daa5d3237]
+### Personal copies of recordings for private use[^c-30458068beb6f5640be4f12daa5d3237]
 
 **1B.** (1) The making of a copy of a recording of a performance by an individual does not infringe the rights conferred by this Chapter provided that the copy—
 
@@ -69,7 +69,7 @@ and which has no independent economic significance.
 
 (9) Expressions used but not defined in this paragraph have the same meaning as in section 28B.
 
-### Research and private study[^key-a1a10144f6eab6b4e5563cfcc812ac0f]
+### Research and private study[^c-a1a10144f6eab6b4e5563cfcc812ac0f]
 
 **1C.** (1) Fair dealing with a performance or a recording of a performance for the purposes of research for a non-commercial purpose does not infringe the rights conferred by this Chapter.
 
@@ -106,7 +106,7 @@ and which has no independent economic significance.
 
 **2.** (1)[^c19412261] Fair dealing with a performance or recording for the purpose of criticism or review, of that or another performance or recording, or of a work, does not infringe any of the rights conferred by this Chapter[^c19455081] provided that the performance or recording has been made available to the public.
 
-(1ZA)[^key-9e166955dbe491fba114cfc8a741b53a] The rights conferred by this Chapter in a performance or a recording of a performance are not infringed by the use of a quotation from the performance or recording (whether for criticism or review or otherwise) provided that—
+(1ZA)[^c-9e166955dbe491fba114cfc8a741b53a] The rights conferred by this Chapter in a performance or a recording of a performance are not infringed by the use of a quotation from the performance or recording (whether for criticism or review or otherwise) provided that—
 
 - (a) the performance or recording has been made available to the public,
 - (b) the use of the quotation is fair dealing with the performance or recording, and
@@ -114,11 +114,11 @@ and which has no independent economic significance.
 
 (1A) Fair dealing with a performance or recording for the purpose of reporting current events does not infringe any of the rights conferred by this Chapter.
 
-(1B)[^key-5ff2bca55d74bd3ea7d4bb7db9402c1b] To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of sub-paragraph (1ZA), would not infringe any right conferred by this Chapter, that term is unenforceable.
+(1B)[^c-5ff2bca55d74bd3ea7d4bb7db9402c1b] To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of sub-paragraph (1ZA), would not infringe any right conferred by this Chapter, that term is unenforceable.
 
 (2) Expressions used in this paragraph have the same meaning as in section 30.
 
-### Caricature, parody or pastiche[^key-351aa831eb2b1f8525035fab3235644e]
+### Caricature, parody or pastiche[^c-351aa831eb2b1f8525035fab3235644e]
 
 **2A.** (1) Fair dealing with a performance or a recording of a performance for the purposes of caricature, parody or pastiche does not infringe the rights conferred by this Chapter in the performance or recording.
 
@@ -136,20 +136,20 @@ and which has no independent economic significance.
 
 (4) Expressions used in this paragraph have the same meaning as in section 31.
 
-### Disabled persons: copies of recordings for personal use[^key-d7e2dabeb1607ef56d9f3de651051937]
+### Disabled persons: copies of recordings for personal use[^c-d7e2dabeb1607ef56d9f3de651051937]
 
 **3A.** (1) This paragraph applies if—
 
-- (a) a disabled person has lawful access to[^key-2a63d71450f16faf64de8300f23d9e62] a copy of the whole or part of a recording of a performance, and
-- (b) the person’s disability prevents the person from enjoying the recording to substantially[^key-92f999d29ff5d448046c5e9ae97f6766] the same degree as a person who does not have that disability.
+- (a) a disabled person has lawful access to[^c-2a63d71450f16faf64de8300f23d9e62] a copy of the whole or part of a recording of a performance, and
+- (b) the person’s disability prevents the person from enjoying the recording to substantially[^c-92f999d29ff5d448046c5e9ae97f6766] the same degree as a person who does not have that disability.
 
 (2) The making of an accessible copy of the copy of the recording referred to in sub-paragraph (1)(a) does not infringe the rights conferred by this Chapter if—
 
-- (a) the copy is made by the disabled person and[^key-11171357e1a3e7b043a4d02de9b4b8de] or by a person acting on behalf of the disabled person,
-- (b) the copy is made for the disabled person’s personal use, [^key-64acc479d77ff518b5f01b1a984fbe88]...
-- (c)[^key-829de72b6d476307c5e545070bee52a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the copy is made by the disabled person and[^c-11171357e1a3e7b043a4d02de9b4b8de] or by a person acting on behalf of the disabled person,
+- (b) the copy is made for the disabled person’s personal use, [^c-64acc479d77ff518b5f01b1a984fbe88]...
+- (c)[^c-829de72b6d476307c5e545070bee52a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-33dc5e4c199ec037b868a97dbfd3c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-33dc5e4c199ec037b868a97dbfd3c7ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The rights conferred by this Chapter are infringed by the transfer of an accessible copy of a recording made under this paragraph to any person other than—
 
@@ -165,14 +165,14 @@ except where the transfer is authorised by the rights owner.
 - (a) it is to be treated as an illicit recording for the purposes of that dealing, and
 - (b) if that dealing infringes any right conferred by this Chapter, it is to be treated as an illicit recording for all subsequent purposes.
 
-### Making communicating, making available, distributing or lending of accessible copies by authorised bodies[^key-c7442f9c6f1f62dc75492375d751ac6e]
+### Making communicating, making available, distributing or lending of accessible copies by authorised bodies[^c-c7442f9c6f1f62dc75492375d751ac6e]
 
-**3B.** (1)[^key-ac5da62acb711f2e23f2329e715ae27c] If—
+**3B.** (1)[^c-ac5da62acb711f2e23f2329e715ae27c] If—
 
 - (a) an authorised body has lawful access to the whole or part of a work which has been published or otherwise made available, and
 - (b) the body complies with sub-paragraph (1A),
 
-the body may, without infringing the rights conferred by this Chapter, make, communicate, make available, distribute or lend accessible copies of the work on a non-profit basis for the personal use of disabled persons in the United Kingdom [^key-d7c089493639028705deccf35e904b38]....
+the body may, without infringing the rights conferred by this Chapter, make, communicate, make available, distribute or lend accessible copies of the work on a non-profit basis for the personal use of disabled persons in the United Kingdom [^c-d7c089493639028705deccf35e904b38]....
 
 (1A) An authorised body complies with this sub-paragraph if it—
 
@@ -181,42 +181,42 @@ the body may, without infringing the rights conferred by this Chapter, make, com
 - (c) demonstrates due care in, and maintains records of, its handling of works and accessible copies, and
 - (d) publishes and updates, on its website if appropriate, or through other online or offline channels, information on how it complies with the obligations in paragraphs (a), (b) and (c).
 
-(2)[^key-03de266373071669855f83f7f92d6b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-03de266373071669855f83f7f92d6b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-03de266373071669855f83f7f92d6b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-03de266373071669855f83f7f92d6b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) For the purposes of sub-paragraph (1)[^key-05582569f3d53d2139b98284058b08c7], communicate, make available, distribute or lend[^key-e275809de537c34a443b1f59e3ab3233] “for the personal use of disabled persons” includes to communicate, make available, distribute or lend[^key-0aa446f327ea73854ca185975ea4d448] to a person acting on behalf of a disabled person.
+(4) For the purposes of sub-paragraph (1)[^c-05582569f3d53d2139b98284058b08c7], communicate, make available, distribute or lend[^c-e275809de537c34a443b1f59e3ab3233] “for the personal use of disabled persons” includes to communicate, make available, distribute or lend[^c-0aa446f327ea73854ca185975ea4d448] to a person acting on behalf of a disabled person.
 
-(5)[^key-a6b5985f5a48f76bd45a426f395436ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-a6b5985f5a48f76bd45a426f395436ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-a6b5985f5a48f76bd45a426f395436ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a6b5985f5a48f76bd45a426f395436ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-a6b5985f5a48f76bd45a426f395436ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-a6b5985f5a48f76bd45a426f395436ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8) An authorised body which has made an accessible copy of a recording under this paragraph may communicate, make available, distribute or lend[^key-25f7e9499c45db7b38276eac6f0708e2] it to another authorised body established in the United Kingdom[^key-abfcc0916a4277854e01d4fa35c69e17] [^key-f888b7cb1d45aa08bedc1907b5b0b439]... which is entitled to make accessible copies of the recording under this paragraph for the purposes of enabling that other body to make accessible copies of the recording.
+(8) An authorised body which has made an accessible copy of a recording under this paragraph may communicate, make available, distribute or lend[^c-25f7e9499c45db7b38276eac6f0708e2] it to another authorised body established in the United Kingdom[^c-abfcc0916a4277854e01d4fa35c69e17] [^c-f888b7cb1d45aa08bedc1907b5b0b439]... which is entitled to make accessible copies of the recording under this paragraph for the purposes of enabling that other body to make accessible copies of the recording.
 
-(9)[^key-de06207afa253b9e79d65636080e2038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-de06207afa253b9e79d65636080e2038] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) If an accessible copy of a recording made under this paragraph is subsequently dealt with—
 
 - (a) it is to be treated as an illicit recording for the purposes of that dealing, and
 - (b) if that dealing infringes any right conferred by this Chapter, it is to be treated as an illicit recording for all subsequent purposes.
 
-(11)[^key-5eae53b02c2cd5ebbee3dc683a1a7946] In this paragraph “dealt with” means sold or let for hire or offered or exposed for sale or hire.
+(11)[^c-5eae53b02c2cd5ebbee3dc683a1a7946] In this paragraph “dealt with” means sold or let for hire or offered or exposed for sale or hire.
 
-### Making communicating, making available, distributing or lending of intermediate copies by authorised bodies[^key-b65a4f187d593bf7a88bf079aabb0645]
+### Making communicating, making available, distributing or lending of intermediate copies by authorised bodies[^c-b65a4f187d593bf7a88bf079aabb0645]
 
 **3C.** (1) An authorised body which is entitled to make an accessible copy of a recording of a performance under paragraph 3B may, without infringing the rights conferred by this Chapter, make a copy of the recording (“an intermediate copy”) if this is necessary in order to make the accessible copy.
 
-(2) An authorised body which has made an intermediate copy of a recording under this paragraph may communicate, make available, distribute or lend it on a non-profit basis[^key-59300f946ca6d716cffe7e053f8e9a31] it to another authorised body which is entitled to make accessible copies of the recording under paragraph 3B for the purposes of enabling that other body to make accessible copies of the recording.
+(2) An authorised body which has made an intermediate copy of a recording under this paragraph may communicate, make available, distribute or lend it on a non-profit basis[^c-59300f946ca6d716cffe7e053f8e9a31] it to another authorised body which is entitled to make accessible copies of the recording under paragraph 3B for the purposes of enabling that other body to make accessible copies of the recording.
 
 (3) The rights conferred by this Chapter are infringed by the transfer of an intermediate copy made under this paragraph to a person other than another authorised body as permitted by sub-paragraph (2), except where the transfer is authorised by the rights owner.
 
-(4)[^key-3f7d91f471f89cafb8f399748b9eac7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3f7d91f471f89cafb8f399748b9eac7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Accessible and intermediate copies: records
 
-**3D.**[^key-f5051514942a52523ada98e265778824] (1) A person listed in sub-paragraph (2) may request an authorised body—
+**3D.**[^c-f5051514942a52523ada98e265778824] (1) A person listed in sub-paragraph (2) may request an authorised body—
 
 - (a) making accessible copies under paragraph 3B, or
 - (b) making intermediate copies under paragraph 3C,
@@ -234,17 +234,17 @@ to provide the person with the information in sub-paragraph (4).
 (4) The information that must be provided by the authorised body is—
 
 - (a) the list of works for which it has accessible copies and the available formats, and
-- (b) the name and contact details of any authorised body established in a[^key-8a521def36e1855c415c35c518a667a0] member State of the European Union from which, or to which, it has imported, exported or accessed an accessible copy.
+- (b) the name and contact details of any authorised body established in a[^c-8a521def36e1855c415c35c518a667a0] member State of the European Union from which, or to which, it has imported, exported or accessed an accessible copy.
 
 ### Paragraphs 3A to 3D: interpretation and general
 
 **3E.** (1) This paragraph supplements paragraphs 3A to 3D and includes definitions.
 
-(2) “Disabled person” means a person who has a physical or mental impairment which prevents the person from enjoying a recording of a performance to substantially[^key-089b856c9a8bda202815dda8d33acf48] the same degree as a person who does not have that impairment, and “disability” is to be construed accordingly.
+(2) “Disabled person” means a person who has a physical or mental impairment which prevents the person from enjoying a recording of a performance to substantially[^c-089b856c9a8bda202815dda8d33acf48] the same degree as a person who does not have that impairment, and “disability” is to be construed accordingly.
 
-(3) But a person is not to be regarded as disabled by reason only of an impairment of visual function which can be improved, for example[^key-22ab44921e41ba78a1f45c4772eb9d4f] by the use of corrective lenses, to a level that is normally acceptable for reading without a special level or kind of light.
+(3) But a person is not to be regarded as disabled by reason only of an impairment of visual function which can be improved, for example[^c-22ab44921e41ba78a1f45c4772eb9d4f] by the use of corrective lenses, to a level that is normally acceptable for reading without a special level or kind of light.
 
-(4) An “accessible copy” of a recording of a performance means a version of the recording which enables disabled persons to access that version, including accessing it as feasibly and comfortably as a person who is not a disabled person[^key-46e6dc4ba91d50e7c005af651b9da2b6].
+(4) An “accessible copy” of a recording of a performance means a version of the recording which enables disabled persons to access that version, including accessing it as feasibly and comfortably as a person who is not a disabled person[^c-46e6dc4ba91d50e7c005af651b9da2b6].
 
 (5) An accessible copy—
 
@@ -253,9 +253,9 @@ to provide the person with the information in sub-paragraph (4).
 
 (6) To the extent that a term of a contract purports to prevent or restrict the doing of any act which, by virtue of paragraph 3A, 3B or 3C, would not infringe any right conferred by this Chapter, that term is unenforceable.
 
-(7) “Authorised body” has[^key-58095c13d96ea2d8d458ca822d3f9fcb] the meaning given in section 31F, and other expressions used in paragraphs 3A to 3D but not defined in this paragraph have the same meaning as in sections 31A to 31BB.
+(7) “Authorised body” has[^c-58095c13d96ea2d8d458ca822d3f9fcb] the meaning given in section 31F, and other expressions used in paragraphs 3A to 3D but not defined in this paragraph have the same meaning as in sections 31A to 31BB.
 
-### Illustration for instruction[^key-db12e5e9fbfe83bb6eec02402264d99f]
+### Illustration for instruction[^c-db12e5e9fbfe83bb6eec02402264d99f]
 
 **4.** (1) Fair dealing with a performance or a recording of a performance for the sole purpose of illustration for instruction does not infringe the rights conferred by this Chapter provided that the dealing is—
 
@@ -274,7 +274,7 @@ to provide the person with the information in sub-paragraph (4).
 
 (3) Expressions used in this paragraph have the same meaning as in section 34 and any provision made under section 174(2) with respect to the application of that section also applies for the purposes of this paragraph.
 
-### Recording by educational establishments of broadcasts[^key-37e16ed993e91543828a2c6e98864cef]
+### Recording by educational establishments of broadcasts[^c-37e16ed993e91543828a2c6e98864cef]
 
 **6.** (1) A recording of a broadcast, or a copy of such a recording, may be made by or on behalf of an educational establishment for the educational purposes of that establishment without infringing any of the rights conferred by this Chapter in relation to any performance or recording included in it, provided that the educational purposes are non-commercial.
 
@@ -332,18 +332,18 @@ to provide the person with the information in sub-paragraph (4).
 
 ### Lending of copies by libraries or archives[^c13762201]
 
-**6B.**[^c13762211][^c13762221] (1) The rights conferred by this Chapter[^c19455251] are not infringed by the lending of copies of a recording of a performance by a [^key-381bccaf8314ab1377d9b92149e3204a] ... library or archive (other than a public library) which is not conducted for profit.
+**6B.**[^c13762211][^c13762221] (1) The rights conferred by this Chapter[^c19455251] are not infringed by the lending of copies of a recording of a performance by a [^c-381bccaf8314ab1377d9b92149e3204a] ... library or archive (other than a public library) which is not conducted for profit.
 
-(A1)[^key-9a249f14cbfdfe8f6fd75823fdab2998] The rights conferred by this Chapter are not infringed by the following acts by a public library in relation to a book within the public lending right scheme—
+(A1)[^c-9a249f14cbfdfe8f6fd75823fdab2998] The rights conferred by this Chapter are not infringed by the following acts by a public library in relation to a book within the public lending right scheme—
 
 - (a) lending the book;
 - (b) in relation to an audio-book or e-book, copying or issuing a copy of the book as an act incidental to lending it.
 
 (A2) Expressions used in sub-paragraph (A1) have the same meaning as in section 40A(1).
 
-(2)[^key-1a4ab4b7f53fcc3062a7f5f38e738327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1a4ab4b7f53fcc3062a7f5f38e738327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Libraries and educational establishments etc : making recordings of performances available through dedicated terminals[^key-da4e56c9ceef644132a033fa3839dfde]
+### Libraries and educational establishments etc : making recordings of performances available through dedicated terminals[^c-da4e56c9ceef644132a033fa3839dfde]
 
 **6C.** (1) The rights conferred by this Chapter in a recording of a performance are not infringed by an institution specified in sub-paragraph (2) communicating the recording to the public or making it available to the public by means of a dedicated terminal on its premises, if the conditions in sub-paragraph (3) are met.
 
@@ -452,7 +452,7 @@ and at the time of making the copy the librarian or archivist is, or ought to be
 
 **6H.** Expressions used in paragraphs 6B to 6G have the same meaning as in sections 40A to 43.
 
-### Certain permitted uses of orphan works[^key-d8e8fa4b40e872a5e3833fee202ad8e5]
+### Certain permitted uses of orphan works[^c-d8e8fa4b40e872a5e3833fee202ad8e5]
 
 **6I.** (1) The rights conferred by this Chapter are not infringed by a relevant body in the circumstances set out in paragraph 1(2) of Schedule ZA1 (subject to paragraph 6 of that Schedule).
 
@@ -531,7 +531,7 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 ### Recordings of folksongs
 
-**14.** (1) A recording of a performance of a song may be made for the purpose of including it in an archive maintained by a body not established or conducted for profit[^key-ab8f544f441ac6650140110562a79ef0] without infringing any of the rights conferred by this Chapter[^c19455681] , provided the conditions in sub-paragraph (2) below are met.
+**14.** (1) A recording of a performance of a song may be made for the purpose of including it in an archive maintained by a body not established or conducted for profit[^c-ab8f544f441ac6650140110562a79ef0] without infringing any of the rights conferred by this Chapter[^c19455681] , provided the conditions in sub-paragraph (2) below are met.
 
 (2) The conditions are that—
 
@@ -539,7 +539,7 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 - (b) the making of the recording does not infringe any copyright, and
 - (c) its making is not prohibited by any performer.
 
-(3)[^key-01bf861dbc84acf77849eca7bb854310] A single copy of a recording made in reliance on sub-paragraph (1) and included in an archive referred to in that sub-paragraph may be made and supplied by the archivist without infringing any right conferred by this Chapter, provided that—
+(3)[^c-01bf861dbc84acf77849eca7bb854310] A single copy of a recording made in reliance on sub-paragraph (1) and included in an archive referred to in that sub-paragraph may be made and supplied by the archivist without infringing any right conferred by this Chapter, provided that—
 
 - (a) the copy is supplied in response to a request from a person who has provided the archivist with a declaration in writing which includes the information set out in sub-paragraph (4), and
 - (b) the archivist is not aware that the declaration is false in a material particular.
@@ -679,15 +679,15 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 ### Reception and re-transmission of wireless broadcast by cable[^c13762351][^c19419801]
 
-**19.**[^key-ea22f3fb1228b7983eb141437b92acf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-ea22f3fb1228b7983eb141437b92acf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19A.**[^key-93caf7583147953d61c2506963fce679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19A.**[^c-93caf7583147953d61c2506963fce679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Provision of sub-titled copies of broadcast . . .[^c19420411]
 
-**20.**[^key-06bbc718297b1fe4c2766a33e7be99e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-06bbc718297b1fe4c2766a33e7be99e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Recording of broadcast for archival purposes[^key-e21bcc5ee6a0c54602d20113fac99ad6]
+### Recording of broadcast for archival purposes[^c-e21bcc5ee6a0c54602d20113fac99ad6]
 
 **21.** (1) A recording of a broadcast or a copy of such a recording may be made for the purpose of being placed in an archive maintained by a body which is not established or conducted for profit without infringing any right conferred by this Chapter in relation to a performance or recording included in the broadcast.
 
@@ -705,9 +705,9 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19455071]: Textual amendment: Words in Sch. 2 para. 1A substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18) , [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) , [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8) )
 
-[^key-30458068beb6f5640be4f12daa5d3237]: Textual amendment: Sch. 2 para. 1B and cross-heading inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/3/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
+[^c-30458068beb6f5640be4f12daa5d3237]: Textual amendment: Sch. 2 para. 1B and cross-heading inserted (1.10.2014) by [The Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014 (S.I. 2014/2361)](https://www.legislation.gov.uk/uksi/2014/2361), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/2361/regulation/3/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2014/2361/regulation/5)) (but note that the amending S.I. was quashed with prospective effect by the High Court in the case of R (British Academy of Songwriters, Composers and Authors and others) v Secretary of State for Business, Innovation and Skills \[2015\] EWHC 2041 (Admin), 17 July 2015)
 
-[^key-a1a10144f6eab6b4e5563cfcc812ac0f]: Textual amendment: Sch. 2 paras. 1C, 1D and cross-headings inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/3/3)
+[^c-a1a10144f6eab6b4e5563cfcc812ac0f]: Textual amendment: Sch. 2 paras. 1C, 1D and cross-headings inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/3/3)
 
 [^M_F_0e842003-f26c-4347-8f9d-690f4beb09f0]: Textual amendment: Word in Sch. 2 para. 2 heading inserted (1.10.2014) by [S.I. 2014/2356](https://www.legislation.gov.uk/uksi/2014/2356) reg. 4(2)
 
@@ -715,11 +715,11 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19455081]: Textual amendment: Words in Sch. 2 para. 2(1)(1A) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18) , [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) , [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8) )
 
-[^key-9e166955dbe491fba114cfc8a741b53a]: Textual amendment: Sch. 2 para. 2(1ZA) inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/4/3)
+[^c-9e166955dbe491fba114cfc8a741b53a]: Textual amendment: Sch. 2 para. 2(1ZA) inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/4/3)
 
-[^key-5ff2bca55d74bd3ea7d4bb7db9402c1b]: Textual amendment: Sch. 2 para. 2(1B) inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/4/4)
+[^c-5ff2bca55d74bd3ea7d4bb7db9402c1b]: Textual amendment: Sch. 2 para. 2(1B) inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/4/4)
 
-[^key-351aa831eb2b1f8525035fab3235644e]: Textual amendment: Sch. 2 para. 2A and cross-heading inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/5/2)
+[^c-351aa831eb2b1f8525035fab3235644e]: Textual amendment: Sch. 2 para. 2A and cross-heading inserted (1.10.2014) by [The Copyright and Rights in Performances (Quotation and Parody) Regulations 2014 (S.I. 2014/2356)](https://www.legislation.gov.uk/uksi/2014/2356), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2356/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/2356/regulation/5/2)
 
 [^c19455101]: Textual amendment: Words in Sch. 2 para. 3(1) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18) , [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) , [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8) )
 
@@ -727,65 +727,65 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19412331]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498) , [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/1) , [Sch. 1 para. 6(2)(e)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/6/2/e) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31) )
 
-[^key-d7e2dabeb1607ef56d9f3de651051937]: Textual amendment: Sch. 2 paras. 3A-3E and cross-headings inserted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1384/regulation/3)
+[^c-d7e2dabeb1607ef56d9f3de651051937]: Textual amendment: Sch. 2 paras. 3A-3E and cross-headings inserted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1384/regulation/3)
 
-[^key-2a63d71450f16faf64de8300f23d9e62]: Textual amendment: Words in [Sch. 2 para. 3A(1)(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/1/a) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/2/a)
+[^c-2a63d71450f16faf64de8300f23d9e62]: Textual amendment: Words in [Sch. 2 para. 3A(1)(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/1/a) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/2/a)
 
-[^key-92f999d29ff5d448046c5e9ae97f6766]: Textual amendment: Word in [Sch. 2 para. 3A(1)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/1/b) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/2/b)
+[^c-92f999d29ff5d448046c5e9ae97f6766]: Textual amendment: Word in [Sch. 2 para. 3A(1)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/1/b) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(2)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/2/b)
 
-[^key-11171357e1a3e7b043a4d02de9b4b8de]: Textual amendment: Word in [Sch. 2 para. 3A(2)(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/2/a) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/3/a)
+[^c-11171357e1a3e7b043a4d02de9b4b8de]: Textual amendment: Word in [Sch. 2 para. 3A(2)(a)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/2/a) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/3/a)
 
-[^key-64acc479d77ff518b5f01b1a984fbe88]: Textual amendment: Word in [Sch. 2 para. 3A(2)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/2/b) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/3/b)
+[^c-64acc479d77ff518b5f01b1a984fbe88]: Textual amendment: Word in [Sch. 2 para. 3A(2)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/2/b) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/3/b)
 
-[^key-829de72b6d476307c5e545070bee52a7]: Textual amendment: [Sch. 2 para. 3A(2)(c)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/2/c) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/3/c)
+[^c-829de72b6d476307c5e545070bee52a7]: Textual amendment: [Sch. 2 para. 3A(2)(c)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/2/c) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/3/c)
 
-[^key-33dc5e4c199ec037b868a97dbfd3c7ab]: Textual amendment: [Sch. 2 para. 3A(3)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/3) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/4)
+[^c-33dc5e4c199ec037b868a97dbfd3c7ab]: Textual amendment: [Sch. 2 para. 3A(3)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3A/3) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/12/4)
 
-[^key-c7442f9c6f1f62dc75492375d751ac6e]: Textual amendment: Words in Sch. 2 para. 3B heading substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/2)
+[^c-c7442f9c6f1f62dc75492375d751ac6e]: Textual amendment: Words in Sch. 2 para. 3B heading substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/2)
 
-[^key-ac5da62acb711f2e23f2329e715ae27c]: Textual amendment: Sch. 2 para. 3B(1)(1A) substituted for Sch. 2 para. 3B(1) (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/3)
+[^c-ac5da62acb711f2e23f2329e715ae27c]: Textual amendment: Sch. 2 para. 3B(1)(1A) substituted for Sch. 2 para. 3B(1) (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/3)
 
-[^key-d7c089493639028705deccf35e904b38]: Textual amendment: Words in [Sch. 2 para. 3B(1)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3B/1) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/25/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-d7c089493639028705deccf35e904b38]: Textual amendment: Words in [Sch. 2 para. 3B(1)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3B/1) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [25(a)](https://www.legislation.gov.uk/uksi/2019/605/regulation/25/a) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
-[^key-03de266373071669855f83f7f92d6b4c]: Textual amendment: Sch. 2 para. 3B(2)(3) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/4)
+[^c-03de266373071669855f83f7f92d6b4c]: Textual amendment: Sch. 2 para. 3B(2)(3) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/4)
 
-[^key-05582569f3d53d2139b98284058b08c7]: Textual amendment: Words in Sch. 2 para. 3B(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(5)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/5/a)
+[^c-05582569f3d53d2139b98284058b08c7]: Textual amendment: Words in Sch. 2 para. 3B(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(5)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/5/a)
 
-[^key-e275809de537c34a443b1f59e3ab3233]: Textual amendment: Words in Sch. 2 para. 3B(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(5)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/5/b)
+[^c-e275809de537c34a443b1f59e3ab3233]: Textual amendment: Words in Sch. 2 para. 3B(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(5)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/5/b)
 
-[^key-0aa446f327ea73854ca185975ea4d448]: Textual amendment: Words in Sch. 2 para. 3B(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(5)(c)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/5/c)
+[^c-0aa446f327ea73854ca185975ea4d448]: Textual amendment: Words in Sch. 2 para. 3B(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(5)(c)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/5/c)
 
-[^key-a6b5985f5a48f76bd45a426f395436ca]: Textual amendment: Sch. 2 paras. 3B(5)-(7) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(6)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/6)
+[^c-a6b5985f5a48f76bd45a426f395436ca]: Textual amendment: Sch. 2 paras. 3B(5)-(7) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(6)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/6)
 
-[^key-25f7e9499c45db7b38276eac6f0708e2]: Textual amendment: Words in Sch. 2 para. 3B(8) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(7)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/7/a)
+[^c-25f7e9499c45db7b38276eac6f0708e2]: Textual amendment: Words in Sch. 2 para. 3B(8) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(7)(a)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/7/a)
 
-[^key-abfcc0916a4277854e01d4fa35c69e17]: Textual amendment: Words in Sch. 2 para. 3B(8) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(7)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/7/b)
+[^c-abfcc0916a4277854e01d4fa35c69e17]: Textual amendment: Words in Sch. 2 para. 3B(8) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(7)(b)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/7/b)
 
-[^key-f888b7cb1d45aa08bedc1907b5b0b439]: Textual amendment: Words in [Sch. 2 para. 3B(8)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3B/8) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/25/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-f888b7cb1d45aa08bedc1907b5b0b439]: Textual amendment: Words in [Sch. 2 para. 3B(8)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3B/8) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [25(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/25/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
-[^key-de06207afa253b9e79d65636080e2038]: Textual amendment: Sch. 2 para. 3B(9) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(8)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/8)
+[^c-de06207afa253b9e79d65636080e2038]: Textual amendment: Sch. 2 para. 3B(9) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(8)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/8)
 
-[^key-5eae53b02c2cd5ebbee3dc683a1a7946]: Textual amendment: Sch. 2 para. 3B(11) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(9)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/9)
+[^c-5eae53b02c2cd5ebbee3dc683a1a7946]: Textual amendment: Sch. 2 para. 3B(11) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [13(9)](https://www.legislation.gov.uk/uksi/2018/995/regulation/13/9)
 
-[^key-b65a4f187d593bf7a88bf079aabb0645]: Textual amendment: Words in Sch. 2 para. 3C heading substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/14/2)
+[^c-b65a4f187d593bf7a88bf079aabb0645]: Textual amendment: Words in Sch. 2 para. 3C heading substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/14/2)
 
-[^key-59300f946ca6d716cffe7e053f8e9a31]: Textual amendment: Words in Sch. 2 para. 3C(2) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/14/3)
+[^c-59300f946ca6d716cffe7e053f8e9a31]: Textual amendment: Words in Sch. 2 para. 3C(2) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/14/3)
 
-[^key-3f7d91f471f89cafb8f399748b9eac7e]: Textual amendment: Sch. 2 para. 3C(4) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/14/4)
+[^c-3f7d91f471f89cafb8f399748b9eac7e]: Textual amendment: Sch. 2 para. 3C(4) omitted (11.10.2018) by virtue of [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/14/4)
 
-[^key-f5051514942a52523ada98e265778824]: Textual amendment: Sch. 2 paras. 3D(1)-(4) substituted for Sch. 2 para. 3D(1)(2) (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2018/995/regulation/15)
+[^c-f5051514942a52523ada98e265778824]: Textual amendment: Sch. 2 paras. 3D(1)-(4) substituted for Sch. 2 para. 3D(1)(2) (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2018/995/regulation/15)
 
-[^key-8a521def36e1855c415c35c518a667a0]: Textual amendment: Word in [Sch. 2 para. 3D(4)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3D/4/b) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2019/605/regulation/25/c) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-8a521def36e1855c415c35c518a667a0]: Textual amendment: Word in [Sch. 2 para. 3D(4)(b)](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/3D/4/b) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [25(c)](https://www.legislation.gov.uk/uksi/2019/605/regulation/25/c) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
-[^key-089b856c9a8bda202815dda8d33acf48]: Textual amendment: Word in Sch. 2 para. 3E(2) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/2)
+[^c-089b856c9a8bda202815dda8d33acf48]: Textual amendment: Word in Sch. 2 para. 3E(2) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/2)
 
-[^key-22ab44921e41ba78a1f45c4772eb9d4f]: Textual amendment: Words in Sch. 2 para. 3E(3) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/3)
+[^c-22ab44921e41ba78a1f45c4772eb9d4f]: Textual amendment: Words in Sch. 2 para. 3E(3) inserted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/3)
 
-[^key-46e6dc4ba91d50e7c005af651b9da2b6]: Textual amendment: Words in Sch. 2 para. 3E(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/4)
+[^c-46e6dc4ba91d50e7c005af651b9da2b6]: Textual amendment: Words in Sch. 2 para. 3E(4) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(4)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/4)
 
-[^key-58095c13d96ea2d8d458ca822d3f9fcb]: Textual amendment: Word in Sch. 2 para. 3E(7) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/5)
+[^c-58095c13d96ea2d8d458ca822d3f9fcb]: Textual amendment: Word in Sch. 2 para. 3E(7) substituted (11.10.2018) by [The Copyright and Related Rights (Marrakesh Treaty etc.) (Amendment) Regulations 2018 (S.I. 2018/995)](https://www.legislation.gov.uk/uksi/2018/995), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/995/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2018/995/regulation/16/5)
 
-[^key-db12e5e9fbfe83bb6eec02402264d99f]: Textual amendment: Sch. 2 para. 4 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/4)
+[^c-db12e5e9fbfe83bb6eec02402264d99f]: Textual amendment: Sch. 2 para. 4 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/4)
 
 [^c19414151]: Textual amendment: Words in heading preceding Sch. 2 para. 5 substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498) , [reg. 2(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/1) , [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2003/2498/schedule/1/paragraph/2/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31) )
 
@@ -793,7 +793,7 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19455151]: Textual amendment: Words in Sch. 2 para. 5(1) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18) , [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) , [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8) )
 
-[^key-37e16ed993e91543828a2c6e98864cef]: Textual amendment: Sch. 2 paras. 6, 6ZA and cross-headings substituted (1.6.2014) for Sch. 2 para. 6 and cross-heading by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/5)
+[^c-37e16ed993e91543828a2c6e98864cef]: Textual amendment: Sch. 2 paras. 6, 6ZA and cross-headings substituted (1.6.2014) for Sch. 2 para. 6 and cross-heading by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/4/5)
 
 [^c13762181]: Textual amendment: Sch. 2 para. 6A and crossheading inserted (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) , [reg. 20(3)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/20/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III) )
 
@@ -809,15 +809,15 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19455251]: Textual amendment: Words in Sch. 2 para. 6B(1) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 
-[^key-381bccaf8314ab1377d9b92149e3204a]: Textual amendment: Word in Sch. 2 para. 6B(1) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/8/a)
+[^c-381bccaf8314ab1377d9b92149e3204a]: Textual amendment: Word in Sch. 2 para. 6B(1) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/8/a)
 
-[^key-9a249f14cbfdfe8f6fd75823fdab2998]: Textual amendment: Sch. 2 para. 6B(A1)(A2) inserted (30.6.2014) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 43(8)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/43/8/a), [47(3)(d)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/d); [S.I. 2014/1659](https://www.legislation.gov.uk/uksi/2014/1659), [art. 2](https://www.legislation.gov.uk/uksi/2014/1659/article/2)
+[^c-9a249f14cbfdfe8f6fd75823fdab2998]: Textual amendment: Sch. 2 para. 6B(A1)(A2) inserted (30.6.2014) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 43(8)(a)](https://www.legislation.gov.uk/ukpga/2010/24/section/43/8/a), [47(3)(d)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/3/d); [S.I. 2014/1659](https://www.legislation.gov.uk/uksi/2014/1659), [art. 2](https://www.legislation.gov.uk/uksi/2014/1659/article/2)
 
-[^key-1a4ab4b7f53fcc3062a7f5f38e738327]: Textual amendment: Sch. 2 para. 6B(2) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/8/b)
+[^c-1a4ab4b7f53fcc3062a7f5f38e738327]: Textual amendment: Sch. 2 para. 6B(2) omitted (1.6.2014) by virtue of [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [reg. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2014/1372/schedule/paragraph/8/b)
 
-[^key-da4e56c9ceef644132a033fa3839dfde]: Textual amendment: Sch. 2 paras. 6C-6H and cross-headings inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/1372/regulation/6)
+[^c-da4e56c9ceef644132a033fa3839dfde]: Textual amendment: Sch. 2 paras. 6C-6H and cross-headings inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/1372/regulation/6)
 
-[^key-d8e8fa4b40e872a5e3833fee202ad8e5]: Textual amendment: Sch. 2 para. 6I and cross-heading inserted (29.10.2014) by [The Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 (S.I. 2014/2861)](https://www.legislation.gov.uk/uksi/2014/2861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/2861/regulation/3/4)
+[^c-d8e8fa4b40e872a5e3833fee202ad8e5]: Textual amendment: Sch. 2 para. 6I and cross-heading inserted (29.10.2014) by [The Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 (S.I. 2014/2861)](https://www.legislation.gov.uk/uksi/2014/2861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/2861/regulation/3/4)
 
 [^c19455281]: Textual amendment: Words in Sch. 2 para. 7(1) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18) , [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) , [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8) )
 
@@ -849,11 +849,11 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19416871]: Textual amendment: Words in Sch. 2 para. 13(2)(a) repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498) , [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/2) , [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31) )
 
-[^key-ab8f544f441ac6650140110562a79ef0]: Textual amendment: Words in Sch. 2 para. 14(1) substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/3)
+[^c-ab8f544f441ac6650140110562a79ef0]: Textual amendment: Words in Sch. 2 para. 14(1) substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/3)
 
 [^c19455681]: Textual amendment: Words in Sch. 2 para. 14(1)(3) substituted (1.2.2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18) , [reg. 2](https://www.legislation.gov.uk/uksi/2006/18/regulation/2) , [Sch. para. 9](https://www.legislation.gov.uk/uksi/2006/18/schedule/paragraph/9) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8) )
 
-[^key-01bf861dbc84acf77849eca7bb854310]: Textual amendment: Sch. 2 para. 14(3)-(8) substituted (1.6.2014) for Sch. 2 para. 14(3)(4) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/4)
+[^c-01bf861dbc84acf77849eca7bb854310]: Textual amendment: Sch. 2 para. 14(3)-(8) substituted (1.6.2014) for Sch. 2 para. 14(3)(4) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/7/4)
 
 [^c13762301]: Textual amendment: Sch. 2 para. 14A and crossheading inserted (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967) , [reg. 20(3)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/20/3) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III) )
 
@@ -921,12 +921,12 @@ it is not an infringement of the rights conferred by this Chapter[^c19455671] to
 
 [^c19419801]: Textual amendment: Words in heading preceding Sch. 2 para. 19 substituted (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I.2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498) , [reg. 22(3)(a)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/22/3/a) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31) )
 
-[^key-ea22f3fb1228b7983eb141437b92acf0]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/19) repealed (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/34/1/b), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
+[^c-ea22f3fb1228b7983eb141437b92acf0]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/19) repealed (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/34/1/b), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
 
-[^key-93caf7583147953d61c2506963fce679]: Textual amendment: [Sch. 2 para. 19A](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/19A) repealed (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/34/1/b), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
+[^c-93caf7583147953d61c2506963fce679]: Textual amendment: [Sch. 2 para. 19A](https://www.legislation.gov.uk/ukpga/1988/48/schedule/2/paragraph/19A) repealed (31.7.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/34/1/b), [118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6); [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/n)
 
 [^c19420411]: Textual amendment: Words in heading preceding Sch. 2 para. 20 repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498) , [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/2) , [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31) )
 
-[^key-06bbc718297b1fe4c2766a33e7be99e2]: Textual amendment: Sch. 2 para. 20 repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
+[^c-06bbc718297b1fe4c2766a33e7be99e2]: Textual amendment: Sch. 2 para. 20 repealed (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2014/1384/schedule/paragraph/8) Table
 
-[^key-e21bcc5ee6a0c54602d20113fac99ad6]: Textual amendment: Sch. 2 para. 21 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/8/2)
+[^c-e21bcc5ee6a0c54602d20113fac99ad6]: Textual amendment: Sch. 2 para. 21 substituted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/8/2)

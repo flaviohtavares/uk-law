@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Service of notices[^key-22c526ebfe0940ca1d82835190f5d6c4]
+## 26. Service of notices[^c-22c526ebfe0940ca1d82835190f5d6c4]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22c526ebfe0940ca1d82835190f5d6c4]: Commencement: Art. 26 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-22c526ebfe0940ca1d82835190f5d6c4]: Commencement: Art. 26 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
 [^f00022]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

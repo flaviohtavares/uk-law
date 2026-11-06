@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.19. Application to authorise extension of pre-charge bail[^key-4217455060d034ee052dc23b7e8bcd15]
+## 14.19. Application to authorise extension of pre-charge bail[^c-4217455060d034ee052dc23b7e8bcd15]
 
 *Extent: E+W*
 
@@ -75,6 +75,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4217455060d034ee052dc23b7e8bcd15]: Commencement: [Rule 14.19](https://www.legislation.gov.uk/uksi/2025/909/rule/14.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-4217455060d034ee052dc23b7e8bcd15]: Commencement: [Rule 14.19](https://www.legislation.gov.uk/uksi/2025/909/rule/14.19) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00385]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 47ZJ was inserted by section 63 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).

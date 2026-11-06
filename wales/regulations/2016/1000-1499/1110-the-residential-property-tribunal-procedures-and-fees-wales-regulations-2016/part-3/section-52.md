@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Revocation[^key-73fcd545d8f71073a19581aba67a16c4]
+## 52. Revocation[^c-73fcd545d8f71073a19581aba67a16c4]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ The following Regulations and Orders are revoked—
 
 ## Annotations
 
-[^key-73fcd545d8f71073a19581aba67a16c4]: Commencement: Reg. 52 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-73fcd545d8f71073a19581aba67a16c4]: Commencement: Reg. 52 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2012/531 (W. 83)](https://www.legislation.gov.uk/wsi/2012/531).
 

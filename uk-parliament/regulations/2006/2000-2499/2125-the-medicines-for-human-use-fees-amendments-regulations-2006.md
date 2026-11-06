@@ -34,7 +34,7 @@ FEES AND CHARGES
 
 MEDICINES
 
-The Medicines for Human Use (Fees Amendments) Regulations 2006 (revoked)[^key-c913ad9bb040dff81d29af5c6b7f7594]
+The Medicines for Human Use (Fees Amendments) Regulations 2006 (revoked)[^c-c913ad9bb040dff81d29af5c6b7f7594]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 1st September 2006
 
-[^key-c913ad9bb040dff81d29af5c6b7f7594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c913ad9bb040dff81d29af5c6b7f7594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c913ad9bb040dff81d29af5c6b7f7594]
+## 1. Citation, commencement and interpretation[^c-c913ad9bb040dff81d29af5c6b7f7594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the of the General Fees Regulations[^key-c913ad9bb040dff81d29af5c6b7f7594]
+## 2. Amendment of regulation 2 of the of the General Fees Regulations[^c-c913ad9bb040dff81d29af5c6b7f7594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1 to the General Fees Regulations[^key-c913ad9bb040dff81d29af5c6b7f7594]
+## 3. Amendment of Schedule 1 to the General Fees Regulations[^c-c913ad9bb040dff81d29af5c6b7f7594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 3 to the General Fees Regulations[^key-c913ad9bb040dff81d29af5c6b7f7594]
+## 4. Amendment of Schedule 3 to the General Fees Regulations[^c-c913ad9bb040dff81d29af5c6b7f7594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Homoeopathic Regulations[^key-c913ad9bb040dff81d29af5c6b7f7594]
+## 5. Amendment of the Homoeopathic Regulations[^c-c913ad9bb040dff81d29af5c6b7f7594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c913ad9bb040dff81d29af5c6b7f7594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c913ad9bb040dff81d29af5c6b7f7594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c913ad9bb040dff81d29af5c6b7f7594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c913ad9bb040dff81d29af5c6b7f7594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c913ad9bb040dff81d29af5c6b7f7594]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/532/regulation/1/2), [Sch. 9](https://www.legislation.gov.uk/uksi/2013/532/schedule/9)
+[^c-c913ad9bb040dff81d29af5c6b7f7594]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/532/regulation/1/2), [Sch. 9](https://www.legislation.gov.uk/uksi/2013/532/schedule/9)

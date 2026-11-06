@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.10. Documents for Accountant of Court[^key-99caf18ef7ffbf847cc9a0af6e1edb4f]
+## 3.9.10. Documents for Accountant of Court[^c-99caf18ef7ffbf847cc9a0af6e1edb4f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99caf18ef7ffbf847cc9a0af6e1edb4f]: Commencement: Rule 3.9.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-99caf18ef7ffbf847cc9a0af6e1edb4f]: Commencement: Rule 3.9.10 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

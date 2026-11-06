@@ -44,7 +44,7 @@ Section 27
 > | --- | --- | --- | --- |
 > | 6A | Value added tax | Amount payable under section 25(1) of VATA 1994 (except an amount falling within item 6B, 13A, 23 or 24) | The date determined—<br>- (a) by or under regulations under section 25 of VATA 1994, or<br>- (b) in accordance with an order under section 28 of that Act,<br>as the date by which the amount must be paid |
 > | 6B | Value added tax | Amount payable under section 25(1) of VATA 1994 which is an instalment of an amount due in respect of a period of 9 months or more (“amount A”) | The date on or before which P must pay any balancing payment or other outstanding payment due in respect of amount A |
-> | 6BA[^key-00abd1f3c7d719836de5fd4fda488195] | Value added tax | Amount payable under relevant special scheme return (as defined in paragraph 16(3) of Schedule 3B to VATA 1994) (except an amount falling within item 13A, 13AA, 13AB, 23 or 24) | The date by which the amount must be paid under the law of the member State which has established the special scheme |
+> | 6BA[^c-00abd1f3c7d719836de5fd4fda488195] | Value added tax | Amount payable under relevant special scheme return (as defined in paragraph 16(3) of Schedule 3B to VATA 1994) (except an amount falling within item 13A, 13AA, 13AB, 23 or 24) | The date by which the amount must be paid under the law of the member State which has established the special scheme |
 > | 6BB | Value added tax | Amount payable under relevant non-UK return (as defined in paragraph 20(3) of Schedule 3BA to VATA 1994) (except an amount falling within item 13A, 13AA, 13AB, 23 or 24) | The date by which the amount must be paid under the law of the member State which has established the non-UK special scheme |
 > | 6C | Insurance premium tax | Amount payable under regulations under section 54 of FA 1994 (except an amount falling within item 13B, 23 or 24) | The date determined by or under regulations under section 54 of FA 1994 as the date by which the amount must be paid |
 
@@ -75,7 +75,7 @@ Section 27
 > |  |  |  |  |
 > | --- | --- | --- | --- |
 > | 13A | Value added tax | Amount assessed under section 73(1) of VATA 1994 in the absence of a return | The date by which the amount would have been required to be paid if it had been shown in the return |
-> | 13AA[^key-e4be20c157e054d2ff2c935cf8fd1f82] | Value added tax | Amount assessed under section 73(1) of VATA 1994, by virtue of paragraph 16 of Schedule 3B to that Act, in the absence of a value added tax return (as defined in paragraph 23(1) of that Schedule) | The date by which the amount would have been required to be paid under the law of the member State under whose law the return was required |
+> | 13AA[^c-e4be20c157e054d2ff2c935cf8fd1f82] | Value added tax | Amount assessed under section 73(1) of VATA 1994, by virtue of paragraph 16 of Schedule 3B to that Act, in the absence of a value added tax return (as defined in paragraph 23(1) of that Schedule) | The date by which the amount would have been required to be paid under the law of the member State under whose law the return was required |
 > | 13AB | Value added tax | Amount assessed under section 73(1) of VATA 1994, by virtue of paragraph 20 of Schedule 3BA to that Act, in the absence of a relevant non-UK return (as defined in paragraph 38(1) of that Schedule) | The date by which the amount would have been required to be paid under the law of the member State under whose law the return was required |
 > | 13B | Insurance premium tax | Amount assessed under section 56(1) of FA 1994 in the absence of a return | The date by which the amount would have been required to be paid if it had been shown in the return |
 
@@ -103,12 +103,12 @@ Section 27
 
 (13) In item 23—
 
-- (a) in columns 2 and 3, for “items 1 to 6, 9 or 10” substitute “ items 1 to 6A,6BA, 6BB,[^key-e25cf9a92840872f66c1dbf010cd14ac] 6C, 9, 10 , 11A or 11B[^M_F_d4948fbd-1cd0-4ed8-b266-ae30d5711cf5] to 11M ”, and
+- (a) in columns 2 and 3, for “items 1 to 6, 9 or 10” substitute “ items 1 to 6A,6BA, 6BB,[^c-e25cf9a92840872f66c1dbf010cd14ac] 6C, 9, 10 , 11A or 11B[^M_F_d4948fbd-1cd0-4ed8-b266-ae30d5711cf5] to 11M ”, and
 - (b) in column 3, for “any of items 18 to 20” substitute “ item 18 or 19 ”.
 
 (14) In item 24—
 
-- (a) in column 2, for “items 1 to 6, 9 or 10” substitute “ items 1 to 6A,6BA, 6BB,[^key-19898a9ef7ffbe105412df10feab9ac2] 6C, 9, 10 , 11A or 11B[^M_F_89784093-2f6b-48fa-93b7-647f20301d28] to 11M ”, and
+- (a) in column 2, for “items 1 to 6, 9 or 10” substitute “ items 1 to 6A,6BA, 6BB,[^c-19898a9ef7ffbe105412df10feab9ac2] 6C, 9, 10 , 11A or 11B[^M_F_89784093-2f6b-48fa-93b7-647f20301d28] to 11M ”, and
 - (b) in column 3, for “any of items 18 to 20” substitute “ item 18 or 19 ”.
 
 **3.**[^M_I_157f9dea-31eb-418f-ea94-81fc2b54a7df] In paragraph 2 (assessments and determinations in default of return), in paragraph (c), for “10” substitute “ 11M ”.
@@ -125,7 +125,7 @@ Section 27
 
 (2) Sub-paragraph (1) is amended as follows.
 
-(3) In paragraph (a), for “[^key-59f90f243e88e496e7895f87f02bf1ea]... 3B[^key-28ad019713c76b613237aede1f0f5a9f] and 7 to 24” substitute “ [^key-59f90f243e88e496e7895f87f02bf1ea]... 3B, 6B, 7 to 11ZA[^key-2647769589c07a200e18470363be0b95] and 12 to 24 ”.
+(3) In paragraph (a), for “[^c-59f90f243e88e496e7895f87f02bf1ea]... 3B[^c-28ad019713c76b613237aede1f0f5a9f] and 7 to 24” substitute “ [^c-59f90f243e88e496e7895f87f02bf1ea]... 3B, 6B, 7 to 11ZA[^c-2647769589c07a200e18470363be0b95] and 12 to 24 ”.
 
 (4) In paragraph (b)—
 
@@ -180,7 +180,7 @@ Section 27
 
 > **Amount of penalty: amounts in respect of periods of between 2 and 6 months**
 >
-> **8A.** (1) Paragraphs 8B to 8E apply in the case of a payment of tax falling within any of items 6A,6BA, 6BB,[^key-541f50639772ba6224bc37179f0a6a33] 6C and 11A to 11M in the Table which relates to a period of less than 6 months but more than 2 months.
+> **8A.** (1) Paragraphs 8B to 8E apply in the case of a payment of tax falling within any of items 6A,6BA, 6BB,[^c-541f50639772ba6224bc37179f0a6a33] 6C and 11A to 11M in the Table which relates to a period of less than 6 months but more than 2 months.
 >
 > (2) But those paragraphs do not apply in the case of a payment mentioned in paragraph 3(1)(d).
 >
@@ -266,37 +266,37 @@ Section 27
 >
 > **8J.** If any amount of the tax is unpaid after the end of the period of 12 months beginning with the penalty date, P is liable to a penalty of 5% of that amount.
 
-**8.**[^M_I_6205a049-dbb2-49a4-bde1-f3506ecb760f] After paragraph 8J insert— *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+**8.**[^M_I_6205a049-dbb2-49a4-bde1-f3506ecb760f] After paragraph 8J insert— *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 
-> **Calculation of unpaid (affected by repeal, see note) VAT (affected by repeal, see note): treatment of payments on account (affected by repeal, see note)[^key-8369b1720043f24d3c61778ca42e55ad][^key-8369b1720043f24d3c61778ca42e55ad][^key-8369b1720043f24d3c61778ca42e55ad]**
+> **Calculation of unpaid (affected by repeal, see note) VAT (affected by repeal, see note): treatment of payments on account (affected by repeal, see note)[^c-8369b1720043f24d3c61778ca42e55ad][^c-8369b1720043f24d3c61778ca42e55ad][^c-8369b1720043f24d3c61778ca42e55ad]**
 >
-> **8K.** (1) Where P is required, by virtue of an order under section 28 of *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad] VATA *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad] 1994, to make any payment on account of *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad] VAT *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]—
+> **8K.** (1) Where P is required, by virtue of an order under section 28 of *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad] VATA *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad] 1994, to make any payment on account of *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad] VAT *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]—
 >
-> - (a) each payment is to be treated for the purposes of this Schedule as relating to the prescribed accounting period in respect of which it is to be paid (and not as relating to the interval between the dates on which payments on account are required to be made), and *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - (b) the amount of tax unpaid in respect of the prescribed accounting period is the total of the amounts produced by paragraphs (a) and (b) of sub-paragraph (3). *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> - (a) each payment is to be treated for the purposes of this Schedule as relating to the prescribed accounting period in respect of which it is to be paid (and not as relating to the interval between the dates on which payments on account are required to be made), and *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - (b) the amount of tax unpaid in respect of the prescribed accounting period is the total of the amounts produced by paragraphs (a) and (b) of sub-paragraph (3). *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> (2) In determining that total— *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> (2) In determining that total— *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> - (a) if there is more than one amount of POAD or POAT, those amounts are to be added together, and *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - (b) if the amount produced by sub-paragraph (3)(b) is less than zero, that amount is to be disregarded. *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> - (a) if there is more than one amount of POAD or POAT, those amounts are to be added together, and *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - (b) if the amount produced by sub-paragraph (3)(b) is less than zero, that amount is to be disregarded. *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> (3) The amounts are— *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> (3) The amounts are— *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> - (a) [formula: see source](https://www.legislation.gov.uk/ukpga/2010/33) *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - (b) [formula: see source](https://www.legislation.gov.uk/ukpga/2010/33) *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> - (a) [formula: see source](https://www.legislation.gov.uk/ukpga/2010/33) *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - (b) [formula: see source](https://www.legislation.gov.uk/ukpga/2010/33) *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> (4) In this paragraph— *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> (4) In this paragraph— *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> - POAD is the amount of any payment on account due in respect of the prescribed accounting period, *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - POAT is the amount of any payment on account paid on time (that is, on or before the date on which it was required to be made), *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - BPD (which is the balancing payment due in respect of the prescribed accounting period) is equal to *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - BPT (which is the amount paid on time in satisfaction of any liability to pay BPD) is equal to *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> - POAD is the amount of any payment on account due in respect of the prescribed accounting period, *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - POAT is the amount of any payment on account paid on time (that is, on or before the date on which it was required to be made), *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - BPD (which is the balancing payment due in respect of the prescribed accounting period) is equal to *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - BPT (which is the amount paid on time in satisfaction of any liability to pay BPD) is equal to *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> (5) In sub-paragraph (4)— *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> (5) In sub-paragraph (4)— *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 >
-> - PAPD is the amount of *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad] VAT *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad] due in respect of the prescribed accounting period, *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - PAPP is the total amount paid, on or before the last day on which P is required to make payments in respect of that period, in satisfaction of any liability to pay PAPD, and *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
-> - POAP is the total amount paid, on or before that day (but whether or not paid on time), in satisfaction of any liability to pay POAD. *(affected by repeal, see note)*[^key-8369b1720043f24d3c61778ca42e55ad]
+> - PAPD is the amount of *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad] VAT *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad] due in respect of the prescribed accounting period, *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - PAPP is the total amount paid, on or before the last day on which P is required to make payments in respect of that period, in satisfaction of any liability to pay PAPD, and *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
+> - POAP is the total amount paid, on or before that day (but whether or not paid on time), in satisfaction of any liability to pay POAD. *(affected by repeal, see note)*[^c-8369b1720043f24d3c61778ca42e55ad]
 
 **9.**[^c2124040][^M_I_4e552d94-52d3-4fb2-b86f-bba7b131f580] (1) Paragraph 11 (assessment) is amended as follows.
 
@@ -321,15 +321,15 @@ Section 27
 
 [^M_I_f14a178d-2660-4b0f-8816-f3a8e253392c]: Commencement: Amendments made by Sch. 11 para. 2 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/2)
 
-[^key-00abd1f3c7d719836de5fd4fda488195]: Textual amendment: Words in Sch. 11 para. 2(7) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/2)
+[^c-00abd1f3c7d719836de5fd4fda488195]: Textual amendment: Words in Sch. 11 para. 2(7) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(2)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/2)
 
-[^key-e4be20c157e054d2ff2c935cf8fd1f82]: Textual amendment: Words in Sch. 11 para. 2(9) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/3)
+[^c-e4be20c157e054d2ff2c935cf8fd1f82]: Textual amendment: Words in Sch. 11 para. 2(9) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/3)
 
-[^key-e25cf9a92840872f66c1dbf010cd14ac]: Textual amendment: Words in Sch. 11 para. 2(13)(a) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/4)
+[^c-e25cf9a92840872f66c1dbf010cd14ac]: Textual amendment: Words in Sch. 11 para. 2(13)(a) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(4)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/4)
 
 [^M_F_d4948fbd-1cd0-4ed8-b266-ae30d5711cf5]: Textual amendment: Words in [Sch. 11 para. 2(13)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/2/13/a) substituted (1.4.2022 and with effect in accordance with [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/b) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 85(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/a), [Sch. 15 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/1/a); [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-19898a9ef7ffbe105412df10feab9ac2]: Textual amendment: Words in Sch. 11 para. 2(14)(a) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/5)
+[^c-19898a9ef7ffbe105412df10feab9ac2]: Textual amendment: Words in Sch. 11 para. 2(14)(a) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(5)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/5)
 
 [^M_F_89784093-2f6b-48fa-93b7-647f20301d28]: Textual amendment: Words in [Sch. 11 para. 2(14)(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/2/14/a) substituted (1.4.2022 and with effect in accordance with [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/b) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 85(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/a), [Sch. 15 para. 5(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/1/b); [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
@@ -339,21 +339,21 @@ Section 27
 
 [^M_I_97d13ca8-507c-43ac-d026-cd94de9eb6ad]: Commencement: Amendments made by Sch. 11 para. 5 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/2)
 
-[^key-59f90f243e88e496e7895f87f02bf1ea]: Textual amendment: Words in [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/5/3) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/5)
+[^c-59f90f243e88e496e7895f87f02bf1ea]: Textual amendment: Words in [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/5/3) omitted (12.2.2019) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/5)
 
-[^key-28ad019713c76b613237aede1f0f5a9f]: Textual amendment: Word in [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/5/3) inserted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 30(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/30/4)
+[^c-28ad019713c76b613237aede1f0f5a9f]: Textual amendment: Word in [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/5/3) inserted (with effect in accordance with Sch. 2 para. 32(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 2 para. 30(4)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/2/paragraph/30/4)
 
-[^key-2647769589c07a200e18470363be0b95]: Textual amendment: Word in [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/5/3) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/3)
+[^c-2647769589c07a200e18470363be0b95]: Textual amendment: Word in [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/5/3) substituted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/3)
 
 [^M_I_918e2702-47fa-49e7-eb57-1d8ca3a43d6d]: Commencement: Amendments made by Sch. 11 para. 6 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/2)
 
 [^M_I_c8f9af43-7cd8-417e-8838-8489f4f1fa08]: Commencement: Amendments made by Sch. 11 para. 7 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/2)
 
-[^key-541f50639772ba6224bc37179f0a6a33]: Textual amendment: Words in [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/7) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/6)
+[^c-541f50639772ba6224bc37179f0a6a33]: Textual amendment: Words in [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/7) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 22(6)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/22/6)
 
 [^M_I_6205a049-dbb2-49a4-bde1-f3506ecb760f]: Commencement: Amendments made by Sch. 11 para. 8 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 5(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/5/2)
 
-[^key-8369b1720043f24d3c61778ca42e55ad]: Textual amendment: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/8) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 40(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/40/7); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-8369b1720043f24d3c61778ca42e55ad]: Textual amendment: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/8) omitted (6.4.2024 for specified purposes, 1.4.2026 for specified purposes) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/118/2), [Sch. 27 para. 40(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/40/7); [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2); [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
 [^c2124040]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/9) partly in force; [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/9) not in force at Royal Assent see [s. 27(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/27/2); [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2010/33/schedule/11/paragraph/9) in force at 6.4.2011 for certain purposes by [S.I. 2011/703](https://www.legislation.gov.uk/uksi/2011/703), [art. 3](https://www.legislation.gov.uk/uksi/2011/703/article/3)
 

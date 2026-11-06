@@ -33,11 +33,11 @@ An Act to make provision with respect to the members, officers and otherstaff an
 
 \[16th November 1989\]
 
-[^c15260551][^c15260561]Be it enacted by the Queen’s most Excellent Majesty, by and with theadvice and consent of the Lords Spiritual and Temporal, and Commons, in thispresent Parliament assembled, and by the authority of the same, asfollows:—[^key-ed368e2d90d39082b38bf0d7290015f7][^key-0c33d585b276179fb5b54a380849bfd2]
+[^c15260551][^c15260561]Be it enacted by the Queen’s most Excellent Majesty, by and with theadvice and consent of the Lords Spiritual and Temporal, and Commons, in thispresent Parliament assembled, and by the authority of the same, asfollows:—[^c-ed368e2d90d39082b38bf0d7290015f7][^c-0c33d585b276179fb5b54a380849bfd2]
 
 ## Contents
 
-### Part I — Local Authority Members, Officers, Staff and Committees etc.[^c15260571][^c16987081][^key-8c74adf130f84cfa7c4cb255aa16f246][^key-10cfe9531266ccc4828f8d2c69b3bbdc][^key-ae82ae5018883916b689471855adac8b]
+### Part I — Local Authority Members, Officers, Staff and Committees etc.[^c15260571][^c16987081][^c-8c74adf130f84cfa7c4cb255aa16f246][^c-10cfe9531266ccc4828f8d2c69b3bbdc][^c-ae82ae5018883916b689471855adac8b]
 
 *Extent: E+W+S*
 
@@ -123,7 +123,7 @@ An Act to make provision with respect to the members, officers and otherstaff an
 - [Section 37 — Conditions of provision of financial assistance.](part-iii/section-37.md)
 - [Section 38 — Information etc. on individuals’ rights.](part-iii/section-38.md)
 
-### Part IV — Revenue Accounts and Capital Finance of Local Authorities[^key-8cd6089716eb143b6fbf80088cd154df][^M_F_12afef5c-42de-4c0d-8f7d-8264d71562e0]
+### Part IV — Revenue Accounts and Capital Finance of Local Authorities[^c-8cd6089716eb143b6fbf80088cd154df][^M_F_12afef5c-42de-4c0d-8f7d-8264d71562e0]
 
 *Extent: E+W*
 
@@ -188,7 +188,7 @@ An Act to make provision with respect to the members, officers and otherstaff an
 - [Section 65 — Information.](part-iv/section-65.md)
 - [Section 66 — Interpretation of Part IV.](part-iv/section-66.md)
 
-### Part V — Companies in which Local Authorities have interests[^c15271751][^key-b054f9269c66d64c9c62a490bb493e48]
+### Part V — Companies in which Local Authorities have interests[^c15271751][^c-b054f9269c66d64c9c62a490bb493e48]
 
 *Extent: E+W*
 
@@ -200,7 +200,7 @@ An Act to make provision with respect to the members, officers and otherstaff an
 - [Section 72 — Trusts influenced by local authorities.](part-v/section-72.md)
 - [Section 73 — Authorities acting jointly and by committees.](part-v/section-73.md)
 
-### Part VI — Housing Finance[^c15273821][^key-94788992171f67b9a6019e8da13fe8a7][^key-237390dfbd3fe2b3beea36383f6648d1]
+### Part VI — Housing Finance[^c15273821][^c-94788992171f67b9a6019e8da13fe8a7][^c-237390dfbd3fe2b3beea36383f6648d1]
 
 *Extent: E+W*
 
@@ -455,9 +455,9 @@ SCHEDULES
 
 [^c15260561]: Modification: Act: (except ss. 43(2), 53(1) and 54(1) so far as they relate to a fire authority or police authority, and except s. 43(3)) transfer of functions (W.) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-ed368e2d90d39082b38bf0d7290015f7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/42) modified (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 7](https://www.legislation.gov.uk/uksi/2008/3002/article/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
+[^c-ed368e2d90d39082b38bf0d7290015f7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1989/42) modified (1.12.2008) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2008 (S.I. 2008/3002)](https://www.legislation.gov.uk/uksi/2008/3002), [art. 7](https://www.legislation.gov.uk/uksi/2008/3002/article/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/3002/schedule/2)) (see S.I. 2008/3068, art. 2(1)(b))
 
-[^key-0c33d585b276179fb5b54a380849bfd2]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/9)
+[^c-0c33d585b276179fb5b54a380849bfd2]: Modification: Act applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/9)
 
 [^c15260571]: Modification: Pt. 1 (ss. 1-21) applied (temp. from 4.5.1995 to 31.3.1996) by [S.I. 1995/1042](https://www.legislation.gov.uk/uksi/1995/1042), [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/1042/article/4/1)
 
@@ -467,25 +467,25 @@ SCHEDULES
 
 [^c16987081]: Modification: Pt. 1 (ss. 1-21): extended (E.) (6.5.2002) by [The Local Authorities (Elected Mayor and Mayor's Assistant) (England) Regulations 2002 (S.I. 2002/975)](https://www.legislation.gov.uk/uksi/2002/975), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/975/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2002/975/regulation/3/6)
 
-[^key-8c74adf130f84cfa7c4cb255aa16f246]: Modification: Pt. 1 functions made exercisable by joint standards committees (E.) (15.6.2009) by [The Standards Committee (Further Provisions) (England) Regulations 2009 (S.I. 2009/1255)](https://www.legislation.gov.uk/uksi/2009/1255), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1255/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2009/1255/regulation/14)
+[^c-8c74adf130f84cfa7c4cb255aa16f246]: Modification: Pt. 1 functions made exercisable by joint standards committees (E.) (15.6.2009) by [The Standards Committee (Further Provisions) (England) Regulations 2009 (S.I. 2009/1255)](https://www.legislation.gov.uk/uksi/2009/1255), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1255/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2009/1255/regulation/14)
 
-[^key-10cfe9531266ccc4828f8d2c69b3bbdc]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1989/42/part/1) modified (26.3.2026) by [The Sussex and Brighton Combined County Authority Regulations 2026 (S.I. 2026/362)](https://www.legislation.gov.uk/uksi/2026/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/362/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/362/regulation/7/4)
+[^c-10cfe9531266ccc4828f8d2c69b3bbdc]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1989/42/part/1) modified (26.3.2026) by [The Sussex and Brighton Combined County Authority Regulations 2026 (S.I. 2026/362)](https://www.legislation.gov.uk/uksi/2026/362), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/362/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/362/regulation/7/4)
 
-[^key-ae82ae5018883916b689471855adac8b]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1989/42/part/1) modified (4.6.2026) by [The Hampshire and the Solent Combined County Authority Regulations 2026 (S.I. 2026/595)](https://www.legislation.gov.uk/uksi/2026/595), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/595/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/595/regulation/7/4)
+[^c-ae82ae5018883916b689471855adac8b]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1989/42/part/1) modified (4.6.2026) by [The Hampshire and the Solent Combined County Authority Regulations 2026 (S.I. 2026/595)](https://www.legislation.gov.uk/uksi/2026/595), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/595/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2026/595/regulation/7/4)
 
-[^key-8cd6089716eb143b6fbf80088cd154df]: Modification: Pt. IV savings for effects of 2003 c. 26, Sch. 7 para. 29 Sch. 8 (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [9(7)](https://www.legislation.gov.uk/uksi/2004/533/article/9/7)
+[^c-8cd6089716eb143b6fbf80088cd154df]: Modification: Pt. IV savings for effects of 2003 c. 26, Sch. 7 para. 29 Sch. 8 (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [9(7)](https://www.legislation.gov.uk/uksi/2004/533/article/9/7)
 
 [^M_F_12afef5c-42de-4c0d-8f7d-8264d71562e0]: Textual amendment: Pt. IV repealed (18.11.2003 for E. for the repeal of ss. 45, 53, 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, and 1.4.2004 for E. in so far as not already in force) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), s. 128(6), Sch. 7 para. 29; [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), arts. 3(h), 7(b) (with art. 8, Sch.); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), art. 2, Sch. 1 Pt. I (with Sch. 2 para. 2)
 
 [^c15271751]: Modification: Pt. 5 (ss. 67-73): power conferred to make provisions about matters of the kind dealt with in this part (1.9.1997) by [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50), [s. 44(1)](https://www.legislation.gov.uk/ukpga/1997/50/section/44/1), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/50/schedule/4) para. (j)(iii); [S.I. 1997/1930](https://www.legislation.gov.uk/uksi/1997/1930), [art. 2(1)(2)(m)](https://www.legislation.gov.uk/uksi/1997/1930/article/2/1/2/m)
 
-[^key-b054f9269c66d64c9c62a490bb493e48]: Modification: Pt. 5 modified (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 95(5)](https://www.legislation.gov.uk/ukpga/2003/26/section/95/5)[(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/95/6), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)
+[^c-b054f9269c66d64c9c62a490bb493e48]: Modification: Pt. 5 modified (18.11.2003) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 95(5)](https://www.legislation.gov.uk/ukpga/2003/26/section/95/5)[(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/95/6), [128(2)(d)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/d)
 
 [^c15273821]: Modification: Pt. 6 (ss. 74-86) applied (1.4.1997) by [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5), [s. 140G](https://www.legislation.gov.uk/ukpga/1992/5/section/140G) (as inserted (1.4.1997) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 121](https://www.legislation.gov.uk/ukpga/1996/52/section/121), [Sch. 12 paras. 4](https://www.legislation.gov.uk/ukpga/1996/52/schedule/12/paragraph/4); [S.I. 1997/618](https://www.legislation.gov.uk/uksi/1997/618), [art. 2](https://www.legislation.gov.uk/uksi/1997/618/article/2) (subject to transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/1997/618/schedule)))
 
-[^key-94788992171f67b9a6019e8da13fe8a7]: Modification: Pt. 6 modified (E.) (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2008/2867/regulation/26) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))
+[^c-94788992171f67b9a6019e8da13fe8a7]: Modification: Pt. 6 modified (E.) (28.11.2008) by [The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008 (S.I. 2008/2867)](https://www.legislation.gov.uk/uksi/2008/2867), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2008/2867/regulation/26) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/1/2)) (as amended (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))
 
-[^key-237390dfbd3fe2b3beea36383f6648d1]: Modification: Pt. 6 modified (E.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2))
+[^c-237390dfbd3fe2b3beea36383f6648d1]: Modification: Pt. 6 modified (E.) (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2))
 
 [^c15274291]: Modification: [Pt. VII](https://www.legislation.gov.uk/ukpga/1989/42/part/VII) (ss. 89-100) amended (24.9.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [ss. 221](https://www.legislation.gov.uk/ukpga/1996/52/section/221), [232(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/232/2)
 

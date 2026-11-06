@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Duty to notify the Commissioner of personal data breach: time periods[^key-5c481f7a6695811594bb9d7d7b3325ce][^key-59d8f2723813dfdb784ca5f39caeba42]
+## 111. Duty to notify the Commissioner of personal data breach: time periods[^c-5c481f7a6695811594bb9d7d7b3325ce][^c-59d8f2723813dfdb784ca5f39caeba42]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c481f7a6695811594bb9d7d7b3325ce]: Commencement: S. 111 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-5c481f7a6695811594bb9d7d7b3325ce]: Commencement: S. 111 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-59d8f2723813dfdb784ca5f39caeba42]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2025/18/section/111) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/p)
+[^c-59d8f2723813dfdb784ca5f39caeba42]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2025/18/section/111) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/p)

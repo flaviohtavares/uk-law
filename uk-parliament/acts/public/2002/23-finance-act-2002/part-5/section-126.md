@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Climate change levy: electricity produced from coal mine methane[^key-857dd261d7d66c4d5422aedc44a4d379]
+## 126. Climate change levy: electricity produced from coal mine methane[^c-857dd261d7d66c4d5422aedc44a4d379]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-857dd261d7d66c4d5422aedc44a4d379]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/2002/23/section/126) omitted (with effect in accordance with s. 149(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 149(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/149/2/a)
+[^c-857dd261d7d66c4d5422aedc44a4d379]: Textual amendment: [S. 126](https://www.legislation.gov.uk/ukpga/2002/23/section/126) omitted (with effect in accordance with s. 149(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 149(2)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/149/2/a)

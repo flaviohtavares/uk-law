@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Modification of Part 1 of the 1965 Act[^key-1c2d92b04747c7702354b5f78c10ad5b]
+## 30. Modification of Part 1 of the 1965 Act[^c-1c2d92b04747c7702354b5f78c10ad5b]
 
 *Extent: E+W*
 
@@ -42,13 +42,13 @@ summary: ''
 
   > **PART 4 — INTERPRETATION**
   >
-  > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under articles[^key-80fc9c6dfe301c6b587d154b0cc9657e] 34 (temporary use of land for carrying out the authorised development) or 35 (temporary use of land for maintaining the authorised development) of the M3 Junction 9 Development Consent Order 2024.
+  > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under articles[^c-80fc9c6dfe301c6b587d154b0cc9657e] 34 (temporary use of land for carrying out the authorised development) or 35 (temporary use of land for maintaining the authorised development) of the M3 Junction 9 Development Consent Order 2024.
 
   .
 
 ## Annotations
 
-[^key-1c2d92b04747c7702354b5f78c10ad5b]: Commencement: Art. 30 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-1c2d92b04747c7702354b5f78c10ad5b]: Commencement: Art. 30 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
 [^f00067]: Footnote: Section 4A was inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^f00069]: Footnote: Schedule 2A was inserted by section 199 of, and paragraph 3 of Schedule 17 to, the Housing and Planning Act 2016.
 
-[^key-80fc9c6dfe301c6b587d154b0cc9657e]: Textual amendment: Word in [art. 30(5)(b)](https://www.legislation.gov.uk/uksi/2024/752/article/30/5/b) inserted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)
+[^c-80fc9c6dfe301c6b587d154b0cc9657e]: Textual amendment: Word in [art. 30(5)(b)](https://www.legislation.gov.uk/uksi/2024/752/article/30/5/b) inserted (10.10.2024) by [The M3 Junction 9 Development Consent (Correction) Order 2024 (S.I. 2024/1020)](https://www.legislation.gov.uk/uksi/2024/1020), [art. 1](https://www.legislation.gov.uk/uksi/2024/1020/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule)

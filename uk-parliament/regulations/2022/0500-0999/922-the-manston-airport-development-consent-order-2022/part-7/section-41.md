@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Certification of documents, etc.[^key-a8733d189ab814e4bb4fe40c70d33ba7]
+## 41. Certification of documents, etc.[^c-a8733d189ab814e4bb4fe40c70d33ba7]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8733d189ab814e4bb4fe40c70d33ba7]: Commencement: Art. 41 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-a8733d189ab814e4bb4fe40c70d33ba7]: Commencement: Art. 41 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)

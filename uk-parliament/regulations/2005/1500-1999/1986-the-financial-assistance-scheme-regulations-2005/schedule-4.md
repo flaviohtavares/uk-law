@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Determination of annual payments where a present payment was being received on the coming into force of the Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010[^key-75687ab9ab2aa1ee5252f03c009641fd]
+## SCHEDULE 4 — Determination of annual payments where a present payment was being received on the coming into force of the Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010[^c-75687ab9ab2aa1ee5252f03c009641fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -137,7 +137,7 @@ Where the amount of an annual payment determined in accordance with this Schedul
 
 ### 7. Annual increases to an annual payment
 
-(1) Except where there is no percentage increase in the general level of prices[^key-f164a312954f73a30262eb834e5a67de] for the period of 12 months ending with 31st May last falling before the indexation date, where the asset share determined in respect of the beneficiary was sufficient to be applied to the amounts referred to in regulation 27(7)(a)(ii) or (10)(a)(ii), a beneficiary shall be entitled, on each indexation date after the day on which the transfer notice is given, to an increase of—
+(1) Except where there is no percentage increase in the general level of prices[^c-f164a312954f73a30262eb834e5a67de] for the period of 12 months ending with 31st May last falling before the indexation date, where the asset share determined in respect of the beneficiary was sufficient to be applied to the amounts referred to in regulation 27(7)(a)(ii) or (10)(a)(ii), a beneficiary shall be entitled, on each indexation date after the day on which the transfer notice is given, to an increase of—
 
 - (a) the appropriate percentage of the amount of the underlying rate immediately before that date; or
 - (b) where the beneficiary first became entitled to an annual payment during the period of 12 months ending immediately before that date, one twelfth of that amount for each full month since the date on which the annual payment was first payable.
@@ -167,6 +167,6 @@ Where the amount of an annual payment determined in accordance with this Schedul
 
 ## Annotations
 
-[^key-75687ab9ab2aa1ee5252f03c009641fd]: Textual amendment: Sch. 4 added (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/18/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1149/schedule/2)
+[^c-75687ab9ab2aa1ee5252f03c009641fd]: Textual amendment: Sch. 4 added (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/18/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1149/schedule/2)
 
-[^key-f164a312954f73a30262eb834e5a67de]: Textual amendment: Words in [Schs. 3-7](https://www.legislation.gov.uk/uksi/2005/1986/schedule/3) substituted (31.12.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2011/839/regulation/15)
+[^c-f164a312954f73a30262eb834e5a67de]: Textual amendment: Words in [Schs. 3-7](https://www.legislation.gov.uk/uksi/2005/1986/schedule/3) substituted (31.12.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2011/839/regulation/15)

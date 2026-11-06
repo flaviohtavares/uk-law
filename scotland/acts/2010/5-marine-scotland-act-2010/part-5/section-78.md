@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Representations and hearing in relation to proposed designation order[^key-a5165d484e66c549e6ca1c5237f83a80]
+## 78. Representations and hearing in relation to proposed designation order[^c-a5165d484e66c549e6ca1c5237f83a80]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5165d484e66c549e6ca1c5237f83a80]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2010/5/section/78) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-a5165d484e66c549e6ca1c5237f83a80]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2010/5/section/78) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

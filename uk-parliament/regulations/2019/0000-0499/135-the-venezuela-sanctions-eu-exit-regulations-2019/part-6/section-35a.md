@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Director disqualification licences[^key-42f629b994178aa0b90fdebf8e5b5e2b]
+## 35A. Director disqualification licences[^c-42f629b994178aa0b90fdebf8e5b5e2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-42f629b994178aa0b90fdebf8e5b5e2b]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/uksi/2019/135/regulation/35A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/5)
+[^c-42f629b994178aa0b90fdebf8e5b5e2b]: Textual amendment: [Reg. 35A](https://www.legislation.gov.uk/uksi/2019/135/regulation/35A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/5)

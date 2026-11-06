@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. Obstructing execution of Order[^key-199a3f69bfba29e04f41fe65b93422c9]
+## 50. Obstructing execution of Order[^c-199a3f69bfba29e04f41fe65b93422c9]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any person who, without reasonable excuse, obstructs any person acting under the
 
 ## Annotations
 
-[^key-199a3f69bfba29e04f41fe65b93422c9]: Commencement: Art. 50 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-199a3f69bfba29e04f41fe65b93422c9]: Commencement: Art. 50 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Operations by public bodies etc.[^key-73c7e25cc1f9d90e5ee65a22750b4f2b]
+## 13. Operations by public bodies etc.[^c-73c7e25cc1f9d90e5ee65a22750b4f2b]
 
 *Extent: S*
 
-(1) A public body or office-holder must not carry out , or cause or permit to be carried out on land owned or occupied by the public body or office-holder,[^key-6094a2ceee638cb35a54988dca45e8c1] any operation which is likely to damage any natural feature specified in an SSSI notification except—
+(1) A public body or office-holder must not carry out , or cause or permit to be carried out on land owned or occupied by the public body or office-holder,[^c-6094a2ceee638cb35a54988dca45e8c1] any operation which is likely to damage any natural feature specified in an SSSI notification except—
 
 - (a) with the written consent of SNH given on an application under subsection (3),
 - (b) where subsection (1) of section 14 applies, or
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73c7e25cc1f9d90e5ee65a22750b4f2b]: Commencement: S. 13 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-73c7e25cc1f9d90e5ee65a22750b4f2b]: Commencement: S. 13 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-6094a2ceee638cb35a54988dca45e8c1]: Textual amendment: Words in s. 13(1) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 39(2)](https://www.legislation.gov.uk/asp/2011/6/section/39/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(p)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/p)
+[^c-6094a2ceee638cb35a54988dca45e8c1]: Textual amendment: Words in s. 13(1) inserted (29.6.2011) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 39(2)](https://www.legislation.gov.uk/asp/2011/6/section/39/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(p)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/p)

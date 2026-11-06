@@ -24,7 +24,7 @@ summary: ''
 
 Section 18
 
-### 1. Notice of intent[^key-016f39271455fc773253d9f8f41d199c]
+### 1. Notice of intent[^c-016f39271455fc773253d9f8f41d199c]
 
 (1) Before imposing a financial penalty on a person under section 18, an enforcement authority must give the person notice of its proposal to do so (a “notice of intent”).
 
@@ -35,7 +35,7 @@ Section 18
 - (c) the reasons for proposing to impose the penalty, and
 - (d) information about the right to make representations under paragraph 3.
 
-### 2. Time limits for notice of intent[^key-c30f197c8ab4c35bf752be034ab9734b]
+### 2. Time limits for notice of intent[^c-c30f197c8ab4c35bf752be034ab9734b]
 
 (1) A notice of intent may not be given to a person in respect of a breach of a leasehold house restriction after the earlier of the following—
 
@@ -48,11 +48,11 @@ Section 18
 - (b) a breach of section 1(2) occurs on the day of the assignment or (as the case may be) the agreement is entered into (or, in the case of a breach of that provision consisting of entering into an agreement to assign a lease and subsequently assigning it, the day on which the agreement is entered into);
 - (c) a breach of section 9(2) occurs on the day the marketing material is made available (or, in the case of marketing material made available in relation to the same lease on more than one occasion, the first day on which such material is made available).
 
-### 3. Right to make written representations[^key-2258805545521880c1967b2af3370663]
+### 3. Right to make written representations[^c-2258805545521880c1967b2af3370663]
 
 A person who is given a notice of intent may, within the period of 28 days beginning with the day on which the notice is given, make written representations about the proposal.
 
-### 4. Final notice[^key-580d0e3c56f7a19eed2c56eb5ef57072]
+### 4. Final notice[^c-580d0e3c56f7a19eed2c56eb5ef57072]
 
 (1) After the period allowed for representations has expired, the enforcement authority must—
 
@@ -73,7 +73,7 @@ A person who is given a notice of intent may, within the period of 28 days begin
 - (f) information about rights of appeal, and
 - (g) the consequences of failure to comply with the notice.
 
-### 5. Withdrawal or amendment of notice[^key-7a3fc22242aa76326192b7152f3885a6]
+### 5. Withdrawal or amendment of notice[^c-7a3fc22242aa76326192b7152f3885a6]
 
 An enforcement authority may at any time—
 
@@ -82,7 +82,7 @@ An enforcement authority may at any time—
 
 by giving a notice to that effect to the person to whom the notice of intent or final notice is given.
 
-### 6. Appeals[^key-d3720e0574e598d324063d25c49510d3]
+### 6. Appeals[^c-d3720e0574e598d324063d25c49510d3]
 
 (1) A person who is given a final notice may appeal to the appropriate tribunal against—
 
@@ -102,7 +102,7 @@ by giving a notice to that effect to the person to whom the notice of intent or 
 
 (6) If the appropriate tribunal varies the amount of the penalty imposed by the notice, the new amount must be an amount that the enforcement authority had power to impose.
 
-### 7. Recovery of penalty[^key-0e668a6b5ff4d74039c1ce232f5f9444]
+### 7. Recovery of penalty[^c-0e668a6b5ff4d74039c1ce232f5f9444]
 
 (1) A penalty is recoverable by the enforcement authority that imposed it, if the county court so orders, as if it were payable under an order of that court.
 
@@ -117,16 +117,16 @@ is evidence of that fact.
 
 (4) In this paragraph “**chief finance officer**” has the same meaning as in section 5 of the Local Government and Housing Act 1989.
 
-### 8. Proceeds of penalties[^key-8b518d08e9862a9c695c6c010924fa77]
+### 8. Proceeds of penalties[^c-8b518d08e9862a9c695c6c010924fa77]
 
 An enforcement authority may apply the proceeds of a penalty towards meeting the costs and expenses (whether administrative or legal) incurred in, or associated with, carrying out its enforcement functions under this Part.
 
-**9.**[^key-1527fc860db3a842f66737b7b61885e6] Any proceeds of a penalty which are not applied in accordance with paragraph 8 must be paid—
+**9.**[^c-1527fc860db3a842f66737b7b61885e6] Any proceeds of a penalty which are not applied in accordance with paragraph 8 must be paid—
 
 - (a) if the penalty was imposed in relation to a lease of a house in England, to the Secretary of State;
 - (b) if the penalty was imposed in relation to a lease of a house in Wales, to the Welsh Ministers.
 
-### 10. Manner of giving notices[^key-522312b469e7b4228a95614376515131]
+### 10. Manner of giving notices[^c-522312b469e7b4228a95614376515131]
 
 (1) The Secretary of State may by regulations make provision about—
 
@@ -135,7 +135,7 @@ An enforcement authority may apply the proceeds of a penalty towards meeting the
 
 (2) A statutory instrument containing regulations under this paragraph is subject to the negative procedure.
 
-### 11. Interpretation[^key-53145e74658b4fb76b3389a2e97988ca]
+### 11. Interpretation[^c-53145e74658b4fb76b3389a2e97988ca]
 
 In this Schedule—
 
@@ -146,24 +146,24 @@ In this Schedule—
 
 ## Annotations
 
-[^key-016f39271455fc773253d9f8f41d199c]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-016f39271455fc773253d9f8f41d199c]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c30f197c8ab4c35bf752be034ab9734b]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c30f197c8ab4c35bf752be034ab9734b]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-2258805545521880c1967b2af3370663]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2258805545521880c1967b2af3370663]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-580d0e3c56f7a19eed2c56eb5ef57072]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-580d0e3c56f7a19eed2c56eb5ef57072]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-7a3fc22242aa76326192b7152f3885a6]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-7a3fc22242aa76326192b7152f3885a6]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d3720e0574e598d324063d25c49510d3]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d3720e0574e598d324063d25c49510d3]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-0e668a6b5ff4d74039c1ce232f5f9444]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0e668a6b5ff4d74039c1ce232f5f9444]: Commencement: Sch. 2 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-8b518d08e9862a9c695c6c010924fa77]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8b518d08e9862a9c695c6c010924fa77]: Commencement: Sch. 2 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-1527fc860db3a842f66737b7b61885e6]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1527fc860db3a842f66737b7b61885e6]: Commencement: Sch. 2 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-522312b469e7b4228a95614376515131]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-522312b469e7b4228a95614376515131]: Commencement: Sch. 2 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-53145e74658b4fb76b3389a2e97988ca]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-53145e74658b4fb76b3389a2e97988ca]: Commencement: Sch. 2 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

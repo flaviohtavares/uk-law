@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**6.**[^key-52bfc5cdd28e0a2733aed4cbc9e91fe0] In Part 3—
+**6.**[^c-52bfc5cdd28e0a2733aed4cbc9e91fe0] In Part 3—
 
 - (a) in rule 3.4, in paragraph (4), in subparagraph (c), for “he” substitute “the claimant”;
 - (b) in the table of contents, for the entry for rule 3.5A substitute “Judgment without trial after striking out a claim in the County Court Money Claims Centre”;
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52bfc5cdd28e0a2733aed4cbc9e91fe0]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/407/rule/6) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-52bfc5cdd28e0a2733aed4cbc9e91fe0]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2014/407/rule/6) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

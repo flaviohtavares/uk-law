@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Protection of occupiers against eviction and harassment, false information etc.[^key-7b92918d9594498c2dcca79cb92475e5]
+## 42. Protection of occupiers against eviction and harassment, false information etc.[^c-7b92918d9594498c2dcca79cb92475e5]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ and (in either case) the person knows, or has reasonable cause to believe, that 
 
 ## Annotations
 
-[^key-7b92918d9594498c2dcca79cb92475e5]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2013/6/section/42) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-7b92918d9594498c2dcca79cb92475e5]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2013/6/section/42) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

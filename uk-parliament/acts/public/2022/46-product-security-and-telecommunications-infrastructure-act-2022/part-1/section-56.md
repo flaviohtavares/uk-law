@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Meaning of other expressions used in Part 1[^key-58c7b46a2d27803d39aa96b2712d6f9f][^key-8abb2e82b63e77f9a97dddb5c536ebf1]
+## 56. Meaning of other expressions used in Part 1[^c-58c7b46a2d27803d39aa96b2712d6f9f][^c-8abb2e82b63e77f9a97dddb5c536ebf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-58c7b46a2d27803d39aa96b2712d6f9f]: Commencement: S. 56 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-58c7b46a2d27803d39aa96b2712d6f9f]: Commencement: S. 56 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-8abb2e82b63e77f9a97dddb5c536ebf1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/46/section/56) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-8abb2e82b63e77f9a97dddb5c536ebf1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2022/46/section/56) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

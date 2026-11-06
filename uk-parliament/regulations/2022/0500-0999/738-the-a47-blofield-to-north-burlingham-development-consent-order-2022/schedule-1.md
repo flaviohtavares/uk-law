@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-3de9a0e9ab5d5a3480494414e7f91b60]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-3de9a0e9ab5d5a3480494414e7f91b60]
 
 *Extent: E+W+S*
 
 Article 2
 
-[^key-3de9a0e9ab5d5a3480494414e7f91b60]The authorised development is a nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general)[^f00083] and 22 (highways)[^f00084] of the 2008 Act and associated development as defined in section 115(2) (development for which development consent may be granted)[^f00085] of the 2008 Act, comprising—
+[^c-3de9a0e9ab5d5a3480494414e7f91b60]The authorised development is a nationally significant infrastructure project as defined in sections 14 (nationally significant infrastructure projects: general)[^f00083] and 22 (highways)[^f00084] of the 2008 Act and associated development as defined in section 115(2) (development for which development consent may be granted)[^f00085] of the 2008 Act, comprising—
 
-### In the administrative areas of Norfolk County Council and Broadland District Council[^key-3de9a0e9ab5d5a3480494414e7f91b60]
+### In the administrative areas of Norfolk County Council and Broadland District Council[^c-3de9a0e9ab5d5a3480494414e7f91b60]
 
 **Work No. 1** – alteration of the A47 shown on sheet 1-8 of the works plans, of 4570 metres in length, from a point 361 metres west of the junction of the existing A47 with Yarmouth Road over the existing A47 to a point 203 metres east of the junction of existing A47 with the unclassified road known as the Windle and including a retaining wall west of Yarmouth Road, Blofield, a lay-by, bunds and noise barriers;
 
@@ -74,7 +74,7 @@ Article 2
 
 **Work No. 21** – turning head on Lingwood Road south of Work No. 1, west of North Burlingham and shown on sheet no. 4 of the works plans;
 
-**Work No. 22** – installation of ducts, cables and apparatus for utilities and electronic communications code operators and potable water pipes of 103 metres in length, between the existing A47 and Lingwood Road, to the west of North Burlingham, shown on sheet numbers 3 and 4[^key-532cccdad05ede870a5a30e2d2c7e145] of the works plans;
+**Work No. 22** – installation of ducts, cables and apparatus for utilities and electronic communications code operators and potable water pipes of 103 metres in length, between the existing A47 and Lingwood Road, to the west of North Burlingham, shown on sheet numbers 3 and 4[^c-532cccdad05ede870a5a30e2d2c7e145] of the works plans;
 
 **Work No. 23** – cycle track, access track, soakaway, drivable swale and diversion of existing permissive equestrian and walking route south of Work No. 1, west of North Burlingham, and shown on sheet numbers 4 and 5 of the works plans;
 
@@ -146,7 +146,7 @@ In connection with the construction of any of those works mentioned above, such 
 
 ## Annotations
 
-[^key-3de9a0e9ab5d5a3480494414e7f91b60]: Commencement: Sch. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-3de9a0e9ab5d5a3480494414e7f91b60]: Commencement: Sch. 1 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00083]: Footnote: There are amendments to section 14 which are not relevant to this Order.
 
@@ -154,4 +154,4 @@ In connection with the construction of any of those works mentioned above, such 
 
 [^f00085]: Footnote: Section 115(2) was amended by section 160(1) and (3) of the Housing and Planning Act 2016. There are other amendments to section 115(2) which are not relevant to this Order.
 
-[^key-532cccdad05ede870a5a30e2d2c7e145]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/738/schedule/1) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)
+[^c-532cccdad05ede870a5a30e2d2c7e145]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2022/738/schedule/1) substituted (31.7.2023) by [The A47 Blofield to North Burlingham Development Consent (Correction) Order 2023 (S.I. 2023/885)](https://www.legislation.gov.uk/uksi/2023/885), [art. 1](https://www.legislation.gov.uk/uksi/2023/885/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/885/schedule)

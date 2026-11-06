@@ -70,7 +70,7 @@ Section 1.
 
 ### Armed Forces
 
-**1.**[^key-012221c5246674db88c2b333e76dd015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-012221c5246674db88c2b333e76dd015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** In the [^c702875]Visiting Forces Act 1952, at the end of section 1(1)(*a*) (countries to which that Act applies) there shall be added the words “Bangladesh or”; and, until express provision with respect to Bangladesh is made by Order in Council under section 8 of that Act (application to visiting forces of law relating to home forces), any such Order for the time being in force shall be deemed to apply to visiting forces of Bangladesh.
 
@@ -122,7 +122,7 @@ Section 1.
 
 [^c702870]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1973/49/section/2) repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
 
-[^key-012221c5246674db88c2b333e76dd015]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-012221c5246674db88c2b333e76dd015]: Textual amendment: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1973/49/schedule/paragraph/1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in S.I. 2009/1059); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c702875]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 

@@ -27,14 +27,14 @@ summary: ''
 
 (2) A person commits an offence if, without reasonable excuse, he incurs any expenses in contravention of subsection (1).
 
-(3)[^key-dcd9390585ef7fb99a08ff469baca6fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dcd9390585ef7fb99a08ff469baca6fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f30f40d6eca869460c3fcce71471072a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f30f40d6eca869460c3fcce71471072a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c10574611]: Commencement: S. 90 wholly in force at 16.2.2001; s. 90 not in force at Royal Assent, see s. 163(2); s. 90 in force at 16.2.2001 by [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 2](https://www.legislation.gov.uk/uksi/2001/222/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/I) (subject to transitional provisions in [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2001/222/schedule/1/part/II))
 
-[^key-dcd9390585ef7fb99a08ff469baca6fb]: Textual amendment: [S. 90(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/90/3) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/5), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-dcd9390585ef7fb99a08ff469baca6fb]: Textual amendment: [S. 90(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/90/3) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/5), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-f30f40d6eca869460c3fcce71471072a]: Textual amendment: [S. 90(4)](https://www.legislation.gov.uk/ukpga/2000/41/section/90/4) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-f30f40d6eca869460c3fcce71471072a]: Textual amendment: [S. 90(4)](https://www.legislation.gov.uk/ukpga/2000/41/section/90/4) repealed (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/1) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

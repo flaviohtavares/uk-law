@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This section applies if the Auditor General for Wales[^key-cb29386c3f6480ab98c21539c4b718cb] has concluded his audit of a body’s accounts under this Chapter.
+(1) This section applies if the Auditor General for Wales[^c-cb29386c3f6480ab98c21539c4b718cb] has concluded his audit of a body’s accounts under this Chapter.
 
 (2) If a statement of accounts is required to be prepared by regulations under section 39, the Auditor General for Wales must enter on the statement—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb29386c3f6480ab98c21539c4b718cb]: Textual amendment: Words in [s. 23](https://www.legislation.gov.uk/ukpga/2004/23/section/23) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 28](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/28) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-cb29386c3f6480ab98c21539c4b718cb]: Textual amendment: Words in [s. 23](https://www.legislation.gov.uk/ukpga/2004/23/section/23) substituted (1.4.2014) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [s. 35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2), [Sch. 4 para. 28](https://www.legislation.gov.uk/anaw/2013/3/schedule/4/paragraph/28) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

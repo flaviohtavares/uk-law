@@ -52,7 +52,7 @@ Section 59(1).
 
 *Extent: E+W+S*
 
-**5.**[^key-f6091373d473c6dd1885e8c5d50d8cb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f6091373d473c6dd1885e8c5d50d8cb7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Trade Descriptions Act 1968 (c. 29)
 
@@ -123,7 +123,7 @@ Section 59(1).
 
 *Extent: E+W+S*
 
-**15.**[^key-4860955e358c83dc570d2f46de9d2027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4860955e358c83dc570d2f46de9d2027] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Poisons Act 1972 (c. 66)
 
@@ -158,7 +158,7 @@ for the words “section 13 of the [^c10206111]Food Act 1984” there shall be s
 
 *Extent: E+W+S*
 
-**19.** In section 23(4) of the Licensing (Scotland) Act 1976 (application for new licence), for the words “section 13 of the *(Extent: S)* *(affected by repeal, see note)*[^key-cf8c89ff0a164e2dc8d431ccfc55501a] [^c10206121]Food and Drugs (Scotland) Act 1956” there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^key-cf8c89ff0a164e2dc8d431ccfc55501a] “ section 16 of the Food Safety Act 1990 ” *(Extent: S)* *(affected by repeal, see note)*[^key-cf8c89ff0a164e2dc8d431ccfc55501a]. *(Extent: S)* *(affected by repeal, see note)*[^key-cf8c89ff0a164e2dc8d431ccfc55501a]
+**19.** In section 23(4) of the Licensing (Scotland) Act 1976 (application for new licence), for the words “section 13 of the *(Extent: S)* *(affected by repeal, see note)*[^c-cf8c89ff0a164e2dc8d431ccfc55501a] [^c10206121]Food and Drugs (Scotland) Act 1956” there shall be substituted *(Extent: S)* *(affected by repeal, see note)*[^c-cf8c89ff0a164e2dc8d431ccfc55501a] “ section 16 of the Food Safety Act 1990 ” *(Extent: S)* *(affected by repeal, see note)*[^c-cf8c89ff0a164e2dc8d431ccfc55501a]. *(Extent: S)* *(affected by repeal, see note)*[^c-cf8c89ff0a164e2dc8d431ccfc55501a]
 
 ### The Weights and Measures &c. Act 1976 (c. 77)
 
@@ -334,13 +334,13 @@ for the words “section 13 of the [^c10206111]Food Act 1984” there shall be s
 
 ## Annotations
 
-[^key-f6091373d473c6dd1885e8c5d50d8cb7]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/5) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 25(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/25/2)
+[^c-f6091373d473c6dd1885e8c5d50d8cb7]: Textual amendment: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/5) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 25(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/25/2)
 
 [^c10206041]: Marginal citation: [1956 c. 30](https://www.legislation.gov.uk/ukpga/1956/30).
 
 [^c10206051]: Textual amendment: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/14) repealed (1. 10. 1992) by [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/2), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch.4 Pt. I](https://www.legislation.gov.uk/ukpga/1992/53/schedule/4/part/I)
 
-[^key-4860955e358c83dc570d2f46de9d2027]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-4860955e358c83dc570d2f46de9d2027]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/15) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
 
 [^c10206061]: Marginal citation: [1956 c. 30](https://www.legislation.gov.uk/ukpga/1956/30).
 
@@ -350,7 +350,7 @@ for the words “section 13 of the [^c10206111]Food Act 1984” there shall be s
 
 [^c10206111]: Marginal citation: [1984 c. 30](https://www.legislation.gov.uk/ukpga/1984/30).
 
-[^key-cf8c89ff0a164e2dc8d431ccfc55501a]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/19) repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-cf8c89ff0a164e2dc8d431ccfc55501a]: Textual amendment: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/1990/16/schedule/3/paragraph/19) repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c10206121]: Marginal citation: [1956 c. 30](https://www.legislation.gov.uk/ukpga/1956/30).
 

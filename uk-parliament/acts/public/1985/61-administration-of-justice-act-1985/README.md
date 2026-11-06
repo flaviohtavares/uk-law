@@ -61,7 +61,7 @@ An Act to make further provision with respect to the administration of justice a
 
 - [Section 8 — Other amendments of Solicitors Act 1974.](part-i/section-8.md)
 
-#### Legal services bodies and sole solicitors’ practices[^key-adaa241b72d299a26b47e0fedcae9e7d]
+#### Legal services bodies and sole solicitors’ practices[^c-adaa241b72d299a26b47e0fedcae9e7d]
 
 *Extent: E+W*
 
@@ -243,7 +243,7 @@ SCHEDULES
 
 [^c20409981]: Modification: Act: functions transferred (19.8.2003) by [The Secretary of State for Constitutional Affairs Order 2003 (S.I. 2003/1887)](https://www.legislation.gov.uk/uksi/2003/1887), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1887/article/1/2), [4](https://www.legislation.gov.uk/uksi/2003/1887/article/4) {Sch 1}
 
-[^key-adaa241b72d299a26b47e0fedcae9e7d]: Textual amendment: [S. 9 crossheading](https://www.legislation.gov.uk/ukpga/1985/61/part/I/crossheading/incorporated-practices) substituted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/17) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/401/article/4), [5](https://www.legislation.gov.uk/uksi/2015/401/article/5))
+[^c-adaa241b72d299a26b47e0fedcae9e7d]: Textual amendment: [S. 9 crossheading](https://www.legislation.gov.uk/ukpga/1985/61/part/I/crossheading/incorporated-practices) substituted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/17) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/401/article/4), [5](https://www.legislation.gov.uk/uksi/2015/401/article/5))
 
 [^c20408111]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1985/61/part/2): power to amend conferred (1.4.1991 for certain purposes, otherwise 7.12.2004) by [Courts and Legal Services Act 1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 53(8)(a)](https://www.legislation.gov.uk/ukpga/1990/41/section/53/8/a), [124](https://www.legislation.gov.uk/ukpga/1990/41/section/124) (with [s. 59(1)](https://www.legislation.gov.uk/ukpga/1990/41/section/59/1)); [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch](https://www.legislation.gov.uk/uksi/1991/608/schedule); [S.I. 2004/2950](https://www.legislation.gov.uk/uksi/2004/2950), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2950/article/2/a)
 

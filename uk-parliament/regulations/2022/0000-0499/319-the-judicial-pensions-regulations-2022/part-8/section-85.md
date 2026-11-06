@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Reduction in pensions in cases of wide age disparity[^key-bd29fe61e52c0ea4c855d01f98accb9a]
+## 85. Reduction in pensions in cases of wide age disparity[^c-bd29fe61e52c0ea4c855d01f98accb9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ where N is the number of whole years by which the surviving adult is younger tha
 
 ## Annotations
 
-[^key-bd29fe61e52c0ea4c855d01f98accb9a]: Commencement: Reg. 85 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-bd29fe61e52c0ea4c855d01f98accb9a]: Commencement: Reg. 85 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

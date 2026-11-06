@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**3A.**[^key-3551c3fabd51cfdd40ce0077515e44c7] The following categories of looked after child are prescribed for the purposes of section 83(2B) of the 2014 Act—
+**3A.**[^c-3551c3fabd51cfdd40ce0077515e44c7] The following categories of looked after child are prescribed for the purposes of section 83(2B) of the 2014 Act—
 
 - (a) any child who has been placed for adoption under the Adoption and Children Act 2002 unless the child falls within regulation 56;
 - (b) any child in relation to whom the circumstances set out in regulation 62(2) apply;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3551c3fabd51cfdd40ce0077515e44c7]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/wsi/2015/1818/part/1A) inserted (1.9.2021) by [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2021 (S.I. 2021/860)](https://www.legislation.gov.uk/wsi/2021/860), [regs. 1](https://www.legislation.gov.uk/wsi/2021/860/regulation/1), [5](https://www.legislation.gov.uk/wsi/2021/860/regulation/5)
+[^c-3551c3fabd51cfdd40ce0077515e44c7]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/wsi/2015/1818/part/1A) inserted (1.9.2021) by [The Care Planning, Placement and Case Review (Wales) (Amendment) Regulations 2021 (S.I. 2021/860)](https://www.legislation.gov.uk/wsi/2021/860), [regs. 1](https://www.legislation.gov.uk/wsi/2021/860/regulation/1), [5](https://www.legislation.gov.uk/wsi/2021/860/regulation/5)

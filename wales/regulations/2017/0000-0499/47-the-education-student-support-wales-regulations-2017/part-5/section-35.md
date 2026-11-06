@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Maintenance grant[^key-fa67e639d46ed07d225614037a66f2ab]
+## 35. Maintenance grant[^c-fa67e639d46ed07d225614037a66f2ab]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa67e639d46ed07d225614037a66f2ab]: Commencement: Reg. 35 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-fa67e639d46ed07d225614037a66f2ab]: Commencement: Reg. 35 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

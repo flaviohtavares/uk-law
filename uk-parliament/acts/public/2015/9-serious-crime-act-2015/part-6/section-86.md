@@ -62,14 +62,14 @@ do not apply in the case of a financial reporting order made before section 50(1
 
 (11) Subsection (7) of section 68 and paragraph 2 of Schedule 4 do not apply in the case of an offence proceedings for which are started before the commencement of that subsection.
 
-(12)[^key-7f6e7b9517238b39e4e3f341119c3527] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-7f6e7b9517238b39e4e3f341119c3527] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) Before the day on which section 109 of the Courts Reform (Scotland) Act 2014 (asp 18) (abolition of appeal from a sheriff to the sheriff principal) comes into force—
 
 - (a) the reference to the Sheriff Appeal Court in subsection (3)(b) of section 62 is to be read as a reference to the sheriff principal;
 - (b) the references to the court in subsections (5) to (7) of that section are to be read as including references to the sheriff principal.
 
-(14) In relation to an offence committed before 2 May 2022[^key-b233a215ee8c412ba18e5ce0959e112e], a reference to 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-e99711bb504f7769295c0a285243a1a3] the general limit in a magistrates’ court *(Extent: E+W)* in the following provisions is to be read as a reference to 6 months—
+(14) In relation to an offence committed before 2 May 2022[^c-b233a215ee8c412ba18e5ce0959e112e], a reference to 12 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-e99711bb504f7769295c0a285243a1a3] the general limit in a magistrates’ court *(Extent: E+W)* in the following provisions is to be read as a reference to 6 months—
 
 - (a) in the Sexual Offences Act 2003, subsection (3)(a) of the section 15A inserted by section 67 above;
 - (b) section 69(3)(a);
@@ -97,8 +97,8 @@ do not apply in the case of a financial reporting order made before section 50(1
 
 ## Annotations
 
-[^key-7f6e7b9517238b39e4e3f341119c3527]: Textual amendment: S. 86(12) repealed (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/e/iv)
+[^c-7f6e7b9517238b39e4e3f341119c3527]: Textual amendment: S. 86(12) repealed (22.7.2020) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2020/766](https://www.legislation.gov.uk/uksi/2020/766), [reg. 2(e)(iv)](https://www.legislation.gov.uk/uksi/2020/766/regulation/2/e/iv)
 
-[^key-b233a215ee8c412ba18e5ce0959e112e]: Textual amendment: Words in [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-b233a215ee8c412ba18e5ce0959e112e]: Textual amendment: Words in [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-e99711bb504f7769295c0a285243a1a3]: Textual amendment: Words in [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-e99711bb504f7769295c0a285243a1a3]: Textual amendment: Words in [s. 86(14)](https://www.legislation.gov.uk/ukpga/2015/9/section/86/14) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

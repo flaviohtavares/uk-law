@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76.4. Costs out of central funds[^key-1f5de624ed078634423a7e217d560527]
+## 76.4. Costs out of central funds[^c-1f5de624ed078634423a7e217d560527]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f5de624ed078634423a7e217d560527]: Textual amendment: Rules revoked (5.10.2015) by [The Criminal Procedure Rules 2015 (S.I. 2015/1490)](https://www.legislation.gov.uk/uksi/2015/1490), [Preamble](https://www.legislation.gov.uk/uksi/2015/1490/introduction) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2015/1490/article/2.1))
+[^c-1f5de624ed078634423a7e217d560527]: Textual amendment: Rules revoked (5.10.2015) by [The Criminal Procedure Rules 2015 (S.I. 2015/1490)](https://www.legislation.gov.uk/uksi/2015/1490), [Preamble](https://www.legislation.gov.uk/uksi/2015/1490/introduction) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2015/1490/article/2.1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

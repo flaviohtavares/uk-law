@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Exemption: research and experiments[^M_I_61c29872-de65-4eef-e260-14d84ebc1301][^key-b914b3cdfadecd558049fff080bdf449]
+## 85. Exemption: research and experiments[^M_I_61c29872-de65-4eef-e260-14d84ebc1301][^c-b914b3cdfadecd558049fff080bdf449]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purposes of section 82(1)(b), a person is exempt from the approval requi
 
 [^M_I_61c29872-de65-4eef-e260-14d84ebc1301]: Commencement: S. 85 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-b914b3cdfadecd558049fff080bdf449]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/30/section/85) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-b914b3cdfadecd558049fff080bdf449]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/30/section/85) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

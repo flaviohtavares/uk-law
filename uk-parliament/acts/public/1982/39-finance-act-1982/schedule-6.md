@@ -48,7 +48,7 @@ the “**1972 Act**” means the [^c13234831]Miscellaneous Transferred Excise Du
 
 .
 
-### Part IV — Bingo Duty[^key-8b3fa60f91b5380974964f68a7086641]
+### Part IV — Bingo Duty[^c-8b3fa60f91b5380974964f68a7086641]
 
 ### Part V — Gaming Machine Licence Duty
 
@@ -107,7 +107,7 @@ the “**1972 Act**” means the [^c13234831]Miscellaneous Transferred Excise Du
 
 [^c13234841]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/1982/39/schedule/6/paragraph/2) repealed by [Finance Act 1990 (c. 29, SIF 12:2)](https://www.legislation.gov.uk/ukpga/1990/29), [s. 132](https://www.legislation.gov.uk/ukpga/1990/29/section/132), [Sch. 19 Pt. I](https://www.legislation.gov.uk/ukpga/1990/29/schedule/19/part/I)
 
-[^key-8b3fa60f91b5380974964f68a7086641]: Textual amendment: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/ukpga/1982/39/schedule/6/part/4) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 2(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/2/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-8b3fa60f91b5380974964f68a7086641]: Textual amendment: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/ukpga/1982/39/schedule/6/part/4) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 2(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/2/b) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
 [^c13234851]: Textual amendment: [Sch. 6 paras. 6–8](https://www.legislation.gov.uk/ukpga/1982/39/schedule/6/paragraph/6) repealed by [Finance Act 1984 (c. 43, SIF 12:2)](https://www.legislation.gov.uk/ukpga/1984/43), [s. 128(6)](https://www.legislation.gov.uk/ukpga/1984/43/section/128/6), [Sch. 23 Pt. II](https://www.legislation.gov.uk/ukpga/1984/43/schedule/23/part/II)
 

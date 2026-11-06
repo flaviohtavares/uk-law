@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Tax measures[^key-be560239a5fbc4ee1fbea546ae5b1020][^key-422880a13bbd0f07d2e06913575a3deb]
+## 49. Tax measures[^c-be560239a5fbc4ee1fbea546ae5b1020][^c-422880a13bbd0f07d2e06913575a3deb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The subsidy control requirements do not apply to the giving of a subsidy where t
 
 ## Annotations
 
-[^key-be560239a5fbc4ee1fbea546ae5b1020]: Commencement: S. 49 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-be560239a5fbc4ee1fbea546ae5b1020]: Commencement: S. 49 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-422880a13bbd0f07d2e06913575a3deb]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2022/23/section/49) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-422880a13bbd0f07d2e06913575a3deb]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2022/23/section/49) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

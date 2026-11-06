@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-0700ab5173aaa5788af54e6e0dbaccc9]
+## 2. Interpretation[^c-0700ab5173aaa5788af54e6e0dbaccc9]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ In these Regulations—
 
 ## Annotations
 
-[^key-0700ab5173aaa5788af54e6e0dbaccc9]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-0700ab5173aaa5788af54e6e0dbaccc9]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2014/2336](https://www.legislation.gov.uk/uksi/2014/2336).
 

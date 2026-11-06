@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 258. “Enactment”[^key-41fd82eb11a5b9083d5e03b0dc85b06f]
+## 258. “Enactment”[^c-41fd82eb11a5b9083d5e03b0dc85b06f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Act “**enactment**” includes—
 
 ## Annotations
 
-[^key-41fd82eb11a5b9083d5e03b0dc85b06f]: Commencement: S. 258 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/13)
+[^c-41fd82eb11a5b9083d5e03b0dc85b06f]: Commencement: S. 258 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/13)

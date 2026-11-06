@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 362BP. Review by OFCOM[^key-e4103f787fcf1ad554323202f39002ff]
+## 362BP. Review by OFCOM[^c-e4103f787fcf1ad554323202f39002ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the Secretary of State must request OFCOM to prepare a report that reviews the a
 
 ## Annotations
 
-[^key-e4103f787fcf1ad554323202f39002ff]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/2003/21/part/3B) inserted (23.8.2024 except for the insertion of ss 362BI, 362BJ, 362BN) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/48/1), [55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)
+[^c-e4103f787fcf1ad554323202f39002ff]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/2003/21/part/3B) inserted (23.8.2024 except for the insertion of ss 362BI, 362BJ, 362BN) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 48(1)](https://www.legislation.gov.uk/ukpga/2024/15/section/48/1), [55(3)(f)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/f); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(s)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/s)

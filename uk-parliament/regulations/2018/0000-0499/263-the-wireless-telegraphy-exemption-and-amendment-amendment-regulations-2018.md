@@ -47,7 +47,7 @@ Before making these Regulations, OFCOM have given notice of their proposal to do
 
 These Regulations may be cited as the Wireless Telegraphy (Exemption and Amendment) (Amendment) Regulations 2018 and shall come into force on 21st March 2018.
 
-## 2. Interpretation[^key-12fa8a29c1860c7c1ded616af7a0a5a6]
+## 2. Interpretation[^c-12fa8a29c1860c7c1ded616af7a0a5a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -55,7 +55,7 @@ These Regulations may be cited as the Wireless Telegraphy (Exemption and Amendme
 
 (1) The regulations specified in the Schedule are revoked to the extent specified.
 
-(2)[^key-13bfc204306cea282290fdb87ed94673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-13bfc204306cea282290fdb87ed94673] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Philip Marnick
 
@@ -91,8 +91,8 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c22933781]: Marginal citation: [Section 8(3)](https://www.legislation.gov.uk/uksi/2018/263/section/8/3) and section 122(7) were extended to the Bailiwick of Guernsey by article 2 of the [Wireless Telegraphy (Guernsey) Order 2006 (S.I. 2006/3325)](https://www.legislation.gov.uk/uksi/2006/3325); to the Bailiwick of Jersey by article 2 of the [Wireless Telegraphy (Jersey) Order 2006 (S.I. 2006/3324)](https://www.legislation.gov.uk/uksi/2006/3324); and to the Isle of Man by article 2 of the [Wireless Telegraphy (Isle of Man) Order 2007 (S.I. 2007/278)](https://www.legislation.gov.uk/uksi/2007/278).
 
-[^key-12fa8a29c1860c7c1ded616af7a0a5a6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/263/regulation/2) revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-12fa8a29c1860c7c1ded616af7a0a5a6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/263/regulation/2) revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
-[^key-13bfc204306cea282290fdb87ed94673]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/263/regulation/3/2) revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-13bfc204306cea282290fdb87ed94673]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/263/regulation/3/2) revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
 [^c22933801]: Marginal citation: OJ No L 214, 8.8.2017, p3.

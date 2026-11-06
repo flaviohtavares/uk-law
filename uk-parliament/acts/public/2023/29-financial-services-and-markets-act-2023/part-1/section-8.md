@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Designated activities[^key-41935b1d6d8a2d4985ee272846a3a6a2][^key-bac22239722c142304fd4090b26b1938]
+## 8. Designated activities[^c-41935b1d6d8a2d4985ee272846a3a6a2][^c-bac22239722c142304fd4090b26b1938]
 
 *Extent: E+W+S+N.I.*
 
@@ -249,6 +249,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41935b1d6d8a2d4985ee272846a3a6a2]: Commencement: S. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-41935b1d6d8a2d4985ee272846a3a6a2]: Commencement: S. 8 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bac22239722c142304fd4090b26b1938]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/29/section/8) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)
+[^c-bac22239722c142304fd4090b26b1938]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/29/section/8) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)

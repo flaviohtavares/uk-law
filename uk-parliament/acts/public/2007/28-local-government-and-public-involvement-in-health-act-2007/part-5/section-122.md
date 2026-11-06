@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Overview and scrutiny committees: reports and recommendations[^key-82eb514dfeafc32fdf1523a4cc8df404]
+## 122. Overview and scrutiny committees: reports and recommendations[^c-82eb514dfeafc32fdf1523a4cc8df404]
 
 *Extent: E+W*
 
@@ -156,4 +156,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82eb514dfeafc32fdf1523a4cc8df404]: Commencement: S. 122 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/d)
+[^c-82eb514dfeafc32fdf1523a4cc8df404]: Commencement: S. 122 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(d)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/d)

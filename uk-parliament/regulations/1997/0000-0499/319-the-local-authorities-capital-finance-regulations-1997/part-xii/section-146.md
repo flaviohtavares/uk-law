@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Increase in housing component where minimum revenue provision in the last year was nil[^key-e132064f9601939388e07ade031adac1]
+## 146. Increase in housing component where minimum revenue provision in the last year was nil[^c-e132064f9601939388e07ade031adac1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For the purposes of regulation 143, where the authority’s minimum revenue prov
 
 ## Annotations
 
-[^key-e132064f9601939388e07ade031adac1]: Commencement: Reg. 146 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e132064f9601939388e07ade031adac1]: Commencement: Reg. 146 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

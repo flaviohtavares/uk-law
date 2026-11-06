@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Overhang[^key-fe4e0284ec0dcf47661c8b1506ec6107]
+## 11. Overhang[^c-fe4e0284ec0dcf47661c8b1506ec6107]
 
 *Extent: E+W+S*
 
@@ -39,10 +39,10 @@ TABLE
 
 (2) In the case of an agricultural motor vehicle the distance measured horizontally and parallel to the longitudinal axis of the rear portion of the vehicle between the transverse planes passing through the rearmost point of the vehicle and through the centre of the rear or the rearmost axle shall not exceed 3 m.
 
-(3)[^key-f1841d714b1bf87dc7996635a0eab195] A heavy motor car shall be taken to comply with the requirements of paragraph (1) if it meets the requirements of paragraph 7.6.2 of Annex I of Community Directive 97/27.
+(3)[^c-f1841d714b1bf87dc7996635a0eab195] A heavy motor car shall be taken to comply with the requirements of paragraph (1) if it meets the requirements of paragraph 7.6.2 of Annex I of Community Directive 97/27.
 
 ## Annotations
 
-[^key-fe4e0284ec0dcf47661c8b1506ec6107]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1986/1078/regulation/11) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-fe4e0284ec0dcf47661c8b1506ec6107]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1986/1078/regulation/11) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-f1841d714b1bf87dc7996635a0eab195]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/11/3) inserted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1188/regulation/6)
+[^c-f1841d714b1bf87dc7996635a0eab195]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/11/3) inserted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/1188/regulation/6)

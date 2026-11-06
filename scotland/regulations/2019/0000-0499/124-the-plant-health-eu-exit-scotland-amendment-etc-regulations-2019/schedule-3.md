@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]
+## SCHEDULE 3[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]
 
 *Extent: S*
 
@@ -24,80 +24,80 @@ summary: ''
 
 Regulation 68
 
-> **SCHEDULE 15 — Potato Cyst Nematode[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **SCHEDULE 15 — Potato Cyst Nematode[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > Article 39(6)
 >
-> **1. Interpretation[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **1. Interpretation[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2. Official testing[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **2. Official testing[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Official investigations and surveys[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **3. Official investigations and surveys[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Official records[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **11.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **12.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **13.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **14. Official designation[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **10. Official records[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **15. Prohibitions on planting and storage in infested sampling units[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **11.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **12.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **13.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **14. Official designation[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **16.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **17.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **18. Control measures for ware potatoes[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **15. Prohibitions on planting and storage in infested sampling units[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **19.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **16.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **20. Controls on contaminated seed potatoes and susceptible material.[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **17.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **21. Controls on potatoes for industrial processing or grading[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **18. Control measures for ware potatoes[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **22.**[^key-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **19.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **23. Controls on contaminated susceptible bulbs and susceptible plants[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **20. Controls on contaminated seed potatoes and susceptible material.[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **24. Further investigations[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+> **21. Controls on potatoes for industrial processing or grading[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **22.**[^c-ccb5eaa86cc50e1f37c0ef39e434ae30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **23. Controls on contaminated susceptible bulbs and susceptible plants[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **24. Further investigations[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-ccb5eaa86cc50e1f37c0ef39e434ae30]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [reg. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/b), [sch.](https://www.legislation.gov.uk/ssi/2020/466/schedule) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Statement of offence[^key-9ebd2e6eb151014055480cbb168d6631]
+## 100. Statement of offence[^c-9ebd2e6eb151014055480cbb168d6631]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ebd2e6eb151014055480cbb168d6631]: Textual amendment: [Rules 100-101B](https://www.legislation.gov.uk/uksi/1981/552/rule/100) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(n)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/n)
+[^c-9ebd2e6eb151014055480cbb168d6631]: Textual amendment: [Rules 100-101B](https://www.legislation.gov.uk/uksi/1981/552/rule/100) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(n)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/n)

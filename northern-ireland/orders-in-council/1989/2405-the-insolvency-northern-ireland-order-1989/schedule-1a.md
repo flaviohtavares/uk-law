@@ -66,8 +66,8 @@ summary: ''
 
 **3.** (1) An investment is also a capital market investment for the purposes of Article 59B if it consists of a bond or commercial paper issued to one or more of the following—
 
-- (a) an investment professional within the meaning of article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-625fe23ba7ceaf299a8d0298564ec01c],
-- (b) a person who is, when the agreement mentioned in Article 59B(1) is entered into, a [^key-25f15a2dcfbc24061c552d36f9ed818c]... high net worth individual in relation to a communication within the meaning of article 48(2) of that order,
+- (a) an investment professional within the meaning of article 19(5) of the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-625fe23ba7ceaf299a8d0298564ec01c],
+- (b) a person who is, when the agreement mentioned in Article 59B(1) is entered into, a [^c-25f15a2dcfbc24061c552d36f9ed818c]... high net worth individual in relation to a communication within the meaning of article 48(2) of that order,
 - (c) a person to whom article 49(2) of that order applies (high net worth company, &c.),
 - (d) a person who is, when the agreement mentioned in Article 59B(1) is entered into, a certified sophisticated investor in relation to a communication within the meaning of article 50(1) of that order, and
 - (e) a person in a State other than the United Kingdom who under the law of that State is not prohibited from investing in bonds or commercial paper.
@@ -178,9 +178,9 @@ summary: ''
 
 [^c22529641]: Textual amendment: Words in [Sch. 1A para. 2(1)(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/1A/paragraph/2/1/a) inserted (24.2.2010) by [Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 4](https://www.legislation.gov.uk/uksi/2010/86/article/4), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/4/a)
 
-[^key-625fe23ba7ceaf299a8d0298564ec01c]: Textual amendment: Word in [Sch. 1A para. 3(1)(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/1A/paragraph/3/1/a) substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2023/1411/article/17/3/a)
+[^c-625fe23ba7ceaf299a8d0298564ec01c]: Textual amendment: Word in [Sch. 1A para. 3(1)(a)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/1A/paragraph/3/1/a) substituted (31.1.2024) by [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [17(3)(a)](https://www.legislation.gov.uk/uksi/2023/1411/article/17/3/a)
 
-[^key-25f15a2dcfbc24061c552d36f9ed818c]: Textual amendment: Word in [Sch. 1A para. 3(1)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/1A/paragraph/3/1/b) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2023/1411/article/17/3/b)
+[^c-25f15a2dcfbc24061c552d36f9ed818c]: Textual amendment: Word in [Sch. 1A para. 3(1)(b)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/1A/paragraph/3/1/b) omitted (31.1.2024) by virtue of [The Financial Services and Markets Act 2000 (Financial Promotion) (Amendment) (No. 2) Order 2023 (S.I. 2023/1411)](https://www.legislation.gov.uk/uksi/2023/1411), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1411/article/1/2), [17(3)(b)](https://www.legislation.gov.uk/uksi/2023/1411/article/17/3/b)
 
 [^c22529661]: Textual amendment: [Sch. 1A para. 3(2)](https://www.legislation.gov.uk/nisi/1989/2405/schedule/1A/paragraph/3/2): words in definition of "bond" inserted (24.2.2010) by [Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 4](https://www.legislation.gov.uk/uksi/2010/86/article/4), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/4/b)
 

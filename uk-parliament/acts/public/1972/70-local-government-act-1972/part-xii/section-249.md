@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 249. Honorary titles.[^c15126371][^key-89d0ea382065276ef03a5d840b680486][^c20516911]
+## 249. Honorary titles.[^c15126371][^c-89d0ea382065276ef03a5d840b680486][^c20516911]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 (4)[^c15126391][^c20601661] An honorary alderman or honorary alderwoman[^c20517191] of a principal council may attend and take part in such civic ceremonies as the council may from time to time decide, but shall not, as such, have the right—
 
 - (a) to attend meetings of the council or a committee of the council (including a joint committee upon which they are represented); or
-- (b) to receive any such allowances or other payments as are payable under sections 173 to 176 above or[^key-6817d37abdd6c73c4237d231747b22bc] Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-f7b44f546526f42e9d5f0e3a63e60d51].
+- (b) to receive any such allowances or other payments as are payable under sections 173 to 176 above or[^c-6817d37abdd6c73c4237d231747b22bc] Part 5A of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-f7b44f546526f42e9d5f0e3a63e60d51].
 
 (4A)[^c20517211] A principal council may spend such reasonable sum as they think fit for the purpose of presenting an address, or a casket containing an address, to a person on whom they have conferred the title of honorary alderman or honorary alderwoman.
 
@@ -66,7 +66,7 @@ summary: ''
 
     S. 249: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-89d0ea382065276ef03a5d840b680486]: Modification: S. 249 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [30(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/30/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-89d0ea382065276ef03a5d840b680486]: Modification: S. 249 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [30(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/30/1) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
 [^c20516911]: Textual amendment: Words in s. 249 heading substituted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 29(2)](https://www.legislation.gov.uk/ukpga/2009/20/section/29/2), [148(1)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/1/d)
 
@@ -92,9 +92,9 @@ summary: ''
 
 [^c20517191]: Textual amendment: Words in s. 249(4) inserted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/29/5), [148(1)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/1/d)
 
-[^key-6817d37abdd6c73c4237d231747b22bc]: Textual amendment: Words in s. 249(4)(b) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3), [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/mwa/2011/4/schedule/3/paragraph/1/5); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(q)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/q)
+[^c-6817d37abdd6c73c4237d231747b22bc]: Textual amendment: Words in s. 249(4)(b) inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3), [Sch. 3 para. 1(5)](https://www.legislation.gov.uk/mwa/2011/4/schedule/3/paragraph/1/5); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(q)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/q)
 
-[^key-f7b44f546526f42e9d5f0e3a63e60d51]: Textual amendment: Words in s. 249(4)(b) substituted (W.) (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/7/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
+[^c-f7b44f546526f42e9d5f0e3a63e60d51]: Textual amendment: Words in s. 249(4)(b) substituted (W.) (1.4.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/7/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 3(e)](https://www.legislation.gov.uk/wsi/2024/1337/article/3/e)
 
 [^c20517211]: Textual amendment: S. 249(4A) inserted (12.1.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 29(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/29/6), [148(1)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/1/d)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Relevant amount for subsequent financial years[^key-65db7eae7e607b5288105062d0015eba]
+## 152. Relevant amount for subsequent financial years[^c-65db7eae7e607b5288105062d0015eba]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where the current year is the financial year beginning on 1st April 1998 or any 
 
 ## Annotations
 
-[^key-65db7eae7e607b5288105062d0015eba]: Commencement: Reg. 152 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-65db7eae7e607b5288105062d0015eba]: Commencement: Reg. 152 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

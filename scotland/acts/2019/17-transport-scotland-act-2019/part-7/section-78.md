@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Exemptions etc.[^key-0a45f1dbbb492855f0ce6b0ac34d342d]
+## 78. Exemptions etc.[^c-0a45f1dbbb492855f0ce6b0ac34d342d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ to be exempt from the scheme or from paying charges under the scheme.
 
 ## Annotations
 
-[^key-0a45f1dbbb492855f0ce6b0ac34d342d]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2019/17/section/78) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-0a45f1dbbb492855f0ce6b0ac34d342d]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2019/17/section/78) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

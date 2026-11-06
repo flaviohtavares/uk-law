@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Calculation of income[^key-b02bee54f2d913f659d476e263538db7]
+## 13. Calculation of income[^c-b02bee54f2d913f659d476e263538db7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b02bee54f2d913f659d476e263538db7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1844/regulation/13) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-b02bee54f2d913f659d476e263538db7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1844/regulation/13) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

@@ -51,7 +51,7 @@ This Order may be cited as the Social Security (Minimum Contributions to Appropr
 
 ## 2. Appropriate age-related percentage
 
-For the purposes of section 45 of the Pension Schemes Act 1993 (amount of minimum contributions) the appropriate age-related percentages in respect of earners in the tax years 1997—98 and 1998–99[^key-3b2f05659f2077f5e0c8b7914ec5bbf4] are those specified in the Table in the Schedule to this Order by reference to their ages on the last day of the preceding tax year.
+For the purposes of section 45 of the Pension Schemes Act 1993 (amount of minimum contributions) the appropriate age-related percentages in respect of earners in the tax years 1997—98 and 1998–99[^c-3b2f05659f2077f5e0c8b7914ec5bbf4] are those specified in the Table in the Schedule to this Order by reference to their ages on the last day of the preceding tax year.
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -123,7 +123,7 @@ TABLE Appropriate age related percentages of earnings exceeding the lower earnin
 </tbody>
 </table>
 
-[^key-3ae2ce0cac59ab44554e1cd80ccdf1cb]
+[^c-3ae2ce0cac59ab44554e1cd80ccdf1cb]
 
 (This note is not part of the Order)
 
@@ -141,6 +141,6 @@ These reports are contained in a Command Paper published by Her Majesty’s Stat
 
 [^c1768948]: Marginal citation: [Section 45](https://www.legislation.gov.uk/uksi/1996/1056/section/45) was amended by section 138 of the Pensions Act 1995.
 
-[^key-3b2f05659f2077f5e0c8b7914ec5bbf4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1996/1056/article/2) substituted (6.4.1999) by [The Social Security (Minimum Contributions to Appropriate Personal Pension Schemes) Order 1998 (S.I. 1998/944)](https://www.legislation.gov.uk/uksi/1998/944), [arts. 1](https://www.legislation.gov.uk/uksi/1998/944/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1998/944/regulation/3/a)
+[^c-3b2f05659f2077f5e0c8b7914ec5bbf4]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1996/1056/article/2) substituted (6.4.1999) by [The Social Security (Minimum Contributions to Appropriate Personal Pension Schemes) Order 1998 (S.I. 1998/944)](https://www.legislation.gov.uk/uksi/1998/944), [arts. 1](https://www.legislation.gov.uk/uksi/1998/944/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1998/944/regulation/3/a)
 
-[^key-3ae2ce0cac59ab44554e1cd80ccdf1cb]: Textual amendment: Words in Sch. omitted (6.4.1999) by virtue of [The Social Security (Minimum Contributions to Appropriate Personal Pension Schemes) Order 1998 (S.I. 1998/944)](https://www.legislation.gov.uk/uksi/1998/944), [arts. 1](https://www.legislation.gov.uk/uksi/1998/944/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1998/944/regulation/3/b)
+[^c-3ae2ce0cac59ab44554e1cd80ccdf1cb]: Textual amendment: Words in Sch. omitted (6.4.1999) by virtue of [The Social Security (Minimum Contributions to Appropriate Personal Pension Schemes) Order 1998 (S.I. 1998/944)](https://www.legislation.gov.uk/uksi/1998/944), [arts. 1](https://www.legislation.gov.uk/uksi/1998/944/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1998/944/regulation/3/b)

@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Non-Road Mobile Machinery (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2002 (revoked)[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]
+The Non-Road Mobile Machinery (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2002 (revoked)[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 17th July 2002
 
-[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]
+## 1. Citation and commencement[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to Regulation 2 (Interpretation)[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]
+## 2. Amendments to Regulation 2 (Interpretation)[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and consequential amendments[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]
+## 3. Revocation and consequential amendments[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b20c6abc36bed21a7e7dda46ec0f5bb]: Textual amendment: Regulations revoked (21.9.2018) by [The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 (S.I. 2018/764)](https://www.legislation.gov.uk/uksi/2018/764), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/b), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2018/764/schedule/2/paragraph/4/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/c))
+[^c-6b20c6abc36bed21a7e7dda46ec0f5bb]: Textual amendment: Regulations revoked (21.9.2018) by [The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 (S.I. 2018/764)](https://www.legislation.gov.uk/uksi/2018/764), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/b), [Sch. 2 para. 4(b)](https://www.legislation.gov.uk/uksi/2018/764/schedule/2/paragraph/4/b) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/c))

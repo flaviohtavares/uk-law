@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 225. Changing or revoking consent[^key-6991e8c37961b080e61c2e69eca47d98]
+## 225. Changing or revoking consent[^c-6991e8c37961b080e61c2e69eca47d98]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6991e8c37961b080e61c2e69eca47d98]: Commencement: S. 225 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-6991e8c37961b080e61c2e69eca47d98]: Commencement: S. 225 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

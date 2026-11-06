@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57.[^key-90dbe88a2cb3815ef4611773cd863b5e]
+## 57.[^c-90dbe88a2cb3815ef4611773cd863b5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ In regulation 102 [^c24395271] (use of other methods)—
 
 ## Annotations
 
-[^key-90dbe88a2cb3815ef4611773cd863b5e]: Commencement: Reg. 57 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-90dbe88a2cb3815ef4611773cd863b5e]: Commencement: Reg. 57 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395271]: Marginal citation: Regulation 102 was amended by [S.I. 2005/762](https://www.legislation.gov.uk/uksi/2005/762), 2007/768, 2010/559, 2015/1978, 2009/820, 2019/408 and 2019/513. The amendment made by the penultimate instrument is not in force and is revoked by this instrument. The last-named instrument is not fully in force.

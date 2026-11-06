@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Sections 96 to 100: interpretation[^key-bc518f0e873e93428811d3351dd28960]
+## 101. Sections 96 to 100: interpretation[^c-bc518f0e873e93428811d3351dd28960]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ references to adoption are to the adoption of persons, wherever they may be habi
 
 ## Annotations
 
-[^key-bc518f0e873e93428811d3351dd28960]: Commencement: S. 101 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-bc518f0e873e93428811d3351dd28960]: Commencement: S. 101 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

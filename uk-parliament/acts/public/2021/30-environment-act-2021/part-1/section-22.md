@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. The Office for Environmental Protection[^key-a4fc39ac8cedebabf019dda7b81f11b9][^key-aa017fdbc36a1492c9fb636784c37d97]
+## 22. The Office for Environmental Protection[^c-a4fc39ac8cedebabf019dda7b81f11b9][^c-aa017fdbc36a1492c9fb636784c37d97]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4fc39ac8cedebabf019dda7b81f11b9]: Commencement: S. 22 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-a4fc39ac8cedebabf019dda7b81f11b9]: Commencement: S. 22 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-aa017fdbc36a1492c9fb636784c37d97]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/30/section/22) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/a)
+[^c-aa017fdbc36a1492c9fb636784c37d97]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2021/30/section/22) in force at 17.11.2021 by [S.I. 2021/1274](https://www.legislation.gov.uk/uksi/2021/1274), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/1274/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Non-receipt of notice of meeting[^key-aa9c768bde09791e290eccd04423ca1b]
+## 41. Non-receipt of notice of meeting[^c-aa9c768bde09791e290eccd04423ca1b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where, in accordance with the Regulations or these Rules, a meeting is summoned 
 
 ## Annotations
 
-[^key-aa9c768bde09791e290eccd04423ca1b]: Commencement: [Rule 41](https://www.legislation.gov.uk/nisr/2026/11/rule/41) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-aa9c768bde09791e290eccd04423ca1b]: Commencement: [Rule 41](https://www.legislation.gov.uk/nisr/2026/11/rule/41) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

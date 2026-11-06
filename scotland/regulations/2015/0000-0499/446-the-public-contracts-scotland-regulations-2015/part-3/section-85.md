@@ -38,8 +38,8 @@ summary: ''
 
 (3) The reasons referred to in paragraph (2)(d)(i) and (2)(e) must include any reason for the contracting authority's decision that the economic operator did not meet the technical specifications—
 
-- (a) in an equivalent manner as mentioned in regulation 43(14) (technical specifications)[^key-ab10c2548d4a8dc5041cbf0251a46d29]; or
-- (b) because compliance with a specification mentioned in regulation 43(13) (technical specifications)[^key-e357d72b6a8644f81eee60d4c291a050] does not address the performance or functional requirements laid down by the contracting authority.
+- (a) in an equivalent manner as mentioned in regulation 43(14) (technical specifications)[^c-ab10c2548d4a8dc5041cbf0251a46d29]; or
+- (b) because compliance with a specification mentioned in regulation 43(13) (technical specifications)[^c-e357d72b6a8644f81eee60d4c291a050] does not address the performance or functional requirements laid down by the contracting authority.
 
 (4) Paragraph (1) does not apply where—
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab10c2548d4a8dc5041cbf0251a46d29]: Textual amendment: Words in reg. 85(3)(a) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/7/a)
+[^c-ab10c2548d4a8dc5041cbf0251a46d29]: Textual amendment: Words in reg. 85(3)(a) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/7/a)
 
-[^key-e357d72b6a8644f81eee60d4c291a050]: Textual amendment: Words in reg. 85(3)(b) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/7/b)
+[^c-e357d72b6a8644f81eee60d4c291a050]: Textual amendment: Words in reg. 85(3)(b) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/7/b)

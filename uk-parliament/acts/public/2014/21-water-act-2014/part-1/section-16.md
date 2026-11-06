@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-08430d11425e4e1a25cf414b56e3ec85] In section 143 of the Water Industry Act 1991 (charges schemes), for subsections (6) to (9) (charges scheme not to take effect until approved by the Water Services Regulation Authority, etc), there is substituted—
+(1)[^c-08430d11425e4e1a25cf414b56e3ec85] In section 143 of the Water Industry Act 1991 (charges schemes), for subsections (6) to (9) (charges scheme not to take effect until approved by the Water Services Regulation Authority, etc), there is substituted—
 
 > (6) If the Authority considers that a relevant undertaker's charges scheme does not comply with—
 >
@@ -39,7 +39,7 @@ summary: ''
 >
 > (6D) It is the duty of a relevant undertaker to comply with a direction under subsection (6) or (6C), and this duty is enforceable by the Authority under section 18.
 
-(2)[^key-da7917577e2d3fb7a7bda932f0f97d1c][^key-b0dc27fae54f7b806d81ff42634d7b54] After section 143A there is inserted—
+(2)[^c-da7917577e2d3fb7a7bda932f0f97d1c][^c-b0dc27fae54f7b806d81ff42634d7b54] After section 143A there is inserted—
 
 > **143B. Rules about charges schemes**
 >
@@ -168,8 +168,8 @@ summary: ''
 
 ## Annotations
 
-[^key-08430d11425e4e1a25cf414b56e3ec85]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/1) in force at 1.11.2015 by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [s. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/5))
+[^c-08430d11425e4e1a25cf414b56e3ec85]: Commencement: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/1) in force at 1.11.2015 by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [s. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/5))
 
-[^key-da7917577e2d3fb7a7bda932f0f97d1c]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/2) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/a) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-da7917577e2d3fb7a7bda932f0f97d1c]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/2) in force at 15.7.2015 for specified purposes by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/a) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
 
-[^key-b0dc27fae54f7b806d81ff42634d7b54]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/2) in force at 1.11.2015 in so far as not already in force by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [s. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/5))
+[^c-b0dc27fae54f7b806d81ff42634d7b54]: Commencement: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/2) in force at 1.11.2015 in so far as not already in force by [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [s. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/section/5/5))

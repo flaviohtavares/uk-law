@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94. Time limit for issuing a tribunal approved information notice[^key-3d4b0234f0210f7bd395973e9e2ed692]
+## 94. Time limit for issuing a tribunal approved information notice[^c-3d4b0234f0210f7bd395973e9e2ed692]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where the tribunal has approved the issuing of an information notice WRA must is
 
 ## Annotations
 
-[^key-3d4b0234f0210f7bd395973e9e2ed692]: Commencement: S. 94 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-3d4b0234f0210f7bd395973e9e2ed692]: Commencement: S. 94 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

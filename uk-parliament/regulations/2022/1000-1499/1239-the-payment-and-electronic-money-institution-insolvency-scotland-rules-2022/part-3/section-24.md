@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Administrator’s proposals[^key-e80391b943f9f5679fad289315379a63]
+## 24. Administrator’s proposals[^c-e80391b943f9f5679fad289315379a63]
 
 *Extent: S*
 
@@ -48,7 +48,7 @@ summary: ''
   - (i) details as to any security interest held by the institution or another person in respect of the asset pool,
   - (ii) details of the asset pool and the measures used by the institution to safeguard relevant funds,
 - (m) where customers are individuals—
-  - (i) the particulars required under sub-paragraph (l)[^key-1d3e5b22b8b56fdd1d5dd88c8456848b] must state separately the number of such customers and the total of the debts owed to them,
+  - (i) the particulars required under sub-paragraph (l)[^c-1d3e5b22b8b56fdd1d5dd88c8456848b] must state separately the number of such customers and the total of the debts owed to them,
   - (ii) the remaining details required under sub-paragraph (l) in relation to such customers must be set out in a separate schedule,
 - (n) if no statement of affairs is submitted, details of the financial position of the institution at the latest practicable date (which must, unless the court otherwise orders, be a date not earlier than that on which the institution entered special administration) and an explanation as to why there is no statement of affairs,
 - (o) a statement of the basis upon which it is proposed that the administrator’s remuneration should be fixed under rule 129,
@@ -151,6 +151,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e80391b943f9f5679fad289315379a63]: Commencement: Rule 24 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-e80391b943f9f5679fad289315379a63]: Commencement: Rule 24 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-1d3e5b22b8b56fdd1d5dd88c8456848b]: Textual amendment: Word in [rule 24(2)(m)](https://www.legislation.gov.uk/uksi/2022/1239/rule/24/2/m) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(6)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/6)
+[^c-1d3e5b22b8b56fdd1d5dd88c8456848b]: Textual amendment: Word in [rule 24(2)(m)](https://www.legislation.gov.uk/uksi/2022/1239/rule/24/2/m) substituted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(6)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/6)

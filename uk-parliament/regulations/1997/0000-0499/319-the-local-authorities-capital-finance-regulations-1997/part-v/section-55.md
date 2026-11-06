@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Specified capital grants—local authorities in Wales[^key-70a8685e902025100080272da8dd1370]
+## 55. Specified capital grants—local authorities in Wales[^c-70a8685e902025100080272da8dd1370]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Contributions and subsidies paid to a local authority in Wales are specified for
 
 ## Annotations
 
-[^key-70a8685e902025100080272da8dd1370]: Commencement: Reg. 55 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-70a8685e902025100080272da8dd1370]: Commencement: Reg. 55 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

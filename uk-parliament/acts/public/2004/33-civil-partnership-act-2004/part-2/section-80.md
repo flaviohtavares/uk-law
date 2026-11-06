@@ -31,8 +31,8 @@ summary: ''
   - (i) makes a statement as to any information which is required to be registered under this Part or Part 5, or
   - (ii) causes such a statement to be made,
 
-  knowing that the statement is false, or[^key-f1c3530bb9154ae4bdcc61e793d62704]
-- (c)[^key-ad24377865c88c7b6bd161ad1bf82814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  knowing that the statement is false, or[^c-f1c3530bb9154ae4bdcc61e793d62704]
+- (c)[^c-ad24377865c88c7b6bd161ad1bf82814] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) with respect to a declaration made under paragraph 5(1) of Schedule 1 he makes a statement mentioned in paragraph 6 of that Schedule which he knows to be false in a material particular.
 
 (2) The documents are—
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1c3530bb9154ae4bdcc61e793d62704]: Textual amendment: Word in [s. 80(1)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/80/1/b) inserted (27.2.2023) by [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/8/a) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-f1c3530bb9154ae4bdcc61e793d62704]: Textual amendment: Word in [s. 80(1)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/80/1/b) inserted (27.2.2023) by [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/8/a) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
 
-[^key-ad24377865c88c7b6bd161ad1bf82814]: Textual amendment: [S. 80(1)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/80/1/c) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/8/b) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-ad24377865c88c7b6bd161ad1bf82814]: Textual amendment: [S. 80(1)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/80/1/c) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/8/b) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))

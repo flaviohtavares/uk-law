@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Assessment of an application[^key-74bbe109dcfe20cae780500026a486b0]
+## 52. Assessment of an application[^c-74bbe109dcfe20cae780500026a486b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74bbe109dcfe20cae780500026a486b0]: Commencement: Reg. 52 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-74bbe109dcfe20cae780500026a486b0]: Commencement: Reg. 52 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

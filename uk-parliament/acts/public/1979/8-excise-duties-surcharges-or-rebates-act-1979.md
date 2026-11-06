@@ -37,8 +37,8 @@ An Act to consolidate the provisions of section 9 of and Schedules 3 and 4 to th
 
 (1) This section applies to the following groups of excise duties, namely—
 
-- (a)[^key-3062c592e7fd37ee87fbdc4761e237e3] that chargeable in respect of alcoholic products;
-- (ab)[^key-2bf4d7d36c1c8578c4bd8889cf934b62] that chargeable in respect of vaping products;
+- (a)[^c-3062c592e7fd37ee87fbdc4761e237e3] that chargeable in respect of alcoholic products;
+- (ab)[^c-2bf4d7d36c1c8578c4bd8889cf934b62] that chargeable in respect of vaping products;
 - (b)[^c913717] those chargeable by virtue of the Hydrocarbon Oil Duties Act 1979;
 - (c) all other duties of excise except—
   - (i) that chargeable on tobacco products;
@@ -141,9 +141,9 @@ Section 4(3).
 
 ## Annotations
 
-[^key-3062c592e7fd37ee87fbdc4761e237e3]: Textual amendment: S. 1(1)(a) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/7); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-3062c592e7fd37ee87fbdc4761e237e3]: Textual amendment: S. 1(1)(a) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/7); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-2bf4d7d36c1c8578c4bd8889cf934b62]: Textual amendment: S. 1(1)(ab) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/4)
+[^c-2bf4d7d36c1c8578c4bd8889cf934b62]: Textual amendment: S. 1(1)(ab) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/4)
 
 [^c913717]: Textual amendment: S. 1(1)(b) substituted (1.12.1995) by [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34), [s. 11(4)(5)](https://www.legislation.gov.uk/ukpga/1993/34/section/11/4/5); [S.I. 1995/2715](https://www.legislation.gov.uk/uksi/1995/2715), [art. 2](https://www.legislation.gov.uk/uksi/1995/2715/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Notice requiring statement of affairs[^key-0ea2223ce50476c7b35d92c4417e4338]
+## 27. Notice requiring statement of affairs[^c-0ea2223ce50476c7b35d92c4417e4338]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ea2223ce50476c7b35d92c4417e4338]: Commencement: Rule 27 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0ea2223ce50476c7b35d92c4417e4338]: Commencement: Rule 27 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

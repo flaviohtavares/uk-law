@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.8. Hearing in urgent case[^key-22bbabe1bf2ee2ae621fa7551fa865ca]
+## 4.8. Hearing in urgent case[^c-22bbabe1bf2ee2ae621fa7551fa865ca]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22bbabe1bf2ee2ae621fa7551fa865ca]: Commencement: Rule 4.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-22bbabe1bf2ee2ae621fa7551fa865ca]: Commencement: Rule 4.8 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

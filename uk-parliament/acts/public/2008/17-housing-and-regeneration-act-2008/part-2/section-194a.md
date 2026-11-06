@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194A. Standards relating to competence and conduct[^key-2b3be293c223a2d911768f59c58d2a8c]
+## 194A. Standards relating to competence and conduct[^c-2b3be293c223a2d911768f59c58d2a8c]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3be293c223a2d911768f59c58d2a8c]: Textual amendment: Ss. 194A, 194B inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/21/1), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)
+[^c-2b3be293c223a2d911768f59c58d2a8c]: Textual amendment: Ss. 194A, 194B inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2023/36/section/21/1), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/i)

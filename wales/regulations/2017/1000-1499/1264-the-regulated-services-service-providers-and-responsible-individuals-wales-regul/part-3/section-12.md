@@ -22,7 +22,7 @@ summary: ''
 
 (1) The service provider must ensure that the following policies and procedures are in place for the service—
 
-- Admissions and commencement of the service (see Part 4[^key-17c35c9262d51a40164551115b885555], regulation 14)
+- Admissions and commencement of the service (see Part 4[^c-17c35c9262d51a40164551115b885555], regulation 14)
 - Safeguarding (see Part 8, regulation 27)
 - Supporting individuals to manage their money (see Part 8, regulation 28)
 - Use of control or restraint (see Part 8, regulation 29)
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17c35c9262d51a40164551115b885555]: Textual amendment: Words in reg. 12(1) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2019/757/regulation/6)
+[^c-17c35c9262d51a40164551115b885555]: Textual amendment: Words in reg. 12(1) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2019/757/regulation/6)

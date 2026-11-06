@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendments to Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination[^key-dd84826d920ea6ef347fce6cf96b5512]
+## 31. Amendments to Commission Delegated Regulation (EU) 2019/1602 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council concerning the Common Health Entry Document accompanying consignments of animals and goods to their destination[^c-dd84826d920ea6ef347fce6cf96b5512]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dd84826d920ea6ef347fce6cf96b5512]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-dd84826d920ea6ef347fce6cf96b5512]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368851]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 

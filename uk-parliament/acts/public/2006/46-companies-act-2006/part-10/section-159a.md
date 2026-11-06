@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159A. Disqualified person not to be appointed as director[^key-e2b95b0cb7da170d56e80c3a0be485cb][^key-9920eb18d621253b937e28dfeda4674a]
+## 159A. Disqualified person not to be appointed as director[^c-e2b95b0cb7da170d56e80c3a0be485cb][^c-9920eb18d621253b937e28dfeda4674a]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ although the person could not, by virtue of this section, be validly appointed a
 
 ## Annotations
 
-[^key-e2b95b0cb7da170d56e80c3a0be485cb]: Modification: [S. 159A](https://www.legislation.gov.uk/ukpga/2006/46/section/159A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 17ZC](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17ZC) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/234/regulation/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-e2b95b0cb7da170d56e80c3a0be485cb]: Modification: [S. 159A](https://www.legislation.gov.uk/ukpga/2006/46/section/159A) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 17ZC](https://www.legislation.gov.uk/uksi/2009/1804/regulation/17ZC) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2024/234/regulation/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
-[^key-9920eb18d621253b937e28dfeda4674a]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/2006/46/section/159A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/40/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z4)
+[^c-9920eb18d621253b937e28dfeda4674a]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/2006/46/section/159A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 40(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/40/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Protected taxpayer information: use by the Keeper[^key-db0ebc96e34803252e07836b09292471]
+## 18. Protected taxpayer information: use by the Keeper[^c-db0ebc96e34803252e07836b09292471]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db0ebc96e34803252e07836b09292471]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2014/16/section/18) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-db0ebc96e34803252e07836b09292471]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2014/16/section/18) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

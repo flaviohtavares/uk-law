@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Additional factors or criteria[^key-c295b82f07ab0d13039a64f839c322be]
+## 19. Additional factors or criteria[^c-c295b82f07ab0d13039a64f839c322be]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c295b82f07ab0d13039a64f839c322be]: Commencement: Reg. 19 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-c295b82f07ab0d13039a64f839c322be]: Commencement: Reg. 19 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

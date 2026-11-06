@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Computation of qualifying revenue.[^key-44913a70087f36fcd98212dcf0eea017]
+## 67. Computation of qualifying revenue.[^c-44913a70087f36fcd98212dcf0eea017]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part I of Schedule 7 (which contains provisions relating to the computation of q
 
 ## Annotations
 
-[^key-44913a70087f36fcd98212dcf0eea017]: Modification: Pt. 1: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/3/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-44913a70087f36fcd98212dcf0eea017]: Modification: Pt. 1: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/3/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

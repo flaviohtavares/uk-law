@@ -24,7 +24,7 @@ summary: ''
 
 (introduced by section 365)
 
-### 1. Powers and duties of inspector[^key-2407b1754674f81e0ffde8862185d114]
+### 1. Powers and duties of inspector[^c-2407b1754674f81e0ffde8862185d114]
 
 (1) An inspector has the same powers and duties in relation to an appeal to which section 365 applies as the Welsh Ministers have, other than—
 
@@ -38,7 +38,7 @@ summary: ''
 
 (3) So far as the context permits, the enactment is to be read, in relation to an appeal determined or to be determined by an inspector, as if the reference to the Welsh Ministers were or included a reference to an inspector.
 
-### 2. Local inquiry, hearing or written representations[^key-8bd54a2feb50d961681189e481409687]
+### 2. Local inquiry, hearing or written representations[^c-8bd54a2feb50d961681189e481409687]
 
 (1) An inspector may hold a local inquiry or a hearing in connection with an appeal if a determination under section 366 provides for the appeal to be considered in that way.
 
@@ -49,7 +49,7 @@ summary: ''
 - (a) at a local inquiry or hearing held by the inspector in connection with an appeal or in consequence of such an inquiry or hearing, or
 - (b) in written representations made to the inspector in connection with an appeal or in consequence of such representations.
 
-### 3. Replacement of inspector[^key-7ff1def31325e60ab7fa50b427542a6d]
+### 3. Replacement of inspector[^c-7ff1def31325e60ab7fa50b427542a6d]
 
 (1) At any time before an inspector has determined an appeal, the Welsh Ministers may—
 
@@ -63,7 +63,7 @@ summary: ''
 - (a) make fresh representations, or
 - (b) modify or withdraw representations the person has already made.
 
-### 4. Direction that appeal is to be determined by the Welsh Ministers[^key-7df14856b8638d2ab11bbd1fdc6f9d2a]
+### 4. Direction that appeal is to be determined by the Welsh Ministers[^c-7df14856b8638d2ab11bbd1fdc6f9d2a]
 
 (1) This paragraph applies where the Welsh Ministers give a direction under section 365(3)(b) that an appeal which would otherwise be determined by an inspector is instead to be determined by them.
 
@@ -85,7 +85,7 @@ summary: ''
 
 (6) Subject to this paragraph, the provisions of this Act that are relevant to the appeal apply to it as if this Schedule had never applied.
 
-### 5. Revocation of direction[^key-3cf2700eab9ddbc6a9aa8083a78abb05]
+### 5. Revocation of direction[^c-3cf2700eab9ddbc6a9aa8083a78abb05]
 
 (1) The Welsh Ministers may by a further direction revoke a direction under section 365(3)(b) at any time before the determination of the appeal.
 
@@ -95,7 +95,7 @@ summary: ''
 
 (4) But anything done by or on behalf of the Welsh Ministers in connection with the appeal which might have been done by the inspector (including any arrangements made for the holding of a local inquiry or hearing) is, unless the inspector directs otherwise, to be treated as having been done by the inspector.
 
-### 6. Supplementary[^key-ebd0c48b911dfe137b1629cd32f3e29d]
+### 6. Supplementary[^c-ebd0c48b911dfe137b1629cd32f3e29d]
 
 (1) It is not a ground of application to the High Court for statutory review under section 376, or of appeal to the High Court under section 378 or 379, that an appeal ought to have been determined by the Welsh Ministers instead of an inspector, unless the appellant or the planning authority challenges the inspector’s power to determine the appeal before the decision on the appeal is given.
 
@@ -103,14 +103,14 @@ summary: ''
 
 ## Annotations
 
-[^key-2407b1754674f81e0ffde8862185d114]: Commencement: Sch. 20 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-2407b1754674f81e0ffde8862185d114]: Commencement: Sch. 20 para. 1 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-8bd54a2feb50d961681189e481409687]: Commencement: Sch. 20 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-8bd54a2feb50d961681189e481409687]: Commencement: Sch. 20 para. 2 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-7ff1def31325e60ab7fa50b427542a6d]: Commencement: Sch. 20 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7ff1def31325e60ab7fa50b427542a6d]: Commencement: Sch. 20 para. 3 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-7df14856b8638d2ab11bbd1fdc6f9d2a]: Commencement: Sch. 20 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7df14856b8638d2ab11bbd1fdc6f9d2a]: Commencement: Sch. 20 para. 4 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-3cf2700eab9ddbc6a9aa8083a78abb05]: Commencement: Sch. 20 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3cf2700eab9ddbc6a9aa8083a78abb05]: Commencement: Sch. 20 para. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
 
-[^key-ebd0c48b911dfe137b1629cd32f3e29d]: Commencement: Sch. 20 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-ebd0c48b911dfe137b1629cd32f3e29d]: Commencement: Sch. 20 para. 6 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

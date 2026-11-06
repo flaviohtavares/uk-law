@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Mode of construction and operation of the harbour railway system[^key-aab32bd8d1b6ba7d6f931347b61a98b8]
+## 21. Mode of construction and operation of the harbour railway system[^c-aab32bd8d1b6ba7d6f931347b61a98b8]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aab32bd8d1b6ba7d6f931347b61a98b8]: Commencement: Art. 21 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-aab32bd8d1b6ba7d6f931347b61a98b8]: Commencement: Art. 21 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

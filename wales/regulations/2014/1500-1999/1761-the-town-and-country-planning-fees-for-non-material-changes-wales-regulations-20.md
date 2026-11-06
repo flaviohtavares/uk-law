@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Town and Country Planning (Fees for Non-Material Changes) (Wales) Regulations 2014 (revoked)[^key-1ff5f88bc54ca2b25da14512de91cfa7]
+The Town and Country Planning (Fees for Non-Material Changes) (Wales) Regulations 2014 (revoked)[^c-1ff5f88bc54ca2b25da14512de91cfa7]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into force
 
 1 September 2014
 
-[^key-1ff5f88bc54ca2b25da14512de91cfa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ff5f88bc54ca2b25da14512de91cfa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-1ff5f88bc54ca2b25da14512de91cfa7]
+## 1. Title, commencement and application[^c-1ff5f88bc54ca2b25da14512de91cfa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1ff5f88bc54ca2b25da14512de91cfa7]
+## 2. Interpretation[^c-1ff5f88bc54ca2b25da14512de91cfa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees for applications for non-material changes to planning permission[^key-1ff5f88bc54ca2b25da14512de91cfa7]
+## 3. Fees for applications for non-material changes to planning permission[^c-1ff5f88bc54ca2b25da14512de91cfa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications not subject to a fee: access[^key-1ff5f88bc54ca2b25da14512de91cfa7]
+## 4. Applications not subject to a fee: access[^c-1ff5f88bc54ca2b25da14512de91cfa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Applications not subject to a fee: permitted development[^key-1ff5f88bc54ca2b25da14512de91cfa7]
+## 5. Applications not subject to a fee: permitted development[^c-1ff5f88bc54ca2b25da14512de91cfa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1ff5f88bc54ca2b25da14512de91cfa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ff5f88bc54ca2b25da14512de91cfa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1ff5f88bc54ca2b25da14512de91cfa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1ff5f88bc54ca2b25da14512de91cfa7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ff5f88bc54ca2b25da14512de91cfa7]: Textual amendment: Regulations revoked (1.10.2015) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015 (S.I. 2015/1522)](https://www.legislation.gov.uk/uksi/2015/1522), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1522/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/1522/schedule/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1522/regulation/1/3))
+[^c-1ff5f88bc54ca2b25da14512de91cfa7]: Textual amendment: Regulations revoked (1.10.2015) by [The Town and Country Planning (Fees for Applications, Deemed Applications and Site Visits) (Wales) Regulations 2015 (S.I. 2015/1522)](https://www.legislation.gov.uk/uksi/2015/1522), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1522/regulation/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/1522/schedule/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1522/regulation/1/3))

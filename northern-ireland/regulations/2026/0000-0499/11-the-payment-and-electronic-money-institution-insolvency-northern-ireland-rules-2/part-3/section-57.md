@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Voting at meetings of creditors and customers[^key-de5fae56efcf8681e96cfff68860cbab]
+## 57. Voting at meetings of creditors and customers[^c-de5fae56efcf8681e96cfff68860cbab]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de5fae56efcf8681e96cfff68860cbab]: Commencement: [Rule 57](https://www.legislation.gov.uk/nisr/2026/11/rule/57) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-de5fae56efcf8681e96cfff68860cbab]: Commencement: [Rule 57](https://www.legislation.gov.uk/nisr/2026/11/rule/57) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

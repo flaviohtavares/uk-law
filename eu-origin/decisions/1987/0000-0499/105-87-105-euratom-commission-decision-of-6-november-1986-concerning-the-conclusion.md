@@ -31,10 +31,10 @@ summary: ''
 
 of 6 November 1986 concerning the conclusion of an Agreement for cooperation in the field of controlled thermonuclear fusion between the European Atomic Energy Community and the United States Department of Energy by the Commission for and on behalf of the said Community (revoked)
 
-[^key-5e4721d319f28c462e157ee265482cf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e4721d319f28c462e157ee265482cf6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-5e4721d319f28c462e157ee265482cf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-5e4721d319f28c462e157ee265482cf6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e4721d319f28c462e157ee265482cf6]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-5e4721d319f28c462e157ee265482cf6]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

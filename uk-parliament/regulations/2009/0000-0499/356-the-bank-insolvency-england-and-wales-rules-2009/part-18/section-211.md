@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 211. Application of the CPR[^key-830b48f291b95507969fd79d3693687d]
+## 211. Application of the CPR[^c-830b48f291b95507969fd79d3693687d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 7.33 of the 1986 Rules[^f00070].
 
 ## Annotations
 
-[^key-830b48f291b95507969fd79d3693687d]: Commencement: Rule 211 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-830b48f291b95507969fd79d3693687d]: Commencement: Rule 211 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00070]: Footnote: All the rules applied by this Chapter were substituted by [S.I. 1999/1022](https://www.legislation.gov.uk/uksi/1999/1022).

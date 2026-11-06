@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — SUPPLEMENTAL PROVISIONS WITH REGARD TO POWERS OF ENTRY[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+## SCHEDULE 8 — SUPPLEMENTAL PROVISIONS WITH REGARD TO POWERS OF ENTRY[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 *Extent: N.I.*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulation 35
 
-### 1. Issue of warrants[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### 1. Issue of warrants[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Manner of exercise of powers[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### 2. Manner of exercise of powers[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Information obtained to be admissible in evidence[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### 3. Information obtained to be admissible in evidence[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Duty to secure premises[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### 4. Duty to secure premises[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Compensations[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### 5. Compensations[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Relevant power[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
+### 6. Relevant power[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))
+[^c-4dc2128ca4ea48cdc1f6a6d714f3aa0a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/356) revoked (5.4.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations (Northern Ireland) 2007 (S.R. 2007/198)](https://www.legislation.gov.uk/nisr/2007/198), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/1/1), [41(1)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/2)[(3)](https://www.legislation.gov.uk/nisr/2007/198/regulation/41/3))

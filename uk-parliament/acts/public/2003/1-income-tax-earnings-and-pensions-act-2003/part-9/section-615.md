@@ -26,7 +26,7 @@ summary: ''
 
 - (a) is payable—
   - (i) to a person who has been employed in overseas government service, or
-  - (ii) to the widow, widower, surviving civil partner,[^key-ec89c50facd2be7f2a1a4d8a3dfafc0b] child, relative or dependant of a person who has been employed in overseas government service, and
+  - (ii) to the widow, widower, surviving civil partner,[^c-ec89c50facd2be7f2a1a4d8a3dfafc0b] child, relative or dependant of a person who has been employed in overseas government service, and
 - (b) is payable in respect of that service.
 
 (3) Condition B is that the pension—
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec89c50facd2be7f2a1a4d8a3dfafc0b]: Textual amendment: Words in s. 615(2)(a)(ii) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [158](https://www.legislation.gov.uk/uksi/2005/3229/regulation/158)
+[^c-ec89c50facd2be7f2a1a4d8a3dfafc0b]: Textual amendment: Words in s. 615(2)(a)(ii) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [158](https://www.legislation.gov.uk/uksi/2005/3229/regulation/158)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Supervisory return: contents[^key-fd45ffc81796871cdcdd607bd63c6ff0]
+## 45. Supervisory return: contents[^c-fd45ffc81796871cdcdd607bd63c6ff0]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ The Pensions Regulator may require the following information to be included in a
 
 ## Annotations
 
-[^key-fd45ffc81796871cdcdd607bd63c6ff0]: Commencement: Reg. 45 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-fd45ffc81796871cdcdd607bd63c6ff0]: Commencement: Reg. 45 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00042]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 225 was amended by paragraph 252(9) of Schedule 1 to [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Payment of pensions under this Part[^key-93424521c2bc7eb9a1a20c1f82318bc4]
+## 100. Payment of pensions under this Part[^c-93424521c2bc7eb9a1a20c1f82318bc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93424521c2bc7eb9a1a20c1f82318bc4]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2014/2848/regulation/100) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-93424521c2bc7eb9a1a20c1f82318bc4]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2014/2848/regulation/100) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

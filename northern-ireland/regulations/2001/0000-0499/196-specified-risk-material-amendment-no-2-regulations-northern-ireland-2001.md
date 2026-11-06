@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 FOOD
 
-Specified Risk Material (Amendment) (No. 2) Regulations (Northern Ireland) 2001 (revoked)[^key-d4be102fbfd825eb15311062efd5364e]
+Specified Risk Material (Amendment) (No. 2) Regulations (Northern Ireland) 2001 (revoked)[^c-d4be102fbfd825eb15311062efd5364e]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into operation
 
 17th June 2001
 
-[^key-d4be102fbfd825eb15311062efd5364e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4be102fbfd825eb15311062efd5364e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d4be102fbfd825eb15311062efd5364e]
+## 1. Citation and commencement[^c-d4be102fbfd825eb15311062efd5364e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Specified Risk Material Regulations (Northern Ireland) 1997[^key-d4be102fbfd825eb15311062efd5364e]
+## 2. Amendment of the Specified Risk Material Regulations (Northern Ireland) 1997[^c-d4be102fbfd825eb15311062efd5364e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4be102fbfd825eb15311062efd5364e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4be102fbfd825eb15311062efd5364e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d4be102fbfd825eb15311062efd5364e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4be102fbfd825eb15311062efd5364e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4be102fbfd825eb15311062efd5364e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/196) revoked (6.12.2004) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004 (S.R. 2004/464)](https://www.legislation.gov.uk/nisr/2004/464), [reg. 1](https://www.legislation.gov.uk/nisr/2004/464/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2004/464/schedule/5)
+[^c-d4be102fbfd825eb15311062efd5364e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/196) revoked (6.12.2004) by [Products of Animal Origin (Third Country Imports) Regulations (Northern Ireland) 2004 (S.R. 2004/464)](https://www.legislation.gov.uk/nisr/2004/464), [reg. 1](https://www.legislation.gov.uk/nisr/2004/464/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2004/464/schedule/5)

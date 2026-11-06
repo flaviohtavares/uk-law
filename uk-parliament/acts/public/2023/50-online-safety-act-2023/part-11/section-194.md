@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194. Time for publishing first guidance under certain provisions of this Act[^key-b81b1aebc2fd833824430b2d00c4901a]
+## 194. Time for publishing first guidance under certain provisions of this Act[^c-b81b1aebc2fd833824430b2d00c4901a]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ But this is subject to subsection (6).
 
 ## Annotations
 
-[^key-b81b1aebc2fd833824430b2d00c4901a]: Commencement: S. 194 in force at Royal Assent, see [s. 240(4)(x)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/x)
+[^c-b81b1aebc2fd833824430b2d00c4901a]: Commencement: S. 194 in force at Royal Assent, see [s. 240(4)(x)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/x)

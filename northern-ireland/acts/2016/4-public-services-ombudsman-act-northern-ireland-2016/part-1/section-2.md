@@ -33,8 +33,8 @@ summary: ''
 - (a) the power of the Assembly Commission to determine the salary, pension and terms of appointment of the Ombudsman under paragraphs 6, 7 and 8 of Schedule 1,
 - (b) the power of the Assembly to request Her Majesty to remove the Ombudsman from office under paragraph 9 of Schedule 1,
 - (c) the power of the Department of Finance and Personnel to direct the form of accounts the Ombudsman must prepare, under paragraph 7 of Schedule 2, or sections 9 to 13 of the Government Resources and Accounts Act (Northern Ireland) 2001.
-- (d)[^key-0431e66890001e0b42cbd84f75afba2e] the power of the Department of Finance under sections 8A and 8B of the Government Resources and Accounts Act (Northern Ireland) 2001 to issue directions in relation to estimates for the Ombudsman.
+- (d)[^c-0431e66890001e0b42cbd84f75afba2e] the power of the Department of Finance under sections 8A and 8B of the Government Resources and Accounts Act (Northern Ireland) 2001 to issue directions in relation to estimates for the Ombudsman.
 
 ## Annotations
 
-[^key-0431e66890001e0b42cbd84f75afba2e]: Textual amendment: [S. 2(2)(d)](https://www.legislation.gov.uk/nia/2016/4/section/2/2/d) inserted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(5)](https://www.legislation.gov.uk/nia/2022/8/section/1/5), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)
+[^c-0431e66890001e0b42cbd84f75afba2e]: Textual amendment: [S. 2(2)(d)](https://www.legislation.gov.uk/nia/2016/4/section/2/2/d) inserted (31.3.2022) by [Financial Reporting (Departments and Public Bodies) Act (Northern Ireland) 2022 (c. 8)](https://www.legislation.gov.uk/nia/2022/8), [ss. 1(5)](https://www.legislation.gov.uk/nia/2022/8/section/1/5), [3](https://www.legislation.gov.uk/nia/2022/8/section/3)

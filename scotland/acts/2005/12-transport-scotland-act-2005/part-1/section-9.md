@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Joint regional transport strategies[^key-ded23ebdf029ce72fc76debb4f2119ef]
+## 9. Joint regional transport strategies[^c-ded23ebdf029ce72fc76debb4f2119ef]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ded23ebdf029ce72fc76debb4f2119ef]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2005/12/section/9) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-ded23ebdf029ce72fc76debb4f2119ef]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2005/12/section/9) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

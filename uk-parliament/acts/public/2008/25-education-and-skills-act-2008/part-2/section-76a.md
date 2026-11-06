@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Supply of information by Secretary of State or person providing services[^key-cf363049795074bac9637ce0abd78ad5]
+## 76A. Supply of information by Secretary of State or person providing services[^c-cf363049795074bac9637ce0abd78ad5]
 
 *Extent: E+W*
 
@@ -36,12 +36,12 @@ but does not include information provided under section 72 of the Welfare Reform
 
 (4) Information supplied under subsection (3) may be supplied to any person involved in the provision of services in pursuance of section 68 or 70(1)(b) for the purposes of the provision of those services.
 
-(5)[^key-3accc7a2e317f34829f8ac2450c7b54a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3accc7a2e317f34829f8ac2450c7b54a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Nothing in this section authorises the disclosure of any information in contravention of any provision of, or made under, this or any other Act (whenever passed or made) which prevents disclosure of the information.
 
 ## Annotations
 
-[^key-cf363049795074bac9637ce0abd78ad5]: Textual amendment: S. 76A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 255(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/255/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-cf363049795074bac9637ce0abd78ad5]: Textual amendment: S. 76A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 255(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/255/3), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-3accc7a2e317f34829f8ac2450c7b54a]: Textual amendment: [S. 76A(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/76A/5) omitted (1.2.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/28/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-3accc7a2e317f34829f8ac2450c7b54a]: Textual amendment: [S. 76A(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/76A/5) omitted (1.2.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 28(5)](https://www.legislation.gov.uk/ukpga/2011/21/section/28/5), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

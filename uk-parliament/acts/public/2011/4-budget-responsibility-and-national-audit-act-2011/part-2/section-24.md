@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Indemnification[^key-b37589bf5c8be2d544d9c221c129cc99]
+## 24. Indemnification[^c-b37589bf5c8be2d544d9c221c129cc99]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b37589bf5c8be2d544d9c221c129cc99]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/4/section/24) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-b37589bf5c8be2d544d9c221c129cc99]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/4/section/24) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

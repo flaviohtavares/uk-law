@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 195. Applications and appeals by statutory undertakers[^key-cdeeb4661027aedf32d7cd1810832843]
+## 195. Applications and appeals by statutory undertakers[^c-cdeeb4661027aedf32d7cd1810832843]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ In section 266 of TCPA 1990 (applications for planning permission by statutory u
 
 ## Annotations
 
-[^key-cdeeb4661027aedf32d7cd1810832843]: Commencement: S. 195 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(i)](https://www.legislation.gov.uk/uksi/2009/400/article/3/i)
+[^c-cdeeb4661027aedf32d7cd1810832843]: Commencement: S. 195 in force at 6.4.2009 for E.W. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3(i)](https://www.legislation.gov.uk/uksi/2009/400/article/3/i)

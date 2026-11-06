@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Temporary approvals etc pending review or appeal[^key-8319642d8ec97c698c64f770e32751fe]
+## 131. Temporary approvals etc pending review or appeal[^c-8319642d8ec97c698c64f770e32751fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8319642d8ec97c698c64f770e32751fe]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2021/26/section/131) in force at 5.7.2021 by [S.I. 2021/799](https://www.legislation.gov.uk/uksi/2021/799), [reg. 2](https://www.legislation.gov.uk/uksi/2021/799/regulation/2)
+[^c-8319642d8ec97c698c64f770e32751fe]: Commencement: [S. 131](https://www.legislation.gov.uk/ukpga/2021/26/section/131) in force at 5.7.2021 by [S.I. 2021/799](https://www.legislation.gov.uk/uksi/2021/799), [reg. 2](https://www.legislation.gov.uk/uksi/2021/799/regulation/2)

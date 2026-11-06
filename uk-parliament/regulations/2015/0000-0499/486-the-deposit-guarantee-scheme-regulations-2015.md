@@ -30,7 +30,7 @@ summary: ''
 
 Banks And Banking
 
-[^key-2457c7d0077bb7358a3d313a836f7eba]The Deposit Guarantee Scheme Regulations 2015
+[^c-2457c7d0077bb7358a3d313a836f7eba]The Deposit Guarantee Scheme Regulations 2015
 
 Made
 
@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 The Treasury are designated[^c22400701] for the purposes of section 2(2) of the European Communities Act 1972[^c22400711] in relation to financial services.
 
-The Treasury, in exercise of the powers conferred by section 2(2) of that Act, make the following Regulations.[^key-e3e0a13b4af1bdb1c3600f1efe3f914e]
+The Treasury, in exercise of the powers conferred by section 2(2) of that Act, make the following Regulations.[^c-e3e0a13b4af1bdb1c3600f1efe3f914e]
 
 ## PART 1 — Introductory Provisions
 
@@ -65,16 +65,16 @@ The Treasury, in exercise of the powers conferred by section 2(2) of that Act, m
 - “**credit union**” means—
   - (a) a registered society (within the meaning given by section 1 of the Co-operative and Community Benefit Societies Act 2014 [^c22400731]) that is registered as a credit union; or
   - (b) a society registered under the Credit Unions (Northern Ireland) Order 1985 [^c22400741] or a society registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 [^c22400751] as a credit union;
-- “deposit” means—[^key-5d55fb5a4aa550a43acdc16a3bda5747]
+- “deposit” means—[^c-5d55fb5a4aa550a43acdc16a3bda5747]
   - (a) a deposit within the meaning of point (23A) of Article 2(1) of Regulation (EU) No. 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Regulation (EU) No 648/2012;
   - (b) a share in a building society, as defined in section 119 of the Building Societies Act 1986, other than a share of a capital nature that is own funds, as defined in point (118) of Article 4.1 of Regulation No. 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012; or
   - (c) a share in a credit union other than—
     - (i) a deferred share within the meaning given by section 31A of the Credit Unions Act 1979; or
     - (ii) a deferred share issued by a society registered under the Credit Unions (Northern Ireland) Order 1985 or a society registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 as a credit union;
 - “**deposit guarantee schemes directive**” means Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (recast), repealing directive [94/19/EC](https://www.legislation.gov.uk/european/directive/1994/0019) [^c22400761];
-- “eligible deposit” has the meaning given in section 70A(7) of the Banking Act 2009[^key-79799510ff4195ea34c6d95cab15d527]
+- “eligible deposit” has the meaning given in section 70A(7) of the Banking Act 2009[^c-79799510ff4195ea34c6d95cab15d527]
 - “**FSMA**” means the Financial Services and Markets Act 2000 [^c22400771];
-- [^key-322ba282f4066788b4819b1221e81f7a]...
+- [^c-322ba282f4066788b4819b1221e81f7a]...
 
 (2) Except as provided by paragraph (1) or article 3—
 
@@ -85,7 +85,7 @@ The Treasury, in exercise of the powers conferred by section 2(2) of that Act, m
 
 (1) In these Regulations “**compensation scheme member**” means an institution that—
 
-- (a)[^key-0df7c7f833e98dfadf57a435a1663a4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-0df7c7f833e98dfadf57a435a1663a4b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) falls into one of the categories of institution specified in paragraph (2).
 
 (2) The categories of institution mentioned in paragraph (1)(b) are—
@@ -98,17 +98,17 @@ The Treasury, in exercise of the powers conferred by section 2(2) of that Act, m
 - (c) a credit union; or
 - (d) an institution that—
   - (i) has its head office outside the United Kingdom;
-  - (ii) is not [^key-edba6e4406fa732be7c34e4e2d350561]... an insurer; and
+  - (ii) is not [^c-edba6e4406fa732be7c34e4e2d350561]... an insurer; and
   - (iii) has permission under Part 4A of FSMA to carry on the regulated activity of accepting deposits.
 
 (3) For the purposes of this regulation—
 
-- (a)[^key-8fc14343df6ec936a3067fbfb2d1ad3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8fc14343df6ec936a3067fbfb2d1ad3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**insurer**” means an institution which is authorised under Part 4A of FSMA to carry on the regulated activity of effecting or carrying out contracts of insurance as principal.
 
 ## PART 2 — The compensation scheme
 
-### 4. Designation of competent authority and designated authority[^key-e5f6a3b56d0df3b231cfb36bf57c894e]
+### 4. Designation of competent authority and designated authority[^c-e5f6a3b56d0df3b231cfb36bf57c894e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,7 +118,7 @@ The PRA must notify the scheme manager [^c22400851] in writing as soon as reason
 
 ### 6. Time limit for determining that a compensation scheme member is unable to repay deposits
 
-(1) If the relevant administrative authority is satisfied that a compensation scheme member has failed to repay a deposit [^c22400871] which is due and payable, the relevant administrative authority must determine whether in its view the compensation scheme member appears unable for the time being, for reasons which are directly related to its financial circumstances, to repay the deposit and the compensation scheme member has no current prospect of being able to do so.[^key-ce4120fac73864402c62b9569db77fb6]
+(1) If the relevant administrative authority is satisfied that a compensation scheme member has failed to repay a deposit [^c22400871] which is due and payable, the relevant administrative authority must determine whether in its view the compensation scheme member appears unable for the time being, for reasons which are directly related to its financial circumstances, to repay the deposit and the compensation scheme member has no current prospect of being able to do so.[^c-ce4120fac73864402c62b9569db77fb6]
 
 (2) The determination must be notified in writing to—
 
@@ -136,14 +136,14 @@ as soon as reasonably practicable and in any event before the end of the period 
 
 ### 7. Maximum compensation payable in respect of deposits held with a compensation scheme member
 
-(1)[^key-867f1d5ec355e1125d66705610422e64] The PRA must make compensation scheme rules which specify the maximum compensation payable in respect of eligible deposits held by a person with a compensation scheme member—
+(1)[^c-867f1d5ec355e1125d66705610422e64] The PRA must make compensation scheme rules which specify the maximum compensation payable in respect of eligible deposits held by a person with a compensation scheme member—
 
 - (a) in relation to categories of eligible deposit which fall within Article 6(2) of the deposit guarantee schemes directive; and
 - (b) in relation to all other categories of eligible deposit.
 
-(2)[^key-afaa18e70e2ef8b85137c743f0585d57] Compensation scheme rules made by the PRA in accordance with paragraph (1) are subject to regulation 7A.
+(2)[^c-afaa18e70e2ef8b85137c743f0585d57] Compensation scheme rules made by the PRA in accordance with paragraph (1) are subject to regulation 7A.
 
-### 7A. Transitional maximum compensation level[^key-924bbdef2027e09fa8a45be9ede639aa]
+### 7A. Transitional maximum compensation level[^c-924bbdef2027e09fa8a45be9ede639aa]
 
 (1) For the period from 3rd July 2015 to 31st December 2015, the maximum compensation payable in accordance with PRA compensation scheme rules in respect of eligible deposits held by a relevant person with a compensation scheme member is £85,000 (and no account shall be taken of any lower limit provided for in PRA compensation scheme rules), unless paragraph (2) applies.
 
@@ -156,7 +156,7 @@ as soon as reasonably practicable and in any event before the end of the period 
 - (a) were, or would have been, eligible for compensation under the compensation scheme before 3rd July 2015, and
 - (b) are eligible for compensation under the compensation scheme on 3rd July 2015 and after that date.
 
-(5)[^key-147ba8e82660bc39d79bb7ee96c13a79] The amount referred to in paragraph (3) must be reviewed periodically by the PRA and at least once every five years.
+(5)[^c-147ba8e82660bc39d79bb7ee96c13a79] The amount referred to in paragraph (3) must be reviewed periodically by the PRA and at least once every five years.
 
 (6) Having reviewed the amount referred to in paragraph (3), the PRA may adjust the amount, taking account of matters the PRA considers relevant, including in particular, developments in the banking sector and the economic and monetary situation in the United Kingdom.
 
@@ -170,7 +170,7 @@ as soon as reasonably practicable and in any event before the end of the period 
 
 (11) The PRA must not adjust the amount referred to in paragraph (3) in accordance with paragraph (6) or (8) without the prior written approval of the Treasury.
 
-### 8. Determination by PRA whether contributions may be raised by the scheme manager[^key-c9253ca9d1f108ecf6b79c50b60b2395]
+### 8. Determination by PRA whether contributions may be raised by the scheme manager[^c-c9253ca9d1f108ecf6b79c50b60b2395]
 
 (1) This regulation specifies conditions which must be met before the scheme manager may request a loan under section 223B of FSMA for the purposes of—
 
@@ -186,15 +186,15 @@ as soon as reasonably practicable and in any event before the end of the period 
 
 If the PRA makes compensation scheme rules in respect of eligible deposits limiting the levy payable by a compensation scheme member in respect of a period specified in those compensation scheme rules, the PRA may on receiving a request in writing from the scheme manager approve a levy on a person that exceeds that limit.
 
-### 10. Payment of compensation by the scheme manager on behalf of a non-UK scheme[^key-20d6689ca04f7668df525162e9c2cbb9]
+### 10. Payment of compensation by the scheme manager on behalf of a non-UK scheme[^c-20d6689ca04f7668df525162e9c2cbb9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Notification of covered deposits and available financial means of the compensation scheme[^key-4b9e82107b406d67cfa5ddb2353e58b2]
+### 11. Notification of covered deposits and available financial means of the compensation scheme[^c-4b9e82107b406d67cfa5ddb2353e58b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Notification of contents of co-operation agreements[^key-a251ee772ae7c130bfeda8a47c4d83c3]
+### 12. Notification of contents of co-operation agreements[^c-a251ee772ae7c130bfeda8a47c4d83c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -310,7 +310,7 @@ Regulations 46 to 48 of the Credit Institutions (Protection of Depositors) Regul
 
 ## PART 4 — Review
 
-### 18. Review[^key-2457c7d0077bb7358a3d313a836f7eba]
+### 18. Review[^c-2457c7d0077bb7358a3d313a836f7eba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -354,13 +354,13 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-2457c7d0077bb7358a3d313a836f7eba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/486) revoked (14.12.2023 for the revocation of reg. 18) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xii)
+[^c-2457c7d0077bb7358a3d313a836f7eba]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/486) revoked (14.12.2023 for the revocation of reg. 18) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(xii)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/xii)
 
 [^c22400701]: Marginal citation: [S.I. 2012/1759](https://www.legislation.gov.uk/uksi/2012/1759).
 
 [^c22400711]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under s. 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073) and the Protocol adjusting the Agreement signed in Brussels on 17th March 1993 (Cm 2183).
 
-[^key-e3e0a13b4af1bdb1c3600f1efe3f914e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/486): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-e3e0a13b4af1bdb1c3600f1efe3f914e]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2015/486): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c22400721]: Marginal citation: Section 213 of FSMA was amended by the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [section 38](https://www.legislation.gov.uk/ukpga/2012/21/section/38) and Schedule 10. Subsections (10) and (11) of section 213 were substituted for the original subsection (10) by [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613).
 
@@ -370,27 +370,27 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22400751]: Marginal citation: [1969 c.24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).
 
-[^key-5d55fb5a4aa550a43acdc16a3bda5747]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/2/1) substituted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d55fb5a4aa550a43acdc16a3bda5747]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/2/1) substituted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(2)(a)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22400761]: Marginal citation: OJ L173, 12.6.2014, p 149.
 
-[^key-79799510ff4195ea34c6d95cab15d527]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/2/1) inserted (4.12.2018) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/2/2/b)
+[^c-79799510ff4195ea34c6d95cab15d527]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/2/1) inserted (4.12.2018) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/2/2/b)
 
 [^c22400771]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-322ba282f4066788b4819b1221e81f7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/2/1) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-322ba282f4066788b4819b1221e81f7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/2/1) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0df7c7f833e98dfadf57a435a1663a4b]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/486/regulation/3/1/a) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0df7c7f833e98dfadf57a435a1663a4b]: Textual amendment: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2015/486/regulation/3/1/a) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22400781]: Marginal citation: “regulated activity” is defined in section 417 of FSMA.
 
 [^c22400791]: Marginal citation: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
-[^key-edba6e4406fa732be7c34e4e2d350561]: Textual amendment: Words in [reg. 3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/486/regulation/3/2/d/ii) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-edba6e4406fa732be7c34e4e2d350561]: Textual amendment: Words in [reg. 3(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2015/486/regulation/3/2/d/ii) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8fc14343df6ec936a3067fbfb2d1ad3f]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2015/486/regulation/3/3/a) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8fc14343df6ec936a3067fbfb2d1ad3f]: Textual amendment: [Reg. 3(3)(a)](https://www.legislation.gov.uk/uksi/2015/486/regulation/3/3/a) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e5f6a3b56d0df3b231cfb36bf57c894e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/486/regulation/4) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5f6a3b56d0df3b231cfb36bf57c894e]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/486/regulation/4) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(4)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22400851]: Marginal citation: “scheme manager” is defined in section 212(1) of FSMA.
 
@@ -398,23 +398,23 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c22400871]: Marginal citation: “deposit” is defined in point (3) of Article 2(1) of the deposit guarantee schemes directive.
 
-[^key-ce4120fac73864402c62b9569db77fb6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/6/1) substituted (4.12.2018) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/2/3)
+[^c-ce4120fac73864402c62b9569db77fb6]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/6/1) substituted (4.12.2018) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/2/3)
 
-[^key-867f1d5ec355e1125d66705610422e64]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/7/1): reg. 7 renumbered as reg. 7(1) (3.7.2015) by [The Deposit Guarantee Scheme (Amendment) Regulations 2015 (S.I. 2015/1456)](https://www.legislation.gov.uk/uksi/2015/1456), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1456/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1456/regulation/2/2)
+[^c-867f1d5ec355e1125d66705610422e64]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/486/regulation/7/1): reg. 7 renumbered as reg. 7(1) (3.7.2015) by [The Deposit Guarantee Scheme (Amendment) Regulations 2015 (S.I. 2015/1456)](https://www.legislation.gov.uk/uksi/2015/1456), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1456/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1456/regulation/2/2)
 
-[^key-afaa18e70e2ef8b85137c743f0585d57]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/7/2) inserted (3.7.2015) by [The Deposit Guarantee Scheme (Amendment) Regulations 2015 (S.I. 2015/1456)](https://www.legislation.gov.uk/uksi/2015/1456), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1456/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1456/regulation/2/3)
+[^c-afaa18e70e2ef8b85137c743f0585d57]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/7/2) inserted (3.7.2015) by [The Deposit Guarantee Scheme (Amendment) Regulations 2015 (S.I. 2015/1456)](https://www.legislation.gov.uk/uksi/2015/1456), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1456/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/1456/regulation/2/3)
 
-[^key-924bbdef2027e09fa8a45be9ede639aa]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2015/486/regulation/7A) inserted (3.7.2015) by [The Deposit Guarantee Scheme (Amendment) Regulations 2015 (S.I. 2015/1456)](https://www.legislation.gov.uk/uksi/2015/1456), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1456/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1456/regulation/2/4)
+[^c-924bbdef2027e09fa8a45be9ede639aa]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2015/486/regulation/7A) inserted (3.7.2015) by [The Deposit Guarantee Scheme (Amendment) Regulations 2015 (S.I. 2015/1456)](https://www.legislation.gov.uk/uksi/2015/1456), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1456/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1456/regulation/2/4)
 
-[^key-147ba8e82660bc39d79bb7ee96c13a79]: Textual amendment: [Reg. 7A(5)-(11)](https://www.legislation.gov.uk/uksi/2015/486/regulation/7A/5) inserted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/5) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [46](https://www.legislation.gov.uk/uksi/2020/1385/regulation/46)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-147ba8e82660bc39d79bb7ee96c13a79]: Textual amendment: [Reg. 7A(5)-(11)](https://www.legislation.gov.uk/uksi/2015/486/regulation/7A/5) inserted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/5) (as amended by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [46](https://www.legislation.gov.uk/uksi/2020/1385/regulation/46)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9253ca9d1f108ecf6b79c50b60b2395]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/486/regulation/8) substituted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9253ca9d1f108ecf6b79c50b60b2395]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/486/regulation/8) substituted (31.12.2020) by [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(6)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20d6689ca04f7668df525162e9c2cbb9]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/486/regulation/10) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(7)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20d6689ca04f7668df525162e9c2cbb9]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/486/regulation/10) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(7)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4b9e82107b406d67cfa5ddb2353e58b2]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/486/regulation/11) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4b9e82107b406d67cfa5ddb2353e58b2]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/486/regulation/11) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a251ee772ae7c130bfeda8a47c4d83c3]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/486/regulation/12) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(9)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a251ee772ae7c130bfeda8a47c4d83c3]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/486/regulation/12) omitted (31.12.2020) by virtue of [The Deposit Guarantee Scheme and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1285)](https://www.legislation.gov.uk/uksi/2018/1285), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/1/3), [5(9)](https://www.legislation.gov.uk/uksi/2018/1285/regulation/5/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22400951]: Marginal citation: [Section 55Z2](https://www.legislation.gov.uk/uksi/2015/486/section/55Z2) was inserted by the Financial Services Act 2012, section 11(2). Subsection (1) was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 

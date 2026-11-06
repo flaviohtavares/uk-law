@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Powers to intervene[^key-30c8ef6310c5650a42d9a362ce19348f][^key-7fedadd2c20b2c77a9a7c776651a4bec]
+## 70. Powers to intervene[^c-30c8ef6310c5650a42d9a362ce19348f][^c-7fedadd2c20b2c77a9a7c776651a4bec]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-30c8ef6310c5650a42d9a362ce19348f]: Commencement: S. 70 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-30c8ef6310c5650a42d9a362ce19348f]: Commencement: S. 70 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-7fedadd2c20b2c77a9a7c776651a4bec]: Commencement: [S. 70](https://www.legislation.gov.uk/asc/2022/1/section/70) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 3(a)](https://www.legislation.gov.uk/wsi/2026/62/article/3/a)
+[^c-7fedadd2c20b2c77a9a7c776651a4bec]: Commencement: [S. 70](https://www.legislation.gov.uk/asc/2022/1/section/70) in force at 1.4.2026 for specified purposes by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 3(a)](https://www.legislation.gov.uk/wsi/2026/62/article/3/a)

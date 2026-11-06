@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 126. Treatment of child support maintenance[^key-c92dad4131ab973bfda37664c6140473]
+## 126. Treatment of child support maintenance[^c-c92dad4131ab973bfda37664c6140473]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Subject to regulation 127 (disregard of payments treated as not relevant income)
 
 ## Annotations
 
-[^key-c92dad4131ab973bfda37664c6140473]: Commencement: Reg. 126 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c92dad4131ab973bfda37664c6140473]: Commencement: Reg. 126 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

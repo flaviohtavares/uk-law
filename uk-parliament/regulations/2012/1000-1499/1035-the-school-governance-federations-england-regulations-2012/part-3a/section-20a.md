@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20A. Roles of the governing body and head teacher[^key-97cc6e43dd78d3866e8f0e2a0e49b560]
+## 20A. Roles of the governing body and head teacher[^c-97cc6e43dd78d3866e8f0e2a0e49b560]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97cc6e43dd78d3866e8f0e2a0e49b560]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2012/1035/part/3A) inserted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))
+[^c-97cc6e43dd78d3866e8f0e2a0e49b560]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2012/1035/part/3A) inserted (1.9.2013) by [The School Governance (Roles, Procedures and Allowances) (England) Regulations 2013 (S.I. 2013/1624)](https://www.legislation.gov.uk/uksi/2013/1624), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/1), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2013/1624/schedule/2/paragraph/2/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/1624/regulation/1/3))

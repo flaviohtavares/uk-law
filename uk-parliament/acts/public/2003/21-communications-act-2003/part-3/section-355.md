@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 355. Variation of local licence following change of control[^key-694e07258390aa322373daed90fa9350]
+## 355. Variation of local licence following change of control[^c-694e07258390aa322373daed90fa9350]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-694e07258390aa322373daed90fa9350]: Textual amendment: S. 355 omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/43/4), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))
+[^c-694e07258390aa322373daed90fa9350]: Textual amendment: S. 355 omitted (17.10.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 43(4)](https://www.legislation.gov.uk/ukpga/2024/15/section/43/4), [55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e); [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))

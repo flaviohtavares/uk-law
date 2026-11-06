@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Reasons for decisions[^key-2a9bf037c6ab3848b87cd11bf83cd965]
+## 51. Reasons for decisions[^c-2a9bf037c6ab3848b87cd11bf83cd965]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ After section 195 of the WIA there is inserted—
 
 ## Annotations
 
-[^key-2a9bf037c6ab3848b87cd11bf83cd965]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2003/37/section/51) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/968/article/2/j) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/968/schedule/2/paragraph/1))
+[^c-2a9bf037c6ab3848b87cd11bf83cd965]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2003/37/section/51) in force at 1.4.2005 by [S.I. 2005/968](https://www.legislation.gov.uk/uksi/2005/968), [art. 2(j)](https://www.legislation.gov.uk/uksi/2005/968/article/2/j) (with [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/968/schedule/2/paragraph/1))

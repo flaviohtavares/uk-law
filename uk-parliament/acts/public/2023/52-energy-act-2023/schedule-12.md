@@ -22,7 +22,7 @@ summary: ''
 
 Section 200(1)
 
-### 1. Meaning of “qualifying document”, “qualifying contract” and “qualifying central system”[^key-63a26957197f943ed68f65695bbefd66][^key-dc810dfc51de20edf1359014d9ee31b8]
+### 1. Meaning of “qualifying document”, “qualifying contract” and “qualifying central system”[^c-63a26957197f943ed68f65695bbefd66][^c-dc810dfc51de20edf1359014d9ee31b8]
 
 (1) In this Schedule, “**qualifying document**” means a document that—
 
@@ -50,7 +50,7 @@ Section 200(1)
 
 (8) Before making a recommendation to the Secretary of State for the purposes of sub-paragraph (7), the GEMA must consult such persons as it considers appropriate.
 
-### 2. Purposes for which powers under this Schedule may be exercised[^key-39d62cde71e27b83a3a086fa5fd0bea5][^key-bd6ff70f1b4166a0d64753d0d57bbb21]
+### 2. Purposes for which powers under this Schedule may be exercised[^c-39d62cde71e27b83a3a086fa5fd0bea5][^c-bd6ff70f1b4166a0d64753d0d57bbb21]
 
 (1) The GEMA may exercise a power conferred on it by paragraph 4, 6, 7, 8 or 11 only if the GEMA considers it appropriate to exercise the power—
 
@@ -62,14 +62,14 @@ Section 200(1)
 
 (2) Sub-paragraph (1)(d) does not apply to the exercise of the power conferred by paragraph 6 in relation to a qualifying contract within paragraph 1(3)(b) or (c).
 
-### 3. Expiry of powers under this Schedule[^key-5db4237958ff2865bc99fe54be24549a][^key-ceabf959523c8f88bebf27491cf238dc]
+### 3. Expiry of powers under this Schedule[^c-5db4237958ff2865bc99fe54be24549a][^c-ceabf959523c8f88bebf27491cf238dc]
 
 The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to a particular qualifying document expire—
 
 - (a) when the document becomes a designated document, or
 - (b) if earlier, at the end of the period of 7 years after the day on which this Act is passed.
 
-### 4. Modification of qualifying documents and relevant licences[^key-9dc349538de5c8857c4722f04e6d95e5][^key-83f704993fd87f098b9dbf9897f66c94]
+### 4. Modification of qualifying documents and relevant licences[^c-9dc349538de5c8857c4722f04e6d95e5][^c-83f704993fd87f098b9dbf9897f66c94]
 
 (1) The GEMA may modify—
 
@@ -122,7 +122,7 @@ The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to 
 
 (9) For the purposes of this paragraph, “**modification**”, in relation to a qualifying document, includes the incorporation of the whole or part of the provision made by the document into another document.
 
-**5.**[^key-ac160a23dac8f4446bec50d38b06f532][^key-1d4115e8173ba0bb7a818cd03c34d072] (1) Sub-paragraphs (2) and (3) apply where at any time the GEMA modifies the conditions of licences of any type under paragraph 4.
+**5.**[^c-ac160a23dac8f4446bec50d38b06f532][^c-1d4115e8173ba0bb7a818cd03c34d072] (1) Sub-paragraphs (2) and (3) apply where at any time the GEMA modifies the conditions of licences of any type under paragraph 4.
 
 (2) If the conditions modified are standard conditions, the GEMA must—
 
@@ -133,7 +133,7 @@ The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to 
 
 (4) The modification of part of a standard condition of a particular licence under paragraph 4 does not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of Part 1 of the Electricity Act 1989 (in the case of a licence under section 6(1) of that Act) or Part 1 of the Gas Act 1986 (in the case of a licence under section 7, 7ZA, 7A or 7AB of that Act).
 
-### 6. Amendment or termination of qualifying contracts[^key-537c922c5c6ce3ea0339485dddf36996][^key-63445937765d8ceedb07b7289bc37cf9]
+### 6. Amendment or termination of qualifying contracts[^c-537c922c5c6ce3ea0339485dddf36996][^c-63445937765d8ceedb07b7289bc37cf9]
 
 (1) The GEMA may amend a qualifying contract.
 
@@ -167,7 +167,7 @@ The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to 
 
 (7) In this paragraph, “**amend**”, in relation to a contract, includes terminate.
 
-### 7. Arrangements in connection with code consolidation[^key-846a58b7396818811cd99ae0dbade7f4][^key-253090dd1eda767aedca66cebfde0dae]
+### 7. Arrangements in connection with code consolidation[^c-846a58b7396818811cd99ae0dbade7f4][^c-253090dd1eda767aedca66cebfde0dae]
 
 (1) The GEMA may, in connection with the consolidation of one or more qualifying documents, make a scheme for the purpose of securing the continued effect of rights or liabilities under a contract that is a qualifying contract within paragraph 1(3)(a).
 
@@ -175,7 +175,7 @@ The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to 
 
 (3) A scheme under this paragraph may make incidental, supplementary or consequential provision (including provision amending the qualifying contract).
 
-### 8. Transfer schemes[^key-e3ab24e2ad0d57adb571581e24d79eb4][^key-9935d260b560d10e5ea18258ec16d6a2]
+### 8. Transfer schemes[^c-e3ab24e2ad0d57adb571581e24d79eb4][^c-9935d260b560d10e5ea18258ec16d6a2]
 
 (1) The GEMA may make one or more schemes for the transfer of designated property, rights or liabilities from one person (“**the transferor**”) to another person (“**the transferee**”) where the condition in sub-paragraph (2) is met.
 
@@ -227,7 +227,7 @@ The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to 
 - “**property**” includes interests of any description;
 - “**the transfer date**” means a date specified by a scheme as the date on which the transfer is to have effect.
 
-**9.**[^key-fce5219c852289b73e2282cb624bb6b2][^key-7afe70432d5cd5d233a8b9b9b0da77cc] (1) Before making a scheme under paragraph 8, the GEMA must consult—
+**9.**[^c-fce5219c852289b73e2282cb624bb6b2][^c-7afe70432d5cd5d233a8b9b9b0da77cc] (1) Before making a scheme under paragraph 8, the GEMA must consult—
 
 - (a) the transferor;
 - (b) the transferee;
@@ -235,13 +235,13 @@ The powers conferred on the GEMA by paragraphs 4, 6, 7, 8 and 11 in relation to 
 
 (2) The approval of the Secretary of State is required for the making of a scheme under paragraph 8.
 
-**10.**[^key-e29286fc2c282a325c01b22be4424ef2][^key-7884d9c035208922be1de913ac746ea5] (1) The GEMA may modify a scheme under paragraph 8.
+**10.**[^c-e29286fc2c282a325c01b22be4424ef2][^c-7884d9c035208922be1de913ac746ea5] (1) The GEMA may modify a scheme under paragraph 8.
 
 (2) The power under sub-paragraph (1) is not exercisable in relation to a scheme after the end of the period of 12 months beginning with the day on which the scheme takes effect.
 
 (3) Paragraphs 8 and 9 apply in relation to the modification of a scheme as they apply in relation to the making of the scheme.
 
-### 11. Information[^key-27b8a62424f74ac2b3280c4a1efcb7e4][^key-3f0c342e183e1825b1f3132fc681f05f]
+### 11. Information[^c-27b8a62424f74ac2b3280c4a1efcb7e4][^c-3f0c342e183e1825b1f3132fc681f05f]
 
 (1) The GEMA may direct a person who holds information reasonably required by the GEMA—
 
@@ -261,7 +261,7 @@ to provide the information to the GEMA.
 - (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or
 - (c) for any other appropriate remedy or relief.
 
-### 12. Compensation[^key-3152411c80a1856baf3a6f63bbd2e9ac][^key-d64aa1491d0dfb025f7269d4ed9d5fd3]
+### 12. Compensation[^c-3152411c80a1856baf3a6f63bbd2e9ac][^c-d64aa1491d0dfb025f7269d4ed9d5fd3]
 
 (1) The relevant code manager must make a payment to a person within sub-paragraph (2) in compensation for financial loss suffered by the person in consequence of the exercise by the GEMA of—
 
@@ -291,60 +291,60 @@ to provide the information to the GEMA.
 
 (6) The Secretary of State may in a particular case direct that the duty under sub-paragraph (1) is to be discharged by a person specified in the direction (instead of by the relevant code manager).
 
-### 13. Other[^key-2e113fcc84fd644c76a6c05ea47786d9][^key-92df6ebf08297cad47d1e58b33fe9746]
+### 13. Other[^c-2e113fcc84fd644c76a6c05ea47786d9][^c-92df6ebf08297cad47d1e58b33fe9746]
 
 Any requirement imposed by this Schedule to carry out consultation may be satisfied by consultation before the passing of this Act (as well as by consultation after that time).
 
 ## Annotations
 
-[^key-63a26957197f943ed68f65695bbefd66]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-63a26957197f943ed68f65695bbefd66]: Commencement: Sch. 12 para. 1 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-dc810dfc51de20edf1359014d9ee31b8]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/1) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-dc810dfc51de20edf1359014d9ee31b8]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/1) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-39d62cde71e27b83a3a086fa5fd0bea5]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-39d62cde71e27b83a3a086fa5fd0bea5]: Commencement: Sch. 12 para. 2 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-bd6ff70f1b4166a0d64753d0d57bbb21]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/2) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-bd6ff70f1b4166a0d64753d0d57bbb21]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/2) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-5db4237958ff2865bc99fe54be24549a]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-5db4237958ff2865bc99fe54be24549a]: Commencement: Sch. 12 para. 3 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-ceabf959523c8f88bebf27491cf238dc]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/3) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-ceabf959523c8f88bebf27491cf238dc]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/3) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-9dc349538de5c8857c4722f04e6d95e5]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-9dc349538de5c8857c4722f04e6d95e5]: Commencement: Sch. 12 para. 4 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-83f704993fd87f098b9dbf9897f66c94]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/4) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-83f704993fd87f098b9dbf9897f66c94]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/4) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-ac160a23dac8f4446bec50d38b06f532]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-ac160a23dac8f4446bec50d38b06f532]: Commencement: Sch. 12 para. 5 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-1d4115e8173ba0bb7a818cd03c34d072]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/5) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-1d4115e8173ba0bb7a818cd03c34d072]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/5) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-537c922c5c6ce3ea0339485dddf36996]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-537c922c5c6ce3ea0339485dddf36996]: Commencement: Sch. 12 para. 6 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-63445937765d8ceedb07b7289bc37cf9]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/6) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-63445937765d8ceedb07b7289bc37cf9]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/6) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-846a58b7396818811cd99ae0dbade7f4]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-846a58b7396818811cd99ae0dbade7f4]: Commencement: Sch. 12 para. 7 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-253090dd1eda767aedca66cebfde0dae]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/7) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-253090dd1eda767aedca66cebfde0dae]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/7) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-e3ab24e2ad0d57adb571581e24d79eb4]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-e3ab24e2ad0d57adb571581e24d79eb4]: Commencement: Sch. 12 para. 8 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-9935d260b560d10e5ea18258ec16d6a2]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/8) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-9935d260b560d10e5ea18258ec16d6a2]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/8) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-fce5219c852289b73e2282cb624bb6b2]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-fce5219c852289b73e2282cb624bb6b2]: Commencement: Sch. 12 para. 9 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-7afe70432d5cd5d233a8b9b9b0da77cc]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/9) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-7afe70432d5cd5d233a8b9b9b0da77cc]: Commencement: [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/9) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-e29286fc2c282a325c01b22be4424ef2]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-e29286fc2c282a325c01b22be4424ef2]: Commencement: Sch. 12 para. 10 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-7884d9c035208922be1de913ac746ea5]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/10) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-7884d9c035208922be1de913ac746ea5]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/10) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-27b8a62424f74ac2b3280c4a1efcb7e4]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-27b8a62424f74ac2b3280c4a1efcb7e4]: Commencement: Sch. 12 para. 11 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-3f0c342e183e1825b1f3132fc681f05f]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/11) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-3f0c342e183e1825b1f3132fc681f05f]: Commencement: [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/11) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-3152411c80a1856baf3a6f63bbd2e9ac]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-3152411c80a1856baf3a6f63bbd2e9ac]: Commencement: Sch. 12 para. 12 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-d64aa1491d0dfb025f7269d4ed9d5fd3]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/12) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-d64aa1491d0dfb025f7269d4ed9d5fd3]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/12) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
 
-[^key-2e113fcc84fd644c76a6c05ea47786d9]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-2e113fcc84fd644c76a6c05ea47786d9]: Commencement: Sch. 12 para. 13 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-92df6ebf08297cad47d1e58b33fe9746]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/13) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)
+[^c-92df6ebf08297cad47d1e58b33fe9746]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2023/52/schedule/12/paragraph/13) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(ix)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/ix)

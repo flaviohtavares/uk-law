@@ -155,7 +155,7 @@ Section 32
 
 ### Enforcement
 
-**12.**[^key-88ae7fd26558a56fc24cfcfe2316ddaa] (1) After section 8 add—
+**12.**[^c-88ae7fd26558a56fc24cfcfe2316ddaa] (1) After section 8 add—
 
 > **8A. Enforcement by trading standards authority**
 >
@@ -180,7 +180,7 @@ Section 32
 - (a) make arrangements with a local weights and measures authority for the exercise of the authority's power under section 8 of the Olympic Symbol etc. (Protection) Act 1995 (as inserted by sub-paragraph (1));
 - (b) may make payments to a local weights and measures authority in respect of expenses incurred in the exercise of that power.
 
-**13.**[^key-29416b4c4b32c2c4552459283de32fa1] After section 8A (inserted by paragraph 12 above) insert—
+**13.**[^c-29416b4c4b32c2c4552459283de32fa1] After section 8A (inserted by paragraph 12 above) insert—
 
 > **8B. Arrest**
 >
@@ -194,7 +194,7 @@ Section 32
 >
 > (3) Subsection (2) is without prejudice to any power of arrest which is otherwise exercisable by a constable in Scotland.
 
-**14.**[^key-956aa911ba09a04628a1458103cdcfb2] After section 12 (forfeiture) insert—
+**14.**[^c-956aa911ba09a04628a1458103cdcfb2] After section 12 (forfeiture) insert—
 
 > **12A. Detention by Revenue and Customs**
 >
@@ -291,8 +291,8 @@ Section 32
 
 ## Annotations
 
-[^key-88ae7fd26558a56fc24cfcfe2316ddaa]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/12) in force at 2.4.2007 by [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/a)
+[^c-88ae7fd26558a56fc24cfcfe2316ddaa]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/12) in force at 2.4.2007 by [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/a)
 
-[^key-29416b4c4b32c2c4552459283de32fa1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/13) in force at 2.4.2007 for specified purposes by [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/b)
+[^c-29416b4c4b32c2c4552459283de32fa1]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/13) in force at 2.4.2007 for specified purposes by [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/b)
 
-[^key-956aa911ba09a04628a1458103cdcfb2]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/14) in force at 2.4.2007 by [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/c)
+[^c-956aa911ba09a04628a1458103cdcfb2]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/14) in force at 2.4.2007 by [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/c)

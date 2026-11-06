@@ -48,17 +48,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 26(4A)[^f00002] of that Act, they have consulted Scottish Natural Heritage and any other person appearing to them to have an interest in the making of the Order.
 
-## 1. Citation, commencement and interpretation[^key-1fec070e52c8c33afba62e5439dc4aaf]
+## 1. Citation, commencement and interpretation[^c-1fec070e52c8c33afba62e5439dc4aaf]
 
 (1) This Order may be cited as the Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Order 2012, and comes into force on 2nd July 2012.
 
 (2) In this Order, “the 1981 Act” means the Wildlife and Countryside Act 1981.
 
-## 2. Disapplication of section 14(1) of the 1981 Act[^key-33858c286252f3c50c07c14f3f1b3b64]
+## 2. Disapplication of section 14(1) of the 1981 Act[^c-33858c286252f3c50c07c14f3f1b3b64]
 
-(1) The type of animal listed in Part 1 of the Schedule is specified for the purposes of section 14(2B)(a) of the 1981 Act (type of animal to which subsection (1)(a)(i) does not apply)[^key-3e8d671b01c4d34d55a7d54ce6053d46].
+(1) The type of animal listed in Part 1 of the Schedule is specified for the purposes of section 14(2B)(a) of the 1981 Act (type of animal to which subsection (1)(a)(i) does not apply)[^c-3e8d671b01c4d34d55a7d54ce6053d46].
 
-(2) The type of plant listed in column (1) (whose Scientific[^key-49f1ee5710d46e6e015eba6acefeb12f] name is listed in column (2)) of the table in Part 2 of the Schedule is specified for the purposes of section 14(2B)(b) of the 1981 Act, to the extent mentioned in column (3) of that table.
+(2) The type of plant listed in column (1) (whose Scientific[^c-49f1ee5710d46e6e015eba6acefeb12f] name is listed in column (2)) of the table in Part 2 of the Schedule is specified for the purposes of section 14(2B)(b) of the 1981 Act, to the extent mentioned in column (3) of that table.
 
 STEWART STEVENSON
 
@@ -74,14 +74,14 @@ Edinburgh
 
 Article 2
 
-### PART 1 — Type of animal specified for the purposes of section 14(2B)(a) of the 1981 Act (types of animal to which section 14(1)(a)(i) does not apply)[^key-3e85b52a2adae79e3c409372600ac379]
+### PART 1 — Type of animal specified for the purposes of section 14(2B)(a) of the 1981 Act (types of animal to which section 14(1)(a)(i) does not apply)[^c-3e85b52a2adae79e3c409372600ac379]
 
 A fish caught by rod and line, but only where the release takes place—
 
 - (a) at the same location where the fish was caught; and
 - (b) on the same day that the fish was caught.
 
-### PART 2 — Types of plants specified for the purposes of section 14(2B)(b) of the 1981 Act (types of plants to which section 14(2) does not apply)[^key-9ef66ea3a317d2f73b40e49973d1d9bb]
+### PART 2 — Types of plants specified for the purposes of section 14(2B)(b) of the 1981 Act (types of plants to which section 14(2) does not apply)[^c-9ef66ea3a317d2f73b40e49973d1d9bb]
 
 <table>
 <thead>
@@ -216,14 +216,14 @@ Section 14(2) of the 1981 Act makes it an offence for any person to plant, or ot
 
 [^f00002]: Footnote: Section 26(4A) was inserted by section 17(6)(c) of the 2011 Act.
 
-[^key-1fec070e52c8c33afba62e5439dc4aaf]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/173/article/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/173/article/1/1)
+[^c-1fec070e52c8c33afba62e5439dc4aaf]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2012/173/article/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/173/article/1/1)
 
-[^key-33858c286252f3c50c07c14f3f1b3b64]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/173/article/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/173/article/1/1)
+[^c-33858c286252f3c50c07c14f3f1b3b64]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2012/173/article/2) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/173/article/1/1)
 
-[^key-3e8d671b01c4d34d55a7d54ce6053d46]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/173/article/2/1) inserted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Amendment Order 2012 (S.S.I. 2012/205)](https://www.legislation.gov.uk/ssi/2012/205), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/205/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/205/article/2/2)
+[^c-3e8d671b01c4d34d55a7d54ce6053d46]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/173/article/2/1) inserted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Amendment Order 2012 (S.S.I. 2012/205)](https://www.legislation.gov.uk/ssi/2012/205), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/205/article/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/205/article/2/2)
 
-[^key-49f1ee5710d46e6e015eba6acefeb12f]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/173/article/2/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Amendment Order 2012 (S.S.I. 2012/205)](https://www.legislation.gov.uk/ssi/2012/205), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/205/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/205/article/2/3)
+[^c-49f1ee5710d46e6e015eba6acefeb12f]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/173/article/2/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Amendment Order 2012 (S.S.I. 2012/205)](https://www.legislation.gov.uk/ssi/2012/205), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/205/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2012/205/article/2/3)
 
-[^key-3e85b52a2adae79e3c409372600ac379]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2012/173/schedule/part/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/173/article/1/1)
+[^c-3e85b52a2adae79e3c409372600ac379]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2012/173/schedule/part/1) in force at 2.7.2012, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2012/173/article/1/1)
 
-[^key-9ef66ea3a317d2f73b40e49973d1d9bb]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2012/173/schedule/part/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Amendment Order 2012 (S.S.I. 2012/205)](https://www.legislation.gov.uk/ssi/2012/205), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/205/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/205/article/2/4), [sch.](https://www.legislation.gov.uk/ssi/2012/205/schedule)
+[^c-9ef66ea3a317d2f73b40e49973d1d9bb]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2012/173/schedule/part/2) substituted (2.7.2012) by [The Wildlife and Countryside Act 1981 (Exceptions to section 14) (Scotland) Amendment Order 2012 (S.S.I. 2012/205)](https://www.legislation.gov.uk/ssi/2012/205), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2012/205/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/205/article/2/4), [sch.](https://www.legislation.gov.uk/ssi/2012/205/schedule)

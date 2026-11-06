@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Order to permit steps required by enforcement notice[^key-43605e067f27fb6cee539b62fd7f58d6]
+## 135. Order to permit steps required by enforcement notice[^c-43605e067f27fb6cee539b62fd7f58d6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43605e067f27fb6cee539b62fd7f58d6]: Commencement: S. 135 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-43605e067f27fb6cee539b62fd7f58d6]: Commencement: S. 135 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

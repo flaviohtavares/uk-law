@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Forfeiture[^key-afc123d8fa9e35053e656fd9bf1a3d7e]
+## 38. Forfeiture[^c-afc123d8fa9e35053e656fd9bf1a3d7e]
 
 *Extent: N.I.*
 
@@ -27,11 +27,11 @@ summary: ''
 (3) The offences referred to in paragraph (2) are—
 
 - (a) an offence of treason;
-- (b) one or more offences under the Official Secrets Acts 1911 to 1989 , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-f9fd83dba4092f175c00f60a5491c1c6] for which the grantee has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least ten years.
+- (b) one or more offences under the Official Secrets Acts 1911 to 1989 , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-f9fd83dba4092f175c00f60a5491c1c6] for which the grantee has been sentenced on the same occasion to a term of imprisonment of, or to two or more consecutive terms amounting in the aggregate to, at least ten years.
 
 (4) The Board may determine that a pension to which this regulation applies be forfeited, in whole or in part and permanently or temporarily as it may specify, if the grantee has been convicted of an offence committed in connection with his service as a police officer which is certified by the Secretary of State either to have been gravely injurious to the interests of the State or to be liable to lead to serious loss of confidence in the public service.
 
-(4A)[^key-745009dd40065f6328c8b05476ff634e] The Board may, to such extent as they at any time in their discretion think fit—
+(4A)[^c-745009dd40065f6328c8b05476ff634e] The Board may, to such extent as they at any time in their discretion think fit—
 
 - (a) apply for the benefit of any adult or child survivor of the grantee of the pension; or
 - (b) restore to the grantee of the pension,
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-afc123d8fa9e35053e656fd9bf1a3d7e]: Commencement: Reg. 38 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-afc123d8fa9e35053e656fd9bf1a3d7e]: Commencement: Reg. 38 in operation at 25.7.2006 with effect in accordance with reg. 1
 
-[^key-f9fd83dba4092f175c00f60a5491c1c6]: Textual amendment: Words in [reg. 38(3)(b)](https://www.legislation.gov.uk/nisr/2006/268/regulation/38/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/17)
+[^c-f9fd83dba4092f175c00f60a5491c1c6]: Textual amendment: Words in [reg. 38(3)(b)](https://www.legislation.gov.uk/nisr/2006/268/regulation/38/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/17)
 
-[^key-745009dd40065f6328c8b05476ff634e]: Textual amendment: [Reg. 38(4A)](https://www.legislation.gov.uk/nisr/2006/268/regulation/38/4A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pension (Northern Ireland) Regulations 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2009/79/schedule/5/paragraph/13)
+[^c-745009dd40065f6328c8b05476ff634e]: Textual amendment: [Reg. 38(4A)](https://www.legislation.gov.uk/nisr/2006/268/regulation/38/4A) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Police Pension (Northern Ireland) Regulations 2009 (S.R. 2009/79)](https://www.legislation.gov.uk/nisr/2009/79), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2), [Sch. 5 para. 13](https://www.legislation.gov.uk/nisr/2009/79/schedule/5/paragraph/13)

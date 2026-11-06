@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Incomplete or defective adjacency agreement forms[^key-509350e7e58cd343cbd8dffbb4a92b32]
+## 94. Incomplete or defective adjacency agreement forms[^c-509350e7e58cd343cbd8dffbb4a92b32]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-509350e7e58cd343cbd8dffbb4a92b32]: Commencement: Reg. 94 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-509350e7e58cd343cbd8dffbb4a92b32]: Commencement: Reg. 94 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

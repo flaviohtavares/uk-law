@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Transitional family premium[^key-76b555139ff4f5686cc9203c1c58b0bc]
+## 98. Transitional family premium[^c-76b555139ff4f5686cc9203c1c58b0bc]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The amount of a transitional family premium is—
 
 - (a) £22.20 per week if that is the amount the applicant was entitled to on 31 March 2022, and
-- (b) in all other cases, £20.22[^key-a059fa8c75fc277631e32c8c02edef0b] per week.
+- (b) in all other cases, £20.22[^c-a059fa8c75fc277631e32c8c02edef0b] per week.
 
 (3) A transitional family premium is to be included in determining the person’s weekly applicable amount (see regulation 35).
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-76b555139ff4f5686cc9203c1c58b0bc]: Commencement: [Reg. 98](https://www.legislation.gov.uk/ssi/2021/249/regulation/98) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-76b555139ff4f5686cc9203c1c58b0bc]: Commencement: [Reg. 98](https://www.legislation.gov.uk/ssi/2021/249/regulation/98) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00226]: Footnote: [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81).
 
-[^key-a059fa8c75fc277631e32c8c02edef0b]: Textual amendment: Sum in reg. 98(2)(b) substituted (1.4.2026) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/56)](https://www.legislation.gov.uk/ssi/2026/56), [regs. 1](https://www.legislation.gov.uk/ssi/2026/56/regulation/1), [13](https://www.legislation.gov.uk/ssi/2026/56/regulation/13)
+[^c-a059fa8c75fc277631e32c8c02edef0b]: Textual amendment: Sum in reg. 98(2)(b) substituted (1.4.2026) by [The Council Tax Reduction (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/56)](https://www.legislation.gov.uk/ssi/2026/56), [regs. 1](https://www.legislation.gov.uk/ssi/2026/56/regulation/1), [13](https://www.legislation.gov.uk/ssi/2026/56/regulation/13)

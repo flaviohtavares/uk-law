@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, publication and commencement[^key-41b176ee7d9b62ce7142716dee929930]
+## 1. Citation, publication and commencement[^c-41b176ee7d9b62ce7142716dee929930]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41b176ee7d9b62ce7142716dee929930]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1751/article/1) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-41b176ee7d9b62ce7142716dee929930]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1751/article/1) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

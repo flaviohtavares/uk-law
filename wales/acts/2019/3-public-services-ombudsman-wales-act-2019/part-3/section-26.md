@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Action following receipt of a report[^key-b352d6c40f788476e771a19143bcae38]
+## 26. Action following receipt of a report[^c-b352d6c40f788476e771a19143bcae38]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b352d6c40f788476e771a19143bcae38]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2019/3/section/26) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-b352d6c40f788476e771a19143bcae38]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2019/3/section/26) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

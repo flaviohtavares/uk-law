@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Traffic directors in London[^key-1f7a8158fcf0b5f11367653829ced7b4][^key-f576d985ce2ef07af2585cdb918a20e9]
+## 29. Traffic directors in London[^c-1f7a8158fcf0b5f11367653829ced7b4][^c-f576d985ce2ef07af2585cdb918a20e9]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ dispensing with any of the requirements mentioned there (whether or not by varyi
 
 ## Annotations
 
-[^key-1f7a8158fcf0b5f11367653829ced7b4]: Commencement: S. 29 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
+[^c-1f7a8158fcf0b5f11367653829ced7b4]: Commencement: S. 29 in force at 4.1.2005 for E. by [S.I. 2004/3110](https://www.legislation.gov.uk/uksi/2004/3110), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/3110/article/2/a)
 
-[^key-f576d985ce2ef07af2585cdb918a20e9]: Commencement: S. 29 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)
+[^c-f576d985ce2ef07af2585cdb918a20e9]: Commencement: S. 29 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/b)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Access to works[^key-f34d8da882d0d49a8a99939b55f20afc]
+## SCHEDULE 6 — Access to works[^c-f34d8da882d0d49a8a99939b55f20afc]
 
 *Extent: E+W*
 
 Article 14
 
-[^key-f34d8da882d0d49a8a99939b55f20afc]
+[^c-f34d8da882d0d49a8a99939b55f20afc]
 
 In the County of Conwy:
 
@@ -49,7 +49,7 @@ In the County of Conwy:
 | AC-L1 | Crossing point over and from public highway unclassified road as shown on sheet 8 of the street works and access to works plan |
 | AC-L2 | Crossing point over and from public highway unclassified road as shown on sheet 8 of the street works and access to works plan |
 
-[^key-f34d8da882d0d49a8a99939b55f20afc]
+[^c-f34d8da882d0d49a8a99939b55f20afc]
 
 In the County of Denbighshire:
 
@@ -70,4 +70,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-f34d8da882d0d49a8a99939b55f20afc]: Commencement: Sch. 6 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-f34d8da882d0d49a8a99939b55f20afc]: Commencement: Sch. 6 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

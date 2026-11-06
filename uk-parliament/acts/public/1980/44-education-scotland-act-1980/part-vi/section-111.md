@@ -24,7 +24,7 @@ summary: ''
 
 (2) The governing body of every endowment to which this section applies shall keep proper accounts and other records in relation to the functioning of that body, and shall prepare in respect of each financial year a statement of account [^c9699271]
 
-(3) The accounts of every endowment to which this section applies shall be audited each year by an auditor appointed by the governing body [^c9699271]; and no person shall be appointed auditor as aforesaid unless he is eligible for appointment as a[^c9699311] statutory auditor under Part 42 of the Companies Act 2006[^key-f4c22d808ca629eb48495e8f4404c07e].
+(3) The accounts of every endowment to which this section applies shall be audited each year by an auditor appointed by the governing body [^c9699271]; and no person shall be appointed auditor as aforesaid unless he is eligible for appointment as a[^c9699311] statutory auditor under Part 42 of the Companies Act 2006[^c-f4c22d808ca629eb48495e8f4404c07e].
 
 (4)(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c9699321]
 
@@ -40,7 +40,7 @@ summary: ''
 
 [^c9699311]: Textual amendment: S. 111(3): by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [reg. 2](https://www.legislation.gov.uk/uksi/1991/1997/regulation/2), [Sch. para.36](https://www.legislation.gov.uk/uksi/1991/1997/schedule/paragraph/36) (with [reg. 4](https://www.legislation.gov.uk/uksi/1991/1997/regulation/4)) it is provided that words shall be substituted (01.10.1991) for the words from 'and no person shall be eligible' to the end
 
-[^key-f4c22d808ca629eb48495e8f4404c07e]: Textual amendment: Words in [s. 111(3)](https://www.legislation.gov.uk/ukpga/1980/44/section/111/3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(u)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/u) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-f4c22d808ca629eb48495e8f4404c07e]: Textual amendment: Words in [s. 111(3)](https://www.legislation.gov.uk/ukpga/1980/44/section/111/3) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 1(u)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/1/u) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^c9699321]: Textual amendment: S. 111(4)(5) repealed by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/58/schedule/9)
 

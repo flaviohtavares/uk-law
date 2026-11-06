@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113A. General power of EPB or combined authority[^key-c7385a9228bee1245866a628cb5df2c4][^key-a903b0f457b74ed6e5c6a05dc7b8aab6][^key-495d3e751e38ba585e5749f95ad37955]
+## 113A. General power of EPB or combined authority[^c-c7385a9228bee1245866a628cb5df2c4][^c-a903b0f457b74ed6e5c6a05dc7b8aab6][^c-495d3e751e38ba585e5749f95ad37955]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,14 +34,14 @@ summary: ''
 
 (3) Power conferred on an EPB or combined authority by subsection (1) is in addition to, and is not limited by, its other powers.
 
-(4)[^key-dcfb2597888180e9212c4fc4a6d61584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dcfb2597888180e9212c4fc4a6d61584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7385a9228bee1245866a628cb5df2c4]: Modification: S. 113A modified (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/469/article/4/2)
+[^c-c7385a9228bee1245866a628cb5df2c4]: Modification: S. 113A modified (8.5.2017) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) Order 2017 (S.I. 2017/469)](https://www.legislation.gov.uk/uksi/2017/469), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/469/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/469/article/4/2)
 
-[^key-a903b0f457b74ed6e5c6a05dc7b8aab6]: Modification: [S. 113A](https://www.legislation.gov.uk/ukpga/2009/20/section/113A) applied (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/4), [42(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/42/2) (with [arts. 50-53](https://www.legislation.gov.uk/uksi/2023/1432/article/50))
+[^c-a903b0f457b74ed6e5c6a05dc7b8aab6]: Modification: [S. 113A](https://www.legislation.gov.uk/ukpga/2009/20/section/113A) applied (7.5.2024) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3), [27(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/27/4), [42(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/42/2) (with [arts. 50-53](https://www.legislation.gov.uk/uksi/2023/1432/article/50))
 
-[^key-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
 
-[^key-dcfb2597888180e9212c4fc4a6d61584]: Textual amendment: S. 113A(4) omitted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 6 para. 8(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/6/paragraph/8/1/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-dcfb2597888180e9212c4fc4a6d61584]: Textual amendment: S. 113A(4) omitted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 6 para. 8(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/6/paragraph/8/1/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

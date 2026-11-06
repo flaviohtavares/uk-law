@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141A. Notices from the Commission[^M_F_e98cc8f8-f814-4b8d-b070-5e6eaec0b22a][^key-ef99de95b0bb4e7b390d30645dcf11da]
+## 141A. Notices from the Commission[^M_F_e98cc8f8-f814-4b8d-b070-5e6eaec0b22a][^c-ef99de95b0bb4e7b390d30645dcf11da]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies in relation to a notice authorised or required by this Act to be given to a person by the Commission[^key-46ebdd0c00b60c27790edc2c63285cad].
+(1) This section applies in relation to a notice authorised or required by this Act to be given to a person by the Commission[^c-46ebdd0c00b60c27790edc2c63285cad].
 
 (2) The notice may be given to the person by—
 
@@ -45,12 +45,12 @@ summary: ''
 
 - (a) in a case where the person is a body corporate with a registered office in the United Kingdom, that office;
 - (b) in a case where paragraph (a) does not apply and the person is a body corporate, partnership or unincorporated body with a principal office in the United Kingdom, that office;
-- (c) in any other case, an address in the United Kingdom at which the Commission[^key-5066e53c63ba3341f6b3475889ba7f7e] believes, on reasonable grounds, that the notice will come to the attention of the person.
+- (c) in any other case, an address in the United Kingdom at which the Commission[^c-5066e53c63ba3341f6b3475889ba7f7e] believes, on reasonable grounds, that the notice will come to the attention of the person.
 
 (6) A person’s email address is—
 
 - (a) an email address published for the time being by that person as an address for contacting that person, or
-- (b) if there is no such published address, an email address by means of which the Commission[^key-6f10b3d6a9de2483d9136bab14a8925e] believes, on reasonable grounds, that the notice will come to the attention of that person.
+- (b) if there is no such published address, an email address by means of which the Commission[^c-6f10b3d6a9de2483d9136bab14a8925e] believes, on reasonable grounds, that the notice will come to the attention of that person.
 
 (7) A notice sent by email is treated as given 48 hours after it was sent, unless the contrary is proved.
 
@@ -62,10 +62,10 @@ summary: ''
 
 [^M_F_e98cc8f8-f814-4b8d-b070-5e6eaec0b22a]: Textual amendment: S. 141A inserted (19.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 96(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/96/3), [142(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/c)
 
-[^key-ef99de95b0bb4e7b390d30645dcf11da]: Textual amendment: Word in s. 141A heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ef99de95b0bb4e7b390d30645dcf11da]: Textual amendment: Word in s. 141A heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-46ebdd0c00b60c27790edc2c63285cad]: Textual amendment: Word in s. 141A(1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-46ebdd0c00b60c27790edc2c63285cad]: Textual amendment: Word in s. 141A(1) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-5066e53c63ba3341f6b3475889ba7f7e]: Textual amendment: Word in s. 141A(5)(c) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-5066e53c63ba3341f6b3475889ba7f7e]: Textual amendment: Word in s. 141A(5)(c) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-6f10b3d6a9de2483d9136bab14a8925e]: Textual amendment: Word in s. 141A(6)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-6f10b3d6a9de2483d9136bab14a8925e]: Textual amendment: Word in s. 141A(6)(b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

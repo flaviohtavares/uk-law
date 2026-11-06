@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Abuse of dominant position.[^key-9265d8dcb2e14e8a9e8041ed582f9baa]
+## 18. Abuse of dominant position.[^c-9265d8dcb2e14e8a9e8041ed582f9baa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9265d8dcb2e14e8a9e8041ed582f9baa]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1998/41/section/18) restricted (31.12.2020) by S.I. 2019/93, Sch. 4 para. 17A(2) (as inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [40(2)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/40/2))
+[^c-9265d8dcb2e14e8a9e8041ed582f9baa]: Modification: [S. 18](https://www.legislation.gov.uk/ukpga/1998/41/section/18) restricted (31.12.2020) by S.I. 2019/93, Sch. 4 para. 17A(2) (as inserted by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [40(2)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/40/2))
 
 [^c8782241]: Modification: S. 18(1) excluded (18.6.2001) by [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), [s. 164(3)(5)](https://www.legislation.gov.uk/ukpga/2000/8/section/164/3/5); [S.I. 2001/1820](https://www.legislation.gov.uk/uksi/2001/1820), [art. 2](https://www.legislation.gov.uk/uksi/2001/1820/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/1820/schedule)
 

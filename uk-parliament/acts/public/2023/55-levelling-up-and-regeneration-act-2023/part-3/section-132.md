@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Pre-consolidation amendment of planning, development and compulsory purchase legislation[^key-7331dbad0aadafd000f1c4d644e8c0e7]
+## 132. Pre-consolidation amendment of planning, development and compulsory purchase legislation[^c-7331dbad0aadafd000f1c4d644e8c0e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ unless that provision is a restatement of provision or is merely incidental to, 
 
 ## Annotations
 
-[^key-7331dbad0aadafd000f1c4d644e8c0e7]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)
+[^c-7331dbad0aadafd000f1c4d644e8c0e7]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132) in force at 26.12.2023, see [s. 255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a)

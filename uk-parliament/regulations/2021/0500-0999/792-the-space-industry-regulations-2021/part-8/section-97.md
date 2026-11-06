@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Monitoring the environmental and meteorological conditions[^key-7db2d5be4e9f5a3a7bec5933e7844af6]
+## 97. Monitoring the environmental and meteorological conditions[^c-7db2d5be4e9f5a3a7bec5933e7844af6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7db2d5be4e9f5a3a7bec5933e7844af6]: Commencement: Reg. 97 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7db2d5be4e9f5a3a7bec5933e7844af6]: Commencement: Reg. 97 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

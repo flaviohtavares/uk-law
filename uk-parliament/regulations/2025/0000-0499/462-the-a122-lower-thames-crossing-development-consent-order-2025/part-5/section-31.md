@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Application of the 1981 Act[^key-2676a477c8c26fcb51fd1dcb192d15ff]
+## 31. Application of the 1981 Act[^c-2676a477c8c26fcb51fd1dcb192d15ff]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (4) For section 4(1) (execution of declaration), substitute—
 
-> (1) The acquiring authority may execute in respect of any of the land which they are authorised to acquire by the compulsory purchase order a declaration in the prescribed form vesting the land in themselves, or in the case of land or a right that they are authorised to acquire for the benefit of a statutory undertaker , public communications provider[^key-988cbcabe893d7711891e9528d3b8256] or local authority, in the statutory undertaker , public communications provider or local authority in question, from the end of such period as may be specified in the declaration (not being less than 3 months from the date on which the service of notices required by section 6 is completed).
+> (1) The acquiring authority may execute in respect of any of the land which they are authorised to acquire by the compulsory purchase order a declaration in the prescribed form vesting the land in themselves, or in the case of land or a right that they are authorised to acquire for the benefit of a statutory undertaker , public communications provider[^c-988cbcabe893d7711891e9528d3b8256] or local authority, in the statutory undertaker , public communications provider or local authority in question, from the end of such period as may be specified in the declaration (not being less than 3 months from the date on which the service of notices required by section 6 is completed).
 
 (5) In section 5(2) (earliest date for execution of declaration)[^f00090] omit the words from “, and this subsection” to the end.
 
@@ -49,11 +49,11 @@ summary: ''
 
 (10) In section 8 (vesting, and right to enter and take possession)[^f00095], after subsection (3), insert—
 
-> (4) In this section references to the acquiring authority include any statutory undertaker , public communications provider[^key-91552106719e606a30d376e5da8c1b6e] or local authority referred to in section 4(1).
+> (4) In this section references to the acquiring authority include any statutory undertaker , public communications provider[^c-91552106719e606a30d376e5da8c1b6e] or local authority referred to in section 4(1).
 
 .
 
-(11) In section 10(1) (acquiring authority’s liability arising on vesting of the land), after “vested in an acquiring authority” insert “or a statutory undertaker , public communications provider[^key-44a01bdc31799aaaed342c1e7920f6a6] or local authority”.
+(11) In section 10(1) (acquiring authority’s liability arising on vesting of the land), after “vested in an acquiring authority” insert “or a statutory undertaker , public communications provider[^c-44a01bdc31799aaaed342c1e7920f6a6] or local authority”.
 
 (12) For section 11(1) (recovery of compensation overpaid)[^f00096], substitute—
 
@@ -69,13 +69,13 @@ summary: ''
 
 (14) References to the 1965 Act in the 1981 Act are to be construed as references to the 1965 Act as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and as modified by this Order) to the compulsory acquisition of land under this Order.
 
-(15)[^key-db7761e6423980dd0a51459dce6eff96] In this article, “**public communications provider**” means a public communications provider as defined in section 151(1) (interpretation of Chapter 1) of the Communications Act 2003.
+(15)[^c-db7761e6423980dd0a51459dce6eff96] In this article, “**public communications provider**” means a public communications provider as defined in section 151(1) (interpretation of Chapter 1) of the Communications Act 2003.
 
 ## Annotations
 
-[^key-2676a477c8c26fcb51fd1dcb192d15ff]: Commencement: Art. 31 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-2676a477c8c26fcb51fd1dcb192d15ff]: Commencement: Art. 31 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-988cbcabe893d7711891e9528d3b8256]: Textual amendment: Words in [art. 31(4)](https://www.legislation.gov.uk/uksi/2025/462/article/31/4) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-988cbcabe893d7711891e9528d3b8256]: Textual amendment: Words in [art. 31(4)](https://www.legislation.gov.uk/uksi/2025/462/article/31/4) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00090]: Footnote: Section 5 was amended by Schedule 15 to the Housing and Planning Act 2016.
 
@@ -89,12 +89,12 @@ summary: ''
 
 [^f00095]: Footnote: Section 8 was amended by paragraph 4 of Schedule 18 to the Housing and Planning Act 2016 and section 186(3) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55).
 
-[^key-91552106719e606a30d376e5da8c1b6e]: Textual amendment: Words in [art. 31(10)](https://www.legislation.gov.uk/uksi/2025/462/article/31/10) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-91552106719e606a30d376e5da8c1b6e]: Textual amendment: Words in [art. 31(10)](https://www.legislation.gov.uk/uksi/2025/462/article/31/10) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
-[^key-44a01bdc31799aaaed342c1e7920f6a6]: Textual amendment: Words in [art. 31(11)](https://www.legislation.gov.uk/uksi/2025/462/article/31/11) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-44a01bdc31799aaaed342c1e7920f6a6]: Textual amendment: Words in [art. 31(11)](https://www.legislation.gov.uk/uksi/2025/462/article/31/11) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
 
 [^f00096]: Footnote: Section 11 was amended by paragraph 52(3) of Schedule 2 to the Planning (Consequential Provisions) Act [1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
 [^f00097]: Footnote: Schedule A1 was inserted by paragraph 6 of Part 1 of Schedule 18 to the Housing and Planning Act 2016.
 
-[^key-db7761e6423980dd0a51459dce6eff96]: Textual amendment: [Art. 31(15)](https://www.legislation.gov.uk/uksi/2025/462/article/31/15) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-db7761e6423980dd0a51459dce6eff96]: Textual amendment: [Art. 31(15)](https://www.legislation.gov.uk/uksi/2025/462/article/31/15) inserted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

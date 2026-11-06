@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Material changes[^key-9a3a4f72f8297f64f02ed8245e4fbeb6]
+## 46. Material changes[^c-9a3a4f72f8297f64f02ed8245e4fbeb6]
 
 *Extent: E+W*
 
@@ -151,4 +151,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3a4f72f8297f64f02ed8245e4fbeb6]: Commencement: S. 46 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-9a3a4f72f8297f64f02ed8245e4fbeb6]: Commencement: S. 46 not in force at Royal Assent, see [s. 78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

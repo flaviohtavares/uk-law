@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Tier two capital[^key-3aac26ad39a23b045ec186f3c4ef98b3]
+## 43. Tier two capital[^c-3aac26ad39a23b045ec186f3c4ef98b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3aac26ad39a23b045ec186f3c4ef98b3]: Textual amendment: S. 43 repealed (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/12/b)
+[^c-3aac26ad39a23b045ec186f3c4ef98b3]: Textual amendment: S. 43 repealed (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by [The Taxation of Regulatory Capital Securities Regulations 2013 (S.I. 2013/3209)](https://www.legislation.gov.uk/uksi/2013/3209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2013/3209/regulation/12/b)

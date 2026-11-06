@@ -25,7 +25,7 @@ summary: ''
 - (a) in the opinion of the Secretary of State a member meets the condition in regulation 2.D.8(2)(a), and
 - (b) at the time the member is awarded a pension under that regulation the Secretary of State gives the member notice in writing that the member’s case may be considered once within a period of three years commencing with the date of that award to determine whether the member meets the condition in regulation 2.D.8(3)(a) at the date of such a consideration.
 
-(2)[^key-bb98123f038001e6b41dba05c4075b7a] A member to whom a notice under paragraph (1)(b) has been given may apply to the Secretary of State for a review of whether the member subsequently meets the condition in regulation 2.D.8(3)(a) if—
+(2)[^c-bb98123f038001e6b41dba05c4075b7a] A member to whom a notice under paragraph (1)(b) has been given may apply to the Secretary of State for a review of whether the member subsequently meets the condition in regulation 2.D.8(3)(a) if—
 
 - (a) the member makes the application in writing—
   - (i) within three years of the date of issue of the notice, or
@@ -41,10 +41,10 @@ summary: ''
 - (a) ceases to be entitled to a tier 1 ill-health pension; and
 - (b) becomes entitled to a tier 2 ill-health pension under regulation 2.D.8, which shall be calculated as if paragraph (8) of that regulation included the words “from the date of the Secretary of State’s determination under regulation 2.D.9” after “continued in service”.
 
-(4)[^key-d37c1532e630249a05a8cac4e6b2fb54] In the case of a 2008 Section Optant, this regulation is subject to regulations 2.K.16 and 2.K.17.
+(4)[^c-d37c1532e630249a05a8cac4e6b2fb54] In the case of a 2008 Section Optant, this regulation is subject to regulations 2.K.16 and 2.K.17.
 
 ## Annotations
 
-[^key-bb98123f038001e6b41dba05c4075b7a]: Textual amendment: [Reg. 2.D.9(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.9/2) substituted (with effect from 1.4.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/4), [30(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/30/2)
+[^c-bb98123f038001e6b41dba05c4075b7a]: Textual amendment: [Reg. 2.D.9(2)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.9/2) substituted (with effect from 1.4.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2)[(4)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/4), [30(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/30/2)
 
-[^key-d37c1532e630249a05a8cac4e6b2fb54]: Textual amendment: [Reg. 2.D.9(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.9/4) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/30/3)
+[^c-d37c1532e630249a05a8cac4e6b2fb54]: Textual amendment: [Reg. 2.D.9(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.9/4) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [30(3)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/30/3)

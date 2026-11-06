@@ -46,20 +46,20 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 13(1) and 104(2) of the Childcare Act 2006[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-82d6c807ecee7d581d0582f06d113594]
+## 1. Citation, commencement and interpretation[^c-82d6c807ecee7d581d0582f06d113594]
 
 (1) These Regulations may be cited as the Childcare Providers (Information, Advice and Training) Regulations 2014 and come into force on 24th September 2014.
 
 (2) In these Regulations, “the Act” means the Childcare Act 2006.
 
-## 2. Duty to secure the provision of information, advice and training[^key-f926776bfbdb5d0ca8a86fa742a0ef1f]
+## 2. Duty to secure the provision of information, advice and training[^c-f926776bfbdb5d0ca8a86fa742a0ef1f]
 
 An English local authority must secure the provision of information, advice and training on the matters mentioned in—
 
 - (a) sub-paragraphs (a), (b) and (c) of regulation 3(1), to the persons falling within regulation 4(1); and
 - (b) sub-paragraphs (a) and (b) of regulation 3(1), to the persons falling within regulation 4(2).
 
-## 3. Subject matter of information, advice and training[^key-22ab245e33cc6285d67a5fed52547a7e]
+## 3. Subject matter of information, advice and training[^c-22ab245e33cc6285d67a5fed52547a7e]
 
 (1) The matters referred to in regulation 2 are—
 
@@ -72,17 +72,17 @@ An English local authority must secure the provision of information, advice and 
 - (a) children with a disability within the meaning given by section 6(1) of the Equality Act 2010[^f00002];
 - (b) children with special educational needs within the meaning given by section 20(1) of the Children and Families Act 2014[^f00003];
 - (c) looked after children within the meaning given by section 22(1) of the Children Act 1989[^f00004];
-- (d)[^key-eda8f4187d973dacb21212a5b87549e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-eda8f4187d973dacb21212a5b87549e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) those using, or intending to use, childcare in respect of which the childcare costs element of universal credit (being an amount included in the calculation of an award of universal credit under regulation 31 of the Universal Credit Regulations 2013[^f00006]) is payable;
 - (f) other children who are at risk of social exclusion by virtue of unemployment, poverty, homelessness, geographical remoteness, ill health, family breakdown or other economic, cultural or social factors.
 
-## 4. Childcare providers and employees[^key-104eae7cef15fcedb3b19c0c1b83424a]
+## 4. Childcare providers and employees[^c-104eae7cef15fcedb3b19c0c1b83424a]
 
 (1) The persons referred to in regulation 2(a) are—
 
 - (a) early years providers registered by the Chief Inspector for the purposes of Chapter 2 of Part 3 of the Act (which provides for the compulsory registration of persons providing early years provision), where—
   - (i) an early years provision inspection report has not yet been published in respect of the provision; or
-  - (ii)[^key-50d01a8ddb4b2ffdfa09d745dbbfdf51] the provision was awarded a specified grade in the most recent early years provision inspection report published in respect of the provision;
+  - (ii)[^c-50d01a8ddb4b2ffdfa09d745dbbfdf51] the provision was awarded a specified grade in the most recent early years provision inspection report published in respect of the provision;
 - (b) employees of such early years providers.
 
 (2) The persons referred to in regulation 2(b) are—
@@ -97,15 +97,15 @@ An English local authority must secure the provision of information, advice and 
 - “early years provision inspection report” means an inspection report under section 50[^f00008] of the Act;
 - “later years prescribed requirements” means the requirements prescribed for the purposes of sections 54(3)(b), 55(3)(b) and 59(2) of the Act;
 - “later years provider” has the meaning given by section 96(7) of the Act;
-- “later years provision” has the meaning given by section 96(6) of the Act; [^key-46ee2c696e28b7a251471e24621f0ff1]...
+- “later years provision” has the meaning given by section 96(6) of the Act; [^c-46ee2c696e28b7a251471e24621f0ff1]...
 - “later years provision inspection report” means an inspection report under section 61 of the Act;
-- “[^key-085b344c9a8f214389e3fec32f1c7d26]**specified grade**” means—
+- “[^c-085b344c9a8f214389e3fec32f1c7d26]**specified grade**” means—
   - (a) in the case of an early years provider most recently inspected before 10th November 2025, a grade weaker than “good” for the overall effectiveness of the provision;
   - (b) in the case of an early years provider most recently inspected on or after 10th November 2025, a grade—
     - (i) of “not met” for safeguarding, or
     - (ii) weaker than “expected standard” for leadership and governance.
 
-## 5. Revocations[^key-6460c9d6ef2e09c6f1d60c36e41669c3]
+## 5. Revocations[^c-6460c9d6ef2e09c6f1d60c36e41669c3]
 
 The Childcare Providers (Information, Advice and Training) Regulations 2007[^f00009] are revoked.
 
@@ -135,11 +135,11 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2006 c.21](https://www.legislation.gov.uk/ukpga/2006/21). See section 106 for the definition of “regulations”.
 
-[^key-82d6c807ecee7d581d0582f06d113594]: Commencement: Reg. 1 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
+[^c-82d6c807ecee7d581d0582f06d113594]: Commencement: Reg. 1 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
 
-[^key-f926776bfbdb5d0ca8a86fa742a0ef1f]: Commencement: Reg. 2 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
+[^c-f926776bfbdb5d0ca8a86fa742a0ef1f]: Commencement: Reg. 2 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
 
-[^key-22ab245e33cc6285d67a5fed52547a7e]: Commencement: Reg. 3 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
+[^c-22ab245e33cc6285d67a5fed52547a7e]: Commencement: Reg. 3 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
 
 [^f00002]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -147,22 +147,22 @@ An Impact Assessment has not been produced for this instrument as no, or no sign
 
 [^f00004]: Footnote: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41); section 22(1) was amended by paragraph 19 of Schedule 5 to the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), section 2(2) of the Children (Leaving Care) Act [2000 (c.35)](https://www.legislation.gov.uk/ukpga/2000/35) and section 116(2) of the Adoption and Children Act [2002 (c.38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
-[^key-eda8f4187d973dacb21212a5b87549e5]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/3/2/d) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/2)
+[^c-eda8f4187d973dacb21212a5b87549e5]: Textual amendment: [Reg. 3(2)(d)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/3/2/d) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/2)
 
 [^f00006]: Footnote: [2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-104eae7cef15fcedb3b19c0c1b83424a]: Commencement: Reg. 4 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
+[^c-104eae7cef15fcedb3b19c0c1b83424a]: Commencement: Reg. 4 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
 
-[^key-50d01a8ddb4b2ffdfa09d745dbbfdf51]: Textual amendment: [Reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/4/1/a/ii) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/3/a)
+[^c-50d01a8ddb4b2ffdfa09d745dbbfdf51]: Textual amendment: [Reg. 4(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/4/1/a/ii) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/3/a)
 
 [^f00007]: Footnote: The definition of “the Chief Inspector” in section 98(1) was amended by paragraph 117 of Schedule 4 to the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
 [^f00008]: Footnote: Section 50 was amended by paragraph 111 of Schedule 4 to the Education and Inspections Act 2006.
 
-[^key-46ee2c696e28b7a251471e24621f0ff1]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/4/3) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/3/b/i)
+[^c-46ee2c696e28b7a251471e24621f0ff1]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/4/3) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/3/b/i)
 
-[^key-085b344c9a8f214389e3fec32f1c7d26]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/4/3) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/3/b/ii)
+[^c-085b344c9a8f214389e3fec32f1c7d26]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/4/3) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/4/3/b/ii)
 
-[^key-6460c9d6ef2e09c6f1d60c36e41669c3]: Commencement: Reg. 5 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
+[^c-6460c9d6ef2e09c6f1d60c36e41669c3]: Commencement: Reg. 5 in force at 24.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2319/regulation/1/1)
 
 [^f00009]: Footnote: [2007/1797](https://www.legislation.gov.uk/uksi/2007/1797).

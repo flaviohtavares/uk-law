@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Meetings of the Board[^key-c60f6d28ddd553233458f872f11933da]
+## 12. Meetings of the Board[^c-c60f6d28ddd553233458f872f11933da]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Meetings of the Board shall be governed by the provisions as set out in Schedule
 
 ## Annotations
 
-[^key-c60f6d28ddd553233458f872f11933da]: Commencement: Art. 12 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-c60f6d28ddd553233458f872f11933da]: Commencement: Art. 12 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

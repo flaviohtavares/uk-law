@@ -83,7 +83,7 @@ shall continue in existence by the name of the National Savings Stock Register a
 
 In the event of the redemption of any government stock, the register may be closed for transfers of stock for not more than one month immediately preceding the redemption date.
 
-### 5. Settlement of disputes as to holdings on the register[^key-d903b2b1fba754698061f094b123211b]
+### 5. Settlement of disputes as to holdings on the register[^c-d903b2b1fba754698061f094b123211b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -128,15 +128,15 @@ shall be sufficient authority to the appropriate authority[^c823648], . . . [^c8
 
 (1) The Treasury may make regulations for applying to national savings stamps, with the necessary modifications, all or any of the provisions of the [^c823658]Stamp Duties Management Act 1891, section 9 of the [^c823659]Stamp Act 1891 and section 63 of the [^c823660]Post Office Act 1953.
 
-(2) If at any time it appears to the Treasury that, in the case of any national savings stamps or national savings gift tokens, no further sum will become payable in respect of the exchange or encashment of those stamps or tokens, the Treasury may issue to the National Debt Commissioners out of the National Loans Fund sums equal to the face value of those stamps or tokens; and (subject to regulations under subsection (2A))[^key-b9f41f71bd86a7dcbcf6b25715be09fe] the National Debt Commissioners shall deal with those sums as if they were paid to the Commissioners in respect of unclaimed redemption moneys under section 5 of the [^c823661]Miscellaneous Financial Provisions Act 1955.
+(2) If at any time it appears to the Treasury that, in the case of any national savings stamps or national savings gift tokens, no further sum will become payable in respect of the exchange or encashment of those stamps or tokens, the Treasury may issue to the National Debt Commissioners out of the National Loans Fund sums equal to the face value of those stamps or tokens; and (subject to regulations under subsection (2A))[^c-b9f41f71bd86a7dcbcf6b25715be09fe] the National Debt Commissioners shall deal with those sums as if they were paid to the Commissioners in respect of unclaimed redemption moneys under section 5 of the [^c823661]Miscellaneous Financial Provisions Act 1955.
 
-(2A)[^key-ff19aff0dcde7ed1a65e1056909370bd] Where the Treasury has issued a sum to the National Debt Commissioners under subsection (2), it may by regulations require them to repay to the National Loans Fund, in the way specified in the regulations, so much of that sum as may be specified in, or determined in accordance with, the regulations.
+(2A)[^c-ff19aff0dcde7ed1a65e1056909370bd] Where the Treasury has issued a sum to the National Debt Commissioners under subsection (2), it may by regulations require them to repay to the National Loans Fund, in the way specified in the regulations, so much of that sum as may be specified in, or determined in accordance with, the regulations.
 
 (3) In this section “**national savings stamp**” and “**national savings gift token**” means respectively a stamp or token sold by the Postmaster General or the Director of Savings which may be used in the purchase of national savings certificates or premium savings bonds or in different ways one of which is the purchase of national savings certificates, premium savings bonds or some description of government stock.
 
 ## Miscellaneous
 
-### 11. Power of Treasury to make regulations as to raising of money under auspices of Director of Savings etc.[^key-b603da4f429614694b118e5c4e23ef59]
+### 11. Power of Treasury to make regulations as to raising of money under auspices of Director of Savings etc.[^c-b603da4f429614694b118e5c4e23ef59]
 
 (1) The Treasury may make regulations with respect to the manner in which and the conditions under which money authorised to be raised under the [^c823662]National Loans Act 1968 may be raised—
 
@@ -290,7 +290,7 @@ section 17(1).
 
 [^c823634]: Textual amendment: Ss. 3(3), 7(3), 14 repealed by [Trustee Savings Banks Act 1976 (c. 4)](https://www.legislation.gov.uk/ukpga/1976/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1976/4/schedule/6)
 
-[^key-d903b2b1fba754698061f094b123211b]: Textual amendment: S. 5 repealed (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
+[^c-d903b2b1fba754698061f094b123211b]: Textual amendment: S. 5 repealed (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 11 Pt. 5(2)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/11/part/5/2)
 
 [^c823647]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1972/65/section/6) repealed (20.7.1998) by [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446), [art. 30(2)](https://www.legislation.gov.uk/uksi/1998/1446/article/30/2), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1998/1446/schedule/2/part/I)
 
@@ -318,13 +318,13 @@ section 17(1).
 
 [^c823660]: Marginal citation: [1953 c. 36](https://www.legislation.gov.uk/ukpga/1953/36).
 
-[^key-b9f41f71bd86a7dcbcf6b25715be09fe]: Textual amendment: Words in s. 10(2) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 163(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/163/2)
+[^c-b9f41f71bd86a7dcbcf6b25715be09fe]: Textual amendment: Words in s. 10(2) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 163(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/163/2)
 
 [^c823661]: Marginal citation: [1955 c. 6](https://www.legislation.gov.uk/ukpga/1955/6). (4 & 5 Eliz. 2).
 
-[^key-ff19aff0dcde7ed1a65e1056909370bd]: Textual amendment: S. 10(2A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 163(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/163/3)
+[^c-ff19aff0dcde7ed1a65e1056909370bd]: Textual amendment: S. 10(2A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 163(3)](https://www.legislation.gov.uk/ukpga/2008/9/section/163/3)
 
-[^key-b603da4f429614694b118e5c4e23ef59]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1972/65/section/11) extended (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 325](https://www.legislation.gov.uk/ukpga/2004/12/section/325)
+[^c-b603da4f429614694b118e5c4e23ef59]: Modification: [S. 11](https://www.legislation.gov.uk/ukpga/1972/65/section/11) extended (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 325](https://www.legislation.gov.uk/ukpga/2004/12/section/325)
 
 [^c823662]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 

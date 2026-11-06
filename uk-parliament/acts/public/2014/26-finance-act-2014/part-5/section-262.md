@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 262. Information required for monitoring compliance with conduct notice[^key-925075795a2fa9e745bfb6cd7649e73f]
+## 262. Information required for monitoring compliance with conduct notice[^c-925075795a2fa9e745bfb6cd7649e73f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-925075795a2fa9e745bfb6cd7649e73f]: Textual amendment: [S. 262](https://www.legislation.gov.uk/ukpga/2014/26/section/262) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/3)
+[^c-925075795a2fa9e745bfb6cd7649e73f]: Textual amendment: [S. 262](https://www.legislation.gov.uk/ukpga/2014/26/section/262) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/3)

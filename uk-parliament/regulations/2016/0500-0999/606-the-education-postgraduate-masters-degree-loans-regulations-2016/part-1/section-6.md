@@ -26,7 +26,7 @@ summary: ''
 - (b) he is satisfied that one or more of the grounds for transfer in paragraph (2) applies; and
 - (c) the period of eligibility has not terminated.
 
-(1A)[^key-4f59ec401f57ec874b3f5af302d282f2] Paragraph (1) applies to a person who is an eligible student by virtue of regulation 3(2)(b) only where that person’s status as an eligible student has not been transferred on or after 1st August 2021 from the designated course referred to in regulation 3(2A)(a) to another designated course.
+(1A)[^c-4f59ec401f57ec874b3f5af302d282f2] Paragraph (1) applies to a person who is an eligible student by virtue of regulation 3(2)(b) only where that person’s status as an eligible student has not been transferred on or after 1st August 2021 from the designated course referred to in regulation 3(2A)(a) to another designated course.
 
 (2) The grounds for transfer are—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f59ec401f57ec874b3f5af302d282f2]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2016/606/regulation/6/1A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2021/127/regulation/55)
+[^c-4f59ec401f57ec874b3f5af302d282f2]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2016/606/regulation/6/1A) inserted (1.3.2021) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2021 (S.I. 2021/127)](https://www.legislation.gov.uk/uksi/2021/127), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/127/regulation/1/1), [55](https://www.legislation.gov.uk/uksi/2021/127/regulation/55)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3ZAA — CGT exit charge payment plans[^key-310d9757e9722c56524a3ebae96a85bc]
+## SCHEDULE 3ZAA — CGT exit charge payment plans[^c-310d9757e9722c56524a3ebae96a85bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -154,4 +154,4 @@ the outstanding balance of the deferred exit charge is payable on the date on wh
 
 ## Annotations
 
-[^key-310d9757e9722c56524a3ebae96a85bc]: Textual amendment: Sch. 3ZAA inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/2)
+[^c-310d9757e9722c56524a3ebae96a85bc]: Textual amendment: Sch. 3ZAA inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2019/1/schedule/7/paragraph/2)

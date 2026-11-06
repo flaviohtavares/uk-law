@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55ZA. Operators' licences for persons subject to immigration control[^key-4982000cdb963d1cde8c0062b78db0de]
+## 55ZA. Operators' licences for persons subject to immigration control[^c-4982000cdb963d1cde8c0062b78db0de]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4982000cdb963d1cde8c0062b78db0de]: Textual amendment: S. 55ZA inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/22) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))
+[^c-4982000cdb963d1cde8c0062b78db0de]: Textual amendment: S. 55ZA inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/22) (with [Sch. 5 para. 54](https://www.legislation.gov.uk/ukpga/2016/19/schedule/5/paragraph/54)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/1037/regulation/6))

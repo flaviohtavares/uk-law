@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^key-fdd2b3fd222e23f318527af261cf4e52]
+## SCHEDULE 6 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED[^c-fdd2b3fd222e23f318527af261cf4e52]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 11
 
 ## Annotations
 
-[^key-fdd2b3fd222e23f318527af261cf4e52]: Commencement: Sch. 6 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-fdd2b3fd222e23f318527af261cf4e52]: Commencement: Sch. 6 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

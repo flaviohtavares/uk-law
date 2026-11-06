@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Harbour Authority not to be a local lighthouse authority[^key-a6cab3a5958849bbaeb9ca8d92ba2c10]
+## 55. Harbour Authority not to be a local lighthouse authority[^c-a6cab3a5958849bbaeb9ca8d92ba2c10]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Notwithstanding the provisions of section 193(2) of the Merchant Shipping Act 19
 
 ## Annotations
 
-[^key-a6cab3a5958849bbaeb9ca8d92ba2c10]: Commencement: Art. 55 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-a6cab3a5958849bbaeb9ca8d92ba2c10]: Commencement: Art. 55 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00030]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).

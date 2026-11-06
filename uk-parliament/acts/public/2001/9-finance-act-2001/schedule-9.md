@@ -141,16 +141,16 @@ the body corporate which ceases to be so eligible shall notify the Commissioners
 (2) For the purposes of this Schedule a body corporate shall be taken to control another body corporate if, and only if—
 
 - (a) it is empowered by statute to control that body’s activities; or
-- (b) it is that body’s holding company within the meaning of section 1159 of and Schedule 6 to[^key-3d1ed0543740349fb10e2248b7619b1e] the Companies Act 2006 (c. 46[^key-f20d44f528af1718231437f7eb8eadde]).
+- (b) it is that body’s holding company within the meaning of section 1159 of and Schedule 6 to[^c-3d1ed0543740349fb10e2248b7619b1e] the Companies Act 2006 (c. 46[^c-f20d44f528af1718231437f7eb8eadde]).
 
-(3) For the purposes of this Schedule an individual or individuals shall be taken to control a body corporate if, and only if (were he or they a company) he or they would be that body’s holding company within the meaning of those provisions[^key-456945f910ecc029d01da67e3076e035].
+(3) For the purposes of this Schedule an individual or individuals shall be taken to control a body corporate if, and only if (were he or they a company) he or they would be that body’s holding company within the meaning of those provisions[^c-456945f910ecc029d01da67e3076e035].
 
 (4) In this Schedule “**the specified time**”, in relation to an application made under paragraph 2(1) or (2) or 3(1) above, means the beginning of such accounting period as may be specified in the application.
 
 ## Annotations
 
-[^key-3d1ed0543740349fb10e2248b7619b1e]: Textual amendment: Words in Sch. 9 para. 8(2)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(e)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/e)
+[^c-3d1ed0543740349fb10e2248b7619b1e]: Textual amendment: Words in Sch. 9 para. 8(2)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(e)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/e)
 
-[^key-f20d44f528af1718231437f7eb8eadde]: Textual amendment: Word in Sch. 9 para. 8(2)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(e)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/e)
+[^c-f20d44f528af1718231437f7eb8eadde]: Textual amendment: Word in Sch. 9 para. 8(2)(b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(1)(e)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/1/e)
 
-[^key-456945f910ecc029d01da67e3076e035]: Textual amendment: Words in Sch. 9 para. 8(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/2)
+[^c-456945f910ecc029d01da67e3076e035]: Textual amendment: Words in Sch. 9 para. 8(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Taxes and National Insurance) Order 2009 (S.I. 2009/1890)](https://www.legislation.gov.uk/uksi/2009/1890), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1890/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2009/1890/article/4/2)

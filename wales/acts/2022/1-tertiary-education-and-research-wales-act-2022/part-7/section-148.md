@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Coming into force[^key-de5312c993fbcc7a7555c3559c68a386]
+## 148. Coming into force[^c-de5312c993fbcc7a7555c3559c68a386]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de5312c993fbcc7a7555c3559c68a386]: Commencement: S. 148 in force at 9.9.2022, see [s. 148(1)(b)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/b)
+[^c-de5312c993fbcc7a7555c3559c68a386]: Commencement: S. 148 in force at 9.9.2022, see [s. 148(1)(b)](https://www.legislation.gov.uk/asc/2022/1/section/148/1/b)

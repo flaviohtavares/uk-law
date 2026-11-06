@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-189f4917eb624efcda7f3c99907a176b] In Part 1 of the County Courts Act 1984 at the beginning insert—
+(1)[^c-189f4917eb624efcda7f3c99907a176b] In Part 1 of the County Courts Act 1984 at the beginning insert—
 
 > **The county court**
 >
@@ -33,9 +33,9 @@ summary: ''
 >
 > (2) The county court is to be a court of record and have a seal.
 
-(2)[^key-189f4917eb624efcda7f3c99907a176b] Sections 1 and 2 of that Act (county courts to be held for districts) are repealed.
+(2)[^c-189f4917eb624efcda7f3c99907a176b] Sections 1 and 2 of that Act (county courts to be held for districts) are repealed.
 
-(3)[^key-189f4917eb624efcda7f3c99907a176b] In the Matrimonial and Family Proceedings Act 1984 before Part 5 insert—
+(3)[^c-189f4917eb624efcda7f3c99907a176b] In the Matrimonial and Family Proceedings Act 1984 before Part 5 insert—
 
 > **Part 4A — The family court**
 >
@@ -48,18 +48,18 @@ summary: ''
 >
 > (2) The family court is to be a court of record and have a seal.
 
-(4)[^key-a8acab75c5a6f3b5a25d1d8343df32d3] Part 2 of the Children, Schools and Families Act 2010 (family proceedings) is repealed, as are the following related provisions of that Act: Part 2 of each of Schedules 3 and 4; section 29(4); and “, (4)” in section 29(6).
+(4)[^c-a8acab75c5a6f3b5a25d1d8343df32d3] Part 2 of the Children, Schools and Families Act 2010 (family proceedings) is repealed, as are the following related provisions of that Act: Part 2 of each of Schedules 3 and 4; section 29(4); and “, (4)” in section 29(6).
 
-(5)[^key-713ca6f78d7c981cbc5bc9dac2eae5b4][^key-46ea65bc49a8027ddb7e2c660798f39a] Schedule 9 (amendments in connection with the county court replacing the existing county courts) has effect.
+(5)[^c-713ca6f78d7c981cbc5bc9dac2eae5b4][^c-46ea65bc49a8027ddb7e2c660798f39a] Schedule 9 (amendments in connection with the county court replacing the existing county courts) has effect.
 
-(6)[^key-189f4917eb624efcda7f3c99907a176b] Schedules 10 and 11 (amendments in connection with the establishment of the family court) have effect.
+(6)[^c-189f4917eb624efcda7f3c99907a176b] Schedules 10 and 11 (amendments in connection with the establishment of the family court) have effect.
 
 ## Annotations
 
-[^key-189f4917eb624efcda7f3c99907a176b]: Commencement: [S. 17(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/1) [(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/6) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-189f4917eb624efcda7f3c99907a176b]: Commencement: [S. 17(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/1) [(6)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/6) in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
 
-[^key-a8acab75c5a6f3b5a25d1d8343df32d3]: Commencement: S. 17(4) in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
+[^c-a8acab75c5a6f3b5a25d1d8343df32d3]: Commencement: S. 17(4) in force at 4.9.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2200/article/2/a)
 
-[^key-713ca6f78d7c981cbc5bc9dac2eae5b4]: Commencement: S. 17(5) in force at 1.10.2013 for specified purposes by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/a)
+[^c-713ca6f78d7c981cbc5bc9dac2eae5b4]: Commencement: S. 17(5) in force at 1.10.2013 for specified purposes by [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/a)
 
-[^key-46ea65bc49a8027ddb7e2c660798f39a]: Commencement: [S. 17(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/5) in force at 22.4.2014 in so far as not already in force by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)
+[^c-46ea65bc49a8027ddb7e2c660798f39a]: Commencement: [S. 17(5)](https://www.legislation.gov.uk/ukpga/2013/22/section/17/5) in force at 22.4.2014 in so far as not already in force by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in S.I. 2014/956, arts. 3-11)

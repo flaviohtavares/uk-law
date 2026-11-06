@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Outstanding liabilities on death[^key-297447e0ade5542f3daec16044f6c375]
+## 108. Outstanding liabilities on death[^c-297447e0ade5542f3daec16044f6c375]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ and may deduct out of the assets and effects of the deceased any payments made (
 
 ## Annotations
 
-[^key-297447e0ade5542f3daec16044f6c375]: Commencement: Reg. 108 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-297447e0ade5542f3daec16044f6c375]: Commencement: Reg. 108 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

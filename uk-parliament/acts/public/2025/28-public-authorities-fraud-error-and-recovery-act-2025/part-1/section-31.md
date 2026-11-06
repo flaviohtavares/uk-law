@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Further information notices[^key-8822c83d576e55fb398d6e613a52cbb5][^key-cb77f0d8dec81fca66a81cf1c0830e09]
+## 31. Further information notices[^c-8822c83d576e55fb398d6e613a52cbb5][^c-cb77f0d8dec81fca66a81cf1c0830e09]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8822c83d576e55fb398d6e613a52cbb5]: Commencement: S. 31 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-8822c83d576e55fb398d6e613a52cbb5]: Commencement: S. 31 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-cb77f0d8dec81fca66a81cf1c0830e09]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/28/section/31) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-cb77f0d8dec81fca66a81cf1c0830e09]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2025/28/section/31) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

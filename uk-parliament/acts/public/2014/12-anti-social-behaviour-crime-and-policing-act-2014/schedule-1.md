@@ -24,7 +24,7 @@ Section 11
 
 ### Introductory
 
-**1.**[^key-47ee331c4fae084c3e585f5f403b1d84] (1) This Schedule applies where—
+**1.**[^c-47ee331c4fae084c3e585f5f403b1d84] (1) This Schedule applies where—
 
 - (a) a judge has power to remand a person under section 9(5),
 - (b) a justice of the peace is required to remand a person under section 9(6), or
@@ -34,7 +34,7 @@ Section 11
 
 ### Remand in custody or on bail
 
-**2.**[^key-37e3e1177f84cfe4cbe206c791e70524] (1) The judge or the court may remand the person—
+**2.**[^c-37e3e1177f84cfe4cbe206c791e70524] (1) The judge or the court may remand the person—
 
 - (a) in custody, or
 - (b) on bail.
@@ -50,7 +50,7 @@ But a person aged under 18 may not be remanded in custody unless paragraph 6 app
 
 (4) Where a person is brought before the court after remand, the court may further remand the person.
 
-**3.**[^key-dc7848e6f77fa7fa7b15718902032efe] (1) Where a person is remanded on bail, the judge or the court may direct that the person's recognizance be conditioned for his or her appearance—
+**3.**[^c-dc7848e6f77fa7fa7b15718902032efe] (1) Where a person is remanded on bail, the judge or the court may direct that the person's recognizance be conditioned for his or her appearance—
 
 - (a) before the court at the end of the period of remand, or
 - (b) at every time and place to which during the course of the proceedings the hearing may from time to time be adjourned.
@@ -59,7 +59,7 @@ But a person aged under 18 may not be remanded in custody unless paragraph 6 app
 
 (3) Nothing in this paragraph affects the power of the court at any subsequent hearing to remand the person afresh.
 
-**4.**[^key-ea36a0b868a676bbdfb799bb5d9d81d6] (1) The judge or the court may not remand a person for a period exceeding 8 clear days unless—
+**4.**[^c-ea36a0b868a676bbdfb799bb5d9d81d6] (1) The judge or the court may not remand a person for a period exceeding 8 clear days unless—
 
 - (a) paragraph 5 or 6 applies, or
 - (b) the person is remanded on bail and both that person and the person who applied for the injunction consent to a longer period.
@@ -68,7 +68,7 @@ But a person aged under 18 may not be remanded in custody unless paragraph 6 app
 
 ### Remand for medical examination and report
 
-**5.**[^key-477af08ab6c46790623ab7f07da7cc21] (1) This paragraph applies where—
+**5.**[^c-477af08ab6c46790623ab7f07da7cc21] (1) This paragraph applies where—
 
 - (a) the judge or the court has reason to think that a medical report will be needed, and
 - (b) the judge or the court remands the person in order to enable a medical examination to take place and a report to be made.
@@ -77,7 +77,7 @@ But a person aged under 18 may not be remanded in custody unless paragraph 6 app
 
 (3) If the person is remanded on bail, the adjournment may not be for more than 4 weeks at a time.
 
-**6.**[^key-ced665701d5f952f6c3d58eb57f059ca] (1) If the judge or the court—
+**6.**[^c-ced665701d5f952f6c3d58eb57f059ca] (1) If the judge or the court—
 
 - (a) is satisfied, on the written or oral evidence of a registered medical practitioner, that there is reason to suspect that the person is suffering from mental disorder, and
 - (b) is of the opinion that it would be impracticable for a report on the person's mental condition to be made if he or she were remanded on bail,
@@ -94,7 +94,7 @@ the judge or the court may remand the person to a hospital or registered establi
 
 ### Further remand
 
-**7.**[^key-64fcd0b06f5916fb341bc7b2cde2b9f1] (1) If the court is satisfied that a person who has been remanded is unable by reason of illness or accident to appear or be brought before the court at the end of the period of remand, the court may further remand the person in his or her absence.
+**7.**[^c-64fcd0b06f5916fb341bc7b2cde2b9f1] (1) If the court is satisfied that a person who has been remanded is unable by reason of illness or accident to appear or be brought before the court at the end of the period of remand, the court may further remand the person in his or her absence.
 
 (2) The power in sub-paragraph (1) may, in the case of a person who was remanded on bail, be exercised by enlarging the person's recognizance and those of any sureties for the person to a later time.
 
@@ -106,28 +106,28 @@ the judge or the court may remand the person to a hospital or registered establi
 
 ### Postponement of taking recognizance
 
-**8.**[^key-ec85a4adf6cb4de73b1f57f65bdb1e31] Where under paragraph 2(3)(b) the court fixes the amount in which the principal and the sureties, if any, are to be bound, the recognizance may afterwards be taken by a person prescribed by rules of court, with the same consequences as if it had been entered into before the court.
+**8.**[^c-ec85a4adf6cb4de73b1f57f65bdb1e31] Where under paragraph 2(3)(b) the court fixes the amount in which the principal and the sureties, if any, are to be bound, the recognizance may afterwards be taken by a person prescribed by rules of court, with the same consequences as if it had been entered into before the court.
 
 ### Requirements imposed on remand on bail
 
-**9.**[^key-6ac5af02acb44c658e1e8bdacb3fb664] The court may when remanding a person on bail under this Schedule require the person to comply, before release on bail or later, with any requirements that appear to the court to be necessary to secure that the person does not interfere with witnesses or otherwise obstruct the course of justice.
+**9.**[^c-6ac5af02acb44c658e1e8bdacb3fb664] The court may when remanding a person on bail under this Schedule require the person to comply, before release on bail or later, with any requirements that appear to the court to be necessary to secure that the person does not interfere with witnesses or otherwise obstruct the course of justice.
 
 ## Annotations
 
-[^key-47ee331c4fae084c3e585f5f403b1d84]: Commencement: Sch. 1 para. 1 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-47ee331c4fae084c3e585f5f403b1d84]: Commencement: Sch. 1 para. 1 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-37e3e1177f84cfe4cbe206c791e70524]: Commencement: Sch. 1 para. 2 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-37e3e1177f84cfe4cbe206c791e70524]: Commencement: Sch. 1 para. 2 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-dc7848e6f77fa7fa7b15718902032efe]: Commencement: Sch. 1 para. 3 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-dc7848e6f77fa7fa7b15718902032efe]: Commencement: Sch. 1 para. 3 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-ea36a0b868a676bbdfb799bb5d9d81d6]: Commencement: Sch. 1 para. 4 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-ea36a0b868a676bbdfb799bb5d9d81d6]: Commencement: Sch. 1 para. 4 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-477af08ab6c46790623ab7f07da7cc21]: Commencement: Sch. 1 para. 5 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-477af08ab6c46790623ab7f07da7cc21]: Commencement: Sch. 1 para. 5 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-ced665701d5f952f6c3d58eb57f059ca]: Commencement: Sch. 1 para. 6 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-ced665701d5f952f6c3d58eb57f059ca]: Commencement: Sch. 1 para. 6 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-64fcd0b06f5916fb341bc7b2cde2b9f1]: Commencement: Sch. 1 para. 7 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-64fcd0b06f5916fb341bc7b2cde2b9f1]: Commencement: Sch. 1 para. 7 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-ec85a4adf6cb4de73b1f57f65bdb1e31]: Commencement: Sch. 1 para. 8 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-ec85a4adf6cb4de73b1f57f65bdb1e31]: Commencement: Sch. 1 para. 8 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
 
-[^key-6ac5af02acb44c658e1e8bdacb3fb664]: Commencement: Sch. 1 para. 9 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)
+[^c-6ac5af02acb44c658e1e8bdacb3fb664]: Commencement: Sch. 1 para. 9 in force at 23.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(c)](https://www.legislation.gov.uk/uksi/2015/373/article/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33ZA. Collaborative working between Local Commissioners and other Commissioners[^key-e1adfeecff7c916d30593966bc4f7486]
+## 33ZA. Collaborative working between Local Commissioners and other Commissioners[^c-e1adfeecff7c916d30593966bc4f7486]
 
 *Extent: W*
 
@@ -46,7 +46,7 @@ relates partly to a matter within his jurisdiction by virtue of this Part[^M_F_e
 
 ## Annotations
 
-[^key-e1adfeecff7c916d30593966bc4f7486]: Textual amendment: S. 33ZA inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1889/article/1/1), [4](https://www.legislation.gov.uk/uksi/2007/1889/article/4)
+[^c-e1adfeecff7c916d30593966bc4f7486]: Textual amendment: S. 33ZA inserted (1.8.2007) by [The Regulatory Reform (Collaboration etc. between Ombudsmen) Order 2007 (S.I. 2007/1889)](https://www.legislation.gov.uk/uksi/2007/1889), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/1889/article/1/1), [4](https://www.legislation.gov.uk/uksi/2007/1889/article/4)
 
 [^M_F_7eb7d1fb-a3b5-427b-d3d3-59b0fa8ff956]: Textual amendment: Words in s. 33ZA(1) inserted (1.10.2010) by Health Act [2009 c. 21](https://www.legislation.gov.uk/ukpga/2009/21), [Sch. 5 para. 11(2)](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/11/2); S.I. 2010/1863, art. 2
 

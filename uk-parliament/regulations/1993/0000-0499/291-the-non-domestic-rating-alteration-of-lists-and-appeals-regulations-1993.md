@@ -46,11 +46,11 @@ The Secretary of State for the Environment, as respects England, and the Secreta
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-f5f24cee27ee489260d5babfcb6610d6]
+### 1. Citation and commencement[^c-f5f24cee27ee489260d5babfcb6610d6]
 
 These Regulations may be cited as the Non-Domestic Rating (Alteration of Lists and Appeals) Regulations 1993 and shall come into force on 1st April 1993.
 
-### 2. Interpretation[^key-2854a74ac4796c4eb56565ba8e30089b]
+### 2. Interpretation[^c-2854a74ac4796c4eb56565ba8e30089b]
 
 (1) In these Regulations–
 
@@ -95,7 +95,7 @@ These Regulations may be cited as the Non-Domestic Rating (Alteration of Lists a
 
 ## PART II — ALTERATION OF LOCAL RATING LISTS
 
-### 3. Interpretation[^key-2f9b8148026b9e69c037b6c0a4bc77a1]
+### 3. Interpretation[^c-2f9b8148026b9e69c037b6c0a4bc77a1]
 
 In this Part–
 
@@ -104,7 +104,7 @@ In this Part–
 - “material change of circumstances”, in relation to a hereditament, means a change in any of the matters mentioned in paragraph 2(7) of Schedule 6 to the Act;
 - “valuation officer”, in relation to a list, means the valuation officer for the authority for which the list is compiled and maintained.
 
-### 4. Circumstances and periods in which proposals may be made[^key-beecc41247787e560da162bf1623b124]
+### 4. Circumstances and periods in which proposals may be made[^c-beecc41247787e560da162bf1623b124]
 
 (1) Where a relevant authority or interested person is of the opinion that a list is inaccurate because–
 
@@ -170,7 +170,7 @@ the rateable value shown in the list for any hereditament is wrong, that authori
 - (e) reflects a change in the area of a relevant authority; or
 - (f) reflects the decision of a valuation tribunal, the Lands Tribunal or a court determining an appeal or application for review from either such tribunal in relation to the hereditament concerned.
 
-### 5. Manner of making proposals and information to be included[^key-242d10987a98a8d903efc28e21cfae44]
+### 5. Manner of making proposals and information to be included[^c-242d10987a98a8d903efc28e21cfae44]
 
 (1) A proposal shall be made by notice in writing served on the valuation officer which shall–
 
@@ -190,7 +190,7 @@ the rateable value shown in the list for any hereditament is wrong, that authori
 - (a) in the circumstances mentioned in regulation 4(3); or
 - (b) where the person making the proposal does so in the same capacity as respects each hereditament, and each of the hereditaments is within the same building as each other hereditament or, where any of them is not within a building, is within the same curtilage as the other or others.
 
-### 6. Acknowledgement of proposals by valuation officer[^key-b5087e67ce6045575fb575ee1982cb2b]
+### 6. Acknowledgement of proposals by valuation officer[^c-b5087e67ce6045575fb575ee1982cb2b]
 
 (1) Subject to paragraph (2), within the period of four weeks beginning with the day on which he receives a proposal, the valuation officer shall by notice in writing served on the proposer acknowledge its receipt.
 
@@ -198,7 +198,7 @@ the rateable value shown in the list for any hereditament is wrong, that authori
 
 (3) A notice under paragraph (1) shall specify the date of receipt of the proposal and shall be accompanied by a statement of the effect of regulations 8 to 12.
 
-### 7. Proposals treated as invalid[^key-c94f99c15b54a10f83b378e86dff9157]
+### 7. Proposals treated as invalid[^c-c94f99c15b54a10f83b378e86dff9157]
 
 (1) Where the valuation officer is of the opinion that a proposal has not been validly made, he may within four weeks of its service on him serve notice (an “invalidity notice”) on the proposer that he is of that opinion, and stating–
 
@@ -238,7 +238,7 @@ the rateable value shown in the list for any hereditament is wrong, that authori
 
 (11) Nothing done under this regulation shall be construed as preventing any party to an appeal under regulation 12 from contending for the purposes of that appeal that the proposal to which the appeal relates was not validly made.
 
-### 8. Procedure subsequent to the making of proposals[^key-0e3030d0c9300b43dec028d6b19f7541]
+### 8. Procedure subsequent to the making of proposals[^c-0e3030d0c9300b43dec028d6b19f7541]
 
 (1) Within the period of six weeks beginning on the day on which a proposal is served on him, the valuation officer shall serve a copy of the proposal on each of the following (not being the proposer)–
 
@@ -249,7 +249,7 @@ the rateable value shown in the list for any hereditament is wrong, that authori
 
 (2) Each copy of a proposal served under paragraph (1)(a) shall be accompanied by a statement of the effect of this regulation and regulations 9 to 12.
 
-### 9. Proposals agreed by valuation officer[^key-eca679d07a8f59aa9a1de3e508dce122]
+### 9. Proposals agreed by valuation officer[^c-eca679d07a8f59aa9a1de3e508dce122]
 
 Where the valuation officer is of the opinion that the proposal is well-founded, he shall–
 
@@ -258,7 +258,7 @@ Where the valuation officer is of the opinion that the proposal is well-founded,
   - (ii) if he is not the same person, on the ratepayer;
 - (b) within six weeks of the date of the notice so alter the list.
 
-### 10. Withdrawal of proposals[^key-3554ef8d765b6c09b5dfe6b4a8dc6508]
+### 10. Withdrawal of proposals[^c-3554ef8d765b6c09b5dfe6b4a8dc6508]
 
 (1) The proposer may, subject to paragraph (2), withdraw the proposal by notice in writing served on the valuation officer.
 
@@ -276,7 +276,7 @@ the valuation officer shall serve notice of that withdrawal on that interested p
 - (a) the notice shall, if that person would at the date of the proposal himself have been competent to make that proposal, be treated for the purposes of the following provisions of these Regulations as if it had been a proposal in the same terms made on the day on which the notice was served; and
 - (b) any resulting alteration shall have effect from the day which would have been applicable had there been no withdrawal under this regulation.
 
-### 11. Agreed alterations following proposals[^key-7e68e761a778f87e319aab901f3ee966]
+### 11. Agreed alterations following proposals[^c-7e68e761a778f87e319aab901f3ee966]
 
 (1) Where, following the making of the proposal all the persons mentioned in paragraph (2) agree on an alteration of the list in accordance with this Part in terms other than those contained in the proposal, and that agreement is signified in writing–
 
@@ -302,7 +302,7 @@ the agreement of that person under the foregoing provisions of this regulation s
 
 (4) Where the period of six weeks mentioned in paragraph (1)(a) would expire before the period of three months mentioned in paragraph (2)(e), the alteration required by paragraph (1)(a) shall, where no notice is served as mentioned in paragraph (2)(e), be made as soon as practicable after the expiry of that period of three months.
 
-### 12. Disagreement as to proposed alteration[^key-35b582d689ccd3f41e6c21e377a499ed]
+### 12. Disagreement as to proposed alteration[^c-35b582d689ccd3f41e6c21e377a499ed]
 
 (1) Where the valuation officer is not of the opinion that a proposal is well-founded, and
 
@@ -320,7 +320,7 @@ the disagreement shall, no later than the expiry of the period of six months beg
 
 (3) The valuation officer shall transmit to the clerk of the tribunal the name and address supplied to him by any other person who has given notice under regulation 2(3) that he wishes to be a party to the appeal.
 
-### 13. Time from which alteration is to have effect: general[^key-c0d4469eb1dd7119f3f6b97385bf390b]
+### 13. Time from which alteration is to have effect: general[^c-c0d4469eb1dd7119f3f6b97385bf390b]
 
 (1) This regulation has effect subject to regulations 15, 16 and 44.
 
@@ -367,7 +367,7 @@ the alteration shall have effect from the day so substituted, agreed or determin
 - (b) property previously rated in parts becoming liable to be rated as a single hereditament, or
 - (c) any part of a hereditament becoming part of a different hereditament.
 
-### 14. Advertising rights[^key-b685a675149dbcdb574d0704f071a23a]
+### 14. Advertising rights[^c-b685a675149dbcdb574d0704f071a23a]
 
 (1) For the purposes of regulation 13 an advertising hereditament shall be treated as coming into existence at the earliest time at which either–
 
@@ -384,7 +384,7 @@ and not before; and such a hereditament shall be treated for the purposes of Par
 - “advertising right” means a right which is such a hereditament; and
 - “structure” includes a hoarding, frame, post or wall.
 
-### 15. Alterations on and after 1st April 1992[^key-eb5043300a7727824876139cd32a6182]
+### 15. Alterations on and after 1st April 1992[^c-eb5043300a7727824876139cd32a6182]
 
 (1) Where, in relation to an alteration which falls to be made on or after 1st April 1992, other than an alteration–
 
@@ -413,7 +413,7 @@ the alteration shall have effect from that earlier day.
 
 (4) In this regulation and regulation 16 below, “the former regulation 6” refers to regulation 6 of the 1990 Regulations before the substitution made by regulation 4 of the Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) Regulations 1992[^f00009].
 
-### 16. Alterations: further provisions[^key-3885c88592e063eb8752453212ee23a5]
+### 16. Alterations: further provisions[^c-3885c88592e063eb8752453212ee23a5]
 
 (1) Where, in relation to an alteration made before 1st April 1992–
 
@@ -424,11 +424,11 @@ the person who on 1st April 1992 was the ratepayer as regards the hereditament t
 
 (2) In paragraph (1), “the former regulation 4” means regulation 4 of the 1990 Regulations before the amendment made by regulation 3 of the Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) Regulations 1992.
 
-### 17. Effective date to be shown in the list[^key-589b92498e112d94c6369632770ee375]
+### 17. Effective date to be shown in the list[^c-589b92498e112d94c6369632770ee375]
 
 Where an alteration is made, the list shall show the day from which the alteration is to have effect in pursuance of this Part.
 
-### 18. Notification of alteration[^key-8c39c0cf0c638eaddc17332274230ccb]
+### 18. Notification of alteration[^c-8c39c0cf0c638eaddc17332274230ccb]
 
 (1) Within six weeks of altering a list a valuation officer shall serve notice on the relevant authority stating the effect of the alteration; and the relevant authority shall as soon as is reasonably practicable alter the copy of the list deposited by it at its principal office under section 41(6B) of the Act[^f00010].
 
@@ -456,7 +456,7 @@ Where an alteration is made, the list shall show the day from which the alterati
 
 ## PART III — ALTERATION OF CENTRAL RATING LISTS: PIPE-LINES
 
-### 19. Cross-country pipe-lines[^key-ee2b8fc0d81e33d34bf72ac42e9dfd10]
+### 19. Cross-country pipe-lines[^c-ee2b8fc0d81e33d34bf72ac42e9dfd10]
 
 (1) In relation to cross-country pipe-lines required by regulations under section 53 of the Act[^f00011] to be shown in a central non-domestic rating list (in this regulation referred to as “relevant pipe-lines”), the regulations mentioned in paragraph (2) shall apply, modified as provided in paragraphs (3) and (4), as if–
 
@@ -476,7 +476,7 @@ Where an alteration is made, the list shall show the day from which the alterati
 
 ## PART IV — ALTERATION OF CENTRAL RATING LISTS: OTHER CASES
 
-### 20. Interpretation[^key-474281f8355775332367306908a6aa76]
+### 20. Interpretation[^c-474281f8355775332367306908a6aa76]
 
 In this Part–
 
@@ -486,7 +486,7 @@ In this Part–
 - “designated person”, in relation to an entry in a list, means the person designated by regulations under section 53 (contents of central lists) of the Act[^f00012] in relation to the description of hereditaments to which the entry relates; and
 - “relevant valuation tribunal” means the valuation tribunal established by regula tions under Schedule 11 to the Act for the area in which a relevant designated person has its principal place of business in England and Wales.
 
-### 21. Designated hereditaments[^key-dc22c2bb106cc2d7717068c73a10e949]
+### 21. Designated hereditaments[^c-dc22c2bb106cc2d7717068c73a10e949]
 
 (1) The central valuation officer shall from time to time alter each list, whether prospectively or retrospectively, to conform with–
 
@@ -502,11 +502,11 @@ In this Part–
 - a “relevant calculation” is a calculation falling to be made in respect of a description of designated hereditaments in pursuance of a relevant order; and
 - a “relevant order” is an order under paragraph 3(2) of Schedule 6 to the Act.
 
-### 22. Effective date to be shown in the list[^key-d185288dd35701c8633fddc7b71fe487]
+### 22. Effective date to be shown in the list[^c-d185288dd35701c8633fddc7b71fe487]
 
 Where an alteration is made, the list shall show the day from which the alteration is to have effect in pursuance of this Part.
 
-### 23. Notification of alteration[^key-ba9ef898a1ba6fa51500ccbfe43947f4]
+### 23. Notification of alteration[^c-ba9ef898a1ba6fa51500ccbfe43947f4]
 
 (1) Within six weeks of altering a list the central valuation officer shall serve notice on–
 
@@ -524,7 +524,7 @@ stating the effect of that alteration; and the appropriate Secretary of State sh
 
 (4) Any notice required by this regulation to be served on a designated person shall be accompanied by a statement of the effect of the following provisions of this Part and of Part VI.
 
-### 24. Circumstances in which proposals may be made[^key-c3ceb6b5254ab7a0ea0e72207ffba60a]
+### 24. Circumstances in which proposals may be made[^c-c3ceb6b5254ab7a0ea0e72207ffba60a]
 
 (1) Where a designated person considers that in respect of any of its designated hereditaments the rateable value shown in the list is not the amount properly determined in accordance with an order under paragraph 3(2) of Schedule 6 to the Act, that person may make a proposal by serving on the central valuation officer a notice in writing identifying the hereditaments in question and containing the information mentioned in paragraph (2).
 
@@ -537,25 +537,25 @@ stating the effect of that alteration; and the appropriate Secretary of State sh
 
 (3) The central valuation officer shall, within six weeks of the service on him of a proposal, serve a copy of it on the appropriate Secretary of State.
 
-### 25. Proposals agreed by central valuation officer[^key-3f63f275469475f17ee86d7741b1230b]
+### 25. Proposals agreed by central valuation officer[^c-3f63f275469475f17ee86d7741b1230b]
 
 Where the central valuation officer is of the opinion that a proposal is wellfounded, he shall–
 
 - (a) serve notice on the proposer that he proposes to alter the list accordingly; and
 - (b) within six weeks of the date of the notice so alter the list.
 
-### 26. Withdrawal of proposals[^key-5e8a7c65d9662614e600eaa66945f090]
+### 26. Withdrawal of proposals[^c-5e8a7c65d9662614e600eaa66945f090]
 
 A proposal may be withdrawn by notice in writing served on the central valuation officer.
 
-### 27. Agreed alterations following proposals[^key-ede104c96d1b1bf5de1769a2a875ddfa]
+### 27. Agreed alterations following proposals[^c-ede104c96d1b1bf5de1769a2a875ddfa]
 
 Where, following the making of a proposal, the central valuation officer and the proposer agree on an alteration of the list in terms other than those contained in the proposal, and that agreement is signified in writing–
 
 - (a) the central valuation officer shall, not later than the expiry of the period of six weeks beginning on the day on which the agreement was made, alter the list to give effect to the agreement; and
 - (b) the proposal shall be treated as having been withdrawn.
 
-### 28. Disagreement as to proposed alteration[^key-a10010842aa955194518dc0f6804ca41]
+### 28. Disagreement as to proposed alteration[^c-a10010842aa955194518dc0f6804ca41]
 
 (1) Where the central valuation officer is not of the opinion that a proposal is well-founded, and–
 
@@ -573,7 +573,7 @@ the disagreement shall, no later than the expiry of the period of six months beg
 
 ## PART V — APPEALS AGAINST COMPLETION NOTICES AND CERTIFICATION
 
-### 29. Appeals against completion notices[^key-14e826336fa07d1bb98d3235c5396915]
+### 29. Appeals against completion notices[^c-14e826336fa07d1bb98d3235c5396915]
 
 (1) An appeal against a completion notice shall be initiated by serving on the clerk, within four weeks of the service of the notice, a notice in writing (a “notice of appeal”) accompanied by–
 
@@ -582,7 +582,7 @@ the disagreement shall, no later than the expiry of the period of six months beg
 
 (2) The clerk shall, within two weeks of service of the notice of appeal, notify the appellant that he has received it, and shall serve a copy of the notice on the relevant authority whose notice is the subject of the appeal.
 
-### 30. Appeals against certification[^key-40ed9ea006a701304971e4a92be93002]
+### 30. Appeals against certification[^c-40ed9ea006a701304971e4a92be93002]
 
 (1) Where an interested person in relation to a hereditament in respect of which a value is certified by a valuation officer in pursuance of regulations under paragraphs 10 to 12 of Schedule 7A to the Act[^f00014] is dissatisfied with the value so certified he may appeal against the certification in accordance with this regulation.
 
@@ -597,18 +597,18 @@ the disagreement shall at the expiry of that period be referred by the valuation
 
 ## PART VI — APPEALS (GENERAL)
 
-### 31. Interpretation[^key-6e164718c0291370c677af26e5e33316]
+### 31. Interpretation[^c-6e164718c0291370c677af26e5e33316]
 
 In this Part–
 
 - “list” means a local or central non-domestic rating list;
 - “the 1993 Regulations” means the Council Tax (Alteration of Lists and Appeals) Regulations 1993[^f00015].
 
-### 32. Jurisdiction: exception[^key-df62ead28cb237ba60213f4a9db8438e]
+### 32. Jurisdiction: exception[^c-df62ead28cb237ba60213f4a9db8438e]
 
 Where the appellant is an employee or member of the relevant valuation tribunal, his appeal shall not be dealt with by that tribunal but by such other valuation tribunal as may be appointed for that purpose by the Secretary of State.
 
-### 33. Arrangements for appeals[^key-7a7d020009dcc2b6e2460b272c35522a]
+### 33. Arrangements for appeals[^c-7a7d020009dcc2b6e2460b272c35522a]
 
 (1) It shall be the duty of the president of a valuation tribunal to secure that arrangements are made for appeals to be determined in accordance with the following provisions of these Regulations.
 
@@ -624,7 +624,7 @@ Where the appellant is an employee or member of the relevant valuation tribunal,
 
 (5) The clerk shall as soon as is reasonably practicable give written notification to any person who is made a party to an appeal under paragraph (4).
 
-### 34. Withdrawal[^key-c6291b7c0af138407fdb4d2a9441500c]
+### 34. Withdrawal[^c-c6291b7c0af138407fdb4d2a9441500c]
 
 (1) Without prejudice to regulation 7(2) and subject to paragraph (2) below, an or of consideration of written representations, where notice to that effect is given to the clerk–
 
@@ -639,7 +639,7 @@ Where the appellant is an employee or member of the relevant valuation tribunal,
 
 (5) Where following the initiation of an appeal against certification under regulation 30(1) the appellant and the valuation officer agree in writing as to the value which should be certified, the valuation officer shall notify the clerk accordingly and the appeal shall be deemed to have been withdrawn.
 
-### 35. Disposal by written representations[^key-c2d0fa0bcd68b44fb5910321e8ffc000]
+### 35. Disposal by written representations[^c-c2d0fa0bcd68b44fb5910321e8ffc000]
 
 (1) An appeal may be disposed of on the basis of written representations if all the parties have given their agreement in writing.
 
@@ -666,14 +666,14 @@ to a tribunal constituted as provided in regulation 40.
 
 (7) Where a tribunal requires any party to furnish any particulars under paragraph (6)(a), the clerk shall serve a copy of such particulars on every other party, and each such party may within four weeks of such service serve on the clerk any further statement he wishes to make in response.
 
-### 36. Pre-hearing review[^key-2126146525f20cdb3b17cd46139d9b82]
+### 36. Pre-hearing review[^c-2126146525f20cdb3b17cd46139d9b82]
 
 With a view to clarifying the issues to be dealt with at a hearing, a chairman appointed under regulation 8 of the Valuation and Community Charge Tribunals Regulations 1989[^f00016]–
 
 - (a) may on the application of a party or of his own motion, not less than four weeks after giving notice to the parties to that effect, order a pre-hearing review to be held; and
 - (b) shall endeavour at the pre-hearing review to secure that all the parties make such admissions and agreements as ought reasonably to be made by them in relation to the proceedings.
 
-### 37. Notice of hearing[^key-8408a67174325b515cfbb4021d101365]
+### 37. Notice of hearing[^c-8408a67174325b515cfbb4021d101365]
 
 (1) Where an appeal is to be disposed of on the basis of a hearing, the clerk shall, not less than four weeks before the date in question, serve on the parties notice of the date, time and place appointed for the hearing.
 
@@ -690,7 +690,7 @@ With a view to clarifying the issues to be dealt with at a hearing, a chairman a
 - (a) to notify the parties to the appeal of the postponement; and
 - (b) to advertise the postponement.
 
-### 38. Disqualification from participating[^key-395ee165ea3d264902645e3a5a07d5f7]
+### 38. Disqualification from participating[^c-395ee165ea3d264902645e3a5a07d5f7]
 
 (1) A person shall be disqualified from participating as a member in the hearing or determination of, or acting as clerk or officer of a tribunal in relation to–
 
@@ -699,11 +699,11 @@ With a view to clarifying the issues to be dealt with at a hearing, a chairman a
 
 (2) References in this regulation to the relevant authority concerned and to the special authority concerned are references to the relevant authority and the special authority in whose area is situated the hereditament which is the subject of the appeal.
 
-### 39. Representation at the hearing[^key-1b8ee5ea54b30588b485580df4fc4536]
+### 39. Representation at the hearing[^c-1b8ee5ea54b30588b485580df4fc4536]
 
 Any party to an appeal which is to be decided at a hearing may appear in person (with assistance from any person if he wishes), by counsel or solicitor, or any other representative (other than a person who is a member, clerk or other employee of the valuation tribunal).
 
-### 40. Conduct of the hearing[^key-b9fcb6735c84d8f07818ae0559b276b0]
+### 40. Conduct of the hearing[^c-b9fcb6735c84d8f07818ae0559b276b0]
 
 (1) Subject to paragraph (2), a valuation tribunal’s functions of hearing or determining an appeal shall be discharged by three members of the tribunal, who shall include at least one chairman[^f00017]; and a chairman shall preside.
 
@@ -745,7 +745,7 @@ the tribunal shall not immediately proceed to determine the appeal unless every 
 - (b) shall, so far as appears to it appropriate, seek to avoid formality in its proceedings; and
 - (c) shall not be bound by any enactment or rule of law relating to the admissibility of evidence before courts of law.
 
-### 41. Evidence: general[^key-7608b3e032390d83c51647206960d5e8]
+### 41. Evidence: general[^c-7608b3e032390d83c51647206960d5e8]
 
 (1) This regulation applies to information supplied in pursuance of regulation 52 or paragraph 5 of Schedule 9 to the Act or section 82 of the General Rate Act 1967[^f00018].
 
@@ -779,11 +779,11 @@ the tribunal shall not immediately proceed to determine the appeal unless every 
 
 (9) If any information required to be made available for inspection in accordance with this regulation is not maintained in documentary form, the duty to make it so available is satisfied if a print-out, photographic image or other reproduction of the document which has been obtained from the storage medium adopted in relation to the document is made available for inspection.
 
-### 42. Evidence of lists and other documents[^key-5ab615fda9f8f543db26f425eaa020ad]
+### 42. Evidence of lists and other documents[^c-5ab615fda9f8f543db26f425eaa020ad]
 
 The contents of a list may be proved by the production of a copy of it, or of the relevant part, purporting to be certified to be a true copy by the valuation officer; and the contents of a completion notice may be proved by the production of a copy of it purporting to be certified to be a true copy by the proper officer of the relevant authority.
 
-### 43. Decisions[^key-d4a1ab047c3b7b3086f56bc56745f27a]
+### 43. Decisions[^c-d4a1ab047c3b7b3086f56bc56745f27a]
 
 (1) An appeal may be decided by a majority of the members participating; and where (pursuant to regulation 40(2)) it falls to be disposed of by two members and they are unable to agree, it shall be remitted by the clerk to be decided by a tribunal consisting of three different members.
 
@@ -800,7 +800,7 @@ by notice in writing to the parties; and the notice shall be accompanied by a st
 
 (5) In the case of an appeal against a completion notice, the clerk shall send notice of the decision to the valuation officer for the relevant authority.
 
-### 44. Orders[^key-83ddec2f24051861e2345fcb4c23d76e]
+### 44. Orders[^c-83ddec2f24051861e2345fcb4c23d76e]
 
 (1) On or after deciding an appeal under regulation 12 or 28, the tribunal may, subject to paragraph (4), require a valuation officer, in consequence of the decision, by order to alter a list in accordance with any provision made by or under the Act.
 
@@ -825,7 +825,7 @@ the order shall require the list to be altered with effect from the day on which
 
 (7) An order under this regulation may require any matter ancillary to its subjectmatter to be attended to.
 
-### 45. Review of decisions[^key-8c341541a94f3178c23300294b1fedbd]
+### 45. Review of decisions[^c-8c341541a94f3178c23300294b1fedbd]
 
 (1) Subject to paragraphs (2) and (3), a tribunal constituted as provided in paragraph (4) shall have power on written application by a party to review or set aside by certificate under the hand of the presiding member–
 
@@ -864,7 +864,7 @@ the order shall require the list to be altered with effect from the day on which
   - (b) an event referred to in any of sub-paragraphs (a) to (d) of paragraph (8) occurs; and
 - “the relevant event”, in relation to a relevant day, means the event occurring on that day.
 
-### 46. Records of decisions, etc.[^key-48147c7a9afb2214847bd41c00cee1b8]
+### 46. Records of decisions, etc.[^c-48147c7a9afb2214847bd41c00cee1b8]
 
 (1) It shall be the duty of the clerk to make arrangements for each decision, each order made under regulation 44 and the effect of each certificate and revocation under regulation 45 to be recorded.
 
@@ -882,7 +882,7 @@ the order shall require the list to be altered with effect from the day on which
 
 (8) The production in any proceedings in any court of law of a document purporting to be certified by the clerk to be a true copy of a record of that tribunal shall, unless the contrary is proved, be sufficient evidence of the document and of the facts it records.
 
-### 47. Appeals[^key-8e5ab1bba37de93551b2a38acb693085]
+### 47. Appeals[^c-8e5ab1bba37de93551b2a38acb693085]
 
 (1) An appeal shall lie to the Lands Tribunal in respect of a decision or order which is given or made by a tribunal on an appeal under regulation 7, 12, 28 or 30 or on an appeal against a completion notice.
 
@@ -904,7 +904,7 @@ the appeal may be dismissed if it is not made within four weeks of the service o
 
 (6) Valuation officers shall act in accordance with any order made by the Lands Tribunal; and paragraph 9 of Schedule 11 to the Act[^f00020] shall have effect subject to this requirement.
 
-### 48. Arbitration[^key-14898fec89897ececefbd8e3bada5468]
+### 48. Arbitration[^c-14898fec89897ececefbd8e3bada5468]
 
 (1) Where at any time before the beginning of a hearing or the consideration by a tribunal of written representations it is so agreed in writing between the persons who, if a dispute were to be the subject of an appeal to the tribunal, would be the parties to the appeal, the question shall be referred to arbitration.
 
@@ -912,7 +912,7 @@ the appeal may be dismissed if it is not made within four weeks of the service o
 
 (3) In any arbitration in pursuance of this regulation the award may include any order which could have been made by a tribunal in relation to the question; and paragraph 9 of Schedule 11 to the Act shall apply to such an order as it applies to an order recorded in pursuance of these Regulations.
 
-### 49. Notification of further proceedings[^key-b13962d725f90bb6db5bab480d052573]
+### 49. Notification of further proceedings[^c-b13962d725f90bb6db5bab480d052573]
 
 (1) Where a valuation officer–
 
@@ -932,7 +932,7 @@ he shall, at the same time or as soon as reasonably practicable thereafter, noti
 
 ## PART VII — MISCELLANEOUS AND GENERAL
 
-### 50. Service of notices[^key-3472ed07f206cec0bbb481819824e36a]
+### 50. Service of notices[^c-3472ed07f206cec0bbb481819824e36a]
 
 (1) Without prejudice to section 233 of the Local Government Act 1972[^f00022] and paragraph (2) below, any notice required or authorised to be served may be served–
 
@@ -960,13 +960,13 @@ he shall, at the same time or as soon as reasonably practicable thereafter, noti
 - (a) any reference to a notice includes a reference to a proposal and any other document required or authorised to be served; and
 - (b) any reference to such requirement or authorisation is to a requirement or authorisation under these Regulations.
 
-### 51. Retention of records[^key-df3b9634e355ee3996d0a2bf233aed09]
+### 51. Retention of records[^c-df3b9634e355ee3996d0a2bf233aed09]
 
 (1) Before altering an entry in a local or central non-domestic rating list, the valuation officer or, as the case may be, the central valuation officer shall ensure that a record (which need not be in documentary form) is made of the entry.
 
 (2) A record made under paragraph (1) shall be retained until the expiry of six years beginning on the day on which new lists are compiled.
 
-### 52. Information to be supplied by relevant authorities[^key-6223c932741bd3c4c9dad6380c3f17e7]
+### 52. Information to be supplied by relevant authorities[^c-6223c932741bd3c4c9dad6380c3f17e7]
 
 (1) Information of the description set out in paragraph (2) is hereby prescribed for the purposes of paragraph 6(1A) of Schedule 9 to the Act[^f00023].
 
@@ -986,7 +986,7 @@ he shall, at the same time or as soon as reasonably practicable thereafter, noti
 
 (4) The information required by this regulation shall be supplied as soon as is reasonably practicable after it comes to the attention of the relevant authority.
 
-### 53. Revocation of Regulations[^key-c84fed8fefcb2cb30512f6044e4c3a86]
+### 53. Revocation of Regulations[^c-c84fed8fefcb2cb30512f6044e4c3a86]
 
 Subject to regulation 54, the following Regulations are hereby revoked–
 
@@ -997,7 +997,7 @@ Subject to regulation 54, the following Regulations are hereby revoked–
 - (e) the Non-Domestic Rating (Alteration of Central Lists) (Amendment) Regula tions 1991[^f00028];
 - (f) the Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) Regulations 1992[^f00029].
 
-### 54. Transitional provision[^key-790ee2a1953372cbe8ef7cd4364bff21]
+### 54. Transitional provision[^c-790ee2a1953372cbe8ef7cd4364bff21]
 
 (1) In relation to any proposal served on the valuation officer before the date of coming into force of these Regulations,
 
@@ -1028,11 +1028,11 @@ Secretary of State for Wales
 
 18th February 1993
 
-## SCHEDULE 1 — CONTENTS OF RECORDS[^key-1c926005cfabc9034cbca23f88df4e2d]
+## SCHEDULE 1 — CONTENTS OF RECORDS[^c-1c926005cfabc9034cbca23f88df4e2d]
 
 Regulation 46
 
-[^key-1c926005cfabc9034cbca23f88df4e2d]
+[^c-1c926005cfabc9034cbca23f88df4e2d]
 
 - The appellant’s name and address
 - The matter appealed against
@@ -1044,7 +1044,7 @@ Regulation 46
 - The date of any such order Any certificate setting aside the decision
 - Any revocation under regulation 45(7)
 
-## SCHEDULE 2 — PROVISIONS RELATING TO TRANSITIONAL CASES[^key-7ceeb37a5f08b39bce11a0c95ee35cc5]
+## SCHEDULE 2 — PROVISIONS RELATING TO TRANSITIONAL CASES[^c-7ceeb37a5f08b39bce11a0c95ee35cc5]
 
 Regulation 54
 
@@ -1084,9 +1084,9 @@ Part VII provides for the manner in which notices under the Regulations may be s
 
 [^f00002]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53). See paragraph 28 in Part I of Schedule 1.
 
-[^key-f5f24cee27ee489260d5babfcb6610d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-f5f24cee27ee489260d5babfcb6610d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-2854a74ac4796c4eb56565ba8e30089b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/291/regulation/2) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-2854a74ac4796c4eb56565ba8e30089b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1993/291/regulation/2) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00003]: Footnote: Schedule 4A is inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). (For the application of Schedule 4A for other purposes, see section 17(1) of the Local Government Finance Act 1992).
 
@@ -1100,137 +1100,137 @@ Part VII provides for the manner in which notices under the Regulations may be s
 
 [^f00008]: Footnote: See Part II of the Valuation and Community Charge Tribunals Regulations 1989 (S.I. [1989/439](https://www.legislation.gov.uk/uksi/1989/439)); a relevant amending instrument is S.I. [1991/1](https://www.legislation.gov.uk/uksi/1991/1). By virtue of section 15(1) of the Local Government Finance Act 1992, valuation and community charge tribunals are, with effect from 6th March 1992, known as valuation tribunals.
 
-[^key-2f9b8148026b9e69c037b6c0a4bc77a1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/291/regulation/3) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-2f9b8148026b9e69c037b6c0a4bc77a1]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1993/291/regulation/3) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-beecc41247787e560da162bf1623b124]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/291/regulation/4) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-beecc41247787e560da162bf1623b124]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1993/291/regulation/4) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-242d10987a98a8d903efc28e21cfae44]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/291/regulation/5) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-242d10987a98a8d903efc28e21cfae44]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1993/291/regulation/5) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-b5087e67ce6045575fb575ee1982cb2b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/291/regulation/6) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-b5087e67ce6045575fb575ee1982cb2b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1993/291/regulation/6) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-c94f99c15b54a10f83b378e86dff9157]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/291/regulation/7) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-c94f99c15b54a10f83b378e86dff9157]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1993/291/regulation/7) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-0e3030d0c9300b43dec028d6b19f7541]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/291/regulation/8) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-0e3030d0c9300b43dec028d6b19f7541]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1993/291/regulation/8) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-eca679d07a8f59aa9a1de3e508dce122]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/291/regulation/9) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-eca679d07a8f59aa9a1de3e508dce122]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1993/291/regulation/9) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-3554ef8d765b6c09b5dfe6b4a8dc6508]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/291/regulation/10) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-3554ef8d765b6c09b5dfe6b4a8dc6508]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1993/291/regulation/10) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-7e68e761a778f87e319aab901f3ee966]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/291/regulation/11) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-7e68e761a778f87e319aab901f3ee966]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1993/291/regulation/11) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-35b582d689ccd3f41e6c21e377a499ed]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/291/regulation/12) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-35b582d689ccd3f41e6c21e377a499ed]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1993/291/regulation/12) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-c0d4469eb1dd7119f3f6b97385bf390b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/291/regulation/13) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-c0d4469eb1dd7119f3f6b97385bf390b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1993/291/regulation/13) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-b685a675149dbcdb574d0704f071a23a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/291/regulation/14) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-b685a675149dbcdb574d0704f071a23a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1993/291/regulation/14) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-eb5043300a7727824876139cd32a6182]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/291/regulation/15) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-eb5043300a7727824876139cd32a6182]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1993/291/regulation/15) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00009]: Footnote: S.I. [1992/611](https://www.legislation.gov.uk/uksi/1992/611).
 
-[^key-3885c88592e063eb8752453212ee23a5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/291/regulation/16) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-3885c88592e063eb8752453212ee23a5]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1993/291/regulation/16) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-589b92498e112d94c6369632770ee375]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/291/regulation/17) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-589b92498e112d94c6369632770ee375]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/291/regulation/17) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-8c39c0cf0c638eaddc17332274230ccb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/291/regulation/18) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-8c39c0cf0c638eaddc17332274230ccb]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1993/291/regulation/18) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00010]: Footnote: Section 41(6B) is inserted by paragraph 19 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-ee2b8fc0d81e33d34bf72ac42e9dfd10]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/291/regulation/19) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-ee2b8fc0d81e33d34bf72ac42e9dfd10]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1993/291/regulation/19) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00011]: Footnote: Section 53 is amended by paragraph 29 of Schedule 5 to the Local Government and Housing Act 1989. Regulations made under that section are the Central Rating Lists Regulations 1989 (S.I. [1989/2263](https://www.legislation.gov.uk/uksi/1989/2263); a relevant amending instrument is S.I. [1990/1566](https://www.legislation.gov.uk/uksi/1990/1566)).
 
-[^key-474281f8355775332367306908a6aa76]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/291/regulation/20) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-474281f8355775332367306908a6aa76]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1993/291/regulation/20) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00012]: Footnote: Regulations made under that section are the Central Rating Lists Regulations 1989 (S.I. [1989/2263](https://www.legislation.gov.uk/uksi/1989/2263), ammended by S.I. [1990/502](https://www.legislation.gov.uk/uksi/1990/502) and [1566](https://www.legislation.gov.uk/uksi/1990/1566) and [1933/166](https://www.legislation.gov.uk/uksi/1933/166)).
 
-[^key-dc22c2bb106cc2d7717068c73a10e949]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1993/291/regulation/21) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-dc22c2bb106cc2d7717068c73a10e949]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1993/291/regulation/21) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-d185288dd35701c8633fddc7b71fe487]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1993/291/regulation/22) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-d185288dd35701c8633fddc7b71fe487]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1993/291/regulation/22) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-ba9ef898a1ba6fa51500ccbfe43947f4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1993/291/regulation/23) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-ba9ef898a1ba6fa51500ccbfe43947f4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1993/291/regulation/23) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00013]: Footnote: Section 52(6B) is inserted by paragraph 28 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-c3ceb6b5254ab7a0ea0e72207ffba60a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1993/291/regulation/24) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-c3ceb6b5254ab7a0ea0e72207ffba60a]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1993/291/regulation/24) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-3f63f275469475f17ee86d7741b1230b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1993/291/regulation/25) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-3f63f275469475f17ee86d7741b1230b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1993/291/regulation/25) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-5e8a7c65d9662614e600eaa66945f090]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1993/291/regulation/26) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-5e8a7c65d9662614e600eaa66945f090]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1993/291/regulation/26) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-ede104c96d1b1bf5de1769a2a875ddfa]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1993/291/regulation/27) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-ede104c96d1b1bf5de1769a2a875ddfa]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1993/291/regulation/27) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-a10010842aa955194518dc0f6804ca41]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1993/291/regulation/28) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-a10010842aa955194518dc0f6804ca41]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1993/291/regulation/28) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-14e826336fa07d1bb98d3235c5396915]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1993/291/regulation/29) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-14e826336fa07d1bb98d3235c5396915]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1993/291/regulation/29) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-40ed9ea006a701304971e4a92be93002]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1993/291/regulation/30) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-40ed9ea006a701304971e4a92be93002]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1993/291/regulation/30) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00014]: Footnote: Schedule 7A is inserted by paragraph 40 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-6e164718c0291370c677af26e5e33316]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1993/291/regulation/31) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-6e164718c0291370c677af26e5e33316]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1993/291/regulation/31) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1993 \[290\]](https://www.legislation.gov.uk/uksi/1993/290).
 
-[^key-df62ead28cb237ba60213f4a9db8438e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1993/291/regulation/32) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-df62ead28cb237ba60213f4a9db8438e]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1993/291/regulation/32) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-7a7d020009dcc2b6e2460b272c35522a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1993/291/regulation/33) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-7a7d020009dcc2b6e2460b272c35522a]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1993/291/regulation/33) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-c6291b7c0af138407fdb4d2a9441500c]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1993/291/regulation/34) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-c6291b7c0af138407fdb4d2a9441500c]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1993/291/regulation/34) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-c2d0fa0bcd68b44fb5910321e8ffc000]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1993/291/regulation/35) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-c2d0fa0bcd68b44fb5910321e8ffc000]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1993/291/regulation/35) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-2126146525f20cdb3b17cd46139d9b82]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1993/291/regulation/36) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-2126146525f20cdb3b17cd46139d9b82]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1993/291/regulation/36) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00016]: Footnote: S.I. [1989/439](https://www.legislation.gov.uk/uksi/1989/439).
 
-[^key-8408a67174325b515cfbb4021d101365]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1993/291/regulation/37) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-8408a67174325b515cfbb4021d101365]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1993/291/regulation/37) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-395ee165ea3d264902645e3a5a07d5f7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1993/291/regulation/38) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-395ee165ea3d264902645e3a5a07d5f7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1993/291/regulation/38) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-1b8ee5ea54b30588b485580df4fc4536]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1993/291/regulation/39) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-1b8ee5ea54b30588b485580df4fc4536]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1993/291/regulation/39) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-b9fcb6735c84d8f07818ae0559b276b0]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1993/291/regulation/40) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-b9fcb6735c84d8f07818ae0559b276b0]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1993/291/regulation/40) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00017]: Footnote: See the defintion in regulation 2(1) of the Valuation and Community Charge Tribunals Regulations 1989.
 
-[^key-7608b3e032390d83c51647206960d5e8]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/291/regulation/41) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-7608b3e032390d83c51647206960d5e8]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1993/291/regulation/41) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00018]: Footnote: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9). The Act was repealed by section 117(1) of the Local Government Finance Act 1988, subject to savings.
 
-[^key-5ab615fda9f8f543db26f425eaa020ad]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1993/291/regulation/42) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-5ab615fda9f8f543db26f425eaa020ad]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1993/291/regulation/42) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-d4a1ab047c3b7b3086f56bc56745f27a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1993/291/regulation/43) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-d4a1ab047c3b7b3086f56bc56745f27a]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1993/291/regulation/43) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-83ddec2f24051861e2345fcb4c23d76e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1993/291/regulation/44) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-83ddec2f24051861e2345fcb4c23d76e]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1993/291/regulation/44) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00019]: Footnote: Schedule 7A is amended by paragraph 85 of Schedule 13 to the Local Government Finance Act 1992.
 
-[^key-8c341541a94f3178c23300294b1fedbd]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1993/291/regulation/45) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-8c341541a94f3178c23300294b1fedbd]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1993/291/regulation/45) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-48147c7a9afb2214847bd41c00cee1b8]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1993/291/regulation/46) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-48147c7a9afb2214847bd41c00cee1b8]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1993/291/regulation/46) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-8e5ab1bba37de93551b2a38acb693085]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1993/291/regulation/47) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-8e5ab1bba37de93551b2a38acb693085]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1993/291/regulation/47) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00020]: Footnote: Paragraph 9 is amended by paragraph 88(8) of Schedule 13 to the Local Government Finance Act 1992.
 
-[^key-14898fec89897ececefbd8e3bada5468]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1993/291/regulation/48) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-14898fec89897ececefbd8e3bada5468]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1993/291/regulation/48) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00021]: Footnote: [1950 c. 27](https://www.legislation.gov.uk/ukpga/1950/27).
 
-[^key-b13962d725f90bb6db5bab480d052573]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1993/291/regulation/49) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-b13962d725f90bb6db5bab480d052573]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1993/291/regulation/49) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-3472ed07f206cec0bbb481819824e36a]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1993/291/regulation/50) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-3472ed07f206cec0bbb481819824e36a]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1993/291/regulation/50) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00022]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-df3b9634e355ee3996d0a2bf233aed09]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1993/291/regulation/51) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-df3b9634e355ee3996d0a2bf233aed09]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1993/291/regulation/51) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-6223c932741bd3c4c9dad6380c3f17e7]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1993/291/regulation/52) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-6223c932741bd3c4c9dad6380c3f17e7]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1993/291/regulation/52) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00023]: Footnote: Paragraph 6(1A) is inserted by paragraph 47(1) of Schedule 5 to the Local Government and Housing Act 1989 and amended by paragraph 87(4) of Schedule 13 to the Local Government Finance Act 1992.
 
-[^key-c84fed8fefcb2cb30512f6044e4c3a86]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1993/291/regulation/53) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-c84fed8fefcb2cb30512f6044e4c3a86]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1993/291/regulation/53) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00024]: Footnote: S.I. [1990/582](https://www.legislation.gov.uk/uksi/1990/582).
 
@@ -1244,12 +1244,12 @@ Part VII provides for the manner in which notices under the Regulations may be s
 
 [^f00029]: Footnote: S.I. [1992/611](https://www.legislation.gov.uk/uksi/1992/611).
 
-[^key-790ee2a1953372cbe8ef7cd4364bff21]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1993/291/regulation/54) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-790ee2a1953372cbe8ef7cd4364bff21]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1993/291/regulation/54) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
 [^f00030]: Footnote: Regulation 6A was added by S.I. [1992/611](https://www.legislation.gov.uk/uksi/1992/611). Regulation 16(3) was amended, and regulation 16(4) and (5) added, by S.I. [1990/2025](https://www.legislation.gov.uk/uksi/1990/2025).
 
 [^f00031]: Footnote: Regulation 44 was amended by S.I. [1990/769](https://www.legislation.gov.uk/uksi/1990/769).
 
-[^key-1c926005cfabc9034cbca23f88df4e2d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1993/291/schedule/1) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-1c926005cfabc9034cbca23f88df4e2d]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1993/291/schedule/1) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
 
-[^key-7ceeb37a5f08b39bce11a0c95ee35cc5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1993/291/schedule/2) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)
+[^c-7ceeb37a5f08b39bce11a0c95ee35cc5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1993/291/schedule/2) in force at 1.4.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/291/regulation/1)

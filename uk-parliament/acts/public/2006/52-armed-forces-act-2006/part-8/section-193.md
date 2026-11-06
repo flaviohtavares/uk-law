@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Activation by CO of suspended sentence of service detention[^key-6ff3397af51eccfb9228ec61f87c6917][^key-b440d709e60d185db23293491c92101d]
+## 193. Activation by CO of suspended sentence of service detention[^c-6ff3397af51eccfb9228ec61f87c6917][^c-b440d709e60d185db23293491c92101d]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) If—
 
 - (a) an officer records a finding that a charge against the offender in respect of an offence committed during the operational period of the suspended sentence is proved, or
-- (b) the offender is convicted of an offence under the law of any part of the British Islands[^key-96212afa20392a1c39e4f5a788b7c884] which was committed during that operational period, and subsequently appears before his commanding officer,
+- (b) the offender is convicted of an offence under the law of any part of the British Islands[^c-96212afa20392a1c39e4f5a788b7c884] which was committed during that operational period, and subsequently appears before his commanding officer,
 
 the officer may (subject to section 194) make an order under subsection (3).
 
@@ -43,8 +43,8 @@ the officer may (subject to section 194) make an order under subsection (3).
 
 ## Annotations
 
-[^key-6ff3397af51eccfb9228ec61f87c6917]: Commencement: S. 193 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6ff3397af51eccfb9228ec61f87c6917]: Commencement: S. 193 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b440d709e60d185db23293491c92101d]: Commencement: S. 193 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b440d709e60d185db23293491c92101d]: Commencement: S. 193 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-96212afa20392a1c39e4f5a788b7c884]: Textual amendment: Words in s. 193(2)(b) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/14); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-96212afa20392a1c39e4f5a788b7c884]: Textual amendment: Words in s. 193(2)(b) substituted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/14); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)

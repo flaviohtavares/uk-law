@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24.[^key-25e2a443251d32508a977ad852cb0ccd]
+## 24.[^c-25e2a443251d32508a977ad852cb0ccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ For Article 18, substitute—
 >
 > **1.**
 >
-> Within three months of the date of publication of the Food Safety Authority's opinion, the appropriate authority must authorise the placing on the market within Great Britain *(Extent: E+W+S)*[^key-28b41dc33613eade772beaab521ec895] of the traditional food from a third country by prescribing an update of the list, taking into account the following—
+> Within three months of the date of publication of the Food Safety Authority's opinion, the appropriate authority must authorise the placing on the market within Great Britain *(Extent: E+W+S)*[^c-28b41dc33613eade772beaab521ec895] of the traditional food from a third country by prescribing an update of the list, taking into account the following—
 >
 > - (a) the conditions provided for in points (a) and (b) of Article 7 and, where applicable, point (c) of that Article;
 > - (b) any relevant provision of law, including the precautionary principle as referred to in Article 7 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178);
@@ -45,6 +45,6 @@ For Article 18, substitute—
 
 ## Annotations
 
-[^key-25e2a443251d32508a977ad852cb0ccd]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-25e2a443251d32508a977ad852cb0ccd]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-28b41dc33613eade772beaab521ec895]: Textual amendment: Words in reg. 24 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)
+[^c-28b41dc33613eade772beaab521ec895]: Textual amendment: Words in reg. 24 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/15/5)

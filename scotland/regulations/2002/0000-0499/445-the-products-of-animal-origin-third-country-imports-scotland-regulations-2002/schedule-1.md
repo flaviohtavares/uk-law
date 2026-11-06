@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1[^key-773713172fcc412278acac5841935b06]
+## SCHEDULE 1[^c-773713172fcc412278acac5841935b06]
 
 *Extent: S*
 
@@ -24,74 +24,74 @@ summary: ''
 
 Regulations 2(1) and 17(3)(a)
 
-### SHEET 1 — NOTICE OF INTRODUCTION OR PRESENTATION[^key-773713172fcc412278acac5841935b06]
+### SHEET 1 — NOTICE OF INTRODUCTION OR PRESENTATION[^c-773713172fcc412278acac5841935b06]
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
-[^key-773713172fcc412278acac5841935b06]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### CERTIFICATE FOR VETERINARY CHECKS ON PRODUCTS INTRODUCED INTO THE EC FROM NON-MEMBER COUNTRIES[^key-773713172fcc412278acac5841935b06]
-
-**1.**[^key-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+#### CERTIFICATE FOR VETERINARY CHECKS ON PRODUCTS INTRODUCED INTO THE EC FROM NON-MEMBER COUNTRIES[^c-773713172fcc412278acac5841935b06]
+
+**1.**[^c-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SHEET 2 — CERTIFICATE OF VETERINARY CLEARANCE[^key-773713172fcc412278acac5841935b06]
-
-**2.**[^key-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+### SHEET 2 — CERTIFICATE OF VETERINARY CLEARANCE[^c-773713172fcc412278acac5841935b06]
+
+**2.**[^c-773713172fcc412278acac5841935b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-773713172fcc412278acac5841935b06]
+[^c-773713172fcc412278acac5841935b06]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-773713172fcc412278acac5841935b06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)
+[^c-773713172fcc412278acac5841935b06]: Textual amendment: Regulations revoked (1.2.2007) by [The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2007 (S.S.I. 2007/1)](https://www.legislation.gov.uk/ssi/2007/1), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/1/regulation/1/1), [71(a)](https://www.legislation.gov.uk/ssi/2007/1/regulation/71/a)

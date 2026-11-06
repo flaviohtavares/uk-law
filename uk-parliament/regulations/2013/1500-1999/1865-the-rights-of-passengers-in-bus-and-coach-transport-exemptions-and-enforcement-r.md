@@ -64,9 +64,9 @@ The Secretary of State has been designated [^c23375771] for the purposes of sect
 - “**contravention**”, in relation to any condition or provision, includes a failure to comply with the condition or provision and “**contravene**” is to be construed accordingly;
 - “**domestic regular service**” means a regular service to which Regulation 181/2011 applies and which is operated exclusively within the United Kingdom by any carrier or performing carrier;
 - “**enforcement authority**” means a person designated as such by regulation 8;
-- “exemption period” means the period which commences on 1st March 2017 and ends at midnight on 28th February 2021;[^key-6d87d79961dc72bd3a8fa87455d78571]
+- “exemption period” means the period which commences on 1st March 2017 and ends at midnight on 28th February 2021;[^c-6d87d79961dc72bd3a8fa87455d78571]
 - “**improvement notice**” means, in respect of any contravention by any relevant person of Regulation 181/2011 or these Regulations, a notice requiring that person to implement the measures specified in the notice;
-- [^key-03fb7a4b4837b35edb38335723a6356a]...
+- [^c-03fb7a4b4837b35edb38335723a6356a]...
 - “**local authority**” means (in relation to England and Wales) the Common Council of the City of London and any local authority within the meaning of section 270 of the Local Government Act 1972 [^c23375781] and (in relation to Scotland) a council constituted under section 2 of the Local Government etc (Scotland) Act 1994 [^c23375791];
 - “**local transport authority**” has the meaning given in (in relation to England and Wales) section 108(4) of the Transport Act 2000 [^c23375801] and (in relation to Scotland) section 82(1) of the Transport (Scotland) Act 2001 [^c23375811];
 - “**local weights and measures authority**” means a local weights and measures authority prescribed by section 69 of the Weights and Measures Act 1985 [^c23375821];
@@ -92,13 +92,13 @@ The Rights of Passengers in Bus and Coach Transport (Exemptions) Regulations 201
 
 ## 4. Domestic regular services
 
-(1) Subject to paragraph (2), Regulation 181/2011 does not apply to any domestic regular service during the exemption period[^key-8c3fbe3d9b1b063782bb6acc6c55c027].
+(1) Subject to paragraph (2), Regulation 181/2011 does not apply to any domestic regular service during the exemption period[^c-8c3fbe3d9b1b063782bb6acc6c55c027].
 
 (2) Paragraph (1) does not apply to Articles 4(2), 9, 10(1), 16(1)(b), 16(2), 17(1), 17(2) and 24 to 28 (inclusive) of Regulation 181/2011.
 
 ## 5. Particular regular services operated outside the European Union
 
-(1) During the exemption period[^key-a7edae1d7c55a6185d089fc2a6c4c5f8], Regulation 181/2011 does not apply to any regular service operated by any carrier or performing carrier between the United Kingdom and—
+(1) During the exemption period[^c-a7edae1d7c55a6185d089fc2a6c4c5f8], Regulation 181/2011 does not apply to any regular service operated by any carrier or performing carrier between the United Kingdom and—
 
 - (a) Zurich in Switzerland (departing from or terminating at Victoria Coach Station, with bus stops only at Folkestone, Brussels and Basel);
 - (b) Geneva in Switzerland (departing from or terminating at Victoria Coach Station, with bus stops only at Folkestone and Paris); or
@@ -106,7 +106,7 @@ The Rights of Passengers in Bus and Coach Transport (Exemptions) Regulations 201
 
 (2) The Secretary of State may not designate a service unless—
 
-- (a) a significant part of the service, including at least one scheduled stop, is operated outside the United Kingdom and[^key-e044cd3f5ca21c8ba44fab8ce0d66365] the European Union; and
+- (a) a significant part of the service, including at least one scheduled stop, is operated outside the United Kingdom and[^c-e044cd3f5ca21c8ba44fab8ce0d66365] the European Union; and
 - (b) an application for designation has been made in accordance with paragraph (3).
 
 (3) An application for designation of a service under paragraph (1)(c)—
@@ -115,7 +115,7 @@ The Rights of Passengers in Bus and Coach Transport (Exemptions) Regulations 201
 - (b) must describe—
   - (i) the places where the service is due to begin and end;
   - (ii) the route of the service; and
-  - (iii) the place or places outside the United Kingdom and[^key-fbf689617e64a17f59c3eea57fbc9b4c] the European Union in which a stop is scheduled to occur; and
+  - (iii) the place or places outside the United Kingdom and[^c-fbf689617e64a17f59c3eea57fbc9b4c] the European Union in which a stop is scheduled to occur; and
 - (c) must be in writing.
 
 (4) A designation of a service by the Secretary of State under paragraph (1)(c) must—
@@ -137,12 +137,12 @@ Paragraph (b) of Article 16(1) of Regulation 181/2011 does not apply to the trai
 
 ## 8. Designation of national enforcement authorities
 
-(1) For the purpose of Article 28(1) of Regulation 181/2011, the designated bodies responsible for the enforcement of Regulation 181/2011 as regards regular services from points situated within the United Kingdom and regular services from a country other than the United Kingdom or a member State[^key-86b8b31867ecc20bfbc6506ba0620076] to such points are—
+(1) For the purpose of Article 28(1) of Regulation 181/2011, the designated bodies responsible for the enforcement of Regulation 181/2011 as regards regular services from points situated within the United Kingdom and regular services from a country other than the United Kingdom or a member State[^c-86b8b31867ecc20bfbc6506ba0620076] to such points are—
 
 - (a) in respect of a relevant person who holds one or more PSV operator's licences, the principal operating centre of whom is located within Great Britain, such traffic commissioner as the senior traffic commissioner may, pursuant to section 4B of the 1981 Act [^c23375931], require to carry out the functions of a traffic commissioner in respect of those licences, failing which, the senior traffic commissioner; and
 - (b) in respect of any other relevant person, the local weights and measures authority for the area of Great Britain within which either the local branch office or the principal office of that relevant person is located.
 
-(1A)[^key-417e99ae92b38dea53fe4aaf12e349b3] Paragraph (1) does not apply in relation to the enforcement of the requirements of paragraph 1 of Article 16 of [Regulation 181/2011](https://www.legislation.gov.uk/eur/2011/181) as they apply to a terminal managing body by virtue of paragraph 1A of that Article, and the designated body responsible for the enforcement of those requirements as they so apply is a traffic commissioner who is subject to the duty in regulation 10A(1) of these regulations in relation to those requirements.
+(1A)[^c-417e99ae92b38dea53fe4aaf12e349b3] Paragraph (1) does not apply in relation to the enforcement of the requirements of paragraph 1 of Article 16 of [Regulation 181/2011](https://www.legislation.gov.uk/eur/2011/181) as they apply to a terminal managing body by virtue of paragraph 1A of that Article, and the designated body responsible for the enforcement of those requirements as they so apply is a traffic commissioner who is subject to the duty in regulation 10A(1) of these regulations in relation to those requirements.
 
 (1B) The enforcement authority in relation to the requirements of regulations made under section 36 of the Bus Services Act 2025 is a traffic commissioner who is subject to the duty in regulation 10A(1) of these regulations in relation to those requirements.
 
@@ -235,7 +235,7 @@ has without reasonable excuse contravened a matter specified in paragraph (4), t
 
 (16) An amount due under this regulation is recoverable as a civil debt.
 
-## 10A. Enforcement: disability training and information[^key-ca2d2cec6518af27e6f733496feedd7a]
+## 10A. Enforcement: disability training and information[^c-ca2d2cec6518af27e6f733496feedd7a]
 
 (1) It is the duty of a traffic commissioner to exercise the powers available to the commissioner under these regulations and any other enactments in such manner as may be necessary or expedient in the opinion of the commissioner to remedy or avoid any contravention of—
 
@@ -405,9 +405,9 @@ Regulation 181/2011 can be viewed on the EUR-Lex website at www.eur-lex.europa.e
 
 [^c23375771]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
 
-[^key-6d87d79961dc72bd3a8fa87455d78571]: Textual amendment: Words in reg. 2(1) inserted (1.3.2017) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/2/a)
+[^c-6d87d79961dc72bd3a8fa87455d78571]: Textual amendment: Words in reg. 2(1) inserted (1.3.2017) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/2/a)
 
-[^key-03fb7a4b4837b35edb38335723a6356a]: Textual amendment: Words in reg. 2(1) omitted (1.3.2017) by virtue of [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/2/b)
+[^c-03fb7a4b4837b35edb38335723a6356a]: Textual amendment: Words in reg. 2(1) omitted (1.3.2017) by virtue of [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/2/b)
 
 [^c23375781]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Section 270 has been amended by the [Local Government Act 1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 16](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16), [paragraph 8](https://www.legislation.gov.uk/ukpga/1985/51/paragraph/8) and Schedule 17; and the [Local Government (Wales) Act 1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19), [section 1(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/1/5).
 
@@ -439,23 +439,23 @@ Regulation 181/2011 can be viewed on the EUR-Lex website at www.eur-lex.europa.e
 
 [^c23375921]: Marginal citation: S.I. 2013/ 228.
 
-[^key-8c3fbe3d9b1b063782bb6acc6c55c027]: Textual amendment: Words in reg. 4(1) substituted (1.3.2017) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/3)
+[^c-8c3fbe3d9b1b063782bb6acc6c55c027]: Textual amendment: Words in reg. 4(1) substituted (1.3.2017) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/3)
 
-[^key-a7edae1d7c55a6185d089fc2a6c4c5f8]: Textual amendment: Words in reg. 5(1) substituted (1.3.2017) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/3)
+[^c-a7edae1d7c55a6185d089fc2a6c4c5f8]: Textual amendment: Words in reg. 5(1) substituted (1.3.2017) by [The Rights of Passengers in Bus and Coach Transport (Exemptions and Enforcement) (Amendment) Regulations 2017 (S.I. 2017/99)](https://www.legislation.gov.uk/uksi/2017/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/99/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2017/99/regulation/2/3)
 
-[^key-e044cd3f5ca21c8ba44fab8ce0d66365]: Textual amendment: Words in reg. 5(2)(a) inserted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/141/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e044cd3f5ca21c8ba44fab8ce0d66365]: Textual amendment: Words in reg. 5(2)(a) inserted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/141/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fbf689617e64a17f59c3eea57fbc9b4c]: Textual amendment: Words in reg. 5(3)(b)(iii) inserted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/141/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbf689617e64a17f59c3eea57fbc9b4c]: Textual amendment: Words in reg. 5(3)(b)(iii) inserted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2019/141/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86b8b31867ecc20bfbc6506ba0620076]: Textual amendment: Words in reg. 8(1) substituted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/141/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86b8b31867ecc20bfbc6506ba0620076]: Textual amendment: Words in reg. 8(1) substituted (31.12.2020) by [The Rights of Passengers in Bus and Coach Transport (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/141)](https://www.legislation.gov.uk/uksi/2019/141), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/141/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/141/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23375931]: Marginal citation: [Section 4B](https://www.legislation.gov.uk/uksi/2013/1865/section/4B) was inserted in the 1981 Act by section 3(1) of the Local Transport Act 2008.
 
-[^key-417e99ae92b38dea53fe4aaf12e349b3]: Textual amendment: Reg. 8(1A)(1B) inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 36(9)](https://www.legislation.gov.uk/ukpga/2025/24/section/36/9), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/h)
+[^c-417e99ae92b38dea53fe4aaf12e349b3]: Textual amendment: Reg. 8(1A)(1B) inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 36(9)](https://www.legislation.gov.uk/ukpga/2025/24/section/36/9), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/h)
 
 [^c23375941]: Marginal citation: [Sections 16(3)](https://www.legislation.gov.uk/uksi/2013/1865/section/16/3) and (5)(a) and 17 of the 1981 Act have been amended by the [Road Transport Operators Regulations 2011 (S.I. 2011/2632)](https://www.legislation.gov.uk/uksi/2011/2632), [Schedule 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1), [paragraph 1](https://www.legislation.gov.uk/uksi/2011/2632/paragraph/1) and 6; the Transport Act 1985, Schedule 2, Part II, paragraph 4(7)(b) and (c) and (8) and Schedule 7, paragraph 21(5) and (6); the [Deregulation and Contracting Out Act 1994 (c.40)](https://www.legislation.gov.uk/ukpga/1994/40), [sections 59(6)](https://www.legislation.gov.uk/ukpga/1994/40/section/59/6), [62(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/62/2) and (3) Schedule 14, paragraph 5(1) and (2) and Schedule 17; and the [Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [Schedule 1](https://www.legislation.gov.uk/uksi/2013/1644/schedule/1).
 
-[^key-ca2d2cec6518af27e6f733496feedd7a]: Textual amendment: Reg. 10A inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 36(10)](https://www.legislation.gov.uk/ukpga/2025/24/section/36/10), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/h)
+[^c-ca2d2cec6518af27e6f733496feedd7a]: Textual amendment: Reg. 10A inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 36(10)](https://www.legislation.gov.uk/ukpga/2025/24/section/36/10), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/h)
 
 [^c23375951]: Marginal citation: To which there are amendments not relevant to these Regulations.
 

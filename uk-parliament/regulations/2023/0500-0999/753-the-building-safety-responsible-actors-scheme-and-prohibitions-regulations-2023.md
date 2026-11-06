@@ -46,13 +46,13 @@ In accordance with section 168(6) of that Act, a draft of this instrument has be
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-e3a164ab630e7c4989bf31441250c7fd]
+### 1. Citation, commencement, extent and application[^c-e3a164ab630e7c4989bf31441250c7fd]
 
 (1) These Regulations may be cited as the Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023 and come into force on the day after they are made.
 
 (2) These Regulations extend to England and Wales and apply in England only.
 
-### 2. Interpretation[^key-97ce089f093bdff647a3adc3aa56eca6]
+### 2. Interpretation[^c-97ce089f093bdff647a3adc3aa56eca6]
 
 (1) In these Regulations—
 
@@ -81,7 +81,7 @@ In accordance with section 168(6) of that Act, a draft of this instrument has be
 
 (3) For the purposes of regulations 7 to 9, a person is to be treated as being responsible for the development or refurbishment of a building if that person would be treated as playing a role as a developer or refurbisher in relation to that building in accordance with the definition of “Building” in the Self Remediation Terms and as if “PD Group Company” in that definition was substituted with “person”.
 
-### 3. Relevant buildings[^key-032feb38daa72e4bb9d56a9e5b5fc20d]
+### 3. Relevant buildings[^c-032feb38daa72e4bb9d56a9e5b5fc20d]
 
 (1) In these Regulations, a relevant building means a building which—
 
@@ -101,7 +101,7 @@ In accordance with section 168(6) of that Act, a draft of this instrument has be
 - (a) section 117 of the Act applies for the purposes of determining whether a building or part of a building is self-contained;
 - (b) the height of a building will be determined in accordance with the definition of “Building” in the Self Remediation Terms.
 
-### 4. Notices[^key-5ecd816b9186cafb3e68abaf2bed4b8b]
+### 4. Notices[^c-5ecd816b9186cafb3e68abaf2bed4b8b]
 
 (1) Any notice or notification required to be given or issued under these Regulations must be in writing.
 
@@ -118,18 +118,18 @@ In accordance with section 168(6) of that Act, a draft of this instrument has be
 
 ### CHAPTER 1 — Establishment and eligibility for membership
 
-#### 5. Establishment of scheme[^key-6e8531d6405fe6428dcaf6bddd39e3a2]
+#### 5. Establishment of scheme[^c-6e8531d6405fe6428dcaf6bddd39e3a2]
 
 A scheme to be known as the Responsible Actors Scheme (“**the scheme**”), which is a scheme to secure the safety of people in or about buildings and improve the standard of buildings by securing that persons in the building industry remedy defects in buildings relating to fire safety and contribute to costs associated with remedying such defects in relation to buildings, is established in accordance with these Regulations.
 
-#### 6. Eligibility: general[^key-bd7716e1192f53a374d71baa9513f4b8]
+#### 6. Eligibility: general[^c-bd7716e1192f53a374d71baa9513f4b8]
 
 A person (in this regulation and regulations 7 to 11, “P”) is eligible to be a member of the scheme if P—
 
 - (a) satisfies the criteria set out in regulation 7, 8 or 9; and
 - (b) is not a registered provider of social housing, or a wholly-owned subsidiary of a registered provider of social housing (and “**wholly-owned subsidiary**” has the meaning given in section 1159 of the Companies Act 2006[^f00004]).
 
-#### 7. Eligibility: residential property developers[^key-8eeeaf2d67624672d1a81c8499744e6d]
+#### 7. Eligibility: residential property developers[^c-8eeeaf2d67624672d1a81c8499744e6d]
 
 (1) The criteria in this regulation are satisfied if—
 
@@ -139,7 +139,7 @@ A person (in this regulation and regulations 7 to 11, “P”) is eligible to be
 
 (2) For the purposes of determining whether the condition in paragraph (1)(b) is met, P is to be treated as being responsible for the development or refurbishment of a building, if that building is a relevant building which a body corporate in the same group as P (“**GP**”) was responsible for developing or refurbishing in the relevant period, whether or not the building was developed or refurbished before GP was in the same group as P.
 
-#### 8. Eligibility: buildings eligible for remediation funds[^key-3d9abb795401cf5d90ff844890dec29b]
+#### 8. Eligibility: buildings eligible for remediation funds[^c-3d9abb795401cf5d90ff844890dec29b]
 
 (1) The criteria in this regulation are satisfied if—
 
@@ -159,7 +159,7 @@ A person (in this regulation and regulations 7 to 11, “P”) is eligible to be
   - (iii) in relation to the Building Safety Fund, determining that the building is eligible for funding from the Fund, and
 - (b) notice in writing of the decision has been given to the person who made the application to the fund in question.
 
-#### 9. Voluntary eligibility[^key-b5313e3f112fba7805d2abc157a3f63f]
+#### 9. Voluntary eligibility[^c-b5313e3f112fba7805d2abc157a3f63f]
 
 (1) The criteria in this regulation are satisfied if—
 
@@ -169,7 +169,7 @@ A person (in this regulation and regulations 7 to 11, “P”) is eligible to be
 
 (2) For the purposes of determining whether the condition in paragraph (1)(a) is met, P is to be treated as being responsible for the development or refurbishment of a building, if that building is a relevant building which a body corporate in the same group as P (“**GP**”) was responsible for developing or refurbishing in the relevant period, whether or not the building was developed or refurbished before GP was in the same group as P.
 
-#### 10. Residential property development[^key-8ce377d65d63ef4c7a1f470cc4994eb2]
+#### 10. Residential property development[^c-8ce377d65d63ef4c7a1f470cc4994eb2]
 
 (1) For the purposes of regulation 7(1)(a), P’s principal business is residential property development if—
 
@@ -188,7 +188,7 @@ A person (in this regulation and regulations 7 to 11, “P”) is eligible to be
   - (ii) includes residential property development activities (within the meaning of section 35 of the Finance Act 2022) which are ancillary to the activities in paragraph (i);
 - (c) P’s adjusted operating profits means the adjusted operating profits for the specified period derived from P’s accounts or consolidated accounts, as applicable, in accordance with regulation 11.
 
-#### 11. Profit condition[^key-c8c86ae3ddc21d784cb0091c7816206b]
+#### 11. Profit condition[^c-c8c86ae3ddc21d784cb0091c7816206b]
 
 (1) The condition in this regulation is satisfied if—
 
@@ -225,7 +225,7 @@ A person (in this regulation and regulations 7 to 11, “P”) is eligible to be
 
 (5) For the purposes of paragraph (4), where operating profits are not disclosed in the accounts (whether consolidated or unconsolidated) then operating profit should be determined from profit before tax adjusted to exclude interest, investment income and finance costs.
 
-#### 12. Eligibility: avoidance[^key-45532d6174342b059113af03128fb4e7]
+#### 12. Eligibility: avoidance[^c-45532d6174342b059113af03128fb4e7]
 
 (1) In any assessment of a person’s eligibility to be a member of the scheme under these Regulations, the Secretary of State must disregard any steps taken by the person or by a member of their group after the date on which these Regulations were laid before Parliament where such steps were taken for the main purpose, or one of the main purposes, of the person avoiding being eligible for the scheme (“avoidance action”).
 
@@ -247,17 +247,17 @@ the Secretary of State may direct that another person (“**B**”) in the group
 
 ### CHAPTER 2 — Membership of the scheme
 
-#### 13. Invitation by the Secretary of State to apply for membership[^key-d186b8546b8616636eb3a5105ac329f6]
+#### 13. Invitation by the Secretary of State to apply for membership[^c-d186b8546b8616636eb3a5105ac329f6]
 
 (1) In this regulation––
 
-- (a) “E” is a person whom the Secretary of State considers is likely to satisfy the criteria in regulation 7 or 8 and falls within the categories of person described in[^key-afa338514adb8e4ef0abcc4a4ae4494f] regulation 6(b);
+- (a) “E” is a person whom the Secretary of State considers is likely to satisfy the criteria in regulation 7 or 8 and falls within the categories of person described in[^c-afa338514adb8e4ef0abcc4a4ae4494f] regulation 6(b);
 - (b) “D” is the designated person in accordance with paragraph (3);
 - (c) “C” is a person invited to apply to become a member of the scheme in accordance with paragraphs (2), (4) or (5).
 
 (2) Subject to paragraphs (3) to (6), the Secretary of State must give notice to E inviting E to apply to become a member of the scheme.
 
-(3) Where E is a member of a group and the Secretary of State considers that there is more than one person in the group who is likely to satisfy the criteria in regulation 7 or 8 and falls within the categories of person described in[^key-8b3d7a5de359412975e209c4691a7ee7] regulation 6(b), the Secretary of State must direct that only one of those persons is for the time being to be invited to apply to become a member of the scheme (“the designated person”, D).
+(3) Where E is a member of a group and the Secretary of State considers that there is more than one person in the group who is likely to satisfy the criteria in regulation 7 or 8 and falls within the categories of person described in[^c-8b3d7a5de359412975e209c4691a7ee7] regulation 6(b), the Secretary of State must direct that only one of those persons is for the time being to be invited to apply to become a member of the scheme (“the designated person”, D).
 
 (4) Where paragraph (3) applies the Secretary of State must give notice to D inviting D to apply to become a member of the scheme.
 
@@ -274,7 +274,7 @@ and must accept such an application by either the person invited under sub-parag
 
 (8) Any notices given under paragraph (5) must contain a statement that unless each person to whom a notice is given complies with the conditions in regulation 14, the Secretary of State must include the name of any person falling within paragraph (5)(b), or the person who would have been invited to join the scheme under that paragraph if notice had not been dispensed with under paragraph (6), and the names of persons controlled by that person, on the prohibitions list.
 
-#### 14. Application for membership following invitation[^key-80416ee971e98cabbb922bc0ccb0216c]
+#### 14. Application for membership following invitation[^c-80416ee971e98cabbb922bc0ccb0216c]
 
 (1) In this regulation––
 
@@ -348,15 +348,15 @@ and the eligible body corporate must enter into a Self Remediation Contract (if 
 
 (12) The Secretary of State may extend any time period specified in this regulation whether or not the Secretary of State receives a request to do so, save that the Secretary of State may not extend any time period after it has already expired.
 
-#### 15. Request for an invitation to apply for membership[^key-02382f04bf3f1d0e9444ad1e27d25908]
+#### 15. Request for an invitation to apply for membership[^c-02382f04bf3f1d0e9444ad1e27d25908]
 
-(1) If a person (“**R**”) considers they are likely to satisfy the criteria in regulation 7 or 8, and falls within the categories of person described in[^key-cc5cf554a9c87c54b419dcc41e05001e] regulation 6(b), but neither R nor any other person in the same group as R has received a notice under regulation 13(2), (4) or (5), R may request that the Secretary of State invite R to apply to become a member of the scheme.
+(1) If a person (“**R**”) considers they are likely to satisfy the criteria in regulation 7 or 8, and falls within the categories of person described in[^c-cc5cf554a9c87c54b419dcc41e05001e] regulation 6(b), but neither R nor any other person in the same group as R has received a notice under regulation 13(2), (4) or (5), R may request that the Secretary of State invite R to apply to become a member of the scheme.
 
 (2) Where R makes a request under paragraph (1), the Secretary of State must treat R as though R is the person referred to as E in regulation 13 and must proceed in accordance with regulations 13 and 14.
 
-#### 16. Applications for volunteers[^key-38c81de4f2f373ed1ac85d1bfa8def30]
+#### 16. Applications for volunteers[^c-38c81de4f2f373ed1ac85d1bfa8def30]
 
-(1) If a person (“**V**”) considers they are likely to satisfy the criteria in regulation 9, and falls within the categories of person described in[^key-02b316a1bc9bd7cb15cc95e1b05d5029] regulation 6(b), but neither V nor any other person in the same group as V has received a notice under regulation 13(2), (4) or (5), V may apply to the Secretary of State for a determination as to whether V satisfies the criteria in regulation 9, providing the Secretary of State with evidence of the application of those criteria to V.
+(1) If a person (“**V**”) considers they are likely to satisfy the criteria in regulation 9, and falls within the categories of person described in[^c-02b316a1bc9bd7cb15cc95e1b05d5029] regulation 6(b), but neither V nor any other person in the same group as V has received a notice under regulation 13(2), (4) or (5), V may apply to the Secretary of State for a determination as to whether V satisfies the criteria in regulation 9, providing the Secretary of State with evidence of the application of those criteria to V.
 
 (2) Subject to paragraph (7), if the Secretary of State determines that V satisfies the criteria in regulation 9, the Secretary of State must—
 
@@ -377,7 +377,7 @@ and the eligible body corporate must enter into a Self Remediation Contract (if 
 
 (7) A person may not apply for membership under this regulation where the person or a person in their group satisfies the criteria in regulation 7 or 8.
 
-#### 17. Late application for membership[^key-e6f468b0cda3e3bd14b3faeb2b72690c]
+#### 17. Late application for membership[^c-e6f468b0cda3e3bd14b3faeb2b72690c]
 
 (1) A person (“**L**”) who, in accordance with regulation 14––
 
@@ -406,7 +406,7 @@ may notify the Secretary of State in writing that it wishes to apply to become a
 - (b) set out the date on which the applicant entered into a Self Remediation Contract, and
 - (c) contain such other information as the Secretary of State may direct.
 
-#### 18. Application following revocation of membership[^key-243aa850bde9d335a6611aa83477d7d3]
+#### 18. Application following revocation of membership[^c-243aa850bde9d335a6611aa83477d7d3]
 
 (1) A person (“**N**”) whose membership of the scheme has been revoked by the Secretary of State in accordance with regulation 26 may notify the Secretary of State in writing that it wishes to apply to become a member of the scheme.
 
@@ -440,7 +440,7 @@ the Secretary of State must give notice to N inviting N to apply to become a mem
 - (b) set out the date on which the applicant entered into a Self Remediation Contract, and
 - (c) contain such other information as the Secretary of State may direct.
 
-#### 19. Determination of applications[^key-63f16ca6a9e3968d8e1ecf5fc1944159]
+#### 19. Determination of applications[^c-63f16ca6a9e3968d8e1ecf5fc1944159]
 
 (1) Where the Secretary of State receives an application for membership in accordance with regulations 14, 16, 17 or 18, the Secretary of State must—
 
@@ -450,7 +450,7 @@ the Secretary of State must give notice to N inviting N to apply to become a mem
 
 (2) If the application is made under regulation 17 or 18, on receipt of the application the Secretary of State must remove the applicant’s name, and the names of persons controlled by the applicant, from the prohibitions list.
 
-#### 20. Publication of list of members, prohibitions list and other lists[^key-bb757687527713e4130c264cd80d074d]
+#### 20. Publication of list of members, prohibitions list and other lists[^c-bb757687527713e4130c264cd80d074d]
 
 (1) The Secretary of State must prepare, maintain and publish—
 
@@ -470,7 +470,7 @@ the Secretary of State must give notice to N inviting N to apply to become a mem
 
 ### CHAPTER 3 — Conditions of scheme
 
-#### 21. Self Remediation Terms[^key-c937074d235fd31b2acf8846fdf7bb87]
+#### 21. Self Remediation Terms[^c-c937074d235fd31b2acf8846fdf7bb87]
 
 (1) Subject to paragraph (3), a member of the scheme must enter into a contract with the Secretary of State (“a Self Remediation Contract”) which contains terms that apply to contracts between a developer and the Secretary of State providing for the developer to undertake the remediation of the buildings for which they are responsible, as published by the Secretary of State on 16th March 2023 and referred to as the developer remediation contract (“the Self Remediation Terms”).
 
@@ -490,20 +490,20 @@ the Secretary of State must give notice to N inviting N to apply to become a mem
 - “**fire safety defect**” has the same meaning as the term “Defect” in the Self Remediation Terms;
 - “**fund building**” has the meaning given in the definition of “Fund Building” in the Self Remediation Terms.
 
-#### 22. Provision of information to the Secretary of State[^key-05f43edc4d11981ab9334d3abdb2ba79]
+#### 22. Provision of information to the Secretary of State[^c-05f43edc4d11981ab9334d3abdb2ba79]
 
 A member of the scheme must—
 
 - (a) give the Secretary of State any information they are required to provide under the Self Remediation Terms, at the times or in respect of the periods specified in the Self Remediation Terms;
 - (b) provide the Secretary of State with such other information specified by the Secretary of State which the Secretary of State reasonably requires in order to monitor and enforce their compliance with the Self Remediation Terms and these Regulations.
 
-#### 23. Membership conditions: avoidance[^key-1b47b93dd5db643cfad1420a37af4653]
+#### 23. Membership conditions: avoidance[^c-1b47b93dd5db643cfad1420a37af4653]
 
 A member of the scheme must not themselves take, or procure other persons to take, any step where the main purpose, or one of the main purposes, is to avoid the member’s obligations under these Regulations or to frustrate the purposes of the scheme set out in regulation 5.
 
 ### CHAPTER 4 — Termination of membership
 
-#### 24. Grounds for revocation of membership[^key-d2b962f76565a7da6364b606bce1d3dd]
+#### 24. Grounds for revocation of membership[^c-d2b962f76565a7da6364b606bce1d3dd]
 
 (1) The Secretary of State may revoke any member’s membership of the scheme where—
 
@@ -516,7 +516,7 @@ A member of the scheme must not themselves take, or procure other persons to tak
 
 (2) Nothing in paragraph (1) may be taken to mean that the Secretary of State may only revoke a member’s membership of the scheme where a right to terminate a Self Remediation Contract arises under and in accordance with the Self Remediation Terms or is otherwise available at law.
 
-#### 25. Warning of revocation of membership[^key-c5a49adbe897a9d3037de0e512659fc9]
+#### 25. Warning of revocation of membership[^c-c5a49adbe897a9d3037de0e512659fc9]
 
 (1) Where the Secretary of State considers that one or more of the grounds for revocation of M’s membership of the scheme under regulation 24(1) exist, the Secretary of State may give M a notice (“a warning notice”) stating that the Secretary of State is proposing to start the procedure for revocation of M’s membership in accordance with regulation 26.
 
@@ -543,7 +543,7 @@ A member of the scheme must not themselves take, or procure other persons to tak
 - (a) confirm which conditions are to apply, and
 - (b) state the date from which the conditions come into effect and from which the compliance period will run.
 
-#### 26. Procedure for revocation of membership[^key-60b5ccad9f2af9d07163dff447e1a74d]
+#### 26. Procedure for revocation of membership[^c-60b5ccad9f2af9d07163dff447e1a74d]
 
 (1) Where the Secretary of State considers that one or more of the grounds for revocation of M’s membership of the scheme under regulation 24(1) exist, and the Secretary of State proposes to revoke M’s membership of the scheme, a notice must be given to M specifying—
 
@@ -567,7 +567,7 @@ A member of the scheme must not themselves take, or procure other persons to tak
 
 (5) The Secretary of State may issue a notice under paragraph (1) whether or not the Secretary of State has previously given M a warning notice under regulation 25.
 
-#### 27. Ending membership otherwise than by revocation[^key-54065db802c97b19b9fa74992fa35aa5]
+#### 27. Ending membership otherwise than by revocation[^c-54065db802c97b19b9fa74992fa35aa5]
 
 (1) The Secretary of State may end M’s membership of the scheme where M has substantially satisfied all of M’s obligations under these Regulations and the Self Remediation Terms.
 
@@ -577,7 +577,7 @@ A member of the scheme must not themselves take, or procure other persons to tak
 
 ### CHAPTER 1 — Application
 
-#### 28. Application of prohibitions[^key-826a05f4545fa959d032d3d6c8af74f1]
+#### 28. Application of prohibitions[^c-826a05f4545fa959d032d3d6c8af74f1]
 
 (1) Subject to paragraph (2), this Part applies to the following persons—
 
@@ -593,7 +593,7 @@ A member of the scheme must not themselves take, or procure other persons to tak
 
 ### CHAPTER 2 — Prohibition on Development
 
-#### 29. Planning prohibition[^key-3d22710720fb21edd51f7e852c983d2a]
+#### 29. Planning prohibition[^c-3d22710720fb21edd51f7e852c983d2a]
 
 (1) An applicable person is prohibited from carrying out major development of land in England.
 
@@ -603,11 +603,11 @@ A member of the scheme must not themselves take, or procure other persons to tak
 
 (4) This regulation is subject to regulation 31.
 
-#### 30. Notice of prohibition[^key-539c30bb7df60c2f441afd7d716af4fe]
+#### 30. Notice of prohibition[^c-539c30bb7df60c2f441afd7d716af4fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 31. Exception for critical national infrastructure[^key-e93653acbb515c6be76306609172c398]
+#### 31. Exception for critical national infrastructure[^c-e93653acbb515c6be76306609172c398]
 
 (1) The Secretary of State may disapply the prohibition in regulation 29 in relation to an applicable person in respect of a specific site, if in the view of the Secretary of State—
 
@@ -623,7 +623,7 @@ A member of the scheme must not themselves take, or procure other persons to tak
   and includes development which is necessary to facilitate the safe or effective construction or operation of the critical national infrastructure concerned;
 - “**elements of infrastructure**” means the assets, facilities, systems or networks that operate or facilitate the operation of the infrastructure.
 
-#### 32. Transitional provision[^key-82fef2d54a5105d57a67d53e6c380cc5]
+#### 32. Transitional provision[^c-82fef2d54a5105d57a67d53e6c380cc5]
 
 (1) The prohibition in regulation 29 does not apply to development for which planning permission has been granted before the date on which these Regulations come into force, unless a subsequent application is required for all or part of the development, and that application has not been determined before that date.
 
@@ -634,77 +634,77 @@ A member of the scheme must not themselves take, or procure other persons to tak
 
 ### CHAPTER 3 — Building Control Prohibitions
 
-#### 33. Building control prohibitions[^key-940a0c0146c7ce24fb2b6d76ecbba90f]
+#### 33. Building control prohibitions[^c-940a0c0146c7ce24fb2b6d76ecbba90f]
 
 (1) An applicable person is subject to each of the building control prohibitions in section 129(4) of the Act.
 
-(2) This regulation is subject to regulations 34, 34A,[^key-e5505484caaa00c1f0fe6d2191f29184] 35, 36, 37 and 38.
+(2) This regulation is subject to regulations 34, 34A,[^c-e5505484caaa00c1f0fe6d2191f29184] 35, 36, 37 and 38.
 
 (3) An applicable person may not give any document listed in paragraph (4) and accordingly those documents are prescribed for the purposes of section 129(4)(g) of the Act.
 
 (4) The documents referred to in paragraph (3) are—
 
 - (a) an initial notice within the meaning of section 47 of the Building Act 1984 (giving and acceptance of initial notice);
-- (aa)[^key-4fe8d864d86a7635aca84569ea346737] an application for building control approval with full plans made under regulation 14 of the Building Regulations 2010;
+- (aa)[^c-4fe8d864d86a7635aca84569ea346737] an application for building control approval with full plans made under regulation 14 of the Building Regulations 2010;
 - (b) a building notice within the meaning of regulation 2 of the Building Regulations 2010 (interpretation);
 - (c) a request for plans certificate under section 50(1) (plans certificate) of the Building Act 1984;
 - (d) an amendment notice within the meaning of section 51A of the Building Act 1984 (variation of work to which initial notice relates);
-- (e)[^key-814f684656cecf4d0decbd2437140909] a notice under regulation 16(4) or (5) of the Building Regulations 2010 (notices in relation to building work);
-- (ea)[^key-36f10c69b59cfed25d921a03a50ca66d] an application for a certificate under regulation 40 (completion certificate applications) or regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
+- (e)[^c-814f684656cecf4d0decbd2437140909] a notice under regulation 16(4) or (5) of the Building Regulations 2010 (notices in relation to building work);
+- (ea)[^c-36f10c69b59cfed25d921a03a50ca66d] an application for a certificate under regulation 40 (completion certificate applications) or regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
 - (f) an application for a certificate under regulation 18 of the Building Regulations 2010 (unauthorised building work);
-- (fa)[^key-5b6e21dde24a539330cdafe3bac8fac7] an application for a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
+- (fa)[^c-5b6e21dde24a539330cdafe3bac8fac7] an application for a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
 
 (5) No person may give any document listed in paragraph (6) to an applicable person or to any other person in respect of works carried out or to be carried out by an applicable person and accordingly those documents are prescribed for the purposes of section 129(4)(h) of the Act.
 
 (6) The documents referred to in paragraph (5) are—
 
-- (a)[^key-fb2827a39671a4863d4cde885ab0cd7c] a notice granting or rejecting an application for building control approval with full plans made under regulation 14A of the Building Regulations 2010;
+- (a)[^c-fb2827a39671a4863d4cde885ab0cd7c] a notice granting or rejecting an application for building control approval with full plans made under regulation 14A of the Building Regulations 2010;
 - (b) a certificate under regulation 17 of the Building Regulations 2010 (completion certificates);
-- (ba)[^key-17a4ec7f21656753906dc81a8b21881c] a certificate under regulation 44 (completion certificate applications: decisions) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
+- (ba)[^c-17a4ec7f21656753906dc81a8b21881c] a certificate under regulation 44 (completion certificate applications: decisions) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
 - (c) a certificate under regulation 17A of the Building Regulations 2010 (certificate for building occupied before work is completed);
-- (ca)[^key-1e267ade345efc965151dfff662ddea8] a certificate under regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
+- (ca)[^c-1e267ade345efc965151dfff662ddea8] a certificate under regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
 - (d) a plans certificate within the meaning of section 50 (plans certificate) of the Building Act 1984;
 - (e) a final certificate within the meaning of section 51 (final certificate) of the Building Act 1984;
 - (f) a regularisation certificate within the meaning of regulation 18(5) of the Building Regulations 2010 (unauthorised building work);
-- (g)[^key-a4aa70a040e784df6ca6147b98f918ea] a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
+- (g)[^c-a4aa70a040e784df6ca6147b98f918ea] a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
 
 (7) No person may accept any document listed in paragraph (8) where it is given by an applicable person and accordingly those documents are prescribed for the purposes of section 129(4)(i) of the Act.
 
 (8) The documents referred to in paragraph (7) are—
 
-- (a)[^key-cbf390ee964aff62584c86af83ff9ff2] an application for building control approval with full plans made under regulation 14 of the Building Regulations 2010;
+- (a)[^c-cbf390ee964aff62584c86af83ff9ff2] an application for building control approval with full plans made under regulation 14 of the Building Regulations 2010;
 - (b) an initial notice within the meaning of section 47 of the Building Act 1984 (giving and acceptance of initial notice);
 - (c) an amendment notice within the meaning of section 51A of the Building Act 1984 (variation of work to which initial notice relates);
 - (d) a plans certificate within the meaning of section 50 (plans certificate) of the Building Act 1984;
 - (e) a final certificate within the meaning of section 51 (final certificate) of the Building Act 1984;
-- (f)[^key-9c23f66eb1a6603cdcf1163dbaecd4b9] a notice under regulation 16(4) or (5) of the Building Regulations 2010 (notices in relation to building work);
-- (fa)[^key-b2d0528267e933a081af6662e35645bb] an application for a certificate under regulation 40 (completion certificate applications) or regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
+- (f)[^c-9c23f66eb1a6603cdcf1163dbaecd4b9] a notice under regulation 16(4) or (5) of the Building Regulations 2010 (notices in relation to building work);
+- (fa)[^c-b2d0528267e933a081af6662e35645bb] an application for a certificate under regulation 40 (completion certificate applications) or regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
 - (g) an application for a certificate under regulation 18 of the Building Regulations 2010 (unauthorised building work);
-- (h)[^key-9ebc387efac20c1c5ecbab36489828a5] an application for a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
+- (h)[^c-9ebc387efac20c1c5ecbab36489828a5] an application for a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
 
 (9) An applicable person may not take any action prohibited by this regulation through any agent or contractor or any other person acting for or on their behalf.
 
-#### 34. Exception to building control prohibition: emergency repair work[^key-93df4cb193c726b1c67ddb022dd0091b]
+#### 34. Exception to building control prohibition: emergency repair work[^c-93df4cb193c726b1c67ddb022dd0091b]
 
-(1)[^key-626fbfc56aee2e8e44764766ad05359e] Where an applicable person proposes to carry out building work which consists of emergency repair work then, subject to paragraph (2), the provision by that person of—
+(1)[^c-626fbfc56aee2e8e44764766ad05359e] Where an applicable person proposes to carry out building work which consists of emergency repair work then, subject to paragraph (2), the provision by that person of—
 
 - (a) a building notice pursuant to regulation 12(8) of the Building Regulations 2010, or
 - (b) a notice pursuant to regulation 16(4) of those Regulations,
 
 is not to be treated as a breach of a building control prohibition.
 
-(1A)[^key-a1fe9d31d315fb8fe60a459b735703b6] Where paragraph (1) applies, the local authority is not prohibited from giving the applicable person a certificate under regulation 17 (completion certificates) of the Building Regulations 2010.
+(1A)[^c-a1fe9d31d315fb8fe60a459b735703b6] Where paragraph (1) applies, the local authority is not prohibited from giving the applicable person a certificate under regulation 17 (completion certificates) of the Building Regulations 2010.
 
 (2) Paragraph (1) applies only where—
 
-- (a) each of the criteria in regulation 12(8)(a) to (c) of the Building Regulations 2010 are satisfied; and—[^key-f3fa2e74bf0344acd087e2c860209340]
-- (b) the applicable person gives the relevant authority[^key-8bb1bc821064798935b5647c7f1d857e] the relevant building notice as soon as reasonably practicable after the commencement of the work and explains on giving that notice—
+- (a) each of the criteria in regulation 12(8)(a) to (c) of the Building Regulations 2010 are satisfied; and—[^c-f3fa2e74bf0344acd087e2c860209340]
+- (b) the applicable person gives the relevant authority[^c-8bb1bc821064798935b5647c7f1d857e] the relevant building notice as soon as reasonably practicable after the commencement of the work and explains on giving that notice—
   - (i) that they are an applicable person but that this provision applies to them; and
   - (ii) the nature of the emergency repairs required to be undertaken.
 
-(3)[^key-205242af11cd22f6ce7575fdef871d80] In this regulation “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010.
+(3)[^c-205242af11cd22f6ce7575fdef871d80] In this regulation “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010.
 
-#### 34A. Exception to building control prohibition: emergency repair work to existing HRB[^key-bedb2f721513a1d49cd9e6604608483e]
+#### 34A. Exception to building control prohibition: emergency repair work to existing HRB[^c-bedb2f721513a1d49cd9e6604608483e]
 
 (1) Where an applicable person proposes to carry out work to existing HRB which consists of emergency repairs then—
 
@@ -721,64 +721,64 @@ are not to be treated as a breach of the building control prohibition.
 - “**the regulator**” has the meaning in section 126 of the Building Act 1984;
 - “**work to existing HRB**” has the meaning given in regulation 2 of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
 
-#### 35. Exception to building control prohibition: work to occupied buildings[^key-16c8deb6466a444ca6d97acbcd75f414]
+#### 35. Exception to building control prohibition: work to occupied buildings[^c-16c8deb6466a444ca6d97acbcd75f414]
 
 (1) An applicable person is not prohibited from—
 
-- (a)[^key-865994e606fe7b1df5b4270afd4ebdd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-f2a1459ebefa2914c4ee3d780fd36b5f] giving an application for building control approval to a building control authority;
-- (b) giving an initial notice within the meaning of section 47 of the Building Act 1984 (giving and acceptance of initial notice); [^key-f6c0364d54e34a37da8f694df8a4b933]...
-- (ba)[^key-0ec41473f642a8912295f113151f0e05] giving an amendment notice within the meaning of section 51A of the Building Act 1984 (variation of work to which initial notice relates); or
+- (a)[^c-865994e606fe7b1df5b4270afd4ebdd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-f2a1459ebefa2914c4ee3d780fd36b5f] giving an application for building control approval to a building control authority;
+- (b) giving an initial notice within the meaning of section 47 of the Building Act 1984 (giving and acceptance of initial notice); [^c-f6c0364d54e34a37da8f694df8a4b933]...
+- (ba)[^c-0ec41473f642a8912295f113151f0e05] giving an amendment notice within the meaning of section 51A of the Building Act 1984 (variation of work to which initial notice relates); or
 - (c) giving a building notice within the meaning of regulation 2 of the Building Regulations 2010 (interpretation),
 
 in relation to relevant building work to be carried out to an existing occupied building where on the application date the work had not started.
 
-(2)[^key-119b35f68f922cde2336cc27c7c2b652] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-119b35f68f922cde2336cc27c7c2b652] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-867d8061876cac6c43f6dd42f8f365a8] Where an application for building control approval has been given pursuant to paragraph (1), a building control authority is not prohibited from granting a building control approval to the applicable person.
+(2A)[^c-867d8061876cac6c43f6dd42f8f365a8] Where an application for building control approval has been given pursuant to paragraph (1), a building control authority is not prohibited from granting a building control approval to the applicable person.
 
 (3) Where an initial notice is given pursuant to paragraph (1) the local authority is not prohibited from giving the applicable person a notice accepting or rejecting that initial notice under section 47 of the Building Act 1984.
 
-(3A)[^key-fe941cb376eaaa8ef1f87dfbfaea6380] Where an amendment notice is given pursuant to paragraph (1), the local authority is not prohibited from giving the applicable person a notice accepting or rejecting that amendment notice under section 51A of the Building Act 1984.
+(3A)[^c-fe941cb376eaaa8ef1f87dfbfaea6380] Where an amendment notice is given pursuant to paragraph (1), the local authority is not prohibited from giving the applicable person a notice accepting or rejecting that amendment notice under section 51A of the Building Act 1984.
 
 (4) Where relevant building work is carried out to an existing occupied building following the depositing or giving of a document under paragraph (1)—
 
 - (a) then the applicable person is not prohibited from giving—
-  - (i)[^key-04b57144ab1a263cf3b646fc8d39f6c4] a notice under regulation 16(4) of the Building Regulations 2010 (notices in relation to building work) in relation to the work;
-  - (ia)[^key-4f23d4eb9964bd1b993b3721a8e1cbba] an application for a certificate under regulation 40 (completion certificate applications) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 in relation to the work;
-  - (ii)[^key-1ee9729984eaae05340881255c6aa484] a notice under regulation 16(5) of the Building Regulations 2010 (notices in relation to building work) in relation to the work;
-  - (iia)[^key-7e1b772b33ec01c05cf05a87b6c1a50a] an application for a certificate under regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 in relation to the work;
+  - (i)[^c-04b57144ab1a263cf3b646fc8d39f6c4] a notice under regulation 16(4) of the Building Regulations 2010 (notices in relation to building work) in relation to the work;
+  - (ia)[^c-4f23d4eb9964bd1b993b3721a8e1cbba] an application for a certificate under regulation 40 (completion certificate applications) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 in relation to the work;
+  - (ii)[^c-1ee9729984eaae05340881255c6aa484] a notice under regulation 16(5) of the Building Regulations 2010 (notices in relation to building work) in relation to the work;
+  - (iia)[^c-7e1b772b33ec01c05cf05a87b6c1a50a] an application for a certificate under regulation 45 (partial completion certificates) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 in relation to the work;
   - (iii) a request for a plans certificate under section 50(1) (plans certificate) of the Building Act 1984 in relation to the work;
 - (b) then, in respect of the work, a person may give to the applicable person—
   - (i) a plans certificate within the meaning of section 50 (plans certificate) of the Building Act 1984 in relation to the work;
   - (ii) a final certificate within the meaning of section 51 (final certificate) of the Building Act 1984 in relation to the work.
 
-(4A)[^key-7ee813362af571764862ed9654fb8e0b] Where paragraph (4) applies, the relevant authority is not prohibited from giving the person a completion certificate under regulation 17 (completion certificates) or regulation 17A (certificate for building occupied before work is completed) of the Building Regulations 2010 in relation to the work.
+(4A)[^c-7ee813362af571764862ed9654fb8e0b] Where paragraph (4) applies, the relevant authority is not prohibited from giving the person a completion certificate under regulation 17 (completion certificates) or regulation 17A (certificate for building occupied before work is completed) of the Building Regulations 2010 in relation to the work.
 
-(5) Where paragraph (4) applies the relevant authority[^key-3a186de5eee39a9d9c368d16848fbfc6] is not prohibited from giving the person a certificate under regulation 18 of the Building Regulations 2010 in relation to the work.
+(5) Where paragraph (4) applies the relevant authority[^c-3a186de5eee39a9d9c368d16848fbfc6] is not prohibited from giving the person a certificate under regulation 18 of the Building Regulations 2010 in relation to the work.
 
-(5A)[^key-8a45cc9816b560d062e3671580cdab95] Where paragraph (4) applies, the regulator is not prohibited from giving the applicable person a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
+(5A)[^c-8a45cc9816b560d062e3671580cdab95] Where paragraph (4) applies, the regulator is not prohibited from giving the applicable person a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023.
 
-(5B)[^key-94030098e8d6e52a7d6a4978ecb69e64] Where paragraph (4) applies, the local authority is not prohibited from giving the person a notice accepting or rejecting that plans certificate under section 50 of the Building Act 1984.
+(5B)[^c-94030098e8d6e52a7d6a4978ecb69e64] Where paragraph (4) applies, the local authority is not prohibited from giving the person a notice accepting or rejecting that plans certificate under section 50 of the Building Act 1984.
 
 (6) Where paragraph (4) applies the local authority is not prohibited from giving the person a notice accepting or rejecting that final certificate under section 51 of the Building Act 1984.
 
 (7) In this regulation—
 
 - “**application date**” means the date on which the document referred to in paragraph (1) is deposited or given by the applicable person;
-- “[^key-e8635380805610219c91b351c2201e74]**building control authority**” has the meaning given in regulation 2 of the Building Regulations 2010;
+- “[^c-e8635380805610219c91b351c2201e74]**building control authority**” has the meaning given in regulation 2 of the Building Regulations 2010;
 - “**dwelling**” has the meaning in regulation 2 of the Building Regulations 2010;
 - “**material change of use**” has the meaning in regulation 5 of the Building Regulations 2010;
 - “**occupied**”, in relation to a building, means at least one dwelling contained in the building is occupied by an arm’s length third party on the application date;
 - “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010;
 - “**relevant building work**” means any building work except work done to give effect to a material change of use of the building or part of the building.
 
-#### 36. Exception to building control prohibition: purchasers[^key-83012951c2c89852fa5b86321b3852bd]
+#### 36. Exception to building control prohibition: purchasers[^c-83012951c2c89852fa5b86321b3852bd]
 
-(1) The Secretary of State may on the application of an applicable person or a purchaser[^key-ab9d4c5279e91c4dd514341f7841ffeb] grant an exception to the building control prohibitions—
+(1) The Secretary of State may on the application of an applicable person or a purchaser[^c-ab9d4c5279e91c4dd514341f7841ffeb] grant an exception to the building control prohibitions—
 
-- (a) to permit the issuing by a relevant authority[^key-28f20d4162e25982516d01efc87efdd5] of a certificate under regulation 17 (completion certificate) of the Building Regulations 2010;
-- (aa)[^key-7bf4b685706e2a3928bdc48359022593] to permit the issuing by the regulator of a certificate in relation to that work under regulation 44 (completion certificate applications: decisions) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
+- (a) to permit the issuing by a relevant authority[^c-28f20d4162e25982516d01efc87efdd5] of a certificate under regulation 17 (completion certificate) of the Building Regulations 2010;
+- (aa)[^c-7bf4b685706e2a3928bdc48359022593] to permit the issuing by the regulator of a certificate in relation to that work under regulation 44 (completion certificate applications: decisions) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023;
 - (b) to permit the acceptance by a local authority of a final certificate within the meaning of section 51 (final certificate) of the Building Act 1984 in relation to a particular building;
 
 in respect of a specific building where the Secretary of State is satisfied that the criteria in paragraph (2) are met.
@@ -787,7 +787,7 @@ in respect of a specific building where the Secretary of State is satisfied that
 
 - (a) before the applicable person became an applicable person—
   - (i) building work in respect of the building had been commenced by the applicable person;
-  - (ii)[^key-a915c89aea686614244578dd5915f34b] there is a purchaser;
+  - (ii)[^c-a915c89aea686614244578dd5915f34b] there is a purchaser;
   - (iii) the purchaser has paid or is liable to pay to the seller of the dwelling or building a deposit in accordance with the terms of that contract;
 - (b) the purchaser is not in the same group as the applicable person and the purchase of the dwelling or building is an arm’s length transaction at market value and on arm’s length terms;
 - (c) the purchase of the dwelling or building is for domestic and not for business or commercial purposes; and
@@ -804,15 +804,15 @@ in respect of a specific building where the Secretary of State is satisfied that
 
 (6) An application under this regulation must be made before any document referred to in paragraph (1) is sought, given, issued or accepted, and any such document sought or purported to be given, issued or accepted (as the case may be) before the Secretary of State has granted an exception under this regulation is not to be treated as validly given, issued or accepted.
 
-(7)[^key-5a9bcd2aadec8088a8590b0057dfeabd] In this regulation “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010.
+(7)[^c-5a9bcd2aadec8088a8590b0057dfeabd] In this regulation “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010.
 
-(8)[^key-048cd7df58cc14b4770ee4dcc37a422e] In this regulation “**purchaser**” means a person who exchanged a contract for the sale and purchase of a dwelling contained in the building, or for the building where it comprises a single dwelling.
+(8)[^c-048cd7df58cc14b4770ee4dcc37a422e] In this regulation “**purchaser**” means a person who exchanged a contract for the sale and purchase of a dwelling contained in the building, or for the building where it comprises a single dwelling.
 
-#### 37. Exception to building control prohibitions and modification of the Building Regulations 2010: regularisation[^key-63d1f4f9cff213020517727ed21ce3ab]
+#### 37. Exception to building control prohibitions and modification of the Building Regulations 2010: regularisation[^c-63d1f4f9cff213020517727ed21ce3ab]
 
-(1) A relevant purchaser is not prohibited from giving an application for a certificate under regulation 18 (unauthorised building work) of the Building Regulations 2010 and a relevant authority[^key-9778fed6ca2547fefd347e5832feb3e3] is not prohibited from granting such a certificate.
+(1) A relevant purchaser is not prohibited from giving an application for a certificate under regulation 18 (unauthorised building work) of the Building Regulations 2010 and a relevant authority[^c-9778fed6ca2547fefd347e5832feb3e3] is not prohibited from granting such a certificate.
 
-(1A)[^key-c9cd957dc7a6409c2fca0e6f9cbff046] Where the building is a higher-risk building, a relevant purchaser is not prohibited from giving the regulator an application for a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 and the regulator is not prohibited from granting such a certificate.
+(1A)[^c-c9cd957dc7a6409c2fca0e6f9cbff046] Where the building is a higher-risk building, a relevant purchaser is not prohibited from giving the regulator an application for a certificate under regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 and the regulator is not prohibited from granting such a certificate.
 
 (2) In this regulation “**relevant purchaser**” means—
 
@@ -821,13 +821,13 @@ in respect of a specific building where the Secretary of State is satisfied that
 
 provided that the relevant purchaser is not in the same group as the applicable person and the purchase is an arm’s length transaction where the purchaser acquired the dwelling or building or part of a building in the ordinary course of business (where applicable), at market value and on arm’s length terms.
 
-(2A)[^key-49d9821b7d6060649cd5bc5b890c84ce] In this regulation “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010.
+(2A)[^c-49d9821b7d6060649cd5bc5b890c84ce] In this regulation “**relevant authority**” has the meaning given in regulation 2 of the Building Regulations 2010.
 
 (3) For the purposes of paragraph (1), regulation 18 of the Building Regulations 2010 is to have effect in relation to an application for a certificate under that regulation by a relevant purchaser as if any work carried out by an applicable person which was not unauthorised building work (within the meaning set out in that regulation) were treated as if it were unauthorised building work.
 
-(4)[^key-12de32f9f021a08a4e1053d2b99cd474] For the purposes of paragraph (1A), regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 is to have effect in relation to an application under that regulation by a relevant purchaser as if any work carried out by an applicable person which was not unauthorised building work (within the meaning set out in that regulation) were treated as if it were unauthorised building work.
+(4)[^c-12de32f9f021a08a4e1053d2b99cd474] For the purposes of paragraph (1A), regulation 47 (regularisation of unauthorised building work) of the Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 is to have effect in relation to an application under that regulation by a relevant purchaser as if any work carried out by an applicable person which was not unauthorised building work (within the meaning set out in that regulation) were treated as if it were unauthorised building work.
 
-#### 38. Exception for critical national infrastructure[^key-93982cab3bc0c0e77bd8c8357d846248]
+#### 38. Exception for critical national infrastructure[^c-93982cab3bc0c0e77bd8c8357d846248]
 
 (1) The Secretary of State may disapply any or all of the building control prohibitions in relation to an applicable person in respect of a specific building or site, if in the view of the Secretary of State—
 
@@ -843,7 +843,7 @@ provided that the relevant purchaser is not in the same group as the applicable 
   and includes building works which are necessary to facilitate the safe or effective construction or operation of the critical national infrastructure concerned;
 - “**elements of infrastructure**” means the assets, facilities, systems or networks that operate and facilitate the infrastructure.
 
-#### 39. Effect of things done in contravention of these Regulations[^key-21df42bbaf73007e6d53cbf5243a4bce]
+#### 39. Effect of things done in contravention of these Regulations[^c-21df42bbaf73007e6d53cbf5243a4bce]
 
 (1) Where, notwithstanding the prohibitions imposed by regulation 33, a document referred to in regulation 33(3) or (5) is given, then—
 
@@ -863,7 +863,7 @@ provided that the relevant purchaser is not in the same group as the applicable 
   - (iii) no certificate purported to be accepted or granted is to be treated as validly accepted or granted;
   - (iv) no application purported to be granted is to be treated as validly granted.
 
-#### 40. Transitional provision[^key-e60939619793478cbd75c0185cbed122]
+#### 40. Transitional provision[^c-e60939619793478cbd75c0185cbed122]
 
 (1) The prohibitions imposed by regulation 33 do not affect the validity of any document given by or to the applicable person, where that document is given by or to them on a date before that person was an applicable person.
 
@@ -871,11 +871,11 @@ provided that the relevant purchaser is not in the same group as the applicable 
 
 ### CHAPTER 4 — Enforcement and disapplication of the prohibitions to certain persons not in the building industry
 
-#### 41. Application of Part 7 (Enforcement) of the Town and Country Planning Act 1990[^key-ebb97a297af642c2c6b11542a1e89fa0]
+#### 41. Application of Part 7 (Enforcement) of the Town and Country Planning Act 1990[^c-ebb97a297af642c2c6b11542a1e89fa0]
 
 Part 7 of the Town and Country Planning Act 1990[^f00008] applies in respect of a breach of the prohibition in regulation 29 with the modifications set out in the Schedule to these Regulations.
 
-#### 42. Exception: disapplication of the prohibitions to certain persons not in the building industry[^key-dbff259d8cb06b401b015f9a384e3b3f]
+#### 42. Exception: disapplication of the prohibitions to certain persons not in the building industry[^c-dbff259d8cb06b401b015f9a384e3b3f]
 
 (1) In respect of persons referred to in regulation 28(1)(c) only, a person who receives a notice under regulation 20(3) may make an application in writing to the Secretary of State in accordance with this regulation requesting that the planning and building control prohibitions not be applied to them on the ground they are not a person in the building industry.
 
@@ -898,7 +898,7 @@ Part 7 of the Town and Country Planning Act 1990[^f00008] applies in respect of 
 
 ## PART 4 — Review
 
-### 43. Review[^key-00ca42dbc0d4c2cc5c5a55cefb947f60]
+### 43. Review[^c-00ca42dbc0d4c2cc5c5a55cefb947f60]
 
 (1) The Secretary of State must from time to time—
 
@@ -933,7 +933,7 @@ Department for Levelling Up, Housing and Communities
 
 Regulation 41
 
-**1.**[^key-6022e468cfdda6dfbe22761da8eea9e6] Part 7 of the Town and Country Planning Act 1990[^f00009] applies—
+**1.**[^c-6022e468cfdda6dfbe22761da8eea9e6] Part 7 of the Town and Country Planning Act 1990[^f00009] applies—
 
 - (a) as if the following sections were omitted—
   - (i) section 173ZA (enforcement warning notice: Wales);
@@ -942,11 +942,11 @@ Regulation 41
   - (iv) section 190 (enforcement of orders under s. 102 and Schedule 9);
   - (v) sections 191 to 196 (certificate of lawful use or development); and
   - (vi) section 196D (offence of failing to obtain planning permission for demolition of unlisted etc buildings in conservation area in England);
-  - (vii)[^key-c1adf40753c9cc727ecc0ef7584f77db] section 196E (power to provide relief from enforcement of planning conditions); and
+  - (vii)[^c-c1adf40753c9cc727ecc0ef7584f77db] section 196E (power to provide relief from enforcement of planning conditions); and
   - (vii) section 172ZA (enforcement warning notice: England.
 - (b) subject to the modifications set out in the following paragraphs of this Schedule.
 
-### 2. Modification of section 171A (expressions used in connection with enforcement)[^key-da2a941f6bcaa17bdbeef4ebd62e9219]
+### 2. Modification of section 171A (expressions used in connection with enforcement)[^c-da2a941f6bcaa17bdbeef4ebd62e9219]
 
 Section 171A[^f00010] applies as if—
 
@@ -970,7 +970,7 @@ Section 171A[^f00010] applies as if—
 
   .
 
-### 3. Modification of section 171C (power to require information about activities on land)[^key-31764eaae02f458a44f7f386e4e92c22]
+### 3. Modification of section 171C (power to require information about activities on land)[^c-31764eaae02f458a44f7f386e4e92c22]
 
 Section 171C[^f00011] applies as if—
 
@@ -990,21 +990,21 @@ Section 171C[^f00011] applies as if—
     ;
 - (c) in subsection (4)(a), for the words “to apply for planning permission” to the end, there were substituted “to remedy the breach of planning control”.
 
-### 4. Modification of section 171E (temporary stop notice)[^key-2d4749e7b055f4fd1da9e269e7ab3fd2]
+### 4. Modification of section 171E (temporary stop notice)[^c-2d4749e7b055f4fd1da9e269e7ab3fd2]
 
 Section 171E applies as if in subsection (1)—
 
 - (a) in paragraph (a), at the end “and” were omitted;
 - (b) paragraph (b) were omitted.
 
-### 5. Modification of section 171F (temporary stop notice: restrictions)[^key-296ec3c41ca2d73faa31ae9ecf970f1b]
+### 5. Modification of section 171F (temporary stop notice: restrictions)[^c-296ec3c41ca2d73faa31ae9ecf970f1b]
 
 Section 171F applies as if—
 
 - (a) in subsection (1), paragraph (b) were omitted;
 - (b) subsections (2) to (4) were omitted.
 
-### 6. Modification of section 171H (temporary stop notices: compensation)[^key-45b418eed37e89c9e62331c903c5c97c]
+### 6. Modification of section 171H (temporary stop notices: compensation)[^c-45b418eed37e89c9e62331c903c5c97c]
 
 Section 171H applies as if for it there were substituted—
 
@@ -1026,7 +1026,7 @@ Section 171H applies as if for it there were substituted—
 
 .
 
-### 7. Modification of section 172 (issue of enforcement notice)[^key-18afd3f4fe804c7d397bb50c59e5d36f]
+### 7. Modification of section 172 (issue of enforcement notice)[^c-18afd3f4fe804c7d397bb50c59e5d36f]
 
 Section 172 applies as if for subsection (1)(b) there were substituted—
 
@@ -1034,7 +1034,7 @@ Section 172 applies as if for subsection (1)(b) there were substituted—
 
 .
 
-### 8. Modification of section 173 (contents and effect of notice)[^key-57b040d830e7af8cbfb4e2673c75bf3d]
+### 8. Modification of section 173 (contents and effect of notice)[^c-57b040d830e7af8cbfb4e2673c75bf3d]
 
 Section 173 applies as if—
 
@@ -1064,12 +1064,12 @@ Section 173 applies as if—
 
   .
 
-### 9. Modification of section 174 (appeal against enforcement notice)[^key-247236f11d39f67315c8b15b1d163bfd]
+### 9. Modification of section 174 (appeal against enforcement notice)[^c-247236f11d39f67315c8b15b1d163bfd]
 
 Section 174[^f00012] applies as if—
 
 - (a) in subsection (2), paragraphs (a) and (f) were omitted;
-- (b)[^key-613ab2699e8c3c0717a1f820fca60e62] Reg 3(2) subsections (2A), (2AA), (2AB), (2AC), (2B) and (2D) to (2F) were omitted.
+- (b)[^c-613ab2699e8c3c0717a1f820fca60e62] Reg 3(2) subsections (2A), (2AA), (2AB), (2AC), (2B) and (2D) to (2F) were omitted.
 - (c) in subsection (4)—
   - (i) in the opening words, for “prescribed time” there were substituted “time specified in subsection (4A)”;
   - (ii) for paragraph (b), there were substituted—
@@ -1084,7 +1084,7 @@ Section 174[^f00012] applies as if—
   ;
 - (e) in subsection (5), for “prescribed time” there were substituted “time specified in subsection (4A)”.
 
-### 10. Modification of section 175 (appeals: supplementary provisions)[^key-c264064d67dfd51af147d778284c772f]
+### 10. Modification of section 175 (appeals: supplementary provisions)[^c-c264064d67dfd51af147d778284c772f]
 
 Section 175 applies as if—
 
@@ -1108,7 +1108,7 @@ Section 175 applies as if—
 
   .
 
-### 11. Modification of section 176 (general provisions relating to determination of appeals)[^key-4f556426691831b3ae51a0c34e28cb0b]
+### 11. Modification of section 176 (general provisions relating to determination of appeals)[^c-4f556426691831b3ae51a0c34e28cb0b]
 
 Section 176 applies as if—
 
@@ -1120,7 +1120,7 @@ Section 176 applies as if—
   ;
 - (c) in subsection (3)(a), for “prescribed time” there were substituted “time specified in section 174(4A)”.
 
-### 12. Modification of section 177 (grant or modification of planning permission on appeals against enforcement notices)[^key-81fea6738d7238932fdd073d2a28b38d]
+### 12. Modification of section 177 (grant or modification of planning permission on appeals against enforcement notices)[^c-81fea6738d7238932fdd073d2a28b38d]
 
 Section 177 applies as if for it there were substituted—
 
@@ -1128,7 +1128,7 @@ Section 177 applies as if for it there were substituted—
 
 .
 
-### 13. Modification of section 180 (effect of planning permission, etc, on enforcement or breach of condition notice)[^key-5ccb0db9225c67814266c92346634be6]
+### 13. Modification of section 180 (effect of planning permission, etc, on enforcement or breach of condition notice)[^c-5ccb0db9225c67814266c92346634be6]
 
 Section 180 applies as if—
 
@@ -1140,7 +1140,7 @@ Section 180 applies as if—
 - (b) subsection (2) were omitted;
 - (c) in subsection (3), “or breach of condition notice” were omitted.
 
-### 14. Modifications of section 181 (enforcement notice to have effect against subsequent development)[^key-6e3decb23f837fdc0f18cd87287fc6a5]
+### 14. Modifications of section 181 (enforcement notice to have effect against subsequent development)[^c-6e3decb23f837fdc0f18cd87287fc6a5]
 
 Section 181 applies as if for it there were substituted—
 
@@ -1148,11 +1148,11 @@ Section 181 applies as if for it there were substituted—
 
 .
 
-### 15. Modification of section 183 (stop notices)[^key-88d08ac0505fe892ea6091acf8427e14]
+### 15. Modification of section 183 (stop notices)[^c-88d08ac0505fe892ea6091acf8427e14]
 
 Section 183 applies as if paragraphs (5) and (5A) were omitted.
 
-### 16. Modification of section 186 (compensation for loss due to stop notice)[^key-6ca2bf11cf57fe44d7906cb096b9674a]
+### 16. Modification of section 186 (compensation for loss due to stop notice)[^c-6ca2bf11cf57fe44d7906cb096b9674a]
 
 Section 186 applies as if—
 
@@ -1162,7 +1162,7 @@ Section 186 applies as if—
   - (iii) in paragraph (c), the words “otherwise than in consequence” to “notice relates” were omitted;
 - (b) in subsection (3), for the words “within the prescribed time and in the prescribed manner” there were substituted “in accordance with regulation 12 of the Town and Country Planning General Regulations 1992[^f00017]”.
 
-### 17. Modification of section 188 (Register of enforcement and stop notices)[^key-a8b8f0784f2f8f2a2f87e73de63861f3]
+### 17. Modification of section 188 (Register of enforcement and stop notices)[^c-a8b8f0784f2f8f2a2f87e73de63861f3]
 
 Section 188 applies to enforcement action taken under these Regulations as if the references in that section—
 
@@ -1198,235 +1198,235 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2022 c. 30](https://www.legislation.gov.uk/ukpga/2022/30).
 
-[^key-e3a164ab630e7c4989bf31441250c7fd]: Commencement: Reg. 1 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-e3a164ab630e7c4989bf31441250c7fd]: Commencement: Reg. 1 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-97ce089f093bdff647a3adc3aa56eca6]: Commencement: Reg. 2 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-97ce089f093bdff647a3adc3aa56eca6]: Commencement: Reg. 2 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00002]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00003]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-032feb38daa72e4bb9d56a9e5b5fc20d]: Commencement: Reg. 3 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-032feb38daa72e4bb9d56a9e5b5fc20d]: Commencement: Reg. 3 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-5ecd816b9186cafb3e68abaf2bed4b8b]: Commencement: Reg. 4 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-5ecd816b9186cafb3e68abaf2bed4b8b]: Commencement: Reg. 4 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-6e8531d6405fe6428dcaf6bddd39e3a2]: Commencement: Reg. 5 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-6e8531d6405fe6428dcaf6bddd39e3a2]: Commencement: Reg. 5 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-bd7716e1192f53a374d71baa9513f4b8]: Commencement: Reg. 6 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-bd7716e1192f53a374d71baa9513f4b8]: Commencement: Reg. 6 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00004]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-8eeeaf2d67624672d1a81c8499744e6d]: Commencement: Reg. 7 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-8eeeaf2d67624672d1a81c8499744e6d]: Commencement: Reg. 7 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-3d9abb795401cf5d90ff844890dec29b]: Commencement: Reg. 8 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-3d9abb795401cf5d90ff844890dec29b]: Commencement: Reg. 8 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-b5313e3f112fba7805d2abc157a3f63f]: Commencement: Reg. 9 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-b5313e3f112fba7805d2abc157a3f63f]: Commencement: Reg. 9 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-8ce377d65d63ef4c7a1f470cc4994eb2]: Commencement: Reg. 10 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-8ce377d65d63ef4c7a1f470cc4994eb2]: Commencement: Reg. 10 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00005]: Footnote: [2022 c. 3](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^key-c8c86ae3ddc21d784cb0091c7816206b]: Commencement: Reg. 11 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-c8c86ae3ddc21d784cb0091c7816206b]: Commencement: Reg. 11 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-45532d6174342b059113af03128fb4e7]: Commencement: Reg. 12 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-45532d6174342b059113af03128fb4e7]: Commencement: Reg. 12 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-d186b8546b8616636eb3a5105ac329f6]: Commencement: Reg. 13 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-d186b8546b8616636eb3a5105ac329f6]: Commencement: Reg. 13 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-afa338514adb8e4ef0abcc4a4ae4494f]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/13/1/a) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/3/a)
+[^c-afa338514adb8e4ef0abcc4a4ae4494f]: Textual amendment: Words in [reg. 13(1)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/13/1/a) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/3/a)
 
-[^key-8b3d7a5de359412975e209c4691a7ee7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2023/753/regulation/13/3) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/3/b)
+[^c-8b3d7a5de359412975e209c4691a7ee7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2023/753/regulation/13/3) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/3/b)
 
-[^key-80416ee971e98cabbb922bc0ccb0216c]: Commencement: Reg. 14 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-80416ee971e98cabbb922bc0ccb0216c]: Commencement: Reg. 14 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-02382f04bf3f1d0e9444ad1e27d25908]: Commencement: Reg. 15 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-02382f04bf3f1d0e9444ad1e27d25908]: Commencement: Reg. 15 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-cc5cf554a9c87c54b419dcc41e05001e]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/15/1) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/509/regulation/4)
+[^c-cc5cf554a9c87c54b419dcc41e05001e]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/15/1) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2026/509/regulation/4)
 
-[^key-38c81de4f2f373ed1ac85d1bfa8def30]: Commencement: Reg. 16 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-38c81de4f2f373ed1ac85d1bfa8def30]: Commencement: Reg. 16 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-02b316a1bc9bd7cb15cc95e1b05d5029]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/16/1) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/509/regulation/5)
+[^c-02b316a1bc9bd7cb15cc95e1b05d5029]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/16/1) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/509/regulation/5)
 
-[^key-e6f468b0cda3e3bd14b3faeb2b72690c]: Commencement: Reg. 17 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-e6f468b0cda3e3bd14b3faeb2b72690c]: Commencement: Reg. 17 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-243aa850bde9d335a6611aa83477d7d3]: Commencement: Reg. 18 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-243aa850bde9d335a6611aa83477d7d3]: Commencement: Reg. 18 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-63f16ca6a9e3968d8e1ecf5fc1944159]: Commencement: Reg. 19 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-63f16ca6a9e3968d8e1ecf5fc1944159]: Commencement: Reg. 19 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-bb757687527713e4130c264cd80d074d]: Commencement: Reg. 20 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-bb757687527713e4130c264cd80d074d]: Commencement: Reg. 20 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-c937074d235fd31b2acf8846fdf7bb87]: Commencement: Reg. 21 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-c937074d235fd31b2acf8846fdf7bb87]: Commencement: Reg. 21 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-05f43edc4d11981ab9334d3abdb2ba79]: Commencement: Reg. 22 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-05f43edc4d11981ab9334d3abdb2ba79]: Commencement: Reg. 22 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-1b47b93dd5db643cfad1420a37af4653]: Commencement: Reg. 23 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-1b47b93dd5db643cfad1420a37af4653]: Commencement: Reg. 23 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-d2b962f76565a7da6364b606bce1d3dd]: Commencement: Reg. 24 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-d2b962f76565a7da6364b606bce1d3dd]: Commencement: Reg. 24 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-c5a49adbe897a9d3037de0e512659fc9]: Commencement: Reg. 25 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-c5a49adbe897a9d3037de0e512659fc9]: Commencement: Reg. 25 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-60b5ccad9f2af9d07163dff447e1a74d]: Commencement: Reg. 26 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-60b5ccad9f2af9d07163dff447e1a74d]: Commencement: Reg. 26 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-54065db802c97b19b9fa74992fa35aa5]: Commencement: Reg. 27 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-54065db802c97b19b9fa74992fa35aa5]: Commencement: Reg. 27 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-826a05f4545fa959d032d3d6c8af74f1]: Commencement: Reg. 28 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-826a05f4545fa959d032d3d6c8af74f1]: Commencement: Reg. 28 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-3d22710720fb21edd51f7e852c983d2a]: Commencement: Reg. 29 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-3d22710720fb21edd51f7e852c983d2a]: Commencement: Reg. 29 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595), as read with the definition of “development” in section 55 of the Town and Country Planning Act [1990 (c. 8)](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-539c30bb7df60c2f441afd7d716af4fe]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2023/753/regulation/30) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/509/regulation/6)
+[^c-539c30bb7df60c2f441afd7d716af4fe]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/uksi/2023/753/regulation/30) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/509/regulation/6)
 
-[^key-e93653acbb515c6be76306609172c398]: Commencement: Reg. 31 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-e93653acbb515c6be76306609172c398]: Commencement: Reg. 31 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-82fef2d54a5105d57a67d53e6c380cc5]: Commencement: Reg. 32 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-82fef2d54a5105d57a67d53e6c380cc5]: Commencement: Reg. 32 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-940a0c0146c7ce24fb2b6d76ecbba90f]: Commencement: Reg. 33 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-940a0c0146c7ce24fb2b6d76ecbba90f]: Commencement: Reg. 33 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-e5505484caaa00c1f0fe6d2191f29184]: Textual amendment: Word in reg. 33(2) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(a)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-e5505484caaa00c1f0fe6d2191f29184]: Textual amendment: Word in reg. 33(2) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(a)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-4fe8d864d86a7635aca84569ea346737]: Textual amendment: [Reg. 33(4)(aa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/aa) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/2/a)
+[^c-4fe8d864d86a7635aca84569ea346737]: Textual amendment: [Reg. 33(4)(aa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/aa) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/2/a)
 
-[^key-814f684656cecf4d0decbd2437140909]: Textual amendment: [Reg. 33(4)(e)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/e) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/2/b)
+[^c-814f684656cecf4d0decbd2437140909]: Textual amendment: [Reg. 33(4)(e)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/e) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/2/b)
 
-[^key-36f10c69b59cfed25d921a03a50ca66d]: Textual amendment: [Reg. 33(4)(ea)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/ea) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/b/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-36f10c69b59cfed25d921a03a50ca66d]: Textual amendment: [Reg. 33(4)(ea)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/ea) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/b/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-5b6e21dde24a539330cdafe3bac8fac7]: Textual amendment: [Reg. 33(4)(fa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/fa) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/b/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-5b6e21dde24a539330cdafe3bac8fac7]: Textual amendment: [Reg. 33(4)(fa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/4/fa) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/b/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-fb2827a39671a4863d4cde885ab0cd7c]: Textual amendment: [Reg. 33(6)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/a) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/3)
+[^c-fb2827a39671a4863d4cde885ab0cd7c]: Textual amendment: [Reg. 33(6)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/a) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/3)
 
-[^key-17a4ec7f21656753906dc81a8b21881c]: Textual amendment: [Reg. 33(6)(ba)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/ba) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(c)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/c/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-17a4ec7f21656753906dc81a8b21881c]: Textual amendment: [Reg. 33(6)(ba)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/ba) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(c)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/c/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-1e267ade345efc965151dfff662ddea8]: Textual amendment: [Reg. 33(6)(ca)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/ca) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/c/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-1e267ade345efc965151dfff662ddea8]: Textual amendment: [Reg. 33(6)(ca)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/ca) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/c/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-a4aa70a040e784df6ca6147b98f918ea]: Textual amendment: [Reg. 33(6)(g)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/g) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/c/iii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-a4aa70a040e784df6ca6147b98f918ea]: Textual amendment: [Reg. 33(6)(g)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/6/g) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(c)(iii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/c/iii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-cbf390ee964aff62584c86af83ff9ff2]: Textual amendment: [Reg. 33(8)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/a) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/4/a)
+[^c-cbf390ee964aff62584c86af83ff9ff2]: Textual amendment: [Reg. 33(8)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/a) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/4/a)
 
-[^key-9c23f66eb1a6603cdcf1163dbaecd4b9]: Textual amendment: [Reg. 33(8)(f)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/f) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/4/b)
+[^c-9c23f66eb1a6603cdcf1163dbaecd4b9]: Textual amendment: [Reg. 33(8)(f)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/f) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/7/4/b)
 
-[^key-b2d0528267e933a081af6662e35645bb]: Textual amendment: [Reg. 33(8)(fa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/fa) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/d/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-b2d0528267e933a081af6662e35645bb]: Textual amendment: [Reg. 33(8)(fa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/fa) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(d)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/d/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-9ebc387efac20c1c5ecbab36489828a5]: Textual amendment: [Reg. 33(8)(h)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/h) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/d/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-9ebc387efac20c1c5ecbab36489828a5]: Textual amendment: [Reg. 33(8)(h)](https://www.legislation.gov.uk/uksi/2023/753/regulation/33/8/h) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/2/d/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-93df4cb193c726b1c67ddb022dd0091b]: Commencement: Reg. 34 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-93df4cb193c726b1c67ddb022dd0091b]: Commencement: Reg. 34 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-626fbfc56aee2e8e44764766ad05359e]: Textual amendment: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/1) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/509/regulation/8/2)
+[^c-626fbfc56aee2e8e44764766ad05359e]: Textual amendment: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/1) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/509/regulation/8/2)
 
-[^key-a1fe9d31d315fb8fe60a459b735703b6]: Textual amendment: [Reg. 34(1A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/1A) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/8/3)
+[^c-a1fe9d31d315fb8fe60a459b735703b6]: Textual amendment: [Reg. 34(1A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/1A) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/8/3)
 
-[^key-f3fa2e74bf0344acd087e2c860209340]: Textual amendment: Word in [reg. 34(2)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/2/a) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2026/509/regulation/8/4)
+[^c-f3fa2e74bf0344acd087e2c860209340]: Textual amendment: Word in [reg. 34(2)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/2/a) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2026/509/regulation/8/4)
 
-[^key-8bb1bc821064798935b5647c7f1d857e]: Textual amendment: Words in [reg. 34(2)(b)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/2/b) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/2/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-8bb1bc821064798935b5647c7f1d857e]: Textual amendment: Words in [reg. 34(2)(b)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/2/b) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/2/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-205242af11cd22f6ce7575fdef871d80]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/3) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/2/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-205242af11cd22f6ce7575fdef871d80]: Textual amendment: [Reg. 34(3)](https://www.legislation.gov.uk/uksi/2023/753/regulation/34/3) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/2/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-bedb2f721513a1d49cd9e6604608483e]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2023/753/regulation/34A) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(3)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/3) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-bedb2f721513a1d49cd9e6604608483e]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/2023/753/regulation/34A) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(3)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/3) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-16c8deb6466a444ca6d97acbcd75f414]: Commencement: Reg. 35 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-16c8deb6466a444ca6d97acbcd75f414]: Commencement: Reg. 35 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-865994e606fe7b1df5b4270afd4ebdd0]: Textual amendment: [Reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/a) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/2)
+[^c-865994e606fe7b1df5b4270afd4ebdd0]: Textual amendment: [Reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/a) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/2)
 
-[^key-f2a1459ebefa2914c4ee3d780fd36b5f]: Textual amendment: [Reg. 35(1)(aa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/aa) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-f2a1459ebefa2914c4ee3d780fd36b5f]: Textual amendment: [Reg. 35(1)(aa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/aa) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-f6c0364d54e34a37da8f694df8a4b933]: Textual amendment: Word in [reg. 35(1)(b)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/b) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/3)
+[^c-f6c0364d54e34a37da8f694df8a4b933]: Textual amendment: Word in [reg. 35(1)(b)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/b) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/3)
 
-[^key-0ec41473f642a8912295f113151f0e05]: Textual amendment: [Reg. 35(1)(ba)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/ba) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/4)
+[^c-0ec41473f642a8912295f113151f0e05]: Textual amendment: [Reg. 35(1)(ba)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/1/ba) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/4)
 
-[^key-119b35f68f922cde2336cc27c7c2b652]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/2) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/5)
+[^c-119b35f68f922cde2336cc27c7c2b652]: Textual amendment: [Reg. 35(2)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/2) omitted (1.6.2026) by virtue of [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/5)
 
-[^key-867d8061876cac6c43f6dd42f8f365a8]: Textual amendment: [Reg. 35(2A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/2A) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-867d8061876cac6c43f6dd42f8f365a8]: Textual amendment: [Reg. 35(2A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/2A) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-fe941cb376eaaa8ef1f87dfbfaea6380]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/3A) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/6)
+[^c-fe941cb376eaaa8ef1f87dfbfaea6380]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/3A) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/6)
 
-[^key-04b57144ab1a263cf3b646fc8d39f6c4]: Textual amendment: [Reg. 35(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a/i) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/7/a)
+[^c-04b57144ab1a263cf3b646fc8d39f6c4]: Textual amendment: [Reg. 35(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a/i) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/7/a)
 
-[^key-4f23d4eb9964bd1b993b3721a8e1cbba]: Textual amendment: [Reg. 35(4)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a)[(ia)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/ia) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/4/a/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-4f23d4eb9964bd1b993b3721a8e1cbba]: Textual amendment: [Reg. 35(4)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a)[(ia)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/ia) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/4/a/i) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-1ee9729984eaae05340881255c6aa484]: Textual amendment: [Reg. 35(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a/ii) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(7)(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/7/b)
+[^c-1ee9729984eaae05340881255c6aa484]: Textual amendment: [Reg. 35(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a/ii) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(7)(b)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/7/b)
 
-[^key-7e1b772b33ec01c05cf05a87b6c1a50a]: Textual amendment: [Reg. 35(4)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a)[(iia)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/iia) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/4/a/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-7e1b772b33ec01c05cf05a87b6c1a50a]: Textual amendment: [Reg. 35(4)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/a)[(iia)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4/iia) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/4/a/ii) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-7ee813362af571764862ed9654fb8e0b]: Textual amendment: [Reg. 35(4A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4A) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(8)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/8)
+[^c-7ee813362af571764862ed9654fb8e0b]: Textual amendment: [Reg. 35(4A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/4A) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(8)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/8)
 
-[^key-3a186de5eee39a9d9c368d16848fbfc6]: Textual amendment: Words in [reg. 35(5)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/5) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/c) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-3a186de5eee39a9d9c368d16848fbfc6]: Textual amendment: Words in [reg. 35(5)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/5) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(c)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/c) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-8a45cc9816b560d062e3671580cdab95]: Textual amendment: [Reg. 35(5A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/5A) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(4)(b)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/4/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-8a45cc9816b560d062e3671580cdab95]: Textual amendment: [Reg. 35(5A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/5A) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(4)(b)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/4/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-94030098e8d6e52a7d6a4978ecb69e64]: Textual amendment: [Reg. 35(5B)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/5B) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(9)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/9)
+[^c-94030098e8d6e52a7d6a4978ecb69e64]: Textual amendment: [Reg. 35(5B)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/5B) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [9(9)](https://www.legislation.gov.uk/uksi/2026/509/regulation/9/9)
 
-[^key-e8635380805610219c91b351c2201e74]: Textual amendment: Words in [reg. 35(7)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/7) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(d)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/d) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-e8635380805610219c91b351c2201e74]: Textual amendment: Words in [reg. 35(7)](https://www.legislation.gov.uk/uksi/2023/753/regulation/35/7) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(3)(d)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/3/d) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-83012951c2c89852fa5b86321b3852bd]: Commencement: Reg. 36 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-83012951c2c89852fa5b86321b3852bd]: Commencement: Reg. 36 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-ab9d4c5279e91c4dd514341f7841ffeb]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/1) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2026/509/regulation/10/2)
+[^c-ab9d4c5279e91c4dd514341f7841ffeb]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/1) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [10(2)](https://www.legislation.gov.uk/uksi/2026/509/regulation/10/2)
 
-[^key-28f20d4162e25982516d01efc87efdd5]: Textual amendment: Words in [reg. 36(1)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/1/a) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(4)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/4/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-28f20d4162e25982516d01efc87efdd5]: Textual amendment: Words in [reg. 36(1)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/1/a) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(4)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/4/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-7bf4b685706e2a3928bdc48359022593]: Textual amendment: [Reg. 36(1)(aa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/1/aa) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(5)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/5) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-7bf4b685706e2a3928bdc48359022593]: Textual amendment: [Reg. 36(1)(aa)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/1/aa) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(5)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/5) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-a915c89aea686614244578dd5915f34b]: Textual amendment: [Reg. 36(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/2/a/ii) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/10/3)
+[^c-a915c89aea686614244578dd5915f34b]: Textual amendment: [Reg. 36(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/2/a/ii) substituted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2026/509/regulation/10/3)
 
-[^key-5a9bcd2aadec8088a8590b0057dfeabd]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/7) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(4)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/4/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-5a9bcd2aadec8088a8590b0057dfeabd]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/7) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(4)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/4/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-048cd7df58cc14b4770ee4dcc37a422e]: Textual amendment: [Reg. 36(8)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/8) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2026/509/regulation/10/4)
+[^c-048cd7df58cc14b4770ee4dcc37a422e]: Textual amendment: [Reg. 36(8)](https://www.legislation.gov.uk/uksi/2023/753/regulation/36/8) inserted (1.6.2026) by [The Building Safety (Responsible Actors Scheme and Prohibitions) (Amendment) Regulations 2026 (S.I. 2026/509)](https://www.legislation.gov.uk/uksi/2026/509), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/509/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2026/509/regulation/10/4)
 
-[^key-63d1f4f9cff213020517727ed21ce3ab]: Commencement: Reg. 37 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-63d1f4f9cff213020517727ed21ce3ab]: Commencement: Reg. 37 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-9778fed6ca2547fefd347e5832feb3e3]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/1) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(5)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/5/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-9778fed6ca2547fefd347e5832feb3e3]: Textual amendment: Words in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/1) substituted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(5)(a)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/5/a) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-c9cd957dc7a6409c2fca0e6f9cbff046]: Textual amendment: [Reg. 37(1A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/1A) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(6)(a)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/6/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-c9cd957dc7a6409c2fca0e6f9cbff046]: Textual amendment: [Reg. 37(1A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/1A) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(6)(a)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/6/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-49d9821b7d6060649cd5bc5b890c84ce]: Textual amendment: [Reg. 37(2A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/2A) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(5)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/5/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-49d9821b7d6060649cd5bc5b890c84ce]: Textual amendment: [Reg. 37(2A)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/2A) inserted (1.10.2023) by [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [21(5)(b)](https://www.legislation.gov.uk/uksi/2023/911/regulation/21/5/b) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-12de32f9f021a08a4e1053d2b99cd474]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/4) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(6)(b)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/6/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
+[^c-12de32f9f021a08a4e1053d2b99cd474]: Textual amendment: [Reg. 37(4)](https://www.legislation.gov.uk/uksi/2023/753/regulation/37/4) inserted (1.10.2023) by [The Building (Higher-Risk Buildings Procedures) (England) Regulations 2023 (S.I. 2023/909)](https://www.legislation.gov.uk/uksi/2023/909), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/909/regulation/1/1), [65(6)(b)](https://www.legislation.gov.uk/uksi/2023/909/regulation/65/6/b) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2023/909/schedule/3/part/1))
 
-[^key-93982cab3bc0c0e77bd8c8357d846248]: Commencement: Reg. 38 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-93982cab3bc0c0e77bd8c8357d846248]: Commencement: Reg. 38 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-21df42bbaf73007e6d53cbf5243a4bce]: Commencement: Reg. 39 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-21df42bbaf73007e6d53cbf5243a4bce]: Commencement: Reg. 39 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-e60939619793478cbd75c0185cbed122]: Commencement: Reg. 40 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-e60939619793478cbd75c0185cbed122]: Commencement: Reg. 40 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-ebb97a297af642c2c6b11542a1e89fa0]: Commencement: Reg. 41 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-ebb97a297af642c2c6b11542a1e89fa0]: Commencement: Reg. 41 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00008]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 173ZA was inserted by section 43(2) of Planning (Wales) [Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4). Section 187A was inserted by section 2 of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) (“**the 1991 Act**”). Section 189 was amended by paragraph 11 of Schedule 1 to the 1991 Act. Section 190 was amended by Part I of Schedule 19 to the 1991 Act. Sections 191 to 194 were substituted by section 10(1) of the 1991 Act; section 191 was amended by section 124(3) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 195 was amended by section 32 of the 1991 Act, section 241(3)(4) of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and [S.I. 2014/2773](https://www.legislation.gov.uk/uksi/2014/2773). Section 196 was amended by paragraph 33 of Schedule 7 to the 1991 Act. There are other amendments to this Part which are not relevant to this instrument.
 
-[^key-dbff259d8cb06b401b015f9a384e3b3f]: Commencement: Reg. 42 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-dbff259d8cb06b401b015f9a384e3b3f]: Commencement: Reg. 42 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-00ca42dbc0d4c2cc5c5a55cefb947f60]: Commencement: Reg. 43 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-00ca42dbc0d4c2cc5c5a55cefb947f60]: Commencement: Reg. 43 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-6022e468cfdda6dfbe22761da8eea9e6]: Commencement: Sch. para. 1 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-6022e468cfdda6dfbe22761da8eea9e6]: Commencement: Sch. para. 1 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00009]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 173ZA was inserted by section 43(2) of Planning (Wales) [Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4). Section 187A was inserted by section 2 of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) (“**the 1991 Act**”). Section 189 was amended by paragraph 11 of Schedule 1 to the 1991 Act. Section 190 was amended by Part I of Schedule 19 to the 1991 Act. Sections 191 to 194 were substituted by section 10(1) of the 1991 Act; section 191 was amended by section 124(3) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Section 195 was amended by section 32 of the 1991 Act, section 241(3)(4) of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29) and [S.I. 2014/2773](https://www.legislation.gov.uk/uksi/2014/2773). Section 196 was amended by paragraph 33 of Schedule 7 to the 1991 Act. There are other amendments to this Part which are not relevant to this instrument.
 
-[^key-c1adf40753c9cc727ecc0ef7584f77db]: Textual amendment: [Sch. para. 1(vii)](https://www.legislation.gov.uk/uksi/2023/753/schedule/paragraph/1/vii) inserted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/453/regulation/4/2/a)
+[^c-c1adf40753c9cc727ecc0ef7584f77db]: Textual amendment: [Sch. para. 1(vii)](https://www.legislation.gov.uk/uksi/2023/753/schedule/paragraph/1/vii) inserted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2024/453/regulation/4/2/a)
 
-[^key-da2a941f6bcaa17bdbeef4ebd62e9219]: Commencement: Sch. para. 2 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-da2a941f6bcaa17bdbeef4ebd62e9219]: Commencement: Sch. para. 2 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00010]: Footnote: Section 171A was inserted by section 4(1) of the 1991 Act.
 
-[^key-31764eaae02f458a44f7f386e4e92c22]: Commencement: Sch. para. 3 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-31764eaae02f458a44f7f386e4e92c22]: Commencement: Sch. para. 3 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00011]: Footnote: Section 171E to 171H were inserted by section 52 of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5). Section 171G was also amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664). There are other amendments to these sections which are not relevant to this instrument.
 
-[^key-2d4749e7b055f4fd1da9e269e7ab3fd2]: Commencement: Sch. para. 4 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-2d4749e7b055f4fd1da9e269e7ab3fd2]: Commencement: Sch. para. 4 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-296ec3c41ca2d73faa31ae9ecf970f1b]: Commencement: Sch. para. 5 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-296ec3c41ca2d73faa31ae9ecf970f1b]: Commencement: Sch. para. 5 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-45b418eed37e89c9e62331c903c5c97c]: Commencement: Sch. para. 6 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-45b418eed37e89c9e62331c903c5c97c]: Commencement: Sch. para. 6 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-18afd3f4fe804c7d397bb50c59e5d36f]: Commencement: Sch. para. 7 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-18afd3f4fe804c7d397bb50c59e5d36f]: Commencement: Sch. para. 7 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-57b040d830e7af8cbfb4e2673c75bf3d]: Commencement: Sch. para. 8 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-57b040d830e7af8cbfb4e2673c75bf3d]: Commencement: Sch. para. 8 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-247236f11d39f67315c8b15b1d163bfd]: Commencement: Sch. para. 9 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-247236f11d39f67315c8b15b1d163bfd]: Commencement: Sch. para. 9 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00012]: Footnote: Section 174 has been amended by section 61 of the 1991 Act, [S.I. 2003/956](https://www.legislation.gov.uk/uksi/2003/956), section 123(4) of the Localism Act 2011, paragraph 5 of Schedule 17 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-613ab2699e8c3c0717a1f820fca60e62]: Textual amendment: [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2023/753/schedule/paragraph/9/b) substituted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/453/regulation/4/2/b)
+[^c-613ab2699e8c3c0717a1f820fca60e62]: Textual amendment: [Sch. para. 9(b)](https://www.legislation.gov.uk/uksi/2023/753/schedule/paragraph/9/b) substituted (25.4.2024) by [The Levelling-up and Regeneration Act 2023 (Consequential Amendments) (No. 2) (England) Regulations 2024 (S.I. 2024/453)](https://www.legislation.gov.uk/uksi/2024/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/453/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2024/453/regulation/4/2/b)
 
-[^key-c264064d67dfd51af147d778284c772f]: Commencement: Sch. para. 10 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-c264064d67dfd51af147d778284c772f]: Commencement: Sch. para. 10 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2002/2686](https://www.legislation.gov.uk/uksi/2002/2686).
 
@@ -1436,18 +1436,18 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00016]: Footnote: [S.I. 2002/2683](https://www.legislation.gov.uk/uksi/2002/2683).
 
-[^key-4f556426691831b3ae51a0c34e28cb0b]: Commencement: Sch. para. 11 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-4f556426691831b3ae51a0c34e28cb0b]: Commencement: Sch. para. 11 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-81fea6738d7238932fdd073d2a28b38d]: Commencement: Sch. para. 12 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-81fea6738d7238932fdd073d2a28b38d]: Commencement: Sch. para. 12 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-5ccb0db9225c67814266c92346634be6]: Commencement: Sch. para. 13 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-5ccb0db9225c67814266c92346634be6]: Commencement: Sch. para. 13 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-6e3decb23f837fdc0f18cd87287fc6a5]: Commencement: Sch. para. 14 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-6e3decb23f837fdc0f18cd87287fc6a5]: Commencement: Sch. para. 14 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-88d08ac0505fe892ea6091acf8427e14]: Commencement: Sch. para. 15 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-88d08ac0505fe892ea6091acf8427e14]: Commencement: Sch. para. 15 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
-[^key-6ca2bf11cf57fe44d7906cb096b9674a]: Commencement: Sch. para. 16 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-6ca2bf11cf57fe44d7906cb096b9674a]: Commencement: Sch. para. 16 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1992/1492](https://www.legislation.gov.uk/uksi/1992/1492). Regulation 12 was amended by [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525).
 
-[^key-a8b8f0784f2f8f2a2f87e73de63861f3]: Commencement: Sch. para. 17 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)
+[^c-a8b8f0784f2f8f2a2f87e73de63861f3]: Commencement: Sch. para. 17 in force at 4.7.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1)

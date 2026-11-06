@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Initial duties of building society liquidation committee[^key-27f22b9839bd3303d273549eea0f0dff]
+## 9. Initial duties of building society liquidation committee[^c-27f22b9839bd3303d273549eea0f0dff]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27f22b9839bd3303d273549eea0f0dff]: Commencement: Rule 9 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-27f22b9839bd3303d273549eea0f0dff]: Commencement: Rule 9 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

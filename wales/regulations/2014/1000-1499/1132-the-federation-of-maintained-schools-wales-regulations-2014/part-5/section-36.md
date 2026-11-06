@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Term of office[^key-f242ae5c370441b8444fcd627a17e553]
+## 36. Term of office[^c-f242ae5c370441b8444fcd627a17e553]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f242ae5c370441b8444fcd627a17e553]: Commencement: Reg. 36 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-f242ae5c370441b8444fcd627a17e553]: Commencement: Reg. 36 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

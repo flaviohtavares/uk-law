@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Declaration of eligibility to be submitted before registration[^key-49d146bf56add79333f1d78edf60b3ff]
+## 27. Declaration of eligibility to be submitted before registration[^c-49d146bf56add79333f1d78edf60b3ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where an application for registration is accompanied by a declaration of intent 
 
 ## Annotations
 
-[^key-49d146bf56add79333f1d78edf60b3ff]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1993/3138/regulation/27) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-49d146bf56add79333f1d78edf60b3ff]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1993/3138/regulation/27) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98A. Transitional provision - requests received before commencement day[^M_I_21110b2f-ecf5-4912-84e2-7cfc56975ac0][^key-ae153e303a832fb7b151b497d305ddaf]
+## 98A. Transitional provision - requests received before commencement day[^M_I_21110b2f-ecf5-4912-84e2-7cfc56975ac0][^c-ae153e303a832fb7b151b497d305ddaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^M_I_21110b2f-ecf5-4912-84e2-7cfc56975ac0]: Commencement: Reg. 98A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ae153e303a832fb7b151b497d305ddaf]: Textual amendment: Reg. 98A inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/1408/regulation/23)
+[^c-ae153e303a832fb7b151b497d305ddaf]: Textual amendment: Reg. 98A inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [23](https://www.legislation.gov.uk/uksi/2020/1408/regulation/23)

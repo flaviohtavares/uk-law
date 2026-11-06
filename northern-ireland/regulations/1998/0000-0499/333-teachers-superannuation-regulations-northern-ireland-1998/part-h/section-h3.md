@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H3. Payments in respect of deceased persons[^key-cf13f7548d20481fa8b2e6c50d138780]
+## H3. Payments in respect of deceased persons[^c-cf13f7548d20481fa8b2e6c50d138780]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf13f7548d20481fa8b2e6c50d138780]: Commencement: Reg. H3 in operation at 2.11.1998, see reg. A1
+[^c-cf13f7548d20481fa8b2e6c50d138780]: Commencement: Reg. H3 in operation at 2.11.1998, see reg. A1

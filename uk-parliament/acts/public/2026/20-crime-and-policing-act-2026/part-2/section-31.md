@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Power to seize bladed articles etc: armed forces[^key-22af2625cb8e19d94420fd06edbd3f4e]
+## 31. Power to seize bladed articles etc: armed forces[^c-22af2625cb8e19d94420fd06edbd3f4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ In the Armed Forces Act 2006, after section 93 insert—
 
 ## Annotations
 
-[^key-22af2625cb8e19d94420fd06edbd3f4e]: Commencement: S. 31 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-22af2625cb8e19d94420fd06edbd3f4e]: Commencement: S. 31 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

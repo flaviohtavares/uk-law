@@ -26,7 +26,7 @@ summary: ''
 
 (3) The auction of other articles which have been attached together with an article which is to be auctioned at a place other than an auction room may, if the officer considers it appropriate (having had regard, in particular, to the expenses which are likely to be incurred in connection with the auction), also be held at that other place.
 
-(4) The officer [^key-1beb80fc96ace32b667908bb49ed9f4b]... shall give notice to the debtor and to any other person in possession of the attached articles of—
+(4) The officer [^c-1beb80fc96ace32b667908bb49ed9f4b]... shall give notice to the debtor and to any other person in possession of the attached articles of—
 
 - (a) the date on which the auction is to be held;
 - (b) the location of the auction room or, as the case may be, the other place at which the auction is to be held; and
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1beb80fc96ace32b667908bb49ed9f4b]: Textual amendment: Words in s. 27(4) repealed (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(13)](https://www.legislation.gov.uk/asp/2007/3/section/212/13), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)
+[^c-1beb80fc96ace32b667908bb49ed9f4b]: Textual amendment: Words in s. 27(4) repealed (31.3.2007) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 212(13)](https://www.legislation.gov.uk/asp/2007/3/section/212/13), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2007/82](https://www.legislation.gov.uk/ssi/2007/82), [art. 4(b)](https://www.legislation.gov.uk/ssi/2007/82/article/4/b)

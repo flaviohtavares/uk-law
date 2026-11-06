@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Forest risk commodities: review[^key-c9daa99ae6d92d59015f7f9109d2eb66][^key-bf5ecead49f82e4ed0172e1d9e60cbfa]
+## 79. Forest risk commodities: review[^c-c9daa99ae6d92d59015f7f9109d2eb66][^c-bf5ecead49f82e4ed0172e1d9e60cbfa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9daa99ae6d92d59015f7f9109d2eb66]: Commencement: S. 79 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-c9daa99ae6d92d59015f7f9109d2eb66]: Commencement: S. 79 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-bf5ecead49f82e4ed0172e1d9e60cbfa]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2023/29/section/79) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(yy)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/yy)
+[^c-bf5ecead49f82e4ed0172e1d9e60cbfa]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2023/29/section/79) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(yy)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/yy)

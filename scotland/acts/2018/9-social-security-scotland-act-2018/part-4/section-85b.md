@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85B. Appointment of person to act in other circumstances[^key-79076ca8787b0d5a04fb121ee4395b18][^key-49518356f035b1463c3619e67df97659]
+## 85B. Appointment of person to act in other circumstances[^c-79076ca8787b0d5a04fb121ee4395b18][^c-49518356f035b1463c3619e67df97659]
 
 *Extent: S*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79076ca8787b0d5a04fb121ee4395b18]: Modification: S. 85B applied (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/18)
+[^c-79076ca8787b0d5a04fb121ee4395b18]: Modification: S. 85B applied (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [sch. 2 para. 18](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/18)
 
-[^key-49518356f035b1463c3619e67df97659]: Textual amendment: [S. 85B](https://www.legislation.gov.uk/asp/2018/9/section/85B) inserted (23.12.2020 for specified purposes, 24.1.2022 for specified purposes) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(4)](https://www.legislation.gov.uk/asp/2020/18/section/2/4), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2020/422](https://www.legislation.gov.uk/ssi/2020/422), [regs. 2(b)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/b), [3](https://www.legislation.gov.uk/ssi/2020/422/regulation/3)
+[^c-49518356f035b1463c3619e67df97659]: Textual amendment: [S. 85B](https://www.legislation.gov.uk/asp/2018/9/section/85B) inserted (23.12.2020 for specified purposes, 24.1.2022 for specified purposes) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(4)](https://www.legislation.gov.uk/asp/2020/18/section/2/4), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2020/422](https://www.legislation.gov.uk/ssi/2020/422), [regs. 2(b)](https://www.legislation.gov.uk/ssi/2021/442/regulation/2/b), [3](https://www.legislation.gov.uk/ssi/2020/422/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Imposition of unexplained wealth orders on officers etc of property holder: England and Wales and Northern Ireland[^key-dda2cd4b84a23e7f0e4b116975c47ad0][^key-6e9a00e546cb91fd85d8db00c48d1ee4]
+## 45. Imposition of unexplained wealth orders on officers etc of property holder: England and Wales and Northern Ireland[^c-dda2cd4b84a23e7f0e4b116975c47ad0][^c-6e9a00e546cb91fd85d8db00c48d1ee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dda2cd4b84a23e7f0e4b116975c47ad0]: Commencement: S. 45 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-dda2cd4b84a23e7f0e4b116975c47ad0]: Commencement: S. 45 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-6e9a00e546cb91fd85d8db00c48d1ee4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/10/section/45) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-6e9a00e546cb91fd85d8db00c48d1ee4]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/10/section/45) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)

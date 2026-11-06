@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Admission to meetings of councils[^key-e0bdecd5404d0dd99da595da498c1225]
+## 42. Admission to meetings of councils[^c-e0bdecd5404d0dd99da595da498c1225]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ and where such a resolution is passed this section does not require the meeting 
 
 (6) The following provisions apply in relation to a meeting of a council—
 
-- (a) public notice of the time and place of the meeting must be given by posting it at the offices of the council or on the council’s website[^key-d43abfcf4b766844589b4a8247af61f4] five days at least before the meeting or, if the meeting is convened at shorter notice, then at the time it is convened;
+- (a) public notice of the time and place of the meeting must be given by posting it at the offices of the council or on the council’s website[^c-d43abfcf4b766844589b4a8247af61f4] five days at least before the meeting or, if the meeting is convened at shorter notice, then at the time it is convened;
 - (b) while the meeting is open to the public, the council does not have power to exclude members of the public from the meeting; and
 - (c) while the meeting is open to the public, duly accredited representatives of newspapers attending the meeting for the purpose of reporting the proceedings for those newspapers must, so far as practicable, be afforded reasonable facilities for taking their report and, unless the meeting is held in premises not belonging to the council or not on the telephone, for telephoning the report at their own expense.
 
@@ -58,6 +58,6 @@ and where such a resolution is passed this section does not require the meeting 
 
 ## Annotations
 
-[^key-e0bdecd5404d0dd99da595da498c1225]: Commencement: S. 42 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-e0bdecd5404d0dd99da595da498c1225]: Commencement: S. 42 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-d43abfcf4b766844589b4a8247af61f4]: Textual amendment: Words in s. 42(6)(a) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2020/74/regulation/7)
+[^c-d43abfcf4b766844589b4a8247af61f4]: Textual amendment: Words in s. 42(6)(a) inserted (1.5.2020) by [The Local Government (Coronavirus) (Flexibility of District Council Meetings) Regulations (Northern Ireland) 2020 (S.R. 2020/74)](https://www.legislation.gov.uk/nisr/2020/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/74/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2020/74/regulation/7)

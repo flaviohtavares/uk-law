@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 94B. Offence of contravening regulations under section 94A[^key-c916a356e18e744e3575089fe74707fe]
+## 94B. Offence of contravening regulations under section 94A[^c-c916a356e18e744e3575089fe74707fe]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c916a356e18e744e3575089fe74707fe]: Textual amendment: Ss. 94A, 94B and cross-heading inserted (2.4.2018) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 58](https://www.legislation.gov.uk/anaw/2016/2/section/58), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(f)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/f)
+[^c-c916a356e18e744e3575089fe74707fe]: Textual amendment: Ss. 94A, 94B and cross-heading inserted (2.4.2018) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [ss. 58](https://www.legislation.gov.uk/anaw/2016/2/section/58), [188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1); [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(f)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/f)

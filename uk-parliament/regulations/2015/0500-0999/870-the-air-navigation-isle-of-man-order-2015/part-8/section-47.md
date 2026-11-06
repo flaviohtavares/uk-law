@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Commander to be satisfied that flight can be safely completed[^key-eba40f198e622e30c82a3b2baffec4a2]
+## 47. Commander to be satisfied that flight can be safely completed[^c-eba40f198e622e30c82a3b2baffec4a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The commander of a flying machine must, before take-off, take all reasonable ste
 
 ## Annotations
 
-[^key-eba40f198e622e30c82a3b2baffec4a2]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2015/870/article/47) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-eba40f198e622e30c82a3b2baffec4a2]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2015/870/article/47) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

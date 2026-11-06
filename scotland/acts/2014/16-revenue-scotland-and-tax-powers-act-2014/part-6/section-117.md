@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Assessment of claimant in connection with claim[^key-d447c49241c5ac1dd21cea23eaa4afe7]
+## 117. Assessment of claimant in connection with claim[^c-d447c49241c5ac1dd21cea23eaa4afe7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d447c49241c5ac1dd21cea23eaa4afe7]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2014/16/section/117) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d447c49241c5ac1dd21cea23eaa4afe7]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2014/16/section/117) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

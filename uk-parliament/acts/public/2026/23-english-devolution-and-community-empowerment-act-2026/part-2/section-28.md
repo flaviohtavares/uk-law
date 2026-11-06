@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Restrictions on disposal of land by Transport for London[^key-9d83ec7f7ff4a19dbe481237a53cb21e][^key-f533ba729c1545c6664fefcfd0aae78a]
+## 28. Restrictions on disposal of land by Transport for London[^c-9d83ec7f7ff4a19dbe481237a53cb21e][^c-f533ba729c1545c6664fefcfd0aae78a]
 
 *Extent: E+W*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9d83ec7f7ff4a19dbe481237a53cb21e]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
+[^c-9d83ec7f7ff4a19dbe481237a53cb21e]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)
 
-[^key-f533ba729c1545c6664fefcfd0aae78a]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2026/23/section/28) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-f533ba729c1545c6664fefcfd0aae78a]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2026/23/section/28) in force at 29.6.2026 in so far as not already in force, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

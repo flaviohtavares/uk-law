@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Plan making[^key-dbe1b8eae6d6036e3fb3dbaffb592f35][^key-d5851836d1a7a73a9996b9480ebc966a][^key-d7a162c67f8d54bb96f8af119b4f3aca]
+## 97. Plan making[^c-dbe1b8eae6d6036e3fb3dbaffb592f35][^c-d5851836d1a7a73a9996b9480ebc966a][^c-d7a162c67f8d54bb96f8af119b4f3aca]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 7 contains provision for, and in connection with, joint spatial develop
 
 ## Annotations
 
-[^key-dbe1b8eae6d6036e3fb3dbaffb592f35]: Commencement: S. 97 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-dbe1b8eae6d6036e3fb3dbaffb592f35]: Commencement: S. 97 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-d5851836d1a7a73a9996b9480ebc966a]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/55/section/97) in force at 3.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2)
+[^c-d5851836d1a7a73a9996b9480ebc966a]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/55/section/97) in force at 3.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 2](https://www.legislation.gov.uk/uksi/2026/169/regulation/2)
 
-[^key-d7a162c67f8d54bb96f8af119b4f3aca]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/55/section/97) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))
+[^c-d7a162c67f8d54bb96f8af119b4f3aca]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2023/55/section/97) in force at 25.3.2026 for specified purposes by [S.I. 2026/169](https://www.legislation.gov.uk/uksi/2026/169), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/169/regulation/3/b) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1))

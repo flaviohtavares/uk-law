@@ -45,11 +45,11 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred on h
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-d5c81b41ad4b6aae89323b8a988c1e21]
+### 1. Citation and commencement[^c-d5c81b41ad4b6aae89323b8a988c1e21]
 
 These Regulations may be cited as the Paternity and Adoption Leave Regulations 2002 and shall come into force on 8th December 2002.
 
-### 2. Interpretation[^key-93dd934f4b76dbc526bb0063230e421c]
+### 2. Interpretation[^c-93dd934f4b76dbc526bb0063230e421c]
 
 (1) In these Regulations—
 
@@ -57,7 +57,7 @@ These Regulations may be cited as the Paternity and Adoption Leave Regulations 2
 - “additional adoption leave” means leave under section 75B of the 1996 Act;
 - “additional maternity leave” means leave under section 73 of the 1996 Act;
 - “adopter”, in relation to a child, means a person who has been matched with the child for adoption, or, in a case where two people have been matched jointly, whichever of them has elected to be the child’s adopter for the purposes of these Regulations;
-- “adoption agency” has the meaning given, in relation to England and Wales, by section 2(1) of the Adoption and Children Act 2002[^key-826d0958af0398f7183f3027e44a45d9] and, in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007[^key-9c5718738c0f519b2cdca74f70d40332];
+- “adoption agency” has the meaning given, in relation to England and Wales, by section 2(1) of the Adoption and Children Act 2002[^c-826d0958af0398f7183f3027e44a45d9] and, in relation to Scotland, by section 119(1) of the Adoption and Children (Scotland) Act 2007[^c-9c5718738c0f519b2cdca74f70d40332];
 - “adoption leave” means ordinary or additional adoption leave;
 - “child” means a person who is, or when placed with an adopter for adoption was, under the age of 18;
 - “contract of employment” means a contract of service or apprenticeship, whether express or implied, and (if it is express) whether oral or in writing;
@@ -68,16 +68,16 @@ These Regulations may be cited as the Paternity and Adoption Leave Regulations 2
 - “parental leave” means leave under regulation 13(1) of the Maternity and Parental Leave etc. Regulations 1999[^f00005];
 - “partner”, in relation to a child’s mother or adopter, means a person (whether of a different sex or the same sex) who lives with the mother or adopter and the child in an enduring family relationship but is not a relative of the mother or adopter of a kind specified in paragraph (2);
 - “paternity leave” means leave under regulation 4 or regulation 8 of these Regulations;
-- “placed for adoption” means—[^key-98ae225eb9980b277c915c2185e1d4b0]
+- “placed for adoption” means—[^c-98ae225eb9980b277c915c2185e1d4b0]
   - (a) placed for adoption under the Adoption and Children Act 2002 or the Adoption and Children (Scotland) Act 2007[^f00005]; or
   - (b) placed in accordance with section 22C of the Children Act 1989 with a local authority foster parent who is also a prospective adopter;
 - “prospective adopter” means a person who has been approved as suitable to adopt a child and has been notified of that decision in accordance with regulation 30B(4) of the Adoption Agencies Regulations 2005;
-- returned after being placed for adoption means—[^key-43ab86d7e7a946efde31b970b88d08d9]
+- returned after being placed for adoption means—[^c-43ab86d7e7a946efde31b970b88d08d9]
   - (a) returned under sections 31 to 35 of the Adoption and Children Act 2002;
   - (b) in Scotland, returned to the adoption agency, adoption society or nominated person in accordance with section 25(6) of the Adoption and Children (Scotland) Act 2007; or
   - (c) where the child is placed in accordance with section 22C of the Children Act 1989, returned to the adoption agency following a termination of the placement.
-- [^key-3daf21381dcbcd3a6a355665d49d35e6]...
-- “statutory adoption leave” means ordinary adoption leave and additional adoption leave;[^key-99e1139fa99fccbe3da0d34a4d12554d]
+- [^c-3daf21381dcbcd3a6a355665d49d35e6]...
+- “statutory adoption leave” means ordinary adoption leave and additional adoption leave;[^c-99e1139fa99fccbe3da0d34a4d12554d]
 - “statutory adoption leave period” means the period during which the adopter is on statutory adoption leave;
 - “statutory leave” means leave provided for in Part 8 of the 1996 Act.
 
@@ -90,7 +90,7 @@ These Regulations may be cited as the Paternity and Adoption Leave Regulations 2
 
 but do not include any other adoptive relationships.
 
-(4)[^key-865383dd7e9fadb9db7a228f24966272] For the purposes of these Regulations—
+(4)[^c-865383dd7e9fadb9db7a228f24966272] For the purposes of these Regulations—
 
 - (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child either individually or jointly with another person;
 - (b) in a case where sub-paragraph (a) applies, a person is notified of having been matched with a child on the date on which the person receives notification of the agency’s decision, under regulation 33(3)(a) of the Adoption Agencies Regulations 2005, regulation 28(3) of the Adoption Agencies (Wales) Regulations 2005, or regulation 8(5) of the Adoption Agencies (Scotland) Regulations 2009;
@@ -108,7 +108,7 @@ but do not include any other adoptive relationships.
 
 and “associated employer” shall be construed accordingly.
 
-### 3. Application[^key-3078ebd3ef02232f421e5e1d0258c979]
+### 3. Application[^c-3078ebd3ef02232f421e5e1d0258c979]
 
 (1) The provisions relating to paternity leave under regulation 4 below have effect only in relation to children—
 
@@ -136,26 +136,26 @@ and “associated employer” shall be construed accordingly.
 
 ## PART 2 — PATERNITY LEAVE
 
-### 4. Entitlement to paternity leave: birth[^key-28890d00df46ef5a7aaae98875f9ca61]
+### 4. Entitlement to paternity leave: birth[^c-28890d00df46ef5a7aaae98875f9ca61]
 
-(1) An[^key-61a4ffc4df08c5016a371a30a46f0c70] employee is entitled to be absent from work for the purpose of caring for a child or supporting the child’s mother if he—
+(1) An[^c-61a4ffc4df08c5016a371a30a46f0c70] employee is entitled to be absent from work for the purpose of caring for a child or supporting the child’s mother if he—
 
 - (a) satisfies the conditions specified in paragraph (2), and
 - (b) has complied with the notice requirements in regulation 6 and, where applicable, the evidential requirements in that regulation.
 
-(1A)[^key-f41e3a6a765875f5893a002db4a16547] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-f41e3a6a765875f5893a002db4a16547] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The conditions referred to in paragraph (1) are that the employee—
 
-- (a)[^key-819e416e7f525553245b0c47a12bd743] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-819e416e7f525553245b0c47a12bd743] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) is either—
   - (i) the father of the child or;
-  - (ii) married to , the civil partner[^key-67f8b2a0972006e3d234fc1e820a98d0] or the partner of the child’s mother, but not the child’s father;
+  - (ii) married to , the civil partner[^c-67f8b2a0972006e3d234fc1e820a98d0] or the partner of the child’s mother, but not the child’s father;
 - (c) has, or expects to have—
   - (i) if he is the child’s father, responsibility for the upbringing of the child;
-  - (ii) if he is the mother’s husband , civil partner[^key-3c41f2a569e3d3a9e8df85d2329c3576] or partner but not the child’s father, the main responsibility (apart from any responsibility of the mother) for the upbringing of the child.
+  - (ii) if he is the mother’s husband , civil partner[^c-3c41f2a569e3d3a9e8df85d2329c3576] or partner but not the child’s father, the main responsibility (apart from any responsibility of the mother) for the upbringing of the child.
 
-(3)[^key-18feebf1bdafe64f22b403da817a5f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18feebf1bdafe64f22b403da817a5f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An employee shall be treated as having satisfied the condition in paragraph (2)(b)(ii) if he would have satisfied it but for the fact that the child’s mother has died.
 
@@ -163,9 +163,9 @@ and “associated employer” shall be construed accordingly.
 
 (6) An employee’s entitlement to leave under this regulation shall not be affected by the birth, or expected birth, of more than one child as a result of the same pregnancy.
 
-### 5. Options in respect of leave under regulation 4[^key-3803dca90474f6604187ab90ba9ab376]
+### 5. Options in respect of leave under regulation 4[^c-3803dca90474f6604187ab90ba9ab376]
 
-(1)[^key-6c65863689c3f4f7a409f0b80e94c141] An employee may choose to take either—
+(1)[^c-6c65863689c3f4f7a409f0b80e94c141] An employee may choose to take either—
 
 - (a) a single period of leave of either one week or two weeks, or
 - (b) two non-consecutive periods of leave of a week each
@@ -174,7 +174,7 @@ in respect of a child under regulation 4.
 
 (2) The leave may only be taken during the period which begins with the date on which the child is born and ends—
 
-- (a) except in the case referred to in sub-paragraph (b), 52 weeks[^key-8cebd2bca7f93300ddad77734a50ca47] after that date;
+- (a) except in the case referred to in sub-paragraph (b), 52 weeks[^c-8cebd2bca7f93300ddad77734a50ca47] after that date;
 - (b) in a case where the child is born before the first day of the expected week of its birth, 52 weeks after that day.
 
 (3) Subject to paragraph (2) and, where applicable, paragraph (4), an employee may choose to begin his period of leave on—
@@ -185,7 +185,7 @@ in respect of a child under regulation 4.
 
 (4) In a case where the leave is in respect of a child whose expected week of birth begins before 6th April 2003, an employee may choose to begin a period of leave only on a predetermined date, specified in a notice under regulation 6, which is at least 28 days after the date on which that notice is given.
 
-### 6. Notice and evidential requirements for leave under regulation 4[^key-093b1fd470d2fa1b3a10d5767fc8e17f][^key-dda1369065f9f895dd654d288b017f53][^key-bac2fe9ea2b5a63d7f0be2dc721d8aa9]
+### 6. Notice and evidential requirements for leave under regulation 4[^c-093b1fd470d2fa1b3a10d5767fc8e17f][^c-dda1369065f9f895dd654d288b017f53][^c-bac2fe9ea2b5a63d7f0be2dc721d8aa9]
 
 (1) An employee must give their employer—
 
@@ -245,9 +245,9 @@ the employee must vary the choice of date by substituting a later predetermined 
 
 (11) Notice under paragraphs (1)(a), (2)(a), (5), (8) or (10) must be given in writing, if the employer so requests.
 
-### 7. Commencement of leave under regulation 4[^key-4baea82e20be5b6dbdf47f2be7ca7837]
+### 7. Commencement of leave under regulation 4[^c-4baea82e20be5b6dbdf47f2be7ca7837]
 
-(1)[^key-d68941144817084da7a11954535177f4] Except in the case referred to in paragraph (2), a period of paternity leave under regulation 4 begins and ends—
+(1)[^c-d68941144817084da7a11954535177f4] Except in the case referred to in paragraph (2), a period of paternity leave under regulation 4 begins and ends—
 
 - (a) on the days or dates specified in a notice under regulation 6(2)(a), or
 - (b) where the employee has given a notice of variation under regulation 6(5) or (8), on the days or dates specified in that notice (or the last such notice if the employee has varied the choice more than once).
@@ -259,26 +259,26 @@ the employee must vary the choice of date by substituting a later predetermined 
 
 the employee’s period of leave begins on the day after that date.
 
-### 8. Entitlement to paternity leave: adoption[^key-563ecc80fa87af70adc50da383c89b3a][^key-5737ae010a5fb3f130c6eae52cbada38]
+### 8. Entitlement to paternity leave: adoption[^c-563ecc80fa87af70adc50da383c89b3a][^c-5737ae010a5fb3f130c6eae52cbada38]
 
-(1) Subject to paragraph (1A), an[^key-9bb6e7928c005026a4e3fb8ab92414d0] employee is entitled to be absent from work for the purpose of caring for a child or supporting the child’s adopter if he—
+(1) Subject to paragraph (1A), an[^c-9bb6e7928c005026a4e3fb8ab92414d0] employee is entitled to be absent from work for the purpose of caring for a child or supporting the child’s adopter if he—
 
 - (a) satisfies the conditions specified in paragraph (2), and
 - (b) has complied with the notice requirements in regulation 10 and, where applicable, the evidential requirements in that regulation.
 
-(1A)[^key-9ecb942977bfb6b3353ed24d2e88488d] An employee is not entitled to be absent from work under paragraph (1) if the employee–
+(1A)[^c-9ecb942977bfb6b3353ed24d2e88488d] An employee is not entitled to be absent from work under paragraph (1) if the employee–
 
 - (a)[^M_F_e1199c65-b246-4306-cf5f-1b360a12f260] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) has exercised a right to take time off under section 57ZJ of the 1996 Act in respect of the child ; or[^key-0dd22d0e3b54ca575cd6d8b2e4b934d0]
+- (b) has exercised a right to take time off under section 57ZJ of the 1996 Act in respect of the child ; or[^c-0dd22d0e3b54ca575cd6d8b2e4b934d0]
 - (c) has already taken paternity leave in relation to the child as a result of the child being placed with a prospective adopter who is at the time of the placement the employee’s spouse, civil partner or partner.
 
 (2) The conditions referred to in paragraph (1) are that the employee—
 
-- (a)[^key-64839c5a06c627ef038ae64b6b1cc4db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) is either married to , the civil partner[^key-009c8580ef952b05a7caa95d1fd45853] or the partner of the child’s adopter, and
+- (a)[^c-64839c5a06c627ef038ae64b6b1cc4db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) is either married to , the civil partner[^c-009c8580ef952b05a7caa95d1fd45853] or the partner of the child’s adopter, and
 - (c) has, or expects to have, the main responsibility (apart from the responsibility of the adopter) for the upbringing of the child.
 
-(3)[^key-afad19fdb4eeafcd67523e3536409280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-afad19fdb4eeafcd67523e3536409280] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An employee shall be treated as having satisfied the condition in paragraph (2)(b) if he would have satisfied it but for the fact that the child’s adopter died during the child’s placement.
 
@@ -286,16 +286,16 @@ the employee’s period of leave begins on the day after that date.
 
 (6) An employee’s entitlement to leave under this regulation shall not be affected by the placement for adoption of more than one child as part of the same arrangement.
 
-### 9. Options in respect of leave under regulation 8[^key-eaca46ec02d2d0e928da887db48a5d36]
+### 9. Options in respect of leave under regulation 8[^c-eaca46ec02d2d0e928da887db48a5d36]
 
-(1)[^key-c688b4c059cf7e76d42fe20f77470af3] An employee may choose to take either—
+(1)[^c-c688b4c059cf7e76d42fe20f77470af3] An employee may choose to take either—
 
 - (a) a single period of leave of either one week or two weeks, or
 - (b) two non-consecutive periods of leave of a week each,
 
 in respect of a child under regulation 8.
 
-(2) The leave may only be taken during the period of 52 weeks[^key-2faff439f7bde2bf0fbd41bf338f794d] beginning with the date on which the child is placed with the adopter.
+(2) The leave may only be taken during the period of 52 weeks[^c-2faff439f7bde2bf0fbd41bf338f794d] beginning with the date on which the child is placed with the adopter.
 
 (3) Subject to paragraph (2) and, where applicable, paragraph (4), an employee may choose to begin a period of leave under regulation 8 on—
 
@@ -305,7 +305,7 @@ in respect of a child under regulation 8.
 
 (4) In a case where the adopter was notified of having been matched with the child before 6th April 2003, the employee may choose to begin a period of leave only on a predetermined date, specified in a notice under regulation 10, which is at least 28 days after the date on which that notice is given.
 
-### 10. Notice and evidential requirements for leave under regulation 8[^key-2491ca47f0ab1b87bd0db59e7202d6a1][^key-141b07a539570089a235893ca89aed01][^key-aa21e32f7182df5e8211dae77bde7d97]
+### 10. Notice and evidential requirements for leave under regulation 8[^c-2491ca47f0ab1b87bd0db59e7202d6a1][^c-141b07a539570089a235893ca89aed01][^c-aa21e32f7182df5e8211dae77bde7d97]
 
 (1) An employee must give their employer—
 
@@ -359,9 +359,9 @@ the employee must vary the choice of date by substituting a later predetermined 
 
 (10) Notice under paragraphs (1)(a), (2)(a), (4), (7) or (9) must be given in writing, if the employer so requests.
 
-### 11. Commencement of leave under regulation 8[^key-66ceaacc065807c705478100e88eb662]
+### 11. Commencement of leave under regulation 8[^c-66ceaacc065807c705478100e88eb662]
 
-(1)[^key-395d6d8b5a091a43a86c9837182b842f] Except in the case referred to in paragraph (2), a period of paternity leave under regulation 8 begins and ends—
+(1)[^c-395d6d8b5a091a43a86c9837182b842f] Except in the case referred to in paragraph (2), a period of paternity leave under regulation 8 begins and ends—
 
 - (a) on the days or dates specified in a notice given under regulation 10(2)(a), or
 - (b) where the employee has given a notice of variation under regulation 10(4) or (7), on the days or dates specified in that notice (or the last such date if the employee has varied the choice more than once).
@@ -373,7 +373,7 @@ the employee must vary the choice of date by substituting a later predetermined 
 
 the employee’s period of leave begins on the day after that date.
 
-### 11A. Change in circumstances[^key-15bdba654f3b5acd35f8880859ef1e1a]
+### 11A. Change in circumstances[^c-15bdba654f3b5acd35f8880859ef1e1a]
 
 (1) This regulation applies where an employee is otherwise entitled to paternity leave in respect of a child but a relevant event, as specified in paragraph (2), occurs.
 
@@ -401,7 +401,7 @@ the employee’s period of leave begins on the day after that date.
 - (a) “**week**” means the period of seven days beginning with Sunday;
 - (b) references to the death of a child are to be read, in relation to a child stillborn after twenty-four weeks of pregnancy, as references to the birth of the child.
 
-### 12. Application of terms and conditions during paternity leave[^key-51b76ea3865d509704797552f4bd65ba]
+### 12. Application of terms and conditions during paternity leave[^c-51b76ea3865d509704797552f4bd65ba]
 
 (1) An employee who takes paternity leave—
 
@@ -412,12 +412,12 @@ the employee’s period of leave begins on the day after that date.
 
 (3) For the purposes of section 80C of the 1996 Act, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
 
-### 13. Right to return after paternity leave[^key-020675d8c6031e621a20214fc09d58a4]
+### 13. Right to return after paternity leave[^c-020675d8c6031e621a20214fc09d58a4]
 
 (1) An employee who returns to work after a period of paternity leave which was—
 
 - (a) an isolated period of leave, or
-- (b)[^key-d5f4e30546be25cfc2c9f60405e136f5] the last of two or more consecutive periods of statutory leave which did not include any—
+- (b)[^c-d5f4e30546be25cfc2c9f60405e136f5] the last of two or more consecutive periods of statutory leave which did not include any—
   - (i) period of parental leave of more than four weeks; or
   - (ii) period of statutory leave which when added to any other periods of statutory leave (excluding parental leave) taken in relation to the same child means that the total amount of statutory leave taken in relation to that child totals more than 26 weeks,
 
@@ -430,7 +430,7 @@ is entitled to return from leave to the job in which he was employed before his 
 - (a) if his return is from an isolated period of paternity leave, immediately before that period began;
 - (b) if his return is from consecutive periods of statutory leave, immediately before the first such period.
 
-### 14. Incidents of the right to return after paternity leave[^key-879980a960bac02e32f26fad0b09bb07]
+### 14. Incidents of the right to return after paternity leave[^c-879980a960bac02e32f26fad0b09bb07]
 
 (1) An employee’s right to return under regulation 13 is a right to return—
 
@@ -439,7 +439,7 @@ is entitled to return from leave to the job in which he was employed before his 
   - (ii) in any other case, as they would have been if he had not been absent, and
 - (b) on terms and conditions not less favourable than those which would have applied if he had not been absent.
 
-(2) The provision in paragraph (1)(a)(i) concerning the treatment of periods of additional maternity leave or additional adoption leave is subject to the requirements of paragraphs 5, 5B and 6 of Schedule 5 to the Social Security Act 1989 (equal treatment under pension schemes: maternity absence, adoption leave and family leave).[^key-cedc31bef306e51348daedfe07d01dd7]
+(2) The provision in paragraph (1)(a)(i) concerning the treatment of periods of additional maternity leave or additional adoption leave is subject to the requirements of paragraphs 5, 5B and 6 of Schedule 5 to the Social Security Act 1989 (equal treatment under pension schemes: maternity absence, adoption leave and family leave).[^c-cedc31bef306e51348daedfe07d01dd7]
 
 (3) The provisions in paragraph (1)(a)(ii) and (b) for an employee to be treated as if he had not been absent refer to his absence—
 
@@ -448,26 +448,26 @@ is entitled to return from leave to the job in which he was employed before his 
 
 ## PART 3 — ADOPTION LEAVE
 
-### 15. Entitlement to ordinary adoption leave[^key-d452d5a46a199c3fd8cf490e69d1bec6]
+### 15. Entitlement to ordinary adoption leave[^c-d452d5a46a199c3fd8cf490e69d1bec6]
 
-(1) Subject to paragraph (1A), an[^key-f15f2862083c00cb853d0e9554d8a85e] employee is entitled to ordinary adoption leave in respect of a child if he—
+(1) Subject to paragraph (1A), an[^c-f15f2862083c00cb853d0e9554d8a85e] employee is entitled to ordinary adoption leave in respect of a child if he—
 
 - (a) satisfies the conditions specified in paragraph (2), and
 - (b) has complied with the notice requirements in regulation 17 and, where applicable, the evidential requirements in that regulation.
 
-(1A)[^key-ee04567498460824de1d34fe38ed7c59] An employee is not entitled to be absent from work under paragraph (1) in relation to a child if the employee has already taken ordinary adoption leave as a result of that child being placed, or expected to be placed, with the employee under section 22C of the Children Act 1989.
+(1A)[^c-ee04567498460824de1d34fe38ed7c59] An employee is not entitled to be absent from work under paragraph (1) in relation to a child if the employee has already taken ordinary adoption leave as a result of that child being placed, or expected to be placed, with the employee under section 22C of the Children Act 1989.
 
 (2) The conditions referred to in paragraph (1) are that the employee—
 
-- (a) is the child’s adopter; and[^key-bda7630fda49a93ba6405afb144d8549]
-- (b)[^key-808439cbcb7b1be9fd5404d4fb5f7aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is the child’s adopter; and[^c-bda7630fda49a93ba6405afb144d8549]
+- (b)[^c-808439cbcb7b1be9fd5404d4fb5f7aa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) has notified the agency that he agrees that the child should be placed with him and on the date of placement.
 
-(3)[^key-49824af2ab2486929945337698c40b1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-49824af2ab2486929945337698c40b1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) An employee’s entitlement to leave under this regulation shall not be affected by the placement for adoption of more than one child as part of the same arrangement.
 
-### 16. Options in respect of ordinary adoption leave[^key-793cf2ce444d4cb5dc71ffe8c1c9fd9a]
+### 16. Options in respect of ordinary adoption leave[^c-793cf2ce444d4cb5dc71ffe8c1c9fd9a]
 
 (1) Except in the case referred to in paragraph (2), an employee may choose to begin a period of ordinary adoption leave on—
 
@@ -476,7 +476,7 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (2) In a case where the employee was notified of having been matched with the child before 6th April 2003, the employee may choose to begin a period of leave only on a predetermined date, specified in a notice under regulation 17, which is after 6th April 2003 and at least 28 days after the date on which that notice is given.
 
-### 17. Notice and evidential requirements for ordinary adoption leave[^key-4239a589145d0446a64780b2e0d41779]
+### 17. Notice and evidential requirements for ordinary adoption leave[^c-4239a589145d0446a64780b2e0d41779]
 
 (1) An employee must give his employer notice of his intention to take ordinary adoption leave in respect of a child, specifying—
 
@@ -491,7 +491,7 @@ is entitled to return from leave to the job in which he was employed before his 
 (3) Where the employer requests it, an employee must also provide his employer with evidence, in the form of one or more documents issued by the adoption agency that matched the employee with the child, of—
 
 - (a) the name and address of the agency;
-- (b)[^key-1fc1c4e13fe9f85e0be79a88d417fce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1fc1c4e13fe9f85e0be79a88d417fce5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the date on which the employee was notified that he had been matched with the child, and
 - (d) the date on which the agency expects to place the child with the employee.
 
@@ -513,7 +513,7 @@ or, if it is not reasonably practicable to give the notice 28 days before whiche
 - (a) where the employer is given notice under paragraph (1), within 28 days of the date on which he received that notice;
 - (b) where the employer is given notice under paragraph (4), within 28 days of the date on which the employee’s ordinary adoption leave period began.
 
-### 18. Duration and commencement of ordinary adoption leave[^key-e6edc74138c7eb79c82723cb65c20760]
+### 18. Duration and commencement of ordinary adoption leave[^c-e6edc74138c7eb79c82723cb65c20760]
 
 (1) Subject to regulations 22 and 24, an employee’s ordinary adoption leave period is a period of 26 weeks.
 
@@ -526,18 +526,18 @@ or, if it is not reasonably practicable to give the notice 28 days before whiche
 
 the employee’s period of leave begins on the day after that date.
 
-### 19. Application of terms and conditions during ordinary adoption leave and additional adoption leave[^key-99312a4e310922d1d079765360508d5b][^key-ccb5e5243d5cfec2d763dbda5a4d316c]
+### 19. Application of terms and conditions during ordinary adoption leave and additional adoption leave[^c-99312a4e310922d1d079765360508d5b][^c-ccb5e5243d5cfec2d763dbda5a4d316c]
 
-(1) An employee who takes ordinary adoption leave or additional adoption leave[^key-858cfb9cf6c08028b6019524ad3006a9]—
+(1) An employee who takes ordinary adoption leave or additional adoption leave[^c-858cfb9cf6c08028b6019524ad3006a9]—
 
 - (a) is entitled, during the period of leave, to the benefit of all of the terms and conditions of employment which would have applied if he had not been absent, and
-- (b) is bound, during that period, by any obligations arising under those terms and conditions, subject only to the exceptions in sections 75A(3)(b) and 75B(4)(b)[^key-44f5f93d824c3e86ccae82aabec67699] of the 1996 Act[^f00010].
+- (b) is bound, during that period, by any obligations arising under those terms and conditions, subject only to the exceptions in sections 75A(3)(b) and 75B(4)(b)[^c-44f5f93d824c3e86ccae82aabec67699] of the 1996 Act[^f00010].
 
-(2) In paragraph (1)(a), “terms and conditions of employment” has the meaning given by sections 75A(4) and 75B(5)[^key-7daaf0cb1cd141b636b80f904938802a] of the 1996 Act, and accordingly does not include terms and conditions about remuneration.
+(2) In paragraph (1)(a), “terms and conditions of employment” has the meaning given by sections 75A(4) and 75B(5)[^c-7daaf0cb1cd141b636b80f904938802a] of the 1996 Act, and accordingly does not include terms and conditions about remuneration.
 
-(3) For the purposes of sections 75A and 75B[^key-f7c182c33c2aa8c346571db2f88e3701] of the 1996 Act, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
+(3) For the purposes of sections 75A and 75B[^c-f7c182c33c2aa8c346571db2f88e3701] of the 1996 Act, only sums payable to an employee by way of wages or salary are to be treated as remuneration.
 
-### 20. Additional adoption leave: entitlement, duration and commencement[^key-13b8f4537b173fed486224e707eb8c19]
+### 20. Additional adoption leave: entitlement, duration and commencement[^c-13b8f4537b173fed486224e707eb8c19]
 
 (1) An employee is entitled to additional adoption leave in respect of a child if—
 
@@ -547,11 +547,11 @@ the employee’s period of leave begins on the day after that date.
 
 (2) Subject to regulations 22 and 24, an employee’s additional adoption leave period is a period of 26 weeks beginning on the day after the last day of his ordinary adoption leave period.
 
-### 21. Application of terms and conditions during additional adoption leave[^key-14f5b2e95e12195b689d2ce2eb2c650f]
+### 21. Application of terms and conditions during additional adoption leave[^c-14f5b2e95e12195b689d2ce2eb2c650f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21A. Work during adoption leave period[^key-765832d8d7a1fbfd8214fec5153ed5d3]
+### 21A. Work during adoption leave period[^c-765832d8d7a1fbfd8214fec5153ed5d3]
 
 (1) An employee may carry out up to 10 days' work for his employer during his statutory adoption leave period without bringing his statutory adoption leave to an end.
 
@@ -565,14 +565,14 @@ the employee’s period of leave begins on the day after that date.
 
 (6) Any days' work carried out under this regulation shall not have the effect of extending the total duration of the statutory adoption leave period.
 
-### 22. Disrupted placement in the course of adoption leave[^key-9df403d1d106f0719defabe2a54161e4]
+### 22. Disrupted placement in the course of adoption leave[^c-9df403d1d106f0719defabe2a54161e4]
 
 (1) This regulation applies where—
 
 - (a) an employee has begun a period of adoption leave in respect of a child before the placement of the child with him, and the employee is subsequently notified that the placement will not be made, or
 - (b) during an employee’s period of adoption leave in respect of a child placed with him—
   - (i) the child dies, or
-  - (ii)[^key-7cbd3e7bada328f3b9bb010be698842c] the child is returned after being placed for adoption.
+  - (ii)[^c-7cbd3e7bada328f3b9bb010be698842c] the child is returned after being placed for adoption.
 
 (2) Subject to regulation 24, in a case where this regulation applies—
 
@@ -589,13 +589,13 @@ the employee’s period of leave begins on the day after that date.
 - (b) in a case falling within paragraph (1)(b)(i), the week during which the child dies;
 - (c) in a case falling within paragraph (1)(b)(ii), the week during which the child is returned.
 
-(3A)[^key-2f64fa8bb3db13ed08026c1c3eed59d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-2f64fa8bb3db13ed08026c1c3eed59d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph (3), “week” means the period of seven days beginning with Sunday.
 
-### 23. Redundancy: adoption leave[^key-e0edb98cd48ebafbcf278b5aeca88cc9][^key-f6768d1d6f991a1e7eb2d0b59a9cad62]
+### 23. Redundancy: adoption leave[^c-e0edb98cd48ebafbcf278b5aeca88cc9][^c-f6768d1d6f991a1e7eb2d0b59a9cad62]
 
-(1)[^key-483fd7353b6576c304e1c271852e50b1] This regulation applies where it is not practicable by reason of redundancy for an employer to continue to employ an employee under their existing contract of employment during—
+(1)[^c-483fd7353b6576c304e1c271852e50b1] This regulation applies where it is not practicable by reason of redundancy for an employer to continue to employ an employee under their existing contract of employment during—
 
 - (a) the statutory adoption leave period, or
 - (b) the additional protected period.
@@ -615,17 +615,17 @@ the employee’s period of leave begins on the day after that date.
 - (a) the work to be done under it is of a kind which is both suitable in relation to the employee and appropriate for him to do in the circumstances, and
 - (b) its provisions as to the capacity and place in which he is to be employed, and as to the other terms and conditions of his employment, are not substantially less favourable to him than if he had continued to be employed under the previous contract.
 
-### 24. Dismissal during adoption leave[^key-b397ca66d0ca7fabb1033587b9f76feb]
+### 24. Dismissal during adoption leave[^c-b397ca66d0ca7fabb1033587b9f76feb]
 
 Where an employee is dismissed after an ordinary or additional adoption leave period has begun but before the time when (apart from this regulation) that period would end, the period ends at the time of the dismissal.
 
-### 25. Requirement to notify intention to return during adoption leave period[^key-07bc2bbcf813a902772681bcc66b01be][^key-03a456875e40875aa2d1e3f9eee81185]
+### 25. Requirement to notify intention to return during adoption leave period[^c-07bc2bbcf813a902772681bcc66b01be][^c-03a456875e40875aa2d1e3f9eee81185]
 
-(1) An employee who intends to return to work earlier than the end of his additional adoption leave period must give his employer at least 8 weeks'[^key-e8732ef9d68f9744dd80eb243125e5ae] notice of the date on which he intends to return.
+(1) An employee who intends to return to work earlier than the end of his additional adoption leave period must give his employer at least 8 weeks'[^c-e8732ef9d68f9744dd80eb243125e5ae] notice of the date on which he intends to return.
 
-(2) If an employee attempts to return to work earlier than the end of his additional adoption leave period without complying with paragraph (1), his employer is entitled to postpone his return to a date such as will secure, subject to paragraph (3), that he has at least 8 weeks'[^key-b8d9f32438df536d1aad904d5727431c] notice of the employee’s return.
+(2) If an employee attempts to return to work earlier than the end of his additional adoption leave period without complying with paragraph (1), his employer is entitled to postpone his return to a date such as will secure, subject to paragraph (3), that he has at least 8 weeks'[^c-b8d9f32438df536d1aad904d5727431c] notice of the employee’s return.
 
-(2A)[^key-cee81d6311f3e6ee4a9ec07fa697a6f1] An employee who complies with his obligations in paragraph (1) or whose employer has postponed his return in the circumstances described in paragraph (2), and who then decides to return to work—
+(2A)[^c-cee81d6311f3e6ee4a9ec07fa697a6f1] An employee who complies with his obligations in paragraph (1) or whose employer has postponed his return in the circumstances described in paragraph (2), and who then decides to return to work—
 
 - (a) earlier than the original return date, must give his employer not less than 8 weeks' notice of the date on which he now intends to return;
 - (b) later than the original return date, must give his employer not less than 8 weeks' notice ending with the original return date.
@@ -640,12 +640,12 @@ Where an employee is dismissed after an ordinary or additional adoption leave pe
 
 (6) In a case where an employee’s adoption leave is curtailed because regulation 22 applies, the references in this regulation to the end of an employee’s additional adoption leave period are references to the date on which that period would have ended had that regulation not applied, irrespective of whether it was the employee’s ordinary adoption leave period or his additional adoption leave period that was curtailed.
 
-### 26. Right to return after adoption leave[^key-64403eb5c446d9377ba32054c6c38140]
+### 26. Right to return after adoption leave[^c-64403eb5c446d9377ba32054c6c38140]
 
 (1) An employee who returns to work after a period of ordinary adoption leave which was—
 
 - (a) an isolated period of leave, or
-- (b)[^key-334a7099969d983e59f6b797579de4b4] the last of two or more consecutive periods of statutory leave which did not include any—
+- (b)[^c-334a7099969d983e59f6b797579de4b4] the last of two or more consecutive periods of statutory leave which did not include any—
   - (i) period of parental leave of more than four weeks; or
   - (ii) period of statutory leave which when added to any other periods of statutory leave (excluding parental leave) taken in relation to the same child means that the total amount of statutory leave taken in relation to that child totals more than 26 weeks,
 
@@ -665,40 +665,40 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (4) This regulation does not apply where regulation 23 applies.
 
-### 27. Incidents of the right to return from adoption leave[^key-4f6fcd3e9dbaabaffb14f24d6b668573]
+### 27. Incidents of the right to return from adoption leave[^c-4f6fcd3e9dbaabaffb14f24d6b668573]
 
 (1) An employee’s right to return under regulation 26 is to return—
 
-- (a)[^key-7b21a051dd21a003e80230ee37fb90be] with his seniority, pension rights and similar rights as they would have been if he had not been absent, and
-- (b) on terms and conditions [^key-18ce31b9608604458efdcf88ad0b128e]... not less favourable than those which would have been applied to him if he had not been absent.
+- (a)[^c-7b21a051dd21a003e80230ee37fb90be] with his seniority, pension rights and similar rights as they would have been if he had not been absent, and
+- (b) on terms and conditions [^c-18ce31b9608604458efdcf88ad0b128e]... not less favourable than those which would have been applied to him if he had not been absent.
 
-(2)[^key-d18ebc9088fcadb4986f4791da8ded3d] In the case of accrual of rights under an employment-related benefit scheme within the meaning given by Schedule 5 to the Social Security Act 1989, nothing in paragraph (1)(a) concerning the treatment of additional adoption leave shall be taken to impose a requirement which exceeds the requirements of paragraphs 5, 5B and 6 of that Schedule .
+(2)[^c-d18ebc9088fcadb4986f4791da8ded3d] In the case of accrual of rights under an employment-related benefit scheme within the meaning given by Schedule 5 to the Social Security Act 1989, nothing in paragraph (1)(a) concerning the treatment of additional adoption leave shall be taken to impose a requirement which exceeds the requirements of paragraphs 5, 5B and 6 of that Schedule .
 
-(3) The provisions in paragraph (1)[^key-6c7e094679dd6a39273e371070c370e1] for an employee to be treated as if he had not been absent refer to his absence—
+(3) The provisions in paragraph (1)[^c-6c7e094679dd6a39273e371070c370e1] for an employee to be treated as if he had not been absent refer to his absence—
 
 - (a) if his return is from an isolated period of ordinary adoption leave, since the beginning of that period;
 - (b) if his return is from consecutive periods of statutory leave, since the beginning of the first such period.
 
 ## PART 4 — PROVISIONS APPLICABLE IN RELATION TO BOTH PATERNITY AND ADOPTION LEAVE
 
-### 28. Protection from detriment[^key-fc75612949e534284f26e14c0b612615]
+### 28. Protection from detriment[^c-fc75612949e534284f26e14c0b612615]
 
 (1) An employee is entitled under section 47C of the 1996 Act[^f00012] not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer because—
 
-- (za)[^key-f7e9f42ff400f112d9eb5a4ffa8a521c] the employee took or sought to take time off under section 57ZE of the 1996 Act;
+- (za)[^c-f7e9f42ff400f112d9eb5a4ffa8a521c] the employee took or sought to take time off under section 57ZE of the 1996 Act;
 - (zb) the employer believed that the employee was likely to take time off under section 57ZE of the 1996 Act;
-- (zc)[^key-2a59fe1ce2cdc314516c1a2976c9b322] the employee took or sought to take time off under section 57ZJ or 57ZL of the 1996 Act;
+- (zc)[^c-2a59fe1ce2cdc314516c1a2976c9b322] the employee took or sought to take time off under section 57ZJ or 57ZL of the 1996 Act;
 - (zd) the employer believed that the employee was likely to take time off under section 57ZJ or 57ZL of the 1996 Act;
 - (a) the employee took or sought to take paternity leave or ordinary or additional adoption leave;
-- (b) the employer believed that the employee was likely to take ordinary or additional adoption leave, [^key-199ddf89fda228472063a7aa61884697]...
-- (bb)[^key-7de4516c9f86f70c4f8dce374d5766ee] the employee undertook, considered undertaking or refused to undertake work in accordance with regulation 21A; or
+- (b) the employer believed that the employee was likely to take ordinary or additional adoption leave, [^c-199ddf89fda228472063a7aa61884697]...
+- (bb)[^c-7de4516c9f86f70c4f8dce374d5766ee] the employee undertook, considered undertaking or refused to undertake work in accordance with regulation 21A; or
 - (c) the employee failed to return after a period of additional adoption leave in a case where—
   - (i) the employer did not notify him, in accordance with regulation 17(7) and (8) or otherwise, of the date on which that period ended, and he reasonably believed that the period had not ended, or
   - (ii) the employer gave him less than 28 days' notice of the date on which the period would end, and it was not reasonably practicable for him to return on that date.
 
 (2) Paragraph (1) does not apply where the detriment in question amounts to dismissal within the meaning of Part 10 of the 1996 Act.
 
-### 29. Unfair dismissal[^key-b5ef3d10ae33c15208e437ba24b70add]
+### 29. Unfair dismissal[^c-b5ef3d10ae33c15208e437ba24b70add]
 
 (1) An employee who is dismissed is entitled under section 99 of the 1996 Act to be regarded for the purpose of Part 10 of that Act as unfairly dismissed if—
 
@@ -713,18 +713,18 @@ is entitled to return from leave to the job in which he was employed before his 
 
 (3) The kinds of reason referred to in paragraph (1) and (2) are reasons connected with the fact that—
 
-- (za)[^key-f1161a94c4b8dc12e130ff23ee5252be] the employee took or sought to take time off under section 57ZE of the 1996 Act;
+- (za)[^c-f1161a94c4b8dc12e130ff23ee5252be] the employee took or sought to take time off under section 57ZE of the 1996 Act;
 - (zb) the employer believed that the employee was likely to take time off under section 57ZE of the 1996 Act;
-- (zc)[^key-02d9d38b81037f965d30ee0e1356a8e8] the employee took or sought to take time off under section 57ZJ or 57ZL of the 1996 Act;
+- (zc)[^c-02d9d38b81037f965d30ee0e1356a8e8] the employee took or sought to take time off under section 57ZJ or 57ZL of the 1996 Act;
 - (zd) the employer believed that the employee was likely to take time off under section 57ZJ or 57ZL of the 1996 Act;
 - (a) the employee took, or sought to take, paternity or adoption leave;
-- (b) the employer believed that the employee was likely to take ordinary or additional adoption leave, [^key-90eb45208ff38c21db5cf01938e03f47]...
-- (bb)[^key-4e7cd2408bab49af621dbfe592a81b0f] the employee undertook, considered undertaking or refused to undertake work in accordance with regulation 21A; or
+- (b) the employer believed that the employee was likely to take ordinary or additional adoption leave, [^c-90eb45208ff38c21db5cf01938e03f47]...
+- (bb)[^c-4e7cd2408bab49af621dbfe592a81b0f] the employee undertook, considered undertaking or refused to undertake work in accordance with regulation 21A; or
 - (c) the employee failed to return after a period of additional adoption leave in a case where—
   - (i) the employer did not notify him, in accordance with regulation 17(7) and (8) or otherwise, of the date on which that period would end, and he reasonably believed that the period had not ended, or
   - (ii) the employer gave him less than 28 days' notice of the date on which the period would end, and it was not reasonably practicable for him to return on that date.
 
-(4)[^key-e58aee5ed9ccbb079844bc27fe23ba4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e58aee5ed9ccbb079844bc27fe23ba4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Paragraph (1) does not apply in relation to an employee if—
 
@@ -732,9 +732,9 @@ is entitled to return from leave to the job in which he was employed before his 
 - (b) an associated employer offers the employee a job of that kind, and
 - (c) the employee accepts or unreasonably refuses that offer.
 
-(6) Where, on a complaint of unfair dismissal, any question arises as to whether the operation of paragraph (1) is excluded by the provisions of paragraph [^key-c48799ce517e77cf93a3b1b1dc26a8ea]... (5), it is for the employer to show that the provisions in question were satisfied in relation to the complainant.
+(6) Where, on a complaint of unfair dismissal, any question arises as to whether the operation of paragraph (1) is excluded by the provisions of paragraph [^c-c48799ce517e77cf93a3b1b1dc26a8ea]... (5), it is for the employer to show that the provisions in question were satisfied in relation to the complainant.
 
-### 30. Contractual rights to paternity or adoption leave[^key-d9b1d03efe2696e8c929815edb3af103]
+### 30. Contractual rights to paternity or adoption leave[^c-d9b1d03efe2696e8c929815edb3af103]
 
 (1) This regulation applies where an employee is entitled to—
 
@@ -749,7 +749,7 @@ is entitled to return from leave to the job in which he was employed before his 
 - (a) the employee may not exercise the statutory right and the corresponding right separately but may, in taking the leave for which the two rights provide, take advantage of whichever right is, in any particular respect, the more favourable, and
 - (b) the provisions of the 1996 Act and of these Regulations relating to the statutory right apply, subject to any modifications necessary to give effect to any more favourable contractual terms, to the exercise of the composite right described in sub-paragraph (a) as they apply to the exercise of the statutory right.
 
-### 31. Calculation of a week’s pay[^key-9d35e511c5f0049e030da32f9cfbd19d]
+### 31. Calculation of a week’s pay[^c-9d35e511c5f0049e030da32f9cfbd19d]
 
 Where—
 
@@ -799,210 +799,210 @@ A Regulatory Impact Assessment of the costs and benefits of these regulations to
 
 [^f00002]: Footnote: Section 47C of the Employment Rights Act 1996 was inserted by paragraph 8 of Part 3 of Schedule 4 to the Employment Relations Act 1999 and amended by paragraph 26 of Schedule 7 to the Employment Act 2002; sections 75A to 75D were inserted by section 3 of the Employment Act 2002, and sections 80A to 80E by section 1 of that Act; section 99 was substituted by paragraph 16 of Part 3 of Schedule 4 to the 1999 Act and amended by paragraph 33 of Schedule 7 to the Employment Act 2002. The word “prescribed” in section 47C of the 1996 Act is defined in subsection (2) of that section; the same word in sections 75A and 75B of the 1996 Act is defined in section 75D(2), inserted by section 3 of the 2002 Act; in section 99 of the 1996 Act it is defined in subsection (2) of that section.
 
-[^key-d5c81b41ad4b6aae89323b8a988c1e21]: Commencement: Reg. 1 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-d5c81b41ad4b6aae89323b8a988c1e21]: Commencement: Reg. 1 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-93dd934f4b76dbc526bb0063230e421c]: Commencement: Reg. 2 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-93dd934f4b76dbc526bb0063230e421c]: Commencement: Reg. 2 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-826d0958af0398f7183f3027e44a45d9]: Textual amendment: Words in reg. 2(1) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [3(a)(i)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/3/a/i)
+[^c-826d0958af0398f7183f3027e44a45d9]: Textual amendment: Words in reg. 2(1) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [3(a)(i)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/3/a/i)
 
-[^key-9c5718738c0f519b2cdca74f70d40332]: Textual amendment: Words in reg. 2(1) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/30/2/a)
+[^c-9c5718738c0f519b2cdca74f70d40332]: Textual amendment: Words in reg. 2(1) substituted (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 1 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2011/1740/schedule/1/paragraph/30/2/a)
 
 [^f00005]: Footnote: [SI 1999/3312](https://www.legislation.gov.uk/uksi/1999/3312), to which there are amendments not relevant to these Regulations.
 
-[^key-98ae225eb9980b277c915c2185e1d4b0]: Textual amendment: Words in reg. 2(1) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/4/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
+[^c-98ae225eb9980b277c915c2185e1d4b0]: Textual amendment: Words in reg. 2(1) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/4/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
 
-[^key-43ab86d7e7a946efde31b970b88d08d9]: Textual amendment: Words in reg. 2(1) inserted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [8](https://www.legislation.gov.uk/uksi/2024/329/regulation/8) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-43ab86d7e7a946efde31b970b88d08d9]: Textual amendment: Words in reg. 2(1) inserted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [8](https://www.legislation.gov.uk/uksi/2024/329/regulation/8) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-3daf21381dcbcd3a6a355665d49d35e6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/2/1) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/2)
+[^c-3daf21381dcbcd3a6a355665d49d35e6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/2/1) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [10(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/2)
 
-[^key-99e1139fa99fccbe3da0d34a4d12554d]: Textual amendment: Words in reg. 2(1) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [13](https://www.legislation.gov.uk/uksi/2006/2014/regulation/13)
+[^c-99e1139fa99fccbe3da0d34a4d12554d]: Textual amendment: Words in reg. 2(1) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [13](https://www.legislation.gov.uk/uksi/2006/2014/regulation/13)
 
-[^key-865383dd7e9fadb9db7a228f24966272]: Textual amendment: Reg. 2(4)(4A) substituted for [reg. 2(4)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/2/4) (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/4/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
+[^c-865383dd7e9fadb9db7a228f24966272]: Textual amendment: Reg. 2(4)(4A) substituted for [reg. 2(4)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/2/4) (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/4/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
 
-[^key-3078ebd3ef02232f421e5e1d0258c979]: Commencement: Reg. 3 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-3078ebd3ef02232f421e5e1d0258c979]: Commencement: Reg. 3 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-28890d00df46ef5a7aaae98875f9ca61]: Commencement: Reg. 4 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-28890d00df46ef5a7aaae98875f9ca61]: Commencement: Reg. 4 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-61a4ffc4df08c5016a371a30a46f0c70]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/1) substituted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-61a4ffc4df08c5016a371a30a46f0c70]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/1) substituted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [10(3)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-f41e3a6a765875f5893a002db4a16547]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/1A) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-f41e3a6a765875f5893a002db4a16547]: Textual amendment: [Reg. 4(1A)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/1A) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [10(3)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-819e416e7f525553245b0c47a12bd743]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/2/a) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-819e416e7f525553245b0c47a12bd743]: Textual amendment: [Reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/2/a) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(2)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-67f8b2a0972006e3d234fc1e820a98d0]: Textual amendment: Words in reg. 4(2)(b)(ii) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/1/2/a)
+[^c-67f8b2a0972006e3d234fc1e820a98d0]: Textual amendment: Words in reg. 4(2)(b)(ii) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/1/2/a)
 
-[^key-3c41f2a569e3d3a9e8df85d2329c3576]: Textual amendment: Words in reg. 4(2)(c)(ii) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/1/2/b)
+[^c-3c41f2a569e3d3a9e8df85d2329c3576]: Textual amendment: Words in reg. 4(2)(c)(ii) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/1/2/b)
 
-[^key-18feebf1bdafe64f22b403da817a5f25]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/3) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-18feebf1bdafe64f22b403da817a5f25]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/4/3) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(2)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-3803dca90474f6604187ab90ba9ab376]: Commencement: Reg. 5 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-3803dca90474f6604187ab90ba9ab376]: Commencement: Reg. 5 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-6c65863689c3f4f7a409f0b80e94c141]: Textual amendment: Reg. 5(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/329/regulation/9/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-6c65863689c3f4f7a409f0b80e94c141]: Textual amendment: Reg. 5(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [9(a)](https://www.legislation.gov.uk/uksi/2024/329/regulation/9/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-8cebd2bca7f93300ddad77734a50ca47]: Textual amendment: Words in reg. 5(2) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/329/regulation/9/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-8cebd2bca7f93300ddad77734a50ca47]: Textual amendment: Words in reg. 5(2) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [9(b)](https://www.legislation.gov.uk/uksi/2024/329/regulation/9/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-093b1fd470d2fa1b3a10d5767fc8e17f]: Commencement: Reg. 6 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-093b1fd470d2fa1b3a10d5767fc8e17f]: Commencement: Reg. 6 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-dda1369065f9f895dd654d288b017f53]: Modification: Reg. 6 modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/2)
+[^c-dda1369065f9f895dd654d288b017f53]: Modification: Reg. 6 modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/2)
 
-[^key-bac2fe9ea2b5a63d7f0be2dc721d8aa9]: Textual amendment: Reg. 6 substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [10](https://www.legislation.gov.uk/uksi/2024/329/regulation/10) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-bac2fe9ea2b5a63d7f0be2dc721d8aa9]: Textual amendment: Reg. 6 substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [10](https://www.legislation.gov.uk/uksi/2024/329/regulation/10) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-4baea82e20be5b6dbdf47f2be7ca7837]: Commencement: Reg. 7 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-4baea82e20be5b6dbdf47f2be7ca7837]: Commencement: Reg. 7 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-d68941144817084da7a11954535177f4]: Textual amendment: Reg. 7(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [11](https://www.legislation.gov.uk/uksi/2024/329/regulation/11) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-d68941144817084da7a11954535177f4]: Textual amendment: Reg. 7(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [11](https://www.legislation.gov.uk/uksi/2024/329/regulation/11) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-563ecc80fa87af70adc50da383c89b3a]: Commencement: Reg. 8 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-563ecc80fa87af70adc50da383c89b3a]: Commencement: Reg. 8 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-5737ae010a5fb3f130c6eae52cbada38]: Modification: Reg. 8 applied (with modifications) (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
+[^c-5737ae010a5fb3f130c6eae52cbada38]: Modification: Reg. 8 applied (with modifications) (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
 
-[^key-9bb6e7928c005026a4e3fb8ab92414d0]: Textual amendment: Words in reg. 8(1) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/5/a)
+[^c-9bb6e7928c005026a4e3fb8ab92414d0]: Textual amendment: Words in reg. 8(1) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [5(a)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/5/a)
 
-[^key-9ecb942977bfb6b3353ed24d2e88488d]: Textual amendment: Reg. 8(1A) inserted (1.12.2014 for specified purposes, 5.4.2015 in so far as not already in force) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [5(b)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/5/b)
+[^c-9ecb942977bfb6b3353ed24d2e88488d]: Textual amendment: Reg. 8(1A) inserted (1.12.2014 for specified purposes, 5.4.2015 in so far as not already in force) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [5(b)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/5/b)
 
 [^M_F_e1199c65-b246-4306-cf5f-1b360a12f260]: Textual amendment: Reg. 8(1A)(a) omitted (18.2.2026 for specified purposes, 6.4.2026 in so far as not already in force) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/3), [10(4)](https://www.legislation.gov.uk/uksi/2026/15/regulation/10/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-0dd22d0e3b54ca575cd6d8b2e4b934d0]: Textual amendment: Reg. 8(1A)(c) and preceding word inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/5/2/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
+[^c-0dd22d0e3b54ca575cd6d8b2e4b934d0]: Textual amendment: Reg. 8(1A)(c) and preceding word inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/5/2/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
 
-[^key-64839c5a06c627ef038ae64b6b1cc4db]: Textual amendment: Reg. 8(2)(a) omitted (18.2.2026 for specified purposes) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-64839c5a06c627ef038ae64b6b1cc4db]: Textual amendment: Reg. 8(2)(a) omitted (18.2.2026 for specified purposes) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(3)(a)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-009c8580ef952b05a7caa95d1fd45853]: Textual amendment: Words in reg. 8(2)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 1(3)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/1/3)
+[^c-009c8580ef952b05a7caa95d1fd45853]: Textual amendment: Words in reg. 8(2)(b) inserted (5.12.2005) by [The Civil Partnership Act 2004 (Amendments to Subordinate Legislation) Order 2005 (S.I. 2005/2114)](https://www.legislation.gov.uk/uksi/2005/2114), [art. 2(17)](https://www.legislation.gov.uk/uksi/2005/2114/article/2/17), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2114/regulation/1), [Sch. 17 para. 1(3)](https://www.legislation.gov.uk/uksi/2005/2114/schedule/17/paragraph/1/3)
 
-[^key-afad19fdb4eeafcd67523e3536409280]: Textual amendment: Reg. 8(3) omitted (18.2.2026 for specified purposes) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
+[^c-afad19fdb4eeafcd67523e3536409280]: Textual amendment: Reg. 8(3) omitted (18.2.2026 for specified purposes) by virtue of [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/3), [6(3)(b)](https://www.legislation.gov.uk/uksi/2026/15/regulation/6/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/15/regulation/3))
 
-[^key-eaca46ec02d2d0e928da887db48a5d36]: Commencement: Reg. 9 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-eaca46ec02d2d0e928da887db48a5d36]: Commencement: Reg. 9 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-c688b4c059cf7e76d42fe20f77470af3]: Textual amendment: Reg. 9(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/329/regulation/12/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-c688b4c059cf7e76d42fe20f77470af3]: Textual amendment: Reg. 9(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [12(a)](https://www.legislation.gov.uk/uksi/2024/329/regulation/12/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-2faff439f7bde2bf0fbd41bf338f794d]: Textual amendment: Words in reg. 9(2) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/329/regulation/12/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-2faff439f7bde2bf0fbd41bf338f794d]: Textual amendment: Words in reg. 9(2) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [12(b)](https://www.legislation.gov.uk/uksi/2024/329/regulation/12/b) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-2491ca47f0ab1b87bd0db59e7202d6a1]: Commencement: Reg. 10 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-2491ca47f0ab1b87bd0db59e7202d6a1]: Commencement: Reg. 10 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-141b07a539570089a235893ca89aed01]: Modification: Reg. 10 modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
+[^c-141b07a539570089a235893ca89aed01]: Modification: Reg. 10 modified (18.2.2026) by [The Employment Rights Act 2025 (Parental and Paternity Leave) (Removal of Qualifying Periods etc.) (Consequential Amendments) Regulations 2026 (S.I. 2026/15)](https://www.legislation.gov.uk/uksi/2026/15), [regs. 1(2)(e)](https://www.legislation.gov.uk/uksi/2026/15/regulation/1/2/e), [9(1)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2026/15/regulation/9/3)
 
-[^key-aa21e32f7182df5e8211dae77bde7d97]: Textual amendment: Reg. 10 substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [13](https://www.legislation.gov.uk/uksi/2024/329/regulation/13) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-aa21e32f7182df5e8211dae77bde7d97]: Textual amendment: Reg. 10 substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [13](https://www.legislation.gov.uk/uksi/2024/329/regulation/13) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-66ceaacc065807c705478100e88eb662]: Commencement: Reg. 11 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-66ceaacc065807c705478100e88eb662]: Commencement: Reg. 11 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-395d6d8b5a091a43a86c9837182b842f]: Textual amendment: Reg. 11(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [14](https://www.legislation.gov.uk/uksi/2024/329/regulation/14) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-395d6d8b5a091a43a86c9837182b842f]: Textual amendment: Reg. 11(1) substituted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [14](https://www.legislation.gov.uk/uksi/2024/329/regulation/14) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-15bdba654f3b5acd35f8880859ef1e1a]: Textual amendment: Reg. 11A inserted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [15](https://www.legislation.gov.uk/uksi/2024/329/regulation/15) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-15bdba654f3b5acd35f8880859ef1e1a]: Textual amendment: Reg. 11A inserted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [15](https://www.legislation.gov.uk/uksi/2024/329/regulation/15) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-51b76ea3865d509704797552f4bd65ba]: Commencement: Reg. 12 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-51b76ea3865d509704797552f4bd65ba]: Commencement: Reg. 12 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
 [^f00008]: Footnote: Section 80C was inserted by section 1 of the Employment Act 2002.
 
-[^key-020675d8c6031e621a20214fc09d58a4]: Commencement: Reg. 13 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-020675d8c6031e621a20214fc09d58a4]: Commencement: Reg. 13 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-d5f4e30546be25cfc2c9f60405e136f5]: Textual amendment: [Reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/13/1/b) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2014/2112/regulation/6)
+[^c-d5f4e30546be25cfc2c9f60405e136f5]: Textual amendment: [Reg. 13(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/13/1/b) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2014/2112/regulation/6)
 
-[^key-879980a960bac02e32f26fad0b09bb07]: Commencement: Reg. 14 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-879980a960bac02e32f26fad0b09bb07]: Commencement: Reg. 14 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-cedc31bef306e51348daedfe07d01dd7]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/14/2) substituted (9.2.2005) by [The Pensions Act 2004 (Commencement No. 2, Transitional Provisions and Consequential Amendments) Order 2005 (S.I. 2005/275)](https://www.legislation.gov.uk/uksi/2005/275), [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/275/article/5/2)
+[^c-cedc31bef306e51348daedfe07d01dd7]: Textual amendment: Words in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/14/2) substituted (9.2.2005) by [The Pensions Act 2004 (Commencement No. 2, Transitional Provisions and Consequential Amendments) Order 2005 (S.I. 2005/275)](https://www.legislation.gov.uk/uksi/2005/275), [art. 5(2)](https://www.legislation.gov.uk/uksi/2005/275/article/5/2)
 
-[^key-d452d5a46a199c3fd8cf490e69d1bec6]: Commencement: Reg. 15 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-d452d5a46a199c3fd8cf490e69d1bec6]: Commencement: Reg. 15 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-f15f2862083c00cb853d0e9554d8a85e]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/1) substituted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/6/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
+[^c-f15f2862083c00cb853d0e9554d8a85e]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/1) substituted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/6/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
 
-[^key-ee04567498460824de1d34fe38ed7c59]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/1A) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/6/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
+[^c-ee04567498460824de1d34fe38ed7c59]: Textual amendment: [Reg. 15(1A)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/1A) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/6/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
 
-[^key-bda7630fda49a93ba6405afb144d8549]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/2/a) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [7(a)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/7/a)
+[^c-bda7630fda49a93ba6405afb144d8549]: Textual amendment: Word in [reg. 15(2)(a)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/2/a) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [7(a)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/7/a)
 
-[^key-808439cbcb7b1be9fd5404d4fb5f7aa9]: Textual amendment: [Reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/2/b) omitted (5.4.2015) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/7/b)
+[^c-808439cbcb7b1be9fd5404d4fb5f7aa9]: Textual amendment: [Reg. 15(2)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/2/b) omitted (5.4.2015) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [7(b)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/7/b)
 
-[^key-49824af2ab2486929945337698c40b1f]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/3) omitted (5.4.2015) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [7(c)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/7/c)
+[^c-49824af2ab2486929945337698c40b1f]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/15/3) omitted (5.4.2015) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [7(c)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/7/c)
 
-[^key-793cf2ce444d4cb5dc71ffe8c1c9fd9a]: Commencement: Reg. 16 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-793cf2ce444d4cb5dc71ffe8c1c9fd9a]: Commencement: Reg. 16 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-4239a589145d0446a64780b2e0d41779]: Commencement: Reg. 17 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-4239a589145d0446a64780b2e0d41779]: Commencement: Reg. 17 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-1fc1c4e13fe9f85e0be79a88d417fce5]: Textual amendment: [Reg. 17(3)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/17/3/b) omitted (6.4.2004) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2004 (S.I. 2004/923)](https://www.legislation.gov.uk/uksi/2004/923), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/923/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/923/regulation/3)
+[^c-1fc1c4e13fe9f85e0be79a88d417fce5]: Textual amendment: [Reg. 17(3)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/17/3/b) omitted (6.4.2004) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2004 (S.I. 2004/923)](https://www.legislation.gov.uk/uksi/2004/923), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/923/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2004/923/regulation/3)
 
-[^key-e6edc74138c7eb79c82723cb65c20760]: Commencement: Reg. 18 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-e6edc74138c7eb79c82723cb65c20760]: Commencement: Reg. 18 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-99312a4e310922d1d079765360508d5b]: Commencement: Reg. 19 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-99312a4e310922d1d079765360508d5b]: Commencement: Reg. 19 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-ccb5e5243d5cfec2d763dbda5a4d316c]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19) heading inserted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/a)
+[^c-ccb5e5243d5cfec2d763dbda5a4d316c]: Textual amendment: Words in [reg. 19](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19) heading inserted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/a)
 
-[^key-858cfb9cf6c08028b6019524ad3006a9]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/1) inserted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/b)
+[^c-858cfb9cf6c08028b6019524ad3006a9]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/1) inserted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(b)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/b)
 
-[^key-44f5f93d824c3e86ccae82aabec67699]: Textual amendment: Words in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/1/b) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(c)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/c)
+[^c-44f5f93d824c3e86ccae82aabec67699]: Textual amendment: Words in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/1/b) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(c)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/c)
 
 [^f00010]: Footnote: Section 75A was inserted by section 3 of the Employment Act 2002.
 
-[^key-7daaf0cb1cd141b636b80f904938802a]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/2) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(d)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/d)
+[^c-7daaf0cb1cd141b636b80f904938802a]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/2) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(d)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/d)
 
-[^key-f7c182c33c2aa8c346571db2f88e3701]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/3) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(e)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/e)
+[^c-f7c182c33c2aa8c346571db2f88e3701]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/19/3) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(1)(e)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/1/e)
 
-[^key-13b8f4537b173fed486224e707eb8c19]: Commencement: Reg. 20 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-13b8f4537b173fed486224e707eb8c19]: Commencement: Reg. 20 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-14f5b2e95e12195b689d2ce2eb2c650f]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2002/2788/regulation/21) revoked (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/2)
+[^c-14f5b2e95e12195b689d2ce2eb2c650f]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2002/2788/regulation/21) revoked (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/9/2)
 
-[^key-765832d8d7a1fbfd8214fec5153ed5d3]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2002/2788/regulation/21A) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [14](https://www.legislation.gov.uk/uksi/2006/2014/regulation/14)
+[^c-765832d8d7a1fbfd8214fec5153ed5d3]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/uksi/2002/2788/regulation/21A) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [14](https://www.legislation.gov.uk/uksi/2006/2014/regulation/14)
 
-[^key-9df403d1d106f0719defabe2a54161e4]: Commencement: Reg. 22 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-9df403d1d106f0719defabe2a54161e4]: Commencement: Reg. 22 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-7cbd3e7bada328f3b9bb010be698842c]: Textual amendment: [Reg. 22(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/22/1/b/ii) substituted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
+[^c-7cbd3e7bada328f3b9bb010be698842c]: Textual amendment: [Reg. 22(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/22/1/b/ii) substituted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) (No. 2) Regulations 2014 (S.I. 2014/3206)](https://www.legislation.gov.uk/uksi/2014/3206), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3206/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2014/3206/regulation/7/2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2014/3206/regulation/2))
 
-[^key-2f64fa8bb3db13ed08026c1c3eed59d1]: Textual amendment: Reg. 22(3A) omitted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by virtue of [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [16](https://www.legislation.gov.uk/uksi/2024/329/regulation/16) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
+[^c-2f64fa8bb3db13ed08026c1c3eed59d1]: Textual amendment: Reg. 22(3A) omitted (8.3.2024 with effect from 6.4.2024 in accordance with reg. 5 of the amending S.I.) by virtue of [The Paternity Leave (Amendment) Regulations 2024 (S.I. 2024/329)](https://www.legislation.gov.uk/uksi/2024/329), [regs. 2](https://www.legislation.gov.uk/uksi/2024/329/regulation/2), [16](https://www.legislation.gov.uk/uksi/2024/329/regulation/16) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/329/regulation/6))
 
-[^key-e0edb98cd48ebafbcf278b5aeca88cc9]: Commencement: Reg. 23 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-e0edb98cd48ebafbcf278b5aeca88cc9]: Commencement: Reg. 23 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-f6768d1d6f991a1e7eb2d0b59a9cad62]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2002/2788/regulation/23) heading substituted (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2024/264/regulation/5/a) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/3))
+[^c-f6768d1d6f991a1e7eb2d0b59a9cad62]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2002/2788/regulation/23) heading substituted (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2024/264/regulation/5/a) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/3))
 
-[^key-483fd7353b6576c304e1c271852e50b1]: Textual amendment: [Reg. 23(1)-(1B)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/23/1) substituted for [reg. 23(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/23/1) (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2024/264/regulation/5/b) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/3))
+[^c-483fd7353b6576c304e1c271852e50b1]: Textual amendment: [Reg. 23(1)-(1B)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/23/1) substituted for [reg. 23(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/23/1) (6.4.2024) by [The Maternity Leave, Adoption Leave and Shared Parental Leave (Amendment) Regulations 2024 (S.I. 2024/264)](https://www.legislation.gov.uk/uksi/2024/264), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/264/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2024/264/regulation/5/b) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2024/264/regulation/3/3))
 
-[^key-b397ca66d0ca7fabb1033587b9f76feb]: Commencement: Reg. 24 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-b397ca66d0ca7fabb1033587b9f76feb]: Commencement: Reg. 24 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-07bc2bbcf813a902772681bcc66b01be]: Commencement: Reg. 25 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-07bc2bbcf813a902772681bcc66b01be]: Commencement: Reg. 25 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-03a456875e40875aa2d1e3f9eee81185]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25) modified (1.9.2013) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 205A(3)(b)](https://www.legislation.gov.uk/ukpga/1996/18/section/205A/3/b) (as inserted by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2))
+[^c-03a456875e40875aa2d1e3f9eee81185]: Modification: [Reg. 25](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25) modified (1.9.2013) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 205A(3)(b)](https://www.legislation.gov.uk/ukpga/1996/18/section/205A/3/b) (as inserted by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/31/1), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1766](https://www.legislation.gov.uk/uksi/2013/1766), [art. 2](https://www.legislation.gov.uk/uksi/2013/1766/article/2))
 
-[^key-e8732ef9d68f9744dd80eb243125e5ae]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/1) substituted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/15/a)
+[^c-e8732ef9d68f9744dd80eb243125e5ae]: Textual amendment: Words in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/1) substituted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/15/a)
 
-[^key-b8d9f32438df536d1aad904d5727431c]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/2) substituted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/15/b)
+[^c-b8d9f32438df536d1aad904d5727431c]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/2) substituted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/15/b)
 
-[^key-cee81d6311f3e6ee4a9ec07fa697a6f1]: Textual amendment: [Reg. 25(2A)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/2A)[(2B)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/2B) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/15/c)
+[^c-cee81d6311f3e6ee4a9ec07fa697a6f1]: Textual amendment: [Reg. 25(2A)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/2A)[(2B)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/25/2B) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/15/c)
 
-[^key-64403eb5c446d9377ba32054c6c38140]: Commencement: Reg. 26 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-64403eb5c446d9377ba32054c6c38140]: Commencement: Reg. 26 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-334a7099969d983e59f6b797579de4b4]: Textual amendment: [Reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/26/1/b) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2014/2112/regulation/9)
+[^c-334a7099969d983e59f6b797579de4b4]: Textual amendment: [Reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/26/1/b) substituted (1.12.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2014/2112/regulation/9)
 
-[^key-4f6fcd3e9dbaabaffb14f24d6b668573]: Commencement: Reg. 27 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-4f6fcd3e9dbaabaffb14f24d6b668573]: Commencement: Reg. 27 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-7b21a051dd21a003e80230ee37fb90be]: Textual amendment: [Reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/1/a) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/10/a)
+[^c-7b21a051dd21a003e80230ee37fb90be]: Textual amendment: [Reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/1/a) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/10/a)
 
-[^key-18ce31b9608604458efdcf88ad0b128e]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/1/b) omitted (6.4.2004) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2004 (S.I. 2004/923)](https://www.legislation.gov.uk/uksi/2004/923), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/923/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/923/regulation/4)
+[^c-18ce31b9608604458efdcf88ad0b128e]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/1/b) omitted (6.4.2004) by virtue of [The Paternity and Adoption Leave (Amendment) Regulations 2004 (S.I. 2004/923)](https://www.legislation.gov.uk/uksi/2004/923), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/923/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2004/923/regulation/4)
 
-[^key-d18ebc9088fcadb4986f4791da8ded3d]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/2) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/10/b)
+[^c-d18ebc9088fcadb4986f4791da8ded3d]: Textual amendment: [Reg. 27(2)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/2) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/10/b)
 
-[^key-6c7e094679dd6a39273e371070c370e1]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/3) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/10/c)
+[^c-6c7e094679dd6a39273e371070c370e1]: Textual amendment: Words in [reg. 27(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/27/3) substituted (23.7.2008 with effect from 5.10.2008 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2008 (S.I. 2008/1966)](https://www.legislation.gov.uk/uksi/2008/1966), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1966/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2008/1966/regulation/10/c)
 
-[^key-fc75612949e534284f26e14c0b612615]: Commencement: Reg. 28 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-fc75612949e534284f26e14c0b612615]: Commencement: Reg. 28 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
 [^f00012]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18); section 47C was inserted by paragraph 8 of Part 3 of Schedule 4 to the Employment Relations Act 1999 and amended by paragraph 26 of Schedule 7 to the Employment Act 2002.
 
-[^key-f7e9f42ff400f112d9eb5a4ffa8a521c]: Textual amendment: [Reg. 28(1)(za)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/za)[(zb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/zb) inserted (1.10.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2014/2112/regulation/10) (with [reg. 14(1)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/1))
+[^c-f7e9f42ff400f112d9eb5a4ffa8a521c]: Textual amendment: [Reg. 28(1)(za)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/za)[(zb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/zb) inserted (1.10.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2014/2112/regulation/10) (with [reg. 14(1)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/1))
 
-[^key-2a59fe1ce2cdc314516c1a2976c9b322]: Textual amendment: [Reg. 28(1)(zc)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/zc)[(zd)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/zd) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2014/2112/regulation/11) (with [reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/2))
+[^c-2a59fe1ce2cdc314516c1a2976c9b322]: Textual amendment: [Reg. 28(1)(zc)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/zc)[(zd)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/zd) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2014/2112/regulation/11) (with [reg. 14(2)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/2))
 
-[^key-199ddf89fda228472063a7aa61884697]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/2014/regulation/16)
+[^c-199ddf89fda228472063a7aa61884697]: Textual amendment: Word in [reg. 28](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/2014/regulation/16)
 
-[^key-7de4516c9f86f70c4f8dce374d5766ee]: Textual amendment: [Reg. 28(1)(bb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/bb) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/2014/regulation/16)
+[^c-7de4516c9f86f70c4f8dce374d5766ee]: Textual amendment: [Reg. 28(1)(bb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/28/1/bb) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [16](https://www.legislation.gov.uk/uksi/2006/2014/regulation/16)
 
-[^key-b5ef3d10ae33c15208e437ba24b70add]: Commencement: Reg. 29 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-b5ef3d10ae33c15208e437ba24b70add]: Commencement: Reg. 29 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-f1161a94c4b8dc12e130ff23ee5252be]: Textual amendment: [Reg. 29(3)(za)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/za)[(zb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/zb) inserted (1.10.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2014/2112/regulation/12) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/3))
+[^c-f1161a94c4b8dc12e130ff23ee5252be]: Textual amendment: [Reg. 29(3)(za)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/za)[(zb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/zb) inserted (1.10.2014) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2014/2112/regulation/12) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/3))
 
-[^key-02d9d38b81037f965d30ee0e1356a8e8]: Textual amendment: [Reg. 29(3)(zc)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/zc)[(zd)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/zd) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2014/2112/regulation/13) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/4))
+[^c-02d9d38b81037f965d30ee0e1356a8e8]: Textual amendment: [Reg. 29(3)(zc)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/zc)[(zd)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/zd) inserted (5.4.2015) by [The Paternity and Adoption Leave (Amendment) Regulations 2014 (S.I. 2014/2112)](https://www.legislation.gov.uk/uksi/2014/2112), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/1/4), [13](https://www.legislation.gov.uk/uksi/2014/2112/regulation/13) (with [reg. 14(4)](https://www.legislation.gov.uk/uksi/2014/2112/regulation/14/4))
 
-[^key-90eb45208ff38c21db5cf01938e03f47]: Textual amendment: Word in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/a)
+[^c-90eb45208ff38c21db5cf01938e03f47]: Textual amendment: Word in [reg. 29(3)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/a)
 
-[^key-4e7cd2408bab49af621dbfe592a81b0f]: Textual amendment: [Reg. 29(3)(bb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/bb) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/a)
+[^c-4e7cd2408bab49af621dbfe592a81b0f]: Textual amendment: [Reg. 29(3)(bb)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/3/bb) inserted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(a)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/a)
 
-[^key-e58aee5ed9ccbb079844bc27fe23ba4a]: Textual amendment: [Reg. 29(4)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/4) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/b)
+[^c-e58aee5ed9ccbb079844bc27fe23ba4a]: Textual amendment: [Reg. 29(4)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/4) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/b)
 
-[^key-c48799ce517e77cf93a3b1b1dc26a8ea]: Textual amendment: Words in [reg. 29(6)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/6) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/b)
+[^c-c48799ce517e77cf93a3b1b1dc26a8ea]: Textual amendment: Words in [reg. 29(6)](https://www.legislation.gov.uk/uksi/2002/2788/regulation/29/6) omitted (1.10.2006 with effect from 1.4.2007 in accordance with reg. 2 of the amending S.I.) by virtue of [The Maternity and Parental Leave etc. and the Paternity and Adoption Leave (Amendment) Regulations 2006 (S.I. 2006/2014)](https://www.legislation.gov.uk/uksi/2006/2014), [regs. 1](https://www.legislation.gov.uk/uksi/2006/2014/regulation/1), [17(b)](https://www.legislation.gov.uk/uksi/2006/2014/regulation/17/b)
 
-[^key-d9b1d03efe2696e8c929815edb3af103]: Commencement: Reg. 30 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-d9b1d03efe2696e8c929815edb3af103]: Commencement: Reg. 30 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
 
-[^key-9d35e511c5f0049e030da32f9cfbd19d]: Commencement: Reg. 31 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)
+[^c-9d35e511c5f0049e030da32f9cfbd19d]: Commencement: Reg. 31 in force at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2788/regulation/1)

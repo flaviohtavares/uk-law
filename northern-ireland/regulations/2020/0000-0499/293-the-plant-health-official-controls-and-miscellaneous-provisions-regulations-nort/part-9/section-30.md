@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Information notices[^key-8ca435d102421d098f4f570e25f36740]
+## 30. Information notices[^c-8ca435d102421d098f4f570e25f36740]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ca435d102421d098f4f570e25f36740]: Commencement: Reg. 30 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-8ca435d102421d098f4f570e25f36740]: Commencement: Reg. 30 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

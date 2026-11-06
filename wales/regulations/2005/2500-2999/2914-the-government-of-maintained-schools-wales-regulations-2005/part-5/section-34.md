@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Procedure for making an instrument[^key-32be9a068a9318c73e97ab3afe56f62a][^key-924bb9aa91d5af440ac6e9e7f23af4e5][^key-666673193a5800a8b64bbca4cb34df08]
+## 34. Procedure for making an instrument[^c-32be9a068a9318c73e97ab3afe56f62a][^c-924bb9aa91d5af440ac6e9e7f23af4e5][^c-666673193a5800a8b64bbca4cb34df08]
 
 *Extent: E+W*
 
-(1) Subject to paragraph (6), the governing body must prepare a draft of the instrument of government and submit it to the local authority[^key-a944f274d91baf78f1ce6acb913f655b].
+(1) Subject to paragraph (6), the governing body must prepare a draft of the instrument of government and submit it to the local authority[^c-a944f274d91baf78f1ce6acb913f655b].
 
 (2) Where the school has foundation governors, the governing body must not submit the draft to the local authority unless it has been approved by—
 
@@ -49,10 +49,10 @@ and the instrument of government must be made by it either in the form of a revi
 
 ## Annotations
 
-[^key-32be9a068a9318c73e97ab3afe56f62a]: Commencement: Reg. 34 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-32be9a068a9318c73e97ab3afe56f62a]: Commencement: Reg. 34 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-924bb9aa91d5af440ac6e9e7f23af4e5]: Modification: [Reg. 34](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) modified (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [81(4)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/81/4/b)
+[^c-924bb9aa91d5af440ac6e9e7f23af4e5]: Modification: [Reg. 34](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) modified (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [81(4)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/81/4/b)
 
-[^key-666673193a5800a8b64bbca4cb34df08]: Modification: [Reg. 34](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) modified (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [88(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/88/2/b)
+[^c-666673193a5800a8b64bbca4cb34df08]: Modification: [Reg. 34](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) modified (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [88(2)(b)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/88/2/b)
 
-[^key-a944f274d91baf78f1ce6acb913f655b]: Textual amendment: Words in [regs. 34-37](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)
+[^c-a944f274d91baf78f1ce6acb913f655b]: Textual amendment: Words in [regs. 34-37](https://www.legislation.gov.uk/wsi/2005/2914/regulation/34) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(14)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/14)

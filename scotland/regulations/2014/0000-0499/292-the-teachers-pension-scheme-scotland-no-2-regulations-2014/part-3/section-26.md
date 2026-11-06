@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Pensionable service on or after automatic enrolment date[^key-566b6798ac190a6e45c25a7d8aaf82ef]
+## 26. Pensionable service on or after automatic enrolment date[^c-566b6798ac190a6e45c25a7d8aaf82ef]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-566b6798ac190a6e45c25a7d8aaf82ef]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2014/292/regulation/26) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-566b6798ac190a6e45c25a7d8aaf82ef]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2014/292/regulation/26) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

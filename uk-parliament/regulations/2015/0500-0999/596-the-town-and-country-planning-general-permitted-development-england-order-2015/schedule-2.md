@@ -34,7 +34,7 @@ The enlargement, improvement or other alteration of a dwellinghouse.
 
 Development is not permitted by Class A if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-263b22620d3b5afac0edac362844cabf] M, MA,[^key-07961fe82b0b6c6733e776bd76305eb8] N, P , PA[^key-acc0ef439a46c8b7111d3fe4bddf0940] or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-263b22620d3b5afac0edac362844cabf] M, MA,[^c-07961fe82b0b6c6733e776bd76305eb8] N, P , PA[^c-acc0ef439a46c8b7111d3fe4bddf0940] or Q of Part 3 of this Schedule (changes of use);
 - (b) as a result of the works, the total area of ground covered by buildings within the curtilage of the dwellinghouse (other than the original dwellinghouse) would exceed 50% of the total area of the curtilage (excluding the ground area of the original dwellinghouse);
 - (c) the height of the part of the dwellinghouse enlarged, improved or altered would exceed the height of the highest part of the roof of the existing dwellinghouse;
 - (d) the height of the eaves of the part of the dwellinghouse enlarged, improved or altered would exceed the height of the eaves of the existing dwellinghouse;
@@ -44,31 +44,31 @@ Development is not permitted by Class A if—
 - (f) subject to paragraph (g), the enlarged part of the dwellinghouse would have a single storey and—
   - (i) extend beyond the rear wall of the original dwellinghouse by more than 4 metres in the case of a detached dwellinghouse, or 3 metres in the case of any other dwellinghouse, or
   - (ii) exceed 4 metres in height;
-- (g) [^key-e5647d0f042fa42128db82cb09f048a5]...for a dwellinghouse not on article 2(3) land nor on a site of special scientific interest, the enlarged part of the dwellinghouse would have a single storey and—
+- (g) [^c-e5647d0f042fa42128db82cb09f048a5]...for a dwellinghouse not on article 2(3) land nor on a site of special scientific interest, the enlarged part of the dwellinghouse would have a single storey and—
   - (i) extend beyond the rear wall of the original dwellinghouse by more than 8 metres in the case of a detached dwellinghouse, or 6 metres in the case of any other dwellinghouse, or
   - (ii) exceed 4 metres in height;
 - (h) the enlarged part of the dwellinghouse would have more than a single storey and—
   - (i) extend beyond the rear wall of the original dwellinghouse by more than 3 metres, or
-  - (ii)[^key-d30ee20bed887d95c59d42be571d5a3a] be within 7 metres of any boundary of the curtilage of the dwellinghouse being enlarged which is opposite the rear wall of that dwellinghouse;
+  - (ii)[^c-d30ee20bed887d95c59d42be571d5a3a] be within 7 metres of any boundary of the curtilage of the dwellinghouse being enlarged which is opposite the rear wall of that dwellinghouse;
 - (i) the enlarged part of the dwellinghouse would be within 2 metres of the boundary of the curtilage of the dwellinghouse, and the height of the eaves of the enlarged part would exceed 3 metres;
 - (j) the enlarged part of the dwellinghouse would extend beyond a wall forming a side elevation of the original dwellinghouse, and would—
   - (i) exceed 4 metres in height,
   - (ii) have more than a single storey, or
-  - (iii) have a width greater than half the width of the original dwellinghouse; [^key-6fec14b68cbeba9e6ae76b0fb695e70a]...
-- (ja)[^key-2b3eef57784a33e9d095a66a224b9ffb] any total enlargement (being the enlarged part together with any existing enlargement of the original dwellinghouse to which it will be joined) exceeds or would exceed the limits set out in sub-paragraphs (e) to (j);
+  - (iii) have a width greater than half the width of the original dwellinghouse; [^c-6fec14b68cbeba9e6ae76b0fb695e70a]...
+- (ja)[^c-2b3eef57784a33e9d095a66a224b9ffb] any total enlargement (being the enlarged part together with any existing enlargement of the original dwellinghouse to which it will be joined) exceeds or would exceed the limits set out in sub-paragraphs (e) to (j);
 - (k) it would consist of or include—
   - (i) the construction or provision of a verandah, balcony or raised platform,
   - (ii) the installation, alteration or replacement of a microwave antenna,
   - (iii) the installation, alteration or replacement of a chimney, flue or soil and vent pipe, or
-  - (iv) an alteration to any part of the roof of the dwellinghouse ; or[^key-be1ef9454accf6e220aa818820c35aaa]
-- (l)[^key-31bb6717938431bc89e17aa943ac5c06] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
+  - (iv) an alteration to any part of the roof of the dwellinghouse ; or[^c-be1ef9454accf6e220aa818820c35aaa]
+- (l)[^c-31bb6717938431bc89e17aa943ac5c06] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 **A.2** In the case of a dwellinghouse on article 2(3) land, development is not permitted by Class A if—
 
 - (a) it would consist of or include the cladding of any part of the exterior of the dwellinghouse with stone, artificial stone, pebble dash, render, timber, plastic or tiles;
 - (b) the enlarged part of the dwellinghouse would extend beyond a wall forming a side elevation of the original dwellinghouse; or
 - (c) the enlarged part of the dwellinghouse would have more than a single storey and extend beyond the rear wall of the original dwellinghouse;
-- (d)[^key-e226f0f5b887279dd783d66b42580b74] any total enlargement (being the enlarged part together with any existing enlargement of the original dwellinghouse to which it will be joined) exceeds or would exceed the limits set out in sub-paragraphs (b) and (c).
+- (d)[^c-e226f0f5b887279dd783d66b42580b74] any total enlargement (being the enlarged part together with any existing enlargement of the original dwellinghouse to which it will be joined) exceeds or would exceed the limits set out in sub-paragraphs (b) and (c).
 
 ##### A.3 Conditions
 
@@ -78,7 +78,7 @@ Development is permitted by Class A subject to the following conditions—
 - (b) any upper-floor window located in a wall or roof slope forming a side elevation of the dwellinghouse must be—
   - (i) obscure-glazed, and
   - (ii) non-opening unless the parts of the window which can be opened are more than 1.7 metres above the floor of the room in which the window is installed; and
-- (c)[^key-049c75396d7c21623deee389e0ddbc25] where the enlarged part of the dwellinghouse has more than a single storey, or forms an upper storey on an existing enlargement of the original dwellinghouse, the roof pitch of the enlarged part must, so far as practicable, be the same as the roof pitch of the original dwellinghouse.
+- (c)[^c-049c75396d7c21623deee389e0ddbc25] where the enlarged part of the dwellinghouse has more than a single storey, or forms an upper storey on an existing enlargement of the original dwellinghouse, the roof pitch of the enlarged part must, so far as practicable, be the same as the roof pitch of the original dwellinghouse.
 
 **A.4** (1) The following conditions apply to development permitted by Class A which exceeds the limits in paragraph A.1(f) but is allowed by paragraph A.1(g).
 
@@ -88,13 +88,13 @@ Development is permitted by Class A subject to the following conditions—
   - (i) how far the enlarged part of the dwellinghouse extends beyond the rear wall of the original dwellinghouse;
   - (ii) the maximum height of the enlarged part of the dwellinghouse; and
   - (iii) the height of the eaves of the enlarged part of the dwellinghouse;
-  - (iv)[^key-4fda73d00e44b0eae75e4dae97427e84] where the enlarged part will be joined to an existing enlargement of the dwellinghouse, the information in sub-paragraphs (i) to (iii) must be provided in respect of the total enlargement (being the enlarged part together with the existing enlargement to which it will be joined);
-- (b) a plan indicating the site and showing the proposed development and any existing enlargement of the original dwellinghouse to which the enlarged part will be joined[^key-0174059d581e4935d9bb5c4e99525488];
+  - (iv)[^c-4fda73d00e44b0eae75e4dae97427e84] where the enlarged part will be joined to an existing enlargement of the dwellinghouse, the information in sub-paragraphs (i) to (iii) must be provided in respect of the total enlargement (being the enlarged part together with the existing enlargement to which it will be joined);
+- (b) a plan indicating the site and showing the proposed development and any existing enlargement of the original dwellinghouse to which the enlarged part will be joined[^c-0174059d581e4935d9bb5c4e99525488];
 - (c) the addresses of any adjoining premises;
 - (d) the developer's contact address; and
 - (e) the developer's email address if the developer is content to receive communications electronically,
 
-together with any fee required to be paid.[^key-2af03165fc0c630a2f2117dd4e65f361]
+together with any fee required to be paid.[^c-2af03165fc0c630a2f2117dd4e65f361]
 
 (3) The local planning authority may refuse an application where, in the opinion of the authority—
 
@@ -107,7 +107,7 @@ the conditions, limitations or restrictions applicable to development permitted 
 
 (5) The local planning authority must notify each adjoining owner or occupier about the proposed development by serving on them a notice which—
 
-- (a)[^key-8548e1b0751a7c1445c02a4869f7d8d7] describes the development by setting out the information provided to the authority by the developer under paragraph A.4(2)(a);
+- (a)[^c-8548e1b0751a7c1445c02a4869f7d8d7] describes the development by setting out the information provided to the authority by the developer under paragraph A.4(2)(a);
 - (b) provides the address of the proposed development;
 - (c) specifies the date when the information referred to in sub-paragraph (2) was received by the local planning authority and the date when the period referred to in sub-paragraph (10)(c) would expire; and
 - (d) specifies the date (being not less than 21 days from the date of the notice) by which representations are to be received by the local planning authority.
@@ -138,15 +138,15 @@ unless the local planning authority and the developer agree otherwise in writing
 
 (12) The local planning authority may grant prior approval unconditionally or subject to conditions reasonably related to the impact of the proposed development on the amenity of any adjoining premises.
 
-(13)[^key-be82edaf77917c968fbf486eaa72589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-be82edaf77917c968fbf486eaa72589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-be82edaf77917c968fbf486eaa72589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-be82edaf77917c968fbf486eaa72589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-be82edaf77917c968fbf486eaa72589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-be82edaf77917c968fbf486eaa72589b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16)[^M_F_5f2b2498-2577-4c1b-fc51-b9de31f995e0] When computing the number of days in sub-paragraph (5)(d), any day which is a public holiday must be disregarded.
 
-#### Class AA - enlargement of a dwellinghouse by construction of additional storeys[^key-1836f4f3570d66c8cdb116930e87a427]
+#### Class AA - enlargement of a dwellinghouse by construction of additional storeys[^c-1836f4f3570d66c8cdb116930e87a427]
 
 ##### AA. Permitted development
 
@@ -161,7 +161,7 @@ immediately above the topmost storey of the dwellinghouse, together with any eng
 
 Development is not permitted by Class AA if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-77180a4a6de89836c9990f5347f868fc] M, MA,[^key-16a67485e012bbba27a344149babc490] N, O, P, PA or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-77180a4a6de89836c9990f5347f868fc] M, MA,[^c-16a67485e012bbba27a344149babc490] N, O, P, PA or Q of Part 3 of this Schedule (changes of use);
 - (b) the dwellinghouse is located on—
   - (i) article 2(3) land; or
   - (ii) a site of special scientific interest;
@@ -221,7 +221,7 @@ Development is not permitted by Class AA if—
   - (i) the existing and proposed elevations of the dwellinghouse, and
   - (ii) the position and dimensions of the proposed windows.
 
-together with any fee required to be paid.[^key-4ec7785a2300f2f03f799b580921764b]
+together with any fee required to be paid.[^c-4ec7785a2300f2f03f799b580921764b]
 
 (3) The local planning authority may refuse an application where, in its opinion—
 
@@ -251,13 +251,13 @@ any conditions, limitations or restrictions specified in paragraphs AA.1 and AA.
 (11) The local planning authority may require the developer to submit such information as the authority may reasonably require in order to determine the application, which may include—
 
 - (a) assessments of impacts or risks;
-- (b) statements setting out how impacts or risks are to be mitigated, having regard to the National Planning Policy Framework [^key-90686c6e08a4f3b0443007ebce4eb897]...; and
+- (b) statements setting out how impacts or risks are to be mitigated, having regard to the National Planning Policy Framework [^c-90686c6e08a4f3b0443007ebce4eb897]...; and
 - (c) details of proposed building or other operations.
 
 (12) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of any notice given under sub-paragraph (5) and any consultation under sub-paragraph (6) or (8); and
-- (b) have regard to the National Planning Policy Framework [^key-d194752214eec22679e46d161eb697d0]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b) have regard to the National Planning Policy Framework [^c-d194752214eec22679e46d161eb697d0]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (13) The development must not begin before the receipt by the applicant from the local planning authority of a written notice giving their prior approval.
 
@@ -297,7 +297,7 @@ The enlargement of a dwellinghouse consisting of an addition or alteration to it
 
 Development is not permitted by Class B if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-aab70b908e878986a339854426a3ad20] M, MA,[^key-b0515e5642ee1283cb2592927d0ff2bd] N, P , PA[^key-0e2cd7bd6893db8025161cfa907e9a1a] or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-aab70b908e878986a339854426a3ad20] M, MA,[^c-b0515e5642ee1283cb2592927d0ff2bd] N, P , PA[^c-0e2cd7bd6893db8025161cfa907e9a1a] or Q of Part 3 of this Schedule (changes of use);
 - (b) any part of the dwellinghouse would, as a result of the works, exceed the height of the highest part of the existing roof;
 - (c) any part of the dwellinghouse would, as a result of the works, extend beyond the plane of any existing roof slope which forms the principal elevation of the dwellinghouse and fronts a highway;
 - (d) the cubic content of the resulting roof space would exceed the cubic content of the original roof space by more than—
@@ -305,9 +305,9 @@ Development is not permitted by Class B if—
   - (ii) 50 cubic metres in any other case;
 - (e) it would consist of or include—
   - (i) the construction or provision of a verandah, balcony or raised platform, or
-  - (ii) the installation, alteration or replacement of a chimney, flue or soil and vent pipe; [^key-db8e7cc47702dcf4ed76066f41d53ad2]...
-- (f) the dwellinghouse is on article 2(3) land ;[^M_F_f7c295ab-84a7-4b9b-c00b-5a90d02e0f5d] [^key-2c9cca89e66f4fd47b43c07f75368f1e]...
-- (g)[^key-fc80ede3dafeb142f893fc3e1e3902b0] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses) ; or[^key-2be657503e6484426110caccef9a8cd0]
+  - (ii) the installation, alteration or replacement of a chimney, flue or soil and vent pipe; [^c-db8e7cc47702dcf4ed76066f41d53ad2]...
+- (f) the dwellinghouse is on article 2(3) land ;[^M_F_f7c295ab-84a7-4b9b-c00b-5a90d02e0f5d] [^c-2c9cca89e66f4fd47b43c07f75368f1e]...
+- (g)[^c-fc80ede3dafeb142f893fc3e1e3902b0] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses) ; or[^c-2be657503e6484426110caccef9a8cd0]
 - (h) the existing dwellinghouse has been enlarged in reliance on the permission granted by Class AA (enlargement of a dwellinghouse by construction of additional storeys).
 
 ##### B.2 Conditions
@@ -328,7 +328,7 @@ Development is permitted by Class B subject to the following conditions—
 
 For the purposes of Class B, “**resulting roof space**” means the roof space as enlarged, taking into account any enlargement to the original roof space, whether permitted by this Class or not.
 
-**B.4**[^key-0a1e0a9cf166ae851debb3bb78636563] For the purposes of paragraph B.2(b)(ii)—
+**B.4**[^c-0a1e0a9cf166ae851debb3bb78636563] For the purposes of paragraph B.2(b)(ii)—
 
 - (a) roof tiles, guttering, fascias, barge boards and other minor roof details overhanging the external wall of the original dwellinghouse are not to be considered part of the enlargement; and
 - (b) “rear or side extension” includes an original part of, or a subsequent extension of, the dwellinghouse that extends from the rear or side of the principal part of the original dwellinghouse.
@@ -343,13 +343,13 @@ For the purposes of Class B, “**resulting roof space**” means the roof space
 
 Development is not permitted by Class C if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-6ab811704f28350225f2b032f9c29b58] M, MA,[^key-9ed5c835f6d3a089bf58b2cfb49f746a] N, P , PA[^key-734334577470ad39e8136a04d7fb1cca] or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-6ab811704f28350225f2b032f9c29b58] M, MA,[^c-9ed5c835f6d3a089bf58b2cfb49f746a] N, P , PA[^c-734334577470ad39e8136a04d7fb1cca] or Q of Part 3 of this Schedule (changes of use);
 - (b) the alteration would protrude more than 0.15 metres beyond the plane of the slope of the original roof when measured from the perpendicular with the external surface of the original roof;
-- (c) it would result in the highest part of the alteration being higher than the highest part of the original roof; [^key-1cd25fedd3279ab0ccfe7ee0724368c8]...
+- (c) it would result in the highest part of the alteration being higher than the highest part of the original roof; [^c-1cd25fedd3279ab0ccfe7ee0724368c8]...
 - (d) it would consist of or include—
   - (i) the installation, alteration or replacement of a chimney, flue or soil and vent pipe, or
-  - (ii) the installation, alteration or replacement of solar photovoltaics or solar thermal equipment ; or[^key-40bc268db4cbb37b8ab22b0a5122e6a2]
-- (e)[^key-77a98e068fec1ae2243994fefc77afb2] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
+  - (ii) the installation, alteration or replacement of solar photovoltaics or solar thermal equipment ; or[^c-40bc268db4cbb37b8ab22b0a5122e6a2]
+- (e)[^c-77a98e068fec1ae2243994fefc77afb2] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 ##### C.2 Conditions
 
@@ -368,11 +368,11 @@ Development is permitted by Class C subject to the condition that any window loc
 
 Development is not permitted by Class D if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-fab17ea7cc7799bafe190046c9613e45] M, MA,[^key-4f13e8b956d6298ea329f3a3b4cf4625] N, P , PA[^key-8b23aee9d60eeea3b085bbe86dcc4310] or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-fab17ea7cc7799bafe190046c9613e45] M, MA,[^c-4f13e8b956d6298ea329f3a3b4cf4625] N, P , PA[^c-8b23aee9d60eeea3b085bbe86dcc4310] or Q of Part 3 of this Schedule (changes of use);
 - (b) the ground area (measured externally) of the structure would exceed 3 square metres;
-- (c) any part of the structure would be more than 3 metres above ground level; [^key-91b6ac0ba60709927e73cfeb3a1415d6]...
-- (d) any part of the structure would be within 2 metres of any boundary of the curtilage of the dwellinghouse with a highway ; or[^key-0095e13e4f1b5392cf669127abb82068]
-- (e)[^key-cf4900d2996e022348de7fe7d468e8e9] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
+- (c) any part of the structure would be more than 3 metres above ground level; [^c-91b6ac0ba60709927e73cfeb3a1415d6]...
+- (d) any part of the structure would be within 2 metres of any boundary of the curtilage of the dwellinghouse with a highway ; or[^c-0095e13e4f1b5392cf669127abb82068]
+- (e)[^c-cf4900d2996e022348de7fe7d468e8e9] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 #### Class E – buildings etc incidental to the enjoyment of a dwellinghouse
 
@@ -387,7 +387,7 @@ Development is not permitted by Class D if—
 
 Development is not permitted by Class E if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-09c82766684fc41aa5621cd6247b70ec] M, MA,[^key-ef21541816d4305863778a2e0f4f4d7e] N, P , PA[^key-2967c33db919ec7a657caadc034b14ad] or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-09c82766684fc41aa5621cd6247b70ec] M, MA,[^c-ef21541816d4305863778a2e0f4f4d7e] N, P , PA[^c-2967c33db919ec7a657caadc034b14ad] or Q of Part 3 of this Schedule (changes of use);
 - (b) the total area of ground covered by buildings, enclosures and containers within the curtilage (other than the original dwellinghouse) would exceed 50% of the total area of the curtilage (excluding the ground area of the original dwellinghouse);
 - (c) any part of the building, enclosure, pool or container would be situated on land forward of a wall forming the principal elevation of the original dwellinghouse;
 - (d) the building would have more than a single storey;
@@ -398,9 +398,9 @@ Development is not permitted by Class E if—
 - (f) the height of the eaves of the building would exceed 2.5 metres;
 - (g) the building, enclosure, pool or container would be situated within the curtilage of a listed building;
 - (h) it would include the construction or provision of a verandah, balcony or raised platform;
-- (i) it relates to a dwelling or a microwave antenna; [^key-579d2317b030fd38e1d9c9def7fc2a3d]...
-- (j) the capacity of the container would exceed 3,500 litres ; or[^key-12cdcbc15f3d66c6d9d55e488d689fb3]
-- (k)[^key-525b8b50db41d2ad901bac8cf879075a] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
+- (i) it relates to a dwelling or a microwave antenna; [^c-579d2317b030fd38e1d9c9def7fc2a3d]...
+- (j) the capacity of the container would exceed 3,500 litres ; or[^c-12cdcbc15f3d66c6d9d55e488d689fb3]
+- (k)[^c-525b8b50db41d2ad901bac8cf879075a] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 **E.2** In the case of any land within the curtilage of the dwellinghouse which is within—
 
@@ -426,11 +426,11 @@ For the purposes of Class E, “**purpose incidental to the enjoyment of the dwe
 - (a) ***the provision within the curtilage of a dwellinghouse of a hard surface for any purpose incidental to the enjoyment of the dwellinghouse as such; or***
 - (b) ***the replacement in whole or in part of such a surface.***
 
-##### F.1 Development not permitted[^key-7600b56a5e413cca32f671787bf9a036]
+##### F.1 Development not permitted[^c-7600b56a5e413cca32f671787bf9a036]
 
 Development is not permitted by Class F if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-be4ca08a33864792712640694f7947b9] M, MA,[^key-9bb6dff3e359d72c0587255e7bd6f74a] N, P, PA or Q of Part 3 of this Schedule (changes of use); or
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-be4ca08a33864792712640694f7947b9] M, MA,[^c-9bb6dff3e359d72c0587255e7bd6f74a] N, P, PA or Q of Part 3 of this Schedule (changes of use); or
 - (b) the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 ##### F.2 Conditions
@@ -452,12 +452,12 @@ either the hard surface is made of porous materials, or provision is made to dir
 
 Development is not permitted by Class G if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-9fca6da3e09caa1a401dc3c1189ed96d] M, MA,[^key-3ce87eafb5fdcae0f5345b8a6a2f6a00] N, P , PA[^key-efa43384a0fc068f16bfef2d65157ec5] or Q of Part 3 of this Schedule (changes of use);
-- (b) the height of the chimney, flue or soil and vent pipe would exceed the highest part of the roof by 1 metre or more;[^key-2e2d33f149dc1adb6ff64fb87a2d31da]...
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-9fca6da3e09caa1a401dc3c1189ed96d] M, MA,[^c-3ce87eafb5fdcae0f5345b8a6a2f6a00] N, P , PA[^c-efa43384a0fc068f16bfef2d65157ec5] or Q of Part 3 of this Schedule (changes of use);
+- (b) the height of the chimney, flue or soil and vent pipe would exceed the highest part of the roof by 1 metre or more;[^c-2e2d33f149dc1adb6ff64fb87a2d31da]...
 - (c) in the case of a dwellinghouse on article 2(3) land, the chimney, flue or soil and vent pipe would be installed on a wall or roof slope which—
   - (i) fronts a highway, and
-  - (ii) forms either the principal elevation or a side elevation of the dwellinghouse ; or[^key-690c535be46af019d73c8a0101d38757]
-- (d)[^key-4cc5964a1706d50ed5515a75826780de] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
+  - (ii) forms either the principal elevation or a side elevation of the dwellinghouse ; or[^c-690c535be46af019d73c8a0101d38757]
+- (d)[^c-4cc5964a1706d50ed5515a75826780de] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 #### Class H – microwave antenna on a dwellinghouse
 
@@ -469,7 +469,7 @@ Development is not permitted by Class G if—
 
 Development is not permitted by Class H if—
 
-- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^key-0ded963e60d4624a695c77fb5a89a7c0] M, MA,[^key-b82ba051bf03cdc27caedd6c5a5d017b] N, P , PA[^key-edf46e7a333174a0fdb0196e22c1de30] or Q of Part 3 of this Schedule (changes of use);
+- (a) permission to use the dwellinghouse as a dwellinghouse has been granted only by virtue of Class G,[^c-0ded963e60d4624a695c77fb5a89a7c0] M, MA,[^c-b82ba051bf03cdc27caedd6c5a5d017b] N, P , PA[^c-edf46e7a333174a0fdb0196e22c1de30] or Q of Part 3 of this Schedule (changes of use);
 - (b) it would result in the presence on the dwellinghouse or within its curtilage of—
   - (i) more than 2 antennas;
   - (ii) a single antenna exceeding 1 metre in length;
@@ -478,12 +478,12 @@ Development is not permitted by Class H if—
   - (v) an antenna installed on a chimney, where the antenna would protrude above the chimney; or
   - (vi) an antenna with a cubic capacity in excess of 35 litres;
 - (c) in the case of an antenna to be installed on a roof without a chimney, the highest part of the antenna would be higher than the highest part of the roof;
-- (d) in the case of an antenna to be installed on a roof with a chimney, the highest part of the antenna would be higher than the highest part of the chimney, or 0.6 metres measured from the highest part of the ridge tiles of the roof, whichever is the lower; [^key-ca1dac27b42f781668dc34f0f43ebe7b]...
+- (d) in the case of an antenna to be installed on a roof with a chimney, the highest part of the antenna would be higher than the highest part of the chimney, or 0.6 metres measured from the highest part of the ridge tiles of the roof, whichever is the lower; [^c-ca1dac27b42f781668dc34f0f43ebe7b]...
 - (e) in the case of article 2(3) land, it would consist of the installation of an antenna—
   - (i) on a chimney, wall or roof slope which faces onto, and is visible from, a highway;
   - (ii) in the Broads, on a chimney, wall or roof slope which faces onto, and is visible from, a waterway; or
-  - (iii) on a building which exceeds 15 metres in height ; or[^key-fe14dafb76b0a246da22fbb36451aa08]
-- (f)[^key-bdc7ce76c768eac281025194b6cd9537] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
+  - (iii) on a building which exceeds 15 metres in height ; or[^c-fe14dafb76b0a246da22fbb36451aa08]
+- (f)[^c-bdc7ce76c768eac281025194b6cd9537] the dwellinghouse is built under Part 20 of this Schedule (construction of new dwellinghouses).
 
 ##### H.2 Conditions
 
@@ -507,7 +507,7 @@ For the purposes of Part 1—
 
 - “**highway**” includes an unadopted street or a private way;
 - “**raised**” in relation to a platform means a platform with a height greater than 0.3 metres; and
-- “**terrace house**” except in Class AA (enlargement of a dwellinghouse by construction of additional storeys),[^key-25bd8d83425938a310cd5f4fedc34320] means a dwellinghouse situated in a row of 3 or more dwellinghouses used or designed for use as single dwellings, where—
+- “**terrace house**” except in Class AA (enlargement of a dwellinghouse by construction of additional storeys),[^c-25bd8d83425938a310cd5f4fedc34320] means a dwellinghouse situated in a row of 3 or more dwellinghouses used or designed for use as single dwellings, where—
   - (a) it shares a party wall with, or has a main wall adjoining the main wall of, the dwellinghouse on either side; or
   - (b) if it is at the end of a row, it shares a party wall with or has a main wall adjoining the main wall of a dwellinghouse which fulfils the requirements of paragraph (a); and
 - “**unadopted street**” means a street not being a highway maintainable at the public expense within the meaning of the Highways Act 1980 [^c22501291].
@@ -560,7 +560,7 @@ In Class C, “**painting**” includes any application of colour.
 
 #### Class D – electrical outlet for recharging vehicles
 
-##### D. Permitted development[^key-847e75a92196c3201d2c5fe00d161d74]
+##### D. Permitted development[^c-847e75a92196c3201d2c5fe00d161d74]
 
 The installation, alteration or replacement of an electrical outlet mounted on a wall for recharging electric vehicles—
 
@@ -569,15 +569,15 @@ The installation, alteration or replacement of an electrical outlet mounted on a
 
 ##### D.1 Development not permitted
 
-(1)[^key-a5d76d6e5fe5c348e22dfd056d255f6d] Development is not permitted by Class D if the outlet and its casing would—
+(1)[^c-a5d76d6e5fe5c348e22dfd056d255f6d] Development is not permitted by Class D if the outlet and its casing would—
 
 - (a) exceed 0.2 cubic metres;
-- (aa)[^key-aeca0f9d551e3ea236feee1511e389d4] be installed more than 1.6 metres above ground level;
-- (b)[^key-baa60f62e82d350fca2e77d6c0538e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-aeca0f9d551e3ea236feee1511e389d4] be installed more than 1.6 metres above ground level;
+- (b)[^c-baa60f62e82d350fca2e77d6c0538e90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) be within a site designated as a scheduled monument; or
 - (d) be within the curtilage of a listed building.
 
-(2)[^key-2576a502aba48feeebcd4f732c3f58eb] Development is not permitted by paragraph (b) of Class D—
+(2)[^c-2576a502aba48feeebcd4f732c3f58eb] Development is not permitted by paragraph (b) of Class D—
 
 - (a) if it would result in more than 1 outlet being installed within the curtilage of a dwellinghouse or block of flats; or
 - (b) within a conservation area.
@@ -589,14 +589,14 @@ The installation, alteration or replacement of an electrical outlet mounted on a
 
 ##### D.2 Conditions
 
-(1)[^key-bbe1b74750fbabf8af827a63650a6f9f] Development is permitted by Class D subject to the conditions that when no longer needed as a charging point for electric vehicles—
+(1)[^c-bbe1b74750fbabf8af827a63650a6f9f] Development is permitted by Class D subject to the conditions that when no longer needed as a charging point for electric vehicles—
 
 - (a) the development is removed as soon as reasonably practicable; and
 - (b) the wall on which the development was mounted or into which the development was set is, as soon as reasonably practicable, and so far as reasonably practicable, reinstated to its condition before that development was carried out.
 
-(2)[^key-6fedb9de20695f8e8c2c899cd0521f39] Development is permitted by Class D subject to the condition that, where there is a footway between the electrical outlet and the vehicle to be recharged, when the outlet is in use the charging cable must cross the footway by means of an authorised cross-pavement solution.
+(2)[^c-6fedb9de20695f8e8c2c899cd0521f39] Development is permitted by Class D subject to the condition that, where there is a footway between the electrical outlet and the vehicle to be recharged, when the outlet is in use the charging cable must cross the footway by means of an authorised cross-pavement solution.
 
-##### D3. Interpretation of Class D[^key-af3063c29ef7e310e7793d801460a5c4]
+##### D3. Interpretation of Class D[^c-af3063c29ef7e310e7793d801460a5c4]
 
 For the purposes of Class D—
 
@@ -607,48 +607,48 @@ For the purposes of Class D—
 - “**electrical outlet**” means a dedicated charging point for the recharging of electric vehicles not including by means of a standard domestic plug and socket, and including any casing of that electrical outlet;
 - “**footway**” has the meaning given by section 329(1) of the Highways Act 1980.
 
-#### Class E – electrical upstand etc for recharging vehicles[^key-49c58ee54e43be410bc9a4480bb84128]
+#### Class E – electrical upstand etc for recharging vehicles[^c-49c58ee54e43be410bc9a4480bb84128]
 
 ##### E. Permitted development
 
-(1)[^key-659814ff9165ccee09059ee172a0b70d][^key-14d177238789336e94c4f400fb0b8622] The installation, alteration or replacement of an upstand with an electrical outlet mounted on it for recharging electric vehicles—
+(1)[^c-659814ff9165ccee09059ee172a0b70d][^c-14d177238789336e94c4f400fb0b8622] The installation, alteration or replacement of an upstand with an electrical outlet mounted on it for recharging electric vehicles—
 
 - (a) within an area lawfully used for off-street parking; or
 - (b) within any other area within the curtilage of a dwellinghouse or block of flats.
 
-(2)[^key-ea92cab0d7eba4b97f88295fdad63166] The installation, alteration or replacement, at ground level within a non-domestic area lawfully used for off-street parking, of—
+(2)[^c-ea92cab0d7eba4b97f88295fdad63166] The installation, alteration or replacement, at ground level within a non-domestic area lawfully used for off-street parking, of—
 
 - (a) equipment necessary for the operation of an upstand the installation of which would be permitted by this Class;
 - (b) a unit of equipment housing for the storage of equipment necessary for the operation of an upstand the installation of which would be permitted by this Class.
 
 ##### E.1 Development not permitted
 
-(1)[^key-c4e7ef5c3dff20bb55f2d64319e8af15] Development is not permitted by paragraph E(1)[^key-c16bd37826542806745e367b54fa2666] if the upstand and the outlet would—
+(1)[^c-c4e7ef5c3dff20bb55f2d64319e8af15] Development is not permitted by paragraph E(1)[^c-c16bd37826542806745e367b54fa2666] if the upstand and the outlet would—
 
-- (a)[^key-a1d4e64d14d745b71584f722bb5aee11] exceed the relevant height limit in the table from the surface used for the parking of vehicles—
+- (a)[^c-a1d4e64d14d745b71584f722bb5aee11] exceed the relevant height limit in the table from the surface used for the parking of vehicles—
 
   | Location of development | Height Limit |
   | --- | --- |
   | (i) non-domestic area lawfully used for off-street parking. | 2.7 metres. |
   | (ii) any other location. | 1.6 metres. |
-- (aa)[^key-7ce8d88a860d59a2e6e866cf131e77f0] in the case of development permitted by paragraph E(1)(b), be within a conservation area;
-- (b)[^key-b5ce2a8099f139b99c8c57eae037748b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-7ce8d88a860d59a2e6e866cf131e77f0] in the case of development permitted by paragraph E(1)(b), be within a conservation area;
+- (b)[^c-b5ce2a8099f139b99c8c57eae037748b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) be within a site designated as a scheduled monument;
 - (d) be within the curtilage of a listed building; or
 - (e) result in more than 1 upstand being provided for each parking space.
 
-(2)[^key-3ce84bdf035aab90fa0cd9324e19307e] Development is not permitted by paragraph E(2)(a) if the equipment would not be contained within equipment housing the installation of which would be permitted by this Class.
+(2)[^c-3ce84bdf035aab90fa0cd9324e19307e] Development is not permitted by paragraph E(2)(a) if the equipment would not be contained within equipment housing the installation of which would be permitted by this Class.
 
 (3) Development is not permitted by paragraph E(2)(b) if—
 
-- (a)[^key-4cdb99991b9e27d44e63f97a8cb74f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the [^key-c75fb40efc212bb012f31067968fe0bb]... equipment housing would—
-  - (i)[^key-2b979a7b449d4eff9333a3878ac3c111] result in the cumulative volume of equipment housing installed under Class E within that non-domestic area exceeding 45 cubic metres;
+- (a)[^c-4cdb99991b9e27d44e63f97a8cb74f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the [^c-c75fb40efc212bb012f31067968fe0bb]... equipment housing would—
+  - (i)[^c-2b979a7b449d4eff9333a3878ac3c111] result in the cumulative volume of equipment housing installed under Class E within that non-domestic area exceeding 45 cubic metres;
   - (ii) exceed 3 metres in height from the level of the surface used for the parking of vehicles;
   - (iii) be within 5 metres of a highway;
   - (iv) be within 10 metres of the curtilage of a dwellinghouse or block of flats;
   - (v) be within a site designated as a scheduled monument;
-  - (vi) be within the curtilage of a listed building ;[^key-bf646db47602e64e67b2bb79132f7d9a]
+  - (vi) be within the curtilage of a listed building ;[^c-bf646db47602e64e67b2bb79132f7d9a]
 - (c) where the cumulative volume of equipment housing installed within that non-domestic area would exceed 29 cubic metres, it would be—
   - (i) within a site of special scientific interest;
   - (ii) within a European site; or
@@ -656,12 +656,12 @@ For the purposes of Class D—
 
 ##### E.2 Conditions
 
-(1)[^key-2876f52633ea361e511d07d8cd04ad76] Development is permitted by Class E subject to the conditions that when the development is no longer needed as a charging point for electric vehicles—
+(1)[^c-2876f52633ea361e511d07d8cd04ad76] Development is permitted by Class E subject to the conditions that when the development is no longer needed as a charging point for electric vehicles—
 
 - (a) the development is removed as soon as reasonably practicable; and
 - (b) the land on which the development was mounted or into which the development was set is, as soon as reasonably practicable, and so far as reasonably practicable, reinstated to its condition before that development was carried out.
 
-(2)[^key-66251d11400085cf4a5d65d8321e1888] Development is permitted by paragraph E(1) subject to the condition that, where there is a footway between the upstand and outlet and the vehicle to be recharged, when the upstand and outlet are in use the charging cable must cross the footway by means of an authorised cross-pavement solution.
+(2)[^c-66251d11400085cf4a5d65d8321e1888] Development is permitted by paragraph E(1) subject to the condition that, where there is a footway between the upstand and outlet and the vehicle to be recharged, when the upstand and outlet are in use the charging cable must cross the footway by means of an authorised cross-pavement solution.
 
 (3) In the case of any paragraph E(2) development, where—
 
@@ -720,13 +720,13 @@ unless the local planning authority and the developer agree otherwise in writing
 
 (13) When computing the number of days in paragraph (7)(a), any day which is a public holiday must be disregarded.
 
-##### E.3. Interpretation of Class E[^key-f048242f695d2e6b462d402f9e471267]
+##### E.3. Interpretation of Class E[^c-f048242f695d2e6b462d402f9e471267]
 
 For the purposes of Class E—
 
-- “[^key-8d880366bbdd72c97d6710c96efc8822]**authorised**”, in relation to a cross-pavement solution, means installed by, or on behalf of, or with the authorisation of, the relevant highway authority;
+- “[^c-8d880366bbdd72c97d6710c96efc8822]**authorised**”, in relation to a cross-pavement solution, means installed by, or on behalf of, or with the authorisation of, the relevant highway authority;
 - “block of flats” means a building which consists of at least two flats.
-- “[^key-fd50e4cfa301c5ffefc219624b22c6db]**cross-pavement solution**” means a pavement-embedded cable channel that allows a cable for the recharging of electric vehicles to safely cross a footway from a domestic premises to a parked vehicle;
+- “[^c-fd50e4cfa301c5ffefc219624b22c6db]**cross-pavement solution**” means a pavement-embedded cable channel that allows a cable for the recharging of electric vehicles to safely cross a footway from a domestic premises to a parked vehicle;
 - “**electrical outlet**” means a dedicated charging point for the recharging of electric vehicles not including by means of a standard domestic plug and socket, and including any casing of that electrical outlet;
 - “**footway**” has the meaning given by section 329(1) of the Highways Act 1980.
 
@@ -763,7 +763,7 @@ For the purposes of Class F—
 - “camera”, except in paragraph F.1(b), includes its housing, pan and tilt mechanism, infra-red illuminator, receiver, mountings and brackets; and
 - “**ground level**” means the level of the surface of the ground immediately adjacent to the building or, where the level of the surface of the ground is not uniform, the level of the highest part of the surface of the ground adjacent to it.
 
-#### Class G – moveable structures for pubs, restaurants etc[^key-eea5b6b5bd4ca162b4fd60538cf6d37e]
+#### Class G – moveable structures for pubs, restaurants etc[^c-eea5b6b5bd4ca162b4fd60538cf6d37e]
 
 ##### G. Permitted development
 
@@ -792,7 +792,7 @@ For the purposes of Class G, “**footprint**”, in relation to a building or a
 
 ### PART 3 — Changes of use
 
-#### Class A – casino, betting office, pay day loan shop or hot food takeaway to commercial, business and service[^key-ac6c949fdfc258e7dbecb37962512e6e]
+#### Class A – casino, betting office, pay day loan shop or hot food takeaway to commercial, business and service[^c-ac6c949fdfc258e7dbecb37962512e6e]
 
 ##### A. Permitted development
 
@@ -809,56 +809,56 @@ to a use falling within Class E (commercial, business and service) of Schedule 2
 
 Development under Class A is permitted subject to the condition that, before beginning the development, the developer provides written notification to the local planning authority of the date on which the use of the building will change.
 
-#### Class AA – drinking establishments with expanded food provision[^key-060006cf47bcf0afa9e8b9a22cfa678c]
+#### Class AA – drinking establishments with expanded food provision[^c-060006cf47bcf0afa9e8b9a22cfa678c]
 
-##### AA. Permitted Development[^key-ff7bc44d81c201cb8d70efef0905f8cb]
+##### AA. Permitted Development[^c-ff7bc44d81c201cb8d70efef0905f8cb]
 
 Development consisting of a change of use of a building and any land within its curtilage—
 
 - (a) from a use falling within article 3(6)(p) (public house, wine bar, or drinking establishment) of the Use Classes Order to a use falling within article 3(6)(q) (drinking establishment with expanded food provision) of that Order; or
 - (b) from a use falling within article 3(6)(q) to a use falling within article 3(6)(p).
 
-#### Class B – takeaways ... to restaurants and cafes[^key-64df30805110aacc41a140da6a730ad3]
+#### Class B – takeaways ... to restaurants and cafes[^c-64df30805110aacc41a140da6a730ad3]
 
-[^key-e95634ab94ce42174c6a0efb5bdbb6cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e95634ab94ce42174c6a0efb5bdbb6cf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class C – retail, betting office or pay day loan shop or casino to restaurant or cafe
 
-[^key-80b443472929f1dc9f2ccb6865f47929]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80b443472929f1dc9f2ccb6865f47929]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class D – shops to financial and professional
 
-[^key-ddc17d94170f1b879e5cfe5953fc784a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ddc17d94170f1b879e5cfe5953fc784a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class E – financial and professional or betting office or pay day loan shop to shops
 
-[^key-5753645b183e4c0f311bcc72bc7fd147]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5753645b183e4c0f311bcc72bc7fd147]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class F – betting offices or pay day loan shops to financial and professional
 
-[^key-c9528df445ca04b6ce017d1239591449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9528df445ca04b6ce017d1239591449]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Class G – commercial, business and service or betting office or pay day loan shop to mixed use[^key-d5ff8f7f91d8f88680e7b258e94cc39d]
+#### Class G – commercial, business and service or betting office or pay day loan shop to mixed use[^c-d5ff8f7f91d8f88680e7b258e94cc39d]
 
 ##### G. Permitted development
 
 ***Development consisting of a change of use of a building—***
 
-- (a)[^key-e5a50f97cc28997b5fb42d15c0b3accc] from a use within Class E (commercial, business and service) of Schedule 2 to the Use Classes Order, to a mixed use for any purpose within that Class and as up to 2 flats;
-- (b)[^key-b34b373b25c62b588e8da9bfb0843086] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-9fdbdf77481f5f86f1e904fca9c591c4] from a use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order, to a mixed use for any purpose within Class E (commercial, business and service) of Schedule 2 to that Order and as up to 2 flats;
-- (d)[^key-90dabe24f80b89f9f695fc95f54c6f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) ***from a use falling within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order[^key-9379d41178649e3fcea189f04dfa6e85] to a mixed use falling within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order and as up to 2 flats.***
+- (a)[^c-e5a50f97cc28997b5fb42d15c0b3accc] from a use within Class E (commercial, business and service) of Schedule 2 to the Use Classes Order, to a mixed use for any purpose within that Class and as up to 2 flats;
+- (b)[^c-b34b373b25c62b588e8da9bfb0843086] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9fdbdf77481f5f86f1e904fca9c591c4] from a use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order, to a mixed use for any purpose within Class E (commercial, business and service) of Schedule 2 to that Order and as up to 2 flats;
+- (d)[^c-90dabe24f80b89f9f695fc95f54c6f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) ***from a use falling within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order[^c-9379d41178649e3fcea189f04dfa6e85] to a mixed use falling within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order and as up to 2 flats.***
 
 ##### G.1 Conditions
 
 Development permitted by Class G is subject to the following conditions—
 
-- (a) some or all of the parts of the building used for a use within, as the case may be, article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of, or Class E of Schedule 2 to,[^key-464ca8cbdeaa120893583bddf8c94d6e] the Use Classes Order is situated on a floor below the lowest part of the building used as a flat;
+- (a) some or all of the parts of the building used for a use within, as the case may be, article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of, or Class E of Schedule 2 to,[^c-464ca8cbdeaa120893583bddf8c94d6e] the Use Classes Order is situated on a floor below the lowest part of the building used as a flat;
 - (b) where the development consists of a change of use of any building with a display window at ground floor level, the ground floor must not be used in whole or in part as a flat;
 - (c) a flat must not be used otherwise than as a dwelling (whether or not as a sole or main residence)—
   - (i) by a single person or by people living together as a family, or
-  - (ii) by not more than 6 residents living together as a single household (including a household where care is provided for residents);[^key-bfe97480f79fdaa011fc57d7ce081329]
+  - (ii) by not more than 6 residents living together as a single household (including a household where care is provided for residents);[^c-bfe97480f79fdaa011fc57d7ce081329]
 - (d) before beginning development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to—
   - (i) contamination risks in relation to the building;
   - (ii) flooding risks in relation to the building;
@@ -870,23 +870,23 @@ Development permitted by Class G is subject to the following conditions—
 
 For the purposes of Class G, “**care**” means personal care for people in need of such care by reason of old age, disablement, past or present dependence on alcohol or drugs or past or present mental disorder.
 
-#### Class H – mixed use to commercial, business and service or betting office or pay day loan shop[^key-10aad821d639e220e8b0878ca5cff19b]
+#### Class H – mixed use to commercial, business and service or betting office or pay day loan shop[^c-10aad821d639e220e8b0878ca5cff19b]
 
 ##### H. Permitted development
 
 ***Development consisting of a change of use of a building—***
 
-- (a)[^key-0d9ab81ecfdff88d78f4991265b9d65f] from a mixed use for any purpose within Class E (commercial, business and service) of Schedule 2 to the Use Classes Order and as up to 2 flats, to a use for any purpose within that Class;
-- (b)[^key-6baa5037f04c17337864c6458f171278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-ad1d1de56b2e042ea3050f95c71fb6f5] from a mixed use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order and as up to 2 flats, to use for any purpose within Class E (commercial, business and service) of Schedule 2 to that Order;
-- (d)[^key-73ffa940a2ba9605b140b5058bf7c595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) ***from a mixed use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order[^key-fcbc586abce07b6c8dd4f265b1cce608] and as up to 2 flats to a use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order .***
+- (a)[^c-0d9ab81ecfdff88d78f4991265b9d65f] from a mixed use for any purpose within Class E (commercial, business and service) of Schedule 2 to the Use Classes Order and as up to 2 flats, to a use for any purpose within that Class;
+- (b)[^c-6baa5037f04c17337864c6458f171278] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-ad1d1de56b2e042ea3050f95c71fb6f5] from a mixed use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order and as up to 2 flats, to use for any purpose within Class E (commercial, business and service) of Schedule 2 to that Order;
+- (d)[^c-73ffa940a2ba9605b140b5058bf7c595] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) ***from a mixed use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order[^c-fcbc586abce07b6c8dd4f265b1cce608] and as up to 2 flats to a use within article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of the Use Classes Order .***
 
-##### H.1 Development not permitted[^key-d14ba0b2b6e6d0a23746d5092ce14b01]
+##### H.1 Development not permitted[^c-d14ba0b2b6e6d0a23746d5092ce14b01]
 
 Development is not permitted by Class H unless each part of the building used as a flat was, immediately prior to being so used, used for any purpose within, as the case may be, article 3(6)(n) (betting office) or 3(6)(o) (pay day loan shop) of, or Class E of Schedule 2 to, the Use Classes Order.
 
-#### Class I – industrial conversions[^key-6bb9df17fcf3a4d7f2c7fb55ad0fb2e2]
+#### Class I – industrial conversions[^c-6bb9df17fcf3a4d7f2c7fb55ad0fb2e2]
 
 ##### I. Permitted development
 
@@ -898,19 +898,19 @@ Development is not permitted by Class I if the change of use relates to more tha
 
 #### Class J – retail or betting office or pay day loan shop to assembly and leisure
 
-[^key-c51aad70c48609515e46bffca0732165]
+[^c-c51aad70c48609515e46bffca0732165]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class JA – retail, takeaway, betting office, pay day loan shop, and launderette uses to offices
 
-[^key-b6474c9519be342d4be5bae500585758]
+[^c-b6474c9519be342d4be5bae500585758]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class K – casinos to assembly and leisure
 
-[^key-6a57a68f1228d455771fa51991ebb0f0]
+[^c-6a57a68f1228d455771fa51991ebb0f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -930,9 +930,9 @@ Development is not permitted by Class L if it would result in the use—
 - (a) as two or more separate dwellinghouses falling within Class C3 (dwellinghouses) of the Schedule to the Use Classes Order of any building previously used as a single dwellinghouse falling within Class C4 (houses in multiple occupation) of that Schedule; or
 - (b) as two or more separate dwellinghouses falling within Class C4 (houses in multiple occupation) of that Schedule of any building previously used as a single dwellinghouse falling within Class C3 (dwellinghouses) of that Schedule.
 
-#### Class M – certain uses to dwellinghouses[^key-b4c777929867d4739694294674772a78][^key-e824da820c822131c5b501d4765233c1]
+#### Class M – certain uses to dwellinghouses[^c-b4c777929867d4739694294674772a78][^c-e824da820c822131c5b501d4765233c1]
 
-##### M. Permitted development[^key-466c2ea209a41d01e09664c14511ef32]
+##### M. Permitted development[^c-466c2ea209a41d01e09664c14511ef32]
 
 Development consisting of—
 
@@ -954,7 +954,7 @@ Development is not permitted by Class M if—
 - (a) the building was not used for one of the uses referred to in Class M(a)—
   - (i) on 20th March 2013, or
   - (ii) in the case of a building which was in use before that date but was not in use on that date, when it was last in use;
-- (b)[^key-639ae2e8c0bf08e6fa45f757e1cdf067] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-639ae2e8c0bf08e6fa45f757e1cdf067] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the cumulative floor space of the existing building changing use under Class M exceeds 150 square metres;
 - (d) the development (together with any previous development under Class M) would result in more than 150 square metres of floor space in the building having changed use under Class M;
 - (e) the development would result in the external dimensions of the building extending beyond the external dimensions of the existing building at any given point;
@@ -975,22 +975,22 @@ Development is not permitted by Class M if—
 - (b) contamination risks in relation to the building,
 - (c) flooding risks in relation to the building,
 - (d) whether it is undesirable for the building to change to a use falling within Class C3 (dwellinghouses) of the Schedule to the Use Classes Order because of the impact of the change of use—
-  - (i)[^key-70dd3b56db907069838037e91d9d1934] on adequate provision of services of the sort that may be provided by a building falling within article 3(6)(c) (launderette) of the Use Classes Order, but only where there is a reasonable prospect of the building being used to provide such services,
-  - (ii)[^key-4c56dee0aa0080632aca8da174f78c24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e) the design or external appearance of the building , and[^key-45470e307c0e92f6e156d6dfc86fd63b]
-- (f)[^key-d4e191992c4fe6427f88eef88ad7eb58] the provision of adequate natural light in all habitable rooms of the dwellinghouses,
+  - (i)[^c-70dd3b56db907069838037e91d9d1934] on adequate provision of services of the sort that may be provided by a building falling within article 3(6)(c) (launderette) of the Use Classes Order, but only where there is a reasonable prospect of the building being used to provide such services,
+  - (ii)[^c-4c56dee0aa0080632aca8da174f78c24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the design or external appearance of the building , and[^c-45470e307c0e92f6e156d6dfc86fd63b]
+- (f)[^c-d4e191992c4fe6427f88eef88ad7eb58] the provision of adequate natural light in all habitable rooms of the dwellinghouses,
 
 and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
 
-(2) Where the development proposed is development under Class M(a) only, development is permitted subject to the condition that before beginning the development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the items referred to in sub-paragraphs (1)(a) to (d) and (f),[^key-7263940dc38d7977446bb0c1192fc015] and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
+(2) Where the development proposed is development under Class M(a) only, development is permitted subject to the condition that before beginning the development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the items referred to in sub-paragraphs (1)(a) to (d) and (f),[^c-7263940dc38d7977446bb0c1192fc015] and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
 
 (3) Development under Class M is permitted subject to the condition that—
 
-- (a) development under Class M(a), and under Class M(b), if any, must be completed within a period of 3 years starting with the prior approval date; [^key-f03fd9c9e6ce62faeae870fb89707e4f]...
-- (b) a building which has changed use under Class M is to be used as a dwellinghouse within the meaning of Class C3 of the Schedule to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the primary use as such a dwellinghouse ; and[^key-a9b2875cc00cac95d5d3c795de0f35c9]
+- (a) development under Class M(a), and under Class M(b), if any, must be completed within a period of 3 years starting with the prior approval date; [^c-f03fd9c9e6ce62faeae870fb89707e4f]...
+- (b) a building which has changed use under Class M is to be used as a dwellinghouse within the meaning of Class C3 of the Schedule to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the primary use as such a dwellinghouse ; and[^c-a9b2875cc00cac95d5d3c795de0f35c9]
 - (c) where the proposed development includes a change of use of a building from a use falling within Class A1 or Class A2 of the Use Classes Order, the developer must apply for a determination under sub-paragraph (1) or (2) on or before 31 July 2021.
 
-#### Class MA – commercial, business and service uses to dwellinghouses[^key-6c61c6290cf55c6f4183b001654eeeb0]
+#### Class MA – commercial, business and service uses to dwellinghouses[^c-6c61c6290cf55c6f4183b001654eeeb0]
 
 ##### MA. Permitted development
 
@@ -1000,9 +1000,9 @@ and the provisions of paragraph W (prior approval) of this Part apply in relatio
 
 (1) Development is not permitted by Class MA—
 
-- (a)[^key-d041bbe115265503db8763f7c26babdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d041bbe115265503db8763f7c26babdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) unless the use of the building fell within one or more of the classes specified in sub-paragraph (2) for a continuous period of at least 2 years prior to the date of the application for prior approval;
-- (c)[^key-e44e89b31b5b6b417b1e2cec063311e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e44e89b31b5b6b417b1e2cec063311e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) if land covered by, or within the curtilage of, the building—
   - (i) is or forms part of a site of special scientific interest;
   - (ii) is or forms part of a listed building or land within its curtilage;
@@ -1048,23 +1048,23 @@ and the provisions of paragraph W (prior approval) of this Part apply in relatio
 
   the impact of that change of use on the character or sustainability of the conservation area;
 - (f) the provision of adequate natural light in all habitable rooms of the dwellinghouses;
-- (g) the impact on intended occupiers of the development of the introduction of residential use in an area the authority considers to be important for general or heavy industry, waste management, storage and distribution, or a mix of such uses; [^key-5185173454b3a9c010576d6db94816a6]...
+- (g) the impact on intended occupiers of the development of the introduction of residential use in an area the authority considers to be important for general or heavy industry, waste management, storage and distribution, or a mix of such uses; [^c-5185173454b3a9c010576d6db94816a6]...
 - (h) where the development involves the loss of services provided by—
   - (i) a registered nursery, or
   - (ii) a health centre maintained under section 2 or 3 of the National Health Service Act 2006,
 
-  the impact on the local provision of the type of services lost ; and[^key-8b93ac5de956fce749f45c86df62d86e]
+  the impact on the local provision of the type of services lost ; and[^c-8b93ac5de956fce749f45c86df62d86e]
 - (i) where the development meets the fire risk condition, the fire safety impacts on the intended occupants of the building
 
 (3) An application for prior approval for development under Class MA may not be made before 1 August 2021.
 
-(4) The provisions of paragraph W (prior approval) of this Part apply in relation to an application under this paragraph as if—[^key-120aefb18b86e07bf64bfa5166e9780b]
+(4) The provisions of paragraph W (prior approval) of this Part apply in relation to an application under this paragraph as if—[^c-120aefb18b86e07bf64bfa5166e9780b]
 
 - (a) for paragraph (e) of sub-paragraph (2) there were substituted—
 
   > - (e) where—
   >   - (i) sub-paragraph (6) requires the Environment Agency to be consulted, a site-specific flood risk assessment;
-  >   - (ii) sub-paragraph (6A) requires the Building Safety Regulator[^key-632541d50b985780c24198ef9faaa9e4] to be consulted, a statement about the fire safety design principles, concepts and standards that have been applied to the development,
+  >   - (ii) sub-paragraph (6A) requires the Building Safety Regulator[^c-632541d50b985780c24198ef9faaa9e4] to be consulted, a statement about the fire safety design principles, concepts and standards that have been applied to the development,
 
   ;
 - (b) in the introductory words in sub-paragraph (5), for “and highways impacts of the development” there were substituted “impacts of the development, particularly to ensure safe site access”;
@@ -1079,7 +1079,7 @@ and the provisions of paragraph W (prior approval) of this Part apply in relatio
 
 (6) Any building permitted to be used as a dwellinghouse by virtue of Class MA is to remain in use as a dwellinghouse within the meaning of Class C3 of Schedule 1 to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the use as a dwellinghouse.
 
-##### MA.3. Interpretation of Class MA[^key-cd1f959f434780f738604c2cc3eac037]
+##### MA.3. Interpretation of Class MA[^c-cd1f959f434780f738604c2cc3eac037]
 
 Development meets the fire risk condition referred to in paragraph MA.2(2)(i) if the development relates to a building which will—
 
@@ -1096,8 +1096,8 @@ Development consisting of—
   - (i) ***an amusement arcade or centre, or***
   - (ii) a casino,
 
-  ***to a use falling within Class C3 (dwellinghouses) of the Schedule to the Use Classes Order; or[^key-bb51a62a76ff9a32f70fd1555e547241]***
-- (b) ***development referred to in paragraph (a) together with[^key-5ec6e17477953391d3515c96f5bd6381] building operations reasonably necessary to convert the building referred to in paragraph (a) to a use falling within Class C3 (dwellinghouses) of that Schedule.***
+  ***to a use falling within Class C3 (dwellinghouses) of the Schedule to the Use Classes Order; or[^c-bb51a62a76ff9a32f70fd1555e547241]***
+- (b) ***development referred to in paragraph (a) together with[^c-5ec6e17477953391d3515c96f5bd6381] building operations reasonably necessary to convert the building referred to in paragraph (a) to a use falling within Class C3 (dwellinghouses) of that Schedule.***
 
 ##### N.1 Development not permitted
 
@@ -1134,13 +1134,13 @@ Development is not permitted by Class N if—
 
 - (a) transport and highways impacts of the development,
 - (b) contamination risks in relation to the building,
-- (c) flooding risks in relation to the building, [^key-061912874bc3f861aaa9eec6c6338e69]...
-- (d) the design or external appearance of the building, and[^key-21b7ce5190731a50734ca1419fa974c6]
-- (e)[^key-e5be73871ff467c6c1c38136c6dc09b2] the provision of adequate natural light in all habitable rooms of the dwellinghouses,
+- (c) flooding risks in relation to the building, [^c-061912874bc3f861aaa9eec6c6338e69]...
+- (d) the design or external appearance of the building, and[^c-21b7ce5190731a50734ca1419fa974c6]
+- (e)[^c-e5be73871ff467c6c1c38136c6dc09b2] the provision of adequate natural light in all habitable rooms of the dwellinghouses,
 
 and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
 
-(2) Where the development proposed is development under Class N(a) only, development is permitted subject to the condition that before beginning the development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the items referred to in sub-paragraphs (1)(a) to (c) and (e),[^key-cd38cd6f0b128a169879131f0aa3b83c] and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
+(2) Where the development proposed is development under Class N(a) only, development is permitted subject to the condition that before beginning the development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the items referred to in sub-paragraphs (1)(a) to (c) and (e),[^c-cd38cd6f0b128a169879131f0aa3b83c] and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
 
 (3) Development under Class N is permitted subject to the condition that development under Class N(a), and under Class N(b), if any, must be completed within a period of 3 years starting with the prior approval date.
 
@@ -1158,30 +1158,30 @@ Development is not permitted by Class O if—
 - (b) the building was not used for a use falling within Class B1(a) (offices) of the Schedule to the Use Classes Order—
   - (i) on 29th May 2013, or
   - (ii) in the case of a building which was in use before that date but was not in use on that date, when it was last in use;
-- (c)[^key-54af6f1ee11b198419283964570b7d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-54af6f1ee11b198419283964570b7d74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) the site is, or forms part of, a safety hazard area;
 - (e) the site is, or forms part of, a military explosives storage area;
 - (f) the building is a listed building or is within the curtilage of a listed building; or
 - (g) the site is, or contains, a scheduled monument.
 
-##### O.2 Conditions[^key-a740d78a47a739ca8f93515853985bc7]
+##### O.2 Conditions[^c-a740d78a47a739ca8f93515853985bc7]
 
 (1) Development under Class O is permitted subject to the condition that before beginning the development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to—
 
 - (a) transport and highways impacts of the development,
 - (b) contamination risks on the site,
-- (c) flooding risks on the site, [^key-5da49f3a6a2f7205e432a3d4490b0feb]...
-- (d) impacts of noise from commercial premises on the intended occupiers of the development , and[^key-d4432f2eb02e5101138fcb4a7c7a82a7]
-- (e)[^key-760fb132116628d0216215be8cf41865] the provision of adequate natural light in all habitable rooms of the dwellinghouses.
+- (c) flooding risks on the site, [^c-5da49f3a6a2f7205e432a3d4490b0feb]...
+- (d) impacts of noise from commercial premises on the intended occupiers of the development , and[^c-d4432f2eb02e5101138fcb4a7c7a82a7]
+- (e)[^c-760fb132116628d0216215be8cf41865] the provision of adequate natural light in all habitable rooms of the dwellinghouses.
 
 and the provisions of paragraph W (prior approval) apply in relation to that application.
 
-(2) Development under Class O is permitted subject to the following conditions—[^key-487ae685eebe105201f1ce2d6ef2081f]
+(2) Development under Class O is permitted subject to the following conditions—[^c-487ae685eebe105201f1ce2d6ef2081f]
 
 - (a) the development must be completed within a period of 3 years starting with the prior approval date; and
 - (b) the developer must apply for a determination under sub-paragraph (1) on or before 31st July 2021
 
-##### O.3. Interpretation of Class O[^key-91896f475ed66ca1385d0bda845e5971]
+##### O.3. Interpretation of Class O[^c-91896f475ed66ca1385d0bda845e5971]
 
 For the purposes of Class O, “commercial premises” means any premises normally used for the purpose of any commercial or industrial undertaking which existed on the date of application under paragraph O.2(1), and includes any premises licensed under the Licensing Act 2003 or any other place of public entertainment.
 
@@ -1197,7 +1197,7 @@ Development is not permitted by Class P if—
 
 - (a) the building was not used solely for a storage or distribution centre use on 19th March 2014 or in the case of a building which was in use before that date but was not in use on that date, when it was last in use;
 - (b) the building was not used solely for a storage or distribution centre use for a period of at least 4 years before the date development under Class P begins;
-- (c)[^key-13eb70c576fa9794190db0f9b256c561] the prior approval date falls on or after 10th June 2019;
+- (c)[^c-13eb70c576fa9794190db0f9b256c561] the prior approval date falls on or after 10th June 2019;
 - (d) the gross floor space of the existing building exceeds 500 square metres;
 - (e) the site is occupied under an agricultural tenancy, unless the express consent of both the landlord and the tenant has been obtained;
 - (f) less than 1 year before the date the development begins—
@@ -1217,7 +1217,7 @@ Development is not permitted by Class P if—
   - (iii) a military explosives storage area;
 - (i) the building is a listed building or is within the curtilage of a listed building; or
 - (j) the site is, or contains, a scheduled monument;
-- (k)[^key-40276897b7704a74fb4a4f59c75413e8] the development is not completed within a period of 3 years starting with the prior approval date.
+- (k)[^c-40276897b7704a74fb4a4f59c75413e8] the development is not completed within a period of 3 years starting with the prior approval date.
 
 ##### P.2 Conditions
 
@@ -1249,7 +1249,7 @@ For the purposes of Class P—
 - “**storage or distribution centre use**” means a use falling within Class B8 (storage or distribution) of the Schedule to the Use Classes Order; and
 - “**storage or distribution services**” means services provided from premises with a storage or distribution centre use.
 
-#### Class PA – premises in light industrial use to dwellinghouses[^key-2a21387ae9a1de317485124ed83a155a]
+#### Class PA – premises in light industrial use to dwellinghouses[^c-2a21387ae9a1de317485124ed83a155a]
 
 ##### PA. Permitted development
 
@@ -1286,7 +1286,7 @@ Development is not permitted by Class PA if—
   - (ii) contamination risks in relation to the building,
   - (iii) flooding risks in relation to the building,
   - (iv) where the authority considers the building to which the development relates is within an area that is important for providing industrial services or storage or distribution services or a mix of those services (which includes, where the development relates to part of a building, services provided from any other part of the building), whether the introduction of, or an increase in, a residential use of premises in the area would have an adverse impact on the sustainability of the provision of those services,
-  - (v)[^key-6e1be612334269cce2198abb90cac9fd] the provision of adequate natural light in all habitable rooms of the dwellinghouses,
+  - (v)[^c-6e1be612334269cce2198abb90cac9fd] the provision of adequate natural light in all habitable rooms of the dwellinghouses,
 
 and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
 
@@ -1305,7 +1305,7 @@ For the purposes of Class PA—
 - “light industrial use” means a use falling within Class B1(c) (light industrial) of the Schedule to the Use Classes Order;
 - “storage or distribution services” means services provided from premises with a use falling within Class B8 (storage or distribution) of the Schedule to the Use Classes Order.
 
-#### Class Q — buildings on agricultural units and former agricultural buildings to dwellinghouses[^key-b1b3a5686aaa9df41ff6f9b458f73d58]
+#### Class Q — buildings on agricultural units and former agricultural buildings to dwellinghouses[^c-b1b3a5686aaa9df41ff6f9b458f73d58]
 
 ##### Q. Permitted development
 
@@ -1408,7 +1408,7 @@ and the provisions of paragraph W (prior approval) of this Part apply in relatio
 
 #### Class R – agricultural buildings to a flexible commercial use
 
-##### R. Permitted development[^key-de35d13a9d9e7f28c64b8bc75b7a797d]
+##### R. Permitted development[^c-de35d13a9d9e7f28c64b8bc75b7a797d]
 
 Development consisting of a change of use of a building and any land within its curtilage from a use as an agricultural building to a flexible use—
 
@@ -1428,7 +1428,7 @@ Development is not permitted by Class R if—
   - (i) on 3rd July 2012;
   - (ii) in the case of a building which was in use before that date but was not in use on that date, when it was last in use, or
   - (iii) in the case of a building which was brought into use after 3rd July 2012, for a period of at least 10 years before the date development under Class R begins;
-- (b) the cumulative floor space of buildings which have changed use under Class R within an established agricultural unit exceeds 1,000 square metres[^key-168533badcd3ad10b50be27795293c47];
+- (b) the cumulative floor space of buildings which have changed use under Class R within an established agricultural unit exceeds 1,000 square metres[^c-168533badcd3ad10b50be27795293c47];
 - (c) the site is, or forms part of, a military explosives storage area;
 - (d) the site is, or forms part of, a safety hazard area; or
 - (e) the building is a listed building or a scheduled monument.
@@ -1439,10 +1439,10 @@ Development is permitted by Class R subject to the following conditions—
 
 - (a) a site which has changed use under Class R may, subject to paragraph R.3, subsequently change use to another use falling within one of the use classes comprising the flexible use;
 - (b) for the purposes of the Use Classes Order and this Order, after a site has changed use under Class R the site is to be treated as having a sui generis use;
-- (c) after a site has changed use under Class R, the planning permissions granted by Class E[^key-3b63d740c07e9d0565cdd95cfce50d78] of Part 7 of this Schedule apply to the building, subject to the following modifications—
+- (c) after a site has changed use under Class R, the planning permissions granted by Class E[^c-3b63d740c07e9d0565cdd95cfce50d78] of Part 7 of this Schedule apply to the building, subject to the following modifications—
   - (i) “**curtilage**” has the meaning given in paragraph X (interpretation) of this Part;
   - (ii) any reference to “office building” is to be read as a reference to the building which has changed use under Class R.
-- (d)[^key-952573ba089eb2c11c5a28ac2e4d0ca4] where the site is to be used for general industrial purposes within Class B2, it must only be used for the processing of—
+- (d)[^c-952573ba089eb2c11c5a28ac2e4d0ca4] where the site is to be used for general industrial purposes within Class B2, it must only be used for the processing of—
   - (i) raw goods, excluding livestock, which are produced on the site and are to be sold on the site, or
   - (ii) raw goods mentioned in paragraph (i) together with goods ancillary to the processing of those raw goods
 
@@ -1470,11 +1470,11 @@ and the provisions of paragraph W (prior approval) apply in relation to that app
 
 For the purposes of Class R, “**flexible use**” means use of any building or land for a use falling within the list of uses set out in Class R and change of use (in accordance with Class R) between any use in that list.
 
-#### Class S – agricultural buildings to state-funded school ...[^key-bb256dbcfad7d225d9b2940554ecc50a]
+#### Class S – agricultural buildings to state-funded school ...[^c-bb256dbcfad7d225d9b2940554ecc50a]
 
 ##### S. Permitted development
 
-***Development consisting of a change of use of a building and any land within its curtilage from a use as an agricultural building to use as a state-funded school falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order[^key-a4921c03921f06d6e8927960cfcbe460] .***
+***Development consisting of a change of use of a building and any land within its curtilage from a use as an agricultural building to use as a state-funded school falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order[^c-a4921c03921f06d6e8927960cfcbe460] .***
 
 ##### S.1 Development not permitted
 
@@ -1497,7 +1497,7 @@ Development is not permitted by Class S if—
   unless both the landlord and the tenant have agreed in writing that the site is no longer required for agricultural use;
 - (e) development under Class A(a) or Class B(a) of Part 6 of this Schedule (agricultural buildings and operations) has been carried out on the established agricultural unit—
   - (i) since 20th March 2013; or
-  - (ii) where development under Class S[^key-d89d838af6f45621d60c1087f5803489] begins after 20th March 2023, during the period which is 10 years before the date development under Class S begins;
+  - (ii) where development under Class S[^c-d89d838af6f45621d60c1087f5803489] begins after 20th March 2023, during the period which is 10 years before the date development under Class S begins;
 - (f) the site is, or forms part of—
   - (i) a site of special scientific interest;
   - (ii) a safety hazard area; or
@@ -1509,13 +1509,13 @@ Development is not permitted by Class S if—
 
 (1) Development is permitted by Class S subject to the following conditions—
 
-- (a)[^key-55461551fc9b7a27290cb6f9505aee03] the site is to be used as a state-funded school falling within Class F.1(a) of Schedule 2 to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the primary use of the site as such a state-funded school; and
+- (a)[^c-55461551fc9b7a27290cb6f9505aee03] the site is to be used as a state-funded school falling within Class F.1(a) of Schedule 2 to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the primary use of the site as such a state-funded school; and
 - (b) before changing the use of the site under Class S the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to—
   - (i) transport and highways impacts of the development,
   - (ii) noise impacts of the development,
   - (iii) contamination risks on the site,
   - (iv) flooding risks on the site, and
-  - (v) whether the location or siting of the building makes it otherwise impractical or undesirable for the building to change to use as a state-funded school [^key-ef35a568882741fc067d641acf3f2a12]...,
+  - (v) whether the location or siting of the building makes it otherwise impractical or undesirable for the building to change to use as a state-funded school [^c-ef35a568882741fc067d641acf3f2a12]...,
 
   and the provisions of paragraph W (prior approval) of this Part apply in relation to that application.
 
@@ -1525,9 +1525,9 @@ Development is not permitted by Class S if—
 
 (4) For the purposes of sub-paragraph (3), “**associated operational development**” means building or other operations in relation to the same building or land which are reasonably necessary to use the building or land for the use proposed under Class S.
 
-#### Class T – commercial, business and service, hotels etc to state-funded schools[^key-239d12058189ee64331ab5f28ca64ea6]
+#### Class T – commercial, business and service, hotels etc to state-funded schools[^c-239d12058189ee64331ab5f28ca64ea6]
 
-##### T. Permitted development[^key-5493f024ee8ff1f8c5363f1d730e640e]
+##### T. Permitted development[^c-5493f024ee8ff1f8c5363f1d730e640e]
 
 Development consisting of a change of use of a building and any land within its curtilage from a use falling within one of the following provisions of the Use Classes Order—
 
@@ -1542,7 +1542,7 @@ to use as a state-funded school falling within Class F.1(a) of Schedule 2 to tha
 
 Development is not permitted by Class T if—
 
-- (a)[^key-e2e47878c4490d4d1176ae51e8f84927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e2e47878c4490d4d1176ae51e8f84927] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the site is, or forms part of, a military explosives storage area;
 - (c) the site is, or forms part of, a safety hazard area; or
 - (d) the building is a listed building or a scheduled monument.
@@ -1551,7 +1551,7 @@ Development is not permitted by Class T if—
 
 (1) Development is permitted by Class T subject to the following conditions—
 
-- (a)[^key-5dc97002cb97844083640a31d567ad06] the site is to be used as a state-funded school falling within Class F.1(a) of Schedule 2 to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the primary use of the site as such a state-funded school;
+- (a)[^c-5dc97002cb97844083640a31d567ad06] the site is to be used as a state-funded school falling within Class F.1(a) of Schedule 2 to the Use Classes Order and for no other purpose, except to the extent that the other purpose is ancillary to the primary use of the site as such a state-funded school;
 - (b) before beginning the development, the developer must apply to the local planning authority for a determination as to whether the prior approval of the local planning authority will be required as to—
   - (i) transport and highways impacts of the development;
   - (ii) noise impacts of the development; and
@@ -1592,32 +1592,32 @@ Development is not permitted by Class V if—
 
 (2) The application must be accompanied by—
 
-- (a) a written description of the proposed development, which, in relation to development proposed under Class [^key-e804affc5b0384bcd8759e9694963a3c]... M, N or Q of this Part, must in the same application[^key-5e405c69f617991dab23f46b408038ba] include any building or other operations;
+- (a) a written description of the proposed development, which, in relation to development proposed under Class [^c-e804affc5b0384bcd8759e9694963a3c]... M, N or Q of this Part, must in the same application[^c-5e405c69f617991dab23f46b408038ba] include any building or other operations;
 - (b) a plan indicating the site and showing the proposed development;
-- (ba)[^key-39fec9ac01cccb3d1d1c42d08d27fad7] in relation to development proposed under Classes G[^key-7fedd2fabb6c0dcdbcf5d98e069e39f1] M, MA,[^key-be96b2dff49035caf7050afa4c93609d] N, O, P, PA and Q of this Part, a statement specifying the net increase in dwellinghouses proposed by the development (for the purposes of this sub-paragraph, “net increase in dwellinghouses” is the number of dwellinghouses proposed by the development that is additional to the number of dwellinghouses on the site immediately prior to the development);
-- (bb)[^key-5634cb6d587e972b0afd8940e21d7270] in relation to development proposed under Class Q of this Part, a statement specifying—
+- (ba)[^c-39fec9ac01cccb3d1d1c42d08d27fad7] in relation to development proposed under Classes G[^c-7fedd2fabb6c0dcdbcf5d98e069e39f1] M, MA,[^c-be96b2dff49035caf7050afa4c93609d] N, O, P, PA and Q of this Part, a statement specifying the net increase in dwellinghouses proposed by the development (for the purposes of this sub-paragraph, “net increase in dwellinghouses” is the number of dwellinghouses proposed by the development that is additional to the number of dwellinghouses on the site immediately prior to the development);
+- (bb)[^c-5634cb6d587e972b0afd8940e21d7270] in relation to development proposed under Class Q of this Part, a statement specifying—
   - (i) the number of dwellinghouses proposed, and
   - (ii) whether previous development has taken place under Class Q within the established agricultural unit and, if so, the number of dwellinghouses and the cumulative floor space developed under Class Q;
-- (bc)[^key-3d9902b90e8c973e7167c0e5f437521a] in relation to development proposed under Class G,[^key-c6566ac35fdf4245b8cbbbff3de3f38e] M, MA,[^key-631096acbc30450813a279b6b676ff6f] N, O, PA or Q of this Part, a floor plan indicating the total floor space in square metres of each dwellinghouse,[^key-398d59491a6847c5118b0bff5eab6f32] the dimensions and proposed use of each room, the position and dimensions of windows, doors and walls, and the elevations of the dwellinghouses;
+- (bc)[^c-3d9902b90e8c973e7167c0e5f437521a] in relation to development proposed under Class G,[^c-c6566ac35fdf4245b8cbbbff3de3f38e] M, MA,[^c-631096acbc30450813a279b6b676ff6f] N, O, PA or Q of this Part, a floor plan indicating the total floor space in square metres of each dwellinghouse,[^c-398d59491a6847c5118b0bff5eab6f32] the dimensions and proposed use of each room, the position and dimensions of windows, doors and walls, and the elevations of the dwellinghouses;
 - (c) the developer's contact address;
 - (d) the developer's email address if the developer is content to receive communications electronically; and
 - (e) where sub-paragraph (6) requires the Environment Agency [^c22501351] to be consulted, a site-specific flood risk assessment,
 
 together with any fee required to be paid.
 
-(2ZA)[^key-b230647366ff3731a3e4321bd1499d23] For the purposes of sub-paragraph (2)(bb)(ii), previous development within the established agricultural unit includes any development under Class Q that—
+(2ZA)[^c-b230647366ff3731a3e4321bd1499d23] For the purposes of sub-paragraph (2)(bb)(ii), previous development within the established agricultural unit includes any development under Class Q that—
 
 - (a) ceased to be part of the established agricultural unit after it was developed, or
 - (b) was developed after the site ceased to be part of the established agricultural unit where any other site on the established agricultural unit had already been developed under Class Q;
 
-(2A)[^key-184a65c297ff7fb2e2f1c44936118503]  Where the application relates to prior approval as to adequate natural light, the local planning authority must refuse prior approval if adequate natural light is not provided in all the habitable rooms of the dwellinghouses.
+(2A)[^c-184a65c297ff7fb2e2f1c44936118503]  Where the application relates to prior approval as to adequate natural light, the local planning authority must refuse prior approval if adequate natural light is not provided in all the habitable rooms of the dwellinghouses.
 
 (3) The local planning authority may refuse an application where, in the opinion of the authority—
 
 - (a) the proposed development does not comply with, or
 - (b) the developer has provided insufficient information to enable the authority to establish whether the proposed development complies with,
 
-any conditions, except for conditions in paragraph[^key-844a5b317205b2c511620592fa356549] G.1(d)(iv), paragraph M.2(1)(f), paragraph MA.2(1)(f),[^key-3528d68564d83bbf128ea77aa7bade9a] paragraph N.2(1)(e), paragraph O.2(1)(e), paragraph PA.2(1)(v), or paragraph Q.2(1)(g), limitations or restrictions specified in this Part as being applicable to the development in question.
+any conditions, except for conditions in paragraph[^c-844a5b317205b2c511620592fa356549] G.1(d)(iv), paragraph M.2(1)(f), paragraph MA.2(1)(f),[^c-3528d68564d83bbf128ea77aa7bade9a] paragraph N.2(1)(e), paragraph O.2(1)(e), paragraph PA.2(1)(v), or paragraph Q.2(1)(g), limitations or restrictions specified in this Part as being applicable to the development in question.
 
 (4) Sub-paragraphs (5) to (8) and (10) do not apply where a local planning authority refuses an application under sub-paragraph (3) and for the purposes of section 78 (appeals) of the Act such a refusal is to be treated as a refusal of an application for approval.
 
@@ -1640,7 +1640,7 @@ any conditions, except for conditions in paragraph[^key-844a5b317205b2c511620592
   - (i) describes the proposed development;
   - (ii) provides the address of the proposed development;
   - (iii) specifies the date by which representations are to be received by the local planning authority; or
-- (b) by serving a notice in that form—[^key-9cee770d06bdb3865070c06a74ef1e35]
+- (b) by serving a notice in that form—[^c-9cee770d06bdb3865070c06a74ef1e35]
   - (i) on any adjoining owner or occupier; and
   - (ii) where the proposed development relates to part of a building, on any owner or occupier of the other part or parts of the building
 
@@ -1653,7 +1653,7 @@ any conditions, except for conditions in paragraph[^key-844a5b317205b2c511620592
 (10) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of any consultation under sub-paragraphs (5) or (6) and any notice given under sub-paragraph (8);
-- (b)[^key-e59deba5395f89329dce7010ccc97a47] have regard to the National Planning Policy Framework [^key-faf09941edd64da20c6a653c0f921c8f]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application; and
+- (b)[^c-e59deba5395f89329dce7010ccc97a47] have regard to the National Planning Policy Framework [^c-faf09941edd64da20c6a653c0f921c8f]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application; and
 - (c) in relation to the contamination risks on the site—
   - (i) determine whether, as a result of the proposed change of use, taking into account any proposed mitigation, the site will be contaminated land as described in Part 2A of the Environmental Protection Act 1990 [^c22501381], and in doing so have regard to the Contaminated Land Statutory Guidance issued by the Secretary of State for the Environment, Food and Rural Affairs in April 2012 [^c22501391], and
   - (ii) if they determine that the site will be contaminated land, refuse to give prior approval.
@@ -1673,7 +1673,7 @@ unless the local planning authority and the developer agree otherwise in writing
 
 (13) The local planning authority may grant prior approval unconditionally or subject to conditions reasonably related to the subject matter of the prior approval.
 
-(14)[^key-26ed6751b598c063573151b852eade01] When computing the number of days in sub-paragraph (8)(a), any day which is a public holiday must be disregarded.
+(14)[^c-26ed6751b598c063573151b852eade01] When computing the number of days in sub-paragraph (8)(a), any day which is a public holiday must be disregarded.
 
 ##### X. Interpretation of Part 3
 
@@ -1683,7 +1683,7 @@ For the purposes of Part 3—
 - “**agricultural tenancy**” means a tenancy under—
   - (a) the Agricultural Holdings Act 1986 [^c22501401]; or
   - (b) the Agricultural Tenancies Act 1995 [^c22501411];
-- “**curtilage**” means, for the purposes of Class [^key-5c951fd34c01a9b88639b610727fe622]... R or S only—
+- “**curtilage**” means, for the purposes of Class [^c-5c951fd34c01a9b88639b610727fe622]... R or S only—
   - (a) the piece of land, whether enclosed or unenclosed, immediately beside or around the agricultural building, closely associated with and serving the purposes of the agricultural building, or
   - (b) an area of land immediately beside or around the agricultural building no larger than the land area occupied by the agricultural building,
 
@@ -1691,7 +1691,7 @@ For the purposes of Part 3—
 - “**established agricultural unit**” means agricultural land occupied as a unit for the purposes of agriculture—
   - (a) for the purposes of Class R, on or before 3rd July 2012 or for 10 years before the date the development begins; or
   - (b) for the purposes of Class Q or S, on or before 20th March 2013 or for 10 years before the date the development begins;
-- “habitable rooms” means any rooms used or intended to be used for sleeping or living which are not solely used for cooking purposes, but does not include bath or toilet facilities, service rooms, corridors, laundry rooms, hallways or utility rooms;[^key-91fdfe366cb79a85572d27a7f5d75564]
+- “habitable rooms” means any rooms used or intended to be used for sleeping or living which are not solely used for cooking purposes, but does not include bath or toilet facilities, service rooms, corridors, laundry rooms, hallways or utility rooms;[^c-91fdfe366cb79a85572d27a7f5d75564]
 - “**pay day loan shop**” has the meaning given in the Use Classes Order [^c22501421];
 - “**prior approval date**” means the date on which—
   - (a) prior approval is given; or
@@ -1701,7 +1701,7 @@ For the purposes of Part 3—
 - “**state-funded school**” means a school funded wholly or mainly from public funds, including—
   - (a) an Academy school, an alternative provision Academy or a 16 to 19 Academy established under the Academies Act 2010 [^c22501441];
   - (b) a school maintained by a local authority, as defined in section 142(1) of the School Standards and Framework Act 1998 [^c22501451]; and
-- “**sui generis use**” means a use for which no class is specified in Schedule 1 or 2[^key-5bc174e55a4775d7bc7ebf42151892d7] to the Use Classes Order.
+- “**sui generis use**” means a use for which no class is specified in Schedule 1 or 2[^c-5bc174e55a4775d7bc7ebf42151892d7] to the Use Classes Order.
 
 ### PART 4 — Temporary buildings and uses
 
@@ -1740,19 +1740,19 @@ Development is permitted by Class A subject to the conditions that, when the ope
 
 Development is not permitted by Class B if—
 
-- (a)[^key-4ebcf79cb8b5d7003a2347160f5b33d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-4ebcf79cb8b5d7003a2347160f5b33d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the land in question is a building or is within the curtilage of a building;
-- (c)[^key-655df5283c35bf1d48221010334f2274] the use of the land is for the siting of any caravan except a caravan which—
+- (c)[^c-655df5283c35bf1d48221010334f2274] the use of the land is for the siting of any caravan except a caravan which—
   - (i) is a motor vehicle designed or adapted for human habitation; and
   - (ii) is sited on the land in connection with a festival;
 - (d) the land is, or is within, a site of special scientific interest and the use of the land is for—
   - (i) motor car and motorcycle racing including trials of speed or other motor sports, and practising for these activities;
   - (ii) clay pigeon shooting; or
-  - (iii) any war game;[^key-7b670998fffc825779798077930abe6b]
-- (e) the use of the land is for the display of an advertisement; or[^key-f2b18c01ff121a2be72a07920ec4d698]
+  - (iii) any war game;[^c-7b670998fffc825779798077930abe6b]
+- (e) the use of the land is for the display of an advertisement; or[^c-f2b18c01ff121a2be72a07920ec4d698]
 - (f) the use of land is for camping, except when in connection with a festival.
 
-#### Class BA - additional temporary use of land during the relevant period[^key-ac8806ad6c7e41f76624917718c38e39]
+#### Class BA - additional temporary use of land during the relevant period[^c-ac8806ad6c7e41f76624917718c38e39]
 
 ##### BA. Permitted development
 
@@ -1780,9 +1780,9 @@ Development is not permitted by Class BA if—
 For the purposes of Class BA—
 
 - In calculating the number of days during which development is permitted, no account is to be taken of any day during which development is permitted under Class B of Part 4, or Class BA of Part 12, of this Schedule; and
-- “the relevant period” means 1st January 2021 to 31st December 2021[^key-eca873556db1b10522e236b0ee57506f].
+- “the relevant period” means 1st January 2021 to 31st December 2021[^c-eca873556db1b10522e236b0ee57506f].
 
-#### Class BB – moveable structures for historic visitor attractions and listed pubs, restaurants etc[^key-9ddc469bafb40d36cbc731216451a9e7]
+#### Class BB – moveable structures for historic visitor attractions and listed pubs, restaurants etc[^c-9ddc469bafb40d36cbc731216451a9e7]
 
 ##### BB. Permitted development
 
@@ -1859,7 +1859,7 @@ any conditions and limitations specified in Class BB as being applicable to the 
 (9) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of consultation under sub-paragraph (5) and any notice given under sub-paragraph (7); and
-- (b) have regard to the National Planning Policy Framework [^key-726472ae826a179f99d9f326ee518a02]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b) have regard to the National Planning Policy Framework [^c-726472ae826a179f99d9f326ee518a02]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (10) The development must not begin before the occurrence of one of the following—
 
@@ -1885,7 +1885,7 @@ For the purposes of Class BB—
 - “**original condition**”, in relation to land on which a moveable structure is provided, means the condition of the land before the moveable structure was provided;
 - “**relevant period**” means the period of 12 months beginning with the day on which one of the events described in paragraph BB.3(10) occurs.
 
-#### Class BC – temporary recreational campsites[^key-551ded25b71d7c4d4d60369c62b64d75]
+#### Class BC – temporary recreational campsites[^c-551ded25b71d7c4d4d60369c62b64d75]
 
 ##### BC. Permitted development
 
@@ -1932,7 +1932,7 @@ Development is permitted by Class BC subject to the following conditions—
 (4) The local planning authority must, when determining the application—
 
 - (a) take into account the response by the Environment Agency; and
-- (b) have regard to the National Planning Policy Framework [^key-a7d03c429b30e993ab2caad69d19b004]... so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b) have regard to the National Planning Policy Framework [^c-a7d03c429b30e993ab2caad69d19b004]... so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (5) The development must not begin before either—
 
@@ -1941,21 +1941,21 @@ Development is permitted by Class BC subject to the following conditions—
 
 (6) The local planning authority may grant prior approval unconditionally or subject to conditions reasonably related to the subject matter of the prior approval.
 
-#### Class C – use as a state-funded school for 2 academic years[^key-b8a20de7903d7f4f81c1c5fb666392f9]
+#### Class C – use as a state-funded school for 2 academic years[^c-b8a20de7903d7f4f81c1c5fb666392f9]
 
 ##### C. Permitted development
 
-***The use of a building and any land within its curtilage as a state-funded school falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order[^key-10314b84921346ddc2897ecabe8c467a] for 2 academic years[^key-7147408399d28e61e9d0bf907d94917f].***
+***The use of a building and any land within its curtilage as a state-funded school falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order[^c-10314b84921346ddc2897ecabe8c467a] for 2 academic years[^c-7147408399d28e61e9d0bf907d94917f].***
 
 ##### C.1 Development not permitted
 
 Development is not permitted by Class C if—
 
-- (a) the existing use of the site is not a class of use specified in Schedule 1 or 2[^key-37c2cbbfed444c312f84baa348054848] to the Use Classes Order;
+- (a) the existing use of the site is not a class of use specified in Schedule 1 or 2[^c-37c2cbbfed444c312f84baa348054848] to the Use Classes Order;
 - (b) the site is, or forms part of, a military explosives storage area;
 - (c) the site is, or forms part of, a safety hazard area;
 - (d) the building is a listed building or a scheduled monument; or
-- (e)[^key-730839f2bd78460633910686340c72d6] the building is used for a purpose falling within Class F.2 (local community) of Schedule 2 to the Use Classes Order[^key-5b4f5397808a9361a0d2be17d58d5072].
+- (e)[^c-730839f2bd78460633910686340c72d6] the building is used for a purpose falling within Class F.2 (local community) of Schedule 2 to the Use Classes Order[^c-5b4f5397808a9361a0d2be17d58d5072].
 
 ##### C.2 Conditions
 
@@ -1963,33 +1963,33 @@ Development is permitted by Class C subject to the following conditions—
 
 - (a) the site must be approved for use as a state-funded school by the relevant Minister;
 - (b) the relevant Minister must notify the local planning authority of the approval and of the proposed opening date of the school;
-- (c) the site is to be used as a state-funded school and for no other purpose, including any other purpose falling within Class F.1(a) (provision of education) of Schedule 2[^key-7cca2e0555d7295420adbd24a1dad7a1] to the Use Classes Order, except to the extent that the other purpose is ancillary to the primary use of the site as a state-funded school;
-- (d)[^key-db3b10daf409e401a99ffd2eee8980bb] the permission is granted for up to 2 academic years and it may only be used once in relation to a particular site; [^key-f1b13b18f2097df6b21f258fff951aa7]...
-- (da)[^key-b61891c44955510f5ec54bc80e4f66b1] for the purposes of the Use Classes Order as it applies to Class T of Part 3 of Schedule 2 to this Order, during the period of use as a state-funded school the building and any land within its curtilage retains the use class it had before changing to the use as a state-funded school;
+- (c) the site is to be used as a state-funded school and for no other purpose, including any other purpose falling within Class F.1(a) (provision of education) of Schedule 2[^c-7cca2e0555d7295420adbd24a1dad7a1] to the Use Classes Order, except to the extent that the other purpose is ancillary to the primary use of the site as a state-funded school;
+- (d)[^c-db3b10daf409e401a99ffd2eee8980bb] the permission is granted for up to 2 academic years and it may only be used once in relation to a particular site; [^c-f1b13b18f2097df6b21f258fff951aa7]...
+- (da)[^c-b61891c44955510f5ec54bc80e4f66b1] for the purposes of the Use Classes Order as it applies to Class T of Part 3 of Schedule 2 to this Order, during the period of use as a state-funded school the building and any land within its curtilage retains the use class it had before changing to the use as a state-funded school;
 - (db) for the purposes of Class S of Part 3 of Schedule 2 to this Order, during the period of use as a state-funded school the building and any land within its curtilage retains the use as an agricultural building before changing to the use as a state-funded school; and
-- (e)[^key-8919dfac4f5fdac26e323741f281b512] the site reverts to its previous lawful use at the end of the second academic year or when it is no longer required for use as a state-funded school, whichever is earlier; and
-- (f)[^key-e5afe5f269d85396035422f4ee64362b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-8919dfac4f5fdac26e323741f281b512] the site reverts to its previous lawful use at the end of the second academic year or when it is no longer required for use as a state-funded school, whichever is earlier; and
+- (f)[^c-e5afe5f269d85396035422f4ee64362b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### C.3 Interpretation of Class C
 
 For the purposes of Class C—
 
 - “**academic year**” means any period beginning with 1st August and ending with the next 31st July;
-- [^key-8e7dc1b639285a9e33528c54db2e19d7]...
-- [^key-8e7dc1b639285a9e33528c54db2e19d7]...
-- [^key-8e7dc1b639285a9e33528c54db2e19d7]...
+- [^c-8e7dc1b639285a9e33528c54db2e19d7]...
+- [^c-8e7dc1b639285a9e33528c54db2e19d7]...
+- [^c-8e7dc1b639285a9e33528c54db2e19d7]...
 - “**relevant Minister**” means the Secretary of State with policy responsibility for schools;
 - “**state-funded school**” means a school funded wholly or mainly from public funds, including—
   - (a) an Academy school, an alternative provision Academy or a 16 to 19 Academy established under the Academies Act 2010;
   - (b) a school maintained by a local authority, as defined in section 142(1) of the School Standards and Framework Act 1998;
-- [^key-8e7dc1b639285a9e33528c54db2e19d7]...
-- [^key-8e7dc1b639285a9e33528c54db2e19d7]...
+- [^c-8e7dc1b639285a9e33528c54db2e19d7]...
+- [^c-8e7dc1b639285a9e33528c54db2e19d7]...
 
-#### Class CA – provision of a temporary state-funded school on previously vacant commercial land[^key-0795b138467eebd38d46fc42b84352a0]
+#### Class CA – provision of a temporary state-funded school on previously vacant commercial land[^c-0795b138467eebd38d46fc42b84352a0]
 
 ##### CA. Permitted Development
 
-***Development consisting of the provision of temporary school buildings on vacant commercial land and the use of that land as a state-funded school falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order[^key-5c0354d7292de89672da0489341bd3a5] for up to 3 academic years.***
+***Development consisting of the provision of temporary school buildings on vacant commercial land and the use of that land as a state-funded school falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order[^c-5c0354d7292de89672da0489341bd3a5] for up to 3 academic years.***
 
 ##### CA.1. Development not permitted
 
@@ -2038,13 +2038,13 @@ For the purposes of Class CA—
   - (b) a determination that such prior approval is not required is given or the period for giving such a determination set out in paragraph W(11)(c) of Part 3 of this Schedule (as applied with modifications by paragraph CA.2(2)) has expired without the applicant being notified whether prior approval is required, given or refused; and
 - “vacant commercial land” means any land on which—
   - (a) all buildings have been demolished; and
-  - (b) which was last used for a purpose falling within one of the following provisions of the Use Classes Order—[^key-34db2df8a30f68ba2a15062cf5014b49]
+  - (b) which was last used for a purpose falling within one of the following provisions of the Use Classes Order—[^c-34db2df8a30f68ba2a15062cf5014b49]
     - (i) Class C1 (hotels) of Schedule 1;
     - (ii) Class C2 (residential institutions) of Schedule 1;
     - (iii) Class C2A (secure residential institutions) of Schedule 1;
     - (iv) Class E (commercial, business and service) of Schedule 2.
 
-#### Class CB – temporary provision of buildings for a school with a RAAC-affected building[^key-91c00741ed81c7fd9d68eb626d858881]
+#### Class CB – temporary provision of buildings for a school with a RAAC-affected building[^c-91c00741ed81c7fd9d68eb626d858881]
 
 ##### CB. Permitted Development
 
@@ -2062,7 +2062,7 @@ Development is not permitted by Class CB—
 - (b) if any part of any building provided would be within 5 metres of the boundary of the curtilage of land adjacent to the school land, where that adjacent land is used for a purpose within Part C (residential purposes) of Schedule 1 to the Use Classes Order;
 - (c) if any building provided would have more than two storeys;
 - (d) if the height of any building provided would exceed 9 metres;
-- (e) after the end of the period of five[^key-7c7296cf73ad5431e7a0e06c522cd420] years beginning on 25th October 2023 and ending at 11.59 p.m. on 24th October 2028.
+- (e) after the end of the period of five[^c-7c7296cf73ad5431e7a0e06c522cd420] years beginning on 25th October 2023 and ending at 11.59 p.m. on 24th October 2028.
 
 ##### CB.2. Conditions
 
@@ -2103,13 +2103,13 @@ For the purposes of Class CB—
 - “**school**” does not include buildings or land provided at any time under Class C or CA;
 - “**school land**” means land available for use by a school for a purpose falling within Class F.1(a) (provision of education) of Schedule 2 to the Use Classes Order.
 
-#### Class D – commercial, business and service etc to temporary flexible use[^key-61166d9cfe7bcd2a251cb7f7888ed267]
+#### Class D – commercial, business and service etc to temporary flexible use[^c-61166d9cfe7bcd2a251cb7f7888ed267]
 
 ##### D. Permitted development
 
 ***Development consisting of a change of use of a building and any land within its curtilage—***
 
-- (a)[^key-b1d071f35e326403405d921fe4bdb3cb] from a use falling within one of the following provisions of the Use Classes Order—
+- (a)[^c-b1d071f35e326403405d921fe4bdb3cb] from a use falling within one of the following provisions of the Use Classes Order—
   - (i) article 3(6)(n) (betting office);
   - (ii) article 3(6)(o) (pay day loan shop);
   - (iii) article 3(6)(r) (hot food takeaway); or
@@ -2121,7 +2121,7 @@ For the purposes of Class CB—
   - (iv) Class F.1(d) (public library or public reading room); or
   - (v) Class F.1(e) (public hall or exhibition hall),
 
-***for a single continuous period of up to 3 years[^key-ccf04d2c0446d767b3c510e656437d3b] beginning on the date the building and any land within its curtilage begins to be used for the flexible use or on the date given in the notice under paragraph D.2(a), whichever is the earlier.***
+***for a single continuous period of up to 3 years[^c-ccf04d2c0446d767b3c510e656437d3b] beginning on the date the building and any land within its curtilage begins to be used for the flexible use or on the date given in the notice under paragraph D.2(a), whichever is the earlier.***
 
 ##### D.1 Development not permitted
 
@@ -2132,40 +2132,40 @@ Development is not permitted by Class D if—
 - (c) the site is, or forms part of, a military explosives storage area;
 - (d) the site is, or forms part of, a safety hazard area;
 - (e) the building is a listed building or a scheduled monument; or
-- (f)[^key-890806c0db92866715ae30daf1385acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-890806c0db92866715ae30daf1385acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### D.2 Conditions
 
 Development is permitted by Class D subject to the following conditions—
 
 - (a) the developer must notify the local planning authority of the date the site will begin to be used for one of the flexible uses, and what that use will be, before the use begins;
-- (b) at any given time during the 3 year[^key-c4f0652162a59f00e6038cdd95ae17be] period referred to in Class D the site is used for a purpose or purposes falling within just one of the use classes comprising the flexible use;
+- (b) at any given time during the 3 year[^c-c4f0652162a59f00e6038cdd95ae17be] period referred to in Class D the site is used for a purpose or purposes falling within just one of the use classes comprising the flexible use;
 - (c) the site may at any time during the 3 year[^M_F_638df2e5-735f-4d04-a594-0255ea55015e] period change use to a use falling within one of the other use classes comprising the flexible use, subject to further notification as provided in paragraph (a);
 - (d) for the purposes of the Use Classes Order and this Order, during the period of flexible use the site retains the use class it had before changing to any of the flexible uses under Class D;
 - (e) the site reverts to its previous lawful use at the end of the period of flexible use;
-- (f)[^key-9bd13a524b55d9fb4f8804f6921990cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-9bd13a524b55d9fb4f8804f6921990cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### D.3 Interpretation of Class D
 
 For the purposes of Class D—
 
-- [^key-ad0ba0ad8da059ab670bf3831053cc50]...
+- [^c-ad0ba0ad8da059ab670bf3831053cc50]...
 - “**flexible use**” means use of any building or land for a use falling within the list of uses set out in Class D(b) and change of use (in accordance with Class D) between any use in that list.
 
-#### Class DA - Restaurants and cafes, drinking establishments and drinking establishments with expanded food provision to temporarily provide takeaway food[^key-803a5e0dd2757e36bfa73699f7a16e63]
+#### Class DA - Restaurants and cafes, drinking establishments and drinking establishments with expanded food provision to temporarily provide takeaway food[^c-803a5e0dd2757e36bfa73699f7a16e63]
 
 ##### DA. Permitted Development
 
 ***Development consisting of a change of use of a building and any land within its curtilage from—***
 
 - (a) ***a use falling within—***
-  - (i)[^key-166928c1d9f3a019ab58a5709f9a040d] article 3(6)(p) (drinking establishments etc.) of the Use Classes Order;
+  - (i)[^c-166928c1d9f3a019ab58a5709f9a040d] article 3(6)(p) (drinking establishments etc.) of the Use Classes Order;
   - (ii) article 3(6)(q) (drinking establishments with expanded food provision) of that Order; or
   - (iii) Class E(b) (sale of food and drink mostly for consumption on the premises) of Schedule 2 to that Order; or
-- (b) ***a mixed use for any purpose within article 3(6)(p) and Class E(b),[^key-bde434b40742537078653d119fd3f97e] [^key-80ed600079bedad5caa0c6698b5229c9]...***
-- (c)[^key-9f346608c551b22bd1b562281654d230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) ***a mixed use for any purpose within article 3(6)(p) and Class E(b),[^c-bde434b40742537078653d119fd3f97e] [^c-80ed600079bedad5caa0c6698b5229c9]...***
+- (c)[^c-9f346608c551b22bd1b562281654d230] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-***to a use, at any time during the period beginning with 10.00 a.m. on 24th March 2020 and ending with 23rd March 2022[^key-22466dcb103294fb489922d1f682b75d] (“the relevant period”), for the provision of takeaway food.***
+***to a use, at any time during the period beginning with 10.00 a.m. on 24th March 2020 and ending with 23rd March 2022[^c-22466dcb103294fb489922d1f682b75d] (“the relevant period”), for the provision of takeaway food.***
 
 ##### DA.1. Conditions
 
@@ -2179,9 +2179,9 @@ Development is permitted by Class DA subject to the following conditions—
 
 For the purposes of Class DA—
 
-the “provision of takeaway food” includes any use for any purpose within article 3(6)(r) of[^key-bdaedc7381cf1c0a09876c4624eca7c0] the Use Classes Order, and any use for the provision of hot or cold food that has been prepared for consumers for collection or delivery to be consumed, reheated or cooked by consumers off the premises.
+the “provision of takeaway food” includes any use for any purpose within article 3(6)(r) of[^c-bdaedc7381cf1c0a09876c4624eca7c0] the Use Classes Order, and any use for the provision of hot or cold food that has been prepared for consumers for collection or delivery to be consumed, reheated or cooked by consumers off the premises.
 
-#### Class DB: Use of qualifying high-street premises changing to a suitable high-street use[^key-d0098a02de5e55b2f1302b2bb9add321]
+#### Class DB: Use of qualifying high-street premises changing to a suitable high-street use[^c-d0098a02de5e55b2f1302b2bb9add321]
 
 ##### DB. Permitted development
 
@@ -2210,16 +2210,16 @@ Development is permitted by Class DB subject to the following conditions—
 
 ***Development consisting of—***
 
-- (a) ***the temporary use of any land or buildings for a period not exceeding 12 months[^key-5f2e3c9c458040e0834d023c686ad254] in any 27 month period for the purpose of commercial film-making; and***
+- (a) ***the temporary use of any land or buildings for a period not exceeding 12 months[^c-5f2e3c9c458040e0834d023c686ad254] in any 27 month period for the purpose of commercial film-making; and***
 - (b) ***the provision on such land, during the filming period, of any temporary structures, works, plant or machinery required in connection with that use.***
 
 ##### E.1 Development not permitted
 
 Development is not permitted by Class E if—
 
-- (a) the land in question, or the land on which the building in question is situated, is more than 3 hectares[^key-c5af942cd2294c268f9b44c63c9de9c0];
+- (a) the land in question, or the land on which the building in question is situated, is more than 3 hectares[^c-c5af942cd2294c268f9b44c63c9de9c0];
 - (b) the use of the land is for overnight accommodation;
-- (c) the height of any temporary structure, works, plant or machinery provided under Class E(b) exceeds 20 metres[^key-57d1d064a7bf1d9388d36efaf67f189f], or 5 metres where any part of the structure, works, plant or machinery is within 10 metres of the curtilage of the land;
+- (c) the height of any temporary structure, works, plant or machinery provided under Class E(b) exceeds 20 metres[^c-57d1d064a7bf1d9388d36efaf67f189f], or 5 metres where any part of the structure, works, plant or machinery is within 10 metres of the curtilage of the land;
 - (d) the land or building is on article 2(3) land;
 - (e) the land or the site on which the building is located is or forms part of—
   - (i) a site of special scientific interest;
@@ -2297,7 +2297,7 @@ any conditions, limitations or restrictions specified in Class E as being applic
 (10) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of any consultation under sub-paragraphs (5) or (6) and any notice given under sub-paragraph (8); and
-- (b)[^key-1fbca98c5b01d5e3405a931b52c6cb06] have regard to the National Planning Policy Framework [^key-324ebabf96b18b0cf337944c14a0be92]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b)[^c-1fbca98c5b01d5e3405a931b52c6cb06] have regard to the National Planning Policy Framework [^c-324ebabf96b18b0cf337944c14a0be92]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (11) The development must not begin before the occurrence of one of the following—
 
@@ -2331,7 +2331,7 @@ For the purposes of Class E—
 - “**commercial film-making**” means filming for broadcast or transmission but does not include the filming of persons paying to visit the site to participate in any leisure activity on that site including—
   - (a) motor car and motorcycle racing including trials of speed or other motor sports, and practising for those activities, or
   - (b) clay pigeon shooting or any war game;
-- “**filming period**” means a period, not exceeding 12 months[^key-40e0645780d1680dbf6240265bc9ba03] in total, during which the land or building is used for commercial film-making (including activities preparatory to, or otherwise related to, that film-making) under Class E; and
+- “**filming period**” means a period, not exceeding 12 months[^c-40e0645780d1680dbf6240265bc9ba03] in total, during which the land or building is used for commercial film-making (including activities preparatory to, or otherwise related to, that film-making) under Class E; and
 - “**television programme provider**” has the meaning given in section 99(2) of the Broadcasting Act 1996 [^c22501501].
 
 ##### F. Interpretation of Part 4
@@ -2399,18 +2399,18 @@ Development is not permitted by Class A if—
 - (c) it would consist of, or include, the erection, extension or alteration of a dwelling;
 - (d) it would involve the provision of a building, structure or works not designed for agricultural purposes;
 - (e) the ground area which would be covered by—
-  - (i) any works or structure (other than a fence) for accommodating livestock or any plant or machinery arising from engineering operations would exceed 1,000 square metres[^key-4e2096980e5d8456ecfc87e315232ef1]; or
-  - (ii) any building erected or extended or altered by virtue of Class A would exceed 1,500 square metres[^key-9d14b37a39e564b29a5e320f7514d450],
+  - (i) any works or structure (other than a fence) for accommodating livestock or any plant or machinery arising from engineering operations would exceed 1,000 square metres[^c-4e2096980e5d8456ecfc87e315232ef1]; or
+  - (ii) any building erected or extended or altered by virtue of Class A would exceed 1,500 square metres[^c-9d14b37a39e564b29a5e320f7514d450],
 
-  [^key-0680a0c9077f499cf71c7fc64c16629d]... calculated as described in paragraph D.1(2)(a) of this Part;
+  [^c-0680a0c9077f499cf71c7fc64c16629d]... calculated as described in paragraph D.1(2)(a) of this Part;
 - (f) the height of any part of any building, structure or works within 3 kilometres of the perimeter of an aerodrome would exceed 3 metres;
 - (g) the height of any part of any building, structure or works not within 3 kilometres of the perimeter of an aerodrome would exceed 12 metres;
 - (h) any part of the development would be within 25 metres of a metalled part of a trunk road or classified road;
 - (i) it would consist of, or include, the erection or construction of, or the carrying out of any works to, a building, structure or an excavation used or to be used for the accommodation of livestock or for the storage of slurry or sewage sludge where the building, structure or excavation is, or would be, within 400 metres of the curtilage of a protected building;
-- (j) it would involve excavations or engineering operations on or over article 2(4) land which are connected with fish farming; [^key-f29f2033787f82af3d27f25bd41b796e]...
+- (j) it would involve excavations or engineering operations on or over article 2(4) land which are connected with fish farming; [^c-f29f2033787f82af3d27f25bd41b796e]...
 - (k) any building for storing fuel for or waste from a biomass boiler or an anaerobic digestion system—
   - (i) would be used for storing waste not produced by that boiler or system or for storing fuel not produced on land within the unit; or
-  - (ii) is or would be within 400 metres of the curtilage of a protected building ; or[^key-0363aeb45493f148e201d7290dd8fd5b]
+  - (ii) is or would be within 400 metres of the curtilage of a protected building ; or[^c-0363aeb45493f148e201d7290dd8fd5b]
 - (l) the erection or extension of a building would be carried out on land or a building that is, or is within the curtilage of, a scheduled monument.
 
 ##### A.2 Conditions
@@ -2489,28 +2489,28 @@ Development is not permitted by Class B if—
 - (b) the external appearance of the premises would be materially affected;
 - (c) any part of the development would be within 25 metres of a metalled part of a trunk road or classified road;
 - (d) it would consist of, or involve, the carrying out of any works to a building or structure used or to be used for the accommodation of livestock or the storage of slurry or sewage sludge where the building or structure is within 400 metres of the curtilage of a protected building;
-- (e) it would relate to fish farming and would involve the placing or assembly of a tank on land or in any waters or the construction of a pond in which fish may be kept or an increase (otherwise than by the removal of silt) in the size of any tank or pond in which fish may be kept; [^key-46dab5377d628f14c2a2639b0a228b58]...
-- (f) any building for storing fuel for or waste from a biomass boiler or an anaerobic digestion system would be used for storing waste not produced by that boiler or system or for storing fuel not produced on land within the unit ; or[^key-8c9bcabad370afca2a1ea2f390acb894]
+- (e) it would relate to fish farming and would involve the placing or assembly of a tank on land or in any waters or the construction of a pond in which fish may be kept or an increase (otherwise than by the removal of silt) in the size of any tank or pond in which fish may be kept; [^c-46dab5377d628f14c2a2639b0a228b58]...
+- (f) any building for storing fuel for or waste from a biomass boiler or an anaerobic digestion system would be used for storing waste not produced by that boiler or system or for storing fuel not produced on land within the unit ; or[^c-8c9bcabad370afca2a1ea2f390acb894]
 - (g) the extension of a building would be carried out on land or a building that is, or is within the curtilage of, a scheduled monument.
 
 **B.2** Development is not permitted by Class B(a) if—
 
 - (a) the height of any building would be increased;
-- (b) the cubic content of the original building would be increased by more than 25%[^key-81dd3f1e357ff135876e28a5c9cba1e2];
+- (b) the cubic content of the original building would be increased by more than 25%[^c-81dd3f1e357ff135876e28a5c9cba1e2];
 - (c) any part of any new building would be more than 30 metres from the original building;
 - (d) it would consist of the extension or provision of any agricultural building on an established agricultural unit (as defined in paragraph X of Part 3 (changes of use) of this Schedule) where development under Class Q or S of Part 3 (changes of use) of this Schedule has been carried out within a period of 10 years ending with the date on which development under Class B(a) begins;
 - (e) the development would involve the extension, alteration or provision of a dwelling;
 - (f) any part of the development would be carried out within 5 metres of any boundary of the unit; or
-- (g) the ground area of any building extended by virtue of Class B(a) would exceed 1,250 square metres[^key-a02cdcb6f26d3d54f738161544bd5650] .
+- (g) the ground area of any building extended by virtue of Class B(a) would exceed 1,250 square metres[^c-a02cdcb6f26d3d54f738161544bd5650] .
 
 **B.3** Development is not permitted by Class B(b) if—
 
 - (a) the height of any additional plant or machinery within 3 kilometres of the perimeter of an aerodrome would exceed 3 metres;
 - (b) the height of any additional plant or machinery not within 3 kilometres of the perimeter of an aerodrome would exceed 12 metres;
 - (c) the height of any replacement plant or machinery would exceed that of the plant or machinery being replaced; or
-- (d) the area to be covered by the development would exceed 1,000 square metres[^key-124ee8a6f4c3433ec9dd8573f15ca072] calculated as described in paragraph D.1(2)(a) of this Part.
+- (d) the area to be covered by the development would exceed 1,000 square metres[^c-124ee8a6f4c3433ec9dd8573f15ca072] calculated as described in paragraph D.1(2)(a) of this Part.
 
-**B.4** Development is not permitted by Class B(e) if the area to be covered by the development would exceed 1,000 square metres[^key-3b85fce706b68a1d1b925a325bd323b1] calculated as described in paragraph D.1(2)(a) of this Part.
+**B.4** Development is not permitted by Class B(e) if the area to be covered by the development would exceed 1,000 square metres[^c-3b85fce706b68a1d1b925a325bd323b1] calculated as described in paragraph D.1(2)(a) of this Part.
 
 ##### B.5 Conditions
 
@@ -2664,11 +2664,11 @@ Development is not permitted by Class E if—
 
 ### PART 7 — Non-domestic extensions, alterations etc
 
-#### Class A – extensions etc of commercial, business or service premises[^key-747c21bc71833b2b0222c5b4346d1ae5]
+#### Class A – extensions etc of commercial, business or service premises[^c-747c21bc71833b2b0222c5b4346d1ae5]
 
 ##### A. Permitted development
 
-***The extension or alteration of a commercial, business or service[^key-e920de492de26bea3d937cfb37dc4faa] establishment.***
+***The extension or alteration of a commercial, business or service[^c-e920de492de26bea3d937cfb37dc4faa] establishment.***
 
 ##### A.1 Development not permitted
 
@@ -2684,14 +2684,14 @@ Development is not permitted by Class A if—
 - (b) the height of the building as extended would exceed 4 metres;
 - (c) any part of the development (other than an alteration)—
   - (i) is on land which—
-    - (aa) adjoins other premises which are used for a purpose falling within any of the classes in Part C (residential premises or institutions) of Schedule 1[^key-62483dc353d1b8ae4e99109b2602401c] to the Use Classes Order,
+    - (aa) adjoins other premises which are used for a purpose falling within any of the classes in Part C (residential premises or institutions) of Schedule 1[^c-62483dc353d1b8ae4e99109b2602401c] to the Use Classes Order,
     - (bb) is article 2(3) land, or
     - (cc) is a site of special scientific interest, and
   - (ii) is within 2 metres of any boundary of the curtilage of the premises;
 - (d) the development would be within the curtilage of a listed building;
 - (e) any alteration would be on article 2(3) land;
 - (f) the development would consist of or include the construction or provision of a verandah, balcony or raised platform;
-- (g) any part of the development would extend beyond the front of any existing building[^key-2f131c0fdc0a39c951098d8679105fa2] ;
+- (g) any part of the development would extend beyond the front of any existing building[^c-2f131c0fdc0a39c951098d8679105fa2] ;
 - (h) the development would involve the insertion or creation of a new shop front or the alteration or replacement of an existing shop front; or
 - (i) the development would involve the installation or replacement of a security grill or shutter on a shop front.
 
@@ -2701,13 +2701,13 @@ Development is permitted by Class A subject to the following conditions—
 
 - (a) any alteration is at ground floor level only;
 - (b) any extension is, in the case of article 2(3) land, constructed using materials which have a similar external appearance to those used for the building being extended; and
-- (c) any extension or alteration is only to be used as part of, or for a purpose incidental to, the use of the commercial, business or service[^key-bb82813392221506ff6c0576c1ef2454] establishment.
+- (c) any extension or alteration is only to be used as part of, or for a purpose incidental to, the use of the commercial, business or service[^c-bb82813392221506ff6c0576c1ef2454] establishment.
 
 ##### A.3 Interpretation of Class A
 
 For the purposes of Class A—
 
-- “[^key-546232d6a2893cf8874e0488ff7bb891]**raised platform**” means a platform with a height greater than 0.3 metres, and
+- “[^c-546232d6a2893cf8874e0488ff7bb891]**raised platform**” means a platform with a height greater than 0.3 metres, and
 - “ **commercial, business or service premises** ” means a building, or part of a building, used for any purpose within Class E (commercial, business and service) of Schedule 2 to the Use Classes Order and includes buildings with other uses in other parts as long as the other uses are not within the parts being altered or extended;
 
 and where 2 or more original buildings are within the same curtilage and are used for the same undertaking, they are to be treated as a single original building in making any measurement.
@@ -2740,7 +2740,7 @@ Development is permitted by Class B subject to the condition that the building o
 
 For the purposes of Class B—
 
-- “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2[^key-394fb12e6d5d0a7d334760b0fef05261] to the Use Classes Order; and
+- “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2[^c-394fb12e6d5d0a7d334760b0fef05261] to the Use Classes Order; and
 - “**trolley store**” means a building or enclosure designed to be used for the storage of shopping trolleys.
 
 #### Class C – click and collect facilities
@@ -2798,7 +2798,7 @@ any conditions, limitations or restrictions specified in Class C as being applic
 (7) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of any notice given under sub-paragraph (5);
-- (b) have regard to the National Planning Policy Framework [^key-0d1de74ad898b78365c3f924200c41aa]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b) have regard to the National Planning Policy Framework [^c-0d1de74ad898b78365c3f924200c41aa]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (8) The development must not begin before the occurrence of one of the following—
 
@@ -2822,9 +2822,9 @@ unless the local planning authority and the developer agree otherwise in writing
 For the purposes of Class C—
 
 - “**collection facility**” means a building or structure designed to be used by visiting members of the public for the collection of any goods and for the storage of goods awaiting such collection; and
-- “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2[^key-a41bdab388f6fe214a39038a9a5e6cf3] to the Use Classes Order.
+- “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2[^c-a41bdab388f6fe214a39038a9a5e6cf3] to the Use Classes Order.
 
-#### Class CA — installation etc of a reverse vending machine[^key-37def021a763557221ef4702515f30b9]
+#### Class CA — installation etc of a reverse vending machine[^c-37def021a763557221ef4702515f30b9]
 
 ##### CA. Permitted development
 
@@ -2886,15 +2886,15 @@ For the purposes of Class D—
 
 - “**goods vehicle**” has the meaning given in section 192 of the Road Traffic Act 1988 [^c22501531];
 - “**loading bay**” means any facility, including vehicle ramps, for the loading or unloading of goods vehicles; and
-- “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2[^key-0d81c1681df68f6fece48297ad848715] to the Use Classes Order.
+- “**shop**” means a building used for any purpose within Class E(a) (display or retail sale of goods other than hot food) of Schedule 2[^c-0d81c1681df68f6fece48297ad848715] to the Use Classes Order.
 
-#### Class E – hard surfaces for commercial, business or service etc premises[^key-9ad4f649a38cfc0b9528f91130d0724b]
+#### Class E – hard surfaces for commercial, business or service etc premises[^c-9ad4f649a38cfc0b9528f91130d0724b]
 
 ##### E. Permitted development
 
 ***Development consisting of—***
 
-- (a)[^key-2fadbb68659274ba13591e8d65e796d7] the provision of a hard surface within the curtilage of a building used for a purpose falling within one of the following provisions of the Use Classes Order—
+- (a)[^c-2fadbb68659274ba13591e8d65e796d7] the provision of a hard surface within the curtilage of a building used for a purpose falling within one of the following provisions of the Use Classes Order—
   - (i) article 3(6)(p) (drinking establishments etc);
   - (ii) article 3(6)(q) (drinking establishment with expanded food provision);
   - (iii) article 3(6)(r) (hot food takeaway); or
@@ -2917,17 +2917,17 @@ Development is permitted by Class E subject to the following conditions—
   - (i) the hard surface is made of porous materials, or
   - (ii) provision is made to direct run-off water from the hard surface to a permeable or porous area or surface within the curtilage of the undertaking.
 
-##### E.3 Interpretation of Class E[^key-78e7a59136800df97f75d7ecbb51df55]
+##### E.3 Interpretation of Class E[^c-78e7a59136800df97f75d7ecbb51df55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class F – extensions etc of office buildings
 
-[^key-d88ee0a9e288225618ed5867d1edf08f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d88ee0a9e288225618ed5867d1edf08f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class G – hard surfaces for office buildings
 
-[^key-57584be10cbca20e1a16ae268fdf63f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57584be10cbca20e1a16ae268fdf63f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Class H – extensions etc of industrial and warehouse
 
@@ -3077,58 +3077,58 @@ Development is permitted by Class L subject to the condition that any building a
 
 For the purposes of Class L—
 
-- “**waste management facility**” means premises and associated land used for the purposes of any waste operation for which an environmental permit is required under Part 2 of the Environmental Permitting (England and Wales) Regulations 2016[^key-058d84f1ded303ddc172a38b2cb5b5c3] or which is an exempt facility under those Regulations; and
+- “**waste management facility**” means premises and associated land used for the purposes of any waste operation for which an environmental permit is required under Part 2 of the Environmental Permitting (England and Wales) Regulations 2016[^c-058d84f1ded303ddc172a38b2cb5b5c3] or which is an exempt facility under those Regulations; and
 - “**waste operation**” has the meaning given in the Environmental Permitting (England and Wales) Regulations 2016.
 
-#### Class M – extensions etc for schools, colleges, universities , prisons and hospitals[^key-9f1704f0783bd969fd906507a41ed0e0]
+#### Class M – extensions etc for schools, colleges, universities , prisons and hospitals[^c-9f1704f0783bd969fd906507a41ed0e0]
 
 ##### M. Permitted development
 
-***The erection, extension or alteration of a school, college, university , prison[^key-5d19b0b884d03b1f7bc2737d2743a4d5] or hospital building.***
+***The erection, extension or alteration of a school, college, university , prison[^c-5d19b0b884d03b1f7bc2737d2743a4d5] or hospital building.***
 
 ##### M.1 Development not permitted
 
 Development is not permitted by Class M—
 
-- (a)[^key-deb6e588d85e506c66f6ca4db0bc6fdb] if the cumulative footprint of any erection, extension or alteration under Class M on or after the relevant date[^key-936afa499571588b95689372dead0c8e] would exceed the greater of—
-  - (i) 25% of the cumulative footprint of the school, college,[^key-c8e48bd79b02d9aacd9d7eccf66691eb] university, prison or hospital buildings as it was on the relevant date; or
+- (a)[^c-deb6e588d85e506c66f6ca4db0bc6fdb] if the cumulative footprint of any erection, extension or alteration under Class M on or after the relevant date[^c-936afa499571588b95689372dead0c8e] would exceed the greater of—
+  - (i) 25% of the cumulative footprint of the school, college,[^c-c8e48bd79b02d9aacd9d7eccf66691eb] university, prison or hospital buildings as it was on the relevant date; or
   - (ii) 250 square metres;
-- (b) in the case of a college, university[^key-343ecf8ff132912d09020163d82e6f09] , prison[^key-a03afe9249afca2fdf3e8adb7e80ddf1] or hospital building, if any part of the development would be within 5 metres of a boundary of the curtilage of the premises;
-- (ba)[^key-8b797ac5a3d42b25c7db3ca3fca6e9dc] in the case of a school, where any land adjacent to the site is used for a purpose within Part C of the Schedule to the Use Classes Order (residential purposes), if any part of the proposed development is within 5 metres of the boundary of the curtilage of that residential land;
+- (b) in the case of a college, university[^c-343ecf8ff132912d09020163d82e6f09] , prison[^c-a03afe9249afca2fdf3e8adb7e80ddf1] or hospital building, if any part of the development would be within 5 metres of a boundary of the curtilage of the premises;
+- (ba)[^c-8b797ac5a3d42b25c7db3ca3fca6e9dc] in the case of a school, where any land adjacent to the site is used for a purpose within Part C of the Schedule to the Use Classes Order (residential purposes), if any part of the proposed development is within 5 metres of the boundary of the curtilage of that residential land;
 - (c) if, as a result of the development, any land used as a playing field at any time in the 5 years before the development commenced and remaining in this use could no longer be so used;
-- (d) if the height of any new building erected would exceed—[^key-89eb1371e47ab69d32ed281fae6126a9]
+- (d) if the height of any new building erected would exceed—[^c-89eb1371e47ab69d32ed281fae6126a9]
   - (i) if within 10 metres of a boundary of the curtilage of the premises, 5 metres; or
   - (ii) in all other cases, 6 metres;
-- (da)[^key-62234e630b9815660fe829adad3f3ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (da)[^c-62234e630b9815660fe829adad3f3ff2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) if the height of the building as extended or altered would exceed—
-  - (i) if within 10 metres of a boundary of the curtilage of the premises, the lesser of the height of the building being extended or altered or[^key-19b4a14d4f43f3b310a6310f5038f3b9] 5 metres; or
+  - (i) if within 10 metres of a boundary of the curtilage of the premises, the lesser of the height of the building being extended or altered or[^c-19b4a14d4f43f3b310a6310f5038f3b9] 5 metres; or
   - (ii) in all other cases, the height of the building being extended or altered;
-- (ea)[^key-cc39b520b5a8cb2c65c7d220882cf01d] if the height of any rooftop structure would exceed 1.5 metres above the height of the new building or the building as extended or altered (as the case may be);
+- (ea)[^c-cc39b520b5a8cb2c65c7d220882cf01d] if the height of any rooftop structure would exceed 1.5 metres above the height of the new building or the building as extended or altered (as the case may be);
 - (f) if the development would be within the curtilage of a listed building; or
 - (g) unless—
   - (i) in the case of school, college or university buildings, the predominant use of the existing buildings on the premises is for the provision of education;
-  - (ii) in the case of hospital buildings, the predominant use of the existing buildings on the premises is for the provision of any medical or health services ;[^key-e74d4a361f7af358ac7d2a1343481896]
+  - (ii) in the case of hospital buildings, the predominant use of the existing buildings on the premises is for the provision of any medical or health services ;[^c-e74d4a361f7af358ac7d2a1343481896]
   - (iii) in the case of prison buildings—
-    - (aa) the predominant use of the existing buildings on the premises is for the confinement of prisoners ; and[^key-4efac2c6c735f9416b7167e516f520ae]
-    - (bb)[^key-9d3fb1925c196fde6e8656027299a74f] in the case of a closed prison, the development does not involve the erection, extension or alteration of any building beyond the perimeter as it stood on the relevant date.
-    - (cc)[^key-5dbc3fde5f8d7cc425ae4e9b1bc1b3e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa) the predominant use of the existing buildings on the premises is for the confinement of prisoners ; and[^c-4efac2c6c735f9416b7167e516f520ae]
+    - (bb)[^c-9d3fb1925c196fde6e8656027299a74f] in the case of a closed prison, the development does not involve the erection, extension or alteration of any building beyond the perimeter as it stood on the relevant date.
+    - (cc)[^c-5dbc3fde5f8d7cc425ae4e9b1bc1b3e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### M.2 Conditions
 
 Development is permitted by Class M subject to the following conditions—
 
-- (a) the development is within the curtilage of an existing school, college, university , prison[^key-f467a4b8bbd61afb4ad1000b2304f1eb] or hospital;
+- (a) the development is within the curtilage of an existing school, college, university , prison[^c-f467a4b8bbd61afb4ad1000b2304f1eb] or hospital;
 - (b) the development is only used as part of, or for a purpose incidental to, the use of that school, college, university , prison or hospital;
-- (c) any new building erected is, in the case of article 2(3) land, constructed using materials which have a similar external appearance to those used for the original school, college, university , prison or hospital buildings; [^key-c7e5ef96379644b294171c2bcfab7d5f]...
-- (d) any extension or alteration is, in the case of article 2(3) land, constructed using materials which have a similar external appearance to those used for the building being extended or altered ;[^key-b6667173f85203c37ae647cba2594a77]
+- (c) any new building erected is, in the case of article 2(3) land, constructed using materials which have a similar external appearance to those used for the original school, college, university , prison or hospital buildings; [^c-c7e5ef96379644b294171c2bcfab7d5f]...
+- (d) any extension or alteration is, in the case of article 2(3) land, constructed using materials which have a similar external appearance to those used for the building being extended or altered ;[^c-b6667173f85203c37ae647cba2594a77]
 - (e) where proposed development under Class M relates to the erection, extension or alteration of a school building that results in an increase in the school’s published admission number, the developer must, within a period of six months starting with the date the development is completed, submit to the local planning authority a travel plan for the site;
 - (f) where proposed development under Class M relates to the erection, extension or alteration of a university building, development is permitted subject to the condition that before beginning the development the developer applies to the local planning authority for a determination as to whether the prior approval of the authority will be required as to—
   - (i) transport and highways impacts of the proposed development;
   - (ii) the design and external appearance of the erection, extension or alteration; or
   - (iii) the impact of the development on heritage and archaeology;
 - (g) an application required under paragraph (f) is to be made and determined in accordance with paragraph M.2A (procedure for applications for prior approval under Class M);
-- (h) development approved pursuant to an application under paragraph (f) is permitted subject to the condition that it is completed within a period of three years starting with the prior approval date;[^key-a2c54591464c648a55d7cd8de205e978]
-- (i)[^key-081a7a4ce175a3b2e584e1838052c78f] where proposed development under Class M relates to the erection, extension or alteration of an open prison building, before beginning development the developer must—
+- (h) development approved pursuant to an application under paragraph (f) is permitted subject to the condition that it is completed within a period of three years starting with the prior approval date;[^c-a2c54591464c648a55d7cd8de205e978]
+- (i)[^c-081a7a4ce175a3b2e584e1838052c78f] where proposed development under Class M relates to the erection, extension or alteration of an open prison building, before beginning development the developer must—
   - (i) assess the contamination and flood risks of the development;
   - (ii) identify measures to reduce, so far as practicable, any contamination or flood risks of the development;
   - (iii) where the development is in an area within Flood Zone 3, carry out prior consultation in accordance with paragraph M.2B (procedure for prior consultation under Class M); and
@@ -3144,7 +3144,7 @@ Development is permitted by Class M subject to the following conditions—
   - (vi) the developer’s contact address; and
   - (vii) the developer’s email address if the developer is content to receive communications electronically.
 
-##### M.2A. Procedure for applications for prior approval under Class M[^key-5ca03d80d53cc8ee0fb990a09c52615b]
+##### M.2A. Procedure for applications for prior approval under Class M[^c-5ca03d80d53cc8ee0fb990a09c52615b]
 
 (1) The following provisions apply where a developer is required under paragraph M.2(f) to make an application to a local authority for a determination as to whether the prior approval of the authority will be required.
 
@@ -3167,7 +3167,7 @@ Development is permitted by Class M subject to the following conditions—
   - (ii) for “this Part” there were substituted “Class M”;
 - (b) sub-paragraph (10)(c) were omitted.
 
-##### M.2B. Procedure for prior consultation under Class M[^key-f2766d28b293ccf55828054e3b7ae315]
+##### M.2B. Procedure for prior consultation under Class M[^c-f2766d28b293ccf55828054e3b7ae315]
 
 (1) Where a developer is required to carry out prior consultation under paragraph M.2(i)(iii), the developer must consult the Environment Agency as to the flood risks of the proposed development.
 
@@ -3189,9 +3189,9 @@ Development is permitted by Class M subject to the following conditions—
 
 For the purposes of Class M—
 
-- “[^key-c7d7186c01f3e1dc54f095694322cfe4]**closed prison**” means a prison used for the confinement of prisoners in closed conditions located on a site with a closed perimeter;
-- “footprint”, in relation to a building, means the total area of ground covered by it;[^key-9c11b60f3a96553c4e32eb6e323e2067]
-- “[^key-44a5968e85a8e9425f50f8286916682d]**open prison**” means a prison used for the confinement of prisoners in open conditions located on a site without a closed perimeter;
+- “[^c-c7d7186c01f3e1dc54f095694322cfe4]**closed prison**” means a prison used for the confinement of prisoners in closed conditions located on a site with a closed perimeter;
+- “footprint”, in relation to a building, means the total area of ground covered by it;[^c-9c11b60f3a96553c4e32eb6e323e2067]
+- “[^c-44a5968e85a8e9425f50f8286916682d]**open prison**” means a prison used for the confinement of prisoners in open conditions located on a site without a closed perimeter;
 - “original school, college, university, prison or hospital building” means original building which is a school, college, university, prison or hospital building, as the case may be, other than any building erected at any time under Class M;
 - “prior approval date” has the meaning given in paragraph X of Part 3;
 - “prison”—
@@ -3201,14 +3201,14 @@ For the purposes of Class M—
     - (ii) premises approved pursuant to section 13(1) (approved premises) of the Offender Management Act 2007;
     - (iii) a bail hostel within the meaning of section 2(2) (other definitions) of the Bail Act 1976;
 - “published admission number” means the number of pupils of any relevant age group at the school determined by the admission authority under sections 88C and 88D of the School Standards Framework Act 1998;
-- “[^key-366685be22d55893672dd073a239f956]**relevant date**” means 21st December 2023 in the case of the development of an open prison building and 21st April 2021 in the case of all other development;
+- “[^c-366685be22d55893672dd073a239f956]**relevant date**” means 21st December 2023 in the case of the development of an open prison building and 21st April 2021 in the case of all other development;
 - “rooftop structure” has the meaning given in paragraph D.3 of Part 9;
-- “**school**” does not include a building which changed use by virtue of Class S of Part 3 of this Schedule (changes of use) or which was erected by virtue of Class CA of Part 4 of this Schedule (temporary buildings and uses)[^key-6c45fd2d0cce6fbde09272b4b32b2d7e] ; and[^key-3f399d26420dfacb432f693203f99184]
+- “**school**” does not include a building which changed use by virtue of Class S of Part 3 of this Schedule (changes of use) or which was erected by virtue of Class CA of Part 4 of this Schedule (temporary buildings and uses)[^c-6c45fd2d0cce6fbde09272b4b32b2d7e] ; and[^c-3f399d26420dfacb432f693203f99184]
 - “travel plan” means a long-term management strategy that seeks to deliver sustainable transport objectives
 
 where 2 or more original buildings are within the same curtilage and are used for the same institution, they are to be treated as a single original building in making any measurement.
 
-#### Class MA – alteration etc. of prison fences[^key-79fc070fa680a0ecb696f7031daeba08]
+#### Class MA – alteration etc. of prison fences[^c-79fc070fa680a0ecb696f7031daeba08]
 
 ##### MA. Permitted development
 
@@ -3253,13 +3253,13 @@ Development is permitted by Class N subject to the following conditions—
 For the purposes of Part 7—
 
 - “**industrial building**” means a building used for the carrying out of an industrial process and includes a building used for the carrying out of such a process on land used as a dock, harbour or quay for the purposes of an industrial undertaking and land used for research and development of products or processes, but does not include a building on land in or adjacent to and occupied together with a mine;
-- “**office building**” means a building used for any purpose within Class E(g)(i) of Schedule 2[^key-1a1b5a83f40025f307f7daf27849ddd3] to the Use Classes Order (offices);
+- “**office building**” means a building used for any purpose within Class E(g)(i) of Schedule 2[^c-1a1b5a83f40025f307f7daf27849ddd3] to the Use Classes Order (offices);
 - “registered nursery” and “state-funded school” have the meanings given in paragraph X of Part 3 of this Schedule (changes of use);
 - “school”—
   - (a) includes a building permitted by Class C of Part 4 (temporary buildings and uses) to be used temporarily as a school, from the date the local planning authority is notified as provided in paragraph C.2(b) of Part 4;
-  - (b) except in Class M (extensions etc for schools), includes premises which have changed use under Class S of Part 3 of this Schedule (changes of use) to become a state-funded school [^key-5ea1b25936dbc6c017f831ff6d1f56c3]...; and
-  - (c) includes premises which have changed use under Class T of Part 3 of this Schedule (changes of use) to become a state-funded school [^key-5ea1b25936dbc6c017f831ff6d1f56c3]...; and
-- “**warehouse**” means a building used for any purpose within Class B8 (storage or distribution) of Schedule 1[^key-532d7d923180aad2cc713f4d0aca9d28] to the Use Classes Order but does not include a building on land in or adjacent to and occupied together with a mine.
+  - (b) except in Class M (extensions etc for schools), includes premises which have changed use under Class S of Part 3 of this Schedule (changes of use) to become a state-funded school [^c-5ea1b25936dbc6c017f831ff6d1f56c3]...; and
+  - (c) includes premises which have changed use under Class T of Part 3 of this Schedule (changes of use) to become a state-funded school [^c-5ea1b25936dbc6c017f831ff6d1f56c3]...; and
+- “**warehouse**” means a building used for any purpose within Class B8 (storage or distribution) of Schedule 1[^c-532d7d923180aad2cc713f4d0aca9d28] to the Use Classes Order but does not include a building on land in or adjacent to and occupied together with a mine.
 
 ### PART 8 — Transport related development
 
@@ -3283,14 +3283,14 @@ Development is not permitted by Class A if it consists of or includes—
 
 For the purposes of Class A, references to the construction or erection of any building or structure include references to the reconstruction or alteration of a building or structure where its design or external appearance would be materially affected.
 
-#### Class B – dock, pier, harbour, water transport, canal or inland navigation undertakings[^key-1ded00225ef93a8ad0d2c40139e8db65]
+#### Class B – dock, pier, harbour, water transport, canal or inland navigation undertakings[^c-1ded00225ef93a8ad0d2c40139e8db65]
 
 ##### B. Permitted development
 
-***Development on operational land by statutory undertakers or their lessees or agents of development (including the erection or alteration of an operational building)[^key-560a096d92d5abce23d8b8d76c3baddf] in respect of dock, pier, harbour, water transport, or canal or inland navigation undertakings, required—***
+***Development on operational land by statutory undertakers or their lessees or agents of development (including the erection or alteration of an operational building)[^c-560a096d92d5abce23d8b8d76c3baddf] in respect of dock, pier, harbour, water transport, or canal or inland navigation undertakings, required—***
 
-- (a) ***for the purposes of shipping, [^key-fa7c2f09077d1ad442263fdea4bdeb43]...***
-- (b) ***in connection with the embarking, disembarking, loading, discharging or transport of passengers, livestock or goods at a dock, pier or harbour, or with the movement of traffic by canal or inland navigation or by any railway forming part of the undertaking , or[^key-36efd0739c2cf4aef9387a99d1337d2c]***
+- (a) ***for the purposes of shipping, [^c-fa7c2f09077d1ad442263fdea4bdeb43]...***
+- (b) ***in connection with the embarking, disembarking, loading, discharging or transport of passengers, livestock or goods at a dock, pier or harbour, or with the movement of traffic by canal or inland navigation or by any railway forming part of the undertaking , or[^c-36efd0739c2cf4aef9387a99d1337d2c]***
 - (c) ***in connection with the provision of services and facilities***
 
 ##### B.1 Development not permitted
@@ -3299,13 +3299,13 @@ Development is not permitted by Class B if it consists of or includes—
 
 - (a) the construction or erection of a hotel, or of a bridge or other building not required in connection with the handling of traffic; or
 - (b) the construction or erection otherwise than wholly within the limits of a dock, pier or harbour of—
-  - (i) an educational building, [^key-5e8a514d5b1574571452e452f23f3205]...
-  - (ii) a car park, shop, restaurant, garage, petrol filling station or other building provided under transport legislation ,[^key-8b9d80e5f562812abfeb036a64a37f78]
+  - (i) an educational building, [^c-5e8a514d5b1574571452e452f23f3205]...
+  - (ii) a car park, shop, restaurant, garage, petrol filling station or other building provided under transport legislation ,[^c-8b9d80e5f562812abfeb036a64a37f78]
 - (c) where the development falls within paragraph B(c)—
   - (i) the erection of a building other than an operational building; or
   - (ii) the alteration or reconstruction of a building other than an operational building, where its design or external appearance would be materially affected.
 
-##### B.1A. Condition[^key-2595eb06e78e68f2fd1a24c24b148746]
+##### B.1A. Condition[^c-2595eb06e78e68f2fd1a24c24b148746]
 
 (1) Development is permitted by Class B subject to the condition that the relevant statutory undertaker consults the local planning authority before carrying out any development, unless that development falls within the description in paragraph B.3.
 
@@ -3316,7 +3316,7 @@ For the purposes of Class B—
 - (a) references to the construction or erection of any building or structure include references to the reconstruction or alteration of a building or structure where its design or external appearance would be materially affected, and
 - (b) the reference to operational land includes land designated by an order made under section 14 or 16 of the Harbours Act 1964 (orders for securing harbour efficiency etc., and orders conferring powers for improvement, construction etc., of harbours) [^c22501561], and which has come into force, whether or not the order was subject to the provisions of the Statutory Orders (Special Procedure) Act 1945 [^c22501571].
 
-**B.3.**[^key-7f43316362d5a7d6d0d0f95fb0e0f7b5] Development falls within this paragraph if—
+**B.3.**[^c-7f43316362d5a7d6d0d0f95fb0e0f7b5] Development falls within this paragraph if—
 
 - (a) it is urgently required for the efficient running of the dock, pier, harbour, water transport, canal or inland navigation undertaking, and
 - (b) it consists of the carrying out of works, or the erection or construction of a structure or of an ancillary building, or the placing on land of equipment, and the works, structure, building, or equipment do not exceed 4 metres in height or 200 cubic metres in capacity.
@@ -3343,7 +3343,7 @@ For the purposes of Class B—
 
 Development is not permitted by Class E if it consists of or includes the erection of offices, or the reconstruction or alteration of offices where their design or external appearance would be materially affected.
 
-#### Class F – development at an airport[^key-4246056a31fc9284cea9772c5570d36f]
+#### Class F – development at an airport[^c-4246056a31fc9284cea9772c5570d36f]
 
 ##### F. Permitted development
 
@@ -3455,7 +3455,7 @@ For the purposes of Part 8—
 - “**air traffic services**” has the same meaning as in section 98 of the Transport Act 2000 (air traffic services) [^c22501601];
 - “**air traffic services licence holder**” means a person who holds a licence under Chapter 1 of Part 1 of the Transport Act 2000 [^c22501611];
 - “**air transport services**” has the same meaning as in section 82 of the Airports Act 1986 [^c22501621];
-- “**operational building**” means , for the purposes of Class F,[^key-073389cd82586c1e50ecc97c5f4b411a] a building, other than a hotel, required in connection with the movement or maintenance of aircraft, or with the embarking, disembarking, loading, discharge or transport of passengers, livestock or goods at a relevant airport;
+- “**operational building**” means , for the purposes of Class F,[^c-073389cd82586c1e50ecc97c5f4b411a] a building, other than a hotel, required in connection with the movement or maintenance of aircraft, or with the embarking, disembarking, loading, discharge or transport of passengers, livestock or goods at a relevant airport;
 - “**relevant airport**” means an airport to which Part 5 of the Airports Act 1986 (status of certain airport operators as statutory undertakers etc.) [^c22501631] applies;
 - “**relevant airport operator**” means a relevant airport operator within the meaning of section 57A of the Airports Act 1986 (scope of Part 5); and
 - “**transport legislation**” means section 14(1)(d) of the Transport Act 1962 (supplemental provisions relating to the Boards' powers) [^c22501641] or section 10(1)(x) of the Transport Act 1968 (general powers of Passenger Transport Executive) [^c22501651].
@@ -3471,7 +3471,7 @@ For the purposes of Part 8—
 - (a) ***on land within the boundaries of a road, of any works required for the maintenance or improvement of the road, where such works involve development by virtue of section 55(2)(b) [^c22501661] of the Act; or***
 - (b) ***on land outside but adjoining the boundary of an existing highway of works required for or incidental to the maintenance or improvement of the highway.***
 
-#### Class B – development by the Secretary of State or a strategic highways company under the Highways Act 1980[^key-d6d01ecec0b77549afe9354a72be05a0]
+#### Class B – development by the Secretary of State or a strategic highways company under the Highways Act 1980[^c-d6d01ecec0b77549afe9354a72be05a0]
 
 ##### B. Permitted development
 
@@ -3485,7 +3485,7 @@ For the purposes of Class B, “**strategic highways company**” means a compan
 
 ##### C. Permitted development
 
-***Development by transport undertakers[^key-d4622a05eccd720da3aa2326e50656f4] required for the purposes of the carrying on of any tramway or road transport undertaking consisting of—***
+***Development by transport undertakers[^c-d4622a05eccd720da3aa2326e50656f4] required for the purposes of the carrying on of any tramway or road transport undertaking consisting of—***
 
 - (a) ***the installation of posts, overhead wires, underground cables, feeder pillars or transformer boxes in, on, over or adjacent to a highway for the purpose of supplying current to public service vehicles;***
 - (b) ***the installation of tramway tracks, and conduits, drains and pipes in connection with such tracks for the working of tramways;***
@@ -3569,7 +3569,7 @@ For the purposes of Class D—
 
 For the purposes of Class E, “**unadopted street**” means a street not being a highway maintainable at the public expense within the meaning of the Highways Act 1980 [^c22501721].
 
-#### Class F - cross-pavement solutions : domestic premises[^key-8cad7e84b14a6c792f0fcd5731196cd3]
+#### Class F - cross-pavement solutions : domestic premises[^c-8cad7e84b14a6c792f0fcd5731196cd3]
 
 ##### F. Permitted development
 
@@ -3642,14 +3642,14 @@ For the purposes of Class A, “**building or monument**” means any building o
 Development is not permitted by Class B if—
 
 - (a) the building has been rendered unsafe or otherwise uninhabitable by the action or inaction of any person having an interest in the land on which the building stands and it is practicable to secure safety or health by works of repair or works for affording temporary support;
-- (b) the demolition is “**relevant demolition**” for the purposes of section 196D of the Act (demolition of an unlisted etc building in a conservation area) [^c22501741];[^key-a7e5426e131b4305673fa3838f9ded90]...
-- (c)[^key-548613c1374906611ca60b33c33e8502] the building is used, or was last used, for a purpose falling within—
+- (b) the demolition is “**relevant demolition**” for the purposes of section 196D of the Act (demolition of an unlisted etc building in a conservation area) [^c22501741];[^c-a7e5426e131b4305673fa3838f9ded90]...
+- (c)[^c-548613c1374906611ca60b33c33e8502] the building is used, or was last used, for a purpose falling within—
   - (i) article 3(6)(p) (drinking establishments etc.) of the Use Classes Order; or
   - (ii) article 3(6)(q) (drinking establishments with expanded food provision) of that Order;
-- (d)[^key-a18f94c093317185e541da81daf679a1] the building is used, or was last used, for the purpose of—
+- (d)[^c-a18f94c093317185e541da81daf679a1] the building is used, or was last used, for the purpose of—
   - (i) a concert hall;
   - (ii) a venue for live music performance; or
-  - (iii) a theatre ; or[^key-666324964526ce1ea34a905a4fca991b]
+  - (iii) a theatre ; or[^c-666324964526ce1ea34a905a4fca991b]
 - (e) the demolition relates to a statue, memorial or monument (“a commemorative structure”) in place for a period of at least 10 years on the date of any proposed demolition, other than a commemorative structure—
   - (i) that is a listed building;
   - (ii) that is a scheduled monument;
@@ -3663,30 +3663,30 @@ Development is permitted by Class B subject to the following conditions—
 
 - (a) where demolition is urgently necessary in the interests of safety or health and the measures immediately necessary in such interests are the demolition of the building the developer must, as soon as reasonably practicable, give the local planning authority a written justification of the demolition;
 - (b) where the demolition does not fall within paragraph (a) and is not excluded demolition—
-  - (i)[^key-4d4210e6186750354a75cf31da66c999] the developer must, before beginning the development, apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the method of demolition and any proposed restoration of the site;
-  - (ii) an application described in paragraph (b)(i)[^key-e4b600a6c3e961a37b11a7c265f13497] must be accompanied by a written description of the proposed development, a statement that a notice has been posted in accordance with paragraph (b)(iv) and any fee required to be paid;
-  - (iii)[^key-1e30cf07ec9bab8bfa9c06db5e0163b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-4d4210e6186750354a75cf31da66c999] the developer must, before beginning the development, apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the method of demolition and any proposed restoration of the site;
+  - (ii) an application described in paragraph (b)(i)[^c-e4b600a6c3e961a37b11a7c265f13497] must be accompanied by a written description of the proposed development, a statement that a notice has been posted in accordance with paragraph (b)(iv) and any fee required to be paid;
+  - (iii)[^c-1e30cf07ec9bab8bfa9c06db5e0163b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) subject to paragraph (b)(v), the applicant must display a site notice by site display on or near the land on which the building to be demolished is sited and must leave the notice in place for not less than 21 days in the period of 28 days beginning with the date on which the application was submitted to the local planning authority;
   - (v) where the site notice is, without any fault or intention of the applicant, removed, obscured or defaced before the period of 21 days referred to in paragraph (b)(iv) has elapsed, the applicant is treated as having complied with the requirements of that paragraph if the applicant has taken reasonable steps for protection of the notice and, if need be, its replacement;
-  - (vi)[^key-123cb1957e83985eccb150b70f41328a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (vii) [^key-acb95b7fb33139e24a541a8d9c63d2e6]... the development must not begin before the occurrence of one of the following—
+  - (vi)[^c-123cb1957e83985eccb150b70f41328a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vii) [^c-acb95b7fb33139e24a541a8d9c63d2e6]... the development must not begin before the occurrence of one of the following—
     - (aa) the receipt by the applicant from the local planning authority of a written notice of their determination that such prior approval is not required;
     - (bb) where the local planning authority give the applicant notice within 28 days following the date of receiving the application of their determination that such prior approval is required, the giving of such approval; or
     - (cc) the expiry of 28 days following the date on which the application was received by the local planning authority without the local planning authority making any determination as to whether such approval is required or notifying the applicant of their determination;
   - (viii) the development must, except to the extent that the local planning authority otherwise agree in writing, be carried out—
     - (aa) where prior approval is required, in accordance with the details approved;
     - (bb) where prior approval is not required, in accordance with the details submitted with the application;
-  - (ix) [^key-c238767e4347fe0e10c64033aed8fc20]... the development must be carried out—
+  - (ix) [^c-c238767e4347fe0e10c64033aed8fc20]... the development must be carried out—
     - (aa) where approval has been given by the local planning authority, within a period of 5 years from the date on which approval was given;
     - (bb) in any other case, within a period of 5 years from the date on which the local planning authority were given the information referred to in paragraph (b)(ii); and
-  - (x)[^key-96ce790daec38c1f940befbfedddba07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (x)[^c-96ce790daec38c1f940befbfedddba07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### B.3 Interpretation of Class B
 
 For the purposes of Class B—
 
-- [^key-16103390f30d6415a4815258d7fe673d]...
-- “cemetery” has the meaning given by section 214(8) of the Local Government Act 1972;[^key-df869df0484a8ec0843798563c84437a]
+- [^c-16103390f30d6415a4815258d7fe673d]...
+- “cemetery” has the meaning given by section 214(8) of the Local Government Act 1972;[^c-df869df0484a8ec0843798563c84437a]
 - “dwellinghouse” does not include educational accommodation;
 - “**excluded demolition**” means demolition—
   - (a) on land which is the subject of a planning permission, for the redevelopment of the land, granted on an application or deemed to be granted under Part 3 of the Act (control over development),
@@ -3694,9 +3694,9 @@ For the purposes of Class B—
   - (c) permitted to be carried out by a consent under Part 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (listed building consent) [^c22501771],
   - (d) required or permitted to be carried out by or under any other enactment, or
   - (e) required to be carried out by virtue of a relevant obligation;
-- [^key-16103390f30d6415a4815258d7fe673d]...
-- [^key-16103390f30d6415a4815258d7fe673d]...
-- [^key-16103390f30d6415a4815258d7fe673d]...
+- [^c-16103390f30d6415a4815258d7fe673d]...
+- [^c-16103390f30d6415a4815258d7fe673d]...
+- [^c-16103390f30d6415a4815258d7fe673d]...
 - “**relevant obligation**” means—
   - (a) an obligation arising under an agreement made under section 106 of the Act, as originally enacted (agreements regulating development or use of land);
   - (b) a planning obligation entered into under section 106 of the Act, as substituted by section 12 of the Planning and Compensation Act 1991 (planning obligations) [^c22501791], or under section 299A of the Act (Crown planning obligations) [^c22501801];
@@ -3709,8 +3709,8 @@ For the purposes of Class B—
   - (e) the name and address of the local planning authority,
 
   and which is signed and dated by or on behalf of the applicant;
-- [^key-16103390f30d6415a4815258d7fe673d]...
-- [^key-16103390f30d6415a4815258d7fe673d]...
+- [^c-16103390f30d6415a4815258d7fe673d]...
+- [^c-16103390f30d6415a4815258d7fe673d]...
 
 #### Class C – demolition of gates, fences, walls etc
 
@@ -3728,7 +3728,7 @@ Development is not permitted by Class C if the demolition is “**relevant demol
 
 ##### A. Permitted development
 
-***The erection or construction and the maintenance, improvement or other alteration by or on behalf of[^key-c25868f226cbfde2a0c7850c9106f856] a local authority or by or on behalf of an urban development corporation of—***
+***The erection or construction and the maintenance, improvement or other alteration by or on behalf of[^c-c25868f226cbfde2a0c7850c9106f856] a local authority or by or on behalf of an urban development corporation of—***
 
 - (a) ***any small ancillary building, works or equipment on land belonging to or maintained by them required for the purposes of any function exercised by them on that land otherwise than as statutory undertakers;***
 - (b) ***lamp standards, information kiosks, passenger shelters, public shelters and seats, telephone boxes, fire alarms, public drinking fountains, horse troughs, refuse bins or baskets, barriers for the control of people waiting to enter public service vehicles, electric vehicle charging points and any associated infrastructure, and similar structures or works required in connection with the operation of any public service administered by them.***
@@ -3749,15 +3749,15 @@ For the purposes of Class A, “**urban development corporation**” has the sam
 
 Development is not permitted by Class B if the waste material is or includes material resulting from the winning and working of minerals.
 
-#### Class BA - holding of a market by or on behalf of a local authority[^key-11cd6948dfec1acf4a0dd4f95f88b9d5]
+#### Class BA - holding of a market by or on behalf of a local authority[^c-11cd6948dfec1acf4a0dd4f95f88b9d5]
 
 ##### BA. Permitted development
 
-***The use of any land for the purposes of holding a market by or on behalf of a local authority and the provision on the land of any moveable structure for the permitted use [^key-79fab522fe4d6039f1145aba354b2658]....***
+***The use of any land for the purposes of holding a market by or on behalf of a local authority and the provision on the land of any moveable structure for the permitted use [^c-79fab522fe4d6039f1145aba354b2658]....***
 
 ##### BA.1 Development not permitted
 
-Development is not permitted by Class BA if the land—[^key-a755275246c4a58f7042521e7514bfc4]
+Development is not permitted by Class BA if the land—[^c-a755275246c4a58f7042521e7514bfc4]
 
 - (a) is, or is within, a site of special scientific interest; or
 - (b) is, or contains, a scheduled monument.
@@ -3766,7 +3766,7 @@ Development is not permitted by Class BA if the land—[^key-a755275246c4a58f704
 
 For the purposes of Part 12, “**local authority**” includes a parish council , a National Park authority and the Broads Authority[^M_F_decc0dae-d5d5-4a96-82b5-bb1227770cdb].
 
-### PART 12A — Development by Local Authorities and Health Service Bodies[^key-3d1ac64304ded4629cf92971532bed5d]
+### PART 12A — Development by Local Authorities and Health Service Bodies[^c-3d1ac64304ded4629cf92971532bed5d]
 
 #### Class A - Emergency development by a local authority or health service body
 
@@ -3802,7 +3802,7 @@ Development is not permitted by Class A if—
 Development is permitted by Class A subject to the following conditions—
 
 - (a) if the developer is not the local planning authority, the developer must, as soon as practicable after commencing development, notify the local planning authority of the development;
-- (b) any use of the land for the purposes of Class A ceases on or before 31st December 2022[^key-407dd44ce992ae79112a0ad4e1808831]; and
+- (b) any use of the land for the purposes of Class A ceases on or before 31st December 2022[^c-407dd44ce992ae79112a0ad4e1808831]; and
 - (c) on or before the expiry of a period of 12 months beginning with the date on which the use of the land ceases for the purpose of Class A—
   - (i) any building, works, plant, machinery, structure and erection permitted by Class A is removed; and
   - (ii) the land is restored to its condition before the development took place, or, if the developer is not also the local planning authority, to such other state as may be agreed in writing between the local planning authority and the developer.
@@ -3817,10 +3817,10 @@ Development is permitted by Class A subject to the following conditions—
 - “health service body” means—
   - (a) the National Health Service Commissioning Board;
   - (b) the Care Quality Commission;
-  - (c) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^key-7d8881773f3f8a69feef531e4289abf8];
-  - (d) [^key-378a6f683de908938c8e506da0f837d6]...
+  - (c) an integrated care board established under Chapter A3 of Part 2 of the National Health Service Act 2006[^c-7d8881773f3f8a69feef531e4289abf8];
+  - (d) [^c-378a6f683de908938c8e506da0f837d6]...
   - (e) the Health Research Authority;
-  - (f) [^key-a4743b832ba561a957563bfbc358784e]...
+  - (f) [^c-a4743b832ba561a957563bfbc358784e]...
   - (g) the Human Fertilisation and Embryology Authority;
   - (h) the Human Tissue Authority;
   - (i) Monitor;
@@ -3961,19 +3961,19 @@ Development is permitted by Class D(c) subject to the condition that, on complet
 
 ##### A.1 Development not permitted
 
-Development not permitted: block of flats[^key-f1568a9c245b3c2bf2158ea1735380b3]
+Development not permitted: block of flats[^c-f1568a9c245b3c2bf2158ea1735380b3]
 
 (1) Development is not permitted by Class A on a block of flats, or a building within the curtilage of a block of flats, if—
 
-- (a) the solar PV or solar thermal equipment would protrude more than 0.2 metres beyond the plane of the wall or , in the case of a pitched roof,[^key-c7eebd229f5a9aeffe306f2c7db51c61] the roof slope when measured from the perpendicular with the external surface of the wall or pitched[^key-72898a15808f6ebba06433b5c359ca45] roof slope;
-- (b) in the case of solar PV or solar thermal equipment on a pitched roof,[^key-41f3312e58b29bf619820ba7fae33070] it would result in the highest part of the solar PV or solar thermal equipment being higher than the highest part of the roof (excluding any chimney);
-- (ba)[^key-ef9ac31abc63bf0283d39689a168e3e2] in the case of solar PV or solar thermal equipment on a flat roof, it would result in the highest part of the solar PV or solar thermal equipment being more than 0.6 metres higher than the highest part of the roof (excluding any chimney);
+- (a) the solar PV or solar thermal equipment would protrude more than 0.2 metres beyond the plane of the wall or , in the case of a pitched roof,[^c-c7eebd229f5a9aeffe306f2c7db51c61] the roof slope when measured from the perpendicular with the external surface of the wall or pitched[^c-72898a15808f6ebba06433b5c359ca45] roof slope;
+- (b) in the case of solar PV or solar thermal equipment on a pitched roof,[^c-41f3312e58b29bf619820ba7fae33070] it would result in the highest part of the solar PV or solar thermal equipment being higher than the highest part of the roof (excluding any chimney);
+- (ba)[^c-ef9ac31abc63bf0283d39689a168e3e2] in the case of solar PV or solar thermal equipment on a flat roof, it would result in the highest part of the solar PV or solar thermal equipment being more than 0.6 metres higher than the highest part of the roof (excluding any chimney);
 - (c) in the case of land within a conservation area or which is a World Heritage Site, the solar PV or solar thermal equipment would be installed on a wall which fronts a highway;
-- (d) the solar PV or solar thermal equipment would be installed on a site designated as a scheduled monument; [^key-45b6dd2e83cd9d2b3a3460cde4a15ba4]...
-- (e)[^key-68f1a0d58b40b2582e2a619a2de92bdd] the solar PV or solar thermal equipment would be installed on a block of flats, or on a building within the curtilage of a block of flats, if the block of flats is a listed building; or
-- (f)[^key-3dfe087b0bca53dc97fdb195cf210483] in the case of plug-in solar, where any part of the plug-in solar would be installed on a wooden wall, balcony or enclosure or on any part of the exterior of a block of flats which is clad in timber.
+- (d) the solar PV or solar thermal equipment would be installed on a site designated as a scheduled monument; [^c-45b6dd2e83cd9d2b3a3460cde4a15ba4]...
+- (e)[^c-68f1a0d58b40b2582e2a619a2de92bdd] the solar PV or solar thermal equipment would be installed on a block of flats, or on a building within the curtilage of a block of flats, if the block of flats is a listed building; or
+- (f)[^c-3dfe087b0bca53dc97fdb195cf210483] in the case of plug-in solar, where any part of the plug-in solar would be installed on a wooden wall, balcony or enclosure or on any part of the exterior of a block of flats which is clad in timber.
 
-Development not permitted: dwellinghouse[^key-6b7dd5e249ebb8d2e3b7ccfa7d4802ed]
+Development not permitted: dwellinghouse[^c-6b7dd5e249ebb8d2e3b7ccfa7d4802ed]
 
 (2) Development is not permitted by Class A on a dwellinghouse, or a building within the curtilage of a dwellinghouse, if—
 
@@ -3997,9 +3997,9 @@ Development not permitted: dwellinghouse[^key-6b7dd5e249ebb8d2e3b7ccfa7d4802ed]
 Development is permitted by Class A subject to the following conditions—
 
 - (a) solar PV or solar thermal equipment is, so far as practicable, sited so as to minimise its effect on the external appearance of the building;
-- (b) solar PV or solar thermal equipment is, so far as practicable, sited so as to minimise its effect on the amenity of the area; [^key-c161982904e61ae0e7362c024c9ad9fd]...
+- (b) solar PV or solar thermal equipment is, so far as practicable, sited so as to minimise its effect on the amenity of the area; [^c-c161982904e61ae0e7362c024c9ad9fd]...
 
-(ba)[^key-8f7b90d23e4a989c1c288a86b12660fc] in the case of solar PV or solar thermal equipment installed on a flat roof located on article 2(3) land, before beginning development the developer must apply to the local planning authority for a determination as to whether the prior approval of the local planning authority will be required with respect to the impact of the appearance of the solar PV or solar thermal equipment on that land;
+(ba)[^c-8f7b90d23e4a989c1c288a86b12660fc] in the case of solar PV or solar thermal equipment installed on a flat roof located on article 2(3) land, before beginning development the developer must apply to the local planning authority for a determination as to whether the prior approval of the local planning authority will be required with respect to the impact of the appearance of the solar PV or solar thermal equipment on that land;
 
 (bb) in relation to an application under sub-paragraph (ba), paragraphs J.4(3) to J.4(12) of this Part apply as if “Class A” substitutes the reference to “Class J” in paragraph J.4(4); and
 
@@ -4013,21 +4013,21 @@ Development is permitted by Class A subject to the following conditions—
 
 ##### B.1 Development not permitted
 
-Development not permitted: block of flats[^key-5b608b24df44f4754347da191202ac55]
+Development not permitted: block of flats[^c-5b608b24df44f4754347da191202ac55]
 
 (1) Development is not permitted by Class B within the curtilage of a block of flats if—
 
 - (a) in the case of the installation of stand-alone solar, the development would result in the presence within the curtilage of more than 1 stand-alone solar;
 - (b) any part of the stand-alone solar—
-  - (i) would exceed 4 metres in height or, in the case of stand-alone solar on land in a conservation area which would be installed so that it is nearer to any highway which bounds the curtilage than the part of the[^key-78e69d3029406e23199ea28d50dc5f73] [^key-7e5608c93ee05791531768e898a36a82]... or block of flats which is nearest to that highway, 2 metres in height;
-  - (ii) would, in the case of land [^key-0641349d56dd79d7e771c3037a6a116e]... which is a World Heritage Site, be installed so that it is nearer to any highway which bounds the curtilage than the part of the [^key-6de1afaa3dd6a146502d7dafb798c151]...or block of flats which is nearest to that highway;
+  - (i) would exceed 4 metres in height or, in the case of stand-alone solar on land in a conservation area which would be installed so that it is nearer to any highway which bounds the curtilage than the part of the[^c-78e69d3029406e23199ea28d50dc5f73] [^c-7e5608c93ee05791531768e898a36a82]... or block of flats which is nearest to that highway, 2 metres in height;
+  - (ii) would, in the case of land [^c-0641349d56dd79d7e771c3037a6a116e]... which is a World Heritage Site, be installed so that it is nearer to any highway which bounds the curtilage than the part of the [^c-6de1afaa3dd6a146502d7dafb798c151]...or block of flats which is nearest to that highway;
   - (iii) would be installed within 5 metres of the boundary of the curtilage;
   - (iv) would be installed within the curtilage of a listed building; or
-  - (v) would be installed on a site designated as a scheduled monument; [^key-97025964b27ed709fc0ae1c4ce579bfb]...
-- (c) the surface area of the solar panels forming part of the stand-alone solar would exceed 9 square metres or any dimension of its array (including any housing) would exceed 3 metres ; or[^key-98952c7881d1a0dbfb3bfa89a7c38076]
-- (d)[^key-637165e39ea03a93a13693a0bd218e35] in the case of plug-in solar, any part of the plug-in solar would be installed on a wooden fence, gate, wall or other means of enclosure.
+  - (v) would be installed on a site designated as a scheduled monument; [^c-97025964b27ed709fc0ae1c4ce579bfb]...
+- (c) the surface area of the solar panels forming part of the stand-alone solar would exceed 9 square metres or any dimension of its array (including any housing) would exceed 3 metres ; or[^c-98952c7881d1a0dbfb3bfa89a7c38076]
+- (d)[^c-637165e39ea03a93a13693a0bd218e35] in the case of plug-in solar, any part of the plug-in solar would be installed on a wooden fence, gate, wall or other means of enclosure.
 
-Development not permitted: dwellinghouse[^key-141bb11541478538831c006dced27676]
+Development not permitted: dwellinghouse[^c-141bb11541478538831c006dced27676]
 
 (2) Development is not permitted by Class B within the curtilage of a dwellinghouse if—
 
@@ -4052,9 +4052,9 @@ Development not permitted: dwellinghouse[^key-141bb11541478538831c006dced27676]
 
 Development is permitted by Class B subject to the following conditions—
 
-(a) stand-alone solar is, so far as practicable, sited so as to minimise its effect on the amenity of the area; [^key-77d65d3f0b34567bcc3ceeb3cb1618c8]...
+(a) stand-alone solar is, so far as practicable, sited so as to minimise its effect on the amenity of the area; [^c-77d65d3f0b34567bcc3ceeb3cb1618c8]...
 
-(aa)[^key-00499037d5caab64ff44f926557f23e2][^key-2a75551fe6e5febaf9a9752bd704720d] where either or both of the following criteria are met—
+(aa)[^c-00499037d5caab64ff44f926557f23e2][^c-2a75551fe6e5febaf9a9752bd704720d] where either or both of the following criteria are met—
 
 - (i) any part of the stand-alone solar would be installed in a conservation area and nearer to any highway which bounds the curtilage than the part of the dwellinghouse or block of flats which is nearest that highway;
 - (ii) any part of the stand-alone solar would be installed on article 2(3) land and within 5 metres of the boundary of the curtilage,
@@ -4114,21 +4114,21 @@ Development is not permitted by Class F if—
 
 ##### G.1 Development not permitted
 
-Development is not permitted by Class G unless the air source heat pump complies with the MCS Planning Standards [^key-19e4b16e72f0fcb6b7b5a08becef276a]....
+Development is not permitted by Class G unless the air source heat pump complies with the MCS Planning Standards [^c-19e4b16e72f0fcb6b7b5a08becef276a]....
 
 **G.2** Development is not permitted by Class G if—
 
-- (a) in the case of the installation of an air source heat pump, the development would result in the presence of —[^key-d59624f1c592edeca026b34e1be5e8dd]
+- (a) in the case of the installation of an air source heat pump, the development would result in the presence of —[^c-d59624f1c592edeca026b34e1be5e8dd]
   - (i) more than one air source heat pump on, or within the curtilage of—
     - (aa) a dwellinghouse which is not a detached dwellinghouse;
     - (bb) a block of flats;
   - (ii) more than two air source heat pumps on, or within the curtilage of, a detached dwellinghouse;
 - (b) in the case of the installation of an air source heat pump, a wind turbine is installed on the same building or within the curtilage of the dwellinghouse or block of flats;
 - (c) in the case of the installation of an air source heat pump, a stand-alone wind turbine is installed within the curtilage of the dwellinghouse or block of flats;
-- (d) the volume of the air source heat pump's outdoor compressor unit (including any housing) would —[^key-b6cf03fe7053c0c0cc50ca030f49f529]
+- (d) the volume of the air source heat pump's outdoor compressor unit (including any housing) would —[^c-b6cf03fe7053c0c0cc50ca030f49f529]
   - (i) in the case of the installation of an air source heat pump on, or within the curtilage of, a dwellinghouse, exceed 1.5 cubic metres;
   - (ii) in the case of the installation of an air source heat pump on, or within the curtilage of, a block of flats, exceed 0.6 cubic metres;
-- (e)[^key-b7bc80c36be8c1b6e19d40ba028cd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-b7bc80c36be8c1b6e19d40ba028cd47b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the air source heat pump would be installed on a pitched roof;
 - (g) the air source heat pump would be installed on a flat roof where it would be within 1 metre of the external edge of that roof;
 - (h) the air source heat pump would be installed on a site designated as a scheduled monument;
@@ -4144,8 +4144,8 @@ Development is not permitted by Class G unless the air source heat pump complies
 
 Development is permitted by Class G subject to the following conditions—
 
-- (a)[^key-b31659142ec18a367ad6a2cd4504983d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-8101380e9a36b22b2b90b44ecaa3e305] the air source heat pump is not solely used for the purpose of cooling;
+- (a)[^c-b31659142ec18a367ad6a2cd4504983d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-8101380e9a36b22b2b90b44ecaa3e305] the air source heat pump is not solely used for the purpose of cooling;
 - (b) the air source heat pump is, so far as practicable, sited so as to minimise its effect on the external appearance of the building;
 - (c) the air source heat pump is, so far as practicable, sited so as to minimise its effect on the amenity of the area; and
 - (d) the air source heat pump is removed as soon as reasonably practicable when no longer needed.
@@ -4246,8 +4246,8 @@ Development is not permitted by Class J if—
 
 - (a) the solar PV equipment or solar thermal equipment would be installed on a pitched roof and would protrude more than 0.2 metres beyond the plane of the roof slope when measured from the perpendicular with the external surface of the roof slope;
 - (b) the solar PV equipment or solar thermal equipment would be installed on a flat roof, where the highest part of the solar PV equipment would be higher than 1 metre above the highest part of the roof (excluding any chimney);
-- (c) the solar PV equipment or solar thermal equipment would be installed on a roof and[^key-f152591ccc82178745ee98f41ce16664] within 1 metre of the external edge of that roof;
-- (d)[^key-42af180f3fc0246937479d07d39fc677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the solar PV equipment or solar thermal equipment would be installed on a roof and[^c-f152591ccc82178745ee98f41ce16664] within 1 metre of the external edge of that roof;
+- (d)[^c-42af180f3fc0246937479d07d39fc677] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) the solar PV equipment or solar thermal equipment would be installed on a site designated as a scheduled monument; or
 - (f) the solar PV equipment or solar thermal equipment would be installed on a listed building or on a building within the curtilage of a listed building.
 
@@ -4257,7 +4257,7 @@ Development is not permitted by Class J if—
 - (b) the solar PV equipment or solar thermal equipment would be installed on a wall and within 1 metre of a junction of that wall with another wall or with the roof of the building; or
 - (c) in the case of a building on article 2(3) land, the solar PV equipment or solar thermal equipment would be installed on a wall which fronts a highway.
 
-**J.3**[^key-689f3ff28714333c113ba9044b667117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**J.3**[^c-689f3ff28714333c113ba9044b667117] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### J.4 Conditions
 
@@ -4299,7 +4299,7 @@ any conditions, limitations or restrictions specified in Class J applicable to t
 (8) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of any notice given under sub-paragraph (6); and
-- (b)[^key-fc9823cffa9715608b0eb395f65695b4] have regard to the National Planning Policy Framework [^key-cf0b892052ba0ced71418db5c5833ef4]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b)[^c-fc9823cffa9715608b0eb395f65695b4] have regard to the National Planning Policy Framework [^c-cf0b892052ba0ced71418db5c5833ef4]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (9) The development must not begin before the occurrence of one of the following—
 
@@ -4330,8 +4330,8 @@ Development is not permitted by Class K if—
 
 - (a) in the case of the installation of stand-alone solar, the development would result in the presence within the curtilage of more than 1 stand-alone solar;
 - (b) any part of the stand-alone solar—
-  - (i) would exceed 4 metres in height or, in the case of stand-alone solar installed on article 2(3) land so that it is nearer to any highway which bounds the curtilage than the part of the building which is nearest to that highway, 2 metres in height[^key-e1601a9208a72f8dc9e29e088a869870];
-  - (ii)[^key-781d8c011263f8a21937e7c56833a88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) would exceed 4 metres in height or, in the case of stand-alone solar installed on article 2(3) land so that it is nearer to any highway which bounds the curtilage than the part of the building which is nearest to that highway, 2 metres in height[^c-e1601a9208a72f8dc9e29e088a869870];
+  - (ii)[^c-781d8c011263f8a21937e7c56833a88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) would be installed within 5 metres of the boundary of the curtilage;
   - (iv) would be installed within the curtilage of a listed building; or
   - (v) would be installed on a site designated as a scheduled monument; or
@@ -4341,9 +4341,9 @@ Development is not permitted by Class K if—
 
 Development is permitted by Class K subject to the following conditions—
 
-- (a) the stand-alone solar must, so far as practicable, be sited so as to minimise its effect on the amenity of the area; [^key-3a5e160cd70b8cdecd22eaf96b165f6a]...
+- (a) the stand-alone solar must, so far as practicable, be sited so as to minimise its effect on the amenity of the area; [^c-3a5e160cd70b8cdecd22eaf96b165f6a]...
 
-(aa)[^key-9e4e8b0b6b9e64251a2c17dafe2b7fbc] in the case of stand-alone solar installed on article 2(3) land nearer to any highway which bounds the curtilage than the part of the building which is nearest to that highway, before beginning development the developer must apply to the local planning authority for a determination as to whether the prior approval of the local planning authority will be required with respect to the impact of the appearance of the stand-alone solar on that land;
+(aa)[^c-9e4e8b0b6b9e64251a2c17dafe2b7fbc] in the case of stand-alone solar installed on article 2(3) land nearer to any highway which bounds the curtilage than the part of the building which is nearest to that highway, before beginning development the developer must apply to the local planning authority for a determination as to whether the prior approval of the local planning authority will be required with respect to the impact of the appearance of the stand-alone solar on that land;
 
 (ab) in relation to an application under sub-paragraph (aa), paragraphs J.4(3) to J.4(12) of this Part apply as if “Class K” substitutes the reference to “Class J” in paragraph J.4(4); and
 
@@ -4419,7 +4419,7 @@ Development is not permitted by Class O if—
 - (d) the flue would be installed on a listed building, within the curtilage of a listed building, or on a site designated as a scheduled monument; or
 - (e) in the case of a building on article 2(3) land, the flue would be installed on a wall or roof slope which fronts a highway.
 
-#### Class OA - installation etc of a solar canopy on non-domestic, off-street parking[^key-a6e119109b8360e84eeaa43ed74828a3]
+#### Class OA - installation etc of a solar canopy on non-domestic, off-street parking[^c-a6e119109b8360e84eeaa43ed74828a3]
 
 ##### OA. Permitted development
 
@@ -4469,14 +4469,14 @@ For the purposes of Part 14—
 - “**air traffic services licence holder**” means a person who holds a licence under Chapter 1 of Part 1 of the Transport Act 2000 [^c22501891];
 - “**block of flats**” means a building which consists wholly of flats;
 - “detached dwellinghouse” or “**detached building**” means a dwellinghouse or building, as the case may be, which does not share a party wall with a neighbouring building;
-- “**MCS Planning Standards**” means the standards specified in the Microgeneration Certification Scheme for air source heat pumps (being MCS 020 a) - Air Source Heat Pump Sound Calculation (For Permitted Development Installations))[^key-ff07a29422da03f7261646123bd8f36a] and for small and micro wind turbines (being MCS 020 b) - Wind Turbine Sound Calculation (For Permitted Development Installations))[^key-1dc5de50510b3d105546f5331e6d8737] ;
+- “**MCS Planning Standards**” means the standards specified in the Microgeneration Certification Scheme for air source heat pumps (being MCS 020 a) - Air Source Heat Pump Sound Calculation (For Permitted Development Installations))[^c-ff07a29422da03f7261646123bd8f36a] and for small and micro wind turbines (being MCS 020 b) - Wind Turbine Sound Calculation (For Permitted Development Installations))[^c-1dc5de50510b3d105546f5331e6d8737] ;
 - “**microgeneration**” has the same meaning as in section 82(6) of the Energy Act 2004 [^c22501921];
 - “plug-in solar” means solar photovoltaics that are intended for connection to the relevant domestic premises’ electricity installation by means of a standard plug and socket;[^M_F_14935887-e27a-466e-f8fb-ff073f1dd4d0]
 - “roof enclosure” includes any balustrade, railing, parapet or other enclosure installed on the roof of a building;
 - “**safeguarded land**” means land which—
   - (a) is necessary to be safeguarded for aviation or defence purposes; and
   - (b) has been notified as such, in writing, to the Secretary of State by an aerodrome operator, an air traffic services licence holder or the Secretary of State for Defence for the purposes of this Part;
-- “[^key-7bfb963ca9f528d10e2459f2f639d93a]**solar canopy**” means a canopy structure—
+- “[^c-7bfb963ca9f528d10e2459f2f639d93a]**solar canopy**” means a canopy structure—
   - (a) installed with solar PV or solar thermal equipment, and
   - (b) open on all sides or, in the case of development adjoining a building, on three sides;
 - “**solar PV**” means solar photovoltaics including plug-in solar[^M_F_c66eb676-ed22-4ccb-869c-d0c7fe7893c2];
@@ -4496,7 +4496,7 @@ For the purposes of Part 14—
 - (a) ***the laying underground of mains, pipes or other apparatus;***
 - (b) ***the installation in a gas distribution system of apparatus for measuring, recording, controlling or varying the pressure, flow or volume of gas, and structures for housing such apparatus;***
 - (c) ***the construction in any storage area or protective area specified in an order made under section 4 of the Gas Act 1965 (storage authorisation orders)******[^c22501931], of boreholes, and the erection or construction in any such area of any plant or machinery required in connection with the construction of such boreholes;***
-- (d) ***the placing and storage on land of pipes and other apparatus to be included in a main or pipe which is being or is about to be laid or constructed in pursuance of planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^key-a186d0b6bc966775e3948bad687e09e1];***
+- (d) ***the placing and storage on land of pipes and other apparatus to be included in a main or pipe which is being or is about to be laid or constructed in pursuance of planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^c-a186d0b6bc966775e3948bad687e09e1];***
 - (e) ***the erection on operational land of the gas transporter of a building solely for the protection of plant or machinery;***
 - (f) ***any other development carried out in, on, over or under the operational land of the gas transporter.***
 
@@ -4535,7 +4535,7 @@ Development is permitted by Class A subject to the following conditions—
 - (b) ***the installation or replacement of any electronic communications line which connects any part of an electric line to any electrical plant or building, and the installation or replacement of any support for any such line;***
 - (c) ***the sinking of boreholes to ascertain the nature of the subsoil and the installation of any plant or machinery reasonably necessary in connection with such boreholes;***
 - (d) ***the extension or alteration of buildings on operational land;***
-- (e) ***the erection on operational land of the undertaking of[^key-7ed02043daff41d93fdca5301b8e8310] a building solely for the protection of plant or machinery;***
+- (e) ***the erection on operational land of the undertaking of[^c-7ed02043daff41d93fdca5301b8e8310] a building solely for the protection of plant or machinery;***
 - (f) ***any other development carried out in, on, over or under the operational land of the undertaking.***
 
 ##### B.1 Development not permitted
@@ -4543,9 +4543,9 @@ Development is permitted by Class A subject to the following conditions—
 Development is not permitted by Class B if—
 
 - (a) in the case of any Class B(a) development—
-  - (i) it would consist of or include the installation or replacement of an electric line to which section 37(1) of the Electricity Act 1989 (consent required for overhead lines) [^c22501951] applies; [^key-c8227e3bbc7e81b45dfc24de1b1a6f9e]...
-  - (ii) it would consist of or include the installation or replacement at or above ground level or under a highway used by vehicular traffic, of a chamber for housing apparatus and the chamber would exceed 45 cubic metres in capacity; or[^key-110ed0fa18bccf05f8f8e57b18c759b5]
-  - (iii)[^key-567dd3979f2bc2ab4d898e8d7dfabf0d] it would consist of or include the installation or replacement at or above ground level or under a highway used by vehicular traffic, of a chamber for housing apparatus which would exceed 29 cubic metres in capacity where any of the following criteria are also met in respect of any part of the chamber—
+  - (i) it would consist of or include the installation or replacement of an electric line to which section 37(1) of the Electricity Act 1989 (consent required for overhead lines) [^c22501951] applies; [^c-c8227e3bbc7e81b45dfc24de1b1a6f9e]...
+  - (ii) it would consist of or include the installation or replacement at or above ground level or under a highway used by vehicular traffic, of a chamber for housing apparatus and the chamber would exceed 45 cubic metres in capacity; or[^c-110ed0fa18bccf05f8f8e57b18c759b5]
+  - (iii)[^c-567dd3979f2bc2ab4d898e8d7dfabf0d] it would consist of or include the installation or replacement at or above ground level or under a highway used by vehicular traffic, of a chamber for housing apparatus which would exceed 29 cubic metres in capacity where any of the following criteria are also met in respect of any part of the chamber—
     - (aa) it would exceed three metres in height;
     - (bb) it would be situated within five metres of a dwellinghouse;
     - (cc) it would be situated on a site of special scientific interest; or
@@ -4565,11 +4565,11 @@ Development is not permitted by Class B if—
 
 ##### B.2 Conditions
 
-(1)[^key-55832c306c6c74109139ac27d4c46006] Development is permitted by Class B subject to the following conditions—
+(1)[^c-55832c306c6c74109139ac27d4c46006] Development is permitted by Class B subject to the following conditions—
 
 - (a) in the case of any Class B(a) development consisting of or including the replacement of an existing electric line, compliance with any conditions contained in a planning permission relating to the height, design or position of the existing electric line which are capable of being applied to the replacement line;
 - (b) in the case of any Class B(a) development consisting of or including the installation of a temporary electric line providing a diversion for an existing electric line, on the ending of the diversion or at the end of a period of 6 months from the completion of the installation (whichever is the sooner) the temporary electric line is removed and the land on which any operations have been carried out to install that line is restored as soon as reasonably practicable to its condition before the installation took place;
-- (ba)[^key-d0ceb8c7f834c6ab2d010143d81fa76a] in the case of any Class B(a) development consisting of or including the installation or replacement at, or above ground level or under a highway used by vehicular traffic, of a chamber for housing apparatus where—
+- (ba)[^c-d0ceb8c7f834c6ab2d010143d81fa76a] in the case of any Class B(a) development consisting of or including the installation or replacement at, or above ground level or under a highway used by vehicular traffic, of a chamber for housing apparatus where—
   - (i) the chamber would exceed 29 cubic metres in capacity; and
   - (ii) any part of the chamber would be situated on article 2(3) land,
 
@@ -4580,7 +4580,7 @@ Development is not permitted by Class B if—
   - (ii) in a National Park, outside a metropolitan county, the county planning authority,
   - (iii) in any other case, the district planning authority.
 
-(2)[^key-1ad9fda5f051a02980279ec109183dc8] In relation to an application under sub-paragraph (1)(ba), the application must be accompanied by—
+(2)[^c-1ad9fda5f051a02980279ec109183dc8] In relation to an application under sub-paragraph (1)(ba), the application must be accompanied by—
 
 - (a) a written description of the proposed development;
 - (b) a plan indicating the site and showing the proposed development;
@@ -4637,13 +4637,13 @@ For the purposes of Class B(a), “**electric line**” has the meaning given by
 **B.4** For the purposes of Class B(b)—
 
 - “**electrical plant**” has the meaning given by section 64(1) [^c22501971] to that Act; and
-- “**electronic communications line**” means a line which forms part of an electronic communications apparatus, (and both line and electronic communications apparatus have the meaning given in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^key-e5ff3635b042db5083f72b4247fa7619] (the electronic communications code)).
+- “**electronic communications line**” means a line which forms part of an electronic communications apparatus, (and both line and electronic communications apparatus have the meaning given in paragraph 5 of the electronic communications code set out in Schedule 3A to the Communications Act 2003[^c-e5ff3635b042db5083f72b4247fa7619] (the electronic communications code)).
 
 **B.5** For the purposes of Class B(d), (e) and (f), the land of the holder of a licence under section 6(1) of the Electricity Act 1989 (licensing of supply etc.) [^c22501991] is treated as operational land if it would be operational land within section 263 of the Act (meaning of “operational land”) [^c22502001] if such licence holders were statutory undertakers for the purpose of that section.
 
 ### PART 16 — Communications
 
-#### Class A – electronic communications code operators[^key-172e1d48d73a4658c9d61c581ca57e89]
+#### Class A – electronic communications code operators[^c-172e1d48d73a4658c9d61c581ca57e89]
 
 ##### A. Permitted development
 
@@ -4662,9 +4662,9 @@ For the purposes of Class B(a), “**electric line**” has the meaning given by
 - (a) in the case of the installation of electronic communications apparatus (other than a mast), the apparatus, excluding any antenna, would exceed a height of 15 metres above ground level;
 - (b) in the case of the alteration or replacement of electronic communications apparatus (other than a mast) that is already installed, the apparatus, excluding any antenna, would when altered or replaced exceed the height of the existing apparatus or a height of 15 metres above ground level, whichever is the greater;
 - (c) in the case of the installation of a mast, the mast, excluding any antenna, would exceed a height of—
-  - (i) 30[^key-c216f2ff0726d47329a311febb2aacf0] metres above ground level on unprotected land; or
-  - (ii) 25[^key-2ff9dd73813ea0709a20cef68d593678] metres above ground level on article 2(3) land or land which is on a highway; [^key-6357bb77dbe71090c0bbf87a48156c0d]...
-- (d)[^key-5d783a49ad0dddf311ef1d446c9c9d04] in the case of the alteration or replacement of a mast, the height of the mast, excluding any antenna, would when altered or replaced exceed the greater of the height of the existing mast or a height of—
+  - (i) 30[^c-c216f2ff0726d47329a311febb2aacf0] metres above ground level on unprotected land; or
+  - (ii) 25[^c-2ff9dd73813ea0709a20cef68d593678] metres above ground level on article 2(3) land or land which is on a highway; [^c-6357bb77dbe71090c0bbf87a48156c0d]...
+- (d)[^c-5d783a49ad0dddf311ef1d446c9c9d04] in the case of the alteration or replacement of a mast, the height of the mast, excluding any antenna, would when altered or replaced exceed the greater of the height of the existing mast or a height of—
   - (i) 30 metres above ground level on unprotected land; or
   - (ii) 25 metres above ground level on article 2(3) land or land which is on a highway; or
 - (e) in the case of the alteration or replacement of a mast—
@@ -4682,7 +4682,7 @@ For the purposes of Class B(a), “**electric line**” has the meaning given by
   - (i) 10 metres, in the case of a building which is 30 metres or more in height;
   - (ii) 8 metres, in the case of a building which is more than 15 metres but less than 30 metres in height; or
   - (iii) 6 metres in any other case;
-- (c)[^key-8e0784dc9f67e43ddc15f6e4b085ff13] in the case of the installation, alteration or replacement of a mast on a building which is—
+- (c)[^c-8e0784dc9f67e43ddc15f6e4b085ff13] in the case of the installation, alteration or replacement of a mast on a building which is—
   - (i) on article 2(3) land or land which is, or is within, a site of special scientific interest; and
   - (ii) less than 15 metres in height,
 
@@ -4716,7 +4716,7 @@ For the purposes of Class B(a), “**electric line**” has the meaning given by
   - (i) the development (excluding the installation, alteration or replacement of a mast) is carried out in an emergency and is within any limitations specified in paragraph A.1 for development of the same type on unprotected land;
   - (ii) the antenna or apparatus comprises or is part of a small cell system and is on a building which is not a dwellinghouse or within the curtilage of a dwellinghouse;
   - (iii) the antenna is a small antenna and the development is within the limitations specified in paragraph A.1(5) or (6); or
-  - (iv) where the antenna or apparatus is not a small cell system or a small antenna, the development is within the limitations specified in paragraphs A.1(1)(c)(ii), A.1(1)(d)(ii)[^key-f847d5727bac7ce056e8a3fd365bad00] or A.1(2)(f);
+  - (iv) where the antenna or apparatus is not a small cell system or a small antenna, the development is within the limitations specified in paragraphs A.1(1)(c)(ii), A.1(1)(d)(ii)[^c-f847d5727bac7ce056e8a3fd365bad00] or A.1(2)(f);
 - (b) on any land which is, or is within, a site of special scientific interest unless—
   - (i) the development (excluding the installation, alteration or replacement of a mast) is carried out in an emergency and is within any limitations specified in paragraph A.1 for development of the same type on unprotected land; or
   - (ii) the development is within the limitations specified in paragraph A.1(5).
@@ -4749,7 +4749,7 @@ For the purposes of Class B(a), “**electric line**” has the meaning given by
 
 - (a) a mast;
 - (b) an antenna;
-- (c)[^key-5b675cf72d907b7a9f42fa5547596151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5b675cf72d907b7a9f42fa5547596151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) any apparatus which does not project above the level of the surface of the ground; or
 - (e) radio equipment housing,
 
@@ -4765,11 +4765,11 @@ is not permitted by Class A(a) if the ground or base area of the structure would
 
 - (a) the development is not ancillary to the use of any other electronic communications apparatus;
 - (b) the cumulative volume of such development would exceed 90 cubic metres or, if located on the roof of a building, the cumulative volume of such development would exceed 30 cubic metres; or
-- (c) [^key-9a86c1ae08368a5e5c10aaf00fd77ad0]... on any land which is, or is within, a site of special scientific interest, any single development would exceed 2.5 cubic metres, unless the development is carried out in an emergency.
+- (c) [^c-9a86c1ae08368a5e5c10aaf00fd77ad0]... on any land which is, or is within, a site of special scientific interest, any single development would exceed 2.5 cubic metres, unless the development is carried out in an emergency.
 
-(9A)[^key-c1410638a270f9adeb33849a1f03ffe3] Sub-paragraph (9)(b) and (c) does not apply where the development is carried out within a permitted compound (and accordingly the development described in that sub-paragraph is permitted by Class A(a)).
+(9A)[^c-c1410638a270f9adeb33849a1f03ffe3] Sub-paragraph (9)(b) and (c) does not apply where the development is carried out within a permitted compound (and accordingly the development described in that sub-paragraph is permitted by Class A(a)).
 
-***Development not permitted: public call box[^key-85cda990e42818fab088e7eeb16f4f8c]***
+***Development not permitted: public call box[^c-85cda990e42818fab088e7eeb16f4f8c]***
 
 (10) Development consisting of the installation, alteration or replacement of a public call box is not permitted by Class A.
 
@@ -4777,7 +4777,7 @@ is not permitted by Class A(a) if the ground or base area of the structure would
 
 (1) Class A(a) and A(c) development is permitted subject to the condition that—
 
-- (a)[^key-257cff76c2f00774c3365a01a839aa2f] the siting and appearance of any—
+- (a)[^c-257cff76c2f00774c3365a01a839aa2f] the siting and appearance of any—
   - (i) mast;
   - (ii) electronic communications apparatus installed, altered or replaced on a mast;
   - (iii) antenna or supporting apparatus;
@@ -4785,7 +4785,7 @@ is not permitted by Class A(a) if the ground or base area of the structure would
   - (v) development ancillary to radio equipment housing,
 
   constructed, installed, altered or replaced on a building (other than a building which is a mast) are such that the effect of the development on the external appearance of that building is minimised, so far as practicable;
-- (b)[^key-c2c8895dc6e5f143d41767c91036d750] the siting and appearance of any—
+- (b)[^c-c2c8895dc6e5f143d41767c91036d750] the siting and appearance of any—
   - (i) mast;
   - (ii) electronic communications apparatus installed, altered or replaced on a mast;
   - (iii) antenna or supporting apparatus;
@@ -4819,20 +4819,20 @@ is not permitted by Class A(a) if the ground or base area of the structure would
 (3) Subject to sub-paragraph (5), Class A development—
 
 - (a) on article 2(3) land, excluding development specified in sub-paragraph (4);
-- (b) on land which is, or is within, a site of special scientific interest; [^key-d9351747edf44bf5405b47e714ebc940]...
+- (b) on land which is, or is within, a site of special scientific interest; [^c-d9351747edf44bf5405b47e714ebc940]...
 - (c) on unprotected land where that development consists of—
-  - (i) the installation of a mast , other than the installation of a mast on a building where the height of the mast (including any antenna and supporting apparatus) does not exceed the height of the highest part of the building by more than 6 metres[^key-330619880c045b74dd4114f8e18916d7];
-  - (ii) the alteration or replacement of a mast , other than on a building,[^key-933114398dcf903117a87ab07925aee0] which, when completed—
+  - (i) the installation of a mast , other than the installation of a mast on a building where the height of the mast (including any antenna and supporting apparatus) does not exceed the height of the highest part of the building by more than 6 metres[^c-330619880c045b74dd4114f8e18916d7];
+  - (ii) the alteration or replacement of a mast , other than on a building,[^c-933114398dcf903117a87ab07925aee0] which, when completed—
     - (aa) is taller than the mast which existed prior to such alteration or replacement; and
-    - (bb) exceeds a height of 25[^key-4388cbce72b77320dbb14c8ae638e807] metres above ground level excluding any antenna[^key-6bf61741dbac222be7bd63de30c60104];
-  - (iia)[^key-db4eabf19f787b32b74e9d51e2d5606c] the alteration or replacement of a mast , other than on a building,[^key-a4296c2068e733382ebc3ea04779c244] which—
+    - (bb) exceeds a height of 25[^c-4388cbce72b77320dbb14c8ae638e807] metres above ground level excluding any antenna[^c-6bf61741dbac222be7bd63de30c60104];
+  - (iia)[^c-db4eabf19f787b32b74e9d51e2d5606c] the alteration or replacement of a mast , other than on a building,[^c-a4296c2068e733382ebc3ea04779c244] which—
     - (aa) is less than one metre wide where the mast would, when altered or replaced, exceed the original width of the mast by two thirds; or
     - (bb) is one metre wide or wider where the mast would, when altered or replaced, exceed the original width of the mast by more than one half or 2 metres, whichever is the greater; or
-  - (iii) the construction, installation, alteration or replacement of radio equipment housing, where the volume of any single development[^key-74a4e21a403ec5bf9ce8613d4c2676f6] , other than a single development within a permitted compound,[^key-28df8b3ec58dd898d571ee72dd7802f5] exceeds 2.5 cubic metres;[^key-5e3e424b05408258d711067f120d6a2b]
+  - (iii) the construction, installation, alteration or replacement of radio equipment housing, where the volume of any single development[^c-74a4e21a403ec5bf9ce8613d4c2676f6] , other than a single development within a permitted compound,[^c-28df8b3ec58dd898d571ee72dd7802f5] exceeds 2.5 cubic metres;[^c-5e3e424b05408258d711067f120d6a2b]
 - (d) on a highway where that development consists of—
-  - (i) the alteration or replacement of a mast , other than on a building,[^key-a53f311b798b0b097b2024e2b4cc1a8a] which, when completed—
+  - (i) the alteration or replacement of a mast , other than on a building,[^c-a53f311b798b0b097b2024e2b4cc1a8a] which, when completed—
     - (aa) is taller than the mast which existed prior to such alteration or replacement; and
-    - (bb) exceeds a height of 20 metres above ground level excluding any antenna[^key-54d872a30d3e69ba6f60c2e8a39dfad8];
+    - (bb) exceeds a height of 20 metres above ground level excluding any antenna[^c-54d872a30d3e69ba6f60c2e8a39dfad8];
   - (ii) the alteration or replacement of a mast which—
     - (aa) is less than one metre wide where the mast would, when altered or replaced, exceed the original width of the mast by two thirds; or
     - (bb) is one metre wide or wider where the mast would, when altered or replaced, exceed the original width of the mast by more than one half or 2 metres, whichever is the greater; or
@@ -4842,21 +4842,21 @@ is permitted subject, except in case of emergency (in which case only paragraph 
 
 (4) Development is specified for the purposes of sub-paragraph (3)(a), if it consists of—
 
-- (a) the installation, alteration or replacement of a small cell system on a building which is not a dwellinghouse or within the curtilage of a dwellinghouse; [^key-8e70b213c5a51366e6bbfa00c11d866b]...
-- (b) development which is within the limitations specified in paragraph [^key-6f661488a950a3b03e92d950e9c40962]... A.1(2)(f), A.1(5) or A.1(6) ;[^key-7dafaec1651a6825b653632ef0afd76b]
+- (a) the installation, alteration or replacement of a small cell system on a building which is not a dwellinghouse or within the curtilage of a dwellinghouse; [^c-8e70b213c5a51366e6bbfa00c11d866b]...
+- (b) development which is within the limitations specified in paragraph [^c-6f661488a950a3b03e92d950e9c40962]... A.1(2)(f), A.1(5) or A.1(6) ;[^c-7dafaec1651a6825b653632ef0afd76b]
 - (c) the construction, installation, alteration or replacement of radio equipment housing—
   - (i) within a permitted compound; or
   - (ii) in any other location, where the volume of any single development does not exceed 2.5 cubic metres;
-- (d) the alteration or replacement of a mast , other than on a building,[^key-5a933f59e242dc4772da10754d0e386f] which, when completed, is no taller (excluding any antenna)[^key-4673fcace7381c8e4aa3186239c00160] than the taller of—
+- (d) the alteration or replacement of a mast , other than on a building,[^c-5a933f59e242dc4772da10754d0e386f] which, when completed, is no taller (excluding any antenna)[^c-4673fcace7381c8e4aa3186239c00160] than the taller of—
   - (i) the height of the mast prior to such alteration or replacement; or
   - (ii) 20 metres above ground level; or
-- (e) the alteration or replacement of a mast , other than on a building,[^key-722ee5c396e3f444450cc6ff7df7dba5] which—
+- (e) the alteration or replacement of a mast , other than on a building,[^c-722ee5c396e3f444450cc6ff7df7dba5] which—
   - (i) is less than one metre wide where the mast would, when altered or replaced, not exceed the original width of the mast by two thirds; or
   - (ii) is one metre wide or wider where the mast would, when altered or replaced, not exceed the original width of the mast by more than one half or 2 metres, whichever is the greater.
 
-(5) The conditions set out in paragraph A.3 (prior approval) do not apply in relation to Class A development on any article 2(3) land which consists of the construction, installation, alteration or replacement of a telegraph pole, cabinet or line, in connection with the provision of fixed-line broadband [^key-bb81f96d73864cb0d27972bf2b4eaac8]...
+(5) The conditions set out in paragraph A.3 (prior approval) do not apply in relation to Class A development on any article 2(3) land which consists of the construction, installation, alteration or replacement of a telegraph pole, cabinet or line, in connection with the provision of fixed-line broadband [^c-bb81f96d73864cb0d27972bf2b4eaac8]...
 
-(5A)[^key-15bc8a003c4bebd2bb81186268939533] Except in case of emergency, Class A development which consists of the installation, alteration or replacement of a mast on a civil safeguarding area or a defence safeguarding area is permitted subject (in addition to any other condition imposed by this paragraph) to the conditions that—
+(5A)[^c-15bc8a003c4bebd2bb81186268939533] Except in case of emergency, Class A development which consists of the installation, alteration or replacement of a mast on a civil safeguarding area or a defence safeguarding area is permitted subject (in addition to any other condition imposed by this paragraph) to the conditions that—
 
 - (a) the developer notifies in writing—
   - (i) the Civil Aviation Authority, in respect of development on a civil safeguarding area;
@@ -4892,7 +4892,7 @@ is permitted subject, except in case of emergency (in which case only paragraph 
   - (ix) the address to which such representations should be made; or
 - (b) if the developer has been unable to ascertain the names and addresses of every such person after taking reasonable steps, by local advertisement.
 
-(3)[^key-7388d5903c2af04a0f9433d3fcb8d998] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7388d5903c2af04a0f9433d3fcb8d998] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Before beginning the development described in paragraph A.2(3), the developer must apply to the local planning authority for a determination as to whether the prior approval of the authority will be required as to the siting and appearance of the development.
 
@@ -4901,7 +4901,7 @@ is permitted subject, except in case of emergency (in which case only paragraph 
 - (a) a written description of the proposed development and a plan indicating its proposed location together with any fee required to be paid;
 - (b) the developer’s contact address, and the developer’s email address if the developer is content to receive communications electronically;
 - (c) evidence that the requirements of sub-paragraph (1) have been satisfied where applicable; and
-- (d) where the condition in paragraph A.2(5A)[^key-10f77be85b830b95ed9e744dbf1f7fe2] applies, evidence that the Civil Aviation Authority, the Secretary of State for Defence or the operator of the civil safeguarding area or defence safeguarding area[^key-20816eed5bbe2890d8a7dbc08b811cc6], as the case may be, has been notified of the proposal.
+- (d) where the condition in paragraph A.2(5A)[^c-10f77be85b830b95ed9e744dbf1f7fe2] applies, evidence that the Civil Aviation Authority, the Secretary of State for Defence or the operator of the civil safeguarding area or defence safeguarding area[^c-20816eed5bbe2890d8a7dbc08b811cc6], as the case may be, has been notified of the proposal.
 
 (6) Subject to sub-paragraphs (8)(b)(ii) and (c), upon receipt of the application in accordance with sub-paragraph (5), the local planning authority must—
 
@@ -4910,7 +4910,7 @@ is permitted subject, except in case of emergency (in which case only paragraph 
   - (ii) the authority or person so mentioned has advised the local planning authority that they do not wish to be consulted,
 
   and must give the consultees at least 14 days within which to comment;
-- (ab)[^key-36817114ede986181ae270e4c89eaf5c] for development which is subject to the condition in paragraph A.2(5A), consult—
+- (ab)[^c-36817114ede986181ae270e4c89eaf5c] for development which is subject to the condition in paragraph A.2(5A), consult—
   - (i) the Civil Aviation Authority, in respect of development on a civil safeguarding area;
   - (ii) the Secretary of State for Defence, in respect of development on a defence safeguarding area;
   - (iii) the operator of the civil safeguarding area (if the operator is not the Civil Aviation Authority) or defence safeguarding area (if the operator is not the Secretary of State for Defence);
@@ -4924,7 +4924,7 @@ is permitted subject, except in case of emergency (in which case only paragraph 
   - (i) by site display in at least one place on or near the land to which the application relates for not less than 21 days, or
   - (ii) by serving notice on any adjoining owner or occupier.
 
-(7) When determining the application made under sub-paragraph (4), the local planning authority must—[^key-9d2fe80ec179303f6ffbaa39a0eedb4e]
+(7) When determining the application made under sub-paragraph (4), the local planning authority must—[^c-9d2fe80ec179303f6ffbaa39a0eedb4e]
 
 - (a) take into account any representations made to them as a result of consultations or notices given under paragraph A.3; and
 - (b) not grant prior approval contrary to the advice of any person consulted in accordance with sub-paragraph (6)(ab).
@@ -4960,9 +4960,9 @@ is permitted subject, except in case of emergency (in which case only paragraph 
 
 For the purposes of Class A—
 
-- “[^key-394cd1eb730bdaa91a67835511798498]**aerodrome**” has the meaning given by the Safeguarding Direction;
+- “[^c-394cd1eb730bdaa91a67835511798498]**aerodrome**” has the meaning given by the Safeguarding Direction;
 - “antenna system” means a set of antennas installed on a building and operated in accordance with the electronic communications code;
-- “[^key-b7de15d8f97357f615f598cea571ba1b]**civil safeguarding area**” means the area identified on a safeguarding map issued by the Civil Aviation Authority in relation to an aerodrome or technical site;
+- “[^c-b7de15d8f97357f615f598cea571ba1b]**civil safeguarding area**” means the area identified on a safeguarding map issued by the Civil Aviation Authority in relation to an aerodrome or technical site;
 - “**defence safeguarding area**” means the area identified on a safeguarding map issued by the Secretary of State for Defence in relation to an aerodrome, a military explosives storage area or a technical site;
 - “development ancillary to radio equipment housing” means the construction installation, alteration or replacement of structures, equipment or means of access which are ancillary to and reasonably required for the purposes of the radio equipment housing, and except on any land which is, or is within, a site of special scientific interest includes—
   - (a) security equipment;
@@ -4970,20 +4970,20 @@ For the purposes of Class A—
   - (c) handrails, steps and ramps;
 - “electronic communications apparatus” and “electronic communications code” have the same meaning as in the Communications Act 2003;
 - “electronic communications code operator” means a person in whose case the electronic communications code is applied by a direction under section 106(3)(a) of the Communications Act 2003;
-- “electronic communications service” means a service falling within the definition of that term in section 32(2) of the Communications Act 2003;[^key-c8f5d4846909ba7fa7aaad420d1ad953]
-- “[^key-8e1f6226584600efed64459bec55a003]**footway**” has the meaning given by section 329(1) (further provisions as to interpretation) of the Highways Act 1980;
+- “electronic communications service” means a service falling within the definition of that term in section 32(2) of the Communications Act 2003;[^c-c8f5d4846909ba7fa7aaad420d1ad953]
+- “[^c-8e1f6226584600efed64459bec55a003]**footway**” has the meaning given by section 329(1) (further provisions as to interpretation) of the Highways Act 1980;
 - “mast” means a radio mast or radio tower;
-- “[^key-41d68dad5a56dd3e5bb41c258390d87d]**military explosives storage area**” has the meaning given by the Safeguarding Direction;
+- “[^c-41d68dad5a56dd3e5bb41c258390d87d]**military explosives storage area**” has the meaning given by the Safeguarding Direction;
 - “**original width**”, in relation to a mast, means the width of the mast approved by the most recent—
   - (a) prior approval given in respect of the mast under this Class; or
   - (b) express grant of planning permission following an express application for planning permission in respect of the mast;
 - “owner” means any person who is the estate owner in respect of the fee simple, or who is entitled to a tenancy granted or extended for a term of years certain of which not less than 7 years remain unexpired;
-- “[^key-14a171b4a94258e50019c720c22e1813]**permitted compound**” means a compound which—
+- “[^c-14a171b4a94258e50019c720c22e1813]**permitted compound**” means a compound which—
   - (a) is no more than 100 square metres in area; and
   - (b) has a closed perimeter;
-- “public call box” means any kiosk, booth, acoustic hood, shelter or similar structure which is erected or installed for the purpose of housing or supporting electronic communications apparatus and at which an electronic communications service is provided (or is to be provided) by an electronic communications code operator;[^key-fa5cffef77afbea8bbe06d6395bc96cc]
-- “[^key-ecc65bfd7f611b80ba403b37dce5016b]**the Safeguarding Direction**” means the Town and Country Planning (Safeguarded Aerodromes, Technical Sites and Military Explosives Storage Areas) Direction 2002;
-- “[^key-ac0e723d75fa16fa37ade37b184678a9]**safeguarding map**” means—
+- “public call box” means any kiosk, booth, acoustic hood, shelter or similar structure which is erected or installed for the purpose of housing or supporting electronic communications apparatus and at which an electronic communications service is provided (or is to be provided) by an electronic communications code operator;[^c-fa5cffef77afbea8bbe06d6395bc96cc]
+- “[^c-ecc65bfd7f611b80ba403b37dce5016b]**the Safeguarding Direction**” means the Town and Country Planning (Safeguarded Aerodromes, Technical Sites and Military Explosives Storage Areas) Direction 2002;
+- “[^c-ac0e723d75fa16fa37ade37b184678a9]**safeguarding map**” means—
   - (a) a map which meets the definition of “safeguarding map” in the Safeguarding Direction;
   - (b) a map issued under article 31(1) of the Procedure Order or any previous powers to the like effect;
 - “**single development**”, in relation to radio equipment housing, means development in relation to a single, discrete unit of radio equipment housing (irrespective of when the development takes place);
@@ -4993,9 +4993,9 @@ For the purposes of Class A—
   - (c) does not, in two-dimensional profile, have an area exceeding 1,591 square centimetres,
 
   and any calculation for the purposes of paragraph (b) or (c) excludes any feed element, reinforcing rim mountings and brackets;
-- “[^key-58b63c2b36b2bb242ceeb556337642e9]**small cell system**” means low-power wireless network access equipment operating within a small range (irrespective of whether the underlying network topology is mobile or fixed), together with any ancillary apparatus, which—
+- “[^c-58b63c2b36b2bb242ceeb556337642e9]**small cell system**” means low-power wireless network access equipment operating within a small range (irrespective of whether the underlying network topology is mobile or fixed), together with any ancillary apparatus, which—
   - (a) operates on a point to multi-point or area basis in connection with an electronic communications service (as defined in section 32 of the Communications Act 2003);
-  - (b) [^key-ee7771e7a4504fca9c26280aea7533ee]...
+  - (b) [^c-ee7771e7a4504fca9c26280aea7533ee]...
   - (c) does not, in any two-dimensional measurement, have a surface area exceeding 5,000 square centimetres; and
   - (d) does not have a volume exceeding 50,000 cubic centimetres,
 
@@ -5003,7 +5003,7 @@ For the purposes of Class A—
 - “**technical site**” has the meaning given by the Safeguarding Direction;
 - “unprotected land” means any land which is not—
   - (a) article 2(3) land; or
-  - (b) land which is a site of special scientific interest; and[^key-b0bdd42e8bfcd15a76829baaa3617194]
+  - (b) land which is a site of special scientific interest; and[^c-b0bdd42e8bfcd15a76829baaa3617194]
 - “**width**”, in relation to a mast, means the width of the mast at its widest point—
   - (a) excluding any antenna; and
   - (b) including any antenna support structures,
@@ -5022,7 +5022,7 @@ reasonably required for the purposes of the electronic communications apparatus.
 
 **A.6.** Nothing in paragraph A.5 extends the permission in Class A to include the installation, alteration or replacement of anything mentioned in paragraph A.5(a) to (e) on any land which is, or is within, a site of special scientific interest if the inclusion of such an item would not have been permitted by Class A, as read without reference to paragraph A.5.
 
-#### Class B – other electronic communications development[^key-78e95c42794fc31d79e2a7d231744ce5]
+#### Class B – other electronic communications development[^c-78e95c42794fc31d79e2a7d231744ce5]
 
 ##### B. Permitted development
 
@@ -5051,7 +5051,7 @@ Development is permitted by Class B subject to the following conditions—
 - (a) the antenna is, so far as is practicable, sited so as to minimise its effect on the external appearance of the building or structure on which it is installed; and
 - (b) an antenna no longer needed for reception or transmission purposes is removed from the building or structure as soon as reasonably practicable.
 
-#### Class C – other electronic communications development: microwave antenna[^key-be86a18a58a335a9176b0ee68502f8ed]
+#### Class C – other electronic communications development: microwave antenna[^c-be86a18a58a335a9176b0ee68502f8ed]
 
 ##### C. Permitted development
 
@@ -5288,7 +5288,7 @@ Development is permitted by Class D subject to the following conditions—
     - (aa) any proceedings on the application, including any proceeding on or in consequence of an application under section 288 of the Act (proceedings for questioning the validity of certain orders, decisions and directions) [^c22502121], have been determined, and
     - (bb) any time for appealing under section 78 (right to appeal against planning decisions and failure to take such decisions) [^c22502131], or applying or further applying under section 288, of the Act (where there is a right to do so) has expired; and
 - (b) paragraph (a) does not apply to land in respect of which there is an extant planning permission which—
-  - (i) has been granted on an application under Part 3 or Part 13[^key-032c222fe5a669a4b7b72fa0444c5fb3] of the Act; and
+  - (i) has been granted on an application under Part 3 or Part 13[^c-032c222fe5a669a4b7b72fa0444c5fb3] of the Act; and
   - (ii) has been implemented.
 
 ##### D.2 Interpretation of Class D
@@ -5411,9 +5411,9 @@ Development is permitted by Class H subject to the following conditions—
 
 For the purposes of Class H—
 
-- “**ancillary mining land**” means land adjacent to and occupied together with a mine at which the winning and working of minerals is carried out in pursuance of planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^key-db4df507172ce71166f5beecf1dd1594]; and
+- “**ancillary mining land**” means land adjacent to and occupied together with a mine at which the winning and working of minerals is carried out in pursuance of planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^c-db4df507172ce71166f5beecf1dd1594]; and
 - “**waste management scheme**” means a scheme required by the mineral planning authority to be submitted for their approval in accordance with the condition in paragraph H.2(a) which makes provision for—
-  - (a) the manner in which the depositing of waste (other than waste deposited on a site for use for filling any mineral excavation in the mine or on ancillary mining land in order to comply with the terms of any planning permission granted on an application or deemed to be granted under Part 3 or Part 13[^key-7f991ea00666e9d8cc4423a639a8b910] of the Act) is to be carried out after the date of the approval of that scheme;
+  - (a) the manner in which the depositing of waste (other than waste deposited on a site for use for filling any mineral excavation in the mine or on ancillary mining land in order to comply with the terms of any planning permission granted on an application or deemed to be granted under Part 3 or Part 13[^c-7f991ea00666e9d8cc4423a639a8b910] of the Act) is to be carried out after the date of the approval of that scheme;
   - (b) where appropriate, the stripping and storage of the subsoil and topsoil;
   - (c) the restoration and aftercare of the site.
 
@@ -5449,11 +5449,11 @@ Development is not permitted by Class J if—
 
 - (a) it consists of the drilling of boreholes for petroleum exploration;
 - (b) any operation would be carried out within 50 metres of any part of an occupied residential building or a building occupied as a hospital or school;
-- (c)[^key-a2aaaa580dedf029b075dd5e09b74245] any operation would be carried out within a National Park, an area of outstanding national beauty, a site of archaeological interest, a site of special scientific interest or the Broads;
+- (c)[^c-a2aaaa580dedf029b075dd5e09b74245] any operation would be carried out within a National Park, an area of outstanding national beauty, a site of archaeological interest, a site of special scientific interest or the Broads;
 - (d) any explosive charge of more than 1 kilogram would be used;
 - (e) any excavation referred to in Class J(c) would exceed 10 metres in depth or 12 square metres in surface area;
 - (f) in the case described in Class J(c) more than 10 excavations would, as a result, be made within any area of 1 hectare within the land during any period of 24 months; or
-- (g) any structure assembled or provided would exceed 15[^key-ca8a7e6380c92523e134545689d94828] metres in height, or, where the structure would be within 3 kilometres of the perimeter of an aerodrome, 3 metres in height.
+- (g) any structure assembled or provided would exceed 15[^c-ca8a7e6380c92523e134545689d94828] metres in height, or, where the structure would be within 3 kilometres of the perimeter of an aerodrome, 3 metres in height.
 
 ##### J.2 Conditions
 
@@ -5469,7 +5469,7 @@ Development is permitted by Class J subject to the following conditions—
   - (iv) the surface of the land on which any operations have been carried out is levelled and any topsoil replaced as the uppermost layer, and
   - (v) the land is, so far as is practicable, restored to its condition before the development took place, including the carrying out of any necessary seeding and replanting.
 
-#### Class JA – temporary use of land etc in respect of petroleum exploration[^key-774312110066545a4954a7e87a24d8eb]
+#### Class JA – temporary use of land etc in respect of petroleum exploration[^c-774312110066545a4954a7e87a24d8eb]
 
 ##### JA. Permitted development
 
@@ -5536,7 +5536,7 @@ Development is not permitted by Class K if—
 - (c) the relevant period has not elapsed;
 - (d) any explosive charge of more than 2 kilograms would be used;
 - (e) any excavation referred to in Class K(c) would exceed 10 metres in depth or 12 square metres in surface area; or
-- (f) any structure assembled or provided would exceed 15[^key-75745fb36a45567667b9fe3bee8bd64d] metres in height.
+- (f) any structure assembled or provided would exceed 15[^c-75745fb36a45567667b9fe3bee8bd64d] metres in height.
 
 ##### K.2 Conditions
 
@@ -5560,7 +5560,7 @@ For the purposes of Class K, “**relevant period**” means the period elapsing
 - (a) where a direction is not issued under article 5, 28 days after the notification referred to in paragraph K.1(b) or, if earlier, on the date on which the mineral planning authority notify the developer in writing that they will not issue such a direction, or
 - (b) where a direction is issued under article 5, 28 days from the date on which notice of that decision is sent to the Secretary of State, or, if earlier, the date on which the mineral planning authority notify the developer that the Secretary of State has disallowed the direction.
 
-#### Class KA – use of land etc in respect of petroleum exploration[^key-27e9165f6d9e071f470bdac4c29763b7]
+#### Class KA – use of land etc in respect of petroleum exploration[^c-27e9165f6d9e071f470bdac4c29763b7]
 
 ##### KA. Permitted development
 
@@ -5655,15 +5655,15 @@ For the purposes of Class M—
 For the purposes of Part 17—
 
 - “**active access**” means a surface access to underground workings which is in normal and regular use for the transportation of coal, materials, spoil or persons;
-- “**ancillary mining land**” means land adjacent to and occupied together with a mine at which the winning and working of minerals is carried out in pursuance of planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^key-438f2396a90baa56a5bd2c0f73a5fee6];
+- “**ancillary mining land**” means land adjacent to and occupied together with a mine at which the winning and working of minerals is carried out in pursuance of planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^c-438f2396a90baa56a5bd2c0f73a5fee6];
 - “**coal-mining operations**” has the same meaning as in section 65 of the Coal Industry Act 1994 (interpretation) and references to any development or use in connection with coal-mining operations include references to development or use for or in connection with activities carried on in association with, or for purposes connected with, the carrying on of those operations;
-- “groundwater” has the same meaning as in regulation 2(1) of[^key-50c0985603cfa42284081a07b6253a63] the Environmental Permitting (England and Wales) Regulations 2016[^key-b6fd47d47c02de08b591e64c85addc66];
+- “groundwater” has the same meaning as in regulation 2(1) of[^c-50c0985603cfa42284081a07b6253a63] the Environmental Permitting (England and Wales) Regulations 2016[^c-b6fd47d47c02de08b591e64c85addc66];
 - “**licensed operator**” has the same meaning as in section 65 of the Coal Industry Act 1994;
 - “**mineral exploration**” means ascertaining the presence, extent or quality of any deposit of a mineral with a view to exploiting that mineral;
 - “**minerals**” does not include any coal other than coal won or worked during the course of operations which are carried on exclusively for the purpose of exploring for coal or confined to the digging or carrying away of coal that it is necessary to dig or carry away in the course of activities carried on for purposes which do not include the getting of coal or any product of coal;
 - “**normal and regular use**” means use other than intermittent visits to inspect and maintain the fabric of the mine or any plant or machinery;
-- “relevant drinking water supply undertaker” means any water undertaker in whose area of appointment development will take place and, in the case where the development is likely to affect water resources in the area of appointment of another water undertaker, that undertaker;[^key-7d4bfb7804af115da2c2f3313f51d412]
-- “**relevant scheme**” means a scheme, other than a waste management scheme, requiring approval by the mineral planning authority in accordance with a condition or limitation on any planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^key-7a0c8b2b68ffe052cd80e285a06588d9], for making provision for the manner in which the deposit of waste is to be carried out and for the carrying out of other activities in relation to that deposit;
+- “relevant drinking water supply undertaker” means any water undertaker in whose area of appointment development will take place and, in the case where the development is likely to affect water resources in the area of appointment of another water undertaker, that undertaker;[^c-7d4bfb7804af115da2c2f3313f51d412]
+- “**relevant scheme**” means a scheme, other than a waste management scheme, requiring approval by the mineral planning authority in accordance with a condition or limitation on any planning permission granted or deemed to be granted under Part 3 (control over development) or Part 13 (application of Act to Crown land) of the Act[^c-7a0c8b2b68ffe052cd80e285a06588d9], for making provision for the manner in which the deposit of waste is to be carried out and for the carrying out of other activities in relation to that deposit;
 - “**stockpile**” means a mineral-working deposit consisting primarily of minerals which have been deposited for the purposes of their processing or sale;
 - “**structure**” includes a building, plant or machinery; and
 - “underground mine” is a mine at which minerals are worked principally by underground methods.
@@ -6001,11 +6001,11 @@ For the purposes of Class P—
 Development is permitted by Class Q subject to the following conditions—
 
 - (a) the developer must, as soon as practicable after commencing development, notify the local planning authority of that development; and
-- (b)[^key-fe35e214626ed8091c19da1fd8a2a8a8] on or before the expiry of the period of 12 months beginning with the date on which the development began—
+- (b)[^c-fe35e214626ed8091c19da1fd8a2a8a8] on or before the expiry of the period of 12 months beginning with the date on which the development began—
   - (i) any use of that land for a purpose of Class Q ceases and any buildings, plant, machinery, structures and erections permitted by Class Q is removed; and
   - (ii) the land is restored to its condition before the development took place, or to such other state as may be agreed in writing between the local planning authority and the developer,
 
-  unless permission for the development has been granted by virtue of any provision of this Schedule or on an application under Part 3 or Part 13[^key-bdbcf5af2c59254c83e258524b18eb2e] of the Act.
+  unless permission for the development has been granted by virtue of any provision of this Schedule or on an application under Part 3 or Part 13[^c-bdbcf5af2c59254c83e258524b18eb2e] of the Act.
 
 ##### Q.2 Interpretation of Class Q
 
@@ -6031,7 +6031,7 @@ Development is permitted by Class Q subject to the following conditions—
 - (a) contamination of land, water or air with biological, chemical or radioactive matter; or
 - (b) disruption or destruction of plant life or animal life.
 
-#### Class QA – development by the Crown relating to a pandemic[^key-15e344a10b788c22a471b0c8cb5aad4c]
+#### Class QA – development by the Crown relating to a pandemic[^c-15e344a10b788c22a471b0c8cb5aad4c]
 
 ##### QA. Permitted development
 
@@ -6050,7 +6050,7 @@ Development is permitted by Class QA subject to the following conditions—
   - (i) any use of that land for a purpose of Class QA ceases and any buildings, plant, machinery, structures and erections permitted by Class QA is removed; and
   - (ii) the land is restored to its condition before the development took place, or to such other state as may be agreed in writing between the local planning authority and the developer,
 
-unless permission for the development has been granted by virtue of any provision of this Schedule or on an application under Part 3 or Part 13[^key-3af95d8a07cf33e51b85ef9450a88d5a] of the Act.
+unless permission for the development has been granted by virtue of any provision of this Schedule or on an application under Part 3 or Part 13[^c-3af95d8a07cf33e51b85ef9450a88d5a] of the Act.
 
 ##### QA.2 Interpretation of Class QA
 
@@ -6208,7 +6208,7 @@ For the purposes of Class T—
   whichever occurs first; and
 - “**tenant**” means the tenant of an agricultural holding any part of which is comprised in the land to which the proposed development relates.
 
-#### Class TA – development by the Crown on a closed defence site[^key-53ab2b7d7b22c851cd61d9f5a5a7a4a9]
+#### Class TA – development by the Crown on a closed defence site[^c-53ab2b7d7b22c851cd61d9f5a5a7a4a9]
 
 ##### TA. Permitted development
 
@@ -6335,7 +6335,7 @@ any conditions, limitations or restrictions specified in Class TA applicable to 
 (7) The local planning authority must, when determining an application—
 
 - (a) take into account any representations made to them as a result of any notice given under sub-paragraph (5), and
-- (b) have regard to the National Planning Policy Framework [^key-4161bfe6d68496e6219be9d7b7e3dc31]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
+- (b) have regard to the National Planning Policy Framework [^c-4161bfe6d68496e6219be9d7b7e3dc31]..., so far as relevant to the subject matter of the prior approval, as if the application were a planning application.
 
 (8) The development must not begin before the occurrence of one of the following—
 
@@ -6372,12 +6372,12 @@ For the purposes of Class TA—
 
 For the purposes of Part 19—
 
-- “**airbase**” means the aggregate of the land, buildings and works comprised in a Government aerodrome within the meaning of paragraph 1 of Schedule 1 to the Air Navigation Order 2016[^key-51412801a79dcae109424446f98f4acf]; and
+- “**airbase**” means the aggregate of the land, buildings and works comprised in a Government aerodrome within the meaning of paragraph 1 of Schedule 1 to the Air Navigation Order 2016[^c-51412801a79dcae109424446f98f4acf]; and
 - “**air traffic services**” has the same meaning as in section 98 of the Transport Act 2000 (air traffic services) [^c22502291].
 
-### PART 20 — Construction of New Dwellinghouses[^key-33ab762f3bd5796ff06abdacbc3691a3]
+### PART 20 — Construction of New Dwellinghouses[^c-33ab762f3bd5796ff06abdacbc3691a3]
 
-#### Class ZA - Demolition of buildings and construction of new dwellinghouses in their place[^key-faf8c6351029e7fc80d7c0e4d499fa2a]
+#### Class ZA - Demolition of buildings and construction of new dwellinghouses in their place[^c-faf8c6351029e7fc80d7c0e4d499fa2a]
 
 ##### ZA. Permitted Development
 
@@ -6502,30 +6502,30 @@ Development consisting of works for the construction of up to two additional sto
 
 - (a) engineering operations reasonably necessary to construct the additional storeys and new dwellinghouses;
 - (b) works for the replacement of existing plant or installation of additional plant on the roof of the extended building reasonably necessary to service the new dwellinghouses;
-- (c) works for the construction of appropriate and safe access to and egress from[^key-245571c8732de9db1930315d27ad0d79] the new and existing dwellinghouses, including means of escape from fire, via additional external doors or external staircases;
+- (c) works for the construction of appropriate and safe access to and egress from[^c-245571c8732de9db1930315d27ad0d79] the new and existing dwellinghouses, including means of escape from fire, via additional external doors or external staircases;
 - (d) works for the construction of storage, waste or other ancillary facilities reasonably necessary to support the new dwellinghouses.
 
 ##### A.1. Development not permitted
 
 Development is not permitted by Class A if—
 
-- (a) the permission to use any building as a dwellinghouse has been granted only by virtue of Class M, MA,[^key-282157b87084b2f2014fa82d6daa7a04] N, O, P, PA or Q of Part 3 of this Schedule;
+- (a) the permission to use any building as a dwellinghouse has been granted only by virtue of Class M, MA,[^c-282157b87084b2f2014fa82d6daa7a04] N, O, P, PA or Q of Part 3 of this Schedule;
 - (b) above ground level, the building is less than 3 storeys in height;
 - (c) the building was constructed before 1st July 1948, or after 5th March 2018;
 - (d) the additional storeys are constructed other than on the principal part of the building;
-- (e)[^key-239889f4adfd3a0d058447ae6a34b710] the floor to ceiling height of any additional storey, measured internally, would exceed the lower of—
+- (e)[^c-239889f4adfd3a0d058447ae6a34b710] the floor to ceiling height of any additional storey, measured internally, would exceed the lower of—
   - (i) 3 metres; or
   - (ii) the floor to ceiling height, measured internally, of any storey of the principal part of the existing building;
 - (f) the new dwellinghouses are not flats;
-- (g)[^key-781f2d0d9b4cc61318f835ae34a083f0] the height of the highest part of the roof of the extended building would exceed the height of the highest part of the roof of the existing building by more than 7 metres (not including plant, in each case);
-- (h)[^key-5f5d8979aefda52a8f86722e5c21179f] the height of the highest part of the roof of the extended building (not including plant) would be greater than 30 metres;
+- (g)[^c-781f2d0d9b4cc61318f835ae34a083f0] the height of the highest part of the roof of the extended building would exceed the height of the highest part of the roof of the existing building by more than 7 metres (not including plant, in each case);
+- (h)[^c-5f5d8979aefda52a8f86722e5c21179f] the height of the highest part of the roof of the extended building (not including plant) would be greater than 30 metres;
 - (i) development under Class A.(a) would include the provision of visible support structures on or attached to the exterior of the building upon completion of the development;
 - (j) development under Class A.(a) would consist of engineering operations other than works within the existing curtilage of the building to—
   - (i) strengthen existing walls;
   - (ii) strengthen existing foundations; or
   - (iii) install or replace water, drainage, electricity, gas or other services;
 - (k) in the case of Class A.(b) development there is no existing plant on the building;
-- (l) in the case of Class A.(b) development the height of any replaced or additional plant as measured from the lowest surface of the new roof on the principal part of the extended building[^key-608ad080d12eec94cf55e1ed409b1d2c] would exceed the height of any existing plant as measured from the lowest surface of the existing roof on the principal part of the existing building;
+- (l) in the case of Class A.(b) development the height of any replaced or additional plant as measured from the lowest surface of the new roof on the principal part of the extended building[^c-608ad080d12eec94cf55e1ed409b1d2c] would exceed the height of any existing plant as measured from the lowest surface of the existing roof on the principal part of the existing building;
 - (m) development under Class A.(c) would extend beyond the curtilage of the existing building;
 - (n) development under Class A.(d) would—
   - (i) extend beyond the curtilage of the existing building;
@@ -6552,9 +6552,9 @@ Development is not permitted by Class A if—
 - (d) flooding risks in relation to the building;
 - (e) the external appearance of the building;
 - (f) the provision of adequate natural light in all habitable rooms of the new dwellinghouses;
-- (g) impact on the amenity of the existing building and neighbouring premises including overlooking, privacy and the loss of light; [^key-ba1d44d4aeac523d89bde5d4ecb5d50f]...
-- (h) whether because of the siting of the building, the development will impact on a protected view identified in the Directions Relating to Protected Vistas dated 15 March 2012 issued by the Secretary of State, [^key-391a7e4f33e9cb47bbafb341f52f1268]...
-- (i)[^key-10a99e8a87891704eb38d874424b579b] where the existing building is 18 metres or more in height, the fire safety of the external wall construction of the existing building, ; and[^key-25d6ebbaeb458ed785802ddf80cd3abf]
+- (g) impact on the amenity of the existing building and neighbouring premises including overlooking, privacy and the loss of light; [^c-ba1d44d4aeac523d89bde5d4ecb5d50f]...
+- (h) whether because of the siting of the building, the development will impact on a protected view identified in the Directions Relating to Protected Vistas dated 15 March 2012 issued by the Secretary of State, [^c-391a7e4f33e9cb47bbafb341f52f1268]...
+- (i)[^c-10a99e8a87891704eb38d874424b579b] where the existing building is 18 metres or more in height, the fire safety of the external wall construction of the existing building, ; and[^c-25d6ebbaeb458ed785802ddf80cd3abf]
 - (j) where the development meets the fire risk condition, the fire safety impacts on the intended occupants of the building
 
 and the provisions of paragraph B (prior approval) of this Part apply in relation to that application.
@@ -6579,7 +6579,7 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 (1) The following provisions apply where under this Part, a developer is required to make an application to a local planning authority for prior approval.
 
-(1A)[^key-d72c9429af71811555e4347ef1b8490b] The application, if made in relation to development proposed under Class ZA, must be accompanied by—
+(1A)[^c-d72c9429af71811555e4347ef1b8490b] The application, if made in relation to development proposed under Class ZA, must be accompanied by—
 
 - (a) a written description of the proposed development, which must include details of the building proposed for demolition, the building proposed as replacement and the operations proposed under paragraph ZA(3);
 - (b) a plan, drawn to an identified scale and showing the direction of North, indicating the site of the proposed development;
@@ -6611,16 +6611,16 @@ together with any fee required to be paid.
 
 (2) The application must be accompanied by—
 
-- (a) a written description of the proposed development, which, in relation to development proposed under any of Classes A to AD[^key-f40441e574622ec226d27b2d6292e277], must include details of any dwellinghouse and other works proposed under paragraph A(a) to (d), AA(1)(a) to (d), AB(3)(a) to (d), AC(2)(a) to (c), or AD(2)(a) to (c) (as the case may be)[^key-488931d9e2c4a84fa43aff487e44faaf];
+- (a) a written description of the proposed development, which, in relation to development proposed under any of Classes A to AD[^c-f40441e574622ec226d27b2d6292e277], must include details of any dwellinghouse and other works proposed under paragraph A(a) to (d), AA(1)(a) to (d), AB(3)(a) to (d), AC(2)(a) to (c), or AD(2)(a) to (c) (as the case may be)[^c-488931d9e2c4a84fa43aff487e44faaf];
 - (b) a plan which is drawn to an identified scale and shows the direction of North indicating the site and showing the proposed development;
-- (c) floor plans which are drawn to an identified scale and show the direction of North indicating the total floor space in square metres of each dwellinghouse,[^key-ae43216feb5aabe548b3897bf0842d3c] the dimensions and proposed use of each room, the position and dimensions of windows, doors and walls, and the existing and proposed elevations of the building;
-- (d) a written statement specifying the number of new dwellinghouses proposed by the development (that is, additional to any dwellinghouses in the existing building)[^key-b10bd1d21166c958efbdaac4a3faa165];
-- (e) a list of all addresses of any flats and any other premises in the existing building[^key-cd0f39968d589ad1662b320f31af2f61];
+- (c) floor plans which are drawn to an identified scale and show the direction of North indicating the total floor space in square metres of each dwellinghouse,[^c-ae43216feb5aabe548b3897bf0842d3c] the dimensions and proposed use of each room, the position and dimensions of windows, doors and walls, and the existing and proposed elevations of the building;
+- (d) a written statement specifying the number of new dwellinghouses proposed by the development (that is, additional to any dwellinghouses in the existing building)[^c-b10bd1d21166c958efbdaac4a3faa165];
+- (e) a list of all addresses of any flats and any other premises in the existing building[^c-cd0f39968d589ad1662b320f31af2f61];
 - (f) the developer’s contact address;
-- (g) the developer’s email address if the developer is content to receive communications electronically; [^key-a01d0ecf20e275eeb8206ca9e00a2c9d]...
-- (h)[^key-eac4aa1a5244567fa29d01880512b537] where—
+- (g) the developer’s email address if the developer is content to receive communications electronically; [^c-a01d0ecf20e275eeb8206ca9e00a2c9d]...
+- (h)[^c-eac4aa1a5244567fa29d01880512b537] where—
   - (i) sub-paragraph (6) requires the Environment Agency to be consulted, a site-specific flood risk assessment;
-  - (ii) sub-paragraph (6A) requires the Building Safety Regulator[^key-705f4baf5cbbd24412324ee438ce0345] to be consulted, a statement about the fire safety design principles, concepts and standards that have been applied to the development; , and[^key-57bb7a38024523d9db2ad989b97ac94f]
+  - (ii) sub-paragraph (6A) requires the Building Safety Regulator[^c-705f4baf5cbbd24412324ee438ce0345] to be consulted, a statement about the fire safety design principles, concepts and standards that have been applied to the development; , and[^c-57bb7a38024523d9db2ad989b97ac94f]
 - (i) where the application for prior approval relates to the requirement mentioned in paragraph A.2(1)(i) or AA.2(1)(k), a report from a chartered engineer or other competent professional confirming that the external wall construction of the existing building complies with paragraph B4(1) of Schedule 1 to the Building Regulations 2010,
 
 together with any fee required to be paid.
@@ -6645,7 +6645,7 @@ any conditions, limitations or restrictions specified in this Part as being appl
 - (a) in an area within Flood Zone 2 or Flood Zone 3; or
 - (b) in an area within Flood Zone 1 which has critical drainage problems and which has been notified to the local planning authority by the Environment Agency for the purpose of paragraph (zc)(ii) in the Table in Schedule 4 to the Procedure Order.
 
-(6A)[^key-72fc86c76860b412026b334459310a28] Where the application relates to prior approval as to fire safety impacts, on receipt of the application, the local planning authority must consult the Building Safety Regulator[^key-baab04f0e8c4a4d8c89412ea451aa3d5].
+(6A)[^c-72fc86c76860b412026b334459310a28] Where the application relates to prior approval as to fire safety impacts, on receipt of the application, the local planning authority must consult the Building Safety Regulator[^c-baab04f0e8c4a4d8c89412ea451aa3d5].
 
 (7) Where the application relates to prior approval as to the impact on air traffic or defence assets, the local planning authority must consult any relevant operators of aerodromes, technical sites or defence assets and where appropriate the Civil Aviation Authority and the Secretary of State for Defence.
 
@@ -6653,13 +6653,13 @@ any conditions, limitations or restrictions specified in this Part as being appl
 
 (9) Where the application relates to prior approval as to natural light, the local planning authority must refuse prior approval if adequate natural light is not provided in all the habitable rooms of the dwellinghouses.
 
-(9A)[^key-409e7a412d8fb3eeb403f5b34cc3c28f] Where the application relates to prior approval under paragraph A.2(1)(i) or AA.2(1)(k), the local planning authority must refuse prior approval if the application is not accompanied by the report mentioned in subparagraph (2)(i) above.
+(9A)[^c-409e7a412d8fb3eeb403f5b34cc3c28f] Where the application relates to prior approval under paragraph A.2(1)(i) or AA.2(1)(k), the local planning authority must refuse prior approval if the application is not accompanied by the report mentioned in subparagraph (2)(i) above.
 
 (10) Where the application relates to prior approval as to the impact on protected views, the local planning authority must consult Historic England, the Mayor of London and any local planning authorities identified in the Directions Relating to Protected Vistas dated 15th March 2012 issued by the Secretary of State.
 
-(10A)[^key-0142bc07f5c7ad929ca016d91e428183] Where the application relates to a prior approval as to the impact of the development on heritage and archaeology, the local planning authority must so far as they consider reasonably practicable consult any bodies that they consider to have heritage and archaeological expertise relevant to their functions under Part 3 of the Act and this Order.
+(10A)[^c-0142bc07f5c7ad929ca016d91e428183] Where the application relates to a prior approval as to the impact of the development on heritage and archaeology, the local planning authority must so far as they consider reasonably practicable consult any bodies that they consider to have heritage and archaeological expertise relevant to their functions under Part 3 of the Act and this Order.
 
-(11) The local planning authority must notify the consultees referred to in sub-paragraphs (5), (6), (6A)[^key-08c8a1199a21b3c914e9b641a77240af] (7), (10) and (10A)[^key-c25fec243d9810070758fc2743648a41] specifying the date by which they must respond, being not less than 21 days from the date the notice is given.
+(11) The local planning authority must notify the consultees referred to in sub-paragraphs (5), (6), (6A)[^c-08c8a1199a21b3c914e9b641a77240af] (7), (10) and (10A)[^c-c25fec243d9810070758fc2743648a41] specifying the date by which they must respond, being not less than 21 days from the date the notice is given.
 
 (12) The local planning authority must give notice of the proposed development—
 
@@ -6667,7 +6667,7 @@ any conditions, limitations or restrictions specified in this Part as being appl
   - (i) describes the proposed development;
   - (ii) provides the address of the proposed development; and
   - (iii) specifies the date by which representations are to be received by the local planning authority;
-- (b) unless the proposed development falls within Class ZA,[^key-0d9fee69a4fb303ff35c0557072ac58c] by serving a notice in that form on all owners and occupiers of any flats and any other premises within the existing building[^key-f9d411c6b33b552f7da94d9a5e154087]; and
+- (b) unless the proposed development falls within Class ZA,[^c-0d9fee69a4fb303ff35c0557072ac58c] by serving a notice in that form on all owners and occupiers of any flats and any other premises within the existing building[^c-f9d411c6b33b552f7da94d9a5e154087]; and
 - (c) by serving a notice in that form on any adjoining owner or occupier.
 
 (13) When computing the number of days in sub-paragraphs (11) and (12)(a), any day which is a public holiday must be disregarded.
@@ -6694,9 +6694,9 @@ any conditions, limitations or restrictions specified in this Part as being appl
 
 ##### C. Interpretation of Part 20
 
-(1)[^key-00e81eb9312c5779390616bc639434f3] For the purposes of Part 20—
+(1)[^c-00e81eb9312c5779390616bc639434f3] For the purposes of Part 20—
 
-- “agricultural tenancy” means a tenancy under—[^key-9320265dbd28c231447f8b7e0d7dcdf3]
+- “agricultural tenancy” means a tenancy under—[^c-9320265dbd28c231447f8b7e0d7dcdf3]
   - (a) the Agricultural Holdings Act 1986; or
   - (b) the Agricultural Tenancies Act 1995;
 
@@ -6704,35 +6704,35 @@ any conditions, limitations or restrictions specified in this Part as being appl
 - “defence asset” is a site identified on a safeguarding map provided to the local planning authority for the purposes of a direction made by the Secretary of State in exercise of the powers conferred by article 31(1) of the Procedure Order or any previous powers to the like effect;
 - “detached” means that the building does not share a party wall with a neighbouring building;
 - “flat” means a separate and self-contained premises constructed for use for the purposes of a dwellinghouse;
-- “footprint”, in relation to a building, means the total area of ground covered by it;[^key-642a549980923a0ac7385430849f97d8]
+- “footprint”, in relation to a building, means the total area of ground covered by it;[^c-642a549980923a0ac7385430849f97d8]
 - “habitable rooms” means any rooms used or intended to be used for sleeping or living which are not solely used for cooking purposes, but does not include bath or toilet facilities, service rooms, corridors, laundry rooms, hallways or utility rooms;
 - “principal part” means the main part of the building excluding any front, side or rear extension of a lower height, whether this forms part of the original building or a subsequent addition;
-- “purpose-built”, in relation to a building (whether a block of flats or a dwellinghouse), means built as such and remaining as such;[^key-8294ffcc17097a363b5aabc52b0584aa] [^key-a13c12f0b23fa4794df3f71624a039cb]...
-- “row”, in relation to a terrace building, means the row of two or more terrace buildings of which it forms part, where each building in the row—[^key-a9990f02fa7530ed4f69d4e1e5acc572]
+- “purpose-built”, in relation to a building (whether a block of flats or a dwellinghouse), means built as such and remaining as such;[^c-8294ffcc17097a363b5aabc52b0584aa] [^c-a13c12f0b23fa4794df3f71624a039cb]...
+- “row”, in relation to a terrace building, means the row of two or more terrace buildings of which it forms part, where each building in the row—[^c-a9990f02fa7530ed4f69d4e1e5acc572]
   - (a) shares a party wall with, or has a main wall adjoining the main wall of, the building on either side; or
   - (b) if it is the end of a row—
     - (i) in the case of a row comprising more than two buildings, it shares a party wall with, or has a main wall adjoining the main wall of, a building which fulfils the requirements of paragraph (a); or
     - (ii) in the case of a row comprising only two buildings, it shares a party wall with, or has a main wall adjoining the main wall of, the other building in the row;
-- “technical sites” has the same meaning as in [^key-bfee9bc57df789a2f7cc4ea83bd9ed04]... the Town and Country Planning (Safeguarded Aerodromes, Technical Sites and Military Explosives Storage Areas) Direction 2002.
-- “terrace building” means a building which is not detached.[^key-46fc833af03d63b43caa2c0b4843b99a]
+- “technical sites” has the same meaning as in [^c-bfee9bc57df789a2f7cc4ea83bd9ed04]... the Town and Country Planning (Safeguarded Aerodromes, Technical Sites and Military Explosives Storage Areas) Direction 2002.
+- “terrace building” means a building which is not detached.[^c-46fc833af03d63b43caa2c0b4843b99a]
 - (a) any storey below ground level; or
 - (b) any accommodation within the roof of a building, whether comprising part of the original building or created by a subsequent addition or alteration,
 
 and accordingly, references to an “additional storey” include a storey constructed in reliance on the permission granted by this Part which replaces accommodation within the roof of the existing building.
 
-(2)[^key-e13fb1bd1eb168ea9d7ecc58e89812bd] In Part 20 references to a “storey” do not include—
+(2)[^c-e13fb1bd1eb168ea9d7ecc58e89812bd] In Part 20 references to a “storey” do not include—
 
 - (a) any storey below ground level; or
 - (b) any accommodation within the roof of a building, whether comprising part of the original building or created by a subsequent addition or alteration,
 
 and accordingly, references to an “additional storey” include a storey constructed in reliance on the permission granted by this Part which replaces accommodation within the roof of the existing building.
 
-(3)[^key-0850c9d6467f33b87505d40289b0386f] In Part 20, development meets the fire risk condition if the development relates to a building which will—
+(3)[^c-0850c9d6467f33b87505d40289b0386f] In Part 20, development meets the fire risk condition if the development relates to a building which will—
 
 - (a) contain two or more dwellinghouses; and
 - (b) satisfy the height condition in paragraph (3), read with paragraph (7), of article 9A (fire statements) of the Town and Country Planning (Development Management Procedure) (England) Order 2015.
 
-#### Class AA - new dwellinghouses on detached buildings in commercial or mixed use[^key-e300616759cd55a07306d23d93277dd0]
+#### Class AA - new dwellinghouses on detached buildings in commercial or mixed use[^c-e300616759cd55a07306d23d93277dd0]
 
 ##### AA. Permitted development
 
@@ -6745,18 +6745,18 @@ and accordingly, references to an “additional storey” include a storey const
 
 (2) This sub-paragraph applies to a building which is—
 
-- (a) used for any purpose within Class A1 (shops), Class A2 (financial and professional services), Class A3 (restaurants and cafes) or Class B1(a) (offices) of the Schedule to the 1987 Order[^key-2ed39d1ca4613835346df4d0a5a13f4b], or as a betting office, pay day loan shop or launderette;
+- (a) used for any purpose within Class A1 (shops), Class A2 (financial and professional services), Class A3 (restaurants and cafes) or Class B1(a) (offices) of the Schedule to the 1987 Order[^c-2ed39d1ca4613835346df4d0a5a13f4b], or as a betting office, pay day loan shop or launderette;
 - (b) in a mixed use combining—
   - (i) two or more uses within paragraph (a); or
-  - (ii) a use falling within Class C3 (dwellinghouses) of the Schedule to the 1987 Order[^key-df21e7463f5d7ffa9f0242985b3fd682], together with one or more uses within paragraph (a).
+  - (ii) a use falling within Class C3 (dwellinghouses) of the Schedule to the 1987 Order[^c-df21e7463f5d7ffa9f0242985b3fd682], together with one or more uses within paragraph (a).
 
-(3)[^key-c527c13befda1f7ee40168a188a59363] In relation to Class AA, “the 1987 Order” means the Use Classes Order as in force on 5th March 2018.
+(3)[^c-c527c13befda1f7ee40168a188a59363] In relation to Class AA, “the 1987 Order” means the Use Classes Order as in force on 5th March 2018.
 
 ##### AA.1. Development not permitted
 
 Development is not permitted by Class AA if—
 
-- (za)[^key-3b97d52d68b4f46898385f0810d05e06] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
+- (za)[^c-3b97d52d68b4f46898385f0810d05e06] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
 - (a) above ground level, the building is less than three storeys in height;
 - (b) the building was constructed before 1st July 1948 or after 5th March 2018;
 - (c) on 5th March 2018 the building was in a use other than—
@@ -6807,8 +6807,8 @@ Development is not permitted by Class AA if—
 - (g) impact on the amenity of the existing building and neighbouring premises including overlooking, privacy and the loss of light;
 - (h) impacts of noise from any commercial premises on the intended occupiers of the new dwellinghouses;
 - (i) impacts of the introduction of, or an increase in, a residential use of premises in the area on the carrying on of any trade, business or other use of land in the area;
-- (j) whether, because of the siting of the building, the development will impact on a protected view identified in the Directions Relating to Protected Vistas dated 15th March 2012 issued by the Secretary of State, [^key-af25429e52b4117867847a8cf1cb64ba]...
-- (k)[^key-90ff44498b2b6c5cb0f68bd8b63ea371] where the existing building is 18 metres or more in height, the fire safety of the external wall construction of the existing building, ; and[^key-8daf4b8e857b6ca15a2180cbbe8c98dc]
+- (j) whether, because of the siting of the building, the development will impact on a protected view identified in the Directions Relating to Protected Vistas dated 15th March 2012 issued by the Secretary of State, [^c-af25429e52b4117867847a8cf1cb64ba]...
+- (k)[^c-90ff44498b2b6c5cb0f68bd8b63ea371] where the existing building is 18 metres or more in height, the fire safety of the external wall construction of the existing building, ; and[^c-8daf4b8e857b6ca15a2180cbbe8c98dc]
 - (l) where the development meets the fire risk condition (see paragraph C(3) of this Part), the fire safety impacts on the intended occupants of the building
 
 and the provisions of paragraph B (prior approval) of this Part apply in relation to that application.
@@ -6842,10 +6842,10 @@ together with any development under sub-paragraph (3).
 
 (2) This sub-paragraph applies to a building which is—
 
-- (a) used for any purpose within Class A1 (shops), Class A2 (financial and professional services), Class A3 (restaurants and cafes) or Class B1(a) (offices) of the Schedule to the 1987 Order[^key-5724d3a972de3845ea1daaf3eba0a9c8], or as a betting office, pay day loan shop or launderette;
+- (a) used for any purpose within Class A1 (shops), Class A2 (financial and professional services), Class A3 (restaurants and cafes) or Class B1(a) (offices) of the Schedule to the 1987 Order[^c-5724d3a972de3845ea1daaf3eba0a9c8], or as a betting office, pay day loan shop or launderette;
 - (b) in a mixed use combining—
   - (i) two or more uses within paragraph (a); or
-  - (ii) a use falling within Class C3 (dwellinghouses) of the Schedule to the 1987 Order[^key-b7e34bf925c4dd1418e945258111dc4e], together with one or more uses within paragraph (a).
+  - (ii) a use falling within Class C3 (dwellinghouses) of the Schedule to the 1987 Order[^c-b7e34bf925c4dd1418e945258111dc4e], together with one or more uses within paragraph (a).
 
 (3) Development consisting of any or all—
 
@@ -6854,13 +6854,13 @@ together with any development under sub-paragraph (3).
 - (c) works for the construction of appropriate and safe access to and egress from the new dwellinghouses and existing premises, including means of escape from fire, via additional external doors or external staircases;
 - (d) works for the construction of storage, waste or other ancillary facilities reasonably necessary to support the new dwellinghouses.
 
-(4)[^key-912de860a8c9d4eba0d30d61ffc28bed] In relation to Class AB, “the 1987 Order” means the Use Classes Order as in force on 5th March 2018.
+(4)[^c-912de860a8c9d4eba0d30d61ffc28bed] In relation to Class AB, “the 1987 Order” means the Use Classes Order as in force on 5th March 2018.
 
 ##### AB.1. Development not permitted
 
 Development is not permitted by Class AB if—
 
-- (za)[^key-e507f44aac26e666c6fe9e2c495af940] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
+- (za)[^c-e507f44aac26e666c6fe9e2c495af940] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
 - (a) the building was constructed before 1st July 1948 or after 5th March 2018;
 - (b) on 5th March 2018 the building was in a use other than—
   - (i) a use or mixed use within paragraph AB(2)(a) or (b); or
@@ -6957,7 +6957,7 @@ together with any development under sub-paragraph (2).
 
 Development is not permitted by Class AC if—
 
-- (za)[^key-471d2b5744441557704e5872a9bbe703] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
+- (za)[^c-471d2b5744441557704e5872a9bbe703] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
 - (a) the building was constructed before 1st July 1948 or after 5th March 2018;
 - (b) on 5th March 2018 the building was in a use other than—
   - (i) a use falling within Class C3 (dwellinghouses) of the Schedule to the Use Classes Order; or
@@ -7052,7 +7052,7 @@ together with any development under sub‑paragraph (2).
 
 Development is not permitted by Class AD if—
 
-- (za)[^key-a7f9cc81a666d30f5fdc1cd48554873a] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
+- (za)[^c-a7f9cc81a666d30f5fdc1cd48554873a] the permission to use the building as a dwellinghouse has been granted only by virtue of Class MA of Part 3 of this Schedule;
 - (a) the building was constructed before 1st July 1948 or after 5th March 2018;
 - (b) on 5th March 2018 the building was in a use other than—
   - (i) a use falling within Class C3 (dwellinghouses) of the Schedule to the Use Classes Order; or
@@ -7125,409 +7125,409 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 ## Annotations
 
-[^key-263b22620d3b5afac0edac362844cabf]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-263b22620d3b5afac0edac362844cabf]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-07961fe82b0b6c6733e776bd76305eb8]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/428/article/4/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-07961fe82b0b6c6733e776bd76305eb8]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/428/article/4/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-acc0ef439a46c8b7111d3fe4bddf0940]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-acc0ef439a46c8b7111d3fe4bddf0940]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-e5647d0f042fa42128db82cb09f048a5]: Textual amendment: Words in Sch. 2 Pt. 1 Class A para. A.1(g) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/907/regulation/4/a)
+[^c-e5647d0f042fa42128db82cb09f048a5]: Textual amendment: Words in Sch. 2 Pt. 1 Class A para. A.1(g) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/907/regulation/4/a)
 
-[^key-d30ee20bed887d95c59d42be571d5a3a]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.1(h)(ii) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [4](https://www.legislation.gov.uk/uksi/2016/332/article/4)
+[^c-d30ee20bed887d95c59d42be571d5a3a]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.1(h)(ii) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [4](https://www.legislation.gov.uk/uksi/2016/332/article/4)
 
-[^key-6fec14b68cbeba9e6ae76b0fb695e70a]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(j)(iii) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/a/i)
+[^c-6fec14b68cbeba9e6ae76b0fb695e70a]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(j)(iii) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/a/i)
 
-[^key-2b3eef57784a33e9d095a66a224b9ffb]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.1(ja) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/391/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-2b3eef57784a33e9d095a66a224b9ffb]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.1(ja) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/391/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-be1ef9454accf6e220aa818820c35aaa]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(k) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/a/ii)
+[^c-be1ef9454accf6e220aa818820c35aaa]: Textual amendment: Word in Sch. 2 Pt. 1 Class A para. A.1(k) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/a/ii)
 
-[^key-31bb6717938431bc89e17aa943ac5c06]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.1(l) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/a/iii)
+[^c-31bb6717938431bc89e17aa943ac5c06]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.1(l) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/a/iii)
 
-[^key-e226f0f5b887279dd783d66b42580b74]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.2(d) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/391/article/3/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-e226f0f5b887279dd783d66b42580b74]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.2(d) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/391/article/3/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-049c75396d7c21623deee389e0ddbc25]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.3(c) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2017/391/article/3/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-049c75396d7c21623deee389e0ddbc25]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.3(c) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(c)](https://www.legislation.gov.uk/uksi/2017/391/article/3/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-4fda73d00e44b0eae75e4dae97427e84]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(2)(a)(iv) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2017/391/article/3/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-4fda73d00e44b0eae75e4dae97427e84]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(2)(a)(iv) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(d)](https://www.legislation.gov.uk/uksi/2017/391/article/3/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-0174059d581e4935d9bb5c4e99525488]: Textual amendment: Words in Sch. 2 Pt. 1 Class A para. A.4(2)(b) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(e)](https://www.legislation.gov.uk/uksi/2017/391/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-0174059d581e4935d9bb5c4e99525488]: Textual amendment: Words in Sch. 2 Pt. 1 Class A para. A.4(2)(b) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(e)](https://www.legislation.gov.uk/uksi/2017/391/article/3/e) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-2af03165fc0c630a2f2117dd4e65f361]: Textual amendment: Words in Sch. 2 Pt. 1 Class A para. A.4(2) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/b)
+[^c-2af03165fc0c630a2f2117dd4e65f361]: Textual amendment: Words in Sch. 2 Pt. 1 Class A para. A.4(2) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/5/b)
 
-[^key-8548e1b0751a7c1445c02a4869f7d8d7]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(5)(a) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(f)](https://www.legislation.gov.uk/uksi/2017/391/article/3/f) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-8548e1b0751a7c1445c02a4869f7d8d7]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(5)(a) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [3(f)](https://www.legislation.gov.uk/uksi/2017/391/article/3/f) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-be82edaf77917c968fbf486eaa72589b]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(13)-(15) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/4/b)
+[^c-be82edaf77917c968fbf486eaa72589b]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(13)-(15) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/4/b)
 
 [^M_F_5f2b2498-2577-4c1b-fc51-b9de31f995e0]: Textual amendment: Sch. 2 Pt. 1 Class A para. A.4(16) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(1)](https://www.legislation.gov.uk/uksi/2018/119/article/26/1)
 
-[^key-1836f4f3570d66c8cdb116930e87a427]: Textual amendment: Sch. 2 Pt. 1 Class AA inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/755/article/3/2)
+[^c-1836f4f3570d66c8cdb116930e87a427]: Textual amendment: Sch. 2 Pt. 1 Class AA inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/755/article/3/2)
 
-[^key-77180a4a6de89836c9990f5347f868fc]: Textual amendment: Word in Sch. 2 Pt. 1 Class AA para. AA.1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-77180a4a6de89836c9990f5347f868fc]: Textual amendment: Word in Sch. 2 Pt. 1 Class AA para. AA.1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-16a67485e012bbba27a344149babc490]: Textual amendment: Word in Sch. 2 Pt. 1 Class AA para. AA.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/428/article/4/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-16a67485e012bbba27a344149babc490]: Textual amendment: Word in Sch. 2 Pt. 1 Class AA para. AA.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/428/article/4/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-4ec7785a2300f2f03f799b580921764b]: Textual amendment: Words in Sch. 2 Pt. 1 Class AA para. AA.3(2) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/814/article/3/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-4ec7785a2300f2f03f799b580921764b]: Textual amendment: Words in Sch. 2 Pt. 1 Class AA para. AA.3(2) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/814/article/3/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-90686c6e08a4f3b0443007ebce4eb897]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/1) Class AA para. AA.3(11)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/i)
+[^c-90686c6e08a4f3b0443007ebce4eb897]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/1) Class AA para. AA.3(11)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/i)
 
-[^key-d194752214eec22679e46d161eb697d0]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/1) Class AA para. AA.3(12)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/i)
+[^c-d194752214eec22679e46d161eb697d0]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/1) Class AA para. AA.3(12)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/i)
 
-[^key-aab70b908e878986a339854426a3ad20]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-aab70b908e878986a339854426a3ad20]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b0515e5642ee1283cb2592927d0ff2bd]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2021/428/article/4/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-b0515e5642ee1283cb2592927d0ff2bd]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2021/428/article/4/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-0e2cd7bd6893db8025161cfa907e9a1a]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-0e2cd7bd6893db8025161cfa907e9a1a]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-db8e7cc47702dcf4ed76066f41d53ad2]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(e) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/a/i)
+[^c-db8e7cc47702dcf4ed76066f41d53ad2]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(e) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(a)(i)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/a/i)
 
 [^M_F_f7c295ab-84a7-4b9b-c00b-5a90d02e0f5d]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(f) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/a/ii)
 
-[^key-2c9cca89e66f4fd47b43c07f75368f1e]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(f) omitted (31.8.2020 at 9.00 a.m.) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/755/article/3/3/a)
+[^c-2c9cca89e66f4fd47b43c07f75368f1e]: Textual amendment: Word in Sch. 2 Pt. 1 Class B para. B.1(f) omitted (31.8.2020 at 9.00 a.m.) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/755/article/3/3/a)
 
-[^key-fc80ede3dafeb142f893fc3e1e3902b0]: Textual amendment: Sch. 2 Pt. 1 Class B para. B.1(g) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/a/iii)
+[^c-fc80ede3dafeb142f893fc3e1e3902b0]: Textual amendment: Sch. 2 Pt. 1 Class B para. B.1(g) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(a)(iii)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/a/iii)
 
-[^key-2be657503e6484426110caccef9a8cd0]: Textual amendment: Sch. 2 Pt. 1 Class B para. B.1(h) and word inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/755/article/3/3/b)
+[^c-2be657503e6484426110caccef9a8cd0]: Textual amendment: Sch. 2 Pt. 1 Class B para. B.1(h) and word inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/755/article/3/3/b)
 
-[^key-0a1e0a9cf166ae851debb3bb78636563]: Textual amendment: Sch. 2 Pt. 1 Class B para. B.4 substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/b)
+[^c-0a1e0a9cf166ae851debb3bb78636563]: Textual amendment: Sch. 2 Pt. 1 Class B para. B.4 substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/6/b)
 
-[^key-6ab811704f28350225f2b032f9c29b58]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-6ab811704f28350225f2b032f9c29b58]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-9ed5c835f6d3a089bf58b2cfb49f746a]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2021/428/article/4/d) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-9ed5c835f6d3a089bf58b2cfb49f746a]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2021/428/article/4/d) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-734334577470ad39e8136a04d7fb1cca]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-734334577470ad39e8136a04d7fb1cca]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-1cd25fedd3279ab0ccfe7ee0724368c8]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/7/a)
+[^c-1cd25fedd3279ab0ccfe7ee0724368c8]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/7/a)
 
-[^key-40bc268db4cbb37b8ab22b0a5122e6a2]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(d) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/7/b)
+[^c-40bc268db4cbb37b8ab22b0a5122e6a2]: Textual amendment: Word in Sch. 2 Pt. 1 Class C para. C.1(d) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/7/b)
 
-[^key-77a98e068fec1ae2243994fefc77afb2]: Textual amendment: Sch. 2 Pt. 1 Class C para. C.1(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/7/c)
+[^c-77a98e068fec1ae2243994fefc77afb2]: Textual amendment: Sch. 2 Pt. 1 Class C para. C.1(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/7/c)
 
-[^key-fab17ea7cc7799bafe190046c9613e45]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-fab17ea7cc7799bafe190046c9613e45]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(e)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-4f13e8b956d6298ea329f3a3b4cf4625]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2021/428/article/4/e) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-4f13e8b956d6298ea329f3a3b4cf4625]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2021/428/article/4/e) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-8b23aee9d60eeea3b085bbe86dcc4310]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-8b23aee9d60eeea3b085bbe86dcc4310]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-91b6ac0ba60709927e73cfeb3a1415d6]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/8/a)
+[^c-91b6ac0ba60709927e73cfeb3a1415d6]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/8/a)
 
-[^key-0095e13e4f1b5392cf669127abb82068]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(d) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/8/b)
+[^c-0095e13e4f1b5392cf669127abb82068]: Textual amendment: Word in Sch. 2 Pt. 1 Class D para. D.1(d) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/8/b)
 
-[^key-cf4900d2996e022348de7fe7d468e8e9]: Textual amendment: Sch. 2 Pt. 1 Class D para. D.1(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/8/c)
+[^c-cf4900d2996e022348de7fe7d468e8e9]: Textual amendment: Sch. 2 Pt. 1 Class D para. D.1(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/8/c)
 
-[^key-09c82766684fc41aa5621cd6247b70ec]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-09c82766684fc41aa5621cd6247b70ec]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-ef21541816d4305863778a2e0f4f4d7e]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2021/428/article/4/f) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-ef21541816d4305863778a2e0f4f4d7e]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(f)](https://www.legislation.gov.uk/uksi/2021/428/article/4/f) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-2967c33db919ec7a657caadc034b14ad]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-2967c33db919ec7a657caadc034b14ad]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-579d2317b030fd38e1d9c9def7fc2a3d]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(i) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/9/a)
+[^c-579d2317b030fd38e1d9c9def7fc2a3d]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(i) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/9/a)
 
-[^key-12cdcbc15f3d66c6d9d55e488d689fb3]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(j) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/9/b)
+[^c-12cdcbc15f3d66c6d9d55e488d689fb3]: Textual amendment: Word in Sch. 2 Pt. 1 Class E para. E.1(j) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/9/b)
 
-[^key-525b8b50db41d2ad901bac8cf879075a]: Textual amendment: Sch. 2 Pt. 1 Class E para. E.1(k) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/9/c)
+[^c-525b8b50db41d2ad901bac8cf879075a]: Textual amendment: Sch. 2 Pt. 1 Class E para. E.1(k) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/9/c)
 
-[^key-7600b56a5e413cca32f671787bf9a036]: Textual amendment: Sch. 2 Pt. 1 Class F para. F.1 substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/632/regulation/10)
+[^c-7600b56a5e413cca32f671787bf9a036]: Textual amendment: Sch. 2 Pt. 1 Class F para. F.1 substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/632/regulation/10)
 
-[^key-be4ca08a33864792712640694f7947b9]: Textual amendment: Word in Sch. 2 Pt. 1 Class F para. F1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(g)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/g) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-be4ca08a33864792712640694f7947b9]: Textual amendment: Word in Sch. 2 Pt. 1 Class F para. F1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(g)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/g) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-9bb6dff3e359d72c0587255e7bd6f74a]: Textual amendment: Word in Sch. 2 Pt. 1 Class F para. F.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2021/428/article/4/g) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-9bb6dff3e359d72c0587255e7bd6f74a]: Textual amendment: Word in Sch. 2 Pt. 1 Class F para. F.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(g)](https://www.legislation.gov.uk/uksi/2021/428/article/4/g) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-9fca6da3e09caa1a401dc3c1189ed96d]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(h)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/h) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-9fca6da3e09caa1a401dc3c1189ed96d]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(h)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/h) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-3ce87eafb5fdcae0f5345b8a6a2f6a00]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(h)](https://www.legislation.gov.uk/uksi/2021/428/article/4/h) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-3ce87eafb5fdcae0f5345b8a6a2f6a00]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(h)](https://www.legislation.gov.uk/uksi/2021/428/article/4/h) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-efa43384a0fc068f16bfef2d65157ec5]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-efa43384a0fc068f16bfef2d65157ec5]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-2e2d33f149dc1adb6ff64fb87a2d31da]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(b) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/11/a)
+[^c-2e2d33f149dc1adb6ff64fb87a2d31da]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(b) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/11/a)
 
-[^key-690c535be46af019d73c8a0101d38757]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(c) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/11/b)
+[^c-690c535be46af019d73c8a0101d38757]: Textual amendment: Word in Sch. 2 Pt. 1 Class G para. G.1(c) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/11/b)
 
-[^key-4cc5964a1706d50ed5515a75826780de]: Textual amendment: Sch. 2 Pt. 1 Class G para. G.1(d) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/11/c)
+[^c-4cc5964a1706d50ed5515a75826780de]: Textual amendment: Sch. 2 Pt. 1 Class G para. G.1(d) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/11/c)
 
-[^key-0ded963e60d4624a695c77fb5a89a7c0]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-0ded963e60d4624a695c77fb5a89a7c0]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H1(a) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [3(2)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/3/2/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b82ba051bf03cdc27caedd6c5a5d017b]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(i)](https://www.legislation.gov.uk/uksi/2021/428/article/4/i) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-b82ba051bf03cdc27caedd6c5a5d017b]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [4(i)](https://www.legislation.gov.uk/uksi/2021/428/article/4/i) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-edf46e7a333174a0fdb0196e22c1de30]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
+[^c-edf46e7a333174a0fdb0196e22c1de30]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(a) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [9](https://www.legislation.gov.uk/uksi/2016/332/article/9)
 
-[^key-ca1dac27b42f781668dc34f0f43ebe7b]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(d) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/12/a)
+[^c-ca1dac27b42f781668dc34f0f43ebe7b]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(d) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/12/a)
 
-[^key-fe14dafb76b0a246da22fbb36451aa08]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(e) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/12/b)
+[^c-fe14dafb76b0a246da22fbb36451aa08]: Textual amendment: Word in Sch. 2 Pt. 1 Class H para. H.1(e) substituted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/12/b)
 
-[^key-bdc7ce76c768eac281025194b6cd9537]: Textual amendment: Sch. 2 Pt. 1 Class H para. H.1(f) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/12/c)
+[^c-bdc7ce76c768eac281025194b6cd9537]: Textual amendment: Sch. 2 Pt. 1 Class H para. H.1(f) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/12/c)
 
-[^key-25bd8d83425938a310cd5f4fedc34320]: Textual amendment: Words in Sch. 2 Pt. 1 para. I inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/755/article/3/4)
+[^c-25bd8d83425938a310cd5f4fedc34320]: Textual amendment: Words in Sch. 2 Pt. 1 para. I inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/755/article/3/4)
 
 [^c22501291]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). See in particular sections 36, 328 and 329; section 36 was amended by Schedule 4 to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/51/schedule/2) to the [Housing (Consequential Provisions) Act 1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2) to the [Planning (Consequential Provisions) Act 1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), [section 64](https://www.legislation.gov.uk/ukpga/1990/11/section/64) of, and Schedule 4 to, the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [Schedule 6](https://www.legislation.gov.uk/ukpga/1992/42/schedule/6) to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177). There are amendments to section 329 but none are relevant to this Order.
 
-[^key-847e75a92196c3201d2c5fe00d161d74]: Textual amendment: Sch. 2 Pt. 2 Class D para. D substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-847e75a92196c3201d2c5fe00d161d74]: Textual amendment: Sch. 2 Pt. 2 Class D para. D substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-a5d76d6e5fe5c348e22dfd056d255f6d]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1 renumbered as Sch. 2 Pt. 2 Class D para. D.1(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-a5d76d6e5fe5c348e22dfd056d255f6d]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1 renumbered as Sch. 2 Pt. 2 Class D para. D.1(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-aeca0f9d551e3ea236feee1511e389d4]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1(1)(aa) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-aeca0f9d551e3ea236feee1511e389d4]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1(1)(aa) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-baa60f62e82d350fca2e77d6c0538e90]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1(1)(b) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/560/article/3)
+[^c-baa60f62e82d350fca2e77d6c0538e90]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1(1)(b) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/560/article/3)
 
-[^key-2576a502aba48feeebcd4f732c3f58eb]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1(2)(3) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/3/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-2576a502aba48feeebcd4f732c3f58eb]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.1(2)(3) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/3/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-bbe1b74750fbabf8af827a63650a6f9f]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.2 renumbered Sch. 2 Pt. 2 Class D para. D.2(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-bbe1b74750fbabf8af827a63650a6f9f]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.2 renumbered Sch. 2 Pt. 2 Class D para. D.2(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-6fedb9de20695f8e8c2c899cd0521f39]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.2(2) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-6fedb9de20695f8e8c2c899cd0521f39]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.2(2) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-af3063c29ef7e310e7793d801460a5c4]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.3 inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-af3063c29ef7e310e7793d801460a5c4]: Textual amendment: Sch. 2 Pt. 2 Class D para. D.3 inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2026/1056/article/4/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-49c58ee54e43be410bc9a4480bb84128]: Textual amendment: Word in Sch. 2 Pt. 2 Class E heading inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/560/article/4/2)
+[^c-49c58ee54e43be410bc9a4480bb84128]: Textual amendment: Word in Sch. 2 Pt. 2 Class E heading inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/560/article/4/2)
 
-[^key-659814ff9165ccee09059ee172a0b70d]: Textual amendment: Sch. 2 Pt. 2 Class E para. E renumbered as Sch. 2 Pt. 2 Class E para. E(1) (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/4/3/a)
+[^c-659814ff9165ccee09059ee172a0b70d]: Textual amendment: Sch. 2 Pt. 2 Class E para. E renumbered as Sch. 2 Pt. 2 Class E para. E(1) (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/4/3/a)
 
-[^key-14d177238789336e94c4f400fb0b8622]: Textual amendment: Sch. 2 Pt. 2 Class E para. E(1) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-14d177238789336e94c4f400fb0b8622]: Textual amendment: Sch. 2 Pt. 2 Class E para. E(1) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-ea92cab0d7eba4b97f88295fdad63166]: Textual amendment: Sch. 2 Pt. 2 Class E para. E(2) inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/560/article/4/3/b)
+[^c-ea92cab0d7eba4b97f88295fdad63166]: Textual amendment: Sch. 2 Pt. 2 Class E para. E(2) inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2025/560/article/4/3/b)
 
-[^key-c4e7ef5c3dff20bb55f2d64319e8af15]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1 renumbered as Sch. 2 Pt. 2 Class E para. E.1(1) (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/a)
+[^c-c4e7ef5c3dff20bb55f2d64319e8af15]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1 renumbered as Sch. 2 Pt. 2 Class E para. E.1(1) (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/a)
 
-[^key-c16bd37826542806745e367b54fa2666]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.1(1) substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/b/i)
+[^c-c16bd37826542806745e367b54fa2666]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.1(1) substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/b/i)
 
-[^key-a1d4e64d14d745b71584f722bb5aee11]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(1)(a) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-a1d4e64d14d745b71584f722bb5aee11]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(1)(a) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(a)(i)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-7ce8d88a860d59a2e6e866cf131e77f0]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(1)(aa) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-7ce8d88a860d59a2e6e866cf131e77f0]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(1)(aa) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/a/ii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-b5ce2a8099f139b99c8c57eae037748b]: Textual amendment: Sch. 2 Pt. 2 Sch. 2 Pt. 2 Class E para. E.1(1)(b) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/b/iii)
+[^c-b5ce2a8099f139b99c8c57eae037748b]: Textual amendment: Sch. 2 Pt. 2 Sch. 2 Pt. 2 Class E para. E.1(1)(b) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/b/iii)
 
-[^key-3ce84bdf035aab90fa0cd9324e19307e]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(2)(3) inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/c)
+[^c-3ce84bdf035aab90fa0cd9324e19307e]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(2)(3) inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2025/560/article/4/4/c)
 
-[^key-4cdb99991b9e27d44e63f97a8cb74f22]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(3)(a) omitted (21.10.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-4cdb99991b9e27d44e63f97a8cb74f22]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(3)(a) omitted (21.10.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(i)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-c75fb40efc212bb012f31067968fe0bb]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.1(3)(b) omitted (21.10.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/ii/aa) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-c75fb40efc212bb012f31067968fe0bb]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.1(3)(b) omitted (21.10.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/ii/aa) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-2b979a7b449d4eff9333a3878ac3c111]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(3)(b)(i) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/ii/bb) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-2b979a7b449d4eff9333a3878ac3c111]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(3)(b)(i) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/ii/bb) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-bf646db47602e64e67b2bb79132f7d9a]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(3)(b)(iii) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/iii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-bf646db47602e64e67b2bb79132f7d9a]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.1(3)(b)(iii) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/3/b/iii) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-2876f52633ea361e511d07d8cd04ad76]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.2 renumbered as Sch. 2 Pt. 2 Class E para. E.2(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-2876f52633ea361e511d07d8cd04ad76]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.2 renumbered as Sch. 2 Pt. 2 Class E para. E.2(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/4/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-66251d11400085cf4a5d65d8321e1888]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.2(2)-(13) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-66251d11400085cf4a5d65d8321e1888]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.2(2)-(13) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/4/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-f048242f695d2e6b462d402f9e471267]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.3 inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/5/b)
+[^c-f048242f695d2e6b462d402f9e471267]: Textual amendment: Sch. 2 Pt. 2 Class E para. E.3 inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/5/b)
 
-[^key-8d880366bbdd72c97d6710c96efc8822]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.3 inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-8d880366bbdd72c97d6710c96efc8822]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.3 inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(5)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-fd50e4cfa301c5ffefc219624b22c6db]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.3 inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/5/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
+[^c-fd50e4cfa301c5ffefc219624b22c6db]: Textual amendment: Words in Sch. 2 Pt. 2 Class E para. E.3 inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [5(5)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/5/5/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/1056/article/10))
 
-[^key-eea5b6b5bd4ca162b4fd60538cf6d37e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/2) Class G inserted (2.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/b), [4](https://www.legislation.gov.uk/uksi/2021/1464/article/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2021/1464/article/10))
+[^c-eea5b6b5bd4ca162b4fd60538cf6d37e]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/2) Class G inserted (2.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/b), [4](https://www.legislation.gov.uk/uksi/2021/1464/article/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2021/1464/article/10))
 
-[^key-ac6c949fdfc258e7dbecb37962512e6e]: Textual amendment: Sch. 2 Pt. 3 Class A substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/814/article/4/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-ac6c949fdfc258e7dbecb37962512e6e]: Textual amendment: Sch. 2 Pt. 3 Class A substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/814/article/4/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-060006cf47bcf0afa9e8b9a22cfa678c]: Textual amendment: Sch. 2 Pt. 3 Class AA and cross-heading inserted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2017/619/article/3/1/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-060006cf47bcf0afa9e8b9a22cfa678c]: Textual amendment: Sch. 2 Pt. 3 Class AA and cross-heading inserted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(1)(b)](https://www.legislation.gov.uk/uksi/2017/619/article/3/1/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-ff7bc44d81c201cb8d70efef0905f8cb]: Textual amendment: Sch. 2 Pt. 3 Class AA para. AA substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/814/article/4/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-ff7bc44d81c201cb8d70efef0905f8cb]: Textual amendment: Sch. 2 Pt. 3 Class AA para. AA substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/814/article/4/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-64df30805110aacc41a140da6a730ad3]: Textual amendment: Words in Sch. 2 Pt. 3 Class B heading omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(1)(c)(i)](https://www.legislation.gov.uk/uksi/2017/619/article/3/1/c/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-64df30805110aacc41a140da6a730ad3]: Textual amendment: Words in Sch. 2 Pt. 3 Class B heading omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(1)(c)(i)](https://www.legislation.gov.uk/uksi/2017/619/article/3/1/c/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-e95634ab94ce42174c6a0efb5bdbb6cf]: Textual amendment: Sch. 2 Pt. 3 Class B omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/814/article/4/4) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-e95634ab94ce42174c6a0efb5bdbb6cf]: Textual amendment: Sch. 2 Pt. 3 Class B omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2021/814/article/4/4) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-80b443472929f1dc9f2ccb6865f47929]: Textual amendment: Sch. 2 Pt. 3 Class C omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/814/article/4/5) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-80b443472929f1dc9f2ccb6865f47929]: Textual amendment: Sch. 2 Pt. 3 Class C omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2021/814/article/4/5) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-ddc17d94170f1b879e5cfe5953fc784a]: Textual amendment: Sch. 2 Pt. 3 Class D omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2021/814/article/4/6) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-ddc17d94170f1b879e5cfe5953fc784a]: Textual amendment: Sch. 2 Pt. 3 Class D omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2021/814/article/4/6) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-5753645b183e4c0f311bcc72bc7fd147]: Textual amendment: Sch. 2 Pt. 3 Class E omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2021/814/article/4/7) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5753645b183e4c0f311bcc72bc7fd147]: Textual amendment: Sch. 2 Pt. 3 Class E omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(7)](https://www.legislation.gov.uk/uksi/2021/814/article/4/7) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-c9528df445ca04b6ce017d1239591449]: Textual amendment: Sch. 2 Pt. 3 Class F omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/814/article/4/8) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-c9528df445ca04b6ce017d1239591449]: Textual amendment: Sch. 2 Pt. 3 Class F omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(8)](https://www.legislation.gov.uk/uksi/2021/814/article/4/8) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-d5ff8f7f91d8f88680e7b258e94cc39d]: Textual amendment: Words in Sch. 2 Pt. 3 Class G heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-d5ff8f7f91d8f88680e7b258e94cc39d]: Textual amendment: Words in Sch. 2 Pt. 3 Class G heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-e5a50f97cc28997b5fb42d15c0b3accc]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-e5a50f97cc28997b5fb42d15c0b3accc]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b34b373b25c62b588e8da9bfb0843086]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(b) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-b34b373b25c62b588e8da9bfb0843086]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(b) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-9fdbdf77481f5f86f1e904fca9c591c4]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-9fdbdf77481f5f86f1e904fca9c591c4]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-90dabe24f80b89f9f695fc95f54c6f5d]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(d) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/iv) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-90dabe24f80b89f9f695fc95f54c6f5d]: Textual amendment: Sch. 2 Pt. 3 Class G para. G(d) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/iv) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-9379d41178649e3fcea189f04dfa6e85]: Textual amendment: Words in Sch. 2 Pt. 3 Class G para. G(e) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(v)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/v) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-9379d41178649e3fcea189f04dfa6e85]: Textual amendment: Words in Sch. 2 Pt. 3 Class G para. G(e) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(b)(v)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/b/v) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-464ca8cbdeaa120893583bddf8c94d6e]: Textual amendment: Words in Sch. 2 Pt. 3 Class G para. G.1(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-464ca8cbdeaa120893583bddf8c94d6e]: Textual amendment: Words in Sch. 2 Pt. 3 Class G para. G.1(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-bfe97480f79fdaa011fc57d7ce081329]: Textual amendment: Sch. 2 Pt. 3 Class G para. G.1(d) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-bfe97480f79fdaa011fc57d7ce081329]: Textual amendment: Sch. 2 Pt. 3 Class G para. G.1(d) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(9)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/9/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-10aad821d639e220e8b0878ca5cff19b]: Textual amendment: Words in Sch. 2 Pt. 3 Class H heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-10aad821d639e220e8b0878ca5cff19b]: Textual amendment: Words in Sch. 2 Pt. 3 Class H heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-0d9ab81ecfdff88d78f4991265b9d65f]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-0d9ab81ecfdff88d78f4991265b9d65f]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-6baa5037f04c17337864c6458f171278]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(b) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-6baa5037f04c17337864c6458f171278]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(b) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-ad1d1de56b2e042ea3050f95c71fb6f5]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-ad1d1de56b2e042ea3050f95c71fb6f5]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-73ffa940a2ba9605b140b5058bf7c595]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(d) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/iv) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-73ffa940a2ba9605b140b5058bf7c595]: Textual amendment: Sch. 2 Pt. 3 Class H para. H(d) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/iv) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-fcbc586abce07b6c8dd4f265b1cce608]: Textual amendment: Words in Sch. 2 Pt. 3 Class H para. H(e) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(v)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/v) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-fcbc586abce07b6c8dd4f265b1cce608]: Textual amendment: Words in Sch. 2 Pt. 3 Class H para. H(e) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(b)(v)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/b/v) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-d14ba0b2b6e6d0a23746d5092ce14b01]: Textual amendment: Sch. 2 Pt. 3 Class H para. H.1. substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-d14ba0b2b6e6d0a23746d5092ce14b01]: Textual amendment: Sch. 2 Pt. 3 Class H para. H.1. substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(10)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/4/10/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-6bb9df17fcf3a4d7f2c7fb55ad0fb2e2]: Textual amendment: Sch. 2 Pt. 3 Class I substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2021/814/article/4/11) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-6bb9df17fcf3a4d7f2c7fb55ad0fb2e2]: Textual amendment: Sch. 2 Pt. 3 Class I substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(11)](https://www.legislation.gov.uk/uksi/2021/814/article/4/11) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-c51aad70c48609515e46bffca0732165]: Textual amendment: Sch. 2 Pt. 3 Class J omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2021/814/article/4/12) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-c51aad70c48609515e46bffca0732165]: Textual amendment: Sch. 2 Pt. 3 Class J omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2021/814/article/4/12) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b6474c9519be342d4be5bae500585758]: Textual amendment: Sch. 2 Pt. 3 Class JA omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(13)](https://www.legislation.gov.uk/uksi/2021/814/article/4/13) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-b6474c9519be342d4be5bae500585758]: Textual amendment: Sch. 2 Pt. 3 Class JA omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(13)](https://www.legislation.gov.uk/uksi/2021/814/article/4/13) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-6a57a68f1228d455771fa51991ebb0f0]: Textual amendment: Sch. 2 Pt. 3 Class K omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(14)](https://www.legislation.gov.uk/uksi/2021/814/article/4/14) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-6a57a68f1228d455771fa51991ebb0f0]: Textual amendment: Sch. 2 Pt. 3 Class K omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(14)](https://www.legislation.gov.uk/uksi/2021/814/article/4/14) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b4c777929867d4739694294674772a78]: Textual amendment: Sch. 2 Pt. 3 Class M para. M and cross-heading substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/332/article/6/2)
+[^c-b4c777929867d4739694294674772a78]: Textual amendment: Sch. 2 Pt. 3 Class M para. M and cross-heading substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/332/article/6/2)
 
-[^key-e824da820c822131c5b501d4765233c1]: Textual amendment: Sch. 2 Pt. 3 Class M heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-e824da820c822131c5b501d4765233c1]: Textual amendment: Sch. 2 Pt. 3 Class M heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-466c2ea209a41d01e09664c14511ef32]: Textual amendment: Sch. 2 Pt. 3 Class M para. M substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-466c2ea209a41d01e09664c14511ef32]: Textual amendment: Sch. 2 Pt. 3 Class M para. M substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-639ae2e8c0bf08e6fa45f757e1cdf067]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.1(b) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-639ae2e8c0bf08e6fa45f757e1cdf067]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.1(b) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-70dd3b56db907069838037e91d9d1934]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(1)(d)(i) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(d)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/d/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-70dd3b56db907069838037e91d9d1934]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(1)(d)(i) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(d)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/d/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-4c56dee0aa0080632aca8da174f78c24]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(1)(d)(ii) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/d/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-4c56dee0aa0080632aca8da174f78c24]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(1)(d)(ii) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(15)(d)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/15/d/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-45470e307c0e92f6e156d6dfc86fd63b]: Textual amendment: Word in Sch. 2 Pt. 3 Class M para. M.2(1)(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/13/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-45470e307c0e92f6e156d6dfc86fd63b]: Textual amendment: Word in Sch. 2 Pt. 3 Class M para. M.2(1)(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/13/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-d4e191992c4fe6427f88eef88ad7eb58]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(1)(f) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/13/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-d4e191992c4fe6427f88eef88ad7eb58]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(1)(f) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/13/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-7263940dc38d7977446bb0c1192fc015]: Textual amendment: Words in Sch. 2 Pt. 3 Class M para. M.2(2) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [13(d)](https://www.legislation.gov.uk/uksi/2020/632/regulation/13/d) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-7263940dc38d7977446bb0c1192fc015]: Textual amendment: Words in Sch. 2 Pt. 3 Class M para. M.2(2) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [13(d)](https://www.legislation.gov.uk/uksi/2020/632/regulation/13/d) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-f03fd9c9e6ce62faeae870fb89707e4f]: Textual amendment: Word in Sch. 2 Pt. 3 Class M para. M.2(3)(a) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/428/article/5/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-f03fd9c9e6ce62faeae870fb89707e4f]: Textual amendment: Word in Sch. 2 Pt. 3 Class M para. M.2(3)(a) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/428/article/5/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-a9b2875cc00cac95d5d3c795de0f35c9]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(3)(c) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/428/article/5/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-a9b2875cc00cac95d5d3c795de0f35c9]: Textual amendment: Sch. 2 Pt. 3 Class M para. M.2(3)(c) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/428/article/5/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-6c61c6290cf55c6f4183b001654eeeb0]: Textual amendment: Sch. 2 Pt. 3 Class MA inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/428/article/6) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-6c61c6290cf55c6f4183b001654eeeb0]: Textual amendment: Sch. 2 Pt. 3 Class MA inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/428/article/6) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-d041bbe115265503db8763f7c26babdd]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.1(1)(a) omitted (5.3.2024) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2024 (S.I. 2024/141)](https://www.legislation.gov.uk/uksi/2024/141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/141/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/141/article/3/2/a)
+[^c-d041bbe115265503db8763f7c26babdd]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.1(1)(a) omitted (5.3.2024) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2024 (S.I. 2024/141)](https://www.legislation.gov.uk/uksi/2024/141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/141/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/141/article/3/2/a)
 
-[^key-e44e89b31b5b6b417b1e2cec063311e8]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.1(1)(c) omitted (5.3.2024) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2024 (S.I. 2024/141)](https://www.legislation.gov.uk/uksi/2024/141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/141/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/141/article/3/2/b)
+[^c-e44e89b31b5b6b417b1e2cec063311e8]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.1(1)(c) omitted (5.3.2024) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2024 (S.I. 2024/141)](https://www.legislation.gov.uk/uksi/2024/141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/141/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/141/article/3/2/b)
 
-[^key-5185173454b3a9c010576d6db94816a6]: Textual amendment: Word in Sch. 2 Pt. 3 Class MA para. MA.2(2)(g) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/a/i/aa) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5185173454b3a9c010576d6db94816a6]: Textual amendment: Word in Sch. 2 Pt. 3 Class MA para. MA.2(2)(g) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/a/i/aa) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-8b93ac5de956fce749f45c86df62d86e]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.2(2)(i) and word inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/a/i/bb) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-8b93ac5de956fce749f45c86df62d86e]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.2(2)(i) and word inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/a/i/bb) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-120aefb18b86e07bf64bfa5166e9780b]: Textual amendment: Words in Sch. 2 Pt. 3 Class MA para. MA.2(4) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-120aefb18b86e07bf64bfa5166e9780b]: Textual amendment: Words in Sch. 2 Pt. 3 Class MA para. MA.2(4) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-632541d50b985780c24198ef9faaa9e4]: Textual amendment: Words in Sch. 2 Pt. 3 Class MA para. MA.2(4) substituted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/19) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-632541d50b985780c24198ef9faaa9e4]: Textual amendment: Words in Sch. 2 Pt. 3 Class MA para. MA.2(4) substituted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/19) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
 
-[^key-cd1f959f434780f738604c2cc3eac037]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.3 inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-cd1f959f434780f738604c2cc3eac037]: Textual amendment: Sch. 2 Pt. 3 Class MA para. MA.3 inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(16)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/16/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-bb51a62a76ff9a32f70fd1555e547241]: Textual amendment: Word in Sch. 2 Pt. 3 Class N para. N.(a) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/343/article/8/a)
+[^c-bb51a62a76ff9a32f70fd1555e547241]: Textual amendment: Word in Sch. 2 Pt. 3 Class N para. N.(a) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/343/article/8/a)
 
-[^key-5ec6e17477953391d3515c96f5bd6381]: Textual amendment: Words in Sch. 2 Pt. 3 Class N para. N.(b) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/343/article/8/b)
+[^c-5ec6e17477953391d3515c96f5bd6381]: Textual amendment: Words in Sch. 2 Pt. 3 Class N para. N.(b) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/343/article/8/b)
 
 [^c22501331]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 41 was amended by sections 20 and 24 of, and Schedules 3 and 4 to, the [Agriculture Act 1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49), [Schedule 3](https://www.legislation.gov.uk/ukpga/1986/49/schedule/3) to the [Norfolk and Suffolk Broads Act 1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), [Schedule 10](https://www.legislation.gov.uk/ukpga/1988/4/schedule/10) to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and Schedules 11 and 12 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16). There are other amendments not relevant to this Order.
 
-[^key-061912874bc3f861aaa9eec6c6338e69]: Textual amendment: Word in Sch. 2 Pt. 3 Class N para. N.2(1)(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-061912874bc3f861aaa9eec6c6338e69]: Textual amendment: Word in Sch. 2 Pt. 3 Class N para. N.2(1)(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-21b7ce5190731a50734ca1419fa974c6]: Textual amendment: Word in Sch. 2 Pt. 3 Class N para. N.2(1)(d) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-21b7ce5190731a50734ca1419fa974c6]: Textual amendment: Word in Sch. 2 Pt. 3 Class N para. N.2(1)(d) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-e5be73871ff467c6c1c38136c6dc09b2]: Textual amendment: Sch. 2 Pt. 3 Class N para. N.2(1)(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-e5be73871ff467c6c1c38136c6dc09b2]: Textual amendment: Sch. 2 Pt. 3 Class N para. N.2(1)(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-cd38cd6f0b128a169879131f0aa3b83c]: Textual amendment: Words in Sch. 2 Pt. 3 Class N para. N.2(2) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/d) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-cd38cd6f0b128a169879131f0aa3b83c]: Textual amendment: Words in Sch. 2 Pt. 3 Class N para. N.2(2) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2020/632/regulation/14/d) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
 [^M_F_f8589a6d-829b-41f4-f7da-bb018ed94b5d]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.1(a) omitted (31.5.2019) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), art. 7(2)(iii)
 
-[^key-54af6f1ee11b198419283964570b7d74]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.1(c) omitted (6.4.2016) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2016/332/article/7/1/b)
+[^c-54af6f1ee11b198419283964570b7d74]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.1(c) omitted (6.4.2016) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [7(1)(b)](https://www.legislation.gov.uk/uksi/2016/332/article/7/1/b)
 
-[^key-a740d78a47a739ca8f93515853985bc7]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.2 substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2016/332/article/7/1/c)
+[^c-a740d78a47a739ca8f93515853985bc7]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.2 substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [7(1)(c)](https://www.legislation.gov.uk/uksi/2016/332/article/7/1/c)
 
-[^key-5da49f3a6a2f7205e432a3d4490b0feb]: Textual amendment: Word in Sch. 2 Pt. 3 Class O para. O.2(1)(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/15/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-5da49f3a6a2f7205e432a3d4490b0feb]: Textual amendment: Word in Sch. 2 Pt. 3 Class O para. O.2(1)(c) omitted (1.8.2020) by virtue of [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/15/a) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-d4432f2eb02e5101138fcb4a7c7a82a7]: Textual amendment: Word in Sch. 2 Pt. 3 Class O para. O.2(1)(d) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/15/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-d4432f2eb02e5101138fcb4a7c7a82a7]: Textual amendment: Word in Sch. 2 Pt. 3 Class O para. O.2(1)(d) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/15/b) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-760fb132116628d0216215be8cf41865]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.2(1)(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/15/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-760fb132116628d0216215be8cf41865]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.2(1)(e) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/15/c) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-487ae685eebe105201f1ce2d6ef2081f]: Textual amendment: Words in Sch. 2 Pt. 3 Class O para. O.2(2) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/428/article/7) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-487ae685eebe105201f1ce2d6ef2081f]: Textual amendment: Words in Sch. 2 Pt. 3 Class O para. O.2(2) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/428/article/7) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-91896f475ed66ca1385d0bda845e5971]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.3 inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [7(1)(d)](https://www.legislation.gov.uk/uksi/2016/332/article/7/1/d)
+[^c-91896f475ed66ca1385d0bda845e5971]: Textual amendment: Sch. 2 Pt. 3 Class O para. O.3 inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [7(1)(d)](https://www.legislation.gov.uk/uksi/2016/332/article/7/1/d)
 
-[^key-13eb70c576fa9794190db0f9b256c561]: Textual amendment: Sch. 2 Pt. 3 Class P para. P.1(c) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/343/article/9/a)
+[^c-13eb70c576fa9794190db0f9b256c561]: Textual amendment: Sch. 2 Pt. 3 Class P para. P.1(c) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/343/article/9/a)
 
 [^c22501341]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 41 was amended by sections 20 and 24 of, and Schedules 3 and 4 to, the [Agriculture Act 1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49), [Schedule 3](https://www.legislation.gov.uk/ukpga/1986/49/schedule/3) to the [Norfolk and Suffolk Broads Act 1988 (c. 4)](https://www.legislation.gov.uk/ukpga/1988/4), [Schedule 10](https://www.legislation.gov.uk/ukpga/1988/4/schedule/10) to the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and Schedules 11 and 12 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16). There are other amendments not relevant to this Order.
 
-[^key-40276897b7704a74fb4a4f59c75413e8]: Textual amendment: Sch. 2 Pt. 3 Class P para. P.1(k) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/343/article/9/b)
+[^c-40276897b7704a74fb4a4f59c75413e8]: Textual amendment: Sch. 2 Pt. 3 Class P para. P.1(k) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/343/article/9/b)
 
-[^key-2a21387ae9a1de317485124ed83a155a]: Textual amendment: Sch. 2 Pt. 3 Class PA and cross-heading inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [8](https://www.legislation.gov.uk/uksi/2016/332/article/8)
+[^c-2a21387ae9a1de317485124ed83a155a]: Textual amendment: Sch. 2 Pt. 3 Class PA and cross-heading inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [8](https://www.legislation.gov.uk/uksi/2016/332/article/8)
 
-[^key-6e1be612334269cce2198abb90cac9fd]: Textual amendment: Sch. 2 Pt. 3 Class PA para. 2(1)(b)(v) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/632/regulation/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
+[^c-6e1be612334269cce2198abb90cac9fd]: Textual amendment: Sch. 2 Pt. 3 Class PA para. 2(1)(b)(v) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2020/632/regulation/16) (with [reg. 27](https://www.legislation.gov.uk/uksi/2020/632/regulation/27))
 
-[^key-b1b3a5686aaa9df41ff6f9b458f73d58]: Textual amendment: Sch. 2 Pt. 3 Class Q substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [3](https://www.legislation.gov.uk/uksi/2024/579/article/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-b1b3a5686aaa9df41ff6f9b458f73d58]: Textual amendment: Sch. 2 Pt. 3 Class Q substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [3](https://www.legislation.gov.uk/uksi/2024/579/article/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-de35d13a9d9e7f28c64b8bc75b7a797d]: Textual amendment: Sch. 2 Pt. 3 Class R para. R substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2024/579/article/4/2)
+[^c-de35d13a9d9e7f28c64b8bc75b7a797d]: Textual amendment: Sch. 2 Pt. 3 Class R para. R substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [4(2)](https://www.legislation.gov.uk/uksi/2024/579/article/4/2)
 
-[^key-168533badcd3ad10b50be27795293c47]: Textual amendment: Words in Sch. 2 Pt. 3 Class R para R.1(b) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2024/579/article/4/3)
+[^c-168533badcd3ad10b50be27795293c47]: Textual amendment: Words in Sch. 2 Pt. 3 Class R para R.1(b) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2024/579/article/4/3)
 
-[^key-3b63d740c07e9d0565cdd95cfce50d78]: Textual amendment: Words in Sch. 2 Pt. 3 Class R para. R.2(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/17/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-3b63d740c07e9d0565cdd95cfce50d78]: Textual amendment: Words in Sch. 2 Pt. 3 Class R para. R.2(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(17)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/17/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-952573ba089eb2c11c5a28ac2e4d0ca4]: Textual amendment: Sch. 2 Pt. 3 Class R para. R.2(d) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2024/579/article/4/4)
+[^c-952573ba089eb2c11c5a28ac2e4d0ca4]: Textual amendment: Sch. 2 Pt. 3 Class R para. R.2(d) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2024/579/article/4/4)
 
-[^key-bb256dbcfad7d225d9b2940554ecc50a]: Textual amendment: Words in Sch. 2 Pt. 3 Class S heading omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-bb256dbcfad7d225d9b2940554ecc50a]: Textual amendment: Words in Sch. 2 Pt. 3 Class S heading omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-a4921c03921f06d6e8927960cfcbe460]: Textual amendment: Words in Sch. 2 Pt. 3 Class S para. S substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-a4921c03921f06d6e8927960cfcbe460]: Textual amendment: Words in Sch. 2 Pt. 3 Class S para. S substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-d89d838af6f45621d60c1087f5803489]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/3) Class S para. S.1(e)(ii) substituted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [5](https://www.legislation.gov.uk/uksi/2026/313/article/5)
+[^c-d89d838af6f45621d60c1087f5803489]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/3) Class S para. S.1(e)(ii) substituted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [5](https://www.legislation.gov.uk/uksi/2026/313/article/5)
 
-[^key-55461551fc9b7a27290cb6f9505aee03]: Textual amendment: Sch. 2 Pt. 3 Class S para. S.2(1)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-55461551fc9b7a27290cb6f9505aee03]: Textual amendment: Sch. 2 Pt. 3 Class S para. S.2(1)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-ef35a568882741fc067d641acf3f2a12]: Textual amendment: Words in Sch. 2 Pt. 3 Class S para. S.2(1)(b)(v) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-ef35a568882741fc067d641acf3f2a12]: Textual amendment: Words in Sch. 2 Pt. 3 Class S para. S.2(1)(b)(v) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(18)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/18/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-239d12058189ee64331ab5f28ca64ea6]: Textual amendment: Sch. 2 Pt. 3 Class T heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-239d12058189ee64331ab5f28ca64ea6]: Textual amendment: Sch. 2 Pt. 3 Class T heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-5493f024ee8ff1f8c5363f1d730e640e]: Textual amendment: Sch. 2 Pt. 3 Class T para. T. substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5493f024ee8ff1f8c5363f1d730e640e]: Textual amendment: Sch. 2 Pt. 3 Class T para. T. substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-e2e47878c4490d4d1176ae51e8f84927]: Textual amendment: Sch. 2 Pt. 3 Class T para. T.1(a) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-e2e47878c4490d4d1176ae51e8f84927]: Textual amendment: Sch. 2 Pt. 3 Class T para. T.1(a) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-5dc97002cb97844083640a31d567ad06]: Textual amendment: Sch. 2 Pt. 3 Class T para. T.2(1)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(d)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/d/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5dc97002cb97844083640a31d567ad06]: Textual amendment: Sch. 2 Pt. 3 Class T para. T.2(1)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(19)(d)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/19/d/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-e804affc5b0384bcd8759e9694963a3c]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(a) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-e804affc5b0384bcd8759e9694963a3c]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(a) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-5e405c69f617991dab23f46b408038ba]: Textual amendment: Words in Sch. 2 Pt. 3 para. W.(2) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/343/article/11/a)
+[^c-5e405c69f617991dab23f46b408038ba]: Textual amendment: Words in Sch. 2 Pt. 3 para. W.(2) inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/343/article/11/a)
 
-[^key-39fec9ac01cccb3d1d1c42d08d27fad7]: Textual amendment: Sch. 2 Pt. 3 para. W(2)(ba) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [10](https://www.legislation.gov.uk/uksi/2016/332/article/10) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2016/332/article/15/2))
+[^c-39fec9ac01cccb3d1d1c42d08d27fad7]: Textual amendment: Sch. 2 Pt. 3 para. W(2)(ba) inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [10](https://www.legislation.gov.uk/uksi/2016/332/article/10) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2016/332/article/15/2))
 
-[^key-7fedd2fabb6c0dcdbcf5d98e069e39f1]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(ba) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-7fedd2fabb6c0dcdbcf5d98e069e39f1]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(ba) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-be96b2dff49035caf7050afa4c93609d]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(ba) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/8/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-be96b2dff49035caf7050afa4c93609d]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(ba) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/8/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-5634cb6d587e972b0afd8940e21d7270]: Textual amendment: Sch. 2 Pt. 3 para. W(2)(bb) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2024/579/article/5/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-5634cb6d587e972b0afd8940e21d7270]: Textual amendment: Sch. 2 Pt. 3 para. W(2)(bb) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2024/579/article/5/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-3d9902b90e8c973e7167c0e5f437521a]: Textual amendment: Sch. 2 Pt. 3 para. W(2)(bc) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/18/a)
+[^c-3d9902b90e8c973e7167c0e5f437521a]: Textual amendment: Sch. 2 Pt. 3 para. W(2)(bc) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2020/632/regulation/18/a)
 
-[^key-c6566ac35fdf4245b8cbbbff3de3f38e]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(bc) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/a/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-c6566ac35fdf4245b8cbbbff3de3f38e]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(bc) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/a/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-631096acbc30450813a279b6b676ff6f]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(bc) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/428/article/8/2/b/i) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-631096acbc30450813a279b6b676ff6f]: Textual amendment: Word in Sch. 2 Pt. 3 para. W(2)(bc) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/428/article/8/2/b/i) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-398d59491a6847c5118b0bff5eab6f32]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(2)(bc) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/428/article/8/2/b/ii) (with [art. 15(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/15/2/a)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-398d59491a6847c5118b0bff5eab6f32]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(2)(bc) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/428/article/8/2/b/ii) (with [art. 15(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/15/2/a)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
 [^c22501351]: Marginal citation: A body established under section 1 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-b230647366ff3731a3e4321bd1499d23]: Textual amendment: Sch. 2 Pt. 3 para. W(2ZA) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2024/579/article/5/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-b230647366ff3731a3e4321bd1499d23]: Textual amendment: Sch. 2 Pt. 3 para. W(2ZA) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2024/579/article/5/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-184a65c297ff7fb2e2f1c44936118503]: Textual amendment: Sch. 2 Pt. 3 para. W(2A) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/18/b)
+[^c-184a65c297ff7fb2e2f1c44936118503]: Textual amendment: Sch. 2 Pt. 3 para. W(2A) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2020/632/regulation/18/b)
 
-[^key-844a5b317205b2c511620592fa356549]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(3) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/18/c)
+[^c-844a5b317205b2c511620592fa356549]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(3) inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [18(c)](https://www.legislation.gov.uk/uksi/2020/632/regulation/18/c)
 
-[^key-3528d68564d83bbf128ea77aa7bade9a]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(3) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-3528d68564d83bbf128ea77aa7bade9a]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(3) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(20)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/4/20/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
 [^c22501361]: Marginal citation: A body established under section 1 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-9cee770d06bdb3865070c06a74ef1e35]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(8)(b) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2021/428/article/8/3) (with [art. 15(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/15/2/a)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-9cee770d06bdb3865070c06a74ef1e35]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(8)(b) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2021/428/article/8/3) (with [art. 15(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/15/2/a)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-e59deba5395f89329dce7010ccc97a47]: Textual amendment: Sch. 2 Pt. 3 para. W(10)(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/907/regulation/9)
+[^c-e59deba5395f89329dce7010ccc97a47]: Textual amendment: Sch. 2 Pt. 3 para. W(10)(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2019/907/regulation/9)
 
-[^key-faf09941edd64da20c6a653c0f921c8f]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(10)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/ii)
+[^c-faf09941edd64da20c6a653c0f921c8f]: Textual amendment: Words in Sch. 2 Pt. 3 para. W(10)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/ii)
 
 [^c22501381]: Marginal citation: [1990 c. 25](https://www.legislation.gov.uk/ukpga/1990/25). Part 2A was inserted by section 57 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). See in particular section 78(2), was amended by section 86 of the [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
 [^c22501391]: Marginal citation: https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/223705/pb13735cont-land-guidance.pdf
 
-[^key-26ed6751b598c063573151b852eade01]: Textual amendment: Sch. 2 Pt. 3 para. W.(14) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(2)](https://www.legislation.gov.uk/uksi/2018/119/article/26/2)
+[^c-26ed6751b598c063573151b852eade01]: Textual amendment: Sch. 2 Pt. 3 para. W.(14) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(2)](https://www.legislation.gov.uk/uksi/2018/119/article/26/2)
 
 [^c22501401]: Marginal citation: [1986 c. 5](https://www.legislation.gov.uk/ukpga/1986/5); relevant amendments are made by Schedule 12 to the [Education Reform Act 1988 (c. 40)](https://www.legislation.gov.uk/ukpga/1988/40), the Schedule to the [Agricultural Tenancies Act 1995 (c. 8)](https://www.legislation.gov.uk/ukpga/1995/8), [Schedule 8](https://www.legislation.gov.uk/ukpga/1995/8/schedule/8) to the [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and [S.I. 2006/2805](https://www.legislation.gov.uk/uksi/2006/2805) and 2013/1036.
 
 [^c22501411]: Marginal citation: [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8); relevant amendments are made by Schedule 8 to the Civil Partnership Act 2004, and [S.I. 2006/2805](https://www.legislation.gov.uk/uksi/2006/2805) and 2013/1036.
 
-[^key-5c951fd34c01a9b88639b610727fe622]: Textual amendment: Word in Sch. 2 Pt. 3 para. X omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2024/579/article/6/2)
+[^c-5c951fd34c01a9b88639b610727fe622]: Textual amendment: Word in Sch. 2 Pt. 3 para. X omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [6(2)](https://www.legislation.gov.uk/uksi/2024/579/article/6/2)
 
-[^key-91fdfe366cb79a85572d27a7f5d75564]: Textual amendment: Words in Sch. 2 Pt. 3 para. X inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2020/632/regulation/19)
+[^c-91fdfe366cb79a85572d27a7f5d75564]: Textual amendment: Words in Sch. 2 Pt. 3 para. X inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2020/632/regulation/19)
 
 [^c22501421]: Marginal citation: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764). The definition of “pay day loan shop” was inserted by [S.I. 2015/597](https://www.legislation.gov.uk/uksi/2015/597).
 
@@ -7537,269 +7537,269 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501451]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31). The definition was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158); there are other amendments to section 142(1) but none are relevant to this Order.
 
-[^key-5bc174e55a4775d7bc7ebf42151892d7]: Textual amendment: Words in Sch. 2 Pt. 3 para. X substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(21)](https://www.legislation.gov.uk/uksi/2021/814/article/4/21) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5bc174e55a4775d7bc7ebf42151892d7]: Textual amendment: Words in Sch. 2 Pt. 3 para. X substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [4(21)](https://www.legislation.gov.uk/uksi/2021/814/article/4/21) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-4ebcf79cb8b5d7003a2347160f5b33d0]: Textual amendment: Sch. 2 Pt. 4 para. B.1(a) omitted (6.4.2016) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [11](https://www.legislation.gov.uk/uksi/2016/332/article/11)
+[^c-4ebcf79cb8b5d7003a2347160f5b33d0]: Textual amendment: Sch. 2 Pt. 4 para. B.1(a) omitted (6.4.2016) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [11](https://www.legislation.gov.uk/uksi/2016/332/article/11)
 
-[^key-655df5283c35bf1d48221010334f2274]: Textual amendment: [Sch. 2 Pt. 4 Class B para. B.1(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/747/article/3/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2023/747/article/8))
+[^c-655df5283c35bf1d48221010334f2274]: Textual amendment: [Sch. 2 Pt. 4 Class B para. B.1(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/747/article/3/2/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2023/747/article/8))
 
-[^key-7b670998fffc825779798077930abe6b]: Textual amendment: [Sch. 2 Pt. 4 Class B para. B.1(d)(iii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4): semi-colon substituted for comma and word (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/747/article/3/2/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2023/747/article/8))
+[^c-7b670998fffc825779798077930abe6b]: Textual amendment: [Sch. 2 Pt. 4 Class B para. B.1(d)(iii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4): semi-colon substituted for comma and word (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2023/747/article/3/2/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2023/747/article/8))
 
-[^key-f2b18c01ff121a2be72a07920ec4d698]: Textual amendment: [Sch. 2 Pt. 4 Class B para. B.1(f) and word](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4): words substituted for full stop (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2023/747/article/3/2/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2023/747/article/8))
+[^c-f2b18c01ff121a2be72a07920ec4d698]: Textual amendment: [Sch. 2 Pt. 4 Class B para. B.1(f) and word](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4): words substituted for full stop (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2023/747/article/3/2/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2023/747/article/8))
 
-[^key-ac8806ad6c7e41f76624917718c38e39]: Textual amendment: Sch. 2 Pt. 4 Class BA inserted (25.6.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2020/632/regulation/20)
+[^c-ac8806ad6c7e41f76624917718c38e39]: Textual amendment: Sch. 2 Pt. 4 Class BA inserted (25.6.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2020/632/regulation/20)
 
-[^key-eca873556db1b10522e236b0ee57506f]: Textual amendment: Words in Sch. 2 Pt. 4 Class BA para. BA.2 substituted (1.1.2021) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2020/1243/regulation/4)
+[^c-eca873556db1b10522e236b0ee57506f]: Textual amendment: Words in Sch. 2 Pt. 4 Class BA para. BA.2 substituted (1.1.2021) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/4), [4](https://www.legislation.gov.uk/uksi/2020/1243/regulation/4)
 
-[^key-9ddc469bafb40d36cbc731216451a9e7]: Textual amendment: Sch. 2 Pt. 4 Class BB substituted (2.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/b), [5](https://www.legislation.gov.uk/uksi/2021/1464/article/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2021/1464/article/10))
+[^c-9ddc469bafb40d36cbc731216451a9e7]: Textual amendment: Sch. 2 Pt. 4 Class BB substituted (2.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/b), [5](https://www.legislation.gov.uk/uksi/2021/1464/article/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2021/1464/article/10))
 
-[^key-726472ae826a179f99d9f326ee518a02]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class BB para. BB.3(9)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(iii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/iii)
+[^c-726472ae826a179f99d9f326ee518a02]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class BB para. BB.3(9)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(iii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/iii)
 
-[^key-551ded25b71d7c4d4d60369c62b64d75]: Textual amendment: [Sch. 2 Pt. 4 Class BC](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/747/article/3/3)
+[^c-551ded25b71d7c4d4d60369c62b64d75]: Textual amendment: [Sch. 2 Pt. 4 Class BC](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2023/747/article/3/3)
 
-[^key-a7d03c429b30e993ab2caad69d19b004]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class BC para. BC.3(4)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/313/article/8/b)
+[^c-a7d03c429b30e993ab2caad69d19b004]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class BC para. BC.3(4)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2026/313/article/8/b)
 
-[^key-b8a20de7903d7f4f81c1c5fb666392f9]: Textual amendment: Words in Sch. 2 Pt. 4 Class C heading substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/391/article/4/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-b8a20de7903d7f4f81c1c5fb666392f9]: Textual amendment: Words in Sch. 2 Pt. 4 Class C heading substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/391/article/4/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-10314b84921346ddc2897ecabe8c467a]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-10314b84921346ddc2897ecabe8c467a]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-7147408399d28e61e9d0bf907d94917f]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/391/article/4/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-7147408399d28e61e9d0bf907d94917f]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/391/article/4/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-37c2cbbfed444c312f84baa348054848]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.1(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/b/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-37c2cbbfed444c312f84baa348054848]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.1(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/b/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-730839f2bd78460633910686340c72d6]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.1(e) substituted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/a/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-730839f2bd78460633910686340c72d6]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.1(e) substituted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/a/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-5b4f5397808a9361a0d2be17d58d5072]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.1(e) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/b/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5b4f5397808a9361a0d2be17d58d5072]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.1(e) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/b/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-7cca2e0555d7295420adbd24a1dad7a1]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.2(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-7cca2e0555d7295420adbd24a1dad7a1]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.2(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(2)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/5/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-db3b10daf409e401a99ffd2eee8980bb]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(d) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/391/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-db3b10daf409e401a99ffd2eee8980bb]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(d) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/391/article/4/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-f1b13b18f2097df6b21f258fff951aa7]: Textual amendment: Word in Sch. 2 Pt. 4 Class C para. C.2(d) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2019/907/regulation/10/a)
+[^c-f1b13b18f2097df6b21f258fff951aa7]: Textual amendment: Word in Sch. 2 Pt. 4 Class C para. C.2(d) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2019/907/regulation/10/a)
 
-[^key-b61891c44955510f5ec54bc80e4f66b1]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(da)(db) inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/10/b)
+[^c-b61891c44955510f5ec54bc80e4f66b1]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(da)(db) inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/10/b)
 
-[^key-8919dfac4f5fdac26e323741f281b512]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(e) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/391/article/4/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-8919dfac4f5fdac26e323741f281b512]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(e) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/391/article/4/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-e5afe5f269d85396035422f4ee64362b]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(f) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/a/ii) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-e5afe5f269d85396035422f4ee64362b]: Textual amendment: Sch. 2 Pt. 4 Class C para. C.2(f) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/a/ii) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-8e7dc1b639285a9e33528c54db2e19d7]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.3 omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/a/iii) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-8e7dc1b639285a9e33528c54db2e19d7]: Textual amendment: Words in Sch. 2 Pt. 4 Class C para. C.3 omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/a/iii) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-0795b138467eebd38d46fc42b84352a0]: Textual amendment: Sch. 2 Pt. 4 Class CA inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [5](https://www.legislation.gov.uk/uksi/2017/391/article/5) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-0795b138467eebd38d46fc42b84352a0]: Textual amendment: Sch. 2 Pt. 4 Class CA inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [5](https://www.legislation.gov.uk/uksi/2017/391/article/5) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-5c0354d7292de89672da0489341bd3a5]: Textual amendment: Words in Sch. 2 Pt. 4 Class CA para. CA inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/5/3/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5c0354d7292de89672da0489341bd3a5]: Textual amendment: Words in Sch. 2 Pt. 4 Class CA para. CA inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/5/3/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-34db2df8a30f68ba2a15062cf5014b49]: Textual amendment: Words in Sch. 2 Pt. 4 Class CA para. CA.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/5/3/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-34db2df8a30f68ba2a15062cf5014b49]: Textual amendment: Words in Sch. 2 Pt. 4 Class CA para. CA.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/5/3/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-91c00741ed81c7fd9d68eb626d858881]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class CB inserted (25.10.2023) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2023 (S.I. 2023/1110)](https://www.legislation.gov.uk/uksi/2023/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1110/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1110/article/2)
+[^c-91c00741ed81c7fd9d68eb626d858881]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class CB inserted (25.10.2023) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2023 (S.I. 2023/1110)](https://www.legislation.gov.uk/uksi/2023/1110), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1110/article/1/1), [2](https://www.legislation.gov.uk/uksi/2023/1110/article/2)
 
-[^key-7c7296cf73ad5431e7a0e06c522cd420]: Textual amendment: Words in Sch. 2 Pt. 4 Class CB para. CB.1 substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [6](https://www.legislation.gov.uk/uksi/2026/1056/article/6)
+[^c-7c7296cf73ad5431e7a0e06c522cd420]: Textual amendment: Words in Sch. 2 Pt. 4 Class CB para. CB.1 substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [6](https://www.legislation.gov.uk/uksi/2026/1056/article/6)
 
-[^key-61166d9cfe7bcd2a251cb7f7888ed267]: Textual amendment: Sch. 2 Pt. 4 Class D heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/5/4/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-61166d9cfe7bcd2a251cb7f7888ed267]: Textual amendment: Sch. 2 Pt. 4 Class D heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/5/4/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b1d071f35e326403405d921fe4bdb3cb]: Textual amendment: Sch. 2 Pt. 4 Class D para. D(a)(b) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/5/4/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-b1d071f35e326403405d921fe4bdb3cb]: Textual amendment: Sch. 2 Pt. 4 Class D para. D(a)(b) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/5/4/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-ccf04d2c0446d767b3c510e656437d3b]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/11/b)
+[^c-ccf04d2c0446d767b3c510e656437d3b]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/11/b)
 
-[^key-890806c0db92866715ae30daf1385acd]: Textual amendment: Sch. 2 Pt. 4 Class D para. D.1(f) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/b/iii) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-890806c0db92866715ae30daf1385acd]: Textual amendment: Sch. 2 Pt. 4 Class D para. D.1(f) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/b/iii) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-c4f0652162a59f00e6038cdd95ae17be]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D.2(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2019/907/regulation/11/c)
+[^c-c4f0652162a59f00e6038cdd95ae17be]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D.2(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2019/907/regulation/11/c)
 
 [^M_F_638df2e5-735f-4d04-a594-0255ea55015e]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D.2(c) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2019/907/regulation/11/c)
 
-[^key-9bd13a524b55d9fb4f8804f6921990cb]: Textual amendment: Sch. 2 Pt. 4 Class D para. D.2(f) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/b/iv) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-9bd13a524b55d9fb4f8804f6921990cb]: Textual amendment: Sch. 2 Pt. 4 Class D para. D.2(f) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/b/iv) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-ad0ba0ad8da059ab670bf3831053cc50]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D.3 omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(b)(v)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/b/v) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-ad0ba0ad8da059ab670bf3831053cc50]: Textual amendment: Words in Sch. 2 Pt. 4 Class D para. D.3 omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [3(2)(b)(v)](https://www.legislation.gov.uk/uksi/2017/619/article/3/2/b/v) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-803a5e0dd2757e36bfa73699f7a16e63]: Textual amendment: Sch. 2 Pt. 4 Class DA inserted (24.3.2020 at 10.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2020 (S.I. 2020/330)](https://www.legislation.gov.uk/uksi/2020/330), [arts. 1](https://www.legislation.gov.uk/uksi/2020/330/article/1), [4](https://www.legislation.gov.uk/uksi/2020/330/article/4)
+[^c-803a5e0dd2757e36bfa73699f7a16e63]: Textual amendment: Sch. 2 Pt. 4 Class DA inserted (24.3.2020 at 10.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2020 (S.I. 2020/330)](https://www.legislation.gov.uk/uksi/2020/330), [arts. 1](https://www.legislation.gov.uk/uksi/2020/330/article/1), [4](https://www.legislation.gov.uk/uksi/2020/330/article/4)
 
-[^key-166928c1d9f3a019ab58a5709f9a040d]: Textual amendment: Sch. 2 Pt. 4 Class DA para. DA(a)(i)-(iii) substituted for Class DA para. DA(i)(ii) (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-166928c1d9f3a019ab58a5709f9a040d]: Textual amendment: Sch. 2 Pt. 4 Class DA para. DA(a)(i)-(iii) substituted for Class DA para. DA(i)(ii) (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-bde434b40742537078653d119fd3f97e]: Textual amendment: Words in Sch. 2 Pt. 4 Class DA para. DA(b) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-bde434b40742537078653d119fd3f97e]: Textual amendment: Words in Sch. 2 Pt. 4 Class DA para. DA(b) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-80ed600079bedad5caa0c6698b5229c9]: Textual amendment: Word in [Sch. 2 Pt. 4 Class DA para. DA(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-80ed600079bedad5caa0c6698b5229c9]: Textual amendment: Word in [Sch. 2 Pt. 4 Class DA para. DA(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/iii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-9f346608c551b22bd1b562281654d230]: Textual amendment: [Sch. 2 Pt. 4 Class DA para. DA(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/iv) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-9f346608c551b22bd1b562281654d230]: Textual amendment: [Sch. 2 Pt. 4 Class DA para. DA(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/a/iv) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-22466dcb103294fb489922d1f682b75d]: Textual amendment: Words in Sch. 2 Pt. 4 Class DA para. DA substituted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1243/regulation/5)
+[^c-22466dcb103294fb489922d1f682b75d]: Textual amendment: Words in Sch. 2 Pt. 4 Class DA para. DA substituted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/1243/regulation/5)
 
-[^key-bdaedc7381cf1c0a09876c4624eca7c0]: Textual amendment: Words in [Sch. 2 Pt. 4 Class DA para. DA.2](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-bdaedc7381cf1c0a09876c4624eca7c0]: Textual amendment: Words in [Sch. 2 Pt. 4 Class DA para. DA.2](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [5(5)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/5/5/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-d0098a02de5e55b2f1302b2bb9add321]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class DB inserted (2.12.2024) by [The Local Authorities (Rental Auctions) (England) and Town and Country Planning (General Permitted Development) (Amendment) Regulations 2024 (S.I. 2024/1139)](https://www.legislation.gov.uk/uksi/2024/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1139/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/1139/regulation/15)
+[^c-d0098a02de5e55b2f1302b2bb9add321]: Textual amendment: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class DB inserted (2.12.2024) by [The Local Authorities (Rental Auctions) (England) and Town and Country Planning (General Permitted Development) (Amendment) Regulations 2024 (S.I. 2024/1139)](https://www.legislation.gov.uk/uksi/2024/1139), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1139/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/1139/regulation/15)
 
-[^key-5f2e3c9c458040e0834d023c686ad254]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/a)
+[^c-5f2e3c9c458040e0834d023c686ad254]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/a)
 
-[^key-c5af942cd2294c268f9b44c63c9de9c0]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/b)
+[^c-c5af942cd2294c268f9b44c63c9de9c0]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/b)
 
-[^key-57d1d064a7bf1d9388d36efaf67f189f]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E.1(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/c)
+[^c-57d1d064a7bf1d9388d36efaf67f189f]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E.1(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/c)
 
 [^c22501481]: Marginal citation: A body established under section 1 of the [Environment Act 1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-1fbca98c5b01d5e3405a931b52c6cb06]: Textual amendment: Sch. 2 Pt. 4 Class E para. E.3(10)(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/907/regulation/12)
+[^c-1fbca98c5b01d5e3405a931b52c6cb06]: Textual amendment: Sch. 2 Pt. 4 Class E para. E.3(10)(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/907/regulation/12)
 
-[^key-324ebabf96b18b0cf337944c14a0be92]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class E para. E.3(10)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(iv)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/iv)
+[^c-324ebabf96b18b0cf337944c14a0be92]: Textual amendment: Words in [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) Class E para. E.3(10)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(iv)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/iv)
 
 [^M_F_41a55ddd-7e0a-4be9-8661-c4572d36f560]: Textual amendment: Sch. 2 Pt. 4 para. E.3(14) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(3)](https://www.legislation.gov.uk/uksi/2018/119/article/26/3)
 
-[^key-40e0645780d1680dbf6240265bc9ba03]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/a)
+[^c-40e0645780d1680dbf6240265bc9ba03]: Textual amendment: Words in [Sch. 2 Pt. 4 Class E para. E.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/4) substituted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/747/article/3/4/a)
 
 [^c22501501]: Marginal citation: [1996 c. 55](https://www.legislation.gov.uk/ukpga/1996/55). There are amendments to section 99 which are not relevant to this Order.
 
 [^c22501511]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49); relevant amendments are made by section 30(1) of, and Schedule 4 to, the [Caravan Sites and Control of Development Act 1960 (c. 62)](https://www.legislation.gov.uk/ukpga/1960/62) and Schedule 6 to the [Building Act 1984 (c. 55)](https://www.legislation.gov.uk/ukpga/1984/55).
 
-[^key-4e2096980e5d8456ecfc87e315232ef1]: Textual amendment: Words in Sch. 2 Pt. 6 Sch. 2 Pt. 6 Class A para. A.1(e)(i) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(2)(a)](https://www.legislation.gov.uk/uksi/2024/579/article/7/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-4e2096980e5d8456ecfc87e315232ef1]: Textual amendment: Words in Sch. 2 Pt. 6 Sch. 2 Pt. 6 Class A para. A.1(e)(i) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(2)(a)](https://www.legislation.gov.uk/uksi/2024/579/article/7/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-9d14b37a39e564b29a5e320f7514d450]: Textual amendment: Words in Sch. 2 Pt. 6 Sch. 2 Pt. 6 Class A para. A.1(e)(ii) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(2)(b)](https://www.legislation.gov.uk/uksi/2024/579/article/7/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-9d14b37a39e564b29a5e320f7514d450]: Textual amendment: Words in Sch. 2 Pt. 6 Sch. 2 Pt. 6 Class A para. A.1(e)(ii) inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(2)(b)](https://www.legislation.gov.uk/uksi/2024/579/article/7/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-0680a0c9077f499cf71c7fc64c16629d]: Textual amendment: Words in Sch. 2 Pt. 6 Class A para. A.1(e) omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(2)(c)](https://www.legislation.gov.uk/uksi/2024/579/article/7/2/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-0680a0c9077f499cf71c7fc64c16629d]: Textual amendment: Words in Sch. 2 Pt. 6 Class A para. A.1(e) omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(2)(c)](https://www.legislation.gov.uk/uksi/2024/579/article/7/2/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-f29f2033787f82af3d27f25bd41b796e]: Textual amendment: Word in Sch. 2 Pt. 6 Class A para. A.1(j) omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(3)](https://www.legislation.gov.uk/uksi/2024/579/article/7/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-f29f2033787f82af3d27f25bd41b796e]: Textual amendment: Word in Sch. 2 Pt. 6 Class A para. A.1(j) omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(3)](https://www.legislation.gov.uk/uksi/2024/579/article/7/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-0363aeb45493f148e201d7290dd8fd5b]: Textual amendment: Sch. 2 Pt. 6 Class A para. A.1(l) and word inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(4)](https://www.legislation.gov.uk/uksi/2024/579/article/7/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-0363aeb45493f148e201d7290dd8fd5b]: Textual amendment: Sch. 2 Pt. 6 Class A para. A.1(l) and word inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [7(4)](https://www.legislation.gov.uk/uksi/2024/579/article/7/4) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-46dab5377d628f14c2a2639b0a228b58]: Textual amendment: Word in Sch. 2 Pt. 6 Pt. 6 Class B para. B.1 omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(2)(a)](https://www.legislation.gov.uk/uksi/2024/579/article/8/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-46dab5377d628f14c2a2639b0a228b58]: Textual amendment: Word in Sch. 2 Pt. 6 Pt. 6 Class B para. B.1 omitted (21.5.2024) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(2)(a)](https://www.legislation.gov.uk/uksi/2024/579/article/8/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-8c9bcabad370afca2a1ea2f390acb894]: Textual amendment: Sch. 2 Pt. 6 Class B para. B.1(f) and word inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(2)(b)](https://www.legislation.gov.uk/uksi/2024/579/article/8/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-8c9bcabad370afca2a1ea2f390acb894]: Textual amendment: Sch. 2 Pt. 6 Class B para. B.1(f) and word inserted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(2)(b)](https://www.legislation.gov.uk/uksi/2024/579/article/8/2/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-81dd3f1e357ff135876e28a5c9cba1e2]: Textual amendment: Word in Sch. 2 Pt. 6 Class B para. B.2(b) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(3)(a)](https://www.legislation.gov.uk/uksi/2024/579/article/8/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-81dd3f1e357ff135876e28a5c9cba1e2]: Textual amendment: Word in Sch. 2 Pt. 6 Class B para. B.2(b) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(3)(a)](https://www.legislation.gov.uk/uksi/2024/579/article/8/3/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-a02cdcb6f26d3d54f738161544bd5650]: Textual amendment: Words in Sch. 2 Pt. 6 Class B para. B.2(g) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(3)(b)](https://www.legislation.gov.uk/uksi/2024/579/article/8/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
+[^c-a02cdcb6f26d3d54f738161544bd5650]: Textual amendment: Words in Sch. 2 Pt. 6 Class B para. B.2(g) substituted (21.5.2024) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2024 (S.I. 2024/579)](https://www.legislation.gov.uk/uksi/2024/579), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2024/579/article/1/b), [8(3)(b)](https://www.legislation.gov.uk/uksi/2024/579/article/8/3/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2024/579/article/10))
 
-[^key-124ee8a6f4c3433ec9dd8573f15ca072]: Textual amendment: Words in Sch. 2 Pt. 6 Class B para. B.3(d) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2018/343/article/13/a/ii)
+[^c-124ee8a6f4c3433ec9dd8573f15ca072]: Textual amendment: Words in Sch. 2 Pt. 6 Class B para. B.3(d) substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2018/343/article/13/a/ii)
 
-[^key-3b85fce706b68a1d1b925a325bd323b1]: Textual amendment: Words in Sch. 2 Pt. 6 Class B para. B.4 substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [13(a)(iii)](https://www.legislation.gov.uk/uksi/2018/343/article/13/a/iii)
+[^c-3b85fce706b68a1d1b925a325bd323b1]: Textual amendment: Words in Sch. 2 Pt. 6 Class B para. B.4 substituted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [13(a)(iii)](https://www.legislation.gov.uk/uksi/2018/343/article/13/a/iii)
 
-[^key-747c21bc71833b2b0222c5b4346d1ae5]: Textual amendment: Words in Sch. 2 Pt. 7 Class A heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-747c21bc71833b2b0222c5b4346d1ae5]: Textual amendment: Words in Sch. 2 Pt. 7 Class A heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-e920de492de26bea3d937cfb37dc4faa]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-e920de492de26bea3d937cfb37dc4faa]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-62483dc353d1b8ae4e99109b2602401c]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.1(c)(i)(aa) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-62483dc353d1b8ae4e99109b2602401c]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.1(c)(i)(aa) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-2f131c0fdc0a39c951098d8679105fa2]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.1(g) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-2f131c0fdc0a39c951098d8679105fa2]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.1(g) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-bb82813392221506ff6c0576c1ef2454]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.2(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-bb82813392221506ff6c0576c1ef2454]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.2(c) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(d)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-546232d6a2893cf8874e0488ff7bb891]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(e)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-546232d6a2893cf8874e0488ff7bb891]: Textual amendment: Words in Sch. 2 Pt. 7 Class A para. A.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(2)(e)](https://www.legislation.gov.uk/uksi/2021/814/article/6/2/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-394fb12e6d5d0a7d334760b0fef05261]: Textual amendment: Words in Sch. 2 Pt. 7 Class B para. B.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/3/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-394fb12e6d5d0a7d334760b0fef05261]: Textual amendment: Words in Sch. 2 Pt. 7 Class B para. B.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/3/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-0d1de74ad898b78365c3f924200c41aa]: Textual amendment: Words in [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class C para. C.2(7)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(v)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/v)
+[^c-0d1de74ad898b78365c3f924200c41aa]: Textual amendment: Words in [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class C para. C.2(7)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(v)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/v)
 
 [^M_F_a69ba3b9-34f8-42bf-aed2-1a8c14163e60]: Textual amendment: Sch. 2 Pt. 7 para. C.2(11) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(4)](https://www.legislation.gov.uk/uksi/2018/119/article/26/4)
 
-[^key-a41bdab388f6fe214a39038a9a5e6cf3]: Textual amendment: Words in Sch. 2 Pt. 7 Class C para. C.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/3/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-a41bdab388f6fe214a39038a9a5e6cf3]: Textual amendment: Words in Sch. 2 Pt. 7 Class C para. C.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/3/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-37def021a763557221ef4702515f30b9]: Textual amendment: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class CA inserted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [6](https://www.legislation.gov.uk/uksi/2026/313/article/6)
+[^c-37def021a763557221ef4702515f30b9]: Textual amendment: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class CA inserted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [6](https://www.legislation.gov.uk/uksi/2026/313/article/6)
 
 [^c22501531]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-0d81c1681df68f6fece48297ad848715]: Textual amendment: Words in Sch. 2 Pt. 7 Class D para. D.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/6/3/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-0d81c1681df68f6fece48297ad848715]: Textual amendment: Words in Sch. 2 Pt. 7 Class D para. D.3 substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/6/3/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-9ad4f649a38cfc0b9528f91130d0724b]: Textual amendment: Words in Sch. 2 Pt. 7 Class E heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/4/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-9ad4f649a38cfc0b9528f91130d0724b]: Textual amendment: Words in Sch. 2 Pt. 7 Class E heading substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/4/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-2fadbb68659274ba13591e8d65e796d7]: Textual amendment: [Sch. 2 Pt. 7 Class E para. E(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/4/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-2fadbb68659274ba13591e8d65e796d7]: Textual amendment: [Sch. 2 Pt. 7 Class E para. E(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(4)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/4/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-78e7a59136800df97f75d7ecbb51df55]: Textual amendment: [Sch. 2 Pt. 7 Class E para. E.3](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/6/4/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-78e7a59136800df97f75d7ecbb51df55]: Textual amendment: [Sch. 2 Pt. 7 Class E para. E.3](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/6/4/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-d88ee0a9e288225618ed5867d1edf08f]: Textual amendment: Sch. 2 Pt. 7 Class F omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/814/article/6/5) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-d88ee0a9e288225618ed5867d1edf08f]: Textual amendment: Sch. 2 Pt. 7 Class F omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2021/814/article/6/5) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-57584be10cbca20e1a16ae268fdf63f4]: Textual amendment: Sch. 2 Pt. 7 Class G omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2021/814/article/6/6) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-57584be10cbca20e1a16ae268fdf63f4]: Textual amendment: Sch. 2 Pt. 7 Class G omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(6)](https://www.legislation.gov.uk/uksi/2021/814/article/6/6) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
 [^c22501541]: Marginal citation: [S.I. 1999/743](https://www.legislation.gov.uk/uksi/1999/743). There are amendments not relevant to this Order.
 
-[^key-058d84f1ded303ddc172a38b2cb5b5c3]: Textual amendment: Words in Sch. 2 Pt. 7 para. L.3 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 86(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/86/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-058d84f1ded303ddc172a38b2cb5b5c3]: Textual amendment: Words in Sch. 2 Pt. 7 para. L.3 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 86(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/86/a) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-9f1704f0783bd969fd906507a41ed0e0]: Textual amendment: Word in Sch. 2 Pt. 7 Class M heading inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2021/428/article/9/2) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-9f1704f0783bd969fd906507a41ed0e0]: Textual amendment: Word in Sch. 2 Pt. 7 Class M heading inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2021/428/article/9/2) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-5d19b0b884d03b1f7bc2737d2743a4d5]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2021/428/article/9/3) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-5d19b0b884d03b1f7bc2737d2743a4d5]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2021/428/article/9/3) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-deb6e588d85e506c66f6ca4db0bc6fdb]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.1(a) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-deb6e588d85e506c66f6ca4db0bc6fdb]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.1(a) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-936afa499571588b95689372dead0c8e]: Textual amendment: Words in [Sch. 2 Pt. 7 para. M.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/a) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/a)
+[^c-936afa499571588b95689372dead0c8e]: Textual amendment: Words in [Sch. 2 Pt. 7 para. M.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/a) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/a)
 
-[^key-c8e48bd79b02d9aacd9d7eccf66691eb]: Textual amendment: Word in [Sch. 2 Pt. 7 Class M para. M.1(a)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2021/814/article/6/7) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-c8e48bd79b02d9aacd9d7eccf66691eb]: Textual amendment: Word in [Sch. 2 Pt. 7 Class M para. M.1(a)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(7)](https://www.legislation.gov.uk/uksi/2021/814/article/6/7) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-343ecf8ff132912d09020163d82e6f09]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.1(b) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/391/article/6/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-343ecf8ff132912d09020163d82e6f09]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.1(b) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/391/article/6/b) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-a03afe9249afca2fdf3e8adb7e80ddf1]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M.1(b) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-a03afe9249afca2fdf3e8adb7e80ddf1]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M.1(b) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-8b797ac5a3d42b25c7db3ca3fca6e9dc]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.1(ba) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/391/article/6/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-8b797ac5a3d42b25c7db3ca3fca6e9dc]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.1(ba) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2017/391/article/6/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-89eb1371e47ab69d32ed281fae6126a9]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.1(d) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-89eb1371e47ab69d32ed281fae6126a9]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.1(d) substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-62234e630b9815660fe829adad3f3ff2]: Textual amendment: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class M para. M.1(da) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/313/article/7/a)
+[^c-62234e630b9815660fe829adad3f3ff2]: Textual amendment: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class M para. M.1(da) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/313/article/7/a)
 
-[^key-19b4a14d4f43f3b310a6310f5038f3b9]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.1(e)(i) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(e)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/e) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-19b4a14d4f43f3b310a6310f5038f3b9]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.1(e)(i) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(e)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/e) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-cc39b520b5a8cb2c65c7d220882cf01d]: Textual amendment: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class M para. M.1(ea) inserted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/313/article/7/b)
+[^c-cc39b520b5a8cb2c65c7d220882cf01d]: Textual amendment: [Sch. 2 Pt. 7](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) Class M para. M.1(ea) inserted (9.4.2026) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/313/article/7/b)
 
-[^key-e74d4a361f7af358ac7d2a1343481896]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.1(g)(iii) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(f)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/f) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-e74d4a361f7af358ac7d2a1343481896]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.1(g)(iii) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(4)(f)](https://www.legislation.gov.uk/uksi/2021/428/article/9/4/f) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-4efac2c6c735f9416b7167e516f520ae]: Textual amendment: Word in [Sch. 2 Pt. 7 para. M.1(g)(iii)(aa)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/g/iii/aa) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/b/i)
+[^c-4efac2c6c735f9416b7167e516f520ae]: Textual amendment: Word in [Sch. 2 Pt. 7 para. M.1(g)(iii)(aa)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/g/iii/aa) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/b/i)
 
-[^key-9d3fb1925c196fde6e8656027299a74f]: Textual amendment: [Sch. 2 Pt. 7 para. M.1(g)(iii)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/g/iii/bb) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/b/ii)
+[^c-9d3fb1925c196fde6e8656027299a74f]: Textual amendment: [Sch. 2 Pt. 7 para. M.1(g)(iii)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/g/iii/bb) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/b/ii)
 
-[^key-5dbc3fde5f8d7cc425ae4e9b1bc1b3e5]: Textual amendment: [Sch. 2 Pt. 7 para. M.1(g)(iii)(cc)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/g/iii/cc) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/b/iii)
+[^c-5dbc3fde5f8d7cc425ae4e9b1bc1b3e5]: Textual amendment: [Sch. 2 Pt. 7 para. M.1(g)(iii)(cc)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.1/g/iii/cc) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/2/b/iii)
 
-[^key-f467a4b8bbd61afb4ad1000b2304f1eb]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M.2 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/9/5/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-f467a4b8bbd61afb4ad1000b2304f1eb]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M.2 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(5)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/9/5/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-c7e5ef96379644b294171c2bcfab7d5f]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M.2(c) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/9/5/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-c7e5ef96379644b294171c2bcfab7d5f]: Textual amendment: Word in Sch. 2 Pt. 7 Class M para. M.2(c) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/9/5/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-b6667173f85203c37ae647cba2594a77]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.2(e)-(h) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(5)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/9/5/c) (with [art. 15(1)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/15/1/a)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-b6667173f85203c37ae647cba2594a77]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.2(e)-(h) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(5)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/9/5/c) (with [art. 15(1)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/15/1/a)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-a2c54591464c648a55d7cd8de205e978]: Textual amendment: Word in [Sch. 2 Pt. 7 para. M.2(h)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.2/h) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/3/a)
+[^c-a2c54591464c648a55d7cd8de205e978]: Textual amendment: Word in [Sch. 2 Pt. 7 para. M.2(h)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.2/h) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/3/a)
 
-[^key-081a7a4ce175a3b2e584e1838052c78f]: Textual amendment: [Sch. 2 Pt. 7 para. M.2(i)(j)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.2/i/j) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/3/b)
+[^c-081a7a4ce175a3b2e584e1838052c78f]: Textual amendment: [Sch. 2 Pt. 7 para. M.2(i)(j)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.2/i/j) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/3/b)
 
-[^key-5ca03d80d53cc8ee0fb990a09c52615b]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.2A inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2021/428/article/9/6) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-5ca03d80d53cc8ee0fb990a09c52615b]: Textual amendment: Sch. 2 Pt. 7 Class M para. M.2A inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(6)](https://www.legislation.gov.uk/uksi/2021/428/article/9/6) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-f2766d28b293ccf55828054e3b7ae315]: Textual amendment: [Sch. 2 Pt. 7 para. M.2B](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.2B) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/4)
+[^c-f2766d28b293ccf55828054e3b7ae315]: Textual amendment: [Sch. 2 Pt. 7 para. M.2B](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7/paragraph/M.2B) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/4)
 
-[^key-c7d7186c01f3e1dc54f095694322cfe4]: Textual amendment: Words in Sch. 2 Pt. 7 para. M.3 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/5/a)
+[^c-c7d7186c01f3e1dc54f095694322cfe4]: Textual amendment: Words in Sch. 2 Pt. 7 para. M.3 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/5/a)
 
-[^key-9c11b60f3a96553c4e32eb6e323e2067]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.3 substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/9/7/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-9c11b60f3a96553c4e32eb6e323e2067]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.3 substituted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(7)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/9/7/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-44a5968e85a8e9425f50f8286916682d]: Textual amendment: Words in Sch. 2 Pt. 7 para. M.3 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/5/b)
+[^c-44a5968e85a8e9425f50f8286916682d]: Textual amendment: Words in Sch. 2 Pt. 7 para. M.3 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/5/b)
 
-[^key-366685be22d55893672dd073a239f956]: Textual amendment: Words in Sch. 2 Pt. 7 para. M.3 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/5/c)
+[^c-366685be22d55893672dd073a239f956]: Textual amendment: Words in Sch. 2 Pt. 7 para. M.3 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [3(5)(c)](https://www.legislation.gov.uk/uksi/2023/1279/article/3/5/c)
 
-[^key-6c45fd2d0cce6fbde09272b4b32b2d7e]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.3 inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [6(d)](https://www.legislation.gov.uk/uksi/2017/391/article/6/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-6c45fd2d0cce6fbde09272b4b32b2d7e]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.3 inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [6(d)](https://www.legislation.gov.uk/uksi/2017/391/article/6/d) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-3f399d26420dfacb432f693203f99184]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.3 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(7)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/9/7/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-3f399d26420dfacb432f693203f99184]: Textual amendment: Words in Sch. 2 Pt. 7 Class M para. M.3 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [9(7)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/9/7/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-79fc070fa680a0ecb696f7031daeba08]: Textual amendment: [Sch. 2 Pt. 7 Class MA](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/747/article/4)
+[^c-79fc070fa680a0ecb696f7031daeba08]: Textual amendment: [Sch. 2 Pt. 7 Class MA](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/7) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/747/article/4)
 
-[^key-1a1b5a83f40025f307f7daf27849ddd3]: Textual amendment: Words in Sch. 2 Pt. 7 para. O substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(8)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/8/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-1a1b5a83f40025f307f7daf27849ddd3]: Textual amendment: Words in Sch. 2 Pt. 7 para. O substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(8)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/6/8/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-5ea1b25936dbc6c017f831ff6d1f56c3]: Textual amendment: Words in Sch. 2 Pt. 7 para. O omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/8/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5ea1b25936dbc6c017f831ff6d1f56c3]: Textual amendment: Words in Sch. 2 Pt. 7 para. O omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/6/8/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-532d7d923180aad2cc713f4d0aca9d28]: Textual amendment: Words in Sch. 2 Pt. 7 para. O substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(8)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/6/8/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-532d7d923180aad2cc713f4d0aca9d28]: Textual amendment: Words in Sch. 2 Pt. 7 para. O substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [6(8)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/6/8/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-1ded00225ef93a8ad0d2c40139e8db65]: Modification: Sch. 2 Pt. 8 Class B applied (10.8.2016) by [The York Potash Harbour Facilities Order 2016 (S.I. 2016/772)](https://www.legislation.gov.uk/uksi/2016/772), [arts. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/772/article/9/4) (with [arts. 35](https://www.legislation.gov.uk/uksi/2016/772/article/35), [36](https://www.legislation.gov.uk/uksi/2016/772/article/36))
+[^c-1ded00225ef93a8ad0d2c40139e8db65]: Modification: Sch. 2 Pt. 8 Class B applied (10.8.2016) by [The York Potash Harbour Facilities Order 2016 (S.I. 2016/772)](https://www.legislation.gov.uk/uksi/2016/772), [arts. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1), [9(4)](https://www.legislation.gov.uk/uksi/2016/772/article/9/4) (with [arts. 35](https://www.legislation.gov.uk/uksi/2016/772/article/35), [36](https://www.legislation.gov.uk/uksi/2016/772/article/36))
 
-[^key-560a096d92d5abce23d8b8d76c3baddf]: Textual amendment: Words in Sch. 2 Pt. 8 Class B para. B inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/10/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-560a096d92d5abce23d8b8d76c3baddf]: Textual amendment: Words in Sch. 2 Pt. 8 Class B para. B inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/10/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-fa7c2f09077d1ad442263fdea4bdeb43]: Textual amendment: Word in Sch. 2 Pt. 8 Class B para. B(a) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/10/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-fa7c2f09077d1ad442263fdea4bdeb43]: Textual amendment: Word in Sch. 2 Pt. 8 Class B para. B(a) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/10/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-36efd0739c2cf4aef9387a99d1337d2c]: Textual amendment: Sch. 2 Pt. 8 Class B para. B(c) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/10/2/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-36efd0739c2cf4aef9387a99d1337d2c]: Textual amendment: Sch. 2 Pt. 8 Class B para. B(c) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/10/2/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-5e8a514d5b1574571452e452f23f3205]: Textual amendment: Word in Sch. 2 Pt. 8 Class B para. B.1(b)(i) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/10/3/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-5e8a514d5b1574571452e452f23f3205]: Textual amendment: Word in Sch. 2 Pt. 8 Class B para. B.1(b)(i) omitted (21.4.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/10/3/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-8b9d80e5f562812abfeb036a64a37f78]: Textual amendment: Sch. 2 Pt. 8 Class B para. B.1(c) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/10/3/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-8b9d80e5f562812abfeb036a64a37f78]: Textual amendment: Sch. 2 Pt. 8 Class B para. B.1(c) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/10/3/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-2595eb06e78e68f2fd1a24c24b148746]: Textual amendment: Sch. 2 Pt. 8 Class B para. B.1A inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2021/428/article/10/4) (with [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/15/1/b)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-2595eb06e78e68f2fd1a24c24b148746]: Textual amendment: Sch. 2 Pt. 8 Class B para. B.1A inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2021/428/article/10/4) (with [art. 15(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/15/1/b)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
 [^c22501561]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40); relevant amendments are made by Schedules 6 and 12 to the [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), [section 46](https://www.legislation.gov.uk/ukpga/1981/56/section/46) of the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [Schedule 3](https://www.legislation.gov.uk/ukpga/1982/48/schedule/3) to the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [Schedule 2](https://www.legislation.gov.uk/ukpga/1992/42/schedule/2) to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [Schedule 21](https://www.legislation.gov.uk/ukpga/2008/29/schedule/21) to the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) and [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177) and 2009/1941.
 
 [^c22501571]: Marginal citation: [1945 c. 18](https://www.legislation.gov.uk/ukpga/1945/18). An order is subject to special parliamentary procedure under the Act if it is one which the Secretary of State makes which authorises the compulsory purchase of land (see [paragraph 22](https://www.legislation.gov.uk/ukpga/1945/18/paragraph/22) of Schedule 3 to the Harbours Act 1964).
 
-[^key-7f43316362d5a7d6d0d0f95fb0e0f7b5]: Textual amendment: Sch. 2 Pt. 8 Class B para. B. 3 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/428/article/10/5) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-7f43316362d5a7d6d0d0f95fb0e0f7b5]: Textual amendment: Sch. 2 Pt. 8 Class B para. B. 3 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2021/428/article/10/5) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
 [^c22501581]: Marginal citation: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73), was amended by [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659); there are other amendments not relevant to this Order.
 
 [^c22501591]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). See in particular section 193 as to the meaning of a general and a local lighthouse authority and Part 8 of the Act in general; relevant amendments are made by sections 19 and 20 of, and Schedule 6 to, the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [sections 8](https://www.legislation.gov.uk/ukpga/1997/28/section/8) and 9 of the [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [Schedule 8](https://www.legislation.gov.uk/ukpga/2013/23/schedule/8) to the [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25) and [S.I. 2003/2867](https://www.legislation.gov.uk/uksi/2003/2867).
 
-[^key-4246056a31fc9284cea9772c5570d36f]: Modification: [Sch. 2 Pt. 8](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/8) Class F restricted (12.10.2025) by [The Gatwick Airport (Northern Runway Project) Development Consent Order 2025 (S.I. 2025/1054)](https://www.legislation.gov.uk/uksi/2025/1054), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1), [9(7)](https://www.legislation.gov.uk/uksi/2025/1054/article/9/7) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/1054/article/5), [9(6)](https://www.legislation.gov.uk/uksi/2025/1054/article/9/6), [43](https://www.legislation.gov.uk/uksi/2025/1054/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1054/schedule/9))
+[^c-4246056a31fc9284cea9772c5570d36f]: Modification: [Sch. 2 Pt. 8](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/8) Class F restricted (12.10.2025) by [The Gatwick Airport (Northern Runway Project) Development Consent Order 2025 (S.I. 2025/1054)](https://www.legislation.gov.uk/uksi/2025/1054), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1), [9(7)](https://www.legislation.gov.uk/uksi/2025/1054/article/9/7) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/1054/article/5), [9(6)](https://www.legislation.gov.uk/uksi/2025/1054/article/9/6), [43](https://www.legislation.gov.uk/uksi/2025/1054/article/43), [Sch. 9](https://www.legislation.gov.uk/uksi/2025/1054/schedule/9))
 
 [^c22501601]: Marginal citation: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
@@ -7807,7 +7807,7 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501621]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
-[^key-073389cd82586c1e50ecc97c5f4b411a]: Textual amendment: Words in Sch. 2 Pt. 8 para. O inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/814/article/7) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-073389cd82586c1e50ecc97c5f4b411a]: Textual amendment: Words in Sch. 2 Pt. 8 para. O inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [7](https://www.legislation.gov.uk/uksi/2021/814/article/7) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
 [^c22501631]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31). See section 57A(2); section 57A was substituted for section 57 by Schedule 8 to the [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19). There are other amendments to Part 5 but none are relevant to this Order.
 
@@ -7817,13 +7817,13 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501661]: Marginal citation: Section 55(2)(b) was amended by Schedule 9 to the [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and [S.I. 1999/293](https://www.legislation.gov.uk/uksi/1999/293).
 
-[^key-d6d01ecec0b77549afe9354a72be05a0]: Modification: Sch. 2 Pt. 9 Class B restricted (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2023/834/article/6/3) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
+[^c-d6d01ecec0b77549afe9354a72be05a0]: Modification: Sch. 2 Pt. 9 Class B restricted (4.8.2023) by [The A303 (Amesbury to Berwick Down) Development Consent Order 2023 (S.I. 2023/834)](https://www.legislation.gov.uk/uksi/2023/834), [arts. 1](https://www.legislation.gov.uk/uksi/2023/834/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2023/834/article/6/3) (with [arts. 6(2)](https://www.legislation.gov.uk/uksi/2023/834/article/6/2), [18](https://www.legislation.gov.uk/uksi/2023/834/article/18), [Sch. 11 paras. 5](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/5), [30](https://www.legislation.gov.uk/uksi/2023/834/schedule/11/paragraph/30))
 
 [^c22501671]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). Relevant amendments are made by section 1 of, and Schedule 1 to, the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
 [^c22501681]: Marginal citation: [2015 c. 7](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-d4622a05eccd720da3aa2326e50656f4]: Textual amendment: Words in Sch. 2 Pt. 9 Class C para. C inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [14](https://www.legislation.gov.uk/uksi/2018/343/article/14)
+[^c-d4622a05eccd720da3aa2326e50656f4]: Textual amendment: Words in Sch. 2 Pt. 9 Class C para. C inserted (6.4.2018) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [14](https://www.legislation.gov.uk/uksi/2018/343/article/14)
 
 [^c22501691]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 
@@ -7833,37 +7833,37 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501721]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66). See in particular sections 36, 328 and 329; section 36 was amended by Schedule 4 to the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/51/schedule/2) to the [Housing (Consequential Provisions) Act 1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), [Schedule 2](https://www.legislation.gov.uk/ukpga/1985/71/schedule/2) to the [Planning (Consequential Provisions) Act 1990 (c. 11)](https://www.legislation.gov.uk/ukpga/1990/11), [section 64](https://www.legislation.gov.uk/ukpga/1990/11/section/64) of, and Schedule 4 to, the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [Schedule 6](https://www.legislation.gov.uk/ukpga/1992/42/schedule/6) to the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37) and [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177). There are amendments to section 329 but none are relevant to this Order.
 
-[^key-8cad7e84b14a6c792f0fcd5731196cd3]: Textual amendment: Sch. 2 Pt. 9 Class F inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [7](https://www.legislation.gov.uk/uksi/2026/1056/article/7)
+[^c-8cad7e84b14a6c792f0fcd5731196cd3]: Textual amendment: Sch. 2 Pt. 9 Class F inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [7](https://www.legislation.gov.uk/uksi/2026/1056/article/7)
 
 [^c22501731]: Marginal citation: Historic England is the name used by the Historic Buildings and Monuments Commission for England (a body established under section 32 of the [National Heritage Act 1983 (c. 47)](https://www.legislation.gov.uk/ukpga/1983/47)).
 
 [^c22501741]: Marginal citation: Section 196D was inserted by paragraph 6 of Schedule 17 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-a7e5426e131b4305673fa3838f9ded90]: Textual amendment: Word in Sch. 2 Pt. 11 Class B para. B.1 omitted (3.12.2020) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/6/a) (with [reg. 12(3)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/4))
+[^c-a7e5426e131b4305673fa3838f9ded90]: Textual amendment: Word in Sch. 2 Pt. 11 Class B para. B.1 omitted (3.12.2020) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/6/a) (with [reg. 12(3)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/4))
 
-[^key-548613c1374906611ca60b33c33e8502]: Textual amendment: [Sch. 2 Pt. 11 Class B1 para. B.1(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/11) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [8](https://www.legislation.gov.uk/uksi/2021/814/article/8) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-548613c1374906611ca60b33c33e8502]: Textual amendment: [Sch. 2 Pt. 11 Class B1 para. B.1(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/11) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [8](https://www.legislation.gov.uk/uksi/2021/814/article/8) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-a18f94c093317185e541da81daf679a1]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.1(d) and word inserted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/6/b) (with [reg. 12(3)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/4))
+[^c-a18f94c093317185e541da81daf679a1]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.1(d) and word inserted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/6/b) (with [reg. 12(3)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/3)[(4)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/12/4))
 
-[^key-666324964526ce1ea34a905a4fca991b]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.1(e) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/11/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-666324964526ce1ea34a905a4fca991b]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.1(e) and word inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [11(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/11/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-4d4210e6186750354a75cf31da66c999]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(i) substituted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/619/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-4d4210e6186750354a75cf31da66c999]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(i) substituted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/619/article/4/b) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-e4b600a6c3e961a37b11a7c265f13497]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.2(b)(ii) substituted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/619/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-e4b600a6c3e961a37b11a7c265f13497]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.2(b)(ii) substituted (23.5.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/619/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-1e30cf07ec9bab8bfa9c06db5e0163b9]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(iii) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2017/619/article/4/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-1e30cf07ec9bab8bfa9c06db5e0163b9]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(iii) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(d)](https://www.legislation.gov.uk/uksi/2017/619/article/4/d) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-123cb1957e83985eccb150b70f41328a]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(vi) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(e)](https://www.legislation.gov.uk/uksi/2017/619/article/4/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-123cb1957e83985eccb150b70f41328a]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(vi) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(e)](https://www.legislation.gov.uk/uksi/2017/619/article/4/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-acb95b7fb33139e24a541a8d9c63d2e6]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.2(b)(vii) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2017/619/article/4/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-acb95b7fb33139e24a541a8d9c63d2e6]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.2(b)(vii) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(f)](https://www.legislation.gov.uk/uksi/2017/619/article/4/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-c238767e4347fe0e10c64033aed8fc20]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.2(b)(ix) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(g)](https://www.legislation.gov.uk/uksi/2017/619/article/4/g) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-c238767e4347fe0e10c64033aed8fc20]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.2(b)(ix) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(g)](https://www.legislation.gov.uk/uksi/2017/619/article/4/g) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-96ce790daec38c1f940befbfedddba07]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(x) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(h)](https://www.legislation.gov.uk/uksi/2017/619/article/4/h) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-96ce790daec38c1f940befbfedddba07]: Textual amendment: Sch. 2 Pt. 11 Class B para. B.2(b)(x) omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(h)](https://www.legislation.gov.uk/uksi/2017/619/article/4/h) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-16103390f30d6415a4815258d7fe673d]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.3 omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(i)](https://www.legislation.gov.uk/uksi/2017/619/article/4/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
+[^c-16103390f30d6415a4815258d7fe673d]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.3 omitted (23.5.2017) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2017 (S.I. 2017/619)](https://www.legislation.gov.uk/uksi/2017/619), [arts. 1](https://www.legislation.gov.uk/uksi/2017/619/article/1), [4(i)](https://www.legislation.gov.uk/uksi/2017/619/article/4/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2017/619/article/5))
 
-[^key-df869df0484a8ec0843798563c84437a]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.3 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/428/article/11/3) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-df869df0484a8ec0843798563c84437a]: Textual amendment: Words in Sch. 2 Pt. 11 Class B para. B.3 inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/428/article/11/3) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
 [^c22501761]: Marginal citation: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46); see in particular sections 2 to 4, relevant amendments to which are made by section 33 of, and Schedule 4 to, the [National Heritage Act 1983 (c. 47)](https://www.legislation.gov.uk/ukpga/1983/47) and Schedule 2 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
@@ -7875,27 +7875,27 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501811]: Marginal citation: Section 196D was inserted by paragraph 6 of Schedule 17 to the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-c25868f226cbfde2a0c7850c9106f856]: Textual amendment: Words in [Sch. 2 Pt. 12 Class A para. A](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/747/article/5/2)
+[^c-c25868f226cbfde2a0c7850c9106f856]: Textual amendment: Words in [Sch. 2 Pt. 12 Class A para. A](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/747/article/5/2)
 
 [^c22501821]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65); see [sections 135](https://www.legislation.gov.uk/ukpga/1980/65/section/135) and 171. Section 135 was amended by section 179 of the [Leasehold Reform, Housing and Urban Development Act 1993 (c. 28)](https://www.legislation.gov.uk/ukpga/1993/28). There are no amendments to section 171 relevant to this Order.
 
-[^key-11cd6948dfec1acf4a0dd4f95f88b9d5]: Textual amendment: Sch. 2 Pt. 12 Class BA inserted (25.6.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2020/632/regulation/21)
+[^c-11cd6948dfec1acf4a0dd4f95f88b9d5]: Textual amendment: Sch. 2 Pt. 12 Class BA inserted (25.6.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/3), [21](https://www.legislation.gov.uk/uksi/2020/632/regulation/21)
 
-[^key-79fab522fe4d6039f1145aba354b2658]: Textual amendment: Words in Sch. 2 Pt. 12 Class BA para. BA omitted (11.1.2022) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/c), [6(2)](https://www.legislation.gov.uk/uksi/2021/1464/article/6/2)
+[^c-79fab522fe4d6039f1145aba354b2658]: Textual amendment: Words in Sch. 2 Pt. 12 Class BA para. BA omitted (11.1.2022) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/c), [6(2)](https://www.legislation.gov.uk/uksi/2021/1464/article/6/2)
 
-[^key-a755275246c4a58f7042521e7514bfc4]: Textual amendment: Words in Sch. 2 Pt. 12 Class BA para. BA.1 substituted (11.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2021/1464/article/6/3)
+[^c-a755275246c4a58f7042521e7514bfc4]: Textual amendment: Words in Sch. 2 Pt. 12 Class BA para. BA.1 substituted (11.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/c), [6(3)](https://www.legislation.gov.uk/uksi/2021/1464/article/6/3)
 
 [^M_F_decc0dae-d5d5-4a96-82b5-bb1227770cdb]: Textual amendment: Words in [Sch. 2 Pt. 12 para. C](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12) inserted (26.7.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2023 (S.I. 2023/747)](https://www.legislation.gov.uk/uksi/2023/747), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/747/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/747/article/5/2)
 
-[^key-3d1ac64304ded4629cf92971532bed5d]: Textual amendment: [Sch. 2 Pt. 12A](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A) inserted (9.4.2020 at 10:00 a.m.) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (England) (Amendment) Order 2020 (S.I. 2020/412)](https://www.legislation.gov.uk/uksi/2020/412), [arts. 1](https://www.legislation.gov.uk/uksi/2020/412/article/1), [3](https://www.legislation.gov.uk/uksi/2020/412/article/3)
+[^c-3d1ac64304ded4629cf92971532bed5d]: Textual amendment: [Sch. 2 Pt. 12A](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A) inserted (9.4.2020 at 10:00 a.m.) by [The Town and Country Planning (General Permitted Development) (Coronavirus) (England) (Amendment) Order 2020 (S.I. 2020/412)](https://www.legislation.gov.uk/uksi/2020/412), [arts. 1](https://www.legislation.gov.uk/uksi/2020/412/article/1), [3](https://www.legislation.gov.uk/uksi/2020/412/article/3)
 
-[^key-407dd44ce992ae79112a0ad4e1808831]: Textual amendment: Words in [Sch. 2 Pt. 12A para. A.2(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A/paragraph/A.2/b) substituted (1.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/a), [7](https://www.legislation.gov.uk/uksi/2021/1464/article/7)
+[^c-407dd44ce992ae79112a0ad4e1808831]: Textual amendment: Words in [Sch. 2 Pt. 12A para. A.2(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A/paragraph/A.2/b) substituted (1.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/a), [7](https://www.legislation.gov.uk/uksi/2021/1464/article/7)
 
-[^key-7d8881773f3f8a69feef531e4289abf8]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2015/596) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-7d8881773f3f8a69feef531e4289abf8]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2015/596) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-378a6f683de908938c8e506da0f837d6]: Textual amendment: Words in [Sch. 2 Pt. 12A para. A.3(1)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A/paragraph/A.3/1) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/19) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-378a6f683de908938c8e506da0f837d6]: Textual amendment: Words in [Sch. 2 Pt. 12A para. A.3(1)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A/paragraph/A.3/1) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/19) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-a4743b832ba561a957563bfbc358784e]: Textual amendment: Words in [Sch. 2 Pt. 12A](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A) para. A.3(1) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/50) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-a4743b832ba561a957563bfbc358784e]: Textual amendment: Words in [Sch. 2 Pt. 12A](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/12A) para. A.3(1) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 50](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/50) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
 [^c22501831]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); which was amended by Schedule 22 to the Environment Act 1995 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
@@ -7907,97 +7907,97 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501861]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); which was amended by Schedule 22 to the Environment Act 1995 and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-f1568a9c245b3c2bf2158ea1735380b3]: Textual amendment: Words in [Sch. 2 Pt. 14 Class A para. A.1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/a), [3(a)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-f1568a9c245b3c2bf2158ea1735380b3]: Textual amendment: Words in [Sch. 2 Pt. 14 Class A para. A.1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/a), [3(a)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-c7eebd229f5a9aeffe306f2c7db51c61]: Textual amendment: Words in [Sch. 2 Pt. 14 para. A.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/a) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/a/i)
+[^c-c7eebd229f5a9aeffe306f2c7db51c61]: Textual amendment: Words in [Sch. 2 Pt. 14 para. A.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/a) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/a/i)
 
-[^key-72898a15808f6ebba06433b5c359ca45]: Textual amendment: Word in [Sch. 2 Pt. 14 para. A.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/a) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/a/ii)
+[^c-72898a15808f6ebba06433b5c359ca45]: Textual amendment: Word in [Sch. 2 Pt. 14 para. A.1(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/a) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/a/ii)
 
-[^key-41f3312e58b29bf619820ba7fae33070]: Textual amendment: Words in [Sch. 2 Pt. 14 para. A.1(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/b) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/b)
+[^c-41f3312e58b29bf619820ba7fae33070]: Textual amendment: Words in [Sch. 2 Pt. 14 para. A.1(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/b) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/b)
 
-[^key-ef9ac31abc63bf0283d39689a168e3e2]: Textual amendment: [Sch. 2 Pt. 14 para. A.1(ba)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/ba) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/c)
+[^c-ef9ac31abc63bf0283d39689a168e3e2]: Textual amendment: [Sch. 2 Pt. 14 para. A.1(ba)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/A.1/ba) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/2/c)
 
-[^key-45b6dd2e83cd9d2b3a3460cde4a15ba4]: Textual amendment: Word in [Sch. 2 Pt. 14 Class A para. A.1(1)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/b), [3(b)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-45b6dd2e83cd9d2b3a3460cde4a15ba4]: Textual amendment: Word in [Sch. 2 Pt. 14 Class A para. A.1(1)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/b), [3(b)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-68f1a0d58b40b2582e2a619a2de92bdd]: Textual amendment: [Sch. 2 Pt. 14 Class A para. A.1(1)(e)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/c), [3(c)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-68f1a0d58b40b2582e2a619a2de92bdd]: Textual amendment: [Sch. 2 Pt. 14 Class A para. A.1(1)(e)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/c), [3(c)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-3dfe087b0bca53dc97fdb195cf210483]: Textual amendment: [Sch. 2 Pt. 14 Class A para. A.1(1)(f)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/d), [3(d)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-3dfe087b0bca53dc97fdb195cf210483]: Textual amendment: [Sch. 2 Pt. 14 Class A para. A.1(1)(f)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/d), [3(d)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-6b7dd5e249ebb8d2e3b7ccfa7d4802ed]: Textual amendment: [Sch. 2 Pt. 14 Class A para. A.1(2)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/e), [3(e)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-6b7dd5e249ebb8d2e3b7ccfa7d4802ed]: Textual amendment: [Sch. 2 Pt. 14 Class A para. A.1(2)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/3/e), [3(e)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-c161982904e61ae0e7362c024c9ad9fd]: Textual amendment: Word in Sch. 2 Pt. 14 para. A.2(b) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/3/a)
+[^c-c161982904e61ae0e7362c024c9ad9fd]: Textual amendment: Word in Sch. 2 Pt. 14 para. A.2(b) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/3/a)
 
-[^key-8f7b90d23e4a989c1c288a86b12660fc]: Textual amendment: Sch. 2 Pt. 14 paras. A.2(ba)(bb) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/3/b)
+[^c-8f7b90d23e4a989c1c288a86b12660fc]: Textual amendment: Sch. 2 Pt. 14 paras. A.2(ba)(bb) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/4/3/b)
 
-[^key-5b608b24df44f4754347da191202ac55]: Textual amendment: Words in [Sch. 2 Pt. 14 Class B para. B.1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/a), [4(1)(a)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-5b608b24df44f4754347da191202ac55]: Textual amendment: Words in [Sch. 2 Pt. 14 Class B para. B.1](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/a), [4(1)(a)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-78e69d3029406e23199ea28d50dc5f73]: Textual amendment: Words in [Sch. 2 Pt. 14 para. B.1(b)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.1/b/i) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/2/a)
+[^c-78e69d3029406e23199ea28d50dc5f73]: Textual amendment: Words in [Sch. 2 Pt. 14 para. B.1(b)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.1/b/i) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/2/a)
 
-[^key-7e5608c93ee05791531768e898a36a82]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/i), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-7e5608c93ee05791531768e898a36a82]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/i), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-0641349d56dd79d7e771c3037a6a116e]: Textual amendment: Words in [Sch. 2 Pt. 14 para. B.1(b)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.1/b/ii) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/2/b)
+[^c-0641349d56dd79d7e771c3037a6a116e]: Textual amendment: Words in [Sch. 2 Pt. 14 para. B.1(b)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.1/b/ii) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/2/b)
 
-[^key-6de1afaa3dd6a146502d7dafb798c151]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/i), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-6de1afaa3dd6a146502d7dafb798c151]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/i), [4(1)(b)(i)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-97025964b27ed709fc0ae1c4ce579bfb]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(b)(v)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/ii), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-97025964b27ed709fc0ae1c4ce579bfb]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(b)(v)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) omitted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/ii), [4(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-98952c7881d1a0dbfb3bfa89a7c38076]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/c), [4(1)(c)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-98952c7881d1a0dbfb3bfa89a7c38076]: Textual amendment: Word in [Sch. 2 Pt. 14 Class B para. B.1(1)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/c), [4(1)(c)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-637165e39ea03a93a13693a0bd218e35]: Textual amendment: [Sch. 2 Pt. 14 Class B para. B.1(1)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/d), [4(1)(d)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-637165e39ea03a93a13693a0bd218e35]: Textual amendment: [Sch. 2 Pt. 14 Class B para. B.1(1)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/d), [4(1)(d)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-141bb11541478538831c006dced27676]: Textual amendment: [Sch. 2 Pt. 14 Class B1(2)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/e), [4(1)(e)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-141bb11541478538831c006dced27676]: Textual amendment: [Sch. 2 Pt. 14 Class B1(2)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/e), [4(1)(e)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-77d65d3f0b34567bcc3ceeb3cb1618c8]: Textual amendment: Word in [Sch. 2 Pt. 14 para. B.2(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.2/a) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/3/a)
+[^c-77d65d3f0b34567bcc3ceeb3cb1618c8]: Textual amendment: Word in [Sch. 2 Pt. 14 para. B.2(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.2/a) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/3/a)
 
-[^key-00499037d5caab64ff44f926557f23e2]: Textual amendment: [Sch. 2 Pt. 14 Class B para. B.2(aa)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
+[^c-00499037d5caab64ff44f926557f23e2]: Textual amendment: [Sch. 2 Pt. 14 Class B para. B.2(aa)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) substituted (27.8.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-2a75551fe6e5febaf9a9752bd704720d]: Textual amendment: [Sch. 2 Pt. 14 paras. B.2(aa)(ab)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.2/aa) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/3/b)
+[^c-2a75551fe6e5febaf9a9752bd704720d]: Textual amendment: [Sch. 2 Pt. 14 paras. B.2(aa)(ab)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/B.2/aa) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/5/3/b)
 
-[^key-19e4b16e72f0fcb6b7b5a08becef276a]: Textual amendment: Words in Sch. 2 Pt. 14 Class G para. G.1 omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/560/article/5/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2025/560/article/7))
+[^c-19e4b16e72f0fcb6b7b5a08becef276a]: Textual amendment: Words in Sch. 2 Pt. 14 Class G para. G.1 omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2025/560/article/5/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2025/560/article/7))
 
-[^key-d59624f1c592edeca026b34e1be5e8dd]: Textual amendment: Words in Sch. 2 Pt. 14 Class G para. G.2(a) substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/5/3/a)
+[^c-d59624f1c592edeca026b34e1be5e8dd]: Textual amendment: Words in Sch. 2 Pt. 14 Class G para. G.2(a) substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/5/3/a)
 
-[^key-b6cf03fe7053c0c0cc50ca030f49f529]: Textual amendment: Words in Sch. 2 Pt. 14 Class G para. G.2(d) substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/560/article/5/3/b)
+[^c-b6cf03fe7053c0c0cc50ca030f49f529]: Textual amendment: Words in Sch. 2 Pt. 14 Class G para. G.2(d) substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2025/560/article/5/3/b)
 
-[^key-b7bc80c36be8c1b6e19d40ba028cd47b]: Textual amendment: Sch. 2 Pt. 14 Class G para. G.2(e) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2025/560/article/5/3/c)
+[^c-b7bc80c36be8c1b6e19d40ba028cd47b]: Textual amendment: Sch. 2 Pt. 14 Class G para. G.2(e) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(3)(c)](https://www.legislation.gov.uk/uksi/2025/560/article/5/3/c)
 
-[^key-b31659142ec18a367ad6a2cd4504983d]: Textual amendment: Sch. 2 Pt. 14 Class G para. G.3(a) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/5/4/a)
+[^c-b31659142ec18a367ad6a2cd4504983d]: Textual amendment: Sch. 2 Pt. 14 Class G para. G.3(a) omitted (29.5.2025) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2025/560/article/5/4/a)
 
-[^key-8101380e9a36b22b2b90b44ecaa3e305]: Textual amendment: Sch. 2 Pt. 14 Class G para. G.3(aa) inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2025/560/article/5/4/b)
+[^c-8101380e9a36b22b2b90b44ecaa3e305]: Textual amendment: Sch. 2 Pt. 14 Class G para. G.3(aa) inserted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2025/560/article/5/4/b)
 
-[^key-f152591ccc82178745ee98f41ce16664]: Textual amendment: Words in Sch. 2 Pt. 14 Class J para. J.1(c) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2017/391/article/7/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-f152591ccc82178745ee98f41ce16664]: Textual amendment: Words in Sch. 2 Pt. 14 Class J para. J.1(c) inserted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [7(1)](https://www.legislation.gov.uk/uksi/2017/391/article/7/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
-[^key-42af180f3fc0246937479d07d39fc677]: Textual amendment: [Sch. 2 Pt. 14 para. J.1(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/J.1/d) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2023/1279/article/6/2)
+[^c-42af180f3fc0246937479d07d39fc677]: Textual amendment: [Sch. 2 Pt. 14 para. J.1(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/J.1/d) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2023/1279/article/6/2)
 
-[^key-689f3ff28714333c113ba9044b667117]: Textual amendment: [Sch. 2 Pt. 14 para. J.3](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/J.3) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2023/1279/article/6/3)
+[^c-689f3ff28714333c113ba9044b667117]: Textual amendment: [Sch. 2 Pt. 14 para. J.3](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/J.3) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2023/1279/article/6/3)
 
-[^key-fc9823cffa9715608b0eb395f65695b4]: Textual amendment: Sch. 2 Pt. 14 Class J para. J.4(8)(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/907/regulation/15)
+[^c-fc9823cffa9715608b0eb395f65695b4]: Textual amendment: Sch. 2 Pt. 14 Class J para. J.4(8)(b) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/907/regulation/15)
 
-[^key-cf0b892052ba0ced71418db5c5833ef4]: Textual amendment: Words in [Sch. 2 Pt. 14](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) Class J para. J.4(8)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(vi)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/vi)
+[^c-cf0b892052ba0ced71418db5c5833ef4]: Textual amendment: Words in [Sch. 2 Pt. 14](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) Class J para. J.4(8)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(vi)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/vi)
 
 [^M_F_351019b8-4c44-4eff-eca4-86105183b806]: Textual amendment: Sch. 2 Pt. 14 para. J.4(12) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(5)](https://www.legislation.gov.uk/uksi/2018/119/article/26/5)
 
-[^key-e1601a9208a72f8dc9e29e088a869870]: Textual amendment: Words in [Sch. 2 Pt. 14 para. K.1(b)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.1/b/i) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/2/a)
+[^c-e1601a9208a72f8dc9e29e088a869870]: Textual amendment: Words in [Sch. 2 Pt. 14 para. K.1(b)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.1/b/i) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/2/a)
 
-[^key-781d8c011263f8a21937e7c56833a88a]: Textual amendment: [Sch. 2 Pt. 14 para. K.1(b)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.1/b/ii) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/2/b)
+[^c-781d8c011263f8a21937e7c56833a88a]: Textual amendment: [Sch. 2 Pt. 14 para. K.1(b)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.1/b/ii) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/2/b)
 
-[^key-3a5e160cd70b8cdecd22eaf96b165f6a]: Textual amendment: Word in [Sch. 2 Pt. 14 para. K.2(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.2/a) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/3/a)
+[^c-3a5e160cd70b8cdecd22eaf96b165f6a]: Textual amendment: Word in [Sch. 2 Pt. 14 para. K.2(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.2/a) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/3/a)
 
-[^key-9e4e8b0b6b9e64251a2c17dafe2b7fbc]: Textual amendment: [Sch. 2 Pt. 14 paras. K.2(aa)(ab)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.2/aa), inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/3/b)
+[^c-9e4e8b0b6b9e64251a2c17dafe2b7fbc]: Textual amendment: [Sch. 2 Pt. 14 paras. K.2(aa)(ab)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14/paragraph/K.2/aa), inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/7/3/b)
 
-[^key-a6e119109b8360e84eeaa43ed74828a3]: Textual amendment: [Sch. 2 Pt. 14](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) Class OA inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/1279/article/8)
+[^c-a6e119109b8360e84eeaa43ed74828a3]: Textual amendment: [Sch. 2 Pt. 14](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) Class OA inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [8](https://www.legislation.gov.uk/uksi/2023/1279/article/8)
 
 [^c22501891]: Marginal citation: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38). See in particular sections 5 to 7 and 40 (section 5 was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941) and 2011/205).
 
-[^key-ff07a29422da03f7261646123bd8f36a]: Textual amendment: Words in Sch. 2 Pt. 14 para. P substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/560/article/6/a)
+[^c-ff07a29422da03f7261646123bd8f36a]: Textual amendment: Words in Sch. 2 Pt. 14 para. P substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2025/560/article/6/a)
 
-[^key-1dc5de50510b3d105546f5331e6d8737]: Textual amendment: Words in Sch. 2 Pt. 14 para. P substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/560/article/6/b)
+[^c-1dc5de50510b3d105546f5331e6d8737]: Textual amendment: Words in Sch. 2 Pt. 14 para. P substituted (29.5.2025) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2025 (S.I. 2025/560)](https://www.legislation.gov.uk/uksi/2025/560), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/560/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2025/560/article/6/b)
 
 [^c22501921]: Marginal citation: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20).
 
 [^M_F_14935887-e27a-466e-f8fb-ff073f1dd4d0]: Textual amendment: Words in [Sch. 2 Pt. 14 para. P](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/i), [5(a)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
-[^key-7bfb963ca9f528d10e2459f2f639d93a]: Textual amendment: Words in Sch. 2 Pt. 14 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/1279/article/9)
+[^c-7bfb963ca9f528d10e2459f2f639d93a]: Textual amendment: Words in Sch. 2 Pt. 14 inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [9](https://www.legislation.gov.uk/uksi/2023/1279/article/9)
 
 [^M_F_c66eb676-ed22-4ccb-869c-d0c7fe7893c2]: Textual amendment: Words in [Sch. 2 Pt. 14 para. P](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14) inserted (27.8.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2026 (S.I. 2026/896)](https://www.legislation.gov.uk/uksi/2026/896), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/896/article/4/1/b/i), [5(b)](https://www.legislation.gov.uk/uksi/2026/896/regulation/1/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2026/896/article/6))
 
@@ -8007,143 +8007,143 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22501931]: Marginal citation: [1965 c. 36](https://www.legislation.gov.uk/ukpga/1965/36); relevant amendments are made by section 67 of, and Schedule 7 to, the [Gas Act 1986 (c. 44)](https://www.legislation.gov.uk/ukpga/1986/44), [Schedule 2](https://www.legislation.gov.uk/ukpga/1986/44/schedule/2) to the [Planning (Consequential Provisions) Act 1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11), [Schedule 4](https://www.legislation.gov.uk/ukpga/1990/11/schedule/4) to the [Gas Act 1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and Schedule 2 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). See section 5(1) of the Gas Act 1965 for the meaning of storage area and protective area.
 
-[^key-a186d0b6bc966775e3948bad687e09e1]: Textual amendment: Words in Sch. 2 Pt. 15 Class A para. A(d) substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/a)
+[^c-a186d0b6bc966775e3948bad687e09e1]: Textual amendment: Words in Sch. 2 Pt. 15 Class A para. A(d) substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(a)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/a)
 
 [^c22501941]: Marginal citation: See section 1(1) of the Act, which was amended by section 31 of the [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24); there are other amendments not relevant to this Order.
 
-[^key-7ed02043daff41d93fdca5301b8e8310]: Textual amendment: Words in Sch. 2 Pt. 15 Class B para. B(e) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/391/article/7/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
+[^c-7ed02043daff41d93fdca5301b8e8310]: Textual amendment: Words in Sch. 2 Pt. 15 Class B para. B(e) substituted (6.4.2017) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2017 (S.I. 2017/391)](https://www.legislation.gov.uk/uksi/2017/391), [arts. 1](https://www.legislation.gov.uk/uksi/2017/391/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2017/391/article/7/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2017/391/article/8))
 
 [^c22501951]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29), was amended by Schedule 2 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-c8227e3bbc7e81b45dfc24de1b1a6f9e]: Textual amendment: Word in Sch. 2 Pt. 15 Class B para. B.1(a)(i) omitted (21.10.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/2/a)
+[^c-c8227e3bbc7e81b45dfc24de1b1a6f9e]: Textual amendment: Word in Sch. 2 Pt. 15 Class B para. B.1(a)(i) omitted (21.10.2026) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/2/a)
 
-[^key-110ed0fa18bccf05f8f8e57b18c759b5]: Textual amendment: Words in Sch. 2 Pt. 15 Class B para. B.1(a)(ii) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/2/b)
+[^c-110ed0fa18bccf05f8f8e57b18c759b5]: Textual amendment: Words in Sch. 2 Pt. 15 Class B para. B.1(a)(ii) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/2/b)
 
-[^key-567dd3979f2bc2ab4d898e8d7dfabf0d]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.1(a)(iii) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/2/c)
+[^c-567dd3979f2bc2ab4d898e8d7dfabf0d]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.1(a)(iii) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(2)(c)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/2/c)
 
-[^key-55832c306c6c74109139ac27d4c46006]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.2 renumbered as Sch. 2 Pt. 15 Class B para. B.2(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/3/a)
+[^c-55832c306c6c74109139ac27d4c46006]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.2 renumbered as Sch. 2 Pt. 15 Class B para. B.2(1) (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(3)(a)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/3/a)
 
-[^key-d0ceb8c7f834c6ab2d010143d81fa76a]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.2(1)(ba) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/3/b)
+[^c-d0ceb8c7f834c6ab2d010143d81fa76a]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.2(1)(ba) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(3)(b)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/3/b)
 
-[^key-1ad9fda5f051a02980279ec109183dc8]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.2(2)-(11) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/3/c)
+[^c-1ad9fda5f051a02980279ec109183dc8]: Textual amendment: Sch. 2 Pt. 15 Class B para. B.2(2)-(11) inserted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [8(3)(c)](https://www.legislation.gov.uk/uksi/2026/1056/article/8/3/c)
 
 [^c22501961]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^c22501971]: Marginal citation: The definition of electrical plant was amended by Schedule 6 to the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-e5ff3635b042db5083f72b4247fa7619]: Textual amendment: Words in Sch. 2 Pt. 15 Class B para. B.4 substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/765/regulation/1/1), [Sch. 3 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/3/paragraph/9/2/a); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2)
+[^c-e5ff3635b042db5083f72b4247fa7619]: Textual amendment: Words in Sch. 2 Pt. 15 Class B para. B.4 substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/765/regulation/1/1), [Sch. 3 para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/3/paragraph/9/2/a); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2)
 
 [^c22501991]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 6 was substituted by section 30 of the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27); subsection (1) was amended by sections 136 and 145 of, and Schedule 23 to, the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20) and [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
 [^c22502001]: Marginal citation: Section 263 was amended by Schedule 19 to the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), [Schedule 5](https://www.legislation.gov.uk/ukpga/1991/34/schedule/5) to the [Transport Act 2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) and [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149).
 
-[^key-172e1d48d73a4658c9d61c581ca57e89]: Textual amendment: Sch. 2 Pt. 16 Class A substituted (24.11.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2016 (S.I. 2016/1040)](https://www.legislation.gov.uk/uksi/2016/1040), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1040/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1040/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1040/article/3))
+[^c-172e1d48d73a4658c9d61c581ca57e89]: Textual amendment: Sch. 2 Pt. 16 Class A substituted (24.11.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2016 (S.I. 2016/1040)](https://www.legislation.gov.uk/uksi/2016/1040), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1040/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1040/article/2/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/1040/article/3))
 
-[^key-c216f2ff0726d47329a311febb2aacf0]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(1)(c)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/1/c/i) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/a/i)
+[^c-c216f2ff0726d47329a311febb2aacf0]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(1)(c)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/1/c/i) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/a/i)
 
-[^key-2ff9dd73813ea0709a20cef68d593678]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/1/c/ii) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/a/ii)
+[^c-2ff9dd73813ea0709a20cef68d593678]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/1/c/ii) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/a/ii)
 
-[^key-6357bb77dbe71090c0bbf87a48156c0d]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(1)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/1/c) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/b)
+[^c-6357bb77dbe71090c0bbf87a48156c0d]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(1)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/1/c) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/b)
 
-[^key-5d783a49ad0dddf311ef1d446c9c9d04]: Textual amendment: Sch. 2 Pt. 16 para. A.1(1)(d)(e) substituted for Sch. 2 Pt. 16 para. A.1(1)(d) (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/c)
+[^c-5d783a49ad0dddf311ef1d446c9c9d04]: Textual amendment: Sch. 2 Pt. 16 para. A.1(1)(d)(e) substituted for Sch. 2 Pt. 16 para. A.1(1)(d) (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2022/278/article/3/2/c)
 
-[^key-8e0784dc9f67e43ddc15f6e4b085ff13]: Textual amendment: [Sch. 2 Pt. 16 para. A.1(2)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/2/c) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/278/article/3/3)
+[^c-8e0784dc9f67e43ddc15f6e4b085ff13]: Textual amendment: [Sch. 2 Pt. 16 para. A.1(2)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/2/c) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2022/278/article/3/3)
 
-[^key-f847d5727bac7ce056e8a3fd365bad00]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/4/a/iv) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/278/article/3/4)
+[^c-f847d5727bac7ce056e8a3fd365bad00]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.1(4)(a)(iv)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/4/a/iv) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2022/278/article/3/4)
 
-[^key-5b675cf72d907b7a9f42fa5547596151]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.1(7)(c) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
+[^c-5b675cf72d907b7a9f42fa5547596151]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.1(7)(c) omitted (25.5.2019) by virtue of [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/a) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
 
-[^key-9a86c1ae08368a5e5c10aaf00fd77ad0]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.1(9)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/9/c) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/278/article/3/5)
+[^c-9a86c1ae08368a5e5c10aaf00fd77ad0]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.1(9)(c)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/9/c) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2022/278/article/3/5)
 
-[^key-c1410638a270f9adeb33849a1f03ffe3]: Textual amendment: [Sch. 2 Pt. 16 para. A.1(9A)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/9A) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2022/278/article/3/6)
+[^c-c1410638a270f9adeb33849a1f03ffe3]: Textual amendment: [Sch. 2 Pt. 16 para. A.1(9A)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.1/9A) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [3(6)](https://www.legislation.gov.uk/uksi/2022/278/article/3/6)
 
-[^key-85cda990e42818fab088e7eeb16f4f8c]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.1(10) inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
+[^c-85cda990e42818fab088e7eeb16f4f8c]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.1(10) inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/b) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
 
-[^key-257cff76c2f00774c3365a01a839aa2f]: Textual amendment: [Sch. 2 Pt. 16 para. A.2(1)(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/1/a) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/4/2/a)
+[^c-257cff76c2f00774c3365a01a839aa2f]: Textual amendment: [Sch. 2 Pt. 16 para. A.2(1)(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/1/a) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/4/2/a)
 
-[^key-c2c8895dc6e5f143d41767c91036d750]: Textual amendment: [Sch. 2 Pt. 16 para. A.2(1)(b)-(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/1/b) substituted for [Sch. 2 Pts. 16](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16) [para. A.2(1)(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/1/b) (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/4/2/b)
+[^c-c2c8895dc6e5f143d41767c91036d750]: Textual amendment: [Sch. 2 Pt. 16 para. A.2(1)(b)-(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/1/b) substituted for [Sch. 2 Pts. 16](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16) [para. A.2(1)(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/1/b) (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/4/2/b)
 
-[^key-d9351747edf44bf5405b47e714ebc940]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(3)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/a)
+[^c-d9351747edf44bf5405b47e714ebc940]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(3)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/a)
 
-[^key-330619880c045b74dd4114f8e18916d7]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/i) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/i)
+[^c-330619880c045b74dd4114f8e18916d7]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/i) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/i)
 
-[^key-933114398dcf903117a87ab07925aee0]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/ii) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/a/i/aa)
+[^c-933114398dcf903117a87ab07925aee0]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/ii) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/a/i/aa)
 
-[^key-4388cbce72b77320dbb14c8ae638e807]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(3)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/ii/bb) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/ii)
+[^c-4388cbce72b77320dbb14c8ae638e807]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(3)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/ii/bb) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/ii)
 
-[^key-6bf61741dbac222be7bd63de30c60104]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/ii/bb) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/a/i/bb)
+[^c-6bf61741dbac222be7bd63de30c60104]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c/ii/bb) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/a/i/bb)
 
-[^key-db4eabf19f787b32b74e9d51e2d5606c]: Textual amendment: Sch. 2 Pt. 16 para. A.2(3)(c)(iia) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/iii)
+[^c-db4eabf19f787b32b74e9d51e2d5606c]: Textual amendment: Sch. 2 Pt. 16 para. A.2(3)(c)(iia) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/iii)
 
-[^key-a4296c2068e733382ebc3ea04779c244]: Textual amendment: Words in [Sch. 2 Pt. 16 paras. A.2(3)(c)(iia)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/a/ii)
+[^c-a4296c2068e733382ebc3ea04779c244]: Textual amendment: Words in [Sch. 2 Pt. 16 paras. A.2(3)(c)(iia)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/c) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/a/ii)
 
-[^key-74a4e21a403ec5bf9ce8613d4c2676f6]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.2(3)(c)(iii) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
+[^c-74a4e21a403ec5bf9ce8613d4c2676f6]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.2(3)(c)(iii) substituted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/c) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
 
-[^key-28df8b3ec58dd898d571ee72dd7802f5]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A2(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A2/3/c/iii) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/iv)
+[^c-28df8b3ec58dd898d571ee72dd7802f5]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A2(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A2/3/c/iii) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/b/iv)
 
-[^key-5e3e424b05408258d711067f120d6a2b]: Textual amendment: Sch. 2 Pt. 16 para. A.2(3)(d)(e) and semicolon inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/c)
+[^c-5e3e424b05408258d711067f120d6a2b]: Textual amendment: Sch. 2 Pt. 16 para. A.2(3)(d)(e) and semicolon inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/278/article/4/3/c)
 
-[^key-a53f311b798b0b097b2024e2b4cc1a8a]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/d/i) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/b/i)
+[^c-a53f311b798b0b097b2024e2b4cc1a8a]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/d/i) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/b/i)
 
-[^key-54d872a30d3e69ba6f60c2e8a39dfad8]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/d/i/bb) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/b/ii)
+[^c-54d872a30d3e69ba6f60c2e8a39dfad8]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(3)(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/3/d/i/bb) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/2/b/ii)
 
-[^key-8e70b213c5a51366e6bbfa00c11d866b]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(4)(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/a) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/4/4/a)
+[^c-8e70b213c5a51366e6bbfa00c11d866b]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(4)(a)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/a) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/4/4/a)
 
-[^key-6f661488a950a3b03e92d950e9c40962]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(4)(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/b) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/4/4/b)
+[^c-6f661488a950a3b03e92d950e9c40962]: Textual amendment: Word in [Sch. 2 Pt. 16 para. A.2(4)(b)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/b) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/4/4/b)
 
-[^key-7dafaec1651a6825b653632ef0afd76b]: Textual amendment: [Sch. 2 Pt. 16 para. A.2(4)(c)-(e)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/c) and semicolon inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2022/278/article/4/4/c)
+[^c-7dafaec1651a6825b653632ef0afd76b]: Textual amendment: [Sch. 2 Pt. 16 para. A.2(4)(c)-(e)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/c) and semicolon inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2022/278/article/4/4/c)
 
-[^key-5a933f59e242dc4772da10754d0e386f]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(4)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/d) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/3/a/i)
+[^c-5a933f59e242dc4772da10754d0e386f]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(4)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/d) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(3)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/3/a/i)
 
-[^key-4673fcace7381c8e4aa3186239c00160]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(4)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/d) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/3/a/ii)
+[^c-4673fcace7381c8e4aa3186239c00160]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(4)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/d) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/3/a/ii)
 
-[^key-722ee5c396e3f444450cc6ff7df7dba5]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(4)(e)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/e) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/3/b)
+[^c-722ee5c396e3f444450cc6ff7df7dba5]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.2(4)(e)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.2/4/e) inserted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/3/b)
 
-[^key-bb81f96d73864cb0d27972bf2b4eaac8]: Textual amendment: Words in Sch. 2 Pt. 16 Class A para. A.2(5) omitted (6.4.2018) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [15](https://www.legislation.gov.uk/uksi/2018/343/article/15)
+[^c-bb81f96d73864cb0d27972bf2b4eaac8]: Textual amendment: Words in Sch. 2 Pt. 16 Class A para. A.2(5) omitted (6.4.2018) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2018 (S.I. 2018/343)](https://www.legislation.gov.uk/uksi/2018/343), [arts. 1](https://www.legislation.gov.uk/uksi/2018/343/article/1), [15](https://www.legislation.gov.uk/uksi/2018/343/article/15)
 
-[^key-15bc8a003c4bebd2bb81186268939533]: Textual amendment: Sch. 2 Pt. 16 para. A.2(5A)(5B) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/278/article/4/5)
+[^c-15bc8a003c4bebd2bb81186268939533]: Textual amendment: Sch. 2 Pt. 16 para. A.2(5A)(5B) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/278/article/4/5)
 
-[^key-7388d5903c2af04a0f9433d3fcb8d998]: Textual amendment: [Sch. 2 Pt. 16 para. A.3(3)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/3) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/278/article/5/2)
+[^c-7388d5903c2af04a0f9433d3fcb8d998]: Textual amendment: [Sch. 2 Pt. 16 para. A.3(3)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/3) omitted (4.4.2022) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2022/278/article/5/2)
 
-[^key-10f77be85b830b95ed9e744dbf1f7fe2]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.3(5)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/5/d) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/5/3/a)
+[^c-10f77be85b830b95ed9e744dbf1f7fe2]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.3(5)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/5/d) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2022/278/article/5/3/a)
 
-[^key-20816eed5bbe2890d8a7dbc08b811cc6]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.3(5)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/5/d) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/5/3/b)
+[^c-20816eed5bbe2890d8a7dbc08b811cc6]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.3(5)(d)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/5/d) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2022/278/article/5/3/b)
 
-[^key-36817114ede986181ae270e4c89eaf5c]: Textual amendment: [Sch. 2 Pt. 16 para. A.3(6)(ab)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/6/ab) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2022/278/article/5/4)
+[^c-36817114ede986181ae270e4c89eaf5c]: Textual amendment: [Sch. 2 Pt. 16 para. A.3(6)(ab)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/6/ab) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2022/278/article/5/4)
 
-[^key-9d2fe80ec179303f6ffbaa39a0eedb4e]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.3(7)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/7) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2022/278/article/5/5)
+[^c-9d2fe80ec179303f6ffbaa39a0eedb4e]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.3(7)](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.3/7) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2022/278/article/5/5)
 
 [^M_F_ef7c4efa-00b8-4f53-fad8-76c1086830a7]: Textual amendment: Sch. 2 Pt. 16 Class A para. A.3(13) inserted (coming into force in accordance with art. 1(6) of the amending S.I.) by [The Town and Country Planning (Local Authority Consultations etc.) (England) Order 2018 (S.I. 2018/119)](https://www.legislation.gov.uk/uksi/2018/119), [art. 26(6)](https://www.legislation.gov.uk/uksi/2018/119/article/26/6)
 
-[^key-394cd1eb730bdaa91a67835511798498]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/278/article/6/a)
+[^c-394cd1eb730bdaa91a67835511798498]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/278/article/6/a)
 
-[^key-b7de15d8f97357f615f598cea571ba1b]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2022/278/article/6/b)
+[^c-b7de15d8f97357f615f598cea571ba1b]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2022/278/article/6/b)
 
-[^key-c8f5d4846909ba7fa7aaad420d1ad953]: Textual amendment: Words in Sch. 2 Pt. 16 Class A para. A.4 inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(d)(i)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/d/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
+[^c-c8f5d4846909ba7fa7aaad420d1ad953]: Textual amendment: Words in Sch. 2 Pt. 16 Class A para. A.4 inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(d)(i)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/d/i) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
 
-[^key-8e1f6226584600efed64459bec55a003]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2022/278/article/6/c)
+[^c-8e1f6226584600efed64459bec55a003]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2022/278/article/6/c)
 
-[^key-41d68dad5a56dd3e5bb41c258390d87d]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2022/278/article/6/d)
+[^c-41d68dad5a56dd3e5bb41c258390d87d]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2022/278/article/6/d)
 
-[^key-14a171b4a94258e50019c720c22e1813]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2022/278/article/6/e)
+[^c-14a171b4a94258e50019c720c22e1813]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2022/278/article/6/e)
 
-[^key-fa5cffef77afbea8bbe06d6395bc96cc]: Textual amendment: Words in Sch. 2 Pt. 16 Class A para. A.4 inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/d/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
+[^c-fa5cffef77afbea8bbe06d6395bc96cc]: Textual amendment: Words in Sch. 2 Pt. 16 Class A para. A.4 inserted (25.5.2019) by [The Town and Country Planning (Permitted Development, Advertisement and Compensation Amendments) (England) Regulations 2019 (S.I. 2019/907)](https://www.legislation.gov.uk/uksi/2019/907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/907/regulation/1/2), [16(d)(ii)](https://www.legislation.gov.uk/uksi/2019/907/regulation/16/d/ii) (with [reg. 19](https://www.legislation.gov.uk/uksi/2019/907/regulation/19))
 
-[^key-ecc65bfd7f611b80ba403b37dce5016b]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(f)](https://www.legislation.gov.uk/uksi/2022/278/article/6/f)
+[^c-ecc65bfd7f611b80ba403b37dce5016b]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(f)](https://www.legislation.gov.uk/uksi/2022/278/article/6/f)
 
-[^key-ac0e723d75fa16fa37ade37b184678a9]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/4/a)
+[^c-ac0e723d75fa16fa37ade37b184678a9]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) substituted (21.12.2023) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(4)(a)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/4/a)
 
-[^key-58b63c2b36b2bb242ceeb556337642e9]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(g)](https://www.legislation.gov.uk/uksi/2022/278/article/6/g)
+[^c-58b63c2b36b2bb242ceeb556337642e9]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) substituted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(g)](https://www.legislation.gov.uk/uksi/2022/278/article/6/g)
 
-[^key-ee7771e7a4504fca9c26280aea7533ee]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/4/b)
+[^c-ee7771e7a4504fca9c26280aea7533ee]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) omitted (21.12.2023) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2023 (S.I. 2023/1279)](https://www.legislation.gov.uk/uksi/2023/1279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1279/article/1/1), [10(4)(b)](https://www.legislation.gov.uk/uksi/2023/1279/article/10/4/b)
 
-[^key-b0bdd42e8bfcd15a76829baaa3617194]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(h)](https://www.legislation.gov.uk/uksi/2022/278/article/6/h)
+[^c-b0bdd42e8bfcd15a76829baaa3617194]: Textual amendment: Words in [Sch. 2 Pt. 16 para. A.4](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/16/paragraph/A.4) inserted (4.4.2022) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2022 (S.I. 2022/278)](https://www.legislation.gov.uk/uksi/2022/278), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/278/article/1/1), [6(h)](https://www.legislation.gov.uk/uksi/2022/278/article/6/h)
 
-[^key-78e95c42794fc31d79e2a7d231744ce5]: Textual amendment: Words in Sch. 2 Pt. 16 Class B heading substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/9/2/b/i); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2)
+[^c-78e95c42794fc31d79e2a7d231744ce5]: Textual amendment: Words in Sch. 2 Pt. 16 Class B heading substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 9(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/9/2/b/i); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2)
 
 [^c22502041]: Marginal citation: [1989 c. 22](https://www.legislation.gov.uk/ukpga/1989/22).
 
-[^key-be86a18a58a335a9176b0ee68502f8ed]: Textual amendment: Words in Sch. 2 Pt. 16 Class C heading substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/9/2/b/ii); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2)
+[^c-be86a18a58a335a9176b0ee68502f8ed]: Textual amendment: Words in Sch. 2 Pt. 16 Class C heading substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 3 para. 9(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/3/paragraph/9/2/b/ii); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2)
 
 [^c22502051]: Marginal citation: [1989 c. 22](https://www.legislation.gov.uk/ukpga/1989/22).
 
@@ -8163,7 +8163,7 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22502131]: Marginal citation: Section 78 was amended by section 17(2) of the [Planning and Compensation Act 1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), [Schedules 10](https://www.legislation.gov.uk/ukpga/1991/34/schedule/10) and 11 to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [section 123](https://www.legislation.gov.uk/ukpga/2008/29/section/123) of, and Schedule 12 to, the [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and Schedule 1 to the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-032c222fe5a669a4b7b72fa0444c5fb3]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. D.1(b)(i) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/i)
+[^c-032c222fe5a669a4b7b72fa0444c5fb3]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. D.1(b)(i) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(i)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/i)
 
 [^c22502141]: Marginal citation: [S.I. 1988/1813](https://www.legislation.gov.uk/uksi/1988/1813).
 
@@ -8175,37 +8175,37 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22502181]: Marginal citation: *See* section 1(4) of the Act.
 
-[^key-db4df507172ce71166f5beecf1dd1594]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. H.3 substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/ii/aa)
+[^c-db4df507172ce71166f5beecf1dd1594]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. H.3 substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/ii/aa)
 
-[^key-7f991ea00666e9d8cc4423a639a8b910]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. H.3 inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/ii/bb)
+[^c-7f991ea00666e9d8cc4423a639a8b910]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. H.3 inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/ii/bb)
 
 [^c22502201]: Marginal citation: *See* section 1(4) of the Act.
 
-[^key-a2aaaa580dedf029b075dd5e09b74245]: Textual amendment: Sch. 2 Pt. 17 Class J para. J.1(c) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2016/332/article/14/a/i) (with [art. 15(1)](https://www.legislation.gov.uk/uksi/2016/332/article/15/1))
+[^c-a2aaaa580dedf029b075dd5e09b74245]: Textual amendment: Sch. 2 Pt. 17 Class J para. J.1(c) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2016/332/article/14/a/i) (with [art. 15(1)](https://www.legislation.gov.uk/uksi/2016/332/article/15/1))
 
-[^key-ca8a7e6380c92523e134545689d94828]: Textual amendment: Word in Sch. 2 Pt. 17 Class J para. J.1(g) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2016/332/article/14/a/ii)
+[^c-ca8a7e6380c92523e134545689d94828]: Textual amendment: Word in Sch. 2 Pt. 17 Class J para. J.1(g) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2016/332/article/14/a/ii)
 
 [^c22502211]: Marginal citation: *See* section 1(4) of the Act.
 
-[^key-774312110066545a4954a7e87a24d8eb]: Textual amendment: Sch. 2 Pt. 17 Class JA and cross-heading inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2016/332/article/14/b)
+[^c-774312110066545a4954a7e87a24d8eb]: Textual amendment: Sch. 2 Pt. 17 Class JA and cross-heading inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2016/332/article/14/b)
 
 [^c22502221]: Marginal citation: *See* section 1(4) of the Act.
 
-[^key-75745fb36a45567667b9fe3bee8bd64d]: Textual amendment: Word in Sch. 2 Pt. 17 Class K para. K.1(f) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(c)](https://www.legislation.gov.uk/uksi/2016/332/article/14/c)
+[^c-75745fb36a45567667b9fe3bee8bd64d]: Textual amendment: Word in Sch. 2 Pt. 17 Class K para. K.1(f) substituted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(c)](https://www.legislation.gov.uk/uksi/2016/332/article/14/c)
 
-[^key-27e9165f6d9e071f470bdac4c29763b7]: Textual amendment: Sch. 2 Pt. 17 Class KA and cross-heading inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(d)](https://www.legislation.gov.uk/uksi/2016/332/article/14/d)
+[^c-27e9165f6d9e071f470bdac4c29763b7]: Textual amendment: Sch. 2 Pt. 17 Class KA and cross-heading inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(d)](https://www.legislation.gov.uk/uksi/2016/332/article/14/d)
 
 [^c22502231]: Marginal citation: *See* section 1(4) of the Act.
 
-[^key-438f2396a90baa56a5bd2c0f73a5fee6]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. N.1 substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/iii/aa)
+[^c-438f2396a90baa56a5bd2c0f73a5fee6]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. N.1 substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/iii/aa)
 
-[^key-50c0985603cfa42284081a07b6253a63]: Textual amendment: Words in Sch. 2 Pt. 17 para. N.1 inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(e)(i)](https://www.legislation.gov.uk/uksi/2016/332/article/14/e/i)
+[^c-50c0985603cfa42284081a07b6253a63]: Textual amendment: Words in Sch. 2 Pt. 17 para. N.1 inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(e)(i)](https://www.legislation.gov.uk/uksi/2016/332/article/14/e/i)
 
-[^key-b6fd47d47c02de08b591e64c85addc66]: Textual amendment: Words in Sch. 2 Pt. 17 para. N.1 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 86(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/86/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-b6fd47d47c02de08b591e64c85addc66]: Textual amendment: Words in Sch. 2 Pt. 17 para. N.1 substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 86(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/86/b) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-7d4bfb7804af115da2c2f3313f51d412]: Textual amendment: Words in Sch. 2 Pt. 17 para. N.1 inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(e)(ii)](https://www.legislation.gov.uk/uksi/2016/332/article/14/e/ii)
+[^c-7d4bfb7804af115da2c2f3313f51d412]: Textual amendment: Words in Sch. 2 Pt. 17 para. N.1 inserted (6.4.2016) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Order 2016 (S.I. 2016/332)](https://www.legislation.gov.uk/uksi/2016/332), [arts. 1](https://www.legislation.gov.uk/uksi/2016/332/article/1), [14(e)(ii)](https://www.legislation.gov.uk/uksi/2016/332/article/14/e/ii)
 
-[^key-7a0c8b2b68ffe052cd80e285a06588d9]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. N.1 substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/iii/bb)
+[^c-7a0c8b2b68ffe052cd80e285a06588d9]: Textual amendment: Words in [Sch. 2 Pt. 17](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/17) para. N.1 substituted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/b/iii/bb)
 
 [^c22502251]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Relevant amendments are Schedules 6 and 12 to the [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), [section 46](https://www.legislation.gov.uk/ukpga/1981/56/section/46) of the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [Schedule 3](https://www.legislation.gov.uk/ukpga/1982/48/schedule/3) to the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [Schedule 2](https://www.legislation.gov.uk/ukpga/1992/42/schedule/2) to the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [Schedule 21](https://www.legislation.gov.uk/ukpga/2008/29/schedule/21) to the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) and [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177) and 2009/1941.
 
@@ -8213,130 +8213,130 @@ and the provisions of paragraph B (prior approval) of this Part apply in relatio
 
 [^c22502271]: Marginal citation: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
-[^key-fe35e214626ed8091c19da1fd8a2a8a8]: Textual amendment: Sch. 2 Pt. 19 Class Q para. Q.1(b) substituted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1243/regulation/9)
+[^c-fe35e214626ed8091c19da1fd8a2a8a8]: Textual amendment: Sch. 2 Pt. 19 Class Q para. Q.1(b) substituted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1243/regulation/9)
 
-[^key-bdbcf5af2c59254c83e258524b18eb2e]: Textual amendment: Words in [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) para. Q.1(b) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/c/i)
+[^c-bdbcf5af2c59254c83e258524b18eb2e]: Textual amendment: Words in [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) para. Q.1(b) inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(c)(i)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/c/i)
 
-[^key-15e344a10b788c22a471b0c8cb5aad4c]: Textual amendment: Sch. 2 Pt. 19 Class QA inserted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1243/regulation/10)
+[^c-15e344a10b788c22a471b0c8cb5aad4c]: Textual amendment: Sch. 2 Pt. 19 Class QA inserted (3.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) Regulations 2020 (S.I. 2020/1243)](https://www.legislation.gov.uk/uksi/2020/1243), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1243/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/1243/regulation/10)
 
-[^key-3af95d8a07cf33e51b85ef9450a88d5a]: Textual amendment: Words in [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) para. QA.1 inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/c/ii)
+[^c-3af95d8a07cf33e51b85ef9450a88d5a]: Textual amendment: Words in [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) para. QA.1 inserted (1.5.2025) by [The Town and Country Planning (Consequential and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/412)](https://www.legislation.gov.uk/uksi/2025/412), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/412/regulation/1/1), [12(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/412/regulation/12/3/c/ii)
 
-[^key-53ab2b7d7b22c851cd61d9f5a5a7a4a9]: Textual amendment: [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) Class TA inserted (11.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/c), [8](https://www.legislation.gov.uk/uksi/2021/1464/article/8)
+[^c-53ab2b7d7b22c851cd61d9f5a5a7a4a9]: Textual amendment: [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) Class TA inserted (11.1.2022) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 3) Order 2021 (S.I. 2021/1464)](https://www.legislation.gov.uk/uksi/2021/1464), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2021/1464/article/1/2/c), [8](https://www.legislation.gov.uk/uksi/2021/1464/article/8)
 
-[^key-4161bfe6d68496e6219be9d7b7e3dc31]: Textual amendment: Words in [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) Class TA para. TA.4(7)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(vii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/vii)
+[^c-4161bfe6d68496e6219be9d7b7e3dc31]: Textual amendment: Words in [Sch. 2 Pt. 19](https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/19) Class TA para. TA.4(7)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(vii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/vii)
 
-[^key-51412801a79dcae109424446f98f4acf]: Textual amendment: Words in Sch. 2 Pt. 19 para. U substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 8(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/8/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-51412801a79dcae109424446f98f4acf]: Textual amendment: Words in Sch. 2 Pt. 19 para. U substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 8(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/8/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^c22502291]: Marginal citation: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38).
 
-[^key-33ab762f3bd5796ff06abdacbc3691a3]: Textual amendment: Sch. 2 Pt. 20 inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/632/regulation/22)
+[^c-33ab762f3bd5796ff06abdacbc3691a3]: Textual amendment: Sch. 2 Pt. 20 inserted (1.8.2020) by [The Town and Country Planning (Permitted Development and Miscellaneous Amendments) (England) (Coronavirus) Regulations 2020 (S.I. 2020/632)](https://www.legislation.gov.uk/uksi/2020/632), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/632/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2020/632/regulation/22)
 
-[^key-faf8c6351029e7fc80d7c0e4d499fa2a]: Textual amendment: Sch. 2 Pt. 20 Class ZA inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/756/article/4/2)
+[^c-faf8c6351029e7fc80d7c0e4d499fa2a]: Textual amendment: Sch. 2 Pt. 20 Class ZA inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/756/article/4/2)
 
-[^key-245571c8732de9db1930315d27ad0d79]: Textual amendment: Words in Sch. 2 Pt. 20 Class A para. A(c) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/a)
+[^c-245571c8732de9db1930315d27ad0d79]: Textual amendment: Words in Sch. 2 Pt. 20 Class A para. A(c) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/a)
 
-[^key-282157b87084b2f2014fa82d6daa7a04]: Textual amendment: Word in Sch. 2 Pt. 20 Class A para. A.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-282157b87084b2f2014fa82d6daa7a04]: Textual amendment: Word in Sch. 2 Pt. 20 Class A para. A.1(a) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-239889f4adfd3a0d058447ae6a34b710]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.1(e) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/i)
+[^c-239889f4adfd3a0d058447ae6a34b710]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.1(e) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/i)
 
-[^key-781f2d0d9b4cc61318f835ae34a083f0]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.1(g) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/ii)
+[^c-781f2d0d9b4cc61318f835ae34a083f0]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.1(g) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/ii)
 
-[^key-5f5d8979aefda52a8f86722e5c21179f]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.1(h) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/iii)
+[^c-5f5d8979aefda52a8f86722e5c21179f]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.1(h) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/iii)
 
-[^key-608ad080d12eec94cf55e1ed409b1d2c]: Textual amendment: Words in Sch. 2 Pt. 20 Class A para. A.1(l) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/iv)
+[^c-608ad080d12eec94cf55e1ed409b1d2c]: Textual amendment: Words in Sch. 2 Pt. 20 Class A para. A.1(l) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2020/755/article/4/2/b/iv)
 
-[^key-ba1d44d4aeac523d89bde5d4ecb5d50f]: Textual amendment: Word in Sch. 2 Pt. 20 Class A para. A.2(1)(g) omitted (30.12.2020) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
+[^c-ba1d44d4aeac523d89bde5d4ecb5d50f]: Textual amendment: Word in Sch. 2 Pt. 20 Class A para. A.2(1)(g) omitted (30.12.2020) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
 
-[^key-391a7e4f33e9cb47bbafb341f52f1268]: Textual amendment: Word in Sch. 2 Pt. 20 Class A para. A.2(1)(h) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/9/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-391a7e4f33e9cb47bbafb341f52f1268]: Textual amendment: Word in Sch. 2 Pt. 20 Class A para. A.2(1)(h) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/9/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-10a99e8a87891704eb38d874424b579b]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.2(1)(i) and word inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
+[^c-10a99e8a87891704eb38d874424b579b]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.2(1)(i) and word inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
 
-[^key-25d6ebbaeb458ed785802ddf80cd3abf]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.2(1)(j) and word inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-25d6ebbaeb458ed785802ddf80cd3abf]: Textual amendment: Sch. 2 Pt. 20 Class A para. A.2(1)(j) and word inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/2/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-d72c9429af71811555e4347ef1b8490b]: Textual amendment: Sch. 2 Pt. 20 para. B(1A)-(1C) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/756/article/5/2)
+[^c-d72c9429af71811555e4347ef1b8490b]: Textual amendment: Sch. 2 Pt. 20 para. B(1A)-(1C) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/756/article/5/2)
 
-[^key-f40441e574622ec226d27b2d6292e277]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(a) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/a/i)
+[^c-f40441e574622ec226d27b2d6292e277]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(a) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/a/i)
 
-[^key-488931d9e2c4a84fa43aff487e44faaf]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(a) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/a/ii)
+[^c-488931d9e2c4a84fa43aff487e44faaf]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(a) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/a/ii)
 
-[^key-ae43216feb5aabe548b3897bf0842d3c]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(c) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2021/428/article/12/3) (with [art. 15(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/15/2/b)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-ae43216feb5aabe548b3897bf0842d3c]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(c) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(3)](https://www.legislation.gov.uk/uksi/2021/428/article/12/3) (with [art. 15(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/15/2/b)[(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-b10bd1d21166c958efbdaac4a3faa165]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(d) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/b)
+[^c-b10bd1d21166c958efbdaac4a3faa165]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(d) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/b)
 
-[^key-cd0f39968d589ad1662b320f31af2f61]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(e) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/c)
+[^c-cd0f39968d589ad1662b320f31af2f61]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(e) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/c)
 
-[^key-a01d0ecf20e275eeb8206ca9e00a2c9d]: Textual amendment: Word in Sch. 2 Pt. 20 para. B(2)(g) omitted (30.12.2020) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/4/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
+[^c-a01d0ecf20e275eeb8206ca9e00a2c9d]: Textual amendment: Word in Sch. 2 Pt. 20 para. B(2)(g) omitted (30.12.2020) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/4/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
 
-[^key-eac4aa1a5244567fa29d01880512b537]: Textual amendment: Sch. 2 Pt. 20 para. B(2)(h) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/9/3/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-eac4aa1a5244567fa29d01880512b537]: Textual amendment: Sch. 2 Pt. 20 para. B(2)(h) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2021/814/article/9/3/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-705f4baf5cbbd24412324ee438ce0345]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(h)(ii) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/1056/article/9)
+[^c-705f4baf5cbbd24412324ee438ce0345]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(2)(h)(ii) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/1056/article/9)
 
-[^key-57bb7a38024523d9db2ad989b97ac94f]: Textual amendment: Sch. 2 Pt. 20 para. B(2)(i) and word inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/4/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
+[^c-57bb7a38024523d9db2ad989b97ac94f]: Textual amendment: Sch. 2 Pt. 20 para. B(2)(i) and word inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/4/a/ii) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
 
-[^key-72fc86c76860b412026b334459310a28]: Textual amendment: Sch. 2 Pt. 20 para. B(6A) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/3/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-72fc86c76860b412026b334459310a28]: Textual amendment: Sch. 2 Pt. 20 para. B(6A) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/3/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-baab04f0e8c4a4d8c89412ea451aa3d5]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(6A) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/1056/article/9)
+[^c-baab04f0e8c4a4d8c89412ea451aa3d5]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(6A) substituted (21.10.2026) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/1056)](https://www.legislation.gov.uk/uksi/2026/1056), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1056/article/1/2), [9](https://www.legislation.gov.uk/uksi/2026/1056/article/9)
 
-[^key-409e7a412d8fb3eeb403f5b34cc3c28f]: Textual amendment: Sch. 2 Pt. 20 para. B(9A) inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
+[^c-409e7a412d8fb3eeb403f5b34cc3c28f]: Textual amendment: Sch. 2 Pt. 20 para. B(9A) inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
 
-[^key-0142bc07f5c7ad929ca016d91e428183]: Textual amendment: Sch. 2 Pt. 20 para. B(10A) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/756/article/5/3)
+[^c-0142bc07f5c7ad929ca016d91e428183]: Textual amendment: Sch. 2 Pt. 20 para. B(10A) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2020/756/article/5/3)
 
-[^key-08c8a1199a21b3c914e9b641a77240af]: Textual amendment: Word in Sch. 2 Pt. 20 para. B(11) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/9/3/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-08c8a1199a21b3c914e9b641a77240af]: Textual amendment: Word in Sch. 2 Pt. 20 para. B(11) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(3)(c)](https://www.legislation.gov.uk/uksi/2021/814/article/9/3/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-c25fec243d9810070758fc2743648a41]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(11) substituted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/756/article/5/4)
+[^c-c25fec243d9810070758fc2743648a41]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(11) substituted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2020/756/article/5/4)
 
-[^key-0d9fee69a4fb303ff35c0557072ac58c]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(12)(b) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2020/756/article/5/5)
+[^c-0d9fee69a4fb303ff35c0557072ac58c]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(12)(b) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2020/756/article/5/5)
 
-[^key-f9d411c6b33b552f7da94d9a5e154087]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(12)(b) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/d)
+[^c-f9d411c6b33b552f7da94d9a5e154087]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(12)(b) substituted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2020/755/article/4/4/d)
 
 [^M_F_bd7f161f-d9c3-4936-9b4f-2ada756c35b3]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(14)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(viii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/viii)
 
 [^M_F_b74a5e78-03de-46e3-ddbd-ab2082c80fd5]: Textual amendment: Words in Sch. 2 Pt. 20 para. B(15)(b) omitted (9.4.2026) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2026 (S.I. 2026/313)](https://www.legislation.gov.uk/uksi/2026/313), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/313/article/1/2), [8(a)(viii)](https://www.legislation.gov.uk/uksi/2026/313/article/8/a/viii)
 
-[^key-00e81eb9312c5779390616bc639434f3]: Textual amendment: Sch. 2 Pt. 20 para. C renumbered as Sch. 2 Pt. 20 para. C(1) (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/e)
+[^c-00e81eb9312c5779390616bc639434f3]: Textual amendment: Sch. 2 Pt. 20 para. C renumbered as Sch. 2 Pt. 20 para. C(1) (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/e)
 
-[^key-9320265dbd28c231447f8b7e0d7dcdf3]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2020/756/article/6/a)
+[^c-9320265dbd28c231447f8b7e0d7dcdf3]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2020/756/article/6/a)
 
-[^key-642a549980923a0ac7385430849f97d8]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/756/article/6/b)
+[^c-642a549980923a0ac7385430849f97d8]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2020/756/article/6/b)
 
-[^key-8294ffcc17097a363b5aabc52b0584aa]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) substituted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2020/756/article/6/c)
+[^c-8294ffcc17097a363b5aabc52b0584aa]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) substituted (31.8.2020 at 10.00.a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 3) Order 2020 (S.I. 2020/756)](https://www.legislation.gov.uk/uksi/2020/756), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/756/article/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2020/756/article/6/c)
 
-[^key-a13c12f0b23fa4794df3f71624a039cb]: Textual amendment: Word in Sch. 2 Pt. 20 para. C(1) omitted (31.8.2020 at 9.00 a.m.) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/a)
+[^c-a13c12f0b23fa4794df3f71624a039cb]: Textual amendment: Word in Sch. 2 Pt. 20 para. C(1) omitted (31.8.2020 at 9.00 a.m.) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(a)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/a)
 
-[^key-a9990f02fa7530ed4f69d4e1e5acc572]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/b)
+[^c-a9990f02fa7530ed4f69d4e1e5acc572]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(b)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/b)
 
-[^key-bfee9bc57df789a2f7cc4ea83bd9ed04]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) omitted (31.8.2020 at 9.00 a.m.) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/c)
+[^c-bfee9bc57df789a2f7cc4ea83bd9ed04]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) omitted (31.8.2020 at 9.00 a.m.) by virtue of [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(c)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/c)
 
-[^key-46fc833af03d63b43caa2c0b4843b99a]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(d)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/d)
+[^c-46fc833af03d63b43caa2c0b4843b99a]: Textual amendment: Words in Sch. 2 Pt. 20 para. C(1) inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(d)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/d)
 
-[^key-e13fb1bd1eb168ea9d7ecc58e89812bd]: Textual amendment: Sch. 2 Pt. 20 para. C(2) inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/e)
+[^c-e13fb1bd1eb168ea9d7ecc58e89812bd]: Textual amendment: Sch. 2 Pt. 20 para. C(2) inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(5)(e)](https://www.legislation.gov.uk/uksi/2020/755/article/4/5/e)
 
-[^key-0850c9d6467f33b87505d40289b0386f]: Textual amendment: Sch. 2 Pt. 20 para. C(3) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2021/814/article/9/4) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-0850c9d6467f33b87505d40289b0386f]: Textual amendment: Sch. 2 Pt. 20 para. C(3) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2021/814/article/9/4) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-e300616759cd55a07306d23d93277dd0]: Textual amendment: Sch. 2 Pt. 20 Classes AA-AD inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/755/article/4/3)
+[^c-e300616759cd55a07306d23d93277dd0]: Textual amendment: Sch. 2 Pt. 20 Classes AA-AD inserted (31.8.2020 at 9.00 a.m.) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 2) Order 2020 (S.I. 2020/755)](https://www.legislation.gov.uk/uksi/2020/755), [arts. 1](https://www.legislation.gov.uk/uksi/2020/755/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/755/article/4/3)
 
-[^key-2ed39d1ca4613835346df4d0a5a13f4b]: Textual amendment: Words in Sch. 2 Pt. 20 Class AA para. AA(2)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-2ed39d1ca4613835346df4d0a5a13f4b]: Textual amendment: Words in Sch. 2 Pt. 20 Class AA para. AA(2)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-df21e7463f5d7ffa9f0242985b3fd682]: Textual amendment: Words in Sch. 2 Pt. 20 Class AA para. AA(2)(b)(ii) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-df21e7463f5d7ffa9f0242985b3fd682]: Textual amendment: Words in Sch. 2 Pt. 20 Class AA para. AA(2)(b)(ii) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-c527c13befda1f7ee40168a188a59363]: Textual amendment: Sch. 2 Pt. 20 Class AA para. AA(3) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-c527c13befda1f7ee40168a188a59363]: Textual amendment: Sch. 2 Pt. 20 Class AA para. AA(3) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-3b97d52d68b4f46898385f0810d05e06]: Textual amendment: Sch. 2 Pt. 20 Class AA para. AA.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-3b97d52d68b4f46898385f0810d05e06]: Textual amendment: Sch. 2 Pt. 20 Class AA para. AA.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/a) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-af25429e52b4117867847a8cf1cb64ba]: Textual amendment: Word in Sch. 2 Pt. 20 Class AA para. AA.2(1)(j) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-af25429e52b4117867847a8cf1cb64ba]: Textual amendment: Word in Sch. 2 Pt. 20 Class AA para. AA.2(1)(j) omitted (1.8.2021) by virtue of [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(c)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/c/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-90ff44498b2b6c5cb0f68bd8b63ea371]: Textual amendment: Sch. 2 Pt. 20 Class AA para. AA.2(1)(k) and word inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
+[^c-90ff44498b2b6c5cb0f68bd8b63ea371]: Textual amendment: Sch. 2 Pt. 20 Class AA para. AA.2(1)(k) and word inserted (30.12.2020) by [The Town and Country Planning (General Permitted Development) (England) (Amendment) (No. 4) Order 2020 (S.I. 2020/1459)](https://www.legislation.gov.uk/uksi/2020/1459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/1459/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1459/article/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2020/1459/article/3))
 
-[^key-8daf4b8e857b6ca15a2180cbbe8c98dc]: Textual amendment: Sch. 2 Pt. 20 Class AA.2 para. AA.2(l) and word inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-8daf4b8e857b6ca15a2180cbbe8c98dc]: Textual amendment: Sch. 2 Pt. 20 Class AA.2 para. AA.2(l) and word inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/9/5/c/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-5724d3a972de3845ea1daaf3eba0a9c8]: Textual amendment: Words in Sch. 2 Pt. 20 Class AB para. AB(2)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(6)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/9/6/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-5724d3a972de3845ea1daaf3eba0a9c8]: Textual amendment: Words in Sch. 2 Pt. 20 Class AB para. AB(2)(a) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(6)(a)(i)](https://www.legislation.gov.uk/uksi/2021/814/article/9/6/a/i) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-b7e34bf925c4dd1418e945258111dc4e]: Textual amendment: Words in Sch. 2 Pt. 20 Class AB para. AB(2)(b)(ii) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/9/6/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-b7e34bf925c4dd1418e945258111dc4e]: Textual amendment: Words in Sch. 2 Pt. 20 Class AB para. AB(2)(b)(ii) substituted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/814/article/9/6/a/ii) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-912de860a8c9d4eba0d30d61ffc28bed]: Textual amendment: Sch. 2 Pt. 20 Class AB para. AB(4) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/6/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
+[^c-912de860a8c9d4eba0d30d61ffc28bed]: Textual amendment: Sch. 2 Pt. 20 Class AB para. AB(4) inserted (1.8.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 (S.I. 2021/814)](https://www.legislation.gov.uk/uksi/2021/814), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1), [9(6)(b)](https://www.legislation.gov.uk/uksi/2021/814/article/9/6/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2021/814/schedule))
 
-[^key-e507f44aac26e666c6fe9e2c495af940]: Textual amendment: Sch. 2 Pt. 20 Class AB para. AB.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-e507f44aac26e666c6fe9e2c495af940]: Textual amendment: Sch. 2 Pt. 20 Class AB para. AB.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/b) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-471d2b5744441557704e5872a9bbe703]: Textual amendment: Sch. 2 Pt. 20 Class AC para. AC.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-471d2b5744441557704e5872a9bbe703]: Textual amendment: Sch. 2 Pt. 20 Class AC para. AC.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(c)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/c) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
 
-[^key-a7f9cc81a666d30f5fdc1cd48554873a]: Textual amendment: Sch. 2 Pt. 20 Class AD para. AD.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(d)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/d) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))
+[^c-a7f9cc81a666d30f5fdc1cd48554873a]: Textual amendment: Sch. 2 Pt. 20 Class AD para. AD.1(za) inserted (21.4.2021) by [The Town and Country Planning (General Permitted Development etc.) (England) (Amendment) Order 2021 (S.I. 2021/428)](https://www.legislation.gov.uk/uksi/2021/428), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/428/article/1/1), [12(1)(b)](https://www.legislation.gov.uk/uksi/2021/428/article/12/1/b)[(2)(d)](https://www.legislation.gov.uk/uksi/2021/428/article/12/2/d) (with [art. 15(3)](https://www.legislation.gov.uk/uksi/2021/428/article/15/3))

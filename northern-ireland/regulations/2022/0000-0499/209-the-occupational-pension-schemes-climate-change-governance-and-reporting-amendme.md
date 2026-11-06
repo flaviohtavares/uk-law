@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by Articles 41A, 41B and 166 (1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-268020fe507643f95be6d8a112d09516]
+## 1. Citation, commencement and interpretation[^c-268020fe507643f95be6d8a112d09516]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Climate Change Governance and Reporting) (Amendment, Modification and Transitional Provision) Regulations (Northern Ireland) 2022 and shall come into operation on 1st October 2022.
 
 (2) In these Regulations “**the Climate Change Regulations**” means the Occupational Pension Schemes (Climate Change Governance and Reporting) Regulations (Northern Ireland) 2021[^f00003].
 
-## 2. Amendment of the Climate Change Regulations[^key-6d9f08391fc865ae28ed5a4c6005328c]
+## 2. Amendment of the Climate Change Regulations[^c-6d9f08391fc865ae28ed5a4c6005328c]
 
 (1) The Climate Change Regulations are amended in accordance with paragraphs (2) and (3).
 
@@ -81,7 +81,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 (3) In Part 2 of the Schedule (information to be included in a report under regulation 6) in paragraph 27(n) after “paragraphs 18” insert “, 19A”.
 
-## 3. Modification of the Climate Change Regulations[^key-6ca4a7f40ff050cd0015447032c07fe3]
+## 3. Modification of the Climate Change Regulations[^c-6ca4a7f40ff050cd0015447032c07fe3]
 
 (1) The following modifications apply in respect of trustees of a trust scheme who are required to comply with the requirements in Part 1 of the Schedule to the Climate Change Regulations (climate change governance etc. requirements) before 1st October 2022, and who have not ceased to be subject to the requirements before that date.
 
@@ -93,7 +93,7 @@ The Department for Communities makes the following Regulations in exercise of th
 - (b) for “that first scheme year” there were substituted “that scheme year”;
 - (c) for “any day before the requirements apply” there were substituted “any day before the requirements under paragraph 19A apply”.
 
-**4.**[^key-85bbfd453cd590e18312d5d6913dd986][^key-6ca4a7f40ff050cd0015447032c07fe3] (1) The following modifications apply in respect of trustees of a trust scheme who are required to comply with the requirements in Part 1 of the Schedule to the Climate Change Regulations (climate change governance etc. requirements) before 1st October 2022 but who have ceased to be subject to the requirements before that date, where such trustees are subsequently required to comply with those requirements by virtue of regulation 3(4), 4(4) or 5(4) of the Climate Change Regulations.
+**4.**[^c-85bbfd453cd590e18312d5d6913dd986][^c-6ca4a7f40ff050cd0015447032c07fe3] (1) The following modifications apply in respect of trustees of a trust scheme who are required to comply with the requirements in Part 1 of the Schedule to the Climate Change Regulations (climate change governance etc. requirements) before 1st October 2022 but who have ceased to be subject to the requirements before that date, where such trustees are subsequently required to comply with those requirements by virtue of regulation 3(4), 4(4) or 5(4) of the Climate Change Regulations.
 
 (2) For the purposes of the amendments made by regulation 2(2)(b) and (c), paragraph 21 of the Schedule to the Climate Change Regulations is to be read as if—
 
@@ -101,7 +101,7 @@ The Department for Communities makes the following Regulations in exercise of th
 - (b) for “that first scheme year” there were substituted “that scheme year”;
 - (c) for “any day before the requirements apply” there were substituted “any day before the requirements under paragraph 19A apply”.
 
-## 5. Transitional provision[^key-2e2bbe3424fff9bc5d63b7c7aec61173]
+## 5. Transitional provision[^c-2e2bbe3424fff9bc5d63b7c7aec61173]
 
 (1) The amendment made by regulation 2(3) does not apply in respect of a scheme year which ends before 1st October 2022.
 
@@ -141,14 +141,14 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-268020fe507643f95be6d8a112d09516]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
+[^c-268020fe507643f95be6d8a112d09516]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2021 No. 244](https://www.legislation.gov.uk/nisr/2021/244)
 
-[^key-6d9f08391fc865ae28ed5a4c6005328c]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
+[^c-6d9f08391fc865ae28ed5a4c6005328c]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
 
-[^key-6ca4a7f40ff050cd0015447032c07fe3]: Commencement: Reg. 3 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
+[^c-6ca4a7f40ff050cd0015447032c07fe3]: Commencement: Reg. 3 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
 
-[^key-85bbfd453cd590e18312d5d6913dd986]: Commencement: Reg. 4 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
+[^c-85bbfd453cd590e18312d5d6913dd986]: Commencement: Reg. 4 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
 
-[^key-2e2bbe3424fff9bc5d63b7c7aec61173]: Commencement: Reg. 5 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)
+[^c-2e2bbe3424fff9bc5d63b7c7aec61173]: Commencement: Reg. 5 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/209/regulation/1/1)

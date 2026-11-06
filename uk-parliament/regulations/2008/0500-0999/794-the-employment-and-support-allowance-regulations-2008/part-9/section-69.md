@@ -37,7 +37,7 @@ summary: ''
 
   other than a person who is detained in hospital under the provisions of the Mental Health Act 1983 [^c1918925] or, in Scotland, under the provisions of the Mental Health (Care and Treatment) (Scotland) Act 2003 [^c1918926] or the Criminal Procedure (Scotland) Act 1995 [^c1918927].
 
-(3)[^key-42999f8176aefbec0e783d9c3effa940] In Schedule 5 “person serving a sentence of imprisonment detained in hospital” means a person (“P”) who satisfies either of the following conditions.
+(3)[^c-42999f8176aefbec0e783d9c3effa940] In Schedule 5 “person serving a sentence of imprisonment detained in hospital” means a person (“P”) who satisfies either of the following conditions.
 
 (4) The first condition is that—
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c1918927]: Textual amendment: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-42999f8176aefbec0e783d9c3effa940]: Textual amendment: Reg. 69(3)-(5) added (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/442/regulation/5/2)
+[^c-42999f8176aefbec0e783d9c3effa940]: Textual amendment: Reg. 69(3)-(5) added (25.3.2010) by [The Social Security (Persons Serving a Sentence of Imprisonment Detained in Hospital) Regulations 2010 (S.I. 2010/442)](https://www.legislation.gov.uk/uksi/2010/442), [regs. 1](https://www.legislation.gov.uk/uksi/2010/442/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2010/442/regulation/5/2)

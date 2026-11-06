@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Distribution to creditors[^key-c2810fed3a7621306c6d7379bd4b460b]
+## 115. Distribution to creditors[^c-c2810fed3a7621306c6d7379bd4b460b]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2810fed3a7621306c6d7379bd4b460b]: Commencement: [Rule 115](https://www.legislation.gov.uk/nisr/2026/11/rule/115) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c2810fed3a7621306c6d7379bd4b460b]: Commencement: [Rule 115](https://www.legislation.gov.uk/nisr/2026/11/rule/115) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

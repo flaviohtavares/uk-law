@@ -24,7 +24,7 @@ summary: ''
 
 Section 88
 
-### 1. Freezing orders[^key-fd831ed55dbe1cd07cdd5fc7524a24de]
+### 1. Freezing orders[^c-fd831ed55dbe1cd07cdd5fc7524a24de]
 
 (1) This Schedule applies in relation to civil proceedings where the claimant claims damages in those proceedings.
 
@@ -52,7 +52,7 @@ Section 88
   - (c) in relation to Scotland, has the meaning given by section 135 of the [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18) and includes proceedings under the Children (Scotland) Act 1995 and the [Children’s Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1);
 - “**the initial freezing period**” is the period of 2 years beginning with the day on which the freezing order is made.
 
-### 2. Extension of freezing order[^key-ef2d8f519186adc1aee191fb13364dad]
+### 2. Extension of freezing order[^c-ef2d8f519186adc1aee191fb13364dad]
 
 (1) This paragraph applies where a court has made a freezing order under paragraph 1.
 
@@ -71,7 +71,7 @@ Section 88
 
 (7) The damages to which the application relates are to remain in court until the court decides the application.
 
-### 3. Forfeiture[^key-833fbcd0a63a6becf92ea3088b5a8b64]
+### 3. Forfeiture[^c-833fbcd0a63a6becf92ea3088b5a8b64]
 
 (1) This paragraph applies where a court has made an extension order under paragraph 2.
 
@@ -92,7 +92,7 @@ Section 88
 
 (8) The damages to which the application relates are to remain in court until the court decides the application.
 
-### 4. Interpretation[^key-c8d2d9fcc21a91b92f4dc50e818e1d81]
+### 4. Interpretation[^c-c8d2d9fcc21a91b92f4dc50e818e1d81]
 
 In this Schedule—
 
@@ -104,18 +104,18 @@ In this Schedule—
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975 and also includes the Commissioners for His Majesty’s Revenue and Customs;
 - “**terrorism**” has the same meaning as in the Terrorism Act 2000.
 
-**5.**[^key-6992818e972bf21468558d9957ec04e4] (1) In the application of this Schedule to Northern Ireland, a reference to a claimant is to be read as a reference to a plaintiff.
+**5.**[^c-6992818e972bf21468558d9957ec04e4] (1) In the application of this Schedule to Northern Ireland, a reference to a claimant is to be read as a reference to a plaintiff.
 
 (2) In the application of this Schedule to Scotland, a reference to a claimant is to be read as a reference to a pursuer or, as the case may be, a plaintiff.
 
 ## Annotations
 
-[^key-fd831ed55dbe1cd07cdd5fc7524a24de]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see 100(1)
+[^c-fd831ed55dbe1cd07cdd5fc7524a24de]: Commencement: Sch. 16 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-ef2d8f519186adc1aee191fb13364dad]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see 100(1)
+[^c-ef2d8f519186adc1aee191fb13364dad]: Commencement: Sch. 16 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-833fbcd0a63a6becf92ea3088b5a8b64]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see 100(1)
+[^c-833fbcd0a63a6becf92ea3088b5a8b64]: Commencement: Sch. 16 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-c8d2d9fcc21a91b92f4dc50e818e1d81]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see 100(1)
+[^c-c8d2d9fcc21a91b92f4dc50e818e1d81]: Commencement: Sch. 16 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-6992818e972bf21468558d9957ec04e4]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see 100(1)
+[^c-6992818e972bf21468558d9957ec04e4]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see 100(1)

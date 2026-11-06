@@ -46,7 +46,7 @@ In accordance with section 21 of that Act, the Department has consulted the repr
 
 In accordance with section 3(5) of that Act, the Department of Finance[^f00003] has consented to the making of these Regulations.
 
-## 1. Citation, commencement and effect[^key-4b1fbc2336c8901f64b1e6e4c99465e0]
+## 1. Citation, commencement and effect[^c-4b1fbc2336c8901f64b1e6e4c99465e0]
 
 (1) These Regulations may be cited as the Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022.
 
@@ -57,19 +57,19 @@ In accordance with section 3(5) of that Act, the Department of Finance[^f00003] 
 - (a) paragraph 4(7) of Schedule 1 from 1 April 2015;
 - (b) paragraph 4 of Schedule 3 from 1 April 2006;
 
-## 2. Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^key-19c0dfef481c333d8c573eb262d8e23e]
+## 2. Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^c-19c0dfef481c333d8c573eb262d8e23e]
 
 The Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015[^f00004] which establish the Firefighters’ Pension Scheme 2015 shall be amended in accordance with Schedule 1.
 
-## 3. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-3ae1cf188d34e04c768f9e716e11095e]
+## 3. Amendment to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-3ae1cf188d34e04c768f9e716e11095e]
 
 The Annex to the New Firefighter’s Pension Scheme Order (Northern Ireland) 2007[^f00005] shall be amended in accordance with Schedule 2.
 
-## 4. Amendment of the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^key-b67b576e6d0507e53baf0a912e49048a]
+## 4. Amendment of the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^c-b67b576e6d0507e53baf0a912e49048a]
 
 The Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007[^f00006] shall be amended in accordance with Schedule 3.
 
-## 5. Amendment of the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007[^key-841cd2939d2beff134e80369f7c44f97]
+## 5. Amendment of the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007[^c-841cd2939d2beff134e80369f7c44f97]
 
 The Annex to the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007[^f00007] shall be amended in accordance with Schedule 4.
 
@@ -95,7 +95,7 @@ SCHEDULES
 
 ## SCHEDULE 1 — Amendment to the Firefighters’ Pension Scheme Regulations (Northern Ireland) 2015
 
-**1.**[^key-4262d5de5069a88ed750016d4d3a23de] In Chapter 4 (Ill-health benefits) of Part 5 (Retirement benefits) after regulation 73(2) (entitlement to lower tier ill-health pension and higher tier ill-health pension) insert—
+**1.**[^c-4262d5de5069a88ed750016d4d3a23de] In Chapter 4 (Ill-health benefits) of Part 5 (Retirement benefits) after regulation 73(2) (entitlement to lower tier ill-health pension and higher tier ill-health pension) insert—
 
 > (2A) This paragraph applies where—
 >
@@ -104,7 +104,7 @@ SCHEDULES
 
 .
 
-**2.**[^key-9b66d6b5b10d15382e0f2ec815689099] (1) Part 12 (Determination of Questions of Appeals) is amended as follows.
+**2.**[^c-9b66d6b5b10d15382e0f2ec815689099] (1) Part 12 (Determination of Questions of Appeals) is amended as follows.
 
 (2) Omit regulation 160 (Determinations by the Scheme Manager).
 
@@ -134,11 +134,11 @@ SCHEDULES
 
 .
 
-**3.**[^key-466855934f5333ac8881eea18de944a7] In Part 13 (Supplementary) for regulation 179 (Scheme administrator for the purposes of the 2004 Act) omit the words “which the scheme manager assumes as sub-scheme administrator under regulation 3 of, and Schedule 3 to the Registered Pension Schemes (Splitting of Schemes) Regulations 2006”.
+**3.**[^c-466855934f5333ac8881eea18de944a7] In Part 13 (Supplementary) for regulation 179 (Scheme administrator for the purposes of the 2004 Act) omit the words “which the scheme manager assumes as sub-scheme administrator under regulation 3 of, and Schedule 3 to the Registered Pension Schemes (Splitting of Schemes) Regulations 2006”.
 
-**4.**[^key-c0d6045db430f397a9e393bac070b6f0] (1)[^key-c0d6045db430f397a9e393bac070b6f0] Schedule 2 (transitional provisions) is amended as follows.
+**4.**[^c-c0d6045db430f397a9e393bac070b6f0] (1)[^c-c0d6045db430f397a9e393bac070b6f0] Schedule 2 (transitional provisions) is amended as follows.
 
-(2)[^key-c0d6045db430f397a9e393bac070b6f0] In paragraph 1 (Interpretation)—
+(2)[^c-c0d6045db430f397a9e393bac070b6f0] In paragraph 1 (Interpretation)—
 
 - (a) in the definition of “closing date”, in sub-paragraph (c), for from “member, or” to the end substitute—
 
@@ -157,9 +157,9 @@ SCHEDULES
 
   .
 
-(3)[^key-c0d6045db430f397a9e393bac070b6f0] In paragraph 3(3) (meaning of “**tapered protection closing date**”), at the end insert “which must be before 1st April 2022”.
+(3)[^c-c0d6045db430f397a9e393bac070b6f0] In paragraph 3(3) (meaning of “**tapered protection closing date**”), at the end insert “which must be before 1st April 2022”.
 
-(4)[^key-c0d6045db430f397a9e393bac070b6f0] In paragraph 9(2) (full protection members of the FPS or the NFPS), for from “as the case may be,” to the end substitute—
+(4)[^c-c0d6045db430f397a9e393bac070b6f0] In paragraph 9(2) (full protection members of the FPS or the NFPS), for from “as the case may be,” to the end substitute—
 
 > as the case may be—
 >
@@ -168,17 +168,17 @@ SCHEDULES
 
 .
 
-(5)[^key-c0d6045db430f397a9e393bac070b6f0] In paragraph 31(2)(a) (pensionable service under the NFPS), omit the words from “or if T returns to pensionable service” to the end.
+(5)[^c-c0d6045db430f397a9e393bac070b6f0] In paragraph 31(2)(a) (pensionable service under the NFPS), omit the words from “or if T returns to pensionable service” to the end.
 
-(6)[^key-c0d6045db430f397a9e393bac070b6f0] Omit paragraphs 37 (Scheme manager determines member of the NFPS is not entitled to an ill-health award) and 38 (Scheme manager determines member of the FPS is not entitled to an ill-health award).
+(6)[^c-c0d6045db430f397a9e393bac070b6f0] Omit paragraphs 37 (Scheme manager determines member of the NFPS is not entitled to an ill-health award) and 38 (Scheme manager determines member of the FPS is not entitled to an ill-health award).
 
-(7)[^key-5500b4cf2f79b45a76fa00cc93dbe695] In Part 3D[^f00010] (Transfer of final salary benefits) in paragraph 45 (Acceptance of club transfer value payments), after “relates to a member’s final salary benefit” insert “apart from a payment from the Firefighters’ Pension Scheme (FPS) as that scheme has effect in England, Scotland and Wales ”.
+(7)[^c-5500b4cf2f79b45a76fa00cc93dbe695] In Part 3D[^f00010] (Transfer of final salary benefits) in paragraph 45 (Acceptance of club transfer value payments), after “relates to a member’s final salary benefit” insert “apart from a payment from the Firefighters’ Pension Scheme (FPS) as that scheme has effect in England, Scotland and Wales ”.
 
 ## SCHEDULE 2 — Amendment to the Annex to the New Firefighters’ Pension Scheme Order (Northern Ireland) 2007
 
-**1.**[^key-61d852a4b870be981831af49e3aa64e3] In Part 1 (Citation and Interpretation) in article 2 (Interpretation) at the end of the definition “survivor’s pension” remove “and”.
+**1.**[^c-61d852a4b870be981831af49e3aa64e3] In Part 1 (Citation and Interpretation) in article 2 (Interpretation) at the end of the definition “survivor’s pension” remove “and”.
 
-**2.**[^key-1feebb8bbc3223ecbcdc2968e7164ae7] (1) Part 8 (Determination of questions and appeals) is amended as follows.
+**2.**[^c-1feebb8bbc3223ecbcdc2968e7164ae7] (1) Part 8 (Determination of questions and appeals) is amended as follows.
 
 (2) In article 46 (Determination and decisions of the Board)—
 
@@ -192,17 +192,17 @@ SCHEDULES
 >
 > Where a person makes a formal complaint to the Board which does not involve an issue of a medical nature, the Board shall deal with the complaint under the arrangements implemented by it pursuant to the requirements of article 50 of the Pensions (Northern Ireland) Order 1995[^f00011] (requirement for dispute resolution arrangements) and the Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous amendments) Regulations (Northern Ireland) 2008[^f00012].
 
-**3.**[^key-820c013f5feaf09564fbea57eb3d4586] In Schedule 1 (ill-health pensions) re-number paragraph 7[^f00013] as paragraph 3D.
+**3.**[^c-820c013f5feaf09564fbea57eb3d4586] In Schedule 1 (ill-health pensions) re-number paragraph 7[^f00013] as paragraph 3D.
 
 ## SCHEDULE 3 — Amendment to the Annex to the Firefighters’ Pension Scheme Order (Northern Ireland) 2007
 
-**1.**[^key-34851d84447fc14ebfe2c4487ce8ab55] In Part H (Determination of questions and appeals) for article 67 (Appeal against decision of the Board) substitute—
+**1.**[^c-34851d84447fc14ebfe2c4487ce8ab55] In Part H (Determination of questions and appeals) for article 67 (Appeal against decision of the Board) substitute—
 
 > **67. Appeals on other issues**
 >
 > Where a person makes a formal complaint to the Board which does not involve an issue of a medical nature, the Board shall deal with the complaint under the arrangements implemented by it pursuant to the requirements of article 50 of the Pensions (Northern Ireland) Order 1995[^f00014] (requirement for dispute resolution arrangements) and the Occupations Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2008[^f00015].
 
-**2.**[^key-e7ef3c89a4ce1e6e7d87568033398c1e] In Part L (Revision and Withdrawal of awards) for article 83 (Withdrawal of pension whilst employed by the Board) substitute—
+**2.**[^c-e7ef3c89a4ce1e6e7d87568033398c1e] In Part L (Revision and Withdrawal of awards) for article 83 (Withdrawal of pension whilst employed by the Board) substitute—
 
 > **83. Withdrawal of pension whilst employed by the Board**
 >
@@ -210,7 +210,7 @@ SCHEDULES
 
 .
 
-**3.**[^key-dd4f369bd123e146409349eeaf2590b0] In Part N (Scheme administration, receipts and expenses) for article 88 (Scheme administrator for purposes of Part 4 of the Finance Act 2004) substitute—
+**3.**[^c-dd4f369bd123e146409349eeaf2590b0] In Part N (Scheme administration, receipts and expenses) for article 88 (Scheme administrator for purposes of Part 4 of the Finance Act 2004) substitute—
 
 > **88. Scheme administrator for the purposes of Part 4 of the Finance Act 2004**
 >
@@ -218,13 +218,13 @@ SCHEDULES
 
 .
 
-**4.**[^key-01f199843477b9ca2fb638c0fd1e1ca4] In Part P (Firefighters’ pension fund) in article 91(2) for “article 17 (ill-health award)” substitute “article 15 (ill-health award)”.
+**4.**[^c-01f199843477b9ca2fb638c0fd1e1ca4] In Part P (Firefighters’ pension fund) in article 91(2) for “article 17 (ill-health award)” substitute “article 15 (ill-health award)”.
 
 ## SCHEDULE 4 — Amendment to the Annex to the Firefighters’ Compensation Scheme Order (Northern Ireland) 2007
 
-**1.**[^key-cf1171b7dddf4a761ada0713d530224e] (1) In Part 1 (General Provisions) in rule 2 (Interpretation) for ‘qualified medical practitioner’ substitute ‘independent qualified medical practitioner’.
+**1.**[^c-cf1171b7dddf4a761ada0713d530224e] (1) In Part 1 (General Provisions) in rule 2 (Interpretation) for ‘qualified medical practitioner’ substitute ‘independent qualified medical practitioner’.
 
-**2.**[^key-338ed05edada19945fb34928a442673a] (1) Part 6 (Determination of questions and appeals) is amended as follows.
+**2.**[^c-338ed05edada19945fb34928a442673a] (1) Part 6 (Determination of questions and appeals) is amended as follows.
 
 (2) In rule 1 (Determination by board) in paragraph (2) for “a qualified medical practitioner” substitute “an independent qualified medical practitioner”.
 
@@ -281,67 +281,67 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5).
 
-[^key-4b1fbc2336c8901f64b1e6e4c99465e0]: Commencement: Reg. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-4b1fbc2336c8901f64b1e6e4c99465e0]: Commencement: Reg. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-19c0dfef481c333d8c573eb262d8e23e]: Commencement: Reg. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-19c0dfef481c333d8c573eb262d8e23e]: Commencement: Reg. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2015 No. 78](https://www.legislation.gov.uk/nisr/2015/78), amended by [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420).
 
-[^key-3ae1cf188d34e04c768f9e716e11095e]: Commencement: Reg. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-3ae1cf188d34e04c768f9e716e11095e]: Commencement: Reg. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2007 No. 215](https://www.legislation.gov.uk/nisr/2007/215), amended by [S.R. 2008 No. 381](https://www.legislation.gov.uk/nisr/2008/381), [S.R. 2012 No. 162](https://www.legislation.gov.uk/nisr/2012/162), [S.R. 2013 No. 84](https://www.legislation.gov.uk/nisr/2013/84) and No. 172, [S.R. 2014 No. 57](https://www.legislation.gov.uk/nisr/2014/57) and No. 168, and [S.R. 2015 No. 9](https://www.legislation.gov.uk/nisr/2015/9) and No. [10](https://www.legislation.gov.uk/nisr/2015/10), [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420) and No. [422](https://www.legislation.gov.uk/nisr/2015/422).
 
-[^key-b67b576e6d0507e53baf0a912e49048a]: Commencement: Reg. 4 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-b67b576e6d0507e53baf0a912e49048a]: Commencement: Reg. 4 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 2007 No. 144](https://www.legislation.gov.uk/nisr/2007/144), amended by [S.R 2008 No. 382](https://www.legislation.gov.uk/nisr/2008/382), [S.R. 2012 No. 161](https://www.legislation.gov.uk/nisr/2012/161), [S.R. 2013 No. 85](https://www.legislation.gov.uk/nisr/2013/85), [S.R. 2014 No. 56](https://www.legislation.gov.uk/nisr/2014/56) and No. [169](https://www.legislation.gov.uk/nisr/2014/169), [S.R. 2015 No.8](https://www.legislation.gov.uk/nisr/2015/8), No. [11](https://www.legislation.gov.uk/nisr/2015/11), No. [420](https://www.legislation.gov.uk/nisr/2015/420) and No. [421](https://www.legislation.gov.uk/nisr/2015/421) and [S.R. 2019 No. 109](https://www.legislation.gov.uk/nisr/2019/109).
 
-[^key-841cd2939d2beff134e80369f7c44f97]: Commencement: Reg. 5 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-841cd2939d2beff134e80369f7c44f97]: Commencement: Reg. 5 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 2007 No. 143](https://www.legislation.gov.uk/nisr/2007/143) amended by [S.R. 2008 No. 238](https://www.legislation.gov.uk/nisr/2008/238), [S.R. 2015 No. 7](https://www.legislation.gov.uk/nisr/2015/7) and [S.R. 2015 No. 422](https://www.legislation.gov.uk/nisr/2015/422).
 
-[^key-4262d5de5069a88ed750016d4d3a23de]: Commencement: Sch. 1 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-4262d5de5069a88ed750016d4d3a23de]: Commencement: Sch. 1 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-9b66d6b5b10d15382e0f2ec815689099]: Commencement: Sch. 1 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-9b66d6b5b10d15382e0f2ec815689099]: Commencement: Sch. 1 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 1995 No 3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); section 50 was substituted by Article 250 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005 No 255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and amended by the Pensions Act (Northern Ireland) 2008 (Chapter 1).
 
 [^f00009]: Footnote: [S.R. 2008 No.116](https://www.legislation.gov.uk/nisr/2008/116).
 
-[^key-466855934f5333ac8881eea18de944a7]: Commencement: Sch. 1 para. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-466855934f5333ac8881eea18de944a7]: Commencement: Sch. 1 para. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-c0d6045db430f397a9e393bac070b6f0]: Commencement: Sch. 1 para. 4(1)-(6) in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-c0d6045db430f397a9e393bac070b6f0]: Commencement: Sch. 1 para. 4(1)-(6) in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-5500b4cf2f79b45a76fa00cc93dbe695]: Commencement: [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/7) in operation at 1.4.2022 with effect in accordance with reg. 1(3)(a), see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/3/a)
+[^c-5500b4cf2f79b45a76fa00cc93dbe695]: Commencement: [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/4/7) in operation at 1.4.2022 with effect in accordance with reg. 1(3)(a), see [reg. 1(3)(a)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/3/a)
 
 [^f00010]: Footnote: Part 3D was inserted by S.R, [2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420).
 
-[^key-61d852a4b870be981831af49e3aa64e3]: Commencement: Sch. 2 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-61d852a4b870be981831af49e3aa64e3]: Commencement: Sch. 2 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-1feebb8bbc3223ecbcdc2968e7164ae7]: Commencement: Sch. 2 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-1feebb8bbc3223ecbcdc2968e7164ae7]: Commencement: Sch. 2 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00011]: Footnote: [S.R. 1995 No 3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); section 50 was substituted by Article 250 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005 No 255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and amended by the Pensions Act (Northern Ireland) 2008 (Chapter 1).
 
 [^f00012]: Footnote: [S.R. 2008 No.116](https://www.legislation.gov.uk/nisr/2008/116).
 
-[^key-820c013f5feaf09564fbea57eb3d4586]: Commencement: Sch. 2 para. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-820c013f5feaf09564fbea57eb3d4586]: Commencement: Sch. 2 para. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00013]: Footnote: Paragraph 7 was inserted by [S.R. 2015 No. 420](https://www.legislation.gov.uk/nisr/2015/420).
 
-[^key-34851d84447fc14ebfe2c4487ce8ab55]: Commencement: Sch. 3 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-34851d84447fc14ebfe2c4487ce8ab55]: Commencement: Sch. 3 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00014]: Footnote: [S.R. 1995 No 3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); section 50 was substituted by Article 250 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005 No 255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and amended by the Pensions Act (Northern Ireland) [2008 (Chapter 1)](https://www.legislation.gov.uk/nia/2008/1).
 
 [^f00015]: Footnote: [S.R. 2008 No.116](https://www.legislation.gov.uk/nisr/2008/116).
 
-[^key-e7ef3c89a4ce1e6e7d87568033398c1e]: Commencement: Sch. 3 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-e7ef3c89a4ce1e6e7d87568033398c1e]: Commencement: Sch. 3 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-dd4f369bd123e146409349eeaf2590b0]: Commencement: Sch. 3 para. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-dd4f369bd123e146409349eeaf2590b0]: Commencement: Sch. 3 para. 3 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-01f199843477b9ca2fb638c0fd1e1ca4]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2022/155/schedule/3/paragraph/4) in operation at 1.4.2022 with effect in accordance with reg. 1(3)(b), see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/3/b)
+[^c-01f199843477b9ca2fb638c0fd1e1ca4]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2022/155/schedule/3/paragraph/4) in operation at 1.4.2022 with effect in accordance with reg. 1(3)(b), see [reg. 1(3)(b)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/3/b)
 
-[^key-cf1171b7dddf4a761ada0713d530224e]: Commencement: Sch. 4 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-cf1171b7dddf4a761ada0713d530224e]: Commencement: Sch. 4 para. 1 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
-[^key-338ed05edada19945fb34928a442673a]: Commencement: Sch. 4 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
+[^c-338ed05edada19945fb34928a442673a]: Commencement: Sch. 4 para. 2 in operation at 1.4.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2)
 
 [^f00016]: Footnote: [S.R. 1995 No 3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213); section 50 was substituted by Article 250 of the Pensions (Northern Ireland) Order 2005 ([S.I. 2005 No 255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)) and amended by the Pensions Act (Northern Ireland) [2008 (Chapter 1)](https://www.legislation.gov.uk/nisr/2008/1).
 

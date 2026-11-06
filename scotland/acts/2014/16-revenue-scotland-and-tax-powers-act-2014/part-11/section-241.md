@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 241. Right of appeal[^key-469b757600904e73d2e8f45c04c876d7]
+## 241. Right of appeal[^c-469b757600904e73d2e8f45c04c876d7]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-469b757600904e73d2e8f45c04c876d7]: Commencement: [S. 241](https://www.legislation.gov.uk/asp/2014/16/section/241) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-469b757600904e73d2e8f45c04c876d7]: Commencement: [S. 241](https://www.legislation.gov.uk/asp/2014/16/section/241) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

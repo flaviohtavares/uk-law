@@ -100,8 +100,8 @@ For the purposes of the definition of “the authorised minimum” in section 76
 
 (3) The certified spot rate is the middle spot exchange rate prevailing on the foreign exchange market at 4pm on the relevant day and stated in a certificate obtained by the company from—
 
-- (a) a person, nominated by the company, who under Part 4 of the Financial Services and Markets Act 2000 [^c19848151] has permission to accept deposits; [^key-1172885f8fad3d66c930a1b2f081275c]...
-- (b)[^key-1172885f8fad3d66c930a1b2f081275c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person, nominated by the company, who under Part 4 of the Financial Services and Markets Act 2000 [^c19848151] has permission to accept deposits; [^c-1172885f8fad3d66c930a1b2f081275c]...
+- (b)[^c-1172885f8fad3d66c930a1b2f081275c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The circumstances in this paragraph exist where—
 
@@ -244,7 +244,7 @@ An impact assessment has not been produced for these Regulations because they ha
 
 [^c19848151]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-1172885f8fad3d66c930a1b2f081275c]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2009/2425/regulation/4/3/b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/56) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1172885f8fad3d66c930a1b2f081275c]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2009/2425/regulation/4/3/b) and word omitted (31.12.2020) by virtue of [The EEA Passport Rights (Amendment, etc., and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1149)](https://www.legislation.gov.uk/uksi/2018/1149), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1149/regulation/1/3), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2018/1149/schedule/paragraph/56) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1149/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19848161]: Marginal citation: [S.I. 2008/729](https://www.legislation.gov.uk/uksi/2008/729).
 

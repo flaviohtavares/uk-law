@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228L. Determining the net present value of the rentals for purposes of s.228K[^key-a8de3bbcd99736e9202c62ea14f5c99d]
+## 228L. Determining the net present value of the rentals for purposes of s.228K[^c-a8de3bbcd99736e9202c62ea14f5c99d]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8de3bbcd99736e9202c62ea14f5c99d]: Textual amendment: Ss. 228K-228M and cross-heading inserted (with effect in accordance with s. 84(5)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/84/3)
+[^c-a8de3bbcd99736e9202c62ea14f5c99d]: Textual amendment: Ss. 228K-228M and cross-heading inserted (with effect in accordance with s. 84(5)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2006/25/section/84/3)

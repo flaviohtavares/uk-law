@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Step-in by Ministers[^key-5cf8ab4aaa9df17134cfba0ec66f350e]
+## 112. Step-in by Ministers[^c-5cf8ab4aaa9df17134cfba0ec66f350e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cf8ab4aaa9df17134cfba0ec66f350e]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/16/section/112) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-5cf8ab4aaa9df17134cfba0ec66f350e]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2010/16/section/112) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

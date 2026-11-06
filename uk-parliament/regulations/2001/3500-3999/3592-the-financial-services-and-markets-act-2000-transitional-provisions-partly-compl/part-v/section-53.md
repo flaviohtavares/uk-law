@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Notices in respect of bank or investment firm partners[^key-92f67617adcef7f7ecf6d16210f3acc7]
+## 53. Notices in respect of bank or investment firm partners[^c-92f67617adcef7f7ecf6d16210f3acc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ the authorised person mentioned in the proposed partner notice is to be treated 
 
 ## Annotations
 
-[^key-92f67617adcef7f7ecf6d16210f3acc7]: Commencement: Art. 53 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-92f67617adcef7f7ecf6d16210f3acc7]: Commencement: Art. 53 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

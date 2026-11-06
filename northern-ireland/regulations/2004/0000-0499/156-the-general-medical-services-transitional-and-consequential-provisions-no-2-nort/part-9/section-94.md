@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Minor and consequential amendments[^key-d64fa8dd851056473de2c57db062f4de]
+## 94. Minor and consequential amendments[^c-d64fa8dd851056473de2c57db062f4de]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The statutory provisions listed in Schedule 1 are amended as there specified.
 
 ## Annotations
 
-[^key-d64fa8dd851056473de2c57db062f4de]: Commencement: Art. 94 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-d64fa8dd851056473de2c57db062f4de]: Commencement: Art. 94 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Creation of the new community ward of Port Eynon[^key-52d6dd385cb3514d491f807f3422cee8]
+## 44. Creation of the new community ward of Port Eynon[^c-52d6dd385cb3514d491f807f3422cee8]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A new community ward is created in the community of Gower South which is to be k
 
 ## Annotations
 
-[^key-52d6dd385cb3514d491f807f3422cee8]: Commencement: [Art. 44](https://www.legislation.gov.uk/wsi/2026/95/article/44) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-52d6dd385cb3514d491f807f3422cee8]: Commencement: [Art. 44](https://www.legislation.gov.uk/wsi/2026/95/article/44) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

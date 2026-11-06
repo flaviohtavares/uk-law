@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.4. Notice to Secretary of State under section 108(5) of the Act[^key-b0ff299ab66beecc07c05248ee630ef0]
+## 6.4. Notice to Secretary of State under section 108(5) of the Act[^c-b0ff299ab66beecc07c05248ee630ef0]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ The notice required to be given to the Secretary of State by the sheriff clerk u
 
 ## Annotations
 
-[^key-b0ff299ab66beecc07c05248ee630ef0]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/uksi/1997/291/rule/6.4) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-b0ff299ab66beecc07c05248ee630ef0]: Commencement: [Rule 6.4](https://www.legislation.gov.uk/uksi/1997/291/rule/6.4) in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00053]: Footnote: [S.I. 1990/1777](https://www.legislation.gov.uk/uksi/1990/1777).

@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: S*
 
-(1) The Scottish Ministers may by order amend [^key-3c113406e8d0c0021baa786107079e94]... paragraph (a) or (b) of subsection (2) of section 58 so as to substitute for the number of years for the time being mentioned in the provision in question such other number of years (not being a number which exceeds that mentioned in the provision as originally enacted) as may be specified in the order.
+(1) The Scottish Ministers may by order amend [^c-3c113406e8d0c0021baa786107079e94]... paragraph (a) or (b) of subsection (2) of section 58 so as to substitute for the number of years for the time being mentioned in the provision in question such other number of years (not being a number which exceeds that mentioned in the provision as originally enacted) as may be specified in the order.
 
-(1A)[^key-c0a5d239f8c3b901c7dea133b979203c] The Scottish Ministers may by order—
+(1A)[^c-c0a5d239f8c3b901c7dea133b979203c] The Scottish Ministers may by order—
 
 - (a) make provision modifying any enactment in accordance with which a record becomes a “**historical record**” for the purposes of this Part, and
 - (b) do so by amending this Part or otherwise.
@@ -40,14 +40,14 @@ summary: ''
 - (b) exemptions of different kinds,
 - (c) different purposes in other respects.
 
-(2) An order under subsection (1) or[^key-af16c19987042e7d4c61a1a3acf0985c] may contain such supplemental, incidental, consequential, transitional, transitory or saving provision[^key-cf0fd2c08d87f7f2d7fef8dc68b792f2] as the Scottish Ministers think fit.
+(2) An order under subsection (1) or[^c-af16c19987042e7d4c61a1a3acf0985c] may contain such supplemental, incidental, consequential, transitional, transitory or saving provision[^c-cf0fd2c08d87f7f2d7fef8dc68b792f2] as the Scottish Ministers think fit.
 
 ## Annotations
 
-[^key-3c113406e8d0c0021baa786107079e94]: Textual amendment: Words in [s. 59(1)](https://www.legislation.gov.uk/asp/2002/13/section/59/1) repealed (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(a)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/a), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-3c113406e8d0c0021baa786107079e94]: Textual amendment: Words in [s. 59(1)](https://www.legislation.gov.uk/asp/2002/13/section/59/1) repealed (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(a)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/a), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-c0a5d239f8c3b901c7dea133b979203c]: Textual amendment: S. 59(1A)-(1C) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(b)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/b), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-c0a5d239f8c3b901c7dea133b979203c]: Textual amendment: S. 59(1A)-(1C) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(b)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/b), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-af16c19987042e7d4c61a1a3acf0985c]: Textual amendment: Words in [s. 59(2)](https://www.legislation.gov.uk/asp/2002/13/section/59/2) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(c)(i)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/c/i), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-af16c19987042e7d4c61a1a3acf0985c]: Textual amendment: Words in [s. 59(2)](https://www.legislation.gov.uk/asp/2002/13/section/59/2) inserted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(c)(i)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/c/i), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
 
-[^key-cf0fd2c08d87f7f2d7fef8dc68b792f2]: Textual amendment: Words in [s. 59(2)](https://www.legislation.gov.uk/asp/2002/13/section/59/2) substituted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(c)(ii)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/c/ii), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)
+[^c-cf0fd2c08d87f7f2d7fef8dc68b792f2]: Textual amendment: Words in [s. 59(2)](https://www.legislation.gov.uk/asp/2002/13/section/59/2) substituted (31.5.2013) by [Freedom of Information (Amendment) (Scotland) Act 2013 (asp 2)](https://www.legislation.gov.uk/asp/2013/2), [ss. 4(1)(c)(ii)](https://www.legislation.gov.uk/asp/2013/2/section/4/1/c/ii), [7](https://www.legislation.gov.uk/asp/2013/2/section/7); [S.S.I. 2013/136](https://www.legislation.gov.uk/ssi/2013/136), [art. 2](https://www.legislation.gov.uk/ssi/2013/136/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendment of regulation 3 (environmental statements)[^key-fda20139e6ec3926ca8f47d107ab4da2]
+## 28. Amendment of regulation 3 (environmental statements)[^c-fda20139e6ec3926ca8f47d107ab4da2]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In regulation 3—
 
 ## Annotations
 
-[^key-fda20139e6ec3926ca8f47d107ab4da2]: Commencement: Reg. 28 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-fda20139e6ec3926ca8f47d107ab4da2]: Commencement: Reg. 28 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

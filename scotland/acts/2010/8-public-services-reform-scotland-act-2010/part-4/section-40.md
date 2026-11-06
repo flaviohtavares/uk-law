@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Directions and guidance[^key-072caad097309c53804f72ec03012c25]
+## 40. Directions and guidance[^c-072caad097309c53804f72ec03012c25]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-072caad097309c53804f72ec03012c25]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/8/section/40) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-072caad097309c53804f72ec03012c25]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2010/8/section/40) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

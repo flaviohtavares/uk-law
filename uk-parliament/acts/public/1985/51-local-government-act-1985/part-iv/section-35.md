@@ -29,11 +29,11 @@ summary: ''
 
 shall be disqualified for being appointed or being a member of that other joint authority or for being elected or being a member of the local authority, as the case may be.
 
-(3) A person who is for the time being a member, officer or servant of, or an officer or servant of a subsidiary (within the meaning of the [^c3163571]Transport Act 1962) of, the Passenger Transport Executive for an area which is or was coterminous with the area of a metropolitan county shall be disqualified for being appointed or being a member of the Integrated Transport Authority[^key-5dd63ad8a0a365e13c29c23e7998babd] for that county.
+(3) A person who is for the time being a member, officer or servant of, or an officer or servant of a subsidiary (within the meaning of the [^c3163571]Transport Act 1962) of, the Passenger Transport Executive for an area which is or was coterminous with the area of a metropolitan county shall be disqualified for being appointed or being a member of the Integrated Transport Authority[^c-5dd63ad8a0a365e13c29c23e7998babd] for that county.
 
-(4)[^c3267491] In this section, “elected mayor”, “executive”, “executive arrangements”, and executive leader[^key-ac91a1af83a9804d787face87cfafaf8] have the same meaning as in Part II of the Local Government Act 2000.
+(4)[^c3267491] In this section, “elected mayor”, “executive”, “executive arrangements”, and executive leader[^c-ac91a1af83a9804d787face87cfafaf8] have the same meaning as in Part II of the Local Government Act 2000.
 
-(5)[^key-373928e39006b1190fcb1ec8c7c7d1ef] In this section “**leader and cabinet executive**” means—
+(5)[^c-373928e39006b1190fcb1ec8c7c7d1ef] In this section “**leader and cabinet executive**” means—
 
 - (a) in relation to England: a leader and cabinet executive (England);
 - (b) in relation to Wales: a leader and cabinet executive (Wales);
@@ -60,10 +60,10 @@ and for this purpose “**leader and cabinet executive (England)**” and “**l
 
 [^c3163571]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 
-[^key-5dd63ad8a0a365e13c29c23e7998babd]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/ukpga/1985/51/section/35/3) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 53(4)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/53/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-5dd63ad8a0a365e13c29c23e7998babd]: Textual amendment: Words in [s. 35(3)](https://www.legislation.gov.uk/ukpga/1985/51/section/35/3) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 53(4)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/53/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c3267491]: Textual amendment: s. 35(4) inserted (E.) (6.5.2002) by [The Local Authorities (Executive Arrangements) (Modification of Enactments) (England) Order 2002 (S.I. 2002/1057)](https://www.legislation.gov.uk/uksi/2002/1057), [art. 11(b)](https://www.legislation.gov.uk/uksi/2002/1057/article/11/b)
 
-[^key-ac91a1af83a9804d787face87cfafaf8]: Textual amendment: Words in s. 35(4) substituted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/19/2)
+[^c-ac91a1af83a9804d787face87cfafaf8]: Textual amendment: Words in s. 35(4) substituted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/19/2)
 
-[^key-373928e39006b1190fcb1ec8c7c7d1ef]: Textual amendment: S. 35(5) inserted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/19/3)
+[^c-373928e39006b1190fcb1ec8c7c7d1ef]: Textual amendment: S. 35(5) inserted (30.12.2007) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2), [Sch. 3 para. 19(3)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/19/3)

@@ -24,7 +24,7 @@ Section 77
 
 ### Part 1 — Petroleum (Production) (Landward Areas) Regulations 1995
 
-**1.**[^key-d21a027fbd299f6fc21eb97e648c31de] (1) Schedule 3 to the Petroleum (Production) (Landward Areas) Regulations 1995 (S.I. 1995/1436) is amended as follows.
+**1.**[^c-d21a027fbd299f6fc21eb97e648c31de] (1) Schedule 3 to the Petroleum (Production) (Landward Areas) Regulations 1995 (S.I. 1995/1436) is amended as follows.
 
 (2) After clause 8 (consequences of determination or surrender) insert—
 
@@ -76,9 +76,9 @@ Section 77
 
 ### Part 2 — Petroleum (Current Model Clauses) Order 1999
 
-**2.**[^key-23bf8e0848d0b3f65a23aa5c55b6d6dd] This Part of this Schedule contains amendments to the Petroleum (Current Model Clauses) Order 1999 (S.I. 1999/160).
+**2.**[^c-23bf8e0848d0b3f65a23aa5c55b6d6dd] This Part of this Schedule contains amendments to the Petroleum (Current Model Clauses) Order 1999 (S.I. 1999/160).
 
-**3.**[^key-d8cfc38f55fc0b0984948ed01d417601] (1) Part 2 of Schedule 2 (seaward production licences) is amended as follows.
+**3.**[^c-d8cfc38f55fc0b0984948ed01d417601] (1) Part 2 of Schedule 2 (seaward production licences) is amended as follows.
 
 (2) After clause 7 (area surrendered) insert—
 
@@ -128,7 +128,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**4.**[^key-d81f66695cd9b45ec42497ee234f04d3] (1) Part 2 of Schedule 3 (landward production licences) is amended as follows.
+**4.**[^c-d81f66695cd9b45ec42497ee234f04d3] (1) Part 2 of Schedule 3 (landward production licences) is amended as follows.
 
 (2) After clause 7 (areas surrendered) insert—
 
@@ -178,7 +178,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked
 
-**5.**[^key-7c7ecba14a3c224402079b1d5ed2738d] (1) Part 2 of Schedule 4 (landward production licences) is amended as follows.
+**5.**[^c-7c7ecba14a3c224402079b1d5ed2738d] (1) Part 2 of Schedule 4 (landward production licences) is amended as follows.
 
 (2) After clause 7 (consequences of determination or surrender by licensee) insert—
 
@@ -228,7 +228,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**6.**[^key-53b51f16e410d0f8fc6e4aeb90192e4a] (1) Part 2 of Schedule 5 (seaward production licences) is amended as follows.
+**6.**[^c-53b51f16e410d0f8fc6e4aeb90192e4a] (1) Part 2 of Schedule 5 (seaward production licences) is amended as follows.
 
 (2) After clause 7 (areas surrendered) insert—
 
@@ -278,7 +278,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**7.**[^key-0d40807f5a0914d234280f06314c6f96] (1) Part 2 of Schedule 6 (seaward production licences) is amended as follows.
+**7.**[^c-0d40807f5a0914d234280f06314c6f96] (1) Part 2 of Schedule 6 (seaward production licences) is amended as follows.
 
 (2) After clause 6 (areas surrendered) insert—
 
@@ -328,7 +328,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**8.**[^key-66d92f3d0729565aa1bab49f9510305c] (1) Part 2 of Schedule 8 (landward development licences) is amended as follows.
+**8.**[^c-66d92f3d0729565aa1bab49f9510305c] (1) Part 2 of Schedule 8 (landward development licences) is amended as follows.
 
 (2) After clause 6 (consequences of determination or surrender by licensee) insert—
 
@@ -378,7 +378,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**9.**[^key-5b0c481558432095d3819c80c39d0a29] (1) Part 2 of Schedule 9 (seaward production licences) is amended as follows.
+**9.**[^c-5b0c481558432095d3819c80c39d0a29] (1) Part 2 of Schedule 9 (seaward production licences) is amended as follows.
 
 (2) After clause 8 (areas surrendered) insert—
 
@@ -428,7 +428,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**10.**[^key-73462feae85537e02503784d735087e8] (1) Part 2 of Schedule 10 (seaward production licences) is amended as follows.
+**10.**[^c-73462feae85537e02503784d735087e8] (1) Part 2 of Schedule 10 (seaward production licences) is amended as follows.
 
 (2) After clause 8 (areas surrendered) insert—
 
@@ -478,7 +478,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**11.**[^key-5b90ad678ede46fbd8346da6bf86c565] (1) Part 2 of Schedule 11 (seaward exploration licences) is amended as follows.
+**11.**[^c-5b90ad678ede46fbd8346da6bf86c565] (1) Part 2 of Schedule 11 (seaward exploration licences) is amended as follows.
 
 (2) After clause 5 (right of licensee to determine licence) insert—
 
@@ -523,7 +523,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**12.**[^key-ed70891b3713fd5ea15a186d0ae40940] (1) Part 2 of Schedule 12 (landward exploration licences) is amended as follows.
+**12.**[^c-ed70891b3713fd5ea15a186d0ae40940] (1) Part 2 of Schedule 12 (landward exploration licences) is amended as follows.
 
 (2) After clause 6 (automatic termination of licence) insert—
 
@@ -573,7 +573,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**13.**[^key-6151c480eb82163ccb67a07b88579ad6] (1) Part 2 of Schedule 13 (landward appraisal licences) is amended as follows.
+**13.**[^c-6151c480eb82163ccb67a07b88579ad6] (1) Part 2 of Schedule 13 (landward appraisal licences) is amended as follows.
 
 (2) After clause 6 (consequences of determination or surrender by licensee) insert—
 
@@ -623,7 +623,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**14.**[^key-7773db4df0ba51193412accd51e74949] (1) Part 2 of Schedule 14 (landward development licences) is amended as follows.
+**14.**[^c-7773db4df0ba51193412accd51e74949] (1) Part 2 of Schedule 14 (landward development licences) is amended as follows.
 
 (2) After clause 6 (consequences of determination or surrender by licensee) insert—
 
@@ -675,9 +675,9 @@ Section 77
 
 ### Part 3 — Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004
 
-**15.**[^key-d6d3a30b602a3aa8f70a8ddcd84e4bc2] This Part of this Schedule amends the Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004 (S.I. 2004/352).
+**15.**[^c-d6d3a30b602a3aa8f70a8ddcd84e4bc2] This Part of this Schedule amends the Petroleum Licensing (Exploration and Production) (Seaward and Landward Areas) Regulations 2004 (S.I. 2004/352).
 
-**16.**[^key-92cbd78cdaf0c71411b94dcb5fe74aaf] (1) Schedule 1 (exploration licences) is amended as follows.
+**16.**[^c-92cbd78cdaf0c71411b94dcb5fe74aaf] (1) Schedule 1 (exploration licences) is amended as follows.
 
 (2) After clause 5 (right of licensee to determine licence) insert—
 
@@ -722,7 +722,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**17.**[^key-acf19ad861ab44ffabe36823b0adea97] (1) Schedule 2 (frontier areas: production licences without break clause) is amended as follows.
+**17.**[^c-acf19ad861ab44ffabe36823b0adea97] (1) Schedule 2 (frontier areas: production licences without break clause) is amended as follows.
 
 (2) After clause 9 (areas surrendered) insert—
 
@@ -772,7 +772,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**18.**[^key-665e5d11aa2d368301554f859b2f39cf] (1) Schedule 3 (frontier areas: production licences with break clause) is amended as follows.
+**18.**[^c-665e5d11aa2d368301554f859b2f39cf] (1) Schedule 3 (frontier areas: production licences with break clause) is amended as follows.
 
 (2) After clause 10 (areas surrendered) insert—
 
@@ -822,7 +822,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**19.**[^key-3ffb267a79c4f779c66926c9fa347cb1] (1) Schedule 4 (production licences for areas other than frontier areas) is amended as follows.
+**19.**[^c-3ffb267a79c4f779c66926c9fa347cb1] (1) Schedule 4 (production licences for areas other than frontier areas) is amended as follows.
 
 (2) After clause 8 (areas surrendered) insert—
 
@@ -872,7 +872,7 @@ Section 77
 >
 > (4) Where this licence is revoked in relation to one person under this clause, it continues to have effect in respect of the other person who constitutes, or persons who together constitute, the Licensee and in relation to whom it is not revoked.
 
-**20.**[^key-2f9e3afffd97f8a00580e08a1f573b79] (1) Schedule 6 (exploration and development licences) is amended as follows.
+**20.**[^c-2f9e3afffd97f8a00580e08a1f573b79] (1) Schedule 6 (exploration and development licences) is amended as follows.
 
 (2) After clause 8 (consequences of determination or surrender by licensee) insert—
 
@@ -924,42 +924,42 @@ Section 77
 
 ## Annotations
 
-[^key-d21a027fbd299f6fc21eb97e648c31de]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/1) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-d21a027fbd299f6fc21eb97e648c31de]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/1) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-23bf8e0848d0b3f65a23aa5c55b6d6dd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/2) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-23bf8e0848d0b3f65a23aa5c55b6d6dd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/2) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-d8cfc38f55fc0b0984948ed01d417601]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/3) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-d8cfc38f55fc0b0984948ed01d417601]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/3) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-d81f66695cd9b45ec42497ee234f04d3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/4) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-d81f66695cd9b45ec42497ee234f04d3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/4) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-7c7ecba14a3c224402079b1d5ed2738d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/5) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-7c7ecba14a3c224402079b1d5ed2738d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/5) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-53b51f16e410d0f8fc6e4aeb90192e4a]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/6) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-53b51f16e410d0f8fc6e4aeb90192e4a]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/6) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-0d40807f5a0914d234280f06314c6f96]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/7) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-0d40807f5a0914d234280f06314c6f96]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/7) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-66d92f3d0729565aa1bab49f9510305c]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/8) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-66d92f3d0729565aa1bab49f9510305c]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/8) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-5b0c481558432095d3819c80c39d0a29]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-5b0c481558432095d3819c80c39d0a29]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/9) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-73462feae85537e02503784d735087e8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/10) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-73462feae85537e02503784d735087e8]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/10) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-5b90ad678ede46fbd8346da6bf86c565]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/11) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-5b90ad678ede46fbd8346da6bf86c565]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/11) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-ed70891b3713fd5ea15a186d0ae40940]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/12) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-ed70891b3713fd5ea15a186d0ae40940]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/12) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-6151c480eb82163ccb67a07b88579ad6]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/13) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-6151c480eb82163ccb67a07b88579ad6]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/13) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-7773db4df0ba51193412accd51e74949]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/14) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-7773db4df0ba51193412accd51e74949]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/14) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-d6d3a30b602a3aa8f70a8ddcd84e4bc2]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/15) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-d6d3a30b602a3aa8f70a8ddcd84e4bc2]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/15) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-92cbd78cdaf0c71411b94dcb5fe74aaf]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/16) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-92cbd78cdaf0c71411b94dcb5fe74aaf]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/16) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-acf19ad861ab44ffabe36823b0adea97]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/17) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-acf19ad861ab44ffabe36823b0adea97]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/17) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-665e5d11aa2d368301554f859b2f39cf]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/18) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-665e5d11aa2d368301554f859b2f39cf]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/18) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-3ffb267a79c4f779c66926c9fa347cb1]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/19) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-3ffb267a79c4f779c66926c9fa347cb1]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/19) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-2f9e3afffd97f8a00580e08a1f573b79]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/20) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-2f9e3afffd97f8a00580e08a1f573b79]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2008/32/schedule/3/paragraph/20) in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)

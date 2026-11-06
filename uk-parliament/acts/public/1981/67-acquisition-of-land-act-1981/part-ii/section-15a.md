@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15A. Directions applying section 14A of the Land Compensation Act 1961[^key-bc6e5c3464e0509b4ac1e4c837e0671f]
+## 15A. Directions applying section 14A of the Land Compensation Act 1961[^c-bc6e5c3464e0509b4ac1e4c837e0671f]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) A “statement of commitments” is a statement of the acquiring authority’s intentions as to what will be done with the project land should the acquisition proceed, so far as the authority relies on those intentions in contending that the direction is justified in the public interest.
 
-(5) If the authorising enactment is listed in any of paragraphs A1 or[^key-5c07d59b22e4cf9162964707c98c541b] 2 to 7 of Schedule 2A, those intentions must include the provision of a certain number of units of affordable housing.
+(5) If the authorising enactment is listed in any of paragraphs A1 or[^c-5c07d59b22e4cf9162964707c98c541b] 2 to 7 of Schedule 2A, those intentions must include the provision of a certain number of units of affordable housing.
 
 (6) The statement under section 12(1)(a) must include a statement of the effect of the direction; and paragraphs (ba) and (bb) of the same subsection apply in respect of the statement of commitments as they apply in respect of the compulsory purchase order.
 
@@ -40,7 +40,7 @@ summary: ''
 (8) But the confirming authority may do so—
 
 - (a) only if satisfied that the amendment would not be unfair to any person who made or could have made a relevant objection for the purposes of section 13, and
-- (b) if the authorising enactment is listed in any of paragraphs A1 or[^key-38f047a708273f1db465492dd1964709] 2 to 7 of Schedule 2A, only if the statement of commitments as amended will still comply with subsection (5).
+- (b) if the authorising enactment is listed in any of paragraphs A1 or[^c-38f047a708273f1db465492dd1964709] 2 to 7 of Schedule 2A, only if the statement of commitments as amended will still comply with subsection (5).
 
 (9) If the confirming authority decides to confirm the order in accordance with the applicable provisions of this Part—
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bc6e5c3464e0509b4ac1e4c837e0671f]: Textual amendment: S. 15A and cross-heading inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(1)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/1/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
+[^c-bc6e5c3464e0509b4ac1e4c837e0671f]: Textual amendment: S. 15A and cross-heading inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(1)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/1/c), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
 
-[^key-5c07d59b22e4cf9162964707c98c541b]: Textual amendment: Words in [s. 15A(5)](https://www.legislation.gov.uk/ukpga/1981/67/section/15A/5) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 113(4)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/113/4/a), [118(5)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/g/ii) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/d), [4(1)(k)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/k)
+[^c-5c07d59b22e4cf9162964707c98c541b]: Textual amendment: Words in [s. 15A(5)](https://www.legislation.gov.uk/ukpga/1981/67/section/15A/5) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 113(4)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/113/4/a), [118(5)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/g/ii) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/d), [4(1)(k)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/k)
 
-[^key-38f047a708273f1db465492dd1964709]: Textual amendment: Words in [s. 15A(8)(b)](https://www.legislation.gov.uk/ukpga/1981/67/section/15A/8/b) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 113(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/113/4/b), [118(5)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/g/ii) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/d), [4(1)(k)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/k)
+[^c-38f047a708273f1db465492dd1964709]: Textual amendment: Words in [s. 15A(8)(b)](https://www.legislation.gov.uk/ukpga/1981/67/section/15A/8/b) inserted (19.12.2025 for specified purposes, 18.2.2026 for E. in so far as not already in force) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 113(4)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/113/4/b), [118(5)(g)(ii)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/g/ii) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [regs. 3(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/1/d), [4(1)(k)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/k)

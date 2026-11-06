@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 503. Repeals and revocations[^key-30fc1dc297479858f46f1f511c798063]
+## 503. Repeals and revocations[^c-30fc1dc297479858f46f1f511c798063]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the repeal or revocation of the provision by this Act is for all purposes other 
 
 ## Annotations
 
-[^key-30fc1dc297479858f46f1f511c798063]: Textual amendment: S. 378 renumbered as s. 503 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(e)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/e)
+[^c-30fc1dc297479858f46f1f511c798063]: Textual amendment: S. 378 renumbered as s. 503 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(e)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/e)

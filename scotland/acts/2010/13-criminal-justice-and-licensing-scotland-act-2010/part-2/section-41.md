@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Indecent images of children[^key-99460929e79d8e25a487c421b6038dca]
+## 41. Indecent images of children[^c-99460929e79d8e25a487c421b6038dca]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99460929e79d8e25a487c421b6038dca]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/13/section/41) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-99460929e79d8e25a487c421b6038dca]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/13/section/41) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Amendment to Schedule 7[^key-c1f8383f4628bd66bff6137b60508164]
+## 135. Amendment to Schedule 7[^c-c1f8383f4628bd66bff6137b60508164]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In Schedule 7 (qualified persons)[^f00142], in paragraph 12A(1)—
 
 ## Annotations
 
-[^key-c1f8383f4628bd66bff6137b60508164]: Commencement: [Reg. 135](https://www.legislation.gov.uk/uksi/2024/832/regulation/135) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c1f8383f4628bd66bff6137b60508164]: Commencement: [Reg. 135](https://www.legislation.gov.uk/uksi/2024/832/regulation/135) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00142]: Footnote: Paragraph 12A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488); there are amendments not relevant to these Regulations.

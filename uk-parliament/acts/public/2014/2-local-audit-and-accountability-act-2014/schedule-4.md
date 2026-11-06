@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Further provisions about auditor panels[^key-1d77ea65f4a43cf7a30e998d9292a950]
+## SCHEDULE 4 — Further provisions about auditor panels[^c-1d77ea65f4a43cf7a30e998d9292a950]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Section 9
 
 ### Options for auditor panels
 
-**1.**[^key-72a9cbcd2f0786010b014652f128af1c] (1) The auditor panel of a relevant authority (“R”) must be—
+**1.**[^c-72a9cbcd2f0786010b014652f128af1c] (1) The auditor panel of a relevant authority (“R”) must be—
 
 - (a) a panel appointed as an auditor panel by R,
 - (b) a panel appointed as an auditor panel by R and one or more other relevant authorities,
@@ -52,12 +52,12 @@ Section 9
 
 ### Constitution of auditor panels
 
-**2.**[^M_I_dfef90a6-4a58-4549-e147-01b847f24146][^key-d8f7fe9151801d96b892e99476a208a5][^key-8ffbe5041449eca1da500da8119c2c87][^key-fc66d3746fb926cf2ff465e8ba3fbcc4] (1) A relevant authority's auditor panel, other than a health service body's auditor panel—
+**2.**[^M_I_dfef90a6-4a58-4549-e147-01b847f24146][^c-d8f7fe9151801d96b892e99476a208a5][^c-8ffbe5041449eca1da500da8119c2c87][^c-fc66d3746fb926cf2ff465e8ba3fbcc4] (1) A relevant authority's auditor panel, other than a health service body's auditor panel—
 
 - (a) must consist of a majority of independent members (or wholly of independent members), and
 - (b) must be chaired by an independent member.
 
-(2)[^key-ec11b532b1d04f10313ba1e7f1b6fd43] A member of a relevant authority’s auditor panel, other than a health service body’s auditor panel, is “independent” at any given time if the following conditions are met—
+(2)[^c-ec11b532b1d04f10313ba1e7f1b6fd43] A member of a relevant authority’s auditor panel, other than a health service body’s auditor panel, is “independent” at any given time if the following conditions are met—
 
 - (a) the panel member has not been a member or officer of the authority within the period of 5 years ending with that time (the “last 5 years”),
 - (b) the panel member has not, within the last 5 years, been a member or officer of another relevant authority that is (at the given time) connected with the authority or with which (at the given time) the authority is connected,
@@ -76,7 +76,7 @@ Section 9
   - (ii) a partner in a firm that is (at the given time) a current or prospective auditor of the authority, or
   - (iii) a director of a body corporate that is (at the given time) a current or prospective auditor of the authority.
 
-(4)[^key-4cef63a54309112350b743142b2653b1] Sub-paragraphs (5) to (6D) modify the application of sub-paragraph (2) in relation to—
+(4)[^c-4cef63a54309112350b743142b2653b1] Sub-paragraphs (5) to (6D) modify the application of sub-paragraph (2) in relation to—
 
 - (a) cases where the relevant authority referred to in the opening words of sub-paragraph (2) (the “relevant authority concerned”) is a police and crime commissioner, the Mayor’s Office for Policing and Crime, another functional body or the Greater London Authority, and
 - (b) relevant authorities that are corporations sole (including, but not limited to, corporations sole mentioned in paragraph (a)).
@@ -102,7 +102,7 @@ Section 9
 - “elected mayor” has the same meaning as in Part 1A of the Local Government Act 2000;
 - “officer”, in relation to an entity other than a relevant authority, means a person elected or appointed as, or to, that entity.
 
-(8) For the purposes of sub-paragraph (2)(d)[^key-e0a00868205681e14add481b3394c01e], a person (“R”) is a relative of another person (“P”) if R is—
+(8) For the purposes of sub-paragraph (2)(d)[^c-e0a00868205681e14add481b3394c01e], a person (“R”) is a relative of another person (“P”) if R is—
 
 - (a) P's partner,
 - (b) P's parent or grandparent,
@@ -114,7 +114,7 @@ Section 9
 
 and for this purpose “**partner**” means a spouse, civil partner or someone a person lives with as if they were husband and wife or civil partners.
 
-(8A)[^key-8d02db7084fc503245629f3e2fc534a4] For the purposes of sub-paragraph (2)(f) to (h)—
+(8A)[^c-8d02db7084fc503245629f3e2fc534a4] For the purposes of sub-paragraph (2)(f) to (h)—
 
 - “body in which the panel member has a beneficial interest” means a body in which the panel member is a partner, or of which the panel member is a director, or in the securities of which the panel member has a beneficial interest;
 - “current or prospective auditor”, in relation to a relevant authority, means—
@@ -128,7 +128,7 @@ and for this purpose “**partner**” means a spouse, civil partner or someone 
 
 ### Constitution of auditor panels: health service bodies
 
-**3.**[^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5][^key-5d5abc2c79855ed220f5c5d2de4d5ede] The Secretary of State may by regulations make provision about—
+**3.**[^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5][^c-5d5abc2c79855ed220f5c5d2de4d5ede] The Secretary of State may by regulations make provision about—
 
 - (a) whether any of the members of a health service body's auditor panel must be independent and, if so, the proportion which must be independent;
 - (b) whether the chair of a health service body's auditor panel must be independent;
@@ -136,7 +136,7 @@ and for this purpose “**partner**” means a spouse, civil partner or someone 
 
 ### Power to make further provision about constitution of auditor panels
 
-**4.**[^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5][^key-12de09ac889c95dfd7eab06f42428073] (1) The Secretary of State may by regulations make provision about the constitution of an auditor panel.
+**4.**[^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5][^c-12de09ac889c95dfd7eab06f42428073] (1) The Secretary of State may by regulations make provision about the constitution of an auditor panel.
 
 (2) This includes further provision about the matters mentioned in paragraph 2(1) and provision about—
 
@@ -151,7 +151,7 @@ and for this purpose “**partner**” means a spouse, civil partner or someone 
 
 ### Application of local authority enactments to auditor panels
 
-**5.**[^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5][^key-7c87868109b2494fee83d109efde9436] (1) The Secretary of State may by regulations—
+**5.**[^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5][^c-7c87868109b2494fee83d109efde9436] (1) The Secretary of State may by regulations—
 
 - (a) amend or otherwise modify any local authority enactment in its application to auditor panels or members of auditor panels;
 - (b) apply any local authority enactment (with or without modifications) to auditor panels or members of auditor panels if, or to the extent that, it does not otherwise apply.
@@ -165,7 +165,7 @@ and for this purpose “**partner**” means a spouse, civil partner or someone 
 
 ### Status of auditor panels
 
-**6.**[^key-2d00aef4bb29af5007e6b920ee6393ae] (1) Where a relevant authority other than a health service body has determined that a committee of that authority should be its auditor panel, the panel when acting as such is not to be treated as a committee of the authority for the purposes of any enactment.
+**6.**[^c-2d00aef4bb29af5007e6b920ee6393ae] (1) Where a relevant authority other than a health service body has determined that a committee of that authority should be its auditor panel, the panel when acting as such is not to be treated as a committee of the authority for the purposes of any enactment.
 
 (2) Sub-paragraph (1) is subject to provision made by regulations under paragraph 5.
 
@@ -173,11 +173,11 @@ and for this purpose “**partner**” means a spouse, civil partner or someone 
 
 ### Expenses of auditor panels
 
-**7.**[^key-46caf0b0ef360b978240d8c200f8c6c1] A relevant authority must meet the reasonable expenses of its auditor panel incurred by the panel when acting as such.
+**7.**[^c-46caf0b0ef360b978240d8c200f8c6c1] A relevant authority must meet the reasonable expenses of its auditor panel incurred by the panel when acting as such.
 
-### Connected entities[^key-c84b47c5831cdc57298abbaf49ea2284]
+### Connected entities[^c-c84b47c5831cdc57298abbaf49ea2284]
 
-**8.**[^key-8a95c0af71efe63b90079c7a657cb1cc][^key-26b8a0c66d8163da5c660e8779574f90] (1) For the purposes of this Act, an entity (“E”) is connected with a relevant authority at any time if E is an entity other than the relevant authority and the relevant authority considers that, in accordance with proper practices in force at that time—
+**8.**[^c-8a95c0af71efe63b90079c7a657cb1cc][^c-26b8a0c66d8163da5c660e8779574f90] (1) For the purposes of this Act, an entity (“E”) is connected with a relevant authority at any time if E is an entity other than the relevant authority and the relevant authority considers that, in accordance with proper practices in force at that time—
 
 - (a) the financial transactions, reserves, assets and liabilities of E are to be consolidated into the relevant authority's statement of accounts for the financial year in which that time falls,
 - (b) the relevant authority's share of the financial transactions, reserves, assets and liabilities of E is to be consolidated into the relevant authority's statement of accounts for that financial year, or
@@ -191,40 +191,40 @@ and for this purpose “**partner**” means a spouse, civil partner or someone 
 
 ## Annotations
 
-[^key-1d77ea65f4a43cf7a30e998d9292a950]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/4) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/37)
+[^c-1d77ea65f4a43cf7a30e998d9292a950]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2014/2/schedule/4) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/37)
 
-[^key-72a9cbcd2f0786010b014652f128af1c]: Commencement: Sch. 4 para. 1 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-72a9cbcd2f0786010b014652f128af1c]: Commencement: Sch. 4 para. 1 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
 [^M_I_dfef90a6-4a58-4549-e147-01b847f24146]: Commencement: Sch. 4 para. 2(9) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), art. 2(i)
 
-[^key-d8f7fe9151801d96b892e99476a208a5]: Commencement: Sch. 4 para. 2 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-d8f7fe9151801d96b892e99476a208a5]: Commencement: Sch. 4 para. 2 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
-[^key-8ffbe5041449eca1da500da8119c2c87]: Modification: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/4/paragraph/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/37/2)
+[^c-8ffbe5041449eca1da500da8119c2c87]: Modification: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/4/paragraph/2) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/37/2)
 
-[^key-fc66d3746fb926cf2ff465e8ba3fbcc4]: Modification: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/4/paragraph/2) modified (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 40](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/40) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-fc66d3746fb926cf2ff465e8ba3fbcc4]: Modification: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/4/paragraph/2) modified (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 40](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/40) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
-[^key-ec11b532b1d04f10313ba1e7f1b6fd43]: Textual amendment: Sch. 4 para. 2(2) substituted for Sch. 4 para. 2(2)(3) (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1,](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(2)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/2)
+[^c-ec11b532b1d04f10313ba1e7f1b6fd43]: Textual amendment: Sch. 4 para. 2(2) substituted for Sch. 4 para. 2(2)(3) (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1,](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(2)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/2)
 
-[^key-4cef63a54309112350b743142b2653b1]: Textual amendment: Sch. 4 para. 2(4)-(7) substituted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1,](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(3)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/3)
+[^c-4cef63a54309112350b743142b2653b1]: Textual amendment: Sch. 4 para. 2(4)-(7) substituted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1,](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(3)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/3)
 
-[^key-e0a00868205681e14add481b3394c01e]: Textual amendment: Words in Sch. 4 para. 2(8) substituted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(4)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/4)
+[^c-e0a00868205681e14add481b3394c01e]: Textual amendment: Words in Sch. 4 para. 2(8) substituted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(4)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/4)
 
-[^key-8d02db7084fc503245629f3e2fc534a4]: Textual amendment: Sch. 4 para. 2(8A) inserted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1,](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(5)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/5)
+[^c-8d02db7084fc503245629f3e2fc534a4]: Textual amendment: Sch. 4 para. 2(8A) inserted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1,](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(5)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/5)
 
 [^M_I_3cc0b5d3-40a0-4305-a692-38951b921fa5]: Commencement: Sch. 4 paras. 3-5 in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), art. 2(i)
 
-[^key-5d5abc2c79855ed220f5c5d2de4d5ede]: Commencement: Sch. 4 para. 3 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-5d5abc2c79855ed220f5c5d2de4d5ede]: Commencement: Sch. 4 para. 3 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
-[^key-12de09ac889c95dfd7eab06f42428073]: Commencement: Sch. 4 para. 4 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-12de09ac889c95dfd7eab06f42428073]: Commencement: Sch. 4 para. 4 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
-[^key-7c87868109b2494fee83d109efde9436]: Commencement: Sch. 4 para. 5 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-7c87868109b2494fee83d109efde9436]: Commencement: Sch. 4 para. 5 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
-[^key-2d00aef4bb29af5007e6b920ee6393ae]: Commencement: Sch. 4 para. 6 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-2d00aef4bb29af5007e6b920ee6393ae]: Commencement: Sch. 4 para. 6 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
-[^key-46caf0b0ef360b978240d8c200f8c6c1]: Commencement: Sch. 4 para. 7 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-46caf0b0ef360b978240d8c200f8c6c1]: Commencement: Sch. 4 para. 7 in force at 1.4.2015 by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
 
-[^key-c84b47c5831cdc57298abbaf49ea2284]: Textual amendment: Sch. 4 para. 8 cross-heading substituted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(6)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/6)
+[^c-c84b47c5831cdc57298abbaf49ea2284]: Textual amendment: Sch. 4 para. 8 cross-heading substituted (12.11.2014) by [The Local Audit (Auditor Panel Independence) Regulations 2014 (S.I. 2014/2845)](https://www.legislation.gov.uk/uksi/2014/2845), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2845/article/1) [2(6)](https://www.legislation.gov.uk/uksi/2014/2845/regulation/2/6)
 
-[^key-8a95c0af71efe63b90079c7a657cb1cc]: Commencement: Sch. 4 para. 8(3) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/900/article/2/i)
+[^c-8a95c0af71efe63b90079c7a657cb1cc]: Commencement: Sch. 4 para. 8(3) in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/900/article/2/i)
 
-[^key-26b8a0c66d8163da5c660e8779574f90]: Commencement: Sch. 4 para. 8 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)
+[^c-26b8a0c66d8163da5c660e8779574f90]: Commencement: Sch. 4 para. 8 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(h)](https://www.legislation.gov.uk/uksi/2015/841/article/3/h)

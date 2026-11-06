@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Correspondence instead of meetings[^key-f8973da30729fff4a9d28c500d424e5f]
+## 61. Correspondence instead of meetings[^c-f8973da30729fff4a9d28c500d424e5f]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8973da30729fff4a9d28c500d424e5f]: Commencement: [Rule 61](https://www.legislation.gov.uk/nisr/2026/11/rule/61) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f8973da30729fff4a9d28c500d424e5f]: Commencement: [Rule 61](https://www.legislation.gov.uk/nisr/2026/11/rule/61) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

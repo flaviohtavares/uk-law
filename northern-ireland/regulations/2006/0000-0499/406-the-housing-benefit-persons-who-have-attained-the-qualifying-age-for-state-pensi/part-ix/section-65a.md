@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 65A. Notice of change of circumstances given electronically[^key-bf8e8038fea6f52bc7c723085cc2d823]
+## 65A. Notice of change of circumstances given electronically[^c-bf8e8038fea6f52bc7c723085cc2d823]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A person may give notice of a change of circumstances required to be notified un
 
 ## Annotations
 
-[^key-bf8e8038fea6f52bc7c723085cc2d823]: Textual amendment: [Reg. 65A](https://www.legislation.gov.uk/nisr/2006/406/regulation/65A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [3(4)](https://www.legislation.gov.uk/nisr/2006/463/article/3/4)
+[^c-bf8e8038fea6f52bc7c723085cc2d823]: Textual amendment: [Reg. 65A](https://www.legislation.gov.uk/nisr/2006/406/regulation/65A) inserted (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [3(4)](https://www.legislation.gov.uk/nisr/2006/463/article/3/4)

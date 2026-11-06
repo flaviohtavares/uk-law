@@ -33,9 +33,9 @@ summary: ''
 - (d) an order under section 56(9) or 58(3),
 - (e) regulations under section 61,
 - (f) an order under section 67,
-- (fa)[^key-c1f61713f4a82f28a49c7b8348f76f18] regulations under section 92,
-- (g) regulations under section 132(1), or *(affected by repeal, see note)*[^key-d2d2ebfcaa6f5dd610107424b4826bfa]
-- (ga)[^key-376aa867e7a39e73a052f032abd91f92] regulations under section 137A, or
+- (fa)[^c-c1f61713f4a82f28a49c7b8348f76f18] regulations under section 92,
+- (g) regulations under section 132(1), or *(affected by repeal, see note)*[^c-d2d2ebfcaa6f5dd610107424b4826bfa]
+- (ga)[^c-376aa867e7a39e73a052f032abd91f92] regulations under section 137A, or
 - (h) regulations under section 170 which amend or repeal any provision of an Act,
 
 may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
@@ -54,8 +54,8 @@ may not be made unless a draft of the instrument has been laid before, and appro
 
 ## Annotations
 
-[^key-c1f61713f4a82f28a49c7b8348f76f18]: Textual amendment: S. 166(2)(fa) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 43(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/43/9), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-c1f61713f4a82f28a49c7b8348f76f18]: Textual amendment: S. 166(2)(fa) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 43(9)](https://www.legislation.gov.uk/ukpga/2026/21/section/43/9), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-d2d2ebfcaa6f5dd610107424b4826bfa]: Textual amendment: Word in s. 166(2)(g) omitted (29.4.2026 for specified purposes) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/a), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-d2d2ebfcaa6f5dd610107424b4826bfa]: Textual amendment: Word in s. 166(2)(g) omitted (29.4.2026 for specified purposes) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/a), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-376aa867e7a39e73a052f032abd91f92]: Textual amendment: S. 166(2)(ga) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/b), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-376aa867e7a39e73a052f032abd91f92]: Textual amendment: S. 166(2)(ga) inserted (29.4.2026 for specified purposes) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 50(3)(b)](https://www.legislation.gov.uk/ukpga/2026/21/section/50/3/b), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

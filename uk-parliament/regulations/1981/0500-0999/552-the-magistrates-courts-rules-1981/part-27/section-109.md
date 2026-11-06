@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Signature of forms prescribed by rules made under the Act of 1980[^key-851a6cb2a8fc6ca2980cb217dad6eaf0]
+## 109. Signature of forms prescribed by rules made under the Act of 1980[^c-851a6cb2a8fc6ca2980cb217dad6eaf0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-851a6cb2a8fc6ca2980cb217dad6eaf0]: Textual amendment: [Rule 109](https://www.legislation.gov.uk/uksi/1981/552/rule/109) omitted (1.1.2020) by virtue of [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2019/1367/rule/9), (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))
+[^c-851a6cb2a8fc6ca2980cb217dad6eaf0]: Textual amendment: [Rule 109](https://www.legislation.gov.uk/uksi/1981/552/rule/109) omitted (1.1.2020) by virtue of [The Magistrates’ Courts (Amendment) Rules 2019 (S.I. 2019/1367)](https://www.legislation.gov.uk/uksi/2019/1367), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2019/1367/rule/9), (with [rule 11(1)](https://www.legislation.gov.uk/uksi/2019/1367/rule/11/1))

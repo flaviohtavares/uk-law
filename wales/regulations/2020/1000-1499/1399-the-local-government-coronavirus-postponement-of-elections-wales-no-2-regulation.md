@@ -47,15 +47,15 @@ Coming into force
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 68 of the Coronavirus Act 2020 [^c24359601]
 
-## 1. Title and commencement[^key-25412baa40c55787b9d60a0dc6e54253]
+## 1. Title and commencement[^c-25412baa40c55787b9d60a0dc6e54253]
 
 The title of these Regulations is The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020.
 
-## 2.[^key-4065f0a36edaa4412f9d4bb0449c290c]
+## 2.[^c-4065f0a36edaa4412f9d4bb0449c290c]
 
 These Regulations come into force on 4 December 2020.
 
-## 3. Interpretation[^key-191f31df418f4efec7949d83ddc024f0]
+## 3. Interpretation[^c-191f31df418f4efec7949d83ddc024f0]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 - “**opened relevant envelope**” means—
   - (a) a covering envelope that has been opened, or
   - (b) an envelope (other than a covering envelope) which is received by the returning officer or counting officer and which, when opened, contains a ballot paper envelope, postal voting statement or ballot paper;
-- “**a postponed poll**” means any poll which as a result of the 2020 Regulations will replace a relevant by-election and be held within the period commencing on 1 March 2021 and ending on 6 May 2021[^key-737ada51b23f8b42e746d5ebda8258f6];
+- “**a postponed poll**” means any poll which as a result of the 2020 Regulations will replace a relevant by-election and be held within the period commencing on 1 March 2021 and ending on 6 May 2021[^c-737ada51b23f8b42e746d5ebda8258f6];
 - “**postal voters list**” and “**proxy postal voters list**” have the same meaning as in section 202(1) of the 1983 Act [^c24359661];
 - “**principal area**” has the same meaning as in section 270(1) of the Local Government Act 1972 (general provisions as to interpretation) [^c24359671];
 - “**regulated donee**” has the same meaning as in paragraph 1 of Schedule 7 to the 2000 Act;
@@ -79,13 +79,13 @@ In these Regulations—
   - (b) the election of a councillor to fill a casual vacancy in the office of community councillor in any community council in Wales,
 
   where the poll for any such election was due to be held during the relevant period and was not held during that period as a result of the 2020 Regulations;
-- “**the relevant period**” (“***y cyfnod perthnasol***”) means the period beginning on 16 March 2020 and ending on 28 February 2021[^key-7177d9f43f4ae572c72cb64d9018aac2];
+- “**the relevant period**” (“***y cyfnod perthnasol***”) means the period beginning on 16 March 2020 and ending on 28 February 2021[^c-7177d9f43f4ae572c72cb64d9018aac2];
 - “relevant registration officer”—
   - (a) in the case of a relevant by-election—
     - (i) where the election was for a councillor to fill a casual vacancy in the office of councillor for any principal area in Wales, has the meaning given by rule 52(2) of Schedule 2 or (as the case may be) rule 52(3) of Schedule 3 to the Local Elections (Principal Areas) (England and Wales) Rules 2006 [^c24359681];
     - (ii) where the election was for a councillor to fill a casual vacancy in the office of community councillor in any community council in Wales, has the meaning given by rule 52(2) of Schedule 2 or (as the case may be) rule 52(3) of Schedule 3 to the Local Elections (Parishes and Communities) (England and Wales) Rules 2006 [^c24359691].
 
-## 4. Postal ballots: general[^key-511fa4d5968ab2a1beb1b7f3eaecfd6a]
+## 4. Postal ballots: general[^c-511fa4d5968ab2a1beb1b7f3eaecfd6a]
 
 (1) A postal ballot paper which was returned by a postal voter in relation to a relevant by-election has no effect for the purposes of a postponed poll.
 
@@ -95,7 +95,7 @@ In these Regulations—
 
 (4) Regulation 84A [^c24359721] of the 2001 Regulations (confirming receipt of postal voting statements) does not apply in relation to any postal ballots issued in relation to a relevant by-election.
 
-## 5. Postal ballots: disposal of documents by the returning or counting officer[^key-2461f56503a1b1905f5ba1814565ee67]
+## 5. Postal ballots: disposal of documents by the returning or counting officer[^c-2461f56503a1b1905f5ba1814565ee67]
 
 (1) The returning officer for a relevant by-election—
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 (5) Section 36(4) or (5A) of the 1983 Act (local elections in England and Wales: payment of expenditure) [^c24359731] applies to all expenditure properly incurred by a returning officer in relation to the exercise of the officer's functions under this regulation as it applies to expenditure properly incurred in relation to the holding of an election.
 
-## 6. Postal ballots: retention, production and destruction of documents by the relevant registration officer[^key-5ed349928a82066a60cc1e020d72250a]
+## 6. Postal ballots: retention, production and destruction of documents by the relevant registration officer[^c-5ed349928a82066a60cc1e020d72250a]
 
 (1) The relevant registration officer must—
 
@@ -153,7 +153,7 @@ In these Regulations—
 
 (6) Section 54 of the 1983 Act (payments of expenses of registration) [^c24359771] applies to the exercise of functions of the relevant registration officer under this regulation as it applies to the exercise of functions of the registration officer under the 1983 Act.
 
-## 7. Candidates at relevant by-elections[^key-6a378c2b778b8543974a2a8ad69026bf]
+## 7. Candidates at relevant by-elections[^c-6a378c2b778b8543974a2a8ad69026bf]
 
 (1) A person (“P”) who was a candidate at a relevant by-election is no longer to be regarded as a candidate, and is treated as not having been a candidate before the coming into force of this regulation.
 
@@ -174,7 +174,7 @@ In these Regulations—
 
 (8) Nothing in this regulation affects whether P is a candidate in respect of a postponed poll or any requirements which would apply in relation to P as a candidate in respect of a postponed poll.
 
-## 8. Amendment of the 2001 Regulations[^key-aa808c9853077bca922d9e22503d9f6b]
+## 8. Amendment of the 2001 Regulations[^c-aa808c9853077bca922d9e22503d9f6b]
 
 (1) The 2001 Regulations are amended in accordance with this regulation.
 
@@ -201,11 +201,11 @@ In these Regulations—
 
 (3) The Welsh Ministers must review the amendments made to the 2001 Regulations by this regulation at least once every year, with the first review being carried out by 1 October 2021.
 
-(4)[^key-cac3c03d47cc588df038b3a31e6d487d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cac3c03d47cc588df038b3a31e6d487d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Notices required for co-option of community councillors for casual vacancies[^key-6be93d03ac3195c4f1b1293d4547f414]
+## 9. Notices required for co-option of community councillors for casual vacancies[^c-6be93d03ac3195c4f1b1293d4547f414]
 
-(1) This regulation applies in relation to a public notice required by virtue of section 116(2) of the Local Government (Wales) Measure 2011 [^c24359861] (“**the 2011 Measure**”) in respect of a vacancy or vacancies arising between 16 March 2020 and 28 February 2021[^key-55b17cf3682e8cb6a8a4393aecd33d9e].
+(1) This regulation applies in relation to a public notice required by virtue of section 116(2) of the Local Government (Wales) Measure 2011 [^c24359861] (“**the 2011 Measure**”) in respect of a vacancy or vacancies arising between 16 March 2020 and 28 February 2021[^c-55b17cf3682e8cb6a8a4393aecd33d9e].
 
 (2) Section 232 of the Local Government Act 1972 [^c24359871] does not apply.
 
@@ -239,11 +239,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24359601]: Marginal citation: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-25412baa40c55787b9d60a0dc6e54253]: Commencement: Reg. 1 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-25412baa40c55787b9d60a0dc6e54253]: Commencement: Reg. 1 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
-[^key-4065f0a36edaa4412f9d4bb0449c290c]: Commencement: Reg. 2 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-4065f0a36edaa4412f9d4bb0449c290c]: Commencement: Reg. 2 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
-[^key-191f31df418f4efec7949d83ddc024f0]: Commencement: Reg. 3 in force at 4.12.2020, see reg. 2
+[^c-191f31df418f4efec7949d83ddc024f0]: Commencement: Reg. 3 in force at 4.12.2020, see reg. 2
 
 [^c24359611]: Marginal citation: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -255,19 +255,19 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24359651]: Marginal citation: Section 118A was inserted by the [Political Parties, Elections and Referendums Act 2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41), [section 135](https://www.legislation.gov.uk/ukpga/2000/41/section/135).
 
-[^key-737ada51b23f8b42e746d5ebda8258f6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2020/1399/regulation/3) substituted (29.1.2021) by [The Local Government (Coronavirus) (Postponement of Elections) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/88)](https://www.legislation.gov.uk/wsi/2021/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/88/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2021/88/regulation/3/2/a)
+[^c-737ada51b23f8b42e746d5ebda8258f6]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2020/1399/regulation/3) substituted (29.1.2021) by [The Local Government (Coronavirus) (Postponement of Elections) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/88)](https://www.legislation.gov.uk/wsi/2021/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/88/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/wsi/2021/88/regulation/3/2/a)
 
 [^c24359661]: Marginal citation: Section 202(1) was amended by the [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [Schedule 1](https://www.legislation.gov.uk/ukpga/2006/22/schedule/1), [paragraph 128](https://www.legislation.gov.uk/ukpga/2006/22/paragraph/128).
 
 [^c24359671]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 270(1) was amended by the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 16](https://www.legislation.gov.uk/ukpga/1985/51/schedule/16), [paragraph 8](https://www.legislation.gov.uk/ukpga/1985/51/paragraph/8).
 
-[^key-7177d9f43f4ae572c72cb64d9018aac2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2020/1399/regulation/3) substituted (29.1.2021) by [The Local Government (Coronavirus) (Postponement of Elections) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/88)](https://www.legislation.gov.uk/wsi/2021/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/88/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2021/88/regulation/3/2/b)
+[^c-7177d9f43f4ae572c72cb64d9018aac2]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2020/1399/regulation/3) substituted (29.1.2021) by [The Local Government (Coronavirus) (Postponement of Elections) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/88)](https://www.legislation.gov.uk/wsi/2021/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/88/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/wsi/2021/88/regulation/3/2/b)
 
 [^c24359681]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304), to which there are amendments not relevant to these Regulations.
 
 [^c24359691]: Marginal citation: [S.I. 2006/3305](https://www.legislation.gov.uk/uksi/2006/3305), to which there are amendments not relevant to these Regulations.
 
-[^key-511fa4d5968ab2a1beb1b7f3eaecfd6a]: Commencement: Reg. 4 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-511fa4d5968ab2a1beb1b7f3eaecfd6a]: Commencement: Reg. 4 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
 [^c24359701]: Marginal citation: [Regulation 87](https://www.legislation.gov.uk/wsi/2020/1399/regulation/87) was amended by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910) and [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198).
 
@@ -275,11 +275,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24359721]: Marginal citation: [Regulation 84A](https://www.legislation.gov.uk/wsi/2020/1399/regulation/84A) was inserted by [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910), [regulation 52](https://www.legislation.gov.uk/uksi/2006/2910/regulation/52).
 
-[^key-2461f56503a1b1905f5ba1814565ee67]: Commencement: Reg. 5 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-2461f56503a1b1905f5ba1814565ee67]: Commencement: Reg. 5 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
 [^c24359731]: Marginal citation: [Section 36(4)](https://www.legislation.gov.uk/wsi/2020/1399/section/36/4) and (5A) was amended by the [Local Government Act 1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), [Schedule 17](https://www.legislation.gov.uk/ukpga/1985/51/schedule/17); by the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), [Schedule 16](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16), [paragraphs 68(9)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/68/9) and (10).
 
-[^key-5ed349928a82066a60cc1e020d72250a]: Commencement: Reg. 6 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-5ed349928a82066a60cc1e020d72250a]: Commencement: Reg. 6 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
 [^c24359741]: Marginal citation: [S.I. 2006/3304](https://www.legislation.gov.uk/uksi/2006/3304).
 
@@ -289,7 +289,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24359771]: Marginal citation: [Section 54](https://www.legislation.gov.uk/wsi/2020/1399/section/54) was amended by the Representation of the People Act 1985, Schedule 4, paragraph 14; and by the [Electoral Registration and Administration Act 2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6), [Schedule 4](https://www.legislation.gov.uk/ukpga/2013/6/schedule/4), [paragraphs 1](https://www.legislation.gov.uk/ukpga/2013/6/paragraph/1) and 17.
 
-[^key-6a378c2b778b8543974a2a8ad69026bf]: Commencement: Reg. 7 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-6a378c2b778b8543974a2a8ad69026bf]: Commencement: Reg. 7 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
 [^c24359781]: Marginal citation: [Section 71A](https://www.legislation.gov.uk/wsi/2020/1399/section/71A) was inserted by the Political Parties, Elections and Referendums Act 2000 (“**the 2000 Act**”), section 130. Schedule 2A was inserted by Schedule 16 to the 2000 Act.
 
@@ -305,16 +305,16 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24359841]: Marginal citation: [Paragraph 10(2)](https://www.legislation.gov.uk/wsi/2020/1399/paragraph/10/2) was amended by PPE 2009, section 20.
 
-[^key-aa808c9853077bca922d9e22503d9f6b]: Commencement: Reg. 8 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
+[^c-aa808c9853077bca922d9e22503d9f6b]: Commencement: Reg. 8 in force at 4.12.2020, see [reg. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2)
 
 [^c24359851]: Marginal citation: [Regulation 56](https://www.legislation.gov.uk/wsi/2020/1399/regulation/56) was amended by [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [S.I](https://www.legislation.gov.uk/uksi/2001/1700/section/I). 2006/752, [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910) and [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198).
 
-[^key-cac3c03d47cc588df038b3a31e6d487d]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/8/4) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/10/4/a)
+[^c-cac3c03d47cc588df038b3a31e6d487d]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/8/4) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/wsi/2022/263/regulation/10/4/a)
 
-[^key-6be93d03ac3195c4f1b1293d4547f414]: Commencement: Reg. 9 in force at 4.12.2020, see reg. 2
+[^c-6be93d03ac3195c4f1b1293d4547f414]: Commencement: Reg. 9 in force at 4.12.2020, see reg. 2
 
 [^c24359861]: Marginal citation: 2011 nawm 4.
 
-[^key-55b17cf3682e8cb6a8a4393aecd33d9e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/9/1) substituted (29.1.2021) by [The Local Government (Coronavirus) (Postponement of Elections) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/88)](https://www.legislation.gov.uk/wsi/2021/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/88/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2021/88/regulation/3/3)
+[^c-55b17cf3682e8cb6a8a4393aecd33d9e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/9/1) substituted (29.1.2021) by [The Local Government (Coronavirus) (Postponement of Elections) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/88)](https://www.legislation.gov.uk/wsi/2021/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/88/regulation/1/2), [3(3)](https://www.legislation.gov.uk/wsi/2021/88/regulation/3/3)
 
 [^c24359871]: Marginal citation: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70). Relevant amendments were made by the Local Government (Democracy) (Wales) Act 2013 (2013 anaw 4), section 56.

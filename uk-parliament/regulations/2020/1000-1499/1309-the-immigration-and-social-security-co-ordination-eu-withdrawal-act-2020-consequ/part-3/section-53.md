@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendment of the Income Support (General) Regulations 1987[^key-c165e4d39debb84298ba1a5114b887b8][^M_I_8946f13c-dacf-40d8-d5db-f3b04857c796]
+## 53. Amendment of the Income Support (General) Regulations 1987[^c-c165e4d39debb84298ba1a5114b887b8][^M_I_8946f13c-dacf-40d8-d5db-f3b04857c796]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c165e4d39debb84298ba1a5114b887b8]: Commencement: Reg. 53 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-c165e4d39debb84298ba1a5114b887b8]: Commencement: Reg. 53 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_8946f13c-dacf-40d8-d5db-f3b04857c796]: Commencement: Reg. 53 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

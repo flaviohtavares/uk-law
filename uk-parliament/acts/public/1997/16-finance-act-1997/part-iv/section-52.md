@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Enforcement by diligence.[^key-4ffc4ddbb893c153cf740a127a7b08a4]
+## 52. Enforcement by diligence.[^c-4ffc4ddbb893c153cf740a127a7b08a4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ffc4ddbb893c153cf740a127a7b08a4]: Textual amendment: S. 52 omitted (23.11.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/15); [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3024/article/4))
+[^c-4ffc4ddbb893c153cf740a127a7b08a4]: Textual amendment: S. 52 omitted (23.11.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 129(4)](https://www.legislation.gov.uk/ukpga/2008/9/section/129/4), [Sch. 43 para. 15](https://www.legislation.gov.uk/ukpga/2008/9/schedule/43/paragraph/15); [S.I. 2009/3024](https://www.legislation.gov.uk/uksi/2009/3024), [art. 3](https://www.legislation.gov.uk/uksi/2009/3024/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3024/article/4))

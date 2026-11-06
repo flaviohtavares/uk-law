@@ -34,7 +34,7 @@ An Act to make provision for establishing and maintaining a register of persons 
 
 \[30th January 2014\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2f94b386442e33117e83e0778b4506d6][^key-d028c9df30d145574b84ecd244f40f72]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2f94b386442e33117e83e0778b4506d6][^c-d028c9df30d145574b84ecd244f40f72]
 
 ## Contents
 
@@ -133,6 +133,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2f94b386442e33117e83e0778b4506d6]: Modification: Act: functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-2f94b386442e33117e83e0778b4506d6]: Modification: Act: functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-d028c9df30d145574b84ecd244f40f72]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/4) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(t)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/t) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-d028c9df30d145574b84ecd244f40f72]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2014/4) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(t)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/t) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

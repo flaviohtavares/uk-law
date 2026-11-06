@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Calculation of average weekly income[^key-9af7c9cc8ceb8cbd375e23285e05950f]
+## 43. Calculation of average weekly income[^c-9af7c9cc8ceb8cbd375e23285e05950f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9af7c9cc8ceb8cbd375e23285e05950f]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2021/249/regulation/43) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-9af7c9cc8ceb8cbd375e23285e05950f]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2021/249/regulation/43) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

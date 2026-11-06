@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137ZA. Arrest under section 136 or 137 in connection with offence in Scotland[^key-9205852e17b0c026e79d7af6eadf00c9]
+## 137ZA. Arrest under section 136 or 137 in connection with offence in Scotland[^c-9205852e17b0c026e79d7af6eadf00c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9205852e17b0c026e79d7af6eadf00c9]: Textual amendment: [S. 137ZA](https://www.legislation.gov.uk/ukpga/1994/33/section/137ZA) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/1/paragraph/4) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2018/46/article/5/2))
+[^c-9205852e17b0c026e79d7af6eadf00c9]: Textual amendment: [S. 137ZA](https://www.legislation.gov.uk/ukpga/1994/33/section/137ZA) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential Provisions) Order 2018 (S.I. 2018/46)](https://www.legislation.gov.uk/uksi/2018/46), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/a)[(f)](https://www.legislation.gov.uk/uksi/2018/46/article/2/2/f), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2018/46/schedule/1/paragraph/4) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2018/46/article/5/2))

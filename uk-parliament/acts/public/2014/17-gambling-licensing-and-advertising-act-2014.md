@@ -42,11 +42,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### 1. Licensing of remote gambling[^c2211418]
 
-(1)[^key-f38fdc5aa7a6104964024427a4e58483] In section 33 of the Gambling Act 2005 (provision of facilities for gambling), after subsection (3) insert—
+(1)[^c-f38fdc5aa7a6104964024427a4e58483] In section 33 of the Gambling Act 2005 (provision of facilities for gambling), after subsection (3) insert—
 
 > (3A) Section 36(3A) limits the application of this section in cases involving the use in Great Britain of certain facilities for remote gambling.
 
-(2)[^key-f38fdc5aa7a6104964024427a4e58483] In section 36 of that Act (territorial application: provision of facilities for gambling), for subsection (3) substitute—
+(2)[^c-f38fdc5aa7a6104964024427a4e58483] In section 36 of that Act (territorial application: provision of facilities for gambling), for subsection (3) substitute—
 
 > (3) Section 33 applies to the provision of facilities for remote gambling only if—
 >
@@ -55,7 +55,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (3A) In a case within subsection (3)(b), the person providing the facilities commits an offence under section 33 only if the person knows or should know that the facilities are being used, or are likely to be used, in Great Britain.
 
-(3)[^key-f38fdc5aa7a6104964024427a4e58483] In section 26B of the Betting and Gaming Duties Act 1981 (remote gaming duty), omit paragraph (a) (and the “or” at the end).
+(3)[^c-f38fdc5aa7a6104964024427a4e58483] In section 26B of the Betting and Gaming Duties Act 1981 (remote gaming duty), omit paragraph (a) (and the “or” at the end).
 
 (4) The Secretary of State may by order made by statutory instrument make provision about the making, consideration and determination of advance applications.
 
@@ -70,7 +70,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) A statutory instrument containing an order under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 2. Payment of Horserace Betting Levy by holders of remote operating licences[^key-5368800a22095c530bfdaff0a32e1c0e]
+### 2. Payment of Horserace Betting Levy by holders of remote operating licences[^c-5368800a22095c530bfdaff0a32e1c0e]
 
 (1) The Secretary of State may by regulations made by statutory instrument make provision so as to secure that the bookmakers by whom the levy under section 27 of the Betting, Gaming and Lotteries Act 1963 is payable include bookmakers who are required to hold a remote operating licence (within the meaning given by the Gambling Act 2005).
 
@@ -90,7 +90,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Advertising
 
-### 3. Repeal of existing offence of advertising foreign gambling[^key-0d3e4c2e9ab0e521a58b21c796f63211]
+### 3. Repeal of existing offence of advertising foreign gambling[^c-0d3e4c2e9ab0e521a58b21c796f63211]
 
 (1) Section 331 of the Gambling Act 2005 (offence of advertising foreign gambling) is repealed.
 
@@ -102,7 +102,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (iii) section 361(1)(b) (but not the “and” at the end), and
 - (b) in section 333(4), for “(1)(a), (2)(a) and (3)” substitute “ (1)(a) and (2)(a) ”.
 
-### 4. Advertising of gambling by way of remote communication: Great Britain[^key-4b1aeb8c9f57ff2ec0bc7b22a86bbd71]
+### 4. Advertising of gambling by way of remote communication: Great Britain[^c-4b1aeb8c9f57ff2ec0bc7b22a86bbd71]
 
 *Extent: E+W+S*
 
@@ -116,7 +116,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >   - (i) at least one piece of remote gambling equipment to be used in providing facilities for the gambling is or will be situated in Great Britain, or
 >   - (ii) no such equipment is or will be situated in Great Britain, but the facilities are or will be capable of being used there.
 
-### 5. Offence of advertising unlicensed remote gambling: Northern Ireland[^key-7c34b24df263d57e37a3bc19df1fea00]
+### 5. Offence of advertising unlicensed remote gambling: Northern Ireland[^c-7c34b24df263d57e37a3bc19df1fea00]
 
 *Extent: N.I.*
 
@@ -166,12 +166,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 [^c2211418]: Commencement: S. 1 partly in force; S.1(4)-(7) in force at Royal Assent, see s. 6(4)
 
-[^key-f38fdc5aa7a6104964024427a4e58483]: Commencement: S. 1(1)-(3) in force at 1.11.2014 for specified purposes by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/a) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
+[^c-f38fdc5aa7a6104964024427a4e58483]: Commencement: S. 1(1)-(3) in force at 1.11.2014 for specified purposes by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/a) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
 
-[^key-5368800a22095c530bfdaff0a32e1c0e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/17/section/2) in force at 31.1.2017 by [S.I. 2017/20](https://www.legislation.gov.uk/uksi/2017/20), [art. 2](https://www.legislation.gov.uk/uksi/2017/20/article/2)
+[^c-5368800a22095c530bfdaff0a32e1c0e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2014/17/section/2) in force at 31.1.2017 by [S.I. 2017/20](https://www.legislation.gov.uk/uksi/2017/20), [art. 2](https://www.legislation.gov.uk/uksi/2017/20/article/2)
 
-[^key-0d3e4c2e9ab0e521a58b21c796f63211]: Commencement: S. 3 in force at 1.11.2014 by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/b) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
+[^c-0d3e4c2e9ab0e521a58b21c796f63211]: Commencement: S. 3 in force at 1.11.2014 by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/b) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
 
-[^key-4b1aeb8c9f57ff2ec0bc7b22a86bbd71]: Commencement: S. 4 in force at 1.11.2014 by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/c) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
+[^c-4b1aeb8c9f57ff2ec0bc7b22a86bbd71]: Commencement: S. 4 in force at 1.11.2014 by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/c) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
 
-[^key-7c34b24df263d57e37a3bc19df1fea00]: Commencement: S. 5 in force at 1.11.2014 by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/d) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)
+[^c-7c34b24df263d57e37a3bc19df1fea00]: Commencement: S. 5 in force at 1.11.2014 by [S.I. 2014/2444](https://www.legislation.gov.uk/uksi/2014/2444), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2444/article/2/d) (as amended (29.9.2014) by S.I. 2014/2646, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Withdrawal of notice of referral[^key-d6c674f396a908bfe56004097711b6d7]
+## 89. Withdrawal of notice of referral[^c-d6c674f396a908bfe56004097711b6d7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A designated officer or the relevant person may withdraw a notice of referral un
 
 ## Annotations
 
-[^key-d6c674f396a908bfe56004097711b6d7]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2014/16/section/89) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-d6c674f396a908bfe56004097711b6d7]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2014/16/section/89) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

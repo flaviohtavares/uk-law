@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Coming into force[^key-9c58ff8cb6b1ab182aa59bb05aa09a99]
+## 9. Coming into force[^c-9c58ff8cb6b1ab182aa59bb05aa09a99]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c58ff8cb6b1ab182aa59bb05aa09a99]: Commencement: S. 9 in force at 11.7.2025, see [s. 9(1)](https://www.legislation.gov.uk/asc/2025/3/section/9/1)
+[^c-9c58ff8cb6b1ab182aa59bb05aa09a99]: Commencement: S. 9 in force at 11.7.2025, see [s. 9(1)](https://www.legislation.gov.uk/asc/2025/3/section/9/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Burning and welding in coal mines[^key-32bf62bf5caa3c17a0481e1d3d6d09d0]
+## 25. Burning and welding in coal mines[^c-32bf62bf5caa3c17a0481e1d3d6d09d0]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The mine operator must ensure that—
 
 ## Annotations
 
-[^key-32bf62bf5caa3c17a0481e1d3d6d09d0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/3248/regulation/25) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-32bf62bf5caa3c17a0481e1d3d6d09d0]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2014/3248/regulation/25) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

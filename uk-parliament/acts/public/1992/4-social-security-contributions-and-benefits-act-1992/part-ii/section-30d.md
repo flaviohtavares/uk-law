@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30D. Incapacity benefit: construction of references to days of entitlement.[^key-7a46fa6c34bb30a262cae417d80ccf14][^key-bc0c0930807c7d227209e7083b9d70f6]
+## 30D. Incapacity benefit: construction of references to days of entitlement.[^c-7a46fa6c34bb30a262cae417d80ccf14][^c-bc0c0930807c7d227209e7083b9d70f6]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ the number of days for which a person has been entitled to short-term incapacity
 
 ## Annotations
 
-[^key-7a46fa6c34bb30a262cae417d80ccf14]: Modification: S. 30D modified (6.4.2003) by [The Social Security Contributions and Benefits Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/737)](https://www.legislation.gov.uk/uksi/2003/737), [regs. 1](https://www.legislation.gov.uk/uksi/2003/737/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/737/regulation/3)
+[^c-7a46fa6c34bb30a262cae417d80ccf14]: Modification: S. 30D modified (6.4.2003) by [The Social Security Contributions and Benefits Act 1992 (Modifications for Her Majestys Forces and Incapacity Benefit) Regulations 2003 (S.I. 2003/737)](https://www.legislation.gov.uk/uksi/2003/737), [regs. 1](https://www.legislation.gov.uk/uksi/2003/737/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/737/regulation/3)
 
-[^key-bc0c0930807c7d227209e7083b9d70f6]: Textual amendment: Ss. 30C-30E inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/18/section/3/1), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310))
+[^c-bc0c0930807c7d227209e7083b9d70f6]: Textual amendment: Ss. 30C-30E inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/1994/18/section/3/1), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310))

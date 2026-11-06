@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9a43569f77c7ce82663266a10ba440ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After section 33D of the 1986 Act there is inserted—
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c1259002]: Commencement: S. 20 wholly in force at 1.10.2001; s. 20 not in force at Royal Assent see s. 110(2); s. 20(1)(2)(3)(4) in force at 7.11.2000 by [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule)(subject to transitional provisions in arts. 3-12); s. 20(5)(6) in force at 7.11.2000 for certain purposes by [S.I. 2000/2974](https://www.legislation.gov.uk/uksi/2000/2974), [art. 2](https://www.legislation.gov.uk/uksi/2000/2974/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2974/schedule) (subject to transitional provisions in [arts. 3-12](https://www.legislation.gov.uk/uksi/2000/2974/article/3)); s. 20(5)(6) in force for all remaining purposes at 1.10.2001 by [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [art. 2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-9a43569f77c7ce82663266a10ba440ea]: Textual amendment: S. 20(1)-(4) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-9a43569f77c7ce82663266a10ba440ea]: Textual amendment: S. 20(1)-(4) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)

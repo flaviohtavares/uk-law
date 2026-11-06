@@ -59,7 +59,7 @@ An Act to make further provision with respect to the pensions and other benefits
 - [Section 8 — Rate of children’s pension.](part-i/section-8.md)
 - [Section 9 — Contribution towards cost of surviving spouse’s , surviving civil partner's and children’s pension.](part-i/section-9.md)
 
-#### Contributions[^key-24f8cdd222c1b845e18bb05c1bf6b1c5]
+#### Contributions[^c-24f8cdd222c1b845e18bb05c1bf6b1c5]
 
 - [Section 9A — Contributions towards cost of judicial pension etc](part-i/section-9a.md)
 
@@ -87,7 +87,7 @@ An Act to make further provision with respect to the pensions and other benefits
 - [Section 17 — Effect of certain nullity decrees.](part-i/section-17.md)
 - [Section 18 — Continuity of tax treatment.](part-i/section-18.md)
 
-### PART 1A — FEE-PAID JUDGES[^key-8cb76f85972a5da19b379653f5771d46]
+### PART 1A — FEE-PAID JUDGES[^c-8cb76f85972a5da19b379653f5771d46]
 
 - [Section 18A — Pension scheme for fee-paid judges](part-1a/section-18a.md)
 
@@ -187,6 +187,6 @@ SCHEDULES
 
 [^c20876441]: Modification: Pt. 1 applied (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2007/15/section/48/2), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 9 para. 11(4)(5)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/9/paragraph/11/4/5); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5(d)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3))
 
-[^key-24f8cdd222c1b845e18bb05c1bf6b1c5]: Textual amendment: S. 9A and cross-heading inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 34](https://www.legislation.gov.uk/ukpga/2011/19/section/34), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/g)
+[^c-24f8cdd222c1b845e18bb05c1bf6b1c5]: Textual amendment: S. 9A and cross-heading inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [ss. 34](https://www.legislation.gov.uk/ukpga/2011/19/section/34), [38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(g)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/g)
 
-[^key-8cb76f85972a5da19b379653f5771d46]: Textual amendment: Pt. 1A inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 78(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/78/1), [89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-8cb76f85972a5da19b379653f5771d46]: Textual amendment: Pt. 1A inserted (3.3.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 78(1)](https://www.legislation.gov.uk/ukpga/2015/8/section/78/1), [89(1)(c)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/1/c) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

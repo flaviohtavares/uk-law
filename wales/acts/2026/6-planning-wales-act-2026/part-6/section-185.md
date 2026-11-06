@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Appeals relating to calculation of CIL[^key-cf9115ca820b552b9df4a5d83f66b2b7]
+## 185. Appeals relating to calculation of CIL[^c-cf9115ca820b552b9df4a5d83f66b2b7]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf9115ca820b552b9df4a5d83f66b2b7]: Commencement: S. 185 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-cf9115ca820b552b9df4a5d83f66b2b7]: Commencement: S. 185 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

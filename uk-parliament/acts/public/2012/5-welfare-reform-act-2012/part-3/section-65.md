@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Persons under 18[^key-f5fd7af99e6ec2c541bfff52032b1df0]
+## 65. Persons under 18[^c-f5fd7af99e6ec2c541bfff52032b1df0]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5fd7af99e6ec2c541bfff52032b1df0]: Commencement: S. 65 in force at 5.12.2012 by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/b)
+[^c-f5fd7af99e6ec2c541bfff52032b1df0]: Commencement: S. 65 in force at 5.12.2012 by [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(6)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/6/b)

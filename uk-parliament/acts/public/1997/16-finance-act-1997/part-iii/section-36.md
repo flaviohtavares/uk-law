@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Buildings intended to be used as dwellings.[^key-e1744df4c1fa485410489911ef506ada]
+## 36. Buildings intended to be used as dwellings.[^c-e1744df4c1fa485410489911ef506ada]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1744df4c1fa485410489911ef506ada]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1997/16/section/36) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/8) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-e1744df4c1fa485410489911ef506ada]: Textual amendment: [S. 36](https://www.legislation.gov.uk/ukpga/1997/16/section/36) omitted (with effect in accordance with art. 1(2) of the amending S.I.) by virtue of [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/1146/schedule/1/paragraph/8) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))

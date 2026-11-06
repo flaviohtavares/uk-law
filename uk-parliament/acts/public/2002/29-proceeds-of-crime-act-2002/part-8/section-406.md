@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 406. Statements[^key-e9f6cbb425e0ddd0a36d4e30463356c5][^key-15411d6c2b821f148e9d625977c7e542][^key-9fb9660bb8a22963298fdd9b731a9802]
+## 406. Statements[^c-e9f6cbb425e0ddd0a36d4e30463356c5][^c-15411d6c2b821f148e9d625977c7e542][^c-9fb9660bb8a22963298fdd9b731a9802]
 
 *Extent: S*
 
@@ -37,8 +37,8 @@ by or on behalf of the financial institution in the proceedings arising out of t
 
 ## Annotations
 
-[^key-e9f6cbb425e0ddd0a36d4e30463356c5]: Commencement: S. 406 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-e9f6cbb425e0ddd0a36d4e30463356c5]: Commencement: S. 406 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-15411d6c2b821f148e9d625977c7e542]: Modification: S. 406 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [22(5)](https://www.legislation.gov.uk/uksi/2003/425/article/22/5)
+[^c-15411d6c2b821f148e9d625977c7e542]: Modification: S. 406 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [22(5)](https://www.legislation.gov.uk/uksi/2003/425/article/22/5)
 
-[^key-9fb9660bb8a22963298fdd9b731a9802]: Modification: S. 406 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [12(5)](https://www.legislation.gov.uk/uksi/2003/425/article/12/5), 22(5)
+[^c-9fb9660bb8a22963298fdd9b731a9802]: Modification: S. 406 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [12(5)](https://www.legislation.gov.uk/uksi/2003/425/article/12/5), 22(5)

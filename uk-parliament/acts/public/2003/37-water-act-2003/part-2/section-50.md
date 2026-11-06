@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Links between directors' pay and standards of performance[^key-cba56f55d6c67002e8ffc946dfce9765]
+## 50. Links between directors' pay and standards of performance[^c-cba56f55d6c67002e8ffc946dfce9765]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ After section 35 of the WIA there is inserted—
 
 ## Annotations
 
-[^key-cba56f55d6c67002e8ffc946dfce9765]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2003/37/section/50) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/g) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/4)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-cba56f55d6c67002e8ffc946dfce9765]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2003/37/section/50) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(g)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/g) (with [Sch. para. 4](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/4)[8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

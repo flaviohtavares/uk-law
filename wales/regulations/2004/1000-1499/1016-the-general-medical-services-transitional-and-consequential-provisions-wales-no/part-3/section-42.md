@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Newly registered patients[^key-31d6be99369205406b2414bc7e127783]
+## 42. Newly registered patients[^c-31d6be99369205406b2414bc7e127783]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ that patient shall be regarded as a patient of the general medical services cont
 
 ## Annotations
 
-[^key-31d6be99369205406b2414bc7e127783]: Commencement: Art. 42 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-31d6be99369205406b2414bc7e127783]: Commencement: Art. 42 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

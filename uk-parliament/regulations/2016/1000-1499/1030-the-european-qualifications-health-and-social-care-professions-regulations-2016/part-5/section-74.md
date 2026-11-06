@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Amendment of article 3[^key-543b1cd1604bce6a641a4e40c1129d35]
+## 74. Amendment of article 3[^c-543b1cd1604bce6a641a4e40c1129d35]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-543b1cd1604bce6a641a4e40c1129d35]: Commencement: Reg. 74 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-543b1cd1604bce6a641a4e40c1129d35]: Commencement: Reg. 74 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00055]: Footnote: Article 3 was substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

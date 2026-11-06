@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Exclusion of double liability[^key-c987cdacdf1c12906fadffc0828f285e]
+## 66. Exclusion of double liability[^c-c987cdacdf1c12906fadffc0828f285e]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c987cdacdf1c12906fadffc0828f285e]: Commencement: Art. 66 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-c987cdacdf1c12906fadffc0828f285e]: Commencement: Art. 66 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00042]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. External assistance[^key-d11756fe93065a9ae3c11a78546fd5f5][^key-e6152f3399a024e594bca5fcffca71c7][^c22725081]
+## 3. External assistance[^c-d11756fe93065a9ae3c11a78546fd5f5][^c-e6152f3399a024e594bca5fcffca71c7][^c22725081]
 
 *Extent: E+W+N.I.*
 
@@ -59,8 +59,8 @@ After section 362R of the Proceeds of Crime Act 2002 (inserted by section 2 abov
 
 ## Annotations
 
-[^key-d11756fe93065a9ae3c11a78546fd5f5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/22/section/3) in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-d11756fe93065a9ae3c11a78546fd5f5]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/22/section/3) in force at 31.1.2018 for E.W. in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
-[^key-e6152f3399a024e594bca5fcffca71c7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/22/section/3) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
+[^c-e6152f3399a024e594bca5fcffca71c7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/22/section/3) in force at 28.6.2021 for N.I. in so far as not already in force by [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/724/regulation/2/1/a)
 
 [^c22725081]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/22/section/3) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Streets/rights of way to be temporarily closed[^key-7d0b8214e1ff83d13dce7f9beef055a2]
+## SCHEDULE 7 — Streets/rights of way to be temporarily closed[^c-7d0b8214e1ff83d13dce7f9beef055a2]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ Article 11
 
 ## Annotations
 
-[^key-7d0b8214e1ff83d13dce7f9beef055a2]: Commencement: Sch. 7 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)
+[^c-7d0b8214e1ff83d13dce7f9beef055a2]: Commencement: Sch. 7 in force at 28.10.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/987/article/1)

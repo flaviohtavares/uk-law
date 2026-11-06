@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Power to authorise disclosure by the Board[^key-cc43e38130fcc86fffa062f2ac31da08]
+## 51. Power to authorise disclosure by the Board[^c-cc43e38130fcc86fffa062f2ac31da08]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc43e38130fcc86fffa062f2ac31da08]: Commencement: S. 51 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/g)
+[^c-cc43e38130fcc86fffa062f2ac31da08]: Commencement: S. 51 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(g)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/g)

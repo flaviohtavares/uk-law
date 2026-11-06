@@ -25,9 +25,9 @@ summary: ''
 (2) The allocation will not take effect if—
 
 - (a) the member dies on or before the day on which the Secretary of State accepts the member’s election;
-- (b) the dependant , spouse or civil partner[^key-aff6d44120185d5f35c831c47c9f8926] dies before the member is told that the Secretary of State has accepted the election; or
+- (b) the dependant , spouse or civil partner[^c-aff6d44120185d5f35c831c47c9f8926] dies before the member is told that the Secretary of State has accepted the election; or
 - (c) the member withdraws his application before it is accepted by the Secretary of State.
 
 ## Annotations
 
-[^key-aff6d44120185d5f35c831c47c9f8926]: Textual amendment: Words in [reg. J3(2)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/J3/2/b) substituted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/2/15)
+[^c-aff6d44120185d5f35c831c47c9f8926]: Textual amendment: Words in [reg. J3(2)(b)](https://www.legislation.gov.uk/uksi/1995/300/regulation/J3/2/b) substituted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/2/15)

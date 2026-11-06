@@ -26,7 +26,7 @@ summary: ''
 - section 101(3) (distribution of assets of mutual concerns),
 - section 108(3) (receipt of benefits by donor or connected person),
 - section 192 (debts paid after cessation),
-- section 193 (debts released after cessation), as qualified, where appropriate, by section 56(4) (car [^key-fab4707a3671e561317eae22cdbeb020]... hire),
+- section 193 (debts released after cessation), as qualified, where appropriate, by section 56(4) (car [^c-fab4707a3671e561317eae22cdbeb020]... hire),
 - section 194 (transfer of rights if transferee does not carry on trade), and
 - section 1277 (income charged on withdrawal of relief after source ceases: unremittable income).
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fab4707a3671e561317eae22cdbeb020]: Textual amendment: Words in s. 191(1) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 51](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/51)
+[^c-fab4707a3671e561317eae22cdbeb020]: Textual amendment: Words in s. 191(1) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 51](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/51)

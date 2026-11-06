@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — OLD TANKS[^key-e727cdaa973037c823281c6eec5746c8]
+## SCHEDULE 2 — OLD TANKS[^c-e727cdaa973037c823281c6eec5746c8]
 
 *Extent: E+W+S*
 
@@ -24,42 +24,42 @@ summary: ''
 
 Regulation 15(4)
 
-### 1. Interpretation[^key-e727cdaa973037c823281c6eec5746c8]
+### 1. Interpretation[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Further matters relating to interpretation[^key-e727cdaa973037c823281c6eec5746c8]
+### 2. Further matters relating to interpretation[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Construction of tanks of old tank-vehicles, tank-containers and old tank wagons for carriage by road or rail[^key-e727cdaa973037c823281c6eec5746c8]
+### 3. Construction of tanks of old tank-vehicles, tank-containers and old tank wagons for carriage by road or rail[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Testing, examination and maintenance for carriage by road or rail[^key-e727cdaa973037c823281c6eec5746c8]
+### 4. Testing, examination and maintenance for carriage by road or rail[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Testing, examination and maintenance for carriage by road[^key-e727cdaa973037c823281c6eec5746c8]
+### 5. Testing, examination and maintenance for carriage by road[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Testing, examination and maintenance for carriage by rail[^key-e727cdaa973037c823281c6eec5746c8]
+### 6. Testing, examination and maintenance for carriage by rail[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Use of old tank-vehicles, old tank wagons or tank-containers for carriage by road or rail[^key-e727cdaa973037c823281c6eec5746c8]
+### 7. Use of old tank-vehicles, old tank wagons or tank-containers for carriage by road or rail[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Keeping of documents[^key-e727cdaa973037c823281c6eec5746c8]
+### 8. Keeping of documents[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Appointment of inspection bodies by the GB competent authority[^key-e727cdaa973037c823281c6eec5746c8]
+### 9. Appointment of inspection bodies by the GB competent authority[^c-e727cdaa973037c823281c6eec5746c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)
+[^c-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)

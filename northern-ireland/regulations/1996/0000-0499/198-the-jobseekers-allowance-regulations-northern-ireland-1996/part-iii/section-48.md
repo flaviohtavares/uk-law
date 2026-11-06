@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Linking periods[^key-43dc733d9b6784d7b9409cfab192ebee]
+## 48. Linking periods[^c-43dc733d9b6784d7b9409cfab192ebee]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-43dc733d9b6784d7b9409cfab192ebee]: Commencement: Reg. 48 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-43dc733d9b6784d7b9409cfab192ebee]: Commencement: Reg. 48 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00046]: Footnote: Part XIIA was inserted by regulation 7 of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 361. Power to require functions to be exercised by committees, sub-committees or officers[^key-748c95df49094e54269d505e4c223151]
+## 361. Power to require functions to be exercised by committees, sub-committees or officers[^c-748c95df49094e54269d505e4c223151]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-748c95df49094e54269d505e4c223151]: Commencement: S. 361 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-748c95df49094e54269d505e4c223151]: Commencement: S. 361 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

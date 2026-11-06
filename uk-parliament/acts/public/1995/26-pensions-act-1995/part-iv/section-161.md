@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Repeal of sections 136 to 143 of the Pension Schemes Act 1993.[^key-5801d50b67723a26578e0b34910655e0]
+## 161. Repeal of sections 136 to 143 of the Pension Schemes Act 1993.[^c-5801d50b67723a26578e0b34910655e0]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Sections 136 to 141 (modification) and 142 and 143 (winding up) of the [^c213636
 
 ## Annotations
 
-[^key-5801d50b67723a26578e0b34910655e0]: Commencement: S. 161 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3) (with [art. 9](https://www.legislation.gov.uk/uksi/1997/664/article/9))
+[^c-5801d50b67723a26578e0b34910655e0]: Commencement: S. 161 in force at 6.4.1997 by [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/3) (with [art. 9](https://www.legislation.gov.uk/uksi/1997/664/article/9))
 
 [^c2136367]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).

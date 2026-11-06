@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a firearms dealer's certificate expires or is revoked, the Chief Constable shall[^key-1ebf57492cf05d6a366747fd8c7b69dd] by notice in writing require the holder to surrender—
+(1) Where a firearms dealer's certificate expires or is revoked, the Chief Constable shall[^c-1ebf57492cf05d6a366747fd8c7b69dd] by notice in writing require the holder to surrender—
 
 - (a) his certificate;
 - (b) any records of transactions kept by him under Article 38 (or if, the records are stored in any electronic form, a copy of the information comprised in those records in a readable form), and
@@ -36,4 +36,4 @@ and if he fails to do so within 21 days from the date of the notice or within su
 
 ## Annotations
 
-[^key-1ebf57492cf05d6a366747fd8c7b69dd]: Textual amendment: Word in art. 30(1) substituted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/2)
+[^c-1ebf57492cf05d6a366747fd8c7b69dd]: Textual amendment: Word in art. 30(1) substituted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/860/regulation/3/2)

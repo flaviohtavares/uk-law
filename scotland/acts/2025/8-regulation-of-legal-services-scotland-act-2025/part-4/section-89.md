@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Removal of practising restrictions: law centres, citizens advice bodies and charities[^key-bc362da595198f04e84776d3fc71f761][^key-3439bb20a15ed87030cd125afd5827ae]
+## 89. Removal of practising restrictions: law centres, citizens advice bodies and charities[^c-bc362da595198f04e84776d3fc71f761][^c-3439bb20a15ed87030cd125afd5827ae]
 
 *Extent: S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc362da595198f04e84776d3fc71f761]: Commencement: S. 89 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-bc362da595198f04e84776d3fc71f761]: Commencement: S. 89 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-3439bb20a15ed87030cd125afd5827ae]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2025/8/section/89) in force at 5.3.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-3439bb20a15ed87030cd125afd5827ae]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2025/8/section/89) in force at 5.3.2026 by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

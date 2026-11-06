@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48.1. When this Part applies[^key-6c75a819fab783220fd79753d4313f3c]
+## 48.1. When this Part applies[^c-6c75a819fab783220fd79753d4313f3c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c75a819fab783220fd79753d4313f3c]: Commencement: [Rule 48.1](https://www.legislation.gov.uk/uksi/2025/909/rule/48.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-6c75a819fab783220fd79753d4313f3c]: Commencement: [Rule 48.1](https://www.legislation.gov.uk/uksi/2025/909/rule/48.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

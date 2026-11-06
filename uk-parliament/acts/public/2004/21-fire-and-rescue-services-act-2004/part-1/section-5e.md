@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5E. Procedure for Secretary of State's orders under section 5C(1) and (2)[^key-ef8402d50da3b8253e7709750c65ba61]
+## 5E. Procedure for Secretary of State's orders under section 5C(1) and (2)[^c-ef8402d50da3b8253e7709750c65ba61]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef8402d50da3b8253e7709750c65ba61]: Textual amendment: Ss. 5A-5L inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/a); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)
+[^c-ef8402d50da3b8253e7709750c65ba61]: Textual amendment: Ss. 5A-5L inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [9(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/9/1), [240(4)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/a); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/411/article/2/c); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/887/article/2/a)

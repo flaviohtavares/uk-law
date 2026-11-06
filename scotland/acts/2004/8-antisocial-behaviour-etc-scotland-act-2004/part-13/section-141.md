@@ -31,11 +31,11 @@ summary: ''
 
 (4) A statutory instrument containing—
 
-- (a) an order under section 53(1), 59(1), 68(6), 83(7), 85(9),[^key-7b4fef0cf156f898892553d3914e66c8] 103(3), 128(2) or 139(7); or
+- (a) an order under section 53(1), 59(1), 68(6), 83(7), 85(9),[^c-7b4fef0cf156f898892553d3914e66c8] 103(3), 128(2) or 139(7); or
 - (b) regulations under section 26(2),
 
 shall not be made unless a draft of the instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
 ## Annotations
 
-[^key-7b4fef0cf156f898892553d3914e66c8]: Textual amendment: Word in s. 141(4)(a) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(2)](https://www.legislation.gov.uk/asp/2011/14/section/1/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
+[^c-7b4fef0cf156f898892553d3914e66c8]: Textual amendment: Word in s. 141(4)(a) inserted (1.7.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 1(2)](https://www.legislation.gov.uk/asp/2011/14/section/1/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)

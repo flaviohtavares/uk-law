@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148A. Conditions of payment of Class 3 contributions: transfers to the Communities’ pension scheme[^key-07f2b6912a98ac371fc8faaf74d73fc3]
+## 148A. Conditions of payment of Class 3 contributions: transfers to the Communities’ pension scheme[^c-07f2b6912a98ac371fc8faaf74d73fc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07f2b6912a98ac371fc8faaf74d73fc3]: Textual amendment: Reg. 148A inserted (18.7.2007) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2007 (S.I. 2007/1838)](https://www.legislation.gov.uk/uksi/2007/1838), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1838/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/1838/regulation/6)
+[^c-07f2b6912a98ac371fc8faaf74d73fc3]: Textual amendment: Reg. 148A inserted (18.7.2007) by [The Social Security (Contributions) (Amendment No. 4) Regulations 2007 (S.I. 2007/1838)](https://www.legislation.gov.uk/uksi/2007/1838), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/1838/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/1838/regulation/6)

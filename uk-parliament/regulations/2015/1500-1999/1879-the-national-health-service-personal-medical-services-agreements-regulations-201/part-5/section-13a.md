@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13A. Services: remote provision outside practice premises[^key-c9c0504fa3620a842940548503be3002]
+## 13A. Services: remote provision outside practice premises[^c-c9c0504fa3620a842940548503be3002]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9c0504fa3620a842940548503be3002]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2015/1879/regulation/13A) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/3)
+[^c-c9c0504fa3620a842940548503be3002]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2015/1879/regulation/13A) inserted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2022/935/schedule/2/paragraph/3)

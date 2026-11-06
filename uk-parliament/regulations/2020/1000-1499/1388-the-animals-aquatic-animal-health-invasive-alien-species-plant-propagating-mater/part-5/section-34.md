@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. The Animal Health and Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019[^key-a6e49101f81c09876fd29760d5bcbd39]
+## 34. The Animal Health and Genetically Modified Organisms (Amendment) (EU Exit) Regulations 2019[^c-a6e49101f81c09876fd29760d5bcbd39]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6e49101f81c09876fd29760d5bcbd39]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2020/1388/regulation/34) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-a6e49101f81c09876fd29760d5bcbd39]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2020/1388/regulation/34) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00069]: Footnote: [S.I. 2019/1229](https://www.legislation.gov.uk/uksi/2019/1229).

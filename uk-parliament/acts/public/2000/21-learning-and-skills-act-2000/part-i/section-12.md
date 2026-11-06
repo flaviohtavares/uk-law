@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Research and information.[^key-7b41280b81fddddaadd2f14213f88ea5]
+## 12. Research and information.[^c-7b41280b81fddddaadd2f14213f88ea5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b41280b81fddddaadd2f14213f88ea5]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/2000/21/section/12) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/28), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)
+[^c-7b41280b81fddddaadd2f14213f88ea5]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/2000/21/section/12) repealed (1.4.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 6 para. 28](https://www.legislation.gov.uk/ukpga/2009/22/schedule/6/paragraph/28), [Sch. 16 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/2); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2)

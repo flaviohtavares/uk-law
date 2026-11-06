@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Electricity system operator and gas system planner licences: modifications[^key-cf3065ac50046c1b4d14a764719ada4d]
+## 90. Electricity system operator and gas system planner licences: modifications[^c-cf3065ac50046c1b4d14a764719ada4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf3065ac50046c1b4d14a764719ada4d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2023/52/section/90) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-cf3065ac50046c1b4d14a764719ada4d]: Commencement: [S. 90](https://www.legislation.gov.uk/ukpga/2023/52/section/90) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

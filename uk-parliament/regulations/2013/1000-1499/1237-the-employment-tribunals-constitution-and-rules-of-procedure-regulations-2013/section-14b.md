@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14B. Appeals against notices given under the Energy Act 2013[^key-ad43451dce94ed2d46561191bac1a821]
+## 14B. Appeals against notices given under the Energy Act 2013[^c-ad43451dce94ed2d46561191bac1a821]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A person may appeal against an improvement notice or a prohibition notice given 
 
 ## Annotations
 
-[^key-ad43451dce94ed2d46561191bac1a821]: Textual amendment: [Regs. 14A](https://www.legislation.gov.uk/uksi/2013/1237/regulation/14A), [14B](https://www.legislation.gov.uk/uksi/2013/1237/regulation/14B) inserted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/4/6)
+[^c-ad43451dce94ed2d46561191bac1a821]: Textual amendment: [Regs. 14A](https://www.legislation.gov.uk/uksi/2013/1237/regulation/14A), [14B](https://www.legislation.gov.uk/uksi/2013/1237/regulation/14B) inserted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [4(6)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/4/6)

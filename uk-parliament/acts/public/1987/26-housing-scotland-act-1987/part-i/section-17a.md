@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17A. Publication of information.[^key-7b6244b3a0194640c9778dcbaa315433]
+## 17A. Publication of information.[^c-7b6244b3a0194640c9778dcbaa315433]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b6244b3a0194640c9778dcbaa315433]: Textual amendment: S. 17A repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/3/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-7b6244b3a0194640c9778dcbaa315433]: Textual amendment: S. 17A repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 3(2)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/3/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

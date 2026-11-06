@@ -31,7 +31,7 @@ summary: ''
 
 DISEASES OF FISH ACT (NORTHERN IRELAND) 1967
 
-Infected Waters (Infectious Pancreatic Necrosis) Order (Northern Ireland) 2003 (revoked)[^key-65d3e26d89d062e11880287e6aecbf25]
+Infected Waters (Infectious Pancreatic Necrosis) Order (Northern Ireland) 2003 (revoked)[^c-65d3e26d89d062e11880287e6aecbf25]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 24th February 2003
 
-[^key-65d3e26d89d062e11880287e6aecbf25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65d3e26d89d062e11880287e6aecbf25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-65d3e26d89d062e11880287e6aecbf25]
+## 1. Citation and commencement[^c-65d3e26d89d062e11880287e6aecbf25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-65d3e26d89d062e11880287e6aecbf25]
+## 2. Interpretation[^c-65d3e26d89d062e11880287e6aecbf25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Infected area[^key-65d3e26d89d062e11880287e6aecbf25]
+## 3. Infected area[^c-65d3e26d89d062e11880287e6aecbf25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provisions for the prevention, eradication and control of disease[^key-65d3e26d89d062e11880287e6aecbf25]
+## 4. Provisions for the prevention, eradication and control of disease[^c-65d3e26d89d062e11880287e6aecbf25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-65d3e26d89d062e11880287e6aecbf25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-65d3e26d89d062e11880287e6aecbf25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-65d3e26d89d062e11880287e6aecbf25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-65d3e26d89d062e11880287e6aecbf25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65d3e26d89d062e11880287e6aecbf25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65d3e26d89d062e11880287e6aecbf25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — THE INFECTED AREA[^key-65d3e26d89d062e11880287e6aecbf25]
+## SCHEDULE — THE INFECTED AREA[^c-65d3e26d89d062e11880287e6aecbf25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65d3e26d89d062e11880287e6aecbf25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65d3e26d89d062e11880287e6aecbf25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65d3e26d89d062e11880287e6aecbf25]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/87) revoked (18.4.2003) by [Infected Waters (Infectious Pancreatic Necrosis) Revocation Order (Northern Ireland) 2003 (S.R. 2003/242)](https://www.legislation.gov.uk/nisr/2003/242), [art. 2](https://www.legislation.gov.uk/nisr/2003/242/article/2)
+[^c-65d3e26d89d062e11880287e6aecbf25]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/87) revoked (18.4.2003) by [Infected Waters (Infectious Pancreatic Necrosis) Revocation Order (Northern Ireland) 2003 (S.R. 2003/242)](https://www.legislation.gov.uk/nisr/2003/242), [art. 2](https://www.legislation.gov.uk/nisr/2003/242/article/2)

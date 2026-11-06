@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Undue influence[^key-55783bfe47af25a653c1f9d32ae5424f]
+## 83. Undue influence[^c-55783bfe47af25a653c1f9d32ae5424f]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55783bfe47af25a653c1f9d32ae5424f]: Commencement: Art. 83 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-55783bfe47af25a653c1f9d32ae5424f]: Commencement: Art. 83 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

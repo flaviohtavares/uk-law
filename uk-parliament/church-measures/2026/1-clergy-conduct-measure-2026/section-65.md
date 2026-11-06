@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 65. Delegation by bishop or archbishop[^key-522343d5bd4c1221c2e88695de30171b]
+## 65. Delegation by bishop or archbishop[^c-522343d5bd4c1221c2e88695de30171b]
 
 *Extent: E*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-522343d5bd4c1221c2e88695de30171b]: Commencement: S. 65 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-522343d5bd4c1221c2e88695de30171b]: Commencement: S. 65 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.2. Form of appeal[^key-272560d272d268282d159921b3ed3127]
+## 6.2. Form of appeal[^c-272560d272d268282d159921b3ed3127]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-272560d272d268282d159921b3ed3127]: Commencement: Para. 6.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-272560d272d268282d159921b3ed3127]: Commencement: Para. 6.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

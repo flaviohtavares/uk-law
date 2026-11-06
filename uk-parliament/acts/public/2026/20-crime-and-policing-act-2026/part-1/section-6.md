@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Reviews of responses to complaints about anti-social behaviour[^key-fd542a6e9068ef9e40ac8c798ead440f]
+## 6. Reviews of responses to complaints about anti-social behaviour[^c-fd542a6e9068ef9e40ac8c798ead440f]
 
 *Extent: E+W*
 
@@ -141,4 +141,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd542a6e9068ef9e40ac8c798ead440f]: Commencement: S. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fd542a6e9068ef9e40ac8c798ead440f]: Commencement: S. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -34,7 +34,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Rabies (Importation of Dogs, Cats and Other Mammals) (England) (Amendment) Order 2004 (revoked)[^key-6105b0a5ef4c6ee1456c56c476471581]
+The Rabies (Importation of Dogs, Cats and Other Mammals) (England) (Amendment) Order 2004 (revoked)[^c-6105b0a5ef4c6ee1456c56c476471581]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 1st October 2004
 
-[^key-6105b0a5ef4c6ee1456c56c476471581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6105b0a5ef4c6ee1456c56c476471581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-6105b0a5ef4c6ee1456c56c476471581]
+## 1. Title, application and commencement[^c-6105b0a5ef4c6ee1456c56c476471581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^key-6105b0a5ef4c6ee1456c56c476471581]
+## 2. Amendment to the Rabies (Importation of Dogs, Cats and Other Mammals) Order 1974[^c-6105b0a5ef4c6ee1456c56c476471581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6105b0a5ef4c6ee1456c56c476471581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6105b0a5ef4c6ee1456c56c476471581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6105b0a5ef4c6ee1456c56c476471581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6105b0a5ef4c6ee1456c56c476471581]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6105b0a5ef4c6ee1456c56c476471581]: Textual amendment: Order revoked (1.1.2012) by [The Non-Commercial Movement of Pet Animals Order 2011 (S.I. 2011/2883)](https://www.legislation.gov.uk/uksi/2011/2883), [art. 21(e)](https://www.legislation.gov.uk/uksi/2011/2883/article/21/e) (with [art. 19](https://www.legislation.gov.uk/uksi/2011/2883/article/19))
+[^c-6105b0a5ef4c6ee1456c56c476471581]: Textual amendment: Order revoked (1.1.2012) by [The Non-Commercial Movement of Pet Animals Order 2011 (S.I. 2011/2883)](https://www.legislation.gov.uk/uksi/2011/2883), [art. 21(e)](https://www.legislation.gov.uk/uksi/2011/2883/article/21/e) (with [art. 19](https://www.legislation.gov.uk/uksi/2011/2883/article/19))

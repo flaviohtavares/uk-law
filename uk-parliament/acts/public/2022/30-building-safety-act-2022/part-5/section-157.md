@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Architects: discipline and continuing professional development[^key-069b0b1908a91d0c7550f0e799bef2f8]
+## 157. Architects: discipline and continuing professional development[^c-069b0b1908a91d0c7550f0e799bef2f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-069b0b1908a91d0c7550f0e799bef2f8]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2022/30/section/157) in force at 28.6.2022, see [s. 170(3)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/f)
+[^c-069b0b1908a91d0c7550f0e799bef2f8]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2022/30/section/157) in force at 28.6.2022, see [s. 170(3)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/f)

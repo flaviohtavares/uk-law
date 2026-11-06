@@ -22,7 +22,7 @@ summary: ''
 
 (1) In relation to emergencies that do not fall within section 1(1)(c)—
 
-- (a) the power under section 15(3) or (6), or section 15B(3) or (6)[^key-b31d91d5579ab3f05c2cbb53ecf45e72] to make regulations or an order permitting or requiring the Chief Constable (PSNI) to co-operate with, or provide information to, a person or body listed in Part 2 or 2A[^key-60dcc92b40bfa45aa139f9528032cb4a] of Schedule 1 is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown);
+- (a) the power under section 15(3) or (6), or section 15B(3) or (6)[^c-b31d91d5579ab3f05c2cbb53ecf45e72] to make regulations or an order permitting or requiring the Chief Constable (PSNI) to co-operate with, or provide information to, a person or body listed in Part 2 or 2A[^c-60dcc92b40bfa45aa139f9528032cb4a] of Schedule 1 is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown);
 - (b) the power under section 15(4) or 15B(4)[^M_F_70ace46b-c7b4-4382-cd68-1b55f14df9ff] to issue guidance is exercisable by the Department of Justice (and not by a Minister of the Crown) in relation to regulations made by the Department.
 
 (2) Where the Chief Constable (PSNI) has a duty under section 2, a Minister of the Crown may, in relation to emergencies that do not fall within section 1(1)(c), make regulations—
@@ -57,8 +57,8 @@ summary: ''
 
 [^c2139624]: Textual amendment: S. 15A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [5](https://www.legislation.gov.uk/uksi/2010/976/article/5), [Sch. 3 para. 107](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/107) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28), [Sch. 3 para. 110](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/110))
 
-[^key-b31d91d5579ab3f05c2cbb53ecf45e72]: Textual amendment: Words in s. 15A(1)(a) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(14)(a)(i)](https://www.legislation.gov.uk/uksi/2018/644/article/41/14/a/i)
+[^c-b31d91d5579ab3f05c2cbb53ecf45e72]: Textual amendment: Words in s. 15A(1)(a) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(14)(a)(i)](https://www.legislation.gov.uk/uksi/2018/644/article/41/14/a/i)
 
-[^key-60dcc92b40bfa45aa139f9528032cb4a]: Textual amendment: Words in s. 15A(1)(a) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/644/article/41/14/a/ii)
+[^c-60dcc92b40bfa45aa139f9528032cb4a]: Textual amendment: Words in s. 15A(1)(a) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/644/article/41/14/a/ii)
 
 [^M_F_70ace46b-c7b4-4382-cd68-1b55f14df9ff]: Textual amendment: Words in s. 15A(1)(b) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(14)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/14/a/ii)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Termination of tenancy continued under section 72[^key-e405678c15d01800db522b89cbe4c7ec][^key-0e540367f4fa169657ef358d40a3b986]
+## 73. Termination of tenancy continued under section 72[^c-e405678c15d01800db522b89cbe4c7ec][^c-0e540367f4fa169657ef358d40a3b986]
 
 *Extent: S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e405678c15d01800db522b89cbe4c7ec]: Commencement: S. 73 in force at 1.7.2003 by [S.S.I. 2003/305](https://www.legislation.gov.uk/ssi/2003/305), [art. 2](https://www.legislation.gov.uk/ssi/2003/305/article/2)
+[^c-e405678c15d01800db522b89cbe4c7ec]: Commencement: S. 73 in force at 1.7.2003 by [S.S.I. 2003/305](https://www.legislation.gov.uk/ssi/2003/305), [art. 2](https://www.legislation.gov.uk/ssi/2003/305/article/2)
 
-[^key-0e540367f4fa169657ef358d40a3b986]: Modification: S. 73 continues to apply (3.4.2014) by [The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98)](https://www.legislation.gov.uk/ssi/2014/98), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/98/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/98/article/5)
+[^c-0e540367f4fa169657ef358d40a3b986]: Modification: S. 73 continues to apply (3.4.2014) by [The Agricultural Holdings (Scotland) Act 2003 Remedial Order 2014 (S.S.I. 2014/98)](https://www.legislation.gov.uk/ssi/2014/98), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2014/98/article/1/2), [5](https://www.legislation.gov.uk/ssi/2014/98/article/5)

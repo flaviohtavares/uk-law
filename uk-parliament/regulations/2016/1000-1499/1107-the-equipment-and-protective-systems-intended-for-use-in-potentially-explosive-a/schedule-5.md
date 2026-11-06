@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 53(2)
 
-### 1. Compliance notice[^key-aa7d5ea8e99b29567c49d3763d29f2f6]
+### 1. Compliance notice[^c-aa7d5ea8e99b29567c49d3763d29f2f6]
 
 (1) The market surveillance authority may serve a compliance notice on a relevant economic operator in respect of a product if the authority has reasonable grounds for believing that there is non-compliance.
 
@@ -39,7 +39,7 @@ Regulation 53(2)
 
 (5) The market surveillance authority may not vary a compliance notice so as to make it more restrictive for the economic operator or more onerous for the economic operator to comply.
 
-### 2. Withdrawal notice[^key-b92264745922325f49e2bd637414ea61]
+### 2. Withdrawal notice[^c-b92264745922325f49e2bd637414ea61]
 
 (1) The market surveillance authority may serve a withdrawal notice on a relevant economic operator in respect of a product if the authority has reasonable grounds for believing that—
 
@@ -60,7 +60,7 @@ Regulation 53(2)
 
 (8) A withdrawal notice has effect throughout Great Britain.
 
-### 3. Recall notice[^key-f7f4110f7953316417bf159820f61ad0]
+### 3. Recall notice[^c-f7f4110f7953316417bf159820f61ad0]
 
 (1) The market surveillance authority may serve a recall notice on a relevant economic operator in respect of a product if the authority has reasonable grounds for believing that—
 
@@ -106,7 +106,7 @@ Regulation 53(2)
 
 (13) A recall notice has effect throughout Great Britain.
 
-### 4. Interpretation[^key-df6015dbec19fcd53e52e934a6e1b80b]
+### 4. Interpretation[^c-df6015dbec19fcd53e52e934a6e1b80b]
 
 In this Schedule, “non-compliance” means that the product—
 
@@ -115,10 +115,10 @@ In this Schedule, “non-compliance” means that the product—
 
 ## Annotations
 
-[^key-aa7d5ea8e99b29567c49d3763d29f2f6]: Commencement: Sch. 5 para. 1 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-aa7d5ea8e99b29567c49d3763d29f2f6]: Commencement: Sch. 5 para. 1 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
-[^key-b92264745922325f49e2bd637414ea61]: Commencement: Sch. 5 para. 2 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-b92264745922325f49e2bd637414ea61]: Commencement: Sch. 5 para. 2 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
-[^key-f7f4110f7953316417bf159820f61ad0]: Commencement: Sch. 5 para. 3 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-f7f4110f7953316417bf159820f61ad0]: Commencement: Sch. 5 para. 3 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
-[^key-df6015dbec19fcd53e52e934a6e1b80b]: Commencement: Sch. 5 para. 4 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-df6015dbec19fcd53e52e934a6e1b80b]: Commencement: Sch. 5 para. 4 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

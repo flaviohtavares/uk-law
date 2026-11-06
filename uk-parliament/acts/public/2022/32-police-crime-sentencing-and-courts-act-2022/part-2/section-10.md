@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Power to authorise collaboration etc. with other persons[^key-e390a372a9ad61f494c2aa73b9532eb5][^key-b4f75c5b78f482ae45cf8acb8c0cb367]
+## 10. Power to authorise collaboration etc. with other persons[^c-e390a372a9ad61f494c2aa73b9532eb5][^c-b4f75c5b78f482ae45cf8acb8c0cb367]
 
 *Extent: E+W*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e390a372a9ad61f494c2aa73b9532eb5]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-e390a372a9ad61f494c2aa73b9532eb5]: Commencement: S. 10 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-b4f75c5b78f482ae45cf8acb8c0cb367]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/32/section/10) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/c)
+[^c-b4f75c5b78f482ae45cf8acb8c0cb367]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2022/32/section/10) in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/c)

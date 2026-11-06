@@ -31,9 +31,9 @@ Channel Islands (Church Legislation) Measure 1931
 
 A measure passed by the National Assembly of the Church of England. To make further provision for the application to the Channel Islands of Measures passed by the Church Assembly.
 
-\[8th July 1931\][^c887857][^key-d2fff7d908dfa43a20adcdd9542fdcec][^key-1556213bc3c3c366de69a0b6725b422b]
+\[8th July 1931\][^c887857][^c-d2fff7d908dfa43a20adcdd9542fdcec][^c-1556213bc3c3c366de69a0b6725b422b]
 
-## 1. Interpretation.[^key-3accefd635bfea1ba002aa2b99f22eb5][^key-591c69861f187daaf90c86b1c9ce6986]
+## 1. Interpretation.[^c-3accefd635bfea1ba002aa2b99f22eb5][^c-591c69861f187daaf90c86b1c9ce6986]
 
 In this Measure—
 
@@ -81,13 +81,13 @@ This Measure may be cited as the Channel Islands (Church Legislation) Measure 19
 
 [^c887857]: Modification: Power to modify Act conferred by Synodical Government Measure (1969) No. 2, s. 9(5)
 
-[^key-d2fff7d908dfa43a20adcdd9542fdcec]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(4)](https://www.legislation.gov.uk/uksi/2022/867/article/4/4)
+[^c-d2fff7d908dfa43a20adcdd9542fdcec]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(4)](https://www.legislation.gov.uk/uksi/2022/867/article/4/4)
 
-[^key-1556213bc3c3c366de69a0b6725b422b]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(5)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-1556213bc3c3c366de69a0b6725b422b]: Modification: [Measure](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(5)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
-[^key-3accefd635bfea1ba002aa2b99f22eb5]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(1)](https://www.legislation.gov.uk/uksi/2022/867/article/4/1)
+[^c-3accefd635bfea1ba002aa2b99f22eb5]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Attachment of Jersey to the Diocese of Salisbury Order 2022 (S.I. 2022/867)](https://www.legislation.gov.uk/uksi/2022/867), [art. 4(1)](https://www.legislation.gov.uk/uksi/2022/867/article/4/1)
 
-[^key-591c69861f187daaf90c86b1c9ce6986]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(1)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
+[^c-591c69861f187daaf90c86b1c9ce6986]: Modification: [S. 1](https://www.legislation.gov.uk/ukcm/Geo5/21-22/4/section/1) modified (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Channel Islands (Attachment of the Bailiwick of Guernsey to the Diocese of Salisbury) Order 2022 (S.I. 2022/1180)](https://www.legislation.gov.uk/uksi/2022/1180), [art. 6(1)](https://www.legislation.gov.uk/uksi/2022/1180/article/6/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2022/1180/article/3))
 
 [^c887858]: Textual amendment: Words substituted by virtue of S.I 1970/1117
 

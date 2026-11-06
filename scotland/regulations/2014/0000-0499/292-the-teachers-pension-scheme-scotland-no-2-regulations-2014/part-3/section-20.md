@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Dual capacity membership[^key-79d8f6038b508219b52940bd1a0a3d9e]
+## 20. Dual capacity membership[^c-79d8f6038b508219b52940bd1a0a3d9e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ A person is a dual capacity member of this scheme if the person is a member in 2
 
 ## Annotations
 
-[^key-79d8f6038b508219b52940bd1a0a3d9e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/292/regulation/20) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-79d8f6038b508219b52940bd1a0a3d9e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/292/regulation/20) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

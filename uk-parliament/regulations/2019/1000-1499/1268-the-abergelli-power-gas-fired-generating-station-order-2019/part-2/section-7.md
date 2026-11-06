@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Consent to transfer benefit of the Order[^key-aa13c5f344b16ec1f5cb47d507d7a938]
+## 7. Consent to transfer benefit of the Order[^c-aa13c5f344b16ec1f5cb47d507d7a938]
 
 *Extent: E+W+S*
 
@@ -51,14 +51,14 @@ summary: ''
 
 (7) The date specified under paragraph (6)(b) must not be earlier than the expiry of five working days from the date of the receipt of the notice.
 
-(8) The notice given under paragraph (5)[^key-a30e920b681937d26b3daab2bc35ed91] must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notice.
+(8) The notice given under paragraph (5)[^c-a30e920b681937d26b3daab2bc35ed91] must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notice.
 
-(9) The undertaker must also send a copy of the notice given under paragraph (5)[^key-6ff9f6bfcdb014aeefdfcefc479c2913] to the relevant planning authority.
+(9) The undertaker must also send a copy of the notice given under paragraph (5)[^c-6ff9f6bfcdb014aeefdfcefc479c2913] to the relevant planning authority.
 
 ## Annotations
 
-[^key-aa13c5f344b16ec1f5cb47d507d7a938]: Commencement: Art. 7 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
+[^c-aa13c5f344b16ec1f5cb47d507d7a938]: Commencement: Art. 7 in force at 10.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1268/article/1)
 
-[^key-a30e920b681937d26b3daab2bc35ed91]: Textual amendment: Words in [art. 7(8)](https://www.legislation.gov.uk/uksi/2019/1268/article/7/8) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
+[^c-a30e920b681937d26b3daab2bc35ed91]: Textual amendment: Words in [art. 7(8)](https://www.legislation.gov.uk/uksi/2019/1268/article/7/8) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
 
-[^key-6ff9f6bfcdb014aeefdfcefc479c2913]: Textual amendment: Words in [art. 7(9)](https://www.legislation.gov.uk/uksi/2019/1268/article/7/9) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)
+[^c-6ff9f6bfcdb014aeefdfcefc479c2913]: Textual amendment: Words in [art. 7(9)](https://www.legislation.gov.uk/uksi/2019/1268/article/7/9) substituted (10.1.2020) by [The Abergelli Gas Fired Generating Station (Correction) Order 2020 (S.I. 2020/22)](https://www.legislation.gov.uk/uksi/2020/22), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/22/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/22/schedule)

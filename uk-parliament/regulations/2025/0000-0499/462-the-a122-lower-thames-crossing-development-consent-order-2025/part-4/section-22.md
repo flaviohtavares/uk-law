@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Removal of human remains[^key-a7372bf4014458973d2baec7ae9d6f17]
+## 22. Removal of human remains[^c-a7372bf4014458973d2baec7ae9d6f17]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ and in section 240(1) (provisions supplemental to ss. 238 and 239) of the 1990 A
 
 ## Annotations
 
-[^key-a7372bf4014458973d2baec7ae9d6f17]: Commencement: Art. 22 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-a7372bf4014458973d2baec7ae9d6f17]: Commencement: Art. 22 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00078]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Section 25 was substituted by section 2 of the Church of England (Miscellaneous Provisions) Measure [2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1) and amended by section 96(1) of, and paragraph 1 of Schedule 3 to, the Ecclesiastical Jurisdiction and Care of Churches Measure [2018 (no. 3)](https://www.legislation.gov.uk/ukcm/2018/3).
 

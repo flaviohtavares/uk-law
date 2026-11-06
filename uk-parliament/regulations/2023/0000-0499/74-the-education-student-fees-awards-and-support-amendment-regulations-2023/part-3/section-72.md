@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Amendment of the Further Education Loans Regulations 2012[^key-a6461b08ebe4184623b46bf6cd6d91d5]
+## 72. Amendment of the Further Education Loans Regulations 2012[^c-a6461b08ebe4184623b46bf6cd6d91d5]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Further Education Loans Regulations 2012[^f00063] are amended in accordance 
 
 ## Annotations
 
-[^key-a6461b08ebe4184623b46bf6cd6d91d5]: Commencement: Reg. 72 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-a6461b08ebe4184623b46bf6cd6d91d5]: Commencement: Reg. 72 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00063]: Footnote: [S.I. 2012/1818](https://www.legislation.gov.uk/uksi/2012/1818).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21.6. Court’s power to vary requirements under this Part[^key-daf11afa6079fadfb47941e007394709]
+## 21.6. Court’s power to vary requirements under this Part[^c-daf11afa6079fadfb47941e007394709]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daf11afa6079fadfb47941e007394709]: Commencement: [Rule 21.6](https://www.legislation.gov.uk/uksi/2025/909/rule/21.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-daf11afa6079fadfb47941e007394709]: Commencement: [Rule 21.6](https://www.legislation.gov.uk/uksi/2025/909/rule/21.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. The designated day[^key-c97247d7cac6b510c8fe5b270bc058fd]
+## 122. The designated day[^c-c97247d7cac6b510c8fe5b270bc058fd]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may, for the purposes of this Act, by order, designate a 
 
 ## Annotations
 
-[^key-c97247d7cac6b510c8fe5b270bc058fd]: Modification: S. 122: 8.12.2014 designated for the purposes of the Act by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2
+[^c-c97247d7cac6b510c8fe5b270bc058fd]: Modification: S. 122: 8.12.2014 designated for the purposes of the Act by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), art. 2

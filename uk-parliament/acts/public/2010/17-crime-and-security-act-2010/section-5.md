@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Speculative searches[^key-ed5e5c4a5d076aab71ede693af0e2d52]
+## 5. Speculative searches[^c-ed5e5c4a5d076aab71ede693af0e2d52]
 
 *Extent: E+W+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed5e5c4a5d076aab71ede693af0e2d52]: Commencement: S. 5 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)
+[^c-ed5e5c4a5d076aab71ede693af0e2d52]: Commencement: S. 5 in force at 7.3.2011 by [S.I. 2011/414](https://www.legislation.gov.uk/uksi/2011/414), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/414/article/2/b)

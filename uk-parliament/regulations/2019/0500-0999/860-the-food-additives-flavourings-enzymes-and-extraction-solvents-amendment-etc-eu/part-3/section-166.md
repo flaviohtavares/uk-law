@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Amendment to Commission Implementing Regulation (EU) No. 1321/2013 establishing the Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings[^key-48581ba02c0fcc9382660f04c75d1a0d]
+## 166. Amendment to Commission Implementing Regulation (EU) No. 1321/2013 establishing the Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings[^c-48581ba02c0fcc9382660f04c75d1a0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) No. 1321/2013 establishing the Union lis
 
 ## Annotations
 
-[^key-48581ba02c0fcc9382660f04c75d1a0d]: Commencement: Reg. 166 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-48581ba02c0fcc9382660f04c75d1a0d]: Commencement: Reg. 166 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

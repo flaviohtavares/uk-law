@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Determination of allocation of budget shares etc. for the funding period[^key-f3195ae54e3c8e6b7403525c6db1b735]
+## 11. Determination of allocation of budget shares etc. for the funding period[^c-f3195ae54e3c8e6b7403525c6db1b735]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ to the governing body of the school or the relevant early years provider concern
 
 ## Annotations
 
-[^key-f3195ae54e3c8e6b7403525c6db1b735]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/42/regulation/11) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-f3195ae54e3c8e6b7403525c6db1b735]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/42/regulation/11) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)

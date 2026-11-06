@@ -37,7 +37,7 @@ Made
 
 The Treasury, in exercise of the powers conferred by section 100A of the Customs and Excise Management Act 1979[^f00001], make the following Order.
 
-## 1. Citation and interpretation[^key-5513fb852bc0baac556db07ec59f6055]
+## 1. Citation and interpretation[^c-5513fb852bc0baac556db07ec59f6055]
 
 (1) This Order may be cited as the Free Zone (Customs Site No. 1 Teesside) Designation Order 2021.
 
@@ -49,19 +49,19 @@ The Treasury, in exercise of the powers conferred by section 100A of the Customs
 - (d) “**HMRC officer**” means an officer of Revenue and Customs;
 - (e) “**the Special Procedures Regulations**” means the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00003].
 
-## 2. Period of effect of Order[^key-185d79bae963405447786baf2da6f595]
+## 2. Period of effect of Order[^c-185d79bae963405447786baf2da6f595]
 
 This Order has effect for a period of 10 years beginning with the day after the date on which it is made.
 
-## 3. Designation of area as free zone[^key-7d51a374f771cab443a3496e5ac93fa2]
+## 3. Designation of area as free zone[^c-7d51a374f771cab443a3496e5ac93fa2]
 
 The area shown edged and hatched in red on the map entitled “Customs Site No. 1 Teesside” dated July 2021[^f00004] is designated as a free zone.
 
-## 4. Appointment of responsible authority[^key-a554e61755b5dd65bcf982059785005f]
+## 4. Appointment of responsible authority[^c-a554e61755b5dd65bcf982059785005f]
 
-The responsible authority for the free zone is Casper Shipping Limited , incorporated on 5[^key-813a3abc066aaaefd695248212ecfd56]<sup>th</sup> July 1990 with the company number 02518627, whose registered office is Tees Wharf, Dockside Road, Middlesbrough, Cleveland, TS3 6AH.
+The responsible authority for the free zone is Casper Shipping Limited , incorporated on 5[^c-813a3abc066aaaefd695248212ecfd56]<sup>th</sup> July 1990 with the company number 02518627, whose registered office is Tees Wharf, Dockside Road, Middlesbrough, Cleveland, TS3 6AH.
 
-## 5. Conditions imposed on responsible authority[^key-43d0be6bdadb6e840271bec14f0b236e]
+## 5. Conditions imposed on responsible authority[^c-43d0be6bdadb6e840271bec14f0b236e]
 
 The responsible authority must—
 
@@ -84,7 +84,7 @@ The responsible authority must—
   - (iii) if there is a change in circumstances that is relevant to its appointment as a responsible authority;
 - (o) notify HMRC of any planned construction in the free zone.
 
-## 6. Conditions relating to health and safety[^key-e36aac7c6ab00eb8b8e601eac3798913]
+## 6. Conditions relating to health and safety[^c-e36aac7c6ab00eb8b8e601eac3798913]
 
 Without prejudice to the responsibilities of persons occupying premises within the free zone, the responsible authority must take reasonable steps to ensure that the accommodation, facilities and working conditions within the free zone are safe and without risk to the health and safety of any persons in the free zone.
 
@@ -108,26 +108,26 @@ A Tax Information and Impact Note covering the Free Zones (Customs, Excise and V
 
 [^f00001]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 100A was inserted by section 8 of, and Schedule 4 to, the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43).
 
-[^key-5513fb852bc0baac556db07ec59f6055]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1290/article/1) in force at made date
+[^c-5513fb852bc0baac556db07ec59f6055]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/1290/article/1) in force at made date
 
 [^f00002]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), as amended by [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449). There are other amending instruments, but none are relevant.
 
 [^f00003]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), as amended by [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156) which inserts regulations 18A-18L. There are other amending instruments, but none are relevant.
 
-[^key-185d79bae963405447786baf2da6f595]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1290/article/2) in force at made date
+[^c-185d79bae963405447786baf2da6f595]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/1290/article/2) in force at made date
 
-[^key-7d51a374f771cab443a3496e5ac93fa2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1290/article/3) in force at made date
+[^c-7d51a374f771cab443a3496e5ac93fa2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/1290/article/3) in force at made date
 
 [^f00004]: Footnote: The map marked “Customs Site No. 1 Teesside” and dated July 2021 is available electronically at https://www.gov.uk/government/publications/map-of-teesside-freeport-customs-site. This site is contained within the area designated as a freeport tax site (known as the Teesside Freeport Teesworks West Tax site) by regulation 2(1)(c) of [S.I. 2021/1194](https://www.legislation.gov.uk/uksi/2021/1194). A person unable to access the document electronically can arrange access to a hard copy by inspection free of charge at 1 Horse Guards Road, London, SW1A 2HQ.
 
-[^key-a554e61755b5dd65bcf982059785005f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1290/article/4) in force at made date
+[^c-a554e61755b5dd65bcf982059785005f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/1290/article/4) in force at made date
 
-[^key-813a3abc066aaaefd695248212ecfd56]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2021/1290/article/4) inserted (13.10.2022) by [The Free Zone (Customs Site Designation) (Miscellaneous Amendments) Order 2022 (S.I. 2022/1049)](https://www.legislation.gov.uk/uksi/2022/1049), [art. 2(2)](https://www.legislation.gov.uk/uksi/2022/1049/article/2/2)
+[^c-813a3abc066aaaefd695248212ecfd56]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2021/1290/article/4) inserted (13.10.2022) by [The Free Zone (Customs Site Designation) (Miscellaneous Amendments) Order 2022 (S.I. 2022/1049)](https://www.legislation.gov.uk/uksi/2022/1049), [art. 2(2)](https://www.legislation.gov.uk/uksi/2022/1049/article/2/2)
 
-[^key-43d0be6bdadb6e840271bec14f0b236e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/1290/article/5) in force at made date
+[^c-43d0be6bdadb6e840271bec14f0b236e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/1290/article/5) in force at made date
 
 [^f00005]: Footnote: The “Commissioners” are defined in section 1 of the Customs and Excise Management Act 1979.
 
 [^f00006]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-e36aac7c6ab00eb8b8e601eac3798913]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/1290/article/6) in force at made date
+[^c-e36aac7c6ab00eb8b8e601eac3798913]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/1290/article/6) in force at made date

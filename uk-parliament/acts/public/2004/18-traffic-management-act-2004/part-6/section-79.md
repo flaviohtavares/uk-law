@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Immobilisation of vehicle where penalty charge payable[^key-6f8e4829076f5185eea2f6785899e1ff][^key-16a45ff746f883fec4a05d4c133b7785]
+## 79. Immobilisation of vehicle where penalty charge payable[^c-6f8e4829076f5185eea2f6785899e1ff][^c-16a45ff746f883fec4a05d4c133b7785]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ and providing for any power of removal that was exercisable in relation to the v
 
   the person in charge of the vehicle commits an offence and is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(5A)[^key-fa5d93344b3046e87e49f33e404a7762] The regulations shall provide—
+(5A)[^c-fa5d93344b3046e87e49f33e404a7762] The regulations shall provide—
 
 - (a) that an immobilisation device must not be fixed to a vehicle if a current recognised badge is displayed on the vehicle; and
 - (b) that if, in a case in which an immobilisation device would have been fixed to a vehicle but for paragraph (a), the vehicle was not being used—
@@ -81,20 +81,20 @@ until 15 minutes have elapsed since the giving of a notification of a penalty ch
 (7) In this section—
 
 - “disabled person's badge“ has the same meaning as in section 142(1) of the Road Traffic Regulation Act 1984;
-- “**parking device**” means a parking device within the meaning of section 35(3B) or 51(4) of that Act; [^key-faba524fc7c7ff71938bfd4867d69233]...
+- “**parking device**” means a parking device within the meaning of section 35(3B) or 51(4) of that Act; [^c-faba524fc7c7ff71938bfd4867d69233]...
 - “**parking place**” means—
   - (a) a parking place designated by an order under section 45 of that Act, or
   - (b) an off-street parking place provided under section 32(1)(a) or 57(1)(b), or under a letting or arrangement made under section 33(4), of that Act;
-- "[^key-66e7f89678ce20d129889ae5a90d0814]**recognised badge**" has the meaning given by section 21A of the Chronically Sick and Disabled Persons Act 1970.
+- "[^c-66e7f89678ce20d129889ae5a90d0814]**recognised badge**" has the meaning given by section 21A of the Chronically Sick and Disabled Persons Act 1970.
 
 ## Annotations
 
-[^key-6f8e4829076f5185eea2f6785899e1ff]: Commencement: S. 79 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-6f8e4829076f5185eea2f6785899e1ff]: Commencement: S. 79 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-16a45ff746f883fec4a05d4c133b7785]: Commencement: S. 79 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(e)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-16a45ff746f883fec4a05d4c133b7785]: Commencement: S. 79 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(e)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
 
-[^key-fa5d93344b3046e87e49f33e404a7762]: Textual amendment: S. 79(5A) inserted (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/4), [Sch. 1 para. 48(2)](https://www.legislation.gov.uk/ukpga/2005/13/schedule/1/paragraph/48/2); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/b); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/b)
+[^c-fa5d93344b3046e87e49f33e404a7762]: Textual amendment: S. 79(5A) inserted (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/4), [Sch. 1 para. 48(2)](https://www.legislation.gov.uk/ukpga/2005/13/schedule/1/paragraph/48/2); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/b); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/b)
 
-[^key-faba524fc7c7ff71938bfd4867d69233]: Textual amendment: Word in s. 79(7) repealed (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/c); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/c)
+[^c-faba524fc7c7ff71938bfd4867d69233]: Textual amendment: Word in s. 79(7) repealed (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(3)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/c); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/c)
 
-[^key-66e7f89678ce20d129889ae5a90d0814]: Textual amendment: Words in s. 79(7) inserted (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/4), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2005/13/schedule/1/paragraph/48/3); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/b); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/b)
+[^c-66e7f89678ce20d129889ae5a90d0814]: Textual amendment: Words in s. 79(7) inserted (30.6.2005 for E., 30.3.2008 for W.) by [Disability Discrimination Act 2005 (c. 13)](https://www.legislation.gov.uk/ukpga/2005/13), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/4), [Sch. 1 para. 48(3)](https://www.legislation.gov.uk/ukpga/2005/13/schedule/1/paragraph/48/3); [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/b); [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/b)

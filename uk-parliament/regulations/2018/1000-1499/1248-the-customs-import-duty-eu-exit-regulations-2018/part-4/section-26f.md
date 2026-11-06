@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26F. Free-circulation procedure: Human Organs etc. needed for transplant[^key-56b0c6777ffc96a1227c85ab33f71769]
+## 26F. Free-circulation procedure: Human Organs etc. needed for transplant[^c-56b0c6777ffc96a1227c85ab33f71769]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56b0c6777ffc96a1227c85ab33f71769]: Textual amendment: [Reg. 26F](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26F) inserted (20.11.2021) by [The Customs (Import and Export Declarations By Conduct) (Amendment) Regulations 2021 (S.I. 2021/1205)](https://www.legislation.gov.uk/uksi/2021/1205), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1205/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1205/regulation/2/5)
+[^c-56b0c6777ffc96a1227c85ab33f71769]: Textual amendment: [Reg. 26F](https://www.legislation.gov.uk/uksi/2018/1248/regulation/26F) inserted (20.11.2021) by [The Customs (Import and Export Declarations By Conduct) (Amendment) Regulations 2021 (S.I. 2021/1205)](https://www.legislation.gov.uk/uksi/2021/1205), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1205/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1205/regulation/2/5)

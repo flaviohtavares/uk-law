@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.22. Court to hear appeal[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 47.22. Court to hear appeal[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
-An appeal against a decision of an authorised court officer lies to a costs judge or a District Judge[^key-69c7df68a08f5511cb1a0d57cd3cecd5] of the High Court.
+An appeal against a decision of an authorised court officer lies to a costs judge or a District Judge[^c-69c7df68a08f5511cb1a0d57cd3cecd5] of the High Court.
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-69c7df68a08f5511cb1a0d57cd3cecd5]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/iv); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)
+[^c-69c7df68a08f5511cb1a0d57cd3cecd5]: Textual amendment: Words in Rules substituted (22.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(1)](https://www.legislation.gov.uk/uksi/2014/407/article/2/1), [4(a)(iv)](https://www.legislation.gov.uk/uksi/2014/407/rule/4/a/iv); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/954/article/2/a)

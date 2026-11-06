@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Carrying out inspections under section 103 , 103A or 103B : further provision[^key-cd6803f4995c9a169c21fc4ca8a948cb][^key-c64cf0ec8cf0de8d7606f0be8724e2d9]
+## 104. Carrying out inspections under section 103 , 103A or 103B : further provision[^c-cd6803f4995c9a169c21fc4ca8a948cb][^c-c64cf0ec8cf0de8d7606f0be8724e2d9]
 
 *Extent: E+W*
 
-(1) When carrying out an inspection under section 103, 103A or 103B,[^key-422933de1ac2274ed61748abc90f11f9] WRA has the following powers.
+(1) When carrying out an inspection under section 103, 103A or 103B,[^c-422933de1ac2274ed61748abc90f11f9] WRA has the following powers.
 
-(2) On entering the [^key-5de16f1affaabed097d943d34c9da2bc]... premises, WRA may—
+(2) On entering the [^c-5de16f1affaabed097d943d34c9da2bc]... premises, WRA may—
 
 - (a) if it has grounds for believing that the carrying out of the inspection may be seriously obstructed, be accompanied by a constable, and
 - (b) be accompanied by a person authorised by WRA.
@@ -42,10 +42,10 @@ summary: ''
 
 ## Annotations
 
-[^key-cd6803f4995c9a169c21fc4ca8a948cb]: Commencement: S. 104 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-cd6803f4995c9a169c21fc4ca8a948cb]: Commencement: S. 104 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-c64cf0ec8cf0de8d7606f0be8724e2d9]: Textual amendment: Words in s. 104 heading inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/4/a); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
+[^c-c64cf0ec8cf0de8d7606f0be8724e2d9]: Textual amendment: Words in s. 104 heading inserted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 4(a)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/4/a); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
 
-[^key-422933de1ac2274ed61748abc90f11f9]: Textual amendment: Words in s. 104(1) substituted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/4/b); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
+[^c-422933de1ac2274ed61748abc90f11f9]: Textual amendment: Words in s. 104(1) substituted (25.1.2018) by [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/4/b); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
 
-[^key-5de16f1affaabed097d943d34c9da2bc]: Textual amendment: Word in s. 104(2) omitted (25.1.2018) by virtue of [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/4/c); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)
+[^c-5de16f1affaabed097d943d34c9da2bc]: Textual amendment: Word in s. 104(2) omitted (25.1.2018) by virtue of [Landfill Disposals Tax (Wales) Act 2017 (anaw 3)](https://www.legislation.gov.uk/anaw/2017/3), [s. 97(2)](https://www.legislation.gov.uk/anaw/2017/3/section/97/2), [Sch. 4 para. 4(c)](https://www.legislation.gov.uk/anaw/2017/3/schedule/4/paragraph/4/c); [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(z)(i)](https://www.legislation.gov.uk/wsi/2018/35/article/2/z/i)

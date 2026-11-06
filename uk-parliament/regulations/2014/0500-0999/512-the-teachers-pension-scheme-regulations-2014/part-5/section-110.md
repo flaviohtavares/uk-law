@@ -38,12 +38,12 @@ summary: ''
 
 (3) This paragraph applies if—
 
-- (a) P left all pensionable service[^key-55e7852508471039b18e40d8d43761f6] because P was incapacitated; and
+- (a) P left all pensionable service[^c-55e7852508471039b18e40d8d43761f6] because P was incapacitated; and
 - (b) P made the ill-health application—
   - (i) before leaving all eligible employment; or
   - (ii) within 2 years after the last day of pensionable service.
 
-(3A)[^key-fd11edfd1e02110b007d0b4a55b7384d] Where paragraph (3) applies, the illness or injury which P relies upon in P’s ill-health application to meet the incapacity condition must be—
+(3A)[^c-fd11edfd1e02110b007d0b4a55b7384d] Where paragraph (3) applies, the illness or injury which P relies upon in P’s ill-health application to meet the incapacity condition must be—
 
 - (a) the same illness or injury which was the reason, or as the case may be, one of the reasons for P leaving pensionable employment; or
 - (b) connected to or consequent upon that injury or illness.
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55e7852508471039b18e40d8d43761f6]: Textual amendment: Words in [reg. 110(3)(a)](https://www.legislation.gov.uk/uksi/2014/512/regulation/110/3/a) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/15/a)
+[^c-55e7852508471039b18e40d8d43761f6]: Textual amendment: Words in [reg. 110(3)(a)](https://www.legislation.gov.uk/uksi/2014/512/regulation/110/3/a) substituted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [15(a)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/15/a)
 
-[^key-fd11edfd1e02110b007d0b4a55b7384d]: Textual amendment: [Reg. 110(3A)](https://www.legislation.gov.uk/uksi/2014/512/regulation/110/3A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/15/b)
+[^c-fd11edfd1e02110b007d0b4a55b7384d]: Textual amendment: [Reg. 110(3A)](https://www.legislation.gov.uk/uksi/2014/512/regulation/110/3A) inserted (30.11.2017) by [The Teachers Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [15(b)](https://www.legislation.gov.uk/uksi/2017/1084/regulation/15/b)

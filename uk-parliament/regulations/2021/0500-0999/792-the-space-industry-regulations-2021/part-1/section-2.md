@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-cbf041af40ed0f5953b2462b3e4ac171]
+## 2. Interpretation[^c-cbf041af40ed0f5953b2462b3e4ac171]
 
 *Extent: E+W+S+N.I.*
 
@@ -166,13 +166,13 @@ summary: ''
 - (d) from which range control services are provided or are to be provided, or
 - (e) from or on which one or more of the activities in sub-paragraphs (a) to (d) are carried out or are to be carried out.
 
-(3)[^key-d308c3af64ff47f63903a7fad67a9a23] For the purposes of these Regulations, references to “space site” do not include references to a ship in regulation 3(c) of the Space Industry (Licence Exemption for Military Activities of Allies) Regulations 2025 from which a permitted activity is carried out or is to be carried out by an authorised person.
+(3)[^c-d308c3af64ff47f63903a7fad67a9a23] For the purposes of these Regulations, references to “space site” do not include references to a ship in regulation 3(c) of the Space Industry (Licence Exemption for Military Activities of Allies) Regulations 2025 from which a permitted activity is carried out or is to be carried out by an authorised person.
 
 (4) For the purpose of paragraph (3), “**permitted activity**” and “**authorised person**” have the same meaning as in regulation 2 of the Space Industry (Licence Exemption for Military Activities of Allies) Regulations 2025.
 
 ## Annotations
 
-[^key-cbf041af40ed0f5953b2462b3e4ac171]: Commencement: Reg. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-cbf041af40ed0f5953b2462b3e4ac171]: Commencement: Reg. 2 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2021/793](https://www.legislation.gov.uk/uksi/2021/793).
 
@@ -204,4 +204,4 @@ summary: ''
 
 [^f00017]: Footnote: CP 307. The agreement may be obtained in hard copy from the Commercial Space Directorate, UK Space Agency, 10 Victoria Street, London, SW1H 0NN or found on the Foreign, Commonwealth & Development Office treaties database at https://www.gov.uk/government/publications/ukusa-agreement-in-the-form-of-an-exchange-of-notes-between-the-united-kingdom-and-the-united-states-of-america-on-technology-safeguards-associated.
 
-[^key-d308c3af64ff47f63903a7fad67a9a23]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/792/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2021/792/regulation/2/4) inserted (28.2.2025) by [The Space Industry (Licence Exemption for Military Activities of Allies) Regulations 2025 (S.I. 2025/222)](https://www.legislation.gov.uk/uksi/2025/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/222/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2025/222/regulation/5/2)
+[^c-d308c3af64ff47f63903a7fad67a9a23]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/792/regulation/2/3)[(4)](https://www.legislation.gov.uk/uksi/2021/792/regulation/2/4) inserted (28.2.2025) by [The Space Industry (Licence Exemption for Military Activities of Allies) Regulations 2025 (S.I. 2025/222)](https://www.legislation.gov.uk/uksi/2025/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/222/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2025/222/regulation/5/2)

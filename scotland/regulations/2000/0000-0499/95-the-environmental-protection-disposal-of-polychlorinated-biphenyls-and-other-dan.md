@@ -67,8 +67,8 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
   - (i) the PCB volume of a power capacitor shall be measured by reference to all of the separate elements of a combined set; and
   - (ii) any thing of a type which may contain PCBs shall be treated as containing PCBs unless it is reasonable to assume the contrary;
 - “decontamination” means all operations which enable equipment, objects, materials or fluids contaminated by PCBs to be reused, recycled or disposed of under safe conditions, and which may include replacement, meaning all operations in which PCBs are replaced by suitable fluids not containing PCBs;
-- [^key-f8bab2739a483c029574ad3bdd79acc3]...
-- “disposal” means any of the operations D8, D9, D10, D12 (only in safe, deep, underground storage in dry rock formations and only for equipment containing PCBs or used PCBs which cannot be decontaminated) and D15 provided for in Annex I of Directive 2008/98EC of the European Parliament and of the Council on waste[^key-d12e6ebac715fc067223eb4734214729] and set out in Schedule 1 to these Regulations;
+- [^c-f8bab2739a483c029574ad3bdd79acc3]...
+- “disposal” means any of the operations D8, D9, D10, D12 (only in safe, deep, underground storage in dry rock formations and only for equipment containing PCBs or used PCBs which cannot be decontaminated) and D15 provided for in Annex I of Directive 2008/98EC of the European Parliament and of the Council on waste[^c-d12e6ebac715fc067223eb4734214729] and set out in Schedule 1 to these Regulations;
 - “holder” means the person who is in possession of PCBs, including any used PCBs or of any equipment;
 - “PCBs” means any of the following substances:–
   - polychlorinated biphenyls;
@@ -76,13 +76,13 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
   - monomethyl-dibromo-diphenyl methane;
   - monomethyl-dichloro-diphenyl methane;
   - monomethyl-tetrachlorodiphenyl methane,
-- and, except in regulations 4(3A), (3C) and (4), 5(3)[^key-88cd4e8ea52e3efa50292bd628100fce] and (4),[^key-639e05ef09ee06c601bc193f28cba7cb] and 9(3), includes any mixture containing any of those substances in a total of more than 0.005% by weight;
+- and, except in regulations 4(3A), (3C) and (4), 5(3)[^c-88cd4e8ea52e3efa50292bd628100fce] and (4),[^c-639e05ef09ee06c601bc193f28cba7cb] and 9(3), includes any mixture containing any of those substances in a total of more than 0.005% by weight;
 - “registered holder” means a person registered with SEPA in accordance with regulation 6, and a registered holder is a registered holder in relation to particular equipment if a description of that equipment, including its location, has been furnished to SEPA;
 - “SEPA” means the Scottish Environment Protection Agency, established under section 20 of the 1995 Act;
 - “transformer” includes ancillary equipment, that is to say, equipment that is an integral part of the site of which the transformer is part, including radiators, bushings, through-wall bushings, and capacitors on air blast circuit breakers;
-- “used PCBs” mean any PCBs which are waste within the meaning of section 75(2)(a) of the Environmental Protection Act 1990 as read with section 75A of that Act[^key-cc0c660881338422ce6159b182334dc9].
+- “used PCBs” mean any PCBs which are waste within the meaning of section 75(2)(a) of the Environmental Protection Act 1990 as read with section 75A of that Act[^c-cc0c660881338422ce6159b182334dc9].
 
-(2)[^key-5a69b7f387c79f7a9ce7b5e800fa51c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5a69b7f387c79f7a9ce7b5e800fa51c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any reference in these Regulations to a numbered regulation is a reference to the regulation so numbered in these Regulations and any reference to a numbered paragraph is a reference to the paragraph so numbered in the regulation of which that paragraph forms part.
 
@@ -111,7 +111,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 ### 4. Prohibition on holding irrespective of registration
 
-(1) Subject to paragraphs (2) to (3D), (5) and (9) to (12)[^key-52992db70be910b03dfb8c605732d8ef], no person shall, after 31st December 2000, hold–
+(1) Subject to paragraphs (2) to (3D), (5) and (9) to (12)[^c-52992db70be910b03dfb8c605732d8ef], no person shall, after 31st December 2000, hold–
 
 - (a) any PCBs, including any used PCBs; or
 - (b) any equipment (whether or not that equipment is contaminated equipment)–
@@ -123,20 +123,20 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 - (a) PCBs, including any used PCBs, or equipment for the purposes of, or in the course of any business, manufacturing process or trade concerned with the decontamination or disposal of PCBs or such equipment;
 - (b) PCBs, including any used PCBs, which are manufactured, supplied or used solely for the purposes of analysis or research connected with the properties and effects of PCBs, and any equipment used as a receptacle for those PCBs, provided that any such PCBs and equipment are disposed of as soon as possible after the PCBs are no longer required for those purposes.
 
-(3A)[^key-745dc6e9ccf9ed4d144d678811488674] Paragraph (3B) applies to a transformer in respect of which it is reasonable to assume that it contains[^key-e175aa2d7a9d9dad3ba15d20cb618a88]—
+(3A)[^c-745dc6e9ccf9ed4d144d678811488674] Paragraph (3B) applies to a transformer in respect of which it is reasonable to assume that it contains[^c-e175aa2d7a9d9dad3ba15d20cb618a88]—
 
-- (a) 0.005% by weight, or less, of PCBs within the fluids containing PCBs[^key-1ac6b0aa24f3187ff7179b2315c180c2], or
-- (b) a total volume of 0.05 dm<sup>3</sup>, or less, of fluids containing[^key-ef975f8a706228558e864914d6a14b26] PCBs.
+- (a) 0.005% by weight, or less, of PCBs within the fluids containing PCBs[^c-1ac6b0aa24f3187ff7179b2315c180c2], or
+- (b) a total volume of 0.05 dm<sup>3</sup>, or less, of fluids containing[^c-ef975f8a706228558e864914d6a14b26] PCBs.
 
 (3B) A transformer to which this paragraph applies—
 
 - (a) may be held until the end of its useful life, and
 - (b) must then be decontaminated in accordance with paragraph (4)(b) to (d), or disposed of, as soon as possible.
 
-(3C) Paragraph (3D) applies to a transformer in respect of which it is reasonable to assume that it contains[^key-f12223743a4b42c9942bc25b4efcecf0]—
+(3C) Paragraph (3D) applies to a transformer in respect of which it is reasonable to assume that it contains[^c-f12223743a4b42c9942bc25b4efcecf0]—
 
-- (a) more than 0.005% but no more than 0.05% by weight of PCBs within the fluids containing PCBs[^key-58f7581f03e3374bab0e955353e88c1b], and
-- (b) a total volume of more than 0.05 dm<sup>3</sup> of fluids containing[^key-50b7ce25aea4732bbf5b610a117c58c9] PCBs.
+- (a) more than 0.005% but no more than 0.05% by weight of PCBs within the fluids containing PCBs[^c-58f7581f03e3374bab0e955353e88c1b], and
+- (b) a total volume of more than 0.05 dm<sup>3</sup> of fluids containing[^c-50b7ce25aea4732bbf5b610a117c58c9] PCBs.
 
 (3D) A transformer to which this paragraph applies—
 
@@ -145,7 +145,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (4) A transformer in respect of which it is reasonable to assume that the fluids contain more than 0.05% by weight shall be decontaminated under the following conditions:–
 
-- (a) the objective of the decontamination must be to reduce the content of PCBs in the fluid to 0.005% by weight, or less, or[^key-4e5537cc00170a5dea2aca7777f1ebae] to reduce the total volume of fluids containing PCBs to[^key-892cbb9d1744b61c79138b8b10fab94f] 0.05 dm<sup>3</sup>, or less;
+- (a) the objective of the decontamination must be to reduce the content of PCBs in the fluid to 0.005% by weight, or less, or[^c-4e5537cc00170a5dea2aca7777f1ebae] to reduce the total volume of fluids containing PCBs to[^c-892cbb9d1744b61c79138b8b10fab94f] 0.05 dm<sup>3</sup>, or less;
 - (b) the replacement fluid not containing PCBs must entail markedly lesser risks;
 - (c) the replacement of the fluid must not compromise the subsequent disposal of the PCBs; and
 - (d) the labelling of the transformer must be replaced by the labelling specified in Schedule 2 to these Regulations after its decontamination.
@@ -164,7 +164,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (8) Equipment in respect of which a direction is given and has effect under paragraph (5) shall, unless decontaminated or disposed of before the date specified in the direction, be disposed of on that date.
 
-(9)[^key-e8148428f60592d3ecbad5ece7b0aa0f] Paragraph (10) applies to any equipment containing PCBs—
+(9)[^c-e8148428f60592d3ecbad5ece7b0aa0f] Paragraph (10) applies to any equipment containing PCBs—
 
 - (a) which is equipment to which none of paragraphs (2) to (3D), (5) and (11) to (12) applies,
 - (b) which is not contaminated equipment, and
@@ -204,17 +204,17 @@ other than equipment which contains a total volume of PCBs exceeding 0.05 dm<sup
 
 (2) Subject to paragraph (3), such sign shall record that the equipment is, or the premises contain equipment that is, contaminated by PCBs.
 
-(3)[^key-8ec19091d9239cd33e44ee87e07bb9bc] Equipment in respect of which it is reasonable to assume that [^key-b811080dbb562159ef4be168fa60bc65]...—
+(3)[^c-8ec19091d9239cd33e44ee87e07bb9bc] Equipment in respect of which it is reasonable to assume that [^c-b811080dbb562159ef4be168fa60bc65]...—
 
-- (a) within the equipment the fluids contain[^key-6d476d5e3c6a28b0391f0ee40699174d] between 0.05% and 0.005% by weight of PCBs, or
-- (b) the equipment contains[^key-ef9d1ea31dec59dda330a639df9f4485] between 5dm<sup>3</sup> and 0.05dm<sup>3 </sup>of fluids containing[^key-b7df73ec29eb03c3bdd3c9c77d9ede6d] PCBs,
+- (a) within the equipment the fluids contain[^c-6d476d5e3c6a28b0391f0ee40699174d] between 0.05% and 0.005% by weight of PCBs, or
+- (b) the equipment contains[^c-ef9d1ea31dec59dda330a639df9f4485] between 5dm<sup>3</sup> and 0.05dm<sup>3 </sup>of fluids containing[^c-b7df73ec29eb03c3bdd3c9c77d9ede6d] PCBs,
 
 may be labelled as “PCBs contaminated \<0.05% or \<5dm<sup>3</sup>.
 
-(4)[^key-6d7790a95cfba611fc0c39520795b3ba] Equipment in respect of which it is reasonable to assume that [^key-61ac29236da50531bb9a5ebc2962eeea]...—
+(4)[^c-6d7790a95cfba611fc0c39520795b3ba] Equipment in respect of which it is reasonable to assume that [^c-61ac29236da50531bb9a5ebc2962eeea]...—
 
-- (a) within the equipment the fluids contain[^key-6ef70c9951a92d7e09a1253e39ee537f] 0.005% by weight, or less, of PCBs, or
-- (b) the equipment contains[^key-a8f3dc61febce28210436c5d781ea629] a total volume of 0.05 dm<sup>3</sup>, or less, of fluids containing[^key-03abb6e64da39cd9899a8953d4dce2db] PCBs,
+- (a) within the equipment the fluids contain[^c-6ef70c9951a92d7e09a1253e39ee537f] 0.005% by weight, or less, of PCBs, or
+- (b) the equipment contains[^c-a8f3dc61febce28210436c5d781ea629] a total volume of 0.05 dm<sup>3</sup>, or less, of fluids containing[^c-03abb6e64da39cd9899a8953d4dce2db] PCBs,
 
 may be labelled as “PCBs contaminated \<0.005% or \<0.05 dm<sup>3</sup>.
 
@@ -235,7 +235,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05 dm<sup>3</sup>.
 (2) Information of the descriptions–
 
 - (a) in paragraph (1) may be provided in an electronic form acceptable to SEPA;
-- (b)[^key-fd26aa93a1a226c011067ca300bdbe44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-fd26aa93a1a226c011067ca300bdbe44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An application for registration shall be granted where the applicant has complied with paragraph (1) and shall otherwise be refused.
 
@@ -313,7 +313,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05 dm<sup>3</sup>.
 
 ### 10. Information for inventories
 
-(1) A registered holder who (by virtue of paragraphs (2) to (3D)[^key-eb1e01a4cb0281fb814f8fcf741115a5] or (5) of regulation 4) intends to continue to hold contaminated equipment on or after 31st July in the year 2001 or in any subsequent year shall apply in writing (or in an electronic form acceptable to SEPA) in the relevant year, but before 31st July, for the registration to continue.
+(1) A registered holder who (by virtue of paragraphs (2) to (3D)[^c-eb1e01a4cb0281fb814f8fcf741115a5] or (5) of regulation 4) intends to continue to hold contaminated equipment on or after 31st July in the year 2001 or in any subsequent year shall apply in writing (or in an electronic form acceptable to SEPA) in the relevant year, but before 31st July, for the registration to continue.
 
 (2) In so applying, the registered holder shall, in respect of each of the items of contaminated equipment held which have been, or are to be, included in an inventory compiled in accordance with regulation 9(1), notify SEPA of the locations and descriptions and, subject to regulation 9(3), the quantities and the dates and types of treatment, referred to in regulation 9(2).
 
@@ -363,7 +363,7 @@ Where SEPA has fixed a charge under section 43 of the 1995 Act for a service or 
 - (a) who holds PCBs or equipment in contravention of regulation 4(1); or
 - (b) who, being the holder of PCBs or equipment to which regulation 4(2)(b) applies, fails to dispose of them in accordance with that sub-paragraph; or
 - (c) who, being the holder of equipment, fails to decontaminate or dispose of that equipment–
-  - (ia)[^key-450755b579c9765821c6e866b058359b] in a case to which regulation 4(3A) applies, as soon as possible after the end of its useful life,
+  - (ia)[^c-450755b579c9765821c6e866b058359b] in a case to which regulation 4(3A) applies, as soon as possible after the end of its useful life,
   - (ib) in a case to which regulation 4(3C) applies, as soon as possible after 31 December 2025,
   - (ii) in a case to which regulation 4(5) applies, in accordance with paragraph (8) of that regulation;
   - (iii) in a case to which regulation 4(9) applies, as soon as possible after the end of the useful life of the other equipment of which it forms part,
@@ -406,7 +406,7 @@ A member of the Scottish Executive
 
 St Andrew’s House, Edinburgh
 
-## SCHEDULE 1 — DISPOSAL OPERATIONS D8, D9, D10, D12 AND D15 AS SET OUT IN Annex I of Directive 2008/98EC of the European Parliament and of the Council on waste[^key-f578f4b59c4f88769e04c14babecfb62]
+## SCHEDULE 1 — DISPOSAL OPERATIONS D8, D9, D10, D12 AND D15 AS SET OUT IN Annex I of Directive 2008/98EC of the European Parliament and of the Council on waste[^c-f578f4b59c4f88769e04c14babecfb62]
 
 Regulation 2
 
@@ -474,72 +474,72 @@ A regulatory impact assessment which indicates the cost of compliance to busines
 
 [^c16005581]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-f8bab2739a483c029574ad3bdd79acc3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [8(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/8/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8bab2739a483c029574ad3bdd79acc3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/1) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [8(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/26/regulation/8/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d12e6ebac715fc067223eb4734214729]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/95/regulation/2) substituted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [14](https://www.legislation.gov.uk/ssi/2026/55/regulation/14)
+[^c-d12e6ebac715fc067223eb4734214729]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2000/95/regulation/2) substituted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [14](https://www.legislation.gov.uk/ssi/2026/55/regulation/14)
 
-[^key-88cd4e8ea52e3efa50292bd628100fce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/1) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/2)
+[^c-88cd4e8ea52e3efa50292bd628100fce]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/1) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/2)
 
-[^key-639e05ef09ee06c601bc193f28cba7cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/1) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/2)
+[^c-639e05ef09ee06c601bc193f28cba7cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/1) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/2)
 
-[^key-cc0c660881338422ce6159b182334dc9]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [8(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/8/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc0c660881338422ce6159b182334dc9]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [8(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/26/regulation/8/2/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a69b7f387c79f7a9ce7b5e800fa51c6]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/2) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5a69b7f387c79f7a9ce7b5e800fa51c6]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2000/95/regulation/2/2) omitted (31.12.2020) by virtue of [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52992db70be910b03dfb8c605732d8ef]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/1) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/a)
+[^c-52992db70be910b03dfb8c605732d8ef]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/1) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/a)
 
-[^key-745dc6e9ccf9ed4d144d678811488674]: Textual amendment: [Reg. 4(3A)-(3D)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A) substituted for reg. 4(3) (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/b)
+[^c-745dc6e9ccf9ed4d144d678811488674]: Textual amendment: [Reg. 4(3A)-(3D)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A) substituted for reg. 4(3) (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/b)
 
-[^key-e175aa2d7a9d9dad3ba15d20cb618a88]: Textual amendment: Words in [reg. 4(3A)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A) substituted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/a/i)
+[^c-e175aa2d7a9d9dad3ba15d20cb618a88]: Textual amendment: Words in [reg. 4(3A)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A) substituted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/a/i)
 
-[^key-1ac6b0aa24f3187ff7179b2315c180c2]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/a/ii)
+[^c-1ac6b0aa24f3187ff7179b2315c180c2]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/a/ii)
 
-[^key-ef975f8a706228558e864914d6a14b26]: Textual amendment: Words in [reg. 4(3A)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/a/iii)
+[^c-ef975f8a706228558e864914d6a14b26]: Textual amendment: Words in [reg. 4(3A)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3A/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/a/iii)
 
-[^key-f12223743a4b42c9942bc25b4efcecf0]: Textual amendment: Words in [reg. 4(3C)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3C) substituted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/b/i)
+[^c-f12223743a4b42c9942bc25b4efcecf0]: Textual amendment: Words in [reg. 4(3C)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3C) substituted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/b/i)
 
-[^key-58f7581f03e3374bab0e955353e88c1b]: Textual amendment: Words in [reg. 4(3C)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3C/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/b/ii)
+[^c-58f7581f03e3374bab0e955353e88c1b]: Textual amendment: Words in [reg. 4(3C)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3C/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/b/ii)
 
-[^key-50b7ce25aea4732bbf5b610a117c58c9]: Textual amendment: Words in [reg. 4(3C)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3C/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/b/iii)
+[^c-50b7ce25aea4732bbf5b610a117c58c9]: Textual amendment: Words in [reg. 4(3C)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/3C/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/b/iii)
 
-[^key-4e5537cc00170a5dea2aca7777f1ebae]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/4/a) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/c)
+[^c-4e5537cc00170a5dea2aca7777f1ebae]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/4/a) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/c)
 
-[^key-892cbb9d1744b61c79138b8b10fab94f]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/4/a) substituted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/c)
+[^c-892cbb9d1744b61c79138b8b10fab94f]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/4/a) substituted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/3/c)
 
-[^key-e8148428f60592d3ecbad5ece7b0aa0f]: Textual amendment: [Reg. 4(9)-(14)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/9) substituted for [reg. 4(9)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/9) (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/d)
+[^c-e8148428f60592d3ecbad5ece7b0aa0f]: Textual amendment: [Reg. 4(9)-(14)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/9) substituted for [reg. 4(9)](https://www.legislation.gov.uk/ssi/2000/95/regulation/4/9) (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/3/d)
 
-[^key-8ec19091d9239cd33e44ee87e07bb9bc]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/4/a)
+[^c-8ec19091d9239cd33e44ee87e07bb9bc]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/4/a)
 
-[^key-b811080dbb562159ef4be168fa60bc65]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3) omitted (4.4.2025) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/i)
+[^c-b811080dbb562159ef4be168fa60bc65]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3) omitted (4.4.2025) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/i)
 
-[^key-6d476d5e3c6a28b0391f0ee40699174d]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/ii)
+[^c-6d476d5e3c6a28b0391f0ee40699174d]: Textual amendment: Words in [reg. 5(3)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/ii)
 
-[^key-ef9d1ea31dec59dda330a639df9f4485]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(iii)(aa)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/iii/aa)
+[^c-ef9d1ea31dec59dda330a639df9f4485]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(iii)(aa)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/iii/aa)
 
-[^key-b7df73ec29eb03c3bdd3c9c77d9ede6d]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(iii)(bb)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/iii/bb)
+[^c-b7df73ec29eb03c3bdd3c9c77d9ede6d]: Textual amendment: Words in [reg. 5(3)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/3/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(a)(iii)(bb)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/a/iii/bb)
 
-[^key-6d7790a95cfba611fc0c39520795b3ba]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4) inserted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/4/b)
+[^c-6d7790a95cfba611fc0c39520795b3ba]: Textual amendment: [Reg. 5(4)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4) inserted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/4/b)
 
-[^key-61ac29236da50531bb9a5ebc2962eeea]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4) omitted (4.4.2025) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/i)
+[^c-61ac29236da50531bb9a5ebc2962eeea]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4) omitted (4.4.2025) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(i)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/i)
 
-[^key-6ef70c9951a92d7e09a1253e39ee537f]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/ii)
+[^c-6ef70c9951a92d7e09a1253e39ee537f]: Textual amendment: Words in [reg. 5(4)(a)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4/a) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/ii)
 
-[^key-a8f3dc61febce28210436c5d781ea629]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(iii)(aa)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/iii/aa)
+[^c-a8f3dc61febce28210436c5d781ea629]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(iii)(aa)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/iii/aa)
 
-[^key-03abb6e64da39cd9899a8953d4dce2db]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(iii)(bb)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/iii/bb)
+[^c-03abb6e64da39cd9899a8953d4dce2db]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/5/4/b) inserted (4.4.2025) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment (No. 2) Regulations 2025 (S.S.I. 2025/78)](https://www.legislation.gov.uk/ssi/2025/78), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/78/regulation/1/3), [2(4)(b)(iii)(bb)](https://www.legislation.gov.uk/ssi/2025/78/regulation/2/4/b/iii/bb)
 
-[^key-fd26aa93a1a226c011067ca300bdbe44]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/6/2/b) omitted (14.2.2021) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/5)
+[^c-fd26aa93a1a226c011067ca300bdbe44]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/ssi/2000/95/regulation/6/2/b) omitted (14.2.2021) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/5)
 
-[^key-eb1e01a4cb0281fb814f8fcf741115a5]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/10/1) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/6)
+[^c-eb1e01a4cb0281fb814f8fcf741115a5]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/ssi/2000/95/regulation/10/1) substituted (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/6)
 
 [^c16005621]: Marginal citation: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), to which there are amendments not relevant to these Regulations.
 
 [^c16005631]: Marginal citation: [S.I. 1992/3240](https://www.legislation.gov.uk/uksi/1992/3240), amended by [S.I. 1998/1447](https://www.legislation.gov.uk/uksi/1998/1447).
 
-[^key-450755b579c9765821c6e866b058359b]: Textual amendment: Reg. 13(2)(c)(ia)(ib) substituted for reg. 13(2)(c)(i) (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/7)
+[^c-450755b579c9765821c6e866b058359b]: Textual amendment: Reg. 13(2)(c)(ia)(ib) substituted for reg. 13(2)(c)(i) (14.2.2021) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (Scotland) Amendment Regulations 2020 (S.S.I. 2020/434)](https://www.legislation.gov.uk/ssi/2020/434), [regs. 1](https://www.legislation.gov.uk/ssi/2020/434/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2020/434/regulation/2/7)
 
 [^c16005641]: Marginal citation: [S.I. 1986/902](https://www.legislation.gov.uk/uksi/1986/902), amended by [S.I. 1992/31](https://www.legislation.gov.uk/uksi/1992/31).
 
 [^c16005651]: Marginal citation: [S.I. 1992/31](https://www.legislation.gov.uk/uksi/1992/31).
 
-[^key-f578f4b59c4f88769e04c14babecfb62]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2000/95/schedule/1) heading substituted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [14](https://www.legislation.gov.uk/ssi/2026/55/regulation/14)
+[^c-f578f4b59c4f88769e04c14babecfb62]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2000/95/schedule/1) heading substituted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [14](https://www.legislation.gov.uk/ssi/2026/55/regulation/14)

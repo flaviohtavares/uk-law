@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.15. Resolutions and minutes[^key-33d5b0585485ea5bccb91a59683285a8]
+## 3.15. Resolutions and minutes[^c-33d5b0585485ea5bccb91a59683285a8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33d5b0585485ea5bccb91a59683285a8]: Commencement: [Rule 3.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-33d5b0585485ea5bccb91a59683285a8]: Commencement: [Rule 3.15](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.15) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

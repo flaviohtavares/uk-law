@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 27
 
-### PART 1 — New Article 1a[^key-3f5751e39d93bd91f567ffc17533871d]
+### PART 1 — New Article 1a[^c-3f5751e39d93bd91f567ffc17533871d]
 
 > **Article 1a — Definitions**
 >
@@ -49,7 +49,7 @@ Regulation 27
 > - (n) ‘UK standard amendment’ has the meaning given by Article 14(2a) of Delegated Regulation (EU) 2019/33;
 > - (o) ‘UK temporary amendment’ has the meaning given by Article 14(2b) of Delegated Regulation (EU) 2019/33.
 
-### PART 2 — Article 12: new paragraphs 2 to 2l[^key-c98d49d2e3994a3ac41946f9b0fbde57]
+### PART 2 — Article 12: new paragraphs 2 to 2l[^c-c98d49d2e3994a3ac41946f9b0fbde57]
 
 > **2.** Where the Secretary of State publishes a notice to which paragraph 2d applies relating to an amendment to a product specification for a designation of origin or geographical indication that entails a change to the information recorded in the register, the Secretary of State must as soon as possible after the expiry of the notice period for the notice:
 >
@@ -87,7 +87,7 @@ Regulation 27
 >
 > **2l.** The Secretary of State must remove an entry in the register relating to a UK temporary amendment or a third country temporary amendment as soon as possible after the period specified in the register as the period during which the amendment is to apply has expired.
 
-### PART 3 — New Article 12a[^key-a515a3d2d0f0c38963e5d36d2f19ca7b]
+### PART 3 — New Article 12a[^c-a515a3d2d0f0c38963e5d36d2f19ca7b]
 
 > **Article 12a — Register: established protected designations of origin and established protected geographical indications**
 >
@@ -134,7 +134,7 @@ Regulation 27
 > - (a) the EU product specification relating to a corresponding EU designation of origin or a corresponding EU geographical indication is to be read as a reference to the product specification for the corresponding EU designation of origin or corresponding EU geographical indication as that product specification stood immediately before IP completion day;
 > - (b) the EU single document relating to a corresponding EU designation of origin or a corresponding EU geographical indication is to be read as a reference to the single document for the corresponding EU designation of origin or corresponding EU geographical indication as that single document stood immediately before IP completion day.
 
-### PART 4 — New Article 25a[^key-5ba20dbac2f560409a07b889c0de0543]
+### PART 4 — New Article 25a[^c-5ba20dbac2f560409a07b889c0de0543]
 
 > **Article 25a — Register: established protected traditional terms**
 >
@@ -150,10 +150,10 @@ Regulation 27
 
 ## Annotations
 
-[^key-3f5751e39d93bd91f567ffc17533871d]: Commencement: Sch. 9 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-3f5751e39d93bd91f567ffc17533871d]: Commencement: Sch. 9 Pt. 1 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-c98d49d2e3994a3ac41946f9b0fbde57]: Commencement: Sch. 9 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-c98d49d2e3994a3ac41946f9b0fbde57]: Commencement: Sch. 9 Pt. 2 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-a515a3d2d0f0c38963e5d36d2f19ca7b]: Commencement: Sch. 9 Pt. 3 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-a515a3d2d0f0c38963e5d36d2f19ca7b]: Commencement: Sch. 9 Pt. 3 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
 
-[^key-5ba20dbac2f560409a07b889c0de0543]: Commencement: Sch. 9 Pt. 4 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)
+[^c-5ba20dbac2f560409a07b889c0de0543]: Commencement: Sch. 9 Pt. 4 in force at 31.12.2020, see [reg. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Charitable trusts: sale of property[^key-9df81eec356a9f0229e5dd53914aa02c]
+## 21. Charitable trusts: sale of property[^c-9df81eec356a9f0229e5dd53914aa02c]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) But this section is without prejudice to any duty imposed by the Charities and Trustee Investment (Scotland) Act 2005 to act in the interests of the charity (see, in particular, section 66 of that Act).
 
-(3)[^key-067b9bc97f7923668523814d5445864b] For the purposes of this section, a “charity” is a non-natural person—
+(3)[^c-067b9bc97f7923668523814d5445864b] For the purposes of this section, a “charity” is a non-natural person—
 
 - (a) registered in the Scottish Charity Register,
 - (b) which—
@@ -37,9 +37,9 @@ summary: ''
   - (i) is registered as a charity in Northern Ireland in accordance with section 16 of the Charities Act (Northern Ireland) 2008, or
   - (ii) by virtue of subsection (2A) of that section, is not required to register as a charity under that section.
 
-(4)[^key-067b9bc97f7923668523814d5445864b] The Scottish Ministers may by regulations modify subsection (3) so as to specify further descriptions of person who are a charity for the purposes of this section.
+(4)[^c-067b9bc97f7923668523814d5445864b] The Scottish Ministers may by regulations modify subsection (3) so as to specify further descriptions of person who are a charity for the purposes of this section.
 
-(5)[^key-067b9bc97f7923668523814d5445864b] Regulations under this section are subject to the affirmative procedure.
+(5)[^c-067b9bc97f7923668523814d5445864b] Regulations under this section are subject to the affirmative procedure.
 
 (6) This section—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9df81eec356a9f0229e5dd53914aa02c]: Commencement: S. 21 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-9df81eec356a9f0229e5dd53914aa02c]: Commencement: S. 21 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-067b9bc97f7923668523814d5445864b]: Commencement: [S. 21(3)](https://www.legislation.gov.uk/asp/2024/2/section/21/3)[(4)](https://www.legislation.gov.uk/asp/2024/2/section/21/4)[(5)](https://www.legislation.gov.uk/asp/2024/2/section/21/5) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-067b9bc97f7923668523814d5445864b]: Commencement: [S. 21(3)](https://www.legislation.gov.uk/asp/2024/2/section/21/3)[(4)](https://www.legislation.gov.uk/asp/2024/2/section/21/4)[(5)](https://www.legislation.gov.uk/asp/2024/2/section/21/5) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

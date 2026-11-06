@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Pension increase (husband).[^key-2035fee3a9e7902877bbe9bd7edd8db7]
+## 84. Pension increase (husband).[^c-2035fee3a9e7902877bbe9bd7edd8db7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2035fee3a9e7902877bbe9bd7edd8db7]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/1992/7/section/84) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 4(1)(b)](https://www.legislation.gov.uk/nia/2008/1/section/4/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))
+[^c-2035fee3a9e7902877bbe9bd7edd8db7]: Textual amendment: [S. 84](https://www.legislation.gov.uk/ukpga/1992/7/section/84) repealed (6.4.2010 with savings until 6.4.2020) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [s. 4(1)(b)](https://www.legislation.gov.uk/nia/2008/1/section/4/1/b), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/2) (with [s. 4(5)-(8)](https://www.legislation.gov.uk/nia/2008/1/section/4/5))

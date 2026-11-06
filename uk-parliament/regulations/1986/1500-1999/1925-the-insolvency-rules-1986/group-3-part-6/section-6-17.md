@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.17. Security for costs (s. 268(2) only)[^key-8610ba5e66d28054fd7f440cf0ccf005]
+## 6.17. Security for costs (s. 268(2) only)[^c-8610ba5e66d28054fd7f440cf0ccf005]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8610ba5e66d28054fd7f440cf0ccf005]: Commencement: [Rule 6.17](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.17) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-8610ba5e66d28054fd7f440cf0ccf005]: Commencement: [Rule 6.17](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.17) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

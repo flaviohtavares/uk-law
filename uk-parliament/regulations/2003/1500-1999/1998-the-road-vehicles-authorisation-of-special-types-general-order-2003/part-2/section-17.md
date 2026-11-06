@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Weight: police notification and road and bridge authority notification and indemnity[^key-484d25ae3068960e518617903e773b4b]
+## 17. Weight: police notification and road and bridge authority notification and indemnity[^c-484d25ae3068960e518617903e773b4b]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-484d25ae3068960e518617903e773b4b]: Commencement: Art. 17 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-484d25ae3068960e518617903e773b4b]: Commencement: Art. 17 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

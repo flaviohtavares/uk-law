@@ -31,10 +31,10 @@ summary: ''
 
 of 26 July 2000 pursuant to Directive 95/46/EC of the European Parliament and of the Council on the adequate protection of personal data provided in Hungary (notified under document number C(2000) 2305) (Text with EEA relevance.) (revoked)
 
-[^key-a847f0e155845e84632dbc395e6a2e11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a847f0e155845e84632dbc395e6a2e11]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-a847f0e155845e84632dbc395e6a2e11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-a847f0e155845e84632dbc395e6a2e11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a847f0e155845e84632dbc395e6a2e11]: Textual amendment: Decision revoked by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419), [Sch. 3 para. 1(aa)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/aa) (as inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2020 (S.I. 2020/1586)](https://www.legislation.gov.uk/uksi/2020/1586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/6/2/a))
+[^c-a847f0e155845e84632dbc395e6a2e11]: Textual amendment: Decision revoked by [S.I. 2019/419](https://www.legislation.gov.uk/uksi/2019/419), [Sch. 3 para. 1(aa)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/1/aa) (as inserted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2020 (S.I. 2020/1586)](https://www.legislation.gov.uk/uksi/2020/1586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1586/regulation/6/2/a))

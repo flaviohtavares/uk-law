@@ -24,7 +24,7 @@ Sections 291 and 294
 
 ### Application of Schedule
 
-**1.**[^key-7c30344f3ad05f0b07fb262f072bce49] (1) This Schedule applies where OFCOM’s approval of networking arrangements entered into by the holders of regional Channel 3 licences is required—
+**1.**[^c-7c30344f3ad05f0b07fb262f072bce49] (1) This Schedule applies where OFCOM’s approval of networking arrangements entered into by the holders of regional Channel 3 licences is required—
 
 - (a) for the purposes of conditions included in regional Channel 3 licences in accordance with section 291; or
 - (b) in order for networking arrangements made by OFCOM to cease to have effect in accordance with section 292.
@@ -37,13 +37,13 @@ Sections 291 and 294
 
 ### Approval required for modifications
 
-**2.**[^key-27dca27c4f6787c5a918bb89120bb975] (1) Where networking arrangements are approved by OFCOM for purposes mentioned in paragraph 1(1), those arrangements are not to be modified unless OFCOM have approved the modifications in accordance with this Schedule.
+**2.**[^c-27dca27c4f6787c5a918bb89120bb975] (1) Where networking arrangements are approved by OFCOM for purposes mentioned in paragraph 1(1), those arrangements are not to be modified unless OFCOM have approved the modifications in accordance with this Schedule.
 
 (2) This paragraph does not apply to modifications proposed by OFCOM under section 293.
 
 ### Procedure for giving approval
 
-**3.**[^key-b2ac78d7324905aeea15e03ab3a0eee8] (1) This paragraph applies where arrangements or modifications are submitted to OFCOM for their approval.
+**3.**[^c-b2ac78d7324905aeea15e03ab3a0eee8] (1) This paragraph applies where arrangements or modifications are submitted to OFCOM for their approval.
 
 (2) OFCOM must publish a description of the arrangements or modifications that have been submitted.
 
@@ -53,7 +53,7 @@ Sections 291 and 294
 
 ### Decision of OFCOM whether or not to approve arrangements or modifications
 
-**4.**[^key-bd6870794cb792af9a7f4f0dc00ccb51] (1) The decision made by OFCOM under paragraph 3(4) has to be one of the following—
+**4.**[^c-bd6870794cb792af9a7f4f0dc00ccb51] (1) The decision made by OFCOM under paragraph 3(4) has to be one of the following—
 
 - (a) a decision to approve the arrangements or modifications unconditionally;
 - (b) a decision to give a conditional approval to the arrangements or modifications;
@@ -70,7 +70,7 @@ Sections 291 and 294
 
 (5) OFCOM must publish the report and send a copy of it to—
 
-- (a) the Competition and Markets Authority[^key-2ede47e17e02ee00a9d7df7f2c7c3f7e] ; and
+- (a) the Competition and Markets Authority[^c-2ede47e17e02ee00a9d7df7f2c7c3f7e] ; and
 - (b) every person to whom the relevant arrangements will apply, or do apply.
 
 (6) The relevant arrangements are—
@@ -80,7 +80,7 @@ Sections 291 and 294
 
 ### Notification of decisions on imposition of arrangements
 
-**5.**[^key-69fdd01de38f2ad927e07c233e147852] (1) Where OFCOM impose arrangements they must prepare and publish a report setting out details of the imposed arrangements.
+**5.**[^c-69fdd01de38f2ad927e07c233e147852] (1) Where OFCOM impose arrangements they must prepare and publish a report setting out details of the imposed arrangements.
 
 (2) Where OFCOM carry out a review under section 293, they must prepare and publish a report setting out—
 
@@ -100,7 +100,7 @@ Sections 291 and 294
 
 ### Competition tests applying to OFCOM’s decisions
 
-**6.**[^key-26a919dffefe31cd3e308704f5eb65ad] (1) OFCOM must not—
+**6.**[^c-26a919dffefe31cd3e308704f5eb65ad] (1) OFCOM must not—
 
 - (a) approve arrangements or modifications,
 - (b) impose arrangements or modify imposed arrangements, or
@@ -119,23 +119,23 @@ unless they are satisfied that the arrangements, or the arrangements as proposed
 
 (5) For the purposes of the second competition test, arrangements imposed by OFCOM and modifications of such arrangements are to be treated as if they were given effect to by an agreement between undertakings.
 
-(6) Subject to paragraph 6A,[^key-d2e98b94cb80322ad0cc481b4728fb3d] in determining whether arrangements or modified arrangements would satisfy either of the competition tests, OFCOM must act with a view to securing that there is no inconsistency between—
+(6) Subject to paragraph 6A,[^c-d2e98b94cb80322ad0cc481b4728fb3d] in determining whether arrangements or modified arrangements would satisfy either of the competition tests, OFCOM must act with a view to securing that there is no inconsistency between—
 
 - (a) the principles they apply and the decision they reach; and
 - (b) any principles or decisions referred to in sub-paragraph (7).
 
 (7) Those principles and decisions are—
 
-- (a) the principles laid down by the Treaty on the Functioning of the European Union and the European Court[^key-eaad44725ec6e3e2c40de1e1e4652a91] before IP completion day[^key-ea567fdc4823572997de5bbf38985453], and any decisions made by that court before IP completion day[^key-df3b66a622966c2636ad4cf045fcdc86], that are relevant to the construction of Article 101 of that Treaty; and
+- (a) the principles laid down by the Treaty on the Functioning of the European Union and the European Court[^c-eaad44725ec6e3e2c40de1e1e4652a91] before IP completion day[^c-ea567fdc4823572997de5bbf38985453], and any decisions made by that court before IP completion day[^c-df3b66a622966c2636ad4cf045fcdc86], that are relevant to the construction of Article 101 of that Treaty; and
 - (b) any decisions under Part 1 of the Competition Act 1998, and any decisions of a court in the United Kingdom, that are relevant to the construction of a provision of that Act that is equivalent to the provisions of this Schedule imposing the competition tests.
 
-(7A)[^key-1a980dd819ca02fea76fae552701e275] In sub-paragraph (7)(a), the reference to principles laid down before IP completion day is a reference to such principles as they have effect in EU law immediately before IP completion day, disregarding the effect of principles laid down, and decisions made, by the European Court on or after IP completion day.
+(7A)[^c-1a980dd819ca02fea76fae552701e275] In sub-paragraph (7)(a), the reference to principles laid down before IP completion day is a reference to such principles as they have effect in EU law immediately before IP completion day, disregarding the effect of principles laid down, and decisions made, by the European Court on or after IP completion day.
 
 (8) In the case of a conditional approval, the requirements of this paragraph have to be satisfied in relation to the arrangements or modified arrangements as they will be after giving effect to the changes proposed by OFCOM.
 
 (9) In this paragraph, the “**European Court**” includes a court attached to the European Court.
 
-### Competition tests applying to OFCOM's decisions: EU principles etc[^key-c5a3c68a199c5f58f4ec953a40c804e4]
+### Competition tests applying to OFCOM's decisions: EU principles etc[^c-c5a3c68a199c5f58f4ec953a40c804e4]
 
 **6A.** (1) Paragraph 6(6) does not require OFCOM to secure that there is no inconsistency with a principle or decision referred to in paragraph 6(7)(a)—
 
@@ -155,7 +155,7 @@ unless they are satisfied that the arrangements, or the arrangements as proposed
 
 ### Other matters to be taken into account
 
-**7.**[^key-5af3580bb2c834aa4e3c9ee55458eacb] (1) OFCOM must not—
+**7.**[^c-5af3580bb2c834aa4e3c9ee55458eacb] (1) OFCOM must not—
 
 - (a) approve arrangements or modifications,
 - (b) impose arrangements or modify imposed arrangements, or
@@ -180,7 +180,7 @@ unless they consider that the arrangements, or the arrangements as proposed to b
 
 ### Duty to refuse approval in certain cases
 
-**8.**[^key-72464d00ea5324c1ac16cd960d312581] (1) This paragraph applies to a decision by OFCOM—
+**8.**[^c-72464d00ea5324c1ac16cd960d312581] (1) This paragraph applies to a decision by OFCOM—
 
 - (a) to approve arrangements or modifications;
 - (b) to impose arrangements or to modify imposed arrangements; or
@@ -195,7 +195,7 @@ unless they consider that the arrangements, or the arrangements as proposed to b
 
 ### Appeals against decisions relating to competition test
 
-**9.**[^key-7070d829daaa56fa8e8dd60827596dd6] (1) A person holding a regional Channel 3 licence may appeal to the Tribunal against the following decisions by OFCOM—
+**9.**[^c-7070d829daaa56fa8e8dd60827596dd6] (1) A person holding a regional Channel 3 licence may appeal to the Tribunal against the following decisions by OFCOM—
 
 - (a) a decision on how to dispose of an application for the approval of arrangements or modifications;
 - (b) a decision to impose arrangements or to modify imposed arrangements; or
@@ -223,7 +223,7 @@ unless they consider that the arrangements, or the arrangements as proposed to b
 
 ### Decisions on an appeal
 
-**10.**[^key-43ae654ee7d1edea91b88a72cebf9c44] (1) Appeals to the Tribunal under paragraph 9 are to be disposed of in accordance with this paragraph.
+**10.**[^c-43ae654ee7d1edea91b88a72cebf9c44] (1) Appeals to the Tribunal under paragraph 9 are to be disposed of in accordance with this paragraph.
 
 (2) The Tribunal shall decide the appeal on the merits and by reference to the grounds of appeal set out in the notice of appeal.
 
@@ -242,7 +242,7 @@ unless they consider that the arrangements, or the arrangements as proposed to b
 
 ### Appeals against decisions of the Tribunal
 
-**11.**[^key-6da99f4fda6abb348d47b08e6b037f61] (1) A decision of the Tribunal on an appeal under paragraph 9 may itself be appealed.
+**11.**[^c-6da99f4fda6abb348d47b08e6b037f61] (1) A decision of the Tribunal on an appeal under paragraph 9 may itself be appealed.
 
 (2) An appeal under this paragraph—
 
@@ -257,7 +257,7 @@ unless they consider that the arrangements, or the arrangements as proposed to b
 
 ### Information for OFCOM
 
-**12.**[^key-cebb67ba454f7be081b147415557a2ed] (1) OFCOM may by notice require a person—
+**12.**[^c-cebb67ba454f7be081b147415557a2ed] (1) OFCOM may by notice require a person—
 
 - (a) to produce to them such documents specified or described in the notice, or
 - (b) to furnish them with such other information so specified or described,
@@ -275,7 +275,7 @@ as they consider necessary in order to determine for the purposes of section 293
 
 ### Enforcement of information provisions
 
-**13.**[^key-2c880727094540c247a94969ada4cdef] (1) The court may, on an application by OFCOM, enquire into whether any person (“**the defaulter**”) has refused or otherwise failed, without reasonable excuse, to comply with a requirement contained in a notice under paragraph 12.
+**13.**[^c-2c880727094540c247a94969ada4cdef] (1) The court may, on an application by OFCOM, enquire into whether any person (“**the defaulter**”) has refused or otherwise failed, without reasonable excuse, to comply with a requirement contained in a notice under paragraph 12.
 
 (2) An application under sub-paragraph (1) shall include details of the possible failure which OFCOM consider has occurred.
 
@@ -319,7 +319,7 @@ as they consider necessary in order to determine for the purposes of section 293
 
 ### Confidentiality and defamation
 
-**14.**[^key-f1ca339ad4c5c3f98c34e5ce1414a7e0] (1) When publishing a report prepared under paragraph 4 or 5, OFCOM must have regard to the need to exclude from the publication, so far as practicable, the matters which are confidential in accordance with sub-paragraphs (2) and (3).
+**14.**[^c-f1ca339ad4c5c3f98c34e5ce1414a7e0] (1) When publishing a report prepared under paragraph 4 or 5, OFCOM must have regard to the need to exclude from the publication, so far as practicable, the matters which are confidential in accordance with sub-paragraphs (2) and (3).
 
 (2) A matter is confidential under this sub-paragraph if—
 
@@ -335,7 +335,7 @@ as they consider necessary in order to determine for the purposes of section 293
 
 ### Interpretation of Schedule
 
-**15.**[^key-09e25783373f69da85573a1857f1e393] In this Schedule—
+**15.**[^c-09e25783373f69da85573a1857f1e393] In this Schedule—
 
 - “**competition test**” is to be construed in accordance with paragraph 6;
 - “**the Tribunal**” means the Competition Appeal Tribunal; and
@@ -343,46 +343,46 @@ as they consider necessary in order to determine for the purposes of section 293
 
 ## Annotations
 
-[^key-7c30344f3ad05f0b07fb262f072bce49]: Commencement: Sch. 11 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7c30344f3ad05f0b07fb262f072bce49]: Commencement: Sch. 11 para. 1 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-27dca27c4f6787c5a918bb89120bb975]: Commencement: Sch. 11 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-27dca27c4f6787c5a918bb89120bb975]: Commencement: Sch. 11 para. 2 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b2ac78d7324905aeea15e03ab3a0eee8]: Commencement: Sch. 11 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b2ac78d7324905aeea15e03ab3a0eee8]: Commencement: Sch. 11 para. 3 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-bd6870794cb792af9a7f4f0dc00ccb51]: Commencement: Sch. 11 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bd6870794cb792af9a7f4f0dc00ccb51]: Commencement: Sch. 11 para. 4 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2ede47e17e02ee00a9d7df7f2c7c3f7e]: Textual amendment: Words in Sch. 11 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 165](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/165) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-2ede47e17e02ee00a9d7df7f2c7c3f7e]: Textual amendment: Words in Sch. 11 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 165](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/165) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
 
-[^key-69fdd01de38f2ad927e07c233e147852]: Commencement: Sch. 11 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-69fdd01de38f2ad927e07c233e147852]: Commencement: Sch. 11 para. 5 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-26a919dffefe31cd3e308704f5eb65ad]: Commencement: Sch. 11 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-26a919dffefe31cd3e308704f5eb65ad]: Commencement: Sch. 11 para. 6 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d2e98b94cb80322ad0cc481b4728fb3d]: Textual amendment: Words in Sch. 11 para. 6(6) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d2e98b94cb80322ad0cc481b4728fb3d]: Textual amendment: Words in Sch. 11 para. 6(6) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(4)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eaad44725ec6e3e2c40de1e1e4652a91]: Textual amendment: Words in Sch. 11 para. 6(7)(a) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-eaad44725ec6e3e2c40de1e1e4652a91]: Textual amendment: Words in Sch. 11 para. 6(7)(a) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
 
-[^key-ea567fdc4823572997de5bbf38985453]: Textual amendment: Words in Sch. 11 para. 6(7)(a) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(5)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/5/a) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea567fdc4823572997de5bbf38985453]: Textual amendment: Words in Sch. 11 para. 6(7)(a) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(5)(a)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/5/a) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df3b66a622966c2636ad4cf045fcdc86]: Textual amendment: Words in Sch. 11 para. 6(7)(a) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(5)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/5/b) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df3b66a622966c2636ad4cf045fcdc86]: Textual amendment: Words in Sch. 11 para. 6(7)(a) substituted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(5)(b)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/5/b) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a980dd819ca02fea76fae552701e275]: Textual amendment: Sch. 11 para. 6(7A) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/6) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1a980dd819ca02fea76fae552701e275]: Textual amendment: Sch. 11 para. 6(7A) inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(6)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/6) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(4)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c5a3c68a199c5f58f4ec953a40c804e4]: Textual amendment: Sch. 11 para. 6A inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(7)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/7) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c5a3c68a199c5f58f4ec953a40c804e4]: Textual amendment: Sch. 11 para. 6A inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 1 para. 11(7)](https://www.legislation.gov.uk/uksi/2019/93/schedule/1/paragraph/11/7) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/23/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5af3580bb2c834aa4e3c9ee55458eacb]: Commencement: Sch. 11 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5af3580bb2c834aa4e3c9ee55458eacb]: Commencement: Sch. 11 para. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-72464d00ea5324c1ac16cd960d312581]: Commencement: Sch. 11 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-72464d00ea5324c1ac16cd960d312581]: Commencement: Sch. 11 para. 8 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7070d829daaa56fa8e8dd60827596dd6]: Commencement: Sch. 11 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7070d829daaa56fa8e8dd60827596dd6]: Commencement: Sch. 11 para. 9 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-43ae654ee7d1edea91b88a72cebf9c44]: Commencement: Sch. 11 para. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-43ae654ee7d1edea91b88a72cebf9c44]: Commencement: Sch. 11 para. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-6da99f4fda6abb348d47b08e6b037f61]: Commencement: Sch. 11 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-6da99f4fda6abb348d47b08e6b037f61]: Commencement: Sch. 11 para. 11 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-cebb67ba454f7be081b147415557a2ed]: Commencement: Sch. 11 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-cebb67ba454f7be081b147415557a2ed]: Commencement: Sch. 11 para. 12 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-2c880727094540c247a94969ada4cdef]: Commencement: Sch. 11 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-2c880727094540c247a94969ada4cdef]: Commencement: Sch. 11 para. 13 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-f1ca339ad4c5c3f98c34e5ce1414a7e0]: Commencement: Sch. 11 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-f1ca339ad4c5c3f98c34e5ce1414a7e0]: Commencement: Sch. 11 para. 14 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-09e25783373f69da85573a1857f1e393]: Commencement: Sch. 11 para. 15 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-09e25783373f69da85573a1857f1e393]: Commencement: Sch. 11 para. 15 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

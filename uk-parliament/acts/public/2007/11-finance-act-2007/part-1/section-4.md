@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Rates and rate bands for 2010-11[^key-9997310dc33abea1a22f7b5af94454c8]
+## 4. Rates and rate bands for 2010-11[^c-9997310dc33abea1a22f7b5af94454c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9997310dc33abea1a22f7b5af94454c8]: Textual amendment: S. 4 omitted (8.4.2010) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/8/2/b)
+[^c-9997310dc33abea1a22f7b5af94454c8]: Textual amendment: S. 4 omitted (8.4.2010) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2010/13/section/8/2/b)

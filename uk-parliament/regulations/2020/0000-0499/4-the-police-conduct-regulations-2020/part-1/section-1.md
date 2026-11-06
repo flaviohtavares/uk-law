@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-7dc0e41f092a68e1b41f31bcf259349b]
+## 1. Citation and commencement[^c-7dc0e41f092a68e1b41f31bcf259349b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Police (Conduct) Regulations 2020 and come
 
 ## Annotations
 
-[^key-7dc0e41f092a68e1b41f31bcf259349b]: Commencement: Reg. 1 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-7dc0e41f092a68e1b41f31bcf259349b]: Commencement: Reg. 1 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

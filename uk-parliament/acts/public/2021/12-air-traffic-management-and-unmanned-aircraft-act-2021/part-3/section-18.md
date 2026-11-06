@@ -25,9 +25,9 @@ In this Part—
 - “**ANO 2016**” means the Air Navigation Order 2016;
 - “**subordinate legislation**” means any instrument made or to be made—
   - (a) under an Act of Parliament, or
-  - (b) on or after IP completion day under any assimilated direct[^key-a00633d7bcd2a738c1993875d67b9d5b] legislation;
+  - (b) on or after IP completion day under any assimilated direct[^c-a00633d7bcd2a738c1993875d67b9d5b] legislation;
 - “**unmanned aircraft**” means any aircraft operating or designed to operate autonomously or to be piloted remotely without a pilot on board.
 
 ## Annotations
 
-[^key-a00633d7bcd2a738c1993875d67b9d5b]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/2021/12/section/18) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 99](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/99)
+[^c-a00633d7bcd2a738c1993875d67b9d5b]: Textual amendment: Words in [s. 18](https://www.legislation.gov.uk/ukpga/2021/12/section/18) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 99](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/99)

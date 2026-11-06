@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**111.**[^key-72883b48f58f283020b82ab387eef635] In Schedule 2, in paragraph 8A(2)[^f00136] (provision for accommodated children) after “under section 85 or 86” insert “or under section 120 of the Social Services and Well-being (Wales) Act 2014 (assessment of children accommodated by health authorities and education authorities)”.
+**111.**[^c-72883b48f58f283020b82ab387eef635] In Schedule 2, in paragraph 8A(2)[^f00136] (provision for accommodated children) after “under section 85 or 86” insert “or under section 120 of the Social Services and Well-being (Wales) Act 2014 (assessment of children accommodated by health authorities and education authorities)”.
 
 ## Annotations
 
-[^key-72883b48f58f283020b82ab387eef635]: Commencement: Reg. 111 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-72883b48f58f283020b82ab387eef635]: Commencement: Reg. 111 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00136]: Footnote: Paragraph 8A was inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 19.

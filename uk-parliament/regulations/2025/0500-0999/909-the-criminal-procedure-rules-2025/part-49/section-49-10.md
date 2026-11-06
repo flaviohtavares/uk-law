@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.10. Overseas freezing orders[^key-3df9dc176fc48ef579e7fc75984b1942]
+## 49.10. Overseas freezing orders[^c-3df9dc176fc48ef579e7fc75984b1942]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3df9dc176fc48ef579e7fc75984b1942]: Commencement: [Rule 49.10](https://www.legislation.gov.uk/uksi/2025/909/rule/49.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-3df9dc176fc48ef579e7fc75984b1942]: Commencement: [Rule 49.10](https://www.legislation.gov.uk/uksi/2025/909/rule/49.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01326]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32).

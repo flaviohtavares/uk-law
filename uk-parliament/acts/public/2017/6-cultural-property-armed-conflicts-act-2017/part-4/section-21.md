@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Compensation[^key-e6305b902f4ea730f212ac6db130eb8d]
+## 21. Compensation[^c-e6305b902f4ea730f212ac6db130eb8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6305b902f4ea730f212ac6db130eb8d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/6/section/21) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-e6305b902f4ea730f212ac6db130eb8d]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/6/section/21) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

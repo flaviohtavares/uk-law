@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.104. Appointment by Secretary of State[^key-fc27e6bdac667b5865f059df6cb33066]
+## 4.104. Appointment by Secretary of State[^c-fc27e6bdac667b5865f059df6cb33066]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc27e6bdac667b5865f059df6cb33066]: Commencement: [Rule 4.104](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.104) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fc27e6bdac667b5865f059df6cb33066]: Commencement: [Rule 4.104](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.104) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 559. Persons to whom information may be supplied[^key-0763c0633aa272804b73e48df48cafc3]
+## 559. Persons to whom information may be supplied[^c-0763c0633aa272804b73e48df48cafc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In paragraph (2) of regulation 3 of the Firemen’s Pensions (Provision of Infor
 
 ## Annotations
 
-[^key-0763c0633aa272804b73e48df48cafc3]: Commencement: Art. 559 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-0763c0633aa272804b73e48df48cafc3]: Commencement: Art. 559 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

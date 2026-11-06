@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Insertion of section 99AA of TCGA 1992[^key-42127dff1a85d535bc40356be04708c5]
+## 106. Insertion of section 99AA of TCGA 1992[^c-42127dff1a85d535bc40356be04708c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42127dff1a85d535bc40356be04708c5]: Textual amendment: [Reg. 106](https://www.legislation.gov.uk/uksi/2006/964/regulation/106) omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-42127dff1a85d535bc40356be04708c5]: Textual amendment: [Reg. 106](https://www.legislation.gov.uk/uksi/2006/964/regulation/106) omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(d)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

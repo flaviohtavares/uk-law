@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## Schedule 8 — Measures where influenza virus of avian origin is suspected in kept mammals[^key-29610b2d03caf2294b91cdc0ab154c0e]
+## Schedule 8 — Measures where influenza virus of avian origin is suspected in kept mammals[^c-29610b2d03caf2294b91cdc0ab154c0e]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ The occupier must, in accordance with an inspector’s instructions, provide and
 
 ## Annotations
 
-[^key-29610b2d03caf2294b91cdc0ab154c0e]: Textual amendment: [Schs. 8](https://www.legislation.gov.uk/ssi/2006/336/schedule/8), [9](https://www.legislation.gov.uk/ssi/2006/336/schedule/9) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(12)](https://www.legislation.gov.uk/ssi/2025/108/article/2/12)
+[^c-29610b2d03caf2294b91cdc0ab154c0e]: Textual amendment: [Schs. 8](https://www.legislation.gov.uk/ssi/2006/336/schedule/8), [9](https://www.legislation.gov.uk/ssi/2006/336/schedule/9) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(12)](https://www.legislation.gov.uk/ssi/2025/108/article/2/12)

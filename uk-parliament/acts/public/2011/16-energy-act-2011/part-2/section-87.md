@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Powers of OGA to require information[^key-a7e755b248f8a6154ebf588796cf0a94][^key-5702698be3d027f41c9c83595e83cfd0]
+## 87. Powers of OGA to require information[^c-a7e755b248f8a6154ebf588796cf0a94][^c-5702698be3d027f41c9c83595e83cfd0]
 
 *Extent: E+W+S*
 
@@ -40,24 +40,24 @@ summary: ''
 
 (5) The information that may be required under subsection (2) and (3) includes financial information.
 
-(5A)[^key-0281a0ed6f9aadf238d6ef2febfe2622] A notice under subsection (1), (2) or (3) that imposes a requirement on a person must specify when the requirement is to be complied with.
+(5A)[^c-0281a0ed6f9aadf238d6ef2febfe2622] A notice under subsection (1), (2) or (3) that imposes a requirement on a person must specify when the requirement is to be complied with.
 
 (6) The OGA may not disclose any information obtained under this section unless—
 
-- (a) the person by or on behalf of whom the information was provided consents to the disclosure, [^key-ec821b8daefeddfb6ad4cdac3fde0c85]...
-- (b) the disclosure is required by virtue of an obligation imposed on the OGA by or under an enactment or[^key-663adf8db624b8a1b7b4d3eb6f5e3f42]
+- (a) the person by or on behalf of whom the information was provided consents to the disclosure, [^c-ec821b8daefeddfb6ad4cdac3fde0c85]...
+- (b) the disclosure is required by virtue of an obligation imposed on the OGA by or under an enactment or[^c-663adf8db624b8a1b7b4d3eb6f5e3f42]
 - (c) the disclosure is made under section 89A or 89B.
 
 (7) In this section “**specified**” means specified in a notice under subsection (2) or (3).
 
 ## Annotations
 
-[^key-a7e755b248f8a6154ebf588796cf0a94]: Commencement: S. 87 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-a7e755b248f8a6154ebf588796cf0a94]: Commencement: S. 87 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-5702698be3d027f41c9c83595e83cfd0]: Textual amendment: Words in s. 87 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 69](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/69); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-5702698be3d027f41c9c83595e83cfd0]: Textual amendment: Words in s. 87 substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 69](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/69); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-0281a0ed6f9aadf238d6ef2febfe2622]: Textual amendment: S. 87(5A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/70/2), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-0281a0ed6f9aadf238d6ef2febfe2622]: Textual amendment: S. 87(5A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2016/20/section/70/2), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-ec821b8daefeddfb6ad4cdac3fde0c85]: Textual amendment: Word in s. 87(6)(a) omitted (1.10.2016) by virtue of [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/3/a), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-ec821b8daefeddfb6ad4cdac3fde0c85]: Textual amendment: Word in s. 87(6)(a) omitted (1.10.2016) by virtue of [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(3)(a)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/3/a), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-663adf8db624b8a1b7b4d3eb6f5e3f42]: Textual amendment: S. 87(6)(c) and preceding word inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/3/b), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-663adf8db624b8a1b7b4d3eb6f5e3f42]: Textual amendment: S. 87(6)(c) and preceding word inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 71(3)(b)](https://www.legislation.gov.uk/ukpga/2016/20/section/71/3/b), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

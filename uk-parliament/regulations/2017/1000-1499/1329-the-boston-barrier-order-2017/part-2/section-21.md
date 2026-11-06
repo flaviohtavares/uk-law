@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Protective works[^key-44362208af6ccc4b528bf28284749d1d]
+## 21. Protective works[^c-44362208af6ccc4b528bf28284749d1d]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ the Agency must compensate the owners and occupiers of the building for any dama
 
 ## Annotations
 
-[^key-44362208af6ccc4b528bf28284749d1d]: Commencement: Art. 21 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-44362208af6ccc4b528bf28284749d1d]: Commencement: Art. 21 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

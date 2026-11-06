@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (revoked)[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+The Health Protection (Coronavirus) (Requirements) (Scotland) Regulations 2021 (revoked)[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 Approved by the Scottish Parliament
 
@@ -48,152 +48,152 @@ Coming into force
 
 9th August 2021
 
-[^key-187ce5b0b36f8520a2b174a45e61e9d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-187ce5b0b36f8520a2b174a45e61e9d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+## PART 1 — Introductory[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
-### 1. Citation, commencement and application[^key-187ce5b0b36f8520a2b174a45e61e9d7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 1. Citation, commencement and application[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Requirements[^key-187ce5b0b36f8520a2b174a45e61e9d7]
-
-### 3. Requirement to collect and share information: restaurants, cafes, bars, public houses etc.[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 2. Interpretation[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Guidance on minimising exposure to and requirement to take measures to minimise incidence and spread of coronavirus[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+## PART 2 — Requirements[^c-187ce5b0b36f8520a2b174a45e61e9d7]
+
+### 3. Requirement to collect and share information: restaurants, cafes, bars, public houses etc.[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4A. Requirements to take measures to ensure the required distance is maintained[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 4. Guidance on minimising exposure to and requirement to take measures to minimise incidence and spread of coronavirus[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4B. Requirement for seated food and drink consumption[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 4A. Requirements to take measures to ensure the required distance is maintained[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4C. Requirement to close nightclubs etc. to members of the public[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 4B. Requirement for seated food and drink consumption[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4D. Nightclubs etc. – supplemental provision – licensing[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 4C. Requirement to close nightclubs etc. to members of the public[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Requirement to wear face covering in certain indoor places[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 4D. Nightclubs etc. – supplemental provision – licensing[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Places where face coverings must be worn in accordance with regulation 5[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 5. Requirement to wear face covering in certain indoor places[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Requirement to wear face coverings on public transport[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 6. Places where face coverings must be worn in accordance with regulation 5[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7A. Requirement to ensure that persons are fully vaccinated, have received appropriate test results, or are otherwise exempt, when in certain places[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7. Requirement to wear face coverings on public transport[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7B. Requirement to treat information as confidential[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7A. Requirement to ensure that persons are fully vaccinated, have received appropriate test results, or are otherwise exempt, when in certain places[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7C. Requirement to have a compliance plan[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7B. Requirement to treat information as confidential[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7D. Supplemental provision – licensing[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7C. Requirement to have a compliance plan[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7E. Interpretation of regulations 7A to 7D[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7D. Supplemental provision – licensing[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2A — Live events[^key-187ce5b0b36f8520a2b174a45e61e9d7]
-
-### 7F. Capacity limits on live events[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7E. Interpretation of regulations 7A to 7D[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Stadia and live events[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+## PART 2A — Live events[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
-### 8. Capacity limits on stadia and live events[^key-187ce5b0b36f8520a2b174a45e61e9d7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Applications for exemption from capacity limits[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 7F. Capacity limits on live events[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Decisions on applications for exemption from capacity limits[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+## PART 3 — Stadia and live events[^c-187ce5b0b36f8520a2b174a45e61e9d7]
+
+### 8. Capacity limits on stadia and live events[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Guidance on applications for exemption from capacity limits[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 9. Applications for exemption from capacity limits[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Revocation and variation of approval of exemption from capacity limits[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 10. Decisions on applications for exemption from capacity limits[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Scottish Ministers' power to call in applications for exemption from capacity[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 11. Guidance on applications for exemption from capacity limits[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Offence of breaching conditions of approval to hold larger live event[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 12. Revocation and variation of approval of exemption from capacity limits[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Enforcement[^key-187ce5b0b36f8520a2b174a45e61e9d7]
-
-### 15. Enforcement of requirements[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 13. Scottish Ministers' power to call in applications for exemption from capacity[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Offences and penalties[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 14. Offence of breaching conditions of approval to hold larger live event[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16A. Power of entry[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+## PART 4 — Enforcement[^c-187ce5b0b36f8520a2b174a45e61e9d7]
+
+### 15. Enforcement of requirements[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Fixed penalty notices[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 16. Offences and penalties[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Final provisions[^key-187ce5b0b36f8520a2b174a45e61e9d7]
-
-### 18. Review of requirements[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 16A. Power of entry[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Expiry[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+### 17. Fixed penalty notices[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Revocation[^key-187ce5b0b36f8520a2b174a45e61e9d7]
+## PART 5 — Final provisions[^c-187ce5b0b36f8520a2b174a45e61e9d7]
+
+### 18. Review of requirements[^c-187ce5b0b36f8520a2b174a45e61e9d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-187ce5b0b36f8520a2b174a45e61e9d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 19. Expiry[^c-187ce5b0b36f8520a2b174a45e61e9d7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Revocation[^c-187ce5b0b36f8520a2b174a45e61e9d7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-187ce5b0b36f8520a2b174a45e61e9d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-187ce5b0b36f8520a2b174a45e61e9d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-187ce5b0b36f8520a2b174a45e61e9d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-187ce5b0b36f8520a2b174a45e61e9d7]: Textual amendment: Regulations revoked (18.4.2022) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Revocation (No. 2) Regulations 2022 (S.S.I. 2022/133)](https://www.legislation.gov.uk/ssi/2022/133), [regs. 1](https://www.legislation.gov.uk/ssi/2022/133/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/133/regulation/2)
+[^c-187ce5b0b36f8520a2b174a45e61e9d7]: Textual amendment: Regulations revoked (18.4.2022) by [The Health Protection (Coronavirus) (Requirements) (Scotland) Revocation (No. 2) Regulations 2022 (S.S.I. 2022/133)](https://www.legislation.gov.uk/ssi/2022/133), [regs. 1](https://www.legislation.gov.uk/ssi/2022/133/regulation/1), [2](https://www.legislation.gov.uk/ssi/2022/133/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Notification and advertisement of postal administrator’s appointment[^key-8fa0904a0a9b292e4cb8677b4f7c79b5]
+## 14. Notification and advertisement of postal administrator’s appointment[^c-8fa0904a0a9b292e4cb8677b4f7c79b5]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fa0904a0a9b292e4cb8677b4f7c79b5]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2013/3208/rule/14) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8fa0904a0a9b292e4cb8677b4f7c79b5]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2013/3208/rule/14) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

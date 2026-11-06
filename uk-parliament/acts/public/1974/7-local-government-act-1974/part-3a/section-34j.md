@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34J. Publication of statements etc. by Local Commissioner[^key-3be642587f35d5597f082e2a19a13cd9]
+## 34J. Publication of statements etc. by Local Commissioner[^c-3be642587f35d5597f082e2a19a13cd9]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ if, after taking into account the public interest as well as the interests of th
 
 ## Annotations
 
-[^key-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)

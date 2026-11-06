@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Amendment of the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995[^key-9e97a86efb67409a57ff97daad55e862]
+## 51. Amendment of the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995[^c-9e97a86efb67409a57ff97daad55e862]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9e97a86efb67409a57ff97daad55e862]: Commencement: Reg. 51 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-9e97a86efb67409a57ff97daad55e862]: Commencement: Reg. 51 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00037]: Footnote: [S.R. 1995 No. 415](https://www.legislation.gov.uk/nisr/1995/415).
 

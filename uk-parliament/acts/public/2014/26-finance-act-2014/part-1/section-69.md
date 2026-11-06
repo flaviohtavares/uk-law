@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Extended ring fence expenditure supplement for onshore activities[^key-769d172346a1d5261583a856886e8688]
+## 69. Extended ring fence expenditure supplement for onshore activities[^c-769d172346a1d5261583a856886e8688]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-769d172346a1d5261583a856886e8688]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/2014/26/section/69) repealed (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/13/2)
+[^c-769d172346a1d5261583a856886e8688]: Textual amendment: [S. 69](https://www.legislation.gov.uk/ukpga/2014/26/section/69) repealed (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 13(2)](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/13/2)

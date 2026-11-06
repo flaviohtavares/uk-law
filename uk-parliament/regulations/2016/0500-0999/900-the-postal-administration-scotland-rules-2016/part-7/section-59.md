@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Moving from postal administration to dissolution[^key-72e8cc9c3e6c1dfc802cf4ff0edc783e]
+## 59. Moving from postal administration to dissolution[^c-72e8cc9c3e6c1dfc802cf4ff0edc783e]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72e8cc9c3e6c1dfc802cf4ff0edc783e]: Commencement: Rule 59 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-72e8cc9c3e6c1dfc802cf4ff0edc783e]: Commencement: Rule 59 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

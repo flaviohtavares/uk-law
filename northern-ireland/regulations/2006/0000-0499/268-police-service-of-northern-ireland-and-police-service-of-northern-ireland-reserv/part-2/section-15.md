@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Termination of adult survivor’s award on remarriage or other event[^key-57a8e744621c3093719b28952661be83]
+## 15. Termination of adult survivor’s award on remarriage or other event[^c-57a8e744621c3093719b28952661be83]
 
 *Extent: N.I.*
 
@@ -78,4 +78,4 @@ so much of the gratuity as has not been paid before her remarriage or the format
 
 ## Annotations
 
-[^key-57a8e744621c3093719b28952661be83]: Commencement: Reg. 15 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-57a8e744621c3093719b28952661be83]: Commencement: Reg. 15 in operation at 25.7.2006 with effect in accordance with reg. 1

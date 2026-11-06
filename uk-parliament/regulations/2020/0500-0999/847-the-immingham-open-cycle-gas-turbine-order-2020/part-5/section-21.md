@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compulsory acquisition of rights etc.[^key-f17add0889112edcc7d485cfb59a2fea]
+## 21. Compulsory acquisition of rights etc.[^c-f17add0889112edcc7d485cfb59a2fea]
 
 *Extent: E+W*
 
@@ -24,9 +24,9 @@ summary: ''
 
 (2) In respect of such parts of the Order land that are shown edged red and shaded blue on the land plans, the undertaker may acquire compulsorily the existing rights over land and create and acquire compulsorily the new class of rights and impose the restrictions as described in Table 6 of Schedule 6 (land in which only new rights etc. may be acquired).
 
-(3) Subject to section 8 (provisions as to divided land) and Schedule 2A (counter-notice requiring purchase of land) of the 1965 Act (as substituted by paragraph 5(8) of Schedule 7 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants)[^key-4a5258cd0b06afbd41e110c2933c6f51], where the undertaker creates or acquires a right over land or imposes a restrictive covenant under paragraph (1) or (2), the undertaker is not to be required to acquire a greater interest in that land.
+(3) Subject to section 8 (provisions as to divided land) and Schedule 2A (counter-notice requiring purchase of land) of the 1965 Act (as substituted by paragraph 5(8) of Schedule 7 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants)[^c-4a5258cd0b06afbd41e110c2933c6f51], where the undertaker creates or acquires a right over land or imposes a restrictive covenant under paragraph (1) or (2), the undertaker is not to be required to acquire a greater interest in that land.
 
-(4) Schedule 7 (modification of compensation and compulsory purchase enactments for creation of new rights and imposition of new restrictive covenants)[^key-6fab60c762fb73882c5d0971282128b4] has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right or the imposition of a restrictive covenant .
+(4) Schedule 7 (modification of compensation and compulsory purchase enactments for creation of new rights and imposition of new restrictive covenants)[^c-6fab60c762fb73882c5d0971282128b4] has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right or the imposition of a restrictive covenant .
 
 (5) In any case where the acquisition of new rights or imposition of a restriction under paragraph (1) or (2) is required for the purpose of diverting, replacing or protecting apparatus of a statutory undertaker, the undertaker may, with the consent of the Secretary of State, transfer the power to acquire such rights to the statutory undertaker in question.
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f17add0889112edcc7d485cfb59a2fea]: Commencement: Art. 21 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
+[^c-f17add0889112edcc7d485cfb59a2fea]: Commencement: Art. 21 in force at 1.9.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/847/article/1)
 
-[^key-4a5258cd0b06afbd41e110c2933c6f51]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2020/847/article/21/3) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-4a5258cd0b06afbd41e110c2933c6f51]: Textual amendment: Words in [art. 21(3)](https://www.legislation.gov.uk/uksi/2020/847/article/21/3) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
 
-[^key-6fab60c762fb73882c5d0971282128b4]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2020/847/article/21/4) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)
+[^c-6fab60c762fb73882c5d0971282128b4]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2020/847/article/21/4) substituted (17.5.2021) by [The Immingham Open Cycle Gas Turbine (Correction) Order 2021 (S.I. 2021/581)](https://www.legislation.gov.uk/uksi/2021/581), [art. 1](https://www.legislation.gov.uk/uksi/2021/581/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/581/schedule)

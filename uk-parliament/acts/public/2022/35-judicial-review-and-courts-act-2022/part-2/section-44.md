@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Provision of information to registrar when investigation discontinued[^key-55c6f6f2921150693cd4d112c05f56f7][^key-528715c3698ea8c418f3a2d5ae954756]
+## 44. Provision of information to registrar when investigation discontinued[^c-55c6f6f2921150693cd4d112c05f56f7][^c-528715c3698ea8c418f3a2d5ae954756]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ In section 23 of the Births and Deaths Registration Act 1953 (furnishing of info
 
 ## Annotations
 
-[^key-55c6f6f2921150693cd4d112c05f56f7]: Commencement: S. 44 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-55c6f6f2921150693cd4d112c05f56f7]: Commencement: S. 44 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-528715c3698ea8c418f3a2d5ae954756]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/35/section/44) in force at 16.4.2024 by [S.I. 2024/518](https://www.legislation.gov.uk/uksi/2024/518), [reg. 2](https://www.legislation.gov.uk/uksi/2024/518/regulation/2)
+[^c-528715c3698ea8c418f3a2d5ae954756]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/35/section/44) in force at 16.4.2024 by [S.I. 2024/518](https://www.legislation.gov.uk/uksi/2024/518), [reg. 2](https://www.legislation.gov.uk/uksi/2024/518/regulation/2)

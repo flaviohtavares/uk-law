@@ -22,14 +22,14 @@ summary: ''
 
 Regulation 45
 
-[^key-76a90d069428a780c32478bcfc12ca3d]...
+[^c-76a90d069428a780c32478bcfc12ca3d]...
 
 |  |  |  |
 | --- | --- | --- |
-| [^key-76a90d069428a780c32478bcfc12ca3d]. . . | [^key-76a90d069428a780c32478bcfc12ca3d]. . . | [^key-76a90d069428a780c32478bcfc12ca3d]. . . |
-| [^key-76a90d069428a780c32478bcfc12ca3d]. . . | [^key-76a90d069428a780c32478bcfc12ca3d]. . . | [^key-76a90d069428a780c32478bcfc12ca3d]. . . |
+| [^c-76a90d069428a780c32478bcfc12ca3d]. . . | [^c-76a90d069428a780c32478bcfc12ca3d]. . . | [^c-76a90d069428a780c32478bcfc12ca3d]. . . |
+| [^c-76a90d069428a780c32478bcfc12ca3d]. . . | [^c-76a90d069428a780c32478bcfc12ca3d]. . . | [^c-76a90d069428a780c32478bcfc12ca3d]. . . |
 
-Table B[^key-f229947c3e02961fea1d0aac74fb766f]
+Table B[^c-f229947c3e02961fea1d0aac74fb766f]
 
 <table>
 <thead>
@@ -51,6 +51,6 @@ Table B[^key-f229947c3e02961fea1d0aac74fb766f]
 
 ## Annotations
 
-[^key-76a90d069428a780c32478bcfc12ca3d]: Textual amendment: Sch. 9 Table A omitted (29.12.2014) by virtue of [The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190)](https://www.legislation.gov.uk/uksi/2014/3190), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3190/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2014/3190/regulation/9/a)
+[^c-76a90d069428a780c32478bcfc12ca3d]: Textual amendment: Sch. 9 Table A omitted (29.12.2014) by virtue of [The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190)](https://www.legislation.gov.uk/uksi/2014/3190), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3190/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2014/3190/regulation/9/a)
 
-[^key-f229947c3e02961fea1d0aac74fb766f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/1999/2864/schedule/9) Table B substituted (1.3.2022) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2022 (S.I. 2022/110)](https://www.legislation.gov.uk/uksi/2022/110), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/110/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/110/schedule)
+[^c-f229947c3e02961fea1d0aac74fb766f]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/uksi/1999/2864/schedule/9) Table B substituted (1.3.2022) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2022 (S.I. 2022/110)](https://www.legislation.gov.uk/uksi/2022/110), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/110/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/110/schedule)

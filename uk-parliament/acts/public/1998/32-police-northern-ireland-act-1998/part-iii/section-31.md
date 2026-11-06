@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Property coming into the possession of the police.[^key-87d3d1851d0164feae9bb504a0559690][^key-42a483704b5c1f479995c09d7478745f][^key-4d6a70895d3cde394f23676a88bdf3b7]
+## 31. Property coming into the possession of the police.[^c-87d3d1851d0164feae9bb504a0559690][^c-42a483704b5c1f479995c09d7478745f][^c-4d6a70895d3cde394f23676a88bdf3b7]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) An order under subsection (1) does not affect the right of any person to take, within 6 months from the date of the order, legal proceedings against any person in possession of property delivered by virtue of the order for the recovery of the property; but, on the expiration of that period, the right shall cease.
 
-(4) The Department of Justice[^key-e227317b13e81d2d3acd3d16638d01ab] may make regulations for the disposal of property which has come into the possession of the police (whether as mentioned in subsection (1) or otherwise), in cases where—
+(4) The Department of Justice[^c-e227317b13e81d2d3acd3d16638d01ab] may make regulations for the disposal of property which has come into the possession of the police (whether as mentioned in subsection (1) or otherwise), in cases where—
 
 - (a) the owner of the property has not been ascertained; and
 - (b) no order of a competent court has been made with respect to the property.
@@ -74,13 +74,13 @@ but the proceeds of sale shall not be disposed of unless they have remained in t
 
 ## Annotations
 
-[^key-87d3d1851d0164feae9bb504a0559690]: Modification: S. 31 excluded (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 28(7)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/28/7/b), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
+[^c-87d3d1851d0164feae9bb504a0559690]: Modification: S. 31 excluded (13.4.2006) by [Terrorism Act 2006 (c. 11)](https://www.legislation.gov.uk/ukpga/2006/11), [ss. 28(7)(b)](https://www.legislation.gov.uk/ukpga/2006/11/section/28/7/b), [39(2)](https://www.legislation.gov.uk/ukpga/2006/11/section/39/2); [S.I. 2006/1013](https://www.legislation.gov.uk/uksi/2006/1013), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2006/1013/article/2/2/b)
 
-[^key-42a483704b5c1f479995c09d7478745f]: Modification: S. 31 excluded by SI 1978/1047 (N.I. 17) Sch. para. 2(2) (as inserted (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/12); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a))
+[^c-42a483704b5c1f479995c09d7478745f]: Modification: S. 31 excluded by SI 1978/1047 (N.I. 17) Sch. para. 2(2) (as inserted (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/12); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a))
 
-[^key-4d6a70895d3cde394f23676a88bdf3b7]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/1998/32/section/31) excluded (12.12.2017) by [Cultural Property (Armed Conflicts) Act 2017 (c. 6)](https://www.legislation.gov.uk/ukpga/2017/6), [ss. 24(6)(b)](https://www.legislation.gov.uk/ukpga/2017/6/section/24/6/b), [32(2)](https://www.legislation.gov.uk/ukpga/2017/6/section/32/2) (with [s. 30](https://www.legislation.gov.uk/ukpga/2017/6/section/30)); [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-4d6a70895d3cde394f23676a88bdf3b7]: Modification: [S. 31](https://www.legislation.gov.uk/ukpga/1998/32/section/31) excluded (12.12.2017) by [Cultural Property (Armed Conflicts) Act 2017 (c. 6)](https://www.legislation.gov.uk/ukpga/2017/6), [ss. 24(6)(b)](https://www.legislation.gov.uk/ukpga/2017/6/section/24/6/b), [32(2)](https://www.legislation.gov.uk/ukpga/2017/6/section/32/2) (with [s. 30](https://www.legislation.gov.uk/ukpga/2017/6/section/30)); [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
 
-[^key-e227317b13e81d2d3acd3d16638d01ab]: Textual amendment: Words in s. 31(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/14) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-e227317b13e81d2d3acd3d16638d01ab]: Textual amendment: Words in s. 31(4) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/14) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c1371813]: Textual amendment: Words in s. 31 substituted (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(1)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/1), [Sch. 6 para. 23(2)(a)(g)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/23/2/a/g); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2](https://www.legislation.gov.uk/nisr/2001/396/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2001/396/schedule)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13.[^key-69273646229bc79222f69c4cbf9a5953]
+## 13.[^c-69273646229bc79222f69c4cbf9a5953]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,20 +27,20 @@ In Article 2, in paragraph 2, after point (d), insert—
 >   - (i) in relation to England, the Secretary of State;
 >   - (ii) in relation to Wales, the Welsh Ministers;
 >   - (iii) in relation to Scotland, the Scottish Ministers;
->   - (iv)[^key-332c01a569c6ae1e695f5916863a0b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>   - (iv)[^c-332c01a569c6ae1e695f5916863a0b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 > - (g) “**Food Safety Authority**” means—
->   - (i) as regards England and Wales[^key-8a92d0fe46dea822abd00f31e2648867], the Food Standards Agency;
+>   - (i) as regards England and Wales[^c-8a92d0fe46dea822abd00f31e2648867], the Food Standards Agency;
 >   - (ii) as regards Scotland, Food Standards Scotland;
-> - (h)[^key-238aed31dd079e433d285d87eb4d4c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (h)[^c-238aed31dd079e433d285d87eb4d4c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
 ## Annotations
 
-[^key-69273646229bc79222f69c4cbf9a5953]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-69273646229bc79222f69c4cbf9a5953]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-332c01a569c6ae1e695f5916863a0b34]: Textual amendment: Words in reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/3/a)
+[^c-332c01a569c6ae1e695f5916863a0b34]: Textual amendment: Words in reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(3)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/3/a)
 
-[^key-8a92d0fe46dea822abd00f31e2648867]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/3/b)
+[^c-8a92d0fe46dea822abd00f31e2648867]: Textual amendment: Words in reg. 13 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(3)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/3/b)
 
-[^key-238aed31dd079e433d285d87eb4d4c8c]: Textual amendment: Words in reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(3)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/3/c)
+[^c-238aed31dd079e433d285d87eb4d4c8c]: Textual amendment: Words in reg. 13 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(3)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/3/c)

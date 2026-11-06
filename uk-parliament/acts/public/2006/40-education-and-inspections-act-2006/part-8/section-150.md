@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Evidence of authority[^key-6061458d8a0a17da5518cac13b2878d3]
+## 150. Evidence of authority[^c-6061458d8a0a17da5518cac13b2878d3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6061458d8a0a17da5518cac13b2878d3]: Commencement: S. 150 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-6061458d8a0a17da5518cac13b2878d3]: Commencement: S. 150 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

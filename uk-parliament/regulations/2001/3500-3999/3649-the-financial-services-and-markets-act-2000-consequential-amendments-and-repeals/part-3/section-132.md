@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Alteration of rules of appropriate schemes: permitted form of scheme[^key-1c2d83ca7eb246ba7a22adbab412266a]
+## 132. Alteration of rules of appropriate schemes: permitted form of scheme[^c-1c2d83ca7eb246ba7a22adbab412266a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2d83ca7eb246ba7a22adbab412266a]: Commencement: Art. 132 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1c2d83ca7eb246ba7a22adbab412266a]: Commencement: Art. 132 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

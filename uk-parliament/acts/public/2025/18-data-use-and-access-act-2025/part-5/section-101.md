@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Penalty notices[^key-3519622e06b6a91519ee47bf7a3db720][^key-a8c103f7e2adefdc84148e0c9c75d77d]
+## 101. Penalty notices[^c-3519622e06b6a91519ee47bf7a3db720][^c-a8c103f7e2adefdc84148e0c9c75d77d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3519622e06b6a91519ee47bf7a3db720]: Commencement: S. 101 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-3519622e06b6a91519ee47bf7a3db720]: Commencement: S. 101 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-a8c103f7e2adefdc84148e0c9c75d77d]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2025/18/section/101) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/t) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/82/regulation/6))
+[^c-a8c103f7e2adefdc84148e0c9c75d77d]: Commencement: [S. 101](https://www.legislation.gov.uk/ukpga/2025/18/section/101) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/t) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/82/regulation/6))

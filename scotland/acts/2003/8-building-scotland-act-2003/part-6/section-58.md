@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Modification of enactments[^key-50ee4302903acb2f0cb9eecd9b0e62c0]
+## 58. Modification of enactments[^c-50ee4302903acb2f0cb9eecd9b0e62c0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 6 makes modifications of enactments in consequence of this Act.
 
 ## Annotations
 
-[^key-50ee4302903acb2f0cb9eecd9b0e62c0]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2003/8/section/58) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-50ee4302903acb2f0cb9eecd9b0e62c0]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2003/8/section/58) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

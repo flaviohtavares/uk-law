@@ -47,7 +47,7 @@ summary: ''
 - (a) a copy of any certificate of fitness or notice of refusal issued by it in respect of a dwelling-house, and
 - (b) such information relating to the dwelling-house and the tenancy thereof as may be prescribed.
 
-(8) The powers conferred on a district council by this Article shall not prejudice or affect its powers under Part III of this Order or Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011[^key-ef9abc2b2de7ec1ed6ff3166f2aac299].
+(8) The powers conferred on a district council by this Article shall not prejudice or affect its powers under Part III of this Order or Part 7 of the Clean Neighbourhoods and Environment Act (Northern Ireland) 2011[^c-ef9abc2b2de7ec1ed6ff3166f2aac299].
 
 ## Annotations
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c22079781]: Textual amendment: Words in art. 36(5)(a) substituted (31.7.2010) by [Housing (Amendment) Act (Northern Ireland) 2010 (c. 9)](https://www.legislation.gov.uk/nia/2010/9), [ss. 16](https://www.legislation.gov.uk/nia/2010/9/section/16), [19(1)](https://www.legislation.gov.uk/nia/2010/9/section/19/1); [S.R. 2010/251](https://www.legislation.gov.uk/nisr/2010/251), [art. 2](https://www.legislation.gov.uk/nisr/2010/251/article/2)
 
-[^key-ef9abc2b2de7ec1ed6ff3166f2aac299]: Textual amendment: Words in [art. 36(8)](https://www.legislation.gov.uk/nisi/2006/1459/article/36/8) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/16); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ef9abc2b2de7ec1ed6ff3166f2aac299]: Textual amendment: Words in [art. 36(8)](https://www.legislation.gov.uk/nisi/2006/1459/article/36/8) substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [s. 78](https://www.legislation.gov.uk/nia/2011/23/section/78), [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2011/23/schedule/3/paragraph/16); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

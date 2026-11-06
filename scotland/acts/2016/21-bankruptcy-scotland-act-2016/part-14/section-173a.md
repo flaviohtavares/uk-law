@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 173A. Effect of protected status on essential supplies[^key-da7fda46128786a5e165b61e24e4eaf9]
+## 173A. Effect of protected status on essential supplies[^c-da7fda46128786a5e165b61e24e4eaf9]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ the contract is treated for the purposes of subsections (1) to (7) as if, immedi
 
 ## Annotations
 
-[^key-da7fda46128786a5e165b61e24e4eaf9]: Textual amendment: [S. 173A](https://www.legislation.gov.uk/asp/2016/21/section/173A) inserted (1.8.2017) by [The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017 (S.S.I. 2017/209)](https://www.legislation.gov.uk/ssi/2017/209), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2017/209/article/1/2), [6](https://www.legislation.gov.uk/ssi/2017/209/article/6)
+[^c-da7fda46128786a5e165b61e24e4eaf9]: Textual amendment: [S. 173A](https://www.legislation.gov.uk/asp/2016/21/section/173A) inserted (1.8.2017) by [The Public Services Reform (Corporate Insolvency and Bankruptcy) (Scotland) Order 2017 (S.S.I. 2017/209)](https://www.legislation.gov.uk/ssi/2017/209), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2017/209/article/1/2), [6](https://www.legislation.gov.uk/ssi/2017/209/article/6)

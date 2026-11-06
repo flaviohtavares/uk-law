@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Reduction of pension in case of default[^key-1ea4698ef53584c63c690c2284bcfdda]
+## 97. Reduction of pension in case of default[^c-1ea4698ef53584c63c690c2284bcfdda]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea4698ef53584c63c690c2284bcfdda]: Commencement: Reg. 97 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1ea4698ef53584c63c690c2284bcfdda]: Commencement: Reg. 97 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00054]: Footnote: See regulation 81(3) for when a full retirement pension comes into payment early on grounds of permanent medical unfitness.

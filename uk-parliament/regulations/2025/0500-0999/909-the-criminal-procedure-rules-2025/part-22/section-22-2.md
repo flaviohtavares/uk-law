@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22.2. Exercise of court’s powers[^key-c4a60b7bddf532629b0975af9d43ba4b]
+## 22.2. Exercise of court’s powers[^c-c4a60b7bddf532629b0975af9d43ba4b]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ The court—
 
 ## Annotations
 
-[^key-c4a60b7bddf532629b0975af9d43ba4b]: Commencement: [Rule 22.2](https://www.legislation.gov.uk/uksi/2025/909/rule/22.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c4a60b7bddf532629b0975af9d43ba4b]: Commencement: [Rule 22.2](https://www.legislation.gov.uk/uksi/2025/909/rule/22.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00491]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 8B was inserted by section 45 of, and Schedule 3 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and amended by paragraph 51 of Schedule 3, and Part 4 of Schedule 37, to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

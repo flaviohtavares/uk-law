@@ -123,19 +123,19 @@ Section 41
 
 (6) The section 1(3) amount is to be taken to have been reduced (but not below nil) by so much of it as matches with the capital payment for the purposes of any subsequent application of this paragraph.
 
-(7) This paragraph is not to be taken as affecting the application of section 87A of TCGA 1992 for any purpose other than for the purposes of this paragraph and paragraph 5[^key-544c8e842f22544bd470af33cb08a98c] (and no section 1(3) amounts or capital payments are to be taken to have been reduced as a result of the application of this paragraph for any other purpose).
+(7) This paragraph is not to be taken as affecting the application of section 87A of TCGA 1992 for any purpose other than for the purposes of this paragraph and paragraph 5[^c-544c8e842f22544bd470af33cb08a98c] (and no section 1(3) amounts or capital payments are to be taken to have been reduced as a result of the application of this paragraph for any other purpose).
 
 (8) For the purposes of this paragraph—
 
 - (a) “**section 1(3) amount**” has the meaning it has in section 87 of TCGA 1992, and
 - (b) section 97 of TCGA 1992 (supplementary provisions) applies as it applies for the purposes of sections 86A to 96 of that Act.
 
-(9) For the purposes of this paragraph, and paragraph 5[^key-8c7dfbc4b972e5671ea104100e876f83], an individual is a qualifying individual in a tax year if the individual—
+(9) For the purposes of this paragraph, and paragraph 5[^c-8c7dfbc4b972e5671ea104100e876f83], an individual is a qualifying individual in a tax year if the individual—
 
 - (a) is UK resident for the purposes of income tax and capital gains tax for that tax year, and
 - (b) was subject to the remittance basis for at least one tax year (being a tax year before the tax year 2025-26).
 
-#### 4. Capital payments made by settlement: offshore income gains cases[^key-b2c7030c15d614327ddf86dccff26e8c]
+#### 4. Capital payments made by settlement: offshore income gains cases[^c-b2c7030c15d614327ddf86dccff26e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -164,7 +164,7 @@ Section 41
 
 (6) The section 1(3) amount in the Schedule 4C pool is to be taken to have been reduced (but not below nil) by so much of it as matches with the capital payment for the purposes of any subsequent application of this paragraph.
 
-(7) This paragraph is not to be taken as affecting the application of section 87A of TCGA 1992 for any purpose other than for the purposes of this paragraph and paragraph 3[^key-53f680365af6ece2c1f0aed8e72e1394] (and no section 1(3) amount in the Schedule 4C pool or capital payments are to be taken to have been reduced as a result of the application of this paragraph for any other purpose).
+(7) This paragraph is not to be taken as affecting the application of section 87A of TCGA 1992 for any purpose other than for the purposes of this paragraph and paragraph 3[^c-53f680365af6ece2c1f0aed8e72e1394] (and no section 1(3) amount in the Schedule 4C pool or capital payments are to be taken to have been reduced as a result of the application of this paragraph for any other purpose).
 
 (8) For the purposes of this paragraph—
 
@@ -196,7 +196,7 @@ Section 41
 - (b) the amount of income does not fall within paragraph 6(1)(c), and
 - (c) the benefit by reference to which that income is treated as arising would, if it were not chargeable to income tax, be an amount of qualifying overseas capital of the individual by virtue of paragraph 3 or 5 (capital payments).
 
-(1A)[^key-a714d4c53e920634821d9d78d9c849cd] For the purposes of applying those paragraphs for the purposes of sub-paragraph (1)(c)—
+(1A)[^c-a714d4c53e920634821d9d78d9c849cd] For the purposes of applying those paragraphs for the purposes of sub-paragraph (1)(c)—
 
 - (a) those paragraphs have effect as if—
   - (i) for sub-paragraph (1)(a) (in each paragraph) there were substituted—
@@ -209,7 +209,7 @@ Section 41
   - (iv) the references in each paragraph, and in section 87A of TCGA 1992 as applied by those paragraphs, to “capital payments” were to benefits falling within sub-paragraph (1)(c) of this paragraph, and
 - (b) those paragraphs are to be applied after they have been applied for the purposes of determining whether any amount of a capital payment is qualifying overseas capital.
 
-(2) The amount is to be treated as an amount of income[^key-5afe54cf97ef5cab8f21e8361e836a74] of qualifying overseas capital of the individual.
+(2) The amount is to be treated as an amount of income[^c-5afe54cf97ef5cab8f21e8361e836a74] of qualifying overseas capital of the individual.
 
 (3) The amount may only be designated in a return for the tax year in which the income was treated as arising to the individual.
 
@@ -219,18 +219,18 @@ Section 41
 
 (2) The designation must—
 
-- (a) set out the total amount designated, [^key-618a6a5886e1287ff91179a230f38778]...
-- (aa)[^key-2431037c5d02401011ed77937389fc55] for each amount designated, whether or not it is designated on the basis it is qualifying overseas capital as a result of a remittance provision, and
-- (b) identify which (if any) of the amounts designated on that basis[^key-988aec55dba20941dfe651e6fc0cdbee] have been remitted in the tax year to which the return relates.
+- (a) set out the total amount designated, [^c-618a6a5886e1287ff91179a230f38778]...
+- (aa)[^c-2431037c5d02401011ed77937389fc55] for each amount designated, whether or not it is designated on the basis it is qualifying overseas capital as a result of a remittance provision, and
+- (b) identify which (if any) of the amounts designated on that basis[^c-988aec55dba20941dfe651e6fc0cdbee] have been remitted in the tax year to which the return relates.
 
-(2A)[^key-65ee73b2b4a1eeb8133aba3eb5d541af] For the purposes of designating an amount of qualifying overseas capital of an individual that—
+(2A)[^c-65ee73b2b4a1eeb8133aba3eb5d541af] For the purposes of designating an amount of qualifying overseas capital of an individual that—
 
 - (a) is qualifying overseas capital as a result of paragraph 2(2) or (5), or
 - (b) is treated as qualifying overseas capital as a result of paragraph 6(1)(b),
 
 the value of that amount is the value of the amount when it first arose to the individual.
 
-(2B)[^key-dc0713a92959e81f684701908e0759aa] In this Part and in Part 2 “**remittance provision**” means paragraph 2(2) or (5) or paragraph 6(1)(b).
+(2B)[^c-dc0713a92959e81f684701908e0759aa] In this Part and in Part 2 “**remittance provision**” means paragraph 2(2) or (5) or paragraph 6(1)(b).
 
 (2C) Where—
 
@@ -251,7 +251,7 @@ it is not to be regarded as designated under that paragraph for the purposes of 
 - (a) income tax, or
 - (b) capital gains tax.
 
-(4A)[^key-d2b98820144550a15e507e0a9ff68cf3] But where—
+(4A)[^c-d2b98820144550a15e507e0a9ff68cf3] But where—
 
 - (a) an amount of relevant foreign tax has been paid, or will be paid, in respect of an amount of qualifying overseas capital (“the related qualifying overseas capital”), and
 - (b) it has been, or will be, paid out of funds other than the related qualifying overseas capital,
@@ -263,7 +263,7 @@ sub-paragraph (3) does not apply to the related qualifying overseas capital to t
 - (a) whether the amount is qualifying overseas capital, or
 - (b) whether, or to what extent, relevant foreign tax is, or was, payable in respect of the amount.
 
-(5A)[^key-7a0c94f10a7604893d15a37e40290eb1] Where the individual considers that an amount designated under sub-paragraph (5) could, if it were qualifying overseas capital, be designated on the basis that it is qualifying overseas capital as a result of a remittance provision, the individual may designate it on that basis.
+(5A)[^c-7a0c94f10a7604893d15a37e40290eb1] Where the individual considers that an amount designated under sub-paragraph (5) could, if it were qualifying overseas capital, be designated on the basis that it is qualifying overseas capital as a result of a remittance provision, the individual may designate it on that basis.
 
 (6) An amount designated—
 
@@ -272,7 +272,7 @@ sub-paragraph (3) does not apply to the related qualifying overseas capital to t
 
 is to be nevertheless treated as designated qualifying overseas capital, other than for the purpose of Part 2 of this Schedule (exemptions etc).
 
-(6A)[^key-faf32870b83f36b1427015ddaafdef52] Sub-paragraph (6B) applies where—
+(6A)[^c-faf32870b83f36b1427015ddaafdef52] Sub-paragraph (6B) applies where—
 
 - (a) an amount (“the TRF amount”) is treated as designated qualifying overseas capital of an individual as a result of sub-paragraph (6),
 - (b) on or after 6 April 2025, an officer of Revenue and Customs, in relation to the tax year 2024-25 or an earlier tax year—
@@ -310,7 +310,7 @@ is to be nevertheless treated as designated qualifying overseas capital, other t
 
 (7) For the purposes of section 12B of TMA 1970 (as applied as a result of sub-paragraph (4)), the records required to be kept as a result of paragraph 8(8) are to be regarded as records that must be kept for the purposes of enabling an individual to make and deliver a correct and complete return.
 
-(8)[^key-2c99a990a7f9f8700096951e66076d76] Paragraph 8(6) is not to be taken as preventing the amendment of a return so as to alter or revoke a designation of qualifying overseas capital made in that return, provided that amendment is made in accordance with section 9ZA of TMA 1970 (taxpayer permitted to amend return within 12 months of filing date).
+(8)[^c-2c99a990a7f9f8700096951e66076d76] Paragraph 8(6) is not to be taken as preventing the amendment of a return so as to alter or revoke a designation of qualifying overseas capital made in that return, provided that amendment is made in accordance with section 9ZA of TMA 1970 (taxpayer permitted to amend return within 12 months of filing date).
 
 ### Part 2 — Exemptions etc for designated qualifying overseas capital
 
@@ -318,12 +318,12 @@ is to be nevertheless treated as designated qualifying overseas capital, other t
 
 (1) No liability to income tax arises on
 
-- (a)[^key-b1095a56ce7bbfabdc9e4e6e3a8b01f8] the remittance of an amount of designated qualifying overseas capital that is designated on the basis that it is qualifying overseas capital as a result of a remittance provision[^key-d10d1a50438566ccae8772e4ce37d1e2] , or[^key-f4964405d862b2748a4c836b21acf08f]
+- (a)[^c-b1095a56ce7bbfabdc9e4e6e3a8b01f8] the remittance of an amount of designated qualifying overseas capital that is designated on the basis that it is qualifying overseas capital as a result of a remittance provision[^c-d10d1a50438566ccae8772e4ce37d1e2] , or[^c-f4964405d862b2748a4c836b21acf08f]
 - (b) an amount of income treated as qualifying overseas capital under paragraph 6 that—
   - (i) falls within sub-paragraph (1)(b) of that paragraph, and
   - (ii) is designated on the basis that it is qualifying overseas capital as a result of a remittance provision.
 
-(2) No liability to income tax arises on an amount of income treated as qualifying overseas capital under paragraph 6 , and that falls within sub-paragraph (1)(a) or (c) of that paragraph,[^key-630151fc78607bb429cf9a616baf808b] if the amount is designated.
+(2) No liability to income tax arises on an amount of income treated as qualifying overseas capital under paragraph 6 , and that falls within sub-paragraph (1)(a) or (c) of that paragraph,[^c-630151fc78607bb429cf9a616baf808b] if the amount is designated.
 
 (3) But such an amount is to be treated for the purposes of section 97(1) of TCGA 1992 (capital payments not to include amounts chargeable to income tax) as if it were chargeable to income tax.
 
@@ -336,9 +336,9 @@ is to be nevertheless treated as designated qualifying overseas capital, other t
 
 (6) Any such qualifying overseas capital is to be treated as having been designated by the individual (under that paragraph or those paragraphs), but no liability to the TRF charge is to arise as a result of that deemed designation.
 
-(7)[^key-f37db8ccd0ef3d5d94e00404966056a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f37db8ccd0ef3d5d94e00404966056a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-1abc611bdef108e4a81cb2f8fbeee822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-1abc611bdef108e4a81cb2f8fbeee822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) This paragraph has effect for the tax year 2025-26 and subsequent tax years.
 
@@ -363,7 +363,7 @@ is to be nevertheless treated as designated qualifying overseas capital, other t
 
 #### 12. Capital gains tax: main exemption
 
-(1) No gain is treated as accruing under paragraph 1(2) of Schedule 1 to [TCGA 1992](https://www.legislation.gov.uk/ukpga/1992/12) on the remittance of an amount of designated qualifying overseas capital that is designated on the basis that it is qualifying overseas capital as a result of a remittance provision (other than paragraph 6(1)(b))[^key-8dff72aa92040e88a538c94dba73ba0a].
+(1) No gain is treated as accruing under paragraph 1(2) of Schedule 1 to [TCGA 1992](https://www.legislation.gov.uk/ukpga/1992/12) on the remittance of an amount of designated qualifying overseas capital that is designated on the basis that it is qualifying overseas capital as a result of a remittance provision (other than paragraph 6(1)(b))[^c-8dff72aa92040e88a538c94dba73ba0a].
 
 (2) This paragraph has effect for the tax year 2025-26 and subsequent tax years.
 
@@ -408,7 +408,7 @@ is to be nevertheless treated as designated qualifying overseas capital, other t
 
 (10) This paragraph has effect for the tax year 2025-26 and subsequent tax years.
 
-#### 13A. Amounts derived from designated qualifying overseas capital[^key-375a186091df53bad23bcaed69ae4471]
+#### 13A. Amounts derived from designated qualifying overseas capital[^c-375a186091df53bad23bcaed69ae4471]
 
 (1) This paragraph applies to an amount (“**amount A**”) if—
 
@@ -427,7 +427,7 @@ is to be nevertheless treated as designated qualifying overseas capital, other t
 - (a) as designated qualifying overseas capital, and
 - (b) as designated on the basis it is qualifying overseas capital as a result of a remittance provision.
 
-#### 13B. Effect of this Schedule on section 65(5) IHTA 1984 and section 260(2) of TCGA 1992[^key-bb44b435d1d2199ab6db0e477c766151]
+#### 13B. Effect of this Schedule on section 65(5) IHTA 1984 and section 260(2) of TCGA 1992[^c-bb44b435d1d2199ab6db0e477c766151]
 
 (1) The effects of Parts 1 and 2 of this Schedule are to be ignored for the purposes of section 65(5)(b) of IHTA 1984 (and accordingly will not prevent any amount being regarded as income of a person for the purposes of income tax for the purposes of that section).
 
@@ -829,50 +829,50 @@ Sections 397 to 398 of ITTOIA 2005 (which have been repealed and only have effec
 
 ## Annotations
 
-[^key-544c8e842f22544bd470af33cb08a98c]: Textual amendment: Words in [Sch. 10 para. 3(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/3/7) substituted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/i)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-544c8e842f22544bd470af33cb08a98c]: Textual amendment: Words in [Sch. 10 para. 3(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/3/7) substituted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/i)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-8c7dfbc4b972e5671ea104100e876f83]: Textual amendment: Words in [Sch. 10 para. 3(9)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/3/9) substituted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/ii)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-8c7dfbc4b972e5671ea104100e876f83]: Textual amendment: Words in [Sch. 10 para. 3(9)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/3/9) substituted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/ii)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-b2c7030c15d614327ddf86dccff26e8c]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/4) omitted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/iii)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-b2c7030c15d614327ddf86dccff26e8c]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/4) omitted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/iii)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-53f680365af6ece2c1f0aed8e72e1394]: Textual amendment: Words in [Sch. 10 para. 5(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/5/7) substituted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(iv)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/iv)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-53f680365af6ece2c1f0aed8e72e1394]: Textual amendment: Words in [Sch. 10 para. 5(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/5/7) substituted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(iv)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/iv)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-a714d4c53e920634821d9d78d9c849cd]: Textual amendment: [Sch. 10 para. 7(1A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/7/1A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 9(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/9/a), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-a714d4c53e920634821d9d78d9c849cd]: Textual amendment: [Sch. 10 para. 7(1A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/7/1A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 9(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/9/a), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-5afe54cf97ef5cab8f21e8361e836a74]: Textual amendment: Words in [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/7/2) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 9(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/9/b), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-5afe54cf97ef5cab8f21e8361e836a74]: Textual amendment: Words in [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/7/2) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 9(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/9/b), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-618a6a5886e1287ff91179a230f38778]: Textual amendment: Word in [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2) omitted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/a/i), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-618a6a5886e1287ff91179a230f38778]: Textual amendment: Word in [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2) omitted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/a/i), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-2431037c5d02401011ed77937389fc55]: Textual amendment: [Sch. 10 para. 8(2)(aa)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2/aa) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/a/ii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-2431037c5d02401011ed77937389fc55]: Textual amendment: [Sch. 10 para. 8(2)(aa)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2/aa) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/a/ii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-988aec55dba20941dfe651e6fc0cdbee]: Textual amendment: Words in [Sch. 10 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2/b) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/a/iii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-988aec55dba20941dfe651e6fc0cdbee]: Textual amendment: Words in [Sch. 10 para. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2/b) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/a/iii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-65ee73b2b4a1eeb8133aba3eb5d541af]: Textual amendment: [Sch. 10 para. 8(2A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/10), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-65ee73b2b4a1eeb8133aba3eb5d541af]: Textual amendment: [Sch. 10 para. 8(2A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/10), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-dc0713a92959e81f684701908e0759aa]: Textual amendment: [Sch. 10 para. 8(2B)-(2D)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2B) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/b), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-dc0713a92959e81f684701908e0759aa]: Textual amendment: [Sch. 10 para. 8(2B)-(2D)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/2B) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/b), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-d2b98820144550a15e507e0a9ff68cf3]: Textual amendment: [Sch. 10 para. 8(4A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/4A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/11), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-d2b98820144550a15e507e0a9ff68cf3]: Textual amendment: [Sch. 10 para. 8(4A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/4A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 11](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/11), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-7a0c94f10a7604893d15a37e40290eb1]: Textual amendment: [Sch. 10 para. 8(5A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/5A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/c), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-7a0c94f10a7604893d15a37e40290eb1]: Textual amendment: [Sch. 10 para. 8(5A)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/5A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/3/c), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-faf32870b83f36b1427015ddaafdef52]: Textual amendment: [Sch. 10 para. 8(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/6A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/12), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-faf32870b83f36b1427015ddaafdef52]: Textual amendment: [Sch. 10 para. 8(6A)-(6C)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/8/6A) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/12), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-2c99a990a7f9f8700096951e66076d76]: Textual amendment: [Sch. 10 para. 9(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/9/8) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 16](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/16), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-2c99a990a7f9f8700096951e66076d76]: Textual amendment: [Sch. 10 para. 9(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/9/8) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 16](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/16), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-b1095a56ce7bbfabdc9e4e6e3a8b01f8]: Textual amendment: Words in Sch. 10 para. 10(1) renumbered as Sch. 10 para. 10(1)(a) (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/a/i), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-b1095a56ce7bbfabdc9e4e6e3a8b01f8]: Textual amendment: Words in Sch. 10 para. 10(1) renumbered as Sch. 10 para. 10(1)(a) (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(a)(i)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/a/i), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-d10d1a50438566ccae8772e4ce37d1e2]: Textual amendment: Words in [Sch. 10 para. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/1/a) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/a/ii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-d10d1a50438566ccae8772e4ce37d1e2]: Textual amendment: Words in [Sch. 10 para. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/1/a) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/a/ii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-f4964405d862b2748a4c836b21acf08f]: Textual amendment: [Sch. 10 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/1/b) and word inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/a/iii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-f4964405d862b2748a4c836b21acf08f]: Textual amendment: [Sch. 10 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/1/b) and word inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/a/iii), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-630151fc78607bb429cf9a616baf808b]: Textual amendment: Words in [Sch. 10 para. 10(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/2) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/b), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-630151fc78607bb429cf9a616baf808b]: Textual amendment: Words in [Sch. 10 para. 10(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/2) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/1/b), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-f37db8ccd0ef3d5d94e00404966056a9]: Textual amendment: [Sch. 10 para. 10(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/7) omitted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(v)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/v)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-f37db8ccd0ef3d5d94e00404966056a9]: Textual amendment: [Sch. 10 para. 10(7)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/7) omitted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(v)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/v)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-1abc611bdef108e4a81cb2f8fbeee822]: Textual amendment: [Sch. 10 para. 10(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/8) omitted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(v)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/v)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-1abc611bdef108e4a81cb2f8fbeee822]: Textual amendment: [Sch. 10 para. 10(8)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/10/8) omitted (retrospective and with effect in accordance with s. 52(4)(b) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(d)(v)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/d/v)[(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
 
-[^key-8dff72aa92040e88a538c94dba73ba0a]: Textual amendment: Words in [Sch. 10 para. 12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/12/1) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/2), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-8dff72aa92040e88a538c94dba73ba0a]: Textual amendment: Words in [Sch. 10 para. 12(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/12/1) inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 13(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/13/2), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-375a186091df53bad23bcaed69ae4471]: Textual amendment: [Sch. 10 para. 13A](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/13A) and cross-heading inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/14), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-375a186091df53bad23bcaed69ae4471]: Textual amendment: [Sch. 10 para. 13A](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/13A) and cross-heading inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 14](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/14), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
 
-[^key-bb44b435d1d2199ab6db0e477c766151]: Textual amendment: [Sch. 10 para. 13B](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/13B) and cross-heading inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/15), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)
+[^c-bb44b435d1d2199ab6db0e477c766151]: Textual amendment: [Sch. 10 para. 13B](https://www.legislation.gov.uk/ukpga/2025/8/schedule/10/paragraph/13B) and cross-heading inserted (with effect in accordance with Sch. 3 para. 18(1) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 paras. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/15), [18(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/18/1)

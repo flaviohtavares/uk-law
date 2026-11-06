@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 261. Application of Chapter 10[^key-4b4d96a968147ef5c0a30174c77571ed]
+## 261. Application of Chapter 10[^c-4b4d96a968147ef5c0a30174c77571ed]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4d96a968147ef5c0a30174c77571ed]: Commencement: [Rule 261](https://www.legislation.gov.uk/uksi/2011/1301/rule/261) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4b4d96a968147ef5c0a30174c77571ed]: Commencement: [Rule 261](https://www.legislation.gov.uk/uksi/2011/1301/rule/261) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

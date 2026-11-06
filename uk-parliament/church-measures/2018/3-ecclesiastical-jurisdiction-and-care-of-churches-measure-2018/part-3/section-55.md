@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 55. Interpretation of Part 3[^key-68f607f7f49666ec4fee7b5575bb4b2b]
+## 55. Interpretation of Part 3[^c-68f607f7f49666ec4fee7b5575bb4b2b]
 
 *Extent: E*
 
@@ -27,7 +27,7 @@ summary: ''
   - (b) in relation to an archdeaconry, the Diocesan Advisory Committee of the diocese in which the archdeaconry is situated;
 - “**article**” includes anything affixed to land or a building, and a reference to an article includes a reference to part of an article;
 - “**building**” includes a structure or erection, and a reference to a building includes a reference to part of a building;
-- “**diocesan board of finance**” has the same meaning as “DBF” in the Church Property Measure 2018 (see section 49 of that Measure)[^key-dde7016d210b9229682566e5a3e46d2d];
+- “**diocesan board of finance**” has the same meaning as “DBF” in the Church Property Measure 2018 (see section 49 of that Measure)[^c-dde7016d210b9229682566e5a3e46d2d];
 - “**land**” includes buildings but, subject to that, the definition of the word given in Schedule 1 to the Interpretation Act 1978 does not apply;
 - “**the list**” means the list maintained under section 38;
 - “minister”, in the case of a parish in which a special cure of souls has been assigned to a vicar in a team ministry by a scheme under the Mission and Pastoral Measure 2011 or by licence from the bishop, means that vicar;
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68f607f7f49666ec4fee7b5575bb4b2b]: Commencement: S. 55 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-68f607f7f49666ec4fee7b5575bb4b2b]: Commencement: S. 55 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-dde7016d210b9229682566e5a3e46d2d]: Textual amendment: Words in s. 55(1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/30); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-dde7016d210b9229682566e5a3e46d2d]: Textual amendment: Words in s. 55(1) substituted (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 1 para. 30](https://www.legislation.gov.uk/ukcm/2018/8/schedule/1/paragraph/30); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

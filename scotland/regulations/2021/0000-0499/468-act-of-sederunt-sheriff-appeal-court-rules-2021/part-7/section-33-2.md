@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33.2. Form of appeal[^key-4c734ccb88677dd0eb58e09468a713f4]
+## 33.2. Form of appeal[^c-4c734ccb88677dd0eb58e09468a713f4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c734ccb88677dd0eb58e09468a713f4]: Commencement: Para. 33.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-4c734ccb88677dd0eb58e09468a713f4]: Commencement: Para. 33.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

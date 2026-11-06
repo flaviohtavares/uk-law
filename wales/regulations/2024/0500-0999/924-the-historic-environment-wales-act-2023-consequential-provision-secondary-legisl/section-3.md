@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. The Ancient Monuments (Applications for Scheduled Monument Consent) Regulations 1981[^key-1224b0cc8ceaf9bd6544252ef632eb26]
+## 3. The Ancient Monuments (Applications for Scheduled Monument Consent) Regulations 1981[^c-1224b0cc8ceaf9bd6544252ef632eb26]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In regulation 1(2) of the Ancient Monuments (Applications for Scheduled Monument
 
 ## Annotations
 
-[^key-1224b0cc8ceaf9bd6544252ef632eb26]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/924/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-1224b0cc8ceaf9bd6544252ef632eb26]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/924/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1981/1301](https://www.legislation.gov.uk/uksi/1981/1301).

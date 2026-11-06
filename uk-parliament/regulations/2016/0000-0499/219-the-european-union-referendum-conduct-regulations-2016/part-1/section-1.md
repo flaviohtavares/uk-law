@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-c24a6e285df4ad8234d380ca77a69482]
+## 1. Citation and commencement[^c-c24a6e285df4ad8234d380ca77a69482]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the European Union Referendum (Conduct) Regula
 
 ## Annotations
 
-[^key-c24a6e285df4ad8234d380ca77a69482]: Commencement: Reg. 1 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-c24a6e285df4ad8234d380ca77a69482]: Commencement: Reg. 1 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

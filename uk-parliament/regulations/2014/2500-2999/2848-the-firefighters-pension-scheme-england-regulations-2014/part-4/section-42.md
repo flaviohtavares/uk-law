@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Ill-health pension ceases to be payable[^key-7329d6c5535419d55d9d421ae3cd3d7d]
+## 42. Ill-health pension ceases to be payable[^c-7329d6c5535419d55d9d421ae3cd3d7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7329d6c5535419d55d9d421ae3cd3d7d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/2848/regulation/42) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-7329d6c5535419d55d9d421ae3cd3d7d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2014/2848/regulation/42) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

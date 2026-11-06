@@ -39,83 +39,83 @@ Coming into operation
 
 1st August 2006
 
-[^key-fd94951e345d4aed9bf89848ad07fce3]The Department of the Environment makes the following Order in exercise of the powers conferred by sections 1 and 2(6) of the Electronic Communications Act (Northern Ireland) 2001[^f00001].
+[^c-fd94951e345d4aed9bf89848ad07fce3]The Department of the Environment makes the following Order in exercise of the powers conferred by sections 1 and 2(6) of the Electronic Communications Act (Northern Ireland) 2001[^f00001].
 
-The Department is the appropriate department[^f00002] for the purposes of the Planning (Northern Ireland) Order 1991[^f00003].[^key-21f0560cca77b32910d37f68a65f1ba0]
+The Department is the appropriate department[^f00002] for the purposes of the Planning (Northern Ireland) Order 1991[^f00003].[^c-21f0560cca77b32910d37f68a65f1ba0]
 
-In accordance with section 1(3) of that Act the Department considers that the authorisation of the use of electronic communications or electronic storage for any purpose is such that the extent (if any) to which records of such things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications or electronic storage than in other cases.[^key-21f0560cca77b32910d37f68a65f1ba0]
+In accordance with section 1(3) of that Act the Department considers that the authorisation of the use of electronic communications or electronic storage for any purpose is such that the extent (if any) to which records of such things done for that purpose will be available will be no less satisfactory in cases where use is made of electronic communications or electronic storage than in other cases.[^c-21f0560cca77b32910d37f68a65f1ba0]
 
-## 1. Citation, commencement and interpretation[^key-fd94951e345d4aed9bf89848ad07fce3]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Insertion of definitions and interpretation provisions[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 1. Citation, commencement and interpretation[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Service of Notices and Documents[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 2. Insertion of definitions and interpretation provisions[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Electronic publication of notices of applications[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 3. Service of Notices and Documents[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Postal addresses to be provided in certain notices[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 4. Electronic publication of notices of applications[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 1988[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 5. Postal addresses to be provided in certain notices[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Planning (Development Plans) Regulations (Northern Ireland) 1991[^key-6ee93a4b43602dccc3ac907ab173a562]
+## 6. Amendment of Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 1988[^c-fd94951e345d4aed9bf89848ad07fce3]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 7. Amendment of the Planning (Development Plans) Regulations (Northern Ireland) 1991[^c-6ee93a4b43602dccc3ac907ab173a562]
 
 The Planning (Development Plans) Regulations (Northern Ireland) 1991[^f00014] shall be amended in accordance with Schedule 2.
 
-## 8. Amendment of Planning (Listed Buildings) Regulations (Northern Ireland) 1992[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 8. Amendment of Planning (Listed Buildings) Regulations (Northern Ireland) 1992[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Planning (Control of Advertisements) Regulations (Northern Ireland) 1992[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 9. Amendment of the Planning (Control of Advertisements) Regulations (Northern Ireland) 1992[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 10. Amendment of the Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 11. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 12. Amendment of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of the Planning (Trees) Regulations (Northern Ireland) 2003[^key-fd94951e345d4aed9bf89848ad07fce3]
+## 13. Amendment of the Planning (Trees) Regulations (Northern Ireland) 2003[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
@@ -129,21 +129,21 @@ A senior officer of the
 
 Department
 
-## SCHEDULE 1 — Amendment of the Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 1988[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 1 — Amendment of the Planning (Conservation Areas) (Demolition) Regulations (Northern Ireland) 1988[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 6
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Amendment of the Planning (Development Plans) Regulations (Northern Ireland) 1991
 
 Article 7
 
-**1.**[^key-a9d3ae7290baa421dc22223fa15b5487] (1) Regulation 2 (interpretation) shall be amended as follows.
+**1.**[^c-a9d3ae7290baa421dc22223fa15b5487] (1) Regulation 2 (interpretation) shall be amended as follows.
 
 (2) In paragraph (1)—
 
@@ -177,7 +177,7 @@ Article 7
 
 .
 
-**2.**[^key-b86e8da24456dbcb08ddf2cf95e28fce] After regulation 14 (notice of adoption of a development plan), insert—
+**2.**[^c-b86e8da24456dbcb08ddf2cf95e28fce] After regulation 14 (notice of adoption of a development plan), insert—
 
 > **14A. Use of electronic communications**
 >
@@ -195,75 +195,75 @@ Article 7
 
 .
 
-## SCHEDULE 3 — Amendment of the Planning (Listed Buildings) Regulations (Northern Ireland) 1992[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 3 — Amendment of the Planning (Listed Buildings) Regulations (Northern Ireland) 1992[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 8
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amendment of the Planning (Control of Advertisements) Regulations (Northern Ireland) 1992[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 4 — Amendment of the Planning (Control of Advertisements) Regulations (Northern Ireland) 1992[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 9
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Amendment of the Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 5 — Amendment of the Planning (Hazardous Substances) Regulations (Northern Ireland) 1993[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 10
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 6 — Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 11
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 7 — Amendment of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 7 — Amendment of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 12
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 8 — Amendment of the Planning (Trees) Regulations (Northern Ireland) 2003[^key-fd94951e345d4aed9bf89848ad07fce3]
+## SCHEDULE 8 — Amendment of the Planning (Trees) Regulations (Northern Ireland) 2003[^c-fd94951e345d4aed9bf89848ad07fce3]
 
 **No longer in force.**
 
 Article 13
 
-**1.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fd94951e345d4aed9bf89848ad07fce3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Order)
 
@@ -295,7 +295,7 @@ Articles 6 to 13 give effect to the Schedules to this Order.
 
 ## Annotations
 
-[^key-fd94951e345d4aed9bf89848ad07fce3]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/276) revoked (except for art. 7, Sch. 2) (1.4.2015) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 (S.R. 2015/49)](https://www.legislation.gov.uk/nisr/2015/49), [art. 5(c)](https://www.legislation.gov.uk/nisr/2015/49/article/5/c)
+[^c-fd94951e345d4aed9bf89848ad07fce3]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/276) revoked (except for art. 7, Sch. 2) (1.4.2015) by [The Planning (2011 Act) (Commencement No.3) and (Transitional Provisions) Order (Northern Ireland) 2015 (S.R. 2015/49)](https://www.legislation.gov.uk/nisr/2015/49), [art. 5(c)](https://www.legislation.gov.uk/nisr/2015/49/article/5/c)
 
 [^f00001]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9)
 
@@ -303,12 +303,12 @@ Articles 6 to 13 give effect to the Schedules to this Order.
 
 [^f00003]: Footnote: S.I. [1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by S.I. [2003/430 (N.I. 8)](https://www.legislation.gov.uk/nisi/2003/430) and [S.I.2006/1252 (N.I.7)](https://www.legislation.gov.uk/nisi/2006/1252)
 
-[^key-21f0560cca77b32910d37f68a65f1ba0]: Modification: Order applied (1.4.2015) by [The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015 (S.R. 2015/74)](https://www.legislation.gov.uk/nisr/2015/74), [reg. 45(3)(4)(b)](https://www.legislation.gov.uk/nisr/2015/74/regulation/45) (with [reg. 44](https://www.legislation.gov.uk/nisr/2015/74/regulation/44))
+[^c-21f0560cca77b32910d37f68a65f1ba0]: Modification: Order applied (1.4.2015) by [The Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 2015 (S.R. 2015/74)](https://www.legislation.gov.uk/nisr/2015/74), [reg. 45(3)(4)(b)](https://www.legislation.gov.uk/nisr/2015/74/regulation/45) (with [reg. 44](https://www.legislation.gov.uk/nisr/2015/74/regulation/44))
 
-[^key-6ee93a4b43602dccc3ac907ab173a562]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/276/article/7) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/276/article/1/1)
+[^c-6ee93a4b43602dccc3ac907ab173a562]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/276/article/7) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/276/article/1/1)
 
 [^f00014]: Footnote: [S.R. 1991 No. 119](https://www.legislation.gov.uk/nisr/1991/119) as amended by [S.R. 1994 No. 394](https://www.legislation.gov.uk/nisr/1994/394), [S.R. 2000 No. 101](https://www.legislation.gov.uk/nisr/2000/101) and [S.R. 2004 No. 438](https://www.legislation.gov.uk/nisr/2004/438)
 
-[^key-a9d3ae7290baa421dc22223fa15b5487]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/276/schedule/2/paragraph/1) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/276/article/1/1)
+[^c-a9d3ae7290baa421dc22223fa15b5487]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2006/276/schedule/2/paragraph/1) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/276/article/1/1)
 
-[^key-b86e8da24456dbcb08ddf2cf95e28fce]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/276/schedule/2/paragraph/2) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/276/article/1/1)
+[^c-b86e8da24456dbcb08ddf2cf95e28fce]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2006/276/schedule/2/paragraph/2) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/276/article/1/1)

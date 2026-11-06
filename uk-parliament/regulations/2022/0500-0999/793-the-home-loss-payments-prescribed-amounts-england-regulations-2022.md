@@ -34,7 +34,7 @@ Acquisition Of Land, England
 
 Compensation
 
-The Home Loss Payments (Prescribed Amounts) (England) Regulations 2022 (revoked)[^key-ee24bac6b339cf58e4cab16eb2f25c35]
+The Home Loss Payments (Prescribed Amounts) (England) Regulations 2022 (revoked)[^c-ee24bac6b339cf58e4cab16eb2f25c35]
 
 Made
 
@@ -48,26 +48,26 @@ Coming into force
 
 1st October 2022
 
-[^key-ee24bac6b339cf58e4cab16eb2f25c35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee24bac6b339cf58e4cab16eb2f25c35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-ee24bac6b339cf58e4cab16eb2f25c35]
+## 1. Citation, commencement, extent and application[^c-ee24bac6b339cf58e4cab16eb2f25c35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revision of prescribed amounts for home loss payment[^key-ee24bac6b339cf58e4cab16eb2f25c35]
+## 2. Revision of prescribed amounts for home loss payment[^c-ee24bac6b339cf58e4cab16eb2f25c35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and savings[^key-ee24bac6b339cf58e4cab16eb2f25c35]
+## 3. Revocation and savings[^c-ee24bac6b339cf58e4cab16eb2f25c35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee24bac6b339cf58e4cab16eb2f25c35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee24bac6b339cf58e4cab16eb2f25c35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee24bac6b339cf58e4cab16eb2f25c35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee24bac6b339cf58e4cab16eb2f25c35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee24bac6b339cf58e4cab16eb2f25c35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/793) revoked (1.10.2023) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2023 (S.I. 2023/803)](https://www.legislation.gov.uk/uksi/2023/803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/803/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2023/803/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/803/regulation/3/2))
+[^c-ee24bac6b339cf58e4cab16eb2f25c35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/793) revoked (1.10.2023) by [The Home Loss Payments (Prescribed Amounts) (England) Regulations 2023 (S.I. 2023/803)](https://www.legislation.gov.uk/uksi/2023/803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/803/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2023/803/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2023/803/regulation/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.B.6. Restriction on further participation in this Section of the Scheme[^key-a57c5caa2bc3479279d7954a79676803]
+## 2.B.6. Restriction on further participation in this Section of the Scheme[^c-a57c5caa2bc3479279d7954a79676803]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a57c5caa2bc3479279d7954a79676803]: Textual amendment: Words in [reg. 2.B.6](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.B.6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-a57c5caa2bc3479279d7954a79676803]: Textual amendment: Words in [reg. 2.B.6](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.B.6) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

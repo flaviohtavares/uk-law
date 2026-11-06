@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Hearings by electronic communication[^key-c6197e0743b533fecb57efcbd7be35c2]
+## 46. Hearings by electronic communication[^c-c6197e0743b533fecb57efcbd7be35c2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A hearing may be conducted, in whole or in part, by use of electronic communicat
 
 ## Annotations
 
-[^key-c6197e0743b533fecb57efcbd7be35c2]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2024/1155/rule/46) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-c6197e0743b533fecb57efcbd7be35c2]: Commencement: [Rule 46](https://www.legislation.gov.uk/uksi/2024/1155/rule/46) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

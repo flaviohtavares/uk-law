@@ -40,7 +40,7 @@ summary: ''
 - (b) is not entitled to become a family health service provider or an independent provider (within the meaning of paragraph 5 or, as the case may be, 6 of schedule 2), and
 - (c) is disqualified from appointment to any paid office by a listed authority.
 
-(3)[^key-634d5a0d37d013ef4735a87e813546c6] A person who has ceased to hold office as Ombudsman or deputy Ombudsman may not, without the approval of the Parliamentary corporation—
+(3)[^c-634d5a0d37d013ef4735a87e813546c6] A person who has ceased to hold office as Ombudsman or deputy Ombudsman may not, without the approval of the Parliamentary corporation—
 
 - (a) be appointed or, as the case may be, elected as—
   - (i) the holder of any office which is a listed authority, or
@@ -71,9 +71,9 @@ summary: ''
 - (b) any member of the Scottish Executive,
 - (c) the Parliamentary corporation.
 
-(2A)[^key-b88c4083bc5e2f865dd950c5e0ef2c85] The Ombudsman is, as such, to be regarded as a juristic person distinct from the natural person holding the office.
+(2A)[^c-b88c4083bc5e2f865dd950c5e0ef2c85] The Ombudsman is, as such, to be regarded as a juristic person distinct from the natural person holding the office.
 
-(3) Sub-paragraph (2) is subject to section 17(3) and paragraphs 9(4), 10(3), 12(3), 12A, 12B, 12D and[^key-efb58e54ea41369dc603930a3ad2d5a5] 15(1) of this schedule.
+(3) Sub-paragraph (2) is subject to section 17(3) and paragraphs 9(4), 10(3), 12(3), 12A, 12B, 12D and[^c-efb58e54ea41369dc603930a3ad2d5a5] 15(1) of this schedule.
 
 ### 3. Validity of actings
 
@@ -86,17 +86,17 @@ The validity of any actings of the Ombudsman or a deputy Ombudsman is not affect
 
 (1) The Ombudsman and a deputy Ombudsman each—
 
-- (a) holds office for such period not exceeding eight[^key-c75045243fb508191e77bee9e8a076cf] years as the Parliamentary corporation, at the time of appointment, may determine,
+- (a) holds office for such period not exceeding eight[^c-c75045243fb508191e77bee9e8a076cf] years as the Parliamentary corporation, at the time of appointment, may determine,
 - (b) may be relieved of office by Her Majesty at the request of the officer in question,
-- (c)[^key-8a63fbbe6f5ae458ed85806b8419d8db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-21f75bbd1c6ecca46f0c1ab155e55e8e] may be removed from office by Her Majesty if sub-paragraph (2C) applies,
+- (c)[^c-8a63fbbe6f5ae458ed85806b8419d8db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-21f75bbd1c6ecca46f0c1ab155e55e8e] may be removed from office by Her Majesty if sub-paragraph (2C) applies,
 - (e) in other respects, holds office on such terms and conditions as the Parliamentary corporation may determine.
 
-(2A)[^key-6da82b69b65eae6bd6e8d3402d98ca7b] A person who has held office as Ombudsman or deputy Ombudsman is ineligible for reappointment at any time.
+(2A)[^c-6da82b69b65eae6bd6e8d3402d98ca7b] A person who has held office as Ombudsman or deputy Ombudsman is ineligible for reappointment at any time.
 
 (2B) Such a person is, however, eligible for appointment to the other office, but may not hold that office beyond the expiry of the period for which the person was first appointed.
 
-(2C)[^key-6b4cd2e35d539442a5cc46d6d1fe1082] This sub-paragraph applies if—
+(2C)[^c-6b4cd2e35d539442a5cc46d6d1fe1082] This sub-paragraph applies if—
 
 - (a) the Parliamentary corporation is satisfied that the Ombudsman has breached the terms and conditions of office and the Parliament resolves that the Ombudsman should be removed from office for that breach, or
 - (b) the Parliament resolves that it has lost confidence in the Ombudsman's willingness, suitability or ability to perform the functions of the Ombudsman,
@@ -112,7 +112,7 @@ and, in either case, the resolution is voted for by a number of members not fewe
 
 (2F) In sub-paragraph (2E), “**specified**” means specified in the terms and conditions of office or within a description so specified.
 
-(3)[^key-6da82b69b65eae6bd6e8d3402d98ca7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6da82b69b65eae6bd6e8d3402d98ca7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Vacancy in office of Ombudsman
 
@@ -178,7 +178,7 @@ as the Parliamentary corporation may determine.
 
 (4) A determination under sub-paragraph (1) and arrangements under sub-paragraph (2) require the approval of the Parliamentary corporation.
 
-### 10. Advisers and other services[^key-d34a18fd06cf65215134e03c0ce3849b]
+### 10. Advisers and other services[^c-d34a18fd06cf65215134e03c0ce3849b]
 
 (1) The Ombudsman may obtain advice, assistance or any other service from any person who, in the opinion of the Ombudsman, is qualified to give it.
 
@@ -204,9 +204,9 @@ as the Parliamentary corporation may determine.
 - (a) acquire and dispose of land and other property, and
 - (b) enter into contracts.
 
-(3)[^key-ec9239f8f906a3c3783e9df5cb4f792a] The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.
+(3)[^c-ec9239f8f906a3c3783e9df5cb4f792a] The exercise of the power to acquire or dispose of land is subject to the approval of the Parliamentary corporation.
 
-### 12A. Location of office[^key-d3b127ec1523549ad74f8cdab324ff9e]
+### 12A. Location of office[^c-d3b127ec1523549ad74f8cdab324ff9e]
 
 The Ombudsman must comply with any direction given by the Parliamentary corporation as to the location of the Ombudsman's office.
 
@@ -220,7 +220,7 @@ The Ombudsman must comply with any direction given by the Parliamentary corporat
 
 (2) Any sums received by the Ombudsman by virtue of sub-paragraph (1) are to be retained by the Ombudsman and applied to meet expenditure incurred in doing or providing whatever is charged for.
 
-### 12D. Budget[^key-2ba57194308c49da82a11e46c237ffd9]
+### 12D. Budget[^c-2ba57194308c49da82a11e46c237ffd9]
 
 (1) The Ombudsman must, before the start of each financial year, prepare proposals for the Ombudsman's use of resources and expenditure during the year (a “budget”) and, by such date as the Parliamentary corporation determines, send the budget to the Parliamentary corporation for approval.
 
@@ -232,15 +232,15 @@ The Ombudsman must comply with any direction given by the Parliamentary corporat
 
 ### 13. Financial provision
 
-(1)[^key-69e4ed8891e42e9981ab3c8148830c5a] The Parliamentary corporation is to pay—
+(1)[^c-69e4ed8891e42e9981ab3c8148830c5a] The Parliamentary corporation is to pay—
 
 - (a) the salary and allowances of the Ombudsman and any deputy Ombudsman,
-- (b) any expenses properly[^key-959d6eaf8a368e58c940588fd5322724] incurred by the Ombudsman in the exercise of the functions of the Ombudsman so far as those expenses are not met out of sums received and applied by the Ombudsman under paragraph 12C(2)[^key-d77980c68b7f89efc26fcc2cc57d14e3] ,
+- (b) any expenses properly[^c-959d6eaf8a368e58c940588fd5322724] incurred by the Ombudsman in the exercise of the functions of the Ombudsman so far as those expenses are not met out of sums received and applied by the Ombudsman under paragraph 12C(2)[^c-d77980c68b7f89efc26fcc2cc57d14e3] ,
 - (c) any sums payable by virtue of paragraph 5(3)(a) to (c) or 6(4)(a) to (c) to, or in respect of, a person who—
   - (i) is appointed as acting Ombudsman or, as the case may be, acting deputy Ombudsman, or
   - (ii) has ceased to hold such office.
 
-(2)[^key-85c29b20288ee93c3cc0b7911735abb4] Sub-paragraph (1)(b) does not require the Parliamentary corporation to pay any expenses which exceed or are otherwise not covered by a budget or, as the case may be, a revised budget approved under paragraph 12D.
+(2)[^c-85c29b20288ee93c3cc0b7911735abb4] Sub-paragraph (1)(b) does not require the Parliamentary corporation to pay any expenses which exceed or are otherwise not covered by a budget or, as the case may be, a revised budget approved under paragraph 12D.
 
 (3) However, the Parliamentary corporation may pay those expenses.
 
@@ -288,34 +288,34 @@ in accordance with such directions as the Scottish Ministers may give.
 
 ## Annotations
 
-[^key-634d5a0d37d013ef4735a87e813546c6]: Textual amendment: Sch. 1 para. 1(3)-(3B) substituted for sch. 1 para. 1(3) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-634d5a0d37d013ef4735a87e813546c6]: Textual amendment: Sch. 1 para. 1(3)-(3B) substituted for sch. 1 para. 1(3) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 11](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/11) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-b88c4083bc5e2f865dd950c5e0ef2c85]: Textual amendment: Sch. 1 para. 2(2A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 12(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/12/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-b88c4083bc5e2f865dd950c5e0ef2c85]: Textual amendment: Sch. 1 para. 2(2A) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 12(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/12/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-efb58e54ea41369dc603930a3ad2d5a5]: Textual amendment: Words in sch. 1 para. 2(3) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 12(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/12/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-efb58e54ea41369dc603930a3ad2d5a5]: Textual amendment: Words in sch. 1 para. 2(3) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 12(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/12/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-c75045243fb508191e77bee9e8a076cf]: Textual amendment: Word in sch. 1 para. 4(1)(a) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(a)(i)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/a/i) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-c75045243fb508191e77bee9e8a076cf]: Textual amendment: Word in sch. 1 para. 4(1)(a) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(a)(i)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/a/i) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-8a63fbbe6f5ae458ed85806b8419d8db]: Textual amendment: Sch. 1 para. 4(1)(c) repealed (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
+[^c-8a63fbbe6f5ae458ed85806b8419d8db]: Textual amendment: Sch. 1 para. 4(1)(c) repealed (1.10.2006) by [The Employment Equality (Age) Regulations 2006 (S.I. 2006/1031)](https://www.legislation.gov.uk/uksi/2006/1031), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/1031/regulation/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2006/1031/schedule/9) (with [regs. 44-46](https://www.legislation.gov.uk/uksi/2006/1031/regulation/44))
 
-[^key-21f75bbd1c6ecca46f0c1ab155e55e8e]: Textual amendment: Sch. 1 para. 4(1)(d) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(a)(ii)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/a/ii) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-21f75bbd1c6ecca46f0c1ab155e55e8e]: Textual amendment: Sch. 1 para. 4(1)(d) substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(a)(ii)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/a/ii) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-6da82b69b65eae6bd6e8d3402d98ca7b]: Textual amendment: Sch. 1 para. 4(2A)(2B) substituted for sch. 1 para. 4(2)(3) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-6da82b69b65eae6bd6e8d3402d98ca7b]: Textual amendment: Sch. 1 para. 4(2A)(2B) substituted for sch. 1 para. 4(2)(3) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-6b4cd2e35d539442a5cc46d6d1fe1082]: Textual amendment: Sch. 1 para. 4(2C)-(2F) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(c)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/c) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-6b4cd2e35d539442a5cc46d6d1fe1082]: Textual amendment: Sch. 1 para. 4(2C)-(2F) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 13(c)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/13/c) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-d34a18fd06cf65215134e03c0ce3849b]: Textual amendment: Sch. 1 para. 10 substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-d34a18fd06cf65215134e03c0ce3849b]: Textual amendment: Sch. 1 para. 10 substituted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 14](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/14) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-ec9239f8f906a3c3783e9df5cb4f792a]: Textual amendment: Sch. 1 para. 12(3) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-ec9239f8f906a3c3783e9df5cb4f792a]: Textual amendment: Sch. 1 para. 12(3) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 15](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/15) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-d3b127ec1523549ad74f8cdab324ff9e]: Textual amendment: Sch. 1 paras. 12A-12C inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 16](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/16) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-d3b127ec1523549ad74f8cdab324ff9e]: Textual amendment: Sch. 1 paras. 12A-12C inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 16](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/16) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-2ba57194308c49da82a11e46c237ffd9]: Textual amendment: Sch. 1 para. 12D inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 17](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/17) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-2ba57194308c49da82a11e46c237ffd9]: Textual amendment: Sch. 1 para. 12D inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 17](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/17) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-69e4ed8891e42e9981ab3c8148830c5a]: Textual amendment: Sch. 1 para. 13 renumbered as sch. 1 para. 13(1) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 19](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/19) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-69e4ed8891e42e9981ab3c8148830c5a]: Textual amendment: Sch. 1 para. 13 renumbered as sch. 1 para. 13(1) (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 19](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/19) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-959d6eaf8a368e58c940588fd5322724]: Textual amendment: Word in sch. 1 para. 13(1)(b) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 18(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/18/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-959d6eaf8a368e58c940588fd5322724]: Textual amendment: Word in sch. 1 para. 13(1)(b) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 18(a)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/18/a) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-d77980c68b7f89efc26fcc2cc57d14e3]: Textual amendment: Words in sch. 1 para. 13(1)(b) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 18(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/18/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-d77980c68b7f89efc26fcc2cc57d14e3]: Textual amendment: Words in sch. 1 para. 13(1)(b) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 18(b)](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/18/b) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
 
-[^key-85c29b20288ee93c3cc0b7911735abb4]: Textual amendment: Sch. 1 para. 13(2)-(4) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 19](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/19) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))
+[^c-85c29b20288ee93c3cc0b7911735abb4]: Textual amendment: Sch. 1 para. 13(2)-(4) inserted (1.4.2011) by [Scottish Parliamentary Commissions and Commissioners etc. Act 2010 (asp 11)](https://www.legislation.gov.uk/asp/2010/11), [s. 31(5)](https://www.legislation.gov.uk/asp/2010/11/section/31/5), [sch. 3 para. 19](https://www.legislation.gov.uk/asp/2010/11/schedule/3/paragraph/19) (with [s. 31(6)](https://www.legislation.gov.uk/asp/2010/11/section/31/6), [sch. 7](https://www.legislation.gov.uk/asp/2010/11/schedule/7))

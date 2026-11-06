@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Application to supervisors of certain provisions relating to removal from office and to decision making[^key-e51590d4e7d210789b4e4d6821155d7f]
+## 51. Application to supervisors of certain provisions relating to removal from office and to decision making[^c-e51590d4e7d210789b4e4d6821155d7f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e51590d4e7d210789b4e4d6821155d7f]: Commencement: S. 51 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-e51590d4e7d210789b4e4d6821155d7f]: Commencement: S. 51 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

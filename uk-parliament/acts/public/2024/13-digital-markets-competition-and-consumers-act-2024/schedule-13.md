@@ -22,7 +22,7 @@ summary: ''
 
 Section 144
 
-### 1. Service of documents etc[^key-4df3ce3694f03a2c1a8de8e31c568447][^key-e481797530028742d9e50e4f09f12870]
+### 1. Service of documents etc[^c-4df3ce3694f03a2c1a8de8e31c568447][^c-e481797530028742d9e50e4f09f12870]
 
 In Part 3 of EA 2002 (mergers), in Chapter 5 (supplementary), for section 126 (service of documents) substitute—
 
@@ -72,7 +72,7 @@ In Part 3 of EA 2002 (mergers), in Chapter 5 (supplementary), for section 126 (s
 >
 > (11) This section does not limit any other lawful means of serving a document on a person.
 
-**2.**[^key-c7d07864454edf074e33289066f572a1][^key-2204bed149451b5272c7ad081c2808f7] In Part 1 of CA 1998, in Chapter 3 (investigation and enforcement), after section 44 insert—
+**2.**[^c-c7d07864454edf074e33289066f572a1][^c-2204bed149451b5272c7ad081c2808f7] In Part 1 of CA 1998, in Chapter 3 (investigation and enforcement), after section 44 insert—
 
 > **Supplementary**
 >
@@ -80,31 +80,31 @@ In Part 3 of EA 2002 (mergers), in Chapter 5 (supplementary), for section 126 (s
 >
 > Section 126 of the Enterprise Act 2002 (service of documents) applies to the giving of notices under this Chapter as it applies to the service of documents under Part 3 of that Act.
 
-**3.**[^key-e72a398c7e053ae9f591f85e34416fdc][^key-864aaca142f798b11c8a81bbfeb038f1] In section 61(4) of the Financial Services (Banking Reform) Act 2013 (functions of the Payment Systems Regulator under CA 1998), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**3.**[^c-e72a398c7e053ae9f591f85e34416fdc][^c-864aaca142f798b11c8a81bbfeb038f1] In section 61(4) of the Financial Services (Banking Reform) Act 2013 (functions of the Payment Systems Regulator under CA 1998), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**4.**[^key-2a5dd60727dd8d852940015c78625203][^key-aadb9d5cfaa302cdefe88eebf15777a3] In section 62(4) of the Civil Aviation Act 2012 (functions of the Civil Aviation Authority under CA 1998), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**4.**[^c-2a5dd60727dd8d852940015c78625203][^c-aadb9d5cfaa302cdefe88eebf15777a3] In section 62(4) of the Civil Aviation Act 2012 (functions of the Civil Aviation Authority under CA 1998), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**5.**[^key-9445c42e3406917aa560194b150e1da2][^key-ad71e985453a92dde1d0da35e1feb0ac] In section 371(3) of the Communications Act 2002 (functions of OFCOM under CA 1998), in the words before paragraph (a), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**5.**[^c-9445c42e3406917aa560194b150e1da2][^c-ad71e985453a92dde1d0da35e1feb0ac] In section 371(3) of the Communications Act 2002 (functions of OFCOM under CA 1998), in the words before paragraph (a), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**6.**[^key-63cd8146c367e433789082cc6202f80e][^key-84ad248f8d20880dc41ef188c6d9980d] In section 86(4)(b) of the Transport Act 2000 (functions of the Civil Aviation Authority with respect to competition), after “and 54” insert “but including references in provisions of the Enterprise Act 2002 applied by that Part”.
+**6.**[^c-63cd8146c367e433789082cc6202f80e][^c-84ad248f8d20880dc41ef188c6d9980d] In section 86(4)(b) of the Transport Act 2000 (functions of the Civil Aviation Authority with respect to competition), after “and 54” insert “but including references in provisions of the Enterprise Act 2002 applied by that Part”.
 
-**7.**[^key-5de008e6561c2982a265a7a4486cf431][^key-eed9c909d100b91684ac1eb630c8754b] In section 234J(4) of the Financial Services and Markets Act 2000 (functions of the FCA under CA 1998), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**7.**[^c-5de008e6561c2982a265a7a4486cf431][^c-eed9c909d100b91684ac1eb630c8754b] In section 234J(4) of the Financial Services and Markets Act 2000 (functions of the FCA under CA 1998), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**8.**[^key-62933ef305e66dab7a3bdf45b24ce7cb][^key-b8551dbebda26796e3f89af2165d9861] In section 67(3A) of the Railways Act 1993 (functions of the Office of Rail and Road with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**8.**[^c-62933ef305e66dab7a3bdf45b24ce7cb][^c-b8551dbebda26796e3f89af2165d9861] In section 67(3A) of the Railways Act 1993 (functions of the Office of Rail and Road with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**9.**[^key-6df494f34443b66e41714e5e2d80676c][^key-74a52a8584f0268d5fb4216b6ad1b81a] In section 31(4A) of the Water Industry Act 1991 (functions of Ofwat with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**9.**[^c-6df494f34443b66e41714e5e2d80676c][^c-74a52a8584f0268d5fb4216b6ad1b81a] In section 31(4A) of the Water Industry Act 1991 (functions of Ofwat with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**10.**[^key-c91ee94f385a81de90e36392b2ebcb9f][^key-8b1ec7eee1d1da12a54496d655c2f691] In section 43(3A) of the Electricity Act 1989 (functions of Ofgem with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**10.**[^c-c91ee94f385a81de90e36392b2ebcb9f][^c-8b1ec7eee1d1da12a54496d655c2f691] In section 43(3A) of the Electricity Act 1989 (functions of Ofgem with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**11.**[^key-418c124cfed054866e617416bd2ad74e][^key-00cf8869af210efe412417059cc47e9f] In section 36A(3A) of the Gas Act 1986 (functions of Ofgem with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**11.**[^c-418c124cfed054866e617416bd2ad74e][^c-00cf8869af210efe412417059cc47e9f] In section 36A(3A) of the Gas Act 1986 (functions of Ofgem with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**12.**[^key-588c72457e9fb69b817041e437c02859][^key-6b3bf77938532a34d66743cd0e781051] In Article 29(5) of the Water and Sewerage Services (Northern Ireland) Order 2006 ([S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336) (functions of the Northern Ireland Authority for Utility Regulation with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**12.**[^c-588c72457e9fb69b817041e437c02859][^c-6b3bf77938532a34d66743cd0e781051] In Article 29(5) of the Water and Sewerage Services (Northern Ireland) Order 2006 ([S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336) (functions of the Northern Ireland Authority for Utility Regulation with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**13.**[^key-831781e13314d916c87d2cb70b7e8794][^key-811d685540837d1088ebfe6ad264d72c] In Article 23(3A) of the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2))](https://www.legislation.gov.uk/nisi/1996/275) (functions of the Northern Ireland Authority for Utility Regulation with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**13.**[^c-831781e13314d916c87d2cb70b7e8794][^c-811d685540837d1088ebfe6ad264d72c] In Article 23(3A) of the Gas (Northern Ireland) Order 1996 ([S.I. 1996/275 (N.I. 2))](https://www.legislation.gov.uk/nisi/1996/275) (functions of the Northern Ireland Authority for Utility Regulation with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-**14.**[^key-9236428706ea94c24745b92078fb2b5a][^key-91ff39c2789637d56474455dc0d0c8d0] In Article 46(3A) of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1))](https://www.legislation.gov.uk/nisi/1992/231) (functions of the Northern Ireland Authority for Utility Regulation with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
+**14.**[^c-9236428706ea94c24745b92078fb2b5a][^c-91ff39c2789637d56474455dc0d0c8d0] In Article 46(3A) of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1))](https://www.legislation.gov.uk/nisi/1992/231) (functions of the Northern Ireland Authority for Utility Regulation with respect to competition), after “Part 1 of the Competition Act 1998” insert “(including references in provisions of the Enterprise Act 2002 applied by that Part)”.
 
-### 15. Extra-territoriality of notices under CA 1998 and EA 2002[^key-7284dd68e14a59da23c4e733443c9785][^key-42359f6cd0545821bdbb7778e78bddbc]
+### 15. Extra-territoriality of notices under CA 1998 and EA 2002[^c-7284dd68e14a59da23c4e733443c9785][^c-42359f6cd0545821bdbb7778e78bddbc]
 
 In Chapter 3 of Part 1 of CA 1998 (investigation and enforcement), after section 44A (inserted by paragraph 2) insert—
 
@@ -142,7 +142,7 @@ In Chapter 3 of Part 1 of CA 1998 (investigation and enforcement), after section
 >
 > (7) Nothing in this section is to be taken to limit any other power of the CMA to give a notice under section 26 or 40ZD to a person outside the United Kingdom.
 
-**16.**[^key-ed25ca3e4f9054f492f3143713d538b6][^key-846b409647f751c34485e5708c019b27] In Chapter 5 of Part 3 of EA 2002 (mergers: supplementary: investigation powers), after section 109A insert—
+**16.**[^c-ed25ca3e4f9054f492f3143713d538b6][^c-846b409647f751c34485e5708c019b27] In Chapter 5 of Part 3 of EA 2002 (mergers: supplementary: investigation powers), after section 109A insert—
 
 > **109B. Extra-territorial application of notices under section 109**
 >
@@ -167,7 +167,7 @@ In Chapter 3 of Part 1 of CA 1998 (investigation and enforcement), after section
 >
 > (5) Nothing in this section is to be taken to limit any other power of the CMA to give a notice under section 109(2) or (3) to a person outside the United Kingdom.
 
-**17.**[^key-5790b9323d602900ef0ca3737fb3938b][^key-45c4195a99ddbce41c8fc286d2ceeeee] In Chapter 4 of Part 4 of EA 2002 (market studies and market investigations: supplementary: investigation powers), after section 174 insert—
+**17.**[^c-5790b9323d602900ef0ca3737fb3938b][^c-45c4195a99ddbce41c8fc286d2ceeeee] In Chapter 4 of Part 4 of EA 2002 (market studies and market investigations: supplementary: investigation powers), after section 174 insert—
 
 > **174ZA. Extra-territorial application of notices under section 174**
 >
@@ -191,70 +191,70 @@ In Chapter 3 of Part 1 of CA 1998 (investigation and enforcement), after section
 
 ## Annotations
 
-[^key-4df3ce3694f03a2c1a8de8e31c568447]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-4df3ce3694f03a2c1a8de8e31c568447]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e481797530028742d9e50e4f09f12870]: Commencement: Sch. 13 para. 1 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17) (with [Sch. paras. 17(1)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/17/1), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-e481797530028742d9e50e4f09f12870]: Commencement: Sch. 13 para. 1 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17) (with [Sch. paras. 17(1)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/17/1), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-c7d07864454edf074e33289066f572a1]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c7d07864454edf074e33289066f572a1]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-2204bed149451b5272c7ad081c2808f7]: Commencement: Sch. 13 para. 2 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17) (with [Sch. paras. 17(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/17/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-2204bed149451b5272c7ad081c2808f7]: Commencement: Sch. 13 para. 2 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17) (with [Sch. paras. 17(2)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/17/2), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-e72a398c7e053ae9f591f85e34416fdc]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-e72a398c7e053ae9f591f85e34416fdc]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-864aaca142f798b11c8a81bbfeb038f1]: Commencement: Sch. 13 para. 3 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-864aaca142f798b11c8a81bbfeb038f1]: Commencement: Sch. 13 para. 3 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-2a5dd60727dd8d852940015c78625203]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-2a5dd60727dd8d852940015c78625203]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-aadb9d5cfaa302cdefe88eebf15777a3]: Commencement: Sch. 13 para. 4 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-aadb9d5cfaa302cdefe88eebf15777a3]: Commencement: Sch. 13 para. 4 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-9445c42e3406917aa560194b150e1da2]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9445c42e3406917aa560194b150e1da2]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-ad71e985453a92dde1d0da35e1feb0ac]: Commencement: Sch. 13 para. 5 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-ad71e985453a92dde1d0da35e1feb0ac]: Commencement: Sch. 13 para. 5 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-63cd8146c367e433789082cc6202f80e]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-63cd8146c367e433789082cc6202f80e]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-84ad248f8d20880dc41ef188c6d9980d]: Commencement: Sch. 13 para. 6 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-84ad248f8d20880dc41ef188c6d9980d]: Commencement: Sch. 13 para. 6 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-5de008e6561c2982a265a7a4486cf431]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5de008e6561c2982a265a7a4486cf431]: Commencement: Sch. 13 para. 7 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-eed9c909d100b91684ac1eb630c8754b]: Commencement: Sch. 13 para. 7 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-eed9c909d100b91684ac1eb630c8754b]: Commencement: Sch. 13 para. 7 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-62933ef305e66dab7a3bdf45b24ce7cb]: Commencement: Sch. 13 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-62933ef305e66dab7a3bdf45b24ce7cb]: Commencement: Sch. 13 para. 8 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b8551dbebda26796e3f89af2165d9861]: Commencement: Sch. 13 para. 8 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-b8551dbebda26796e3f89af2165d9861]: Commencement: Sch. 13 para. 8 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-6df494f34443b66e41714e5e2d80676c]: Commencement: Sch. 13 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-6df494f34443b66e41714e5e2d80676c]: Commencement: Sch. 13 para. 9 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-74a52a8584f0268d5fb4216b6ad1b81a]: Commencement: Sch. 13 para. 9 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-74a52a8584f0268d5fb4216b6ad1b81a]: Commencement: Sch. 13 para. 9 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-c91ee94f385a81de90e36392b2ebcb9f]: Commencement: Sch. 13 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c91ee94f385a81de90e36392b2ebcb9f]: Commencement: Sch. 13 para. 10 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8b1ec7eee1d1da12a54496d655c2f691]: Commencement: Sch. 13 para. 10 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-8b1ec7eee1d1da12a54496d655c2f691]: Commencement: Sch. 13 para. 10 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-418c124cfed054866e617416bd2ad74e]: Commencement: Sch. 13 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-418c124cfed054866e617416bd2ad74e]: Commencement: Sch. 13 para. 11 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-00cf8869af210efe412417059cc47e9f]: Commencement: Sch. 13 para. 11 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-00cf8869af210efe412417059cc47e9f]: Commencement: Sch. 13 para. 11 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-588c72457e9fb69b817041e437c02859]: Commencement: Sch. 13 para. 12 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-588c72457e9fb69b817041e437c02859]: Commencement: Sch. 13 para. 12 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6b3bf77938532a34d66743cd0e781051]: Commencement: Sch. 13 para. 12 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-6b3bf77938532a34d66743cd0e781051]: Commencement: Sch. 13 para. 12 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-831781e13314d916c87d2cb70b7e8794]: Commencement: Sch. 13 para. 13 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-831781e13314d916c87d2cb70b7e8794]: Commencement: Sch. 13 para. 13 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-811d685540837d1088ebfe6ad264d72c]: Commencement: Sch. 13 para. 13 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-811d685540837d1088ebfe6ad264d72c]: Commencement: Sch. 13 para. 13 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-9236428706ea94c24745b92078fb2b5a]: Commencement: Sch. 13 para. 14 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-9236428706ea94c24745b92078fb2b5a]: Commencement: Sch. 13 para. 14 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-91ff39c2789637d56474455dc0d0c8d0]: Commencement: Sch. 13 para. 14 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-91ff39c2789637d56474455dc0d0c8d0]: Commencement: Sch. 13 para. 14 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-7284dd68e14a59da23c4e733443c9785]: Commencement: Sch. 13 para. 15 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-7284dd68e14a59da23c4e733443c9785]: Commencement: Sch. 13 para. 15 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-42359f6cd0545821bdbb7778e78bddbc]: Commencement: Sch. 13 para. 15 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-42359f6cd0545821bdbb7778e78bddbc]: Commencement: Sch. 13 para. 15 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-ed25ca3e4f9054f492f3143713d538b6]: Commencement: Sch. 13 para. 16 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ed25ca3e4f9054f492f3143713d538b6]: Commencement: Sch. 13 para. 16 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-846b409647f751c34485e5708c019b27]: Commencement: Sch. 13 para. 16 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-846b409647f751c34485e5708c019b27]: Commencement: Sch. 13 para. 16 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
 
-[^key-5790b9323d602900ef0ca3737fb3938b]: Commencement: Sch. 13 para. 17 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-5790b9323d602900ef0ca3737fb3938b]: Commencement: Sch. 13 para. 17 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-45c4195a99ddbce41c8fc286d2ceeeee]: Commencement: Sch. 13 para. 17 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)
+[^c-45c4195a99ddbce41c8fc286d2ceeeee]: Commencement: Sch. 13 para. 17 in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(17)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/17)

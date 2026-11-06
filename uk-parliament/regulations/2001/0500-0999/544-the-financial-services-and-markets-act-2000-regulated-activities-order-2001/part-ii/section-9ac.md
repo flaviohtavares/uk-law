@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9AC. Local authorities[^key-f857979787f5371e597be13afcae158a]
+## 9AC. Local authorities[^c-f857979787f5371e597be13afcae158a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Article 5 is subject to the exclusion in article 72G (local authorities).
 
 ## Annotations
 
-[^key-f857979787f5371e597be13afcae158a]: Textual amendment: Art. 9AC inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(3)](https://www.legislation.gov.uk/uksi/2014/366/article/2/3)
+[^c-f857979787f5371e597be13afcae158a]: Textual amendment: Art. 9AC inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(3)](https://www.legislation.gov.uk/uksi/2014/366/article/2/3)

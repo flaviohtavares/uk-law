@@ -64,7 +64,7 @@ In these Regulations—
 - “**employer**”, in relation to a cross-border worker, means the person by whom the worker is (or where the employment has ceased, was) employed;
 - “**employment**”, in relation to a cross-border worker, means employment under the worker's contract, and “**employed**” is to be construed accordingly;
 - “**inspector**” means a person appointed under paragraph 1 of Schedule 2;
-- “interoperable cross-border services” are services for the carriage of passengers or goods by way of the tunnel system, as defined by section 1(7) of the Channel Tunnel Act 1987 (excluding shuttle services, as defined by section 1(9) of that Act);[^key-1c601478164effccdbeb4b7d84813546]
+- “interoperable cross-border services” are services for the carriage of passengers or goods by way of the tunnel system, as defined by section 1(7) of the Channel Tunnel Act 1987 (excluding shuttle services, as defined by section 1(9) of that Act);[^c-1c601478164effccdbeb4b7d84813546]
 - “leave year” for a cross-border worker is the year beginning on—
   - (a) such date as is provided for in a relevant agreement, or
   - (b) if there are no provisions of a relevant agreement which apply, on 1 January;
@@ -190,13 +190,13 @@ In these Regulations—
 (2) The employer of a cross-border worker must, upon request, provide to—
 
 - (a) a cross-border worker, or (as the case may be)
-- (b) the Office of Rail and Road[^key-b05e5e7dbf2d9dc8fa99f44a62d9d13f],
+- (b) the Office of Rail and Road[^c-b05e5e7dbf2d9dc8fa99f44a62d9d13f],
 
 a copy of the records retained in accordance with paragraph (1) in respect of that cross-border worker.
 
 ## 10. Enforcement
 
-(1) It is the duty of the Office of Rail and Road[^key-de93925234cddfbb33a7009909c5150d] to make adequate arrangements for the enforcement of regulations 8(3) and 9.
+(1) It is the duty of the Office of Rail and Road[^c-de93925234cddfbb33a7009909c5150d] to make adequate arrangements for the enforcement of regulations 8(3) and 9.
 
 (2) The provisions of Schedule 2 apply in relation to the enforcement of regulations 8(3) and 9.
 
@@ -254,7 +254,7 @@ Proceedings for an offence must not, in England and Wales, be instituted except 
 
 ## 15. Prosecutions by inspectors
 
-(1) An inspector, although not of counsel or a solicitor, may prosecute before a magistrate's court proceedings for an offence under these Regulations if authorised in that behalf by the Office of Rail and Road[^key-5fcec4f96415bc42e4e9583845bf239f].
+(1) An inspector, although not of counsel or a solicitor, may prosecute before a magistrate's court proceedings for an offence under these Regulations if authorised in that behalf by the Office of Rail and Road[^c-5fcec4f96415bc42e4e9583845bf239f].
 
 (2) This regulation does not apply to Scotland.
 
@@ -275,7 +275,7 @@ Proceedings for an offence must not, in England and Wales, be instituted except 
 - (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period extending over more than one day, the date on which it should have been permitted to begin);
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-6b5fd47a41c32ba8c01246b24399ee4a] Regulation 17A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-6b5fd47a41c32ba8c01246b24399ee4a] Regulation 17A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where the period within which a complaint must be presented in accordance with paragraph (2) is extended by regulation 15 of the Employment Act 2002 (Dispute Resolution) Regulations 2004 [^c19309701], the period within which the complaint must be presented is the extended period rather than the period in paragraph (2).
 
@@ -289,7 +289,7 @@ Proceedings for an offence must not, in England and Wales, be instituted except 
 - (a) the employer's default in refusing to permit the worker to exercise the worker's right, and
 - (b) any loss sustained by the worker which is attributable to the matters complained of.
 
-## 17A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-003334a5bb30423f912bd821f49a5a86]
+## 17A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-003334a5bb30423f912bd821f49a5a86]
 
 (1) In this regulation—
 
@@ -311,10 +311,10 @@ Proceedings for an offence must not, in England and Wales, be instituted except 
 
 (2) Paragraph (1) does not apply to—
 
-- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^key-43013186dc3e46a06d53e08394ac8bdd] of the Employment Tribunals Act 1996 [^c19309711] (conciliation); or
-- (b) any agreement to refrain from instituting or continuing proceedings under regulation 17, if the conditions regulating settlement[^key-e1a23769545b2824a9af0039cb908926] agreements under these Regulations are satisfied in relation to the agreement.
+- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of sections 18A to 18C[^c-43013186dc3e46a06d53e08394ac8bdd] of the Employment Tribunals Act 1996 [^c19309711] (conciliation); or
+- (b) any agreement to refrain from instituting or continuing proceedings under regulation 17, if the conditions regulating settlement[^c-e1a23769545b2824a9af0039cb908926] agreements under these Regulations are satisfied in relation to the agreement.
 
-(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^key-6c9f51522f2d4b6d5b7e8089bf4bd513] agreements under these Regulations are that—
+(3) For the purposes of paragraph (2)(b) the conditions regulating settlement[^c-6c9f51522f2d4b6d5b7e8089bf4bd513] agreements under these Regulations are that—
 
 - (a) the agreement must be in writing,
 - (b) the agreement must relate to the particular complaint,
@@ -401,7 +401,7 @@ Regulation 10
 
 ### 1. Appointment of inspectors
 
-(1) The Office of Rail and Road[^key-2da13511cbc9297e1bac848e0bf8bf74] may appoint as inspectors (under whatever title it may from time to time determine) such persons having suitable qualifications as it thinks necessary for carrying into effect these Regulations within its field of responsibility, and may terminate any appointment made under this paragraph.
+(1) The Office of Rail and Road[^c-2da13511cbc9297e1bac848e0bf8bf74] may appoint as inspectors (under whatever title it may from time to time determine) such persons having suitable qualifications as it thinks necessary for carrying into effect these Regulations within its field of responsibility, and may terminate any appointment made under this paragraph.
 
 (2) Every appointment of a person as an inspector under this paragraph must be made by an instrument in writing specifying which of the powers conferred on inspectors by these Regulations are to be exercisable by the person appointed; and an inspector in right of an appointment under this paragraph—
 
@@ -418,7 +418,7 @@ Regulation 10
 
 (2) The powers of an inspector referred to in sub-paragraph (1) are the following, namely—
 
-- (a)[^key-77a03fa70fdc546bb556df942d8bee8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-77a03fa70fdc546bb556df942d8bee8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b)[^M_F_3dc9d702-edd7-4af5-9e6a-6508605dec90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c)[^M_F_216f8fb1-0ec9-4f62-be47-68628dd56bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) to make such examination and investigation as may in any circumstances be necessary for the purpose mentioned in sub-paragraph (1);
@@ -639,33 +639,33 @@ Copies of the Impact Assessment and of the Transposition Note may also be access
 
 [^c19309671]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-1c601478164effccdbeb4b7d84813546]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1660/regulation/2) substituted (31.12.2020) by [The Cross-border Railway Services (Working Time) (Amendment) (EU Exit) Order 2018 (S.I. 2018/874)](https://www.legislation.gov.uk/uksi/2018/874), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/874/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/874/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c601478164effccdbeb4b7d84813546]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2008/1660/regulation/2) substituted (31.12.2020) by [The Cross-border Railway Services (Working Time) (Amendment) (EU Exit) Order 2018 (S.I. 2018/874)](https://www.legislation.gov.uk/uksi/2018/874), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/874/article/1/1), [3](https://www.legislation.gov.uk/uksi/2018/874/article/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b05e5e7dbf2d9dc8fa99f44a62d9d13f]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/9/2/b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/i)
+[^c-b05e5e7dbf2d9dc8fa99f44a62d9d13f]: Textual amendment: Words in [reg. 9(2)(b)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/9/2/b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/i)
 
-[^key-de93925234cddfbb33a7009909c5150d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/10/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/ii)
+[^c-de93925234cddfbb33a7009909c5150d]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/10/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/ii)
 
-[^key-5fcec4f96415bc42e4e9583845bf239f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/15/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iii)
+[^c-5fcec4f96415bc42e4e9583845bf239f]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/15/1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iii)
 
-[^key-6b5fd47a41c32ba8c01246b24399ee4a]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/54)
+[^c-6b5fd47a41c32ba8c01246b24399ee4a]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17/2A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 54](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/54)
 
 [^c19309701]: Marginal citation: [S.I. 2004/752](https://www.legislation.gov.uk/uksi/2004/752)
 
-[^key-003334a5bb30423f912bd821f49a5a86]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/55)
+[^c-003334a5bb30423f912bd821f49a5a86]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2008/1660/regulation/17A) inserted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 55](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/55)
 
-[^key-43013186dc3e46a06d53e08394ac8bdd]: Textual amendment: Words in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/18/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/56)
+[^c-43013186dc3e46a06d53e08394ac8bdd]: Textual amendment: Words in [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2008/1660/regulation/18/2/a) substituted (6.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2014 (S.I. 2014/386)](https://www.legislation.gov.uk/uksi/2014/386), [art. 1](https://www.legislation.gov.uk/uksi/2014/386/article/1), [Sch. para. 56](https://www.legislation.gov.uk/uksi/2014/386/schedule/paragraph/56)
 
 [^c19309711]: Marginal citation: [1996 c.17](https://www.legislation.gov.uk/ukpga/1996/17); section 1(2) of the [Employment Rights (Dispute Resolution) Act 1998 (c.8)](https://www.legislation.gov.uk/ukpga/1998/8) provides for the Industrial Tribunals Act 1996 to be cited as the Employment Tribunals Act 1996. Section 18 has been amended by the [Employment Act 2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22), [section 24(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/24/2) and Schedule 7, paragraph 23(2). Regulation 19 and paragraph (1) of Schedule 3 inserts paragraph (u) in section 18(1). There have been other amendments to section 18, but none is relevant to regulation 18.
 
-[^key-e1a23769545b2824a9af0039cb908926]: Textual amendment: Word in reg. 18(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/14)
+[^c-e1a23769545b2824a9af0039cb908926]: Textual amendment: Word in reg. 18(2) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/14)
 
-[^key-6c9f51522f2d4b6d5b7e8089bf4bd513]: Textual amendment: Word in reg. 18(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/14)
+[^c-6c9f51522f2d4b6d5b7e8089bf4bd513]: Textual amendment: Word in reg. 18(3) substituted (30.8.2013) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Employment) Order 2013 (S.I. 2013/1956)](https://www.legislation.gov.uk/uksi/2013/1956), [art. 1](https://www.legislation.gov.uk/uksi/2013/1956/article/1), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/1956/schedule/paragraph/14)
 
 [^c19309721]: Marginal citation: [1990 c.41](https://www.legislation.gov.uk/ukpga/1990/41)
 
-[^key-2da13511cbc9297e1bac848e0bf8bf74]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1660/schedule/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iv)
+[^c-2da13511cbc9297e1bac848e0bf8bf74]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1660/schedule/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(u)(iv)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/u/iv)
 
-[^key-77a03fa70fdc546bb556df942d8bee8d]: Textual amendment: Sch. 2 para. 2(2)(a) revoked (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/14/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
+[^c-77a03fa70fdc546bb556df942d8bee8d]: Textual amendment: Sch. 2 para. 2(2)(a) revoked (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/14/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
 
 [^M_F_3dc9d702-edd7-4af5-9e6a-6508605dec90]: Textual amendment: Sch. 2 para. 2(2)(b) revoked (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 14(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/14/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
 

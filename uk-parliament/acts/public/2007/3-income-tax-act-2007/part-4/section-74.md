@@ -22,10 +22,10 @@ summary: ''
 
 (1) Early trade losses relief for a loss made by an individual in a trade in a tax year is not available unless the trade is commercial.
 
-(2) The trade is commercial if it is carried on throughout [^key-ee769ee02b276d6ff012951de36bf0a5]... the tax year—
+(2) The trade is commercial if it is carried on throughout [^c-ee769ee02b276d6ff012951de36bf0a5]... the tax year—
 
 - (a) on a commercial basis, and
-- (b) in such a way that profits of the trade could reasonably be expected to be made in the tax year[^key-bf2fb825ccb8a91114ea1d29bf1017eb] or within a reasonable time afterwards.
+- (b) in such a way that profits of the trade could reasonably be expected to be made in the tax year[^c-bf2fb825ccb8a91114ea1d29bf1017eb] or within a reasonable time afterwards.
 
 (3) If the trade forms part of a larger undertaking, the reference to profits of the trade is to be read as a reference to profits of the undertaking as a whole.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ee769ee02b276d6ff012951de36bf0a5]: Textual amendment: Words in [s. 74(2)](https://www.legislation.gov.uk/ukpga/2007/3/section/74/2) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 44(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/44/a), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-ee769ee02b276d6ff012951de36bf0a5]: Textual amendment: Words in [s. 74(2)](https://www.legislation.gov.uk/ukpga/2007/3/section/74/2) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 44(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/44/a), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-bf2fb825ccb8a91114ea1d29bf1017eb]: Textual amendment: Words in [s. 74(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/74/2/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 44(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/44/b), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-bf2fb825ccb8a91114ea1d29bf1017eb]: Textual amendment: Words in [s. 74(2)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/74/2/b) substituted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 44(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/44/b), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

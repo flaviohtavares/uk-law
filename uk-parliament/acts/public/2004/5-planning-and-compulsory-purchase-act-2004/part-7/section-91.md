@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 91. Special provision for certain circumstances where disclosure of information as to national security may occur: Scotland[^key-d1e51201591e3b1292e507071aa5d06b][^key-0ae5269b6cf8e3bf5553ff5197a821a5]
+## 91. Special provision for certain circumstances where disclosure of information as to national security may occur: Scotland[^c-d1e51201591e3b1292e507071aa5d06b][^c-0ae5269b6cf8e3bf5553ff5197a821a5]
 
 *Extent: S*
 
@@ -87,6 +87,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1e51201591e3b1292e507071aa5d06b]: Commencement: S. 91 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-d1e51201591e3b1292e507071aa5d06b]: Commencement: S. 91 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-0ae5269b6cf8e3bf5553ff5197a821a5]: Commencement: S. 91 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)
+[^c-0ae5269b6cf8e3bf5553ff5197a821a5]: Commencement: S. 91 in force at 7.6.2006 in so far as not already in force by [S.I. 2006/1281](https://www.legislation.gov.uk/uksi/2006/1281), [art. 3](https://www.legislation.gov.uk/uksi/2006/1281/article/3)

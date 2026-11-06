@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Indemnity arrangements[^key-c23b473f49934be438a1f1b63135c876]
+## 26A. Indemnity arrangements[^c-c23b473f49934be438a1f1b63135c876]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,10 +62,10 @@ summary: ''
 - (b) this section; and
 - (c) any rules made under section 34B which apply to that person's case.
 
-(11)[^key-8026e3e04b47ddca031a1fd8115ddb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-8026e3e04b47ddca031a1fd8115ddb1e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c23b473f49934be438a1f1b63135c876]: Textual amendment: S. 26A substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/4)
+[^c-c23b473f49934be438a1f1b63135c876]: Textual amendment: S. 26A substituted (17.7.2014) by [The Health Care and Associated Professions (Indemnity Arrangements) Order 2014 (S.I. 2014/1887)](https://www.legislation.gov.uk/uksi/2014/1887), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1887/article/1/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2014/1887/schedule/1/paragraph/4)
 
-[^key-8026e3e04b47ddca031a1fd8115ddb1e]: Textual amendment: S. 26A(11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/paragraph/12) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [11(4)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8026e3e04b47ddca031a1fd8115ddb1e]: Textual amendment: S. 26A(11) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/paragraph/12) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [11(4)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

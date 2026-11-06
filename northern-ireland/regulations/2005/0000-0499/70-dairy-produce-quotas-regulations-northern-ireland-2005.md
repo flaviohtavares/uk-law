@@ -43,13 +43,13 @@ The Department of Agriculture and Rural Development, being a Department designat
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-7e6fcb7b7346bc108781fd3d636dd881]
+### 1. Citation and commencement[^c-7e6fcb7b7346bc108781fd3d636dd881]
 
 These Regulations may be cited as the Dairy Produce Quotas Regulations (Northern Ireland) 2005 and shall come into operation on 31st March 2005.
 
-### 2. Interpretation[^key-d4ede584cd94ee4548832b3484e848de]
+### 2. Interpretation[^c-d4ede584cd94ee4548832b3484e848de]
 
-(1)[^key-40e0944ae4c3ee50dd792dccad09358c] In these Regulations—
+(1)[^c-40e0944ae4c3ee50dd792dccad09358c] In these Regulations—
 
 - “the Commission Regulation” means [Commission Regulation (EC) No 595/2004](https://www.legislation.gov.uk/european/regulation/2004/0595) laying down detailed rules for applying Council Regulation [(EC) No 1788/2003](https://www.legislation.gov.uk/european/regulation/2003/1788) establishing a levy in the milk and milk products sector;
 - “**the Community legislation**” means—
@@ -125,13 +125,13 @@ shall have the same meaning as in the Community legislation.
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-### 3. Application[^key-ea299aa8063be74e217648f426cef2b8]
+### 3. Application[^c-ea299aa8063be74e217648f426cef2b8]
 
 Except as otherwise provided, these Regulations shall apply to relevant persons in respect of whom the Department is the relevant competent authority.
 
 ## PART 2 — REGISTRATION OF QUOTA
 
-### 4. Registers and notices to be maintained and prepared by the Department[^key-8c7e467aa44cdd3bf242671cbf6f9035]
+### 4. Registers and notices to be maintained and prepared by the Department[^c-8c7e467aa44cdd3bf242671cbf6f9035]
 
 (1) The Department shall –
 
@@ -185,7 +185,7 @@ Except as otherwise provided, these Regulations shall apply to relevant persons 
 - (a) remain registered pursuant to this regulation; and
 - (b) for the purposes of this regulation, and regulations 6, 7(a) and 33(1), continue to be regarded as a producer,
 
-until the start of the quota year following the year in which the quota available to him has been transferred or until the quota has been withdrawn under Article 72 of the Council Regulation[^key-a5cf31581526eec1fd0dc2a20a9c6b49].
+until the start of the quota year following the year in which the quota available to him has been transferred or until the quota has been withdrawn under Article 72 of the Council Regulation[^c-a5cf31581526eec1fd0dc2a20a9c6b49].
 
 (10) The obligation under paragraphs (1)(b), (3)(b) and (c) and (5)(b) is an obligation to send a copy of –
 
@@ -194,7 +194,7 @@ until the start of the quota year following the year in which the quota availabl
 
 as the case may be, as it has effect on 1st April in each year.
 
-### 5. Approval of purchasers[^key-bce97b1d36962ffdd4808af0d5467cd1]
+### 5. Approval of purchasers[^c-bce97b1d36962ffdd4808af0d5467cd1]
 
 (1) For the purposes of Article 23 of the Commission Regulation (which concerns the approval of purchasers), a purchaser shall make an application to the Department for approval in such form as the Department may reasonably require.
 
@@ -220,7 +220,7 @@ as the case may be, as it has effect on 1st April in each year.
 - (a) confirm to each producer supplying him that he is approved pursuant to Article 23 of the Commission Regulation and this regulation and provide details of the approval if requested; and
 - (b) notify each producer supplying him if the approval is withdrawn.
 
-### 6. Obligations of producers and purchasers with respect to registration and deliveries[^key-80bcb2acee5211a9a908a06a18de68d5]
+### 6. Obligations of producers and purchasers with respect to registration and deliveries[^c-80bcb2acee5211a9a908a06a18de68d5]
 
 (1) Each –
 
@@ -244,26 +244,26 @@ shall register his quota with the Department.
 
 (5) Each purchaser shall amend the register referred to in paragraph (2)(a) as directed by the Department on each occasion when he is notified by the Department that the equivalent register maintained by the Department has been amended in relation to wholesale producers registered in that purchaser’s register.
 
-### 7. Inspection of entries in the Department’s registers[^key-b8c3993432ddbeffdc4f9b6dbb1b5bfb]
+### 7. Inspection of entries in the Department’s registers[^c-b8c3993432ddbeffdc4f9b6dbb1b5bfb]
 
 If a request –
 
 - (a) is made in respect of a register entry referred to in regulation 4(2) or (4) by any person who –
-  - (i)[^key-b3a5f9a9e0faf796ed76122db4e86ad4] is the quota holder identified in that entry, or
+  - (i)[^c-b3a5f9a9e0faf796ed76122db4e86ad4] is the quota holder identified in that entry, or
   - (ii) gives the Department a statement in writing that he has an interest in the holding of the quota holder identified in that entry; or
 - (b) is made by a purchaser in respect of an entry in the register referred to in regulation 4(6) relating to himself,
 
 the Department may, on payment of a reasonable charge, supply to the person making the request a copy of the register entry.
 
-### 8. Registers as evidence[^key-9a3ac73b98b06369d711f2508e961a70]
+### 8. Registers as evidence[^c-9a3ac73b98b06369d711f2508e961a70]
 
 In any proceedings, any entry in a register which the Department is required by these Regulations to maintain shall be evidence of the matters stated in it.
 
 ## PART 3 — TRANSFERS OF QUOTA
 
-### 9. Transfer of quota with transfer of land: general[^key-8d6a6cecb489a6ae2006159b38804cf7]
+### 9. Transfer of quota with transfer of land: general[^c-8d6a6cecb489a6ae2006159b38804cf7]
 
-(1) Subject to regulations 14 and 16, this regulation shall apply for the purposes of Article 74 of the Council Regulation[^key-13de1506e358725eb54cea7b6f81dccf] (which concerns the transfer of quota with a holding when the holding is sold, leased, transferred by inheritance or subjected to other cases of transfer involving comparable legal effects for producers) in respect of a transfer of a holding or part of a holding.
+(1) Subject to regulations 14 and 16, this regulation shall apply for the purposes of Article 74 of the Council Regulation[^c-13de1506e358725eb54cea7b6f81dccf] (which concerns the transfer of quota with a holding when the holding is sold, leased, transferred by inheritance or subjected to other cases of transfer involving comparable legal effects for producers) in respect of a transfer of a holding or part of a holding.
 
 (2) The transferee of the holding or the part of the holding shall submit to the Department –
 
@@ -272,7 +272,7 @@ In any proceedings, any entry in a register which the Department is required by 
 
 as the Department may reasonably require.
 
-(3) The notice of transfer shall reach the Department no later than 31st March in the quota year in which the transfer takes place.[^key-84fd8c47ec7d3f84fc9aafd7f681cfac]
+(3) The notice of transfer shall reach the Department no later than 31st March in the quota year in which the transfer takes place.[^c-84fd8c47ec7d3f84fc9aafd7f681cfac]
 
 (4) The information referred to in paragraph (2)(b) shall reach the Department within such time as the Department may reasonably require.
 
@@ -284,7 +284,7 @@ as the Department may reasonably require.
   - (ii) where such an apportionment has been agreed, a consent or sole interest notice, provided by the transferor in respect of the holding; and
 - (c) in the case of a transfer of the whole of a holding, a consent or sole interest notice, provided by the transferor in respect of the holding.
 
-### 10. Transfer of part of holding[^key-ab4db4ab5927362fc49a2376ab2ad07f]
+### 10. Transfer of part of holding[^c-ab4db4ab5927362fc49a2376ab2ad07f]
 
 (1) Subject to regulations 14 and 16, this regulation shall apply where there is a transfer of part of a holding.
 
@@ -307,7 +307,7 @@ from the holding during the quota year in which the change of occupation takes p
 - (a) in such form as the Department may reasonably require; and
 - (b) at the same time as the submission of the notice of transfer in accordance with regulation 9.
 
-### 11. Prospective apportionment of quota[^key-421c8e7096c00d4d65328512f455b128]
+### 11. Prospective apportionment of quota[^c-421c8e7096c00d4d65328512f455b128]
 
 (1) Where the occupier of a holding requires a prospective apportionment of quota relating to that holding, he shall apply for such an apportionment to the Department in such form as the Department may reasonably require, requesting either –
 
@@ -338,7 +338,7 @@ the request or notice shall be accompanied by a consent or sole interest notice 
 
 (6) Paragraph (4) shall not apply to a change of occupation to which regulation 16(1) applies.
 
-### 12. Cases where apportionment of quota by arbitration is required[^key-b00bac67fa129dc5ecb84a7f4c3e5a53]
+### 12. Cases where apportionment of quota by arbitration is required[^c-b00bac67fa129dc5ecb84a7f4c3e5a53]
 
 (1) This regulation shall apply where –
 
@@ -354,11 +354,11 @@ the request or notice shall be accompanied by a consent or sole interest notice 
 
 (3) Where the Department gives a notice under paragraph (2), the apportionment or prospective apportionment of the quota concerned shall be determined by arbitration in accordance with Schedule 1.
 
-### 13. Transfer of quota without transfer of land[^key-3653800e7f5b9f7c13b22eb3456627ad]
+### 13. Transfer of quota without transfer of land[^c-3653800e7f5b9f7c13b22eb3456627ad]
 
 (1) This regulation shall be subject to regulation 16(2) and (3).
 
-(2) This regulation shall apply where the competent authorities in England, Wales, Scotland and Northern Ireland have jointly determined, in accordance with paragraphs (1)(e) and (2) of Article 75 of the Council Regulation[^key-1294a2643cd8197ba3db8f6ff66da11e], that within each United Kingdom quota region the transfer of quota without transfer of the corresponding land is authorised.
+(2) This regulation shall apply where the competent authorities in England, Wales, Scotland and Northern Ireland have jointly determined, in accordance with paragraphs (1)(e) and (2) of Article 75 of the Council Regulation[^c-1294a2643cd8197ba3db8f6ff66da11e], that within each United Kingdom quota region the transfer of quota without transfer of the corresponding land is authorised.
 
 (3) A transferee of quota for whom the Department is the relevant competent authority shall submit to it a notice of any such transfer within the general quota region in such form as the Department may reasonably require.
 
@@ -375,7 +375,7 @@ the request or notice shall be accompanied by a consent or sole interest notice 
 - (a) “general quota region” means the United Kingdom other than the Scottish Islands area; and
 - (b) “United Kingdom quota region” means a Scottish Islands area or the general quota region.
 
-### 14. Retention of quota at the end of a tenancy[^key-015e879780da7c3991a1affd87081fb1]
+### 14. Retention of quota at the end of a tenancy[^c-015e879780da7c3991a1affd87081fb1]
 
 (1) This regulation shall have effect as respects tenancies ending after 31st March 2005.
 
@@ -399,9 +399,9 @@ the request or notice shall be accompanied by a consent or sole interest notice 
   - (i) that he and his landlord have not agreed that, after the expiry of the tenancy, the quota should be registered in relation to the holding which then comprises or, as the case may be, includes, the land, stating the amounts of used and unused quota involved; and
   - (ii) that he continues to be a producer.
 
-### 15. Temporary transfer of quota[^key-5c9c1ffab07aa059e12cf83ed3d83e4c]
+### 15. Temporary transfer of quota[^c-5c9c1ffab07aa059e12cf83ed3d83e4c]
 
-(1) Subject to regulation 16(2), for the purposes of Article 73 of the Council Regulation[^key-ac5bed889afbcddff6e06daef090bc20] (which concerns the temporary transfer of quota), a producer may agree with another producer to make a temporary transfer to that other producer of any unused quota which is registered under regulation 4 as permanently held by the producer if other quota (whether or not unused) remains so registered.
+(1) Subject to regulation 16(2), for the purposes of Article 73 of the Council Regulation[^c-ac5bed889afbcddff6e06daef090bc20] (which concerns the temporary transfer of quota), a producer may agree with another producer to make a temporary transfer to that other producer of any unused quota which is registered under regulation 4 as permanently held by the producer if other quota (whether or not unused) remains so registered.
 
 (2) Quota may only be temporarily transferred pursuant to paragraph (1) for such period as shall end on the 31st March in the quota year in which the transfer takes place.
 
@@ -411,7 +411,7 @@ the request or notice shall be accompanied by a consent or sole interest notice 
 
 (5) A notice referred to in paragraph (4) shall be in such form as the Department may reasonably require.
 
-### 16. Restrictions on transfer of quota[^key-d4720f0fcf9a2dc8973aead69bfea132]
+### 16. Restrictions on transfer of quota[^c-d4720f0fcf9a2dc8973aead69bfea132]
 
 (1) A person shall not transfer quota on the grant or termination of –
 
@@ -420,14 +420,14 @@ the request or notice shall be accompanied by a consent or sole interest notice 
 
 (2) A person may not transfer quota if the transfer would result in an increase or reduction in the total wholesale quota or the total direct sales quota available for use by dairy enterprises located within a Scottish Islands area.
 
-(3) A person may not transfer , as unused,[^key-fdf2a93d59efde9fa7cab56a6821b17f] quota that is necessary to cover –
+(3) A person may not transfer , as unused,[^c-fdf2a93d59efde9fa7cab56a6821b17f] quota that is necessary to cover –
 
 - (a) deliveries, after an adjustment for fat content; and
 - (b) direct sales,
 
 made by him before the date of the transfer.
 
-### 17. Consequences of failure duly to submit a transfer notice[^key-33c8c6205dc5596ffb2fca222a13dbd6]
+### 17. Consequences of failure duly to submit a transfer notice[^c-33c8c6205dc5596ffb2fca222a13dbd6]
 
 (1) This regulation shall apply if a notice of transfer is not duly submitted in accordance with regulation 9 or 13.
 
@@ -444,18 +444,18 @@ made by him before the date of the transfer.
 
 ## PART 4 — ALLOCATIONS AND ADJUSTMENTS OF QUOTA
 
-### 18. Allocation from national reserve[^key-1fddcb01579f8b593d631809408079a6]
+### 18. Allocation from national reserve[^c-1fddcb01579f8b593d631809408079a6]
 
 The Department may make allocations from the national reserve in accordance with the Community legislation.
 
-### 19. Temporary reallocation of quota[^key-5b0d66011ddccf2f76d4aba4267bf0cf]
+### 19. Temporary reallocation of quota[^c-5b0d66011ddccf2f76d4aba4267bf0cf]
 
 (1) This regulation shall apply where a producer has quota registered as his in relation to a holding which –
 
 - (a) at any time during a quota year is in whole or in part subject to a notice served, or declaration made, under an order made pursuant to Article 12(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00010] prohibiting or regulating the movement of dairy cows; or
 - (b) is situated wholly or partly within an area which at any time during a quota year has been designated by an order made pursuant to section 1 of the Food and Environment Protection Act 1985[^f00011].
 
-(2) For the purposes of the reallocation of quota referred to in Article 80(3) of the Council Regulation[^key-c504c18ea328a4f62f486cbb328cdff0], and subject to paragraph (10), the Department may award to a producer a temporary reallocation of an amount of any unused quota in accordance with the provisions of paragraphs (3) to (5).
+(2) For the purposes of the reallocation of quota referred to in Article 80(3) of the Council Regulation[^c-c504c18ea328a4f62f486cbb328cdff0], and subject to paragraph (10), the Department may award to a producer a temporary reallocation of an amount of any unused quota in accordance with the provisions of paragraphs (3) to (5).
 
 (3) An award may only be made for a quota year in which the notice, declaration or order referred to in paragraph (1) has effect or remains in force.
 
@@ -509,7 +509,7 @@ unless the Department is satisfied that the agreement to transfer, temporarily t
 
 and where 20 per cent of the total number is half way between two whole numbers, the nearest even whole number is deemed to be the nearest one.
 
-### 20. Special allocation of quota[^key-2e19a6be8a87ff0ba6d42bed25fedca5]
+### 20. Special allocation of quota[^c-2e19a6be8a87ff0ba6d42bed25fedca5]
 
 (1) This regulation shall apply if by reason of a mistake made by the Department –
 
@@ -518,12 +518,12 @@ and where 20 per cent of the total number is half way between two whole numbers,
 
 (2) The Department may allocate to that person from the national reserve such quota as will compensate, in whole or in part, for that mistake.
 
-### 21. Conversion of quota: general[^key-20f54b4fd8088f5c6d78b69666aa7f26]
+### 21. Conversion of quota: general[^c-20f54b4fd8088f5c6d78b69666aa7f26]
 
 (1) For the purposes of –
 
-- (a) the provisions of Article 67(2) and (5) of the Council Regulation[^key-4cd7af74558d826b83829107f1e5f45e] (which concern changes from direct sales to delivery and vice versa); and
-- (b) Article 81(2) of the Council Regulation[^key-236f50e06503c7b6ba5f3e171b6f5892] (which concerns replacements of purchasers and changes of purchasers by producers),
+- (a) the provisions of Article 67(2) and (5) of the Council Regulation[^c-4cd7af74558d826b83829107f1e5f45e] (which concern changes from direct sales to delivery and vice versa); and
+- (b) Article 81(2) of the Council Regulation[^c-236f50e06503c7b6ba5f3e171b6f5892] (which concerns replacements of purchasers and changes of purchasers by producers),
 
 a producer may apply to convert direct sales quota to wholesale quota or wholesale quota to direct sales quota either temporarily or permanently.
 
@@ -533,16 +533,16 @@ a producer may apply to convert direct sales quota to wholesale quota or wholesa
   - (i) the amount (if any) of that producer’s direct sales quota, wholesale quota, direct sales and deliveries for the quota year in which the application is made;
   - (ii) the amount of unused quota which he holds at the time of the application; and
   - (iii) the amount which he wishes the Department to convert; and
-- (b) including such other information as the Department may reasonably require in order to assess whether the requirements of Article 67(2) and (5) of the Council Regulation[^key-b564dc15adc2a54f0fd50a350ab2db2a] and Article 7 of the Commission Regulation (which concerns representative fat content) are met.
+- (b) including such other information as the Department may reasonably require in order to assess whether the requirements of Article 67(2) and (5) of the Council Regulation[^c-b564dc15adc2a54f0fd50a350ab2db2a] and Article 7 of the Commission Regulation (which concerns representative fat content) are met.
 
 (3) The application shall reach the Department –
 
 - (a) in the case of a permanent conversion of quota, not later than 31st December in the quota year in which the conversion is intended to take effect; and
 - (b) in the case of a temporary conversion of quota, not later than 14th May in the year following the end of the quota year in which that temporary conversion is intended to take effect.
 
-### 22. Conversion of quota: restriction on transfers of converted quota in conversion year[^key-3631b68fa0af960f8457f3ad29d7eae4]
+### 22. Conversion of quota: restriction on transfers of converted quota in conversion year[^c-3631b68fa0af960f8457f3ad29d7eae4]
 
-(1) This regulation shall not apply to permanently converted quota which is transferred with a holding pursuant to Article 74 of the Council Regulation[^key-3a43bc3a7a0e1f1a3f2a3e3881fb7c80].
+(1) This regulation shall not apply to permanently converted quota which is transferred with a holding pursuant to Article 74 of the Council Regulation[^c-3a43bc3a7a0e1f1a3f2a3e3881fb7c80].
 
 (2) Subject to paragraphs (3) and (6), where a producer has permanently converted quota in any quota year, he shall not transfer later in that quota year quota of the type to which he has converted, whether temporarily or otherwise.
 
@@ -570,11 +570,11 @@ a producer may apply to convert direct sales quota to wholesale quota or wholesa
 - (f) the loss of a significant proportion of the forage area as a result of the compulsory purchase of the holding or a part of the holding; and
 - (g) where the transferee is a tenant, the serving of a notice to quit the holding.
 
-### 23. Adjustment of purchaser quota[^key-e7af3476737d4dea4ae2e69814e8732a]
+### 23. Adjustment of purchaser quota[^c-e7af3476737d4dea4ae2e69814e8732a]
 
 (1) Where a quota holder’s wholesale quota is increased or reduced in accordance with the Community legislation or these Regulations, the purchaser quota of any purchaser to whom that wholesale quota is applicable shall be correspondingly increased or reduced.
 
-(2) As regards a transaction to which Article 81(2) of the Council Regulation[^key-8d4e8f601f3270c63afddc886a9269c2] applies (which concerns replacements of purchasers and changes of purchasers by producers), a purchaser whose purchaser quota has been increased by virtue of such a transaction shall submit to the Department an application for his purchaser quota to be increased by the specified amount.
+(2) As regards a transaction to which Article 81(2) of the Council Regulation[^c-8d4e8f601f3270c63afddc886a9269c2] applies (which concerns replacements of purchasers and changes of purchasers by producers), a purchaser whose purchaser quota has been increased by virtue of such a transaction shall submit to the Department an application for his purchaser quota to be increased by the specified amount.
 
 (3) An application referred to in paragraph (2) shall include –
 
@@ -583,7 +583,7 @@ a producer may apply to convert direct sales quota to wholesale quota or wholesa
 
 (4) The application referred to in paragraph (2) –
 
-- (a) shall be sent to the Department on or before[^key-584467644942c43923cfa278bbdc1ca8] 14th May in the quota year immediately following that in which the transaction took place; and
+- (a) shall be sent to the Department on or before[^c-584467644942c43923cfa278bbdc1ca8] 14th May in the quota year immediately following that in which the transaction took place; and
 - (b) shall be made in such form as the Department may reasonably require.
 
 (5) The specified amount shall not include the remaining registered wholesale quota except so far as the increase registered in pursuance of paragraph (8) includes that quota.
@@ -620,7 +620,7 @@ then, subject to paragraph (10), the Department shall make such adjustments in t
 - (a) “remaining registered wholesale quota” means the amount of quota necessary to cover the deliveries made by a producer before the date of the change of purchaser (adjusted in accordance with Article 10(1) of the Commission Regulation); and
 - (b) “specified amount” means an amount equivalent to so much of a producer’s registered wholesale quota as is specified by that producer.
 
-### 24. Restriction on use of quota in Scottish Islands area[^key-40719f5d153deecb9d3026aa261f339b]
+### 24. Restriction on use of quota in Scottish Islands area[^c-40719f5d153deecb9d3026aa261f339b]
 
 (1) Quota registered under regulation 4 to quota holders within a Scottish Islands area may be used by producers and purchasers only against direct sales or deliveries of milk produced within that Scottish Islands area.
 
@@ -630,7 +630,7 @@ then, subject to paragraph (10), the Department shall make such adjustments in t
 
 ## PART 5 — THE LEVY
 
-### 25. Determination whether reduction in downward butterfat adjustment is required in relation to deliveries[^key-cd97836b0e53b9d3da371e52ec506b58]
+### 25. Determination whether reduction in downward butterfat adjustment is required in relation to deliveries[^c-cd97836b0e53b9d3da371e52ec506b58]
 
 (1) After the end of each quota year, the Department shall make a determination of –
 
@@ -653,9 +653,9 @@ then, subject to paragraph (10), the Department shall make such adjustments in t
 
 (6) If the volume referred to in paragraph (1)(b) equals or exceeds that referred to in paragraph (1)(a), the Department shall notify all purchasers that no such reduction need be made.
 
-(7) In this regulation, “downward butterfat adjustment”, in relation to deliveries to a purchaser, means an adjustment of the volume of the deliveries for butterfat content that results in that volume being reduced for the purposes of the levy calculation in accordance with Article 80(2) of the Council Regulation[^key-b47f79e709fd5b0c2e4f4ec2a24d56e2].
+(7) In this regulation, “downward butterfat adjustment”, in relation to deliveries to a purchaser, means an adjustment of the volume of the deliveries for butterfat content that results in that volume being reduced for the purposes of the levy calculation in accordance with Article 80(2) of the Council Regulation[^c-b47f79e709fd5b0c2e4f4ec2a24d56e2].
 
-### 26. Determination whether levy on deliveries is payable[^key-a72dca7bb033c5e72704a5b4918adcb8]
+### 26. Determination whether levy on deliveries is payable[^c-a72dca7bb033c5e72704a5b4918adcb8]
 
 (1) Where the total amount of the wholesale quota of producers, including converted quota, together with the total amount of wholesale quota in the national reserve exceeds whichever is the higher of –
 
@@ -673,9 +673,9 @@ the Department shall determine that no levy is payable on deliveries.
 
 the Department shall notify all purchasers that levy is payable on the higher volume of deliveries.
 
-### 27. Reallocation of producers' quota[^key-9ed93d2c1059312b111a37e53eebf291]
+### 27. Reallocation of producers' quota[^c-9ed93d2c1059312b111a37e53eebf291]
 
-(1) This regulation shall apply for the purposes of Article 80(3) of the Council Regulation[^key-df4f3950c497ebe11ef006d2856458fa] (which concerns the calculation of levy on deliveries).
+(1) This regulation shall apply for the purposes of Article 80(3) of the Council Regulation[^c-df4f3950c497ebe11ef006d2856458fa] (which concerns the calculation of levy on deliveries).
 
 (2) After the end of each quota year, the Department shall determine for each producer the amount, if any, of unused quota available to that producer, taking into account any adjustment required under regulation 25(4) and the amount of any converted quota.
 
@@ -693,26 +693,26 @@ the Department shall notify all purchasers that levy is payable on the higher vo
 
 (7) In this regulation, “butterfat-adjusted deliveries” means deliveries adjusted for butterfat content in accordance with Article 10(1) of the Commission Regulation.
 
-### 28. Determination of liability for levy on deliveries[^key-6870bf87f950d72d63e0d56aebc5bdfe]
+### 28. Determination of liability for levy on deliveries[^c-6870bf87f950d72d63e0d56aebc5bdfe]
 
-(1) This regulation shall apply for the purposes of Article 80(3) of the Council Regulation[^key-1e472a99941bc18d7d3517178594f6fb] (which concerns the calculation of levy on deliveries).
+(1) This regulation shall apply for the purposes of Article 80(3) of the Council Regulation[^c-1e472a99941bc18d7d3517178594f6fb] (which concerns the calculation of levy on deliveries).
 
 (2) After the end of each quota year, the Department shall –
 
 - (a) ascertain which producers have made deliveries which exceed the quota allocated to them after taking into account any adjustments made under regulations 25 and 27; then
-- (b) establish the total amount of the levy payable by each such producer at the rate of levy set in Article 78(1) of the Council Regulation[^key-3fe94237747bbb34430488a0cd7d5c55]; and then
+- (b) establish the total amount of the levy payable by each such producer at the rate of levy set in Article 78(1) of the Council Regulation[^c-3fe94237747bbb34430488a0cd7d5c55]; and then
 - (c) establish the total amount of levy payable by each purchaser on deliveries made to that purchaser.
 
-### 29. Notification of levy liability[^key-f69d9037cbb9b4c00ae9656e5b3721f9]
+### 29. Notification of levy liability[^c-f69d9037cbb9b4c00ae9656e5b3721f9]
 
 After the end of each quota year, the Department shall –
 
 - (a) notify each purchaser of the total amount of levy payable on deliveries made to that purchaser; and
 - (b) give details to that purchaser of the amount of levy attributable to each producer who has made deliveries to that purchaser.
 
-### 30. Determination of liability for levy on direct sales[^key-395847a3135370b1fefb5dd01eb54975]
+### 30. Determination of liability for levy on direct sales[^c-395847a3135370b1fefb5dd01eb54975]
 
-(1) This regulation shall apply for the purposes of Article 83 of the Council Regulation[^key-f0ab2bf2834a339d499ae70c4bc8df7e] (which concerns the calculation of levy on direct sales).
+(1) This regulation shall apply for the purposes of Article 83 of the Council Regulation[^c-f0ab2bf2834a339d499ae70c4bc8df7e] (which concerns the calculation of levy on direct sales).
 
 (2) After the end of each quota year, the Department shall make a determination of the total quantity of dairy produce sold or transferred free of charge by direct sellers in the quota year in question.
 
@@ -753,7 +753,7 @@ together are less than the total quantity determined by the Department under par
 - (a) the amount by which the total quantity referred to in paragraph (2) exceeds the total of –
   - (i) the direct sales quota of all direct sales quota holders, including converted quota; and
   - (ii) the direct sales quota in the national reserve;
-- (b) the total amount of levy payable by direct sales quota holders by multiplying the amount determined under sub-paragraph (a) by the rate of levy set in Article 78(1) of the Council Regulation[^key-88ac2c5ad60a8228b1680b712edd10a5]; and
+- (b) the total amount of levy payable by direct sales quota holders by multiplying the amount determined under sub-paragraph (a) by the rate of levy set in Article 78(1) of the Council Regulation[^c-88ac2c5ad60a8228b1680b712edd10a5]; and
 - (c) the amount by which the total quantity referred to in paragraph (2) exceeds all the direct sales quota of the direct sales quota holders whose direct sales are greater than their quota.
 
 (12) The Department shall establish the rate of levy per litre to be paid by each direct sales quota holder by dividing the amount determined in accordance with paragraph (11)(b) by the amount determined in accordance with paragraph (11)(c).
@@ -766,24 +766,24 @@ together are less than the total quantity determined by the Department under par
 
 (14) If a direct seller fails to submit to the Department in accordance with Article 11(2) of the Commission Regulation a declaration of the total quantity of dairy produce sold or transferred free of charge by him in a quota year, the rate of levy per litre to be paid by that direct seller on the quantity not notified or determined under paragraph (4) shall be the rate set in Article 2 of the Commission Regulation.
 
-### 31. Payment and recovery of levy[^key-38123d32d48e66acbc25df3224b3e53e]
+### 31. Payment and recovery of levy[^c-38123d32d48e66acbc25df3224b3e53e]
 
 (1) In respect of the collection of levy, the Department is the competent authority for the purposes of the Community legislation.
 
 (2) For the purposes of –
 
-- (a) Article 81(1) of the Council Regulation[^key-fb80ce456ab41ad2dd90737db0aa8e58] (which concerns payment of levy by purchasers in respect of deliveries);
-- (b) Article 83(4) of the Council Regulation[^key-726d7b28697c7688b5d14a4919245366] (which concerns payment of levy by direct sellers);
+- (a) Article 81(1) of the Council Regulation[^c-fb80ce456ab41ad2dd90737db0aa8e58] (which concerns payment of levy by purchasers in respect of deliveries);
+- (b) Article 83(4) of the Council Regulation[^c-726d7b28697c7688b5d14a4919245366] (which concerns payment of levy by direct sellers);
 - (c) Article 8 of the Commission Regulation (which concerns statements by purchasers of deliveries by producers); and
 - (d) Article 11 of the Commission Regulation (which concerns declarations of direct sales by producers),
 
 the levy and penalties referred to in those provisions shall be paid to the Department.
 
-(3) Paragraph (4) shall apply for the purposes of Article 81(3) of the Council Regulation[^key-984312dbb6ae700ecd458bcd71f86311] (which concerns deduction of levy liability) where a producer making deliveries to a purchaser exceeds his wholesale quota.
+(3) Paragraph (4) shall apply for the purposes of Article 81(3) of the Council Regulation[^c-984312dbb6ae700ecd458bcd71f86311] (which concerns deduction of levy liability) where a producer making deliveries to a purchaser exceeds his wholesale quota.
 
 (4) Following any adjustment of the quantity delivered in accordance with Article 10(1) of the Commission Regulation, the purchaser may immediately deduct from the sums owed to the producer in respect of the deliveries an amount corresponding to the amount of levy that would otherwise be payable by him in respect of the excess.
 
-(5) Where any part of the levy remains unpaid after 30th September[^key-3956b1e0e83c97916b3b845f864a4d88] in any year, the Department may recover the amount of the levy outstanding at that date together with interest in respect of each day after that date until that amount is recovered –
+(5) Where any part of the levy remains unpaid after 30th September[^c-3956b1e0e83c97916b3b845f864a4d88] in any year, the Department may recover the amount of the levy outstanding at that date together with interest in respect of each day after that date until that amount is recovered –
 
 - (a) from the direct seller or, as the case may be, the purchaser; or
 - (b) from the producer, in a case within paragraph (4) where –
@@ -801,7 +801,7 @@ subject to paragraph (8), the Department may require any levy payable by the pur
 
 (8) Paragraph (7) shall not apply in respect of a producer who has paid the purchaser in question, either directly or by deduction, the levy payable by that producer.
 
-### 32. Prevention of avoidance of levy[^key-bca0e55d0bff22bb52ca7e5da69e44cf]
+### 32. Prevention of avoidance of levy[^c-bca0e55d0bff22bb52ca7e5da69e44cf]
 
 (1) Subject to paragraphs (2) and (3), if –
 
@@ -825,11 +825,11 @@ B shall be deemed for the purposes of these Regulations to have made those sales
 
 ## PART 6 — INFORMATION AND RECORDS
 
-### 33. Information[^key-856e84f68d686115c94abb40ef600c68]
+### 33. Information[^c-856e84f68d686115c94abb40ef600c68]
 
 (1) Every relevant person shall provide such information to the Department as the Department may reasonably require to perform its functions under these Regulations and the Community legislation.
 
-(2) Each purchaser shall provide the Department with such information as it may reasonably require relating to deliveries made or to be made to the purchaser by such person or persons as the Department may identify for the purpose of monitoring deliveries in relation to the total national quota for the United Kingdom referred to in Article 66(3) and Annex IX of the Council Regulation.[^key-f35d6d069df7e79119b5005a6f9c1f27]
+(2) Each purchaser shall provide the Department with such information as it may reasonably require relating to deliveries made or to be made to the purchaser by such person or persons as the Department may identify for the purpose of monitoring deliveries in relation to the total national quota for the United Kingdom referred to in Article 66(3) and Annex IX of the Council Regulation.[^c-f35d6d069df7e79119b5005a6f9c1f27]
 
 (3) The information referred to in paragraph (2) shall be provided –
 
@@ -840,19 +840,19 @@ as the Department may reasonably require.
 
 (4) The information referred to in paragraph (2) shall be submitted so as to reach the Department before the expiry of the period of three working days beginning with the end of the period to which the information relates or within seven working days beginning with the date of notification of the requirement, whichever is the later.
 
-(5) Each purchaser shall send to the Department[^key-e8f79675e7abe008834f5946895556f5] a list of those quota holders registered with that purchaser at 31st March in each quota year (whether they have been so registered for the whole or part of that quota year) who –
+(5) Each purchaser shall send to the Department[^c-e8f79675e7abe008834f5946895556f5] a list of those quota holders registered with that purchaser at 31st March in each quota year (whether they have been so registered for the whole or part of that quota year) who –
 
 - (a) hold quota in respect of that quota year that has not been acquired by temporary transfer for that quota year; and
 - (b) have not made deliveries to that purchaser during that quota year,
 
-on or before[^key-4c55152f20b607e3c701fa2f9f8221f0] 14th May following the end of that quota year.
+on or before[^c-4c55152f20b607e3c701fa2f9f8221f0] 14th May following the end of that quota year.
 
 (6) The Department shall provide each purchaser with a copy of such information as the purchaser may reasonably require for the purposes of –
 
 - (a) that purchaser’s registration obligations under regulation 6; and
 - (b) Article 8 of the Commission Regulation (which concerns the submission of summaries of producers' statements of deliveries or declarations that no deliveries have been received).
 
-### 34. Keeping and retention of records[^key-1d781406c475d40c352286dfe3a9e139]
+### 34. Keeping and retention of records[^c-1d781406c475d40c352286dfe3a9e139]
 
 (1) For the purposes of Article 17 of the Commission Regulation (which requires Member States to take all necessary measures to ensure that the levy is correctly charged), a relevant person shall comply with the requirements of paragraph (2) in addition to meeting any relevant requirement of paragraphs 2 to 6 of Article 24 of the Commission Regulation (which concerns record keeping obligations of purchasers and producers).
 
@@ -865,16 +865,16 @@ as are specified in Schedule 2.
 
 (3) Paragraph (1) shall be without prejudice to regulation 3 of the Common Agricultural Policy (Protection of Community Arrangements) Regulations 1992[^f00012].
 
-### 35. Annual declarations and summaries[^key-e774c2f82ab5c5cb6c6080a48c00e59b]
+### 35. Annual declarations and summaries[^c-e774c2f82ab5c5cb6c6080a48c00e59b]
 
 (1) If –
 
-- (a) a producer in whose name any direct sales quota is registered pursuant to regulation 4 fails to send[^key-31cc7aecb0c0b7998e0f9322a3cee85c] to the Department any declaration which he is required to send by Article 11(2) of the Commission Regulation [^key-e8c1ca9237116770e83ef7d100badded]... on or before 14th May in any year; or
-- (b) a purchaser fails to send[^key-3d4bc2fc3f2811208376013b188a525c] any summary which he is required to send to it by Article 8(2) of the Commission Regulation [^key-5b743d55fd417ba57052b30be51768c3]... on or before 14th May in any year,
+- (a) a producer in whose name any direct sales quota is registered pursuant to regulation 4 fails to send[^c-31cc7aecb0c0b7998e0f9322a3cee85c] to the Department any declaration which he is required to send by Article 11(2) of the Commission Regulation [^c-e8c1ca9237116770e83ef7d100badded]... on or before 14th May in any year; or
+- (b) a purchaser fails to send[^c-3d4bc2fc3f2811208376013b188a525c] any summary which he is required to send to it by Article 8(2) of the Commission Regulation [^c-5b743d55fd417ba57052b30be51768c3]... on or before 14th May in any year,
 
 the Department may recover a reasonable charge from that producer or that purchaser, as the case may be, in respect of any visit to any premises which it reasonably considers an authorised officer should make in order to obtain the declaration or summary in question.
 
-(2) If the Department sends to a purchaser a revised version of a summary sent[^key-b6e41f136236f73880b9aee92cf40838] by him in accordance with Article 8(2) of the Commission Regulation, the purchaser shall submit either –
+(2) If the Department sends to a purchaser a revised version of a summary sent[^c-b6e41f136236f73880b9aee92cf40838] by him in accordance with Article 8(2) of the Commission Regulation, the purchaser shall submit either –
 
 - (a) confirmation that the revised version is agreed; or
 - (b) amendments to the revised version,
@@ -885,13 +885,13 @@ so that such confirmation or amendments, as the case may be, reaches the Departm
 
 ## PART 7 — PENALTIES AND MISCELLANEOUS PROVISIONS
 
-### 36. Administrative penalties[^key-4c277838d3e681e0732340aac28c2a66]
+### 36. Administrative penalties[^c-4c277838d3e681e0732340aac28c2a66]
 
-(1) Subject to the provisions of Article 23(4) of the Commission Regulation (which authorises Member States not to impose penalties in certain circumstances) and paragraph (5), purchasers shall be subject to the administrative penalties specified in paragraphs (2A) and (3)[^key-c96766f0ce2377e71015a27743600698].
+(1) Subject to the provisions of Article 23(4) of the Commission Regulation (which authorises Member States not to impose penalties in certain circumstances) and paragraph (5), purchasers shall be subject to the administrative penalties specified in paragraphs (2A) and (3)[^c-c96766f0ce2377e71015a27743600698].
 
-(2)[^key-47701f3c9c814985b60705f04f708253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-47701f3c9c814985b60705f04f708253] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-bbd948cdd19fc25a60ef38fdf87a0c73] Where a purchaser—
+(2A)[^c-bbd948cdd19fc25a60ef38fdf87a0c73] Where a purchaser—
 
 - (a) sends to the Department a summary of producers' statements required to be submitted under Article 8(2) of the Commission Regulation, which is inaccurate; and
 - (b) by doing so causes an overstatement or an understatement by him, of deliveries made to him,
@@ -907,15 +907,15 @@ he shall be liable to pay to the Department a penalty equivalent to the theoreti
 
 except in any case where, for the quota year covered by the declaration, he is liable to pay to the Department levy which exceeds that amount.
 
-(5) Notwithstanding anything in paragraphs (2A), (3), (4) and (6A)[^key-b54b6224ee8d68450bc94da2b64b89ae], the penalties referred to in those paragraphs –
+(5) Notwithstanding anything in paragraphs (2A), (3), (4) and (6A)[^c-b54b6224ee8d68450bc94da2b64b89ae], the penalties referred to in those paragraphs –
 
 - (a) in the case of purchasers and direct sellers, shall not be less than £60;
 - (b) in the case of purchasers, shall not exceed £60,000; and
 - (c) in the case of direct sellers, shall not exceed £600.
 
-(6)[^key-050c361821d70a8d8cd43b6b7d388150] Subject to Article 8(5) of the Commission Regulation, if a purchaser fails to submit a summary required to be submitted under Article 8(2) of the Commission Regulation, by the end of the period specified in Article 8(4), he is liable to pay to the Department a penalty equivalent to the theoretical amount of levy that would be due on 0.01% of the quantity by volume of milk covered by that declaration for each day of the period of the delay in the submission reaching the Department.
+(6)[^c-050c361821d70a8d8cd43b6b7d388150] Subject to Article 8(5) of the Commission Regulation, if a purchaser fails to submit a summary required to be submitted under Article 8(2) of the Commission Regulation, by the end of the period specified in Article 8(4), he is liable to pay to the Department a penalty equivalent to the theoretical amount of levy that would be due on 0.01% of the quantity by volume of milk covered by that declaration for each day of the period of the delay in the submission reaching the Department.
 
-(6A)[^key-a512e10c532a362ce3e6522c04a05475] Subject to paragraphs (5) and (7), where a purchaser fails to provide or submit to the Department—
+(6A)[^c-a512e10c532a362ce3e6522c04a05475] Subject to paragraphs (5) and (7), where a purchaser fails to provide or submit to the Department—
 
 - (a) an application, statement or declaration concerning the adjustment of purchaser quota in accordance with regulation 23(2) to (4);
 - (b) information in accordance with regulation 33(2) to (4); or
@@ -923,13 +923,13 @@ except in any case where, for the quota year covered by the declaration, he is l
 
 he is liable to pay to the Department a penalty equivalent to the theoretical amount of levy that would be due on 0.01% of the quantity by volume of milk covered by that application, statement, declaration or revised version, or that information, for each day of the period of delay in the submission reaching the Department.
 
-(7) A purchaser shall not be liable to pay a penalty under paragraph (6A)[^key-0cde37e83ed1d9a295559504e07929e6] if, in the opinion of the Department, the failure –
+(7) A purchaser shall not be liable to pay a penalty under paragraph (6A)[^c-0cde37e83ed1d9a295559504e07929e6] if, in the opinion of the Department, the failure –
 
 - (a) was neither deliberate nor the result of serious negligence;
 - (b) is negligible in terms of the functioning of the scheme or the effectiveness of the checks; or
 - (c) is attributable to force majeure.
 
-### 37. Withholding or recovery of compensation[^key-76dc77487c5654b54f4b9119a87144b1]
+### 37. Withholding or recovery of compensation[^c-76dc77487c5654b54f4b9119a87144b1]
 
 (1) Where –
 
@@ -942,25 +942,25 @@ he is liable to pay to the Department a penalty equivalent to the theoretical am
 
 (2) In this regulation, “Community compensation scheme” means the scheme instituted by Council Regulation [(EC) No. 2330/98](https://www.legislation.gov.uk/european/regulation/1998/2330) providing for an offer of compensation to certain producers of milk and milk products temporarily restricted in carrying out their trade[^f00013] and Commission Regulation [(EC) No. 2647/98](https://www.legislation.gov.uk/european/regulation/1998/2647) laying down detailed rules for the application of Council Regulation [(EC) No. 2330/98](https://www.legislation.gov.uk/european/regulation/1998/2330)[^f00014].
 
-### 38. Confiscation of quota[^key-a8c593646b33905e9b8e26ce51d9b5fb]
+### 38. Confiscation of quota[^c-a8c593646b33905e9b8e26ce51d9b5fb]
 
-(1) In pursuance of Article 72 of the Council Regulation[^key-b450b179d9adf9fb6ad6bf14d9e0c197] (which relates to the confiscation and restoration of quota in cases of inactivity), the Department shall notify a quota holder that his quota has been taken into the national reserve if it appears from information available to the Department that he has made no deliveries or direct sales during the previous quota year.
+(1) In pursuance of Article 72 of the Council Regulation[^c-b450b179d9adf9fb6ad6bf14d9e0c197] (which relates to the confiscation and restoration of quota in cases of inactivity), the Department shall notify a quota holder that his quota has been taken into the national reserve if it appears from information available to the Department that he has made no deliveries or direct sales during the previous quota year.
 
-(2)[^key-1af0d96b703212baa3406cb4b69a0939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1af0d96b703212baa3406cb4b69a0939] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Any quota withdrawn pursuant to Article 72 of the Council Regulation[^key-ede1036b9a54a7972ce15f4f2c3195c3] shall be placed in the national reserve with effect from 1st April following the quota year for which information became available to the Department indicating to it that no deliveries or no direct sales, as the case may be, were made.
+(3) Any quota withdrawn pursuant to Article 72 of the Council Regulation[^c-ede1036b9a54a7972ce15f4f2c3195c3] shall be placed in the national reserve with effect from 1st April following the quota year for which information became available to the Department indicating to it that no deliveries or no direct sales, as the case may be, were made.
 
 (4) A wholesale quota holder or direct sales quota holder who receives a notification of confiscation under paragraph (1) or, as the case may be, paragraph (2) shall notify any person with an interest in the land comprised in the holding in question of the contents of that notification before the expiry of the period of 28 days beginning with the day on which he received it.
 
-### 39. Restoration of quota[^key-75769a1247bd99d3b2c99a1b3d6d95d6]
+### 39. Restoration of quota[^c-75769a1247bd99d3b2c99a1b3d6d95d6]
 
-(1) Subject to the second sub-paragraph of Article 72(1) of the Council Regulation[^key-ab3f1a5e27aab39818e5aaef68c27769] (which specifies the time limit for quota restoration), a person whose quota has been taken into the national reserve may request the Department to restore to him the quota in respect of the holding from which it was confiscated or in respect of part of that holding if he is a producer.
+(1) Subject to the second sub-paragraph of Article 72(1) of the Council Regulation[^c-ab3f1a5e27aab39818e5aaef68c27769] (which specifies the time limit for quota restoration), a person whose quota has been taken into the national reserve may request the Department to restore to him the quota in respect of the holding from which it was confiscated or in respect of part of that holding if he is a producer.
 
 (2) Subject to paragraph (3), a request under paragraph (1) –
 
 - (a) shall reach the Department –
   - (i) no later than the end of the quota year to which it relates; or
-  - (ii) in the case of confiscation of quota notified under Article 11(4) of the Commission Regulation[^key-aedb46b8cf85dd1521f4ce2dc959e12f], no later than the end of the quota year before the quota year in which the quota is to be restored; and
+  - (ii) in the case of confiscation of quota notified under Article 11(4) of the Commission Regulation[^c-aedb46b8cf85dd1521f4ce2dc959e12f], no later than the end of the quota year before the quota year in which the quota is to be restored; and
 - (b) in a case falling within sub-paragraph (a)(ii), shall include the declaration which the person making the request failed to submit under Article 11 of the Commission Regulation.
 
 (3) Where –
@@ -968,7 +968,7 @@ he is liable to pay to the Department a penalty equivalent to the theoretical am
 - (a) there is a change of occupation of all or part of the holding in respect of which quota has been taken into the national reserve; and
 - (b) the new occupier is a producer,
 
-the new occupier may submit a request to the Department to restore to him the quota relating to that holding or part holding before the expiry of the time limit for quota restoration specified by the second sub-paragraph of Article 72(1) of the Council Regulation[^key-3471fac5515d7ac8deb436180544e003].
+the new occupier may submit a request to the Department to restore to him the quota relating to that holding or part holding before the expiry of the time limit for quota restoration specified by the second sub-paragraph of Article 72(1) of the Council Regulation[^c-3471fac5515d7ac8deb436180544e003].
 
 (4) A request for restoration of quota to part of a holding made under paragraph (1) or (3) shall include –
 
@@ -977,7 +977,7 @@ the new occupier may submit a request to the Department to restore to him the qu
 
 (5) Where quota is restored to part of a holding in accordance with a request made under paragraph (1) or (3), the amount of quota to be restored to that part shall be determined in accordance with the apportionment referred to in paragraph (4)(a) or (b).
 
-### 40. Offences and criminal penalties[^key-b28ef1c376cc00424ee0ce5eca86282a]
+### 40. Offences and criminal penalties[^c-b28ef1c376cc00424ee0ce5eca86282a]
 
 (1) A person shall be guilty of an offence if –
 
@@ -1002,7 +1002,7 @@ the new occupier may submit a request to the Department to restore to him the qu
 
 (7) In this regulation “requirement” does not include any restriction or obligation in or under regulations 11(1) and (3), 14(3), 16, 19(6) and (7), 21(2) and (3), 22(2), 23(12) and (13) and 39(2) and (4).
 
-### 41. Revocations and amendments[^key-5774c95219b35c0a585e6c7d76ff3192]
+### 41. Revocations and amendments[^c-5774c95219b35c0a585e6c7d76ff3192]
 
 The Dairy Produce Quotas Regulations (Northern Ireland) 2002[^f00015] and the Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2004[^f00016] are revoked.
 
@@ -1018,17 +1018,17 @@ Department of Agriculture and Rural Development
 
 Regulations 10(2), 11, 12(3) and 39(4)
 
-### 1. Appointment and remuneration of arbitrator[^key-2f6dde0708f0cc81709fb7e0d284428f]
+### 1. Appointment and remuneration of arbitrator[^c-2f6dde0708f0cc81709fb7e0d284428f]
 
 Paragraphs 3 to 19 shall apply to every arbitration in Northern Ireland.
 
-### 2.[^key-44464170b980d4bfdb0f1f02baee6f3b]
+### 2.[^c-44464170b980d4bfdb0f1f02baee6f3b]
 
 (1) Parts I, II and IV of the Arbitration Act 1996[^f00017] shall, except insofar as they are inconsistent with paragraphs 3 to 19, apply to every arbitration in Northern Ireland as if that arbitration were pursuant to an arbitration agreement and as if paragraphs 3 to 11 and 13 to 18 were contained in an arbitration agreement.
 
 (2) For the purpose of this paragraph “arbitration agreement” shall be construed in accordance with sections 5(1) and 6 of the Arbitration Act 1996.
 
-### 3.[^key-205da39e628c88d94a3682d5b2cdfb37]
+### 3.[^c-205da39e628c88d94a3682d5b2cdfb37]
 
 (1) Subject to sub-paragraph (2), in any case where an apportionment is to be carried out by arbitration, an arbitrator shall be appointed by agreement between the transferor and transferee, and the transferee shall give notice of the appointment of the arbitrator to the Department.
 
@@ -1040,7 +1040,7 @@ Paragraphs 3 to 19 shall apply to every arbitration in Northern Ireland.
 
 (5) Where an apportionment under regulation 39(4)(b) is to be carried out by arbitration, the producer shall either appoint an arbitrator by agreement with all persons with an interest in the holding or make an application to the President for the appointment of an arbitrator.
 
-### 4.[^key-256854735a0019c7caca3f7b3591a502]
+### 4.[^c-256854735a0019c7caca3f7b3591a502]
 
 (1) In any case where a prospective apportionment is to be made by arbitration, an arbitrator shall be appointed –
 
@@ -1049,7 +1049,7 @@ Paragraphs 3 to 19 shall apply to every arbitration in Northern Ireland.
 
 (2) Where sub-paragraph (1)(a) applies, the occupier shall give notice to the Department of the appointment of the arbitrator pursuant to the agreement, or of the application to the President for the appointment of an arbitrator.
 
-### 5.[^key-c51d09961b24cebd8c74ede9e680ce90]
+### 5.[^c-c51d09961b24cebd8c74ede9e680ce90]
 
 (1) An arbitrator appointed in accordance with paragraph 3(1) to (4) or 4 shall conduct the arbitration in accordance with this Schedule and shall base his award on findings made by him as to areas used for milk production in the last five-year period during which production took place before the change of occupation, or, in the case of a prospective apportionment, in the last five-year period during which production took place before the appointment of the arbitrator.
 
@@ -1057,66 +1057,66 @@ Paragraphs 3 to 19 shall apply to every arbitration in Northern Ireland.
 
 (3) An arbitrator appointed under any paragraph of this Schedule shall base his award on findings made by him in accordance with the law in force at the time the event giving rise to an application for arbitration took place.
 
-### 6.[^key-7b36c66945cce19eb1f0dea845adbe53]
+### 6.[^c-7b36c66945cce19eb1f0dea845adbe53]
 
 An application may not be made to the President for an arbitrator to be appointed by him under this Schedule unless the application is accompanied by a fee which shall be £50 for such an application; but once the fee has been paid in connection with any such application no further fee shall be payable in connection with any subsequent application for the President to exercise any function exercisable by him in relation to the arbitration by virtue of this Schedule (including an application for the appointment by him in an appropriate case of a new arbitrator).
 
-### 7.[^key-9f75d727df7b83d26507578567f86277]
+### 7.[^c-9f75d727df7b83d26507578567f86277]
 
 Where the Department makes an application to the President under paragraph 3(3) or (4), the fee payable to the President in respect of that application referred to in paragraph 6 shall be recoverable by the Department as a debt due from the other parties to the arbitration jointly or severally.
 
-### 8.[^key-6e67ff3d7d2e16784a69b3f6fd586f1e]
+### 8.[^c-6e67ff3d7d2e16784a69b3f6fd586f1e]
 
 Any appointment of an arbitrator by the President shall be made by him as soon as possible after receiving the application.
 
-### 9.[^key-a6d1f814f0aee6e65450ac4a888a1f49]
+### 9.[^c-a6d1f814f0aee6e65450ac4a888a1f49]
 
 If the arbitrator dies, or is incapable of acting, or for seven days after notice from any party requiring him to act fails to act, a new arbitrator may be appointed as if no arbitrator had been appointed.
 
-### 10.[^key-71ef2d58c1aad55a70f4e45d327f3301]
+### 10.[^c-71ef2d58c1aad55a70f4e45d327f3301]
 
 A party to the arbitration shall have power to revoke the appointment of the arbitrator with the consent of all other parties.
 
-### 11.[^key-831c0e3e8f50e426c452d59d60a4e1a6]
+### 11.[^c-831c0e3e8f50e426c452d59d60a4e1a6]
 
 Every appointment, application, notice, revocation and consent under paragraph 3, 4, 9 or 10 shall be in writing.
 
-### 12. Persons with an interest in the holding[^key-ca822de27555530db55cfa20fbfa1e97]
+### 12. Persons with an interest in the holding[^c-ca822de27555530db55cfa20fbfa1e97]
 
 (1) Subject to sub-paragraph (2), in any arbitration to which this Schedule applies, the arbitrator may join as a party to the arbitration any person having an interest in the holding, whether or not such person has applied to become a party to the arbitration, provided that such person consents to be so joined.
 
 (2) Where an apportionment pursuant to a request in a statement under regulation 39(4)(b) is to be carried out by arbitration, any person with an interest in the holding who has refused to sign such a statement as is referred to in regulation 39(4)(a) shall be a party to the arbitration.
 
-### 13. Statement of case[^key-917701dc6a45ade19af312e366f7dbd3]
+### 13. Statement of case[^c-917701dc6a45ade19af312e366f7dbd3]
 
 Within 35 days of the appointment of the arbitrator, or within such further period as the arbitrator may determine, the parties to the arbitration shall deliver to him a statement of their respective cases with all necessary particulars and –
 
 - (a) no amendment or addition to the statement or particulars delivered shall be allowed after the expiry of the 35 days, or such further period as the arbitrator may determine, except with the consent of the arbitrator; and
 - (b) a party to the arbitration shall be confined at the hearing to the matters alleged in the statement and particulars delivered by him and any amendment or addition duly made.
 
-### 14. Award[^key-c0be2bccb6827534094c6d1c8c3d7ba2]
+### 14. Award[^c-c0be2bccb6827534094c6d1c8c3d7ba2]
 
 (1) Subject to sub-paragraph (2), the arbitrator shall make and sign his award within 56 days of his appointment.
 
 (2) The President may from time to time extend the time limited for making the award, whether that time has expired or not.
 
-### 15.[^key-39a13d74ced5a3280467e5585d62932e]
+### 15.[^c-39a13d74ced5a3280467e5585d62932e]
 
 The arbitrator shall notify the terms of his award to the Department within eight days of delivery of that award.
 
-### 16.[^key-68d21bff2a991601209fb6b882e79d3a]
+### 16.[^c-68d21bff2a991601209fb6b882e79d3a]
 
 The arbitrator may correct any clerical mistake or error in the award arising from any accidental slip or omission.
 
-### 17. Reasons for award[^key-0b53fc56e7d3f9f4eb5657ba481e7f4b]
+### 17. Reasons for award[^c-0b53fc56e7d3f9f4eb5657ba481e7f4b]
 
 If requested by any party to the arbitration, on or before the making of the award, to make a statement, either written or oral, of the reasons for the award, the arbitrator shall furnish such a statement.
 
-### 18.[^key-7ef02613df1293cf90567a9bfefb4aff]
+### 18.[^c-7ef02613df1293cf90567a9bfefb4aff]
 
 For the purposes of this Schedule, an arbitrator appointed by the President shall be taken to have been so appointed at the time when the President executed the instrument of appointment, and in the case of any such arbitrator the periods mentioned in paragraphs 13 and 14 shall run from that time.
 
-### 19.[^key-d5d044bcb5bad4bfb630f1831d329603]
+### 19.[^c-d5d044bcb5bad4bfb630f1831d329603]
 
 Any person having an interest in the holding to which the arbitration relates shall be entitled to make representations to the arbitrator.
 
@@ -1124,7 +1124,7 @@ Any person having an interest in the holding to which the arbitration relates sh
 
 Regulation 34(2)
 
-### 1. Records to be kept by purchasers[^key-13f65fa0c43f60b79889e38c19b808d8]
+### 1. Records to be kept by purchasers[^c-13f65fa0c43f60b79889e38c19b808d8]
 
 In respect of each quota year, a purchaser shall keep, and retain for the relevant period, records comprising –
 
@@ -1143,7 +1143,7 @@ In respect of each quota year, a purchaser shall keep, and retain for the releva
 - (i) records of individual deliveries and supplies and accompanying collection documents identifying each delivery or supply by producer, purchaser or other undertaking; and
 - (j) all books, registers, accounts, correspondence, commercial data, vouchers and supporting documents relating to his business activities.
 
-### 2. Records to be kept by producers[^key-a038dc38543107ad490fe62c77a4c92d]
+### 2. Records to be kept by producers[^c-a038dc38543107ad490fe62c77a4c92d]
 
 (1) In respect of each quota year, a direct seller shall keep, and retain for the relevant period, records comprising –
 
@@ -1154,7 +1154,7 @@ In respect of each quota year, a purchaser shall keep, and retain for the releva
 - (e) details recorded as a result of his participation in a milk recording scheme;
 - (f) details of quantities of milk processed, methods of processing and quantities and type of milk products produced;
 - (g) details of quantities of whole milk used in the production of milk products (with conversion rates applied);
-- (h) if he holds 4,855 or more litres of direct sales quota,[^key-d92dc92c24444ffe2dc9ce1411a3132b] details of quantities and types of milk and milk products which are produced and used on his holding for stock feeding and human consumption;
+- (h) if he holds 4,855 or more litres of direct sales quota,[^c-d92dc92c24444ffe2dc9ce1411a3132b] details of quantities and types of milk and milk products which are produced and used on his holding for stock feeding and human consumption;
 - (i) if he holds 4,855 or more litres of direct sales quota, details of quantities and types of milk and milk products which are disposed of (other than under head (h)) or wasted on the holding;
 - (j) without prejudice to head (i), details of any milk or milk products which –
   - (i) were transported from his holding to be destroyed elsewhere for sanitary purposes pursuant to a decision of the Department or the Department of Health, Social Services and Public Safety;
@@ -1174,7 +1174,7 @@ In respect of each quota year, a purchaser shall keep, and retain for the releva
 
 (3) For the purposes of sub-paragraph (1)(e) and paragraph 3(h) “milk recording scheme” means a scheme under which the amount of milk produced by a cow during a lactation is measured in terms of volume and compositional quality by a person independent of the producer; and for this purpose “lactation” means the period commencing with calving and ending when the cow requires to be milked only once a day.
 
-### 3.[^key-4c032a879baa551e1f56a27f759478e4]
+### 3.[^c-4c032a879baa551e1f56a27f759478e4]
 
 A wholesale quota holder who makes deliveries to a purchaser shall, in respect of each quota year, keep, and retain for the relevant period, records, comprising –
 
@@ -1198,7 +1198,7 @@ A wholesale quota holder who makes deliveries to a purchaser shall, in respect o
 - (m) details of quantities of milk purchased, swapped or otherwise received, and records relating to its disposal; and
 - (n) details of stocks of milk produced on his holding.
 
-### 4. Records to be kept by any person undertaking butterfat testing in a laboratory[^key-5b17853d519c4c3a6f9b51c873c7e837]
+### 4. Records to be kept by any person undertaking butterfat testing in a laboratory[^c-5b17853d519c4c3a6f9b51c873c7e837]
 
 Any person undertaking butterfat testing for a purchaser in a laboratory shall keep, and retain for the relevant period, records comprising details of all samples of milk analysed, showing –
 
@@ -1211,7 +1211,7 @@ Any person undertaking butterfat testing for a purchaser in a laboratory shall k
 - (g) the method of analysis used; and
 - (h) the results of any repeat analyses undertaken.
 
-### 5. Records to be kept by hauliers[^key-82198ec2c4e4d176288f45feec6dad0d]
+### 5. Records to be kept by hauliers[^c-82198ec2c4e4d176288f45feec6dad0d]
 
 Any haulier collecting milk or milk products on behalf of a purchaser shall keep, and retain for the relevant period, records comprising details of all quantities of milk or milk products so collected, showing –
 
@@ -1224,7 +1224,7 @@ Any haulier collecting milk or milk products on behalf of a purchaser shall keep
 - (g) the sources of all the milk carried on each tanker; and
 - (h) details of any malfunction in any equipment used by him.
 
-### 6. Records to be kept by processors[^key-415bb711bef3edc3785cdfbdc96ed953]
+### 6. Records to be kept by processors[^c-415bb711bef3edc3785cdfbdc96ed953]
 
 Any processor in receipt of milk or milk products for processing or treating shall keep, and retain for the relevant period, records comprising details of all quantities of milk or milk products received, showing –
 
@@ -1237,7 +1237,7 @@ Any processor in receipt of milk or milk products for processing or treating sha
 - (g) the calculated stocks of milk and milk products held by that processor at the end of each month and details of actual stocks physically held as at 31st March each year; and
 - (h) the quantities of milk or milk products sold or otherwise disposed of, with the date of supply or disposal, and the names and addresses of the buyers or recipients concerned.
 
-### 7. Records to be kept by persons buying, selling or supplying milk or milk products obtained directly from a producer or purchaser[^key-cc2636c0a49704db0ae56e6401f55944]
+### 7. Records to be kept by persons buying, selling or supplying milk or milk products obtained directly from a producer or purchaser[^c-cc2636c0a49704db0ae56e6401f55944]
 
 Any person who in the course of a business buys, sells or supplies milk or milk products obtained directly from a producer or purchaser shall keep, and retain for the relevant period, records comprising details of all quantities of milk or milk products received, showing –
 
@@ -1248,7 +1248,7 @@ Any person who in the course of a business buys, sells or supplies milk or milk 
 - (e) the quantities of milk or milk products sold or supplied, with the date of sale or supply, and the names and addresses of the buyers or recipients concerned other than the consumers of such milk or milk products; and
 - (f) the quantities of milk or milk products returned to the producer or purchaser unsold or unused, and the date of that return.
 
-### 8.[^key-99c242964b0bfc2fe336e5b7d6d4c69f]
+### 8.[^c-99c242964b0bfc2fe336e5b7d6d4c69f]
 
 In this Schedule, in relation to any records –
 
@@ -1289,250 +1289,250 @@ The map referred to in the definition of “Scottish Islands area” is held at 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-7e6fcb7b7346bc108781fd3d636dd881]: Commencement: Reg. 1 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-7e6fcb7b7346bc108781fd3d636dd881]: Commencement: Reg. 1 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-d4ede584cd94ee4548832b3484e848de]: Commencement: Reg. 2 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-d4ede584cd94ee4548832b3484e848de]: Commencement: Reg. 2 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-40e0944ae4c3ee50dd792dccad09358c]: Textual amendment: [Reg. 2(1)(1A)](https://www.legislation.gov.uk/nisr/2005/70/regulation/2/1) substituted for reg. 2(1) (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/1)
+[^c-40e0944ae4c3ee50dd792dccad09358c]: Textual amendment: [Reg. 2(1)(1A)](https://www.legislation.gov.uk/nisr/2005/70/regulation/2/1) substituted for reg. 2(1) (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/1)
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ea299aa8063be74e217648f426cef2b8]: Commencement: Reg. 3 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-ea299aa8063be74e217648f426cef2b8]: Commencement: Reg. 3 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-8c7e467aa44cdd3bf242671cbf6f9035]: Commencement: Reg. 4 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-8c7e467aa44cdd3bf242671cbf6f9035]: Commencement: Reg. 4 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-a5cf31581526eec1fd0dc2a20a9c6b49]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/nisr/2005/70/regulation/4/9) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/2)
+[^c-a5cf31581526eec1fd0dc2a20a9c6b49]: Textual amendment: Words in [reg. 4(9)](https://www.legislation.gov.uk/nisr/2005/70/regulation/4/9) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/2)
 
-[^key-bce97b1d36962ffdd4808af0d5467cd1]: Commencement: Reg. 5 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-bce97b1d36962ffdd4808af0d5467cd1]: Commencement: Reg. 5 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-80bcb2acee5211a9a908a06a18de68d5]: Commencement: Reg. 6 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-80bcb2acee5211a9a908a06a18de68d5]: Commencement: Reg. 6 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-b8c3993432ddbeffdc4f9b6dbb1b5bfb]: Commencement: Reg. 7 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-b8c3993432ddbeffdc4f9b6dbb1b5bfb]: Commencement: Reg. 7 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-b3a5f9a9e0faf796ed76122db4e86ad4]: Textual amendment: [Reg. 7(a)(i)](https://www.legislation.gov.uk/nisr/2005/70/regulation/7/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/70/regulation/7/a/ii) substituted for reg. 7(a)(i)-(iii) (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/3)
+[^c-b3a5f9a9e0faf796ed76122db4e86ad4]: Textual amendment: [Reg. 7(a)(i)](https://www.legislation.gov.uk/nisr/2005/70/regulation/7/a/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/70/regulation/7/a/ii) substituted for reg. 7(a)(i)-(iii) (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/3)
 
-[^key-9a3ac73b98b06369d711f2508e961a70]: Commencement: Reg. 8 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-9a3ac73b98b06369d711f2508e961a70]: Commencement: Reg. 8 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-8d6a6cecb489a6ae2006159b38804cf7]: Commencement: Reg. 9 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-8d6a6cecb489a6ae2006159b38804cf7]: Commencement: Reg. 9 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-13de1506e358725eb54cea7b6f81dccf]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/9/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/3)
+[^c-13de1506e358725eb54cea7b6f81dccf]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/9/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 3](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/3)
 
-[^key-84fd8c47ec7d3f84fc9aafd7f681cfac]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/9/3) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/4)
+[^c-84fd8c47ec7d3f84fc9aafd7f681cfac]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/9/3) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(4)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/4)
 
-[^key-ab4db4ab5927362fc49a2376ab2ad07f]: Commencement: Reg. 10 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-ab4db4ab5927362fc49a2376ab2ad07f]: Commencement: Reg. 10 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-421c8e7096c00d4d65328512f455b128]: Commencement: Reg. 11 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-421c8e7096c00d4d65328512f455b128]: Commencement: Reg. 11 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-b00bac67fa129dc5ecb84a7f4c3e5a53]: Commencement: Reg. 12 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-b00bac67fa129dc5ecb84a7f4c3e5a53]: Commencement: Reg. 12 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-3653800e7f5b9f7c13b22eb3456627ad]: Commencement: Reg. 13 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-3653800e7f5b9f7c13b22eb3456627ad]: Commencement: Reg. 13 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-1294a2643cd8197ba3db8f6ff66da11e]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/13/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/4)
+[^c-1294a2643cd8197ba3db8f6ff66da11e]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/13/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 4](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/4)
 
-[^key-015e879780da7c3991a1affd87081fb1]: Commencement: Reg. 14 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-015e879780da7c3991a1affd87081fb1]: Commencement: Reg. 14 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-5c9c1ffab07aa059e12cf83ed3d83e4c]: Commencement: Reg. 15 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-5c9c1ffab07aa059e12cf83ed3d83e4c]: Commencement: Reg. 15 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-ac5bed889afbcddff6e06daef090bc20]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/15/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/5)
+[^c-ac5bed889afbcddff6e06daef090bc20]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/15/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/5)
 
-[^key-d4720f0fcf9a2dc8973aead69bfea132]: Commencement: Reg. 16 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-d4720f0fcf9a2dc8973aead69bfea132]: Commencement: Reg. 16 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-fdf2a93d59efde9fa7cab56a6821b17f]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/16/3) inserted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/60/regulation/4)
+[^c-fdf2a93d59efde9fa7cab56a6821b17f]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/16/3) inserted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/60/regulation/4)
 
-[^key-33c8c6205dc5596ffb2fca222a13dbd6]: Commencement: Reg. 17 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-33c8c6205dc5596ffb2fca222a13dbd6]: Commencement: Reg. 17 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-1fddcb01579f8b593d631809408079a6]: Commencement: Reg. 18 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-1fddcb01579f8b593d631809408079a6]: Commencement: Reg. 18 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-5b0d66011ddccf2f76d4aba4267bf0cf]: Commencement: Reg. 19 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-5b0d66011ddccf2f76d4aba4267bf0cf]: Commencement: Reg. 19 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
 [^f00010]: Footnote: S.I. [1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115)
 
 [^f00011]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48); section 1 was amended by the Food Safety Act [1991 (c. 16)](https://www.legislation.gov.uk/ukpga/1991/16), section 51(2) by the Food Standards Act [1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), section 40(1) and Schedule 5, paragraph 6(1) and (3) by S.I. [1999/1756](https://www.legislation.gov.uk/uksi/1999/1756) and by S.I. [2000/2040](https://www.legislation.gov.uk/uksi/2000/2040)
 
-[^key-c504c18ea328a4f62f486cbb328cdff0]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/19/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/6)
+[^c-c504c18ea328a4f62f486cbb328cdff0]: Textual amendment: Words in [reg. 19(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/19/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/6)
 
-[^key-2e19a6be8a87ff0ba6d42bed25fedca5]: Commencement: Reg. 20 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-2e19a6be8a87ff0ba6d42bed25fedca5]: Commencement: Reg. 20 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-20f54b4fd8088f5c6d78b69666aa7f26]: Commencement: Reg. 21 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-20f54b4fd8088f5c6d78b69666aa7f26]: Commencement: Reg. 21 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-4cd7af74558d826b83829107f1e5f45e]: Textual amendment: Words in [reg. 21(1)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/21/1/a) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/7/a)
+[^c-4cd7af74558d826b83829107f1e5f45e]: Textual amendment: Words in [reg. 21(1)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/21/1/a) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/7/a)
 
-[^key-236f50e06503c7b6ba5f3e171b6f5892]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/21/1/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/7/b)
+[^c-236f50e06503c7b6ba5f3e171b6f5892]: Textual amendment: Words in [reg. 21(1)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/21/1/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 7(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/7/b)
 
-[^key-b564dc15adc2a54f0fd50a350ab2db2a]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/21/2/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/7/a)
+[^c-b564dc15adc2a54f0fd50a350ab2db2a]: Textual amendment: Words in [reg. 21(2)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/21/2/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 7(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/7/a)
 
-[^key-3631b68fa0af960f8457f3ad29d7eae4]: Commencement: Reg. 22 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-3631b68fa0af960f8457f3ad29d7eae4]: Commencement: Reg. 22 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-3a43bc3a7a0e1f1a3f2a3e3881fb7c80]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/22/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/8)
+[^c-3a43bc3a7a0e1f1a3f2a3e3881fb7c80]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/22/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 8](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/8)
 
-[^key-e7af3476737d4dea4ae2e69814e8732a]: Commencement: Reg. 23 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-e7af3476737d4dea4ae2e69814e8732a]: Commencement: Reg. 23 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-8d4e8f601f3270c63afddc886a9269c2]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/23/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/9)
+[^c-8d4e8f601f3270c63afddc886a9269c2]: Textual amendment: Words in [reg. 23(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/23/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 9](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/9)
 
-[^key-584467644942c43923cfa278bbdc1ca8]: Textual amendment: Words in [reg. 23(4)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/23/4/a) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [5](https://www.legislation.gov.uk/nisr/2006/60/regulation/5)
+[^c-584467644942c43923cfa278bbdc1ca8]: Textual amendment: Words in [reg. 23(4)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/23/4/a) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [5](https://www.legislation.gov.uk/nisr/2006/60/regulation/5)
 
-[^key-40719f5d153deecb9d3026aa261f339b]: Commencement: Reg. 24 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-40719f5d153deecb9d3026aa261f339b]: Commencement: Reg. 24 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-cd97836b0e53b9d3da371e52ec506b58]: Commencement: Reg. 25 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-cd97836b0e53b9d3da371e52ec506b58]: Commencement: Reg. 25 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-b47f79e709fd5b0c2e4f4ec2a24d56e2]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/nisr/2005/70/regulation/25/7) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/10)
+[^c-b47f79e709fd5b0c2e4f4ec2a24d56e2]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/nisr/2005/70/regulation/25/7) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 10](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/10)
 
-[^key-a72dca7bb033c5e72704a5b4918adcb8]: Commencement: Reg. 26 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-a72dca7bb033c5e72704a5b4918adcb8]: Commencement: Reg. 26 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-9ed93d2c1059312b111a37e53eebf291]: Commencement: Reg. 27 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-9ed93d2c1059312b111a37e53eebf291]: Commencement: Reg. 27 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-df4f3950c497ebe11ef006d2856458fa]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/27/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/11)
+[^c-df4f3950c497ebe11ef006d2856458fa]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/27/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/11)
 
-[^key-6870bf87f950d72d63e0d56aebc5bdfe]: Commencement: Reg. 28 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-6870bf87f950d72d63e0d56aebc5bdfe]: Commencement: Reg. 28 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-1e472a99941bc18d7d3517178594f6fb]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/28/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 12(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/12/a)
+[^c-1e472a99941bc18d7d3517178594f6fb]: Textual amendment: Words in [reg. 28(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/28/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 12(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/12/a)
 
-[^key-3fe94237747bbb34430488a0cd7d5c55]: Textual amendment: Words in [reg. 28(2)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/28/2/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 12(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/12/b)
+[^c-3fe94237747bbb34430488a0cd7d5c55]: Textual amendment: Words in [reg. 28(2)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/28/2/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 12(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/12/b)
 
-[^key-f69d9037cbb9b4c00ae9656e5b3721f9]: Commencement: Reg. 29 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-f69d9037cbb9b4c00ae9656e5b3721f9]: Commencement: Reg. 29 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-395847a3135370b1fefb5dd01eb54975]: Commencement: Reg. 30 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-395847a3135370b1fefb5dd01eb54975]: Commencement: Reg. 30 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-f0ab2bf2834a339d499ae70c4bc8df7e]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/30/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 13(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/13/a)
+[^c-f0ab2bf2834a339d499ae70c4bc8df7e]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/30/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 13(a)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/13/a)
 
-[^key-88ac2c5ad60a8228b1680b712edd10a5]: Textual amendment: Words in [reg. 30(11)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/30/11/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 13(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/13/b)
+[^c-88ac2c5ad60a8228b1680b712edd10a5]: Textual amendment: Words in [reg. 30(11)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/30/11/b) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 13(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/13/b)
 
-[^key-38123d32d48e66acbc25df3224b3e53e]: Commencement: Reg. 31 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-38123d32d48e66acbc25df3224b3e53e]: Commencement: Reg. 31 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-fb80ce456ab41ad2dd90737db0aa8e58]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 14(a)(i)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/14/a/i)
+[^c-fb80ce456ab41ad2dd90737db0aa8e58]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 14(a)(i)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/14/a/i)
 
-[^key-726d7b28697c7688b5d14a4919245366]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 14(a)(ii)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/14/a/ii)
+[^c-726d7b28697c7688b5d14a4919245366]: Textual amendment: Words in [reg. 31(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 14(a)(ii)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/14/a/ii)
 
-[^key-984312dbb6ae700ecd458bcd71f86311]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/3) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 14(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/14/b)
+[^c-984312dbb6ae700ecd458bcd71f86311]: Textual amendment: Words in [reg. 31(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/3) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 14(b)](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/14/b)
 
-[^key-3956b1e0e83c97916b3b845f864a4d88]: Textual amendment: Words in [reg. 31(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/5) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/5)
+[^c-3956b1e0e83c97916b3b845f864a4d88]: Textual amendment: Words in [reg. 31(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/31/5) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/5)
 
-[^key-bca0e55d0bff22bb52ca7e5da69e44cf]: Commencement: Reg. 32 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-bca0e55d0bff22bb52ca7e5da69e44cf]: Commencement: Reg. 32 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-856e84f68d686115c94abb40ef600c68]: Commencement: Reg. 33 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-856e84f68d686115c94abb40ef600c68]: Commencement: Reg. 33 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-f35d6d069df7e79119b5005a6f9c1f27]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/33/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 15](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/15)
+[^c-f35d6d069df7e79119b5005a6f9c1f27]: Textual amendment: Words in [reg. 33(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/33/2) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 15](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/15)
 
-[^key-e8f79675e7abe008834f5946895556f5]: Textual amendment: Words in [reg. 33(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/33/5) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2006/60/regulation/6/a)
+[^c-e8f79675e7abe008834f5946895556f5]: Textual amendment: Words in [reg. 33(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/33/5) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2006/60/regulation/6/a)
 
-[^key-4c55152f20b607e3c701fa2f9f8221f0]: Textual amendment: Words in [reg. 33(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/33/5) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2006/60/regulation/6/b)
+[^c-4c55152f20b607e3c701fa2f9f8221f0]: Textual amendment: Words in [reg. 33(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/33/5) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2006/60/regulation/6/b)
 
-[^key-1d781406c475d40c352286dfe3a9e139]: Commencement: Reg. 34 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-1d781406c475d40c352286dfe3a9e139]: Commencement: Reg. 34 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
 [^f00012]: Footnote: S.I. [1992/314](https://www.legislation.gov.uk/uksi/1992/314); relevant amending instruments are S.I. [2001/3198](https://www.legislation.gov.uk/uksi/2001/3198) and S.I. [2001/3686](https://www.legislation.gov.uk/uksi/2001/3686)
 
-[^key-e774c2f82ab5c5cb6c6080a48c00e59b]: Commencement: Reg. 35 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-e774c2f82ab5c5cb6c6080a48c00e59b]: Commencement: Reg. 35 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-31cc7aecb0c0b7998e0f9322a3cee85c]: Textual amendment: Word in [reg. 35(1)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/a) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/a/i)
+[^c-31cc7aecb0c0b7998e0f9322a3cee85c]: Textual amendment: Word in [reg. 35(1)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/a) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/a/i)
 
-[^key-e8c1ca9237116770e83ef7d100badded]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/a) omitted (31.3.2006) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/a/ii)
+[^c-e8c1ca9237116770e83ef7d100badded]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/a) omitted (31.3.2006) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/a/ii)
 
-[^key-3d4bc2fc3f2811208376013b188a525c]: Textual amendment: Word in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/b) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/b/i)
+[^c-3d4bc2fc3f2811208376013b188a525c]: Textual amendment: Word in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/b) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(b)(i)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/b/i)
 
-[^key-5b743d55fd417ba57052b30be51768c3]: Textual amendment: Words in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/b) omitted (31.3.2006) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/b/ii)
+[^c-5b743d55fd417ba57052b30be51768c3]: Textual amendment: Words in [reg. 35(1)(b)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/1/b) omitted (31.3.2006) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(b)(ii)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/b/ii)
 
-[^key-b6e41f136236f73880b9aee92cf40838]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/2) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(c)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/c)
+[^c-b6e41f136236f73880b9aee92cf40838]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/35/2) substituted (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [7(c)](https://www.legislation.gov.uk/nisr/2006/60/regulation/7/c)
 
-[^key-4c277838d3e681e0732340aac28c2a66]: Commencement: Reg. 36 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-4c277838d3e681e0732340aac28c2a66]: Commencement: Reg. 36 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-c96766f0ce2377e71015a27743600698]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/1) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/a)
+[^c-c96766f0ce2377e71015a27743600698]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/1) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/a)
 
-[^key-47701f3c9c814985b60705f04f708253]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/2) omitted (31.3.2007) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/b)
+[^c-47701f3c9c814985b60705f04f708253]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/2) omitted (31.3.2007) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/b)
 
-[^key-bbd948cdd19fc25a60ef38fdf87a0c73]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/2A) added (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2006/60/regulation/8/b)
+[^c-bbd948cdd19fc25a60ef38fdf87a0c73]: Textual amendment: [Reg. 36(2A)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/2A) added (31.3.2006) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/60)](https://www.legislation.gov.uk/nisr/2006/60), [regs. 1](https://www.legislation.gov.uk/nisr/2006/60/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2006/60/regulation/8/b)
 
-[^key-b54b6224ee8d68450bc94da2b64b89ae]: Textual amendment: Words in [reg. 36(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/5) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/c)
+[^c-b54b6224ee8d68450bc94da2b64b89ae]: Textual amendment: Words in [reg. 36(5)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/5) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(c)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/c)
 
-[^key-050c361821d70a8d8cd43b6b7d388150]: Textual amendment: [Reg. 36(6)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/6) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(d)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/d)
+[^c-050c361821d70a8d8cd43b6b7d388150]: Textual amendment: [Reg. 36(6)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/6) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(d)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/d)
 
-[^key-a512e10c532a362ce3e6522c04a05475]: Textual amendment: [Reg. 36(6A)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/6A) inserted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(e)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/e)
+[^c-a512e10c532a362ce3e6522c04a05475]: Textual amendment: [Reg. 36(6A)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/6A) inserted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(6)(e)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/6/e)
 
-[^key-0cde37e83ed1d9a295559504e07929e6]: Textual amendment: Word in [reg. 36(7)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/7) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/7)
+[^c-0cde37e83ed1d9a295559504e07929e6]: Textual amendment: Word in [reg. 36(7)](https://www.legislation.gov.uk/nisr/2005/70/regulation/36/7) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(7)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/7)
 
-[^key-76dc77487c5654b54f4b9119a87144b1]: Commencement: Reg. 37 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-76dc77487c5654b54f4b9119a87144b1]: Commencement: Reg. 37 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
 [^f00013]: Footnote: O.J. No. L291, 30.10.98, p. 4
 
 [^f00014]: Footnote: O.J. No. L335,10.12.98, p. 33
 
-[^key-a8c593646b33905e9b8e26ce51d9b5fb]: Commencement: Reg. 38 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-a8c593646b33905e9b8e26ce51d9b5fb]: Commencement: Reg. 38 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-b450b179d9adf9fb6ad6bf14d9e0c197]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/38/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/16)
+[^c-b450b179d9adf9fb6ad6bf14d9e0c197]: Textual amendment: Words in [reg. 38(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/38/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/16)
 
-[^key-1af0d96b703212baa3406cb4b69a0939]: Textual amendment: [Reg. 38(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/38/2) omitted (31.3.2007) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/8)
+[^c-1af0d96b703212baa3406cb4b69a0939]: Textual amendment: [Reg. 38(2)](https://www.legislation.gov.uk/nisr/2005/70/regulation/38/2) omitted (31.3.2007) by virtue of [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(8)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/8)
 
-[^key-ede1036b9a54a7972ce15f4f2c3195c3]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/38/3) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/16)
+[^c-ede1036b9a54a7972ce15f4f2c3195c3]: Textual amendment: Words in [reg. 38(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/38/3) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 16](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/16)
 
-[^key-75769a1247bd99d3b2c99a1b3d6d95d6]: Commencement: Reg. 39 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-75769a1247bd99d3b2c99a1b3d6d95d6]: Commencement: Reg. 39 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-ab3f1a5e27aab39818e5aaef68c27769]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/39/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/17)
+[^c-ab3f1a5e27aab39818e5aaef68c27769]: Textual amendment: Words in [reg. 39(1)](https://www.legislation.gov.uk/nisr/2005/70/regulation/39/1) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/17)
 
-[^key-aedb46b8cf85dd1521f4ce2dc959e12f]: Textual amendment: Words in [reg. 39(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/70/regulation/39/2/a/ii) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/9)
+[^c-aedb46b8cf85dd1521f4ce2dc959e12f]: Textual amendment: Words in [reg. 39(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2005/70/regulation/39/2/a/ii) substituted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(9)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/9)
 
-[^key-3471fac5515d7ac8deb436180544e003]: Textual amendment: Words in [reg. 39(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/39/3) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/17)
+[^c-3471fac5515d7ac8deb436180544e003]: Textual amendment: Words in [reg. 39(3)](https://www.legislation.gov.uk/nisr/2005/70/regulation/39/3) substituted (1.4.2008) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/70)](https://www.legislation.gov.uk/nisr/2008/70), [reg. 1](https://www.legislation.gov.uk/nisr/2008/70/regulation/1), [Sch. para. 17](https://www.legislation.gov.uk/nisr/2008/70/schedule/paragraph/17)
 
-[^key-b28ef1c376cc00424ee0ce5eca86282a]: Commencement: Reg. 40 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-b28ef1c376cc00424ee0ce5eca86282a]: Commencement: Reg. 40 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-5774c95219b35c0a585e6c7d76ff3192]: Commencement: Reg. 41 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-5774c95219b35c0a585e6c7d76ff3192]: Commencement: Reg. 41 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
 [^f00015]: Footnote: [S.R. 2002 No. 88](https://www.legislation.gov.uk/nisr/2002/88)
 
 [^f00016]: Footnote: [S.R. 2004 No. 59](https://www.legislation.gov.uk/nisr/2004/59)
 
-[^key-2f6dde0708f0cc81709fb7e0d284428f]: Commencement: Sch. 1 para. 1 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-2f6dde0708f0cc81709fb7e0d284428f]: Commencement: Sch. 1 para. 1 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-44464170b980d4bfdb0f1f02baee6f3b]: Commencement: Sch. 1 para. 2 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-44464170b980d4bfdb0f1f02baee6f3b]: Commencement: Sch. 1 para. 2 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
 [^f00017]: Footnote: [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23)
 
-[^key-205da39e628c88d94a3682d5b2cdfb37]: Commencement: Sch. 1 para. 3 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-205da39e628c88d94a3682d5b2cdfb37]: Commencement: Sch. 1 para. 3 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-256854735a0019c7caca3f7b3591a502]: Commencement: Sch. 1 para. 4 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-256854735a0019c7caca3f7b3591a502]: Commencement: Sch. 1 para. 4 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-c51d09961b24cebd8c74ede9e680ce90]: Commencement: Sch. 1 para. 5 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-c51d09961b24cebd8c74ede9e680ce90]: Commencement: Sch. 1 para. 5 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-7b36c66945cce19eb1f0dea845adbe53]: Commencement: Sch. 1 para. 6 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-7b36c66945cce19eb1f0dea845adbe53]: Commencement: Sch. 1 para. 6 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-9f75d727df7b83d26507578567f86277]: Commencement: Sch. 1 para. 7 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-9f75d727df7b83d26507578567f86277]: Commencement: Sch. 1 para. 7 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-6e67ff3d7d2e16784a69b3f6fd586f1e]: Commencement: Sch. 1 para. 8 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-6e67ff3d7d2e16784a69b3f6fd586f1e]: Commencement: Sch. 1 para. 8 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-a6d1f814f0aee6e65450ac4a888a1f49]: Commencement: Sch. 1 para. 9 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-a6d1f814f0aee6e65450ac4a888a1f49]: Commencement: Sch. 1 para. 9 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-71ef2d58c1aad55a70f4e45d327f3301]: Commencement: Sch. 1 para. 10 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-71ef2d58c1aad55a70f4e45d327f3301]: Commencement: Sch. 1 para. 10 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-831c0e3e8f50e426c452d59d60a4e1a6]: Commencement: Sch. 1 para. 11 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-831c0e3e8f50e426c452d59d60a4e1a6]: Commencement: Sch. 1 para. 11 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-ca822de27555530db55cfa20fbfa1e97]: Commencement: Sch. 1 para. 12 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-ca822de27555530db55cfa20fbfa1e97]: Commencement: Sch. 1 para. 12 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-917701dc6a45ade19af312e366f7dbd3]: Commencement: Sch. 1 para. 13 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-917701dc6a45ade19af312e366f7dbd3]: Commencement: Sch. 1 para. 13 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-c0be2bccb6827534094c6d1c8c3d7ba2]: Commencement: Sch. 1 para. 14 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-c0be2bccb6827534094c6d1c8c3d7ba2]: Commencement: Sch. 1 para. 14 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-39a13d74ced5a3280467e5585d62932e]: Commencement: Sch. 1 para. 15 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-39a13d74ced5a3280467e5585d62932e]: Commencement: Sch. 1 para. 15 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-68d21bff2a991601209fb6b882e79d3a]: Commencement: Sch. 1 para. 16 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-68d21bff2a991601209fb6b882e79d3a]: Commencement: Sch. 1 para. 16 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-0b53fc56e7d3f9f4eb5657ba481e7f4b]: Commencement: Sch. 1 para. 17 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-0b53fc56e7d3f9f4eb5657ba481e7f4b]: Commencement: Sch. 1 para. 17 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-7ef02613df1293cf90567a9bfefb4aff]: Commencement: Sch. 1 para. 18 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-7ef02613df1293cf90567a9bfefb4aff]: Commencement: Sch. 1 para. 18 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-d5d044bcb5bad4bfb630f1831d329603]: Commencement: Sch. 1 para. 19 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-d5d044bcb5bad4bfb630f1831d329603]: Commencement: Sch. 1 para. 19 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-13f65fa0c43f60b79889e38c19b808d8]: Commencement: Sch. 2 para. 1 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-13f65fa0c43f60b79889e38c19b808d8]: Commencement: Sch. 2 para. 1 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-a038dc38543107ad490fe62c77a4c92d]: Commencement: Sch. 2 para. 2 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-a038dc38543107ad490fe62c77a4c92d]: Commencement: Sch. 2 para. 2 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-d92dc92c24444ffe2dc9ce1411a3132b]: Textual amendment: Words in [Sch. 2 para. 2(1)(h)(i)](https://www.legislation.gov.uk/nisr/2005/70/schedule/2/paragraph/2/1/h/i) inserted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/10)
+[^c-d92dc92c24444ffe2dc9ce1411a3132b]: Textual amendment: Words in [Sch. 2 para. 2(1)(h)(i)](https://www.legislation.gov.uk/nisr/2005/70/schedule/2/paragraph/2/1/h/i) inserted (31.3.2007) by [Dairy Produce Quotas (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/33)](https://www.legislation.gov.uk/nisr/2007/33), [regs. 1](https://www.legislation.gov.uk/nisr/2007/33/regulation/1), [3(10)](https://www.legislation.gov.uk/nisr/2007/33/regulation/3/10)
 
-[^key-4c032a879baa551e1f56a27f759478e4]: Commencement: Sch. 2 para. 3 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-4c032a879baa551e1f56a27f759478e4]: Commencement: Sch. 2 para. 3 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-5b17853d519c4c3a6f9b51c873c7e837]: Commencement: Sch. 2 para. 4 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-5b17853d519c4c3a6f9b51c873c7e837]: Commencement: Sch. 2 para. 4 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-82198ec2c4e4d176288f45feec6dad0d]: Commencement: Sch. 2 para. 5 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-82198ec2c4e4d176288f45feec6dad0d]: Commencement: Sch. 2 para. 5 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-415bb711bef3edc3785cdfbdc96ed953]: Commencement: Sch. 2 para. 6 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-415bb711bef3edc3785cdfbdc96ed953]: Commencement: Sch. 2 para. 6 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-cc2636c0a49704db0ae56e6401f55944]: Commencement: Sch. 2 para. 7 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-cc2636c0a49704db0ae56e6401f55944]: Commencement: Sch. 2 para. 7 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
 
-[^key-99c242964b0bfc2fe336e5b7d6d4c69f]: Commencement: Sch. 2 para. 8 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)
+[^c-99c242964b0bfc2fe336e5b7d6d4c69f]: Commencement: Sch. 2 para. 8 in operation at 31.3.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/70/regulation/1)

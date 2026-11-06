@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Meaning of “regulated qualifications” etc.[^key-c7a06ba1f26910d7b23839f167032507]
+## 130. Meaning of “regulated qualifications” etc.[^c-c7a06ba1f26910d7b23839f167032507]
 
 *Extent: E+W+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) This Part applies to any of the following qualifications which is not an excluded qualification—
 
 - (a) an academic or vocational qualification awarded or authenticated in England;
-- (b)[^key-11103bc256ae4218784e60787f760c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-11103bc256ae4218784e60787f760c66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An excluded qualification is any of the following—
 
@@ -33,7 +33,7 @@ summary: ''
 - (b) a first degree;
 - (c) a degree at a higher level.
 
-(4) For the purposes of subsection (2) a qualification is awarded or authenticated in England [^key-5028b619012594642bfd098e407609d4]... if there are, or may reasonably be expected to be, persons seeking to obtain the qualification who are, will be or may reasonably be expected to be assessed for those purposes wholly or mainly in England [^key-5028b619012594642bfd098e407609d4]....
+(4) For the purposes of subsection (2) a qualification is awarded or authenticated in England [^c-5028b619012594642bfd098e407609d4]... if there are, or may reasonably be expected to be, persons seeking to obtain the qualification who are, will be or may reasonably be expected to be assessed for those purposes wholly or mainly in England [^c-5028b619012594642bfd098e407609d4]....
 
 (5) The Secretary of State may by order repeal subsection (2)(b).
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c7a06ba1f26910d7b23839f167032507]: Commencement: S. 130 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-c7a06ba1f26910d7b23839f167032507]: Commencement: S. 130 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-11103bc256ae4218784e60787f760c66]: Textual amendment: S. 130(2)(b) omitted (14.6.2016) by virtue of [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [arts. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [2](https://www.legislation.gov.uk/uksi/2016/642/article/2)
+[^c-11103bc256ae4218784e60787f760c66]: Textual amendment: S. 130(2)(b) omitted (14.6.2016) by virtue of [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [arts. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [2](https://www.legislation.gov.uk/uksi/2016/642/article/2)
 
-[^key-5028b619012594642bfd098e407609d4]: Textual amendment: Words in s. 130(4) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1
+[^c-5028b619012594642bfd098e407609d4]: Textual amendment: Words in s. 130(4) repealed (14.6.2016) by [The Education (Repeal of Arrangements for Vocational Qualifications Awarded or Authenticated in Northern Ireland) Order 2016 (S.I. 2016/642)](https://www.legislation.gov.uk/uksi/2016/642), [art. 1](https://www.legislation.gov.uk/uksi/2016/642/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2016/642/schedule) Table 1

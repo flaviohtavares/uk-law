@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Measures open to the Lord President[^key-d0d18a4159a49c191e40dc242d58f768][^key-e565a0bf59e1efc9d4017b31e088fded]
+## 19. Measures open to the Lord President[^c-d0d18a4159a49c191e40dc242d58f768][^c-e565a0bf59e1efc9d4017b31e088fded]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d0d18a4159a49c191e40dc242d58f768]: Commencement: S. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d0d18a4159a49c191e40dc242d58f768]: Commencement: S. 19 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-e565a0bf59e1efc9d4017b31e088fded]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/8/section/19) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-e565a0bf59e1efc9d4017b31e088fded]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/8/section/19) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

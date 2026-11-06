@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Review[^key-32c8f8a3c62404d7e1518df587a4d535]
+## 2. Review[^c-32c8f8a3c62404d7e1518df587a4d535]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The Welsh Ministers must review the need for the restrictions and requirements i
 
 ## Annotations
 
-[^key-32c8f8a3c62404d7e1518df587a4d535]: Commencement: Reg. 2 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-32c8f8a3c62404d7e1518df587a4d535]: Commencement: Reg. 2 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)

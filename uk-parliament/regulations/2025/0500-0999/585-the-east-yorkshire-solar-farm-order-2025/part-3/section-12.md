@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Use of private roads[^key-be83f2156d8b82dffcad43eaa4e695c3]
+## 12. Use of private roads[^c-be83f2156d8b82dffcad43eaa4e695c3]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be83f2156d8b82dffcad43eaa4e695c3]: Commencement: Art. 12 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-be83f2156d8b82dffcad43eaa4e695c3]: Commencement: Art. 12 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

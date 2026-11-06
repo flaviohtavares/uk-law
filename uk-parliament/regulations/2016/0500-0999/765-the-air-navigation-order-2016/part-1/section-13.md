@@ -22,10 +22,10 @@ summary: ''
 
 (1) A flight is a non-commercial flight if—
 
-- (a) there has been no valuable consideration or[^key-713697e01ef45b0efe66cfc40e22693a] the only valuable consideration given or promised for the flight to the pilot by the passengers[^key-fc149c69518c9647351e2e4822385526] [^key-0cd415f32fba5713aa8563eb2f48c911]... is a contribution to the direct costs of the flight otherwise payable by the pilot in command; and
+- (a) there has been no valuable consideration or[^c-713697e01ef45b0efe66cfc40e22693a] the only valuable consideration given or promised for the flight to the pilot by the passengers[^c-fc149c69518c9647351e2e4822385526] [^c-0cd415f32fba5713aa8563eb2f48c911]... is a contribution to the direct costs of the flight otherwise payable by the pilot in command; and
 - (b) the criteria in paragraph (2) are satisfied.
 
-(2)[^key-3e16136e332c37b51cfac3dde07ac2ed] The criteria of this paragraph are satisfied if—
+(2)[^c-3e16136e332c37b51cfac3dde07ac2ed] The criteria of this paragraph are satisfied if—
 
 - (a) no more than six persons (including the pilot) are carried on the flight;
 - (b) all costs other than direct costs are paid by the pilot with no contribution from the passengers;
@@ -42,7 +42,7 @@ summary: ''
   - (iii) produced by the operator of the flight when requested by an Authorised Person; and
 - (i) where advertisement or promotion of the flight occurs, the advertisement or promotion satisfies the criteria in paragraph (3).
 
-(3)[^key-59276ece29bd3c317b6b40483283ef91] The criteria of this paragraph are satisfied if an advertisement or promotion of a flight—
+(3)[^c-59276ece29bd3c317b6b40483283ef91] The criteria of this paragraph are satisfied if an advertisement or promotion of a flight—
 
 - (a) is placed by the pilot or operator of the flight;
 - (b) makes it clear that the flight is a private arrangement not conducted in accordance with CAT or PT safety standards; and
@@ -56,12 +56,12 @@ summary: ''
 
 ## Annotations
 
-[^key-713697e01ef45b0efe66cfc40e22693a]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/13/1/a) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/6/a)
+[^c-713697e01ef45b0efe66cfc40e22693a]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/13/1/a) inserted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2017/1112/article/6/a)
 
-[^key-fc149c69518c9647351e2e4822385526]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/13/1/a) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/850/article/3/2)
+[^c-fc149c69518c9647351e2e4822385526]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/13/1/a) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/850/article/3/2)
 
-[^key-0cd415f32fba5713aa8563eb2f48c911]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/13/1/a) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/6/b)
+[^c-0cd415f32fba5713aa8563eb2f48c911]: Textual amendment: Words in [art. 13(1)(a)](https://www.legislation.gov.uk/uksi/2016/765/article/13/1/a) omitted (14.12.2017) by virtue of [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2017/1112/article/6/b)
 
-[^key-3e16136e332c37b51cfac3dde07ac2ed]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/uksi/2016/765/article/13/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/850/article/3/3)
+[^c-3e16136e332c37b51cfac3dde07ac2ed]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/uksi/2016/765/article/13/2) substituted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/850/article/3/3)
 
-[^key-59276ece29bd3c317b6b40483283ef91]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2016/765/article/13/3) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/850/article/3/4)
+[^c-59276ece29bd3c317b6b40483283ef91]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/uksi/2016/765/article/13/3) inserted (1.10.2025) by [The Air Navigation (Amendment) Order 2025 (S.I. 2025/850)](https://www.legislation.gov.uk/uksi/2025/850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/850/article/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2025/850/article/3/4)

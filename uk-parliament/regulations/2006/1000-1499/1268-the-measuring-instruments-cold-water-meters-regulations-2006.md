@@ -32,7 +32,7 @@ summary: ''
 
 WEIGHTS AND MEASURES
 
-The Measuring Instruments (Cold-water Meters) Regulations 2006 (revoked)[^key-d4523887a0be01c6fbf453cac647c265]
+The Measuring Instruments (Cold-water Meters) Regulations 2006 (revoked)[^c-d4523887a0be01c6fbf453cac647c265]
 
 Made
 
@@ -52,322 +52,322 @@ Remaining regulations
 
 30th October 2006
 
-[^key-d4523887a0be01c6fbf453cac647c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4523887a0be01c6fbf453cac647c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — PRELIMINARY[^key-d4523887a0be01c6fbf453cac647c265]
+## PART I — PRELIMINARY[^c-d4523887a0be01c6fbf453cac647c265]
 
-### 1. Citation and commencement[^key-d4523887a0be01c6fbf453cac647c265]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-d4523887a0be01c6fbf453cac647c265]
+### 1. Citation and commencement[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application[^key-d4523887a0be01c6fbf453cac647c265]
+### 2. Interpretation[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — PLACING ON THE MARKET AND PUTTING INTO USE OF COLD-WATER METERS[^key-d4523887a0be01c6fbf453cac647c265]
-
-### 4. Requirements for placing on the market and putting into use[^key-d4523887a0be01c6fbf453cac647c265]
+### 3. Application[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Compliance with the essential requirements[^key-d4523887a0be01c6fbf453cac647c265]
+## PART II — PLACING ON THE MARKET AND PUTTING INTO USE OF COLD-WATER METERS[^c-d4523887a0be01c6fbf453cac647c265]
+
+### 4. Requirements for placing on the market and putting into use[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Conformity assessment procedures[^key-d4523887a0be01c6fbf453cac647c265]
+### 5. Compliance with the essential requirements[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Designation of United Kingdom notified bodies[^key-d4523887a0be01c6fbf453cac647c265]
+### 6. Conformity assessment procedures[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Functions of notified bodies[^key-d4523887a0be01c6fbf453cac647c265]
+### 7. Designation of United Kingdom notified bodies[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Provisions supplemental to regulation 7[^key-d4523887a0be01c6fbf453cac647c265]
+### 8. Functions of notified bodies[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Variation and termination of designations[^key-d4523887a0be01c6fbf453cac647c265]
+### 9. Provisions supplemental to regulation 7[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Fees[^key-d4523887a0be01c6fbf453cac647c265]
+### 10. Variation and termination of designations[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Marking and identification requirements[^key-d4523887a0be01c6fbf453cac647c265]
+### 11. Fees[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Conformity with other directives[^key-d4523887a0be01c6fbf453cac647c265]
+### 12. Marking and identification requirements[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — USE FOR TRADE OF COLD-WATER METERS[^key-d4523887a0be01c6fbf453cac647c265]
-
-### 14. Requirements for use for trade[^key-d4523887a0be01c6fbf453cac647c265]
+### 13. Conformity with other directives[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Maximum permissible error[^key-d4523887a0be01c6fbf453cac647c265]
+## PART III — USE FOR TRADE OF COLD-WATER METERS[^c-d4523887a0be01c6fbf453cac647c265]
+
+### 14. Requirements for use for trade[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Manner of use[^key-d4523887a0be01c6fbf453cac647c265]
+### 15. Maximum permissible error[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — ENFORCEMENT[^key-d4523887a0be01c6fbf453cac647c265]
-
-### 17. Enforcement authority[^key-d4523887a0be01c6fbf453cac647c265]
+### 16. Manner of use[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Compliance notice procedure[^key-d4523887a0be01c6fbf453cac647c265]
+## PART IV — ENFORCEMENT[^c-d4523887a0be01c6fbf453cac647c265]
+
+### 17. Enforcement authority[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Immediate enforcement action[^key-d4523887a0be01c6fbf453cac647c265]
+### 18. Compliance notice procedure[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Review by the Secretary of State[^key-d4523887a0be01c6fbf453cac647c265]
+### 19. Immediate enforcement action[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Disqualification[^key-d4523887a0be01c6fbf453cac647c265]
+### 20. Review by the Secretary of State[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Re-qualification[^key-d4523887a0be01c6fbf453cac647c265]
+### 21. Disqualification[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Testing of cold-water meters[^key-d4523887a0be01c6fbf453cac647c265]
+### 22. Re-qualification[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Unauthorised application of authorised marks[^key-d4523887a0be01c6fbf453cac647c265]
+### 23. Testing of cold-water meters[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Powers of entry and inspection[^key-d4523887a0be01c6fbf453cac647c265]
+### 24. Unauthorised application of authorised marks[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Obstruction of enforcement officer[^key-d4523887a0be01c6fbf453cac647c265]
+### 25. Powers of entry and inspection[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Penalties for offences[^key-d4523887a0be01c6fbf453cac647c265]
+### 26. Obstruction of enforcement officer[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Defence of due diligence[^key-d4523887a0be01c6fbf453cac647c265]
+### 27. Penalties for offences[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Liability of persons other than the principal offender[^key-d4523887a0be01c6fbf453cac647c265]
+### 28. Defence of due diligence[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — MISCELLANEOUS AND SUPPLEMENTAL[^key-d4523887a0be01c6fbf453cac647c265]
-
-### 30. Service of documents[^key-d4523887a0be01c6fbf453cac647c265]
+### 29. Liability of persons other than the principal offender[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Savings for certain privileges[^key-d4523887a0be01c6fbf453cac647c265]
+## PART V — MISCELLANEOUS AND SUPPLEMENTAL[^c-d4523887a0be01c6fbf453cac647c265]
+
+### 30. Service of documents[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Adaptation for Northern Ireland[^key-d4523887a0be01c6fbf453cac647c265]
+### 31. Savings for certain privileges[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4523887a0be01c6fbf453cac647c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 32. Adaptation for Northern Ireland[^c-d4523887a0be01c6fbf453cac647c265]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d4523887a0be01c6fbf453cac647c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ESSENTIAL REQUIREMENTS[^key-d4523887a0be01c6fbf453cac647c265]
+## SCHEDULE 1 — ESSENTIAL REQUIREMENTS[^c-d4523887a0be01c6fbf453cac647c265]
 
 Regulations 2(1), 14(a) and 15(2)
 
-**1.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Definitions[^key-d4523887a0be01c6fbf453cac647c265]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Allowable Errors[^key-d4523887a0be01c6fbf453cac647c265]
+### 2. Definitions[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Reproducibility[^key-d4523887a0be01c6fbf453cac647c265]
+### 3. Allowable Errors[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Repeatability[^key-d4523887a0be01c6fbf453cac647c265]
+### 4. Reproducibility[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Discrimination and Sensitivity[^key-d4523887a0be01c6fbf453cac647c265]
+### 5. Repeatability[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Durability[^key-d4523887a0be01c6fbf453cac647c265]
+### 6. Discrimination and Sensitivity[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Reliability[^key-d4523887a0be01c6fbf453cac647c265]
+### 7. Durability[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Suitability[^key-d4523887a0be01c6fbf453cac647c265]
+### 8. Reliability[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Protection against corruption[^key-d4523887a0be01c6fbf453cac647c265]
+### 9. Suitability[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Information to be borne by and to accompany the instrument[^key-d4523887a0be01c6fbf453cac647c265]
+### 10. Protection against corruption[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Indication of result[^key-d4523887a0be01c6fbf453cac647c265]
+### 11. Information to be borne by and to accompany the instrument[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Conformity evaluation[^key-d4523887a0be01c6fbf453cac647c265]
+### 12. Indication of result[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Rated Operating Conditions[^key-d4523887a0be01c6fbf453cac647c265]
+### 13. Conformity evaluation[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. MPE[^key-d4523887a0be01c6fbf453cac647c265]
+### 14. Rated Operating Conditions[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Permissible Effect of Disturbances[^key-d4523887a0be01c6fbf453cac647c265]
+### 15. MPE[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Units of Measurement[^key-d4523887a0be01c6fbf453cac647c265]
+### 16. Permissible Effect of Disturbances[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Putting into Use[^key-d4523887a0be01c6fbf453cac647c265]
+### 17. Units of Measurement[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — NOTIFIED BODIES[^key-d4523887a0be01c6fbf453cac647c265]
+### 18. Putting into Use[^c-d4523887a0be01c6fbf453cac647c265]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — NOTIFIED BODIES[^c-d4523887a0be01c6fbf453cac647c265]
 
 Regulations 2(1) and 8
 
-### PART 1 — NOTIFIED BODY CRITERIA[^key-d4523887a0be01c6fbf453cac647c265]
+### PART 1 — NOTIFIED BODY CRITERIA[^c-d4523887a0be01c6fbf453cac647c265]
 
-**1.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — FUNCTIONS[^key-d4523887a0be01c6fbf453cac647c265]
+### PART 2 — FUNCTIONS[^c-d4523887a0be01c6fbf453cac647c265]
 
-#### 9. Assessment of applications for certificates or notifications[^key-d4523887a0be01c6fbf453cac647c265]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 10. Limitations on duties to exercise functions[^key-d4523887a0be01c6fbf453cac647c265]
+#### 9. Assessment of applications for certificates or notifications[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Contractors[^key-d4523887a0be01c6fbf453cac647c265]
+#### 10. Limitations on duties to exercise functions[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Form of certificates and notifications[^key-d4523887a0be01c6fbf453cac647c265]
+#### 11. Contractors[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Conditions in certificates or notifications[^key-d4523887a0be01c6fbf453cac647c265]
+#### 12. Form of certificates and notifications[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Withdrawal of certificates or notifications[^key-d4523887a0be01c6fbf453cac647c265]
+#### 13. Conditions in certificates or notifications[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Procedure where a notified body is minded to refuse to give, or to vary or withdraw a certificate or notification[^key-d4523887a0be01c6fbf453cac647c265]
+#### 14. Withdrawal of certificates or notifications[^c-d4523887a0be01c6fbf453cac647c265]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TECHNICAL DOCUMENTATION[^key-d4523887a0be01c6fbf453cac647c265]
+#### 15. Procedure where a notified body is minded to refuse to give, or to vary or withdraw a certificate or notification[^c-d4523887a0be01c6fbf453cac647c265]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — TECHNICAL DOCUMENTATION[^c-d4523887a0be01c6fbf453cac647c265]
 
 Regulation 6(2)
 
-**1.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — MARKING AND INSCRIPTIONS[^key-d4523887a0be01c6fbf453cac647c265]
+## SCHEDULE 4 — MARKING AND INSCRIPTIONS[^c-d4523887a0be01c6fbf453cac647c265]
 
 Regulation 12(3)
 
-**1.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — ADAPTATIONS FOR NORTHERN IRELAND[^key-d4523887a0be01c6fbf453cac647c265]
+## SCHEDULE 5 — ADAPTATIONS FOR NORTHERN IRELAND[^c-d4523887a0be01c6fbf453cac647c265]
 
 Regulation 32
 
-**1.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d4523887a0be01c6fbf453cac647c265] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4523887a0be01c6fbf453cac647c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4523887a0be01c6fbf453cac647c265]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4523887a0be01c6fbf453cac647c265]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) table (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/2))
+[^c-d4523887a0be01c6fbf453cac647c265]: Textual amendment: Regulations revoked (28.12.2016) by [The Measuring Instruments Regulations 2016 (S.I. 2016/1153)](https://www.legislation.gov.uk/uksi/2016/1153), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/1/2), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/1) table (with [regs. 3(4)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/3/4), [5](https://www.legislation.gov.uk/uksi/2016/1153/regulation/5), [67(5)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/67/5), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/1153/schedule/3/paragraph/2))

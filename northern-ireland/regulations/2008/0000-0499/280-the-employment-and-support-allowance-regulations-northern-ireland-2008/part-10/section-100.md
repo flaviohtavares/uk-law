@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Interpretation[^key-ee19c8c64ad9607307bcc10644a15143]
+## 100. Interpretation[^c-ee19c8c64ad9607307bcc10644a15143]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter “special account” means, where a claimant is carrying on a c
 
 ## Annotations
 
-[^key-ee19c8c64ad9607307bcc10644a15143]: Commencement: [Reg. 100](https://www.legislation.gov.uk/nisr/2008/280/regulation/100) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-ee19c8c64ad9607307bcc10644a15143]: Commencement: [Reg. 100](https://www.legislation.gov.uk/nisr/2008/280/regulation/100) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

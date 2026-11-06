@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Benefits for homes near electricity transmission projects[^key-7459dbd8cdbfb876a94bb3138ba97371]
+## 27. Benefits for homes near electricity transmission projects[^c-7459dbd8cdbfb876a94bb3138ba97371]
 
 *Extent: E+W*
 
@@ -145,4 +145,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7459dbd8cdbfb876a94bb3138ba97371]: Commencement: S. 27 in force at Royal Assent, see [s. 118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n)
+[^c-7459dbd8cdbfb876a94bb3138ba97371]: Commencement: S. 27 in force at Royal Assent, see [s. 118(1)(n)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/n)

@@ -33,11 +33,11 @@ Copyright, Designs and Patents Act 1988
 
 \[15th November 1988\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ec980a00b736f429cfcf0a5f95e92ef3]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ec980a00b736f429cfcf0a5f95e92ef3]
 
 ## Contents
 
-### Part I — Copyright[^c13754391][^c13754401][^c13754411][^c13754421][^c20338221][^c19312491][^c20338191][^c20336611][^c20338141][^c19458521][^c20329731][^key-49a8e1a1440282ac2a24cb91f90be6ee][^key-34c8c7f0e6a541c2b880a9d884cca26e][^M_C_b5eb407e-8f21-4a60-86a5-9b89a163ff81][^M_C_d23008be-acef-4ac0-fa7d-737e677c2184][^M_C_674e33e6-3435-42b3-b304-0e48a78120af][^key-6bb059782fb02e0b630e21b950cc6065]
+### Part I — Copyright[^c13754391][^c13754401][^c13754411][^c13754421][^c20338221][^c19312491][^c20338191][^c20336611][^c20338141][^c19458521][^c20329731][^c-49a8e1a1440282ac2a24cb91f90be6ee][^c-34c8c7f0e6a541c2b880a9d884cca26e][^M_C_b5eb407e-8f21-4a60-86a5-9b89a163ff81][^M_C_d23008be-acef-4ac0-fa7d-737e677c2184][^M_C_674e33e6-3435-42b3-b304-0e48a78120af][^c-6bb059782fb02e0b630e21b950cc6065]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,7 +130,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 30A — Caricature, parody or pastiche](part-i/section-30a.md)
 - [Section 31 — Incidental inclusion of copyright material.](part-i/section-31.md)
 
-##### Disability[^key-3f307318ffddb5f4498fd0775467948e]
+##### Disability[^c-3f307318ffddb5f4498fd0775467948e]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,7 +172,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 44 — Copy of work required to be made as condition of export.](part-i/section-44.md)
 - [Section 44A — Legal deposit libraries](part-i/section-44a.md)
 
-##### Orphan works[^key-13a22dcefc1158abfcedde0dc89d9d21]
+##### Orphan works[^c-13a22dcefc1158abfcedde0dc89d9d21]
 
 - [Section 44B — Permitted uses of orphan works](part-i/section-44b.md)
 
@@ -254,7 +254,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 76 — Adaptations.](part-i/section-76.md)
 
-#### CHAPTER 3A — CERTAIN PERMITTED USES OF ORPHAN WORKS[^key-8945114927155dfeb386759c2a5b9bba]
+#### CHAPTER 3A — CERTAIN PERMITTED USES OF ORPHAN WORKS[^c-8945114927155dfeb386759c2a5b9bba]
 
 *Extent: E+W+S+N.I.*
 
@@ -378,7 +378,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 116 — Licensing schemes and licensing bodies.](part-i/section-116.md)
 
-##### Orphan works licensing and extended collective licensing[^key-c2d26f0bd580c54199e0b317d11eab4b]
+##### Orphan works licensing and extended collective licensing[^c-c2d26f0bd580c54199e0b317d11eab4b]
 
 - [Section 116A — Power to provide for licensing of orphan works](part-i/section-116a.md)
 - [Section 116B — Extended collective licensing](part-i/section-116b.md)
@@ -543,7 +543,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 178 — Minor definitions.](part-i/section-178.md)
 - [Section 179 — Index of defined expressions.](part-i/section-179.md)
 
-### Part II — Rights in performances[^c19312551][^c19424491][^c20338281][^c20327631][^c20329821][^key-e34ea4976caaef9337d2d8f51db8dbb9][^key-4978b23dfe6176fbfe4deb93dfba558c][^key-99a3ee22bc471986a3cdb3a7bf052eca][^key-52ded3fa73c9ba424066677bc167b3ac][^key-387b2b5d8aa5869bfafb5903b16441f3]
+### Part II — Rights in performances[^c19312551][^c19424491][^c20338281][^c20327631][^c20329821][^c-e34ea4976caaef9337d2d8f51db8dbb9][^c-4978b23dfe6176fbfe4deb93dfba558c][^c-99a3ee22bc471986a3cdb3a7bf052eca][^c-52ded3fa73c9ba424066677bc167b3ac][^c-387b2b5d8aa5869bfafb5903b16441f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -640,7 +640,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 204B — Forfeiture: Scotland](part-ii/section-204b.md)
 - [Section 205 — Jurisdiction of county court and sheriff court.](part-ii/section-205.md)
 
-##### Licensing of performers’ ... rights[^c20314181][^c20312341][^key-e722df99f1be149da54e915c6840721f]
+##### Licensing of performers’ ... rights[^c20314181][^c20312341][^c-e722df99f1be149da54e915c6840721f]
 
 *Extent: E+W+S+N.I.*
 
@@ -673,7 +673,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 205M — Transmission of moral rights on death](part-ii/section-205m.md)
 - [Section 205N — Remedies for infringement of moral rights](part-ii/section-205n.md)
 
-#### Chapter 4 — QUALIFICATION FOR PROTECTION, EXTENT AND INTERPRETATION[^key-955c41072a9ee12c4178dd2fce6841d3][^key-b07deb2dbe91e6b7eda0afe3df506ad0][^key-52ded3fa73c9ba424066677bc167b3ac][^c20314881]
+#### Chapter 4 — QUALIFICATION FOR PROTECTION, EXTENT AND INTERPRETATION[^c-955c41072a9ee12c4178dd2fce6841d3][^c-b07deb2dbe91e6b7eda0afe3df506ad0][^c-52ded3fa73c9ba424066677bc167b3ac][^c20314881]
 
 *Extent: E+W+S+N.I.*
 
@@ -691,11 +691,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 211 — Expressions having same meaning as in copyright provisions.](part-ii/section-211.md)
 - [Section 212 — Index of defined expressions.](part-ii/section-212.md)
 
-##### Supplementary[^key-2be26f7b2ac8e01f41d4150309b87438]
+##### Supplementary[^c-2be26f7b2ac8e01f41d4150309b87438]
 
 - [Section 212A — Power to amend in consequence of changes to international law](part-ii/section-212a.md)
 
-### Part III — Design Right[^key-7a94453ba62e90d533b0429b8fe954e3]
+### Part III — Design Right[^c-7a94453ba62e90d533b0429b8fe954e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -763,7 +763,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 243 — Crown use: compensation for loss of profit.](part-iii/section-243.md)
 - [Section 244 — Special provision for Crown use during emergency.](part-iii/section-244.md)
 
-##### Miscellaneous[^key-6056fbe94f4f07a16ed63ce18f82565d]
+##### Miscellaneous[^c-6056fbe94f4f07a16ed63ce18f82565d]
 
 *Extent: E+W+S+N.I.*
 
@@ -796,7 +796,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S+N.I.*
 
-##### Unjustified threats[^key-0ad816cf635ea8969083f16506b03f51]
+##### Unjustified threats[^c-0ad816cf635ea8969083f16506b03f51]
 
 - [Section 253 — Threats of infringement proceedings](part-iii/section-253.md)
 - [Section 253A — Actionable threats](part-iii/section-253a.md)
@@ -805,7 +805,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 253D — Professional advisers](part-iii/section-253d.md)
 - [Section 253E — Supplementary: proceedings for delivery up etc.](part-iii/section-253e.md)
 
-##### Licensee under licence of right not to claim connection with design right owner[^key-aa9579ff5fc9a53f2d3f77dccc891020]
+##### Licensee under licence of right not to claim connection with design right owner[^c-aa9579ff5fc9a53f2d3f77dccc891020]
 
 - [Section 254 — Licensee under licence of right not to claim connection with design right owner.](part-iii/section-254.md)
 
@@ -825,7 +825,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 263 — Minor definitions.](part-iii/section-263.md)
 - [Section 264 — Index of defined expressions.](part-iii/section-264.md)
 
-### Part IV — Registered Designs[^c13761331][^key-8a6adcc9fced35e43dfce269d20db92e]
+### Part IV — Registered Designs[^c13761331][^c-8a6adcc9fced35e43dfce269d20db92e]
 
 *Extent: E+W+S+N.I.*
 
@@ -938,7 +938,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 300 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-vii/section-300.md)
 
-#### Provisions for the benefit of Great Ormond Street Hospital for Children[^key-2092c749c9e7f835b430119fe9a207c9]
+#### Provisions for the benefit of Great Ormond Street Hospital for Children[^c-2092c749c9e7f835b430119fe9a207c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -976,7 +976,7 @@ SCHEDULES
 
 [^c13754381]: Modification: Act amended by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 176](https://www.legislation.gov.uk/ukpga/1990/42/section/176), [Sch. 17 para. 7(1)](https://www.legislation.gov.uk/ukpga/1990/42/schedule/17/paragraph/7/1)
 
-[^key-ec980a00b736f429cfcf0a5f95e92ef3]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-ec980a00b736f429cfcf0a5f95e92ef3]: Modification: Act: power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
 [^c13754391]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended (with modifications) by [S.I. 1989/988](https://www.legislation.gov.uk/uksi/1989/988), [art. 2(3)](https://www.legislation.gov.uk/uksi/1989/988/article/2/3), [4](https://www.legislation.gov.uk/uksi/1989/988/article/4), [5](https://www.legislation.gov.uk/uksi/1989/988/article/5), [Sch. 4](https://www.legislation.gov.uk/uksi/1989/988/schedule/4) (with [art. 6](https://www.legislation.gov.uk/uksi/1989/988/article/6)) (which S.I. was revoked by [S.I. 1989/1293](https://www.legislation.gov.uk/uksi/1989/1293), [Sch. 5](https://www.legislation.gov.uk/uksi/1989/1293/schedule/5))
 
@@ -1000,9 +1000,9 @@ SCHEDULES
 
 [^c20329731]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended (with modifications) (6.4.2008) by [The Copyright and Performances (Application to Other Countries) Order 2008 (S.I. 2008/677)](https://www.legislation.gov.uk/uksi/2008/677), [arts. 2-5](https://www.legislation.gov.uk/uksi/2008/677/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/677/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2008/677/article/7)) (which S.I. was revoked (6.4.2012) by [S.I. 2012/799](https://www.legislation.gov.uk/uksi/2012/799), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/799/article/1/3))
 
-[^key-49a8e1a1440282ac2a24cb91f90be6ee]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended (with modifications) (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/799/article/1/1), [arts. 2-5](https://www.legislation.gov.uk/uksi/2012/799/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2012/799/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/799/article/8)) (which S.I. was revoked (6.4.2013) by [S.I. 2013/536](https://www.legislation.gov.uk/uksi/2013/536)), art. 1(3))
+[^c-49a8e1a1440282ac2a24cb91f90be6ee]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended (with modifications) (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/799/article/1/1), [arts. 2-5](https://www.legislation.gov.uk/uksi/2012/799/article/2), [Schs.](https://www.legislation.gov.uk/uksi/2012/799/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/799/article/8)) (which S.I. was revoked (6.4.2013) by [S.I. 2013/536](https://www.legislation.gov.uk/uksi/2013/536)), art. 1(3))
 
-[^key-34c8c7f0e6a541c2b880a9d884cca26e]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended in part (with modifications) (6.4.2013) by [The Copyright and Performances (Application to Other Countries) Order 2013 (S.I. 2013/536)](https://www.legislation.gov.uk/uksi/2013/536), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/536/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/536/article/2), [4](https://www.legislation.gov.uk/uksi/2013/536/article/4), [5](https://www.legislation.gov.uk/uksi/2013/536/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2013/536/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/536/article/8)) (as amended (6.4.2015) by [S.I. 2015/216](https://www.legislation.gov.uk/uksi/2015/216), [art. 2](https://www.legislation.gov.uk/uksi/2015/216/article/2)) (which S.I. and amending S.I. were revoked (6.4.2017) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3))
+[^c-34c8c7f0e6a541c2b880a9d884cca26e]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended in part (with modifications) (6.4.2013) by [The Copyright and Performances (Application to Other Countries) Order 2013 (S.I. 2013/536)](https://www.legislation.gov.uk/uksi/2013/536), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/536/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/536/article/2), [4](https://www.legislation.gov.uk/uksi/2013/536/article/4), [5](https://www.legislation.gov.uk/uksi/2013/536/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2013/536/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/536/article/8)) (as amended (6.4.2015) by [S.I. 2015/216](https://www.legislation.gov.uk/uksi/2015/216), [art. 2](https://www.legislation.gov.uk/uksi/2015/216/article/2)) (which S.I. and amending S.I. were revoked (6.4.2017) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3))
 
 [^M_C_b5eb407e-8f21-4a60-86a5-9b89a163ff81]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended in part (Cayman Islands) (with modifications) (coming into force in accordance with art. 1 of the amending Order) by [The Copyright (Cayman Islands) Order 2015 (S.I. 2015/795)](https://www.legislation.gov.uk/uksi/2015/795), [arts. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1), [2](https://www.legislation.gov.uk/uksi/2015/795/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2015/795/schedule) (as amended by [S.I. 2016/370](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [2-40](https://www.legislation.gov.uk/uksi/2016/370/article/2))
 
@@ -1010,7 +1010,7 @@ SCHEDULES
 
 [^M_C_674e33e6-3435-42b3-b304-0e48a78120af]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1) extended (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [4](https://www.legislation.gov.uk/uksi/2016/1219/article/4), [5](https://www.legislation.gov.uk/uksi/2016/1219/article/5), [7](https://www.legislation.gov.uk/uksi/2016/1219/article/7), [8](https://www.legislation.gov.uk/uksi/2016/1219/article/8), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/1) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13)) (as amended: (26.6.2021) by [S.I. 2021/636](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/636/article/2/2); (1.12.2021) by [S.I. 2021/1258](https://www.legislation.gov.uk/uksi/2021/1258), [arts. 1](https://www.legislation.gov.uk/uksi/2021/1258/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2021/1258/article/2/2); (15.4.2023) by [S.I. 2023/296](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/296/article/2/2); and (15.12.2024) by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [5(2)(3)](https://www.legislation.gov.uk/uksi/2024/193/article/5/2) and [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
 
-[^key-6bb059782fb02e0b630e21b950cc6065]: Modification: Pt. 1: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/7)[(8)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/a)
+[^c-6bb059782fb02e0b630e21b950cc6065]: Modification: Pt. 1: power to extend conferred (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1), [119(7)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/7)[(8)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/119/8/a)
 
 [^c13754431]: Modification: [Pt. 1 Ch. 1](https://www.legislation.gov.uk/ukpga/1988/48/part/1/chapter/1) applied in part (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [reg. 17(4)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17/4) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III))
 
@@ -1022,9 +1022,9 @@ SCHEDULES
 
 [^c19312521]: Modification: Pt. 1 Ch. III continued (31.10.2003) by virtue of [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 33](https://www.legislation.gov.uk/uksi/2003/2498/regulation/33), (with regs. 31-40)
 
-[^key-3f307318ffddb5f4498fd0775467948e]: Textual amendment: S. 31A cross-heading substituted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/2/2)
+[^c-3f307318ffddb5f4498fd0775467948e]: Textual amendment: S. 31A cross-heading substituted (1.6.2014) by [The Copyright and Rights in Performances (Disability) Regulations 2014 (S.I. 2014/1384)](https://www.legislation.gov.uk/uksi/2014/1384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/1384/regulation/2/2)
 
-[^key-13a22dcefc1158abfcedde0dc89d9d21]: Textual amendment: S. 44B and cross-heading inserted (29.10.2014) by [The Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 (S.I. 2014/2861)](https://www.legislation.gov.uk/uksi/2014/2861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/2861/regulation/3/1)
+[^c-13a22dcefc1158abfcedde0dc89d9d21]: Textual amendment: S. 44B and cross-heading inserted (29.10.2014) by [The Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 (S.I. 2014/2861)](https://www.legislation.gov.uk/uksi/2014/2861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2014/2861/regulation/3/1)
 
 [^c13755481]: Textual amendment: Cross-heading and ss. 50A-50C inserted (1.1.1993) by [S.I. 1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), [reg.8](https://www.legislation.gov.uk/uksi/1992/3233/regulation/8).
 
@@ -1036,7 +1036,7 @@ SCHEDULES
 
 [^c19323211]: Textual amendment: Words in heading before s. 68 repealed (31.10.2003) by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2498/schedule/2) (with [regs. 32](https://www.legislation.gov.uk/uksi/2003/2498/regulation/32), [33](https://www.legislation.gov.uk/uksi/2003/2498/regulation/33))
 
-[^key-8945114927155dfeb386759c2a5b9bba]: Textual amendment: Pt. 1 Ch. 3A inserted (29.10.2014) by [The Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 (S.I. 2014/2861)](https://www.legislation.gov.uk/uksi/2014/2861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2861/regulation/3/2)
+[^c-8945114927155dfeb386759c2a5b9bba]: Textual amendment: Pt. 1 Ch. 3A inserted (29.10.2014) by [The Copyright and Rights in Performances (Certain Permitted Uses of Orphan Works) Regulations 2014 (S.I. 2014/2861)](https://www.legislation.gov.uk/uksi/2014/2861), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2861/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/2861/regulation/3/2)
 
 [^c13755781]: Modification: Pt. 1 Ch. V applied (with modifications) (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [reg. 17(1)-(3)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17/1) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III))
 
@@ -1046,7 +1046,7 @@ SCHEDULES
 
 [^c13756481]: Modification: Pt. 1 Ch. VII applied (with modifications) (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [reg. 17(1)-(3)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/17/1) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III))
 
-[^key-c2d26f0bd580c54199e0b317d11eab4b]: Textual amendment: Ss. 116A-116D and cross-heading inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 77(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/77/3), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
+[^c-c2d26f0bd580c54199e0b317d11eab4b]: Textual amendment: Ss. 116A-116D and cross-heading inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 77(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/77/3), [103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1)
 
 [^c13756611]: Textual amendment: Ss. 135A–135G inserted by [Broadcasting Act 1990 (c. 42, SIF 96)](https://www.legislation.gov.uk/ukpga/1990/42), [s. 175(1)](https://www.legislation.gov.uk/ukpga/1990/42/section/175/1)
 
@@ -1070,15 +1070,15 @@ SCHEDULES
 
 [^c20329821]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (with modifications) (6.4.2008) by [The Copyright and Performances (Application to Other Countries) Order 2008 (S.I. 2008/677)](https://www.legislation.gov.uk/uksi/2008/677), [art. 6](https://www.legislation.gov.uk/uksi/2008/677/article/6), [Sch.](https://www.legislation.gov.uk/uksi/2008/677/schedule) (with [art. 7](https://www.legislation.gov.uk/uksi/2008/677/article/7)) (which S.I. was revoked (6.4.2012) by [S.I. 2012/799](https://www.legislation.gov.uk/uksi/2012/799), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/799/article/1/3))
 
-[^key-e34ea4976caaef9337d2d8f51db8dbb9]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (with modifications) (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/799/article/1/1), [6](https://www.legislation.gov.uk/uksi/2012/799/article/6), [7](https://www.legislation.gov.uk/uksi/2012/799/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2012/799/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/799/article/8)) (which S.I. was revoked (6.4.2013) by [S.I. 2013/536](https://www.legislation.gov.uk/uksi/2013/536), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/536/article/1/3))
+[^c-e34ea4976caaef9337d2d8f51db8dbb9]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (with modifications) (6.4.2012) by [The Copyright and Performances (Application to Other Countries) Order 2012 (S.I. 2012/799)](https://www.legislation.gov.uk/uksi/2012/799), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/799/article/1/1), [6](https://www.legislation.gov.uk/uksi/2012/799/article/6), [7](https://www.legislation.gov.uk/uksi/2012/799/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2012/799/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2012/799/article/8)) (which S.I. was revoked (6.4.2013) by [S.I. 2013/536](https://www.legislation.gov.uk/uksi/2013/536), [art. 1(3)](https://www.legislation.gov.uk/uksi/2013/536/article/1/3))
 
-[^key-4978b23dfe6176fbfe4deb93dfba558c]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended in part (with modifications) (6.4.2013) by [The Copyright and Performances (Application to Other Countries) Order 2013 (S.I. 2013/536)](https://www.legislation.gov.uk/uksi/2013/536), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/536/article/1/1), [6](https://www.legislation.gov.uk/uksi/2013/536/article/6), [7](https://www.legislation.gov.uk/uksi/2013/536/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2013/536/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/536/article/8)) (as amended (6.4.2015) by [S.I. 2015/216](https://www.legislation.gov.uk/uksi/2015/216), [art. 2](https://www.legislation.gov.uk/uksi/2015/216/article/2)) (which S.I. and amending S.I. were revoked (6.4.2017) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3))
+[^c-4978b23dfe6176fbfe4deb93dfba558c]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended in part (with modifications) (6.4.2013) by [The Copyright and Performances (Application to Other Countries) Order 2013 (S.I. 2013/536)](https://www.legislation.gov.uk/uksi/2013/536), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/536/article/1/1), [6](https://www.legislation.gov.uk/uksi/2013/536/article/6), [7](https://www.legislation.gov.uk/uksi/2013/536/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2013/536/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/536/article/8)) (as amended (6.4.2015) by [S.I. 2015/216](https://www.legislation.gov.uk/uksi/2015/216), [art. 2](https://www.legislation.gov.uk/uksi/2015/216/article/2)) (which S.I. and amending S.I. were revoked (6.4.2017) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3))
 
-[^key-99a3ee22bc471986a3cdb3a7bf052eca]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [10](https://www.legislation.gov.uk/uksi/2016/1219/article/10), [12](https://www.legislation.gov.uk/uksi/2016/1219/article/12), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13)) (as amended (26.6.2021) by [S.I. 2021/636](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b); (15.4.2023) by [S.I. 2023/296](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/296/article/2/3); and (15.12.2024) by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(2)(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/2) and [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
+[^c-99a3ee22bc471986a3cdb3a7bf052eca]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [10](https://www.legislation.gov.uk/uksi/2016/1219/article/10), [12](https://www.legislation.gov.uk/uksi/2016/1219/article/12), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13)) (as amended (26.6.2021) by [S.I. 2021/636](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/636/article/2/4/b); (15.4.2023) by [S.I. 2023/296](https://www.legislation.gov.uk/uksi/2023/296), [arts. 1](https://www.legislation.gov.uk/uksi/2023/296/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/296/article/2/3); and (15.12.2024) by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(2)(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/2) and [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
 
-[^key-52ded3fa73c9ba424066677bc167b3ac]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) restricted (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/1219/article/9), [11](https://www.legislation.gov.uk/uksi/2016/1219/article/11), [Sch.](https://www.legislation.gov.uk/uksi/2016/1219/schedule) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13)) (as amended (15.12.2024) by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(1)(3)(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/1) and [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1124/article/4), [5](https://www.legislation.gov.uk/uksi/2024/1124/article/5), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
+[^c-52ded3fa73c9ba424066677bc167b3ac]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) restricted (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [9](https://www.legislation.gov.uk/uksi/2016/1219/article/9), [11](https://www.legislation.gov.uk/uksi/2016/1219/article/11), [Sch.](https://www.legislation.gov.uk/uksi/2016/1219/schedule) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13)) (as amended (15.12.2024) by [S.I. 2024/193](https://www.legislation.gov.uk/uksi/2024/193), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/193/article/1/2), [6(1)(3)(4)](https://www.legislation.gov.uk/uksi/2024/193/article/6/1) and [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1124/article/4), [5](https://www.legislation.gov.uk/uksi/2024/1124/article/5), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
 
-[^key-387b2b5d8aa5869bfafb5903b16441f3]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (26.6.2021) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 12A](https://www.legislation.gov.uk/uksi/2016/1219/article/12A) (as inserted by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/636/article/2/3)) (as amended (15.12.2024) by [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1124/article/6), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
+[^c-387b2b5d8aa5869bfafb5903b16441f3]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1988/48/part/2) extended (26.6.2021) by [S.I. 2016/1219](https://www.legislation.gov.uk/uksi/2016/1219), [art. 12A](https://www.legislation.gov.uk/uksi/2016/1219/article/12A) (as inserted by [The Copyright and Performances (Application to Other Countries) (Amendment) Order 2021 (S.I. 2021/636)](https://www.legislation.gov.uk/uksi/2021/636), [arts. 1](https://www.legislation.gov.uk/uksi/2021/636/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/636/article/2/3)) (as amended (15.12.2024) by [S.I. 2024/1124](https://www.legislation.gov.uk/uksi/2024/1124), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1124/article/1/2), [6](https://www.legislation.gov.uk/uksi/2024/1124/article/6), [7](https://www.legislation.gov.uk/uksi/2024/1124/article/7))
 
 [^c20314841]: Textual amendment: Cross-headings before ss. 180, 181 omitted (1.2.2006) and ss. 180, 181 become Pt. 2 Ch. 1 by virtue of [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 4(1)-(3)](https://www.legislation.gov.uk/uksi/2006/18/regulation/4/1) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 
@@ -1120,7 +1120,7 @@ SCHEDULES
 
 [^c20312341]: Textual amendment: S. 205A and cross-heading inserted (1.12.1996) by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [reg. 22(1)](https://www.legislation.gov.uk/uksi/1996/2967/regulation/22/1) (with [Pt. III](https://www.legislation.gov.uk/uksi/1996/2967/part/III))
 
-[^key-e722df99f1be149da54e915c6840721f]: Textual amendment: Word in s. 205A cross-heading omitted (25.4.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/22/paragraph/6)
+[^c-e722df99f1be149da54e915c6840721f]: Textual amendment: Word in s. 205A cross-heading omitted (25.4.2013) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1), [Sch. 22 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/22/paragraph/6)
 
 [^c20314201]: Editorial: The insertion of the new headings "Chapter 1 Introductory", "Chapter 2 Economic Rights", "Chapter 3 Moral Rights" and "Chapter 4 Qualification for Protection, Extent and Interpretation" in Pt. II on 1.2.2006 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under those new headings.
 
@@ -1128,9 +1128,9 @@ SCHEDULES
 
 [^c20314971]: Textual amendment: Ss. 205C-205N and cross-headings inserted (1.2 2006) by [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [art. 6](https://www.legislation.gov.uk/uksi/2006/18/article/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8)) (which inserted provisions accordingly become Pt. 2 Ch. 3 (1.2.2006) by virtue of [S.I. 2006/18](https://www.legislation.gov.uk/uksi/2006/18), [art. 4(6)](https://www.legislation.gov.uk/uksi/2006/18/article/4/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8)))
 
-[^key-955c41072a9ee12c4178dd2fce6841d3]: Modification: Pt. 2 applied (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [12](https://www.legislation.gov.uk/uksi/2016/1219/article/12), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))
+[^c-955c41072a9ee12c4178dd2fce6841d3]: Modification: Pt. 2 applied (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [12](https://www.legislation.gov.uk/uksi/2016/1219/article/12), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))
 
-[^key-b07deb2dbe91e6b7eda0afe3df506ad0]: Modification: Pt. 2 applied (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1219/article/11), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))
+[^c-b07deb2dbe91e6b7eda0afe3df506ad0]: Modification: Pt. 2 applied (with modifications) (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/1), [11](https://www.legislation.gov.uk/uksi/2016/1219/article/11), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2016/1219/schedule/part/2) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))
 
 [^c20314881]: Textual amendment: Ss. 206-212 become Pt. 2 Ch. 4 (1.2.2006) by virtue of [The Performances (Moral Rights, etc.) Regulations 2006 (S.I. 2006/18)](https://www.legislation.gov.uk/uksi/2006/18), [reg. 4(7)](https://www.legislation.gov.uk/uksi/2006/18/regulation/4/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2006/18/regulation/8))
 
@@ -1138,19 +1138,19 @@ SCHEDULES
 
 [^c20314281]: Editorial: The insertion of the new headings "Chapter 1 Introductory", "Chapter 2 Economic Rights", "Chapter 3 Moral Rights" and "Chapter 4 Qualification for Protection, Extent and Interpretation" in Pt. II on 1.2.2006 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under those new headings.
 
-[^key-2be26f7b2ac8e01f41d4150309b87438]: Textual amendment: S. 212A and cross-heading inserted (1.12.2016 for specified purposes, 6.4.2017 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 22(9)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/9), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [arts. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2), [3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))
+[^c-2be26f7b2ac8e01f41d4150309b87438]: Textual amendment: S. 212A and cross-heading inserted (1.12.2016 for specified purposes, 6.4.2017 in so far as not already in force) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 22(9)](https://www.legislation.gov.uk/ukpga/2014/18/section/22/9), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2016/1139](https://www.legislation.gov.uk/uksi/2016/1139), [arts. 2](https://www.legislation.gov.uk/uksi/2016/1139/article/2), [3](https://www.legislation.gov.uk/uksi/2016/1139/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/1139/article/4))
 
-[^key-7a94453ba62e90d533b0429b8fe954e3]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1988/48/part/3) modified by [S.I. 1989/1100](https://www.legislation.gov.uk/uksi/1989/1100), [arts. 3-9](https://www.legislation.gov.uk/uksi/1989/1100/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1989/1100/schedule) (as amended (1.1.2024) by [S.I. 2023/1285](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/2/2))
+[^c-7a94453ba62e90d533b0429b8fe954e3]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1988/48/part/3) modified by [S.I. 1989/1100](https://www.legislation.gov.uk/uksi/1989/1100), [arts. 3-9](https://www.legislation.gov.uk/uksi/1989/1100/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1989/1100/schedule) (as amended (1.1.2024) by [S.I. 2023/1285](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/2/2))
 
-[^key-6056fbe94f4f07a16ed63ce18f82565d]: Textual amendment: Ss. 244A, 244B and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 4](https://www.legislation.gov.uk/ukpga/2014/18/section/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-6056fbe94f4f07a16ed63ce18f82565d]: Textual amendment: Ss. 244A, 244B and cross-heading inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 4](https://www.legislation.gov.uk/ukpga/2014/18/section/4), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
 
-[^key-0ad816cf635ea8969083f16506b03f51]: Textual amendment: S. 253 253 and crossheading substituted for (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8) (with [art. 7(4)](https://www.legislation.gov.uk/ukpga/2017/14/article/7/4)); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-0ad816cf635ea8969083f16506b03f51]: Textual amendment: S. 253 253 and crossheading substituted for (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(2)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/2), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8) (with [art. 7(4)](https://www.legislation.gov.uk/ukpga/2017/14/article/7/4)); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
-[^key-aa9579ff5fc9a53f2d3f77dccc891020]: Textual amendment: [S. 254 cross-heading](https://www.legislation.gov.uk/ukpga/1988/48/part/III/chapter/V/crossheading/miscellaneous) inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/3), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
+[^c-aa9579ff5fc9a53f2d3f77dccc891020]: Textual amendment: [S. 254 cross-heading](https://www.legislation.gov.uk/ukpga/1988/48/part/III/chapter/V/crossheading/miscellaneous) inserted (1.10.2017) by [Intellectual Property (Unjustified Threats) Act 2017 (c. 14)](https://www.legislation.gov.uk/ukpga/2017/14), [ss. 5(3)](https://www.legislation.gov.uk/ukpga/2017/14/section/5/3), [8](https://www.legislation.gov.uk/ukpga/2017/14/section/8); [S.I. 2017/771](https://www.legislation.gov.uk/uksi/2017/771), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/771/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/771/regulation/3))
 
 [^c13761331]: Modification: Pt. IV (ss. 265-273) extended (with modifications) (Isle of Man) (9.12.2001) by [S.I. 2001/3678](https://www.legislation.gov.uk/uksi/2001/3678), [art. 3](https://www.legislation.gov.uk/uksi/2001/3678/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/3678/schedule/3)
 
-[^key-8a6adcc9fced35e43dfce269d20db92e]: Modification: Pt. 4 extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/2)
+[^c-8a6adcc9fced35e43dfce269d20db92e]: Modification: Pt. 4 extended (Isle of Man) (with modifications) (11.11.2013) by [The Registered Designs (Isle of Man) Order 2013 (S.I. 2013/2533)](https://www.legislation.gov.uk/uksi/2013/2533), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2533/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2533/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/2533/schedule/2)
 
 [^c19420991]: Textual amendment: Ss. 296-296ZF and cross-heading substituted (31.10.2003) for s. 296 and cross-heading by [The Copyright and Related Rights Regulations 2003 (S.I. 2003/2498)](https://www.legislation.gov.uk/uksi/2003/2498), [reg. 24(1)](https://www.legislation.gov.uk/uksi/2003/2498/regulation/24/1) (with [regs. 31-40](https://www.legislation.gov.uk/uksi/2003/2498/regulation/31))
 
@@ -1160,4 +1160,4 @@ SCHEDULES
 
 [^c13761731]: Textual amendment: [S. 296B](https://www.legislation.gov.uk/ukpga/1988/48/section/296B) and cross-heading inserted (1.1.1998) by [S.I. 1997/3032](https://www.legislation.gov.uk/uksi/1997/3032), [reg. 10](https://www.legislation.gov.uk/uksi/1997/3032/regulation/10) (with [Pt. IV](https://www.legislation.gov.uk/uksi/1997/3032/part/IV))
 
-[^key-2092c749c9e7f835b430119fe9a207c9]: Textual amendment: Words in [s. 301 cross-heading](https://www.legislation.gov.uk/ukpga/1988/48/part/VII/crossheading/provisions-for-the-benefit-of-the-hospital-for-sick-children) substituted (23.5.2016) by [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2016/10/section/3/2/b), [5(3)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/3)
+[^c-2092c749c9e7f835b430119fe9a207c9]: Textual amendment: Words in [s. 301 cross-heading](https://www.legislation.gov.uk/ukpga/1988/48/part/VII/crossheading/provisions-for-the-benefit-of-the-hospital-for-sick-children) substituted (23.5.2016) by [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [ss. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2016/10/section/3/2/b), [5(3)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/3)

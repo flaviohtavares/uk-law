@@ -35,24 +35,24 @@ implementing Directive 2004/36/EC of the European Parliament and of the Council 
 
 (Text with EEA relevance) (revoked)
 
-[^key-5b56a10f5da131a2beaff5b31fbdf051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b56a10f5da131a2beaff5b31fbdf051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Definitions[^key-5b56a10f5da131a2beaff5b31fbdf051]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Prioritisation criteria[^key-5b56a10f5da131a2beaff5b31fbdf051]
+## Article 1. Definitions[^c-5b56a10f5da131a2beaff5b31fbdf051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Communications[^key-5b56a10f5da131a2beaff5b31fbdf051]
+## Article 2. Prioritisation criteria[^c-5b56a10f5da131a2beaff5b31fbdf051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-5b56a10f5da131a2beaff5b31fbdf051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 3. Communications[^c-5b56a10f5da131a2beaff5b31fbdf051]
 
-[^key-5b56a10f5da131a2beaff5b31fbdf051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 4.**[^c-5b56a10f5da131a2beaff5b31fbdf051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-5b56a10f5da131a2beaff5b31fbdf051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b56a10f5da131a2beaff5b31fbdf051]: Textual amendment: Regulation revoked (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/687/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b56a10f5da131a2beaff5b31fbdf051]: Textual amendment: Regulation revoked (31.12.2020) by [The Civil Aviation (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/687)](https://www.legislation.gov.uk/uksi/2019/687), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/687/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/687/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

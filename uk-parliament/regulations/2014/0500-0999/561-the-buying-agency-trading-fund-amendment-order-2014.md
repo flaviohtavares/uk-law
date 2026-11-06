@@ -32,7 +32,7 @@ summary: ''
 
 Government Trading Funds
 
-The Buying Agency Trading Fund (Amendment) Order 2014 (revoked)[^key-0fc86817515e2bddfa7cac19482dfef3]
+The Buying Agency Trading Fund (Amendment) Order 2014 (revoked)[^c-0fc86817515e2bddfa7cac19482dfef3]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2014
 
-[^key-0fc86817515e2bddfa7cac19482dfef3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fc86817515e2bddfa7cac19482dfef3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0fc86817515e2bddfa7cac19482dfef3]
+## 1. Citation and commencement[^c-0fc86817515e2bddfa7cac19482dfef3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Buying Agency Trading Fund Order 1991[^key-0fc86817515e2bddfa7cac19482dfef3]
+## 2. Amendment of the Buying Agency Trading Fund Order 1991[^c-0fc86817515e2bddfa7cac19482dfef3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation of amending Order[^key-0fc86817515e2bddfa7cac19482dfef3]
+## 3. Revocation of amending Order[^c-0fc86817515e2bddfa7cac19482dfef3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0fc86817515e2bddfa7cac19482dfef3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fc86817515e2bddfa7cac19482dfef3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0fc86817515e2bddfa7cac19482dfef3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0fc86817515e2bddfa7cac19482dfef3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0fc86817515e2bddfa7cac19482dfef3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/561) revoked (1.4.2026) by [The Buying Agency Trading Fund (Amendment) Order 2026 (S.I. 2026/225)](https://www.legislation.gov.uk/uksi/2026/225), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/225/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/225/article/3)
+[^c-0fc86817515e2bddfa7cac19482dfef3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/561) revoked (1.4.2026) by [The Buying Agency Trading Fund (Amendment) Order 2026 (S.I. 2026/225)](https://www.legislation.gov.uk/uksi/2026/225), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/225/article/1/1), [3](https://www.legislation.gov.uk/uksi/2026/225/article/3)

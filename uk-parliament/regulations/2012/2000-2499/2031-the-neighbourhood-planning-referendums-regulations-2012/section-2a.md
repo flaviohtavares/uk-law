@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2A. Date by which referendum must be held[^key-aa8bb60779ad839332672aa61bbc7d4d][^key-079802c2ace4c3f830e00c247039362f]
+## 2A. Date by which referendum must be held[^c-aa8bb60779ad839332672aa61bbc7d4d][^c-079802c2ace4c3f830e00c247039362f]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aa8bb60779ad839332672aa61bbc7d4d]: Modification: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2031/regulation/2A) modified (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/395/regulation/13)
+[^c-aa8bb60779ad839332672aa61bbc7d4d]: Modification: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2031/regulation/2A) modified (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [13](https://www.legislation.gov.uk/uksi/2020/395/regulation/13)
 
-[^key-079802c2ace4c3f830e00c247039362f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2031/regulation/2A) inserted (1.10.2016) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2016 (S.I. 2016/934)](https://www.legislation.gov.uk/uksi/2016/934), [regs. 1](https://www.legislation.gov.uk/uksi/2016/934/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/934/regulation/2)
+[^c-079802c2ace4c3f830e00c247039362f]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2012/2031/regulation/2A) inserted (1.10.2016) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2016 (S.I. 2016/934)](https://www.legislation.gov.uk/uksi/2016/934), [regs. 1](https://www.legislation.gov.uk/uksi/2016/934/regulation/1), [2](https://www.legislation.gov.uk/uksi/2016/934/regulation/2)

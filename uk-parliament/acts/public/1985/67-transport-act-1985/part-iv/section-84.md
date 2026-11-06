@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Compensation for loss of employment, etc.[^key-27890099608df53aa49f7782fbd18013][^key-e51fdfaa01a65e0933d0cdb7bc3709de][^key-27890099608df53aa49f7782fbd18013]
+## 84. Compensation for loss of employment, etc.[^c-27890099608df53aa49f7782fbd18013][^c-e51fdfaa01a65e0933d0cdb7bc3709de][^c-27890099608df53aa49f7782fbd18013]
 
 *Extent: E+W+S*
 
 (1) Regulations may provide for the payment, by such persons as may be prescribed by or determined under the regulations, in such cases and to such extent as may be so prescribed or determined, of pensions, allowances or gratuities by way of compensation to or in respect of persons who have suffered loss of employment or loss or diminution of emoluments or pension rights by reason of—
 
-- (a) the disposal under section 75(2) of this Act of any interests held by an Integrated Transport Authority, *(Extent: E+W)*[^key-7af2eb1b6bab44b4c3d59ee6762c8f83] a Passenger Transport Authority or district council or, in Scotland, a council (other than the council for Orkney Islands, Shetland Islands or Western Isles)[^c10880541] in a public transport company;
+- (a) the disposal under section 75(2) of this Act of any interests held by an Integrated Transport Authority, *(Extent: E+W)*[^c-7af2eb1b6bab44b4c3d59ee6762c8f83] a Passenger Transport Authority or district council or, in Scotland, a council (other than the council for Orkney Islands, Shetland Islands or Western Isles)[^c10880541] in a public transport company;
 - (b) the disposal by any such company of the whole or any part of that company’s undertaking; or
 - (c) any transfer of property, rights and liabilities under section 59, 61, 68 or 70 of this Act.
 
@@ -46,10 +46,10 @@ but regulations having effect from a date earlier than their making shall not pl
 
 ## Annotations
 
-[^key-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-e51fdfaa01a65e0933d0cdb7bc3709de]: Modification: [Ss. 80-87](https://www.legislation.gov.uk/ukpga/1985/67/section/80): functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/2) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/3))
+[^c-e51fdfaa01a65e0933d0cdb7bc3709de]: Modification: [Ss. 80-87](https://www.legislation.gov.uk/ukpga/1985/67/section/80): functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/2) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/3))
 
-[^key-7af2eb1b6bab44b4c3d59ee6762c8f83]: Textual amendment: Words in s. 84(1)(a) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/29); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-7af2eb1b6bab44b4c3d59ee6762c8f83]: Textual amendment: Words in s. 84(1)(a) inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/29); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c10880541]: Textual amendment: Words in s. 84(1)(a) substituted (S.) (1.4.1996) by [S.I. 1996/974](https://www.legislation.gov.uk/uksi/1996/974), [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/974/article/2/1), [Sch.1 Pt. I para. 7(f)](https://www.legislation.gov.uk/uksi/1996/974/schedule/1/part/I/paragraph/7/f)

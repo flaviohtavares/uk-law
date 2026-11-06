@@ -25,7 +25,7 @@ summary: ''
 **1.** (1) A district council in carrying out its functions in relation to—
 
 - (a) any air quality review,
-- (b) any assessment under Article 11 [^key-f9cf2322f84db0e0fc44e68724159f59]..., or
+- (b) any assessment under Article 11 [^c-f9cf2322f84db0e0fc44e68724159f59]..., or
 - (c) the preparation of an action plan or any revision of an action plan,
 
 shall consult such other persons as fall within sub-paragraph (2).
@@ -66,7 +66,7 @@ shall consult such other persons as fall within sub-paragraph (2).
 (2) The documents mentioned in sub-paragraph (1)(a) are—
 
 - (a) a report of the results of any air quality review which the council has caused to be conducted;
-- (b) a report of the results of any assessment which the council has caused to be made under Article 11 [^key-2b72d0f5539f48b48a800d254b545686]...;
+- (b) a report of the results of any assessment which the council has caused to be made under Article 11 [^c-2b72d0f5539f48b48a800d254b545686]...;
 - (c) any order (together with any map or plan referred to therein) made by the council under Article 12;
 - (d) any action plan prepared by the council;
 - (e) any proposals or statements submitted to the council pursuant to paragraph (4)(a) or (b) of Article 13;
@@ -132,6 +132,6 @@ shall consult such other persons as fall within sub-paragraph (2).
 
 ## Annotations
 
-[^key-f9cf2322f84db0e0fc44e68724159f59]: Textual amendment: Words in Sch. 2 para. 1(1)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(5)](https://www.legislation.gov.uk/nia/2016/13/section/18/5), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)
+[^c-f9cf2322f84db0e0fc44e68724159f59]: Textual amendment: Words in Sch. 2 para. 1(1)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(5)](https://www.legislation.gov.uk/nia/2016/13/section/18/5), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)
 
-[^key-2b72d0f5539f48b48a800d254b545686]: Textual amendment: Words in Sch. 2 para. 4(2)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(5)](https://www.legislation.gov.uk/nia/2016/13/section/18/5), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)
+[^c-2b72d0f5539f48b48a800d254b545686]: Textual amendment: Words in Sch. 2 para. 4(2)(b) repealed (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 18(5)](https://www.legislation.gov.uk/nia/2016/13/section/18/5), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1), [Sch. 2](https://www.legislation.gov.uk/nia/2016/13/schedule/2)

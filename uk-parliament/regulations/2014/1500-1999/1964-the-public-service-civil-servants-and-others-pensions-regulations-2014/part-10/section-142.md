@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Transfer payments made to other schemes or pension arrangements[^key-c9aeeb47e77e56f422eda256554137ce]
+## 142. Transfer payments made to other schemes or pension arrangements[^c-c9aeeb47e77e56f422eda256554137ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c9aeeb47e77e56f422eda256554137ce]: Commencement: [Reg. 142](https://www.legislation.gov.uk/uksi/2014/1964/regulation/142) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c9aeeb47e77e56f422eda256554137ce]: Commencement: [Reg. 142](https://www.legislation.gov.uk/uksi/2014/1964/regulation/142) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00076]: Footnote: Section 169(2) was amended by Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29) section 53(2) and (3).
 

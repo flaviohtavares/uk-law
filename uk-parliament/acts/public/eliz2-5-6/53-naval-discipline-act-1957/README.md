@@ -31,21 +31,21 @@ Naval Discipline Act 1957 (repealed)
 
 1957 c. 53
 
-[^key-bfdfe9668637805b2ab72419311bda29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bfdfe9668637805b2ab72419311bda29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Articles of war[^key-bfdfe9668637805b2ab72419311bda29]
+### Part I — Articles of war[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
-#### Public worship[^key-bfdfe9668637805b2ab72419311bda29]
+#### Public worship[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 1 — Public worship to be performed.](part-i/section-1.md)
 
-#### Misconduct in action and other offences arising out of naval service[^key-bfdfe9668637805b2ab72419311bda29]
+#### Misconduct in action and other offences arising out of naval service[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -56,7 +56,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 6 — Offences by or in relation to sentries, persons on watch etc.](part-i/section-6.md)
 - [Section 7 — Failure to attend for duty, neglect of duty etc.](part-i/section-7.md)
 
-#### Mutiny[^key-bfdfe9668637805b2ab72419311bda29]
+#### Mutiny[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -64,7 +64,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 9 — Offences of mutiny.](part-i/section-9.md)
 - [Section 10 — Failure to suppress mutiny.](part-i/section-10.md)
 
-#### Insubordination and similar offences[^key-bfdfe9668637805b2ab72419311bda29]
+#### Insubordination and similar offences[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,7 +78,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 14 — Obstruction of provost officers.](part-i/section-14.md)
 - [Section 14A — Disobedience to standing orders.](part-i/section-14a.md)
 
-#### Desertion and absence without leave[^key-bfdfe9668637805b2ab72419311bda29]
+#### Desertion and absence without leave[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -87,7 +87,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 17 — Absence without leave etc.](part-i/section-17.md)
 - [Section 18 — Failure to report deserters and absentees.](part-i/section-18.md)
 
-#### Navigation and flying offences[^key-bfdfe9668637805b2ab72419311bda29]
+#### Navigation and flying offences[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -96,28 +96,28 @@ Naval Discipline Act 1957 (repealed)
 - [Section 21 — Low flying.](part-i/section-21.md)
 - [Section 22 — Annoyance by flying.](part-i/section-22.md)
 
-#### Prize offences[^key-bfdfe9668637805b2ab72419311bda29]
+#### Prize offences[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 23 — Prize offences by commanding officers.](part-i/section-23.md)
 - [Section 24 — Other prize offences.](part-i/section-24.md)
 
-#### Other offences in respect of ships and aircraft[^key-bfdfe9668637805b2ab72419311bda29]
+#### Other offences in respect of ships and aircraft[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 25 — Inaccurate certification.](part-i/section-25.md)
 - [Section 26 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-26.md)
 
-#### Malingering and drunkenness[^key-bfdfe9668637805b2ab72419311bda29]
+#### Malingering and drunkenness[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 27 — Malingering.](part-i/section-27.md)
 - [Section 28 — Drunkenness.](part-i/section-28.md)
 
-#### Offences relating to property[^key-bfdfe9668637805b2ab72419311bda29]
+#### Offences relating to property[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -127,14 +127,14 @@ Naval Discipline Act 1957 (repealed)
 - [Section 30 — Misapplication and waste of public or service property.](part-i/section-30.md)
 - [Section 31 — Offences relating to issues and decorations.](part-i/section-31.md)
 
-#### Offences relating to billeting and requisitioning of vehicles, etc.[^key-bfdfe9668637805b2ab72419311bda29]
+#### Offences relating to billeting and requisitioning of vehicles, etc.[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 32 — Billeting offences.](part-i/section-32.md)
 - [Section 33 — Offences in relation to requisitioning of vehicles, etc.](part-i/section-33.md)
 
-#### Offences relating to, and by, persons in custody 33A.[^key-bfdfe9668637805b2ab72419311bda29]
+#### Offences relating to, and by, persons in custody 33A.[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -142,7 +142,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 33B — Resistance to arrest.](part-i/section-33b.md)
 - [Section 33C — Escape from confinement.](part-i/section-33c.md)
 
-#### Miscellaneous offences[^key-bfdfe9668637805b2ab72419311bda29]
+#### Miscellaneous offences[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -157,20 +157,20 @@ Naval Discipline Act 1957 (repealed)
 - [Section 38 — Offences in relation to courts-martial.](part-i/section-38.md)
 - [Section 39 — Conduct to the prejudice of naval discipline.](part-i/section-39.md)
 
-#### Attempts and aiding and abetting[^key-bfdfe9668637805b2ab72419311bda29]
+#### Attempts and aiding and abetting[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 40 — Attempt to commit naval offence.](part-i/section-40.md)
 - [Section 41 — Aiding and abetting etc., and inciting.](part-i/section-41.md)
 
-#### Civil offences[^key-bfdfe9668637805b2ab72419311bda29]
+#### Civil offences[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 42 — Civil offences.](part-i/section-42.md)
 
-#### Punishments[^key-bfdfe9668637805b2ab72419311bda29]
+#### Punishments[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -182,13 +182,13 @@ Naval Discipline Act 1957 (repealed)
 - [Section 43AB — Reasons to be given where custodial sentence awarded to young offender.](part-i/section-43ab.md)
 - [Section 43B — Power to impose imprisonment for default in payment of fines.](part-i/section-43b.md)
 
-### Part II — Trial and punishment of offences[^key-bfdfe9668637805b2ab72419311bda29]
+### Part II — Trial and punishment of offences[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Arrest[^key-bfdfe9668637805b2ab72419311bda29]
+#### Arrest[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -199,7 +199,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 46 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-46.md)
 - [Section 47 — Evidence of arrest or surrender.](part-ii/section-47.md)
 
-#### Custody[^key-bfdfe9668637805b2ab72419311bda29]
+#### Custody[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -217,7 +217,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 47M — Judicial officers.](part-ii/section-47m.md)
 - [Section 47N — Custody rules.](part-ii/section-47n.md)
 
-#### Jurisdiction[^key-bfdfe9668637805b2ab72419311bda29]
+#### Jurisdiction[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -228,7 +228,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 52 — Limitation of time for trial.](part-ii/section-52.md)
 - [Section 52A — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-52a.md)
 
-#### Investigation and summary trial[^key-bfdfe9668637805b2ab72419311bda29]
+#### Investigation and summary trial[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -239,7 +239,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 52EE — Officers who may act as appropriate superior authorities](part-ii/section-52ee.md)
 - [Section 52F — Regulations as to summary trial etc.](part-ii/section-52f.md)
 
-#### The summary appeal court[^key-bfdfe9668637805b2ab72419311bda29]
+#### The summary appeal court[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -255,13 +255,13 @@ Naval Discipline Act 1957 (repealed)
 - [Section 52FQ — Administration of oaths to members of summary appeal court.](part-ii/section-52fq.md)
 - [Section 52FR — Privileges of witnesses and others.](part-ii/section-52fr.md)
 
-#### Disciplinary courts[^key-bfdfe9668637805b2ab72419311bda29]
+#### Disciplinary courts[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 52G — Disciplinary courts.](part-ii/section-52g.md)
 
-#### The prosecuting authority[^key-bfdfe9668637805b2ab72419311bda29]
+#### The prosecuting authority[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -273,7 +273,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 52IJ — Power of prosecuting authority to advise police forces](part-ii/section-52ij.md)
 - [Section 52J — Prosecuting officers.](part-ii/section-52j.md)
 
-#### Constitution of courts-martial[^key-bfdfe9668637805b2ab72419311bda29]
+#### Constitution of courts-martial[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -289,7 +289,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 56A — Dissolution of courts-martial.](part-ii/section-56a.md)
 - [Section 57 — Quorum.](part-ii/section-57.md)
 
-#### Proceedings of courts-martial[^key-bfdfe9668637805b2ab72419311bda29]
+#### Proceedings of courts-martial[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,7 +303,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 62 — Finding and sentence.](part-ii/section-62.md)
 - [Section 62ZA — Powers of court-martial where accused elected court-martial trial.](part-ii/section-62za.md)
 
-#### Findings of unfitness to stand trial and insanity[^key-bfdfe9668637805b2ab72419311bda29]
+#### Findings of unfitness to stand trial and insanity[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -326,7 +326,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 66 — Record of proceedings of courts-martial.](part-ii/section-66.md)
 - [Section 66A — Right of penalised parent or guardian to copy of record of court-martial proceedings.](part-ii/section-66a.md)
 
-#### Power to convict of mitigated or alternative offence[^key-bfdfe9668637805b2ab72419311bda29]
+#### Power to convict of mitigated or alternative offence[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -334,7 +334,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 68 — Power to convict of alternative offence.](part-ii/section-68.md)
 - [Section 69 — Power to convict of attempt notwithstanding proof of completed offence.](part-ii/section-69.md)
 
-#### Review of finding and sentence[^key-bfdfe9668637805b2ab72419311bda29]
+#### Review of finding and sentence[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -349,7 +349,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 72 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-72.md)
 - [Section 73 — Saving for functions of Judge Advocate General.](part-ii/section-73.md)
 
-#### Special powers of Admiralty.[^key-bfdfe9668637805b2ab72419311bda29]
+#### Special powers of Admiralty.[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -358,7 +358,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 76 — Restitution or compensation on conviction of larceny, etc.](part-ii/section-76.md)
 - [Section 77 — Effect of appeal against conviction on order for restitution or compensation.](part-ii/section-77.md)
 
-#### Execution of sentence of death[^key-bfdfe9668637805b2ab72419311bda29]
+#### Execution of sentence of death[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -366,7 +366,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 79 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-79.md)
 - [Section 80 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-80.md)
 
-#### Service of sentence of imprisonment or detention[^key-bfdfe9668637805b2ab72419311bda29]
+#### Service of sentence of imprisonment or detention[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -376,7 +376,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 83 — Service of sentence in civil prison in the United Kingdom.](part-ii/section-83.md)
 - [Section 84 — Removal of certain prisoners.](part-ii/section-84.md)
 
-#### Commencement and duration of sentences of imprisonment and detention[^key-bfdfe9668637805b2ab72419311bda29]
+#### Commencement and duration of sentences of imprisonment and detention[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -389,13 +389,13 @@ Naval Discipline Act 1957 (repealed)
 - [Section 88 — Periods of unlawful absence.](part-ii/section-88.md)
 - [Section 89 — Limitation of total period of sentences of detention.](part-ii/section-89.md)
 
-#### Postponement of sentences[^key-bfdfe9668637805b2ab72419311bda29]
+#### Postponement of sentences[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 89A — Postponement of sentences.](part-ii/section-89a.md)
 
-#### Suspension and reconsideration of sentences of imprisonment and detention[^key-bfdfe9668637805b2ab72419311bda29]
+#### Suspension and reconsideration of sentences of imprisonment and detention[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -409,11 +409,11 @@ Naval Discipline Act 1957 (repealed)
 - [Section 91D — Activation of suspended sentence by commanding officer: appeals etc.](part-ii/section-91d.md)
 - [Section 92 — Reconsideration of sentences.](part-ii/section-92.md)
 
-### Part III — Provisions relating to civilians and civil authorities[^key-bfdfe9668637805b2ab72419311bda29]
+### Part III — Provisions relating to civilians and civil authorities[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
-#### Offences by civilians triable by court-martial[^key-bfdfe9668637805b2ab72419311bda29]
+#### Offences by civilians triable by court-martial[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -421,7 +421,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 94 — Seduction from duty in ships or in naval establishments abroad.](part-iii/section-94.md)
 - [Section 95 — Arrest and jurisdiction.](part-iii/section-95.md)
 
-#### Offences punishable by civil courts[^key-bfdfe9668637805b2ab72419311bda29]
+#### Offences punishable by civil courts[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -431,14 +431,14 @@ Naval Discipline Act 1957 (repealed)
 - [Section 99 — Illegal dealings in official documents.](part-iii/section-99.md)
 - [Section 100 — Jurisdiction and application of summary fines.](part-iii/section-100.md)
 
-#### Process and execution in certain civil proceedings[^key-bfdfe9668637805b2ab72419311bda29]
+#### Process and execution in certain civil proceedings[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
 - [Section 101 — Service of proceedings for maintenance, etc.](part-iii/section-101.md)
 - [Section 102 — Exemption of naval property from execution.](part-iii/section-102.md)
 
-#### Arrest and detention of offenders by civil authorities[^key-bfdfe9668637805b2ab72419311bda29]
+#### Arrest and detention of offenders by civil authorities[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -448,7 +448,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 106 — Arrest of persons suspected of offences punishable by civil courts.](part-iii/section-106.md)
 - [Section 107 — Duties of governors of civil prisons, etc.](part-iii/section-107.md)
 
-#### Powers of civil courts and authorities as to deserters and absentees[^key-bfdfe9668637805b2ab72419311bda29]
+#### Powers of civil courts and authorities as to deserters and absentees[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -456,11 +456,11 @@ Naval Discipline Act 1957 (repealed)
 - [Section 109 — Proceedings before summary courts.](part-iii/section-109.md)
 - [Section 110 — Certificates of arrest or surrender.](part-iii/section-110.md)
 
-### Part IV — Miscellaneous and General[^key-bfdfe9668637805b2ab72419311bda29]
+### Part IV — Miscellaneous and General[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
-#### Persons subject to this Act[^key-bfdfe9668637805b2ab72419311bda29]
+#### Persons subject to this Act[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -474,7 +474,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 118 — Application to certain civilians.](part-iv/section-118.md)
 - [Section 119 — Application to sentenced offenders, etc.](part-iv/section-119.md)
 
-#### Attachment and powers of command[^key-bfdfe9668637805b2ab72419311bda29]
+#### Attachment and powers of command[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -482,7 +482,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 121 — Attachment to commonwealth and other forces.](part-iv/section-121.md)
 - [Section 122 — Powers of command of members of co-operating military or air forces.](part-iv/section-122.md)
 
-#### Application to particular countries and territories[^key-bfdfe9668637805b2ab72419311bda29]
+#### Application to particular countries and territories[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -493,7 +493,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 127 — Protectorates, protected states, trust territories and federated territories.](part-iv/section-127.md)
 - [Section 128 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iv/section-128.md)
 
-#### Additional provisions as to forfeiture of pay and deductions from pay[^key-bfdfe9668637805b2ab72419311bda29]
+#### Additional provisions as to forfeiture of pay and deductions from pay[^c-bfdfe9668637805b2ab72419311bda29]
 
 *Extent: E+W+S+N.I.*
 
@@ -507,7 +507,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 128F — Financial penalty enforcement orders.](part-iv/section-128f.md)
 - [Section 128G — Avoidance of assignment of or charge on naval pay and pensions etc.](part-iv/section-128g.md)
 
-#### Miscellaneous provisions[^key-bfdfe9668637805b2ab72419311bda29]
+#### Miscellaneous provisions[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -521,7 +521,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 130A — Indemnity for prison officers etc.](part-iv/section-130a.md)
 - [Section 131 — Ships under convoy.](part-iv/section-131.md)
 
-#### Interpretation[^key-bfdfe9668637805b2ab72419311bda29]
+#### Interpretation[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -530,7 +530,7 @@ Naval Discipline Act 1957 (repealed)
 - [Section 134 — Definition of active service.](part-iv/section-134.md)
 - [Section 135 — General interpretation.](part-iv/section-135.md)
 
-#### Supplemental[^key-bfdfe9668637805b2ab72419311bda29]
+#### Supplemental[^c-bfdfe9668637805b2ab72419311bda29]
 
 **No longer in force.**
 
@@ -543,7 +543,7 @@ Naval Discipline Act 1957 (repealed)
 
 **No longer in force.**
 
-[^key-bfdfe9668637805b2ab72419311bda29] SCHEDULES
+[^c-bfdfe9668637805b2ab72419311bda29] SCHEDULES
 
 - [FIRST SCHEDULE](schedule-first.md)
 - [SECOND SCHEDULE](schedule-second.md)
@@ -556,4 +556,4 @@ Naval Discipline Act 1957 (repealed)
 
 ## Annotations
 
-[^key-bfdfe9668637805b2ab72419311bda29]: Textual amendment: Act repealed (1.1.2008 for the repeal of s. 130 only, 28.3.2009 for further specified purposes and 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/2913/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2007/2913/article/4/2)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4); and s. 128F continued (with modifications) for specified purposes (31.10.2009) by [The Armed Forces (Financial Penalty Enforcement Orders) Regulations 2009 (S.I. 2009/1212)](https://www.legislation.gov.uk/uksi/2009/1212), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1212/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/1212/regulation/5/2)
+[^c-bfdfe9668637805b2ab72419311bda29]: Textual amendment: Act repealed (1.1.2008 for the repeal of s. 130 only, 28.3.2009 for further specified purposes and 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 3](https://www.legislation.gov.uk/uksi/2007/2913/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/2913/article/4/1)[(2)](https://www.legislation.gov.uk/uksi/2007/2913/article/4/2)); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4); and s. 128F continued (with modifications) for specified purposes (31.10.2009) by [The Armed Forces (Financial Penalty Enforcement Orders) Regulations 2009 (S.I. 2009/1212)](https://www.legislation.gov.uk/uksi/2009/1212), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1212/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/1212/regulation/5/2)

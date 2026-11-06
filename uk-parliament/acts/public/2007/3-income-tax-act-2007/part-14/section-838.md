@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 838. Local authorities and local authority associations[^key-8cccd88ab44590172d2807b62aec29bb]
+## 838. Local authorities and local authority associations[^c-8cccd88ab44590172d2807b62aec29bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cccd88ab44590172d2807b62aec29bb]: Modification: S. 838 modified by 1999 c. 29, s. 34A(3) (as inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 224(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/224/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)))
+[^c-8cccd88ab44590172d2807b62aec29bb]: Modification: S. 838 modified by 1999 c. 29, s. 34A(3) (as inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 224(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/224/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)))

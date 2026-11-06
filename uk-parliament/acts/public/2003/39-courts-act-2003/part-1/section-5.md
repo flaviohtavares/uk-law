@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Functions of courts boards[^key-d3722c86bd0b47827ae316aa4acd6d68]
+## 5. Functions of courts boards[^c-d3722c86bd0b47827ae316aa4acd6d68]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3722c86bd0b47827ae316aa4acd6d68]: Textual amendment: S. 5 repealed (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/5)
+[^c-d3722c86bd0b47827ae316aa4acd6d68]: Textual amendment: S. 5 repealed (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/5)

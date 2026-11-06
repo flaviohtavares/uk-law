@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Presentation of petition questioning local election.[^c14498711][^c20059511][^key-b8f69849a58aa83ee2256eff8f488a37][^key-717ce30aa89a20a4edce08c7811724ce][^key-d67506642ac6fb74fce09d175261a3b5][^c14479931]
+## 128. Presentation of petition questioning local election.[^c14498711][^c20059511][^c-b8f69849a58aa83ee2256eff8f488a37][^c-717ce30aa89a20a4edce08c7811724ce][^c-d67506642ac6fb74fce09d175261a3b5][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,11 +45,11 @@ summary: ''
 
 [^c20059511]: Modification: S. 128 applied (with modifications) (W.) (24.7.2008) by [The Local Authorities (Conduct of Referendums) (Wales) Regulations 2008 (S.I. 2008/1848)](https://www.legislation.gov.uk/uksi/2008/1848), [reg. 11](https://www.legislation.gov.uk/uksi/2008/1848/regulation/11), [Sch. 5](https://www.legislation.gov.uk/uksi/2008/1848/schedule/5)
 
-[^key-b8f69849a58aa83ee2256eff8f488a37]: Modification: S. 128 applied (with modifications) (E.W.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2012/323/schedule/6)
+[^c-b8f69849a58aa83ee2256eff8f488a37]: Modification: S. 128 applied (with modifications) (E.W.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2012/323/schedule/6)
 
-[^key-717ce30aa89a20a4edce08c7811724ce]: Modification: S. 128 applied (with modifications) (E.W.S.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2012/444/schedule/6) (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-717ce30aa89a20a4edce08c7811724ce]: Modification: S. 128 applied (with modifications) (E.W.S.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2012/444/schedule/6) (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-d67506642ac6fb74fce09d175261a3b5]: Modification: S. 128 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2012/1917/article/50/6), [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/paragraph/1/5)
+[^c-d67506642ac6fb74fce09d175261a3b5]: Modification: S. 128 applied (with modifications) (25.7.2012) by [The Police and Crime Commissioner Elections Order 2012 (S.I. 2012/1917)](https://www.legislation.gov.uk/uksi/2012/1917), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1917/article/1/2), [50(6)](https://www.legislation.gov.uk/uksi/2012/1917/article/50/6), [Sch. 9 para. 1(5)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/9/paragraph/1/5)
 
 [^c14479931]: Textual amendment: S. 17(1) substituted (29.1.2001 for certain purposes and 16.2.2001 otherwise) by [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2), [s. 8(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/8/a), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2000/2/schedule/1/paragraph/10); [S.I. 2001/116](https://www.legislation.gov.uk/uksi/2001/116), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/116/article/2/1/2) (with [art. 2(4)](https://www.legislation.gov.uk/uksi/2001/116/article/2/4))
 

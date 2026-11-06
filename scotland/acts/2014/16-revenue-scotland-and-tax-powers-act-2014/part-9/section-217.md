@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 217. Interest on unpaid tax[^key-009840b220f239c323d3ed04eea9bddc][^key-c2c415507290fb061e9e2cd2ee132271]
+## 217. Interest on unpaid tax[^c-009840b220f239c323d3ed04eea9bddc][^c-c2c415507290fb061e9e2cd2ee132271]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-009840b220f239c323d3ed04eea9bddc]: Commencement: [S. 217](https://www.legislation.gov.uk/asp/2014/16/section/217) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-009840b220f239c323d3ed04eea9bddc]: Commencement: [S. 217](https://www.legislation.gov.uk/asp/2014/16/section/217) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-c2c415507290fb061e9e2cd2ee132271]: Commencement: [S. 217](https://www.legislation.gov.uk/asp/2014/16/section/217) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-c2c415507290fb061e9e2cd2ee132271]: Commencement: [S. 217](https://www.legislation.gov.uk/asp/2014/16/section/217) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

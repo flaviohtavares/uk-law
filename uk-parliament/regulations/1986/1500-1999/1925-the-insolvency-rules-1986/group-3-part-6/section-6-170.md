@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.170. Accounting[^key-0b1a773f2780fa73f9a357dbfe57b555]
+## 6.170. Accounting[^c-0b1a773f2780fa73f9a357dbfe57b555]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b1a773f2780fa73f9a357dbfe57b555]: Commencement: [Rule 6.170](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.170) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0b1a773f2780fa73f9a357dbfe57b555]: Commencement: [Rule 6.170](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.170) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

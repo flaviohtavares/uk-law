@@ -24,7 +24,7 @@ Article 34
 
 ### PART I — Protection for electricity, gas and water undertakers
 
-**1.**[^key-45e366bdc1232282ddc95e9ccbc75c5f] (1) For the protection of the several undertakers referred to in this Part of this Schedule the following provisions shall, unless otherwise agreed in writing between the Company and the undertakers concerned, have effect.
+**1.**[^c-45e366bdc1232282ddc95e9ccbc75c5f] (1) For the protection of the several undertakers referred to in this Part of this Schedule the following provisions shall, unless otherwise agreed in writing between the Company and the undertakers concerned, have effect.
 
 (2) In this Part of this Schedule—
 
@@ -42,9 +42,9 @@ Article 34
 
 (3) The provisions of Schedule 9 to this Order shall not apply in relation to apparatus to which this Part of this Schedule applies.
 
-**2.**[^key-58d8ab7359d2dc95a1b4c99a467f1145] Notwithstanding the temporary stopping up or diversion of any highway under the powers of article 8 of this Order, the undertakers shall be at liberty at all times to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable them to maintain, renew or use any apparatus which at the time of the stopping up or diversion was in that highway.
+**2.**[^c-58d8ab7359d2dc95a1b4c99a467f1145] Notwithstanding the temporary stopping up or diversion of any highway under the powers of article 8 of this Order, the undertakers shall be at liberty at all times to execute and do all such works and things in, upon or under any such highway as may be reasonably necessary or desirable to enable them to maintain, renew or use any apparatus which at the time of the stopping up or diversion was in that highway.
 
-**3.**[^key-d6e75e8b8c873272cf27aefd25f70655] (1) The Company, in the case of the powers conferred by article 15 of this Order, shall, so far as is reasonably practicable, so exercise those powers as not to obstruct or render less convenient the access to any apparatus. If by reason of the exercise of those powers any damage to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal or abandonment) or property of the undertakers or any interruption in the supply of electricity, gas or water, as the case may be, by the undertakers is caused, the Company shall bear and pay the costs reasonably incurred by the undertakers in making good such damage or restoring the supply; and, subject to sub-paragraph (2) below, shall—
+**3.**[^c-d6e75e8b8c873272cf27aefd25f70655] (1) The Company, in the case of the powers conferred by article 15 of this Order, shall, so far as is reasonably practicable, so exercise those powers as not to obstruct or render less convenient the access to any apparatus. If by reason of the exercise of those powers any damage to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal or abandonment) or property of the undertakers or any interruption in the supply of electricity, gas or water, as the case may be, by the undertakers is caused, the Company shall bear and pay the costs reasonably incurred by the undertakers in making good such damage or restoring the supply; and, subject to sub-paragraph (2) below, shall—
 
 - (a) make reasonable compensation to the undertakers for any loss sustained by them; and
 - (b) indemnify the undertakers against all claims, demands, proceedings, costs, damages and expenses which may be made or taken against or recovered from or incurred by the undertakers;
@@ -53,9 +53,9 @@ by reason of any such damage or interruption.
 
 (2) Nothing in this paragraph shall impose any liability on the Company with respect to any damage or interruption to the extent that such damage or interruption may be attributable to the act, neglect or default of the undertakers or their contractors or workmen; and the undertakers shall give to the Company reasonable notice of any claim or demand as aforesaid and no settlement or compromise thereof shall be made without the prior consent of the Company.
 
-**4.**[^key-08647e8ac74dc2464ccdb0c01107edde] Nothwithstanding anything in this Order or shown on the deposited plans the Company shall not acquire any apparatus under the powers of this Order otherwise than by agreement.
+**4.**[^c-08647e8ac74dc2464ccdb0c01107edde] Nothwithstanding anything in this Order or shown on the deposited plans the Company shall not acquire any apparatus under the powers of this Order otherwise than by agreement.
 
-**5.**[^key-9f017559375e3dff5eb244be1c85587b] (1) If the Company, in the exercise of the powers of this Order, acquires any interest in any land in which any apparatus is placed, that apparatus shall not be removed under this Part of this Schedule and any right of the undertakers to maintain or renew that apparatus in that land shall not be extinguished until adequate alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertakers.
+**5.**[^c-9f017559375e3dff5eb244be1c85587b] (1) If the Company, in the exercise of the powers of this Order, acquires any interest in any land in which any apparatus is placed, that apparatus shall not be removed under this Part of this Schedule and any right of the undertakers to maintain or renew that apparatus in that land shall not be extinguished until adequate alternative apparatus has been constructed and is in operation to the reasonable satisfaction of the undertakers.
 
 (2) If the Company, for the purpose of executing any works in, on or under any land purchased, held, appropriated or used under this Order, requires the removal of any apparatus placed in that land, it shall give to the undertakers written notice of that requirement, together with a plan of the work proposed, and of the proposed position of the alternative apparatus to be provided of constructed so as to provide adequate alternative apparatus in place of the apparatus to be removed, and in that case (or if in consequence of the exercise of any of the powers of this Order the undertakers reasonably require to remove any apparatus) the Company shall, subject to sub-paragraph (3) below, afford to the undertakers the necessary facilities and rights for the construction of the alternative apparatus in other land of the Company and thereafter for the maintenance and renewal of that apparatus.
 
@@ -69,7 +69,7 @@ by reason of any such damage or interruption.
 
 (7) Nothing in sub-paragraph (6) above shall authorise the Company to execute the placing, installation, bedding, packing, removal, connection or disconnection of any apparatus, or execute any filling around the apparatus (where the apparatus is laid in a trench) within 300 millimetres of the apparatus.
 
-**6.**[^key-f7f2c4a3411f71db41af62b842638599] (1) Where, in accordance with the provisions of this Part of this Schedule, the Company affords to the undertakers facilities and rights for the construction, maintenance or renewal in land of the Company of alternative apparatus in substitution for apparatus to be removed as aforesaid, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the Company and the undertakers or in default of agreement settled by arbitration in accordance with sub-paragraphs (2) and (3) below.
+**6.**[^c-f7f2c4a3411f71db41af62b842638599] (1) Where, in accordance with the provisions of this Part of this Schedule, the Company affords to the undertakers facilities and rights for the construction, maintenance or renewal in land of the Company of alternative apparatus in substitution for apparatus to be removed as aforesaid, those facilities and rights shall be granted upon such terms and conditions as may be agreed between the Company and the undertakers or in default of agreement settled by arbitration in accordance with sub-paragraphs (2) and (3) below.
 
 (2) In settling those terms and conditions in respect of alternative apparatus to be constructed in or along any railway of the Company, the arbitrator shall—
 
@@ -78,7 +78,7 @@ by reason of any such damage or interruption.
 
 (3) If the facilities and rights to be afforded by the Company in respect of any alternative apparatus and the terms and conditions subject to which those facilities and rights are to be granted are in the opinion of the arbitrator less favourable on the whole to the undertakers than the facilities and rights enjoyed by them in respect of the apparatus to be removed and the terms and conditions to which those facilities and rights are subject, the arbitrator shall make such provision for the payment of compensation by the Company to the undertakers in respect thereof as appears to him to be reasonable having regard to all the circumstances of the particular case.
 
-**7.**[^key-06f55aac67ad6bf308958b123087f0e5] (1) Not less than 28 days before commencing to execute any works that are referred to in paragraph 5(2) above and are near to or will or may affect any apparatus the removal of which has not been required by the Company under paragraph 5(2), the Company shall submit to the undertakers a plan, section and description of the works to be executed.
+**7.**[^c-06f55aac67ad6bf308958b123087f0e5] (1) Not less than 28 days before commencing to execute any works that are referred to in paragraph 5(2) above and are near to or will or may affect any apparatus the removal of which has not been required by the Company under paragraph 5(2), the Company shall submit to the undertakers a plan, section and description of the works to be executed.
 
 (2) Those works shall be executed only in accordance with the plan, section and description submitted and in accordance with such reasonable requirements as may be made in accordance with sub-paragraph (3) below by the undertakers for the alteration or otherwise for the protection of the apparatus or for securing access thereto and the undertakers shall be entitled by their officer to watch and inspect the execution of those works.
 
@@ -90,9 +90,9 @@ by reason of any such damage or interruption.
 
 (6) The Company shall not be required to comply with sub-paragraph (1) above in a case of emergency but in that case it shall give to the undertakers notice as soon as reasonably practicable and a plan, section and description of those works as soon as reasonably practicable thereafter and shall comply with sub-paragraph (2) above so far as reasonably practicable in the circumstances.
 
-**8.**[^key-cdde37ef94c60e1c32da001a327af496] Where, by reason of this Order, any part of any highway in which any apparatus is situated ceases to be part of a highway the undertakers may exercise the same rights of access to such apparatus as they enjoyed immediately before the making of this Order, but nothing in this paragraph shall affect any right of the Company or of the undertakers to require removal of such apparatus under this Part of this Schedule or the power of the Company to execute works in accordance with paragraph 7 above.
+**8.**[^c-cdde37ef94c60e1c32da001a327af496] Where, by reason of this Order, any part of any highway in which any apparatus is situated ceases to be part of a highway the undertakers may exercise the same rights of access to such apparatus as they enjoyed immediately before the making of this Order, but nothing in this paragraph shall affect any right of the Company or of the undertakers to require removal of such apparatus under this Part of this Schedule or the power of the Company to execute works in accordance with paragraph 7 above.
 
-**9.**[^key-dce82bc56ce4b43fa9ae5d5a2c03842c] (1) Subject to the following provisions of this paragraph, the Company shall pay to the undertakers the costs, charges and expenses reasonably incurred by the undertakers in or in connection with the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 5(2) above (including the acquisition of any facilities or rights under paragraph 5(3) above), less the value of any apparatus removed under the provisions of this Part of this Schedule (that value being calculated after removal) and shall also make compensation to the undertakers—
+**9.**[^c-dce82bc56ce4b43fa9ae5d5a2c03842c] (1) Subject to the following provisions of this paragraph, the Company shall pay to the undertakers the costs, charges and expenses reasonably incurred by the undertakers in or in connection with the inspection, removal, alteration or protection of any apparatus or the construction of any new apparatus which may be required in consequence of the execution of any such works as are referred to in paragraph 5(2) above (including the acquisition of any facilities or rights under paragraph 5(3) above), less the value of any apparatus removed under the provisions of this Part of this Schedule (that value being calculated after removal) and shall also make compensation to the undertakers—
 
 - (a) for any damage caused to any apparatus (other than apparatus the repair of which is not reasonably necessary in view of its intended removal in accordance with the provisions of this Part of this Schedule); and
 - (b) for any other expenses, loss, damages, penalty or costs incurred by the undertaker;
@@ -118,17 +118,17 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - (a) the allowable costs of the construction of works under this Part of this Schedule shall be determined in accordance with section 85 of that Act (sharing of cost of necessary measures) and any regulations for the time being having effect under that section; and
 - (b) the allowable costs shall be borne by the Company and the undertakers in such proportions as may be prescribed by any such regulations.
 
-**10.**[^key-dca14236a9da1de812f16375d6efaff2] (1) Where, by reason of the stopping up of any highway under the powers of this Order, any apparatus belonging to the undertakers and laid or placed in such highway or elsewhere is rendered derelict or unnecessary, the Company shall, subject to sub-paragraph (2) below, pay to the undertakers the then value of such apparatus (which shall thereupon become the property of the Company) and the reasonable costs of and incidental to the cutting off of such apparatus from any other apparatus, and of and incidental to the execution or doing of any works or things rendered necessary or expedient by reason of such apparatus being so rendered derelict or unnecessary.
+**10.**[^c-dca14236a9da1de812f16375d6efaff2] (1) Where, by reason of the stopping up of any highway under the powers of this Order, any apparatus belonging to the undertakers and laid or placed in such highway or elsewhere is rendered derelict or unnecessary, the Company shall, subject to sub-paragraph (2) below, pay to the undertakers the then value of such apparatus (which shall thereupon become the property of the Company) and the reasonable costs of and incidental to the cutting off of such apparatus from any other apparatus, and of and incidental to the execution or doing of any works or things rendered necessary or expedient by reason of such apparatus being so rendered derelict or unnecessary.
 
 (2) The Company shall not under the provisions of this paragraph be required to pay to the undertakers the value of any apparatus rendered derelict or unnecessary if, to the reasonable satisfaction of the undertakers, other apparatus has at the expense of the Company been provided and laid and made ready for use in substitution for the apparatus so rendered derelict or unnecessary.
 
-**11.**[^key-b2caa37f2a98acfc76d9ffb83e11a242] Any difference arising between the Company and the undertakers under this Part of this Schedule shall be referred to and settled by arbitration under article 44 of this Order.
+**11.**[^c-b2caa37f2a98acfc76d9ffb83e11a242] Any difference arising between the Company and the undertakers under this Part of this Schedule shall be referred to and settled by arbitration under article 44 of this Order.
 
-**12.**[^key-d4df9fbc294c00d46c77c829e237e3ee] Nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the Company and the undertakers in respect of any apparatus laid or erected in land belonging to the Company on the coming into force of this Order.
+**12.**[^c-d4df9fbc294c00d46c77c829e237e3ee] Nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the Company and the undertakers in respect of any apparatus laid or erected in land belonging to the Company on the coming into force of this Order.
 
 ### PART II — Protection for sewerage undertakers
 
-**13.**[^key-b7be4f6c1b6185ccf2ed7287a3e8e4ac] (1) For the protection of sewerage undertakers the following provisions shall, unless otherwise agreed in writing between the Company and the sewerage undertaker concerned, have effect.
+**13.**[^c-b7be4f6c1b6185ccf2ed7287a3e8e4ac] (1) For the protection of sewerage undertakers the following provisions shall, unless otherwise agreed in writing between the Company and the sewerage undertaker concerned, have effect.
 
 (2) In this Part of this Schedule—
 
@@ -137,7 +137,7 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 - “specified works” means so much of the works as will or may be situated over or within 15 metres measured in any direction of, or (wherever situated) impose any load directly upon, any sewer; and
 - “the undertaker” means the sewerage undertaker for the area of the works or whose sewers are affected.
 
-**14.**[^key-22b8accff28fd0a09dcdf44371f250ab] (1) Before commencing the construction or removal of any specified work, or in the case of any temporary work its removal, the Company shall submit to the undertaker plans of those works as described in sub-paragraph (2) below (in this Part of this Schedule referred to as “the said plans”) and shall not commence that work until the undertaker has signified in writing its approval of the said plans.
+**14.**[^c-22b8accff28fd0a09dcdf44371f250ab] (1) Before commencing the construction or removal of any specified work, or in the case of any temporary work its removal, the Company shall submit to the undertaker plans of those works as described in sub-paragraph (2) below (in this Part of this Schedule referred to as “the said plans”) and shall not commence that work until the undertaker has signified in writing its approval of the said plans.
 
 (2) Any approval of the undertaker required under this paragraph—
 
@@ -151,13 +151,13 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 (5) The undertaker may require such modifications to be made to the said plans as may be reasonably necessary to secure the sewerage system of the undertaker against interference or risk of damage and to provide and secure proper and convenient means of access to any sewer.
 
-**15.**[^key-1629fa445c11687e8ec8ffd36c9c28b7] (1) The specified work shall be constructed, and in the case of any temporary work removed, in accordance with the plans approved, or deemed to have been approved, or settled by arbitration, as the same may be amended from time to time by agreement between the Company and the undertaker, and in the construction or removal of the specified work the Company shall comply with all reasonable requirements of the undertaker and shall provide new, altered or substituted sewers or works for the protection of any sewers of the undertaker in such manner as the undertaker may reasonably require by way of replacement provision for or for the proper protection of, and for preventing injury or impediment to, any such sewer by reason of any specified work.
+**15.**[^c-1629fa445c11687e8ec8ffd36c9c28b7] (1) The specified work shall be constructed, and in the case of any temporary work removed, in accordance with the plans approved, or deemed to have been approved, or settled by arbitration, as the same may be amended from time to time by agreement between the Company and the undertaker, and in the construction or removal of the specified work the Company shall comply with all reasonable requirements of the undertaker and shall provide new, altered or substituted sewers or works for the protection of any sewers of the undertaker in such manner as the undertaker may reasonably require by way of replacement provision for or for the proper protection of, and for preventing injury or impediment to, any such sewer by reason of any specified work.
 
 (2) All works under sub-paragraph (1) above for the provision of new, altered or substituted sewers or the protection of any sewers of the undertaker shall, where so required by the undertaker, be constructed by the undertaker or under the supervision (if given) of an officer of the undertaker duly appointed for the purpose, and all costs, charges and expenses reasonably incurred by the undertaker in the construction of such works, or in the preparation or examination of plans or designs of such works or in such supervision, shall be paid to the undertaker by the Company.
 
 (3) When works for the provision of any such new, altered or substituted sewer or any protective work forming part of any such new, altered or substituted sewer or any existing sewer of the undertaker, have been completed under this Part of this Schedule to the reasonable satisfaction of the undertaker, they shall be vested in and become maintainable by the undertaker.
 
-**16.**[^key-07ef16cda24eb1628f3b3d2bdc4a7f55] (1) Subject to the following provisions of this Part of this Schedule, the Company shall be liable to make good or, if the undertaker so decides, to repay to the undertaker any expense reasonably incurred by the undertaker in making good all injury or damage to any sewers drains or works vested in the undertaker (except in so far as such sewer, drain or work is intended for alteration or removal for the purposes of the specified work) caused by or resulting from the construction of any specified work or any investigation undertaken in relation to any specified work and the provision of any new, altered or substituted sewer or any protective work under this Part of this Schedule and shall pay to the undertaker any additional expense to which it may be put in the maintenance, management or renewal of any new, altered or substituted sewer which may be necessary in consequence of the construction of any specified work.
+**16.**[^c-07ef16cda24eb1628f3b3d2bdc4a7f55] (1) Subject to the following provisions of this Part of this Schedule, the Company shall be liable to make good or, if the undertaker so decides, to repay to the undertaker any expense reasonably incurred by the undertaker in making good all injury or damage to any sewers drains or works vested in the undertaker (except in so far as such sewer, drain or work is intended for alteration or removal for the purposes of the specified work) caused by or resulting from the construction of any specified work or any investigation undertaken in relation to any specified work and the provision of any new, altered or substituted sewer or any protective work under this Part of this Schedule and shall pay to the undertaker any additional expense to which it may be put in the maintenance, management or renewal of any new, altered or substituted sewer which may be necessary in consequence of the construction of any specified work.
 
 (2) The Company shall indemnify the undertaker against all actions, claims, demands, costs, expenses, damages or loss which may be made on or against the undertaker which the undertaker may incur or have to pay or which it may sustain in consequence of the construction of a specified work or of the failure or want of repair of a specified work or any subsidence caused by the construction of any specified work or in consequence of any act or omission of the Company, their contractors, agents, workmen or servants, whilst engaged upon the specified work and any new, altered or substituted sewer or any protective work.
 
@@ -181,68 +181,68 @@ and the placing of a sewer of that type or capacity or of those dimensions or th
 - (a) the allowable costs of the construction of works under this Part of this Schedule shall be determined in accordance with section 85 of that Act (sharing the costs of necessary measures) and any regulations for the time being having effect under that section; and
 - (b) the allowable costs shall be borne by the Company and the undertaker in such proportions as may be prescribed by any such regulations.
 
-**17.**[^key-1e72b1792034405aa085bdf1f7f25dee] (1) An officer of the undertaker duly appointed for the purpose may, at any reasonable time and, if required by the Company, under its supervision and control, enter upon and inspect any specified works or any works constructed under this Part of this Schedule.
+**17.**[^c-1e72b1792034405aa085bdf1f7f25dee] (1) An officer of the undertaker duly appointed for the purpose may, at any reasonable time and, if required by the Company, under its supervision and control, enter upon and inspect any specified works or any works constructed under this Part of this Schedule.
 
 (2) The approval by the undertaker of any plans, drawings, section or specifications or the supervision by it of any work under this Part of this Schedule shall not (if it was done without negligence on the part of the undertaker, its officers, servants, or, if not the Company, its contractors or agents) exonerate the Company from any liability or affect any claim for damages by the undertaker.
 
-**18.**[^key-f74e1f802a89d148c7655126e865f710] (1) Notwithstanding the temporary stopping up or diversion of any highway under the powers of article 8 of this Order, the undertaker shall be at liberty at all times to construct and do all such works and things in, upon or under any such highway as may be reasonably necessary to enable it to maintain, renew, protect or use any sewer which at the time of the stopping up or diversion was in that highway.
+**18.**[^c-f74e1f802a89d148c7655126e865f710] (1) Notwithstanding the temporary stopping up or diversion of any highway under the powers of article 8 of this Order, the undertaker shall be at liberty at all times to construct and do all such works and things in, upon or under any such highway as may be reasonably necessary to enable it to maintain, renew, protect or use any sewer which at the time of the stopping up or diversion was in that highway.
 
 (2) Where, in consequence of this Order, any part of any street, bridleway or footpath in which any sewer is situated ceases to be part of the street, bridleway or footpath, the undertaker may exercise the same rights of access to such sewer as it enjoyed immediately before the coming into force of this Order, but nothing in this paragraph shall affect any right of the Company or of the undertaker to require the alteration of such sewer under this Part of this Schedule.
 
-**19.**[^key-a63295bff112199baca94e23f846a0ac] The Company shall, so far as is reasonably practicable, so exercise the powers conferred by article 15 of this Order as not to obstruct or render less convenient the access to any sewer.
+**19.**[^c-a63295bff112199baca94e23f846a0ac] The Company shall, so far as is reasonably practicable, so exercise the powers conferred by article 15 of this Order as not to obstruct or render less convenient the access to any sewer.
 
-**20.**[^key-ef64e5d39403f6b060a0647fe98e30de] As soon as reasonably practicable after the completion of the construction of the specified works the Company shall deliver to the undertaker a plan and section showing the position and level of those works as constructed and all new, altered or substituted works provided under this Part of this Schedule.
+**20.**[^c-ef64e5d39403f6b060a0647fe98e30de] As soon as reasonably practicable after the completion of the construction of the specified works the Company shall deliver to the undertaker a plan and section showing the position and level of those works as constructed and all new, altered or substituted works provided under this Part of this Schedule.
 
-**21.**[^key-71fa77ba8e3b5292c2807d17826c734d] Any difference arising between the Company and the undertaker under this Part of this Schedule shall be referred to and settled by arbitration under article 44 of this Order.
+**21.**[^c-71fa77ba8e3b5292c2807d17826c734d] Any difference arising between the Company and the undertaker under this Part of this Schedule shall be referred to and settled by arbitration under article 44 of this Order.
 
-**22.**[^key-4e017aa897ce633f91536a55e4e5fab8] Nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the Company and the undertaker in respect of any sewer or other apparatus constructed, laid or erected in land belonging to the Company before the coming into force of this Order.
+**22.**[^c-4e017aa897ce633f91536a55e4e5fab8] Nothing in this Part of this Schedule shall affect the provisions of any enactment or agreement regulating the relations between the Company and the undertaker in respect of any sewer or other apparatus constructed, laid or erected in land belonging to the Company before the coming into force of this Order.
 
 ## Annotations
 
-[^key-45e366bdc1232282ddc95e9ccbc75c5f]: Commencement: Sch. 10 para. 1 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-45e366bdc1232282ddc95e9ccbc75c5f]: Commencement: Sch. 10 para. 1 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00031]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-58d8ab7359d2dc95a1b4c99a467f1145]: Commencement: Sch. 10 para. 2 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-58d8ab7359d2dc95a1b4c99a467f1145]: Commencement: Sch. 10 para. 2 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-d6e75e8b8c873272cf27aefd25f70655]: Commencement: Sch. 10 para. 3 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-d6e75e8b8c873272cf27aefd25f70655]: Commencement: Sch. 10 para. 3 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-08647e8ac74dc2464ccdb0c01107edde]: Commencement: Sch. 10 para. 4 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-08647e8ac74dc2464ccdb0c01107edde]: Commencement: Sch. 10 para. 4 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-9f017559375e3dff5eb244be1c85587b]: Commencement: Sch. 10 para. 5 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-9f017559375e3dff5eb244be1c85587b]: Commencement: Sch. 10 para. 5 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-f7f2c4a3411f71db41af62b842638599]: Commencement: Sch. 10 para. 6 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-f7f2c4a3411f71db41af62b842638599]: Commencement: Sch. 10 para. 6 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-06f55aac67ad6bf308958b123087f0e5]: Commencement: Sch. 10 para. 7 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-06f55aac67ad6bf308958b123087f0e5]: Commencement: Sch. 10 para. 7 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-cdde37ef94c60e1c32da001a327af496]: Commencement: Sch. 10 para. 8 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-cdde37ef94c60e1c32da001a327af496]: Commencement: Sch. 10 para. 8 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-dce82bc56ce4b43fa9ae5d5a2c03842c]: Commencement: Sch. 10 para. 9 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-dce82bc56ce4b43fa9ae5d5a2c03842c]: Commencement: Sch. 10 para. 9 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-dca14236a9da1de812f16375d6efaff2]: Commencement: Sch. 10 para. 10 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-dca14236a9da1de812f16375d6efaff2]: Commencement: Sch. 10 para. 10 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-b2caa37f2a98acfc76d9ffb83e11a242]: Commencement: Sch. 10 para. 11 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-b2caa37f2a98acfc76d9ffb83e11a242]: Commencement: Sch. 10 para. 11 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-d4df9fbc294c00d46c77c829e237e3ee]: Commencement: Sch. 10 para. 12 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-d4df9fbc294c00d46c77c829e237e3ee]: Commencement: Sch. 10 para. 12 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-b7be4f6c1b6185ccf2ed7287a3e8e4ac]: Commencement: Sch. 10 para. 13 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-b7be4f6c1b6185ccf2ed7287a3e8e4ac]: Commencement: Sch. 10 para. 13 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
 [^f00032]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-22b8accff28fd0a09dcdf44371f250ab]: Commencement: Sch. 10 para. 14 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-22b8accff28fd0a09dcdf44371f250ab]: Commencement: Sch. 10 para. 14 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-1629fa445c11687e8ec8ffd36c9c28b7]: Commencement: Sch. 10 para. 15 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-1629fa445c11687e8ec8ffd36c9c28b7]: Commencement: Sch. 10 para. 15 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-07ef16cda24eb1628f3b3d2bdc4a7f55]: Commencement: Sch. 10 para. 16 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-07ef16cda24eb1628f3b3d2bdc4a7f55]: Commencement: Sch. 10 para. 16 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-1e72b1792034405aa085bdf1f7f25dee]: Commencement: Sch. 10 para. 17 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-1e72b1792034405aa085bdf1f7f25dee]: Commencement: Sch. 10 para. 17 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-f74e1f802a89d148c7655126e865f710]: Commencement: Sch. 10 para. 18 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-f74e1f802a89d148c7655126e865f710]: Commencement: Sch. 10 para. 18 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-a63295bff112199baca94e23f846a0ac]: Commencement: Sch. 10 para. 19 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-a63295bff112199baca94e23f846a0ac]: Commencement: Sch. 10 para. 19 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-ef64e5d39403f6b060a0647fe98e30de]: Commencement: Sch. 10 para. 20 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-ef64e5d39403f6b060a0647fe98e30de]: Commencement: Sch. 10 para. 20 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-71fa77ba8e3b5292c2807d17826c734d]: Commencement: Sch. 10 para. 21 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-71fa77ba8e3b5292c2807d17826c734d]: Commencement: Sch. 10 para. 21 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
 
-[^key-4e017aa897ce633f91536a55e4e5fab8]: Commencement: Sch. 10 para. 22 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-4e017aa897ce633f91536a55e4e5fab8]: Commencement: Sch. 10 para. 22 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

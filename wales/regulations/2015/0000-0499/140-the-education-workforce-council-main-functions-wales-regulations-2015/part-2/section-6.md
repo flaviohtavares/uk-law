@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Notice of decision[^key-a4112260738023e8640515a9d6c33144]
+## 6. Notice of decision[^c-a4112260738023e8640515a9d6c33144]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4112260738023e8640515a9d6c33144]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/140/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-a4112260738023e8640515a9d6c33144]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/140/regulation/6) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

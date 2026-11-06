@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Setting and variation of rent[^key-9a3ac11e4729e8d421de37258f184d76]
+## 23. Setting and variation of rent[^c-9a3ac11e4729e8d421de37258f184d76]
 
 *Extent: S*
 
-(1)[^key-bab47149515cf3b745c58399d8b92ffc] The 2016 Act is modified as follows.
+(1)[^c-bab47149515cf3b745c58399d8b92ffc] The 2016 Act is modified as follows.
 
-(2)[^key-bab47149515cf3b745c58399d8b92ffc] The title of Part 4 (rent) becomes “Rent: properties not in a rent control area (or properties that are exempt properties)”.
+(2)[^c-bab47149515cf3b745c58399d8b92ffc] The title of Part 4 (rent) becomes “Rent: properties not in a rent control area (or properties that are exempt properties)”.
 
-(3)[^key-a75413f4c5437d2795d0529f7cb7a58b][^key-f58fab8e613694888e61c9935ff3bf13] After the title of Chapter 1 of Part 4 but before the italic heading (“Restrictions on rent increases”) insert—
+(3)[^c-a75413f4c5437d2795d0529f7cb7a58b][^c-f58fab8e613694888e61c9935ff3bf13] After the title of Chapter 1 of Part 4 but before the italic heading (“Restrictions on rent increases”) insert—
 
 > **Application of this Part**
 >
@@ -95,7 +95,7 @@ summary: ''
 
 .
 
-(4)[^key-bab47149515cf3b745c58399d8b92ffc] After Part 4 (rent) insert—
+(4)[^c-bab47149515cf3b745c58399d8b92ffc] After Part 4 (rent) insert—
 
 > **Part 4A — Rent: properties in a rent control area (other than exempt properties)**
 >
@@ -539,10 +539,10 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3ac11e4729e8d421de37258f184d76]: Commencement: S. 23 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-9a3ac11e4729e8d421de37258f184d76]: Commencement: S. 23 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-bab47149515cf3b745c58399d8b92ffc]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2025/13/section/23/1)[(2)](https://www.legislation.gov.uk/asp/2025/13/section/23/2)[(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-bab47149515cf3b745c58399d8b92ffc]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2025/13/section/23/1)[(2)](https://www.legislation.gov.uk/asp/2025/13/section/23/2)[(4)](https://www.legislation.gov.uk/asp/2025/13/section/23/4) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-a75413f4c5437d2795d0529f7cb7a58b]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3) in force at 7.1.2026 for specified purposes by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/a)
+[^c-a75413f4c5437d2795d0529f7cb7a58b]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3) in force at 7.1.2026 for specified purposes by [S.S.I. 2025/355](https://www.legislation.gov.uk/ssi/2025/355), [reg. 3(a)](https://www.legislation.gov.uk/ssi/2025/355/regulation/3/a)
 
-[^key-f58fab8e613694888e61c9935ff3bf13]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3) in force at 1.4.2026 in so far as not already in force by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-f58fab8e613694888e61c9935ff3bf13]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asp/2025/13/section/23/3) in force at 1.4.2026 in so far as not already in force by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

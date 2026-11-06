@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Drawback[^M_I_beeece31-80ef-47b9-fb87-0337b8bdf238][^key-dc3e0dbf9a3d08d30732c4abab7f1a70]
+## 111. Drawback[^M_I_beeece31-80ef-47b9-fb87-0337b8bdf238][^c-dc3e0dbf9a3d08d30732c4abab7f1a70]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_I_beeece31-80ef-47b9-fb87-0337b8bdf238]: Commencement: S. 111 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-dc3e0dbf9a3d08d30732c4abab7f1a70]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/30/section/111) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))
+[^c-dc3e0dbf9a3d08d30732c4abab7f1a70]: Commencement: [S. 111](https://www.legislation.gov.uk/ukpga/2023/30/section/111) in force at 1.2.2025 by [S.I. 2025/96](https://www.legislation.gov.uk/uksi/2025/96), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/96/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/96/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 11. Making of schemes or orders[^key-7595d9731e3cd9c0f6b8deb4aa26c67f]
+## 11. Making of schemes or orders[^c-7595d9731e3cd9c0f6b8deb4aa26c67f]
 
 *Extent: E*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) When serving notice under subsection (2) the Commissioners shall send a copy thereof to the Registrar of the Privy Council together with a copy of the draft scheme and a copy of the statement in writing referred to in that subsection.
 
-(4A)[^key-dd2bdcc254ffda32fe14a1b240d127cf] In the case of a draft scheme which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft scheme and unless they consider that there are material considerations which indicate that it should not be made, shall comply with the duties imposed by subsection (2)(a) and (b); and references in this Measure to a notice under subsection (2) shall be read accordingly.[^key-b338721a60da1802829da0bcbf1e5eb3] .
+(4A)[^c-dd2bdcc254ffda32fe14a1b240d127cf] In the case of a draft scheme which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft scheme and unless they consider that there are material considerations which indicate that it should not be made, shall comply with the duties imposed by subsection (2)(a) and (b); and references in this Measure to a notice under subsection (2) shall be read accordingly.[^c-b338721a60da1802829da0bcbf1e5eb3] .
 
 (4B) Subsections (1) to (4) have effect subject to subsection (4A).
 
@@ -44,13 +44,13 @@ summary: ''
 
 they shall issue a certificate to that effect and submit the draft order and the certificate to the bishop.
 
-(6A)[^key-802823bef7e4ee505d9818b7ce7cabe7] In the case of a draft order which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft order, shall issue a certificate that the order should be made and submit the draft order and certificate to the bishop, unless they consider that there are material considerations which indicate that the order should not be made.
+(6A)[^c-802823bef7e4ee505d9818b7ce7cabe7] In the case of a draft order which gives effect to proposals included in a deanery plan to which this section applies, the Commissioners, having considered any representations made with respect to the draft order, shall issue a certificate that the order should be made and submit the draft order and certificate to the bishop, unless they consider that there are material considerations which indicate that the order should not be made.
 
 (6B) Subsections (5) and (6) have effect subject to subsection (6A).
 
 (7) Where a draft order is submitted to the bishop under this section, he may by applying his seal thereto make the order.
 
-(8)[^key-c1b7e9443207d8e329f8fbc3e8845315] In this section, “**deanery plan**” means a plan for pastoral reorganisation which has been approved by the deanery synod of each deanery which would be affected by implementation of the plan and by the mission and pastoral committee[^key-6f40f9e8e01a29455ed7c67d2ff089da]; and a deanery plan is one to which this section applies if—
+(8)[^c-c1b7e9443207d8e329f8fbc3e8845315] In this section, “**deanery plan**” means a plan for pastoral reorganisation which has been approved by the deanery synod of each deanery which would be affected by implementation of the plan and by the mission and pastoral committee[^c-6f40f9e8e01a29455ed7c67d2ff089da]; and a deanery plan is one to which this section applies if—
 
 - (a) the persons who are the interested parties for the purposes of section 6(8A) have been consulted on the plan,
 - (b) any person holding office under Common Tenure, and any incumbent or archdeacon not subject to Common Tenure, whose office would or might be abolished if the plan took effect has had an opportunity to meet the mission and pastoral committee, and
@@ -58,14 +58,14 @@ they shall issue a certificate to that effect and submit the draft order and the
 
 ## Annotations
 
-[^key-7595d9731e3cd9c0f6b8deb4aa26c67f]: Commencement: S. 11 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-7595d9731e3cd9c0f6b8deb4aa26c67f]: Commencement: S. 11 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-dd2bdcc254ffda32fe14a1b240d127cf]: Textual amendment: S. 11(4A)(4B) inserted (1.3.2019) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/1), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(b)](https://www.legislation.gov.uk/uksi/2019/66/article/2/b)
+[^c-dd2bdcc254ffda32fe14a1b240d127cf]: Textual amendment: S. 11(4A)(4B) inserted (1.3.2019) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 4(1)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/1), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2019/66](https://www.legislation.gov.uk/uksi/2019/66), [art. 2(b)](https://www.legislation.gov.uk/uksi/2019/66/article/2/b)
 
-[^key-b338721a60da1802829da0bcbf1e5eb3]: Textual amendment: Words in s. 11(4A) substituted (1.3.2019 immediately after the provisions of Church Measure 2018 No. 4 commenced by S.I. 2019/66, art. 2 come into force) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 15(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/2), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)[(2)](https://www.legislation.gov.uk/uksi/2019/67/article/2/2)
+[^c-b338721a60da1802829da0bcbf1e5eb3]: Textual amendment: Words in s. 11(4A) substituted (1.3.2019 immediately after the provisions of Church Measure 2018 No. 4 commenced by S.I. 2019/66, art. 2 come into force) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 15(2)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/2), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)[(2)](https://www.legislation.gov.uk/uksi/2019/67/article/2/2)
 
-[^key-802823bef7e4ee505d9818b7ce7cabe7]: Textual amendment: S. 11(6A)(6B) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
+[^c-802823bef7e4ee505d9818b7ce7cabe7]: Textual amendment: S. 11(6A)(6B) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 4(2)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/2), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
 
-[^key-c1b7e9443207d8e329f8fbc3e8845315]: Textual amendment: S. 11(8) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 4(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/3), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
+[^c-c1b7e9443207d8e329f8fbc3e8845315]: Textual amendment: S. 11(8) inserted (1.10.2018) by [Mission and Pastoral etc. (Amendment) Measure 2018 (No. 4)](https://www.legislation.gov.uk/ukcm/2018/4), [ss. 4(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/4/3), [14(3)](https://www.legislation.gov.uk/ukcm/2018/4/section/14/3); [S.I. 2018/722](https://www.legislation.gov.uk/uksi/2018/722), [art. 3(d)](https://www.legislation.gov.uk/uksi/2018/722/article/3/d)
 
-[^key-6f40f9e8e01a29455ed7c67d2ff089da]: Textual amendment: Words in s. 11(8) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 15(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/3), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)
+[^c-6f40f9e8e01a29455ed7c67d2ff089da]: Textual amendment: Words in s. 11(8) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 15(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/15/3), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/n)

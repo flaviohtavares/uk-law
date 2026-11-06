@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Gaming machines: Categories A to D[^key-d5c574a4ca0c4976bc6c5bfe0daf8032][^key-baf371b5b2aa8118fd647077673fdea3]
+## 236. Gaming machines: Categories A to D[^c-d5c574a4ca0c4976bc6c5bfe0daf8032][^c-baf371b5b2aa8118fd647077673fdea3]
 
 *Extent: E+W+S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d5c574a4ca0c4976bc6c5bfe0daf8032]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2005/19/section/236) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/1157, arts. 3(3), 4)
+[^c-d5c574a4ca0c4976bc6c5bfe0daf8032]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2005/19/section/236) in force at 21.5.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(2)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3272/schedule/2) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as amended by S.I. 2007/1157, arts. 3(3), 4)
 
-[^key-baf371b5b2aa8118fd647077673fdea3]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2005/19/section/236) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-baf371b5b2aa8118fd647077673fdea3]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2005/19/section/236) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)

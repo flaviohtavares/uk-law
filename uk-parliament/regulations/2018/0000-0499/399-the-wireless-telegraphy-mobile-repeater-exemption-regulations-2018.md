@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2018 (revoked)[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]
+The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2018 (revoked)[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into force
 
 12th April 2018
 
-[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]
+## 1. Citation and commencement[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]
+## 2. Interpretation[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption for indoor use[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]
+## 3. Exemption for indoor use[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption for use in a motor vehicle[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]
+## 4. Exemption for use in a motor vehicle[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a7baaf2f7fa9303a0ca7548cbf9dcedb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/399) revoked (16.6.2022) by [The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2022 (S.I. 2022/595)](https://www.legislation.gov.uk/uksi/2022/595), [regs. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/595/regulation/2)
+[^c-a7baaf2f7fa9303a0ca7548cbf9dcedb]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/399) revoked (16.6.2022) by [The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2022 (S.I. 2022/595)](https://www.legislation.gov.uk/uksi/2022/595), [regs. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1), [2](https://www.legislation.gov.uk/uksi/2022/595/regulation/2)

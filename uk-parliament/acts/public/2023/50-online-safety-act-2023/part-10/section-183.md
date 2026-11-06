@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Offences of sending or showing flashing images electronically[^key-79081cfc167691a70990b78ee18565fd][^key-0055b9dd262e13b9f29eecfdb1481226]
+## 183. Offences of sending or showing flashing images electronically[^c-79081cfc167691a70990b78ee18565fd][^c-0055b9dd262e13b9f29eecfdb1481226]
 
 *Extent: E+W+N.I.*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79081cfc167691a70990b78ee18565fd]: Commencement: S. 183 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-79081cfc167691a70990b78ee18565fd]: Commencement: S. 183 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0055b9dd262e13b9f29eecfdb1481226]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/50/section/183) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-0055b9dd262e13b9f29eecfdb1481226]: Commencement: [S. 183](https://www.legislation.gov.uk/ukpga/2023/50/section/183) in force at 31.1.2024 by [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

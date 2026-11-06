@@ -35,10 +35,10 @@ summary: ''
 (4) A designated person—
 
 - (a) shall not be deemed to have been given leave in accordance with paragraph 6 of Schedule 2 to the Immigration Act 1971 (c. 77) (notice of leave or refusal), and
-- (b) may not be granted immigration bail under Schedule 10 to the Immigration Act 2016.[^key-ddeef1832fa8852366a885e36b351cce]
+- (b) may not be granted immigration bail under Schedule 10 to the Immigration Act 2016.[^c-ddeef1832fa8852366a885e36b351cce]
 
 (5) Sections 134 and 135 make provision about support for designated persons and their dependants.
 
 ## Annotations
 
-[^key-ddeef1832fa8852366a885e36b351cce]: Textual amendment: Words in [s. 132(4)(b)](https://www.legislation.gov.uk/ukpga/2008/4/section/132/4/b) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 42](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/42); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)
+[^c-ddeef1832fa8852366a885e36b351cce]: Textual amendment: Words in [s. 132(4)(b)](https://www.legislation.gov.uk/ukpga/2008/4/section/132/4/b) substituted (15.1.2018) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 10 para. 42](https://www.legislation.gov.uk/ukpga/2016/19/schedule/10/paragraph/42); [S.I. 2017/1241](https://www.legislation.gov.uk/uksi/2017/1241), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1241/regulation/2/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2017/1241/schedule)) (as amended by [S.I. 2018/31](https://www.legislation.gov.uk/uksi/2018/31), reg. 2)

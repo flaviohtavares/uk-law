@@ -168,7 +168,7 @@ Service of notices
 
 Interpretation of this Schedule
 
-### 1. Offences relating to applications for postal and proxy votes[^key-7041b55bbc45244d98c269c040b95a5c]
+### 1. Offences relating to applications for postal and proxy votes[^c-7041b55bbc45244d98c269c040b95a5c]
 
 (1) A person who provides false information in connection with an application to which any of paragraphs 3, 5(8) or 6(6) or (7) of Schedule 1 applies is guilty of an offence.
 
@@ -219,7 +219,7 @@ or both.
 
 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 2. Personation[^key-41e710377e6d674c8c256a72e06be595]
+### 2. Personation[^c-41e710377e6d674c8c256a72e06be595]
 
 (1) A person is guilty of a corrupt practice if the person commits, or aids, abets, counsels or procures the commission of, the offence of personation.
 
@@ -234,7 +234,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 (4) Section 24A of the Police and Criminal Evidence Act 1984[^f00049] (arrest without warrant: other persons) does not permit a person other than a constable to arrest, inside a polling station, a person who commits or is suspected of committing an offence under the preceding provisions of this paragraph.
 
-### 3. Other voting offences[^key-46589fc8b58aef738afc05ea6b372117]
+### 3. Other voting offences[^c-46589fc8b58aef738afc05ea6b372117]
 
 (1) A person (P) is guilty of an offence if P —
 
@@ -267,7 +267,7 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 (9) An offence under this paragraph is an illegal practice, but the court before whom a person is convicted of any such offence may, if the court thinks it just in the special circumstances of the case, mitigate or entirely remit any incapacity imposed by virtue of paragraph 25.
 
-### 4. Breach of official duty[^key-2f4f37fd8bef0a32da3faeac8609a49f]
+### 4. Breach of official duty[^c-2f4f37fd8bef0a32da3faeac8609a49f]
 
 (1) If a person to whom this paragraph applies is, without reasonable cause, guilty of any act or omission in breach of the person’s official duty, the person is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
@@ -290,7 +290,7 @@ and “official duty” for the purpose of this paragraph is to be construed acc
 
 (5) Sub–paragraph (4) does not affect any conviction which takes place, or any penalty which is imposed, before the date on which the act or omission is remedied in full.
 
-### 5. Tampering with ballot papers etc.[^key-5f0cfdb52b1f88f8a29fdbfebb3f35de]
+### 5. Tampering with ballot papers etc.[^c-5f0cfdb52b1f88f8a29fdbfebb3f35de]
 
 (1) A person (P) is guilty of an offence if, in the referendum, P—
 
@@ -308,11 +308,11 @@ and “official duty” for the purpose of this paragraph is to be construed acc
 
 (3) If any other person is guilty of an offence under this paragraph the person is liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding 6 months, or to both.
 
-(4) In relation to an offence committed under sub-paragraph (2) after the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^key-b73bb890e54bf0b40c1572250c1e48f5], the reference in sub-paragraph (2)(b) to 6 months is to be read as a reference to the general limit in a magistrates’ court[^key-35d87d91656f5b2898ee17cd21aac500].
+(4) In relation to an offence committed under sub-paragraph (2) after the commencement of paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^c-b73bb890e54bf0b40c1572250c1e48f5], the reference in sub-paragraph (2)(b) to 6 months is to be read as a reference to the general limit in a magistrates’ court[^c-35d87d91656f5b2898ee17cd21aac500].
 
 (5) In relation to an offence committed under sub-paragraph (3) after the commencement of section 281(5) of the Criminal Justice Act 2003, the reference in sub-paragraph (3) to 6 months is to be read as a reference to 51 weeks.
 
-### 6. Requirement of secrecy[^key-26fdb728744a4851bc56fd0bb80d294c]
+### 6. Requirement of secrecy[^c-26fdb728744a4851bc56fd0bb80d294c]
 
 (1) The following persons attending at a polling station ,namely-—
 
@@ -355,7 +355,7 @@ and “official duty” for the purpose of this paragraph is to be construed acc
 
 (8) In this paragraph a voter with disabilities is a voter who has made a declaration under rule 27(1) of the Referendum Rules.
 
-### 7. Prohibition on publication of exit polls[^key-42dbb77db5f2c0185d83e87bf0d68945]
+### 7. Prohibition on publication of exit polls[^c-42dbb77db5f2c0185d83e87bf0d68945]
 
 (1) No person may publish before the close of the poll —
 
@@ -373,7 +373,7 @@ and “official duty” for the purpose of this paragraph is to be construed acc
 
   the reference to a forecast as to the result of the referendum includes a reference to a forecast as the number or proportion of votes expected to be cast for each answer to the referendum question in any voting area or any other area.
 
-### 8. Broadcasting from outside the United Kingdom[^key-f55c1b944e118166d5962381d29479e3]
+### 8. Broadcasting from outside the United Kingdom[^c-f55c1b944e118166d5962381d29479e3]
 
 (1) No person may, with intent to influence persons to give or refrain from giving their votes in the referendum, include, or aid, abet, counsel or procure the inclusion of, any matter relating to the referendum in any programme service (within the meaning of the Broadcasting Act 1990[^f00050]) provided from a place outside the United Kingdom otherwise than in pursuance of arrangements made with —
 
@@ -390,11 +390,11 @@ for the reception and re-transmission of that matter by that body or the holder 
 - (a) that the act or omission took place without that person’s consent or connivance; and
 - (b) that the person exercised all such diligence to prevent the commission of the illegal practice as the person ought to have exercised having regard to the nature of that person’s functions in that capacity and to all the circumstances.
 
-### 9. Imitation poll cards[^key-88223fd5deab2c729338423d05bea3c7]
+### 9. Imitation poll cards[^c-88223fd5deab2c729338423d05bea3c7]
 
 No person may for the purpose of promoting or procuring a particular result in the referendum issue any poll card or document so closely resembling an official poll card as to be calculated to deceive, and sub-paragraphs (2) and (3) of paragraph 8 apply as if an offence under this paragraph were an offence under that paragraph.
 
-### 10. Disturbances at meetings[^key-3a2bdbc340f7d9555b70ede1d52d0c15]
+### 10. Disturbances at meetings[^c-3a2bdbc340f7d9555b70ede1d52d0c15]
 
 (1) A person who at a lawful public meeting to which this paragraph applies acts, or incites others to act, in a disorderly manner for the purpose of preventing the transaction of the business for which the meeting was called together is guilty of an illegal practice.
 
@@ -402,7 +402,7 @@ No person may for the purpose of promoting or procuring a particular result in t
 
 (3) If a constable reasonably suspects any person (P) of committing an offence under sub- paragraph (1), the constable may, if requested so to do by the chairman of the meeting, require P to declare immediately to the constable P’s name and address and, if P refuses or fails so to declare P’s name and address or gives a false name and address, P is liable on summary conviction to a fine not exceeding level 1 on the standard scale.
 
-### 11. Officials not to act for permitted participants[^key-0ccf5d68c42d1dde62aacc48dc53244d]
+### 11. Officials not to act for permitted participants[^c-0ccf5d68c42d1dde62aacc48dc53244d]
 
 (1) If —
 
@@ -414,13 +414,13 @@ acts as a referendum agent for a permitted participant, that person is guilty of
 
 (2) A person guilty of an offence under this paragraph is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-### 12. Illegal canvassing by police officers[^key-8af1bf0c71f3048a91dc02a1465c294e]
+### 12. Illegal canvassing by police officers[^c-8af1bf0c71f3048a91dc02a1465c294e]
 
 (1) No member of a police force may by word, message, writing or in any other manner, endeavour to persuade any person to give, or dissuade any person from giving, that person’s vote, whether as an elector or as proxy in the referendum, in a voting area wholly or partly within the police area.
 
 (2) A person acting in contravention of sub-paragraph (1) is liable on summary conviction to a fine not exceeding level 3 on the standard scale; but nothing in that sub-paragraph subjects a member of a police force to any penalty for anything done in the discharge of that member’s duty as a member of the force.
 
-### 13. Payments for exhibition of referendum notices[^key-817d410a5911fec553d7e34b98136f84]
+### 13. Payments for exhibition of referendum notices[^c-817d410a5911fec553d7e34b98136f84]
 
 (1) No payment or contract for payment may, for the purpose of promoting or procuring a particular result in the referendum, be made to a voter on account of the exhibition of, or the use of any house, land, building or premises for the exhibition of, any address, bill or notice, unless —
 
@@ -434,7 +434,7 @@ acts as a referendum agent for a permitted participant, that person is guilty of
 
 is guilty of an illegal practice.
 
-### 14. Prohibition of paid canvassers[^key-01036b9aa30586d639e3396b9761d440]
+### 14. Prohibition of paid canvassers[^c-01036b9aa30586d639e3396b9761d440]
 
 If a person is, whether before, during or after the referendum, engaged or employed for payment or promise of payment as a canvasser for the purpose of promoting or procuring a particular result in the referendum —
 
@@ -443,7 +443,7 @@ If a person is, whether before, during or after the referendum, engaged or emplo
 
 is guilty of illegal employment.
 
-### 15. Providing money for illegal purposes[^key-6abd46cde8f827abe0d228f1ac68cd76]
+### 15. Providing money for illegal purposes[^c-6abd46cde8f827abe0d228f1ac68cd76]
 
 If a person knowingly provides money —
 
@@ -452,7 +452,7 @@ If a person knowingly provides money —
 
 except where the payment may have been previously allowed in pursuance of paragraph 21 to be an exception, that person is guilty of an illegal payment.
 
-### 16. Bribery[^key-edd44a1e2121e16642e7fa459e7d064e]
+### 16. Bribery[^c-edd44a1e2121e16642e7fa459e7d064e]
 
 (1) A person is guilty of a corrupt practice if the person is guilty of bribery.
 
@@ -487,7 +487,7 @@ or if upon or in consequence of any such gift or procurement as mentioned above 
 
 (8) In this paragraph the expression “voter” includes any person who has or claims to have a right to vote.
 
-### 17. Treating[^key-5accf84b5a803470c4921338a0e7cdce]
+### 17. Treating[^c-5accf84b5a803470c4921338a0e7cdce]
 
 (1) A person is guilty of a corrupt practice if the person is guilty of treating.
 
@@ -498,7 +498,7 @@ or if upon or in consequence of any such gift or procurement as mentioned above 
 
 (3) Every elector or proxy of that elector who corruptly accepts or takes any such meat, drink, entertainment or provision is also guilty of treating.
 
-### 18. Undue influence[^key-d0ab3e34eb8e4c8092e826368c15c4d6]
+### 18. Undue influence[^c-d0ab3e34eb8e4c8092e826368c15c4d6]
 
 (1) A person is guilty of a corrupt practice if the person is guilty of undue influence.
 
@@ -507,11 +507,11 @@ or if upon or in consequence of any such gift or procurement as mentioned above 
 - (a) if P, directly or indirectly, personally or by any other person on P’s behalf, makes use of or threatens to make use of any force, violence or restraint, or inflicts or threatens to inflict, personally or by any other person, any temporal or spiritual injury, damage, harm or loss upon or against any person in order to induce or compel that person to vote or refrain from voting, or on account of that person having voted or refrained from voting; or
 - (b) if, by abduction, duress or any fraudulent device or contrivance, P impedes or prevents, or intends to impede or prevent, the free exercise of the franchise of an elector or the proxy for an elector or so compels, induces or prevails upon, or intends so to compel, induce or prevail upon, an elector or the proxy for an elector either to vote or to refrain from voting.
 
-### 19. Interference with notices etc.[^key-6c553c587de70d3a02187772c5989afc]
+### 19. Interference with notices etc.[^c-6c553c587de70d3a02187772c5989afc]
 
 If any person without lawful authority destroys, mutilates, defaces or removes any notice published by a registration officer in connection with the registration officer’s duties under this Order or any copies of a document which have been made available for inspection in pursuance of those duties, that person is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 20. Offences in contravention of Schedule 1 paragraphs 20 and 21 (Supply of free copy of register etc.)[^key-1807dcfce3c5e0ec546dc25000a1f5e4]
+### 20. Offences in contravention of Schedule 1 paragraphs 20 and 21 (Supply of free copy of register etc.)[^c-1807dcfce3c5e0ec546dc25000a1f5e4]
 
 (1) A person is guilty of an offence—
 
@@ -534,7 +534,7 @@ If any person without lawful authority destroys, mutilates, defaces or removes a
 
 (6) A person guilty of an offence as mentioned in paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 21. Application for relief[^key-a1dce3078d8dce389233775e985f3b04]
+### 21. Application for relief[^c-a1dce3078d8dce389233775e985f3b04]
 
 (1) An application for relief under this paragraph may be made to the High Court.
 
@@ -548,7 +548,7 @@ If any person without lawful authority destroys, mutilates, defaces or removes a
 
 and under the circumstances it seems to the court to be just that either that or any other person should not be subject to any of the consequences under this Schedule of the act or omission, the court may make an order allowing the act or omission to be an exception from the provisions of this Schedule making it an illegal practice, payment or employment and upon the making of the order no person is to be subject to any of the consequences under this Schedule of that act or omission*.*
 
-### 22. Prosecutions for corrupt practices[^key-988edf0c803f716a47f733021d477314]
+### 22. Prosecutions for corrupt practices[^c-988edf0c803f716a47f733021d477314]
 
 (1) A person who is guilty of a corrupt practice is liable —
 
@@ -559,15 +559,15 @@ and under the circumstances it seems to the court to be just that either that or
 
 (2) In relation to an offence committed after commencement of section 281(5) of the Criminal Justice Act 2003, the reference in paragraph (1)(b) to 6 months is to be read as a reference to 51 weeks.
 
-### 23. Prosecutions for illegal practice[^key-5af2e536121c75014a80bb2abc5b6ad1]
+### 23. Prosecutions for illegal practice[^c-5af2e536121c75014a80bb2abc5b6ad1]
 
 A person guilty of an illegal practice is on summary conviction liable to a fine not exceeding level 5 on the standard scale; and on a prosecution for an illegal practice it is sufficient to allege that the person charged was guilty of an illegal practice.
 
-### 24. Conviction of illegal practice on charge of corrupt practice etc.[^key-314ce1c4a65bedeaa24ae0202e532d96]
+### 24. Conviction of illegal practice on charge of corrupt practice etc.[^c-314ce1c4a65bedeaa24ae0202e532d96]
 
 A person charged with a corrupt practice may, if the circumstances warrant such finding, be found guilty of an illegal practice (which offence is for that purpose to be an indictable offence), and a person charged with an illegal practice may be found guilty of that offence notwithstanding that the act constituting the offence amounted to a corrupt practice.
 
-### 25. Incapacities on conviction of corrupt or illegal practice[^key-6491fe039906c90a1b5de1b356ed4d83]
+### 25. Incapacities on conviction of corrupt or illegal practice[^c-6491fe039906c90a1b5de1b356ed4d83]
 
 (1) A person to whom this paragraph applies is, during the relevant period specified in sub-paragraph (3), incapable of being registered as an elector or voting at any —
 
@@ -590,13 +590,13 @@ except that if (at any time within that period of five or, as the case may be, t
 
 (4) Any incapacities applying to a person by virtue of the preceding provisions of this paragraph applies in addition to any punishment imposed under paragraph 22 or 23.
 
-### 26. Prosecutions for illegal payments etc.[^key-42b340b60ecf83a3350eae3927650443]
+### 26. Prosecutions for illegal payments etc.[^c-42b340b60ecf83a3350eae3927650443]
 
 (1) A person guilty of an offence of illegal employment under paragraph 14 or illegal payment under paragraph 15 is, on summary conviction, liable to a fine not exceeding level 5 on the standard scale; and on a prosecution for such an offence it is sufficient to allege that the person charged was guilty of an illegal employment or payment as the case may be.
 
 (2) Any person charged with an offence of illegal employment or payment may be found guilty of that offence, notwithstanding that the act constituting the offence amounted to a corrupt or illegal practice.
 
-### 27. Time limit for prosecutions[^key-fc42b35508579ed83693ebdf7ea604e6]
+### 27. Time limit for prosecutions[^c-fc42b35508579ed83693ebdf7ea604e6]
 
 (1) A proceeding against a person in respect of any offence under any provision contained in this Schedule is to be commenced within one year after the offence was committed, and the time so limited by this paragraph is, in the case of any proceedings under the Magistrates’ Courts Act 1980[^f00052] for any such offence, to be substituted for any limitation of time contained in that Act.
 
@@ -627,34 +627,34 @@ except that if (at any time within that period of five or, as the case may be, t
 
 who is aggrieved by the refusal of the magistrates’ court to act under sub-paragraph (4) or to make an order under sub–paragraph (6) (as the case may be) may appeal to the Crown Court.
 
-### 28. Referendum offence punishable summarily[^key-ebc6c3f3db5b5c08d7976d7c9276fb60]
+### 28. Referendum offence punishable summarily[^c-ebc6c3f3db5b5c08d7976d7c9276fb60]
 
 A prosecution for any offence punishable summarily under this Schedule—
 
 - (a) may be instituted before any magistrates’ court in the voting area in which the offence is alleged to have been committed; and
 - (b) the offence is to be deemed for all purposes to have been committed within the jurisdiction of that court.
 
-### 29. Prosecution of offences committed outside the United Kingdom[^key-58268a39802fddf9db2e5535671b84ea]
+### 29. Prosecution of offences committed outside the United Kingdom[^c-58268a39802fddf9db2e5535671b84ea]
 
 Proceedings in respect of an offence under this Schedule alleged to have been committed outside the United Kingdom by a Commonwealth citizen or citizen of the Republic of Ireland or a relevant citizen of the Union may be taken, and the offence may for all incidental purposes be treated as having been committed, in any place in the United Kingdom.
 
-### 30. Offences by associations[^key-1fbaa362d9c4a529f48d6b0b400ca694]
+### 30. Offences by associations[^c-1fbaa362d9c4a529f48d6b0b400ca694]
 
 Where any corrupt or illegal practice or any illegal payment or employment is committed by any association or body of persons, corporate or unincorporate, the members of the association or body who have taken part in the commission of the offence are liable to any fine or punishment imposed for that offence by this Schedule.
 
-### 31. Evidence by certificate of electoral registration[^key-2b47f91cc3c161ceea9fe8f3bd3d5724]
+### 31. Evidence by certificate of electoral registration[^c-2b47f91cc3c161ceea9fe8f3bd3d5724]
 
 The certificate of a registration officer that any person is or is not, or was or was not at any particular time, duly registered in the registration officer’s register in respect of any address is sufficient evidence of the facts stated in it; and a document purporting to be such a certificate is to be received in evidence and presumed to be such a certificate unless the contrary is proved.
 
-### 32. Director of Public Prosecutions[^key-36b967289fcf25b7b5e99b719aa3da59]
+### 32. Director of Public Prosecutions[^c-36b967289fcf25b7b5e99b719aa3da59]
 
 Where information is given to the Director of Public Prosecutions that any offence under this Schedule has been committed, it is the duty of the Director to make such inquiries and institute such prosecutions as the circumstances of the case appear to the Director to require.
 
-### 33. Rights of creditors[^key-a8b5bca1ef71b678bdd9e4e71bf37a65]
+### 33. Rights of creditors[^c-a8b5bca1ef71b678bdd9e4e71bf37a65]
 
 Any provision in this Schedule prohibiting payments and contracts for payments does not affect the right of any creditor who, when the payment or contract was made, was ignorant of that payment or contract being in contravention of this Schedule.
 
-### 34. Saving[^key-a4ec6941b8421651655feacdfee2369c]
+### 34. Saving[^c-a4ec6941b8421651655feacdfee2369c]
 
 Nothing in this Schedule makes it illegal for an employer (“A”) to permit voters in the referendum to absent themselves from A’s employment for a reasonable time for the purposes of voting at the poll in the referendum without having any deduction from their salaries or wages on account of their absence, if the permission —
 
@@ -664,7 +664,7 @@ Nothing in this Schedule makes it illegal for an employer (“A”) to permit vo
 
 But this paragraph is not to be construed as making illegal any act which would not be illegal apart from this paragraph.
 
-### 35. Service of notices[^key-96a69fde554049fada0c8cb863a365a8]
+### 35. Service of notices[^c-96a69fde554049fada0c8cb863a365a8]
 
 (1) Any notice, legal process or other document required to be served on any person with reference to any proceeding respecting the referendum for the purpose of causing that person to appear before the High Court, or a county court or otherwise or of giving that person an opportunity of making a statement, or showing cause, or being heard in person before any court for any purpose of this Schedule may be served—
 
@@ -673,7 +673,7 @@ But this paragraph is not to be construed as making illegal any act which would 
 
 (2) In proving service by post under this paragraph it is sufficient to prove that the letter was prepaid, properly addressed, and registered or recorded with the postal operator (within the meaning of the Postal Services Act 2000) concerned.
 
-### 36. Interpretation of this Schedule[^key-fc71e503f014fd15c1275aa131a82d1a]
+### 36. Interpretation of this Schedule[^c-fc71e503f014fd15c1275aa131a82d1a]
 
 In this Schedule, unless the context otherwise requires—
 
@@ -688,88 +688,88 @@ In this Schedule, unless the context otherwise requires—
 
 ## Annotations
 
-[^key-7041b55bbc45244d98c269c040b95a5c]: Commencement: Sch. 4 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-7041b55bbc45244d98c269c040b95a5c]: Commencement: Sch. 4 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00048]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-41e710377e6d674c8c256a72e06be595]: Commencement: Sch. 4 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-41e710377e6d674c8c256a72e06be595]: Commencement: Sch. 4 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00049]: Footnote: Section 24A of the Police and Criminal Evidence Act [1984 (c.60)](https://www.legislation.gov.uk/ukpga/1984/60) was inserted by section 110(1) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15). There is an amendment to section 24A which is not relevant to this Order.
 
-[^key-46589fc8b58aef738afc05ea6b372117]: Commencement: Sch. 4 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-46589fc8b58aef738afc05ea6b372117]: Commencement: Sch. 4 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-2f4f37fd8bef0a32da3faeac8609a49f]: Commencement: Sch. 4 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-2f4f37fd8bef0a32da3faeac8609a49f]: Commencement: Sch. 4 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-5f0cfdb52b1f88f8a29fdbfebb3f35de]: Commencement: Sch. 4 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-5f0cfdb52b1f88f8a29fdbfebb3f35de]: Commencement: Sch. 4 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b73bb890e54bf0b40c1572250c1e48f5]: Textual amendment: Words in [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/2837/schedule/4/paragraph/5/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b73bb890e54bf0b40c1572250c1e48f5]: Textual amendment: Words in [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/2837/schedule/4/paragraph/5/4) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-35d87d91656f5b2898ee17cd21aac500]: Textual amendment: Words in [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/2837/schedule/4/paragraph/5/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [34(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/34/2)
+[^c-35d87d91656f5b2898ee17cd21aac500]: Textual amendment: Words in [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/uksi/2010/2837/schedule/4/paragraph/5/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [34(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/34/2)
 
-[^key-26fdb728744a4851bc56fd0bb80d294c]: Commencement: Sch. 4 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-26fdb728744a4851bc56fd0bb80d294c]: Commencement: Sch. 4 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-42dbb77db5f2c0185d83e87bf0d68945]: Commencement: Sch. 4 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-42dbb77db5f2c0185d83e87bf0d68945]: Commencement: Sch. 4 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-f55c1b944e118166d5962381d29479e3]: Commencement: Sch. 4 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-f55c1b944e118166d5962381d29479e3]: Commencement: Sch. 4 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00050]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42). *See* section 201 of the Broadcasting Act 1990 for the meaning of programme service. Section 201 has been amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 360(1)(a) and (b) and (2) and Schedule 19(1).
 
-[^key-88223fd5deab2c729338423d05bea3c7]: Commencement: Sch. 4 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-88223fd5deab2c729338423d05bea3c7]: Commencement: Sch. 4 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-3a2bdbc340f7d9555b70ede1d52d0c15]: Commencement: Sch. 4 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-3a2bdbc340f7d9555b70ede1d52d0c15]: Commencement: Sch. 4 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-0ccf5d68c42d1dde62aacc48dc53244d]: Commencement: Sch. 4 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-0ccf5d68c42d1dde62aacc48dc53244d]: Commencement: Sch. 4 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-8af1bf0c71f3048a91dc02a1465c294e]: Commencement: Sch. 4 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-8af1bf0c71f3048a91dc02a1465c294e]: Commencement: Sch. 4 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-817d410a5911fec553d7e34b98136f84]: Commencement: Sch. 4 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-817d410a5911fec553d7e34b98136f84]: Commencement: Sch. 4 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-01036b9aa30586d639e3396b9761d440]: Commencement: Sch. 4 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-01036b9aa30586d639e3396b9761d440]: Commencement: Sch. 4 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-6abd46cde8f827abe0d228f1ac68cd76]: Commencement: Sch. 4 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6abd46cde8f827abe0d228f1ac68cd76]: Commencement: Sch. 4 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-edd44a1e2121e16642e7fa459e7d064e]: Commencement: Sch. 4 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-edd44a1e2121e16642e7fa459e7d064e]: Commencement: Sch. 4 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-5accf84b5a803470c4921338a0e7cdce]: Commencement: Sch. 4 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-5accf84b5a803470c4921338a0e7cdce]: Commencement: Sch. 4 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-d0ab3e34eb8e4c8092e826368c15c4d6]: Commencement: Sch. 4 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-d0ab3e34eb8e4c8092e826368c15c4d6]: Commencement: Sch. 4 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-6c553c587de70d3a02187772c5989afc]: Commencement: Sch. 4 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6c553c587de70d3a02187772c5989afc]: Commencement: Sch. 4 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-1807dcfce3c5e0ec546dc25000a1f5e4]: Commencement: Sch. 4 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-1807dcfce3c5e0ec546dc25000a1f5e4]: Commencement: Sch. 4 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-a1dce3078d8dce389233775e985f3b04]: Commencement: Sch. 4 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a1dce3078d8dce389233775e985f3b04]: Commencement: Sch. 4 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-988edf0c803f716a47f733021d477314]: Commencement: Sch. 4 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-988edf0c803f716a47f733021d477314]: Commencement: Sch. 4 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-5af2e536121c75014a80bb2abc5b6ad1]: Commencement: Sch. 4 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-5af2e536121c75014a80bb2abc5b6ad1]: Commencement: Sch. 4 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-314ce1c4a65bedeaa24ae0202e532d96]: Commencement: Sch. 4 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-314ce1c4a65bedeaa24ae0202e532d96]: Commencement: Sch. 4 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-6491fe039906c90a1b5de1b356ed4d83]: Commencement: Sch. 4 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6491fe039906c90a1b5de1b356ed4d83]: Commencement: Sch. 4 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00051]: Footnote: [2000 c.22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-42b340b60ecf83a3350eae3927650443]: Commencement: Sch. 4 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-42b340b60ecf83a3350eae3927650443]: Commencement: Sch. 4 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-fc42b35508579ed83693ebdf7ea604e6]: Commencement: Sch. 4 para. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-fc42b35508579ed83693ebdf7ea604e6]: Commencement: Sch. 4 para. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00052]: Footnote: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-ebc6c3f3db5b5c08d7976d7c9276fb60]: Commencement: Sch. 4 para. 28 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-ebc6c3f3db5b5c08d7976d7c9276fb60]: Commencement: Sch. 4 para. 28 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-58268a39802fddf9db2e5535671b84ea]: Commencement: Sch. 4 para. 29 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-58268a39802fddf9db2e5535671b84ea]: Commencement: Sch. 4 para. 29 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-1fbaa362d9c4a529f48d6b0b400ca694]: Commencement: Sch. 4 para. 30 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-1fbaa362d9c4a529f48d6b0b400ca694]: Commencement: Sch. 4 para. 30 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-2b47f91cc3c161ceea9fe8f3bd3d5724]: Commencement: Sch. 4 para. 31 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-2b47f91cc3c161ceea9fe8f3bd3d5724]: Commencement: Sch. 4 para. 31 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-36b967289fcf25b7b5e99b719aa3da59]: Commencement: Sch. 4 para. 32 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-36b967289fcf25b7b5e99b719aa3da59]: Commencement: Sch. 4 para. 32 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-a8b5bca1ef71b678bdd9e4e71bf37a65]: Commencement: Sch. 4 para. 33 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a8b5bca1ef71b678bdd9e4e71bf37a65]: Commencement: Sch. 4 para. 33 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-a4ec6941b8421651655feacdfee2369c]: Commencement: Sch. 4 para. 34 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a4ec6941b8421651655feacdfee2369c]: Commencement: Sch. 4 para. 34 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-96a69fde554049fada0c8cb863a365a8]: Commencement: Sch. 4 para. 35 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-96a69fde554049fada0c8cb863a365a8]: Commencement: Sch. 4 para. 35 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-fc71e503f014fd15c1275aa131a82d1a]: Commencement: Sch. 4 para. 36 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-fc71e503f014fd15c1275aa131a82d1a]: Commencement: Sch. 4 para. 36 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

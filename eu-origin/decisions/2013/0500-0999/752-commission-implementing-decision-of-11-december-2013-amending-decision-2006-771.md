@@ -39,26 +39,26 @@ amending Decision 2006/771/EC on harmonisation of the radio spectrum for use by 
 
 (2013/752/EU) (revoked)
 
-[^key-e7975fcb56d6f06d4ae14e12877668bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7975fcb56d6f06d4ae14e12877668bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-e7975fcb56d6f06d4ae14e12877668bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7975fcb56d6f06d4ae14e12877668bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7975fcb56d6f06d4ae14e12877668bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e7975fcb56d6f06d4ae14e12877668bc]
+## ANNEX[^c-e7975fcb56d6f06d4ae14e12877668bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7975fcb56d6f06d4ae14e12877668bc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7975fcb56d6f06d4ae14e12877668bc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

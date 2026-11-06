@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Offences[^key-4c9268a494093f7d770b0d60ce914dc1]
+## 52. Offences[^c-4c9268a494093f7d770b0d60ce914dc1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c9268a494093f7d770b0d60ce914dc1]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2013/2605/article/52) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-4c9268a494093f7d770b0d60ce914dc1]: Commencement: [Art. 52](https://www.legislation.gov.uk/uksi/2013/2605/article/52) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

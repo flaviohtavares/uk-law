@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28E. Deliberate infection: deprivation orders[^key-38ecb1de89e57bd6d620fecc0fe10591]
+## 28E. Deliberate infection: deprivation orders[^c-38ecb1de89e57bd6d620fecc0fe10591]
 
 *Extent: S*
 
@@ -66,9 +66,9 @@ the convicting court may make an order (in this section and section 28H referred
 
 (10) A deprivation order is, for the purposes of any appeal under the Criminal Procedure (Scotland) Act 1995 (c. 46), to be treated as a sentence.
 
-(11) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (10)) who has an interest in any animal to which the order applies may appeal to the High Court of Justiciary *(affected by repeal, see note)*[^key-f56e6dbd36e726974243ebbed81f2f67]appropriate Appeal Court against the order by the same procedure as applies under subsection (10).
+(11) Where a deprivation order is made, any person (apart from a person who may appeal against the order by virtue of subsection (10)) who has an interest in any animal to which the order applies may appeal to the High Court of Justiciary *(affected by repeal, see note)*[^c-f56e6dbd36e726974243ebbed81f2f67]appropriate Appeal Court against the order by the same procedure as applies under subsection (10).
 
-(11A)[^key-56118960baa282c1915749723ecb4110] In subsection (11), “appropriate Appeal Court” means—
+(11A)[^c-56118960baa282c1915749723ecb4110] In subsection (11), “appropriate Appeal Court” means—
 
 - (a) in the case of an appeal against an order made following summary conviction, the Sheriff Appeal Court; and
 - (b) in the case of an appeal against an order made following conviction on indictment, the High Court of Justiciary.
@@ -84,8 +84,8 @@ the convicting court may make an order (in this section and section 28H referred
 
 ## Annotations
 
-[^key-38ecb1de89e57bd6d620fecc0fe10591]: Textual amendment: Ss. 28C-28H inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 10](https://www.legislation.gov.uk/asp/2006/11/section/10), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-38ecb1de89e57bd6d620fecc0fe10591]: Textual amendment: Ss. 28C-28H inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 10](https://www.legislation.gov.uk/asp/2006/11/section/10), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-f56e6dbd36e726974243ebbed81f2f67]: Textual amendment: Words in [s. 28E(11)](https://www.legislation.gov.uk/ukpga/1981/22/section/28E/11) substituted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/1/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-f56e6dbd36e726974243ebbed81f2f67]: Textual amendment: Words in [s. 28E(11)](https://www.legislation.gov.uk/ukpga/1981/22/section/28E/11) substituted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/1/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
 
-[^key-56118960baa282c1915749723ecb4110]: Textual amendment: [S. 28E(11A)](https://www.legislation.gov.uk/ukpga/1981/22/section/28E/11A) inserted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/1/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))
+[^c-56118960baa282c1915749723ecb4110]: Textual amendment: [S. 28E(11A)](https://www.legislation.gov.uk/ukpga/1981/22/section/28E/11A) inserted (S.) (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions No. 2) Order 2015 (S.S.I. 2015/338)](https://www.legislation.gov.uk/ssi/2015/338), [art. 1](https://www.legislation.gov.uk/ssi/2015/338/article/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/ssi/2015/338/schedule/2/paragraph/1/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/338/article/4))

@@ -39,7 +39,7 @@ An Act to require local 1999 c. 29authorities to prepare reports relating to the
 
 In this Act the following terms shall have the following meanings, that is to say—
 
-- “[^key-6f9e45bcbe70822968a395156a1363d6]**constituent council**” means—
+- “[^c-6f9e45bcbe70822968a395156a1363d6]**constituent council**” means—
   - (a) in relation to a mayoral combined authority—
     - (i) a county council the whole or any part of whose area is within the area of the authority, or
     - (ii) a district council whose area is within the area of the authority;
@@ -54,13 +54,13 @@ In this Act the following terms shall have the following meanings, that is to sa
 - “[^c863761]**“local implementation plan”, in relation to a London council, means the plan prepared by the council under section 145 of the Greater London Authority Act 1999;**”;
 - “**local road traffic**” means traffic consisting of mechanically propelled vehicles on roads for which the Secretary of State is not the traffic authority;
 - “**“London council” means a London borough council or the Common Council of the City of London;**”;
-- “[^key-724783237cda714c5a9fada7a57ba598]**mayoral CCA**” has the same meaning as in Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023 — see section 57 of that Act);
+- “[^c-724783237cda714c5a9fada7a57ba598]**mayoral CCA**” has the same meaning as in Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023 — see section 57 of that Act);
 - “**mayoral combined authority**” has the same meaning as in Part 6 of the Local Democracy, Economic Development and Construction Act 2009 — see section 120 of that Act;
 - “**“the Mayor of London’s transport strategy” means the transport strategy prepared and published under section 142 of the Greater London Authority Act 1999;**”.
 - “**principal council**” means any council which is a local traffic authority;
 - “**traffic authority**” and “**local traffic authority**” have the meaning given by section 121A of the [^c863764]Road Traffic Regulation Act 1984.
 
-## 2. Duty of principal councils to make reports.[^c863766][^key-469da72ef149b827140f94ed86b21ed6][^key-581572459b659ec1971804954f80543d]
+## 2. Duty of principal councils to make reports.[^c863766][^c-469da72ef149b827140f94ed86b21ed6][^c-581572459b659ec1971804954f80543d]
 
 (1) It shall be the duty of every principal council to prepare, at such time or times as the Secretary of State may direct, a report containing—
 
@@ -82,7 +82,7 @@ In this Act the following terms shall have the following meanings, that is to sa
 - (a) may specify different targets for different parts of the principal council’s area or for different classes of local road traffic, and
 - (b) may specify targets under subsection (2)(a) in relation to certain classes of local road traffic, or in relation to part of the area and under subsection (2)(b) in relation to other classes of local road traffic or in relation to another part of the area.
 
-(4ZA)[^key-ccb3c6f486bd95cc6ed0741948c20631] If a principal council is a constituent council of a mayoral combined authority or mayoral CCA, the duty imposed on the council by subsection (1) does not apply to the levels of local road traffic using key route network roads in the council’s area.
+(4ZA)[^c-ccb3c6f486bd95cc6ed0741948c20631] If a principal council is a constituent council of a mayoral combined authority or mayoral CCA, the duty imposed on the council by subsection (1) does not apply to the levels of local road traffic using key route network roads in the council’s area.
 
 (4A)[^c863768] A report under this section prepared by a London council must take account of the Mayor of London’s transport strategy and the council’s local implementation plan; and—
 
@@ -119,7 +119,7 @@ and a principal council shall have regard to any guidance when preparing a repor
 
 (8) The Secretary of State shall lay a copy of every report received by him under subsection (7)(a) before each House of Parliament.
 
-## 2A. Duty of mayoral combined authorities and CCAs to make reports[^key-619ba86bf689c1c3d0cd26eb9f01b1c2]
+## 2A. Duty of mayoral combined authorities and CCAs to make reports[^c-619ba86bf689c1c3d0cd26eb9f01b1c2]
 
 (1) It is the duty of every mayoral combined authority and every mayoral CCA to prepare, at such time or times as the Secretary of State may direct, a report containing—
 
@@ -189,23 +189,23 @@ There shall be paid out of monies provided by Parliament—
 
 [^c863760]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) wholly in force at 21.4.2000; [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) not in force at Royal Assent see [s. 4(3)](https://www.legislation.gov.uk/ukpga/1997/54/section/4/3); [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) in force at 10.3.2000 as regards to England and Wales by [S.I. 2000/735](https://www.legislation.gov.uk/uksi/2000/735), [art. 2](https://www.legislation.gov.uk/uksi/2000/735/article/2); [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) in force at 21.4.2000 as regards to Scotland by [S.S.I. 2000/101](https://www.legislation.gov.uk/ssi/2000/101), [art. 2](https://www.legislation.gov.uk/ssi/2000/101/article/2)
 
-[^key-6f9e45bcbe70822968a395156a1363d6]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/10/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6f9e45bcbe70822968a395156a1363d6]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/10/a) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c863761]: Textual amendment: Definitions in s. 1 inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 280(1)](https://www.legislation.gov.uk/ukpga/1999/29/section/280/1) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-724783237cda714c5a9fada7a57ba598]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/10/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-724783237cda714c5a9fada7a57ba598]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1997/54/section/1) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/10/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c863764]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
 [^c863766]: Commencement: S. 2 wholly in force at 21.4.2000; s. 2 not in force at Royal Assent see s. 4(3); s. 2 in force at 10.3.2000 as regards to England and Wales by [S.I. 2000/735](https://www.legislation.gov.uk/uksi/2000/735), [art. 2](https://www.legislation.gov.uk/uksi/2000/735/article/2); s. 2 in force at 21.4.2000 as regards to Scotland by [S.S.I. 2000/101](https://www.legislation.gov.uk/ssi/2000/101), [art. 2](https://www.legislation.gov.uk/ssi/2000/101/article/2)
 
-[^key-469da72ef149b827140f94ed86b21ed6]: Modification: S. 2: transfer of functions (1.4.2014) by [The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014 (S.I. 2014/865)](https://www.legislation.gov.uk/uksi/2014/865), [arts. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1), [11(1)](https://www.legislation.gov.uk/uksi/2014/865/article/11/1) (with [arts. 8(4)](https://www.legislation.gov.uk/uksi/2014/865/article/8/4), [11(7)](https://www.legislation.gov.uk/uksi/2014/865/article/11/7), [12](https://www.legislation.gov.uk/uksi/2014/865/article/12))
+[^c-469da72ef149b827140f94ed86b21ed6]: Modification: S. 2: transfer of functions (1.4.2014) by [The Halton, Knowsley, Liverpool, St Helens, Sefton and Wirral Combined Authority Order 2014 (S.I. 2014/865)](https://www.legislation.gov.uk/uksi/2014/865), [arts. 1](https://www.legislation.gov.uk/uksi/2014/865/article/1), [11(1)](https://www.legislation.gov.uk/uksi/2014/865/article/11/1) (with [arts. 8(4)](https://www.legislation.gov.uk/uksi/2014/865/article/8/4), [11(7)](https://www.legislation.gov.uk/uksi/2014/865/article/11/7), [12](https://www.legislation.gov.uk/uksi/2014/865/article/12))
 
-[^key-581572459b659ec1971804954f80543d]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1997/54/section/2) functions made exercisable (E.W.) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [7](https://www.legislation.gov.uk/uksi/2017/510/article/7)
+[^c-581572459b659ec1971804954f80543d]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1997/54/section/2) functions made exercisable (E.W.) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [7](https://www.legislation.gov.uk/uksi/2017/510/article/7)
 
 [^c863767]: Textual amendment: Words in s. 2(3)(b) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 280(3)](https://www.legislation.gov.uk/ukpga/1999/29/section/280/3) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-ccb3c6f486bd95cc6ed0741948c20631]: Textual amendment: [S. 2(4ZA)](https://www.legislation.gov.uk/ukpga/1997/54/section/2/4ZA) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/11) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-ccb3c6f486bd95cc6ed0741948c20631]: Textual amendment: [S. 2(4ZA)](https://www.legislation.gov.uk/ukpga/1997/54/section/2/4ZA) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/11) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c863768]: Textual amendment: S. 2(4A) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 280(4)](https://www.legislation.gov.uk/ukpga/1999/29/section/280/4) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
@@ -213,7 +213,7 @@ There shall be paid out of monies provided by Parliament—
 
 [^c863770]: Textual amendment: Words in s. 2(7)(a) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 280(6)](https://www.legislation.gov.uk/ukpga/1999/29/section/280/6) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-619ba86bf689c1c3d0cd26eb9f01b1c2]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1997/54/section/2A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/9) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-619ba86bf689c1c3d0cd26eb9f01b1c2]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1997/54/section/2A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/11/paragraph/9) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
 [^c863771]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/1997/54/section/3) wholly in force at 21.4.2000; [s. 3](https://www.legislation.gov.uk/ukpga/1997/54/section/3) not in force at Royal Assent see [s. 4(3)](https://www.legislation.gov.uk/ukpga/1997/54/section/4/3); [s. 3](https://www.legislation.gov.uk/ukpga/1997/54/section/3) in force at 10.3.2000 as regards to England and Wales by [S.I. 2000/735](https://www.legislation.gov.uk/uksi/2000/735), [art. 2](https://www.legislation.gov.uk/uksi/2000/735/article/2); [s. 3](https://www.legislation.gov.uk/ukpga/1997/54/section/3) in force at 21.4.2000 as regards to Scotland by [S.S.I. 2000/101](https://www.legislation.gov.uk/ssi/2000/101), [art. 2](https://www.legislation.gov.uk/ssi/2000/101/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Repayment of contributions[^key-1b2fce1886e0b7eb3570e9a63be178df]
+## 96. Repayment of contributions[^c-1b2fce1886e0b7eb3570e9a63be178df]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2fce1886e0b7eb3570e9a63be178df]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/2014/2336/regulation/96) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-1b2fce1886e0b7eb3570e9a63be178df]: Commencement: [Reg. 96](https://www.legislation.gov.uk/uksi/2014/2336/regulation/96) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

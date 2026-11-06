@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10A. Protection of wild hares etc.[^key-1cd147c44c5ce66fc224a08af194a631]
+## 10A. Protection of wild hares etc.[^c-1cd147c44c5ce66fc224a08af194a631]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In this section, “**close season**” means—
 
-- (a)[^key-fb3d7179510d173b20501f3d8bdaf2c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fb3d7179510d173b20501f3d8bdaf2c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the case of a brown hare, the period in any year beginning with 1st February and ending with 30th September.
 
 (3) The Scottish Ministers may by order vary the close season for any wild animal included in Schedule 5A which is specified in the order.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1cd147c44c5ce66fc224a08af194a631]: Textual amendment: Ss. 10A, 10B inserted (S.) (29.6.2011 for specified purposes, 1.1.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
+[^c-1cd147c44c5ce66fc224a08af194a631]: Textual amendment: Ss. 10A, 10B inserted (S.) (29.6.2011 for specified purposes, 1.1.2012 in so far as not already in force) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 6(2)](https://www.legislation.gov.uk/asp/2011/6/section/6/2), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/279](https://www.legislation.gov.uk/ssi/2011/279), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2011/279/article/2/1/d); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/b)
 
-[^key-fb3d7179510d173b20501f3d8bdaf2c8]: Textual amendment: [S. 10A(2)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/10A/2/a) repealed (1.3.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 18(2)](https://www.legislation.gov.uk/asp/2020/14/section/18/2), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)
+[^c-fb3d7179510d173b20501f3d8bdaf2c8]: Textual amendment: [S. 10A(2)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/10A/2/a) repealed (1.3.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 18(2)](https://www.legislation.gov.uk/asp/2020/14/section/18/2), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/42](https://www.legislation.gov.uk/ssi/2021/42), [reg. 2](https://www.legislation.gov.uk/ssi/2021/42/regulation/2)

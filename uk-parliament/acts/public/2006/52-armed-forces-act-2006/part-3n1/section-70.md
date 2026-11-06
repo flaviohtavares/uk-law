@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Search by service policeman upon arrest[^key-e5cc2cd3f64a7d74227109b294ef0c1a][^key-2540bf11c481d5f103754010178f24ec][^key-975e80c5dfb271e86ae6a2da7ac281b8]
+## 70. Search by service policeman upon arrest[^c-e5cc2cd3f64a7d74227109b294ef0c1a][^c-2540bf11c481d5f103754010178f24ec][^c-975e80c5dfb271e86ae6a2da7ac281b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e5cc2cd3f64a7d74227109b294ef0c1a]: Commencement: S. 70 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e5cc2cd3f64a7d74227109b294ef0c1a]: Commencement: S. 70 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-2540bf11c481d5f103754010178f24ec]: Commencement: S. 70 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-2540bf11c481d5f103754010178f24ec]: Commencement: S. 70 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-975e80c5dfb271e86ae6a2da7ac281b8]: Modification: S. 70 applied (1.8.2013) by [The Armed Forces (Retrial for Serious Offences) Order 2013 (S.I. 2013/1852)](https://www.legislation.gov.uk/uksi/2013/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2013/1852/article/6/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/1852/article/3))
+[^c-975e80c5dfb271e86ae6a2da7ac281b8]: Modification: S. 70 applied (1.8.2013) by [The Armed Forces (Retrial for Serious Offences) Order 2013 (S.I. 2013/1852)](https://www.legislation.gov.uk/uksi/2013/1852), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2013/1852/article/6/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/1852/article/3))

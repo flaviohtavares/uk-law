@@ -24,9 +24,9 @@ Regulation 2
 
 ### PART 1 — Amendments of Communications Act 2003 coming into force on 21st December 2020
 
-**1.**[^key-40599a01a57ced452cffd5c62581f8d0] The Communications Act 2003 is amended as follows.
+**1.**[^c-40599a01a57ced452cffd5c62581f8d0] The Communications Act 2003 is amended as follows.
 
-**2.**[^key-0e9b265739174b1fb1afc7bae15da977] (1) Section 3 (general duties of OFCOM) is amended as follows.
+**2.**[^c-0e9b265739174b1fb1afc7bae15da977] (1) Section 3 (general duties of OFCOM) is amended as follows.
 
 (2) In subsection (4) [^c24362431], before paragraph (f) insert—
 
@@ -40,7 +40,7 @@ Regulation 2
 
 .
 
-**3.**[^key-4375e9c4ce1d41ff46b6073c1020dd34] (1) Section 4 (duties for the purpose of fulfilling EU obligations) [^c24362441] is amended as follows.
+**3.**[^c-4375e9c4ce1d41ff46b6073c1020dd34] (1) Section 4 (duties for the purpose of fulfilling EU obligations) [^c24362441] is amended as follows.
 
 (2) In subsection (2)—
 
@@ -93,11 +93,11 @@ Regulation 2
 
 .
 
-**4.**[^key-ca38932c33aa8ea6eff1b693ea5b08cb] In section 4A (duty to take account of European Commission recommendations for harmonisation) [^c24362451], in subsection (2), at the end insert “ or Article 38(1) of the EECC Directive ”.
+**4.**[^c-ca38932c33aa8ea6eff1b693ea5b08cb] In section 4A (duty to take account of European Commission recommendations for harmonisation) [^c24362451], in subsection (2), at the end insert “ or Article 38(1) of the EECC Directive ”.
 
-**5.**[^key-41ee4cbcd4e8490ac6505e038d4fb9e1] In section 5 (directions in respect of networks and spectrum functions) [^c24362461], in subsection (3A), for “requires” substitute “ would have required ”.
+**5.**[^c-41ee4cbcd4e8490ac6505e038d4fb9e1] In section 5 (directions in respect of networks and spectrum functions) [^c24362461], in subsection (3A), for “requires” substitute “ would have required ”.
 
-**6.**[^key-86c3ea8665ff9bfd4a6d968c2bda6d9c] In section 32 (meaning of electronic communications networks and services), for subsection (2) substitute—
+**6.**[^c-86c3ea8665ff9bfd4a6d968c2bda6d9c] In section 32 (meaning of electronic communications networks and services), for subsection (2) substitute—
 
 > (2) In this Act “**electronic communications service**” means a service of any of the types specified in subsection (2A) provided by means of an electronic communications network, except so far as it is a content service.
 >
@@ -111,7 +111,7 @@ Regulation 2
 
 .
 
-**7.**[^key-1bf692ee657bf1c78da9b30a213c8b82] After section 32 insert—
+**7.**[^c-1bf692ee657bf1c78da9b30a213c8b82] After section 32 insert—
 
 > **32A. Meaning of number-based interpersonal communications service**
 >
@@ -124,7 +124,7 @@ Regulation 2
 
 .
 
-**8.**[^key-f84c4dfd15270efceeb19d3e9168e634] In section 33 (advance notification to OFCOM) [^c24362471], in subsection (5)—
+**8.**[^c-f84c4dfd15270efceeb19d3e9168e634] In section 33 (advance notification to OFCOM) [^c24362471], in subsection (5)—
 
 - (a) in paragraph (a), after “notification” insert “ , including a short description of the network, service or facility ”;
 - (b) in paragraph (c), after “notification” insert “ , including the person's legal status and, in the case of a body corporate, details of its incorporation ”;
@@ -137,7 +137,7 @@ Regulation 2
 - (d) omit paragraph (e);
 - (e) in paragraph (f), for “to (e)” substitute “ and (d) ”.
 
-**9.**[^key-b412cd9605dba99ca865c4f91ecc50ee] In section 38 (fixing of charges) [^c24362481], in subsection (6), after paragraph (e) insert—
+**9.**[^c-b412cd9605dba99ca865c4f91ecc50ee] In section 38 (fixing of charges) [^c24362481], in subsection (6), after paragraph (e) insert—
 
 > - (ea) their functions under sections 93A to 93D;
 > - (eb) the monitoring of compliance with commitments that are made binding by a commitments decision;
@@ -145,7 +145,7 @@ Regulation 2
 
 .
 
-**10.**[^key-4b7759b5a914d3781bf28c95a383e025] (1) Section 45 (power of OFCOM to set conditions) is amended as follows.
+**10.**[^c-4b7759b5a914d3781bf28c95a383e025] (1) Section 45 (power of OFCOM to set conditions) is amended as follows.
 
 (2) In subsection (2)(b), after sub-paragraph (i) insert—
 
@@ -159,7 +159,7 @@ Regulation 2
 
 .
 
-**11.**[^key-df02dc609e03d4f06f66fc2d5f2d315b] (1) Section 46 (persons to whom conditions may apply) is amended as follows.
+**11.**[^c-df02dc609e03d4f06f66fc2d5f2d315b] (1) Section 46 (persons to whom conditions may apply) is amended as follows.
 
 (2) After subsection (5) insert—
 
@@ -186,13 +186,13 @@ Regulation 2
 
 .
 
-**12.**[^key-223752429ac617c57306e982fe82fa96] In section 47 (test for setting or modifying conditions), at the end insert—
+**12.**[^c-223752429ac617c57306e982fe82fa96] In section 47 (test for setting or modifying conditions), at the end insert—
 
 > (4) This section does not apply in relation to the setting or modification of a social tariff condition in accordance with a direction under section 72D(7).
 
 .
 
-**13.**[^key-ccf2a40b0aa11851a44bfc46187fc3bd] (1) Section 48A (domestic consultation for section 45 conditions) [^c24362491] is amended as follows.
+**13.**[^c-ccf2a40b0aa11851a44bfc46187fc3bd] (1) Section 48A (domestic consultation for section 45 conditions) [^c24362491] is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -202,17 +202,17 @@ Regulation 2
 
 (3) In subsection (4), for “one month” substitute “ 30 days ”.
 
-**14.**[^key-43016830b09ddef91dfadbcad6daaed9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-43016830b09ddef91dfadbcad6daaed9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7f581d11b09767b20e5006d1d8323081] In section 49 (directions and approvals for the purposes of a section 45 condition) [^c24362521], in subsection (3), for “six” substitute “ seven ”.
+**15.**[^c-7f581d11b09767b20e5006d1d8323081] In section 49 (directions and approvals for the purposes of a section 45 condition) [^c24362521], in subsection (3), for “six” substitute “ seven ”.
 
-**16.**[^key-c345a87ac07d8015097c921ec014e327] In section 49A (domestic consultation for directions, approvals and consents) [^c24362531], in subsection (4), for “one month” substitute “ 30 days ”.
+**16.**[^c-c345a87ac07d8015097c921ec014e327] In section 49A (domestic consultation for directions, approvals and consents) [^c24362531], in subsection (4), for “one month” substitute “ 30 days ”.
 
-**17.**[^key-ba58f7b50a414b586b719c70cb2dc953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ba58f7b50a414b586b719c70cb2dc953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-7b0ee01c1e403defbbbd127a452147c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-7b0ee01c1e403defbbbd127a452147c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-6f1bfa8c96d89a2fed9403d24504a382] (1) Section 51 (matters to which general conditions may relate) [^c24362561] is amended as follows.
+**19.**[^c-6f1bfa8c96d89a2fed9403d24504a382] (1) Section 51 (matters to which general conditions may relate) [^c24362561] is amended as follows.
 
 (2) In subsection (1)(d), after “section 71” insert “ or 72H ”.
 
@@ -257,11 +257,11 @@ Regulation 2
 
 .
 
-**20.**[^key-5538563152dcd88635ed62e31d750a7e] In section 60 (modification of documents referred to in numbering conditions), in subsection (4), for “one month” substitute “ 30 days ”.
+**20.**[^c-5538563152dcd88635ed62e31d750a7e] In section 60 (modification of documents referred to in numbering conditions), in subsection (4), for “one month” substitute “ 30 days ”.
 
-**21.**[^key-5ffbafe7a2df660e03948ad81a6ac279] In section 61 (withdrawal of telephone number allocations), in subsection (6)(b), for “one month” substitute “ 30 days ”.
+**21.**[^c-5ffbafe7a2df660e03948ad81a6ac279] In section 61 (withdrawal of telephone number allocations), in subsection (6)(b), for “one month” substitute “ 30 days ”.
 
-**22.**[^key-02ddf740675f7b2155f7d4da4a4fa564] (1) Section 65 (obligations to be secured by universal service conditions) [^c24362571] is amended as follows.
+**22.**[^c-02ddf740675f7b2155f7d4da4a4fa564] (1) Section 65 (obligations to be secured by universal service conditions) [^c24362571] is amended as follows.
 
 (2) In subsection (2)—
 
@@ -308,26 +308,26 @@ Regulation 2
 
 .
 
-**23.**[^key-34c69df6b0ecade3413bebd43d69f327] In section 67 (subject-matter of universal service conditions), in subsection (3) [^c24362581]—
+**23.**[^c-34c69df6b0ecade3413bebd43d69f327] In section 67 (subject-matter of universal service conditions), in subsection (3) [^c24362581]—
 
 - (a) after paragraph (a), insert “ and ”;
 - (b) omit paragraph (c) and the “and” preceding it.
 
-**24.**[^key-33bf8ab29b6e2ee6fb2e75c77b81e154] In section 68 (tariffs etc. for universal services), after subsection (2) insert—
+**24.**[^c-33bf8ab29b6e2ee6fb2e75c77b81e154] In section 68 (tariffs etc. for universal services), after subsection (2) insert—
 
 > (2A) The special tariffs that may be required by virtue of subsection (2)(b) do not include social tariffs as defined by section 72F(2).
 
 .
 
-**25.**[^key-14a44c4b68f7acc0d654cfeab5a5c6e2] For the heading to section 70 substitute “ Review of compliance costs: universal service conditions ”.
+**25.**[^c-14a44c4b68f7acc0d654cfeab5a5c6e2] For the heading to section 70 substitute “ Review of compliance costs: universal service conditions ”.
 
-**26.**[^key-d77524bcfccb2ac6461da3748e97e34b] For the heading to section 72 substitute “ Report on sharing mechanism: universal service obligations ”.
+**26.**[^c-d77524bcfccb2ac6461da3748e97e34b] For the heading to section 72 substitute “ Report on sharing mechanism: universal service obligations ”.
 
-**27.**[^key-ed072685eceda52e585e30cdd4a79a54] In section 72A (review of universal service order) [^c24362591], in subsection (1), omit the words from “in relation to” to the end.
+**27.**[^c-ed072685eceda52e585e30cdd4a79a54] In section 72A (review of universal service order) [^c24362591], in subsection (1), omit the words from “in relation to” to the end.
 
-**28.**[^key-3942a8ce709d9bd46f1ecf0dec8664b2] In section 72B (broadband download speeds: duty to give direction under section 72A) [^c24362601], in subsection (1)(a), after “services” insert “ at a fixed location ”.
+**28.**[^c-3942a8ce709d9bd46f1ecf0dec8664b2] In section 72B (broadband download speeds: duty to give direction under section 72A) [^c24362601], in subsection (1)(a), after “services” insert “ at a fixed location ”.
 
-**29.**[^key-b0bfea549d4cf97108e76b06d89fe272] After section 72B insert—
+**29.**[^c-b0bfea549d4cf97108e76b06d89fe272] After section 72B insert—
 
 > **Further duty to review tariffs**
 >
@@ -512,7 +512,7 @@ Regulation 2
 
 .
 
-**30.**[^key-9939d354eaa234508bfc6961529f16c3] (1) Section 73 (permitted subject-matter of access-related conditions) [^c24362611] is amended as follows.
+**30.**[^c-9939d354eaa234508bfc6961529f16c3] (1) Section 73 (permitted subject-matter of access-related conditions) [^c24362611] is amended as follows.
 
 (2) In subsection (2), after paragraph (b) insert—
 
@@ -526,7 +526,7 @@ Regulation 2
 
 .
 
-**31.**[^key-8305ce98f6bd7bd1dfa03ba02f2f6487] (1) Section 74 (specific types of access-related conditions) is amended as follows.
+**31.**[^c-8305ce98f6bd7bd1dfa03ba02f2f6487] (1) Section 74 (specific types of access-related conditions) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -563,7 +563,7 @@ Regulation 2
 
 .
 
-**32.**[^key-2c7db1b8c489ac452efeee045db59e06] After section 74 insert—
+**32.**[^c-2c7db1b8c489ac452efeee045db59e06] After section 74 insert—
 
 > **74A. Access-related conditions in certain cases involving use of radio spectrum**
 >
@@ -614,7 +614,7 @@ Regulation 2
 
 .
 
-**33.**[^key-6d883bf192beb5bfe47ecd16cdcc633a] (1) Section 75 (conditional access systems and access to digital services) [^c24362621] is amended as follows.
+**33.**[^c-6d883bf192beb5bfe47ecd16cdcc633a] (1) Section 75 (conditional access systems and access to digital services) [^c24362621] is amended as follows.
 
 (2) In subsection (2)(b), for “Annex I to the Access Directive” substitute “ Annex 2 to the EECC Directive ”.
 
@@ -624,13 +624,13 @@ Regulation 2
 
 .
 
-**34.**[^key-79afa711d510ddfab87d09d462b36a19] (1) Section 78 (circumstances required for the setting of SMP conditions) [^c24362631] is amended as follows.
+**34.**[^c-79afa711d510ddfab87d09d462b36a19] (1) Section 78 (circumstances required for the setting of SMP conditions) [^c24362631] is amended as follows.
 
-(2)[^key-289d7278c65d05ebe515162e2e965cf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-289d7278c65d05ebe515162e2e965cf3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit subsection (5).
 
-**35.**[^key-3b0188a4536eda1abb27014e5324af69] In section 79 (market power determinations) [^c24362641], after subsection (2) insert—
+**35.**[^c-3b0188a4536eda1abb27014e5324af69] In section 79 (market power determinations) [^c24362641], after subsection (2) insert—
 
 > (2A) In determining whether to identify a market for the purpose of considering whether to make a market power determination, OFCOM must consider whether the criteria in subsection (2B) are met; and OFCOM may not identify that market for that purpose unless they consider that the criteria are met.
 >
@@ -644,17 +644,17 @@ Regulation 2
 
 .
 
-**36.**[^key-adc31ea38b3db5dfcfd5b3f6ee9b34c7] In section 80A (domestic consultation for market identifications and market power determinations) [^c24362651], in subsection (6), for “one month” substitute “ 30 days ”.
+**36.**[^c-adc31ea38b3db5dfcfd5b3f6ee9b34c7] In section 80A (domestic consultation for market identifications and market power determinations) [^c24362651], in subsection (6), for “one month” substitute “ 30 days ”.
 
-**37.**[^key-120f750e70cfaf9f0483aad0c2bb3d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-120f750e70cfaf9f0483aad0c2bb3d33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-f6782b28895be03841edefcf68045c6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-f6782b28895be03841edefcf68045c6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-3c6efc9271492c2421ea54eff0f8daaa] In section 84 (review of services market identifications and determinations) [^c24362681], in subsection (2), for “may (and, when required to do so by section 84A, must)” substitute “ must, when required to do so by section 84A and at such other times as they may consider appropriate, ”.
+**39.**[^c-3c6efc9271492c2421ea54eff0f8daaa] In section 84 (review of services market identifications and determinations) [^c24362681], in subsection (2), for “may (and, when required to do so by section 84A, must)” substitute “ must, when required to do so by section 84A and at such other times as they may consider appropriate, ”.
 
-**40.**[^key-fcd883184352eebf5aa1222f84b55ab0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-fcd883184352eebf5aa1222f84b55ab0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-2575f8c6fc0007ef4474bdfbd48087cb] (1) Section 87 (conditions about network access etc.) [^c24362701] is amended as follows.
+**41.**[^c-2575f8c6fc0007ef4474bdfbd48087cb] (1) Section 87 (conditions about network access etc.) [^c24362701] is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -672,7 +672,7 @@ Regulation 2
   .
 - (b) in paragraph (d), after “term” insert “ and to support innovative business models that support sustainable competition ”.
 
-**42.**[^key-3077dcc192cf03d76b42ec29e656423b] (1) Section 88 (conditions about network access pricing etc.) is amended as follows.
+**42.**[^c-3077dcc192cf03d76b42ec29e656423b] (1) Section 88 (conditions about network access pricing etc.) is amended as follows.
 
 (2) In subsection (1)(b)—
 
@@ -704,7 +704,7 @@ Regulation 2
 
 .
 
-**43.**[^key-3762ebc490d7c2101ea28794e5e6d07a] After section 91 insert—
+**43.**[^c-3762ebc490d7c2101ea28794e5e6d07a] After section 91 insert—
 
 > **SMP services conditions: wholesale-only undertakings**
 >
@@ -746,7 +746,7 @@ Regulation 2
 
 .
 
-**44.**[^key-02aebab3f876c6a858c0527b590dffba] After section 93 insert—
+**44.**[^c-02aebab3f876c6a858c0527b590dffba] After section 93 insert—
 
 > **Commitments by network provider**
 >
@@ -860,37 +860,37 @@ Regulation 2
 
 .
 
-**45.**[^key-e37e03d65c0565300dffee467390c4bd] In section 96A (notification of contravention of condition other than SMP apparatus condition) [^c24362711], after subsection (7) insert—
+**45.**[^c-e37e03d65c0565300dffee467390c4bd] In section 96A (notification of contravention of condition other than SMP apparatus condition) [^c24362711], after subsection (7) insert—
 
 > (8) This section applies in relation to a commitment that is made binding by a commitments decision as it applies in relation to a condition (other than an SMP apparatus condition) set under section 45.
 
 .
 
-**46.**[^key-e8a66204ca767e9e72a967047125a4fb] (1) Section 96C (enforcement of notification under section 96A) [^c24362721] is amended as follows.
+**46.**[^c-e8a66204ca767e9e72a967047125a4fb] (1) Section 96C (enforcement of notification under section 96A) [^c24362721] is amended as follows.
 
 (2) In subsection (3), after “condition” insert “ or commitment ”.
 
 (3) In subsection (4)(d)(ii), for “condition or” substitute “ condition or commitment or to ”.
 
-**47.**[^key-9d6e5fcf36a133a2a4540304c32d2f9a] In section 97 (amount of penalty under section 96 or 96A) [^c24362731], in subsection (5), in the definition of “relevant period”, after “section 45” insert “ or of a commitment that is made binding by a commitments decision ”.
+**47.**[^c-9d6e5fcf36a133a2a4540304c32d2f9a] In section 97 (amount of penalty under section 96 or 96A) [^c24362731], in subsection (5), in the definition of “relevant period”, after “section 45” insert “ or of a commitment that is made binding by a commitments decision ”.
 
-**48.**[^key-ccb50f71d4378fdb98028672205065de] In section 98 (power to deal with urgent cases) [^c24362741], in subsection (1)(a), after “section 45” insert “ or of a commitment that is made binding by a commitments decision ”.
+**48.**[^c-ccb50f71d4378fdb98028672205065de] In section 98 (power to deal with urgent cases) [^c24362741], in subsection (1)(a), after “section 45” insert “ or of a commitment that is made binding by a commitments decision ”.
 
-**49.**[^key-60963c50c2ba5e09bdbfcf831a2e34af] In section 100 (suspending service provision for contraventions of conditions) [^c24362751], after subsection (7) insert—
+**49.**[^c-60963c50c2ba5e09bdbfcf831a2e34af] In section 100 (suspending service provision for contraventions of conditions) [^c24362751], after subsection (7) insert—
 
 > (8) This section applies in relation to a commitment that is made binding by a commitments decision as it applies in relation to a condition set under section 45, other than an SMP apparatus condition.
 
 .
 
-**50.**[^key-d0183f73f6111c1eb41a3f65195a2080] (1) Section 100A (suspending service provision for breach of SMP services condition) [^c24362761] is amended as follows.
+**50.**[^c-d0183f73f6111c1eb41a3f65195a2080] (1) Section 100A (suspending service provision for breach of SMP services condition) [^c24362761] is amended as follows.
 
 (2) In subsection (1)(a), after “91” insert “ or of commitments that are made binding by a commitments decision ”.
 
 (3) In subsection (3)(a), after “condition” insert “ or commitment ”.
 
-**51.**[^key-1f10260bbcd9240e97bd51cdb48e8f20] In section 102 (procedure for directions under sections 100 and 101) [^c24362771], in subsection (2)(b), for “one month” substitute “ 30 days ”.
+**51.**[^c-1f10260bbcd9240e97bd51cdb48e8f20] In section 102 (procedure for directions under sections 100 and 101) [^c24362771], in subsection (2)(b), for “one month” substitute “ 30 days ”.
 
-**52.**[^key-6e9054b3f1f6bccb633053e20d07f237] (1) Section 104 (civil liability for breach of conditions or confirmation decision) [^c24362781] is amended as follows.
+**52.**[^c-6e9054b3f1f6bccb633053e20d07f237] (1) Section 104 (civil liability for breach of conditions or confirmation decision) [^c24362781] is amended as follows.
 
 (2) In subsection (1)—
 
@@ -905,9 +905,9 @@ Regulation 2
 
 (4) In subsection (4), after “subsection (1)(a)” insert “ or (aa) ”.
 
-**53.**[^key-dd9e0b2a88590d9c0da1b910ba2590a2] In section 107 (procedures for directions applying code) [^c24362791], in subsections (3C) and (9), for “one month” substitute “ 30 days ”.
+**53.**[^c-dd9e0b2a88590d9c0da1b910ba2590a2] In section 107 (procedures for directions applying code) [^c24362791], in subsections (3C) and (9), for “one month” substitute “ 30 days ”.
 
-**54.**[^key-e1032eaba2dc59250eb40084a2a2df06] After section 124T [^c24362801] insert—
+**54.**[^c-e1032eaba2dc59250eb40084a2a2df06] After section 124T [^c24362801] insert—
 
 > **Rights of end-users in relation to contract termination**
 >
@@ -956,13 +956,13 @@ Regulation 2
 
 .
 
-**55.**[^key-5e7a73790b2dee3801a6b7a7c57364c0] In section 134A (OFCOM reports on infrastructure etc) [^c24362811], in subsection (4), for paragraph (b) substitute—
+**55.**[^c-5e7a73790b2dee3801a6b7a7c57364c0] In section 134A (OFCOM reports on infrastructure etc) [^c24362811], in subsection (4), for paragraph (b) substitute—
 
 > - (b) each subsequent period beginning with the end of the previous period and ending at such time not more than 3 years after the end of the previous period as OFCOM may determine.
 
 .
 
-**56.**[^key-f3fe23442be0d9513ca346c34595946b] After section 134AB [^c24362821] insert—
+**56.**[^c-f3fe23442be0d9513ca346c34595946b] After section 134AB [^c24362821] insert—
 
 > **134AC. Use of reports**
 >
@@ -978,7 +978,7 @@ Regulation 2
 
 .
 
-**57.**[^key-5fecc775cebb63b15ca7557efd194d07] In section 134B (networks and services matters) [^c24362831], in subsection (1)—
+**57.**[^c-5fecc775cebb63b15ca7557efd194d07] In section 134B (networks and services matters) [^c24362831], in subsection (1)—
 
 - (a) after paragraph (f) insert—
 
@@ -995,7 +995,7 @@ Regulation 2
 
   .
 
-**58.**[^key-d9934fa582ccd4ba10834b88e9bbdff3] (1) Section 135 (information required for purposes of certain OFCOM functions) [^c24362841] is amended as follows.
+**58.**[^c-d9934fa582ccd4ba10834b88e9bbdff3] (1) Section 135 (information required for purposes of certain OFCOM functions) [^c24362841] is amended as follows.
 
 (2) In subsection (2), after paragraph (f) insert—
 
@@ -1018,15 +1018,15 @@ Regulation 2
 
 .
 
-**59.**[^key-92a1bf805ac2ca0cb094882ca993cfac] In section 144 (offences in connection with information requirements), after subsection (5) insert—
+**59.**[^c-92a1bf805ac2ca0cb094882ca993cfac] In section 144 (offences in connection with information requirements), after subsection (5) insert—
 
 > (6) Nothing in this section applies in relation to a contravention of a requirement imposed on a person by virtue of section 135(2)(g).
 
 .
 
-**60.**[^key-91675ceaf06c31a213107d366bc15dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**60.**[^c-91675ceaf06c31a213107d366bc15dbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-7b37ac233658f5621eb9b59150494c25] (1) Section 151 (interpretation of Chapter 1) is amended as follows.
+**61.**[^c-7b37ac233658f5621eb9b59150494c25] (1) Section 151 (interpretation of Chapter 1) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1068,15 +1068,15 @@ Regulation 2
 
 (4) In subsection (5), for “Framework Directive” substitute “ EECC Directive ”.
 
-**62.**[^key-134ac90fa0af6957eb4fff1ae2d4920c] (1) Section 197 (interpretation of Chapter 3) is amended as follows.
+**62.**[^c-134ac90fa0af6957eb4fff1ae2d4920c] (1) Section 197 (interpretation of Chapter 3) is amended as follows.
 
-(2)[^key-f09f6b38b0300ef3b389784d621bc327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-f09f6b38b0300ef3b389784d621bc327] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit subsection (3).
 
-**63.**[^key-0ac9521d7df8e9b405b638ea1c37df06] In section 403 (regulations and orders made by OFCOM), in subsection (6), for “one month” substitute “ 30 days ”.
+**63.**[^c-0ac9521d7df8e9b405b638ea1c37df06] In section 403 (regulations and orders made by OFCOM), in subsection (6), for “one month” substitute “ 30 days ”.
 
-**64.**[^key-43fbc52229729a88c7b84c796e932dfe] In section 405 (general interpretation), in subsection (1)—
+**64.**[^c-43fbc52229729a88c7b84c796e932dfe] In section 405 (general interpretation), in subsection (1)—
 
 - (a) after the definition of “distribute” insert—
 
@@ -1089,13 +1089,13 @@ Regulation 2
 
   .
 
-**65.**[^key-38dd583c69f984c1dffd9c43d63a13c7] In Schedule 8 (decisions not subject to appeal), in paragraph 7, after “71” insert “ or under section 71(4) to (7) as applied by section 72H(4) ”.
+**65.**[^c-38dd583c69f984c1dffd9c43d63a13c7] In Schedule 8 (decisions not subject to appeal), in paragraph 7, after “71” insert “ or under section 71(4) to (7) as applied by section 72H(4) ”.
 
 ### PART 2 — Amendments of Communications Act 2003 coming into force on IP completion day
 
-**66.**[^key-606587f586ef9ceb51c19180f0aeb80f] The Communications Act 2003 is further amended as follows.
+**66.**[^c-606587f586ef9ceb51c19180f0aeb80f] The Communications Act 2003 is further amended as follows.
 
-**67.**[^key-5ec24d47325f6aace2f1b95919791363] (1) Section 4 (duties for the purpose of fulfilling EU obligations) is amended as follows.
+**67.**[^c-5ec24d47325f6aace2f1b95919791363] (1) Section 4 (duties for the purpose of fulfilling EU obligations) is amended as follows.
 
 (2) In subsection (2), for the words from “seven” to the end substitute “ six requirements set out in the following provisions of this section ”.
 
@@ -1105,23 +1105,23 @@ Regulation 2
 
 (5) In subsection (11) [^c24362891], for “Community requirements” substitute “ six requirements in this section ”.
 
-**68.**[^key-dea269184c43c4e17556598ce85fb219] In section 4A (duty to take account of European Commission recommendations for harmonisation) [^c24362901], for subsection (2) substitute—
+**68.**[^c-dea269184c43c4e17556598ce85fb219] In section 4A (duty to take account of European Commission recommendations for harmonisation) [^c24362901], for subsection (2) substitute—
 
 > (2) In carrying out those functions, OFCOM may take account of recommendations issued by the European Commission under Article 19(1) of the Framework Directive or Article 38(1) of the EECC Directive (including recommendations issued before the coming into force of this section or after IP completion day) if the recommendations appear to OFCOM to be relevant to those functions.
 
 .
 
-**69.**[^key-12911db9a17cf9d422d299e458c57a8b] In section 49 (directions and approvals for the purposes of a section 45 condition), in subsection (3) [^c24362911], for “seven Community” substitute “ six ”.
+**69.**[^c-12911db9a17cf9d422d299e458c57a8b] In section 49 (directions and approvals for the purposes of a section 45 condition), in subsection (3) [^c24362911], for “seven Community” substitute “ six ”.
 
-**70.**[^key-fc93d8dffa0984752ef43149e942da4d] In section 51 (matters to which general conditions may relate), in subsection (2), for paragraph (b) substitute—
+**70.**[^c-fc93d8dffa0984752ef43149e942da4d] In section 51 (matters to which general conditions may relate), in subsection (2), for paragraph (b) substitute—
 
 > - (b) provide protection for such end-users that is the same as, or similar to, any protection that was, immediately before IP completion day, required by Title 3 of Part 3 of the EECC Directive (end-user rights);
 
 .
 
-**71.**[^key-28887eaac3a92ae4189ddacab3ab7bdf] In section 74A (access-related conditions in certain cases involving use of radio spectrum) [^c24362921], in subsection (5)(a), for “member States” substitute “ United Kingdom ”.
+**71.**[^c-28887eaac3a92ae4189ddacab3ab7bdf] In section 74A (access-related conditions in certain cases involving use of radio spectrum) [^c24362921], in subsection (5)(a), for “member States” substitute “ United Kingdom ”.
 
-**72.**[^key-d31cc6a3ec0167956b02fb9a5e8e3dba] (1) Section 75 (conditional access systems and access to digital services) [^c24362931] is amended as follows.
+**72.**[^c-d31cc6a3ec0167956b02fb9a5e8e3dba] (1) Section 75 (conditional access systems and access to digital services) [^c24362931] is amended as follows.
 
 (2) In subsection (2), in paragraph (b), at the end insert “ as it had effect immediately before IP completion day ”.
 
@@ -1134,7 +1134,7 @@ Regulation 2
 > - (c) the words “in accordance with Article 62” were omitted;
 > - (d) in point (a), the references to Union competition law were references to any provision relating to competition that is contained in or made under an enactment.
 
-**73.**[^key-3eb2cdb11209e5a0f3e499e674020140] (1) Section 79 (market power determinations) [^c24362941] is amended as follows.
+**73.**[^c-3eb2cdb11209e5a0f3e499e674020140] (1) Section 79 (market power determinations) [^c24362941] is amended as follows.
 
 (2) Before subsection (2A) insert—
 
@@ -1156,7 +1156,7 @@ Regulation 2
 
 .
 
-**74.**[^key-e9adc86c20c33ea257cf14e5c32fa9f1] In section 84A (timing of services market identifications and determinations) [^c24362951], for subsection (7) substitute—
+**74.**[^c-e9adc86c20c33ea257cf14e5c32fa9f1] In section 84A (timing of services market identifications and determinations) [^c24362951], for subsection (7) substitute—
 
 > (7) In subsection (3), “**the specified period**” means the period of 5 years from the publication under section 79(4) of the notification of the market power determination made on the basis of the earlier analysis, but this is subject to subsection (8).
 >
@@ -1164,27 +1164,27 @@ Regulation 2
 
 .
 
-**75.**[^key-00e986c8926e5f1e3e1b0d1954548b9d] In section 91A (SMP services conditions: wholesale-only undertakings) [^c24362961], in subsection (3), for “member States” substitute “ United Kingdom ”.
+**75.**[^c-00e986c8926e5f1e3e1b0d1954548b9d] In section 91A (SMP services conditions: wholesale-only undertakings) [^c24362961], in subsection (3), for “member States” substitute “ United Kingdom ”.
 
-**76.**[^key-0772be5c30404da524dfee3d9bbe8f84] In section 93B (notification of proposed commitments relating to very high capacity network) [^c24362971], after subsection (5) insert—
+**76.**[^c-0772be5c30404da524dfee3d9bbe8f84] In section 93B (notification of proposed commitments relating to very high capacity network) [^c24362971], after subsection (5) insert—
 
 > (6) In determining whether the requirements of subsection (3) are met, OFCOM may have regard to any guidelines that are from time to time published by BEREC under Article 76(4) of the EECC Directive (whether before or after IP completion day).
 
 .
 
-**77.**[^key-48f02c2ad76bd116738fc3a02e508d5c] In section 93C (giving effect to commitments decision), omit subsection (6).
+**77.**[^c-48f02c2ad76bd116738fc3a02e508d5c] In section 93C (giving effect to commitments decision), omit subsection (6).
 
-**78.**[^key-f90edf83be8bb1d6684278430d0b491b] In section 151 (interpretation of Chapter 1), omit subsection (5).
+**78.**[^c-f90edf83be8bb1d6684278430d0b491b] In section 151 (interpretation of Chapter 1), omit subsection (5).
 
-**79.**[^key-d3bcc6d706e11e537505c83389db7f42] In section 186 (action by OFCOM on dispute reference) [^c24362981], in subsection (3)(b), for “Community” substitute “ six ”.
+**79.**[^c-d3bcc6d706e11e537505c83389db7f42] In section 186 (action by OFCOM on dispute reference) [^c24362981], in subsection (3)(b), for “Community” substitute “ six ”.
 
 ### PART 3 — Amendments of Wireless Telegraphy Act 2006 coming into force on 21st December 2020
 
-**80.**[^key-72bd0a97ed6102b27ea9ddd198d3e8ae] The Wireless Telegraphy Act 2006 [^c24362991] is amended as follows.
+**80.**[^c-72bd0a97ed6102b27ea9ddd198d3e8ae] The Wireless Telegraphy Act 2006 [^c24362991] is amended as follows.
 
-**81.**[^key-915213a0d5544f9a4a0f7e044567d382] (1) Section 8 (licences and exemptions) [^c24363001] is amended as follows.
+**81.**[^c-915213a0d5544f9a4a0f7e044567d382] (1) Section 8 (licences and exemptions) [^c24363001] is amended as follows.
 
-(2)[^key-8a8eeae5fc50c26303eecf36a028781c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8a8eeae5fc50c26303eecf36a028781c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5), after paragraph (c) insert—
 
@@ -1192,11 +1192,11 @@ Regulation 2
 
 .
 
-**82.**[^key-6f3db61d538a9d44017eb4f1e20cc0bb] In section 8C (consultation before grant of exclusive licence) [^c24363011], in subsection (4), for “one month” substitute “ 30 days ”.
+**82.**[^c-6f3db61d538a9d44017eb4f1e20cc0bb] In section 8C (consultation before grant of exclusive licence) [^c24363011], in subsection (4), for “one month” substitute “ 30 days ”.
 
-**83.**[^key-72f2545b1b3899a68afc95000239416b] (1) Section 9 (terms, provisions and limitations) [^c24363021] is amended as follows.
+**83.**[^c-72f2545b1b3899a68afc95000239416b] (1) Section 9 (terms, provisions and limitations) [^c24363021] is amended as follows.
 
-(2)[^key-0a393ab507d30146b53a2347a3d47924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0a393ab507d30146b53a2347a3d47924] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (4), after paragraph (c) insert—
 
@@ -1210,15 +1210,15 @@ Regulation 2
 
 .
 
-**84.**[^key-e9dcbd0e5791c99dddca1d2b4864dc43] In section 14 (bidding for licences) [^c24363031], after subsection (3B) insert—
+**84.**[^c-e9dcbd0e5791c99dddca1d2b4864dc43] In section 14 (bidding for licences) [^c24363031], after subsection (3B) insert—
 
 > (3C) In exercising their power to make regulations under this section, OFCOM must consider whether, if they were to specify under subsection (3)(h) a term, provision or limitation requiring a specified level of use of any station, apparatus or frequency to which the licence relates, they would by doing so promote the optimal use of the electromagnetic spectrum.
 
 .
 
-**85.**[^key-1e39a0fcc77fcaac8b6d3785ea754344] In section 30 (spectrum trading), omit subsection (1A) [^c24363041].
+**85.**[^c-1e39a0fcc77fcaac8b6d3785ea754344] In section 30 (spectrum trading), omit subsection (1A) [^c24363041].
 
-**86.**[^key-d429f20ef14c10abd1aa71c841638995] After section 30 insert—
+**86.**[^c-d429f20ef14c10abd1aa71c841638995] After section 30 insert—
 
 > **30A. General duty of OFCOM to allow leasing or transfer**
 >
@@ -1262,7 +1262,7 @@ Regulation 2
 
 .
 
-**87.**[^key-47d790bf8ca3bb40607b39b5bed14178] In section 31 (wireless telegraphy register), in subsection (3)—
+**87.**[^c-47d790bf8ca3bb40607b39b5bed14178] In section 31 (wireless telegraphy register), in subsection (3)—
 
 - (a) omit the “or” at the end of paragraph (a);
 - (b) at the end of paragraph (b) insert—
@@ -1273,237 +1273,237 @@ Regulation 2
 
   .
 
-**88.**[^key-d844166d041bf1a0b8118f0dec83fa6c] In section 115 (general interpretation), in subsection (1), after the definition of “dynamic spectrum access service”[^c24363051] insert—
+**88.**[^c-d844166d041bf1a0b8118f0dec83fa6c] In section 115 (general interpretation), in subsection (1), after the definition of “dynamic spectrum access service”[^c24363051] insert—
 
 > “**the EECC Directive**” means Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code;
 
 .
 
-**89.**[^key-0cb4d3c2b36cbe9ea13146d5629e12d3] In section 122 (orders and regulations made by OFCOM), in subsection (6), for “one month” substitute “ 30 days ”.
+**89.**[^c-0cb4d3c2b36cbe9ea13146d5629e12d3] In section 122 (orders and regulations made by OFCOM), in subsection (6), for “one month” substitute “ 30 days ”.
 
-**90.**[^key-113ba22dc863a566f07ed712bf7a4849] In Schedule 1 (procedure for wireless telegraphy licences) [^c24363061], in paragraphs 4(b) and 7(3)(b), for “one month” substitute “ 30 days ”.
+**90.**[^c-113ba22dc863a566f07ed712bf7a4849] In Schedule 1 (procedure for wireless telegraphy licences) [^c24363061], in paragraphs 4(b) and 7(3)(b), for “one month” substitute “ 30 days ”.
 
-**91.**[^key-28a4e2baa27a0261efa89e9498d299b3] In Schedule 2 (procedure for grants of recognised spectrum access), in paragraphs 3(2) and 6(3), for “one month” substitute “ 30 days ”.
+**91.**[^c-28a4e2baa27a0261efa89e9498d299b3] In Schedule 2 (procedure for grants of recognised spectrum access), in paragraphs 3(2) and 6(3), for “one month” substitute “ 30 days ”.
 
 ### PART 4 — Amendments of Wireless Telegraphy Act 2006 coming into force on IP completion day
 
-**92.**[^key-a083f5b9048e05c8a58215f43d2a9723] The Wireless Telegraphy Act 2006 is further amended as follows.
+**92.**[^c-a083f5b9048e05c8a58215f43d2a9723] The Wireless Telegraphy Act 2006 is further amended as follows.
 
-**93.**[^key-a787b1d8a5b2c0547cf304b87e54c068] In section 14 (bidding for licences), in subsection (3A), omit “, 9(1A)”.
+**93.**[^c-a787b1d8a5b2c0547cf304b87e54c068] In section 14 (bidding for licences), in subsection (3A), omit “, 9(1A)”.
 
-**94.**[^key-fc6a9c790be6108ac13c7e8d0b394938] In section 115 (general interpretation) [^c24363071], in subsection (1), omit the definition of “the EECC Directive”.
+**94.**[^c-fc6a9c790be6108ac13c7e8d0b394938] In section 115 (general interpretation) [^c24363071], in subsection (1), omit the definition of “the EECC Directive”.
 
 ## Annotations
 
-[^key-40599a01a57ced452cffd5c62581f8d0]: Commencement: Sch. 1 para. 1 in force at 21.12.2020, see reg. 1(2)
+[^c-40599a01a57ced452cffd5c62581f8d0]: Commencement: Sch. 1 para. 1 in force at 21.12.2020, see reg. 1(2)
 
-[^key-0e9b265739174b1fb1afc7bae15da977]: Commencement: Sch. 1 para. 2 in force at 21.12.2020, see reg. 1(2)
+[^c-0e9b265739174b1fb1afc7bae15da977]: Commencement: Sch. 1 para. 2 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362431]: Marginal citation: Subsection (4)(ea) is prospectively inserted by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-4375e9c4ce1d41ff46b6073c1020dd34]: Commencement: Sch. 1 para. 3 in force at 21.12.2020, see reg. 1(2)
+[^c-4375e9c4ce1d41ff46b6073c1020dd34]: Commencement: Sch. 1 para. 3 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362441]: Marginal citation: Section 4 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) and by [S.I. 2019/919](https://www.legislation.gov.uk/uksi/2019/919).
 
-[^key-ca38932c33aa8ea6eff1b693ea5b08cb]: Commencement: Sch. 1 para. 4 in force at 21.12.2020, see reg. 1(2)
+[^c-ca38932c33aa8ea6eff1b693ea5b08cb]: Commencement: Sch. 1 para. 4 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362451]: Marginal citation: Section 4A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210); subsection (2) is prospectively amended by paragraph 4(2) of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(b) of Schedule 2 to these Regulations), and a new subsection (2) is substituted by paragraph 68 of Schedule 1 to these Regulations.
 
-[^key-41ee4cbcd4e8490ac6505e038d4fb9e1]: Commencement: Sch. 1 para. 5 in force at 21.12.2020, see reg. 1(2)
+[^c-41ee4cbcd4e8490ac6505e038d4fb9e1]: Commencement: Sch. 1 para. 5 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362461]: Marginal citation: Section 5 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by paragraph 5 of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(c) of Schedule 2 to these Regulations).
 
-[^key-86c3ea8665ff9bfd4a6d968c2bda6d9c]: Commencement: Sch. 1 para. 6 in force at 21.12.2020, see reg. 1(2)
+[^c-86c3ea8665ff9bfd4a6d968c2bda6d9c]: Commencement: Sch. 1 para. 6 in force at 21.12.2020, see reg. 1(2)
 
-[^key-1bf692ee657bf1c78da9b30a213c8b82]: Commencement: Sch. 1 para. 7 in force at 21.12.2020, see reg. 1(2)
+[^c-1bf692ee657bf1c78da9b30a213c8b82]: Commencement: Sch. 1 para. 7 in force at 21.12.2020, see reg. 1(2)
 
-[^key-f84c4dfd15270efceeb19d3e9168e634]: Commencement: Sch. 1 para. 8 in force at 21.12.2020, see reg. 1(2)
+[^c-f84c4dfd15270efceeb19d3e9168e634]: Commencement: Sch. 1 para. 8 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362471]: Marginal citation: Section 33 is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-b412cd9605dba99ca865c4f91ecc50ee]: Commencement: Sch. 1 para. 9 in force at 21.12.2020, see reg. 1(2)
+[^c-b412cd9605dba99ca865c4f91ecc50ee]: Commencement: Sch. 1 para. 9 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362481]: Marginal citation: Section 38 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and by section 101(3) of the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-4b7759b5a914d3781bf28c95a383e025]: Commencement: Sch. 1 para. 10 in force at 21.12.2020, see reg. 1(2)
+[^c-4b7759b5a914d3781bf28c95a383e025]: Commencement: Sch. 1 para. 10 in force at 21.12.2020, see reg. 1(2)
 
-[^key-df02dc609e03d4f06f66fc2d5f2d315b]: Commencement: Sch. 1 para. 11 in force at 21.12.2020, see reg. 1(2)
+[^c-df02dc609e03d4f06f66fc2d5f2d315b]: Commencement: Sch. 1 para. 11 in force at 21.12.2020, see reg. 1(2)
 
-[^key-223752429ac617c57306e982fe82fa96]: Commencement: Sch. 1 para. 12 in force at 21.12.2020, see reg. 1(2)
+[^c-223752429ac617c57306e982fe82fa96]: Commencement: Sch. 1 para. 12 in force at 21.12.2020, see reg. 1(2)
 
-[^key-ccf2a40b0aa11851a44bfc46187fc3bd]: Commencement: Sch. 1 para. 13 in force at 21.12.2020, see reg. 1(2)
+[^c-ccf2a40b0aa11851a44bfc46187fc3bd]: Commencement: Sch. 1 para. 13 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362491]: Marginal citation: Section 48A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-43016830b09ddef91dfadbcad6daaed9]: Textual amendment: Sch. 1 para. 14 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/a)
+[^c-43016830b09ddef91dfadbcad6daaed9]: Textual amendment: Sch. 1 para. 14 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/a)
 
-[^key-7f581d11b09767b20e5006d1d8323081]: Commencement: Sch. 1 para. 15 in force at 21.12.2020, see reg. 1(2)
+[^c-7f581d11b09767b20e5006d1d8323081]: Commencement: Sch. 1 para. 15 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362521]: Marginal citation: Section 49 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210); subsection (3) is prospectively amended by paragraph 13(2) of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(d) of Schedule 2 to these Regulations) and is further amended by paragraph 69 of Schedule 1 to these Regulations.
 
-[^key-c345a87ac07d8015097c921ec014e327]: Commencement: Sch. 1 para. 16 in force at 21.12.2020, see reg. 1(2)
+[^c-c345a87ac07d8015097c921ec014e327]: Commencement: Sch. 1 para. 16 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362531]: Marginal citation: Section 49A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-ba58f7b50a414b586b719c70cb2dc953]: Textual amendment: Sch. 1 para. 17 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/a)
+[^c-ba58f7b50a414b586b719c70cb2dc953]: Textual amendment: Sch. 1 para. 17 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/a)
 
-[^key-7b0ee01c1e403defbbbd127a452147c0]: Textual amendment: Sch. 1 para. 18 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/a)
+[^c-7b0ee01c1e403defbbbd127a452147c0]: Textual amendment: Sch. 1 para. 18 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/a)
 
-[^key-6f1bfa8c96d89a2fed9403d24504a382]: Commencement: Sch. 1 para. 19 in force at 21.12.2020, see reg. 1(2)
+[^c-6f1bfa8c96d89a2fed9403d24504a382]: Commencement: Sch. 1 para. 19 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362561]: Marginal citation: Section 51 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and by sections 2 and 3 of the Digital Economy Act 2017 and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-5538563152dcd88635ed62e31d750a7e]: Commencement: Sch. 1 para. 20 in force at 21.12.2020, see reg. 1(2)
+[^c-5538563152dcd88635ed62e31d750a7e]: Commencement: Sch. 1 para. 20 in force at 21.12.2020, see reg. 1(2)
 
-[^key-5ffbafe7a2df660e03948ad81a6ac279]: Commencement: Sch. 1 para. 21 in force at 21.12.2020, see reg. 1(2)
+[^c-5ffbafe7a2df660e03948ad81a6ac279]: Commencement: Sch. 1 para. 21 in force at 21.12.2020, see reg. 1(2)
 
-[^key-02ddf740675f7b2155f7d4da4a4fa564]: Commencement: Sch. 1 para. 22 in force at 21.12.2020, see reg. 1(2)
+[^c-02ddf740675f7b2155f7d4da4a4fa564]: Commencement: Sch. 1 para. 22 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362571]: Marginal citation: Section 65 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and by section 1(3) and (4) of the Digital Economy Act 2017 and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-34c69df6b0ecade3413bebd43d69f327]: Commencement: Sch. 1 para. 23 in force at 21.12.2020, see reg. 1(2)
+[^c-34c69df6b0ecade3413bebd43d69f327]: Commencement: Sch. 1 para. 23 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362581]: Marginal citation: Subsection (3) is prospectively amended by paragraph 21(2) of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(f) of Schedule 2 to these Regulations).
 
-[^key-33bf8ab29b6e2ee6fb2e75c77b81e154]: Commencement: Sch. 1 para. 24 in force at 21.12.2020, see reg. 1(2)
+[^c-33bf8ab29b6e2ee6fb2e75c77b81e154]: Commencement: Sch. 1 para. 24 in force at 21.12.2020, see reg. 1(2)
 
-[^key-14a44c4b68f7acc0d654cfeab5a5c6e2]: Commencement: Sch. 1 para. 25 in force at 21.12.2020, see reg. 1(2)
+[^c-14a44c4b68f7acc0d654cfeab5a5c6e2]: Commencement: Sch. 1 para. 25 in force at 21.12.2020, see reg. 1(2)
 
-[^key-d77524bcfccb2ac6461da3748e97e34b]: Commencement: Sch. 1 para. 26 in force at 21.12.2020, see reg. 1(2)
+[^c-d77524bcfccb2ac6461da3748e97e34b]: Commencement: Sch. 1 para. 26 in force at 21.12.2020, see reg. 1(2)
 
-[^key-ed072685eceda52e585e30cdd4a79a54]: Commencement: Sch. 1 para. 27 in force at 21.12.2020, see reg. 1(2)
+[^c-ed072685eceda52e585e30cdd4a79a54]: Commencement: Sch. 1 para. 27 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362591]: Marginal citation: Section 72A was inserted by section 1(7) of the Digital Economy Act 2017.
 
-[^key-3942a8ce709d9bd46f1ecf0dec8664b2]: Commencement: Sch. 1 para. 28 in force at 21.12.2020, see reg. 1(2)
+[^c-3942a8ce709d9bd46f1ecf0dec8664b2]: Commencement: Sch. 1 para. 28 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362601]: Marginal citation: Section 72B was inserted by section 1(7) of the Digital Economy Act 2017.
 
-[^key-b0bfea549d4cf97108e76b06d89fe272]: Commencement: Sch. 1 para. 29 in force at 21.12.2020, see reg. 1(2)
+[^c-b0bfea549d4cf97108e76b06d89fe272]: Commencement: Sch. 1 para. 29 in force at 21.12.2020, see reg. 1(2)
 
-[^key-9939d354eaa234508bfc6961529f16c3]: Commencement: Sch. 1 para. 30 in force at 21.12.2020, see reg. 1(2)
+[^c-9939d354eaa234508bfc6961529f16c3]: Commencement: Sch. 1 para. 30 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362611]: Marginal citation: Section 73 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-8305ce98f6bd7bd1dfa03ba02f2f6487]: Commencement: Sch. 1 para. 31 in force at 21.12.2020, see reg. 1(2)
+[^c-8305ce98f6bd7bd1dfa03ba02f2f6487]: Commencement: Sch. 1 para. 31 in force at 21.12.2020, see reg. 1(2)
 
-[^key-2c7db1b8c489ac452efeee045db59e06]: Commencement: Sch. 1 para. 32 in force at 21.12.2020, see reg. 1(2)
+[^c-2c7db1b8c489ac452efeee045db59e06]: Commencement: Sch. 1 para. 32 in force at 21.12.2020, see reg. 1(2)
 
-[^key-6d883bf192beb5bfe47ecd16cdcc633a]: Commencement: Sch. 1 para. 33 in force at 21.12.2020, see reg. 1(2)
+[^c-6d883bf192beb5bfe47ecd16cdcc633a]: Commencement: Sch. 1 para. 33 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362621]: Marginal citation: Section 75 was repealed in part by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by [S.I. 2019/224](https://www.legislation.gov.uk/uksi/2019/224).
 
-[^key-79afa711d510ddfab87d09d462b36a19]: Commencement: Sch. 1 para. 34 in force at 21.12.2020, see reg. 1(2)
+[^c-79afa711d510ddfab87d09d462b36a19]: Commencement: Sch. 1 para. 34 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362631]: Marginal citation: Section 78 is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-289d7278c65d05ebe515162e2e965cf3]: Textual amendment: Sch. 1 para. 34(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/b)
+[^c-289d7278c65d05ebe515162e2e965cf3]: Textual amendment: Sch. 1 para. 34(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/b)
 
-[^key-3b0188a4536eda1abb27014e5324af69]: Commencement: Sch. 1 para. 35 in force at 21.12.2020, see reg. 1(2)
+[^c-3b0188a4536eda1abb27014e5324af69]: Commencement: Sch. 1 para. 35 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362641]: Marginal citation: Section 79 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-adc31ea38b3db5dfcfd5b3f6ee9b34c7]: Commencement: Sch. 1 para. 36 in force at 21.12.2020, see reg. 1(2)
+[^c-adc31ea38b3db5dfcfd5b3f6ee9b34c7]: Commencement: Sch. 1 para. 36 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362651]: Marginal citation: Section 80A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively repealed by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-120f750e70cfaf9f0483aad0c2bb3d33]: Textual amendment: Sch. 1 para. 37 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/c)
+[^c-120f750e70cfaf9f0483aad0c2bb3d33]: Textual amendment: Sch. 1 para. 37 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/c)
 
-[^key-f6782b28895be03841edefcf68045c6e]: Textual amendment: Sch. 1 para. 38 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/c)
+[^c-f6782b28895be03841edefcf68045c6e]: Textual amendment: Sch. 1 para. 38 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/c)
 
-[^key-3c6efc9271492c2421ea54eff0f8daaa]: Commencement: Sch. 1 para. 39 in force at 21.12.2020, see reg. 1(2)
+[^c-3c6efc9271492c2421ea54eff0f8daaa]: Commencement: Sch. 1 para. 39 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362681]: Marginal citation: Section 84 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-fcd883184352eebf5aa1222f84b55ab0]: Textual amendment: Sch. 1 para. 40 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(d)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/d)
+[^c-fcd883184352eebf5aa1222f84b55ab0]: Textual amendment: Sch. 1 para. 40 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(d)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/d)
 
-[^key-2575f8c6fc0007ef4474bdfbd48087cb]: Commencement: Sch. 1 para. 41 in force at 21.12.2020, see reg. 1(2)
+[^c-2575f8c6fc0007ef4474bdfbd48087cb]: Commencement: Sch. 1 para. 41 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362701]: Marginal citation: Section 87 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-3077dcc192cf03d76b42ec29e656423b]: Commencement: Sch. 1 para. 42 in force at 21.12.2020, see reg. 1(2)
+[^c-3077dcc192cf03d76b42ec29e656423b]: Commencement: Sch. 1 para. 42 in force at 21.12.2020, see reg. 1(2)
 
-[^key-3762ebc490d7c2101ea28794e5e6d07a]: Commencement: Sch. 1 para. 43 in force at 21.12.2020, see reg. 1(2)
+[^c-3762ebc490d7c2101ea28794e5e6d07a]: Commencement: Sch. 1 para. 43 in force at 21.12.2020, see reg. 1(2)
 
-[^key-02aebab3f876c6a858c0527b590dffba]: Commencement: Sch. 1 para. 44 in force at 21.12.2020, see reg. 1(2)
+[^c-02aebab3f876c6a858c0527b590dffba]: Commencement: Sch. 1 para. 44 in force at 21.12.2020, see reg. 1(2)
 
-[^key-e37e03d65c0565300dffee467390c4bd]: Commencement: Sch. 1 para. 45 in force at 21.12.2020, see reg. 1(2)
+[^c-e37e03d65c0565300dffee467390c4bd]: Commencement: Sch. 1 para. 45 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362711]: Marginal citation: Section 96A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210); subsections (5) to (7) were substituted for subsection (5) by the [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [Schedule 14](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14), [paragraph 18](https://www.legislation.gov.uk/ukpga/2013/24/paragraph/18).
 
-[^key-e8a66204ca767e9e72a967047125a4fb]: Commencement: Sch. 1 para. 46 in force at 21.12.2020, see reg. 1(2)
+[^c-e8a66204ca767e9e72a967047125a4fb]: Commencement: Sch. 1 para. 46 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362721]: Marginal citation: Section 96C was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-9d6e5fcf36a133a2a4540304c32d2f9a]: Commencement: Sch. 1 para. 47 in force at 21.12.2020, see reg. 1(2)
+[^c-9d6e5fcf36a133a2a4540304c32d2f9a]: Commencement: Sch. 1 para. 47 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362731]: Marginal citation: Section 97 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-ccb50f71d4378fdb98028672205065de]: Commencement: Sch. 1 para. 48 in force at 21.12.2020, see reg. 1(2)
+[^c-ccb50f71d4378fdb98028672205065de]: Commencement: Sch. 1 para. 48 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362741]: Marginal citation: Section 98 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-60963c50c2ba5e09bdbfcf831a2e34af]: Commencement: Sch. 1 para. 49 in force at 21.12.2020, see reg. 1(2)
+[^c-60963c50c2ba5e09bdbfcf831a2e34af]: Commencement: Sch. 1 para. 49 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362751]: Marginal citation: Section 100 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-d0183f73f6111c1eb41a3f65195a2080]: Commencement: Sch. 1 para. 50 in force at 21.12.2020, see reg. 1(2)
+[^c-d0183f73f6111c1eb41a3f65195a2080]: Commencement: Sch. 1 para. 50 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362761]: Marginal citation: Section 100A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-1f10260bbcd9240e97bd51cdb48e8f20]: Commencement: Sch. 1 para. 51 in force at 21.12.2020, see reg. 1(2)
+[^c-1f10260bbcd9240e97bd51cdb48e8f20]: Commencement: Sch. 1 para. 51 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362771]: Marginal citation: Section 102 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-6e9054b3f1f6bccb633053e20d07f237]: Commencement: Sch. 1 para. 52 in force at 21.12.2020, see reg. 1(2)
+[^c-6e9054b3f1f6bccb633053e20d07f237]: Commencement: Sch. 1 para. 52 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362781]: Marginal citation: Section 104 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-dd9e0b2a88590d9c0da1b910ba2590a2]: Commencement: Sch. 1 para. 53 in force at 21.12.2020, see reg. 1(2)
+[^c-dd9e0b2a88590d9c0da1b910ba2590a2]: Commencement: Sch. 1 para. 53 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362791]: Marginal citation: Section 107 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-e1032eaba2dc59250eb40084a2a2df06]: Commencement: Sch. 1 para. 54 in force at 21.12.2020, see reg. 1(2)
+[^c-e1032eaba2dc59250eb40084a2a2df06]: Commencement: Sch. 1 para. 54 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362801]: Marginal citation: Section 124T was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-5e7a73790b2dee3801a6b7a7c57364c0]: Commencement: Sch. 1 para. 55 in force at 21.12.2020, see reg. 1(2)
+[^c-5e7a73790b2dee3801a6b7a7c57364c0]: Commencement: Sch. 1 para. 55 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362811]: Marginal citation: Section 134A was inserted by section 1(1) of the [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24).
 
-[^key-f3fe23442be0d9513ca346c34595946b]: Commencement: Sch. 1 para. 56 in force at 21.12.2020, see reg. 1(2)
+[^c-f3fe23442be0d9513ca346c34595946b]: Commencement: Sch. 1 para. 56 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362821]: Marginal citation: Section 134AB was inserted by section 82(2) of the Digital Economy Act 2017.
 
-[^key-5fecc775cebb63b15ca7557efd194d07]: Commencement: Sch. 1 para. 57 in force at 21.12.2020, see reg. 1(2)
+[^c-5fecc775cebb63b15ca7557efd194d07]: Commencement: Sch. 1 para. 57 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362831]: Marginal citation: Section 134B was inserted by section 1(1) of the Digital Economy Act 2010 and amended by section 82(3) of the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30).
 
-[^key-d9934fa582ccd4ba10834b88e9bbdff3]: Commencement: Sch. 1 para. 58 in force at 21.12.2020, see reg. 1(2)
+[^c-d9934fa582ccd4ba10834b88e9bbdff3]: Commencement: Sch. 1 para. 58 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362841]: Marginal citation: Section 135 was amended by sections 1(2) and 16(2) of the Digital Economy Act 2010, by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and by sections 1(8), 82(4) and 85(2) and (3) of the Digital Economy Act 2017.
 
-[^key-92a1bf805ac2ca0cb094882ca993cfac]: Commencement: Sch. 1 para. 59 in force at 21.12.2020, see reg. 1(2)
+[^c-92a1bf805ac2ca0cb094882ca993cfac]: Commencement: Sch. 1 para. 59 in force at 21.12.2020, see reg. 1(2)
 
-[^key-91675ceaf06c31a213107d366bc15dbc]: Textual amendment: Sch. 1 para. 60 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(e)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/e)
+[^c-91675ceaf06c31a213107d366bc15dbc]: Textual amendment: Sch. 1 para. 60 omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(e)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/e)
 
-[^key-7b37ac233658f5621eb9b59150494c25]: Commencement: Sch. 1 para. 61 in force at 21.12.2020, see reg. 1(2)
+[^c-7b37ac233658f5621eb9b59150494c25]: Commencement: Sch. 1 para. 61 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362861]: Marginal citation: Subsection (4B) was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-134ac90fa0af6957eb4fff1ae2d4920c]: Commencement: Sch. 1 para. 62 in force at 21.12.2020, see reg. 1(2)
+[^c-134ac90fa0af6957eb4fff1ae2d4920c]: Commencement: Sch. 1 para. 62 in force at 21.12.2020, see reg. 1(2)
 
-[^key-f09f6b38b0300ef3b389784d621bc327]: Textual amendment: Sch. 1 para. 62(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(f)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/f)
+[^c-f09f6b38b0300ef3b389784d621bc327]: Textual amendment: Sch. 1 para. 62(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(f)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/f)
 
-[^key-0ac9521d7df8e9b405b638ea1c37df06]: Commencement: Sch. 1 para. 63 in force at 21.12.2020, see reg. 1(2)
+[^c-0ac9521d7df8e9b405b638ea1c37df06]: Commencement: Sch. 1 para. 63 in force at 21.12.2020, see reg. 1(2)
 
-[^key-43fbc52229729a88c7b84c796e932dfe]: Commencement: Sch. 1 para. 64 in force at 21.12.2020, see reg. 1(2)
+[^c-43fbc52229729a88c7b84c796e932dfe]: Commencement: Sch. 1 para. 64 in force at 21.12.2020, see reg. 1(2)
 
-[^key-38dd583c69f984c1dffd9c43d63a13c7]: Commencement: Sch. 1 para. 65 in force at 21.12.2020, see reg. 1(2)
+[^c-38dd583c69f984c1dffd9c43d63a13c7]: Commencement: Sch. 1 para. 65 in force at 21.12.2020, see reg. 1(2)
 
-[^key-606587f586ef9ceb51c19180f0aeb80f]: Commencement: Sch. 1 para. 66 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-606587f586ef9ceb51c19180f0aeb80f]: Commencement: Sch. 1 para. 66 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
-[^key-5ec24d47325f6aace2f1b95919791363]: Commencement: Sch. 1 para. 67 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-5ec24d47325f6aace2f1b95919791363]: Commencement: Sch. 1 para. 67 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362871]: Marginal citation: Subsection (10) was amended by S.I 2011/1210 and is amended by paragraph 3(4) of Schedule 1 to these Regulations.
 
@@ -1511,96 +1511,96 @@ Regulation 2
 
 [^c24362891]: Marginal citation: Subsection (11) is prospectively amended by paragraph 3(10) of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(a) of Schedule 2 to these Regulations).
 
-[^key-dea269184c43c4e17556598ce85fb219]: Commencement: Sch. 1 para. 68 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-dea269184c43c4e17556598ce85fb219]: Commencement: Sch. 1 para. 68 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362901]: Marginal citation: Section 4A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210); subsection (2) is prospectively amended by paragraph 4(2) of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 3(a) of Schedule 2 to these Regulations) and is amended by paragraph 4 of Schedule 1 to these Regulations.
 
-[^key-12911db9a17cf9d422d299e458c57a8b]: Commencement: Sch. 1 para. 69 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-12911db9a17cf9d422d299e458c57a8b]: Commencement: Sch. 1 para. 69 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362911]: Marginal citation: Subsection (3) is amended by paragraph 15 of Schedule 1 to these Regulations.
 
-[^key-fc93d8dffa0984752ef43149e942da4d]: Commencement: Sch. 1 para. 70 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-fc93d8dffa0984752ef43149e942da4d]: Commencement: Sch. 1 para. 70 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
-[^key-28887eaac3a92ae4189ddacab3ab7bdf]: Commencement: Sch. 1 para. 71 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-28887eaac3a92ae4189ddacab3ab7bdf]: Commencement: Sch. 1 para. 71 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362921]: Marginal citation: Section 74A is inserted by paragraph 32 of Schedule 1 to these Regulations.
 
-[^key-d31cc6a3ec0167956b02fb9a5e8e3dba]: Commencement: Sch. 1 para. 72 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-d31cc6a3ec0167956b02fb9a5e8e3dba]: Commencement: Sch. 1 para. 72 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362931]: Marginal citation: Section 75 is amended by paragraph 33 of Schedule 1 to these Regulations.
 
-[^key-3eb2cdb11209e5a0f3e499e674020140]: Commencement: Sch. 1 para. 73 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-3eb2cdb11209e5a0f3e499e674020140]: Commencement: Sch. 1 para. 73 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362941]: Marginal citation: Section 79 is amended by paragraph 35 of Schedule 1 to these Regulations and is prospectively amended by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-e9adc86c20c33ea257cf14e5c32fa9f1]: Commencement: Sch. 1 para. 74 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-e9adc86c20c33ea257cf14e5c32fa9f1]: Commencement: Sch. 1 para. 74 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362951]: Marginal citation: Section 84A was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210), is amended by paragraph 40 of Schedule 1 to these Regulations, and is amended prospectively by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-00e986c8926e5f1e3e1b0d1954548b9d]: Commencement: Sch. 1 para. 75 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-00e986c8926e5f1e3e1b0d1954548b9d]: Commencement: Sch. 1 para. 75 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362961]: Marginal citation: Section 91A is inserted by paragraph 43 of Schedule 1 to these Regulations.
 
-[^key-0772be5c30404da524dfee3d9bbe8f84]: Commencement: Sch. 1 para. 76 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-0772be5c30404da524dfee3d9bbe8f84]: Commencement: Sch. 1 para. 76 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362971]: Marginal citation: Sections 93B and 93C are inserted by paragraph 44 of Schedule 1 to these Regulations.
 
-[^key-48f02c2ad76bd116738fc3a02e508d5c]: Commencement: Sch. 1 para. 77 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-48f02c2ad76bd116738fc3a02e508d5c]: Commencement: Sch. 1 para. 77 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
-[^key-f90edf83be8bb1d6684278430d0b491b]: Commencement: Sch. 1 para. 78 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-f90edf83be8bb1d6684278430d0b491b]: Commencement: Sch. 1 para. 78 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
-[^key-d3bcc6d706e11e537505c83389db7f42]: Commencement: Sch. 1 para. 79 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-d3bcc6d706e11e537505c83389db7f42]: Commencement: Sch. 1 para. 79 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24362981]: Marginal citation: Section 186(3)(b) is prospectively amended by paragraph 37 of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(i) of Schedule 2 to these Regulations).
 
-[^key-72bd0a97ed6102b27ea9ddd198d3e8ae]: Commencement: Sch. 1 para. 80 in force at 21.12.2020, see reg. 1(2)
+[^c-72bd0a97ed6102b27ea9ddd198d3e8ae]: Commencement: Sch. 1 para. 80 in force at 21.12.2020, see reg. 1(2)
 
 [^c24362991]: Marginal citation: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36).
 
-[^key-915213a0d5544f9a4a0f7e044567d382]: Commencement: Sch. 1 para. 81 in force at 21.12.2020, see reg. 1(2)
+[^c-915213a0d5544f9a4a0f7e044567d382]: Commencement: Sch. 1 para. 81 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363001]: Marginal citation: Subsections (3A), (3B) and (5) were inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210); subsection (3A) is prospectively repealed by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-8a8eeae5fc50c26303eecf36a028781c]: Textual amendment: Sch. 1 para. 81(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(g)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/g)
+[^c-8a8eeae5fc50c26303eecf36a028781c]: Textual amendment: Sch. 1 para. 81(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(g)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/g)
 
-[^key-6f3db61d538a9d44017eb4f1e20cc0bb]: Commencement: Sch. 1 para. 82 in force at 21.12.2020, see reg. 1(2)
+[^c-6f3db61d538a9d44017eb4f1e20cc0bb]: Commencement: Sch. 1 para. 82 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363011]: Marginal citation: Section 8C was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-72f2545b1b3899a68afc95000239416b]: Commencement: Sch. 1 para. 83 in force at 21.12.2020, see reg. 1(2)
+[^c-72f2545b1b3899a68afc95000239416b]: Commencement: Sch. 1 para. 83 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363021]: Marginal citation: Section 9 was amended by [S.I. 2009/2979](https://www.legislation.gov.uk/uksi/2009/2979) and [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and subsection (1A) is prospectively repealed by [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246).
 
-[^key-0a393ab507d30146b53a2347a3d47924]: Textual amendment: Sch. 1 para. 83(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(h)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/h)
+[^c-0a393ab507d30146b53a2347a3d47924]: Textual amendment: Sch. 1 para. 83(2) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/b), [Sch. 2 para. 6(h)](https://www.legislation.gov.uk/uksi/2020/1419/schedule/2/paragraph/6/h)
 
-[^key-e9dcbd0e5791c99dddca1d2b4864dc43]: Commencement: Sch. 1 para. 84 in force at 21.12.2020, see reg. 1(2)
+[^c-e9dcbd0e5791c99dddca1d2b4864dc43]: Commencement: Sch. 1 para. 84 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363031]: Marginal citation: Section 14 was amended by section 38 of the [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24) and by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-1e39a0fcc77fcaac8b6d3785ea754344]: Commencement: Sch. 1 para. 85 in force at 21.12.2020, see reg. 1(2)
+[^c-1e39a0fcc77fcaac8b6d3785ea754344]: Commencement: Sch. 1 para. 85 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363041]: Marginal citation: Subsection (1A) was inserted by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210) and is prospectively repealed by paragraph 45(4) of Schedule 1 to [S.I. 2019/246](https://www.legislation.gov.uk/uksi/2019/246) (which is omitted by paragraph 4(2)(k) of Schedule 2 to these Regulations).
 
-[^key-d429f20ef14c10abd1aa71c841638995]: Commencement: Sch. 1 para. 86 in force at 21.12.2020, see reg. 1(2)
+[^c-d429f20ef14c10abd1aa71c841638995]: Commencement: Sch. 1 para. 86 in force at 21.12.2020, see reg. 1(2)
 
-[^key-47d790bf8ca3bb40607b39b5bed14178]: Commencement: Sch. 1 para. 87 in force at 21.12.2020, see reg. 1(2)
+[^c-47d790bf8ca3bb40607b39b5bed14178]: Commencement: Sch. 1 para. 87 in force at 21.12.2020, see reg. 1(2)
 
-[^key-d844166d041bf1a0b8118f0dec83fa6c]: Commencement: Sch. 1 para. 88 in force at 21.12.2020, see reg. 1(2)
+[^c-d844166d041bf1a0b8118f0dec83fa6c]: Commencement: Sch. 1 para. 88 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363051]: Marginal citation: This definition was inserted by the [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [section 8(3)](https://www.legislation.gov.uk/ukpga/2017/30/section/8/3).
 
-[^key-0cb4d3c2b36cbe9ea13146d5629e12d3]: Commencement: Sch. 1 para. 89 in force at 21.12.2020, see reg. 1(2)
+[^c-0cb4d3c2b36cbe9ea13146d5629e12d3]: Commencement: Sch. 1 para. 89 in force at 21.12.2020, see reg. 1(2)
 
-[^key-113ba22dc863a566f07ed712bf7a4849]: Commencement: Sch. 1 para. 90 in force at 21.12.2020, see reg. 1(2)
+[^c-113ba22dc863a566f07ed712bf7a4849]: Commencement: Sch. 1 para. 90 in force at 21.12.2020, see reg. 1(2)
 
 [^c24363061]: Marginal citation: Schedule 1 was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-28a4e2baa27a0261efa89e9498d299b3]: Commencement: Sch. 1 para. 91 in force at 21.12.2020, see reg. 1(2)
+[^c-28a4e2baa27a0261efa89e9498d299b3]: Commencement: Sch. 1 para. 91 in force at 21.12.2020, see reg. 1(2)
 
-[^key-a083f5b9048e05c8a58215f43d2a9723]: Commencement: Sch. 1 para. 92 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-a083f5b9048e05c8a58215f43d2a9723]: Commencement: Sch. 1 para. 92 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
-[^key-a787b1d8a5b2c0547cf304b87e54c068]: Commencement: Sch. 1 para. 93 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-a787b1d8a5b2c0547cf304b87e54c068]: Commencement: Sch. 1 para. 93 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
-[^key-fc6a9c790be6108ac13c7e8d0b394938]: Commencement: Sch. 1 para. 94 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
+[^c-fc6a9c790be6108ac13c7e8d0b394938]: Commencement: Sch. 1 para. 94 in force at 31.12.2020 on IP completion day, see reg. 1(3)(a)
 
 [^c24363071]: Marginal citation: The definition of “the EECC Directive” is inserted by paragraph 88 of Schedule 1 to these Regulations.

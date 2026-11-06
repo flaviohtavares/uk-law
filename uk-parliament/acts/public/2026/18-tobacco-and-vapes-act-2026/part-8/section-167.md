@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Further consequential amendments[^key-accab543bd644996768be15953e2ad2d]
+## 167. Further consequential amendments[^c-accab543bd644996768be15953e2ad2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 21 contains further consequential amendments.
 
 ## Annotations
 
-[^key-accab543bd644996768be15953e2ad2d]: Commencement: S. 167 not in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-accab543bd644996768be15953e2ad2d]: Commencement: S. 167 not in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

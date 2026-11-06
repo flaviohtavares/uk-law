@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Taking of evidence by a commissioner[^key-02cac74b5d092af4ab8b8b09acce51e7]
+## 95. Taking of evidence by a commissioner[^c-02cac74b5d092af4ab8b8b09acce51e7]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02cac74b5d092af4ab8b8b09acce51e7]: Commencement: S. 95 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-02cac74b5d092af4ab8b8b09acce51e7]: Commencement: S. 95 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

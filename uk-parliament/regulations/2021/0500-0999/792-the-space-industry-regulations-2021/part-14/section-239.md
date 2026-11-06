@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239. Powers of inspector[^key-1412a98b742dff083ff78a392d2eb3d1]
+## 239. Powers of inspector[^c-1412a98b742dff083ff78a392d2eb3d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1412a98b742dff083ff78a392d2eb3d1]: Commencement: Reg. 239 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-1412a98b742dff083ff78a392d2eb3d1]: Commencement: Reg. 239 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

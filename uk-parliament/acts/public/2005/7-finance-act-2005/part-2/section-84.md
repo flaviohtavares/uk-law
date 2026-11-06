@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Taxation of securitisation companies[^key-b56611fc8c154a33ea68e59527175ad3]
+## 84. Taxation of securitisation companies[^c-b56611fc8c154a33ea68e59527175ad3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b56611fc8c154a33ea68e59527175ad3]: Textual amendment: S. 84 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 476](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/476) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b56611fc8c154a33ea68e59527175ad3]: Textual amendment: S. 84 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 476](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/476) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

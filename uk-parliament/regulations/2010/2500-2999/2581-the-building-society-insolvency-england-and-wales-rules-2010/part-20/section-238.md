@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 238. Costs of proceedings[^key-015968a3d0f7c9babbfff3f0e43a82e9]
+## 238. Costs of proceedings[^c-015968a3d0f7c9babbfff3f0e43a82e9]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-015968a3d0f7c9babbfff3f0e43a82e9]: Commencement: Rule 238 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-015968a3d0f7c9babbfff3f0e43a82e9]: Commencement: Rule 238 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00084]: Footnote: Paragraph (3) was substituted by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737) and amended by [S.I. 2009/642](https://www.legislation.gov.uk/uksi/2009/642).

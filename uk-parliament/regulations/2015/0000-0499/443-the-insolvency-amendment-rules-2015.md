@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency, England And Wales
 
-The Insolvency (Amendment) Rules 2015 (revoked)[^key-77c0c8cd0864c1bb0d49fef3e3345eca]
+The Insolvency (Amendment) Rules 2015 (revoked)[^c-77c0c8cd0864c1bb0d49fef3e3345eca]
 
 Made
 
@@ -52,52 +52,52 @@ Remainder
 
 1st October 2015
 
-[^key-77c0c8cd0864c1bb0d49fef3e3345eca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77c0c8cd0864c1bb0d49fef3e3345eca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-77c0c8cd0864c1bb0d49fef3e3345eca]
+## 1. Citation, commencement and interpretation[^c-77c0c8cd0864c1bb0d49fef3e3345eca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 1986 Rules[^key-77c0c8cd0864c1bb0d49fef3e3345eca]
+## 2. Amendments to the 1986 Rules[^c-77c0c8cd0864c1bb0d49fef3e3345eca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-77c0c8cd0864c1bb0d49fef3e3345eca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Transitional provisions[^key-77c0c8cd0864c1bb0d49fef3e3345eca]
+## 15. Transitional provisions[^c-77c0c8cd0864c1bb0d49fef3e3345eca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-77c0c8cd0864c1bb0d49fef3e3345eca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77c0c8cd0864c1bb0d49fef3e3345eca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-77c0c8cd0864c1bb0d49fef3e3345eca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77c0c8cd0864c1bb0d49fef3e3345eca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77c0c8cd0864c1bb0d49fef3e3345eca]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2015/443) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-77c0c8cd0864c1bb0d49fef3e3345eca]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2015/443) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

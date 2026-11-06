@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW, ENGLAND AND WALES
 
-The Criminal Justice (Specified Class A Drugs) Order 2001 (revoked)[^key-2ef2fd74c9fbe315aa0ff393879ac1d0]
+The Criminal Justice (Specified Class A Drugs) Order 2001 (revoked)[^c-2ef2fd74c9fbe315aa0ff393879ac1d0]
 
 Made
 
@@ -45,20 +45,20 @@ Coming into force
 
 2nd July 2001
 
-[^key-2ef2fd74c9fbe315aa0ff393879ac1d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ef2fd74c9fbe315aa0ff393879ac1d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-2ef2fd74c9fbe315aa0ff393879ac1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2ef2fd74c9fbe315aa0ff393879ac1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2ef2fd74c9fbe315aa0ff393879ac1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2ef2fd74c9fbe315aa0ff393879ac1d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ef2fd74c9fbe315aa0ff393879ac1d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ef2fd74c9fbe315aa0ff393879ac1d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ef2fd74c9fbe315aa0ff393879ac1d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ef2fd74c9fbe315aa0ff393879ac1d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ef2fd74c9fbe315aa0ff393879ac1d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/1816) revoked (2.8.2023) by [The Criminal Justice (Specified Class A Drugs) Order 2023 (S.I. 2023/784)](https://www.legislation.gov.uk/uksi/2023/784), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/784/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/784/article/3)
+[^c-2ef2fd74c9fbe315aa0ff393879ac1d0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/1816) revoked (2.8.2023) by [The Criminal Justice (Specified Class A Drugs) Order 2023 (S.I. 2023/784)](https://www.legislation.gov.uk/uksi/2023/784), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/784/article/1/1), [3](https://www.legislation.gov.uk/uksi/2023/784/article/3)

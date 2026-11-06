@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Renewal of warrants[^key-f2f726f1fe84ff47d9b35cefc465e6d4]
+## 163. Renewal of warrants[^c-f2f726f1fe84ff47d9b35cefc465e6d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ This is subject to subsection (6).
 
 ## Annotations
 
-[^key-f2f726f1fe84ff47d9b35cefc465e6d4]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2016/25/section/163) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-f2f726f1fe84ff47d9b35cefc465e6d4]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2016/25/section/163) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

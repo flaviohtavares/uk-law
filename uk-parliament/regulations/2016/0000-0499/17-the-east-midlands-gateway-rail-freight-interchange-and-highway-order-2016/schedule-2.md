@@ -22,11 +22,11 @@ summary: ''
 
 Articles 2(1) and 3
 
-### 1. Time limit[^key-63422530acde50d6825a59a4a8b41efd]
+### 1. Time limit[^c-63422530acde50d6825a59a4a8b41efd]
 
 The authorised development must not commence later than the expiration of 5 years beginning with the date that this Order comes into force.
 
-### 2. Phases of development[^key-c5e5cb31e75a0987d4daad9ede8b88b4]
+### 2. Phases of development[^c-c5e5cb31e75a0987d4daad9ede8b88b4]
 
 (1) No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) is to commence until a written scheme setting out all the phases of the authorised development which must be in accordance with the approach to phasing set out in the construction management framework plan (Document 6.10) and the schedule of archaeological works (Document 6.24), has been submitted to and approved in writing by the local planning authority. The written scheme must include phasing details of—
 
@@ -43,15 +43,15 @@ The authorised development must not commence later than the expiration of 5 year
 
 (3) The rail terminal constructed as part of Works No. 2 must be constructed and available for use prior to the occupation of more than 260,000<sup></sup>square metres of the rail served warehousing.
 
-### 3. Sustainable transport[^key-ca5eaa6f0329b6445a4d4a3a4989bfc9]
+### 3. Sustainable transport[^c-ca5eaa6f0329b6445a4d4a3a4989bfc9]
 
 The provisions of the site wide travel plan (Document 6.25) or any variation of such plan agreed by the sustainable transport working group must be complied with at all times following the commencement of the authorised development.
 
-### 4. Design and phasing of highways works[^key-b570dae2527ac93203f278d89dbe6d60]
+### 4. Design and phasing of highways works[^c-b570dae2527ac93203f278d89dbe6d60]
 
 The highway works must be carried out in accordance with details first submitted to and approved by the relevant body in accordance with the provisions of Schedules 19 and 20 (protection of interests).
 
-**5.**[^key-ac41b9e8319824136e131f5aa02753be] The undertaker must use reasonable endeavours to complete the highway works identified in column (1) of the table below by no later than the stage of development set out in column (3) of the table below or such alternative later triggers as are agreed by the relevant body identified in column (4) and the local planning authority.
+**5.**[^c-ac41b9e8319824136e131f5aa02753be] The undertaker must use reasonable endeavours to complete the highway works identified in column (1) of the table below by no later than the stage of development set out in column (3) of the table below or such alternative later triggers as are agreed by the relevant body identified in column (4) and the local planning authority.
 
 Highway Works
 
@@ -67,7 +67,7 @@ Highway Works
 | (viii) | M1 overbridges from Ashby Road to A453 and from Kegworth Bypass to A453. | To be completed prior to the occupation of more than 185,800 square metres (gross internal area) of warehouse floorspace. | (1) Highways England (bridge structures)<br>(2) Leicestershire County Council (highway) |
 | (ix) | Warren Lane access and public footpath and cycle track adjacent to A50 interchange links connecting Warren Lane and A453 eastbound. | To be completed prior to the occupation of the first warehouse to be occupied. | Leicestershire County Council |
 
-### 6. Detailed design approval[^key-f76a3edb97e53b45e0137e27e57ed3ca]
+### 6. Detailed design approval[^c-f76a3edb97e53b45e0137e27e57ed3ca]
 
 (1) The details of each phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) must be in accordance with the design and access statement (Document 6.9). The design and access statement can be reviewed and updated by the undertaker in agreement with the local planning authority.
 
@@ -92,9 +92,9 @@ Highway Works
 - (q) public transport infrastructure; and
 - (r) footpath specification.
 
-**7.**[^key-0105f5304ae483a203f29371355ec9b7] No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) is to commence until the details of that phase required under requirement 6(2) have been submitted to and approved in writing by the local planning authority (following consultation with the airport authority as the statutory aerodrome safeguarding authority when relevant). The authorised development must be carried out in accordance with the details as approved in writing by the local planning authority.
+**7.**[^c-0105f5304ae483a203f29371355ec9b7] No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) is to commence until the details of that phase required under requirement 6(2) have been submitted to and approved in writing by the local planning authority (following consultation with the airport authority as the statutory aerodrome safeguarding authority when relevant). The authorised development must be carried out in accordance with the details as approved in writing by the local planning authority.
 
-### 8. Provision of landscaping and ecological mitigation[^key-3ad26bfc9e56930c99b377ee9bd3c7f5]
+### 8. Provision of landscaping and ecological mitigation[^c-3ad26bfc9e56930c99b377ee9bd3c7f5]
 
 No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) is to commence until a written landscaping scheme for that phase (including the strategic landscaping included within that phase) has been submitted to and approved in writing by the local planning authority. The landscaping scheme must be in accordance with the Landscape Framework Plan contained in Chapter 5, Figure 5.12 and the Landscape Strategy contained in Chapter 5 of the environmental statement and must include details of all proposed soft landscaping works, including—
 
@@ -105,13 +105,13 @@ No phase of the authorised development (with the exception of the highway works 
 - (e) implementation timetables; and
 - (f) a landscape management plan setting out for a period of 20 years the arrangements for future maintenance including methods of funding and future monitoring, review and the maintenance of new trees, shrubs, hedgerows, woodlands and grassed areas and retained trees, shrubs, hedgerows, woodlands and grassed areas.
 
-### 9. Implementation and maintenance of landscaping[^key-90bcc0dcde4af5a302c79da082c57be2]
+### 9. Implementation and maintenance of landscaping[^c-90bcc0dcde4af5a302c79da082c57be2]
 
 (1) All landscaping works (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) must be carried out and maintained in accordance with the landscaping scheme approved under requirement 8 (provision of landscaping and ecological mitigation) to a reasonable standard in accordance with the relevant recommendations of British Standard 4428:1989 “Code of Practice for general landscape operations (excluding hard surfaces)” and British Standard 8545:2014 “Trees: from nursery to independence in the landscape – Recommendations”.
 
 (2) Any tree or shrub planted as part of an approved landscape scheme that, within a period of 10 years after planting is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless the local planning authority gives consent to any variation.
 
-### 10. Ecological Management Plan[^key-786f3906d93a221ad54e2d56d25e5216]
+### 10. Ecological Management Plan[^c-786f3906d93a221ad54e2d56d25e5216]
 
 (1) No phase of the authorised development is to commence until a written ecological management plan for that phase reflecting the survey results and any ecological mitigation and enhancement measures included in the environmental statement has been submitted to and approved in writing by the local planning authority. The management plan may be subject to alteration by prior approval in writing by the local planning authority.
 
@@ -124,7 +124,7 @@ No phase of the authorised development (with the exception of the highway works 
 
 (3) The ecological management plan approved under (1) must include an implementation timetable and must be carried out as approved in writing by the local planning authority.
 
-### 11. Construction Environmental Management Plan[^key-a719c96532d402b8b9a36a7c0eed2711]
+### 11. Construction Environmental Management Plan[^c-a719c96532d402b8b9a36a7c0eed2711]
 
 (1) No phase of the authorised development is to commence, including any preparatory earthworks or site levelling but excluding archaeological soil movement and ecological mitigation works, until a Construction Environmental Management Plan (“CEMP”) for that phase of development, drafted in accordance with the principles set out in the construction management framework plan (Document 6.10), has been submitted to and approved in writing by the local planning authority or in the case of the highway works by the relevant highway authority and also having regard to any relevant provisions in Schedules 19 and 20 (protection of interests). The CEMP for each phase must include—
 
@@ -150,7 +150,7 @@ No phase of the authorised development (with the exception of the highway works 
 
 (2) The CEMP for each phase of development is to be reviewed and updated if necessary to address unacceptable impacts arising from construction works. Each CEMP must be submitted by the undertaker for approval in writing by the local planning authority or in the case of the highway works the relevant highway authority. All construction works must be carried out in accordance with the CEMP as approved.
 
-### 12. Earthworks[^key-0491adaf1963b3ae2cd593bc2e5a07bb]
+### 12. Earthworks[^c-0491adaf1963b3ae2cd593bc2e5a07bb]
 
 No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedule 19 (for the protection of Highways England) and 20 (for protection of Leicestershire County Council as highway authority)) is to commence until details of—
 
@@ -162,7 +162,7 @@ No phase of the authorised development (with the exception of the highway works 
 
 have been approved in advance and in writing by the local planning authority. All earthworks must be carried out in accordance with the details as approved.
 
-### 13. Archaeology[^key-66b6102f0fc2e1b1d6c2229508bc6445]
+### 13. Archaeology[^c-66b6102f0fc2e1b1d6c2229508bc6445]
 
 (1) No phase of the authorised development is to commence until the undertaker has commissioned a programme of further exploratory investigation in respect of that phase in accordance with section 2 of the schedule of archaeological works (Document 6.24) which has been submitted to and approved in writing by the local planning authority, or in the case of the highway works, the relevant highway authority. The exploratory investigation must be carried out in accordance with the approved programme and must be timed so that the results can inform the scope of the further archaeological mitigation measures, referred to in sub-paragraph (2).
 
@@ -175,7 +175,7 @@ have been approved in advance and in writing by the local planning authority. Al
 
 (3) The approved mitigation measures must be carried out in accordance with the relevant written scheme of mitigation measures for that phase of the authorised development.
 
-### 14. Lighting details[^key-775eaab746ebafd11484877dbe91afc0]
+### 14. Lighting details[^c-775eaab746ebafd11484877dbe91afc0]
 
 (1) Prior to the commencement of each phase of the authorised development, details of the proposed permanent external lighting in that phase must be submitted to and approved in writing by the local planning authority or in the case of the highway works the relevant highway authority. The lighting details must accord with the principles established in the lighting proposal set out in Chapter 12 of the environmental statement.
 
@@ -183,17 +183,17 @@ have been approved in advance and in writing by the local planning authority. Al
 
 (3) The details submitted under this requirement must include details of any lighting on any gantry cranes included in the phase concerned.
 
-### 15. Building sustainability[^key-62a82fec2303a371f7080114401ba7bd]
+### 15. Building sustainability[^c-62a82fec2303a371f7080114401ba7bd]
 
 (1) No development of a warehouse may take place until a BREEAM Pre-Assessment Report based upon the BREEAM 2011 method (or equivalent) has been submitted to and approved in writing by the local planning authority demonstrating that the unit is expected to achieve at least a BREEAM 2011 “Very Good” rating (BREEAM Industrial 2008 “Excellent”).
 
 (2) The development of each of the warehouses must be carried out in accordance with the details in the BREEAM Pre-Assessment Report (or equivalent) for that unit and a certificate must be provided within three months of completion or occupation (whichever is the sooner) of each warehouse confirming that the measures in respect of that warehouse committed to within the Pre-Assessment Report have been implemented.
 
-### 16. Flood risk and surface water drainage[^key-d21bbf1ec2b3d28c77aada2e70ea4042]
+### 16. Flood risk and surface water drainage[^c-d21bbf1ec2b3d28c77aada2e70ea4042]
 
 The authorised development must be carried out in accordance with the mitigation measures detailed within sections 3.0 and 4.0 of the Flood Risk Assessment and section 5.0 of the Water Framework Direction Assessment submitted with the application as part of the environmental statement (Document 5.2) or be carried out in accordance with any variation to these measures agreed in writing with the Environment Agency, the lead local flood authority or the approving body under Schedule 3 (sustainable drainage) to the Flood and Water Management Act 2010[^f00040], whichever of these is the body having jurisdiction over the watercourse in question.
 
-**17.**[^key-3897a25fe291b5b469b38fa3bc81295e] (1) No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) may commence until a surface water drainage scheme for that phase based on sustainable drainage principles and an assessment of the hydrological and hydrogeological context of the development in accordance with the Surface Water Drainage Strategy in Chapter 8 of the environmental statement (Document 5.2) has been submitted to and approved in writing by the local planning authority or such other approval process that is put in place under the Flood and Water Management Act 2010. The scheme must include—
+**17.**[^c-3897a25fe291b5b469b38fa3bc81295e] (1) No phase of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)) may commence until a surface water drainage scheme for that phase based on sustainable drainage principles and an assessment of the hydrological and hydrogeological context of the development in accordance with the Surface Water Drainage Strategy in Chapter 8 of the environmental statement (Document 5.2) has been submitted to and approved in writing by the local planning authority or such other approval process that is put in place under the Flood and Water Management Act 2010. The scheme must include—
 
 - (a) limiting the surface water run-off generated by all rainfall events up to the 1:100 year plus 20% (for climate change) critical rain storm so that it will not exceed the peak run-off rate from the undeveloped site and not increase the risk of flooding off-site;
 - (b) provision of surface water run-off attenuation storage to accommodate the difference between the allowable discharge rate and all rainfall events up to the 1:100 year plus 20% (for climate change) critical rain storm;
@@ -202,13 +202,13 @@ The authorised development must be carried out in accordance with the mitigation
 
 (2) The surface water drainage scheme must be implemented in accordance with the details approved by the local planning authority or in accordance with any variations to the details agreed in writing by the local planning authority prior to the completion of the authorised development.
 
-**18.**[^key-54f704e34f11447822773228497e0a42] Any element of the authorised development which directly affects any floodplain must not be commenced until such time as the floodplain compensation scheme has been submitted to and approved in writing by the local planning authority. The scheme must accord with the principles established in the flood compensation measures set out in Chapter 8 of the environmental statement (Document 5.2). Except for the floodplain compensation scheme itself, no above ground part of the authorised development in any floodplain may be commenced until the relevant compensation scheme has been implemented in full. The scheme must be fully implemented and subsequently maintained in accordance with the timing and phasing arrangements embodied within the scheme or within any other period as may subsequently be agreed in writing by the local planning authority.
+**18.**[^c-54f704e34f11447822773228497e0a42] Any element of the authorised development which directly affects any floodplain must not be commenced until such time as the floodplain compensation scheme has been submitted to and approved in writing by the local planning authority. The scheme must accord with the principles established in the flood compensation measures set out in Chapter 8 of the environmental statement (Document 5.2). Except for the floodplain compensation scheme itself, no above ground part of the authorised development in any floodplain may be commenced until the relevant compensation scheme has been implemented in full. The scheme must be fully implemented and subsequently maintained in accordance with the timing and phasing arrangements embodied within the scheme or within any other period as may subsequently be agreed in writing by the local planning authority.
 
-### 19. Foul water drainage[^key-3dcbe9faf109d9b2ef8df73b8c9cce38]
+### 19. Foul water drainage[^c-3dcbe9faf109d9b2ef8df73b8c9cce38]
 
 Prior to the commencement of the authorised development (with the exception of the highway works which are governed by requirements 4 and 5 and Schedules 19 and 20 (protection of interests)), excluding earthworks, archaeology works or ecological mitigation works, a foul water drainage strategy must be submitted to and approved in writing by the local planning authority. Except where it is constructed in accordance with the approved foul water drainage strategy, no phase of the authorised development is to commence until written details of the foul water drainage system for that phase have been submitted to and approved in writing by the local planning authority. Such details must be implemented as approved by the local planning authority.
 
-### 20. Construction hours[^key-2929667ef50b112e565edd228ee7a2f0]
+### 20. Construction hours[^c-2929667ef50b112e565edd228ee7a2f0]
 
 (1) Subject to sub-paragraph (2) construction and demolition works (which for the purposes of this requirement excludes archaeological investigations, landscaping works and any non-intrusive internal fit-out works but must include start up and shut down and deliveries) must not take place other than between 07:30 and 19:00 hours on weekdays and 08:00 and 13:00 hours on Saturdays, excluding public holidays, unless otherwise agreed in writing by the local planning authority. Outside the above periods the following working is permitted:
 
@@ -220,7 +220,7 @@ Prior to the commencement of the authorised development (with the exception of t
 
 (3) Any emergency works carried out under sub-paragraph (1)(b) must be notified to the local planning authority within 72 hours of their commencement.
 
-### 21. Construction noise[^key-4d49fc942225c159caa6bdf0ab9c83b0]
+### 21. Construction noise[^c-4d49fc942225c159caa6bdf0ab9c83b0]
 
 (1) For normal daytime construction and demolition works carried out on weekdays between 07:30 and 19:00 and on Saturdays between 08:00 and 13:00, the noise level measured at a noise sensitive receptor (as defined in Table 9.24 and Figure B1 of Chapter 9 of the environmental statement (Document 5.2)) must not exceed L<sub>eq, 12hour</sub> 65 dB(A) wherever practicable. Where this is not practicable prior approval under section 61 (prior consent for work on construction sites) of the Control of Pollution Act 1974[^f00041] must be obtained.
 
@@ -228,7 +228,7 @@ Prior to the commencement of the authorised development (with the exception of t
 
 (3) Subject to health and safety requirements, broadband reversing alarms must be employed on mobile plant.
 
-### 22. Noise during the operational phase[^key-821765699a84943d6232f23807da4e46]
+### 22. Noise during the operational phase[^c-821765699a84943d6232f23807da4e46]
 
 (1) No part of the authorised development may be brought into use until a written scheme has been submitted to and approved in writing by the local planning authority, for the monitoring of noise generated during the operational phases of the development to establish baseline noise conditions and maximum noise levels to be observed. The scheme must specify the locations from where noise must be monitored, the method of noise measurement (which must be in accordance with British Standard 4142:2014 “Methods for rating and assessing industrial and commercial sound” for fixed plant noise and Calculation of Railway Noise 1995, equivalent successor standards or other agreed measurement methodologies appropriate to the circumstances). The written scheme must also specify the periods within which monitoring of operational noise must take place. The written scheme must be implemented and the maximum noise levels identified afterwards be complied with. This monitoring must be subject to annual reviews to establish the frequency of noise monitoring and the need for continued monitoring.
 
@@ -236,11 +236,11 @@ Prior to the commencement of the authorised development (with the exception of t
 
 (3) Subject to health and safety requirements, broadband reversing alarms must be employed on mobile plant.
 
-### 23. Monitoring of complaints[^key-a181c85dd2f9fce717ec7f936dc2b1d3]
+### 23. Monitoring of complaints[^c-a181c85dd2f9fce717ec7f936dc2b1d3]
 
 In the event that justified complaints for noise nuisance are received by the local planning authority, the undertaker must, unless otherwise agreed in writing with the local planning authority, at its own expense, employ a consultant approved by the local planning authority to carry out an assessment of noise from the authorised development, whether relating to noise from construction or operation of the site. The assessment must be carried out to an appropriate methodology agreed with the local planning authority and the results of the assessment must be submitted to the local planning authority within 28 days of the assessment along with suggested remedial measures if considered necessary. The assessment must include a comparison of measured data with the maximum noise levels specified in the scheme approved under requirement 22 (noise during the operational phase) and also include all data which was collected for the purposes of the assessment and certificates of the measuring instrument’s calibration. Any remedial measures considered necessary to comply with the maximum noise levels must be implemented in accordance with a programme agreed in writing by the local planning authority.
 
-### 24. Contamination risk[^key-3468c7dc8f91eb2e0ca105771e68b2e0]
+### 24. Contamination risk[^c-3468c7dc8f91eb2e0ca105771e68b2e0]
 
 (1) No phase of the authorised development is to commence until a localised contamination report for that phase has been submitted to and approved in writing by the local planning authority.
 
@@ -258,7 +258,7 @@ In the event that justified complaints for noise nuisance are received by the lo
 
 (4) If, during the course of development, previously unidentified contamination is discovered, development must cease on that localised area of the site and the contamination must be reported in writing to the local planning authority within 10 working days. Prior to the recommencement of development on that localised area of the site, suitable investigation and Risk Based Land Contamination Assessment for the discovered contamination (to include any required amendments to the Remedial Scheme and Verification Plan) must be submitted to and approved in writing by the local planning authority. The development must then be implemented in accordance with the details approved by the local planning authority and, unless otherwise agreed in writing by the local planning authority, retained as such in perpetuity.
 
-**25.**[^key-39eaa3ebbb65d8a39bff9a59bfc7e0fd] (1) Prior to the commencement of use of any part of the completed development either—
+**25.**[^c-39eaa3ebbb65d8a39bff9a59bfc7e0fd] (1) Prior to the commencement of use of any part of the completed development either—
 
 - (a) if no remediation scheme or verification was required under requirement 24 (contamination risk) a statement from the undertaker, or their approved agent, must be provided to the local planning authority, stating that no previously unidentified contamination was discovered during the course of development; or
 - (b) if a remediation scheme and verification plan were agreed under requirement 24, a Verification Investigation must be undertaken in line with the agreed Verification Plan for any works outlined in the Remedial Scheme and a report showing the findings of the Verification Investigation relevant to either the whole development or that part of the development must be submitted to and approved in writing by the local planning authority.
@@ -272,64 +272,64 @@ In the event that justified complaints for noise nuisance are received by the lo
 - (e) demonstrate the effectiveness of the approved Remedial Scheme; and
 - (f) include a statement signed by the undertaker, or the approved agent, confirming that all the works specified in the Remedial Scheme have been completed.
 
-### 26. Waste management during the operational phase[^key-7b065a52337a414dd4986775b4bebfc2]
+### 26. Waste management during the operational phase[^c-7b065a52337a414dd4986775b4bebfc2]
 
 No part of the authorised development may be brought into use until a scheme for waste management has been submitted to and approved in writing by the local planning authority. Thereafter the approved scheme must be implemented and maintained for the duration of the operation of the development.
 
 ## Annotations
 
-[^key-63422530acde50d6825a59a4a8b41efd]: Commencement: Sch. 2 para. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-63422530acde50d6825a59a4a8b41efd]: Commencement: Sch. 2 para. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-c5e5cb31e75a0987d4daad9ede8b88b4]: Commencement: Sch. 2 para. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-c5e5cb31e75a0987d4daad9ede8b88b4]: Commencement: Sch. 2 para. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-ca5eaa6f0329b6445a4d4a3a4989bfc9]: Commencement: Sch. 2 para. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-ca5eaa6f0329b6445a4d4a3a4989bfc9]: Commencement: Sch. 2 para. 3 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-b570dae2527ac93203f278d89dbe6d60]: Commencement: Sch. 2 para. 4 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-b570dae2527ac93203f278d89dbe6d60]: Commencement: Sch. 2 para. 4 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-ac41b9e8319824136e131f5aa02753be]: Commencement: Sch. 2 para. 5 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-ac41b9e8319824136e131f5aa02753be]: Commencement: Sch. 2 para. 5 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-f76a3edb97e53b45e0137e27e57ed3ca]: Commencement: Sch. 2 para. 6 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-f76a3edb97e53b45e0137e27e57ed3ca]: Commencement: Sch. 2 para. 6 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-0105f5304ae483a203f29371355ec9b7]: Commencement: Sch. 2 para. 7 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-0105f5304ae483a203f29371355ec9b7]: Commencement: Sch. 2 para. 7 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-3ad26bfc9e56930c99b377ee9bd3c7f5]: Commencement: Sch. 2 para. 8 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-3ad26bfc9e56930c99b377ee9bd3c7f5]: Commencement: Sch. 2 para. 8 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-90bcc0dcde4af5a302c79da082c57be2]: Commencement: Sch. 2 para. 9 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-90bcc0dcde4af5a302c79da082c57be2]: Commencement: Sch. 2 para. 9 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-786f3906d93a221ad54e2d56d25e5216]: Commencement: Sch. 2 para. 10 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-786f3906d93a221ad54e2d56d25e5216]: Commencement: Sch. 2 para. 10 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-a719c96532d402b8b9a36a7c0eed2711]: Commencement: Sch. 2 para. 11 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-a719c96532d402b8b9a36a7c0eed2711]: Commencement: Sch. 2 para. 11 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-0491adaf1963b3ae2cd593bc2e5a07bb]: Commencement: Sch. 2 para. 12 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-0491adaf1963b3ae2cd593bc2e5a07bb]: Commencement: Sch. 2 para. 12 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-66b6102f0fc2e1b1d6c2229508bc6445]: Commencement: Sch. 2 para. 13 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-66b6102f0fc2e1b1d6c2229508bc6445]: Commencement: Sch. 2 para. 13 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-775eaab746ebafd11484877dbe91afc0]: Commencement: Sch. 2 para. 14 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-775eaab746ebafd11484877dbe91afc0]: Commencement: Sch. 2 para. 14 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-62a82fec2303a371f7080114401ba7bd]: Commencement: Sch. 2 para. 15 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-62a82fec2303a371f7080114401ba7bd]: Commencement: Sch. 2 para. 15 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-d21bbf1ec2b3d28c77aada2e70ea4042]: Commencement: Sch. 2 para. 16 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-d21bbf1ec2b3d28c77aada2e70ea4042]: Commencement: Sch. 2 para. 16 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00040]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29). Schedule 3 was amended by sections 21(3) and 88 of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [S.I. 2012/1659](https://www.legislation.gov.uk/uksi/2012/1659) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755). Schedule 3 is to come into force on a date to be appointed.
 
-[^key-3897a25fe291b5b469b38fa3bc81295e]: Commencement: Sch. 2 para. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-3897a25fe291b5b469b38fa3bc81295e]: Commencement: Sch. 2 para. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-54f704e34f11447822773228497e0a42]: Commencement: Sch. 2 para. 18 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-54f704e34f11447822773228497e0a42]: Commencement: Sch. 2 para. 18 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-3dcbe9faf109d9b2ef8df73b8c9cce38]: Commencement: Sch. 2 para. 19 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-3dcbe9faf109d9b2ef8df73b8c9cce38]: Commencement: Sch. 2 para. 19 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-2929667ef50b112e565edd228ee7a2f0]: Commencement: Sch. 2 para. 20 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-2929667ef50b112e565edd228ee7a2f0]: Commencement: Sch. 2 para. 20 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-4d49fc942225c159caa6bdf0ab9c83b0]: Commencement: Sch. 2 para. 21 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-4d49fc942225c159caa6bdf0ab9c83b0]: Commencement: Sch. 2 para. 21 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00041]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-821765699a84943d6232f23807da4e46]: Commencement: Sch. 2 para. 22 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-821765699a84943d6232f23807da4e46]: Commencement: Sch. 2 para. 22 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-a181c85dd2f9fce717ec7f936dc2b1d3]: Commencement: Sch. 2 para. 23 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-a181c85dd2f9fce717ec7f936dc2b1d3]: Commencement: Sch. 2 para. 23 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-3468c7dc8f91eb2e0ca105771e68b2e0]: Commencement: Sch. 2 para. 24 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-3468c7dc8f91eb2e0ca105771e68b2e0]: Commencement: Sch. 2 para. 24 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-39eaa3ebbb65d8a39bff9a59bfc7e0fd]: Commencement: Sch. 2 para. 25 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-39eaa3ebbb65d8a39bff9a59bfc7e0fd]: Commencement: Sch. 2 para. 25 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-7b065a52337a414dd4986775b4bebfc2]: Commencement: Sch. 2 para. 26 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-7b065a52337a414dd4986775b4bebfc2]: Commencement: Sch. 2 para. 26 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

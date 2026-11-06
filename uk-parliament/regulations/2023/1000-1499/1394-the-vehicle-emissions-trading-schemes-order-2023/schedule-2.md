@@ -22,9 +22,9 @@ summary: ''
 
 Article 3(1)
 
-**1.**[^key-9b0fc494002ab4d26c4798b1f684c050] The conditions which must be met by a person (referred to in this Schedule as “**the operator**”) in order to be treated as a car club for the purposes of articles 20, 22, 52 or 54 (CRTS credits and VRTS credits: car clubs) are set out in the following paragraphs of this Schedule.
+**1.**[^c-9b0fc494002ab4d26c4798b1f684c050] The conditions which must be met by a person (referred to in this Schedule as “**the operator**”) in order to be treated as a car club for the purposes of articles 20, 22, 52 or 54 (CRTS credits and VRTS credits: car clubs) are set out in the following paragraphs of this Schedule.
 
-**2.**[^key-de6b20e5ba3cd60b4a768d597c079224] The operator offers a service to the public (a “car club service”) which meets the following criteria—
+**2.**[^c-de6b20e5ba3cd60b4a768d597c079224] The operator offers a service to the public (a “car club service”) which meets the following criteria—
 
 - (a) the operator offers cars, vans or SPVs for hire which are—
   - (i) located in, or close to, residential or commercial areas where customers and potential customers of the service live or work;
@@ -37,22 +37,22 @@ Article 3(1)
 - (b) the operator makes available to customers a pricing structure, a booking system, a digital or telephone helpline and information about how to use the car club service; and
 - (c) customers are liable for financial or other penalties incurred whilst using the vehicle, other than financial penalties in excess of the original penalty resulting from a failure by the operator to inform the customer about the penalty in a timely manner.
 
-**3.**[^key-e73e6c1324fd1460ada446d5dab6f21e] The operator ensures that the vehicles used for the purpose of providing the car club service are—
+**3.**[^c-e73e6c1324fd1460ada446d5dab6f21e] The operator ensures that the vehicles used for the purpose of providing the car club service are—
 
 - (a) roadworthy, kept clean and regularly serviced and maintained;
 - (b) covered by a comprehensive insurance policy provided by a third party or the operator; and
 - (c) covered by a national breakdown and recovery policy.
 
-**4.**[^key-360d0a11a4a70082b10d2748791d2f09] The operator has and publishes—
+**4.**[^c-360d0a11a4a70082b10d2748791d2f09] The operator has and publishes—
 
 - (a) an equality and diversity policy;
 - (b) a statement of how the car club service operates;
 - (c) an environmental policy and environmental impact statement; and
 - (d) a complaints policy.
 
-**5.**[^key-d0f4affb437e3ffe357b701ae0184931] If the operator intends to cease providing the car club service, it gives its customers a period of two months’ notice before the cessation, where this is reasonably practicable.
+**5.**[^c-d0f4affb437e3ffe357b701ae0184931] If the operator intends to cease providing the car club service, it gives its customers a period of two months’ notice before the cessation, where this is reasonably practicable.
 
-**6.**[^key-57f72de718e996a283728aeb6698fb44] The operator provides the following information to the administrator within the time period specified—
+**6.**[^c-57f72de718e996a283728aeb6698fb44] The operator provides the following information to the administrator within the time period specified—
 
 - (a) on or before 1st February of each year following a scheme year during which the operator met the conditions in this Schedule—
   - (i) a list of the ZE cars, ZE vans or ZE SPVs of which the operator has exclusive use for the purposes of providing the car club service;
@@ -66,14 +66,14 @@ Article 3(1)
 
 ## Annotations
 
-[^key-9b0fc494002ab4d26c4798b1f684c050]: Commencement: Sch. 2 para. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-9b0fc494002ab4d26c4798b1f684c050]: Commencement: Sch. 2 para. 1 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-de6b20e5ba3cd60b4a768d597c079224]: Commencement: Sch. 2 para. 2 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-de6b20e5ba3cd60b4a768d597c079224]: Commencement: Sch. 2 para. 2 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-e73e6c1324fd1460ada446d5dab6f21e]: Commencement: Sch. 2 para. 3 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e73e6c1324fd1460ada446d5dab6f21e]: Commencement: Sch. 2 para. 3 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-360d0a11a4a70082b10d2748791d2f09]: Commencement: Sch. 2 para. 4 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-360d0a11a4a70082b10d2748791d2f09]: Commencement: Sch. 2 para. 4 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-d0f4affb437e3ffe357b701ae0184931]: Commencement: Sch. 2 para. 5 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-d0f4affb437e3ffe357b701ae0184931]: Commencement: Sch. 2 para. 5 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-57f72de718e996a283728aeb6698fb44]: Commencement: Sch. 2 para. 6 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-57f72de718e996a283728aeb6698fb44]: Commencement: Sch. 2 para. 6 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

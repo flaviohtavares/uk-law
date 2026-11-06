@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.12. Appeal to a costs judge[^key-67e0c2b3187d8aa570cddea9a38dbeee]
+## 45.12. Appeal to a costs judge[^c-67e0c2b3187d8aa570cddea9a38dbeee]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67e0c2b3187d8aa570cddea9a38dbeee]: Commencement: [Rule 45.12](https://www.legislation.gov.uk/uksi/2025/909/rule/45.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-67e0c2b3187d8aa570cddea9a38dbeee]: Commencement: [Rule 45.12](https://www.legislation.gov.uk/uksi/2025/909/rule/45.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

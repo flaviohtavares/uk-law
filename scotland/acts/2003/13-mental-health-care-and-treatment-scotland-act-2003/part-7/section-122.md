@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 122. Effect of certificate under section 114(2) on order[^key-d6db591a0ecb5454c8f54d4afdfe8481]
+## 122. Effect of certificate under section 114(2) on order[^c-d6db591a0ecb5454c8f54d4afdfe8481]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6db591a0ecb5454c8f54d4afdfe8481]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2003/13/section/122) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-d6db591a0ecb5454c8f54d4afdfe8481]: Commencement: [S. 122](https://www.legislation.gov.uk/asp/2003/13/section/122) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

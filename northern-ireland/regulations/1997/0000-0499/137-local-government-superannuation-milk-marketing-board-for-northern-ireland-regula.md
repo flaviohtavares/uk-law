@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of the Environment in exercise of the powers conferred by Articles 9 and 14 of the Superannuation (Northern Ireland) Order 1972[^f00001] and now vested in it[^f00002] and of every other power enabling it in that behalf and after consultation with such associations of local authorities as appeared to it to be concerned, the local authorities with whom consultation appeared to it to be desirable and such representatives of other persons likely to be affected by the regulations as appeared to it to be appropriate, hereby makes the following regulations:—
 
-## 1. Citation, commencement and interpretation[^key-83a32cd7431fad16becde1d0d3bb0e14]
+## 1. Citation, commencement and interpretation[^c-83a32cd7431fad16becde1d0d3bb0e14]
 
 (1) These Regulations may be cited as the Local Government (Superannuation) (Milk Marketing Board for Northern Ireland) Regulations (Northern Ireland) 1997 and shall come into operation on 28th April 1997.
 
@@ -54,7 +54,7 @@ The Department of the Environment in exercise of the powers conferred by Article
 - “the principal Regulations” means the Local Government (Superannuation) Regulations (Northern Ireland) 1992[^f00005];
 - “wholly owned subsidiary” has the meaning assigned to it by Part I of the Companies (Northern Ireland) Order 1986[^f00006].
 
-## 2. Preservation of membership of scheme[^key-62410a500a8a0d5567a5d1fabc4ecc02]
+## 2. Preservation of membership of scheme[^c-62410a500a8a0d5567a5d1fabc4ecc02]
 
 Notwithstanding Regulation B5(10) of the principal Regulations, the designation—
 
@@ -83,7 +83,7 @@ These regulations have retrospective effect by virtue of Article 14(1) of the Su
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504) Art. 7(1); [S.I. 1976/424 (N.I. 6)](https://www.legislation.gov.uk/nisi/1976/424)
 
-[^key-83a32cd7431fad16becde1d0d3bb0e14]: Commencement: Reg. 1 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/137/regulation/1/1)
+[^c-83a32cd7431fad16becde1d0d3bb0e14]: Commencement: Reg. 1 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/137/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. & O. (N.I.) 1955 No. 43](https://www.legislation.gov.uk/nisro/1955/43)
 
@@ -93,6 +93,6 @@ These regulations have retrospective effect by virtue of Article 14(1) of the Su
 
 [^f00006]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032) as amended by [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)
 
-[^key-62410a500a8a0d5567a5d1fabc4ecc02]: Commencement: Reg. 2 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/137/regulation/1/1)
+[^c-62410a500a8a0d5567a5d1fabc4ecc02]: Commencement: Reg. 2 in operation at 28.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/137/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1975 No. 347](https://www.legislation.gov.uk/nisr/1975/347), [S.R. 1984 No. 355](https://www.legislation.gov.uk/nisr/1984/355) and [S.R. 1992 No. 547](https://www.legislation.gov.uk/nisr/1992/547)

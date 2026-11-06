@@ -52,18 +52,18 @@ In accordance with section 3(5) of that Act, these Regulations are made with the
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-6b11404679396d86001e84a8f86f31c9]
+### 1. Citation and commencement[^c-6b11404679396d86001e84a8f86f31c9]
 
 (1) These Regulations may be cited as the Civil Service (Other Crown Servants) Pension Scheme Regulations 2016.
 
 (2) They come into force on 1st April 2016.
 
-### 2. Interpretation[^key-681442b63375fcb998279821b7484653]
+### 2. Interpretation[^c-681442b63375fcb998279821b7484653]
 
 In these Regulations–
 
 - “the Act” means the Public Service Pensions Act 2013;
-- “GCHQ[^key-badc80aa22b5d2c6906dcc3a6d81e401] eligible person” means a person who meets the conditions of eligibility set out in regulation 2A;
+- “GCHQ[^c-badc80aa22b5d2c6906dcc3a6d81e401] eligible person” means a person who meets the conditions of eligibility set out in regulation 2A;
 - “the 2014 Regulations” means the Public Service (Civil Servants and Others) Pensions Regulations 2014[^f00002];
 - “protected function” means one of the functions or services specified by the Minister on a protected transfer;
 - “protected transfer” means a transfer of employment from one of the agencies to Government Communications Headquarters designated as such by the Minister;
@@ -77,24 +77,24 @@ In these Regulations–
 - “the Relevant Compensation Scheme” means the compensation scheme made under section 1 (superannuation schemes as respects civil servants etc.) of SA 1972 which came into operation on 1st April 1994;
 - “the agencies” means the Secret Intelligence Service and the Security Service;
 - “the exceptions committee” means the committee established from time to time to deal with complaints or appeals relating to this scheme;
-- “extraordinary members” are members of the Third Connected Scheme or the[^key-e0267f6678b7b4590dbd408d24aaa5d8] Fourth Connected Scheme with pensionable service in this scheme;
+- “extraordinary members” are members of the Third Connected Scheme or the[^c-e0267f6678b7b4590dbd408d24aaa5d8] Fourth Connected Scheme with pensionable service in this scheme;
 - “the Minister” means the Minister for the Civil Service;
 - “ordinary members” are members of this scheme who are not extraordinary members;
 - “scheme actuary” means the person appointed by the Minister under regulation 7;
 - “Scheme Pension Board” has the meaning given in regulation 5; and
 - “this scheme” means the scheme established by these Regulations.
 
-### 2A. Conditions of eligibility for a GCHQ eligible person[^key-7b10d0631827f29ca6b5b67b0e9a8ce2]
+### 2A. Conditions of eligibility for a GCHQ eligible person[^c-7b10d0631827f29ca6b5b67b0e9a8ce2]
 
 (1) A person (P) meets the conditions of eligibility if—
 
-- (a)[^key-d866fc38f9ac185654cb24311662be36] P was an active member of one of the following on the protected transfer date—
+- (a)[^c-d866fc38f9ac185654cb24311662be36] P was an active member of one of the following on the protected transfer date—
   - (i) the First Connected Scheme;
   - (ii) the Second Connected Scheme;
   - (iii) the Third Connected Scheme;
   - (iv) the Fourth Connected Scheme;
   - (v) this scheme
-- (b) P is[^key-8a2b9b034704e310ee592acd220f40bc] an active member of one of the schemes listed in sub-paragraph (a)[^key-16a811f490536c38f3faff191743a411] after the protected transfer date; and
+- (b) P is[^c-8a2b9b034704e310ee592acd220f40bc] an active member of one of the schemes listed in sub-paragraph (a)[^c-16a811f490536c38f3faff191743a411] after the protected transfer date; and
 - (c) since the protected transfer date P has been continuously employed by Government Communications Headquarters to carry out a protected function.
 
 (2) For the purpose of paragraph 1(c), P has not been continuously employed where P has had a gap in service of any period.
@@ -103,14 +103,14 @@ In these Regulations–
 
 ## PART 2 — Establishment and governance
 
-### 3. Establishment of scheme and eligibility[^key-b4551a0c7d3c5404bfece4809be49313]
+### 3. Establishment of scheme and eligibility[^c-b4551a0c7d3c5404bfece4809be49313]
 
 A scheme is established for the payment of pensions and other benefits to civil servants who are—
 
 - (a) employed by the agencies; or
 - (b) GCHQ eligible persons.
 
-### 4. Scheme manager[^key-6b87df9de20d39a207fcd2c369fa1c8b]
+### 4. Scheme manager[^c-6b87df9de20d39a207fcd2c369fa1c8b]
 
 (1) The Minister is the scheme manager for this scheme and any statutory pension scheme that is connected to it.
 
@@ -125,7 +125,7 @@ A scheme is established for the payment of pensions and other benefits to civil 
 - (a) section 14 of the Act (information about benefits) and
 - (b) directions made by the Treasury under that section.
 
-### 5. Scheme Pension Board[^key-91315cf6dc2c80906bacff212fe5440e]
+### 5. Scheme Pension Board[^c-91315cf6dc2c80906bacff212fe5440e]
 
 (1) A pension board (the “Scheme Pension Board”) is established.
 
@@ -170,7 +170,7 @@ appointed by the scheme manager.
 - (a) pay fees to, or in respect of, members of the Scheme Pension Board of such amounts as the Minister may determine; and
 - (b) reimburse members of the Scheme Pension Board in respect of any reasonable expenses incurred in performance of duties as members of the Scheme Pension Board.
 
-### 6. Scheme advisory board[^key-421a1d974ac59bbd84a995ad770ff17b]
+### 6. Scheme advisory board[^c-421a1d974ac59bbd84a995ad770ff17b]
 
 (1) A scheme advisory board is established.
 
@@ -200,7 +200,7 @@ appointed by the scheme manager.
 
 ## PART 3 — Scheme actuary, actuarial valuations and employer cost cap
 
-### 7. Scheme actuary and actuarial valuations[^key-8bae15d005fea77796912e02f15a49d7]
+### 7. Scheme actuary and actuarial valuations[^c-8bae15d005fea77796912e02f15a49d7]
 
 (1) The Minister must appoint a person (the “scheme actuary”) to provide a consulting service on actuarial matters in relation to this scheme and any connected scheme.
 
@@ -218,7 +218,7 @@ appointed by the scheme manager.
 - (a) in accordance with the Treasury directions; and
 - (b) within a time frame which enables requirements in the Treasury directions regarding dates applicable to the valuation to be met.
 
-### 8. Employer cost cap[^key-91e32e298ca9cf9400263af98f613489]
+### 8. Employer cost cap[^c-91e32e298ca9cf9400263af98f613489]
 
 (1) The employer cost cap for the scheme is 18.5% of pensionable earnings of members of this scheme.
 
@@ -236,18 +236,18 @@ appointed by the scheme manager.
 
 ## PART 4 — Operation of this Scheme
 
-### 9. Scheme to be by analogy to PSCOPS[^key-f8be4fe61b22357074387e99ebb42ed1]
+### 9. Scheme to be by analogy to PSCOPS[^c-f8be4fe61b22357074387e99ebb42ed1]
 
 (1) This scheme shall operate as if the following provisions of the 2014 Regulations applied in relation to this scheme–
 
-- (a) regulations 2 to 2C[^key-9fa68b69ae1a7795780eff7ba47f93f9], 13 to 15, 17 to 157, 160 to 178, 180(1) and 182;
+- (a) regulations 2 to 2C[^c-9fa68b69ae1a7795780eff7ba47f93f9], 13 to 15, 17 to 157, 160 to 178, 180(1) and 182;
 - (b) paragraphs 1 to 33 of Schedule 1;
 - (c) paragraphs 1 to 12, 14 to 15, 18 to 24 and 27 to 45 of Schedule 2; and
 - (d) Schedules 3 and 4.
 
 (2) Paragraph (1) is subject to regulation 10.
 
-### 10. Modifications to the 2014 Regulations insofar as they apply in relation to this scheme[^key-0cdf9c56b96aedee77183b64d13fa918]
+### 10. Modifications to the 2014 Regulations insofar as they apply in relation to this scheme[^c-0cdf9c56b96aedee77183b64d13fa918]
 
 (1) This scheme shall operate as if the 2014 Regulations applied in relation to this scheme with the following modifications.
 
@@ -258,7 +258,7 @@ appointed by the scheme manager.
 - (c) the Civil Service Appeal Board were references to the exceptions committee;
 - (d) the Civil Service Pension Board established by the 2014 Regulations were references to the Scheme Pension Board;
 - (e) elections were references to the equivalent election exercised under this scheme;
-- (f) the employer were references to Government Communications Headquarters,[^key-2b7b6194ee3af00828335860da55cd76] the Secret Intelligence Service or the Security Service;
+- (f) the employer were references to Government Communications Headquarters,[^c-2b7b6194ee3af00828335860da55cd76] the Secret Intelligence Service or the Security Service;
 - (g) the members of the scheme established by regulation 3 of the 2014 Regulations were references to members of this scheme;
 - (h) options were references to the equivalent options exercised under this scheme;
 - (i) pension were references to pension under this scheme;
@@ -287,7 +287,7 @@ appointed by the scheme manager.
 
 > - “special post” means those overseas roles in the Secret Intelligence Service designated as special posts by the Secret Intelligence Service from time to time;
 
-(5)[^key-833d559589173e42336e864d8729c831] For regulation 13(1)(a) there were substituted—
+(5)[^c-833d559589173e42336e864d8729c831] For regulation 13(1)(a) there were substituted—
 
 > - (a) permanent or fixed term employment as a civil servant by the Secret Intelligence Service or the Security Service; and
 > - (aa) permanent or fixed term employment as a civil servant by Government Communications Headquarters held by a GCHQ eligible person, where the scheme relates to that person by virtue of that employment.
@@ -369,7 +369,7 @@ appointed by the scheme manager.
   > | £150,001 and above | 7.60% | 7.60% |
 - (d) for the table headed “Scheme Year 1st April 2018 to 31st March 2019” there was substituted–
 
-  > Scheme Year 1st April 2018 to 31st March 2019 and Scheme Year 1st April 2019 to 31st March 2020[^key-8d9495323880450f73d75cfe6bdbec70]
+  > Scheme Year 1st April 2018 to 31st March 2019 and Scheme Year 1st April 2019 to 31st March 2020[^c-8d9495323880450f73d75cfe6bdbec70]
   >
   > | Annualised rate of pensionable earnings | Member contribution rates for transition members from Section II of the First, Second and Fourth Connected Schemes | Member contributions rate for other members |
   > | --- | --- | --- |
@@ -379,9 +379,9 @@ appointed by the scheme manager.
   > | £51,516 to but not including £150,001 | 6.90% | 6.90% |
   > | £150,001 and above | 7.60% | 7.60% |
 
-  [^key-f95dd8d2557421c1b54a5949f8334c93]...
-- (e)[^key-fa2a1da13a80f7dd15ec14e0d8559204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-e6dab7f0408c7c0a32e4d6a1bfbdbd75] in paragraph (8), for the table headed “Scheme Year 1st April 2020 to 31st March 2021” there was substituted—
+  [^c-f95dd8d2557421c1b54a5949f8334c93]...
+- (e)[^c-fa2a1da13a80f7dd15ec14e0d8559204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-e6dab7f0408c7c0a32e4d6a1bfbdbd75] in paragraph (8), for the table headed “Scheme Year 1st April 2020 to 31st March 2021” there was substituted—
 
   > Scheme Year 1st April 2020 to 31st March 2021 and subsequently
   >
@@ -418,7 +418,7 @@ appointed by the scheme manager.
 (15) In Schedule 1–
 
 - (a) the references in that Schedule to PCSPS–
-  - (i) in paragraphs 1 to 24 were references to the First, Second, Third[^key-39d909394908cd933de8fa63657d0a41] and Fourth Connected Schemes; and
+  - (i) in paragraphs 1 to 24 were references to the First, Second, Third[^c-39d909394908cd933de8fa63657d0a41] and Fourth Connected Schemes; and
   - (ii) in paragraphs 25 to 33 were references to the First and Second Connected Schemes;
 - (b) in paragraph 3(1)–
   - (i) after “limit of extra pension” there was inserted “for both ordinary members and extraordinary members”;
@@ -444,7 +444,7 @@ appointed by the scheme manager.
   >
   > (2) For the purpose of sub-paragraph (1)(b), after the closing date for the Third Connected Scheme, P is not on a gap in service while P is in pensionable public service.
   >
-  > (3) In sub-paragraph (2), “the closing date for the Third Connected Scheme” means 31st March 2022[^key-576b7edc1b11ce43fccc601af11ad06c] .
+  > (3) In sub-paragraph (2), “the closing date for the Third Connected Scheme” means 31st March 2022[^c-576b7edc1b11ce43fccc601af11ad06c] .
 
   .
 - (c) in paragraph 8, after the definition of “active member of the PCSPS” there were inserted–
@@ -467,7 +467,7 @@ appointed by the scheme manager.
 
 ## PART 5 — Extraordinary members and buy-out elections
 
-### 11. Post-60 buy-out election[^key-f46a21b270209de1850e961b48fc9139]
+### 11. Post-60 buy-out election[^c-f46a21b270209de1850e961b48fc9139]
 
 (1) This regulation applies in respect of extraordinary members who–
 
@@ -494,7 +494,7 @@ appointed by the scheme manager.
 
 (7) The employer must make the payment to the scheme manager before the end of the month after they have been notified of the correct amount by the scheme manager.
 
-### 12. Pre-60 buy-out election[^key-7a1ebc47edb598125c24f3766d154f18]
+### 12. Pre-60 buy-out election[^c-7a1ebc47edb598125c24f3766d154f18]
 
 (1) This regulation applies in respect of extraordinary members who–
 
@@ -559,60 +559,60 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-6b11404679396d86001e84a8f86f31c9]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-6b11404679396d86001e84a8f86f31c9]: Commencement: Reg. 1 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-681442b63375fcb998279821b7484653]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-681442b63375fcb998279821b7484653]: Commencement: Reg. 2 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-badc80aa22b5d2c6906dcc3a6d81e401]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/326/regulation/2) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [3](https://www.legislation.gov.uk/uksi/2019/906/regulation/3)
+[^c-badc80aa22b5d2c6906dcc3a6d81e401]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/326/regulation/2) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [3](https://www.legislation.gov.uk/uksi/2019/906/regulation/3)
 
 [^f00002]: Footnote: [S.I. 2014/1964](https://www.legislation.gov.uk/uksi/2014/1964) as amended, most recently by [S.I 2015/602](https://www.legislation.gov.uk/ukpga/2015/602).
 
 [^f00003]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-e0267f6678b7b4590dbd408d24aaa5d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/326/regulation/2) inserted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/2)
+[^c-e0267f6678b7b4590dbd408d24aaa5d8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/326/regulation/2) inserted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/2)
 
-[^key-7b10d0631827f29ca6b5b67b0e9a8ce2]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [4](https://www.legislation.gov.uk/uksi/2019/906/regulation/4)
+[^c-7b10d0631827f29ca6b5b67b0e9a8ce2]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [4](https://www.legislation.gov.uk/uksi/2019/906/regulation/4)
 
-[^key-d866fc38f9ac185654cb24311662be36]: Textual amendment: [Reg. 2A(1)(a)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/a) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/a)
+[^c-d866fc38f9ac185654cb24311662be36]: Textual amendment: [Reg. 2A(1)(a)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/a) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/a)
 
-[^key-8a2b9b034704e310ee592acd220f40bc]: Textual amendment: Word in [reg. 2A(1)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/b/i)
+[^c-8a2b9b034704e310ee592acd220f40bc]: Textual amendment: Word in [reg. 2A(1)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/b/i)
 
-[^key-16a811f490536c38f3faff191743a411]: Textual amendment: Words in [reg. 2A(1)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/b/ii)
+[^c-16a811f490536c38f3faff191743a411]: Textual amendment: Words in [reg. 2A(1)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/2A/1/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/3/b/ii)
 
-[^key-b4551a0c7d3c5404bfece4809be49313]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/326/regulation/3) substituted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2019/906/regulation/5)
+[^c-b4551a0c7d3c5404bfece4809be49313]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/326/regulation/3) substituted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2019/906/regulation/5)
 
-[^key-6b87df9de20d39a207fcd2c369fa1c8b]: Commencement: Reg. 4 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-6b87df9de20d39a207fcd2c369fa1c8b]: Commencement: Reg. 4 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-91315cf6dc2c80906bacff212fe5440e]: Commencement: Reg. 5 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-91315cf6dc2c80906bacff212fe5440e]: Commencement: Reg. 5 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-421a1d974ac59bbd84a995ad770ff17b]: Commencement: Reg. 6 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-421a1d974ac59bbd84a995ad770ff17b]: Commencement: Reg. 6 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-8bae15d005fea77796912e02f15a49d7]: Commencement: Reg. 7 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-8bae15d005fea77796912e02f15a49d7]: Commencement: Reg. 7 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-91e32e298ca9cf9400263af98f613489]: Commencement: Reg. 8 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-91e32e298ca9cf9400263af98f613489]: Commencement: Reg. 8 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-f8be4fe61b22357074387e99ebb42ed1]: Commencement: Reg. 9 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-f8be4fe61b22357074387e99ebb42ed1]: Commencement: Reg. 9 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-9fa68b69ae1a7795780eff7ba47f93f9]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/326/regulation/9/1/a) substituted (23.5.2019 with effect from 1.4.2016) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2019/906/regulation/6)
+[^c-9fa68b69ae1a7795780eff7ba47f93f9]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2016/326/regulation/9/1/a) substituted (23.5.2019 with effect from 1.4.2016) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2019/906/regulation/6)
 
-[^key-0cdf9c56b96aedee77183b64d13fa918]: Commencement: Reg. 10 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-0cdf9c56b96aedee77183b64d13fa918]: Commencement: Reg. 10 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-2b7b6194ee3af00828335860da55cd76]: Textual amendment: Words in [reg. 10(2)(f)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/2/f) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [7(a)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/a)
+[^c-2b7b6194ee3af00828335860da55cd76]: Textual amendment: Words in [reg. 10(2)(f)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/2/f) inserted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [7(a)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/a)
 
-[^key-833d559589173e42336e864d8729c831]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/5) substituted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [7(b)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/b)
+[^c-833d559589173e42336e864d8729c831]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/5) substituted (23.5.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/c), [7(b)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/b)
 
-[^key-8d9495323880450f73d75cfe6bdbec70]: Textual amendment: Words in [reg. 10(12)(d)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/d) Table heading inserted (23.5.2019 with effect from 1.4.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/b), [7(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/c)
+[^c-8d9495323880450f73d75cfe6bdbec70]: Textual amendment: Words in [reg. 10(12)(d)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/d) Table heading inserted (23.5.2019 with effect from 1.4.2019) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2019 (S.I. 2019/906)](https://www.legislation.gov.uk/uksi/2019/906), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/906/regulation/1/2/b), [7(c)](https://www.legislation.gov.uk/uksi/2019/906/regulation/7/c)
 
-[^key-f95dd8d2557421c1b54a5949f8334c93]: Textual amendment: Word in [reg. 10(12)(d)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/d) omitted (1.4.2020) by virtue of [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/a)
+[^c-f95dd8d2557421c1b54a5949f8334c93]: Textual amendment: Word in [reg. 10(12)(d)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/d) omitted (1.4.2020) by virtue of [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/a)
 
-[^key-fa2a1da13a80f7dd15ec14e0d8559204]: Textual amendment: [Reg. 10(12)(e)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/e) omitted (1.4.2020) by virtue of [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/b)
+[^c-fa2a1da13a80f7dd15ec14e0d8559204]: Textual amendment: [Reg. 10(12)(e)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/e) omitted (1.4.2020) by virtue of [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/b)
 
-[^key-e6dab7f0408c7c0a32e4d6a1bfbdbd75]: Textual amendment: [Reg. 10(12)(f)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/f)[(g)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/g) inserted (1.4.2020) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/c)
+[^c-e6dab7f0408c7c0a32e4d6a1bfbdbd75]: Textual amendment: [Reg. 10(12)(f)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/f)[(g)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/12/g) inserted (1.4.2020) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2020 (S.I. 2020/225)](https://www.legislation.gov.uk/uksi/2020/225), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/225/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/225/regulation/3/c)
 
-[^key-39d909394908cd933de8fa63657d0a41]: Textual amendment: Word in [reg. 10(15)(a)(i)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/15/a/i) inserted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/4/a)
+[^c-39d909394908cd933de8fa63657d0a41]: Textual amendment: Word in [reg. 10(15)(a)(i)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/15/a/i) inserted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/4/a)
 
-[^key-576b7edc1b11ce43fccc601af11ad06c]: Textual amendment: Words in [reg. 10(16)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/16/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/4/b)
+[^c-576b7edc1b11ce43fccc601af11ad06c]: Textual amendment: Words in [reg. 10(16)(b)](https://www.legislation.gov.uk/uksi/2016/326/regulation/10/16/b) substituted (1.4.2022) by [The Civil Service (Other Crown Servants) Pension Scheme (Amendment) Regulations 2022 (S.I. 2022/334)](https://www.legislation.gov.uk/uksi/2022/334), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/334/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2022/334/regulation/2/4/b)
 
-[^key-f46a21b270209de1850e961b48fc9139]: Commencement: Reg. 11 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-f46a21b270209de1850e961b48fc9139]: Commencement: Reg. 11 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
 
-[^key-7a1ebc47edb598125c24f3766d154f18]: Commencement: Reg. 12 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)
+[^c-7a1ebc47edb598125c24f3766d154f18]: Commencement: Reg. 12 in force at 1.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/326/regulation/1/2)

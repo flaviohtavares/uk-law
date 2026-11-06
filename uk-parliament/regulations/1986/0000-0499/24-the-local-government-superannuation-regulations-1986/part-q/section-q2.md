@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q2. Change of local government employment and fund authority[^key-f6e7bec41c2185e2bd38c4345229d8ee]
+## Q2. Change of local government employment and fund authority[^c-f6e7bec41c2185e2bd38c4345229d8ee]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ the previous fund authority shall, subject to the following provisions of these 
 
 ## Annotations
 
-[^key-f6e7bec41c2185e2bd38c4345229d8ee]: Commencement: [Reg. Q2](https://www.legislation.gov.uk/uksi/1986/24/regulation/Q2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-f6e7bec41c2185e2bd38c4345229d8ee]: Commencement: [Reg. Q2](https://www.legislation.gov.uk/uksi/1986/24/regulation/Q2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00082]: Footnote: [1963 c.33](https://www.legislation.gov.uk/ukpga/1963/33).

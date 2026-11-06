@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Convening meetings of the governing body[^key-3241d9fb2dc1f4170231dc19e115b207]
+## 57. Convening meetings of the governing body[^c-3241d9fb2dc1f4170231dc19e115b207]
 
 *Extent: E+W*
 
 (1) The governing body must hold at least one meeting during every school term.
 
-(1A)[^key-00b158ace0201028292d471fe15be5a2] The governing body may decide to hold a meeting by remote access provided that the following conditions are met—
+(1A)[^c-00b158ace0201028292d471fe15be5a2] The governing body may decide to hold a meeting by remote access provided that the following conditions are met—
 
 - (a) the participants will be able to fully make representations or discharge their functions (as the case may be);
 - (b) the participants agree to the meeting being held using remote access;
@@ -64,6 +64,6 @@ is to be considered.
 
 ## Annotations
 
-[^key-3241d9fb2dc1f4170231dc19e115b207]: Commencement: Reg. 57 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-3241d9fb2dc1f4170231dc19e115b207]: Commencement: Reg. 57 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
-[^key-00b158ace0201028292d471fe15be5a2]: Textual amendment: [Reg. 57(1A)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/57/1A) inserted (18.12.2020) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1328)](https://www.legislation.gov.uk/wsi/2020/1328), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1328/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2020/1328/regulation/3/2)
+[^c-00b158ace0201028292d471fe15be5a2]: Textual amendment: [Reg. 57(1A)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/57/1A) inserted (18.12.2020) by [The Federation of Maintained Schools (Wales) (Amendment) Regulations 2020 (S.I. 2020/1328)](https://www.legislation.gov.uk/wsi/2020/1328), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1328/regulation/1), [3(2)](https://www.legislation.gov.uk/wsi/2020/1328/regulation/3/2)

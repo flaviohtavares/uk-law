@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Intermittent custody[^key-60e7cec58a1d68925dda0f7406b9df84]
+## 31. Intermittent custody[^c-60e7cec58a1d68925dda0f7406b9df84]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60e7cec58a1d68925dda0f7406b9df84]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2004/28/section/31) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 40(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/40/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-60e7cec58a1d68925dda0f7406b9df84]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2004/28/section/31) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 40(2)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/40/2); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)

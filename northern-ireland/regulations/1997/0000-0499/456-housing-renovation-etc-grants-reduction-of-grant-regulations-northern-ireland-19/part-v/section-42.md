@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Determination of grant income[^key-95ccc96d77e0dfc58491a1bd48b5208f]
+## 42. Determination of grant income[^c-95ccc96d77e0dfc58491a1bd48b5208f]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95ccc96d77e0dfc58491a1bd48b5208f]: Commencement: Reg. 42 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-95ccc96d77e0dfc58491a1bd48b5208f]: Commencement: Reg. 42 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

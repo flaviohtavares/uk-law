@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.22. Non-disclosure of Part 36 offers and payments[^key-80838474f749f7ae040b777947f28e75]
+## 52.22. Non-disclosure of Part 36 offers and payments[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
-(1) Unless the appeal court otherwise orders, the[^key-f6a59ade47615859b91ee34753f6f1d6] fact that a Part 36 offer or payment into court has been made must not be disclosed to any judge of the appeal court who is to hear or determine—
+(1) Unless the appeal court otherwise orders, the[^c-f6a59ade47615859b91ee34753f6f1d6] fact that a Part 36 offer or payment into court has been made must not be disclosed to any judge of the appeal court who is to hear or determine—
 
 - (a) an application for permission to appeal; or
 - (b) an appeal,
@@ -35,6 +35,6 @@ until all questions (other than costs) have been determined.
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-f6a59ade47615859b91ee34753f6f1d6]: Textual amendment: Words in rule 52.22(1) substituted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/1)
+[^c-f6a59ade47615859b91ee34753f6f1d6]: Textual amendment: Words in rule 52.22(1) substituted (6.4.2020) by [The Civil Procedure (Amendment) Rules 2020 (S.I. 2020/82)](https://www.legislation.gov.uk/uksi/2020/82), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2020/82/rule/5/1)

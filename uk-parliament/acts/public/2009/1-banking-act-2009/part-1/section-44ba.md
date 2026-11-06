@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44BA. Property transfer instruments and special bail-in provision: supplementary matters[^key-8dbac67f592ff5172d7dc5c998b67582][^key-8a7044acb31a6bd5e8e3a995810d10f0]
+## 44BA. Property transfer instruments and special bail-in provision: supplementary matters[^c-8dbac67f592ff5172d7dc5c998b67582][^c-8a7044acb31a6bd5e8e3a995810d10f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ references in sections 48B (except in subsection (9)), 48L, 48O and 48U to a ban
 
 ## Annotations
 
-[^key-8dbac67f592ff5172d7dc5c998b67582]: Textual amendment: S. 44BA inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/12/1)
+[^c-8dbac67f592ff5172d7dc5c998b67582]: Textual amendment: S. 44BA inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2016/1239/article/12/1)
 
-[^key-8a7044acb31a6bd5e8e3a995810d10f0]: Textual amendment: Ss. 44A-44C inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-8a7044acb31a6bd5e8e3a995810d10f0]: Textual amendment: Ss. 44A-44C inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5/3); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

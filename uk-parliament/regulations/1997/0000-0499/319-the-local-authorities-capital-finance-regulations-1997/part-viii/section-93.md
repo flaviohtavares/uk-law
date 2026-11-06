@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Amount of reduction of receipts derived from relevant disposals[^key-1b3e8af64a8d5c5eea51d7328cd29d0a]
+## 93. Amount of reduction of receipts derived from relevant disposals[^c-1b3e8af64a8d5c5eea51d7328cd29d0a]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ is equal to or exceeds 50 per cent. of the authority’s estimate of the total c
 
 ## Annotations
 
-[^key-1b3e8af64a8d5c5eea51d7328cd29d0a]: Commencement: Reg. 93 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-1b3e8af64a8d5c5eea51d7328cd29d0a]: Commencement: Reg. 93 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00083]: Footnote: [S.I. 1995/849](https://www.legislation.gov.uk/uksi/1995/849). There are amendments which are not relevant to this regulation.

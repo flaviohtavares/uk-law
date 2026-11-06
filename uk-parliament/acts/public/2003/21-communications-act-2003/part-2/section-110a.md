@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Penalties for contravention of code restrictions[^key-e872157b404878da471c1f33064df012][^key-db2fd6092e982532885567cedb7959e3]
+## 110A. Penalties for contravention of code restrictions[^c-e872157b404878da471c1f33064df012][^c-db2fd6092e982532885567cedb7959e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
+[^c-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
 
-[^key-db2fd6092e982532885567cedb7959e3]: Textual amendment: S. 110A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/69) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [15](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/15))
+[^c-db2fd6092e982532885567cedb7959e3]: Textual amendment: S. 110A inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/69) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2), [15](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/15))

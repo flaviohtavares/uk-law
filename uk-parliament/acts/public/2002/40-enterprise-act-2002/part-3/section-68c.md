@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68C. Further duty to make references in relation to anticipated mergers[^key-f78eda3a46e82fb17efdb7ed362a0992]
+## 68C. Further duty to make references in relation to anticipated mergers[^c-f78eda3a46e82fb17efdb7ed362a0992]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ but this is subject to subsections (2) and (3).
 - (a) the arrangements concerned are not sufficiently far advanced, or are not sufficiently likely to proceed, to justify the making of a reference, or
 - (b) any relevant customer benefits in relation to the creation of the relevant merger situation concerned outweigh the prejudice mentioned in subsection (1)(b).
 
-(3)[^key-b2f09d8c56b5b56273284e764b89b305] The CMA may not make a reference under this section—
+(3)[^c-b2f09d8c56b5b56273284e764b89b305] The CMA may not make a reference under this section—
 
 - (a) in any circumstances mentioned in section 33(3)(za) to (b) or (d), or
 - (b) if the arrangements concerned are being, or have been, dealt with in connection with a reference under section 68B.
@@ -44,6 +44,6 @@ but this is subject to subsections (2) and (3).
 
 ## Annotations
 
-[^key-f78eda3a46e82fb17efdb7ed362a0992]: Textual amendment: [Ss. 68A-68F](https://www.legislation.gov.uk/ukpga/2002/40/section/68A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/2)
+[^c-f78eda3a46e82fb17efdb7ed362a0992]: Textual amendment: [Ss. 68A-68F](https://www.legislation.gov.uk/ukpga/2002/40/section/68A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/2)
 
-[^key-b2f09d8c56b5b56273284e764b89b305]: Textual amendment: [S. 68C(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/68C/3) substituted (24.7.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/5)
+[^c-b2f09d8c56b5b56273284e764b89b305]: Textual amendment: [S. 68C(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/68C/3) substituted (24.7.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/3), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2024/13/schedule/6/paragraph/5)

@@ -24,8 +24,8 @@ summary: ''
 
 (2) Section 62 of that Act (special provision with respect to certain dangerous or intractable waste) shall be omitted.
 
-(3)[^key-af2e126dc8a1db1319b6a706b7324fb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-af2e126dc8a1db1319b6a706b7324fb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af2e126dc8a1db1319b6a706b7324fb0]: Textual amendment: [Reg. 72(3)](https://www.legislation.gov.uk/uksi/2005/894/regulation/72/3) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1540/regulation/8)
+[^c-af2e126dc8a1db1319b6a706b7324fb0]: Textual amendment: [Reg. 72(3)](https://www.legislation.gov.uk/uksi/2005/894/regulation/72/3) omitted (31.12.2020) by virtue of [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1540/regulation/8)

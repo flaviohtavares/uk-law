@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — PROTECTIVE WORKS[^key-f7e971fe9c70f5723dd47a0e36803beb]
+## SCHEDULE 11 — PROTECTIVE WORKS[^c-f7e971fe9c70f5723dd47a0e36803beb]
 
 *Extent: E+W*
 
 Article 20
 
-[^key-f7e971fe9c70f5723dd47a0e36803beb]
+[^c-f7e971fe9c70f5723dd47a0e36803beb]
 
 - Part of Work No. 5(c)— works to protect the existing river wall.
 - Work No. 5(d)— works to strengthen or support the existing river wall landward of the Putney Embankment Foreshore temporary slipway.
@@ -45,4 +45,4 @@ Article 20
 
 ## Annotations
 
-[^key-f7e971fe9c70f5723dd47a0e36803beb]: Commencement: Sch. 11 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-f7e971fe9c70f5723dd47a0e36803beb]: Commencement: Sch. 11 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

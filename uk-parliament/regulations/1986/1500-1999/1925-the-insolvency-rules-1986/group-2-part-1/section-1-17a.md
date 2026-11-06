@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.17A. Procedure for admission of creditors' claims for voting purposes[^key-fdf6d7980ec1c265f31edfb3155437f4]
+## 1.17A. Procedure for admission of creditors' claims for voting purposes[^c-fdf6d7980ec1c265f31edfb3155437f4]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ The court’s power to make an order under this paragraph is exercisable only if
 
 ## Annotations
 
-[^key-fdf6d7980ec1c265f31edfb3155437f4]: Textual amendment: Rules 1.17, 1.17A substituted for rule 1.17 (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/8) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))
+[^c-fdf6d7980ec1c265f31edfb3155437f4]: Textual amendment: Rules 1.17, 1.17A substituted for rule 1.17 (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/rule/1/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/8) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/rule/3/2))

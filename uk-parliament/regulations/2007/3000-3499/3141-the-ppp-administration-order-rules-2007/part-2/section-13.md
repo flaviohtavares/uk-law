@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Notice and advertisement of PPP administration order[^key-6355864417c4cfa8b82e0bf1b7cb7a2d]
+## 13. Notice and advertisement of PPP administration order[^c-6355864417c4cfa8b82e0bf1b7cb7a2d]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6355864417c4cfa8b82e0bf1b7cb7a2d]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2007/3141/rule/13) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-6355864417c4cfa8b82e0bf1b7cb7a2d]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2007/3141/rule/13) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

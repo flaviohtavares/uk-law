@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Guidance[^key-688eacc88801fea307eee02d9e8c4e00]
+## 21. Guidance[^c-688eacc88801fea307eee02d9e8c4e00]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688eacc88801fea307eee02d9e8c4e00]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/4/section/21) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/c)
+[^c-688eacc88801fea307eee02d9e8c4e00]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/4/section/21) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/c)

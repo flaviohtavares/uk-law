@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 846. Transfers where provision subject to transfer pricing but section 147(3) or (5) does not apply[^key-1141395ce1bf83a0b846fae83707a66b]
+## 846. Transfers where provision subject to transfer pricing but section 147(3) or (5) does not apply[^c-1141395ce1bf83a0b846fae83707a66b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ See also section 151(3) of that Act for provision about applying the arm’s len
 
 ## Annotations
 
-[^key-1141395ce1bf83a0b846fae83707a66b]: Textual amendment: [S. 846](https://www.legislation.gov.uk/ukpga/2009/4/section/846) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/5), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)
+[^c-1141395ce1bf83a0b846fae83707a66b]: Textual amendment: [S. 846](https://www.legislation.gov.uk/ukpga/2009/4/section/846) substituted (with effect in accordance with Sch. 6 para. 28 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 25(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/25/5), [28](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/28)

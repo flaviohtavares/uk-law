@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Power to regulate app stores[^key-8e902ceee2239aa65946b8bd46c5a70f][^key-847dda7817d3eb5a9f3293e6c769d976]
+## 215. Power to regulate app stores[^c-8e902ceee2239aa65946b8bd46c5a70f][^c-847dda7817d3eb5a9f3293e6c769d976]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (a) persons who appear to the Secretary of State to represent providers of app stores,
 - (b) persons who appear to the Secretary of State to represent the interests of children (generally or with particular reference to online safety matters),
 - (c) OFCOM,
-- (d) the Information Commission[^key-b11f86f4dc683f80ccfe7c99d47be3ce],
+- (d) the Information Commission[^c-b11f86f4dc683f80ccfe7c99d47be3ce],
 - (e) the Children’s Commissioner, and
 - (f) such other persons as the Secretary of State considers appropriate.
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8e902ceee2239aa65946b8bd46c5a70f]: Commencement: S. 215 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8e902ceee2239aa65946b8bd46c5a70f]: Commencement: S. 215 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-847dda7817d3eb5a9f3293e6c769d976]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2023/50/section/215) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z31)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z31)
+[^c-847dda7817d3eb5a9f3293e6c769d976]: Commencement: [S. 215](https://www.legislation.gov.uk/ukpga/2023/50/section/215) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z31)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z31)
 
-[^key-b11f86f4dc683f80ccfe7c99d47be3ce]: Textual amendment: Words in [s. 215(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/215/4/d) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(m)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/m); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-b11f86f4dc683f80ccfe7c99d47be3ce]: Textual amendment: Words in [s. 215(4)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/215/4/d) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(m)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/m); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

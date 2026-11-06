@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. EEA nationals.[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]
+## 80. EEA nationals.[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1df5d3c60b1d68b49c56c783ea2ad9bf]: Textual amendment: Pt. IV repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/114/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/41/schedule/6) and (7.3.2005) S.I. 2005/565, arts. 1(2), 9 (with arts. 3-9)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/6))
+[^c-1df5d3c60b1d68b49c56c783ea2ad9bf]: Textual amendment: Pt. IV repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/114/1), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/41/schedule/6) and (7.3.2005) S.I. 2005/565, arts. 1(2), 9 (with arts. 3-9)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2003/754/schedule/2/paragraph/6))

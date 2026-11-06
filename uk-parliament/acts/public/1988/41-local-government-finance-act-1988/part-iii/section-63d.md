@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63D. Disclosure of valuation information to Northern Ireland rating officials[^key-834f6a13e2e8a3070ff3db9e4ae2d66a]
+## 63D. Disclosure of valuation information to Northern Ireland rating officials[^c-834f6a13e2e8a3070ff3db9e4ae2d66a]
 
 *Extent: E+W+N.I.*
 
@@ -71,4 +71,4 @@ unless the use of the information for another purpose or the further disclosure 
 
 ## Annotations
 
-[^key-834f6a13e2e8a3070ff3db9e4ae2d66a]: Textual amendment: [S. 63D](https://www.legislation.gov.uk/ukpga/1988/41/section/63D) inserted (26.12.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 11](https://www.legislation.gov.uk/ukpga/2023/53/section/11), [19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)
+[^c-834f6a13e2e8a3070ff3db9e4ae2d66a]: Textual amendment: [S. 63D](https://www.legislation.gov.uk/ukpga/1988/41/section/63D) inserted (26.12.2023) by [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 11](https://www.legislation.gov.uk/ukpga/2023/53/section/11), [19(3)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/3)

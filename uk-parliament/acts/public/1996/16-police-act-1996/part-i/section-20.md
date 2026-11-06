@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Questions on police matters at council meetings.[^key-95d4dddf15e9a19a3a4bfe7e9bb16c47]
+## 20. Questions on police matters at council meetings.[^c-95d4dddf15e9a19a3a4bfe7e9bb16c47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d4dddf15e9a19a3a4bfe7e9bb16c47]: Textual amendment: Ss. 19-21 omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/19); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-95d4dddf15e9a19a3a4bfe7e9bb16c47]: Textual amendment: Ss. 19-21 omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 19](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/19); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)

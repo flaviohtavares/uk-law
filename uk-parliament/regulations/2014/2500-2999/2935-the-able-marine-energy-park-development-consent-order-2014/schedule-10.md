@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 10 — LIMITS OF HARBOUR[^key-70221378ccfcb624d912cbc099e64c3f]
+## SCHEDULE 10 — LIMITS OF HARBOUR[^c-70221378ccfcb624d912cbc099e64c3f]
 
 *Extent: E+W+S*
 
 Article 2
 
-**1.**[^key-6960bea153a6eec0a267e78d4f612f41] The limits of the harbour are the boundaries of the polygon whose vertices are given by the co-ordinates in the Table and shown with the corresponding labels on the Plan.
+**1.**[^c-6960bea153a6eec0a267e78d4f612f41] The limits of the harbour are the boundaries of the polygon whose vertices are given by the co-ordinates in the Table and shown with the corresponding labels on the Plan.
 
-Table[^key-9c05ddc5f6162f3942c0f23adf5ee507]
+Table[^c-9c05ddc5f6162f3942c0f23adf5ee507]
 
 | Latitude | Longitude | Label |
 | --- | --- | --- |
@@ -39,8 +39,8 @@ Table[^key-9c05ddc5f6162f3942c0f23adf5ee507]
 
 ## Annotations
 
-[^key-70221378ccfcb624d912cbc099e64c3f]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2014/2935/schedule/10) plan substituted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [art. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/881/schedule/1)
+[^c-70221378ccfcb624d912cbc099e64c3f]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/uksi/2014/2935/schedule/10) plan substituted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [art. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/881/schedule/1)
 
-[^key-6960bea153a6eec0a267e78d4f612f41]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2014/2935/schedule/10/paragraph/1) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-6960bea153a6eec0a267e78d4f612f41]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2014/2935/schedule/10/paragraph/1) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
 
-[^key-9c05ddc5f6162f3942c0f23adf5ee507]: Textual amendment: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2014/2935/schedule/10/paragraph/1) table substituted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/881/article/2/4/a)
+[^c-9c05ddc5f6162f3942c0f23adf5ee507]: Textual amendment: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2014/2935/schedule/10/paragraph/1) table substituted (6.8.2022) by [The Able Marine Energy Park Development Consent (Amendment) Order 2022 (S.I. 2022/881)](https://www.legislation.gov.uk/uksi/2022/881), [arts. 1](https://www.legislation.gov.uk/uksi/2022/881/article/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2022/881/article/2/4/a)

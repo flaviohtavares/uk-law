@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Substitution of Schedule 2 (matters to be taken into account in giving a direction under regulation 4(2))[^key-843b74c84c9c1b271a54454ed15f1691]
+## 57. Substitution of Schedule 2 (matters to be taken into account in giving a direction under regulation 4(2))[^c-843b74c84c9c1b271a54454ed15f1691]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For Schedule 2, substitute the schedule that is set out in Schedule 6 to these R
 
 ## Annotations
 
-[^key-843b74c84c9c1b271a54454ed15f1691]: Commencement: Reg. 57 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-843b74c84c9c1b271a54454ed15f1691]: Commencement: Reg. 57 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

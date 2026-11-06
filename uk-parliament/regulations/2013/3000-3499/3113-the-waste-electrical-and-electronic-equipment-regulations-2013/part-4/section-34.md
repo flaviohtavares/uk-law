@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Collection Arrangements[^key-66b37a21b5089850738b6c87b42f326c][^key-02f5c380c1981cf0c4625327a4516019]
+## 34. Collection Arrangements[^c-66b37a21b5089850738b6c87b42f326c][^c-02f5c380c1981cf0c4625327a4516019]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) prevents the operator of the designated collection facility from contacting more than one scheme operator before taking action under paragraph (1);
 - (b) prevents the scheme operator required to take action under paragraph (1) from entering into an arrangement with other scheme operators to arrange for the collection and treatment of the deposited WEEE;
-- (ba)[^key-dbdd52a8fe45f101421e9cbcd0034cff] prevents the fulfilment by an approved PBS (within the meaning of regulation 34B) of a requirement under paragraph (1) to arrange for the collection and treatment of the deposited WEEE;
+- (ba)[^c-dbdd52a8fe45f101421e9cbcd0034cff] prevents the fulfilment by an approved PBS (within the meaning of regulation 34B) of a requirement under paragraph (1) to arrange for the collection and treatment of the deposited WEEE;
 - (c) obliges the scheme operator required to take action under paragraph (1) to collect and treat any WEEE which the operator of the designated collection facility is approved to retain under regulation 53.
 
 (4) In this regulation—
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-66b37a21b5089850738b6c87b42f326c]: Commencement: Reg. 34 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-66b37a21b5089850738b6c87b42f326c]: Commencement: Reg. 34 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-02f5c380c1981cf0c4625327a4516019]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34) substituted (1.3.2018) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2018 (S.I. 2018/102)](https://www.legislation.gov.uk/uksi/2018/102), [regs. 1](https://www.legislation.gov.uk/uksi/2018/102/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/102/regulation/2/3)
+[^c-02f5c380c1981cf0c4625327a4516019]: Textual amendment: [Reg. 34](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34) substituted (1.3.2018) by [The Waste Electrical and Electronic Equipment (Amendment) Regulations 2018 (S.I. 2018/102)](https://www.legislation.gov.uk/uksi/2018/102), [regs. 1](https://www.legislation.gov.uk/uksi/2018/102/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/102/regulation/2/3)
 
-[^key-dbdd52a8fe45f101421e9cbcd0034cff]: Textual amendment: [Reg. 34(3)(ba)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34/3/ba) inserted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1214/regulation/10)
+[^c-dbdd52a8fe45f101421e9cbcd0034cff]: Textual amendment: [Reg. 34(3)(ba)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/34/3/ba) inserted (1.1.2019) by [The Waste Electrical and Electronic Equipment (Amendment) (No. 2) Regulations 2018 (S.I. 2018/1214)](https://www.legislation.gov.uk/uksi/2018/1214), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1214/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/1214/regulation/10)

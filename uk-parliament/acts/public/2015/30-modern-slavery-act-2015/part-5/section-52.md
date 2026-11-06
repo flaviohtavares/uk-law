@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Duty to notify Secretary of State about suspected victims of slavery or human trafficking[^key-c3de505af8d3f3ea4dd1368b066b7e80]
+## 52. Duty to notify Secretary of State about suspected victims of slavery or human trafficking[^c-c3de505af8d3f3ea4dd1368b066b7e80]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ unless the person consents to the inclusion of the information.
 - (h) the Greater London Authority,
 - (i) the Common Council of the City of London,
 - (j) the Council of the Isles of Scilly,
-- (k)[^key-f7e4067ff349c526a56edd28120981b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-f7e4067ff349c526a56edd28120981b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The Secretary of State may by regulations amend subsection (5) so as to—
 
@@ -60,6 +60,6 @@ unless the person consents to the inclusion of the information.
 
 ## Annotations
 
-[^key-c3de505af8d3f3ea4dd1368b066b7e80]: Commencement: S. 52 in force at 1.11.2015 by [S.I. 2015/1690](https://www.legislation.gov.uk/uksi/2015/1690), [reg. 3](https://www.legislation.gov.uk/uksi/2015/1690/regulation/3)
+[^c-c3de505af8d3f3ea4dd1368b066b7e80]: Commencement: S. 52 in force at 1.11.2015 by [S.I. 2015/1690](https://www.legislation.gov.uk/uksi/2015/1690), [reg. 3](https://www.legislation.gov.uk/uksi/2015/1690/regulation/3)
 
-[^key-f7e4067ff349c526a56edd28120981b9]: Textual amendment: [S. 52(5)(k)](https://www.legislation.gov.uk/ukpga/2015/30/section/52/5/k) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 84(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/84/2) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-f7e4067ff349c526a56edd28120981b9]: Textual amendment: [S. 52(5)(k)](https://www.legislation.gov.uk/ukpga/2015/30/section/52/5/k) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 84(2)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/84/2) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)

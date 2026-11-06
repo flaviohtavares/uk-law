@@ -23,7 +23,7 @@ summary: ''
 For the purposes of this Part, the “requisite bodies” are—
 
 - (a) the Agency;
-- (aa)[^key-0a061fc70d560745f9e5e14ba073e20e] the Natural Resources Body for Wales;
+- (aa)[^c-0a061fc70d560745f9e5e14ba073e20e] the Natural Resources Body for Wales;
 - (b) SEPA;
 - (c) the National Assembly for Wales;
 - (d) the Scottish Executive;
@@ -33,6 +33,6 @@ For the purposes of this Part, the “requisite bodies” are—
 
 ## Annotations
 
-[^key-0a061fc70d560745f9e5e14ba073e20e]: Textual amendment: [Reg. 11(aa)](https://www.legislation.gov.uk/uksi/2005/894/regulation/11/aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 204](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/204) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0a061fc70d560745f9e5e14ba073e20e]: Textual amendment: [Reg. 11(aa)](https://www.legislation.gov.uk/uksi/2005/894/regulation/11/aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 204](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/204) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c12129991]: Marginal citation: The Northern Ireland Department of the Environment includes its executive agency the Environmental Heritage Service.

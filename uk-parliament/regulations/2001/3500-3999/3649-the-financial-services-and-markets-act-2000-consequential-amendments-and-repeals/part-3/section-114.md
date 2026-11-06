@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Judicial pensions: transfer of accrued benefits[^key-5fe7ff110efbf8e35829da8d8881d1c2]
+## 114. Judicial pensions: transfer of accrued benefits[^c-5fe7ff110efbf8e35829da8d8881d1c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fe7ff110efbf8e35829da8d8881d1c2]: Commencement: Art. 114 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5fe7ff110efbf8e35829da8d8881d1c2]: Commencement: Art. 114 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

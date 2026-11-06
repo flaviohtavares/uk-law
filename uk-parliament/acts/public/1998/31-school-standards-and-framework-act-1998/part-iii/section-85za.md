@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85ZA. Co-operation in discharging functions under this Part (England)[^key-cb8515ee47d8228d223d756e7dfaafed]
+## 85ZA. Co-operation in discharging functions under this Part (England)[^c-cb8515ee47d8228d223d756e7dfaafed]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb8515ee47d8228d223d756e7dfaafed]: Textual amendment: S. 85ZA and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/61/1), [78(2)(k)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/k)
+[^c-cb8515ee47d8228d223d756e7dfaafed]: Textual amendment: S. 85ZA and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 61(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/61/1), [78(2)(k)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/k)

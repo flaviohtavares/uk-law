@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Exceptions from restrictions on disclosure of information[^key-aa8665d3919d7a4676ab13bb8715b38d]
+## 77. Exceptions from restrictions on disclosure of information[^c-aa8665d3919d7a4676ab13bb8715b38d]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,7 +95,7 @@ summary: ''
 
 ## Annotations
 
-[^key-aa8665d3919d7a4676ab13bb8715b38d]: Commencement: Art. 77 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-aa8665d3919d7a4676ab13bb8715b38d]: Commencement: Art. 77 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00081]: Footnote: The entry relating to the Friendly Societies Commission was inserted by the Friendly Societies Act 1992, Schedule 21 paragraph 11.
 

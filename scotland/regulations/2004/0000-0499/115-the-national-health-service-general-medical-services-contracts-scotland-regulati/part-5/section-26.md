@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Other contractual terms[^key-b495bc528da6f19ee4ebd21e0df2db0d]
+## 26. Other contractual terms[^c-b495bc528da6f19ee4ebd21e0df2db0d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b495bc528da6f19ee4ebd21e0df2db0d]: Commencement: Reg. 26 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b495bc528da6f19ee4ebd21e0df2db0d]: Commencement: Reg. 26 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

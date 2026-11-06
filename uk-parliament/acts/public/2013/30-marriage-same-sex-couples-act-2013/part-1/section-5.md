@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Opt-in: other religious ceremonies[^key-ccb887496d6f95fb57541f3af6a52df3]
+## 5. Opt-in: other religious ceremonies[^c-ccb887496d6f95fb57541f3af6a52df3]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ After section 26A of the Marriage Act 1949 insert—
 
 ## Annotations
 
-[^key-ccb887496d6f95fb57541f3af6a52df3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/30/section/5) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/93/article/3/c)
+[^c-ccb887496d6f95fb57541f3af6a52df3]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/30/section/5) in force at 13.3.2014 by [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/93/article/3/c)

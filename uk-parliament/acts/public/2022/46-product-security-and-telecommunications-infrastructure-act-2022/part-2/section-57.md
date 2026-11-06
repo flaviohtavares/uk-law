@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Rights under the electronic communications code to share apparatus[^key-914e38a4e8b4d38d2474931b097fb429][^key-90740a2999e6774dc9478602a8796e18]
+## 57. Rights under the electronic communications code to share apparatus[^c-914e38a4e8b4d38d2474931b097fb429][^c-90740a2999e6774dc9478602a8796e18]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-914e38a4e8b4d38d2474931b097fb429]: Commencement: S. 57 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-914e38a4e8b4d38d2474931b097fb429]: Commencement: S. 57 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-90740a2999e6774dc9478602a8796e18]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/46/section/57) in force at 7.2.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/109/regulation/2/a)
+[^c-90740a2999e6774dc9478602a8796e18]: Commencement: [S. 57](https://www.legislation.gov.uk/ukpga/2022/46/section/57) in force at 7.2.2023 by [S.I. 2023/109](https://www.legislation.gov.uk/uksi/2023/109), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/109/regulation/2/a)

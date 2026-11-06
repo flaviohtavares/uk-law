@@ -26,7 +26,7 @@ summary: ''
 
 > *Matter 5.4A* The regulation of—
 >
-> - (a) schools that are not maintained by local authorities[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] ;
+> - (a) schools that are not maintained by local authorities[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] ;
 > - (b) relevant independent educational institutions.
 
 (3) In matter 5.15 after “The inspection of—” insert—
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

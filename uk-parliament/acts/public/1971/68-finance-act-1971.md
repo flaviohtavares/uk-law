@@ -66,7 +66,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 13.to 20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c818713]
 
-### 21. Occupational pension schemes[^key-d1543362d92ef3c34c428912fbf0d642]
+### 21. Occupational pension schemes[^c-d1543362d92ef3c34c428912fbf0d642]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -194,21 +194,21 @@ SCHEDULES
 
 ## SCHEDULE 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c818748]
 
-## SCHEDULE 3 — OCCUPATIONAL PENSION SCHEMES[^key-8466dc8c3f4e5002e60ba19f900dce6f]
+## SCHEDULE 3 — OCCUPATIONAL PENSION SCHEMES[^c-8466dc8c3f4e5002e60ba19f900dce6f]
 
 **No longer in force.**
 
 Section 21.
 
-### PART I — TRANSITIONAL[^key-8466dc8c3f4e5002e60ba19f900dce6f]
+### PART I — TRANSITIONAL[^c-8466dc8c3f4e5002e60ba19f900dce6f]
 
-**1.to 7.**[^key-8466dc8c3f4e5002e60ba19f900dce6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.to 7.**[^c-8466dc8c3f4e5002e60ba19f900dce6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Schemes approved under old law Taxation of refunds of contributions and commutation payments[^key-8466dc8c3f4e5002e60ba19f900dce6f]
+#### Schemes approved under old law Taxation of refunds of contributions and commutation payments[^c-8466dc8c3f4e5002e60ba19f900dce6f]
 
-**8.**[^key-8466dc8c3f4e5002e60ba19f900dce6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8466dc8c3f4e5002e60ba19f900dce6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.to 13.**[^key-8466dc8c3f4e5002e60ba19f900dce6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.to 13.**[^c-8466dc8c3f4e5002e60ba19f900dce6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c818755]
 
@@ -290,7 +290,7 @@ Section 67.
 
 The Commissioners of Her Majesty’s Treasury and the Ministry of Finance for Northern Ireland, with a view to assimilating the burdens on the Consolidated Fund of the United Kingdom and the Exchequer of Northern Ireland in respect of health services, have entered into the following Agreement, which supersedes as from 1st April 1971 the [^c818779]Agreement of 11th February 1949 set out in the Schedule to the Social Services (Northern Ireland Agreement) Act 1949, as amended by the [^c818780]Agreement of 28th February 1968 set out in Schedule 19 to the Finance Act 1968.
 
-**1.** (1) There shall be ascertained in respect of each financial year during which this Agreement is in operation the total net cost in Great Britain and in Northern Ireland under the National Health Service Act 2006, the National Health Service (Wales) Act 2006[^key-1bb7eaae272a9e1458143c569e85e9b9] and the [^c818783]National Health Service (Scotland) Act 1978[^c818784] as they may be amended from time to time, and the corresponding enactments in Northern Ireland.
+**1.** (1) There shall be ascertained in respect of each financial year during which this Agreement is in operation the total net cost in Great Britain and in Northern Ireland under the National Health Service Act 2006, the National Health Service (Wales) Act 2006[^c-1bb7eaae272a9e1458143c569e85e9b9] and the [^c818783]National Health Service (Scotland) Act 1978[^c818784] as they may be amended from time to time, and the corresponding enactments in Northern Ireland.
 
 (2) The net cost under paragraph (1) above shall be the actual cost as certified annually by the Commissioners of Her Majesty’s Treasury as respects the services in Great Britain and by the Ministry of Finance for Northern Ireland as respects the services in Northern Ireland.
 
@@ -444,7 +444,7 @@ These repeals have effect subject to section 56(4) of this Act.
 
 [^c818713]: Textual amendment: [Ss. 13 to 20](https://www.legislation.gov.uk/ukpga/1971/68/section/13) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31).
 
-[^key-d1543362d92ef3c34c428912fbf0d642]: Textual amendment: S. 21 repealed (with effect in accordance with s. 1034(1) of the repealing Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 265](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/265), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d1543362d92ef3c34c428912fbf0d642]: Textual amendment: S. 21 repealed (with effect in accordance with s. 1034(1) of the repealing Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 265](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/265), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c818716]: Modification: [S. 22(4)-(10)](https://www.legislation.gov.uk/ukpga/1971/68/section/22/4): power to continue conferred (1. 7. 1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [ss. 5](https://www.legislation.gov.uk/ukpga/1992/6/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1992/6/section/7/2), [Sch. 3 Pt. II para.15](https://www.legislation.gov.uk/ukpga/1992/6/schedule/3/part/II/paragraph/15).
 
@@ -502,7 +502,7 @@ These repeals have effect subject to section 56(4) of this Act.
 
 [^c818748]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1971/68/schedule/2) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
-[^key-8466dc8c3f4e5002e60ba19f900dce6f]: Textual amendment: Sch. 3 repealed (with effect in accordance with s. 1034(1) of the repealing Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 265](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/265), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8466dc8c3f4e5002e60ba19f900dce6f]: Textual amendment: Sch. 3 repealed (with effect in accordance with s. 1034(1) of the repealing Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 265](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/265), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c818755]: Textual amendment: [Sch. 3 paras. 1 to 7](https://www.legislation.gov.uk/ukpga/1971/68/schedule/3/paragraph/1), [9 to 13](https://www.legislation.gov.uk/ukpga/1971/68/schedule/3/paragraph/9), [Sch. 4](https://www.legislation.gov.uk/ukpga/1971/68/schedule/4), [Sch. 6 paras. 1 to 80](https://www.legislation.gov.uk/ukpga/1971/68/schedule/6/paragraph/1), [91 to 93](https://www.legislation.gov.uk/ukpga/1971/68/schedule/6/paragraph/91), [Sch. 7](https://www.legislation.gov.uk/ukpga/1971/68/schedule/7) repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
@@ -554,7 +554,7 @@ These repeals have effect subject to section 56(4) of this Act.
 
 [^c818780]: Marginal citation: [1968 c. 44](https://www.legislation.gov.uk/ukpga/1968/44).
 
-[^key-1bb7eaae272a9e1458143c569e85e9b9]: Textual amendment: Words in Sch. 13 para. 1(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/49) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-1bb7eaae272a9e1458143c569e85e9b9]: Textual amendment: Words in Sch. 13 para. 1(1) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 49](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/49) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
 [^c818783]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 

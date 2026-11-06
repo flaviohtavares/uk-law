@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Tips: special arrangements[^key-81242a24170c43be789b1c8cdd8a6957]
+## 100. Tips: special arrangements[^c-81242a24170c43be789b1c8cdd8a6957]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81242a24170c43be789b1c8cdd8a6957]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2003/2682/regulation/100) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-81242a24170c43be789b1c8cdd8a6957]: Commencement: [Reg. 100](https://www.legislation.gov.uk/uksi/2003/2682/regulation/100) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

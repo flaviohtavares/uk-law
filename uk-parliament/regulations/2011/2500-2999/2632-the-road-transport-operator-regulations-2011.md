@@ -52,15 +52,15 @@ The Secretary of State has been designated[^f00002] for the purposes of section 
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-bd2dba890b8fdb53ea825833c7be0948]
+### 1. Citation, commencement and extent[^c-bd2dba890b8fdb53ea825833c7be0948]
 
 *Extent: E+W+S*
 
 (1) These Regulations may be cited as the Road Transport Operator Regulations 2011 and come into force on 4th December 2011.
 
-(2)[^key-fee34a391e6b194289968c239399dbfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fee34a391e6b194289968c239399dbfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Purpose and interpretation[^key-ad8d383cfd71acf1962d451c59c1254b]
+### 2. Purpose and interpretation[^c-ad8d383cfd71acf1962d451c59c1254b]
 
 *Extent: E+W+S*
 
@@ -75,7 +75,7 @@ The Secretary of State has been designated[^f00002] for the purposes of section 
 
 (3) Unless the context otherwise requires, expressions used in Regulation 1071/2009 have the same meaning when used in these Regulations.
 
-### 3. Revocation[^key-699ced85809c10bdd43659126d0c54eb]
+### 3. Revocation[^c-699ced85809c10bdd43659126d0c54eb]
 
 *Extent: E+W+S*
 
@@ -87,44 +87,44 @@ The following instruments are revoked—
 
 ### 4. Competent authorities etc.
 
-(1)[^key-a0b5fb99db2a4cf990776b5c61531e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a0b5fb99db2a4cf990776b5c61531e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-d1d0d965136758cf82534f0e0007ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d1d0d965136758cf82534f0e0007ce31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a0b5fb99db2a4cf990776b5c61531e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a0b5fb99db2a4cf990776b5c61531e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a0b5fb99db2a4cf990776b5c61531e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a0b5fb99db2a4cf990776b5c61531e10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Authorisations to pursue or engage in the occupation of road transport operator[^key-b6a2fbc2a110aeddd96b20e69faeeaa7]
+### 5. Authorisations to pursue or engage in the occupation of road transport operator[^c-b6a2fbc2a110aeddd96b20e69faeeaa7]
 
 *Extent: E+W+S*
 
 (1) A standard licence granted under the 1981 Act (including before the commencement date) constitutes an authorisation to pursue or engage in the occupation of road transport operator for the purposes of Regulation 1071/2009 in the capacity of road passenger transport operator.
 
-(2)[^key-2b9f53ddd18f84cd42fa4b91d1215d15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2b9f53ddd18f84cd42fa4b91d1215d15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Notification of changes to data[^key-fe1347bd8b0b22d16abeede3e158d594]
+### 6. Notification of changes to data[^c-fe1347bd8b0b22d16abeede3e158d594]
 
 *Extent: E+W+S*
 
-(1)[^key-ae15bed775aecb006408c5ef79cb49d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-ae15bed775aecb006408c5ef79cb49d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The obligation imposed by Article 11(5) of Regulation 1071/2009[^key-09c3e35df2ffcf483a91d4bc46be2caf] on such an undertaking constitutes a condition attached to the licence for the purposes of —
+(2) The obligation imposed by Article 11(5) of Regulation 1071/2009[^c-09c3e35df2ffcf483a91d4bc46be2caf] on such an undertaking constitutes a condition attached to the licence for the purposes of —
 
-- (a) in the case of a licence granted under the 1981 Act, section 17(3)(b) of that Act; [^key-203e62ef66cc9fa8992af195092a157a]...
-- (b)[^key-203e62ef66cc9fa8992af195092a157a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in the case of a licence granted under the 1981 Act, section 17(3)(b) of that Act; [^c-203e62ef66cc9fa8992af195092a157a]...
+- (b)[^c-203e62ef66cc9fa8992af195092a157a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Amendments to primary legislation
 
 *Extent: E+W+S*
 
-### 7. Amendments to the Public Passenger Vehicles Act 1981 and the Transport Act 1985[^key-2f5f1bf0dbe89d3353c8f9bf133d3b6a]
+### 7. Amendments to the Public Passenger Vehicles Act 1981 and the Transport Act 1985[^c-2f5f1bf0dbe89d3353c8f9bf133d3b6a]
 
 (1) The 1981 Act and the Transport Act 1985[^f00010] are amended in accordance with Schedule 1.
 
 (2) Those amendments are subject to the transitional provisions in Part 1 of Schedule 3.
 
-### 8. Amendments to the Goods Vehicles (Licensing of Operators) Act 1995[^key-2ffbd86ec6054054d3629f96b73a5026]
+### 8. Amendments to the Goods Vehicles (Licensing of Operators) Act 1995[^c-2ffbd86ec6054054d3629f96b73a5026]
 
 (1) The 1995 Act is amended in accordance with Schedule 2.
 
@@ -134,7 +134,7 @@ The following instruments are revoked—
 
 *Extent: E+W+S*
 
-### 9. Review[^key-980139c913fb253780742cb463027e97]
+### 9. Review[^c-980139c913fb253780742cb463027e97]
 
 (1) The Secretary of State must from time to time—
 
@@ -142,7 +142,7 @@ The following instruments are revoked—
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-4d2a3231920f64d2736d29a18cc0ca1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4d2a3231920f64d2736d29a18cc0ca1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -170,11 +170,11 @@ Department for Transport
 
 Regulation 7(1)
 
-### 1. Amendments to the Public Passenger Vehicles Act 1981[^key-4e504a57252cb0670a2230720928864e]
+### 1. Amendments to the Public Passenger Vehicles Act 1981[^c-4e504a57252cb0670a2230720928864e]
 
 The 1981 Act is amended as specified in paragraphs 2 to 11.
 
-**2.**[^key-858627376a584a0cfe09944736a17f1f][^key-4e504a57252cb0670a2230720928864e] (1) Section 12 (PSV operators’ licences) is amended as follows.
+**2.**[^c-858627376a584a0cfe09944736a17f1f][^c-4e504a57252cb0670a2230720928864e] (1) Section 12 (PSV operators’ licences) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -182,7 +182,7 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 .
 
-**3.**[^key-966ff9c63970213942b07dfb6b6c4c1d][^key-4e504a57252cb0670a2230720928864e] For section 14 substitute—
+**3.**[^c-966ff9c63970213942b07dfb6b6c4c1d][^c-4e504a57252cb0670a2230720928864e] For section 14 substitute—
 
 > **14. Grant of licences**
 >
@@ -231,9 +231,9 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 .
 
-**4.**[^key-6a2320d40704f74522aa02b1d82f299c][^key-4e504a57252cb0670a2230720928864e] In section 14A (objections to application for PSV operator’s licence), in subsection (1) for “section 14(1) and (3)” substitute “sections 14ZA to 14ZC”.
+**4.**[^c-6a2320d40704f74522aa02b1d82f299c][^c-4e504a57252cb0670a2230720928864e] In section 14A (objections to application for PSV operator’s licence), in subsection (1) for “section 14(1) and (3)” substitute “sections 14ZA to 14ZC”.
 
-**5.**[^key-8c03c530c4b41b742c7c716efea83c0b][^key-4e504a57252cb0670a2230720928864e] (1) Section 16A (conditions as to matters required to be notified) is amended as follows.
+**5.**[^c-8c03c530c4b41b742c7c716efea83c0b][^c-4e504a57252cb0670a2230720928864e] (1) Section 16A (conditions as to matters required to be notified) is amended as follows.
 
 (2) In subsection (1)(a), for “section 14(1)” substitute “section 14ZA(2)”.
 
@@ -244,7 +244,7 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 (4) Omit subsection (2).
 
-**6.**[^key-fe30dd155f06ffb04b19799ca0c2bffe][^key-4e504a57252cb0670a2230720928864e] (1) Section 17 (revocation, suspension etc of licences) is amended as follows.
+**6.**[^c-fe30dd155f06ffb04b19799ca0c2bffe][^c-4e504a57252cb0670a2230720928864e] (1) Section 17 (revocation, suspension etc of licences) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -263,18 +263,18 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 (4) Omit subsection (6).
 
-**7.**[^key-0e9a6e8466026b4c4443ae6ed432ce95][^key-4e504a57252cb0670a2230720928864e] In section 17A (assessors to assist traffic commissioners), in subsection (1) after “Act” insert “or under the 2009 Regulation”.
+**7.**[^c-0e9a6e8466026b4c4443ae6ed432ce95][^c-4e504a57252cb0670a2230720928864e] In section 17A (assessors to assist traffic commissioners), in subsection (1) after “Act” insert “or under the 2009 Regulation”.
 
-**8.**[^key-79d590e13ff70dc847f78c70f71eac96][^key-4e504a57252cb0670a2230720928864e] In section 54 (inquiries held by traffic commissioners), in subsection (8)—
+**8.**[^c-79d590e13ff70dc847f78c70f71eac96][^c-4e504a57252cb0670a2230720928864e] In section 54 (inquiries held by traffic commissioners), in subsection (8)—
 
 - (a) in paragraph (b), after “below” insert “or under the 2009 Regulation”;
 - (b) in paragraph (c), after “enactment” insert “or the 2009 Regulation”.
 
-**9.**[^key-457473164e48efdd0fffd7fe50abab34][^key-4e504a57252cb0670a2230720928864e] In section 57 (death, bankruptcy etc. of licence holder), after subsection (4) insert—
+**9.**[^c-457473164e48efdd0fffd7fe50abab34][^c-4e504a57252cb0670a2230720928864e] In section 57 (death, bankruptcy etc. of licence holder), after subsection (4) insert—
 
 > (5) In the case of a standard licence, subsection (4)(a) is subject to Article 13.1 of the 2009 Regulation (time limits for rectification).
 
-**10.**[^key-93b147e78d28396aef8882fc32d3c2a9][^key-4e504a57252cb0670a2230720928864e] (1) Section 82 (general interpretation provisions) is amended as follows.
+**10.**[^c-93b147e78d28396aef8882fc32d3c2a9][^c-4e504a57252cb0670a2230720928864e] (1) Section 82 (general interpretation provisions) is amended as follows.
 
 (2) After the definition of “public service vehicle” insert—
 
@@ -289,7 +289,7 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 .
 
-**11.**[^key-6ca53266095178d721ef127b9ae80291][^key-4e504a57252cb0670a2230720928864e] (1) Schedule 3 (supplementary provisions as to qualifications for PSV operators licences) is amended as follows.
+**11.**[^c-6ca53266095178d721ef127b9ae80291][^c-4e504a57252cb0670a2230720928864e] (1) Schedule 3 (supplementary provisions as to qualifications for PSV operators licences) is amended as follows.
 
 (2) In paragraph 2 (appropriate financial standing)—
 
@@ -376,7 +376,7 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 (8) In the heading, in the shoulder reference, for “14(2)” substitute “14ZA,14ZB”.
 
-### 12. Amendment of the Transport Act 1985[^key-13e94fa7a9a563c00e54970ecb647c1a]
+### 12. Amendment of the Transport Act 1985[^c-13e94fa7a9a563c00e54970ecb647c1a]
 
 (1) The Transport Act 1985 is amended as specified in sub-paragraph (2).
 
@@ -386,9 +386,9 @@ The 1981 Act is amended as specified in paragraphs 2 to 11.
 
 Regulation 8(1)
 
-**1.**[^key-33bc46aa44d91f848c081fbe8799da26] The 1995 Act is amended as follows.
+**1.**[^c-33bc46aa44d91f848c081fbe8799da26] The 1995 Act is amended as follows.
 
-**2.**[^key-152265d068923dd281a9c1809181e55f] (1) Section 2 (obligation to hold operator’s licence) is amended as follows.
+**2.**[^c-152265d068923dd281a9c1809181e55f] (1) Section 2 (obligation to hold operator’s licence) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -406,9 +406,9 @@ Regulation 8(1)
 
 .
 
-**3.**[^key-128ace0e7f7df57e366fff21b3907dd4] In section 4 (temporary exemptions), omit subsection (4).
+**3.**[^c-128ace0e7f7df57e366fff21b3907dd4] In section 4 (temporary exemptions), omit subsection (4).
 
-**4.**[^key-600900eecd631840ee018c391c50230d] (1) Section 12 (objections to, and representations against, issue of operators’ licences) is amended as follows.
+**4.**[^c-600900eecd631840ee018c391c50230d] (1) Section 12 (objections to, and representations against, issue of operators’ licences) is amended as follows.
 
 (2) In subsection (1)(a), for “section 13” substitute “sections 13A to 13D”.
 
@@ -418,7 +418,7 @@ Regulation 8(1)
 - (b) in paragraph (a) for “subsections (3), (5) and (6) of that section” substitute “sections 13A, 13C and 13D”;
 - (c) in paragraph (b), for “subsections (4), (5) and (6) of that section” substitute “sections 13B, 13C and 13D”.
 
-**5.**[^key-99df82b393895ba6727792d0c4ec87aa] For section 13 substitute—
+**5.**[^c-99df82b393895ba6727792d0c4ec87aa] For section 13 substitute—
 
 > **13. Determination of applications for operators’ licences**
 >
@@ -501,7 +501,7 @@ Regulation 8(1)
 
 .
 
-**6.**[^key-79155603aca5b55498d5ae8924732a2a] (1) Section 15 (issue of operators’ licences) is amended as follows.
+**6.**[^c-79155603aca5b55498d5ae8924732a2a] (1) Section 15 (issue of operators’ licences) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -510,9 +510,9 @@ Regulation 8(1)
 
 (3) In subsection (4), for “section 13(8)” substitute “section 13C(7)”.
 
-**7.**[^key-e0ef786101db0ce8d97b304d76d2e301] In section 17 (variation of operators’ licences), in subsection (5)(c), for “section 13” substitute “sections 13 to 13D”.
+**7.**[^c-e0ef786101db0ce8d97b304d76d2e301] In section 17 (variation of operators’ licences), in subsection (5)(c), for “section 13” substitute “sections 13 to 13D”.
 
-**8.**[^key-533a47f7df8ff45b6ccb20cb72872fdd] (1) Section 22 (conditions as to matters required to be notified to traffic commissioner) is amended as follows.
+**8.**[^c-533a47f7df8ff45b6ccb20cb72872fdd] (1) Section 22 (conditions as to matters required to be notified to traffic commissioner) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -523,7 +523,7 @@ Regulation 8(1)
 - (c) omit subsection (3);
 - (d) in subsection (6), for “level 4” substitute “level 5”.
 
-**9.**[^key-7f0a949130215463acf7654d7af0ee6f] In section 24 (interim operators’ licences)—
+**9.**[^c-7f0a949130215463acf7654d7af0ee6f] In section 24 (interim operators’ licences)—
 
 - (a) after subsection (7) insert—
 
@@ -535,7 +535,7 @@ Regulation 8(1)
   ;
 - (b) in subsection (8), after “interim” insert “restricted”.
 
-**10.**[^key-6532b97f83548f1ee0637df9bd1644a9] (1) Section 27 (revocation of standard licences) is amended as follows.
+**10.**[^c-6532b97f83548f1ee0637df9bd1644a9] (1) Section 27 (revocation of standard licences) is amended as follows.
 
 (2) In subsection (1), for the words from “the licence-holder” to the end, substitute—
 
@@ -552,7 +552,7 @@ Regulation 8(1)
 
 (4) In subsection (4), for “subsection (3)” substitute “subsections (3) to (3B)”.
 
-**11.**[^key-7dc41b2f44966845aee4d44c1f1f1bc2] (1) Section 35 (power of traffic commissioners to hold inquiries) is amended as follows.
+**11.**[^c-7dc41b2f44966845aee4d44c1f1f1bc2] (1) Section 35 (power of traffic commissioners to hold inquiries) is amended as follows.
 
 (2) In subsection (1), at the end insert “or the 2009 Regulation”.
 
@@ -568,29 +568,29 @@ Regulation 8(1)
 - (a) in paragraph (b), after “this Act” insert “or the 2009 Regulation”;
 - (b) in paragraph (c), after “this Act” insert “or the 2009 Regulation”.
 
-**12.**[^key-98ed411866229746502e772f84c5e33c] In section 38 (forgery of documents, etc), in subsection (2)(e), after “paragraph 13(1)” insert “or (1A)”.
+**12.**[^c-98ed411866229746502e772f84c5e33c] In section 38 (forgery of documents, etc), in subsection (2)(e), after “paragraph 13(1)” insert “or (1A)”.
 
-**13.**[^key-062254386fa228a60818867d17f8667c] In section 39 (false statements), in subsection (1)(e), after “paragraph 13(1)” insert “or (1A)”.
+**13.**[^c-062254386fa228a60818867d17f8667c] In section 39 (false statements), in subsection (1)(e), after “paragraph 13(1)” insert “or (1A)”.
 
-**14.**[^key-c59372a58a875b7426d1c35ea1cbdb0d] In section 43 (evidence by certificate), in subsection (2), after paragraph (h) insert—
+**14.**[^c-c59372a58a875b7426d1c35ea1cbdb0d] In section 43 (evidence by certificate), in subsection (2), after paragraph (h) insert—
 
 > - (ha) that a person is by virtue of an order of the commissioner disqualified from acting as a transport manager, either indefinitely or for a specified period (see paragraph 16 of Schedule 3);
 
 .
 
-**15.**[^key-7a5dd4a9de61ef3631bc931f94a6d5e9] In section 44 (assessors), in subsection (1), after “this Act” insert “or the 2009 Regulation”.
+**15.**[^c-7a5dd4a9de61ef3631bc931f94a6d5e9] In section 44 (assessors), in subsection (1), after “this Act” insert “or the 2009 Regulation”.
 
-**16.**[^key-b6f5ef0717261aa5e3aeb9d0241485b2] In section 46 (holding companies and subsidiaries), in subsection (3)—
+**16.**[^c-b6f5ef0717261aa5e3aeb9d0241485b2] In section 46 (holding companies and subsidiaries), in subsection (3)—
 
 - (a) in the opening words, omit the words from “(which” to “1984)”;
 - (b) in paragraph (a), for “13(3)” substitute “13A”.
 
-**17.**[^key-187bd7e561b44879c303221fc31380aa] In section 49 (certificates of qualification)—
+**17.**[^c-187bd7e561b44879c303221fc31380aa] In section 49 (certificates of qualification)—
 
 - (a) in subsection (2)(b), for the words from “Article 3” to the end substitute “Article 19, 20 or (as the case may be) 21 of the 2009 Regulation.”;
 - (b) in subsection (5), for “the 1974 Council Directive” substitute “the 2009 Regulation”.
 
-**18.**[^key-121ac8fa588de24a1644d374e47de55b] (1) Section 58(1) (general interpretation) is amended as follows.
+**18.**[^c-121ac8fa588de24a1644d374e47de55b] (1) Section 58(1) (general interpretation) is amended as follows.
 
 (2) Omit the definitions of “the 1974 Council Directive” and “the 1977 Council Directive”.
 
@@ -608,7 +608,7 @@ Regulation 8(1)
 
 .
 
-**19.**[^key-0476ff6e171b08ec8e6aa786e1e73399] (1) Schedule 1 (meaning of “small goods vehicle”) is amended as follows.
+**19.**[^c-0476ff6e171b08ec8e6aa786e1e73399] (1) Schedule 1 (meaning of “small goods vehicle”) is amended as follows.
 
 (2) Omit paragraph 1.
 
@@ -618,7 +618,7 @@ Regulation 8(1)
 
 .
 
-**20.**[^key-0e5a54390184a731842e3d69dd14f112] (1) Schedule 3 (qualifications for standard licence) is amended as follows.
+**20.**[^c-0e5a54390184a731842e3d69dd14f112] (1) Schedule 3 (qualifications for standard licence) is amended as follows.
 
 (2) Omit paragraph 6.
 
@@ -701,7 +701,7 @@ Regulation 8(1)
 
 (8) In the heading, in the shoulder reference, for “13” substitute “13A”.
 
-**21.**[^key-2e25442c8bd5e1ce4f04b36b7864e9ad] In Schedule 4 (transfer of operating centres), in paragraph 2—
+**21.**[^c-2e25442c8bd5e1ce4f04b36b7864e9ad] In Schedule 4 (transfer of operating centres), in paragraph 2—
 
 - (a) in sub-paragraph (3), for “section 13(5)(d)” substitute “section 13C(5)”;
 - (b) in sub-paragraph (4), for “section 13(11)” substitute “section 13(6)”.
@@ -712,11 +712,11 @@ Regulations 7(2) and 8(2)
 
 ### PART 1 — Transitional Provisions for the Public Passenger Vehicles Act 1981
 
-#### 1. Meaning of “standard licence”[^key-7f3bf301254453ebe60f5a307769bd22]
+#### 1. Meaning of “standard licence”[^c-7f3bf301254453ebe60f5a307769bd22]
 
 In this Part “standard licence” has the meaning given by section 82(1) of the 1981 Act.
 
-#### 2. Standard licences issued before the commencement date[^key-85c183baf4c0d429441258587d57cedf]
+#### 2. Standard licences issued before the commencement date[^c-85c183baf4c0d429441258587d57cedf]
 
 (1) A person who holds a standard licence that was issued before the commencement date must, on and after the commencement date, comply with the requirements of section 14ZA of the 1981 Act (and section 17(1) of the 1981 Act as substituted by paragraph 6 of Schedule 1 (revocation for failure to comply with requirements of section 14ZA) applies accordingly).
 
@@ -724,7 +724,7 @@ In this Part “standard licence” has the meaning given by section 82(1) of th
 
 (3) A certificate issued to a person under paragraph 6(1)(a) of Schedule 3 to the 1981 Act before the commencement date is to be treated as a certificate issued under paragraph 6(1)(a) of that Schedule on or after the commencement date.
 
-#### 3. Conditions contained in standard licences issued before the commencement date[^key-c67091f9e5486fd4eaf488a9ff47c683]
+#### 3. Conditions contained in standard licences issued before the commencement date[^c-c67091f9e5486fd4eaf488a9ff47c683]
 
 (1) This paragraph applies to a standard licence issued before the commencement date.
 
@@ -732,13 +732,13 @@ In this Part “standard licence” has the meaning given by section 82(1) of th
 
 (3) In a condition attached to the licence under section 16A(1)(b) of the 1981 Act, a reference to section 14(1)(a) or (c) of that Act is to be read, on and after the commencement date, as a reference to section 14ZA(3) of that Act.
 
-#### 4. Objections to issue of operators’ licences made before the commencement date[^key-9f4d8360e3941debaba959a94204def3]
+#### 4. Objections to issue of operators’ licences made before the commencement date[^c-9f4d8360e3941debaba959a94204def3]
 
 (1) This paragraph applies where a traffic commissioner receives an application for a standard licence before the commencement date, but does not grant the application until on or after the commencement date.
 
 (2) An objection to the grant of the application made under section 14A(1) of the 1981 Act before the commencement date is to be treated as if it had been made on or after the commencement date under section 14A of that Act as amended by paragraph 4 of Schedule 1.
 
-#### 5. Period for appointment of new transport manager under paragraph 5 of Schedule 3[^key-f2c73cfda2758ae1fd16e0d81fa483ac]
+#### 5. Period for appointment of new transport manager under paragraph 5 of Schedule 3[^c-f2c73cfda2758ae1fd16e0d81fa483ac]
 
 (1) Sub-paragraph (2) applies where a traffic commissioner has, before the commencement date, given an opinion as to the period reasonably required for—
 
@@ -754,7 +754,7 @@ In this Part “standard licence” has the meaning given by section 82(1) of th
 
 (4) The licence-holder is not to be treated as failing to satisfy the requirement of professional competence under section 14ZA(2)(d) or (3)(b) of the 1981 Act until the traffic commissioner has given an opinion as to that period, and that period has expired.
 
-#### 6. Exemption from professional competence examinations for certain transport managers[^key-e4c7c25b18c10ee9347c252108a47aea]
+#### 6. Exemption from professional competence examinations for certain transport managers[^c-e4c7c25b18c10ee9347c252108a47aea]
 
 (1) The Secretary of State may grant a transport manager an exemption from the requirements of paragraph 6(1) of Schedule 3 to the 1981 Act for the purposes of compliance with the requirement of section 14ZA(3)(b) of that Act (professional competence).
 
@@ -768,17 +768,17 @@ In this Part “standard licence” has the meaning given by section 82(1) of th
 
 (6) Sub-paragraph (2) applies to a grant of an exemption by a traffic commissioner under sub-paragraph (5) as it applies to a grant of an exemption by the Secretary of State under sub-paragraph (1).
 
-#### 7. Proceedings relating to transport manager: procedural provisions[^key-5ba92598aa99ab482cde2447dd5fddb1]
+#### 7. Proceedings relating to transport manager: procedural provisions[^c-5ba92598aa99ab482cde2447dd5fddb1]
 
 Paragraphs 7A to 7C of Schedule 3 to the 1981 Act as inserted by paragraph 11(6) of Schedule 1, apply to proceedings under the 1981 Act that have been commenced, but not completed, before the commencement date.
 
 ### PART 2 — Transitional Provisions for the Goods Vehicles (Licensing of Operators) Act 1995
 
-#### 8. Meaning of “standard licence”[^key-84c1604f4fa2cc57ef60ba44d30ffeb2]
+#### 8. Meaning of “standard licence”[^c-84c1604f4fa2cc57ef60ba44d30ffeb2]
 
 In this Part “standard licence” has the meaning given by section 3(2) of the 1995 Act.
 
-#### 9. Standard licences issued before the commencement date[^key-e67f45b5be7b50241dd85b8b038f87aa]
+#### 9. Standard licences issued before the commencement date[^c-e67f45b5be7b50241dd85b8b038f87aa]
 
 (1) A person who holds a standard licence that was issued before the commencement date must, on and after the commencement date, comply with the requirements of section 13A of the 1995 Act (and section 27(1) of the 1995 Act as amended by paragraph 10 of Schedule 2 (revocation for failure to comply with requirements of section 13A) applies accordingly).
 
@@ -786,7 +786,7 @@ In this Part “standard licence” has the meaning given by section 3(2) of the
 
 (3) A certificate issued to a person under paragraph 13(1)(a) of Schedule 3 to the 1995 Act before the commencement date is to be treated as a certificate issued under paragraph 13(1)(a) of that Schedule on or after the commencement date.
 
-#### 10. Conditions contained in standard licences issued before the commencement date[^key-e3844eab84393bcee2b0209113f7fac6]
+#### 10. Conditions contained in standard licences issued before the commencement date[^c-e3844eab84393bcee2b0209113f7fac6]
 
 (1) This paragraph applies to a standard licence issued before the commencement date.
 
@@ -794,19 +794,19 @@ In this Part “standard licence” has the meaning given by section 3(2) of the
 
 (3) In a condition attached to the licence under section 22(2)(b) of the 1995 Act, a reference to section 13(3)(a) or (c) of that Act is to be read, on and after the commencement date, as a reference to section 13A(3) of that Act.
 
-#### 11. Offences under section 22(6) of the 1995 Act (contravention of condition attached to licence)[^key-512e3ba1bd6c32769898e821f2df5a51]
+#### 11. Offences under section 22(6) of the 1995 Act (contravention of condition attached to licence)[^c-512e3ba1bd6c32769898e821f2df5a51]
 
 (1) This paragraph applies where a person is guilty of an offence under section 22(6) of the 1995 Act (contravention of condition attached to licence).
 
 (2) Where the offence was committed partly before and partly on or after the commencement date, section 22(6) as amended by paragraph 8(2)(d) of Schedule 2 applies in relation to the offence.
 
-#### 12. Objections to issue of operators’ licences made before the commencement date[^key-a77c884ac24a7313bcd1363eec1bc5f0]
+#### 12. Objections to issue of operators’ licences made before the commencement date[^c-a77c884ac24a7313bcd1363eec1bc5f0]
 
 (1) This paragraph applies where a traffic commissioner receives an application for a standard licence before the commencement date, but does not grant the application until on or after the commencement date.
 
 (2) An objection to the grant of the application made under section 12(1)(a) of the 1995 Act before the commencement date is to be treated as if it had been made on or after the commencement date under section 12 of that Act as amended by paragraph 4 of Schedule 2.
 
-#### 13. Period for appointment of new transport manager under paragraph 10 or 11 of Schedule 3[^key-8a75a81ea82ed575b183dc3c5de110f0]
+#### 13. Period for appointment of new transport manager under paragraph 10 or 11 of Schedule 3[^c-8a75a81ea82ed575b183dc3c5de110f0]
 
 (1) Sub-paragraph (2) applies where a traffic commissioner has, before the commencement date, given an opinion as to the period reasonably required for—
 
@@ -822,7 +822,7 @@ In this Part “standard licence” has the meaning given by section 3(2) of the
 
 (4) The licence-holder is not to be treated as failing to satisfy the requirement of professional competence under section 13A(2)(d) or (3)(b) of the 1995 Act until the traffic commissioner has given an opinion as to that period, and that period has expired.
 
-#### 14. Exemption from professional competence examinations for certain transport managers[^key-6d5ec1982ed47cd0379679c03698b51f]
+#### 14. Exemption from professional competence examinations for certain transport managers[^c-6d5ec1982ed47cd0379679c03698b51f]
 
 (1) The Secretary of State may grant a transport manager an exemption from the requirements of paragraph 13(1) of Schedule 3 to the 1995 Act for the purposes of compliance with the requirement of section 13A(3)(b) of that Act (professional competence).
 
@@ -836,7 +836,7 @@ In this Part “standard licence” has the meaning given by section 3(2) of the
 
 (6) Sub-paragraph (2) applies to a grant of an exemption by a traffic commissioner under sub-paragraph (5) as it applies to a grant of an exemption by the Secretary of State under sub-paragraph (1).
 
-#### 15. Proceedings relating to transport manager: procedural provisions[^key-29b0302c44cd7232a5098c6ced2434e7]
+#### 15. Proceedings relating to transport manager: procedural provisions[^c-29b0302c44cd7232a5098c6ced2434e7]
 
 The amendments made to paragraph 15 of Schedule 3 to the 1995 Act by paragraph 20(6) of Schedule 2, and paragraphs 16 and 17 of that Schedule as inserted by paragraph 20(7) of Schedule 2, apply to proceedings under the 1995 Act that have been commenced, but not completed, before the commencement date.
 
@@ -902,11 +902,11 @@ A full impact assessment of the effect that Regulation 1071/2009 (along with two
 
 [^f00002]: Footnote: [S.I. 1996/ 266](https://www.legislation.gov.uk/uksi/1996/266); to which there are amendments not relevant to these Regulations.
 
-[^key-bd2dba890b8fdb53ea825833c7be0948]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-bd2dba890b8fdb53ea825833c7be0948]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-fee34a391e6b194289968c239399dbfa]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [18](https://www.legislation.gov.uk/uksi/2022/293/regulation/18)
+[^c-fee34a391e6b194289968c239399dbfa]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [18](https://www.legislation.gov.uk/uksi/2022/293/regulation/18)
 
-[^key-ad8d383cfd71acf1962d451c59c1254b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2632/regulation/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-ad8d383cfd71acf1962d451c59c1254b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/2632/regulation/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
 [^f00003]: Footnote: OJ No L 300, 14. 11.09, p 51.
 
@@ -914,7 +914,7 @@ A full impact assessment of the effect that Regulation 1071/2009 (along with two
 
 [^f00005]: Footnote: [1995 c.23](https://www.legislation.gov.uk/ukpga/1995/23). Section 2 was amended by the Transport Act [2000 (c.67)](https://www.legislation.gov.uk/ukpga/2000/67), section 261. Section 12 was amended by the Planning (Consequential Provisions) (Scotland) Act [1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), section 4 and Schedule 2, paragraph 59(1). Section 22 was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), article 2(1) and Schedule 1, paragraph 153. Section 24 was amended by [S.I. 2009/1885](https://www.legislation.gov.uk/uksi/2009/1885), article 4(1) and Schedule 1, paragraphs 18 and 19. Section 35 was amended by [S.I. 2009/1885](https://www.legislation.gov.uk/uksi/2009/1885), article 4(1) and Schedule 1, paragraphs 18 and 21. Section 49 was amended by .[S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), article 6(1) and the Schedule, paragraph 24. Section 58(1) was amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), article 2(1) and Schedule 1, paragraph 153(1) and (4). Schedule 3 was amended by the Criminal Justice Act [2003 (c.49)](https://www.legislation.gov.uk/ukpga/2003/49), section 304 and Schedule 32, Part I, paragraph 68; by the Armed Forces Act [2006 (c.52)](https://www.legislation.gov.uk/ukpga/2006/52), section 378(1) and Schedule 16, paragraph 131; by [S.I. 1999/1167](https://www.legislation.gov.uk/uksi/1999/1167), regulation 3; by [S.I. 2004/3222](https://www.legislation.gov.uk/uksi/2004/3222), regulation 2; and by [S.I. 1999/2430](https://www.legislation.gov.uk/uksi/1999/2430), regulations 2 to 4(2)(b) and 5(5).
 
-[^key-699ced85809c10bdd43659126d0c54eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2632/regulation/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-699ced85809c10bdd43659126d0c54eb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/2632/regulation/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1990/1851](https://www.legislation.gov.uk/uksi/1990/1851).
 
@@ -922,124 +922,124 @@ A full impact assessment of the effect that Regulation 1071/2009 (along with two
 
 [^f00008]: Footnote: [S.I. 1999/2431](https://www.legislation.gov.uk/uksi/1999/2431).
 
-[^key-a0b5fb99db2a4cf990776b5c61531e10]: Textual amendment: Reg. 4(1)(3)(4) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [19(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/19/1)
+[^c-a0b5fb99db2a4cf990776b5c61531e10]: Textual amendment: Reg. 4(1)(3)(4) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [19(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/19/1)
 
-[^key-d1d0d965136758cf82534f0e0007ce31]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/4/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [19(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/19/2)
+[^c-d1d0d965136758cf82534f0e0007ce31]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/4/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [19(2)](https://www.legislation.gov.uk/uksi/2022/293/regulation/19/2)
 
-[^key-b6a2fbc2a110aeddd96b20e69faeeaa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2632/regulation/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-b6a2fbc2a110aeddd96b20e69faeeaa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/2632/regulation/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-2b9f53ddd18f84cd42fa4b91d1215d15]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/5/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [20](https://www.legislation.gov.uk/uksi/2022/293/regulation/20)
+[^c-2b9f53ddd18f84cd42fa4b91d1215d15]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/5/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [20](https://www.legislation.gov.uk/uksi/2022/293/regulation/20)
 
-[^key-fe1347bd8b0b22d16abeede3e158d594]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-fe1347bd8b0b22d16abeede3e158d594]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-ae15bed775aecb006408c5ef79cb49d8]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6/1) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [21(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/21/1)
+[^c-ae15bed775aecb006408c5ef79cb49d8]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6/1) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [21(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/21/1)
 
-[^key-09c3e35df2ffcf483a91d4bc46be2caf]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6/2) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/21/2/a)
+[^c-09c3e35df2ffcf483a91d4bc46be2caf]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6/2) substituted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2022/293/regulation/21/2/a)
 
-[^key-203e62ef66cc9fa8992af195092a157a]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6/2/b) and word omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/21/2/b)
+[^c-203e62ef66cc9fa8992af195092a157a]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/6/2/b) and word omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2022/293/regulation/21/2/b)
 
-[^key-2f5f1bf0dbe89d3353c8f9bf133d3b6a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/2632/regulation/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-2f5f1bf0dbe89d3353c8f9bf133d3b6a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/2632/regulation/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
 [^f00010]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67); section 28 was amended by the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40), section 67(2) to (5).
 
-[^key-2ffbd86ec6054054d3629f96b73a5026]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2632/regulation/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-2ffbd86ec6054054d3629f96b73a5026]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2632/regulation/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-980139c913fb253780742cb463027e97]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/2632/regulation/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-980139c913fb253780742cb463027e97]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/2632/regulation/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-4d2a3231920f64d2736d29a18cc0ca1f]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/9/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [22](https://www.legislation.gov.uk/uksi/2022/293/regulation/22)
+[^c-4d2a3231920f64d2736d29a18cc0ca1f]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/9/2) omitted (17.3.2022) by virtue of [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [22](https://www.legislation.gov.uk/uksi/2022/293/regulation/22)
 
-[^key-4e504a57252cb0670a2230720928864e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-4e504a57252cb0670a2230720928864e]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-858627376a584a0cfe09944736a17f1f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-858627376a584a0cfe09944736a17f1f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-966ff9c63970213942b07dfb6b6c4c1d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-966ff9c63970213942b07dfb6b6c4c1d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-6a2320d40704f74522aa02b1d82f299c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/4) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-6a2320d40704f74522aa02b1d82f299c]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/4) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-8c03c530c4b41b742c7c716efea83c0b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-8c03c530c4b41b742c7c716efea83c0b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-fe30dd155f06ffb04b19799ca0c2bffe]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-fe30dd155f06ffb04b19799ca0c2bffe]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-0e9a6e8466026b4c4443ae6ed432ce95]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-0e9a6e8466026b4c4443ae6ed432ce95]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-79d590e13ff70dc847f78c70f71eac96]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-79d590e13ff70dc847f78c70f71eac96]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-457473164e48efdd0fffd7fe50abab34]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-457473164e48efdd0fffd7fe50abab34]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-93b147e78d28396aef8882fc32d3c2a9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/10) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-93b147e78d28396aef8882fc32d3c2a9]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/10) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-6ca53266095178d721ef127b9ae80291]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/11) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-6ca53266095178d721ef127b9ae80291]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/11) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-13e94fa7a9a563c00e54970ecb647c1a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/12) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-13e94fa7a9a563c00e54970ecb647c1a]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/1/paragraph/12) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-33bc46aa44d91f848c081fbe8799da26]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-33bc46aa44d91f848c081fbe8799da26]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-152265d068923dd281a9c1809181e55f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-152265d068923dd281a9c1809181e55f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-128ace0e7f7df57e366fff21b3907dd4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-128ace0e7f7df57e366fff21b3907dd4]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-600900eecd631840ee018c391c50230d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-600900eecd631840ee018c391c50230d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/4) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-99df82b393895ba6727792d0c4ec87aa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-99df82b393895ba6727792d0c4ec87aa]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-79155603aca5b55498d5ae8924732a2a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-79155603aca5b55498d5ae8924732a2a]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-e0ef786101db0ce8d97b304d76d2e301]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-e0ef786101db0ce8d97b304d76d2e301]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-533a47f7df8ff45b6ccb20cb72872fdd]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-533a47f7df8ff45b6ccb20cb72872fdd]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-7f0a949130215463acf7654d7af0ee6f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-7f0a949130215463acf7654d7af0ee6f]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-6532b97f83548f1ee0637df9bd1644a9]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/10) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-6532b97f83548f1ee0637df9bd1644a9]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/10) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-7dc41b2f44966845aee4d44c1f1f1bc2]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/11) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-7dc41b2f44966845aee4d44c1f1f1bc2]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/11) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-98ed411866229746502e772f84c5e33c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/12) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-98ed411866229746502e772f84c5e33c]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/12) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-062254386fa228a60818867d17f8667c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/13) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-062254386fa228a60818867d17f8667c]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/13) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-c59372a58a875b7426d1c35ea1cbdb0d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/14) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-c59372a58a875b7426d1c35ea1cbdb0d]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/14) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-7a5dd4a9de61ef3631bc931f94a6d5e9]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/15) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-7a5dd4a9de61ef3631bc931f94a6d5e9]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/15) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-b6f5ef0717261aa5e3aeb9d0241485b2]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/16) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-b6f5ef0717261aa5e3aeb9d0241485b2]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/16) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-187bd7e561b44879c303221fc31380aa]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/17) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-187bd7e561b44879c303221fc31380aa]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/17) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-121ac8fa588de24a1644d374e47de55b]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/18) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-121ac8fa588de24a1644d374e47de55b]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/18) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-0476ff6e171b08ec8e6aa786e1e73399]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/19) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-0476ff6e171b08ec8e6aa786e1e73399]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/19) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-0e5a54390184a731842e3d69dd14f112]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/20) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-0e5a54390184a731842e3d69dd14f112]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/20) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-2e25442c8bd5e1ce4f04b36b7864e9ad]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/21) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-2e25442c8bd5e1ce4f04b36b7864e9ad]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2011/2632/schedule/2/paragraph/21) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-7f3bf301254453ebe60f5a307769bd22]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-7f3bf301254453ebe60f5a307769bd22]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/1) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-85c183baf4c0d429441258587d57cedf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-85c183baf4c0d429441258587d57cedf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/2) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-c67091f9e5486fd4eaf488a9ff47c683]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-c67091f9e5486fd4eaf488a9ff47c683]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/3) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-9f4d8360e3941debaba959a94204def3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/4) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-9f4d8360e3941debaba959a94204def3]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/4) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-f2c73cfda2758ae1fd16e0d81fa483ac]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-f2c73cfda2758ae1fd16e0d81fa483ac]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/5) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-e4c7c25b18c10ee9347c252108a47aea]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-e4c7c25b18c10ee9347c252108a47aea]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/6) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-5ba92598aa99ab482cde2447dd5fddb1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-5ba92598aa99ab482cde2447dd5fddb1]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/7) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-84c1604f4fa2cc57ef60ba44d30ffeb2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-84c1604f4fa2cc57ef60ba44d30ffeb2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/8) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-e67f45b5be7b50241dd85b8b038f87aa]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-e67f45b5be7b50241dd85b8b038f87aa]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/9) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-e3844eab84393bcee2b0209113f7fac6]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/10) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-e3844eab84393bcee2b0209113f7fac6]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/10) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-512e3ba1bd6c32769898e821f2df5a51]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/11) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-512e3ba1bd6c32769898e821f2df5a51]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/11) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-a77c884ac24a7313bcd1363eec1bc5f0]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/12) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-a77c884ac24a7313bcd1363eec1bc5f0]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/12) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-8a75a81ea82ed575b183dc3c5de110f0]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/13) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-8a75a81ea82ed575b183dc3c5de110f0]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/13) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-6d5ec1982ed47cd0379679c03698b51f]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/14) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-6d5ec1982ed47cd0379679c03698b51f]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/14) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
 
-[^key-29b0302c44cd7232a5098c6ced2434e7]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/15) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)
+[^c-29b0302c44cd7232a5098c6ced2434e7]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2011/2632/schedule/3/paragraph/15) in force at 4.12.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2632/regulation/1/1)

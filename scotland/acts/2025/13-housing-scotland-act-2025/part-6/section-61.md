@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. New pitch fees: considerations[^key-b3e7ae59cc74789bbd26a551ca79f453][^key-4250eaabdb77700e313598bdd24532d7]
+## 61. New pitch fees: considerations[^c-b3e7ae59cc74789bbd26a551ca79f453][^c-4250eaabdb77700e313598bdd24532d7]
 
 *Extent: S*
 
@@ -82,6 +82,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e7ae59cc74789bbd26a551ca79f453]: Commencement: S. 61 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-b3e7ae59cc74789bbd26a551ca79f453]: Commencement: S. 61 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-4250eaabdb77700e313598bdd24532d7]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2025/13/section/61) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-4250eaabdb77700e313598bdd24532d7]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2025/13/section/61) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

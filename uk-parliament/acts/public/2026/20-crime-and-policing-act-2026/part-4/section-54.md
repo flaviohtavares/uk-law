@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Interim CCE prevention orders[^key-87e9bb8521ccbfeb10b1f92f9a5b8a48]
+## 54. Interim CCE prevention orders[^c-87e9bb8521ccbfeb10b1f92f9a5b8a48]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ Section 51(5) does not apply in relation to an interim CCE prevention order.
 
 ## Annotations
 
-[^key-87e9bb8521ccbfeb10b1f92f9a5b8a48]: Commencement: S. 54 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-87e9bb8521ccbfeb10b1f92f9a5b8a48]: Commencement: S. 54 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

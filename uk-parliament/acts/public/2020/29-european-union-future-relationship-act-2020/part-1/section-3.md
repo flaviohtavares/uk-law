@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfers to third countries of personal data notified under section 2[^key-dbb673f1c37b77a6bb395ab3bb5032c3]
+## 3. Transfers to third countries of personal data notified under section 2[^c-dbb673f1c37b77a6bb395ab3bb5032c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb673f1c37b77a6bb395ab3bb5032c3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/29/section/3) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/c)
+[^c-dbb673f1c37b77a6bb395ab3bb5032c3]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2020/29/section/3) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/c)

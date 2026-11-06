@@ -23,7 +23,7 @@ summary: ''
 (1) This Chapter provides—
 
 - (a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) for exemptions from income tax in connection with shares obtained under share incentive plans (“SIPs”) which are Schedule 2 SIPs[^key-734b626c06b06b8afceccd06f64faff0],
+- (b) for exemptions from income tax in connection with shares obtained under share incentive plans (“SIPs”) which are Schedule 2 SIPs[^c-734b626c06b06b8afceccd06f64faff0],
 - (c) for amounts to count as employment income in certain circumstances in connection with such plans, and
 - (d) for the making of PAYE deductions in connection with such amounts.
 
@@ -41,7 +41,7 @@ together constitute “the SIP code”.
 
 - ...
 - “**PAYE deduction**” means a deduction required by PAYE regulations;
-- “[^key-315b6f7aa6edd99261fe6d6dab89f151]**Schedule 2 SIP**” is to be read in accordance with paragraph 1 and Part 10 of Schedule 2;
+- “[^c-315b6f7aa6edd99261fe6d6dab89f151]**Schedule 2 SIP**” is to be read in accordance with paragraph 1 and Part 10 of Schedule 2;
 - a “**share incentive plan**” (or “**SIP**” for short) means a plan established by a company providing—
   - (a) for shares to be appropriated to employees without payment (“free shares”), or
   - (b) for shares to be acquired on behalf of employees out of sums deducted from their salary (“partnership shares”).
@@ -50,6 +50,6 @@ together constitute “the SIP code”.
 
 ## Annotations
 
-[^key-734b626c06b06b8afceccd06f64faff0]: Textual amendment: Words in s. 488(1)(b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/3/3/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-734b626c06b06b8afceccd06f64faff0]: Textual amendment: Words in s. 488(1)(b) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/3/3/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-315b6f7aa6edd99261fe6d6dab89f151]: Textual amendment: Words in s. 488(4) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/3/5/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-315b6f7aa6edd99261fe6d6dab89f151]: Textual amendment: Words in s. 488(4) inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 3(5)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/3/5/b), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

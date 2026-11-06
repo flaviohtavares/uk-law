@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Civil sanctions for infringements[^key-8aed3abc0dd1bc008b4b4dc8c6866018]
+## 84. Civil sanctions for infringements[^c-8aed3abc0dd1bc008b4b4dc8c6866018]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aed3abc0dd1bc008b4b4dc8c6866018]: Commencement: S. 84 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-8aed3abc0dd1bc008b4b4dc8c6866018]: Commencement: S. 84 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

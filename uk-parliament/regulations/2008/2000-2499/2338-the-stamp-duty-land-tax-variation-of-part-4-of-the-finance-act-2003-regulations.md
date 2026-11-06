@@ -50,7 +50,7 @@ The Treasury consider it expedient in the public interest to make the provision 
 
 Accordingly, the Treasury make the following Regulations in exercise of the power conferred by section 109 of the Finance Act 2003[^f00001].
 
-## 1. Citation, commencement and effect[^key-e8e7c39dfbb6413e5b348f8933c2253a]
+## 1. Citation, commencement and effect[^c-e8e7c39dfbb6413e5b348f8933c2253a]
 
 (1) These Regulations may be cited as the Stamp Duty Land Tax (Variation of Part 4 of the Finance Act 2003) Regulations 2008 and shall come into force on 3rd September 2008.
 
@@ -59,7 +59,7 @@ Accordingly, the Treasury make the following Regulations in exercise of the powe
 - (a) on or after 3rd September 2008, and
 - (b) before 3rd September 2009.
 
-## 2. Variation of Part 4 of the Finance Act 2003[^key-b06cc2a846d75c4fdb4ed844760c6026]
+## 2. Variation of Part 4 of the Finance Act 2003[^c-b06cc2a846d75c4fdb4ed844760c6026]
 
 In section 77A(1) of the Finance Act 2003 (exceptions from notification for certain acquisitions of major interests in land)[^f00002] in item 1 after “Schedule 3” insert “other than an acquisition which is exempt by virtue of any regulations made under paragraph 5 of that Schedule”.
 
@@ -83,8 +83,8 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
 
-[^key-e8e7c39dfbb6413e5b348f8933c2253a]: Commencement: Reg. 1 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2338/regulation/1/1)
+[^c-e8e7c39dfbb6413e5b348f8933c2253a]: Commencement: Reg. 1 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2338/regulation/1/1)
 
-[^key-b06cc2a846d75c4fdb4ed844760c6026]: Commencement: Reg. 2 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2338/regulation/1/1)
+[^c-b06cc2a846d75c4fdb4ed844760c6026]: Commencement: Reg. 2 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2338/regulation/1/1)
 
 [^f00002]: Footnote: Section 77A was inserted by section 94 of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).

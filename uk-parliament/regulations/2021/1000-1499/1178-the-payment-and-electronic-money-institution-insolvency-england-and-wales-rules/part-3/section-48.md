@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Adjournment in absence of chair[^key-ee0f9fa5eb560e2c527a20b482947196]
+## 48. Adjournment in absence of chair[^c-ee0f9fa5eb560e2c527a20b482947196]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee0f9fa5eb560e2c527a20b482947196]: Commencement: Rule 48 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-ee0f9fa5eb560e2c527a20b482947196]: Commencement: Rule 48 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

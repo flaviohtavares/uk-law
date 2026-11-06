@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Certification of police custody and security officers[^key-0e89281e6f42ca5de9245b88a9997b5f]
+## 29. Certification of police custody and security officers[^c-0e89281e6f42ca5de9245b88a9997b5f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e89281e6f42ca5de9245b88a9997b5f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2012/8/section/29) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-0e89281e6f42ca5de9245b88a9997b5f]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2012/8/section/29) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

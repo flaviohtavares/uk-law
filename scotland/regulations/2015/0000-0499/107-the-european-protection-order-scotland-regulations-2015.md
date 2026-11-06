@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Procedure
 
-The European Protection Order (Scotland) Regulations 2015 (revoked)[^key-b65ca75846dfd87991ae7e1add955a60]
+The European Protection Order (Scotland) Regulations 2015 (revoked)[^c-b65ca75846dfd87991ae7e1add955a60]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into force
 
 11th March 2015
 
-[^key-b65ca75846dfd87991ae7e1add955a60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b65ca75846dfd87991ae7e1add955a60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-b65ca75846dfd87991ae7e1add955a60]
+## 1. Citation, commencement and extent[^c-b65ca75846dfd87991ae7e1add955a60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Criminal Procedure (Scotland) Act 1995[^key-b65ca75846dfd87991ae7e1add955a60]
+## 2. Amendment of the Criminal Procedure (Scotland) Act 1995[^c-b65ca75846dfd87991ae7e1add955a60]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b65ca75846dfd87991ae7e1add955a60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b65ca75846dfd87991ae7e1add955a60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b65ca75846dfd87991ae7e1add955a60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b65ca75846dfd87991ae7e1add955a60]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b65ca75846dfd87991ae7e1add955a60]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/107) revoked (1.12.2022) by [The Civil Protection Measures, European Protection Order and Victims’ Rights (EU Exit) (Scotland) (Amendment Etc.) Regulations 2022 (S.S.I. 2022/249)](https://www.legislation.gov.uk/ssi/2022/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/249/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/249/regulation/4/2)
+[^c-b65ca75846dfd87991ae7e1add955a60]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/107) revoked (1.12.2022) by [The Civil Protection Measures, European Protection Order and Victims’ Rights (EU Exit) (Scotland) (Amendment Etc.) Regulations 2022 (S.S.I. 2022/249)](https://www.legislation.gov.uk/ssi/2022/249), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/249/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/249/regulation/4/2)

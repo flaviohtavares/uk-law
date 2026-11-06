@@ -52,7 +52,7 @@ Coming into force in accordance with regulation 1(2)
 
 [^c23399711]The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 8(1) of that Act.[^key-9c2fb6bd83527f3994bd9fec42cb0fa9]
+The Treasury make the following Regulations in exercise of the powers conferred by section 8(1) of that Act.[^c-9c2fb6bd83527f3994bd9fec42cb0fa9]
 
 ## 1. Citation and commencement[^c23404871]
 
@@ -92,7 +92,7 @@ In regulation 2 of the Consumer Credit (Green Deal) Regulations 2012 [^c23399761
 
 In Article 3 of the Financial Services Act 2012 (Consumer Credit) Order 2013 [^c23399771], omit paragraph (6).
 
-## 6. Transitional provisions[^key-3ee518eb10b43265a8bd1e8b189ac672]
+## 6. Transitional provisions[^c-3ee518eb10b43265a8bd1e8b189ac672]
 
 (1) For a period of five months beginning on IP completion day the Consumer Credit (Disclosure of Information) Regulations 2010 (“**the 2010 Regulations**”), as amended by regulation 3 of these Regulations, are subject to the modifications specified in this regulation.
 
@@ -125,7 +125,7 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23399711]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-9c2fb6bd83527f3994bd9fec42cb0fa9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1038): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-9c2fb6bd83527f3994bd9fec42cb0fa9]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1038): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c23404871]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
@@ -149,4 +149,4 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23399771]: Marginal citation: [S.I. 2013/1882](https://www.legislation.gov.uk/uksi/2013/1882).
 
-[^key-3ee518eb10b43265a8bd1e8b189ac672]: Textual amendment: Reg. 6 inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/4), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ee518eb10b43265a8bd1e8b189ac672]: Textual amendment: Reg. 6 inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/4), [40](https://www.legislation.gov.uk/uksi/2019/710/regulation/40) (as amended by [S.I. 2019/1390](https://www.legislation.gov.uk/uksi/2019/1390), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/1390/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2019/1390/regulation/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

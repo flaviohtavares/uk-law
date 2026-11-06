@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transfer of persons into the First-tier Tribunal and the Upper Tribunal[^key-6105b8eb1b04246361a3ca6d051a43d7]
+## 5. Transfer of persons into the First-tier Tribunal and the Upper Tribunal[^c-6105b8eb1b04246361a3ca6d051a43d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6105b8eb1b04246361a3ca6d051a43d7]: Commencement: Art. 5 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-6105b8eb1b04246361a3ca6d051a43d7]: Commencement: Art. 5 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

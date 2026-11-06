@@ -26,9 +26,9 @@ Section 51(5)
 
 *Extent: E+W+S*
 
-**1.**[^key-a20ec35e2cdb73a235340250811b21d4] The Gas Act 1986 is amended as follows.
+**1.**[^c-a20ec35e2cdb73a235340250811b21d4] The Gas Act 1986 is amended as follows.
 
-**2.**[^key-281624be2d6683cf935d0ce5c128eab6] (1) Section 28 (orders for securing compliance) is amended as follows.
+**2.**[^c-281624be2d6683cf935d0ce5c128eab6] (1) Section 28 (orders for securing compliance) is amended as follows.
 
 (2) In subsections (1), (2) and (4), for “(5) and” (in each place where it occurs) substitute “ (4A) to ”.
 
@@ -45,7 +45,7 @@ Section 51(5)
 - (a) in the words before paragraph (a), after “the Authority” insert “ decides that it would be more appropriate to proceed under the Competition Act 1998 or ”, and
 - (b) in paragraph (a), after “that it” insert “ has so decided or ”.
 
-**3.**[^key-27bde91117ade0012356bd0741613efc] In section 30A (penalties), for subsection (2) substitute—
+**3.**[^c-27bde91117ade0012356bd0741613efc] In section 30A (penalties), for subsection (2) substitute—
 
 > (2) Before imposing a penalty on a regulated person under subsection (1), the Authority shall consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -55,9 +55,9 @@ Section 51(5)
 
 *Extent: E+W+S*
 
-**4.**[^key-b1f1fedb7b89438980d9e3ae3c47ffe1] The Electricity Act 1989 is amended as follows.
+**4.**[^c-b1f1fedb7b89438980d9e3ae3c47ffe1] The Electricity Act 1989 is amended as follows.
 
-**5.**[^key-68fceaa45813c7f560d23dfa01183fc6] (1) Section 25 (orders for securing compliance) is amended as follows.
+**5.**[^c-68fceaa45813c7f560d23dfa01183fc6] (1) Section 25 (orders for securing compliance) is amended as follows.
 
 (2) In subsections (1), (2) and (4), for “(5) and” (in each place where it occurs) substitute “ (4A) to ”.
 
@@ -74,21 +74,21 @@ Section 51(5)
 - (a) in the words before paragraph (a), after “the Authority” insert “ decides that it would be more appropriate to proceed under the Competition Act 1998 or ”, and
 - (b) in paragraph (a), after “that it” insert “ has so decided or ”.
 
-**6.**[^key-e596bd4c3307cb8802289ca47e43648d] In section 27A (penalties), for subsection (2) substitute—
+**6.**[^c-e596bd4c3307cb8802289ca47e43648d] In section 27A (penalties), for subsection (2) substitute—
 
 > (2) Before imposing a penalty on a regulated person under subsection (1), the Authority shall consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
 > (2A) The Authority shall not impose a penalty on a regulated person under subsection (1) if it considers that it would be more appropriate to proceed under the Competition Act 1998.
 
-**7.**[^key-eca883f9cd1da0aa5e461b7d4e25f2e9] In section 43 (functions with respect to competition), in subsection (6), for the words from the beginning to “(3) above” substitute “ If any question arises as to whether subsection (2) or (3) above applies to any particular case ”.
+**7.**[^c-eca883f9cd1da0aa5e461b7d4e25f2e9] In section 43 (functions with respect to competition), in subsection (6), for the words from the beginning to “(3) above” substitute “ If any question arises as to whether subsection (2) or (3) above applies to any particular case ”.
 
 ### Water Industry Act 1991 (c. 56)
 
 *Extent: E+W*
 
-**8.**[^key-ad89530e20851f7795c3af3518c5bf3e] The Water Industry Act 1991 is amended as follows.
+**8.**[^c-ad89530e20851f7795c3af3518c5bf3e] The Water Industry Act 1991 is amended as follows.
 
-**9.**[^key-3f1839ab329600227ef03e8aeb14c31b] (1) Section 19 (exception to duty to enforce) is amended as follows.
+**9.**[^c-3f1839ab329600227ef03e8aeb14c31b] (1) Section 19 (exception to duty to enforce) is amended as follows.
 
 (2) For subsection (1A) substitute—
 
@@ -101,7 +101,7 @@ Section 51(5)
 - (a) in the words before paragraph (a), for “is satisfied as mentioned in subsection (1A) above” substitute “ has decided that it would be more appropriate to proceed under the Competition Act 1998 ”, and
 - (b) in paragraph (a), after “satisfied” insert “ or has so decided ”.
 
-**10.**[^key-150dcd94678b16f0ed59da072d3e167d] In section 22A (penalties), for subsection (13) substitute—
+**10.**[^c-150dcd94678b16f0ed59da072d3e167d] In section 22A (penalties), for subsection (13) substitute—
 
 > (13) Before imposing a penalty under this section, the Authority shall consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -111,9 +111,9 @@ Section 51(5)
 
 *Extent: E+W+S*
 
-**11.**[^key-cfdf21dfcab6a63803168402b44b1b95] The Railways Act 1993 is amended as follows.
+**11.**[^c-cfdf21dfcab6a63803168402b44b1b95] The Railways Act 1993 is amended as follows.
 
-**12.**[^key-885ad63f389e2102acc1ae757b81d5d6] (1) Section 55 (orders for securing compliance) is amended as follows.
+**12.**[^c-885ad63f389e2102acc1ae757b81d5d6] (1) Section 55 (orders for securing compliance) is amended as follows.
 
 (2) For subsection (5A) substitute—
 
@@ -123,17 +123,17 @@ Section 51(5)
 
 (3) In subsection (5D)(b), for “(5A)” substitute “ (5AA) ”.
 
-**13.**[^key-c34450ea6319052b87ecfd3e1b3f3629] In section 57A (penalties), for subsection (6) substitute—
+**13.**[^c-c34450ea6319052b87ecfd3e1b3f3629] In section 57A (penalties), for subsection (6) substitute—
 
 > (6) Before imposing a penalty under this section, the Office of Rail Regulation shall consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
 > (7) The Office of Rail Regulation shall not impose a penalty under this section if it considers that it would be more appropriate to proceed under the Competition Act 1998.
 
-**14.**[^key-919df6f0540bf70ee1dad0847dfac6a5] In section 67 (functions of the Office of Rail Regulation with respect to competition), in subsection (8), for the words from the beginning to “(3) above” substitute “ If any question arises as to whether subsection (2) or (3) above applies to any particular case ”.
+**14.**[^c-919df6f0540bf70ee1dad0847dfac6a5] In section 67 (functions of the Office of Rail Regulation with respect to competition), in subsection (8), for the words from the beginning to “(3) above” substitute “ If any question arises as to whether subsection (2) or (3) above applies to any particular case ”.
 
 ### Transport Act 2000 (c. 38)
 
-**15.**[^key-5e1e221d51038ac93e70615e47c883e6] (1) Section 21 of the Transport Act 2000 (exceptions to duties to secure compliance) is amended as follows.
+**15.**[^c-5e1e221d51038ac93e70615e47c883e6] (1) Section 21 of the Transport Act 2000 (exceptions to duties to secure compliance) is amended as follows.
 
 (2) In subsection (1), omit paragraph (b) and the “or” preceding it.
 
@@ -145,9 +145,9 @@ Section 51(5)
 
 ### Communications Act 2003 (c. 21)
 
-**16.**[^key-e07935830f6227ea1147b09fdc9a25d6] The Communications Act 2003 is amended as follows.
+**16.**[^c-e07935830f6227ea1147b09fdc9a25d6] The Communications Act 2003 is amended as follows.
 
-**17.**[^key-85aea0c23dc7b3ac92418a81cdfdb4f7] In section 94 (notification of contravention of SMP apparatus conditions), for subsection (10) substitute—
+**17.**[^c-85aea0c23dc7b3ac92418a81cdfdb4f7] In section 94 (notification of contravention of SMP apparatus conditions), for subsection (10) substitute—
 
 > (10) Before giving a notification under this section, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -155,7 +155,7 @@ Section 51(5)
 >
 > (10B) In a case where OFCOM decide that it would be more appropriate to proceed under the Competition Act 1998, they must publish a statement to that effect in such manner as they consider appropriate for bringing their decision to the attention of persons whom they consider are likely to be affected by it.
 
-**18.**[^key-ffd270473e98c906930ca5f851503ad6] In section 96A (notification of contravention of condition other than SMP apparatus condition), for subsection (5) substitute—
+**18.**[^c-ffd270473e98c906930ca5f851503ad6] In section 96A (notification of contravention of condition other than SMP apparatus condition), for subsection (5) substitute—
 
 > (5) Before giving a notification under this section, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -165,7 +165,7 @@ Section 51(5)
 
 ### Postal Services Act 2011 (c. 5)
 
-**19.**[^key-21c8599f63dcd02e3d880e84e1861b51] In Schedule 7 to the Postal Services Act 2011 (enforcement of regulatory requirements) for paragraph 4 substitute—
+**19.**[^c-21c8599f63dcd02e3d880e84e1861b51] In Schedule 7 to the Postal Services Act 2011 (enforcement of regulatory requirements) for paragraph 4 substitute—
 
 > **4.** (1) Before giving a notification under paragraph 2, OFCOM must consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -179,29 +179,29 @@ Section 51(5)
 
 **Not yet in force.**
 
-**20.**[^key-28efd66a94d3d2c65bb8c32a994bd308] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-28efd66a94d3d2c65bb8c32a994bd308] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**21.**[^key-28efd66a94d3d2c65bb8c32a994bd308] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-28efd66a94d3d2c65bb8c32a994bd308] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**22.**[^key-28efd66a94d3d2c65bb8c32a994bd308] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-28efd66a94d3d2c65bb8c32a994bd308] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Electricity (Northern Ireland) Order 1992 (S.I. 1992/231 (N.I. 1))
 
 *Extent: N.I.*
 
-**23.**[^key-a1e655e4f6d16f7f4adc636a57678eef] In article 46 of the Electricity (Northern Ireland) Order 1992, in paragraph (6), for the words from the beginning to “(2A) or (3)” substitute “ If any question arises as to whether paragraph (2) or (3) applies to any particular case ”.
+**23.**[^c-a1e655e4f6d16f7f4adc636a57678eef] In article 46 of the Electricity (Northern Ireland) Order 1992, in paragraph (6), for the words from the beginning to “(2A) or (3)” substitute “ If any question arises as to whether paragraph (2) or (3) applies to any particular case ”.
 
 ### The Energy (Northern Ireland) Order 2003 (S.I. 2003/419 (N.I. 6))
 
 *Extent: N.I.*
 
-**24.**[^key-f220e4af387d27c7a33180a3206dcfad] The Energy (Northern Ireland) Order 2003 is amended as follows.
+**24.**[^c-f220e4af387d27c7a33180a3206dcfad] The Energy (Northern Ireland) Order 2003 is amended as follows.
 
-**25.**[^key-488a39cf0c12967af617292018b55c06] (1) Article 42 (orders for securing compliance) is amended as follows.
+**25.**[^c-488a39cf0c12967af617292018b55c06] (1) Article 42 (orders for securing compliance) is amended as follows.
 
 (2) In paragraph (1), for “, (5) and” substitute “ and (5) to ”.
 
@@ -220,7 +220,7 @@ Section 51(5)
 - (a) in the words before sub-paragraph (a), after “(6)” insert “ or decides that it would be more appropriate to proceed under the Competition Act 1998 ”, and
 - (b) in sub-paragraph (a), after “satisfied” insert “ or has so decided ”.
 
-**26.**[^key-312447e33e3218cd655b82a3034d12df] In article 45 (financial penalties), for paragraph (3) substitute—
+**26.**[^c-312447e33e3218cd655b82a3034d12df] In article 45 (financial penalties), for paragraph (3) substitute—
 
 > (3) Before imposing a penalty under paragraph (1) or (2) the Authority shall consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -230,9 +230,9 @@ Section 51(5)
 
 *Extent: N.I.*
 
-**27.**[^key-f837cb6b8c18435665c9493ac311332c] The Water and Sewerage Services (Northern Ireland) Order 2006 is amended as follows.
+**27.**[^c-f837cb6b8c18435665c9493ac311332c] The Water and Sewerage Services (Northern Ireland) Order 2006 is amended as follows.
 
-**28.**[^key-eaf885324e30bdf3a12a7411e027f3f3] (1) Article 31 (exceptions to duty to enforce) is amended as follows.
+**28.**[^c-eaf885324e30bdf3a12a7411e027f3f3] (1) Article 31 (exceptions to duty to enforce) is amended as follows.
 
 (2) In paragraph (1), omit sub-paragraph (d) and the “or” preceding it.
 
@@ -249,7 +249,7 @@ Section 51(5)
   - (ii) after “paragraph (1)” insert “ or decides that it would be more appropriate to proceed under the Competition Act 1998 ”, and
 - (b) in sub-paragraph (a), after “so satisfied” insert “ or has so decided ”.
 
-**29.**[^key-87120217bee543e083ea3fac2c4f491d] In article 35 (financial penalties), for paragraph (11) substitute—
+**29.**[^c-87120217bee543e083ea3fac2c4f491d] In article 35 (financial penalties), for paragraph (11) substitute—
 
 > (11) Before imposing a penalty under this Article the Authority shall consider whether it would be more appropriate to proceed under the Competition Act 1998.
 >
@@ -257,56 +257,56 @@ Section 51(5)
 
 ## Annotations
 
-[^key-a20ec35e2cdb73a235340250811b21d4]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a20ec35e2cdb73a235340250811b21d4]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/1) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-281624be2d6683cf935d0ce5c128eab6]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-281624be2d6683cf935d0ce5c128eab6]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/2) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-27bde91117ade0012356bd0741613efc]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-27bde91117ade0012356bd0741613efc]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/3) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-b1f1fedb7b89438980d9e3ae3c47ffe1]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b1f1fedb7b89438980d9e3ae3c47ffe1]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/4) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-68fceaa45813c7f560d23dfa01183fc6]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-68fceaa45813c7f560d23dfa01183fc6]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/5) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e596bd4c3307cb8802289ca47e43648d]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/6) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e596bd4c3307cb8802289ca47e43648d]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/6) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-eca883f9cd1da0aa5e461b7d4e25f2e9]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/7) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-eca883f9cd1da0aa5e461b7d4e25f2e9]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/7) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-ad89530e20851f7795c3af3518c5bf3e]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/8) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-ad89530e20851f7795c3af3518c5bf3e]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/8) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-3f1839ab329600227ef03e8aeb14c31b]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/9) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-3f1839ab329600227ef03e8aeb14c31b]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/9) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-150dcd94678b16f0ed59da072d3e167d]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/10) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-150dcd94678b16f0ed59da072d3e167d]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/10) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-cfdf21dfcab6a63803168402b44b1b95]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/11) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-cfdf21dfcab6a63803168402b44b1b95]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/11) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-885ad63f389e2102acc1ae757b81d5d6]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/12) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-885ad63f389e2102acc1ae757b81d5d6]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/12) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-c34450ea6319052b87ecfd3e1b3f3629]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/13) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-c34450ea6319052b87ecfd3e1b3f3629]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/13) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-919df6f0540bf70ee1dad0847dfac6a5]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/14) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-919df6f0540bf70ee1dad0847dfac6a5]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/14) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-5e1e221d51038ac93e70615e47c883e6]: Commencement: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/15) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5e1e221d51038ac93e70615e47c883e6]: Commencement: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/15) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e07935830f6227ea1147b09fdc9a25d6]: Commencement: [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/16) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e07935830f6227ea1147b09fdc9a25d6]: Commencement: [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/16) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-85aea0c23dc7b3ac92418a81cdfdb4f7]: Commencement: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/17) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-85aea0c23dc7b3ac92418a81cdfdb4f7]: Commencement: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/17) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-ffd270473e98c906930ca5f851503ad6]: Commencement: [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/18) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-ffd270473e98c906930ca5f851503ad6]: Commencement: [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/18) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-21c8599f63dcd02e3d880e84e1861b51]: Commencement: [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/19) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-21c8599f63dcd02e3d880e84e1861b51]: Commencement: [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/19) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-28efd66a94d3d2c65bb8c32a994bd308]: Textual amendment: [Sch. 14 paras. 20-22](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/20) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/12/paragraph/9); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-28efd66a94d3d2c65bb8c32a994bd308]: Textual amendment: [Sch. 14 paras. 20-22](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/20) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2022/31/schedule/12/paragraph/9); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-a1e655e4f6d16f7f4adc636a57678eef]: Commencement: [Sch. 14 para. 23](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/23) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1e655e4f6d16f7f4adc636a57678eef]: Commencement: [Sch. 14 para. 23](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/23) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-f220e4af387d27c7a33180a3206dcfad]: Commencement: [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/24) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-f220e4af387d27c7a33180a3206dcfad]: Commencement: [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/24) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-488a39cf0c12967af617292018b55c06]: Commencement: [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/25) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-488a39cf0c12967af617292018b55c06]: Commencement: [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/25) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-312447e33e3218cd655b82a3034d12df]: Commencement: [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/26) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-312447e33e3218cd655b82a3034d12df]: Commencement: [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/26) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-f837cb6b8c18435665c9493ac311332c]: Commencement: [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/27) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-f837cb6b8c18435665c9493ac311332c]: Commencement: [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/27) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-eaf885324e30bdf3a12a7411e027f3f3]: Commencement: [Sch. 14 para. 28](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/28) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-eaf885324e30bdf3a12a7411e027f3f3]: Commencement: [Sch. 14 para. 28](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/28) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-87120217bee543e083ea3fac2c4f491d]: Commencement: [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/29) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-87120217bee543e083ea3fac2c4f491d]: Commencement: [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2013/24/schedule/14/paragraph/29) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/e) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

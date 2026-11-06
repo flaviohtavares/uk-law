@@ -51,7 +51,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent, application and interpretation[^key-d82bc75c25d975c7e497287511308768]
+### 1. Citation, commencement, extent, application and interpretation[^c-d82bc75c25d975c7e497287511308768]
 
 (1) These Regulations may be cited as the Building Regulations etc. (Amendment) (England) Regulations 2021 and come into force on 15th June 2022.
 
@@ -62,15 +62,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - “**the Building Regulations**” means the Building Regulations 2010;
 - “**the Approved Inspectors Regulations**” means the Building (Approved Inspectors etc.) Regulations 2010[^f00003].
 
-(4)[^key-40ccb1bc985dfb3b61a28aaaf9240809] In this regulation and regulation 17, “building” and “building work” have the meanings given in regulation 2(1) of the Building Regulations 2010.
+(4)[^c-40ccb1bc985dfb3b61a28aaaf9240809] In this regulation and regulation 17, “building” and “building work” have the meanings given in regulation 2(1) of the Building Regulations 2010.
 
 ## PART 2 — Amendment of the Building Regulations
 
-### 2. Amendment of the Building Regulations[^key-91750f3f32b64b59c5809d7cf5238afd]
+### 2. Amendment of the Building Regulations[^c-91750f3f32b64b59c5809d7cf5238afd]
 
 The Building Regulations are amended in accordance with regulations 3 to 13.
 
-### 3. Amendment of regulation 2 of the Building Regulations[^key-b4854aa4f2e85df3e209656c30755199]
+### 3. Amendment of regulation 2 of the Building Regulations[^c-b4854aa4f2e85df3e209656c30755199]
 
 In regulation 2(1) (interpretation)—
 
@@ -83,7 +83,7 @@ In regulation 2(1) (interpretation)—
 
   .
 
-### 4. Amendment of regulation 4 of the Building Regulations[^key-c185f51ffda1379dd148455a4868d003]
+### 4. Amendment of regulation 4 of the Building Regulations[^c-c185f51ffda1379dd148455a4868d003]
 
 In regulation 4 (requirements relating to building work), after paragraph (3) insert—
 
@@ -99,7 +99,7 @@ In regulation 4 (requirements relating to building work), after paragraph (3) in
 
 .
 
-### 5. Amendment of regulation 25 of the Building Regulations[^key-134ad7980a384ccb3a5fcdf969bb396d]
+### 5. Amendment of regulation 25 of the Building Regulations[^c-134ad7980a384ccb3a5fcdf969bb396d]
 
 In regulation 25 (minimum energy performance requirements for new buildings)—
 
@@ -112,7 +112,7 @@ In regulation 25 (minimum energy performance requirements for new buildings)—
 
   .
 
-### 6. Insertion of regulation 26C into the Building Regulations[^key-5aab19b8778bb5bd69f2a64b85355a74]
+### 6. Insertion of regulation 26C into the Building Regulations[^c-5aab19b8778bb5bd69f2a64b85355a74]
 
 After regulation 26B (fabric performance values for new dwellings) insert—
 
@@ -122,7 +122,7 @@ After regulation 26B (fabric performance values for new dwellings) insert—
 
 .
 
-### 7. Insertion of regulation 27C into the Building Regulations[^key-94ae3d206c4f188000b3bfe21c425443]
+### 7. Insertion of regulation 27C into the Building Regulations[^c-94ae3d206c4f188000b3bfe21c425443]
 
 After regulation 27B (fabric performance values calculations) insert—
 
@@ -150,7 +150,7 @@ After regulation 27B (fabric performance values calculations) insert—
 
 .
 
-### 8. Insertion of regulations 40A and 40B into the Building Regulations[^key-2ad45cd9ee14bd825f25675f2b1c2501]
+### 8. Insertion of regulations 40A and 40B into the Building Regulations[^c-2ad45cd9ee14bd825f25675f2b1c2501]
 
 After regulation 40 (information about use of fuel and power) insert—
 
@@ -168,11 +168,11 @@ After regulation 40 (information about use of fuel and power) insert—
 
 .
 
-### 9. Amendment of regulation 43 of the Building Regulations[^key-10fe103461d7b0aae899fea793489feb]
+### 9. Amendment of regulation 43 of the Building Regulations[^c-10fe103461d7b0aae899fea793489feb]
 
 In regulation 43(4) (pressure testing) for “the Independent Air Tightness Testing Scheme Limited” substitute “Elmhurst Energy Systems Limited”.
 
-### 10. Insertion of regulation 44ZA into the Building Regulations[^key-7d8e90ad64b9548aa71a9fed42315baa]
+### 10. Insertion of regulation 44ZA into the Building Regulations[^c-7d8e90ad64b9548aa71a9fed42315baa]
 
 After regulation 44 (commissioning) insert—
 
@@ -189,7 +189,7 @@ After regulation 44 (commissioning) insert—
 
 .
 
-### 11. Amendment of Schedule 1 to the Building Regulations[^key-26563a80fd4a7ba4206f20ecf640f028]
+### 11. Amendment of Schedule 1 to the Building Regulations[^c-26563a80fd4a7ba4206f20ecf640f028]
 
 In Schedule 1 (requirements)—
 
@@ -214,7 +214,7 @@ In Schedule 1 (requirements)—
 
   .
 
-### 12. Amendment of Schedule 3 to the Building Regulations[^key-c6ee631fad2f0640b716f9a24873f311]
+### 12. Amendment of Schedule 3 to the Building Regulations[^c-c6ee631fad2f0640b716f9a24873f311]
 
 (1) Schedule 3 (self-certification schemes and exemptions from requirement to give building notice or deposit full plans) is amended as follows.
 
@@ -243,29 +243,29 @@ In Schedule 1 (requirements)—
 - (s) in row 19 after “Certsure LLP”, for “,” substitute “or”;
 - (t) in row 20 after “Certsure LLP”, for “,” substitute “or”.
 
-### 13. Amendment of Schedule 3A to the Building Regulations[^key-237e7321be57c6773be99366f9fc9876]
+### 13. Amendment of Schedule 3A to the Building Regulations[^c-237e7321be57c6773be99366f9fc9876]
 
 In Schedule 3A (third party certification schemes and exemptions from requirement to give building notice or deposit full plans), in column 2 (person inspecting work) of the table omit “, or Stroma Certification Limited”.
 
 ## PART 3 — Amendment of the Approved Inspectors Regulations
 
-### 14. Amendment of the Approved Inspectors Regulations[^key-ee19d4baf9541d97645251724c7f187d]
+### 14. Amendment of the Approved Inspectors Regulations[^c-ee19d4baf9541d97645251724c7f187d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendment of regulation 8 of the Approved Inspectors Regulations[^key-ee19d4baf9541d97645251724c7f187d]
+### 15. Amendment of regulation 8 of the Approved Inspectors Regulations[^c-ee19d4baf9541d97645251724c7f187d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of regulation 20 of the Approved Inspectors Regulations[^key-ee19d4baf9541d97645251724c7f187d]
+### 16. Amendment of regulation 20 of the Approved Inspectors Regulations[^c-ee19d4baf9541d97645251724c7f187d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Transitional Provision
 
-### 17. Transitional provision[^key-33bc7ea8ba88950153220e234de24fb8]
+### 17. Transitional provision[^c-33bc7ea8ba88950153220e234de24fb8]
 
-(1)[^key-42c7843141993d6e8cd0b7748bf81aa8] The amendments made by Parts 2 and 3 of these Regulations (other than regulations 9, 12 and 13) do not apply in relation to—
+(1)[^c-42c7843141993d6e8cd0b7748bf81aa8] The amendments made by Parts 2 and 3 of these Regulations (other than regulations 9, 12 and 13) do not apply in relation to—
 
 - (a) building work to which regulation 9 (transitional provisions) of the Building Regulations &c. (Amendment) (No. 2) Regulations 2013 applies; and
 - (b) building work on a particular building, where a building notice or an initial notice has been given to, or full plans have been deposited with, a local authority, in respect of that building before 15th June 2022, provided that the building work on that building is started before 15th June 2023.
@@ -298,40 +298,40 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00001]: Footnote: [1984 c. 55](https://www.legislation.gov.uk/ukpga/1984/55); section 1 was amended by section 1(1) to (3) of the Sustainable and Secure Buildings Act [2004 (c. 22)](https://www.legislation.gov.uk/ukpga/2004/22). Section 1A was inserted by section 2 of the Sustainable and Secure Buildings Act 2004. Section 14(3) was amended by [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019). There are other amendments, but none is relevant to this instrument.
 
-[^key-d82bc75c25d975c7e497287511308768]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-d82bc75c25d975c7e497287511308768]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
 [^f00002]: Footnote: “**Building**” has the meaning given in regulation 2(1) of the Building Regulations 2010 ([S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214)); that instrument was amended by [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/110](https://www.legislation.gov.uk/uksi/2014/110), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285), [2017/856](https://www.legislation.gov.uk/uksi/2017/856) and 1274. There are other amending instruments but none is relevant.
 
 [^f00003]: Footnote: [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), as amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/747](https://www.legislation.gov.uk/uksi/2013/747), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/579](https://www.legislation.gov.uk/uksi/2014/579) and [2016/285](https://www.legislation.gov.uk/uksi/2016/285); there are other amending instrument but none is relevant.
 
-[^key-40ccb1bc985dfb3b61a28aaaf9240809]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/4) inserted (1.12.2022) by [The Building etc. (Amendment) (England) Regulations 2022 (S.I. 2022/603)](https://www.legislation.gov.uk/uksi/2022/603), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4), [3(1)](https://www.legislation.gov.uk/uksi/2022/603/regulation/3/1)
+[^c-40ccb1bc985dfb3b61a28aaaf9240809]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/4) inserted (1.12.2022) by [The Building etc. (Amendment) (England) Regulations 2022 (S.I. 2022/603)](https://www.legislation.gov.uk/uksi/2022/603), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2022/603/regulation/1/4), [3(1)](https://www.legislation.gov.uk/uksi/2022/603/regulation/3/1)
 
-[^key-91750f3f32b64b59c5809d7cf5238afd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1391/regulation/2) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-91750f3f32b64b59c5809d7cf5238afd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1391/regulation/2) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-b4854aa4f2e85df3e209656c30755199]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1391/regulation/3) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-b4854aa4f2e85df3e209656c30755199]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2021/1391/regulation/3) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-c185f51ffda1379dd148455a4868d003]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1391/regulation/4) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-c185f51ffda1379dd148455a4868d003]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2021/1391/regulation/4) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-134ad7980a384ccb3a5fcdf969bb396d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1391/regulation/5) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-134ad7980a384ccb3a5fcdf969bb396d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1391/regulation/5) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-5aab19b8778bb5bd69f2a64b85355a74]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1391/regulation/6) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-5aab19b8778bb5bd69f2a64b85355a74]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1391/regulation/6) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-94ae3d206c4f188000b3bfe21c425443]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1391/regulation/7) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-94ae3d206c4f188000b3bfe21c425443]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1391/regulation/7) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-2ad45cd9ee14bd825f25675f2b1c2501]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1391/regulation/8) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-2ad45cd9ee14bd825f25675f2b1c2501]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1391/regulation/8) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-10fe103461d7b0aae899fea793489feb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1391/regulation/9) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-10fe103461d7b0aae899fea793489feb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1391/regulation/9) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-7d8e90ad64b9548aa71a9fed42315baa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1391/regulation/10) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-7d8e90ad64b9548aa71a9fed42315baa]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1391/regulation/10) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-26563a80fd4a7ba4206f20ecf640f028]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/1391/regulation/11) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-26563a80fd4a7ba4206f20ecf640f028]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2021/1391/regulation/11) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-c6ee631fad2f0640b716f9a24873f311]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/1391/regulation/12) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-c6ee631fad2f0640b716f9a24873f311]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2021/1391/regulation/12) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-237e7321be57c6773be99366f9fc9876]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/1391/regulation/13) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-237e7321be57c6773be99366f9fc9876]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2021/1391/regulation/13) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-ee19d4baf9541d97645251724c7f187d]: Textual amendment: [Regs. 14-16](https://www.legislation.gov.uk/uksi/2021/1391/regulation/14) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(b)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/b) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-ee19d4baf9541d97645251724c7f187d]: Textual amendment: [Regs. 14-16](https://www.legislation.gov.uk/uksi/2021/1391/regulation/14) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(b)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/b) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-33bc7ea8ba88950153220e234de24fb8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
+[^c-33bc7ea8ba88950153220e234de24fb8]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17) in force at 15.6.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1)
 
-[^key-42c7843141993d6e8cd0b7748bf81aa8]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17/1) substituted (5.6.2023) by [The Building etc. (Amendment) (England) Regulations 2023 (S.I. 2023/520)](https://www.legislation.gov.uk/uksi/2023/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/520/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/520/regulation/3)
+[^c-42c7843141993d6e8cd0b7748bf81aa8]: Textual amendment: [Reg. 17(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17/1) substituted (5.6.2023) by [The Building etc. (Amendment) (England) Regulations 2023 (S.I. 2023/520)](https://www.legislation.gov.uk/uksi/2023/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/520/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/520/regulation/3)

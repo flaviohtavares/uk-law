@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendment of the Immigration (European Economic Area Nationals) (EU Exit) Order 2019[^key-a36f1232de8919601c06b69776c2dc7f][^M_I_df6ea4af-4a50-44fe-f826-4a07f08f8188]
+## 47. Amendment of the Immigration (European Economic Area Nationals) (EU Exit) Order 2019[^c-a36f1232de8919601c06b69776c2dc7f][^M_I_df6ea4af-4a50-44fe-f826-4a07f08f8188]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a36f1232de8919601c06b69776c2dc7f]: Commencement: Reg. 47 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-a36f1232de8919601c06b69776c2dc7f]: Commencement: Reg. 47 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_df6ea4af-4a50-44fe-f826-4a07f08f8188]: Commencement: Reg. 47 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

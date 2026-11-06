@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 154. Application for permission under section 216(3) of the IA 1986[^key-f9450b84688f2d81dcbe04443f2ffd3c]
+## 154. Application for permission under section 216(3) of the IA 1986[^c-f9450b84688f2d81dcbe04443f2ffd3c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9450b84688f2d81dcbe04443f2ffd3c]: Commencement: Rule 154 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-f9450b84688f2d81dcbe04443f2ffd3c]: Commencement: Rule 154 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

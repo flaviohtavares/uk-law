@@ -54,7 +54,7 @@ summary: ''
 - (b) the giving to a person of a caution (within the meaning of Part 5 of the Police Act 1997) in respect of such an offence; or
 - (c) the payment by a person of a fixed penalty under Part 1 of the Criminal Justice and Police Act 2001 in respect of such a sale.
 
-(8) A person guilty of an offence under this section shall be liable, on summary conviction, to a fine[^key-fb9a909296865e081121d98e39e72c1e].
+(8) A person guilty of an offence under this section shall be liable, on summary conviction, to a fine[^c-fb9a909296865e081121d98e39e72c1e].
 
 (9) The Secretary of State may by order amend subsection (8) to increase the maximum fine for the time being specified in that subsection.
 
@@ -64,4 +64,4 @@ summary: ''
 
 [^c21016971]: Textual amendment: Words in s. 147A(1)(a) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 28](https://www.legislation.gov.uk/ukpga/2009/26/section/28), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(e)](https://www.legislation.gov.uk/uksi/2010/125/article/2/e)
 
-[^key-fb9a909296865e081121d98e39e72c1e]: Textual amendment: Words in s. 147A(8) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-fb9a909296865e081121d98e39e72c1e]: Textual amendment: Words in s. 147A(8) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

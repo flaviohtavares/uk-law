@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Conservation and enhancement of protected landscapes[^key-a3afd305fb72e75dbee9cb7c6a196c04]
+## 54. Conservation and enhancement of protected landscapes[^c-a3afd305fb72e75dbee9cb7c6a196c04]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The costs of the consideration of the financial contribution by the assessor are to be paid by the undertaker.
 
-(5) The reasonable costs of the conservation bodies incurred in connection with identifying the appropriate level of the financial contribution under this article are to be agreed[^key-4acc1147f6f88bdd97953aea6a25b4c8] by the parties and paid by the undertaker.
+(5) The reasonable costs of the conservation bodies incurred in connection with identifying the appropriate level of the financial contribution under this article are to be agreed[^c-4acc1147f6f88bdd97953aea6a25b4c8] by the parties and paid by the undertaker.
 
 (6) The assessor is to prepare a recommendation regarding the appropriate level of the financial contribution referred to in paragraph (1).
 
@@ -78,10 +78,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a3afd305fb72e75dbee9cb7c6a196c04]: Commencement: Art. 54 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-a3afd305fb72e75dbee9cb7c6a196c04]: Commencement: Art. 54 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00102]: Footnote: [1949 c. 97](https://www.legislation.gov.uk/ukpga/1949/97). Section 11A was inserted by section 62 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) and subsection (1A) was inserted by section 245(3)(b) of the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55). There are further amendments to section 11A that are not relevant to this Order.
 
 [^f00103]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37). Section 85(A1) was inserted by section 245(6)(a) of the Levelling-up and Regeneration Act 2023. There are further amendments to section 85 that are not relevant to this Order.
 
-[^key-4acc1147f6f88bdd97953aea6a25b4c8]: Textual amendment: Word in [art. 54(5)](https://www.legislation.gov.uk/uksi/2025/1054/article/54/5) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-4acc1147f6f88bdd97953aea6a25b4c8]: Textual amendment: Word in [art. 54(5)](https://www.legislation.gov.uk/uksi/2025/1054/article/54/5) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)

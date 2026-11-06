@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1AA — Orders for production of documents[^key-80993c4d1f1b89dbea851847723a3159][^key-c5cb9b866a676b666a84ffbf9fac6097][^key-a8d75197b9271cfe55cbe40c038ebce9]
+## SCHEDULE 1AA — Orders for production of documents[^c-80993c4d1f1b89dbea851847723a3159][^c-c5cb9b866a676b666a84ffbf9fac6097][^c-a8d75197b9271cfe55cbe40c038ebce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,7 +122,7 @@ unless the appropriate judicial authority is satisfied that this would seriously
 
 (2) For this purpose “**the court**” means—
 
-- (a) in relation to an order made by a Circuit judge or a District Judge (Magistrates' Courts)[^key-d2908968e66b86452aef08e5a8f49078], the Crown Court;
+- (a) in relation to an order made by a Circuit judge or a District Judge (Magistrates' Courts)[^c-d2908968e66b86452aef08e5a8f49078], the Crown Court;
 - (b) in relation to an order made by a sheriff, a sheriff court;
 - (c) in relation to an order made by a county court judge, a county court in Northern Ireland.
 
@@ -139,10 +139,10 @@ unless the appropriate judicial authority is satisfied that this would seriously
 
 ## Annotations
 
-[^key-80993c4d1f1b89dbea851847723a3159]: Modification: Sch. 1AA applied (1.8.2002 for specified purposes) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2002/21/section/36/1), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), art. 2
+[^c-80993c4d1f1b89dbea851847723a3159]: Modification: Sch. 1AA applied (1.8.2002 for specified purposes) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2002/21/section/36/1), [61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), art. 2
 
-[^key-c5cb9b866a676b666a84ffbf9fac6097]: Modification: Sch. 1AA applied (19.4.2013) by [The Small Charitable Donations Regulations 2013 (S.I. 2013/938)](https://www.legislation.gov.uk/uksi/2013/938), [regs. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/938/regulation/4)
+[^c-c5cb9b866a676b666a84ffbf9fac6097]: Modification: Sch. 1AA applied (19.4.2013) by [The Small Charitable Donations Regulations 2013 (S.I. 2013/938)](https://www.legislation.gov.uk/uksi/2013/938), [regs. 1](https://www.legislation.gov.uk/uksi/2013/938/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/938/regulation/4)
 
-[^key-a8d75197b9271cfe55cbe40c038ebce9]: Textual amendment: Sch. 1AA inserted (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/149/2), [Sch. 39](https://www.legislation.gov.uk/ukpga/2000/17/schedule/39)
+[^c-a8d75197b9271cfe55cbe40c038ebce9]: Textual amendment: Sch. 1AA inserted (28.7.2000) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 149(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/149/2), [Sch. 39](https://www.legislation.gov.uk/ukpga/2000/17/schedule/39)
 
-[^key-d2908968e66b86452aef08e5a8f49078]: Textual amendment: Words in Sch. 1AA para. 9(2)(a) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/4/paragraph/2/b); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(u)](https://www.legislation.gov.uk/uksi/2005/910/article/3/u)
+[^c-d2908968e66b86452aef08e5a8f49078]: Textual amendment: Words in Sch. 1AA para. 9(2)(a) inserted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 4 para. 2(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/4/paragraph/2/b); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(u)](https://www.legislation.gov.uk/uksi/2005/910/article/3/u)

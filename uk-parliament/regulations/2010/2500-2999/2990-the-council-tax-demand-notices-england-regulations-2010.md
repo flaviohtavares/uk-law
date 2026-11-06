@@ -44,11 +44,11 @@ Coming into force
 
 14th January 2011
 
-The Secretary of State, in exercise of the powers conferred by sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00001], and being of the opinion that the information which is required to be supplied under regulations 7 and 8 is necessary in order that billing authorities are able to meet their obligations under these Regulations, makes the following Regulations:[^key-880c55bd39352a1b42349410ddac6767]
+The Secretary of State, in exercise of the powers conferred by sections 113(1) and (2) and 116(1) of, and paragraphs 1, 2(4)(e), (g), (i) and (j), 4(4) and (5), and 14(1) and (2) of Schedule 2 and paragraph 6(1) and (2) of Schedule 3 to, the Local Government Finance Act 1992[^f00001], and being of the opinion that the information which is required to be supplied under regulations 7 and 8 is necessary in order that billing authorities are able to meet their obligations under these Regulations, makes the following Regulations:[^c-880c55bd39352a1b42349410ddac6767]
 
 ## PART 1 — General
 
-### 1. Citation, commencement and application[^key-cce8a46815361c5835c96c8e53221250]
+### 1. Citation, commencement and application[^c-cce8a46815361c5835c96c8e53221250]
 
 (1) These Regulations may be cited as the Council Tax (Demand Notices) (England) Regulations 2010 and come into force on 14th January 2011.
 
@@ -59,7 +59,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
 
 (3) The 2009 Regulations have no effect in relation to a notice mentioned in paragraph (2).
 
-### 2. Interpretation[^key-0099bd914fe7dc4d595f73985a8e65e5]
+### 2. Interpretation[^c-0099bd914fe7dc4d595f73985a8e65e5]
 
 (1) In these Regulations—
 
@@ -100,7 +100,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
 - (b) any reference to a levy includes a reference to a substitute levy, and
 - (c) any reference to a year is a reference to a financial year.
 
-### 3. Definition of “gross expenditure”[^key-fc588d58dc6236e0d97626d67b507f86]
+### 3. Definition of “gross expenditure”[^c-fc588d58dc6236e0d97626d67b507f86]
 
 (1) Subject to paragraph (3), the gross expenditure of an authority for a year is the aggregate of the items which are—
 
@@ -124,7 +124,7 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
 
 ## PART 2 — Content of demand notices and the supply of information
 
-### 4. Content of demand notices[^key-13e5872daff6be8b479f84093f3901f8]
+### 4. Content of demand notices[^c-13e5872daff6be8b479f84093f3901f8]
 
 (1) A notice must contain the matters specified in Part 2 of Schedule 1.
 
@@ -135,13 +135,13 @@ The Secretary of State, in exercise of the powers conferred by sections 113(1) a
 
 is not required to contain the matters specified in paragraph 24 of Schedule 1.
 
-### 5. Information supplied with demand notices[^key-0cba9e91520fcd932dcc3e465e0cca36]
+### 5. Information supplied with demand notices[^c-0cba9e91520fcd932dcc3e465e0cca36]
 
 (1) When a billing authority serves a notice on a person it must supply that person with the information specified in Part 2 of Schedule 2.
 
 (2) Paragraph (1) does not apply when a notice is served after the end of the relevant year.
 
-### 6. Invalid notices[^key-93fe0d62df4c69e5219ceb20bc8a9a2e]
+### 6. Invalid notices[^c-93fe0d62df4c69e5219ceb20bc8a9a2e]
 
 (1) If—
 
@@ -152,7 +152,7 @@ the requirement to pay that amount is valid.
 
 (2) Where paragraph (1)(a) applies, as soon as practicable after the mistake is discovered the billing authority must serve a statement of the relevant matter on the person on whom the notice was served.
 
-### 7. Supply of information by precepting authorities[^key-2270ce8cb53ff993787d109b72d1d4df]
+### 7. Supply of information by precepting authorities[^c-2270ce8cb53ff993787d109b72d1d4df]
 
 (1) When a relevant precepting authority issues a precept to a billing authority for a year—
 
@@ -188,7 +188,7 @@ the requirement to pay that amount is valid.
 
 the authority is not required to supply to the billing authority any information which it has already supplied to that authority.
 
-### 8. Supply of information by levying bodies[^key-e906ba5851620d8dd0d006837d4f83e8]
+### 8. Supply of information by levying bodies[^c-e906ba5851620d8dd0d006837d4f83e8]
 
 (1) When a levying body issues a levy for a year it must supply the information in paragraph (2) to each relevant billing authority.
 
@@ -211,7 +211,7 @@ the authority is not required to supply to the billing authority any information
 - (a) if the body issues a levy to a billing authority for the year, that authority; and
 - (b) if the body issues a levy to a major precepting authority for the year, any billing authority to which the precepting authority has power to issue a precept for that year.
 
-### 9. Disapplication of certain requirements concerning efficiency information[^key-29635847078bdb2b94290d56a7dad02a][^f00009]
+### 9. Disapplication of certain requirements concerning efficiency information[^c-29635847078bdb2b94290d56a7dad02a][^f00009]
 
 (1) This regulation applies in relation to a notice which—
 
@@ -249,7 +249,7 @@ Regulation 4(1)
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-84e1b141d120723ef35013f53330e503]
+#### 1. Interpretation[^c-84e1b141d120723ef35013f53330e503]
 
 In this Schedule—
 
@@ -273,25 +273,25 @@ In this Schedule—
 
 ### PART 2 — Matters to be contained in demand notices
 
-#### 2. General matters[^key-aa2d680e6918d7d5e85b7ef93531f889]
+#### 2. General matters[^c-aa2d680e6918d7d5e85b7ef93531f889]
 
 The name (if any) of the person to whom the notice is issued.
 
-**3.**[^key-6695e4c76c9a070caf2efc7974ab1d58] The date the notice is issued.
+**3.**[^c-6695e4c76c9a070caf2efc7974ab1d58] The date the notice is issued.
 
-**4.**[^key-3009fb0b41449267cbc777d5b8c76818] The period to which the notice relates.
+**4.**[^c-3009fb0b41449267cbc777d5b8c76818] The period to which the notice relates.
 
-**5.**[^key-647bb9eaf7201568472875ec8109979a] The address of the dwelling.
+**5.**[^c-647bb9eaf7201568472875ec8109979a] The address of the dwelling.
 
-**6.**[^key-14f1702545e2da5db26494c615536da0] The applicable band.
+**6.**[^c-14f1702545e2da5db26494c615536da0] The applicable band.
 
-#### 7. Amount of council tax[^key-495218955ec6b75f6b89d9ac4b1f636e]
+#### 7. Amount of council tax[^c-495218955ec6b75f6b89d9ac4b1f636e]
 
 The amount set by the billing authority under section 30 of the Act[^f00012] (amounts for different categories of dwellings).
 
-**8.**[^key-ca7b700408ca5ef759682c1b34a4ae3d] Any precept issued to the billing authority by a major precepting authority under section 40(2)(a) of the Act[^f00013] (issue of precepts by major precepting authorities).
+**8.**[^c-ca7b700408ca5ef759682c1b34a4ae3d] Any precept issued to the billing authority by a major precepting authority under section 40(2)(a) of the Act[^f00013] (issue of precepts by major precepting authorities).
 
-**9.**[^key-ae4604c180742a92d2811441adaf6886] The amount calculated by the billing authority under section 36 of the Act (calculation of tax for different valuation bands), or where paragraph 10 applies the following matters instead—
+**9.**[^c-ae4604c180742a92d2811441adaf6886] The amount calculated by the billing authority under section 36 of the Act (calculation of tax for different valuation bands), or where paragraph 10 applies the following matters instead—
 
 - (a) the name of the local precepting authority;
 - (b) such amount of—
@@ -301,18 +301,18 @@ The amount set by the billing authority under section 30 of the Act[^f00012] (am
   mentioned in paragraph 10 as is payable in respect of a dwelling in the applicable band and in the category of dwellings which includes the dwelling; and
 - (c) the amount calculated under section 36 of the Act less the amount mentioned in sub-paragraph (b).
 
-**10.**[^key-4add370d893b95244a0cc480543ba117] This paragraph applies where—
+**10.**[^c-4add370d893b95244a0cc480543ba117] This paragraph applies where—
 
 - (a) a local precepting authority has issued a precept to the billing authority under section 41 of the Act (issue of precepts by local precepting authorities), or
 - (b) the billing authority anticipates such a precept.
 
-#### 11. Comparisons with the preceding year[^key-e237ecbe00c048980319aa2872fcdd7b]
+#### 11. Comparisons with the preceding year[^c-e237ecbe00c048980319aa2872fcdd7b]
 
 Subject to paragraph 12, the percentage change in each of the relevant amounts from the preceding year to the relevant year expressed to one decimal place.
 
-**12.**[^key-df7e71d66d86c2022ec0a3bac0fc0e41] Paragraph 13 applies instead of paragraph 11 where the authority exercising a relevant function as at 1st April in the relevant year is different from the authority that exercised that function as at 1st April in the preceding year.
+**12.**[^c-df7e71d66d86c2022ec0a3bac0fc0e41] Paragraph 13 applies instead of paragraph 11 where the authority exercising a relevant function as at 1st April in the relevant year is different from the authority that exercised that function as at 1st April in the preceding year.
 
-**13.**[^key-5e53fae3ea8f483893bb0e4bc7f20b4e] Where this paragraph applies, the matters are—
+**13.**[^c-5e53fae3ea8f483893bb0e4bc7f20b4e] Where this paragraph applies, the matters are—
 
 - (a) an explanation of why a different authority is exercising the function as at 1st April in the relevant year;
 - (b) the relevant amounts which were included in notices issued (whether by the billing authority or another billing authority) for—
@@ -324,11 +324,11 @@ Subject to paragraph 12, the percentage change in each of the relevant amounts f
 
   expressed to one decimal place.
 
-**14.**[^key-33af4f4f158967cd113bd1ed8e359740] The matters in paragraph 13(a) and (b) may be included in the notice as a footnote to the matter in paragraph 13(c).
+**14.**[^c-33af4f4f158967cd113bd1ed8e359740] The matters in paragraph 13(a) and (b) may be included in the notice as a footnote to the matter in paragraph 13(c).
 
-**15.**[^key-6642a0b8225f3a1adf64f0d0ae809bea] Where the relevant valuation band which applied to the dwelling for the preceding year is different from the applicable band, paragraphs 11 and 13(b) and (c) apply as if the applicable band applied for that year.
+**15.**[^c-6642a0b8225f3a1adf64f0d0ae809bea] Where the relevant valuation band which applied to the dwelling for the preceding year is different from the applicable band, paragraphs 11 and 13(b) and (c) apply as if the applicable band applied for that year.
 
-#### 16. Discounts and reductions[^key-097fd215d0ef9b4544e1729ffae15ea1]
+#### 16. Discounts and reductions[^c-097fd215d0ef9b4544e1729ffae15ea1]
 
 The days (if any) when the amount payable under the notice was calculated by reference to—
 
@@ -339,7 +339,7 @@ The days (if any) when the amount payable under the notice was calculated by ref
 - (e) a determination made under section 11A of the Act[^f00018] (discounts: special provision for England), or
 - (f) a reduction made under section 13A of the Act[^f00019] (billing authority’s power to reduce amount of tax payable).
 
-**17.**[^key-fe7564efa81ab0f2080a8f02fbb2acab] Where paragraph 16(a), (e) or (f) applies—
+**17.**[^c-fe7564efa81ab0f2080a8f02fbb2acab] Where paragraph 16(a), (e) or (f) applies—
 
 - (a) the reasons for the discount or reduction and its amount;
 - (b) a statement that if at any time before the end of the following year the person to whom the notice is issued has reason to believe that the amount of council tax payable—
@@ -349,28 +349,28 @@ The days (if any) when the amount payable under the notice was calculated by ref
   he must notify the billing authority of his belief within a period of 21 days beginning on the day on which he first had that belief; and
 - (c) a statement that if the person fails without reasonable excuse to comply with paragraph (b) the authority may impose on him the penalty which is specified in paragraph 1(2) of Schedule 3 to the Act.
 
-**18.**[^key-f165a12ccd54f76279d8b67d553375ca] Where paragraph 16(b), (c) or (d) applies, the reduction which is applicable.
+**18.**[^c-f165a12ccd54f76279d8b67d553375ca] Where paragraph 16(b), (c) or (d) applies, the reduction which is applicable.
 
-#### 19. Amount to be paid under the notice[^key-a287765182e0748ba3637b9e9aaa97f2]
+#### 19. Amount to be paid under the notice[^c-a287765182e0748ba3637b9e9aaa97f2]
 
 Any amount credited against the amount of council tax which would otherwise be payable.
 
-**20.**[^key-5f90b454e6074cad04be2bd2be75813c] Any penalty or overpayment of council tax benefit which is being recovered under the notice.
+**20.**[^c-5f90b454e6074cad04be2bd2be75813c] Any penalty or overpayment of council tax benefit which is being recovered under the notice.
 
-**21.**[^key-4bef72078c5561e2a1f274fe0761073a] Where—
+**21.**[^c-4bef72078c5561e2a1f274fe0761073a] Where—
 
 - (a) the notice requires the payment of an amount of council tax for any year before the relevant year, and
 - (b) the person to whom the notice is issued has not previously been issued with a notice requiring the payment of that amount,
 
 a statement of the amount.
 
-**22.**[^key-23562e41111c7d17973e9fd70dd89163] The amount required to be paid under the notice, the instalments or other payments required to be paid and the manner in which those payments may be made.
+**22.**[^c-23562e41111c7d17973e9fd70dd89163] The amount required to be paid under the notice, the instalments or other payments required to be paid and the manner in which those payments may be made.
 
-#### 23. Contact details[^key-19d25e77d9fe2c293644fea4c1b77a1f]
+#### 23. Contact details[^c-19d25e77d9fe2c293644fea4c1b77a1f]
 
 A statement of the address and telephone number to which any enquiries may be directed.
 
-#### 24. Explanatory notes[^key-696a40a607507a83838bdb2058bdca1c]
+#### 24. Explanatory notes[^c-696a40a607507a83838bdb2058bdca1c]
 
 Explanatory notes, which must include—
 
@@ -391,7 +391,7 @@ Regulation 5(1)
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-0cd1968ad2d23fed89d48df42b5e2d86]
+#### 1. Interpretation[^c-0cd1968ad2d23fed89d48df42b5e2d86]
 
 (1) In this Schedule “relevant levying body”, in relation to a billing authority, means a levying body which has issued a levy for the relevant year—
 
@@ -402,7 +402,7 @@ Regulation 5(1)
 
 ### PART 2 — Information to be supplied with demand notices
 
-#### 2. Amounts of gross expenditure[^key-f0fc1869239708de2dfe84e8cc943020]
+#### 2. Amounts of gross expenditure[^c-f0fc1869239708de2dfe84e8cc943020]
 
 The gross expenditure of—
 
@@ -412,7 +412,7 @@ The gross expenditure of—
 
 for the relevant year and the preceding year.
 
-#### 3. Amounts of budget requirement[^key-1891ac268322fc45892be1c177c22517]
+#### 3. Amounts of budget requirement[^c-1891ac268322fc45892be1c177c22517]
 
 The budget requirement of—
 
@@ -421,7 +421,7 @@ The budget requirement of—
 
 for the relevant year and the preceding year.
 
-#### 4. Statements concerning gross expenditure and budget requirement[^key-ded2b6a482891221ce484602691cb519]
+#### 4. Statements concerning gross expenditure and budget requirement[^c-ded2b6a482891221ce484602691cb519]
 
 The billing authority’s reasons for any difference between the amounts stated in accordance with—
 
@@ -430,21 +430,21 @@ The billing authority’s reasons for any difference between the amounts stated 
 
 for the same year.
 
-**5.**[^key-57e19568cb05e1187a94d656c837e70b] The billing authority’s opinion of the effect that—
+**5.**[^c-57e19568cb05e1187a94d656c837e70b] The billing authority’s opinion of the effect that—
 
 - (a) its budget requirement, and
 - (b) its gross expenditure,
 
 has on the level of council tax set for the relevant year.
 
-**6.**[^key-2c11ddc40cc0b5ac0ca59b6379dcb8d8] Each relevant precepting authority’s opinion of the effect that—
+**6.**[^c-2c11ddc40cc0b5ac0ca59b6379dcb8d8] Each relevant precepting authority’s opinion of the effect that—
 
 - (a) its budget requirement, and
 - (b) its gross expenditure,
 
 has on the level of its precept issued for the relevant year.
 
-#### 7. Penalties[^key-23083e7b08cabd8c965fda859a80c530]
+#### 7. Penalties[^c-23083e7b08cabd8c965fda859a80c530]
 
 Where—
 
@@ -477,11 +477,11 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 113(1) was amended by paragraph 52(2) of Schedule 7 to the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26). These powers are now vested in the Welsh Ministers so far as they are exercisable in relation to Wales. They were previously transferred to the National Assembly for Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); *see* the entry in Schedule 1 for the Local Government Finance Act 1992. By virtue of paragraphs 30 and 32 of Schedule 11 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), they were transferred to the Welsh Ministers.
 
-[^key-880c55bd39352a1b42349410ddac6767]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2990) excluded (31.1.2012) by [The Council Tax (Demand Notices) (England) Regulations 2011 (S.I. 2011/3038)](https://www.legislation.gov.uk/uksi/2011/3038), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/3)
+[^c-880c55bd39352a1b42349410ddac6767]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/2990) excluded (31.1.2012) by [The Council Tax (Demand Notices) (England) Regulations 2011 (S.I. 2011/3038)](https://www.legislation.gov.uk/uksi/2011/3038), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2011/3038/regulation/1/3)
 
-[^key-cce8a46815361c5835c96c8e53221250]: Commencement: Reg. 1 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-cce8a46815361c5835c96c8e53221250]: Commencement: Reg. 1 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-0099bd914fe7dc4d595f73985a8e65e5]: Commencement: Reg. 2 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-0099bd914fe7dc4d595f73985a8e65e5]: Commencement: Reg. 2 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
 [^f00002]: Footnote: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
 
@@ -497,61 +497,61 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00008]: Footnote: [2008 c.26](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-fc588d58dc6236e0d97626d67b507f86]: Commencement: Reg. 3 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-fc588d58dc6236e0d97626d67b507f86]: Commencement: Reg. 3 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-13e5872daff6be8b479f84093f3901f8]: Commencement: Reg. 4 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-13e5872daff6be8b479f84093f3901f8]: Commencement: Reg. 4 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-0cba9e91520fcd932dcc3e465e0cca36]: Commencement: Reg. 5 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-0cba9e91520fcd932dcc3e465e0cca36]: Commencement: Reg. 5 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-93fe0d62df4c69e5219ceb20bc8a9a2e]: Commencement: Reg. 6 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-93fe0d62df4c69e5219ceb20bc8a9a2e]: Commencement: Reg. 6 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-2270ce8cb53ff993787d109b72d1d4df]: Commencement: Reg. 7 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-2270ce8cb53ff993787d109b72d1d4df]: Commencement: Reg. 7 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-e906ba5851620d8dd0d006837d4f83e8]: Commencement: Reg. 8 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-e906ba5851620d8dd0d006837d4f83e8]: Commencement: Reg. 8 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-29635847078bdb2b94290d56a7dad02a]: Commencement: Reg. 9 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-29635847078bdb2b94290d56a7dad02a]: Commencement: Reg. 9 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
 [^f00009]: Footnote: The requirements which are disapplied concern information about the value for money gains achieved by certain classes of local authority. The requirements for the financial year beginning on 1st April 2009 concern billing authorities, county councils and fire and rescue authorities. The requirements for the financial year beginning on 1st April 2010 concern those authorities and police authorities.
 
-[^key-84e1b141d120723ef35013f53330e503]: Commencement: Sch. 1 para. 1 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-84e1b141d120723ef35013f53330e503]: Commencement: Sch. 1 para. 1 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
 [^f00010]: Footnote: Section 22 was amended by paragraph 45 of Schedule 7 to the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
 [^f00011]: Footnote: Section 22B was inserted by section 77 of the Local Government Act 2003 and amended by section 1(2) to (5) of the Council Tax (New Valuation Lists for England) Act [2006 (c.7)](https://www.legislation.gov.uk/ukpga/2006/7).
 
-[^key-aa2d680e6918d7d5e85b7ef93531f889]: Commencement: Sch. 1 para. 2 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-aa2d680e6918d7d5e85b7ef93531f889]: Commencement: Sch. 1 para. 2 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-6695e4c76c9a070caf2efc7974ab1d58]: Commencement: Sch. 1 para. 3 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-6695e4c76c9a070caf2efc7974ab1d58]: Commencement: Sch. 1 para. 3 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-3009fb0b41449267cbc777d5b8c76818]: Commencement: Sch. 1 para. 4 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-3009fb0b41449267cbc777d5b8c76818]: Commencement: Sch. 1 para. 4 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-647bb9eaf7201568472875ec8109979a]: Commencement: Sch. 1 para. 5 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-647bb9eaf7201568472875ec8109979a]: Commencement: Sch. 1 para. 5 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-14f1702545e2da5db26494c615536da0]: Commencement: Sch. 1 para. 6 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-14f1702545e2da5db26494c615536da0]: Commencement: Sch. 1 para. 6 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-495218955ec6b75f6b89d9ac4b1f636e]: Commencement: Sch. 1 para. 7 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-495218955ec6b75f6b89d9ac4b1f636e]: Commencement: Sch. 1 para. 7 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
 [^f00012]: Footnote: Section 30 was amended by section 81 of the 1999 Act.
 
-[^key-ca7b700408ca5ef759682c1b34a4ae3d]: Commencement: Sch. 1 para. 8 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-ca7b700408ca5ef759682c1b34a4ae3d]: Commencement: Sch. 1 para. 8 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
 [^f00013]: Footnote: Section 40 was amended by section 83 of the 1999 Act.
 
-[^key-ae4604c180742a92d2811441adaf6886]: Commencement: Sch. 1 para. 9 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-ae4604c180742a92d2811441adaf6886]: Commencement: Sch. 1 para. 9 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-4add370d893b95244a0cc480543ba117]: Commencement: Sch. 1 para. 10 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-4add370d893b95244a0cc480543ba117]: Commencement: Sch. 1 para. 10 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-e237ecbe00c048980319aa2872fcdd7b]: Commencement: Sch. 1 para. 11 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-e237ecbe00c048980319aa2872fcdd7b]: Commencement: Sch. 1 para. 11 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-df7e71d66d86c2022ec0a3bac0fc0e41]: Commencement: Sch. 1 para. 12 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-df7e71d66d86c2022ec0a3bac0fc0e41]: Commencement: Sch. 1 para. 12 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-5e53fae3ea8f483893bb0e4bc7f20b4e]: Commencement: Sch. 1 para. 13 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-5e53fae3ea8f483893bb0e4bc7f20b4e]: Commencement: Sch. 1 para. 13 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-33af4f4f158967cd113bd1ed8e359740]: Commencement: Sch. 1 para. 14 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-33af4f4f158967cd113bd1ed8e359740]: Commencement: Sch. 1 para. 14 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-6642a0b8225f3a1adf64f0d0ae809bea]: Commencement: Sch. 1 para. 15 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-6642a0b8225f3a1adf64f0d0ae809bea]: Commencement: Sch. 1 para. 15 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-097fd215d0ef9b4544e1729ffae15ea1]: Commencement: Sch. 1 para. 16 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-097fd215d0ef9b4544e1729ffae15ea1]: Commencement: Sch. 1 para. 16 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
 [^f00014]: Footnote: Section 11 was amended by paragraph 41 of Schedule 7, and Schedule 8, to the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
@@ -565,32 +565,32 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00019]: Footnote: Section 13A was inserted by section 76 of the Local Government Act 2003.
 
-[^key-fe7564efa81ab0f2080a8f02fbb2acab]: Commencement: Sch. 1 para. 17 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-fe7564efa81ab0f2080a8f02fbb2acab]: Commencement: Sch. 1 para. 17 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-f165a12ccd54f76279d8b67d553375ca]: Commencement: Sch. 1 para. 18 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-f165a12ccd54f76279d8b67d553375ca]: Commencement: Sch. 1 para. 18 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-a287765182e0748ba3637b9e9aaa97f2]: Commencement: Sch. 1 para. 19 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-a287765182e0748ba3637b9e9aaa97f2]: Commencement: Sch. 1 para. 19 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-5f90b454e6074cad04be2bd2be75813c]: Commencement: Sch. 1 para. 20 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-5f90b454e6074cad04be2bd2be75813c]: Commencement: Sch. 1 para. 20 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-4bef72078c5561e2a1f274fe0761073a]: Commencement: Sch. 1 para. 21 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-4bef72078c5561e2a1f274fe0761073a]: Commencement: Sch. 1 para. 21 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-23562e41111c7d17973e9fd70dd89163]: Commencement: Sch. 1 para. 22 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-23562e41111c7d17973e9fd70dd89163]: Commencement: Sch. 1 para. 22 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-19d25e77d9fe2c293644fea4c1b77a1f]: Commencement: Sch. 1 para. 23 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-19d25e77d9fe2c293644fea4c1b77a1f]: Commencement: Sch. 1 para. 23 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-696a40a607507a83838bdb2058bdca1c]: Commencement: Sch. 1 para. 24 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-696a40a607507a83838bdb2058bdca1c]: Commencement: Sch. 1 para. 24 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-0cd1968ad2d23fed89d48df42b5e2d86]: Commencement: Sch. 2 para. 1 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-0cd1968ad2d23fed89d48df42b5e2d86]: Commencement: Sch. 2 para. 1 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-f0fc1869239708de2dfe84e8cc943020]: Commencement: Sch. 2 para. 2 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-f0fc1869239708de2dfe84e8cc943020]: Commencement: Sch. 2 para. 2 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-1891ac268322fc45892be1c177c22517]: Commencement: Sch. 2 para. 3 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-1891ac268322fc45892be1c177c22517]: Commencement: Sch. 2 para. 3 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-ded2b6a482891221ce484602691cb519]: Commencement: Sch. 2 para. 4 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-ded2b6a482891221ce484602691cb519]: Commencement: Sch. 2 para. 4 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-57e19568cb05e1187a94d656c837e70b]: Commencement: Sch. 2 para. 5 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-57e19568cb05e1187a94d656c837e70b]: Commencement: Sch. 2 para. 5 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-2c11ddc40cc0b5ac0ca59b6379dcb8d8]: Commencement: Sch. 2 para. 6 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-2c11ddc40cc0b5ac0ca59b6379dcb8d8]: Commencement: Sch. 2 para. 6 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
 
-[^key-23083e7b08cabd8c965fda859a80c530]: Commencement: Sch. 2 para. 7 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)
+[^c-23083e7b08cabd8c965fda859a80c530]: Commencement: Sch. 2 para. 7 in force at 14.1.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2990/regulation/1/1)

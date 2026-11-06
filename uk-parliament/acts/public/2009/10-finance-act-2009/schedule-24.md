@@ -321,7 +321,7 @@ Section 48
 - (a) for “7” substitute “ 6A ”, and
 - (b) for “with guaranteed returns) (see section 522(3)” substitute “ accounted for as liabilities) (see section 521A(3) ”.
 
-**6.**[^key-66a6bfa58700a3d627dfb2264c2787cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-66a6bfa58700a3d627dfb2264c2787cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** (1) Schedule 4 to CTA 2009 (index of expressions) is amended as follows.
 
@@ -434,4 +434,4 @@ relating to a return which begins to be produced before 1 August 2009 can be mad
 
 ## Annotations
 
-[^key-66a6bfa58700a3d627dfb2264c2787cb]: Textual amendment: Sch. 24 para. 6 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-66a6bfa58700a3d627dfb2264c2787cb]: Textual amendment: Sch. 24 para. 6 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

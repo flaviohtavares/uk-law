@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Implementation of national strategy[^key-6a9dc47459c1e60b564d9a94c86bfab8]
+## 3. Implementation of national strategy[^c-6a9dc47459c1e60b564d9a94c86bfab8]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a9dc47459c1e60b564d9a94c86bfab8]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2017/2/section/3) in force at 4.10.2017 by [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/949/article/2/b)
+[^c-6a9dc47459c1e60b564d9a94c86bfab8]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2017/2/section/3) in force at 4.10.2017 by [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/949/article/2/b)

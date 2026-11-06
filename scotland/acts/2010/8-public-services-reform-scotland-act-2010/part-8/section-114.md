@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 114. Scrutiny: duty of co-operation[^key-c25a5377a12fd2393cf23cc5f1a979ac]
+## 114. Scrutiny: duty of co-operation[^c-c25a5377a12fd2393cf23cc5f1a979ac]
 
 *Extent: S*
 
@@ -30,8 +30,8 @@ with a view to achieving the purpose in subsection (2).
 (2) That purpose is improving the exercise of the scrutiny functions of the scheduled scrutiny authorities in relation to—
 
 - (a) local authorities,
-- (b) social services, [^key-bda95d90f5369dff85ee3b1bd5f7ea5a]...
-- (c) health services , and[^key-236e82b00ec28cd4c1de7150c137c6d5]
+- (b) social services, [^c-bda95d90f5369dff85ee3b1bd5f7ea5a]...
+- (c) health services , and[^c-236e82b00ec28cd4c1de7150c137c6d5]
 - (d) policing.
 
 having regard to efficiency, effectiveness and economy.
@@ -40,9 +40,9 @@ having regard to efficiency, effectiveness and economy.
 
 - (a) adding a person, body or office-holder which has scrutiny functions in relation to—
   - (i) local authorities or public services provided by them or on their behalf,
-  - (ii) social services, [^key-1f7f8d2d1be9eedd2e601198eb19a9df]...
+  - (ii) social services, [^c-1f7f8d2d1be9eedd2e601198eb19a9df]...
   - (iii) health services, or
-  - (iv)[^key-1aafa7741ed209fc3bc77f64a75ecc6c] policing, or
+  - (iv)[^c-1aafa7741ed209fc3bc77f64a75ecc6c] policing, or
 - (b) removing an entry.
 
 (4) Before making an order under subsection (3)(a) the Scottish Ministers must consult the person, body or office-holder in question and may consult any other person they think fit.
@@ -69,7 +69,7 @@ having regard to efficiency, effectiveness and economy.
 - (a) references to the scrutiny functions of a person, body or office-holder in relation to local authorities are to such of the functions of the person, body or office-holder as relate to the regulation, audit or inspection of—
   - (i) local authorities, or
   - (ii) public services provided by them or on their behalf,
-- (b) references to the scrutiny functions of a person, body or office-holder in relation to social services , health services or policing[^key-fa8172a0c860f6932dca2eb9f599c72b] are to such of the functions of the person, body or office-holder as relate to the regulation, audit or inspection of those services or, as the case may be, policing[^key-599c22fa0235d68d303816cd7975fc4f].
+- (b) references to the scrutiny functions of a person, body or office-holder in relation to social services , health services or policing[^c-fa8172a0c860f6932dca2eb9f599c72b] are to such of the functions of the person, body or office-holder as relate to the regulation, audit or inspection of those services or, as the case may be, policing[^c-599c22fa0235d68d303816cd7975fc4f].
 
 (11) In this section—
 
@@ -77,23 +77,23 @@ having regard to efficiency, effectiveness and economy.
   - (a) the health service within the meaning of section 108(1) of the National Health Service (Scotland) Act 1978 (c. 29), and
   - (b) independent health care services within the meaning of section 10F of that Act;
 - “**local authorities**” means councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39);
-- “[^key-af90d9fa9a62c6f78fc78158488c724f] **policing** ” has the same meaning as in Part 1 of the Police and Fire Reform (Scotland) Act 2012;
+- “[^c-af90d9fa9a62c6f78fc78158488c724f] **policing** ” has the same meaning as in Part 1 of the Police and Fire Reform (Scotland) Act 2012;
 - “**social services**” has the same meaning as in section 46 of this Act.
 
 ## Annotations
 
-[^key-c25a5377a12fd2393cf23cc5f1a979ac]: Commencement: S. 114 in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-c25a5377a12fd2393cf23cc5f1a979ac]: Commencement: S. 114 in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-bda95d90f5369dff85ee3b1bd5f7ea5a]: Textual amendment: Word in s. 114(2)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(a)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/a/i); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-bda95d90f5369dff85ee3b1bd5f7ea5a]: Textual amendment: Word in s. 114(2)(b) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(a)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/a/i); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-236e82b00ec28cd4c1de7150c137c6d5]: Textual amendment: S. 114(2)(d) and word inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(a)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/a/ii); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-236e82b00ec28cd4c1de7150c137c6d5]: Textual amendment: S. 114(2)(d) and word inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(a)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/a/ii); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-1f7f8d2d1be9eedd2e601198eb19a9df]: Textual amendment: Word in s. 114(3)(a)(ii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(b)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/b/i); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1f7f8d2d1be9eedd2e601198eb19a9df]: Textual amendment: Word in s. 114(3)(a)(ii) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(b)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/b/i); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-1aafa7741ed209fc3bc77f64a75ecc6c]: Textual amendment: S. 114(3)(a)(iv) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(b)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/b/ii); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-1aafa7741ed209fc3bc77f64a75ecc6c]: Textual amendment: S. 114(3)(a)(iv) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(b)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/b/ii); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-fa8172a0c860f6932dca2eb9f599c72b]: Textual amendment: Words in s. 114(10)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(c)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/c/i); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-fa8172a0c860f6932dca2eb9f599c72b]: Textual amendment: Words in s. 114(10)(b) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(c)(i)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/c/i); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-599c22fa0235d68d303816cd7975fc4f]: Textual amendment: Words in s. 114(10)(b) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(c)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/c/ii); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-599c22fa0235d68d303816cd7975fc4f]: Textual amendment: Words in s. 114(10)(b) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(c)(ii)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/c/ii); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-af90d9fa9a62c6f78fc78158488c724f]: Textual amendment: Definition in s. 114(11) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(d)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/d); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-af90d9fa9a62c6f78fc78158488c724f]: Textual amendment: Definition in s. 114(11) inserted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 40(2)(d)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/40/2/d); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Exercise of right to buy: date of entry and payment of price[^key-a75759800ebd09912bc11856e48cad14]
+## 54. Exercise of right to buy: date of entry and payment of price[^c-a75759800ebd09912bc11856e48cad14]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In section 56 of the 2003 Act (procedure for buying)—
 
 ## Annotations
 
-[^key-a75759800ebd09912bc11856e48cad14]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/6/section/54) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-a75759800ebd09912bc11856e48cad14]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/6/section/54) in force at 15.4.2016 by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

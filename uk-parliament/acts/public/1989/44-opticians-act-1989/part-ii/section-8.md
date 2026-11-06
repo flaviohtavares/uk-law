@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d3806fdbe714dfe131b877c58a65d246] A person shall be entitled to have his name in the appropriate register if he satisfies the Council that he—
+(1)[^c-d3806fdbe714dfe131b877c58a65d246] A person shall be entitled to have his name in the appropriate register if he satisfies the Council that he—
 
 - (a) holds a qualification—
   - (i) as an optometrist or a dispensing optician;
@@ -29,7 +29,7 @@ summary: ''
 - (b) has had adequate practical experience in the work of an optometrist or a dispensing optician; and
 - (c) is a fit person to practise as an optometrist or a dispensing optician.
 
-(1A)[^key-e90e73bc6ca4adbea26c37990aeb90f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-e90e73bc6ca4adbea26c37990aeb90f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to subsection (2A), a person shall be entitled to have his name in the appropriate register if he satisfies the Council that he—
 
@@ -44,14 +44,14 @@ summary: ''
 
 as they consider appropriate.
 
-(2B)[^key-bbaf2f12c31746992d295b52749470c8] A determination under subsection (2A) may not be made in relation to a person whose qualification—
+(2B)[^c-bbaf2f12c31746992d295b52749470c8] A determination under subsection (2A) may not be made in relation to a person whose qualification—
 
 - (a) was granted in a relevant European State, and
 - (b) indicates, in the opinion of the Council, a level of attainment of competency comparable to that indicated by an approved UK qualification.
 
-(2C)[^key-f1781571e24beacacb2ea4746b222405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-f1781571e24beacacb2ea4746b222405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2D)[^key-fe929c9e5aad81649f1b7f34eaa435e8] Subsections (2E) to (2H) apply instead of subsections (2) to (2B) in the case of a person whose qualification is a specified state qualification.
+(2D)[^c-fe929c9e5aad81649f1b7f34eaa435e8] Subsections (2E) to (2H) apply instead of subsections (2) to (2B) in the case of a person whose qualification is a specified state qualification.
 
 (2E) Subject to subsection (2F), a person is entitled to have the person’s name in the appropriate register if the person satisfies the Council that—
 
@@ -75,8 +75,8 @@ as they consider appropriate.
 
 (4) Any person who on an application made not later than lst June 1961 satisfied the Council—
 
-- (a) that on the date of his application he held a qualification as an optometrist[^key-5e92db84508cb2aa8c11f4149931e3f3] or dispensing optician recognised by them for the purposes of this subsection; and
-- (b) that he had had adequate practical experience in the work of an optometrist[^key-24de53cbce6135d4f11baf5d4b682c9c] or dispensing optician; and
+- (a) that on the date of his application he held a qualification as an optometrist[^c-5e92db84508cb2aa8c11f4149931e3f3] or dispensing optician recognised by them for the purposes of this subsection; and
+- (b) that he had had adequate practical experience in the work of an optometrist[^c-24de53cbce6135d4f11baf5d4b682c9c] or dispensing optician; and
 - (c) that he was of good character,
 
 shall be entitled to be registered in the appropriate register.
@@ -84,7 +84,7 @@ shall be entitled to be registered in the appropriate register.
 (5) Any person who on an application made after lst June 1961 but before this Act came into force satisfied the Council—
 
 - (a) that on lst June 1961 he held a qualification such as is mentioned in paragraph (a) of subsection (4) above; and
-- (b) that he had had adequate practical experience in the work of an optometrist[^key-a549990f884e063c4eb35c1dd2c2769d] or dispensing optician; and
+- (b) that he had had adequate practical experience in the work of an optometrist[^c-a549990f884e063c4eb35c1dd2c2769d] or dispensing optician; and
 - (c) that he was of good character,
 
 shall be entitled to be registered in the appropriate register.
@@ -92,52 +92,52 @@ shall be entitled to be registered in the appropriate register.
 (6) Any person who on an application made after this Act comes into force satisfies the Council—
 
 - (a) that on lst June 1961 he held a qualification such as is mentioned in paragraph (a) of subsection (4) above; and
-- (b) that he has had adequate practical experience in the work of an optometrist[^key-36a9a0662b23d343a83175ada94c9b4b] or dispensing optician; and
-- (c)[^key-5dd3b2f41ea1fded94f46fe0dd976e1f] that he is a fit person to practise as an optometrist or a dispensing optician,
+- (b) that he has had adequate practical experience in the work of an optometrist[^c-36a9a0662b23d343a83175ada94c9b4b] or dispensing optician; and
+- (c)[^c-5dd3b2f41ea1fded94f46fe0dd976e1f] that he is a fit person to practise as an optometrist or a dispensing optician,
 
 shall be entitled to be registered in the appropriate register.
 
-(7) In the case of a person whose qualifications (including experience) are appropriate for optometrists, the register of optometrists and the register of dispensing opticians are both appropriate registers[^key-5ce107d23fd8d040471f56d10e56df40] for the purposes of this section and, in the case of a person whose qualifications (including experience) are only appropriate for a dispensing optician, the register of dispensing opticians is appropriate for those purposes.
+(7) In the case of a person whose qualifications (including experience) are appropriate for optometrists, the register of optometrists and the register of dispensing opticians are both appropriate registers[^c-5ce107d23fd8d040471f56d10e56df40] for the purposes of this section and, in the case of a person whose qualifications (including experience) are only appropriate for a dispensing optician, the register of dispensing opticians is appropriate for those purposes.
 
-(8)[^key-fdf1ff1fc83251cc0d17bfa9e384bcf7] A person may have his name in both the register of dispensing opticians and the register of those undertaking training as optometrists.
+(8)[^c-fdf1ff1fc83251cc0d17bfa9e384bcf7] A person may have his name in both the register of dispensing opticians and the register of those undertaking training as optometrists.
 
 (8A) Except as provided in subsection (8) above, a person may not have his name in more than one register.
 
 (9) Where the Council have refused to grant an application for registration under subsection (4), (5) or (6) above, the Privy Council, on representations being made to them, may if they think fit, after considering the representations and after communicating with the Council, order the Council to grant the application.
 
-(10)[^key-c48ab43fdc8ab2c69dee4fbe80da8993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c48ab43fdc8ab2c69dee4fbe80da8993] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-ccc5551e3d3f4da438ddcdd264d1fd6d] In this section “**approved UK qualification**” means a qualification that is—
+(11)[^c-ccc5551e3d3f4da438ddcdd264d1fd6d] In this section “**approved UK qualification**” means a qualification that is—
 
 - (a) approved under section 12(7)(b), and
 - (b) granted by an establishment in the United Kingdom that is approved under section 12(7)(a).
 
 ## Annotations
 
-[^key-d3806fdbe714dfe131b877c58a65d246]: Textual amendment: S. 8(1)-(2A) substituted for s. 8(1) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(2)](https://www.legislation.gov.uk/uksi/2005/848/article/8/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-d3806fdbe714dfe131b877c58a65d246]: Textual amendment: S. 8(1)-(2A) substituted for s. 8(1) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(2)](https://www.legislation.gov.uk/uksi/2005/848/article/8/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-e90e73bc6ca4adbea26c37990aeb90f1]: Textual amendment: S. 8(1A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/3/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e90e73bc6ca4adbea26c37990aeb90f1]: Textual amendment: S. 8(1A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/3/a) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bbaf2f12c31746992d295b52749470c8]: Textual amendment: S. 8(2B)(2C) inserted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/3/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-bbaf2f12c31746992d295b52749470c8]: Textual amendment: S. 8(2B)(2C) inserted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/paragraph/3/b) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/5/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [13](https://www.legislation.gov.uk/uksi/2020/1394/regulation/13)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-f1781571e24beacacb2ea4746b222405]: Textual amendment: [S. 8(2C)](https://www.legislation.gov.uk/ukpga/1989/44/section/8/2C) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 37(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/37/a)
+[^c-f1781571e24beacacb2ea4746b222405]: Textual amendment: [S. 8(2C)](https://www.legislation.gov.uk/ukpga/1989/44/section/8/2C) omitted (1.12.2023) by virtue of [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 37(a)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/37/a)
 
-[^key-fe929c9e5aad81649f1b7f34eaa435e8]: Textual amendment: [S. 8(2D)-(2I)](https://www.legislation.gov.uk/ukpga/1989/44/section/8/2D) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 37(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/37/b)
+[^c-fe929c9e5aad81649f1b7f34eaa435e8]: Textual amendment: [S. 8(2D)-(2I)](https://www.legislation.gov.uk/ukpga/1989/44/section/8/2D) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 37(b)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/37/b)
 
-[^key-5e92db84508cb2aa8c11f4149931e3f3]: Textual amendment: Word in s. 8(4)(a) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(3)](https://www.legislation.gov.uk/uksi/2005/848/article/8/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-5e92db84508cb2aa8c11f4149931e3f3]: Textual amendment: Word in s. 8(4)(a) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(3)](https://www.legislation.gov.uk/uksi/2005/848/article/8/3) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-24de53cbce6135d4f11baf5d4b682c9c]: Textual amendment: Word in s. 8(4)(b) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(4)](https://www.legislation.gov.uk/uksi/2005/848/article/8/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-24de53cbce6135d4f11baf5d4b682c9c]: Textual amendment: Word in s. 8(4)(b) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(4)](https://www.legislation.gov.uk/uksi/2005/848/article/8/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-a549990f884e063c4eb35c1dd2c2769d]: Textual amendment: Word in s. 8(5)(b) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(4)](https://www.legislation.gov.uk/uksi/2005/848/article/8/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-a549990f884e063c4eb35c1dd2c2769d]: Textual amendment: Word in s. 8(5)(b) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(4)](https://www.legislation.gov.uk/uksi/2005/848/article/8/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-36a9a0662b23d343a83175ada94c9b4b]: Textual amendment: Word in s. 8(6)(b) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(4)](https://www.legislation.gov.uk/uksi/2005/848/article/8/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-36a9a0662b23d343a83175ada94c9b4b]: Textual amendment: Word in s. 8(6)(b) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(4)](https://www.legislation.gov.uk/uksi/2005/848/article/8/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-5dd3b2f41ea1fded94f46fe0dd976e1f]: Textual amendment: S. 8(6)(c) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(5)](https://www.legislation.gov.uk/uksi/2005/848/article/8/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-5dd3b2f41ea1fded94f46fe0dd976e1f]: Textual amendment: S. 8(6)(c) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(5)](https://www.legislation.gov.uk/uksi/2005/848/article/8/5) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-5ce107d23fd8d040471f56d10e56df40]: Textual amendment: Words in s. 8(7) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(6)](https://www.legislation.gov.uk/uksi/2005/848/article/8/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-5ce107d23fd8d040471f56d10e56df40]: Textual amendment: Words in s. 8(7) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(6)](https://www.legislation.gov.uk/uksi/2005/848/article/8/6) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-fdf1ff1fc83251cc0d17bfa9e384bcf7]: Textual amendment: S. 8(8)(8A) substituted for s. 8(8) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(7)](https://www.legislation.gov.uk/uksi/2005/848/article/8/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-fdf1ff1fc83251cc0d17bfa9e384bcf7]: Textual amendment: S. 8(8)(8A) substituted for s. 8(8) (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 8(7)](https://www.legislation.gov.uk/uksi/2005/848/article/8/7) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-c48ab43fdc8ab2c69dee4fbe80da8993]: Textual amendment: S. 8(10) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [179(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/179/b)
+[^c-c48ab43fdc8ab2c69dee4fbe80da8993]: Textual amendment: S. 8(10) omitted (3.12.2007) by virtue of [The European Qualifications (Health and Social Care Professions) Regulations 2007 (S.I. 2007/3101)](https://www.legislation.gov.uk/uksi/2007/3101), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/1/2), [179(b)](https://www.legislation.gov.uk/uksi/2007/3101/regulation/179/b)
 
-[^key-ccc5551e3d3f4da438ddcdd264d1fd6d]: Textual amendment: [S. 8(11)](https://www.legislation.gov.uk/ukpga/1989/44/section/8/11) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 37(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/37/c)
+[^c-ccc5551e3d3f4da438ddcdd264d1fd6d]: Textual amendment: [S. 8(11)](https://www.legislation.gov.uk/ukpga/1989/44/section/8/11) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 37(c)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/37/c)

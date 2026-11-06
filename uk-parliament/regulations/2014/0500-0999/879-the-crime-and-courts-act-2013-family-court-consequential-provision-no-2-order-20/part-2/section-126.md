@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Amendments to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011[^key-751583a0f709f3706685a4935e49d667]
+## 126. Amendments to the Civil Jurisdiction and Judgments (Maintenance) Regulations 2011[^c-751583a0f709f3706685a4935e49d667]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 1 to the Civil Jurisdiction and Judgments (Maintenance) Regulations 201
 
 ## Annotations
 
-[^key-751583a0f709f3706685a4935e49d667]: Commencement: Art. 126 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-751583a0f709f3706685a4935e49d667]: Commencement: Art. 126 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00039]: Footnote: [S.I. 2011/1484](https://www.legislation.gov.uk/uksi/2011/1484). [S.I. 2012/2814](https://www.legislation.gov.uk/uksi/2012/2814) makes relevant amendments.

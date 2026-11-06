@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132A. Appeals where proposed variation considered exempt[^key-0b6272af9255d324e5d2d5bee19279c2][^key-c05adb8597f2acc398b3fefbd54794ff][^key-eff8e6eccae20f46a12ca9e627d37ecd]
+## 132A. Appeals where proposed variation considered exempt[^c-0b6272af9255d324e5d2d5bee19279c2][^c-c05adb8597f2acc398b3fefbd54794ff][^c-eff8e6eccae20f46a12ca9e627d37ecd]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) decide that the proposal is an exempt variation for the purposes of that section, and
 - (b) acting on the basis of that decision, decide to vary the scheme under that section.
 
-(2) Any person falling within subsection (3) may appeal to the Upper[^key-006d35479a39f1a6a4f635a450ed0901] Tribunal against—
+(2) Any person falling within subsection (3) may appeal to the Upper[^c-006d35479a39f1a6a4f635a450ed0901] Tribunal against—
 
 - (a) the decision of the authority or authorities that the variation is an exempt variation for the purposes of section 132, or
 - (b) the decision of the authority or authorities as to the variation of the scheme under that section.
@@ -33,14 +33,14 @@ summary: ''
 (3) The persons are—
 
 - (a) any person who was consulted under section 125(3) (as it applies by virtue of subsection (8) or, as the case may be, (9)(b) of section 132 in a case where the variation is an exempt variation for the purposes of section 132),
-- (b) any person who was not so consulted, but who, in the opinion of the Upper[^key-6878a110e40707a693ad08d61a3bb5b3] Tribunal, ought to have been so consulted.
+- (b) any person who was not so consulted, but who, in the opinion of the Upper[^c-6878a110e40707a693ad08d61a3bb5b3] Tribunal, ought to have been so consulted.
 
 (4) An appeal under this section may be—
 
 - (a) on a point of law, or
 - (b) on a question of fact.
 
-(5) On an appeal under this section the Upper[^key-8558a20e1a6064b5a45f8875d8640ed8] Tribunal shall have power—
+(5) On an appeal under this section the Upper[^c-8558a20e1a6064b5a45f8875d8640ed8] Tribunal shall have power—
 
 - (a) to make such order as they think fit, or
 - (b) to remit any matter (with or without directions) to the authority or authorities for their consideration or determination or for such other purposes as the Tribunal may direct.
@@ -74,7 +74,7 @@ summary: ''
 
 (11) Where the Tribunal give directions falling within subsection (10), they may also make provision in the order dispensing with the need to comply with such procedural requirements imposed by or under this Part as they may specify in the order.
 
-(12) [^key-e74ab3baff77d3d24aa81785c96c6f05]... the Tribunal may not make any order which has the effect of—
+(12) [^c-e74ab3baff77d3d24aa81785c96c6f05]... the Tribunal may not make any order which has the effect of—
 
 - (a) giving approval under section 126 as it applies by virtue of section 132, or
 - (b) dispensing with the need for any such approval,
@@ -85,16 +85,16 @@ but this is without prejudice to the temporary provision that may be made in dir
 
 ## Annotations
 
-[^key-0b6272af9255d324e5d2d5bee19279c2]: Modification: S. 132A: transfer of functions (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [arts. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2015/65/article/2/2/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/65/schedule/2))
+[^c-0b6272af9255d324e5d2d5bee19279c2]: Modification: S. 132A: transfer of functions (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [arts. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [2(2)(f)](https://www.legislation.gov.uk/uksi/2015/65/article/2/2/f) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/65/schedule/2))
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-eff8e6eccae20f46a12ca9e627d37ecd]: Textual amendment: S. 132A inserted (26.11.2008 for specified purposes, 11.1.2010 for E. in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 38](https://www.legislation.gov.uk/ukpga/2008/26/section/38), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-eff8e6eccae20f46a12ca9e627d37ecd]: Textual amendment: S. 132A inserted (26.11.2008 for specified purposes, 11.1.2010 for E. in so far as not already in force) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 38](https://www.legislation.gov.uk/ukpga/2008/26/section/38), [134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)[(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
 
-[^key-006d35479a39f1a6a4f635a450ed0901]: Textual amendment: Word in s. 132A(2) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(f)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
+[^c-006d35479a39f1a6a4f635a450ed0901]: Textual amendment: Word in s. 132A(2) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(f)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
 
-[^key-6878a110e40707a693ad08d61a3bb5b3]: Textual amendment: Word in s. 132A(3)(b) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(f)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
+[^c-6878a110e40707a693ad08d61a3bb5b3]: Textual amendment: Word in s. 132A(3)(b) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(f)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
 
-[^key-8558a20e1a6064b5a45f8875d8640ed8]: Textual amendment: Word in s. 132A(5) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(f)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
+[^c-8558a20e1a6064b5a45f8875d8640ed8]: Textual amendment: Word in s. 132A(5) substituted (27.1.2015) by [The Transfer of Tribunal Functions (Transport Tribunal) Order 2015 (S.I. 2015/65)](https://www.legislation.gov.uk/uksi/2015/65), [art. 1](https://www.legislation.gov.uk/uksi/2015/65/article/1), [Sch. 1 para. 5(f)](https://www.legislation.gov.uk/uksi/2015/65/schedule/1/paragraph/5)
 
-[^key-e74ab3baff77d3d24aa81785c96c6f05]: Textual amendment: Words in s. 132A(12) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/18)
+[^c-e74ab3baff77d3d24aa81785c96c6f05]: Textual amendment: Words in s. 132A(12) omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2017/21/schedule/2/paragraph/18)

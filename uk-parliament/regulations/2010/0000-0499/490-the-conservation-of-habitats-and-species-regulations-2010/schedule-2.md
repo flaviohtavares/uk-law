@@ -14,13 +14,13 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 2 — EUROPEAN PROTECTED SPECIES OF ANIMALS[^key-04570ba2256f17544c1797a44cc3e3e5]
+## SCHEDULE 2 — EUROPEAN PROTECTED SPECIES OF ANIMALS[^c-04570ba2256f17544c1797a44cc3e3e5]
 
 **No longer in force.**
 
 Regulation 40(1)
 
-[^key-04570ba2256f17544c1797a44cc3e3e5]
+[^c-04570ba2256f17544c1797a44cc3e3e5]
 
 | *Common name* | *Scientific name* |
 | --- | --- |
@@ -41,10 +41,10 @@ Regulation 40(1)
 | Toad, Natterjack | Bufo calamita |
 | Turtles, Marine | Caretta caretta<br>Chelonia mydas<br>Lepidochelys kempii<br>Eretmochelys imbricata<br>Dermochelys coriacea |
 
-[^key-04570ba2256f17544c1797a44cc3e3e5]
+[^c-04570ba2256f17544c1797a44cc3e3e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-04570ba2256f17544c1797a44cc3e3e5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/2) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-04570ba2256f17544c1797a44cc3e3e5]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/490/schedule/2) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

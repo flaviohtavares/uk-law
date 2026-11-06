@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88B (Extent: E). Guidance on littering enforcement in England and Wales (Extent: E)[^key-ee22d9a6b486c9e3d905d4be269350f5]
+## 88B (Extent: E). Guidance on littering enforcement in England and Wales (Extent: E)[^c-ee22d9a6b486c9e3d905d4be269350f5]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee22d9a6b486c9e3d905d4be269350f5]: Textual amendment: [S. 88B](https://www.legislation.gov.uk/ukpga/1990/43/section/88B) inserted (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)
+[^c-ee22d9a6b486c9e3d905d4be269350f5]: Textual amendment: [S. 88B](https://www.legislation.gov.uk/ukpga/1990/43/section/88B) inserted (1.4.2023 for E.) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 68(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/68/3), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/4) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2023/381](https://www.legislation.gov.uk/uksi/2023/381), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/381/regulation/2/a)

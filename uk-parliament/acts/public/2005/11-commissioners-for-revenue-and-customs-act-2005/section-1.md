@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Commissioners[^key-288d8d0fd4e32c1f8bad38732e133552]
+## 1. The Commissioners[^c-288d8d0fd4e32c1f8bad38732e133552]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-288d8d0fd4e32c1f8bad38732e133552]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2005/11/section/1) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-288d8d0fd4e32c1f8bad38732e133552]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2005/11/section/1) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Health and Safety (Young Persons) Regulations 1997 (revoked)[^key-1a6cbea732ed7576c7641e65fef7abd0]
+The Health and Safety (Young Persons) Regulations 1997 (revoked)[^c-1a6cbea732ed7576c7641e65fef7abd0]
 
 Made
 
@@ -44,21 +44,21 @@ Coming into force
 
 3rd March 1997
 
-[^key-1a6cbea732ed7576c7641e65fef7abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a6cbea732ed7576c7641e65fef7abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-1a6cbea732ed7576c7641e65fef7abd0]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Management Regulations[^key-1a6cbea732ed7576c7641e65fef7abd0]
+## 1. Citation, commencement and interpretation[^c-1a6cbea732ed7576c7641e65fef7abd0]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Repeals and revocations[^key-1a6cbea732ed7576c7641e65fef7abd0]
+## 2. Amendment of the Management Regulations[^c-1a6cbea732ed7576c7641e65fef7abd0]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Repeals and revocations[^c-1a6cbea732ed7576c7641e65fef7abd0]
 
 **Not yet in force.**
 
@@ -66,26 +66,26 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a6cbea732ed7576c7641e65fef7abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a6cbea732ed7576c7641e65fef7abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## THE SCHEDULE — REPEALS AND REVOCATIONS[^key-1a6cbea732ed7576c7641e65fef7abd0]
+## THE SCHEDULE — REPEALS AND REVOCATIONS[^c-1a6cbea732ed7576c7641e65fef7abd0]
 
 Regulation 3
 
-### PART I — REPEALS[^key-1a6cbea732ed7576c7641e65fef7abd0]
+### PART I — REPEALS[^c-1a6cbea732ed7576c7641e65fef7abd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — REVOCATIONS[^key-1a6cbea732ed7576c7641e65fef7abd0]
+### PART II — REVOCATIONS[^c-1a6cbea732ed7576c7641e65fef7abd0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a6cbea732ed7576c7641e65fef7abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a6cbea732ed7576c7641e65fef7abd0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a6cbea732ed7576c7641e65fef7abd0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1997/135) revoked (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [29(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/29/1) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1))
+[^c-1a6cbea732ed7576c7641e65fef7abd0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1997/135) revoked (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [29(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/29/1) (with [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1))

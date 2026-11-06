@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Creosote (Prohibition on Use and Marketing)(No. 2) Amendment Regulations 2003 (revoked)[^key-da41a7285be2c63cc15891f6af1a4a16]
+The Creosote (Prohibition on Use and Marketing)(No. 2) Amendment Regulations 2003 (revoked)[^c-da41a7285be2c63cc15891f6af1a4a16]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 12th November 2003
 
-[^key-da41a7285be2c63cc15891f6af1a4a16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da41a7285be2c63cc15891f6af1a4a16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-da41a7285be2c63cc15891f6af1a4a16]
+## 1. Citation, commencement and extent[^c-da41a7285be2c63cc15891f6af1a4a16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Creosote (Prohibition on Use and Marketing)(No.2) Regulations 2003[^key-da41a7285be2c63cc15891f6af1a4a16]
+## 2. Amendment to the Creosote (Prohibition on Use and Marketing)(No.2) Regulations 2003[^c-da41a7285be2c63cc15891f6af1a4a16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da41a7285be2c63cc15891f6af1a4a16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da41a7285be2c63cc15891f6af1a4a16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-da41a7285be2c63cc15891f6af1a4a16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da41a7285be2c63cc15891f6af1a4a16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da41a7285be2c63cc15891f6af1a4a16]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [reg. 1](https://www.legislation.gov.uk/uksi/2008/2852/regulation/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)
+[^c-da41a7285be2c63cc15891f6af1a4a16]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [reg. 1](https://www.legislation.gov.uk/uksi/2008/2852/regulation/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)

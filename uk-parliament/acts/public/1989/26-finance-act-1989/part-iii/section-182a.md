@@ -41,11 +41,11 @@ summary: ''
 
 (6) In this section—
 
-- “**the Arbitration Convention**” has the meaning given by section 126 of the Taxation (International and Other Provisions) Act 2010[^key-d0bb401a156c672d4cf8fe1babaec083];
+- “**the Arbitration Convention**” has the meaning given by section 126 of the Taxation (International and Other Provisions) Act 2010[^c-d0bb401a156c672d4cf8fe1babaec083];
 - “**the Board**” means the Commissioners of Inland Revenue.
 
 ## Annotations
 
 [^c13122011]: Textual amendment: S. 182A inserted (16.7.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 51(3)](https://www.legislation.gov.uk/ukpga/1992/48/section/51/3)
 
-[^key-d0bb401a156c672d4cf8fe1babaec083]: Textual amendment: Words in [s. 182A(6)](https://www.legislation.gov.uk/ukpga/1989/26/section/182A/6) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 39](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/39) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-d0bb401a156c672d4cf8fe1babaec083]: Textual amendment: Words in [s. 182A(6)](https://www.legislation.gov.uk/ukpga/1989/26/section/182A/6) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 39](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/39) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

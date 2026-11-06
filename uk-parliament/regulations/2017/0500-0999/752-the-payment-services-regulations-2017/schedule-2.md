@@ -46,7 +46,7 @@ Regulation 5(1)
 - (b) a description of—
   - (i) the applicant's security control and mitigation measures to provide adequate protection to users against the risks identified,
   - (ii) how such measures ensure a high level of technical security and data protection, including such security and protection for the software and IT systems used by the applicant and any undertakings to which the applicant outsources any part of its operations, and
-  - (iii) the applicant's measures to comply with regulation 98(1) (management of operational and security risks), [^key-86e639b8b2d31133ff71b539b8482079]....
+  - (iii) the applicant's measures to comply with regulation 98(1) (management of operational and security risks), [^c-86e639b8b2d31133ff71b539b8482079]....
 
 **11.** For an applicant subject to the obligations in relation to money laundering and terrorist financing under the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 and Regulation 2015/847/EU of the European Parliament and of the Council of 20th May 2015 on information accompanying transfers of funds [^c23031331], a description of the internal control mechanisms which the applicant has established in order to comply with those obligations.
 
@@ -75,7 +75,7 @@ Regulation 5(1)
 
 ## Annotations
 
-[^key-86e639b8b2d31133ff71b539b8482079]: Textual amendment: Words in [Sch. 2 para. 10(b)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/2/paragraph/10/b/iii) omitted (31.12.2020) by virtue of [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/70) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86e639b8b2d31133ff71b539b8482079]: Textual amendment: Words in [Sch. 2 para. 10(b)(iii)](https://www.legislation.gov.uk/uksi/2017/752/schedule/2/paragraph/10/b/iii) omitted (31.12.2020) by virtue of [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/70) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23031331]: Marginal citation: OJ L 141, 05.06.2015, p.1.
 

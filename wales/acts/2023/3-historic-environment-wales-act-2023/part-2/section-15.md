@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Declarations of ownership in respect of monument[^key-77a0a9d1b3a9860f45a0986cb52df7a4][^key-e3d3ab0079259333d2ad9fbbf2e76b37][^key-6b13397be5ed1f8be7f81cee660143ec]
+## 15. Declarations of ownership in respect of monument[^c-77a0a9d1b3a9860f45a0986cb52df7a4][^c-e3d3ab0079259333d2ad9fbbf2e76b37][^c-6b13397be5ed1f8be7f81cee660143ec]
 
 *Extent: E+W*
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-77a0a9d1b3a9860f45a0986cb52df7a4]: Commencement: S. 15 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-77a0a9d1b3a9860f45a0986cb52df7a4]: Commencement: S. 15 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e3d3ab0079259333d2ad9fbbf2e76b37]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/3/section/15) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-e3d3ab0079259333d2ad9fbbf2e76b37]: Commencement: [S. 15](https://www.legislation.gov.uk/asc/2023/3/section/15) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
 
-[^key-6b13397be5ed1f8be7f81cee660143ec]: Modification: [S. 15](https://www.legislation.gov.uk/asc/2023/3/section/15) applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 4A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/4A), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1992/3138/schedule/3/paragraph/1) (as inserted by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/uksi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/932/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2024/932/regulation/3/4/6))
+[^c-6b13397be5ed1f8be7f81cee660143ec]: Modification: [S. 15](https://www.legislation.gov.uk/asc/2023/3/section/15) applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 4A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/4A), [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1992/3138/schedule/3/paragraph/1) (as inserted by [The Applications for Scheduled Monument Consent (Wales) Regulations 2024 (S.I. 2024/932)](https://www.legislation.gov.uk/uksi/2024/932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/932/regulation/1/2), [3(4)(6)](https://www.legislation.gov.uk/uksi/2024/932/regulation/3/4/6))

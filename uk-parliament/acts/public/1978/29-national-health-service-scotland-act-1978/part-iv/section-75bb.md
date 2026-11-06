@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75BB. Prior authorisation for the purposes of section 75BA[^key-257acaa4d934055c08091bb8c9045c08][^c20974231]
+## 75BB. Prior authorisation for the purposes of section 75BA[^c-257acaa4d934055c08091bb8c9045c08][^c20974231]
 
 *Extent: S*
 
@@ -60,12 +60,12 @@ summary: ''
 
 (8) Any authorisation or refusal of authorisation in part or full under this section must be in writing.
 
-(9) In this section [^key-5030dfd92513f314fb58d7f1cfb69473]... “writing” includes an electronic communication as defined in section 15 of the Electronic Communications Act 2000which has been recorded and is capable of being reproduced.
+(9) In this section [^c-5030dfd92513f314fb58d7f1cfb69473]... “writing” includes an electronic communication as defined in section 15 of the Electronic Communications Act 2000which has been recorded and is capable of being reproduced.
 
 ## Annotations
 
-[^key-257acaa4d934055c08091bb8c9045c08]: Textual amendment: S. 75BA - 75BB inserted (25.10.2013) by [The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013 (S.S.I. 2013/292)](https://www.legislation.gov.uk/ssi/2013/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/292/regulation/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2013/292/regulation/8/4)
+[^c-257acaa4d934055c08091bb8c9045c08]: Textual amendment: S. 75BA - 75BB inserted (25.10.2013) by [The National Health Service (Cross-Border Health Care) (Scotland) Regulations 2013 (S.S.I. 2013/292)](https://www.legislation.gov.uk/ssi/2013/292), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2013/292/regulation/1/1), [8(4)](https://www.legislation.gov.uk/ssi/2013/292/regulation/8/4)
 
 [^c20974231]: Textual amendment: Ss. 75B-75D inserted (7.7.2010) by [The National Health Service (Reimbursement of the Cost of EEA Treatment) (Scotland) Regulations 2010 (S.S.I. 2010/283)](https://www.legislation.gov.uk/ssi/2010/283), [reg. 3(3)](https://www.legislation.gov.uk/ssi/2010/283/regulation/3/3)
 
-[^key-5030dfd92513f314fb58d7f1cfb69473]: Textual amendment: Words in [s. 75BB(9)](https://www.legislation.gov.uk/ukpga/1978/29/section/75BB/9) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [4(5)](https://www.legislation.gov.uk/ssi/2019/131/regulation/4/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/131/regulation/3)) (as amended by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/478/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5030dfd92513f314fb58d7f1cfb69473]: Textual amendment: Words in [s. 75BB(9)](https://www.legislation.gov.uk/ukpga/1978/29/section/75BB/9) omitted (31.12.2020) by virtue of [The Cross-border Health Care (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/131)](https://www.legislation.gov.uk/ssi/2019/131), [regs. 2](https://www.legislation.gov.uk/ssi/2019/131/regulation/2), [4(5)](https://www.legislation.gov.uk/ssi/2019/131/regulation/4/5) (with [reg. 3](https://www.legislation.gov.uk/ssi/2019/131/regulation/3)) (as amended by [S.S.I. 2020/478](https://www.legislation.gov.uk/ssi/2020/478), [regs. 1](https://www.legislation.gov.uk/ssi/2020/478/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/478/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

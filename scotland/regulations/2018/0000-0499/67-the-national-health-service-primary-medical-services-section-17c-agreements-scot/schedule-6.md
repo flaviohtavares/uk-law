@@ -14,11 +14,11 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 6 — PRACTICE INFORMATION[^key-7f66388a56bbd1b9702fd83f0bdb0c1a]
+## SCHEDULE 6 — PRACTICE INFORMATION[^c-7f66388a56bbd1b9702fd83f0bdb0c1a]
 
 schedule 1, paragraph 41
 
-[^key-e24c2dc32d8501c38c71db2f16e67288]...
+[^c-e24c2dc32d8501c38c71db2f16e67288]...
 
 **1.** The name(s) of the provider.
 
@@ -80,7 +80,7 @@ schedule 1, paragraph 41
 
 **21.** If the services in paragraph (19) are not provided by the provider, the fact that the Health Board referred to in paragraph 29 is responsible for commissioning the services.
 
-**21A.**[^key-a0174c78aba8f5e59c5fa9351c482134] The details of the arrangements for the delivery of vaccinations and immunisations (and childhood vaccinations and immunisations) to the provider’s patients.
+**21A.**[^c-a0174c78aba8f5e59c5fa9351c482134] The details of the arrangements for the delivery of vaccinations and immunisations (and childhood vaccinations and immunisations) to the provider’s patients.
 
 **22.** The telephone number of NHS 24 and details of the NHS 24 website.
 
@@ -100,12 +100,12 @@ schedule 1, paragraph 41
 
 ## Annotations
 
-[^key-7f66388a56bbd1b9702fd83f0bdb0c1a]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2018/67/schedule/6) heading substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [25](https://www.legislation.gov.uk/ssi/2022/130/regulation/25)
+[^c-7f66388a56bbd1b9702fd83f0bdb0c1a]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ssi/2018/67/schedule/6) heading substituted (1.10.2022) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [25](https://www.legislation.gov.uk/ssi/2022/130/regulation/25)
 
-[^key-e24c2dc32d8501c38c71db2f16e67288]: Textual amendment: Words in [sch. 6](https://www.legislation.gov.uk/ssi/2018/67/schedule/6) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [26](https://www.legislation.gov.uk/ssi/2022/130/regulation/26)
+[^c-e24c2dc32d8501c38c71db2f16e67288]: Textual amendment: Words in [sch. 6](https://www.legislation.gov.uk/ssi/2018/67/schedule/6) omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2022 (S.S.I. 2022/130)](https://www.legislation.gov.uk/ssi/2022/130), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/130/regulation/1/3), [26](https://www.legislation.gov.uk/ssi/2022/130/regulation/26)
 
 [^M_F_31d44f86-0960-41e4-e89f-4a58c44ac1e1]: Textual amendment: Words in sch. 6 para. 3 substituted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [18(a)](https://www.legislation.gov.uk/ssi/2018/94/regulation/18/a)
 
 [^M_F_cea70acf-92cb-4045-d3e8-c44819307a2b]: Textual amendment: Word in sch. 6 para. 19(c) omitted (1.4.2018) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2018 (S.S.I. 2018/94)](https://www.legislation.gov.uk/ssi/2018/94), [regs. 1](https://www.legislation.gov.uk/ssi/2018/94/regulation/1), [18(b)](https://www.legislation.gov.uk/ssi/2018/94/regulation/18/b)
 
-[^key-a0174c78aba8f5e59c5fa9351c482134]: Textual amendment: [Sch. 6 para. 21A](https://www.legislation.gov.uk/ssi/2018/67/schedule/6/paragraph/21A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [20](https://www.legislation.gov.uk/ssi/2021/302/regulation/20)
+[^c-a0174c78aba8f5e59c5fa9351c482134]: Textual amendment: [Sch. 6 para. 21A](https://www.legislation.gov.uk/ssi/2018/67/schedule/6/paragraph/21A) inserted (18.10.2021) by [The National Health Service (General Medical Services and Primary Medical Services Section 17C Agreements) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/302)](https://www.legislation.gov.uk/ssi/2021/302), [regs. 1](https://www.legislation.gov.uk/ssi/2021/302/regulation/1), [20](https://www.legislation.gov.uk/ssi/2021/302/regulation/20)

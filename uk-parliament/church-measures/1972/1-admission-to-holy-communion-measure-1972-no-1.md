@@ -31,18 +31,18 @@ ADMISSION TO HOLY COMMUNION MEASURE 1972 (No. 1) (repealed)
 
 1972 No.1
 
-[^key-4371cadb7f0913310d0a1d5cf4523f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4371cadb7f0913310d0a1d5cf4523f9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Admission to Holy Communion.[^key-4371cadb7f0913310d0a1d5cf4523f9e]
+## 1. Admission to Holy Communion.[^c-4371cadb7f0913310d0a1d5cf4523f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-4371cadb7f0913310d0a1d5cf4523f9e]
+## 2. Short title.[^c-4371cadb7f0913310d0a1d5cf4523f9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4371cadb7f0913310d0a1d5cf4523f9e]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1972/1) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 6](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/6); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-4371cadb7f0913310d0a1d5cf4523f9e]: Textual amendment: [Measure](https://www.legislation.gov.uk/ukcm/1972/1) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 6](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/6); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

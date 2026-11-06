@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Appeal concerning entries on the certificate[^key-508e10b1309954bccd5b88621f7bbe20]
+## 148. Appeal concerning entries on the certificate[^c-508e10b1309954bccd5b88621f7bbe20]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-508e10b1309954bccd5b88621f7bbe20]: Commencement: [Reg. 148](https://www.legislation.gov.uk/uksi/2014/2848/regulation/148) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-508e10b1309954bccd5b88621f7bbe20]: Commencement: [Reg. 148](https://www.legislation.gov.uk/uksi/2014/2848/regulation/148) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
 
 [^f00051]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 

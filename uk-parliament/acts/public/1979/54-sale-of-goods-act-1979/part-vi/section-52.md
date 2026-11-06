@@ -28,8 +28,8 @@ summary: ''
 
 (4) The provisions of this section shall be deemed to be supplementary to, and not in derogation of, the right of specific implement in Scotland.
 
-(5)[^key-87c9b14798dc2a53ee4c24521ef4fdc5] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 19 of that Act).
+(5)[^c-87c9b14798dc2a53ee4c24521ef4fdc5] This section does not apply to a contract to which Chapter 2 of Part 1 of the Consumer Rights Act 2015 applies (but see the provision made about such contracts in section 19 of that Act).
 
 ## Annotations
 
-[^key-87c9b14798dc2a53ee4c24521ef4fdc5]: Textual amendment: [S. 52(5)](https://www.legislation.gov.uk/ukpga/1979/54/section/52/5) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/29); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-87c9b14798dc2a53ee4c24521ef4fdc5]: Textual amendment: [S. 52(5)](https://www.legislation.gov.uk/ukpga/1979/54/section/52/5) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/29); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

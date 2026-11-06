@@ -42,7 +42,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### 1. Duty to co-operate
 
-(1) The following public authorities[^key-74891fb1e8897b5fdfa2e03598169d4d] are to co-operate with one another in carrying out their respective functions in relation to relevant persons —[^key-1bc7d6b36fe484f86d9026e5168def1e]
+(1) The following public authorities[^c-74891fb1e8897b5fdfa2e03598169d4d] are to co-operate with one another in carrying out their respective functions in relation to relevant persons —[^c-1bc7d6b36fe484f86d9026e5168def1e]
 
 - (a) the Scottish Ministers,
 - (b) local authorities,
@@ -53,10 +53,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - (a) to “co-operate” may, without prejudice to the generality of that expression, include to exchange information (“co-operation” being construed accordingly); and
 - (b) “**relevant person**” means—
-  - (i) a person who is supervised by, provided with advice, guidance or assistance by, or the subject of a report by a local authority [^key-5c6d5c4e6e47ea2579a215b7ce43e460]... as part of the provision by the local authority [^key-b318a5368f13cb39c1203fc7bc1751d9]... of a service for the purposes mentioned in any of sections 27(1) or (1A) or 27ZA of the Social Work (Scotland) Act 1968 (c. 49) (supervision and care of persons put on probation or released from prison etc.); or
+  - (i) a person who is supervised by, provided with advice, guidance or assistance by, or the subject of a report by a local authority [^c-5c6d5c4e6e47ea2579a215b7ce43e460]... as part of the provision by the local authority [^c-b318a5368f13cb39c1203fc7bc1751d9]... of a service for the purposes mentioned in any of sections 27(1) or (1A) or 27ZA of the Social Work (Scotland) Act 1968 (c. 49) (supervision and care of persons put on probation or released from prison etc.); or
   - (ii) any other person if that person is detained in custody.
 
-(3) The reference in subsection (1) to the Scottish Ministers is to the Scottish Ministers in exercise of their functions under the Prisons (Scotland) Act 1989 (c. 45) and Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)[^key-f18878244c6a85d1fa477eb95e885d10] .
+(3) The reference in subsection (1) to the Scottish Ministers is to the Scottish Ministers in exercise of their functions under the Prisons (Scotland) Act 1989 (c. 45) and Part 1 of the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)[^c-f18878244c6a85d1fa477eb95e885d10] .
 
 ### 2. Co-operation for purposes of inspections
 
@@ -66,7 +66,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - (a) Her Majesty's Chief Inspector of Prisons for Scotland;
 - (b) Her Majesty's Chief Inspector of Constabulary;
-- (c)[^key-f6ee54b852c88556c18c4b73fc19482a] Social Care and Social Work Improvement Scotland.
+- (c)[^c-f6ee54b852c88556c18c4b73fc19482a] Social Care and Social Work Improvement Scotland.
 
 (3) The Scottish Ministers may by order made by statutory instrument amend the list of persons in subsection (2).
 
@@ -76,31 +76,31 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-### 3. Community justice authorities[^key-d477943556ce70bad12eb20b3f930b96][^c21048791]
+### 3. Community justice authorities[^c-d477943556ce70bad12eb20b3f930b96][^c21048791]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Further provisions as respects community justice authorities[^key-d477943556ce70bad12eb20b3f930b96]
+### 4. Further provisions as respects community justice authorities[^c-d477943556ce70bad12eb20b3f930b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Special duties of chief officer of community justice authority[^key-d477943556ce70bad12eb20b3f930b96][^c21048801]
+### 5. Special duties of chief officer of community justice authority[^c-d477943556ce70bad12eb20b3f930b96][^c21048801]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Power of Scottish Ministers to require action by community justice authority: failure by that authority[^key-d477943556ce70bad12eb20b3f930b96]
+### 6. Power of Scottish Ministers to require action by community justice authority: failure by that authority[^c-d477943556ce70bad12eb20b3f930b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Power of Scottish Ministers to require action by community justice authority: failure by local authority[^key-d477943556ce70bad12eb20b3f930b96]
+### 7. Power of Scottish Ministers to require action by community justice authority: failure by local authority[^c-d477943556ce70bad12eb20b3f930b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Transfer of functions to community justice authority[^key-d477943556ce70bad12eb20b3f930b96]
+### 8. Transfer of functions to community justice authority[^c-d477943556ce70bad12eb20b3f930b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Transfer of property to community justice authority[^key-d477943556ce70bad12eb20b3f930b96]
+### 9. Transfer of property to community justice authority[^c-d477943556ce70bad12eb20b3f930b96]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,15 +117,15 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (i)[^c21047411] is subject to a community payback order imposed under section 227A of the Criminal Procedure (Scotland) Act 1995 (c.46) imposing an offender supervision requirement (within the meaning given by section 227G(1) of that Act) whether alone or along with any other requirement, or
   - (ii) is required, having been released from imprisonment or detention, (or will be required when so released), to be under supervision under any enactment or by the terms of an order or licence of the Scottish Ministers or of a condition or requirement imposed in pursuance of an enactment;
 - (c) has, in proceedings on indictment, been acquitted of an offence inferring personal violence if—
-  - (i) the acquittal is by reason of the special defence set out in section 51A of that Act of 1995[^key-a8fe20796c3d03ed101dd91a0ef811a8]; and
+  - (i) the acquittal is by reason of the special defence set out in section 51A of that Act of 1995[^c-a8fe20796c3d03ed101dd91a0ef811a8]; and
   - (ii) a restriction order is made in respect of the person under section 59 of that Act of 1995 (hospital orders: restriction on discharge);
-- (d) has been prosecuted on indictment for such an offence but found, under section 53F of that Act of 1995 (unfitness for trial) to be unfit for trial;[^key-552bd212b38681c7d8d3ed841f3c14ad]
-- (e)[^key-dffafd64177b41cbaa3477dc29d690e6] has been convicted of an offence if, by reason of that conviction, the person is considered by the responsible authorities to be a person who may cause serious harm to the public at large.
+- (d) has been prosecuted on indictment for such an offence but found, under section 53F of that Act of 1995 (unfitness for trial) to be unfit for trial;[^c-552bd212b38681c7d8d3ed841f3c14ad]
+- (e)[^c-dffafd64177b41cbaa3477dc29d690e6] has been convicted of an offence if, by reason of that conviction, the person is considered by the responsible authorities to be a person who may cause serious harm to the public at large.
 
 (2) It is immaterial—
 
 - (a) for the purposes of paragraph (a) of subsection (1), where the offence by virtue of which the person is subject to the notification requirements was committed (or, if the person is subject to the notification requirements by virtue of a finding under section 80(1)(b) of the Sexual Offences Act 2003 (c. 42), where anything that he was charged with having done took place);
-- (b)[^key-9a5941189710ec46cd181c6670038db4] for the purposes of paragraph (b) or (e) of that subsection, where the offence of which the person has been convicted was committed; or
+- (b)[^c-9a5941189710ec46cd181c6670038db4] for the purposes of paragraph (b) or (e) of that subsection, where the offence of which the person has been convicted was committed; or
 - (c) for the purposes of paragraph (c) or (d) of that subsection, where anything that the person was charged with having done took place.
 
 (3) Subject to subsection (11), in the establishment and implementation of those arrangements, the responsible authorities must act in co-operation with such persons as the Scottish Ministers may, by order made by statutory instrument, specify.
@@ -143,7 +143,7 @@ in the establishment and implementation of those arrangements; but only to the e
 
 (7) In this section and in section 11, the “**responsible authorities**” for the area of a local authority are—
 
-- (a)[^key-bd8a43dfccc579b970938e7319286a39] the chief constable of the Police Service of Scotland;
+- (a)[^c-bd8a43dfccc579b970938e7319286a39] the chief constable of the Police Service of Scotland;
 - (b) the local authority;
 - (c) a Health Board or Special Health Board for an area any part of which is comprised within the area of the local authority; and
 - (d) the Scottish Ministers.
@@ -159,7 +159,7 @@ in the establishment and implementation of those arrangements; but only to the e
 
 (11) The functions and duties, under the preceding provisions of this section and under section 11, of the responsible authorities mentioned in subsection (7)(c) extend only to the establishment, implementation and review of arrangements for the assessment and management of—
 
-- (a) persons subject to an order under section 57(2)(b) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (imposition of special restrictions in disposal of case where accused found not criminally responsible or unfit for trial[^key-fbd3a483529819ee4e0f7dd144a60d9f] );
+- (a) persons subject to an order under section 57(2)(b) of the Criminal Procedure (Scotland) Act 1995 (c. 46) (imposition of special restrictions in disposal of case where accused found not criminally responsible or unfit for trial[^c-fbd3a483529819ee4e0f7dd144a60d9f] );
 - (b) those subject to a restriction order under section 59 of that Act (provision for restrictions on discharge);
 - (c) those subject to a hospital direction under section 59A of that Act (direction authorising removal to and detention in specified hospital); or
 - (d) those subject to a transfer for treatment direction under section 136 of the Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13) (transfer of prisoners for treatment for mental disorder).
@@ -181,14 +181,14 @@ in the establishment and implementation of those arrangements; but only to the e
 
 - (a) jointly prepare a report on the discharge by them during that period of the functions conferred by section 10;
 - (b) publish the report in the area of the local authority; and
-- (c)[^key-5d9cb7e29e5fb7d6475774f0be8716f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5d9cb7e29e5fb7d6475774f0be8716f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must include—
 
 - (a) details of the arrangements established by the responsible authorities; and
 - (b) information of such description as the Scottish Ministers have notified to the responsible authorities that they wish to be included in the report.
 
-(4)[^key-13dd66a927ae680281cfb54f8fd2be03] Publication, for the purposes of subsection (2)(b), must be in such manner as will ensure that the report is likely to come to the attention of the other community justice partners for the area of the local authority.
+(4)[^c-13dd66a927ae680281cfb54f8fd2be03] Publication, for the purposes of subsection (2)(b), must be in such manner as will ensure that the report is likely to come to the attention of the other community justice partners for the area of the local authority.
 
 (5) The reference in subsection (4) to “the other community justice partners for the area of the local authority” is to the persons—
 
@@ -680,7 +680,7 @@ After section 210E of the Criminal Procedure (Scotland) Act 1995 (c. 46) insert�
 - (a) in sub-paragraph (1), for the words “2(2) and (7)” substitute “ 1AA, 2(2) and (7), 3AA ”; and
 - (b) in sub-paragraph (2), for the words “or 2(2) or (7)” substitute “ , 2(2) or (7) or 3AA ”.
 
-(6)[^key-ee90bc72fff2573493bd5fe9aec49909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ee90bc72fff2573493bd5fe9aec49909] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 27(4A) of the 1993 Act (construction of references in Part 1 of that Act to wholly concurrent or partly concurrent terms of imprisonment or detention), in sub-paragraph (i) of paragraph (a) and in each of sub-paragraphs (i) and (ii) of paragraph (b), for the words “is imposed” substitute “ commences ”.
 
@@ -694,13 +694,13 @@ After section 210E of the Criminal Procedure (Scotland) Act 1995 (c. 46) insert�
   - (ii) in head (a), for the words “1A, 3” substitute “ 1AA, 1A, 3, 3AA ”; and
 - (c) in paragraph 11(4)(a), for the words “1A” substitute “ 1AA, 1A, 3AA ”.
 
-(9)[^key-5f062de2045e570007b0d9bf3a608430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-5f062de2045e570007b0d9bf3a608430] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In section 24(c) of the International Criminal Court (Scotland) Act 2001 (asp 13) (limited disapplication of certain provisions relating to sentences), for the words “1A, 2, 3” substitute “ 1AA, 1A, 2, 3, 3AA ”.
 
-(11)[^key-f1b854251dcecf2b40b3b0b281ac4da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-f1b854251dcecf2b40b3b0b281ac4da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-f1b854251dcecf2b40b3b0b281ac4da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-f1b854251dcecf2b40b3b0b281ac4da5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In section 40(1) of the Criminal Justice (Scotland) Act 2003 (asp 7) (remote monitoring of released prisoners), the words from “but” to the end are repealed.
 
@@ -728,7 +728,7 @@ which they consider necessary or expedient for the purposes of, in consequence o
 In this Act—
 
 - “**the 1993 Act**” means the Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9);
-- [^key-889caf42c055956818a0fbf3324ea3ff]...
+- [^c-889caf42c055956818a0fbf3324ea3ff]...
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 (c. 39); and
 - “**relevant person**” has the meaning given by section 1(2).
 
@@ -746,19 +746,19 @@ This Act may be cited as the Management of Offenders etc. (Scotland) Act 2005
 
 ## Annotations
 
-[^key-74891fb1e8897b5fdfa2e03598169d4d]: Textual amendment: Words in s. 1(1) substituted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 56(2)(a)](https://www.legislation.gov.uk/asp/2019/14/section/56/2/a), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-74891fb1e8897b5fdfa2e03598169d4d]: Textual amendment: Words in s. 1(1) substituted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 56(2)(a)](https://www.legislation.gov.uk/asp/2019/14/section/56/2/a), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-1bc7d6b36fe484f86d9026e5168def1e]: Textual amendment: S. 1(1)(a)-(d) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 56(2)(b)](https://www.legislation.gov.uk/asp/2019/14/section/56/2/b), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-1bc7d6b36fe484f86d9026e5168def1e]: Textual amendment: S. 1(1)(a)-(d) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 56(2)(b)](https://www.legislation.gov.uk/asp/2019/14/section/56/2/b), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-5c6d5c4e6e47ea2579a215b7ce43e460]: Textual amendment: Words in s. 1(2)(b)(i) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(2)(b)(i)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/2/b/i); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-5c6d5c4e6e47ea2579a215b7ce43e460]: Textual amendment: Words in s. 1(2)(b)(i) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(2)(b)(i)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/2/b/i); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-b318a5368f13cb39c1203fc7bc1751d9]: Textual amendment: Words in s. 1(2)(b)(i) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/2/b/ii); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-b318a5368f13cb39c1203fc7bc1751d9]: Textual amendment: Words in s. 1(2)(b)(i) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(2)(b)(ii)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/2/b/ii); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-f18878244c6a85d1fa477eb95e885d10]: Textual amendment: Words in s. 1(3) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 56(3)](https://www.legislation.gov.uk/asp/2019/14/section/56/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-f18878244c6a85d1fa477eb95e885d10]: Textual amendment: Words in s. 1(3) inserted (11.10.2019) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 56(3)](https://www.legislation.gov.uk/asp/2019/14/section/56/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
 
-[^key-f6ee54b852c88556c18c4b73fc19482a]: Textual amendment: [S. 2(2)(c)](https://www.legislation.gov.uk/asp/2005/14/section/2/2/c) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/16/a)
+[^c-f6ee54b852c88556c18c4b73fc19482a]: Textual amendment: [S. 2(2)(c)](https://www.legislation.gov.uk/asp/2005/14/section/2/2/c) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/ssi/2011/211/schedule/1/paragraph/16/a)
 
-[^key-d477943556ce70bad12eb20b3f930b96]: Textual amendment: [Ss. 3-9](https://www.legislation.gov.uk/asp/2005/14/section/3) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [ss. 36(3)](https://www.legislation.gov.uk/asp/2016/10/section/36/3), [41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-d477943556ce70bad12eb20b3f930b96]: Textual amendment: [Ss. 3-9](https://www.legislation.gov.uk/asp/2005/14/section/3) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [ss. 36(3)](https://www.legislation.gov.uk/asp/2016/10/section/36/3), [41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
 [^c21048791]: Commencement: S. 3 wholly in force at 2.4.2007; s. 3 not in force at Royal Assent, see s. 24; s. 3(1)(3)(4)(11)(12)(23)-(25) in force at 8.2.2006 and s. 3(2)(5)(a)(d)(f)-(h)(8)(9)(13)-(17)(20)(b)(21)(22) in force at 3.4.2006 by [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48), [art. 3](https://www.legislation.gov.uk/ssi/2006/48/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/48/schedule); s. 3 in force so far as not already commenced at 2.4.2007 by [S.S.I. 2006/545](https://www.legislation.gov.uk/ssi/2006/545), [art. 2](https://www.legislation.gov.uk/ssi/2006/545/article/2)
 
@@ -768,21 +768,21 @@ This Act may be cited as the Management of Offenders etc. (Scotland) Act 2005
 
 [^c21047411]: Textual amendment: S. 10(1)(b)(i) substituted (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2), [206](https://www.legislation.gov.uk/asp/2010/13/section/206), [Sch. 2 para. 51(2)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/51/2); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
 
-[^key-a8fe20796c3d03ed101dd91a0ef811a8]: Textual amendment: Words in s. 10(1)(c)(i) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 76(a)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/76/a/i); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-a8fe20796c3d03ed101dd91a0ef811a8]: Textual amendment: Words in s. 10(1)(c)(i) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 76(a)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/76/a/i); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-552bd212b38681c7d8d3ed841f3c14ad]: Textual amendment: Words in s. 10(1)(d) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 76(a)(ii)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/76/a/ii); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-552bd212b38681c7d8d3ed841f3c14ad]: Textual amendment: Words in s. 10(1)(d) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 76(a)(ii)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/76/a/ii); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-dffafd64177b41cbaa3477dc29d690e6]: Commencement: [S. 10(1)(e)](https://www.legislation.gov.uk/asp/2005/14/section/10/1/e) in force at 31.3.2016 in so far as not already in force by [S.S.I. 2015/429](https://www.legislation.gov.uk/ssi/2015/429), [art. 2](https://www.legislation.gov.uk/ssi/2015/429/article/2)
+[^c-dffafd64177b41cbaa3477dc29d690e6]: Commencement: [S. 10(1)(e)](https://www.legislation.gov.uk/asp/2005/14/section/10/1/e) in force at 31.3.2016 in so far as not already in force by [S.S.I. 2015/429](https://www.legislation.gov.uk/ssi/2015/429), [art. 2](https://www.legislation.gov.uk/ssi/2015/429/article/2)
 
-[^key-9a5941189710ec46cd181c6670038db4]: Commencement: [S. 10(2)(b)](https://www.legislation.gov.uk/asp/2005/14/section/10/2/b) in force at 31.3.2016 for specified purposes by [S.S.I. 2015/429](https://www.legislation.gov.uk/ssi/2015/429), [art. 3](https://www.legislation.gov.uk/ssi/2015/429/article/3)
+[^c-9a5941189710ec46cd181c6670038db4]: Commencement: [S. 10(2)(b)](https://www.legislation.gov.uk/asp/2005/14/section/10/2/b) in force at 31.3.2016 for specified purposes by [S.S.I. 2015/429](https://www.legislation.gov.uk/ssi/2015/429), [art. 3](https://www.legislation.gov.uk/ssi/2015/429/article/3)
 
-[^key-bd8a43dfccc579b970938e7319286a39]: Textual amendment: [S. 10(7)(a)](https://www.legislation.gov.uk/asp/2005/14/section/10/7/a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 28](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/28); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-bd8a43dfccc579b970938e7319286a39]: Textual amendment: [S. 10(7)(a)](https://www.legislation.gov.uk/asp/2005/14/section/10/7/a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 28](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/28); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-fbd3a483529819ee4e0f7dd144a60d9f]: Textual amendment: Words in s. 10(11)(a) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 76(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/76/b); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-fbd3a483529819ee4e0f7dd144a60d9f]: Textual amendment: Words in s. 10(11)(a) substituted (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 76(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/76/b); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-5d9cb7e29e5fb7d6475774f0be8716f3]: Textual amendment: [S. 11(2)(c)](https://www.legislation.gov.uk/asp/2005/14/section/11/2/c) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/3/a); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-5d9cb7e29e5fb7d6475774f0be8716f3]: Textual amendment: [S. 11(2)(c)](https://www.legislation.gov.uk/asp/2005/14/section/11/2/c) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/3/a); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-13dd66a927ae680281cfb54f8fd2be03]: Textual amendment: [S. 11(4)-(6)](https://www.legislation.gov.uk/asp/2005/14/section/11/4) inserted (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/3/b); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-13dd66a927ae680281cfb54f8fd2be03]: Textual amendment: [S. 11(4)-(6)](https://www.legislation.gov.uk/asp/2005/14/section/11/4) inserted (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/3/b); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
 [^c21048251]: Textual amendment: [S. 12](https://www.legislation.gov.uk/asp/2005/14/section/12) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2), [206](https://www.legislation.gov.uk/asp/2010/13/section/206), [Sch. 2 para. 51(3)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/51/3); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2010/413/article/3))
 
@@ -794,15 +794,15 @@ This Act may be cited as the Management of Offenders etc. (Scotland) Act 2005
 
 [^c21048511]: Commencement: S. 21 wholly in force at 2.4.2007; s. 21 not in force at Royal Assent, see s. 24; s. 21(1)(a)(ii)(b)(c)(4)(5)(8)(10) in force at 8.2.2006 and s. 21(1)(a)(i)(2)(3)(7)(9)(11)(12) in force at 3.4.2006 by [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48), [art. 3](https://www.legislation.gov.uk/ssi/2006/48/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2006/48/schedule); s. 21(13) in force at 1.12.2006 and s. 21(6) in force at 2.4.2007 by [S.S.I. 2006/545](https://www.legislation.gov.uk/ssi/2006/545), [art. 2](https://www.legislation.gov.uk/ssi/2006/545/article/2)
 
-[^key-ee90bc72fff2573493bd5fe9aec49909]: Textual amendment: S. 21(6) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 7](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/7)
+[^c-ee90bc72fff2573493bd5fe9aec49909]: Textual amendment: S. 21(6) repealed (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [Sch. para. 7](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/7)
 
 [^c21048661]: Modification: S. 21(8) extended to E.W.and N.I. (1.4.2006) by [The Management of Offenders etc. (Scotland) Act 2005 (Consequential Modifications) Order 2006 (S.I. 2006/1055)](https://www.legislation.gov.uk/uksi/2006/1055), [art. 3](https://www.legislation.gov.uk/uksi/2006/1055/article/3)
 
-[^key-5f062de2045e570007b0d9bf3a608430]: Textual amendment: [S. 21(9)](https://www.legislation.gov.uk/asp/2005/14/section/21/9) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(4)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/4); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-5f062de2045e570007b0d9bf3a608430]: Textual amendment: [S. 21(9)](https://www.legislation.gov.uk/asp/2005/14/section/21/9) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(4)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/4); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-f1b854251dcecf2b40b3b0b281ac4da5]: Textual amendment: [S. 21(11)](https://www.legislation.gov.uk/asp/2005/14/section/21/11)[(12)](https://www.legislation.gov.uk/asp/2005/14/section/21/12) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(4)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/4); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-f1b854251dcecf2b40b3b0b281ac4da5]: Textual amendment: [S. 21(11)](https://www.legislation.gov.uk/asp/2005/14/section/21/11)[(12)](https://www.legislation.gov.uk/asp/2005/14/section/21/12) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(4)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/4); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-889caf42c055956818a0fbf3324ea3ff]: Textual amendment: Words in [s. 23](https://www.legislation.gov.uk/asp/2005/14/section/23) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(5)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/5); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-889caf42c055956818a0fbf3324ea3ff]: Textual amendment: Words in [s. 23](https://www.legislation.gov.uk/asp/2005/14/section/23) repealed (31.3.2017) by [Community Justice (Scotland) Act 2016 (asp 10)](https://www.legislation.gov.uk/asp/2016/10), [s. 41(2)](https://www.legislation.gov.uk/asp/2016/10/section/41/2), [sch. 2 para. 5(5)](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5/5); [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
 [^c21049001]: Subordinate legislation: [S. 24](https://www.legislation.gov.uk/asp/2005/14/section/24) power partly exercised: 8.2.2006 and 3.4.2006 appointed for specified provisions and purposes by {[S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48)}, art. 3, Sch.
 

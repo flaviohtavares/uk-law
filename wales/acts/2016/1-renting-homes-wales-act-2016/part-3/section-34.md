@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Failure to provide a written statement etc.[^key-7f9d4fa206190dc63a99f83b2defaa68]
+## 34. Failure to provide a written statement etc.[^c-7f9d4fa206190dc63a99f83b2defaa68]
 
 *Extent: E+W*
 
@@ -33,10 +33,10 @@ summary: ''
 - (a) attach a statement of the occupation contract to its declaration, or
 - (b) order the landlord to give the contract-holder a written statement of the contract.
 
-(6)[^key-d26257352652878561f437d44dffeba9] Paragraphs 1 and 2 of Schedule 9A make provision relating to periodic standard contracts, and fixed term standard contracts which incorporate section 186 or which have a landlord's break clause, preventing a landlord from giving a notice (under section 173 or 186 or under a landlord's break clause) requiring a contract-holder to give up possession if the landlord has not provided a written statement of the contract under section 31(1) or (2).
+(6)[^c-d26257352652878561f437d44dffeba9] Paragraphs 1 and 2 of Schedule 9A make provision relating to periodic standard contracts, and fixed term standard contracts which incorporate section 186 or which have a landlord's break clause, preventing a landlord from giving a notice (under section 173 or 186 or under a landlord's break clause) requiring a contract-holder to give up possession if the landlord has not provided a written statement of the contract under section 31(1) or (2).
 
 ## Annotations
 
-[^key-7f9d4fa206190dc63a99f83b2defaa68]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2016/1/section/34) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-7f9d4fa206190dc63a99f83b2defaa68]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2016/1/section/34) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-d26257352652878561f437d44dffeba9]: Textual amendment: [S. 34(6)](https://www.legislation.gov.uk/anaw/2016/1/section/34/6) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 4](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/4)
+[^c-d26257352652878561f437d44dffeba9]: Textual amendment: [S. 34(6)](https://www.legislation.gov.uk/anaw/2016/1/section/34/6) inserted (7.6.2021) by [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 4](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/4)

@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make provision for the powers of co
 
 ## Introduction
 
-### 1. Overview[^key-1cd5f16db3a70375df4bbafab140bdf2]
+### 1. Overview[^c-1cd5f16db3a70375df4bbafab140bdf2]
 
 This Act –
 
@@ -53,7 +53,7 @@ This Act –
 
 ## Power to make byelaws
 
-### 2. Byelaws for good rule and government and suppression of nuisances[^key-f13b493680dc56cb7f33bd248052cd7c]
+### 2. Byelaws for good rule and government and suppression of nuisances[^c-f13b493680dc56cb7f33bd248052cd7c]
 
 (1) A council for a county or county borough in Wales may make byelaws –
 
@@ -67,24 +67,24 @@ This Act –
 
 ## Interpretation
 
-### 3. Meaning of “legislating authority”[^key-1eb1e23087cfea5809856c11195e16be]
+### 3. Meaning of “legislating authority”[^c-1eb1e23087cfea5809856c11195e16be]
 
 Each of the following is a legislating authority for the purposes of this Act –
 
 - (a) a council for a county or county borough in Wales;
 - (b) a community council;
 - (c) a National Park authority in Wales;
-- (d) the Natural Resources Body for Wales[^key-2d25c276234d1ac9b233a5ef88e6006a].
+- (d) the Natural Resources Body for Wales[^c-2d25c276234d1ac9b233a5ef88e6006a].
 
 ## Revocation of byelaws
 
-### 4. Revocation by a legislating authority[^key-439592f541d5d0312f819074b99ba0c8]
+### 4. Revocation by a legislating authority[^c-439592f541d5d0312f819074b99ba0c8]
 
 (1) A legislating authority may make a byelaw to revoke a byelaw previously made by it.
 
 (2) But this power may be exercised only where the authority has no other power to revoke the byelaw.
 
-### 5. Revocation by the Welsh Ministers[^key-711e8ba96f4bae3a3496be06e39d3e84]
+### 5. Revocation by the Welsh Ministers[^c-711e8ba96f4bae3a3496be06e39d3e84]
 
 (1) The Welsh Ministers may by order revoke any byelaw made by a legislating authority which they conclude is obsolete.
 
@@ -94,7 +94,7 @@ Each of the following is a legislating authority for the purposes of this Act �
 
 ## Procedure for byelaws
 
-### 6. Byelaws not requiring confirmation[^key-95a213c3088250539e37bb80b38841db]
+### 6. Byelaws not requiring confirmation[^c-95a213c3088250539e37bb80b38841db]
 
 (1) This section applies to byelaws made by a legislating authority under the enactments listed in Part 1 of Schedule 1, including byelaws which amend or revoke byelaws previously made by it.
 
@@ -128,7 +128,7 @@ Each of the following is a legislating authority for the purposes of this Act �
 
 (8) An authority may not make a byelaw later than six months after the date of the notice under subsection (5).
 
-### 7. Byelaws requiring confirmation[^key-da24f54b13b8ca219b82b10c52346277]
+### 7. Byelaws requiring confirmation[^c-da24f54b13b8ca219b82b10c52346277]
 
 (1) This section applies to byelaws made by a legislating authority under any enactment other than those listed in Part 1 of Schedule 1, including byelaws which amend or revoke byelaws previously made by it.
 
@@ -163,7 +163,7 @@ Each of the following is a legislating authority for the purposes of this Act �
 (8) For at least six weeks before the byelaw is submitted for confirmation, the legislating authority must ensure that –
 
 - (a) the byelaw is published on the authority's website;
-- (b) a copy of the byelaw is deposited at a place in the authority's area (and, in the case of a byelaw made by the Natural Resources Body for Wales[^key-cc5ea4e5583c66f2a60747ace4dc76c2] under the National Parks and Access to the Countryside Act 1949, at a place in the area of each council of a county or county borough to whose area the byelaw applies);
+- (b) a copy of the byelaw is deposited at a place in the authority's area (and, in the case of a byelaw made by the Natural Resources Body for Wales[^c-cc5ea4e5583c66f2a60747ace4dc76c2] under the National Parks and Access to the Countryside Act 1949, at a place in the area of each council of a county or county borough to whose area the byelaw applies);
 - (c) where applicable, a copy is sent to all community councils whose area the authority thinks is likely to be affected by the byelaw;
 - (d) a copy is open to public inspection at all reasonable hours without payment.
 
@@ -178,7 +178,7 @@ Each of the following is a legislating authority for the purposes of this Act �
 
 (12) The functions of the Welsh Ministers under subsection (11)(b) are exercisable concurrently with the Secretary of State.
 
-### 8. Formalities, commencement and publication of byelaws[^key-89595775074c7dd2f7620e5ec5f7f252]
+### 8. Formalities, commencement and publication of byelaws[^c-89595775074c7dd2f7620e5ec5f7f252]
 
 (1) This section applies to byelaws made by a legislating authority under any enactment.
 
@@ -206,7 +206,7 @@ Each of the following is a legislating authority for the purposes of this Act �
 - (a) the council for every county borough or county whose area includes the whole or part of the National Park;
 - (b) the council of every community whose area includes the whole or part of the National Park.
 
-(8) In the case of byelaws made by the Natural Resources Body for Wales[^key-9526189080e6b60e60c192bd74e9db8b] under the National Parks and Access to the Countryside Act 1949, the Body[^key-cbcd1754890098cfbd0738db8eeaa90a] must ensure that it sends a copy of a byelaw once made, or where required once confirmed, to the proper officer of –
+(8) In the case of byelaws made by the Natural Resources Body for Wales[^c-9526189080e6b60e60c192bd74e9db8b] under the National Parks and Access to the Countryside Act 1949, the Body[^c-cbcd1754890098cfbd0738db8eeaa90a] must ensure that it sends a copy of a byelaw once made, or where required once confirmed, to the proper officer of –
 
 - (a) the council of every county borough or county to whose area the byelaw applies;
 - (b) the council of every community to whose area the byelaw applies.
@@ -218,13 +218,13 @@ Each of the following is a legislating authority for the purposes of this Act �
 
 (10) In subsections (6) to (9) the “proper officer” is the officer duly authorised for that purpose by that body.
 
-### 9. Power to amend Part 1 of Schedule 1[^key-ffa19acb868e1141769b365a205e6826]
+### 9. Power to amend Part 1 of Schedule 1[^c-ffa19acb868e1141769b365a205e6826]
 
 The Welsh Ministers may by order amend Part 1 of Schedule 1 (byelaws not requiring confirmation) by adding to or subtracting from the list of enactments, or by amending the type of authority that may make byelaws without confirmation.
 
 ## Enforcement of byelaws
 
-### 10. Offences against byelaws[^key-6868a492dffa3c1e79e76a1e7b70c7ff]
+### 10. Offences against byelaws[^c-6868a492dffa3c1e79e76a1e7b70c7ff]
 
 (1) Byelaws made by a legislating authority under any enactment may provide that persons contravening the byelaws are liable on summary conviction to a fine.
 
@@ -240,7 +240,7 @@ The Welsh Ministers may by order amend Part 1 of Schedule 1 (byelaws not requiri
 - (a) the sum fixed by the enactment which confers the power to make the byelaws, or
 - (b) if no sum is so fixed, the sum of £5 for each day during which the offence continues after conviction for that offence.
 
-### 11. Section 2 byelaws; powers of seizure etc[^key-0f85b7e4f7227985c572dd7443b2a751]
+### 11. Section 2 byelaws; powers of seizure etc[^c-0f85b7e4f7227985c572dd7443b2a751]
 
 A byelaw made under section 2 may include provision for or in connection with –
 
@@ -251,41 +251,41 @@ A byelaw made under section 2 may include provision for or in connection with �
 
 ### 12. Power to offer fixed penalties for offences against certain byelaws
 
-(1)[^key-d00adc6992991d3d731b6a3e56538224] This section applies to byelaws made by a legislating authority under the enactments listed in Part 2 of Schedule 1 (byelaws in relation to which fixed penalties may be issued).
+(1)[^c-d00adc6992991d3d731b6a3e56538224] This section applies to byelaws made by a legislating authority under the enactments listed in Part 2 of Schedule 1 (byelaws in relation to which fixed penalties may be issued).
 
-(2)[^key-d00adc6992991d3d731b6a3e56538224] If an authorised officer of a legislating authority has reason to believe that a person has committed an offence against a byelaw made by that authority, the officer may give a notice to the person offering the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
+(2)[^c-d00adc6992991d3d731b6a3e56538224] If an authorised officer of a legislating authority has reason to believe that a person has committed an offence against a byelaw made by that authority, the officer may give a notice to the person offering the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
 
-(3)[^key-d00adc6992991d3d731b6a3e56538224] If an authorised officer of a community council has reason to believe that a person has committed an offence in its area against a byelaw made by a legislating authority other than the community council, the officer may give that person a notice offering the person the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
+(3)[^c-d00adc6992991d3d731b6a3e56538224] If an authorised officer of a community council has reason to believe that a person has committed an offence in its area against a byelaw made by a legislating authority other than the community council, the officer may give that person a notice offering the person the opportunity of discharging any liability to conviction for the offence by payment of a fixed penalty.
 
-(4)[^key-d00adc6992991d3d731b6a3e56538224] A fixed penalty under this section is payable to the authority whose officer gave the notice.
+(4)[^c-d00adc6992991d3d731b6a3e56538224] A fixed penalty under this section is payable to the authority whose officer gave the notice.
 
-(5)[^key-d00adc6992991d3d731b6a3e56538224] Where a person is given a notice under this section in respect of an offence –
+(5)[^c-d00adc6992991d3d731b6a3e56538224] Where a person is given a notice under this section in respect of an offence –
 
 - (a) no proceedings may be instituted for the offence before the end of the period of 14 days following the date of the notice, and
 - (b) the person may not be convicted of the offence if the person pays the fixed penalty before the end of that period.
 
-(6)[^key-d00adc6992991d3d731b6a3e56538224] A notice under this section must give such particulars of the circumstances alleged to constitute the offence as are necessary to explain why an offence has occurred.
+(6)[^c-d00adc6992991d3d731b6a3e56538224] A notice under this section must give such particulars of the circumstances alleged to constitute the offence as are necessary to explain why an offence has occurred.
 
-(7)[^key-d00adc6992991d3d731b6a3e56538224] A notice under this section must also state –
+(7)[^c-d00adc6992991d3d731b6a3e56538224] A notice under this section must also state –
 
 - (a) the period under subsection (5) during which proceedings will not be taken for the offence;
 - (b) the amount of the fixed penalty;
 - (c) the person to whom and the address at which the fixed penalty may be paid.
 
-(8)[^key-d00adc6992991d3d731b6a3e56538224] Without prejudice to payment by any other method, payment of the fixed penalty may be made by pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise) to the person referred to, at the address provided, in the notice.
+(8)[^c-d00adc6992991d3d731b6a3e56538224] Without prejudice to payment by any other method, payment of the fixed penalty may be made by pre-paying and posting a letter containing the amount of the penalty (in cash or otherwise) to the person referred to, at the address provided, in the notice.
 
-(9)[^key-d00adc6992991d3d731b6a3e56538224] If a letter is sent, payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
+(9)[^c-d00adc6992991d3d731b6a3e56538224] If a letter is sent, payment is to be regarded as having been made at the time at which that letter would be delivered in the ordinary course of post.
 
-(10)[^key-d00adc6992991d3d731b6a3e56538224] The Welsh Ministers may by regulations specify the form of a notice under this section.
+(10)[^c-d00adc6992991d3d731b6a3e56538224] The Welsh Ministers may by regulations specify the form of a notice under this section.
 
-(11)[^key-d00adc6992991d3d731b6a3e56538224] In any proceedings a certificate which –
+(11)[^c-d00adc6992991d3d731b6a3e56538224] In any proceedings a certificate which –
 
 - (a) purports to be signed on behalf of the chief finance officer of an authority, and
 - (b) states that payment of a fixed penalty was or was not received by a date specified in the certificate,
 
 is evidence of the facts stated.
 
-(12)[^key-d00adc6992991d3d731b6a3e56538224] In this section –
+(12)[^c-d00adc6992991d3d731b6a3e56538224] In this section –
 
 - “**authorised officer**”, in relation to an authority, means –
   - (a) an employee of the authority who is authorised in writing by the authority for the purpose of giving notices under this section,
@@ -293,27 +293,27 @@ is evidence of the facts stated.
   - (c) any employee of such a person who is authorised in writing by the authority for the purpose of giving such notices;
 - “**chief finance officer**”, in relation to an authority, means the person having responsibility for the financial affairs of the authority.
 
-(13)[^key-5e0d938914e0560eade153eb00643afd] The Welsh Ministers may by regulations prescribe conditions to be satisfied by a person before a community council may authorise the person in writing for the purpose of giving notices under this section.
+(13)[^c-5e0d938914e0560eade153eb00643afd] The Welsh Ministers may by regulations prescribe conditions to be satisfied by a person before a community council may authorise the person in writing for the purpose of giving notices under this section.
 
 ### 13. Amount of fixed penalty
 
-(1)[^key-3b2db18c2927fa1c86705ee13a4d70b9] A legislating authority may –
+(1)[^c-3b2db18c2927fa1c86705ee13a4d70b9] A legislating authority may –
 
 - (a) specify the amount of a fixed penalty payable in pursuance of a notice under section 12;
 - (b) specify different amounts in relation to different byelaws.
 
-(2)[^key-3b2db18c2927fa1c86705ee13a4d70b9] If no amount is so specified, the amount of the fixed penalty is £75.
+(2)[^c-3b2db18c2927fa1c86705ee13a4d70b9] If no amount is so specified, the amount of the fixed penalty is £75.
 
-(3)[^key-26acba3f550ed75b242db6d7cb7754e7] The Welsh Ministers may by regulations make provision in connection with the powers under subsection (1).
+(3)[^c-26acba3f550ed75b242db6d7cb7754e7] The Welsh Ministers may by regulations make provision in connection with the powers under subsection (1).
 
-(4)[^key-26acba3f550ed75b242db6d7cb7754e7] Regulations under subsection (3) may, in particular –
+(4)[^c-26acba3f550ed75b242db6d7cb7754e7] Regulations under subsection (3) may, in particular –
 
 - (a) require an amount specified under subsection (1)(a) to fall within a range prescribed in the regulations;
 - (b) restrict the extent to which, and the circumstances in which, an authority can make provision under subsection (1)(b).
 
-(5)[^key-3b2db18c2927fa1c86705ee13a4d70b9] The Welsh Ministers may by order substitute a different amount for the amount for the time being specified in subsection (2).
+(5)[^c-3b2db18c2927fa1c86705ee13a4d70b9] The Welsh Ministers may by order substitute a different amount for the amount for the time being specified in subsection (2).
 
-### 14. Power to require name and address in connection with fixed penalty[^key-25fa4c141368bf4496c8ae6d9ef0319f]
+### 14. Power to require name and address in connection with fixed penalty[^c-25fa4c141368bf4496c8ae6d9ef0319f]
 
 (1) If an authorised officer proposes to give a person a notice under section 12, the officer may require the person to give his or her name and address.
 
@@ -326,17 +326,17 @@ is evidence of the facts stated.
 
 (4) In this section, “**authorised officer**” has the same meaning as in section 12.
 
-### 15. Use of fixed penalty receipts[^key-9060c9929cee6529a14fb48b10fb14ce]
+### 15. Use of fixed penalty receipts[^c-9060c9929cee6529a14fb48b10fb14ce]
 
 (1) The authority must have regard to the desirability of using its fixed penalty receipts for the purpose of combating a nuisance for the prevention of which a byelaw was made by the authority.
 
 (2) “**Fixed penalty receipts**” means amounts paid to an authority in pursuance of notices under section 12.
 
-### 16. Power to amend Part 2 of Schedule 1[^key-85fba9d85dd0e3d108dc5f252d1b25fa]
+### 16. Power to amend Part 2 of Schedule 1[^c-85fba9d85dd0e3d108dc5f252d1b25fa]
 
 The Welsh Ministers may by order amend Part 2 of Schedule 1 (byelaws in relation to which fixed penalty notices may be issued) by adding to or subtracting from the list of enactments, or by amending the type of authority that may offer fixed penalty notices.
 
-### 17. Community Support Officers etc[^key-6841935a3fa3e2b76f0d3b4a5b6a00fa]
+### 17. Community Support Officers etc[^c-6841935a3fa3e2b76f0d3b4a5b6a00fa]
 
 (1) The Police Reform Act 2002 is amended as follows.
 
@@ -360,9 +360,9 @@ The Welsh Ministers may by order amend Part 2 of Schedule 1 (byelaws in relation
   - (i) consultation and publication requirements;
   - (ii) the use of fixed penalties.
 
-(2)[^key-5d4c5ff78f738edf40a86b83323927d2] A legislating authority must have regard to the guidance when making or enforcing byelaws.
+(2)[^c-5d4c5ff78f738edf40a86b83323927d2] A legislating authority must have regard to the guidance when making or enforcing byelaws.
 
-### 19. Evidence of byelaws[^key-6bda71cfab48288534402ea44a4c5a35]
+### 19. Evidence of byelaws[^c-6bda71cfab48288534402ea44a4c5a35]
 
 (1) The production of a certified copy of a byelaw purporting to be made by a legislating authority is, until the contrary is proved, sufficient evidence of the facts stated in the certificate.
 
@@ -375,7 +375,7 @@ The Welsh Ministers may by order amend Part 2 of Schedule 1 (byelaws in relation
 
 (3) The requirements in paragraphs (c) and (d) of subsection (2) do not apply if the byelaw was not subject to confirmation after it was made.
 
-### 20. Consequential amendments[^key-97cc0bb72223a22ecf4d50cbcaa6f3f2]
+### 20. Consequential amendments[^c-97cc0bb72223a22ecf4d50cbcaa6f3f2]
 
 Schedule 2 (minor and consequential amendments) has effect.
 
@@ -417,7 +417,7 @@ The short title of this Act is the Local Government Byelaws (Wales) Act 2012.
 
 ### PART 1 — BYELAWS NOT REQUIRING CONFIRMATION
 
-**1.**[^key-161d3f222f31f9520bd6bebfaf01e3d0] Section 6 applies to byelaws made –
+**1.**[^c-161d3f222f31f9520bd6bebfaf01e3d0] Section 6 applies to byelaws made –
 
 - (a) under the enactments listed in the first column of table 1,
 - (b) in relation to the subject matter listed in the second column of table 1,
@@ -435,7 +435,7 @@ TABLE 1
 | Section 83 of the Public Health Acts Amendment Act 1907 | Promenades | County council and county borough council |
 | Section 81 of the Public Health Act 1936 | Prevention of certain nuisances | County council and county borough council |
 | Section 82 of the Public Health Act 1936 | Removal through streets of offensive matter or liquid | County council and county borough council |
-| [^key-f5457dcb6ecfd1ed5a1e3c7f29431898]. . . | [^key-f5457dcb6ecfd1ed5a1e3c7f29431898]. . . | [^key-f5457dcb6ecfd1ed5a1e3c7f29431898]. . . |
+| [^c-f5457dcb6ecfd1ed5a1e3c7f29431898]. . . | [^c-f5457dcb6ecfd1ed5a1e3c7f29431898]. . . | [^c-f5457dcb6ecfd1ed5a1e3c7f29431898]. . . |
 | Section 198 of the Public Health Act 1936 | Provision of mortuaries and post-mortem rooms | County council, county borough council and community council |
 | Section 223 of the Public Health Act 1936 | Regulation of baths, washhouses, swimming baths etc | County council, county borough council and community council |
 | Section 231 of the Public Health Act 1936 | Public bathing | County council, county borough council and community council |
@@ -446,18 +446,18 @@ TABLE 1
 | Section 76 of the Public Health Act 1961 | Seaside pleasure boats | County council and county borough council |
 | Section 77 of the Public Health Act 1961 | Hairdressers and barbers | County council and county borough council |
 | Section 19 of the Public Libraries and Museums Act 1964 | Regulating the conduct of persons in libraries and museums and the use of those facilities | County council and county borough council |
-| Section 41 of the Glamorgan County Council Act 1973[^key-975064b0019ac46c1efd3d666389d37b] | Heating undertakings | County council and county borough council |
+| Section 41 of the Glamorgan County Council Act 1973[^c-975064b0019ac46c1efd3d666389d37b] | Heating undertakings | County council and county borough council |
 | Section 35 of the Highways Act 1980 | Regulation of walkways | County council and county borough council |
 | Section 114 of the Highways Act 1980 | Conduct of persons using or entering public conveniences provided by highway authorities | County council and county borough council |
-| [^key-688b56d48d68296c119e59bdf0d19150]. . . | [^key-688b56d48d68296c119e59bdf0d19150]. . . | [^key-688b56d48d68296c119e59bdf0d19150]. . . |
-| [^key-365f855bab9789fa7a895bf81dc4a995]. . . | [^key-365f855bab9789fa7a895bf81dc4a995]. . . | [^key-365f855bab9789fa7a895bf81dc4a995]. . . |
+| [^c-688b56d48d68296c119e59bdf0d19150]. . . | [^c-688b56d48d68296c119e59bdf0d19150]. . . | [^c-688b56d48d68296c119e59bdf0d19150]. . . |
+| [^c-365f855bab9789fa7a895bf81dc4a995]. . . | [^c-365f855bab9789fa7a895bf81dc4a995]. . . | [^c-365f855bab9789fa7a895bf81dc4a995]. . . |
 | Section 60 of the Food Act 1984 | Regulation and prevention of nuisances in market places | County council, county borough council and community council |
 | Section 31 of the Road Traffic Regulation Act 1984 | Use of a road as a playground for children | County council and county borough council |
 | Section 57(7) of the Road Traffic Regulation Act 1984 | Use of parking places | Community council |
-| Section 41 of the Clwyd County Council Act 1985[^key-2056728475cd2285e1650b7b8c24a163] | Leisure centres | County council and county borough council |
+| Section 41 of the Clwyd County Council Act 1985[^c-2056728475cd2285e1650b7b8c24a163] | Leisure centres | County council and county borough council |
 | Section 42 of the Clwyd County Council Act 1985 | Temporary structures | County council and county borough council |
 | Section 23 of the Housing Act 1985 | Management, use and regulation of local authority houses, the use of land provided in connection with housing and as respects local authority lodging houses | County council and county borough council |
-| Section 53 of the Swansea City Council (Tawe Barrage) Act 1986[^key-59bc0113901d9ff53f33e95d48ccf4c4] | Upstream river | County council (Swansea) |
+| Section 53 of the Swansea City Council (Tawe Barrage) Act 1986[^c-59bc0113901d9ff53f33e95d48ccf4c4] | Upstream river | County council (Swansea) |
 | Section 31 of the Mid Glamorgan County Council Act 1987 | Porthcawl Harbour | County borough council (Bridgend) |
 | Section 14 of the West Glamorgan Act 1987 | Leisure centres | County council and county borough council |
 | Section 36 of the West Glamorgan Act 1987 | Policing and control of pedestrian ways | County council and county borough council |
@@ -465,13 +465,13 @@ TABLE 1
 | Section 63 of the West Glamorgan Act 1987 | Swansea Market | County council (Swansea) |
 | Section 45 of the Dyfed Act 1987 | Temporary structures | County council and county borough council |
 | Section 16 of the Cardiff Bay Barrage Act 1993 | Good rule and government of inland bay and harbour | County council (Cardiff) |
-| Section 2 of this Act | Good rule and government and the prevention and suppression of nuisances[^key-69a7f7634b908ea14d89898ec6c1729c] | County council and county borough council |
+| Section 2 of this Act | Good rule and government and the prevention and suppression of nuisances[^c-69a7f7634b908ea14d89898ec6c1729c] | County council and county borough council |
 | Section 4(1) of this Act in so far as it applies to byelaws made under any of the enactments listed in Part 1 of Schedule 1 | Power to revoke byelaws | Legislating authority |
-| Section 117 of the Public Health (Wales) Act 2017[^key-8d374b5fe3b88aeb2e4590e31a21901c] | Regulating the conduct of persons in toilets | County council, county borough council and community council |
+| Section 117 of the Public Health (Wales) Act 2017[^c-8d374b5fe3b88aeb2e4590e31a21901c] | Regulating the conduct of persons in toilets | County council, county borough council and community council |
 
 ### PART 2 — BYELAWS IN RELATION TO WHICH FIXED PENALTIES MAY BE ISSUED
 
-**2.**[^key-3f8914dab112e9622c59d585337827d3] Section 12 applies to byelaws made –
+**2.**[^c-3f8914dab112e9622c59d585337827d3] Section 12 applies to byelaws made –
 
 - (a) under the enactments listed in the first column of table 2,
 - (b) in relation to the subject matter listed in the second column of table 2,
@@ -491,7 +491,7 @@ TABLE 2
 | Section 20 of the Children and Young Persons Act 1933 | Restrictions on the engagement or employment of children in street trading | County council and county borough council |
 | Section 81 of the Public Health Act 1936 | Prevention of certain nuisances | County council and county borough council |
 | Section 82 of the Public Health Act 1936 | Removal through streets of offensive matter or liquid | County council and county borough council |
-| [^key-66e8407bf74fd95a2d82cb922c6c1420]. . . | [^key-66e8407bf74fd95a2d82cb922c6c1420]. . . | [^key-66e8407bf74fd95a2d82cb922c6c1420]. . . |
+| [^c-66e8407bf74fd95a2d82cb922c6c1420]. . . | [^c-66e8407bf74fd95a2d82cb922c6c1420]. . . | [^c-66e8407bf74fd95a2d82cb922c6c1420]. . . |
 | Section 198 of the Public Health Act 1936 | Provision of mortuaries and post-mortem rooms | County council, county borough council and community council |
 | Section 223 of the Public Health Act 1936 | Regulation of baths, washhouses, swimming baths etc | County council, county borough council and community council |
 | Section 231 of the Public Health Act 1936 | Public bathing | County council, county borough council and community council |
@@ -504,15 +504,15 @@ TABLE 2
 | Section 19 of the Public Libraries and Museums Act 1964 | Regulating the conduct of persons in libraries and museums and the use of those facilities | County council and county borough council |
 | Section 35 of the Highways Act 1980 | Regulation of walkways | County council and county borough council |
 | Section 114 of the Highways Act 1980 | Conduct of persons using or entering public conveniences provided by highway authorities | County council and county borough council |
-| [^key-3dcbdff443ee08f577024abc876648d0]. . . | [^key-3dcbdff443ee08f577024abc876648d0]. . . | [^key-3dcbdff443ee08f577024abc876648d0]. . . |
-| [^key-3ded18901a2be5a7fa8d6cdd39d28aa8]. . . | [^key-3ded18901a2be5a7fa8d6cdd39d28aa8]. . . | [^key-3ded18901a2be5a7fa8d6cdd39d28aa8]. . . |
+| [^c-3dcbdff443ee08f577024abc876648d0]. . . | [^c-3dcbdff443ee08f577024abc876648d0]. . . | [^c-3dcbdff443ee08f577024abc876648d0]. . . |
+| [^c-3ded18901a2be5a7fa8d6cdd39d28aa8]. . . | [^c-3ded18901a2be5a7fa8d6cdd39d28aa8]. . . | [^c-3ded18901a2be5a7fa8d6cdd39d28aa8]. . . |
 | Section 60 of the Food Act 1984 | Regulation and prevention of nuisances in market places | County council, county borough council and community council |
 | Section 31 of the road Traffic Regulation Act 1984 | Use of a road as a playground for children | County council and county borough council |
 | Section 57(7) of the Road Traffic Regulation Act 1984 | Use of parking places | Community council |
-| Section 41 of the Clwyd County Council Act 1985[^key-444b920b186f9280fc1e10b5bc14f43f] | Leisure centres | County council and county borough council |
+| Section 41 of the Clwyd County Council Act 1985[^c-444b920b186f9280fc1e10b5bc14f43f] | Leisure centres | County council and county borough council |
 | Section 42 of the Clwyd County Council Act 1985 | Temporary structures | County council and county borough council |
 | Section 23 of the Housing Act 1985 | Management, use and regulation of local authority houses, the use of land provided in connection with housing and as respects local authority lodging houses | County council and county borough council |
-| Section 53 of the Swansea City Council (Tawe Barrage) Act 1986[^key-0057fd6403173487d12ed80f9779973f] | Upstream river | County council (Swansea) |
+| Section 53 of the Swansea City Council (Tawe Barrage) Act 1986[^c-0057fd6403173487d12ed80f9779973f] | Upstream river | County council (Swansea) |
 | Section 31 of the Mid Glamorgan County Council Act 1987 | Porthcawl Harbour | County borough council (Bridgend) |
 | Section 14 of the West Glamorgan Act 1987 | Leisure centres | County council and county borough council |
 | Section 36 of the West Glamorgan Act 1987 | Policing and control of pedestrian ways | County council and county borough council |
@@ -520,8 +520,8 @@ TABLE 2
 | Section 63 of the West Glamorgan Act 1987 | Swansea Market | County council (Swansea) |
 | Section 45 of the Dyfed Act 1987 | Temporary structures | County council and county borough council |
 | Section 16 of the Cardiff Bay Barrage Act 1993 | Good rule and government of inland bay and harbour | County council (Cardiff) |
-| Section 2 of this Act | Good rule and government and the prevention and suppression of nuisances[^key-cfc5484fe9a4cbc27860b08e9290fac2] | County council and county borough council |
-| Section 117 of the Public Health (Wales) Act 2017[^key-65e2ea010f30b42767a4108b21ed828a] | Regulating the conduct of persons in toilets | County council, county borough council and community council |
+| Section 2 of this Act | Good rule and government and the prevention and suppression of nuisances[^c-cfc5484fe9a4cbc27860b08e9290fac2] | County council and county borough council |
+| Section 117 of the Public Health (Wales) Act 2017[^c-65e2ea010f30b42767a4108b21ed828a] | Regulating the conduct of persons in toilets | County council, county borough council and community council |
 
 ## SCHEDULE 2 — MINOR AND CONSEQUENTIAL AMENDMENTS
 
@@ -529,11 +529,11 @@ TABLE 2
 
 ### Public Health Act 1875
 
-**1.**[^key-16d07aade5a0507bf79f0216ae89af24] In section 184 of the Public health Act 1875 (confirmation of byelaws) after “local authority” insert “ in England ”.
+**1.**[^c-16d07aade5a0507bf79f0216ae89af24] In section 184 of the Public health Act 1875 (confirmation of byelaws) after “local authority” insert “ in England ”.
 
 ### Commons Act 1899
 
-**2.**[^key-a4ddb1a97716e11f03d4b2a9925a59b4] (1) Section 10 of the Commons Act 1899 (byelaws) (as amended by section 50(7) of the Commons Act 2006 when brought into force) is amended as follows.
+**2.**[^c-a4ddb1a97716e11f03d4b2a9925a59b4] (1) Section 10 of the Commons Act 1899 (byelaws) (as amended by section 50(7) of the Commons Act 2006 when brought into force) is amended as follows.
 
 (2) In subsection (2), after “apply” omit “all byelaws under this section” and insert “ byelaws under this section made by a council in England ”.
 
@@ -545,11 +545,11 @@ TABLE 2
 
 ### Open Spaces Act 1906
 
-**3.**[^key-1d49dee7c3aecbaa58d4095f74c4c682] In section 15(2) of the Open Spaces Act 1906 (byelaws) after “any local authority” insert “ in England ”.
+**3.**[^c-1d49dee7c3aecbaa58d4095f74c4c682] In section 15(2) of the Open Spaces Act 1906 (byelaws) after “any local authority” insert “ in England ”.
 
 ### Public Health Acts Amendment Act 1907
 
-**4.**[^key-c532a45873ffc065498c366d6ef0bb39] (1) The Public Health Acts Amendment Act 1907 is amended as follows.
+**4.**[^c-c532a45873ffc065498c366d6ef0bb39] (1) The Public Health Acts Amendment Act 1907 is amended as follows.
 
 (2) In section 9 (byelaws) after “byelaws made” insert “ by a local authority in England ”.
 
@@ -557,7 +557,7 @@ TABLE 2
 
 ### National Parks and Access to the Countryside Act 1949
 
-**5.**[^key-08eecc0aeb7f16cbe320bdfd64f5823b] (1) The National Parks and Access to the Countryside Act 1949 is amended as follows.
+**5.**[^c-08eecc0aeb7f16cbe320bdfd64f5823b] (1) The National Parks and Access to the Countryside Act 1949 is amended as follows.
 
 (2) In section 106 (supplementary provisions as to byelaws) after subsection (4) insert –
 
@@ -577,7 +577,7 @@ TABLE 2
 
 ### Public Health Act 1961
 
-**6.**[^key-9114a9f7f48e1a20875b185b5bf6f2f3] (1) The Public Health Act 1961 is amended as follows.
+**6.**[^c-9114a9f7f48e1a20875b185b5bf6f2f3] (1) The Public Health Act 1961 is amended as follows.
 
 (2) In section 75 (byelaws as to pleasure fairs and roller skating rinks) –
 
@@ -600,7 +600,7 @@ TABLE 2
 
 ### Public Libraries and Museums Act 1964
 
-**7.**[^key-98ccb036313221358e7a4a7a738c0aee] (1) Section 19 of the Public Libraries and Museums Act 1964 (byelaws in relation to libraries and museums) is amended as follows.
+**7.**[^c-98ccb036313221358e7a4a7a738c0aee] (1) Section 19 of the Public Libraries and Museums Act 1964 (byelaws in relation to libraries and museums) is amended as follows.
 
 (2) In subsection (1) after the words “so made” insert “ by a local authority in England ”.
 
@@ -610,7 +610,7 @@ TABLE 2
 
 ### Countryside Act 1968
 
-**8.**[^key-818e74ff7c4e8c076a529c56dc8a5732] (1) The Countryside Act 1968 is amended as follows.
+**8.**[^c-818e74ff7c4e8c076a529c56dc8a5732] (1) The Countryside Act 1968 is amended as follows.
 
 (2) In section 8 (country parks: sailing, boating, bathing and fishing) –
 
@@ -666,14 +666,14 @@ TABLE 2
 
 ### Local Government Act 1972
 
-**9.** (1)[^key-a1ed82bcac24cd6ac1520ca0c5b6af77] The Local Government Act 1972 is amended as follows.
+**9.** (1)[^c-a1ed82bcac24cd6ac1520ca0c5b6af77] The Local Government Act 1972 is amended as follows.
 
-(2)[^key-a1ed82bcac24cd6ac1520ca0c5b6af77] In section 235(1) (powers of councils to make byelaws for good rule and government etc) –
+(2)[^c-a1ed82bcac24cd6ac1520ca0c5b6af77] In section 235(1) (powers of councils to make byelaws for good rule and government etc) –
 
 - (a) omit “the council of a principal area in Wales”;
 - (b) after the second “district” omit “principal area”.
 
-(3)[^key-a1ed82bcac24cd6ac1520ca0c5b6af77] In section 236 (procedure etc for byelaws) –
+(3)[^c-a1ed82bcac24cd6ac1520ca0c5b6af77] In section 236 (procedure etc for byelaws) –
 
 - (a) in subsection (1) after “local authority” in each case insert “ in England ”;
 - (b) in subsection (3), omit “or community”;
@@ -682,7 +682,7 @@ TABLE 2
   - (ii) omit the words “or community” in each case where they appear;
 - (d) omit subsection (10A).
 
-(4)[^key-ff1def4e4eca635fa7983d6e8c3ddc24] In section 236B (revocation of byelaws)[^key-0404532d49f3853bf91c4fc1bd7161a6] –
+(4)[^c-ff1def4e4eca635fa7983d6e8c3ddc24] In section 236B (revocation of byelaws)[^c-0404532d49f3853bf91c4fc1bd7161a6] –
 
 - (a) in subsection (1)(a) after “local authority” insert “ in England ”;
 - (b) in subsection (4) –
@@ -690,11 +690,11 @@ TABLE 2
   - (ii) in paragraph (b), omit “in relation to any other byelaw,”;
 - (c) omit subsections (6), (10) and (11).
 
-(5)[^key-a1ed82bcac24cd6ac1520ca0c5b6af77] In section 238 (evidence of byelaws) after “local authority” insert “ in England ”.
+(5)[^c-a1ed82bcac24cd6ac1520ca0c5b6af77] In section 238 (evidence of byelaws) after “local authority” insert “ in England ”.
 
 ### Local Government (Miscellaneous Provisions) Act 1976
 
-**10.**[^key-c0119eca88e978b420fc309bc6ab1729] (1) Section 65 of the Local government (Miscellaneous Provisions) Act 1976 (fixing fares for hackney carriages) is amended as follows.
+**10.**[^c-c0119eca88e978b420fc309bc6ab1729] (1) Section 65 of the Local government (Miscellaneous Provisions) Act 1976 (fixing fares for hackney carriages) is amended as follows.
 
 (2) In subsection (7) –
 
@@ -709,15 +709,15 @@ TABLE 2
 
 ### Wildlife and Countryside Act 1981
 
-**11.**[^key-3e935bf2597aa77a07d48f9d2c6a6376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-3e935bf2597aa77a07d48f9d2c6a6376] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Food Act 1984
 
-**12.**[^key-6dd1bc2a456c6002a5ddef2ada4d1a52] In section 121(1) of the Food Act 1984 (byelaws) after “Act” insert “ by a local authority in England ”.
+**12.**[^c-6dd1bc2a456c6002a5ddef2ada4d1a52] In section 121(1) of the Food Act 1984 (byelaws) after “Act” insert “ by a local authority in England ”.
 
 ### Road Traffic Regulation Act 1984
 
-**13.**[^key-6f072f0a132c5faa959477435865e9da] (1) The Road Traffic Regulation Act 1984 is amended as follows.
+**13.**[^c-6f072f0a132c5faa959477435865e9da] (1) The Road Traffic Regulation Act 1984 is amended as follows.
 
 (2) In section 31(2) (byelaws with respect to roads used as playgrounds) after “this section” insert “ made by a local traffic authority in England ”.
 
@@ -725,7 +725,7 @@ TABLE 2
 
 ### Land Drainage Act 1991
 
-**14.**[^key-dbacf60ca528165e83855022aa38f1d3] (1) Section 66 of the Land Drainage Act 1991 (powers to make byelaws) is amended as follows.
+**14.**[^c-dbacf60ca528165e83855022aa38f1d3] (1) Section 66 of the Land Drainage Act 1991 (powers to make byelaws) is amended as follows.
 
 (2) In subsection (5) omit paragraph (c).
 
@@ -739,11 +739,11 @@ TABLE 2
 
 ### Cardiff Bay Barrage Act 1993
 
-**15.**[^key-500874ebbc92d2a313f9085cd6a81a06] In section 16 of the Cardiff Barrage Act 1993 (byelaws) omit subsections (8), (9) and (10).
+**15.**[^c-500874ebbc92d2a313f9085cd6a81a06] In section 16 of the Cardiff Barrage Act 1993 (byelaws) omit subsections (8), (9) and (10).
 
 ### Environment Act 1995
 
-**16.**[^key-26fc7c69ec71d2fdf2986da841e59bed] (1) Paragraph 17 of Schedule 7 to the Environment Act 1995 (documents, notices, records, byelaws etc) is amended as follows.
+**16.**[^c-26fc7c69ec71d2fdf2986da841e59bed] (1) Paragraph 17 of Schedule 7 to the Environment Act 1995 (documents, notices, records, byelaws etc) is amended as follows.
 
 (2) In sub-paragraph 2(e) after “Act,” insert “ in the case of National Park authorities in England, ”.
 
@@ -751,7 +751,7 @@ TABLE 2
 
 ### National Assembly for Wales (Transfer of Functions) Order 1999 (SI 1999/672)
 
-**17.**[^key-d288420657e2e8670c9ad5e5fe95e9e6] (1) Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (SI 1999/672) (enactments conferring functions transferred by article 2) is amended as follows.
+**17.**[^c-d288420657e2e8670c9ad5e5fe95e9e6] (1) Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999 (SI 1999/672) (enactments conferring functions transferred by article 2) is amended as follows.
 
 (2) Under the heading “Local Government Act 1972” –
 
@@ -760,7 +760,7 @@ TABLE 2
 
 ### Countryside and Rights of Way Act 2000
 
-**18.**[^key-62a6f6f4e8177dcfcb2cfaf90410f5d2] (1) Section 17 of the Countryside and Rights of Way Act 2000 (byelaws) is amended as follows.
+**18.**[^c-62a6f6f4e8177dcfcb2cfaf90410f5d2] (1) Section 17 of the Countryside and Rights of Way Act 2000 (byelaws) is amended as follows.
 
 (2) In subsection (5) after “this section” insert “ made by an access authority in England ”.
 
@@ -772,132 +772,132 @@ TABLE 2
 
 ## Annotations
 
-[^key-1cd5f16db3a70375df4bbafab140bdf2]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2012/2/section/1) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/a)
+[^c-1cd5f16db3a70375df4bbafab140bdf2]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2012/2/section/1) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/a)
 
-[^key-f13b493680dc56cb7f33bd248052cd7c]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2012/2/section/2) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-f13b493680dc56cb7f33bd248052cd7c]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2012/2/section/2) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-1eb1e23087cfea5809856c11195e16be]: Commencement: S. 3 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/c)
+[^c-1eb1e23087cfea5809856c11195e16be]: Commencement: S. 3 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/c)
 
-[^key-2d25c276234d1ac9b233a5ef88e6006a]: Textual amendment: Words in s. 3(d) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(2)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/2)
+[^c-2d25c276234d1ac9b233a5ef88e6006a]: Textual amendment: Words in s. 3(d) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(2)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/2)
 
-[^key-439592f541d5d0312f819074b99ba0c8]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2012/2/section/4) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/d) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-439592f541d5d0312f819074b99ba0c8]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2012/2/section/4) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/d) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-711e8ba96f4bae3a3496be06e39d3e84]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2012/2/section/5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/e)
+[^c-711e8ba96f4bae3a3496be06e39d3e84]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2012/2/section/5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/e)
 
-[^key-95a213c3088250539e37bb80b38841db]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2012/2/section/6) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-95a213c3088250539e37bb80b38841db]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2012/2/section/6) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-da24f54b13b8ca219b82b10c52346277]: Commencement: S. 7 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-da24f54b13b8ca219b82b10c52346277]: Commencement: S. 7 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/g) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-cc5ea4e5583c66f2a60747ace4dc76c2]: Textual amendment: Words in s. 7(8)(b) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/3)
+[^c-cc5ea4e5583c66f2a60747ace4dc76c2]: Textual amendment: Words in s. 7(8)(b) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(3)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/3)
 
-[^key-89595775074c7dd2f7620e5ec5f7f252]: Commencement: S. 8 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/h) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-89595775074c7dd2f7620e5ec5f7f252]: Commencement: S. 8 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/h) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-9526189080e6b60e60c192bd74e9db8b]: Textual amendment: Words in [s. 8(8)](https://www.legislation.gov.uk/anaw/2012/2/section/8/8) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(4)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/4/a)
+[^c-9526189080e6b60e60c192bd74e9db8b]: Textual amendment: Words in [s. 8(8)](https://www.legislation.gov.uk/anaw/2012/2/section/8/8) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(4)(a)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/4/a)
 
-[^key-cbcd1754890098cfbd0738db8eeaa90a]: Textual amendment: Words in [s. 8(8)](https://www.legislation.gov.uk/anaw/2012/2/section/8/8) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(4)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/4/b)
+[^c-cbcd1754890098cfbd0738db8eeaa90a]: Textual amendment: Words in [s. 8(8)](https://www.legislation.gov.uk/anaw/2012/2/section/8/8) substituted (21.5.2016) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(4)(b)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/4/b)
 
-[^key-ffa19acb868e1141769b365a205e6826]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2012/2/section/9) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/a)
+[^c-ffa19acb868e1141769b365a205e6826]: Commencement: [S. 9](https://www.legislation.gov.uk/anaw/2012/2/section/9) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/a)
 
-[^key-6868a492dffa3c1e79e76a1e7b70c7ff]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2012/2/section/10) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/i)
+[^c-6868a492dffa3c1e79e76a1e7b70c7ff]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2012/2/section/10) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/i)
 
-[^key-0f85b7e4f7227985c572dd7443b2a751]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2012/2/section/11) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/j)
+[^c-0f85b7e4f7227985c572dd7443b2a751]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2012/2/section/11) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/j)
 
-[^key-d00adc6992991d3d731b6a3e56538224]: Commencement: [S. 12(1)-(12)](https://www.legislation.gov.uk/anaw/2012/2/section/12/1) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/k)
+[^c-d00adc6992991d3d731b6a3e56538224]: Commencement: [S. 12(1)-(12)](https://www.legislation.gov.uk/anaw/2012/2/section/12/1) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/k)
 
-[^key-5e0d938914e0560eade153eb00643afd]: Commencement: [S. 12(13)](https://www.legislation.gov.uk/anaw/2012/2/section/12/13) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/b)
+[^c-5e0d938914e0560eade153eb00643afd]: Commencement: [S. 12(13)](https://www.legislation.gov.uk/anaw/2012/2/section/12/13) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/b)
 
-[^key-3b2db18c2927fa1c86705ee13a4d70b9]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/anaw/2012/2/section/13/1)[(2)](https://www.legislation.gov.uk/anaw/2012/2/section/13/2)[(5)](https://www.legislation.gov.uk/anaw/2012/2/section/13/5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(l)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/l)
+[^c-3b2db18c2927fa1c86705ee13a4d70b9]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/anaw/2012/2/section/13/1)[(2)](https://www.legislation.gov.uk/anaw/2012/2/section/13/2)[(5)](https://www.legislation.gov.uk/anaw/2012/2/section/13/5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(l)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/l)
 
-[^key-26acba3f550ed75b242db6d7cb7754e7]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/anaw/2012/2/section/13/3)[(4)](https://www.legislation.gov.uk/anaw/2012/2/section/13/4) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(c)(d)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/c/d)
+[^c-26acba3f550ed75b242db6d7cb7754e7]: Commencement: [S. 13(3)](https://www.legislation.gov.uk/anaw/2012/2/section/13/3)[(4)](https://www.legislation.gov.uk/anaw/2012/2/section/13/4) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(c)(d)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/c/d)
 
-[^key-25fa4c141368bf4496c8ae6d9ef0319f]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2012/2/section/14) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(m)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/m)
+[^c-25fa4c141368bf4496c8ae6d9ef0319f]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2012/2/section/14) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(m)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/m)
 
-[^key-9060c9929cee6529a14fb48b10fb14ce]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2012/2/section/15) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/n)
+[^c-9060c9929cee6529a14fb48b10fb14ce]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2012/2/section/15) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/n)
 
-[^key-85fba9d85dd0e3d108dc5f252d1b25fa]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2012/2/section/16) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(e)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/e)
+[^c-85fba9d85dd0e3d108dc5f252d1b25fa]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2012/2/section/16) in force at 15.8.2014 by [S.I. 2014/2121](https://www.legislation.gov.uk/wsi/2014/2121), [art. 2(e)](https://www.legislation.gov.uk/wsi/2014/2121/article/2/e)
 
-[^key-6841935a3fa3e2b76f0d3b4a5b6a00fa]: Commencement: S. 17 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(o)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/o)
+[^c-6841935a3fa3e2b76f0d3b4a5b6a00fa]: Commencement: S. 17 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(o)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/o)
 
 [^M_F_a64ea238-c403-4ede-9b98-b4254f75a8a6]: Textual amendment: S. 17(2) omitted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 12 para. 30](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/30); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [art. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/article/2/k) (as amended by [S.I. 2017/1162](https://www.legislation.gov.uk/uksi/2017/1162), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1162/regulation/2))
 
 [^c2220101]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2012/2/section/18) partly in force; [s. 18](https://www.legislation.gov.uk/anaw/2012/2/section/18) not in force at Royal Assent; [s. 18(1)](https://www.legislation.gov.uk/anaw/2012/2/section/18/1) in force at 30.11.2012, see [s. 22(1)(a)](https://www.legislation.gov.uk/anaw/2012/2/section/22/1/a)
 
-[^key-5d4c5ff78f738edf40a86b83323927d2]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/anaw/2012/2/section/18/2) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(p)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/p)
+[^c-5d4c5ff78f738edf40a86b83323927d2]: Commencement: [S. 18(2)](https://www.legislation.gov.uk/anaw/2012/2/section/18/2) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(p)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/p)
 
-[^key-6bda71cfab48288534402ea44a4c5a35]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2012/2/section/19) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(q)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/q)
+[^c-6bda71cfab48288534402ea44a4c5a35]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2012/2/section/19) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(q)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/q)
 
-[^key-97cc0bb72223a22ecf4d50cbcaa6f3f2]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2012/2/section/20) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-97cc0bb72223a22ecf4d50cbcaa6f3f2]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2012/2/section/20) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-161d3f222f31f9520bd6bebfaf01e3d0]: Commencement: Sch. 1 para. 1 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-161d3f222f31f9520bd6bebfaf01e3d0]: Commencement: Sch. 1 para. 1 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/f) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-f5457dcb6ecfd1ed5a1e3c7f29431898]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 omitted (31.5.2018) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/2); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
+[^c-f5457dcb6ecfd1ed5a1e3c7f29431898]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 omitted (31.5.2018) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/2); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
 
-[^key-975064b0019ac46c1efd3d666389d37b]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/2)
+[^c-975064b0019ac46c1efd3d666389d37b]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/2)
 
-[^key-688b56d48d68296c119e59bdf0d19150]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/1) Table 1 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/a); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-688b56d48d68296c119e59bdf0d19150]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/1) Table 1 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/a); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
 
-[^key-365f855bab9789fa7a895bf81dc4a995]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/1) Table 1 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/b); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-365f855bab9789fa7a895bf81dc4a995]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/1) Table 1 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/b); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
 
-[^key-2056728475cd2285e1650b7b8c24a163]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(3)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/3)
+[^c-2056728475cd2285e1650b7b8c24a163]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(3)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/3)
 
-[^key-59bc0113901d9ff53f33e95d48ccf4c4]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(4)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/4)
+[^c-59bc0113901d9ff53f33e95d48ccf4c4]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(4)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/4)
 
-[^key-69a7f7634b908ea14d89898ec6c1729c]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(5)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/5)
+[^c-69a7f7634b908ea14d89898ec6c1729c]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [2(5)](https://www.legislation.gov.uk/wsi/2014/3111/article/2/5)
 
-[^key-8d374b5fe3b88aeb2e4590e31a21901c]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (31.5.2018) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/3); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
+[^c-8d374b5fe3b88aeb2e4590e31a21901c]: Textual amendment: Words in Sch. 1 Pt. 1 Table 1 inserted (31.5.2018) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/3); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
 
-[^key-3f8914dab112e9622c59d585337827d3]: Commencement: Sch. 1 para. 2 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/k) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-3f8914dab112e9622c59d585337827d3]: Commencement: Sch. 1 para. 2 in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/k) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-66e8407bf74fd95a2d82cb922c6c1420]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 omitted (31.5.2018) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/2); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
+[^c-66e8407bf74fd95a2d82cb922c6c1420]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 omitted (31.5.2018) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/2); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
 
-[^key-3dcbdff443ee08f577024abc876648d0]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/2) Table 2 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/a); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-3dcbdff443ee08f577024abc876648d0]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/2) Table 2 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/a); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
 
-[^key-3ded18901a2be5a7fa8d6cdd39d28aa8]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/2) Table 2 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/b); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-3ded18901a2be5a7fa8d6cdd39d28aa8]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/anaw/2012/2/schedule/1/part/2) Table 2 omitted (13.9.2024 for specified purposes, 29.11.2024 in so far as not already in force) by virtue of [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/3/paragraph/23/b); [S.I. 2024/938](https://www.legislation.gov.uk/wsi/2024/938), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2024/938/article/2/1/k); [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(jj)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/jj) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
 
-[^key-444b920b186f9280fc1e10b5bc14f43f]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [3(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/3/2)
+[^c-444b920b186f9280fc1e10b5bc14f43f]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [3(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/3/2)
 
-[^key-0057fd6403173487d12ed80f9779973f]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [3(3)](https://www.legislation.gov.uk/wsi/2014/3111/article/3/3)
+[^c-0057fd6403173487d12ed80f9779973f]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [3(3)](https://www.legislation.gov.uk/wsi/2014/3111/article/3/3)
 
-[^key-cfc5484fe9a4cbc27860b08e9290fac2]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [3(4)](https://www.legislation.gov.uk/wsi/2014/3111/article/3/4)
+[^c-cfc5484fe9a4cbc27860b08e9290fac2]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (19.11.2014) by [The Local Government Byelaws (Wales) Act 2012 (Amendment) Order 2014 (No. 3111)](https://www.legislation.gov.uk/wsi/2014/3111) , [arts. 1(2)](https://www.legislation.gov.uk/wsi/2014/3111/article/1/2) , [3(4)](https://www.legislation.gov.uk/wsi/2014/3111/article/3/4)
 
-[^key-65e2ea010f30b42767a4108b21ed828a]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (31.5.2018) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/3); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
+[^c-65e2ea010f30b42767a4108b21ed828a]: Textual amendment: Words in Sch. 1 Pt. 2 Table 2 inserted (31.5.2018) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/anaw/2017/2/schedule/4/paragraph/3/3); [S.I. 2018/605](https://www.legislation.gov.uk/wsi/2018/605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/605/article/2/b)
 
-[^key-16d07aade5a0507bf79f0216ae89af24]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/1) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-16d07aade5a0507bf79f0216ae89af24]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/1) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-a4ddb1a97716e11f03d4b2a9925a59b4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/2) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-a4ddb1a97716e11f03d4b2a9925a59b4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/2) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-1d49dee7c3aecbaa58d4095f74c4c682]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/3) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-1d49dee7c3aecbaa58d4095f74c4c682]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/3) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-c532a45873ffc065498c366d6ef0bb39]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/4) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-c532a45873ffc065498c366d6ef0bb39]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/4) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-08eecc0aeb7f16cbe320bdfd64f5823b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-08eecc0aeb7f16cbe320bdfd64f5823b]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-9114a9f7f48e1a20875b185b5bf6f2f3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-9114a9f7f48e1a20875b185b5bf6f2f3]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/6) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-98ccb036313221358e7a4a7a738c0aee]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/7) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-98ccb036313221358e7a4a7a738c0aee]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/7) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-818e74ff7c4e8c076a529c56dc8a5732]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/8) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-818e74ff7c4e8c076a529c56dc8a5732]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/8) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-a1ed82bcac24cd6ac1520ca0c5b6af77]: Commencement: Sch. 2 para. 9(1)-(3)(5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-a1ed82bcac24cd6ac1520ca0c5b6af77]: Commencement: Sch. 2 para. 9(1)-(3)(5) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-ff1def4e4eca635fa7983d6e8c3ddc24]: Commencement: Sch. 2 para. 9(4) in force at 8.5.2018 by [S.I. 2018/550](https://www.legislation.gov.uk/wsi/2018/550), [art. 2](https://www.legislation.gov.uk/wsi/2018/550/article/2)
+[^c-ff1def4e4eca635fa7983d6e8c3ddc24]: Commencement: Sch. 2 para. 9(4) in force at 8.5.2018 by [S.I. 2018/550](https://www.legislation.gov.uk/wsi/2018/550), [art. 2](https://www.legislation.gov.uk/wsi/2018/550/article/2)
 
-[^key-0404532d49f3853bf91c4fc1bd7161a6]: Textual amendment: Words in Sch. 2 para. 9(4) substituted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/paragraph/6)
+[^c-0404532d49f3853bf91c4fc1bd7161a6]: Textual amendment: Words in Sch. 2 para. 9(4) substituted (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2013/4/schedule/1/paragraph/6)
 
-[^key-c0119eca88e978b420fc309bc6ab1729]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/10) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-c0119eca88e978b420fc309bc6ab1729]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/10) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-3e935bf2597aa77a07d48f9d2c6a6376]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/11) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(5)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/5)
+[^c-3e935bf2597aa77a07d48f9d2c6a6376]: Textual amendment: [Sch. 2 para. 11](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/11) omitted (21.5.2016) by virtue of [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(2)(g)](https://www.legislation.gov.uk/anaw/2016/3/section/88/2/g), [Sch. 2 para. 30(5)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/30/5)
 
-[^key-6dd1bc2a456c6002a5ddef2ada4d1a52]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/12) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-6dd1bc2a456c6002a5ddef2ada4d1a52]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/12) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-6f072f0a132c5faa959477435865e9da]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/13) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-6f072f0a132c5faa959477435865e9da]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/13) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-dbacf60ca528165e83855022aa38f1d3]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/14) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-dbacf60ca528165e83855022aa38f1d3]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/14) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-500874ebbc92d2a313f9085cd6a81a06]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/15) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-500874ebbc92d2a313f9085cd6a81a06]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/15) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-26fc7c69ec71d2fdf2986da841e59bed]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/16) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-26fc7c69ec71d2fdf2986da841e59bed]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/16) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-d288420657e2e8670c9ad5e5fe95e9e6]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/17) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-d288420657e2e8670c9ad5e5fe95e9e6]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/17) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
-[^key-62a6f6f4e8177dcfcb2cfaf90410f5d2]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/18) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-62a6f6f4e8177dcfcb2cfaf90410f5d2]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/18) in force at 31.3.2015 by [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))

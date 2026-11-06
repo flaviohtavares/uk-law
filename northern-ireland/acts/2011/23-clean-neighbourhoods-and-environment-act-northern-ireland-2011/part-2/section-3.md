@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Repairing vehicles on a road[^key-cc966db3a069de03e104a9546bc4a212]
+## 3. Repairing vehicles on a road[^c-cc966db3a069de03e104a9546bc4a212]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc966db3a069de03e104a9546bc4a212]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/23/section/3) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-cc966db3a069de03e104a9546bc4a212]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/23/section/3) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

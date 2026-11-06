@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 74. Practice directions[^key-f2d0d3b067b038994836777a629ccd83]
+## 74. Practice directions[^c-f2d0d3b067b038994836777a629ccd83]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2d0d3b067b038994836777a629ccd83]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2014/10/section/74) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-f2d0d3b067b038994836777a629ccd83]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2014/10/section/74) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

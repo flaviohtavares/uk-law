@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Power to deviate[^key-9d3b60b5408e0bdedf87487d42f3358f]
+## 5. Power to deviate[^c-9d3b60b5408e0bdedf87487d42f3358f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In constructing or maintaining any of the scheduled works, the undertaker may—
 
 ## Annotations
 
-[^key-9d3b60b5408e0bdedf87487d42f3358f]: Commencement: Art. 5 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-9d3b60b5408e0bdedf87487d42f3358f]: Commencement: Art. 5 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

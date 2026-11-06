@@ -24,28 +24,28 @@ Section 51.
 
 ### PART 1 — DESCRIPTIONS OF EXEMPT INFORMATION
 
-**1.**[^key-d5f8235ebb1bedc97d20f0a2304baffc] Information relating to any individual.
+**1.**[^c-d5f8235ebb1bedc97d20f0a2304baffc] Information relating to any individual.
 
-**2.**[^key-09788468df9a11fb91a975fea40e2d5e] Information which is likely to reveal the identity of an individual.
+**2.**[^c-09788468df9a11fb91a975fea40e2d5e] Information which is likely to reveal the identity of an individual.
 
-**3.**[^key-1300c3f3d0d9d04a65c92dd3cb9d2ffd] Information relating to the financial or business affairs of any particular person (including the council holding that information).
+**3.**[^c-1300c3f3d0d9d04a65c92dd3cb9d2ffd] Information relating to the financial or business affairs of any particular person (including the council holding that information).
 
-**4.**[^key-34f8b2e4a77368c190e99d3065baad10] Information relating to any consultations or negotiations, or contemplated consultations or negotiations, in connection with any labour relations matter arising between the council or a government department and employees of, or office holders under, the council.
+**4.**[^c-34f8b2e4a77368c190e99d3065baad10] Information relating to any consultations or negotiations, or contemplated consultations or negotiations, in connection with any labour relations matter arising between the council or a government department and employees of, or office holders under, the council.
 
-**5.**[^key-f2a95c44c469e6d89ae666e3d6554b6f] Information in relation to which a claim to legal professional privilege could be maintained in legal proceedings.
+**5.**[^c-f2a95c44c469e6d89ae666e3d6554b6f] Information in relation to which a claim to legal professional privilege could be maintained in legal proceedings.
 
-**6.**[^key-6344719a3b47425a5a457a3cf568eff2] Information which reveals that the council proposes—
+**6.**[^c-6344719a3b47425a5a457a3cf568eff2] Information which reveals that the council proposes—
 
 - (a) to give under any statutory provision a notice by virtue of which requirements are imposed on a person; or
 - (b) to make an order or direction under any statutory provision.
 
-**7.**[^key-1f951f4b69bef38d4f799e44203ce981] Information relating to any action taken or to be taken in connection with the prevention, investigation or prosecution of crime.
+**7.**[^c-1f951f4b69bef38d4f799e44203ce981] Information relating to any action taken or to be taken in connection with the prevention, investigation or prosecution of crime.
 
 ### PART 2 — QUALIFICATIONS
 
-**8.**[^key-3e3b23d0aa691567d4bd7c80c5e01210] Information falling within paragraph 3 is not exempt information by virtue of that paragraph if it is required to be registered under—
+**8.**[^c-3e3b23d0aa691567d4bd7c80c5e01210] Information falling within paragraph 3 is not exempt information by virtue of that paragraph if it is required to be registered under—
 
-- (a)[^key-ab9f4be888f17de3c05b1b3753d58662] the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
+- (a)[^c-ab9f4be888f17de3c05b1b3753d58662] the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
 - (b) the Friendly Societies Act 1974;
 - (c) the Credit Unions (Northern Ireland) Order 1985;
 - (d) the Building Societies Act 1986;
@@ -53,7 +53,7 @@ Section 51.
 - (f) the Companies Acts (as defined in section 2 of the Companies Act 2006);
 - (g) the Charities Act (Northern Ireland) 2008.
 
-**9.**[^key-ad87f089f511874251931be170a85c19] Information which—
+**9.**[^c-ad87f089f511874251931be170a85c19] Information which—
 
 - (a) falls within any of paragraphs 1 to 7; and
 - (b) is not prevented from being exempt by virtue of paragraph 8,
@@ -62,7 +62,7 @@ is exempt information if and so long, as in all the circumstances of the case, t
 
 ### PART 3 — INTERPRETATION
 
-**10.**[^key-ceb9a5398d475135395be1d589f90dd7] (1) In this Schedule—
+**10.**[^c-ceb9a5398d475135395be1d589f90dd7] (1) In this Schedule—
 
 - “**employee**” means a person employed under a contract of service;
 - “**financial or business affairs**” includes contemplated, as well as past or current, activities;
@@ -87,24 +87,24 @@ is exempt information if and so long, as in all the circumstances of the case, t
 
 ## Annotations
 
-[^key-d5f8235ebb1bedc97d20f0a2304baffc]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/1) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-d5f8235ebb1bedc97d20f0a2304baffc]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/1) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-09788468df9a11fb91a975fea40e2d5e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/2) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-09788468df9a11fb91a975fea40e2d5e]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/2) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-1300c3f3d0d9d04a65c92dd3cb9d2ffd]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/3) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1300c3f3d0d9d04a65c92dd3cb9d2ffd]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/3) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-34f8b2e4a77368c190e99d3065baad10]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/4) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-34f8b2e4a77368c190e99d3065baad10]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/4) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-f2a95c44c469e6d89ae666e3d6554b6f]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/5) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-f2a95c44c469e6d89ae666e3d6554b6f]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/5) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-6344719a3b47425a5a457a3cf568eff2]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/6) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-6344719a3b47425a5a457a3cf568eff2]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/6) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-1f951f4b69bef38d4f799e44203ce981]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/7) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1f951f4b69bef38d4f799e44203ce981]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/7) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-3e3b23d0aa691567d4bd7c80c5e01210]: Commencement: Sch. 6 para. 8 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-3e3b23d0aa691567d4bd7c80c5e01210]: Commencement: Sch. 6 para. 8 in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-ab9f4be888f17de3c05b1b3753d58662]: Textual amendment: [Sch. 6 para. 8(a)](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/8/a) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/36); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-ab9f4be888f17de3c05b1b3753d58662]: Textual amendment: [Sch. 6 para. 8(a)](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/8/a) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 36](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/36); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-ad87f089f511874251931be170a85c19]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/9) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-ad87f089f511874251931be170a85c19]: Commencement: [Sch. 6 para. 9](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/9) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
 
-[^key-ceb9a5398d475135395be1d589f90dd7]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/10) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-ceb9a5398d475135395be1d589f90dd7]: Commencement: [Sch. 6 para. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/6/paragraph/10) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

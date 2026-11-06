@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G7. Former clerks of the peace etc.[^key-331bb698804ddb3160932f862020b9c5]
+## G7. Former clerks of the peace etc.[^c-331bb698804ddb3160932f862020b9c5]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ may, so long as he continues in the employment of the same body, continue to con
 
 ## Annotations
 
-[^key-331bb698804ddb3160932f862020b9c5]: Commencement: [Reg. G7](https://www.legislation.gov.uk/uksi/1986/24/regulation/G7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-331bb698804ddb3160932f862020b9c5]: Commencement: [Reg. G7](https://www.legislation.gov.uk/uksi/1986/24/regulation/G7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00055]: Footnote: [1971 c.23](https://www.legislation.gov.uk/ukpga/1971/23); Schedule 10, paragraph 13, was repealed by the Superannuation Act 1972, Schedule 8.

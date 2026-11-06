@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Training and development of members of a local authority[^key-b167fff8e16868a38bb3561e19b679af]
+## 7. Training and development of members of a local authority[^c-b167fff8e16868a38bb3561e19b679af]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b167fff8e16868a38bb3561e19b679af]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2011/4/section/7) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/a)
+[^c-b167fff8e16868a38bb3561e19b679af]: Commencement: [S. 7](https://www.legislation.gov.uk/mwa/2011/4/section/7) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/a)

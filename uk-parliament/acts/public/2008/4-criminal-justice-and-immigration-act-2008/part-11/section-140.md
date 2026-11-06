@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Disclosure of information about convictions etc. of child sex offenders to members of the public[^key-bd97a0b41d4f549d1f0896d62c0a6811]
+## 140. Disclosure of information about convictions etc. of child sex offenders to members of the public[^c-bd97a0b41d4f549d1f0896d62c0a6811]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd97a0b41d4f549d1f0896d62c0a6811]: Commencement: S. 140 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/43)
+[^c-bd97a0b41d4f549d1f0896d62c0a6811]: Commencement: S. 140 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/43)

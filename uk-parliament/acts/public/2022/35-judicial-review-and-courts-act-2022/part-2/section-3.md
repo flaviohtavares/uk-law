@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Automatic online conviction and penalty for certain summary offences[^key-645278cd021d812af7add1c1ecd0265c][^key-f94637137cbaa5cda33c9390f03beca9]
+## 3. Automatic online conviction and penalty for certain summary offences[^c-645278cd021d812af7add1c1ecd0265c][^c-f94637137cbaa5cda33c9390f03beca9]
 
 *Extent: E+W+S+N.I.*
 
@@ -197,6 +197,6 @@ After section 16F of the Magistrates’ Courts Act 1980 insert—
 
 ## Annotations
 
-[^key-645278cd021d812af7add1c1ecd0265c]: Commencement: S. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-645278cd021d812af7add1c1ecd0265c]: Commencement: S. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-f94637137cbaa5cda33c9390f03beca9]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/35/section/3) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/a)
+[^c-f94637137cbaa5cda33c9390f03beca9]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/35/section/3) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/a)

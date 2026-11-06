@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Compulsory acquisition of rights[^key-5dfdeacc0df40b0d8f487f7820293978]
+## 22. Compulsory acquisition of rights[^c-5dfdeacc0df40b0d8f487f7820293978]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ the land over which any new rights are acquired is discharged from all rights, t
 
 ## Annotations
 
-[^key-5dfdeacc0df40b0d8f487f7820293978]: Commencement: Art. 22 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-5dfdeacc0df40b0d8f487f7820293978]: Commencement: Art. 22 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Information to be given to pension schemes by employers[^key-c393794880878dd6bae5985f5c04047b]
+## 125. Information to be given to pension schemes by employers[^c-c393794880878dd6bae5985f5c04047b]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c393794880878dd6bae5985f5c04047b]: Commencement: S. 125 in force at Royal Assent, see [s. 133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)
+[^c-c393794880878dd6bae5985f5c04047b]: Commencement: S. 125 in force at Royal Assent, see [s. 133(11)(c)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/c)

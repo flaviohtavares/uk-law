@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Interpretation of regulation 105[^key-27a9301d0109a01a1e2c1852169ffb26]
+## 106. Interpretation of regulation 105[^c-27a9301d0109a01a1e2c1852169ffb26]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ In regulation 105—
 
 ## Annotations
 
-[^key-27a9301d0109a01a1e2c1852169ffb26]: Commencement: Reg. 106 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-27a9301d0109a01a1e2c1852169ffb26]: Commencement: Reg. 106 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

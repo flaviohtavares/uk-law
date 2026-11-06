@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. The ballot paper[^key-96aca325649c9891582e1cd3541998ff]
+## 10. The ballot paper[^c-96aca325649c9891582e1cd3541998ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96aca325649c9891582e1cd3541998ff]: Commencement: Reg. 10 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-96aca325649c9891582e1cd3541998ff]: Commencement: Reg. 10 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

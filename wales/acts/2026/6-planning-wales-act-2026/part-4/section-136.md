@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 136. Power to enter land and take steps required by enforcement notice[^key-fe0bf0a84e7b142871c248a717c474da]
+## 136. Power to enter land and take steps required by enforcement notice[^c-fe0bf0a84e7b142871c248a717c474da]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe0bf0a84e7b142871c248a717c474da]: Commencement: S. 136 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fe0bf0a84e7b142871c248a717c474da]: Commencement: S. 136 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

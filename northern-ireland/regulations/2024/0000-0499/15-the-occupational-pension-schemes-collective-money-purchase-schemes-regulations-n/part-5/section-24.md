@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Risk notices[^key-6b8df4b606c299d9ee7be03904e882d9]
+## 24. Risk notices[^c-6b8df4b606c299d9ee7be03904e882d9]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b8df4b606c299d9ee7be03904e882d9]: Commencement: Reg. 24 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-6b8df4b606c299d9ee7be03904e882d9]: Commencement: Reg. 24 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
 [^f00021]: Footnote: Article 10 was amended by paragraph 9 of Schedule 2 to the Welfare Reform and Pensions (Northern Ireland) Order 1999, Schedule 11 to the Pensions (Northern Ireland) Order 2005 and paragraph 15 of Schedule 8 to the Pension Schemes Act 2021

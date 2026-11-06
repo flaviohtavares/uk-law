@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Constitution of Health Boards
 
-### 1. Constitution of Health Boards[^key-8f06673bbe2869bf958260bc5b0f3166]
+### 1. Constitution of Health Boards[^c-8f06673bbe2869bf958260bc5b0f3166]
 
 (1) Schedule 1 (Health Boards) to the National Health Service (Scotland) Act 1978 (c. 29) (the “**1978 Act**”) is amended as follows.
 
@@ -79,37 +79,37 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-(6)[^key-06a5ecb91ef7e3623322f850bdb95451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-06a5ecb91ef7e3623322f850bdb95451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In paragraph 11(a), for “chairman and members of Health Boards” substitute “ appointed members and councillor members (including provision specifying circumstances in which the Scottish Ministers may determine that such a member is to vacate office) ”.
 
-(8)[^key-9bf1bda0bd17d3e69b937d13f597aa24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-9bf1bda0bd17d3e69b937d13f597aa24] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Elected members of Health Boards
 
-### 2. Health Board elections[^key-00f4c01da13a03b46efd185d7796051f]
+### 2. Health Board elections[^c-00f4c01da13a03b46efd185d7796051f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Scottish Ministers' powers in relation to elected members[^key-00f4c01da13a03b46efd185d7796051f]
+### 3. Scottish Ministers' powers in relation to elected members[^c-00f4c01da13a03b46efd185d7796051f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Pilot scheme and action following pilot
 
-### 4. Pilot scheme[^key-00f4c01da13a03b46efd185d7796051f]
+### 4. Pilot scheme[^c-00f4c01da13a03b46efd185d7796051f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Report on pilot scheme[^key-00f4c01da13a03b46efd185d7796051f]
+### 5. Report on pilot scheme[^c-00f4c01da13a03b46efd185d7796051f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Termination of pilot scheme[^c1969972]
 
-(1)[^key-78f2b63aba758e394deb23ed390137c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-78f2b63aba758e394deb23ed390137c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-78f2b63aba758e394deb23ed390137c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-78f2b63aba758e394deb23ed390137c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The following provisions of this Act are repealed—
 
@@ -120,7 +120,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 and the amendments of the 1978 Act made by provisions so repealed are accordingly to cease to have effect.
 
-(4)[^key-ef4b1cf6070839c87cc9021f4bf61a05] Paragraph 2 of Schedule 1 to the 1978 Act is amended as follows—
+(4)[^c-ef4b1cf6070839c87cc9021f4bf61a05] Paragraph 2 of Schedule 1 to the 1978 Act is amended as follows—
 
 - (a) in sub-paragraph (1)—
   - (i) after sub-paragraph (a) insert “ and ”,
@@ -131,7 +131,7 @@ and the amendments of the 1978 Act made by provisions so repealed are accordingl
 
   .
 
-### 7. Roll-out[^key-a2b414343ac3f34553b89bb0b81bc1a2]
+### 7. Roll-out[^c-a2b414343ac3f34553b89bb0b81bc1a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -197,24 +197,24 @@ This Act is called the Health Boards (Membership and Elections) (Scotland) Act 2
 
 **Not yet in force.**
 
-**2.**[^key-386e93d4ff587eaa1f7d18b01a8b62be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-386e93d4ff587eaa1f7d18b01a8b62be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f06673bbe2869bf958260bc5b0f3166]: Commencement: S. 1 in force at 24.6.2009 for specified purposes by [S.S.I. 2009/242](https://www.legislation.gov.uk/ssi/2009/242), [art. 2](https://www.legislation.gov.uk/ssi/2009/242/article/2) (which commencing [S.S.I. 2009/242](https://www.legislation.gov.uk/ssi/2009/242) was revoked (31.12.2013) by [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), art. 2 (with savings in art. 3))
+[^c-8f06673bbe2869bf958260bc5b0f3166]: Commencement: S. 1 in force at 24.6.2009 for specified purposes by [S.S.I. 2009/242](https://www.legislation.gov.uk/ssi/2009/242), [art. 2](https://www.legislation.gov.uk/ssi/2009/242/article/2) (which commencing [S.S.I. 2009/242](https://www.legislation.gov.uk/ssi/2009/242) was revoked (31.12.2013) by [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), art. 2 (with savings in art. 3))
 
-[^key-06a5ecb91ef7e3623322f850bdb95451]: Textual amendment: S. 1(6) repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(a),](https://www.legislation.gov.uk/asp/2009/5/section/6/3/a) [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
+[^c-06a5ecb91ef7e3623322f850bdb95451]: Textual amendment: S. 1(6) repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(a),](https://www.legislation.gov.uk/asp/2009/5/section/6/3/a) [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
 
-[^key-9bf1bda0bd17d3e69b937d13f597aa24]: Textual amendment: S. 1(8) repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(a),](https://www.legislation.gov.uk/asp/2009/5/section/6/3/a) [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
+[^c-9bf1bda0bd17d3e69b937d13f597aa24]: Textual amendment: S. 1(8) repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(a),](https://www.legislation.gov.uk/asp/2009/5/section/6/3/a) [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
 
-[^key-00f4c01da13a03b46efd185d7796051f]: Textual amendment: Ss. 2-5 repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(b)](https://www.legislation.gov.uk/asp/2009/5/section/6/3/b), [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
+[^c-00f4c01da13a03b46efd185d7796051f]: Textual amendment: Ss. 2-5 repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(b)](https://www.legislation.gov.uk/asp/2009/5/section/6/3/b), [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
 
 [^c1969972]: Commencement: S. 6 partly in force; s. 6(1)(2) in force at Royal Assent see s. 11
 
-[^key-78f2b63aba758e394deb23ed390137c2]: Textual amendment: S. 6(1)(2) repealed (31.12.2013 for specified purposes) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(c),](https://www.legislation.gov.uk/asp/2009/5/section/6/3/c) [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
+[^c-78f2b63aba758e394deb23ed390137c2]: Textual amendment: S. 6(1)(2) repealed (31.12.2013 for specified purposes) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(c),](https://www.legislation.gov.uk/asp/2009/5/section/6/3/c) [11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
 
-[^key-ef4b1cf6070839c87cc9021f4bf61a05]: Modification: S. 6(4) restricted (31.12.2013) by [The Health Boards (Membership and Elections) (Scotland) Order 2013 (S.S.I. 2013/364)](https://www.legislation.gov.uk/ssi/2013/364), [art. 3(2)](https://www.legislation.gov.uk/ssi/2013/364/article/3/2)
+[^c-ef4b1cf6070839c87cc9021f4bf61a05]: Modification: S. 6(4) restricted (31.12.2013) by [The Health Boards (Membership and Elections) (Scotland) Order 2013 (S.S.I. 2013/364)](https://www.legislation.gov.uk/ssi/2013/364), [art. 3(2)](https://www.legislation.gov.uk/ssi/2013/364/article/3/2)
 
-[^key-a2b414343ac3f34553b89bb0b81bc1a2]: Textual amendment: S. 7 repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(d)](https://www.legislation.gov.uk/asp/2009/5/section/6/3/d)[, 11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
+[^c-a2b414343ac3f34553b89bb0b81bc1a2]: Textual amendment: S. 7 repealed (31.12.2013) (conditionally) by [Health Boards (Membership and Elections) (Scotland) Act 2009 (asp 5)](https://www.legislation.gov.uk/asp/2009/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2009/5/section/6/2)[(3)(d)](https://www.legislation.gov.uk/asp/2009/5/section/6/3/d)[, 11(1)](https://www.legislation.gov.uk/asp/2009/5/section/11/1); [S.S.I. 2013/364](https://www.legislation.gov.uk/ssi/2013/364), [art. 2](https://www.legislation.gov.uk/ssi/2013/364/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/364/article/3/1))
 
-[^key-386e93d4ff587eaa1f7d18b01a8b62be]: Textual amendment: Sch. para. 2 repealed (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [3](https://www.legislation.gov.uk/ssi/2010/50/article/3)
+[^c-386e93d4ff587eaa1f7d18b01a8b62be]: Textual amendment: Sch. para. 2 repealed (14.2.2010) by [The Public Appointments and Public Bodies etc. (Scotland) Act 2003 (Amendment of Specified Authorities) Order 2010 (S.S.I. 2010/50)](https://www.legislation.gov.uk/ssi/2010/50), [arts. 1](https://www.legislation.gov.uk/ssi/2010/50/article/1), [3](https://www.legislation.gov.uk/ssi/2010/50/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 339. Prize competitions[^key-d9d38a8960dd1f0fe45a7aaecb5f1d36]
+## 339. Prize competitions[^c-d9d38a8960dd1f0fe45a7aaecb5f1d36]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Participating in a competition or other arrangement under which a person may win
 
 ## Annotations
 
-[^key-d9d38a8960dd1f0fe45a7aaecb5f1d36]: Commencement: [S. 339](https://www.legislation.gov.uk/ukpga/2005/19/section/339) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-d9d38a8960dd1f0fe45a7aaecb5f1d36]: Commencement: [S. 339](https://www.legislation.gov.uk/ukpga/2005/19/section/339) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)

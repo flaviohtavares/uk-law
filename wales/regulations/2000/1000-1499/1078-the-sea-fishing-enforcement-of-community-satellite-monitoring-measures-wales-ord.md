@@ -41,13 +41,13 @@ Coming into force
 
 In exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^f00001], which are now vested in it, the National Assembly for Wales[^f00002] hereby makes the following Order:–
 
-## 1. Title, commencement and application[^key-267bc0cf6554da4063b119fe9ba02cae]
+## 1. Title, commencement and application[^c-267bc0cf6554da4063b119fe9ba02cae]
 
 (1) This Order may be cited as the Sea Fishing (Enforcement of Community Satellite Monitoring Measures)(Wales) Order 2000 and shall come into force on 7th April 2000.
 
 (2) This Order applies to Wales and the territorial sea adjacent to Wales, and the provisions of article 6 of the National Assembly for Wales (Transfer of Functions) Order 1999 shall have effect for determining those parts of the sea which are to be treated as adjacent to Wales and those which are not[^f00003].
 
-## 2. Interpretation[^key-7f77b2e4ee9acbf3b6c0ad97dfccdff5]
+## 2. Interpretation[^c-7f77b2e4ee9acbf3b6c0ad97dfccdff5]
 
 (1) In this Order–
 
@@ -72,7 +72,7 @@ In exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^
   - (c) the date and time of the fixing of that position;
 - “satellite tracking device” (*“dyfais olrhain loerennol”*) means a device for sending required information to a Fisheries Monitoring Centre from a fishing boat via a satellite and land earth station;
 - “Scottish fishing boat” (*“cwch pysgota Albanaidd”*) means a fishing boat which is registered in the register maintained under section 8 of the Merchant Shipping Act 1995 and whose entry in the register specifies a port in Scotland as the port to which the boat is to be treated as belonging;
-- “weekday” means a day other than a Saturday, Sunday or public holiday.[^key-07c012169e098d53b3240bd2530cc434]
+- “weekday” means a day other than a Saturday, Sunday or public holiday.[^c-07c012169e098d53b3240bd2530cc434]
 
 (2) In this Order any reference to a logbook, declaration, document or required information includes, in addition to a logbook, declaration, document or required information in writing –
 
@@ -84,7 +84,7 @@ In exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^
 
 (3) Any reference in this Order to a Community instrument is a reference to that instrument and any amendment of such instrument in force on the date this Order is made.
 
-## 3. Satellite tracking of fishing boats[^key-efebd7d43a1355b8a2a2a04b78c263ae]
+## 3. Satellite tracking of fishing boats[^c-efebd7d43a1355b8a2a2a04b78c263ae]
 
 (1) Subject to paragraph (2) this article applies to any fishing boat within the territorial sea adjacent to Wales which measures more than 20 metres between perpendiculars or more than 24 metres in overall length.
 
@@ -95,7 +95,7 @@ In exercise of the powers conferred by section 30(2) of the Fisheries Act 1981[^
 
 (3) A satellite tracking device shall–
 
-- (a) be installed; and[^key-5a772173cbab4a2f99d3b6b0bc3636f9]
+- (a) be installed; and[^c-5a772173cbab4a2f99d3b6b0bc3636f9]
 - (b) subject to paragraphs (4) and (6), be maintained fully operational,
 
 on a fishing boat to which this article applies.
@@ -107,7 +107,7 @@ on a fishing boat to which this article applies.
   - (ii) in a case for which a different maximum interval is specified in Annex I of Regulation 1489/97, at or within such intervals; or
 - (b) where the satellite tracking device is not capable of being polled, hourly, in the format prescribed by Annex II to Regulation 1489/97 to a Fisheries Monitoring Centre.
 
-## 4. Offences[^key-1d60d8e34f342b5230df358c8c322607]
+## 4. Offences[^c-1d60d8e34f342b5230df358c8c322607]
 
 (1) Where there is a contravention of, or failure to comply with–
 
@@ -116,7 +116,7 @@ on a fishing boat to which this article applies.
 
 the owner, the charterer (if any) and the master shall be guilty of an offence.
 
-(2)[^key-be591938e7477abf56af75868e8e700f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-be591938e7477abf56af75868e8e700f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Any person who in any way–
 
@@ -125,7 +125,7 @@ the owner, the charterer (if any) and the master shall be guilty of an offence.
 
 without prior notification thereof to the National Assembly for Wales shall be guilty of an offence.
 
-(4)[^key-b19a8bc658dca5b9d9e7d2978bd9b7ba] Without limiting the generality of paragraph (3)(b), a satellite tracking device shall not be regarded as fully operational for the purpose of that sub-paragraph during any time when it is failing to operate in accordance with paragraph (5).
+(4)[^c-b19a8bc658dca5b9d9e7d2978bd9b7ba] Without limiting the generality of paragraph (3)(b), a satellite tracking device shall not be regarded as fully operational for the purpose of that sub-paragraph during any time when it is failing to operate in accordance with paragraph (5).
 
 (5) A satellite tracking device installed on a fishing boat to which this article applies shall transmit the required information, in the format prescribed by Annex II to Regulation 1489/97, to a Fisheries Monitoring Centre—
 
@@ -146,9 +146,9 @@ without prior notification thereof to the National Assembly for Wales shall be g
 
 without prejudice to Article 6.1 of Regulation 1489/97 (requirement to communicate information to flag state and, if appropriate, coastal state monitoring centres by other means at least every 24 hours), the required information shall be communicated to the Fisheries Monitoring Centre of the United Kingdom by one of the means specified in that Article at least every two hours.
 
-## 5. Penalties[^key-fd9a877bdb2f4f4a47c0abfa47740618]
+## 5. Penalties[^c-fd9a877bdb2f4f4a47c0abfa47740618]
 
-(1) A person found guilty of a relevant offence in respect of a contravention of, or failure to comply with, article 3(3)(b) or (7)[^key-d25f66ee30766549e42f7d066142f2b1] of this Order or Article 6.1 or 6.2 of Regulation 1489/97 shall be liable–
+(1) A person found guilty of a relevant offence in respect of a contravention of, or failure to comply with, article 3(3)(b) or (7)[^c-d25f66ee30766549e42f7d066142f2b1] of this Order or Article 6.1 or 6.2 of Regulation 1489/97 shall be liable–
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment to a fine.
@@ -158,7 +158,7 @@ without prejudice to Article 6.1 of Regulation 1489/97 (requirement to communica
 - (a) on summary conviction to a fine not exceeding £50,000;
 - (b) on conviction on indictment to a fine.
 
-## 6. Recovery of fines[^key-b4d40432ef4febac2e3e86b23b8046ad]
+## 6. Recovery of fines[^c-b4d40432ef4febac2e3e86b23b8046ad]
 
 (1) Where a fine is imposed by a magistrates' court on the master, owner, charterer, person responsible for the fishing boat or any other person who is convicted by the court of a relevant offence or an offence under article 9 of this Order, the court may for the purpose of levying the amount of the fine–
 
@@ -167,11 +167,11 @@ without prejudice to Article 6.1 of Regulation 1489/97 (requirement to communica
 
 (2) Sections 77(1) and 78 of the Magistrates' Courts Act 1980[^f00018] (postponement of issue of, and defects in, warrants of distress) shall apply to a warrant of distress issued under this article as they apply to a warrant of distress issued under Part III of that Act.
 
-(3) Where in relation to a fine in respect of a relevant offence a transfer of fine order under [^key-f97426d87c77f911b9f54354f4227ea9]... , Article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00019] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00020] specifies a petty sessions area in Wales this article shall apply as if the fine were imposed by a court within that petty sessions area.
+(3) Where in relation to a fine in respect of a relevant offence a transfer of fine order under [^c-f97426d87c77f911b9f54354f4227ea9]... , Article 95 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00019] or section 222 of the Criminal Procedure (Scotland) Act 1995[^f00020] specifies a petty sessions area in Wales this article shall apply as if the fine were imposed by a court within that petty sessions area.
 
-## 7. Powers of British sea-fishery officers in relation to fishing boats[^key-aa2c371ade832bbd2f724a037b392886]
+## 7. Powers of British sea-fishery officers in relation to fishing boats[^c-aa2c371ade832bbd2f724a037b392886]
 
-(1) For the purpose of the enforcement of article 4 of this Order, or any equivalent provision in an order extending to any other part of the United Kingdom made for the purposes of implementing a Community satellite monitoring measure, a British sea-fishery officer may exercise in relation to any fishing boat within the territorial sea adjacent to Wales the powers conferred by paragraphs (2) to (8)[^key-cdb4aecafcb9357a1efb1e9a685beb1b] of this article.
+(1) For the purpose of the enforcement of article 4 of this Order, or any equivalent provision in an order extending to any other part of the United Kingdom made for the purposes of implementing a Community satellite monitoring measure, a British sea-fishery officer may exercise in relation to any fishing boat within the territorial sea adjacent to Wales the powers conferred by paragraphs (2) to (8)[^c-cdb4aecafcb9357a1efb1e9a685beb1b] of this article.
 
 (2) The officer may go on board the boat, with or without persons assigned to assist with his or her duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
 
@@ -191,7 +191,7 @@ without prejudice to Article 6.1 of Regulation 1489/97 (requirement to communica
 
 and where such an officer detains or requires the detention of a boat the officer shall serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-(5)[^key-b214a1a7020f72bbaa94579097ad8681] WhWhere it appears to a British sea fisheries officer that the satellite tracking device on a relevant British fishing boat or a Scottish fishing boat failed, at a time when the boat was not in port, to operate in accordance with article 3(5) of this Order, that officer may, subject to paragraph (7), at any time when the boat is in port, serve on the master or the owner a notice under paragraph (6).
+(5)[^c-b214a1a7020f72bbaa94579097ad8681] WhWhere it appears to a British sea fisheries officer that the satellite tracking device on a relevant British fishing boat or a Scottish fishing boat failed, at a time when the boat was not in port, to operate in accordance with article 3(5) of this Order, that officer may, subject to paragraph (7), at any time when the boat is in port, serve on the master or the owner a notice under paragraph (6).
 
 (6) The notice referred to in paragraph (5) is a notice which—
 
@@ -207,11 +207,11 @@ and where such an officer detains or requires the detention of a boat the office
 - (a) in paragraphs (5) and (7) the reference to article 3(5) of this Order includes a provision to the same effect made by an order which applies to waters beyond the territorial sea adjacent to Wales;
 - (b) in paragraph (6) “the specified monitoring period” means a period of 24 hours which is specified in the notice (which period shall not begin later than 9.00 a.m. on the weekday next following the day on which the notice is served).
 
-## 8. Protection of officers[^key-d7ae7867c1a88141d3ecf093369d89b8]
+## 8. Protection of officers[^c-d7ae7867c1a88141d3ecf093369d89b8]
 
 A British sea-fishery officer or a person assisting him or her by virtue of article 7(2) of this Order shall not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on him or her by virtue of article 7 of this Order if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
 
-## 9. Obstruction etc.[^key-686865d5039a85d49403308fae5f0648]
+## 9. Obstruction etc.[^c-686865d5039a85d49403308fae5f0648]
 
 Any person who–
 
@@ -224,7 +224,7 @@ shall be guilty of an offence, and liable–
 - (i) on summary conviction to a fine not exceeding the statutory maximum;
 - (ii) on conviction on indictment to a fine.
 
-## 10. Provisions as to offences and proceedings[^key-f01129e88675fbc97a400de69beb5e94]
+## 10. Provisions as to offences and proceedings[^c-f01129e88675fbc97a400de69beb5e94]
 
 (1) Where any offence under article 4 of this Order committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, that person, as well as the body corporate, shall be guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -232,7 +232,7 @@ shall be guilty of an offence, and liable–
 
 (3) Where any offence under article 4 of this Order committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any officer of the association or any member of its governing body, that person as well as the association shall be guilty of the offence and liable to be proceeded against and punished accordingly.
 
-## 11. Admissibility in evidence of logbooks and other documents[^key-cd2be5cebceb90000a075f9659db1565]
+## 11. Admissibility in evidence of logbooks and other documents[^c-cd2be5cebceb90000a075f9659db1565]
 
 Any–
 
@@ -273,11 +273,11 @@ Articles 8, 10 and 11 contain ancillary provisions.
 
 [^f00002]: Footnote: By virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), the functions of the Minister of Agriculture Fisheries and Food, and the Secretaries of State respectively concerned with sea fishing in Wales, Scotland and Northern Ireland under section 30(2) of the Fisheries Act [1981 (c. 29)](https://www.legislation.gov.uk/ukpga/1981/29) were, so far as they were exercisable in relation to Wales, transferred to the National Assembly for Wales.
 
-[^key-267bc0cf6554da4063b119fe9ba02cae]: Commencement: Art. 1 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-267bc0cf6554da4063b119fe9ba02cae]: Commencement: Art. 1 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
 [^f00003]: Footnote: The territorial sea is determined in accordance with the provisions of section 1 of the Territorial Sea Act [1987 (c. 47)](https://www.legislation.gov.uk/ukpga/1987/47) and with any provisions made, or having effect as if made, under that section. The boundary between those parts of the sea within the Severn and Dee Estuaries which are treated as being territorial seas adjacent to Wales, and those which are not, is determined in accordance with the co-ordinates set out in Schedule 3 to the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-7f77b2e4ee9acbf3b6c0ad97dfccdff5]: Commencement: Art. 2 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-7f77b2e4ee9acbf3b6c0ad97dfccdff5]: Commencement: Art. 2 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
 [^f00004]: Footnote: OJ No. L261, 20.10.93, p.1.
 
@@ -307,44 +307,44 @@ Articles 8, 10 and 11 contain ancillary provisions.
 
 [^f00017]: Footnote: Inserted by the Scotland Act 1998 (Consequential Modifications) (No.2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)).
 
-[^key-07c012169e098d53b3240bd2530cc434]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/2/1) inserted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 3](https://www.legislation.gov.uk/wsi/2002/677/article/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+[^c-07c012169e098d53b3240bd2530cc434]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/2/1) inserted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 3](https://www.legislation.gov.uk/wsi/2002/677/article/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
 
-[^key-efebd7d43a1355b8a2a2a04b78c263ae]: Commencement: Art. 3 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-efebd7d43a1355b8a2a2a04b78c263ae]: Commencement: Art. 3 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-5a772173cbab4a2f99d3b6b0bc3636f9]: Textual amendment: Art. 3(3)(b) and word substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/uksi/2002/677), [art. 4(2)](https://www.legislation.gov.uk/uksi/2002/677/article/4/2), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/677/regulation/1/1)
+[^c-5a772173cbab4a2f99d3b6b0bc3636f9]: Textual amendment: Art. 3(3)(b) and word substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/uksi/2002/677), [art. 4(2)](https://www.legislation.gov.uk/uksi/2002/677/article/4/2), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/677/regulation/1/1)
 
-[^key-1d60d8e34f342b5230df358c8c322607]: Commencement: Art. 4 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-1d60d8e34f342b5230df358c8c322607]: Commencement: Art. 4 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-be591938e7477abf56af75868e8e700f]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/2) revoked (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 5](https://www.legislation.gov.uk/wsi/2002/677/article/5), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/2))
+[^c-be591938e7477abf56af75868e8e700f]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/2) revoked (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 5](https://www.legislation.gov.uk/wsi/2002/677/article/5), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1) (with [reg. 1(2)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/2))
 
-[^key-b19a8bc658dca5b9d9e7d2978bd9b7ba]: Textual amendment: [Art. 4(4)-(7)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/4) substituted for [art. 4(4)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/4) (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 4(3)](https://www.legislation.gov.uk/wsi/2002/677/article/4/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+[^c-b19a8bc658dca5b9d9e7d2978bd9b7ba]: Textual amendment: [Art. 4(4)-(7)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/4) substituted for [art. 4(4)](https://www.legislation.gov.uk/wsi/2000/1078/article/4/4) (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 4(3)](https://www.legislation.gov.uk/wsi/2002/677/article/4/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
 
-[^key-fd9a877bdb2f4f4a47c0abfa47740618]: Commencement: Art. 5 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-fd9a877bdb2f4f4a47c0abfa47740618]: Commencement: Art. 5 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-d25f66ee30766549e42f7d066142f2b1]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/5/1) substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 6](https://www.legislation.gov.uk/wsi/2002/677/article/6), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+[^c-d25f66ee30766549e42f7d066142f2b1]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/5/1) substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 6](https://www.legislation.gov.uk/wsi/2002/677/article/6), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
 
-[^key-b4d40432ef4febac2e3e86b23b8046ad]: Commencement: Art. 6 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-b4d40432ef4febac2e3e86b23b8046ad]: Commencement: Art. 6 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
 [^f00018]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-f97426d87c77f911b9f54354f4227ea9]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/wsi/2000/1078/article/6/3) omitted (1.4.2002) by virtue of [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 7](https://www.legislation.gov.uk/wsi/2002/677/article/7), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+[^c-f97426d87c77f911b9f54354f4227ea9]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/wsi/2000/1078/article/6/3) omitted (1.4.2002) by virtue of [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 7](https://www.legislation.gov.uk/wsi/2002/677/article/7), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 1981 /1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
 [^f00020]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-aa2c371ade832bbd2f724a037b392886]: Commencement: Art. 7 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-aa2c371ade832bbd2f724a037b392886]: Commencement: Art. 7 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-cdb4aecafcb9357a1efb1e9a685beb1b]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/7/1) substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 8(2)](https://www.legislation.gov.uk/wsi/2002/677/article/8/2), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+[^c-cdb4aecafcb9357a1efb1e9a685beb1b]: Textual amendment: Words in [art. 7(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/7/1) substituted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 8(2)](https://www.legislation.gov.uk/wsi/2002/677/article/8/2), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
 
-[^key-b214a1a7020f72bbaa94579097ad8681]: Textual amendment: [Art. 7(5)-(8)](https://www.legislation.gov.uk/wsi/2000/1078/article/7/5) inserted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 8(3)](https://www.legislation.gov.uk/wsi/2002/677/article/8/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
+[^c-b214a1a7020f72bbaa94579097ad8681]: Textual amendment: [Art. 7(5)-(8)](https://www.legislation.gov.uk/wsi/2000/1078/article/7/5) inserted (1.4.2002) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) (Wales) Order 2000 Amendment Regulations 2002 (S.I. 2002/677)](https://www.legislation.gov.uk/wsi/2002/677), [art. 8(3)](https://www.legislation.gov.uk/wsi/2002/677/article/8/3), [reg. 1(1)](https://www.legislation.gov.uk/wsi/2002/677/regulation/1/1)
 
-[^key-d7ae7867c1a88141d3ecf093369d89b8]: Commencement: Art. 8 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-d7ae7867c1a88141d3ecf093369d89b8]: Commencement: Art. 8 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-686865d5039a85d49403308fae5f0648]: Commencement: Art. 9 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-686865d5039a85d49403308fae5f0648]: Commencement: Art. 9 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-f01129e88675fbc97a400de69beb5e94]: Commencement: Art. 10 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-f01129e88675fbc97a400de69beb5e94]: Commencement: Art. 10 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
-[^key-cd2be5cebceb90000a075f9659db1565]: Commencement: Art. 11 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
+[^c-cd2be5cebceb90000a075f9659db1565]: Commencement: Art. 11 in force at 7.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/1078/article/1/1)
 
 [^f00021]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

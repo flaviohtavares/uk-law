@@ -36,10 +36,10 @@ summary: ''
 - (c) paragraphs 7 and 7A of Schedule 2 and paragraph 11 of Schedule 5 to [^c1365775] the Abolition of Domestic Rates Etc. (Scotland) Act 1987 (enforcement of community charges and community water charges);
 - (d) paragraphs 5 to 7 of Schedule 4 to [^c1365776] the Local Government Finance Act 1988 (enforcement of community charge);
 - (e) paragraph 3(2)(b) of Schedule 9 to that Act (enforcement of non-domestic rates);
-- (ea)[^key-d26bbf1f3dc3dfa4d5f8c91ecab9b3c8] section 48 of the Local Government Act 2003 (administration etc of BID levy) if the function corresponds to any function falling within paragraph (e) above,.
+- (ea)[^c-d26bbf1f3dc3dfa4d5f8c91ecab9b3c8] section 48 of the Local Government Act 2003 (administration etc of BID levy) if the function corresponds to any function falling within paragraph (e) above,.
 - (f) paragraphs 5 to 7 of Schedule 4 to [^c1365777] the Local Government Finance Act 1992 (enforcement of council tax);
-- (g) paragraphs 2 and 6 of Schedule 8 and paragraph 11 of Schedule 11 to that Act (enforcement of council tax and council water charge); [^key-982ecde984245606cd613fc57fa02cba]...
-- (h) paragraph 2 of Schedule 10 to the Local [^c1365778]Government etc. (Scotland) Act 1994 (enforcement of water and sewerage charges); and[^key-8cbb73c03fafc532842b5a15e7ca2d03]
+- (g) paragraphs 2 and 6 of Schedule 8 and paragraph 11 of Schedule 11 to that Act (enforcement of council tax and council water charge); [^c-982ecde984245606cd613fc57fa02cba]...
+- (h) paragraph 2 of Schedule 10 to the Local [^c1365778]Government etc. (Scotland) Act 1994 (enforcement of water and sewerage charges); and[^c-8cbb73c03fafc532842b5a15e7ca2d03]
 - (i) sections 217 and 218 of the Planning Act 2008 (Community Infrastructure Levy: collection and enforcement).
 
 ## Annotations
@@ -52,12 +52,12 @@ summary: ''
 
 [^c1365776]: Marginal citation: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-d26bbf1f3dc3dfa4d5f8c91ecab9b3c8]: Textual amendment: S. 71(3)(ea) inserted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 59](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/59); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-d26bbf1f3dc3dfa4d5f8c91ecab9b3c8]: Textual amendment: S. 71(3)(ea) inserted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 7 para. 59](https://www.legislation.gov.uk/ukpga/2003/26/schedule/7/paragraph/59); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c1365777]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-982ecde984245606cd613fc57fa02cba]: Textual amendment: Word in s. 71(3)(g) omitted (6.4.2010) by virtue of [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 224(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/224/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 2](https://www.legislation.gov.uk/uksi/2010/566/article/2)
+[^c-982ecde984245606cd613fc57fa02cba]: Textual amendment: Word in s. 71(3)(g) omitted (6.4.2010) by virtue of [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 224(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/224/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 2](https://www.legislation.gov.uk/uksi/2010/566/article/2)
 
 [^c1365778]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-8cbb73c03fafc532842b5a15e7ca2d03]: Textual amendment: S. 71(3)(i) and word inserted (6.4.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 224(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/224/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 2](https://www.legislation.gov.uk/uksi/2010/566/article/2)
+[^c-8cbb73c03fafc532842b5a15e7ca2d03]: Textual amendment: S. 71(3)(i) and word inserted (6.4.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 224(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/224/3), [241(8)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/8) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2010/566](https://www.legislation.gov.uk/uksi/2010/566), [art. 2](https://www.legislation.gov.uk/uksi/2010/566/article/2)

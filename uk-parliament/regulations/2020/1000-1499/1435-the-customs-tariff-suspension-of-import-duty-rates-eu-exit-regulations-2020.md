@@ -52,7 +52,7 @@ The Treasury considers it appropriate, in consequence of, or otherwise in connec
 
 ## PART 1 — General
 
-### 1. Citation, commencement, extent and application[^key-28a424bc85ac88773f626286ec48337a][^key-0cbe1a0b4eed31b04da7f45a9bb23fac]
+### 1. Citation, commencement, extent and application[^c-28a424bc85ac88773f626286ec48337a][^c-0cbe1a0b4eed31b04da7f45a9bb23fac]
 
 (1) These Regulations may be cited as the Customs Tariff (Suspension of Import Duty Rates) (EU Exit) Regulations 2020.
 
@@ -62,7 +62,7 @@ The Treasury considers it appropriate, in consequence of, or otherwise in connec
 
 (4) These Regulations apply to all goods that are imported into the United Kingdom in respect of which a liability to a charge to import duty is incurred under the Act.
 
-### 2. Interpretation[^key-135ef4b3bd074a17f40311ec178c39ff][^key-0e9e70ab111c4333e920fa718fe06731]
+### 2. Interpretation[^c-135ef4b3bd074a17f40311ec178c39ff][^c-0e9e70ab111c4333e920fa718fe06731]
 
 In these Regulations—
 
@@ -74,20 +74,20 @@ In these Regulations—
 - “**Goods Classification Table**” has the meaning given in regulation 1(2) of the Tariff Establishment Regulations;
 - “**specified goods**” has the meaning given in regulation 3;
 - “**specified period**” has the meaning given in regulation 5;
-- [^key-dc6cceff5541190db19dccd578c513de]...
+- [^c-dc6cceff5541190db19dccd578c513de]...
 - “**standard rate of import duty**” means, in relation to goods falling within a commodity code set out in the Goods Classification Table in the Tariff of the United Kingdom, the rate of import duty applicable to those goods in a standard case [^c24378671];
-- “[^key-37edf3ccc963da13fadbda444bb2d4d9]**Suspensions of Import Duty Rates Document**” means the Tariff Suspension Document, version 3.6 dated 7th July 2026;
+- “[^c-37edf3ccc963da13fadbda444bb2d4d9]**Suspensions of Import Duty Rates Document**” means the Tariff Suspension Document, version 3.6 dated 7th July 2026;
 - “**Tariff of the United Kingdom**” has the meaning given in regulation 1(2) of the Tariff Establishment Regulations;
 - “**United Kingdom business**” means a company entered in the register of companies maintained under the Companies Act 2006 [^c24378681] with a permanent establishment in the United Kingdom.
 
-### 3. Specified goods[^key-5d4a3c604d3f77afcff540bd1321596b][^key-22bda963fbb417ebc74a8cd8864ce519]
+### 3. Specified goods[^c-5d4a3c604d3f77afcff540bd1321596b][^c-22bda963fbb417ebc74a8cd8864ce519]
 
 For the purposes of section 12(1) of the Act (tariff suspension) and of these Regulations, “specified goods” are goods to which, by virtue of regulation 4, a rate of import duty that is lower than the standard rate of import duty applies if —
 
 - (a) the goods are listed by commodity code in the column headed “Commodity Code” in one of the tables in the Suspensions of Import Duty Rates Document; and
-- (b) any conditions that are specified [^key-e5fae18d424d513b9a2f8b2e29464b30]... in the column headed “Notes” in the relevant table are satisfied.
+- (b) any conditions that are specified [^c-e5fae18d424d513b9a2f8b2e29464b30]... in the column headed “Notes” in the relevant table are satisfied.
 
-### 4. Import duty rate for specified goods[^key-6a39fa2c9241a284c204ed45e18dc282][^key-65e2830ebc25705fd24b5a1b56cecad5]
+### 4. Import duty rate for specified goods[^c-6a39fa2c9241a284c204ed45e18dc282][^c-65e2830ebc25705fd24b5a1b56cecad5]
 
 (1) Subject to paragraph (2), the rate of import duty applicable to goods to which these Regulations apply that are specified goods is the rate set out in the column headed “Duty Expression” of the relevant table in the Suspensions of Import Duty Rates Document (duty suspension rate) in the same row of that table as the commodity code for those goods.
 
@@ -95,14 +95,14 @@ For the purposes of section 12(1) of the Act (tariff suspension) and of these Re
 
 (3) This paragraph applies during any period where the duty suspension rate for goods that are specified goods is higher than the standard rate of import duty for goods falling within the same commodity code.
 
-### 5. Specified period for specified goods[^key-11aa2e84223632cc868d36fae6a34f3d][^key-ad39892a7da8a22879f70799aaa6f81b]
+### 5. Specified period for specified goods[^c-11aa2e84223632cc868d36fae6a34f3d][^c-ad39892a7da8a22879f70799aaa6f81b]
 
 For the purposes of section 12(1) of the Act and of these Regulations, the “**specified period**” in relation to goods that are specified goods is the period—
 
 - (a) beginning with the appointed day; and
-- (b) ending with the date set out in column 5[^key-270959e2fea821f8582227d78332d6ec] of the relevant table in the Suspensions of Import Duty Rates Document (end date) in the same row of that table as the commodity code for those goods.
+- (b) ending with the date set out in column 5[^c-270959e2fea821f8582227d78332d6ec] of the relevant table in the Suspensions of Import Duty Rates Document (end date) in the same row of that table as the commodity code for those goods.
 
-### 6. Extending the specified period[^key-1adce2fe288d32eed9c68d2534df2cf5][^key-50bb0ba5048dd981bfe6debd71eef4be]
+### 6. Extending the specified period[^c-1adce2fe288d32eed9c68d2534df2cf5][^c-50bb0ba5048dd981bfe6debd71eef4be]
 
 (1) Subject to paragraph (2), the Treasury may, in accordance with section 12(3)(a) of the Act, extend the specified period in relation to any goods that are specified goods by publishing a notice in writing of that extension on or before the end date specified in the column headed “Expiry Date” in the relevant table in the Suspensions of Import Duty Rates Document in the same row of that table as the commodity code for those goods.
 
@@ -115,7 +115,7 @@ in relation to the proposed extension.
 
 ## PART 2 — Requests for suspensions
 
-### 7. Requests to the Secretary of State[^key-55ad0c9cbdaacfbc480882974c9fb6ef][^key-e8a2d04e8cdc41dc51b319a106564721]
+### 7. Requests to the Secretary of State[^c-55ad0c9cbdaacfbc480882974c9fb6ef][^c-e8a2d04e8cdc41dc51b319a106564721]
 
 (1) Requests to the Secretary of State for goods to be specified goods for the purposes of these Regulations may be made in writing by any person (“**the applicant**”) in an application the form of which is approved by the Secretary of State [^c24378691].
 
@@ -125,7 +125,7 @@ in relation to the proposed extension.
 
 - (a) must, no later than—
   - (i) two weeks after the date on which an application form was received by the Secretary of State, acknowledge receipt of the request in writing to the applicant; and
-  - (ii) four weeks after the date on which the period determined by the Secretary of State in accordance with paragraph (2) expires or, where that is not reasonably practicable, as soon as practicable thereafter[^key-eb2735e749a791355b85fc0f4ccab6e9], publish a notice providing information about all requests received and invite objections from any United Kingdom business to the goods to which the requests relate being specified goods for the purposes of these Regulations;
+  - (ii) four weeks after the date on which the period determined by the Secretary of State in accordance with paragraph (2) expires or, where that is not reasonably practicable, as soon as practicable thereafter[^c-eb2735e749a791355b85fc0f4ccab6e9], publish a notice providing information about all requests received and invite objections from any United Kingdom business to the goods to which the requests relate being specified goods for the purposes of these Regulations;
 - (b) may require, from the applicant in relation to a request such further information in connection with, or evidence in support of, the request as the Secretary of State considers appropriate.
 
 (4) Objections to a request made under paragraph (1) must be sent to the Secretary of State in writing before the end of such period as is specified in the notice published by the Secretary of State under paragraph (3)(a)(ii).
@@ -138,7 +138,7 @@ in relation to the proposed extension.
 
 (6) A request made under paragraph (1) may be withdrawn by the applicant in relation to the request at any time before the date on which the Secretary of State makes a recommendation to the Treasury in relation to the request under regulation 9.
 
-### 8. Consideration of requests[^key-34c43cce6c11c9631913c605880d4b54][^key-2730986a4e121b89f7a995a3aaeb4d7c]
+### 8. Consideration of requests[^c-34c43cce6c11c9631913c605880d4b54][^c-2730986a4e121b89f7a995a3aaeb4d7c]
 
 (1) Except in the circumstances described in paragraph (2), and subject to regulation 7(5), the Secretary of State must promptly consider a request made under regulation 7(1) and must make a recommendation about any such request to the Treasury.
 
@@ -146,12 +146,12 @@ in relation to the proposed extension.
 
 - (a) the goods to which the request relates are goods that are—
   - (i) the same goods (falling under the same commodity code) or similar goods are otherwise available to be supplied in sufficient quantity from within the United Kingdom; or
-  - (ii) traded between persons who are related parties in circumstances which would not enable other United Kingdom businesses to benefit from the suspension; [^key-8057d634b56b722ee6ece432fefbb7d5]...
-- (b)[^key-8057d634b56b722ee6ece432fefbb7d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) traded between persons who are related parties in circumstances which would not enable other United Kingdom businesses to benefit from the suspension; [^c-8057d634b56b722ee6ece432fefbb7d5]...
+- (b)[^c-8057d634b56b722ee6ece432fefbb7d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Secretary of State may reject a request made under regulation 7(1) if—
 
-- (a) the subject matter of the request falls within paragraph (2)(a)(i) or (ii) [^key-746d5f8795c64ef8a84f7d02ca4e2f9c]...;
+- (a) the subject matter of the request falls within paragraph (2)(a)(i) or (ii) [^c-746d5f8795c64ef8a84f7d02ca4e2f9c]...;
 - (b) the application for the request does not comply with any requirements determined by the Secretary of State under regulation 7(2); or
 - (c) the applicant has not provided the further information or evidence requested by the Secretary of State under regulation 7(3)(b) in connection with the request before the end of the period of one month beginning with the date on which that information or evidence was requested.
 
@@ -168,18 +168,18 @@ in relation to the proposed extension.
   - (i) are directly or indirectly controlled by a third person; or
   - (ii) jointly directly or indirectly control a third person.
 
-### 9. Recommendations by the Secretary of State about requests[^key-061fca4b2004c325745bcbb8a61e727c][^key-7dc87873f74618727d83fab8ee3e418a]
+### 9. Recommendations by the Secretary of State about requests[^c-061fca4b2004c325745bcbb8a61e727c][^c-7dc87873f74618727d83fab8ee3e418a]
 
 The Secretary of State must make a recommendation to the Treasury about any requests made under regulation 7(1) which have not been rejected by the Secretary of State under regulation 8(2) before the end of the period of four months beginning with—
 
-- (a) the date on which the period for making objections ends, as specified in the notice published by the Secretary of State under regulation 7(3)(a)(ii);[^key-9b913f2b347e82e682019912607cab8d] or
+- (a) the date on which the period for making objections ends, as specified in the notice published by the Secretary of State under regulation 7(3)(a)(ii);[^c-9b913f2b347e82e682019912607cab8d] or
 - (b) whichever is the earlier of —
   - (i) the date on which the Secretary of State received the further information and evidence requested in relation to any request under regulation 7(3)(b); or
   - (ii) in a case where the Secretary of State stayed the further consideration of the application under regulation 7(5)(c), the date on which the Secretary of State is no longer satisfied that an objection made under regulation 7(3)(a)(ii) to the goods being specified goods is valid.
 
 ## PART 3 — Exceptional duty suspensions
 
-### 10. Recommendations about exceptional duty suspensions[^key-65fbe9a8f845e3c491b61a6eb816671e][^key-31a8968efa6cb8d6fe40aafbe28e593d]
+### 10. Recommendations about exceptional duty suspensions[^c-65fbe9a8f845e3c491b61a6eb816671e][^c-31a8968efa6cb8d6fe40aafbe28e593d]
 
 (1) The Secretary of State may—
 
@@ -202,7 +202,7 @@ recommend to the Treasury that goods of a particular commodity code are to be sp
 
 ## PART 4 — Crown Dependencies
 
-### 11. United Kingdom – Crown Dependencies Customs Union: Modifications[^key-5100d7da6e78699c7340dca3ab69c1bd][^key-1c46412000db8940e7053a9aeaa15ddd]
+### 11. United Kingdom – Crown Dependencies Customs Union: Modifications[^c-5100d7da6e78699c7340dca3ab69c1bd][^c-1c46412000db8940e7053a9aeaa15ddd]
 
 The provisions of the Act and of these Regulations that are referred to in the Schedule have effect, in respect of the customs matters to which these Regulations apply, as modified by that Schedule having regard to the existence of the United Kingdom – Crown Dependencies Customs Union.
 
@@ -216,17 +216,17 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Regulation 11
 
-### 1. General[^key-ad2525cb898770ceb5364355eca724a5][^key-50a2f4c243d1dc52a9f3c9a249f2862d]
+### 1. General[^c-ad2525cb898770ceb5364355eca724a5][^c-50a2f4c243d1dc52a9f3c9a249f2862d]
 
 The provisions of the Act and of these Regulations, as modified by the following paragraphs, have effect in respect of the customs matters covered by this Schedule.
 
-**2.**[^key-7be96011b221a6c11a7079bfcefa3dd3][^key-43de48afdc5ed83bcdda3e6b0c8c3a14] In this Schedule, “**the United Kingdom – Crown Dependencies Customs Union**” means, collectively, the customs union arrangements which were specified in the Exchange of Letters and the Arrangements referred to in the following Orders in Council—
+**2.**[^c-7be96011b221a6c11a7079bfcefa3dd3][^c-43de48afdc5ed83bcdda3e6b0c8c3a14] In this Schedule, “**the United Kingdom – Crown Dependencies Customs Union**” means, collectively, the customs union arrangements which were specified in the Exchange of Letters and the Arrangements referred to in the following Orders in Council—
 
 - (a) The Crown Dependencies Customs Union (Guernsey) (EU Exit) Order 2019 [^c24378701];
 - (b) The Crown Dependencies Customs Union (Isle of Man) (EU Exit) Order 2019 [^c24378711];
 - (c) The Crown Dependencies Customs Union (Jersey) (EU Exit) Order 2019 [^c24378721].
 
-### 3. Modification of section 12 of the Act[^key-f8f00f7374483f85cf033c48da5c592f][^key-6b7de4c1d9dd447243a6d69a0b4a3361]
+### 3. Modification of section 12 of the Act[^c-f8f00f7374483f85cf033c48da5c592f][^c-6b7de4c1d9dd447243a6d69a0b4a3361]
 
 In section 12 of the Act (tariff suspension)—
 
@@ -237,7 +237,7 @@ In section 12 of the Act (tariff suspension)—
 - (b) in subsection (2)(a), the reference to the Secretary of State being obliged to consider a request made by any person for goods to be specified goods for the purpose of the regulations is to be read as including a reference to any such request made by a person in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey for goods to be treated as specified goods for the purposes of the regulations; and
 - (c) in subsection (4), the reference to “the customs tariff in its standard form as it has effect without regard to any provision made under any of sections 9 to 11, sections 13 or 15 or section 19(4)” is to be read as including a reference to the customs tariff in its standard form as it has effect under or by virtue of equivalent provisions of customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey without regard to any provisions in that legislation which are equivalent to sections 9 to 11, sections 13 to 15 or section 19(4) of the Act.
 
-### 4. Modification of the Regulations[^key-7c605eb9fea477db83a2bdb28562c8f3][^key-2e7311067601f5a8b0a28908df91543a]
+### 4. Modification of the Regulations[^c-7c605eb9fea477db83a2bdb28562c8f3][^c-2e7311067601f5a8b0a28908df91543a]
 
 Where goods that are specified goods by virtue of these Regulations are also specified goods under equivalent customs legislation that have effect in the Bailiwick of Guernsey or, as the case may be, the Isle of Man or the Bailiwick of Jersey, these Regulations are modified as follows—
 
@@ -277,81 +277,81 @@ An Explanatory Memorandum is being published on the same website. There is no si
 
 [^c24378641]: Marginal citation: [2018 c.22](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-28a424bc85ac88773f626286ec48337a]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-28a424bc85ac88773f626286ec48337a]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-0cbe1a0b4eed31b04da7f45a9bb23fac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0cbe1a0b4eed31b04da7f45a9bb23fac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-135ef4b3bd074a17f40311ec178c39ff]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-135ef4b3bd074a17f40311ec178c39ff]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-0e9e70ab111c4333e920fa718fe06731]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0e9e70ab111c4333e920fa718fe06731]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378651]: Marginal citation: [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432).
 
-[^key-dc6cceff5541190db19dccd578c513de]: Textual amendment: Words in reg. 2 omitted (22.1.2021) by virtue of [The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/63)](https://www.legislation.gov.uk/uksi/2021/63), [regs. 1](https://www.legislation.gov.uk/uksi/2021/63/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/63/regulation/3/a)
+[^c-dc6cceff5541190db19dccd578c513de]: Textual amendment: Words in reg. 2 omitted (22.1.2021) by virtue of [The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) Regulations 2021 (S.I. 2021/63)](https://www.legislation.gov.uk/uksi/2021/63), [regs. 1](https://www.legislation.gov.uk/uksi/2021/63/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/63/regulation/3/a)
 
 [^c24378671]: Marginal citation: *See* section 8(8) of the Taxation (Cross-border Trade) Act 2018 for the meaning given to “a standard case”.
 
-[^key-37edf3ccc963da13fadbda444bb2d4d9]: Textual amendment: Words in reg. 2 substituted (5.8.2026) by [The Customs Tariff (Suspension of Import Duty Rates) (Amendment) Regulations 2026 (S.I. 2026/801)](https://www.legislation.gov.uk/uksi/2026/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/801/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/801/regulation/2/2)
+[^c-37edf3ccc963da13fadbda444bb2d4d9]: Textual amendment: Words in reg. 2 substituted (5.8.2026) by [The Customs Tariff (Suspension of Import Duty Rates) (Amendment) Regulations 2026 (S.I. 2026/801)](https://www.legislation.gov.uk/uksi/2026/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/801/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/801/regulation/2/2)
 
 [^c24378681]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-5d4a3c604d3f77afcff540bd1321596b]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-5d4a3c604d3f77afcff540bd1321596b]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-22bda963fbb417ebc74a8cd8864ce519]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-22bda963fbb417ebc74a8cd8864ce519]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e5fae18d424d513b9a2f8b2e29464b30]: Textual amendment: Words in reg. 3(b) omitted (5.8.2026) by virtue of [The Customs Tariff (Suspension of Import Duty Rates) (Amendment) Regulations 2026 (S.I. 2026/801)](https://www.legislation.gov.uk/uksi/2026/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/801/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/801/regulation/2/3)
+[^c-e5fae18d424d513b9a2f8b2e29464b30]: Textual amendment: Words in reg. 3(b) omitted (5.8.2026) by virtue of [The Customs Tariff (Suspension of Import Duty Rates) (Amendment) Regulations 2026 (S.I. 2026/801)](https://www.legislation.gov.uk/uksi/2026/801), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/801/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/801/regulation/2/3)
 
-[^key-6a39fa2c9241a284c204ed45e18dc282]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-6a39fa2c9241a284c204ed45e18dc282]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-65e2830ebc25705fd24b5a1b56cecad5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1435/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-65e2830ebc25705fd24b5a1b56cecad5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1435/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-11aa2e84223632cc868d36fae6a34f3d]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-11aa2e84223632cc868d36fae6a34f3d]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-ad39892a7da8a22879f70799aaa6f81b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1435/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ad39892a7da8a22879f70799aaa6f81b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1435/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-270959e2fea821f8582227d78332d6ec]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/5/2) substituted (29.10.2021) by [The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1191)](https://www.legislation.gov.uk/uksi/2021/1191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1191/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1191/regulation/2/3)
+[^c-270959e2fea821f8582227d78332d6ec]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/5/2) substituted (29.10.2021) by [The Customs Tariff (Establishment and Suspension of Import Duty) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1191)](https://www.legislation.gov.uk/uksi/2021/1191), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1191/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1191/regulation/2/3)
 
-[^key-1adce2fe288d32eed9c68d2534df2cf5]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-1adce2fe288d32eed9c68d2534df2cf5]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-50bb0ba5048dd981bfe6debd71eef4be]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1435/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-50bb0ba5048dd981bfe6debd71eef4be]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1435/regulation/6) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-55ad0c9cbdaacfbc480882974c9fb6ef]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-55ad0c9cbdaacfbc480882974c9fb6ef]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-e8a2d04e8cdc41dc51b319a106564721]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1435/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e8a2d04e8cdc41dc51b319a106564721]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1435/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378691]: Marginal citation: Application forms are available to download at http://www.gov.uk/guidance/duty-suspensions-and-tariff-quotas. Hard copies may be requested by post from the Department of International Trade, 3 Whitehall Place, London SW1A 2AW.
 
-[^key-eb2735e749a791355b85fc0f4ccab6e9]: Textual amendment: Words in [reg. 7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/7/3/a/ii) inserted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/3)
+[^c-eb2735e749a791355b85fc0f4ccab6e9]: Textual amendment: Words in [reg. 7(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/7/3/a/ii) inserted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/3)
 
-[^key-34c43cce6c11c9631913c605880d4b54]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-34c43cce6c11c9631913c605880d4b54]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-2730986a4e121b89f7a995a3aaeb4d7c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1435/regulation/8) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2730986a4e121b89f7a995a3aaeb4d7c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1435/regulation/8) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-8057d634b56b722ee6ece432fefbb7d5]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/8/2/b) and word omitted (10.5.2023) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/4/a)
+[^c-8057d634b56b722ee6ece432fefbb7d5]: Textual amendment: [Reg. 8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/8/2/b) and word omitted (10.5.2023) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/4/a)
 
-[^key-746d5f8795c64ef8a84f7d02ca4e2f9c]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/8/3/a) omitted (10.5.2023) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/4/b)
+[^c-746d5f8795c64ef8a84f7d02ca4e2f9c]: Textual amendment: Words in [reg. 8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/8/3/a) omitted (10.5.2023) by virtue of [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/4/b)
 
-[^key-061fca4b2004c325745bcbb8a61e727c]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-061fca4b2004c325745bcbb8a61e727c]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-7dc87873f74618727d83fab8ee3e418a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1435/regulation/9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-7dc87873f74618727d83fab8ee3e418a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1435/regulation/9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-9b913f2b347e82e682019912607cab8d]: Textual amendment: [Reg. 9(a)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/9/a) substituted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/5)
+[^c-9b913f2b347e82e682019912607cab8d]: Textual amendment: [Reg. 9(a)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/9/a) substituted (10.5.2023) by [The Customs Tariff (Preferential Trade Arrangements and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/433)](https://www.legislation.gov.uk/uksi/2023/433), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/433/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2023/433/regulation/5/5)
 
-[^key-65fbe9a8f845e3c491b61a6eb816671e]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-65fbe9a8f845e3c491b61a6eb816671e]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-31a8968efa6cb8d6fe40aafbe28e593d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1435/regulation/10) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-31a8968efa6cb8d6fe40aafbe28e593d]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1435/regulation/10) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5100d7da6e78699c7340dca3ab69c1bd]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-5100d7da6e78699c7340dca3ab69c1bd]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-1c46412000db8940e7053a9aeaa15ddd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1435/regulation/11) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1c46412000db8940e7053a9aeaa15ddd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1435/regulation/11) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ad2525cb898770ceb5364355eca724a5]: Commencement: Sch. para. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-ad2525cb898770ceb5364355eca724a5]: Commencement: Sch. para. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-50a2f4c243d1dc52a9f3c9a249f2862d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-50a2f4c243d1dc52a9f3c9a249f2862d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-7be96011b221a6c11a7079bfcefa3dd3]: Commencement: Sch. para. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-7be96011b221a6c11a7079bfcefa3dd3]: Commencement: Sch. para. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-43de48afdc5ed83bcdda3e6b0c8c3a14]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-43de48afdc5ed83bcdda3e6b0c8c3a14]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c24378701]: Marginal citation: [S.I. 2019/254](https://www.legislation.gov.uk/uksi/2019/254).
 
@@ -359,10 +359,10 @@ An Explanatory Memorandum is being published on the same website. There is no si
 
 [^c24378721]: Marginal citation: [S.I. 2019/256](https://www.legislation.gov.uk/uksi/2019/256).
 
-[^key-f8f00f7374483f85cf033c48da5c592f]: Commencement: Sch. para. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-f8f00f7374483f85cf033c48da5c592f]: Commencement: Sch. para. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-6b7de4c1d9dd447243a6d69a0b4a3361]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6b7de4c1d9dd447243a6d69a0b4a3361]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-7c605eb9fea477db83a2bdb28562c8f3]: Commencement: Sch. para. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
+[^c-7c605eb9fea477db83a2bdb28562c8f3]: Commencement: Sch. para. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1435/regulation/1/2)
 
-[^key-2e7311067601f5a8b0a28908df91543a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2e7311067601f5a8b0a28908df91543a]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2020/1435/schedule/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

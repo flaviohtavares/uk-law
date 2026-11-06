@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Member’s option to pay lump sum contributions to purchase pension[^key-07d45f838f28c7f51686f7637f2e2165]
+## 92. Member’s option to pay lump sum contributions to purchase pension[^c-07d45f838f28c7f51686f7637f2e2165]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ may not exceed such amount as the scheme manager, having obtained the consent of
 
 ## Annotations
 
-[^key-07d45f838f28c7f51686f7637f2e2165]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2014/2336/regulation/92) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-07d45f838f28c7f51686f7637f2e2165]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2014/2336/regulation/92) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Health improvement and health inequalities duty[^key-e124fda50a790553e521590fdec52dab]
+## 45. Health improvement and health inequalities duty[^c-e124fda50a790553e521590fdec52dab]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e124fda50a790553e521590fdec52dab]: Commencement: S. 45 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e124fda50a790553e521590fdec52dab]: Commencement: S. 45 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

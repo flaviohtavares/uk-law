@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of Chapter 6 (cargo and mail)[^key-1019f972b4d555d1a298a924d05f7659]
+## 59. Amendment of Chapter 6 (cargo and mail)[^c-1019f972b4d555d1a298a924d05f7659]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Chapter 6 of the Annex is amended in accordance with regulations 60 to 120.
 
 ## Annotations
 
-[^key-1019f972b4d555d1a298a924d05f7659]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1019f972b4d555d1a298a924d05f7659]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

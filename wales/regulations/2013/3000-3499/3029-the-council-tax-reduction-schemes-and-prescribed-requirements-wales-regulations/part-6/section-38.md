@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Applications received between 15 February 2014 and 31 March 2014[^key-25dfb38600256805ed9b5f778a97c898]
+## 38. Applications received between 15 February 2014 and 31 March 2014[^c-25dfb38600256805ed9b5f778a97c898]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person who makes a claim for a reduction under a 2013 scheme on any day during
 
 ## Annotations
 
-[^key-25dfb38600256805ed9b5f778a97c898]: Commencement: Reg. 38 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-25dfb38600256805ed9b5f778a97c898]: Commencement: Reg. 38 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

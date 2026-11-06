@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate agency[^key-1b2ee8a8543c08b1470ffd36f2aed2f1] may, if it thinks it appropriate to do so, submit a draft statement to the Secretary of State containing, in relation to any inland waters that are not discrete waters—
+(1) The appropriate agency[^c-1b2ee8a8543c08b1470ffd36f2aed2f1] may, if it thinks it appropriate to do so, submit a draft statement to the Secretary of State containing, in relation to any inland waters that are not discrete waters—
 
 - (a) provision for determining the minimum acceptable flow for those waters; or
 - (b) where any provision for determining such a flow is for the time being in force in relation to those waters, provision for amending that provision or for replacing it with different provision for determining the minimum acceptable flow for those waters.
@@ -33,13 +33,13 @@ summary: ''
 
 (3) Before preparing so much of any draft statement under this section as relates to any particular inland waters, the appropriate agency shall consult—
 
-- (za)[^key-d0637fb408157cc4050d16e18b416bc7] if those waters are in Wales and there are related inland waters in England, the Agency;
+- (za)[^c-d0637fb408157cc4050d16e18b416bc7] if those waters are in Wales and there are related inland waters in England, the Agency;
 - (zb) if those waters are in England and there are related inland waters in Wales, the NRBW;
 - (a) any water undertaker having the right to abstract water from those waters;
 - (b) any other water undertaker having the right to abstract water from any related underground strata;
 - (c) the drainage board for any internal drainage district from which water is discharged into those waters or in which any part of those waters is situated;
 - (d) any navigation authority, harbour authorityor conservancy authority having functions in relation to those waters or any related inland waters;
-- (e) if those waters are [^key-12502823445babcc317dedd2d6c9dfb3]... situated in Wales (or in an area of the sea adjoining either the coast of Wales or an area of sea forming part of Wales) and they or any related inland waters are tidal waters in relation to which there is no such navigation authority, harbour authority or conservancy authority, the Secretary of State for Transport[^c18729501]; and
+- (e) if those waters are [^c-12502823445babcc317dedd2d6c9dfb3]... situated in Wales (or in an area of the sea adjoining either the coast of Wales or an area of sea forming part of Wales) and they or any related inland waters are tidal waters in relation to which there is no such navigation authority, harbour authority or conservancy authority, the Secretary of State for Transport[^c18729501]; and
 - (f) any person authorised by a licence under Part I of the [^c18729511]Electricity Act 1989 to generate electricity who has a right to abstract water from those waters[^c18729521].
 
 (4) In determining the flow to be specified in relation to any inland waters under subsection (2)(c) above, the appropriate agency shall have regard—
@@ -69,20 +69,20 @@ summary: ''
 - (a) by a decision given in any legal proceedings, it has been held to be unlawful; and
 - (b) that decision has not been quashed or reversed;
 
-[^key-34fd56652419e6b6ee105445ecc0d3a4]... .
+[^c-34fd56652419e6b6ee105445ecc0d3a4]... .
 
-(10)[^key-57d83bc699411fc025f7354508252a1f] In subsection (5) above, the reference to land drainage includes—
+(10)[^c-57d83bc699411fc025f7354508252a1f] In subsection (5) above, the reference to land drainage includes—
 
 - (a) defence against water (including sea water), irrigation (other than spray irrigation), warping and the carrying on, for any purpose, of any other practice which involves management of the level of water in a watercourse; and
 - (b) the provision of flood warning systems.
 
 ## Annotations
 
-[^key-1b2ee8a8543c08b1470ffd36f2aed2f1]: Textual amendment: Words in s. 21 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 269(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/269/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b2ee8a8543c08b1470ffd36f2aed2f1]: Textual amendment: Words in s. 21 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 269(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/269/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d0637fb408157cc4050d16e18b416bc7]: Textual amendment: S. 21(3)(za)(zb) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 269(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/269/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d0637fb408157cc4050d16e18b416bc7]: Textual amendment: S. 21(3)(za)(zb) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 269(3)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/269/3/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-12502823445babcc317dedd2d6c9dfb3]: Textual amendment: Words in s. 21(3)(e) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 269(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/269/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-12502823445babcc317dedd2d6c9dfb3]: Textual amendment: Words in s. 21(3)(e) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 269(3)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/269/3/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18729501]: Textual amendment: Words in s. 21(3)(e) substituted (25.11.2002) by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), [art. 20](https://www.legislation.gov.uk/uksi/2002/2626/article/20), [Sch. 2 para. 18(2)](https://www.legislation.gov.uk/uksi/2002/2626/schedule/2/paragraph/18/2)
 
@@ -92,6 +92,6 @@ summary: ''
 
 [^c18729541]: Textual amendment: Words in s. 21(4)(b) substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120](https://www.legislation.gov.uk/ukpga/1995/25/section/120), [Sch. 22 para. 133(2)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/133/2) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-34fd56652419e6b6ee105445ecc0d3a4]: Textual amendment: Words in [s. 21(9)](https://www.legislation.gov.uk/ukpga/1991/57/section/21/9) repealed (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/2/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/1); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(c)(h)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/c/h)
+[^c-34fd56652419e6b6ee105445ecc0d3a4]: Textual amendment: Words in [s. 21(9)](https://www.legislation.gov.uk/ukpga/1991/57/section/21/9) repealed (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/2/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/1); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(c)(h)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/c/h)
 
-[^key-57d83bc699411fc025f7354508252a1f]: Textual amendment: [S. 21(10)](https://www.legislation.gov.uk/ukpga/1991/57/section/21/10) added (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/2/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/c)
+[^c-57d83bc699411fc025f7354508252a1f]: Textual amendment: [S. 21(10)](https://www.legislation.gov.uk/ukpga/1991/57/section/21/10) added (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2003/37/section/8/2/b), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/c)

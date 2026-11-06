@@ -264,7 +264,7 @@ In paragraph (2) of regulation 42 (records of spreading nitrogen fertiliser) of 
 
 For Schedules 1 to 3, substitute the contents of the Schedule to these Regulations.
 
-## 11. Amendment of the Conservation (Natural Habitats, & c.) Regulations 1994[^key-cfd44eb14a19f84fcf9c733696610dd5]
+## 11. Amendment of the Conservation (Natural Habitats, & c.) Regulations 1994[^c-cfd44eb14a19f84fcf9c733696610dd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -607,4 +607,4 @@ No Regulatory impact assessment has been prepared for these Regulations.
 
 [^c20199601]: Marginal citation: [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842).
 
-[^key-cfd44eb14a19f84fcf9c733696610dd5]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2010/489/regulation/11) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-cfd44eb14a19f84fcf9c733696610dd5]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/wsi/2010/489/regulation/11) revoked (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/7/part/1) (with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))

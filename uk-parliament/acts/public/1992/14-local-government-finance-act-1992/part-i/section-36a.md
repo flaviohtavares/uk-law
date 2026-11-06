@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36A. Substitute calculations: England[^key-05576ac8ad645e9843254841d17684aa][^key-1304ad51e0298e9c29d2496b54843766]
+## 36A. Substitute calculations: England[^c-05576ac8ad645e9843254841d17684aa][^c-1304ad51e0298e9c29d2496b54843766]
 
 *Extent: E+W*
 
-(1)[^key-eea13b99cce4bfe5e9c430e34f7c4094][^key-33de8b741b1a219a9aa5f4cda0c06e41] An authority in England which has made calculations in accordance with sections 31A, 31B and 34 to 36 above in relation to a financial year (originally or by way of substitute) may make calculations in substitution in relation to the year in accordance with those sections, ignoring section 31A(11) above for this purpose.
+(1)[^c-eea13b99cce4bfe5e9c430e34f7c4094][^c-33de8b741b1a219a9aa5f4cda0c06e41] An authority in England which has made calculations in accordance with sections 31A, 31B and 34 to 36 above in relation to a financial year (originally or by way of substitute) may make calculations in substitution in relation to the year in accordance with those sections, ignoring section 31A(11) above for this purpose.
 
 (2) None of the substitute calculations shall have any effect if—
 
@@ -35,10 +35,10 @@ summary: ''
 
 ## Annotations
 
-[^key-05576ac8ad645e9843254841d17684aa]: Textual amendment: S. 36A inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/15); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-05576ac8ad645e9843254841d17684aa]: Textual amendment: S. 36A inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/15); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
+[^c-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
 
-[^key-eea13b99cce4bfe5e9c430e34f7c4094]: Modification: S. 36A(1) modified by S.I. 2009/5, reg. 6(3) (as substituted (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2012/460/schedule/paragraph/17/b))
+[^c-eea13b99cce4bfe5e9c430e34f7c4094]: Modification: S. 36A(1) modified by S.I. 2009/5, reg. 6(3) (as substituted (E.) (16.3.2012) by [The Local Authority (Referendums Relating to Council Tax Increases) Regulations 2012 (S.I. 2012/460)](https://www.legislation.gov.uk/uksi/2012/460), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2012/460/regulation/1/1/b), [Sch. para. 17(b)](https://www.legislation.gov.uk/uksi/2012/460/schedule/paragraph/17/b))
 
-[^key-33de8b741b1a219a9aa5f4cda0c06e41]: Modification: S. 36A(1) modified (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/20/3)
+[^c-33de8b741b1a219a9aa5f4cda0c06e41]: Modification: S. 36A(1) modified (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [20(3)](https://www.legislation.gov.uk/uksi/2018/1296/regulation/20/3)

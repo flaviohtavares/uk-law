@@ -44,7 +44,7 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on him by the said section 2 and section 40 of the Town and Country Planning (Scotland) Act 1997[^f00003] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0047420d3dd18a2837ff01a7b9953b7d]
+## 1. Citation, commencement and interpretation[^c-0047420d3dd18a2837ff01a7b9953b7d]
 
 (1) These Regulations may be cited as the Environmental Assessment (Scotland) Amendment Regulations 1997 and shall come into force on 1st September 1997.
 
@@ -52,11 +52,11 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 (3) Any reference in these Regulations to a numbered regulation, Schedule, paragraph or sub-paragraph shall, unless the context otherwise requires, be construed as a reference to the regulation, Schedule, paragraph or sub-paragraph so numbered in the 1988 Regulations.
 
-## 2. Transitional provision[^key-d41eb47824900f3b86d697f42d55c9d2]
+## 2. Transitional provision[^c-d41eb47824900f3b86d697f42d55c9d2]
 
 The amendments made to the 1988 Regulations shall not apply in relation to an enforcement notice issued under section 127 of the Town and Country Planning (Scotland) Act 1997 before 1st September 1997.
 
-## 3. Amendments to the 1988 Regulations[^key-ffb21a8d9c635b206e3af4e7e851a09b]
+## 3. Amendments to the 1988 Regulations[^c-ffb21a8d9c635b206e3af4e7e851a09b]
 
 In regulation 2 after the definition of “planning authority” insert–
 
@@ -65,69 +65,69 @@ In regulation 2 after the definition of “planning authority” insert–
 
 .
 
-**4.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-ca391593ab158978757d738b771002cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-54faedf05ffc0502b7c21115b25c0e67] For Schedule 4 substitute–
+**35.**[^c-54faedf05ffc0502b7c21115b25c0e67] For Schedule 4 substitute–
 
 > **SCHEDULE 4 — 37, 42, 44 and 66**
 >
@@ -191,18 +191,18 @@ Numerous minor, consequential and technical amendments are also made and Schedul
 
 [^f00003]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-0047420d3dd18a2837ff01a7b9953b7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
+[^c-0047420d3dd18a2837ff01a7b9953b7d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 1988/1221](https://www.legislation.gov.uk/uksi/1988/1221); amended by [S.I. 1990/526](https://www.legislation.gov.uk/uksi/1990/526) and [S.I. 1994/2012](https://www.legislation.gov.uk/uksi/1994/2012).
 
-[^key-d41eb47824900f3b86d697f42d55c9d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1870/regulation/2) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
+[^c-d41eb47824900f3b86d697f42d55c9d2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1997/1870/regulation/2) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
 
-[^key-ffb21a8d9c635b206e3af4e7e851a09b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1870/regulation/3) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
+[^c-ffb21a8d9c635b206e3af4e7e851a09b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1997/1870/regulation/3) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
 
 [^f00005]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
 [^f00006]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-ca391593ab158978757d738b771002cc]: Textual amendment: [Regs. 4-34](https://www.legislation.gov.uk/uksi/1997/1870/regulation/4) revoked (S.) (1.8.1999) by [The Environmental Impact Assessment (Scotland) Regulations 1999 (S.S.I. 1999/1)](https://www.legislation.gov.uk/ssi/1999/1), [reg. 1](https://www.legislation.gov.uk/ssi/1999/1/regulation/1), [sch. 7](https://www.legislation.gov.uk/ssi/1999/1/schedule/7) (with [reg. 64(2)](https://www.legislation.gov.uk/ssi/1999/1/regulation/64/2)[(3)](https://www.legislation.gov.uk/ssi/1999/1/regulation/64/3))
+[^c-ca391593ab158978757d738b771002cc]: Textual amendment: [Regs. 4-34](https://www.legislation.gov.uk/uksi/1997/1870/regulation/4) revoked (S.) (1.8.1999) by [The Environmental Impact Assessment (Scotland) Regulations 1999 (S.S.I. 1999/1)](https://www.legislation.gov.uk/ssi/1999/1), [reg. 1](https://www.legislation.gov.uk/ssi/1999/1/regulation/1), [sch. 7](https://www.legislation.gov.uk/ssi/1999/1/schedule/7) (with [reg. 64(2)](https://www.legislation.gov.uk/ssi/1999/1/regulation/64/2)[(3)](https://www.legislation.gov.uk/ssi/1999/1/regulation/64/3))
 
-[^key-54faedf05ffc0502b7c21115b25c0e67]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1997/1870/regulation/35) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)
+[^c-54faedf05ffc0502b7c21115b25c0e67]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1997/1870/regulation/35) in force at 1.9.1997, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/1870/regulation/1/1)

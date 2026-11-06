@@ -30,17 +30,17 @@ summary: ''
 - (a) to provide information about action taken by the person or body for the purpose of complying with a duty under this Part, or
 - (b) to explain why the person or body has not taken action for the purpose of complying with a duty under this Part.
 
-(2A)[^key-c56978e1cf137be5e38cf8ff609e0b07] The Welsh Ministers may require a person or body listed in Part 2A or 5 of Schedule 1—
+(2A)[^c-c56978e1cf137be5e38cf8ff609e0b07] The Welsh Ministers may require a person or body listed in Part 2A or 5 of Schedule 1—
 
 - (a) to provide information about action taken by the person or body for the purpose of complying with a duty under this Part, or
 - (b) to explain why the person or body has not taken action for the purpose of complying with a duty under this Part.
 
-(3) A requirement under subsection (1), (2) or (2A)[^key-20baff02fc460281bcad3f8d1b145e48] may specify—
+(3) A requirement under subsection (1), (2) or (2A)[^c-20baff02fc460281bcad3f8d1b145e48] may specify—
 
 - (a) a period within which the information or explanation is to be provided;
 - (b) the form in which the information or explanation is to be provided.
 
-(4) A person or body shall comply with a requirement under subsection (1), (2) or (2A)[^key-f12783a0003a89cf72d7a835a1c19bca] .
+(4) A person or body shall comply with a requirement under subsection (1), (2) or (2A)[^c-f12783a0003a89cf72d7a835a1c19bca] .
 
 (5)[^c2139567] In relation to emergencies that do not fall within section 1(1)(c), the power under subsection (1) to require the Chief Constable (PSNI) to provide information or an explanation is exercisable by the Department of Justice in Northern Ireland (and not by a Minister of the Crown).
 
@@ -54,10 +54,10 @@ summary: ''
 
 [^c2010789]: Commencement: S. 9 partly in force; s. 9 not in force at Royal Assent see s. 34; s. 9(1)(3)(4) in force for specified purposes at 14.11.2005 by [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(h)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/h); s. 9(2) in force and s. 9(3)(4) in force for further specified purposes (S.) at 14.11.2005 by [S.S.I. 2005/493](https://www.legislation.gov.uk/ssi/2005/493), [art. 4](https://www.legislation.gov.uk/ssi/2005/493/article/4)
 
-[^key-c56978e1cf137be5e38cf8ff609e0b07]: Textual amendment: S. 9(2A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(8)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/41/8/a)
+[^c-c56978e1cf137be5e38cf8ff609e0b07]: Textual amendment: S. 9(2A) inserted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(8)(a)](https://www.legislation.gov.uk/uksi/2018/644/article/41/8/a)
 
-[^key-20baff02fc460281bcad3f8d1b145e48]: Textual amendment: Words in s. 9(3) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(8)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/8/b)
+[^c-20baff02fc460281bcad3f8d1b145e48]: Textual amendment: Words in s. 9(3) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(8)(b)](https://www.legislation.gov.uk/uksi/2018/644/article/41/8/b)
 
-[^key-f12783a0003a89cf72d7a835a1c19bca]: Textual amendment: Words in s. 9(4) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(8)(c)](https://www.legislation.gov.uk/uksi/2018/644/article/41/8/c)
+[^c-f12783a0003a89cf72d7a835a1c19bca]: Textual amendment: Words in s. 9(4) substituted (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [41(8)(c)](https://www.legislation.gov.uk/uksi/2018/644/article/41/8/c)
 
 [^c2139567]: Textual amendment: S. 9(5)-(8) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [5](https://www.legislation.gov.uk/uksi/2010/976/article/5), [Sch. 3 para. 101(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/101/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28), [Sch. 3 para. 110](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/110))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44D. Code of practice[^key-a17d06d747586f5abc6c5e797acacaf6]
+## 44D. Code of practice[^c-a17d06d747586f5abc6c5e797acacaf6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) In preparing the code, the Secretary of State must consult―
 
-- (a) the Information Commission[^key-480d53aef8fedab9030550c3a70b461f],
+- (a) the Information Commission[^c-480d53aef8fedab9030550c3a70b461f],
 - (b) the Commissioner for Victims and Witnesses,
 - (c) the Domestic Abuse Commissioner, and
 - (d) such other persons as the Secretary of State considers appropriate.
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a17d06d747586f5abc6c5e797acacaf6]: Textual amendment: Pt. 2 Ch. 3A inserted (12.1.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 28](https://www.legislation.gov.uk/ukpga/2024/21/section/28), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/a)
+[^c-a17d06d747586f5abc6c5e797acacaf6]: Textual amendment: Pt. 2 Ch. 3A inserted (12.1.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 28](https://www.legislation.gov.uk/ukpga/2024/21/section/28), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/a)
 
-[^key-480d53aef8fedab9030550c3a70b461f]: Textual amendment: Words in [s. 44D(5)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/44D/5/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/25/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-480d53aef8fedab9030550c3a70b461f]: Textual amendment: Words in [s. 44D(5)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/44D/5/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 25(b)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/25/b); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

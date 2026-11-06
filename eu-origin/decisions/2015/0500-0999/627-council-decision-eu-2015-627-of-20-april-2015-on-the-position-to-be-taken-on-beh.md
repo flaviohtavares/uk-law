@@ -33,16 +33,16 @@ of 20 April 2015
 
 on the position to be taken, on behalf of the European Union, at the seventh meeting of the Conference of the Parties to the Stockholm Convention on Persistent Organic Pollutants as regards the proposals for amendments to Annexes A, B and C (revoked)
 
-[^key-831d3a33341d7c0d52f79cdb588f5471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831d3a33341d7c0d52f79cdb588f5471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-831d3a33341d7c0d52f79cdb588f5471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-831d3a33341d7c0d52f79cdb588f5471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-831d3a33341d7c0d52f79cdb588f5471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-831d3a33341d7c0d52f79cdb588f5471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-831d3a33341d7c0d52f79cdb588f5471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-831d3a33341d7c0d52f79cdb588f5471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-831d3a33341d7c0d52f79cdb588f5471]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-831d3a33341d7c0d52f79cdb588f5471]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55C. Alternative routes[^key-22ed25a1d8af0a99f9821083500e1170]
+## 55C. Alternative routes[^c-22ed25a1d8af0a99f9821083500e1170]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22ed25a1d8af0a99f9821083500e1170]: Textual amendment: [Ss. 55A-55J](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/55A) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 302(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/302/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))
+[^c-22ed25a1d8af0a99f9821083500e1170]: Textual amendment: [Ss. 55A-55J](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/section/55A) inserted (12.11.2009 for specified purposes, 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 302(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/302/1), [324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c), [324(1)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [324(2)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/2/d) (with [s. 308](https://www.legislation.gov.uk/ukpga/2009/23/section/308))

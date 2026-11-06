@@ -35,22 +35,22 @@ on a model certificate for the trade of unskinned large wild game
 
 (Text with EEA relevance) (revoked)
 
-[^key-c7a288d53f20bf64bda61315b1727a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7a288d53f20bf64bda61315b1727a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c7a288d53f20bf64bda61315b1727a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c7a288d53f20bf64bda61315b1727a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c7a288d53f20bf64bda61315b1727a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c7a288d53f20bf64bda61315b1727a7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7a288d53f20bf64bda61315b1727a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7a288d53f20bf64bda61315b1727a7c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — A model health certificate for the trade of unskinned large wild game[^key-c7a288d53f20bf64bda61315b1727a7c]
+## ANNEX — A model health certificate for the trade of unskinned large wild game[^c-c7a288d53f20bf64bda61315b1727a7c]
 
 [image: see source](https://www.legislation.gov.uk/eur/2014/636/images/eur_20140636_2014-06-13_en_001)[image: see source](https://www.legislation.gov.uk/eur/2014/636/images/eur_20140636_2014-06-13_en_002)
 
 ## Annotations
 
-[^key-c7a288d53f20bf64bda61315b1727a7c]: Textual amendment: Regulation revoked (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/640/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7a288d53f20bf64bda61315b1727a7c]: Textual amendment: Regulation revoked (31.12.2020) by [The Specific Food Hygiene (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/640)](https://www.legislation.gov.uk/uksi/2019/640), [regs. 1](https://www.legislation.gov.uk/uksi/2019/640/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/640/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

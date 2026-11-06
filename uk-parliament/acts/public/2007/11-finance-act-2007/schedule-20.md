@@ -149,7 +149,7 @@ Section 70
 - (b) in paragraph (c), for “of three months beginning with” substitute “ beginning six months before, and ending one year after, ”, and
 - (c) omit paragraph (e)(but not including the “and” at the end).
 
-(3)[^key-8615fc3e2c4bf9ea77b3f5453bb71223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8615fc3e2c4bf9ea77b3f5453bb71223] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 2 (“permitted maximum”), after sub-paragraph (5) insert—
 
@@ -168,7 +168,7 @@ Section 70
 
 ### Lump sum death benefits
 
-**13.**[^key-172eff4a7f80dcbf35672ac166c3a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-172eff4a7f80dcbf35672ac166c3a16f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Taxable property held by investment-regulated pension schemes: indirect holdings in REITs
 
@@ -356,6 +356,6 @@ Section 70
 
 ## Annotations
 
-[^key-8615fc3e2c4bf9ea77b3f5453bb71223]: Textual amendment: Sch. 20 para. 11(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(c)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/c/ii)
+[^c-8615fc3e2c4bf9ea77b3f5453bb71223]: Textual amendment: Sch. 20 para. 11(3) omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(c)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/c/ii)
 
-[^key-172eff4a7f80dcbf35672ac166c3a16f]: Textual amendment: Sch. 20 para. 13 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(c)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/c/ii)
+[^c-172eff4a7f80dcbf35672ac166c3a16f]: Textual amendment: Sch. 20 para. 13 omitted (with effect in accordance with Sch. 16 paras. 85, 107 of the amending Act) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 16 para. 84(c)(ii)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/16/paragraph/84/c/ii)

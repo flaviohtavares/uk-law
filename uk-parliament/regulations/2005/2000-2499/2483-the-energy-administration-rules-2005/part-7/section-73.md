@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Debt payable at future time[^key-961857dbd358cf24b771fe80ff902462]
+## 73. Debt payable at future time[^c-961857dbd358cf24b771fe80ff902462]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ b
 
 ## Annotations
 
-[^key-961857dbd358cf24b771fe80ff902462]: Commencement: Rule 73 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-961857dbd358cf24b771fe80ff902462]: Commencement: Rule 73 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

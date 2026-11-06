@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Discharge of mortgages[^key-81601e20eb3ee53930e796beb8c20a2b]
+## 62. Discharge of mortgages[^c-81601e20eb3ee53930e796beb8c20a2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81601e20eb3ee53930e796beb8c20a2b]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1993/3138/regulation/62) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-81601e20eb3ee53930e796beb8c20a2b]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1993/3138/regulation/62) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

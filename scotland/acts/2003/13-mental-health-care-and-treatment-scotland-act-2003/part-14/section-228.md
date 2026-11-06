@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 228. Request for assessment of needs: duty on local authorities and Health Boards[^key-988d657a5f132cf70c16e3cdaed8296a]
+## 228. Request for assessment of needs: duty on local authorities and Health Boards[^c-988d657a5f132cf70c16e3cdaed8296a]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ the authority or, as the case may be, the Board shall comply with the requiremen
 
 ## Annotations
 
-[^key-988d657a5f132cf70c16e3cdaed8296a]: Commencement: [S. 228](https://www.legislation.gov.uk/asp/2003/13/section/228) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-988d657a5f132cf70c16e3cdaed8296a]: Commencement: [S. 228](https://www.legislation.gov.uk/asp/2003/13/section/228) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

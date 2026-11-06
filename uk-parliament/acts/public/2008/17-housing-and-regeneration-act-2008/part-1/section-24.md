@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Power to charge for certain activities[^key-9a82c96c9cfa04f9b7b8ca4b8e40b2fb]
+## 24. Power to charge for certain activities[^c-9a82c96c9cfa04f9b7b8ca4b8e40b2fb]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a82c96c9cfa04f9b7b8ca4b8e40b2fb]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2008/17/section/24) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/l) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-9a82c96c9cfa04f9b7b8ca4b8e40b2fb]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2008/17/section/24) in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(l)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/l) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

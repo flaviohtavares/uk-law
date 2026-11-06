@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51.**[^key-14911bcd2f7fd29699016cf2440f92e8] (1) The exemption provided for by paragraph 19(1) of the Act (exemption: supply of electricity from renewable sources) shall only be given effect if the supplier, and each other person (if any) who is a generator of any renewable source electricity allocated by the supplier to supplies under the renewable source contract in question, has delivered a copy of the relevant notice to the relevant Authority.
+**51.**[^c-14911bcd2f7fd29699016cf2440f92e8] (1) The exemption provided for by paragraph 19(1) of the Act (exemption: supply of electricity from renewable sources) shall only be given effect if the supplier, and each other person (if any) who is a generator of any renewable source electricity allocated by the supplier to supplies under the renewable source contract in question, has delivered a copy of the relevant notice to the relevant Authority.
 
 (2) In paragraph (1), “relevant notice” refers to the written notice mentioned in paragraph 19(1)(d) of the Act relating to the supply of electricity and contract in question (notice to Commissioners agreeing to fulfil conditions of exemption).
 
 ## Annotations
 
-[^key-14911bcd2f7fd29699016cf2440f92e8]: Commencement: Reg. 51 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-14911bcd2f7fd29699016cf2440f92e8]: Commencement: Reg. 51 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

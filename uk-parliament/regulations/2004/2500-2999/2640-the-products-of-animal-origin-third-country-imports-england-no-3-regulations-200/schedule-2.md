@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Equivalence Decisions[^key-ca9033cc2de7e4415109046ad0294487]
+## SCHEDULE 2 — Equivalence Decisions[^c-ca9033cc2de7e4415109046ad0294487]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 8(3)(c)
 
-**1.**[^key-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ca9033cc2de7e4415109046ad0294487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca9033cc2de7e4415109046ad0294487]: Textual amendment: Regulations revoked (1.2.2005) by [The Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 (S.I. 2004/3388)](https://www.legislation.gov.uk/uksi/2004/3388), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3388/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/3388/regulation/68)
+[^c-ca9033cc2de7e4415109046ad0294487]: Textual amendment: Regulations revoked (1.2.2005) by [The Products of Animal Origin (Third Country Imports) (England) (No. 4) Regulations 2004 (S.I. 2004/3388)](https://www.legislation.gov.uk/uksi/2004/3388), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3388/regulation/1), [68](https://www.legislation.gov.uk/uksi/2004/3388/regulation/68)

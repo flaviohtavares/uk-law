@@ -49,7 +49,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 1(1) of Sc
 
 In accordance with paragraph 1(8) of Schedule 7 to that Act a draft of this instrument has been laid before the National Assembly for Wales and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-553791d5539096c43b0c999e41087af0]
+## 1. Title, commencement and application[^c-553791d5539096c43b0c999e41087af0]
 
 (1) The title of these Regulations is the Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
@@ -59,21 +59,21 @@ In accordance with paragraph 1(8) of Schedule 7 to that Act a draft of this inst
 
 (4) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the Cattle Identification (Wales) Regulations 2007[^key-28adad71e0b17dcc1095db190f4025bf]
+## 2. Amendment of the Cattle Identification (Wales) Regulations 2007[^c-28adad71e0b17dcc1095db190f4025bf]
 
 In paragraph 13 in Part 2 of Schedule 3 to the Cattle Identification (Wales) Regulations 2007 [^c23689901], omit sub-paragraph (2).
 
-## 3. Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011[^key-a4aa714b44e70fb2264b54116b638e77]
+## 3. Amendment of the Trade in Animals and Related Products (Wales) Regulations 2011[^c-a4aa714b44e70fb2264b54116b638e77]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Seed Marketing (Wales) Regulations 2012[^key-472ea356404596acef1f43f012f4f8e1]
+## 4. Amendment of the Seed Marketing (Wales) Regulations 2012[^c-472ea356404596acef1f43f012f4f8e1]
 
 In regulation 30 of the Seed Marketing (Wales) Regulations 2012 [^c23689921], for the words from “Secretary of State” to “purposes of” substitute “ Welsh Ministers may temporarily permit the marketing of seed not satisfying the requirements of minimum germination under conditions determined in accordance with ”.
 
-## 5. Amendment of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018[^key-0c96520aaa1b8bd78d12f8ba4e87e151]
+## 5. Amendment of the Animal Health (Miscellaneous Fees) (Wales) Regulations 2018[^c-0c96520aaa1b8bd78d12f8ba4e87e151]
 
 (1) The Animal Health (Miscellaneous Fees) (Wales) Regulations 2018 [^c23689931] are amended as follows.
 
@@ -90,15 +90,15 @@ In regulation 30 of the Seed Marketing (Wales) Regulations 2012 [^c23689921], fo
 
 (4) In the heading to Schedule 1, omit “national”.
 
-## 6. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2018[^key-8153a5a2376d73ec86abbe42626a9c4f]
+## 6. Amendment of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2018[^c-8153a5a2376d73ec86abbe42626a9c4f]
 
 In regulation 5(6)(e) of the Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 [^c23689941], for “EU Commission” substitute “ Welsh Ministers ”.
 
-## 7. Amendment of the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019[^key-9289587e71249131045b668d06a1e52d]
+## 7. Amendment of the Animals and Animal Products (Examination for Residues and Maximum Residue Limits) (Wales) Regulations 2019[^c-9289587e71249131045b668d06a1e52d]
 
 In regulation 2(1) of the Animals and Animal Products (Examination of Residues and Maximum Residue Limits) (Wales) Regulations 2019 [^c23689951], in the definition of “**unauthorised substance**” (“***sylwedd anawdurdodedig***”) for “EU legislation” substitute “ retained EU law ”.
 
-## 8. Amendment of the Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019[^key-400554ce989438eb91d9c413858b9930]
+## 8. Amendment of the Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019[^c-400554ce989438eb91d9c413858b9930]
 
 (1) The Plant Health (Amendment) (Wales) (EU Exit) Regulations 2019 [^c23689961] are amended as follows.
 
@@ -249,31 +249,31 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23689891]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-553791d5539096c43b0c999e41087af0]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-553791d5539096c43b0c999e41087af0]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-28adad71e0b17dcc1095db190f4025bf]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-28adad71e0b17dcc1095db190f4025bf]: Commencement: Reg. 2 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23689901]: Marginal citation: [S.I. 2007/842](https://www.legislation.gov.uk/uksi/2007/842) (W. 74), to which there are amendments not relevant to these Regulations.
 
-[^key-a4aa714b44e70fb2264b54116b638e77]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [35](https://www.legislation.gov.uk/wsi/2020/1612/regulation/35)
+[^c-a4aa714b44e70fb2264b54116b638e77]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1612)](https://www.legislation.gov.uk/wsi/2020/1612), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1612/regulation/1/2), [35](https://www.legislation.gov.uk/wsi/2020/1612/regulation/35)
 
-[^key-472ea356404596acef1f43f012f4f8e1]: Commencement: Reg. 4 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-472ea356404596acef1f43f012f4f8e1]: Commencement: Reg. 4 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23689921]: Marginal citation: [S.I. 2012/245](https://www.legislation.gov.uk/uksi/2012/245) (W. 39), to which there are amendments not relevant to these Regulations.
 
-[^key-0c96520aaa1b8bd78d12f8ba4e87e151]: Commencement: Reg. 5 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-0c96520aaa1b8bd78d12f8ba4e87e151]: Commencement: Reg. 5 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23689931]: Marginal citation: [S.I. 2018/650](https://www.legislation.gov.uk/uksi/2018/650) (W. 122).
 
-[^key-8153a5a2376d73ec86abbe42626a9c4f]: Commencement: Reg. 6 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8153a5a2376d73ec86abbe42626a9c4f]: Commencement: Reg. 6 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23689941]: Marginal citation: S.I. 2018 /968 (W. 195), to which there are amendments not relevant to these Regulations.
 
-[^key-9289587e71249131045b668d06a1e52d]: Commencement: Reg. 7 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9289587e71249131045b668d06a1e52d]: Commencement: Reg. 7 in force at 31.12.2020 (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23689951]: Marginal citation: [S.I. 2019/569](https://www.legislation.gov.uk/uksi/2019/569) (W. 125).
 
-[^key-400554ce989438eb91d9c413858b9930]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-400554ce989438eb91d9c413858b9930]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23689961]: Marginal citation: [S.I. 2019/674](https://www.legislation.gov.uk/uksi/2019/674) (W. 130).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Deputy Special Commissioners.[^key-e0bfd2e02563589f70e47cd4b2dd83a1]
+## 4A. Deputy Special Commissioners.[^c-e0bfd2e02563589f70e47cd4b2dd83a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0bfd2e02563589f70e47cd4b2dd83a1]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1970/9/section/4A) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/6)
+[^c-e0bfd2e02563589f70e47cd4b2dd83a1]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1970/9/section/4A) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/6)

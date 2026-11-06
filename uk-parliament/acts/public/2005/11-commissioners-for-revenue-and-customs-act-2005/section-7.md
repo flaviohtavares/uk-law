@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Former Inland Revenue matters[^key-74e9cbee64eb98590fb794f856ac5f6a][^key-3439de85e984510fe670dce992ea59dd][^key-212ff4fc2ca7812796e780396e40b567][^key-b991554c9baa56617b991e8ba07a6922]
+## 7. Former Inland Revenue matters[^c-74e9cbee64eb98590fb794f856ac5f6a][^c-3439de85e984510fe670dce992ea59dd][^c-212ff4fc2ca7812796e780396e40b567][^c-b991554c9baa56617b991e8ba07a6922]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-74e9cbee64eb98590fb794f856ac5f6a]: Commencement: S. 7 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/c)
+[^c-74e9cbee64eb98590fb794f856ac5f6a]: Commencement: S. 7 in force at 18.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/c)
 
-[^key-3439de85e984510fe670dce992ea59dd]: Modification: S. 7 restricted (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/2)[(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/3)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-3439de85e984510fe670dce992ea59dd]: Modification: S. 7 restricted (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/2)[(3)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/3)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
-[^key-212ff4fc2ca7812796e780396e40b567]: Modification: S. 7 restricted (15.2.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2007/27/schedule/12/paragraph/31); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/219/article/2/b)
+[^c-212ff4fc2ca7812796e780396e40b567]: Modification: S. 7 restricted (15.2.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 12 para. 31](https://www.legislation.gov.uk/ukpga/2007/27/schedule/12/paragraph/31); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/219/article/2/b)
 
-[^key-b991554c9baa56617b991e8ba07a6922]: Modification: Ss. 6, 7 restricted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 48 para. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/48/paragraph/22)
+[^c-b991554c9baa56617b991e8ba07a6922]: Modification: Ss. 6, 7 restricted (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 48 para. 22](https://www.legislation.gov.uk/ukpga/2013/29/schedule/48/paragraph/22)

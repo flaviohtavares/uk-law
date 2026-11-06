@@ -46,19 +46,19 @@ Coming into force in accordance with rule 1
 
 The Civil Procedure Rule Committee, having power under section 2 of the Civil Procedure Act 1997[^f00001] to make rules of court under section 1 of that Act, after consulting in accordance with section 2(6)(a) of that Act, make the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-61fd30fb07f6bce724700b920b882a36]
+## 1. Citation, commencement and interpretation[^c-61fd30fb07f6bce724700b920b882a36]
 
 These Rules may be cited as the Civil Procedure (Amendment No.2) Rules 2004 and shall come into force—
 
 - (a) for the purposes of rules 2 and 14, and this rule, on 1<sup>st</sup> September 2004; and
 - (b) for all other purposes, on 1<sup>st</sup> October 2004.
 
-**2.**[^key-73692290e937cb7ef29fee44514e0123] In these Rules—
+**2.**[^c-73692290e937cb7ef29fee44514e0123] In these Rules—
 
 - (a) a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002]; and
 - (b) a reference to an Order by number and prefixed by “CCR” means the CCR Order so numbered in Schedule 2 to those Rules.
 
-## 3. Amendments to the Civil Procedure Rules 1998[^key-f0eb2c1bd5aee687452842c00d3ba850]
+## 3. Amendments to the Civil Procedure Rules 1998[^c-f0eb2c1bd5aee687452842c00d3ba850]
 
 In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
@@ -69,7 +69,7 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**4.**[^key-e48b3cf07a5c48704578155db4555dbd] In rule 3.3, after paragraph (6) insert—
+**4.**[^c-e48b3cf07a5c48704578155db4555dbd] In rule 3.3, after paragraph (6) insert—
 
 > (7) If the court of its own initiative strikes out a statement of case or dismisses an application, and it considers that the claim or application is totally without merit—
 >
@@ -78,7 +78,7 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**5.**[^key-f6d8039813ab8919d4f54898ed003a0d] In rule 3.4, after paragraph (5) insert—
+**5.**[^c-f6d8039813ab8919d4f54898ed003a0d] In rule 3.4, after paragraph (5) insert—
 
 > (6) If the court strikes out a claimant’s statement of case and it considers that the claim is totally without merit—
 >
@@ -87,7 +87,7 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**6.**[^key-582dc5768e0ddbfa3df895fa214e0e69] After rule 3.10, insert—
+**6.**[^c-582dc5768e0ddbfa3df895fa214e0e69] After rule 3.10, insert—
 
 > **3.11. Power of the court to make civil restraint orders**
 >
@@ -99,7 +99,7 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**7.**[^key-55916757a4cb0750777b1362b5a16d64] For rule 5.4 substitute—
+**7.**[^c-55916757a4cb0750777b1362b5a16d64] For rule 5.4 substitute—
 
 > **5.4. Supply of documents from court records – general**
 >
@@ -155,9 +155,9 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**8.**[^key-16314354578a4f257c9cf518a4e790ec] In rule 6.20, in paragraph (3), after “will be served” insert “(otherwise than in reliance on this paragraph)”.
+**8.**[^c-16314354578a4f257c9cf518a4e790ec] In rule 6.20, in paragraph (3), after “will be served” insert “(otherwise than in reliance on this paragraph)”.
 
-**9.**[^key-e00b8b5f035ef73721c3d8441077271a] After rule 23.11 insert—
+**9.**[^c-e00b8b5f035ef73721c3d8441077271a] After rule 23.11 insert—
 
 > **23.12. Dismissal of totally without merit applications**
 >
@@ -168,9 +168,9 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**10.**[^key-bc71a107be9d16353b3d54711cef7b7a] In Part 45, at the end of the table of contents, insert the text set out in Part I of the Schedule to these Rules.
+**10.**[^c-bc71a107be9d16353b3d54711cef7b7a] In Part 45, at the end of the table of contents, insert the text set out in Part I of the Schedule to these Rules.
 
-**11.**[^key-4908f07f20ad7aeb44b64e58f3d8cb09] In rule 45.10, in paragraph (2)—
+**11.**[^c-4908f07f20ad7aeb44b64e58f3d8cb09] In rule 45.10, in paragraph (2)—
 
 - (a) in sub-paragraph (b), for “body of a prescribed description within the meaning of section 30(1) of the Access to Justice Act 1999” substitute “membership organisation”; and
 - (b) after sub-paragraph (b) insert the following cross-reference—
@@ -179,9 +179,9 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
   .
 
-**12.**[^key-220d25425e69c5358e51906a7192dc17] After Section III of Part 45, insert Section IV as set out in Part II of the Schedule to these Rules.
+**12.**[^c-220d25425e69c5358e51906a7192dc17] After Section III of Part 45, insert Section IV as set out in Part II of the Schedule to these Rules.
 
-**13.**[^key-881ed83245b4be6721f45d4da7589bfc] In rule 52.10, after paragraph (4), insert—
+**13.**[^c-881ed83245b4be6721f45d4da7589bfc] In rule 52.10, after paragraph (4), insert—
 
 > (5) If the appeal court—
 >
@@ -198,7 +198,7 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 
 .
 
-**14.**[^key-124c926b9e846aa6de8ec26613a4dd58] In rule 65.3—
+**14.**[^c-124c926b9e846aa6de8ec26613a4dd58] In rule 65.3—
 
 - (a) in paragraph (1), for “section 153A, 153B or 153D”, substitute “Chapter III of Part V”;
 - (b) in paragraph (2)(c), for “affidavit evidence”, substitute “a witness statement”;
@@ -206,7 +206,7 @@ In rule 2.3, in paragraph (1), after the definition of “child” insert—
 - (d) in paragraph (5), for “affidavit”, substitute “witness statement”;
 - (e) in paragraph (6)(a), for “affidavit”, substitute “witness statement”.
 
-**15.**[^key-2a9f4acd9c692f2e6aaf7d37cc6a8fde] In CCR Order 49, rule 17—
+**15.**[^c-2a9f4acd9c692f2e6aaf7d37cc6a8fde] In CCR Order 49, rule 17—
 
 - (a) in paragraph (4), for “section 25” substitute “section 17B or 25”;
 - (b) in paragraph (6), for “section 66” substitute “section 65”; and
@@ -242,7 +242,7 @@ Falconer of Thoroton C.
 
 Rules 10 and 12
 
-### PART I — IV – FIXED PERCENTAGE INCREASE IN EMPLOYERS LIABILITY CLAIMS[^key-97ef66aa7e8d570bf6244e418b90d7c8]
+### PART I — IV – FIXED PERCENTAGE INCREASE IN EMPLOYERS LIABILITY CLAIMS[^c-97ef66aa7e8d570bf6244e418b90d7c8]
 
 > |  |  |
 > | --- | --- |
@@ -250,7 +250,7 @@ Rules 10 and 12
 > | Percentage increase of solicitors' and counsel’s fees | Rule 45.21 |
 > | Alternative percentage increase | Rule 45.22 |
 
-### PART II — IV – FIXED PERCENTAGE INCREASE IN EMPLOYERS LIABILITY CLAIMS[^key-f015f242cd6ed512001ce4542e8b2d2a]
+### PART II — IV – FIXED PERCENTAGE INCREASE IN EMPLOYERS LIABILITY CLAIMS[^c-f015f242cd6ed512001ce4542e8b2d2a]
 
 > **45.20. Scope and interpretation**
 >
@@ -317,40 +317,40 @@ In addition—
 
 [^f00001]: Footnote: [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12).
 
-[^key-61fd30fb07f6bce724700b920b882a36]: Commencement: Rule 1 in force at 1.9.2004, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/a)
+[^c-61fd30fb07f6bce724700b920b882a36]: Commencement: Rule 1 in force at 1.9.2004, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/a)
 
-[^key-73692290e937cb7ef29fee44514e0123]: Commencement: Rule 2 in force at 1.9.2004, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/a)
+[^c-73692290e937cb7ef29fee44514e0123]: Commencement: Rule 2 in force at 1.9.2004, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/a)
 
 [^f00002]: Footnote: S.I. [1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). There are relevant amendments in S.I. [2000/221](https://www.legislation.gov.uk/uksi/2000/221), S.I. [2000/1317](https://www.legislation.gov.uk/uksi/2000/1317), S.I. [2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), S.I. [2003/2113](https://www.legislation.gov.uk/uksi/2003/2113), S.I. [2003/3361](https://www.legislation.gov.uk/uksi/2003/3361) and S.I. [2004/1306](https://www.legislation.gov.uk/uksi/2004/1306).
 
-[^key-f0eb2c1bd5aee687452842c00d3ba850]: Commencement: Rule 3 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-f0eb2c1bd5aee687452842c00d3ba850]: Commencement: Rule 3 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-e48b3cf07a5c48704578155db4555dbd]: Commencement: Rule 4 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-e48b3cf07a5c48704578155db4555dbd]: Commencement: Rule 4 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-f6d8039813ab8919d4f54898ed003a0d]: Commencement: Rule 5 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-f6d8039813ab8919d4f54898ed003a0d]: Commencement: Rule 5 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-582dc5768e0ddbfa3df895fa214e0e69]: Commencement: Rule 6 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-582dc5768e0ddbfa3df895fa214e0e69]: Commencement: Rule 6 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-55916757a4cb0750777b1362b5a16d64]: Commencement: Rule 7 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-55916757a4cb0750777b1362b5a16d64]: Commencement: Rule 7 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-16314354578a4f257c9cf518a4e790ec]: Commencement: Rule 8 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-16314354578a4f257c9cf518a4e790ec]: Commencement: Rule 8 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-e00b8b5f035ef73721c3d8441077271a]: Commencement: Rule 9 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-e00b8b5f035ef73721c3d8441077271a]: Commencement: Rule 9 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-bc71a107be9d16353b3d54711cef7b7a]: Commencement: Rule 10 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-bc71a107be9d16353b3d54711cef7b7a]: Commencement: Rule 10 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-4908f07f20ad7aeb44b64e58f3d8cb09]: Commencement: Rule 11 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-4908f07f20ad7aeb44b64e58f3d8cb09]: Commencement: Rule 11 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-220d25425e69c5358e51906a7192dc17]: Commencement: Rule 12 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-220d25425e69c5358e51906a7192dc17]: Commencement: Rule 12 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-881ed83245b4be6721f45d4da7589bfc]: Commencement: Rule 13 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-881ed83245b4be6721f45d4da7589bfc]: Commencement: Rule 13 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-124c926b9e846aa6de8ec26613a4dd58]: Commencement: Rule 14 in force at 1.9.2004, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/a)
+[^c-124c926b9e846aa6de8ec26613a4dd58]: Commencement: Rule 14 in force at 1.9.2004, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/a)
 
-[^key-2a9f4acd9c692f2e6aaf7d37cc6a8fde]: Commencement: Rule 15 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-2a9f4acd9c692f2e6aaf7d37cc6a8fde]: Commencement: Rule 15 in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-97ef66aa7e8d570bf6244e418b90d7c8]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2004/2072/schedule/part/I) in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-97ef66aa7e8d570bf6244e418b90d7c8]: Commencement: [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2004/2072/schedule/part/I) in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
-[^key-f015f242cd6ed512001ce4542e8b2d2a]: Commencement: Sch. Pt. II in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
+[^c-f015f242cd6ed512001ce4542e8b2d2a]: Commencement: Sch. Pt. II in force at 1.10.2004, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/2072/rule/1/b)
 
 [^f00003]: Footnote: [1969 c. 57](https://www.legislation.gov.uk/ukpga/1969/57).

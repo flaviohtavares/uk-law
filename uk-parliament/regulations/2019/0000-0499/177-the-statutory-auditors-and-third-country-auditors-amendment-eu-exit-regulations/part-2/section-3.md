@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of Part 16 of the Companies Act 2006[^key-047c23601f07b010c3d3dd3093f4c1aa]
+## 3. Amendment of Part 16 of the Companies Act 2006[^c-047c23601f07b010c3d3dd3093f4c1aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Part 16 of the Companies Act 2006 (audit) is amended in accordance with regulati
 
 ## Annotations
 
-[^key-047c23601f07b010c3d3dd3093f4c1aa]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-047c23601f07b010c3d3dd3093f4c1aa]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

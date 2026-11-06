@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7A. Accounts of companies wholly owned by the Bank[^key-a8ed52a94fd23eff01b06b02d4d5b081]
+## 7A. Accounts of companies wholly owned by the Bank[^c-a8ed52a94fd23eff01b06b02d4d5b081]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ summary: ''
 
 (9) “ **Qualifying company** ” means any company which is wholly owned by the Bank other than—
 
-- (a)[^key-a26a50dea491ef193e46e4be9ea993a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) a company which is a bridge bank for the purposes of section 12(3) of the Banking Act 2009 , or[^key-2f2ea8e5493de1f08e3ce37029aea0b5]
+- (a)[^c-a26a50dea491ef193e46e4be9ea993a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a company which is a bridge bank for the purposes of section 12(3) of the Banking Act 2009 , or[^c-2f2ea8e5493de1f08e3ce37029aea0b5]
 - (c) a company which is a bridge central counterparty for the purpose of paragraph 29 of Schedule 11 to the Financial Services and Markets Act 2023.
 
 (10) For the purposes of subsection (9), a company is wholly owned by the Bank if—
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a8ed52a94fd23eff01b06b02d4d5b081]: Textual amendment: S. 7A inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/137/3), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-a8ed52a94fd23eff01b06b02d4d5b081]: Textual amendment: S. 7A inserted (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 137(3)](https://www.legislation.gov.uk/ukpga/2013/33/section/137/3), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
 
-[^key-a26a50dea491ef193e46e4be9ea993a0]: Textual amendment: [S. 7A(9)(a)](https://www.legislation.gov.uk/ukpga/1998/11/section/7A/9/a) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/10) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-a26a50dea491ef193e46e4be9ea993a0]: Textual amendment: [S. 7A(9)(a)](https://www.legislation.gov.uk/ukpga/1998/11/section/7A/9/a) omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/10) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
 
-[^key-2f2ea8e5493de1f08e3ce37029aea0b5]: Textual amendment: [S. 7A(9)(c)](https://www.legislation.gov.uk/ukpga/1998/11/section/7A/9/c) and word inserted (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/9/2)
+[^c-2f2ea8e5493de1f08e3ce37029aea0b5]: Textual amendment: [S. 7A(9)(c)](https://www.legislation.gov.uk/ukpga/1998/11/section/7A/9/c) and word inserted (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/9/2)

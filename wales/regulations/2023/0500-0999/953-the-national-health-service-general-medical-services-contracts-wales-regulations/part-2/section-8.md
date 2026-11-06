@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Right of appeal[^key-edbb34b6655f832cd66fdaaf557b6e48]
+## 8. Right of appeal[^c-edbb34b6655f832cd66fdaaf557b6e48]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person who has been given a notice by the Local Health Board under regulation 
 
 ## Annotations
 
-[^key-edbb34b6655f832cd66fdaaf557b6e48]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2023/953/regulation/8) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-edbb34b6655f832cd66fdaaf557b6e48]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2023/953/regulation/8) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

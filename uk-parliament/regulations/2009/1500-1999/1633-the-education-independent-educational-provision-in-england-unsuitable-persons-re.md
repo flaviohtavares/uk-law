@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 119(1)(a) and (2) and 166(6) of the Education and Skills Act 2008[^f00001]:
 
-## 1. Citation, commencement and interpretation[^key-49b2374c0f5f6a9bcce6302c34595d27]
+## 1. Citation, commencement and interpretation[^c-49b2374c0f5f6a9bcce6302c34595d27]
 
 (1) These Regulations may be cited as the Education (Independent Educational Provision in England) (Unsuitable Persons) Regulations 2009 and come into force on 12th October 2009.
 
 (2) In these Regulations “the 2008 Act” means the Education and Skills Act 2008.
 
-## 2. Unsuitable persons: prescribed kind of work[^key-ac2f4b531b0d5ebeff69b399209027fb]
+## 2. Unsuitable persons: prescribed kind of work[^c-ac2f4b531b0d5ebeff69b399209027fb]
 
 The kind of work prescribed for the purposes of section 119(1)(a) of the 2008 Act is any form of work (whether or not for gain) which gives the person the opportunity, in consequence of anything the person is permitted or required to do in connection with the work, to have contact with a student at the institution who is a child or vulnerable adult within the meanings in the Safeguarding Vulnerable Groups Act 2006.
 
-## 3. Unsuitable persons: prescribed descriptions of directions, orders and decisions[^key-89067aa91ee63ccdc1ee2e04083f323f]
+## 3. Unsuitable persons: prescribed descriptions of directions, orders and decisions[^c-89067aa91ee63ccdc1ee2e04083f323f]
 
 The following descriptions of directions, orders and decisions, made under the enactments prescribed, are prescribed for the purposes of section 119(2) of the 2008 Act—
 
@@ -96,11 +96,11 @@ An impact assessment has not been produced for this instrument as there is no fi
 
 [^f00001]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25); see section 168(1) for the definitions of “prescribed” and “regulations”.
 
-[^key-49b2374c0f5f6a9bcce6302c34595d27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1633/regulation/1) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1633/regulation/1/1)
+[^c-49b2374c0f5f6a9bcce6302c34595d27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2009/1633/regulation/1) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1633/regulation/1/1)
 
-[^key-ac2f4b531b0d5ebeff69b399209027fb]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1633/regulation/2) substituted (1.1.2011) by [The Education (Independent Educational Provision in England) (Unsuitable Persons) (Amendment) Regulations 2010 (S.I. 2010/2920)](https://www.legislation.gov.uk/uksi/2010/2920), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2920/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2920/regulation/2)
+[^c-ac2f4b531b0d5ebeff69b399209027fb]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2009/1633/regulation/2) substituted (1.1.2011) by [The Education (Independent Educational Provision in England) (Unsuitable Persons) (Amendment) Regulations 2010 (S.I. 2010/2920)](https://www.legislation.gov.uk/uksi/2010/2920), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2920/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2920/regulation/2)
 
-[^key-89067aa91ee63ccdc1ee2e04083f323f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1633/regulation/3) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1633/regulation/1/1)
+[^c-89067aa91ee63ccdc1ee2e04083f323f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2009/1633/regulation/3) in force at 12.10.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/1633/regulation/1/1)
 
 [^f00003]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44).
 

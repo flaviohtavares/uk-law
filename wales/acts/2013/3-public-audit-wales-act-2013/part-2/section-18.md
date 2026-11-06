@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Delegation and joint exercise of functions of the Auditor General[^key-5c2831bcbf623f1a9e9747f910439041][^key-726d0dcbb5e0e45b75f1549e337037ae]
+## 18. Delegation and joint exercise of functions of the Auditor General[^c-5c2831bcbf623f1a9e9747f910439041][^c-726d0dcbb5e0e45b75f1549e337037ae]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c2831bcbf623f1a9e9747f910439041]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/3/section/18) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(j)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/j)
+[^c-5c2831bcbf623f1a9e9747f910439041]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/3/section/18) in force at 4.7.2013 for specified purposes by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(j)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/j)
 
-[^key-726d0dcbb5e0e45b75f1549e337037ae]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/3/section/18) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-726d0dcbb5e0e45b75f1549e337037ae]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2013/3/section/18) in force at 1.4.2014 in so far as not already in force by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

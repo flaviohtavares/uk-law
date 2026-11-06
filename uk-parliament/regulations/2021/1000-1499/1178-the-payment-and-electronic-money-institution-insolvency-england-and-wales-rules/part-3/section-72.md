@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. The chair at meetings[^key-09355b08810e85781efb19a06be5cf30]
+## 72. The chair at meetings[^c-09355b08810e85781efb19a06be5cf30]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09355b08810e85781efb19a06be5cf30]: Commencement: Rule 72 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-09355b08810e85781efb19a06be5cf30]: Commencement: Rule 72 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

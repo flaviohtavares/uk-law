@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Interpretation: commodity codes[^key-bc346d5e54333a780143b8f583d884b7]
+## 2A. Interpretation: commodity codes[^c-bc346d5e54333a780143b8f583d884b7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc346d5e54333a780143b8f583d884b7]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2019/461/regulation/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/4/2)
+[^c-bc346d5e54333a780143b8f583d884b7]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/uksi/2019/461/regulation/2A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/4/2)

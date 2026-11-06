@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Notification and advertisement of energy administrator’s appointment[^key-92d4d05b78089070c567a4641f3f3493]
+## 14. Notification and advertisement of energy administrator’s appointment[^c-92d4d05b78089070c567a4641f3f3493]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92d4d05b78089070c567a4641f3f3493]: Commencement: Rule 14 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-92d4d05b78089070c567a4641f3f3493]: Commencement: Rule 14 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

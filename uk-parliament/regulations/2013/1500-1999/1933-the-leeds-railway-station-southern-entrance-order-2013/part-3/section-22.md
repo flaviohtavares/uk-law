@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Application of Part 1 of the 1965 Act[^key-f4af64228d66351e4a47bf26e625fb77]
+## 22. Application of Part 1 of the 1965 Act[^c-f4af64228d66351e4a47bf26e625fb77]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4af64228d66351e4a47bf26e625fb77]: Commencement: Art. 22 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-f4af64228d66351e4a47bf26e625fb77]: Commencement: Art. 22 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.6. Claim to avoid fine after penalty notice[^key-df1dd4c9c865af452b83700e4cf3e86a]
+## 30.6. Claim to avoid fine after penalty notice[^c-df1dd4c9c865af452b83700e4cf3e86a]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-df1dd4c9c865af452b83700e4cf3e86a]: Commencement: [Rule 30.6](https://www.legislation.gov.uk/uksi/2025/909/rule/30.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-df1dd4c9c865af452b83700e4cf3e86a]: Commencement: [Rule 30.6](https://www.legislation.gov.uk/uksi/2025/909/rule/30.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00736]: Footnote: [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16); section 10 was amended by paragraphs 1 and 10 of Schedule 23 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

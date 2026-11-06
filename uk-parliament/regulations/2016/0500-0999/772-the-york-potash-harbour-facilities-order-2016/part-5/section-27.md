@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Time limit for exercise of authority to acquire land and rights compulsorily[^key-1140e58edda1f85e9b64b6eb9cc3327d]
+## 27. Time limit for exercise of authority to acquire land and rights compulsorily[^c-1140e58edda1f85e9b64b6eb9cc3327d]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1140e58edda1f85e9b64b6eb9cc3327d]: Commencement: Art. 27 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-1140e58edda1f85e9b64b6eb9cc3327d]: Commencement: Art. 27 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
 [^f00026]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).

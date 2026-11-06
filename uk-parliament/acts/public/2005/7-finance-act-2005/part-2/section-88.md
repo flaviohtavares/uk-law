@@ -30,7 +30,7 @@ summary: ''
 
 > (7A) The requirement to fulfil one of the two conditions mentioned above does not apply so far as regards any income or chargeable gains of the taxpayer in relation to which the taxpayer has been given, after any enquiries have been completed into the taxpayer's return, a notice under section 804ZA of the principal Act.
 
-(3)[^key-b264467bc9e2b78d53a66784f31bdee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b264467bc9e2b78d53a66784f31bdee2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 42 of that Schedule (restrictions on power to make discovery assessment etc), after sub-paragraph (2) insert—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b264467bc9e2b78d53a66784f31bdee2]: Textual amendment: S. 88(3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-b264467bc9e2b78d53a66784f31bdee2]: Textual amendment: S. 88(3) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

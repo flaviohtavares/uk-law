@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.182. Application for leave to disclaim[^key-5dc0875c738deff491a0949b0a37f3a2]
+## 6.182. Application for leave to disclaim[^c-5dc0875c738deff491a0949b0a37f3a2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dc0875c738deff491a0949b0a37f3a2]: Commencement: [Rule 6.182](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.182) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-5dc0875c738deff491a0949b0a37f3a2]: Commencement: [Rule 6.182](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.182) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -165,7 +165,7 @@ After Article 31C of the principal Order (temporary reduction of rates for speci
 
 .
 
-## 3. Window displays not to constitute occupation in certain cases[^key-50ea5b12d35da16a849460a65df3ec36]
+## 3. Window displays not to constitute occupation in certain cases[^c-50ea5b12d35da16a849460a65df3ec36]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -214,4 +214,4 @@ This Act may be cited as the Rates (Amendment) Act (Northern Ireland) 2012.
 
 ## Annotations
 
-[^key-50ea5b12d35da16a849460a65df3ec36]: Textual amendment: S. 3 repealed (19.9.2016) by [Rates (Amendment) Act (Northern Ireland) 2016 (c. 6)](https://www.legislation.gov.uk/nia/2016/6), [ss. 4](https://www.legislation.gov.uk/nia/2016/6/section/4), [6(1)](https://www.legislation.gov.uk/nia/2016/6/section/6/1), [Sch.](https://www.legislation.gov.uk/nia/2016/6/schedule); [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 3](https://www.legislation.gov.uk/nisr/2016/331/article/3/a)
+[^c-50ea5b12d35da16a849460a65df3ec36]: Textual amendment: S. 3 repealed (19.9.2016) by [Rates (Amendment) Act (Northern Ireland) 2016 (c. 6)](https://www.legislation.gov.uk/nia/2016/6), [ss. 4](https://www.legislation.gov.uk/nia/2016/6/section/4), [6(1)](https://www.legislation.gov.uk/nia/2016/6/section/6/1), [Sch.](https://www.legislation.gov.uk/nia/2016/6/schedule); [S.R. 2016/331](https://www.legislation.gov.uk/nisr/2016/331), [art. 3](https://www.legislation.gov.uk/nisr/2016/331/article/3/a)

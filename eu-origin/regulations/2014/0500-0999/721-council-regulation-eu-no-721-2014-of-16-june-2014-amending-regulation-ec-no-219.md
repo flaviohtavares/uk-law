@@ -35,30 +35,30 @@ amending Regulation (EC) No 219/2007 on the establishment of a Joint Undertaking
 
 (Text with EEA relevance) (revoked)
 
-[^key-293a2ba14ce0c10a97188e47761c3091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-293a2ba14ce0c10a97188e47761c3091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EC) No 219/2007[^key-293a2ba14ce0c10a97188e47761c3091]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Transitional provisions relating to the membership in the Joint Undertaking[^key-293a2ba14ce0c10a97188e47761c3091]
+## Article 1. Amendments to Regulation (EC) No 219/2007[^c-293a2ba14ce0c10a97188e47761c3091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional provisions relating to the activities of the Joint Undertaking financed under the Union's 2007-2013 financial framework[^key-293a2ba14ce0c10a97188e47761c3091]
+## Article 2. Transitional provisions relating to the membership in the Joint Undertaking[^c-293a2ba14ce0c10a97188e47761c3091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force and application[^key-293a2ba14ce0c10a97188e47761c3091]
+## Article 3. Transitional provisions relating to the activities of the Joint Undertaking financed under the Union's 2007-2013 financial framework[^c-293a2ba14ce0c10a97188e47761c3091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-293a2ba14ce0c10a97188e47761c3091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Entry into force and application[^c-293a2ba14ce0c10a97188e47761c3091]
 
-## ANNEX[^key-293a2ba14ce0c10a97188e47761c3091]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-293a2ba14ce0c10a97188e47761c3091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-293a2ba14ce0c10a97188e47761c3091]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-293a2ba14ce0c10a97188e47761c3091]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2019/459/regulation/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-293a2ba14ce0c10a97188e47761c3091]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [82](https://www.legislation.gov.uk/uksi/2019/459/regulation/82); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

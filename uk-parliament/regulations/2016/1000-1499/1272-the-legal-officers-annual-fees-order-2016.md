@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Legal Officers (Annual Fees) Order 2016 (revoked)[^key-57dbcb4985fb4c406eecada26a629981]
+The Legal Officers (Annual Fees) Order 2016 (revoked)[^c-57dbcb4985fb4c406eecada26a629981]
 
 Made
 
@@ -45,92 +45,92 @@ Coming into force
 
 1st June 2017
 
-[^key-57dbcb4985fb4c406eecada26a629981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57dbcb4985fb4c406eecada26a629981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-57dbcb4985fb4c406eecada26a629981]
+## 1. Citation, commencement and interpretation[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Annual fees[^key-57dbcb4985fb4c406eecada26a629981]
+## 2. Annual fees[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of fees[^key-57dbcb4985fb4c406eecada26a629981]
+## 3. Payment of fees[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of 2015 Order[^key-57dbcb4985fb4c406eecada26a629981]
+## 4. Revocation of 2015 Order[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of the diocesan registrar[^key-57dbcb4985fb4c406eecada26a629981]
+## 5. Duties of the diocesan registrar[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary annual fee[^key-57dbcb4985fb4c406eecada26a629981]
+## 6. Supplementary annual fee[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Travel, subsistence and accommodation[^key-57dbcb4985fb4c406eecada26a629981]
+## 7. Travel, subsistence and accommodation[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Value Added Tax[^key-57dbcb4985fb4c406eecada26a629981]
+## 8. Value Added Tax[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57dbcb4985fb4c406eecada26a629981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57dbcb4985fb4c406eecada26a629981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Fees payable under this Order[^key-57dbcb4985fb4c406eecada26a629981]
+## SCHEDULE 1 — Fees payable under this Order[^c-57dbcb4985fb4c406eecada26a629981]
 
 Article 2
 
-### TABLE 1 — Fees payable to diocesan registrars in respect of 2017[^key-57dbcb4985fb4c406eecada26a629981]
+### TABLE 1 — Fees payable to diocesan registrars in respect of 2017[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### TABLE 2 — Fees payable to provincial registrars in respect of 2017[^key-57dbcb4985fb4c406eecada26a629981]
+### TABLE 2 — Fees payable to provincial registrars in respect of 2017[^c-57dbcb4985fb4c406eecada26a629981]
 
-#### PART A — Fees payable[^key-57dbcb4985fb4c406eecada26a629981]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### PART B — Duties and professional services not falling within the scope of the annual fee[^key-57dbcb4985fb4c406eecada26a629981]
+#### PART A — Fees payable[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — The scope of the annual fee[^key-57dbcb4985fb4c406eecada26a629981]
+#### PART B — Duties and professional services not falling within the scope of the annual fee[^c-57dbcb4985fb4c406eecada26a629981]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — The scope of the annual fee[^c-57dbcb4985fb4c406eecada26a629981]
 
 Article 2
 
-### 9. Professional services to be provided by the diocesan registrar[^key-57dbcb4985fb4c406eecada26a629981]
+### 9. Professional services to be provided by the diocesan registrar[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Restrictions on the provisions of paragraph 1[^key-57dbcb4985fb4c406eecada26a629981]
+### 10. Restrictions on the provisions of paragraph 1[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^key-57dbcb4985fb4c406eecada26a629981]
+### 11. Advice or assistance given to the diocesan bishop, suffragan bishops or archdeacons[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Work not falling within the scope of the annual fee[^key-57dbcb4985fb4c406eecada26a629981]
+### 12. Work not falling within the scope of the annual fee[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Disbursements[^key-57dbcb4985fb4c406eecada26a629981]
+### 13. Disbursements[^c-57dbcb4985fb4c406eecada26a629981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-57dbcb4985fb4c406eecada26a629981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57dbcb4985fb4c406eecada26a629981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-57dbcb4985fb4c406eecada26a629981]: Textual amendment: Order revoked (1.1.2018) by [The Legal Officers (Annual Fees) Order 2017 (S.I. 2017/797)](https://www.legislation.gov.uk/uksi/2017/797), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/797/article/1/2), [4](https://www.legislation.gov.uk/uksi/2017/797/article/4)
+[^c-57dbcb4985fb4c406eecada26a629981]: Textual amendment: Order revoked (1.1.2018) by [The Legal Officers (Annual Fees) Order 2017 (S.I. 2017/797)](https://www.legislation.gov.uk/uksi/2017/797), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/797/article/1/2), [4](https://www.legislation.gov.uk/uksi/2017/797/article/4)

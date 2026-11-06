@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Effect of non-presentation or rejection of response, or case not contested[^key-da8d108e3a2939074aaab76746f75321]
+## 22. Effect of non-presentation or rejection of response, or case not contested[^c-da8d108e3a2939074aaab76746f75321]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da8d108e3a2939074aaab76746f75321]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2024/1155/rule/22) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-da8d108e3a2939074aaab76746f75321]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2024/1155/rule/22) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

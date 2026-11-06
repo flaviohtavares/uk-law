@@ -34,7 +34,7 @@ Senior Courts Of England And Wales
 
 County Courts, England And Wales
 
-The Civil Courts (Amendment) Order 2011 (revoked)[^key-53bc78efc270854719a3fb0cb8458f12]
+The Civil Courts (Amendment) Order 2011 (revoked)[^c-53bc78efc270854719a3fb0cb8458f12]
 
 Made
 
@@ -46,45 +46,45 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-53bc78efc270854719a3fb0cb8458f12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53bc78efc270854719a3fb0cb8458f12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-53bc78efc270854719a3fb0cb8458f12]
+## 1. Citation and commencement[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Closure of county courts[^key-53bc78efc270854719a3fb0cb8458f12]
+## 2. Closure of county courts[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Establishment of Workington County Court[^key-53bc78efc270854719a3fb0cb8458f12]
+## 3. Establishment of Workington County Court[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Jurisdiction under the Insolvency Act 1986[^key-53bc78efc270854719a3fb0cb8458f12]
+## 4. Jurisdiction under the Insolvency Act 1986[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Divorce Jurisdiction[^key-53bc78efc270854719a3fb0cb8458f12]
+## 5. Divorce Jurisdiction[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional Provisions[^key-53bc78efc270854719a3fb0cb8458f12]
+## 6. Transitional Provisions[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-53bc78efc270854719a3fb0cb8458f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-53bc78efc270854719a3fb0cb8458f12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to the Civil Courts Order 1983[^key-53bc78efc270854719a3fb0cb8458f12]
+## 8. Amendments to the Civil Courts Order 1983[^c-53bc78efc270854719a3fb0cb8458f12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53bc78efc270854719a3fb0cb8458f12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53bc78efc270854719a3fb0cb8458f12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — County Courts to be discontinued[^key-53bc78efc270854719a3fb0cb8458f12]
+## SCHEDULE — County Courts to be discontinued[^c-53bc78efc270854719a3fb0cb8458f12]
 
 Article 2
 
@@ -92,8 +92,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-53bc78efc270854719a3fb0cb8458f12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53bc78efc270854719a3fb0cb8458f12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53bc78efc270854719a3fb0cb8458f12]: Textual amendment: Order revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 1](https://www.legislation.gov.uk/uksi/2014/820/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)
+[^c-53bc78efc270854719a3fb0cb8458f12]: Textual amendment: Order revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 1](https://www.legislation.gov.uk/uksi/2014/820/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)

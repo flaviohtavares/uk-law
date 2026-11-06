@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.10. Duty of person keeping exhibit[^key-1d8ce5864bf65fb466b0a942bcf2cfc5]
+## 36.10. Duty of person keeping exhibit[^c-1d8ce5864bf65fb466b0a942bcf2cfc5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ A person who under arrangements made by the Crown Court officer keeps a document
 
 ## Annotations
 
-[^key-1d8ce5864bf65fb466b0a942bcf2cfc5]: Commencement: [Rule 36.10](https://www.legislation.gov.uk/uksi/2025/909/rule/36.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1d8ce5864bf65fb466b0a942bcf2cfc5]: Commencement: [Rule 36.10](https://www.legislation.gov.uk/uksi/2025/909/rule/36.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

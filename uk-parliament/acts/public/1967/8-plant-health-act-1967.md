@@ -42,15 +42,15 @@ An Act to consolidate the Destructive Insects and Pests Acts 1877 to 1927, toget
 
 (2) The competent authorities for purposes of this Act shall be—
 
-- (za)[^key-d7de465a07e5291a099e091aaefb3905] for Scotland, the Scottish Ministers,
-- (a)[^c6688831][^key-882ea2dcfc04f42c8ec9189dfece311f] for England [^key-419333a3ab9658bef44601e68ccb5fc9]...—
+- (za)[^c-d7de465a07e5291a099e091aaefb3905] for Scotland, the Scottish Ministers,
+- (a)[^c6688831][^c-882ea2dcfc04f42c8ec9189dfece311f] for England [^c-419333a3ab9658bef44601e68ccb5fc9]...—
   - (i) as regards the protection of forest trees and timber from attack by pests (“timber” for this purpose including all forest products), the Forestry Commissioners, and
-  - (ii) otherwise, [^key-2b46db6f6a32a2436ef189002e044bdc]... the Secretary of State [^key-29de3ad96ed94ae1a4af25dddb7d0555]..., and
+  - (ii) otherwise, [^c-2b46db6f6a32a2436ef189002e044bdc]... the Secretary of State [^c-29de3ad96ed94ae1a4af25dddb7d0555]..., and
 - (b) for Wales, the Welsh Ministers.
 
 ## 2. Control of introduction of pests into Great Britain.[^c6689051][^c6689061][^c6689071][^c6689081]
 
-(1) A competent authority may from time to time make such orders as the authority thinks expedient [^key-6c193efb3e75cc1baec209c902c2421f]... for preventing the introduction of pests into Great Britain.
+(1) A competent authority may from time to time make such orders as the authority thinks expedient [^c-6c193efb3e75cc1baec209c902c2421f]... for preventing the introduction of pests into Great Britain.
 
 (2) Where it appears to the competent authority that the landing in Great Britain of articles of any description (and in particular plants, trees or bushes or any part or produce thereof) is likely to introduce a pest into Great Britain, the orders may prohibit or regulate the landing of those articles, and may direct or authorise their destruction if landed (without prejudice to provisions of the Customs and Excise Management Act 1979[^c6689101] imposing penalties or liability to forfeiture).
 
@@ -58,7 +58,7 @@ An Act to consolidate the Destructive Insects and Pests Acts 1877 to 1927, toget
 
 ## 3. Control of spread of pests in Great Britain.[^c6689751]
 
-(1)[^c6689761][^c6689771][^c6689781][^c6689791] A competent authority may from time to time make such orders as the authority thinks expedient [^key-6dfdfbe9d5a6a0343b07058bc64b795c]... for preventing the spread of pests in Great Britain or the conveyance of pests by articles exported from Great Britain[^c6689811].
+(1)[^c6689761][^c6689771][^c6689781][^c6689791] A competent authority may from time to time make such orders as the authority thinks expedient [^c-6dfdfbe9d5a6a0343b07058bc64b795c]... for preventing the spread of pests in Great Britain or the conveyance of pests by articles exported from Great Britain[^c6689811].
 
 (2)[^c6689761][^c6689781] The orders may direct or authorise—
 
@@ -75,7 +75,7 @@ An Act to consolidate the Destructive Insects and Pests Acts 1877 to 1927, toget
 
 ## 4. Execution of Act by government departments.[^c6689931]
 
-(1)[^c6689941][^key-f71f67f00078c1516aa76b1a6a881bd4] Orders under this Act may enable inspectors authorised by the Minister of Agriculture, Fisheries and Food or, in Scotland, the Secretary of State—
+(1)[^c6689941][^c-f71f67f00078c1516aa76b1a6a881bd4] Orders under this Act may enable inspectors authorised by the Minister of Agriculture, Fisheries and Food or, in Scotland, the Secretary of State—
 
 - (a) in the case of any specified pest which has been introduced into Great Britain, to take the following action, that is to say—
   - (i) to remove or destroy, or cause to be removed or destroyed, any crop, or any seed, plant or part thereof, which has on it, or is infected with, the pest, or to or by means of which the pest is likely to spread; and
@@ -86,9 +86,9 @@ and may impose in respect of any certificate given in pursuance of the order aft
 
 (2) The Minister or Secretary of State may pay compensation in respect of any crop, or any seed, plant or part thereof, which is removed or destroyed by or under the instructions of an inspector authorised by him; and its value shall be taken to be the value which it has at the time of the removal or destruction and, if the Minister or Secretary of State so requires, shall be ascertained by his officers or by arbitration.
 
-(3)[^key-a842d6301efb5c2fa8b33c5a6549e966] The expenses of the Minister and Secretary of State in the execution of this Act, including any compensation under subsection (2) above, shall be paid out of moneys provided by Parliament, but shall not without the consent of the Treasury exceed two thousand pounds in any year.
+(3)[^c-a842d6301efb5c2fa8b33c5a6549e966] The expenses of the Minister and Secretary of State in the execution of this Act, including any compensation under subsection (2) above, shall be paid out of moneys provided by Parliament, but shall not without the consent of the Treasury exceed two thousand pounds in any year.
 
-## 4A. Charges in connection with import and export licences and certificates.[^key-4c17506659cd9fe6d0cdd31e851a681a][^c6690001][^c6690011][^c6690021][^c6689991]
+## 4A. Charges in connection with import and export licences and certificates.[^c-4c17506659cd9fe6d0cdd31e851a681a][^c6690001][^c6690011][^c6690021][^c6689991]
 
 Without prejudice to section 4(1) above, an order under this Act may impose such reasonable fees or other charges as the competent authority may, with the consent of the Treasury, prescribe—
 
@@ -129,7 +129,7 @@ Without prejudice to section 4(1) above, an order under this Act may impose such
 
 (3) If, having made an order under this Act, a competent authority sends the order to a local authority for publication, the local authority shall publish it [^c6690171][^c6690181]. . . , in such manner as the local authority think sufficient and proper to ensure publicity.
 
-(4)[^key-a0f16b0b5f7837de0e91b039b6d11f5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a0f16b0b5f7837de0e91b039b6d11f5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Repeal.[^c6690191]
 
@@ -186,17 +186,17 @@ Section 7.
 
 [^c6688821]: Textual amendment: Words repealed by [European Communities Act 1972 (c. 68, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 8(1)(2)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/8/1/2)
 
-[^key-d7de465a07e5291a099e091aaefb3905]: Textual amendment: [S. 1(2)(za)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/za) inserted (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(a)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/a), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-d7de465a07e5291a099e091aaefb3905]: Textual amendment: [S. 1(2)(za)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/za) inserted (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(a)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/a), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c6688831]: Subordinate legislation: S. 1(2)(a): s. 2 (with ss. 1(2)(a), 3(1) and 4A) power exercised by [S.I.1991/2523](https://www.legislation.gov.uk/uksi/1991/2523).
 
-[^key-882ea2dcfc04f42c8ec9189dfece311f]: Textual amendment: S. 1(2)(a)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 43](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/43) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-882ea2dcfc04f42c8ec9189dfece311f]: Textual amendment: S. 1(2)(a)(b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 43](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/43) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-419333a3ab9658bef44601e68ccb5fc9]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/a) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(b)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/b), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-419333a3ab9658bef44601e68ccb5fc9]: Textual amendment: Words in [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/a) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(b)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/b), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-2b46db6f6a32a2436ef189002e044bdc]: Textual amendment: Words in [s. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/a/ii) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(c)(i)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/c/i), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-2b46db6f6a32a2436ef189002e044bdc]: Textual amendment: Words in [s. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/a/ii) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(c)(i)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/c/i), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-29de3ad96ed94ae1a4af25dddb7d0555]: Textual amendment: Words in [s. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/a/ii) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(c)(ii)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/c/ii), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-29de3ad96ed94ae1a4af25dddb7d0555]: Textual amendment: Words in [s. 1(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1967/8/section/1/2/a/ii) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(2)(c)(ii)](https://www.legislation.gov.uk/asp/2018/8/section/10/2/c/ii), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c6689051]: Subordinate legislation: For exercises of power see Index to Government Orders
 
@@ -206,7 +206,7 @@ Section 7.
 
 [^c6689081]: Subordinate legislation: S. 2: s. 2 (with ss. 1(2)(a), 3(1) and 4A) power exercised by [S.I.1991/2523](https://www.legislation.gov.uk/uksi/1991/2523).
 
-[^key-6c193efb3e75cc1baec209c902c2421f]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/2/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), regs. 1(2)(b), [2](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2)
+[^c-6c193efb3e75cc1baec209c902c2421f]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/2/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), regs. 1(2)(b), [2](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2)
 
 [^c6689101]: Textual amendment: Words substituted by [Customs and Excise Management Act 1979 (c. 2, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1979/2/section/117/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1979/2/schedule/4/paragraph/12) Table Pt. I
 
@@ -224,7 +224,7 @@ Section 7.
 
 [^c6689791]: Subordinate legislation: S. 3(1): s. 2 (with ss. 1(2)(a), 3(1) and 4A) power exercised by [S.I.1991/2523](https://www.legislation.gov.uk/uksi/1991/2523).
 
-[^key-6dfdfbe9d5a6a0343b07058bc64b795c]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/3/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), regs. 1(2)(b), [2](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2)
+[^c-6dfdfbe9d5a6a0343b07058bc64b795c]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/3/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), regs. 1(2)(b), [2](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2)
 
 [^c6689811]: Textual amendment: Words added by [European Communities Act 1972 (c. 68, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/8)
 
@@ -242,13 +242,13 @@ Section 7.
 
 [^c6689941]: Subordinate legislation: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/4/1): s. 3(1) (with ss. 1(2)(b), 3(2)(4) and 4(1)) power exercised (S.) by [S.I.1991/1905](https://www.legislation.gov.uk/uksi/1991/1905).
 
-[^key-f71f67f00078c1516aa76b1a6a881bd4]: Modification: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/4/1) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2018/644/article/9/1)
+[^c-f71f67f00078c1516aa76b1a6a881bd4]: Modification: [S. 4(1)](https://www.legislation.gov.uk/ukpga/1967/8/section/4/1) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2018/644/article/9/1)
 
 [^c6689951]: Textual amendment: Words inserted by [European Communities Act 1972 (c. 68, SIF 29:5)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 8(3)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/8/3)
 
-[^key-a842d6301efb5c2fa8b33c5a6549e966]: Modification: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1967/8/section/4/3) modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/644/article/9/2)
+[^c-a842d6301efb5c2fa8b33c5a6549e966]: Modification: [S. 4(3)](https://www.legislation.gov.uk/ukpga/1967/8/section/4/3) modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2018/644/article/9/2)
 
-[^key-4c17506659cd9fe6d0cdd31e851a681a]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/1967/8/section/4A) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2018/644/article/9/1)
+[^c-4c17506659cd9fe6d0cdd31e851a681a]: Modification: [S. 4A](https://www.legislation.gov.uk/ukpga/1967/8/section/4A) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2018/644/article/9/1)
 
 [^c6690001]: Subordinate legislation: [S. 4A](https://www.legislation.gov.uk/ukpga/1967/8/section/4A): s. 1(2)(b) (with s. 4A) power exercised by [S.I. 1991/1640](https://www.legislation.gov.uk/uksi/1991/1640).
 
@@ -282,7 +282,7 @@ Section 7.
 
 [^c6690181]: Textual amendment: Words repealed (E.W.) by [Local Government Act 1974 (c. 7, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1974/7), [s. 35](https://www.legislation.gov.uk/ukpga/1974/7/section/35), [Sch. 6 para. 19](https://www.legislation.gov.uk/ukpga/1974/7/schedule/6/paragraph/19)
 
-[^key-a0f16b0b5f7837de0e91b039b6d11f5f]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1967/8/section/6/4) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(3)](https://www.legislation.gov.uk/asp/2018/8/section/10/3), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-a0f16b0b5f7837de0e91b039b6d11f5f]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/1967/8/section/6/4) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 10(3)](https://www.legislation.gov.uk/asp/2018/8/section/10/3), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c6690191]: Modification: The text of s. 7 and Sch. is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

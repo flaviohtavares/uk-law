@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendment of the Adoption Agencies (Wales) Regulations 2005 (Welsh language text)[^key-451795e9c69a75cbdf7f79e9ef59492c]
+## 12. Amendment of the Adoption Agencies (Wales) Regulations 2005 (Welsh language text)[^c-451795e9c69a75cbdf7f79e9ef59492c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-451795e9c69a75cbdf7f79e9ef59492c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1071/regulation/12) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-451795e9c69a75cbdf7f79e9ef59492c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1071/regulation/12) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

@@ -22,21 +22,21 @@ summary: ''
 
 Section 66
 
-### 1. Powers to search and seize vehicles in connection with waste offences[^key-583824f98ff8a65225d3f1f508f2c9d2]
+### 1. Powers to search and seize vehicles in connection with waste offences[^c-583824f98ff8a65225d3f1f508f2c9d2]
 
 In section 5(6) of the Control of Pollution (Amendment) Act 1989 (constable’s power to seize vehicles and contents)—
 
 - (a) in paragraph (b) after “presence of” insert “or at the request of”;
 - (b) in paragraph (c) for “without such an officer present” substitute “in any other case”.
 
-### 2.[^key-e65fb1ab20d245d8046a5a2457e2ade5]
+### 2.[^c-e65fb1ab20d245d8046a5a2457e2ade5]
 
 In section 34B(6) of the Environmental Protection Act 1990 (constable’s power to seize vehicles and contents)—
 
 - (a) in paragraph (b) after “presence of” insert “or at the request of”;
 - (b) in paragraph (c) for “without such an officer present” substitute “in any other case”.
 
-### 3. Powers of direction in relation to waste[^key-3c32a35ae88bdd164aa14027eb5528f6]
+### 3. Powers of direction in relation to waste[^c-3c32a35ae88bdd164aa14027eb5528f6]
 
 (1) Section 57 of the Environmental Protection Act 1990 (power to give directions) is amended as follows.
 
@@ -77,11 +77,11 @@ In section 34B(6) of the Environmental Protection Act 1990 (constable’s power 
 
 .
 
-### 4. Powers of entry in relation to pollution control etc[^key-61a6016756b45a81fc95692ebea1d52f]
+### 4. Powers of entry in relation to pollution control etc[^c-61a6016756b45a81fc95692ebea1d52f]
 
 The Environment Act 1995 is amended as follows.
 
-### 5.[^key-cb6481c5b53a00792f87b12a21c386f9]
+### 5.[^c-cb6481c5b53a00792f87b12a21c386f9]
 
 (1) Section 108 (powers of enforcing authorities and their authorised officers) is amended as follows.
 
@@ -146,7 +146,7 @@ The Environment Act 1995 is amended as follows.
   ;
 - (c) in the definition of “**pollution control functions**” in relation to a waste collection authority, in paragraph (a) after “46” insert “to 46D”.
 
-### 6.[^key-834c2aa9dd56dcf2d6594a489b0fdc77]
+### 6.[^c-834c2aa9dd56dcf2d6594a489b0fdc77]
 
 (1) Schedule 18 (supplemental provision about powers of entry) is amended as follows.
 
@@ -168,14 +168,14 @@ The Environment Act 1995 is amended as follows.
 
 ## Annotations
 
-[^key-583824f98ff8a65225d3f1f508f2c9d2]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/1) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-583824f98ff8a65225d3f1f508f2c9d2]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/1) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
 
-[^key-e65fb1ab20d245d8046a5a2457e2ade5]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/2) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-e65fb1ab20d245d8046a5a2457e2ade5]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/2) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
 
-[^key-3c32a35ae88bdd164aa14027eb5528f6]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/3) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-3c32a35ae88bdd164aa14027eb5528f6]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/3) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
 
-[^key-61a6016756b45a81fc95692ebea1d52f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/4) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-61a6016756b45a81fc95692ebea1d52f]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/4) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
 
-[^key-cb6481c5b53a00792f87b12a21c386f9]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/5) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-cb6481c5b53a00792f87b12a21c386f9]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/5) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
 
-[^key-834c2aa9dd56dcf2d6594a489b0fdc77]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/6) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)
+[^c-834c2aa9dd56dcf2d6594a489b0fdc77]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/10/paragraph/6) in force at 9.1.2022, see [s. 147(2)(h)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/h)

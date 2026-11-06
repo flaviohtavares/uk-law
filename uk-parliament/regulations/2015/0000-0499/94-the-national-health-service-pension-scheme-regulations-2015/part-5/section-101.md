@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2fd2bf2394800f4f56464bd7def6ae26] This Chapter applies if—
+(1)[^c-2fd2bf2394800f4f56464bd7def6ae26] This Chapter applies if—
 
 - (a) a person who is a pensioner member of this scheme is employed in NHS employment;
 - (b) the pensioner member's employment is not employment to which the pensioner member was transferred as a result of a transfer of an undertaking to the pensioner member's employer;
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fd2bf2394800f4f56464bd7def6ae26]: Modification: [Reg. 101(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/101/1) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [39](https://www.legislation.gov.uk/uksi/2015/95/regulation/39)
+[^c-2fd2bf2394800f4f56464bd7def6ae26]: Modification: [Reg. 101(1)](https://www.legislation.gov.uk/uksi/2015/94/regulation/101/1) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [39](https://www.legislation.gov.uk/uksi/2015/95/regulation/39)

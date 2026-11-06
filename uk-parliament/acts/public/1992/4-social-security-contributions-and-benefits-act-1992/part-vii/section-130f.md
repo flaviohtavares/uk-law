@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130F. Information provision[^key-85a701279370ab93997fc5d1610cd899]
+## 130F. Information provision[^c-85a701279370ab93997fc5d1610cd899]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85a701279370ab93997fc5d1610cd899]: Textual amendment: [Ss. 130B-130G](https://www.legislation.gov.uk/ukpga/1992/4/section/130B) cease to have effect (31.12.2010) by virtue of [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 31(3)](https://www.legislation.gov.uk/ukpga/2007/5/section/31/3)
+[^c-85a701279370ab93997fc5d1610cd899]: Textual amendment: [Ss. 130B-130G](https://www.legislation.gov.uk/ukpga/1992/4/section/130B) cease to have effect (31.12.2010) by virtue of [Welfare Reform Act 2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), [s. 31(3)](https://www.legislation.gov.uk/ukpga/2007/5/section/31/3)

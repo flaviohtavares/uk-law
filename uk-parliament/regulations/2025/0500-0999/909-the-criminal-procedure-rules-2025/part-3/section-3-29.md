@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.29. Application for joint or separate trials, etc.[^key-8544f1c2cf926f46fc953c1c1ad4203a]
+## 3.29. Application for joint or separate trials, etc.[^c-8544f1c2cf926f46fc953c1c1ad4203a]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ not more than 10 business days after service of the application.
 
 ## Annotations
 
-[^key-8544f1c2cf926f46fc953c1c1ad4203a]: Commencement: [Rule 3.29](https://www.legislation.gov.uk/uksi/2025/909/rule/3.29) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8544f1c2cf926f46fc953c1c1ad4203a]: Commencement: [Rule 3.29](https://www.legislation.gov.uk/uksi/2025/909/rule/3.29) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00135]: Footnote: [1915 c. 90](https://www.legislation.gov.uk/ukpga/1915/90); section 5 was amended by section 12 of, and paragraph 8 of Schedule 2 to, the Bail Act [1976 (c. 63)](https://www.legislation.gov.uk/ukpga/1976/63), section 31 of, and Schedule 2 to, the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23) and section 331 of, and paragraph 40 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

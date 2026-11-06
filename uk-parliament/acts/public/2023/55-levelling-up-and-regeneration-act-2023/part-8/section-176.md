@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Mayoral development corporation as minerals and waste planning authority[^key-0a1e38cfb7d44f0870351bf9f5415934][^key-1eb995c73123e4e73dd6d3d83b909e4d]
+## 176. Mayoral development corporation as minerals and waste planning authority[^c-0a1e38cfb7d44f0870351bf9f5415934][^c-1eb995c73123e4e73dd6d3d83b909e4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a1e38cfb7d44f0870351bf9f5415934]: Commencement: S. 176 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-0a1e38cfb7d44f0870351bf9f5415934]: Commencement: S. 176 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-1eb995c73123e4e73dd6d3d83b909e4d]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/55/section/176) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/c)
+[^c-1eb995c73123e4e73dd6d3d83b909e4d]: Commencement: [S. 176](https://www.legislation.gov.uk/ukpga/2023/55/section/176) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/c)

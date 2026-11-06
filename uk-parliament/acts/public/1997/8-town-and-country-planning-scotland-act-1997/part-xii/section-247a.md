@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 247A. Applications for planning permission by Crown[^key-8e70629478cf50b8044eb76d22ab0401]
+## 247A. Applications for planning permission by Crown[^c-8e70629478cf50b8044eb76d22ab0401]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e70629478cf50b8044eb76d22ab0401]: Textual amendment: S. 247A inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 10(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/10/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-8e70629478cf50b8044eb76d22ab0401]: Textual amendment: S. 247A inserted (20.3.2006 for specified purposes, 12.6.2006 in so far as not already in force) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 10(1)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/10/1) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2), [sch.](https://www.legislation.gov.uk/ssi/2006/101/schedule); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)

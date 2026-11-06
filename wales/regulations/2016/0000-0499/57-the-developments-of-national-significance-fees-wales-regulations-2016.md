@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Developments of National Significance (Fees) (Wales) Regulations 2016 (revoked)[^key-411d4019c751ec0f6bc9979a7e0121c2]
+The Developments of National Significance (Fees) (Wales) Regulations 2016 (revoked)[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 Made
 
@@ -41,63 +41,63 @@ Coming into force
 
 1 March 2016
 
-[^key-411d4019c751ec0f6bc9979a7e0121c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-411d4019c751ec0f6bc9979a7e0121c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 1. Title, commencement and application[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 2. Interpretation[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fee for local planning authorities’ pre-application services[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 3. Fee for local planning authorities’ pre-application services[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Fee for Welsh Ministers’ pre-application services[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 4. Fee for Welsh Ministers’ pre-application services[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Fee for notification of a proposed application[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 5. Fee for notification of a proposed application[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fee for making an application[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 6. Fee for making an application[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Initial fee for an application[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 7. Initial fee for an application[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Fee for a local impact report[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 8. Fee for a local impact report[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Remission and refund of report fee[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 9. Remission and refund of report fee[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Fee for examining an application[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 10. Fee for examining an application[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Fee for notification of intention to vary[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 11. Fee for notification of intention to vary[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Fee for the Welsh Ministers determining an application[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## 12. Fee for the Welsh Ministers determining an application[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-411d4019c751ec0f6bc9979a7e0121c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-411d4019c751ec0f6bc9979a7e0121c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amounts Payable in Respect of Fees for Developments of National Significance[^key-411d4019c751ec0f6bc9979a7e0121c2]
+## SCHEDULE — Amounts Payable in Respect of Fees for Developments of National Significance[^c-411d4019c751ec0f6bc9979a7e0121c2]
 
 Regulations 3(2), 4(3), 5(2), 7(2), 8(2), 10(2)(a)(i), 10(2)(a)(ii), 11(2), and 12(3)
 
@@ -105,8 +105,8 @@ Regulations 3(2), 4(3), 5(2), 7(2), 8(2), 10(2)(a)(i), 10(2)(a)(ii), 11(2), and 
 
 **May not be in force at this date. Check the source.**
 
-[^key-411d4019c751ec0f6bc9979a7e0121c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-411d4019c751ec0f6bc9979a7e0121c2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-411d4019c751ec0f6bc9979a7e0121c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2016/57) revoked (14.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a), [21(e)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21/e) (with [reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22))
+[^c-411d4019c751ec0f6bc9979a7e0121c2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2016/57) revoked (14.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/a), [21(e)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/21/e) (with [reg. 22](https://www.legislation.gov.uk/wsi/2025/1192/regulation/22))

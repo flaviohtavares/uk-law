@@ -28,7 +28,7 @@ Section 63.
 
 **1.** (1) A National Park authority shall be a body corporate.
 
-(2)[^key-678395888ec79b279e6ba4e748e8906d] A National Park authority shall consist of—
+(2)[^c-678395888ec79b279e6ba4e748e8906d] A National Park authority shall consist of—
 
 - (a) a specified number of local authority members,
 - (b) in the case of a National Park in England, a specified number of parish members to be appointed by the Secretary of State, and
@@ -59,14 +59,14 @@ must exceed the number of other members.
 
 the Secretary of State shall consult the council for every principal area the whole or any part of which is comprised in the relevant Park; and the Secretary of State may make provision for excluding the council for any such area from the councils by whom the local authority members of a National Park authority are to be appointed only at the request of that council.
 
-(4) A person shall not be appointed as a local authority member of a National Park authority unless he is a member of a principal council the area of which is wholly or partly comprised in the relevant Park; and, in appointing local authority members of a National Park authority, a principal council shall have regard to the desirability of appointing members of the council who represent wards, or (in Wales) electoral wards[^key-41ce340280e703fee438ba54e8684a6a], situated wholly or partly within the relevant Park.
+(4) A person shall not be appointed as a local authority member of a National Park authority unless he is a member of a principal council the area of which is wholly or partly comprised in the relevant Park; and, in appointing local authority members of a National Park authority, a principal council shall have regard to the desirability of appointing members of the council who represent wards, or (in Wales) electoral wards[^c-41ce340280e703fee438ba54e8684a6a], situated wholly or partly within the relevant Park.
 
 (5) Subject to the following provisions of this Schedule, where a person who qualifies for his appointment by virtue of his membership of any council is appointed as a local authority member of a National Park authority—
 
 - (a) he shall hold office from the time of his appointment until he ceases to be a member of that council; but
 - (b) his appointment may, before any such cessation, be terminated for the purposes of, and in accordance with, sections 15 to 17 of the [^c14543571]Local Government and Housing Act 1989 (political balance).
 
-(5A)[^key-803e2f933f3c7541a6f12bbbf054f768] Sub-paragraph (5B) applies to a person who retires from being a member of a council by virtue of an election.
+(5A)[^c-803e2f933f3c7541a6f12bbbf054f768] Sub-paragraph (5B) applies to a person who retires from being a member of a council by virtue of an election.
 
 (5B) Sub-paragraph (5)(a) does not terminate his office as member of a National Park authority until—
 
@@ -98,7 +98,7 @@ but if he is re-elected he is eligible for re-appointment to the National Park a
 
 (3) Subject to the following provisions of this Schedule, where a person who qualifies for his appointment by virtue of his membership of a parish council is appointed as a parish member of an English National Park authority, he shall hold office from the time of his appointment until he ceases to be a member of that parish council.
 
-(4A)[^key-b4408243325a3603cd3ee0a8ee43c787] Sub-paragraph (4B) applies to a person who retires from being a member of a parish council by virtue of an election.
+(4A)[^c-b4408243325a3603cd3ee0a8ee43c787] Sub-paragraph (4B) applies to a person who retires from being a member of a parish council by virtue of an election.
 
 (4B) Sub-paragraph (3) does not terminate his office as member of a National Park authority until—
 
@@ -109,7 +109,7 @@ but if he is re-elected he is eligible for re-appointment to the National Park a
 
 (5) Subject to the following provisions of this Schedule, where a person who qualifies for his appointment by virtue of his being the chairman of a parish meeting is appointed as a parish member of an English National Park authority, he shall hold office from the time of his appointment until he ceases to be the chairman of that parish meeting.
 
-(5A)[^key-983559ac17551db408468ed62b4284f7] Sub-paragraph (5B) applies to a person who retires from being chairman of a parish meeting by virtue of an election.
+(5A)[^c-983559ac17551db408468ed62b4284f7] Sub-paragraph (5B) applies to a person who retires from being chairman of a parish meeting by virtue of an election.
 
 (5B) Sub-paragraph (5) does not terminate his office as member of a National Park authority until—
 
@@ -126,11 +126,11 @@ but if he is re-elected as chairman he is eligible for re-appointment to the Nat
 
 *Extent: E+W*
 
-**4.** (1) Before appointing any person as a member of a National Park authority the Secretary of State shall consult, according to whether the relevant Park is in England or in Wales, either Natural England[^key-29d198aa169016673c53196d90165746] or the Natural Resources Body for Wales[^key-c99e7e83ef1900421ff0d30c807863de].
+**4.** (1) Before appointing any person as a member of a National Park authority the Secretary of State shall consult, according to whether the relevant Park is in England or in Wales, either Natural England[^c-29d198aa169016673c53196d90165746] or the Natural Resources Body for Wales[^c-c99e7e83ef1900421ff0d30c807863de].
 
 (2) Subject to the following provisions of this Schedule, a person appointed as a member of a National Park authority by the Secretary of State—
 
-- (a) shall hold office for such period of not less than one year nor more than four years[^key-368be0a05845b7ab62676cc2ce9a5c96] as may be specified in the terms of his appointment; but
+- (a) shall hold office for such period of not less than one year nor more than four years[^c-368be0a05845b7ab62676cc2ce9a5c96] as may be specified in the terms of his appointment; but
 - (b) on ceasing to hold office shall be eligible for re-appointment.
 
 (3) The term of office of a person appointed by the Secretary of State to fill such a vacancy in the membership of a National Park authority as occurs where a person appointed by the Secretary of State ceases to be a member of the authority before the end of his term of office may be for a period of less than one year if it is made to expire with the time when the term of office of the person in respect of whom the vacancy has arisen would have expired.
@@ -145,7 +145,7 @@ but if he is re-elected as chairman he is eligible for re-appointment to the Nat
 
 **5.** (1) The members of a National Park authority shall elect, from amongst their members, both a chairman and a deputy chairman of the authority.
 
-(2)[^key-5785ff6ad090eec6d6fd8242efd9957c] Subject to sub-paragraphs (3) and (4) below, the chairman and deputy chairman of a National Park authority shall be elected for a period not exceeding one year; but a person so elected shall, on ceasing to hold office at the end of his term of office as chairman or deputy chairman, be eligible for re-election.
+(2)[^c-5785ff6ad090eec6d6fd8242efd9957c] Subject to sub-paragraphs (3) and (4) below, the chairman and deputy chairman of a National Park authority shall be elected for a period not exceeding one year; but a person so elected shall, on ceasing to hold office at the end of his term of office as chairman or deputy chairman, be eligible for re-election.
 
 (3) A person shall cease to hold office as chairman or deputy chairman of a National Park authority if he ceases to be a member of the authority.
 
@@ -189,7 +189,7 @@ but a parish member shall only be removed from office in the manner mentioned in
 - (a) references in that section to a local government elector for the area concerned were references to a local government elector for any principal area the whole or any part of which is comprised in the relevant Park; and
 - (b) in subsection (6)(b) of that section (failure to deliver declaration of acceptance of office), the words from “of failure” to “or by reason” were omitted.
 
-(4) Sections 1 to 3A[^key-0c85d6fe5f06c40f0c39bde1aa0c6261] of the [^c14543631]Local Government and Housing Act 1989 (disqualification of persons holding politically restricted posts) shall have effect as if a National Park authority were a local authority for the purposes of Part I of that Act.
+(4) Sections 1 to 3A[^c-0c85d6fe5f06c40f0c39bde1aa0c6261] of the [^c14543631]Local Government and Housing Act 1989 (disqualification of persons holding politically restricted posts) shall have effect as if a National Park authority were a local authority for the purposes of Part I of that Act.
 
 (5) In Part III of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices), in the [^c14543641]entry inserted by section 1(2) of that Act of 1989 (politically restricted post), after “that Part” there shall be inserted “ or a National Park authority ”.
 
@@ -203,21 +203,21 @@ but a parish member shall only be removed from office in the manner mentioned in
 
 *Extent: E+W*
 
-**9.**[^key-d857521e7c073bcafad4c4d19b745407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-d857521e7c073bcafad4c4d19b745407] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Restrictions on voting on account of interests etc.
 
 *Extent: E+W*
 
-**10.**[^key-55c62055205fde6129570a35ad8b92d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-55c62055205fde6129570a35ad8b92d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Allowances and time off for members
 
 *Extent: E+W*
 
-**11.** (1)[^key-b9c1ea618fa2a03b0301b18c189fe304] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.** (1)[^c-b9c1ea618fa2a03b0301b18c189fe304] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-b9c1ea618fa2a03b0301b18c189fe304] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b9c1ea618fa2a03b0301b18c189fe304] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) [^c14543781]. . .section 10 of that Act of 1989 (limit on paid leave for local authority duties) shall have effect as if a National Park authority were a relevant council for the purposes of that section.
 
@@ -293,11 +293,11 @@ and section 7 of that Act (staff to be appointed on merit) shall apply to any ap
 (2) For the purposes of this paragraph a National Park authority may adopt—
 
 - (a) any appointment which an existing authority has made under paragraph 15 of Schedule 17 to the 1972 Act in relation to any area wholly or partly comprised in the relevant Park; or
-- (b)[^key-56ea124afe95eb87fff6b7970a956e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-56ea124afe95eb87fff6b7970a956e14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Before making or adopting an appointment under this paragraph or assigning additional responsibilities to a person holding such an appointment, a National Park authority shall consult, according to whether the Park in question is in England or in Wales, either Natural England[^key-240fb2feb50de8e4a7b13478a9621a2a] or the Natural Resources Body for Wales[^key-adc5c71be28dc64b9f7229148f577177].
+(3) Before making or adopting an appointment under this paragraph or assigning additional responsibilities to a person holding such an appointment, a National Park authority shall consult, according to whether the Park in question is in England or in Wales, either Natural England[^c-240fb2feb50de8e4a7b13478a9621a2a] or the Natural Resources Body for Wales[^c-adc5c71be28dc64b9f7229148f577177].
 
-(4)[^key-6aee5182eb6b7e298189b330535dc0f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6aee5182eb6b7e298189b330535dc0f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A person who holds office with a National Park authority by virtue of an appointment made or adopted under this paragraph—
 
@@ -339,8 +339,8 @@ for the purpose of informing and consulting that council about the authority’s
 - (a) sections 224 and 225(1) (custody and deposit of documents with a proper officer of the local authority),
 - (b) sections 228 and 229 (inspection of documents and photocopies),
 - (c) section 230 (reports and returns),
-- (d) sections 231 , 232 (other than subsection (1)(c)), 233 and 234[^key-fb0a6be3d7f56f15ae036872082777bd] (service and authentication of documents), and
-- (e) without prejudice to their application by virtue of any other provision of Part III of this Act, in the case of National Park authorities in England,[^key-9f38fd12b06d75fe9207b02c1dedbd04] sections 236 to 238 (byelaws),
+- (d) sections 231 , 232 (other than subsection (1)(c)), 233 and 234[^c-fb0a6be3d7f56f15ae036872082777bd] (service and authentication of documents), and
+- (e) without prejudice to their application by virtue of any other provision of Part III of this Act, in the case of National Park authorities in England,[^c-9f38fd12b06d75fe9207b02c1dedbd04] sections 236 to 238 (byelaws),
 
 shall have effect as if for the purposes of those provisions a National Park authority were a local authority or, in the case of section 224, a principal council.
 
@@ -348,7 +348,7 @@ shall have effect as if for the purposes of those provisions a National Park aut
 
 (4) Section 41 of the [^c14543901]Local Government (Miscellaneous Provisions) Act 1976 (evidence of resolutions and minutes of proceedings) shall have effect as if a National Park authority were a local authority for the purposes of that Act.
 
-(5) Where a National Park authority in England[^key-565910036b732f337b726cd3168124dc] has made any byelaws and those byelaws have been confirmed, that authority shall send a copy of the byelaws as confirmed to every council for a principal area the whole or any part of which is comprised in the relevant Park.
+(5) Where a National Park authority in England[^c-565910036b732f337b726cd3168124dc] has made any byelaws and those byelaws have been confirmed, that authority shall send a copy of the byelaws as confirmed to every council for a principal area the whole or any part of which is comprised in the relevant Park.
 
 ### Investigation in connection with maladministration etc.
 
@@ -366,7 +366,7 @@ shall have effect as if for the purposes of those provisions a National Park aut
 
 .
 
-(3)[^key-7fccd9eea0eddc2af82b3a51dbb4ed3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7fccd9eea0eddc2af82b3a51dbb4ed3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Audit by Audit Commission auditor etc.
 
@@ -386,43 +386,43 @@ shall have effect as if for the purposes of those provisions a National Park aut
 
 ## Annotations
 
-[^key-678395888ec79b279e6ba4e748e8906d]: Textual amendment: Sch. 7 para. 1(2)(3) substituted for Sch. 7 para. 1(2)-(6) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/2), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
+[^c-678395888ec79b279e6ba4e748e8906d]: Textual amendment: Sch. 7 para. 1(2)(3) substituted for Sch. 7 para. 1(2)-(6) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/2), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
 
-[^key-41ce340280e703fee438ba54e8684a6a]: Textual amendment: Word in [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/2/4) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/7)
+[^c-41ce340280e703fee438ba54e8684a6a]: Textual amendment: Word in [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/2/4) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 7](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/7)
 
 [^c14543571]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-803e2f933f3c7541a6f12bbbf054f768]: Textual amendment: Sch. 7 para. 2(5A)(5B) substituted for Sch. 7 para. 2(6) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/3), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
+[^c-803e2f933f3c7541a6f12bbbf054f768]: Textual amendment: Sch. 7 para. 2(5A)(5B) substituted for Sch. 7 para. 2(6) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/3), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
 
 [^c14543591]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-b4408243325a3603cd3ee0a8ee43c787]: Textual amendment: Sch. 7 para. 3(4A)(4B) substituted for Sch. 7 para. 3(4) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/4), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
+[^c-b4408243325a3603cd3ee0a8ee43c787]: Textual amendment: Sch. 7 para. 3(4A)(4B) substituted for Sch. 7 para. 3(4) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/4), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
 
-[^key-983559ac17551db408468ed62b4284f7]: Textual amendment: Sch. 7 para. 3(5A)(5B) substituted for Sch. 7 para. 3(6) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(5)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/5), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
+[^c-983559ac17551db408468ed62b4284f7]: Textual amendment: Sch. 7 para. 3(5A)(5B) substituted for Sch. 7 para. 3(6) (10.5.2007) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(5)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/5), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2007/816](https://www.legislation.gov.uk/uksi/2007/816), [art. 3](https://www.legislation.gov.uk/uksi/2007/816/article/3)
 
-[^key-29d198aa169016673c53196d90165746]: Textual amendment: Words in Sch. 7 para. 4(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 146](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/146); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-29d198aa169016673c53196d90165746]: Textual amendment: Words in Sch. 7 para. 4(1) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 146](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/146); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-c99e7e83ef1900421ff0d30c807863de]: Textual amendment: Words in [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/4/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 386](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/386) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c99e7e83ef1900421ff0d30c807863de]: Textual amendment: Words in [Sch. 7 para. 4(1)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/4/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 386](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/386) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-368be0a05845b7ab62676cc2ce9a5c96]: Textual amendment: Words in Sch. 7 para. 4(2)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(6)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/6), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-368be0a05845b7ab62676cc2ce9a5c96]: Textual amendment: Words in Sch. 7 para. 4(2)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [ss. 61(6)](https://www.legislation.gov.uk/ukpga/2006/16/section/61/6), [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-5785ff6ad090eec6d6fd8242efd9957c]: Modification: Sch. 7 para. 5(2) modified (W.) (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2020/442/regulation/12)
+[^c-5785ff6ad090eec6d6fd8242efd9957c]: Modification: Sch. 7 para. 5(2) modified (W.) (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [12](https://www.legislation.gov.uk/wsi/2020/442/regulation/12)
 
 [^c14543611]: Commencement: Sch. 7 para. 7 wholly in force at 1.4.1997; Sch. 7 para. 7(1)(3)-(5) in force at Royal Assent see s. 125(2); Sch. 7 para. 7(2) in force at 1.4.1997 by [S.I. 1996/2560](https://www.legislation.gov.uk/uksi/1996/2560), [art. 2](https://www.legislation.gov.uk/uksi/1996/2560/article/2)
 
 [^c14543621]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-0c85d6fe5f06c40f0c39bde1aa0c6261]: Textual amendment: Word in Sch. 7 para. 7(4) substituted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 203(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/203/2), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(m)](https://www.legislation.gov.uk/uksi/2008/172/article/4/m)
+[^c-0c85d6fe5f06c40f0c39bde1aa0c6261]: Textual amendment: Word in Sch. 7 para. 7(4) substituted (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 203(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/203/2), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 4(m)](https://www.legislation.gov.uk/uksi/2008/172/article/4/m)
 
 [^c14543631]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^c14543641]: Marginal citation: [1975 c. 24](https://www.legislation.gov.uk/ukpga/1975/24).
 
-[^key-d857521e7c073bcafad4c4d19b745407]: Textual amendment: Sch. 7 para. 9 repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/b/iv)
+[^c-d857521e7c073bcafad4c4d19b745407]: Textual amendment: Sch. 7 para. 9 repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/b/iv)
 
-[^key-55c62055205fde6129570a35ad8b92d4]: Textual amendment: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/10) repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/b/iv)
+[^c-55c62055205fde6129570a35ad8b92d4]: Textual amendment: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/10) repealed (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2012/1358/article/2/b/iv)
 
-[^key-b9c1ea618fa2a03b0301b18c189fe304]: Textual amendment: Sch. 7 para. 11(1)(2) repealed (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/mwa/2011/4/schedule/3/paragraph/3), [Sch. 4 Pt. F](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/F); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(q)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/q)[(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m)
+[^c-b9c1ea618fa2a03b0301b18c189fe304]: Textual amendment: Sch. 7 para. 11(1)(2) repealed (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [s. 178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/mwa/2011/4/schedule/3/paragraph/3), [Sch. 4 Pt. F](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/F); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(q)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/q)[(2)(m)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/2/m)
 
 [^c14543781]: Textual amendment: Words in Sch. 7 para. 11(3) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
@@ -434,13 +434,13 @@ shall have effect as if for the purposes of those provisions a National Park aut
 
 [^c14543821]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-56ea124afe95eb87fff6b7970a956e14]: Textual amendment: [Sch. 7 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/14/2/b) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(6)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/6/a)
+[^c-56ea124afe95eb87fff6b7970a956e14]: Textual amendment: [Sch. 7 para. 14(2)(b)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/14/2/b) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(6)(a)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/6/a)
 
-[^key-240fb2feb50de8e4a7b13478a9621a2a]: Textual amendment: Words in Sch. 7 para. 14(3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 146](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/146); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-240fb2feb50de8e4a7b13478a9621a2a]: Textual amendment: Words in Sch. 7 para. 14(3) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 146](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/146); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-adc5c71be28dc64b9f7229148f577177]: Textual amendment: Words in [Sch. 7 para. 14(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/14/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 386](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/386) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-adc5c71be28dc64b9f7229148f577177]: Textual amendment: Words in [Sch. 7 para. 14(3)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/14/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 386](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/386) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-6aee5182eb6b7e298189b330535dc0f7]: Textual amendment: [Sch. 7 para. 14(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/14/4) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(6)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/6/b)
+[^c-6aee5182eb6b7e298189b330535dc0f7]: Textual amendment: [Sch. 7 para. 14(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/14/4) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(6)(b)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/6/b)
 
 [^c14543871]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -448,16 +448,16 @@ shall have effect as if for the purposes of those provisions a National Park aut
 
 [^c14543891]: Marginal citation: [1962 c. 56](https://www.legislation.gov.uk/ukpga/1962/56).
 
-[^key-fb0a6be3d7f56f15ae036872082777bd]: Textual amendment: Words in [Sch. 7 para. 17(2)(d)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/17/2/d) substituted (1.5.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 18](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/18); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)
+[^c-fb0a6be3d7f56f15ae036872082777bd]: Textual amendment: Words in [Sch. 7 para. 17(2)(d)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/7/paragraph/17/2/d) substituted (1.5.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 4 para. 18](https://www.legislation.gov.uk/asc/2021/1/schedule/4/paragraph/18); [S.I. 2021/354](https://www.legislation.gov.uk/wsi/2021/354), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/354/regulation/2/c)
 
-[^key-9f38fd12b06d75fe9207b02c1dedbd04]: Textual amendment: Words in Sch. 7 para. 17(2)(e) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/16/2); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-9f38fd12b06d75fe9207b02c1dedbd04]: Textual amendment: Words in Sch. 7 para. 17(2)(e) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/16/2); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
 [^c14543901]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
-[^key-565910036b732f337b726cd3168124dc]: Textual amendment: Words in Sch. 7 para. 17(5) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/16/3); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
+[^c-565910036b732f337b726cd3168124dc]: Textual amendment: Words in Sch. 7 para. 17(5) inserted (31.3.2015) by [Local Government Byelaws (Wales) Act 2012 (anaw 2)](https://www.legislation.gov.uk/anaw/2012/2), [s. 22(2)](https://www.legislation.gov.uk/anaw/2012/2/section/22/2), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/anaw/2012/2/schedule/2/paragraph/16/3); [S.I. 2015/1025](https://www.legislation.gov.uk/wsi/2015/1025), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/1025/article/2/r) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1025/article/3))
 
 [^c14543911]: Marginal citation: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
-[^key-7fccd9eea0eddc2af82b3a51dbb4ed3a]: Textual amendment: Sch. 7 para. 18(3) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
+[^c-7fccd9eea0eddc2af82b3a51dbb4ed3a]: Textual amendment: Sch. 7 para. 18(3) repealed (1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 18 Pt. 14](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/14); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(v)(ii)](https://www.legislation.gov.uk/uksi/2008/917/article/2/v/ii)
 
 [^c14543941]: Textual amendment: Sch. 7 para. 19 repealed (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch. 5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5)

@@ -45,12 +45,12 @@ for the period to which the account relates.
 
 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 1 on the standard scale[^c16934561], unless he proves that he had reasonable grounds to believe, and did believe, that a competent and reliable person was charged with the duty of seeing that the relevant provision was complied with and was in a position to discharge that duty.
 
-(7)[^key-f5b31fe2a766821e2d2aa0eae093e1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f5b31fe2a766821e2d2aa0eae093e1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-f5b31fe2a766821e2d2aa0eae093e1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-f5b31fe2a766821e2d2aa0eae093e1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c16934561]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-f5b31fe2a766821e2d2aa0eae093e1ea]: Textual amendment: S. 37(7)(8) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 48](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/48)
+[^c-f5b31fe2a766821e2d2aa0eae093e1ea]: Textual amendment: S. 37(7)(8) omitted (23.4.2016) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(1)](https://www.legislation.gov.uk/nia/2016/16/section/17/1), [Sch. 1 para. 48](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/48)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Bus stations: restrictions on discriminatory practices, etc.[^key-27890099608df53aa49f7782fbd18013][^key-e51fdfaa01a65e0933d0cdb7bc3709de][^key-27890099608df53aa49f7782fbd18013]
+## 82. Bus stations: restrictions on discriminatory practices, etc.[^c-27890099608df53aa49f7782fbd18013][^c-e51fdfaa01a65e0933d0cdb7bc3709de][^c-27890099608df53aa49f7782fbd18013]
 
 *Extent: E+W+S*
 
@@ -38,7 +38,7 @@ act in such a way as to discriminate (whether directly or indirectly) against an
 
 (4) The reservation of the whole or any part of the accommodation for public service vehicles at any bus station for such vehicles used in providing local services or (as the case may be) for such vehicles used in providing services other than local services shall not be taken to be discrimination prohibited by subsection (1) or (3) above.
 
-(4A)[^c10880501] Nothing done pursuant to an advanced quality partnership scheme or *(Extent: E+W)*[^key-db31f34fe1d7ddac21082f3b8f690083] a quality partnership scheme under Part II of the Transport Act 2000 by—
+(4A)[^c10880501] Nothing done pursuant to an advanced quality partnership scheme or *(Extent: E+W)*[^c-db31f34fe1d7ddac21082f3b8f690083] a quality partnership scheme under Part II of the Transport Act 2000 by—
 
 - (a) a Passenger Transport Executive,
 - (b) a local authority, or
@@ -69,15 +69,15 @@ by a person who is the operator of any public passenger transport services or a 
 
 ## Annotations
 
-[^key-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-27890099608df53aa49f7782fbd18013]: Modification: Pt. 4: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-e51fdfaa01a65e0933d0cdb7bc3709de]: Modification: [Ss. 80-87](https://www.legislation.gov.uk/ukpga/1985/67/section/80): functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/2) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/3))
+[^c-e51fdfaa01a65e0933d0cdb7bc3709de]: Modification: [Ss. 80-87](https://www.legislation.gov.uk/ukpga/1985/67/section/80): functions transferred (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/2) (with [reg. 14(3)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/3))
 
 [^c10880491]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
 [^c10880501]: Textual amendment: S. 82(4A) inserted (E.W.) (1.8.2001 for W. and 26.10.2001 for E.) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 161](https://www.legislation.gov.uk/ukpga/2000/38/section/161), [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2000/38/schedule/11/paragraph/14); [S.I. 2001/2788](https://www.legislation.gov.uk/uksi/2001/2788), [art. 2](https://www.legislation.gov.uk/uksi/2001/2788/article/2), [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2001/2788/schedule/1/paragraph/11); [S.I. 2001/3342](https://www.legislation.gov.uk/uksi/2001/3342), [art. 2](https://www.legislation.gov.uk/uksi/2001/3342/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3342/schedule)
 
-[^key-db31f34fe1d7ddac21082f3b8f690083]: Textual amendment: Words in [s. 82(4A)](https://www.legislation.gov.uk/ukpga/1985/67/section/82/4A) inserted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/21/schedule/1/paragraph/5)
+[^c-db31f34fe1d7ddac21082f3b8f690083]: Textual amendment: Words in [s. 82(4A)](https://www.legislation.gov.uk/ukpga/1985/67/section/82/4A) inserted (E.W.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Bus Services Act 2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21), [s. 26(3)](https://www.legislation.gov.uk/ukpga/2017/21/section/26/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2017/21/schedule/1/paragraph/5)
 
 [^c10880511]: Textual amendment: S. 82(4A) inserted (S.) (1.7.2001) by [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2), [s. 83](https://www.legislation.gov.uk/asp/2001/2/section/83), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/asp/2001/2/schedule/2/paragraph/4/4)(with s. 66); [S.S.I. 2001/132](https://www.legislation.gov.uk/ssi/2001/132), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/132/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/132/schedule/part/II)
 

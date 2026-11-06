@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Temporary closure of streets[^key-c0a6ccdf893826abb9e95374a5f473d4]
+## 11. Temporary closure of streets[^c-c0a6ccdf893826abb9e95374a5f473d4]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0a6ccdf893826abb9e95374a5f473d4]: Commencement: Art. 11 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-c0a6ccdf893826abb9e95374a5f473d4]: Commencement: Art. 11 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

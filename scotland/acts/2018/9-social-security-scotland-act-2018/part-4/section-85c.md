@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85C. Guidelines for decisions about appointees[^key-591edd880f951403a625c532caa06448]
+## 85C. Guidelines for decisions about appointees[^c-591edd880f951403a625c532caa06448]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-591edd880f951403a625c532caa06448]: Textual amendment: S. 85C inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(5)](https://www.legislation.gov.uk/asp/2020/18/section/2/5), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/a)
+[^c-591edd880f951403a625c532caa06448]: Textual amendment: S. 85C inserted (26.7.2021) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 2(5)](https://www.legislation.gov.uk/asp/2020/18/section/2/5), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2021/232](https://www.legislation.gov.uk/ssi/2021/232), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/232/regulation/2/a)

@@ -24,7 +24,7 @@ summary: ''
 
 > **513. Rights of auditor who has been removed from office**
 >
-> (1) An auditor who has been removed by the members under section 510 or by order of the court under section 511A[^key-89f27d958377b8a6068123c5fe273ebd] has, notwithstanding his removal, the rights conferred by section 502(1) in relation to any meeting of the LLP—
+> (1) An auditor who has been removed by the members under section 510 or by order of the court under section 511A[^c-89f27d958377b8a6068123c5fe273ebd] has, notwithstanding his removal, the rights conferred by section 502(1) in relation to any meeting of the LLP—
 >
 > - (a) at which his term of office would otherwise have expired, or
 > - (b) at which it is proposed to fill the vacancy caused by his removal.
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89f27d958377b8a6068123c5fe273ebd]: Textual amendment: Words in reg. 44 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/17) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-89f27d958377b8a6068123c5fe273ebd]: Textual amendment: Words in reg. 44 inserted (with effect in accordance with reg. 2(5)(a) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2017/1164/schedule/3/paragraph/17) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

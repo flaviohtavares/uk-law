@@ -31,7 +31,7 @@ summary: ''
 
 Pensions, England And Wales
 
-The Local Government Pension Scheme (Administration) (Amendment) Regulations 2009 (revoked)[^key-5b1bcf6a53c376beaeefef744367b594]
+The Local Government Pension Scheme (Administration) (Amendment) Regulations 2009 (revoked)[^c-5b1bcf6a53c376beaeefef744367b594]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st April 2009
 
-[^key-5b1bcf6a53c376beaeefef744367b594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b1bcf6a53c376beaeefef744367b594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-5b1bcf6a53c376beaeefef744367b594]
+## 1. Citation, commencement and application[^c-5b1bcf6a53c376beaeefef744367b594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^key-5b1bcf6a53c376beaeefef744367b594]
+## 2. Amendment of the Local Government Pension Scheme (Administration) Regulations 2008[^c-5b1bcf6a53c376beaeefef744367b594]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5b1bcf6a53c376beaeefef744367b594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5b1bcf6a53c376beaeefef744367b594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5b1bcf6a53c376beaeefef744367b594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5b1bcf6a53c376beaeefef744367b594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5b1bcf6a53c376beaeefef744367b594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b1bcf6a53c376beaeefef744367b594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5b1bcf6a53c376beaeefef744367b594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b1bcf6a53c376beaeefef744367b594]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b1bcf6a53c376beaeefef744367b594]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/447) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/525/regulation/3))
+[^c-5b1bcf6a53c376beaeefef744367b594]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/447) revoked (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/525/schedule/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/525/regulation/3))

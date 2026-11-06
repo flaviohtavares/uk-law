@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Appointment of manager of registered social landlord[^key-3b36a25be4673ec2ec20fc0ef63c202c][^key-836557ff7d6a82f21e230de5f43cf14a]
+## 76. Appointment of manager of registered social landlord[^c-3b36a25be4673ec2ec20fc0ef63c202c][^c-836557ff7d6a82f21e230de5f43cf14a]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ After paragraph 15E of Schedule 1 to the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-3b36a25be4673ec2ec20fc0ef63c202c]: Commencement: [S. 76](https://www.legislation.gov.uk/mwa/2011/5/section/76) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(q)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/q)
+[^c-3b36a25be4673ec2ec20fc0ef63c202c]: Commencement: [S. 76](https://www.legislation.gov.uk/mwa/2011/5/section/76) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(q)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/q)
 
-[^key-836557ff7d6a82f21e230de5f43cf14a]: Commencement: [S. 76](https://www.legislation.gov.uk/mwa/2011/5/section/76) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(i)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/i)
+[^c-836557ff7d6a82f21e230de5f43cf14a]: Commencement: [S. 76](https://www.legislation.gov.uk/mwa/2011/5/section/76) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(i)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/i)

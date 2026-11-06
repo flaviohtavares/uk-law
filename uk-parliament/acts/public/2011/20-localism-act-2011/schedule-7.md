@@ -24,30 +24,30 @@ Section 79
 
 ### Local Government Finance Act 1988 (c. 41)
 
-**1.**[^key-ca2a6e013ce7e5bd1544722ae2417f96] The Local Government Finance Act 1988 is amended as follows.
+**1.**[^c-ca2a6e013ce7e5bd1544722ae2417f96] The Local Government Finance Act 1988 is amended as follows.
 
-**2.**[^key-6a975aee6f077bec2e328321cf60ec91] In section 74(4) (levies)—
+**2.**[^c-6a975aee6f077bec2e328321cf60ec91] In section 74(4) (levies)—
 
 - (a) in paragraph (a) after “section” insert “ 31A or ”, and
 - (b) in paragraph (b) after “section” insert “ 42A or ”.
 
-**3.**[^key-66804c3d7495a83fa06a5cbaf2cb0905] In section 75(6)(a) (special levies) after “section” insert “ 31A or ”.
+**3.**[^c-66804c3d7495a83fa06a5cbaf2cb0905] In section 75(6)(a) (special levies) after “section” insert “ 31A or ”.
 
-**4.**[^key-706f890147918fb14594899337d43227] In section 97(1) (principal transfers between funds)—
+**4.**[^c-706f890147918fb14594899337d43227] In section 97(1) (principal transfers between funds)—
 
 - (a) for “32 to 36” substitute “ 31A, 31B and 34 to 36 ”,
 - (b) in the definition of item B for “33(1)” substitute “ 31B(1) ”, and
 - (c) in the definition of item T for “33(1)” substitute “ 31B(1) ”.
 
-**5.**[^key-0c932b093c3b15cce67c7ac17b404fe5] In section 99(4) (regulations about funds) for “32(4)” substitute “ 31A(4) ”.
+**5.**[^c-0c932b093c3b15cce67c7ac17b404fe5] In section 99(4) (regulations about funds) for “32(4)” substitute “ 31A(4) ”.
 
-**6.**[^key-892643b6a4124fd95dbde8a70232e798] In Schedule 7 (non-domestic rating: multipliers) in paragraph 9(4) in the definition of item C for “32(4)” substitute “ 31A(4) ”.
+**6.**[^c-892643b6a4124fd95dbde8a70232e798] In Schedule 7 (non-domestic rating: multipliers) in paragraph 9(4) in the definition of item C for “32(4)” substitute “ 31A(4) ”.
 
 ### Local Government Finance Act 1992 (c. 14)
 
-**7.**[^key-7dd3a441cf022e6869628b08cf055219] The Local Government Finance Act 1992 is amended as follows.
+**7.**[^c-7dd3a441cf022e6869628b08cf055219] The Local Government Finance Act 1992 is amended as follows.
 
-**8.**[^key-d4e39760bd46b99a52ad30e25458dc43] (1) Section 30 (amounts of council tax for different categories of dwelling) is amended as follows.
+**8.**[^c-d4e39760bd46b99a52ad30e25458dc43] (1) Section 30 (amounts of council tax for different categories of dwelling) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -73,9 +73,9 @@ Section 79
 > - (a) in the case of a billing authority in England, sections 31A, 31B and 34 to 36 below, or sections 42A, 42B and 45 to 47 below, or both, or
 > - (b) in the case of a billing authority in Wales, sections 32 to 36 below, or sections 43 to 47 below, or both.
 
-**9.**[^key-c9feac1f0c1e320c5b5d90c56380750e] In section 31(1)(a) (substituted amounts) after “ section ” insert “ 36A, ”.
+**9.**[^c-c9feac1f0c1e320c5b5d90c56380750e] In section 31(1)(a) (substituted amounts) after “ section ” insert “ 36A, ”.
 
-**10.**[^key-9176d5da81a8a445f221c74fe99932b3] (1) Section 32 (calculation of budget requirement by billing authority) is amended as follows.
+**10.**[^c-9176d5da81a8a445f221c74fe99932b3] (1) Section 32 (calculation of budget requirement by billing authority) is amended as follows.
 
 (2) In the heading at the end insert “ by authorities in Wales ”.
 
@@ -126,7 +126,7 @@ Section 79
 
 (12) Omit subsection (13).
 
-**11.**[^key-208d993cf5730f4f6eb393c71e695749] (1) Section 33 (calculation of basic amount of tax by billing authority) is amended as follows.
+**11.**[^c-208d993cf5730f4f6eb393c71e695749] (1) Section 33 (calculation of basic amount of tax by billing authority) is amended as follows.
 
 (2) In the heading at the end insert “ by authorities in Wales ”.
 
@@ -148,16 +148,16 @@ Section 79
 
 (7) In subsection (5) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**12.**[^key-b7c0a363b2674ba8d70c59c9354fc87a] In section 34(2) (additional calculation where special items relate to part only of area)—
+**12.**[^c-b7c0a363b2674ba8d70c59c9354fc87a] In section 34(2) (additional calculation where special items relate to part only of area)—
 
 - (a) in the definition of item B after “under” insert “ section 31B(1) above or ”, and
 - (b) in the definition of item T after “item T” insert “ in section 31B(1) above or ”.
 
-**13.**[^key-014f7e19da884c06b521d49d968a9c5b] In section 35(1)(a) (special item for the purposes of section 34) after “under” insert “ section 31A(2) above or ”.
+**13.**[^c-014f7e19da884c06b521d49d968a9c5b] In section 35(1)(a) (special item for the purposes of section 34) after “under” insert “ section 31A(2) above or ”.
 
-**14.**[^key-c70d9066e57b8ce941a421a8b6c169f9] In section 36(1) (calculation of tax for different valuation bands) in the definition of “item A” after the first “under” insert “ section 31B(1) above or ”.
+**14.**[^c-c70d9066e57b8ce941a421a8b6c169f9] In section 36(1) (calculation of tax for different valuation bands) in the definition of “item A” after the first “under” insert “ section 31B(1) above or ”.
 
-**15.**[^key-5593c94374e2e4902052caf9a1da9adb] After section 36 insert—
+**15.**[^c-5593c94374e2e4902052caf9a1da9adb] After section 36 insert—
 
 > **36A. Substitute calculations: England**
 >
@@ -174,9 +174,9 @@ Section 79
 >
 > (5) Subsections (2) and (3) above do not apply if the previous calculations have been quashed because of a failure to comply with sections 31A, 31B and 34 to 36 above in making the calculations.
 
-**16.**[^key-f324ab150b12222a6c6662a21103d43c] In section 37(1) (substitute calculations) after “ authority ” insert “ in Wales ”.
+**16.**[^c-f324ab150b12222a6c6662a21103d43c] In section 37(1) (substitute calculations) after “ authority ” insert “ in Wales ”.
 
-**17.**[^key-6387ab7f35b5bd496020510c2978428f] (1) Section 40 (issue of precepts by major precepting authorities) is amended as follows.
+**17.**[^c-6387ab7f35b5bd496020510c2978428f] (1) Section 40 (issue of precepts by major precepting authorities) is amended as follows.
 
 (2) In subsection (2)(a) for “sections 43 to 47 below;” substitute
 
@@ -218,7 +218,7 @@ Section 79
   - (ii) for “44(1)” substitute “ 42B(1) ”, and
 - (d) in paragraph (d) for “(6)” substitute “ (5A) ”.
 
-**18.**[^key-634ed9b83bec47e5ada85f4246ac6a69] (1) Section 41 (precepts by local precepting authorities) is amended as follows.
+**18.**[^c-634ed9b83bec47e5ada85f4246ac6a69] (1) Section 41 (precepts by local precepting authorities) is amended as follows.
 
 (2) In subsection (2) for the words from “by the precepting authority” to the end substitute
 
@@ -240,9 +240,9 @@ Section 79
 - (a) for “Secretary of State” substitute “ Welsh Ministers ”, and
 - (b) after “billing authority” insert “ in Wales ”.
 
-**19.**[^key-11ad5c74c1d6d67a880fc2df82dbe77a] In section 42(1)(b) (substituted precepts) after “49,” insert “ 49A, ”.
+**19.**[^c-11ad5c74c1d6d67a880fc2df82dbe77a] In section 42(1)(b) (substituted precepts) after “49,” insert “ 49A, ”.
 
-**20.**[^key-cdb93bfd8a24d02154f33d279687e75c] (1) Section 43 (calculation of budget requirement by major precepting authority) is amended as follows.
+**20.**[^c-cdb93bfd8a24d02154f33d279687e75c] (1) Section 43 (calculation of budget requirement by major precepting authority) is amended as follows.
 
 (2) In the heading at the end insert “ by authorities in Wales ”.
 
@@ -268,7 +268,7 @@ Section 79
 - (a) for “Secretary of State” substitute “ Welsh Ministers ”, and
 - (b) in paragraph (b) for the words from “subsections” to “them” substitute “ subsection (6) ”.
 
-**21.**[^key-f9b85be89054e2fcbd296df9a205bfa9] (1) Section 44 (calculation of basic amount of tax by major precepting authority) is amended as follows.
+**21.**[^c-f9b85be89054e2fcbd296df9a205bfa9] (1) Section 44 (calculation of basic amount of tax by major precepting authority) is amended as follows.
 
 (2) In the heading at the end insert “ by authorities in Wales ”.
 
@@ -280,16 +280,16 @@ Section 79
 
 (6) In each of subsections (4) and (5) for “Secretary of State” substitute “ Welsh Ministers ”.
 
-**22.**[^key-f6d33f16f79ea6872e64fdf86d1cff9d] In section 45(2) (additional calculation where special items relate to part only of area)-
+**22.**[^c-f6d33f16f79ea6872e64fdf86d1cff9d] In section 45(2) (additional calculation where special items relate to part only of area)-
 
 - (a) in the definition of item B after “under” insert “ section 42B(1) above or ”, and
 - (b) in the definition of item T after “item T” insert “ in section 42B(1) above or ”.
 
-**23.**[^key-107a841cc466be7bcae7eade98bfec27] In section 46(1) (special item for the purposes of section 34) after “under” insert “ section 42A(2) above or ”.
+**23.**[^c-107a841cc466be7bcae7eade98bfec27] In section 46(1) (special item for the purposes of section 34) after “under” insert “ section 42A(2) above or ”.
 
-**24.**[^key-771c9e19f69ea072768772d10c343429] In section 47(1) (calculation of tax for different valuation bands) in the definition of “item A” after the first “under” insert “ section 42B(1) above or ”.
+**24.**[^c-771c9e19f69ea072768772d10c343429] In section 47(1) (calculation of tax for different valuation bands) in the definition of “item A” after the first “under” insert “ section 42B(1) above or ”.
 
-**25.**[^key-64934e3fbf1b2860351983e7b64c5998] (1) Section 48 (calculation of amount payable by each billing authority) is amended as follows.
+**25.**[^c-64934e3fbf1b2860351983e7b64c5998] (1) Section 48 (calculation of amount payable by each billing authority) is amended as follows.
 
 (2) In subsection (1A) in the definition of item T for “33(1)” substitute “ 31B(1) ”.
 
@@ -300,7 +300,7 @@ Section 79
 
 (4) In subsection (3) for “44(1) or” substitute “ 42B(1) or 44(1) above or under section ”.
 
-**26.**[^key-0618fc50635a9fcfacd3088fd97aa3a7] (1) Section 49 (substitute calculations) is amended as follows.
+**26.**[^c-0618fc50635a9fcfacd3088fd97aa3a7] (1) Section 49 (substitute calculations) is amended as follows.
 
 (2) In subsection (1) before paragraph (a) insert—
 
@@ -342,20 +342,20 @@ Section 79
 
 > (4D) Subsections (2) and (2A) above shall not apply if the previous calculations have been quashed because of a failure to comply with sections 42A, 42B and 45 to 48 above in making the calculations.
 
-**27.**[^key-c398173d7ecb47ed573c787c08fac985] (1) Section 50 (calculation of budget requirement by major precepting authorities) is amended as follows.
+**27.**[^c-c398173d7ecb47ed573c787c08fac985] (1) Section 50 (calculation of budget requirement by major precepting authorities) is amended as follows.
 
 (2) In the heading at the end insert “ by authorities in Wales ”.
 
 (3) In subsection (1) after “local precepting authority” insert “ in Wales ”.
 
-**28.**[^key-f412cd4d56300efe7d735103ba19baa5] In section 65(4)(a) (duty to consult ratepayers: timing) after “under” insert “ section 31A above or ”.
+**28.**[^c-f412cd4d56300efe7d735103ba19baa5] In section 65(4)(a) (duty to consult ratepayers: timing) after “under” insert “ section 31A above or ”.
 
-**29.**[^key-c60af157cc793766b0a221eacae0f7a3] In section 66(2)(c) (matters that may not be questioned except by an application for judicial review)—
+**29.**[^c-c60af157cc793766b0a221eacae0f7a3] In section 66(2)(c) (matters that may not be questioned except by an application for judicial review)—
 
 - (a) for “32” substitute “ 31A ”, and
 - (b) for “43” substitute “ 42A ”.
 
-**30.**[^key-5bb8deec5947cc51d144d4b8f2fb1d11] (1) Section 67 (functions to be discharged only by authority) is amended as follows.
+**30.**[^c-5bb8deec5947cc51d144d4b8f2fb1d11] (1) Section 67 (functions to be discharged only by authority) is amended as follows.
 
 (2) In subsection (2)(b)—
 
@@ -377,23 +377,23 @@ Section 79
 
 (4) In subsection (3) for “(2)(c)” substitute “ (2)(ba) or (c) ”.
 
-**31.**[^key-c21d688957fa252772eacf98da98fb13] In section 69 (interpretation of Part 1) omit subsection (2A).
+**31.**[^c-c21d688957fa252772eacf98da98fb13] In section 69 (interpretation of Part 1) omit subsection (2A).
 
 ### Environment Act 1995 (c. 25)
 
-**32.**[^key-8c8c209eeb4eb89df246816844392bde] In section 71(6) of the Environment Act 1995 (National Park authorities to be levying bodies) for the words from “32 or 43” to the end substitute “ 31A or 42A (calculation of council tax requirement by authorities in England) or section 32 or 42 (calculation of budget requirement by authorities in Wales) of the Local Government Finance Act 1992. ”
+**32.**[^c-8c8c209eeb4eb89df246816844392bde] In section 71(6) of the Environment Act 1995 (National Park authorities to be levying bodies) for the words from “32 or 43” to the end substitute “ 31A or 42A (calculation of council tax requirement by authorities in England) or section 32 or 42 (calculation of budget requirement by authorities in Wales) of the Local Government Finance Act 1992. ”
 
 ### Police Act 1996 (c. 16)
 
-**33.**[^key-45f853f23c4864b7c9deeaf3a5a065c4] In section 41(1) of the Police Act 1996 (directions as to minimum budget) for the words from “budget requirement” to “Act 1992)” substitute “ council tax requirement (under section 42A of the Local Government Finance Act 1992) or budget requirement (under section 43 of that Act) for any financial year ”.
+**33.**[^c-45f853f23c4864b7c9deeaf3a5a065c4] In section 41(1) of the Police Act 1996 (directions as to minimum budget) for the words from “budget requirement” to “Act 1992)” substitute “ council tax requirement (under section 42A of the Local Government Finance Act 1992) or budget requirement (under section 43 of that Act) for any financial year ”.
 
 ### Greater London Authority Act 1999 (c. 29)
 
-**34.**[^key-50830f7b3f44692dd111451889de22a3] The Greater London Authority Act 1999 is amended as follows.
+**34.**[^c-50830f7b3f44692dd111451889de22a3] The Greater London Authority Act 1999 is amended as follows.
 
-**35.**[^key-4e787e8d2dfd72a23edc03f75f079b63] In section 87 (procedure for determining the budget requirement) for “budget” in each place (including the heading) substitute “ council tax ”.
+**35.**[^c-4e787e8d2dfd72a23edc03f75f079b63] In section 87 (procedure for determining the budget requirement) for “budget” in each place (including the heading) substitute “ council tax ”.
 
-**36.**[^key-3e64384a173228335e40dadf8b15c433] (1) Section 95 (minimum budget for Metropolitan Police Authority) is amended as follows.
+**36.**[^c-3e64384a173228335e40dadf8b15c433] (1) Section 95 (minimum budget for Metropolitan Police Authority) is amended as follows.
 
 (2) In each of the following provisions for “budget” substitute “ council tax ”
 
@@ -406,23 +406,23 @@ Section 79
 
 (4) Omit subsections (9) to (11).
 
-**37.**[^key-625ce2c3b2ce02be0a490d3fa77e4c32] In section 97 (emergencies and disasters) in both of the following provisions for “budget” substitute “ council tax ”
+**37.**[^c-625ce2c3b2ce02be0a490d3fa77e4c32] In section 97 (emergencies and disasters) in both of the following provisions for “budget” substitute “ council tax ”
 
 - (a) subsection (1)(b), and
 - (b) subsection (2)(b).
 
-**38.**[^key-8fb5429d15ea2f70061a021504cdf89e] In section 99—
+**38.**[^c-8fb5429d15ea2f70061a021504cdf89e] In section 99—
 
 - (a) at the appropriate place insert “**BID levy**” has the same meaning as in Part 4 of the Local Government Act 2003; ”,
 - (b) in each of the definitions of “component budget requirement” and “consolidated budget requirement” for “budget” substitute “ council tax ”, and
 - (c) omit the definitions of “police grant” and “relevant special grant”.
 
-**39.**[^key-6a36ec7fdbe209e7d5e9464044b7842d] In section 102(2) (distribution of grants between authority and functional bodies)—
+**39.**[^c-6a36ec7fdbe209e7d5e9464044b7842d] In section 102(2) (distribution of grants between authority and functional bodies)—
 
 - (a) omit paragraph (c), and
 - (b) at the end of paragraph (g) (but not as part of that paragraph) insert “ and which are credited to a revenue account for the year in accordance with proper practices. ”
 
-**40.**[^key-934644574c54e00296d3b7d0830ed9c5] In Schedule 6 (procedure for determining the Authority's consolidated budget requirement) in each of the following provisions for “budget” in each place substitute “ council tax ”
+**40.**[^c-934644574c54e00296d3b7d0830ed9c5] In Schedule 6 (procedure for determining the Authority's consolidated budget requirement) in each of the following provisions for “budget” in each place substitute “ council tax ”
 
 - (a) the Schedule heading,
 - (b) paragraph 1(2)(a) and (3)(a) and (b),
@@ -430,27 +430,27 @@ Section 79
 - (d) paragraph 7(2) to (4), and
 - (e) paragraph 8A(1), (2)(a), (3) to (5), (6)(b), (7), (8) and (10) (but not in “the final draft budget”).
 
-**41.**[^key-64293470d01031d9a804c3932ce2d6b4] In Schedule 7 (procedure for making of substitute calculations by the Authority) in each of following provisions for “ budget ” substitute “council tax”
+**41.**[^c-64293470d01031d9a804c3932ce2d6b4] In Schedule 7 (procedure for making of substitute calculations by the Authority) in each of following provisions for “ budget ” substitute “council tax”
 
 - (a) paragraph 4A(1), (2)(a), (3), (5) to (9) and (11)(c) (but not in “the first draft component budget for the body”), and
 - (b) paragraph 7A(1), (2)(a), (3), (5) to (9) and (11).
 
 ### Local Government Act 2003 (c. 26)
 
-**42.**[^key-66b00aac628d47d8679c1c31335e2c03] The Local Government Act 2003 is amended as follows.
+**42.**[^c-66b00aac628d47d8679c1c31335e2c03] The Local Government Act 2003 is amended as follows.
 
-**43.**[^key-d3f6a17e2ef32452674486fac656142c] In section 25(1) (budget calculation: report on robustness of estimates etc) for “32” substitute “ 31A, 32, 42A ”.
+**43.**[^c-d3f6a17e2ef32452674486fac656142c] In section 25(1) (budget calculation: report on robustness of estimates etc) for “32” substitute “ 31A, 32, 42A ”.
 
-**44.**[^key-fab3c7711f68b0d69ca239be4145348f] In section 26(1) (minimum reserves)—
+**44.**[^c-fab3c7711f68b0d69ca239be4145348f] In section 26(1) (minimum reserves)—
 
 - (a) in paragraph (a)—
   - (i) after “section” insert “ 31A or ”, and
   - (ii) after the second “of” insert “ council tax or ”, and
 - (b) in paragraph (b) after “section” insert “ 42A or ”.
 
-**45.**[^key-3dddecc9add3a3c2c77f20beb8de40ea] In section 27(1) (budget calculation: report on inadequacy of controlled reserve) for “32” substitute “ 31A, 32, 42A ”.
+**45.**[^c-3dddecc9add3a3c2c77f20beb8de40ea] In section 27(1) (budget calculation: report on inadequacy of controlled reserve) for “32” substitute “ 31A, 32, 42A ”.
 
-**46.**[^key-af6ea63c13110a70d9e7f1a4f2ff11b9] (1) Section 28 (budget monitoring: general) is amended as follows.
+**46.**[^c-af6ea63c13110a70d9e7f1a4f2ff11b9] (1) Section 28 (budget monitoring: general) is amended as follows.
 
 (2) In subsection (1) for “32” substitute “ 31A, 32, 42A ”.
 
@@ -461,17 +461,17 @@ Section 79
 
 ### London Local Authorities Act 2004 (2004 c. i)
 
-**47.**[^key-e6c9c225e072f871512e92a05daa015f] In section 23 of the London Local Authorities Act 2004 (Greater London Magistrates' Courts Authority) for “33” substitute “ 31B ”.
+**47.**[^c-e6c9c225e072f871512e92a05daa015f] In section 23 of the London Local Authorities Act 2004 (Greater London Magistrates' Courts Authority) for “33” substitute “ 31B ”.
 
 ### Local Government and Public Involvement in Health Act 2007 (c. 28)
 
-**48.**[^key-2362b9cf5ed932815c51b86db49c5945] The Local Government and Public Involvement in Health Act 2007 is amended as follows.
+**48.**[^c-2362b9cf5ed932815c51b86db49c5945] The Local Government and Public Involvement in Health Act 2007 is amended as follows.
 
-**49.**[^key-0fd5e0b59e1774236a831ab71bd6e3fc] In section 24(1)(d) (authorities dissolved by orders: control of reserves) for “32(3) or 43(3)” substitute “ 31A(3) or 42A(3) ”.
+**49.**[^c-0fd5e0b59e1774236a831ab71bd6e3fc] In section 24(1)(d) (authorities dissolved by orders: control of reserves) for “32(3) or 43(3)” substitute “ 31A(3) or 42A(3) ”.
 
-**50.**[^key-31c502c8a9d7f97fa0cc390492960a59] In section 25(1)(a) (directions: further provisions about reserves) for “32(3) or 43(3)” substitute “ 31A(3) or 42A(3) ”.
+**50.**[^c-31c502c8a9d7f97fa0cc390492960a59] In section 25(1)(a) (directions: further provisions about reserves) for “32(3) or 43(3)” substitute “ 31A(3) or 42A(3) ”.
 
-**51.**[^key-0927f8182e4180ceb1dd831db231742a] (1) Section 28 (contraventions of direction) is amended as follows.
+**51.**[^c-0927f8182e4180ceb1dd831db231742a] (1) Section 28 (contraventions of direction) is amended as follows.
 
 (2) In subsection (5) for “32(3)” substitute “ 31A(3) ”.
 
@@ -479,123 +479,123 @@ Section 79
 
 ### Police Reform and Social Responsibility Act 2011 (c. 13)
 
-**52.**[^key-89fe7e2fc33c22044dc3da202b8ce3da] The Police Reform and Social Responsibility Act 2011 is amended as follows.
+**52.**[^c-89fe7e2fc33c22044dc3da202b8ce3da] The Police Reform and Social Responsibility Act 2011 is amended as follows.
 
-**53.**[^key-0c4e723beeaf2cde200b651f6f077099] In section 18(7)(f) (function of calculating budget requirement may not be delegated by police and crime commissioner)—
+**53.**[^c-0c4e723beeaf2cde200b651f6f077099] In section 18(7)(f) (function of calculating budget requirement may not be delegated by police and crime commissioner)—
 
 - (a) after “calculating a” insert “ council tax requirement or a ”, and
 - (b) after “section” insert “ 42A or ”.
 
-**54.**[^key-d57c596758e8b12ee657e47ddb33453b] In section 22(2) (minimum budget for police and crime commissioner: amendments to section 41(1) of the Police Act 1996) for paragraph (c) substitute—
+**54.**[^c-d57c596758e8b12ee657e47ddb33453b] In section 22(2) (minimum budget for police and crime commissioner: amendments to section 41(1) of the Police Act 1996) for paragraph (c) substitute—
 
 > - (c) for “its” substitute “the commissioner's”.
 
 ## Annotations
 
-[^key-ca2a6e013ce7e5bd1544722ae2417f96]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/1) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-ca2a6e013ce7e5bd1544722ae2417f96]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/1) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-6a975aee6f077bec2e328321cf60ec91]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/2) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-6a975aee6f077bec2e328321cf60ec91]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/2) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-66804c3d7495a83fa06a5cbaf2cb0905]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/3) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-66804c3d7495a83fa06a5cbaf2cb0905]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/3) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-706f890147918fb14594899337d43227]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/4) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-706f890147918fb14594899337d43227]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/4) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-0c932b093c3b15cce67c7ac17b404fe5]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/5) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0c932b093c3b15cce67c7ac17b404fe5]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/5) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-892643b6a4124fd95dbde8a70232e798]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/6) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-892643b6a4124fd95dbde8a70232e798]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/6) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-7dd3a441cf022e6869628b08cf055219]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/7) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-7dd3a441cf022e6869628b08cf055219]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/7) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d4e39760bd46b99a52ad30e25458dc43]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/8) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d4e39760bd46b99a52ad30e25458dc43]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/8) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-c9feac1f0c1e320c5b5d90c56380750e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/9) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-c9feac1f0c1e320c5b5d90c56380750e]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/9) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-9176d5da81a8a445f221c74fe99932b3]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/10) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-9176d5da81a8a445f221c74fe99932b3]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/10) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-208d993cf5730f4f6eb393c71e695749]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/11) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-208d993cf5730f4f6eb393c71e695749]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/11) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-b7c0a363b2674ba8d70c59c9354fc87a]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/12) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-b7c0a363b2674ba8d70c59c9354fc87a]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/12) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-014f7e19da884c06b521d49d968a9c5b]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/13) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-014f7e19da884c06b521d49d968a9c5b]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/13) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-c70d9066e57b8ce941a421a8b6c169f9]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/14) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-c70d9066e57b8ce941a421a8b6c169f9]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/14) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-5593c94374e2e4902052caf9a1da9adb]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/15) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-5593c94374e2e4902052caf9a1da9adb]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/15) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-f324ab150b12222a6c6662a21103d43c]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/16) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f324ab150b12222a6c6662a21103d43c]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/16) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-6387ab7f35b5bd496020510c2978428f]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/17) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-6387ab7f35b5bd496020510c2978428f]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/17) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-634ed9b83bec47e5ada85f4246ac6a69]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/18) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-634ed9b83bec47e5ada85f4246ac6a69]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/18) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-11ad5c74c1d6d67a880fc2df82dbe77a]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/19) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-11ad5c74c1d6d67a880fc2df82dbe77a]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/19) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-cdb93bfd8a24d02154f33d279687e75c]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/20) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-cdb93bfd8a24d02154f33d279687e75c]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/20) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-f9b85be89054e2fcbd296df9a205bfa9]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/21) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f9b85be89054e2fcbd296df9a205bfa9]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/21) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-f6d33f16f79ea6872e64fdf86d1cff9d]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/22) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f6d33f16f79ea6872e64fdf86d1cff9d]: Commencement: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/22) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-107a841cc466be7bcae7eade98bfec27]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/23) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-107a841cc466be7bcae7eade98bfec27]: Commencement: [Sch. 7 para. 23](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/23) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-771c9e19f69ea072768772d10c343429]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/24) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-771c9e19f69ea072768772d10c343429]: Commencement: [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/24) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-64934e3fbf1b2860351983e7b64c5998]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-64934e3fbf1b2860351983e7b64c5998]: Commencement: [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/25) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-0618fc50635a9fcfacd3088fd97aa3a7]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/26) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0618fc50635a9fcfacd3088fd97aa3a7]: Commencement: [Sch. 7 para. 26](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/26) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-c398173d7ecb47ed573c787c08fac985]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/27) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-c398173d7ecb47ed573c787c08fac985]: Commencement: [Sch. 7 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/27) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-f412cd4d56300efe7d735103ba19baa5]: Commencement: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/28) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-f412cd4d56300efe7d735103ba19baa5]: Commencement: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/28) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-c60af157cc793766b0a221eacae0f7a3]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/29) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-c60af157cc793766b0a221eacae0f7a3]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/29) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-5bb8deec5947cc51d144d4b8f2fb1d11]: Commencement: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/30) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-5bb8deec5947cc51d144d4b8f2fb1d11]: Commencement: [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/30) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-c21d688957fa252772eacf98da98fb13]: Commencement: [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/31) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-c21d688957fa252772eacf98da98fb13]: Commencement: [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/31) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-8c8c209eeb4eb89df246816844392bde]: Commencement: [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/32) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-8c8c209eeb4eb89df246816844392bde]: Commencement: [Sch. 7 para. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/32) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-45f853f23c4864b7c9deeaf3a5a065c4]: Commencement: [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/33) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-45f853f23c4864b7c9deeaf3a5a065c4]: Commencement: [Sch. 7 para. 33](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/33) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-50830f7b3f44692dd111451889de22a3]: Commencement: [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/34) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-50830f7b3f44692dd111451889de22a3]: Commencement: [Sch. 7 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/34) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-4e787e8d2dfd72a23edc03f75f079b63]: Commencement: [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/35) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-4e787e8d2dfd72a23edc03f75f079b63]: Commencement: [Sch. 7 para. 35](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/35) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-3e64384a173228335e40dadf8b15c433]: Commencement: [Sch. 7 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/36) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-3e64384a173228335e40dadf8b15c433]: Commencement: [Sch. 7 para. 36](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/36) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-625ce2c3b2ce02be0a490d3fa77e4c32]: Commencement: [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/37) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-625ce2c3b2ce02be0a490d3fa77e4c32]: Commencement: [Sch. 7 para. 37](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/37) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-8fb5429d15ea2f70061a021504cdf89e]: Commencement: [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/38) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-8fb5429d15ea2f70061a021504cdf89e]: Commencement: [Sch. 7 para. 38](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/38) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-6a36ec7fdbe209e7d5e9464044b7842d]: Commencement: [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/39) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-6a36ec7fdbe209e7d5e9464044b7842d]: Commencement: [Sch. 7 para. 39](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/39) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-934644574c54e00296d3b7d0830ed9c5]: Commencement: [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/40) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-934644574c54e00296d3b7d0830ed9c5]: Commencement: [Sch. 7 para. 40](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/40) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-64293470d01031d9a804c3932ce2d6b4]: Commencement: [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-64293470d01031d9a804c3932ce2d6b4]: Commencement: [Sch. 7 para. 41](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/41) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-66b00aac628d47d8679c1c31335e2c03]: Commencement: [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/42) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-66b00aac628d47d8679c1c31335e2c03]: Commencement: [Sch. 7 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/42) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d3f6a17e2ef32452674486fac656142c]: Commencement: [Sch. 7 para. 43](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/43) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d3f6a17e2ef32452674486fac656142c]: Commencement: [Sch. 7 para. 43](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/43) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-fab3c7711f68b0d69ca239be4145348f]: Commencement: [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/44) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-fab3c7711f68b0d69ca239be4145348f]: Commencement: [Sch. 7 para. 44](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/44) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-3dddecc9add3a3c2c77f20beb8de40ea]: Commencement: [Sch. 7 para. 45](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/45) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-3dddecc9add3a3c2c77f20beb8de40ea]: Commencement: [Sch. 7 para. 45](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/45) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-af6ea63c13110a70d9e7f1a4f2ff11b9]: Commencement: [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/46) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-af6ea63c13110a70d9e7f1a4f2ff11b9]: Commencement: [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/46) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-e6c9c225e072f871512e92a05daa015f]: Commencement: [Sch. 7 para. 47](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/47) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-e6c9c225e072f871512e92a05daa015f]: Commencement: [Sch. 7 para. 47](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/47) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-2362b9cf5ed932815c51b86db49c5945]: Commencement: [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/48) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-2362b9cf5ed932815c51b86db49c5945]: Commencement: [Sch. 7 para. 48](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/48) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-0fd5e0b59e1774236a831ab71bd6e3fc]: Commencement: [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/49) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0fd5e0b59e1774236a831ab71bd6e3fc]: Commencement: [Sch. 7 para. 49](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/49) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-31c502c8a9d7f97fa0cc390492960a59]: Commencement: [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/50) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-31c502c8a9d7f97fa0cc390492960a59]: Commencement: [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/50) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-0927f8182e4180ceb1dd831db231742a]: Commencement: [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/51) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0927f8182e4180ceb1dd831db231742a]: Commencement: [Sch. 7 para. 51](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/51) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-89fe7e2fc33c22044dc3da202b8ce3da]: Commencement: [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/52) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-89fe7e2fc33c22044dc3da202b8ce3da]: Commencement: [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/52) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-0c4e723beeaf2cde200b651f6f077099]: Commencement: [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/53) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-0c4e723beeaf2cde200b651f6f077099]: Commencement: [Sch. 7 para. 53](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/53) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
 
-[^key-d57c596758e8b12ee657e47ddb33453b]: Commencement: [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/54) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-d57c596758e8b12ee657e47ddb33453b]: Commencement: [Sch. 7 para. 54](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/54) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Payment of costs of Welsh Ministers[^key-7cac917b24f43605c236383302351fd4][^key-cf8fe6db3b3c0eea0015945c9878d679]
+## 180. Payment of costs of Welsh Ministers[^c-7cac917b24f43605c236383302351fd4][^c-cf8fe6db3b3c0eea0015945c9878d679]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7cac917b24f43605c236383302351fd4]: Commencement: S. 180 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7cac917b24f43605c236383302351fd4]: Commencement: S. 180 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-cf8fe6db3b3c0eea0015945c9878d679]: Commencement: [S. 180](https://www.legislation.gov.uk/asc/2023/3/section/180) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-cf8fe6db3b3c0eea0015945c9878d679]: Commencement: [S. 180](https://www.legislation.gov.uk/asc/2023/3/section/180) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

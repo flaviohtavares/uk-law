@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-8a81d9a999fe296ed0945e186cf11b96]
+## 1. Citation and commencement[^c-8a81d9a999fe296ed0945e186cf11b96]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Gas and Electricity (Internal Markets) Reg
 
 ## Annotations
 
-[^key-8a81d9a999fe296ed0945e186cf11b96]: Commencement: Reg. 1 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)
+[^c-8a81d9a999fe296ed0945e186cf11b96]: Commencement: Reg. 1 in operation at 15.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/155/regulation/1)

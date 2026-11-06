@@ -42,7 +42,7 @@ Coming into force
 
 [^c16187501] Whereas a draft of this Instrument was laid before Parliament in accordance with section 190(1)(aa) of the Social Security Administration Act 1992 and approved by resolution of each House of Parliament:
 
-Now therefore the Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 2A, 2B(6) and (7), 5(1)(a) and (b), 6(1)(a) and (b), 7A, 189(1), (4) to (7A) and 191 of the Social Security Administration Act 1992[^c16187511] and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8(1) of the Tribunals and Inquiries Act 1992[^c16187521] and in respect of provisions in these Regulations relating to housing benefit and council tax benefit with organisations appearing to him to be representative of the authorities concerned[^c16187531], by this Instrument, which contains only regulations made by virtue of or consequential upon sections 57 and 71 of the Welfare Reform and Pensions Act 1999 and which is made before the end of a period of 6 months beginning with the coming into force of those provisions[^c16187541], hereby make the following Regulations:[^key-513bf5c27dc63cc4e18ecce266348c10]
+Now therefore the Secretary of State for Social Security, in exercise of the powers conferred upon him by sections 2A, 2B(6) and (7), 5(1)(a) and (b), 6(1)(a) and (b), 7A, 189(1), (4) to (7A) and 191 of the Social Security Administration Act 1992[^c16187511] and of all other powers enabling him in that behalf, after consultation with the Council on Tribunals in accordance with section 8(1) of the Tribunals and Inquiries Act 1992[^c16187521] and in respect of provisions in these Regulations relating to housing benefit and council tax benefit with organisations appearing to him to be representative of the authorities concerned[^c16187531], by this Instrument, which contains only regulations made by virtue of or consequential upon sections 57 and 71 of the Welfare Reform and Pensions Act 1999 and which is made before the end of a period of 6 months beginning with the coming into force of those provisions[^c16187541], hereby make the following Regulations:[^c-513bf5c27dc63cc4e18ecce266348c10]
 
 ## PART I — GENERAL
 
@@ -52,64 +52,64 @@ These Regulations may be cited as the Social Security (Work-focused Interviews) 
 
 ### 2. Interpretation
 
-(1)[^key-48ea071296bf170a73acf9fa02d737c4] In these Regulations– *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+(1)[^c-48ea071296bf170a73acf9fa02d737c4] In these Regulations– *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-- “the Act" means the Welfare Reform and Pensions Act 1999; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “the 1998 Act" means the Social Security Act 1998 *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4] [^c16187551] ;
-- “benefit week"– *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (a) in relation to housing benefit and council tax benefit, means a period of 7 days beginning on a Monday; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (b) in relation to any other specified benefit, means any period of 7 days corresponding to the week in respect of which the relevant social security benefit is due to be paid; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “the designated authority" means any of the following– *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (a) the Secretary of State; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (b) a person providing services to the Secretary of State; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (c) a local authority; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (d) a person providing services to, or authorised to exercise any functions of, any such authority; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- the Careers Service means—[^key-afe0ff530e4996f9c103a7e8bdad179c] *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (a) in England and Wales, a person with whom the Secretary of State or, as the case may be, the National Assembly for Wales, have made arrangements under section 10(1) of the Employment and Training Act 1973 or a local education authority to whom a direction has been given by the Secretary of State or the Natonal Assembly for Wales under section 10(2) of that Act; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (b) in Scotland, a person with whom the Scottish Ministers have made arrangements under section 10(1) of the Employment and Training Act 1973 or any education authority to whom a direction has been given by the Scottish Ministers under section 10(2) of that Act; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “the Connexions Service” means a person of any description with whom the Secretary of State has made an arrangement under section 114(2)(a) of the Learning and Skills Act 2000 and section 10(1) of the Employment and Training Act 1973 and any person to whom he has given a direction under section 114(2)(b) of the Learning and Skills Act 2000 and section 10(2) of the Employment and Training Act 1973;[^key-894b3754f8d8fcbe4274aca819816148] *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4] [^c16187571] ;
-- “the Claims and Payments Regulations" means the Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4] [^c16187581] ;
-- “the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4] [^c16187591] ;
-- “interview" means a work-focused interview; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “lone parent” means a person who has no partner and who is responsible for, and a member of the same household as, a child;[^key-dbe508395cf28b6cc1d92d31639fc8de] *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “specified benefit” means income support, housing benefit, council tax benefit, incapacity benefit and severe disablement allowance;[^key-662f2f95b7dc624fd69d7ffa2b1d3226] *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “specified person” means— *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (a) a lone parent, or *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-  - (b) a person who claims— *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-    - (i) incapacity benefit, *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-    - (ii) income support where paragraph 7 (persons incapable of work) of Schedule 1B to the Income Support (General) Regulations 1987 applies, *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-    - (iii) income support where paragraph 24 or 25 (persons appealing against a decision which embodies a determination that they are not incapable of work) of Schedule 1B to the Income Support (General) Regulations 1987 applies, or *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-    - (iv) severe disablement allowance; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- “work-focused interview" has the meaning given in regulation 3. *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+- “the Act" means the Welfare Reform and Pensions Act 1999; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “the 1998 Act" means the Social Security Act 1998 *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4] [^c16187551] ;
+- “benefit week"– *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (a) in relation to housing benefit and council tax benefit, means a period of 7 days beginning on a Monday; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (b) in relation to any other specified benefit, means any period of 7 days corresponding to the week in respect of which the relevant social security benefit is due to be paid; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “the designated authority" means any of the following– *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (a) the Secretary of State; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (b) a person providing services to the Secretary of State; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (c) a local authority; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (d) a person providing services to, or authorised to exercise any functions of, any such authority; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- the Careers Service means—[^c-afe0ff530e4996f9c103a7e8bdad179c] *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (a) in England and Wales, a person with whom the Secretary of State or, as the case may be, the National Assembly for Wales, have made arrangements under section 10(1) of the Employment and Training Act 1973 or a local education authority to whom a direction has been given by the Secretary of State or the Natonal Assembly for Wales under section 10(2) of that Act; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (b) in Scotland, a person with whom the Scottish Ministers have made arrangements under section 10(1) of the Employment and Training Act 1973 or any education authority to whom a direction has been given by the Scottish Ministers under section 10(2) of that Act; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “the Connexions Service” means a person of any description with whom the Secretary of State has made an arrangement under section 114(2)(a) of the Learning and Skills Act 2000 and section 10(1) of the Employment and Training Act 1973 and any person to whom he has given a direction under section 114(2)(b) of the Learning and Skills Act 2000 and section 10(2) of the Employment and Training Act 1973;[^c-894b3754f8d8fcbe4274aca819816148] *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “the Council Tax Benefit Regulations" means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4] [^c16187571] ;
+- “the Claims and Payments Regulations" means the Social Security (Claims and Payments) Regulations 1987 *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4] [^c16187581] ;
+- “the Housing Benefit Regulations" means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4] [^c16187591] ;
+- “interview" means a work-focused interview; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “lone parent” means a person who has no partner and who is responsible for, and a member of the same household as, a child;[^c-dbe508395cf28b6cc1d92d31639fc8de] *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “specified benefit” means income support, housing benefit, council tax benefit, incapacity benefit and severe disablement allowance;[^c-662f2f95b7dc624fd69d7ffa2b1d3226] *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “specified person” means— *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (a) a lone parent, or *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+  - (b) a person who claims— *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+    - (i) incapacity benefit, *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+    - (ii) income support where paragraph 7 (persons incapable of work) of Schedule 1B to the Income Support (General) Regulations 1987 applies, *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+    - (iii) income support where paragraph 24 or 25 (persons appealing against a decision which embodies a determination that they are not incapable of work) of Schedule 1B to the Income Support (General) Regulations 1987 applies, or *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+    - (iv) severe disablement allowance; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- “work-focused interview" has the meaning given in regulation 3. *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-(2) In these Regulations, a “relevant person" is a person who resides in an area identified in Schedule 1. *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+(2) In these Regulations, a “relevant person" is a person who resides in an area identified in Schedule 1. *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-(3) For the purposes of these Regulations– *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+(3) For the purposes of these Regulations– *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-- (a) “remunerative work" has the meaning prescribed in regulation 4 of the Housing Benefit Regulations; and *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- (b) “part-time work" means work for which payment is made and which is not remunerative work. *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+- (a) “remunerative work" has the meaning prescribed in regulation 4 of the Housing Benefit Regulations; and *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- (b) “part-time work" means work for which payment is made and which is not remunerative work. *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-(4) Where a claim for benefit is made by a person (“the appointee") on behalf of another, references in these Regulations to a person claiming benefit shall be treated as a reference to the person on whose behalf the claim is made and not to the appointee. *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+(4) Where a claim for benefit is made by a person (“the appointee") on behalf of another, references in these Regulations to a person claiming benefit shall be treated as a reference to the person on whose behalf the claim is made and not to the appointee. *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-(5) These Regulations apply in respect of a specified benefit claimed on or after 3rd April 2000. *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+(5) These Regulations apply in respect of a specified benefit claimed on or after 3rd April 2000. *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-(6) In these Regulations, unless the context otherwise requires, a reference– *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+(6) In these Regulations, unless the context otherwise requires, a reference– *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
-- (a) to a numbered section is to the section of the Act bearing that number; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- (b) to a numbered regulation or Schedule is to the regulation in or Schedule to these Regulations bearing that number; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- (c) in a regulation or Schedule to a numbered paragraph is to the paragraph in that regulation or Schedule bearing that number; *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
-- (d) in a paragraph to a lettered or numbered sub-paragraph is to the sub-paragraph in that paragraph bearing that letter or number. *(affected by repeal, see note)*[^key-48ea071296bf170a73acf9fa02d737c4]
+- (a) to a numbered section is to the section of the Act bearing that number; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- (b) to a numbered regulation or Schedule is to the regulation in or Schedule to these Regulations bearing that number; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- (c) in a regulation or Schedule to a numbered paragraph is to the paragraph in that regulation or Schedule bearing that number; *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
+- (d) in a paragraph to a lettered or numbered sub-paragraph is to the sub-paragraph in that paragraph bearing that letter or number. *(affected by repeal, see note)*[^c-48ea071296bf170a73acf9fa02d737c4]
 
 ### 3. Work-focused interview
 
-In these Regulations, a “work-focused interview" means an interview with a relevant person conducted for any or all of the following purposes– *(affected by repeal, see note)*[^key-c2cd727410f2e1d9c83cf51383f27194]
+In these Regulations, a “work-focused interview" means an interview with a relevant person conducted for any or all of the following purposes– *(affected by repeal, see note)*[^c-c2cd727410f2e1d9c83cf51383f27194]
 
-- (a) assessing a person’s prospects for existing or future employment (whether paid or voluntary); *(affected by repeal, see note)*[^key-c2cd727410f2e1d9c83cf51383f27194]
-- (b) assisting or encouraging a person to enhance his prospects of such employment; *(affected by repeal, see note)*[^key-c2cd727410f2e1d9c83cf51383f27194]
-- (c) identifying activities which the person may undertake to strengthen his existing or future prospects of such employment; *(affected by repeal, see note)*[^key-c2cd727410f2e1d9c83cf51383f27194]
-- (d) identifying current or future employment or training opportunities suitable to the person’s needs; and *(affected by repeal, see note)*[^key-c2cd727410f2e1d9c83cf51383f27194]
-- (e) identifying educational opportunities connected with the existing or future employment prospects or needs of the person. *(affected by repeal, see note)*[^key-c2cd727410f2e1d9c83cf51383f27194]
+- (a) assessing a person’s prospects for existing or future employment (whether paid or voluntary); *(affected by repeal, see note)*[^c-c2cd727410f2e1d9c83cf51383f27194]
+- (b) assisting or encouraging a person to enhance his prospects of such employment; *(affected by repeal, see note)*[^c-c2cd727410f2e1d9c83cf51383f27194]
+- (c) identifying activities which the person may undertake to strengthen his existing or future prospects of such employment; *(affected by repeal, see note)*[^c-c2cd727410f2e1d9c83cf51383f27194]
+- (d) identifying current or future employment or training opportunities suitable to the person’s needs; and *(affected by repeal, see note)*[^c-c2cd727410f2e1d9c83cf51383f27194]
+- (e) identifying educational opportunities connected with the existing or future employment prospects or needs of the person. *(affected by repeal, see note)*[^c-c2cd727410f2e1d9c83cf51383f27194]
 
 ## PART II — WORK-FOCUSED INTERVIEWS
 
@@ -131,18 +131,18 @@ is required to take part in an interview.
 
 (5) The interview shall take place at an office of the designated authority or at such other place as may be notified to that person by a personal adviser.
 
-(6) Where the claimant has not attained the age of 18, the designated authority shall arrange for the claimant to have an interview with an officer of the Careers Service or with an officer of the Connexions Service[^key-939e6e4acd6f2d6ea4f4a7d92fb33563].
+(6) Where the claimant has not attained the age of 18, the designated authority shall arrange for the claimant to have an interview with an officer of the Careers Service or with an officer of the Connexions Service[^c-939e6e4acd6f2d6ea4f4a7d92fb33563].
 
 ### 5. Exemptions
 
 (1) The following claims for a specified benefit do not give rise to an interview under regulation 4–
 
 - (a) claims by persons who at the time the claim is made are engaged in remunerative work;
-- (b) except in a case to which paragraph (1A) applies,[^key-b91315c199dff27e9a30574f707c4b2c] claims for a specified benefit where the person making the claim is also claiming a jobseeker’s allowance;
-- (c) except in a case to which paragraph (1A) applies,[^key-5237a88486deb7d8478b84da7aa45ea5] claims for a specified benefit where, at the time the claim is made, the person making the claim is entitled to a jobseeker’s allowance;
+- (b) except in a case to which paragraph (1A) applies,[^c-b91315c199dff27e9a30574f707c4b2c] claims for a specified benefit where the person making the claim is also claiming a jobseeker’s allowance;
+- (c) except in a case to which paragraph (1A) applies,[^c-5237a88486deb7d8478b84da7aa45ea5] claims for a specified benefit where, at the time the claim is made, the person making the claim is entitled to a jobseeker’s allowance;
 - (d) claims by persons who are not present in, and who do not normally reside in, Great Britain.
 
-(1A)[^key-68c9e0be1f018372195286f7c8349568] Notwithstanding paragraph (1)(b) and (c), a claim for a specified benefit shall give rise to an interview under regulation 4 where—
+(1A)[^c-68c9e0be1f018372195286f7c8349568] Notwithstanding paragraph (1)(b) and (c), a claim for a specified benefit shall give rise to an interview under regulation 4 where—
 
 - (a) at the time the claim is made, the person making the claim is a member of a joint-claim couple as defined for the purposes of the Jobseeker’s Allowance Regulations 1996; and
 - (b) it has been decided that that person is a person to whom a paragraph of Schedule A1 to those Regulations applies (categories of members of joint-claim couples who are not required to satisfy the conditions in section 1(2B)(b) of the Jobseekers Act 1995).
@@ -154,14 +154,14 @@ is required to take part in an interview.
 
 ### 6. Continuing entitlement dependent upon an interview
 
-(1) A relevant person who has not attained pensionable age[^key-fe2609e25079b1c2ba55530d5d54871b] and who is entitled to a specified benefit shall be required to take part in an interview as a condition of his continuing to be entitled to the full amount of benefit which is payable apart from these Regulations where paragraph (2) applies and–
+(1) A relevant person who has not attained pensionable age[^c-fe2609e25079b1c2ba55530d5d54871b] and who is entitled to a specified benefit shall be required to take part in an interview as a condition of his continuing to be entitled to the full amount of benefit which is payable apart from these Regulations where paragraph (2) applies and–
 
-- (a) in the case of a lone parent who resides in an area identified in Schedule 1A and who[^key-75877535a019cffc301ce41bcfe7364e] is not entitled to either incapacity benefit or severe disablement allowance, paragraph (3) applies[^key-fda8b110d2275fa7c1f5044e9dbdfedb]; or
-- (b) in any other case, any of the circumstances specified in paragraph (4) apply or where paragraph (4A) applies[^key-677bbc53a4b46f043ac60ec66c061bf1].
+- (a) in the case of a lone parent who resides in an area identified in Schedule 1A and who[^c-75877535a019cffc301ce41bcfe7364e] is not entitled to either incapacity benefit or severe disablement allowance, paragraph (3) applies[^c-fda8b110d2275fa7c1f5044e9dbdfedb]; or
+- (b) in any other case, any of the circumstances specified in paragraph (4) apply or where paragraph (4A) applies[^c-677bbc53a4b46f043ac60ec66c061bf1].
 
 (2) This paragraph applies in the case of a person who has taken part in a work-focused interview, or who would have taken part in such an interview but for the requirement being waived in accordance with regulation 7 or deferred in accordance with regulation 8.
 
-(3)[^key-dc99a5716617abd3aa87f07564cd753e] A lone parent to whom paragraph (1)(a) applies shall be required to take part in an interview—
+(3)[^c-dc99a5716617abd3aa87f07564cd753e] A lone parent to whom paragraph (1)(a) applies shall be required to take part in an interview—
 
 - (a) after the expiry of six months from the date on which—
   - (i) he took part in an interview under regulation 4; or
@@ -177,21 +177,21 @@ is required to take part in an interview.
 
 (4) The circumstances specified in this paragraph are those where–
 
-- (a)[^key-8dab57d3c3685c879ff2ab24f9a31a8f] it is determined in accordance with a personal capability assessment that a person is incapable of work and therefore, continues to be entitled to a specified benefit[^key-298051d106dfe2121d2203c4c5cf85ff];
-- (b) a person’s entitlement to carer’s allowance[^key-61d515c96ddaeee27e103581c959f141] , or[^key-34cdd1f78267e51b856a86ed9413c761] the carer support payment component of carer support given in accordance with[^key-b6e721c7d0a7b9a84e80b3180fe8a616] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, ceases whilst entitlement to a specified benefit continues;
+- (a)[^c-8dab57d3c3685c879ff2ab24f9a31a8f] it is determined in accordance with a personal capability assessment that a person is incapable of work and therefore, continues to be entitled to a specified benefit[^c-298051d106dfe2121d2203c4c5cf85ff];
+- (b) a person’s entitlement to carer’s allowance[^c-61d515c96ddaeee27e103581c959f141] , or[^c-34cdd1f78267e51b856a86ed9413c761] the carer support payment component of carer support given in accordance with[^c-b6e721c7d0a7b9a84e80b3180fe8a616] the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023, ceases whilst entitlement to a specified benefit continues;
 - (c) a person becomes engaged or ceases to be engaged in part-time work;
 - (d) a person has been undergoing education or training arranged by a personal adviser and that education or training comes to an end; and
 - (e) a person who has not attained the age of 18 and who has previously undertaken an interview attains the age of 18.
 
-(4A)[^key-154bbc1f197e1cf5b0d578dc0478f47e] A requirement to take part in an interview arises under this paragraph where a person—
+(4A)[^c-154bbc1f197e1cf5b0d578dc0478f47e] A requirement to take part in an interview arises under this paragraph where a person—
 
 - (a) resides in an area identified in Schedule 1A; and
 - (b) has not been required to take part in an interview by virtue of paragraph (4) for at least 36 months.
 
 (5) In this regulation–
 
-- [^key-a68f0edd1923960be5952f7bb7dd95dc]...
-- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^key-bf66e1e9f8990ca4311c23f25c4411da]
+- [^c-a68f0edd1923960be5952f7bb7dd95dc]...
+- “pensionable age”, in the case of a man born before 6th April 1955, means the age when a woman born on the same day as the man would attain pensionable age;[^c-bf66e1e9f8990ca4311c23f25c4411da]
 - “personal capability assessment" means an assessment in accordance with regulations made under section 171C of the Contributions and Benefits Act [^c16187601].
 
 ### 7. Waiver
@@ -238,7 +238,7 @@ A person who would otherwise be required under these Regulations to take part in
 
 (1) The designated authority shall determine whether a person has taken part in an interview.
 
-(2)[^key-29858dfb97be570519a9628f1001bb43] A person who has attained the age of 18 shall be regarded as having taken part in his first interview under these Regulations after 30th October 2005 if—
+(2)[^c-29858dfb97be570519a9628f1001bb43] A person who has attained the age of 18 shall be regarded as having taken part in his first interview under these Regulations after 30th October 2005 if—
 
 - (a) he attends at the place and time notified to him by the personal adviser for the interview;
 - (b) where he is a specified person, he participates in discussions with the personal adviser in relation to the specified person’s employability, including any action the specified person and the personal adviser agree is reasonable and they are willing to take in order to help the specified person enhance his employment prospects;
@@ -264,9 +264,9 @@ A person who would otherwise be required under these Regulations to take part in
   - (ii) his opinion as to the extent to which his medical condition restricts his ability to obtain employment; and
 - (e) where he is a specified person, he assists the personal adviser in the completion of any amendment of the action plan referred to in paragraph (2)(e) above in light of the matters discussed in relation to sub-paragraphs (b) and (c) above and the information provided in relation to sub-paragraph (d) above.
 
-(3) A person who has not attained the age of 18 shall be regarded as having taken part in an interview if, and only if, he attends an interview with the Careers Service or with the Connexions Service[^key-82f39588d354748323a939e1eb068d37] at the time and place notified to him by the personal adviser.
+(3) A person who has not attained the age of 18 shall be regarded as having taken part in an interview if, and only if, he attends an interview with the Careers Service or with the Connexions Service[^c-82f39588d354748323a939e1eb068d37] at the time and place notified to him by the personal adviser.
 
-### 12. Failure to take part in an interview[^key-72853b24124c1cf5d1c6bfa7ce58c3aa][^key-7cb1b13c62f37bfd22daeda634ebe80e]
+### 12. Failure to take part in an interview[^c-72853b24124c1cf5d1c6bfa7ce58c3aa][^c-7cb1b13c62f37bfd22daeda634ebe80e]
 
 (1) A person who–
 
@@ -291,8 +291,8 @@ shall, subject to paragraph (12), suffer the consequences set out below.
 
 - (a) income support;
 - (b) incapacity benefit;
-- (c)[^key-8b9bc8fc12373692e148132d7da60d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-8b9bc8fc12373692e148132d7da60d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8b9bc8fc12373692e148132d7da60d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-8b9bc8fc12373692e148132d7da60d9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) severe disablement allowance;
 - (f) council tax benefit;
 - (g) housing benefit.
@@ -335,7 +335,7 @@ Matters to be taken into account in determining whether a person has shown good 
 - (d) that the established customs and practices of the religion to which the person belongs prevented him attending on that day or at that time;
 - (e) that the person was attending an interview with an employer with a view to obtaining employment;
 - (f) that the person was actually pursuing employment opportunities as a self-employed earner;
-- (g) that the person or a dependant of his or a person for whom he provides care suffered an accident, sudden illness or relapse of a physical or mental health condition[^key-59ce95c3a38d03b643c853fcd04c6cdd];
+- (g) that the person or a dependant of his or a person for whom he provides care suffered an accident, sudden illness or relapse of a physical or mental health condition[^c-59ce95c3a38d03b643c853fcd04c6cdd];
 - (h) that he was attending the funeral of a close friend or relative on the day fixed for the interview;
 - (i) that a disability from which the person suffers made it impracticable for him to attend at the time fixed for the interview.
 
@@ -352,11 +352,11 @@ Matters to be taken into account in determining whether a person has shown good 
 
 ### 16. Consequential changes
 
-(1) Schedule 2, which makes changes to the Housing Benefit Regulations which are consequential upon the making of decisions under these Regulations on the work-focused interview, shall have effect. *(affected by repeal, see note)*[^key-ed4df9a170b9c687df97aba0435b6d3e]
+(1) Schedule 2, which makes changes to the Housing Benefit Regulations which are consequential upon the making of decisions under these Regulations on the work-focused interview, shall have effect. *(affected by repeal, see note)*[^c-ed4df9a170b9c687df97aba0435b6d3e]
 
-(2) Schedule 3, which makes corresponding changes to the Council Tax Benefit Regulations, shall have effect. *(affected by repeal, see note)*[^key-ed4df9a170b9c687df97aba0435b6d3e]
+(2) Schedule 3, which makes corresponding changes to the Council Tax Benefit Regulations, shall have effect. *(affected by repeal, see note)*[^c-ed4df9a170b9c687df97aba0435b6d3e]
 
-(3) Schedule 4, which makes changes relating to the sending and delivering of claims for housing benefit and council tax benefit, shall have effect. *(affected by repeal, see note)*[^key-6a1d58694f63725de7689769471f8ee1]
+(3) Schedule 4, which makes changes relating to the sending and delivering of claims for housing benefit and council tax benefit, shall have effect. *(affected by repeal, see note)*[^c-6a1d58694f63725de7689769471f8ee1]
 
 (4) Schedule 5, which makes changes to the Claims and Payments Regulations, shall have effect.
 
@@ -382,277 +382,277 @@ Department of Social Security
 
 Regulation 2(2)
 
-For the purposes of regulation 2(2), the areas are– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+For the purposes of regulation 2(2), the areas are– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-- (a) the areas of the local authorities listed below (all of which are within the area of Buckinghamshire County Council)– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+- (a) the areas of the local authorities listed below (all of which are within the area of Buckinghamshire County Council)– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Aylesbury Vale District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Aylesbury Vale District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Chiltern District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Chiltern District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Wycombe District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Wycombe District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  South Buckinghamshire District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  South Buckinghamshire District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Milton Keynes District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
-- (b) the areas of the local authorities listed below (all of which are within the area of Somerset County Council)– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Milton Keynes District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
+- (b) the areas of the local authorities listed below (all of which are within the area of Somerset County Council)– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Sedgemoor District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Sedgemoor District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Taunton District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Taunton District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  South Somerset District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  South Somerset District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  West Somerset District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  West Somerset District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Mendip District Council; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
-- (c) the area of Warwickshire County Council, except for the areas of the Parish Councils listed below– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Mendip District Council; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
+- (c) the area of Warwickshire County Council, except for the areas of the Parish Councils listed below– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Alcester; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Alcester; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Arrow; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Arrow; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Aston Cantlow; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Aston Cantlow; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Bidford on Avon; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Bidford on Avon; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Bagington; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Bagington; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Bubbenhall; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Bubbenhall; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Coughton; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Coughton; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Earlswood; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Earlswood; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Exhall; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Exhall; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Great Alne; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Great Alne; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Haselor; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Haselor; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Hockley Heath; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Hockley Heath; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Kinwarton; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Kinwarton; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Morton Bagot; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Morton Bagot; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Oldberrow; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Oldberrow; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Packwood; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Packwood; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Portway; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Portway; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Salford Priors; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Salford Priors; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Sambourne; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Sambourne; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Spernall; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Spernall; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Stoneleigh; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Stoneleigh; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Studely; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Studely; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Weethley; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Weethley; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  Wixford; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
-- (ca (affected by repeal, see note))[^key-8cfcb78e4683107cfd58803aa6ea2fff][^key-bdc2fb8c174de7d6270a1f727bcb8f66] the following postcode districts— *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  Wixford; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
+- (ca (affected by repeal, see note))[^c-8cfcb78e4683107cfd58803aa6ea2fff][^c-bdc2fb8c174de7d6270a1f727bcb8f66] the following postcode districts— *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  GL15 and GL16 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  GL15 and GL16 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  HR2 and HR9 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  HR2 and HR9 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  LS1 to LS29 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  LS1 to LS29 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  NP1, NP4 to NP11, NP15, NP16, NP18, NP19, NP20, NP25, NP26 and NP44 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  NP1, NP4 to NP11, NP15, NP16, NP18, NP19, NP20, NP25, NP26 and NP44 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  in so far as they lie within the areas of Leeds City Council, Monmouthshire County Council, Newport County Borough Council or Torfaen County Borough Council. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
-- (d) the following postcode districts– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  in so far as they lie within the areas of Leeds City Council, Monmouthshire County Council, Newport County Borough Council or Torfaen County Borough Council. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
+- (d) the following postcode districts– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  [^key-9ff4a8e4a568f30ad365ace2d2698760] ... BD11 2[^key-1c7eda01cdef26c739c6ef5897be0c01] *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] , BD12 0, BD12 8, BD12 9, BD19 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  [^c-9ff4a8e4a568f30ad365ace2d2698760] ... BD11 2[^c-1c7eda01cdef26c739c6ef5897be0c01] *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] , BD12 0, BD12 8, BD12 9, BD19 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  CB8 0, CB8 7 to CB8 9, CB9 9, CO10 0, CO10 1, CO10 5, CO10 7 to CO10 9 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  CB8 0, CB8 7 to CB8 9, CB9 9, CO10 0, CO10 1, CO10 5, CO10 7 to CO10 9 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  [^key-9ff4a8e4a568f30ad365ace2d2698760] ...
+  [^c-9ff4a8e4a568f30ad365ace2d2698760] ...
 
-  CM0 to CM6, CM8, CM9, CM11 and CM16 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  CM0 to CM6, CM8, CM9, CM11 and CM16 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  CO5 0RX *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  CO5 0RX *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  DE55 1 to DE55 5, DE55 7 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  DE55 1 to DE55 5, DE55 7 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  E4, E10, E11, E17 and E18 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  E4, E10, E11, E17 and E18 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  G78 1 to G78 4 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  G78 1 to G78 4 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  [^key-9ff4a8e4a568f30ad365ace2d2698760] ...
+  [^c-9ff4a8e4a568f30ad365ace2d2698760] ...
 
-  HD1 to HD8 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  HD1 to HD8 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  [^key-9ff4a8e4a568f30ad365ace2d2698760] ...
+  [^c-9ff4a8e4a568f30ad365ace2d2698760] ...
 
-  HX1 to HX8[^key-dec32c97dbaded08966f36ca1e30defe] *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  HX1 to HX8[^c-dec32c97dbaded08966f36ca1e30defe] *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  IG1 to IG10 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  IG1 to IG10 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  IP1, IP2 0, IP2 9, IP3 0, IP3 8, IP2 4, IP4 5, IP5 1, IP5 3, IP6 0, IP6 8, IP6 9, IP7 5 to IP7 7, IP8 3, IP8 4, IP9 1, IP9 2, IP10 0, IP11 0, IP11 7 to IP11 9, IP12 1 to IP12 3, IP13 0, IP13 6 to IP13 9, IP14 1 to IP14 6, IP15 5, IP16 4, IP17 1 to IP17 3, IP18 6, IP 19 0, IP19 8, IP19 9, IP27 0, IP27 9, IP28 6 to IP28 8, IP29 4, IP29 5, IP30 0, IP30 9, IP31 1 to IP31 3, IP32 6, IP32 7, IP33 2 and IP33 3 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  IP1, IP2 0, IP2 9, IP3 0, IP3 8, IP2 4, IP4 5, IP5 1, IP5 3, IP6 0, IP6 8, IP6 9, IP7 5 to IP7 7, IP8 3, IP8 4, IP9 1, IP9 2, IP10 0, IP11 0, IP11 7 to IP11 9, IP12 1 to IP12 3, IP13 0, IP13 6 to IP13 9, IP14 1 to IP14 6, IP15 5, IP16 4, IP17 1 to IP17 3, IP18 6, IP 19 0, IP19 8, IP19 9, IP27 0, IP27 9, IP28 6 to IP28 8, IP29 4, IP29 5, IP30 0, IP30 9, IP31 1 to IP31 3, IP32 6, IP32 7, IP33 2 and IP33 3 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  KA28 to KA30 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  KA28 to KA30 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  [^key-9ff4a8e4a568f30ad365ace2d2698760] ... [^key-9ff4a8e4a568f30ad365ace2d2698760] ...
+  [^c-9ff4a8e4a568f30ad365ace2d2698760] ... [^c-9ff4a8e4a568f30ad365ace2d2698760] ...
 
-  NG14 7, NG16 5, NG16 6, NG17 to NG22, NG23 5, NG23 6 and NG25 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  NG14 7, NG16 5, NG16 6, NG17 to NG22, NG23 5, NG23 6 and NG25 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  [^key-9ff4a8e4a568f30ad365ace2d2698760] ...
+  [^c-9ff4a8e4a568f30ad365ace2d2698760] ...
 
-  NR32 3 to NR32 5, NR33 7 to NR33 9, NR34 0 and NR34 7 to NR34 9 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  NR32 3 to NR32 5, NR33 7 to NR33 9, NR34 0 and NR34 7 to NR34 9 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  OL14 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  OL14 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  PA1 to PA27[^key-716328bcdb4b03f34397cc1ae3d52873] *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  PA1 to PA27[^c-716328bcdb4b03f34397cc1ae3d52873] *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  RM6, except for the following parts: *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  RM6, except for the following parts: *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  5AA, 5BH, 5HD, 5HB, 5HH, 5HP, 5EP, 5ER, 5EL, 5QT, 6DU, 6DX, 5TJ, 5SB, 6RH, 5RA, 5QX, 6RJ, 6RL and 6RB *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  5AA, 5BH, 5HD, 5HB, 5HH, 5HP, 5EP, 5ER, 5EL, 5QT, 6DU, 6DX, 5TJ, 5SB, 6RH, 5RA, 5QX, 6RJ, 6RL and 6RB *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  RM8, except for the following parts: *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  RM8, except for the following parts: *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  3UH, 3UL, 3UB, 3UA, 3HX, 3HR, 3HA, 3HB, 3HD, 3JA, 3HU, 3JP, 3XX, 3YA, 3YB, 3YH, 3YJ, 3YL, 1UT, 1XA, 1DB, 1DD, 1DH, 1DJ, 1YR, 1YP, 1BX, 1BU, 1BT, 1BP, 3RP, 3RR, 3SR, 3UD, 3UX, 1XJ and 1XL *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  3UH, 3UL, 3UB, 3UA, 3HX, 3HR, 3HA, 3HB, 3HD, 3JA, 3HU, 3JP, 3XX, 3YA, 3YB, 3YH, 3YJ, 3YL, 1UT, 1XA, 1DB, 1DD, 1DH, 1DJ, 1YR, 1YP, 1BX, 1BU, 1BT, 1BP, 3RP, 3RR, 3SR, 3UD, 3UX, 1XJ and 1XL *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  SS0 to SS6 and SS9 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  SS0 to SS6 and SS9 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  SS11, but only the following parts: *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  SS11, but only the following parts: *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  7EE, 7PR, 7BS, 7NW, 7NP, 7NS, 7NJ, 7NR, 7NX, 7PD, 7PB, 7PE, 7PA, 7PT, 7BL, 7JG, 7HU, 7JE, 7PX, 7HS, 7QH, 7BJ, 7NB, 7ND, 7EY, 7HY, 7HZ, 7JD, 7JF, 7DP, 7DN, 7JQ, 7BQ, 7JG, 7BG, 7NA, 7LY, 7LX, 7BH, 7BW, 7EX, 7ET, 7LZ, 7EP, 7BE, 7LR, 7LP, 7HX, 7PP , 7PY, 7DX, 7DY, 7HB, 7HA, 7BN, 7ES, 7PU, 7QD, 7QA, 7QB, 7PZ, 7DW, 7HP, 7PS, 7QF, 7PN, 7HT, 7QG, 7EU, 7DR, 7DT, 7DA, 7DB, 7NU, 7JB, 7JA, 7LN, 7LW, 7LS and 7BP *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  7EE, 7PR, 7BS, 7NW, 7NP, 7NS, 7NJ, 7NR, 7NX, 7PD, 7PB, 7PE, 7PA, 7PT, 7BL, 7JG, 7HU, 7JE, 7PX, 7HS, 7QH, 7BJ, 7NB, 7ND, 7EY, 7HY, 7HZ, 7JD, 7JF, 7DP, 7DN, 7JQ, 7BQ, 7JG, 7BG, 7NA, 7LY, 7LX, 7BH, 7BW, 7EX, 7ET, 7LZ, 7EP, 7BE, 7LR, 7LP, 7HX, 7PP , 7PY, 7DX, 7DY, 7HB, 7HA, 7BN, 7ES, 7PU, 7QD, 7QA, 7QB, 7PZ, 7DW, 7HP, 7PS, 7QF, 7PN, 7HT, 7QG, 7EU, 7DR, 7DT, 7DA, 7DB, 7NU, 7JB, 7JA, 7LN, 7LW, 7LS and 7BP *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  SS12 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  SS12 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  WA1 to WA5, WA7, WA8 and WA11 to WA13 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  WA1 to WA5, WA7, WA8 and WA11 to WA13 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-  WF3 and WF12 to WF17. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+  WF3 and WF12 to WF17. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-## SCHEDULE 1A — AREAS IN WHICH PERSONS WHO ARE SUBJECT TO THE REPEAT INTERVIEW REQUIREMENT IN REGULATION 6(3) OR (4A) RESIDE[^key-888f8f74d4cfba4e267c746b13b3da63]
+## SCHEDULE 1A — AREAS IN WHICH PERSONS WHO ARE SUBJECT TO THE REPEAT INTERVIEW REQUIREMENT IN REGULATION 6(3) OR (4A) RESIDE[^c-888f8f74d4cfba4e267c746b13b3da63]
 
 Regulation 6(1)(a) and (4A)
 
-CM1 to CM6. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+CM1 to CM6. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-HD1 to HD9. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+HD1 to HD9. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-HX1 to HX8. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+HX1 to HX8. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-OL14. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+OL14. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-PA11 but only the following parts: *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+PA11 but only the following parts: *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-3QT, 3QX, 3QY, 3QZ, 3RX, 3RZ, 3SD, 3SF, 3SJ, 3SL, 3SQ, 3SW, 3SX, 3SY, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+3QT, 3QX, 3QY, 3QZ, 3RX, 3RZ, 3SD, 3SF, 3SJ, 3SL, 3SQ, 3SW, 3SX, 3SY, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-PA13 to PA16, PA18 and PA19. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+PA13 to PA16, PA18 and PA19. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-SS0 to SS6, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+SS0 to SS6, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-SS11 but only the following parts: *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+SS11 but only the following parts: *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7BE, 7BG, 7BH, 7BJ, 7BL, 7BN, 7BP, 7BQ, 7BS, 7BW, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7BE, 7BG, 7BH, 7BJ, 7BL, 7BN, 7BP, 7BQ, 7BS, 7BW, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7DA, 7DB, 7DN, 7DP, 7DR, 7DT, 7DW, 7DX, 7DY, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7DA, 7DB, 7DN, 7DP, 7DR, 7DT, 7DW, 7DX, 7DY, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7EE, 7EP, 7ES, 7ET, 7EU, 7EX, 7EY, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7EE, 7EP, 7ES, 7ET, 7EU, 7EX, 7EY, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7HA, 7HB, 7HP, 7HS, 7HT, 7HU, 7HX, 7HY, 7HZ, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7HA, 7HB, 7HP, 7HS, 7HT, 7HU, 7HX, 7HY, 7HZ, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7JA, 7JB, 7JE, 7JF, 7JG, 7JQ, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7JA, 7JB, 7JE, 7JF, 7JG, 7JQ, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7LN, 7LP, 7LR, 7LS, 7LW, 7LX, 7LY, 7LZ, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7LN, 7LP, 7LR, 7LS, 7LW, 7LX, 7LY, 7LZ, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7NA, 7NB, 7ND, 7NJ, 7NP, 7NR, 7NS, 7NU, 7NW, 7NX, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7NA, 7NB, 7ND, 7NJ, 7NP, 7NR, 7NS, 7NU, 7NW, 7NX, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7PA, 7PB, 7PD, 7PE, 7PN, 7PP, 7PR, 7PS, 7PT, 7PU, 7PX, 7PY,7PZ, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7PA, 7PB, 7PD, 7PE, 7PN, 7PP, 7PR, 7PS, 7PT, 7PU, 7PX, 7PY,7PZ, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-7QA, 7QB, 7QD, 7QF, 7QG, 7QH. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+7QA, 7QB, 7QD, 7QF, 7QG, 7QH. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-SS12. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+SS12. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
-WF12 to WF17. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66]
+WF12 to WF17. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66]
 
 ## SCHEDULE 2 — HOUSING BENEFIT AMENDMENTS
 
 Regulation 16(1)
 
-**1.**[^key-84e94ac15bfaf8b945533834f32005d0] The Housing Benefit Regulations shall be amended in accordance with the following paragraphs of this Schedule. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**1.**[^c-84e94ac15bfaf8b945533834f32005d0] The Housing Benefit Regulations shall be amended in accordance with the following paragraphs of this Schedule. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-**2.** In regulation 2(1) (interpretation), after the entry relating to “water charges", there shall be inserted the following entries– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**2.** In regulation 2(1) (interpretation), after the entry relating to “water charges", there shall be inserted the following entries– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-> “work-focused interview" has the meaning it has in regulation 3 of the Work-focused Interviews Regulations; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> “work-focused interview" has the meaning it has in regulation 3 of the Work-focused Interviews Regulations; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> “the Work-focused Interviews Regulations" means the Social Security (Work-focused Interviews) Regulations 2000 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] [^c16187631] ;
+> “the Work-focused Interviews Regulations" means the Social Security (Work-focused Interviews) Regulations 2000 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] [^c16187631] ;
 
 .
 
-**3.** (1) In regulation 68 (date on which change of circumstances is to take effect), in paragraph (1), the word “either" shall be omitted and for the word “ applies" there shall be substituted the words *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] “ or regulation 68A applies ” *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] .
+**3.** (1) In regulation 68 (date on which change of circumstances is to take effect), in paragraph (1), the word “either" shall be omitted and for the word “ applies" there shall be substituted the words *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] “ or regulation 68A applies ” *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] .
 
-(2) After regulation 68 there shall be inserted the following regulation– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+(2) After regulation 68 there shall be inserted the following regulation– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-> **68A. Date of change of circumstances following decision as to whether person took part in a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^key-bdc2fb8c174de7d6270a1f727bcb8f66][^key-84e94ac15bfaf8b945533834f32005d0]**
+> **68A. Date of change of circumstances following decision as to whether person took part in a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^c-bdc2fb8c174de7d6270a1f727bcb8f66][^c-84e94ac15bfaf8b945533834f32005d0]**
 >
-> (1) Where the relevant change of circumstances is a decision made in accordance with regulation 11 of the Work-focused Interviews Regulations as to whether a person took part in a work-focused interview, the date on which the change of circumstances is to take effect shall be determined in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (1) Where the relevant change of circumstances is a decision made in accordance with regulation 11 of the Work-focused Interviews Regulations as to whether a person took part in a work-focused interview, the date on which the change of circumstances is to take effect shall be determined in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (2) Where the relevant change of circumstances is that the consequences specified in regulation 12(2)(b) or (c) of the Work-focused Interviews Regulations apply, the change shall take effect as from the first day of the next benefit week following the date of the decision that the claimant failed without good cause to take part in a work-focused interview. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (2) Where the relevant change of circumstances is that the consequences specified in regulation 12(2)(b) or (c) of the Work-focused Interviews Regulations apply, the change shall take effect as from the first day of the next benefit week following the date of the decision that the claimant failed without good cause to take part in a work-focused interview. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (3) Where the relevant change of circumstances is that the claimant attains the age of 60 or ceases to reside in an area specified in Schedule 1 to the Work-focused Interviews Regulations, the date on which the change of circumstances is to take effect is the first day of the next benefit week to commence for that person following the date the decision was made or the circumstance occurred. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (3) Where the relevant change of circumstances is that the claimant attains the age of 60 or ceases to reside in an area specified in Schedule 1 to the Work-focused Interviews Regulations, the date on which the change of circumstances is to take effect is the first day of the next benefit week to commence for that person following the date the decision was made or the circumstance occurred. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (4) Where the relevant change of circumstances is a decision that the consequences specified in paragraph (2) which applied to the claimant no longer apply, the date on which the change of circumstances is to take effect is the day on which it would have had effect had the revised decision been made on the date of the decision it revised. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (4) Where the relevant change of circumstances is a decision that the consequences specified in paragraph (2) which applied to the claimant no longer apply, the date on which the change of circumstances is to take effect is the day on which it would have had effect had the revised decision been made on the date of the decision it revised. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (5) Where a person– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (5) Where a person– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) has been held not to have taken part in a work-focused interview; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) in consequence of that decision suffers a reduction in benefit; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (c) subsequently takes part in a work-focused interview, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) has been held not to have taken part in a work-focused interview; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) in consequence of that decision suffers a reduction in benefit; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (c) subsequently takes part in a work-focused interview, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> the date on which the change of circumstances is to have effect is the first day of the benefit week in which the requirement to take part in the interview was met. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> the date on which the change of circumstances is to have effect is the first day of the benefit week in which the requirement to take part in the interview was met. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
 .
 
-**4.** In regulation 79 (review of determinations)– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**4.** In regulation 79 (review of determinations)– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-- (a) in paragraph (1), for the words “Subject to paragraph 1A *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] [^c16187641] ", there shall be substituted the words *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraphs (1A) and (1B) ” *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] ; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-- (b) after paragraph (1A), there shall be inserted the following paragraph– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+- (a) in paragraph (1), for the words “Subject to paragraph 1A *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] [^c16187641] ", there shall be substituted the words *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraphs (1A) and (1B) ” *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] ; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+- (b) after paragraph (1A), there shall be inserted the following paragraph– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-  > (1B) A determination or decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-
-  .
-
-**5.** In regulation 81 (further review of determinations)– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-
-- (a) in paragraph (3), at the beginning, there shall be inserted the words *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraph (5) ” *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] ;
-- (b) after paragraph (4), there shall be added the following paragraph– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-
-  > (5) A determination or a decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed by a Review Board. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+  > (1B) A determination or decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
   .
 
-**6.** In Schedule 6 (matters to be included in the Notice of Determination), the following Part shall be added at the end– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**5.** In regulation 81 (further review of determinations)– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-> **PART VIII (affected by repeal, see note) (affected by repeal, see note) — Notice following a decision on a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^key-bdc2fb8c174de7d6270a1f727bcb8f66][^key-84e94ac15bfaf8b945533834f32005d0][^key-bdc2fb8c174de7d6270a1f727bcb8f66][^key-84e94ac15bfaf8b945533834f32005d0]**
+- (a) in paragraph (3), at the beginning, there shall be inserted the words *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraph (5) ” *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] ;
+- (b) after paragraph (4), there shall be added the following paragraph– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+
+  > (5) A determination or a decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed by a Review Board. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+
+  .
+
+**6.** In Schedule 6 (matters to be included in the Notice of Determination), the following Part shall be added at the end– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+
+> **PART VIII (affected by repeal, see note) (affected by repeal, see note) — Notice following a decision on a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^c-bdc2fb8c174de7d6270a1f727bcb8f66][^c-84e94ac15bfaf8b945533834f32005d0][^c-bdc2fb8c174de7d6270a1f727bcb8f66][^c-84e94ac15bfaf8b945533834f32005d0]**
 >
-> **15.** (1) This Part applies in a case where a decision has been made in accordance with regulation 11 of the Work-focused Interviews Regulations that a person has failed to take part in a work-focused interview. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> **15.** (1) This Part applies in a case where a decision has been made in accordance with regulation 11 of the Work-focused Interviews Regulations that a person has failed to take part in a work-focused interview. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (2) In a case where one of the consequences specified in sub-paragraphs (3) and (4) apply, the notice of determination shall include a statement as to the person’s right of appeal against the decision that he failed to take part in a work-focused interview. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (2) In a case where one of the consequences specified in sub-paragraphs (3) and (4) apply, the notice of determination shall include a statement as to the person’s right of appeal against the decision that he failed to take part in a work-focused interview. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (3) In a case where the consequence of the failure to take part is that the entitlement to housing benefit terminates, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (3) In a case where the consequence of the failure to take part is that the entitlement to housing benefit terminates, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) the last date of the entitlement to housing benefit; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) the reason entitlement terminated. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) the last date of the entitlement to housing benefit; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) the reason entitlement terminated. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (4) In a case where the consequence of the failure to take part is that the amount of housing benefit payable is reduced, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (4) In a case where the consequence of the failure to take part is that the amount of housing benefit payable is reduced, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) the amount by which the housing benefit is reduced; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) the date from which the reduction takes effect; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (c) the reason for the reduction. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) the amount by which the housing benefit is reduced; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) the date from which the reduction takes effect; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (c) the reason for the reduction. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (5) In a case where a new decision is made reversing an earlier decision that a person failed to take part in a work-focused interview, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (5) In a case where a new decision is made reversing an earlier decision that a person failed to take part in a work-focused interview, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) the date from which the consequences of the failure cease to apply; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) the reason for the new decision. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) the date from which the consequences of the failure cease to apply; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) the reason for the new decision. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
 .
 
@@ -660,81 +660,81 @@ Regulation 16(1)
 
 Regulation 16(2)
 
-**1.** The Council Tax Benefit Regulations shall be amended in accordance with the following paragraphs of this Schedule. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**1.** The Council Tax Benefit Regulations shall be amended in accordance with the following paragraphs of this Schedule. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-**2.** In regulation 2(1) (interpretation), after the entry relating to “water charges", there shall be inserted the following entries– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**2.** In regulation 2(1) (interpretation), after the entry relating to “water charges", there shall be inserted the following entries– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-> “work-focused interview" has the meaning it has in regulation 3 of the Work-focused Interviews Regulations; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> “work-focused interview" has the meaning it has in regulation 3 of the Work-focused Interviews Regulations; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> “the Work-focused Interviews Regulations" means the Social Security (Work-focused Interviews) Regulations 2000 *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] [^c16187651] ;
+> “the Work-focused Interviews Regulations" means the Social Security (Work-focused Interviews) Regulations 2000 *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] [^c16187651] ;
 
 .
 
-**3.** (1) In regulation 59 (date on which change of circumstances is to take effect), in paragraph (1), for the word “applies" there shall be substituted the words *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] “ and regulation 59A applies ” *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] .
+**3.** (1) In regulation 59 (date on which change of circumstances is to take effect), in paragraph (1), for the word “applies" there shall be substituted the words *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] “ and regulation 59A applies ” *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] .
 
-(2) After regulation 59 there shall be inserted the following regulation– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+(2) After regulation 59 there shall be inserted the following regulation– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-> **59A. Date of change of circumstances following a decision as to whether a person took part in a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^key-bdc2fb8c174de7d6270a1f727bcb8f66][^key-84e94ac15bfaf8b945533834f32005d0]**
+> **59A. Date of change of circumstances following a decision as to whether a person took part in a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^c-bdc2fb8c174de7d6270a1f727bcb8f66][^c-84e94ac15bfaf8b945533834f32005d0]**
 >
-> (1) Where the relevant change of circumstances is a decision made in accordance with regulation 11 of the Work-focused Interviews Regulations as to whether a person took part in a work-focused interview, the date on which the change of circumstances is to take effect shall be determined in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (1) Where the relevant change of circumstances is a decision made in accordance with regulation 11 of the Work-focused Interviews Regulations as to whether a person took part in a work-focused interview, the date on which the change of circumstances is to take effect shall be determined in accordance with the following paragraphs of this regulation. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (2) Where the relevant change of circumstances is that the consequences specified in regulation 12(2)(b) or (c) of the Work-focused Interviews Regulations apply, the change shall take effect as from the first day of the next benefit week following the date of the decision that the claimant failed without good cause to take part in a work-focused interview. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (2) Where the relevant change of circumstances is that the consequences specified in regulation 12(2)(b) or (c) of the Work-focused Interviews Regulations apply, the change shall take effect as from the first day of the next benefit week following the date of the decision that the claimant failed without good cause to take part in a work-focused interview. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (3) Where the relevant change of circumstances is that the claimant attains the age of 60 or ceases to reside in an area specified in Schedule 1 to the Work-focused Interviews Regulations, the date on which the change of circumstances is to take effect is the first day of the next benefit week to commence for that person following the date the decision was made or the circumstance occurs. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (3) Where the relevant change of circumstances is that the claimant attains the age of 60 or ceases to reside in an area specified in Schedule 1 to the Work-focused Interviews Regulations, the date on which the change of circumstances is to take effect is the first day of the next benefit week to commence for that person following the date the decision was made or the circumstance occurs. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (4) Where the relevant change of circumstances is a decision that the consequences specified in paragraph (2) which applied to the claimant no longer apply, the date on which the change of circumstances is to take effect is the day on which it would have had effect had the revised decision been made on the date of the decision it revised. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (4) Where the relevant change of circumstances is a decision that the consequences specified in paragraph (2) which applied to the claimant no longer apply, the date on which the change of circumstances is to take effect is the day on which it would have had effect had the revised decision been made on the date of the decision it revised. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (5) Where a person– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (5) Where a person– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) has been held not to have taken part in a work-focused interview; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) in consequence of that decision suffers a reduction in benefit; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (c) subsequently takes part in a work-focused interview, *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) has been held not to have taken part in a work-focused interview; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) in consequence of that decision suffers a reduction in benefit; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (c) subsequently takes part in a work-focused interview, *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> the date on which the change of circumstances is to have effect is the first day of the benefit week in which the requirement to take part in the interview was met. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> the date on which the change of circumstances is to have effect is the first day of the benefit week in which the requirement to take part in the interview was met. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
 .
 
-**4.** In regulation 69 (review of determinations)– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**4.** In regulation 69 (review of determinations)– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-- (a) in paragraph (1), for the words “Subject to paragraph (1A) *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] [^c16187661] ", there shall be substituted the words *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraphs (1A) and (1B), ” *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] ; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-- (b) after paragraph (1A), there shall be inserted the following paragraph– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+- (a) in paragraph (1), for the words “Subject to paragraph (1A) *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] [^c16187661] ", there shall be substituted the words *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraphs (1A) and (1B), ” *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] ; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+- (b) after paragraph (1A), there shall be inserted the following paragraph– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-  > (1B) A determination or decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-
-  .
-
-**5.** In regulation 70 (further review of determinations)– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-
-- (a) in paragraph (3) for the words “Subject to paragraph (4)", there shall be substituted the words *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraphs (4) and (6) ” *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0] ;
-- (b) after paragraph (5), there shall be added the following paragraph– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-
-  > (6) A determination or a decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed by a Review Board. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+  > (1B) A determination or decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
   .
 
-**6.** In Schedule 6 (matters to be included in the notice of determination), the following Part shall be added at the end– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+**5.** In regulation 70 (further review of determinations)– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
-> **PART VIII (affected by repeal, see note) (affected by repeal, see note) — Notice following a decision on a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^key-bdc2fb8c174de7d6270a1f727bcb8f66][^key-84e94ac15bfaf8b945533834f32005d0][^key-bdc2fb8c174de7d6270a1f727bcb8f66][^key-84e94ac15bfaf8b945533834f32005d0]**
+- (a) in paragraph (3) for the words “Subject to paragraph (4)", there shall be substituted the words *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] “ Subject to paragraphs (4) and (6) ” *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0] ;
+- (b) after paragraph (5), there shall be added the following paragraph– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+
+  > (6) A determination or a decision that a person did or did not take part in a work-focused interview and if he did not whether he had good cause for not doing so, shall not be reviewed by a Review Board. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+
+  .
+
+**6.** In Schedule 6 (matters to be included in the notice of determination), the following Part shall be added at the end– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+
+> **PART VIII (affected by repeal, see note) (affected by repeal, see note) — Notice following a decision on a work-focused interview (affected by repeal, see note) (affected by repeal, see note)[^c-bdc2fb8c174de7d6270a1f727bcb8f66][^c-84e94ac15bfaf8b945533834f32005d0][^c-bdc2fb8c174de7d6270a1f727bcb8f66][^c-84e94ac15bfaf8b945533834f32005d0]**
 >
-> **15.** (1) This Part applies in a case where a decision has been made in accordance with regulation 11 of the Work-focused Interviews Regulations that a person has failed to take part in a work-focused interview. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> **15.** (1) This Part applies in a case where a decision has been made in accordance with regulation 11 of the Work-focused Interviews Regulations that a person has failed to take part in a work-focused interview. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (2) In a case where one of the consequences specified in sub-paragraphs (3) and (4) apply, the notice of determination shall include a statement as to the person’s right of appeal against the decision that he failed to take part in a work-focused interview. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (2) In a case where one of the consequences specified in sub-paragraphs (3) and (4) apply, the notice of determination shall include a statement as to the person’s right of appeal against the decision that he failed to take part in a work-focused interview. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (3) In a case where the consequence of the failure to take part is that the entitlement to council tax benefit terminates, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (3) In a case where the consequence of the failure to take part is that the entitlement to council tax benefit terminates, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) the last date of the entitlement to council tax benefit; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) the reason entitlement terminated. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) the last date of the entitlement to council tax benefit; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) the reason entitlement terminated. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (4) In a case where the consequence of the failure to take part is that the amount of council tax benefit is reduced, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (4) In a case where the consequence of the failure to take part is that the amount of council tax benefit is reduced, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) the amount by which the council tax benefit is reduced; *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) the date from which the reduction takes effect; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (c) the reason for the reduction. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) the amount by which the council tax benefit is reduced; *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) the date from which the reduction takes effect; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (c) the reason for the reduction. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> (5) In a case where a new decision is made reversing an earlier decision that a person failed to take part in a work-focused interview, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> (5) In a case where a new decision is made reversing an earlier decision that a person failed to take part in a work-focused interview, the notice of determination shall include a statement as to– *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 >
-> - (a) the date from which the consequences of the failure cease to apply; and *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
-> - (b) the reason for the new decision. *(affected by repeal, see note)*[^key-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^key-84e94ac15bfaf8b945533834f32005d0]
+> - (a) the date from which the consequences of the failure cease to apply; and *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
+> - (b) the reason for the new decision. *(affected by repeal, see note)*[^c-bdc2fb8c174de7d6270a1f727bcb8f66] *(affected by repeal, see note)*[^c-84e94ac15bfaf8b945533834f32005d0]
 
 .
 
@@ -742,123 +742,123 @@ Regulation 16(2)
 
 Regulation 16(3)
 
-### PART I (affected by repeal, see note) — HOUSING BENEFIT AMENDMENTS (affected by repeal, see note)[^key-42ac736ce541e2fd4eac848149354b7d][^key-42ac736ce541e2fd4eac848149354b7d]
+### PART I (affected by repeal, see note) — HOUSING BENEFIT AMENDMENTS (affected by repeal, see note)[^c-42ac736ce541e2fd4eac848149354b7d][^c-42ac736ce541e2fd4eac848149354b7d]
 
-**1.** The Housing Benefit Regulations shall be amended in accordance with the following provisions of this Part. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**1.** The Housing Benefit Regulations shall be amended in accordance with the following provisions of this Part. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-**2.** In regulation 2 (interpretation), in paragraph (1)– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**2.** In regulation 2 (interpretation), in paragraph (1)– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-- (a) after the entry relating to “date of claim" there shall be inserted the following entry– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+- (a) after the entry relating to “date of claim" there shall be inserted the following entry– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-“ the designated authority ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] means any of the following– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+“ the designated authority ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] means any of the following– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-- (a) the Secretary of State; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-- (b) a person providing services to the Secretary of State; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-- (c) a local authority; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-- (d) a person providing services to, or authorised to exercise any functions of, any such authority; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-- (b) the entry relating to “relevant authority" shall be omitted *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] [^c16187671].
+- (a) the Secretary of State; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+- (b) a person providing services to the Secretary of State; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+- (c) a local authority; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+- (d) a person providing services to, or authorised to exercise any functions of, any such authority; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+- (b) the entry relating to “relevant authority" shall be omitted *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] [^c16187671].
 
-**3.** In regulation 71 (who may claim), in paragraph (7), for the words “ Part I or *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] II *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] of Schedule 2 to the Social Security (Claims and Information) Regulations 1999" there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ Schedule 1 to the Work-focused Interviews Regulations ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] and for the words “relevant authority", there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d].
+**3.** In regulation 71 (who may claim), in paragraph (7), for the words “ Part I or *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] II *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] of Schedule 2 to the Social Security (Claims and Information) Regulations 1999" there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ Schedule 1 to the Work-focused Interviews Regulations ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] and for the words “relevant authority", there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d].
 
-**4.** In regulation 72 (time and manner in which claims are to be made)– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**4.** In regulation 72 (time and manner in which claims are to be made)– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-- (a) in paragraph (1), for the words “Subject to regulation 72B, every", there shall be substituted the word *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ Every ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d];
-- (b) in paragraph (4)– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-  - (i) in sub-paragraph (d), for the words “and is not engaged in remunerative work", there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ and is neither engaged in remunerative work nor residing in an area identified in Schedule 1 to the Work-focused Interviews Regulations ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d];
-  - (ii (affected by repeal, see note))[^key-42ac736ce541e2fd4eac848149354b7d] at the end there shall be added the following sub-paragraph– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+- (a) in paragraph (1), for the words “Subject to regulation 72B, every", there shall be substituted the word *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ Every ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d];
+- (b) in paragraph (4)– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+  - (i) in sub-paragraph (d), for the words “and is not engaged in remunerative work", there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ and is neither engaged in remunerative work nor residing in an area identified in Schedule 1 to the Work-focused Interviews Regulations ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d];
+  - (ii (affected by repeal, see note))[^c-42ac736ce541e2fd4eac848149354b7d] at the end there shall be added the following sub-paragraph– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-    > - (e) may be sent or delivered to the office of a designated authority where the claimant– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-    >   - (i) has attained the age of 16 but not the age of 60; and *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-    >   - (ii (affected by repeal, see note))[^key-42ac736ce541e2fd4eac848149354b7d] resides in an area identified in Schedule 1 to the Work-focused Interviews Regulations. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+    > - (e) may be sent or delivered to the office of a designated authority where the claimant– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+    >   - (i) has attained the age of 16 but not the age of 60; and *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+    >   - (ii (affected by repeal, see note))[^c-42ac736ce541e2fd4eac848149354b7d] resides in an area identified in Schedule 1 to the Work-focused Interviews Regulations. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
     .
 
-**5.** In regulation 72A *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] [^c16187681] (date of claim where claim sent or delivered to a gateway office) in paragraph (3) at the end there shall be added the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ or are made at an office of a designated authority in accordance with regulation 72(4)(c). ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d].
+**5.** In regulation 72A *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] [^c16187681] (date of claim where claim sent or delivered to a gateway office) in paragraph (3) at the end there shall be added the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ or are made at an office of a designated authority in accordance with regulation 72(4)(c). ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d].
 
-**6.** For regulations 72B and 72C *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] [^c16187691], there shall be substituted the following regulation– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**6.** For regulations 72B and 72C *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] [^c16187691], there shall be substituted the following regulation– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-> **72B. Date of claim where claim sent or delivered to an office of a designated authority (affected by repeal, see note)[^key-42ac736ce541e2fd4eac848149354b7d]**
+> **72B. Date of claim where claim sent or delivered to an office of a designated authority (affected by repeal, see note)[^c-42ac736ce541e2fd4eac848149354b7d]**
 >
-> (1) Where a claim for housing benefit has been sent or delivered to an office of a designated authority in accordance with regulation 72(4)(e), the date on which the claim is made shall be– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (1) Where a claim for housing benefit has been sent or delivered to an office of a designated authority in accordance with regulation 72(4)(e), the date on which the claim is made shall be– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> - (a) except where paragraph (b) applies, the date the claim is received at an office of the designated authority; or *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-> - (b) where in the 4 weeks before the claim is received in an office of a designated authority, the person making the claim or a person acting on his behalf had notified an office of a designated authority of his intention to make such a claim, the date the notification was given. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> - (a) except where paragraph (b) applies, the date the claim is received at an office of the designated authority; or *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+> - (b) where in the 4 weeks before the claim is received in an office of a designated authority, the person making the claim or a person acting on his behalf had notified an office of a designated authority of his intention to make such a claim, the date the notification was given. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> (2) A notification of intention to make a claim is deemed to be given on the date on which notification of the intention to claim housing benefit is received, in whatever form, from the claimant, or the person acting on his behalf, at an office of a designated authority. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (2) A notification of intention to make a claim is deemed to be given on the date on which notification of the intention to claim housing benefit is received, in whatever form, from the claimant, or the person acting on his behalf, at an office of a designated authority. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> (3) Paragraph (2) applies where neither income support nor a jobseeker’s allowance is claimed in conjunction with housing benefit. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (3) Paragraph (2) applies where neither income support nor a jobseeker’s allowance is claimed in conjunction with housing benefit. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> (4) Where the person claiming housing benefit in accordance with regulation 72(4)(e), or the partner of that person,– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (4) Where the person claiming housing benefit in accordance with regulation 72(4)(e), or the partner of that person,– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> - (a) has an award of income support or income-based jobseeker’s allowance; or *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-> - (b) has claimed such a benefit but no award has been made, *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> - (a) has an award of income support or income-based jobseeker’s allowance; or *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+> - (b) has claimed such a benefit but no award has been made, *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> the date on which the claim for housing benefit is made shall be determined as if sub-paragraphs (a), (b), (c) and (e) of paragraph (1) of regulation 72A applied to that claim as they apply to claims under regulation 72(4)(d). *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> the date on which the claim for housing benefit is made shall be determined as if sub-paragraphs (a), (b), (c) and (e) of paragraph (1) of regulation 72A applied to that claim as they apply to claims under regulation 72(4)(d). *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
 .
 
-**7.** In regulation 73 (evidence and information) paragraph (7) shall be omitted. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**7.** In regulation 73 (evidence and information) paragraph (7) shall be omitted. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-**8.** In regulation 75 (duty to notify change of circumstances), in paragraph (4), for the words “relevant authority" there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d].
+**8.** In regulation 75 (duty to notify change of circumstances), in paragraph (4), for the words “relevant authority" there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d].
 
-### PART II (affected by repeal, see note) — COUNCIL TAX BENEFIT AMENDMENTS (affected by repeal, see note)[^key-42ac736ce541e2fd4eac848149354b7d][^key-42ac736ce541e2fd4eac848149354b7d]
+### PART II (affected by repeal, see note) — COUNCIL TAX BENEFIT AMENDMENTS (affected by repeal, see note)[^c-42ac736ce541e2fd4eac848149354b7d][^c-42ac736ce541e2fd4eac848149354b7d]
 
-**1.** The Council Tax Benefit Regulations shall be amended in accordance with the following provisions of this Part. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**1.** The Council Tax Benefit Regulations shall be amended in accordance with the following provisions of this Part. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-**2.** In regulation 2 (interpretation), in paragraph (1)– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**2.** In regulation 2 (interpretation), in paragraph (1)– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-- (a) after the entry relating to “date of claim" there shall be inserted the following entry– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+- (a) after the entry relating to “date of claim" there shall be inserted the following entry– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-  > “the designated authority" means any of the following– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+  > “the designated authority" means any of the following– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
   >
-  > - (a) the Secretary of State; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-  > - (b) a person providing services to the Secretary of State; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-  > - (c) a local authority; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-  > - (d) a person providing services to, or authorised to exercise any functions of, any such authority; *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-- (b) the entry relating to “relevant authority" shall be omitted *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] [^c16187701].
+  > - (a) the Secretary of State; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+  > - (b) a person providing services to the Secretary of State; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+  > - (c) a local authority; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+  > - (d) a person providing services to, or authorised to exercise any functions of, any such authority; *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+- (b) the entry relating to “relevant authority" shall be omitted *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] [^c16187701].
 
-**3.** In regulation 61 (who may claim), in paragraph (7), for the words “ relevant authority", there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d].
+**3.** In regulation 61 (who may claim), in paragraph (7), for the words “ relevant authority", there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d].
 
-**4.** In regulation 62 (time and manner in which claims are made)– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**4.** In regulation 62 (time and manner in which claims are made)– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-- (a) in paragraph (1), for the words “Subject to regulation 62B, every" there shall be substituted the word *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ Every ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d];
-- (b) in paragraph (4)– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-  - (i) in sub-paragraph (d), for the words “and is not engaged in remunerative work", there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ and is neither engaged in remunerative work nor residing in an area identified in Schedule 1 to the Work-focused Interviews Regulations ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d];
-  - (ii (affected by repeal, see note))[^key-42ac736ce541e2fd4eac848149354b7d] at the end there shall be added the following sub-paragraph– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+- (a) in paragraph (1), for the words “Subject to regulation 62B, every" there shall be substituted the word *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ Every ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d];
+- (b) in paragraph (4)– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+  - (i) in sub-paragraph (d), for the words “and is not engaged in remunerative work", there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ and is neither engaged in remunerative work nor residing in an area identified in Schedule 1 to the Work-focused Interviews Regulations ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d];
+  - (ii (affected by repeal, see note))[^c-42ac736ce541e2fd4eac848149354b7d] at the end there shall be added the following sub-paragraph– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-    > - (e) may be sent or delivered to the office of a designated authority where the claimant– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-    >   - (i) has attained the age of 16 but not the age of 60; and *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-    >   - (ii (affected by repeal, see note))[^key-42ac736ce541e2fd4eac848149354b7d] resides in an area identified in Schedule 1 to the Work-focused Interviews Regulations. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+    > - (e) may be sent or delivered to the office of a designated authority where the claimant– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+    >   - (i) has attained the age of 16 but not the age of 60; and *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+    >   - (ii (affected by repeal, see note))[^c-42ac736ce541e2fd4eac848149354b7d] resides in an area identified in Schedule 1 to the Work-focused Interviews Regulations. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
     .
 
-**5.** In regulation 62A *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] [^c16187711] (date of claim where claim sent or delivered to a gateway office) in paragraph (3) at the end there shall be added the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ or are made at an office of a designated authority in accordance with regulation 62(4)(e). ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d].
+**5.** In regulation 62A *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] [^c16187711] (date of claim where claim sent or delivered to a gateway office) in paragraph (3) at the end there shall be added the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ or are made at an office of a designated authority in accordance with regulation 62(4)(e). ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d].
 
-**6.** For regulations 62B and 62C *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] [^c16187721], there shall be substituted the following regulation– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**6.** For regulations 62B and 62C *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] [^c16187721], there shall be substituted the following regulation– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-> **62B. Date of claim where claim sent or delivered to an office of a designated authority (affected by repeal, see note)[^key-42ac736ce541e2fd4eac848149354b7d]**
+> **62B. Date of claim where claim sent or delivered to an office of a designated authority (affected by repeal, see note)[^c-42ac736ce541e2fd4eac848149354b7d]**
 >
-> (1) Where a claim for council tax benefit has been sent or delivered to an office of a designated authority in accordance with regulation 62(4)(e), the date on which the claim is made shall be– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (1) Where a claim for council tax benefit has been sent or delivered to an office of a designated authority in accordance with regulation 62(4)(e), the date on which the claim is made shall be– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> - (a) except where paragraph (b) applies, the date the claim is received at an office of the designated authority; or *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-> - (b) where in the 4 weeks before the claim is received in an office of the designated authority, the person making the claim or a person acting on his behalf had notified an office of a designated authority of his intention to make such a claim, the date the notification was given. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> - (a) except where paragraph (b) applies, the date the claim is received at an office of the designated authority; or *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+> - (b) where in the 4 weeks before the claim is received in an office of the designated authority, the person making the claim or a person acting on his behalf had notified an office of a designated authority of his intention to make such a claim, the date the notification was given. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> (2) A notification of intention to make a claim is deemed to be given on the date on which notification of the intention to claim council tax benefit is received, in whatever form, from the claimant, or the person acting on his behalf, at an office of a designated authority. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (2) A notification of intention to make a claim is deemed to be given on the date on which notification of the intention to claim council tax benefit is received, in whatever form, from the claimant, or the person acting on his behalf, at an office of a designated authority. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> (3) Paragraph (2) applies where neither income support nor a jobseeker’s allowance is claimed in conjunction with council tax benefit. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (3) Paragraph (2) applies where neither income support nor a jobseeker’s allowance is claimed in conjunction with council tax benefit. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> (4) Where the person claiming council tax benefit in accordance with regulation 62(4)(e), or the partner of that person,– *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> (4) Where the person claiming council tax benefit in accordance with regulation 62(4)(e), or the partner of that person,– *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> - (a) has an award of income support or income-based jobseeker’s allowance; or *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
-> - (b) has claimed such a benefit but no award has been made, *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> - (a) has an award of income support or income-based jobseeker’s allowance; or *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
+> - (b) has claimed such a benefit but no award has been made, *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 >
-> the date on which the claim for council tax benefit is made shall be determined as if sub-paragraphs (a), (b), (c) and (e) of paragraph (1) of regulation 62A applied to that claim as they apply to claims under regulation 62(4)(d). *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+> the date on which the claim for council tax benefit is made shall be determined as if sub-paragraphs (a), (b), (c) and (e) of paragraph (1) of regulation 62A applied to that claim as they apply to claims under regulation 62(4)(d). *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
 .
 
-**7.** In regulation 63 (evidence and information), paragraph (7) shall be omitted. *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d]
+**7.** In regulation 63 (evidence and information), paragraph (7) shall be omitted. *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d]
 
-**8.** In regulation 65 (duty to notify changes of circumstances), in paragraph (4), for the words “relevant authority" there shall be substituted the words *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^key-42ac736ce541e2fd4eac848149354b7d].
+**8.** In regulation 65 (duty to notify changes of circumstances), in paragraph (4), for the words “relevant authority" there shall be substituted the words *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d] “ designated authority ” *(affected by repeal, see note)*[^c-42ac736ce541e2fd4eac848149354b7d].
 
 ## SCHEDULE 5 — CONSEQUENTIAL AMENDMENTS TO THE CLAIMS AND PAYMENTS REGULATIONS
 
@@ -923,11 +923,11 @@ Regulation 16(5)
   > - (b) a person employed by a designated authority acting on behalf of the authority, which no person outside that authority caused or to which no person outside that authority materially contributed;
 
   ;
-- (c) after the entry relating to “the Transfer Act", there shall be inserted the following entries– *(affected by repeal, see note)*[^key-42f76d9ce74e4cb35ead1cfaf4e6af7b]
+- (c) after the entry relating to “the Transfer Act", there shall be inserted the following entries– *(affected by repeal, see note)*[^c-42f76d9ce74e4cb35ead1cfaf4e6af7b]
 
-  > “work-focused interview" has the meaning it has in regulation 3 of the Work-focused Interviews Regulations; *(affected by repeal, see note)*[^key-42f76d9ce74e4cb35ead1cfaf4e6af7b]
+  > “work-focused interview" has the meaning it has in regulation 3 of the Work-focused Interviews Regulations; *(affected by repeal, see note)*[^c-42f76d9ce74e4cb35ead1cfaf4e6af7b]
   >
-  > “the Work-focused Interviews Regulations" means the Social Security (Work-focused Interviews) Regulations 2000 ; *(affected by repeal, see note)*[^key-42f76d9ce74e4cb35ead1cfaf4e6af7b]
+  > “the Work-focused Interviews Regulations" means the Social Security (Work-focused Interviews) Regulations 2000 ; *(affected by repeal, see note)*[^c-42f76d9ce74e4cb35ead1cfaf4e6af7b]
 
   .
 
@@ -938,11 +938,11 @@ Regulation 16(5)
   > (6A) A relevant decision within the meaning of section 2B(2) of the Administration Act [^c16187771] may be revised at any time if it contains an error.
 
   ;
-- (b) in paragraph (11), at the end of sub-paragraph (e) there shall be added– *(affected by repeal, see note)*[^key-a627975f8f3e9cbae48f4fa15ce44347]
+- (b) in paragraph (11), at the end of sub-paragraph (e) there shall be added– *(affected by repeal, see note)*[^c-a627975f8f3e9cbae48f4fa15ce44347]
 
-  > or *(affected by repeal, see note)*[^key-a627975f8f3e9cbae48f4fa15ce44347]
+  > or *(affected by repeal, see note)*[^c-a627975f8f3e9cbae48f4fa15ce44347]
   >
-  > - (f) in the case of a relevant person within the meaning of regulation 2(2) of the Work-focused Interviews Regulations, an office of any designated authority which displays the ONE logo. *(affected by repeal, see note)*[^key-a627975f8f3e9cbae48f4fa15ce44347]
+  > - (f) in the case of a relevant person within the meaning of regulation 2(2) of the Work-focused Interviews Regulations, an office of any designated authority which displays the ONE logo. *(affected by repeal, see note)*[^c-a627975f8f3e9cbae48f4fa15ce44347]
 
 **4.** In regulation 6 (supersession of decisions), in paragraph (2), at the end there shall be added the following–
 
@@ -1036,15 +1036,15 @@ These Regulations do not impose a charge on businesses.
 
 [^c16187541]: Marginal citation: *See* section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-513bf5c27dc63cc4e18ecce266348c10]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2000/897) modified (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/4)
+[^c-513bf5c27dc63cc4e18ecce266348c10]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/2000/897) modified (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/4)
 
-[^key-48ea071296bf170a73acf9fa02d737c4]: Textual amendment: Reg. 2(1) revoked in part (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
+[^c-48ea071296bf170a73acf9fa02d737c4]: Textual amendment: Reg. 2(1) revoked in part (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
 
 [^c16187551]: Marginal citation: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-afe0ff530e4996f9c103a7e8bdad179c]: Textual amendment: Words in reg. 2(1) substituted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/2)
+[^c-afe0ff530e4996f9c103a7e8bdad179c]: Textual amendment: Words in reg. 2(1) substituted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/2)
 
-[^key-894b3754f8d8fcbe4274aca819816148]: Textual amendment: Words in reg. 2(1) inserted (1.4.2001) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2001 (S.I. 2001/652)](https://www.legislation.gov.uk/uksi/2001/652), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/1/1/b), [6(a)](https://www.legislation.gov.uk/uksi/2001/652/regulation/6/a)
+[^c-894b3754f8d8fcbe4274aca819816148]: Textual amendment: Words in reg. 2(1) inserted (1.4.2001) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2001 (S.I. 2001/652)](https://www.legislation.gov.uk/uksi/2001/652), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/1/1/b), [6(a)](https://www.legislation.gov.uk/uksi/2001/652/regulation/6/a)
 
 [^c16187571]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 
@@ -1052,83 +1052,83 @@ These Regulations do not impose a charge on businesses.
 
 [^c16187591]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 
-[^key-dbe508395cf28b6cc1d92d31639fc8de]: Textual amendment: Words in reg. 2(1) inserted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/2/b)
+[^c-dbe508395cf28b6cc1d92d31639fc8de]: Textual amendment: Words in reg. 2(1) inserted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/2/b)
 
-[^key-662f2f95b7dc624fd69d7ffa2b1d3226]: Textual amendment: Words in reg. 2(1) substituted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/2/a)
+[^c-662f2f95b7dc624fd69d7ffa2b1d3226]: Textual amendment: Words in reg. 2(1) substituted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/2/a)
 
-[^key-c2cd727410f2e1d9c83cf51383f27194]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/897/regulation/3) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
+[^c-c2cd727410f2e1d9c83cf51383f27194]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/897/regulation/3) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
 
-[^key-939e6e4acd6f2d6ea4f4a7d92fb33563]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2000/897/regulation/4/6) added (1.4.2001) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2001 (S.I. 2001/652)](https://www.legislation.gov.uk/uksi/2001/652), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/1/1/b), [6(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/6/b)
+[^c-939e6e4acd6f2d6ea4f4a7d92fb33563]: Textual amendment: Words in [reg. 4(6)](https://www.legislation.gov.uk/uksi/2000/897/regulation/4/6) added (1.4.2001) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2001 (S.I. 2001/652)](https://www.legislation.gov.uk/uksi/2001/652), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/1/1/b), [6(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/6/b)
 
-[^key-b91315c199dff27e9a30574f707c4b2c]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2000/897/regulation/5/1/b) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/3/a)
+[^c-b91315c199dff27e9a30574f707c4b2c]: Textual amendment: Words in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2000/897/regulation/5/1/b) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/3/a)
 
-[^key-5237a88486deb7d8478b84da7aa45ea5]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2000/897/regulation/5/1/c) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/3/a)
+[^c-5237a88486deb7d8478b84da7aa45ea5]: Textual amendment: Words in [reg. 5(1)(c)](https://www.legislation.gov.uk/uksi/2000/897/regulation/5/1/c) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/3/a)
 
-[^key-68c9e0be1f018372195286f7c8349568]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2000/897/regulation/5/1A) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/3/b)
+[^c-68c9e0be1f018372195286f7c8349568]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2000/897/regulation/5/1A) inserted (19.3.2001) by [The Social Security (Joint Claims: Consequential Amendments) Regulations 2000 (S.I. 2000/1982)](https://www.legislation.gov.uk/uksi/2000/1982), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1982/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2000/1982/regulation/3/b)
 
-[^key-fe2609e25079b1c2ba55530d5d54871b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/1) substituted (6.4.2010) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/563/regulation/3/a)
+[^c-fe2609e25079b1c2ba55530d5d54871b]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/1) substituted (6.4.2010) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2010/563/regulation/3/a)
 
-[^key-75877535a019cffc301ce41bcfe7364e]: Textual amendment: Words in reg. 6(1)(a) inserted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/a/i)[(aa)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/aa)
+[^c-75877535a019cffc301ce41bcfe7364e]: Textual amendment: Words in reg. 6(1)(a) inserted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/a/i)[(aa)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/aa)
 
-[^key-fda8b110d2275fa7c1f5044e9dbdfedb]: Textual amendment: Words in reg. 6(1)(a) substituted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/a/i)[(bb)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/bb)
+[^c-fda8b110d2275fa7c1f5044e9dbdfedb]: Textual amendment: Words in reg. 6(1)(a) substituted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/a/i)[(bb)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/bb)
 
-[^key-677bbc53a4b46f043ac60ec66c061bf1]: Textual amendment: Words in reg. 6(1)(b) added (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/a/ii)
+[^c-677bbc53a4b46f043ac60ec66c061bf1]: Textual amendment: Words in reg. 6(1)(b) added (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/a/ii)
 
-[^key-dc99a5716617abd3aa87f07564cd753e]: Textual amendment: Reg. 6(3) substituted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/b)
+[^c-dc99a5716617abd3aa87f07564cd753e]: Textual amendment: Reg. 6(3) substituted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/b)
 
-[^key-8dab57d3c3685c879ff2ab24f9a31a8f]: Textual amendment: Reg. 6(4)(a) substituted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/a)
+[^c-8dab57d3c3685c879ff2ab24f9a31a8f]: Textual amendment: Reg. 6(4)(a) substituted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/a)
 
-[^key-298051d106dfe2121d2203c4c5cf85ff]: Textual amendment: Words in reg. 6(4)(a) added (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/c)
+[^c-298051d106dfe2121d2203c4c5cf85ff]: Textual amendment: Words in reg. 6(4)(a) added (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(c)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/c)
 
-[^key-61d515c96ddaeee27e103581c959f141]: Textual amendment: Words in reg. 6(4)(b) substituted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/3/a)
+[^c-61d515c96ddaeee27e103581c959f141]: Textual amendment: Words in reg. 6(4)(b) substituted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/3/a)
 
-[^key-34cdd1f78267e51b856a86ed9413c761]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/4/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1218/article/10)
+[^c-34cdd1f78267e51b856a86ed9413c761]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/4/b) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [10](https://www.legislation.gov.uk/uksi/2023/1218/article/10)
 
-[^key-b6e721c7d0a7b9a84e80b3180fe8a616]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/4/b) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [14](https://www.legislation.gov.uk/uksi/2026/246/article/14)
+[^c-b6e721c7d0a7b9a84e80b3180fe8a616]: Textual amendment: Words in [reg. 6(4)(b)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/4/b) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [14](https://www.legislation.gov.uk/uksi/2026/246/article/14)
 
-[^key-154bbc1f197e1cf5b0d578dc0478f47e]: Textual amendment: Reg. 6(4A) inserted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(d)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/d)
+[^c-154bbc1f197e1cf5b0d578dc0478f47e]: Textual amendment: Reg. 6(4A) inserted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(3)(d)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/3/d)
 
-[^key-a68f0edd1923960be5952f7bb7dd95dc]: Textual amendment: Words in reg. 6(5) omitted (31.10.2005) by virtue of [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/3/b)
+[^c-a68f0edd1923960be5952f7bb7dd95dc]: Textual amendment: Words in reg. 6(5) omitted (31.10.2005) by virtue of [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/3/b)
 
-[^key-bf66e1e9f8990ca4311c23f25c4411da]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/5) inserted (6.4.2010) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/563/regulation/3/b)
+[^c-bf66e1e9f8990ca4311c23f25c4411da]: Textual amendment: Words in [reg. 6(5)](https://www.legislation.gov.uk/uksi/2000/897/regulation/6/5) inserted (6.4.2010) by [The Social Security (Work-focused Interviews etc.) (Equalisation of State Pension Age) Amendment Regulations 2010 (S.I. 2010/563)](https://www.legislation.gov.uk/uksi/2010/563), [regs. 1](https://www.legislation.gov.uk/uksi/2010/563/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2010/563/regulation/3/b)
 
 [^c16187601]: Marginal citation: Section 171C was inserted by section 61 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-29858dfb97be570519a9628f1001bb43]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2000/897/regulation/11/2)[(2A)](https://www.legislation.gov.uk/uksi/2000/897/regulation/11/2A) substituted for [reg. 11(2)](https://www.legislation.gov.uk/uksi/2000/897/regulation/11/2) (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/4)
+[^c-29858dfb97be570519a9628f1001bb43]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2000/897/regulation/11/2)[(2A)](https://www.legislation.gov.uk/uksi/2000/897/regulation/11/2A) substituted for [reg. 11(2)](https://www.legislation.gov.uk/uksi/2000/897/regulation/11/2) (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/4)
 
-[^key-82f39588d354748323a939e1eb068d37]: Textual amendment: Words in reg. 11(3) inserted (1.4.2001) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2001 (S.I. 2001/652)](https://www.legislation.gov.uk/uksi/2001/652), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/1/1/b), [6(c)](https://www.legislation.gov.uk/uksi/2001/652/regulation/6/c)
+[^c-82f39588d354748323a939e1eb068d37]: Textual amendment: Words in reg. 11(3) inserted (1.4.2001) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2001 (S.I. 2001/652)](https://www.legislation.gov.uk/uksi/2001/652), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2001/652/regulation/1/1/b), [6(c)](https://www.legislation.gov.uk/uksi/2001/652/regulation/6/c)
 
-[^key-72853b24124c1cf5d1c6bfa7ce58c3aa]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/897/regulation/12) modified (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/3)
+[^c-72853b24124c1cf5d1c6bfa7ce58c3aa]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/897/regulation/12) modified (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/3)
 
-[^key-7cb1b13c62f37bfd22daeda634ebe80e]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/897/regulation/12) disapplied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
+[^c-7cb1b13c62f37bfd22daeda634ebe80e]: Modification: [Reg. 12](https://www.legislation.gov.uk/uksi/2000/897/regulation/12) disapplied (26.10.2009) by [Social Security (Incapacity Benefit Work-focused Interviews) (Amendment) Regulations 2009 (S.I. 2009/1541)](https://www.legislation.gov.uk/uksi/2009/1541), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2009/1541/regulation/3/5)
 
-[^key-8b9bc8fc12373692e148132d7da60d9c]: Textual amendment: [Reg. 12(4)(c)](https://www.legislation.gov.uk/uksi/2000/897/regulation/12/4/c)[(d)](https://www.legislation.gov.uk/uksi/2000/897/regulation/12/4/d) omitted (31.10.2005) by virtue of [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/5)
+[^c-8b9bc8fc12373692e148132d7da60d9c]: Textual amendment: [Reg. 12(4)(c)](https://www.legislation.gov.uk/uksi/2000/897/regulation/12/4/c)[(d)](https://www.legislation.gov.uk/uksi/2000/897/regulation/12/4/d) omitted (31.10.2005) by virtue of [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(5)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/5)
 
-[^key-59ce95c3a38d03b643c853fcd04c6cdd]: Textual amendment: Words in [reg. 14(g)](https://www.legislation.gov.uk/uksi/2000/897/regulation/14/g) substituted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/6)
+[^c-59ce95c3a38d03b643c853fcd04c6cdd]: Textual amendment: Words in [reg. 14(g)](https://www.legislation.gov.uk/uksi/2000/897/regulation/14/g) substituted (31.10.2005) by [Social Security (Work-focused Interviews) Amendment Regulations 2005 (S.I. 2005/2727)](https://www.legislation.gov.uk/uksi/2005/2727), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/1/1), [5(6)](https://www.legislation.gov.uk/uksi/2005/2727/regulation/5/6)
 
-[^key-ed4df9a170b9c687df97aba0435b6d3e]: Textual amendment: Reg. 16(1)(2) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
+[^c-ed4df9a170b9c687df97aba0435b6d3e]: Textual amendment: Reg. 16(1)(2) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
 
-[^key-6a1d58694f63725de7689769471f8ee1]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2000/897/regulation/16/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-6a1d58694f63725de7689769471f8ee1]: Textual amendment: [Reg. 16(3)](https://www.legislation.gov.uk/uksi/2000/897/regulation/16/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c16187611]: Marginal citation: [Regulation 4A](https://www.legislation.gov.uk/uksi/2000/897/regulation/4A) was inserted by [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108).
 
 [^c16187621]: Marginal citation: [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108).
 
-[^key-bdc2fb8c174de7d6270a1f727bcb8f66]: Textual amendment: Schs. 1-3 revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
+[^c-bdc2fb8c174de7d6270a1f727bcb8f66]: Textual amendment: Schs. 1-3 revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
 
-[^key-8cfcb78e4683107cfd58803aa6ea2fff]: Textual amendment: Words in Sch. 1 added (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/i)
+[^c-8cfcb78e4683107cfd58803aa6ea2fff]: Textual amendment: Words in Sch. 1 added (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/i)
 
-[^key-9ff4a8e4a568f30ad365ace2d2698760]: Textual amendment: Words in Sch. 1 omitted (14.8.2000) by virtue of [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(aa)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
+[^c-9ff4a8e4a568f30ad365ace2d2698760]: Textual amendment: Words in Sch. 1 omitted (14.8.2000) by virtue of [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(aa)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/aa)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
 
-[^key-1c7eda01cdef26c739c6ef5897be0c01]: Textual amendment: Words in Sch. 1 substituted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(cc)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/cc)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
+[^c-1c7eda01cdef26c739c6ef5897be0c01]: Textual amendment: Words in Sch. 1 substituted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(cc)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/cc)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
 
-[^key-dec32c97dbaded08966f36ca1e30defe]: Textual amendment: Words in Sch. 1 added (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(bb)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
+[^c-dec32c97dbaded08966f36ca1e30defe]: Textual amendment: Words in Sch. 1 added (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(bb)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/bb)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
 
-[^key-716328bcdb4b03f34397cc1ae3d52873]: Textual amendment: Words in Sch. 1 substituted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(dd)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/dd)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
+[^c-716328bcdb4b03f34397cc1ae3d52873]: Textual amendment: Words in Sch. 1 substituted (14.8.2000) by [The Social Security (Work-focused Interviews for Lone Parents) and Miscellaneous Amendments Regulations 2000 (S.I. 2000/1926)](https://www.legislation.gov.uk/uksi/2000/1926), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2000/1926/regulation/1/2), [Sch. 2 para. 5(b)(dd)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/dd)[(ii)](https://www.legislation.gov.uk/uksi/2000/1926/schedule/2/paragraph/5/b/ii)
 
-[^key-888f8f74d4cfba4e267c746b13b3da63]: Textual amendment: Sch. 1A inserted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/5)
+[^c-888f8f74d4cfba4e267c746b13b3da63]: Textual amendment: Sch. 1A inserted (22.10.2001) by [Social Security (Jobcentre Plus Interviews) Regulations 2001 (S.I. 2001/3210)](https://www.legislation.gov.uk/uksi/2001/3210), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3210/regulation/1), [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/uksi/2001/3210/schedule/2/paragraph/2/5)
 
-[^key-84e94ac15bfaf8b945533834f32005d0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/897/schedule/2) [3](https://www.legislation.gov.uk/uksi/2000/897/schedule/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-84e94ac15bfaf8b945533834f32005d0]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2000/897/schedule/2) [3](https://www.legislation.gov.uk/uksi/2000/897/schedule/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c16187631]: Marginal citation: [S.I. 2000/897](https://www.legislation.gov.uk/uksi/2000/897).
 
@@ -1138,7 +1138,7 @@ These Regulations do not impose a charge on businesses.
 
 [^c16187661]: Marginal citation: The relevant amending Instrument is [S.I. 1995/511](https://www.legislation.gov.uk/uksi/1995/511).
 
-[^key-42ac736ce541e2fd4eac848149354b7d]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2000/897/schedule/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-42ac736ce541e2fd4eac848149354b7d]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2000/897/schedule/4) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c16187671]: Marginal citation: The relevant amending Instrument is [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108).
 
@@ -1158,11 +1158,11 @@ These Regulations do not impose a charge on businesses.
 
 [^c16187751]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending Instruments are [S.I. 1999/1623](https://www.legislation.gov.uk/uksi/1999/1623) and 1670.
 
-[^key-42f76d9ce74e4cb35ead1cfaf4e6af7b]: Textual amendment: Sch. 6 para. 2(c) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
+[^c-42f76d9ce74e4cb35ead1cfaf4e6af7b]: Textual amendment: Sch. 6 para. 2(c) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
 
 [^c16187771]: Marginal citation: Section 2B was inserted by Section 57 of the [Welfare Reform Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-a627975f8f3e9cbae48f4fa15ce44347]: Textual amendment: Sch. 6 para. 3(b) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
+[^c-a627975f8f3e9cbae48f4fa15ce44347]: Textual amendment: Sch. 6 para. 3(b) revoked (30.9.2002) by [Social Security (Jobcentre Plus Interviews) Regulations 2002 (S.I. 2002/1703)](https://www.legislation.gov.uk/uksi/2002/1703), [reg. 1](https://www.legislation.gov.uk/uksi/2002/1703/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2002/1703/schedule/1) (with [reg. 16(2)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/2)[(3)](https://www.legislation.gov.uk/uksi/2002/1703/regulation/16/3))
 
 [^c16187781]: Marginal citation: The relevant amending Instrument is [S.I. 1999/1623](https://www.legislation.gov.uk/uksi/1999/1623).
 

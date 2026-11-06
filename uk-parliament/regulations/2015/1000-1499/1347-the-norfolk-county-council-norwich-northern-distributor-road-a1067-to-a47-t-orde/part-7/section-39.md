@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Defence to proceedings in respect of statutory nuisance[^key-bb0ce70622ebd927753c25a96c054ae5]
+## 39. Defence to proceedings in respect of statutory nuisance[^c-bb0ce70622ebd927753c25a96c054ae5]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0ce70622ebd927753c25a96c054ae5]: Commencement: Art. 39 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-bb0ce70622ebd927753c25a96c054ae5]: Commencement: Art. 39 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
 
 [^f00026]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this sub-section which are not relevant to this Order.
 

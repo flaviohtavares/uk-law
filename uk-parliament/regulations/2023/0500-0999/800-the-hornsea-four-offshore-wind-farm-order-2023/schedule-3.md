@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS TO BE TEMPORARILY CLOSED OR RESTRICTED[^key-010d5204646863d20c84b18700a4ec46]
+## SCHEDULE 3 — STREETS TO BE TEMPORARILY CLOSED OR RESTRICTED[^c-010d5204646863d20c84b18700a4ec46]
 
 *Extent: E+W+S*
 
@@ -94,4 +94,4 @@ Article 10
 
 ## Annotations
 
-[^key-010d5204646863d20c84b18700a4ec46]: Commencement: Sch. 3 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-010d5204646863d20c84b18700a4ec46]: Commencement: Sch. 3 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

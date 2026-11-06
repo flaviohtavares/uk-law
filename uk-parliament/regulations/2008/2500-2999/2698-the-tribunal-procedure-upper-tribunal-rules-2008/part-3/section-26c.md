@@ -14,10 +14,10 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## 26C. Financial sanctions cases[^key-11bd86181eb05cf180d3b0f89209ee69]
+## 26C. Financial sanctions cases[^c-11bd86181eb05cf180d3b0f89209ee69]
 
 Schedule 4 makes provision for financial sanctions cases.
 
 ## Annotations
 
-[^key-11bd86181eb05cf180d3b0f89209ee69]: Textual amendment: [Rule 26C](https://www.legislation.gov.uk/uksi/2008/2698/rule/26C) inserted (27.7.2017) by [The Tribunal Procedure (Amendment) Rules 2017 (S.I. 2017/723)](https://www.legislation.gov.uk/uksi/2017/723), [rules 1](https://www.legislation.gov.uk/uksi/2017/723/rule/1), [12](https://www.legislation.gov.uk/uksi/2017/723/rule/12)
+[^c-11bd86181eb05cf180d3b0f89209ee69]: Textual amendment: [Rule 26C](https://www.legislation.gov.uk/uksi/2008/2698/rule/26C) inserted (27.7.2017) by [The Tribunal Procedure (Amendment) Rules 2017 (S.I. 2017/723)](https://www.legislation.gov.uk/uksi/2017/723), [rules 1](https://www.legislation.gov.uk/uksi/2017/723/rule/1), [12](https://www.legislation.gov.uk/uksi/2017/723/rule/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 7 — Rates of alcohol duty[^key-25b879233148917ea135800ddc7af623]
+## Schedule 7 — Rates of alcohol duty[^c-25b879233148917ea135800ddc7af623]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ TABLE 2
 
 ## Annotations
 
-[^key-25b879233148917ea135800ddc7af623]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/7) substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/2)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)
+[^c-25b879233148917ea135800ddc7af623]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/30/schedule/7) substituted (1.2.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/2)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/89/6)

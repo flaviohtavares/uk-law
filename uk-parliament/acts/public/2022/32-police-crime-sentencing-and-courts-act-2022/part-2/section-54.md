@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. PACE etc powers for food crime officers[^key-3bcc9f896ea6cd1105c14a620e6bccfc]
+## 54. PACE etc powers for food crime officers[^c-3bcc9f896ea6cd1105c14a620e6bccfc]
 
 *Extent: E+W*
 
@@ -163,4 +163,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bcc9f896ea6cd1105c14a620e6bccfc]: Commencement: S. 54 in force at 28.6.2022, see [s. 208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f)
+[^c-3bcc9f896ea6cd1105c14a620e6bccfc]: Commencement: S. 54 in force at 28.6.2022, see [s. 208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f)

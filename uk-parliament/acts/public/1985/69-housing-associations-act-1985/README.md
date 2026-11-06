@@ -157,11 +157,11 @@ An Act to consolidate certain provisions of the Housing Acts relating to housing
 - [Section 72 — Minor definitions.](part-ii/section-72.md)
 - [Section 73 — Index of defined expressions: Part II.](part-ii/section-73.md)
 
-### Part III — The Housing Corporation (affected by repeal, see note)Social Housing in Wales[^c11839041][^key-9769bd90f5c6500f6649cc9a124bf82c]
+### Part III — The Housing Corporation (affected by repeal, see note)Social Housing in Wales[^c11839041][^c-9769bd90f5c6500f6649cc9a124bf82c]
 
 *Extent: E+W*
 
-#### Functions of the Welsh Ministers and other general matters[^key-a7ee1f2aabc616eadf9c00621c3b42e6]
+#### Functions of the Welsh Ministers and other general matters[^c-a7ee1f2aabc616eadf9c00621c3b42e6]
 
 *Extent: E+W*
 
@@ -263,9 +263,9 @@ SCHEDULES
 
 [^c11839041]: Modification: Pt. III (ss. 74-102) excluded (E.W.) (1.10.1996) by [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52), [s. 7](https://www.legislation.gov.uk/ukpga/1996/52/section/7), [Sch. 1 para. 15(6)](https://www.legislation.gov.uk/ukpga/1996/52/schedule/1/paragraph/15/6); [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/1996/2402/schedule))
 
-[^key-9769bd90f5c6500f6649cc9a124bf82c]: Textual amendment: Pt. III heading substituted (E.W.) 1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/45) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-9769bd90f5c6500f6649cc9a124bf82c]: Textual amendment: Pt. III heading substituted (E.W.) 1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/45) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-a7ee1f2aabc616eadf9c00621c3b42e6]: Textual amendment: Words in s. 74 heading substituted (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/46) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-a7ee1f2aabc616eadf9c00621c3b42e6]: Textual amendment: Words in s. 74 heading substituted (E.W.) (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/46) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c11840601]: Textual amendment: Words in Pt. III (ss. 74-102) substituted (1.11.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 140](https://www.legislation.gov.uk/ukpga/1998/38/section/140), [Sch. 16 para. 28(a)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/16/paragraph/28/a) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 5](https://www.legislation.gov.uk/uksi/1998/2244/article/5)
 

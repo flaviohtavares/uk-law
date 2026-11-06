@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Code of practice on confidential personal information[^key-54ea198c8632ce2dcfac43c4818d19ee]
+## 80. Code of practice on confidential personal information[^c-54ea198c8632ce2dcfac43c4818d19ee]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-54ea198c8632ce2dcfac43c4818d19ee]: Commencement: S. 80 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
+[^c-54ea198c8632ce2dcfac43c4818d19ee]: Commencement: S. 80 in force at 1.10.2008 by [S.I. 2008/2497](https://www.legislation.gov.uk/uksi/2008/2497), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/2497/article/2/i)
 
 [^M_F_ccb20637-f248-4e28-cecf-9bff4e02ba7c]: Textual amendment: S. 80(3)(a) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 280(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/280/4), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 

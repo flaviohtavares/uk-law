@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 20 — NEW SCHEDULE TO BE INSERTED INTO THE 2013 REGULATIONS[^key-69e5e7500c7257c694984b567b7c4544]
+## SCHEDULE 20 — NEW SCHEDULE TO BE INSERTED INTO THE 2013 REGULATIONS[^c-69e5e7500c7257c694984b567b7c4544]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ Regulation 41
 
 ## Annotations
 
-[^key-69e5e7500c7257c694984b567b7c4544]: Commencement: [Sch. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/20) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-69e5e7500c7257c694984b567b7c4544]: Commencement: [Sch. 20](https://www.legislation.gov.uk/ssi/2025/165/schedule/20) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

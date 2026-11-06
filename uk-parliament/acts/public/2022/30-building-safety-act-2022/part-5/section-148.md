@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Liability relating to construction products[^key-d99e4212ad019b9e2207e79d7821922d]
+## 148. Liability relating to construction products[^c-d99e4212ad019b9e2207e79d7821922d]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99e4212ad019b9e2207e79d7821922d]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2022/30/section/148) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-d99e4212ad019b9e2207e79d7821922d]: Commencement: [S. 148](https://www.legislation.gov.uk/ukpga/2022/30/section/148) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

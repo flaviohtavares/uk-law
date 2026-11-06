@@ -73,7 +73,7 @@ Accordingly, the Secretary of State makes the following Order:
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-14de348ac4bf4fc27e5e2c6b5f527a1c]
+### 1. Citation and commencement[^c-14de348ac4bf4fc27e5e2c6b5f527a1c]
 
 (1) This Order may be cited as the West Midlands Combined Authority Order 2016.
 
@@ -84,7 +84,7 @@ Accordingly, the Secretary of State makes the following Order:
 
 and the other provisions of this Order shall come into force immediately afterwards.
 
-### 2. Interpretation[^key-74c34aaaaecc9c920fad792354984d8c]
+### 2. Interpretation[^c-74c34aaaaecc9c920fad792354984d8c]
 
 In this Order—
 
@@ -93,7 +93,7 @@ In this Order—
 - “the Combined Authority” means the West Midlands Combined Authority as constituted by article 3;
 - “the commencement date” means the date on which this Order comes into force;
 - “constituent councils” means the councils for the local government areas of Birmingham, Coventry, Dudley, Sandwell, Solihull, Walsall and Wolverhampton;
-- “deputy Mayor” means the member of the Combined Authority appointed by the Mayor as the Mayor’s deputy;[^key-a2898ef3d7ce7064b2dcdf166df4a73b]
+- “deputy Mayor” means the member of the Combined Authority appointed by the Mayor as the Mayor’s deputy;[^c-a2898ef3d7ce7064b2dcdf166df4a73b]
 - “enactment” includes subordinate legislation;
 - “the Executive” has the meaning given by article 6(1);
 - “financial year” means the period of 12 months ending with 31st March in any year;
@@ -101,13 +101,13 @@ In this Order—
 - “Local Enterprise Partnership” means the board of—
   - (a) the Black Country Local Enterprise Partnership,
   - (b) Greater Birmingham and Solihull Local Enterprise Partnership, or
-  - (c) Coventry and Warwickshire Local Enterprise Partnership; [^key-bc482f94085c5f03f0a1e392aeac3a4a]...
-- “Mayor” means the mayor for the combined area of the Combined Authority;[^key-aa8ae0b2f48a39ee1598291e3e49340e]
-- “non-constituent councils” means the councils for the local government areas of Cannock Chase, North Warwickshire, Nuneaton and Bedworth, Redditch, Rugby, Shropshire, Stratford-on-Avon, Tamworth, Telford and Wrekin and Warwickshire.[^key-3430a4bc1476ea1e24d4e2640d97aa25]
+  - (c) Coventry and Warwickshire Local Enterprise Partnership; [^c-bc482f94085c5f03f0a1e392aeac3a4a]...
+- “Mayor” means the mayor for the combined area of the Combined Authority;[^c-aa8ae0b2f48a39ee1598291e3e49340e]
+- “non-constituent councils” means the councils for the local government areas of Cannock Chase, North Warwickshire, Nuneaton and Bedworth, Redditch, Rugby, Shropshire, Stratford-on-Avon, Tamworth, Telford and Wrekin and Warwickshire.[^c-3430a4bc1476ea1e24d4e2640d97aa25]
 
 ## PART 2 — Establishment of a combined authority for West Midlands
 
-### 3. Establishment[^key-d8e5ccf6484d06b847c99351ea9fb694]
+### 3. Establishment[^c-d8e5ccf6484d06b847c99351ea9fb694]
 
 (1) There is established a combined authority for the combined area.
 
@@ -115,11 +115,11 @@ In this Order—
 
 (3) The functions of the Combined Authority are those functions conferred or imposed upon it by this Order or by any other enactment (whenever passed or made), or as may be delegated to it by or under this Order or any other enactment (whenever passed or made).
 
-### 4. Constitution[^key-1887b14abe676467659c1930845fce25]
+### 4. Constitution[^c-1887b14abe676467659c1930845fce25]
 
 Schedule 1 (which makes provision about the constitution of the Combined Authority) has effect.
 
-### 5. Funding[^key-cf38d1a281ec8eaecae8c648b3217bad]
+### 5. Funding[^c-cf38d1a281ec8eaecae8c648b3217bad]
 
 (1) The constituent councils must meet the costs of the Combined Authority reasonably attributable to the exercise of the functions mentioned in article 10 (economic development and regeneration).
 
@@ -129,7 +129,7 @@ Schedule 1 (which makes provision about the constitution of the Combined Authori
 
 ## PART 3 — Transport
 
-### 6. Passenger Transport Executive[^key-4c23c94342876481489f60463e67456a]
+### 6. Passenger Transport Executive[^c-4c23c94342876481489f60463e67456a]
 
 (1) In this Order “the Executive” means the West Midlands Passenger Transport Executive established by the West Midlands Passenger Transport Area (Designation) Order 1969[^f00005].
 
@@ -147,7 +147,7 @@ Schedule 1 (which makes provision about the constitution of the Combined Authori
 
 (5) The West Midlands Passenger Transport Area (Designation) Order 1969 is revoked.
 
-### 7. Abolition and transfer of functions[^key-2918aeebff414945db0b9bf06c92f926]
+### 7. Abolition and transfer of functions[^c-2918aeebff414945db0b9bf06c92f926]
 
 (1) The West Midlands integrated transport area is dissolved and the ITA is abolished.
 
@@ -158,7 +158,7 @@ Schedule 1 (which makes provision about the constitution of the Combined Authori
 
 are transferred to the Combined Authority.
 
-### 8. Adaptation of enactments[^key-15ae749224c65fcc6c32bfaf2d513481]
+### 8. Adaptation of enactments[^c-15ae749224c65fcc6c32bfaf2d513481]
 
 (1) This article has effect in consequence of article 7.
 
@@ -178,7 +178,7 @@ is to be treated as including a reference to the Combined Authority.
 
 (4) Paragraphs (2) and (3) do not apply to Part 2 of the Transport Act 1968[^f00010] which is amended in accordance with Schedule 2.
 
-### 9. Continuity[^key-66dc4ec85559e40f94b0f2603f792e04]
+### 9. Continuity[^c-66dc4ec85559e40f94b0f2603f792e04]
 
 (1) Nothing in article 6, 7 or 8 affects the validity of anything done by or in relation to the ITA or the Executive before the commencement date.
 
@@ -205,7 +205,7 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 ## PART 4 — Additional functions
 
-### 10. Economic development and regeneration functions[^key-64d5dff9eae88249d0e7a27b636ab44f]
+### 10. Economic development and regeneration functions[^c-64d5dff9eae88249d0e7a27b636ab44f]
 
 (1) The functions of the constituent councils set out in Schedule 3 are exercisable by the Combined Authority in relation to its area.
 
@@ -213,17 +213,17 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 (3) Any requirement in any enactment for a constituent council to exercise such a function may be fulfilled by the exercise of that function by the Combined Authority.
 
-### 11. Incidental provisions[^key-9061080e9ceaefc5a7a93acd4a254db5]
+### 11. Incidental provisions[^c-9061080e9ceaefc5a7a93acd4a254db5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-9061080e9ceaefc5a7a93acd4a254db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-9061080e9ceaefc5a7a93acd4a254db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-9061080e9ceaefc5a7a93acd4a254db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-9061080e9ceaefc5a7a93acd4a254db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-55ee19806485a17b2c26e90b667af9f6] Regulation 64 of the Local Government Pension Scheme Regulations 2013[^f00017] (special circumstances where revised actuarial valuations and certificates must be obtained) shall have effect as if after paragraph (8) there were inserted—
+**14.**[^c-55ee19806485a17b2c26e90b667af9f6] Regulation 64 of the Local Government Pension Scheme Regulations 2013[^f00017] (special circumstances where revised actuarial valuations and certificates must be obtained) shall have effect as if after paragraph (8) there were inserted—
 
 > (8A) Paragraph (8B) applies where the existing employer is the West Midlands Integrated Transport Authority (“the ITA”) and the liabilities of the fund in respect of benefits due to the ITA’s current and former employees (or those of any predecessor authority) have been or are to be transferred to the West Midlands Combined Authority as a result of the establishment of the combined authority by article 3(1) of the West Midlands Combined Authority Order 2016.
 >
@@ -231,7 +231,7 @@ has effect as if made or done by or in relation to the Combined Authority.
 
 .
 
-**15.**[^key-30b83acc1facf21922aa8c8436985ec9] (1) The Local Government Pension Scheme Regulations 2013 is amended as follows.
+**15.**[^c-30b83acc1facf21922aa8c8436985ec9] (1) The Local Government Pension Scheme Regulations 2013 is amended as follows.
 
 (2) In paragraph 1(z) of Part 1 of Schedule 3 (pension funds) for “West Midlands Integrated Transport Authority” substitute “West Midlands Combined Authority”.
 
@@ -255,15 +255,15 @@ Department for Communities and Local Government
 
 Article 4
 
-### 1. Membership[^key-76732abae58532859e6c60b51f58049b]
+### 1. Membership[^c-76732abae58532859e6c60b51f58049b]
 
-(1)[^key-22ca40350bf7476f284569422ed22d48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-22ca40350bf7476f284569422ed22d48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Each constituent council must appoint two of its elected members to be members of the Combined Authority.
 
 (3) Each non-constituent council must appoint one of its elected members to be a member of the Combined Authority.
 
-(4)[^key-45ca3610424b86e70442d1fee7b671ab] Each constituent council must appoint another of its elected members to act as a member of the Combined Authority (“the substitute member”) if a member appointed in accordance with the provisions in sub-paragraph (2)—
+(4)[^c-45ca3610424b86e70442d1fee7b671ab] Each constituent council must appoint another of its elected members to act as a member of the Combined Authority (“the substitute member”) if a member appointed in accordance with the provisions in sub-paragraph (2)—
 
 - (a) is absent; or
 - (b) has been appointed as the deputy Mayor and is acting in place of the Mayor at a meeting.
@@ -304,45 +304,45 @@ Article 4
 
 (19) For the purposes of this paragraph, an elected mayor of a constituent council or non-constituent council is to be treated as a member of the constituent council or non-constituent council.
 
-### 2. Chairman and vice-chairman[^key-a15ba5b7ceeeb0f6b7e818fefb9866f7]
+### 2. Chairman and vice-chairman[^c-a15ba5b7ceeeb0f6b7e818fefb9866f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Proceedings[^key-eb6d2a2d7ecbcee029d968f1a4cddadf]
+### 3. Proceedings[^c-eb6d2a2d7ecbcee029d968f1a4cddadf]
 
-(1)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-015e9fd8340045b6472f169349a97944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) No business is to be transacted at a meeting of the Combined Authority unless the Mayor and at least five members appointed by at least five of the constituent councils are present at the meeting.
 
-(9)[^key-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-bbbf867bab7c80d2d6032cf0bd2f25dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Committees[^key-e8409d58da820e45d7286cfbf8dee849]
+### 4. Committees[^c-e8409d58da820e45d7286cfbf8dee849]
 
 (1) The Combined Authority must appoint at least one member from each of the constituent councils and the non-constituent councils to the overview and scrutiny committee appointed by the Combined Authority.
 
-(2)[^key-eafdc9c0654cbbfbb343a72caf8fa0cb] No business is to be transacted at a meeting of the overview and scrutiny committee unless at least two-thirds of the total number of members of the overview and scrutiny committee are present.
+(2)[^c-eafdc9c0654cbbfbb343a72caf8fa0cb] No business is to be transacted at a meeting of the overview and scrutiny committee unless at least two-thirds of the total number of members of the overview and scrutiny committee are present.
 
 (3) Each member of the overview and scrutiny committee appointed from the constituent councils is to have one vote and no member is to have a casting vote.
 
@@ -368,7 +368,7 @@ Article 4
 
 (11) An overview and scrutiny committee appointed under this article must consist of a majority of members from the combined authority’s constituent councils
 
-### 4A. Independent remuneration panel[^key-be13e24079b5dbcee221727e5a4cf69d]
+### 4A. Independent remuneration panel[^c-be13e24079b5dbcee221727e5a4cf69d]
 
 The Combined Authority may establish an independent remuneration panel to recommend allowances payable to the Mayor and the deputy Mayor.
 
@@ -383,7 +383,7 @@ The Combined Authority may establish an independent remuneration panel to recomm
 
 (5) A copy of a report made under sub-paragraph (4) shall be sent to the Combined Authority.
 
-### 5. Records[^key-cab8b0f1173f964168aa7a6578846ca2]
+### 5. Records[^c-cab8b0f1173f964168aa7a6578846ca2]
 
 (1) The Combined Authority must make arrangements for the names of members and substitute members present at any meeting to be recorded.
 
@@ -397,33 +397,33 @@ The Combined Authority may establish an independent remuneration panel to recomm
 
 (6) For the purposes of sub-paragraph (3) the next suitable meeting is the next following meeting or, where standing orders made by the Combined Authority provide for another meeting of the authority, committee or sub-committee, to be regarded as suitable, either the next following meeting or that other meeting.
 
-### 6. Standing orders[^key-09db18bfdc559dc0e7f1288c8036571c]
+### 6. Standing orders[^c-09db18bfdc559dc0e7f1288c8036571c]
 
 The Combined Authority may make standing orders for the regulation of its proceedings and business and may vary or revoke any such orders.
 
-### 7. Remuneration and pensions[^key-a6345ccd222ee218f030bd4dc539cc81][^key-b41d721b1eddc28f311efb49108675d7]
+### 7. Remuneration and pensions[^c-a6345ccd222ee218f030bd4dc539cc81][^c-b41d721b1eddc28f311efb49108675d7]
 
-(1)[^key-a34aac588253620fb1927e141583372f] Subject to sub-paragraphs (2) to (4), no remuneration is to be payable by the Combined Authority to its members or to members of a constituent council who are appointed to an overview and scrutiny committee or sub-committee, or to the audit committee of the Combined Authority, other than—
+(1)[^c-a34aac588253620fb1927e141583372f] Subject to sub-paragraphs (2) to (4), no remuneration is to be payable by the Combined Authority to its members or to members of a constituent council who are appointed to an overview and scrutiny committee or sub-committee, or to the audit committee of the Combined Authority, other than—
 
 - (a) allowances for travel and subsistence paid in accordance with a scheme drawn up by the Combined Authority;
 - (b) allowances payable in accordance with a scheme made under section 113E of the 2009 Act.
 
 (2) The Combined Authority may pay the Mayor and deputy Mayor such allowances as it may agree, in accordance with any recommendations made by its independent remuneration panel.
 
-(3)[^key-6d63894cc93750b9d2fc3de165b83ba4] The Combined Authority may pay an allowance to—
+(3)[^c-6d63894cc93750b9d2fc3de165b83ba4] The Combined Authority may pay an allowance to—
 
 - (a) a member of a constituent council who is appointed to an overview and scrutiny committee of the Combined Authority, or a sub-committee of that committee,
 - (b) a member of the Combined Authority or a member of a constituent council who is appointed to the audit committee of the Combined Authority,
 
 in accordance with any recommendations made by its independent remuneration panel.
 
-(4)[^key-a26d7f8fb49120cdc5d3e57a6183bf15] Where the Combined Authority pays a relevant allowance to a person —
+(4)[^c-a26d7f8fb49120cdc5d3e57a6183bf15] Where the Combined Authority pays a relevant allowance to a person —
 
 - (a) that person is entitled to a pension paid in accordance with a scheme established under section 1 of the Public Service Pensions Act 2013;
 - (b) that allowance is to be treated as an amount in respect of which such a pension is payable under that scheme; and
 - (c) the Combined Authority must make such payments as may be required in respect of pension payable to a person in relation to that allowance.
 
-(5)[^key-80402a492c84dc1e83a1b6587f9a3807] In sub-paragraph (4), “relevant allowance” means—
+(5)[^c-80402a492c84dc1e83a1b6587f9a3807] In sub-paragraph (4), “relevant allowance” means—
 
 - (a) an allowance payable under sub-paragraphs (2) or (3) to any person referred to in those sub-paragraphs, which is not an allowance for travel and subsistence;
 - (b) an allowance payable in accordance with a scheme made under section 113E of the 2009 Act.
@@ -432,9 +432,9 @@ in accordance with any recommendations made by its independent remuneration pane
 
 Article 8(4)
 
-**1.**[^key-b27d5305abda9a2ad51985110da40090] The Transport Act 1968 is amended as follows.
+**1.**[^c-b27d5305abda9a2ad51985110da40090] The Transport Act 1968 is amended as follows.
 
-**2.**[^key-201b268d7c11ed996b2df5ab80fdf11f] (1) Section 9[^f00021] (areas, authorities and executives) is amended as follows.
+**2.**[^c-201b268d7c11ed996b2df5ab80fdf11f] (1) Section 9[^f00021] (areas, authorities and executives) is amended as follows.
 
 (2) In subsection (1)(c), after sub-paragraph (ia) insert—
 
@@ -453,7 +453,7 @@ Article 8(4)
 
 .
 
-**3.**[^key-deb75d39befdafa7dc8cd773d91d8a83] (1) Section 9A[^f00022] (general functions of Authorities and Executives) is amended as follows.
+**3.**[^c-deb75d39befdafa7dc8cd773d91d8a83] (1) Section 9A[^f00022] (general functions of Authorities and Executives) is amended as follows.
 
 (2) In subsection (12) for “the West Yorkshire Combined Authority” substitute “each of the authorities within subsection (13)”.
 
@@ -466,7 +466,7 @@ Article 8(4)
 
 .
 
-**4.**[^key-fa249d0de0a45fc2db66a6f0b7f7c538] (1) Section 10[^f00023] (general powers of the Executive) is amended as follows.
+**4.**[^c-fa249d0de0a45fc2db66a6f0b7f7c538] (1) Section 10[^f00023] (general powers of the Executive) is amended as follows.
 
 (2) In subsection (10) for “the West Yorkshire Combined Authority” substitute “each of the authorities within subsection (11)”.
 
@@ -479,7 +479,7 @@ Article 8(4)
 
 .
 
-**5.**[^key-fc1e6d7a1e695b4fbc197232d4fdf6c1] (1) Section 11[^f00024] (financial duty of Executive) is amended as follows.
+**5.**[^c-fc1e6d7a1e695b4fbc197232d4fdf6c1] (1) Section 11[^f00024] (financial duty of Executive) is amended as follows.
 
 (2) In subsection (3B) for “the West Yorkshire Combined Authority” substitute “each of the authorities within subsection (3C)”.
 
@@ -492,7 +492,7 @@ Article 8(4)
 
 .
 
-**6.**[^key-9be427583ac06b108f5636688459bc59] In section 12[^f00025] (borrowing powers of Executive), for subsection (8) substitute—
+**6.**[^c-9be427583ac06b108f5636688459bc59] In section 12[^f00025] (borrowing powers of Executive), for subsection (8) substitute—
 
 > (8) This section does not apply to—
 >
@@ -501,7 +501,7 @@ Article 8(4)
 
 .
 
-**7.**[^key-49af30d91573514bb9a2b8f2a67620e8] In section 13[^f00026] (power to make grants) for subsection (2) substitute—
+**7.**[^c-49af30d91573514bb9a2b8f2a67620e8] In section 13[^f00026] (power to make grants) for subsection (2) substitute—
 
 > (2) This section does not apply to—
 >
@@ -510,7 +510,7 @@ Article 8(4)
 
 .
 
-**8.**[^key-63191f413e9e282fac96b4aa26c96fd5] In section 14[^f00027] (accounts of Executive), for subsection (4) substitute—
+**8.**[^c-63191f413e9e282fac96b4aa26c96fd5] In section 14[^f00027] (accounts of Executive), for subsection (4) substitute—
 
 > (4) This section does not apply to—
 >
@@ -519,7 +519,7 @@ Article 8(4)
 
 .
 
-**9.**[^key-ffb33ddb14ba90b25f0917bf54527ae2] In section 15[^f00028] (further functions of Authority), for subsection (8) substitute—
+**9.**[^c-ffb33ddb14ba90b25f0917bf54527ae2] In section 15[^f00028] (further functions of Authority), for subsection (8) substitute—
 
 > (8) This section does not apply to—
 >
@@ -528,7 +528,7 @@ Article 8(4)
 
 .
 
-**10.**[^key-2d3ab989b6bc4f642c05b0aaae5440d8] In section 15A[^f00029] (additional provisions as to control of Executive by Authority), for subsection (4) substitute—
+**10.**[^c-2d3ab989b6bc4f642c05b0aaae5440d8] In section 15A[^f00029] (additional provisions as to control of Executive by Authority), for subsection (4) substitute—
 
 > (4) This section does not apply to—
 >
@@ -537,7 +537,7 @@ Article 8(4)
 
 .
 
-**11.**[^key-fe77793c4c00ec4faba9f5423ee9c504] (1) Section 16[^f00030] (publication of annual report by Authority and Executive and prevention of improper conduct of subsidiary activities) is amended as follows.
+**11.**[^c-fe77793c4c00ec4faba9f5423ee9c504] (1) Section 16[^f00030] (publication of annual report by Authority and Executive and prevention of improper conduct of subsidiary activities) is amended as follows.
 
 (2) In subsection (2A)—
 
@@ -557,13 +557,13 @@ Article 8(4)
 
 Article 10
 
-**1.**[^key-48bc4b010b3bfcc87366c0e4e3d8fc7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-48bc4b010b3bfcc87366c0e4e3d8fc7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2937425772544cc64947ca5ca759dcac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2937425772544cc64947ca5ca759dcac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3c06fc6042fe524bdbc99831cfc8f1bc] The duties under sections [^key-635735055bdedf8f5ec2aaa6f7c9d6dd]... 17A and 18A(1)(b) of the Education Act 1996[^f00033] and the power under sections 514A and 560A of that Act (duties and powers related to the provision of education and training for persons over compulsory school age).
+**3.**[^c-3c06fc6042fe524bdbc99831cfc8f1bc] The duties under sections [^c-635735055bdedf8f5ec2aaa6f7c9d6dd]... 17A and 18A(1)(b) of the Education Act 1996[^f00033] and the power under sections 514A and 560A of that Act (duties and powers related to the provision of education and training for persons over compulsory school age).
 
-**4.**[^key-098f4e17093c8414caf41b85ff6bc06f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-098f4e17093c8414caf41b85ff6bc06f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -599,27 +599,27 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00003]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). Section 103 was amended by sections 12 and 14 of the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1). Section 104 was amended by sections 8 and 14 of, and Schedule 5 to, the Cities and Local Government Devolution Act 2016. Section 105 was amended by sections 6, 9 and 14 of the Cities and Local Government Devolution Act 2016. Section 114 was amended by Schedule 5 to the Cities and Local Government Devolution Act 2016. Section 116 was amended by Schedule 5 to the Cities and Local Government Devolution Act 2016. Section 117 was amended by section 13 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and Schedule 5 to the Cities and Local Government Devolution Act 2016. Schedule 5A was inserted by section 8 of and Schedule 3 to the Cities and Local Government Devolution Act 2016.
 
-[^key-14de348ac4bf4fc27e5e2c6b5f527a1c]: Commencement: Art. 1 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-14de348ac4bf4fc27e5e2c6b5f527a1c]: Commencement: Art. 1 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-74c34aaaaecc9c920fad792354984d8c]: Commencement: Art. 2 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-74c34aaaaecc9c920fad792354984d8c]: Commencement: Art. 2 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-a2898ef3d7ce7064b2dcdf166df4a73b]: Textual amendment: Words in art. 2 inserted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/a)
+[^c-a2898ef3d7ce7064b2dcdf166df4a73b]: Textual amendment: Words in art. 2 inserted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(a)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/a)
 
-[^key-bc482f94085c5f03f0a1e392aeac3a4a]: Textual amendment: Word in art. 2 omitted (8.5.2017) by virtue of [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/b)
+[^c-bc482f94085c5f03f0a1e392aeac3a4a]: Textual amendment: Word in art. 2 omitted (8.5.2017) by virtue of [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/b)
 
-[^key-aa8ae0b2f48a39ee1598291e3e49340e]: Textual amendment: Words in art. 2 inserted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(c)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/c)
+[^c-aa8ae0b2f48a39ee1598291e3e49340e]: Textual amendment: Words in art. 2 inserted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(c)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/c)
 
-[^key-3430a4bc1476ea1e24d4e2640d97aa25]: Textual amendment: Words in art. 2 substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(d)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/d)
+[^c-3430a4bc1476ea1e24d4e2640d97aa25]: Textual amendment: Words in art. 2 substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(2)(d)](https://www.legislation.gov.uk/uksi/2017/510/article/24/2/d)
 
-[^key-d8e5ccf6484d06b847c99351ea9fb694]: Commencement: Art. 3 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-d8e5ccf6484d06b847c99351ea9fb694]: Commencement: Art. 3 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-1887b14abe676467659c1930845fce25]: Commencement: Art. 4 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-1887b14abe676467659c1930845fce25]: Commencement: Art. 4 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-cf38d1a281ec8eaecae8c648b3217bad]: Commencement: Art. 5 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-cf38d1a281ec8eaecae8c648b3217bad]: Commencement: Art. 5 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00004]: Footnote: Section 25 of the Statistics and Registration Service Act 2007 provides that the Statistics Board is responsible for the functions in section 19 of the Registration Service Act 1953 (annual abstract of number of births, deaths and marriages).
 
-[^key-4c23c94342876481489f60463e67456a]: Commencement: Art. 6 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-4c23c94342876481489f60463e67456a]: Commencement: Art. 6 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00005]: Footnote: [S.I. 1969/97](https://www.legislation.gov.uk/uksi/1969/97).
 
@@ -631,118 +631,118 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00009]: Footnote: [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38). Section 162 was amended by sections 15(6), 26(9), 27(2), 40(2), 77(5) and 131 of, and paragraphs 41, 46(1), (2)(a) and (2)(c) of Part 3 of Schedule 4 to, and Part 2 of Schedule 7to, the Local Transport Act 2008.
 
-[^key-2918aeebff414945db0b9bf06c92f926]: Commencement: Art. 7 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-2918aeebff414945db0b9bf06c92f926]: Commencement: Art. 7 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-15ae749224c65fcc6c32bfaf2d513481]: Commencement: Art. 8 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-15ae749224c65fcc6c32bfaf2d513481]: Commencement: Art. 8 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00010]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 
-[^key-66dc4ec85559e40f94b0f2603f792e04]: Commencement: Art. 9 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-66dc4ec85559e40f94b0f2603f792e04]: Commencement: Art. 9 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00011]: Footnote: Section 74 was amended by paragraph 72 of Schedule 13 to the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14); paragraph 21 of Schedule 60 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19); Schedule 24 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25); section 105 of the Greater London Authority Act [1999 (c. 29)](https://www.legislation.gov.uk/ukpga/1999/29); paragraph 305(a) of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39); paragraph 68 of Schedule 1 to the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21); paragraph 16 of Schedule 1 to the Local Government and Involvement in Public Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28); paragraphs 74 and 75 of Schedule 6 and Part 4 of Schedule 7 to the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20); paragraphs 1 and 2 of Schedule 7 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13); paragraph 182(a) of Schedule 16 to the Localism Act [2011(c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); section 9(1)(a) , (b) and (2) of, and paragraphs 9 and 10 of Schedule 5 to the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1); and by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825).
 
 [^f00012]: Footnote: [S.I. 1992/2789](https://www.legislation.gov.uk/uksi/1992/2789), amended by [S.I. 2012/213](https://www.legislation.gov.uk/uksi/2012/213) and [S.I. 2015/27](https://www.legislation.gov.uk/uksi/2015/27).
 
-[^key-64d5dff9eae88249d0e7a27b636ab44f]: Commencement: Art. 10 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-64d5dff9eae88249d0e7a27b636ab44f]: Commencement: Art. 10 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-9061080e9ceaefc5a7a93acd4a254db5]: Textual amendment: [Arts. 11-13](https://www.legislation.gov.uk/uksi/2016/653/article/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/2)
+[^c-9061080e9ceaefc5a7a93acd4a254db5]: Textual amendment: [Arts. 11-13](https://www.legislation.gov.uk/uksi/2016/653/article/11) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/2)
 
-[^key-55ee19806485a17b2c26e90b667af9f6]: Commencement: Art. 14 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-55ee19806485a17b2c26e90b667af9f6]: Commencement: Art. 14 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00017]: Footnote: [S.I.2013/2356](https://www.legislation.gov.uk/uksi/2013/2356), amended by [S.I. 2014/1146](https://www.legislation.gov.uk/uksi/2014/1146) and [S.I. 2015/755](https://www.legislation.gov.uk/uksi/2015/755).
 
-[^key-30b83acc1facf21922aa8c8436985ec9]: Commencement: Art. 15 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-30b83acc1facf21922aa8c8436985ec9]: Commencement: Art. 15 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-76732abae58532859e6c60b51f58049b]: Commencement: Sch. 1 para. 1 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-76732abae58532859e6c60b51f58049b]: Commencement: Sch. 1 para. 1 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-22ca40350bf7476f284569422ed22d48]: Textual amendment: Sch. 1 para. 1(1) omitted (8.5.2017) by virtue of [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/a/i)
+[^c-22ca40350bf7476f284569422ed22d48]: Textual amendment: Sch. 1 para. 1(1) omitted (8.5.2017) by virtue of [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/a/i)
 
-[^key-45ca3610424b86e70442d1fee7b671ab]: Textual amendment: Sch. 1 para. 1(4) substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/a/ii)
+[^c-45ca3610424b86e70442d1fee7b671ab]: Textual amendment: Sch. 1 para. 1(4) substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/a/ii)
 
-[^key-a15ba5b7ceeeb0f6b7e818fefb9866f7]: Textual amendment: Sch. 1 para. 2 omitted (8.5.2017) by virtue of [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/b)
+[^c-a15ba5b7ceeeb0f6b7e818fefb9866f7]: Textual amendment: Sch. 1 para. 2 omitted (8.5.2017) by virtue of [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(b)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/b)
 
-[^key-eb6d2a2d7ecbcee029d968f1a4cddadf]: Textual amendment: Sch. 1 para. 3 substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(c)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/c)
+[^c-eb6d2a2d7ecbcee029d968f1a4cddadf]: Textual amendment: Sch. 1 para. 3 substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(c)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/c)
 
-[^key-015e9fd8340045b6472f169349a97944]: Textual amendment: [Sch. 1 para. 3(1)-(7)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(3)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/3/a)
+[^c-015e9fd8340045b6472f169349a97944]: Textual amendment: [Sch. 1 para. 3(1)-(7)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/3/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(3)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/3/a)
 
-[^key-bbbf867bab7c80d2d6032cf0bd2f25dd]: Textual amendment: [Sch. 1 para. 3(9)-(14)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/3/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(3)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/3/b)
+[^c-bbbf867bab7c80d2d6032cf0bd2f25dd]: Textual amendment: [Sch. 1 para. 3(9)-(14)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/3/9) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(3)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/3/b)
 
-[^key-e8409d58da820e45d7286cfbf8dee849]: Commencement: Sch. 1 para. 4 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-e8409d58da820e45d7286cfbf8dee849]: Commencement: Sch. 1 para. 4 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-eafdc9c0654cbbfbb343a72caf8fa0cb]: Textual amendment: Sch. 1 para. 4(2) substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/d/i)
+[^c-eafdc9c0654cbbfbb343a72caf8fa0cb]: Textual amendment: Sch. 1 para. 4(2) substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/d/i)
 
 [^f00019]: Footnote: See paragraph 3(5) of Schedule 5A to the Local Democracy, Economic Development and Construction 2009 Act for the meaning of “appropriate person”.
 
 [^f00020]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22). Sections 9FG and 9GA were inserted by section 21 of and Schedule 2 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-be13e24079b5dbcee221727e5a4cf69d]: Textual amendment: Sch. 1 para. 4A inserted (31.3.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/510/article/1/3), [24(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/d/ii)
+[^c-be13e24079b5dbcee221727e5a4cf69d]: Textual amendment: Sch. 1 para. 4A inserted (31.3.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2017/510/article/1/3), [24(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/d/ii)
 
-[^key-cab8b0f1173f964168aa7a6578846ca2]: Commencement: Sch. 1 para. 5 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-cab8b0f1173f964168aa7a6578846ca2]: Commencement: Sch. 1 para. 5 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-09db18bfdc559dc0e7f1288c8036571c]: Commencement: Sch. 1 para. 6 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-09db18bfdc559dc0e7f1288c8036571c]: Commencement: Sch. 1 para. 6 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-a6345ccd222ee218f030bd4dc539cc81]: Textual amendment: Sch. 1 para. 7 substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(e)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/e)
+[^c-a6345ccd222ee218f030bd4dc539cc81]: Textual amendment: Sch. 1 para. 7 substituted (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [24(3)(e)](https://www.legislation.gov.uk/uksi/2017/510/article/24/3/e)
 
-[^key-b41d721b1eddc28f311efb49108675d7]: Textual amendment: Words in Sch. 1 para. 7 heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/14/a)
+[^c-b41d721b1eddc28f311efb49108675d7]: Textual amendment: Words in Sch. 1 para. 7 heading inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2026/346/regulation/14/a)
 
-[^key-a34aac588253620fb1927e141583372f]: Textual amendment: [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/7/1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/8/2/a)
+[^c-a34aac588253620fb1927e141583372f]: Textual amendment: [Sch. 1 para. 7(1)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/7/1) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2026/719/article/8/2/a)
 
-[^key-6d63894cc93750b9d2fc3de165b83ba4]: Textual amendment: Sch. 1 para. 7(3) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [24(b)](https://www.legislation.gov.uk/uksi/2024/430/regulation/24/b)
+[^c-6d63894cc93750b9d2fc3de165b83ba4]: Textual amendment: Sch. 1 para. 7(3) inserted (27.3.2024) by [The Combined Authorities (Overview and Scrutiny Committees, Access to Information and Audit Committees) (Amendment) Regulations 2024 (S.I. 2024/430)](https://www.legislation.gov.uk/uksi/2024/430), [regs. 1(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/430/regulation/1/2/a/iii), [24(b)](https://www.legislation.gov.uk/uksi/2024/430/regulation/24/b)
 
-[^key-a26d7f8fb49120cdc5d3e57a6183bf15]: Textual amendment: Sch. 1 para. 7(4)(5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/14/c)
+[^c-a26d7f8fb49120cdc5d3e57a6183bf15]: Textual amendment: Sch. 1 para. 7(4)(5) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [14(c)](https://www.legislation.gov.uk/uksi/2026/346/regulation/14/c)
 
-[^key-80402a492c84dc1e83a1b6587f9a3807]: Textual amendment: [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/7/5) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/8/2/b)
+[^c-80402a492c84dc1e83a1b6587f9a3807]: Textual amendment: [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/2016/653/schedule/1/paragraph/7/5) substituted (22.7.2026) by [The Combined Authorities and Combined County Authorities (Remuneration Panels for Member Allowances and Consequential Amendments) Order 2026 (S.I. 2026/719)](https://www.legislation.gov.uk/uksi/2026/719), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/719/article/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2026/719/article/8/2/b)
 
-[^key-b27d5305abda9a2ad51985110da40090]: Commencement: Sch. 2 para. 1 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-b27d5305abda9a2ad51985110da40090]: Commencement: Sch. 2 para. 1 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-201b268d7c11ed996b2df5ab80fdf11f]: Commencement: Sch. 2 para. 2 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-201b268d7c11ed996b2df5ab80fdf11f]: Commencement: Sch. 2 para. 2 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00021]: Footnote: Section 9 was amended by paragraph 1 of Schedule 18 to the Local Government (Scotland) Act [1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65); by sections 57 and 58 of, paragraph 3 of Schedule 3 to and Schedule 8 to the Transport Act 1985; by paragraph 80 of Schedule 13 to the Local Government (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39); by section 49 and Schedule 8 to the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) and in relation to England and Wales only by section 98 of, paragraph 2of Schedule 4 to and Part 4 of Schedule 7 to the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26) and by [S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908), [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864) and by [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866).
 
-[^key-deb75d39befdafa7dc8cd773d91d8a83]: Commencement: Sch. 2 para. 3 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-deb75d39befdafa7dc8cd773d91d8a83]: Commencement: Sch. 2 para. 3 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00022]: Footnote: Section 9A was inserted by section 57 of the Transport Act 1985 and amended by sections 161 and 274 of and paragraph 3 of Schedule 11 to and paragraph 1 of Schedule 31 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), sections 10, 67, 77 and 131 of and paragraph 3 of Schedule 4 and paragraph 1 of Schedule 7 to the Local Transport Act 2008 and by [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866).
 
-[^key-fa249d0de0a45fc2db66a6f0b7f7c538]: Commencement: Sch. 2 para. 4 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-fa249d0de0a45fc2db66a6f0b7f7c538]: Commencement: Sch. 2 para. 4 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00023]: Footnote: Section 10 was amended by section 34 of and paragraph 18 of Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), sections 57 and 139 of and paragraphs 2 and 4 of Schedule 3 to and paragraph 7 of Schedule 7 to the Transport Act 1985, section 252 of and paragraph 3 of Schedule 27 to the Local Transport Act 2000, section 59 of and paragraph 1 of Schedule 13 to the Railways Act [2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), sections 77 and 131 of and paragraph 4 of Schedule 4 to and paragraph 1 of Schedule 7 to the Local Transport Act 2008, section 12 of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and by section 49 of and paragraphs 2 and 3 of Schedule 8 to the Deregulation Act 2015 and by [S.I 2014/864](https://www.legislation.gov.uk/uksi/2014/864) and by [S.I.2014/866](https://www.legislation.gov.uk/uksi/2014/866)
 
-[^key-fc1e6d7a1e695b4fbc197232d4fdf6c1]: Commencement: Sch. 2 para. 5 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-fc1e6d7a1e695b4fbc197232d4fdf6c1]: Commencement: Sch. 2 para. 5 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00024]: Footnote: Section 11 was amended by section 202 of and paragraph 2 of Schedule 24 to the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), sections 57 and 139 of and paragraph 5 of Schedule 3 to and paragraph 5 of Schedule 8 to the Transport Act 1985 and by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864).
 
-[^key-9be427583ac06b108f5636688459bc59]: Commencement: Sch. 2 para. 6 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-9be427583ac06b108f5636688459bc59]: Commencement: Sch. 2 para. 6 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00025]: Footnote: Section 12 was amended by sections 57 and 139 of and paragraphs 2 and 6 of Schedule 3 to and paragraph 6 of Schedule 8 to the Transport Act 1985, section 194 of and paragraph 16 of Schedule 11 to and Part 1 of Schedule 12 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), section 4 of and Part 1 of Schedule 2 to the Government Trading Act [1990 (c. 30)](https://www.legislation.gov.uk/ukpga/1990/30), section 77 of and paragraph 5 of Schedule 4 to the Local Transport Act 2008 and by [S.I. 1991/761](https://www.legislation.gov.uk/uksi/1991/761), [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864) and by [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866).
 
-[^key-49af30d91573514bb9a2b8f2a67620e8]: Commencement: Sch. 2 para. 7 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-49af30d91573514bb9a2b8f2a67620e8]: Commencement: Sch. 2 para. 7 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00026]: Footnote: Section 13 was amended by section 57 of and paragraph 7 of Schedule 3 to the Transport Act 1985 and by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864).
 
-[^key-63191f413e9e282fac96b4aa26c96fd5]: Commencement: Sch. 2 para. 8 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-63191f413e9e282fac96b4aa26c96fd5]: Commencement: Sch. 2 para. 8 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00027]: Footnote: Section 14 was amended by section 38 of and Part 4 of Schedule 6 to the Local Government Finance Act [1982 (c. 32)](https://www.legislation.gov.uk/ukpga/1982/32), section 57 of and paragraph 2 of Schedule 3 to the Transport Act 1985, section 77 of and paragraph 6 of Schedule 4 to the Local Transport Act 2008, section 45 of and paragraph 3 of Schedule 12 to the Local Audit and Accountability Act [2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2) and by [S.I. 1991/1997](https://www.legislation.gov.uk/uksi/1991/1997), [S.I. 2008/948](https://www.legislation.gov.uk/uksi/2008/948), [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864) and [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866).
 
-[^key-ffb33ddb14ba90b25f0917bf54527ae2]: Commencement: Sch. 2 para. 9 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-ffb33ddb14ba90b25f0917bf54527ae2]: Commencement: Sch. 2 para. 9 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00028]: Footnote: Section 15 was amended by section 202 of and paragraph 5 of Schedule 24 to the Local Government Act 1972, section 42 of and Schedule 8 to the Local Government Act [1974 (c. 7)](https://www.legislation.gov.uk/ukpga/1974/7), sections 57 and 139 of and paragraph 2 of Schedule 3 to, paragraph 8 of Schedule 7 to and paragraph 10 of Schedule 8 to the Transport Act 1985, section 252 of and paragraph 4 of Schedule 27 to the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38), section 59 of and paragraph 1 of Schedule 13 to the Railways Act 2005, section 77 of and paragraph 7 of Schedule 4 to the Local Transport Act 2008 and by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864) and [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866).
 
-[^key-2d3ab989b6bc4f642c05b0aaae5440d8]: Commencement: Sch. 2 para. 10 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-2d3ab989b6bc4f642c05b0aaae5440d8]: Commencement: Sch. 2 para. 10 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00029]: Footnote: Section 15A was inserted by section 202 of and paragraph 4 of Schedule 24 to the Local Government Act 1972 and amended by sections 57 and 139 of and paragraph 11 of Schedule 3 to and Schedule 8 to the Transport Act 1985 and by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864).
 
-[^key-fe77793c4c00ec4faba9f5423ee9c504]: Commencement: Sch. 2 para. 11 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-fe77793c4c00ec4faba9f5423ee9c504]: Commencement: Sch. 2 para. 11 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
 [^f00030]: Footnote: Section 16 was amended by section 202 of and paragraph 6 of Schedule 24 to the Local Government Act 1972, section 42 of and Schedule 8 to the Local Government Act 1974, sections 57 and 139 of and paragraph 12 of Schedule 3 to and paragraph 9 of Schedule 7 to the Transport Act 1985, section 77 of and paragraph 8 of Schedule 4 to the Local Transport Act 2008, section 49 of and paragraph 9 of Schedule 8 to the Deregulation Act 2015 and by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864) and [S.I. 2014/866](https://www.legislation.gov.uk/uksi/2014/866).
 
-[^key-48bc4b010b3bfcc87366c0e4e3d8fc7d]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/a)
+[^c-48bc4b010b3bfcc87366c0e4e3d8fc7d]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/1) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/a)
 
-[^key-2937425772544cc64947ca5ca759dcac]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/a)
+[^c-2937425772544cc64947ca5ca759dcac]: Textual amendment: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/2) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(a)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/a)
 
-[^key-3c06fc6042fe524bdbc99831cfc8f1bc]: Commencement: Sch. 3 para. 3 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
+[^c-3c06fc6042fe524bdbc99831cfc8f1bc]: Commencement: Sch. 3 para. 3 in force at 17.6.2016, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2016/653/article/1/2/b)
 
-[^key-635735055bdedf8f5ec2aaa6f7c9d6dd]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/b)
+[^c-635735055bdedf8f5ec2aaa6f7c9d6dd]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/3) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(b)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/b)
 
 [^f00033]: Footnote: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Sections 15ZA, 15ZB, 15ZC, 18A, 514A and 560A were inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), sections 41, 42, 45 to 48 and by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158). Section 15ZA was amended by paragraph 5 of Schedule 3(1) to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6) , by paragraph 44 of Schedule 14(2) to the Deregulation Act (c. 20) and by [S.I. 2015/1852](https://www.legislation.gov.uk/uksi/2015/1852). Section 15ZC was amended by [S.I. 2015/1852](https://www.legislation.gov.uk/uksi/2015/1852). Section 18A was also amended by the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), sections 30 and 82 and by paragraph 8 of Schedule 3(1) to the Children and Families Act 2014 . Section 514A was amended by paragraph 50 of Schedule 3(1) to the Children and Families Act 2014 . Section 560A was amended by paragraph 54 of Schedule 3(1) to the Children and Families Act 2014.
 
-[^key-098f4e17093c8414caf41b85ff6bc06f]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/c)
+[^c-098f4e17093c8414caf41b85ff6bc06f]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2016/653/schedule/3/paragraph/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [26(4)(c)](https://www.legislation.gov.uk/uksi/2026/519/regulation/26/4/c)

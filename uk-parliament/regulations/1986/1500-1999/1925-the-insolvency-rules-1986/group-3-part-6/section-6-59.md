@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.59. The statement of affairs[^key-fc0c5775eba397617ce0cab8f43df01b]
+## 6.59. The statement of affairs[^c-fc0c5775eba397617ce0cab8f43df01b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc0c5775eba397617ce0cab8f43df01b]: Commencement: [Rule 6.59](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.59) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-fc0c5775eba397617ce0cab8f43df01b]: Commencement: [Rule 6.59](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.59) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00151]: Marginal citation: \[FORM 6.33\]

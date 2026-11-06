@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Prosecution on indictment: Scottish Law Officers[^key-231fa877474b5d65d1e057334566bec6]
+## 60. Prosecution on indictment: Scottish Law Officers[^c-231fa877474b5d65d1e057334566bec6]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-231fa877474b5d65d1e057334566bec6]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2010/13/section/60) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/413/article/5))
+[^c-231fa877474b5d65d1e057334566bec6]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2010/13/section/60) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/413/article/5))

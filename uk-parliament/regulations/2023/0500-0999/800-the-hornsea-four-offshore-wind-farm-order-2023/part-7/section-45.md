@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Funding[^key-4898265c37c5f495ba4af54b00219ca3]
+## 45. Funding[^c-4898265c37c5f495ba4af54b00219ca3]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4898265c37c5f495ba4af54b00219ca3]: Commencement: Art. 45 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)
+[^c-4898265c37c5f495ba4af54b00219ca3]: Commencement: Art. 45 in force at 3.8.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/800/article/1)

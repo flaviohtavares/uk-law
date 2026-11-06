@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**7.**[^key-a651954ff883c91831bac96c4d27aff6] The Board shall issue a game fishing rod licence to use a single game rod to any person holding a current game fishing rod licence issued by the Foyle Fisheries Commission on payment to the Board of a duty of the amount set out in column (2) of Part I of Schedule 1 opposite the entry “Additional amount payable by the holder of a current game fishing rod licence issued by the Foyle Fisheries Commission to use a single game rod” in column (1) of that Part.
+**7.**[^c-a651954ff883c91831bac96c4d27aff6] The Board shall issue a game fishing rod licence to use a single game rod to any person holding a current game fishing rod licence issued by the Foyle Fisheries Commission on payment to the Board of a duty of the amount set out in column (2) of Part I of Schedule 1 opposite the entry “Additional amount payable by the holder of a current game fishing rod licence issued by the Foyle Fisheries Commission to use a single game rod” in column (1) of that Part.
 
 ## Annotations
 
-[^key-a651954ff883c91831bac96c4d27aff6]: Commencement: S. 7 in operation at 1.11.1997, see byelaw 1
+[^c-a651954ff883c91831bac96c4d27aff6]: Commencement: S. 7 in operation at 1.11.1997, see byelaw 1

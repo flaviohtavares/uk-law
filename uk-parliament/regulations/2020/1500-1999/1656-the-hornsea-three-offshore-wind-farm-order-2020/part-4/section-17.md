@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Authority to survey and investigate the land onshore[^key-1efc1e129718e3e1d35c8613b5fb20ac]
+## 17. Authority to survey and investigate the land onshore[^c-1efc1e129718e3e1d35c8613b5fb20ac]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-1efc1e129718e3e1d35c8613b5fb20ac]: Commencement: Art. 17 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-1efc1e129718e3e1d35c8613b5fb20ac]: Commencement: Art. 17 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
 [^c24412791]: Marginal citation: As defined in Part 5 of Schedule 9 (Protection for Network Rail Infrastructure Limited).

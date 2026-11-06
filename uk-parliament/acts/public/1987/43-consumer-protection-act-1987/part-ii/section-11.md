@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Safety regulations.[^c9337761][^c9337771][^key-399ac2d0dd18d490724c70727042fd60]
+## 11. Safety regulations.[^c9337761][^c9337771][^c-399ac2d0dd18d490724c70727042fd60]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ but the preceding provisions of this subsection shall not apply in the case of r
 - (b) water, food, feeding stuff and fertiliser;
 - (c) gas which is, is to be or has been supplied by a person authorised to supply it by or under section 7A of the Gas Act 1986 (licensing of gas suppliers and gas shippers) or paragraph 5 of Schedule 2A to that Act (supply to very large customers an exception to prohibition on unlicensed activities)[^c9337811]or under Article 8(1)(c) of the Gas (Northern Ireland) Order 1996[^c9337831];
 - (d) controlled drugs and licensed medicinal products;
-- (e)[^key-53e33bacc534296374923baaccfbc833] medical devices.
+- (e)[^c-53e33bacc534296374923baaccfbc833] medical devices.
 
 ## Annotations
 
@@ -81,7 +81,7 @@ but the preceding provisions of this subsection shall not apply in the case of r
 
 [^c9337771]: Modification: S. 11 applied (N.I.) (1.12.1993) by [S.R. 1993/412](https://www.legislation.gov.uk/nisr/1993/412), [reg. 19(3)](https://www.legislation.gov.uk/nisr/1993/412/regulation/19/3)
 
-[^key-399ac2d0dd18d490724c70727042fd60]: Modification: Pt. II applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
+[^c-399ac2d0dd18d490724c70727042fd60]: Modification: Pt. II applied in part (with modifications) (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [53(3)](https://www.legislation.gov.uk/uksi/2016/507/regulation/53/3)
 
 [^c18751001]: Textual amendment: Words in s. 11(1) omitted (1.10.2005) by virtue of [The General Product Safety Regulations 2005 (S.I. 2005/1803)](https://www.legislation.gov.uk/uksi/2005/1803), [reg. 46(3)](https://www.legislation.gov.uk/uksi/2005/1803/regulation/46/3) (with [regs. 42](https://www.legislation.gov.uk/uksi/2005/1803/regulation/42), [43](https://www.legislation.gov.uk/uksi/2005/1803/regulation/43))
 
@@ -101,4 +101,4 @@ but the preceding provisions of this subsection shall not apply in the case of r
 
 [^c9337831]: Textual amendment: Words in s. 11(7)(c) inserted (N.I.) (10.6.1996) by [S.I. 1996/276 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/276), [art. 71(1)](https://www.legislation.gov.uk/nisi/1996/276/article/71/1), [Sch. 6](https://www.legislation.gov.uk/nisi/1996/276/schedule/6) (with [Sch. 7 paras. 2](https://www.legislation.gov.uk/nisi/1996/276/schedule/7/paragraph/2), [3(2)](https://www.legislation.gov.uk/nisi/1996/276/schedule/7/paragraph/3/2)); [S.R. 1996/216](https://www.legislation.gov.uk/nisr/1996/216), [art. 2](https://www.legislation.gov.uk/nisr/1996/216/article/2)
 
-[^key-53e33bacc534296374923baaccfbc833]: Textual amendment: S. 11(7)(e) inserted (26.5.2021) by [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 41(1)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/1/a), [50(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/3) (with [s. 41(8)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/8)); [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/610/regulation/3))
+[^c-53e33bacc534296374923baaccfbc833]: Textual amendment: S. 11(7)(e) inserted (26.5.2021) by [Medicines and Medical Devices Act 2021 (c. 3)](https://www.legislation.gov.uk/ukpga/2021/3), [ss. 41(1)(a)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/1/a), [50(3)](https://www.legislation.gov.uk/ukpga/2021/3/section/50/3) (with [s. 41(8)](https://www.legislation.gov.uk/ukpga/2021/3/section/41/8)); [S.I. 2021/610](https://www.legislation.gov.uk/uksi/2021/610), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/610/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/610/regulation/3))

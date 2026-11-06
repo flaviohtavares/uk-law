@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Interim youth diversion orders[^key-013f24c5a3b0cf44af9ffdf839814da6]
+## 224. Interim youth diversion orders[^c-013f24c5a3b0cf44af9ffdf839814da6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ Section 217(9) does not apply in relation to an interim youth diversion order.
 
 ## Annotations
 
-[^key-013f24c5a3b0cf44af9ffdf839814da6]: Commencement: S. 224 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-013f24c5a3b0cf44af9ffdf839814da6]: Commencement: S. 224 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

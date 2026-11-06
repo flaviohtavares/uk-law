@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Applications for individual approvals: appeals[^key-baeb1bf0861758cf78f7980677f4704a]
+## 19. Applications for individual approvals: appeals[^c-baeb1bf0861758cf78f7980677f4704a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,10 +45,10 @@ summary: ''
 - (a) confirm the original decision, or
 - (b) make such other decision as the examiner thinks fit (including the reimbursement of any fee paid by the appellant),
 
-and if it is decided that an approval under regulation 18[^key-29b6920d82c5696208989515a3ddde71] should be granted the examiner must notify the approval authority accordingly.
+and if it is decided that an approval under regulation 18[^c-29b6920d82c5696208989515a3ddde71] should be granted the examiner must notify the approval authority accordingly.
 
 ## Annotations
 
-[^key-baeb1bf0861758cf78f7980677f4704a]: Commencement: Reg. 19 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-baeb1bf0861758cf78f7980677f4704a]: Commencement: Reg. 19 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-29b6920d82c5696208989515a3ddde71]: Textual amendment: Words in [reg. 19(7)](https://www.legislation.gov.uk/uksi/2020/818/regulation/19/7) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/14/6)
+[^c-29b6920d82c5696208989515a3ddde71]: Textual amendment: Words in [reg. 19(7)](https://www.legislation.gov.uk/uksi/2020/818/regulation/19/7) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [14(6)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/14/6)

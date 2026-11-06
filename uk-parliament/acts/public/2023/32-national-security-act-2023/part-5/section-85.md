@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Duty to consider reduction in damages payable by the Crown[^key-73720e2fd41e3dc58c7dd90f8bdede21]
+## 85. Duty to consider reduction in damages payable by the Crown[^c-73720e2fd41e3dc58c7dd90f8bdede21]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73720e2fd41e3dc58c7dd90f8bdede21]: Commencement: S. 85 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-73720e2fd41e3dc58c7dd90f8bdede21]: Commencement: S. 85 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)

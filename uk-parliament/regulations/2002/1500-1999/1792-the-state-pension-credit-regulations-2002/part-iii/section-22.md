@@ -32,7 +32,7 @@ summary: ''
 (2) This paragraph applies to a benefit week where the claimant satisfies the conditions that—
 
 - (a) he is in receipt of state pension credit; and
-- (b) but for regulation 21(1)[^key-82019fa843f31e8ff78dc529bc10271a], he would have received an additional amount of state pension credit in that benefit week;
+- (b) but for regulation 21(1)[^c-82019fa843f31e8ff78dc529bc10271a], he would have received an additional amount of state pension credit in that benefit week;
 
 and in such a case, the amount of the reduction for the purposes of paragraph (1)(a) shall be equal to that additional amount.
 
@@ -40,7 +40,7 @@ and in such a case, the amount of the reduction for the purposes of paragraph (1
 
 - (a) the amount of state pension credit to which the claimant would have been entitled in the relevant week but for regulation 21(1);
 - (b) the amount of housing benefit (if any) equal to the difference between his maximum housing benefit and the amount (if any) of housing benefit which he is awarded in respect of the benefit week, within the meaning of regulation 2(1) of the Housing Benefit (General) Regulations 1987 [^c262967] (interpretation), which includes the last day of the relevant week;
-- (c) the amount of council tax benefit (if any) equal to the difference between his maximum council tax benefit and the amount (if any) of council tax benefit which he is awarded in respect of the benefit week which includes the last day of the relevant week, and for this purpose “benefit week” means a period of 7 consecutive days beginning on a Monday and ending on a Sunday[^key-0a70a526bef8a4516a6be07ca37a5af0].
+- (c) the amount of council tax benefit (if any) equal to the difference between his maximum council tax benefit and the amount (if any) of council tax benefit which he is awarded in respect of the benefit week which includes the last day of the relevant week, and for this purpose “benefit week” means a period of 7 consecutive days beginning on a Monday and ending on a Sunday[^c-0a70a526bef8a4516a6be07ca37a5af0].
 
 (4) The amount determined under paragraph (3) shall be re-determined under that paragraph if the claimant makes a further claim for state pension credit and the conditions in paragraph (5) are satisfied, and in such a case—
 
@@ -70,8 +70,8 @@ and in such a case, the amount of the reduction for the purposes of paragraph (1
 
 ## Annotations
 
-[^key-82019fa843f31e8ff78dc529bc10271a]: Textual amendment: Word in reg. 22 substituted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) (No. 2) Regulations 2002 (S.I. 2002/3197)](https://www.legislation.gov.uk/uksi/2002/3197), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/7)
+[^c-82019fa843f31e8ff78dc529bc10271a]: Textual amendment: Word in reg. 22 substituted (6.10.2003) by [The State Pension Credit (Consequential, Transitional and Miscellaneous Provisions) (No. 2) Regulations 2002 (S.I. 2002/3197)](https://www.legislation.gov.uk/uksi/2002/3197), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2002/3197/regulation/1/1/b), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2002/3197/schedule/paragraph/7)
 
 [^c262967]: Marginal citation: [S.I.1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 
-[^key-0a70a526bef8a4516a6be07ca37a5af0]: Textual amendment: Words in [reg. 22(3)(c)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/22/3/c) substituted (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/6)
+[^c-0a70a526bef8a4516a6be07ca37a5af0]: Textual amendment: Words in [reg. 22(3)(c)](https://www.legislation.gov.uk/uksi/2002/1792/regulation/22/3/c) substituted (1.4.2013) by [The Council Tax Benefit Abolition (Consequential Provision) Regulations 2013 (S.I. 2013/458)](https://www.legislation.gov.uk/uksi/2013/458), [reg. 1](https://www.legislation.gov.uk/uksi/2013/458/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2013/458/schedule/2/paragraph/6)

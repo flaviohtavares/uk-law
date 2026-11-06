@@ -57,24 +57,24 @@ The Regulations make provision for a purpose mentioned in section 2(2) of the 19
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-4d1f4b872ce55600ad008e359d4869c0]
+### 1. Title, commencement and application[^c-4d1f4b872ce55600ad008e359d4869c0]
 
 (1) These Regulations may be cited as the Grants for Fishing and Aquaculture Industries Regulations 2015 and come into force on 31st October 2015.
 
 (2) Regulations 4 to 15 apply in relation to England only.
 
-### 2. Interpretation[^key-7b385e2638075205637e07854d1f02d8]
+### 2. Interpretation[^c-7b385e2638075205637e07854d1f02d8]
 
 In these Regulations—
 
-- (a) any reference to the following Regulations is a reference to that Regulation as it had effect in EU law immediately before IP completion day[^key-0e747d49e44eb2ee29364d4e83e9af63]—
+- (a) any reference to the following Regulations is a reference to that Regulation as it had effect in EU law immediately before IP completion day[^c-0e747d49e44eb2ee29364d4e83e9af63]—
   - (i) Regulation (EU) No.508/2014 of the European Parliament and of the Council of 15th May 2014 on the European Maritime and Fisheries Fund (“the EMFF Regulation”); and
   - (ii) Regulation (EU) No.1303/2013 of the European Parliament and of the Council of 17th December 2013, laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Regional Development and the European Maritime Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime Fisheries Fund (“the Funds Framework Regulation”); and
 - (b) “notify” means notify in writing, and any reference to a “notice” or “notification” is to a notice or notification given in writing.
 
 ## PART 2 — Designation of Authorities
 
-### 3. Designation of authorities[^key-5879d3707aa4f9148e461c57002ccaff]
+### 3. Designation of authorities[^c-5879d3707aa4f9148e461c57002ccaff]
 
 (1) For the purposes of Article 123 of the Funds Framework Regulation and in respect of the EMFF Operational Programme—
 
@@ -92,17 +92,17 @@ In these Regulations—
 
 ## PART 3 — Payment of Grants by the Marine Management Organisation
 
-### 4. Payments by the Marine Management Organisation[^key-1f4c96cdc7024eedcdaccb9d8cfeff58]
+### 4. Payments by the Marine Management Organisation[^c-1f4c96cdc7024eedcdaccb9d8cfeff58]
 
 (1) The Marine Management Organisation may pay grants for any of the purposes specified in Title V of the EMFF Regulation.
 
 (2) The Marine Management Organisation may determine in each financial year the rates of grant payable (if any) in respect of any activity.
 
-### 5. Advertisement of grants[^key-436d3b72ca8d86c63c9494c3844880dc]
+### 5. Advertisement of grants[^c-436d3b72ca8d86c63c9494c3844880dc]
 
 The Marine Management Organisation must advertise the grants available, and provide guidance notes for completing applications.
 
-### 6. Application for a grant[^key-485740e41946bf6870340294f23b6c8c]
+### 6. Application for a grant[^c-485740e41946bf6870340294f23b6c8c]
 
 (1) An application for a grant must be made in a form approved by the Marine Management Organisation, and submitted to the Marine Management Organisation at the address specified.
 
@@ -114,11 +114,11 @@ The Marine Management Organisation must advertise the grants available, and prov
 
 (5) In this regulation, “specified” means specified in the form or on any documentation provided with or in connection with the form.
 
-### 7. Approval of application[^key-33f37b31614f50b3466443f274d1df33]
+### 7. Approval of application[^c-33f37b31614f50b3466443f274d1df33]
 
 The Marine Management Organisation may approve an application subject to such conditions as it may determine, or may reject it.
 
-### 8. Notification of decision[^key-6f129343cc738b5c91265518f866809d]
+### 8. Notification of decision[^c-6f129343cc738b5c91265518f866809d]
 
 (1) Where the Marine Management Organisation approves an application unconditionally it must notify the applicant of the decision it has made.
 
@@ -129,23 +129,23 @@ The Marine Management Organisation may approve an application subject to such co
 - (a) decide whether to refuse or reject the application, or to approve it subject to conditions, after considering any representations made in response to a notification under paragraph (2); and
 - (b) notify the applicant of the decision made under sub-paragraph (a).
 
-### 9. Evidence of expenditure or action[^key-b40405b5d163bd1fb8c481b6f156fd13]
+### 9. Evidence of expenditure or action[^c-b40405b5d163bd1fb8c481b6f156fd13]
 
 (1) The Marine Management Organisation must not make a payment to a person unless it is satisfied that the person has properly incurred expenditure of a kind in respect of which the grant is payable, and has complied with any conditions of the approval of the grant.
 
 (2) For the purposes of paragraph (1), the Marine Management Organisation may require the person to provide information evidencing expenditure or any necessary actions relating to the grant.
 
-### 10. Method of payment[^key-50d149387340f53c6db9b9be8d8b5569]
+### 10. Method of payment[^c-50d149387340f53c6db9b9be8d8b5569]
 
 Payment of a grant may be made in a single instalment or a number of instalments.
 
-### 11. Records[^key-0ea35241c59a99df07ef70a5ffbe5374]
+### 11. Records[^c-0ea35241c59a99df07ef70a5ffbe5374]
 
 (1) It is a condition of the payment of any grant that the person to whom the payment is made makes a record of all payments of grant made and all expenditure in respect of which such payments are made, and keeps any such record for at least six years after the date on which the last payment was made.
 
 (2) Failure to comply with paragraph (1) is an offence.
 
-### 12. Variation, suspension and revocation of approval[^key-c06ea831477f77f7bef13b39ee188ff3]
+### 12. Variation, suspension and revocation of approval[^c-c06ea831477f77f7bef13b39ee188ff3]
 
 (1) The Marine Management Organisation may, at any time before the grant has been paid in full, suspend or revoke the approval, or vary a condition of the approval.
 
@@ -156,7 +156,7 @@ Payment of a grant may be made in a single instalment or a number of instalments
 - (a) decide whether to vary, suspend or revoke the approval after considering any representations made in response to a notification under paragraph (2); and
 - (b) notify the person of the decision made under sub-paragraph (a).
 
-### 13. Notice of recovery of payment[^key-93d6d439167e701d9cc2852177bb5721]
+### 13. Notice of recovery of payment[^c-93d6d439167e701d9cc2852177bb5721]
 
 (1) The Marine Management Organisation may by notice given to any person to whom a grant has been paid under these Regulations require the repayment of any part of the grant paid, if it is satisfied that—
 
@@ -170,7 +170,7 @@ Payment of a grant may be made in a single instalment or a number of instalments
 
 (4) Where any part of the sum specified in a notice under paragraph (1) is not repaid within the period specified in the notice, the Marine Management Organisation may recover such amount as remains outstanding summarily as a civil debt.
 
-### 14. Enforcement and penalties[^key-d1ba6e016c49a0f95ade20b99133c9d7]
+### 14. Enforcement and penalties[^c-d1ba6e016c49a0f95ade20b99133c9d7]
 
 (1) Section 238 (enforcement of the fisheries legislation) of the Marine and Coastal Access Act 2009[^f00007] (“the 2009 Act”) and, for that purpose, section 235 of that Act (which defines “marine enforcement officer”) apply in relation to the enforcement of these Regulations as they apply in relation to the enforcement of the fisheries legislation (within the meaning given by section 238(2) of the 2009 Act).
 
@@ -187,13 +187,13 @@ Payment of a grant may be made in a single instalment or a number of instalments
 
 ## PART 4 — Revocation, transitional and review provisions
 
-### 15. Revocation and transitional provision[^key-4fb9a86a5ea316ae050200f4b87dbbd0]
+### 15. Revocation and transitional provision[^c-4fb9a86a5ea316ae050200f4b87dbbd0]
 
 (1) Subject to paragraph (2), the Grants for Fishing and Aquaculture Industries Regulations 2007[^f00008] (“the 2007 Regulations”) are revoked.
 
 (2) Paragraph (1) does not affect the continuing application of the 2007 Regulations in respect of applications received by the Marine Management Organisation before 1st January 2015.
 
-### 16. Review of these Regulations[^key-ea2c78e57a5c0ddd1d185fac8f7c5eba]
+### 16. Review of these Regulations[^c-ea2c78e57a5c0ddd1d185fac8f7c5eba]
 
 (1) The Secretary of State must, from time to time—
 
@@ -263,40 +263,40 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: OJ No. L347, 20.12.2013, p.320.
 
-[^key-4d1f4b872ce55600ad008e359d4869c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-4d1f4b872ce55600ad008e359d4869c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-7b385e2638075205637e07854d1f02d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1711/regulation/2) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-7b385e2638075205637e07854d1f02d8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1711/regulation/2) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-0e747d49e44eb2ee29364d4e83e9af63]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/2/a) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/746/regulation/13) (as substituted by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/12/3)); [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e747d49e44eb2ee29364d4e83e9af63]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/2/a) substituted (31.12.2020) by [The Fisheries (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/746)](https://www.legislation.gov.uk/uksi/2019/746), [regs. 1](https://www.legislation.gov.uk/uksi/2019/746/regulation/1), [13](https://www.legislation.gov.uk/uksi/2019/746/regulation/13) (as substituted by [S.I. 2020/1542](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/12/3)); [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5879d3707aa4f9148e461c57002ccaff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1711/regulation/3) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-5879d3707aa4f9148e461c57002ccaff]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1711/regulation/3) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-1f4c96cdc7024eedcdaccb9d8cfeff58]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1711/regulation/4) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-1f4c96cdc7024eedcdaccb9d8cfeff58]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1711/regulation/4) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-436d3b72ca8d86c63c9494c3844880dc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1711/regulation/5) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-436d3b72ca8d86c63c9494c3844880dc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1711/regulation/5) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-485740e41946bf6870340294f23b6c8c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1711/regulation/6) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-485740e41946bf6870340294f23b6c8c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1711/regulation/6) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-33f37b31614f50b3466443f274d1df33]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1711/regulation/7) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-33f37b31614f50b3466443f274d1df33]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1711/regulation/7) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-6f129343cc738b5c91265518f866809d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1711/regulation/8) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-6f129343cc738b5c91265518f866809d]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1711/regulation/8) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-b40405b5d163bd1fb8c481b6f156fd13]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1711/regulation/9) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-b40405b5d163bd1fb8c481b6f156fd13]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1711/regulation/9) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-50d149387340f53c6db9b9be8d8b5569]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1711/regulation/10) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-50d149387340f53c6db9b9be8d8b5569]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1711/regulation/10) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-0ea35241c59a99df07ef70a5ffbe5374]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1711/regulation/11) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-0ea35241c59a99df07ef70a5ffbe5374]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1711/regulation/11) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-c06ea831477f77f7bef13b39ee188ff3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1711/regulation/12) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-c06ea831477f77f7bef13b39ee188ff3]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1711/regulation/12) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-93d6d439167e701d9cc2852177bb5721]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1711/regulation/13) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-93d6d439167e701d9cc2852177bb5721]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1711/regulation/13) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
-[^key-d1ba6e016c49a0f95ade20b99133c9d7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1711/regulation/14) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-d1ba6e016c49a0f95ade20b99133c9d7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1711/regulation/14) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
 [^f00007]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-4fb9a86a5ea316ae050200f4b87dbbd0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1711/regulation/15) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-4fb9a86a5ea316ae050200f4b87dbbd0]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1711/regulation/15) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2007/3284](https://www.legislation.gov.uk/uksi/2007/3284); amended by [S.I. 2009/1309](https://www.legislation.gov.uk/uksi/2009/1309).
 
-[^key-ea2c78e57a5c0ddd1d185fac8f7c5eba]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1711/regulation/16) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)
+[^c-ea2c78e57a5c0ddd1d185fac8f7c5eba]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1711/regulation/16) in force at 31.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1711/regulation/1/1)

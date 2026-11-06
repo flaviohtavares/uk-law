@@ -29,13 +29,13 @@ Regulation 102(3)
 - (a) the relevant provisions of Part 13 of these Regulations; and
 - (b) relevant provisions that are—
   - (i) included in regulations under section 225 of the 2007 Act [^c21647791] (duties of services-providers to allow entry by Local Healthwatch organisations or contractors), and
-  - (ii) made for the purpose of imposing on a services-provider (within the meaning of that section) a duty to allow authorised representatives (within the meaning of that section) to enter and view, and observe the carrying-on of activities at or from[^key-68bea71dffed9570e0b4393247beb48f], premises owned or controlled by the services-provider.
+  - (ii) made for the purpose of imposing on a services-provider (within the meaning of that section) a duty to allow authorised representatives (within the meaning of that section) to enter and view, and observe the carrying-on of activities at or from[^c-68bea71dffed9570e0b4393247beb48f], premises owned or controlled by the services-provider.
 
 (2) The LPS contractor must comply with the relevant provisions of the Drug Tariff.
 
 (3) The LPS contractor must have regard to all relevant guidance issued by—
 
-- (a) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5]; or
+- (a) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5]; or
 - (b) the Secretary of State.
 
 (4) To the extent that the provisions of the terms required by this Schedule impose a requirement on the LPS contractor (C) in respect of an activity which could only, or would normally, be undertaken by a natural person—
@@ -70,11 +70,11 @@ the LPS contractor must not provide local pharmaceutical services to persons oth
 - (a) any person presents to the LPS contractor (C) a non-electronic prescription form which contains—
   - (i) an order for a drug, not being a Scheduled drug, or for an appliance, not being a restricted availability appliance, signed by a prescriber,
   - (ii) an order for a drug specified in Schedule 2 to the Prescription of Drugs Regulations [^c21647801] (drugs, medicines and other substances that may be ordered only in certain circumstances), signed by a prescriber and including the reference “SLS”, or
-  - (iii) an order for a restricted availability appliance, signed by a prescriber and including the reference “SLS”; [^key-05f274ee80ba3e42249bf462f262bb5b]...
-- (b) C receives as a nominated dispensing contractor[^key-5aa7aa6c5428801344e74f3e45eb30af] from the Electronic Prescription Service an electronic prescription form which contains an order of a kind specified in paragraph (a)(i) to (iii), and—
-  - (i) any person requests the provision of a drug or appliance[^key-45ff9e3e66c24f65116d92215e1ce39e] in accordance with that prescription, or
-  - (ii) C has previously arranged with the patient that it will dispense that prescription on receipt; or[^key-8f68a712f3d240cebed71caeb78dd77c]
-- (c)[^key-4736afeddfec99d0834c54c7fee3e12a] any person—
+  - (iii) an order for a restricted availability appliance, signed by a prescriber and including the reference “SLS”; [^c-05f274ee80ba3e42249bf462f262bb5b]...
+- (b) C receives as a nominated dispensing contractor[^c-5aa7aa6c5428801344e74f3e45eb30af] from the Electronic Prescription Service an electronic prescription form which contains an order of a kind specified in paragraph (a)(i) to (iii), and—
+  - (i) any person requests the provision of a drug or appliance[^c-45ff9e3e66c24f65116d92215e1ce39e] in accordance with that prescription, or
+  - (ii) C has previously arranged with the patient that it will dispense that prescription on receipt; or[^c-8f68a712f3d240cebed71caeb78dd77c]
+- (c)[^c-4736afeddfec99d0834c54c7fee3e12a] any person—
   - (i) presents C with an EPS token that relates to an order of a kind specified in paragraph (a)(i) to (iii), and
   - (ii) requests the provision of a drug or appliance in accordance with the related electronic prescription form,
 
@@ -88,24 +88,24 @@ C must, with reasonable promptness, provide the drugs so ordered, and such of th
   - (iii) an order for an appliance, not being a restricted availability appliance, signed by a prescriber, or
   - (iv) an order for a restricted availability appliance, signed by a prescriber, and including the reference “SLS”,
 
-  and also presents an associated batch issue; [^key-e10cb1cb7c166d89303dd8bbb92ac7ab]...
-- (b) C receives as a nominated dispensing contractor[^key-bafcbaf88e8347e2409f1fae9bd83045] from the Electronic Prescription Service an electronic repeatable prescription which contains an order of a kind specified in sub-paragraph (a)(i) to (iv) and—
+  and also presents an associated batch issue; [^c-e10cb1cb7c166d89303dd8bbb92ac7ab]...
+- (b) C receives as a nominated dispensing contractor[^c-bafcbaf88e8347e2409f1fae9bd83045] from the Electronic Prescription Service an electronic repeatable prescription which contains an order of a kind specified in sub-paragraph (a)(i) to (iv) and—
   - (i) any person requests the provision of a drug or an appliance in accordance with that repeatable prescription, or
-  - (ii) C has previously arranged with the patient that it will dispense that repeatable prescription on receipt; or[^key-7735615b0517d7f5456617537e68782c]
-- (c)[^key-712c5b64500bfb7b3f934171f80f8b12] any person—
+  - (ii) C has previously arranged with the patient that it will dispense that repeatable prescription on receipt; or[^c-7735615b0517d7f5456617537e68782c]
+- (c)[^c-712c5b64500bfb7b3f934171f80f8b12] any person—
   - (i) presents C with an EPS token that relates to an order of a kind specified in paragraph (a)(i) to (iv), and
   - (ii) requests the provision of a drug or appliance in accordance with the related electronic repeatable prescription,
 
 C must, with reasonable promptness, provide the drugs so ordered, and such of the appliances so ordered as C supplies in the normal course of business.
 
-(3) C must not provide under an electronic prescription form a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in Schedules 2 to 5[^key-5c34036658ae48968df842c28c070076] to the Misuse of Drugs Regulations 2001.
+(3) C must not provide under an electronic prescription form a controlled drug within the meaning of the Misuse of Drugs Act 1971, other than a drug which is for the time being specified in Schedules 2 to 5[^c-5c34036658ae48968df842c28c070076] to the Misuse of Drugs Regulations 2001.
 
 (4) For the purposes of this paragraph, a non-electronic repeatable prescription for drugs or appliances must be taken to be presented even if the person who wishes to obtain the drug or appliance does not present that prescription, where—
 
 - (a) C has that prescription in C's possession; and
 - (b) that person presents, or C has in C's possession, an associated batch issue.
 
-### 3A. Supply in accordance with a SSP[^key-4c4ca36127b997346f43a205fe0918e0]
+### 3A. Supply in accordance with a SSP[^c-4c4ca36127b997346f43a205fe0918e0]
 
 (1) This sub-paragraph applies where—
 
@@ -139,7 +139,7 @@ C must, with reasonable promptness, provide the drugs so ordered, and such of th
 
 the requirements to act with reasonable promptness in paragraph 3(1) and (2) are to be read as requirements to act within a reasonable timescale.
 
-### 3B. Supply in accordance with a LPIV[^key-c1ad99954ef803e78e21d212b2e35aa4]
+### 3B. Supply in accordance with a LPIV[^c-c1ad99954ef803e78e21d212b2e35aa4]
 
 (1) Subject to the following provisions of this Schedule, where—
 
@@ -177,16 +177,16 @@ Where, in case of urgency, a prescriber personally known to the LPS contractor (
 - (a) presenting a non-electronic prescription form or non-electronic repeatable prescription; or
 - (b) requesting the provision of drugs or appliances in accordance with an electronic prescription form or a repeatable prescription.
 
-(3) Before providing any drugs or appliances in accordance with a prescription form or a repeatable prescription, C must ask any person who makes or duly completes a declaration as or on behalf of the person named on the prescription form or repeatable prescription[^key-d90186d76b358a585f6334290d2da8a7] that the person named on the prescription form or the repeatable prescription does not have to pay the charges specified in regulation 3(1) or (2)[^key-895f6bd888f45aa1a7de01109a5e20a0] of the Charges Regulations [^c21647831] (supply of drugs and appliances by chemists) by virtue of either—
+(3) Before providing any drugs or appliances in accordance with a prescription form or a repeatable prescription, C must ask any person who makes or duly completes a declaration as or on behalf of the person named on the prescription form or repeatable prescription[^c-d90186d76b358a585f6334290d2da8a7] that the person named on the prescription form or the repeatable prescription does not have to pay the charges specified in regulation 3(1) or (2)[^c-895f6bd888f45aa1a7de01109a5e20a0] of the Charges Regulations [^c21647831] (supply of drugs and appliances by chemists) by virtue of either—
 
-- (a) entitlement to exemption under regulation 10(1)[^key-3dbfa372ae3b4494c4f9172372e99011] of the Charges Regulations [^c21647841] (exemptions); or
+- (a) entitlement to exemption under regulation 10(1)[^c-3dbfa372ae3b4494c4f9172372e99011] of the Charges Regulations [^c21647841] (exemptions); or
 - (b) entitlement to remission of charges under regulation 5 of the Remission of Charges Regulations [^c21647851] (entitlement to full remission and payment),
 
 to produce satisfactory evidence of such entitlement, unless the declaration is in respect of entitlement to exemption by virtue of sub-paragraph (a), (c), (d), (e), (f) or (g) of regulation 10(1) of the Charges Regulations or in respect of entitlement to remission by virtue of regulation (5)(1)(e) or (2) of the Remission of Charges Regulations, and at the time of the declaration C already has such evidence available to C.
 
-(3ZA)[^key-2a3c7959efc2d8c285e832449abdb17a] For the purposes of sub-paragraph (3), satisfactory evidence includes evidence derived from a check, known as a real time exemption check, of electronic records that are managed by the NHS BSA for the purposes (amongst other purposes) of providing advice, assistance and support to patients or their representatives in respect of whether a charge is payable under the Charges Regulations.
+(3ZA)[^c-2a3c7959efc2d8c285e832449abdb17a] For the purposes of sub-paragraph (3), satisfactory evidence includes evidence derived from a check, known as a real time exemption check, of electronic records that are managed by the NHS BSA for the purposes (amongst other purposes) of providing advice, assistance and support to patients or their representatives in respect of whether a charge is payable under the Charges Regulations.
 
-(3A)[^key-fd3feafdd91b679b40ebadd710fe5308] In any case where no satisfactory evidence, as required by sub-paragraph (3), is produced to C, C must ensure before the drugs or appliances are provided that the person who was asked to produce that evidence is advised, in appropriate terms, that checks are routinely undertaken to ascertain entitlement to—
+(3A)[^c-fd3feafdd91b679b40ebadd710fe5308] In any case where no satisfactory evidence, as required by sub-paragraph (3), is produced to C, C must ensure before the drugs or appliances are provided that the person who was asked to produce that evidence is advised, in appropriate terms, that checks are routinely undertaken to ascertain entitlement to—
 
 - (a) exemption under the Charges Regulations; or
 - (b) remission of charges under the Remission of Charges Regulations,
@@ -195,7 +195,7 @@ where such entitlement has been claimed, as part of the arrangements for prevent
 
 (4) If, in the case of a non-electronic prescription form or non-electronic repeatable prescription, no satisfactory evidence, as required by sub-paragraph (3), is produced, C must endorse the form on which the declaration is made to that effect.
 
-(5) In the case of an electronic prescription, C must ensure that the following information is duly entered into the records managed by[^key-6c4a81446608da8ee0a44b8a39b33aec] NHS England[^M_F_e1e22a9d-2cd4-4452-a7ea-75e8c30ee65a] that are accessible as part of the Electronic Prescription Service (if either it is not already recorded in those records or a check, known as a real time exemption check, has not produced satisfactory evidence as mentioned in sub-paragraph (3))—
+(5) In the case of an electronic prescription, C must ensure that the following information is duly entered into the records managed by[^c-6c4a81446608da8ee0a44b8a39b33aec] NHS England[^M_F_e1e22a9d-2cd4-4452-a7ea-75e8c30ee65a] that are accessible as part of the Electronic Prescription Service (if either it is not already recorded in those records or a check, known as a real time exemption check, has not produced satisfactory evidence as mentioned in sub-paragraph (3))—
 
 - (a) in a case where exemption from or remission of charges is claimed for all or some of the items included in the prescription, a record of—
   - (i) the exemption category specified in regulation 10(1) of the Charges Regulations or the ground for remission under regulation 5 of the Remission of Charges Regulations which is claimed applies to the case, and
@@ -203,9 +203,9 @@ where such entitlement has been claimed, as part of the arrangements for prevent
 - (b) in any case where a charge is due, confirmation that the relevant charge was paid; and
 - (c) in a case of a prescription for or including contraceptive substances, confirmation that no charge was payable in respect of those substances.
 
-(6)[^key-93c2ae68603f52b9696152b6ae45e625] Sub-paragraphs (3) to (5) apply to the provision of a drug or appliance in accordance with a SSP as they apply to the provision of a drug or appliance in accordance with a prescription form or a repeatable prescription (or an associated batch issue), and for these purposes the prescription for product reimbursement purposes, as mentioned in paragraph 3A(4)(a), is treated as being the prescription in accordance with which the drug or appliance is provided (even though the supply is not in pursuance of that prescription).
+(6)[^c-93c2ae68603f52b9696152b6ae45e625] Sub-paragraphs (3) to (5) apply to the provision of a drug or appliance in accordance with a SSP as they apply to the provision of a drug or appliance in accordance with a prescription form or a repeatable prescription (or an associated batch issue), and for these purposes the prescription for product reimbursement purposes, as mentioned in paragraph 3A(4)(a), is treated as being the prescription in accordance with which the drug or appliance is provided (even though the supply is not in pursuance of that prescription).
 
-### 5A. Sub-contracting aspects of dispensing under “hub and spoke” arrangements[^key-a2fb59c78708e0977ac0e915e9e21662]
+### 5A. Sub-contracting aspects of dispensing under “hub and spoke” arrangements[^c-a2fb59c78708e0977ac0e915e9e21662]
 
 (1) Subject to sub-paragraph (3), an LPS contractor (C) must not sub-contract the performance of any of its core dispensing functions.
 
@@ -358,7 +358,7 @@ bear the meanings they bear in those provisions of the Data Protection Act 2018.
 
 subject to any regulations in force under the Weights and Measures Act 1985 [^c21647861] and the following provisions of this Schedule.
 
-(1A)[^key-5f11def3f48083677f8816a76ba05579] Subject to sub-paragraphs (1B) to (1E) and without prejudice to sub-paragraphs (8) and (9), for the purposes of sub-paragraph (1)(b), a drug is provided in accordance with the order on a prescription form or repeatable prescription if (in addition to where the provision is exactly in accordance with the order)—
+(1A)[^c-5f11def3f48083677f8816a76ba05579] Subject to sub-paragraphs (1B) to (1E) and without prejudice to sub-paragraphs (8) and (9), for the purposes of sub-paragraph (1)(b), a drug is provided in accordance with the order on a prescription form or repeatable prescription if (in addition to where the provision is exactly in accordance with the order)—
 
 - (a) a different quantity is provided to that ordered on the prescription form or repeatable prescription in order to allow for the provision of the drug in its manufacturer’s original outer packaging; and
 - (b) the provision is otherwise in accordance with the order.
@@ -380,12 +380,12 @@ subject to any regulations in force under the Weights and Measures Act 1985 [^c2
 - (a) for the time being specified in Schedules 2 to 4 of the Misuse of Drugs Regulations 2001 (which relate to controlled drugs excepted from certain provisions under the Regulations); or
 - (b) a special medicinal product for the purposes of regulation 167 of the Human Medicines Regulations 2012 (supply to fulfil special patient needs).
 
-(2) If the order is for , or a product to be provided in accordance with a SSP is,[^key-5b8ab56d1948dfd5ff850ea0869b0920] an appliance of a type requiring measuring and fitting by C (for example a truss), C shall make all necessary arrangements for—
+(2) If the order is for , or a product to be provided in accordance with a SSP is,[^c-5b8ab56d1948dfd5ff850ea0869b0920] an appliance of a type requiring measuring and fitting by C (for example a truss), C shall make all necessary arrangements for—
 
 - (a) measuring the person named on the prescription form or repeatable prescription for the appliance; and
 - (b) fitting the appliance.
 
-(3) If the order is for , or a product to be provided in accordance with a SSP is,[^key-fb72ac72c8cf36cb468b1bfd89ffb718] a drug or appliance included in the Drug Tariff, the British National Formulary (including any Appendix published as part of that Formulary), the Dental Practitioner's Formulary, the European Pharmacopoeia or the British Pharmaceutical Codex, the drug or appliance provided must comply with the relevant standard or formula specified therein.
+(3) If the order is for , or a product to be provided in accordance with a SSP is,[^c-fb72ac72c8cf36cb468b1bfd89ffb718] a drug or appliance included in the Drug Tariff, the British National Formulary (including any Appendix published as part of that Formulary), the Dental Practitioner's Formulary, the European Pharmacopoeia or the British Pharmaceutical Codex, the drug or appliance provided must comply with the relevant standard or formula specified therein.
 
 (4) If the order—
 
@@ -415,7 +415,7 @@ C must provide the drug in the pack whose quantity is nearest to the quantity wh
 
 (7) In this paragraph, “**special container**” means any container with an integral means of application or from which it is not practicable to dispense an exact quantity.
 
-(8) Subject to sub-paragraph (9), where a drug is ordered by a prescriber on a prescription form or repeatable prescription , or is to be provided in accordance with a SSP,[^key-c1fb26088889313ed70f02d1d6728587] in a quantity that is, or is a multiple of a quantity that is, readily available in a pack size manufactured for a holder of a UK[^key-30cc3507a34f755a48e2a1ca4efe8f3b] marketing authorisation for the drug, C must provide the drug in an original pack (or in original packs) of that size which has been assembled by a manufacturer of the drug for such a holder of a UK marketing authorisation, unless—
+(8) Subject to sub-paragraph (9), where a drug is ordered by a prescriber on a prescription form or repeatable prescription , or is to be provided in accordance with a SSP,[^c-c1fb26088889313ed70f02d1d6728587] in a quantity that is, or is a multiple of a quantity that is, readily available in a pack size manufactured for a holder of a UK[^c-30cc3507a34f755a48e2a1ca4efe8f3b] marketing authorisation for the drug, C must provide the drug in an original pack (or in original packs) of that size which has been assembled by a manufacturer of the drug for such a holder of a UK marketing authorisation, unless—
 
 - (a) it is not possible for C to obtain such a pack (or packs) with reasonable promptness in the normal course of business; or
 - (b) it is not practicable for C to provide such a pack (or packs) in response to the order (for example, because of patient needs or the method of administration of the drug).
@@ -441,11 +441,11 @@ and C must then provide it in packaging that accords with that decision.
 
 (12) If a Scheduled drug is a combination of more than one drug, it can only be ordered as specified in sub-paragraph (11) if the combination has an appropriate non-proprietary name, whether or not the drugs in the combination each have such names.
 
-(13) C must provide any drug which it is required to provide under paragraph 3 or 3B[^key-41656aca2339c7b14183ec59645847ce] , or provides under paragraph 3A,[^key-dcadc34a62cdeb778f2b50d4a6dcafd9] in a suitable container.
+(13) C must provide any drug which it is required to provide under paragraph 3 or 3B[^c-41656aca2339c7b14183ec59645847ce] , or provides under paragraph 3A,[^c-dcadc34a62cdeb778f2b50d4a6dcafd9] in a suitable container.
 
-(14)[^key-2a805e85f91d2078634180df27a2d9b7] Where C provides a drug or appliance under paragraph 3A, C must include in the dispensing label on the packaging of the product, for the patient’s benefit, information to the effect that the product is being supplied in accordance with a SSP, identifying the particular SSP.
+(14)[^c-2a805e85f91d2078634180df27a2d9b7] Where C provides a drug or appliance under paragraph 3A, C must include in the dispensing label on the packaging of the product, for the patient’s benefit, information to the effect that the product is being supplied in accordance with a SSP, identifying the particular SSP.
 
-(15)[^key-e8da4e8ab2207f03eb542b171d36934f] Sub-paragraphs (3) to (8) apply to the provision of a drug in accordance with a LPIV as they apply to the provision of a drug in accordance with a prescription form or a repeatable prescription (or an associated batch issue).
+(15)[^c-e8da4e8ab2207f03eb542b171d36934f] Sub-paragraphs (3) to (8) apply to the provision of a drug in accordance with a LPIV as they apply to the provision of a drug in accordance with a prescription form or a repeatable prescription (or an associated batch issue).
 
 ### 7. Refusal to provide drugs or appliances ordered
 
@@ -465,13 +465,13 @@ and C must then provide it in packaging that accords with that decision.
 
 (2) C must refuse to provide a drug ordered on a prescription form or repeatable prescription where the order is for a prescription only medicine which the prescriber was not entitled to prescribe.
 
-(2A)[^key-1d9f946eac2d99585e0ade5f438da0ed] C may refuse to provide a drug or appliance ordered on an electronic prescription if the access that C has to the Electronic Prescription Service is not such as to enable C to dispense that prescription promptly (or at all) , but where C does so, C must take all reasonable steps to ensure that the product ordered by the prescriber is supplied within a reasonable timescale, which may include (depending on what steps or combination of steps the circumstances require)—[^key-48c4784751d1507ca008aa008a64b481]
+(2A)[^c-1d9f946eac2d99585e0ade5f438da0ed] C may refuse to provide a drug or appliance ordered on an electronic prescription if the access that C has to the Electronic Prescription Service is not such as to enable C to dispense that prescription promptly (or at all) , but where C does so, C must take all reasonable steps to ensure that the product ordered by the prescriber is supplied within a reasonable timescale, which may include (depending on what steps or combination of steps the circumstances require)—[^c-48c4784751d1507ca008aa008a64b481]
 
 - (a) providing details of other LPS chemists or NHS pharmacists whose premises are situated in the same area and who may be able to provide the product ordered by the prescriber;
 - (b) urgent supply without a prescription in accordance with paragraph 4;
 - (c) arranging for the urgent provision of a non-electronic prescription form by the prescriber.
 
-(2B)[^key-25cbcaaf433320ac21dfc7c4582fc9a1] C must refuse to provide a drug or appliance ordered on a prescription form or a repeatable prescription where—
+(2B)[^c-25cbcaaf433320ac21dfc7c4582fc9a1] C must refuse to provide a drug or appliance ordered on a prescription form or a repeatable prescription where—
 
 - (a) a SSP has effect in respect of—
   - (i) the requested drug or appliance, or
@@ -507,7 +507,7 @@ but if C does refuse to do so, C must provide the patient or the person requesti
 - (b) that the medication regimen of the patient to whom the prescription relates has not altered in a way which indicates the need or desirability of reviewing the patient's treatment; and
 - (c) that there have been no changes to the health of the patient to whom the prescription relates which indicate the need or desirability of reviewing the patient's treatment.
 
-(5)[^key-b59c2e9164310d70ad064c485c422060] C may refuse to provide a prescription item that is or is purportedly ordered on a LPIV where—
+(5)[^c-b59c2e9164310d70ad064c485c422060] C may refuse to provide a prescription item that is or is purportedly ordered on a LPIV where—
 
 - (a) C reasonably believes it is not a genuine order for the person who requests, or on whose behalf is requested, the provision of the prescription item;
 - (b) providing it would be contrary to C’s clinical judgement;
@@ -516,7 +516,7 @@ but if C does refuse to do so, C must provide the patient or the person requesti
 
 (6) C must refuse to provide a prescription item that is or is purportedly ordered on a LPIV where C is satisfied that C is not entitled to provide it or the prescriber was not entitled to prescribe it.
 
-(7)[^key-24daa6bf5a0abf7244a4a72c755b3e20] C may refuse to provide a prescription item ordered on a prescription form or repeatable prescription where—
+(7)[^c-24daa6bf5a0abf7244a4a72c755b3e20] C may refuse to provide a prescription item ordered on a prescription form or repeatable prescription where—
 
 - (a) more than one prescription item has been ordered on the prescription form or repeatable prescription;
 - (b) at least one of those prescription items is a listed HRT prescription item and at least one of those prescription items is not; and
@@ -532,7 +532,7 @@ In connection with the services provided under paragraphs 3 to 7, the LPS contra
 - (b) provide appropriate advice to patients to whom they provide drugs or appliances on—
   - (i) the safe keeping of the drugs or appliances, and
   - (ii) returning unwanted drugs or appliances to the scheme premises for safe destruction;
-- (c) provide a patient with a written note (which may be in an electronic form)[^key-5d96a642ac65a289b4751f2a8f35f0ef] of any drug or appliance which is owed, and inform the patient when it is expected that the drug or appliance will become available;
+- (c) provide a patient with a written note (which may be in an electronic form)[^c-5d96a642ac65a289b4751f2a8f35f0ef] of any drug or appliance which is owed, and inform the patient when it is expected that the drug or appliance will become available;
 - (d) keep and maintain records—
   - (i) of drugs and appliances provided, in order to facilitate the continued care of the patient,
   - (ii) in appropriate cases, of advice given and any interventions or referrals made (including clinically significant interventions in cases involving repeatable prescriptions), and
@@ -544,12 +544,12 @@ In connection with the services provided under paragraphs 3 to 7, the LPS contra
 
 (1) The LPS contractor (C) must, if requested to do so by any person—
 
-- (a)[^key-1d38da5ba37bb5a17cd85e93ecf7b465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) where the Electronic Prescription Service is temporarily unavailable[^key-00f6198a6e16fe9626cc023a43404b5f] through C's scheme premises, provide that person with contact details of at least two pharmacies in the area through which the service is available, if these details are known to C.
+- (a)[^c-1d38da5ba37bb5a17cd85e93ecf7b465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) where the Electronic Prescription Service is temporarily unavailable[^c-00f6198a6e16fe9626cc023a43404b5f] through C's scheme premises, provide that person with contact details of at least two pharmacies in the area through which the service is available, if these details are known to C.
 
-(2) [^key-e25b69c253dd4bfb44ce88f94255bd2e]... C must, if requested to do so by any person, enter in that person's PDS patient details—
+(2) [^c-e25b69c253dd4bfb44ce88f94255bd2e]... C must, if requested to do so by any person, enter in that person's PDS patient details—
 
-- (a) where the person does not have a nominated dispensing contractor, a nominated dispensing contractor[^key-7dd834d897cdcb2ffccef7fdaea2ee1b]; or
+- (a) where the person does not have a nominated dispensing contractor, a nominated dispensing contractor[^c-7dd834d897cdcb2ffccef7fdaea2ee1b]; or
 - (b) where the person does have a nominated dispensing contractor—
   - (i) a replacement dispensing contractor, or
   - (ii) a further dispensing contractor,
@@ -563,9 +563,9 @@ In connection with the services provided under paragraphs 3 to 7, the LPS contra
 - (a) explain to X that the ownership of the scheme premises has changed; and
 - (b) ask X whether X wishes to maintain the nomination in respect of those scheme premises.
 
-(5)[^key-06445507460b8828c0bc83b227efe9d9] If C dispenses an electronic prescription or makes an urgent supply without a prescription, C must send the form duly completed by or on behalf of the patient, if one is required under regulation 3(3)(b) or (c), (5C) or (5E) of the Charges Regulations in respect of that prescription (which may be the associated EPS token), to the NHS BSA.
+(5)[^c-06445507460b8828c0bc83b227efe9d9] If C dispenses an electronic prescription or makes an urgent supply without a prescription, C must send the form duly completed by or on behalf of the patient, if one is required under regulation 3(3)(b) or (c), (5C) or (5E) of the Charges Regulations in respect of that prescription (which may be the associated EPS token), to the NHS BSA.
 
-(6)[^key-a68e82474b459d1e2390af198a1f3367] C must not enter a dispensing contractor into, or change a dispensing contractor in, a person’s PDS patient details without that person’s, or a duly authorised person representing that person’s, explicit consent.
+(6)[^c-a68e82474b459d1e2390af198a1f3367] C must not enter a dispensing contractor into, or change a dispensing contractor in, a person’s PDS patient details without that person’s, or a duly authorised person representing that person’s, explicit consent.
 
 ### 10. Further activities in connection with repeat dispensing
 
@@ -581,7 +581,7 @@ In connection with the services provided under paragraphs 3 to 7, the LPS contra
 - (f) where a patient is provided with drugs or appliances under a repeatable prescription, notify the prescriber of any clinically significant issues arising in connection with the prescription and keep a record of that notification; and
 - (g) notify the prescriber of any refusal to provide drugs or appliances pursuant to paragraph 7(4).
 
-### 10A. Home delivery service while a disease is or in anticipation of a disease being imminently pandemic etc.[^key-c10545eab4f2035d820055c69ff9d57a]
+### 10A. Home delivery service while a disease is or in anticipation of a disease being imminently pandemic etc.[^c-c10545eab4f2035d820055c69ff9d57a]
 
 (1) Before dispensing any item on a prescription form or supplying it in accordance with a serious shortage protocol, an LPS contractor (C) must provide a home delivery option to eligible patients in respect of the item where, as a consequence of a disease being or in anticipation of a disease being imminently—
 
@@ -605,11 +605,11 @@ whether or not the item could be supplied by a duly authorised person, and if it
 - (b) C arranging for an item dispensed by C to be delivered by another LPS contractor or by an NHS pharmacist to the eligible patient’s home or to an alternative address agreed with the patient or a duly authorised person; or
 - (c) if C is unable to deliver the item or arrange for its delivery by another LPS contractor or by an NHS pharmacist, C arranging for the dispensing or supply of the item by another LPS contractor or by an NHS pharmacist who would be able to deliver the dispensed item to the eligible patient’s home or to an alternative address agreed with the patient or a duly authorised person.
 
-(4) Paragraph (1) does not apply where the eligible patient or a duly authorised person is already at C’s chemist[^key-67eb59228f5d7aab36a0f1b16be97295] premises for the purposes of receiving dispensing services.
+(4) Paragraph (1) does not apply where the eligible patient or a duly authorised person is already at C’s chemist[^c-67eb59228f5d7aab36a0f1b16be97295] premises for the purposes of receiving dispensing services.
 
 (5) Notwithstanding the foregoing provisions of this Schedule, in any case of a supply in accordance with a home delivery option, if but for this sub-paragraph that supply would need to be made with reasonable promptness, C may instead, in the exercise of professional skill and judgment, make the supply within a reasonable timescale.
 
-### 10AA. Home delivery of notified items while a disease is or in anticipation of a disease being imminently pandemic etc.[^key-4d67e772495131fd1c414d726801b8e0]
+### 10AA. Home delivery of notified items while a disease is or in anticipation of a disease being imminently pandemic etc.[^c-4d67e772495131fd1c414d726801b8e0]
 
 (1) Before dispensing a notified item on a prescription form or supplying it in accordance with a serious shortage protocol, an LPS contractor (C) must provide a home delivery option to eligible patients in respect of that item.
 
@@ -661,9 +661,9 @@ whether or not the item could be supplied via a duly authorised person, and if i
 
 The LPS contractor must provide local pharmaceutical services and exercise any professional judgement in connection with the provision of such services in conformity with the standards generally accepted in the pharmaceutical profession.
 
-### 13A. Accessing summary care records[^key-c33fb2d203f2d43049f412430d8dd57a]
+### 13A. Accessing summary care records[^c-c33fb2d203f2d43049f412430d8dd57a]
 
-(1)[^key-25b93577145861dabb22bf58edb311e0] An LPS chemist (C) must have access to summary care records at C’s scheme premises, and must ensure that the access that C has to summary care records at those premises is constant and reliable during the hours when the scheme premises are open to the public, in so far as that is within the control of C.
+(1)[^c-25b93577145861dabb22bf58edb311e0] An LPS chemist (C) must have access to summary care records at C’s scheme premises, and must ensure that the access that C has to summary care records at those premises is constant and reliable during the hours when the scheme premises are open to the public, in so far as that is within the control of C.
 
 (2) C must access the summary information in a patient’s summary care record whenever C is providing local pharmaceutical services to the patient, to the extent that C, in the exercise of C’s clinical judgement, considers it appropriate to do so.
 
@@ -672,21 +672,21 @@ The LPS contractor must provide local pharmaceutical services and exercise any p
 - (a) regulation 68 of the GMS Regulations (summary care records); and
 - (b) regulation 61 of the PMS Regulations (summary care records).
 
-### 13B. Electronic Prescription Service access[^key-fe401e458631a947b1bf6d8b2bb6685f]
+### 13B. Electronic Prescription Service access[^c-fe401e458631a947b1bf6d8b2bb6685f]
 
 An LPS chemist (C) must have access to the EPS at C’s scheme premises, and must ensure that the access that C has to the EPS at those premises is constant and reliable during the hours when the scheme premises are open to the public, in so far as that is within the control of C.
 
-### 13C. Contact via NHS.net Connect and the Central Alerting System[^key-6076c4b4414a4c41f0223a4fbf4500f6]
+### 13C. Contact via NHS.net Connect and the Central Alerting System[^c-6076c4b4414a4c41f0223a4fbf4500f6]
 
-(1) An LPS chemist (C) must ensure that pharmacy staff at listed premises (including locums) have access to, and are able to send and receive messages via NHS.net Connect[^key-7610725ebb6d46a15e2b0ff2b5c3e704] from, a premises specific NHS.net Connect[^key-43fbd2264cfd87a18c58350165926d87] account.
+(1) An LPS chemist (C) must ensure that pharmacy staff at listed premises (including locums) have access to, and are able to send and receive messages via NHS.net Connect[^c-7610725ebb6d46a15e2b0ff2b5c3e704] from, a premises specific NHS.net Connect[^c-43fbd2264cfd87a18c58350165926d87] account.
 
-(2) C must ensure that at least two members of the pharmacy staff have live, linked NHS.net Connect[^key-e07059f8ac7687e1d923a1ec9dfb7eb0] accounts to the premises specific NHS.net Connect account (unless fewer than two members of the pharmacy staff are engaged in the provision of NHS services).
+(2) C must ensure that at least two members of the pharmacy staff have live, linked NHS.net Connect[^c-e07059f8ac7687e1d923a1ec9dfb7eb0] accounts to the premises specific NHS.net Connect account (unless fewer than two members of the pharmacy staff are engaged in the provision of NHS services).
 
 (3) As regards the Central Alerting System (CAS) operated by the Medicines and Healthcare products Regulatory Agency (MHRA)—
 
-- (a) C must register C’s premises specific NHS.net Connect[^key-2c18d9996d9e4dcb0ad383c7e8e69de0] address with MHRA as an address at which C is content to accept notifications as part of the CAS (unless they are content with the address already in the system);
-- (b) if C changes C’s premises specific NHS.net Connect[^key-ee47124cbd473d8220abb534f38806c5] address, P must immediately notify MHRA of C’s new premises specific NHS.net Connect address, in accordance with paragraph (a); and
-- (c) C must monitor C’s premises specific NHS.net Connect[^key-eb57fbc71316fdfca0b7bc8e5d204dfb] account with sufficient frequency to ensure the safe and effective supply of medicinal products at or from C’s pharmacy premises, and must act on the alerts C receives as part of the CAS, as appropriate.
+- (a) C must register C’s premises specific NHS.net Connect[^c-2c18d9996d9e4dcb0ad383c7e8e69de0] address with MHRA as an address at which C is content to accept notifications as part of the CAS (unless they are content with the address already in the system);
+- (b) if C changes C’s premises specific NHS.net Connect[^c-ee47124cbd473d8220abb534f38806c5] address, P must immediately notify MHRA of C’s new premises specific NHS.net Connect address, in accordance with paragraph (a); and
+- (c) C must monitor C’s premises specific NHS.net Connect[^c-eb57fbc71316fdfca0b7bc8e5d204dfb] account with sufficient frequency to ensure the safe and effective supply of medicinal products at or from C’s pharmacy premises, and must act on the alerts C receives as part of the CAS, as appropriate.
 
 ### 14. Inducements etc
 
@@ -722,7 +722,7 @@ An LPS chemist (C) must have access to the EPS at C’s scheme premises, and mus
 - (g) has agreed to pay a penalty under section 115A of the Social Security Administration Act 1992 [^c21647921] (penalty as alternative to prosecution);
 - (h) has, to P's knowledge, become subject to any investigation into P's professional conduct by any licensing body or is notified of the outcome of such an investigation where it is adverse;
 - (i) has, to P's knowledge, become subject to an investigation into P's professional conduct in respect of any current or previous employment or is notified of the outcome of such an investigation where it is adverse;
-- (j) has, to P's knowledge, become subject to any investigation by the NHS CFA[^key-a96af45b7be8afd4f2fd489fb6095c0c] in relation to fraud or is notified of the outcome of such an investigation where it is adverse;
+- (j) has, to P's knowledge, become subject to any investigation by the NHS CFA[^c-a96af45b7be8afd4f2fd489fb6095c0c] in relation to fraud or is notified of the outcome of such an investigation where it is adverse;
 - (k) has, to P's knowledge, become the subject of any investigation by another primary care organisation, which might lead to P's removal from any relevant list; or
 - (l) either—
   - (i) has been removed or contingently removed from, refused admission to, or conditionally included in, any relevant list of another primary care organisation,
@@ -739,7 +739,7 @@ and if so, C must give details of any investigation or proceedings which are bei
 
 (3) C or any relevant person must consent to a request being made by NHS England to any employer or former employer or licensing body in the United Kingdom or elsewhere, for information relating to a current investigation, or an investigation where the outcome was adverse.
 
-### 16. Co-operation with NHS England[^key-c555a5c679f7d6fbda627c3830e9513d]
+### 16. Co-operation with NHS England[^c-c555a5c679f7d6fbda627c3830e9513d]
 
 The LPS contractor must co-operate with NHS England in the discharge by NHS England of the duty under section 1F(1) of the 2006 Act [^c21647931] (duty as to education and training).
 
@@ -755,7 +755,7 @@ The LPS contractor must co-operate with NHS England in the discharge by NHS Engl
 
 (2) For the purposes of sub-paragraph (1), a claim for repayment is only valid if duly made—
 
-- (a) in such form and manner as the Secretary of State has determined for an application for such a repayment under regulation 18(2)(b)[^key-1569573a413797aa44141fb103af99da] of the Charges Regulations [^c21647941] (repayment of charges); or
+- (a) in such form and manner as the Secretary of State has determined for an application for such a repayment under regulation 18(2)(b)[^c-1569573a413797aa44141fb103af99da] of the Charges Regulations [^c21647941] (repayment of charges); or
 - (b) on the equivalent form issued in Scotland, Wales or Northern Ireland.
 
 ### 19. Remuneration, overpayments etc
@@ -782,7 +782,7 @@ In the case of any dispute arising out of, or in connection with, the LPS scheme
 
 ### 21. Dispute resolution: non-NHS contracts
 
-(1)[^key-782d097fd20f61a60d6210095a860dfc] In the case of an LPS scheme that is not an NHS contract, any dispute arising out of or in connection with the scheme, except matters dealt with under the complaints procedure pursuant to paragraph 25, may be referred for consideration and determination to the Secretary of State—
+(1)[^c-782d097fd20f61a60d6210095a860dfc] In the case of an LPS scheme that is not an NHS contract, any dispute arising out of or in connection with the scheme, except matters dealt with under the complaints procedure pursuant to paragraph 25, may be referred for consideration and determination to the Secretary of State—
 
 - (a) if it relates to a period when the contractor was treated as a health service body, by the contractor or by NHS England; or
 - (b) in any other case, by the contractor or, if the contractor agrees in writing, by NHS England.
@@ -870,12 +870,12 @@ and, where it is reasonably practicable to do so, the date that the proposed var
 
 (3) During an emergency requiring the flexible provision of pharmaceutical services, NHS England may, on application from C—
 
-- (a) permit C a temporary change to the days on which or times at which C is obliged to provide local pharmaceutical services at or from[^key-8ce375276f35d4eec5367373e58fa4a4] the scheme premises, or permit temporary closure of those premises, if—
+- (a) permit C a temporary change to the days on which or times at which C is obliged to provide local pharmaceutical services at or from[^c-8ce375276f35d4eec5367373e58fa4a4] the scheme premises, or permit temporary closure of those premises, if—
   - (i) C gives at least 24 hours notice of the change or closure, and
   - (ii) the reasons given by C for the request are, in the opinion of NHS England adequate reasons; or
 - (b) permit C any other temporary variation to C's LPS scheme that, in the opinion of NHS England, will facilitate continuity of the provision of services of a kind that may be provided under section 126, or by virtue of section 127, of the 2006 Act [^c21647971] (arrangements for pharmaceutical services and additional pharmaceutical services) during the emergency.
 
-(4) NHS England need not approve the request referred to in sub-paragraph (3)(a)(ii) in advance of the change or closure, but if it does not do so and decides subsequently that C's reasons are not, in its opinion, adequate reasons, then the days on which or times at which C is obliged to provide local pharmaceutical services at or from[^key-353b7fa24a56d792a20929c7f40f187f] the scheme premises are to revert to the overridden days and times, from the day after the date on which that decision is given to C.
+(4) NHS England need not approve the request referred to in sub-paragraph (3)(a)(ii) in advance of the change or closure, but if it does not do so and decides subsequently that C's reasons are not, in its opinion, adequate reasons, then the days on which or times at which C is obliged to provide local pharmaceutical services at or from[^c-353b7fa24a56d792a20929c7f40f187f] the scheme premises are to revert to the overridden days and times, from the day after the date on which that decision is given to C.
 
 ### 27. Termination by agreement
 
@@ -920,7 +920,7 @@ falls within sub-paragraph (2) during the existence of the scheme (or the agreem
 
   which was committed on or after 1st April 2006;
 - (g) X—
-  - (i) has been made[^key-418cc0d557f0f916e20116dcccb3b88d] bankrupt, or sequestration of X's estate has been ordered, unless X has been discharged from the bankruptcy or the order has been annulled,
+  - (i) has been made[^c-418cc0d557f0f916e20116dcccb3b88d] bankrupt, or sequestration of X's estate has been ordered, unless X has been discharged from the bankruptcy or the order has been annulled,
   - (ii) has become a person in relation to whom a moratorium period under a debt relief order (under Part 7A of the Insolvency Act 1986 [^c21648001] (debt relief orders)) applies,
   - (iii) has been made the subject of a bankruptcy restrictions order, an interim bankruptcy restrictions order, a debt relief restrictions order or an interim debt relief restrictions order under Schedule 4A or 4ZB to the Insolvency Act 1986 [^c21648011] or Schedule 2A of the Insolvency (Northern Ireland) Order 1989 [^c21648021] (which relate to bankruptcy and debt relief restrictions orders and undertakings), which has not been annulled,
   - (iv) if X is a body corporate, has been wound up under Part 4 of the Insolvency Act 1986;
@@ -1005,141 +1005,141 @@ The LPS scheme shall not create any right enforceable by any person not a party 
 
 [^c21647791]: Marginal citation: Section 225 has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 186(6) to (10)](https://www.legislation.gov.uk/ukpga/2012/7/section/186/6), [Schedule 14](https://www.legislation.gov.uk/ukpga/2012/7/schedule/14), [paragraphs 103](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/103) and 106, and Schedule 5, paragraphs 148 and 151.
 
-[^key-68bea71dffed9570e0b4393247beb48f]: Textual amendment: Words in [Sch. 7 para. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/1/1/b/ii) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [59(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/59/2)
+[^c-68bea71dffed9570e0b4393247beb48f]: Textual amendment: Words in [Sch. 7 para. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/1/1/b/ii) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [59(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/59/2)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647801]: Marginal citation: Schedule 2 has been amended by [S.I. 2004/3215](https://www.legislation.gov.uk/uksi/2004/3215), 2009/2230, 2010/2389 and 2011/680 and 1043.
 
-[^key-05f274ee80ba3e42249bf462f262bb5b]: Textual amendment: Word in Sch. 7 para. 3(1)(a) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/i)
+[^c-05f274ee80ba3e42249bf462f262bb5b]: Textual amendment: Word in Sch. 7 para. 3(1)(a) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(i)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/i)
 
-[^key-5aa7aa6c5428801344e74f3e45eb30af]: Textual amendment: Words in Sch. 7 para. 3(1)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/ii)
+[^c-5aa7aa6c5428801344e74f3e45eb30af]: Textual amendment: Words in Sch. 7 para. 3(1)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/ii)
 
-[^key-45ff9e3e66c24f65116d92215e1ce39e]: Textual amendment: Words in Sch. 7 para. 3(1)(b)(i) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/iii)
+[^c-45ff9e3e66c24f65116d92215e1ce39e]: Textual amendment: Words in Sch. 7 para. 3(1)(b)(i) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/iii)
 
-[^key-8f68a712f3d240cebed71caeb78dd77c]: Textual amendment: Word in Sch. 7 para. 3(1)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/iv)
+[^c-8f68a712f3d240cebed71caeb78dd77c]: Textual amendment: Word in Sch. 7 para. 3(1)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/iv)
 
-[^key-4736afeddfec99d0834c54c7fee3e12a]: Textual amendment: Sch. 7 para. 3(1)(c) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(v)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/v)
+[^c-4736afeddfec99d0834c54c7fee3e12a]: Textual amendment: Sch. 7 para. 3(1)(c) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(a)(v)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/a/v)
 
 [^c21647811]: Marginal citation: [1971 c.38](https://www.legislation.gov.uk/ukpga/1971/38); *see* section 2(1)(a) of that Act, which defines “**controlled drug**” for the purposes of that Act.
 
 [^c21647821]: Marginal citation: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Schedule 4 has been amended by [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), 2005/3372, 2007/2154, 2009/3136 and 2012/973, and Schedule 5 has been amended by [S.I. 2005/2864](https://www.legislation.gov.uk/uksi/2005/2864).
 
-[^key-e10cb1cb7c166d89303dd8bbb92ac7ab]: Textual amendment: Word in Sch. 7 para. 3(2)(a) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/i)
+[^c-e10cb1cb7c166d89303dd8bbb92ac7ab]: Textual amendment: Word in Sch. 7 para. 3(2)(a) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/i)
 
-[^key-bafcbaf88e8347e2409f1fae9bd83045]: Textual amendment: Words in Sch. 7 para. 3(2)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/ii)
+[^c-bafcbaf88e8347e2409f1fae9bd83045]: Textual amendment: Words in Sch. 7 para. 3(2)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/ii)
 
-[^key-7735615b0517d7f5456617537e68782c]: Textual amendment: Word in Sch. 7 para. 3(2)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/iii)
+[^c-7735615b0517d7f5456617537e68782c]: Textual amendment: Word in Sch. 7 para. 3(2)(b) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/iii)
 
-[^key-712c5b64500bfb7b3f934171f80f8b12]: Textual amendment: Sch. 7 para. 3(2)(c) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/iv)
+[^c-712c5b64500bfb7b3f934171f80f8b12]: Textual amendment: Sch. 7 para. 3(2)(c) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/2/b/iv)
 
-[^key-5c34036658ae48968df842c28c070076]: Textual amendment: Words in Sch. 7 para. 3(3) substituted (1.7.2015) by [The National Health Service (Amendments to Primary Care Terms of Service relating to the Electronic Prescription Service) Regulations 2015 (S.I. 2015/915)](https://www.legislation.gov.uk/uksi/2015/915), [regs. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2015/915/regulation/4/4)
+[^c-5c34036658ae48968df842c28c070076]: Textual amendment: Words in Sch. 7 para. 3(3) substituted (1.7.2015) by [The National Health Service (Amendments to Primary Care Terms of Service relating to the Electronic Prescription Service) Regulations 2015 (S.I. 2015/915)](https://www.legislation.gov.uk/uksi/2015/915), [regs. 1](https://www.legislation.gov.uk/uksi/2015/915/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2015/915/regulation/4/4)
 
-[^key-4c4ca36127b997346f43a205fe0918e0]: Textual amendment: Sch. 7 para. 3A inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/2)
+[^c-4c4ca36127b997346f43a205fe0918e0]: Textual amendment: Sch. 7 para. 3A inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/2)
 
-[^key-c1ad99954ef803e78e21d212b2e35aa4]: Textual amendment: [Sch. 7 para. 3B](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/3B) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(2)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/2)
+[^c-c1ad99954ef803e78e21d212b2e35aa4]: Textual amendment: [Sch. 7 para. 3B](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/3B) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(2)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/2)
 
-[^key-d90186d76b358a585f6334290d2da8a7]: Textual amendment: Words in Sch. 7 para. 5(3) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/3/a)
+[^c-d90186d76b358a585f6334290d2da8a7]: Textual amendment: Words in Sch. 7 para. 5(3) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(3)(a)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/3/a)
 
-[^key-895f6bd888f45aa1a7de01109a5e20a0]: Textual amendment: Words in Sch. 7 para. 5(3) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(7)(a)(i)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/7/a/i)
+[^c-895f6bd888f45aa1a7de01109a5e20a0]: Textual amendment: Words in Sch. 7 para. 5(3) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(7)(a)(i)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/7/a/i)
 
 [^c21647831]: Marginal citation: Regulation 3 has been amended by [S.I. 2002/2352](https://www.legislation.gov.uk/uksi/2002/2352), 2003/1084, 2004/865, 2005/578, 2008/571, 2009/411, 2010/1727, 2011/518 and 2012/470.
 
-[^key-3dbfa372ae3b4494c4f9172372e99011]: Textual amendment: Words in Sch. 7 para. 5 substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/7/a/ii)
+[^c-3dbfa372ae3b4494c4f9172372e99011]: Textual amendment: Words in Sch. 7 para. 5 substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/7/a/ii)
 
 [^c21647841]: Marginal citation: Regulation 7 has been amended by [S.I. 2000/3189](https://www.legislation.gov.uk/uksi/2000/3189), 2002/2352, 2004/696, 2005/578 and 2009/29.
 
 [^c21647851]: Marginal citation: Regulation 5 has been amended by [S.I. 2004/663](https://www.legislation.gov.uk/uksi/2004/663) and 936, 2006/562, 2008/1697 and 2009/411.
 
-[^key-2a3c7959efc2d8c285e832449abdb17a]: Textual amendment: Sch. 7 para. 5(3ZA) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/3/b)
+[^c-2a3c7959efc2d8c285e832449abdb17a]: Textual amendment: Sch. 7 para. 5(3ZA) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(3)(b)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/3/b)
 
-[^key-fd3feafdd91b679b40ebadd710fe5308]: Textual amendment: Sch. 7 para. 5(3A) inserted (E.) (1.7.2016) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2016 (S.I. 2016/296)](https://www.legislation.gov.uk/uksi/2016/296), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/296/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2016/296/regulation/5/2)
+[^c-fd3feafdd91b679b40ebadd710fe5308]: Textual amendment: Sch. 7 para. 5(3A) inserted (E.) (1.7.2016) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2016 (S.I. 2016/296)](https://www.legislation.gov.uk/uksi/2016/296), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2016/296/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2016/296/regulation/5/2)
 
-[^key-6c4a81446608da8ee0a44b8a39b33aec]: Textual amendment: Words in Sch. 7 para. 5(5) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/3/c)
+[^c-6c4a81446608da8ee0a44b8a39b33aec]: Textual amendment: Words in Sch. 7 para. 5(5) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(3)(c)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/3/c)
 
 [^M_F_e1e22a9d-2cd4-4452-a7ea-75e8c30ee65a]: Textual amendment: Words in Sch. 7 para. 5(5) substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 47(6)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/47/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-93c2ae68603f52b9696152b6ae45e625]: Textual amendment: Sch. 7 para. 5(6) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/3)
+[^c-93c2ae68603f52b9696152b6ae45e625]: Textual amendment: Sch. 7 para. 5(6) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/3)
 
-[^key-a2fb59c78708e0977ac0e915e9e21662]: Textual amendment: [Sch. 7 paras. 5A-5C](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/5A) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/989/regulation/14)
+[^c-a2fb59c78708e0977ac0e915e9e21662]: Textual amendment: [Sch. 7 paras. 5A-5C](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/5A) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/989/regulation/14)
 
 [^c21647861]: Marginal citation: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72).
 
-[^key-5f11def3f48083677f8816a76ba05579]: Textual amendment: [Sch. 7 para. 6(1A)-(1E)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/6/1A) inserted (1.1.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/894)](https://www.legislation.gov.uk/uksi/2024/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/894/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/894/regulation/5)
+[^c-5f11def3f48083677f8816a76ba05579]: Textual amendment: [Sch. 7 para. 6(1A)-(1E)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/6/1A) inserted (1.1.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/894)](https://www.legislation.gov.uk/uksi/2024/894), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/894/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2024/894/regulation/5)
 
-[^key-5b8ab56d1948dfd5ff850ea0869b0920]: Textual amendment: Words in Sch. 7 para. 6(2) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/a)
+[^c-5b8ab56d1948dfd5ff850ea0869b0920]: Textual amendment: Words in Sch. 7 para. 6(2) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/a)
 
-[^key-fb72ac72c8cf36cb468b1bfd89ffb718]: Textual amendment: Words in Sch. 7 para. 6(3) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/b)
+[^c-fb72ac72c8cf36cb468b1bfd89ffb718]: Textual amendment: Words in Sch. 7 para. 6(3) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/b)
 
 [^c21647871]: Marginal citation: [1971 c.38](https://www.legislation.gov.uk/ukpga/1971/38); *see* section 2(1)(a) of that Act, which defines “**controlled drug**” for the purposes of that Act.
 
 [^c21647881]: Marginal citation: [S.I. 2001/3998](https://www.legislation.gov.uk/uksi/2001/3998). Schedule 4 has been amended by [S.I. 2003/1432](https://www.legislation.gov.uk/uksi/2003/1432), 2005/3372, 2007/2154 and 2009/3136, and Schedule 5 has been amended by [S.I. 2005/2864](https://www.legislation.gov.uk/uksi/2005/2864).
 
-[^key-c1fb26088889313ed70f02d1d6728587]: Textual amendment: Words in Sch. 7 para. 6(8) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/c)
+[^c-c1fb26088889313ed70f02d1d6728587]: Textual amendment: Words in Sch. 7 para. 6(8) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(c)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/c)
 
-[^key-30cc3507a34f755a48e2a1ca4efe8f3b]: Textual amendment: Word in [Sch. 7 para. 6(8)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/6/8) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30cc3507a34f755a48e2a1ca4efe8f3b]: Textual amendment: Word in [Sch. 7 para. 6(8)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/6/8) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 8 para. 11(3)](https://www.legislation.gov.uk/uksi/2019/775/schedule/8/paragraph/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21647891]: Marginal citation: Schedule 2 has been amended by [S.I. 2004/3215](https://www.legislation.gov.uk/uksi/2004/3215), 2009/2230, 2010/2389 and 2011/680 and
 
     1043\.
 
-[^key-41656aca2339c7b14183ec59645847ce]: Textual amendment: Words in Sch. 7 para. 6(13) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(3)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/3/a)
+[^c-41656aca2339c7b14183ec59645847ce]: Textual amendment: Words in Sch. 7 para. 6(13) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(3)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/3/a)
 
-[^key-dcadc34a62cdeb778f2b50d4a6dcafd9]: Textual amendment: Words in Sch. 7 para. 6(13) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(d)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/d)
+[^c-dcadc34a62cdeb778f2b50d4a6dcafd9]: Textual amendment: Words in Sch. 7 para. 6(13) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(d)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/d)
 
-[^key-2a805e85f91d2078634180df27a2d9b7]: Textual amendment: Sch. 7 para. 6(14) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(e)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/e)
+[^c-2a805e85f91d2078634180df27a2d9b7]: Textual amendment: Sch. 7 para. 6(14) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(4)(e)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/4/e)
 
-[^key-e8da4e8ab2207f03eb542b171d36934f]: Textual amendment: [Sch. 7 para. 6(15)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/6/15) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(3)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/3/b)
+[^c-e8da4e8ab2207f03eb542b171d36934f]: Textual amendment: [Sch. 7 para. 6(15)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/6/15) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(3)(b)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/3/b)
 
-[^key-1d9f946eac2d99585e0ade5f438da0ed]: Textual amendment: Sch. 7 para. 7(2A) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/4)
+[^c-1d9f946eac2d99585e0ade5f438da0ed]: Textual amendment: Sch. 7 para. 7(2A) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/4)
 
-[^key-48c4784751d1507ca008aa008a64b481]: Textual amendment: Words in [Sch. 7 para. 7(2A)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/7/2A) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2020/1126/regulation/24)
+[^c-48c4784751d1507ca008aa008a64b481]: Textual amendment: Words in [Sch. 7 para. 7(2A)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/7/2A) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2020/1126/regulation/24)
 
-[^key-25cbcaaf433320ac21dfc7c4582fc9a1]: Textual amendment: Sch. 7 para. 7(2B)(2C) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/5)
+[^c-25cbcaaf433320ac21dfc7c4582fc9a1]: Textual amendment: Sch. 7 para. 7(2B)(2C) inserted (1.7.2019) by [The National Health Service (Amendments Relating to Serious Shortage Protocols) Regulations 2019 (S.I. 2019/990)](https://www.legislation.gov.uk/uksi/2019/990), [regs. 1](https://www.legislation.gov.uk/uksi/2019/990/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/990/regulation/7/5)
 
-[^key-b59c2e9164310d70ad064c485c422060]: Textual amendment: Sch. 7 para. 7(5)[(6)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/7/6) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(4)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/4)
+[^c-b59c2e9164310d70ad064c485c422060]: Textual amendment: Sch. 7 para. 7(5)[(6)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/7/6) inserted (21.12.2021) by [The National Health Service (Charges, Primary Medical Services and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Further Amendments) Regulations 2021 (S.I. 2021/1346)](https://www.legislation.gov.uk/uksi/2021/1346), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/1/2/a), [10(4)](https://www.legislation.gov.uk/uksi/2021/1346/regulation/10/4)
 
-[^key-24daa6bf5a0abf7244a4a72c755b3e20]: Textual amendment: Sch. 7 para. 7(7) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/171/regulation/5)
+[^c-24daa6bf5a0abf7244a4a72c755b3e20]: Textual amendment: Sch. 7 para. 7(7) inserted (1.4.2023) by [The National Health Service (Amendments Relating to Pre-Payment Certificates, Hormone Replacement Therapy Treatments and Medicines Shortages) Regulations 2023 (S.I. 2023/171)](https://www.legislation.gov.uk/uksi/2023/171), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/171/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/171/regulation/5)
 
-[^key-5d96a642ac65a289b4751f2a8f35f0ef]: Textual amendment: Words in [Sch. 7 para. 8(c)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/8/1/c) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2020/1126/regulation/25)
+[^c-5d96a642ac65a289b4751f2a8f35f0ef]: Textual amendment: Words in [Sch. 7 para. 8(c)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/8/1/c) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2020/1126/regulation/25)
 
-[^key-1d38da5ba37bb5a17cd85e93ecf7b465]: Textual amendment: Sch. 7 para. 9(1)(a) omitted (9.11.2020) by virtue of [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/26/a/i)
+[^c-1d38da5ba37bb5a17cd85e93ecf7b465]: Textual amendment: Sch. 7 para. 9(1)(a) omitted (9.11.2020) by virtue of [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [26(a)(i)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/26/a/i)
 
-[^key-00f6198a6e16fe9626cc023a43404b5f]: Textual amendment: Words in Sch. 7 para. 9(1)(b) substituted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/26/a/ii)
+[^c-00f6198a6e16fe9626cc023a43404b5f]: Textual amendment: Words in Sch. 7 para. 9(1)(b) substituted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [26(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/26/a/ii)
 
-[^key-e25b69c253dd4bfb44ce88f94255bd2e]: Textual amendment: Words in Sch. 7 para. 9(2) omitted (9.11.2020) by virtue of [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/26/b)
+[^c-e25b69c253dd4bfb44ce88f94255bd2e]: Textual amendment: Words in Sch. 7 para. 9(2) omitted (9.11.2020) by virtue of [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [26(b)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/26/b)
 
-[^key-7dd834d897cdcb2ffccef7fdaea2ee1b]: Textual amendment: Words in Sch. 7 para. 9(2)(a) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/5/a)
+[^c-7dd834d897cdcb2ffccef7fdaea2ee1b]: Textual amendment: Words in Sch. 7 para. 9(2)(a) substituted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(5)(a)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/5/a)
 
-[^key-06445507460b8828c0bc83b227efe9d9]: Textual amendment: Sch. 7 para. 9(5) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/5/b)
+[^c-06445507460b8828c0bc83b227efe9d9]: Textual amendment: Sch. 7 para. 9(5) inserted (26.11.2018) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [10(5)(b)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/10/5/b)
 
-[^key-a68e82474b459d1e2390af198a1f3367]: Textual amendment: Sch. 7 para. 9(6) inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/11/2)
+[^c-a68e82474b459d1e2390af198a1f3367]: Textual amendment: Sch. 7 para. 9(6) inserted (1.10.2026) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/961)](https://www.legislation.gov.uk/uksi/2026/961), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2026/961/regulation/11/2)
 
-[^key-c10545eab4f2035d820055c69ff9d57a]: Textual amendment: Sch. 7 para. 10A inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/351/regulation/11)
+[^c-c10545eab4f2035d820055c69ff9d57a]: Textual amendment: Sch. 7 para. 10A inserted (27.3.2020) by [The National Health Service (Amendments Relating to the Provision of Primary Care Services During a Pandemic etc.) Regulations 2020 (S.I. 2020/351)](https://www.legislation.gov.uk/uksi/2020/351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/351/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2020/351/regulation/11)
 
-[^key-67eb59228f5d7aab36a0f1b16be97295]: Textual amendment: Word in [Sch. 7 para. 10A(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/10A/4) substituted (1.3.2021) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/169)](https://www.legislation.gov.uk/uksi/2021/169), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/169/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/169/regulation/5/2)
+[^c-67eb59228f5d7aab36a0f1b16be97295]: Textual amendment: Word in [Sch. 7 para. 10A(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/10A/4) substituted (1.3.2021) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/169)](https://www.legislation.gov.uk/uksi/2021/169), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/169/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/169/regulation/5/2)
 
-[^key-4d67e772495131fd1c414d726801b8e0]: Textual amendment: [Sch. 7 para. 10AA](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/10AA) inserted (1.3.2021) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/169)](https://www.legislation.gov.uk/uksi/2021/169), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/169/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/169/regulation/5/3)
+[^c-4d67e772495131fd1c414d726801b8e0]: Textual amendment: [Sch. 7 para. 10AA](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/10AA) inserted (1.3.2021) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/169)](https://www.legislation.gov.uk/uksi/2021/169), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/169/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/169/regulation/5/3)
 
-[^key-c33fb2d203f2d43049f412430d8dd57a]: Textual amendment: Sch. 7 para. 13A inserted (1.4.2016) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2016 (S.I. 2016/296)](https://www.legislation.gov.uk/uksi/2016/296), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/296/regulation/1/1/a), [5(3)](https://www.legislation.gov.uk/uksi/2016/296/regulation/5/3)
+[^c-c33fb2d203f2d43049f412430d8dd57a]: Textual amendment: Sch. 7 para. 13A inserted (1.4.2016) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2016 (S.I. 2016/296)](https://www.legislation.gov.uk/uksi/2016/296), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/296/regulation/1/1/a), [5(3)](https://www.legislation.gov.uk/uksi/2016/296/regulation/5/3)
 
-[^key-25b93577145861dabb22bf58edb311e0]: Textual amendment: [Sch. 7 para. 13A(1)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13A/1)[(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13A/2) substituted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2020/1126/regulation/27)
+[^c-25b93577145861dabb22bf58edb311e0]: Textual amendment: [Sch. 7 para. 13A(1)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13A/1)[(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13A/2) substituted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2020/1126/regulation/27)
 
-[^key-fe401e458631a947b1bf6d8b2bb6685f]: Textual amendment: [Sch. 7 paras. 13B](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13B), [13C](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2020/1126/regulation/28)
+[^c-fe401e458631a947b1bf6d8b2bb6685f]: Textual amendment: [Sch. 7 paras. 13B](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13B), [13C](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C) inserted (9.11.2020) by [The National Health Service (Charges and Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2020 (S.I. 2020/1126)](https://www.legislation.gov.uk/uksi/2020/1126), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1126/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2020/1126/regulation/28)
 
-[^key-6076c4b4414a4c41f0223a4fbf4500f6]: Textual amendment: Words in [Sch. 7 para. 13C](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C) heading substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/a)
+[^c-6076c4b4414a4c41f0223a4fbf4500f6]: Textual amendment: Words in [Sch. 7 para. 13C](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C) heading substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/a)
 
-[^key-7610725ebb6d46a15e2b0ff2b5c3e704]: Textual amendment: Words in [Sch. 7 para. 13C(1)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/1) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/b/i)
+[^c-7610725ebb6d46a15e2b0ff2b5c3e704]: Textual amendment: Words in [Sch. 7 para. 13C(1)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/1) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/b/i)
 
-[^key-43fbd2264cfd87a18c58350165926d87]: Textual amendment: Words in [Sch. 7 para. 13C(1)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/1) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/b/ii)
+[^c-43fbd2264cfd87a18c58350165926d87]: Textual amendment: Words in [Sch. 7 para. 13C(1)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/1) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/b/ii)
 
-[^key-e07059f8ac7687e1d923a1ec9dfb7eb0]: Textual amendment: Words in [Sch. 7 para. 13C(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/2) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(c)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/c)
+[^c-e07059f8ac7687e1d923a1ec9dfb7eb0]: Textual amendment: Words in [Sch. 7 para. 13C(2)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/2) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(c)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/c)
 
-[^key-2c18d9996d9e4dcb0ad383c7e8e69de0]: Textual amendment: Words in [Sch. 7 para. 13C(3)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/3/a) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(d)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/d/i)
+[^c-2c18d9996d9e4dcb0ad383c7e8e69de0]: Textual amendment: Words in [Sch. 7 para. 13C(3)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/3/a) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(d)(i)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/d/i)
 
-[^key-ee47124cbd473d8220abb534f38806c5]: Textual amendment: Words in [Sch. 7 para. 13C(3)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/3/b) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/d/ii)
+[^c-ee47124cbd473d8220abb534f38806c5]: Textual amendment: Words in [Sch. 7 para. 13C(3)(b)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/3/b) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/d/ii)
 
-[^key-eb57fbc71316fdfca0b7bc8e5d204dfb]: Textual amendment: Words in [Sch. 7 para. 13C(3)(c)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/3/c) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/d/iii)
+[^c-eb57fbc71316fdfca0b7bc8e5d204dfb]: Textual amendment: Words in [Sch. 7 para. 13C(3)(c)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/13C/3/c) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [66(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2025/989/regulation/66/2/d/iii)
 
 [^c21647901]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46); section 246(2) and (3) have been amended by the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [Schedule 2](https://www.legislation.gov.uk/asp/2010/13/schedule/2), [paragraph 26](https://www.legislation.gov.uk/asp/2010/13/paragraph/26).
 
@@ -1147,33 +1147,33 @@ The LPS scheme shall not create any right enforceable by any person not a party 
 
 [^c21647921]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 115A was inserted by the [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [section 15](https://www.legislation.gov.uk/ukpga/1997/47/section/15), and amended by the [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11) (“**the 2001 Act**”), section 14. The amendments made by the 2001 Act are to be repealed by, and other amendments to section 115A are to be made by, the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [sections 113 to 115](https://www.legislation.gov.uk/ukpga/2012/5/section/113), and Schedule 14, Part 1.
 
-[^key-a96af45b7be8afd4f2fd489fb6095c0c]: Textual amendment: Words in [Sch. 7 para. 15(1)(j)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/15/1/j) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/989/regulation/11)
+[^c-a96af45b7be8afd4f2fd489fb6095c0c]: Textual amendment: Words in [Sch. 7 para. 15(1)(j)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/15/1/j) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/989/regulation/11)
 
-[^key-c555a5c679f7d6fbda627c3830e9513d]: Textual amendment: Words in Sch. 7 para. 16 substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/14/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-c555a5c679f7d6fbda627c3830e9513d]: Textual amendment: Words in Sch. 7 para. 16 substituted (1.4.2023) by [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 14(5)](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/14/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
 [^c21647931]: Marginal citation: Section 1F was inserted by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [section 7](https://www.legislation.gov.uk/ukpga/2012/7/section/7).
 
-[^key-1569573a413797aa44141fb103af99da]: Textual amendment: Words in Sch. 7 para. 18(2)(a) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(7)(b)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/7/b)
+[^c-1569573a413797aa44141fb103af99da]: Textual amendment: Words in Sch. 7 para. 18(2)(a) substituted (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 2 para. 5(7)(b)](https://www.legislation.gov.uk/uksi/2015/570/schedule/2/paragraph/5/7/b)
 
 [^c21647941]: Marginal citation: Regulation 10 has been amended by [S.I. 2000/3189](https://www.legislation.gov.uk/uksi/2000/3189), 2002/2352 and 2004/696.
 
 [^c21647951]: Marginal citation: Section 164 has been amended by: the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [section 141](https://www.legislation.gov.uk/ukpga/2008/14/section/141), and Schedule 15, Part 4; and by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [Schedule 4](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4), [paragraph 89](https://www.legislation.gov.uk/ukpga/2012/7/paragraph/89).
 
-[^key-782d097fd20f61a60d6210095a860dfc]: Textual amendment: Sch. 7 para. 21(1) substituted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/58/regulation/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
+[^c-782d097fd20f61a60d6210095a860dfc]: Textual amendment: Sch. 7 para. 21(1) substituted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2015/58/regulation/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
 
 [^c21647961]: Marginal citation: [S.I. 2009/309](https://www.legislation.gov.uk/uksi/2009/309); amended by [S.I. 2009/1768](https://www.legislation.gov.uk/uksi/2009/1768).
 
-[^key-8ce375276f35d4eec5367373e58fa4a4]: Textual amendment: Words in [Sch. 7 para. 26(3)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/26/3/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [59(3)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/59/3/a)
+[^c-8ce375276f35d4eec5367373e58fa4a4]: Textual amendment: Words in [Sch. 7 para. 26(3)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/26/3/a) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [59(3)(a)](https://www.legislation.gov.uk/uksi/2025/989/regulation/59/3/a)
 
 [^c21647971]: Marginal citation: Section 126 has been amended by the [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”), sections 220(7) and 213(7)(k), and Schedule 4, paragraph 63. Section 127 has been amended by the 2012 Act, Schedule 4, paragraph 64.
 
-[^key-353b7fa24a56d792a20929c7f40f187f]: Textual amendment: Words in [Sch. 7 para. 26(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/26/4) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [59(3)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/59/3/b)
+[^c-353b7fa24a56d792a20929c7f40f187f]: Textual amendment: Words in [Sch. 7 para. 26(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/7/paragraph/26/4) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [59(3)(b)](https://www.legislation.gov.uk/uksi/2025/989/regulation/59/3/b)
 
 [^c21647981]: Marginal citation: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12). Schedule 1 has been amended by: the [Sexual Offences Act 1956 (c. 69)](https://www.legislation.gov.uk/ukpga/1956/69), [Schedule 4](https://www.legislation.gov.uk/ukpga/1956/69/schedule/4); the [Criminal Justice Act 1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), [Schedule 15](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15), [paragraph 8](https://www.legislation.gov.uk/ukpga/1988/33/paragraph/8), and Schedule 16; the [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [Schedule 6](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6), [paragraph 7](https://www.legislation.gov.uk/ukpga/2003/42/paragraph/7); the [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [Schedule 10](https://www.legislation.gov.uk/ukpga/2004/28/schedule/10), [paragraph 2](https://www.legislation.gov.uk/ukpga/2004/28/paragraph/2); the [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [Schedule 21](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21), [paragraph 53](https://www.legislation.gov.uk/ukpga/2009/25/paragraph/53); and the [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [Schedule 9](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9), [paragraph 136](https://www.legislation.gov.uk/ukpga/2012/9/paragraph/136).
 
 [^c21647991]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-418cc0d557f0f916e20116dcccb3b88d]: Textual amendment: Word in Sch. 7 para. 29(2)(g) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-418cc0d557f0f916e20116dcccb3b88d]: Textual amendment: Word in Sch. 7 para. 29(2)(g) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
 [^c21648001]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45). Part 7A was inserted by the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [Schedule 17](https://www.legislation.gov.uk/ukpga/2007/15/schedule/17).
 

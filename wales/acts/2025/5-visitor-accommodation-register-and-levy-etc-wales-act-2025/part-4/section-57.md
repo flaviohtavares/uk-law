@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Power to make further provision about partnerships and unincorporated bodies[^key-dd40520e2fb7953774207fffa63a7a64][^key-2db1187fc2290ab6be10d4eb25210ae4]
+## 57. Power to make further provision about partnerships and unincorporated bodies[^c-dd40520e2fb7953774207fffa63a7a64][^c-2db1187fc2290ab6be10d4eb25210ae4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Welsh Ministers may by regulations add to, repeal or revoke or otherwise ame
 
 ## Annotations
 
-[^key-dd40520e2fb7953774207fffa63a7a64]: Commencement: S. 57 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
+[^c-dd40520e2fb7953774207fffa63a7a64]: Commencement: S. 57 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
 
-[^key-2db1187fc2290ab6be10d4eb25210ae4]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2025/5/section/57) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(q)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/q)
+[^c-2db1187fc2290ab6be10d4eb25210ae4]: Commencement: [S. 57](https://www.legislation.gov.uk/asc/2025/5/section/57) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(q)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/q)

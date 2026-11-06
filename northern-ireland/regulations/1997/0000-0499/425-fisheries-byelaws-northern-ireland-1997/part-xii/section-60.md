@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**60.**[^key-5fcbe5875f9e69a78b1d9057119a61c4] A person shall not use for the taking of salmon in the sea any drift net of greater length that 1,375 metres or any number of drift nets joined together in such a way that their total length shall be greater than 1,375 metres.
+**60.**[^c-5fcbe5875f9e69a78b1d9057119a61c4] A person shall not use for the taking of salmon in the sea any drift net of greater length that 1,375 metres or any number of drift nets joined together in such a way that their total length shall be greater than 1,375 metres.
 
 ## Annotations
 
-[^key-5fcbe5875f9e69a78b1d9057119a61c4]: Commencement: S. 60 in operation at 1.11.1997, see byelaw 1
+[^c-5fcbe5875f9e69a78b1d9057119a61c4]: Commencement: S. 60 in operation at 1.11.1997, see byelaw 1

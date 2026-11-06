@@ -43,7 +43,7 @@ Coming into force
 
 19th February 2004
 
-The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981 *(Extent: E)* *(affected by repeal, see note)*[^key-d4693ef78b9d862d85d25f0115d7e852][^f00001], and now vested in them *(Extent: E)* *(affected by repeal, see note)*[^key-d4693ef78b9d862d85d25f0115d7e852][^f00002], make the following Order: *(Extent: E)* *(affected by repeal, see note)*[^key-d4693ef78b9d862d85d25f0115d7e852]
+The Secretary of State for Environment, Food and Rural Affairs and the Secretary of State concerned with sea fishing in Northern Ireland, in exercise of the powers conferred by section 30(2) of the Fisheries Act 1981 *(Extent: E)* *(affected by repeal, see note)*[^c-d4693ef78b9d862d85d25f0115d7e852][^f00001], and now vested in them *(Extent: E)* *(affected by repeal, see note)*[^c-d4693ef78b9d862d85d25f0115d7e852][^f00002], make the following Order: *(Extent: E)* *(affected by repeal, see note)*[^c-d4693ef78b9d862d85d25f0115d7e852]
 
 ## 1. Title, commencement, extent and application
 
@@ -260,7 +260,7 @@ and the requirements of those Regulations for handing over and dispatch of logbo
 
 (2) Sections 77(1) and 78 of the Magistrates Courts Act 1980[^f00011] (postponement of issue of, and defects in, warrants of distress) shall apply to a warrant of distress issued under this article as they apply to a warrant of distress issued under Part III of that Act.
 
-(3) Where, in relation to a fine in respect of an offence under this Order or any equivalent provision, an order under legislation extending to Scotland or Northern Ireland, reciprocally replicating the effect of an order under section 90 of the Magistrates Court Act 1980 (transfer of fines to Scotland or Northern Ireland), specifies a local justice area[^key-c5d99d2f32f50e5b01761682de2dc653] in England, the preceding provisions of this article shall apply as if the fine were imposed by a court within the local justice area.
+(3) Where, in relation to a fine in respect of an offence under this Order or any equivalent provision, an order under legislation extending to Scotland or Northern Ireland, reciprocally replicating the effect of an order under section 90 of the Magistrates Court Act 1980 (transfer of fines to Scotland or Northern Ireland), specifies a local justice area[^c-c5d99d2f32f50e5b01761682de2dc653] in England, the preceding provisions of this article shall apply as if the fine were imposed by a court within the local justice area.
 
 ## 16. Powers of British sea-fishery officers in relation to fishing boats
 
@@ -453,7 +453,7 @@ A Regulatory Impact Assessment in relation to the Annex and this Order has been 
 
 ## Annotations
 
-[^key-d4693ef78b9d862d85d25f0115d7e852]: Textual amendment: Order revoked (E.) (28.2.2005) by [The Sea Fishing (Restriction on Days at Sea) Order 2005 (S.I. 2005/393)](https://www.legislation.gov.uk/uksi/2005/393), [art. 33](https://www.legislation.gov.uk/uksi/2005/393/article/33) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/393/article/1/4))
+[^c-d4693ef78b9d862d85d25f0115d7e852]: Textual amendment: Order revoked (E.) (28.2.2005) by [The Sea Fishing (Restriction on Days at Sea) Order 2005 (S.I. 2005/393)](https://www.legislation.gov.uk/uksi/2005/393), [art. 33](https://www.legislation.gov.uk/uksi/2005/393/article/33) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2005/393/article/1/4))
 
 [^f00001]: Footnote: [1981 c. 29](https://www.legislation.gov.uk/ukpga/1981/29). *See* section 30(3) for the definition of “the Ministers”, as modified by Schedule 2, paragraph 68(5) of the Scotland Act 1998 (Consequential Modifications) (No. 2) Order 1999 (S.I. [1999/1820](https://www.legislation.gov.uk/uksi/1999/1820)).
 
@@ -477,7 +477,7 @@ A Regulatory Impact Assessment in relation to the Annex and this Order has been 
 
 [^f00011]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Section 78 was amended by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), sections 37 and 46, and section 90 was amended by the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), section 47(2).
 
-[^key-c5d99d2f32f50e5b01761682de2dc653]: Textual amendment: Words in [art. 15(3)](https://www.legislation.gov.uk/uksi/2004/398/article/15/3) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 226](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/226)
+[^c-c5d99d2f32f50e5b01761682de2dc653]: Textual amendment: Words in [art. 15(3)](https://www.legislation.gov.uk/uksi/2004/398/article/15/3) substituted (1.4.2005) by [The Courts Act 2003 (Consequential Provisions) (No. 2) Order 2005 (S.I. 2005/617)](https://www.legislation.gov.uk/uksi/2005/617), [art. 1](https://www.legislation.gov.uk/uksi/2005/617/article/1), [Sch. para. 226](https://www.legislation.gov.uk/uksi/2005/617/schedule/paragraph/226)
 
 [^f00012]: Footnote: S.I. [2000/51](https://www.legislation.gov.uk/uksi/2000/51), amended by S.I. [2003/559](https://www.legislation.gov.uk/uksi/2003/559), [2003/1535](https://www.legislation.gov.uk/uksi/2003/1535) and [2004/38](https://www.legislation.gov.uk/uksi/2004/38).
 

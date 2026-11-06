@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141A. Modifications to Schedule 5A[^key-1f38ab402564d2439eb23f669302d59d]
+## 141A. Modifications to Schedule 5A[^c-1f38ab402564d2439eb23f669302d59d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f38ab402564d2439eb23f669302d59d]: Textual amendment: [Reg. 141A](https://www.legislation.gov.uk/uksi/2019/450/regulation/141A) omitted (5.8.2020) by virtue of [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/730/regulation/20)
+[^c-1f38ab402564d2439eb23f669302d59d]: Textual amendment: [Reg. 141A](https://www.legislation.gov.uk/uksi/2019/450/regulation/141A) omitted (5.8.2020) by virtue of [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [20](https://www.legislation.gov.uk/uksi/2020/730/regulation/20)

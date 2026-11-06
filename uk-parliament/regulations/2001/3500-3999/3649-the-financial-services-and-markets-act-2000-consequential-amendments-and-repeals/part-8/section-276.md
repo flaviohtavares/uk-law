@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 276. Meaning of “securities”[^key-7154021ae5a43b0cd3a00a30e3efd184]
+## 276. Meaning of “securities”[^c-7154021ae5a43b0cd3a00a30e3efd184]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 1(2)[^f00197] of the Local Authorities' Mutual Investment Trust Act 1
 
 ## Annotations
 
-[^key-7154021ae5a43b0cd3a00a30e3efd184]: Commencement: Art. 276 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7154021ae5a43b0cd3a00a30e3efd184]: Commencement: Art. 276 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00197]: Footnote: The words being substituted were substituted by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 7.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Revocation of circumstances prescribed under section 10A(5)(b) of the 1983 Act[^key-8083df1cbd2b9d01bf7dca8a442afeba]
+## 14. Revocation of circumstances prescribed under section 10A(5)(b) of the 1983 Act[^c-8083df1cbd2b9d01bf7dca8a442afeba]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8083df1cbd2b9d01bf7dca8a442afeba]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2910/regulation/14) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-8083df1cbd2b9d01bf7dca8a442afeba]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2006/2910/regulation/14) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00032]: Footnote: Amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871).

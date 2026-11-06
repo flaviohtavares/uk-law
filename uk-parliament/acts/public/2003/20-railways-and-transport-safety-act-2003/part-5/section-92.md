@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Being unfit for duty[^key-73dda085cc8211eccd8bae7add76e21d]
+## 92. Being unfit for duty[^c-73dda085cc8211eccd8bae7add76e21d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73dda085cc8211eccd8bae7add76e21d]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2003/20/section/92) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/827/article/3/o)
+[^c-73dda085cc8211eccd8bae7add76e21d]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2003/20/section/92) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(o)](https://www.legislation.gov.uk/uksi/2004/827/article/3/o)

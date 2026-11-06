@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Power to issue fixed penalty notices on-the-spot in Scotland[^key-b1cfd05456b4d48c9104650afe54efe9][^key-f39bb26971a574d7dcd4428eef546b2c]
+## 97. Power to issue fixed penalty notices on-the-spot in Scotland[^c-b1cfd05456b4d48c9104650afe54efe9][^c-f39bb26971a574d7dcd4428eef546b2c]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1cfd05456b4d48c9104650afe54efe9]: Commencement: S. 97 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-b1cfd05456b4d48c9104650afe54efe9]: Commencement: S. 97 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-f39bb26971a574d7dcd4428eef546b2c]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2022/32/section/97) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/b) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-f39bb26971a574d7dcd4428eef546b2c]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2022/32/section/97) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/b) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

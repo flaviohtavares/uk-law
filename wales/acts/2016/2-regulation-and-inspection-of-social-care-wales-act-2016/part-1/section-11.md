@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Application for variation of registration as a service provider[^key-255ab371fe49356298a24c9acf7d9299]
+## 11. Application for variation of registration as a service provider[^c-255ab371fe49356298a24c9acf7d9299]
 
 *Extent: E+W*
 
@@ -40,10 +40,10 @@ summary: ''
   - (iii) such other information as may be prescribed;
 - (b) be in the prescribed form.
 
-(4)[^key-6d9e2043c348527d58d25923e2ce1ad2] In the case of an application under subsection (1)(a)(i) to provide a restricted children’s service, the application must also contain such information as may be prescribed to satisfy the Welsh Ministers that the service provider meets the requirement in section 6A(1).
+(4)[^c-6d9e2043c348527d58d25923e2ce1ad2] In the case of an application under subsection (1)(a)(i) to provide a restricted children’s service, the application must also contain such information as may be prescribed to satisfy the Welsh Ministers that the service provider meets the requirement in section 6A(1).
 
 ## Annotations
 
-[^key-255ab371fe49356298a24c9acf7d9299]: Commencement: S. 11 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-255ab371fe49356298a24c9acf7d9299]: Commencement: S. 11 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
 
-[^key-6d9e2043c348527d58d25923e2ce1ad2]: Textual amendment: [S. 11(4)](https://www.legislation.gov.uk/anaw/2016/2/section/11/4) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 8(2)](https://www.legislation.gov.uk/asc/2025/1/section/8/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/d)
+[^c-6d9e2043c348527d58d25923e2ce1ad2]: Textual amendment: [S. 11(4)](https://www.legislation.gov.uk/anaw/2016/2/section/11/4) inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 8(2)](https://www.legislation.gov.uk/asc/2025/1/section/8/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/d)

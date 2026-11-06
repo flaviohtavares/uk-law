@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Excluded sentences: convictions prevented from becoming spent[^key-4c6c5bc281d45df31e3dc8bc4bb5d7a6]
+## 18. Excluded sentences: convictions prevented from becoming spent[^c-4c6c5bc281d45df31e3dc8bc4bb5d7a6]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c6c5bc281d45df31e3dc8bc4bb5d7a6]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/14/section/18) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-4c6c5bc281d45df31e3dc8bc4bb5d7a6]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2019/14/section/18) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

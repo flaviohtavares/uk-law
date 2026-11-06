@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Statement of regulator’s engagement with residents etc[^key-c757b92e73941f12a7026d55af3f9789][^key-d58e0ff80d933247b2ca46eca52be3fd]
+## 20. Statement of regulator’s engagement with residents etc[^c-c757b92e73941f12a7026d55af3f9789][^c-d58e0ff80d933247b2ca46eca52be3fd]
 
 *Extent: E+W*
 
@@ -35,15 +35,15 @@ summary: ''
 
 (4) In this section—
 
-- “**annual report**” means the report made under paragraph 12 of Schedule 1 to the Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026[^key-371a59dc50f19219436daceb3de46621];
+- “**annual report**” means the report made under paragraph 12 of Schedule 1 to the Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026[^c-371a59dc50f19219436daceb3de46621];
 - “**higher-risk building**” means—
   - (a) a higher-risk building within the meaning of Part 4, or
   - (b) a higher-risk building within the meaning of the Building Act 1984.
 
 ## Annotations
 
-[^key-c757b92e73941f12a7026d55af3f9789]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-c757b92e73941f12a7026d55af3f9789]: Commencement: S. 20 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-d58e0ff80d933247b2ca46eca52be3fd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/30/section/20) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(f)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/f)
+[^c-d58e0ff80d933247b2ca46eca52be3fd]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/30/section/20) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(f)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/f)
 
-[^key-371a59dc50f19219436daceb3de46621]: Textual amendment: Words in [s. 20(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/20/4) substituted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/16) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-371a59dc50f19219436daceb3de46621]: Textual amendment: Words in [s. 20(4)](https://www.legislation.gov.uk/ukpga/2022/30/section/20/4) substituted (27.1.2026) by [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/16) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

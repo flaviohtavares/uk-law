@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Reviews in connection with requests for immunity from prosecution[^key-53443c92d8757153897ef8aab7c49da1]
+## 12. Reviews in connection with requests for immunity from prosecution[^c-53443c92d8757153897ef8aab7c49da1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53443c92d8757153897ef8aab7c49da1]: Commencement: S. 12 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-53443c92d8757153897ef8aab7c49da1]: Commencement: S. 12 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

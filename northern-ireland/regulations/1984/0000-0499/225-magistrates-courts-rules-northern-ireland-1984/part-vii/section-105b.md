@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105B. Summons to debtor to attend on a collection officer[^key-62eb0fe59a1a90e24325a9d5066d92bd]
+## 105B. Summons to debtor to attend on a collection officer[^c-62eb0fe59a1a90e24325a9d5066d92bd]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62eb0fe59a1a90e24325a9d5066d92bd]: Textual amendment: [Rules 105-105G](https://www.legislation.gov.uk/nisr/1984/225/rule/105) substituted for [rule 105](https://www.legislation.gov.uk/nisr/1984/225/rule/105) (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2018/103/article/3/6)
+[^c-62eb0fe59a1a90e24325a9d5066d92bd]: Textual amendment: [Rules 105-105G](https://www.legislation.gov.uk/nisr/1984/225/rule/105) substituted for [rule 105](https://www.legislation.gov.uk/nisr/1984/225/rule/105) (1.6.2018) by [The Magistrates’ Courts (Amendment No.2) Rules (Northern Ireland) 2018 (S.R. 2018/103)](https://www.legislation.gov.uk/nisr/2018/103), [rules 1](https://www.legislation.gov.uk/nisr/2018/103/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2018/103/article/3/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Impersonation etc.[^key-f9c22feba45ccad37ee44a58fd6098ca][^key-db6b58c4d194fe2f88ad04e9e4074059]
+## 92. Impersonation etc.[^c-f9c22feba45ccad37ee44a58fd6098ca][^c-db6b58c4d194fe2f88ad04e9e4074059]
 
 *Extent: S*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f9c22feba45ccad37ee44a58fd6098ca]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2012/8/section/92) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-f9c22feba45ccad37ee44a58fd6098ca]: Commencement: [S. 92](https://www.legislation.gov.uk/asp/2012/8/section/92) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-db6b58c4d194fe2f88ad04e9e4074059]: Modification: [S. 92](https://www.legislation.gov.uk/asp/2012/8/section/92) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2013/602/article/10/2)
+[^c-db6b58c4d194fe2f88ad04e9e4074059]: Modification: [S. 92](https://www.legislation.gov.uk/asp/2012/8/section/92) applied (with modifications) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2013/602/article/10/2)

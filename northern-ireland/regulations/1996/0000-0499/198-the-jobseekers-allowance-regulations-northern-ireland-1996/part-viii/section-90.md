@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Child support[^key-fbea4219171b18d2a75dda0abcade5e4]
+## 90. Child support[^c-fbea4219171b18d2a75dda0abcade5e4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulations 94, 96, 97, 103 and 105 and Chapters VII and IX of this Part shall n
 
 ## Annotations
 
-[^key-fbea4219171b18d2a75dda0abcade5e4]: Commencement: Reg. 90 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-fbea4219171b18d2a75dda0abcade5e4]: Commencement: Reg. 90 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

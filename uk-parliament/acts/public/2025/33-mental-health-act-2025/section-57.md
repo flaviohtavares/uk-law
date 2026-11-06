@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Short title[^key-6c3fa398c44df629a8245eb64052cb9b]
+## 57. Short title[^c-6c3fa398c44df629a8245eb64052cb9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Mental Health Act 2025.
 
 ## Annotations
 
-[^key-6c3fa398c44df629a8245eb64052cb9b]: Commencement: S. 57 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)
+[^c-6c3fa398c44df629a8245eb64052cb9b]: Commencement: S. 57 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)

@@ -31,7 +31,7 @@ summary: ''
 
 Children And Young Persons, Wales
 
-The Childcare Act 2006 (Local Authority Assessment) (Wales) Regulations 2013 (revoked)[^key-1f20071b26da471b4513e6161e9af7e1]
+The Childcare Act 2006 (Local Authority Assessment) (Wales) Regulations 2013 (revoked)[^c-1f20071b26da471b4513e6161e9af7e1]
 
 Made
 
@@ -45,56 +45,56 @@ Coming into force
 
 1 October 2013
 
-[^key-1f20071b26da471b4513e6161e9af7e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f20071b26da471b4513e6161e9af7e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-1f20071b26da471b4513e6161e9af7e1]
+## 1. Title, commencement and application[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1f20071b26da471b4513e6161e9af7e1]
+## 2. Interpretation[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Duty to prepare assessments[^key-1f20071b26da471b4513e6161e9af7e1]
+## 3. Duty to prepare assessments[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Matters to be contained in the assessment[^key-1f20071b26da471b4513e6161e9af7e1]
+## 4. Matters to be contained in the assessment[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consultation[^key-1f20071b26da471b4513e6161e9af7e1]
+## 5. Consultation[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Draft Summary[^key-1f20071b26da471b4513e6161e9af7e1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Publication of Assessment[^key-1f20071b26da471b4513e6161e9af7e1]
+## 7. Draft Summary[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 12. Revocation[^key-1f20071b26da471b4513e6161e9af7e1]
+## 9. Publication of Assessment[^c-1f20071b26da471b4513e6161e9af7e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f20071b26da471b4513e6161e9af7e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-1f20071b26da471b4513e6161e9af7e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 12. Revocation[^c-1f20071b26da471b4513e6161e9af7e1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1f20071b26da471b4513e6161e9af7e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f20071b26da471b4513e6161e9af7e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f20071b26da471b4513e6161e9af7e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f20071b26da471b4513e6161e9af7e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/2274) revoked (1.4.2016) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) Regulations 2016 (S.I. 2016/88)](https://www.legislation.gov.uk/wsi/2016/88), [reg. 13](https://www.legislation.gov.uk/wsi/2016/88/regulation/13)
+[^c-1f20071b26da471b4513e6161e9af7e1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/2274) revoked (1.4.2016) by [The Childcare Act 2006 (Local Authority Assessment) (Wales) Regulations 2016 (S.I. 2016/88)](https://www.legislation.gov.uk/wsi/2016/88), [reg. 13](https://www.legislation.gov.uk/wsi/2016/88/regulation/13)

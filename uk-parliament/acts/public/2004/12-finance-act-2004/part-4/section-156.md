@@ -24,30 +24,30 @@ summary: ''
 
 (2) The scheme administrator may appeal against the decision.
 
-(3)[^key-09052b0b5128e2bcee3a2638c60f0b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-09052b0b5128e2bcee3a2638c60f0b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-09052b0b5128e2bcee3a2638c60f0b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-09052b0b5128e2bcee3a2638c60f0b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) An appeal under this section against a decision must be brought within the period of 30 days beginning with the day on which the scheme administrator was notified of the decision.
 
-(6) On an appeal under this section that is notified to the tribunal, the tribunal[^key-60b8a5c08ef359dc8bfcc6b66f357e51] must consider whether the pension scheme ought to have been registered by the Inland Revenue.
+(6) On an appeal under this section that is notified to the tribunal, the tribunal[^c-60b8a5c08ef359dc8bfcc6b66f357e51] must consider whether the pension scheme ought to have been registered by the Inland Revenue.
 
-(7) If the tribunal decides[^key-993f167309b7eff485fd7d4c07ee25ad] that the pension scheme ought not to have been registered by the Inland Revenue, the tribunal must[^key-4b91334671e0ed6568800fba2b99fc4b] dismiss the appeal.
+(7) If the tribunal decides[^c-993f167309b7eff485fd7d4c07ee25ad] that the pension scheme ought not to have been registered by the Inland Revenue, the tribunal must[^c-4b91334671e0ed6568800fba2b99fc4b] dismiss the appeal.
 
-(8) If the tribunal decides[^key-cf708444f8b453dde2aefcf7f3c41ba5] that the pension scheme ought to have been registered by the Inland Revenue, the pension scheme is to be treated as having been registered on such date as the tribunal determines[^key-9b3ddbc4e0cbf0bae1c336465f1d3699] (but subject to any further appeal [^key-26c39d43d421f6f19c07bae5527042e3]...).
+(8) If the tribunal decides[^c-cf708444f8b453dde2aefcf7f3c41ba5] that the pension scheme ought to have been registered by the Inland Revenue, the pension scheme is to be treated as having been registered on such date as the tribunal determines[^c-9b3ddbc4e0cbf0bae1c336465f1d3699] (but subject to any further appeal [^c-26c39d43d421f6f19c07bae5527042e3]...).
 
 ## Annotations
 
-[^key-09052b0b5128e2bcee3a2638c60f0b5d]: Textual amendment: S. 156(3)(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/2)
+[^c-09052b0b5128e2bcee3a2638c60f0b5d]: Textual amendment: S. 156(3)(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/2)
 
-[^key-60b8a5c08ef359dc8bfcc6b66f357e51]: Textual amendment: Words in s. 156(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/3)
+[^c-60b8a5c08ef359dc8bfcc6b66f357e51]: Textual amendment: Words in s. 156(6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/3)
 
-[^key-993f167309b7eff485fd7d4c07ee25ad]: Textual amendment: Words in s. 156(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/4/a)
+[^c-993f167309b7eff485fd7d4c07ee25ad]: Textual amendment: Words in s. 156(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(4)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/4/a)
 
-[^key-4b91334671e0ed6568800fba2b99fc4b]: Textual amendment: Words in s. 156(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/4/b)
+[^c-4b91334671e0ed6568800fba2b99fc4b]: Textual amendment: Words in s. 156(7) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(4)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/4/b)
 
-[^key-cf708444f8b453dde2aefcf7f3c41ba5]: Textual amendment: Words in s. 156(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(5)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/5/a)
+[^c-cf708444f8b453dde2aefcf7f3c41ba5]: Textual amendment: Words in s. 156(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(5)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/5/a)
 
-[^key-9b3ddbc4e0cbf0bae1c336465f1d3699]: Textual amendment: Words in s. 156(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(5)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/5/b)
+[^c-9b3ddbc4e0cbf0bae1c336465f1d3699]: Textual amendment: Words in s. 156(8) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(5)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/5/b)
 
-[^key-26c39d43d421f6f19c07bae5527042e3]: Textual amendment: Words in s. 156(8) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(5)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/5/c)
+[^c-26c39d43d421f6f19c07bae5527042e3]: Textual amendment: Words in s. 156(8) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 423(5)(c)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/423/5/c)

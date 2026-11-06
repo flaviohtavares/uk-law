@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 96. Consequential amendments[^key-05c1c6fb888c561abbbc7bba896530e8]
+## 96. Consequential amendments[^c-05c1c6fb888c561abbbc7bba896530e8]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05c1c6fb888c561abbbc7bba896530e8]: Commencement: [S. 96](https://www.legislation.gov.uk/ukcm/2018/3/section/96) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-05c1c6fb888c561abbbc7bba896530e8]: Commencement: [S. 96](https://www.legislation.gov.uk/ukcm/2018/3/section/96) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Application and modification of legislation[^key-c2895bc6ddd587866ea113ab509df027]
+## SCHEDULE 5 — Application and modification of legislation[^c-c2895bc6ddd587866ea113ab509df027]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Regulation 95
 
-### PART 1 — Application and modification of the 2000 Act[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 1 — Application and modification of the 2000 Act[^c-c2895bc6ddd587866ea113ab509df027]
 
-#### 1. Disciplinary powers[^key-c2895bc6ddd587866ea113ab509df027]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. The Tribunal[^key-c2895bc6ddd587866ea113ab509df027]
+#### 1. Disciplinary powers[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Information gathering and investigations[^key-c2895bc6ddd587866ea113ab509df027]
+#### 2. The Tribunal[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Auditors and actuaries[^key-c2895bc6ddd587866ea113ab509df027]
+#### 3. Information gathering and investigations[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Restriction on disclosure of information[^key-c2895bc6ddd587866ea113ab509df027]
+#### 4. Auditors and actuaries[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Insolvency[^key-c2895bc6ddd587866ea113ab509df027]
+#### 5. Restriction on disclosure of information[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Warning notices and decision notices[^key-c2895bc6ddd587866ea113ab509df027]
+#### 6. Insolvency[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Limitation on power to require documents[^key-c2895bc6ddd587866ea113ab509df027]
+#### 7. Warning notices and decision notices[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Application and modification of secondary legislation[^key-c2895bc6ddd587866ea113ab509df027]
-
-#### 9. The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^key-c2895bc6ddd587866ea113ab509df027]
+#### 8. Limitation on power to require documents[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-c2895bc6ddd587866ea113ab509df027]
+### PART 2 — Application and modification of secondary legislation[^c-c2895bc6ddd587866ea113ab509df027]
+
+#### 9. The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^c-c2895bc6ddd587866ea113ab509df027]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 10. The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-c2895bc6ddd587866ea113ab509df027]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-c2895bc6ddd587866ea113ab509df027]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/209) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version from the left-hand menu. For further details of the amendments see the List of All Changes available in 'More Resources' above\]

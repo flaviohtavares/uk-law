@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13AB. Penalties for contravention of section 13AA.[^c11245651][^key-9d6ca64b23f8a9613fa9b3b956e992f8]
+## 13AB. Penalties for contravention of section 13AA.[^c11245651][^c-9d6ca64b23f8a9613fa9b3b956e992f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,15 +26,15 @@ summary: ''
 - (b) his use of the kerosene shall attract a penalty under section 9 of the [^c11245671]Finance Act 1994 (civil penalties); and
 - (c) if he uses the kerosene with the relevant intent, he shall be guilty of an offence.
 
-(2) If a person is liable for kerosene being taken into a fuel supply [^key-b6549a3aeaef2a5a740ebd76eadaa358]... in contravention of section 13AA(2) above—
+(2) If a person is liable for kerosene being taken into a fuel supply [^c-b6549a3aeaef2a5a740ebd76eadaa358]... in contravention of section 13AA(2) above—
 
 - (a) in respect of the quantity of kerosene taken into the fuel supply the Commissioners may assess as being excise duty due from him an amount equal to duty on the same quantity of gas oil at the rate for rebated gas oil which is in force at the time of the contravention, and they may notify him or his representative accordingly;
 - (b) his becoming so liable shall attract a penalty under section 9 of the Finance Act 1994 (civil penalties); and
 - (c) if he has the relevant intent in relation to the kerosene being taken into the fuel supply, he shall be guilty of an offence.
 
-(3)[^key-5319546edca90a70c748ed7000385822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5319546edca90a70c748ed7000385822] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b9587e39eddb10596c6f55cd223be4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b9587e39eddb10596c6f55cd223be4f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) If—
 
@@ -47,8 +47,8 @@ his supplying the kerosene shall attract a penalty under section 9 of the [^c112
 
 (7) A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a penalty of £20,000,[^key-8ab801754f741fdce7e2a03225fca141] or to imprisonment for a term not exceeding 6 months, or to both;
-- (b) on conviction on indictment, to a penalty of any amount, or to a term of imprisonment not exceeding 14[^key-1dbce23b7fc912921e7ed05c34506b68] years, or to both.
+- (a) on summary conviction, to a penalty of £20,000,[^c-8ab801754f741fdce7e2a03225fca141] or to imprisonment for a term not exceeding 6 months, or to both;
+- (b) on conviction on indictment, to a penalty of any amount, or to a term of imprisonment not exceeding 14[^c-1dbce23b7fc912921e7ed05c34506b68] years, or to both.
 
 (8) Any kerosene falling within subsection (9) or (10) below is liable to forfeiture.
 
@@ -63,20 +63,20 @@ his supplying the kerosene shall attract a penalty under section 9 of the [^c112
 
 [^c11245651]: Textual amendment: S. 13AB inserted (1.10.1998) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 5(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/5/4); [S.I. 1996/2314](https://www.legislation.gov.uk/uksi/1996/2314), [art. 2](https://www.legislation.gov.uk/uksi/1996/2314/article/2)
 
-[^key-9d6ca64b23f8a9613fa9b3b956e992f8]: Textual amendment: Words in s. 13AB heading substituted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/10), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-9d6ca64b23f8a9613fa9b3b956e992f8]: Textual amendment: Words in s. 13AB heading substituted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/10), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
 
 [^c11245661]: Textual amendment: S. 13AB(1)(a)(2)(a) substituted (1.10.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 20](https://www.legislation.gov.uk/ukpga/1998/36/section/20), [Sch. 2 para. 4(2)(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/2/paragraph/4/2/3); [S.I. 1998/2243](https://www.legislation.gov.uk/uksi/1998/2243), [art. 2](https://www.legislation.gov.uk/uksi/1998/2243/article/2)
 
 [^c11245671]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-b6549a3aeaef2a5a740ebd76eadaa358]: Textual amendment: Words in s. 13AB(2) omitted (1.4.2022) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/2), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/9)
+[^c-b6549a3aeaef2a5a740ebd76eadaa358]: Textual amendment: Words in s. 13AB(2) omitted (1.4.2022) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/2), [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/9)
 
-[^key-5319546edca90a70c748ed7000385822]: Textual amendment: S. 13AB(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/11), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-5319546edca90a70c748ed7000385822]: Textual amendment: S. 13AB(3) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/11), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
-[^key-b9587e39eddb10596c6f55cd223be4f8]: Textual amendment: S. 13AB(4) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/11), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
+[^c-b9587e39eddb10596c6f55cd223be4f8]: Textual amendment: S. 13AB(4) omitted (retrospective to 1.4.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 5 paras. 11](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/11), [26(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/5/paragraph/26/b)
 
 [^c11245691]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-8ab801754f741fdce7e2a03225fca141]: Textual amendment: Sum in s. 13AB(7)(a) substituted for words (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/4/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-8ab801754f741fdce7e2a03225fca141]: Textual amendment: Sum in s. 13AB(7)(a) substituted for words (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/4/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-1dbce23b7fc912921e7ed05c34506b68]: Textual amendment: Word in s. 13AB(7)(b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-1dbce23b7fc912921e7ed05c34506b68]: Textual amendment: Word in s. 13AB(7)(b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))

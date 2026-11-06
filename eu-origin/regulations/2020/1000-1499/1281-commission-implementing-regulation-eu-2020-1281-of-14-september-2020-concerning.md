@@ -35,20 +35,20 @@ concerning the non-approval of the active substance ethametsulfuron-methyl, in a
 
 (Text with EEA relevance) (revoked)
 
-[^key-c39228d8310afeed2c4fb5342086b316]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c39228d8310afeed2c4fb5342086b316]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Non-approval of active substance[^key-c39228d8310afeed2c4fb5342086b316]
+## Article 1. Non-approval of active substance[^c-c39228d8310afeed2c4fb5342086b316]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-c39228d8310afeed2c4fb5342086b316]
+## Article 2. Entry into force[^c-c39228d8310afeed2c4fb5342086b316]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c39228d8310afeed2c4fb5342086b316]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c39228d8310afeed2c4fb5342086b316]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c39228d8310afeed2c4fb5342086b316]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)
+[^c-c39228d8310afeed2c4fb5342086b316]: Textual amendment: Regulation revoked (4.4.2022) by [The Pesticides (Revocation) (EU Exit) Regulations 2022 (S.I. 2022/144)](https://www.legislation.gov.uk/uksi/2022/144), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/144/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/144/schedule)

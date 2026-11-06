@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357CI. Routine return figure[^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357CI. Routine return figure[^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
 (1) To determine the routine return figure in relation to a trade of a company for an accounting period—
 
-- *Step 1* Take the aggregate of any routine deductions made by the company in calculating the profits of the trade for the accounting period. For the meaning of “routine deductions”, see sections 357BJA and 357BJB[^key-0a72d60defa5b583217bb0fb2d76a06a] .
+- *Step 1* Take the aggregate of any routine deductions made by the company in calculating the profits of the trade for the accounting period. For the meaning of “routine deductions”, see sections 357BJA and 357BJB[^c-0a72d60defa5b583217bb0fb2d76a06a] .
 - *Step 2* Multiply that amount by 0.1.
 - *Step 3* Calculate X% of the amount given by Step 2.“X%” is the percentage given by Step 2 in section 357C(1).
 
@@ -39,6 +39,6 @@ C is to be treated for the purposes of subsection (1) as having made such a rout
 
 ## Annotations
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
 
-[^key-0a72d60defa5b583217bb0fb2d76a06a]: Textual amendment: Words in [s. 357CI(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/357CI/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/8)
+[^c-0a72d60defa5b583217bb0fb2d76a06a]: Textual amendment: Words in [s. 357CI(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/357CI/1) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/8)

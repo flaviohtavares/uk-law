@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Recovery of insurance premiums by way of costs[^c22555481][^key-2617cd4a0679aacd5c35095a821a4f8f]
+## 46. Recovery of insurance premiums by way of costs[^c22555481][^c-2617cd4a0679aacd5c35095a821a4f8f]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 [^c22555481]: Commencement: S. 46 partly in force; s. 46 not in force at Royal Assent, see s. 151(1); s. 46 in force at 19.1.2013 for specified purposes and at 1.4.2013 except in relation to specified proceedings by [S.I. 2013/77](https://www.legislation.gov.uk/uksi/2013/77), [arts. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/77/article/2/1/c), [3(c)](https://www.legislation.gov.uk/uksi/2013/77/article/3/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/77/article/4))
 
-[^key-2617cd4a0679aacd5c35095a821a4f8f]: Commencement: S. 46 in force at 6.4.2016 in so far as not already in force except in relation to proceedings relating to a claim for damages in respect of diffuse mesothelioma and publication and privacy proceedings by [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [art. 2](https://www.legislation.gov.uk/uksi/2016/345/article/2)
+[^c-2617cd4a0679aacd5c35095a821a4f8f]: Commencement: S. 46 in force at 6.4.2016 in so far as not already in force except in relation to proceedings relating to a claim for damages in respect of diffuse mesothelioma and publication and privacy proceedings by [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [art. 2](https://www.legislation.gov.uk/uksi/2016/345/article/2)

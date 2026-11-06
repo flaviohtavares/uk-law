@@ -26,31 +26,31 @@ Section 229.
 
 *Extent: E+W+S*
 
-**1.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Remuneration of members
 
-**2.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Financial duties
 
-**4.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Procedures
 
-**6.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sub-committees and committees
 
-**8.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-eccb30877e6135e5ce5ef2ecbc5275a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public records
 
@@ -63,7 +63,7 @@ Section 229.
 
 ## Annotations
 
-[^key-eccb30877e6135e5ce5ef2ecbc5275a9]: Textual amendment: Sch. 23 paras. 1-9 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-eccb30877e6135e5ce5ef2ecbc5275a9]: Textual amendment: Sch. 23 paras. 1-9 repealed (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14889691]: Commencement: Sch. 23 para. 10 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246A. Interpretation[^key-5bb33e9bfa36161cfb7dcace7f3e69df]
+## 246A. Interpretation[^c-5bb33e9bfa36161cfb7dcace7f3e69df]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5bb33e9bfa36161cfb7dcace7f3e69df]: Textual amendment: S. 246A substituted for s. 246 (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 326(5)](https://www.legislation.gov.uk/ukpga/2024/13/section/326/5), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/a) (with [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5bb33e9bfa36161cfb7dcace7f3e69df]: Textual amendment: S. 246A substituted for s. 246 (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 326(5)](https://www.legislation.gov.uk/ukpga/2024/13/section/326/5), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/a) (with [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

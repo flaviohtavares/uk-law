@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 189. Protected trust deed: sheriff's direction[^key-aba1ee705e09fa0173ce5c8f75b7ed89]
+## 189. Protected trust deed: sheriff's direction[^c-aba1ee705e09fa0173ce5c8f75b7ed89]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aba1ee705e09fa0173ce5c8f75b7ed89]: Commencement: [S. 189](https://www.legislation.gov.uk/asp/2016/21/section/189) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-aba1ee705e09fa0173ce5c8f75b7ed89]: Commencement: [S. 189](https://www.legislation.gov.uk/asp/2016/21/section/189) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Applications no longer to be made to Employment Appeal Tribunal[^key-795df31756a62ebc73597a9786125cbe]
+## 34. Applications no longer to be made to Employment Appeal Tribunal[^c-795df31756a62ebc73597a9786125cbe]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-795df31756a62ebc73597a9786125cbe]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/24/section/34) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [arts. 8](https://www.legislation.gov.uk/uksi/2004/3342/article/8), [9](https://www.legislation.gov.uk/uksi/2004/3342/article/9), [10](https://www.legislation.gov.uk/uksi/2004/3342/article/10))
+[^c-795df31756a62ebc73597a9786125cbe]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2004/24/section/34) in force at 31.12.2004 by [S.I. 2004/3342](https://www.legislation.gov.uk/uksi/2004/3342), [art. 4(a)](https://www.legislation.gov.uk/uksi/2004/3342/article/4/a) (with [arts. 8](https://www.legislation.gov.uk/uksi/2004/3342/article/8), [9](https://www.legislation.gov.uk/uksi/2004/3342/article/9), [10](https://www.legislation.gov.uk/uksi/2004/3342/article/10))

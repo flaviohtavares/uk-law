@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Charities that have “received public assistance”[^key-275942fe5532d58e3869a94abd74c967]
+## 86. Charities that have “received public assistance”[^c-275942fe5532d58e3869a94abd74c967]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In section 58 of the Housing Act 1996 (definitions relating to charities), after
 
 ## Annotations
 
-[^key-275942fe5532d58e3869a94abd74c967]: Commencement: [S. 86](https://www.legislation.gov.uk/mwa/2011/5/section/86) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)
+[^c-275942fe5532d58e3869a94abd74c967]: Commencement: [S. 86](https://www.legislation.gov.uk/mwa/2011/5/section/86) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(s)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/s)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Certain references to code of conduct to include default code[^key-a5cae72feea47d1b4438c3ae504f1422]
+## 184. Certain references to code of conduct to include default code[^c-a5cae72feea47d1b4438c3ae504f1422]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5cae72feea47d1b4438c3ae504f1422]: Commencement: S. 184 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/i)
+[^c-a5cae72feea47d1b4438c3ae504f1422]: Commencement: S. 184 in force at 31.1.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/i)

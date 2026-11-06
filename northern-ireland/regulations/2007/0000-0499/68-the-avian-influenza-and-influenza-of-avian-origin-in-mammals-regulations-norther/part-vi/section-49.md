@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Veterinary surveillance of poultry[^key-6fa4005d5859704adfce444f14e47b59]
+## 49. Veterinary surveillance of poultry[^c-6fa4005d5859704adfce444f14e47b59]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department must carry out such veterinary surveillance as it considers neces
 
 ## Annotations
 
-[^key-6fa4005d5859704adfce444f14e47b59]: Commencement: Reg. 49 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-6fa4005d5859704adfce444f14e47b59]: Commencement: Reg. 49 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

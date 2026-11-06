@@ -69,7 +69,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 #### 48. Interest on repayment of estate duty and on instalments of duty.[^c1008014][^c1008013]
 
-(1) In relation to any period falling after 12th November 1974 any sums repayable as sums paid in excess of estate duty or interest on estate duty shall carry interest at the rate applicable under section 178 of the Finance Act 1989[^key-0573640bb96b1a7403c9a91828a6451a].
+(1) In relation to any period falling after 12th November 1974 any sums repayable as sums paid in excess of estate duty or interest on estate duty shall carry interest at the rate applicable under section 178 of the Finance Act 1989[^c-0573640bb96b1a7403c9a91828a6451a].
 
 (2) Interest paid to any person under this section shall not be income of that person for any tax purposes.
 
@@ -141,7 +141,7 @@ it shall, for the purpose of any interest to be added to each instalment, be tre
 
 ### 56. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c1008035]
 
-### 57. Appointment of General Commissioners in Scotland, and amendment of declaration to be made by certain officers.[^key-f51eed44440e690df911d4c1846059ca]
+### 57. Appointment of General Commissioners in Scotland, and amendment of declaration to be made by certain officers.[^c-f51eed44440e690df911d4c1846059ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -327,7 +327,7 @@ Section 52.
 
 ### The Land Registration Act 1925
 
-**5.**[^key-f0feb4510f97ed6cd4ea5659061dc1aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f0feb4510f97ed6cd4ea5659061dc1aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Inheritance (Family Provision) Act 1938
 
@@ -813,7 +813,7 @@ These repeals have effect—
 
 [^c1008013]: Modification: The text of s. 48 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-0573640bb96b1a7403c9a91828a6451a]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/1975/7/section/48/1) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(4)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/4/a)
+[^c-0573640bb96b1a7403c9a91828a6451a]: Textual amendment: Words in [s. 48(1)](https://www.legislation.gov.uk/ukpga/1975/7/section/48/1) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 105(4)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/105/4/a)
 
 [^c1008015]: Marginal citation: [1971 c. 68](https://www.legislation.gov.uk/ukpga/1971/68).
 
@@ -847,7 +847,7 @@ These repeals have effect—
 
 [^c1008035]: Textual amendment: [S. 56](https://www.legislation.gov.uk/ukpga/1975/7/section/56) repealed (1.4.2001) by [2000 c. 20](https://www.legislation.gov.uk/ukpga/2000/20), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2000/20/section/3/4), [29(2)](https://www.legislation.gov.uk/ukpga/2000/20/section/29/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2000/20/schedule/2); [S.I. 2000/3349](https://www.legislation.gov.uk/uksi/2000/3349), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2000/3349/article/3/1/b) (with transitional provisions in [art. 5](https://www.legislation.gov.uk/uksi/2000/3349/article/5))
 
-[^key-f51eed44440e690df911d4c1846059ca]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1975/7/section/57) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/67)
+[^c-f51eed44440e690df911d4c1846059ca]: Textual amendment: [S. 57](https://www.legislation.gov.uk/ukpga/1975/7/section/57) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/67)
 
 [^c1008042]: Textual amendment: [S. 58](https://www.legislation.gov.uk/ukpga/1975/7/section/58) repealed (1.10.1991) by [Finance Act 1991 (c. 31, SIF 107:2)](https://www.legislation.gov.uk/ukpga/1991/31), [ss. 10](https://www.legislation.gov.uk/ukpga/1991/31/section/10), [123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19), [Pt.IV](https://www.legislation.gov.uk/ukpga/1991/31/part/IV); [S.I. 1991/2021](https://www.legislation.gov.uk/uksi/1991/2021), [art.2](https://www.legislation.gov.uk/uksi/1991/2021/article/2) .
 
@@ -935,7 +935,7 @@ These repeals have effect—
 
 [^c1008084]: Marginal citation: [1857 c. 79](https://www.legislation.gov.uk/ukpga/1857/79).
 
-[^key-f0feb4510f97ed6cd4ea5659061dc1aa]: Textual amendment: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/1975/7/schedule/12/paragraph/5) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-f0feb4510f97ed6cd4ea5659061dc1aa]: Textual amendment: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/1975/7/schedule/12/paragraph/5) repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c1008088]: Textual amendment: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/1975/7/schedule/12/paragraph/6) repealed by Inheritance (Provision for Family and Dependents) 1975 (c. 63 SIF 116:1), s. 26(2)(3), Sch.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 165. Interpretation[^key-0620bf2e81f9fce4cfff2f91d8a01e8b]
+## 165. Interpretation[^c-0620bf2e81f9fce4cfff2f91d8a01e8b]
 
 *Extent: S*
 
@@ -61,7 +61,7 @@ In this Act, except where the contrary intention appears—
 - “**offer to sell**” has the meaning given by section 129,
 - “officer”—
   - (a) in relation to a registered social landlord which is a registered company, has the meaning given by section 1173 of the Companies Act 2006 (c.46),
-  - (b) in relation to a registered social landlord which is a registered society, has the meaning given by section 149 of the Co-operative and Community Benefit Societies Act 2014[^key-fb31b8ffc716e86ec5678825ad150d72],
+  - (b) in relation to a registered social landlord which is a registered society, has the meaning given by section 149 of the Co-operative and Community Benefit Societies Act 2014[^c-fb31b8ffc716e86ec5678825ad150d72],
   - (c) in relation to a registered social landlord of any other status, means any person concerned in the management or control of the registered social landlord,
 - “**owner**”, in relation to any property, means a person who has right to the property whether or not that person has completed title,
 - “**performance improvement plan**” has the meaning given by section 55,
@@ -71,7 +71,7 @@ In this Act, except where the contrary intention appears—
 - “**register**” has the meaning given by section 20(1),
 - “**registered company**” means a company for the purposes of the Companies Act 2006 (c.46),
 - “**registered social landlord**” means a body registered in the register,
-- “**registered society**” means a society registered under the Co-operative and Community Benefit Societies Act 2014[^key-3b1a048afb332250abeeb4fbfdda94d3],
+- “**registered society**” means a society registered under the Co-operative and Community Benefit Societies Act 2014[^c-3b1a048afb332250abeeb4fbfdda94d3],
 - “**registered tenant organisation**” has the meaning given by section 53(6) of the Housing (Scotland) Act 2001 (asp 10),
 - “**registration criteria**” has the meaning given by section 23,
 - “**the Regulator**” means the Scottish Housing Regulator established by section 1,
@@ -88,27 +88,27 @@ In this Act, except where the contrary intention appears—
 - “**security**” means any security or charge (including a floating charge),
 - “**short Scottish secure tenancy**” has the same meaning as in the Housing (Scotland) Act 2001 (asp 10),
 - “**social landlord**” means a registered social landlord, local authority landlord or a local authority which provides housing services,
-- "[^key-e9b02765f479129874f7fbbf8a6bec2d]**subsidiary**" has the same meaning as in the Companies Act 2006 (c.46) or, as the case may be, the Co-operative and Community Benefit Societies Act 2014[^key-46982b266e6e936f70db4eac6f0685e8],
+- "[^c-e9b02765f479129874f7fbbf8a6bec2d]**subsidiary**" has the same meaning as in the Companies Act 2006 (c.46) or, as the case may be, the Co-operative and Community Benefit Societies Act 2014[^c-46982b266e6e936f70db4eac6f0685e8],
 - “**undischarged bankrupt**” means an individual—
   - (a) whose estate has been sequestrated and who has not been discharged (or against whom a bankruptcy order has been made and is still in force),
   - (b) who has granted a trust deed for, or made a composition or arrangement with, creditors (and has not been discharged in respect of it),
   - (c) who is the subject of—
-    - (i) a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 (c.66) , the Bankruptcy (Scotland) Act 2016[^key-6aabb56020e32e00a1243fd092fa31ed] or the Insolvency Act 1986 (c.45), or
-    - (ii) a bankruptcy restrictions undertaking entered into under paragraph 7 of Schedule 4A to the Insolvency Act 1986[^key-987e77366a4a3d97fcc5dc670b564449], or
+    - (i) a bankruptcy restrictions order, or an interim bankruptcy restrictions order, made under the Bankruptcy (Scotland) Act 1985 (c.66) , the Bankruptcy (Scotland) Act 2016[^c-6aabb56020e32e00a1243fd092fa31ed] or the Insolvency Act 1986 (c.45), or
+    - (ii) a bankruptcy restrictions undertaking entered into under paragraph 7 of Schedule 4A to the Insolvency Act 1986[^c-987e77366a4a3d97fcc5dc670b564449], or
   - (d) who has been adjudged bankrupt (and has not been discharged), or is subject to any other kind of order, arrangement or undertaking analogous to those described above, anywhere in the world.
 
 ## Annotations
 
-[^key-0620bf2e81f9fce4cfff2f91d8a01e8b]: Modification: S. 165 modified (temp. until 1.4.2012) (10.2.2011) by [The Housing (Scotland) Act 2010 (Commencement No. 2, Transitional, Transitory and Saving Provisions) Order 2011 (No. 96)](https://www.legislation.gov.uk/ssi/2011/96), [art. 4](https://www.legislation.gov.uk/ssi/2011/96/article/4)
+[^c-0620bf2e81f9fce4cfff2f91d8a01e8b]: Modification: S. 165 modified (temp. until 1.4.2012) (10.2.2011) by [The Housing (Scotland) Act 2010 (Commencement No. 2, Transitional, Transitory and Saving Provisions) Order 2011 (No. 96)](https://www.legislation.gov.uk/ssi/2011/96), [art. 4](https://www.legislation.gov.uk/ssi/2011/96/article/4)
 
-[^key-fb31b8ffc716e86ec5678825ad150d72]: Textual amendment: Words in s. 165 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(7)](https://www.legislation.gov.uk/asp/2018/13/section/2/7), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-fb31b8ffc716e86ec5678825ad150d72]: Textual amendment: Words in s. 165 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(7)](https://www.legislation.gov.uk/asp/2018/13/section/2/7), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-3b1a048afb332250abeeb4fbfdda94d3]: Textual amendment: Words in s. 165 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(16)](https://www.legislation.gov.uk/asp/2018/13/section/6/16), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-3b1a048afb332250abeeb4fbfdda94d3]: Textual amendment: Words in s. 165 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(16)](https://www.legislation.gov.uk/asp/2018/13/section/6/16), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-e9b02765f479129874f7fbbf8a6bec2d]: Textual amendment: Words in s. 165 inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 98(4)](https://www.legislation.gov.uk/asp/2014/14/section/98/4), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-e9b02765f479129874f7fbbf8a6bec2d]: Textual amendment: Words in s. 165 inserted (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 98(4)](https://www.legislation.gov.uk/asp/2014/14/section/98/4), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-46982b266e6e936f70db4eac6f0685e8]: Textual amendment: Words in s. 165 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 7(4)](https://www.legislation.gov.uk/asp/2018/13/section/7/4), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-46982b266e6e936f70db4eac6f0685e8]: Textual amendment: Words in s. 165 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 7(4)](https://www.legislation.gov.uk/asp/2018/13/section/7/4), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-6aabb56020e32e00a1243fd092fa31ed]: Textual amendment: Words in s. 165 inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 27(3)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/27/3) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-6aabb56020e32e00a1243fd092fa31ed]: Textual amendment: Words in s. 165 inserted (30.11.2016) by [Bankruptcy (Scotland) Act 2016 (asp 21)](https://www.legislation.gov.uk/asp/2016/21), [s. 237(2)](https://www.legislation.gov.uk/asp/2016/21/section/237/2), [sch. 8 para. 27(3)](https://www.legislation.gov.uk/asp/2016/21/schedule/8/paragraph/27/3) (with [ss. 232](https://www.legislation.gov.uk/asp/2016/21/section/232), [234(3)](https://www.legislation.gov.uk/asp/2016/21/section/234/3), [235](https://www.legislation.gov.uk/asp/2016/21/section/235), [236](https://www.legislation.gov.uk/asp/2016/21/section/236)); [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-987e77366a4a3d97fcc5dc670b564449]: Textual amendment: Words in s. 165 substituted (1.4.2015) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [s. 57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2), [Sch. 3 para. 41](https://www.legislation.gov.uk/asp/2014/11/schedule/3/paragraph/41); [S.S.I. 2014/261](https://www.legislation.gov.uk/ssi/2014/261), [art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/ssi/2014/261/article/4), [12](https://www.legislation.gov.uk/ssi/2014/261/article/12)) (as amended by [S.S.I. 2015/54](https://www.legislation.gov.uk/ssi/2015/54), art. 2)
+[^c-987e77366a4a3d97fcc5dc670b564449]: Textual amendment: Words in s. 165 substituted (1.4.2015) by [Bankruptcy and Debt Advice (Scotland) Act 2014 (asp 11)](https://www.legislation.gov.uk/asp/2014/11), [s. 57(2)](https://www.legislation.gov.uk/asp/2014/11/section/57/2), [Sch. 3 para. 41](https://www.legislation.gov.uk/asp/2014/11/schedule/3/paragraph/41); [S.S.I. 2014/261](https://www.legislation.gov.uk/ssi/2014/261), [art. 3](https://www.legislation.gov.uk/ssi/2014/261/article/3) (with [arts. 4-7](https://www.legislation.gov.uk/ssi/2014/261/article/4), [12](https://www.legislation.gov.uk/ssi/2014/261/article/12)) (as amended by [S.S.I. 2015/54](https://www.legislation.gov.uk/ssi/2015/54), art. 2)

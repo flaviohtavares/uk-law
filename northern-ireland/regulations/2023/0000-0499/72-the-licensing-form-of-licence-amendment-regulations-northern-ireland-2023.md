@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred on it by Article 33 of the Licensing (Northern Ireland) Order 1996[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-342df8ecc15e9e0a0f9fae98bb6964d6]
+## 1. Citation and commencement[^c-342df8ecc15e9e0a0f9fae98bb6964d6]
 
 These Regulations may be cited as the Licensing (Form of Licence) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 31st May 2023.
 
-## 2. Amendment to the Licensing (Form of Licence) Regulations (Northern Ireland) 1997[^key-a571a97fba7f90478f9c257854d7518d]
+## 2. Amendment to the Licensing (Form of Licence) Regulations (Northern Ireland) 1997[^c-a571a97fba7f90478f9c257854d7518d]
 
 (1) The Licensing (Form of Licence) Regulations (Northern Ireland) 1997[^f00004] are amended in accordance with paragraphs (2) to (6).
 
@@ -93,8 +93,8 @@ These Regulations also remove references relating to provisions which removed ad
 
 [^f00003]: Footnote: See Article 8(b) of and Part II of Schedule 6 to the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
 
-[^key-342df8ecc15e9e0a0f9fae98bb6964d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/72/regulation/1) in operation at 31.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/72/regulation/1)
+[^c-342df8ecc15e9e0a0f9fae98bb6964d6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2023/72/regulation/1) in operation at 31.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/72/regulation/1)
 
-[^key-a571a97fba7f90478f9c257854d7518d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/72/regulation/2) in operation at 31.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/72/regulation/1)
+[^c-a571a97fba7f90478f9c257854d7518d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2023/72/regulation/2) in operation at 31.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/72/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 20](https://www.legislation.gov.uk/nisr/1997/20) as amended by [S.R. 2004 No. 426](https://www.legislation.gov.uk/nisr/2004/426); [S.R. 2012 No. 22](https://www.legislation.gov.uk/nisr/2012/22); [S.R. 2016 No. 295](https://www.legislation.gov.uk/nisr/2016/295) and [S.R. 2016 No. 317](https://www.legislation.gov.uk/nisr/2016/317)

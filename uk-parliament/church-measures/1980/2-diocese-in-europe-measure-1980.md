@@ -47,7 +47,7 @@ At any time after the diocese incorporating the former diocese of Gibraltar and 
 
 The Church Representation Rules, that is to say, the rules contained in Schedule 3 to the [^c922504]Synodical Goverment Measure 1969, as amended by resolutions of the General Synod passed in accordance with section 7(1) of that Measure, shall have effect subject to the amendments set out in Schedule 2 to this Measure, being amendments which provide for the Diocese to be represented in the House of Laity of the General Synod by two members, the qualification and election of such members and other matters arising out of and incidental to such elections.
 
-## 3. Amendment of Article 8 of Constitution of General Synod.[^key-582326845638348202455b8360c9061c]
+## 3. Amendment of Article 8 of Constitution of General Synod.[^c-582326845638348202455b8360c9061c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -58,7 +58,7 @@ The Church Commissioners shall have power—
 - (a) to pay out of their general fund to the bishop of the Diocese, and to any suffragan bishop appointed to assist the bishop of the Diocese, such a stipend and such annual sum in respect of the expenses incurred by him in connection with the performance of the duties attaching to his office as they think fit; and
 - (b) to provide the bishop of the Diocese with a suitable residence and to assist with the provision of a suitable residence for any such suffragan bishop.
 
-## 5. Extension to the Diocese of Measures, etc. relating to pensions and related benefits.[^key-8a82a30c05ccf950139043de813224aa]
+## 5. Extension to the Diocese of Measures, etc. relating to pensions and related benefits.[^c-8a82a30c05ccf950139043de813224aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -155,9 +155,9 @@ Section 2.
 
 [^c922504]: Marginal citation: [1969 No. 2](https://www.legislation.gov.uk/ukcm/1969/2).
 
-[^key-582326845638348202455b8360c9061c]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukcm/1980/2/section/3) repealed (1.7.2013) by [Diocese in Europe Measure 2013 (No. 1)](https://www.legislation.gov.uk/ukcm/2013/1), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukcm/2013/1/section/2/2/b), [3(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/3/2); [2013 No. 3](https://www.legislation.gov.uk/ukci/2013/3), [art. 3](https://www.legislation.gov.uk/ukci/2013/3/article/3)
+[^c-582326845638348202455b8360c9061c]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukcm/1980/2/section/3) repealed (1.7.2013) by [Diocese in Europe Measure 2013 (No. 1)](https://www.legislation.gov.uk/ukcm/2013/1), [ss. 2(2)(b)](https://www.legislation.gov.uk/ukcm/2013/1/section/2/2/b), [3(2)](https://www.legislation.gov.uk/ukcm/2013/1/section/3/2); [2013 No. 3](https://www.legislation.gov.uk/ukci/2013/3), [art. 3](https://www.legislation.gov.uk/ukci/2013/3/article/3)
 
-[^key-8a82a30c05ccf950139043de813224aa]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukcm/1980/2/section/5) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-8a82a30c05ccf950139043de813224aa]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukcm/1980/2/section/5) repealed (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [s. 61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) (with [Sch. 4](https://www.legislation.gov.uk/ukcm/2018/9/schedule/4)); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c922511]: Marginal citation: [1967 No. 3](https://www.legislation.gov.uk/ukcm/1967/3).
 

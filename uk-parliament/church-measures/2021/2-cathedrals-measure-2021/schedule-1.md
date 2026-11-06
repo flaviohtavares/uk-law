@@ -49,7 +49,7 @@ Section 2(5)
 
 (8) At least two-thirds of the non-executive members must be lay persons.
 
-(9)[^key-37af66e1290a0631c1a611fc60255574] The reference in sub-paragraph (1) to the residentiary canons of the cathedral includes a reference to any lay residentiary canon of the cathedral; and a lay residentiary canon who carries out cathedral duties is accordingly an executive member, except in so far as the constitution provides otherwise.
+(9)[^c-37af66e1290a0631c1a611fc60255574] The reference in sub-paragraph (1) to the residentiary canons of the cathedral includes a reference to any lay residentiary canon of the cathedral; and a lay residentiary canon who carries out cathedral duties is accordingly an executive member, except in so far as the constitution provides otherwise.
 
 ### Eligibility, etc.
 
@@ -158,4 +158,4 @@ Section 2(5)
 
 ## Annotations
 
-[^key-37af66e1290a0631c1a611fc60255574]: Textual amendment: [Sch. 1 para. 1(9)](https://www.legislation.gov.uk/ukcm/2021/2/schedule/1/paragraph/1/9) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/26)
+[^c-37af66e1290a0631c1a611fc60255574]: Textual amendment: [Sch. 1 para. 1(9)](https://www.legislation.gov.uk/ukcm/2021/2/schedule/1/paragraph/1/9) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/26)

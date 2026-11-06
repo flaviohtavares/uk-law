@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279A. Corporation tax rates on ring fence profits[^key-1ef3ee755b0a762d132ac36869e8ff08]
+## 279A. Corporation tax rates on ring fence profits[^c-1ef3ee755b0a762d132ac36869e8ff08]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Corporation tax is charged at the small ring fence profits rate on a company's ring fence profits of an accounting period if—
 
 - (a) the company is UK resident in the accounting period,
-- (ab)[^key-84cae67d5a4b2021793d096326b2e11f] it is not a close investment-holding company in the period, and
+- (ab)[^c-84cae67d5a4b2021793d096326b2e11f] it is not a close investment-holding company in the period, and
 - (b) its augmented profits of the accounting period do not exceed the lower limit.
 
 (4) In this Act—
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef3ee755b0a762d132ac36869e8ff08]: Textual amendment: Pt. 8 Ch. 3A inserted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/5/3)
+[^c-1ef3ee755b0a762d132ac36869e8ff08]: Textual amendment: Pt. 8 Ch. 3A inserted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/5/3)
 
-[^key-84cae67d5a4b2021793d096326b2e11f]: Textual amendment: [S. 279A(3)(ab)](https://www.legislation.gov.uk/ukpga/2010/4/section/279A/3/ab) inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/5)
+[^c-84cae67d5a4b2021793d096326b2e11f]: Textual amendment: [S. 279A(3)(ab)](https://www.legislation.gov.uk/ukpga/2010/4/section/279A/3/ab) inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/5)

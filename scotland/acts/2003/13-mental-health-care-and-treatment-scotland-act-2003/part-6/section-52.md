@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Revocation of short-term detention certificate or extension certificate: notification[^key-8129eaea97f959208f52613af655feff]
+## 52. Revocation of short-term detention certificate or extension certificate: notification[^c-8129eaea97f959208f52613af655feff]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ Where the Commission revokes a certificate under section 51 of this Act, it shal
 
 ## Annotations
 
-[^key-8129eaea97f959208f52613af655feff]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2003/13/section/52) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-8129eaea97f959208f52613af655feff]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2003/13/section/52) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

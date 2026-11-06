@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Judicial Complaints Reviewer[^key-f960fb71eccd0bfd90a910278f02e330]
+## 30. Judicial Complaints Reviewer[^c-f960fb71eccd0bfd90a910278f02e330]
 
 *Extent: S*
 
@@ -43,10 +43,10 @@ summary: ''
 - (f) a civil servant,
 - (g) a person who is, or has been, a judicial office holder, or
 - (h) a solicitor, advocate or barrister (in any case whether practising or not).
-- (i)[^key-ea437be0275b24f0897c90a345257926] an ordinary or legal member of either or both of the Scottish Tribunals by virtue of section 15 or 16 of the Tribunals (Scotland) Act 2014.
+- (i)[^c-ea437be0275b24f0897c90a345257926] an ordinary or legal member of either or both of the Scottish Tribunals by virtue of section 15 or 16 of the Tribunals (Scotland) Act 2014.
 
 ## Annotations
 
-[^key-f960fb71eccd0bfd90a910278f02e330]: Commencement: S. 30 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
+[^c-f960fb71eccd0bfd90a910278f02e330]: Commencement: S. 30 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-ea437be0275b24f0897c90a345257926]: Textual amendment: [S. 30(5)(i)](https://www.legislation.gov.uk/asp/2008/6/section/30/5/i) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/3) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-ea437be0275b24f0897c90a345257926]: Textual amendment: [S. 30(5)(i)](https://www.legislation.gov.uk/asp/2008/6/section/30/5/i) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(3)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/3) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Fish Labelling (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-07b61deab58d323ae6c2f118703ddefd]
+The Fish Labelling (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-07b61deab58d323ae6c2f118703ddefd]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 6th April 2006
 
-[^key-07b61deab58d323ae6c2f118703ddefd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07b61deab58d323ae6c2f118703ddefd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-07b61deab58d323ae6c2f118703ddefd]
+## 1. Citation and commencement[^c-07b61deab58d323ae6c2f118703ddefd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fish Labelling Regulations (Northern Ireland) 2003[^key-07b61deab58d323ae6c2f118703ddefd]
+## 2. Amendment of the Fish Labelling Regulations (Northern Ireland) 2003[^c-07b61deab58d323ae6c2f118703ddefd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-07b61deab58d323ae6c2f118703ddefd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07b61deab58d323ae6c2f118703ddefd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-07b61deab58d323ae6c2f118703ddefd]
+## SCHEDULE[^c-07b61deab58d323ae6c2f118703ddefd]
 
-> **SCHEDULE — COMMERCIAL DESIGNATIONS[^key-07b61deab58d323ae6c2f118703ddefd]**
+> **SCHEDULE — COMMERCIAL DESIGNATIONS[^c-07b61deab58d323ae6c2f118703ddefd]**
 >
 > Regulation 4
 >
-> **1.**[^key-07b61deab58d323ae6c2f118703ddefd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-07b61deab58d323ae6c2f118703ddefd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-07b61deab58d323ae6c2f118703ddefd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-07b61deab58d323ae6c2f118703ddefd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-07b61deab58d323ae6c2f118703ddefd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-07b61deab58d323ae6c2f118703ddefd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-07b61deab58d323ae6c2f118703ddefd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-07b61deab58d323ae6c2f118703ddefd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07b61deab58d323ae6c2f118703ddefd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/116) revoked (6.4.2010) by [The Fish Labelling Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/54)](https://www.legislation.gov.uk/nisr/2010/54), [regs. 1](https://www.legislation.gov.uk/nisr/2010/54/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2010/54/regulation/11/b)
+[^c-07b61deab58d323ae6c2f118703ddefd]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/116) revoked (6.4.2010) by [The Fish Labelling Regulations (Northern Ireland) 2010 (revoked) 2010 (S.R. 2010/54)](https://www.legislation.gov.uk/nisr/2010/54), [regs. 1](https://www.legislation.gov.uk/nisr/2010/54/regulation/1), [11(b)](https://www.legislation.gov.uk/nisr/2010/54/regulation/11/b)

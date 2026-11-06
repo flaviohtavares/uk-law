@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (North Atlantic Salmon Conservation Organization) Order 1985 (revoked)[^key-46e5d100c58e7902d032e675abc4784e]
+The European Communities (Definition of Treaties) (North Atlantic Salmon Conservation Organization) Order 1985 (revoked)[^c-46e5d100c58e7902d032e675abc4784e]
 
 Laid before Parliament in draft
 
@@ -43,24 +43,24 @@ Coming into Operation
 
 19th November 1985
 
-[^key-46e5d100c58e7902d032e675abc4784e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e5d100c58e7902d032e675abc4784e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-46e5d100c58e7902d032e675abc4784e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-46e5d100c58e7902d032e675abc4784e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-46e5d100c58e7902d032e675abc4784e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-46e5d100c58e7902d032e675abc4784e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46e5d100c58e7902d032e675abc4784e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e5d100c58e7902d032e675abc4784e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-46e5d100c58e7902d032e675abc4784e]
+## SCHEDULE[^c-46e5d100c58e7902d032e675abc4784e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46e5d100c58e7902d032e675abc4784e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46e5d100c58e7902d032e675abc4784e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46e5d100c58e7902d032e675abc4784e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1985/1772) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46e5d100c58e7902d032e675abc4784e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1985/1772) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

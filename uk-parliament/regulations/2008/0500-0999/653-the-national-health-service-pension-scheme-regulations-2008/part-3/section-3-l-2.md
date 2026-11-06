@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.L.2. Nominations and notices accepted by the Secretary of State under the 1995 Regulations and Chapter 3.E of these Regulations[^key-5a75d7fe3bf61d57fc23850805d2825d][^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.L.2. Nominations and notices accepted by the Secretary of State under the 1995 Regulations and Chapter 3.E of these Regulations[^c-5a75d7fe3bf61d57fc23850805d2825d][^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 - (a) a nomination made in accordance with regulation F5 of the 1995 Regulations (payment of lump sum) in favour of one or more persons in respect of any lump sum that becomes payable under regulations F1 to F4 of those Regulations (which deal with lump sum payments on the death of a member in different circumstances);
 - (b) a notice provided for the purposes of paragraph (3)(a) of regulation F5 of the 1995 Regulations that the person’s surviving partner (within the meaning of that regulation) is not to receive the payment of any lump sum that becomes payable under regulations F1 to F4 of those Regulations;
-- (c)[^key-0dce63854a8ea071a4ecaa254f09ac01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0dce63854a8ea071a4ecaa254f09ac01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purpose of this Section of the Scheme a nomination or notice referred to in paragraph (1)(a) shall be treated—
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a75d7fe3bf61d57fc23850805d2825d]: Textual amendment: [Ch. 3.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/3L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2010/492/regulation/52)
+[^c-5a75d7fe3bf61d57fc23850805d2825d]: Textual amendment: [Ch. 3.L](https://www.legislation.gov.uk/uksi/2008/653/chapter/3L) inserted (1.4.2010) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2010 (S.I. 2010/492)](https://www.legislation.gov.uk/uksi/2010/492), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/492/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2010/492/regulation/52)
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-0dce63854a8ea071a4ecaa254f09ac01]: Textual amendment: [Reg. 3.L.2(2)(c)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.L.2/2/c) omitted (with effect from 1.4.2010) by virtue of [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/7), [75](https://www.legislation.gov.uk/uksi/2019/418/regulation/75) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))
+[^c-0dce63854a8ea071a4ecaa254f09ac01]: Textual amendment: [Reg. 3.L.2(2)(c)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.L.2/2/c) omitted (with effect from 1.4.2010) by virtue of [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(7)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/7), [75](https://www.legislation.gov.uk/uksi/2019/418/regulation/75) (with [reg. 108](https://www.legislation.gov.uk/uksi/2019/418/regulation/108))

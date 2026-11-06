@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Register for child welfare reporters[^key-9cb112da42d98f40b24aeca8ec1d2dc5]
+## 101A. Register for child welfare reporters[^c-9cb112da42d98f40b24aeca8ec1d2dc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cb112da42d98f40b24aeca8ec1d2dc5]: Textual amendment: S. 101A inserted (25.10.2021 for specified purposes) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 9(2)](https://www.legislation.gov.uk/asp/2020/16/section/9/2), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/b)
+[^c-9cb112da42d98f40b24aeca8ec1d2dc5]: Textual amendment: S. 101A inserted (25.10.2021 for specified purposes) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 9(2)](https://www.legislation.gov.uk/asp/2020/16/section/9/2), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2021/339](https://www.legislation.gov.uk/ssi/2021/339), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/339/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85B. Assumptions to be made about nutrient pollution standards: general development orders[^key-9830389024fe1c2ad612a1d22446c7fd]
+## 85B. Assumptions to be made about nutrient pollution standards: general development orders[^c-9830389024fe1c2ad612a1d22446c7fd]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9830389024fe1c2ad612a1d22446c7fd]: Textual amendment: [Regs. 85A-85D](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-9830389024fe1c2ad612a1d22446c7fd]: Textual amendment: [Regs. 85A-85D](https://www.legislation.gov.uk/uksi/2017/1012/regulation/85A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/11) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

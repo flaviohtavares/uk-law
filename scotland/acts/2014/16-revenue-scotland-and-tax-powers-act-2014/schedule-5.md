@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — Index of defined expressions[^key-306c1c7fb1638afa4f609694b2d19b6e]
+## SCHEDULE 5 — Index of defined expressions[^c-306c1c7fb1638afa4f609694b2d19b6e]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 | *Expression* | *Interpretation provision* |
 | --- | --- |
-| AT(S) Act 2024[^key-3a0d06d74ad24a0e7705fbf57c178f66] | section 252 |
+| AT(S) Act 2024[^c-3a0d06d74ad24a0e7705fbf57c178f66] | section 252 |
 | LBTT(S) Act 2013 | section 252 |
 | LT(S) Act 2014 | section 252 |
 | appealable decision | section 233 |
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-306c1c7fb1638afa4f609694b2d19b6e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/5) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-306c1c7fb1638afa4f609694b2d19b6e]: Commencement: [Sch. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/5) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-3a0d06d74ad24a0e7705fbf57c178f66]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/5) inserted (1.12.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 52(3)](https://www.legislation.gov.uk/asp/2024/14/section/52/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/243](https://www.legislation.gov.uk/ssi/2025/243), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/243/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/243/schedule/2)
+[^c-3a0d06d74ad24a0e7705fbf57c178f66]: Textual amendment: Words in [sch. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/5) inserted (1.12.2025) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 52(3)](https://www.legislation.gov.uk/asp/2024/14/section/52/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/243](https://www.legislation.gov.uk/ssi/2025/243), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2025/243/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2025/243/schedule/2)

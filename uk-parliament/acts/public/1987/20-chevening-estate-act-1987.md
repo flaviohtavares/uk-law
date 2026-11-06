@@ -75,7 +75,7 @@ shall, in relation to any time on or after the appointed day, be construed as a 
 
 In consequence of the provisions of this Act, section 2 of the Chevening Estate Act 1959 (tax provisions) shall have effect on and after the appointed day with the following amendments—
 
-- (a)[^key-2064b84b136efcea853864d597c8ffa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2064b84b136efcea853864d597c8ffa4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (8) (relief from stamp duty) paragraph (b) is hereby repealed and in paragraph (c) for the words “the Bank or the administrative trustees” there shall be substituted the words “ the Board ”; and
 - (c) in subsection (10) (definitions) for the words “ “the Bank”, “the administrative trustees”” there shall be substituted the words “the Board” .
 
@@ -328,7 +328,7 @@ Section 3(1).
 
 [^c789067]: Marginal citation: [1959 c. 49](https://www.legislation.gov.uk/ukpga/1959/49).
 
-[^key-2064b84b136efcea853864d597c8ffa4]: Textual amendment: [S. 4(a)](https://www.legislation.gov.uk/ukpga/1987/20/section/4/a) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-2064b84b136efcea853864d597c8ffa4]: Textual amendment: [S. 4(a)](https://www.legislation.gov.uk/ukpga/1987/20/section/4/a) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c789068]: Modification: Power of appointment conferred by s. 5(2) fully exercised: 1.9.1987 appointed by [S.I. 1987/1254](https://www.legislation.gov.uk/uksi/1987/1254)
 

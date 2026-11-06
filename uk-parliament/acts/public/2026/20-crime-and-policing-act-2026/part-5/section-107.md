@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Pornographic images of sexual activity with child under 16[^key-495b0f3d849522bd7e82a8400e894048]
+## 107. Pornographic images of sexual activity with child under 16[^c-495b0f3d849522bd7e82a8400e894048]
 
 *Extent: E+W+S+N.I.*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-495b0f3d849522bd7e82a8400e894048]: Commencement: S. 107 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-495b0f3d849522bd7e82a8400e894048]: Commencement: S. 107 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

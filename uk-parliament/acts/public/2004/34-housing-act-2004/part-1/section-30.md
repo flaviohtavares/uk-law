@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-dc651f85d47ef6443609fc7a448f9535] Where an improvement notice has become operative, the person on whom the notice was served commits an offence if he fails to comply with it.
+(1)[^c-dc651f85d47ef6443609fc7a448f9535] Where an improvement notice has become operative, the person on whom the notice was served commits an offence if he fails to comply with it.
 
 (2) For the purposes of this Chapter compliance with an improvement notice means, in relation to each hazard, beginning and completing any remedial action specified in the notice—
 
@@ -36,7 +36,7 @@ summary: ''
 
 (6) In this section any reference to any remedial action specified in a notice includes a reference to any part of any remedial action which is required to be completed within a particular period specified in the notice.
 
-(7)[^key-584e5a5d4f6d1d72ee12d015d4cb557c] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+(7)[^c-584e5a5d4f6d1d72ee12d015d4cb557c] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 
 (8) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c2051114]: Commencement: S. 30 wholly in force at 16.6.2006; s. 30 not in force at Royal Assent see s. 270(4)(5); s. 30 in force for E. at 6.4.2006 by [S. I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 30 in force for W. at 16.6.2006 by [S. I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-dc651f85d47ef6443609fc7a448f9535]: Modification: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/30/1) modified (6.4.2017 for specified purposes, 6.4.2018 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/40/4), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/281/regulation/5)); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-dc651f85d47ef6443609fc7a448f9535]: Modification: [S. 30(1)](https://www.legislation.gov.uk/ukpga/2004/34/section/30/1) modified (6.4.2017 for specified purposes, 6.4.2018 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2016/22/section/40/4), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/281/regulation/5)); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
 
-[^key-584e5a5d4f6d1d72ee12d015d4cb557c]: Textual amendment: [S. 30(7)](https://www.legislation.gov.uk/ukpga/2004/34/section/30/7)[(8)](https://www.legislation.gov.uk/ukpga/2004/34/section/30/8) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/2); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-584e5a5d4f6d1d72ee12d015d4cb557c]: Textual amendment: [S. 30(7)](https://www.legislation.gov.uk/ukpga/2004/34/section/30/7)[(8)](https://www.legislation.gov.uk/ukpga/2004/34/section/30/8) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/2); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)

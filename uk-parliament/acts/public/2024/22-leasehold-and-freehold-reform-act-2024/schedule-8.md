@@ -26,7 +26,7 @@ Section 45
 
 ### Part 1 — LRA 1967 and LRHUDA 1993: general
 
-#### 1. Repeal of section 18 of the LRHUDA 1993[^key-050090404ac18f5a4638eef898d145b9]
+#### 1. Repeal of section 18 of the LRHUDA 1993[^c-050090404ac18f5a4638eef898d145b9]
 
 (1) The LRHUDA 1993 is amended as follows.
 
@@ -37,7 +37,7 @@ Section 45
 - (a) in section 32 (determination of price for collective enfranchisement), omit subsection (2)(b) and the “and” preceding it;
 - (b) in section 91 (jurisdiction of tribunals), omit subsection (2)(c).
 
-#### 2. Application of security of tenure provisions to extended leases[^key-51b14f821ad3abb1e9f16cc7425e6fe8]
+#### 2. Application of security of tenure provisions to extended leases[^c-51b14f821ad3abb1e9f16cc7425e6fe8]
 
 (1) In section 16 of the LRA 1967 (rights after extension)—
 
@@ -46,13 +46,13 @@ Section 45
 
 (2) In section 59 of the LRHUDA 1993 (rights after extension), omit subsection (2).
 
-#### 3. Required statements in extended leases[^key-8ae23488c16eaf675b7ca436388e68dc]
+#### 3. Required statements in extended leases[^c-8ae23488c16eaf675b7ca436388e68dc]
 
 (1) In section 16 of the LRA 1967 (rights after extension), omit subsections (6) to (8).
 
 (2) In section 59 of the LRHUDA 1993 (rights after extension), omit subsections (4) and (5).
 
-#### 4. Redevelopment break rights in extended leases[^key-a0feffc7f8a070f43ab8aeb42f7d2394]
+#### 4. Redevelopment break rights in extended leases[^c-a0feffc7f8a070f43ab8aeb42f7d2394]
 
 (1) In section 17 of the LRA 1967 (redevelopment rights)—
 
@@ -89,7 +89,7 @@ Section 45
   ;
 - (c) in subsection (3), for “the term date”, in the first place it occurs, substitute “a break date”.
 
-#### 5. Consequential amendments to the LRA 1967[^key-827f80f0281d0d8ed25bc3eb145791d0]
+#### 5. Consequential amendments to the LRA 1967[^c-827f80f0281d0d8ed25bc3eb145791d0]
 
 (1) The LRA 1967 is amended as follows.
 
@@ -100,11 +100,11 @@ Section 45
 
 (3) In section 23(5)(b) (terms of extended tenancy), for “section 16(1) to (6)” substitute “section 16(1B)”.
 
-#### 6. Repeal of obsolete provision in section 19 of the LRA 1967[^key-2d0cbf623c46d87fbbc55f41099b3d99]
+#### 6. Repeal of obsolete provision in section 19 of the LRA 1967[^c-2d0cbf623c46d87fbbc55f41099b3d99]
 
 In section 19 of the LRA 1967 (retention of management powers for general benefit of neighbourhood), omit subsections (14) and (15).
 
-#### 7. Orders and regulations under the LRA 1967[^key-f0bbc2ca6c395dba8c05afb83eff275f]
+#### 7. Orders and regulations under the LRA 1967[^c-f0bbc2ca6c395dba8c05afb83eff275f]
 
 (1) The LRA 1967 is amended as follows.
 
@@ -127,7 +127,7 @@ In section 19 of the LRA 1967 (retention of management powers for general benefi
 
 .
 
-#### 8. Reduction of rent under intermediate leases[^key-fc795773f3d47928a20cf0c7a7dee39f]
+#### 8. Reduction of rent under intermediate leases[^c-fc795773f3d47928a20cf0c7a7dee39f]
 
 (1) Schedule 1 to the LRA 1967 (enfranchisement and extension by sub-tenants) is amended as follows.
 
@@ -200,7 +200,7 @@ In section 19 of the LRA 1967 (retention of management powers for general benefi
 >   - (b) in relation to a qualifying intermediate lease, a reduction resulting from this paragraph;
 > - “**relevant rent**” means rent that has been, or would properly be, apportioned to the whole or a part of the house and premises.
 
-**9.**[^key-c5b66801c4299c723079d08de317b143] In Schedule 11 to the LRHUDA 1993 (procedure where competent landlord is not tenant’s immediate landlord), after paragraph 11 insert—
+**9.**[^c-c5b66801c4299c723079d08de317b143] In Schedule 11 to the LRHUDA 1993 (procedure where competent landlord is not tenant’s immediate landlord), after paragraph 11 insert—
 
 > **Part 3 — Reduction of rent under intermediate leases**
 >
@@ -267,11 +267,11 @@ In section 19 of the LRA 1967 (retention of management powers for general benefi
 
 ### Part 2 — Shared ownership leases and the LRA 1967
 
-#### 10. Amendment of the LRA 1967[^key-d56b9deb96dc3fdce7ed2b45279b1e6c]
+#### 10. Amendment of the LRA 1967[^c-d56b9deb96dc3fdce7ed2b45279b1e6c]
 
 The LRA 1967 is amended in accordance with this Part of this Schedule.
 
-#### 11. Repeal of exclusions of shared ownership leases from Part 1 of the LRA 1967[^key-0e416f50ec9853d984eb793cc4bf3200]
+#### 11. Repeal of exclusions of shared ownership leases from Part 1 of the LRA 1967[^c-0e416f50ec9853d984eb793cc4bf3200]
 
 (1) In section 1 (tenants entitled to enfranchisement or extension), omit subsection (1A).
 
@@ -279,7 +279,7 @@ The LRA 1967 is amended in accordance with this Part of this Schedule.
 
 (3) Omit section 33A and Schedule 4A (exclusion of certain shared ownership leases).
 
-#### 12. Rateable value limits and low rent tests not to apply to shared ownership leases[^key-09fbcb14ab19ec9b077c94d071629608]
+#### 12. Rateable value limits and low rent tests not to apply to shared ownership leases[^c-09fbcb14ab19ec9b077c94d071629608]
 
 In section 1 (tenants entitled to enfranchisement or extension), after subsection (6) insert—
 
@@ -288,7 +288,7 @@ In section 1 (tenants entitled to enfranchisement or extension), after subsectio
 > - (a) any requirement for the tenancy to be at a low rent;
 > - (b) any requirement in subsection (1)(a)(i) or (ii) for the house and premises or the tenancy to be above a certain value.
 
-#### 13. No right of enfranchisement for certain shared ownership leases[^key-fccfb827b5235117a362c93b1ede2f24]
+#### 13. No right of enfranchisement for certain shared ownership leases[^c-fccfb827b5235117a362c93b1ede2f24]
 
 Before section 36 insert—
 
@@ -323,7 +323,7 @@ Before section 36 insert—
 >
 > (9) In this section “**demised premises**” means the premises demised under the shared ownership lease.
 
-#### 14. Inclusion of terms for sharing staircasing payments[^key-41b311240772f27223808ce0b9c78dee]
+#### 14. Inclusion of terms for sharing staircasing payments[^c-41b311240772f27223808ce0b9c78dee]
 
 In Schedule 1 (enfranchisement and extension by sub-tenants), after paragraph 12A insert—
 
@@ -366,7 +366,7 @@ In Schedule 1 (enfranchisement and extension by sub-tenants), after paragraph 12
 > - “**staircasing loss**”, in relation to a staircasing payment, means the loss that a landlord incurs because of the increase in the tenant’s share in the shared ownership premises to which the staircasing payment relates;
 > - “**staircasing payment**” means a payment made by the tenant under the new shared ownership lease to their immediate landlord in consideration of an increase in the tenant’s share in the shared ownership premises.
 
-#### 15. Meaning of “shared ownership lease”[^key-e903c6889e1f76ae9731e0ac52bc15f0]
+#### 15. Meaning of “shared ownership lease”[^c-e903c6889e1f76ae9731e0ac52bc15f0]
 
 In section 37(1) (interpretation of Part 1)—
 
@@ -386,11 +386,11 @@ In section 37(1) (interpretation of Part 1)—
 
 ### Part 3 — Shared ownership leases and the LRHUDA 1993
 
-#### 16. Amendment of the LRHUDA 1993[^key-8070314d4aa73795b0f54b30cb6d0025]
+#### 16. Amendment of the LRHUDA 1993[^c-8070314d4aa73795b0f54b30cb6d0025]
 
 The LRHUDA 1993 is amended in accordance with this Part of this Schedule.
 
-#### 17. Repeal of special provision for shared ownership leases in definition of “long lease”[^key-b94bc8b1407ae87520aae6f52144bb58]
+#### 17. Repeal of special provision for shared ownership leases in definition of “long lease”[^c-b94bc8b1407ae87520aae6f52144bb58]
 
 In section 7 (definition of “long lease”)—
 
@@ -398,7 +398,7 @@ In section 7 (definition of “long lease”)—
 - (b) omit subsection (1)(d);
 - (c) in subsection (7), omit the definitions of “shared ownership lease” and “total share”.
 
-#### 18. No right to collective enfranchisement for certain shared ownership leases[^key-a80adfb9a3dfec6a155f2a9bcb241938]
+#### 18. No right to collective enfranchisement for certain shared ownership leases[^c-a80adfb9a3dfec6a155f2a9bcb241938]
 
 (1) In section 5 (qualifying tenants), after subsection (2)(c) insert “or
 
@@ -436,15 +436,15 @@ In section 7 (definition of “long lease”)—
 
 .
 
-#### 19. Tenant under shared ownership lease to have right to new lease[^key-02afeab956d6d1ac2ec25b39ef2c573e]
+#### 19. Tenant under shared ownership lease to have right to new lease[^c-02afeab956d6d1ac2ec25b39ef2c573e]
 
 In section 39(3)(a) (definition of qualifying tenant: application of section 5), after “subsections” insert “(2)(d),”.
 
-#### 20. Consequential amendment[^key-c334a66cb5f483c9c506ee8a47749974]
+#### 20. Consequential amendment[^c-c334a66cb5f483c9c506ee8a47749974]
 
 In section 77(2)(b) (qualifying tenants for audit rights), for “that section” substitute “section 101”.
 
-#### 21. Collective enfranchisement: mandatory leaseback[^key-eb2b4ba4edb972e3cbf37916a6d3a5a3]
+#### 21. Collective enfranchisement: mandatory leaseback[^c-eb2b4ba4edb972e3cbf37916a6d3a5a3]
 
 In Schedule 9 (grant of leases back to the former freeholder), after paragraph 3 insert—
 
@@ -464,7 +464,7 @@ In Schedule 9 (grant of leases back to the former freeholder), after paragraph 3
 >
 > (4) In this paragraph any reference to a flat includes a reference to a unit (other than a flat) which is used as a dwelling.
 
-#### 22. Inclusion of terms for sharing staircasing payments[^key-299ab35559ba19ad3b81ce5cc0c80835]
+#### 22. Inclusion of terms for sharing staircasing payments[^c-299ab35559ba19ad3b81ce5cc0c80835]
 
 In Schedule 11 (procedure where competent landlord is not tenant’s immediate landlord), after paragraph 10 insert—
 
@@ -507,7 +507,7 @@ In Schedule 11 (procedure where competent landlord is not tenant’s immediate l
 > - “**staircasing loss**”, in relation to a staircasing payment, means the loss that a landlord incurs because of the increase in the tenant’s share in the shared ownership premises to which the staircasing payment relates;
 > - “**staircasing payment**” means a payment made by the tenant under the new shared ownership lease to their immediate landlord in consideration of an increase in the tenant’s share in the shared ownership premises.
 
-#### 23. Meaning of “shared ownership lease”[^key-4bb05b9e8c96d1582410ba9792d23e14]
+#### 23. Meaning of “shared ownership lease”[^c-4bb05b9e8c96d1582410ba9792d23e14]
 
 In section 101(1) (general interpretation of Part 1)—
 
@@ -527,7 +527,7 @@ In section 101(1) (general interpretation of Part 1)—
 
 ### Part 4 — Other legislation
 
-#### 24. Provision about “RTE companies”[^key-60522463e66d887e6a8c67ae008530a8]
+#### 24. Provision about “RTE companies”[^c-60522463e66d887e6a8c67ae008530a8]
 
 Omit these provisions of the CLRA 2002 (which would have required a freehold to be acquired by an RTE company on a collective enfranchisement)—
 
@@ -536,50 +536,50 @@ Omit these provisions of the CLRA 2002 (which would have required a freehold to 
 
 ## Annotations
 
-[^key-050090404ac18f5a4638eef898d145b9]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-050090404ac18f5a4638eef898d145b9]: Commencement: Sch. 8 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-51b14f821ad3abb1e9f16cc7425e6fe8]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-51b14f821ad3abb1e9f16cc7425e6fe8]: Commencement: Sch. 8 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-8ae23488c16eaf675b7ca436388e68dc]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8ae23488c16eaf675b7ca436388e68dc]: Commencement: Sch. 8 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a0feffc7f8a070f43ab8aeb42f7d2394]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a0feffc7f8a070f43ab8aeb42f7d2394]: Commencement: Sch. 8 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-827f80f0281d0d8ed25bc3eb145791d0]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-827f80f0281d0d8ed25bc3eb145791d0]: Commencement: Sch. 8 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-2d0cbf623c46d87fbbc55f41099b3d99]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2d0cbf623c46d87fbbc55f41099b3d99]: Commencement: Sch. 8 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f0bbc2ca6c395dba8c05afb83eff275f]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f0bbc2ca6c395dba8c05afb83eff275f]: Commencement: Sch. 8 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-fc795773f3d47928a20cf0c7a7dee39f]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-fc795773f3d47928a20cf0c7a7dee39f]: Commencement: Sch. 8 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c5b66801c4299c723079d08de317b143]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c5b66801c4299c723079d08de317b143]: Commencement: Sch. 8 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d56b9deb96dc3fdce7ed2b45279b1e6c]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d56b9deb96dc3fdce7ed2b45279b1e6c]: Commencement: Sch. 8 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-0e416f50ec9853d984eb793cc4bf3200]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-0e416f50ec9853d984eb793cc4bf3200]: Commencement: Sch. 8 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-09fbcb14ab19ec9b077c94d071629608]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-09fbcb14ab19ec9b077c94d071629608]: Commencement: Sch. 8 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-fccfb827b5235117a362c93b1ede2f24]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-fccfb827b5235117a362c93b1ede2f24]: Commencement: Sch. 8 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-41b311240772f27223808ce0b9c78dee]: Commencement: Sch. 8 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-41b311240772f27223808ce0b9c78dee]: Commencement: Sch. 8 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-e903c6889e1f76ae9731e0ac52bc15f0]: Commencement: Sch. 8 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e903c6889e1f76ae9731e0ac52bc15f0]: Commencement: Sch. 8 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-8070314d4aa73795b0f54b30cb6d0025]: Commencement: Sch. 8 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8070314d4aa73795b0f54b30cb6d0025]: Commencement: Sch. 8 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b94bc8b1407ae87520aae6f52144bb58]: Commencement: Sch. 8 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-b94bc8b1407ae87520aae6f52144bb58]: Commencement: Sch. 8 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-a80adfb9a3dfec6a155f2a9bcb241938]: Commencement: Sch. 8 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-a80adfb9a3dfec6a155f2a9bcb241938]: Commencement: Sch. 8 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-02afeab956d6d1ac2ec25b39ef2c573e]: Commencement: Sch. 8 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-02afeab956d6d1ac2ec25b39ef2c573e]: Commencement: Sch. 8 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-c334a66cb5f483c9c506ee8a47749974]: Commencement: Sch. 8 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-c334a66cb5f483c9c506ee8a47749974]: Commencement: Sch. 8 para. 20 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-eb2b4ba4edb972e3cbf37916a6d3a5a3]: Commencement: Sch. 8 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-eb2b4ba4edb972e3cbf37916a6d3a5a3]: Commencement: Sch. 8 para. 21 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-299ab35559ba19ad3b81ce5cc0c80835]: Commencement: Sch. 8 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-299ab35559ba19ad3b81ce5cc0c80835]: Commencement: Sch. 8 para. 22 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-4bb05b9e8c96d1582410ba9792d23e14]: Commencement: Sch. 8 para. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4bb05b9e8c96d1582410ba9792d23e14]: Commencement: Sch. 8 para. 23 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-60522463e66d887e6a8c67ae008530a8]: Commencement: Sch. 8 para. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-60522463e66d887e6a8c67ae008530a8]: Commencement: Sch. 8 para. 24 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

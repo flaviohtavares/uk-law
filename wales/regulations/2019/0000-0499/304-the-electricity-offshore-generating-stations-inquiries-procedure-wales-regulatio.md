@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 36(8A), 36C(2) and (6) and 60 of the Electricity Act 1989 [^c23593501], make the following Regulations:
 
-## 1. Title, commencement and application[^key-186f1a830f9023bdf5b9e48955c4fe09]
+## 1. Title, commencement and application[^c-186f1a830f9023bdf5b9e48955c4fe09]
 
 (1) The title of these Regulations is the Electricity (Offshore Generating Stations) (Inquiries Procedure) (Wales) Regulations 2019 and they come into force on 1 April 2019.
 
 (2) These Regulations apply in relation to any inquiry caused by the Welsh Ministers to be held on or after 1 April 2019 into an application or variation application.
 
-## 2. Interpretation[^key-f98d5c6e0812f4c693ca51f0db42a21b]
+## 2. Interpretation[^c-f98d5c6e0812f4c693ca51f0db42a21b]
 
 (1) In these Regulations—
 
@@ -65,7 +65,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 36(
 - “**by local advertisement**” (“***drwy hysbyseb leol***”) in relation to a notice, means by publication of the notice in at least one newspaper such that the notice is likely to come to the attention of those likely to be affected by the consent applied for if given;
 - “**document**” (“***dogfen***”) includes a photograph, map or plan;
 - “**electronic communication**” (“***cyfathrebiad electronig***”) has the same meaning as in section 15(1) of the Electronic Communications Act 2000 [^c23593571];
-- “[^key-91dfb78babd6976f5cdd011549b01abb]**infrastructure consent development**” (“***datblygiad cydsyniad seilwaith***”) means any development in respect of which an applicant is applying for consent in accordance with the provisions of the Infrastructure (Wales) Act 2024;
+- “[^c-91dfb78babd6976f5cdd011549b01abb]**infrastructure consent development**” (“***datblygiad cydsyniad seilwaith***”) means any development in respect of which an applicant is applying for consent in accordance with the provisions of the Infrastructure (Wales) Act 2024;
 - “**inquiry**” (“***ymchwiliad***”) means an inquiry in relation to which these Regulations apply; and where an inquiry is conducted by means of concurrent sessions, it includes any such session;
 - “**inspector**” (“***arolygydd***”) includes a lead inspector and an additional inspector;
 - “**interested authority**” (“***awdurdod â buddiant***”) means any local planning authority in Wales upon whom the applicant has served notice of the application in accordance with regulation 5 of the Applications for Consent Regulations;
@@ -75,8 +75,8 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 36(
 - “**outline statement**” (“***datganiad amlinellol***”) means a written statement of the principal submissions which a person proposes to put forward at an inquiry;
 - “**person entitled to appear**” (“***person sydd â hawl i ymddangos***”) means a person described in regulation 17(1), and cognate expressions are to be construed accordingly;
 - “**place**” (“***lle***”) means, unless the context otherwise requires, the place to which an inquiry relates, that is, the place where—
-  - (a) it is proposed to construct the generating station, where the proposed extension will be or where the station proposed to be operated is situated; [^key-f0f9347edeba78c13b31ab62f351d4a0]...
-  - (b) any section 90 development will be situated ; and[^key-e44622c45901eb25887afdb39356a80f]
+  - (a) it is proposed to construct the generating station, where the proposed extension will be or where the station proposed to be operated is situated; [^c-f0f9347edeba78c13b31ab62f351d4a0]...
+  - (b) any section 90 development will be situated ; and[^c-e44622c45901eb25887afdb39356a80f]
   - (c) any infrastructure consent development will be situated;
 - “**pre-inquiry meeting**” (“***cyfarfod rhagymchwiliad***”) means a meeting held before an inquiry to consider what may be done with a view to securing that the inquiry is conducted efficiently and expeditiously, and where two or more such meetings are held about the same inquiry, references to the conclusion of a pre-inquiry meeting are references to the conclusion of the final meeting;
 - “**qualifying objector**” (“***gwrthwynebydd cymwys***”) means—
@@ -124,7 +124,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 36(
 - (a) by publication of the notice, or of the details required to be contained in that notice, on a website maintained by the Welsh Ministers; or
 - (b) by publication of a link on a website maintained by the Welsh Ministers to another website on which the notice is published or the details required to be contained in that notice are published.
 
-## 3. Electronic communications[^key-0ade771cd25999dca5ae27070153ee08]
+## 3. Electronic communications[^c-0ade771cd25999dca5ae27070153ee08]
 
 (1) In these Regulations, and in relation to the use of electronic communications for any purpose of these Regulations which is capable of being carried out electronically—
 
@@ -147,7 +147,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 36(
 
 (7) A requirement in these Regulations to send more than one copy of a statement, notice or other document may be complied with by transmitting one copy only of the statement, notice or other document in question.
 
-## 4. Notice by the Welsh Ministers[^key-30c21b42ef2331712ed877fc61334036]
+## 4. Notice by the Welsh Ministers[^c-30c21b42ef2331712ed877fc61334036]
 
 (1) The Welsh Ministers must send the applicant and the relevant planning authority in writing—
 
@@ -159,11 +159,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 36(
 
 (3) Where the Welsh Ministers have modified the statement referred to in paragraph (1)(c) under paragraph (2), they must publish a notice of the modification made on a website.
 
-## 5. Preliminary information to be supplied[^key-d211b924b7e58854d0094d9ae078de90]
+## 5. Preliminary information to be supplied[^c-d211b924b7e58854d0094d9ae078de90]
 
 The Welsh Ministers must as soon as practicable after the issue of a relevant notice inform the applicant and any qualifying planning authority in writing of the name and address of any qualifying objector.
 
-## 6. Registration[^key-fb566e162a5b240e0d7a212945e268d9]
+## 6. Registration[^c-fb566e162a5b240e0d7a212945e268d9]
 
 (1) The Welsh Ministers must as soon as practicable after the issue of a relevant notice send to each person entitled to appear or whom they know to have an interest in the proposal, a copy of the statement sent by the Welsh Ministers under regulation 4(1)(c) and a registration form in the form provided for in paragraph (4).
 
@@ -189,7 +189,7 @@ The Welsh Ministers must as soon as practicable after the issue of a relevant no
 
 (5) The Welsh Ministers must, as soon as practicable after the date by which the registration form must be returned under paragraph (4)(a), circulate each outline statement received by them as mentioned in paragraph (4)(c).
 
-## 7. Additional inspectors[^key-e3930c343af807e88310ac5141072e6d]
+## 7. Additional inspectors[^c-e3930c343af807e88310ac5141072e6d]
 
 (1) At any time after appointing the lead inspector, the Welsh Ministers may direct the lead inspector—
 
@@ -219,7 +219,7 @@ The Welsh Ministers must as soon as practicable after the issue of a relevant no
 
 (8) A direction by the Welsh Ministers under this regulation may be varied or revoked by a subsequent direction.
 
-## 8. Appointment of technical adviser[^key-94769aa70f7c93cfe0687131a1a91f94]
+## 8. Appointment of technical adviser[^c-94769aa70f7c93cfe0687131a1a91f94]
 
 (1) If it appears to the Welsh Ministers that evidence to be given to the inquiry is, or is likely to be, of such technical or scientific nature that the inquiry would be conducted more efficiently and expeditiously if an expert and independent assessment of that evidence were to be made, they may at any time appoint a technical adviser for that purpose.
 
@@ -239,7 +239,7 @@ The Welsh Ministers must as soon as practicable after the issue of a relevant no
 
 (9) The inspector may allow the technical adviser to alter or add to the technical adviser's report so far as may be necessary for the purposes of the inquiry; but the inspector must (if necessary by adjourning the inquiry) give every other person entitled to appear who is appearing at the inquiry an adequate opportunity of considering any such alteration or addition.
 
-## 9. Mediation[^key-dd561f16a7cec0c22c36ff96c609d001]
+## 9. Mediation[^c-dd561f16a7cec0c22c36ff96c609d001]
 
 (1) If it appears to the Welsh Ministers that—
 
@@ -261,7 +261,7 @@ then they may at any time appoint a mediator for that purpose.
 
 (7) The inspector must permit any person entitled to appear to address the inspector on the report referred to in paragraph (6), but the mediator is not to give evidence at the inquiry.
 
-## 10. Procedure for pre-inquiry and other meetings[^key-df6a93179aac954ed1d620b02764d423]
+## 10. Procedure for pre-inquiry and other meetings[^c-df6a93179aac954ed1d620b02764d423]
 
 (1) Subject to paragraph (2), the Welsh Ministers must hold one or more pre-inquiry meetings.
 
@@ -304,7 +304,7 @@ then they may at any time appoint a mediator for that purpose.
 
 (12) Paragraph (7) applies to any meetings held in accordance with paragraph (10).
 
-## 11. Publicity for inspector's notes of pre-inquiry meetings and recommendations[^key-2ff06353b2a158c13a811718c1473fdb]
+## 11. Publicity for inspector's notes of pre-inquiry meetings and recommendations[^c-2ff06353b2a158c13a811718c1473fdb]
 
 (1) As soon as practicable after the end of each pre-inquiry meeting the inspector must prepare a note of the proceedings at that meeting and send a copy of that note to the Welsh Ministers.
 
@@ -312,7 +312,7 @@ then they may at any time appoint a mediator for that purpose.
 
 (3) As soon as practicable after making recommendations to the Welsh Ministers on the matters which the inspector is directed to consider under regulation 7(1)(a) the inspector must circulate a copy of those recommendations.
 
-## 12. Receipt of statements of case etc.[^key-96d1671babf16c4408ba881253dfc6cf]
+## 12. Receipt of statements of case etc.[^c-96d1671babf16c4408ba881253dfc6cf]
 
 (1) The applicant must—
 
@@ -391,7 +391,7 @@ subject to the payment by that person of a reasonable charge.
 
 (16) The Welsh Ministers must, as soon as practicable after receipt, send to the inspector any statement of case, document, or further information or written comments received by them in accordance with this regulation.
 
-## 13. Inquiry timetable[^key-c8f78fe1c8149b9de0d94bcf0f694419]
+## 13. Inquiry timetable[^c-c8f78fe1c8149b9de0d94bcf0f694419]
 
 (1) The inspector must at a pre-inquiry meeting held in accordance with regulation 10—
 
@@ -411,14 +411,14 @@ and must give written notice of the timetable, if any, and date so specified to 
 
 (4) The inspector may at any time vary any timetable arranged under this regulation and any changes to the timetable must be notified to every person entitled to appear.
 
-## 14. Notification of appointment of assessor[^key-df424de857c2577765862fa991e163b8]
+## 14. Notification of appointment of assessor[^c-df424de857c2577765862fa991e163b8]
 
 Where the Welsh Ministers appoint an assessor, they must notify in writing every person entitled to appear of—
 
 - (a) the name of the assessor; and
 - (b) the matters on which the assessor is to advise the inspector.
 
-## 15. Date and notification of inquiry[^key-b2147fab14a01aa93a25d777deb6fff9]
+## 15. Date and notification of inquiry[^c-b2147fab14a01aa93a25d777deb6fff9]
 
 (1) Subject to paragraph (2), the date fixed by the Welsh Ministers for the holding of an inquiry must be no later than—
 
@@ -443,22 +443,22 @@ Where the Welsh Ministers appoint an assessor, they must notify in writing every
   - (ii) the address of the website; and
   - (iii) where on the website the notice may be accessed, and how it may be accessed.
 
-## 16. Notice of inquiry[^key-a3800e404867e5761d825d24eb7e1c37]
+## 16. Notice of inquiry[^c-a3800e404867e5761d825d24eb7e1c37]
 
-(1) The applicant must in two successive weeks publish a notice by local advertisement[^key-c472569573def9d1bdde6a6bf13fff3b] stating—
+(1) The applicant must in two successive weeks publish a notice by local advertisement[^c-c472569573def9d1bdde6a6bf13fff3b] stating—
 
 - (a) the fact that the application or the variation application has been made, and the purpose of it, together with a description of the place to which it relates;
 - (b) where the inquiry relates to an application, that a copy of the application and the map referred to in it, can be inspected at the same location or locations used to display the map pursuant to regulation 7(2) of the Applications for Consent Regulations or, if in relation to any such location that is not possible, at a suitable alternative location as near to it as possible;
 - (c) where the inquiry relates to a variation application, a place in the locality where those likely to be affected by the proposed development live or work where a copy of the variation application and of the map referred to in it, can be inspected; and
 - (d) the location, date and time of the inquiry.
 
-(1A)[^key-1852d7751fd483c78faa3bd9bcea3579] The date when the notice under paragraph (1) is first published must be not less than two weeks ending with the day before the date fixed for the beginning of the inquiry.
+(1A)[^c-1852d7751fd483c78faa3bd9bcea3579] The date when the notice under paragraph (1) is first published must be not less than two weeks ending with the day before the date fixed for the beginning of the inquiry.
 
-(2)[^key-8f2ccfe9c30ae025b0ad8066feb14880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8f2ccfe9c30ae025b0ad8066feb14880] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) If it appears to the Welsh Ministers that, in addition to the publication of a notice in accordance with paragraph (1)[^key-1eea84b62e8962a72560c0e6db30265b], further notification of the inquiry should be given (either by the service of notices, or by advertisement, or in any other way) in order to secure that the information specified in paragraph (1) is sufficiently made known to persons who are likely to be affected by the consent applied for if it is given, the Welsh Ministers may direct the applicant to take such further steps for that purpose as may be specified in the direction.
+(3) If it appears to the Welsh Ministers that, in addition to the publication of a notice in accordance with paragraph (1)[^c-1eea84b62e8962a72560c0e6db30265b], further notification of the inquiry should be given (either by the service of notices, or by advertisement, or in any other way) in order to secure that the information specified in paragraph (1) is sufficiently made known to persons who are likely to be affected by the consent applied for if it is given, the Welsh Ministers may direct the applicant to take such further steps for that purpose as may be specified in the direction.
 
-## 17. Appearances at inquiry[^key-c378f88e5d0dc0c79205bbc3f40f8a8a]
+## 17. Appearances at inquiry[^c-c378f88e5d0dc0c79205bbc3f40f8a8a]
 
 (1) The persons entitled to appear at an inquiry are—
 
@@ -476,7 +476,7 @@ Where the Welsh Ministers appoint an assessor, they must notify in writing every
 
 (4) An inspector may allow one or more persons to appear for the benefit of some or all of any persons having a similar interest in the matter under inquiry.
 
-## 18. Proofs of evidence[^key-724b7f0d661cc2e2bdb3e99a662b1a45]
+## 18. Proofs of evidence[^c-724b7f0d661cc2e2bdb3e99a662b1a45]
 
 (1) Any person entitled to appear, who proposes to give, or to call another person to give, evidence at the inquiry by reading a proof of evidence, must send two copies of the proof of evidence (in the case of a qualifying planning authority and the applicant) or three copies (in any other case) to the Welsh Ministers.
 
@@ -494,7 +494,7 @@ Where the Welsh Ministers appoint an assessor, they must notify in writing every
 
 (8) Any person required to provide additional copies must ensure that the copies are received by the Welsh Ministers or the inspector within the specified time.
 
-## 19. Statement of common ground[^key-d9e27196fd4b8f05da779600f0cf3f47]
+## 19. Statement of common ground[^c-d9e27196fd4b8f05da779600f0cf3f47]
 
 (1) The Welsh Ministers may in writing require the relevant planning authority (where it is a local planning authority in Wales) and the applicant to prepare together an agreed statement of common ground.
 
@@ -504,7 +504,7 @@ Where the Welsh Ministers appoint an assessor, they must notify in writing every
 - (b) at the same time as the applicant sends the statement to the Welsh Ministers, send a copy of it to every other person whom the applicant knows to be entitled to appear, except the relevant planning authority (where it is a local planning authority in Wales); and
 - (c) afford to any other person who so requests, a reasonable opportunity to inspect and, where practicable and on payment of a reasonable charge, take copies of the statement.
 
-## 20. Procedure at inquiry[^key-7648d818b48bb21d91dd263fa3c43e46]
+## 20. Procedure at inquiry[^c-7648d818b48bb21d91dd263fa3c43e46]
 
 (1) Except as otherwise provided, the inspector must determine the procedure at an inquiry.
 
@@ -572,7 +572,7 @@ but any such person may submit to the inspector any evidence or other matter in 
 
 (17) Any person who appears at an inquiry and makes closing submissions must by the close of the inquiry provide the inspector with a copy of their closing submission in writing.
 
-## 21. Site inspections[^key-4da2e9344748e87232cef0ec1c4bf634]
+## 21. Site inspections[^c-4da2e9344748e87232cef0ec1c4bf634]
 
 (1) The inspector may make an unaccompanied inspection of the place before or during an inquiry without giving notice of the inspector's intention to the persons entitled to appear.
 
@@ -584,7 +584,7 @@ but any such person may submit to the inspector any evidence or other matter in 
 
 (5) The inspector is not bound to defer an inspection of the kind referred to in paragraph (2) where any person mentioned in that paragraph is not present at the time appointed.
 
-## 22. Procedure after inquiry[^key-7a1b0cb96f51adccc68ea1b7ea0c000a]
+## 22. Procedure after inquiry[^c-7a1b0cb96f51adccc68ea1b7ea0c000a]
 
 (1) After the close of an inquiry, the lead inspector must make a report in writing to the Welsh Ministers which must include—
 
@@ -616,7 +616,7 @@ and for that reason are disposed to disagree with a recommendation made by the l
 - (b) paragraphs (3) to (7) of regulation 15 apply in relation to the re-opened inquiry as if references in those paragraphs to an inquiry were references to the re-opened inquiry; and
 - (c) paragraphs (5) and (6) of regulation 10 apply in relation to the re-opened inquiry as if references in those paragraphs to the pre-inquiry meeting were references to the re-opened inquiry.
 
-## 23. Notification of decision[^key-6dd9eb2e79d73de8efd22aad383d555a]
+## 23. Notification of decision[^c-6dd9eb2e79d73de8efd22aad383d555a]
 
 (1) The Welsh Ministers must, as soon as practicable, notify their decision on an application or variation application, and their reasons for it, in writing to—
 
@@ -640,7 +640,7 @@ and for that reason are disposed to disagree with a recommendation made by the l
 
 (5) Any person applying to the Welsh Ministers under paragraph (3) must ensure that their application is received by the Welsh Ministers within four weeks of the Welsh Ministers' decision.
 
-## 24. Procedure following quashing of decision[^key-7bd4039427601571b60800216d9ce8b9]
+## 24. Procedure following quashing of decision[^c-7bd4039427601571b60800216d9ce8b9]
 
 (1) Where a decision of the Welsh Ministers on an application or a variation application in respect of which an inquiry has been held, is quashed in proceedings before any court, the Welsh Ministers—
 
@@ -655,11 +655,11 @@ and for that reason are disposed to disagree with a recommendation made by the l
 
 (3) Those persons making representations or asking for the inquiry to be re-opened under paragraph (1)(b) must ensure that such representations or requests are received by the Welsh Ministers within three weeks of the date of the written statement sent under paragraph (1)(a).
 
-## 25. Allowing further time[^key-cb2a78955ce42572244a28b4e4fe0bf8]
+## 25. Allowing further time[^c-cb2a78955ce42572244a28b4e4fe0bf8]
 
 The Welsh Ministers may at any time in any particular case allow further time for the taking of any step which is required or enabled to be taken by virtue of these Regulations and references in these Regulations to a day by which, or a period within which, any step is required or enabled to be taken are to be construed accordingly.
 
-## 26. Additional copies[^key-94718caddf6b24a5198a78940725553e]
+## 26. Additional copies[^c-94718caddf6b24a5198a78940725553e]
 
 (1) The Welsh Ministers may at any time before the close of an inquiry request from any person entitled or permitted to appear additional copies of the following—
 
@@ -672,7 +672,7 @@ and must specify the time within which such documents should be received by them
 
 (2) Any person so requested must ensure that the copies are received by the Welsh Ministers within the period specified.
 
-## 27. Sending of notices and inspection of documents[^key-3d764e3cf23f621bf0f1eb06d3439d71]
+## 27. Sending of notices and inspection of documents[^c-3d764e3cf23f621bf0f1eb06d3439d71]
 
 (1) Notices or documents required or authorised to be sent under these Regulations may be sent—
 
@@ -708,9 +708,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23593501]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29). Section 36(8A) was inserted by paragraph 47 of Schedule 6 to the [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) (“**the 2017 Act**”). Section 36C was inserted by section 20(1) and (2) of the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) (“**the 2013 Act**”) and was amended by section 39(12) of, and paragraph 48 of Schedule 6 to, the 2017 Act. There are other amendments to section 36C and amendments to section 60 which are not relevant to these Regulations.
 
-[^key-186f1a830f9023bdf5b9e48955c4fe09]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/304/regulation/1) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-186f1a830f9023bdf5b9e48955c4fe09]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/304/regulation/1) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-f98d5c6e0812f4c693ca51f0db42a21b]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-f98d5c6e0812f4c693ca51f0db42a21b]: Commencement: Reg. 2 in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
 [^c23593511]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -726,74 +726,74 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23593571]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-91dfb78babd6976f5cdd011549b01abb]: Textual amendment: Words in reg. 2(1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [16(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16/2/a)
+[^c-91dfb78babd6976f5cdd011549b01abb]: Textual amendment: Words in reg. 2(1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [16(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16/2/a)
 
-[^key-f0f9347edeba78c13b31ab62f351d4a0]: Textual amendment: Word in reg. 2(1) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [16(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16/2/b/i)
+[^c-f0f9347edeba78c13b31ab62f351d4a0]: Textual amendment: Word in reg. 2(1) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [16(2)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16/2/b/i)
 
-[^key-e44622c45901eb25887afdb39356a80f]: Textual amendment: Words in reg. 2(1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [16(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16/2/b/ii)
+[^c-e44622c45901eb25887afdb39356a80f]: Textual amendment: Words in reg. 2(1) inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [16(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/16/2/b/ii)
 
 [^c23593581]: Marginal citation: [Section 90(2)](https://www.legislation.gov.uk/wsi/2019/304/section/90/2) and (2ZA) were substituted by section 21(2) of the 2013 Act and were amended by section 39(13) of the 2017 Act.
 
-[^key-0ade771cd25999dca5ae27070153ee08]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2019/304/regulation/3) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-0ade771cd25999dca5ae27070153ee08]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2019/304/regulation/3) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
 [^c23593591]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-30c21b42ef2331712ed877fc61334036]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/304/regulation/4) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-30c21b42ef2331712ed877fc61334036]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/304/regulation/4) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-d211b924b7e58854d0094d9ae078de90]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/304/regulation/5) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-d211b924b7e58854d0094d9ae078de90]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2019/304/regulation/5) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-fb566e162a5b240e0d7a212945e268d9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2019/304/regulation/6) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-fb566e162a5b240e0d7a212945e268d9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2019/304/regulation/6) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-e3930c343af807e88310ac5141072e6d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2019/304/regulation/7) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-e3930c343af807e88310ac5141072e6d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2019/304/regulation/7) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-94769aa70f7c93cfe0687131a1a91f94]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/304/regulation/8) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-94769aa70f7c93cfe0687131a1a91f94]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2019/304/regulation/8) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-dd561f16a7cec0c22c36ff96c609d001]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/304/regulation/9) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-dd561f16a7cec0c22c36ff96c609d001]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2019/304/regulation/9) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-df6a93179aac954ed1d620b02764d423]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2019/304/regulation/10) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-df6a93179aac954ed1d620b02764d423]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2019/304/regulation/10) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-2ff06353b2a158c13a811718c1473fdb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2019/304/regulation/11) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-2ff06353b2a158c13a811718c1473fdb]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2019/304/regulation/11) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-96d1671babf16c4408ba881253dfc6cf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2019/304/regulation/12) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-96d1671babf16c4408ba881253dfc6cf]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2019/304/regulation/12) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-c8f78fe1c8149b9de0d94bcf0f694419]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2019/304/regulation/13) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-c8f78fe1c8149b9de0d94bcf0f694419]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2019/304/regulation/13) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-df424de857c2577765862fa991e163b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/304/regulation/14) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-df424de857c2577765862fa991e163b8]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/304/regulation/14) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-b2147fab14a01aa93a25d777deb6fff9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/304/regulation/15) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-b2147fab14a01aa93a25d777deb6fff9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2019/304/regulation/15) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-a3800e404867e5761d825d24eb7e1c37]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2019/304/regulation/16) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-a3800e404867e5761d825d24eb7e1c37]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2019/304/regulation/16) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-c472569573def9d1bdde6a6bf13fff3b]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/1) inserted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/a)
+[^c-c472569573def9d1bdde6a6bf13fff3b]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/1) inserted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/a)
 
-[^key-1852d7751fd483c78faa3bd9bcea3579]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/1A) inserted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/b)
+[^c-1852d7751fd483c78faa3bd9bcea3579]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/1A) inserted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/b)
 
-[^key-8f2ccfe9c30ae025b0ad8066feb14880]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/2) omitted (5.7.2019) by virtue of [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/c)
+[^c-8f2ccfe9c30ae025b0ad8066feb14880]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/2) omitted (5.7.2019) by virtue of [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/c)
 
-[^key-1eea84b62e8962a72560c0e6db30265b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/3) substituted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/d)
+[^c-1eea84b62e8962a72560c0e6db30265b]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/wsi/2019/304/regulation/16/3) substituted (5.7.2019) by [The Electricity (Offshore Generating Stations) (Miscellaneous Amendments) (Wales) Regulations 2019 (S.I. 2019/1017)](https://www.legislation.gov.uk/wsi/2019/1017), [regs. 1](https://www.legislation.gov.uk/wsi/2019/1017/regulation/1), [4(2)(d)](https://www.legislation.gov.uk/wsi/2019/1017/regulation/4/2/d)
 
-[^key-c378f88e5d0dc0c79205bbc3f40f8a8a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/304/regulation/17) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-c378f88e5d0dc0c79205bbc3f40f8a8a]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2019/304/regulation/17) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
 [^c23593601]: Marginal citation: Subsection (1) was amended by paragraph 1 of Schedule 18 to the [Local Government (Wales) Act 1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) and subsection (1B) was inserted into section 2 by section 19(1) of that Act.
 
 [^c23593611]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
-[^key-724b7f0d661cc2e2bdb3e99a662b1a45]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/304/regulation/18) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-724b7f0d661cc2e2bdb3e99a662b1a45]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2019/304/regulation/18) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-d9e27196fd4b8f05da779600f0cf3f47]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/304/regulation/19) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-d9e27196fd4b8f05da779600f0cf3f47]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2019/304/regulation/19) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-7648d818b48bb21d91dd263fa3c43e46]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2019/304/regulation/20) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-7648d818b48bb21d91dd263fa3c43e46]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2019/304/regulation/20) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-4da2e9344748e87232cef0ec1c4bf634]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2019/304/regulation/21) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-4da2e9344748e87232cef0ec1c4bf634]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2019/304/regulation/21) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-7a1b0cb96f51adccc68ea1b7ea0c000a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/304/regulation/22) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-7a1b0cb96f51adccc68ea1b7ea0c000a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2019/304/regulation/22) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-6dd9eb2e79d73de8efd22aad383d555a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2019/304/regulation/23) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-6dd9eb2e79d73de8efd22aad383d555a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2019/304/regulation/23) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-7bd4039427601571b60800216d9ce8b9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/304/regulation/24) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-7bd4039427601571b60800216d9ce8b9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2019/304/regulation/24) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-cb2a78955ce42572244a28b4e4fe0bf8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/304/regulation/25) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-cb2a78955ce42572244a28b4e4fe0bf8]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/304/regulation/25) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-94718caddf6b24a5198a78940725553e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2019/304/regulation/26) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-94718caddf6b24a5198a78940725553e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2019/304/regulation/26) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
 
-[^key-3d764e3cf23f621bf0f1eb06d3439d71]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2019/304/regulation/27) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)
+[^c-3d764e3cf23f621bf0f1eb06d3439d71]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2019/304/regulation/27) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2019/304/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Persons chargeable in a representative capacity[^key-b48d7c1ce0fc66b2c69af409e1403df2][^key-9b4bd025ee232dbb8db962f48fb4a422]
+## 38. Persons chargeable in a representative capacity[^c-b48d7c1ce0fc66b2c69af409e1403df2][^c-9b4bd025ee232dbb8db962f48fb4a422]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Sections 74 (personal representatives) and 75 (receivers appointed by a court) o
 
 ## Annotations
 
-[^key-b48d7c1ce0fc66b2c69af409e1403df2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/470/regulation/38) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-b48d7c1ce0fc66b2c69af409e1403df2]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/470/regulation/38) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-9b4bd025ee232dbb8db962f48fb4a422]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/470/regulation/38) substituted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/836/regulation/5)
+[^c-9b4bd025ee232dbb8db962f48fb4a422]: Textual amendment: [Reg. 38](https://www.legislation.gov.uk/uksi/2009/470/regulation/38) substituted (6.4.2012) by [The Education (Student Loans) (Repayment) (Amendment) Regulations 2012 (S.I. 2012/836)](https://www.legislation.gov.uk/uksi/2012/836), [regs. 1](https://www.legislation.gov.uk/uksi/2012/836/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/836/regulation/5)

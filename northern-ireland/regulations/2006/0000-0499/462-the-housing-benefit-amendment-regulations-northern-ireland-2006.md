@@ -43,13 +43,13 @@ The Department for Social Development makes the following Regulations in exercis
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-526992e2f9c24cb8d2d7bc51e95b7d8e]
+## 1. Citation, commencement and interpretation[^c-526992e2f9c24cb8d2d7bc51e95b7d8e]
 
 (1) These Regulations may be cited as the Housing Benefit (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 20th December 2006.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit Regulations[^key-0fffa0568a47d17c6f826f9a5ac2b25c]
+## 2. Amendment of the Housing Benefit Regulations[^c-0fffa0568a47d17c6f826f9a5ac2b25c]
 
 (1) The Housing Benefit Regulations (Northern Ireland) 2006[^f00005] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -71,7 +71,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
   .
 
-(3)[^key-cd238c347108b1ce72c5c4d3a236123f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cd238c347108b1ce72c5c4d3a236123f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 84(1) (duty to notify changes of circumstances) for “in writing to the designated office” substitute—
 
@@ -82,7 +82,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
 .
 
-## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^key-1674a1c7066c978ec5e80e1cf71d11e0]
+## 3. Amendment of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations[^c-1674a1c7066c978ec5e80e1cf71d11e0]
 
 (1) The Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00006] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -106,7 +106,7 @@ The Social Security Advisory Committee has agreed that proposals in respect of t
 
   .
 
-(3)[^key-2c48a55677f63d40da42db0b1057c7c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2c48a55677f63d40da42db0b1057c7c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 65(1) (duty to notify changes of circumstances) for “in writing to the designated office” substitute—
 
@@ -139,20 +139,20 @@ Regulations 2(2) and 3(2) make provision to allow a person to claim housing bene
 
 [^f00003]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-526992e2f9c24cb8d2d7bc51e95b7d8e]: Commencement: Reg. 1 in operation at 20.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/462/regulation/1/1)
+[^c-526992e2f9c24cb8d2d7bc51e95b7d8e]: Commencement: Reg. 1 in operation at 20.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/462/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0fffa0568a47d17c6f826f9a5ac2b25c]: Commencement: Reg. 2 in operation at 20.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/462/regulation/1/1)
+[^c-0fffa0568a47d17c6f826f9a5ac2b25c]: Commencement: Reg. 2 in operation at 20.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/462/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2006 No. 405](https://www.legislation.gov.uk/nisr/2006/405)
 
-[^key-cd238c347108b1ce72c5c4d3a236123f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/462/regulation/2/3) revoked (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/371/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2008/371/regulation/4)
+[^c-cd238c347108b1ce72c5c4d3a236123f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/nisr/2006/462/regulation/2/3) revoked (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/371/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2008/371/regulation/4)
 
-[^key-1674a1c7066c978ec5e80e1cf71d11e0]: Commencement: Reg. 3 in operation at 20.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/462/regulation/1/1)
+[^c-1674a1c7066c978ec5e80e1cf71d11e0]: Commencement: Reg. 3 in operation at 20.12.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/462/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2006 No. 406](https://www.legislation.gov.uk/nisr/2006/406)
 
 [^f00007]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 4C was inserted by regulation 4(3) of [S.R. 2003 No. 191](https://www.legislation.gov.uk/nisr/2003/191) and paragraph (6A) was inserted by regulation 2(4)(c) of [S.R. 2006 No. 168](https://www.legislation.gov.uk/nisr/2006/168)
 
-[^key-2c48a55677f63d40da42db0b1057c7c6]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2006/462/regulation/3/3) revoked (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/371/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2008/371/regulation/4)
+[^c-2c48a55677f63d40da42db0b1057c7c6]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/nisr/2006/462/regulation/3/3) revoked (1.10.2008) by [The Housing Benefit (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/371)](https://www.legislation.gov.uk/nisr/2008/371), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/371/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2008/371/regulation/4)

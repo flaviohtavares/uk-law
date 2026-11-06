@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Varying, suspending or revoking tree felling licences[^key-2d1476fbc7f1572dfe280794bb565cf8][^key-55184aa7983785c09ec614cd460a3078]
+## 39. Varying, suspending or revoking tree felling licences[^c-2d1476fbc7f1572dfe280794bb565cf8][^c-55184aa7983785c09ec614cd460a3078]
 
 *Extent: E+W*
 
@@ -143,6 +143,6 @@ After section 24B of the [Forestry Act 1967 (c. 10)](https://www.legislation.gov
 
 ## Annotations
 
-[^key-2d1476fbc7f1572dfe280794bb565cf8]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2023/4/section/39) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
+[^c-2d1476fbc7f1572dfe280794bb565cf8]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2023/4/section/39) in force at 18.8.2023 for specified purposes, see [s. 56(1)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/1/a)
 
-[^key-55184aa7983785c09ec614cd460a3078]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2023/4/section/39) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)
+[^c-55184aa7983785c09ec614cd460a3078]: Commencement: [S. 39](https://www.legislation.gov.uk/asc/2023/4/section/39) in force at 1.4.2024 in so far as not already in force by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 3(a)](https://www.legislation.gov.uk/wsi/2023/1092/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Variation and revocation of establishment orders[^key-2eb0af5fa33369e6fbda48f8b88a86c0]
+## 37. Variation and revocation of establishment orders[^c-2eb0af5fa33369e6fbda48f8b88a86c0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2eb0af5fa33369e6fbda48f8b88a86c0]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/26/section/37) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))
+[^c-2eb0af5fa33369e6fbda48f8b88a86c0]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/26/section/37) in force at 20.1.2010 for E. by [S.I. 2010/61](https://www.legislation.gov.uk/uksi/2010/61), [art. 2](https://www.legislation.gov.uk/uksi/2010/61/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2010/61/article/3))

@@ -23,7 +23,7 @@ summary: ''
 (1) The sheriff may make an order determining any dispute as to the operation of a conjoined arrestment order, on an application by—
 
 - (a) the debtor;
-- (b)[^key-6f84c5540a487c21225e8967da7b48bf] a creditor whose debt is being enforced by the order;
+- (b)[^c-6f84c5540a487c21225e8967da7b48bf] a creditor whose debt is being enforced by the order;
 - (c) the employer; or
 - (d) the sheriff clerk.
 
@@ -51,4 +51,4 @@ shall be recoverable by the sheriff clerk from the creditor with interest on tha
 
 ## Annotations
 
-[^key-6f84c5540a487c21225e8967da7b48bf]: Modification: S. 65(1)(b) modified (1.4.2008) by [The Enforcement of Fines (Diligence) (Scotland) Regulations 2008 (S.S.I. 2008/104)](https://www.legislation.gov.uk/ssi/2008/104), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/104/regulation/1/1), [2(b)(iii)](https://www.legislation.gov.uk/ssi/2008/104/regulation/2/b/iii)
+[^c-6f84c5540a487c21225e8967da7b48bf]: Modification: S. 65(1)(b) modified (1.4.2008) by [The Enforcement of Fines (Diligence) (Scotland) Regulations 2008 (S.S.I. 2008/104)](https://www.legislation.gov.uk/ssi/2008/104), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/104/regulation/1/1), [2(b)(iii)](https://www.legislation.gov.uk/ssi/2008/104/regulation/2/b/iii)

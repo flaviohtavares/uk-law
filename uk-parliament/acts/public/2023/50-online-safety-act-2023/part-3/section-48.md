@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Minor amendments of codes of practice[^key-df8917530521ba7781943e1f414e0f40]
+## 48. Minor amendments of codes of practice[^c-df8917530521ba7781943e1f414e0f40]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df8917530521ba7781943e1f414e0f40]: Commencement: S. 48 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)
+[^c-df8917530521ba7781943e1f414e0f40]: Commencement: S. 48 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)

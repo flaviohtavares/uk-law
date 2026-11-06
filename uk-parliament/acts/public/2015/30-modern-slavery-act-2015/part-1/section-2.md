@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Human trafficking[^key-9f73627761d271b427091053af9c333e]
+## 2. Human trafficking[^c-9f73627761d271b427091053af9c333e]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f73627761d271b427091053af9c333e]: Commencement: S. 2 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/6))
+[^c-9f73627761d271b427091053af9c333e]: Commencement: S. 2 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/a) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/6))

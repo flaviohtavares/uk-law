@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Payment on death of the person entitled[^key-6f377ca489c09a7d2ca942b219580ec8]
+## 94. Payment on death of the person entitled[^c-6f377ca489c09a7d2ca942b219580ec8]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f377ca489c09a7d2ca942b219580ec8]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2006/405/regulation/94) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-6f377ca489c09a7d2ca942b219580ec8]: Commencement: [Reg. 94](https://www.legislation.gov.uk/nisr/2006/405/regulation/94) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00143]: Footnote: [1955 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1955/24)

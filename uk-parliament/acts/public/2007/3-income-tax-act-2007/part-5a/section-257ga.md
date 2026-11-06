@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257GA. Appeals against section 257FR(3)(b) notices[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]
+## 257GA. Appeals against section 257FR(3)(b) notices[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of the provisions of TMA 1970 relating to appeals, the giving o
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)

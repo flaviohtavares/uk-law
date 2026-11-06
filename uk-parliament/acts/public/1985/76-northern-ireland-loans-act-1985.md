@@ -29,15 +29,15 @@ Northern Ireland (Loans) Act 1985 (repealed)
 
 1985 c. 76
 
-[^key-0035749c08a0a16d96e987d65a0812e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0035749c08a0a16d96e987d65a0812e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Increase of limit.[^key-0035749c08a0a16d96e987d65a0812e5][^key-0035749c08a0a16d96e987d65a0812e5]
+## 1. Increase of limit.[^c-0035749c08a0a16d96e987d65a0812e5][^c-0035749c08a0a16d96e987d65a0812e5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-0035749c08a0a16d96e987d65a0812e5][^key-0035749c08a0a16d96e987d65a0812e5]
+## 2. Short title.[^c-0035749c08a0a16d96e987d65a0812e5][^c-0035749c08a0a16d96e987d65a0812e5]
 
 **No longer in force.**
 
@@ -45,4 +45,4 @@ Northern Ireland (Loans) Act 1985 (repealed)
 
 ## Annotations
 
-[^key-0035749c08a0a16d96e987d65a0812e5]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/76) repealed (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 31(4)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/5)
+[^c-0035749c08a0a16d96e987d65a0812e5]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/76) repealed (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [s. 31(4)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/5)

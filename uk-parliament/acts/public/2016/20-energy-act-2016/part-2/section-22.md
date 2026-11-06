@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Power of the OGA to consider disputes on its own initiative[^key-5366ff746e1f3fcb1e72cee986e9b9a6]
+## 22. Power of the OGA to consider disputes on its own initiative[^c-5366ff746e1f3fcb1e72cee986e9b9a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5366ff746e1f3fcb1e72cee986e9b9a6]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/20/section/22) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-5366ff746e1f3fcb1e72cee986e9b9a6]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2016/20/section/22) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

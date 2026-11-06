@@ -33,7 +33,7 @@ PESTICIDES
 
 FEES AND CHARGES
 
-The Plant Protection Products (Fees) (Amendment) Regulations 2002 (revoked)[^key-4eec6e89579415e04c1973f3188f082c]
+The Plant Protection Products (Fees) (Amendment) Regulations 2002 (revoked)[^c-4eec6e89579415e04c1973f3188f082c]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 30th November 2002
 
-[^key-4eec6e89579415e04c1973f3188f082c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4eec6e89579415e04c1973f3188f082c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-4eec6e89579415e04c1973f3188f082c]
+## 1. Title, commencement and extent[^c-4eec6e89579415e04c1973f3188f082c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plant Protection Products (Fees) Regulations 2001[^key-4eec6e89579415e04c1973f3188f082c]
+## 2. Amendment to the Plant Protection Products (Fees) Regulations 2001[^c-4eec6e89579415e04c1973f3188f082c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-4eec6e89579415e04c1973f3188f082c]
+## 3. Transitional provisions[^c-4eec6e89579415e04c1973f3188f082c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4eec6e89579415e04c1973f3188f082c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4eec6e89579415e04c1973f3188f082c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4eec6e89579415e04c1973f3188f082c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4eec6e89579415e04c1973f3188f082c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4eec6e89579415e04c1973f3188f082c]: Textual amendment: Regulations revoked (1.4.2003) by [The Plant Protection Products (Fees) Regulations 2003 (S.I. 2003/660)](https://www.legislation.gov.uk/uksi/2003/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/660/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/660/regulation/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/660/regulation/3))
+[^c-4eec6e89579415e04c1973f3188f082c]: Textual amendment: Regulations revoked (1.4.2003) by [The Plant Protection Products (Fees) Regulations 2003 (S.I. 2003/660)](https://www.legislation.gov.uk/uksi/2003/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/660/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/660/regulation/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/660/regulation/3))

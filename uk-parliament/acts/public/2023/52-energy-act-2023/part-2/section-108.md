@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Retention of information and samples[^key-2f7d6edc51635893cb7899c70c073be6]
+## 108. Retention of information and samples[^c-2f7d6edc51635893cb7899c70c073be6]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f7d6edc51635893cb7899c70c073be6]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/52/section/108) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-2f7d6edc51635893cb7899c70c073be6]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2023/52/section/108) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

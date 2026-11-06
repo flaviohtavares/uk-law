@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Issue of certificate of registry[^key-d62af58e63881ab9953d9d4c195bfd16]
+## 37. Issue of certificate of registry[^c-d62af58e63881ab9953d9d4c195bfd16]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Upon registering a ship the Registrar shall issue and send to the owner a certif
 
 ## Annotations
 
-[^key-d62af58e63881ab9953d9d4c195bfd16]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1993/3138/regulation/37) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-d62af58e63881ab9953d9d4c195bfd16]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1993/3138/regulation/37) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

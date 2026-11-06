@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Further release after recall: introductory[^key-583e404561b28e43dcf1e95371ef78f8][^key-983198aa7c321bb6784e1e35ad07f1c1]
+## 30. Further release after recall: introductory[^c-583e404561b28e43dcf1e95371ef78f8][^c-983198aa7c321bb6784e1e35ad07f1c1]
 
 *Extent: E+W*
 
@@ -109,6 +109,6 @@ summary: ''
 
 ## Annotations
 
-[^key-583e404561b28e43dcf1e95371ef78f8]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-583e404561b28e43dcf1e95371ef78f8]: Commencement: S. 30 in force at Royal Assent for specified purposes, see [s. 49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
 
-[^key-983198aa7c321bb6784e1e35ad07f1c1]: Commencement: S. 30 in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(i)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/i), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-983198aa7c321bb6784e1e35ad07f1c1]: Commencement: S. 30 in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(i)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/i), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

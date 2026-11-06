@@ -100,7 +100,7 @@ as is reasonably specified or described in the notice.
 - “**business**” includes—
   - (a) a profession, and
   - (b) a property business;
-- [^key-077996de7adced6922212d5df3b59d87]...
+- [^c-077996de7adced6922212d5df3b59d87]...
 - “**the Commissioners**” means the Commissioners for Her Majesty's Revenue and Customs;
 - “**contact details**”, in relation to a person, means the person's address and any other information about how the person may be contacted;
 - “**contract settlement**” means an agreement made in connection with any person's liability to make a payment to the Commissioners under or by virtue of an enactment;
@@ -111,4 +111,4 @@ as is reasonably specified or described in the notice.
 
 ## Annotations
 
-[^key-077996de7adced6922212d5df3b59d87]: Textual amendment: Words in Sch. 49 para. 8 omitted (1.4.2012) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 26](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/26), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 20](https://www.legislation.gov.uk/uksi/2012/736/article/20)
+[^c-077996de7adced6922212d5df3b59d87]: Textual amendment: Words in Sch. 49 para. 8 omitted (1.4.2012) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 6 paras. 26](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/26), [34(2)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/6/paragraph/34/2); [S.I. 2012/736](https://www.legislation.gov.uk/uksi/2012/736), [art. 20](https://www.legislation.gov.uk/uksi/2012/736/article/20)

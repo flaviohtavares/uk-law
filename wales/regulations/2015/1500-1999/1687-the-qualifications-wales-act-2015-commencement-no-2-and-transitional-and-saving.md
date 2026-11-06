@@ -39,7 +39,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 60(2) and (3
 
 ## PART 1 — Title and Interpretation
 
-### 1. Title and interpretation[^key-81b720a3bdbfd54b44052708bad5c2d5]
+### 1. Title and interpretation[^c-81b720a3bdbfd54b44052708bad5c2d5]
 
 (1) The title of this Order is the Qualifications Wales Act 2015 (Commencement No. 2 and Transitional and Saving Provisions) Order 2015.
 
@@ -52,13 +52,13 @@ The Welsh Ministers, in exercise of the powers conferred by section 60(2) and (3
 
 ## PART 2 — Commencement
 
-### 2. Provisions coming into force on 21 September 2015[^key-ea2f6f07c2572ebf1e75bd4e4b3ab30b]
+### 2. Provisions coming into force on 21 September 2015[^c-ea2f6f07c2572ebf1e75bd4e4b3ab30b]
 
 The provisions of the Act to the extent that they are not yet commenced, come into force on 21 September 2015.
 
 ## PART 3 — Transitional provisions
 
-### 3. Continuity: general[^key-8e2fec451fd172ccc26502ea3598260e]
+### 3. Continuity: general[^c-8e2fec451fd172ccc26502ea3598260e]
 
 (1) This article applies to the extent that a function, exercisable by Qualifications Wales from 21 September 2015 (“the new function”) corresponds to a function exercisable by the Welsh Ministers under Part 5 of the 1997 Act before that date (“the old function”).
 
@@ -72,7 +72,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (6) For the purposes of paragraph (1), the imposition of a monetary penalty under section 38(1) or (2) of the Act is not a function exercisable by Qualifications Wales from 21 September 2015.
 
-### 4. Persons to be treated as recognised under section 8[^key-4d8969d7c1c1cba67be4a63bb39fc6df]
+### 4. Persons to be treated as recognised under section 8[^c-4d8969d7c1c1cba67be4a63bb39fc6df]
 
 (1) This article applies where, immediately before 21 September 2015 a person is recognised under section 30(1)(e) of the 1997 Act[^f00005] in respect of the award or authentication of a specified relevant qualification or description of relevant qualification.
 
@@ -80,7 +80,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (3) But if the person has informed the Welsh Ministers in writing before that date that the person does not wish to be recognised under section 8 in respect of a qualification or description of qualification in respect of which the body is not recognised under section 30(1)(e) of the 1997 Act, the person is to be treated as having specified that qualification or description of qualification under section 8(2) of the Act.
 
-### 5. General recognition criteria[^key-379d93e928c0e8051be3cfbb2db4884e]
+### 5. General recognition criteria[^c-379d93e928c0e8051be3cfbb2db4884e]
 
 (1) From 21 September 2015, the criteria contained in the document described in paragraph (2), subject to the amendments to them provided for in the document described in paragraph (3), are to be treated as the general recognition criteria which have been set and published by Qualifications Wales under section 5 of the Act.
 
@@ -88,7 +88,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (3) The document is that titled “Amendments to Criteria for Recognition” and published online in September 2015 with a title containing the reference QWRD0002[^f00007].
 
-### 6. Applications for recognition[^key-ab028710ca2a1ab8a055da170b018044]
+### 6. Applications for recognition[^c-ab028710ca2a1ab8a055da170b018044]
 
 (1) This article applies where an application has been made to the Welsh Ministers before 21 September 2015 by a person for recognition under section 30(1)(e) of the 1997 Act which has neither been withdrawn by the person nor determined by the Welsh Ministers, before that date.
 
@@ -96,7 +96,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (3) The person may, on or after 21 September 2015 but before Qualifications Wales determines whether or not to recognise the person, specify in writing to Qualifications Wales a qualification or description of qualification in respect of the award of which the person does not wish to be recognised and the person is to be treated as having specified the qualification or description of qualification under section 8(2) of the Act.
 
-### 7. Conditions of recognition[^key-bf51dedfe6f6e2d77935fa2be9db5722]
+### 7. Conditions of recognition[^c-bf51dedfe6f6e2d77935fa2be9db5722]
 
 (1) From 21 September 2015, the conditions in the document described in paragraph (2), subject to the amendments to them provided for in the document described in paragraph (3), are to be treated as the standard conditions of recognition prepared and published by Qualifications Wales under paragraph 2(1) of Schedule 3 to the Act.
 
@@ -108,7 +108,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (5) From 21 September 2015, references in the document described in paragraph (2) to the “certificate requirements” mean the requirements set out in the document titled “Additional Certificate Requirements” and published online in September 2015 with a title containing the reference QWRD0006[^f00012].
 
-### 8. Applications for surrender of recognition[^key-54aee3a77fc2dd102316a87f336f0a1d]
+### 8. Applications for surrender of recognition[^c-54aee3a77fc2dd102316a87f336f0a1d]
 
 (1) This article applies where before 21 September 2015—
 
@@ -128,7 +128,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 - (a) before 21 September 2015, is given to the Welsh Ministers, or
 - (b) on or after that date, is given to Qualifications Wales.
 
-### 9. Approval of qualifications and surrender of approval[^key-ac2107917d047533fc3ab5a1a858f41e]
+### 9. Approval of qualifications and surrender of approval[^c-ac2107917d047533fc3ab5a1a858f41e]
 
 (1) This article applies in relation to the forms of qualification listed in the Schedule.
 
@@ -144,7 +144,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (7) The notice is a notice of the awarding body’s anticipated withdrawal of the form of qualification under condition D7.3 of the conditions of recognition imposed by the Welsh Ministers under section 32(3A) of the 1997 Act[^f00014].
 
-### 10. Designation of qualifications[^key-d821f7a254f1c7749bc1543a92b2900e]
+### 10. Designation of qualifications[^c-d821f7a254f1c7749bc1543a92b2900e]
 
 (1) This article applies in respect of the forms of qualification which, on 21 September 2015, are listed on the Database as “live” (in the “Status” field) except those which are listed in the Schedule.
 
@@ -157,7 +157,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
   - (i) the review date indicated for the form of qualification on the Database on 21 September 2015;
   - (ii) 31 August 2018.
 
-### 11. Applications for designation of qualifications[^key-8de9fa20156ef51f49528b3de82baa97]
+### 11. Applications for designation of qualifications[^c-8de9fa20156ef51f49528b3de82baa97]
 
 (1) This article applies where before 21 September 2015—
 
@@ -167,7 +167,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 (2) From 21 September 2015, the submission of the form of qualification is to be treated as an application by the person under section 29(2) of the Act to Qualifications Wales for the form of qualification to be designated under that section.
 
-### 12. Complaints[^key-21eaca3b66018c284dd2d8e9bca7f480]
+### 12. Complaints[^c-21eaca3b66018c284dd2d8e9bca7f480]
 
 (1) This article applies where, before 21 September 2015, a complaint has been made to the Welsh Ministers in relation to a matter described in paragraph (2) and the Welsh Ministers have not completed their consideration of it.
 
@@ -180,7 +180,7 @@ The provisions of the Act to the extent that they are not yet commenced, come in
 
 ## PART 4 — Saving provision
 
-### 13. Accredited qualifications for the purposes of the National Minimum Wage Regulations 2015[^key-7b4c57957385f605c400e6435f451a98]
+### 13. Accredited qualifications for the purposes of the National Minimum Wage Regulations 2015[^c-7b4c57957385f605c400e6435f451a98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -190,7 +190,7 @@ Minister for Education and Skills, one of the Welsh Ministers
 
 16 September 2015
 
-## SCHEDULE — Forms of qualification to be treated as approved under section 19 of the Act[^key-0ab83f5d630dedc940ad6e5f0a7fa5a9]
+## SCHEDULE — Forms of qualification to be treated as approved under section 19 of the Act[^c-0ab83f5d630dedc940ad6e5f0a7fa5a9]
 
 article 9
 
@@ -377,7 +377,7 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2015 anaw 5](https://www.legislation.gov.uk/anaw/2015/5).
 
-[^key-81b720a3bdbfd54b44052708bad5c2d5]: Commencement: Art. 1 in force at made date
+[^c-81b720a3bdbfd54b44052708bad5c2d5]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44). There are many amendments to Part 5 of this Act.
 
@@ -385,23 +385,23 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00004]: Footnote: Amendments to section 30 of the 1997 Act which are relevant to this Order are made by: the Learning and Skills Act [2000 (c. 21)](https://www.legislation.gov.uk/ukpga/2000/21), section 103(1) and (4)(c) and Schedule 11; the Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 ([S.I. 2005/3239) (W. 244)](https://www.legislation.gov.uk/wsi/2005/3239), Schedule 1, paragraphs 6, 14, and 15(b) and (d); and the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 12, paragraphs 12 and 15 and Schedule 16, Part 4.
 
-[^key-ea2f6f07c2572ebf1e75bd4e4b3ab30b]: Commencement: Art. 2 in force at made date
+[^c-ea2f6f07c2572ebf1e75bd4e4b3ab30b]: Commencement: Art. 2 in force at made date
 
-[^key-8e2fec451fd172ccc26502ea3598260e]: Commencement: Art. 3 in force at made date
+[^c-8e2fec451fd172ccc26502ea3598260e]: Commencement: Art. 3 in force at made date
 
-[^key-4d8969d7c1c1cba67be4a63bb39fc6df]: Commencement: Art. 4 in force at made date
+[^c-4d8969d7c1c1cba67be4a63bb39fc6df]: Commencement: Art. 4 in force at made date
 
 [^f00005]: Footnote: Section 30(1) was substituted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 12, paragraphs 12 and 15(1) and (2).
 
-[^key-379d93e928c0e8051be3cfbb2db4884e]: Commencement: Art. 5 in force at made date
+[^c-379d93e928c0e8051be3cfbb2db4884e]: Commencement: Art. 5 in force at made date
 
 [^f00006]: Footnote: As at 21 September 2015, this document is available at www.qualificationswales.org.
 
 [^f00007]: Footnote: As at 21 September 2015, this document is available at www.qualificationswales.org.
 
-[^key-ab028710ca2a1ab8a055da170b018044]: Commencement: Art. 6 in force at made date
+[^c-ab028710ca2a1ab8a055da170b018044]: Commencement: Art. 6 in force at made date
 
-[^key-bf51dedfe6f6e2d77935fa2be9db5722]: Commencement: Art. 7 in force at made date
+[^c-bf51dedfe6f6e2d77935fa2be9db5722]: Commencement: Art. 7 in force at made date
 
 [^f00008]: Footnote: In March 2015, the Welsh Ministers sent copies of this document to the responsible officers of persons then recognised under section 30(1)(e) of the 1997 Act.
 
@@ -413,20 +413,20 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00012]: Footnote: As at 21 September 2015, this document is available at www.qualificationswales.org.
 
-[^key-54aee3a77fc2dd102316a87f336f0a1d]: Commencement: Art. 8 in force at made date
+[^c-54aee3a77fc2dd102316a87f336f0a1d]: Commencement: Art. 8 in force at made date
 
 [^f00013]: Footnote: Section 32C was inserted by the Apprenticeships, Skills, Children and Learning Act [2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), Schedule 12, paragraphs 12 and 19.
 
-[^key-ac2107917d047533fc3ab5a1a858f41e]: Commencement: Art. 9 in force at made date
+[^c-ac2107917d047533fc3ab5a1a858f41e]: Commencement: Art. 9 in force at made date
 
 [^f00014]: Footnote: Section 32(3A) was inserted by the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), Schedule 17, paragraph 7(1) and (3) and amended by: the Qualifications, Curriculum and Assessment Authority for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 ([S.I. 2005/3239) (W. 244)](https://www.legislation.gov.uk/wsi/2005/3239), Schedule 1, paragraphs 6 and 18(d); and the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), section 162(1), (6) and (8).
 
-[^key-d821f7a254f1c7749bc1543a92b2900e]: Commencement: Art. 10 in force at made date
+[^c-d821f7a254f1c7749bc1543a92b2900e]: Commencement: Art. 10 in force at made date
 
-[^key-8de9fa20156ef51f49528b3de82baa97]: Commencement: Art. 11 in force at made date
+[^c-8de9fa20156ef51f49528b3de82baa97]: Commencement: Art. 11 in force at made date
 
-[^key-21eaca3b66018c284dd2d8e9bca7f480]: Commencement: Art. 12 in force at made date
+[^c-21eaca3b66018c284dd2d8e9bca7f480]: Commencement: Art. 12 in force at made date
 
-[^key-7b4c57957385f605c400e6435f451a98]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/wsi/2015/1687/article/13) revoked (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [21](https://www.legislation.gov.uk/wsi/2016/236/regulation/21)
+[^c-7b4c57957385f605c400e6435f451a98]: Textual amendment: [Art. 13](https://www.legislation.gov.uk/wsi/2015/1687/article/13) revoked (1.5.2016) by [The Qualifications Wales Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/236)](https://www.legislation.gov.uk/wsi/2016/236), [regs. 1](https://www.legislation.gov.uk/wsi/2016/236/regulation/1), [21](https://www.legislation.gov.uk/wsi/2016/236/regulation/21)
 
-[^key-0ab83f5d630dedc940ad6e5f0a7fa5a9]: Commencement: Sch. in force at made date
+[^c-0ab83f5d630dedc940ad6e5f0a7fa5a9]: Commencement: Sch. in force at made date

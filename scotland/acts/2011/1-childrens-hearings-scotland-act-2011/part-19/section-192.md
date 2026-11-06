@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Power to make regulations about contracts for provision of children's legal aid[^key-6e4124fea9c7a51bef4fd95940ddb203]
+## 192. Power to make regulations about contracts for provision of children's legal aid[^c-6e4124fea9c7a51bef4fd95940ddb203]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ After section 33A of the Legal Aid (Scotland) Act 1986 insert—
 
 ## Annotations
 
-[^key-6e4124fea9c7a51bef4fd95940ddb203]: Commencement: S. 192 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6e4124fea9c7a51bef4fd95940ddb203]: Commencement: S. 192 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

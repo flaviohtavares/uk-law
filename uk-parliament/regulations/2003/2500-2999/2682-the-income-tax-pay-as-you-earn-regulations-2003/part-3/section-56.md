@@ -27,7 +27,7 @@ summary: ''
 - (a) the pensioner’s address,
 - (b) any number used to identify the pensioner, ...
 - (c) the date on which the pension started.
-- (d)[^key-3fc08d249687ea4d390bb6bf7507f8f5] the pensioner’s date of birth, and
+- (d)[^c-3fc08d249687ea4d390bb6bf7507f8f5] the pensioner’s date of birth, and
 - (e) the pensioner’s sex.
 
 (3) The pension payer must then send Part 3 of Form P45 to the pension payer’s Inland Revenue office.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc08d249687ea4d390bb6bf7507f8f5]: Textual amendment: [Reg. 56(2)(d)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/56/2/d)[(e)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/56/2/e) added (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/13/b)
+[^c-3fc08d249687ea4d390bb6bf7507f8f5]: Textual amendment: [Reg. 56(2)(d)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/56/2/d)[(e)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/56/2/e) added (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [13(b)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/13/b)

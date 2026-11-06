@@ -42,15 +42,15 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020[^f00001].
 
-## 1. Citation[^key-375d60dbac223a0cbcc39efb87d0716c]
+## 1. Citation[^c-375d60dbac223a0cbcc39efb87d0716c]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay) (No. 2) Order (Northern Ireland) 2022.
 
-## 2. Extension of expiry date[^key-3e321577d38bd5eca7805f9517fe6e0e]
+## 2. Extension of expiry date[^c-3e321577d38bd5eca7805f9517fe6e0e]
 
 Section 44 of the Coronavirus Act 2020 (statutory sick pay: modification of regulation making powers: Northern Ireland) does not expire at the time when it would otherwise expire and expires instead on 24th September 2022.
 
-## 3. Revocation[^key-6c3a2e35016cffd81b7c9620f2973c6a]
+## 3. Revocation[^c-6c3a2e35016cffd81b7c9620f2973c6a]
 
 The Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay) Order (Northern Ireland) 2022[^f00002] is revoked.
 
@@ -76,10 +76,10 @@ The Coronavirus Act 2020 (Extension of Provisions Relating to Statutory Sick Pay
 
 [^f00001]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7); section 90(2) receives its power to revoke [S.R. 2022 No.151](https://www.legislation.gov.uk/nisr/2022/151) by virtue of sections 14 and 24(3) of the Interpretation Act 1978
 
-[^key-375d60dbac223a0cbcc39efb87d0716c]: Commencement: Art. 1 in operation at 25.8.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/205/article/1)
+[^c-375d60dbac223a0cbcc39efb87d0716c]: Commencement: Art. 1 in operation at 25.8.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/205/article/1)
 
-[^key-3e321577d38bd5eca7805f9517fe6e0e]: Commencement: Art. 2 in operation at 25.8.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/205/article/1)
+[^c-3e321577d38bd5eca7805f9517fe6e0e]: Commencement: Art. 2 in operation at 25.8.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/205/article/1)
 
-[^key-6c3a2e35016cffd81b7c9620f2973c6a]: Commencement: Art. 3 in operation at 25.8.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/205/article/1)
+[^c-6c3a2e35016cffd81b7c9620f2973c6a]: Commencement: Art. 3 in operation at 25.8.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/205/article/1)
 
 [^f00002]: Footnote: [S.R. 2022 No. 151](https://www.legislation.gov.uk/nisr/2022/151)

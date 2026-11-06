@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Option to defer payment of retirement added pension[^key-c5b043afa3d875ded24ff7b602443ad7]
+## 113. Option to defer payment of retirement added pension[^c-c5b043afa3d875ded24ff7b602443ad7]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5b043afa3d875ded24ff7b602443ad7]: Commencement: Reg. 113 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-c5b043afa3d875ded24ff7b602443ad7]: Commencement: Reg. 113 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

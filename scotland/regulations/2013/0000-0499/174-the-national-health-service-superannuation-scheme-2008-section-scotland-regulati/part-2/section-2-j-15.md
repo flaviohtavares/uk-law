@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.J.15. Benefit information statements[^key-c425079dd2961ffc932419c9007d72c1]
+## 2.J.15. Benefit information statements[^c-c425079dd2961ffc932419c9007d72c1]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c425079dd2961ffc932419c9007d72c1]: Textual amendment: [Reg. 2.J.15](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.15) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/14)
+[^c-c425079dd2961ffc932419c9007d72c1]: Textual amendment: [Reg. 2.J.15](https://www.legislation.gov.uk/ssi/2013/174/regulation/2.J.15) inserted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 14](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/14)

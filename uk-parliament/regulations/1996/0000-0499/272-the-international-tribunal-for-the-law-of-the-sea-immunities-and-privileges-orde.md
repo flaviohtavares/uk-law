@@ -30,7 +30,7 @@ summary: ''
 
 INTERNATIONAL IMMUNITIES AND PRIVILEGES
 
-The International Tribunal for the Law of the Sea (Immunities and Privileges) Order 1996 (revoked)[^key-897ac7577c4802e841a76ad4c98de853]
+The International Tribunal for the Law of the Sea (Immunities and Privileges) Order 1996 (revoked)[^c-897ac7577c4802e841a76ad4c98de853]
 
 Made
 
@@ -44,32 +44,32 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-897ac7577c4802e841a76ad4c98de853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-897ac7577c4802e841a76ad4c98de853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-897ac7577c4802e841a76ad4c98de853]
+## PART I — GENERAL[^c-897ac7577c4802e841a76ad4c98de853]
 
-### 1. Citation and Entry into Force[^key-897ac7577c4802e841a76ad4c98de853]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-897ac7577c4802e841a76ad4c98de853]
+### 1. Citation and Entry into Force[^c-897ac7577c4802e841a76ad4c98de853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — THE TRIBUNAL[^key-897ac7577c4802e841a76ad4c98de853]
+### 2. Interpretation[^c-897ac7577c4802e841a76ad4c98de853]
 
-**3.**[^key-897ac7577c4802e841a76ad4c98de853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-897ac7577c4802e841a76ad4c98de853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART II — THE TRIBUNAL[^c-897ac7577c4802e841a76ad4c98de853]
 
-[^key-897ac7577c4802e841a76ad4c98de853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-897ac7577c4802e841a76ad4c98de853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-897ac7577c4802e841a76ad4c98de853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-897ac7577c4802e841a76ad4c98de853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-897ac7577c4802e841a76ad4c98de853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-897ac7577c4802e841a76ad4c98de853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-897ac7577c4802e841a76ad4c98de853]: Textual amendment: Order revoked (16.6.2006) by [The International Tribunal for the Law of the Sea (Immunities and Privileges) Order 2005 (S.I. 2005/2047)](https://www.legislation.gov.uk/uksi/2005/2047), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1), [19](https://www.legislation.gov.uk/uksi/2005/2047/article/19); and revoked (S.) (12.2.2009) by [The International Organisations (Immunities and Privileges) (Scotland) Order 2009 (S.S.I. 2009/44)](https://www.legislation.gov.uk/ssi/2009/44), [arts. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1), [3(d)](https://www.legislation.gov.uk/ssi/2009/44/article/3/d)
+[^c-897ac7577c4802e841a76ad4c98de853]: Textual amendment: Order revoked (16.6.2006) by [The International Tribunal for the Law of the Sea (Immunities and Privileges) Order 2005 (S.I. 2005/2047)](https://www.legislation.gov.uk/uksi/2005/2047), [arts. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1), [19](https://www.legislation.gov.uk/uksi/2005/2047/article/19); and revoked (S.) (12.2.2009) by [The International Organisations (Immunities and Privileges) (Scotland) Order 2009 (S.S.I. 2009/44)](https://www.legislation.gov.uk/ssi/2009/44), [arts. 1](https://www.legislation.gov.uk/ssi/2009/44/article/1), [3(d)](https://www.legislation.gov.uk/ssi/2009/44/article/3/d)

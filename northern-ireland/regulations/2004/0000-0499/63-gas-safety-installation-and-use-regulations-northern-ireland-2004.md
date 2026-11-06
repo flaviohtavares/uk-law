@@ -43,11 +43,11 @@ The Department of Enterprise, Trade and Investment[^f00001], being the Departmen
 
 ## PART I — GENERAL
 
-### 1. Citation and commencement[^key-2e22b43218155f875dd45604cc52df42]
+### 1. Citation and commencement[^c-2e22b43218155f875dd45604cc52df42]
 
 These Regulations may be cited as the Gas Safety (Installation and Use) Regulations (Northern Ireland) 2004 and shall come into operation on 29th March 2004.
 
-### 2. General interpretation and application[^key-939f10c526ea103b5bd09e88f6f381a0]
+### 2. General interpretation and application[^c-939f10c526ea103b5bd09e88f6f381a0]
 
 (1) In these Regulations –
 
@@ -109,9 +109,9 @@ These Regulations may be cited as the Gas Safety (Installation and Use) Regulati
 (4) Save for regulations 37, 38 and 41 and subject to regulation 3(8), these Regulations shall not apply in relation to the supply of gas to, or anything done in respect of a gas fitting at, the following premises, that is to say –
 
 - (a) a factory within the meaning of the Factories Act (Northern Ireland) 1965[^f00008] or any place to which any provisions of the said Act apply by virtue of sections 121 to 124 of that Act;
-- (b) a mine within the meaning of section 156(1) of the Mines Act (Northern Ireland) 1969[^f00009], or a quarry within the meaning of regulation 3 of the Quarries Regulations (Northern Ireland) 2006[^key-1ff21c821189f21c99ddd1e99c372d19] [^f00010] or any place deemed to form part of a mine or quarry for the purposes of that Act or those Regulations respectively;
+- (b) a mine within the meaning of section 156(1) of the Mines Act (Northern Ireland) 1969[^f00009], or a quarry within the meaning of regulation 3 of the Quarries Regulations (Northern Ireland) 2006[^c-1ff21c821189f21c99ddd1e99c372d19] [^f00010] or any place deemed to form part of a mine or quarry for the purposes of that Act or those Regulations respectively;
 - (c) agricultural premises, being agricultural land, including land being or forming part of a market garden, and any building thereon which is used in connection with agricultural operations;
-- (d) temporary installations used in connection with any construction work within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations (Northern Ireland) 2016[^key-6812409568491e30b9452f84ac64ee5e] ;
+- (d) temporary installations used in connection with any construction work within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations (Northern Ireland) 2016[^c-6812409568491e30b9452f84ac64ee5e] ;
 - (e) premises used for the testing of gas fittings; or
 - (f) premises used for the treatment of sewage,
 
@@ -144,7 +144,7 @@ but they shall apply in relation to such premises or part thereof used for domes
 
 ## PART II — GAS FITTINGS – GENERAL PROVISIONS
 
-### 3. Qualification and supervision[^key-08f7524c42fc021ae82694340a3fb286]
+### 3. Qualification and supervision[^c-08f7524c42fc021ae82694340a3fb286]
 
 (1) A person shall not carry out any work in relation to a gas fitting or gas storage vessel unless he is competent to do so.
 
@@ -170,11 +170,11 @@ but they shall apply in relation to such premises or part thereof used for domes
 
 except that this paragraph shall not apply where the person has reasonable grounds for believing that the vehicle, vessel or caravan will be first used for a purpose which when so used will exclude it from the application of these Regulations by virtue of regulation 2(5)(a), (c) or (e).
 
-### 4. Duty on employer[^key-c87f8d0842437c615815bff2acbeb806]
+### 4. Duty on employer[^c-c87f8d0842437c615815bff2acbeb806]
 
 Where an employer or a self-employed person requires any work in relation to a gas fitting to be carried out at any place of work under his control or where an employer or self-employed person has control to any extent of work in relation to a gas fitting, he shall take reasonable steps to ensure that the person undertaking that work is, or is employed by, a member of a class of persons approved by the Executive under regulation 3(3).
 
-### 5. Materials and workmanship[^key-759e29efba90bf15255303019889f8aa]
+### 5. Materials and workmanship[^c-759e29efba90bf15255303019889f8aa]
 
 (1) A person shall not install a gas fitting unless every part of it is of good construction and sound material, of adequate strength and size to secure safety and of a type appropriate for the gas with which it is to be used.
 
@@ -187,7 +187,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (3) A person shall not carry out any work in relation to a gas fitting or gas storage vessel otherwise than in accordance with appropriate standards and in such a way as to prevent danger to any person.
 
-### 6. General safety precautions[^key-09c7b3124b210e6ff03e6692a8eb16eb]
+### 6. General safety precautions[^c-09c7b3124b210e6ff03e6692a8eb16eb]
 
 (1) A person shall not carry out any work in relation to a gas fitting in such a manner that gas could be released unless steps are taken to prevent the gas so released constituting a danger to any person.
 
@@ -212,7 +212,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (10) A person shall not store or keep gas consisting wholly or mainly of methane on domestic premises, and, for the purpose of this paragraph, such gas from time to time present in pipes or in the fuel tank of any vehicle propelled by gas, or in a refillable cylinder designed to store gas and not filled or refilled on or near the premises, shall be deemed not to be so stored or kept.
 
-### 7. Protection against damage[^key-b30a0f042119a50cd4d55b32914714f0]
+### 7. Protection against damage[^c-b30a0f042119a50cd4d55b32914714f0]
 
 (1) Any person installing a gas fitting shall ensure that it is properly supported and so placed or protected as to avoid any undue risk of damage to the fitting.
 
@@ -220,7 +220,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (3) A person shall not install a gas fitting in a position where it is likely to be exposed to any substance which may corrode gas fittings unless the fitting is constructed of materials which are inherently resistant to being so corroded or it is suitably protected against being so corroded.
 
-### 8. Existing gas fittings[^key-64cf2ea4edf1a710faa6d90f5cb51042]
+### 8. Existing gas fittings[^c-64cf2ea4edf1a710faa6d90f5cb51042]
 
 (1) A person shall not make any alteration to any premises in which a gas fitting or gas storage vessel is fitted if that alteration would adversely affect the safety of the fitting or vessel in such a manner that, if the fitting or the vessel had been installed after the alteration, there would have been a contravention of, or failure to comply with, these Regulations.
 
@@ -228,7 +228,7 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (3) In relation to any place of work under his control, an employer or a self-employed person shall ensure, so far as is reasonably practicable, that the provisions of paragraphs (1) and (2) are complied with.
 
-### 9. Emergency controls[^key-2a3201616f76383497667eb765037035]
+### 9. Emergency controls[^c-2a3201616f76383497667eb765037035]
 
 (1) A person shall not enable gas to be supplied, for the first time, for use in any premises unless there is provided an appropriately sited emergency control to which there is adequate access.
 
@@ -247,13 +247,13 @@ Where an employer or a self-employed person requires any work in relation to a g
 
 (5) This regulation shall not apply where gas is supplied in a refillable cylinder except where two or more cylinders are connected by means of an automatic change-over device.
 
-### 10. Maintaining electrical continuity[^key-178c8dc64e098aeca8f43e432a95e13e]
+### 10. Maintaining electrical continuity[^c-178c8dc64e098aeca8f43e432a95e13e]
 
 In any case where it is necessary to prevent danger, a person shall not carry out work in relation to a gas fitting without using a suitable bond to maintain electrical continuity until the work is completed and permanent electrical continuity has been restored.
 
 ## PART III — METERS AND REGULATORS
 
-### 11. Interpretation of Part III[^key-e575ced03f681389bba8fe26a5619b20]
+### 11. Interpretation of Part III[^c-e575ced03f681389bba8fe26a5619b20]
 
 In this Part –
 
@@ -261,7 +261,7 @@ In this Part –
 - “meter compound” means an area or room designed and constructed to contain one or more meters with their associated fittings;
 - “secondary meter” means a meter, other than a primary meter, for ascertaining the quantity of gas provided by a person for use by another person.
 
-### 12. Meters – general provisions[^key-d5963171bcc993ea77507216efb7558f]
+### 12. Meters – general provisions[^c-d5963171bcc993ea77507216efb7558f]
 
 (1) A person shall not install a meter in any premises unless the site where it is to be installed is such as to ensure so far as is reasonably practicable that the means of escape from those premises in the event of fire is not adversely affected.
 
@@ -278,7 +278,7 @@ In this Part –
 - (a) immediately thereafter they are adequately tested to verify that they are gastight and examined to verify that they have been installed in accordance with these Regulations; and
 - (b) immediately after such testing and examination, purging is carried out throughout the meter and every other gas fitting through which gas can then flow so as to remove safely all air and gas other than the gas to be supplied.
 
-### 13. Meter housings[^key-8767c1888bd9b7830137c60ce026d42b]
+### 13. Meter housings[^c-8767c1888bd9b7830137c60ce026d42b]
 
 (1) Where a meter is housed in a meter box or meter compound attached to or built into the external face of the outside wall of any premises, the meter box or meter compound shall be so constructed and installed that any gas escaping within the box or compound cannot enter the premises or any cavity in the wall but must disperse to the external air.
 
@@ -288,7 +288,7 @@ In this Part –
 
 (4) A person shall not install a meter within a meter compound which is capable of being secured unless the consumer has been provided with a suitably labelled key for that compound.
 
-### 14. Regulators[^key-937b173a24f1210a7bb0d604d5e9c655]
+### 14. Regulators[^c-937b173a24f1210a7bb0d604d5e9c655]
 
 (1) A person shall not install a primary meter or meter by pass used in connection with a primary meter unless –
 
@@ -317,13 +317,13 @@ shall not break a seal applied under paragraph (5) other than a seal applied to 
 
 (7) A person who breaks a seal applied under paragraph (5) shall apply as soon as is practicable a new seal which is adequate to prevent the setting of the regulator from being interfered with without breaking such seal.
 
-### 15. Meters – emergency notices[^key-201f159d48c0566333a70737e029b2c5]
+### 15. Meters – emergency notices[^c-201f159d48c0566333a70737e029b2c5]
 
 (1) A person shall not supply gas through a primary meter installed after the coming into operation of these Regulations or for the first time supply gas through an existing primary meter after the coming into operation of these Regulations unless he ensures that a suitably worded notice in permanent form is prominently displayed on or near the meter indicating the procedure to be followed in the event of an escape of gas.
 
 (2) Where a meter is installed or relocated in any premises in either case at a distance of more than two metres from, or out of sight of, the nearest upstream emergency control in the premises, a person shall not supply or provide gas for the first time through that meter unless he ensures that a suitably worded notice in permanent form is prominently displayed on or near the meter indicating the position of that control.
 
-### 16. Primary meters[^key-0603a1163fa64410920d705a72f65786]
+### 16. Primary meters[^c-0603a1163fa64410920d705a72f65786]
 
 (1) A person shall not install a prepayment meter as a primary meter through which gas passes to a secondary meter.
 
@@ -344,7 +344,7 @@ shall ensure that a notice in permanent form is prominently displayed on or near
 
 (4) Where a person proposes to remove a primary meter he shall give sufficient notice of it to the person supplying gas through the meter to enable him to comply with paragraph (3).
 
-### 17. Secondary meters[^key-e80d75c9b0f5963c323fd28db7ac9e50]
+### 17. Secondary meters[^c-e80d75c9b0f5963c323fd28db7ac9e50]
 
 (1) Any person supplying or permitting the supply of gas through a primary meter to a secondary meter shall ensure that a line diagram in permanent form is prominently displayed on or near the primary meter or gas storage vessel and on or near all emergency controls connected to the primary meter showing the configuration of all meters, installation pipework and emergency controls.
 
@@ -352,13 +352,13 @@ shall ensure that a notice in permanent form is prominently displayed on or near
 
 ## PART IV — INSTALLATION PIPEWORK
 
-### 18. Safe use of pipes[^key-c3f938ccbb589d7a423a66760883fa93]
+### 18. Safe use of pipes[^c-c3f938ccbb589d7a423a66760883fa93]
 
 (1) A person shall not install any installation pipework in any position in which it cannot be used with safety having regard to the position of other pipes, pipe supports, drains, sewers, cables, conduits and electrical apparatus and to any parts of the structure of any premises in which it is installed which might affect its safe use.
 
 (2) Any person who connects any installation pipework to a primary meter shall, in any case where electrical equipotential bonding may be necessary, inform the responsible person that such bonding should be carried out by a competent person.
 
-### 19. Enclosed pipes[^key-9365b910ab014b4b58e1c19660ce0877]
+### 19. Enclosed pipes[^c-9365b910ab014b4b58e1c19660ce0877]
 
 (1) A person shall not install any part of any installation pipework in a wall or a floor or standing of solid construction unless it is so constructed and installed as to be protected against failure caused by the movement of the wall, the floor or the standing as the case may be.
 
@@ -379,15 +379,15 @@ shall ensure that a notice in permanent form is prominently displayed on or near
 
 (6) Where any installation pipework is not itself contained in a ventilated duct, a person shall not install any installation pipework in any shaft, duct or void which is not adequately ventilated.
 
-### 20. Protection of buildings[^key-1bd2058e4676253f54515c6638f8df6b]
+### 20. Protection of buildings[^c-1bd2058e4676253f54515c6638f8df6b]
 
 A person shall not install any installation pipework in a way which would impair the structure of a building or impair the fire resistance of any part of its structure.
 
-### 21. Clogging precautions[^key-6b6a2e2d707cdf739ce6602fc4f1448b]
+### 21. Clogging precautions[^c-6b6a2e2d707cdf739ce6602fc4f1448b]
 
 A person shall not install any installation pipework in which deposition of liquid or solid matter is likely to occur unless a suitable vessel for the reception of any deposit which may form is fixed to the pipe in a conspicuous and readily accessible position and safe means are provided for the removal of the deposit.
 
-### 22. Testing and purging of pipes[^key-fb50f7fb288355df584445033748e0c3]
+### 22. Testing and purging of pipes[^c-fb50f7fb288355df584445033748e0c3]
 
 (1) Where a person carries out work in relation to any installation pipework which might affect the gastightness of any part of it, he shall immediately thereafter ensure that –
 
@@ -406,13 +406,13 @@ A person shall not install any installation pipework in which deposition of liqu
 - (a) a person shall not permit gas to pass into the installation pipework unless he has caused such purging, testing and other work as is specified in paragraph (2)(a) to (d) to be carried out;
 - (b) a person who provides a gas supply to those premises shall, unless he complies with sub-paragraph (a), ensure that the supply is sealed off with an appropriate fitting.
 
-### 23. Marking of pipes[^key-97be739146df7815dabb3d1de9c960fc]
+### 23. Marking of pipes[^c-97be739146df7815dabb3d1de9c960fc]
 
 (1) Any person installing, elsewhere than in any premises or part of premises used only as a dwelling or for living accommodation, a part of any installation pipework which is accessible to inspection shall permanently mark that part in such a manner that it is readily recognisable as part of a pipe for conveying gas.
 
 (2) The responsible person for the premises in which any such part is situated shall ensure that the part continues to be so recognisable so long as it is used for conveying gas.
 
-### 24. Large consumers[^key-7c8d6b25354ad4955232dd5db558be54]
+### 24. Large consumers[^c-7c8d6b25354ad4955232dd5db558be54]
 
 (1) Where the service pipe to any building having two or more floors to which gas is supplied or (whether or not it has more than one floor) a floor having areas with a separate supply of gas has an internal diameter of 50 mm or more, a person shall not install any incoming installation pipework supplying gas to any of those floors or areas, as the case may be, unless –
 
@@ -429,14 +429,14 @@ A person shall not install any installation pipework in which deposition of liqu
 
 ## PART V — GAS APPLIANCES
 
-### 25. Interpretation of Part V[^key-ec1e926b6f5839fc67cc1378ec9b8989]
+### 25. Interpretation of Part V[^c-ec1e926b6f5839fc67cc1378ec9b8989]
 
 In this Part –
 
 - “flue pipe” means a pipe forming a flue but does not include a pipe built as a lining into either a chimney or a gas appliance ventilation duct;
 - “operating pressure”, in relation to a gas appliance, means the pressure of gas at which it is designed to operate.
 
-### 26. Gas appliances – safety precautions[^key-54cb44fa84dd81f5bccc39804d2f3373]
+### 26. Gas appliances – safety precautions[^c-54cb44fa84dd81f5bccc39804d2f3373]
 
 (1) A person shall not install a gas appliance unless it can be used without constituting a danger to any person.
 
@@ -471,7 +471,7 @@ and forthwith take all reasonable practicable steps to notify any defect to the 
 - (a) the direct disconnection of the gas supply of a gas appliance; or
 - (b) the purging of gas or air from an appliance or its associated pipework or fittings in any case where that purging does not adversely affect the safety of that appliance, pipe or fitting.
 
-### 27. Flues[^key-7bda7b065e270ce829263a575cebc271]
+### 27. Flues[^c-7bda7b065e270ce829263a575cebc271]
 
 (1) A person shall not install a gas appliance to any flue unless the flue is suitable and in a proper condition for the safe operation of the appliance.
 
@@ -483,15 +483,15 @@ and forthwith take all reasonable practicable steps to notify any defect to the 
 
 (5) A person shall not install a flue other than in a safe position.
 
-### 28. Access[^key-b70df7f0e8752f9615d5f617c5423ff6]
+### 28. Access[^c-b70df7f0e8752f9615d5f617c5423ff6]
 
 A person shall not install a gas appliance except in such a manner that it is readily accessible for operation, inspection and maintenance.
 
-### 29. Manufacturer’s instructions[^key-d73ed9a277fd4f1282d9abaf5bc36567]
+### 29. Manufacturer’s instructions[^c-d73ed9a277fd4f1282d9abaf5bc36567]
 
 Any person who installs a gas appliance shall leave for the use of the owner or occupier of the premises in which the appliance is installed all instructions provided by the manufacturer accompanying the appliance.
 
-### 30. Room-sealed appliances[^key-9f83a480d4e16c1b6958134a55238e97]
+### 30. Room-sealed appliances[^c-9f83a480d4e16c1b6958134a55238e97]
 
 (1) A person shall not install a gas appliance in a room used or intended to be used as a bathroom or a shower room unless it is a room-sealed appliance.
 
@@ -507,11 +507,11 @@ Any person who installs a gas appliance shall leave for the use of the owner or 
 - (a) a cupboard or compartment within such a room; or
 - (b) a cupboard, compartment or space adjacent to such a room if there is an air vent from the cupboard, compartment or space into such a room.
 
-### 31. Suspended appliances[^key-a4452b9803fea1088be3f1039e8e6966]
+### 31. Suspended appliances[^c-a4452b9803fea1088be3f1039e8e6966]
 
 A person shall not install a suspended gas appliance unless the installation pipework to which it is connected is so constructed and installed as to be capable of safely supporting the weight imposed on it and the appliance is designed to be so supported.
 
-### 32. Flue dampers[^key-ae681f0367657662bc52a0a6f7464e61]
+### 32. Flue dampers[^c-ae681f0367657662bc52a0a6f7464e61]
 
 (1) Any person who installs an automatic damper to serve a gas appliance shall –
 
@@ -522,7 +522,7 @@ A person shall not install a suspended gas appliance unless the installation pip
 
 (3) A person shall not install a domestic gas appliance to a flue which incorporates a manually operated damper unless the damper is permanently fixed in the open position.
 
-### 33. Testing of appliances[^key-ae2fad765b05d156799a02c58ad4f951]
+### 33. Testing of appliances[^c-ae2fad765b05d156799a02c58ad4f951]
 
 (1) Where a person installs a gas appliance at a time when gas is being supplied to the premises in which the appliance is installed, he shall immediately thereafter test its connection to the installation pipework to verify that it is gastight and examine the appliance and the gas fittings and other works for the supply of gas and any flue or means of ventilation to be used in connection with the appliance for the purpose of ascertaining whether –
 
@@ -538,7 +538,7 @@ A person shall not install a suspended gas appliance unless the installation pip
 - (a) a person shall not subsequently permit gas to pass into the appliance unless he has caused such testing, examination and adjustment as is specified in paragraphs (1) and (2) to be carried out; and
 - (b) a person who subsequently provides a gas supply to those premises shall, unless he complies with sub-paragraph (a), ensure that the appliance is sealed off from the gas supply with an appropriate fitting.
 
-### 34. Use of appliances[^key-147a227caa3492a46adf83db58c5a1fa]
+### 34. Use of appliances[^c-147a227caa3492a46adf83db58c5a1fa]
 
 (1) The responsible person for any premises shall not use a gas appliance or permit a gas appliance to be used if at any time he knows or has reason to suspect that it cannot be used without constituting a danger to any person.
 
@@ -550,11 +550,11 @@ A person shall not install a suspended gas appliance unless the installation pip
 
 ## PART VI — MAINTENANCE
 
-### 35. Duties of employers and self-employed persons[^key-fd90534b68fa29bc19c540ab1befdbac]
+### 35. Duties of employers and self-employed persons[^c-fd90534b68fa29bc19c540ab1befdbac]
 
 It shall be the duty of every employer or self-employed person to ensure that any gas appliance, installation pipework or flue installed at any place of work under his control is maintained in a safe condition so as to prevent risk of injury to any person.
 
-### 36. Duties of landlords[^key-56c13a717809a828f8dc32b116917b56]
+### 36. Duties of landlords[^c-56c13a717809a828f8dc32b116917b56]
 
 (1) In this regulation –
 
@@ -632,7 +632,7 @@ so as to prevent the risk of injury to any person in lawful occupation of releva
 
 ## PART VII — MISCELLANEOUS
 
-### 37. Escape of gas[^key-de31f1e715a05dbed9ea117e93b7dcf1]
+### 37. Escape of gas[^c-de31f1e715a05dbed9ea117e93b7dcf1]
 
 (1) Where any gas escapes from any pipe of a gas supplier or from any pipe, other gas fitting or gas storage vessel used by a person supplied with gas by a gas supplier, the supplier of the gas shall, within twelve hours of being so informed of the escape, prevent the gas escaping (whether by cutting off the supply of gas to any premises or otherwise).
 
@@ -650,7 +650,7 @@ so as to prevent the risk of injury to any person in lawful occupation of releva
 
 (8) In this regulation any reference to an escape of gas from a gas fitting includes a reference to an escape or emission of carbon monoxide gas resulting from incomplete combustion of gas in a gas fitting, but, to the extent that this regulation relates to such an escape or emission of carbon monoxide gas, the requirements imposed upon a supplier by paragraph (1) shall, where the escape or emission is notified to the supplier by the person to whom the gas has been supplied, be limited to advising that person of the immediate action to be taken to prevent such escape or emission and the need for the examination and, where necessary, repair of the fitting by a competent person.
 
-### 38. Use of antifluctuators and valves[^key-736cc0148dd846481795aadad1207a73]
+### 38. Use of antifluctuators and valves[^c-736cc0148dd846481795aadad1207a73]
 
 (1) Where a consumer uses gas for the purpose of working or supplying plant which is liable to produce pressure fluctuation in the gas supply such as to cause any danger to other consumers, he shall comply with such directions as may be given to him by the transporter of the gas to prevent such danger.
 
@@ -665,11 +665,11 @@ and in this paragraph “gaseous substance” includes compressed air but does n
 
 (4) Any direction given pursuant to this regulation shall be in writing.
 
-### 39. Exception as to liability[^key-b748b9c94340f0b74404a4285f796734]
+### 39. Exception as to liability[^c-b748b9c94340f0b74404a4285f796734]
 
 A person shall not be guilty of an offence by reason of contravention of regulation 3(2) or (6), 5(1), 7(3), 15, 16(2) or (3), 17(1), 27(5), 30 (insofar as it relates to the installation of a gas fire, other gas space heater or a gas water heater of more than 14 kilowatt gross heat input), 33(1), 35 or 36 in any case in which he can show that he took all reasonable steps to prevent that contravention.
 
-### 40. Exemption certificates[^key-a14bd68e2acc9fbf8037a77220a03edb]
+### 40. Exemption certificates[^c-a14bd68e2acc9fbf8037a77220a03edb]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any person or class of persons from any requirement or prohibition imposed by these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the Executive by a further certificate in writing.
 
@@ -680,7 +680,7 @@ A person shall not be guilty of an offence by reason of contravention of regulat
 
 it is satisfied that the health and safety of persons likely to be affected by the exemption will not be prejudiced in consequence of it.
 
-### 41. Revocation[^key-e0d69db5e99943d9045bf65fa1995217]
+### 41. Revocation[^c-e0d69db5e99943d9045bf65fa1995217]
 
 The Gas Safety (Installation and Use) Regulations (Northern Ireland) 1997[^f00014] are hereby revoked.
 
@@ -748,9 +748,9 @@ Department of Enterprise, Trade and Investment
 
 [^f00006]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
 
-[^key-2e22b43218155f875dd45604cc52df42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-2e22b43218155f875dd45604cc52df42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-939f10c526ea103b5bd09e88f6f381a0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/63/regulation/2) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-939f10c526ea103b5bd09e88f6f381a0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2004/63/regulation/2) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1996/275 (N.I. 2)](https://www.legislation.gov.uk/nisi/1996/275)
 
@@ -758,92 +758,92 @@ Department of Enterprise, Trade and Investment
 
 [^f00009]: Footnote: [1969 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1969/6) as amended by [S.R. 1980 No. 333](https://www.legislation.gov.uk/nisr/1980/333), [S.R. 1981 No. 339](https://www.legislation.gov.uk/nisr/1981/339), [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675), [S.R. 1982 No. 429](https://www.legislation.gov.uk/nisr/1982/429), [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54), [S.I. 1983/150 (N.I. 4)](https://www.legislation.gov.uk/nisi/1983/150), [S.R. 1986 No. 247](https://www.legislation.gov.uk/nisr/1986/247), [S.I. 1988/796 (N.I. 7)](https://www.legislation.gov.uk/nisi/1988/796), [S.I. 1990/246 (N.I. 2)](https://www.legislation.gov.uk/nisi/1990/246), [S.R. 1991 No. 13](https://www.legislation.gov.uk/nisr/1991/13), [S.R. 1991 No. 239](https://www.legislation.gov.uk/nisr/1991/239), [S.R. 1992 No. 535](https://www.legislation.gov.uk/nisr/1992/535), [S.I. 1992/3073](https://www.legislation.gov.uk/uksi/1992/3073), [S.R. 1993 No. 19](https://www.legislation.gov.uk/nisr/1993/19), [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755), [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980), [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455), [S.R. 1998 No. 67](https://www.legislation.gov.uk/nisr/1998/67), [S.R. 1998 No. 375](https://www.legislation.gov.uk/nisr/1998/375), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 1999 No. 304](https://www.legislation.gov.uk/nisr/1999/304)
 
-[^key-1ff21c821189f21c99ddd1e99c372d19]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2004/63/regulation/2/4/b) substituted (1.8.2006) by [Quarries Regulations (Northern Ireland) 2006 (S.R. 2006/205)](https://www.legislation.gov.uk/nisr/2006/205), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II)
+[^c-1ff21c821189f21c99ddd1e99c372d19]: Textual amendment: Words in [reg. 2(4)(b)](https://www.legislation.gov.uk/nisr/2004/63/regulation/2/4/b) substituted (1.8.2006) by [Quarries Regulations (Northern Ireland) 2006 (S.R. 2006/205)](https://www.legislation.gov.uk/nisr/2006/205), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/205/regulation/1/1), [Sch. 2 Pt. II](https://www.legislation.gov.uk/nisr/2006/205/schedule/2/part/II)
 
 [^f00010]: Footnote: [S.I. 1983/150 (N.I. 4)](https://www.legislation.gov.uk/nisi/1983/150) as amended by [S.R. 1997 No. 455](https://www.legislation.gov.uk/nisr/1997/455), [S.R. 1999 No. 150](https://www.legislation.gov.uk/nisr/1999/150) and [S.R. 1999 No. 304](https://www.legislation.gov.uk/nisr/1999/304)
 
-[^key-6812409568491e30b9452f84ac64ee5e]: Textual amendment: Words in [reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2004/63/regulation/2/4/d) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+[^c-6812409568491e30b9452f84ac64ee5e]: Textual amendment: Words in [reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2004/63/regulation/2/4/d) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
 
-[^key-08f7524c42fc021ae82694340a3fb286]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/63/regulation/3) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-08f7524c42fc021ae82694340a3fb286]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2004/63/regulation/3) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-c87f8d0842437c615815bff2acbeb806]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/63/regulation/4) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-c87f8d0842437c615815bff2acbeb806]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2004/63/regulation/4) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-759e29efba90bf15255303019889f8aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/63/regulation/5) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-759e29efba90bf15255303019889f8aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2004/63/regulation/5) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-09c7b3124b210e6ff03e6692a8eb16eb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/63/regulation/6) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-09c7b3124b210e6ff03e6692a8eb16eb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2004/63/regulation/6) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-b30a0f042119a50cd4d55b32914714f0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/63/regulation/7) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-b30a0f042119a50cd4d55b32914714f0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2004/63/regulation/7) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-64cf2ea4edf1a710faa6d90f5cb51042]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/63/regulation/8) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-64cf2ea4edf1a710faa6d90f5cb51042]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2004/63/regulation/8) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-2a3201616f76383497667eb765037035]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/63/regulation/9) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-2a3201616f76383497667eb765037035]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2004/63/regulation/9) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-178c8dc64e098aeca8f43e432a95e13e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/63/regulation/10) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-178c8dc64e098aeca8f43e432a95e13e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2004/63/regulation/10) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-e575ced03f681389bba8fe26a5619b20]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/63/regulation/11) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-e575ced03f681389bba8fe26a5619b20]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2004/63/regulation/11) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-d5963171bcc993ea77507216efb7558f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/63/regulation/12) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-d5963171bcc993ea77507216efb7558f]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2004/63/regulation/12) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-8767c1888bd9b7830137c60ce026d42b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2004/63/regulation/13) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-8767c1888bd9b7830137c60ce026d42b]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2004/63/regulation/13) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-937b173a24f1210a7bb0d604d5e9c655]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/63/regulation/14) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-937b173a24f1210a7bb0d604d5e9c655]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2004/63/regulation/14) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-201f159d48c0566333a70737e029b2c5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/63/regulation/15) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-201f159d48c0566333a70737e029b2c5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/63/regulation/15) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-0603a1163fa64410920d705a72f65786]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2004/63/regulation/16) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-0603a1163fa64410920d705a72f65786]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2004/63/regulation/16) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-e80d75c9b0f5963c323fd28db7ac9e50]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/63/regulation/17) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-e80d75c9b0f5963c323fd28db7ac9e50]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2004/63/regulation/17) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-c3f938ccbb589d7a423a66760883fa93]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/63/regulation/18) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-c3f938ccbb589d7a423a66760883fa93]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/63/regulation/18) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-9365b910ab014b4b58e1c19660ce0877]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/63/regulation/19) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-9365b910ab014b4b58e1c19660ce0877]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2004/63/regulation/19) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-1bd2058e4676253f54515c6638f8df6b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/63/regulation/20) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-1bd2058e4676253f54515c6638f8df6b]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/63/regulation/20) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-6b6a2e2d707cdf739ce6602fc4f1448b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/63/regulation/21) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-6b6a2e2d707cdf739ce6602fc4f1448b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2004/63/regulation/21) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-fb50f7fb288355df584445033748e0c3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/63/regulation/22) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-fb50f7fb288355df584445033748e0c3]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2004/63/regulation/22) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-97be739146df7815dabb3d1de9c960fc]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2004/63/regulation/23) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-97be739146df7815dabb3d1de9c960fc]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2004/63/regulation/23) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-7c8d6b25354ad4955232dd5db558be54]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2004/63/regulation/24) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-7c8d6b25354ad4955232dd5db558be54]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2004/63/regulation/24) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-ec1e926b6f5839fc67cc1378ec9b8989]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2004/63/regulation/25) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-ec1e926b6f5839fc67cc1378ec9b8989]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2004/63/regulation/25) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-54cb44fa84dd81f5bccc39804d2f3373]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2004/63/regulation/26) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-54cb44fa84dd81f5bccc39804d2f3373]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2004/63/regulation/26) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-7bda7b065e270ce829263a575cebc271]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2004/63/regulation/27) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-7bda7b065e270ce829263a575cebc271]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2004/63/regulation/27) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-b70df7f0e8752f9615d5f617c5423ff6]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2004/63/regulation/28) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-b70df7f0e8752f9615d5f617c5423ff6]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2004/63/regulation/28) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-d73ed9a277fd4f1282d9abaf5bc36567]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2004/63/regulation/29) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-d73ed9a277fd4f1282d9abaf5bc36567]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2004/63/regulation/29) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-9f83a480d4e16c1b6958134a55238e97]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2004/63/regulation/30) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-9f83a480d4e16c1b6958134a55238e97]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2004/63/regulation/30) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-a4452b9803fea1088be3f1039e8e6966]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2004/63/regulation/31) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-a4452b9803fea1088be3f1039e8e6966]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2004/63/regulation/31) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-ae681f0367657662bc52a0a6f7464e61]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2004/63/regulation/32) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-ae681f0367657662bc52a0a6f7464e61]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2004/63/regulation/32) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-ae2fad765b05d156799a02c58ad4f951]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2004/63/regulation/33) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-ae2fad765b05d156799a02c58ad4f951]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2004/63/regulation/33) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-147a227caa3492a46adf83db58c5a1fa]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2004/63/regulation/34) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-147a227caa3492a46adf83db58c5a1fa]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2004/63/regulation/34) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-fd90534b68fa29bc19c540ab1befdbac]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2004/63/regulation/35) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-fd90534b68fa29bc19c540ab1befdbac]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2004/63/regulation/35) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-56c13a717809a828f8dc32b116917b56]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2004/63/regulation/36) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-56c13a717809a828f8dc32b116917b56]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2004/63/regulation/36) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
 [^f00012]: Footnote: [S.I. 1978/1050 (N.I. 20)](https://www.legislation.gov.uk/nisi/1978/1050) to which there are amendments not relevant to these Regulations
 
-[^key-de31f1e715a05dbed9ea117e93b7dcf1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2004/63/regulation/37) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-de31f1e715a05dbed9ea117e93b7dcf1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2004/63/regulation/37) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
 [^f00013]: Footnote: [S.R. 1997 No. 195](https://www.legislation.gov.uk/nisr/1997/195)
 
-[^key-736cc0148dd846481795aadad1207a73]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2004/63/regulation/38) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-736cc0148dd846481795aadad1207a73]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2004/63/regulation/38) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-b748b9c94340f0b74404a4285f796734]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2004/63/regulation/39) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-b748b9c94340f0b74404a4285f796734]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2004/63/regulation/39) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-a14bd68e2acc9fbf8037a77220a03edb]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2004/63/regulation/40) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-a14bd68e2acc9fbf8037a77220a03edb]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2004/63/regulation/40) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
-[^key-e0d69db5e99943d9045bf65fa1995217]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2004/63/regulation/41) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
+[^c-e0d69db5e99943d9045bf65fa1995217]: Commencement: [Reg. 41](https://www.legislation.gov.uk/nisr/2004/63/regulation/41) in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/63/regulation/1)
 
 [^f00014]: Footnote: [S.R. 1997 No. 194](https://www.legislation.gov.uk/nisr/1997/194)

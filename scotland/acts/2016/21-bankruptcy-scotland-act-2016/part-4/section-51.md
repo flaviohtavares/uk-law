@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Appointment of trustee[^key-a3db7bcd1e3718f821e8e41eaa5f7bc2]
+## 51. Appointment of trustee[^c-a3db7bcd1e3718f821e8e41eaa5f7bc2]
 
 *Extent: S*
 
@@ -92,4 +92,4 @@ AiB is deemed to be appointed the trustee in the sequestration.
 
 ## Annotations
 
-[^key-a3db7bcd1e3718f821e8e41eaa5f7bc2]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2016/21/section/51) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-a3db7bcd1e3718f821e8e41eaa5f7bc2]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2016/21/section/51) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

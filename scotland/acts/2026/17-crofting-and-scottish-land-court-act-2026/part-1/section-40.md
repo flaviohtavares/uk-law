@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Assignation of croft[^key-9a3eafd6347c51d45f80321153aeb465]
+## 40. Assignation of croft[^c-9a3eafd6347c51d45f80321153aeb465]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3eafd6347c51d45f80321153aeb465]: Commencement: S. 40 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-9a3eafd6347c51d45f80321153aeb465]: Commencement: S. 40 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

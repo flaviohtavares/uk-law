@@ -46,16 +46,16 @@ were attributable to such a gift to the exempt beneficiary as is mentioned in su
 (6) In this section—
 
 - “**exempt gift**”, in relation to a transfer of value falling within subsection (1)(a) above, means—
-  - (a) a gift with respect to which the transfer is (apart from this section) exempt by virtue of the provisions of any sections 18 and 23 to 28A[^key-796729cc770e79f1f8e30855361ce774] above, or
+  - (a) a gift with respect to which the transfer is (apart from this section) exempt by virtue of the provisions of any sections 18 and 23 to 28A[^c-796729cc770e79f1f8e30855361ce774] above, or
   - (b) where (apart from this section) the transfer is so exempt with respect to a gift up to a limit, so much of the gift as is within that limit;
 - “**the exempt beneficiary**”, in relation to an exempt gift, means any of the following, namely—
   - (a) where the gift is exempt by virtue of section 18 above, the deceased’s spouse or civil partner[^c19772711],
   - (b) where the gift is exempt by virtue of section 23 above, any person or body—
-    - (i) whose property the property falling within subsection (1) of that section becomes, [^key-1dd4eb039387919824bdd9d0d85eef74]...
+    - (i) whose property the property falling within subsection (1) of that section becomes, [^c-1dd4eb039387919824bdd9d0d85eef74]...
     - (ii) [^M_F_87fd0548-72c7-428f-cc6c-db05fc3bb27c]...
   - (c) where the gift is exempt by virtue of section 24, or 25[^c13607731] above, any body whose property the property falling within subsection (1) of that section becomes,
   - (d) where the gift is exempt by virtue of section 24A above, any body to whom the land falling within subsection (1) of that section is given, and
-  - (e) where the gift is exempt by virtue of section 27 , 28 or 28A[^key-93c0ad9a2f3761a7c17ead2678325e7d] above, the trustees of any settlement in which the property falling within subsection (1) of that section becomes comprised;
+  - (e) where the gift is exempt by virtue of section 27 , 28 or 28A[^c-93c0ad9a2f3761a7c17ead2678325e7d] above, the trustees of any settlement in which the property falling within subsection (1) of that section becomes comprised;
 - “**gift**” and “**specific gift**” have the same meaning as in Chapter III of this Part; and
 - “**the relevant value**”, in relation to a transfer of value falling within subsection (1)(a) above, means so much of the value transferred by the transfer as is attributable to the gift referred to in that provision.
 
@@ -63,14 +63,14 @@ were attributable to such a gift to the exempt beneficiary as is mentioned in su
 
 [^c13607721]: Textual amendment: Finance Act 1989 s. 172(1),*in relation to deaths occurring on or after* 27*July* 1989.
 
-[^key-796729cc770e79f1f8e30855361ce774]: Textual amendment: Words in s. 29A(6) substituted (with effect in accordance with Sch. 37 para. 12(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/12/1/a)
+[^c-796729cc770e79f1f8e30855361ce774]: Textual amendment: Words in s. 29A(6) substituted (with effect in accordance with Sch. 37 para. 12(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/12/1/a)
 
 [^c19772711]: Textual amendment: S. 29A(6): words in the definition of "the exempt beneficiary" inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2005/3229/regulation/10)
 
-[^key-1dd4eb039387919824bdd9d0d85eef74]: Textual amendment: Word in [s. 29A(6)](https://www.legislation.gov.uk/ukpga/1984/51/section/29A/6) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))
+[^c-1dd4eb039387919824bdd9d0d85eef74]: Textual amendment: Word in [s. 29A(6)](https://www.legislation.gov.uk/ukpga/1984/51/section/29A/6) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))
 
 [^M_F_87fd0548-72c7-428f-cc6c-db05fc3bb27c]: Textual amendment: Words in [s. 29A(6)](https://www.legislation.gov.uk/ukpga/1984/51/section/29A/6) omitted (with effect in accordance with s. 78(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 78(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/78/5) (with [s. 79](https://www.legislation.gov.uk/ukpga/2026/11/section/79))
 
 [^c13607731]: Textual amendment: S. 29A(6): words in the definition of “the exempt beneficiary” substituted (31.7.1998 with effect in relation to any transfer of value made on or after 17.3.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 143(2)(a)](https://www.legislation.gov.uk/ukpga/1998/36/section/143/2/a)
 
-[^key-93c0ad9a2f3761a7c17ead2678325e7d]: Textual amendment: Words in s. 29A(6) substituted (with effect in accordance with Sch. 37 para. 12(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/12/1/b)
+[^c-93c0ad9a2f3761a7c17ead2678325e7d]: Textual amendment: Words in s. 29A(6) substituted (with effect in accordance with Sch. 37 para. 12(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/12/1/b)

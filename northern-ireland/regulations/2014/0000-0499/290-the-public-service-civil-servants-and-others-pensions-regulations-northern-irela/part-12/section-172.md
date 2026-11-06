@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 172. Reduction of benefits where lifetime allowance charge payable[^key-4babc142b895f4dffa12fecc64d69bde]
+## 172. Reduction of benefits where lifetime allowance charge payable[^c-4babc142b895f4dffa12fecc64d69bde]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4babc142b895f4dffa12fecc64d69bde]: Commencement: [Reg. 172](https://www.legislation.gov.uk/nisr/2014/290/regulation/172) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-4babc142b895f4dffa12fecc64d69bde]: Commencement: [Reg. 172](https://www.legislation.gov.uk/nisr/2014/290/regulation/172) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

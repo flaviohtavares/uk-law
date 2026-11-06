@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Amendment of the National Health Service (Scotland) (Additional Voluntary Contributions) Regulations 1998[^key-b92c6bd6dfe9e8e6564d5361fb153699]
+## 105. Amendment of the National Health Service (Scotland) (Additional Voluntary Contributions) Regulations 1998[^c-b92c6bd6dfe9e8e6564d5361fb153699]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b92c6bd6dfe9e8e6564d5361fb153699]: Commencement: Reg. 105 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-b92c6bd6dfe9e8e6564d5361fb153699]: Commencement: Reg. 105 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 1998/1451](https://www.legislation.gov.uk/uksi/1998/1451); relevantly amended by [S.S.I. 2008/225](https://www.legislation.gov.uk/ssi/2008/225), reg 2(13).

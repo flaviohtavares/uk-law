@@ -34,7 +34,7 @@ An Act to make provision about transport to, from and within Wales.
 
 \[16th February 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-91b0a290e34a9de286068735a8a8cde7]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-91b0a290e34a9de286068735a8a8cde7]
 
 ## General transport functions
 
@@ -101,7 +101,7 @@ The Schedule (which makes provision about local transport plans) has effect.
 
 (6) “**Transport function**” means a function of a local authority in Wales relating to transport.
 
-### 5. Joint transport authorities[^key-8fcdb01eb33900a4f2ea52a0a15b29bf]
+### 5. Joint transport authorities[^c-8fcdb01eb33900a4f2ea52a0a15b29bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -109,7 +109,7 @@ The Schedule (which makes provision about local transport plans) has effect.
 
 (1) The Assembly may give financial assistance to—
 
-- (a)[^key-8b213c34048e01e70a3828b925439ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8b213c34048e01e70a3828b925439ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) local authorities in Wales,
 
 for the purpose of enabling or facilitating them to discharge their functions relating to transport.
@@ -294,7 +294,7 @@ Section 3
 
 .
 
-(3)[^key-b1569100d4d73ab391a5fcecf8912fc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b1569100d4d73ab391a5fcecf8912fc1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** (1) Section 109 (further provision about plans) is amended as follows.
 
@@ -304,9 +304,9 @@ Section 3
 
 (4) In subsection (3)(b) omit the words from “(in the case of an authority whose area is in England)” to “in Wales)”.
 
-(5)[^key-f0a420cbe0244f0d136e4f8f986091fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f0a420cbe0244f0d136e4f8f986091fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-f0a420cbe0244f0d136e4f8f986091fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f0a420cbe0244f0d136e4f8f986091fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** After section 109 insert—
 
@@ -376,7 +376,7 @@ Section 3
 
 .
 
-**5.**[^key-2d7cbc15bcbde097e8ded980d199d6d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-2d7cbc15bcbde097e8ded980d199d6d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** After section 113 insert—
 
@@ -415,13 +415,13 @@ Section 3
 
 ## Annotations
 
-[^key-91b0a290e34a9de286068735a8a8cde7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/5) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 2](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/2)
+[^c-91b0a290e34a9de286068735a8a8cde7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/5) applied (with modifications) (28.2.2022) by [The Corporate Joint Committees (Transport Functions) (Consequential Modifications and Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/188)](https://www.legislation.gov.uk/wsi/2022/188), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/188/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2022/188/regulation/3), [Sch. para. 2](https://www.legislation.gov.uk/wsi/2022/188/schedule/paragraph/2)
 
 [^c2106163]: Textual amendment: [S. 2(6)(7)](https://www.legislation.gov.uk/ukpga/2006/5/section/2/6/7) repealed (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3), [3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 121](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/121)
 
-[^key-8fcdb01eb33900a4f2ea52a0a15b29bf]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2006/5/section/5) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 49(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/49/a)
+[^c-8fcdb01eb33900a4f2ea52a0a15b29bf]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/2006/5/section/5) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 49(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/49/a)
 
-[^key-8b213c34048e01e70a3828b925439ae4]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2006/5/section/6/1/a) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 49(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/49/b)
+[^c-8b213c34048e01e70a3828b925439ae4]: Textual amendment: [S. 6(1)(a)](https://www.legislation.gov.uk/ukpga/2006/5/section/6/1/a) omitted (21.1.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 49(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/49/b)
 
 [^c2106152]: Textual amendment: Words in [s. 7(4)](https://www.legislation.gov.uk/ukpga/2006/5/section/7/4) inserted (9.2.2009 for E. and 1.4.2009 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2008/26/section/69/2), [134(3)(5)(6)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/3/5/6); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/107/schedule/2); [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2](https://www.legislation.gov.uk/uksi/2009/579/article/2)
 
@@ -429,8 +429,8 @@ Section 3
 
 [^c2120007]: Subordinate legislation: [S. 12](https://www.legislation.gov.uk/ukpga/2006/5/section/12) power fully exercised: 26.5.2006 appointed by {[S.I. 2006/1403](https://www.legislation.gov.uk/uksi/2006/1403)}, art. 2
 
-[^key-b1569100d4d73ab391a5fcecf8912fc1]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/2/3) repealed (11.1.2010 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/c); [S.I. 2009/3294](https://www.legislation.gov.uk/wsi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/3294/article/2/d)
+[^c-b1569100d4d73ab391a5fcecf8912fc1]: Textual amendment: [Sch. para. 2(3)](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/2/3) repealed (11.1.2010 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/c); [S.I. 2009/3294](https://www.legislation.gov.uk/wsi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/3294/article/2/d)
 
-[^key-f0a420cbe0244f0d136e4f8f986091fb]: Textual amendment: [Sch. paras. 3(5)](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/3/5)[(6)](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/3/6) repealed (11.1.2010 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/c); [S.I. 2009/3294](https://www.legislation.gov.uk/wsi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/3294/article/2/d)
+[^c-f0a420cbe0244f0d136e4f8f986091fb]: Textual amendment: [Sch. paras. 3(5)](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/3/5)[(6)](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/3/6) repealed (11.1.2010 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/c); [S.I. 2009/3294](https://www.legislation.gov.uk/wsi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/3294/article/2/d)
 
-[^key-2d7cbc15bcbde097e8ded980d199d6d6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/5) repealed (11.1.2010 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/c); [S.I. 2009/3294](https://www.legislation.gov.uk/wsi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/3294/article/2/d)
+[^c-2d7cbc15bcbde097e8ded980d199d6d6]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2006/5/schedule/paragraph/5) repealed (11.1.2010 for E., 31.1.2010 for W.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/1); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/c); [S.I. 2009/3294](https://www.legislation.gov.uk/wsi/2009/3294), [art. 2(d)](https://www.legislation.gov.uk/wsi/2009/3294/article/2/d)

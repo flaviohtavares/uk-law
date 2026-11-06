@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3335df78cca6777f4e6415b6706dbd25] The Police Act 1996 is amended as follows.
+(1)[^c-3335df78cca6777f4e6415b6706dbd25] The Police Act 1996 is amended as follows.
 
-(2)[^key-3335df78cca6777f4e6415b6706dbd25] In section 50 (regulations for police forces), after subsection (3) (regulations concerning disciplinary proceedings) insert—
+(2)[^c-3335df78cca6777f4e6415b6706dbd25] In section 50 (regulations for police forces), after subsection (3) (regulations concerning disciplinary proceedings) insert—
 
 > (3A) Regulations under this section may provide for the procedures that are established by or under regulations made by virtue of subsection (3) to apply (with or without modifications) in respect of the conduct, efficiency or effectiveness of any person where—
 >
@@ -52,7 +52,7 @@ summary: ''
 >
 > The period specified must begin with the date when the person ceased to be a member of a police force.
 
-(3)[^key-3335df78cca6777f4e6415b6706dbd25] In section 51 (regulations for special constables), after subsection (2A) (regulations concerning disciplinary proceedings) insert—
+(3)[^c-3335df78cca6777f4e6415b6706dbd25] In section 51 (regulations for special constables), after subsection (2A) (regulations concerning disciplinary proceedings) insert—
 
 > (2B) Regulations under this section may provide for the procedures that are established by or under regulations made by virtue of subsection (2A) to apply (with or without modifications) in respect of the conduct, efficiency or effectiveness of any person where—
 >
@@ -82,7 +82,7 @@ summary: ''
 >
 > The period specified must begin with the date when the person ceased to be a special constable.
 
-(4)[^key-3335df78cca6777f4e6415b6706dbd25] In section 84 (representation etc at disciplinary and other proceedings)—
+(4)[^c-3335df78cca6777f4e6415b6706dbd25] In section 84 (representation etc at disciplinary and other proceedings)—
 
 - (a) in subsection (1)—
   - (i) after “50(3)” insert “ or (3A) ”;
@@ -99,9 +99,9 @@ summary: ''
 
     .
 
-(5)[^key-3335df78cca6777f4e6415b6706dbd25] In section 85 (appeals against dismissal etc), in subsection (1), after “constable” insert “ , or a former member of a police force or a former special constable, ”.
+(5)[^c-3335df78cca6777f4e6415b6706dbd25] In section 85 (appeals against dismissal etc), in subsection (1), after “constable” insert “ , or a former member of a police force or a former special constable, ”.
 
-(6)[^key-3335df78cca6777f4e6415b6706dbd25] In Schedule 6 (appeals to Police Appeals Tribunals), in paragraph 10—
+(6)[^c-3335df78cca6777f4e6415b6706dbd25] In Schedule 6 (appeals to Police Appeals Tribunals), in paragraph 10—
 
 - (a) in paragraph (b), before “means” insert “ , except in relation to an appeal under section 85 that relates to proceedings conducted under regulations made in pursuance of section 50(3A) or section 51(2B), ”;
 - (b) after paragraph (b) insert—
@@ -112,19 +112,19 @@ summary: ''
   >
   >   as the case may be.
 
-(7)[^key-3335df78cca6777f4e6415b6706dbd25] Regulations made in pursuance of section 50(3A) or 51(2B) of the Police Act 1996 (as inserted by subsections (2) and (3))—
+(7)[^c-3335df78cca6777f4e6415b6706dbd25] Regulations made in pursuance of section 50(3A) or 51(2B) of the Police Act 1996 (as inserted by subsections (2) and (3))—
 
 - (a) may not make provision in relation to a person who ceases to be a member of a police force or a special constable (as the case may be) before the coming into force of subsections (2) and (3);
 - (b) may make provision in relation to a person who ceases to be a member of a police force or a special constable (as the case may be) after the coming into force of this section even though the alleged misconduct, inefficiency or ineffectiveness occurred at a time before the coming into force of subsections (2) and (3), but only if the alleged misconduct, inefficiency or ineffectiveness is such that, if proved, there could be a finding in relation to the person in disciplinary proceedings that the person would have been dismissed if the person had still been a member of a police force or a special constable.
 
-(8)[^key-d697348214e7319dc68a2c2b04925045][^key-a9d2c027db3fa51337ba56d146638b6d] Schedule 7 makes amendments of the Ministry of Defence Police Act 1987, the Railways and Transport Safety Act 2003 and the Energy Act 2004 which produce an equivalent effect to the amendments made by this section.
+(8)[^c-d697348214e7319dc68a2c2b04925045][^c-a9d2c027db3fa51337ba56d146638b6d] Schedule 7 makes amendments of the Ministry of Defence Police Act 1987, the Railways and Transport Safety Act 2003 and the Energy Act 2004 which produce an equivalent effect to the amendments made by this section.
 
 ## Annotations
 
 [^c22718621]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2017/3/section/29) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3335df78cca6777f4e6415b6706dbd25]: Commencement: [S. 29(1)-(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/29/1) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/a) (as amended by S.I 2017/1162, reg. 2)
+[^c-3335df78cca6777f4e6415b6706dbd25]: Commencement: [S. 29(1)-(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/29/1) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/a) (as amended by S.I 2017/1162, reg. 2)
 
-[^key-d697348214e7319dc68a2c2b04925045]: Commencement: [S. 29(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/29/8) in force at 15.12.2017 for specified purposes by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by S.I 2017/1162, reg. 2)
+[^c-d697348214e7319dc68a2c2b04925045]: Commencement: [S. 29(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/29/8) in force at 15.12.2017 for specified purposes by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/b) (as amended by S.I 2017/1162, reg. 2)
 
-[^key-a9d2c027db3fa51337ba56d146638b6d]: Commencement: [S. 29(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/29/8) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/k)
+[^c-a9d2c027db3fa51337ba56d146638b6d]: Commencement: [S. 29(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/29/8) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/k)

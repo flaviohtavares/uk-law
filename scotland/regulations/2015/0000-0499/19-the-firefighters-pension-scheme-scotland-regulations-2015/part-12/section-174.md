@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 174. Evidence of entitlement[^key-9043a91de18289857be437d01e5e6e02]
+## 174. Evidence of entitlement[^c-9043a91de18289857be437d01e5e6e02]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9043a91de18289857be437d01e5e6e02]: Commencement: [Reg. 174](https://www.legislation.gov.uk/ssi/2015/19/regulation/174) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-9043a91de18289857be437d01e5e6e02]: Commencement: [Reg. 174](https://www.legislation.gov.uk/ssi/2015/19/regulation/174) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

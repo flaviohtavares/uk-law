@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Alternative address[^key-fba6335b7dce7b84830d2cdf6d76d09d]
+## 87. Alternative address[^c-fba6335b7dce7b84830d2cdf6d76d09d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where no address for the sending of documents is known or it appears that a docu
 
 ## Annotations
 
-[^key-fba6335b7dce7b84830d2cdf6d76d09d]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2024/1155/rule/87) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-fba6335b7dce7b84830d2cdf6d76d09d]: Commencement: [Rule 87](https://www.legislation.gov.uk/uksi/2024/1155/rule/87) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -35,62 +35,62 @@ on the information to be provided before the establishment and modification of a
 
 (Text with EEA relevance) (revoked)
 
-[^key-c7a1d939e9409331a782dcbe2ed6c17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c7a1d939e9409331a782dcbe2ed6c17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-c7a1d939e9409331a782dcbe2ed6c17b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+## Article 1. Subject matter and scope[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Demonstration of compliance[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+## Article 2. Definitions[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Procedure for exchange of information for new functional airspace blocks[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+## Article 3. Demonstration of compliance[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Modification of an established functional airspace block[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+## Article 4. Procedure for exchange of information for new functional airspace blocks[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Functional airspace blocks already established[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+## Article 5. Modification of an established functional airspace block[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Entry into force[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+## Article 6. Functional airspace blocks already established[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7a1d939e9409331a782dcbe2ed6c17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 7. Entry into force[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
-## ANNEX — INFORMATION TO BE PROVIDED[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART I — General information[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+[^c-c7a1d939e9409331a782dcbe2ed6c17b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7a1d939e9409331a782dcbe2ed6c17b]1.
+## ANNEX — INFORMATION TO BE PROVIDED[^c-c7a1d939e9409331a782dcbe2ed6c17b]
+
+### PART I — General information[^c-c7a1d939e9409331a782dcbe2ed6c17b]
+
+[^c-c7a1d939e9409331a782dcbe2ed6c17b]1.
 
 The Member States concerned shall specify:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7a1d939e9409331a782dcbe2ed6c17b]2.
+[^c-c7a1d939e9409331a782dcbe2ed6c17b]2.
 
 The Member States concerned shall provide the following information on the arrangements concluded regarding the establishment or modification of the functional airspace block, including:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c7a1d939e9409331a782dcbe2ed6c17b]3.
+[^c-c7a1d939e9409331a782dcbe2ed6c17b]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Requirements of Article 9a(2) of Regulation (EC) No 550/2004[^key-c7a1d939e9409331a782dcbe2ed6c17b]
+### PART II — Requirements of Article 9a(2) of Regulation (EC) No 550/2004[^c-c7a1d939e9409331a782dcbe2ed6c17b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c7a1d939e9409331a782dcbe2ed6c17b]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [187](https://www.legislation.gov.uk/uksi/2019/459/regulation/187); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7a1d939e9409331a782dcbe2ed6c17b]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [187](https://www.legislation.gov.uk/uksi/2019/459/regulation/187); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

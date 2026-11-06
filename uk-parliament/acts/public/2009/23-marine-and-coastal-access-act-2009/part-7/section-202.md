@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Power to make orders as to fisheries for shellfish[^c2008193][^key-b2a7ee53822f29ecb724cecdcf3502f8]
+## 202. Power to make orders as to fisheries for shellfish[^c2008193][^c-b2a7ee53822f29ecb724cecdcf3502f8]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c2008193]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2009/23/section/202) partly in force; [s. 202](https://www.legislation.gov.uk/ukpga/2009/23/section/202) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-b2a7ee53822f29ecb724cecdcf3502f8]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2009/23/section/202) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-b2a7ee53822f29ecb724cecdcf3502f8]: Commencement: [S. 202](https://www.legislation.gov.uk/ukpga/2009/23/section/202) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

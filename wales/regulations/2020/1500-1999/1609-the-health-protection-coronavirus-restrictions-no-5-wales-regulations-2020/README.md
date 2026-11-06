@@ -49,7 +49,7 @@ These Regulations are made in response to the serious and imminent threat to pub
 
 The Welsh Ministers consider that restrictions and requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
 
-In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.[^key-2f85f20006438aeca442be4607a48970]
+In accordance with section 45R of that Act the Welsh Ministers are of the opinion that, by reason of urgency, it is necessary to make this instrument without a draft having been laid before, and approved by a resolution of, Senedd Cymru.[^c-2f85f20006438aeca442be4607a48970]
 
 ## Contents
 
@@ -67,13 +67,13 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 - [Section 4 — Levels of restrictions](part-2/section-4.md)
 
-### PART 3 — Requirement to isolate etc.[^key-e098aacb83b11ef7b9d1c62031901c76]
+### PART 3 — Requirement to isolate etc.[^c-e098aacb83b11ef7b9d1c62031901c76]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Requirement to isolate etc. where person tests positive for coronavirus or has close contact with such person[^key-e098aacb83b11ef7b9d1c62031901c76]
+#### CHAPTER 1 — Requirement to isolate etc. where person tests positive for coronavirus or has close contact with such person[^c-e098aacb83b11ef7b9d1c62031901c76]
 
 *Extent: E+W*
 
@@ -98,7 +98,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 13 — Withdrawing a notice which requires isolation](part-3/section-13.md)
 - [Section 13A — Withdrawing a notification that close contact was with person with Omicron variant](part-3/section-13a.md)
 
-#### CHAPTER 2 — Information[^key-e098aacb83b11ef7b9d1c62031901c76]
+#### CHAPTER 2 — Information[^c-e098aacb83b11ef7b9d1c62031901c76]
 
 *Extent: E+W*
 
@@ -106,7 +106,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 
 - [Section 14 — Power to use and disclose information](part-3/section-14.md)
 
-### PART 3A — Travel restrictions etc.[^key-43a0cf8c75a343f33eb127e4cae8b20d]
+### PART 3A — Travel restrictions etc.[^c-43a0cf8c75a343f33eb127e4cae8b20d]
 
 *Extent: E+W*
 
@@ -115,7 +115,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 14A — Restriction on international travel](part-3a/section-14a.md)
 - [Section 14B — International travel declaration form](part-3a/section-14b.md)
 
-### PART 4 — Taking preventative measures in regulated premises[^key-baf33217926a2e9096fe86f4af867856]
+### PART 4 — Taking preventative measures in regulated premises[^c-baf33217926a2e9096fe86f4af867856]
 
 *Extent: E+W*
 
@@ -128,7 +128,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 17A — Specific measures applicable to retail premises](part-4/section-17a.md)
 - [Section 18 — Guidance about taking reasonable measures](part-4/section-18.md)
 
-### PART 4A — Taking preventative measures when election campaigning[^key-9b7c536cd193584498d769dda81c43ef]
+### PART 4A — Taking preventative measures when election campaigning[^c-9b7c536cd193584498d769dda81c43ef]
 
 **No longer in force.**
 
@@ -146,7 +146,7 @@ In accordance with section 45R of that Act the Welsh Ministers are of the opinio
 - [Section 20 — Requirement to wear face covering in certain indoor public places](part-5/section-20.md)
 - [Section 21 — Guidance about requirements to wear face coverings](part-5/section-21.md)
 
-### PART 6 — Provision of education in school[^key-4903e956319703775c88d2703421c91d]
+### PART 6 — Provision of education in school[^c-4903e956319703775c88d2703421c91d]
 
 *Extent: E+W*
 
@@ -330,16 +330,16 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24382631]: Marginal citation: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22). Sections 45C, 45F and 45P were inserted by section 129 of the [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14). The functions under these sections are conferred on “the appropriate Minister”. Under section 45T(6) of the 1984 Act the appropriate Minister, as respects Wales, is the Welsh Ministers.
 
-[^key-2f85f20006438aeca442be4607a48970]: Modification: Regulations applied (11.2.2022 at. 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (S.I. 2022/126)](https://www.legislation.gov.uk/wsi/2022/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/12/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/126/regulation/19))
+[^c-2f85f20006438aeca442be4607a48970]: Modification: Regulations applied (11.2.2022 at. 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) (Wales) Regulations 2022 (S.I. 2022/126)](https://www.legislation.gov.uk/wsi/2022/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2022/126/regulation/12/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2022/126/regulation/19))
 
-[^key-e098aacb83b11ef7b9d1c62031901c76]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2020/1609/part/3) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-e098aacb83b11ef7b9d1c62031901c76]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/wsi/2020/1609/part/3) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
 
-[^key-43a0cf8c75a343f33eb127e4cae8b20d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/wsi/2020/1609/part/3A) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/3)
+[^c-43a0cf8c75a343f33eb127e4cae8b20d]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/wsi/2020/1609/part/3A) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/3)
 
-[^key-baf33217926a2e9096fe86f4af867856]: Textual amendment: Pt. 4 omitted (except reg 15(1)) (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/uksi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/450/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/450/regulation/2/3)
+[^c-baf33217926a2e9096fe86f4af867856]: Textual amendment: Pt. 4 omitted (except reg 15(1)) (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/uksi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/450/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/450/regulation/2/3)
 
-[^key-9b7c536cd193584498d769dda81c43ef]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/wsi/2020/1609/part/4A) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-9b7c536cd193584498d769dda81c43ef]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/wsi/2020/1609/part/4A) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
 
 [^M_F_b2ff3da4-8b48-425a-b096-f298b56e4a27]: Textual amendment: Pt. 4B omitted (28.1.2022 at 6.00 a.m.) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/83)](https://www.legislation.gov.uk/uksi/2022/83), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/83/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/83/regulation/2/5)
 
-[^key-4903e956319703775c88d2703421c91d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/wsi/2020/1609/part/6) omitted (28.8.2021) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 16) Regulations 2021 (S.I. 2021/970)](https://www.legislation.gov.uk/wsi/2021/970), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/970/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/970/regulation/2/5)
+[^c-4903e956319703775c88d2703421c91d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/wsi/2020/1609/part/6) omitted (28.8.2021) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 16) Regulations 2021 (S.I. 2021/970)](https://www.legislation.gov.uk/wsi/2021/970), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/970/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2021/970/regulation/2/5)

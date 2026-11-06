@@ -409,7 +409,7 @@ In this sub-section “lease” includes an underlease and an agreement for a le
 
 (1) The court may, whenever it is expedient to appoint a new trustee or new trustees, and it is found inexpedient, difficult or impracticable so to do without the assistance of the court, make an order appointing a new trustee or new trustees either in substitution for or in addition to any existing trustee or trustees, or although there is no existing trustee.
 
-(2) In particular and without prejudice to the generality of sub-section (1), the court may make an order appointing a new trustee in substitution for a trustee who …[^c16950261] is a bankrupt or is the subject of a bankruptcy restrictions order[^key-9bcc66274ffe0b9eb6df2a4194aa59a6] or in relation to whom a moratorium period under a debt relief order applies or who is subject to a debt relief restrictions order[^key-8a97cf004866f4a26b080d1d876a273e] , or is a corporation which is in liquidation or has been dissolved, or who for any other reason whatsoever appears to the court to be undesirable as a trustee.
+(2) In particular and without prejudice to the generality of sub-section (1), the court may make an order appointing a new trustee in substitution for a trustee who …[^c16950261] is a bankrupt or is the subject of a bankruptcy restrictions order[^c-9bcc66274ffe0b9eb6df2a4194aa59a6] or in relation to whom a moratorium period under a debt relief order applies or who is subject to a debt relief restrictions order[^c-8a97cf004866f4a26b080d1d876a273e] , or is a corporation which is in liquidation or has been dissolved, or who for any other reason whatsoever appears to the court to be undesirable as a trustee.
 
 (3) An order under this section, and any consequential vesting order or conveyance, shall not operate further or otherwise as a discharge to any former or continuing trustee than an appointment of new trustees under any power for that purpose contained in any instrument would have operated.
 
@@ -777,9 +777,9 @@ In this Act—
 
 [^c16950261]: Textual amendment: [1967 c. 18 (NI)](https://www.legislation.gov.uk/apni/1967/18)
 
-[^key-9bcc66274ffe0b9eb6df2a4194aa59a6]: Textual amendment: Words in s. 40(2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/1)
+[^c-9bcc66274ffe0b9eb6df2a4194aa59a6]: Textual amendment: Words in s. 40(2) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 1](https://www.legislation.gov.uk/nisr/2015/159/schedule/Pt/paragraph/1)
 
-[^key-8a97cf004866f4a26b080d1d876a273e]: Textual amendment: Words in [s. 40(2)](https://www.legislation.gov.uk/apni/1958/23/section/40/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/2)
+[^c-8a97cf004866f4a26b080d1d876a273e]: Textual amendment: Words in [s. 40(2)](https://www.legislation.gov.uk/apni/1958/23/section/40/2) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/2)
 
 [^c16950271]: Textual amendment: [1979 NI 14](https://www.legislation.gov.uk/1979/ni14)
 

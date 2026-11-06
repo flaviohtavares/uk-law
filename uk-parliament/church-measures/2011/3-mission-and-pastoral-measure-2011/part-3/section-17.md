@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 17. Power of bishop to formulate and submit proposals on certain matters[^key-b855ce035b19743a1019b4cdfe9b6606]
+## 17. Power of bishop to formulate and submit proposals on certain matters[^c-b855ce035b19743a1019b4cdfe9b6606]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b855ce035b19743a1019b4cdfe9b6606]: Commencement: S. 17 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-b855ce035b19743a1019b4cdfe9b6606]: Commencement: S. 17 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

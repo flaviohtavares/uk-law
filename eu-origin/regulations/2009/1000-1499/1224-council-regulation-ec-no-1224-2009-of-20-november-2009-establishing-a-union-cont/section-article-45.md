@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45. Real time use of quotas[^key-5ab1ab95c3866eaf798e623e71b06628]
+## Article 45. Real time use of quotas[^c-5ab1ab95c3866eaf798e623e71b06628]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ab1ab95c3866eaf798e623e71b06628]: Textual amendment: [Art. 45](https://www.legislation.gov.uk/eur/2009/1224/article/45) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(43)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ab1ab95c3866eaf798e623e71b06628]: Textual amendment: [Art. 45](https://www.legislation.gov.uk/eur/2009/1224/article/45) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(43)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

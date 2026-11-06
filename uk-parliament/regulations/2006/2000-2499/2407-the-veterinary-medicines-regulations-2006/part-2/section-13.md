@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Wholesale dealing[^key-f94970d4d27255992f98ef76c60a1cf3]
+## 13. Wholesale dealing[^c-f94970d4d27255992f98ef76c60a1cf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ It is an offence to buy a veterinary medicinal product, other than by retail or 
 
 ## Annotations
 
-[^key-f94970d4d27255992f98ef76c60a1cf3]: Commencement: Reg. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f94970d4d27255992f98ef76c60a1cf3]: Commencement: Reg. 13 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

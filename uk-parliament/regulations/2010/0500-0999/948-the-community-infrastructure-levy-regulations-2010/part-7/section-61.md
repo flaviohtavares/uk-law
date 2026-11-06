@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Administrative expenses[^key-937244adb31c5c7f2a3ebe942a6ce773]
+## 61. Administrative expenses[^c-937244adb31c5c7f2a3ebe942a6ce773]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (7) For the purposes of this regulation reference to CIL collected in a year includes the value of acquired land acquired by virtue of a land payment made in that year.
 
-(7A)[^key-ff47cfbf0e27bff10633de74ecf07903] For the purposes of this regulation reference to CIL collected in a year includes the value of infrastructure provided, or to be provided, by virtue of an infrastructure payment accepted in that year.
+(7A)[^c-ff47cfbf0e27bff10633de74ecf07903] For the purposes of this regulation reference to CIL collected in a year includes the value of infrastructure provided, or to be provided, by virtue of an infrastructure payment accepted in that year.
 
 (8) In this regulation—
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-937244adb31c5c7f2a3ebe942a6ce773]: Commencement: Reg. 61 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-937244adb31c5c7f2a3ebe942a6ce773]: Commencement: Reg. 61 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-ff47cfbf0e27bff10633de74ecf07903]: Textual amendment: [Reg. 61(7A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/61/7A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/385/regulation/8/3)
+[^c-ff47cfbf0e27bff10633de74ecf07903]: Textual amendment: [Reg. 61(7A)](https://www.legislation.gov.uk/uksi/2010/948/regulation/61/7A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/385/regulation/8/3)
 
 [^f00038]: Footnote: *See* section 214 of the Planning Act 2008 and regulation 28.

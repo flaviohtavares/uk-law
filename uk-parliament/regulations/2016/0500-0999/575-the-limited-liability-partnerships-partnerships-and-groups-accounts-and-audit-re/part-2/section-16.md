@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Removal of requirements relating to abbreviated accounts[^key-2eff8876072e2542a0d36dcf864d1c40]
+## 16. Removal of requirements relating to abbreviated accounts[^c-2eff8876072e2542a0d36dcf864d1c40]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2eff8876072e2542a0d36dcf864d1c40]: Commencement: Reg. 16 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-2eff8876072e2542a0d36dcf864d1c40]: Commencement: Reg. 16 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

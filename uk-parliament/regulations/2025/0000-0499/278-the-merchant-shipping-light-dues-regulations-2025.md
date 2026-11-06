@@ -46,19 +46,19 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 205(5) of the Merchant Shipping Act 1995[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-bc9444ee2253f01c9db2b89e99f8d6fc]
+## 1. Citation, commencement and extent[^c-bc9444ee2253f01c9db2b89e99f8d6fc]
 
 (1) These Regulations may be cited as the Merchant Shipping (Light Dues) Regulations 2025 and come into force on 1st April 2025.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-dd42be9ace2935976a734c96e51015a3]
+## 2. Interpretation[^c-dd42be9ace2935976a734c96e51015a3]
 
 In these Regulations—
 
 - “**fishing vessel**” means any fishing vessel registered under Part 2 of the Merchant Shipping Act 1995 (registration of British ships) or registered as a fishing vessel under the law of another country;
 - “**general lighthouse authority**” means a general lighthouse authority set out under section 193(1) of the Merchant Shipping Act 1995;
-- “**light dues**” means general light dues within the meaning of section 205[^key-bcbcb817b31f9526ad867f8013184755] of the Merchant Shipping Act 1995;
+- “**light dues**” means general light dues within the meaning of section 205[^c-bcbcb817b31f9526ad867f8013184755] of the Merchant Shipping Act 1995;
 - “**load line length**” means the greater of the following distances measured at and along the waterline—
   - (a) the distance between the foreside of the stem and the axis of the rudder stock, or
   - (b) the distance measured from the foreside of the stem, being 96 per cent of the distance between that point and the aft side of the stern,
@@ -71,7 +71,7 @@ In these Regulations—
       - (bb) a body corporate, used only for sport or pleasure and on which the persons on board are employees or officers of the body corporate, or their immediate family or friends, and
     - (ii) on a voyage or excursion which is one for which the owner does not receive money for or in connection with operating the vessel or carrying any person, other than as a contribution to the direct expenses of the operation of the vessel incurred during the voyage or excursion, or
   - (b) any vessel wholly owned by or on behalf of a members’ club formed for the purpose of sport or pleasure which, at the time it is being used, is used only for the sport or pleasure of members of that club or their immediate family, and for the use of which any charges levied are paid into club funds and applied for the general use of the club,
-- “[^key-21a00435c7d6548e7e596b7e9ce17bc1]**registered length**” means the measurement which—
+- “[^c-21a00435c7d6548e7e596b7e9ce17bc1]**registered length**” means the measurement which—
   - (a) is recorded as the registered length in a vessel’s certificate of registry issued under regulation 37 of the Merchant Shipping (Registration of Ships) Regulations 1993, in the case of a vessel which is registered in the United Kingdom,
   - (b) is recorded as the registered length in any equivalent certificate issued in the case of a vessel which is registered outside the United Kingdom, or
   - (c) would be recorded as the registered length if the vessel were registered in the United Kingdom, in the case of an unregistered vessel;
@@ -85,7 +85,7 @@ where, in the case of any vessel referred to in paragraphs (a) or (b), no other 
     - (ii) in the case of an unregistered ship or a ship measured only by load line length, the tonnage reckoned in accordance with the Thames Measurement adopted by Lloyd’s Register;
 - “**year**” means any period of 12 months beginning with 1st April.
 
-## 3. Light dues[^key-fd5d17207806b63cf31206e6ae7415e5]
+## 3. Light dues[^c-fd5d17207806b63cf31206e6ae7415e5]
 
 (1) Subject to paragraph (2), light dues levied in accordance with these Regulations must be paid—
 
@@ -94,7 +94,7 @@ where, in the case of any vessel referred to in paragraphs (a) or (b), no other 
 
 (2) Light dues are not payable in respect of exempt vessels of a type set out in Schedule 1 (vessels exempt from light dues).
 
-## 4. Periodical payments[^key-4b2e6ed1e8d38176317f1374a64cbca5]
+## 4. Periodical payments[^c-4b2e6ed1e8d38176317f1374a64cbca5]
 
 (1) For the classes of ships included in this regulation, light dues must be levied by a general lighthouse authority, or its authorised collector, by way of periodical payments according to the procedure and in the amounts set out in this regulation.
 
@@ -107,10 +107,10 @@ Tugs and fishing vessels
 
 (3) The required payment to be made by a registered owner in accordance with paragraph (2) is—
 
-- (a) an annual rate per ship comprised of a fixed charge of £190 plus £20 for each metre of registered[^key-082668f8ce2b4ba5a386b2076d0a0e66] length in excess of ten metres, or
-- (b) a payment per ship of £110 plus £12 for each metre of registered[^key-f605622c02a17b612d79951789c29c95] length in excess of ten metres for each six month period commencing on 1st April and 1st October.
+- (a) an annual rate per ship comprised of a fixed charge of £190 plus £20 for each metre of registered[^c-082668f8ce2b4ba5a386b2076d0a0e66] length in excess of ten metres, or
+- (b) a payment per ship of £110 plus £12 for each metre of registered[^c-f605622c02a17b612d79951789c29c95] length in excess of ten metres for each six month period commencing on 1st April and 1st October.
 
-(4) For the purposes of paragraph (3), where the registered[^key-5ef7cd1b8ff3d6fd6bdde475186c0394] length that is in excess of ten metres is not a multiple of one metre, any excess not exceeding[^key-97bdcae060c097eb7a925cbcb1515a4a] half a metre must be rounded down and any excess greater than half a metre must be rounded up to the nearest integer value.
+(4) For the purposes of paragraph (3), where the registered[^c-5ef7cd1b8ff3d6fd6bdde475186c0394] length that is in excess of ten metres is not a multiple of one metre, any excess not exceeding[^c-97bdcae060c097eb7a925cbcb1515a4a] half a metre must be rounded down and any excess greater than half a metre must be rounded up to the nearest integer value.
 
 (5) This paragraph applies if the registered tug or a fishing vessel is kept for a part of the year in the area for which a general lighthouse authority has responsibility.
 
@@ -138,11 +138,11 @@ Vessels declared a total loss
 
 (12) In this regulation, where the amount payable is not a multiple of a penny, the excess must be rounded down to the nearest penny.
 
-## 5. Payments per voyage[^key-7596a51720264e06930c81eb4eb7f3ad]
+## 5. Payments per voyage[^c-7596a51720264e06930c81eb4eb7f3ad]
 
 (1) A ship which is not a tug, fishing vessel or a pleasure vessel is liable to pay light dues in accordance with paragraph (2) in respect of a voyage which ends at a port in the United Kingdom.
 
-(2)[^key-d1f66fae02f18078a92a4e693cdb3376] The amount of light dues per voyage must be calculated on the basis of the tonnage of the ship—
+(2)[^c-d1f66fae02f18078a92a4e693cdb3376] The amount of light dues per voyage must be calculated on the basis of the tonnage of the ship—
 
 - (a) from 1st April 2026 at the rate of 46 pence per ton subject to—
   - (i) a minimum charge of £60, and
@@ -164,7 +164,7 @@ Vessels declared a total loss
 - (c) “**month**” means a month commencing with the relevant date;
 - (d) “**relevant date**” means the date on which a ship arrives at a port or place on a voyage in respect of which light dues have been paid or are payable.
 
-## 6. Payment of light dues[^key-7f748c70e8fc108b8c6ecc7df212b91a]
+## 6. Payment of light dues[^c-7f748c70e8fc108b8c6ecc7df212b91a]
 
 (1) Any light dues payable under these Regulations must be tendered at the port where the liability arises except as the general lighthouse authority otherwise allows.
 
@@ -196,7 +196,7 @@ Other vessels
 
 (9) Except where paragraphs (5) to (8) apply, light dues must be paid within 28 days after service of an invoice by a general lighthouse authority or its authorised collector showing the amount to be paid.
 
-## 7. Revocations[^key-f5ea7630863362ca96e89b03d20643cb]
+## 7. Revocations[^c-f5ea7630863362ca96e89b03d20643cb]
 
 The provisions listed in column 1 of the table in Schedule 2 (revocations) are revoked to the extent specified in column 3 of that table.
 
@@ -214,11 +214,11 @@ Department for Transport
 
 Regulation 3(2)
 
-**1.**[^key-7159d525848aa3efd8b54d54914a5c0c] Ships on charter to His Majesty or used by a Government department or a foreign Government other than for commercial purposes.
+**1.**[^c-7159d525848aa3efd8b54d54914a5c0c] Ships on charter to His Majesty or used by a Government department or a foreign Government other than for commercial purposes.
 
-**2.**[^key-8fbe883ed9d15893b51bfdd932db13d2][^key-03adeefc31aabe70926bd7e07bce99a3] Ships of less than 20 tons, other than ships liable to pay light dues by reference to their length.
+**2.**[^c-8fbe883ed9d15893b51bfdd932db13d2][^c-03adeefc31aabe70926bd7e07bce99a3] Ships of less than 20 tons, other than ships liable to pay light dues by reference to their length.
 
-**3.**[^key-43742ae5e340b1eb339bf06b8b2745fd] Ships used for sail training purposes by—
+**3.**[^c-43742ae5e340b1eb339bf06b8b2745fd] Ships used for sail training purposes by—
 
 - (a) a registered charity or a subsidiary company of a registered charity where—
   - (i) in England and Wales, the relevant charity is registered under section 30(1) of the Charities Act 2011[^f00003];
@@ -226,36 +226,36 @@ Regulation 3(2)
   - (iii) in Northern Ireland, the relevant charity is registered under section 16(2) of the Charities Act (Northern Ireland) 2008[^f00005], or
 - (b) a community interest company as referred to in section 26 of the Companies (Audit, Investigations and Community Enterprise) Act 2004[^f00006].
 
-**4.**[^key-52314a66389f11adec7208d58fe13fde] Vessels registered by National Historic Ships UK[^f00007] on the—
+**4.**[^c-52314a66389f11adec7208d58fe13fde] Vessels registered by National Historic Ships UK[^f00007] on the—
 
 - (a) National Register of Historic Vessels;
 - (b) UK Replica List, or
 - (c) Overseas Watch List.
 
-**5.**[^key-0ad3b47b6cda90e02c110297d29ab1d3] Tugs and fishing vessels of less than ten metres in registered[^key-8e2555e40a70ab062876ef228c30ebcd] length.
+**5.**[^c-0ad3b47b6cda90e02c110297d29ab1d3] Tugs and fishing vessels of less than ten metres in registered[^c-8e2555e40a70ab062876ef228c30ebcd] length.
 
-**6.**[^key-0db3e369ad391e1b237317d0ed163ef2] Ships putting in solely for bunkers, stores, crew changes, embarkation or disembarkation of pilots, a medical emergency, or for provisions for their own use on board, provided that they are not otherwise engaged in, or awaiting, any commercial activity or service and if the general lighthouse authorities are satisfied that the ship is not ordinarily kept at the port to which the arrival relates.
+**6.**[^c-0db3e369ad391e1b237317d0ed163ef2] Ships putting in solely for bunkers, stores, crew changes, embarkation or disembarkation of pilots, a medical emergency, or for provisions for their own use on board, provided that they are not otherwise engaged in, or awaiting, any commercial activity or service and if the general lighthouse authorities are satisfied that the ship is not ordinarily kept at the port to which the arrival relates.
 
-**7.**[^key-14c85c5ee4751a7c914de210de5bae5d] Ships putting in from stress of weather or because of damage or on voyages solely for the purpose of damage or running repairs, where they are not otherwise engaged in a revenue earning or commercial activity or service, provided they do not discharge or load cargo other than cargo discharged with a view to such repairs, and afterwards reshipped.
+**7.**[^c-14c85c5ee4751a7c914de210de5bae5d] Ships putting in from stress of weather or because of damage or on voyages solely for the purpose of damage or running repairs, where they are not otherwise engaged in a revenue earning or commercial activity or service, provided they do not discharge or load cargo other than cargo discharged with a view to such repairs, and afterwards reshipped.
 
-**8.**[^key-ee1505de7bf9c64758a27dc88fe6b4c3] Ships navigating solely and entirely within the limits of a harbour authority; except in the outer areas of the Port of London Authority where aids to navigation are maintained by the general lighthouse authorities.
+**8.**[^c-ee1505de7bf9c64758a27dc88fe6b4c3] Ships navigating solely and entirely within the limits of a harbour authority; except in the outer areas of the Port of London Authority where aids to navigation are maintained by the general lighthouse authorities.
 
-**9.**[^key-10a3a2c625637f35d540f9522e6f5749] Any ship (including a pleasure vessel) which is laid up, and—
+**9.**[^c-10a3a2c625637f35d540f9522e6f5749] Any ship (including a pleasure vessel) which is laid up, and—
 
 - (a) where the ship has opted to make annual payments under regulation 4(3)(a), the exemption only applies if the ship is laid up for the whole year for which the annual payment is due, or
 - (b) where the ship has opted to make payments over two periods of six months each under regulation 4(3)(b), the exemption only applies for each six month period if the ship is laid up for the whole of that period.
 
-**10.**[^key-1413acb447696df48216c4d274d14a83] Vessels engaged solely in harbour maintenance, dredging, building or maintenance of sea defences or land reclamation on behalf of a statutory or harbour authority.
+**10.**[^c-1413acb447696df48216c4d274d14a83] Vessels engaged solely in harbour maintenance, dredging, building or maintenance of sea defences or land reclamation on behalf of a statutory or harbour authority.
 
-**11.**[^key-8edae727e927bd80ca00f48c6f043d3a] Vessels engaged solely in pollution control, prevention, or recovery on behalf of a statutory authority.
+**11.**[^c-8edae727e927bd80ca00f48c6f043d3a] Vessels engaged solely in pollution control, prevention, or recovery on behalf of a statutory authority.
 
-**12.**[^key-249d7c72e651d09979ed44e039b6387b] Vessels engaged solely in the transportation of sewage waste to spoil grounds by or on behalf of a statutory authority.
+**12.**[^c-249d7c72e651d09979ed44e039b6387b] Vessels engaged solely in the transportation of sewage waste to spoil grounds by or on behalf of a statutory authority.
 
-**13.**[^key-853406f275834eae17538b45009e3334] Vessels arriving solely for the purpose of moderation, alteration or scrapping.
+**13.**[^c-853406f275834eae17538b45009e3334] Vessels arriving solely for the purpose of moderation, alteration or scrapping.
 
-**14.**[^key-be1dfd4e5ee327d19b39e653b637d563] Dumb barges, lighters, hulks, or other vessels specifically designed and built without a means of propulsion.
+**14.**[^c-be1dfd4e5ee327d19b39e653b637d563] Dumb barges, lighters, hulks, or other vessels specifically designed and built without a means of propulsion.
 
-## SCHEDULE 2 — Revocations[^key-6afeecb4d32c73aeb75d3ed45d4b17f6]
+## SCHEDULE 2 — Revocations[^c-6afeecb4d32c73aeb75d3ed45d4b17f6]
 
 Regulation 7
 
@@ -303,43 +303,43 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-bc9444ee2253f01c9db2b89e99f8d6fc]: Commencement: Reg. 1 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-bc9444ee2253f01c9db2b89e99f8d6fc]: Commencement: Reg. 1 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-dd42be9ace2935976a734c96e51015a3]: Commencement: Reg. 2 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-dd42be9ace2935976a734c96e51015a3]: Commencement: Reg. 2 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-bcbcb817b31f9526ad867f8013184755]: Textual amendment: Word in reg. 2 substituted (31.3.2025) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2025 (S.I. 2025/369)](https://www.legislation.gov.uk/uksi/2025/369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/369/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/369/regulation/2/2)
+[^c-bcbcb817b31f9526ad867f8013184755]: Textual amendment: Word in reg. 2 substituted (31.3.2025) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2025 (S.I. 2025/369)](https://www.legislation.gov.uk/uksi/2025/369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/369/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2025/369/regulation/2/2)
 
-[^key-21a00435c7d6548e7e596b7e9ce17bc1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/278/regulation/2) inserted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/2)
+[^c-21a00435c7d6548e7e596b7e9ce17bc1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/278/regulation/2) inserted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/2)
 
-[^key-fd5d17207806b63cf31206e6ae7415e5]: Commencement: Reg. 3 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-fd5d17207806b63cf31206e6ae7415e5]: Commencement: Reg. 3 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-4b2e6ed1e8d38176317f1374a64cbca5]: Commencement: Reg. 4 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-4b2e6ed1e8d38176317f1374a64cbca5]: Commencement: Reg. 4 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-082668f8ce2b4ba5a386b2076d0a0e66]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/3/a) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/a)
+[^c-082668f8ce2b4ba5a386b2076d0a0e66]: Textual amendment: Word in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/3/a) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/a)
 
-[^key-f605622c02a17b612d79951789c29c95]: Textual amendment: Word in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/3/b) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/a)
+[^c-f605622c02a17b612d79951789c29c95]: Textual amendment: Word in [reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/3/b) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/a)
 
-[^key-5ef7cd1b8ff3d6fd6bdde475186c0394]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/4) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/a)
+[^c-5ef7cd1b8ff3d6fd6bdde475186c0394]: Textual amendment: Word in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/4) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/a)
 
-[^key-97bdcae060c097eb7a925cbcb1515a4a]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/4) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/b)
+[^c-97bdcae060c097eb7a925cbcb1515a4a]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2025/278/regulation/4/4) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/3/b)
 
-[^key-7596a51720264e06930c81eb4eb7f3ad]: Commencement: Reg. 5 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-7596a51720264e06930c81eb4eb7f3ad]: Commencement: Reg. 5 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-d1f66fae02f18078a92a4e693cdb3376]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2025/278/regulation/5/2) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/4)
+[^c-d1f66fae02f18078a92a4e693cdb3376]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2025/278/regulation/5/2) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/4)
 
-[^key-7f748c70e8fc108b8c6ecc7df212b91a]: Commencement: Reg. 6 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-7f748c70e8fc108b8c6ecc7df212b91a]: Commencement: Reg. 6 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
 [^f00002]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-f5ea7630863362ca96e89b03d20643cb]: Commencement: Reg. 7 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-f5ea7630863362ca96e89b03d20643cb]: Commencement: Reg. 7 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-7159d525848aa3efd8b54d54914a5c0c]: Commencement: Sch. 1 para. 1 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-7159d525848aa3efd8b54d54914a5c0c]: Commencement: Sch. 1 para. 1 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-8fbe883ed9d15893b51bfdd932db13d2]: Commencement: Sch. 1 para. 2 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-8fbe883ed9d15893b51bfdd932db13d2]: Commencement: Sch. 1 para. 2 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-03adeefc31aabe70926bd7e07bce99a3]: Textual amendment: Sch. 1 para. 2 substituted (31.3.2025) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2025 (S.I. 2025/369)](https://www.legislation.gov.uk/uksi/2025/369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/369/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/369/regulation/2/3)
+[^c-03adeefc31aabe70926bd7e07bce99a3]: Textual amendment: Sch. 1 para. 2 substituted (31.3.2025) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2025 (S.I. 2025/369)](https://www.legislation.gov.uk/uksi/2025/369), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/369/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2025/369/regulation/2/3)
 
-[^key-43742ae5e340b1eb339bf06b8b2745fd]: Commencement: Sch. 1 para. 3 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-43742ae5e340b1eb339bf06b8b2745fd]: Commencement: Sch. 1 para. 3 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
 [^f00003]: Footnote: [2011 c. 25](https://www.legislation.gov.uk/ukpga/2011/25).
 
@@ -349,30 +349,30 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00006]: Footnote: [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27).
 
-[^key-52314a66389f11adec7208d58fe13fde]: Commencement: Sch. 1 para. 4 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-52314a66389f11adec7208d58fe13fde]: Commencement: Sch. 1 para. 4 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
 [^f00007]: Footnote: National Historic Ships UK are based at Park Row, Greenwich, London, SE10 9NF and their telephone number is 020 8312 8558. The National Register of Historic Vessels, the UK Replica List and the Overseas Watch List are available at the address given and from the following link: https://www.nationalhistoricships.org.uk/registers.
 
-[^key-0ad3b47b6cda90e02c110297d29ab1d3]: Commencement: Sch. 1 para. 5 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-0ad3b47b6cda90e02c110297d29ab1d3]: Commencement: Sch. 1 para. 5 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-8e2555e40a70ab062876ef228c30ebcd]: Textual amendment: Word in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/278/schedule/1/paragraph/5) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/5/a)
+[^c-8e2555e40a70ab062876ef228c30ebcd]: Textual amendment: Word in [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2025/278/schedule/1/paragraph/5) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/5/a)
 
-[^key-0db3e369ad391e1b237317d0ed163ef2]: Commencement: Sch. 1 para. 6 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-0db3e369ad391e1b237317d0ed163ef2]: Commencement: Sch. 1 para. 6 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-14c85c5ee4751a7c914de210de5bae5d]: Commencement: Sch. 1 para. 7 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-14c85c5ee4751a7c914de210de5bae5d]: Commencement: Sch. 1 para. 7 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-ee1505de7bf9c64758a27dc88fe6b4c3]: Commencement: Sch. 1 para. 8 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-ee1505de7bf9c64758a27dc88fe6b4c3]: Commencement: Sch. 1 para. 8 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-10a3a2c625637f35d540f9522e6f5749]: Commencement: Sch. 1 para. 9 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-10a3a2c625637f35d540f9522e6f5749]: Commencement: Sch. 1 para. 9 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-1413acb447696df48216c4d274d14a83]: Commencement: Sch. 1 para. 10 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-1413acb447696df48216c4d274d14a83]: Commencement: Sch. 1 para. 10 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-8edae727e927bd80ca00f48c6f043d3a]: Commencement: Sch. 1 para. 11 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-8edae727e927bd80ca00f48c6f043d3a]: Commencement: Sch. 1 para. 11 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-249d7c72e651d09979ed44e039b6387b]: Commencement: Sch. 1 para. 12 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-249d7c72e651d09979ed44e039b6387b]: Commencement: Sch. 1 para. 12 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-853406f275834eae17538b45009e3334]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2025/278/schedule/1/paragraph/13) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/5/b)
+[^c-853406f275834eae17538b45009e3334]: Textual amendment: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2025/278/schedule/1/paragraph/13) substituted (1.4.2026) by [The Merchant Shipping (Light Dues) (Amendment) Regulations 2026 (S.I. 2026/234)](https://www.legislation.gov.uk/uksi/2026/234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/234/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2026/234/regulation/2/5/b)
 
-[^key-be1dfd4e5ee327d19b39e653b637d563]: Commencement: Sch. 1 para. 14 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-be1dfd4e5ee327d19b39e653b637d563]: Commencement: Sch. 1 para. 14 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
 
-[^key-6afeecb4d32c73aeb75d3ed45d4b17f6]: Commencement: Sch. 2 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)
+[^c-6afeecb4d32c73aeb75d3ed45d4b17f6]: Commencement: Sch. 2 in force at 1.4.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/278/regulation/1/1)

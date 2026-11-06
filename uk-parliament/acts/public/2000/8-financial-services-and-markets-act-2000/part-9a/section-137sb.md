@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137SB. Rules to recover debt advice expenses incurred by the devolved authorities[^key-8b7075ed6c0e17c12d483c98d227f96c][^key-e922c816a6b3c56cc617ae59c14f3510]
+## 137SB. Rules to recover debt advice expenses incurred by the devolved authorities[^c-8b7075ed6c0e17c12d483c98d227f96c][^c-e922c816a6b3c56cc617ae59c14f3510]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b7075ed6c0e17c12d483c98d227f96c]: Textual amendment: S. 137SB inserted (1.10.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/14/1), [37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5); [S.I. 2018/1003](https://www.legislation.gov.uk/uksi/2018/1003), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1003/regulation/2/a)
+[^c-8b7075ed6c0e17c12d483c98d227f96c]: Textual amendment: S. 137SB inserted (1.10.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2018/10/section/14/1), [37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5); [S.I. 2018/1003](https://www.legislation.gov.uk/uksi/2018/1003), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1003/regulation/2/a)
 
-[^key-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e922c816a6b3c56cc617ae59c14f3510]: Textual amendment: Pt. 9A substituted for ss. 138-164 (24.1.2013 for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/24/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

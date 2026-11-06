@@ -28,7 +28,7 @@ summary: ''
 - (b) the parent;
 - (c) the chief officer of police for the area in which the young offender resides;
 - (d) a chief officer of police who believes that the young offender is in, or is intending to come to, his police area;
-- (e)[^key-1245bca6db9f09b7c3c3eeac4c54e4d0] in Scotland—
+- (e)[^c-1245bca6db9f09b7c3c3eeac4c54e4d0] in Scotland—
   - (i) where the appropriate court is a civil court, the chief constable of the Police Service of Scotland; and
   - (ii) in any other case, the prosecutor;
 - (f) where the direction was made on an application under section 89(4), the chief officer of police who made the application;
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1245bca6db9f09b7c3c3eeac4c54e4d0]: Textual amendment: S. 90(2)(e) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(6)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/6)
+[^c-1245bca6db9f09b7c3c3eeac4c54e4d0]: Textual amendment: S. 90(2)(e) substituted (S.) (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [Sch. 1 para. 20(6)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/20/6)

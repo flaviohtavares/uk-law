@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Change of use of land forming part of the common good[^key-06e2b5894b350f23f6c2321598f80f80]
+## 77. Change of use of land forming part of the common good[^c-06e2b5894b350f23f6c2321598f80f80]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06e2b5894b350f23f6c2321598f80f80]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2016/18/section/77) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-06e2b5894b350f23f6c2321598f80f80]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2016/18/section/77) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)

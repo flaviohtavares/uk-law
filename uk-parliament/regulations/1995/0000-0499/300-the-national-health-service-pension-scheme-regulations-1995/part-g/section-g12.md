@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G12. Purchase of surviving civil partner’s pension in respect of service prior to 6th April 1988[^key-9fc15adc38a7333fe8ceddac589da705]
+## G12. Purchase of surviving civil partner’s pension in respect of service prior to 6th April 1988[^c-9fc15adc38a7333fe8ceddac589da705]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fc15adc38a7333fe8ceddac589da705]: Textual amendment: [Reg. G12](https://www.legislation.gov.uk/uksi/1995/300/regulation/G12) omitted (with effect from 5.12.2005) by virtue of [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/10), [16](https://www.legislation.gov.uk/uksi/2019/418/regulation/16)
+[^c-9fc15adc38a7333fe8ceddac589da705]: Textual amendment: [Reg. G12](https://www.legislation.gov.uk/uksi/1995/300/regulation/G12) omitted (with effect from 5.12.2005) by virtue of [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/10), [16](https://www.legislation.gov.uk/uksi/2019/418/regulation/16)

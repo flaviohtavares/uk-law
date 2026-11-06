@@ -73,7 +73,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A statement of affairs under section 95(1A) or 99(1) must also contain the following, and, in addition, where paragraph (1B) applies, the information specified in that paragraph[^key-0bbf37056a2163d4a6bf2c8c548ad195]—
+(1) A statement of affairs under section 95(1A) or 99(1) must also contain the following, and, in addition, where paragraph (1B) applies, the information specified in that paragraph[^c-0bbf37056a2163d4a6bf2c8c548ad195]—
 
 - (a) a list of the company's shareholders, with the following details about each shareholder—
   - (i) name and postal address,
@@ -104,7 +104,7 @@ summary: ''
   - (ii) any creditors who are consumers claiming amounts paid in advance of the supply of goods or services, and
   - (iii) any creditors claiming retention of title over property in the company's possession.
 
-(1A)[^key-9c6ff7131c3d107ce30034c6aa750dfd] Paragraph (1B) applies if a moratorium under Part A1 of the Act is, or has been, in force for the company at any time within the period of 12 weeks ending with the day on which the resolution for a voluntary winding up is passed.
+(1A)[^c-9c6ff7131c3d107ce30034c6aa750dfd] Paragraph (1B) applies if a moratorium under Part A1 of the Act is, or has been, in force for the company at any time within the period of 12 weeks ending with the day on which the resolution for a voluntary winding up is passed.
 
 (1B) Where this paragraph applies the statement of affairs must identify which of the debts owed by the company are—
 
@@ -278,7 +278,7 @@ within the meaning given by section 174A; and
 
 (5) Any proposal must be received by the liquidator within five business days of the date of the notice under paragraph (2).
 
-(6) Within two business days of the end of the period referred to in paragraph (5), the liquidator must send[^key-bd8795328cc2d5dc51d3dd5733f38110] a notice to creditors of a decision procedure under rule 6.11.
+(6) Within two business days of the end of the period referred to in paragraph (5), the liquidator must send[^c-bd8795328cc2d5dc51d3dd5733f38110] a notice to creditors of a decision procedure under rule 6.11.
 
 ## 6.13. Information to creditors and contributories (conversion of members' voluntary winding up into creditors' voluntary winding up)
 
@@ -287,7 +287,7 @@ within the meaning given by section 174A; and
 (1) The liquidator must deliver to the creditors and contributories within 28 days of the conversion of a members' voluntary winding up into a creditors' voluntary winding up under section 96 a notice which must contain—
 
 - (a) the date the winding up became a creditors' voluntary winding up;
-- (b) a report of the decision procedure or deemed consent procedure which took place under rule 6.11[^key-626871ecaa6e39c0182dd9430893c047]; and
+- (b) a report of the decision procedure or deemed consent procedure which took place under rule 6.11[^c-626871ecaa6e39c0182dd9430893c047]; and
 - (c) the information required by paragraph (3).
 
 (2) The notice must be accompanied by a copy of the statement of affairs or a summary except where the notice is being delivered to a creditor to whom a copy of the statement of affairs has previously been delivered under section 95(1A) [^c23175801].
@@ -355,7 +355,7 @@ within the meaning given by section 174A; and
 (1) The liquidator must deliver to the creditors and contributories within 28 days of the appointment of the liquidator under section 100 a notice which must—
 
 - (a) be accompanied by a statement of affairs or a summary where the notice is delivered to any contributory or creditor to whom the notice under rule 6.14 was not delivered;
-- (b) be accompanied by[^key-8f7e286c6c3230e0a3f7f02618d717b4] a report on the decision procedure or deemed consent procedure under rule 6.14; and
+- (b) be accompanied by[^c-8f7e286c6c3230e0a3f7f02618d717b4] a report on the decision procedure or deemed consent procedure under rule 6.14; and
 - (c) be accompanied by the information required by paragraph (2).
 
 (2) The required information is an estimate to the best of the liquidator's knowledge and belief of—
@@ -429,7 +429,7 @@ the convener of the decision must at the same time deliver to the creditors a no
 
 (1) This rule applies where a person is appointed as liquidator by creditors or the company.
 
-(2)[^key-e12b225b1c696a7c398ed77d4ceafb03] The liquidator’s appointment takes effect from the date of the passing of the resolution of the company or, where the creditors decide to appoint a person who is not the person appointed by the company, from the relevant decision date.
+(2)[^c-e12b225b1c696a7c398ed77d4ceafb03] The liquidator’s appointment takes effect from the date of the passing of the resolution of the company or, where the creditors decide to appoint a person who is not the person appointed by the company, from the relevant decision date.
 
 (3) Their appointment must be certified by—
 
@@ -722,7 +722,7 @@ A liquidator who ceases to be in office in consequence of removal, resignation o
 - (e) the name and address of the proposed special manager;
 - (f) the order that that the proposed special manager is appointed as special manager of the company from the date of the order (or otherwise as the order provides);
 - (g) details of the special manager's responsibility over the company's business or property;
-- (h) the powers entrusted to the special manager under section 177(3)[^key-380801fd735dced766c5ec687dc3f70b];
+- (h) the powers entrusted to the special manager under section 177(3)[^c-380801fd735dced766c5ec687dc3f70b];
 - (i) the time allowed for the special manager to give the required security for the appointment;
 - (j) the duration of the special manager's appointment, being one of the following—
   - (i) for a fixed period stated in the order,
@@ -780,7 +780,7 @@ A liquidator who ceases to be in office in consequence of removal, resignation o
 
 (2) The liquidator must also make such an application if the creditors decide that the appointment should be terminated.
 
-## 6.42. General rule as to priority[^key-06c218803f367fbe10247fd841097b01][^key-222fba8f0fbb08d130938e821ff442c9]
+## 6.42. General rule as to priority[^c-06c218803f367fbe10247fd841097b01][^c-222fba8f0fbb08d130938e821ff442c9]
 
 *Extent: E+W*
 
@@ -793,7 +793,7 @@ A liquidator who ceases to be in office in consequence of removal, resignation o
   - (ii) proceeds arising from any award made under any arbitration or other dispute resolution procedure which the liquidator has power to bring in the liquidator's own name or in the name of the company,
   - (iii) any payments made under any compromise or other agreement intended to avoid legal action or recourse to arbitration or to any other dispute resolution procedure, and
   - (iv) payments made as a result of an assignment or a settlement of any such action, arbitration or other dispute resolution procedure in lieu of or before any judgment being given or award being made; and
-- (b)[^key-8e1257f71e537e5386055bcfba48a50f] subject as provided in rules 6.44 to 6.48, property comprised in or subject to a floating charge created by the company.
+- (b)[^c-8e1257f71e537e5386055bcfba48a50f] subject as provided in rules 6.44 to 6.48, property comprised in or subject to a floating charge created by the company.
 
 (3) The expenses associated with the prescribed part must be paid out of the prescribed part.
 
@@ -804,7 +804,7 @@ A liquidator who ceases to be in office in consequence of removal, resignation o
 - (c) the remuneration of the special manager (if any);
 - (d) any amount payable to a person employed or authorised, under Chapter 2 of this Part, to assist in the preparation of a statement of affairs or of accounts;
 - (e) the costs of employing a shorthand writer on the application of the liquidator;
-- (f) any necessary disbursements by the liquidator in the course of the administration of the winding up (including any [^key-b3a1d7f049d30742dc1719b20c86e858]... expenses incurred by members of the liquidation committee or their representatives and allowed by the liquidator under rule 17.24, but not including any payment of corporation tax in circumstances referred to in sub-paragraph (i));
+- (f) any necessary disbursements by the liquidator in the course of the administration of the winding up (including any [^c-b3a1d7f049d30742dc1719b20c86e858]... expenses incurred by members of the liquidation committee or their representatives and allowed by the liquidator under rule 17.24, but not including any payment of corporation tax in circumstances referred to in sub-paragraph (i));
 - (g) the remuneration or emoluments of any person who has been employed by the liquidator to perform any services for the company, as required or authorised by or under the Act or these Rules;
 - (h) the remuneration of the liquidator, up to an amount not exceeding that which is payable under Schedule 11 (determination of insolvency office-holder's remuneration);
 - (i) the amount of any corporation tax on chargeable gains accruing on the realisation of any asset of the company (irrespective of the person by whom the realisation is effected);
@@ -830,9 +830,9 @@ Nothing in these Rules—
   - (a) where yet to be incurred, the approval; and
   - (b) where already incurred, the authorisation;
 
-  of expenses specified in section 176ZA(1)[^key-833f1945f3c094e0d472924331cf0a4e] [^c23175861];
+  of expenses specified in section 176ZA(1)[^c-833f1945f3c094e0d472924331cf0a4e] [^c23175861];
 - “**the creditor**” means—
-  - (za) a creditor in respect of a debt which is a moratorium debt or a priority pre-moratorium debt within the meaning given by section 174A;[^key-7e1999780df84c49851783ec5408eedd]
+  - (za) a creditor in respect of a debt which is a moratorium debt or a priority pre-moratorium debt within the meaning given by section 174A;[^c-7e1999780df84c49851783ec5408eedd]
   - (a) a preferential creditor of the company; or
   - (b) a holder of a debenture secured by, or a holder of, a floating charge created by the company;
 - “**legal proceedings**” means—
@@ -893,7 +893,7 @@ Nothing in these Rules—
 
 - (a) the number of creditors concerned;
 - (b) the total value of their claims, or if not known, as it is estimated to be by the liquidator immediately before delivering any such request; and
-- (c)[^key-7480c77e4b84801c7c1a3df0bfdbe84c] notice to—
+- (c)[^c-7480c77e4b84801c7c1a3df0bfdbe84c] notice to—
   - (i) each preferential creditor, and
   - (ii) each creditor of the kind described in rule 6.44(1)(za),
 
@@ -911,19 +911,19 @@ Nothing in these Rules—
 - (a) that amount is approved or authorised within the specified time limit; or
 - (b) a different amount is approved or authorised within the specified time limit and the liquidator considers it sufficient.
 
-(3)[^key-3ef3e0787068491cef38164a99906adf] Paragraph (3A) applies where the liquidator requires the approval or authorisation of—
+(3)[^c-3ef3e0787068491cef38164a99906adf] Paragraph (3A) applies where the liquidator requires the approval or authorisation of—
 
 - (a) two or more—
   - (i) preferential creditors, or
   - (ii) creditors of the kind described in rule 6.44(1)(za); or
 - (b) one or more preferential creditors together with one or more creditors of the kind described in rule 6.44(1)(za).
 
-(3A)[^key-aa9ff7292c986281d520acbeb0dfdcfd] Where this paragraph applies approval or authorisation will be taken to be given where a majority in value of those creditors referred to in sub-paragraph (3)(a)(i) or (ii) or sub-paragraph (3)(b) (as the case may be) who respond within the specified time approve or authorise—
+(3A)[^c-aa9ff7292c986281d520acbeb0dfdcfd] Where this paragraph applies approval or authorisation will be taken to be given where a majority in value of those creditors referred to in sub-paragraph (3)(a)(i) or (ii) or sub-paragraph (3)(b) (as the case may be) who respond within the specified time approve or authorise—
 
 - (a) the specified amount; or
 - (b) a different amount which the liquidator considers sufficient.
 
-(4)[^key-2ee17646581c524439c3a200fb20dd61] Where a majority in value of—
+(4)[^c-2ee17646581c524439c3a200fb20dd61] Where a majority in value of—
 
 - (a) two or more—
   - (i) preferential creditors, or
@@ -975,27 +975,27 @@ the liquidator's request will be taken to have been approved or authorised from 
 
 [^c23175771]: Marginal citation: Section 99(1) is substituted by paragraph 23(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-0bbf37056a2163d4a6bf2c8c548ad195]: Textual amendment: Words in [rule 6.4(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.4/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [28(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/28/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-0bbf37056a2163d4a6bf2c8c548ad195]: Textual amendment: Words in [rule 6.4(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.4/1) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [28(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/28/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-9c6ff7131c3d107ce30034c6aa750dfd]: Textual amendment: [Rule 6.4(1A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.4/1A)[(1B)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.4/1B) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [28(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/28/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-9c6ff7131c3d107ce30034c6aa750dfd]: Textual amendment: [Rule 6.4(1A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.4/1A)[(1B)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.4/1B) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [28(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/28/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
 [^c23175781]: Marginal citation: Section 100 is amended by paragraph 24 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) which inserts new subsections (1), (1A) and (1B).
 
 [^c23175791]: Marginal citation: Section 96 is substituted by paragraph 20(1) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-bd8795328cc2d5dc51d3dd5733f38110]: Textual amendment: Word in [rule 6.12(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.12/6) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [23](https://www.legislation.gov.uk/uksi/2017/366/rule/23)
+[^c-bd8795328cc2d5dc51d3dd5733f38110]: Textual amendment: Word in [rule 6.12(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.12/6) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [23](https://www.legislation.gov.uk/uksi/2017/366/rule/23)
 
-[^key-626871ecaa6e39c0182dd9430893c047]: Textual amendment: Word in [rule 6.13(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.13/1/b) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [22](https://www.legislation.gov.uk/uksi/2017/366/rule/22)
+[^c-626871ecaa6e39c0182dd9430893c047]: Textual amendment: Word in [rule 6.13(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.13/1/b) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [22](https://www.legislation.gov.uk/uksi/2017/366/rule/22)
 
 [^c23175801]: Marginal citation: Section 95(1A) is inserted by paragraph 19(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) which also omitted subsections (2) to (3) and (5) to (7).
 
 [^c23175811]: Marginal citation: In section 165, a new subsection (2) is inserted by section 120(2) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26); section 166 is amended, subsection (4) is omitted and a new subsection (5) is inserted by paragraph 40 of Schedule 9 to the same Act.
 
-[^key-8f7e286c6c3230e0a3f7f02618d717b4]: Textual amendment: Words in [rule 6.15(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.15/1/b) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1115/rule/6)
+[^c-8f7e286c6c3230e0a3f7f02618d717b4]: Textual amendment: Words in [rule 6.15(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.15/1/b) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [6](https://www.legislation.gov.uk/uksi/2017/1115/rule/6)
 
 [^c23175821]: Marginal citation: Paragraph 49(4) is amended by paragraph 10(2) of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-e12b225b1c696a7c398ed77d4ceafb03]: Textual amendment: [Rule 6.20(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.20/2) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [24](https://www.legislation.gov.uk/uksi/2017/366/rule/24)
+[^c-e12b225b1c696a7c398ed77d4ceafb03]: Textual amendment: [Rule 6.20(2)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.20/2) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [24](https://www.legislation.gov.uk/uksi/2017/366/rule/24)
 
 [^c23175831]: Marginal citation: See Part 3 of Schedule 2 to SI 1987/752 for the prescribed forms for the notice to the registrar of companies and the Gazette notice also required by that section.
 
@@ -1003,28 +1003,28 @@ the liquidator's request will be taken to have been approved or authorised from 
 
 [^c23175851]: Marginal citation: Section 173(2)(d) is amended and a new (2)(a), (b) and (e) and (2A) are inserted by paragraph 44 of Schedule 9 to the Small Business, Enterprise and Employment act 2015 (c.26).
 
-[^key-380801fd735dced766c5ec687dc3f70b]: Textual amendment: Word in [rule 6.37(3)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.37/3/h) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [20](https://www.legislation.gov.uk/uksi/2017/366/rule/20)
+[^c-380801fd735dced766c5ec687dc3f70b]: Textual amendment: Word in [rule 6.37(3)(h)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.37/3/h) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [20](https://www.legislation.gov.uk/uksi/2017/366/rule/20)
 
-[^key-06c218803f367fbe10247fd841097b01]: Modification: Rule 6.42 applied (with modifications) (23.4.2019) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2004/353/schedule/2/paragraph/7/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/b))
+[^c-06c218803f367fbe10247fd841097b01]: Modification: Rule 6.42 applied (with modifications) (23.4.2019) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2004/353/schedule/2/paragraph/7/2) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/b))
 
-[^key-222fba8f0fbb08d130938e821ff442c9]: Modification: Rule 6.42 applied (23.4.2019) by [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353), [reg. 30(1)](https://www.legislation.gov.uk/uksi/2004/353/regulation/30/1) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/4/8/a))
+[^c-222fba8f0fbb08d130938e821ff442c9]: Modification: Rule 6.42 applied (23.4.2019) by [S.I. 2004/353](https://www.legislation.gov.uk/uksi/2004/353), [reg. 30(1)](https://www.legislation.gov.uk/uksi/2004/353/regulation/30/1) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/4/8/a))
 
-[^key-8e1257f71e537e5386055bcfba48a50f]: Modification: Rule 6.42(2)(b) applied (23.4.2019) by [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), [reg. 14(5)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/2979/regulation/14/5/a/ii) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/2/2/a))
+[^c-8e1257f71e537e5386055bcfba48a50f]: Modification: Rule 6.42(2)(b) applied (23.4.2019) by [S.I. 1999/2979](https://www.legislation.gov.uk/uksi/1999/2979), [reg. 14(5)(a)(ii)](https://www.legislation.gov.uk/uksi/1999/2979/regulation/14/5/a/ii) (as amended by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/2/2/a))
 
-[^key-b3a1d7f049d30742dc1719b20c86e858]: Textual amendment: Words in [rule 6.42(4)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.42/4/f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 70](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/70) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3a1d7f049d30742dc1719b20c86e858]: Textual amendment: Words in [rule 6.42(4)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.42/4/f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 70](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/70) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-833f1945f3c094e0d472924331cf0a4e]: Textual amendment: Word in [rule 6.44(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.44/1) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [25](https://www.legislation.gov.uk/uksi/2017/366/rule/25)
+[^c-833f1945f3c094e0d472924331cf0a4e]: Textual amendment: Word in [rule 6.44(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.44/1) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [25](https://www.legislation.gov.uk/uksi/2017/366/rule/25)
 
 [^c23175861]: Marginal citation: Section 176ZA was inserted by section 1282 of the [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-7e1999780df84c49851783ec5408eedd]: Textual amendment: Words in [rule 6.44(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.44/1/za) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [31](https://www.legislation.gov.uk/uksi/2021/1028/rule/31) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-7e1999780df84c49851783ec5408eedd]: Textual amendment: Words in [rule 6.44(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.44/1/za) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [31](https://www.legislation.gov.uk/uksi/2021/1028/rule/31) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
 [^c23175871]: Marginal citation: Section 214(2)(b) and (3) are amended and (6A) is inserted by section 117(3) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-7480c77e4b84801c7c1a3df0bfdbe84c]: Textual amendment: [Rule 6.46(4)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.46/4/c) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [32](https://www.legislation.gov.uk/uksi/2021/1028/rule/32) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-7480c77e4b84801c7c1a3df0bfdbe84c]: Textual amendment: [Rule 6.46(4)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.46/4/c) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [32](https://www.legislation.gov.uk/uksi/2021/1028/rule/32) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-3ef3e0787068491cef38164a99906adf]: Textual amendment: [Rule 6.47(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.47/3) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [33(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/33/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-3ef3e0787068491cef38164a99906adf]: Textual amendment: [Rule 6.47(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.47/3) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [33(2)](https://www.legislation.gov.uk/uksi/2021/1028/rule/33/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-aa9ff7292c986281d520acbeb0dfdcfd]: Textual amendment: [Rule 6.47(3A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.47/3A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [33(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/33/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-aa9ff7292c986281d520acbeb0dfdcfd]: Textual amendment: [Rule 6.47(3A)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.47/3A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [33(3)](https://www.legislation.gov.uk/uksi/2021/1028/rule/33/3) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
 
-[^key-2ee17646581c524439c3a200fb20dd61]: Textual amendment: [Rule 6.47(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.47/4) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [33(4)](https://www.legislation.gov.uk/uksi/2021/1028/rule/33/4) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-2ee17646581c524439c3a200fb20dd61]: Textual amendment: [Rule 6.47(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.47/4) substituted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [33(4)](https://www.legislation.gov.uk/uksi/2021/1028/rule/33/4) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

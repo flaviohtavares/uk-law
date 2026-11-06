@@ -24,7 +24,7 @@ Section 15
 
 ### Annual levy
 
-**1.**[^key-4f75321fe878a8e02ef551fae8d4149a] After section 10B of the National Lottery etc. Act 1993 (financial penalties: appeal) insert—
+**1.**[^c-4f75321fe878a8e02ef551fae8d4149a] After section 10B of the National Lottery etc. Act 1993 (financial penalties: appeal) insert—
 
 > **10C. Annual levy**
 >
@@ -61,11 +61,11 @@ Section 15
 
 ### Consultation with Gambling Commission
 
-**2.**[^key-8d306a6c43ebbaad6fa359ba965f9e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8d306a6c43ebbaad6fa359ba965f9e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Definition of “lottery”
 
-**3.**[^key-9b2bc1f72ad03f4fa0c03dce902c0478] In section 20 of the National Lottery etc. Act 1993 (interpretation) after the definition of “contravention” insert—
+**3.**[^c-9b2bc1f72ad03f4fa0c03dce902c0478] In section 20 of the National Lottery etc. Act 1993 (interpretation) after the definition of “contravention” insert—
 
 > “**lottery**” has the same meaning as in the Gambling Act 2005;
 
@@ -73,8 +73,8 @@ Section 15
 
 ## Annotations
 
-[^key-4f75321fe878a8e02ef551fae8d4149a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/3/paragraph/1) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-4f75321fe878a8e02ef551fae8d4149a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/3/paragraph/1) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
 
-[^key-8d306a6c43ebbaad6fa359ba965f9e2b]: Textual amendment: Sch. 3 para. 2 omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/14) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-8d306a6c43ebbaad6fa359ba965f9e2b]: Textual amendment: Sch. 3 para. 2 omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/14) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-9b2bc1f72ad03f4fa0c03dce902c0478]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2005/19/schedule/3/paragraph/3) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)
+[^c-9b2bc1f72ad03f4fa0c03dce902c0478]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2005/19/schedule/3/paragraph/3) in force at 1.9.2007 by [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-11](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by S.I. 2007/2169, arts. 3, 6, Sch.)

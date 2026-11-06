@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Duty to assess impact of policy and legislative proposals[^key-9d8d580b96171dd248d787dcdf8ee057]
+## 132. Duty to assess impact of policy and legislative proposals[^c-9d8d580b96171dd248d787dcdf8ee057]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d8d580b96171dd248d787dcdf8ee057]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2009/25/section/132) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-9d8d580b96171dd248d787dcdf8ee057]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2009/25/section/132) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

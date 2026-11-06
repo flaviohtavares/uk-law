@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Civil legal services for recipients of priority removal notices[^key-c924cfa551a937963f57b684608e9ebb]
+## 25. Civil legal services for recipients of priority removal notices[^c-c924cfa551a937963f57b684608e9ebb]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c924cfa551a937963f57b684608e9ebb]: Commencement: S. 25 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-c924cfa551a937963f57b684608e9ebb]: Commencement: S. 25 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

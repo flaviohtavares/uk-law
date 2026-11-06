@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Duty of employers to keep records[^key-b565af44debc8766b007ff6e9ad9eef8][^key-e1e04f3c3d735f56b9e65245478b13da]
+## 50. Duty of employers to keep records[^c-b565af44debc8766b007ff6e9ad9eef8][^c-e1e04f3c3d735f56b9e65245478b13da]
 
 *Extent: E+W+S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b565af44debc8766b007ff6e9ad9eef8]: Commencement: S. 50 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b565af44debc8766b007ff6e9ad9eef8]: Commencement: S. 50 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e1e04f3c3d735f56b9e65245478b13da]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/36/section/50) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(20)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/20)
+[^c-e1e04f3c3d735f56b9e65245478b13da]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2025/36/section/50) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(20)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/20)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52ZA. Duty to comply with code of conduct for corporate joint committees[^key-9c44a39dea98cf467dade05f4519d384]
+## 52ZA. Duty to comply with code of conduct for corporate joint committees[^c-9c44a39dea98cf467dade05f4519d384]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c44a39dea98cf467dade05f4519d384]: Textual amendment: [S. 52ZA](https://www.legislation.gov.uk/ukpga/2000/22/section/52ZA) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2022/372/regulation/3/5)
+[^c-9c44a39dea98cf467dade05f4519d384]: Textual amendment: [S. 52ZA](https://www.legislation.gov.uk/ukpga/2000/22/section/52ZA) inserted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [3(5)](https://www.legislation.gov.uk/wsi/2022/372/regulation/3/5)

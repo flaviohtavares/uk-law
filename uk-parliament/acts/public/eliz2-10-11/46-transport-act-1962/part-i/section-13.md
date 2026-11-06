@@ -30,7 +30,7 @@ and, subject to section eleven of this Act and to the following provisions of th
 
 (1A)[^c4789771] Subsection (1) of this section shall have effect, in relation to the Railways Board, with the insertion after paragraph (c) of the following—"
 
-- (d) of the Office of Rail and Road[^key-4619257745737618c04121eb4786d2d4],
+- (d) of the Office of Rail and Road[^c-4619257745737618c04121eb4786d2d4],
 - (e) of any person who provides, or secures the provision of, railway services, within the meaning of Part I of the Railways Act 1993, or
 - (f) of any person carrying on any undertaking which was, immediately before 1st April 1993, carried on by the Railways Board or any wholly owned subsidiary of that Board,”,
 
@@ -58,7 +58,7 @@ and with the omission of the word or immediately preceding that paragraph.
 
 [^c4789771]: Textual amendment: S. 13(1A) inserted (6.1.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 128(2)](https://www.legislation.gov.uk/ukpga/1993/43/section/128/2); [S.I. 1993/3237](https://www.legislation.gov.uk/uksi/1993/3237), [art. 2(2)](https://www.legislation.gov.uk/uksi/1993/3237/article/2/2)
 
-[^key-4619257745737618c04121eb4786d2d4]: Textual amendment: Words in s. 13(1A)(12) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/a)
+[^c-4619257745737618c04121eb4786d2d4]: Textual amendment: Words in s. 13(1A)(12) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/a)
 
 [^c4789781]: Textual amendment: Ss. 10(2), 13(2) repealed by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [Sch. 18 Pt. I](https://www.legislation.gov.uk/ukpga/1968/73/schedule/18/part/I)
 

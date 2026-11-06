@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Industrial action ballots: support thresholds[^key-90f7c028bf02027e5e390e9b6672fcb8]
+## 69. Industrial action ballots: support thresholds[^c-90f7c028bf02027e5e390e9b6672fcb8]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90f7c028bf02027e5e390e9b6672fcb8]: Commencement: S. 69 in force at 18.2.2026, see [s. 159(2)(f)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/f) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/7))
+[^c-90f7c028bf02027e5e390e9b6672fcb8]: Commencement: S. 69 in force at 18.2.2026, see [s. 159(2)(f)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/f) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/7))

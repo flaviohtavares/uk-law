@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Changes of employment in which membership is continued[^key-c3592e0baf5ccf147e8be17e49e4ed98]
+## 64. Changes of employment in which membership is continued[^c-c3592e0baf5ccf147e8be17e49e4ed98]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3592e0baf5ccf147e8be17e49e4ed98]: Commencement: Reg. 64 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-c3592e0baf5ccf147e8be17e49e4ed98]: Commencement: Reg. 64 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

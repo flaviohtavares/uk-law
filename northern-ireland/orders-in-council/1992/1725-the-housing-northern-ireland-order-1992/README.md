@@ -101,7 +101,7 @@ The Housing (Northern Ireland) Order 1992 [^c11665261]
 - [Section 73 — Replacement grants](part-7/section-73.md)
 - [Section 74 — Repairs grants towards costs of meeting certain statutory repairing obligations in respect of dwelling-houses](part-7/section-74.md)
 
-### PART IV — HOUSES IN MULTIPLE OCCUPATION[^key-1d72df74be0f15b8509b576670142f3c]
+### PART IV — HOUSES IN MULTIPLE OCCUPATION[^c-1d72df74be0f15b8509b576670142f3c]
 
 *Extent: N.I.*
 
@@ -204,4 +204,4 @@ SCHEDULES
 
 [^c11665261]: Textual amendment: functions transf. by SR 1999/481
 
-[^key-1d72df74be0f15b8509b576670142f3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisi/1992/1725/part/4) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-1d72df74be0f15b8509b576670142f3c]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/nisi/1992/1725/part/4) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

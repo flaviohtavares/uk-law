@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Ongoing obligations: metering[^key-7389727e3655df4354d3f98b033fa076]
+## 43. Ongoing obligations: metering[^c-7389727e3655df4354d3f98b033fa076]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7389727e3655df4354d3f98b033fa076]: Commencement: Reg. 43 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-7389727e3655df4354d3f98b033fa076]: Commencement: Reg. 43 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

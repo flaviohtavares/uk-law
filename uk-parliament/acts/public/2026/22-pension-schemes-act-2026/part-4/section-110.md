@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Indexation of periodic compensation for pre-1997 service: Northern Ireland[^key-a178bbdd344c6d486a8362656e531c1e]
+## 110. Indexation of periodic compensation for pre-1997 service: Northern Ireland[^c-a178bbdd344c6d486a8362656e531c1e]
 
 *Extent: E+W+S*
 
@@ -231,4 +231,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a178bbdd344c6d486a8362656e531c1e]: Commencement: S. 110 not in force at Royal Assent, see [s. 133(9)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/9)
+[^c-a178bbdd344c6d486a8362656e531c1e]: Commencement: S. 110 not in force at Royal Assent, see [s. 133(9)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/9)

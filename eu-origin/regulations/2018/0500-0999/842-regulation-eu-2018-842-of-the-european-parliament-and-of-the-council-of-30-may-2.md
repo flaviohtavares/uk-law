@@ -35,98 +35,98 @@ on binding annual greenhouse gas emission reductions by Member States from 2021 
 
 (Text with EEA relevance) (revoked)
 
-[^key-166f14db49adefc2c00cc3e5694786bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166f14db49adefc2c00cc3e5694786bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 1. Subject matter[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Scope[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 2. Scope[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Definitions[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 3. Definitions[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Annual emission levels for the period from 2021 to 2030[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 4. Annual emission levels for the period from 2021 to 2030[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Flexibilities by means of borrowing, banking and transfer[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 5. Flexibilities by means of borrowing, banking and transfer[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Flexibility for certain Member States following reduction of EU ETS allowances[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 6. Flexibility for certain Member States following reduction of EU ETS allowances[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Additional use of up to 280 million net removals from LULUCF[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 7. Additional use of up to 280 million net removals from LULUCF[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Corrective action[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 8. Corrective action[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Compliance check[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 9. Compliance check[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Adjustments[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 10. Adjustments[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Safety reserve[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 11. Safety reserve[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Registry[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 12. Registry[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Exercise of the delegation[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 13. Exercise of the delegation[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Committee procedure[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 14. Committee procedure[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Review[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 15. Review[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Amendments to Regulation (EU) No 525/2013[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 16. Amendments to Regulation (EU) No 525/2013[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Entry into force[^key-166f14db49adefc2c00cc3e5694786bd]
+## Article 17. Entry into force[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-166f14db49adefc2c00cc3e5694786bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-166f14db49adefc2c00cc3e5694786bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-166f14db49adefc2c00cc3e5694786bd]
+## ANNEX I[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-166f14db49adefc2c00cc3e5694786bd]
+## ANNEX II[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-166f14db49adefc2c00cc3e5694786bd]
+## ANNEX III[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-166f14db49adefc2c00cc3e5694786bd]
+## ANNEX IV[^c-166f14db49adefc2c00cc3e5694786bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-166f14db49adefc2c00cc3e5694786bd]: Textual amendment: Regulation revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-166f14db49adefc2c00cc3e5694786bd]: Textual amendment: Regulation revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

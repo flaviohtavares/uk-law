@@ -33,15 +33,15 @@ An Act to make provision for tax credits; to amend the law about child benefit a
 
 \[8th July 2002\]
 
-[^c17826441] Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a8772524aff51d1089c9d92d13747fff][^key-2ee222928f0127394d1a5fb8788ba3f0][^key-a6a2adc48a3813b02dab382d5c31c934][^key-af9c01dd6fd2faba87b7398669e150d5][^key-664104a1f2743430d17c3442a4064fe9]
+[^c17826441] Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a8772524aff51d1089c9d92d13747fff][^c-2ee222928f0127394d1a5fb8788ba3f0][^c-a6a2adc48a3813b02dab382d5c31c934][^c-af9c01dd6fd2faba87b7398669e150d5][^c-664104a1f2743430d17c3442a4064fe9]
 
 ## Contents
 
-### Part 1 (affected by repeal, see note) — Tax credits (affected by repeal, see note)[^c22566441][^c22566451][^key-a2531265b08f7ca2190513c24c66a27e][^key-a2531265b08f7ca2190513c24c66a27e]
+### Part 1 (affected by repeal, see note) — Tax credits (affected by repeal, see note)[^c22566441][^c22566451][^c-a2531265b08f7ca2190513c24c66a27e][^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
-#### General (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### General (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,22 +53,22 @@ An Act to make provision for tax credits; to amend the law about child benefit a
 - [Section 6 — Notifications of changes of circumstances](part-1/section-6.md)
 - [Section 7 — Income test](part-1/section-7.md)
 
-#### Child tax credit (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Child tax credit (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 8 — Entitlement](part-1/section-8.md)
 - [Section 9 — Maximum rate](part-1/section-9.md)
 
-#### Working tax credit (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Working tax credit (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 10 — Entitlement](part-1/section-10.md)
 - [Section 11 — Maximum rate](part-1/section-11.md)
 - [Section 12 — Child care element](part-1/section-12.md)
 
-#### Rate (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Rate (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 13 — Rate](part-1/section-13.md)
 
-#### Decisions (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Decisions (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,7 +86,7 @@ An Act to make provision for tax credits; to amend the law about child benefit a
 - [Section 22 — Information etc. requirements: supplementary](part-1/section-22.md)
 - [Section 23 — Notice of decisions](part-1/section-23.md)
 
-#### Payment (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Payment (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,19 +98,19 @@ An Act to make provision for tax credits; to amend the law about child benefit a
 - [Section 29 — Recovery of overpayments](part-1/section-29.md)
 - [Section 30 — Underpayments](part-1/section-30.md)
 
-#### Penalties (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Penalties (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 31 — Incorrect statements etc.](part-1/section-31.md)
 - [Section 32 — Failure to comply with requirements](part-1/section-32.md)
 - [Section 33 — Failure by employers to make correct payments](part-1/section-33.md)
 - [Section 34 — Supplementary](part-1/section-34.md)
 
-#### Fraud (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Fraud (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 35 — Offence of fraud](part-1/section-35.md)
 - [Section 36 — Powers in relation to documents](part-1/section-36.md)
 
-#### Loss of tax credit provisions (affected by repeal, see note)[^key-20e7dcee7cc06c0bd204a294bdc5d26d][^key-a2531265b08f7ca2190513c24c66a27e]
+#### Loss of tax credit provisions (affected by repeal, see note)[^c-20e7dcee7cc06c0bd204a294bdc5d26d][^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,17 +119,17 @@ An Act to make provision for tax credits; to amend the law about child benefit a
 - [Section 36C — Loss of working tax credit for repeated benefit fraud](part-1/section-36c.md)
 - [Section 36D — Section 36C: supplementary](part-1/section-36d.md)
 
-#### Interest (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Interest (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 37 — Interest](part-1/section-37.md)
 
-#### Appeals (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Appeals (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 - [Section 38 — Appeals](part-1/section-38.md)
 - [Section 39 — Exercise of right of appeal](part-1/section-39.md)
 - [Section 39A — Late appeals](part-1/section-39a.md)
 
-#### Supplementary (affected by repeal, see note)[^key-a2531265b08f7ca2190513c24c66a27e]
+#### Supplementary (affected by repeal, see note)[^c-a2531265b08f7ca2190513c24c66a27e]
 
 *Extent: E+W+S+N.I.*
 
@@ -194,20 +194,20 @@ SCHEDULES
 
 [^c17826441]: Modification: Act modified (temp. from 1.1.2003) by [The Tax Credits (Appeals) (No. 2) Regulations 2002 (S.I. 2002/3196)](https://www.legislation.gov.uk/uksi/2002/3196), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/3196/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2002/3196/regulation/24), [25](https://www.legislation.gov.uk/uksi/2002/3196/regulation/25)
 
-[^key-a8772524aff51d1089c9d92d13747fff]: Modification: Act applied (with modifications) (E.W.S.) (16.6.2014) by [The Universal Credit (Transitional Provisions) Regulations 2014 (S.I. 2014/1230)](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12(2)-(6)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12/2) (as amended 1.5.2016) by [S.I. 2016/232](https://www.legislation.gov.uk/uksi/2016/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/232/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2016/232/regulation/2)
+[^c-a8772524aff51d1089c9d92d13747fff]: Modification: Act applied (with modifications) (E.W.S.) (16.6.2014) by [The Universal Credit (Transitional Provisions) Regulations 2014 (S.I. 2014/1230)](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12(2)-(6)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12/2) (as amended 1.5.2016) by [S.I. 2016/232](https://www.legislation.gov.uk/uksi/2016/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/232/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2016/232/regulation/2)
 
-[^key-2ee222928f0127394d1a5fb8788ba3f0]: Modification: Act applied (with modifications) (E.W.S.) by [The Universal Credit (Transitional Provisions) Regulations 2014 (S.I. 2014/1230)](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12A/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1) (as inserted (13.10.2014) by [S.I. 2014/1626](https://www.legislation.gov.uk/uksi/2014/1626), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/4/1); as renumbered (24.7.2019) by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/8); and as amended (29.6.2023) by [S.I. 2023/543](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/a))
+[^c-2ee222928f0127394d1a5fb8788ba3f0]: Modification: Act applied (with modifications) (E.W.S.) by [The Universal Credit (Transitional Provisions) Regulations 2014 (S.I. 2014/1230)](https://www.legislation.gov.uk/uksi/2014/1230), [reg. 12A(2)](https://www.legislation.gov.uk/uksi/2014/1230/regulation/12A/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/1230/schedule/1) (as inserted (13.10.2014) by [S.I. 2014/1626](https://www.legislation.gov.uk/uksi/2014/1626), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2014/1626/regulation/4/1); as renumbered (24.7.2019) by [S.I. 2019/1152](https://www.legislation.gov.uk/uksi/2019/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/1152/regulation/3/8); and as amended (29.6.2023) by [S.I. 2023/543](https://www.legislation.gov.uk/uksi/2023/543), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/543/regulation/1/1), [6(5)(a)](https://www.legislation.gov.uk/uksi/2023/543/regulation/6/5/a))
 
-[^key-a6a2adc48a3813b02dab382d5c31c934]: Modification: Act applied (with modifications) (N.I.) (5.6.2016 for specified purposes) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [regs. 10(2)-(6)](https://www.legislation.gov.uk/nisr/2016/226/regulation/10/2), [11(2)](https://www.legislation.gov.uk/nisr/2016/226/regulation/11/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/226/schedule) (as amended (25.9.2017) by [S.I. 2017/781](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/781/article/8/3))
+[^c-a6a2adc48a3813b02dab382d5c31c934]: Modification: Act applied (with modifications) (N.I.) (5.6.2016 for specified purposes) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [regs. 10(2)-(6)](https://www.legislation.gov.uk/nisr/2016/226/regulation/10/2), [11(2)](https://www.legislation.gov.uk/nisr/2016/226/regulation/11/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/226/schedule) (as amended (25.9.2017) by [S.I. 2017/781](https://www.legislation.gov.uk/uksi/2017/781), [arts. 1](https://www.legislation.gov.uk/uksi/2017/781/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/781/article/8/3))
 
-[^key-af9c01dd6fd2faba87b7398669e150d5]: Modification: Act applied (with modifications) (N.I.) (coming into force in accordance with reg 1 of the amending Regulations) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [reg. 10(2)-(6)](https://www.legislation.gov.uk/nisr/2016/226/regulation/10/2)
+[^c-af9c01dd6fd2faba87b7398669e150d5]: Modification: Act applied (with modifications) (N.I.) (coming into force in accordance with reg 1 of the amending Regulations) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [reg. 10(2)-(6)](https://www.legislation.gov.uk/nisr/2016/226/regulation/10/2)
 
-[^key-664104a1f2743430d17c3442a4064fe9]: Modification: Act applied (with modifications) (coming into force in accordance with reg.1 of the amending Regulations) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [Sch. paras. 1-10](https://www.legislation.gov.uk/nisr/2016/226/schedule/paragraph/1)
+[^c-664104a1f2743430d17c3442a4064fe9]: Modification: Act applied (with modifications) (coming into force in accordance with reg.1 of the amending Regulations) by [The Universal Credit (Transitional Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/226)](https://www.legislation.gov.uk/nisr/2016/226), [Sch. paras. 1-10](https://www.legislation.gov.uk/nisr/2016/226/schedule/paragraph/1)
 
 [^c22566441]: Modification: Pt. 1 modified (6.4.2003) by [The Tax Credits (Immigration) Regulations 2003 (S.I. 2003/653)](https://www.legislation.gov.uk/uksi/2003/653), [regs. 1](https://www.legislation.gov.uk/uksi/2003/653/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/653/regulation/4) (as amended (6.4.2003 immediately after the coming into force of [S.I. 2003/738](https://www.legislation.gov.uk/uksi/2003/738)) by [S.I. 2003/742](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [56](https://www.legislation.gov.uk/uksi/2003/742/regulation/56) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/2))
 
 [^c22566451]: Modification: Pt. 1 modified (6.4.2003 immediately after the coming into force of [S.I. 2003/738](https://www.legislation.gov.uk/uksi/2003/738)) by [The Tax Credits (Polygamous Marriages) Regulations 2003 (S.I. 2003/742)](https://www.legislation.gov.uk/uksi/2003/742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/742/regulation/1/1), [3-21](https://www.legislation.gov.uk/uksi/2003/742/regulation/3) (as amended (6.4.2017) by [S.I. 2017/387](https://www.legislation.gov.uk/uksi/2017/387), [regs. 1](https://www.legislation.gov.uk/uksi/2017/387/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/387/regulation/7))
 
-[^key-a2531265b08f7ca2190513c24c66a27e]: Textual amendment: Pt. 1 repealed (1.2.2019 with savings in relation to specified cases in [art. 3](https://www.legislation.gov.uk/uksi/2019/167/article/3) of the commencing S.I.) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [arts. 2](https://www.legislation.gov.uk/uksi/2019/167/article/2), [3](https://www.legislation.gov.uk/uksi/2019/167/article/3)
+[^c-a2531265b08f7ca2190513c24c66a27e]: Textual amendment: Pt. 1 repealed (1.2.2019 with savings in relation to specified cases in [art. 3](https://www.legislation.gov.uk/uksi/2019/167/article/3) of the commencing S.I.) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2019/167](https://www.legislation.gov.uk/uksi/2019/167), [arts. 2](https://www.legislation.gov.uk/uksi/2019/167/article/2), [3](https://www.legislation.gov.uk/uksi/2019/167/article/3)
 
-[^key-20e7dcee7cc06c0bd204a294bdc5d26d]: Textual amendment: Ss. 36A-36D and cross-heading inserted (1.2.2013 for specified purposes, otherwise 6.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)
+[^c-20e7dcee7cc06c0bd204a294bdc5d26d]: Textual amendment: Ss. 36A-36D and cross-heading inserted (1.2.2013 for specified purposes, otherwise 6.4.2013) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 120(2)](https://www.legislation.gov.uk/ukpga/2012/5/section/120/2), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2013/178](https://www.legislation.gov.uk/uksi/2013/178), [art. 2](https://www.legislation.gov.uk/uksi/2013/178/article/2)

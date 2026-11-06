@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Early Years Foundation Stage (Welfare Requirements) (Amendment) Regulations 2009 (revoked)[^key-1450e21ac8ffe14048e0d3c59a420bb6]
+The Early Years Foundation Stage (Welfare Requirements) (Amendment) Regulations 2009 (revoked)[^c-1450e21ac8ffe14048e0d3c59a420bb6]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st September 2009
 
-[^key-1450e21ac8ffe14048e0d3c59a420bb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1450e21ac8ffe14048e0d3c59a420bb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1450e21ac8ffe14048e0d3c59a420bb6]
+## 1. Citation and commencement[^c-1450e21ac8ffe14048e0d3c59a420bb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Early Years Foundation Stage (Welfare Requirements) Regulations 2007[^key-1450e21ac8ffe14048e0d3c59a420bb6]
+## 2. Amendments to the Early Years Foundation Stage (Welfare Requirements) Regulations 2007[^c-1450e21ac8ffe14048e0d3c59a420bb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1450e21ac8ffe14048e0d3c59a420bb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1450e21ac8ffe14048e0d3c59a420bb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1450e21ac8ffe14048e0d3c59a420bb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1450e21ac8ffe14048e0d3c59a420bb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1450e21ac8ffe14048e0d3c59a420bb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1450e21ac8ffe14048e0d3c59a420bb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1450e21ac8ffe14048e0d3c59a420bb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1450e21ac8ffe14048e0d3c59a420bb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1450e21ac8ffe14048e0d3c59a420bb6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1549) revoked (1.9.2012) by [The Early Years Foundation Stage (Welfare Requirements) Regulations 2012 (S.I. 2012/938)](https://www.legislation.gov.uk/uksi/2012/938), [regs. 1](https://www.legislation.gov.uk/uksi/2012/938/regulation/1), [13](https://www.legislation.gov.uk/uksi/2012/938/regulation/13)
+[^c-1450e21ac8ffe14048e0d3c59a420bb6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/1549) revoked (1.9.2012) by [The Early Years Foundation Stage (Welfare Requirements) Regulations 2012 (S.I. 2012/938)](https://www.legislation.gov.uk/uksi/2012/938), [regs. 1](https://www.legislation.gov.uk/uksi/2012/938/regulation/1), [13](https://www.legislation.gov.uk/uksi/2012/938/regulation/13)

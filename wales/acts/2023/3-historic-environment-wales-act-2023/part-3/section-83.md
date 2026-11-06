@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Service of temporary listing notice[^key-053fea6649eef3114cdd15f8e9f937ad][^key-bbccbb0fbe37cdebdb88786235b7a077]
+## 83. Service of temporary listing notice[^c-053fea6649eef3114cdd15f8e9f937ad][^c-bbccbb0fbe37cdebdb88786235b7a077]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-053fea6649eef3114cdd15f8e9f937ad]: Commencement: S. 83 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-053fea6649eef3114cdd15f8e9f937ad]: Commencement: S. 83 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-bbccbb0fbe37cdebdb88786235b7a077]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2023/3/section/83) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-bbccbb0fbe37cdebdb88786235b7a077]: Commencement: [S. 83](https://www.legislation.gov.uk/asc/2023/3/section/83) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

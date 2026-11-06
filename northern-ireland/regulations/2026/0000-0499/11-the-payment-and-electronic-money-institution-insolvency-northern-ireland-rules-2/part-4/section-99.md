@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 99. Pre-administration costs[^key-35fa49efb653601df0c0ede013ce4bdf]
+## 99. Pre-administration costs[^c-35fa49efb653601df0c0ede013ce4bdf]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35fa49efb653601df0c0ede013ce4bdf]: Commencement: [Rule 99](https://www.legislation.gov.uk/nisr/2026/11/rule/99) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-35fa49efb653601df0c0ede013ce4bdf]: Commencement: [Rule 99](https://www.legislation.gov.uk/nisr/2026/11/rule/99) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Operation of radio in aircraft[^key-593060b68599a90c3e149bd1fd751e45]
+## 82. Operation of radio in aircraft[^c-593060b68599a90c3e149bd1fd751e45]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-593060b68599a90c3e149bd1fd751e45]: Commencement: [Art. 82](https://www.legislation.gov.uk/uksi/2013/2870/article/82) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-593060b68599a90c3e149bd1fd751e45]: Commencement: [Art. 82](https://www.legislation.gov.uk/uksi/2013/2870/article/82) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

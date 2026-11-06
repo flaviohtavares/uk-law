@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Potatoes Originating in Egypt Regulations (Northern Ireland) 2004 (revoked)[^key-80e8e530b418eea0f783869e403d8cc8]
+The Potatoes Originating in Egypt Regulations (Northern Ireland) 2004 (revoked)[^c-80e8e530b418eea0f783869e403d8cc8]
 
 Made
 
@@ -41,47 +41,47 @@ Coming into operation
 
 11th May 2004
 
-[^key-80e8e530b418eea0f783869e403d8cc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80e8e530b418eea0f783869e403d8cc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-80e8e530b418eea0f783869e403d8cc8]
+## 1. Citation and commencement[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-80e8e530b418eea0f783869e403d8cc8]
+## 2. Interpretation[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Imports of potatoes originating in Egypt[^key-80e8e530b418eea0f783869e403d8cc8]
+## 3. Imports of potatoes originating in Egypt[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Approval of plants which process potatoes originating in Egypt[^key-80e8e530b418eea0f783869e403d8cc8]
+## 4. Approval of plants which process potatoes originating in Egypt[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of an inspector[^key-80e8e530b418eea0f783869e403d8cc8]
+## 5. Powers of an inspector[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charges in respect of the sampling of imports of potatoes[^key-80e8e530b418eea0f783869e403d8cc8]
+## 6. Charges in respect of the sampling of imports of potatoes[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-80e8e530b418eea0f783869e403d8cc8]
+## 7. Offences[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation of statutory provision[^key-80e8e530b418eea0f783869e403d8cc8]
+## 8. Revocation of statutory provision[^c-80e8e530b418eea0f783869e403d8cc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80e8e530b418eea0f783869e403d8cc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80e8e530b418eea0f783869e403d8cc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — REVOCATION OF STATUTORY PROVISIONS[^key-80e8e530b418eea0f783869e403d8cc8]
+## SCHEDULE — REVOCATION OF STATUTORY PROVISIONS[^c-80e8e530b418eea0f783869e403d8cc8]
 
 Regulation 8
 
@@ -89,8 +89,8 @@ Regulation 8
 
 **May not be in force at this date. Check the source.**
 
-[^key-80e8e530b418eea0f783869e403d8cc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80e8e530b418eea0f783869e403d8cc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80e8e530b418eea0f783869e403d8cc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/183) revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(a)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/a)
+[^c-80e8e530b418eea0f783869e403d8cc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/183) revoked (23.12.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2020 (S.R. 2020/293)](https://www.legislation.gov.uk/nisr/2020/293), [regs. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1), [55(1)(a)](https://www.legislation.gov.uk/nisr/2020/293/regulation/55/1/a)

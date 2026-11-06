@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Amendment of procedure where harbour revision orders are made by the Scottish Ministers of their own motion[^key-aa23744099da28cb150772b47791a2f9]
+## 47. Amendment of procedure where harbour revision orders are made by the Scottish Ministers of their own motion[^c-aa23744099da28cb150772b47791a2f9]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ and the word “and” between sub-paragraphs (1)(a) and (b) is repealed.
 
 ## Annotations
 
-[^key-aa23744099da28cb150772b47791a2f9]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2005/12/section/47) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-aa23744099da28cb150772b47791a2f9]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2005/12/section/47) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

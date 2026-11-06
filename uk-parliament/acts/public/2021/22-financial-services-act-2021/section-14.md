@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Use of Article 23A benchmarks[^key-fc31cae7bf9ff7ad2ec883feef86673e]
+## 14. Use of Article 23A benchmarks[^c-fc31cae7bf9ff7ad2ec883feef86673e]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,4 +113,4 @@ In the Benchmarks Regulation, after Article 23A (inserted by section 13) insertâ
 
 ## Annotations
 
-[^key-fc31cae7bf9ff7ad2ec883feef86673e]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/22/section/14) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/g)
+[^c-fc31cae7bf9ff7ad2ec883feef86673e]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2021/22/section/14) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/g)

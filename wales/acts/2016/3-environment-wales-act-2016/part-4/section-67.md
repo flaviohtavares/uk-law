@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Power to prohibit or regulate disposal of waste by incineration[^key-1948f91b0941ab6c4512cae265d17345]
+## 67. Power to prohibit or regulate disposal of waste by incineration[^c-1948f91b0941ab6c4512cae265d17345]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ In the Waste (Wales) Measure 2010 (nawm 8), after section 9 insert—
 
 ## Annotations
 
-[^key-1948f91b0941ab6c4512cae265d17345]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/3/section/67) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/b)
+[^c-1948f91b0941ab6c4512cae265d17345]: Commencement: [S. 67](https://www.legislation.gov.uk/anaw/2016/3/section/67) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/b)

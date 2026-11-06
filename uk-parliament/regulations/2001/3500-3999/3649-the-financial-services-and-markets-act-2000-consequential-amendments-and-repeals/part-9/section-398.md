@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 398. Application of Part II of the Insolvency Act 1986 to former authorised institutions[^key-12e3dd91bacdff23d234a02a799f158d]
+## 398. Application of Part II of the Insolvency Act 1986 to former authorised institutions[^c-12e3dd91bacdff23d234a02a799f158d]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12e3dd91bacdff23d234a02a799f158d]: Commencement: Art. 398 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-12e3dd91bacdff23d234a02a799f158d]: Commencement: Art. 398 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00289]: Footnote: Amendments to the Schedule which are not relevant to this amendment were made by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129), article 2, Schedule1, paragraph 9.

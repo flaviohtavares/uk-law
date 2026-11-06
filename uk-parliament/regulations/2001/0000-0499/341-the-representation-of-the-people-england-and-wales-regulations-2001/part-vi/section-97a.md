@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97A. Supply of free copy of full register to the National Library of Wales and restrictions on use[^key-39950fd5d322e552e917290c83aef3b2][^key-e7e11c4a1689c6ea930c08863d88fdb7]
+## 97A. Supply of free copy of full register to the National Library of Wales and restrictions on use[^c-39950fd5d322e552e917290c83aef3b2][^c-e7e11c4a1689c6ea930c08863d88fdb7]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ otherwise than by means of hand-written notes.
 (7) A person employed by the National Library of Wales is not prohibited from supplying a copy of, or disclosing information contained in, a version of the full register where—
 
 - (a) more than ten years have expired since that version of the register was first published in accordance with regulation 43; and
-- (b) the supply or disclosure is for Article 84A[^key-deb3646ae16e49240c0a679e46215121][^key-cb25cbe4984cd78e9b97a9dee06ce7dd] GDPR purposes in accordance with the relevant requirement.
+- (b) the supply or disclosure is for Article 84A[^c-deb3646ae16e49240c0a679e46215121][^c-cb25cbe4984cd78e9b97a9dee06ce7dd] GDPR purposes in accordance with the relevant requirement.
 
 (8) No person who obtains a copy of the full register or to whom information contained in it that is not contained in the edited register is disclosed under the circumstances described in paragraph (7) may—
 
@@ -65,16 +65,16 @@ otherwise than by means of hand-written notes.
 - (b) disclose any such information, or
 - (c) make use of any such information,
 
-otherwise than for Article 84A[^key-879c3aaab5e84229afaa0be92b2a02b4] GDPR purposes in accordance with the relevant requirement.
+otherwise than for Article 84A[^c-879c3aaab5e84229afaa0be92b2a02b4] GDPR purposes in accordance with the relevant requirement.
 
 ## Annotations
 
-[^key-39950fd5d322e552e917290c83aef3b2]: Textual amendment: Regs. 97A, 97B inserted (23.3.2006) by [The Representation of the People (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/752)](https://www.legislation.gov.uk/uksi/2006/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/752/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2006/752/regulation/16)
+[^c-39950fd5d322e552e917290c83aef3b2]: Textual amendment: Regs. 97A, 97B inserted (23.3.2006) by [The Representation of the People (England and Wales) (Amendment) Regulations 2006 (S.I. 2006/752)](https://www.legislation.gov.uk/uksi/2006/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/752/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2006/752/regulation/16)
 
-[^key-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
+[^c-e7e11c4a1689c6ea930c08863d88fdb7]: Textual amendment: Pt. 6 inserted (16.10.2002) by [The Representation of the People (England and Wales) (Amendment) Regulations 2002 (S.I. 2002/1871)](https://www.legislation.gov.uk/uksi/2002/1871), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/2), [15](https://www.legislation.gov.uk/uksi/2002/1871/regulation/15) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2002/1871/regulation/2/3))
 
-[^key-deb3646ae16e49240c0a679e46215121]: Textual amendment: Words in [reg. 97A(7)(b)](https://www.legislation.gov.uk/uksi/2001/341/regulation/97A/7/b) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [5(6)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/5/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-deb3646ae16e49240c0a679e46215121]: Textual amendment: Words in [reg. 97A(7)(b)](https://www.legislation.gov.uk/uksi/2001/341/regulation/97A/7/b) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [5(6)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/5/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
-[^key-cb25cbe4984cd78e9b97a9dee06ce7dd]: Textual amendment: Words in reg. 97A(7)(8) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 261](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/261) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-cb25cbe4984cd78e9b97a9dee06ce7dd]: Textual amendment: Words in reg. 97A(7)(8) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 261](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/261) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-879c3aaab5e84229afaa0be92b2a02b4]: Textual amendment: Words in reg. 97A(8) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [5(6)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/5/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-879c3aaab5e84229afaa0be92b2a02b4]: Textual amendment: Words in reg. 97A(8) substituted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/3), [5(6)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/5/6); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)

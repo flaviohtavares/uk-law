@@ -52,56 +52,56 @@ These Regulations may be cited as the Justification of Practices Involving Ionis
 
 ### 2. Application
 
-These Regulations apply to practices only to the extent to which the 2013[^key-3580bb7bbff4f4200576e4c1bbf78b6f] Directive would, immediately before exit day, have applied to them[^key-4f2bf8e2eab6aa686ac0910e952a13b9].
+These Regulations apply to practices only to the extent to which the 2013[^c-3580bb7bbff4f4200576e4c1bbf78b6f] Directive would, immediately before exit day, have applied to them[^c-4f2bf8e2eab6aa686ac0910e952a13b9].
 
 ### 3. Interpretation
 
-(1)[^key-3f7fc91f3308f5e50cf19a37be746907] In these Regulations, “the 2013 Directive” means Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom.
+(1)[^c-3f7fc91f3308f5e50cf19a37be746907] In these Regulations, “the 2013 Directive” means Council Directive 2013/59/Euratom laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom.
 
-(2) Subject to paragraph (2A), expressions[^key-bfcb8cfb3f676c4c7fd7ce7fcb785322] and words used in both these Regulations and the 2013[^key-859b2f7fa1cfc2f1267771d76dc6a9da] Directive have the same meaning for the purposes of these Regulations as they do in that Directive, whether or not they are defined in Article 4[^key-180fe29d8f10ff521deeefdf122fe0e2] of that Directive.
+(2) Subject to paragraph (2A), expressions[^c-bfcb8cfb3f676c4c7fd7ce7fcb785322] and words used in both these Regulations and the 2013[^c-859b2f7fa1cfc2f1267771d76dc6a9da] Directive have the same meaning for the purposes of these Regulations as they do in that Directive, whether or not they are defined in Article 4[^c-180fe29d8f10ff521deeefdf122fe0e2] of that Directive.
 
-(2A)[^key-76c0af43347628ad21a2986cf31492f1] When reading the 2013 Directive for the purposes of these Regulations, Article 4(43) (definition of inspection) is to be read as if, for the words “any competent authority”, there were substituted “the Justifying Authority”.
+(2A)[^c-76c0af43347628ad21a2986cf31492f1] When reading the 2013 Directive for the purposes of these Regulations, Article 4(43) (definition of inspection) is to be read as if, for the words “any competent authority”, there were substituted “the Justifying Authority”.
 
 (3) The following table shows other provisions defining expressions for the purposes of these Regulations—
 
 |  |  |
 | --- | --- |
-| [^key-ee5b2cba5c387f168de889e626dc1dff]. . . | [^key-ee5b2cba5c387f168de889e626dc1dff]. . . |
+| [^c-ee5b2cba5c387f168de889e626dc1dff]. . . | [^c-ee5b2cba5c387f168de889e626dc1dff]. . . |
 | contravention notice | regulation 22(2) |
 | existing class or type of practice | regulation 5(1) |
 | found to be justified | regulation 4(4) |
-| imaging practice[^key-b3af78f384e93a7a066352de8251ccda] | regulation 21A(2) |
+| imaging practice[^c-b3af78f384e93a7a066352de8251ccda] | regulation 21A(2) |
 | justification decision | regulations 4(3) and 14(1) |
 | justified | regulation 4(2) |
 | Justifying Authority | regulation 6 |
-| new class or type of practice | regulations 4(1) and 20B[^key-9eb19daa60ca09cb4e9c7a60242d6398] |
+| new class or type of practice | regulations 4(1) and 20B[^c-9eb19daa60ca09cb4e9c7a60242d6398] |
 | Northern Ireland | regulation 6(4)(e) |
 | Northern Ireland department | regulation 6(4)(f) |
 | Scotland | regulation 6(4)(d) |
 | Scottish Ministers | regulation 6(4)(b) |
 | transferred matter | regulation 6(4)(c) |
 | Wales | regulation 6(4)(g). |
-| Welsh Ministers[^key-e542f64a3f505b19af7652775c19e064] | regulation 6(4)(h) |
+| Welsh Ministers[^c-e542f64a3f505b19af7652775c19e064] | regulation 6(4)(h) |
 
 ## PART 2 — General Principles
 
 ### 4. Justification of new classes or types of practice
 
-(1)[^key-1b45220818e47f94cf42f350bbd0ce27] Subject to regulation 20B, a class or type of practice is “new” for the purposes of these Regulations if—
+(1)[^c-1b45220818e47f94cf42f350bbd0ce27] Subject to regulation 20B, a class or type of practice is “new” for the purposes of these Regulations if—
 
 - (a) no practice in that class or type was carried out in the United Kingdom before 6th February 2018; or
 - (b) a practice in that class or type was carried out in the United Kingdom before 6th February 2018 but in breach of a requirement not to carry out a practice in that class or type until that class or type had been found to be justified,
 
 and in either case the class or type of practice has not been found to be justified.
 
-(2)[^key-5bde19425a4b973174292cf289acf94d] In these Regulations, “justified” in relation to a class or type of practice means that the individual or societal benefit resulting from the class or type of practice outweighs the health detriment that it may cause.
+(2)[^c-5bde19425a4b973174292cf289acf94d] In these Regulations, “justified” in relation to a class or type of practice means that the individual or societal benefit resulting from the class or type of practice outweighs the health detriment that it may cause.
 
 (3) A “**justification decision**” for the purposes of these Regulations is a decision which—
 
 - (a) is made by the Justifying Authority in the form specified in regulation 14, and which determines whether a class or type of practice is justified; and
-- (b) in regulation 5(3) , 7 or 21C(4)[^key-baf96d2e744fae45a019937b818427ae], or for the purpose of determining whether a class or type of practice has been justified for the purpose of regulation 4(5), applies to the part of the United Kingdom in which it is proposed that the practice in question be carried out.
+- (b) in regulation 5(3) , 7 or 21C(4)[^c-baf96d2e744fae45a019937b818427ae], or for the purpose of determining whether a class or type of practice has been justified for the purpose of regulation 4(5), applies to the part of the United Kingdom in which it is proposed that the practice in question be carried out.
 
-(3A)[^key-c3d58ca74d3e128fbb3493cf4012e0ec] In making a justification decision in respect of a class or type of practice involving occupational and public exposures, the Justifying Authority must take into account both categories of exposure.
+(3A)[^c-c3d58ca74d3e128fbb3493cf4012e0ec] In making a justification decision in respect of a class or type of practice involving occupational and public exposures, the Justifying Authority must take into account both categories of exposure.
 
 (3B) In making a justification decision in respect of a class or type of practice involving medical exposure, the Justifying Authority must take into account medical and, where relevant, occupational and public exposures.
 
@@ -113,7 +113,7 @@ and in either case the class or type of practice has not been found to be justif
 
 (1) In these Regulations, a class or type of practice involving exposure to ionising radiation is an “existing class or type of practice” if either—
 
-- (a) a practice in that class or type was carried out in the United Kingdom before 6th February 2018 without breaching any requirement not to carry out a practice in that class or type until that class or type had been found to be justified[^key-e532c4b5a6f53a9caca4daba0cc7e3e9]; or
+- (a) a practice in that class or type was carried out in the United Kingdom before 6th February 2018 without breaching any requirement not to carry out a practice in that class or type until that class or type had been found to be justified[^c-e532c4b5a6f53a9caca4daba0cc7e3e9]; or
 - (b) it has been found to be justified; or both.
 
 (2) Subject to paragraph (3), a person may carry out a practice, resulting in exposure to ionising radiation, belonging to an existing class or type of practice.
@@ -130,9 +130,9 @@ and in either case the class or type of practice has not been found to be justif
 - (a) the Secretary of State;
 - (b) the Scottish Ministers;
 - (c) a Northern Ireland department;
-- (d) the Welsh Ministers[^key-b97e5d67f013a814253fec87f1c01dcc].
+- (d) the Welsh Ministers[^c-b97e5d67f013a814253fec87f1c01dcc].
 
-(1A)[^key-21ab644b8ae59ca199e4466d684da06b] A person must not exercise functions under these Regulations in relation to a practice, except those listed in paragraph (1B), unless that person is functionally separate from all other persons concerned with the promotion or utilisation of that practice.
+(1A)[^c-21ab644b8ae59ca199e4466d684da06b] A person must not exercise functions under these Regulations in relation to a practice, except those listed in paragraph (1B), unless that person is functionally separate from all other persons concerned with the promotion or utilisation of that practice.
 
 (1B) The functions referred to in paragraph (1A) are those of—
 
@@ -141,34 +141,34 @@ and in either case the class or type of practice has not been found to be justif
 - (c) making the register available to the public under regulation 19(3);
 - (d) carrying out reviews and publishing reports under regulation 28.
 
-(2) In addition to the limitation in paragraph (1A), the[^key-42198d1e022dd7f21b909dbecb285edf] exercise of functions under these Regulations by the Justifying Authority, except those of receiving applications under regulation 13(1) or being consulted under regulation 18(2), shall be further[^key-a67261065d38db76f2089483c4acd4f8] limited as provided in regulation 14(2) and as set out below—
+(2) In addition to the limitation in paragraph (1A), the[^c-42198d1e022dd7f21b909dbecb285edf] exercise of functions under these Regulations by the Justifying Authority, except those of receiving applications under regulation 13(1) or being consulted under regulation 18(2), shall be further[^c-a67261065d38db76f2089483c4acd4f8] limited as provided in regulation 14(2) and as set out below—
 
 - (a) any function may be exercised by the Secretary of State;
-- (b) functions may be exercised by the Scottish Ministers only insofar as justifying the class or type of practice involved falls within devolved competence , within the meaning of section 54 of the Scotland Act 1998[^key-48ac85500a9c4978b194a0f8d8ba9bd2];
+- (b) functions may be exercised by the Scottish Ministers only insofar as justifying the class or type of practice involved falls within devolved competence , within the meaning of section 54 of the Scotland Act 1998[^c-48ac85500a9c4978b194a0f8d8ba9bd2];
 - (c) functions may be exercised by a Northern Ireland department only in relation to Northern Ireland and insofar as justifying the class or type of practice involved is a transferred matter;
-- (d) functions may be exercised by the Welsh Ministers[^key-64d0cbc448c03d0f8ac554b2b3ec1151] only insofar as justifying the class or type of practice involved falls within devolved competence, within the meaning of section 58A of the Government of Wales Act 2006[^key-fd9d2228f3ef2ff560d7f1bd811113cd].
+- (d) functions may be exercised by the Welsh Ministers[^c-64d0cbc448c03d0f8ac554b2b3ec1151] only insofar as justifying the class or type of practice involved falls within devolved competence, within the meaning of section 58A of the Government of Wales Act 2006[^c-fd9d2228f3ef2ff560d7f1bd811113cd].
 
 (3) Where in these Regulations the Justifying Authority is obliged to perform a function, that obligation shall fall as follows—
 
-- (a) on the Scottish Ministers, a Northern Ireland department, or the Welsh Ministers[^key-28b0d085bc00030b25eea2ba01ae754c], insofar as they may perform that function, having regard to paragraph (2) and to regulation 14(2); and otherwise
+- (a) on the Scottish Ministers, a Northern Ireland department, or the Welsh Ministers[^c-28b0d085bc00030b25eea2ba01ae754c], insofar as they may perform that function, having regard to paragraph (2) and to regulation 14(2); and otherwise
 - (b) on the Secretary of State.
 
 (4) In these Regulations—
 
-- (a)[^key-43f1db1781280215d0265ddec0095cab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-43f1db1781280215d0265ddec0095cab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**the Scottish Ministers**” has the meaning prescribed by section 44 of the Scotland Act 1998;
 - (c) “**transferred matter**” has the meaning prescribed by section 4 of the Northern Ireland Act 1998 [^c524760];
 - (d) “**Scotland**” has the meaning prescribed by section 126 of the Scotland Act 1998;
 - (e) “**Northern Ireland**” has the meaning prescribed by section 98(1) of the Northern Ireland Act 1998;
 - (f) “**Northern Ireland department**” has the meaning prescribed by section 21 of the Northern Ireland Act 1998;
-- (g) “**Wales**” has the meaning prescribed by section 158 of the Government of Wales Act 2006[^key-db9bf2f789a14c38237189e16333d76a] ;[^key-6b08676621d70e52de7d805f0ebb75e6]
+- (g) “**Wales**” has the meaning prescribed by section 158 of the Government of Wales Act 2006[^c-db9bf2f789a14c38237189e16333d76a] ;[^c-6b08676621d70e52de7d805f0ebb75e6]
 - (h) “the Welsh Ministers” has the meaning prescribed by section 45 of the Government of Wales Act 2006
 
 ### 7. Transitional Arrangements- new classes or types of practice
 
 Subject to regulation 5(3)—
 
-- (a) a person may carry out a practice of a new class or type, for a period of six months beginning on 18th April 2018[^key-b63122f6fd3bd624de7639cb26c53ea6], if he first carried out the practice in the United Kingdom before 18th April 2018[^key-6bb492f5cfa8f9d2d9afcff7b5b18146];
+- (a) a person may carry out a practice of a new class or type, for a period of six months beginning on 18th April 2018[^c-b63122f6fd3bd624de7639cb26c53ea6], if he first carried out the practice in the United Kingdom before 18th April 2018[^c-6bb492f5cfa8f9d2d9afcff7b5b18146];
 - (b) that person may continue to carry out that practice after the expiry of that period—
   - (i) if he has, within that period, applied for a justification decision; and
   - (ii) until a justification decision has been made.
@@ -203,15 +203,15 @@ Subject to regulation 5(3)—
 
 (1) A person may apply to the Justifying Authority to review an existing class or type of practice if one of the conditions set out in paragraph (4) is satisfied.
 
-(2) Having received an application under paragraph (1), the Justifying Authority must[^key-7cb4596b24337bb0460e190ee9556150], subject to regulation 14(2), consider carrying out a review[^key-5ff139ae02a1d225841e0e84e08fb3d6] and may , having carried out a review,[^key-414897ce6714971c23cdb64f6aef20b4] make a new justification decision in respect of that class or type of practice.
+(2) Having received an application under paragraph (1), the Justifying Authority must[^c-7cb4596b24337bb0460e190ee9556150], subject to regulation 14(2), consider carrying out a review[^c-5ff139ae02a1d225841e0e84e08fb3d6] and may , having carried out a review,[^c-414897ce6714971c23cdb64f6aef20b4] make a new justification decision in respect of that class or type of practice.
 
 (3) The Justifying Authority may, subject to regulation 14(2), without receiving an application under paragraph (1), review an existing class or type of practice if one of the conditions set out in paragraph (4) is satisfied and make a new justification decision in respect of that class or type of practice.
 
-(3A)[^key-c774a3dc61bddf1d0a09a79184d2cf87] The Justifying Authority must consider carrying out a review of an existing class or type of practice if the Justifying Authority becomes aware that the condition set out in paragraph (4)(a) is satisfied.
+(3A)[^c-c774a3dc61bddf1d0a09a79184d2cf87] The Justifying Authority must consider carrying out a review of an existing class or type of practice if the Justifying Authority becomes aware that the condition set out in paragraph (4)(a) is satisfied.
 
-(4) The conditions referred to in paragraphs (1) , (3) and (3A)[^key-7d2faa7ca391191c2716882e02699ad4] above are that—
+(4) The conditions referred to in paragraphs (1) , (3) and (3A)[^c-7d2faa7ca391191c2716882e02699ad4] above are that—
 
-- (a)[^key-4be93770c08ce411731876127e167b39] new and important evidence is acquired about the efficacy or potential consequences of—
+- (a)[^c-4be93770c08ce411731876127e167b39] new and important evidence is acquired about the efficacy or potential consequences of—
   - (i) the class or type of practice; or
   - (ii) other techniques or technologies that have the same objective as it; or
 - (b) there has been a justification decision that it is not justified.
@@ -235,11 +235,11 @@ Subject to regulation 5(3)—
 
 ### 13. Application procedure
 
-(1) A person may make an application under regulation 9 , 10, 21C or 21E[^key-fe6dde6ff7f6ac414dad1ef524ce2b7b] to the Secretary of State, the Scottish Ministers, a Northern Ireland department, or the Welsh Ministers[^key-be06e519a37913ab2210072a05d81cb0], and those persons may receive such applications, without limitation as to the territorial extent or the subject matter of the application.
+(1) A person may make an application under regulation 9 , 10, 21C or 21E[^c-fe6dde6ff7f6ac414dad1ef524ce2b7b] to the Secretary of State, the Scottish Ministers, a Northern Ireland department, or the Welsh Ministers[^c-be06e519a37913ab2210072a05d81cb0], and those persons may receive such applications, without limitation as to the territorial extent or the subject matter of the application.
 
 (2) The recipient of an application shall forthwith upon receipt forward a copy of it to such of the persons listed in regulation 6(1) as did not receive the application, which copies shall be treated as if they were applications.
 
-(3) Any application under regulation 9 , 10, 21C or 21E[^key-f5804f65ae55acc750ddc260a37171d7] shall, notwithstanding any statement by the applicant of the geographical extent or limit of his application, be treated as if it were an application made to each of the persons listed in regulation 6(1) insofar as each is able pursuant to regulation 6(2) to exercise the function of determining the application.
+(3) Any application under regulation 9 , 10, 21C or 21E[^c-f5804f65ae55acc750ddc260a37171d7] shall, notwithstanding any statement by the applicant of the geographical extent or limit of his application, be treated as if it were an application made to each of the persons listed in regulation 6(1) insofar as each is able pursuant to regulation 6(2) to exercise the function of determining the application.
 
 ### 14. Form of applications and decisions
 
@@ -249,7 +249,7 @@ Subject to regulation 5(3)—
 - (b) determines that a class or type of practice is no longer justified; or
 - (c) introduces or changes conditions relating to the justification of a class or type of practice,
 
-shall be made by the Justifying Authority in the form of regulations, by exercising such powers as the Justifying Authority has which arise apart from these Regulations, including but not limited to powers under regulation 4 of the Justification Decision Power (Amendment) (EU Exit) Regulations 2019[^key-e94db07e70371ab061f7dee44edd114a].
+shall be made by the Justifying Authority in the form of regulations, by exercising such powers as the Justifying Authority has which arise apart from these Regulations, including but not limited to powers under regulation 4 of the Justification Decision Power (Amendment) (EU Exit) Regulations 2019[^c-e94db07e70371ab061f7dee44edd114a].
 
 (2) In the event that any of the persons mentioned in regulation 6(1) as constituting the Justifying Authority has no such power as is mentioned in paragraph (1), he shall not make a justification decision.
 
@@ -267,7 +267,7 @@ shall be made by the Justifying Authority in the form of regulations, by exercis
 
 ### 15. Time for determining applications
 
-(1) The Justifying Authority or, in the case of regulation 12, the Secretary of State shall, within one month of receiving an application or request under regulation 9, 10 , 12, 21C or 21E[^key-018f235ad616e94344ad171f6fa7217a], notify the applicant of the period within which it will be determined.
+(1) The Justifying Authority or, in the case of regulation 12, the Secretary of State shall, within one month of receiving an application or request under regulation 9, 10 , 12, 21C or 21E[^c-018f235ad616e94344ad171f6fa7217a], notify the applicant of the period within which it will be determined.
 
 (2) The Justifying Authority or, in the case of regulation 12, the Secretary of State shall, within the period notified to the applicant under paragraph (1) or such further period as shall be notified to the applicant—
 
@@ -310,29 +310,29 @@ shall be made by the Justifying Authority in the form of regulations, by exercis
 
 ### 18. Consultation
 
-(1) Before making a justification decision or a determination under regulation 12 or 21C[^key-a5e61fe4eb0aba0b535a3aea4d36a2a8] or serving a contravention notice under regulation 22, the Justifying Authority or Secretary of State (as the case may be)—
+(1) Before making a justification decision or a determination under regulation 12 or 21C[^c-a5e61fe4eb0aba0b535a3aea4d36a2a8] or serving a contravention notice under regulation 22, the Justifying Authority or Secretary of State (as the case may be)—
 
 - (a) shall consult—
   - (i) the Health and Safety Executive [^c524765];
-  - (ia)[^key-8bb964e94a6d71412cab755daeec8bf7] the Office for Nuclear Regulation;
+  - (ia)[^c-8bb964e94a6d71412cab755daeec8bf7] the Office for Nuclear Regulation;
   - (ii) the Food Standards Agency [^c524766];
-  - (iii)[^key-7f16d03733e1fc4357116afec5d78a11] Public Health England, an executive agency of the Department of Health and Social Care[^key-a5d7583bb8cd0e44573f038a24b530f1]; and
-  - (iv) where the class or type of practice involves a radioactive substance, the Environment Agency [^c524768], the Natural Resources Body for Wales,[^key-da27668235c988d2a8ccb9f3dfe83295] the Scottish Environment Protection Agency [^c524769] and the Department of the Environment for Northern Ireland;
+  - (iii)[^c-7f16d03733e1fc4357116afec5d78a11] Public Health England, an executive agency of the Department of Health and Social Care[^c-a5d7583bb8cd0e44573f038a24b530f1]; and
+  - (iv) where the class or type of practice involves a radioactive substance, the Environment Agency [^c524768], the Natural Resources Body for Wales,[^c-da27668235c988d2a8ccb9f3dfe83295] the Scottish Environment Protection Agency [^c524769] and the Department of the Environment for Northern Ireland;
 - (b) may consult any other person whom he considers it appropriate to consult;
 - (c) shall take such steps as he considers appropriate to bring the proposed decision, determination or contravention notice to the attention of any person likely to be affected by it.
 
-(2) Before exercising any function under Part 3 or under regulation 16, 17, 21C,[^key-c1fa9f16dc937dcbeca6b9d930e97f4f] 22, 26 or 27, the person proposing to exercise the function shall consult the other persons listed in regulation 6(1).
+(2) Before exercising any function under Part 3 or under regulation 16, 17, 21C,[^c-c1fa9f16dc937dcbeca6b9d930e97f4f] 22, 26 or 27, the person proposing to exercise the function shall consult the other persons listed in regulation 6(1).
 
 ### 19. Register
 
 (1) The Secretary of State shall maintain a register containing such particulars as he considers appropriate of—
 
-- (a) any application made under regulation 9,10, 12 or 21C[^key-75256b199534dada555fc2768eed52c5];
-- (b) justification decisions and other determinations made under Part 3 or regulation 21C[^key-84b95bc764221faf9328ceffa36cf7b0] or to which regulation 8 applies;
-- (ba)[^key-0b751cbbf2cb93edbf2152a293c9fbfa] approvals granted under regulation 21E;
+- (a) any application made under regulation 9,10, 12 or 21C[^c-75256b199534dada555fc2768eed52c5];
+- (b) justification decisions and other determinations made under Part 3 or regulation 21C[^c-84b95bc764221faf9328ceffa36cf7b0] or to which regulation 8 applies;
+- (ba)[^c-0b751cbbf2cb93edbf2152a293c9fbfa] approvals granted under regulation 21E;
 - (c) such other information as he considers appropriate.
 
-(2) The Scottish Ministers, or a Northern Ireland department, or the Welsh Ministers[^key-9acc122fb33b5c621e6cacb7a3b72413], having made a justification decision under regulation 9, 10 or 11 or a determination under regulation 21C,[^key-d923bca426339a291b3974ed51b9159f] shall as soon as reasonably practicable provide to the Secretary of State full particulars of that decision and such other information as he reasonably requires to perform his function under paragraph (1); and this paragraph shall apply to determinations to which regulation 8 applies as if they were justification decisions made by the relevant Justifying Authority on the entry into force of these Regulations.
+(2) The Scottish Ministers, or a Northern Ireland department, or the Welsh Ministers[^c-9acc122fb33b5c621e6cacb7a3b72413], having made a justification decision under regulation 9, 10 or 11 or a determination under regulation 21C,[^c-d923bca426339a291b3974ed51b9159f] shall as soon as reasonably practicable provide to the Secretary of State full particulars of that decision and such other information as he reasonably requires to perform his function under paragraph (1); and this paragraph shall apply to determinations to which regulation 8 applies as if they were justification decisions made by the relevant Justifying Authority on the entry into force of these Regulations.
 
 (3) The Secretary of State shall—
 
@@ -341,14 +341,14 @@ shall be made by the Justifying Authority in the form of regulations, by exercis
 
 ## PART 6 — Personal Ornaments, Toys and Cosmetics
 
-### 20. Radioactive substances in personal ornaments, toys and cosmetics[^key-7ed23b6e55ba86c2e39c37abd601cd47]
+### 20. Radioactive substances in personal ornaments, toys and cosmetics[^c-7ed23b6e55ba86c2e39c37abd601cd47]
 
 (1) No person shall –
 
 - (a) knowingly or recklessly add any radioactive substance in the production of personal ornaments or toys; or
 - (b) knowingly or recklessly import or export any personal ornament, toy or cosmetic to which any radioactive substance has been added in its production.
 
-(1A)[^key-23b5a54df8819e7641e3839a306a8cf5] A person must not—
+(1A)[^c-23b5a54df8819e7641e3839a306a8cf5] A person must not—
 
 - (a) carry out a practice involving the activation of materials used in toys or personal ornaments;
 - (b) knowingly or recklessly import or export toys or personal ornaments in which materials have been activated;
@@ -358,7 +358,7 @@ where that activation results, at the time of the placing on the market of the p
 
 (2) In paragraph 6 of Schedule 2 of the Toys (Safety) Regulations 1995 [^c524770] (which concerns radioactive substances in toys), for “Council Directive 80/836/Euratom shall apply”, substitute “This is without prejudice to regulation 20 of the Justification of Practices Involving Ionising Radiation Regulations 2004&”.
 
-## Part 6A — Practices involving consumer products[^key-9a0187388b8af924338179f824c458f9]
+## Part 6A — Practices involving consumer products[^c-9a0187388b8af924338179f824c458f9]
 
 ### 20A. Justification of classes or types of practice involving consumer products
 
@@ -377,14 +377,14 @@ A class or type of practice involving activation of material resulting in an inc
 
 ## PART 7 — Justification of classes or types of practice involving a medical exposure
 
-### 21. Saving for medical practices[^key-91bf09e616c2e64c0e15b88bad4c9a2a]
+### 21. Saving for medical practices[^c-91bf09e616c2e64c0e15b88bad4c9a2a]
 
-Nothing in regulation 4(5) or 5(3) shall prevent any exposure—[^key-4e213aacd9b93788323b22b02062785a]
+Nothing in regulation 4(5) or 5(3) shall prevent any exposure—[^c-4e213aacd9b93788323b22b02062785a]
 
 - (a) described in paragraphs (a) to (e) of regulation 3 of the Ionising Radiation (Medical Exposure) Regulations 2017 and permitted under regulation 11 of those Regulations;
 - (b) described in paragraphs (a) to (e) of regulation 3 of the Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2018 and permitted under regulation 11 of those Regulations.
 
-## PART 7A — Practices involving non-medical imaging exposure[^key-4c46a18bbca0fc6fb9eedc6bade3b316]
+## PART 7A — Practices involving non-medical imaging exposure[^c-4c46a18bbca0fc6fb9eedc6bade3b316]
 
 ### 21A. Application of this Part
 
@@ -498,7 +498,7 @@ The dose constraints for imaging practices must be significantly below the dose 
 
 ### 22. Contravention Notices
 
-(1) For the purposes of this regulation and of regulations 23 and 23A[^key-7ef25e209e24f5b782cb19174e62ec98], a “**relevant breach**” means a contravention of regulation 4(5), 5(3) , 20, 20A(1), 20A(3), 21C(2), 21D(1), 21E(1), 21F or 21G(1)[^key-e15fb13d6e9608185beaa436951f0236]; failure to comply with any condition imposed pursuant to regulation 11(1); or failure to comply with any requirement imposed pursuant to regulation 11(2)(b) or 16(1).
+(1) For the purposes of this regulation and of regulations 23 and 23A[^c-7ef25e209e24f5b782cb19174e62ec98], a “**relevant breach**” means a contravention of regulation 4(5), 5(3) , 20, 20A(1), 20A(3), 21C(2), 21D(1), 21E(1), 21F or 21G(1)[^c-e15fb13d6e9608185beaa436951f0236]; failure to comply with any condition imposed pursuant to regulation 11(1); or failure to comply with any requirement imposed pursuant to regulation 11(2)(b) or 16(1).
 
 (2) If the Justifying Authority is of the opinion that a person has committed a relevant breach he shall serve a notice (in these Regulations referred to as a “**contravention notice**”) on that person.
 
@@ -506,10 +506,10 @@ The dose constraints for imaging practices must be significantly below the dose 
 
 - (a) such of the persons listed in regulation 6(1) as are not the person serving the notice;
 - (b) the Health and Safety Executive;
-- (ba)[^key-1cd43494ed47ffd47f8a6601a12c5745] the Office for Nuclear Regulation;
+- (ba)[^c-1cd43494ed47ffd47f8a6601a12c5745] the Office for Nuclear Regulation;
 - (c) the Food Standards Agency;
-- (d)[^key-3e00730aaaebded2739f027d5f8a7a99] Public Health England, an executive agency of the Department of Health and Social Care[^key-bea9c32ee020bc8f09bfd402f7124ab7];
-- (e) where the class or type of practice involves a radioactive substance, the Environment Agency, the Natural Resources Body for Wales[^key-ad97ec3b699e6d0965b0d09c4c226a72] and the Scottish Environment Protection Agency; and
+- (d)[^c-3e00730aaaebded2739f027d5f8a7a99] Public Health England, an executive agency of the Department of Health and Social Care[^c-bea9c32ee020bc8f09bfd402f7124ab7];
+- (e) where the class or type of practice involves a radioactive substance, the Environment Agency, the Natural Resources Body for Wales[^c-ad97ec3b699e6d0965b0d09c4c226a72] and the Scottish Environment Protection Agency; and
 - (f) any other person he considers appropriate.
 
 (4) The contravention notice shall—
@@ -528,7 +528,7 @@ The dose constraints for imaging practices must be significantly below the dose 
 
 The Justifying Authority shall, for the purpose of determining whether a person has committed a relevant breach be entitled to exercise any of the powers specified in Schedule 1.
 
-### 23A. Inspections[^key-3ba8a9c1ffb4e731ba6a89e6534604d9]
+### 23A. Inspections[^c-3ba8a9c1ffb4e731ba6a89e6534604d9]
 
 (1) The Justifying Authority must, for the purpose of monitoring whether a person has committed a relevant breach or has failed to comply with any of the requirements in an approval granted under regulation 21E, establish an inspection programme taking into account—
 
@@ -570,7 +570,7 @@ The Justifying Authority shall, for the purpose of determining whether a person 
 
 (3) Schedule 4 applies to offences committed in Northern Ireland.
 
-### 25A. Application of criminal offences to the Crown[^key-6b6bb000f058c50d548d7f5c9ef06183]
+### 25A. Application of criminal offences to the Crown[^c-6b6bb000f058c50d548d7f5c9ef06183]
 
 (1) No contravention by the Crown of any provision of these Regulations makes the Crown criminally liable.
 
@@ -586,11 +586,11 @@ The Justifying Authority shall, for the purpose of determining whether a person 
 
 ### 27. Delegation of Enforcement Powers
 
-(1) The Justifying Authority may delegate any or all of the following powers and functions[^key-10a307874a143ec37ecda63135cf45d7]—
+(1) The Justifying Authority may delegate any or all of the following powers and functions[^c-10a307874a143ec37ecda63135cf45d7]—
 
 - (a) the powers under regulation 22 or 23;
 - (b) the power to serve a notice under regulation 16, for the purpose of discharging any function delegated under sub-paragraph (a) of this regulation;
-- (ba)[^key-7cec2b2ce8278c548cec71d1e873484b] the inspection functions under regulation 23A;
+- (ba)[^c-7cec2b2ce8278c548cec71d1e873484b] the inspection functions under regulation 23A;
 - (c) except in Scotland, the power to institute prosecutions under regulation 26;
 
 and may make such delegation subject to conditions.
@@ -599,7 +599,7 @@ and may make such delegation subject to conditions.
 
 (3) A delegation made under paragraph (1) is a determination to which regulation 14(6) applies.
 
-## PART 9 — Miscellaneous[^key-1fc34f4d592173c3e3748fcc4ae4e8b6]
+## PART 9 — Miscellaneous[^c-1fc34f4d592173c3e3748fcc4ae4e8b6]
 
 ### 28. Review
 
@@ -629,7 +629,7 @@ Minister of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE A1 — Practices involving consumer products[^key-33698a5dfe32bce7f4cae7c113b17829]
+## SCHEDULE A1 — Practices involving consumer products[^c-33698a5dfe32bce7f4cae7c113b17829]
 
 Regulation 20A
 
@@ -745,7 +745,7 @@ Regulation 25(2)
 
 that person, as well as the body corporate, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
-**2.** Where an offence under these Regulations[^key-cbab52d269d45164f3314c32a6b4bd7b] which has been committed by a local authority is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
+**2.** Where an offence under these Regulations[^c-cbab52d269d45164f3314c32a6b4bd7b] which has been committed by a local authority is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 
 (1) an officer or member of the authority, or
 
@@ -817,87 +817,87 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c524756]: Marginal citation: As regards Scotland, the Secretary of State’s power to act under that section is preserved by section 57(1) of the Scotland Act [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-3580bb7bbff4f4200576e4c1bbf78b6f]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1769/regulation/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/3/2)
+[^c-3580bb7bbff4f4200576e4c1bbf78b6f]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1769/regulation/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/3/2)
 
-[^key-4f2bf8e2eab6aa686ac0910e952a13b9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1769/regulation/2) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/24/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4f2bf8e2eab6aa686ac0910e952a13b9]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2004/1769/regulation/2) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/24/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3f7fc91f3308f5e50cf19a37be746907]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/2)
+[^c-3f7fc91f3308f5e50cf19a37be746907]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/2)
 
-[^key-bfcb8cfb3f676c4c7fd7ce7fcb785322]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/24/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bfcb8cfb3f676c4c7fd7ce7fcb785322]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2) substituted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/24/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-859b2f7fa1cfc2f1267771d76dc6a9da]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/3/a)
+[^c-859b2f7fa1cfc2f1267771d76dc6a9da]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/3/a)
 
-[^key-180fe29d8f10ff521deeefdf122fe0e2]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/3/b)
+[^c-180fe29d8f10ff521deeefdf122fe0e2]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/3/b)
 
-[^key-76c0af43347628ad21a2986cf31492f1]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2A) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/24/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76c0af43347628ad21a2986cf31492f1]: Textual amendment: [Reg. 3(2A)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/2A) inserted (31.12.2020) by [The Ionising Radiation (Environmental and Public Protection) (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/24)](https://www.legislation.gov.uk/uksi/2019/24), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/24/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2019/24/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee5b2cba5c387f168de889e626dc1dff]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/3) omitted (18.4.2018) by virtue of [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/a)
+[^c-ee5b2cba5c387f168de889e626dc1dff]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3/3) omitted (18.4.2018) by virtue of [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/a)
 
-[^key-b3af78f384e93a7a066352de8251ccda]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/b)
+[^c-b3af78f384e93a7a066352de8251ccda]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/b)
 
-[^key-9eb19daa60ca09cb4e9c7a60242d6398]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/c)
+[^c-9eb19daa60ca09cb4e9c7a60242d6398]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/c)
 
-[^key-e542f64a3f505b19af7652775c19e064]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/d)
+[^c-e542f64a3f505b19af7652775c19e064]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2004/1769/regulation/3) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2018/430/regulation/4/4/d)
 
-[^key-1b45220818e47f94cf42f350bbd0ce27]: Textual amendment: Reg. 4(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/2)
+[^c-1b45220818e47f94cf42f350bbd0ce27]: Textual amendment: Reg. 4(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/2)
 
-[^key-5bde19425a4b973174292cf289acf94d]: Textual amendment: Reg. 4(2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/3)
+[^c-5bde19425a4b973174292cf289acf94d]: Textual amendment: Reg. 4(2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/3)
 
-[^key-baf96d2e744fae45a019937b818427ae]: Textual amendment: Words in reg. 4(3)(b) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/4)
+[^c-baf96d2e744fae45a019937b818427ae]: Textual amendment: Words in reg. 4(3)(b) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/4)
 
-[^key-c3d58ca74d3e128fbb3493cf4012e0ec]: Textual amendment: Reg. 4(3A)(3B) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/5)
+[^c-c3d58ca74d3e128fbb3493cf4012e0ec]: Textual amendment: Reg. 4(3A)(3B) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/430/regulation/5/5)
 
-[^key-e532c4b5a6f53a9caca4daba0cc7e3e9]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/5/1/a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/6/2)
+[^c-e532c4b5a6f53a9caca4daba0cc7e3e9]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/5/1/a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/6/2)
 
-[^key-b97e5d67f013a814253fec87f1c01dcc]: Textual amendment: Words in reg. 6(1)(d) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/2)
+[^c-b97e5d67f013a814253fec87f1c01dcc]: Textual amendment: Words in reg. 6(1)(d) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/2)
 
-[^key-21ab644b8ae59ca199e4466d684da06b]: Textual amendment: Reg. 6(1A)(1B) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/3)
+[^c-21ab644b8ae59ca199e4466d684da06b]: Textual amendment: Reg. 6(1A)(1B) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/3)
 
-[^key-42198d1e022dd7f21b909dbecb285edf]: Textual amendment: Words in reg. 6(2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/a/i)
+[^c-42198d1e022dd7f21b909dbecb285edf]: Textual amendment: Words in reg. 6(2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(a)(i)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/a/i)
 
-[^key-a67261065d38db76f2089483c4acd4f8]: Textual amendment: Word in reg. 6(2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/a/ii)
+[^c-a67261065d38db76f2089483c4acd4f8]: Textual amendment: Word in reg. 6(2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/a/ii)
 
-[^key-48ac85500a9c4978b194a0f8d8ba9bd2]: Textual amendment: Words in reg. 6(2)(b) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/b)
+[^c-48ac85500a9c4978b194a0f8d8ba9bd2]: Textual amendment: Words in reg. 6(2)(b) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/b)
 
-[^key-64d0cbc448c03d0f8ac554b2b3ec1151]: Textual amendment: Words in reg. 6(2)(d) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/c/i)
+[^c-64d0cbc448c03d0f8ac554b2b3ec1151]: Textual amendment: Words in reg. 6(2)(d) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/c/i)
 
-[^key-fd9d2228f3ef2ff560d7f1bd811113cd]: Textual amendment: Words in reg. 6(2)(d) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/c/ii)
+[^c-fd9d2228f3ef2ff560d7f1bd811113cd]: Textual amendment: Words in reg. 6(2)(d) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/4/c/ii)
 
-[^key-28b0d085bc00030b25eea2ba01ae754c]: Textual amendment: Words in reg. 6(3)(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/5)
+[^c-28b0d085bc00030b25eea2ba01ae754c]: Textual amendment: Words in reg. 6(3)(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/5)
 
-[^key-43f1db1781280215d0265ddec0095cab]: Textual amendment: Reg. 6(4)(a) omitted (18.4.2018) by virtue of [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/6/a)
+[^c-43f1db1781280215d0265ddec0095cab]: Textual amendment: Reg. 6(4)(a) omitted (18.4.2018) by virtue of [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(6)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/6/a)
 
 [^c524760]: Marginal citation: [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), to which there are amendments not relevant to these Regulations.
 
-[^key-db9bf2f789a14c38237189e16333d76a]: Textual amendment: Words in reg. 6(4)(g) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/6/b)
+[^c-db9bf2f789a14c38237189e16333d76a]: Textual amendment: Words in reg. 6(4)(g) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(6)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/6/b)
 
-[^key-6b08676621d70e52de7d805f0ebb75e6]: Textual amendment: Reg. 6(4)(h) and word inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/6/c)
+[^c-6b08676621d70e52de7d805f0ebb75e6]: Textual amendment: Reg. 6(4)(h) and word inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [7(6)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/7/6/c)
 
-[^key-b63122f6fd3bd624de7639cb26c53ea6]: Textual amendment: Words in reg. 7(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/8/2/a)
+[^c-b63122f6fd3bd624de7639cb26c53ea6]: Textual amendment: Words in reg. 7(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/8/2/a)
 
-[^key-6bb492f5cfa8f9d2d9afcff7b5b18146]: Textual amendment: Words in reg. 7(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/8/2/b)
+[^c-6bb492f5cfa8f9d2d9afcff7b5b18146]: Textual amendment: Words in reg. 7(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/8/2/b)
 
-[^key-7cb4596b24337bb0460e190ee9556150]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/2/a)
+[^c-7cb4596b24337bb0460e190ee9556150]: Textual amendment: Word in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/2/a)
 
-[^key-5ff139ae02a1d225841e0e84e08fb3d6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/2/b)
+[^c-5ff139ae02a1d225841e0e84e08fb3d6]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/2/b)
 
-[^key-414897ce6714971c23cdb64f6aef20b4]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/2/c)
+[^c-414897ce6714971c23cdb64f6aef20b4]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(2)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/2/c)
 
-[^key-c774a3dc61bddf1d0a09a79184d2cf87]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/3A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/3)
+[^c-c774a3dc61bddf1d0a09a79184d2cf87]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/3A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/3)
 
-[^key-7d2faa7ca391191c2716882e02699ad4]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/4) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/4/a)
+[^c-7d2faa7ca391191c2716882e02699ad4]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/4) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/4/a)
 
-[^key-4be93770c08ce411731876127e167b39]: Textual amendment: [Reg. 10(4)(a)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/4/a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/4/b)
+[^c-4be93770c08ce411731876127e167b39]: Textual amendment: [Reg. 10(4)(a)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/10/4/a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/9/4/b)
 
-[^key-fe6dde6ff7f6ac414dad1ef524ce2b7b]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/13/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/10/2/a)
+[^c-fe6dde6ff7f6ac414dad1ef524ce2b7b]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/13/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/10/2/a)
 
-[^key-be06e519a37913ab2210072a05d81cb0]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/13/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/10/2/b)
+[^c-be06e519a37913ab2210072a05d81cb0]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/13/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/10/2/b)
 
-[^key-f5804f65ae55acc750ddc260a37171d7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/13/3) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/10/3)
+[^c-f5804f65ae55acc750ddc260a37171d7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/13/3) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [10(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/10/3)
 
-[^key-e94db07e70371ab061f7dee44edd114a]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2004/1769/regulation/14) substituted (31.12.2020) by [The Justification Decision Power (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/215)](https://www.legislation.gov.uk/uksi/2019/215), [regs. 1](https://www.legislation.gov.uk/uksi/2019/215/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/215/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e94db07e70371ab061f7dee44edd114a]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2004/1769/regulation/14) substituted (31.12.2020) by [The Justification Decision Power (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/215)](https://www.legislation.gov.uk/uksi/2019/215), [regs. 1](https://www.legislation.gov.uk/uksi/2019/215/regulation/1), [3](https://www.legislation.gov.uk/uksi/2019/215/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-018f235ad616e94344ad171f6fa7217a]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/15/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/11/2)
+[^c-018f235ad616e94344ad171f6fa7217a]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2004/1769/regulation/15/1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/11/2)
 
 [^c524762]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 250, subsection (2) was amended by the [Statute Law (Repeals) Act 1989 (c. 43)](https://www.legislation.gov.uk/ukpga/1989/43) section 1 and Schedule 1; subsection (3) was amended by the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [sections 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [38](https://www.legislation.gov.uk/ukpga/1982/48/section/38) and 46; subsection (4) was amended by the [Housing and Planning Act 1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), [section 49(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/49/2), [Schedule 12](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12), part III.
 
@@ -905,73 +905,73 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c524764]: Marginal citation: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265), amended by [S.R. 1976/281](https://www.legislation.gov.uk/nisr/1976/281) and [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703).
 
-[^key-a5e61fe4eb0aba0b535a3aea4d36a2a8]: Textual amendment: Words in reg. 18(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/12/2)
+[^c-a5e61fe4eb0aba0b535a3aea4d36a2a8]: Textual amendment: Words in reg. 18(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/12/2)
 
 [^c524765]: Marginal citation: *See* section 10 of the Health and Safety at Work etc Act [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-8bb964e94a6d71412cab755daeec8bf7]: Textual amendment: Reg. 18(1)(a)(ia) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 109(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/109/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-8bb964e94a6d71412cab755daeec8bf7]: Textual amendment: Reg. 18(1)(a)(ia) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 109(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/109/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c524766]: Marginal citation: *See* section 1 of the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-7f16d03733e1fc4357116afec5d78a11]: Textual amendment: Reg. 18(1)(a)(iii) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 68(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/68/2)
+[^c-7f16d03733e1fc4357116afec5d78a11]: Textual amendment: Reg. 18(1)(a)(iii) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 68(2)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/68/2)
 
-[^key-a5d7583bb8cd0e44573f038a24b530f1]: Textual amendment: Words in reg. 18(1)(a)(iii) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(h)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/h) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-a5d7583bb8cd0e44573f038a24b530f1]: Textual amendment: Words in reg. 18(1)(a)(iii) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(h)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/h) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
 [^c524768]: Marginal citation: *See* section 1 of the Environment Act [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-da27668235c988d2a8ccb9f3dfe83295]: Textual amendment: Words in reg. 18(1)(a)(iv) inserted (18.7.2013) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/32/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-da27668235c988d2a8ccb9f3dfe83295]: Textual amendment: Words in reg. 18(1)(a)(iv) inserted (18.7.2013) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/32/2) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
 [^c524769]: Marginal citation: *See* section 20 of the Environment Act 1995.
 
-[^key-c1fa9f16dc937dcbeca6b9d930e97f4f]: Textual amendment: Word in reg. 18(2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/12/3)
+[^c-c1fa9f16dc937dcbeca6b9d930e97f4f]: Textual amendment: Word in reg. 18(2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/12/3)
 
-[^key-75256b199534dada555fc2768eed52c5]: Textual amendment: Words in reg. 19(1)(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/2/a)
+[^c-75256b199534dada555fc2768eed52c5]: Textual amendment: Words in reg. 19(1)(a) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/2/a)
 
-[^key-84b95bc764221faf9328ceffa36cf7b0]: Textual amendment: Words in reg. 19(1)(b) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/2/b)
+[^c-84b95bc764221faf9328ceffa36cf7b0]: Textual amendment: Words in reg. 19(1)(b) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/2/b)
 
-[^key-0b751cbbf2cb93edbf2152a293c9fbfa]: Textual amendment: Reg. 19(1)(ba) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/2/c)
+[^c-0b751cbbf2cb93edbf2152a293c9fbfa]: Textual amendment: Reg. 19(1)(ba) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/2/c)
 
-[^key-9acc122fb33b5c621e6cacb7a3b72413]: Textual amendment: Words in reg. 19(2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/3/a)
+[^c-9acc122fb33b5c621e6cacb7a3b72413]: Textual amendment: Words in reg. 19(2) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/3/a)
 
-[^key-d923bca426339a291b3974ed51b9159f]: Textual amendment: Words in reg. 19(2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/3/b)
+[^c-d923bca426339a291b3974ed51b9159f]: Textual amendment: Words in reg. 19(2) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/13/3/b)
 
-[^key-7ed23b6e55ba86c2e39c37abd601cd47]: Textual amendment: Reg. 20 heading substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/14/2)
+[^c-7ed23b6e55ba86c2e39c37abd601cd47]: Textual amendment: Reg. 20 heading substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [14(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/14/2)
 
-[^key-23b5a54df8819e7641e3839a306a8cf5]: Textual amendment: Reg. 20(1A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/14/3)
+[^c-23b5a54df8819e7641e3839a306a8cf5]: Textual amendment: Reg. 20(1A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [14(3)](https://www.legislation.gov.uk/uksi/2018/430/regulation/14/3)
 
 [^c524770]: Marginal citation: [S.I. 1995/204](https://www.legislation.gov.uk/uksi/1995/204).
 
-[^key-9a0187388b8af924338179f824c458f9]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2004/1769/part/6A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/430/regulation/15)
+[^c-9a0187388b8af924338179f824c458f9]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2004/1769/part/6A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/430/regulation/15)
 
-[^key-91bf09e616c2e64c0e15b88bad4c9a2a]: Textual amendment: Reg. 21 substituted (6.2.2018) by The Ionising Radiation (Medical Exposure) Regulations 2017, reg. 1, Sch. 4 para. 1(2) (as substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2), 2(4)(a)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/a))
+[^c-91bf09e616c2e64c0e15b88bad4c9a2a]: Textual amendment: Reg. 21 substituted (6.2.2018) by The Ionising Radiation (Medical Exposure) Regulations 2017, reg. 1, Sch. 4 para. 1(2) (as substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) (Amendment) Regulations 2018 (S.I. 2018/121)](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2), 2(4)(a)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/a))
 
-[^key-4e213aacd9b93788323b22b02062785a]: Textual amendment: Words in reg. 21 substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/16/2)
+[^c-4e213aacd9b93788323b22b02062785a]: Textual amendment: Words in reg. 21 substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/16/2)
 
-[^key-4c46a18bbca0fc6fb9eedc6bade3b316]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2004/1769/part/7A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/430/regulation/17)
+[^c-4c46a18bbca0fc6fb9eedc6bade3b316]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2004/1769/part/7A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/430/regulation/17)
 
-[^key-7ef25e209e24f5b782cb19174e62ec98]: Textual amendment: Words in reg. 22(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/18/2/a)
+[^c-7ef25e209e24f5b782cb19174e62ec98]: Textual amendment: Words in reg. 22(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [18(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/18/2/a)
 
-[^key-e15fb13d6e9608185beaa436951f0236]: Textual amendment: Words in reg. 22(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/18/2/b)
+[^c-e15fb13d6e9608185beaa436951f0236]: Textual amendment: Words in reg. 22(1) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [18(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/18/2/b)
 
-[^key-1cd43494ed47ffd47f8a6601a12c5745]: Textual amendment: Reg. 22(3)(ba) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 109(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/109/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1cd43494ed47ffd47f8a6601a12c5745]: Textual amendment: Reg. 22(3)(ba) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 109(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/109/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-3e00730aaaebded2739f027d5f8a7a99]: Textual amendment: Reg. 22(3)(d) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 68(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/68/3)
+[^c-3e00730aaaebded2739f027d5f8a7a99]: Textual amendment: Reg. 22(3)(d) substituted (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/235/article/1/2), [Sch. 2 para. 68(3)](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/68/3)
 
-[^key-bea9c32ee020bc8f09bfd402f7124ab7]: Textual amendment: Words in reg. 22(3)(d) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(h)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/h) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-bea9c32ee020bc8f09bfd402f7124ab7]: Textual amendment: Words in reg. 22(3)(d) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(h)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/h) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-ad97ec3b699e6d0965b0d09c4c226a72]: Textual amendment: Words in reg. 22(3)(e) inserted (18.7.2013) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2013/1821/article/32/3) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
+[^c-ad97ec3b699e6d0965b0d09c4c226a72]: Textual amendment: Words in reg. 22(3)(e) inserted (18.7.2013) by [The Natural Resources Body for Wales (Consequential Provision) Order 2013 (S.I. 2013/1821)](https://www.legislation.gov.uk/uksi/2013/1821), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1821/article/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2013/1821/article/32/3) (with [art. 24](https://www.legislation.gov.uk/uksi/2013/1821/article/24))
 
-[^key-3ba8a9c1ffb4e731ba6a89e6534604d9]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2004/1769/regulation/23A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [19](https://www.legislation.gov.uk/uksi/2018/430/regulation/19)
+[^c-3ba8a9c1ffb4e731ba6a89e6534604d9]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2004/1769/regulation/23A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [19](https://www.legislation.gov.uk/uksi/2018/430/regulation/19)
 
-[^key-6b6bb000f058c50d548d7f5c9ef06183]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2004/1769/regulation/25A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/430/regulation/20)
+[^c-6b6bb000f058c50d548d7f5c9ef06183]: Textual amendment: [Reg. 25A](https://www.legislation.gov.uk/uksi/2004/1769/regulation/25A) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/430/regulation/20)
 
-[^key-10a307874a143ec37ecda63135cf45d7]: Textual amendment: Words in reg. 27(1) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/21/2/a)
+[^c-10a307874a143ec37ecda63135cf45d7]: Textual amendment: Words in reg. 27(1) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [21(2)(a)](https://www.legislation.gov.uk/uksi/2018/430/regulation/21/2/a)
 
-[^key-7cec2b2ce8278c548cec71d1e873484b]: Textual amendment: Reg. 27(1)(ba) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/21/2/b)
+[^c-7cec2b2ce8278c548cec71d1e873484b]: Textual amendment: Reg. 27(1)(ba) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [21(2)(b)](https://www.legislation.gov.uk/uksi/2018/430/regulation/21/2/b)
 
-[^key-1fc34f4d592173c3e3748fcc4ae4e8b6]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2004/1769/part/9) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [22](https://www.legislation.gov.uk/uksi/2018/430/regulation/22)
+[^c-1fc34f4d592173c3e3748fcc4ae4e8b6]: Textual amendment: [Pt. 9](https://www.legislation.gov.uk/uksi/2004/1769/part/9) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [22](https://www.legislation.gov.uk/uksi/2018/430/regulation/22)
 
-[^key-33698a5dfe32bce7f4cae7c113b17829]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2004/1769/schedule/A1) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/430/regulation/23)
+[^c-33698a5dfe32bce7f4cae7c113b17829]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2004/1769/schedule/A1) inserted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/430/regulation/23)
 
 [^c524772]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), to which there are amendments not relevant to these Regulations.
 
@@ -979,7 +979,7 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c524774]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); sub-paragraph 2(a) was amended by the [Criminal Procedure and Investigations Act 1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), [section 47](https://www.legislation.gov.uk/ukpga/1996/25/section/47), [Schedule 1](https://www.legislation.gov.uk/ukpga/1996/25/schedule/1), [paragraph 13](https://www.legislation.gov.uk/ukpga/1996/25/paragraph/13), and was repealed by the [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [sections 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41) and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a), and Schedule 37, part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the [Criminal Justice Act 1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), [sections 25(2)](https://www.legislation.gov.uk/ukpga/1991/53/section/25/2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
 
-[^key-cbab52d269d45164f3314c32a6b4bd7b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1769/schedule/3) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/24/2)
+[^c-cbab52d269d45164f3314c32a6b4bd7b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2004/1769/schedule/3) substituted (18.4.2018) by [The Justification of Practices Involving Ionising Radiation (Amendment) Regulations 2018 (S.I. 2018/430)](https://www.legislation.gov.uk/uksi/2018/430), [regs. 1](https://www.legislation.gov.uk/uksi/2018/430/regulation/1), [24(2)](https://www.legislation.gov.uk/uksi/2018/430/regulation/24/2)
 
 [^c524775]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33), to which there are amendments not relevant to these Regulations.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312ZA. Duty to notify client of reference number: section 311(3) case[^key-3ca1257ab4a6e2c131850096f04ba4d7][^key-6b4de8b0a6fdff6f8b857f5e05de31e2]
+## 312ZA. Duty to notify client of reference number: section 311(3) case[^c-3ca1257ab4a6e2c131850096f04ba4d7][^c-6b4de8b0a6fdff6f8b857f5e05de31e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3ca1257ab4a6e2c131850096f04ba4d7]: Textual amendment: S. 312ZA inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/7), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-3ca1257ab4a6e2c131850096f04ba4d7]: Textual amendment: S. 312ZA inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/7), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-6b4de8b0a6fdff6f8b857f5e05de31e2]: Textual amendment: Ss. 312, 312A substituted for s. 312 (1.11.2008 except for the purposes of Stamp Duty Land tax, 1.4.2010 in so far as not already in force) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 116(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/116/2), [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/4); [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2)); [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)
+[^c-6b4de8b0a6fdff6f8b857f5e05de31e2]: Textual amendment: Ss. 312, 312A substituted for s. 312 (1.11.2008 except for the purposes of Stamp Duty Land tax, 1.4.2010 in so far as not already in force) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 116(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/116/2), [Sch. 38 para. 4](https://www.legislation.gov.uk/ukpga/2008/9/schedule/38/paragraph/4); [S.I. 2008/1935](https://www.legislation.gov.uk/uksi/2008/1935), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/1935/article/2/2)); [S.I. 2010/409](https://www.legislation.gov.uk/uksi/2010/409), [art. 2](https://www.legislation.gov.uk/uksi/2010/409/article/2)

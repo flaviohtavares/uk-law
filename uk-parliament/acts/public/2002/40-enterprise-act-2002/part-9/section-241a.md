@@ -29,7 +29,7 @@ summary: ''
 (2) Subsection (1) does not apply to—
 
 - (a) information which comes to a public authority in connection with an investigation under Part 4, 5 or 6 of the 1973 Act or under section 11 of the Competition Act 1980;
-- (b)[^key-d558656a31a3829361907a2b80584aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d558656a31a3829361907a2b80584aa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) information which comes to a public authority in connection with an investigation under Part 3 or 4 or section 174 of this Act;
 - (d) information which comes to a public authority in connection with an investigation under the Competition Act 1998 (c. 41).
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c19247961]: Textual amendment: S. 241A inserted (6.4.2007) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1281](https://www.legislation.gov.uk/ukpga/2006/46/section/1281), [1300](https://www.legislation.gov.uk/ukpga/2006/46/section/1300); [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 4(1)(f)](https://www.legislation.gov.uk/uksi/2006/3428/article/4/1/f) (subject to [arts. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [6-8](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [Schs. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1), [5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-d558656a31a3829361907a2b80584aa5]: Textual amendment: [S. 241A(2)(b)](https://www.legislation.gov.uk/ukpga/2002/40/section/241A/2/b) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d558656a31a3829361907a2b80584aa5]: Textual amendment: [S. 241A(2)(b)](https://www.legislation.gov.uk/ukpga/2002/40/section/241A/2/b) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Application of Part 7 in relation to overseas investment exchanges and clearing houses[^key-d8130946a1d275a696a08bfc70498c00]
+## 84. Application of Part 7 in relation to overseas investment exchanges and clearing houses[^c-d8130946a1d275a696a08bfc70498c00]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8130946a1d275a696a08bfc70498c00]: Commencement: Art. 84 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d8130946a1d275a696a08bfc70498c00]: Commencement: Art. 84 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

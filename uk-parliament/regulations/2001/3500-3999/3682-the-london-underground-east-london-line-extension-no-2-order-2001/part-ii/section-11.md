@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Construction and maintenance of bridges[^key-7511bbf74562af0b5df4f0168348303f]
+## 11. Construction and maintenance of bridges[^c-7511bbf74562af0b5df4f0168348303f]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Notwithstanding any other provision of this Order or any enactment or rule of la
 
 ## Annotations
 
-[^key-7511bbf74562af0b5df4f0168348303f]: Commencement: Art. 11 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-7511bbf74562af0b5df4f0168348303f]: Commencement: Art. 11 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

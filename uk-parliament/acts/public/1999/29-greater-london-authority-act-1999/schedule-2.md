@@ -22,25 +22,25 @@ summary: ''
 
 Section 4.
 
-### Part I — Election of the Mayor[^key-81f6aa7841936bbbb785813c2d42e855]
+### Part I — Election of the Mayor[^c-81f6aa7841936bbbb785813c2d42e855]
 
 **No longer in force.**
 
-#### Application[^key-81f6aa7841936bbbb785813c2d42e855]
+#### Application[^c-81f6aa7841936bbbb785813c2d42e855]
 
-**1.**[^key-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### First preference vote and second preference vote[^key-81f6aa7841936bbbb785813c2d42e855]
+#### First preference vote and second preference vote[^c-81f6aa7841936bbbb785813c2d42e855]
 
-**2.**[^key-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Candidate with overall majority of first preference votes[^key-81f6aa7841936bbbb785813c2d42e855]
+#### Candidate with overall majority of first preference votes[^c-81f6aa7841936bbbb785813c2d42e855]
 
-**3.**[^key-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### No candidate with overall majority of first preference votes[^key-81f6aa7841936bbbb785813c2d42e855]
+#### No candidate with overall majority of first preference votes[^c-81f6aa7841936bbbb785813c2d42e855]
 
-**4.**[^key-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-81f6aa7841936bbbb785813c2d42e855] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Return of London members[^c12809491]
 
@@ -134,6 +134,6 @@ and a recalculation shall be carried out after adding one to the aggregate menti
 
 ## Annotations
 
-[^key-81f6aa7841936bbbb785813c2d42e855]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/1999/29/schedule/2/part/1) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/5), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-81f6aa7841936bbbb785813c2d42e855]: Textual amendment: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/1999/29/schedule/2/part/1) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(5)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/5), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
 [^c12809491]: Modification: Sch. 2 Pt. II applied (14.12.1999) by [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2), [s. 203B](https://www.legislation.gov.uk/ukpga/1983/2/section/203B) (as inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 paras. 1](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/1), [39(5)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/39/5) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2))

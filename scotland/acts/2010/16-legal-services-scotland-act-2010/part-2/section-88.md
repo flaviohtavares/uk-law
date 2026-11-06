@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Corporate offences[^key-64db8c55af7b9645e3c94d2fa557d79d]
+## 88. Corporate offences[^c-64db8c55af7b9645e3c94d2fa557d79d]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64db8c55af7b9645e3c94d2fa557d79d]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/16/section/88) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-64db8c55af7b9645e3c94d2fa557d79d]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2010/16/section/88) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

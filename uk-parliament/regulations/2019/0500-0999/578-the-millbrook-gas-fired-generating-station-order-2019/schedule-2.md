@@ -22,11 +22,11 @@ summary: ''
 
 Article 3
 
-### 1. Time limits[^key-6ba68fca4b3b76d83ab725e0e574cb0e]
+### 1. Time limits[^c-6ba68fca4b3b76d83ab725e0e574cb0e]
 
 The authorised development must commence no later than the expiration of five years beginning with the date this Order comes in to force.
 
-### 2. Detailed design approval[^key-6bae241d7e05fbfe54b11e977ba6ad71]
+### 2. Detailed design approval[^c-6bae241d7e05fbfe54b11e977ba6ad71]
 
 (1) The authorised development must be carried out in accordance with the approved plans listed in Table 1 below, inclusive of any limits of deviation, and any other plans, drawings, documents, details, schemes, statements or strategies which are approved by the relevant planning authorities pursuant to any requirement (as the same may be amended by approval of the relevant planning authorities pursuant to requirement 19)—
 
@@ -40,7 +40,7 @@ Table 1
 
 (2) The authorised development must be carried out in accordance with the parameters specified below (as the same may be amended by approval of the relevant planning authorities pursuant to requirement 19)—
 
-Table 2[^key-38bfe3574a505b6a541e750ee2792fcd]
+Table 2[^c-38bfe3574a505b6a541e750ee2792fcd]
 
 | ***Building or structure*** | ***Maximum height (metres above existing site level of approximately 31.5 metres AOD unless otherwise stated)*** | ***Minimum height (metres above existing site level of approximately 31.5 metres AOD unless otherwise stated)*** | ***Maximum length (metres)*** | ***Minimum length (metres)*** | ***Maximum width (metres)*** | ***Minimum width (metres)*** |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -63,9 +63,9 @@ Table 2[^key-38bfe3574a505b6a541e750ee2792fcd]
 
 (3) To the extent that design principles for any numbered work are set out in the design principles statement, that numbered work must be designed substantially in accordance with the relevant design principles set out therein.
 
-(4) Except to the extent approved pursuant to requirement 5, numbered works 1, 3A[^key-eff95ca7dbcc5192d1deeb34f053e22a]... and 6(a) must not commence until, for that numbered work, details of the layout, scale and external appearance of the numbered work have been submitted to and approved by the relevant planning authorities.
+(4) Except to the extent approved pursuant to requirement 5, numbered works 1, 3A[^c-eff95ca7dbcc5192d1deeb34f053e22a]... and 6(a) must not commence until, for that numbered work, details of the layout, scale and external appearance of the numbered work have been submitted to and approved by the relevant planning authorities.
 
-### 3. Provision of landscaping and ecological mitigation[^key-22230d027d8c680bba9a889943bdcb86]
+### 3. Provision of landscaping and ecological mitigation[^c-22230d027d8c680bba9a889943bdcb86]
 
 Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development must not commence until, for that numbered work, a written strategy substantially in accordance with the outline landscape and ecological mitigation and management strategy has been submitted to and approved by Central Bedfordshire Council. The strategy must include details of all proposed hard and soft landscaping works and ecological mitigation measures and include details of—
 
@@ -75,13 +75,13 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 - (d) hard surfacing materials;
 - (e) measures for the management of the ecological resources that will remain within the Order land on completion of the authorised development.
 
-### 4. Implementation and maintenance of landscaping and ecological mitigation measures[^key-974dddf43303c29e5ae723d4bf367d57]
+### 4. Implementation and maintenance of landscaping and ecological mitigation measures[^c-974dddf43303c29e5ae723d4bf367d57]
 
 (1) All landscaping works and ecological mitigation measures must be carried out in accordance with the strategy approved under requirement 3.
 
 (2) The landscaping works and ecological mitigation measures must be carried out in accordance with implementation timetables approved in the strategy approved under requirement 3.
 
-### 5. Highway accesses[^key-f2b59b350cb79f87068e37f1352dc22f]
+### 5. Highway accesses[^c-f2b59b350cb79f87068e37f1352dc22f]
 
 (1) Numbered work 1 of the authorised development must not commence until either the Rookery South access road and numbered work 2B have been completed to a suitable standard for construction or the junction with Green Lane (comprising part of numbered work 2A) and numbered work 2B have been completed to a suitable standard for construction.
 
@@ -91,7 +91,7 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (4) Following the completion of construction of numbered work 2, unless the Rookery South access road is constructed pursuant to the Rookery South (Resource Recovery Facility) Order 2011, the access road visibility splay must be kept clear at all times of obstructions, buildings and vegetation that may obstruct or impair visibility from or to Green Lane to or from numbered work 2.
 
-### 6. Fencing and other means of site perimeter enclosure[^key-0404a2919384c2a64a41a9e6d3673f63]
+### 6. Fencing and other means of site perimeter enclosure[^c-0404a2919384c2a64a41a9e6d3673f63]
 
 (1) Each of numbered works 1, 3A, 4, 5, 6 and 7 of the authorised development must not commence until written details of all proposed permanent and temporary fences, walls or other means of enclosure for that numbered work have been submitted to and approved by Central Bedfordshire Council.
 
@@ -101,13 +101,13 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (4) The fencing and other means of enclosure must be constructed and maintained in accordance with the approved details.
 
-### 7. Surface and foul water drainage[^key-d1b316c8e2dd07db1ce1b8d5d8699c74]
+### 7. Surface and foul water drainage[^c-d1b316c8e2dd07db1ce1b8d5d8699c74]
 
-(1) Each of numbered works 1, 2, 3A[^key-8e63254abb1e9ecc50942cb6c2536935]... and 6 must not commence until, for that numbered work, written details of the surface and foul water drainage strategy, which shall incorporate appropriate elements of the low level restoration scheme drainage strategy where applicable, for the construction and operational phases of the authorised development have been submitted to and approved by Central Bedfordshire Council.
+(1) Each of numbered works 1, 2, 3A[^c-8e63254abb1e9ecc50942cb6c2536935]... and 6 must not commence until, for that numbered work, written details of the surface and foul water drainage strategy, which shall incorporate appropriate elements of the low level restoration scheme drainage strategy where applicable, for the construction and operational phases of the authorised development have been submitted to and approved by Central Bedfordshire Council.
 
 (2) The surface and foul water drainage system must be constructed in accordance with the approved details before the operational phase of that part of the authorised development commences.
 
-### 8. Contamination and groundwater[^key-88515206403af3b015760edcc4decbb7]
+### 8. Contamination and groundwater[^c-88515206403af3b015760edcc4decbb7]
 
 (1) Each of numbered works 1 to 8 must not commence until, for that numbered work, a scheme (which may be included in the construction environment management plan) to deal with the contamination of any land, including groundwater, which is likely to cause significant harm to persons or significant pollution of controlled waters or the environment and ground conditions relevant to foundation design and ground stability has been submitted to and approved in writing by Central Bedfordshire Council.
 
@@ -119,9 +119,9 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (5) Foundation design measures must be carried out in accordance with the approved scheme.
 
-### 9. Archaeology[^key-cbd02883f0a0ff6485596f27dd70384b]
+### 9. Archaeology[^c-cbd02883f0a0ff6485596f27dd70384b]
 
-(1) Each of numbered works 3A, 4A and 6[^key-c09abc9489c9ecaf8d34fa15eea79615] of the authorised development must not commence until, for that numbered work, a written scheme of archaeological investigation has been submitted to and approved in writing by Central Bedfordshire Council. The submitted written scheme of archaeological investigation must include the following –
+(1) Each of numbered works 3A, 4A and 6[^c-c09abc9489c9ecaf8d34fa15eea79615] of the authorised development must not commence until, for that numbered work, a written scheme of archaeological investigation has been submitted to and approved in writing by Central Bedfordshire Council. The submitted written scheme of archaeological investigation must include the following –
 
 - (a) provision to be made for a programme of excavation fieldwork and post-excavation assessment should significant archaeological remains be encountered, and where warranted post-excavation analysis;
 - (b) provision to be made for publication and dissemination of the results of any assessment made pursuant to sub-paragraph (a), including for public benefit and understanding, should the nature of the archaeology warrant it; and
@@ -129,7 +129,7 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (2) The archaeological investigation must be carried out in accordance with the approved scheme.
 
-### 10. Construction Environment Management Plan[^key-a6355793f5535d3e426cba77bc7b8a97]
+### 10. Construction Environment Management Plan[^c-a6355793f5535d3e426cba77bc7b8a97]
 
 (1) Each of numbered works 1 to 8 of the authorised development must not commence until a construction environment management plan covering that numbered work has been submitted to and approved by the relevant planning authorities. The final construction environment management plan must be substantially in accordance with the outline construction environment management plan and must include the following—
 
@@ -148,7 +148,7 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (2) All construction works must be undertaken in accordance with the approved construction environment management plan.
 
-### 11. Construction traffic management plan[^key-26fdab57e5170aa72f8fbd4f2635f17c]
+### 11. Construction traffic management plan[^c-26fdab57e5170aa72f8fbd4f2635f17c]
 
 (1) Each of numbered works 1 to 8 of the authorised development must not commence until, for that numbered work, a construction traffic management plan has been submitted to and approved by the relevant planning authorities in consultation with the relevant highway authorities and Marston Moreteyne Parish Council (and approved by Network Rail in accordance with paragraph 70 of Schedule 10). The construction traffic management plan must be substantially in accordance with the outline construction traffic management measures and must include the following—
 
@@ -167,7 +167,7 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (2) The construction traffic management plan must be implemented as approved.
 
-### 12. Control of noise during operation[^key-efe0732f0a7dbfe2b54f9d0d94280114]
+### 12. Control of noise during operation[^c-efe0732f0a7dbfe2b54f9d0d94280114]
 
 (1) Prior to the date of final commissioning a written noise scheme providing for the control of noise generated during the operation of the authorised development must be submitted to and approved by Central Bedfordshire Council. The noise scheme must include the following:
 
@@ -180,7 +180,7 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (3) The noise scheme must be carried out as approved.
 
-### 13. Control of noise during construction[^key-f84e43d4dd56c38a4555e100518b48f9]
+### 13. Control of noise during construction[^c-f84e43d4dd56c38a4555e100518b48f9]
 
 (1) No part of the authorised development may commence until a written construction noise monitoring scheme providing for the monitoring of noise generated during the construction of the authorised development has been submitted to and approved in writing by Central Bedfordshire Council. The construction noise monitoring scheme must include the following:
 
@@ -193,7 +193,7 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (2) The construction noise monitoring scheme must be carried out as approved.
 
-### 14. Construction hours[^key-b14b26518a83e316399a3c83a2e3cabc]
+### 14. Construction hours[^c-b14b26518a83e316399a3c83a2e3cabc]
 
 (1) Subject to sub-paragraph (2) no construction work, or the delivery or removal of materials, may take place on any Sunday or public holiday and no construction work, or the delivery or removal of materials, may take place outside the hours of—
 
@@ -204,23 +204,23 @@ Each of numbered works 1, 2, 3A, 4, 5, 6 and 7 of the authorised development mus
 
 (3) Nothing in sub-paragraph (1) precludes a start-up period from 0630 to 0700 and a shut down period from 1900 to 1930 on weekdays (excluding public holidays) and start-up period from 0630 to 0700 and a shut down period from 1300 to 1330 on a Saturday.
 
-### 15. Lighting strategy[^key-556176110092287569a070a7a5e0901f]
+### 15. Lighting strategy[^c-556176110092287569a070a7a5e0901f]
 
-(1) Each of numbered works 1, 3A and 6[^key-bb7c27bdb0115b1a827418627920488e] must not commence until a written scheme for the management and mitigation of artificial light emissions for that numbered work which is substantially in accordance with the outline lighting strategy has been submitted to and approved by Central Bedfordshire Council.
+(1) Each of numbered works 1, 3A and 6[^c-bb7c27bdb0115b1a827418627920488e] must not commence until a written scheme for the management and mitigation of artificial light emissions for that numbered work which is substantially in accordance with the outline lighting strategy has been submitted to and approved by Central Bedfordshire Council.
 
 (2) The approved scheme for the management and mitigation of artificial light emissions must be implemented before and maintained during the operation of the relevant numbered work.
 
-### 16. Construction Travel Plan[^key-0ca18ec622c452b736bf56860fcaf0b5]
+### 16. Construction Travel Plan[^c-0ca18ec622c452b736bf56860fcaf0b5]
 
 (1) Each of numbered works 1 to 8 of the authorised development must not commence until, for that numbered work, a construction worker travel plan has been submitted to and approved by the relevant planning authorities. The construction worker travel plan must be substantially in accordance with the outline travel plan (other than the measures which relate to the operational phase).
 
 (2) The construction worker travel plan must be carried out as approved.
 
-### 17. Operating hours[^key-85de0db1cfcdaf962bcbccbcacc74f18]
+### 17. Operating hours[^c-85de0db1cfcdaf962bcbccbcacc74f18]
 
 Subject to requirement 19, the undertaker is not permitted to operate the generating station comprised in the authorised development for a greater number of hours than that assessed in the environmental statement.
 
-### 18. Decommissioning strategy[^key-737c7b0c548722534dc8e610282a89d8]
+### 18. Decommissioning strategy[^c-737c7b0c548722534dc8e610282a89d8]
 
 (1) Subject to obtaining the necessary consents and unless otherwise agreed with Central Bedfordshire Council, within twenty four months of the Order land ceasing to be used for the purposes of electricity generation (either actively generating electricity or being available to generate electricity on a standby basis), a scheme for the demolition and removal of numbered work 1 must be submitted to Central Bedfordshire Council.
 
@@ -228,17 +228,17 @@ Subject to requirement 19, the undertaker is not permitted to operate the genera
 
 (3) On the one year anniversary of the Order land ceasing to be used for the purposes of electricity generation (either actively generating electricity or being available to generate electricity on a standby basis) the undertaker must notify Central Bedfordshire Council of the same.
 
-### 19. Amendments to approved details[^key-8ac6801104f39b82737ba3d330989007]
+### 19. Amendments to approved details[^c-8ac6801104f39b82737ba3d330989007]
 
 (1) Subject to paragraph (2), with respect to the approved plans specified in requirement 2(1), the parameters specified in requirement 2(2), any details requiring compliance within any other requirement and any other plans, details or schemes which require approval by the relevant planning authorities pursuant to any other requirement (the “Approved Plans, Parameters, Details or Schemes”), the undertaker may submit to the relevant planning authorities for approval any amendments to the Approved Plans, Parameters, Details or Schemes and following any such approval by the relevant planning authorities the Approved Plans, Parameters, Details or Schemes is to be taken to include the amendments approved pursuant to this subparagraph.
 
 (2) Approval under sub-paragraph (1) must not be given except where it has been demonstrated to the satisfaction of the relevant planning authorities that the subject-matter of the approval sought is unlikely to give rise to any materially new or materially different environmental effects in comparison with the authorised development as approved (as identified in the environmental statement).
 
-### 20. Low Level Restoration Scheme[^key-19d2a81cd994fef73647ebf711ae8fd3]
+### 20. Low Level Restoration Scheme[^c-19d2a81cd994fef73647ebf711ae8fd3]
 
 No part of the authorised development may commence until the low level restoration scheme baseline works have been completed to the reasonable satisfaction of Central Bedfordshire Council.
 
-### 21. Air Safety[^key-b1015b919bccc61dedd224e5db9d8593]
+### 21. Air Safety[^c-b1015b919bccc61dedd224e5db9d8593]
 
 Numbered work 1A(b) of the authorised development must not commence until the following details have been submitted to the Defence Geographic Centre:
 
@@ -250,54 +250,54 @@ Numbered work 1A(b) of the authorised development must not commence until the fo
 
 ## Annotations
 
-[^key-6ba68fca4b3b76d83ab725e0e574cb0e]: Commencement: Sch. 2 para. 1 in force at 3.4.2019, see art. 1
+[^c-6ba68fca4b3b76d83ab725e0e574cb0e]: Commencement: Sch. 2 para. 1 in force at 3.4.2019, see art. 1
 
-[^key-6bae241d7e05fbfe54b11e977ba6ad71]: Commencement: Sch. 2 para. 2 in force at 3.4.2019, see art. 1
+[^c-6bae241d7e05fbfe54b11e977ba6ad71]: Commencement: Sch. 2 para. 2 in force at 3.4.2019, see art. 1
 
-[^key-38bfe3574a505b6a541e750ee2792fcd]: Textual amendment: Sch. 2 para. 2 Table 2 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/413/article/4/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/413/schedule/1)
+[^c-38bfe3574a505b6a541e750ee2792fcd]: Textual amendment: Sch. 2 para. 2 Table 2 substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/413/article/4/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/413/schedule/1)
 
-[^key-eff95ca7dbcc5192d1deeb34f053e22a]: Textual amendment: Word in Sch. 2 para. 2(4) omitted (9.4.2020) by virtue of [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/413/article/4/3)
+[^c-eff95ca7dbcc5192d1deeb34f053e22a]: Textual amendment: Word in Sch. 2 para. 2(4) omitted (9.4.2020) by virtue of [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/413/article/4/3)
 
-[^key-22230d027d8c680bba9a889943bdcb86]: Commencement: Sch. 2 para. 3 in force at 3.4.2019, see art. 1
+[^c-22230d027d8c680bba9a889943bdcb86]: Commencement: Sch. 2 para. 3 in force at 3.4.2019, see art. 1
 
-[^key-974dddf43303c29e5ae723d4bf367d57]: Commencement: Sch. 2 para. 4 in force at 3.4.2019, see art. 1
+[^c-974dddf43303c29e5ae723d4bf367d57]: Commencement: Sch. 2 para. 4 in force at 3.4.2019, see art. 1
 
-[^key-f2b59b350cb79f87068e37f1352dc22f]: Commencement: Sch. 2 para. 5 in force at 3.4.2019, see art. 1
+[^c-f2b59b350cb79f87068e37f1352dc22f]: Commencement: Sch. 2 para. 5 in force at 3.4.2019, see art. 1
 
-[^key-0404a2919384c2a64a41a9e6d3673f63]: Commencement: Sch. 2 para. 6 in force at 3.4.2019, see art. 1
+[^c-0404a2919384c2a64a41a9e6d3673f63]: Commencement: Sch. 2 para. 6 in force at 3.4.2019, see art. 1
 
-[^key-d1b316c8e2dd07db1ce1b8d5d8699c74]: Commencement: Sch. 2 para. 7 in force at 3.4.2019, see art. 1
+[^c-d1b316c8e2dd07db1ce1b8d5d8699c74]: Commencement: Sch. 2 para. 7 in force at 3.4.2019, see art. 1
 
-[^key-8e63254abb1e9ecc50942cb6c2536935]: Textual amendment: Word in Sch. 2 para. 7(1) omitted (9.4.2020) by virtue of [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/413/article/4/4)
+[^c-8e63254abb1e9ecc50942cb6c2536935]: Textual amendment: Word in Sch. 2 para. 7(1) omitted (9.4.2020) by virtue of [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2020/413/article/4/4)
 
-[^key-88515206403af3b015760edcc4decbb7]: Commencement: Sch. 2 para. 8 in force at 3.4.2019, see art. 1
+[^c-88515206403af3b015760edcc4decbb7]: Commencement: Sch. 2 para. 8 in force at 3.4.2019, see art. 1
 
-[^key-cbd02883f0a0ff6485596f27dd70384b]: Commencement: Sch. 2 para. 9 in force at 3.4.2019, see art. 1
+[^c-cbd02883f0a0ff6485596f27dd70384b]: Commencement: Sch. 2 para. 9 in force at 3.4.2019, see art. 1
 
-[^key-c09abc9489c9ecaf8d34fa15eea79615]: Textual amendment: Words in Sch. 2 para. 9(1) substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/413/article/4/5)
+[^c-c09abc9489c9ecaf8d34fa15eea79615]: Textual amendment: Words in Sch. 2 para. 9(1) substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(5)](https://www.legislation.gov.uk/uksi/2020/413/article/4/5)
 
-[^key-a6355793f5535d3e426cba77bc7b8a97]: Commencement: Sch. 2 para. 10 in force at 3.4.2019, see art. 1
+[^c-a6355793f5535d3e426cba77bc7b8a97]: Commencement: Sch. 2 para. 10 in force at 3.4.2019, see art. 1
 
-[^key-26fdab57e5170aa72f8fbd4f2635f17c]: Commencement: Sch. 2 para. 11 in force at 3.4.2019, see art. 1
+[^c-26fdab57e5170aa72f8fbd4f2635f17c]: Commencement: Sch. 2 para. 11 in force at 3.4.2019, see art. 1
 
-[^key-efe0732f0a7dbfe2b54f9d0d94280114]: Commencement: Sch. 2 para. 12 in force at 3.4.2019, see art. 1
+[^c-efe0732f0a7dbfe2b54f9d0d94280114]: Commencement: Sch. 2 para. 12 in force at 3.4.2019, see art. 1
 
-[^key-f84e43d4dd56c38a4555e100518b48f9]: Commencement: Sch. 2 para. 13 in force at 3.4.2019, see art. 1
+[^c-f84e43d4dd56c38a4555e100518b48f9]: Commencement: Sch. 2 para. 13 in force at 3.4.2019, see art. 1
 
-[^key-b14b26518a83e316399a3c83a2e3cabc]: Commencement: Sch. 2 para. 14 in force at 3.4.2019, see art. 1
+[^c-b14b26518a83e316399a3c83a2e3cabc]: Commencement: Sch. 2 para. 14 in force at 3.4.2019, see art. 1
 
-[^key-556176110092287569a070a7a5e0901f]: Commencement: Sch. 2 para. 15 in force at 3.4.2019, see art. 1
+[^c-556176110092287569a070a7a5e0901f]: Commencement: Sch. 2 para. 15 in force at 3.4.2019, see art. 1
 
-[^key-bb7c27bdb0115b1a827418627920488e]: Textual amendment: Words in Sch. 2 para. 15(1) substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(6)](https://www.legislation.gov.uk/uksi/2020/413/article/4/6)
+[^c-bb7c27bdb0115b1a827418627920488e]: Textual amendment: Words in Sch. 2 para. 15(1) substituted (9.4.2020) by [The Millbrook Gas Fired Generating Station (Amendment) Order 2020 (S.I. 2020/413)](https://www.legislation.gov.uk/uksi/2020/413), [arts. 1](https://www.legislation.gov.uk/uksi/2020/413/article/1), [4(6)](https://www.legislation.gov.uk/uksi/2020/413/article/4/6)
 
-[^key-0ca18ec622c452b736bf56860fcaf0b5]: Commencement: Sch. 2 para. 16 in force at 3.4.2019, see art. 1
+[^c-0ca18ec622c452b736bf56860fcaf0b5]: Commencement: Sch. 2 para. 16 in force at 3.4.2019, see art. 1
 
-[^key-85de0db1cfcdaf962bcbccbcacc74f18]: Commencement: Sch. 2 para. 17 in force at 3.4.2019, see art. 1
+[^c-85de0db1cfcdaf962bcbccbcacc74f18]: Commencement: Sch. 2 para. 17 in force at 3.4.2019, see art. 1
 
-[^key-737c7b0c548722534dc8e610282a89d8]: Commencement: Sch. 2 para. 18 in force at 3.4.2019, see art. 1
+[^c-737c7b0c548722534dc8e610282a89d8]: Commencement: Sch. 2 para. 18 in force at 3.4.2019, see art. 1
 
-[^key-8ac6801104f39b82737ba3d330989007]: Commencement: Sch. 2 para. 19 in force at 3.4.2019, see art. 1
+[^c-8ac6801104f39b82737ba3d330989007]: Commencement: Sch. 2 para. 19 in force at 3.4.2019, see art. 1
 
-[^key-19d2a81cd994fef73647ebf711ae8fd3]: Commencement: Sch. 2 para. 20 in force at 3.4.2019, see art. 1
+[^c-19d2a81cd994fef73647ebf711ae8fd3]: Commencement: Sch. 2 para. 20 in force at 3.4.2019, see art. 1
 
-[^key-b1015b919bccc61dedd224e5db9d8593]: Commencement: Sch. 2 para. 21 in force at 3.4.2019, see art. 1
+[^c-b1015b919bccc61dedd224e5db9d8593]: Commencement: Sch. 2 para. 21 in force at 3.4.2019, see art. 1

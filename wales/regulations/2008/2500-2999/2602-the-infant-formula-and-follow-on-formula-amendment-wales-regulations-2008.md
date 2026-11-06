@@ -49,14 +49,14 @@ In accordance with section 48(4A) of the Food Safety Act 1990, the Welsh Ministe
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title and commencement[^key-c0bc9956911de1c19c0f1790e14f344e]
+## 1. Title and commencement[^c-c0bc9956911de1c19c0f1790e14f344e]
 
 These Regulations—
 
 - (a) may be cited as the Infant Formula and Follow-on Formula (Amendment) (Wales) Regulations 2008; and
 - (b) come into force on 29 October 2008.
 
-## 2. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^key-474bd2d6ac9d1fbd641802b9a60d6884]
+## 2. Amendment of the Infant Formula and Follow-on Formula (Wales) Regulations 2007[^c-474bd2d6ac9d1fbd641802b9a60d6884]
 
 (1) The Infant Formula and Follow-on Formula (Wales) Regulations 2007[^f00004] are amended in accordance with the following paragraphs.
 
@@ -116,7 +116,7 @@ These Regulations—
 
 .
 
-## 3. Amendment of the Medical Food (Wales) Regulations 2000[^key-2eb06e34ece3993bb7e4c68a8dbab7a1]
+## 3. Amendment of the Medical Food (Wales) Regulations 2000[^c-2eb06e34ece3993bb7e4c68a8dbab7a1]
 
 (1) The Medical Food (Wales) Regulations 2000[^f00005] are amended in accordance with paragraph (2).
 
@@ -160,12 +160,12 @@ Under authority of the Minister of Health and Social Services, one of the Welsh 
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation [(EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17).
 
-[^key-c0bc9956911de1c19c0f1790e14f344e]: Commencement: Reg. 1 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
+[^c-c0bc9956911de1c19c0f1790e14f344e]: Commencement: Reg. 1 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
 
-[^key-474bd2d6ac9d1fbd641802b9a60d6884]: Commencement: Reg. 2 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
+[^c-474bd2d6ac9d1fbd641802b9a60d6884]: Commencement: Reg. 2 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
 
 [^f00004]: Footnote: S.I. [2007/3573 (W.316)](https://www.legislation.gov.uk/wsi/2007/3573).
 
-[^key-2eb06e34ece3993bb7e4c68a8dbab7a1]: Commencement: Reg. 3 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
+[^c-2eb06e34ece3993bb7e4c68a8dbab7a1]: Commencement: Reg. 3 in force at 29.10.2008, see [reg. 1(b)](https://www.legislation.gov.uk/wsi/2008/2602/regulation/1/b)
 
 [^f00005]: Footnote: S.I. [2000/1866 (W.125)](https://www.legislation.gov.uk/wsi/2000/1866), amended by S.I. [2007/3573 (W.316)](https://www.legislation.gov.uk/wsi/2007/3573); there are other amending instruments but none is relevant.

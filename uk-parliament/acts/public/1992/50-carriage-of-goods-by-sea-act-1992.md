@@ -58,9 +58,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) is given under or for the purposes of a contract for the carriage by sea of the goods to which the document relates, or of goods which include those goods; and
 - (b) is an undertaking by the carrier to a person identified in the document to deliver the goods to which the document relates to that person.
 
-(5)[^key-33423c7f8b76569ba46fc82b8da5e5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-33423c7f8b76569ba46fc82b8da5e5e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-7209ccdafd1cd4b1ced79ca362aeae9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-7209ccdafd1cd4b1ced79ca362aeae9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 2. Rights under shipping documents.
 
@@ -121,15 +121,15 @@ shall, in favour of a person who has become the lawful holder of the bill, be co
 
 ## 5. Interpretation etc.
 
-(1)[^key-762c0f3114ed8cf3c9dc71157613f162] In this Act—
+(1)[^c-762c0f3114ed8cf3c9dc71157613f162] In this Act—
 
 - “**bill of lading**”, “**sea waybill**” and “**ship’s delivery order**” shall be construed in accordance with section 1 above;
 - “**the contract of carriage**”—
   - (a) in relation to a bill of lading or sea waybill, means the contract contained in or evidenced by that bill or waybill; and
   - (b) in relation to a ship’s delivery order, means the contract under or for the purposes of which the undertaking contained in the order is given;
 - “**holder**”, in relation to a bill of lading, shall be construed in accordance with subsection (2) below;
-- “**information technology**” includes any computer or other technology by means of which information or other matter may be recorded or communicated without being reduced to documentary form; [^key-762c0f3114ed8cf3c9dc71157613f162]...
-- [^key-762c0f3114ed8cf3c9dc71157613f162]...
+- “**information technology**” includes any computer or other technology by means of which information or other matter may be recorded or communicated without being reduced to documentary form; [^c-762c0f3114ed8cf3c9dc71157613f162]...
+- [^c-762c0f3114ed8cf3c9dc71157613f162]...
 
 (2) References in this Act to the holder of a bill of lading are references to any of the following persons, that is to say—
 
@@ -164,11 +164,11 @@ and references in this Act to the goods to which a document relates shall be con
 
 [^c860068]: Commencement: Act wholly in force at 16. 9. 1992; see [s.6(3)](https://www.legislation.gov.uk/ukpga/1992/50/section/6/3)
 
-[^key-33423c7f8b76569ba46fc82b8da5e5e4]: Textual amendment: S. 1(5) omitted (20.9.2023) by virtue of [Electronic Trade Documents Act 2023 (c. 38)](https://www.legislation.gov.uk/ukpga/2023/38), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-33423c7f8b76569ba46fc82b8da5e5e4]: Textual amendment: S. 1(5) omitted (20.9.2023) by virtue of [Electronic Trade Documents Act 2023 (c. 38)](https://www.legislation.gov.uk/ukpga/2023/38), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-7209ccdafd1cd4b1ced79ca362aeae9a]: Textual amendment: S. 1(6) omitted (20.9.2023) by virtue of [Electronic Trade Documents Act 2023 (c. 38)](https://www.legislation.gov.uk/ukpga/2023/38), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
+[^c-7209ccdafd1cd4b1ced79ca362aeae9a]: Textual amendment: S. 1(6) omitted (20.9.2023) by virtue of [Electronic Trade Documents Act 2023 (c. 38)](https://www.legislation.gov.uk/ukpga/2023/38), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/7/2), [8(2)](https://www.legislation.gov.uk/ukpga/2023/38/section/8/2)
 
-[^key-762c0f3114ed8cf3c9dc71157613f162]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1992/50/section/5/1) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-762c0f3114ed8cf3c9dc71157613f162]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1992/50/section/5/1) repealed (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 19(1)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/19/1) Note 1 (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c860070]: Marginal citation: [1971 c. 19](https://www.legislation.gov.uk/ukpga/1971/19).
 

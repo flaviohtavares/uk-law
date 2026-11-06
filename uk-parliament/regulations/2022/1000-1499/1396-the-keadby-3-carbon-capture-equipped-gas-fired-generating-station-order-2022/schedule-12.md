@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — DOCUMENTS AND PLANS TO BE CERTIFIED[^key-d95d86f19956088caf5516198d9458d2]
+## SCHEDULE 12 — DOCUMENTS AND PLANS TO BE CERTIFIED[^c-d95d86f19956088caf5516198d9458d2]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ Table 8
 
 ## Annotations
 
-[^key-d95d86f19956088caf5516198d9458d2]: Commencement: Sch. 12 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-d95d86f19956088caf5516198d9458d2]: Commencement: Sch. 12 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

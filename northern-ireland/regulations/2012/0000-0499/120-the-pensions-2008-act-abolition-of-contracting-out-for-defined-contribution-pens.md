@@ -76,7 +76,7 @@ These Regulations may be cited as the Pensions (2008 Act) (Abolition of Contract
 
 (3) In section 26 (quality requirement: UK personal pension schemes) omit subsection (8).
 
-### 4. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-4259a8789a9931230b11fa75f8f4e671]
+### 4. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-4259a8789a9931230b11fa75f8f4e671]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,7 +101,7 @@ In regulation 11A(2) of the Occupational Pension Schemes (Preservation of Benefi
 
 (6) In regulation 10(1)(a) (special provision with regard to elections for the issue, variation or surrender of certificates where the employment remains contracted out) omit “, or for protected rights, as the case may be,”.
 
-(7)[^key-0f6690e557e8b4137544b0a9f718d586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-0f6690e557e8b4137544b0a9f718d586] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Omit regulation 30 (further contracting-out requirements for money purchase contracted-out schemes).
 
@@ -116,15 +116,15 @@ In regulation 11A(2) of the Occupational Pension Schemes (Preservation of Benefi
 
 (12) Omit regulation 40 [^c21217031] (schemes which may not be contracted out under section 5(3) of the Act).
 
-(13)[^key-ceb2c5cb8ad46eb4e8fbb3a43eaa950c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-ceb2c5cb8ad46eb4e8fbb3a43eaa950c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-859de63cbe83cb75b84d673cfb779c1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-859de63cbe83cb75b84d673cfb779c1f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) In regulation 45(2) (approval of arrangements for schemes ceasing to be contracted out) omit “, section 24(2)(b) and (3) of the Act (transfer of protected rights)”.
 
-(16)[^key-c58b636692cdc3144c091eb36de6c55c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(16)[^c-c58b636692cdc3144c091eb36de6c55c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(17)[^key-99ce3d38a3ef8b69041caaa1460d13d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-99ce3d38a3ef8b69041caaa1460d13d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (18) In regulation 62(3) (fixed rate revaluation of guaranteed minimum pensions for early leavers)—
 
@@ -169,7 +169,7 @@ In regulation 11A(2) of the Occupational Pension Schemes (Preservation of Benefi
 
 .
 
-### 8. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-894696f72b8b697ab393c603bc3578af]
+### 8. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-894696f72b8b697ab393c603bc3578af]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -220,7 +220,7 @@ In regulation 1(2) of the Pension Sharing (Pension Credit Benefit) Regulations (
 - (b) in head (ii) for “schemes), and” substitute “ schemes). ”;
 - (c) omit head (iii).
 
-(4)[^key-7ceafc14bd7516abb33c98f681beb7e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7ceafc14bd7516abb33c98f681beb7e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 14. Revocations
 
@@ -232,17 +232,17 @@ The following provisions are revoked—
 
 ## PART 3 — Amendments coming into operation on 6th April 2013
 
-### 15. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-b52af8ee0fc7dfa63fa10e73ebf60e3b]
+### 15. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-b52af8ee0fc7dfa63fa10e73ebf60e3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-b52af8ee0fc7dfa63fa10e73ebf60e3b]
+### 16. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-b52af8ee0fc7dfa63fa10e73ebf60e3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendments coming into operation on 6th April 2015
 
-### 17. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^key-b52af8ee0fc7dfa63fa10e73ebf60e3b]
+### 17. Amendment of the Personal Pension Schemes (Disclosure of Information) Regulations[^c-b52af8ee0fc7dfa63fa10e73ebf60e3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -256,7 +256,7 @@ The following provisions are revoked—
 
 (4) Omit regulation 33 (calculation of minimum payments).
 
-### 19. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-f49442744cbdbf947709650be075129d]
+### 19. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-f49442744cbdbf947709650be075129d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -268,7 +268,7 @@ The following provisions are revoked—
 
 (3) In regulation 17(2) (restrictions on contributions) omit the words from “, minimum contributions” to the end.
 
-(4)[^key-8555e5b55bc36b8e1658192fa5c690fd] In Schedule 3 (information for members)—
+(4)[^c-8555e5b55bc36b8e1658192fa5c690fd] In Schedule 3 (information for members)—
 
 - (a) in paragraph 1 omit sub-paragraph (d);
 - (b) in paragraph 2 omit sub-paragraphs (e), (f) and (g).
@@ -319,7 +319,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21216791]: Marginal citation: [2008 c. 13 (N.I.)](https://www.legislation.gov.uk/nia/2008/13)
 
-[^key-4259a8789a9931230b11fa75f8f4e671]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/120/regulation/4) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-4259a8789a9931230b11fa75f8f4e671]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/120/regulation/4) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21216951]: Marginal citation: S.R. [1991 No. 37](https://www.legislation.gov.uk/ukcm/1991/37); [regulation 11A](https://www.legislation.gov.uk/nisr/2012/120/regulation/11A) was inserted by regulation 2(6) of S.R. [1996 No. 620](https://www.legislation.gov.uk/ukcm/1996/620)
 
@@ -329,7 +329,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21216981]: Marginal citation: Regulation 3(2)(g) was amended by regulation 2(2)(b) of S.R. [2002 No. 109](https://www.legislation.gov.uk/ukcm/2002/109)
 
-[^key-0f6690e557e8b4137544b0a9f718d586]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/7) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-0f6690e557e8b4137544b0a9f718d586]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/7) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
 [^c21217001]: Marginal citation: Regulation 31(3) was amended by regulation 2(11)(b) of S.R. [2002 No. 109](https://www.legislation.gov.uk/ukcm/2002/109)
 
@@ -339,13 +339,13 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21217031]: Marginal citation: Regulation 40 was amended by regulation 3 of S.R. [2001 No. 118](https://www.legislation.gov.uk/ukcm/2001/118) and Article 28(8) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744)
 
-[^key-ceb2c5cb8ad46eb4e8fbb3a43eaa950c]: Textual amendment: [Reg. 6(13)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/13) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-ceb2c5cb8ad46eb4e8fbb3a43eaa950c]: Textual amendment: [Reg. 6(13)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/13) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
-[^key-859de63cbe83cb75b84d673cfb779c1f]: Textual amendment: [Reg. 6(14)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/14) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-859de63cbe83cb75b84d673cfb779c1f]: Textual amendment: [Reg. 6(14)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/14) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
-[^key-c58b636692cdc3144c091eb36de6c55c]: Textual amendment: [Reg. 6(16)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/16) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-c58b636692cdc3144c091eb36de6c55c]: Textual amendment: [Reg. 6(16)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/16) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
-[^key-99ce3d38a3ef8b69041caaa1460d13d2]: Textual amendment: [Reg. 6(17)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/17) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
+[^c-99ce3d38a3ef8b69041caaa1460d13d2]: Textual amendment: [Reg. 6(17)](https://www.legislation.gov.uk/nisr/2012/120/regulation/6/17) revoked (6.4.2016) by [The Occupational Pension Schemes (SchemesthatwereContracted-out) Regulations (NorthernIreland) 2016 (S.R. 2016/107)](https://www.legislation.gov.uk/nisr/2016/107), [reg. 1(a)](https://www.legislation.gov.uk/nisr/2016/107/regulation/1/a), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/107/schedule/2)
 
 [^c21217101]: Marginal citation: S.R. [1996 No. 618](https://www.legislation.gov.uk/ukcm/1996/618); relevant amending Regulations are S.R. [1997 No. 160](https://www.legislation.gov.uk/ukcm/1997/160), S.R. [1999 No. 486](https://www.legislation.gov.uk/ukcm/1999/486) and S.R. 2007 Nos. 185 and 457
 
@@ -353,7 +353,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21217121]: Marginal citation: [Section 93](https://www.legislation.gov.uk/nisr/2012/120/section/93) was amended by paragraph 6 of Schedule 4 to the Pensions (Northern Ireland) Order 1995 and paragraph 5(1) of Schedule 5 to the [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-894696f72b8b697ab393c603bc3578af]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/120/regulation/8) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-894696f72b8b697ab393c603bc3578af]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2012/120/regulation/8) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21217201]: Marginal citation: S.R. [1997 No. 139](https://www.legislation.gov.uk/ukcm/1997/139); relevant amending provisions are S.R. [2002 No. 109](https://www.legislation.gov.uk/ukcm/2002/109), S.R. [2005 No. 433](https://www.legislation.gov.uk/ukcm/2005/433), S.R. [2008 No. 364](https://www.legislation.gov.uk/ukcm/2008/364) and S.R. [2009 No. 113](https://www.legislation.gov.uk/ukcm/2009/113)
 
@@ -379,7 +379,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21217311]: Marginal citation: Regulations 18 to 18E were substituted for regulation 18 by regulation 4(6) of S.R. [2010 No. 373](https://www.legislation.gov.uk/ukcm/2010/373)
 
-[^key-7ceafc14bd7516abb33c98f681beb7e5]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/nisr/2012/120/regulation/13/4) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-7ceafc14bd7516abb33c98f681beb7e5]: Textual amendment: [Reg. 13(4)](https://www.legislation.gov.uk/nisr/2012/120/regulation/13/4) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21217331]: Marginal citation: S.R. [1996 No. 509](https://www.legislation.gov.uk/ukcm/1996/509) as amended by S.R. 1997 Nos. 95 and 160, S.R. [1999 No. 486](https://www.legislation.gov.uk/ukcm/1999/486), S.R. [2000 No. 262](https://www.legislation.gov.uk/ukcm/2000/262), S.R. [2002 No. 109](https://www.legislation.gov.uk/ukcm/2002/109), S.R. 2005 Nos. 85, 433 and 467, S.R. 2007 Nos. 185 and 457 and S.R. [2011 No. 89](https://www.legislation.gov.uk/ukcm/2011/89)
 
@@ -387,7 +387,7 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21217351]: Marginal citation: S.R. [1997 No. 167](https://www.legislation.gov.uk/ukcm/1997/167) as amended by S.R. [1997 No. 544](https://www.legislation.gov.uk/ukcm/1997/544) and S.R. [2009 No. 115](https://www.legislation.gov.uk/ukcm/2009/115)
 
-[^key-b52af8ee0fc7dfa63fa10e73ebf60e3b]: Textual amendment: [Regs. 15-17](https://www.legislation.gov.uk/nisr/2012/120/regulation/15) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-b52af8ee0fc7dfa63fa10e73ebf60e3b]: Textual amendment: [Regs. 15-17](https://www.legislation.gov.uk/nisr/2012/120/regulation/15) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21217471]: Marginal citation: S.R. [1996 No. 493](https://www.legislation.gov.uk/ukcm/1996/493); relevant amending provisions are S.R. [2002 No. 109](https://www.legislation.gov.uk/ukcm/2002/109), [S.I](https://www.legislation.gov.uk/ukcm/2002/109/section/I). 2007/1154 and these Regulations
 
@@ -395,8 +395,8 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^c21217491]: Marginal citation: [Regulation 32](https://www.legislation.gov.uk/nisr/2012/120/regulation/32) was amended by regulation 8(4) of [S.I. 2007/1154](https://www.legislation.gov.uk/uksi/2007/1154) and is amended by regulation 6(10) of these Regulations
 
-[^key-f49442744cbdbf947709650be075129d]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2012/120/regulation/19) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
+[^c-f49442744cbdbf947709650be075129d]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/nisr/2012/120/regulation/19) revoked (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [32](https://www.legislation.gov.uk/nisr/2014/79/regulation/32), [Sch. 10](https://www.legislation.gov.uk/nisr/2014/79/schedule/10)
 
 [^c21217511]: Marginal citation: S.R. [2000 No. 262](https://www.legislation.gov.uk/ukcm/2000/262); relevant amending Regulations are S.R. [2010 No. 373](https://www.legislation.gov.uk/ukcm/2010/373)
 
-[^key-8555e5b55bc36b8e1658192fa5c690fd]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/nisr/2012/120/regulation/20/4) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 16](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/16)
+[^c-8555e5b55bc36b8e1658192fa5c690fd]: Textual amendment: [Reg. 20(4)](https://www.legislation.gov.uk/nisr/2012/120/regulation/20/4) substituted (6.4.2014) by [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014 (S.R. 2014/79)](https://www.legislation.gov.uk/nisr/2014/79), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1), [Sch. 9 para. 16](https://www.legislation.gov.uk/nisr/2014/79/schedule/9/paragraph/16)

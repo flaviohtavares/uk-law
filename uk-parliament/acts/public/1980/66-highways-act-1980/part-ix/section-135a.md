@@ -55,7 +55,7 @@ amount in aggregate to more than fourteen days in any one calendar year.
 
 - (a) to the highway authority for the footpath or bridleway,
 - (b) if the footpath or bridleway is on or contiguous with access land in England, to Natural England[^c18622931] , and
-- (c) if the footpath or bridleway is on or contiguous with access land in Wales, to the Natural Resources Body for Wales[^key-7cdb3038900881949eac1054b535d981].
+- (c) if the footpath or bridleway is on or contiguous with access land in Wales, to the Natural Resources Body for Wales[^c-7cdb3038900881949eac1054b535d981].
 
 (7) A notice under subsection (5)(a), (b) or (c) above shall be in such form and contain such information as may be prescribed.
 
@@ -79,4 +79,4 @@ he shall be guilty of an offence and liable to a fine not exceeding level 3 on t
 
 [^c18622931]: Textual amendment: Words in s. 135A(6)(b) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 105(1)](https://www.legislation.gov.uk/ukpga/2006/16/section/105/1), [Sch. 11 para. 67](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/67); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
-[^key-7cdb3038900881949eac1054b535d981]: Textual amendment: Words in [s. 135A(6)(c)](https://www.legislation.gov.uk/ukpga/1980/66/section/135A/6/c) substituted by 2000 c. 37 Sch. 6 para 16 (as amended) (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 411(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/411/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7cdb3038900881949eac1054b535d981]: Textual amendment: Words in [s. 135A(6)(c)](https://www.legislation.gov.uk/ukpga/1980/66/section/135A/6/c) substituted by 2000 c. 37 Sch. 6 para 16 (as amended) (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 411(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/411/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

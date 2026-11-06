@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 386. Powers to enter land[^key-3b74227d39630e4a9f162c0d3926c1f7]
+## 386. Powers to enter land[^c-3b74227d39630e4a9f162c0d3926c1f7]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b74227d39630e4a9f162c0d3926c1f7]: Commencement: S. 386 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3b74227d39630e4a9f162c0d3926c1f7]: Commencement: S. 386 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

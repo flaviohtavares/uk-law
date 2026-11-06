@@ -120,7 +120,7 @@ For the purposes of this condition “**tax relief**” includes the grant of an
 
 (4) This paragraph applies if neither paragraph (2) nor (3) applies by reason only that no such regulatory body exists in the country or territory and—
 
-- (a) the scheme is established in a[^key-36d35e9c39f5643edf7e9dd57dc9a099] member State, Norway, Iceland or Liechtenstein; or
+- (a) the scheme is established in a[^c-36d35e9c39f5643edf7e9dd57dc9a099] member State, Norway, Iceland or Liechtenstein; or
 - (b) the scheme is one where—
   - (i) the scheme rules provide that at least 70% of a member's relevant scheme funds will be designated by the scheme manager for the purpose of providing the member with an income for life, or, in the case of a member who has died, so provided immediately before the member's death, and
   - (ii) the pension benefits payable to the member under the scheme (and any lump sum associated with those benefits) are payable no earlier than they would be if pension rule 1 applied.
@@ -170,6 +170,6 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^c20075021]: Marginal citation: [1968 c. 48](https://www.legislation.gov.uk/ukpga/1968/48); [section 1(1)](https://www.legislation.gov.uk/uksi/2010/51/section/1/1) was amended by section 1(1) of the [International Organisations Act 1981 (c. 9)](https://www.legislation.gov.uk/ukpga/1981/9).
 
-[^key-36d35e9c39f5643edf7e9dd57dc9a099]: Textual amendment: Word in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2010/51/regulation/6/4/a) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/31/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36d35e9c39f5643edf7e9dd57dc9a099]: Textual amendment: Word in [reg. 6(4)(a)](https://www.legislation.gov.uk/uksi/2010/51/regulation/6/4/a) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [31(2)](https://www.legislation.gov.uk/uksi/2019/689/regulation/31/2) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20075031]: Marginal citation: The terms used in the definition of “complying superannuation plan” are further defined in the Superannuation Industry (Supervision) Act 1993 of Australia and the Retirement Savings Accounts Act 1997 of Australia.

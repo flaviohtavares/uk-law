@@ -31,7 +31,7 @@ summary: ''
 
 Clean Air
 
-The Smoke Control Areas (Exempted Fireplaces) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-3cceffe09b3024977e59cf6a2e825857]
+The Smoke Control Areas (Exempted Fireplaces) (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-3cceffe09b3024977e59cf6a2e825857]
 
 Made
 
@@ -41,23 +41,23 @@ Coming into operation
 
 4th August 2008
 
-[^key-3cceffe09b3024977e59cf6a2e825857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cceffe09b3024977e59cf6a2e825857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3cceffe09b3024977e59cf6a2e825857]
+## 1. Citation, commencement and interpretation[^c-3cceffe09b3024977e59cf6a2e825857]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Principal Regulations[^key-3cceffe09b3024977e59cf6a2e825857]
+## 2. Amendment to the Principal Regulations[^c-3cceffe09b3024977e59cf6a2e825857]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cceffe09b3024977e59cf6a2e825857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cceffe09b3024977e59cf6a2e825857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-3cceffe09b3024977e59cf6a2e825857]
+## SCHEDULE[^c-3cceffe09b3024977e59cf6a2e825857]
 
 Regulation 2
 
@@ -65,8 +65,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-3cceffe09b3024977e59cf6a2e825857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cceffe09b3024977e59cf6a2e825857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cceffe09b3024977e59cf6a2e825857]: Textual amendment: revoked (10.8.2009) by [The Smoke Control Areas (Exempted Fireplaces) (Amendment) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/257)](https://www.legislation.gov.uk/nisr/2009/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/257/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2009/257/regulation/3)
+[^c-3cceffe09b3024977e59cf6a2e825857]: Textual amendment: revoked (10.8.2009) by [The Smoke Control Areas (Exempted Fireplaces) (Amendment) Regulations (Northern Ireland) 2009 (revoked) 2009 (S.R. 2009/257)](https://www.legislation.gov.uk/nisr/2009/257), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/257/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2009/257/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Disapplication of duty to consult Independent Family Returns Panel[^key-86ad710f592f3a7636914797eef93ba4]
+## 14. Disapplication of duty to consult Independent Family Returns Panel[^c-86ad710f592f3a7636914797eef93ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86ad710f592f3a7636914797eef93ba4]: Textual amendment: [Ss. 13-15](https://www.legislation.gov.uk/ukpga/2023/37/section/13) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/c), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-86ad710f592f3a7636914797eef93ba4]: Textual amendment: [Ss. 13-15](https://www.legislation.gov.uk/ukpga/2023/37/section/13) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(c)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/c), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

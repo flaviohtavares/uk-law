@@ -48,13 +48,13 @@ The Secretary of State, in exercise of the powers conferred by articles 3 and 4(
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-f0870e80be0dc69f80727125be725ddf]
+### 1. Citation, commencement and extent[^c-f0870e80be0dc69f80727125be725ddf]
 
 (1) These Regulations may be cited as the Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) Regulations 2022 and come into force on 29th July 2022.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-2b495db03b998c61873ef2601d7f99f1]
+### 2. Interpretation[^c-2b495db03b998c61873ef2601d7f99f1]
 
 In these Regulations—
 
@@ -73,13 +73,13 @@ In these Regulations—
   - (b) does not include a ship’s ballast water fittings that would be required if a ballast water management system was not fitted;
 - “ballast water record book” is a record book which meets the requirements of regulation 10(1) (ballast water record book);
 - “**ballast water tank**” means any tank, space or compartment on board a ship used for carrying ballast water;
-- [^key-ea0998700d5c3665e1b7f7577cad560f]...
+- [^c-ea0998700d5c3665e1b7f7577cad560f]...
 - “**Certifying Authority**” has the meaning given in regulation 3 (Certifying Authorities);
 - “**Contracting State**” means a State which has consented to be bound by the Convention;
 - “**controlled waters**” means the areas of sea specified by the Merchant Shipping (Prevention of Pollution) (Limits) Regulations 2014[^f00006] as waters within which the jurisdiction and rights of the United Kingdom are exercisable in accordance with Part XII of the United Nations Convention on the Law of the Sea[^f00007] (Protection and Preservation of the Marine Environment);
 - “**the Convention**” means the International Convention for the Control and Management of Ships’ Ballast Water and Sediments, 2004, including its Annex and Appendices[^f00008];
 - “**discharge**”, in relation to ballast water or sediments, means any release howsoever caused from a ship and includes any escape, disposal, spilling, leaking, pumping, emitting or emptying;
-- “[^key-93bd1abc2cd8efacdd5d26a38afddf45]**electronic record book**” means a device or system used to record information electronically;
+- “[^c-93bd1abc2cd8efacdd5d26a38afddf45]**electronic record book**” means a device or system used to record information electronically;
 - “**exchange**” means a process involving the replacement of water in a ballast water tank using the sequential method or pump-through method which complies with regulations 11 (location of ballast water exchange) and 12 (ballast water exchange standard);
 - “**flag State**”, in relation to a ship, means the State whose flag the ship is entitled to fly;
 - “**foreign State**” means a State other than the United Kingdom;
@@ -88,14 +88,14 @@ In these Regulations—
 - “**high seas**” means all waters beyond—
   - (a) United Kingdom waters and controlled waters; and
   - (b) the internal waters, archipelagic waters, territorial sea and the exclusive economic zone of any foreign State;
-- “**IBWM Certificate**” means an International Ballast Water Management Certificate, containing the information specified in Schedule 2 to Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-ae263a6f42453e49c81927df5c313096], issued—
+- “**IBWM Certificate**” means an International Ballast Water Management Certificate, containing the information specified in Schedule 2 to Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-ae263a6f42453e49c81927df5c313096], issued—
   - (a) by a Certifying Authority in accordance with Part 6 (survey and certification of ships); or
   - (b) by a Contracting State in accordance with Regulation E-2 of the Convention;
 - “**IMO**” means the International Maritime Organization[^f00009];
 - “in writing” or “written” include the provision of a written communication by electronic mail, facsimile or similar means which are capable of producing a document containing the text of any communication;
 - “**Merchant Shipping Notice**” means a notice described as such and issued by the Secretary of State, and any reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is considered by the Secretary of State to be relevant from time to time;
 - “**nautical mile**” means an international nautical mile of 1,852 metres;
-- [^key-92909744089ab8a21bf2b564af3db9a3]...
+- [^c-92909744089ab8a21bf2b564af3db9a3]...
 - “**offshore terminal**” means an installation situated away from the shore, where bulk, fluid or gas cargo, or more than one of these, is—
   - (a) transferred between ships;
   - (b) loaded onto a ship after having been transported from the shoreline; or
@@ -115,7 +115,7 @@ In these Regulations—
     - (i) a British citizen, a British overseas territories citizen or a British Overseas citizen; or
     - (ii) a body corporate which is established under the law of any part of the United Kingdom and has its principal place of business in the United Kingdom.
 
-### 3. Certifying Authorities[^key-6427ce079c98b98425abd9c6ec65a279]
+### 3. Certifying Authorities[^c-6427ce079c98b98425abd9c6ec65a279]
 
 (1) In these Regulations, “**Certifying Authority**” means the Secretary of State or any person authorised by the Secretary of State.
 
@@ -131,14 +131,14 @@ In these Regulations—
 
 (5) A Certifying Authority, other than the Secretary of State, is not to be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown and its property is not to be regarded as property of, or held on behalf of, the Crown.
 
-### 4. Application[^key-29d8276a1af79a474492b12301336f72]
+### 4. Application[^c-29d8276a1af79a474492b12301336f72]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to—
 
 - (a) a United Kingdom ship wherever it may be; and
 - (b) any other ship while it is in United Kingdom waters or controlled waters.
 
-(2)[^key-b1788ff34badb88319db65f78895b54e] These Regulations do not apply to—
+(2)[^c-b1788ff34badb88319db65f78895b54e] These Regulations do not apply to—
 
 - (a) a ship which is not designed or constructed to carry ballast water;
 - (b) a ship which operates solely—
@@ -166,11 +166,11 @@ In these Regulations—
 - (a) the cleaning or repair of ballast water tanks occurs; and
 - (b) the ballast water tanks in question are those of ships to which these Regulations apply.
 
-(4)[^key-91463a0b2dd50384a6397d0ba9bb0568] For the purposes of paragraph (2)(b), (c) or (e), the criteria are that the discharge of ballast water from a ship would not impair or damage the environment, human health, property or resources within the areas specified in paragraph (2)(b), (c) or (e) or those of adjacent or other States.
+(4)[^c-91463a0b2dd50384a6397d0ba9bb0568] For the purposes of paragraph (2)(b), (c) or (e), the criteria are that the discharge of ballast water from a ship would not impair or damage the environment, human health, property or resources within the areas specified in paragraph (2)(b), (c) or (e) or those of adjacent or other States.
 
 ## PART 2 — Discharge of ballast water and sediments
 
-### 5. Requirement to conduct ballast water management[^key-1f932e1d25fb6e416245dc63493f36f4]
+### 5. Requirement to conduct ballast water management[^c-1f932e1d25fb6e416245dc63493f36f4]
 
 (1) Subject to regulations 6 (exceptions to the requirement to conduct ballast water management), 7 (exemptions from the requirement to conduct ballast water management) and 21 (prototype ballast water management systems), any ballast water or sediments taken on board a ship must not be discharged from that ship unless they are subject to ballast water management which meets the requirements of paragraph (2).
 
@@ -207,11 +207,11 @@ In these Regulations—
 
 (4) The conversion of a ship to achieve the standard specified in regulation 12 (ballast water exchange standard) is not a major conversion for the purposes of paragraph (3)(b)(ii).
 
-### 6. Exceptions to the requirement to conduct ballast water management[^key-a6502b1b83ddfa85315968cfd6367a09]
+### 6. Exceptions to the requirement to conduct ballast water management[^c-a6502b1b83ddfa85315968cfd6367a09]
 
 (1) Regulation 5 (requirement to conduct ballast water management) does not apply to—
 
-- (a) the discharge of ballast water to a reception facility of a type specified in section 3 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-fdec1d366e32dc7d5e292fdad6cb8b70];
+- (a) the discharge of ballast water to a reception facility of a type specified in section 3 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-fdec1d366e32dc7d5e292fdad6cb8b70];
 - (b) the discharge of any ballast water or sediments necessary for the purpose of—
   - (i) ensuring the safety of a ship in an emergency;
   - (ii) saving life at sea; or
@@ -240,7 +240,7 @@ In these Regulations—
 - (a) where any ballast water or sediments have been taken on board a ship within a harbour, within the harbour limits of that harbour; or
 - (b) where paragraph (a) does not apply, within one nautical mile of the point of uptake of any ballast water or sediments.
 
-### 7. Exemptions from the requirement to conduct ballast water management[^key-159b53c1df96ef54e59523d169b956d5]
+### 7. Exemptions from the requirement to conduct ballast water management[^c-159b53c1df96ef54e59523d169b956d5]
 
 (1) Subject to paragraph (2) the Secretary of State may exempt discharges of any ballast water or sediments in a specified location, in UK waters or UK controlled waters, from the requirements of regulation 5 (requirement to conduct ballast water management) where the same ballast water or sediments are—
 
@@ -252,7 +252,7 @@ In these Regulations—
 - (a) based on; and
 - (b) reviewed in accordance with,
 
-the guidelines referred to in section 10 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-222cd8314c908a48360a0810737a57d1].
+the guidelines referred to in section 10 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-222cd8314c908a48360a0810737a57d1].
 
 (3) Subject to paragraph (4) an exemption by the Secretary of State is valid—
 
@@ -266,7 +266,7 @@ the guidelines referred to in section 10 of Merchant Shipping Notice MSN 1908 (M
 
 (5) The particulars of any exemption granted under paragraph (1) and relied on by a ship must be recorded in the ship’s ballast water record book.
 
-### 8. Equivalents[^key-12374fe2615370351217a41bc173cd92]
+### 8. Equivalents[^c-12374fe2615370351217a41bc173cd92]
 
 (1) A relevant ship may meet the requirements of these Regulations through equivalent compliance if this has been approved by the Secretary of State and—
 
@@ -304,14 +304,14 @@ where, in the case of any vessel referred to in paragraph (a) or (b), no other p
 
 ## PART 3 — Ballast water management
 
-### 9. Ballast water management plan[^key-12636134f4c017a4c59bfda83980de1b]
+### 9. Ballast water management plan[^c-12636134f4c017a4c59bfda83980de1b]
 
 (1) Every ship must carry on board a ballast water management plan specific to that ship which has been—
 
 - (a) in the case of a United Kingdom ship, approved by a Certifying Authority; or
 - (b) in the case of any other ship, approved by the ship’s flag State.
 
-(2) A Certifying Authority must take into account the guidelines referred to in section 4 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-d8787c6be2b31d01f9de7264ccac8dd1] when considering whether to approve a ballast water management plan.
+(2) A Certifying Authority must take into account the guidelines referred to in section 4 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-d8787c6be2b31d01f9de7264ccac8dd1] when considering whether to approve a ballast water management plan.
 
 (3) The master of a ship must ensure that—
 
@@ -320,23 +320,23 @@ where, in the case of any vessel referred to in paragraph (a) or (b), no other p
   - (ii) familiar with the ballast water management plan, where this is appropriate to their duties; and
 - (b) the ballast water management plan relating to the ship is implemented.
 
-(4) The ballast water management plan must include the information specified in section 4 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-cb03221f6e383a4af22083bfb48e23b4].
+(4) The ballast water management plan must include the information specified in section 4 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-cb03221f6e383a4af22083bfb48e23b4].
 
 (5) The ballast water management plan must be—
 
 - (a) written in the working language of the ship’s personnel; and
 - (b) if the working language is not English, French or Spanish, translated into one of these languages.
 
-### 10. Ballast water record book[^key-c936f2302ccf0fe920b32378165a723e]
+### 10. Ballast water record book[^c-c936f2302ccf0fe920b32378165a723e]
 
-(1)[^key-0da4b3c093264e59925bba184829c080] Every ship must have on board a ballast water record book which contains the information specified in Schedule 1 to Merchant Shipping Notice MSN 1908 (M+F) Amendment 3.
+(1)[^c-0da4b3c093264e59925bba184829c080] Every ship must have on board a ballast water record book which contains the information specified in Schedule 1 to Merchant Shipping Notice MSN 1908 (M+F) Amendment 3.
 
 (1A) For the purposes of paragraph (1), a ballast water record book may be—
 
 - (a) an electronic record book approved in accordance with regulation 10A;
 - (b) integrated into another record book or system.
 
-(2) Each operation referred to in section 5 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-0e09d9534558379ebc2316ce5f068dad] must be fully recorded without delay in the ballast water record book.
+(2) Each operation referred to in section 5 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-0e09d9534558379ebc2316ce5f068dad] must be fully recorded without delay in the ballast water record book.
 
 (3) In the event of—
 
@@ -349,7 +349,7 @@ an entry must be made in the ballast water record book describing the circumstan
 
 (4) Each entry in the ballast water record book must be signed by the officer in charge of the relevant operation.
 
-(5)[^key-5bbc2d12216773cd1f426c6ba92815ad] The master of the ship must—
+(5)[^c-5bbc2d12216773cd1f426c6ba92815ad] The master of the ship must—
 
 - (a) sign each completed page of the ballast water record book; or
 - (b) verify a group of electronic entries as soon as reasonably practicable.
@@ -371,7 +371,7 @@ an entry must be made in the ballast water record book describing the circumstan
 
 (10) The ballast water record book must be retained by the owner of the ship for a period of three years after the period in paragraph (8)(b) has elapsed.
 
-### 10A. Approval of electronic record book[^key-9fc819459c754d6fb01b2c4d79c9f198]
+### 10A. Approval of electronic record book[^c-9fc819459c754d6fb01b2c4d79c9f198]
 
 (1) An electronic record book must—
 
@@ -394,7 +394,7 @@ an entry must be made in the ballast water record book describing the circumstan
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 11. Location of ballast water exchange[^key-9916023839d185e7c54e986b10a17aa7]
+### 11. Location of ballast water exchange[^c-9916023839d185e7c54e986b10a17aa7]
 
 (1) Subject to paragraphs (4) and (5), ballast water exchange must, where possible, be carried out—
 
@@ -408,7 +408,7 @@ an entry must be made in the ballast water record book describing the circumstan
   - (ii) in water at least 200 metres in depth; or
 - (b) must be carried out in an area designated by the Secretary of State under paragraph (6) in accordance with any conditions or limitations imposed under paragraph (7)(c)(i).
 
-(3) Ballast water exchange in accordance with paragraphs (1) and (2) must take into account the guidelines developed by the IMO as specified in section 6 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-b514963cb294b177038b9f8fe6ef3638].
+(3) Ballast water exchange in accordance with paragraphs (1) and (2) must take into account the guidelines developed by the IMO as specified in section 6 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-b514963cb294b177038b9f8fe6ef3638].
 
 (4) A requirement under paragraph (1) or (2)(a) does not apply to a ship where compliance with it would require the ship to—
 
@@ -428,7 +428,7 @@ because of adverse weather, ship design or stress, equipment failure, or any oth
 (7) A designation under paragraph (6)—
 
 - (a) may only be made for areas of sea where the distance from the nearest land or the depth of water does not meet the parameters in paragraph (1) or (2)(a);
-- (b) must take into account the guidelines developed by the IMO as specified in section 7 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-d0f079e3121249b4ce10ab201e6917a9]; and
+- (b) must take into account the guidelines developed by the IMO as specified in section 7 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-d0f079e3121249b4ce10ab201e6917a9]; and
 - (c) is valid only if given in writing and may be—
   - (i) subject to such conditions and limitations as the Secretary of State may specify; and
   - (ii) altered or cancelled by a notice given in writing by the Secretary of State.
@@ -448,7 +448,7 @@ because of adverse weather, ship design or stress, equipment failure, or any oth
 - thence to a point latitude 24°30´ S, longitude 154°00´ E
 - thence to a point on the coast of Australia in latitude 24°42´ S, longitude 153°15´ E.
 
-### 12. Ballast water exchange standard[^key-d21b5a04fb069c28c2aa3fa26a424a55]
+### 12. Ballast water exchange standard[^c-d21b5a04fb069c28c2aa3fa26a424a55]
 
 (1) Where the sequential method of ballast water exchange is used, it must achieve 95 per cent volumetric exchange of ballast water.
 
@@ -457,7 +457,7 @@ because of adverse weather, ship design or stress, equipment failure, or any oth
 - (a) at least three times the volume of the ballast water tank must be pumped through that tank; or
 - (b) it must achieve 95 per cent volumetric exchange of ballast water.
 
-### 13. Ballast water and sediment treatment standard[^key-2b9022aea16b1f8f5690cc06ae1bff9a]
+### 13. Ballast water and sediment treatment standard[^c-2b9022aea16b1f8f5690cc06ae1bff9a]
 
 (1) Treatment must ensure that the concentrations of any viable organisms and indicator microbes in any ballast water or sediments discharged into the sea are less than—
 
@@ -475,7 +475,7 @@ because of adverse weather, ship design or stress, equipment failure, or any oth
 
 ## PART 4 — Sediment reception facilities
 
-### 14. Requirement to provide sediment reception facilities[^key-836e0b9b39fdc6f73f57851873a6ea17]
+### 14. Requirement to provide sediment reception facilities[^c-836e0b9b39fdc6f73f57851873a6ea17]
 
 (1) This regulation applies to any shipyard within a harbour in the United Kingdom in which—
 
@@ -486,7 +486,7 @@ because of adverse weather, ship design or stress, equipment failure, or any oth
 
 (3) The requirements are that the sediment reception facilities must—
 
-- (a) be designed and operated in accordance with section 11 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-3527c1dba6f193a897373663a2d6e256];
+- (a) be designed and operated in accordance with section 11 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-3527c1dba6f193a897373663a2d6e256];
 - (b) operate without causing undue delay to ships; and
 - (c) provide for the safe disposal of sediments from ships’ ballast water tanks in a manner that does not impair or damage the environment, human health, property or resources of the United Kingdom or foreign States.
 
@@ -494,29 +494,29 @@ because of adverse weather, ship design or stress, equipment failure, or any oth
 
 ## PART 5 — Equipment
 
-### 15. Designation of nominated bodies[^key-8b35c01770abc2b5ce5271c064eaea5d]
+### 15. Designation of nominated bodies[^c-8b35c01770abc2b5ce5271c064eaea5d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Approval of ballast water management systems[^key-1c1f6163f931f488f77438862dc2c093]
+### 16. Approval of ballast water management systems[^c-1c1f6163f931f488f77438862dc2c093]
 
-(1) Subject to regulation 21(5) (prototype ballast water management systems), a ballast water management system when it is installed on a United Kingdom ship, must have a type approval certificate issued under regulation 16 of the Merchant Shipping (Marine Equipment) Regulations 2025[^key-b5c5da950c4c1633fc0d195ed0747905].
+(1) Subject to regulation 21(5) (prototype ballast water management systems), a ballast water management system when it is installed on a United Kingdom ship, must have a type approval certificate issued under regulation 16 of the Merchant Shipping (Marine Equipment) Regulations 2025[^c-b5c5da950c4c1633fc0d195ed0747905].
 
-(2) A copy of the type approval certificate referred to in paragraph (1)[^key-db5644ac5ddc09d0c8f93b0a4c89d32d] must be kept on board the ship to which it relates.
+(2) A copy of the type approval certificate referred to in paragraph (1)[^c-db5644ac5ddc09d0c8f93b0a4c89d32d] must be kept on board the ship to which it relates.
 
-### 17. Application for grant of type approval[^key-7cad5d4f2407ff895fd6a1b3085b8fad]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 18. Grant of type approval: obligations of nominated bodies[^key-479814bb83fea637c26b26b902830ea4]
+### 17. Application for grant of type approval[^c-7cad5d4f2407ff895fd6a1b3085b8fad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Duration, suspension and withdrawal of BWMS Type Approval Certificates[^key-64ce815e1e0d7c56f102a52b547c1195]
+### 18. Grant of type approval: obligations of nominated bodies[^c-479814bb83fea637c26b26b902830ea4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Ballast water management systems which use active substances[^key-1ae16a672ba75d90422ded5b12b14e02]
+### 19. Duration, suspension and withdrawal of BWMS Type Approval Certificates[^c-64ce815e1e0d7c56f102a52b547c1195]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 20. Ballast water management systems which use active substances[^c-1ae16a672ba75d90422ded5b12b14e02]
 
 (1) The Secretary of State may prohibit the use of—
 
@@ -536,7 +536,7 @@ on ships.
 
 (5) The Secretary of State may withdraw or vary a prohibition.
 
-### 21. Prototype ballast water management systems[^key-5284e63c39c5ac6a1085bf7b90905255]
+### 21. Prototype ballast water management systems[^c-5284e63c39c5ac6a1085bf7b90905255]
 
 (1) The Secretary of State may approve programmes to test and evaluate prototype ballast water management systems.
 
@@ -567,7 +567,7 @@ the requirement in regulation 5 (requirement to conduct ballast water management
 
 ## PART 6 — Survey and certification of ships
 
-### 22. Interpretation of Part 6[^key-c060338e0ca48b2f04209198fb62a598]
+### 22. Interpretation of Part 6[^c-c060338e0ca48b2f04209198fb62a598]
 
 In this Part—
 
@@ -576,7 +576,7 @@ In this Part—
 - (c) “**annual survey**” means a survey by a surveyor to verify that the structure, equipment, systems, fitting, arrangements, material and processes associated with a ship’s ballast water management plan—
   - (i) have been maintained to conform with these Regulations; and
   - (ii) remain satisfactory for the service for which the ship is intended;
-- (d) “**commissioning test**” means a test conducted to validate the installation of a ballast water management system which meets the requirements of section 9 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-346857ec369fcc78847c5081f75a63ee];
+- (d) “**commissioning test**” means a test conducted to validate the installation of a ballast water management system which meets the requirements of section 9 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-346857ec369fcc78847c5081f75a63ee];
 - (e) “**endorsement**” in relation to an IBWM Certificate means an endorsement in the form specified in Schedule 2 to Merchant Shipping Notice MSN 1908 (M+F) Amendment 3, and “endorse” and “endorsed” are to be construed accordingly;
 - (f) “**initial survey**” means a survey by a surveyor completed before a ship is put in service or before an IBWM Certificate is first issued in respect of that ship to verify that—
   - (i) there is on board the ship an approved ballast water management plan; and
@@ -586,7 +586,7 @@ In this Part—
   - (i) there is on board a ship an approved ballast water management plan; and
   - (ii) the structure, equipment, systems, fittings, arrangements, material and processes associated with the ship’s ballast water management plan fully comply with the requirements of Part 3 (ballast water management) and Part 5 (equipment).
 
-### 23. Prohibition on United Kingdom ships proceeding to sea without an IBWM Certificate[^key-d2a8e0a33f494ff7b5126b4415a0682f]
+### 23. Prohibition on United Kingdom ships proceeding to sea without an IBWM Certificate[^c-d2a8e0a33f494ff7b5126b4415a0682f]
 
 Subject to regulation 40(2) (general provisions on detention) a United Kingdom ship to which this regulation applies must not—
 
@@ -595,7 +595,7 @@ Subject to regulation 40(2) (general provisions on detention) a United Kingdom s
 
 unless an IBWM Certificate has been issued in respect of the ship which is still valid.
 
-### 24. Prohibition on non-United Kingdom ships proceeding to sea without an IBWM Certificate or appropriate documentation[^key-6affd520d2cd2f3f1b35572d00541a99]
+### 24. Prohibition on non-United Kingdom ships proceeding to sea without an IBWM Certificate or appropriate documentation[^c-6affd520d2cd2f3f1b35572d00541a99]
 
 A ship other than a United Kingdom ship must not proceed to sea from a port in the United Kingdom unless—
 
@@ -606,7 +606,7 @@ A ship other than a United Kingdom ship must not proceed to sea from a port in t
   - (ii) is satisfied that the ship can proceed to sea without presenting a threat of harm to the environment, human health, property or resources; or
 - (d) it has been permitted to proceed pursuant to regulation 40(2) (general provisions on detention).
 
-### 25. Surveys of United Kingdom ships[^key-49ef9982123a43aaee8c137f648cc3bd]
+### 25. Surveys of United Kingdom ships[^c-49ef9982123a43aaee8c137f648cc3bd]
 
 A United Kingdom ship to which this regulation applies must be subjected to—
 
@@ -617,7 +617,7 @@ A United Kingdom ship to which this regulation applies must be subjected to—
   - (ii) in the period beginning three months before, and ending three months after, the third anniversary date of the issue of an IBWM certificate, and
 - (d) an annual survey which must be completed in the period beginning three months before, and ending three months after, the anniversary date of the issue of an IBWM certificate, except where an intermediate survey described in sub-paragraph (c) has been completed within that period.
 
-### 26. Issue of IBWM Certificates by a Certifying Authority in respect of United Kingdom ships[^key-a99cabe3a4a095e453d71e44e1a23c8b]
+### 26. Issue of IBWM Certificates by a Certifying Authority in respect of United Kingdom ships[^c-a99cabe3a4a095e453d71e44e1a23c8b]
 
 (1) A Certifying Authority must issue an IBWM Certificate in respect of a United Kingdom ship where—
 
@@ -626,13 +626,13 @@ A United Kingdom ship to which this regulation applies must be subjected to—
   - (i) there is on board the ship an approved ballast water management plan;
   - (ii) the structure, equipment, systems, fittings, arrangements, material and processes associated with the ship’s ballast water management plan fully comply with the requirements of Part 3 (ballast water management) and Part 5 (equipment); and
   - (iii) any ballast water management system which has not previously been subject to a survey under these Regulations—
-    - (aa) has been installed in accordance with the requirements of section 8 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-0a23994b6ed3e2cb917698430c2fda77]; and
+    - (aa) has been installed in accordance with the requirements of section 8 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-0a23994b6ed3e2cb917698430c2fda77]; and
     - (bb) has been subject to a commissioning test which shows that it processes any ballast water or sediments such that they meet the standard in regulation 13 (ballast water and sediment treatment standard); and
 - (c) any fee due under the Merchant Shipping (Fees) Regulations 2018[^f00010] has been paid to that Certifying Authority.
 
 (2) An IBWM Certificate issued under this regulation must be in English.
 
-### 27. Endorsement of IBWM Certificates by a Certifying Authority in respect of United Kingdom ships[^key-1eaca80da863393bb7d756386a2f66de]
+### 27. Endorsement of IBWM Certificates by a Certifying Authority in respect of United Kingdom ships[^c-1eaca80da863393bb7d756386a2f66de]
 
 (1) A Certifying Authority must endorse an IBWM Certificate in respect of a United Kingdom ship where that Certifying Authority has been notified by a surveyor that the surveyor has carried out—
 
@@ -657,7 +657,7 @@ the anniversary date shown on the relevant IBWM Certificate must be amended by a
 - (a) the subsequent annual or intermediate survey must be completed at the intervals prescribed in regulation 25 (surveys of United Kingdom ships) using the new anniversary date; and
 - (b) the date of expiry of the IBWM Certificate may remain unchanged provided that one or more annual or intermediate surveys, as the case may be, are completed so that the maximum intervals between the surveys as prescribed in regulation 25 (surveys of United Kingdom ships) are not exceeded.
 
-### 28. Duration and validity of an IBWM Certificate[^key-eb6473971b2f32b89f2f5d67b1fc9d7f]
+### 28. Duration and validity of an IBWM Certificate[^c-eb6473971b2f32b89f2f5d67b1fc9d7f]
 
 (1) An IBWM Certificate issued in respect of a United Kingdom ship is valid from the date of completion of the initial or renewal survey which immediately preceded the issue of the Certificate.
 
@@ -697,7 +697,7 @@ the anniversary date shown on the relevant IBWM Certificate must be amended by a
 
 (7) In this regulation and regulation 30 (extension of periods of validity of IBWM Certificates by a surveyor) “**the original date of expiry**” means the date on which a relevant IBWM Certificate would have expired but for any extension of its period of validity.
 
-### 29. Extension of periods of validity of IBWM Certificates by a Certifying Authority[^key-c3a75fca65d8b29fa5832bdecfd9c8bc]
+### 29. Extension of periods of validity of IBWM Certificates by a Certifying Authority[^c-c3a75fca65d8b29fa5832bdecfd9c8bc]
 
 (1) The Certifying Authority that issued an IBWM Certificate in respect of a United Kingdom ship may extend the period of validity of that Certificate—
 
@@ -727,7 +727,7 @@ the anniversary date shown on the relevant IBWM Certificate must be amended by a
 
 and for the purposes of this definition no account is to be taken of any deviation by a ship from its intended voyage due solely to stress of weather, or any other circumstances that neither the master, nor the owner, nor the charterer if any, of the ship could have prevented or forestalled[^f00011].
 
-### 30. Extension of periods of validity of IBWM Certificates by a surveyor[^key-3f0db6b762ad89926807b1734416081a]
+### 30. Extension of periods of validity of IBWM Certificates by a surveyor[^c-3f0db6b762ad89926807b1734416081a]
 
 (1) A surveyor may extend the period of validity of an IBWM Certificate issued in respect of a United Kingdom ship by endorsing that Certificate if—
 
@@ -737,7 +737,7 @@ and for the purposes of this definition no account is to be taken of any deviati
 
 (2) Where an IBWM Certificate has been endorsed under paragraph (1), that Certificate is valid for such further period as is specified in the Certificate, not exceeding five months beginning with the original date of expiry of the Certificate.
 
-### 31. Responsibilities of the owner and the master[^key-c9441a3e40fa14f2fde2a486b8893584]
+### 31. Responsibilities of the owner and the master[^c-c9441a3e40fa14f2fde2a486b8893584]
 
 (1) The owner and the master of a ship must ensure that the condition of the ship and its equipment, systems and processes are maintained to conform—
 
@@ -774,7 +774,7 @@ which substantially affects the ability of the ship to conduct ballast water man
 
 (7) In paragraph (2) “**direct replacement**” means the direct replacement of equipment and fittings with equipment and fittings that conform with the relevant requirements which apply to that ship.
 
-### 32. Additional surveys of United Kingdom ships[^key-76703ed1d03074d52a84bd38e4caf964]
+### 32. Additional surveys of United Kingdom ships[^c-76703ed1d03074d52a84bd38e4caf964]
 
 (1) This regulation applies to a United Kingdom ship where—
 
@@ -798,14 +798,14 @@ unless the requirements set out in paragraph (3) are met.
 
 (4) Where a survey of a ship under paragraph (3) results from the installation of a new ballast water management system, in order to be satisfied that the change or replacement has been made effectively the surveyor must verify that it—
 
-- (a) has been installed in accordance with the requirements of section 8 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^key-1152bfb153aa17b2a691aab75bac46b4]; and
+- (a) has been installed in accordance with the requirements of section 8 of Merchant Shipping Notice MSN 1908 (M+F) Amendment 3[^c-1152bfb153aa17b2a691aab75bac46b4]; and
 - (b) has been subject to a commissioning test which shows that it processes any ballast water or sediments such that they meet the standard in regulation 13 (ballast water and sediment treatment standard).
 
 (5) In the case of a dispute as to whether a repair effected or intended to be effected in respect of a ship is a significant repair for the purposes of paragraph (1)(b), the owner or master of a ship may serve a written request upon the Secretary of State seeking advice[^f00012].
 
 (6) A repair is not to be regarded as being a significant repair for the purposes of this regulation unless the Secretary of State advises to the contrary within 21 days of receipt of a request under paragraph (5).
 
-### 33. Issue or endorsement of IBWM Certificates by another Contracting State[^key-d7fea68fac8d51486c80cdfd8b9f222e]
+### 33. Issue or endorsement of IBWM Certificates by another Contracting State[^c-d7fea68fac8d51486c80cdfd8b9f222e]
 
 (1) The Secretary of State may request a Contracting State to survey a United Kingdom ship and, if the Contracting State is satisfied that the ship complies with the requirements of the Convention, to—
 
@@ -819,7 +819,7 @@ in accordance with the Convention.
 - (a) the Secretary of State is to be treated as the Certifying Authority in relation to it; and
 - (b) any reference in these Regulations to the Certifying Authority who issued the Certificate is to be treated as a reference to the Secretary of State.
 
-### 34. Issue or endorsement of IBWM Certificates in respect of non-United Kingdom ships[^key-a18b7ec26e4656c1d44dd66a8a5ba100]
+### 34. Issue or endorsement of IBWM Certificates in respect of non-United Kingdom ships[^c-a18b7ec26e4656c1d44dd66a8a5ba100]
 
 (1) The Secretary of State, when requested to do so by a Contracting State other than the United Kingdom, may cause a survey to be carried out in respect of a ship which flies the flag of that Contracting State.
 
@@ -843,7 +843,7 @@ in accordance with the Convention.
 - (a) the IBWM Certificate issued or endorsed pursuant to paragraphs (2) or (3); and
 - (b) the report of the survey.
 
-### 35. Procedure to be adopted when a ship is deficient[^key-c86369e31c08759649e089284c88c3c7]
+### 35. Procedure to be adopted when a ship is deficient[^c-c86369e31c08759649e089284c88c3c7]
 
 (1) This regulation applies where a surveyor determines that a ship’s ballast water management—
 
@@ -874,7 +874,7 @@ the Certifying Authority must suspend the validity of that Certificate until tha
 - (a) “**the Certifying Authority**” means the appropriate maritime authorities of the ship’s flag State or a diplomatic representative of that State; and
 - (b) “**surveyor**” includes a person authorised by that flag State to survey the ship.
 
-### 36. Arbitration[^key-168024347e93c4af40a83e2330f3d254]
+### 36. Arbitration[^c-168024347e93c4af40a83e2330f3d254]
 
 (1) If an applicant is dissatisfied for any reason with the outcome of a survey carried out in respect of a United Kingdom ship, the applicant may serve a written notice on the responsible person within the period of 21 days beginning with the date of receiving notification of that outcome—
 
@@ -922,7 +922,7 @@ but this paragraph does not apply in relation to Scotland.
   - (ii) in the case of a dispute relating to an additional survey, the Certifying Authority which issued the IBWM Certificate in respect of the ship; and
 - (d) “**STCW**” means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers 1978[^f00014].
 
-### 37. Miscellaneous provisions relating to IBWM Certificates[^key-478898ae949594e95b0e0672fdcf40f8]
+### 37. Miscellaneous provisions relating to IBWM Certificates[^c-478898ae949594e95b0e0672fdcf40f8]
 
 (1) The Secretary of State may cancel an IBWM Certificate issued in respect of a United Kingdom ship where there is reason to believe that—
 
@@ -951,7 +951,7 @@ but this paragraph does not apply in relation to Scotland.
 
 ## PART 7 — Enforcement
 
-### 38. Inspection of ships[^key-430e6448f23f116b578738f25b00e731]
+### 38. Inspection of ships[^c-430e6448f23f116b578738f25b00e731]
 
 (1) Insofar as sections 258[^f00015] (powers to inspect ships and their equipment etc.) and 259 (powers of inspectors in relation to premises and ships) of the 1995 Act apply in relation to a ship to which these Regulations apply, for the purpose of checking compliance with these Regulations those sections have effect subject to the following modifications.
 
@@ -994,7 +994,7 @@ except where paragraph (3) applies.
 
 (9) The time required to analyse samples of a ship’s ballast water taken pursuant to this regulation must not be used to unduly delay the operation, movement or departure of the ship.
 
-### 39. Prohibition on discharge following sampling[^key-b5d607478406843f0a959830cdc829c4]
+### 39. Prohibition on discharge following sampling[^c-b5d607478406843f0a959830cdc829c4]
 
 (1) Where a sampling of a ship’s ballast water under regulation 38(2)(c) (inspection of ships) indicates that the ship poses a threat to the environment, human health, property or resources, the person exercising the powers of inspection must serve on the master of the ship a notice which—
 
@@ -1010,7 +1010,7 @@ except where paragraph (3) applies.
 
 (4) A notice served under paragraph (1) must be complied with.
 
-### 40. General provisions on detention[^key-25938a63550702f0ccaaad9386400d27]
+### 40. General provisions on detention[^c-25938a63550702f0ccaaad9386400d27]
 
 (1) Where—
 
@@ -1085,7 +1085,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
 - (b) references to an offence under section 131 (discharge of oil from ships into certain United Kingdom waters) were references to an offence under regulation 44(1)(a) (offences).
 
-### 41. Power for a harbour master to detain a ship[^key-f807330e1a519f252a10a43456a1dc95]
+### 41. Power for a harbour master to detain a ship[^c-f807330e1a519f252a10a43456a1dc95]
 
 (1) Where the harbour master of a harbour in the United Kingdom has clear grounds for believing that an offence has been committed under regulation 44(1)(a) (offences) by the discharge from a ship of any ballast water or sediments into the waters of the harbour, the harbour master may detain the ship.
 
@@ -1125,7 +1125,7 @@ and any balance must be repaid to the first-mentioned person.
 - (a) references to the master or owner of the ship were references to the owner, manager, demise charterer or master; and
 - (b) references to an offence under section 131 (discharge of oil from ships into certain United Kingdom waters) were references to an offence under regulation 44(1)(a) (offences).
 
-### 42. Duty of a harbour master to report deficient ships[^key-1db61d5855e0a03425b04b178bcc888c]
+### 42. Duty of a harbour master to report deficient ships[^c-1db61d5855e0a03425b04b178bcc888c]
 
 The harbour master of a harbour in the United Kingdom must immediately notify the Secretary of State if the harbour master has reason to believe that a ship is about to—
 
@@ -1134,29 +1134,29 @@ The harbour master of a harbour in the United Kingdom must immediately notify th
 
 and does not comply with the requirements of these Regulations.
 
-### 43. Right of appeal and compensation[^key-bc244e10e9db62667a9cc3f30236e0f2]
+### 43. Right of appeal and compensation[^c-bc244e10e9db62667a9cc3f30236e0f2]
 
-(1) Regulations 20 (arbitration) and 21 (compensation for unjustified detention)[^key-0d1aba48a0b5e15e4f02181581bb3a16] of the Merchant Shipping (Port State Control) Regulations 2026[^key-c6da8f2583fda5a2502628d4e1dacb70] apply in relation to the exercise of the power of detention under these Regulations as they apply in relation to the exercise of those powers under [^key-445b393b90739c0386d44dd79ec291c8]... those Regulations, subject to the modifications referred to in paragraph (2).
+(1) Regulations 20 (arbitration) and 21 (compensation for unjustified detention)[^c-0d1aba48a0b5e15e4f02181581bb3a16] of the Merchant Shipping (Port State Control) Regulations 2026[^c-c6da8f2583fda5a2502628d4e1dacb70] apply in relation to the exercise of the power of detention under these Regulations as they apply in relation to the exercise of those powers under [^c-445b393b90739c0386d44dd79ec291c8]... those Regulations, subject to the modifications referred to in paragraph (2).
 
 (2) The modifications are—
 
 - (a) references to “inspector” are to be taken as references to the authority detaining the ship, or the harbour master, as the case may be;
 - (b) references to—
   - (i) “issue of a refusal of access notice”;
-  - (ii)[^key-5f814793001b08ed2978edb2edc518a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-5f814793001b08ed2978edb2edc518a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) “refusal of access notice”;
   - (iv) “served with a refusal of access notice”; and
   - (v) “service of a refusal of access notice”,
 
   are omitted; and
-- (c) in regulation 21(3)[^key-8657431f2535e75277259b8e76b2c83d] after “State” there is added “, except where the ship is detained by a harbour master, in which case any compensation awarded under this section must be paid by the harbour authority”.
+- (c) in regulation 21(3)[^c-8657431f2535e75277259b8e76b2c83d] after “State” there is added “, except where the ship is detained by a harbour master, in which case any compensation awarded under this section must be paid by the harbour authority”.
 
-### 44. Offences[^key-0f5251fdd875959e3cca0c96d7ca9b2f]
+### 44. Offences[^c-0f5251fdd875959e3cca0c96d7ca9b2f]
 
 (1) Any contravention of—
 
 - (a) regulation 5(1) (requirement to conduct ballast water management) or 39(4) (prohibition on discharge following sampling) is an offence by the owner, manager, demise charterer and master of the ship;
-- (b) regulation 9(1), (4) or (5) (ballast water management plan), 10(1)[^key-571dbdf785e72ba65a06f3dd5d6e5189], (2) to (4), (6) or (8) (ballast water record book), 10A(1) (approval of electronic record book),[^key-564052c7880cb55129eba45e27699d7a] 16(2) (approval of ballast water management systems) or 29(2) (extension of periods of validity of IBWM Certificates by a Certifying Authority), is an offence by the owner, manager, demise charterer and master of the ship;
+- (b) regulation 9(1), (4) or (5) (ballast water management plan), 10(1)[^c-571dbdf785e72ba65a06f3dd5d6e5189], (2) to (4), (6) or (8) (ballast water record book), 10A(1) (approval of electronic record book),[^c-564052c7880cb55129eba45e27699d7a] 16(2) (approval of ballast water management systems) or 29(2) (extension of periods of validity of IBWM Certificates by a Certifying Authority), is an offence by the owner, manager, demise charterer and master of the ship;
 - (c) regulation 9(3) (ballast water management plan) or 10(5) (ballast water record book) is an offence by the master of the ship;
 - (d) regulation 10(4) (ballast water record book) is an offence by the officer in charge of the relevant operation;
 - (e) regulation 10(10) (ballast water record book), 16(1) (approval of ballast water management systems) or 35(5) (procedure to be adopted when a ship is deficient) is an offence by the owner of the ship;
@@ -1174,7 +1174,7 @@ and does not comply with the requirements of these Regulations.
   - (ii) in Scotland or Northern Ireland by a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment by a fine.
 
-### 45. Defences[^key-73837bce9b987010fe4b8b6430178afe]
+### 45. Defences[^c-73837bce9b987010fe4b8b6430178afe]
 
 (1) In any proceedings for an offence under these Regulations, it is a defence for the person charged to prove that they took all reasonable steps and exercised all due diligence to ensure that the regulation in question was complied with.
 
@@ -1184,7 +1184,7 @@ and does not comply with the requirements of these Regulations.
 - (b) the discharge took place in waters that were not United Kingdom waters or controlled waters; and
 - (c) the ship was in a port in the United Kingdom at the time of the institution of the proceedings by reason only of stress of weather or any other reason beyond the control of the owner, manager, charterer or master of the ship.
 
-### 46. Restriction on jurisdiction over offences outside United Kingdom limits[^key-bf27539fc5bb586b6a4dc855d4d88a43]
+### 46. Restriction on jurisdiction over offences outside United Kingdom limits[^c-bf27539fc5bb586b6a4dc855d4d88a43]
 
 (1) In respect of a ship which is not a United Kingdom ship, proceedings for an offence under regulation 44(1)(a) (offences) alleged to have been committed in the internal waters, territorial sea or exclusive economic zone of a foreign State must not be instituted in the United Kingdom unless—
 
@@ -1195,7 +1195,7 @@ and does not comply with the requirements of these Regulations.
 
 (3) In this regulation “**exclusive economic zone**” in relation to a foreign State, means the area beyond and adjacent to the territorial sea of that State, but not extending beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.
 
-### 47. Suspension of proceedings at flag State request[^key-0dcfc440a2bc5323a83e674f310403fb]
+### 47. Suspension of proceedings at flag State request[^c-0dcfc440a2bc5323a83e674f310403fb]
 
 (1) This regulation applies to proceedings instituted but not concluded in the United Kingdom for an offence under regulation 44(1)(a) (offences) alleged to have been committed outside United Kingdom waters in relation to a ship which is not a United Kingdom ship.
 
@@ -1208,7 +1208,7 @@ and does not comply with the requirements of these Regulations.
 
 (4) Where proceedings instituted by the ship’s flag State have been brought to a conclusion, the suspended proceedings must be terminated.
 
-### 48. Service of documents on foreign companies[^key-b8cf877b0ce8adeaf49062ced68642fa]
+### 48. Service of documents on foreign companies[^c-b8cf877b0ce8adeaf49062ced68642fa]
 
 Section 143(6) of the 1995 Act[^f00018] (service of documents on foreign companies required or authorised by any statutory provision in connection with proceedings for an offence under section 131 of the 1995 Act) applies to proceedings for an offence under these Regulations as it applies to proceedings for an offence under section 131 (discharge of oil from ships into certain United Kingdom waters) of the 1995 Act, as if—
 
@@ -1218,7 +1218,7 @@ Section 143(6) of the 1995 Act[^f00018] (service of documents on foreign compani
   - (i) the owner of the ship were to the owner of the platform; and
   - (ii) the master of the ship were to the manager of the platform.
 
-### 49. Enforcement and application of fines[^key-237aa01b064ed117a9141c0642f56207]
+### 49. Enforcement and application of fines[^c-237aa01b064ed117a9141c0642f56207]
 
 Section 146 of the 1995 Act (enforcement and application of fines) applies to any fine for an offence under regulation 44(1)(a) (offences) as if—
 
@@ -1227,7 +1227,7 @@ Section 146 of the 1995 Act (enforcement and application of fines) applies to an
 
 ## PART 8 — Amendment
 
-### 50. Amendment to the Merchant Shipping (Fees) Regulations 2018[^key-b633c8d4ae5834b90a505a7bf9540240]
+### 50. Amendment to the Merchant Shipping (Fees) Regulations 2018[^c-b633c8d4ae5834b90a505a7bf9540240]
 
 In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shipping Act 1995) to the Merchant Shipping (Fees) Regulations 2018[^f00019] after the entry under heading J (prevention and control of pollution) relating to the Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018[^f00020], insert—
 
@@ -1237,7 +1237,7 @@ In the Table in paragraph 5 of Part 1 of Schedule 1 (fees under the Merchant Shi
 
 ## PART 9 — Review
 
-### 51. Review[^key-e8c7b2db9c22b601988c91157ac1d7eb]
+### 51. Review[^c-e8c7b2db9c22b601988c91157ac1d7eb]
 
 (1) The Secretary of State must from time to time—
 
@@ -1321,11 +1321,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: The consent of the Treasury is required to make these Regulations under section 302(1) of the Merchant Shipping Act [1995 (c. 21)](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-f0870e80be0dc69f80727125be725ddf]: Commencement: Reg. 1 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-f0870e80be0dc69f80727125be725ddf]: Commencement: Reg. 1 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-2b495db03b998c61873ef2601d7f99f1]: Commencement: Reg. 2 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-2b495db03b998c61873ef2601d7f99f1]: Commencement: Reg. 2 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-ea0998700d5c3665e1b7f7577cad560f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-ea0998700d5c3665e1b7f7577cad560f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(2)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^f00006]: Footnote: [S.I. 2014/3306](https://www.legislation.gov.uk/uksi/2014/3306).
 
@@ -1333,180 +1333,180 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00008]: Footnote: CP 557. This Convention was adopted on 13th February 2004 by the International Conference on Ballast Water Management for Ships, 2004, convened by the International Maritime Organization. It entered into force on 8th September 2017 and has been amended by IMO Resolutions MEPC.296(72), MEPC.297(72), MEPC.299(72), and MEPC.325(75). The Convention (ISBN 978-92-801-60963) is available from IMO Publishing, 4 Albert Embankment, London SE1 7SR, www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611. IMO Resolutions are available from the IMO Library, also of 4 Albert Embankment, London SE1 7SR.
 
-[^key-93bd1abc2cd8efacdd5d26a38afddf45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) inserted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/2/a)
+[^c-93bd1abc2cd8efacdd5d26a38afddf45]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) inserted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/2/a)
 
-[^key-ae263a6f42453e49c81927df5c313096]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/a)
+[^c-ae263a6f42453e49c81927df5c313096]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/a)
 
 [^f00009]: Footnote: The IMO is a special agency of the United Nations responsible for shipping safety and security, and the prevention of pollution.
 
-[^key-92909744089ab8a21bf2b564af3db9a3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) omitted (15.4.2026) by virtue of [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/2/b)
+[^c-92909744089ab8a21bf2b564af3db9a3]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2022/737/regulation/2) omitted (15.4.2026) by virtue of [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/2/b)
 
-[^key-6427ce079c98b98425abd9c6ec65a279]: Commencement: Reg. 3 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-6427ce079c98b98425abd9c6ec65a279]: Commencement: Reg. 3 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-29d8276a1af79a474492b12301336f72]: Commencement: Reg. 4 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-29d8276a1af79a474492b12301336f72]: Commencement: Reg. 4 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-b1788ff34badb88319db65f78895b54e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/4/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/3/a)
+[^c-b1788ff34badb88319db65f78895b54e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/4/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/3/a)
 
-[^key-91463a0b2dd50384a6397d0ba9bb0568]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/737/regulation/4/4) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/3/b)
+[^c-91463a0b2dd50384a6397d0ba9bb0568]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/737/regulation/4/4) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/3/b)
 
-[^key-1f932e1d25fb6e416245dc63493f36f4]: Commencement: Reg. 5 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-1f932e1d25fb6e416245dc63493f36f4]: Commencement: Reg. 5 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-a6502b1b83ddfa85315968cfd6367a09]: Commencement: Reg. 6 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-a6502b1b83ddfa85315968cfd6367a09]: Commencement: Reg. 6 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-fdec1d366e32dc7d5e292fdad6cb8b70]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/6/1) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/b)
+[^c-fdec1d366e32dc7d5e292fdad6cb8b70]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/6/1) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/b)
 
-[^key-159b53c1df96ef54e59523d169b956d5]: Commencement: Reg. 7 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-159b53c1df96ef54e59523d169b956d5]: Commencement: Reg. 7 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-222cd8314c908a48360a0810737a57d1]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/7/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/c)
+[^c-222cd8314c908a48360a0810737a57d1]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/7/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(c)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/c)
 
-[^key-12374fe2615370351217a41bc173cd92]: Commencement: Reg. 8 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-12374fe2615370351217a41bc173cd92]: Commencement: Reg. 8 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-12636134f4c017a4c59bfda83980de1b]: Commencement: Reg. 9 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-12636134f4c017a4c59bfda83980de1b]: Commencement: Reg. 9 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-d8787c6be2b31d01f9de7264ccac8dd1]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/9/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/d)
+[^c-d8787c6be2b31d01f9de7264ccac8dd1]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/9/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/d)
 
-[^key-cb03221f6e383a4af22083bfb48e23b4]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2022/737/regulation/9/4) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/d)
+[^c-cb03221f6e383a4af22083bfb48e23b4]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2022/737/regulation/9/4) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(d)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/d)
 
-[^key-c936f2302ccf0fe920b32378165a723e]: Commencement: Reg. 10 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-c936f2302ccf0fe920b32378165a723e]: Commencement: Reg. 10 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-0da4b3c093264e59925bba184829c080]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/1)[(1A)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/1A) substituted for [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/1) (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/4/a)
+[^c-0da4b3c093264e59925bba184829c080]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/1)[(1A)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/1A) substituted for [reg. 10(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/1) (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/4/a)
 
-[^key-0e09d9534558379ebc2316ce5f068dad]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/4/b)
+[^c-0e09d9534558379ebc2316ce5f068dad]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/2) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/4/b)
 
-[^key-5bbc2d12216773cd1f426c6ba92815ad]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/5) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/4/c)
+[^c-5bbc2d12216773cd1f426c6ba92815ad]: Textual amendment: [Reg. 10(5)](https://www.legislation.gov.uk/uksi/2022/737/regulation/10/5) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/4/c)
 
-[^key-9fc819459c754d6fb01b2c4d79c9f198]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2022/737/regulation/10A) inserted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/5)
+[^c-9fc819459c754d6fb01b2c4d79c9f198]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2022/737/regulation/10A) inserted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/5)
 
-[^key-9916023839d185e7c54e986b10a17aa7]: Commencement: Reg. 11 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-9916023839d185e7c54e986b10a17aa7]: Commencement: Reg. 11 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-b514963cb294b177038b9f8fe6ef3638]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2022/737/regulation/11/3) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/e)
+[^c-b514963cb294b177038b9f8fe6ef3638]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/uksi/2022/737/regulation/11/3) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/e)
 
-[^key-d0f079e3121249b4ce10ab201e6917a9]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/2022/737/regulation/11/7) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/e)
+[^c-d0f079e3121249b4ce10ab201e6917a9]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/uksi/2022/737/regulation/11/7) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(e)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/e)
 
-[^key-d21b5a04fb069c28c2aa3fa26a424a55]: Commencement: Reg. 12 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-d21b5a04fb069c28c2aa3fa26a424a55]: Commencement: Reg. 12 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-2b9022aea16b1f8f5690cc06ae1bff9a]: Commencement: Reg. 13 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-2b9022aea16b1f8f5690cc06ae1bff9a]: Commencement: Reg. 13 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-836e0b9b39fdc6f73f57851873a6ea17]: Commencement: Reg. 14 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-836e0b9b39fdc6f73f57851873a6ea17]: Commencement: Reg. 14 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-3527c1dba6f193a897373663a2d6e256]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2022/737/regulation/14/3) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(f)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/f)
+[^c-3527c1dba6f193a897373663a2d6e256]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2022/737/regulation/14/3) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(f)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/f)
 
-[^key-8b35c01770abc2b5ce5271c064eaea5d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/737/regulation/15) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-8b35c01770abc2b5ce5271c064eaea5d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/737/regulation/15) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-1c1f6163f931f488f77438862dc2c093]: Commencement: Reg. 16 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-1c1f6163f931f488f77438862dc2c093]: Commencement: Reg. 16 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-b5c5da950c4c1633fc0d195ed0747905]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/16/1) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-b5c5da950c4c1633fc0d195ed0747905]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/16/1) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(3)(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-db5644ac5ddc09d0c8f93b0a4c89d32d]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/16/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-db5644ac5ddc09d0c8f93b0a4c89d32d]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2022/737/regulation/16/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(3)(b)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/3/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-7cad5d4f2407ff895fd6a1b3085b8fad]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/737/regulation/17) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-7cad5d4f2407ff895fd6a1b3085b8fad]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/737/regulation/17) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-479814bb83fea637c26b26b902830ea4]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/737/regulation/18) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-479814bb83fea637c26b26b902830ea4]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/737/regulation/18) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-64ce815e1e0d7c56f102a52b547c1195]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/737/regulation/19) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-64ce815e1e0d7c56f102a52b547c1195]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/737/regulation/19) omitted (5.1.2026) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 18(4)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/18/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-1ae16a672ba75d90422ded5b12b14e02]: Commencement: Reg. 20 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-1ae16a672ba75d90422ded5b12b14e02]: Commencement: Reg. 20 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-5284e63c39c5ac6a1085bf7b90905255]: Commencement: Reg. 21 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-5284e63c39c5ac6a1085bf7b90905255]: Commencement: Reg. 21 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-c060338e0ca48b2f04209198fb62a598]: Commencement: Reg. 22 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-c060338e0ca48b2f04209198fb62a598]: Commencement: Reg. 22 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-346857ec369fcc78847c5081f75a63ee]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2022/737/regulation/22) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(g)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/g)
+[^c-346857ec369fcc78847c5081f75a63ee]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2022/737/regulation/22) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(g)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/g)
 
-[^key-d2a8e0a33f494ff7b5126b4415a0682f]: Commencement: Reg. 23 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-d2a8e0a33f494ff7b5126b4415a0682f]: Commencement: Reg. 23 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-6affd520d2cd2f3f1b35572d00541a99]: Commencement: Reg. 24 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-6affd520d2cd2f3f1b35572d00541a99]: Commencement: Reg. 24 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-49ef9982123a43aaee8c137f648cc3bd]: Commencement: Reg. 25 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-49ef9982123a43aaee8c137f648cc3bd]: Commencement: Reg. 25 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-a99cabe3a4a095e453d71e44e1a23c8b]: Commencement: Reg. 26 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-a99cabe3a4a095e453d71e44e1a23c8b]: Commencement: Reg. 26 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-0a23994b6ed3e2cb917698430c2fda77]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/26/1) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(h)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/h)
+[^c-0a23994b6ed3e2cb917698430c2fda77]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/26/1) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(h)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/h)
 
 [^f00010]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-1eaca80da863393bb7d756386a2f66de]: Commencement: Reg. 27 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-1eaca80da863393bb7d756386a2f66de]: Commencement: Reg. 27 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-eb6473971b2f32b89f2f5d67b1fc9d7f]: Commencement: Reg. 28 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-eb6473971b2f32b89f2f5d67b1fc9d7f]: Commencement: Reg. 28 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-c3a75fca65d8b29fa5832bdecfd9c8bc]: Commencement: Reg. 29 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-c3a75fca65d8b29fa5832bdecfd9c8bc]: Commencement: Reg. 29 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00011]: Footnote: The definition of “short voyage” derives from IMO Resolution A.1104(29). Resolutions of the IMO can be obtained from the IMO Library at 4 Albert Embankment, London SE1 7SR and www.imo.org/en/MediaCentre/Pages/Default.aspx; email: media@imo.org; telephone: 020 7587 3134. They will also be made available via the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/responsive/app/consolidatedSearch/#home).
 
-[^key-3f0db6b762ad89926807b1734416081a]: Commencement: Reg. 30 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-3f0db6b762ad89926807b1734416081a]: Commencement: Reg. 30 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-c9441a3e40fa14f2fde2a486b8893584]: Commencement: Reg. 31 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-c9441a3e40fa14f2fde2a486b8893584]: Commencement: Reg. 31 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-76703ed1d03074d52a84bd38e4caf964]: Commencement: Reg. 32 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-76703ed1d03074d52a84bd38e4caf964]: Commencement: Reg. 32 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-1152bfb153aa17b2a691aab75bac46b4]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/uksi/2022/737/regulation/32/4) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(i)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/i)
+[^c-1152bfb153aa17b2a691aab75bac46b4]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/uksi/2022/737/regulation/32/4) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(8)(i)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/8/i)
 
 [^f00012]: Footnote: The process for requesting this advice from the Secretary of State can be found in Marine Guidance Note MGN 675 (M+F). Copies of MGN 675 (M+F) can be obtained free of charge at www.gov.uk or in hard copy from the Maritime and Coastguard Agency of Spring Place, 105 Commercial Road, Southampton SO15 1EG.
 
-[^key-d7fea68fac8d51486c80cdfd8b9f222e]: Commencement: Reg. 33 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-d7fea68fac8d51486c80cdfd8b9f222e]: Commencement: Reg. 33 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-a18b7ec26e4656c1d44dd66a8a5ba100]: Commencement: Reg. 34 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-a18b7ec26e4656c1d44dd66a8a5ba100]: Commencement: Reg. 34 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-c86369e31c08759649e089284c88c3c7]: Commencement: Reg. 35 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-c86369e31c08759649e089284c88c3c7]: Commencement: Reg. 35 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-168024347e93c4af40a83e2330f3d254]: Commencement: Reg. 36 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-168024347e93c4af40a83e2330f3d254]: Commencement: Reg. 36 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00013]: Footnote: Merchant Shipping Notices are published by the Maritime and Coastguard Agency (“**MCA**”). Copies of MSN M.1613 can be obtained free of charge at www.gov.uk or in hard copy from the MCA of Spring Place, 105 Commercial Road, Southampton SO15 1EG.
 
 [^f00014]: Footnote: This Convention (“**STCW**”) was originally published in Cmnd. 7543 and subsequently in Cmnd. 9266. An electronic copy of Cmnd. 9266 can be found at https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=68238. The Annex to STCW was replaced in full in 2010 following a conference of the parties to STCW held in Manila, The Philippines. STCW has since been amended by IMO Resolutions MSC.396(95) and MSC.416(97). STCW is available from IMO Publishing, 4 Albert Embankment, London SE1 7SR; www.imo.org/publications; email: sales@imo.org; telephone: 0207 735 7611. IMO Resolutions are available from the IMO Library, also of 4 Albert Embankment, London SE1 7SR. A hard copy of Cmnd. 9266 is available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London, SW1A 0PW (catalogue number: HL/PO/JO/10/11/2230/2631).
 
-[^key-478898ae949594e95b0e0672fdcf40f8]: Commencement: Reg. 37 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-478898ae949594e95b0e0672fdcf40f8]: Commencement: Reg. 37 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-430e6448f23f116b578738f25b00e731]: Commencement: Reg. 38 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-430e6448f23f116b578738f25b00e731]: Commencement: Reg. 38 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00015]: Footnote: Section 258 is amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 4, and Schedule 7, Part 1, and the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), Schedule 2, Part 1 paragraph 2 and Schedule 10, Part 2.
 
-[^key-b5d607478406843f0a959830cdc829c4]: Commencement: Reg. 39 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-b5d607478406843f0a959830cdc829c4]: Commencement: Reg. 39 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-25938a63550702f0ccaaad9386400d27]: Commencement: Reg. 40 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-25938a63550702f0ccaaad9386400d27]: Commencement: Reg. 40 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00016]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 5, and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664), Schedule 4, Part 1, paragraph 27(1) and (15).
 
-[^key-f807330e1a519f252a10a43456a1dc95]: Commencement: Reg. 41 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-f807330e1a519f252a10a43456a1dc95]: Commencement: Reg. 41 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-1db61d5855e0a03425b04b178bcc888c]: Commencement: Reg. 42 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-1db61d5855e0a03425b04b178bcc888c]: Commencement: Reg. 42 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-bc244e10e9db62667a9cc3f30236e0f2]: Commencement: Reg. 43 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-bc244e10e9db62667a9cc3f30236e0f2]: Commencement: Reg. 43 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-0d1aba48a0b5e15e4f02181581bb3a16]: Textual amendment: Words in reg. 43(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-0d1aba48a0b5e15e4f02181581bb3a16]: Textual amendment: Words in reg. 43(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-c6da8f2583fda5a2502628d4e1dacb70]: Textual amendment: Word in reg. 43(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-c6da8f2583fda5a2502628d4e1dacb70]: Textual amendment: Word in reg. 43(1) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-445b393b90739c0386d44dd79ec291c8]: Textual amendment: Words in reg. 43(1) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-445b393b90739c0386d44dd79ec291c8]: Textual amendment: Words in reg. 43(1) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-5f814793001b08ed2978edb2edc518a6]: Textual amendment: Reg. 43(2)(b)(ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-5f814793001b08ed2978edb2edc518a6]: Textual amendment: Reg. 43(2)(b)(ii) omitted (23.6.2026) by virtue of [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-8657431f2535e75277259b8e76b2c83d]: Textual amendment: Word in reg. 43(2)(c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
+[^c-8657431f2535e75277259b8e76b2c83d]: Textual amendment: Word in reg. 43(2)(c) substituted (23.6.2026) by [The Merchant Shipping (Port State Control) Regulations 2026 (S.I. 2026/563)](https://www.legislation.gov.uk/uksi/2026/563), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/563/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2026/563/schedule/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/563/regulation/4))
 
-[^key-0f5251fdd875959e3cca0c96d7ca9b2f]: Commencement: Reg. 44 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-0f5251fdd875959e3cca0c96d7ca9b2f]: Commencement: Reg. 44 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-571dbdf785e72ba65a06f3dd5d6e5189]: Textual amendment: Word in [reg. 44(1)(b)](https://www.legislation.gov.uk/uksi/2022/737/regulation/44/1/b) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/6/a)
+[^c-571dbdf785e72ba65a06f3dd5d6e5189]: Textual amendment: Word in [reg. 44(1)(b)](https://www.legislation.gov.uk/uksi/2022/737/regulation/44/1/b) substituted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/6/a)
 
-[^key-564052c7880cb55129eba45e27699d7a]: Textual amendment: Words in [reg. 44(1)(b)](https://www.legislation.gov.uk/uksi/2022/737/regulation/44/1/b) inserted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/6/b)
+[^c-564052c7880cb55129eba45e27699d7a]: Textual amendment: Words in [reg. 44(1)(b)](https://www.legislation.gov.uk/uksi/2022/737/regulation/44/1/b) inserted (15.4.2026) by [The Merchant Shipping (Control and Management of Ships’ Ballast Water and Sediments) (Amendment) Regulations 2026 (S.I. 2026/305)](https://www.legislation.gov.uk/uksi/2026/305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/305/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2026/305/regulation/2/6/b)
 
-[^key-73837bce9b987010fe4b8b6430178afe]: Commencement: Reg. 45 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-73837bce9b987010fe4b8b6430178afe]: Commencement: Reg. 45 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-bf27539fc5bb586b6a4dc855d4d88a43]: Commencement: Reg. 46 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-bf27539fc5bb586b6a4dc855d4d88a43]: Commencement: Reg. 46 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-0dcfc440a2bc5323a83e674f310403fb]: Commencement: Reg. 47 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-0dcfc440a2bc5323a83e674f310403fb]: Commencement: Reg. 47 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-b8cf877b0ce8adeaf49062ced68642fa]: Commencement: Reg. 48 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-b8cf877b0ce8adeaf49062ced68642fa]: Commencement: Reg. 48 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00018]: Footnote: Section 143(6) is amended by [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), Schedule 1, paragraph 152(1) and (2).
 
-[^key-237aa01b064ed117a9141c0642f56207]: Commencement: Reg. 49 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-237aa01b064ed117a9141c0642f56207]: Commencement: Reg. 49 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
-[^key-b633c8d4ae5834b90a505a7bf9540240]: Commencement: Reg. 50 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-b633c8d4ae5834b90a505a7bf9540240]: Commencement: Reg. 50 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00019]: Footnote: ()[S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
 [^f00020]: Footnote: ()[S.I. 2018/68](https://www.legislation.gov.uk/uksi/2018/68).
 
-[^key-e8c7b2db9c22b601988c91157ac1d7eb]: Commencement: Reg. 51 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
+[^c-e8c7b2db9c22b601988c91157ac1d7eb]: Commencement: Reg. 51 in force at 29.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/737/regulation/1/1)
 
 [^f00021]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and Schedule 8, Part 2, paragraph 36 to the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Notices and signs relating to SSSIs[^key-a4d9435a0e8668752a95b07f6a6b6742]
+## 58. Notices and signs relating to SSSIs[^c-a4d9435a0e8668752a95b07f6a6b6742]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d9435a0e8668752a95b07f6a6b6742]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2006/16/section/58) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-a4d9435a0e8668752a95b07f6a6b6742]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2006/16/section/58) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

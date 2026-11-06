@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Confiscation and victim surcharge orders[^key-76d526708c8ef7aa1f78541856d40b1b]
+## 6. Confiscation and victim surcharge orders[^c-76d526708c8ef7aa1f78541856d40b1b]
 
 *Extent: E+W*
 
@@ -32,14 +32,14 @@ summary: ''
 > - (b) an order requiring payment of a surcharge under section 161A of the Criminal Justice Act 2003;
 > - (c) an unlawful profit order under section 4 of the Prevention of Social Housing Fraud Act 2013.
 
-(4)[^key-39b1b31b476b8887046cff6aa80ea3ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-39b1b31b476b8887046cff6aa80ea3ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-de5200cf3eab3f9d5dde7a20b79c210b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-de5200cf3eab3f9d5dde7a20b79c210b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76d526708c8ef7aa1f78541856d40b1b]: Commencement: S. 6 in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/c)
+[^c-76d526708c8ef7aa1f78541856d40b1b]: Commencement: S. 6 in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/c)
 
-[^key-39b1b31b476b8887046cff6aa80ea3ab]: Textual amendment: S. 6(4) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/39); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-39b1b31b476b8887046cff6aa80ea3ab]: Textual amendment: S. 6(4) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/39); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-de5200cf3eab3f9d5dde7a20b79c210b]: Textual amendment: S. 6(5) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/39); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-de5200cf3eab3f9d5dde7a20b79c210b]: Textual amendment: S. 6(5) omitted (29.6.2026) by virtue of [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/39); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

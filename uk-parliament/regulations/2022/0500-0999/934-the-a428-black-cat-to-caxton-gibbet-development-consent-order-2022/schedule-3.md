@@ -22,7 +22,7 @@ summary: ''
 
 Articles 13 and 19
 
-### PART 1 — TRUNK ROADS[^key-8127b7648e09ce5d56cf5fa882ae26e5]
+### PART 1 — TRUNK ROADS[^c-8127b7648e09ce5d56cf5fa882ae26e5]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -53,7 +53,7 @@ Articles 13 and 19
 | Cambridgeshire County Council,<br>Elsworth CP,<br>Cambourne CP | The Caxton Gibbet junction westbound off-slip road between points 14/9 and 14/10 on Sheet 14, as shown on the classification of road plans, comprising a length of 511 metres. |
 | Cambridgeshire County Council,<br>Caxton CP,<br>Papworth Everard CP | The Caxton Gibbet junction westbound on-slip road between points 14/17 and 14/18 on Sheet 14, as shown on the classification of road plans, comprising a length of 455 metres. |
 
-### PART 2 — CLASSIFIED ROADS[^key-80c10afc8d8f445c8297d750c134979d]
+### PART 2 — CLASSIFIED ROADS[^c-80c10afc8d8f445c8297d750c134979d]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -97,7 +97,7 @@ Articles 13 and 19
 | Cambridgeshire County Council,<br>Papworth Everard CP,<br>Caxton CP | The Caxton Gibbet junction south west roundabout, point 14/16 on Sheet 14, as shown on the classification of road plans, comprising a length of 131 metres. |
 | Cambridgeshire County Council,<br>Papworth Everard CP,<br>Caxton CP | The realigned A1198 between points 14/12 and 14/13 on Sheet 14, as shown on the classification of road plans, comprising a length of 73 metres. |
 
-### PART 3 — UNCLASSIFIED ROADS[^key-9bfcfaa0ad9c2a2ade8d5a51e4739640]
+### PART 3 — UNCLASSIFIED ROADS[^c-9bfcfaa0ad9c2a2ade8d5a51e4739640]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of road* |
 | --- | --- |
@@ -109,7 +109,7 @@ Articles 13 and 19
 | Bedford Borough Council,<br>Wyboston, Chawston & Colesden CP | The Nagshead Lane link road between points 2/16 and 2/17 on Sheet 2, as shown on the classification of road plans, comprising a length of 32 metres. |
 | Bedford Borough Council,<br>Wyboston, Chawston & Colesden CP | The realigned The Lane between points 2/4 and 2/6 on Sheet 2, as shown on the classification of road plans, comprising a length of 112 metres. |
 
-### PART 4 — SPEED LIMITS[^key-649ff38de3772981ef8ef9037b7cffdb]
+### PART 4 — SPEED LIMITS[^c-649ff38de3772981ef8ef9037b7cffdb]
 
 **Note 1:** the naming conventions used in this Schedule to describe roads, junctions and structures relate to the naming conventions used in the labels on the permanent speed limit plans.
 
@@ -185,13 +185,13 @@ Articles 13 and 19
 | Papworth Everard CP | The Caxton Gibbet junction south west link road (westbound) between Caxton Gibbet junction south and south west roundabouts for a total distance of 183 metres, as shown on Sheet 14 of the permanent speed limit plans. | National Speed Limit |
 | Papworth Everard CP | The Caxton Gibbet junction south west link road (eastbound) between Caxton Gibbet junction south west and south roundabouts for a total distance of 182 metres, as shown on Sheet 14 of the permanent speed limit plans. | National Speed Limit |
 
-### PART 5 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^key-594d7c702582790736b9195b6499629f]
+### PART 5 — TRAFFIC REGULATION MEASURES (CLEARWAYS AND PROHIBITIONS)[^c-594d7c702582790736b9195b6499629f]
 
 In this Part of this Schedule, “**authorised vehicle**” has the same meaning as that given in article 14(16).
 
 | *(1)*<br>*Parish(es)* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Measures* |
 | --- | --- | --- |
-| Roxton CP,<br>Tempsford CP,<br>Little Barford CP,<br>Abbotsley CP,<br>Toseland CP,<br>Yelling CP,<br>Croxton CP,<br>Eltisley CP,<br>Caxton CP,<br>Papworth Everard CP,<br>Elsworth CP,<br>Wyboston, Chawston & Colesden CP,<br>Cambourne CP | The new dual carriageway (eastbound) from point AA on Sheet 1 to point OA on Sheet 15 as shown on Sheets 1, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 and 15 of the traffic regulation measures plans, for a total distance of 18825 metres. | Clearway (to include verges and hard strips, but to exclude lay-bys)[^key-b69bc9bf980041f2315cceb2ef34fb49] |
+| Roxton CP,<br>Tempsford CP,<br>Little Barford CP,<br>Abbotsley CP,<br>Toseland CP,<br>Yelling CP,<br>Croxton CP,<br>Eltisley CP,<br>Caxton CP,<br>Papworth Everard CP,<br>Elsworth CP,<br>Wyboston, Chawston & Colesden CP,<br>Cambourne CP | The new dual carriageway (eastbound) from point AA on Sheet 1 to point OA on Sheet 15 as shown on Sheets 1, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 and 15 of the traffic regulation measures plans, for a total distance of 18825 metres. | Clearway (to include verges and hard strips, but to exclude lay-bys)[^c-b69bc9bf980041f2315cceb2ef34fb49] |
 | Roxton CP,<br>Tempsford CP,<br>Little Barford CP,<br>Abbotsley CP,<br>Toseland CP,<br>Yelling CP,<br>Croxton CP,<br>Eltisley CP,<br>Caxton CP,<br>Papworth Everard CP,<br>Elsworth CP,<br>Wyboston, Chawston & Colesden CP,<br>Cambourne CP | The new dual carriageway (westbound) from point AS on Sheet 1 to point OB on Sheet 15 as shown on Sheets 1, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 and 15 of the traffic regulation measures plans, for a total distance of 18825 metres. | Clearway (to include verges and hard strips, but to exclude lay-bys) |
 | Roxton CP, Wyboston, Chawston & Colesden CP | Reference AT<br>The whole length of Black Cat junction circulatory on Sheet 1 of the traffic regulation measures plans, for a total distance of 669 metres. | Clearway (to include verges and hard strips) |
 | Wyboston, Chawston & Colesden CP | The Black Cat junction eastbound off-slip road from point AB to point AD on Sheet 1 of the traffic regulation measures plans, for a total distance of 615 metres. | Clearway (to include verges and hard strips) |
@@ -257,7 +257,7 @@ In this Part of this Schedule, “**authorised vehicle**” has the same meaning
 | Papworth Everard CP | Reference S<br>The Caxton Gibbet junction eastbound off-slip road (access from Caxton Gibbet junction north roundabout to the Caxton Gibbet junction eastbound off-slip road) as shown on Sheet 14 of the traffic regulation measures plans. | Prohibition (No Entry) |
 | Elsworth CP | Reference T<br>The Caxton Gibbet junction westbound off-slip road (access from Caxton Gibbet junction south roundabout to the Caxton Gibbet junction westbound off-slip road) as shown on Sheet 14 of the traffic regulation measures plans. | Prohibition (No Entry) |
 
-### PART 6 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-57b5a6b9f1efee46a4650daf08ac1d5f]
+### PART 6 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-57b5a6b9f1efee46a4650daf08ac1d5f]
 
 | *(1)*<br>*Parishes* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Title of Order* | *(4)*<br>*Revocations or Variations* |
 | --- | --- | --- | --- |
@@ -288,7 +288,7 @@ In this Part of this Schedule, “**authorised vehicle**” has the same meaning
 | Eltisley CP, Papworth Everard CP, Abbotsley CP | Existing A428 carriageway from point N04 on Sheet 14 to point O01 on Sheet 15 of the traffic regulation measures plans, a total distance of 867 metres. | Order not cited | Clearway order to be varied, removing the length, between the points stated in column (2). |
 | Eltisley CP, Papworth Everard CP, Abbotsley CP | Existing A428 carriageway from point N05 on Sheet 14 to point O02 on Sheet 15 of the traffic regulation measures plans, a total distance of 859 metres. | Order not cited | Clearway order to be varied, removing the length, between the points stated in column (2). |
 
-### PART 7 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS, BRIDLEPATHS AND BRIDLEWAYS[^key-82fb988c6fa7edc522890f2541a65be5]
+### PART 7 — FOOTPATHS, CYCLE TRACKS, FOOTWAYS, BRIDLEPATHS AND BRIDLEWAYS[^c-82fb988c6fa7edc522890f2541a65be5]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of Footpath/Cycle Track/Footway/Bridlepath/Bridleway* |
 | --- | --- |
@@ -311,7 +311,7 @@ In this Part of this Schedule, “**authorised vehicle**” has the same meaning
 | Cambridgeshire County Council, Abbotsley CP | 228 metres of cycle track from point 9/6 to point 9/7 as shown on Sheet 9 of the streets, rights of way and access plans. |
 | Cambridgeshire County Council, Abbotsley CP | 101 metres of cycle track from point 9/8 to point 9/9 as shown on Sheet 9 of the streets, rights of way and access plans. |
 | Cambridgeshire County Council, Abbotsley CP | 58 metres of cycle track from point 9/10 to point 9/11 as shown on Sheet 9 of the streets, rights of way and access plans. |
-| Cambridgeshire County Council, Abbotsley CP | 552 metres of bridleway from point 9/12 to point 10/1 as shown on Sheets 9 and 10 of the streets, rights of way and access plans.[^key-61c927577eef43ab9bb08e0cba8441d9] |
+| Cambridgeshire County Council, Abbotsley CP | 552 metres of bridleway from point 9/12 to point 10/1 as shown on Sheets 9 and 10 of the streets, rights of way and access plans.[^c-61c927577eef43ab9bb08e0cba8441d9] |
 | Cambridgeshire County Council, Abbotsley CP | 60 metres of bridlepath from point 9/13 to point 9/14 as shown on Sheet 9 of the streets, rights of way and access plans. |
 | Cambridgeshire County Council, Abbotsley CP | 8 metres of bridlepath from point 9/15 to 9/16 as shown on Sheet 9 of the streets, rights of way and access plans. |
 | Cambridgeshire County Council, Croxton CP | 309 metres of footway from point 11/1 to point 11/2 as shown on Sheet 11 of the streets, rights of way and access plans. |
@@ -331,7 +331,7 @@ In this Part of this Schedule, “**authorised vehicle**” has the same meaning
 | Cambridgeshire County Council, Caxton CP, Papworth Everard CP | 25 metres of footway from point 14/8 to point 14/9 as shown on Sheet 14 of the streets, rights of way and access plans. |
 | Cambridgeshire County Council, Papworth Everard CP | 41 metres of footway from point 14/10 to point 14/11 as shown on Sheet 14 of the streets, rights of way and access plans. |
 
-### PART 8 — ROADS TO BE DE-TRUNKED[^key-e13a1625e1476a77e49b5d05b6bf0dfc]
+### PART 8 — ROADS TO BE DE-TRUNKED[^c-e13a1625e1476a77e49b5d05b6bf0dfc]
 
 | *(1)*<br>*Area* | *(2)*<br>*Length of Road* |
 | --- | --- |
@@ -343,22 +343,22 @@ In this Part of this Schedule, “**authorised vehicle**” has the same meaning
 
 ## Annotations
 
-[^key-8127b7648e09ce5d56cf5fa882ae26e5]: Commencement: Sch. 3 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-8127b7648e09ce5d56cf5fa882ae26e5]: Commencement: Sch. 3 Pt. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-80c10afc8d8f445c8297d750c134979d]: Commencement: Sch. 3 Pt. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-80c10afc8d8f445c8297d750c134979d]: Commencement: Sch. 3 Pt. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-9bfcfaa0ad9c2a2ade8d5a51e4739640]: Commencement: Sch. 3 Pt. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-9bfcfaa0ad9c2a2ade8d5a51e4739640]: Commencement: Sch. 3 Pt. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-649ff38de3772981ef8ef9037b7cffdb]: Commencement: Sch. 3 Pt. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-649ff38de3772981ef8ef9037b7cffdb]: Commencement: Sch. 3 Pt. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-594d7c702582790736b9195b6499629f]: Commencement: Sch. 3 Pt. 5 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-594d7c702582790736b9195b6499629f]: Commencement: Sch. 3 Pt. 5 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-b69bc9bf980041f2315cceb2ef34fb49]: Textual amendment: Words in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/934/schedule/3/part/5) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-b69bc9bf980041f2315cceb2ef34fb49]: Textual amendment: Words in [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2022/934/schedule/3/part/5) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
 
-[^key-57b5a6b9f1efee46a4650daf08ac1d5f]: Commencement: Sch. 3 Pt. 6 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-57b5a6b9f1efee46a4650daf08ac1d5f]: Commencement: Sch. 3 Pt. 6 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-82fb988c6fa7edc522890f2541a65be5]: Commencement: Sch. 3 Pt. 7 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-82fb988c6fa7edc522890f2541a65be5]: Commencement: Sch. 3 Pt. 7 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
-[^key-61c927577eef43ab9bb08e0cba8441d9]: Textual amendment: Words in [Sch. 3 Pt. 7](https://www.legislation.gov.uk/uksi/2022/934/schedule/3/part/7) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-61c927577eef43ab9bb08e0cba8441d9]: Textual amendment: Words in [Sch. 3 Pt. 7](https://www.legislation.gov.uk/uksi/2022/934/schedule/3/part/7) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
 
-[^key-e13a1625e1476a77e49b5d05b6bf0dfc]: Commencement: Sch. 3 Pt. 8 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-e13a1625e1476a77e49b5d05b6bf0dfc]: Commencement: Sch. 3 Pt. 8 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

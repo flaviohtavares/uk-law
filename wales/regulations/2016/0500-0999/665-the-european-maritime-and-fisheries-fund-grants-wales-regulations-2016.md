@@ -49,13 +49,13 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972. It appears to the Welsh Ministers that it is expedient for the references in these Regulations to all EU instruments to be construed as references to those instruments as amended from time to time.
 
-## 1. Title, application and commencement[^key-c58a08679a291e95c5f4a37792ec16e0]
+## 1. Title, application and commencement[^c-c58a08679a291e95c5f4a37792ec16e0]
 
 (1) The title of these Regulations is the European Maritime and Fisheries Fund (Grants) (Wales) Regulations 2016.
 
 (2) These Regulations apply in relation to Wales and come into force on 20 July 2016.
 
-## 2. Interpretation[^key-4a9405982adeab49fb5670990e5b5988]
+## 2. Interpretation[^c-4a9405982adeab49fb5670990e5b5988]
 
 (1) In these Regulations, unless the context requires otherwise—
 
@@ -72,9 +72,9 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - “premises” (“*mangre*”) includes any vessel, place, vehicle, trailer or container;
 - “Regulation 508/2014” (“*Rheoliad 508/2014*”) means Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund[^f00004].
 
-(2) Any reference in these Regulations to an EU instrument is , so far as required for the purposes of relevant separation agreement law, a reference to that instrument as it has effect by virtue of section 7A of the European Union (Withdrawal) Act 2018 (including, so far as required, as it has effect from time to time) and “relevant separation agreement law” has the meaning given in section 7C(3) of the European Union (Withdrawal) Act 2018[^key-d9353b12cf77fb4193a839e1f6d4a068].
+(2) Any reference in these Regulations to an EU instrument is , so far as required for the purposes of relevant separation agreement law, a reference to that instrument as it has effect by virtue of section 7A of the European Union (Withdrawal) Act 2018 (including, so far as required, as it has effect from time to time) and “relevant separation agreement law” has the meaning given in section 7C(3) of the European Union (Withdrawal) Act 2018[^c-d9353b12cf77fb4193a839e1f6d4a068].
 
-## 3. Financial assistance[^key-c2f1bbb5844281490aff70d1f465dabd]
+## 3. Financial assistance[^c-c2f1bbb5844281490aff70d1f465dabd]
 
 (1) The Welsh Ministers may pay financial assistance to a beneficiary in connection with an approved operation.
 
@@ -83,7 +83,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (a) at such a time, or by such instalments at such intervals or times, as they think fit; and
 - (b) subject to such conditions relating to payment as they may determine.
 
-## 4. Approval of application[^key-b25edf54c713a715629eab2ec7a3d3e1]
+## 4. Approval of application[^c-b25edf54c713a715629eab2ec7a3d3e1]
 
 (1) An application for approval of an operation must—
 
@@ -100,23 +100,23 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (b) give the beneficiary an opportunity to make written representations within such time (set out in the notice under sub-paragraph (a)) as the Welsh Ministers consider reasonable; and
 - (c) consider any representations made.
 
-## 5. Advertisement of financial assistance and claims[^key-89671b3505483390e90b47c6b98d4a93]
+## 5. Advertisement of financial assistance and claims[^c-89671b3505483390e90b47c6b98d4a93]
 
 The Welsh Ministers must advertise the financial assistance available, and provide application forms and guidance notes for completing applications.
 
-## 6. Provision of information[^key-dc029946e38083951e6f75353688e423]
+## 6. Provision of information[^c-dc029946e38083951e6f75353688e423]
 
 (1) A beneficiary must supply to the Welsh Ministers such information about an approved operation as the Welsh Ministers may require.
 
 (2) Where the Welsh Ministers require information under paragraph (1), the beneficiary must supply that information within such period as the Welsh Ministers may determine.
 
-## 7. Evidence of expenditure or action[^key-f5a42b85160e125e64bda4fb83dd3072]
+## 7. Evidence of expenditure or action[^c-f5a42b85160e125e64bda4fb83dd3072]
 
 (1) The Welsh Ministers may not make any payments of financial assistance unless they are satisfied that a beneficiary has properly incurred expenditure or has carried out any necessary actions relating to the approved operation.
 
 (2) For the purposes of paragraph (1), satisfactory evidence that the amount of expenditure for which financial assistance is claimed has been incurred may be supplied by the beneficiary to the Welsh Ministers.
 
-## 8. Powers of entry[^key-970efb82b25f59e753f57f3d2b70006f]
+## 8. Powers of entry[^c-970efb82b25f59e753f57f3d2b70006f]
 
 (1) An authorised person may, at all reasonable times and on production, if so required, of their authority to do so, enter any premises, other than premises which are used wholly or mainly as a private dwelling—
 
@@ -154,7 +154,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (8) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before entry.
 
-## 9. Powers of an authorised person[^key-350e9b05eeda9a0c2e9ea17569750f05]
+## 9. Powers of an authorised person[^c-350e9b05eeda9a0c2e9ea17569750f05]
 
 (1)  An authorised person who has entered any premises by virtue of regulation 8 may—
 
@@ -172,7 +172,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (5) In this regulation, “the operation” (“*y gweithrediad*”) means the approved operation in relation to which entry onto premises has been sought pursuant to regulation 8.
 
-## 10. Record keeping[^key-86ea2948d19b95ec1c99c6567a770475]
+## 10. Record keeping[^c-86ea2948d19b95ec1c99c6567a770475]
 
 (1) Subject to paragraphs (2) and (3), a beneficiary must retain any invoice, account or other document relating to an approved operation until the end of six years after the last payment of financial assistance made to the beneficiary pursuant to these Regulations relating to an approved operation.
 
@@ -180,7 +180,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (3) Where, in the normal course of business, a beneficiary transfers the original of any document referred to in paragraph (1) to another person, the beneficiary must retain a copy of that document until the end of the period specified in paragraph (1).
 
-## 11. Powers of recovery etc.[^key-ee55a4050eb79dec5e8cc0805def1533]
+## 11. Powers of recovery etc.[^c-ee55a4050eb79dec5e8cc0805def1533]
 
 (1) The Welsh Ministers may exercise the powers specified in paragraph (2) where they are satisfied, as regards an approved operation, that—
 
@@ -212,7 +212,7 @@ for any of the purposes mentioned in paragraph (2).
 
 (4) For the purposes of paragraph (1)(j), a sum duplicates financial assistance if it is, or would be, paid for any of the same purposes.
 
-## 12. Recovery of interest[^key-c33428af3565bed014274e8ef4fb4b09]
+## 12. Recovery of interest[^c-c33428af3565bed014274e8ef4fb4b09]
 
 (1) Where the Welsh Ministers exercise the powers conferred by regulation 11(2)(c), they may also recover, on demand, interest on the sum to be recovered at the rate of one percentage point above the Bank of England base rate in respect of each day of the period from the day on which the financial assistance was granted until the day on which the Welsh Ministers recover the amount.
 
@@ -223,11 +223,11 @@ for any of the purposes mentioned in paragraph (2).
 
 (3) In any proceedings relating to this regulation, a certificate of the Welsh Ministers stating the Bank of England base rate applicable during a period specified in the certificate is deemed to be conclusive evidence of the rate applicable in the specified period if the certificate also states that the Bank of England notified the Welsh Ministers of that rate.
 
-## 13. Sums payable to the Welsh Ministers to be recoverable as a debt[^key-db79880a21b03c6c391a796a0782026e]
+## 13. Sums payable to the Welsh Ministers to be recoverable as a debt[^c-db79880a21b03c6c391a796a0782026e]
 
 In any case where an amount falls to be paid to the Welsh Ministers by virtue of these Regulations (or by virtue of action taken under these Regulations), such amount is recoverable as a debt.
 
-## 14. Offences and penalties[^key-77d218bb14bd4bb3b0c1c0d0545d526c]
+## 14. Offences and penalties[^c-77d218bb14bd4bb3b0c1c0d0545d526c]
 
 (1) A person is guilty of an offence if—
 
@@ -252,7 +252,7 @@ In any case where an amount falls to be paid to the Welsh Ministers by virtue of
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which evidence sufficient, in the opinion of the prosecutor, to justify the proceedings came to their knowledge is conclusive evidence of that fact;
 - (b) a certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
 
-## 15. Corporate, partnership and unincorporated association offences[^key-1239d6006e744b6291c8fdac575f27de]
+## 15. Corporate, partnership and unincorporated association offences[^c-1239d6006e744b6291c8fdac575f27de]
 
 (1) Where—
 
@@ -279,11 +279,11 @@ the relevant individual as well as the body corporate, partnership or unincorpor
 
 (5) A fine imposed on a partnership or unincorporated association on its conviction of an offence under these Regulations is to be paid out of the funds of the partnership or unincorporated association.
 
-## 16. Undertakings[^key-2f4e7288c3d842b617c783dad6ea309c]
+## 16. Undertakings[^c-2f4e7288c3d842b617c783dad6ea309c]
 
 The Welsh Ministers may require a beneficiary to give such undertakings as the Welsh Ministers consider appropriate to the case.
 
-## 17. Revocation and transitional provisions[^key-20f37e5f5a48ded7bfad5457a1b56b76]
+## 17. Revocation and transitional provisions[^c-20f37e5f5a48ded7bfad5457a1b56b76]
 
 (1) Subject to paragraph (2) the European Fisheries Fund (Grants) (Wales) Regulations 2009[^f00008] (“the 2009 Regulations”) are revoked.
 
@@ -297,15 +297,15 @@ Cabinet Secretary for Environment and Rural Affairs, one of the Welsh Ministers
 
 Regulation 2
 
-**1.**[^key-368b88ab36851a7bdb0a3fa5bf8411ce] Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00009].
+**1.**[^c-368b88ab36851a7bdb0a3fa5bf8411ce] Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation [(EC) No 1083/2006](https://www.legislation.gov.uk/european/regulation/2006/1083)[^f00009].
 
-**2.**[^key-94495ee0d915f0705d732541fc415bc9] Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations [(EC) No 1184/2006](https://www.legislation.gov.uk/european/regulation/2006/1184) and [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) and repealing Council Regulation [(EC) No 104/2000](https://www.legislation.gov.uk/european/regulation/2000/0104)[^f00010].
+**2.**[^c-94495ee0d915f0705d732541fc415bc9] Regulation (EU) No 1379/2013 of the European Parliament and of the Council of 11 December 2013 on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations [(EC) No 1184/2006](https://www.legislation.gov.uk/european/regulation/2006/1184) and [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) and repealing Council Regulation [(EC) No 104/2000](https://www.legislation.gov.uk/european/regulation/2000/0104)[^f00010].
 
-**3.**[^key-04791f07e1072ea721405377340f7ccb] Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations [(EC) No 1954/2003](https://www.legislation.gov.uk/european/regulation/2003/1954) and [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) and repealing Council Regulations [(EC) No 2371/2002](https://www.legislation.gov.uk/european/regulation/2002/2371) and [(EC) No 639/2004](https://www.legislation.gov.uk/european/regulation/2004/0639) and Council [Decision 2004/585/EC](https://www.legislation.gov.uk/european/decision/2004/0585)[^f00011].
+**3.**[^c-04791f07e1072ea721405377340f7ccb] Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations [(EC) No 1954/2003](https://www.legislation.gov.uk/european/regulation/2003/1954) and [(EC) No 1224/2009](https://www.legislation.gov.uk/european/regulation/2009/1224) and repealing Council Regulations [(EC) No 2371/2002](https://www.legislation.gov.uk/european/regulation/2002/2371) and [(EC) No 639/2004](https://www.legislation.gov.uk/european/regulation/2004/0639) and Council [Decision 2004/585/EC](https://www.legislation.gov.uk/european/decision/2004/0585)[^f00011].
 
-**4.**[^key-2a3a611c36d595c252bf80176aacdd0d] Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations [(EC) No 2328/2003](https://www.legislation.gov.uk/european/regulation/2003/2328), [(EC) No 861/2006](https://www.legislation.gov.uk/european/regulation/2006/0861), [(EC) No 1198/2006](https://www.legislation.gov.uk/european/regulation/2006/1198) and [(EC) No 791/2007](https://www.legislation.gov.uk/european/regulation/2007/0791) and Regulation (EU) No 1255/2011 of the European Parliament and of the Council[^f00012].
+**4.**[^c-2a3a611c36d595c252bf80176aacdd0d] Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations [(EC) No 2328/2003](https://www.legislation.gov.uk/european/regulation/2003/2328), [(EC) No 861/2006](https://www.legislation.gov.uk/european/regulation/2006/0861), [(EC) No 1198/2006](https://www.legislation.gov.uk/european/regulation/2006/1198) and [(EC) No 791/2007](https://www.legislation.gov.uk/european/regulation/2007/0791) and Regulation (EU) No 1255/2011 of the European Parliament and of the Council[^f00012].
 
-**5.**[^key-dc410c7b7e297fbdc5e9c47b1e1f2908] Commission Implementing Regulation (EU) No 772/2014 of 14 July 2014 laying down the rules on intensity of public aid to be applied to the total eligible expenditure of certain operations financed under the European Maritime and Fisheries Fund[^f00013].
+**5.**[^c-dc410c7b7e297fbdc5e9c47b1e1f2908] Commission Implementing Regulation (EU) No 772/2014 of 14 July 2014 laying down the rules on intensity of public aid to be applied to the total eligible expenditure of certain operations financed under the European Maritime and Fisheries Fund[^f00013].
 
 EXPLANATORY NOTE
 
@@ -335,68 +335,68 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006.
 
-[^key-c58a08679a291e95c5f4a37792ec16e0]: Commencement: Reg. 1 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-c58a08679a291e95c5f4a37792ec16e0]: Commencement: Reg. 1 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-4a9405982adeab49fb5670990e5b5988]: Commencement: Reg. 2 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-4a9405982adeab49fb5670990e5b5988]: Commencement: Reg. 2 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00004]: Footnote: OJ No L 149, 20.05.2014, p. 1.
 
-[^key-d9353b12cf77fb4193a839e1f6d4a068]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [S.I. 2019/370](https://www.legislation.gov.uk/uksi/2019/370), [reg. 4](https://www.legislation.gov.uk/uksi/2019/370/regulation/4) (as substituted by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1249)](https://www.legislation.gov.uk/uksi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1249/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1249/regulation/4))
+[^c-d9353b12cf77fb4193a839e1f6d4a068]: Textual amendment: Words in reg. 2(2) substituted (31.12.2020) by [S.I. 2019/370](https://www.legislation.gov.uk/uksi/2019/370), [reg. 4](https://www.legislation.gov.uk/uksi/2019/370/regulation/4) (as substituted by [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1249)](https://www.legislation.gov.uk/uksi/2020/1249), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1249/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1249/regulation/4))
 
-[^key-c2f1bbb5844281490aff70d1f465dabd]: Commencement: Reg. 3 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-c2f1bbb5844281490aff70d1f465dabd]: Commencement: Reg. 3 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-b25edf54c713a715629eab2ec7a3d3e1]: Commencement: Reg. 4 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-b25edf54c713a715629eab2ec7a3d3e1]: Commencement: Reg. 4 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-89671b3505483390e90b47c6b98d4a93]: Commencement: Reg. 5 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-89671b3505483390e90b47c6b98d4a93]: Commencement: Reg. 5 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-dc029946e38083951e6f75353688e423]: Commencement: Reg. 6 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-dc029946e38083951e6f75353688e423]: Commencement: Reg. 6 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-f5a42b85160e125e64bda4fb83dd3072]: Commencement: Reg. 7 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-f5a42b85160e125e64bda4fb83dd3072]: Commencement: Reg. 7 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-970efb82b25f59e753f57f3d2b70006f]: Commencement: Reg. 8 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-970efb82b25f59e753f57f3d2b70006f]: Commencement: Reg. 8 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-350e9b05eeda9a0c2e9ea17569750f05]: Commencement: Reg. 9 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-350e9b05eeda9a0c2e9ea17569750f05]: Commencement: Reg. 9 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-86ea2948d19b95ec1c99c6567a770475]: Commencement: Reg. 10 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-86ea2948d19b95ec1c99c6567a770475]: Commencement: Reg. 10 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-ee55a4050eb79dec5e8cc0805def1533]: Commencement: Reg. 11 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-ee55a4050eb79dec5e8cc0805def1533]: Commencement: Reg. 11 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-c33428af3565bed014274e8ef4fb4b09]: Commencement: Reg. 12 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-c33428af3565bed014274e8ef4fb4b09]: Commencement: Reg. 12 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00005]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-db79880a21b03c6c391a796a0782026e]: Commencement: Reg. 13 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-db79880a21b03c6c391a796a0782026e]: Commencement: Reg. 13 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-77d218bb14bd4bb3b0c1c0d0545d526c]: Commencement: Reg. 14 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-77d218bb14bd4bb3b0c1c0d0545d526c]: Commencement: Reg. 14 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-1239d6006e744b6291c8fdac575f27de]: Commencement: Reg. 15 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-1239d6006e744b6291c8fdac575f27de]: Commencement: Reg. 15 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00006]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) were repealed by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part 2, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10.
 
 [^f00007]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Paragraph 2(a) of Schedule 3 was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, Part 2, paragraph 51(1) and (13)(a), and Schedule 37, Part 4. Paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, Part 2, paragraph 51(1) and (13)(b).
 
-[^key-2f4e7288c3d842b617c783dad6ea309c]: Commencement: Reg. 16 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-2f4e7288c3d842b617c783dad6ea309c]: Commencement: Reg. 16 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
-[^key-20f37e5f5a48ded7bfad5457a1b56b76]: Commencement: Reg. 17 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-20f37e5f5a48ded7bfad5457a1b56b76]: Commencement: Reg. 17 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2009/360 (W. 35)](https://www.legislation.gov.uk/wsi/2009/360).
 
-[^key-368b88ab36851a7bdb0a3fa5bf8411ce]: Commencement: Sch. para. 1 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-368b88ab36851a7bdb0a3fa5bf8411ce]: Commencement: Sch. para. 1 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00009]: Footnote: OJ No L 347, 20.12.2013, p. 320.
 
-[^key-94495ee0d915f0705d732541fc415bc9]: Commencement: Sch. para. 2 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-94495ee0d915f0705d732541fc415bc9]: Commencement: Sch. para. 2 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00010]: Footnote: OJ No L 354, 28.12.2013, p. 1, amended by Regulation (EU) 2015/812, OJ No L133, 29.05.2015, p. 1.
 
-[^key-04791f07e1072ea721405377340f7ccb]: Commencement: Sch. para. 3 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-04791f07e1072ea721405377340f7ccb]: Commencement: Sch. para. 3 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00011]: Footnote: OJ No L 354, 28.12.2013, p. 22, amended by Regulation (EU) 2015/812, OJ No L133, 29.05.2015, p. 1.
 
-[^key-2a3a611c36d595c252bf80176aacdd0d]: Commencement: Sch. para. 4 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-2a3a611c36d595c252bf80176aacdd0d]: Commencement: Sch. para. 4 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00012]: Footnote: OJ No L 149, 20.05.2014. p. 1.
 
-[^key-dc410c7b7e297fbdc5e9c47b1e1f2908]: Commencement: Sch. para. 5 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
+[^c-dc410c7b7e297fbdc5e9c47b1e1f2908]: Commencement: Sch. para. 5 in force at 20.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/665/regulation/1/2)
 
 [^f00013]: Footnote: OJ No L 209, 16.07.2014, p. 47.

@@ -48,7 +48,7 @@ The Minister for the Cabinet Office has consulted the Electoral Commission in ac
 
 In accordance with section 201(2) of the 1983 Act[^f00006] and section 154(2) of the 2011 Act, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and application[^key-d3d7ffb1b30ca020c339a251aba9eec4]
+## 1. Citation, commencement, extent and application[^c-d3d7ffb1b30ca020c339a251aba9eec4]
 
 (1) These Regulations may be cited as the Representation of the People (Proxy Vote Applications) (Coronavirus) Regulations 2021 and come into force on the day after the day on which they are made.
 
@@ -57,13 +57,13 @@ In accordance with section 201(2) of the 1983 Act[^f00006] and section 154(2) of
 - (a) regulation 3, which does not apply in relation to a local government election in Wales, and
 - (b) regulation 4, which does not apply in relation to a local government election in Scotland.
 
-## 2. Expiry and savings provision[^key-3895bc35c7e24889f467f7e6a630ebfd]
+## 2. Expiry and savings provision[^c-3895bc35c7e24889f467f7e6a630ebfd]
 
-(1) The amendments made by regulations 3 to 5[^key-4bbe85cf92843a24afd48b7aa81c0af7], except for regulations 3(1) and (2)(a) to (c) and 4(1) , (2)(a) to (c) and (4)(a)[^key-326a3d4e8522eb1ffea9a5cf88825ffb] , expire at the end of 28th February 2023[^key-3c3cf24e402d8fbccb9a88ad8c80c6bb].
+(1) The amendments made by regulations 3 to 5[^c-4bbe85cf92843a24afd48b7aa81c0af7], except for regulations 3(1) and (2)(a) to (c) and 4(1) , (2)(a) to (c) and (4)(a)[^c-326a3d4e8522eb1ffea9a5cf88825ffb] , expire at the end of 28th February 2023[^c-3c3cf24e402d8fbccb9a88ad8c80c6bb].
 
 (2) Despite paragraph (1), those regulations continue to have effect after that date in relation to an application made in respect of a relevant election or referendum where—
 
-- (a) the notice of the election or referendum is published before 1st March 2023[^key-d28c8272909f165bf6861657cf1dec16], and
+- (a) the notice of the election or referendum is published before 1st March 2023[^c-d28c8272909f165bf6861657cf1dec16], and
 - (b) the poll for that election or referendum takes place on or after that date.
 
 (3) In this regulation, “relevant election or referendum” means—
@@ -73,7 +73,7 @@ In accordance with section 201(2) of the 1983 Act[^f00006] and section 154(2) of
 - (c) a local government election (within the meaning of section 203(1) of the Representation of the People Act 1983)[^f00008];
 - (d) any other election or referendum to which Part 4 of the Representation of the People (England and Wales) Regulations 2001[^f00009] is applied (with or without modifications) by another enactment.
 
-## 3. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-c47446f156c00a83541d329c777223f6]
+## 3. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-c47446f156c00a83541d329c777223f6]
 
 *Extent: E+W*
 
@@ -140,7 +140,7 @@ In accordance with section 201(2) of the 1983 Act[^f00006] and section 154(2) of
 
   .
 
-## 4. Amendment of the Representation of the People (Scotland) Regulations 2001[^key-e833b963d4e23a4bbc98d63fdea7730e]
+## 4. Amendment of the Representation of the People (Scotland) Regulations 2001[^c-e833b963d4e23a4bbc98d63fdea7730e]
 
 *Extent: S*
 
@@ -207,7 +207,7 @@ In accordance with section 201(2) of the 1983 Act[^f00006] and section 154(2) of
 
   .
 
-## 5. Amendment of the Police and Crime Commissioner Elections Order 2012[^key-d2a73d0a9025d210e763676278d73769]
+## 5. Amendment of the Police and Crime Commissioner Elections Order 2012[^c-d2a73d0a9025d210e763676278d73769]
 
 *Extent: E+W*
 
@@ -282,17 +282,17 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00006]: Footnote: Section 201(2) was substituted by the Representation of the People Act 1985, Schedule 4, paragraph 69, and was amended by the Political Parties, Elections and Referendums Act 2000, Schedule 21, paragraph 6; by the Northern Ireland (Miscellaneous Provisions) Act [2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), section 13, and by [S.I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728).
 
-[^key-d3d7ffb1b30ca020c339a251aba9eec4]: Commencement: Reg. 1 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
+[^c-d3d7ffb1b30ca020c339a251aba9eec4]: Commencement: Reg. 1 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
 
-[^key-3895bc35c7e24889f467f7e6a630ebfd]: Commencement: Reg. 2 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
+[^c-3895bc35c7e24889f467f7e6a630ebfd]: Commencement: Reg. 2 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
 
-[^key-4bbe85cf92843a24afd48b7aa81c0af7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/2/1) substituted (27.2.2022) by [The Representation of the People (Proxy Vote Applications) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/175)](https://www.legislation.gov.uk/uksi/2022/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/175/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/175/regulation/6/a)
+[^c-4bbe85cf92843a24afd48b7aa81c0af7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/2/1) substituted (27.2.2022) by [The Representation of the People (Proxy Vote Applications) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/175)](https://www.legislation.gov.uk/uksi/2022/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/175/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/175/regulation/6/a)
 
-[^key-326a3d4e8522eb1ffea9a5cf88825ffb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/391/regulation/2) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/40/1)
+[^c-326a3d4e8522eb1ffea9a5cf88825ffb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2021/391/regulation/2) substituted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [40(1)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/40/1)
 
-[^key-3c3cf24e402d8fbccb9a88ad8c80c6bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/2/1) substituted (27.2.2022) by [The Representation of the People (Proxy Vote Applications) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/175)](https://www.legislation.gov.uk/uksi/2022/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/175/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2022/175/regulation/6/b)
+[^c-3c3cf24e402d8fbccb9a88ad8c80c6bb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/2/1) substituted (27.2.2022) by [The Representation of the People (Proxy Vote Applications) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/175)](https://www.legislation.gov.uk/uksi/2022/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/175/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2022/175/regulation/6/b)
 
-[^key-d28c8272909f165bf6861657cf1dec16]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/391/regulation/2/2/a) substituted (27.2.2022) by [The Representation of the People (Proxy Vote Applications) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/175)](https://www.legislation.gov.uk/uksi/2022/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/175/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2022/175/regulation/6/c)
+[^c-d28c8272909f165bf6861657cf1dec16]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2021/391/regulation/2/2/a) substituted (27.2.2022) by [The Representation of the People (Proxy Vote Applications) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/175)](https://www.legislation.gov.uk/uksi/2022/175), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/175/regulation/1/1), [6(c)](https://www.legislation.gov.uk/uksi/2022/175/regulation/6/c)
 
 [^f00007]: Footnote: Chapter 6 was amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), Schedule 8, paragraph 184; by the Local Government (Democracy) Wales Act 2013 (anaw 4), Schedule 1, paragraph 5; by the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), section 122(1), Schedule 1, paragraphs 86 and 90, Schedule 2, paragraph 117, and Schedule 9, paragraph 73; by the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), section 8, and by [S.I. 2014/268](https://www.legislation.gov.uk/uksi/2014/268), [2015/1376](https://www.legislation.gov.uk/uksi/2015/1376), [1526](https://www.legislation.gov.uk/uksi/2015/1526), [2016/997](https://www.legislation.gov.uk/uksi/2016/997), [2017/470](https://www.legislation.gov.uk/uksi/2017/470) and [2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
@@ -300,12 +300,12 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00009]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341); relevant amending instruments are [S.I. 2001/1700](https://www.legislation.gov.uk/uksi/2001/1700), [2005/2114](https://www.legislation.gov.uk/uksi/2005/2114), [2006/752](https://www.legislation.gov.uk/uksi/2006/752), [2910](https://www.legislation.gov.uk/uksi/2006/2910), [2007/1025](https://www.legislation.gov.uk/uksi/2007/1025), [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), [2010/231](https://www.legislation.gov.uk/uksi/2010/231), [2012/1479](https://www.legislation.gov.uk/uksi/2012/1479), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [591](https://www.legislation.gov.uk/uksi/2013/591), [3198](https://www.legislation.gov.uk/uksi/2013/3198), [2015/643](https://www.legislation.gov.uk/uksi/2015/643), [1971](https://www.legislation.gov.uk/uksi/2015/1971), [2016/211](https://www.legislation.gov.uk/uksi/2016/211), [694](https://www.legislation.gov.uk/uksi/2015/694), [2017/52](https://www.legislation.gov.uk/uksi/2017/52), [2018/48](https://www.legislation.gov.uk/uksi/2018/48), [1310](https://www.legislation.gov.uk/uksi/2018/1310) and [2020/1399 (W. 310)](https://www.legislation.gov.uk/wsi/2020/1399).
 
-[^key-c47446f156c00a83541d329c777223f6]: Commencement: Reg. 3 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
+[^c-c47446f156c00a83541d329c777223f6]: Commencement: Reg. 3 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
 
-[^key-e833b963d4e23a4bbc98d63fdea7730e]: Commencement: Reg. 4 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
+[^c-e833b963d4e23a4bbc98d63fdea7730e]: Commencement: Reg. 4 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497); relevant amending instruments are [S.I. 2001/1749](https://www.legislation.gov.uk/uksi/2001/1749), [2006/834](https://www.legislation.gov.uk/uksi/2006/834), [2007/925](https://www.legislation.gov.uk/uksi/2007/925), [2013/3206](https://www.legislation.gov.uk/uksi/2013/3206).
 
-[^key-d2a73d0a9025d210e763676278d73769]: Commencement: Reg. 5 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
+[^c-d2a73d0a9025d210e763676278d73769]: Commencement: Reg. 5 in force at 24.3.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/391/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2012/1917](https://www.legislation.gov.uk/uksi/2012/1917); relevant amending instruments are [S.I. 2014/921](https://www.legislation.gov.uk/uksi/2014/921), [2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).

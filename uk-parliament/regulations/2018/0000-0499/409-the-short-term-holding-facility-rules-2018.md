@@ -73,11 +73,11 @@ In these Rules—
   - (c) a detainee custody officer (and includes a detainee custody officer who is authorised to perform escort functions in accordance with section 154 of the Immigration and Asylum Act 1999 [^c22939491]), or
   - (d) an immigration officer.
 - “**port**” includes airport;
-- “[^key-d2fc4f770f56d5979acc281b8508614a]**residential holding room**” means a short-term holding facility where a detained person may be detained for a period of not more than 96 hours unless a longer period is authorised by the Secretary of State.
+- “[^c-d2fc4f770f56d5979acc281b8508614a]**residential holding room**” means a short-term holding facility where a detained person may be detained for a period of not more than 96 hours unless a longer period is authorised by the Secretary of State.
 
 ## PART 2 — APPLICATION
 
-### 3. Application of these Rules[^key-eef8b1b5191910a2c7a984369490a174]
+### 3. Application of these Rules[^c-eef8b1b5191910a2c7a984369490a174]
 
 Subject to rules 4 (places of detention), 5 (directly managed short-term holding facilities), 6(4) to (8) (holding rooms) and 6A(4) to (12) (residential holding rooms) these Rules apply to a short-term holding facility and to a detained person in a short-term holding facility.
 
@@ -125,7 +125,7 @@ Subject to rules 4 (places of detention), 5 (directly managed short-term holding
 
 ### 6. Holding rooms
 
-(1) Subject to paragraph (2) and without prejudice to rule 6A[^key-56f7574689ebdd23cb1233b65ac21adc], a detained person must not be detained in a holding room for a period of more than 24 hours.
+(1) Subject to paragraph (2) and without prejudice to rule 6A[^c-56f7574689ebdd23cb1233b65ac21adc], a detained person must not be detained in a holding room for a period of more than 24 hours.
 
 (2) The Secretary of State may authorise this period to be extended if the Secretary of State determines that exceptional circumstances require it.
 
@@ -186,7 +186,7 @@ Subject to rules 4 (places of detention), 5 (directly managed short-term holding
 
 .
 
-### 6A. Residential holding rooms[^key-27ee51ba21b98c9e4130c5b11e89f770]
+### 6A. Residential holding rooms[^c-27ee51ba21b98c9e4130c5b11e89f770]
 
 (1) Subject to paragraph (2), a detained person must not be detained in a residential holding room for a period of more than 96 hours.
 
@@ -419,8 +419,8 @@ may be sold or otherwise disposed of.
 - (a) a claim for asylum;
 - (b) an application for leave to enter or remain in the United Kingdom;
 - (c) an application for British nationality;
-- (d) a claim for a right of admission into the United Kingdom under a provision of retained EU law[^key-c89f2affe2531eda5e002b9954ff69ed] ;
-- (e) a claim for a right of residence in the United Kingdom under a provision of retained EU law[^key-fc7740fbc8b1d28d8e1fb9b42c11dc1d] ;
+- (d) a claim for a right of admission into the United Kingdom under a provision of retained EU law[^c-c89f2affe2531eda5e002b9954ff69ed] ;
+- (e) a claim for a right of residence in the United Kingdom under a provision of retained EU law[^c-fc7740fbc8b1d28d8e1fb9b42c11dc1d] ;
 - (f) the proposed removal or deportation of the detained person from the United Kingdom;
 - (g) an application for bail under the Immigration Acts [^c22939561] or under the Special Immigration Appeals Commission Act 1997, or
 - (h) an appeal against, or an application for administrative review or judicial review in relation to, any decision taken in connection with a matter referred to in sub-paragraphs (a) to (g).
@@ -523,7 +523,7 @@ If a detained person wishes to make a declaration of observance of a particular 
 
 (2) If a detained person does not have the necessary funds to do so the Secretary of State—
 
-- (a) must bear the postage expense of any letter and the cost of any facsimile to the detained person's legal adviser, the European Court of Human Rights, [^key-955ed02566cf36281d404df7eadf6a5b]... the High Court, the Court of Session, the Special Immigration Appeals Commission, the First-tier Tribunal or the Upper Tribunal (or any court entitled to hear an appeal against a decision of those bodies);
+- (a) must bear the postage expense of any letter and the cost of any facsimile to the detained person's legal adviser, the European Court of Human Rights, [^c-955ed02566cf36281d404df7eadf6a5b]... the High Court, the Court of Session, the Special Immigration Appeals Commission, the First-tier Tribunal or the Upper Tribunal (or any court entitled to hear an appeal against a decision of those bodies);
 - (b) must bear the postage expense of any letter and the cost of any facsimile to the UN Refugee Agency (UNHCR), Members of the United Kingdom Parliament and any Embassy or Consulate, and
 - (c) may bear the postage expense of any reasonable number of other letters and the cost of any reasonable number of other facsimiles which that person wishes to send.
 
@@ -1014,9 +1014,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22939491]: Marginal citation: [Section 154(5)](https://www.legislation.gov.uk/uksi/2018/409/section/154/5) has been substituted by section 65(1) of the Nationality, Immigration and Asylum Act 2002.
 
-[^key-d2fc4f770f56d5979acc281b8508614a]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2018/409/rule/2) inserted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/2)
+[^c-d2fc4f770f56d5979acc281b8508614a]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/uksi/2018/409/rule/2) inserted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/2)
 
-[^key-eef8b1b5191910a2c7a984369490a174]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/uksi/2018/409/rule/3) substituted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/3)
+[^c-eef8b1b5191910a2c7a984369490a174]: Textual amendment: [Rule 3](https://www.legislation.gov.uk/uksi/2018/409/rule/3) substituted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/3)
 
 [^c22939501]: Marginal citation: [Part 5](https://www.legislation.gov.uk/uksi/2018/409/part/5) was amended by sections 26 to 31 and 33 of, and Schedules 2 and 4 to, the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [sections 1 to 7](https://www.legislation.gov.uk/ukpga/2004/19/section/1) and 11 to 14 of, and Schedules 1 and 3 to, the [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [sections 19](https://www.legislation.gov.uk/ukpga/2006/13/section/19) and 54 of, and the Schedule to, the [UK Borders Act 2007 (c. 30)](https://www.legislation.gov.uk/ukpga/2007/30), [paragraph 54](https://www.legislation.gov.uk/ukpga/2007/30/paragraph/54) of Schedule 8 to the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [Part 2](https://www.legislation.gov.uk/ukpga/2007/15/part/2) of Schedule 5 to the [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [sections 51 to 54](https://www.legislation.gov.uk/ukpga/2012/10/section/51) of the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [sections 15](https://www.legislation.gov.uk/ukpga/2013/22/section/15) and 17 of, and Part 4 of Schedule 9 to, the [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [section 63](https://www.legislation.gov.uk/ukpga/2014/22/section/63) of the [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), and by [S.I. 2010/21](https://www.legislation.gov.uk/uksi/2010/21) and 2011/1043.
 
@@ -1028,19 +1028,19 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c22939541]: Marginal citation: [S.I. 1995/755 (N.I.2)](https://www.legislation.gov.uk/nisi/1995/755).
 
-[^key-56f7574689ebdd23cb1233b65ac21adc]: Textual amendment: Words in [rule 6(1)](https://www.legislation.gov.uk/uksi/2018/409/rule/6/1) inserted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/4)
+[^c-56f7574689ebdd23cb1233b65ac21adc]: Textual amendment: Words in [rule 6(1)](https://www.legislation.gov.uk/uksi/2018/409/rule/6/1) inserted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/4)
 
-[^key-27ee51ba21b98c9e4130c5b11e89f770]: Textual amendment: [Rule 6A](https://www.legislation.gov.uk/uksi/2018/409/rule/6A) inserted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/5)
+[^c-27ee51ba21b98c9e4130c5b11e89f770]: Textual amendment: [Rule 6A](https://www.legislation.gov.uk/uksi/2018/409/rule/6A) inserted (5.1.2023) by [The Short-term Holding Facility (Amendment) Rules 2022 (S.I. 2022/1345)](https://www.legislation.gov.uk/uksi/2022/1345), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/1345/rule/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2022/1345/rule/2/5)
 
 [^c22939551]: Marginal citation: [Section 141](https://www.legislation.gov.uk/uksi/2018/409/section/141) was amended by section 66 of the Nationality, Immigration and Asylum Act 2002, section 15 of the [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [section 28](https://www.legislation.gov.uk/ukpga/2004/19/section/28) of the Immigration, Asylum and Nationality Act 2006, section 51 of the [Borders, Citizenship and Immigration Act 2009 (c. 11)](https://www.legislation.gov.uk/ukpga/2009/11), [Schedule 9](https://www.legislation.gov.uk/ukpga/2009/11/schedule/9) to the Immigration Act 2014, section 57 of, and Schedules 10 and 11 to the Immigration Act 2016, and by [S.I. 2017/617](https://www.legislation.gov.uk/uksi/2017/617).
 
-[^key-c89f2affe2531eda5e002b9954ff69ed]: Textual amendment: Words in [rule 12(3)(d)](https://www.legislation.gov.uk/uksi/2018/409/rule/12/3/d) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/44/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c89f2affe2531eda5e002b9954ff69ed]: Textual amendment: Words in [rule 12(3)(d)](https://www.legislation.gov.uk/uksi/2018/409/rule/12/3/d) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/44/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc7740fbc8b1d28d8e1fb9b42c11dc1d]: Textual amendment: Words in [rule 12(3)(e)](https://www.legislation.gov.uk/uksi/2018/409/rule/12/3/e) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/44/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc7740fbc8b1d28d8e1fb9b42c11dc1d]: Textual amendment: Words in [rule 12(3)(e)](https://www.legislation.gov.uk/uksi/2018/409/rule/12/3/e) substituted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/44/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22939561]: Marginal citation: See section 61 of the UK Borders Act 2007.
 
-[^key-955ed02566cf36281d404df7eadf6a5b]: Textual amendment: Words in [rule 24(2)(a)](https://www.legislation.gov.uk/uksi/2018/409/rule/24/2/a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/44/3) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/745/schedule/2/paragraph/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-955ed02566cf36281d404df7eadf6a5b]: Textual amendment: Words in [rule 24(2)(a)](https://www.legislation.gov.uk/uksi/2018/409/rule/24/2/a) omitted (31.12.2020) by virtue of [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2019/745/regulation/44/3) (with [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/745/schedule/2/paragraph/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22939571]: Marginal citation: See section 152 of the Immigration and Asylum Act 1999.
 

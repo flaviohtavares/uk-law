@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Reckoning of increased benefits[^key-575dce3f3727000d297caa05c656f7bb]
+## 57. Reckoning of increased benefits[^c-575dce3f3727000d297caa05c656f7bb]
 
 *Extent: N.I.*
 
@@ -87,4 +87,4 @@ PE is the length of the period beginning with the date on which the election und
 
 ## Annotations
 
-[^key-575dce3f3727000d297caa05c656f7bb]: Commencement: Reg. 57 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-575dce3f3727000d297caa05c656f7bb]: Commencement: Reg. 57 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

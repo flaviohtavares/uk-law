@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 197. Liability of parent entities etc[^key-5a192eb3f944fff51d21d82bed99c34c][^key-2beacfe7570fde5deb2ce13b19d6f7e7]
+## 197. Liability of parent entities etc[^c-5a192eb3f944fff51d21d82bed99c34c][^c-2beacfe7570fde5deb2ce13b19d6f7e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ Schedule 15 contains provision about—
 
 ## Annotations
 
-[^key-5a192eb3f944fff51d21d82bed99c34c]: Commencement: S. 197 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5a192eb3f944fff51d21d82bed99c34c]: Commencement: S. 197 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2beacfe7570fde5deb2ce13b19d6f7e7]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2023/50/section/197) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)
+[^c-2beacfe7570fde5deb2ce13b19d6f7e7]: Commencement: [S. 197](https://www.legislation.gov.uk/ukpga/2023/50/section/197) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z24)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z24)

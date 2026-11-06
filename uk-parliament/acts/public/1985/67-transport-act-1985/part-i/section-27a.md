@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27A. Additional powers where service not operated as registered[^key-8a2b55cab5952278ed2d277e518e863b]
+## 27A. Additional powers where service not operated as registered[^c-8a2b55cab5952278ed2d277e518e863b]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) has, or may have, failed to operate a local service registered under section 6 of this Act; or
 - (b) has, or may have, failed to operate such a service in accordance with the particulars registered under that section.
 
-(2) The traffic commissioner may direct a local traffic authority to provide him or another traffic commissioner[^key-5d86958ce7705441a63f2dbf7242d81b], within a specified period, with specified information connected with any aspect of the performance of their duties under section 16 or 17 of the Traffic Management Act 2004 (the network management duty, and arrangements for network management).
+(2) The traffic commissioner may direct a local traffic authority to provide him or another traffic commissioner[^c-5d86958ce7705441a63f2dbf7242d81b], within a specified period, with specified information connected with any aspect of the performance of their duties under section 16 or 17 of the Traffic Management Act 2004 (the network management duty, and arrangements for network management).
 
 This subsection is supplemented by provisions in section 27B of this Act.
 
@@ -55,22 +55,22 @@ the traffic commissioner may prepare a report recommending the implementation of
 (7) The persons are—
 
 - (a) the appropriate national authority,
-- (b) any local traffic authority , Integrated Transport Authority[^key-e5227e765c9015c8f1de7c3d9c1b093d] , combined authority or combined county authority[^key-ed659376a198028346c55a4745187c0d] which the traffic commissioner considers appropriate,
+- (b) any local traffic authority , Integrated Transport Authority[^c-e5227e765c9015c8f1de7c3d9c1b093d] , combined authority or combined county authority[^c-ed659376a198028346c55a4745187c0d] which the traffic commissioner considers appropriate,
 
 and any other persons whom the traffic commissioner considers appropriate.
 
-(7A)[^key-6c21b0b7f99fc4843e0707641214309f] In this section “the traffic commissioner” means the traffic commissioner dealing with the matter.
+(7A)[^c-6c21b0b7f99fc4843e0707641214309f] In this section “the traffic commissioner” means the traffic commissioner dealing with the matter.
 
 (8) See subsection (6) of section 27B of this Act for the meaning of some of the expressions used in this section.
 
 ## Annotations
 
-[^key-8a2b55cab5952278ed2d277e518e863b]: Textual amendment: S. 27A inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/63/1), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/2/2))
+[^c-8a2b55cab5952278ed2d277e518e863b]: Textual amendment: S. 27A inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 63(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/63/1), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/2/2))
 
-[^key-5d86958ce7705441a63f2dbf7242d81b]: Textual amendment: Words in [s. 27A(2)](https://www.legislation.gov.uk/ukpga/1985/67/section/27A/2) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-5d86958ce7705441a63f2dbf7242d81b]: Textual amendment: Words in [s. 27A(2)](https://www.legislation.gov.uk/ukpga/1985/67/section/27A/2) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
 
-[^key-e5227e765c9015c8f1de7c3d9c1b093d]: Textual amendment: Words in s. 27A(7)(b) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/63); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-e5227e765c9015c8f1de7c3d9c1b093d]: Textual amendment: Words in s. 27A(7)(b) substituted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 63](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/63); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
 
-[^key-ed659376a198028346c55a4745187c0d]: Textual amendment: Words in [s. 27A(7)(b)](https://www.legislation.gov.uk/ukpga/1985/67/section/27A/7/b) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 79](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/79) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-ed659376a198028346c55a4745187c0d]: Textual amendment: Words in [s. 27A(7)(b)](https://www.legislation.gov.uk/ukpga/1985/67/section/27A/7/b) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 79](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/79) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-6c21b0b7f99fc4843e0707641214309f]: Textual amendment: [S. 27A(7A)](https://www.legislation.gov.uk/ukpga/1985/67/section/27A/7A) inserted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-6c21b0b7f99fc4843e0707641214309f]: Textual amendment: [S. 27A(7A)](https://www.legislation.gov.uk/ukpga/1985/67/section/27A/7A) inserted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1644/schedule/3) (with [art. 7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

@@ -185,7 +185,7 @@ Section 84.
 
 **31.** (1) In section 236(1) for the words “or any other enactment, whenever passed and conferring on a local authority” there shall be substituted the words “and to byelaws made by a local authority, a metropolitan, county passenger transport authority or the Inner London Education Authority under any other enactment and conferring on the authority.”
 
-(2)[^key-03944d549c61d55b379a83c16d390f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-03944d549c61d55b379a83c16d390f7b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Promoting and opposing local and personal Bills
 
@@ -382,7 +382,7 @@ Section 84.
 
 [^c3169941]: Textual amendment: [Sch. 14 paras. 19](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/19), [20](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/20) repealed by [Local Government and Housing Act 1989 (c.42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 194(4)](https://www.legislation.gov.uk/ukpga/1989/42/section/194/4), [195(2)](https://www.legislation.gov.uk/ukpga/1989/42/section/195/2), [Sch. 12 Pt. II](https://www.legislation.gov.uk/ukpga/1989/42/schedule/12/part/II)
 
-[^key-03944d549c61d55b379a83c16d390f7b]: Textual amendment: [Sch. 14 para. 31(2)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/31/2) repealed (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-03944d549c61d55b379a83c16d390f7b]: Textual amendment: [Sch. 14 para. 31(2)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/14/paragraph/31/2) repealed (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 7 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/26/schedule/7/part/4); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c3170051]: Marginal citation: [1954 c. 56](https://www.legislation.gov.uk/ukpga/1954/56).
 

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy (Wine) (Scotland) Amendment Regulations 2003 (revoked)[^key-02a6fea914b0e6f64ab79f7c0d623505]
+The Common Agricultural Policy (Wine) (Scotland) Amendment Regulations 2003 (revoked)[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 Made
 
@@ -45,51 +45,51 @@ Coming into force
 
 1st April 2003
 
-[^key-02a6fea914b0e6f64ab79f7c0d623505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02a6fea914b0e6f64ab79f7c0d623505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 1. Citation and commencement[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 2. Amendment of the principal Regulations[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 3.[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 4.[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 5.[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 6.[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 7.[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## 8.[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02a6fea914b0e6f64ab79f7c0d623505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02a6fea914b0e6f64ab79f7c0d623505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-02a6fea914b0e6f64ab79f7c0d623505]
+## SCHEDULE[^c-02a6fea914b0e6f64ab79f7c0d623505]
 
 Regulation 7
 
-> **SCHEDULE 6 — COMMUNITY PROVISIONS[^key-02a6fea914b0e6f64ab79f7c0d623505]**
+> **SCHEDULE 6 — COMMUNITY PROVISIONS[^c-02a6fea914b0e6f64ab79f7c0d623505]**
 >
 > “Regulation 2(1)
 >
@@ -97,8 +97,8 @@ Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-02a6fea914b0e6f64ab79f7c0d623505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02a6fea914b0e6f64ab79f7c0d623505]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02a6fea914b0e6f64ab79f7c0d623505]: Textual amendment: Regulations revoked (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1), [20](https://www.legislation.gov.uk/uksi/2011/2936/regulation/20) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))
+[^c-02a6fea914b0e6f64ab79f7c0d623505]: Textual amendment: Regulations revoked (30.12.2011) by [The Wine Regulations 2011 (S.I. 2011/2936)](https://www.legislation.gov.uk/uksi/2011/2936), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/1), [20](https://www.legislation.gov.uk/uksi/2011/2936/regulation/20) (with [reg. 3(9)](https://www.legislation.gov.uk/uksi/2011/2936/regulation/3/9))

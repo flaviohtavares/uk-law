@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Capital limit[^key-77a840b02e4643f3ff0531cd237af95a]
+## 31. Capital limit[^c-77a840b02e4643f3ff0531cd237af95a]
 
 *Extent: E+W+S*
 
-For the purposes of section 22(6) of the Act as it applies to disabled person’s tax credit[^key-f0e0e9be107c2798fa013b5140792d0a] (no entitlement to benefit if capital exceeds prescribed amount), the prescribed amount is £16,000.
+For the purposes of section 22(6) of the Act as it applies to disabled person’s tax credit[^c-f0e0e9be107c2798fa013b5140792d0a] (no entitlement to benefit if capital exceeds prescribed amount), the prescribed amount is £16,000.
 
 ## Annotations
 
-[^key-77a840b02e4643f3ff0531cd237af95a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1991/2887/regulation/31) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-77a840b02e4643f3ff0531cd237af95a]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1991/2887/regulation/31) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-f0e0e9be107c2798fa013b5140792d0a]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/1991/2887/regulation/31) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/2), [Sch. 2 para. 2(x)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/2/paragraph/2/x)
+[^c-f0e0e9be107c2798fa013b5140792d0a]: Textual amendment: Words in [reg. 31](https://www.legislation.gov.uk/uksi/1991/2887/regulation/31) substituted (5.10.1999) by [The Tax Credits Schemes (Miscellaneous Amendments) Regulations 1999 (S.I. 1999/2487)](https://www.legislation.gov.uk/uksi/1999/2487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/1/1), [26(2)](https://www.legislation.gov.uk/uksi/1999/2487/regulation/26/2), [Sch. 2 para. 2(x)](https://www.legislation.gov.uk/uksi/1999/2487/schedule/2/paragraph/2/x)

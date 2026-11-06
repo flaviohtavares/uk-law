@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Transfer of patients: role of nominated person[^key-f51a4cfc7b3170d4ff9ad61c23a7175b]
+## 28. Transfer of patients: role of nominated person[^c-f51a4cfc7b3170d4ff9ad61c23a7175b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 19 of the Mental Health Act 1983 (transfer of patients), after subsec
 
 ## Annotations
 
-[^key-f51a4cfc7b3170d4ff9ad61c23a7175b]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-f51a4cfc7b3170d4ff9ad61c23a7175b]: Commencement: S. 28 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

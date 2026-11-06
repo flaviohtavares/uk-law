@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Review[^M_E_b44577ad-510f-4176-f198-281d6e7eae7e][^key-469f2926ecc6d27e5ec10987c1a40e11]
+## 29. Review[^M_E_b44577ad-510f-4176-f198-281d6e7eae7e][^c-469f2926ecc6d27e5ec10987c1a40e11]
 
 *Extent: E+W+S*
 
@@ -51,7 +51,7 @@ summary: ''
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other relevant[^key-75dc726e0be7d3052c32878067824254] States.
+(2) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive is implemented in other relevant[^c-75dc726e0be7d3052c32878067824254] States.
 
 (3) The report must in particular—
 
@@ -70,10 +70,10 @@ summary: ''
 
 [^M_E_b44577ad-510f-4176-f198-281d6e7eae7e]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-469f2926ecc6d27e5ec10987c1a40e11]: Textual amendment: Reg. 29 inserted (15.12.2011) by [The Supply of Machinery (Safety) (Amendment) Regulations 2011 (S.I. 2011/2157)](https://www.legislation.gov.uk/uksi/2011/2157), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2157/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/2157/regulation/7)
+[^c-469f2926ecc6d27e5ec10987c1a40e11]: Textual amendment: Reg. 29 inserted (15.12.2011) by [The Supply of Machinery (Safety) (Amendment) Regulations 2011 (S.I. 2011/2157)](https://www.legislation.gov.uk/uksi/2011/2157), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2157/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/2157/regulation/7)
 
 [^M_E_df69d564-5c1f-4b64-d092-29f87aa1c6c5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_afee5419-de4f-156b-77d7-f7990a902cd2]: Textual amendment: Reg. 29 inserted (15.12.2011) by [The Supply of Machinery (Safety) (Amendment) Regulations 2011 (S.I. 2011/2157)](https://www.legislation.gov.uk/uksi/2011/2157), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2157/regulation/1), [7](https://www.legislation.gov.uk/uksi/2011/2157/regulation/7)
 
-[^key-75dc726e0be7d3052c32878067824254]: Textual amendment: Word in [reg. 29(2)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/29/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/4/paragraph/6)
+[^c-75dc726e0be7d3052c32878067824254]: Textual amendment: Word in [reg. 29(2)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/29/2) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2020/1112/schedule/4/paragraph/6)

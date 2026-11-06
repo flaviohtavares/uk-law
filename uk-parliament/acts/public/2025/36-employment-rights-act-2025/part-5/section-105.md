@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Period to which notice of underpayment may relate[^key-54c2b6c05119a27fe06f61f8f5eec88c][^key-bff130aef4f8e1cfa52a24c54b1f3601]
+## 105. Period to which notice of underpayment may relate[^c-54c2b6c05119a27fe06f61f8f5eec88c][^c-bff130aef4f8e1cfa52a24c54b1f3601]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54c2b6c05119a27fe06f61f8f5eec88c]: Commencement: S. 105 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-54c2b6c05119a27fe06f61f8f5eec88c]: Commencement: S. 105 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-bff130aef4f8e1cfa52a24c54b1f3601]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/36/section/105) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(12)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/12/a)
+[^c-bff130aef4f8e1cfa52a24c54b1f3601]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2025/36/section/105) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(12)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/12/a)

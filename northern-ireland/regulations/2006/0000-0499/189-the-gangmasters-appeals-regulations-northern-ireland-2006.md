@@ -41,42 +41,42 @@ Coming into operation
 
 The Department of Agriculture and Rural Development[^f00001], in exercise of the powers conferred on it by sections 10 and 25(2) of the Gangmasters (Licensing) Act 2004[^f00002], makes the following Regulations:
 
-## 1. Citation and commencement[^key-df3cbacf7e85ace568a3295abd8333af]
+## 1. Citation and commencement[^c-df3cbacf7e85ace568a3295abd8333af]
 
 These Regulations may be cited as the Gangmasters (Appeals) Regulations (Northern Ireland) 2006 and shall come into operation on 15<sup>th</sup> May 2006.
 
-## 2. Interpretation[^key-b45ea17843b9f9601c6f25faafd80390]
+## 2. Interpretation[^c-b45ea17843b9f9601c6f25faafd80390]
 
 (1) In these Regulations—
 
 - “the Act” means the Gangmasters (Licensing) Act 2004;
 - “appointed person” has the meaning given by regulation 3(1);
-- [^key-128ffd791c23dc689a0b889524d51287]...
+- [^c-128ffd791c23dc689a0b889524d51287]...
 - “the Department” means the Department of Agriculture and Rural Development;
-- “decision with immediate effect” means a decision of the Secretary of State[^key-41af2505068266586539bc3201e8478c] to revoke or suspend a licence, where the period between the date of the decision document and the date on which the decision comes into effect is five working days or less;
-- “decision document” means the letter, notice or other communication by which the appellant is informed of a decision of the Secretary of State[^key-056c68110e0ddb9a03c1c632d65ff4f9];
-- “disputed decision” means the decision of the Secretary of State[^key-eac9098b3155b3dad28dd58985667a0d] in relation to which the appellant appeals;
-- “licence” means a licence granted by the Secretary of State[^key-22f8ff550d28b0c32544c258a2ab2b27] under section 7(1) of the Act authorising a person to act as a gangmaster;
-- “the parties” means the appellant and the Secretary of State[^key-979c2373d75978369866cc43586e08d3];
+- “decision with immediate effect” means a decision of the Secretary of State[^c-41af2505068266586539bc3201e8478c] to revoke or suspend a licence, where the period between the date of the decision document and the date on which the decision comes into effect is five working days or less;
+- “decision document” means the letter, notice or other communication by which the appellant is informed of a decision of the Secretary of State[^c-056c68110e0ddb9a03c1c632d65ff4f9];
+- “disputed decision” means the decision of the Secretary of State[^c-eac9098b3155b3dad28dd58985667a0d] in relation to which the appellant appeals;
+- “licence” means a licence granted by the Secretary of State[^c-22f8ff550d28b0c32544c258a2ab2b27] under section 7(1) of the Act authorising a person to act as a gangmaster;
+- “the parties” means the appellant and the Secretary of State[^c-979c2373d75978369866cc43586e08d3];
 - “working day” means a day other than a Saturday or a Sunday or a public holiday.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Appointed persons[^key-3f002b3e970c8dc94196b61ac4a5db46]
+## 3. Appointed persons[^c-3f002b3e970c8dc94196b61ac4a5db46]
 
-(1) The Department shall appoint an appointed person from members of the panel of employment judges appointed under the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^key-f8ae79698f13e86b0e5e404c04f1c58f] to hear and determine each appeal brought under these Regulations.
+(1) The Department shall appoint an appointed person from members of the panel of employment judges appointed under the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^c-f8ae79698f13e86b0e5e404c04f1c58f] to hear and determine each appeal brought under these Regulations.
 
 (2) The Department may pay such remuneration and allowances to appointed persons as it may determine.
 
-## 4. The Secretariat[^key-3a73f59ac2be957a8d5f96d7d93af9b0]
+## 4. The Secretariat[^c-3a73f59ac2be957a8d5f96d7d93af9b0]
 
 (1) The Department shall ensure that arrangements are made for the provision of a Secretariat in Northern Ireland to administer the appeals process and provide administrative assistance to appointed persons.
 
 (2) Any document or information required by these Regulations to be sent to, or provided by, an appointed person may be sent to, or provided on his behalf by, the Secretariat.
 
-## 5. Decisions which may be appealed and effect of appeal on licence[^key-0875356f05179fac813d19c88c184828]
+## 5. Decisions which may be appealed and effect of appeal on licence[^c-0875356f05179fac813d19c88c184828]
 
-(1) An appeal may be brought by a person against a decision of the Secretary of State[^key-ac440af3d842d5fa869c87cd6810fe48]—
+(1) An appeal may be brought by a person against a decision of the Secretary of State[^c-ac440af3d842d5fa869c87cd6810fe48]—
 
 - (a) to refuse his application for a licence;
 - (b) as to the conditions to which the grant of the licence to that person is subject;
@@ -94,7 +94,7 @@ These Regulations may be cited as the Gangmasters (Appeals) Regulations (Norther
 - (a) the date specified in the original decision document as the date the disputed decision was to take effect; or
 - (b) the sixth working day after the date of the document sent by the Secretariat to the parties notifying them of the withdrawal.
 
-## 6. Notice of appeal[^key-e7915fafe60a87781da0a4626a512cca]
+## 6. Notice of appeal[^c-e7915fafe60a87781da0a4626a512cca]
 
 (1) In order for an appeal to be valid, a notice of appeal shall be received by the Secretariat—
 
@@ -106,13 +106,13 @@ These Regulations may be cited as the Gangmasters (Appeals) Regulations (Norther
 - (a) the name and address of the appellant and, if different, an address to which he requires notices and documents relating to the appeal to be sent;
 - (b) the grounds of the appeal.
 
-## 7. Acknowledgement and notification of the appeal[^key-1cc1acaebc9b03a13ddc8241d13c5b92]
+## 7. Acknowledgement and notification of the appeal[^c-1cc1acaebc9b03a13ddc8241d13c5b92]
 
 (1) The Secretariat shall send to the appellant an acknowledgement of receipt of the notice of appeal and shall specify a date by which the appellant shall supply any additional documentation on which he seeks to rely for the purposes of the appeal.
 
-(2) The Secretariat shall at the same time send a copy of the notice of appeal and any accompanying documentation, or additional documentation, to the Secretary of State[^key-8fc701784e82eb30eba919e8e69a8f01].
+(2) The Secretariat shall at the same time send a copy of the notice of appeal and any accompanying documentation, or additional documentation, to the Secretary of State[^c-8fc701784e82eb30eba919e8e69a8f01].
 
-## 8. Amendment and withdrawal of the appeal and supporting documentation[^key-6e92dedeff7f276aad59a908ffde11c2]
+## 8. Amendment and withdrawal of the appeal and supporting documentation[^c-6e92dedeff7f276aad59a908ffde11c2]
 
 (1) The appellant may amend his appeal, or any part of it, with the consent of the appointed person at any time before the hearing of the appeal.
 
@@ -120,41 +120,41 @@ These Regulations may be cited as the Gangmasters (Appeals) Regulations (Norther
 
 (3) Where the appellant withdraws his appeal, he may not submit a subsequent appeal on the same grounds in relation to the same disputed decision.
 
-(4) The Secretariat shall send to the Secretary of State[^key-2f7811e05dc19e872192109a283d3512] a copy of any documentation received from the appellant under this regulation.
+(4) The Secretariat shall send to the Secretary of State[^c-2f7811e05dc19e872192109a283d3512] a copy of any documentation received from the appellant under this regulation.
 
-## 9. Reply by the Secretary of State[^key-e8003ac1f557b112b2305245a294ffa3][^key-eb01cc4c1771904c9dba277ed02ea2fa]
+## 9. Reply by the Secretary of State[^c-e8003ac1f557b112b2305245a294ffa3][^c-eb01cc4c1771904c9dba277ed02ea2fa]
 
-(1) The Secretary of State[^key-19ed2ac8e5bad7b56a67db99b95c7f8c] shall send to the Secretariat a reply to the notice of appeal so that it is received not later than the end of the period of twenty working days beginning with the date on which the copy of the notice of appeal is received by the Secretary of State or as extended under regulation 13.
+(1) The Secretary of State[^c-19ed2ac8e5bad7b56a67db99b95c7f8c] shall send to the Secretariat a reply to the notice of appeal so that it is received not later than the end of the period of twenty working days beginning with the date on which the copy of the notice of appeal is received by the Secretary of State or as extended under regulation 13.
 
-(2) The Secretary of State[^key-586b03180b0f74e3aaba909c2e1fd356] may, either in the[^key-90957033d4a1fa7deed8dd68d96b34b3] reply or at any time before the appeal is determined, notify the Secretariat that the Secretary of State[^key-8d05018835c85f411b263969045e0c55] no longer wishes to uphold a disputed decision, in which case the appointed person shall uphold the appeal.
+(2) The Secretary of State[^c-586b03180b0f74e3aaba909c2e1fd356] may, either in the[^c-90957033d4a1fa7deed8dd68d96b34b3] reply or at any time before the appeal is determined, notify the Secretariat that the Secretary of State[^c-8d05018835c85f411b263969045e0c55] no longer wishes to uphold a disputed decision, in which case the appointed person shall uphold the appeal.
 
-(3) If the Secretary of State[^key-99dccb509c101d0a8e13d113751c360b] fails to send a reply within the time specified in paragraph (1), or by a new date set by the appointed person under regulation 13(1), the Secretary of State[^key-b5f7271e4b19c64612ed2b3bb690ab02] may not take any further part in the proceedings unless the appointed person so directs.
+(3) If the Secretary of State[^c-99dccb509c101d0a8e13d113751c360b] fails to send a reply within the time specified in paragraph (1), or by a new date set by the appointed person under regulation 13(1), the Secretary of State[^c-b5f7271e4b19c64612ed2b3bb690ab02] may not take any further part in the proceedings unless the appointed person so directs.
 
-## 10. Contents of the reply[^key-dc806e6e11f24a10c581f8f0fb428b10]
+## 10. Contents of the reply[^c-dc806e6e11f24a10c581f8f0fb428b10]
 
-The Secretary of State’s[^key-721bb50a2a7a39bc8d4323234afc82ff] reply shall state—
+The Secretary of State’s[^c-721bb50a2a7a39bc8d4323234afc82ff] reply shall state—
 
-- (a) an address to which the Secretary of State[^key-ad87a37738e8c9f9eaa29b2306c9fc21] requires notices and documentation relating to the appeal to be sent;
-- (b) if the Secretary of State[^key-f4b875bd8023157cf462eca7d1c18d3f] seeks to uphold the disputed decision; and
-- (c) if the Secretary of State[^key-de1821ab4b5f576189d9aa50d8f94609] seeks to uphold the disputed decision, the Secretary of State’s[^key-eacfe2e0f5f2d174f158b95788d048ab] reply to each of the grounds of appeal supplied by the appellant.
+- (a) an address to which the Secretary of State[^c-ad87a37738e8c9f9eaa29b2306c9fc21] requires notices and documentation relating to the appeal to be sent;
+- (b) if the Secretary of State[^c-f4b875bd8023157cf462eca7d1c18d3f] seeks to uphold the disputed decision; and
+- (c) if the Secretary of State[^c-de1821ab4b5f576189d9aa50d8f94609] seeks to uphold the disputed decision, the Secretary of State’s[^c-eacfe2e0f5f2d174f158b95788d048ab] reply to each of the grounds of appeal supplied by the appellant.
 
-## 11. Action by Secretariat on receipt of reply[^key-ddb371047b99260c2077d04bc1635116]
+## 11. Action by Secretariat on receipt of reply[^c-ddb371047b99260c2077d04bc1635116]
 
-Upon receipt of a reply by the Secretary of State[^key-95816614bc980086b1f2b8c855261aa8], the Secretariat shall send—
+Upon receipt of a reply by the Secretary of State[^c-95816614bc980086b1f2b8c855261aa8], the Secretariat shall send—
 
-- (a) an acknowledgement of receipt to the Secretary of State specifying a date by which the Secretary of State shall supply any additional documentation on which the Secretary of State[^key-69390c74166202b7275a9635de805fba] seeks to rely for the purposes of the appeal;
+- (a) an acknowledgement of receipt to the Secretary of State specifying a date by which the Secretary of State shall supply any additional documentation on which the Secretary of State[^c-69390c74166202b7275a9635de805fba] seeks to rely for the purposes of the appeal;
 - (b) a copy of the reply and any accompanying documentation to the appellant; and
 - (c) a statement informing the parties that if either wishes the appeal to be determined without an oral hearing it shall notify the Secretariat as soon as possible.
 
-## 12. Amendment of the reply and supporting documentation[^key-e0e0b93d6287851520136e6368bdac6c]
+## 12. Amendment of the reply and supporting documentation[^c-e0e0b93d6287851520136e6368bdac6c]
 
-(1) The Secretary of State[^key-61bb26839402d179cf5a3b53c4efc75e] may amend the[^key-2c7e7b66b15a7442cfd2bac6c108efaa] reply, or any part of it, with the consent of the appointed person at any time before the hearing of the appeal.
+(1) The Secretary of State[^c-61bb26839402d179cf5a3b53c4efc75e] may amend the[^c-2c7e7b66b15a7442cfd2bac6c108efaa] reply, or any part of it, with the consent of the appointed person at any time before the hearing of the appeal.
 
-(2) The Secretary of State[^key-587cde2cc2d4d3ebf97aeccef313dd55] may amend or withdraw any documentation submitted in support of the reply at any time with the consent of the appointed person.
+(2) The Secretary of State[^c-587cde2cc2d4d3ebf97aeccef313dd55] may amend or withdraw any documentation submitted in support of the reply at any time with the consent of the appointed person.
 
-(3) The Secretariat shall send to the appellant a copy of any documentation received from the Secretary of State[^key-36a070428996c2c6f3197dc53befd6fb] under this regulation.
+(3) The Secretariat shall send to the appellant a copy of any documentation received from the Secretary of State[^c-36a070428996c2c6f3197dc53befd6fb] under this regulation.
 
-## 13. Extension of time[^key-9f36ec0ae5c9236a0b121761c18df7e1]
+## 13. Extension of time[^c-9f36ec0ae5c9236a0b121761c18df7e1]
 
 (1) An appointed person may, on the application of either party or on his own initiative, extend the time for doing any act appointed by or under these Regulations where he considers there are reasonable grounds to do so, and may do so whether or not the time so appointed has expired.
 
@@ -166,13 +166,13 @@ Upon receipt of a reply by the Secretary of State[^key-95816614bc980086b1f2b8c85
 
 (3) The Secretariat shall notify each party of any extension of time granted under this regulation.
 
-## 14. Directions[^key-f8daacafc98fedbc2ac711ca2c55e5ac]
+## 14. Directions[^c-f8daacafc98fedbc2ac711ca2c55e5ac]
 
 (1) At any stage in the proceedings the appointed person may, on his own initiative or on the application of either party, give such directions as he considers necessary or desirable to further the conduct of the appeal and may direct either party to provide any further particulars or documentation which may reasonably be required.
 
 (2) The Secretariat shall send a copy of any application and documents submitted to the other party.
 
-## 15. Power to decide the appeal without an oral hearing[^key-0ced496e3f5c6efe01c55388a928aa5f]
+## 15. Power to decide the appeal without an oral hearing[^c-0ced496e3f5c6efe01c55388a928aa5f]
 
 (1) If—
 
@@ -184,16 +184,16 @@ the appeal shall be determined without an oral hearing but otherwise shall be de
 (2) If—
 
 - (a) the appellant agrees that the case can be determined without an oral hearing;
-- (b) the Secretary of State[^key-2fe6ee4252e52ef5b1f29d225562d875] has not sent a[^key-12aa0ecbad90ca0d0fe46a3b5df7e608] reply before the date specified in regulation 9(1) (or as extended under regulation 13(1)); and
+- (b) the Secretary of State[^c-2fe6ee4252e52ef5b1f29d225562d875] has not sent a[^c-12aa0ecbad90ca0d0fe46a3b5df7e608] reply before the date specified in regulation 9(1) (or as extended under regulation 13(1)); and
 - (c) the appointed person does not consider that there are reasonable grounds for an oral hearing,
 
 the Secretariat shall notify the parties that the appointed person will determine the appeal without an oral hearing.
 
-(3) Before determining an appeal without an oral hearing, the appointed person shall consider any written representations from the parties, unless regulation 9(3) applies in the case of the Secretary of State[^key-6384a27f08e1905cafe7ab799816d778].
+(3) Before determining an appeal without an oral hearing, the appointed person shall consider any written representations from the parties, unless regulation 9(3) applies in the case of the Secretary of State[^c-6384a27f08e1905cafe7ab799816d778].
 
-## 16. Action by Secretariat in fixing a hearing date[^key-240ebe2bb9ee40452e0b81c0fc3d1e57]
+## 16. Action by Secretariat in fixing a hearing date[^c-240ebe2bb9ee40452e0b81c0fc3d1e57]
 
-(1) Where an oral hearing is to be held, the Secretariat shall, within twenty working days of the date of receiving the Secretary of State’s[^key-d7fb238e89351da79de6a4fe55f3d44a] reply within the period specified in regulation 9(1), fix a date for the hearing.
+(1) Where an oral hearing is to be held, the Secretariat shall, within twenty working days of the date of receiving the Secretary of State’s[^c-d7fb238e89351da79de6a4fe55f3d44a] reply within the period specified in regulation 9(1), fix a date for the hearing.
 
 (2) The Secretariat shall send to the parties a notice—
 
@@ -202,22 +202,22 @@ the Secretariat shall notify the parties that the appointed person will determin
 - (c) stating the consequences under regulation 19(5) of not attending the hearing; and
 - (d) giving guidance regarding the right to submit written representations if that party elects not to attend or be represented at the hearing pursuant to regulation 17(1)(a).
 
-(3) If the Secretary of State[^key-d03de5dd502a672f56fb4c6f3f7345d4] fails to send a reply within the period specified in regulation 9(1) and an extension of time is not granted under regulation 13, the Secretariat shall, within twenty working days of the end of the period specified in regulation 9(1), fix a date for the hearing.
+(3) If the Secretary of State[^c-d03de5dd502a672f56fb4c6f3f7345d4] fails to send a reply within the period specified in regulation 9(1) and an extension of time is not granted under regulation 13, the Secretariat shall, within twenty working days of the end of the period specified in regulation 9(1), fix a date for the hearing.
 
 (4) The date fixed for the hearing shall be not less than fifteen working days after the date on which the notice referred to in paragraph (2) is sent to the parties.
 
-## 17. Procedure preliminary to oral hearing[^key-38066263854a59224a467c9cf565f50b]
+## 17. Procedure preliminary to oral hearing[^c-38066263854a59224a467c9cf565f50b]
 
 (1) Not less than ten working days before the date fixed for an oral hearing, each party shall—
 
 - (a) inform the Secretariat if they intend to appear and, whether or not they intend to appear in person, if they will be represented at the hearing; and
 - (b) if appearing or being represented, specify which, if any, witnesses they intend to call and enclose a signed witness statement for each witness containing the evidence the witness intends to give at the oral hearing.
 
-(2) Either party may submit written representations to the appointed person not later than five working days prior to the oral hearing, whether or not that party has elected to appear or be represented unless regulation 9(3) applies in the case of the Secretary of State[^key-7072d15dcf01fe6892d0ef1f327e68f5].
+(2) Either party may submit written representations to the appointed person not later than five working days prior to the oral hearing, whether or not that party has elected to appear or be represented unless regulation 9(3) applies in the case of the Secretary of State[^c-7072d15dcf01fe6892d0ef1f327e68f5].
 
 (3) The Secretariat shall send to the other party a copy of any representations or witness statements received under this regulation.
 
-## 18. Change in place, date or time of the hearing[^key-455a1c4bb49eafb93d3917050fec6e21]
+## 18. Change in place, date or time of the hearing[^c-455a1c4bb49eafb93d3917050fec6e21]
 
 (1) The appointed person may change the place, date or time of the hearing if he considers it appropriate.
 
@@ -225,7 +225,7 @@ the Secretariat shall notify the parties that the appointed person will determin
 
 (3) Any altered hearing date shall not be before the date notified under regulation 16 unless both parties agree.
 
-## 19. Procedure at the hearing[^key-67ad256451ba9860cdda0c6a43a9cb64]
+## 19. Procedure at the hearing[^c-67ad256451ba9860cdda0c6a43a9cb64]
 
 (1) The appointed person may give directions to the parties concerning the procedure to be followed at the hearing.
 
@@ -245,7 +245,7 @@ the Secretariat shall notify the parties that the appointed person will determin
 
 (9) The appointed person shall send to the parties, not later than three working days after the date on which the hearing is adjourned, a notice informing them of the place, date and time of the adjourned hearing.
 
-## 20. Expedited procedure for decisions with immediate effect[^key-1d83090fd730eaa98e47e74d6f6486d2]
+## 20. Expedited procedure for decisions with immediate effect[^c-1d83090fd730eaa98e47e74d6f6486d2]
 
 (1) An appeal against a decision with immediate effect shall be heard and determined not later than thirty-five working days after the date on which the notice of appeal is received by the Secretariat, unless the appointed person decides in the interests of justice that the expedited procedure in this regulation shall not apply.
 
@@ -255,13 +255,13 @@ the Secretariat shall notify the parties that the appointed person will determin
 
 (4) The appointed person shall promptly notify each party of the applicable procedure to be followed and of any subsequent variation.
 
-## 21. Appeal decisions[^key-4dfc6eb4a402a7bcb505eba7d8b86070]
+## 21. Appeal decisions[^c-4dfc6eb4a402a7bcb505eba7d8b86070]
 
 (1) The appointed person shall allow or dismiss the appeal.
 
 (2) The decision of the appointed person shall be binding on the parties.
 
-## 22. Determination of appeal by the appointed person[^key-5c55e394440b4712ebeb3f2f99f18f3c]
+## 22. Determination of appeal by the appointed person[^c-5c55e394440b4712ebeb3f2f99f18f3c]
 
 (1) The decision of the appointed person—
 
@@ -273,7 +273,7 @@ the Secretariat shall notify the parties that the appointed person will determin
 
 (3) The record of the decision and the reasons for the decision shall be a matter of public record.
 
-## 23. Register[^key-d35924cc9c93e507b2c9083e4f7ac1ac]
+## 23. Register[^c-d35924cc9c93e507b2c9083e4f7ac1ac]
 
 (1) The Secretariat shall keep a register which is open to inspection by any person without charge at all reasonable hours.
 
@@ -281,20 +281,20 @@ the Secretariat shall notify the parties that the appointed person will determin
 
 (3) The register or any part of it may be kept by means of a computer.
 
-## 24. Irregularities[^key-6415bb278bf1daad22a34072b7e37c6b]
+## 24. Irregularities[^c-6415bb278bf1daad22a34072b7e37c6b]
 
 (1) Any irregularity resulting from a failure to comply with any provision of these Regulations shall not of itself render the proceedings void.
 
 (2) Where any such irregularity comes to the attention of the appointed person prior to finally determining the appeal, he may give such directions as he thinks appropriate to overcome any prejudice caused to a party by the irregularity.
 
-## 25. Delivery[^key-28924650700343baef2416f346a0a444]
+## 25. Delivery[^c-28924650700343baef2416f346a0a444]
 
 (1) Anything required to be sent under these Regulations may be—
 
 - (a) delivered personally; or
 - (b) sent by post, fax or e-mail.
 
-(2) A person’s postal address for the purposes of paragraph (1)(b) is the address stated in his notice of appeal or (in the case of the Secretary of State[^key-87e4628f18fabd264475de22ddea44e2]) the Secretary of State’s[^key-50a55714ede93d9de42bf9b779f7db2d] reply, or such other address as may be subsequently notified to the Secretariat.
+(2) A person’s postal address for the purposes of paragraph (1)(b) is the address stated in his notice of appeal or (in the case of the Secretary of State[^c-87e4628f18fabd264475de22ddea44e2]) the Secretary of State’s[^c-50a55714ede93d9de42bf9b779f7db2d] reply, or such other address as may be subsequently notified to the Secretariat.
 
 Sealed with the Official Seal of the Department of Agriculture and Rural Development on 20th April 2006.
 
@@ -351,126 +351,126 @@ A Regulatory Impact Assessment has been prepared. Copies can be obtained from Fa
 
 [^f00002]: Footnote: [2004 c. 11](https://www.legislation.gov.uk/ukpga/2004/11): *see* modifications to sections 10 and 25(2) made by paragraphs 11, 19(1) and 19(2) of Schedule 2
 
-[^key-df3cbacf7e85ace568a3295abd8333af]: Commencement: Reg. 1 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-df3cbacf7e85ace568a3295abd8333af]: Commencement: Reg. 1 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-b45ea17843b9f9601c6f25faafd80390]: Commencement: Reg. 2 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-b45ea17843b9f9601c6f25faafd80390]: Commencement: Reg. 2 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-128ffd791c23dc689a0b889524d51287]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/a)
+[^c-128ffd791c23dc689a0b889524d51287]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) omitted (7.4.2026) by virtue of [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/a)
 
-[^key-41af2505068266586539bc3201e8478c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/b)
+[^c-41af2505068266586539bc3201e8478c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/b)
 
-[^key-056c68110e0ddb9a03c1c632d65ff4f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/c)
+[^c-056c68110e0ddb9a03c1c632d65ff4f9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/c)
 
-[^key-eac9098b3155b3dad28dd58985667a0d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/d)
+[^c-eac9098b3155b3dad28dd58985667a0d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(d)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/d)
 
-[^key-22f8ff550d28b0c32544c258a2ab2b27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/e)
+[^c-22f8ff550d28b0c32544c258a2ab2b27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(e)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/e)
 
-[^key-979c2373d75978369866cc43586e08d3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(f)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/f)
+[^c-979c2373d75978369866cc43586e08d3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/2/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(2)(f)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/2/f)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3f002b3e970c8dc94196b61ac4a5db46]: Commencement: Reg. 3 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-3f002b3e970c8dc94196b61ac4a5db46]: Commencement: Reg. 3 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-f8ae79698f13e86b0e5e404c04f1c58f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/3/1) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/paragraph/5) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-f8ae79698f13e86b0e5e404c04f1c58f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/3/1) substituted (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 5](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/paragraph/5) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
 
-[^key-3a73f59ac2be957a8d5f96d7d93af9b0]: Commencement: Reg. 4 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-3a73f59ac2be957a8d5f96d7d93af9b0]: Commencement: Reg. 4 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-0875356f05179fac813d19c88c184828]: Commencement: Reg. 5 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-0875356f05179fac813d19c88c184828]: Commencement: Reg. 5 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-ac440af3d842d5fa869c87cd6810fe48]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/5/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/3)
+[^c-ac440af3d842d5fa869c87cd6810fe48]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/5/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/3)
 
-[^key-e7915fafe60a87781da0a4626a512cca]: Commencement: Reg. 6 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-e7915fafe60a87781da0a4626a512cca]: Commencement: Reg. 6 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-1cc1acaebc9b03a13ddc8241d13c5b92]: Commencement: Reg. 7 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-1cc1acaebc9b03a13ddc8241d13c5b92]: Commencement: Reg. 7 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-8fc701784e82eb30eba919e8e69a8f01]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/7/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/4)
+[^c-8fc701784e82eb30eba919e8e69a8f01]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/7/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/4)
 
-[^key-6e92dedeff7f276aad59a908ffde11c2]: Commencement: Reg. 8 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-6e92dedeff7f276aad59a908ffde11c2]: Commencement: Reg. 8 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-2f7811e05dc19e872192109a283d3512]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/nisr/2006/189/regulation/8/4) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/5)
+[^c-2f7811e05dc19e872192109a283d3512]: Textual amendment: Words in [reg. 8(4)](https://www.legislation.gov.uk/nisr/2006/189/regulation/8/4) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/5)
 
-[^key-e8003ac1f557b112b2305245a294ffa3]: Commencement: Reg. 9 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-e8003ac1f557b112b2305245a294ffa3]: Commencement: Reg. 9 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-eb01cc4c1771904c9dba277ed02ea2fa]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2006/189/regulation/9) heading substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/a)
+[^c-eb01cc4c1771904c9dba277ed02ea2fa]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/nisr/2006/189/regulation/9) heading substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/a)
 
-[^key-19ed2ac8e5bad7b56a67db99b95c7f8c]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/b)
+[^c-19ed2ac8e5bad7b56a67db99b95c7f8c]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/b)
 
-[^key-586b03180b0f74e3aaba909c2e1fd356]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/c/i)
+[^c-586b03180b0f74e3aaba909c2e1fd356]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(c)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/c/i)
 
-[^key-90957033d4a1fa7deed8dd68d96b34b3]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/c/ii)
+[^c-90957033d4a1fa7deed8dd68d96b34b3]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/c/ii)
 
-[^key-8d05018835c85f411b263969045e0c55]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/c/iii)
+[^c-8d05018835c85f411b263969045e0c55]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(c)(iii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/c/iii)
 
-[^key-99dccb509c101d0a8e13d113751c360b]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(d)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/d/i)
+[^c-99dccb509c101d0a8e13d113751c360b]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(d)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/d/i)
 
-[^key-b5f7271e4b19c64612ed2b3bb690ab02]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/d/ii)
+[^c-b5f7271e4b19c64612ed2b3bb690ab02]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/9/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(6)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/6/d/ii)
 
-[^key-dc806e6e11f24a10c581f8f0fb428b10]: Commencement: Reg. 10 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-dc806e6e11f24a10c581f8f0fb428b10]: Commencement: Reg. 10 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-721bb50a2a7a39bc8d4323234afc82ff]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2006/189/regulation/10) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/a)
+[^c-721bb50a2a7a39bc8d4323234afc82ff]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/nisr/2006/189/regulation/10) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/a)
 
-[^key-ad87a37738e8c9f9eaa29b2306c9fc21]: Textual amendment: Words in [reg. 10(a)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/a) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/b)
+[^c-ad87a37738e8c9f9eaa29b2306c9fc21]: Textual amendment: Words in [reg. 10(a)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/a) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/b)
 
-[^key-f4b875bd8023157cf462eca7d1c18d3f]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/b) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(c)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/c)
+[^c-f4b875bd8023157cf462eca7d1c18d3f]: Textual amendment: Words in [reg. 10(b)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/b) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(c)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/c)
 
-[^key-de1821ab4b5f576189d9aa50d8f94609]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/c) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(d)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/d/i)
+[^c-de1821ab4b5f576189d9aa50d8f94609]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/c) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(d)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/d/i)
 
-[^key-eacfe2e0f5f2d174f158b95788d048ab]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/c) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/d/ii)
+[^c-eacfe2e0f5f2d174f158b95788d048ab]: Textual amendment: Words in [reg. 10(c)](https://www.legislation.gov.uk/nisr/2006/189/regulation/10/c) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(7)(d)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/7/d/ii)
 
-[^key-ddb371047b99260c2077d04bc1635116]: Commencement: Reg. 11 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-ddb371047b99260c2077d04bc1635116]: Commencement: Reg. 11 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-95816614bc980086b1f2b8c855261aa8]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2006/189/regulation/11) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/8/a)
+[^c-95816614bc980086b1f2b8c855261aa8]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2006/189/regulation/11) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(8)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/8/a)
 
-[^key-69390c74166202b7275a9635de805fba]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/nisr/2006/189/regulation/11/a) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(8)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/8/b)
+[^c-69390c74166202b7275a9635de805fba]: Textual amendment: Words in [reg. 11(a)](https://www.legislation.gov.uk/nisr/2006/189/regulation/11/a) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(8)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/8/b)
 
-[^key-e0e0b93d6287851520136e6368bdac6c]: Commencement: Reg. 12 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-e0e0b93d6287851520136e6368bdac6c]: Commencement: Reg. 12 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-61bb26839402d179cf5a3b53c4efc75e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(a)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/a/i)
+[^c-61bb26839402d179cf5a3b53c4efc75e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(a)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/a/i)
 
-[^key-2c7e7b66b15a7442cfd2bac6c108efaa]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/a/ii)
+[^c-2c7e7b66b15a7442cfd2bac6c108efaa]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/a/ii)
 
-[^key-587cde2cc2d4d3ebf97aeccef313dd55]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/b)
+[^c-587cde2cc2d4d3ebf97aeccef313dd55]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/b)
 
-[^key-36a070428996c2c6f3197dc53befd6fb]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(c)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/c)
+[^c-36a070428996c2c6f3197dc53befd6fb]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/12/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(9)(c)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/9/c)
 
-[^key-9f36ec0ae5c9236a0b121761c18df7e1]: Commencement: Reg. 13 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-9f36ec0ae5c9236a0b121761c18df7e1]: Commencement: Reg. 13 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-f8daacafc98fedbc2ac711ca2c55e5ac]: Commencement: Reg. 14 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-f8daacafc98fedbc2ac711ca2c55e5ac]: Commencement: Reg. 14 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-0ced496e3f5c6efe01c55388a928aa5f]: Commencement: Reg. 15 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-0ced496e3f5c6efe01c55388a928aa5f]: Commencement: Reg. 15 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-2fe6ee4252e52ef5b1f29d225562d875]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/nisr/2006/189/regulation/15/2/b) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(10)(a)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/10/a/i)
+[^c-2fe6ee4252e52ef5b1f29d225562d875]: Textual amendment: Words in [reg. 15(2)(b)](https://www.legislation.gov.uk/nisr/2006/189/regulation/15/2/b) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(10)(a)(i)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/10/a/i)
 
-[^key-12aa0ecbad90ca0d0fe46a3b5df7e608]: Textual amendment: Word in [reg. 15(2)(b)](https://www.legislation.gov.uk/nisr/2006/189/regulation/15/2/b) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/10/a/ii)
+[^c-12aa0ecbad90ca0d0fe46a3b5df7e608]: Textual amendment: Word in [reg. 15(2)(b)](https://www.legislation.gov.uk/nisr/2006/189/regulation/15/2/b) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(10)(a)(ii)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/10/a/ii)
 
-[^key-6384a27f08e1905cafe7ab799816d778]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/15/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(10)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/10/b)
+[^c-6384a27f08e1905cafe7ab799816d778]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/15/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(10)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/10/b)
 
-[^key-240ebe2bb9ee40452e0b81c0fc3d1e57]: Commencement: Reg. 16 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-240ebe2bb9ee40452e0b81c0fc3d1e57]: Commencement: Reg. 16 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-d7fb238e89351da79de6a4fe55f3d44a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/16/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(11)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/11/a)
+[^c-d7fb238e89351da79de6a4fe55f3d44a]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/189/regulation/16/1) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(11)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/11/a)
 
-[^key-d03de5dd502a672f56fb4c6f3f7345d4]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/16/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(11)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/11/b)
+[^c-d03de5dd502a672f56fb4c6f3f7345d4]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/nisr/2006/189/regulation/16/3) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(11)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/11/b)
 
-[^key-38066263854a59224a467c9cf565f50b]: Commencement: Reg. 17 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-38066263854a59224a467c9cf565f50b]: Commencement: Reg. 17 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-7072d15dcf01fe6892d0ef1f327e68f5]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/17/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/12)
+[^c-7072d15dcf01fe6892d0ef1f327e68f5]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/17/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(12)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/12)
 
-[^key-455a1c4bb49eafb93d3917050fec6e21]: Commencement: Reg. 18 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-455a1c4bb49eafb93d3917050fec6e21]: Commencement: Reg. 18 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-67ad256451ba9860cdda0c6a43a9cb64]: Commencement: Reg. 19 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-67ad256451ba9860cdda0c6a43a9cb64]: Commencement: Reg. 19 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-1d83090fd730eaa98e47e74d6f6486d2]: Commencement: Reg. 20 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-1d83090fd730eaa98e47e74d6f6486d2]: Commencement: Reg. 20 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-4dfc6eb4a402a7bcb505eba7d8b86070]: Commencement: Reg. 21 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-4dfc6eb4a402a7bcb505eba7d8b86070]: Commencement: Reg. 21 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-5c55e394440b4712ebeb3f2f99f18f3c]: Commencement: Reg. 22 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-5c55e394440b4712ebeb3f2f99f18f3c]: Commencement: Reg. 22 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-d35924cc9c93e507b2c9083e4f7ac1ac]: Commencement: Reg. 23 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-d35924cc9c93e507b2c9083e4f7ac1ac]: Commencement: Reg. 23 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-6415bb278bf1daad22a34072b7e37c6b]: Commencement: Reg. 24 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-6415bb278bf1daad22a34072b7e37c6b]: Commencement: Reg. 24 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-28924650700343baef2416f346a0a444]: Commencement: Reg. 25 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
+[^c-28924650700343baef2416f346a0a444]: Commencement: Reg. 25 in operation at 15.5.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/189/regulation/1)
 
-[^key-87e4628f18fabd264475de22ddea44e2]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/25/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(13)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/13/a)
+[^c-87e4628f18fabd264475de22ddea44e2]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/25/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(13)(a)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/13/a)
 
-[^key-50a55714ede93d9de42bf9b779f7db2d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/25/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(13)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/13/b)
+[^c-50a55714ede93d9de42bf9b779f7db2d]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2006/189/regulation/25/2) substituted (7.4.2026) by [The Employment Rights Act 2025 (Enforcement) (Consequential Amendments) Regulations 2026 (S.I. 2026/302)](https://www.legislation.gov.uk/uksi/2026/302), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/302/regulation/1/1), [4(13)(b)](https://www.legislation.gov.uk/uksi/2026/302/regulation/4/13/b)

@@ -60,7 +60,7 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
 - “the 1995 Act" means the Environment Act 1995 [^c16010651];
 - “the Agency" means the Environment Agency established by section 1 of the 1995 Act;
 - “applicant" means a person who applies for registration under regulation 6;
-- “[^key-c907febd120bd8059a11c036e251463e]**the appropriate authority**” means—
+- “[^c-c907febd120bd8059a11c036e251463e]**the appropriate authority**” means—
   - (a) in relation to England, the Environment Agency;
   - (b) in relation to Wales, the NRBW;
 - “contaminated equipment" means any equipment (including any transformer, capacitor or receptacle containing residual stocks) which—
@@ -72,9 +72,9 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
   - (i) the PCB volume of a power capacitor shall be measured by reference to all of the separate elements of a combined set, and
   - (ii) any thing of a type which may contain PCBs shall be treated as containing PCBs unless it is reasonable to assume the contrary;
 - “decontamination" means all operations which enable equipment, objects, materials or fluids contaminated by PCBs to be reused, recycled or disposed of under safe conditions, and which may include replacement, meaning all operations in which PCBs are replaced by suitable fluids not containing PCBs;
-- “[^key-2085c9b380202447cba8c7e82dc38437]**Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)**” means that Directive as last amended by Council Regulation (EU) 2017/997, read in accordance with paragraph (2A).
+- “[^c-2085c9b380202447cba8c7e82dc38437]**Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98)**” means that Directive as last amended by Council Regulation (EU) 2017/997, read in accordance with paragraph (2A).
 - “the Directive" means Council Directive [96/59/EC](https://www.legislation.gov.uk/european/directive/1996/0059) on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCB/PCT) [^c16010661];
-- “disposal" means any of the operations D8, D9, D10, D12 (only in safe, deep, underground storage in dry rock formations and only for equipment containing PCBs or used PCBs which cannot be decontaminated) and D15 provided for in Annex I of Directive[^key-9b90f895f0c46a0c03bd73c3d9e9b096] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste and set out in Schedule 1 to these Regulations;
+- “disposal" means any of the operations D8, D9, D10, D12 (only in safe, deep, underground storage in dry rock formations and only for equipment containing PCBs or used PCBs which cannot be decontaminated) and D15 provided for in Annex I of Directive[^c-9b90f895f0c46a0c03bd73c3d9e9b096] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste and set out in Schedule 1 to these Regulations;
 - “holder" means the person who is in possession of PCBs, including any used PCBs, or of any equipment;
 - “**the NRBW**” means the Natural Resources Body for Wales;
 - “PCBs" means any of the following substances—
@@ -84,15 +84,15 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
   - monomethyl-dichloro-diphenyl methane,
   - monomethyl-tetrachlorodiphenyl methane,
 
-  and, except in regulations 4(3A), (3C) and (4), 5(3) and 9(3)[^key-36f18ce602a9e7db9cfda56897e6bb42], includes any mixture containing any of those substances in a total of more than 0.005% by weight;
-- “registered holder" means a person registered with the appropriate authority[^key-35b9228916b559216b6d8a4699e7955a] in accordance with regulation 6, and a registered holder is a registered holder in relation to particular equipment if a description of that equipment, including its location, has been furnished to the appropriate authority;
+  and, except in regulations 4(3A), (3C) and (4), 5(3) and 9(3)[^c-36f18ce602a9e7db9cfda56897e6bb42], includes any mixture containing any of those substances in a total of more than 0.005% by weight;
+- “registered holder" means a person registered with the appropriate authority[^c-35b9228916b559216b6d8a4699e7955a] in accordance with regulation 6, and a registered holder is a registered holder in relation to particular equipment if a description of that equipment, including its location, has been furnished to the appropriate authority;
 - “transformer" includes ancillary equipment, that is to say, equipment that is an integral part of the site of which the transformer is part, including radiators, bushings, through-wall bushings, and capacitors on air blast circuit breakers;
-- “used PCBs" means any PCBs which are waste within the meaning of Directive[^key-36cd8f366a52f449d96c6b5757228479] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
+- “used PCBs" means any PCBs which are waste within the meaning of Directive[^c-36cd8f366a52f449d96c6b5757228479] [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
 - “Welsh Assembly" means the National Assembly for Wales [^c16010691].
 
 (2) Other expressions used in these Regulations and in the Directive shall have the same meaning in these Regulations as they have in the Directive.
 
-(2A)[^key-78a45ddeaf683c4173e1e689b4bf67bf] For the purposes of these Regulations, Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) is to be read as if—
+(2A)[^c-78a45ddeaf683c4173e1e689b4bf67bf] For the purposes of these Regulations, Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) is to be read as if—
 
 - (a) Article 5(2) were omitted;
 - (b) in Article 6—
@@ -118,14 +118,14 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
 (5) For the purposes of this regulation an application is finally determined—
 
 - (a) where it is granted under regulation 6(3), on the date on which it is granted;
-- (b) where it is refused under regulation 6(3), on the date on which the appropriate authority[^key-e142c5fa2517c53bff3df12ff333628f] gives notice under regulation 6(5);
+- (b) where it is refused under regulation 6(3), on the date on which the appropriate authority[^c-e142c5fa2517c53bff3df12ff333628f] gives notice under regulation 6(5);
 - (c) where it is deemed by regulation 6(6) to be refused—
   - (i) where the period allowed for appealing against that refusal expires without an appeal being brought, on the expiry of that period,
   - (ii) where an appeal is brought within that period, on the expiry of the period of 14 days beginning with the date of the determination or earlier withdrawal of the appeal.
 
 ### 4. Prohibition on holding irrespective of registration
 
-(1) Subject to paragraphs (2) to (3D)[^key-32e39e66c88bba652c368600a358eaa9], (5) and (9), no person shall, after 31st December 2000, hold—
+(1) Subject to paragraphs (2) to (3D)[^c-32e39e66c88bba652c368600a358eaa9], (5) and (9), no person shall, after 31st December 2000, hold—
 
 - (a) any PCBs, including any used PCBs; or
 - (b) any equipment (whether or not that equipment is contaminated equipment)—
@@ -137,20 +137,20 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
 - (a) PCBs, including any used PCBs, or equipment for the purposes of, or in the course of any business, manufacturing process or trade concerned with the decontamination or disposal of PCBs or such equipment;
 - (b) PCBs, including any used PCBs, which are manufactured, supplied or used solely for the purposes of analysis, or of research connected with the properties and effects of PCBs, and any equipment used as a receptacle for those PCBs, provided that any such PCBs and equipment are disposed of as soon as possible after the PCBs are no longer required for those purposes.
 
-(3A)[^key-e99026160265d5ee09ad47a664747f02] Paragraph (3B) applies to a transformer in respect of which it is reasonable to assume that it contains[^key-99590de06485a192317a875578b9a5ab]—
+(3A)[^c-e99026160265d5ee09ad47a664747f02] Paragraph (3B) applies to a transformer in respect of which it is reasonable to assume that it contains[^c-99590de06485a192317a875578b9a5ab]—
 
-- (a) 0.005% by weight, or less, of PCBs within the fluids containing PCBs[^key-8ebca3b713c341a919413fbb7255816d]; or
-- (b) a total volume of 0.05dm3, or less, of fluids containing PCBs[^key-dd093daa60478e15ec2b453df7ec976d].
+- (a) 0.005% by weight, or less, of PCBs within the fluids containing PCBs[^c-8ebca3b713c341a919413fbb7255816d]; or
+- (b) a total volume of 0.05dm3, or less, of fluids containing PCBs[^c-dd093daa60478e15ec2b453df7ec976d].
 
 (3B) A transformer to which this paragraph applies—
 
 - (a) may be held until the end of its useful life; and
 - (b) must then be decontaminated in accordance with paragraph (4)(b) to (d), or disposed of, as soon as possible.
 
-(3C) Paragraph (3D) applies to a transformer in respect of which it is reasonable to assume that it contains[^key-82f8a6c1cc843dabd068e547c2d7a76e]—
+(3C) Paragraph (3D) applies to a transformer in respect of which it is reasonable to assume that it contains[^c-82f8a6c1cc843dabd068e547c2d7a76e]—
 
-- (a) more than 0.005% but no more than 0.05% by weight of PCBs within the fluids containing PCBs[^key-a9c8caa9c3acbf23bae10895de24d235]; and
-- (b) a total volume of more than 0.05dm3 of PCBs fluids containing PCBs[^key-675120f2fba3b18f0dfef0c5bf3ec9a7].
+- (a) more than 0.005% but no more than 0.05% by weight of PCBs within the fluids containing PCBs[^c-a9c8caa9c3acbf23bae10895de24d235]; and
+- (b) a total volume of more than 0.05dm3 of PCBs fluids containing PCBs[^c-675120f2fba3b18f0dfef0c5bf3ec9a7].
 
 (3D) A transformer to which this paragraph applies—
 
@@ -159,7 +159,7 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
 
 (4) A transformer in respect of which it is reasonable to assume that the fluids contain more than 0.05% by weight of PCBs shall be decontaminated under the following conditions—
 
-- (a) the objective of the decontamination must be to reduce the content of PCBs in the fluid to 0.005% by weight, or less, or[^key-63768b3815324539a5a1f8aeb92aaa1e] to reduce the total volume of fluids containing PCBs to[^key-a178ddde36474a6ae2a3788380bbfea3] 0.05dm3, or less;
+- (a) the objective of the decontamination must be to reduce the content of PCBs in the fluid to 0.005% by weight, or less, or[^c-63768b3815324539a5a1f8aeb92aaa1e] to reduce the total volume of fluids containing PCBs to[^c-a178ddde36474a6ae2a3788380bbfea3] 0.05dm3, or less;
 - (b) the replacement fluid not containing PCBs must entail markedly lesser risks;
 - (c) the replacement of the fluid must not compromise the subsequent disposal of the PCBs; and
 - (d) the labelling of the transformer after its decontamination must be replaced by the labelling specified in Schedule 2 to these Regulations.
@@ -171,7 +171,7 @@ The Secretary of State for the Environment, Transport and the Regions, being a M
 
 (6) A direction under paragraph (5) may be confirmed with or without modifications.
 
-(6A)[^key-3bfe9ee3c181838132e232b18e4183ff] Where a holder has, before 1st January 2001, made an application in writing to the Agency for a direction to be given under paragraph (5) in relation to equipment, but
+(6A)[^c-3bfe9ee3c181838132e232b18e4183ff] Where a holder has, before 1st January 2001, made an application in writing to the Agency for a direction to be given under paragraph (5) in relation to equipment, but
 
 - (a) the Agency does not determine the application before that date; or
 - (b) a direction given by the Agency in relation to any of that equipment is not confirmed before that date by the Secretary of State or the Welsh Assembly,
@@ -190,13 +190,13 @@ paragraphs (1) and (5) shall have effect in relation to that equipment as if for
 
 (9) Any equipment containing PCBs—
 
-- (a) which is equipment to which none of paragraphs (2) to (3D)[^key-ecd27771a1b3d15a594c58313f2dbcd9] and (5) applies;
-- (b) which is relevant[^key-e8fc9105df8531a3369362ba3d054ca4] equipment; and
-- (c) which is part of another piece of equipment which is also relevant[^key-6984b00e756eb82fd5e8b72fcf576212] equipment,
+- (a) which is equipment to which none of paragraphs (2) to (3D)[^c-ecd27771a1b3d15a594c58313f2dbcd9] and (5) applies;
+- (b) which is relevant[^c-e8fc9105df8531a3369362ba3d054ca4] equipment; and
+- (c) which is part of another piece of equipment which is also relevant[^c-6984b00e756eb82fd5e8b72fcf576212] equipment,
 
 may be held until that other piece of equipment is taken out of use, recycled or disposed of; and shall then, where reasonably practicable, be removed and collected separately from that other equipment.
 
-(10)[^key-d8210d01f066497bebcb2950201b5d3a] In paragraph (9), “relevant equipment” means any equipment (including any capacitor or receptacle containing residual stocks) which—
+(10)[^c-d8210d01f066497bebcb2950201b5d3a] In paragraph (9), “relevant equipment” means any equipment (including any capacitor or receptacle containing residual stocks) which—
 
 - (a) contains PCBs; or
 - (b) having contained PCBs, has not been decontaminated,
@@ -214,12 +214,12 @@ other than one which contains a total volume of PCBs exceeding 0.05dm3.
 
 (2) Subject to paragraph (3), the sign shall record that the equipment is, or the premises contain equipment that is, contaminated by PCBs.
 
-(3)[^key-3da7291bc5fdc036be327fe2d8ca0733] Equipment in respect of which it is reasonable to assume that [^key-8d07d25c3e10d5956beda4249fc196f1]...—
+(3)[^c-3da7291bc5fdc036be327fe2d8ca0733] Equipment in respect of which it is reasonable to assume that [^c-8d07d25c3e10d5956beda4249fc196f1]...—
 
-- (a) within the equipment the fluids contain[^key-17861501d40f64df647d36ca37799392] 0.005% by weight, or less, of PCBs; or
-- (b) the equipment contains[^key-d3c45a970e6c7bd4a457ed66c15050b3] a total volume of 0.05dm3, or less, of fluids containing[^key-7f4e452facb71202afbce62564cb1c3d] PCBs,
+- (a) within the equipment the fluids contain[^c-17861501d40f64df647d36ca37799392] 0.005% by weight, or less, of PCBs; or
+- (b) the equipment contains[^c-d3c45a970e6c7bd4a457ed66c15050b3] a total volume of 0.05dm3, or less, of fluids containing[^c-7f4e452facb71202afbce62564cb1c3d] PCBs,
 
-may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe307133016122dface4ac6c9a].
+may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^c-3a2e27fe307133016122dface4ac6c9a].
 
 ## PART III — REGISTRATION OF HOLDERS OF CONTAMINATED EQUIPMENT
 
@@ -227,7 +227,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 
 (1) Subject to paragraph (2), an application for registration—
 
-- (a) shall be made in writing on a form provided by the appropriate authority[^key-d9874ff5657e67bd4711b0aba784bdf1]; and
+- (a) shall be made in writing on a form provided by the appropriate authority[^c-d9874ff5657e67bd4711b0aba784bdf1]; and
 - (b) shall contain the following particulars—
   - (i) the name and address of the applicant,
   - (ii) a description of the contaminated equipment, identifying its location or intended location,
@@ -238,7 +238,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 (2) Information of the descriptions—
 
 - (a) in paragraph (1)(b)(ii) to (v) may be provided in an electronic form acceptable to the appropriate authority;
-- (b)[^key-ee82d388f6eee535c5402d4a487ca1a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ee82d388f6eee535c5402d4a487ca1a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) An application for registration shall be granted where the applicant has complied with paragraph (1) and regulation 12 and shall otherwise be refused.
 
@@ -248,7 +248,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 
 (6) Where the appropriate authority fails to determine an application within 56 days of the date on which the application is made, the application shall be deemed to have been refused on the expiry of that period.
 
-(7)[^key-3cd50cf86e108ee02a28d4a7b6782d29] An application which relates to equipment held or to be held—
+(7)[^c-3cd50cf86e108ee02a28d4a7b6782d29] An application which relates to equipment held or to be held—
 
 - (a) only at a location in England must be made to the Environment Agency;
 - (b) only at a location in Wales must be made to the NRBW;
@@ -256,7 +256,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 
 ### 7. Cancellation of registration or particulars
 
-(1) The appropriate authority[^key-303fe70b7c0a81dcbce04ef0b51780bf] may cancel the registration with it of a holder where it appears to the appropriate authority that the applicant supplied false information in connection with his application for registration or has failed to comply with regulation 10(1) or (2) or a notice under regulation 10(4) (whether or not proceedings are instituted).
+(1) The appropriate authority[^c-303fe70b7c0a81dcbce04ef0b51780bf] may cancel the registration with it of a holder where it appears to the appropriate authority that the applicant supplied false information in connection with his application for registration or has failed to comply with regulation 10(1) or (2) or a notice under regulation 10(4) (whether or not proceedings are instituted).
 
 (2) The appropriate authority shall cancel the registered particulars in respect of a particular location if it appears to the appropriate authority that the registered holder does not hold contaminated equipment there.
 
@@ -284,7 +284,7 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 
 (4) If a party to the appeal so requests, or the relevant appellate authority so decides, an appeal under this regulation shall be or continue in the form of a hearing (which may, if the person hearing the appeal so decides, be held or held to any extent in private).
 
-(5) Where, on appeal in a case falling within paragraph (1)(b), the person determining the appeal determines that the decision of the appropriate authority[^key-9f05a197e63b4ecf4bffd120f5d54634] shall be altered it shall be the duty of the appropriate authority to give effect to the determination.
+(5) Where, on appeal in a case falling within paragraph (1)(b), the person determining the appeal determines that the decision of the appropriate authority[^c-9f05a197e63b4ecf4bffd120f5d54634] shall be altered it shall be the duty of the appropriate authority to give effect to the determination.
 
 (6) While an appeal is pending in a case falling within paragraph (1)(b), the decision in question shall be ineffective as respects any equipment which is the subject matter of the appeal; and if the appeal is dismissed or withdrawn the decision shall become effective from the end of the day on which the appeal is dismissed or withdrawn.
 
@@ -320,12 +320,12 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 (5) The Agency shall—
 
 - (a) on or before 30th September in each year after 2000, review the inventory which it has compiled in accordance with paragraph (1) or, as the case may be, the most recent revision of that inventory; and
-- (b) on or before 30th September in each year after 2000 provide the Secretary of State [^key-6c5c8fb43651fbbb9d99d8fb19fe832d]... with a summary which shall include the total for the time being of—
+- (b) on or before 30th September in each year after 2000 provide the Secretary of State [^c-6c5c8fb43651fbbb9d99d8fb19fe832d]... with a summary which shall include the total for the time being of—
   - (i) the number of registered holders; and
   - (ii) the number of items of equipment of which particulars are registered.
-- (c)[^key-77f8274452aa7f7a68e6d66b9f862b6a] exercise the functions in paragraphs (1) to (5) in relation to every location in England.
+- (c)[^c-77f8274452aa7f7a68e6d66b9f862b6a] exercise the functions in paragraphs (1) to (5) in relation to every location in England.
 
-(5A)[^key-9425897d4eb4d687bb4e2ebe5bfcc2dc] The NRBW must compile an inventory of the contaminated equipment held at every location in Wales in respect of which there is a registered holder.
+(5A)[^c-9425897d4eb4d687bb4e2ebe5bfcc2dc] The NRBW must compile an inventory of the contaminated equipment held at every location in Wales in respect of which there is a registered holder.
 
 (5B) Subject to paragraph (3) an inventory compiled in accordance with paragraph (5A) must record the information specified in paragraph (2).
 
@@ -336,13 +336,13 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
   - (i) the number of registered holders; and
   - (ii) the number of items of equipment of which particulars are registered.
 
-(6) Paragraph (3) shall apply in respect of a review under paragraph (5)(a) and paragraph (5C)[^key-97ea67cfae18dee4db1bc61bb41ea6f6] as it applies to the compilation of the inventory.
+(6) Paragraph (3) shall apply in respect of a review under paragraph (5)(a) and paragraph (5C)[^c-97ea67cfae18dee4db1bc61bb41ea6f6] as it applies to the compilation of the inventory.
 
 ### 10. Information for inventories
 
-(1) A registered holder who (because any of paragraphs (2) to (3D)[^key-b0f38883de5853ec22d3a7c6f615948b] or (5) of regulation 4 applies) intends to continue to hold contaminated equipment on or after 31st July in the year 2001 or in any subsequent year shall apply in writing in the relevant year, but before 31st July, for the registration to continue.
+(1) A registered holder who (because any of paragraphs (2) to (3D)[^c-b0f38883de5853ec22d3a7c6f615948b] or (5) of regulation 4 applies) intends to continue to hold contaminated equipment on or after 31st July in the year 2001 or in any subsequent year shall apply in writing in the relevant year, but before 31st July, for the registration to continue.
 
-(2) In applying, the registered holder shall, in respect of each of his items of contaminated equipment which have been, or are to be, included in an inventory made in accordance with regulation 9(1), notify the appropriate authority[^key-814407e844982011b074bba0732a76db] of the locations and descriptions and, subject to regulation 9(3), the quantities and dates and types of treatment, referred to in regulation 9(2).
+(2) In applying, the registered holder shall, in respect of each of his items of contaminated equipment which have been, or are to be, included in an inventory made in accordance with regulation 9(1), notify the appropriate authority[^c-814407e844982011b074bba0732a76db] of the locations and descriptions and, subject to regulation 9(3), the quantities and dates and types of treatment, referred to in regulation 9(2).
 
 (3) The appropriate authority shall monitor the quantities of which they are notified under paragraph (2), and shall consider what, if any, changes to a holder’s registered particulars are required as a result of the notification.
 
@@ -352,14 +352,14 @@ may be labelled as “PCBs contaminated \<0.005% or \<0.05dm3”[^key-3a2e27fe30
 
 ### 11. Information for the public
 
-(1) Subject to paragraphs (5) and (6), the appropriate authority[^key-40d86059134d57f8ae6586b510a342c7] shall make available for public inspection, without charge, and at all reasonable hours, a copy of every inventory and revised inventory which it has compiled.
+(1) Subject to paragraphs (5) and (6), the appropriate authority[^c-40d86059134d57f8ae6586b510a342c7] shall make available for public inspection, without charge, and at all reasonable hours, a copy of every inventory and revised inventory which it has compiled.
 
 (2) The copy may be kept in any form but shall be indexed and arranged so that members of the public can readily trace information recorded in it.
 
-(3)[^key-7bd5230cd5486e99e696f7b720bfa029] Subject to paragraphs (5) and (7), the Agency shall keep a register specifying the quantity, origin, nature and PCB content of used PCBs in respect of which—
+(3)[^c-7bd5230cd5486e99e696f7b720bfa029] Subject to paragraphs (5) and (7), the Agency shall keep a register specifying the quantity, origin, nature and PCB content of used PCBs in respect of which—
 
 - (a) copies of consignment notes specifying that information are furnished to it under regulations 5(4), 8(7) or 9(3) of the Special Waste Regulations 1996; or
-- (b) quarterly returns specifying that information are furnished to it under regulation 53 of the Hazardous Waste (England and Wales) Regulations 2005 *(Extent: W)* *(affected by repeal, see note)*[^key-7bd5230cd5486e99e696f7b720bfa029] Hazardous Waste (Wales) Regulations 2005 *(Extent: W)*,
+- (b) quarterly returns specifying that information are furnished to it under regulation 53 of the Hazardous Waste (England and Wales) Regulations 2005 *(Extent: W)* *(affected by repeal, see note)*[^c-7bd5230cd5486e99e696f7b720bfa029] Hazardous Waste (Wales) Regulations 2005 *(Extent: W)*,
 
 and which in either case have been furnished by a person in the course of a business concerned with the disposal of PCBs.
 
@@ -368,23 +368,23 @@ and which in either case have been furnished by a person in the course of a busi
 - (a) be indexed and arranged so that members of the public can readily trace information recorded in it; and
 - (b) be made available for public inspection, without charge, at all reasonable hours.
 
-(5) Nothing in paragraph (1) or (3) shall require the appropriate authority[^key-58a0b5de0d39160898daee5993dd0aec] to make available information which—
+(5) Nothing in paragraph (1) or (3) shall require the appropriate authority[^c-58a0b5de0d39160898daee5993dd0aec] to make available information which—
 
 - (a) is capable of being, or must be, treated as confidential for the purposes of regulation 4 of the Environmental Information Regulations 1992 [^c16010711]; or
 - (b) would be capable of being, or would have to be, treated as confidential for those purposes if it were information to which those Regulations applied.
 
-(6) Nothing in paragraph (1) shall require the appropriate authority[^key-685b1bfecb66d85dc86322e4ddad7897] to retain an inventory or revised inventory, as the case may be, which has been superseded by a revised inventory once 4 years have elapsed from the date on which the revised inventory or the most recent revised inventory, as the case may be, was compiled.
+(6) Nothing in paragraph (1) shall require the appropriate authority[^c-685b1bfecb66d85dc86322e4ddad7897] to retain an inventory or revised inventory, as the case may be, which has been superseded by a revised inventory once 4 years have elapsed from the date on which the revised inventory or the most recent revised inventory, as the case may be, was compiled.
 
 (7) The register mentioned in paragraphs (3) and (4) shall be kept until 31st December 2010.
 
 ### 12. Payment of charges
 
-Where the appropriate authority[^key-ad69809203f244855ab86df4f777ad2c] has fixed a charge under section 43 of the 1995 Act for a service or facility provided in the course of carrying out its functions in connection with these Regulations, the charge shall be paid—
+Where the appropriate authority[^c-ad69809203f244855ab86df4f777ad2c] has fixed a charge under section 43 of the 1995 Act for a service or facility provided in the course of carrying out its functions in connection with these Regulations, the charge shall be paid—
 
 - (a) where the service or facility is provided in connection with an application, at the time when the application is made;
 - (b) in any other case, no later than the time when the service or facility is provided.
 
-### 13. Offences and penalties[^key-1185c54f42c1677aa61b8bd57503d4bc]
+### 13. Offences and penalties[^c-1185c54f42c1677aa61b8bd57503d4bc]
 
 (1) A person who holds any contaminated equipment in contravention of regulation 3 is guilty of an offence.
 
@@ -393,7 +393,7 @@ Where the appropriate authority[^key-ad69809203f244855ab86df4f777ad2c] has fixed
 - (a) who holds PCBs or equipment in contravention of paragraph (1) of regulation 4;
 - (b) who, being the holder of PCBs or equipment to which sub-paragraph (b) of paragraph (2) of regulation 4 applies, fails to dispose of them in accordance with that sub-paragraph; or
 - (c) who, being the holder of equipment, fails to decontaminate or dispose of that equipment—
-  - (ia)[^key-9a3d63886d4e455a9de1f83e87e27414] in a case to which paragraph (3A) of regulation 4 applies, as soon as possible after the end of its useful life;
+  - (ia)[^c-9a3d63886d4e455a9de1f83e87e27414] in a case to which paragraph (3A) of regulation 4 applies, as soon as possible after the end of its useful life;
   - (ib) in a case to which paragraph (3C) of regulation 4 applies, as soon as possible after 31st December 2025;
   - (ii) in a case to which paragraph (5) of regulation 4 applies, in accordance with paragraph (8) of that regulation;
   - (iii) in a case to which paragraph (9) of regulation 4 applies, as soon as possible after the end of the useful life of the other piece of equipment of which it is part,
@@ -424,7 +424,7 @@ is guilty of an offence.
 
 (8) Where the affairs of a body corporate are managed by its members, paragraph (7) shall apply in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-### 13A. Civil sanctions[^key-cb73ad3a6336e319335cfab7f22e2c59]
+### 13A. Civil sanctions[^c-cb73ad3a6336e319335cfab7f22e2c59]
 
 *Extent: E*
 
@@ -437,7 +437,7 @@ Table of civil sanctions
 | regulation 13(1) | Yes | Yes | Yes | Yes |
 | regulation 13(2)(a) | Yes | Yes | Yes | Yes |
 | regulation 13(2)(b) | Yes | Yes | No | Yes |
-| regulation 13(2)(c)(ia)[^key-5f1c2a74f78d9aca24922424a3de0014] | Yes | Yes | No | Yes |
+| regulation 13(2)(c)(ia)[^c-5f1c2a74f78d9aca24922424a3de0014] | Yes | Yes | No | Yes |
 | regulation 13(2)(c)(ib) | Yes | Yes | No | Yes |
 | regulation 13(2)(c)(ii) | Yes | Yes | No | Yes |
 | regulation 13(2)(c)(iii) | Yes | Yes | No | Yes |
@@ -452,11 +452,11 @@ Table of civil sanctions
 
 (4) This regulation applies only in England.
 
-### 13B. Civil sanctions, Wales[^key-adaae0dd9d9809626c352ad73d5de2c6]
+### 13B. Civil sanctions, Wales[^c-adaae0dd9d9809626c352ad73d5de2c6]
 
 *Extent: W*
 
-(1) The NRBW[^key-434dc82f223bad58c04c19e08d5684f6] may impose a fixed monetary penalty, variable monetary penalty or compliance notice, or accept an enforcement undertaking, in relation to an offence specified in the following Table of civil sanctions, as indicated in that Table, as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (Wales) Order 2010.
+(1) The NRBW[^c-434dc82f223bad58c04c19e08d5684f6] may impose a fixed monetary penalty, variable monetary penalty or compliance notice, or accept an enforcement undertaking, in relation to an offence specified in the following Table of civil sanctions, as indicated in that Table, as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (Wales) Order 2010.
 
 Table of civil sanctions
 
@@ -465,7 +465,7 @@ Table of civil sanctions
 | regulation 13(1) | Yes | Yes | Yes | Yes |
 | regulation 13(2)(a) | Yes | Yes | Yes | Yes |
 | regulation 13(2)(b) | Yes | Yes | No | Yes |
-| regulation 13(2)(c)(ia)[^key-e2c91b35e78cfeff72b0c93a54261cac] | Yes | Yes | No | Yes |
+| regulation 13(2)(c)(ia)[^c-e2c91b35e78cfeff72b0c93a54261cac] | Yes | Yes | No | Yes |
 | regulation 13(2)(c)(ib) | Yes | Yes | No | Yes |
 | regulation 13(2)(c)(ii) | Yes | Yes | No | Yes |
 | regulation 13(2)(c)(iii) | Yes | Yes | No | Yes |
@@ -494,7 +494,7 @@ Minister of State,
 
 Department of the Environment, Transport and the Regions
 
-## SCHEDULE 1 — DISPOSAL OPERATIONS D8, D9, D10, D12 AND D15 AS SET OUT IN Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste B[^key-e86db316b2e55248ebb9d35e726b44c4]
+## SCHEDULE 1 — DISPOSAL OPERATIONS D8, D9, D10, D12 AND D15 AS SET OUT IN Annex I of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste B[^c-e86db316b2e55248ebb9d35e726b44c4]
 
 [^c16010741]Regulation 2
 
@@ -563,120 +563,120 @@ An assessment which indicates the cost of compliance to businesses (a “regulat
 
 [^c16010651]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-c907febd120bd8059a11c036e251463e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 118(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/118/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c907febd120bd8059a11c036e251463e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 118(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/118/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2085c9b380202447cba8c7e82dc38437]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/11/paragraph/1/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2085c9b380202447cba8c7e82dc38437]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/758/schedule/11/paragraph/1/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c16010661]: Marginal citation: O.J.No. L 243, 24.9.96, p. 31.
 
-[^key-9b90f895f0c46a0c03bd73c3d9e9b096]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/13/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-9b90f895f0c46a0c03bd73c3d9e9b096]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 13(2)(a)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/13/2/a) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
-[^key-36f18ce602a9e7db9cfda56897e6bb42]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/2)
+[^c-36f18ce602a9e7db9cfda56897e6bb42]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/2)
 
-[^key-35b9228916b559216b6d8a4699e7955a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 118(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/118/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-35b9228916b559216b6d8a4699e7955a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 118(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/118/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-36cd8f366a52f449d96c6b5757228479]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/13/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-36cd8f366a52f449d96c6b5757228479]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/1) substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 13(2)(b)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/13/2/b) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c16010691]: Marginal citation: *See* section 1 of the [Government of Wales Act 1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-78a45ddeaf683c4173e1e689b4bf67bf]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/2A) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/11/paragraph/1/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78a45ddeaf683c4173e1e689b4bf67bf]: Textual amendment: [Reg. 2(2A)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/2/2A) inserted (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 11 para. 1(3)](https://www.legislation.gov.uk/uksi/2019/758/schedule/11/paragraph/1/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e142c5fa2517c53bff3df12ff333628f]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/3/5/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 119](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/119) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e142c5fa2517c53bff3df12ff333628f]: Textual amendment: Words in [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/3/5/b) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 119](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/119) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-32e39e66c88bba652c368600a358eaa9]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/a)
+[^c-32e39e66c88bba652c368600a358eaa9]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/a)
 
-[^key-e99026160265d5ee09ad47a664747f02]: Textual amendment: [Reg. 4(3A)-(3D)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A) substituted for reg. 4(3) (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/b)
+[^c-e99026160265d5ee09ad47a664747f02]: Textual amendment: [Reg. 4(3A)-(3D)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A) substituted for reg. 4(3) (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/b)
 
-[^key-99590de06485a192317a875578b9a5ab]: Textual amendment: Words in [reg. 4(3A)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/a/i)
+[^c-99590de06485a192317a875578b9a5ab]: Textual amendment: Words in [reg. 4(3A)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/a/i)
 
-[^key-8ebca3b713c341a919413fbb7255816d]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A/a) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/a/ii)
+[^c-8ebca3b713c341a919413fbb7255816d]: Textual amendment: Words in [reg. 4(3A)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A/a) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/a/ii)
 
-[^key-dd093daa60478e15ec2b453df7ec976d]: Textual amendment: Words in [reg. 4(3A)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A/b) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/a/iii)
+[^c-dd093daa60478e15ec2b453df7ec976d]: Textual amendment: Words in [reg. 4(3A)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3A/b) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/a/iii)
 
-[^key-82f8a6c1cc843dabd068e547c2d7a76e]: Textual amendment: Words in [reg. 4(3C)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3C) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/b/i)
+[^c-82f8a6c1cc843dabd068e547c2d7a76e]: Textual amendment: Words in [reg. 4(3C)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3C) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/b/i)
 
-[^key-a9c8caa9c3acbf23bae10895de24d235]: Textual amendment: Words in [reg. 4(3C)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3C/a) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/b/ii)
+[^c-a9c8caa9c3acbf23bae10895de24d235]: Textual amendment: Words in [reg. 4(3C)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3C/a) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/b/ii)
 
-[^key-675120f2fba3b18f0dfef0c5bf3ec9a7]: Textual amendment: Words in [reg. 4(3C)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3C/b) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/b/iii)
+[^c-675120f2fba3b18f0dfef0c5bf3ec9a7]: Textual amendment: Words in [reg. 4(3C)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/3C/b) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/b/iii)
 
-[^key-63768b3815324539a5a1f8aeb92aaa1e]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/4/a) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/c)
+[^c-63768b3815324539a5a1f8aeb92aaa1e]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/4/a) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/c)
 
-[^key-a178ddde36474a6ae2a3788380bbfea3]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/4/a) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/c)
+[^c-a178ddde36474a6ae2a3788380bbfea3]: Textual amendment: Words in [reg. 4(4)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/4/a) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/2/c)
 
-[^key-3bfe9ee3c181838132e232b18e4183ff]: Textual amendment: Reg. 4(6A) inserted (1.1.2001) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2000 (S.I. 2000/3359)](https://www.legislation.gov.uk/uksi/2000/3359), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3359/regulation/1), [2](https://www.legislation.gov.uk/uksi/2000/3359/regulation/2)
+[^c-3bfe9ee3c181838132e232b18e4183ff]: Textual amendment: Reg. 4(6A) inserted (1.1.2001) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2000 (S.I. 2000/3359)](https://www.legislation.gov.uk/uksi/2000/3359), [regs. 1](https://www.legislation.gov.uk/uksi/2000/3359/regulation/1), [2](https://www.legislation.gov.uk/uksi/2000/3359/regulation/2)
 
-[^key-ecd27771a1b3d15a594c58313f2dbcd9]: Textual amendment: Words in [reg. 4(9)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/9/a) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/d/i)
+[^c-ecd27771a1b3d15a594c58313f2dbcd9]: Textual amendment: Words in [reg. 4(9)(a)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/9/a) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/d/i)
 
-[^key-e8fc9105df8531a3369362ba3d054ca4]: Textual amendment: Word in [reg. 4(9)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/9/b) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/d/ii)
+[^c-e8fc9105df8531a3369362ba3d054ca4]: Textual amendment: Word in [reg. 4(9)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/9/b) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/d/ii)
 
-[^key-6984b00e756eb82fd5e8b72fcf576212]: Textual amendment: Word in [reg. 4(9)(c)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/9/c) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/d/ii)
+[^c-6984b00e756eb82fd5e8b72fcf576212]: Textual amendment: Word in [reg. 4(9)(c)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/9/c) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/d/ii)
 
-[^key-d8210d01f066497bebcb2950201b5d3a]: Textual amendment: [Reg. 4(10)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/10)[(11)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/11) inserted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/e)
+[^c-d8210d01f066497bebcb2950201b5d3a]: Textual amendment: [Reg. 4(10)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/10)[(11)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/4/11) inserted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/3/e)
 
-[^key-3da7291bc5fdc036be327fe2d8ca0733]: Textual amendment: Reg. 5(3) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/4)
+[^c-3da7291bc5fdc036be327fe2d8ca0733]: Textual amendment: Reg. 5(3) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/4)
 
-[^key-8d07d25c3e10d5956beda4249fc196f1]: Textual amendment: Words in reg. 5(3) omitted (6.4.2024) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/a)
+[^c-8d07d25c3e10d5956beda4249fc196f1]: Textual amendment: Words in reg. 5(3) omitted (6.4.2024) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/a)
 
-[^key-17861501d40f64df647d36ca37799392]: Textual amendment: Words in reg. 5(3)(a) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/b)
+[^c-17861501d40f64df647d36ca37799392]: Textual amendment: Words in reg. 5(3)(a) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/b)
 
-[^key-d3c45a970e6c7bd4a457ed66c15050b3]: Textual amendment: Words in reg. 5(3)(b) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/c/i)
+[^c-d3c45a970e6c7bd4a457ed66c15050b3]: Textual amendment: Words in reg. 5(3)(b) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/c/i)
 
-[^key-7f4e452facb71202afbce62564cb1c3d]: Textual amendment: Words in reg. 5(3)(b) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/c/ii)
+[^c-7f4e452facb71202afbce62564cb1c3d]: Textual amendment: Words in reg. 5(3)(b) inserted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/c/ii)
 
-[^key-3a2e27fe307133016122dface4ac6c9a]: Textual amendment: Word in reg. 5(3) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/d)
+[^c-3a2e27fe307133016122dface4ac6c9a]: Textual amendment: Word in reg. 5(3) substituted (6.4.2024) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/354)](https://www.legislation.gov.uk/uksi/2024/354), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/354/regulation/1/2), [2(3)(d)](https://www.legislation.gov.uk/uksi/2024/354/regulation/2/3/d)
 
-[^key-d9874ff5657e67bd4711b0aba784bdf1]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2000/1043/regulation/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 120(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/120/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d9874ff5657e67bd4711b0aba784bdf1]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2000/1043/regulation/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 120(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/120/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ee82d388f6eee535c5402d4a487ca1a0]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/6/2/b) omitted (1.7.2020) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/5)
+[^c-ee82d388f6eee535c5402d4a487ca1a0]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/6/2/b) omitted (1.7.2020) by virtue of [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/5)
 
-[^key-3cd50cf86e108ee02a28d4a7b6782d29]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/6/7) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 120(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/120/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3cd50cf86e108ee02a28d4a7b6782d29]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/6/7) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 120(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/120/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-303fe70b7c0a81dcbce04ef0b51780bf]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2000/1043/regulation/7) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 121](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/121) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-303fe70b7c0a81dcbce04ef0b51780bf]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2000/1043/regulation/7) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 121](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/121) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9f05a197e63b4ecf4bffd120f5d54634]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/8/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 122](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/122) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9f05a197e63b4ecf4bffd120f5d54634]: Textual amendment: Words in [reg. 8(5)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/8/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 122](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/122) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-6c5c8fb43651fbbb9d99d8fb19fe832d]: Textual amendment: Words in [reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/5/b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-6c5c8fb43651fbbb9d99d8fb19fe832d]: Textual amendment: Words in [reg. 9(5)(b)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/5/b) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-77f8274452aa7f7a68e6d66b9f862b6a]: Textual amendment: [Reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/5/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-77f8274452aa7f7a68e6d66b9f862b6a]: Textual amendment: [Reg. 9(5)(c)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/5/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9425897d4eb4d687bb4e2ebe5bfcc2dc]: Textual amendment: [Reg. 9(5A)-(5C)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/5A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9425897d4eb4d687bb4e2ebe5bfcc2dc]: Textual amendment: [Reg. 9(5A)-(5C)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/5A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-97ea67cfae18dee4db1bc61bb41ea6f6]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/6) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-97ea67cfae18dee4db1bc61bb41ea6f6]: Textual amendment: Words in [reg. 9(6)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/9/6) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 123(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/123/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-b0f38883de5853ec22d3a7c6f615948b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/10/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/6)
+[^c-b0f38883de5853ec22d3a7c6f615948b]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/10/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/6)
 
-[^key-814407e844982011b074bba0732a76db]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2000/1043/regulation/10) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 124](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/124) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-814407e844982011b074bba0732a76db]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2000/1043/regulation/10) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 124](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/124) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-40d86059134d57f8ae6586b510a342c7]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/11/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 125](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/125) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-40d86059134d57f8ae6586b510a342c7]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/11/1) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 125](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/125) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7bd5230cd5486e99e696f7b720bfa029]: Textual amendment: Reg. 11(3) substituted (E.) (16.7.2005) by [The Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894)](https://www.legislation.gov.uk/uksi/2005/894), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2005/894/regulation/1/1/b), [Sch. 11 para. 27](https://www.legislation.gov.uk/uksi/2005/894/schedule/11/paragraph/27) (with [reg. 75](https://www.legislation.gov.uk/uksi/2005/894/regulation/75)) and reg. 11(3) substituted (W.) (16.7.2005) by [The Hazardous Waste (Wales) Regulations 2005 (S.I. 2005/1806)](https://www.legislation.gov.uk/uksi/2005/1806), [reg. 1(2)(ii)](https://www.legislation.gov.uk/uksi/2005/1806/regulation/1/2/ii), [Sch. 11 para. 29](https://www.legislation.gov.uk/uksi/2005/1806/schedule/11/paragraph/29)
+[^c-7bd5230cd5486e99e696f7b720bfa029]: Textual amendment: Reg. 11(3) substituted (E.) (16.7.2005) by [The Hazardous Waste (England and Wales) Regulations 2005 (S.I. 2005/894)](https://www.legislation.gov.uk/uksi/2005/894), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2005/894/regulation/1/1/b), [Sch. 11 para. 27](https://www.legislation.gov.uk/uksi/2005/894/schedule/11/paragraph/27) (with [reg. 75](https://www.legislation.gov.uk/uksi/2005/894/regulation/75)) and reg. 11(3) substituted (W.) (16.7.2005) by [The Hazardous Waste (Wales) Regulations 2005 (S.I. 2005/1806)](https://www.legislation.gov.uk/uksi/2005/1806), [reg. 1(2)(ii)](https://www.legislation.gov.uk/uksi/2005/1806/regulation/1/2/ii), [Sch. 11 para. 29](https://www.legislation.gov.uk/uksi/2005/1806/schedule/11/paragraph/29)
 
-[^key-58a0b5de0d39160898daee5993dd0aec]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/11/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 125](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/125) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-58a0b5de0d39160898daee5993dd0aec]: Textual amendment: Words in [reg. 11(5)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/11/5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 125](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/125) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c16010711]: Marginal citation: [S.I. 1992/3240](https://www.legislation.gov.uk/uksi/1992/3240), amended by [S.I. 1998/1447](https://www.legislation.gov.uk/uksi/1998/1447).
 
-[^key-685b1bfecb66d85dc86322e4ddad7897]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/11/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 125](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/125) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-685b1bfecb66d85dc86322e4ddad7897]: Textual amendment: Words in [reg. 11(6)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/11/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 125](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/125) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ad69809203f244855ab86df4f777ad2c]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2000/1043/regulation/12) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 126](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/126) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ad69809203f244855ab86df4f777ad2c]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2000/1043/regulation/12) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 126](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/126) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1185c54f42c1677aa61b8bd57503d4bc]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-1185c54f42c1677aa61b8bd57503d4bc]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
 
-[^key-9a3d63886d4e455a9de1f83e87e27414]: Textual amendment: [Reg. 13(2)(c)(ia)(ib)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13/2/c/ia/ib) substituted for reg. 13(2)(c)(i) (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/7)
+[^c-9a3d63886d4e455a9de1f83e87e27414]: Textual amendment: [Reg. 13(2)(c)(ia)(ib)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13/2/c/ia/ib) substituted for reg. 13(2)(c)(i) (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/7)
 
-[^key-cb73ad3a6336e319335cfab7f22e2c59]: Textual amendment: Reg. 13A inserted (E.) (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1159/regulation/3)
+[^c-cb73ad3a6336e319335cfab7f22e2c59]: Textual amendment: Reg. 13A inserted (E.) (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1159/regulation/3)
 
-[^key-5f1c2a74f78d9aca24922424a3de0014]: Textual amendment: Words in [reg. 13A(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13A/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/8)
+[^c-5f1c2a74f78d9aca24922424a3de0014]: Textual amendment: Words in [reg. 13A(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13A/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/8)
 
-[^key-adaae0dd9d9809626c352ad73d5de2c6]: Textual amendment: Reg. 13B inserted (W.) (15.7.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (Wales) Regulations 2010 (S.I. 2010/1820)](https://www.legislation.gov.uk/uksi/2010/1820), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1820/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1820/regulation/3)
+[^c-adaae0dd9d9809626c352ad73d5de2c6]: Textual amendment: Reg. 13B inserted (W.) (15.7.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (Wales) Regulations 2010 (S.I. 2010/1820)](https://www.legislation.gov.uk/uksi/2010/1820), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1820/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1820/regulation/3)
 
-[^key-434dc82f223bad58c04c19e08d5684f6]: Textual amendment: Words in [reg. 13B](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13B) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 127](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/127) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-434dc82f223bad58c04c19e08d5684f6]: Textual amendment: Words in [reg. 13B](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13B) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 127](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/127) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-e2c91b35e78cfeff72b0c93a54261cac]: Textual amendment: Words in [reg. 13B(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13B/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/9)
+[^c-e2c91b35e78cfeff72b0c93a54261cac]: Textual amendment: Words in [reg. 13B(1)](https://www.legislation.gov.uk/uksi/2000/1043/regulation/13B/1) substituted (1.7.2020) by [The Environmental Protection (Disposal of Polychlorinated Biphenyls and other Dangerous Substances) (England and Wales) (Amendment) Regulations 2020 (S.I. 2020/489)](https://www.legislation.gov.uk/uksi/2020/489), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/489/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2020/489/regulation/2/9)
 
 [^c16010721]: Marginal citation: [S.I. 1986/902](https://www.legislation.gov.uk/uksi/1986/902), amended by [S.I. 1992/31](https://www.legislation.gov.uk/uksi/1992/31).
 
 [^c16010731]: Marginal citation: [S.I. 1992/31](https://www.legislation.gov.uk/uksi/1992/31).
 
-[^key-e86db316b2e55248ebb9d35e726b44c4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2000/1043/schedule/1) heading substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/13/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-e86db316b2e55248ebb9d35e726b44c4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2000/1043/schedule/1) heading substituted (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [Sch. 4 para. 13(3)](https://www.legislation.gov.uk/uksi/2011/988/schedule/4/paragraph/13/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c16010741]: Marginal citation: Annex I.A. was replaced by Council Decision 96/350 (O.J. 1996 L. 135/32).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Adjournment by chair[^key-a5ef58845c759f0d7ef14e9b40bd831a]
+## 46. Adjournment by chair[^c-a5ef58845c759f0d7ef14e9b40bd831a]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5ef58845c759f0d7ef14e9b40bd831a]: Commencement: [Rule 46](https://www.legislation.gov.uk/nisr/2026/11/rule/46) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a5ef58845c759f0d7ef14e9b40bd831a]: Commencement: [Rule 46](https://www.legislation.gov.uk/nisr/2026/11/rule/46) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

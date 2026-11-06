@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Power to lop trees overhanging the authorised works[^key-86855826bcf211a98a8d92947ae70c1c]
+## 21. Power to lop trees overhanging the authorised works[^c-86855826bcf211a98a8d92947ae70c1c]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86855826bcf211a98a8d92947ae70c1c]: Commencement: Art. 21 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-86855826bcf211a98a8d92947ae70c1c]: Commencement: Art. 21 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

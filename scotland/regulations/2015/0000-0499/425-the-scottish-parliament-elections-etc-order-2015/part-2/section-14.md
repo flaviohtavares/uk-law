@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Constituency returning officers[^key-f19d46b35817880d6259a17b16417077]
+## 14. Constituency returning officers[^c-f19d46b35817880d6259a17b16417077]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The constituency returning officer for a Scottish parliamentary election shall b
 
 ## Annotations
 
-[^key-f19d46b35817880d6259a17b16417077]: Commencement: Art. 14 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-f19d46b35817880d6259a17b16417077]: Commencement: Art. 14 in force at 16.12.2015 in accordance with art. 1(1)

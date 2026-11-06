@@ -107,7 +107,7 @@ Delegated Regulation (EU) No 1059/2010 should be repealed.
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Subject matter and scope[^key-3762368961a00c7beb7100da315f1b7e]
+## Article 1. Subject matter and scope[^c-3762368961a00c7beb7100da315f1b7e]
 
 1. This Regulation establishes requirements for the labelling of, and the provision of supplementary product information on, electric mains-operated household dishwashers, including built-in household dishwashers and electric mains-operated household dishwashers that can also be powered by batteries.
 
@@ -116,7 +116,7 @@ HAS ADOPTED THIS REGULATION:
 - (a) dishwashers in the scope of Directive 2006/42/EC;
 - (b) battery-operated household dishwashers that can be connected to the mains through an AC/DC converter purchased separately.
 
-## Article 2. Definitions[^key-0b0731685e8b5427594ec4c97fb51abd]
+## Article 2. Definitions[^c-0b0731685e8b5427594ec4c97fb51abd]
 
 For the purposes of this Regulation, the following definitions shall apply:
 
@@ -130,22 +130,22 @@ For the purposes of this Regulation, the following definitions shall apply:
 
 For the purposes of the annexes, additional definitions are set out in Annex I.
 
-## Article 3. Obligations of suppliers[^key-ac4496b0b7be7bb9919adb01dd5da1bb]
+## Article 3. Obligations of suppliers[^c-ac4496b0b7be7bb9919adb01dd5da1bb]
 
 1. Suppliers shall ensure that:
 
 - (a) each household dishwasher is supplied with a printed label in the format as set out in Annex III;
-- (b) the parameters of the product information sheet, as set out in Annex V, are made available for inspection in accordance with Article 4(2) of the Framework Regulation[^key-56199e65ec0638f44177155032b9eff7];
+- (b) the parameters of the product information sheet, as set out in Annex V, are made available for inspection in accordance with Article 4(2) of the Framework Regulation[^c-56199e65ec0638f44177155032b9eff7];
 - (c) if specifically requested by the dealer, the product information sheet shall be made available in printed form;
-- (d)[^key-b70bad807e1c78a75358a6abce50b7a2] the content of the technical documentation, set out in Annex VI, is entered into the product database;
-- (e)[^key-b70bad807e1c78a75358a6abce50b7a2] any visual advertisement for a specific model of household dishwasher contains the energy efficiency class and the range of energy efficiency classes available on the label in accordance with Annex VII and Annex VIII;
-- (f)[^key-b70bad807e1c78a75358a6abce50b7a2] any technical promotional material concerning a specific model of household dishwasher, including on the internet, which describes its specific technical parameters, includes the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII;
-- (g)[^key-b70bad807e1c78a75358a6abce50b7a2] an electronic label in the format and containing the information, as set out in Annex III, is made available to dealers for each household dishwasher model;
-- (h)[^key-b70bad807e1c78a75358a6abce50b7a2] an electronic product information sheet, as set out in Annex V, is made available to dealers for each household dishwasher model.
+- (d)[^c-b70bad807e1c78a75358a6abce50b7a2] the content of the technical documentation, set out in Annex VI, is entered into the product database;
+- (e)[^c-b70bad807e1c78a75358a6abce50b7a2] any visual advertisement for a specific model of household dishwasher contains the energy efficiency class and the range of energy efficiency classes available on the label in accordance with Annex VII and Annex VIII;
+- (f)[^c-b70bad807e1c78a75358a6abce50b7a2] any technical promotional material concerning a specific model of household dishwasher, including on the internet, which describes its specific technical parameters, includes the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII;
+- (g)[^c-b70bad807e1c78a75358a6abce50b7a2] an electronic label in the format and containing the information, as set out in Annex III, is made available to dealers for each household dishwasher model;
+- (h)[^c-b70bad807e1c78a75358a6abce50b7a2] an electronic product information sheet, as set out in Annex V, is made available to dealers for each household dishwasher model.
 
-2.[^key-5c316cd8a4db2273bc8bbb4416976a61] The energy efficiency class and the acoustic airborne noise emission class are defined in Annex II and shall be calculated in accordance with Annex IV.
+2.[^c-5c316cd8a4db2273bc8bbb4416976a61] The energy efficiency class and the acoustic airborne noise emission class are defined in Annex II and shall be calculated in accordance with Annex IV.
 
-## Article 4. Obligations of dealers[^key-a14181c03ae640b373ae9f1216bddc76]
+## Article 4. Obligations of dealers[^c-a14181c03ae640b373ae9f1216bddc76]
 
 Dealers shall ensure that:
 
@@ -154,15 +154,15 @@ Dealers shall ensure that:
 - ((c)) any visual advertisement for a specific model of household dishwasher contains the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII;
 - ((d)) any technical promotional material concerning a specific model of household dishwasher, including on the internet, which describes its specific technical parameters, includes the energy efficiency class of that model and the range of energy efficiency classes available on the label, in accordance with Annex VII.
 
-## Article 5. Obligations of internet hosting platforms[^key-a1ca968434485c877032e676dafc977b]
+## Article 5. Obligations of internet hosting platforms[^c-a1ca968434485c877032e676dafc977b]
 
 Where a hosting service provider referred to in Article 14 of Directive 2000/31/EC allows the direct selling of household dishwashers through its internet website, the service provider shall enable the showing of the electronic label and electronic product information sheet provided by the dealer on the display mechanism in accordance with the provisions of Annex VIII and shall inform the dealer of the obligation to display them.
 
-## Article 6. Measurement methods[^key-c7e78239187ce73cf8a0318a49bbc450]
+## Article 6. Measurement methods[^c-c7e78239187ce73cf8a0318a49bbc450]
 
 Information to be provided pursuant to Articles 3 and 4 shall be obtained by reliable, accurate and reproducible measurement and calculation methods, which take into account the recognised state-of-the-art measurement and calculation methods set out in Annex IV.
 
-## Article 7. Verification procedure for market surveillance purposes[^key-f574dec507f2413def14f401d6266870]
+## Article 7. Verification procedure for market surveillance purposes[^c-f574dec507f2413def14f401d6266870]
 
 Member States shall apply the verification procedure laid down in Annex IX to this Regulation when performing the market surveillance checks referred to in paragraph 3 of Article 8 of Regulation (EU) 2017/1369.
 
@@ -182,7 +182,7 @@ Delegated Regulation (EU) No 1059/2010 is repealed as of 1 March 2021.
 
 ## Article 10. Transitional measures
 
-As from 25 December 2019 until 28 February 2021, the product fiche required under point (b) of Article 3 of Delegated Regulation (EU) No 1059/2010 may be made available on a publicly accessible website[^key-f6331a55c4476ccffb356d1eab40f505] instead of being provided in printed form with the product. In this case, the supplier shall ensure that if specifically requested by the dealer, the product fiche shall be made available in printed form.
+As from 25 December 2019 until 28 February 2021, the product fiche required under point (b) of Article 3 of Delegated Regulation (EU) No 1059/2010 may be made available on a publicly accessible website[^c-f6331a55c4476ccffb356d1eab40f505] instead of being provided in printed form with the product. In this case, the supplier shall ensure that if specifically requested by the dealer, the product fiche shall be made available in printed form.
 
 ## Article 11. Entry into force and application
 
@@ -190,7 +190,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 March 2021. However, Article 10 shall apply from 25 December 2019 and point 1(a), (b) and (c) of Article 3 shall apply from 1 November 2020.
 
-[^key-5e5e6bb2b66738eb4c88319cb42219a2]...
+[^c-5e5e6bb2b66738eb4c88319cb42219a2]...
 
 Done at Brussels, 11 March 2019.
 
@@ -200,11 +200,11 @@ Done at Brussels, 11 March 2019.
 
 Jean-Claude Juncker
 
-## ANNEX I — Definitions applicable for the annexes[^key-2552fc7ca06999f66630ba6bac29c2b0][^key-ba98be99409b7ecb1cb0eddf3d0c4830]
+## ANNEX I — Definitions applicable for the annexes[^c-2552fc7ca06999f66630ba6bac29c2b0][^c-ba98be99409b7ecb1cb0eddf3d0c4830]
 
-[^key-ba98be99409b7ecb1cb0eddf3d0c4830]The following definitions shall apply:
+[^c-ba98be99409b7ecb1cb0eddf3d0c4830]The following definitions shall apply:
 
-[^key-ba98be99409b7ecb1cb0eddf3d0c4830]
+[^c-ba98be99409b7ecb1cb0eddf3d0c4830]
 
 - ((1)) ‘Energy Efficiency Index’ (EEI) means the ratio of the eco programme energy consumption to the standard programme energy consumption;
 - ((2)) ‘eco programme energy consumption’ (EPEC) means the energy consumption of a household dishwasher for the eco programme, expressed in kilowatt hour per cycle;
@@ -238,7 +238,7 @@ Jean-Claude Juncker
 - ((22)) ‘tactile screen’ means a screen responding to touch, such as that of a tablet computer, slate computer or a smartphone;
 - ((23)) ‘alternative text’ means text provided as an alternative to a graphic allowing information to be presented in non-graphical form where display devices cannot render the graphic or as an aid to accessibility such as input to voice synthesis applications.
 
-## ANNEX II[^key-2552fc7ca06999f66630ba6bac29c2b0][^key-e603dc4e30fb6ff22802687efe731b94]
+## ANNEX II[^c-2552fc7ca06999f66630ba6bac29c2b0][^c-e603dc4e30fb6ff22802687efe731b94]
 
 A.
 
@@ -279,7 +279,7 @@ The acoustic airborne noise emission class of a household dishwasher shall be de
 | C | 45 ≤ n \< 51 |
 | D | 51 ≤ n |
 
-## ANNEX III — Label[^key-2552fc7ca06999f66630ba6bac29c2b0]
+## ANNEX III — Label[^c-2552fc7ca06999f66630ba6bac29c2b0]
 
 1\.
 
@@ -379,7 +379,7 @@ Whereby:
 
   the number of the regulation shall be 100 % black and in Verdana Regular 6 pt.
 
-## ANNEX IV — Measurement methods and calculations[^key-2552fc7ca06999f66630ba6bac29c2b0][^key-06b9c6897c648c6bca97726357cc5dd0]
+## ANNEX IV — Measurement methods and calculations[^c-2552fc7ca06999f66630ba6bac29c2b0][^c-06b9c6897c648c6bca97726357cc5dd0]
 
 For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the *Official Journal of the European Union*, or other reliable, accurate and reproducible methods, which takes into account the generally recognised state-of-the-art, and in line with the following provisions.
 
@@ -479,7 +479,7 @@ During measurements of the power consumption in low power modes, the following s
 - the display or not of information;
 - the activation or not of a network connection.
 
-## ANNEX V — Product information sheet[^key-2552fc7ca06999f66630ba6bac29c2b0][^key-2a05cdcff2369aaaaa079886d8e54dfa]
+## ANNEX V — Product information sheet[^c-2552fc7ca06999f66630ba6bac29c2b0][^c-2a05cdcff2369aaaaa079886d8e54dfa]
 
 The information part of the product information sheet of household dishwashers pursuant to point 1(b) of Article 3 shall be entered into the product database by the supplier according to Table 3.
 
@@ -520,7 +520,7 @@ The user manual or other literature provided with the product shall clearly indi
 
 [^f00013][^f00012][^f00012][^f00012][^f00014][^f00012][^f00012][^f00012][^f00012][^f00012][^f00014][^f00013][^f00015][^f00013]
 
-## ANNEX VI — Technical documentation[^key-574ee9e90da021aeebbbf28d1459bfef][^key-d74dc88a9b83401265163557095bfa3b]
+## ANNEX VI — Technical documentation[^c-574ee9e90da021aeebbbf28d1459bfef][^c-d74dc88a9b83401265163557095bfa3b]
 
 1\.
 
@@ -562,7 +562,7 @@ Where the information included in the technical documentation for a particular h
 
 the technical documentation shall include the details of such calculation, the assessment undertaken by suppliers to verify the accuracy of the calculation and, where appropriate, the declaration of identity between the models of different suppliers.
 
-## ANNEX VII — Information to be provided in visual advertisements, in technical promotional material in distance selling and in telemarketing, except distance selling on the internet[^key-574ee9e90da021aeebbbf28d1459bfef]
+## ANNEX VII — Information to be provided in visual advertisements, in technical promotional material in distance selling and in telemarketing, except distance selling on the internet[^c-574ee9e90da021aeebbbf28d1459bfef]
 
 1\.
 
@@ -597,7 +597,7 @@ Telemarketing-based distance selling must specifically inform the customer of th
 
 For all the situations mentioned in points 1 to 3 and 5, it must be possible for the customer to obtain, on request, a printed copy of the label and the product information sheet.
 
-## ANNEX VIII — Information to be provided in the case of distance selling through the internet[^key-574ee9e90da021aeebbbf28d1459bfef]
+## ANNEX VIII — Information to be provided in the case of distance selling through the internet[^c-574ee9e90da021aeebbbf28d1459bfef]
 
 1\.
 
@@ -630,7 +630,7 @@ In the case of nested display, the sequence of display of the label shall be as 
 
 The electronic product information sheet made available by suppliers in accordance with point 1(h) of Article 3 shall be shown on the display mechanism in proximity to the price of the product. The size shall be such that the product information sheet is clearly visible and legible. The product information sheet may be displayed using a nested display or by referring to the product database, in which case the link used for accessing the product information sheet shall clearly and legibly indicate ‘Product information sheet’. If a nested display is used, the product information sheet shall appear on the first mouse click, mouse roll-over or tactile screen expansion on the link.
 
-## ANNEX IX — Verification procedure for market surveillance purposes[^key-574ee9e90da021aeebbbf28d1459bfef][^key-306b6d325113ddb867d98c329b0d6472]
+## ANNEX IX — Verification procedure for market surveillance purposes[^c-574ee9e90da021aeebbbf28d1459bfef][^c-306b6d325113ddb867d98c329b0d6472]
 
 The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product information sheet shall not be more favourable for the supplier than the values reported in the technical documentation.
 
@@ -695,45 +695,45 @@ The Member State authorities shall only apply the verification tolerances that a
 
 [^f00008]: Footnote: Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) ([OJ L 178, 17.7.2000, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.178.01.0001.01.ENG)).
 
-[^key-3762368961a00c7beb7100da315f1b7e]: Modification: [Art. 1](https://www.legislation.gov.uk/eur/2019/2017/article/1) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-3762368961a00c7beb7100da315f1b7e]: Modification: [Art. 1](https://www.legislation.gov.uk/eur/2019/2017/article/1) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-0b0731685e8b5427594ec4c97fb51abd]: Modification: [Art. 2](https://www.legislation.gov.uk/eur/2019/2017/article/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-0b0731685e8b5427594ec4c97fb51abd]: Modification: [Art. 2](https://www.legislation.gov.uk/eur/2019/2017/article/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
 [^f00009]: Footnote: Directive 2014/35/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of electrical equipment designed for use within certain voltage limits ([OJ L 96, 29.3.2014, p. 357](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.096.01.0357.01.ENG)).
 
 [^f00010]: Footnote: Directive 2014/53/EU of the European Parliament and of the Council of 16 April 2014 on the harmonisation of the laws of the Member States relating to the making available on the market of radio equipment and repealing Directive 1999/5/EC ([OJ L 153, 22.5.2014, p. 62](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.153.01.0062.01.ENG)).
 
-[^key-ac4496b0b7be7bb9919adb01dd5da1bb]: Modification: Art. 3, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/2)
+[^c-ac4496b0b7be7bb9919adb01dd5da1bb]: Modification: Art. 3, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/2)
 
-[^key-56199e65ec0638f44177155032b9eff7]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2019/2017/article/3/1/b) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [27(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/27/2)
+[^c-56199e65ec0638f44177155032b9eff7]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2019/2017/article/3/1/b) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [27(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/27/2)
 
-[^key-b70bad807e1c78a75358a6abce50b7a2]: Modification: [Art. 3(1)(d)-(h)](https://www.legislation.gov.uk/eur/2019/2017/article/3/1/d) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-b70bad807e1c78a75358a6abce50b7a2]: Modification: [Art. 3(1)(d)-(h)](https://www.legislation.gov.uk/eur/2019/2017/article/3/1/d) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-5c316cd8a4db2273bc8bbb4416976a61]: Modification: [Art. 3(2)](https://www.legislation.gov.uk/eur/2019/2017/article/3/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-5c316cd8a4db2273bc8bbb4416976a61]: Modification: [Art. 3(2)](https://www.legislation.gov.uk/eur/2019/2017/article/3/2) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-a14181c03ae640b373ae9f1216bddc76]: Modification: [Art. 4](https://www.legislation.gov.uk/eur/2019/2017/article/4) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-a14181c03ae640b373ae9f1216bddc76]: Modification: [Art. 4](https://www.legislation.gov.uk/eur/2019/2017/article/4) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-a1ca968434485c877032e676dafc977b]: Modification: [Art. 5](https://www.legislation.gov.uk/eur/2019/2017/article/5) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-a1ca968434485c877032e676dafc977b]: Modification: [Art. 5](https://www.legislation.gov.uk/eur/2019/2017/article/5) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-c7e78239187ce73cf8a0318a49bbc450]: Modification: [Art. 6](https://www.legislation.gov.uk/eur/2019/2017/article/6) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-c7e78239187ce73cf8a0318a49bbc450]: Modification: [Art. 6](https://www.legislation.gov.uk/eur/2019/2017/article/6) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-f574dec507f2413def14f401d6266870]: Modification: [Art. 7](https://www.legislation.gov.uk/eur/2019/2017/article/7) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-f574dec507f2413def14f401d6266870]: Modification: [Art. 7](https://www.legislation.gov.uk/eur/2019/2017/article/7) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-f6331a55c4476ccffb356d1eab40f505]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2019/2017/article/10) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [27(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/27/3)
+[^c-f6331a55c4476ccffb356d1eab40f505]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2019/2017/article/10) substituted (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [27(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/27/3)
 
-[^key-5e5e6bb2b66738eb4c88319cb42219a2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2017/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [27(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/27/4)
+[^c-5e5e6bb2b66738eb4c88319cb42219a2]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/2017/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [27(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/27/4)
 
-[^key-2552fc7ca06999f66630ba6bac29c2b0]: Modification: [Annexes 1-5](https://www.legislation.gov.uk/eur/2019/2017/annex/I) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-2552fc7ca06999f66630ba6bac29c2b0]: Modification: [Annexes 1-5](https://www.legislation.gov.uk/eur/2019/2017/annex/I) applied (with modifications) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)-(3)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-ba98be99409b7ecb1cb0eddf3d0c4830]: Modification: Annex 1, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/3)
+[^c-ba98be99409b7ecb1cb0eddf3d0c4830]: Modification: Annex 1, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/3)
 
 [^f00011]: Footnote: Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility ([OJ L 96, 29.3.2014, p. 79](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.096.01.0079.01.ENG)).
 
-[^key-e603dc4e30fb6ff22802687efe731b94]: Modification: Annex 2, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/4)
+[^c-e603dc4e30fb6ff22802687efe731b94]: Modification: Annex 2, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/4)
 
-[^key-06b9c6897c648c6bca97726357cc5dd0]: Modification: Annex 4, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/5)
+[^c-06b9c6897c648c6bca97726357cc5dd0]: Modification: Annex 4, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/5)
 
-[^key-2a05cdcff2369aaaaa079886d8e54dfa]: Modification: Annex 5, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/6)
+[^c-2a05cdcff2369aaaaa079886d8e54dfa]: Modification: Annex 5, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(6)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/6)
 
 [^f00013]: Footnote: changes to these items shall not be considered relevant for the purposes of paragraph 4 of Article 4 of Regulation (EU) 2017/1369.
 
@@ -743,10 +743,10 @@ The Member State authorities shall only apply the verification tolerances that a
 
 [^f00015]: Footnote: Commission Regulation (EU) 2019/2022 of 1 October 2019 laying down ecodesign requirements for household dishwashers pursuant to Directive 2009/125/EC of the European Parliament and of the Council amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EU) No 1016/2010 (see page 267 of this Official Journal).
 
-[^key-574ee9e90da021aeebbbf28d1459bfef]: Modification: [Annexes 6-9](https://www.legislation.gov.uk/eur/2019/2017/annex/VI) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
+[^c-574ee9e90da021aeebbbf28d1459bfef]: Modification: [Annexes 6-9](https://www.legislation.gov.uk/eur/2019/2017/annex/VI) applied (with modifications) (1.3.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [32(1)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/1)[(2)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/2)[(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/32/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4)
 
-[^key-d74dc88a9b83401265163557095bfa3b]: Modification: Annex 6, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(7)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/7)
+[^c-d74dc88a9b83401265163557095bfa3b]: Modification: Annex 6, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(7)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/7)
 
-[^key-306b6d325113ddb867d98c329b0d6472]: Modification: Annex 9, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/8)
+[^c-306b6d325113ddb867d98c329b0d6472]: Modification: Annex 9, as applied and modified by [S.I. 2020/1528](https://www.legislation.gov.uk/uksi/2020/1528), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/1528/schedule/4), amended (1.10.2021) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) Regulations 2021 (S.I. 2021/1097)](https://www.legislation.gov.uk/uksi/2021/1097), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/1/2), [7(8)](https://www.legislation.gov.uk/uksi/2021/1097/regulation/7/8)
 
 [^f00016]: Footnote: In the case of three additional units tested as prescribed in point 4, the determined value means the arithmetical mean of the values determined for these three additional units.

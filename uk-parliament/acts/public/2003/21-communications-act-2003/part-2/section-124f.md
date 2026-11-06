@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124F. Progress reports[^key-10d696b3516a0291a3b9331dfe8d40bd]
+## 124F. Progress reports[^c-10d696b3516a0291a3b9331dfe8d40bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ But this is subject to any direction by the Secretary of State under subsection 
 
 ## Annotations
 
-[^key-10d696b3516a0291a3b9331dfe8d40bd]: Textual amendment: S. 124F inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 8](https://www.legislation.gov.uk/ukpga/2010/24/section/8), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-10d696b3516a0291a3b9331dfe8d40bd]: Textual amendment: S. 124F inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 8](https://www.legislation.gov.uk/ukpga/2010/24/section/8), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

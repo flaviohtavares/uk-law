@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Reliefs: anti-avoidance[^key-8e7f35756acd2056aa64a9ff92f1dbbc]
+## 31. Reliefs: anti-avoidance[^c-8e7f35756acd2056aa64a9ff92f1dbbc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e7f35756acd2056aa64a9ff92f1dbbc]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2017/1/section/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-8e7f35756acd2056aa64a9ff92f1dbbc]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2017/1/section/31) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

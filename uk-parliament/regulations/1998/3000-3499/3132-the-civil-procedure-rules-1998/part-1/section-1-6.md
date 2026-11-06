@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.6. Participation of vulnerable parties or witnesses[^key-b11bf638224721e2be40471a4f26fd04]
+## 1.6. Participation of vulnerable parties or witnesses[^c-b11bf638224721e2be40471a4f26fd04]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Practice Direction 1A makes provision for how the court is to give effect to the
 
 ## Annotations
 
-[^key-b11bf638224721e2be40471a4f26fd04]: Textual amendment: [Rule 1.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/1.6) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/117/rule/4/3)
+[^c-b11bf638224721e2be40471a4f26fd04]: Textual amendment: [Rule 1.6](https://www.legislation.gov.uk/uksi/1998/3132/rule/1.6) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/117/rule/4/3)

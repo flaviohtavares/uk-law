@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-53de10a50d5d7070a39af648e7a9f83b]
+The Fluorinated Greenhouse Gases (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-53de10a50d5d7070a39af648e7a9f83b]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation
 
 23rd April 2014
 
-[^key-53de10a50d5d7070a39af648e7a9f83b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53de10a50d5d7070a39af648e7a9f83b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-53de10a50d5d7070a39af648e7a9f83b]
+## 1. Citation, commencement and interpretation[^c-53de10a50d5d7070a39af648e7a9f83b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2009[^key-53de10a50d5d7070a39af648e7a9f83b]
+## 2. Amendment of the Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2009[^c-53de10a50d5d7070a39af648e7a9f83b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53de10a50d5d7070a39af648e7a9f83b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53de10a50d5d7070a39af648e7a9f83b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-53de10a50d5d7070a39af648e7a9f83b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53de10a50d5d7070a39af648e7a9f83b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53de10a50d5d7070a39af648e7a9f83b]: Textual amendment: Regulations revoked (31.1.2016) by [The Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2015 (S.R. 2015/425)](https://www.legislation.gov.uk/nisr/2015/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/1), [30(c)](https://www.legislation.gov.uk/nisr/2015/425/regulation/30/c) (with [reg. 29](https://www.legislation.gov.uk/nisr/2015/425/regulation/29))
+[^c-53de10a50d5d7070a39af648e7a9f83b]: Textual amendment: Regulations revoked (31.1.2016) by [The Fluorinated Greenhouse Gases Regulations (Northern Ireland) 2015 (S.R. 2015/425)](https://www.legislation.gov.uk/nisr/2015/425), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/425/regulation/1/1), [30(c)](https://www.legislation.gov.uk/nisr/2015/425/regulation/30/c) (with [reg. 29](https://www.legislation.gov.uk/nisr/2015/425/regulation/29))

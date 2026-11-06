@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Amendments relating to sections 1 to 5[^key-846d39033533a32ed03f622782eb6836]
+## 6. Amendments relating to sections 1 to 5[^c-846d39033533a32ed03f622782eb6836]
 
 *Extent: E+W+S*
 
-(1)[^key-402b9d936eec6db3fbe7fad44d44f7b3] After section 27BZ1 of the Employment Rights Act 1996 (inserted by section 5) insert—
+(1)[^c-402b9d936eec6db3fbe7fad44d44f7b3] After section 27BZ1 of the Employment Rights Act 1996 (inserted by section 5) insert—
 
 > **Chapter 7 — General**
 >
@@ -55,12 +55,12 @@ summary: ''
 >
 > (2) Regulations under this Part may provide that a reference in the regulations to a provision of legislation is to be read as a reference to that provision as amended from time to time.
 
-(2)[^key-0b42067662117601c8732e1ceda5fa9e] Schedule 2 contains consequential amendments relating to sections 1 to 5.
+(2)[^c-0b42067662117601c8732e1ceda5fa9e] Schedule 2 contains consequential amendments relating to sections 1 to 5.
 
 ## Annotations
 
-[^key-846d39033533a32ed03f622782eb6836]: Commencement: S. 6 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-846d39033533a32ed03f622782eb6836]: Commencement: S. 6 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-402b9d936eec6db3fbe7fad44d44f7b3]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/f)
+[^c-402b9d936eec6db3fbe7fad44d44f7b3]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/1) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(f)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/f)
 
-[^key-0b42067662117601c8732e1ceda5fa9e]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/3)
+[^c-0b42067662117601c8732e1ceda5fa9e]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/6/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/3)

@@ -45,20 +45,20 @@ Regulation 3 is made with the consent of the Department of Finance and Personnel
 
 Proposals in respect of these Regulations were not referred to the Social Security Advisory Committee since it appeared to the Department for Social Development that by reason of the urgency of the matter it was inexpedient to do so[^f00006].
 
-## 1. Citation, commencement, effect and interpretation[^key-7ab24dab65bcc0b5c00ca50473565b4f]
+## 1. Citation, commencement, effect and interpretation[^c-7ab24dab65bcc0b5c00ca50473565b4f]
 
 (1) These Regulations shall be cited as the Social Security (Lebanon) (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 28th July 2006.
 
 (2) These Regulations shall cease to have effect on 30th January 2007 and the following Regulations shall have effect on and after that date as if the amendments made by these Regulations had not been made—
 
 - (a) the Income Support (General) Regulations (Northern Ireland) 1987[^f00007];
-- (b)[^key-77eb927446f27d8a0c128437d7957a53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-77eb927446f27d8a0c128437d7957a53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00009];
 - (d) the State Pension Credit Regulations (Northern Ireland) 2003[^f00010].
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-31d0f17870326668eb06d99744d7f491]
+## 2. Amendment of the Income Support (General) Regulations[^c-31d0f17870326668eb06d99744d7f491]
 
 (1) Regulation 21AA[^f00012] of the Income Support (General) Regulations (Northern Ireland) 1987 (special cases: supplemental—persons from abroad) is amended in accordance with paragraphs (2) and (3).
 
@@ -70,11 +70,11 @@ Proposals in respect of these Regulations were not referred to the Social Securi
 
 .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-79df8e180e5dc77a8210d4af8529b07e][^key-26a12fe5163a05655ed4c4e8d3e56f9b]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-79df8e180e5dc77a8210d4af8529b07e][^c-26a12fe5163a05655ed4c4e8d3e56f9b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-de2dd18c67f027c5affb0722dbd7d995]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-de2dd18c67f027c5affb0722dbd7d995]
 
 (1) Regulation 85A[^f00015] of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (special cases: supplemental—persons from abroad) is amended in accordance with paragraphs (2) and (3).
 
@@ -86,7 +86,7 @@ Proposals in respect of these Regulations were not referred to the Social Securi
 
 .
 
-## 5. Amendment of the State Pension Credit Regulations[^key-7eff6cb6532e9b335b133cb2a10af002]
+## 5. Amendment of the State Pension Credit Regulations[^c-7eff6cb6532e9b335b133cb2a10af002]
 
 (1) Regulation 2[^f00016] of the State Pension Credit Regulations (Northern Ireland) 2003 (persons not in Northern Ireland) is amended in accordance with paragraphs (2) and (3).
 
@@ -138,11 +138,11 @@ These Regulations cease to have effect on 30th January 2007. From that date the 
 
 [^f00006]: Footnote: *See* sections 149(2) and 150(1)(a) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-7ab24dab65bcc0b5c00ca50473565b4f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/320/regulation/1) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
+[^c-7ab24dab65bcc0b5c00ca50473565b4f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/320/regulation/1) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 2006 No. 178](https://www.legislation.gov.uk/nisr/2006/178)
 
-[^key-77eb927446f27d8a0c128437d7957a53]: Textual amendment: [Reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-77eb927446f27d8a0c128437d7957a53]: Textual amendment: [Reg. 1(2)(b)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00009]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 2006 No. 178](https://www.legislation.gov.uk/nisr/2006/178)
 
@@ -150,18 +150,18 @@ These Regulations cease to have effect on 30th January 2007. From that date the 
 
 [^f00011]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-31d0f17870326668eb06d99744d7f491]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/320/regulation/2) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
+[^c-31d0f17870326668eb06d99744d7f491]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/320/regulation/2) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
 
 [^f00012]: Footnote: Regulation 21AA was inserted by regulation 2(3) of [S.R. 2006 No. 178](https://www.legislation.gov.uk/nisr/2006/178)
 
-[^key-79df8e180e5dc77a8210d4af8529b07e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/320/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-79df8e180e5dc77a8210d4af8529b07e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/320/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-26a12fe5163a05655ed4c4e8d3e56f9b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/320/regulation/3) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
+[^c-26a12fe5163a05655ed4c4e8d3e56f9b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/320/regulation/3) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
 
-[^key-de2dd18c67f027c5affb0722dbd7d995]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/320/regulation/4) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
+[^c-de2dd18c67f027c5affb0722dbd7d995]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/320/regulation/4) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
 
 [^f00015]: Footnote: Regulation 85A was inserted by regulation 4(3) of [S.R. 2006 No. 178](https://www.legislation.gov.uk/nisr/2006/178)
 
-[^key-7eff6cb6532e9b335b133cb2a10af002]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/320/regulation/5) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
+[^c-7eff6cb6532e9b335b133cb2a10af002]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/320/regulation/5) in operation at 28.7.2006 with effect in accordance with, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/320/regulation/1/2)
 
 [^f00016]: Footnote: Regulation 2 was substituted by regulation 5 of [S.R. 2006 No. 178](https://www.legislation.gov.uk/nisr/2006/178)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**50.**[^key-7037de4f4f9904328b73bef1854747ef] In section 14A(2) (which relates to election out of the judicial pension schemes), in the definition of “judicial pension schemes”, for “widows and children” substitute “widows, surviving civil partners and children”.
+**50.**[^c-7037de4f4f9904328b73bef1854747ef] In section 14A(2) (which relates to election out of the judicial pension schemes), in the definition of “judicial pension schemes”, for “widows and children” substitute “widows, surviving civil partners and children”.
 
 ## Annotations
 
-[^key-7037de4f4f9904328b73bef1854747ef]: Commencement: Art. 50 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-7037de4f4f9904328b73bef1854747ef]: Commencement: Art. 50 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

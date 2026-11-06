@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Heat networks delivery plan[^key-eaddb40a05d595258d7106c527240488]
+## 93. Heat networks delivery plan[^c-eaddb40a05d595258d7106c527240488]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ no later than 1 April 2022.
 
 ## Annotations
 
-[^key-eaddb40a05d595258d7106c527240488]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2021/9/section/93) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(n)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/n)
+[^c-eaddb40a05d595258d7106c527240488]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2021/9/section/93) in force at 30.5.2023 by [S.S.I. 2023/148](https://www.legislation.gov.uk/ssi/2023/148), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/1)[(2)(n)](https://www.legislation.gov.uk/ssi/2023/148/regulation/2/2/n)

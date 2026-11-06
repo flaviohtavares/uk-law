@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25.6. Transcripts of evidence[^key-fa9b545b856c12c51f82d36a70844d64]
+## 25.6. Transcripts of evidence[^c-fa9b545b856c12c51f82d36a70844d64]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa9b545b856c12c51f82d36a70844d64]: Commencement: Para. 25.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-fa9b545b856c12c51f82d36a70844d64]: Commencement: Para. 25.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

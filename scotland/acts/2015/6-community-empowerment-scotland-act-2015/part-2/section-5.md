@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Socio-economic inequalities[^key-0c3a1842b6878d59665e9f6ededab165]
+## 5. Socio-economic inequalities[^c-0c3a1842b6878d59665e9f6ededab165]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In carrying out functions conferred by this Part, a community planning partnersh
 
 ## Annotations
 
-[^key-0c3a1842b6878d59665e9f6ededab165]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/6/section/5) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-0c3a1842b6878d59665e9f6ededab165]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/6/section/5) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

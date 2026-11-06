@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Disclosure of other reports[^key-b2a2072024c647181f2251133d387f36]
+## 34. Disclosure of other reports[^c-b2a2072024c647181f2251133d387f36]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ For this purpose, “**harm**” has the same meaning as in section 31 of the Ch
 
 ## Annotations
 
-[^key-b2a2072024c647181f2251133d387f36]: Commencement: S. 34 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b2a2072024c647181f2251133d387f36]: Commencement: S. 34 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

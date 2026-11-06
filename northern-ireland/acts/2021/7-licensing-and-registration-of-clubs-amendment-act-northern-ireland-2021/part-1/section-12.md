@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Requirement for off-licence[^key-8e885fed5550a0c3397125fe309f33a0][^key-1090b5ed3724ea26c945852e8421c956]
+## 12. Requirement for off-licence[^c-8e885fed5550a0c3397125fe309f33a0][^c-1090b5ed3724ea26c945852e8421c956]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e885fed5550a0c3397125fe309f33a0]: Commencement: S. 12 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-8e885fed5550a0c3397125fe309f33a0]: Commencement: S. 12 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-1090b5ed3724ea26c945852e8421c956]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/7/section/12) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-1090b5ed3724ea26c945852e8421c956]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/7/section/12) in operation at 6.4.2022 by [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

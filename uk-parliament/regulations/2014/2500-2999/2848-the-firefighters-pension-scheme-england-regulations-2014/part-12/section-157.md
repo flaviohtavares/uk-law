@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Procedure where appeal to be pursued[^key-e798dcb8939a3645fde61d1d1ac6841d]
+## 157. Procedure where appeal to be pursued[^c-e798dcb8939a3645fde61d1d1ac6841d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ the board may dispense with the interview and medical examination, and may deter
 
 ## Annotations
 
-[^key-e798dcb8939a3645fde61d1d1ac6841d]: Commencement: [Reg. 157](https://www.legislation.gov.uk/uksi/2014/2848/regulation/157) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-e798dcb8939a3645fde61d1d1ac6841d]: Commencement: [Reg. 157](https://www.legislation.gov.uk/uksi/2014/2848/regulation/157) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

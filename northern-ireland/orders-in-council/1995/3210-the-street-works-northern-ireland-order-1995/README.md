@@ -129,7 +129,7 @@ The Street Works (Northern Ireland) Order 1995 [^c17049791]
 - [Section 39 — Information in relation to apparatus](part-9/section-39.md)
 - [Section 40 — Duties to report missing or incorrect information in relation to apparatus](part-9/section-40.md)
 
-### Other duties and liabilities of undertakers in relation to apparatus[^key-39049eddecc48b06c42f48b5f1df9cd2]
+### Other duties and liabilities of undertakers in relation to apparatus[^c-39049eddecc48b06c42f48b5f1df9cd2]
 
 - [Section 41 — Duty to maintain apparatus](part-12n1/section-41.md)
 - [Section 42 — Liability for damage or loss caused](part-12n1/section-42.md)
@@ -140,7 +140,7 @@ The Street Works (Northern Ireland) Order 1995 [^c17049791]
 - [Section 44 — Measures necessary where apparatus affected by major works](part-10/section-44.md)
 - [Section 45 — Sharing of cost of necessary measures](part-10/section-45.md)
 
-### National Underground Asset Register[^key-d5add1c935bebe0c19603c70e7b7bb4e]
+### National Underground Asset Register[^c-d5add1c935bebe0c19603c70e7b7bb4e]
 
 - [Section 45A — National Underground Asset Register](part-14/section-45a.md)
 - [Section 45B — Initial upload of information into NUAR](part-14/section-45b.md)
@@ -203,6 +203,6 @@ SCHEDULES
 
 [^M_F_a3d42f13-1454-4185-ebe0-56f528d053df]: Textual amendment: Art. 39 cross-heading substituted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/2), [142(1)(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))
 
-[^key-39049eddecc48b06c42f48b5f1df9cd2]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/nisi/1995/3210/article/41) cross-heading inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))
+[^c-39049eddecc48b06c42f48b5f1df9cd2]: Textual amendment: [Art. 41](https://www.legislation.gov.uk/nisi/1995/3210/article/41) cross-heading inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))
 
-[^key-d5add1c935bebe0c19603c70e7b7bb4e]: Textual amendment: [Arts. 45A-45I](https://www.legislation.gov.uk/nisi/1995/3210/article/45A) and cross-heading inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/58/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))
+[^c-d5add1c935bebe0c19603c70e7b7bb4e]: Textual amendment: [Arts. 45A-45I](https://www.legislation.gov.uk/nisi/1995/3210/article/45A) and cross-heading inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/58/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))

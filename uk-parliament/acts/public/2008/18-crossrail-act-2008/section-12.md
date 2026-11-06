@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Fees for planning applications[^key-5ffc6b8d1e014ff3dbda7b6db8fec9f2][^key-64530fbfe4caf0526bfee5ee58b86ca0]
+## 12. Fees for planning applications[^c-5ffc6b8d1e014ff3dbda7b6db8fec9f2][^c-64530fbfe4caf0526bfee5ee58b86ca0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,14 +42,14 @@ summary: ''
 
 (6) In this section—
 
-- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^key-298e20a016f1efd8bbc794268eb175d2] and the Secretary of State for Transport acting jointly;
+- “**appropriate Ministers**” means the Secretary of State for Housing, Communities and Local Government[^c-298e20a016f1efd8bbc794268eb175d2] and the Secretary of State for Transport acting jointly;
 - “**prescribed**” means prescribed in regulations under subsection (1);
 - “**relevant planning application**” means a request for approval under the planning permission deemed by section 10(1) to be granted.
 
 ## Annotations
 
-[^key-5ffc6b8d1e014ff3dbda7b6db8fec9f2]: Modification: S. 12 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-5ffc6b8d1e014ff3dbda7b6db8fec9f2]: Modification: S. 12 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-64530fbfe4caf0526bfee5ee58b86ca0]: Modification: S. 12 applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
+[^c-64530fbfe4caf0526bfee5ee58b86ca0]: Modification: S. 12 applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
 
-[^key-298e20a016f1efd8bbc794268eb175d2]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2008/18/section/12/6) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/11/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))
+[^c-298e20a016f1efd8bbc794268eb175d2]: Textual amendment: Words in [s. 12(6)](https://www.legislation.gov.uk/ukpga/2008/18/section/12/6) substituted (30.10.2024) by [The Transfer of Functions (Secretary of State for Housing, Communities and Local Government) Order 2024 (S.I. 2024/991)](https://www.legislation.gov.uk/uksi/2024/991), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/991/article/1/2), [Sch. para. 11(a)](https://www.legislation.gov.uk/uksi/2024/991/schedule/paragraph/11/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2024/991/article/7))

@@ -56,12 +56,12 @@ if the person performs essential services, additional services, enhanced service
 
 (9) A reference to a fully registered person must be construed in accordance with section 55 of the Medical Act 1983 [^c22440851].
 
-(10) An ophthalmic provider is a principal medical practitioner who is included in an ophthalmic list kept and published by the Department[^key-77d4c712d712a98ea5723d3b445b162a] pursuant to regulation 8(1) of the General Ophthalmic Services Regulations (Northern Ireland) 2007 [^c22440861].
+(10) An ophthalmic provider is a principal medical practitioner who is included in an ophthalmic list kept and published by the Department[^c-77d4c712d712a98ea5723d3b445b162a] pursuant to regulation 8(1) of the General Ophthalmic Services Regulations (Northern Ireland) 2007 [^c22440861].
 
 ## Annotations
 
 [^c22440851]: Marginal citation: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54). The definition of ‘fully registered person’ has been amended by [S.I. 2000/3041](https://www.legislation.gov.uk/uksi/2000/3041); 2006/1914; 2007/3101 and 2008/1774
 
-[^key-77d4c712d712a98ea5723d3b445b162a]: Textual amendment: Word in [reg. 150(10)](https://www.legislation.gov.uk/nisr/2015/120/regulation/150/10) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [39](https://www.legislation.gov.uk/nisr/2023/33/regulation/39)
+[^c-77d4c712d712a98ea5723d3b445b162a]: Textual amendment: Word in [reg. 150(10)](https://www.legislation.gov.uk/nisr/2015/120/regulation/150/10) substituted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [39](https://www.legislation.gov.uk/nisr/2023/33/regulation/39)
 
 [^c22440861]: Marginal citation: S.R. [2007 No.436](https://www.legislation.gov.uk/ukcm/2007/436)

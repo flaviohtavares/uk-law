@@ -30,7 +30,7 @@ summary: ''
 unless either—
 
 - (i) an application under this Article has been made by the holder of the licence to a county court and the court has made an order consenting to the alteration; or
-- (ii) the alteration is required by order of some lawful authority and, before the alteration is made, notice of the requirement is served by the holder of the licence on the clerk of petty sessions [^key-6fe12f80021f536d4f31e893982b8b97]....
+- (ii) the alteration is required by order of some lawful authority and, before the alteration is made, notice of the requirement is served by the holder of the licence on the clerk of petty sessions [^c-6fe12f80021f536d4f31e893982b8b97]....
 
 (2) The procedure for applications under paragraph (1)(i) is set out in Part I of Schedule 8, and Part II of that Schedule shall have effect in relation to notices under paragraph (1)(ii).
 
@@ -44,4 +44,4 @@ unless either—
 
 ## Annotations
 
-[^key-6fe12f80021f536d4f31e893982b8b97]: Textual amendment: Words in [art. 31(1)(d)(ii)](https://www.legislation.gov.uk/nisi/1996/3158/article/31/1/d/ii) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/6), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-6fe12f80021f536d4f31e893982b8b97]: Textual amendment: Words in [art. 31(1)(d)(ii)](https://www.legislation.gov.uk/nisi/1996/3158/article/31/1/d/ii) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 110(6)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/110/6), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

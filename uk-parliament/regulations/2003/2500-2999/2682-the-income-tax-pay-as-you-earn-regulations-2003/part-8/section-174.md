@@ -47,7 +47,7 @@ summary: ''
 | regulation 76 | certificate if tax in regulation 73 return is unpaid |
 | regulation 79 | certificate after inspection of PAYE records |
 | regulation 84 | recovery of tax and interest |
-| regulation 97 | retention by employer of[^key-4f726b9e6ee29638a68ee54152ca53dd] PAYE records |
+| regulation 97 | retention by employer of[^c-4f726b9e6ee29638a68ee54152ca53dd] PAYE records |
 | regulation 98 | multiple PAYE schemes |
 | regulation 102 | succession to a business etc |
 | regulation 141 | direct collection and special arrangements |
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f726b9e6ee29638a68ee54152ca53dd]: Textual amendment: Words in [reg. 174(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/174/1) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/588/regulation/7)
+[^c-4f726b9e6ee29638a68ee54152ca53dd]: Textual amendment: Words in [reg. 174(1)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/174/1) substituted (1.4.2009) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2009 (S.I. 2009/588)](https://www.legislation.gov.uk/uksi/2009/588), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/588/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2009/588/regulation/7)

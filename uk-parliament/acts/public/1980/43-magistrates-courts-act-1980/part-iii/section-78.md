@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Defect in distress warrant and irregularity in its execution.[^c18251731][^c18251741][^c19377502][^c19998161][^c20643771][^key-228b2598ac8385e4b59d6455c0dbe80e][^key-c78ff36b4237e57a30405f9a1f851748]
+## 78. Defect in distress warrant and irregularity in its execution.[^c18251731][^c18251741][^c19377502][^c19998161][^c20643771][^c-228b2598ac8385e4b59d6455c0dbe80e][^c-c78ff36b4237e57a30405f9a1f851748]
 
 *Extent: E+W*
 
@@ -66,9 +66,9 @@ summary: ''
 
 [^c20643771]: Modification: S. 78 applied (12.8.2009) by [The Sea Fishing (Landing and Weighing of Herring, Mackerel and Horse Mackerel) Order 2009 (S.I. 2009/1850)](https://www.legislation.gov.uk/uksi/2009/1850), [art. 10(2)](https://www.legislation.gov.uk/uksi/2009/1850/article/10/2)
 
-[^key-228b2598ac8385e4b59d6455c0dbe80e]: Modification: S. 78 applied (25.1.2010) by [Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 (S.I. 2009/3391)](https://www.legislation.gov.uk/uksi/2009/3391), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3391/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2009/3391/article/11/2) (with [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/3391/article/2/1))
+[^c-228b2598ac8385e4b59d6455c0dbe80e]: Modification: S. 78 applied (25.1.2010) by [Sea Fishing (Illegal, Unreported and Unregulated Fishing) Order 2009 (S.I. 2009/3391)](https://www.legislation.gov.uk/uksi/2009/3391), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3391/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2009/3391/article/11/2) (with [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/3391/article/2/1))
 
-[^key-c78ff36b4237e57a30405f9a1f851748]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/1980/43/section/78) applied (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/191/article/3/3)
+[^c-c78ff36b4237e57a30405f9a1f851748]: Modification: [S. 78](https://www.legislation.gov.uk/ukpga/1980/43/section/78) applied (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/191/article/3/3)
 
 [^c19377461]: Textual amendment: Words in s. 78(4) substituted (1.9.2004) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [ss. 109(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/109/1), [110](https://www.legislation.gov.uk/ukpga/2003/39/section/110), [Sch. 8 para. 219(a)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/219/a); [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066), [art. 2(c)(xi)](https://www.legislation.gov.uk/uksi/2004/2066/article/2/c/xi) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2004/2066/article/3))
 

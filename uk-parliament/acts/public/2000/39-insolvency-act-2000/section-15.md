@@ -22,7 +22,7 @@ summary: ''
 
 (1) The enactments mentioned in Schedule 5 are repealed to the extent specified.
 
-(2)[^key-15081377b42c208be94ac6b18748c51b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-15081377b42c208be94ac6b18748c51b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Section 356 of that Act (Authority’s powers to participate in proceedings: company voluntary arrangements) is amended as follows—
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c1029539]: Commencement: S. 15 wholly in force at 1.1.2003; s. 15 not in force at Royal Assent see s. 16(1); s. 15(1) in force for specified purposes at 2.4.2001 by [S.I. 2001/766](https://www.legislation.gov.uk/uksi/2001/766), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2001/766/article/2/1/c) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2001/766/article/3)); S. 15 in force at 1.1.2003 insofar as not already in force by [S.I. 2002/2711](https://www.legislation.gov.uk/uksi/2002/2711), [art. 2](https://www.legislation.gov.uk/uksi/2002/2711/article/2) (subject to transitional provisions in [arts. 3-5](https://www.legislation.gov.uk/uksi/2002/2711/article/3))
 
-[^key-15081377b42c208be94ac6b18748c51b]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2000/39/section/15/2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-15081377b42c208be94ac6b18748c51b]: Textual amendment: [S. 15(2)](https://www.legislation.gov.uk/ukpga/2000/39/section/15/2) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

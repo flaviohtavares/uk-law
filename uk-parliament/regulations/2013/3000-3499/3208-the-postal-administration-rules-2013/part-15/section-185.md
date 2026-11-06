@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 185. Non-Gazette notices—other provisions[^key-8a1e246ce54a7f95e4dfd0ccbd8195b6]
+## 185. Non-Gazette notices—other provisions[^c-8a1e246ce54a7f95e4dfd0ccbd8195b6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a1e246ce54a7f95e4dfd0ccbd8195b6]: Commencement: [Rule 185](https://www.legislation.gov.uk/uksi/2013/3208/rule/185) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8a1e246ce54a7f95e4dfd0ccbd8195b6]: Commencement: [Rule 185](https://www.legislation.gov.uk/uksi/2013/3208/rule/185) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Prohibition of advertising: exclusion for specialist tobacconists[^c2006733][^key-c016f2c01597990907908a31545c228e][^key-afac0d3525c3c9808b01bc6ea37f170d][^key-e514f32b61cdf4f5a2ca68aad2817f39]
+## 20. Prohibition of advertising: exclusion for specialist tobacconists[^c2006733][^c-c016f2c01597990907908a31545c228e][^c-afac0d3525c3c9808b01bc6ea37f170d][^c-e514f32b61cdf4f5a2ca68aad2817f39]
 
 *Extent: E+W*
 
@@ -32,8 +32,8 @@ In section 6 of the Tobacco Advertising and Promotion Act 2002 (c. 36) (speciali
 
 [^c2006733]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) partly in force; [s. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force for specified purposes at Royal Assent see [s. 40(6)(b)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/6/b)
 
-[^key-c016f2c01597990907908a31545c228e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force at 6.4.2015 for E. in so far as not already in force by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/a)
+[^c-c016f2c01597990907908a31545c228e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force at 6.4.2015 for E. in so far as not already in force by [S.I. 2010/1068](https://www.legislation.gov.uk/uksi/2010/1068), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2/a)
 
-[^key-afac0d3525c3c9808b01bc6ea37f170d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force at 6.4.2015 for N.I. in so far as not already in force by [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/a)
+[^c-afac0d3525c3c9808b01bc6ea37f170d]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force at 6.4.2015 for N.I. in so far as not already in force by [S.R. 2012/389](https://www.legislation.gov.uk/nisr/2012/389), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/389/article/2/2/a)
 
-[^key-e514f32b61cdf4f5a2ca68aad2817f39]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force at 6.4.2015 for W. in so far as not already in force by [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/a)
+[^c-e514f32b61cdf4f5a2ca68aad2817f39]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2009/21/section/20) in force at 6.4.2015 for W. in so far as not already in force by [S.I. 2012/1288](https://www.legislation.gov.uk/wsi/2012/1288), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/1288/article/3/a)

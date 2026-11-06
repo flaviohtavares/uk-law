@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 234(2))
 
-### PART 1 — Repeals[^key-81faf425d12e73162bb921d8b4668833]
+### PART 1 — Repeals[^c-81faf425d12e73162bb921d8b4668833]
 
 <table>
 <tbody>
@@ -46,7 +46,7 @@ summary: ''
 </tbody>
 </table>
 
-### PART 2 — Revocations[^key-c420b19373a4db078cd9fb78e62d7c45]
+### PART 2 — Revocations[^c-c420b19373a4db078cd9fb78e62d7c45]
 
 | *Enactment* | *Extent of revocation* |
 | --- | --- |
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81faf425d12e73162bb921d8b4668833]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-81faf425d12e73162bb921d8b4668833]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/1) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-c420b19373a4db078cd9fb78e62d7c45]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c420b19373a4db078cd9fb78e62d7c45]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/asp/2016/21/schedule/9/part/2) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

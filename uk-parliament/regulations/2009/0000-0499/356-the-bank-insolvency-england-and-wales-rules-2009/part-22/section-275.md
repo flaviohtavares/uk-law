@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 275. Charge for copy documents[^key-7e8a948c56f5abff1c217ead97556ce2]
+## 275. Charge for copy documents[^c-7e8a948c56f5abff1c217ead97556ce2]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 12.15A of the 1986 Rules[^f00094].
 
 ## Annotations
 
-[^key-7e8a948c56f5abff1c217ead97556ce2]: Commencement: Rule 275 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-7e8a948c56f5abff1c217ead97556ce2]: Commencement: Rule 275 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00094]: Footnote: Rule 12.15A was inserted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

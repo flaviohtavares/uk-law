@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Corporate plan[^key-77b8cceae86bdcd6d7472df19c553175]
+## 27. Corporate plan[^c-77b8cceae86bdcd6d7472df19c553175]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) the outcomes by reference to which the achievement of the main objectives may be measured, and
 - (c) the activities which WRA expects to undertake during the planning period.
 
-(2A)[^key-1b5af8b66c63fad7cbb87d67f16e2a69] Before submitting the plan for approval by the Welsh Ministers, WRA must consult each principal council that has introduced, or decided to introduce, the visitor levy in its area on any objectives, outcomes or activities that relate to the visitor levy.
+(2A)[^c-1b5af8b66c63fad7cbb87d67f16e2a69] Before submitting the plan for approval by the Welsh Ministers, WRA must consult each principal council that has introduced, or decided to introduce, the visitor levy in its area on any objectives, outcomes or activities that relate to the visitor levy.
 
 (3) The Welsh Ministers may approve the corporate plan subject to such modifications as may be agreed between them and WRA.
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77b8cceae86bdcd6d7472df19c553175]: Commencement: S. 27 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
+[^c-77b8cceae86bdcd6d7472df19c553175]: Commencement: S. 27 in force at 18.10.2017 by [S.I. 2017/954](https://www.legislation.gov.uk/wsi/2017/954), [art. 2](https://www.legislation.gov.uk/wsi/2017/954/article/2)
 
-[^key-1b5af8b66c63fad7cbb87d67f16e2a69]: Textual amendment: [S. 27(2A)](https://www.legislation.gov.uk/anaw/2016/6/section/27/2A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/28)
+[^c-1b5af8b66c63fad7cbb87d67f16e2a69]: Textual amendment: [S. 27(2A)](https://www.legislation.gov.uk/anaw/2016/6/section/27/2A) inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/28)

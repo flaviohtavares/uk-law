@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Minor and consequential amendments[^key-f4a4fe75507f500bc78f52b80c0ed398][^key-cb052feb3e8bb5b00c6cdc160ff5d05f]
+## 94. Minor and consequential amendments[^c-f4a4fe75507f500bc78f52b80c0ed398][^c-cb052feb3e8bb5b00c6cdc160ff5d05f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 18 makes minor and consequential amendments.
 
 ## Annotations
 
-[^key-f4a4fe75507f500bc78f52b80c0ed398]: Commencement: S. 94 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-f4a4fe75507f500bc78f52b80c0ed398]: Commencement: S. 94 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-cb052feb3e8bb5b00c6cdc160ff5d05f]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/32/section/94) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)
+[^c-cb052feb3e8bb5b00c6cdc160ff5d05f]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/32/section/94) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/f)

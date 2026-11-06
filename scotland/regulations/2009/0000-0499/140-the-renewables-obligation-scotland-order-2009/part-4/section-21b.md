@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 21B. Combustion units in relation to which a CFD or investment contract has been entered into[^key-bd336b4c05c1b7948389e7106b4c2fe0]
+## 21B. Combustion units in relation to which a CFD or investment contract has been entered into[^c-bd336b4c05c1b7948389e7106b4c2fe0]
 
 (1) This article applies to a combustion unit in relation to which a CFD or investment contract has been entered into.
 
@@ -35,7 +35,7 @@ summary: ''
 
 (7) The conversion date stated in a CFD transfer notice cannot be changed—
 
-- (a) after 31st[^key-5a5de1d4278c9eca5f7047980a8fecf7] March 2027;
+- (a) after 31st[^c-5a5de1d4278c9eca5f7047980a8fecf7] March 2027;
 - (b) after the CFD transfer notice has come into force; or
 - (c) if a CFD entered into in relation to the combustion unit to which the CFD transfer notice relates has been terminated or otherwise ceased to have effect.
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd336b4c05c1b7948389e7106b4c2fe0]: Textual amendment: Arts. 21A, 21B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [6](https://www.legislation.gov.uk/ssi/2014/94/article/6) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-bd336b4c05c1b7948389e7106b4c2fe0]: Textual amendment: Arts. 21A, 21B inserted (1.4.2014) by [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [6](https://www.legislation.gov.uk/ssi/2014/94/article/6) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-5a5de1d4278c9eca5f7047980a8fecf7]: Textual amendment: Word in art. 21B(7)(a) substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [5](https://www.legislation.gov.uk/ssi/2015/384/article/5) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))
+[^c-5a5de1d4278c9eca5f7047980a8fecf7]: Textual amendment: Word in art. 21B(7)(a) substituted (1.12.2015) by [The Renewables Obligation (Scotland) Amendment Order 2015 (S.S.I. 2015/384)](https://www.legislation.gov.uk/ssi/2015/384), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/384/article/1/1), [5](https://www.legislation.gov.uk/ssi/2015/384/article/5) (with [art. 16](https://www.legislation.gov.uk/ssi/2015/384/article/16))

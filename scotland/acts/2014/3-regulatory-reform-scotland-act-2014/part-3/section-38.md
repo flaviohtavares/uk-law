@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Vicarious liability for certain offences by employees and agents[^key-e6d35da42b008324e27a49e194ae7946]
+## 38. Vicarious liability for certain offences by employees and agents[^c-e6d35da42b008324e27a49e194ae7946]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d35da42b008324e27a49e194ae7946]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/3/section/38) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-e6d35da42b008324e27a49e194ae7946]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/3/section/38) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

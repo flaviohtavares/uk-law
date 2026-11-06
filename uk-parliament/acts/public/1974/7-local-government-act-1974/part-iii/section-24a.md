@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24A. Power to investigate[^key-514259501c8a5859a7df557bed927436]
+## 24A. Power to investigate[^c-514259501c8a5859a7df557bed927436]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ if he is satisfied with action which the authority concerned have taken or propo
 
 ## Annotations
 
-[^key-514259501c8a5859a7df557bed927436]: Textual amendment: S. 24A inserted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 171](https://www.legislation.gov.uk/ukpga/2007/28/section/171), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))
+[^c-514259501c8a5859a7df557bed927436]: Textual amendment: S. 24A inserted (1.4.2008 in relation to matters coming to the attention of the Commission on or after 1.4.2008) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 171](https://www.legislation.gov.uk/ukpga/2007/28/section/171), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/i) (with [art. 6(5)](https://www.legislation.gov.uk/uksi/2008/917/article/6/5))

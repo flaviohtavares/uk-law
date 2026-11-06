@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Application to dispose of secured property[^key-b964418d45cd94cf999bf9416f58180b]
+## 94. Application to dispose of secured property[^c-b964418d45cd94cf999bf9416f58180b]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b964418d45cd94cf999bf9416f58180b]: Commencement: Rule 94 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-b964418d45cd94cf999bf9416f58180b]: Commencement: Rule 94 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

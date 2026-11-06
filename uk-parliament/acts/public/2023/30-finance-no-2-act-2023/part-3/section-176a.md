@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176A. Meaning of “non-marketable transferable tax credits”[^key-f085a0bdf9de75d2866dceaa7d1cab17]
+## 176A. Meaning of “non-marketable transferable tax credits”[^c-f085a0bdf9de75d2866dceaa7d1cab17]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f085a0bdf9de75d2866dceaa7d1cab17]: Textual amendment: Ss. 176A-176C and cross-heading inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/6)
+[^c-f085a0bdf9de75d2866dceaa7d1cab17]: Textual amendment: Ss. 176A-176C and cross-heading inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(6)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/6)

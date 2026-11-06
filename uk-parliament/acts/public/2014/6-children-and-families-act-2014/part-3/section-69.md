@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. SEN information report[^key-6b6f9aadc873020df785b1f3d6b47e6b][^key-ef02ff675f1ac899e28b739c66f70c3f]
+## 69. SEN information report[^c-6b6f9aadc873020df785b1f3d6b47e6b][^c-ef02ff675f1ac899e28b739c66f70c3f]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b6f9aadc873020df785b1f3d6b47e6b]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2014/6/section/69) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(j)](https://www.legislation.gov.uk/uksi/2014/889/article/3/j)
+[^c-6b6f9aadc873020df785b1f3d6b47e6b]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2014/6/section/69) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(j)](https://www.legislation.gov.uk/uksi/2014/889/article/3/j)
 
-[^key-ef02ff675f1ac899e28b739c66f70c3f]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2014/6/section/69) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-ef02ff675f1ac899e28b739c66f70c3f]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2014/6/section/69) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 100. Guidance[^key-01bb779f7946c29263f23cbf605a9728]
+## 100. Guidance[^c-01bb779f7946c29263f23cbf605a9728]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01bb779f7946c29263f23cbf605a9728]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2011/9/section/100) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-01bb779f7946c29263f23cbf605a9728]: Commencement: [S. 100](https://www.legislation.gov.uk/asp/2011/9/section/100) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

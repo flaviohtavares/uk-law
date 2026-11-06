@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288. Information requirements[^key-41f30c096be807b57cce827dff198ef4][^key-12f7d42b235e99a92d06cfe96027af9f]
+## 288. Information requirements[^c-41f30c096be807b57cce827dff198ef4][^c-12f7d42b235e99a92d06cfe96027af9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41f30c096be807b57cce827dff198ef4]: Commencement: S. 288 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-41f30c096be807b57cce827dff198ef4]: Commencement: S. 288 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-12f7d42b235e99a92d06cfe96027af9f]: Commencement: [S. 288](https://www.legislation.gov.uk/ukpga/2024/13/section/288) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)
+[^c-12f7d42b235e99a92d06cfe96027af9f]: Commencement: [S. 288](https://www.legislation.gov.uk/ukpga/2024/13/section/288) in force at 1.1.2026 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 3](https://www.legislation.gov.uk/uksi/2025/272/regulation/3)

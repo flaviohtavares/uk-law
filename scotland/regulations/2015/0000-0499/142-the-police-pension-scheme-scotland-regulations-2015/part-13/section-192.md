@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Late payment of retirement index adjustment or retirement PIA index adjustment[^key-511614aba012d18b6b30d1b4a9eb8c82]
+## 192. Late payment of retirement index adjustment or retirement PIA index adjustment[^c-511614aba012d18b6b30d1b4a9eb8c82]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires any part of a pension attributable to a re
 
 ## Annotations
 
-[^key-511614aba012d18b6b30d1b4a9eb8c82]: Commencement: Reg. 192 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-511614aba012d18b6b30d1b4a9eb8c82]: Commencement: Reg. 192 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

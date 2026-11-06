@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocation, savings and transitional provisions[^key-042989e851a35d7971819691f474fb83]
+## 2. Revocation, savings and transitional provisions[^c-042989e851a35d7971819691f474fb83]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-042989e851a35d7971819691f474fb83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/140/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-042989e851a35d7971819691f474fb83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/140/regulation/2) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

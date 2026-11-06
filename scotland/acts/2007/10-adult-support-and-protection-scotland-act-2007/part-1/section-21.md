@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Temporary banning orders[^key-67a9c42c441d8f7548860926c02b5a4d]
+## 21. Temporary banning orders[^c-67a9c42c441d8f7548860926c02b5a4d]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67a9c42c441d8f7548860926c02b5a4d]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2007/10/section/21) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-67a9c42c441d8f7548860926c02b5a4d]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2007/10/section/21) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

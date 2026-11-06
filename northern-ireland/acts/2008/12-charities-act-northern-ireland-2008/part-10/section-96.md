@@ -33,16 +33,16 @@ summary: ''
 
 (3) The following are “regulated alterations”—
 
-- (a)[^key-def63cf774aaee827a65989f148cbd66] an amendment of the company's articles of association adding, removing or altering a statement of the company's objects,
-- (b) any alteration of any provision of its articles of association[^key-c74c5b114ab96010c68e90a2a6f288d8] directing the application of property of the company on its dissolution, and
-- (c) any alteration of any provision of its articles of association[^key-d66e130f1de1cd5ced195ac28b4ff575] where the alteration would provide authorisation for any benefit to be obtained by directors or members of the company or persons connected with them.
+- (a)[^c-def63cf774aaee827a65989f148cbd66] an amendment of the company's articles of association adding, removing or altering a statement of the company's objects,
+- (b) any alteration of any provision of its articles of association[^c-c74c5b114ab96010c68e90a2a6f288d8] directing the application of property of the company on its dissolution, and
+- (c) any alteration of any provision of its articles of association[^c-d66e130f1de1cd5ced195ac28b4ff575] where the alteration would provide authorisation for any benefit to be obtained by directors or members of the company or persons connected with them.
 
 (4) For the purposes of subsection (3)—
 
 - (a) “**benefit**” means a direct or indirect benefit of any nature, except that it does not include any remuneration (within the meaning of section 88) whose receipt may be authorised under that section; and
 - (b) the same rules apply for determining whether a person is connected with a director or member of the company as apply, in accordance with section 89(5) and (6), for determining whether a person is connected with a charity trustee for the purposes of section 88.
 
-(5)[^key-7ec0a7a1717030c0608d0876539620ec] Where a company that has made a regulated alteration in accordance with subsection (2) is required—
+(5)[^c-7ec0a7a1717030c0608d0876539620ec] Where a company that has made a regulated alteration in accordance with subsection (2) is required—
 
 - (a) by section 26 of the Companies Act to send to the registrar of companies a copy of its articles as amended,
 - (b) by section 30 of that Act to forward to the registrar a copy of the special resolution effecting the alteration, or
@@ -56,10 +56,10 @@ the copy or notice must be accompanied by a copy of the Commission's consent.
 
 ## Annotations
 
-[^key-def63cf774aaee827a65989f148cbd66]: Textual amendment: S. 96(3)(a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(3)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/3/a)
+[^c-def63cf774aaee827a65989f148cbd66]: Textual amendment: S. 96(3)(a) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(3)(a)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/3/a)
 
-[^key-c74c5b114ab96010c68e90a2a6f288d8]: Textual amendment: Words in s. 96(3)(b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(3)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/3/b)
+[^c-c74c5b114ab96010c68e90a2a6f288d8]: Textual amendment: Words in s. 96(3)(b) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(3)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/3/b)
 
-[^key-d66e130f1de1cd5ced195ac28b4ff575]: Textual amendment: Words in s. 96(3)(c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(3)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/3/b)
+[^c-d66e130f1de1cd5ced195ac28b4ff575]: Textual amendment: Words in s. 96(3)(c) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(3)(b)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/3/b)
 
-[^key-7ec0a7a1717030c0608d0876539620ec]: Textual amendment: [S. 96(5)](https://www.legislation.gov.uk/nia/2008/12/section/96/5)[(5A)](https://www.legislation.gov.uk/nia/2008/12/section/96/5A)[(6)](https://www.legislation.gov.uk/nia/2008/12/section/96/6) substituted for [s. 96(5)](https://www.legislation.gov.uk/nia/2008/12/section/96/5)[(6)](https://www.legislation.gov.uk/nia/2008/12/section/96/6) (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/4)
+[^c-7ec0a7a1717030c0608d0876539620ec]: Textual amendment: [S. 96(5)](https://www.legislation.gov.uk/nia/2008/12/section/96/5)[(5A)](https://www.legislation.gov.uk/nia/2008/12/section/96/5A)[(6)](https://www.legislation.gov.uk/nia/2008/12/section/96/6) substituted for [s. 96(5)](https://www.legislation.gov.uk/nia/2008/12/section/96/5)[(6)](https://www.legislation.gov.uk/nia/2008/12/section/96/6) (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/19/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Offences relating to applications for postal and proxy signing[^key-d2bcad55d83b755d3cd80d95dfafa3e5]
+## 120. Offences relating to applications for postal and proxy signing[^c-d2bcad55d83b755d3cd80d95dfafa3e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2bcad55d83b755d3cd80d95dfafa3e5]: Commencement: Reg. 120 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-d2bcad55d83b755d3cd80d95dfafa3e5]: Commencement: Reg. 120 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

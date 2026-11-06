@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Accreditation for the purposes of this Chapter[^key-b70d2306709f1a42148fa1964f6a373d][^key-c8ba4a944f51f7f8c9261b98c9e51753]
+## 71. Accreditation for the purposes of this Chapter[^c-b70d2306709f1a42148fa1964f6a373d][^c-c8ba4a944f51f7f8c9261b98c9e51753]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,7 +44,7 @@ summary: ''
 (6) Before publishing conditions under subsection (2)(a) or (b) or grounds under subsection (2)(c), the Statistics Board must consult—
 
 - (a) the Minister for the Cabinet Office,
-- (b) the Information Commission[^key-28df37f378412aeeb731fef17f787f84],
+- (b) the Information Commission[^c-28df37f378412aeeb731fef17f787f84],
 - (c) the Commissioners for Her Majesty's Revenue and Customs,
 - (d) the Scottish Ministers,
 - (e) the Welsh Ministers,
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b70d2306709f1a42148fa1964f6a373d]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2017/30/section/71) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-b70d2306709f1a42148fa1964f6a373d]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2017/30/section/71) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-c8ba4a944f51f7f8c9261b98c9e51753]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2017/30/section/71) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(hh)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/hh)
+[^c-c8ba4a944f51f7f8c9261b98c9e51753]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2017/30/section/71) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(hh)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/hh)
 
-[^key-28df37f378412aeeb731fef17f787f84]: Textual amendment: Words in [s. 71(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/71/6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-28df37f378412aeeb731fef17f787f84]: Textual amendment: Words in [s. 71(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/71/6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 21(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/1)[(2)(j)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/21/2/j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

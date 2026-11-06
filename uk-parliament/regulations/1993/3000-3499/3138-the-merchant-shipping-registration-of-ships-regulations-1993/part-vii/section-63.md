@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Effect of termination of registration on registered mortgage[^key-f9f4b07ce0954fc7ae7ba78c1ac42979]
+## 63. Effect of termination of registration on registered mortgage[^c-f9f4b07ce0954fc7ae7ba78c1ac42979]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the registration of a ship terminates by virtue of any of these Regulation
 
 ## Annotations
 
-[^key-f9f4b07ce0954fc7ae7ba78c1ac42979]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1993/3138/regulation/63) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-f9f4b07ce0954fc7ae7ba78c1ac42979]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1993/3138/regulation/63) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Statement of principles in relation to contributor list[^key-6dd5cc7f9cc9d1aed97a487ef39e4793]
+## 15. Statement of principles in relation to contributor list[^c-6dd5cc7f9cc9d1aed97a487ef39e4793]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dd5cc7f9cc9d1aed97a487ef39e4793]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/15/section/15) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)
+[^c-6dd5cc7f9cc9d1aed97a487ef39e4793]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2021/15/section/15) in force at 28.6.2021 by [S.S.I. 2021/234](https://www.legislation.gov.uk/ssi/2021/234), [reg. 2](https://www.legislation.gov.uk/ssi/2021/234/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/234/schedule)

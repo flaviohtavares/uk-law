@@ -71,34 +71,34 @@ establishing the Community list of air carriers which are subject to an operatin
 
 (Text with EEA relevance) (revoked)
 
-[^key-276050be2e8804ed11b4d59258dd71cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-276050be2e8804ed11b4d59258dd71cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-276050be2e8804ed11b4d59258dd71cd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Operating bans[^key-276050be2e8804ed11b4d59258dd71cd]
+## Article 1. Subject matter[^c-276050be2e8804ed11b4d59258dd71cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Enforcement[^key-276050be2e8804ed11b4d59258dd71cd]
+## Article 2. Operating bans[^c-276050be2e8804ed11b4d59258dd71cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-276050be2e8804ed11b4d59258dd71cd]
+## Article 3. Enforcement[^c-276050be2e8804ed11b4d59258dd71cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-276050be2e8804ed11b4d59258dd71cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX A — LIST OF AIR CARRIERS WHICH ARE BANNED FROM OPERATING WITHIN THE UNION, WITH EXCEPTIONS[^key-276050be2e8804ed11b4d59258dd71cd]
+## Article 4. Entry into force[^c-276050be2e8804ed11b4d59258dd71cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX B — LIST OF AIR CARRIERS WHICH ARE SUBJECT TO OPERATIONAL RESTRICTIONS WITHIN THE UNION[^key-276050be2e8804ed11b4d59258dd71cd]
+[^c-276050be2e8804ed11b4d59258dd71cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX A — LIST OF AIR CARRIERS WHICH ARE BANNED FROM OPERATING WITHIN THE UNION, WITH EXCEPTIONS[^c-276050be2e8804ed11b4d59258dd71cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX B — LIST OF AIR CARRIERS WHICH ARE SUBJECT TO OPERATIONAL RESTRICTIONS WITHIN THE UNION[^c-276050be2e8804ed11b4d59258dd71cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-276050be2e8804ed11b4d59258dd71cd]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-276050be2e8804ed11b4d59258dd71cd]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/645)](https://www.legislation.gov.uk/uksi/2019/645), [reg. 1](https://www.legislation.gov.uk/uksi/2019/645/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/645/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2019/645/schedule/3)) (as amended by [S.I. 2019/1098](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [12](https://www.legislation.gov.uk/uksi/2019/1098/regulation/12)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Designation of planning authority for the purposes of section 78[^key-b75cb21f15cb291ba71676fd2cfce39e]
+## 79. Designation of planning authority for the purposes of section 78[^c-b75cb21f15cb291ba71676fd2cfce39e]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b75cb21f15cb291ba71676fd2cfce39e]: Commencement: S. 79 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b75cb21f15cb291ba71676fd2cfce39e]: Commencement: S. 79 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

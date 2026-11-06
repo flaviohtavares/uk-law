@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215AA. Destruction of seized cryptoassets[^key-39b720ff55fbd0c53ed6bbe137234e52][^key-e4545b132ff0452df2b0e0c4785731dc]
+## 215AA. Destruction of seized cryptoassets[^c-39b720ff55fbd0c53ed6bbe137234e52][^c-e4545b132ff0452df2b0e0c4785731dc]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-39b720ff55fbd0c53ed6bbe137234e52]: Textual amendment: [S. 215AA](https://www.legislation.gov.uk/ukpga/2002/29/section/215AA) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(5)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/5/a), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/49); [S.R. 2024/82](https://www.legislation.gov.uk/nisr/2024/82), [art. 2](https://www.legislation.gov.uk/nisr/2024/82/article/2)
+[^c-39b720ff55fbd0c53ed6bbe137234e52]: Textual amendment: [S. 215AA](https://www.legislation.gov.uk/ukpga/2002/29/section/215AA) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(5)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/5/a), [Sch. 8 para. 49](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/49); [S.R. 2024/82](https://www.legislation.gov.uk/nisr/2024/82), [art. 2](https://www.legislation.gov.uk/nisr/2024/82/article/2)
 
-[^key-e4545b132ff0452df2b0e0c4785731dc]: Textual amendment: Ss. 215A-215D inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/60/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/147/article/3/c)
+[^c-e4545b132ff0452df2b0e0c4785731dc]: Textual amendment: Ss. 215A-215D inserted (1.3.2016) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/60/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/147/article/3/c)

@@ -31,38 +31,38 @@ of 7 December 2018
 
 amending Regulation (EU) No 1333/2014 concerning statistics on the money markets (*ECB/2018/33*) (revoked)
 
-[^key-d62d9820a0f659eba078a0a87b41d1ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d62d9820a0f659eba078a0a87b41d1ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments[^key-d62d9820a0f659eba078a0a87b41d1ac]
+## Article 1. Amendments[^c-d62d9820a0f659eba078a0a87b41d1ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Final provisions[^key-d62d9820a0f659eba078a0a87b41d1ac]
+## Article 2. Final provisions[^c-d62d9820a0f659eba078a0a87b41d1ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d62d9820a0f659eba078a0a87b41d1ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d62d9820a0f659eba078a0a87b41d1ac]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-d62d9820a0f659eba078a0a87b41d1ac]
+## ANNEX I[^c-d62d9820a0f659eba078a0a87b41d1ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-d62d9820a0f659eba078a0a87b41d1ac]
+## ANNEX II[^c-d62d9820a0f659eba078a0a87b41d1ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-d62d9820a0f659eba078a0a87b41d1ac]
+## ANNEX III[^c-d62d9820a0f659eba078a0a87b41d1ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-d62d9820a0f659eba078a0a87b41d1ac]
+## ANNEX IV[^c-d62d9820a0f659eba078a0a87b41d1ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d62d9820a0f659eba078a0a87b41d1ac]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 102](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/102)
+[^c-d62d9820a0f659eba078a0a87b41d1ac]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 102](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/102)

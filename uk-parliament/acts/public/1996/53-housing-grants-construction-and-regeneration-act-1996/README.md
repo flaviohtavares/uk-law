@@ -39,7 +39,7 @@ An Act to make provision for grants and other assistance for housing purposes an
 
 ### Part I — Grants, &c. for renewal of private sector housing
 
-#### Chapter I — The main grants[^c11252801][^key-2518654ded2cc62d3fe09440ad663971]
+#### Chapter I — The main grants[^c11252801][^c-2518654ded2cc62d3fe09440ad663971]
 
 *Extent: E+W+S+N.I.*
 
@@ -293,7 +293,7 @@ An Act to make provision for grants and other assistance for housing purposes an
 - [Section 102 — Transitional provisions.](part-i/section-102.md)
 - [Section 103 — Consequential amendments: Part I.](part-i/section-103.md)
 
-### Part II — Construction contracts[^key-27cfbad8be3eef0931747447e4151b93]
+### Part II — Construction contracts[^c-27cfbad8be3eef0931747447e4151b93]
 
 *Extent: E+W+S*
 
@@ -438,12 +438,12 @@ SCHEDULES
 
 [^c11252801]: Modification: [Pt. I Ch. I](https://www.legislation.gov.uk/ukpga/1996/53/part/I/chapter/I) (ss. 1-59) excluded (17.12.1996) by [S.I. 1996/2890](https://www.legislation.gov.uk/uksi/1996/2890), [reg. 3(1)](https://www.legislation.gov.uk/uksi/1996/2890/regulation/3/1)
 
-[^key-2518654ded2cc62d3fe09440ad663971]: Modification: [Pt. I Ch. I](https://www.legislation.gov.uk/ukpga/1996/53/part/I/chapter/I) modified (temp.) (E.) (coming into force in accordance with regs. 1(2)-(4), 3 of the amending S.I.) by [The Disabled Peoples Right to Control (Pilot Scheme) (England) Regulations 2010 (S.I. 2010/2862)](https://www.legislation.gov.uk/uksi/2010/2862), [reg. 23](https://www.legislation.gov.uk/uksi/2010/2862/regulation/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2862/schedule/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2010/2862/regulation/22))
+[^c-2518654ded2cc62d3fe09440ad663971]: Modification: [Pt. I Ch. I](https://www.legislation.gov.uk/ukpga/1996/53/part/I/chapter/I) modified (temp.) (E.) (coming into force in accordance with regs. 1(2)-(4), 3 of the amending S.I.) by [The Disabled Peoples Right to Control (Pilot Scheme) (England) Regulations 2010 (S.I. 2010/2862)](https://www.legislation.gov.uk/uksi/2010/2862), [reg. 23](https://www.legislation.gov.uk/uksi/2010/2862/regulation/23), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2862/schedule/2) (with [reg. 22](https://www.legislation.gov.uk/uksi/2010/2862/regulation/22))
 
 [^c17266851]: Textual amendment: [Pt. 1 Ch. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/1/chapter/2) (ss. 60-75) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/27), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 
 [^c17267051]: Textual amendment: [Pt. 1 Ch. 3](https://www.legislation.gov.uk/ukpga/1996/53/part/1/chapter/3) (ss. 76-80) repealed (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [15](https://www.legislation.gov.uk/uksi/2002/1860/article/15), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/27), [Sch. 6](https://www.legislation.gov.uk/uksi/2002/1860/schedule/6) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 
-[^key-27cfbad8be3eef0931747447e4151b93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/2) excluded (E.W.) (5.5.2023) by [The Construction Contracts (Exclusion) (Wales) Order 2023 (S.I. 2023/475)](https://www.legislation.gov.uk/uksi/2023/475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/475/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/475/article/3)
+[^c-27cfbad8be3eef0931747447e4151b93]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1996/53/part/2) excluded (E.W.) (5.5.2023) by [The Construction Contracts (Exclusion) (Wales) Order 2023 (S.I. 2023/475)](https://www.legislation.gov.uk/uksi/2023/475), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/475/article/1/3), [3](https://www.legislation.gov.uk/uksi/2023/475/article/3)
 
 [^c11254491]: Textual amendment: [Ss. 118-125](https://www.legislation.gov.uk/ukpga/1996/53/section/118) (Pt. III) repealed (21.7.1997) by [1997 c. 22](https://www.legislation.gov.uk/ukpga/1997/22), [s. 27](https://www.legislation.gov.uk/ukpga/1997/22/section/27), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/22/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/1997/22/schedule/2)); [S.I. 1997/1672](https://www.legislation.gov.uk/uksi/1997/1672), [art. 2](https://www.legislation.gov.uk/uksi/1997/1672/article/2)

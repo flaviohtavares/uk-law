@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Rates of the levy[^key-bdc14b992a4c9ca90aa242696c617bf5]
+## 32. Rates of the levy[^c-bdc14b992a4c9ca90aa242696c617bf5]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ but this is subject to any additional amount that may be added by a principal co
 
 ## Annotations
 
-[^key-bdc14b992a4c9ca90aa242696c617bf5]: Commencement: S. 32 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-bdc14b992a4c9ca90aa242696c617bf5]: Commencement: S. 32 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

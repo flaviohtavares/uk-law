@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Offences relating to pollution etc.: penalties on conviction[^key-32559cdae322c5055b1725097eea602f]
+## 73. Offences relating to pollution etc.: penalties on conviction[^c-32559cdae322c5055b1725097eea602f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In paragraph 25 of Schedule 1 to the Environment (Northern Ireland) Order 2002 (
 
 ## Annotations
 
-[^key-32559cdae322c5055b1725097eea602f]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2011/23/section/73) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-32559cdae322c5055b1725097eea602f]: Commencement: [S. 73](https://www.legislation.gov.uk/nia/2011/23/section/73) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

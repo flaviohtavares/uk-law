@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14ZA — The Armed Forces Commissioner[^key-29b34c7e25d7cf0a476f541535a9d17a]
+## SCHEDULE 14ZA — The Armed Forces Commissioner[^c-29b34c7e25d7cf0a476f541535a9d17a]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,4 +133,4 @@ to act as the Commissioner during the vacancy or period of ill health.
 
 ## Annotations
 
-[^key-29b34c7e25d7cf0a476f541535a9d17a]: Textual amendment: Sch. 14ZA inserted (2.3.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/1); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))
+[^c-29b34c7e25d7cf0a476f541535a9d17a]: Textual amendment: Sch. 14ZA inserted (2.3.2026) by [Armed Forces Commissioner Act 2025 (c. 23)](https://www.legislation.gov.uk/ukpga/2025/23), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/6/2), [7(2)](https://www.legislation.gov.uk/ukpga/2025/23/section/7/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/23/schedule/1/paragraph/1); [S.I. 2026/14](https://www.legislation.gov.uk/uksi/2026/14), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/14/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/14/regulation/5))

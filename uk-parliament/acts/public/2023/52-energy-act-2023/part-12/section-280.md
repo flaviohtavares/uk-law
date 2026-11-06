@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280. False statements etc[^key-4786e1354ed228cf5ea4f249a3792739][^key-02d91612b18bd4b6cd20d8f8d629c1a8]
+## 280. False statements etc[^c-4786e1354ed228cf5ea4f249a3792739][^c-02d91612b18bd4b6cd20d8f8d629c1a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4786e1354ed228cf5ea4f249a3792739]: Commencement: S. 280 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-4786e1354ed228cf5ea4f249a3792739]: Commencement: S. 280 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-02d91612b18bd4b6cd20d8f8d629c1a8]: Commencement: [S. 280](https://www.legislation.gov.uk/ukpga/2023/52/section/280) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)
+[^c-02d91612b18bd4b6cd20d8f8d629c1a8]: Commencement: [S. 280](https://www.legislation.gov.uk/ukpga/2023/52/section/280) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(vi)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/vi)

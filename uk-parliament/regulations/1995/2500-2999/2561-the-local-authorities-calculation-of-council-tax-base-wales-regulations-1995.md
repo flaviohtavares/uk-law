@@ -44,7 +44,7 @@ Coming into force
 
 The Secretary of State for Wales, in exercise of the powers conferred on him by sections 33(1), (5) and (6), 34(4), 44(1), (5) and (6), 45(3) to (5), 48(3) to (6) and 113(1) and (2) of the Local Government Finance Act 1992[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations—
 
-## 1. Citation, commencement and interpretation[^key-f7e4f0267b6dfa0960eb94aefc0aaf07]
+## 1. Citation, commencement and interpretation[^c-f7e4f0267b6dfa0960eb94aefc0aaf07]
 
 (1) These Regulations may be cited as the Local Authorities (Calculation of Council Tax Base) (Wales) Regulations 1995 and shall come into force on 10th November 1995.
 
@@ -57,18 +57,18 @@ The Secretary of State for Wales, in exercise of the powers conferred on him by 
 
 - “**the 1992 Act**” means the Local Government Finance Act 1992;
 - “**the appropriate percentage**” means 25 per cent. or, if the Secretary of State has made an order under section 11(3) providing for a different appropriate percentage in relation to the financial year in question, the percentage specified in the order;
-- “**the authority’s list**” means the copy of the authority’s valuation list deposited by it under section 22(8)[^f00002] or 22A(10)[^f00003] or 22B(10)[^key-c6f352659c02b39f83a0d1ad4f8e22d4] or 22B(10A)(a), or kept by it electronically under section 22B(10A)(b)[^key-4009d0f6c2c1823a44034cc1edcb3b01], as the case may be;
+- “**the authority’s list**” means the copy of the authority’s valuation list deposited by it under section 22(8)[^f00002] or 22A(10)[^f00003] or 22B(10)[^c-c6f352659c02b39f83a0d1ad4f8e22d4] or 22B(10A)(a), or kept by it electronically under section 22B(10A)(b)[^c-4009d0f6c2c1823a44034cc1edcb3b01], as the case may be;
 - “**billing authority**” means a Welsh billing authority;
-- “**chargeable dwelling**” means any dwelling in respect of which council tax is payable; [^key-6055cb44434989e6040a655db4a685eb]...
-- “**major precepting authority**” means a Welsh police authority established under section 3 of the Police Act 1964[^f00004] ; and[^key-8b5c03a37fb222063afcb50acca58f2d]
-- “[^key-51ac4969d0738a273a64b85f074ef2c9]**premium**” means an increase in the amount of council tax payable in respect of a dwelling due to a determination made by a billing authority under section 12A or 12B;
-- “[^key-caf4411a1252b4e1ff00c25dc680a527]**relevant percentage**” means a percentage by which the amount of council tax payable in respect of any chargeable dwelling and any day is reduced due to the application of a discount under section 11E(1) or 11F(2)[^key-9a9c60e43a67b80414d7425955e339ba] or increased due to the application of a premium[^key-af09fb80170d2c788dd412525d7a67c0].
+- “**chargeable dwelling**” means any dwelling in respect of which council tax is payable; [^c-6055cb44434989e6040a655db4a685eb]...
+- “**major precepting authority**” means a Welsh police authority established under section 3 of the Police Act 1964[^f00004] ; and[^c-8b5c03a37fb222063afcb50acca58f2d]
+- “[^c-51ac4969d0738a273a64b85f074ef2c9]**premium**” means an increase in the amount of council tax payable in respect of a dwelling due to a determination made by a billing authority under section 12A or 12B;
+- “[^c-caf4411a1252b4e1ff00c25dc680a527]**relevant percentage**” means a percentage by which the amount of council tax payable in respect of any chargeable dwelling and any day is reduced due to the application of a discount under section 11E(1) or 11F(2)[^c-9a9c60e43a67b80414d7425955e339ba] or increased due to the application of a premium[^c-af09fb80170d2c788dd412525d7a67c0].
 
-## 2. Application of rules[^key-33908e32bd4c87dd38e5d8bc682e9b20]
+## 2. Application of rules[^c-33908e32bd4c87dd38e5d8bc682e9b20]
 
 The rules contained in these Regulations are to apply to the making for any financial year beginning on or after 1st April 1996 of the calculations required by item T in sections 33(1) and 44(1) and item TP in sections 34(3), 45(3) and 48(3) and (4).
 
-## 3. Calculation of billing authority’s council tax base[^key-35d15fdfe0ec98687119c28c16cf9996]
+## 3. Calculation of billing authority’s council tax base[^c-35d15fdfe0ec98687119c28c16cf9996]
 
 (1) Subject to paragraph (4) below, for the purposes of item T in section 33(1), a billing authority’s council tax base for a financial year shall be calculated by applying the formula—
 
@@ -92,9 +92,9 @@ where—
 
 (4) Where it appears to the authority likely that, for any financial year, the Secretary of State for Defence will pay to it a sum in respect of the council tax which would be payable if Class O exempt dwellings situated in its area were not exempt, the authority shall add to the amount given by the formula in paragraph (1) above for that year such amount as the authority considers appropriate in relation to its tax base by reference to the sum likely to be paid by the Secretary of State for Defence.
 
-(5) For the purposes of paragraph (4) above, “Class O exempt dwellings” means any dwellings which are exempt dwellings by virtue of belonging to Class O prescribed by regulation 29 of the Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026[^key-f44845f7ad75ef809348303fb359eb27].
+(5) For the purposes of paragraph (4) above, “Class O exempt dwellings” means any dwellings which are exempt dwellings by virtue of belonging to Class O prescribed by regulation 29 of the Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026[^c-f44845f7ad75ef809348303fb359eb27].
 
-## 4. Calculation of the relevant amounts for the financial year beginning on 1st April 1996[^key-67d8c49ab88ab8540b87b91b3d7ed475]
+## 4. Calculation of the relevant amounts for the financial year beginning on 1st April 1996[^c-67d8c49ab88ab8540b87b91b3d7ed475]
 
 (1) For the purposes of regulation 3, the relevant amount for the financial year beginning on 1st April 1996 (“the year”) for a valuation band (“the band”) is the amount found by applying the formula—
 
@@ -118,7 +118,7 @@ where—
 
 (3) For the purposes of paragraph (2) above, in any case where—
 
-- (a) the person who is liable to pay council tax in respect of a dwelling which is listed in a valuation band other than valuation band A[^key-b5d5fb4680804db479a39402bc6f7ebb] is liable to pay a reduced amount pursuant to regulations under section 13; and
+- (a) the person who is liable to pay council tax in respect of a dwelling which is listed in a valuation band other than valuation band A[^c-b5d5fb4680804db479a39402bc6f7ebb] is liable to pay a reduced amount pursuant to regulations under section 13; and
 - (b) the reduced amount is calculated by reference to a different valuation band from the band in which it is listed;
 
 the authority shall treat the dwelling as being listed in the different valuation band for the period in respect of which the calculation is made.
@@ -138,7 +138,7 @@ the authority shall, for the purposes of making any of the estimates referred to
 
 (6) Where it appears to the authority likely that the amount of council tax payable in respect of a dwelling will be subject to a discount for part of the year equal to twice the appropriate percentage, the authority shall, for the purpose of making the estimate referred to in paragraph (4) above, treat the discount as equal to twice the fraction produced by dividing the number of days in that part of the year by the number of days in the year.
 
-## 5. Calculation of the relevant amounts for a financial year beginning on or after 1st April 1997[^key-4208aecd4c878f988a84a6240bbb4e9e]
+## 5. Calculation of the relevant amounts for a financial year beginning on or after 1st April 1997[^c-4208aecd4c878f988a84a6240bbb4e9e]
 
 (1) For the purposes of regulation 3, the relevant amount for a financial year beginning on or after 1st April 1997 (“the year”) for a valuation band (“the band”) is the amount found by applying the formula—
 
@@ -153,7 +153,7 @@ where—
 - F is the number which, in the proportion set out in section 5(1), is applicable as regards the year to dwellings listed in the band;
 - G is the number which, in that proportion, is applicable as regards the year to dwellings listed in valuation band D.
 
-(2) The authority shall calculate the number of chargeable dwellings for the purposes of item H in paragraph (1) above by deducting from the number of dwellings listed in the band on the relevant day its estimate of the number of such dwellings which were exempt on that day and, in the case of valuation band A and for a financial year beginning on or after 1st April 2000, by deducting the number calculated by applying the formula— .[^key-7a77a5d9927afbef28d6914ffdc596eb]
+(2) The authority shall calculate the number of chargeable dwellings for the purposes of item H in paragraph (1) above by deducting from the number of dwellings listed in the band on the relevant day its estimate of the number of such dwellings which were exempt on that day and, in the case of valuation band A and for a financial year beginning on or after 1st April 2000, by deducting the number calculated by applying the formula— .[^c-7a77a5d9927afbef28d6914ffdc596eb]
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1995/2561)
 
@@ -205,7 +205,7 @@ where—
 
 (11) For the purposes of this regulation, the relevant day is 31st October in the financial year preceding that for which the relevant amount is calculated.
 
-## 5A. Calculation of the relevant amounts for a financial year beginning on or after 1 April 2005[^key-9f981733d925a394ecf276bd18556b7f]
+## 5A. Calculation of the relevant amounts for a financial year beginning on or after 1 April 2005[^c-9f981733d925a394ecf276bd18556b7f]
 
 (1) For the purposes of regulation 3, the relevant amount for a financial year beginning on or after 1 April 2005 (“the year”) for a valuation band (“the band”) is the amount found by applying the formula —
 
@@ -266,7 +266,7 @@ the authority shall, for the purposes of making any of the estimates referred to
 - (a) in respect of the financial year beginning on 1 April 2005 is 24 November 2004; and
 - (b) in respect of financial years beginning on or after 1 April 2006 is 31 October in the financial year preceding that for which the relevant amount is calculated.
 
-## 5B. Calculation of the relevant amounts for a financial year beginning on or after 1 April 2017[^key-7567dcde6a5219d1934fad8daaf6f007]
+## 5B. Calculation of the relevant amounts for a financial year beginning on or after 1 April 2017[^c-7567dcde6a5219d1934fad8daaf6f007]
 
 (1) For the purposes of regulation 3, the relevant amount for a financial year beginning on or after 1 April 2017 (“the year”) for a valuation band (“the band”) is the amount found by applying the formula—
 
@@ -337,7 +337,7 @@ the authority must, for the purposes of making any of the estimates referred to 
 
 (12) For the purposes of this regulation, the relevant day is 31 October in the financial year preceding that for which the relevant amount is calculated.
 
-## 6. Calculation of billing authority’s council tax base for a part of its area[^key-d685fec1fe5f4f3c592459a0b3add3a0]
+## 6. Calculation of billing authority’s council tax base for a part of its area[^c-d685fec1fe5f4f3c592459a0b3add3a0]
 
 (1) For the purposes of item TP in section 34(3), a billing authority’s council tax base for a part of its area for any financial year (“the year”) shall be calculated by applying the formula—
 
@@ -349,50 +349,50 @@ Where—
 - N is the authority’s council tax base for the year for the purposes of item T in section 33(1);
 - O is the unscaled council tax base for the remaining part of the authority’s area for the year.
 
-(2) For the purposes of paragraph (1) above, the unscaled council tax base for a part of a billing authority’s area for the year shall be calculated in accordance with the rules contained in regulations 3 and 4 or, as the case may be, 5, 5A or 5B[^key-6f2a84402d3fbf47031b29af6055d8f9][^key-434ab14c8b70b3269369b353e32ab88f] but, for these purposes,—
+(2) For the purposes of paragraph (1) above, the unscaled council tax base for a part of a billing authority’s area for the year shall be calculated in accordance with the rules contained in regulations 3 and 4 or, as the case may be, 5, 5A or 5B[^c-6f2a84402d3fbf47031b29af6055d8f9][^c-434ab14c8b70b3269369b353e32ab88f] but, for these purposes,—
 
 - (a) any reference to dwellings shall be construed as a reference to dwellings situated in the part of the authority’s area for which its council tax base is being calculated;
 - (b) item B in regulation 3 is the amount determined for that item for the purposes of the calculation required by item T in section 33(1); and
 - (c) in regulation 5, the relevant day in respect of the year is—
   - (i) where the authority determines the amount for item TP in section 34(3) in the period beginning on 1st November and ending on 31st December in the preceding financial year, 31st October in the preceding financial year; and
   - (ii) in any other case, the day on which the authority calculates the relevant amount for the year for the purposes of item TP in section 34(3);
-- (d)[^key-97698884a22761bcc619f6ed2dd3f645] in regulation 5A, the relevant day in respect of the year is —
+- (d)[^c-97698884a22761bcc619f6ed2dd3f645] in regulation 5A, the relevant day in respect of the year is —
   - (i) for the financial year beginning on 1 April 2005 —
     - (aa) where the authority determines the amount for item TP in section 34(3) in the period beginning 24 November and ending on 31 January in the preceding financial year, 24 November in the preceding financial year; and
     - (bb) in any other case, the day on which the authority calculates the relevant amount for the year for the purpose of item TP in section 34(3).
   - (ii) for financial years beginning on or after 1 April 2006 —
     - (aa) where the authority determines the amount for item TP in section 34(3) in the period beginning on 1 November and ending on 31 December in the preceding financial year, 31 October in the preceding financial year; and
     - (bb) in any other case, the day on which the authority calculates the relevant amount for the year for the purposes of item TP in section 34(3);
-- (e)[^key-2d98ac5eda31bb42e5426b63a4018d54] in regulation 5B, the relevant day in respect of the year is—
+- (e)[^c-2d98ac5eda31bb42e5426b63a4018d54] in regulation 5B, the relevant day in respect of the year is—
   - (i) where the authority determines the amount for item TP in section 34(3) in the period beginning on 1 November and ending on 31 December in the preceding financial year, 31 October in the preceding year; and
   - (ii) in any other case, the day on which the authority calculates the relevant amount for the year for the purposes of item TP in section 34(3).
 
-## 7. Calculations of council tax base for the purposes of a major precepting authority[^key-275be8e0a4f0568a1638256339d60cf0]
+## 7. Calculations of council tax base for the purposes of a major precepting authority[^c-275be8e0a4f0568a1638256339d60cf0]
 
-(1) For the purposes of item T in section 44(1) and item TP in section 45(3), the council tax base for a billing authority’s area for any financial year shall be calculated in accordance with the rules contained in regulations 3 and 4 or, as the case may be, 5, 5A or 5B[^key-3c70f227dd6cdcd6e4350c2547807e79][^key-c1922607169e0440cfc32a948f4a95ae] and, for these purposes, item B in regulation 3 and items C and D in regulation 4 or, as the case may be, items H, I and J in regulation 5 or items H, Q and J in regulation 5A[^key-8d5ce910d63f7444288cd5d83c6562ab] or items H, Q, E and J in regulation 5B as the case may be,[^key-196879042051d7c7651109f61458ed14], and any amount added in accordance with regulation 3(4), are the amounts determined for those items, or so added, for the purposes of the calculation required by item T in section 33(1).
+(1) For the purposes of item T in section 44(1) and item TP in section 45(3), the council tax base for a billing authority’s area for any financial year shall be calculated in accordance with the rules contained in regulations 3 and 4 or, as the case may be, 5, 5A or 5B[^c-3c70f227dd6cdcd6e4350c2547807e79][^c-c1922607169e0440cfc32a948f4a95ae] and, for these purposes, item B in regulation 3 and items C and D in regulation 4 or, as the case may be, items H, I and J in regulation 5 or items H, Q and J in regulation 5A[^c-8d5ce910d63f7444288cd5d83c6562ab] or items H, Q, E and J in regulation 5B as the case may be,[^c-196879042051d7c7651109f61458ed14], and any amount added in accordance with regulation 3(4), are the amounts determined for those items, or so added, for the purposes of the calculation required by item T in section 33(1).
 
-(2) For the purposes of item T in section 44(1) and item TP in sections 45(3) and 48(3) and (4), the council tax base for a part of a billing authority’s area for any financial year shall be calculated in accordance with the rules contained in regulation 6 and, for these purposes, where the council tax base for that year for that part of the billing authority’s area has been calculated for the purposes of item TP in section 34(3), items C and D in regulation 4 or, as the case may be, items H, I and J in regulation 5 or items H, Q and J in regulation 5A[^key-cd617ad1687169dd5a72c4936342bcaf] or items H, Q, E and J in regulation 5B, as the case may be,[^key-d742ba2b59d564628cecd43f855665b5], and any amount added in accordance with regulation 3(4), are the amounts determined for those items, or so added, for the purposes of the calculation required by item TP in that subsection.
+(2) For the purposes of item T in section 44(1) and item TP in sections 45(3) and 48(3) and (4), the council tax base for a part of a billing authority’s area for any financial year shall be calculated in accordance with the rules contained in regulation 6 and, for these purposes, where the council tax base for that year for that part of the billing authority’s area has been calculated for the purposes of item TP in section 34(3), items C and D in regulation 4 or, as the case may be, items H, I and J in regulation 5 or items H, Q and J in regulation 5A[^c-cd617ad1687169dd5a72c4936342bcaf] or items H, Q, E and J in regulation 5B, as the case may be,[^c-d742ba2b59d564628cecd43f855665b5], and any amount added in accordance with regulation 3(4), are the amounts determined for those items, or so added, for the purposes of the calculation required by item TP in that subsection.
 
-## 8. Prescribed period[^key-1af1311650c36411de456d8951416ab6]
+## 8. Prescribed period[^c-1af1311650c36411de456d8951416ab6]
 
 (1) This regulation applies for the purposes of item T in sections 33(1) and 44(1) and item TP in sections 45(3) and 48(3) and (4), in relation to calculations by a billing authority or, as the case may be, a major precepting authority.
 
 (2) Subject to paragraph (3) below, the period beginning on 1st November and ending on 31st December in the financial year preceding that for which the calculation of the council tax base is made is hereby prescribed for the purposes referred to in paragraph (1) above.
 
-(3)[^key-3dca88ffdb223a991e8153514ae7594e] In relation to calculations for the financial year beginning on 1 April 2005, the period beginning on 24 November 2004 and ending on 31 January 2005 is hereby prescribed for the purposes referred to in paragraph (1) above.
+(3)[^c-3dca88ffdb223a991e8153514ae7594e] In relation to calculations for the financial year beginning on 1 April 2005, the period beginning on 24 November 2004 and ending on 31 January 2005 is hereby prescribed for the purposes referred to in paragraph (1) above.
 
-## 9. Determination of billing authority’s council tax base[^key-276faceb97d966d0f452d67db77447ed]
+## 9. Determination of billing authority’s council tax base[^c-276faceb97d966d0f452d67db77447ed]
 
 (1) Item T in section 33(1) shall, in any case where a billing authority fails to notify its calculation for a financial year to its major precepting authority within the period prescribed in regulation 8, be determined by the major precepting authority in the following manner.
 
-(2) Item T shall be determined in accordance with the rules contained in regulations 3 and 4 or, as the case may be,[^key-b5dd90f4694dc0a4256929a5cae76369] 5, 5A or 5B[^key-7257d5a2e9a4e7cae9b2838d045ffc51], on the basis of all the information available to the major precepting authority but, for this purpose, the relevant day in respect of a financial year is the day on which the authority calculates the relevant amount for the year for the purposes of the determination.
+(2) Item T shall be determined in accordance with the rules contained in regulations 3 and 4 or, as the case may be,[^c-b5dd90f4694dc0a4256929a5cae76369] 5, 5A or 5B[^c-7257d5a2e9a4e7cae9b2838d045ffc51], on the basis of all the information available to the major precepting authority but, for this purpose, the relevant day in respect of a financial year is the day on which the authority calculates the relevant amount for the year for the purposes of the determination.
 
 (3) A major precepting authority making a determination of item T for a financial year in accordance with paragraph (2) above shall have regard to, in particular,
 
 - (a) except in the case of the determination of item T for the financial year beginning on 1st April 1996, the amount of the billing authority’s council tax base determined for item T for the preceding financial year, and
 - (b) any amount calculated as the billing authority’s council tax base for the financial year in question by the Secretary of State for the purposes of the distribution of revenue support grant under Part V of the Local Government Finance Act 1988[^f00007].
 
-## 10. Determination of council tax base for the purposes of a major precepting authority[^key-19a82893fd6dc0c69fec8c6eb90db816]
+## 10. Determination of council tax base for the purposes of a major precepting authority[^c-19a82893fd6dc0c69fec8c6eb90db816]
 
 (1) Item T in section 44(1) or, as the case may be, item TP in section 45(3) or 48(3) or (4) shall, in any case where one or more of the billing authorities concerned fails to notify any calculation required by those items for a financial year to a major precepting authority within the period prescribed in regulation 8, be determined by the major precepting authority in the following manner.
 
@@ -406,7 +406,7 @@ Where—
 
 (6) In this regulation, “the billing authorities concerned” are any billing authorities to which the major precepting authority issues precepts for the financial year in question.
 
-## 11. Amendment of Regulations[^key-9a87e407e6882e0c4ca2f9e9f7e36ae6]
+## 11. Amendment of Regulations[^c-9a87e407e6882e0c4ca2f9e9f7e36ae6]
 
 The Local Authorities (Calculation of Council Tax Base) Regulations 1992[^f00008] shall be amended by—
 
@@ -447,88 +447,88 @@ Regulation 11 amends the [Local Authorities (Calculation of Council Tax Base) Re
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). See section 116(1) for the definition of “prescribed”.
 
-[^key-f7e4f0267b6dfa0960eb94aefc0aaf07]: Commencement: Reg. 1 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-f7e4f0267b6dfa0960eb94aefc0aaf07]: Commencement: Reg. 1 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
 [^f00002]: Footnote: The Secretary of State may, by order under section 25, substitute future dates in section 22 for those now spent.
 
 [^f00003]: Footnote: Section 22A was inserted by section 36 of the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).
 
-[^key-c6f352659c02b39f83a0d1ad4f8e22d4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/a)
+[^c-c6f352659c02b39f83a0d1ad4f8e22d4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(a)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/a)
 
-[^key-4009d0f6c2c1823a44034cc1edcb3b01]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2024/998/regulation/10)
+[^c-4009d0f6c2c1823a44034cc1edcb3b01]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [10](https://www.legislation.gov.uk/wsi/2024/998/regulation/10)
 
-[^key-6055cb44434989e6040a655db4a685eb]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) omitted (24.11.2004) by virtue of [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/b)
+[^c-6055cb44434989e6040a655db4a685eb]: Textual amendment: Word in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) omitted (24.11.2004) by virtue of [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/b)
 
 [^f00004]: Footnote: [1964 c. 48](https://www.legislation.gov.uk/ukpga/1964/48); section 3 was substituted by section 2 of the Police and Magistrates Courts Act [1994 (c. 29)](https://www.legislation.gov.uk/ukpga/1994/29).
 
-[^key-8b5c03a37fb222063afcb50acca58f2d]: Textual amendment: Word and semicolon in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) substituted for full stop (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(c)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/c)
+[^c-8b5c03a37fb222063afcb50acca58f2d]: Textual amendment: Word and semicolon in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) substituted for full stop (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(c)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/c)
 
-[^key-51ac4969d0738a273a64b85f074ef2c9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2016/969/regulation/3/a)
+[^c-51ac4969d0738a273a64b85f074ef2c9]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [3(a)](https://www.legislation.gov.uk/wsi/2016/969/regulation/3/a)
 
-[^key-caf4411a1252b4e1ff00c25dc680a527]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(d)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/d)
+[^c-caf4411a1252b4e1ff00c25dc680a527]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [2(d)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/2/d)
 
-[^key-9a9c60e43a67b80414d7425955e339ba]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) substituted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/6/2)
+[^c-9a9c60e43a67b80414d7425955e339ba]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) substituted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 6(2)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/6/2)
 
-[^key-af09fb80170d2c788dd412525d7a67c0]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2016/969/regulation/3/b)
+[^c-af09fb80170d2c788dd412525d7a67c0]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/3) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [3(b)](https://www.legislation.gov.uk/wsi/2016/969/regulation/3/b)
 
-[^key-33908e32bd4c87dd38e5d8bc682e9b20]: Commencement: Reg. 2 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-33908e32bd4c87dd38e5d8bc682e9b20]: Commencement: Reg. 2 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-35d15fdfe0ec98687119c28c16cf9996]: Commencement: Reg. 3 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-35d15fdfe0ec98687119c28c16cf9996]: Commencement: Reg. 3 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
 [^f00005]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 138 is amended by paragraph 19 of Schedule 9 to the 1992 Act.
 
-[^key-f44845f7ad75ef809348303fb359eb27]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/3/5) substituted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/6/3)
+[^c-f44845f7ad75ef809348303fb359eb27]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/3/5) substituted (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/6/3)
 
-[^key-67d8c49ab88ab8540b87b91b3d7ed475]: Commencement: Reg. 4 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-67d8c49ab88ab8540b87b91b3d7ed475]: Commencement: Reg. 4 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-b5d5fb4680804db479a39402bc6f7ebb]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/4/3/a) inserted (31.10.1999) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 1999 (S.I. 1999/2935)](https://www.legislation.gov.uk/wsi/1999/2935), [regs. 1(1)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/2/1)
+[^c-b5d5fb4680804db479a39402bc6f7ebb]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/4/3/a) inserted (31.10.1999) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 1999 (S.I. 1999/2935)](https://www.legislation.gov.uk/wsi/1999/2935), [regs. 1(1)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/2/1)
 
-[^key-4208aecd4c878f988a84a6240bbb4e9e]: Commencement: Reg. 5 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-4208aecd4c878f988a84a6240bbb4e9e]: Commencement: Reg. 5 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-7a77a5d9927afbef28d6914ffdc596eb]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/5/2) added (31.10.1999) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 1999 (S.I. 1999/2935)](https://www.legislation.gov.uk/wsi/1999/2935), [regs. 1(1)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/2/2)
+[^c-7a77a5d9927afbef28d6914ffdc596eb]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/5/2) added (31.10.1999) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 1999 (S.I. 1999/2935)](https://www.legislation.gov.uk/wsi/1999/2935), [regs. 1(1)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/1999/2935/regulation/2/2)
 
-[^key-9f981733d925a394ecf276bd18556b7f]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1995/2561/regulation/5A) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2004/3094/regulation/3)
+[^c-9f981733d925a394ecf276bd18556b7f]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/1995/2561/regulation/5A) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [3](https://www.legislation.gov.uk/wsi/2004/3094/regulation/3)
 
-[^key-7567dcde6a5219d1934fad8daaf6f007]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/1995/2561/regulation/5B) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [4](https://www.legislation.gov.uk/wsi/2016/969/regulation/4)
+[^c-7567dcde6a5219d1934fad8daaf6f007]: Textual amendment: [Reg. 5B](https://www.legislation.gov.uk/uksi/1995/2561/regulation/5B) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [4](https://www.legislation.gov.uk/wsi/2016/969/regulation/4)
 
-[^key-d685fec1fe5f4f3c592459a0b3add3a0]: Commencement: Reg. 6 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-d685fec1fe5f4f3c592459a0b3add3a0]: Commencement: Reg. 6 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-6f2a84402d3fbf47031b29af6055d8f9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2) substituted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [5(a)](https://www.legislation.gov.uk/wsi/2016/969/regulation/5/a)
+[^c-6f2a84402d3fbf47031b29af6055d8f9]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2) substituted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [5(a)](https://www.legislation.gov.uk/wsi/2016/969/regulation/5/a)
 
-[^key-434ab14c8b70b3269369b353e32ab88f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/4/a)
+[^c-434ab14c8b70b3269369b353e32ab88f]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [4(a)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/4/a)
 
-[^key-97698884a22761bcc619f6ed2dd3f645]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2/d) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/4/b)
+[^c-97698884a22761bcc619f6ed2dd3f645]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2/d) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [4(b)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/4/b)
 
-[^key-2d98ac5eda31bb42e5426b63a4018d54]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2/e) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [5(b)](https://www.legislation.gov.uk/wsi/2016/969/regulation/5/b)
+[^c-2d98ac5eda31bb42e5426b63a4018d54]: Textual amendment: [Reg. 6(2)(e)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/6/2/e) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [5(b)](https://www.legislation.gov.uk/wsi/2016/969/regulation/5/b)
 
-[^key-275be8e0a4f0568a1638256339d60cf0]: Commencement: Reg. 7 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-275be8e0a4f0568a1638256339d60cf0]: Commencement: Reg. 7 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-3c70f227dd6cdcd6e4350c2547807e79]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) substituted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/wsi/2016/969/regulation/6/a/i)
+[^c-3c70f227dd6cdcd6e4350c2547807e79]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) substituted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [6(a)(i)](https://www.legislation.gov.uk/wsi/2016/969/regulation/6/a/i)
 
-[^key-c1922607169e0440cfc32a948f4a95ae]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/5/a/i)
+[^c-c1922607169e0440cfc32a948f4a95ae]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/5/a/i)
 
-[^key-8d5ce910d63f7444288cd5d83c6562ab]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/5/a/ii)
+[^c-8d5ce910d63f7444288cd5d83c6562ab]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/5/a/ii)
 
-[^key-196879042051d7c7651109f61458ed14]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/wsi/2016/969/regulation/6/a/ii)
+[^c-196879042051d7c7651109f61458ed14]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/1) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [6(a)(ii)](https://www.legislation.gov.uk/wsi/2016/969/regulation/6/a/ii)
 
-[^key-cd617ad1687169dd5a72c4936342bcaf]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/2) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [5(b)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/5/b)
+[^c-cd617ad1687169dd5a72c4936342bcaf]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/2) inserted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [5(b)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/5/b)
 
-[^key-d742ba2b59d564628cecd43f855665b5]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/2) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [6(b)](https://www.legislation.gov.uk/wsi/2016/969/regulation/6/b)
+[^c-d742ba2b59d564628cecd43f855665b5]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/7/2) inserted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [6(b)](https://www.legislation.gov.uk/wsi/2016/969/regulation/6/b)
 
-[^key-1af1311650c36411de456d8951416ab6]: Commencement: Reg. 8 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-1af1311650c36411de456d8951416ab6]: Commencement: Reg. 8 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-3dca88ffdb223a991e8153514ae7594e]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/8/3) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2004/3094/regulation/6)
+[^c-3dca88ffdb223a991e8153514ae7594e]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/8/3) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [6](https://www.legislation.gov.uk/wsi/2004/3094/regulation/6)
 
-[^key-276faceb97d966d0f452d67db77447ed]: Commencement: Reg. 9 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-276faceb97d966d0f452d67db77447ed]: Commencement: Reg. 9 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-b5dd90f4694dc0a4256929a5cae76369]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/9/2) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [7](https://www.legislation.gov.uk/wsi/2004/3094/regulation/7)
+[^c-b5dd90f4694dc0a4256929a5cae76369]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/9/2) substituted (24.11.2004) by [The Local Authorities (Calculation of Council Tax Base) and Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2004 (S.I. 2004/3094)](https://www.legislation.gov.uk/wsi/2004/3094), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2004/3094/regulation/1/1), [7](https://www.legislation.gov.uk/wsi/2004/3094/regulation/7)
 
-[^key-7257d5a2e9a4e7cae9b2838d045ffc51]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/9/2) substituted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [7](https://www.legislation.gov.uk/wsi/2016/969/regulation/7)
+[^c-7257d5a2e9a4e7cae9b2838d045ffc51]: Textual amendment: Words in [reg. 9(2)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/9/2) substituted (28.10.2016 with application for a financial year beginning on or after 1.4.2017) by [The Local Authorities (Calculation of Council Tax Base) (Wales) (Amendment) Regulations 2016 (S.I. 2016/969)](https://www.legislation.gov.uk/wsi/2016/969), [regs. 1](https://www.legislation.gov.uk/wsi/2016/969/regulation/1), [7](https://www.legislation.gov.uk/wsi/2016/969/regulation/7)
 
 [^f00007]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). Part V is amended by Part II of Schedule 10 to the 1992 Act.
 
-[^key-19a82893fd6dc0c69fec8c6eb90db816]: Commencement: Reg. 10 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-19a82893fd6dc0c69fec8c6eb90db816]: Commencement: Reg. 10 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
-[^key-9a87e407e6882e0c4ca2f9e9f7e36ae6]: Commencement: Reg. 11 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
+[^c-9a87e407e6882e0c4ca2f9e9f7e36ae6]: Commencement: Reg. 11 in force at 10.11.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2561/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1992/612](https://www.legislation.gov.uk/uksi/1992/612), amended by S.I. [1992/1742](https://www.legislation.gov.uk/uksi/1992/1742) and [1992/2943](https://www.legislation.gov.uk/uksi/1992/2943).

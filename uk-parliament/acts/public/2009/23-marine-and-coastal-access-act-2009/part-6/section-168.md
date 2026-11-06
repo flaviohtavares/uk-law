@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Eligible bodies[^c2007930][^key-c6b560bf8e7a3eb0211f5ecd59e53e15]
+## 168. Eligible bodies[^c2007930][^c-c6b560bf8e7a3eb0211f5ecd59e53e15]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the authority for any IFC district that adjoins the district;
 - (b) the Environment Agency.
-- (c)[^key-3df5aaf633cd2f759a51fc306fb3f9ca] the Natural Resources Body for Wales.
+- (c)[^c-3df5aaf633cd2f759a51fc306fb3f9ca] the Natural Resources Body for Wales.
 
 (2) The Secretary of State may by order amend subsection (1) so as to—
 
@@ -42,6 +42,6 @@ summary: ''
 
 [^c2007930]: Commencement: S. 168 partly in force; s. 168 in force for specified purposes at Royal Assent see s. 324(1)(c)
 
-[^key-c6b560bf8e7a3eb0211f5ecd59e53e15]: Commencement: S. 168 in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)
+[^c-c6b560bf8e7a3eb0211f5ecd59e53e15]: Commencement: S. 168 in force at 1.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)
 
-[^key-3df5aaf633cd2f759a51fc306fb3f9ca]: Textual amendment: [S. 168(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/168/1/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 446](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/446) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3df5aaf633cd2f759a51fc306fb3f9ca]: Textual amendment: [S. 168(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/168/1/c) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 446](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/446) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

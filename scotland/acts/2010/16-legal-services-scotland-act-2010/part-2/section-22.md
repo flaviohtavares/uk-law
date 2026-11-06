@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Accounting and auditing[^key-108fea89d511cf36534bcd72b63d0507]
+## 22. Accounting and auditing[^c-108fea89d511cf36534bcd72b63d0507]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Practice rules must—
 
 ## Annotations
 
-[^key-108fea89d511cf36534bcd72b63d0507]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/16/section/22) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-108fea89d511cf36534bcd72b63d0507]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2010/16/section/22) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

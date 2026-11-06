@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 195. Access to historic environment records[^key-a832e5829484250e3a24ea578afed37e][^key-5c1e6fc26f2bf2276978ce48ae3b6242]
+## 195. Access to historic environment records[^c-a832e5829484250e3a24ea578afed37e][^c-5c1e6fc26f2bf2276978ce48ae3b6242]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ the Welsh Ministers must compile a document for the person containing the inform
 
 ## Annotations
 
-[^key-a832e5829484250e3a24ea578afed37e]: Commencement: S. 195 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-a832e5829484250e3a24ea578afed37e]: Commencement: S. 195 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-5c1e6fc26f2bf2276978ce48ae3b6242]: Commencement: [S. 195](https://www.legislation.gov.uk/asc/2023/3/section/195) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-5c1e6fc26f2bf2276978ce48ae3b6242]: Commencement: [S. 195](https://www.legislation.gov.uk/asc/2023/3/section/195) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

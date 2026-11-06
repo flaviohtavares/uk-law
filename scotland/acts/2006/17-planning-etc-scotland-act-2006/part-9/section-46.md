@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Regulations about ballots[^key-4165ce4712bf909dacfde72d5e23c1a3][^key-cfe55f0566650c58120fda16219f7b59]
+## 46. Regulations about ballots[^c-4165ce4712bf909dacfde72d5e23c1a3][^c-cfe55f0566650c58120fda16219f7b59]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4165ce4712bf909dacfde72d5e23c1a3]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2006/17/section/46) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
+[^c-4165ce4712bf909dacfde72d5e23c1a3]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2006/17/section/46) in force at 6.2.2007 for specified purposes by [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule)
 
-[^key-cfe55f0566650c58120fda16219f7b59]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2006/17/section/46) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-cfe55f0566650c58120fda16219f7b59]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2006/17/section/46) in force at 1.4.2007 in so far as not already in force by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)

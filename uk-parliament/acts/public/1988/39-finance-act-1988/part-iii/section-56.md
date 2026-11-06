@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Occupational pension schemes.[^key-10c979c44e839dd9ec482580c114241a]
+## 56. Occupational pension schemes.[^c-10c979c44e839dd9ec482580c114241a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-10c979c44e839dd9ec482580c114241a]: Textual amendment: [Ss. 54-56](https://www.legislation.gov.uk/ukpga/1988/39/section/54) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-10c979c44e839dd9ec482580c114241a]: Textual amendment: [Ss. 54-56](https://www.legislation.gov.uk/ukpga/1988/39/section/54) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

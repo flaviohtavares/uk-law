@@ -48,9 +48,9 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962[^f00001] and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:[^key-3e37d979139828b3f0652e54e7cc1644]
+Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of the West Indies Act 1962[^f00001] and of all other powers enabling Her to do so, is pleased, by and with the advice of Her Privy Council, to order, and it is ordered, as follows:[^c-3e37d979139828b3f0652e54e7cc1644]
 
-## 1. Citation, interpretation and commencement[^key-20c17d004a4d526dbb365d718a52fcd5]
+## 1. Citation, interpretation and commencement[^c-20c17d004a4d526dbb365d718a52fcd5]
 
 (1) This Order may be cited as the Turks and Caicos Islands Constitution (Amendment) Order 2021 and shall be construed as one with the Turks and Caicos Islands Constitution Order 2011[^f00002] (in this Order referred to as “the principal Order”).
 
@@ -60,7 +60,7 @@ Her Majesty, in exercise of the powers conferred upon Her by sections 5 and 7 of
 
 (4) This Order comes into force on such day as the Governor, acting in his or her discretion, may appoint by proclamation published in the *Gazette*.
 
-## 2. Amendment of section 31 of the Constitution (The Cabinet)[^key-f285810e69fb5832b8e38430fa08322a]
+## 2. Amendment of section 31 of the Constitution (The Cabinet)[^c-f285810e69fb5832b8e38430fa08322a]
 
 (1) Section 31 of the Constitution (The Cabinet) is amended as follows.
 
@@ -86,10 +86,10 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1962 c.19](https://www.legislation.gov.uk/ukpga/1962/19).
 
-[^key-3e37d979139828b3f0652e54e7cc1644]: Modification: Order construed as one with [S.I. 2011/1681](https://www.legislation.gov.uk/uksi/2011/1681) and [S.I. 2024/1128](https://www.legislation.gov.uk/uksi/2024/1128) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/1/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
+[^c-3e37d979139828b3f0652e54e7cc1644]: Modification: Order construed as one with [S.I. 2011/1681](https://www.legislation.gov.uk/uksi/2011/1681) and [S.I. 2024/1128](https://www.legislation.gov.uk/uksi/2024/1128) (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Amendment) Order 2024 (S.I. 2024/1128)](https://www.legislation.gov.uk/uksi/2024/1128), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1128/article/1/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/1128/article/4))
 
-[^key-20c17d004a4d526dbb365d718a52fcd5]: Commencement: Art. 1 comes into force in accordance with art. 1(4)
+[^c-20c17d004a4d526dbb365d718a52fcd5]: Commencement: Art. 1 comes into force in accordance with art. 1(4)
 
 [^f00002]: Footnote: [S.I. 2011/1681](https://www.legislation.gov.uk/uksi/2011/1681).
 
-[^key-f285810e69fb5832b8e38430fa08322a]: Commencement: Art. 2 comes into force in accordance with art. 1(4)
+[^c-f285810e69fb5832b8e38430fa08322a]: Commencement: Art. 2 comes into force in accordance with art. 1(4)

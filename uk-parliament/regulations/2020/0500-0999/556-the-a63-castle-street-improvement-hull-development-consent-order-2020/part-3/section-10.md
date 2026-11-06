@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Construction and maintenance of new, altered or diverted streets and other structures[^key-45a5967bb27cc96e12e8e13855f31ecc]
+## 10. Construction and maintenance of new, altered or diverted streets and other structures[^c-45a5967bb27cc96e12e8e13855f31ecc]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-45a5967bb27cc96e12e8e13855f31ecc]: Commencement: Art. 10 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-45a5967bb27cc96e12e8e13855f31ecc]: Commencement: Art. 10 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)

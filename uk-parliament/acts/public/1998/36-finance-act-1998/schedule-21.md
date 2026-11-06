@@ -28,7 +28,7 @@ Section 121.
 
 ### Gains of trustees attributed to settlor
 
-**2.**[^key-8d151b2b2a18f6f2e1cd9a8e4b3a5ed4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8d151b2b2a18f6f2e1cd9a8e4b3a5ed4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Annual exempt amount
 
@@ -57,7 +57,7 @@ Section 121.
 
 ### Gains attributed to members of non-resident companies
 
-**4.**[^key-f3bf57cc67a024ee06983726316f5e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f3bf57cc67a024ee06983726316f5e4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Carry back of losses on death
 
@@ -72,44 +72,44 @@ Section 121.
 
 ### Gains attributed to settlors and beneficiaries
 
-**6.** (1)[^c16426211][^key-63269555c13c5ef8b75f864cd7743862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.** (1)[^c16426211][^c-63269555c13c5ef8b75f864cd7743862] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c16426211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5d7513b69ce982ae26253adc11240afb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5d7513b69ce982ae26253adc11240afb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-88c6a43443a76f7205bda633a4c04f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-88c6a43443a76f7205bda633a4c04f30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Gains on assets deriving from reorganisation of body carrying on a mutual business etc.
 
-**7.**[^key-4e7837a9f058f77ffaadfe04c3b521b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4e7837a9f058f77ffaadfe04c3b521b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commercial letting of furnished holiday dwellings
 
-**8.**[^key-ea76d9ca2b879b1cd6a59b11ad204472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ea76d9ca2b879b1cd6a59b11ad204472] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Delayed remittances in respect of foreign assets
 
-**9.**[^key-7eee89da4db1b8fc7f5eea162c5f70f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7eee89da4db1b8fc7f5eea162c5f70f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c16426201]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-8d151b2b2a18f6f2e1cd9a8e4b3a5ed4]: Textual amendment: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/2) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
+[^c-8d151b2b2a18f6f2e1cd9a8e4b3a5ed4]: Textual amendment: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/2) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
 
-[^key-f3bf57cc67a024ee06983726316f5e4a]: Textual amendment: Sch. 21 para. 4 omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
+[^c-f3bf57cc67a024ee06983726316f5e4a]: Textual amendment: Sch. 21 para. 4 omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
 
 [^c16426211]: Textual amendment: Sch. 21 para. 6(1)(2) repealed (24.7.2002 with effect as mentioned in Sch. 40 Pt. 3(4) Note to the amending Act) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 141](https://www.legislation.gov.uk/ukpga/2002/23/section/141), [Sch. 40 Pt. 3(4)](https://www.legislation.gov.uk/ukpga/2002/23/schedule/40/part/3/4) Note
 
-[^key-63269555c13c5ef8b75f864cd7743862]: Textual amendment: Sch. 21 para. 6(1) omitted (with effect in accordance with Sch. 2 para. 22 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/c/ii)
+[^c-63269555c13c5ef8b75f864cd7743862]: Textual amendment: Sch. 21 para. 6(1) omitted (with effect in accordance with Sch. 2 para. 22 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 21(c)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/21/c/ii)
 
-[^key-5d7513b69ce982ae26253adc11240afb]: Textual amendment: Sch. 21 para. 6(3) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv); and omitted (with effect in accordance with Sch. 7 para. 115 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/a)
+[^c-5d7513b69ce982ae26253adc11240afb]: Textual amendment: Sch. 21 para. 6(3) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv); and omitted (with effect in accordance with Sch. 7 para. 115 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/a)
 
-[^key-88c6a43443a76f7205bda633a4c04f30]: Textual amendment: Sch. 21 para. 6(4) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv); and omitted (with effect in accordance with Sch. 7 para. 115 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/a)
+[^c-88c6a43443a76f7205bda633a4c04f30]: Textual amendment: Sch. 21 para. 6(4) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv); and omitted (with effect in accordance with Sch. 7 para. 115 to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 114(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/114/a)
 
-[^key-4e7837a9f058f77ffaadfe04c3b521b0]: Textual amendment: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/7) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
+[^c-4e7837a9f058f77ffaadfe04c3b521b0]: Textual amendment: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/7) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
 
-[^key-ea76d9ca2b879b1cd6a59b11ad204472]: Textual amendment: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/8) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/b/ii), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-ea76d9ca2b879b1cd6a59b11ad204472]: Textual amendment: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/8) repealed (with effect in accordance with Sch. 5 para. 13 of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 11(b)(ii)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/11/b/ii), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
 
-[^key-7eee89da4db1b8fc7f5eea162c5f70f5]: Textual amendment: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/9) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)
+[^c-7eee89da4db1b8fc7f5eea162c5f70f5]: Textual amendment: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/1998/36/schedule/21/paragraph/9) omitted (with effect in accordance with Sch. 2 para. 56(3) to the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(a)(iv)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/a/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Sentencing court to indicate sentence which would have been imposed if guilty plea entered at earliest reasonable opportunity[^key-beead90cdaea5647eec7c56da3799ec2]
+## 88. Sentencing court to indicate sentence which would have been imposed if guilty plea entered at earliest reasonable opportunity[^c-beead90cdaea5647eec7c56da3799ec2]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-beead90cdaea5647eec7c56da3799ec2]: Commencement: [S. 88](https://www.legislation.gov.uk/nia/2015/9/section/88) in operation at 1.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 3(a)](https://www.legislation.gov.uk/nisr/2016/136/article/3/a)
+[^c-beead90cdaea5647eec7c56da3799ec2]: Commencement: [S. 88](https://www.legislation.gov.uk/nia/2015/9/section/88) in operation at 1.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 3(a)](https://www.legislation.gov.uk/nisr/2016/136/article/3/a)

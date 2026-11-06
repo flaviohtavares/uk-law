@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 238. Interests of amenity: factors to be taken into account[^key-4f2fcfb66495d10f8839345ac5d556ab]
+## 238. Interests of amenity: factors to be taken into account[^c-4f2fcfb66495d10f8839345ac5d556ab]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Tree preservation regulations may specify factors that must be taken into accoun
 
 ## Annotations
 
-[^key-4f2fcfb66495d10f8839345ac5d556ab]: Commencement: S. 238 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4f2fcfb66495d10f8839345ac5d556ab]: Commencement: S. 238 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

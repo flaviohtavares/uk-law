@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Jurisdiction of court in relation to tenancies in England and Wales[^key-6bd97896e7dbc7cc96a05cb5ddb27334]
+## 65. Jurisdiction of court in relation to tenancies in England and Wales[^c-6bd97896e7dbc7cc96a05cb5ddb27334]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In section 63 of the Landlord and Tenant Act 1954 (jurisdiction of court for pur
 
 ## Annotations
 
-[^key-6bd97896e7dbc7cc96a05cb5ddb27334]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-6bd97896e7dbc7cc96a05cb5ddb27334]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)

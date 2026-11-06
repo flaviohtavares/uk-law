@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21ZB. Payment of arrears of benefit by instalments[^key-42cb128578d404d617f3143d62a29a8c]
+## 21ZB. Payment of arrears of benefit by instalments[^c-42cb128578d404d617f3143d62a29a8c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42cb128578d404d617f3143d62a29a8c]: Textual amendment: [Reg. 21ZB](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21ZB) inserted (S.) (18.10.2021) by [The Social Security (Claims and Payments) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/305)](https://www.legislation.gov.uk/ssi/2021/305), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/305/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/305/regulation/3)
+[^c-42cb128578d404d617f3143d62a29a8c]: Textual amendment: [Reg. 21ZB](https://www.legislation.gov.uk/uksi/1987/1968/regulation/21ZB) inserted (S.) (18.10.2021) by [The Social Security (Claims and Payments) (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/305)](https://www.legislation.gov.uk/ssi/2021/305), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/305/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2021/305/regulation/3)

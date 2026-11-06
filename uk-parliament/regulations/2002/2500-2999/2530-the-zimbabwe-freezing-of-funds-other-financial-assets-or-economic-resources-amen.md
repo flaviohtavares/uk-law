@@ -31,7 +31,7 @@ summary: ''
 
 CRIMINAL LAW
 
-The Zimbabwe (Freezing of Funds, other Financial Assets or Economic Resources) (Amendment) Regulations 2002 (revoked)[^key-6a09cab89c31c9f008a478889e1e8adb]
+The Zimbabwe (Freezing of Funds, other Financial Assets or Economic Resources) (Amendment) Regulations 2002 (revoked)[^c-6a09cab89c31c9f008a478889e1e8adb]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 31st October 2002
 
-[^key-6a09cab89c31c9f008a478889e1e8adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a09cab89c31c9f008a478889e1e8adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-6a09cab89c31c9f008a478889e1e8adb]
+## 1.[^c-6a09cab89c31c9f008a478889e1e8adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-6a09cab89c31c9f008a478889e1e8adb]
+## 2.[^c-6a09cab89c31c9f008a478889e1e8adb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6a09cab89c31c9f008a478889e1e8adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a09cab89c31c9f008a478889e1e8adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6a09cab89c31c9f008a478889e1e8adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6a09cab89c31c9f008a478889e1e8adb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6a09cab89c31c9f008a478889e1e8adb]: Textual amendment: Regulations revoked (24.4.2009) by [The Zimbabwe (Financial Sanctions) Regulations 2009 (S.I. 2009/847)](https://www.legislation.gov.uk/uksi/2009/847), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/847/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/b)
+[^c-6a09cab89c31c9f008a478889e1e8adb]: Textual amendment: Regulations revoked (24.4.2009) by [The Zimbabwe (Financial Sanctions) Regulations 2009 (S.I. 2009/847)](https://www.legislation.gov.uk/uksi/2009/847), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/847/regulation/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2009/847/regulation/17/b)

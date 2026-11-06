@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Regulations as to the exercise of functions by the Board or clinical commissioning groups[^key-02af40dba0c1c12eaa8a38b7fa5575fe][^c2191276]
+## 20. Regulations as to the exercise of functions by the Board or clinical commissioning groups[^c-02af40dba0c1c12eaa8a38b7fa5575fe][^c2191276]
 
 *Extent: E+W*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02af40dba0c1c12eaa8a38b7fa5575fe]: Commencement: S. 20 in force at 1.2.2013 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-02af40dba0c1c12eaa8a38b7fa5575fe]: Commencement: S. 20 in force at 1.2.2013 in so far as not already in force by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
 [^c2191276]: Commencement: S. 20 partly in force; s. 20 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

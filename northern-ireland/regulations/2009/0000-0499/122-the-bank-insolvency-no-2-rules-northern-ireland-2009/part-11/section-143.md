@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 143. Enforced delivery up of company’s property[^key-539540b972e93517e62f6ed168eb3469]
+## 143. Enforced delivery up of company’s property[^c-539540b972e93517e62f6ed168eb3469]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.195 of the 1991 Rules.
 
 ## Annotations
 
-[^key-539540b972e93517e62f6ed168eb3469]: Commencement: Rule 143 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-539540b972e93517e62f6ed168eb3469]: Commencement: Rule 143 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

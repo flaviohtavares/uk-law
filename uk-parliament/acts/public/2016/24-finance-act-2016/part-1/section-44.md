@@ -26,7 +26,7 @@ summary: ''
 - (b) Article 137 of the Order (payments to persons suffering financial disadvantage), or
 - (c) any provision (including future provision) of the Order which enables provision to be made for payments to persons who suffer financial disadvantage as a result of relevant housing benefit changes.
 
-(2) In subsection (1)(c) “**relevant housing benefit changes**” means changes to social security benefits consisting of or including changes contained in the[^key-b0a907626fe29ddf6af5bc21f0be27cd] [Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. (N.I.) 2016 No. 326](https://www.legislation.gov.uk/nisr/2016/326)).
+(2) In subsection (1)(c) “**relevant housing benefit changes**” means changes to social security benefits consisting of or including changes contained in the[^c-b0a907626fe29ddf6af5bc21f0be27cd] [Housing Benefit (Amendment No. 2) Regulations (Northern Ireland) 2016 (S.R. (N.I.) 2016 No. 326](https://www.legislation.gov.uk/nisr/2016/326)).
 
 (3) The Treasury may by regulations amend any provision of Chapters 1 to 5 of Part 10 of ITEPA 2003 so as to—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0a907626fe29ddf6af5bc21f0be27cd]: Textual amendment: Words in s. 44(2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 70](https://www.legislation.gov.uk/ukpga/2017/32/section/70)
+[^c-b0a907626fe29ddf6af5bc21f0be27cd]: Textual amendment: Words in s. 44(2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 70](https://www.legislation.gov.uk/ukpga/2017/32/section/70)

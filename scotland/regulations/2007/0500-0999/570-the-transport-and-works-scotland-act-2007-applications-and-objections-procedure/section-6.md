@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Scoping opinion[^key-8d24d4491e63386a7d93798b7003a4f8]
+## 6. Scoping opinion[^c-8d24d4491e63386a7d93798b7003a4f8]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ the Scottish Ministers must notify the applicant, in writing, of the Scottish Mi
 
 ## Annotations
 
-[^key-8d24d4491e63386a7d93798b7003a4f8]: Textual amendment: Rule 6 substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [7](https://www.legislation.gov.uk/ssi/2017/74/rule/7) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))
+[^c-8d24d4491e63386a7d93798b7003a4f8]: Textual amendment: Rule 6 substituted (16.5.2017) by [The Transport and Works (Scotland) Act 2007 (Applications and Objections Procedure) Amendment Rules 2017 (S.S.I. 2017/74)](https://www.legislation.gov.uk/ssi/2017/74), [rules 1](https://www.legislation.gov.uk/ssi/2017/74/rule/1), [7](https://www.legislation.gov.uk/ssi/2017/74/rule/7) (with [rule 19](https://www.legislation.gov.uk/ssi/2017/74/rule/19))

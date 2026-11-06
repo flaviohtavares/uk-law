@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Recovery orders: supplementary[^key-f10b3898b62ff0a1e0817e6ca64178ec]
+## 106. Recovery orders: supplementary[^c-f10b3898b62ff0a1e0817e6ca64178ec]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f10b3898b62ff0a1e0817e6ca64178ec]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2016/21/section/106) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-f10b3898b62ff0a1e0817e6ca64178ec]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2016/21/section/106) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

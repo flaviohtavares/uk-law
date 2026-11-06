@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Portability of care and support[^key-d9cac6a4eec3bb964d14de183d7f7677][^M_C_248402b7-adfa-4bde-fe33-92aefb3688c6]
+## 56. Portability of care and support[^c-d9cac6a4eec3bb964d14de183d7f7677][^M_C_248402b7-adfa-4bde-fe33-92aefb3688c6]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9cac6a4eec3bb964d14de183d7f7677]: Commencement: S. 56 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-d9cac6a4eec3bb964d14de183d7f7677]: Commencement: S. 56 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
 [^M_C_248402b7-adfa-4bde-fe33-92aefb3688c6]: Modification: S. 56 modified (1.4.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 12 para. 33](https://www.legislation.gov.uk/ukpga/2020/7/schedule/12/paragraph/33) (with [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2020/7/schedule/12/paragraph/34)); [S.I. 2020/366](https://www.legislation.gov.uk/uksi/2020/366), [reg. 3](https://www.legislation.gov.uk/uksi/2020/366/regulation/3)

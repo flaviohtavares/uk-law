@@ -98,47 +98,47 @@ Department of Energy and Climate Change
 
 Regulation 4
 
-### 1. Amendments to the 2005 Regulations[^key-4180504fe0e3323427b7e6e30e8aeebb]
+### 1. Amendments to the 2005 Regulations[^c-4180504fe0e3323427b7e6e30e8aeebb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4180504fe0e3323427b7e6e30e8aeebb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 21. Amendment to the Environment Act 1995
 
@@ -153,16 +153,16 @@ The Environment Act 1995 [^c21125141] is amended as follows.
   > - (j) each of the new Agencies may require the payment to it of such charges as may from time to time be prescribed in respect of the subsistence of an account required to be held in the trading scheme registry by an aircraft operator;
 
   ;
-- (b)[^key-8cf0a876acc15c582bc12f65e6853d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8cf0a876acc15c582bc12f65e6853d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** In section 41A [^c21125181]—
 
 - (a) for the heading, substitute “ Charges in respect of greenhouse gas emissions permits etc: supplementary ”;
-- (b)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-3c68240bdf0757c46c1ce043950a8741] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 24. Amendment to the Environment (Northern Ireland) Order 2002
 
@@ -183,7 +183,7 @@ Schedule 1 to the Environment (Northern Ireland) Order 2002 [^c21125191] (partic
 
 **28.** In paragraph 26—
 
-- (a)[^key-03037fd6995647904bb0eb6413fef3ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-03037fd6995647904bb0eb6413fef3ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the definition of “trading scheme registry” substitute—
 
   > “**trading scheme registry**” means—
@@ -287,7 +287,7 @@ An Impact Assessment has not been prepared for this instrument. This is because 
 
 [^c21125101]: Marginal citation: O.J. No. L270, 14.10.2010, p.1. The Regulation has been amended by Regulation \[Insert Reference to the EU Registries Regulation 2011 Once it has been Published in the OJEU\].
 
-[^key-4180504fe0e3323427b7e6e30e8aeebb]: Textual amendment: [Sch. paras. 1-20](https://www.legislation.gov.uk/uksi/2011/2911/schedule/paragraph/1) revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(ix)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/ix) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-4180504fe0e3323427b7e6e30e8aeebb]: Textual amendment: [Sch. paras. 1-20](https://www.legislation.gov.uk/uksi/2011/2911/schedule/paragraph/1) revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(ix)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/ix) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
 
 [^c21125141]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -295,14 +295,14 @@ An Impact Assessment has not been prepared for this instrument. This is because 
 
 [^c21125161]: Marginal citation: [S.I. 2005/2903](https://www.legislation.gov.uk/uksi/2005/2903), amended by [S.I. 2011/727](https://www.legislation.gov.uk/uksi/2011/727).
 
-[^key-8cf0a876acc15c582bc12f65e6853d72]: Textual amendment: Sch. para. 22(b) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/a)
+[^c-8cf0a876acc15c582bc12f65e6853d72]: Textual amendment: Sch. para. 22(b) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/a)
 
 [^c21125181]: Marginal citation: Inserted by [S.I. 2005/925](https://www.legislation.gov.uk/uksi/2005/925).
 
-[^key-3c68240bdf0757c46c1ce043950a8741]: Textual amendment: Sch. para. 23(b)-(f) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/b)
+[^c-3c68240bdf0757c46c1ce043950a8741]: Textual amendment: Sch. para. 23(b)-(f) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/b)
 
 [^c21125191]: Marginal citation: [2002 No. 3153](https://www.legislation.gov.uk/ukcm/2002/3153) (N.I. 7), amended by S.R. (N.I.) [2010 No. 92](https://www.legislation.gov.uk/ukcm/2010/92).
 
-[^key-03037fd6995647904bb0eb6413fef3ec]: Textual amendment: Sch. para. 28(a) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/c)
+[^c-03037fd6995647904bb0eb6413fef3ec]: Textual amendment: Sch. para. 28(a) revoked (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/17/2/c)
 
 [^c21125201]: Marginal citation: S.R. (N.I.) [2010 No. 151](https://www.legislation.gov.uk/ukcm/2010/151).

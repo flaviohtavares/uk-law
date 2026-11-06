@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Right of attendance[^key-1c6b0cb63b744f06a744e8774c097e16]
+## 131. Right of attendance[^c-1c6b0cb63b744f06a744e8774c097e16]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ If two or more persons are appointed under this paragraph to represent the same 
 
 ## Annotations
 
-[^key-1c6b0cb63b744f06a744e8774c097e16]: Commencement: Rule 131 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-1c6b0cb63b744f06a744e8774c097e16]: Commencement: Rule 131 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

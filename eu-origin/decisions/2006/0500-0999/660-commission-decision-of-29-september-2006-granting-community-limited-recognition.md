@@ -39,18 +39,18 @@ granting Community limited recognition to the Polish Register of Shipping
 
 (2006/660/EC) (revoked)
 
-[^key-72d30c8c6ec9abc7bdf1a542c8fd84b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d30c8c6ec9abc7bdf1a542c8fd84b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-72d30c8c6ec9abc7bdf1a542c8fd84b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-72d30c8c6ec9abc7bdf1a542c8fd84b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-72d30c8c6ec9abc7bdf1a542c8fd84b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-72d30c8c6ec9abc7bdf1a542c8fd84b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-72d30c8c6ec9abc7bdf1a542c8fd84b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-72d30c8c6ec9abc7bdf1a542c8fd84b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72d30c8c6ec9abc7bdf1a542c8fd84b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d30c8c6ec9abc7bdf1a542c8fd84b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72d30c8c6ec9abc7bdf1a542c8fd84b2]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-72d30c8c6ec9abc7bdf1a542c8fd84b2]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Supplementary Provisions with Respect to Payments Under Section 56[^key-e2b5e640f8079f5532468e4f362ebecc]
+## SCHEDULE 8 — Supplementary Provisions with Respect to Payments Under Section 56[^c-e2b5e640f8079f5532468e4f362ebecc]
 
 *Extent: S*
 
@@ -26,15 +26,15 @@ Section 57.
 
 **2.** If in any case the sum to be paid by virtue of the said section 56(1) to the tenant of an agricultural holding or to a statutory small tenant by an acquiring authority would, apart from this paragraph and paragraph 3 of this Schedule, fall to be ascertained in pursuance of section 54(2) of this Act by reference to the rent of the holding at a rate which was not—
 
-- (a) determined by the Land Court[^key-8d9bc66e18dc69a4f16a40befcbca63f] under section 13 or 15 of this Act;
-- (b) determined by arbitration by virtue of section 61(1)[^key-d879269c8547e2e7c0238e0c02d89f18] of this Act; or
+- (a) determined by the Land Court[^c-8d9bc66e18dc69a4f16a40befcbca63f] under section 13 or 15 of this Act;
+- (b) determined by arbitration by virtue of section 61(1)[^c-d879269c8547e2e7c0238e0c02d89f18] of this Act; or
 - (c) in the case of a statutory small tenant, fixed by the Scottish Land Court in pursuance of section 32(7) and (8) of the 1911 Act;
 
 and which the authority consider is unduly high, the authority may make an application to the Lands Tribunal for Scotland for the rent to be considered by the tribunal;
 
 **3.** Where, on an application under paragraph 2 above, the tribunal are satisfied that—
 
-- (a) the rent to which the application relates is not substantially higher than the rent which in their opinion would be determined for the holding in question by the Land Court or[^key-d51665f23851cff3e970495657748a55] on a reference to arbitration duly made in pursuance of—
+- (a) the rent to which the application relates is not substantially higher than the rent which in their opinion would be determined for the holding in question by the Land Court or[^c-d51665f23851cff3e970495657748a55] on a reference to arbitration duly made in pursuance of—
   - (i) section 13 of this Act; or
   - (ii) in the case of a statutory small tenancy, the equitable rent which in their opinion would be fixed by the Land Court under section 32 (7) and (8) of the 1911 Act;
 
@@ -61,13 +61,13 @@ they shall dismiss the application; and if the tribunal do not dismiss the appli
 
 ## Annotations
 
-[^key-e2b5e640f8079f5532468e4f362ebecc]: Modification: Sch. 8 modified (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 54(6)](https://www.legislation.gov.uk/asp/2003/11/section/54/6), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-e2b5e640f8079f5532468e4f362ebecc]: Modification: Sch. 8 modified (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 54(6)](https://www.legislation.gov.uk/asp/2003/11/section/54/6), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-8d9bc66e18dc69a4f16a40befcbca63f]: Textual amendment: Words in Sch. 8 para. 2 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 45(a)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/45/a/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-8d9bc66e18dc69a4f16a40befcbca63f]: Textual amendment: Words in Sch. 8 para. 2 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 45(a)(i)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/45/a/i) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-d879269c8547e2e7c0238e0c02d89f18]: Textual amendment: Words in Sch. 8 para. 2 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 45(a)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/45/a/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-d879269c8547e2e7c0238e0c02d89f18]: Textual amendment: Words in Sch. 8 para. 2 substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 45(a)(ii)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/45/a/ii) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-d51665f23851cff3e970495657748a55]: Textual amendment: Words in Sch. 8 para. 3 inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 45(b)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/45/b) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-d51665f23851cff3e970495657748a55]: Textual amendment: Words in Sch. 8 para. 3 inserted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 45(b)](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/45/b) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
 [^c1033746]: Marginal citation: [1845 c.19](https://www.legislation.gov.uk/ukpga/1845/19).
 

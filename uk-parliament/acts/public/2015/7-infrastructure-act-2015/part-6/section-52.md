@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Reimbursement of persons who have met expenses of making electrical connections[^key-399bcbdcf17eb6fdc8dec448a48a3591]
+## 52. Reimbursement of persons who have met expenses of making electrical connections[^c-399bcbdcf17eb6fdc8dec448a48a3591]
 
 *Extent: E+W+S*
 
@@ -132,4 +132,4 @@ summary: ''
 
 ## Annotations
 
-[^key-399bcbdcf17eb6fdc8dec448a48a3591]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2015/7/section/52) in force at 6.4.2017 by [S.I. 2017/108](https://www.legislation.gov.uk/uksi/2017/108), [reg. 2](https://www.legislation.gov.uk/uksi/2017/108/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/108/regulation/3))
+[^c-399bcbdcf17eb6fdc8dec448a48a3591]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2015/7/section/52) in force at 6.4.2017 by [S.I. 2017/108](https://www.legislation.gov.uk/uksi/2017/108), [reg. 2](https://www.legislation.gov.uk/uksi/2017/108/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/108/regulation/3))

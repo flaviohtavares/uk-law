@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. NHS England mandate: general[^key-f11b0816ff5a265bfba78cce067ac8d4][^key-da1f7919dcf70e9690ed44ba65adef94]
+## 4. NHS England mandate: general[^c-f11b0816ff5a265bfba78cce067ac8d4][^c-da1f7919dcf70e9690ed44ba65adef94]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f11b0816ff5a265bfba78cce067ac8d4]: Commencement: S. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-f11b0816ff5a265bfba78cce067ac8d4]: Commencement: S. 4 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-da1f7919dcf70e9690ed44ba65adef94]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/31/section/4) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-da1f7919dcf70e9690ed44ba65adef94]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/31/section/4) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

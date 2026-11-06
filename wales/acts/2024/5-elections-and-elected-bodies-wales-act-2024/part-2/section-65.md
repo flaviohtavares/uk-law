@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Political restriction of officers and staff[^key-9b718a53c83f5ba62fb34d279ef6e6bc]
+## 65. Political restriction of officers and staff[^c-9b718a53c83f5ba62fb34d279ef6e6bc]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b718a53c83f5ba62fb34d279ef6e6bc]: Commencement: S. 65 in force at 6.5.2027, see [s. 72(3)](https://www.legislation.gov.uk/asc/2024/5/section/72/3)
+[^c-9b718a53c83f5ba62fb34d279ef6e6bc]: Commencement: S. 65 in force at 6.5.2027, see [s. 72(3)](https://www.legislation.gov.uk/asc/2024/5/section/72/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Payment by employing authorities to appropriate administering authorities[^key-4370b233b645b4cb312eac2a0ef18100]
+## 42. Payment by employing authorities to appropriate administering authorities[^c-4370b233b645b4cb312eac2a0ef18100]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4370b233b645b4cb312eac2a0ef18100]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-4370b233b645b4cb312eac2a0ef18100]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00038]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 

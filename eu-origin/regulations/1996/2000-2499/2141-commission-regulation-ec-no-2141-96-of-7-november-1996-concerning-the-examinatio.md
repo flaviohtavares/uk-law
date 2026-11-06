@@ -31,10 +31,10 @@ Commission Regulation (EC) No 2141/96
 
 of 7 November 1996 concerning the examination of an application for the transfer of a marketing authorization for a medicinal product falling within the scope of Council Regulation (EC) No 2309/93 (revoked)
 
-[^key-e5782bf0e1f4617cd9179c0ee5281f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5782bf0e1f4617cd9179c0ee5281f8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e5782bf0e1f4617cd9179c0ee5281f8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e5782bf0e1f4617cd9179c0ee5281f8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5782bf0e1f4617cd9179c0ee5281f8e]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/d) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5782bf0e1f4617cd9179c0ee5281f8e]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/d) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

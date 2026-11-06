@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 281. Penalties[^key-542338b3959845e96477e76607c829bf]
+## 281. Penalties[^c-542338b3959845e96477e76607c829bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ A person who is guilty of an offence under regulation 279 or 280 is liable—
 
 ## Annotations
 
-[^key-542338b3959845e96477e76607c829bf]: Commencement: Reg. 281 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-542338b3959845e96477e76607c829bf]: Commencement: Reg. 281 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

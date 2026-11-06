@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 162. Remunerative work[^key-c17ed20395512a37ec1763e8b3e2173b]
+## 162. Remunerative work[^c-c17ed20395512a37ec1763e8b3e2173b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In determining the number of hours in which a person is engaged in remunerative 
 
 ## Annotations
 
-[^key-c17ed20395512a37ec1763e8b3e2173b]: Commencement: Reg. 162 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c17ed20395512a37ec1763e8b3e2173b]: Commencement: Reg. 162 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

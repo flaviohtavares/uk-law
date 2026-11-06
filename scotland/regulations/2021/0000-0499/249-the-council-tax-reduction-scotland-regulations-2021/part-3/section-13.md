@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Conditions of entitlement to council tax reduction[^key-2f87b6dbfec00ce9362c2f90d170bb7c]
+## 13. Conditions of entitlement to council tax reduction[^c-2f87b6dbfec00ce9362c2f90d170bb7c]
 
 *Extent: S*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2f87b6dbfec00ce9362c2f90d170bb7c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/249/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-2f87b6dbfec00ce9362c2f90d170bb7c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/249/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00100]: Footnote: Section 75 was amended by paragraph 19 of schedule 10 of the Housing (Scotland) Act [2001 (asp 10)](https://www.legislation.gov.uk/asp/2001/10) and [S.S.I. 2001/191](https://www.legislation.gov.uk/ssi/2001/191).
 

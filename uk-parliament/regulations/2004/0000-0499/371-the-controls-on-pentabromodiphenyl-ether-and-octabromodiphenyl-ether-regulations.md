@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Controls On Pentabromodiphenyl Ether And Octabromodiphenyl Ether Regulations 2004 (revoked)[^key-0939e8fd08ef251e37a8949e8bb90787]
+The Controls On Pentabromodiphenyl Ether And Octabromodiphenyl Ether Regulations 2004 (revoked)[^c-0939e8fd08ef251e37a8949e8bb90787]
 
 Made
 
@@ -45,36 +45,36 @@ Coming into force
 
 15th August 2004
 
-[^key-0939e8fd08ef251e37a8949e8bb90787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0939e8fd08ef251e37a8949e8bb90787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0939e8fd08ef251e37a8949e8bb90787]
+## 1. Citation, commencement and extent[^c-0939e8fd08ef251e37a8949e8bb90787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0939e8fd08ef251e37a8949e8bb90787]
+## 2. Interpretation[^c-0939e8fd08ef251e37a8949e8bb90787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Scope[^key-0939e8fd08ef251e37a8949e8bb90787]
+## 3. Scope[^c-0939e8fd08ef251e37a8949e8bb90787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether and octabromodiphenyl ether[^key-0939e8fd08ef251e37a8949e8bb90787]
+## 4. Prohibition on the placing on the market and use of pentabromodiphenyl ether and octabromodiphenyl ether[^c-0939e8fd08ef251e37a8949e8bb90787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-0939e8fd08ef251e37a8949e8bb90787]
+## 5. Offences and penalties[^c-0939e8fd08ef251e37a8949e8bb90787]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0939e8fd08ef251e37a8949e8bb90787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0939e8fd08ef251e37a8949e8bb90787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0939e8fd08ef251e37a8949e8bb90787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0939e8fd08ef251e37a8949e8bb90787]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0939e8fd08ef251e37a8949e8bb90787]: Textual amendment: Regulations revoked (1.1.2005) by [The Controls On Pentabromodiphenyl Ether And Octabromodiphenyl Ether (No. 2) Regulations 2004 (S.I. 2004/3278)](https://www.legislation.gov.uk/uksi/2004/3278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3278/regulation/1), [7](https://www.legislation.gov.uk/uksi/2004/3278/regulation/7)
+[^c-0939e8fd08ef251e37a8949e8bb90787]: Textual amendment: Regulations revoked (1.1.2005) by [The Controls On Pentabromodiphenyl Ether And Octabromodiphenyl Ether (No. 2) Regulations 2004 (S.I. 2004/3278)](https://www.legislation.gov.uk/uksi/2004/3278), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3278/regulation/1), [7](https://www.legislation.gov.uk/uksi/2004/3278/regulation/7)

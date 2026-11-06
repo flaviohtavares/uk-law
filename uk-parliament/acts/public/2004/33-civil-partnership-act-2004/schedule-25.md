@@ -34,7 +34,7 @@ Section 256
 
 *Extent: E+W+S+N.I.*
 
-**3.**[^key-6882a6e22b90e574008240b366190594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6882a6e22b90e574008240b366190594] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Theatres Trust Act 1976 (c. 27)
 
@@ -42,4 +42,4 @@ Section 256
 
 ## Annotations
 
-[^key-6882a6e22b90e574008240b366190594]: Textual amendment: Sch. 25 para. 3 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))
+[^c-6882a6e22b90e574008240b366190594]: Textual amendment: Sch. 25 para. 3 repealed (25.4.2013) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/1/b), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/7) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8))

@@ -46,13 +46,13 @@ The Secretary of State, in exercise of his powers under sections 5(9), 10(1)(b),
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement, revocation and saving[^key-6c734565284947d0a4f2921aa5f68162]
+### 1. Citation, commencement, revocation and saving[^c-6c734565284947d0a4f2921aa5f68162]
 
 (1) These Regulations may be cited as the Measuring Equipment (Capacity Measures and Testing Equipment) Regulations 1995 and shall come into force on 10th April 1995.
 
 (2) The Regulations specified in the first column of Schedule 1 to these Regulations are hereby revoked to the extent specified in the third column of that Schedule save in relation to capacity measures passed as fit for use for trade and stamped before these Regulations come into force; and accordingly, these Regulations shall not apply to those measures.
 
-### 2. Interpretation[^key-f7650a0c6a5f5ff3a3b8a5810977721c]
+### 2. Interpretation[^c-f7650a0c6a5f5ff3a3b8a5810977721c]
 
 (1) In these Regulations—
 
@@ -65,7 +65,7 @@ The Secretary of State, in exercise of his powers under sections 5(9), 10(1)(b),
 - “digital” means capable of assigning only certain discrete values or positions within a continuous range by a series of discontinuous steps;
 - “discrimination threshold” means, in the case of weighing equipment with a digital indicator, the weight which produces a change of reading of one digit, and in the case of weighing equipment with an analogue indicator, the weight which produces a one millimetre movement of the pointer; and in this definition, “analogue” means capable of assigning any value or position within a continuous range;
 - “double measure” means a measure comprising two parts, each part being a capacity measure;
-- “EEA State” means a State which is a Contracting Party to the EEA Agreement [^key-4bc0e9c78f214f44fba7b0f1241dbacf]... but until the EEA Agreement comes into force in relation to Liechtenstein does not include the State of Liechtenstein; and “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;
+- “EEA State” means a State which is a Contracting Party to the EEA Agreement [^c-4bc0e9c78f214f44fba7b0f1241dbacf]... but until the EEA Agreement comes into force in relation to Liechtenstein does not include the State of Liechtenstein; and “the EEA Agreement” means the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993;
 - “graduated measure” means a measure with more than four scale marks or, in the case of a measure which is both a metric and imperial measure, in each of metric and imperial units;
 - “the prescribed limits of error” shall be construed in accordance with regulation 15;
 - “the stamp” means the prescribed stamp[^f00007];
@@ -85,7 +85,7 @@ The Secretary of State, in exercise of his powers under sections 5(9), 10(1)(b),
 | millilitre | ml |
 | degree Celsius | °C. |
 
-### 3. Application of Regulations[^key-93f021ce77a406cdabdfa8cc9830aad8]
+### 3. Application of Regulations[^c-93f021ce77a406cdabdfa8cc9830aad8]
 
 (1) These Regulations apply to liquid capacity measures and dry capacity measures for use for trade, other than—
 
@@ -97,22 +97,22 @@ The Secretary of State, in exercise of his powers under sections 5(9), 10(1)(b),
 - (f) capacity measures which exceed—
   - (i) 20 litres for metric measures, or
   - (ii) before 1st October 1995, 5 gallons, and on and after that date 16 pints, for imperial measures; or
-- (g)[^key-5f8850e186ec6112c636fe849744680c] capacity measures being containers which—
+- (g)[^c-5f8850e186ec6112c636fe849744680c] capacity measures being containers which—
   - (i) have been supplied by retail containing a cosmetic product;
   - (ii) are provided by an individual to a retailer; and
   - (iii) are used by the retailer in the presence of the individual in ascertaining or determining the amount by volume of a cosmetic product which is of the same description as that mentioned in (i) above and is to be supplied to him in the container,
 
   and in this sub-paragraph “cosmetic product” means any substance or preparation intended to be placed in contact with the various external parts of the human body (that is to say, the epidermis, hair system, nails, lips and external genital organs) or with the teeth and the mucous membranes of the oral cavity with a view exclusively or mainly to cleaning them, perfuming them, changing their appearance, correcting bodily odours, protecting them or keeping them in good condition.
 
-(2) Regulations 4, 5, 6(1)(a) to (d), 7, 9, 10, 12 and 16(4)[^key-8f315a9c28fc2ef0dd9f419bd0a5a531] and (5)(a) below do not apply to dispensing measures for pharmaceutical purposes.
+(2) Regulations 4, 5, 6(1)(a) to (d), 7, 9, 10, 12 and 16(4)[^c-8f315a9c28fc2ef0dd9f419bd0a5a531] and (5)(a) below do not apply to dispensing measures for pharmaceutical purposes.
 
 (3) Capacity measures to which these Regulations apply are hereby prescribed for the purposes of section 11(1) of the Act.
 
-(4) Graduated and sub-divided capacity measures referred to in regulation regulation 16(5)(c)[^key-145fd03a91d6ab4b31caeae43e470d68] below are hereby prescribed as being lawful for use for trade for the purposes of section 10(1)(b) of the Act.
+(4) Graduated and sub-divided capacity measures referred to in regulation regulation 16(5)(c)[^c-145fd03a91d6ab4b31caeae43e470d68] below are hereby prescribed as being lawful for use for trade for the purposes of section 10(1)(b) of the Act.
 
 ## PART II — MATERIALS, PRINCIPLES OF CONSTRUCTION AND USE
 
-### 4. Categories of capacity measures[^key-d28f45d9766c625b1d8512a3cb3847f4]
+### 4. Categories of capacity measures[^c-d28f45d9766c625b1d8512a3cb3847f4]
 
 For the purposes of these Regulations, a capacity measure is either—
 
@@ -121,7 +121,7 @@ For the purposes of these Regulations, a capacity measure is either—
   - (ii) are marked on the outside surface of a measure which is made of transparent or translucent material and on the inside surface of a measure which is made of opaque material; or
 - (b) a brim measure having a brim in a horizontal plane when the measure is on a flat, horizontal surface.
 
-### 5. Materials and principles of construction of capacity measures[^key-b4d474e8561bd7d65cc5b2d129f4e037]
+### 5. Materials and principles of construction of capacity measures[^c-b4d474e8561bd7d65cc5b2d129f4e037]
 
 Capacity measures shall be made of any of the following materials—
 
@@ -133,7 +133,7 @@ Capacity measures shall be made of any of the following materials—
 - (f) silver or silver alloy; or
 - (g) any other material which is rigid, stable and sufficiently durable for normal use for trade.
 
-### 6. Construction of capacity measures[^key-7aa37817e18e1e53a3f0cedafaaa2e9b]
+### 6. Construction of capacity measures[^c-7aa37817e18e1e53a3f0cedafaaa2e9b]
 
 (1) Every capacity measure shall be so constructed that—
 
@@ -165,7 +165,7 @@ being requirements which, in any case, afford in use at least equivalent standar
 - (a) to any person who is a user or potential user of the capacity measures in question; and
 - (b) to an inspector for the purposes of the performance by him of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of a capacity measure.
 
-### 7. Purpose and manner of use of capacity measures[^key-2cfcc6f0882e3956045ab275fc8ec273]
+### 7. Purpose and manner of use of capacity measures[^c-2cfcc6f0882e3956045ab275fc8ec273]
 
 No person shall use a capacity measure—
 
@@ -175,11 +175,11 @@ No person shall use a capacity measure—
 
 ## PART III — TESTING
 
-### 8. Capacity measures for testing to be clean[^key-d556ed7f1bb5686166564dd5a2fd9c82]
+### 8. Capacity measures for testing to be clean[^c-d556ed7f1bb5686166564dd5a2fd9c82]
 
 Every capacity measure submitted for testing shall be in a clean condition.
 
-### 9. Method of testing of capacity measures[^key-4b5288c6804d187f7c42ab403803d710]
+### 9. Method of testing of capacity measures[^c-4b5288c6804d187f7c42ab403803d710]
 
 Subject to regulation 12 below, the inspector shall test every capacity measure—
 
@@ -191,7 +191,7 @@ Subject to regulation 12 below, the inspector shall test every capacity measure�
   - (i) volumetrically, by comparison with one or more local or working standards or by means of appropriate testing equipment which complies with the requirements of the Weights and Measures (Local and Working Standard Capacity Measures and Testing Equipment) Regulations 1990[^f00011]; or
   - (ii) gravimetrically, by determining the weight of water of known density using a suitable weighing machine.
 
-### 10. Testing of nominal capacity and scale marks of capacity measures[^key-2dea84cffda662ba5a99d3d5e05527f5]
+### 10. Testing of nominal capacity and scale marks of capacity measures[^c-2dea84cffda662ba5a99d3d5e05527f5]
 
 (1) The inspector shall test the nominal capacity and all the scale marks or, in the case of a graduated measure, such of them as he considers necessary.
 
@@ -200,20 +200,20 @@ Subject to regulation 12 below, the inspector shall test every capacity measure�
 - (a) in the case of a line measure, the bottom part of the meniscus coincides with the top of the line, or
 - (b) in the case of a brim measure, the surface of the liquid is in the same plane as the brim.
 
-### 11. Testing of dispensing measures for pharmaceutical purposes[^key-7a7471b998a3aa411841789001cd5f5c]
+### 11. Testing of dispensing measures for pharmaceutical purposes[^c-7a7471b998a3aa411841789001cd5f5c]
 
-The inspector[^key-2ddba8e01d0682a9bbac8f367f1003b1] shall test every dispensing measure for pharmaceutical purposes either—
+The inspector[^c-2ddba8e01d0682a9bbac8f367f1003b1] shall test every dispensing measure for pharmaceutical purposes either—
 
 - (a) in accordance with the requirements of BS 6696: 1986, using a suitable weighing machine; or
 - (b) volumetrically—
   - (i) by comparison with one or more local standards (other than a brim measure made of metal), or
   - (ii) by means of a peristaltic pump dispenser which complies with the requirements of the Weights and Measures (Local and Working Standard Capacity Measures and Testing Equipment) Regulations 1990.
 
-### 12. Testing of groups of capacity measures[^key-c2551e3028dbc3b0857f774e89171877]
+### 12. Testing of groups of capacity measures[^c-c2551e3028dbc3b0857f774e89171877]
 
 (1) Where—
 
-- (a) a group of capacity measures of[^key-97c0cd2c975c891816c54ec9f034b703] the same nominal capacity and the same manufacture is submitted for testing; and
+- (a) a group of capacity measures of[^c-97c0cd2c975c891816c54ec9f034b703] the same nominal capacity and the same manufacture is submitted for testing; and
 - (b) the conditions specified in paragraph (2) below are satisfied with respect to the group,
 
 the inspector may, at the request of the person submitting them (“the submitter”), confine the testing to a number of measures determined and selected as specified in paragraph (3) below.
@@ -228,7 +228,7 @@ the inspector may, at the request of the person submitting them (“the submitte
 
 (4) Under this paragraph the sample of measures—
 
-- (a) shall be selected [^key-ed908faeea229584c266170a50e39474]... in accordance with BS 6001: Part 1: 1991; and
+- (a) shall be selected [^c-ed908faeea229584c266170a50e39474]... in accordance with BS 6001: Part 1: 1991; and
 - (b) shall be tested for all the appropriate requirements of these Regulations, including limits of error on capacity conducted either volumetrically or gravimetrically as described in regulation 9(c) above and in accordance with BS 6002: 1993.
 
 (5) Under this paragraph the sample of measures shall be selected in accordance with BS 6001: Part 1: 1991 and—
@@ -240,29 +240,29 @@ the inspector may, at the request of the person submitting them (“the submitte
 
 (7) If the sample selected as specified in paragraph (3) above satisfies the test specified in paragraph (4) above or both the tests specified in paragraph (5) above, the other measures in the group shall be treated as having satisfied the test or tests as the case may be.
 
-### 13. Capacity measures imported from a member State or EEA State[^key-c30682772164e2d4352fbcd900374933][^key-9932c16b1cc8376232fde07fc6877511]
+### 13. Capacity measures imported from a member State or EEA State[^c-c30682772164e2d4352fbcd900374933][^c-9932c16b1cc8376232fde07fc6877511]
 
-(1) In relation to capacity measures imported into Great Britain from a member State[^key-0fce719374174c2da8cc2a20b3a084cb] or an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the provisions of regulations 8 to 12 above if, together with the measures being imported, he is presented with the requisite documentation.
+(1) In relation to capacity measures imported into Great Britain from a member State[^c-0fce719374174c2da8cc2a20b3a084cb] or an EEA State, subject to paragraph (4) below, an inspector shall not carry out any test in accordance with the provisions of regulations 8 to 12 above if, together with the measures being imported, he is presented with the requisite documentation.
 
 (2) In this regulation and in regulation 16 below “requisite documentation” means—
 
 - (a) the test report of an approved body that the capacity measures which are the subject of that report have been tested on the same basis as those set out in regulations 8 to 12 above and stating which tests have been applied to them; and
 - (b) the test results relating to those tests.
 
-(3)[^key-8af831929414e9f1be69d3a6b529f149] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of capacity measures or is a laboratory which has been accredited for the purposes of testing capacity measures in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
+(3)[^c-8af831929414e9f1be69d3a6b529f149] A body is an “approved body” for the purposes of this regulation if it is a body in a member State or in an EEA State which has responsibility in that State for metrological control of capacity measures or is a laboratory which has been accredited for the purposes of testing capacity measures in a member State or in an EEA State as being a body which conforms with the criteria set out in BS EN ISO/IEC 17025:2000.
 
 (4) Nothing in these Regulations shall prevent an inspector testing in accordance with regulations 8 to 12 above where he is not satisfied—
 
 - (a) that the test report or the results presented to him are authentic; or
 - (b) that the test results presented to him are results which in fact relate to the capacity measures being imported.
 
-### 14. Provision of material for inspector’s use[^key-8e3e718f52e1e7cbc4a4ecda250e39d2]
+### 14. Provision of material for inspector’s use[^c-8e3e718f52e1e7cbc4a4ecda250e39d2]
 
 For the purposes of the performance by an inspector of his functions under the Act or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any capacity measure, a person submitting such a measure to an inspector or who an inspector has reasonable cause to believe has possession of such a measure for use for trade shall, if requested, provide for the inspector’s use such material as the inspector may reasonably require, and any material so provided shall be returned to the person in question.
 
 ## PART IV — SUPPLEMENTARY PROVISIONS
 
-### 15. Prescribed limits of error[^key-5ada40c639fbc63823aab01b1461f235]
+### 15. Prescribed limits of error[^c-5ada40c639fbc63823aab01b1461f235]
 
 The prescribed limits of error—
 
@@ -271,9 +271,9 @@ The prescribed limits of error—
   - (i) in the case of line measures, be the amounts set out in column 3 of Schedule 2 to these Regulations in excess and in deficiency, and
   - (ii) in the case of brim measures, be the amounts set out in column 4 of that Schedule in excess only.
 
-### 16. Passing as fit for use for trade and stamping[^key-8d68dd9f60b88b5240944cea255432ab]
+### 16. Passing as fit for use for trade and stamping[^c-8d68dd9f60b88b5240944cea255432ab]
 
-(1) Save in the case of capacity measures imported from a member State[^key-96a6026bb74dfdd25752348c1463f8c0] or an EEA State, no capacity measure shall be passed as fit for use for trade unless—
+(1) Save in the case of capacity measures imported from a member State[^c-96a6026bb74dfdd25752348c1463f8c0] or an EEA State, no capacity measure shall be passed as fit for use for trade unless—
 
 - (a) on testing,—
   - (i) it falls within the prescribed limits of error;
@@ -281,7 +281,7 @@ The prescribed limits of error—
   - (iii) it complies with all the appropriate requirements of these Regulations; or
 - (b) in the case of a measure which has not been tested, it forms part of a group of measures treated under regulation 12(7) above as having satisfied the test or tests therein mentioned.
 
-(2) In the case of capacity measures imported from a member State[^key-f436901960ef7d10f1fa7681d7549b31] or an EEA State, no capacity measure shall be passed as fit for use for trade unless—
+(2) In the case of capacity measures imported from a member State[^c-f436901960ef7d10f1fa7681d7549b31] or an EEA State, no capacity measure shall be passed as fit for use for trade unless—
 
 - (a) either—
   - (i) where the requisite documentation is presented in accordance with regulation 13 above, the test report recites and the test data confirm to the satisfaction of the inspector that on testing in accordance with provisions of the law of a member State or EEA State it fell within limits of error which afford in use at least an equivalent standard to the prescribed limits of error and, in the case of dispensing measures for pharmaceutical purposes, BS 604: 1982 or BS 1922: 1987; or
@@ -317,13 +317,13 @@ The prescribed limits of error—
   - (ii) on and after that date in full in pints, litres, centilitres or millilitres,
 
   or by the appropriate abbreviation or symbol in accordance with regulation 2(2) above; and
-- (b) may be accompanied by a supplementary indication [^key-6a77c55fd217a0ee4092c79471945017]... of quantity,—
+- (b) may be accompanied by a supplementary indication [^c-6a77c55fd217a0ee4092c79471945017]... of quantity,—
   - (i) in the case of a measure marked in gallons, quarts, pints, gills, fluid ounces, expressed in litres, centilitres or millilitres, or
   - (ii) in the case of a measure marked in litres, centilitres or millilitres, expressed in full in gallons, quarts, pints, gills, fluid ounces,
 
 or by the appropriate abbreviation or symbol in accordance with regulation 2(2) above.
 
-### 17. Marking of scale marks on graduated or sub-divided measures[^key-2676f532de16743f5afe12aa3c7af958]
+### 17. Marking of scale marks on graduated or sub-divided measures[^c-2676f532de16743f5afe12aa3c7af958]
 
 (1) The scale marks of a graduated or sub-divided measure shall be marked with their purported values—
 
@@ -336,7 +336,7 @@ or by the appropriate abbreviation or symbol in accordance with regulation 2(2) 
 - “scale mark” does not include the mark of the nominal capacity; and
 - “metric measure”, “imperial measure” and “metric and imperial measure” mean, respectively, a measure the nominal capacity of which is given in metric units only, in imperial units only or in both metric and imperial units.
 
-### 18. Obliteration of stamps[^key-e110bf3bc31aef4ab664cba82e1438e5]
+### 18. Obliteration of stamps[^c-e110bf3bc31aef4ab664cba82e1438e5]
 
 (1) Subject to paragraphs (2) and (3) below, an inspector shall obliterate the stamp on any capacity measure which—
 
@@ -351,7 +351,7 @@ or by the appropriate abbreviation or symbol in accordance with regulation 2(2) 
 
 ## PART V — TESTING EQUIPMENT—PERISTALTIC PUMP DISPENSERS
 
-### 19. Peristaltic pump dispensers[^key-71db16c95ffddd9978f0b6700bbb6327]
+### 19. Peristaltic pump dispensers[^c-71db16c95ffddd9978f0b6700bbb6327]
 
 The Weights and Measures (Local and Working Standard Capacity Measures and Testing Equipment) Regulations 1990[^f00013] are hereby amended,—
 
@@ -428,7 +428,7 @@ Parliamentary Under-Secretary of State,
 
 Department of Trade and Industry
 
-## SCHEDULE 1 — REVOCATIONS[^key-7db36372c131d4328c42c0cf382e8fe9]
+## SCHEDULE 1 — REVOCATIONS[^c-7db36372c131d4328c42c0cf382e8fe9]
 
 Regulation 1(2)
 
@@ -438,7 +438,7 @@ Regulation 1(2)
 | The Weights and Measures (Amendment) Regulation 1970 | S.I. [1970/1711](https://www.legislation.gov.uk/uksi/1970/1711) | The whole Regulations so far as unrevoked |
 | The Weights and Measures (Amendment) Regulations 1974 | S.I. [1974/1326](https://www.legislation.gov.uk/uksi/1974/1326) | The whole Regulations |
 
-## SCHEDULE 2 — PRESCRIBED LIMITS OF ERROR FOR CAPACITY MEASURES OTHER THAN DISPENSING MEASURES FOR PHARMACEUTICAL PURPOSES[^key-80e04473c6662aed265389a19559c90f]
+## SCHEDULE 2 — PRESCRIBED LIMITS OF ERROR FOR CAPACITY MEASURES OTHER THAN DISPENSING MEASURES FOR PHARMACEUTICAL PURPOSES[^c-80e04473c6662aed265389a19559c90f]
 
 Regulation 15
 
@@ -475,7 +475,7 @@ Regulation 15
 </tbody>
 </table>
 
-[^key-62f54c83c86c398a4cd560262151ebdc][^f01000][^f01000][^f01000][^key-2773b55453ab710d88504c6ddcdaacd6][^f01000]
+[^c-62f54c83c86c398a4cd560262151ebdc][^f01000][^f01000][^f01000][^c-2773b55453ab710d88504c6ddcdaacd6][^f01000]
 
 (This note is not part of the Regulations)
 
@@ -512,9 +512,9 @@ A Compliance Cost Assessment of the impact that these Regulations will have on b
 
 [^f00001]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72); section 94(1) contains a definition of “prescribed”.
 
-[^key-6c734565284947d0a4f2921aa5f68162]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/735/regulation/1) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-6c734565284947d0a4f2921aa5f68162]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/735/regulation/1) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-f7650a0c6a5f5ff3a3b8a5810977721c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/735/regulation/2) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-f7650a0c6a5f5ff3a3b8a5810977721c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/735/regulation/2) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
 [^f00002]: Footnote: ISBN No. 0 580 12515 7, published by the British Standards Institution in April 1952, as amended in February 1982.
 
@@ -526,86 +526,86 @@ A Compliance Cost Assessment of the impact that these Regulations will have on b
 
 [^f00006]: Footnote: ISBN No. 0 580 15076 3, published by the British Standards Institution on 28th February 1986.
 
-[^key-4bc0e9c78f214f44fba7b0f1241dbacf]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4bc0e9c78f214f44fba7b0f1241dbacf]: Textual amendment: Words in reg. 2(1) omitted (31.12.2020) by virtue of [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(2)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote: *See* S.I. [1968/1615](https://www.legislation.gov.uk/uksi/1968/1615).
 
 [^f00008]: Footnote: S.I. [1986/1685](https://www.legislation.gov.uk/uksi/1986/1685).
 
-[^key-93f021ce77a406cdabdfa8cc9830aad8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/735/regulation/3) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-93f021ce77a406cdabdfa8cc9830aad8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/735/regulation/3) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
 [^f00009]: Footnote: S.I. [1988/120](https://www.legislation.gov.uk/uksi/1988/120), to which there are amendments not relevant to these Regulations.
 
 [^f00010]: Footnote: S.I. [1986/2049](https://www.legislation.gov.uk/uksi/1986/2049), to which there are amendments not relevant to these Regulations.
 
-[^key-5f8850e186ec6112c636fe849744680c]: Textual amendment: Reg. 3(1)(g) inserted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/a/i)
+[^c-5f8850e186ec6112c636fe849744680c]: Textual amendment: Reg. 3(1)(g) inserted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/a/i)
 
-[^key-8f315a9c28fc2ef0dd9f419bd0a5a531]: Textual amendment: Word in reg. 3(2) substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/a/ii)
+[^c-8f315a9c28fc2ef0dd9f419bd0a5a531]: Textual amendment: Word in reg. 3(2) substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/a/ii)
 
-[^key-145fd03a91d6ab4b31caeae43e470d68]: Textual amendment: Words in reg. 3(4) substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/a/iii)
+[^c-145fd03a91d6ab4b31caeae43e470d68]: Textual amendment: Words in reg. 3(4) substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/a/iii)
 
-[^key-d28f45d9766c625b1d8512a3cb3847f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/735/regulation/4) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-d28f45d9766c625b1d8512a3cb3847f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/735/regulation/4) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-b4d474e8561bd7d65cc5b2d129f4e037]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/735/regulation/5) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-b4d474e8561bd7d65cc5b2d129f4e037]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/735/regulation/5) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-7aa37817e18e1e53a3f0cedafaaa2e9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/735/regulation/6) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-7aa37817e18e1e53a3f0cedafaaa2e9b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/735/regulation/6) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-2cfcc6f0882e3956045ab275fc8ec273]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/735/regulation/7) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-2cfcc6f0882e3956045ab275fc8ec273]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/735/regulation/7) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-d556ed7f1bb5686166564dd5a2fd9c82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/735/regulation/8) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-d556ed7f1bb5686166564dd5a2fd9c82]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/735/regulation/8) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-4b5288c6804d187f7c42ab403803d710]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/735/regulation/9) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-4b5288c6804d187f7c42ab403803d710]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/735/regulation/9) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1990/2626](https://www.legislation.gov.uk/uksi/1990/2626) as amended by regulation 19 of these Regulations.
 
-[^key-2dea84cffda662ba5a99d3d5e05527f5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/735/regulation/10) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-2dea84cffda662ba5a99d3d5e05527f5]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/735/regulation/10) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-7a7471b998a3aa411841789001cd5f5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/735/regulation/11) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-7a7471b998a3aa411841789001cd5f5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/735/regulation/11) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-2ddba8e01d0682a9bbac8f367f1003b1]: Textual amendment: Words in reg. 11 substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/b)
+[^c-2ddba8e01d0682a9bbac8f367f1003b1]: Textual amendment: Words in reg. 11 substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/b)
 
-[^key-c2551e3028dbc3b0857f774e89171877]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/735/regulation/12) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-c2551e3028dbc3b0857f774e89171877]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/735/regulation/12) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-97c0cd2c975c891816c54ec9f034b703]: Textual amendment: Word in reg. 12(1)(a) inserted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/c/i)
+[^c-97c0cd2c975c891816c54ec9f034b703]: Textual amendment: Word in reg. 12(1)(a) inserted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/c/i)
 
-[^key-ed908faeea229584c266170a50e39474]: Textual amendment: Words in reg. 12(4)(a) omitted (3.4.2001) by virtue of [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/c/ii)
+[^c-ed908faeea229584c266170a50e39474]: Textual amendment: Words in reg. 12(4)(a) omitted (3.4.2001) by virtue of [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/c/ii)
 
-[^key-c30682772164e2d4352fbcd900374933]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/735/regulation/13) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-c30682772164e2d4352fbcd900374933]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/735/regulation/13) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-9932c16b1cc8376232fde07fc6877511]: Textual amendment: Words in reg. 13 heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9932c16b1cc8376232fde07fc6877511]: Textual amendment: Words in reg. 13 heading substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fce719374174c2da8cc2a20b3a084cb]: Textual amendment: Words in reg. 13(1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fce719374174c2da8cc2a20b3a084cb]: Textual amendment: Words in reg. 13(1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8af831929414e9f1be69d3a6b529f149]: Textual amendment: Reg. 13(3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/6)
+[^c-8af831929414e9f1be69d3a6b529f149]: Textual amendment: Reg. 13(3) substituted (28.2.2003) by [The Weights and Measures (Standards Amendment)Regulations 2003 (S.I. 2003/214)](https://www.legislation.gov.uk/uksi/2003/214), [reg. 1](https://www.legislation.gov.uk/uksi/2003/214/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2003/214/schedule/paragraph/6)
 
-[^key-8e3e718f52e1e7cbc4a4ecda250e39d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/735/regulation/14) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-8e3e718f52e1e7cbc4a4ecda250e39d2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/735/regulation/14) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-5ada40c639fbc63823aab01b1461f235]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1995/735/regulation/15) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-5ada40c639fbc63823aab01b1461f235]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1995/735/regulation/15) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-8d68dd9f60b88b5240944cea255432ab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1995/735/regulation/16) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-8d68dd9f60b88b5240944cea255432ab]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1995/735/regulation/16) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-96a6026bb74dfdd25752348c1463f8c0]: Textual amendment: Words in reg. 16(1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96a6026bb74dfdd25752348c1463f8c0]: Textual amendment: Words in reg. 16(1) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f436901960ef7d10f1fa7681d7549b31]: Textual amendment: Words in reg. 16(2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f436901960ef7d10f1fa7681d7549b31]: Textual amendment: Words in reg. 16(2) substituted (31.12.2020) by [The Weighing and Measuring Equipment and Meters (Amendment of Secondary Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1387)](https://www.legislation.gov.uk/uksi/2018/1387), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1387/regulation/1/2), [Sch. para. 6(4)](https://www.legislation.gov.uk/uksi/2018/1387/schedule/paragraph/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a77c55fd217a0ee4092c79471945017]: Textual amendment: Words in reg. 16(7)(b) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/f)
+[^c-6a77c55fd217a0ee4092c79471945017]: Textual amendment: Words in reg. 16(7)(b) omitted (1.1.2010) by virtue of [The Weights and Measures (Metrication Amendments) Regulations 2009 (S.I. 2009/3045)](https://www.legislation.gov.uk/uksi/2009/3045), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3045/regulation/1), [3(2)(f)](https://www.legislation.gov.uk/uksi/2009/3045/regulation/3/2/f)
 
-[^key-2676f532de16743f5afe12aa3c7af958]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1995/735/regulation/17) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-2676f532de16743f5afe12aa3c7af958]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1995/735/regulation/17) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-e110bf3bc31aef4ab664cba82e1438e5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1995/735/regulation/18) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-e110bf3bc31aef4ab664cba82e1438e5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1995/735/regulation/18) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-71db16c95ffddd9978f0b6700bbb6327]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1995/735/regulation/19) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-71db16c95ffddd9978f0b6700bbb6327]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1995/735/regulation/19) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
 [^f00013]: Footnote: S.I. [1990/2626](https://www.legislation.gov.uk/uksi/1990/2626).
 
-[^key-7db36372c131d4328c42c0cf382e8fe9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/735/schedule/1) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-7db36372c131d4328c42c0cf382e8fe9]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1995/735/schedule/1) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-80e04473c6662aed265389a19559c90f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1995/735/schedule/2) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
+[^c-80e04473c6662aed265389a19559c90f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1995/735/schedule/2) in force at 10.4.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/735/regulation/1/1)
 
-[^key-62f54c83c86c398a4cd560262151ebdc]: Textual amendment: Words in Sch. 2 Note 2 inserted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/e)
+[^c-62f54c83c86c398a4cd560262151ebdc]: Textual amendment: Words in Sch. 2 Note 2 inserted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/e)
 
 [^f01000]: Footnote: \*
 
     for measuring intoxicating liquor only.
 
-[^key-2773b55453ab710d88504c6ddcdaacd6]: Textual amendment: Words in Sch. 2 Table substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/d)
+[^c-2773b55453ab710d88504c6ddcdaacd6]: Textual amendment: Words in Sch. 2 Table substituted (3.4.2001) by [The Measuring Equipment (Capacity Measures) (Amendment) Regulations 2001 (S.I. 2001/599)](https://www.legislation.gov.uk/uksi/2001/599), [regs. 1](https://www.legislation.gov.uk/uksi/2001/599/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/2001/599/regulation/4/d)

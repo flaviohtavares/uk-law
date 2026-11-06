@@ -111,7 +111,7 @@ In accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawa
 - [Section 31 — Amendment of the Recreational Craft Regulations 2017 and related amendment](part-3/section-31.md)
 - [Section 32 — Amendment of the Radio Equipment Regulations 2017 and related amendments](part-3/section-32.md)
 
-### PART 4 — Amendment of subordinate legislation relating to Northern Ireland[^key-f86fb4477c1d1567b016c2e3f5f26874]
+### PART 4 — Amendment of subordinate legislation relating to Northern Ireland[^c-f86fb4477c1d1567b016c2e3f5f26874]
 
 *Extent: E+W+S*
 
@@ -196,4 +196,4 @@ An impact assessment has been prepared and will be made available from the Depar
 
 [^c24326001]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-f86fb4477c1d1567b016c2e3f5f26874]: Textual amendment: Pt. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)
+[^c-f86fb4477c1d1567b016c2e3f5f26874]: Textual amendment: Pt. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Product Safety and Metrology etc. (Amendment to Extent and Meaning of Market) (EU Exit) Regulations 2020 (S.I. 2020/676)](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2020/676/regulation/3)

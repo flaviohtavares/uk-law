@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Modification of section 115 of the Police Act 1997[^key-0ae091fc2f44b84c67c7570569b02f6e]
+## 92. Modification of section 115 of the Police Act 1997[^c-0ae091fc2f44b84c67c7570569b02f6e]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0ae091fc2f44b84c67c7570569b02f6e]: Commencement: Art. 92 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-0ae091fc2f44b84c67c7570569b02f6e]: Commencement: Art. 92 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00078]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 

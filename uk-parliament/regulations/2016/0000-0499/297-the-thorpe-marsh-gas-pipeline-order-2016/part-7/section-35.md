@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Guarantees in respect of payment of compensation[^key-48c53105b9f7519810aabb186ed50b30]
+## 35. Guarantees in respect of payment of compensation[^c-48c53105b9f7519810aabb186ed50b30]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48c53105b9f7519810aabb186ed50b30]: Commencement: Art. 35 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-48c53105b9f7519810aabb186ed50b30]: Commencement: Art. 35 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

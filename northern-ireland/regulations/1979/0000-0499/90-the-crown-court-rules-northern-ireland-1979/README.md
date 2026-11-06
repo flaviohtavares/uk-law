@@ -99,7 +99,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 - [Section 34 — Procedure on application under section 2(2)(e) of the Grand Jury (Abolition) Act (Northern Ireland) 1969](part-iv/section-34.md)
 - [Section 38 — Duty to furnish copy of indictment](part-iv/section-38.md)
 
-### PART V — REFERENCES TO THE EUROPEAN COURT[^key-d93ebaa37d5eff05a8d50974a32298ba]
+### PART V — REFERENCES TO THE EUROPEAN COURT[^c-d93ebaa37d5eff05a8d50974a32298ba]
 
 *Extent: N.I.*
 
@@ -185,7 +185,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 - [Section 62A — Record of telephone link before a nominated court](part-7/section-62a.md)
 - [Section 62B — Restriction on access to records kept under rules 60, 62, and 62A](part-7/section-62b.md)
 
-### PART VIIIA — APPLICATIONS UNDER THE CRIMINAL JUSTICE (EUROPEAN INVESTIGATION ORDER) REGULATIONS 2017[^key-64732baff452006911723e6c1ae56c9c]
+### PART VIIIA — APPLICATIONS UNDER THE CRIMINAL JUSTICE (EUROPEAN INVESTIGATION ORDER) REGULATIONS 2017[^c-64732baff452006911723e6c1ae56c9c]
 
 *Extent: N.I.*
 
@@ -201,7 +201,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 - [Section 62L — Application to vary or revoke a search warrant or other order issued to give effect to a European investigation order or to authorise the release of evidence seized or produced](part-viiia/section-62l.md)
 - [Section 62M — Restriction on access to records](part-viiia/section-62m.md)
 
-### PART VIIIB — APPLICATIONS FOR ORDERS FOR ACCESS TO ELECTRONIC DATA UNDER THE CRIME (OVERSEAS PRODUCTION ORDERS) ACT 2019[^key-4ab2c78521b9219a082b7e94b7304520]
+### PART VIIIB — APPLICATIONS FOR ORDERS FOR ACCESS TO ELECTRONIC DATA UNDER THE CRIME (OVERSEAS PRODUCTION ORDERS) ACT 2019[^c-4ab2c78521b9219a082b7e94b7304520]
 
 - [Section 62N — Interpretation](part-viiib/section-62n.md)
 - [Section 62O — Application for an overseas production order](part-viiib/section-62o.md)
@@ -313,15 +313,15 @@ The Judicature (Northern Ireland) Act 1978 provides for the establishment of a n
 
 [^f00029]: Footnote: [1968 c. 10 (N.I.)](https://www.legislation.gov.uk/apni/1968/10)
 
-[^key-d93ebaa37d5eff05a8d50974a32298ba]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisr/1979/90/part/V) omitted (31.12.2020) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/233)](https://www.legislation.gov.uk/nisr/2019/233), [rules 1](https://www.legislation.gov.uk/nisr/2019/233/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/233/rule/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d93ebaa37d5eff05a8d50974a32298ba]: Textual amendment: [Pt. V](https://www.legislation.gov.uk/nisr/1979/90/part/V) omitted (31.12.2020) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/233)](https://www.legislation.gov.uk/nisr/2019/233), [rules 1](https://www.legislation.gov.uk/nisr/2019/233/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2019/233/rule/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00103]: Footnote: Part VII substituted by [S.R. 1996 No. 281](https://www.legislation.gov.uk/nisr/1996/281) with effect from 25.08.96
 
 [^f00107]: Footnote: Part VIII substituted by [S.R. 2004 No. 233](https://www.legislation.gov.uk/nisr/2004/233) with effect from 17.05.04
 
-[^key-64732baff452006911723e6c1ae56c9c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/1979/90/part/8A) inserted (22.2.2018) by [The Crown Court (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/24)](https://www.legislation.gov.uk/nisr/2018/24), [rule 1](https://www.legislation.gov.uk/nisr/2018/24/rule/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2018/24/schedule/1)
+[^c-64732baff452006911723e6c1ae56c9c]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/1979/90/part/8A) inserted (22.2.2018) by [The Crown Court (Amendment) Rules (Northern Ireland) 2018 (S.R. 2018/24)](https://www.legislation.gov.uk/nisr/2018/24), [rule 1](https://www.legislation.gov.uk/nisr/2018/24/rule/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2018/24/schedule/1)
 
-[^key-4ab2c78521b9219a082b7e94b7304520]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/nisr/1979/90/part/8B) inserted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rule 1(3)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2021/16/schedule)
+[^c-4ab2c78521b9219a082b7e94b7304520]: Textual amendment: [Pt. 8B](https://www.legislation.gov.uk/nisr/1979/90/part/8B) inserted (22.2.2021) by [The Crown Court (Amendment) Rules (Northern Ireland) 2021 (S.R. 2021/16)](https://www.legislation.gov.uk/nisr/2021/16), [rule 1(3)](https://www.legislation.gov.uk/nisr/2021/16/rule/1/3), [Sch.](https://www.legislation.gov.uk/nisr/2021/16/schedule)
 
 [^f00113]: Footnote: Inserted by [S.R. 1999 No. 491](https://www.legislation.gov.uk/nisr/1999/491) with effect from 17.01.00
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Liability for unlawful conduct of member of Ministry of Defence Police[^key-15ba2c1cdd3ba69cd1a6d4450fea6aef]
+## 7. Liability for unlawful conduct of member of Ministry of Defence Police[^c-15ba2c1cdd3ba69cd1a6d4450fea6aef]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-15ba2c1cdd3ba69cd1a6d4450fea6aef]: Commencement: Art. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-15ba2c1cdd3ba69cd1a6d4450fea6aef]: Commencement: Art. 7 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
 
 [^f00022]: Footnote: Section 2A was inserted by the Anti-terrorism, Crime and Security Act [2001 (c.24)](https://www.legislation.gov.uk/ukpga/2001/24), section 99. There are amendments to section 2A not relevant to this Order.

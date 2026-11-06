@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-### 1. Restraint and seclusion[^key-ee2aab78d7c59615e1aebf4e75325e54]
+### 1. Restraint and seclusion[^c-ee2aab78d7c59615e1aebf4e75325e54]
 
 (1) In this Act—
 
@@ -56,7 +56,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Before laying a draft of a Scottish statutory instrument containing regulations under subsection (4) before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider appropriate.
 
-### 2. Guidance on restraint and seclusion in schools[^key-3339263542a9d7eb1b454bb074fbc8a8]
+### 2. Guidance on restraint and seclusion in schools[^c-3339263542a9d7eb1b454bb074fbc8a8]
 
 (1) The Scottish Ministers must issue guidance to education providers about the use of restraint and seclusion in schools.
 
@@ -97,7 +97,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (9) Guidance and revised guidance issued under this section must be published in such manner as the Scottish Ministers consider appropriate.
 
-### 3. Duty to inform parents of use of restraint or seclusion[^key-337a3291e12277017b2ef804d0a84fd2]
+### 3. Duty to inform parents of use of restraint or seclusion[^c-337a3291e12277017b2ef804d0a84fd2]
 
 (1) Where a pupil is subject to restraint or seclusion in a school, the responsible person for that school must inform the parent of the pupil of—
 
@@ -121,7 +121,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (c) in relation to a grant-aided school, the managers of the school,
 - “**end of the school day**” means, for any day on which the school is open to its pupils for the purpose of their school education, the time at which the pupils are dismissed from school.
 
-### 4. Duty to record and report on use of restraint and seclusion[^key-b6bac517946937a3f93128d02863bc4e]
+### 4. Duty to record and report on use of restraint and seclusion[^c-b6bac517946937a3f93128d02863bc4e]
 
 (1) Each education provider must record all incidences of the use of restraint or seclusion in its schools.
 
@@ -165,7 +165,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) the period beginning with the date on which this Act comes into force and ending on the following 31 July, and
 - (b) each subsequent period of one year beginning on 1 August.
 
-### 5. Training standards[^key-a28e0144a2de841191be91c6e6346f37]
+### 5. Training standards[^c-a28e0144a2de841191be91c6e6346f37]
 
 (1) The Scottish Ministers may—
 
@@ -178,7 +178,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## General
 
-### 6. Interpretation[^key-8a1d0cf49eccbe3afab17678551aed53]
+### 6. Interpretation[^c-8a1d0cf49eccbe3afab17678551aed53]
 
 (1) References in this Act to an “education provider” are references to—
 
@@ -200,7 +200,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**school**” (but here the expression does not include a nursery school or a nursery class in a school within the meaning of that section),
 - “**young person**”.
 
-### 7. Regulation-making powers[^key-68cc5d7c7e1d5c35b848a3f36912894b]
+### 7. Regulation-making powers[^c-68cc5d7c7e1d5c35b848a3f36912894b]
 
 (1) A power to make regulations conferred by this Act includes the power to make different provision for different purposes or different areas.
 
@@ -208,7 +208,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) This section does not apply to regulations under section 9(2).
 
-### 8. Ancillary provision[^key-a259be1116ae7aa668efaa1101122e51]
+### 8. Ancillary provision[^c-a259be1116ae7aa668efaa1101122e51]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -219,7 +219,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-### 9. Commencement[^key-f1d38509bea202a28563824b9d5d63ad]
+### 9. Commencement[^c-f1d38509bea202a28563824b9d5d63ad]
 
 (1) This section and sections 6, 7, 8 and 10 come into force on the day after Royal Assent.
 
@@ -232,28 +232,28 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) The Scottish Ministers must make regulations under subsection (2) no later than 31 July 2028.
 
-### 10. Short title[^key-539c662a80edc89cedca3f3a67439c37]
+### 10. Short title[^c-539c662a80edc89cedca3f3a67439c37]
 
 The short title of this Act is the Restraint and Seclusion in Schools (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-ee2aab78d7c59615e1aebf4e75325e54]: Commencement: S. 1 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
+[^c-ee2aab78d7c59615e1aebf4e75325e54]: Commencement: S. 1 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
 
-[^key-3339263542a9d7eb1b454bb074fbc8a8]: Commencement: S. 2 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
+[^c-3339263542a9d7eb1b454bb074fbc8a8]: Commencement: S. 2 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
 
-[^key-337a3291e12277017b2ef804d0a84fd2]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
+[^c-337a3291e12277017b2ef804d0a84fd2]: Commencement: S. 3 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
 
-[^key-b6bac517946937a3f93128d02863bc4e]: Commencement: S. 4 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
+[^c-b6bac517946937a3f93128d02863bc4e]: Commencement: S. 4 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
 
-[^key-a28e0144a2de841191be91c6e6346f37]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
+[^c-a28e0144a2de841191be91c6e6346f37]: Commencement: S. 5 not in force at Royal Assent, see [s. 9(2)](https://www.legislation.gov.uk/asp/2026/19/section/9/2)
 
-[^key-8a1d0cf49eccbe3afab17678551aed53]: Commencement: S. 6 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
+[^c-8a1d0cf49eccbe3afab17678551aed53]: Commencement: S. 6 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
 
-[^key-68cc5d7c7e1d5c35b848a3f36912894b]: Commencement: S. 7 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
+[^c-68cc5d7c7e1d5c35b848a3f36912894b]: Commencement: S. 7 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
 
-[^key-a259be1116ae7aa668efaa1101122e51]: Commencement: S. 8 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
+[^c-a259be1116ae7aa668efaa1101122e51]: Commencement: S. 8 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
 
-[^key-f1d38509bea202a28563824b9d5d63ad]: Commencement: S. 9 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
+[^c-f1d38509bea202a28563824b9d5d63ad]: Commencement: S. 9 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
 
-[^key-539c662a80edc89cedca3f3a67439c37]: Commencement: S. 10 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)
+[^c-539c662a80edc89cedca3f3a67439c37]: Commencement: S. 10 in force at 27.5.2026, see [s. 9(1)](https://www.legislation.gov.uk/asp/2026/19/section/9/1)

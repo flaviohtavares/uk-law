@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Objective of Office of Rail and Road in relation to Crossrail[^key-b229e4e89daabe9ca79ac2708a35c788]
+## 22. Objective of Office of Rail and Road in relation to Crossrail[^c-b229e4e89daabe9ca79ac2708a35c788]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b229e4e89daabe9ca79ac2708a35c788]: Textual amendment: Words in s. 22 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(t)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/t/i)
+[^c-b229e4e89daabe9ca79ac2708a35c788]: Textual amendment: Words in s. 22 substituted (E.W.S.) (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(t)(i)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/Pt/paragraph/4/t/i)

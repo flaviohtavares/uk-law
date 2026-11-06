@@ -31,29 +31,29 @@ Fishery Limits Act 1976
 
 An Act to extend British fishery limits and make further provision in connection with the regulation of sea fishing.
 
-\[22nd December 1976\][^c801865][^key-522c5d53c6ebf6a8ee08634c2b8992c8]
+\[22nd December 1976\][^c801865][^c-522c5d53c6ebf6a8ee08634c2b8992c8]
 
 ## Extension of British fishery limits
 
 ### 1. British fishery limits.[^M_C_67fc71a9-6d0c-4214-f71c-81ea304cb0b8]
 
-(1)[^key-728e743c07b28b089a6a919691cb82e1] Subject to the following provisions of this section, British fishery limits extend to the seaward limits of any area for the time being designated by Order in Council under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone).
+(1)[^c-728e743c07b28b089a6a919691cb82e1] Subject to the following provisions of this section, British fishery limits extend to the seaward limits of any area for the time being designated by Order in Council under section 41(3) of the Marine and Coastal Access Act 2009 (exclusive economic zone).
 
 (2) Her Majesty may by Order in Council, for the purpose of implementing any international agreement or the arbitral award of an international body, or otherwise, declare that British fishery limits extend to such other line as may be specified in the Order.
 
-(3)[^key-a1f643f79f64b195fad8afe4c751217f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a1f643f79f64b195fad8afe4c751217f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-a1f643f79f64b195fad8afe4c751217f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a1f643f79f64b195fad8afe4c751217f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subject to section 10(2)(*b*) below, references to British fishery limits in any enactment for the time being in force relating to sea fishing or whaling are to the limits set by or under this section.
 
-### 2. Access to British fisheries.[^key-2e3e0e991ecb91528a59d83e50996d0c]
+### 2. Access to British fisheries.[^c-2e3e0e991ecb91528a59d83e50996d0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Regulation of sea fishing, etc.
 
-### 3. Licensing of fishing boats.[^key-063ff5df8c65e0241bf43896d43c1357]
+### 3. Licensing of fishing boats.[^c-063ff5df8c65e0241bf43896d43c1357]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -103,11 +103,11 @@ In this Act—
 - “**miles**” means international nautical miles of 1,852 metres;
 - “**the Ministers**” means , in relation to England and Wales and Northern Ireland,[^c801907] the Minister of Agriculture, Fisheries and Food and the Secretaries of State concerned with sea fishing in Scotland and Northern Ireland respectively and, in relation to Scotland, the Scottish Ministers;
 
-- [^key-78601a19f871703d5911d7a0916f05a8]...
-- [^key-78601a19f871703d5911d7a0916f05a8]...
+- [^c-78601a19f871703d5911d7a0916f05a8]...
+- [^c-78601a19f871703d5911d7a0916f05a8]...
 
-- [^key-78601a19f871703d5911d7a0916f05a8]...
-- [^key-78601a19f871703d5911d7a0916f05a8]...
+- [^c-78601a19f871703d5911d7a0916f05a8]...
+- [^c-78601a19f871703d5911d7a0916f05a8]...
 
 ### 9. Amendments, transitional provisions and repeals.
 
@@ -160,7 +160,7 @@ Section 5.
 
 ### Sea Fisheries Regulation Act 1966 (c. 38)
 
-**1.**[^key-da60755a06e369a75e49d5f0fbfccf01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-da60755a06e369a75e49d5f0fbfccf01] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Sea Fish (Conservation) Act 1967 (c.84)
 
@@ -210,7 +210,7 @@ Section 9(1).
 
 ### Fisheries Act 1891 (c. 37)
 
-**7.**[^key-7e7df3fc8a5aa27fa204f6cdc6ea8a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7e7df3fc8a5aa27fa204f6cdc6ea8a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Whale Fisheries (Scotland) Act 1907 (c. 41)
 
@@ -230,7 +230,7 @@ Section 9(1).
 
 ### Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951 (c. 26)
 
-**12.**[^key-947f74524b2cfaf68f0c7bc8c8989e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-947f74524b2cfaf68f0c7bc8c8989e88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Weights and Measures Act 1963 (c. 31)
 
@@ -292,7 +292,7 @@ Section 9(2).
 
 ### Designation orders
 
-**1.**[^key-54801637ecea37fbd30456f87ee89db8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-54801637ecea37fbd30456f87ee89db8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Fish size orders.
 
@@ -353,7 +353,7 @@ Section 9(2).
 
 ### Stowage of gear orders
 
-**7.**[^key-97b041a69911ab43b4f4350e48275bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-97b041a69911ab43b4f4350e48275bdd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### General
 
@@ -394,17 +394,17 @@ Section 9(3).
 
     Act: power to transfer functions conferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-522c5d53c6ebf6a8ee08634c2b8992c8]: Modification: Act: transfer of functions (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [4(1)(d)](https://www.legislation.gov.uk/uksi/2010/760/article/4/1/d) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2010/760/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2010/760/article/5/3))
+[^c-522c5d53c6ebf6a8ee08634c2b8992c8]: Modification: Act: transfer of functions (31.3.2010) by [The Welsh Zone (Boundaries and Transfer of Functions) Order 2010 (S.I. 2010/760)](https://www.legislation.gov.uk/uksi/2010/760), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2010/760/article/1/3), [4(1)(d)](https://www.legislation.gov.uk/uksi/2010/760/article/4/1/d) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2010/760/article/5/2)[(3)](https://www.legislation.gov.uk/uksi/2010/760/article/5/3))
 
 [^M_C_67fc71a9-6d0c-4214-f71c-81ea304cb0b8]: Modification: S. 1: power to repeal, substitute or amend conferred (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 2(4)(5)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/4); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
-[^key-728e743c07b28b089a6a919691cb82e1]: Textual amendment: S. 1(1) substituted (12.11.2009 for specified purposes, 31.3.2014 in so far as not already in force ) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-728e743c07b28b089a6a919691cb82e1]: Textual amendment: S. 1(1) substituted (12.11.2009 for specified purposes, 31.3.2014 in so far as not already in force ) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)[(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/d), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
-[^key-a1f643f79f64b195fad8afe4c751217f]: Textual amendment: S. 1(3)(4) repealed (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/3), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/1); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
+[^c-a1f643f79f64b195fad8afe4c751217f]: Textual amendment: S. 1(3)(4) repealed (31.3.2014) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/paragraph/2/3), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/1); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2); [S.I. 2013/3055](https://www.legislation.gov.uk/uksi/2013/3055), [art. 2](https://www.legislation.gov.uk/uksi/2013/3055/article/2)
 
-[^key-2e3e0e991ecb91528a59d83e50996d0c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1976/86/section/2) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-2e3e0e991ecb91528a59d83e50996d0c]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1976/86/section/2) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(1)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/1) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-063ff5df8c65e0241bf43896d43c1357]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1976/86/section/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/7) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-063ff5df8c65e0241bf43896d43c1357]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1976/86/section/3) omitted (31.12.2020) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/7) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c801891]: Modification: The text of ss. 3–5, 9(1)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -424,7 +424,7 @@ Section 9(3).
 
 [^c801907]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1976/86/section/8) inserted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [art. 4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. 1 para. 57(3)(b)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/1/paragraph/57/3/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-78601a19f871703d5911d7a0916f05a8]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1976/86/section/8) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-78601a19f871703d5911d7a0916f05a8]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/ukpga/1976/86/section/8) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c801912]: Modification: The text of ss. 3–5, 9(1)(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
@@ -432,7 +432,7 @@ Section 9(3).
 
 [^c801915]: Modification: 1.1.1977 appointed under s. 12(2) by [S.I. 1976/2215](https://www.legislation.gov.uk/uksi/1976/2215), [art. 2](https://www.legislation.gov.uk/uksi/1976/2215/article/2)
 
-[^key-da60755a06e369a75e49d5f0fbfccf01]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/1) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-da60755a06e369a75e49d5f0fbfccf01]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/1) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8), [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
 [^c801917]: Textual amendment: [Sch. 1 paras. 2](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/2), [3(2)](https://www.legislation.gov.uk/ukpga/1976/86/schedule/1/paragraph/3/2) repealed by [Fisheries Act 1981 (c. 29, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1981/29), [s. 46](https://www.legislation.gov.uk/ukpga/1981/29/section/46), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1981/29/schedule/5/part/II)
 
@@ -454,13 +454,13 @@ Section 9(3).
 
 [^c801926]: Textual amendment: [Sch. 2 paras. 4](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/4), [6](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/6) repealed (S.) by [Inshore Fishing (Scotland) Act 1984 (c. 26, SIF 52:1)](https://www.legislation.gov.uk/ukpga/1984/26), [s. 10(2)](https://www.legislation.gov.uk/ukpga/1984/26/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1984/26/schedule/2)
 
-[^key-7e7df3fc8a5aa27fa204f6cdc6ea8a13]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/2)
+[^c-7e7df3fc8a5aa27fa204f6cdc6ea8a13]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/7) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/2)
 
 [^c801927]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/8) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Pt.II](https://www.legislation.gov.uk/ukpga/1993/50/part/II)
 
 [^c801928]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/9) repealed by [Weights and Measures Act 1979 (c. 45, SIF 131)](https://www.legislation.gov.uk/ukpga/1979/45), [s. 23(2)](https://www.legislation.gov.uk/ukpga/1979/45/section/23/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1979/45/schedule/7)
 
-[^key-947f74524b2cfaf68f0c7bc8c8989e88]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/12) repealed (15.11.2006) by [Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
+[^c-947f74524b2cfaf68f0c7bc8c8989e88]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/12) repealed (15.11.2006) by [Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
 
 [^c801929]: Textual amendment: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/13) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1), [Pt.II](https://www.legislation.gov.uk/ukpga/1993/50/part/II)
 
@@ -476,7 +476,7 @@ Section 9(3).
 
 [^c801937]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1976/86/schedule/2/paragraph/19) repealed (E.W.) by [Water Act 1989 (c. 15, SIF 130)](https://www.legislation.gov.uk/ukpga/1989/15), [s. 190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [Sch. 27 Pt. I](https://www.legislation.gov.uk/ukpga/1989/15/schedule/27/part/I) (with [ss. 58(7)](https://www.legislation.gov.uk/ukpga/1989/15/section/58/7), [101(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/101/1), [141(6)](https://www.legislation.gov.uk/ukpga/1989/15/section/141/6), [160(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1989/15/section/160/1/2/4), [163](https://www.legislation.gov.uk/ukpga/1989/15/section/163), [189(4)–(10)](https://www.legislation.gov.uk/ukpga/1989/15/section/189/4), [190](https://www.legislation.gov.uk/ukpga/1989/15/section/190), [193(1)](https://www.legislation.gov.uk/ukpga/1989/15/section/193/1), [194(9)](https://www.legislation.gov.uk/ukpga/1989/15/section/194/9), [Sch. 26 paras. 3(1)(2)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/3/1/2), [17](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/17), [40(4)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/40/4), [41(1)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/41/1), [57(6)](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/57/6), [58](https://www.legislation.gov.uk/ukpga/1989/15/schedule/26/paragraph/58))
 
-[^key-54801637ecea37fbd30456f87ee89db8]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/3/paragraph/1) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-54801637ecea37fbd30456f87ee89db8]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1976/86/schedule/3/paragraph/1) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c801939]: Marginal citation: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
@@ -498,7 +498,7 @@ Section 9(3).
 
 [^c801948]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
 
-[^key-97b041a69911ab43b4f4350e48275bdd]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1976/86/schedule/3/paragraph/7) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-97b041a69911ab43b4f4350e48275bdd]: Textual amendment: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1976/86/schedule/3/paragraph/7) repealed (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/3/2/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c801950]: Marginal citation: [1964 c. 72](https://www.legislation.gov.uk/ukpga/1964/72).
 

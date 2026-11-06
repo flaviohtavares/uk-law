@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Deposit schemes[^key-b8999ef7995b18f50085751e0fb9c20c][^key-a5011bf5665ace4d701d2c7a47641a91]
+## 54. Deposit schemes[^c-b8999ef7995b18f50085751e0fb9c20c][^c-a5011bf5665ace4d701d2c7a47641a91]
 
 *Extent: E+W+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8999ef7995b18f50085751e0fb9c20c]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/30/section/54) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
+[^c-b8999ef7995b18f50085751e0fb9c20c]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/30/section/54) in force at 9.1.2022 for E.W., see [s. 147(2)(d)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/d)
 
-[^key-a5011bf5665ace4d701d2c7a47641a91]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/30/section/54) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)
+[^c-a5011bf5665ace4d701d2c7a47641a91]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2021/30/section/54) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(f)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/f)

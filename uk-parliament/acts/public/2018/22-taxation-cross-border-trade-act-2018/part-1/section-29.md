@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Consequential amendments[^c23439311][^key-5eec86624bfcfaf8e8ebea5f2cb64a6c]
+## 29. Consequential amendments[^c23439311][^c-5eec86624bfcfaf8e8ebea5f2cb64a6c]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-6785c2e6c3d5caaab4f58018bb476d9e] Schedule 7 contains amendments consequential on the provision made by this Part.
+(1)[^c-6785c2e6c3d5caaab4f58018bb476d9e] Schedule 7 contains amendments consequential on the provision made by this Part.
 
 (2) The amendments made by that Schedule include amendments dealing with—
 
@@ -31,6 +31,6 @@ summary: ''
 
 [^c23439311]: Commencement: S. 29 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-5eec86624bfcfaf8e8ebea5f2cb64a6c]: Commencement: S. 29 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-5eec86624bfcfaf8e8ebea5f2cb64a6c]: Commencement: S. 29 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-6785c2e6c3d5caaab4f58018bb476d9e]: Commencement: S. 29(1) in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/2) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))
+[^c-6785c2e6c3d5caaab4f58018bb476d9e]: Commencement: S. 29(1) in force at 8.4.2019 for specified purposes by [S.I. 2019/819](https://www.legislation.gov.uk/uksi/2019/819), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/2) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2019/819/regulation/2/3))

@@ -30,7 +30,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2013 (revoked)[^key-9b6631485bc82759b5984513a2bc21fa]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2013 (revoked)[^c-9b6631485bc82759b5984513a2bc21fa]
 
 Made
 
@@ -42,34 +42,34 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-9b6631485bc82759b5984513a2bc21fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6631485bc82759b5984513a2bc21fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9b6631485bc82759b5984513a2bc21fa]
+## 1. Citation, commencement and interpretation[^c-9b6631485bc82759b5984513a2bc21fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-9b6631485bc82759b5984513a2bc21fa]
+## 2. The earnings percentage[^c-9b6631485bc82759b5984513a2bc21fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The levy ceiling[^key-9b6631485bc82759b5984513a2bc21fa]
+## 3. The levy ceiling[^c-9b6631485bc82759b5984513a2bc21fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The compensation cap[^key-9b6631485bc82759b5984513a2bc21fa]
+## 4. The compensation cap[^c-9b6631485bc82759b5984513a2bc21fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012[^key-9b6631485bc82759b5984513a2bc21fa]
+## 5. Revocation of the Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2012[^c-9b6631485bc82759b5984513a2bc21fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b6631485bc82759b5984513a2bc21fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6631485bc82759b5984513a2bc21fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b6631485bc82759b5984513a2bc21fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b6631485bc82759b5984513a2bc21fa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b6631485bc82759b5984513a2bc21fa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/105) revoked (1.4.2014) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2014 (S.I. 2014/10)](https://www.legislation.gov.uk/uksi/2014/10), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2014/10/article/1/made), [5](https://www.legislation.gov.uk/uksi/2014/10/article/5/made)
+[^c-9b6631485bc82759b5984513a2bc21fa]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/105) revoked (1.4.2014) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2014 (S.I. 2014/10)](https://www.legislation.gov.uk/uksi/2014/10), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2014/10/article/1/made), [5](https://www.legislation.gov.uk/uksi/2014/10/article/5/made)

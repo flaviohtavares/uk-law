@@ -46,11 +46,11 @@ The Department has consulted the Northern Ireland Authority for Utility Regulati
 
 In accordance with Article 66(2) of the 2003 Order, a draft of this Order was laid before and approved by a resolution of the Assembly.
 
-## 1. Citation and commencement[^key-86c55f5eefaec0496600872c4d893ea1]
+## 1. Citation and commencement[^c-86c55f5eefaec0496600872c4d893ea1]
 
 —This Order may be cited as the Renewables Obligation (Amendment) Order (Northern Ireland) 2026 and comes into operation on the day after the day on which it is made.
 
-## 2. Amendments to the Renewables Obligation Order (Northern Ireland) 2009[^key-0b58a1bea8037634d532e989b07c64e9]
+## 2. Amendments to the Renewables Obligation Order (Northern Ireland) 2009[^c-0b58a1bea8037634d532e989b07c64e9]
 
 (1) The Renewables Obligation Order (Northern Ireland) 2009[^f00002] is amended as follows.
 
@@ -60,7 +60,7 @@ In accordance with Article 66(2) of the 2003 Order, a draft of this Order was la
 >   - (a) the consumer prices index calculated and published by the Statistics Board[^f00003] or
 >   - (b) where the index is not published for a month, any substituted index or figures published by the Statistics Board;
 
-**3.**[^key-9187181e28e809e8ad6afcecffaaa64e] In article 40(4) (payments to discharge the renewables obligation)—
+**3.**[^c-9187181e28e809e8ad6afcecffaaa64e] In article 40(4) (payments to discharge the renewables obligation)—
 
 - (a) omit the “and” after sub-paragraph (a);
 - (b) in sub-paragraph (b) for “for each obligation period thereafter”, substitute “for each subsequent obligation period up to and including the obligation period starting on 1<sup>st</sup> April 2025”;
@@ -96,12 +96,12 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: The Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419)
 
-[^key-86c55f5eefaec0496600872c4d893ea1]: Commencement: Art. 1 in operation at 24.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/67/article/1)
+[^c-86c55f5eefaec0496600872c4d893ea1]: Commencement: Art. 1 in operation at 24.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/67/article/1)
 
-[^key-0b58a1bea8037634d532e989b07c64e9]: Commencement: Art. 2 in operation at 24.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/67/article/1)
+[^c-0b58a1bea8037634d532e989b07c64e9]: Commencement: Art. 2 in operation at 24.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/67/article/1)
 
 [^f00002]: Footnote: The Renewables Obligation Order (Northern Ireland) 2009 ([S.R. 2009 No. 154](https://www.legislation.gov.uk/nisr/2009/154)), the relevant amendments are [S.R. 2011 No. 169](https://www.legislation.gov.uk/nisr/2011/169), [S.R. 2014 No. 146](https://www.legislation.gov.uk/nisr/2014/146), [S.R. 2016 No. 110](https://www.legislation.gov.uk/nisr/2016/110) and [S.R. 2021 No. 139](https://www.legislation.gov.uk/nisr/2021/139).
 
 [^f00003]: Footnote: The Statistics Board was established by section 1 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18)
 
-[^key-9187181e28e809e8ad6afcecffaaa64e]: Commencement: Art. 3 in operation at 24.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/67/article/1)
+[^c-9187181e28e809e8ad6afcecffaaa64e]: Commencement: Art. 3 in operation at 24.3.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/67/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97A. Interpretation[^key-4e190a9aa831927548471738e21df1af]
+## 97A. Interpretation[^c-4e190a9aa831927548471738e21df1af]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e190a9aa831927548471738e21df1af]: Textual amendment: [Reg. 97A](https://www.legislation.gov.uk/nisr/2016/216/regulation/97A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/9)
+[^c-4e190a9aa831927548471738e21df1af]: Textual amendment: [Reg. 97A](https://www.legislation.gov.uk/nisr/2016/216/regulation/97A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(9)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/9)

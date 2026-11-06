@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 193. Powers of Tribunal on reference under section 185(1), 187(2) or 189(2) or application under section 191 or 192(2)[^key-72c41152b369ec46a1123b657ab8b443]
+## 193. Powers of Tribunal on reference under section 185(1), 187(2) or 189(2) or application under section 191 or 192(2)[^c-72c41152b369ec46a1123b657ab8b443]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ it shall make no order under this section.
 - (a) is satisfied that the patient has a mental disorder; but
 - (b) is not satisfied—
   - (i) that, as a result of the patient’s mental disorder, it is necessary, in order to protect any other person from serious harm, for the patient to be detained in hospital, whether or not for medical treatment; and
-  - (ii)[^key-fd73447f81b321e90302c28c5c027a57] either—
+  - (ii)[^c-fd73447f81b321e90302c28c5c027a57] either—
     - (A) that the conditions mentioned in paragraphs (b) and (c) of section 182(4) of this Act continue to apply in respect of the patient; or
     - (B) that it continues to be necessary for the patient to be subject to the compulsion order,
 
@@ -94,7 +94,7 @@ it shall make an order varying the compulsion order in that way.
 - (i) the mental health officer; and
 - (j) any other person appearing to the Tribunal to have an interest.
 
-(9A)[^key-1000c960e648f87c987c53d40ee18e0d] Where—
+(9A)[^c-1000c960e648f87c987c53d40ee18e0d] Where—
 
 - (a) a person (“V”) is entitled to make victim's representations before the Tribunal makes a decision under this section, and
 - (b) V has not been afforded the opportunity of making representations under subsection (8),
@@ -105,8 +105,8 @@ before making a decision about what (if any) conditions to impose on the patient
 
 ## Annotations
 
-[^key-72c41152b369ec46a1123b657ab8b443]: Commencement: S. 193 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-72c41152b369ec46a1123b657ab8b443]: Commencement: S. 193 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-fd73447f81b321e90302c28c5c027a57]: Textual amendment: S. 193(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 69(4)](https://www.legislation.gov.uk/asp/2007/10/section/69/4), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
+[^c-fd73447f81b321e90302c28c5c027a57]: Textual amendment: S. 193(4)(b)(ii) substituted (22.3.2007) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 69(4)](https://www.legislation.gov.uk/asp/2007/10/section/69/4), [79(2)](https://www.legislation.gov.uk/asp/2007/10/section/79/2)
 
-[^key-1000c960e648f87c987c53d40ee18e0d]: Textual amendment: [S. 193(9A)](https://www.legislation.gov.uk/asp/2003/13/section/193/9A) inserted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 60(2)](https://www.legislation.gov.uk/asp/2015/9/section/60/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/c)
+[^c-1000c960e648f87c987c53d40ee18e0d]: Textual amendment: [S. 193(9A)](https://www.legislation.gov.uk/asp/2003/13/section/193/9A) inserted (30.9.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 60(2)](https://www.legislation.gov.uk/asp/2015/9/section/60/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/c)

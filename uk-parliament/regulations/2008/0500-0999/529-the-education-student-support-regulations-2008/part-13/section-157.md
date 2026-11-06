@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Payment of grant[^key-a431cac5d0007411cd61e8cca681cf0c]
+## 157. Payment of grant[^c-a431cac5d0007411cd61e8cca681cf0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a431cac5d0007411cd61e8cca681cf0c]: Commencement: Reg. 157 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a431cac5d0007411cd61e8cca681cf0c]: Commencement: Reg. 157 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Tribunal to consider fitness for office[^key-542772b5aaa3a3868b92275f05e31e21]
+## 21. Tribunal to consider fitness for office[^c-542772b5aaa3a3868b92275f05e31e21]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-542772b5aaa3a3868b92275f05e31e21]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/18/section/21) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/77/article/4))
+[^c-542772b5aaa3a3868b92275f05e31e21]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/18/section/21) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/77/article/4))

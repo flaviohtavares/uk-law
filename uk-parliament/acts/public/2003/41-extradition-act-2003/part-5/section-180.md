@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if—
 
 - (a) an order is made under this Act deferring proceedings on an extradition claim in respect of a person (the deferred claim) until another extradition claim in respect of the person has been disposed of, and
-- (b) the other extradition claim is disposed of in the person's favour[^key-63e69c617f24fbd70eea3ad807c97f22].
+- (b) the other extradition claim is disposed of in the person's favour[^c-63e69c617f24fbd70eea3ad807c97f22].
 
 (2) The judge may make an order for proceedings on the deferred claim to be resumed.
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) a Part 1 warrant is issued in respect of him;
 - (b) a request for his extradition is made.
 
-(10)[^key-045733d66152c98b24aba6afb25d87bf] An extradition claim made in respect of a person is disposed of in the person's favour if—
+(10)[^c-045733d66152c98b24aba6afb25d87bf] An extradition claim made in respect of a person is disposed of in the person's favour if—
 
 - (a) in the case of a Part 1 warrant, the warrant is disposed of as mentioned in subsection (1)(a) or (b) of section 213;
 - (b) in the case of a request for extradition, the request is disposed of as mentioned in subsection (2)(a) or (b) of that section.
@@ -56,6 +56,6 @@ summary: ''
 
 [^c2087257]: Commencement: Act wholly in force at 1.1.2004, see s. 221 and [S.I. 2003/3103](https://www.legislation.gov.uk/uksi/2003/3103), [art. 2](https://www.legislation.gov.uk/uksi/2003/3103/article/2) (subject to [arts. 3-5](https://www.legislation.gov.uk/uksi/2003/3103/article/3)) (as amended by [S.I. 2003/3258](https://www.legislation.gov.uk/uksi/2003/3258) art. 2(2) and [S.I. 2003/3312](https://www.legislation.gov.uk/uksi/2003/3312) art. 2(2))
 
-[^key-63e69c617f24fbd70eea3ad807c97f22]: Textual amendment: Words in s. 180(1)(b) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 167(1)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/167/1/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(m)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/m)
+[^c-63e69c617f24fbd70eea3ad807c97f22]: Textual amendment: Words in s. 180(1)(b) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 167(1)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/167/1/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(m)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/m)
 
-[^key-045733d66152c98b24aba6afb25d87bf]: Textual amendment: S. 180(10) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 167(1)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/167/1/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(m)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/m)
+[^c-045733d66152c98b24aba6afb25d87bf]: Textual amendment: S. 180(10) inserted (21.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 167(1)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/167/1/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(m)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/m)

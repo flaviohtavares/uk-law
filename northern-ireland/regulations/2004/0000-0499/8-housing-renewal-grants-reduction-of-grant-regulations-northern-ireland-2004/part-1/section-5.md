@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Requirement to produce national insurance number[^key-a9d82e50937076de4a8528af4e82bd50]
+## 5. Requirement to produce national insurance number[^c-a9d82e50937076de4a8528af4e82bd50]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ Where an application for a grant to which Article 61 (means testing in case of a
 
 ## Annotations
 
-[^key-a9d82e50937076de4a8528af4e82bd50]: Commencement: Reg. 5 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-a9d82e50937076de4a8528af4e82bd50]: Commencement: Reg. 5 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

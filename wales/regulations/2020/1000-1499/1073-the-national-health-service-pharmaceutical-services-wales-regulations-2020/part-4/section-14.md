@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Appeals against decisions under Part 4[^key-c497ed87ab28dfc22cbf7e6c24f46e85]
+## 14. Appeals against decisions under Part 4[^c-c497ed87ab28dfc22cbf7e6c24f46e85]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Parts 1 and 2 of Schedule 4 make provision for appeals to the Welsh Ministers in
 
 ## Annotations
 
-[^key-c497ed87ab28dfc22cbf7e6c24f46e85]: Commencement: Reg. 14 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-c497ed87ab28dfc22cbf7e6c24f46e85]: Commencement: Reg. 14 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

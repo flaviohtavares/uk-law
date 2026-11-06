@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Increase of awards by reference to the Pensions (Increase) Acts[^key-c3f45ab8e1322ad1afb99a88334baea4]
+## 47. Increase of awards by reference to the Pensions (Increase) Acts[^c-c3f45ab8e1322ad1afb99a88334baea4]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c3f45ab8e1322ad1afb99a88334baea4]: Commencement: Reg. 47 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-c3f45ab8e1322ad1afb99a88334baea4]: Commencement: Reg. 47 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00021]: Footnote: Paragraph 43 has been amended by paragraph 8 of Schedule 2 to the Police Pensions Act [1976 (c.35)](https://www.legislation.gov.uk/ukpga/1976/35) and paragraph 18(3) of schedule 7 to the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16)

@@ -408,7 +408,7 @@ Section 95.
 
 **43.** In section 100(a), at the end there shall be added the words “ other than a registered friendly society or branch of such a society ”.
 
-**44.**[^key-685ca1d892dce96bfd3cd0b326710510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-685ca1d892dce96bfd3cd0b326710510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.** Section 106 shall cease to have effect.
 
@@ -504,7 +504,7 @@ Section 95.
 
 [^c15395821]: Commencement: [Sch. 16 para. 42](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/42) wholly in force; [Sch. 16 para. 42](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/42) not in force at Royal Assent see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2); [Sch. 16 para. 42(a)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/42/a) in force at 1.2.1993 by [S.I. 1993/16](https://www.legislation.gov.uk/uksi/1993/16), [art. 2](https://www.legislation.gov.uk/uksi/1993/16/article/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1993/16/schedule/3); [Sch. 16 para. 42(b)(c)](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/42/b/c) in force at 1.1.1994 by [S.I. 1993/3226](https://www.legislation.gov.uk/uksi/1993/3226), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/3226/article/2/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1993/3226/schedule/2)
 
-[^key-685ca1d892dce96bfd3cd0b326710510]: Textual amendment: [Sch. 16 para. 44](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/44) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-685ca1d892dce96bfd3cd0b326710510]: Textual amendment: [Sch. 16 para. 44](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/44) repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c15395841]: Textual amendment: [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/1992/40/schedule/16/paragraph/47) repealed (1.12.2001) by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 2](https://www.legislation.gov.uk/uksi/2001/2617/article/2), [13(2)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2617/schedule/4) (with [art. 13(3)](https://www.legislation.gov.uk/uksi/2001/2617/article/13/3), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/2617/schedule/5)); [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1)
 

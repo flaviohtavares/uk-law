@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Form and content of accounts of insurance companies and groups[^key-908b7e946ff8c45a33652cfd31be0cbc]
+## 36. Form and content of accounts of insurance companies and groups[^c-908b7e946ff8c45a33652cfd31be0cbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ summary: ''
 
 ## Annotations
 
-[^key-908b7e946ff8c45a33652cfd31be0cbc]: Commencement: Art. 36 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-908b7e946ff8c45a33652cfd31be0cbc]: Commencement: Art. 36 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00039]: Footnote: Substituted for Parts I and II of Schedule 9, as originally enacted, by [S.I. 1993/3246](https://www.legislation.gov.uk/uksi/1993/3246), regulation 4, Schedule 1.
 

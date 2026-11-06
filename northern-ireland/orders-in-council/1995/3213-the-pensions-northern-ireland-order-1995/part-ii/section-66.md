@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-900dd5693b61e5daee9ddbee826fd021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-900dd5693b61e5daee9ddbee826fd021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In Article 6(1) of the Sex Discrimination (Northern Ireland) Order 1976[^c17251041] (victimisation of complainants, etc.)—
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-900dd5693b61e5daee9ddbee826fd021]: Textual amendment: [Art. 66(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/66/1) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/3/4)
+[^c-900dd5693b61e5daee9ddbee826fd021]: Textual amendment: [Art. 66(1)](https://www.legislation.gov.uk/nisi/1995/3213/article/66/1) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Occupational Pension Schemes (Amendment) (Equal Treatment) (Northern Ireland) Regulations 2023 (S.I. 2023/1310)](https://www.legislation.gov.uk/uksi/2023/1310), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2023/1310/regulation/3/4)
 
 [^c17251041]: Textual amendment: [1976 NI 15](https://www.legislation.gov.uk/nisi/1976)
 

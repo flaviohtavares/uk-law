@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 168. Accounting[^key-6c96022784e95500a82ffeb32cef2358]
+## 168. Accounting[^c-6c96022784e95500a82ffeb32cef2358]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.219 of the 1986 Rule.
 
 ## Annotations
 
-[^key-6c96022784e95500a82ffeb32cef2358]: Commencement: Rule 168 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-6c96022784e95500a82ffeb32cef2358]: Commencement: Rule 168 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

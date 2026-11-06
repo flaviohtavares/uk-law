@@ -20,25 +20,25 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-b8071eaee31e91c0f54d27db0ee08026] The Firearms Act 1968 (c. 27) shall be amended as follows.
+(1)[^c-b8071eaee31e91c0f54d27db0ee08026] The Firearms Act 1968 (c. 27) shall be amended as follows.
 
-(2)[^key-b8071eaee31e91c0f54d27db0ee08026] In section 1(3)(b) after “air pistol” insert “ which does not fall within section 5(1) and which is ”.
+(2)[^c-b8071eaee31e91c0f54d27db0ee08026] In section 1(3)(b) after “air pistol” insert “ which does not fall within section 5(1) and which is ”.
 
-(3)[^key-9296adf0c5d2cff2975738458a93c2a7][^key-fcac488980c6e43b442b31824d9fac25] In section 5 (weapons subject to general prohibition) after subsection (1)(ae) insert—
+(3)[^c-9296adf0c5d2cff2975738458a93c2a7][^c-fcac488980c6e43b442b31824d9fac25] In section 5 (weapons subject to general prohibition) after subsection (1)(ae) insert—
 
 > - (af) any air rifle, air gun or air pistol which uses, or is designed or adapted for use with, a self-contained gas cartridge system;
 
 .
 
-(4)[^key-b8071eaee31e91c0f54d27db0ee08026] If at the time when subsection (3) comes into force a person has in his possession an air rifle, air gun or air pistol of the kind described in section 5(1)(af) of the Firearms Act 1968 (inserted by subsection (3) above)—
+(4)[^c-b8071eaee31e91c0f54d27db0ee08026] If at the time when subsection (3) comes into force a person has in his possession an air rifle, air gun or air pistol of the kind described in section 5(1)(af) of the Firearms Act 1968 (inserted by subsection (3) above)—
 
 - (a) section 5(1) of that Act shall not prevent the person’s continued possession of the air rifle, air gun or air pistol,
 - (b) section 1 of that Act shall apply, and
 - (c) a chief officer of police may not refuse to grant or renew, and may not revoke or partially revoke, a firearm certificate under Part II of that Act on the ground that the person does not have a good reason for having the air rifle, air gun or air pistol in his possession.
 
-(5)[^key-b8071eaee31e91c0f54d27db0ee08026] But subsection (4)(a) to (c) shall not apply to possession in the circumstances described in section 8 of that Act (authorised dealing).
+(5)[^c-b8071eaee31e91c0f54d27db0ee08026] But subsection (4)(a) to (c) shall not apply to possession in the circumstances described in section 8 of that Act (authorised dealing).
 
-(6)[^key-b8071eaee31e91c0f54d27db0ee08026] In section 1 of the Firearms (Amendment) Act 1988 (c. 45)—
+(6)[^c-b8071eaee31e91c0f54d27db0ee08026] In section 1 of the Firearms (Amendment) Act 1988 (c. 45)—
 
 - (a) in subsection (4), omit the word “or” at the end of paragraph (a) and after paragraph (b) insert—
 
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b8071eaee31e91c0f54d27db0ee08026]: Commencement: S. 39(1)(2)(4)-(6) in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
+[^c-b8071eaee31e91c0f54d27db0ee08026]: Commencement: S. 39(1)(2)(4)-(6) in force at 20.1.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
 
-[^key-9296adf0c5d2cff2975738458a93c2a7]: Commencement: S. 39(3) in force at 20.1.2004 for specified purposes by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
+[^c-9296adf0c5d2cff2975738458a93c2a7]: Commencement: S. 39(3) in force at 20.1.2004 for specified purposes by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(c)(iii)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/c/iii)
 
-[^key-fcac488980c6e43b442b31824d9fac25]: Commencement: S. 39(3) in force at 30.4.2004 in so far as not already in force by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 5(1)](https://www.legislation.gov.uk/uksi/2003/3300/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2003/3300/article/5/2))
+[^c-fcac488980c6e43b442b31824d9fac25]: Commencement: S. 39(3) in force at 30.4.2004 in so far as not already in force by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 5(1)](https://www.legislation.gov.uk/uksi/2003/3300/article/5/1) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2003/3300/article/5/2))

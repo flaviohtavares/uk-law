@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Register of shareholders[^key-91e9d74904a441ab2d5515516494598f]
+## 49. Register of shareholders[^c-91e9d74904a441ab2d5515516494598f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 makes provision with respect to the register of shareholders of an op
 
 ## Annotations
 
-[^key-91e9d74904a441ab2d5515516494598f]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2004/335/regulation/49) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-91e9d74904a441ab2d5515516494598f]: Commencement: [Reg. 49](https://www.legislation.gov.uk/nisr/2004/335/regulation/49) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

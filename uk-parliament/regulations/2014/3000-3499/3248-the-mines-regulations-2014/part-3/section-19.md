@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. General duty[^key-c3b757a9eca516b1a9fa6a24127eb39b]
+## 19. General duty[^c-c3b757a9eca516b1a9fa6a24127eb39b]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3b757a9eca516b1a9fa6a24127eb39b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/3248/regulation/19) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-c3b757a9eca516b1a9fa6a24127eb39b]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/3248/regulation/19) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

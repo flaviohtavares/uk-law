@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Power to make provision as to access to excluded material etc[^key-53b90055a834bd616770d29016ed5dc4][^key-3b7890a7f65165e0612cf012d9a3a6a6]
+## 86. Power to make provision as to access to excluded material etc[^c-53b90055a834bd616770d29016ed5dc4][^c-3b7890a7f65165e0612cf012d9a3a6a6]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-0728b083f8a1f1ba0ab52dedbda432de] The Secretary of State may by order make provision that enables a service policeman, for the purposes of an investigation of a relevant offence and by making an application to a judge advocate in accordance with the order—
+(1)[^c-0728b083f8a1f1ba0ab52dedbda432de] The Secretary of State may by order make provision that enables a service policeman, for the purposes of an investigation of a relevant offence and by making an application to a judge advocate in accordance with the order—
 
 - (a) to obtain access to excluded material or special procedure material on relevant residential premises; or
 - (b) to obtain access to material (other than items subject to legal privilege) on premises other than relevant residential premises.
@@ -42,7 +42,7 @@ summary: ''
   - (ii) a civilian subject to service discipline; or
   - (iii) a person who is suspected of having committed the relevant offence concerned.
 
-(4)[^key-52feb65542106f4f70ac71ff020abaed] In this section the following expressions have the meanings given by section 84—
+(4)[^c-52feb65542106f4f70ac71ff020abaed] In this section the following expressions have the meanings given by section 84—
 
 - “excluded material”;
 - “items subject to legal privilege”;
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-53b90055a834bd616770d29016ed5dc4]: Commencement: S. 86 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-53b90055a834bd616770d29016ed5dc4]: Commencement: S. 86 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-3b7890a7f65165e0612cf012d9a3a6a6]: Commencement: S. 86 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3b7890a7f65165e0612cf012d9a3a6a6]: Commencement: S. 86 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-0728b083f8a1f1ba0ab52dedbda432de]: Textual amendment: S. 86(1)-(2A) substituted for s. 86(1)(2) (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/8/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-0728b083f8a1f1ba0ab52dedbda432de]: Textual amendment: S. 86(1)-(2A) substituted for s. 86(1)(2) (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2011/18/section/8/2), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
 
-[^key-52feb65542106f4f70ac71ff020abaed]: Textual amendment: S. 86(4) substituted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/8/3), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)
+[^c-52feb65542106f4f70ac71ff020abaed]: Textual amendment: S. 86(4) substituted (8.3.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/8/3), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/669/article/3/a)

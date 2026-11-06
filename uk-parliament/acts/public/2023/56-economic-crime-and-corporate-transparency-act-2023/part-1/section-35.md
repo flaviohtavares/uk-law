@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Power to impose director disqualification sanctions[^key-888574818c0f62355a658254d3509295][^key-071ea37d115feb48a952afa65d3dfe74]
+## 35. Power to impose director disqualification sanctions[^c-888574818c0f62355a658254d3509295][^c-071ea37d115feb48a952afa65d3dfe74]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-888574818c0f62355a658254d3509295]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-888574818c0f62355a658254d3509295]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-071ea37d115feb48a952afa65d3dfe74]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/56/section/35) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)
+[^c-071ea37d115feb48a952afa65d3dfe74]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2023/56/section/35) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/y)

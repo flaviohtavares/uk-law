@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Power to bring proceedings in employment tribunal[^key-aa6b100a0156dfc09ccb7209f9946c52]
+## 116. Power to bring proceedings in employment tribunal[^c-aa6b100a0156dfc09ccb7209f9946c52]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the Secretary of State may, in place of the worker, bring proceedings about the 
 
 ## Annotations
 
-[^key-aa6b100a0156dfc09ccb7209f9946c52]: Commencement: S. 116 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-aa6b100a0156dfc09ccb7209f9946c52]: Commencement: S. 116 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)

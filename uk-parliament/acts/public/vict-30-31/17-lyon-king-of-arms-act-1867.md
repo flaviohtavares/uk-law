@@ -99,7 +99,7 @@ SCHEDULES
 
 Section 13.
 
-### PART 1 — Fees payable in respect of reserved functions[^key-b592444635ef4838cdbf4eb8c2bc0577]
+### PART 1 — Fees payable in respect of reserved functions[^c-b592444635ef4838cdbf4eb8c2bc0577]
 
 <table>
 <thead>
@@ -125,7 +125,7 @@ Section 13.
 </tbody>
 </table>
 
-### PART 2 — Fees payable in respect of devolved functions[^key-168959126c2ccb4627e6fbee52ebca85]
+### PART 2 — Fees payable in respect of devolved functions[^c-168959126c2ccb4627e6fbee52ebca85]
 
 <table>
 <thead>
@@ -203,6 +203,6 @@ Section 13.
 
 [^c5728101]: Modification: Power to amend Sch. B conferred by [Public Expenditure and Receipts Act 1968 (c. 14)](https://www.legislation.gov.uk/ukpga/1968/14), [s. 5(1)](https://www.legislation.gov.uk/ukpga/1968/14/section/5/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1968/14/schedule/3)
 
-[^key-b592444635ef4838cdbf4eb8c2bc0577]: Textual amendment: Sch. B Pt. 1 substituted (S.) (1.1.2019) by [The Lyon Court and Office Fees (Variation) (Reserved Functions) Order 2016 (S.I. 2016/1138)](https://www.legislation.gov.uk/uksi/2016/1138), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1138/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/1138/schedule/3)
+[^c-b592444635ef4838cdbf4eb8c2bc0577]: Textual amendment: Sch. B Pt. 1 substituted (S.) (1.1.2019) by [The Lyon Court and Office Fees (Variation) (Reserved Functions) Order 2016 (S.I. 2016/1138)](https://www.legislation.gov.uk/uksi/2016/1138), [art. 1(1)](https://www.legislation.gov.uk/uksi/2016/1138/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2016/1138/schedule/3)
 
-[^key-168959126c2ccb4627e6fbee52ebca85]: Textual amendment: Sch. B Pt. 2 substituted (S.) (1.1.2019) by [The Lyon Court and Office Fees (Variation) (Devolved Functions) Order 2016 (S.S.I. 2016/390)](https://www.legislation.gov.uk/ssi/2016/390), [art. 2(4)](https://www.legislation.gov.uk/ssi/2016/390/article/2/4), [sch. 3](https://www.legislation.gov.uk/ssi/2016/390/schedule/3)
+[^c-168959126c2ccb4627e6fbee52ebca85]: Textual amendment: Sch. B Pt. 2 substituted (S.) (1.1.2019) by [The Lyon Court and Office Fees (Variation) (Devolved Functions) Order 2016 (S.S.I. 2016/390)](https://www.legislation.gov.uk/ssi/2016/390), [art. 2(4)](https://www.legislation.gov.uk/ssi/2016/390/article/2/4), [sch. 3](https://www.legislation.gov.uk/ssi/2016/390/schedule/3)

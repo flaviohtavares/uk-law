@@ -24,7 +24,7 @@ summary: ''
 
 (2) If an application is made under paragraph (1) for a firearm or ammunition to be added to a firearm certificate, paragraphs (1) and (2) of Article 5 shall apply to the variation of the certificate as they apply to the grant of a certificate.
 
-(3)[^key-c8708e59025c28a9da44c9ee822aba6f] If a person—
+(3)[^c-c8708e59025c28a9da44c9ee822aba6f] If a person—
 
 - (a) sells a firearm (“the first firearm”) to the holder of a firearms dealer's certificate (“the dealer”); and
 - (b) as part of the same transaction purchases from the dealer another firearm (“the second firearm”); and
@@ -65,4 +65,4 @@ the dealer may, on payment of the appropriate fee (if any), vary that person's f
 
 ## Annotations
 
-[^key-c8708e59025c28a9da44c9ee822aba6f]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/nisi/2004/702/article/11/3)-[(9)](https://www.legislation.gov.uk/nisi/2004/702/article/11/9) substituted for [art. 11(3)-(5)](https://www.legislation.gov.uk/nisi/2004/702/article/11/3) (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/3/1)
+[^c-c8708e59025c28a9da44c9ee822aba6f]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/nisi/2004/702/article/11/3)-[(9)](https://www.legislation.gov.uk/nisi/2004/702/article/11/9) substituted for [art. 11(3)-(5)](https://www.legislation.gov.uk/nisi/2004/702/article/11/3) (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 3(1)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/3/1)

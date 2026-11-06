@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Application of the permit scheme[^key-ee16aac4a84e761ee01c9a9104cc9ab7]
+## 12. Application of the permit scheme[^c-ee16aac4a84e761ee01c9a9104cc9ab7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee16aac4a84e761ee01c9a9104cc9ab7]: Commencement: Art. 12 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-ee16aac4a84e761ee01c9a9104cc9ab7]: Commencement: Art. 12 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

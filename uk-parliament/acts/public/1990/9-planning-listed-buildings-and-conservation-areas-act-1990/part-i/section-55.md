@@ -43,19 +43,19 @@ and the Secretary of State shall determine to what extent the representations ar
 - (a) to the owner of the building; and
 - (b) if the authority who gave notice under subsection (2) is a local authority or the Commission, to them.
 
-(5A)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5B)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5B)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5C)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5C)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5D)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5D)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5E)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5E)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5F)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5F)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5G)[^key-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5G)[^c-9aab7ed92874bc284e15e35893f32e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^c12917171] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,6 +69,6 @@ and the Secretary of State shall determine to what extent the representations ar
 
 [^c21494381]: Modification: S. 55: functions made exercisable concurrently (1.2.2005) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(1)(2)(xxxii)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/1/2/xxxii) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
-[^key-9aab7ed92874bc284e15e35893f32e8c]: Textual amendment: [S. 55(5A)-(5G)](https://www.legislation.gov.uk/ukpga/1990/9/section/55/5A) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 131](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/131) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-9aab7ed92874bc284e15e35893f32e8c]: Textual amendment: [S. 55(5A)-(5G)](https://www.legislation.gov.uk/ukpga/1990/9/section/55/5A) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 131](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/131) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c12917171]: Textual amendment: S. 55(6) repealed (2.1.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 25](https://www.legislation.gov.uk/ukpga/1991/34/section/25), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Schs. 3 Pt. II para. 23](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3/part/II/paragraph/23), [19](https://www.legislation.gov.uk/ukpga/1991/34/schedule/3/part/II/paragraph/19) Pt.I; [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3 sch. 2](https://www.legislation.gov.uk/uksi/1991/2905/article/3/schedule/2)

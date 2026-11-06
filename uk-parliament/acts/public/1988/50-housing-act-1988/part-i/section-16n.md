@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16N. Guarantor not liable for rent payable after tenant’s death[^key-3f0f5627d2768a2a02010e089fc2a197]
+## 16N. Guarantor not liable for rent payable after tenant’s death[^c-3f0f5627d2768a2a02010e089fc2a197]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ where—
 
 ## Annotations
 
-[^key-3f0f5627d2768a2a02010e089fc2a197]: Textual amendment: Ss. 16N, 16P and cross-heading inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 19](https://www.legislation.gov.uk/ukpga/2025/26/section/19), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-3f0f5627d2768a2a02010e089fc2a197]: Textual amendment: Ss. 16N, 16P and cross-heading inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 19](https://www.legislation.gov.uk/ukpga/2025/26/section/19), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

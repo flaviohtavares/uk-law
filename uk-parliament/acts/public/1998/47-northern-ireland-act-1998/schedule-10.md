@@ -28,7 +28,7 @@ Section 79.
 
 - (a) a question whether any provision of an Act of the Assembly is within the legislative competence of the Assembly;
 - (b) a question whether a purported or proposed exercise of a function by a Minister or Northern Ireland department is, or would be, invalid by reason of section 24;
-- (c) a question whether a Minister or Northern Ireland department has failed to comply with any of the Convention rights[^key-a81fa0d62b4c7d2df7ca5a4e43f5065d]...; or
+- (c) a question whether a Minister or Northern Ireland department has failed to comply with any of the Convention rights[^c-a81fa0d62b4c7d2df7ca5a4e43f5065d]...; or
 - (d) any question arising under this Act about excepted or reserved matters.
 
 **2.** A devolution issue shall not be taken to arise in any proceedings merely because of any contention of a party to the proceedings which appears to the court or tribunal before which the proceedings take place to be frivolous or vexatious.
@@ -41,17 +41,17 @@ Section 79.
 
 #### Institution of proceedings
 
-**4.** (1) Proceedings for the determination of a devolution issue may be instituted by the Advocate General for Northern Ireland[^key-90843e76b4a05df2dcee694797867547] or the Attorney General for Northern Ireland.
+**4.** (1) Proceedings for the determination of a devolution issue may be instituted by the Advocate General for Northern Ireland[^c-90843e76b4a05df2dcee694797867547] or the Attorney General for Northern Ireland.
 
-(2) The Attorney General for Northern Ireland[^M_F_58d1b8de-8481-49e2-fe5f-fb8a70f69379] may defend any such proceedings instituted by the Advocate General for Northern Ireland[^key-14343a204a6e1eb4a1e3a2f4e61c1268] .
+(2) The Attorney General for Northern Ireland[^M_F_58d1b8de-8481-49e2-fe5f-fb8a70f69379] may defend any such proceedings instituted by the Advocate General for Northern Ireland[^c-14343a204a6e1eb4a1e3a2f4e61c1268] .
 
 (3) This paragraph is without prejudice to any power to institute or defend proceedings exercisable apart from this paragraph by any person.
 
 #### Notice of devolution issue
 
-**5.** A court or tribunal shall order notice of any devolution issue which arises in any proceedings before it to be given to the Advocate General for Northern Ireland and the Attorney General for Northern Ireland[^key-809da28160b6c00f2e7f9fa0fa98018e] (unless the person to whom the notice would be given is a party to the proceedings).
+**5.** A court or tribunal shall order notice of any devolution issue which arises in any proceedings before it to be given to the Advocate General for Northern Ireland and the Attorney General for Northern Ireland[^c-809da28160b6c00f2e7f9fa0fa98018e] (unless the person to whom the notice would be given is a party to the proceedings).
 
-**6.** A person to whom notice is given in pursuance of paragraph 5 [^key-c57b97000b0c5cb8b726a5f73ea432f4]... may take part as a party in the proceedings, so far as they relate to a devolution issue.
+**6.** A person to whom notice is given in pursuance of paragraph 5 [^c-c57b97000b0c5cb8b726a5f73ea432f4]... may take part as a party in the proceedings, so far as they relate to a devolution issue.
 
 #### Reference of devolution issue to Court of Appeal
 
@@ -75,17 +75,17 @@ Section 79.
 
 #### Institution of proceedings
 
-**12.** (1) Proceedings for the determination of a devolution issue may be instituted [^key-2ce3bac0d552d9b5d39965a733972946]... by the Attorney General.
+**12.** (1) Proceedings for the determination of a devolution issue may be instituted [^c-2ce3bac0d552d9b5d39965a733972946]... by the Attorney General.
 
-(2) The Attorney General for Northern Ireland [^key-2ce3bac0d552d9b5d39965a733972946]... may defend any such proceedings.
+(2) The Attorney General for Northern Ireland [^c-2ce3bac0d552d9b5d39965a733972946]... may defend any such proceedings.
 
 (3) This paragraph is without prejudice to any power to institute or defend proceedings exercisable apart from this paragraph by any person.
 
 #### Notice of devolution issue
 
-**13.** A court or tribunal shall order notice of any devolution issue which arises in any proceedings before it to be given to the Attorney General and the Attorney General for Northern Ireland[^key-e0acd829e89372207ef5755cf567ac5f] (unless the person to whom the notice would be given is a party to the proceedings).
+**13.** A court or tribunal shall order notice of any devolution issue which arises in any proceedings before it to be given to the Attorney General and the Attorney General for Northern Ireland[^c-e0acd829e89372207ef5755cf567ac5f] (unless the person to whom the notice would be given is a party to the proceedings).
 
-**14.** A person to whom notice is given in pursuance of paragraph 13 [^key-aaeb00bc1af9326dd5a1975f11a64f08]... may take part as a party in the proceedings, so far as they relate to a devolution issue.
+**14.** A person to whom notice is given in pursuance of paragraph 13 [^c-aaeb00bc1af9326dd5a1975f11a64f08]... may take part as a party in the proceedings, so far as they relate to a devolution issue.
 
 #### Reference of devolution issue to High Court or Court of Appeal
 
@@ -121,17 +121,17 @@ Section 79.
 
 #### Institution of proceedings
 
-**22.** (1) Proceedings for the determination of a devolution issue may be instituted [^key-77e2d5523af38d9151d6f1755738716e]... by the Advocate General for Scotland.
+**22.** (1) Proceedings for the determination of a devolution issue may be instituted [^c-77e2d5523af38d9151d6f1755738716e]... by the Advocate General for Scotland.
 
-(2) The Attorney General for Northern Ireland [^key-77e2d5523af38d9151d6f1755738716e]... may defend any such proceedings.
+(2) The Attorney General for Northern Ireland [^c-77e2d5523af38d9151d6f1755738716e]... may defend any such proceedings.
 
 (3) This paragraph is without prejudice to any power to institute or defend proceedings exercisable apart from this paragraph by any person.
 
 #### Intimation of devolution issue
 
-**23.** Intimation of any devolution issue which arises in any proceedings before a court or tribunal shall be given to the Advocate General for Scotland and the Attorney General for Northern Ireland[^key-9b0eb89e6d280a279f40ff89bc5a05f0] (unless the person to whom the intimation would be given is a party to the proceedings).
+**23.** Intimation of any devolution issue which arises in any proceedings before a court or tribunal shall be given to the Advocate General for Scotland and the Attorney General for Northern Ireland[^c-9b0eb89e6d280a279f40ff89bc5a05f0] (unless the person to whom the intimation would be given is a party to the proceedings).
 
-**24.** A person to whom intimation is given in pursuance of paragraph 23 [^key-d1d5a53998d9cbdce5f355c216125c1a]... may take part as a party in the proceedings, so far as they relate to a devolution issue.
+**24.** A person to whom intimation is given in pursuance of paragraph 23 [^c-d1d5a53998d9cbdce5f355c216125c1a]... may take part as a party in the proceedings, so far as they relate to a devolution issue.
 
 #### Reference of devolution issue to higher court
 
@@ -166,7 +166,7 @@ shall lie to the Supreme Court[^c20121401] , but only with permission[^c20121431
 
 #### Direct references to Supreme Court[^c20121541]
 
-**33.** The Attorney General, the Advocate General for Northern Ireland, the Attorney General for Northern Ireland[^key-a141c10e8b894a788df1fa8fc23e75bc] or the Advocate General for Scotland may require any court or tribunal to refer to the Supreme Court[^c20121581] any devolution issue which has arisen in proceedings before it to which he is or they are a party.
+**33.** The Attorney General, the Advocate General for Northern Ireland, the Attorney General for Northern Ireland[^c-a141c10e8b894a788df1fa8fc23e75bc] or the Advocate General for Scotland may require any court or tribunal to refer to the Supreme Court[^c20121581] any devolution issue which has arisen in proceedings before it to which he is or they are a party.
 
 **34.** The Attorney General, the Advocate General for Northern Ireland, the Attorney General for Northern Ireland or the Advocate General for Scotland may refer to the Supreme Court[^c20121601] any devolution issue which is not the subject of proceedings.
 
@@ -176,13 +176,13 @@ shall lie to the Supreme Court[^c20121401] , but only with permission[^c20121431
 
 (3) No Northern Ireland Minister or department shall exercise the function in the manner proposed during the period beginning with the receipt of the notification under sub-paragraph (2) and ending with the reference being decided or otherwise disposed of.
 
-(4) Proceedings relating to any possible failure by a Northern Ireland Minister or department to comply with sub-paragraph (3) may be instituted by the Advocate General for Northern Ireland[^key-62244cbfe3dcc4f2560723195e77265e] .
+(4) Proceedings relating to any possible failure by a Northern Ireland Minister or department to comply with sub-paragraph (3) may be instituted by the Advocate General for Northern Ireland[^c-62244cbfe3dcc4f2560723195e77265e] .
 
 (5) Sub-paragraph (4) is without prejudice to any power to institute proceedings exercisable apart from that sub-paragraph by any person.
 
 #### Delegation by First Ministers
 
-**36.**[^key-8f955c0b9ba64bb0efe02e56ca5b6df7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-8f955c0b9ba64bb0efe02e56ca5b6df7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Expenses
 
@@ -227,7 +227,7 @@ assign to him a solicitor and counsel, or counsel only, in the reference, appeal
 
 the doubt shall be resolved in favour of granting him free legal aid.
 
-(6)[^key-94e95d407235905467a19df216124db2] The fees of any counsel, and the expenses and fees of any solicitor, assigned to a person under sub-paragraph (4) shall be defrayed, up to an amount allowed by the Master (Taxing Office), by the Lord Chancellor [^key-cb614c845e83f658b8ab1d263030b9d2]....
+(6)[^c-94e95d407235905467a19df216124db2] The fees of any counsel, and the expenses and fees of any solicitor, assigned to a person under sub-paragraph (4) shall be defrayed, up to an amount allowed by the Master (Taxing Office), by the Lord Chancellor [^c-cb614c845e83f658b8ab1d263030b9d2]....
 
 **40.** Where a devolution issue arises as mentioned in sub-paragraph (1) of paragraph 39 and—
 
@@ -244,17 +244,17 @@ the doubt shall be resolved in favour of granting him free legal aid.
 
 ## Annotations
 
-[^key-a81fa0d62b4c7d2df7ca5a4e43f5065d]: Textual amendment: Words in [Sch. 10 para. 1(c)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/10/paragraph/1/c) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 62](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/62) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
+[^c-a81fa0d62b4c7d2df7ca5a4e43f5065d]: Textual amendment: Words in [Sch. 10 para. 1(c)](https://www.legislation.gov.uk/ukpga/1998/47/schedule/10/paragraph/1/c) omitted (31.12.2020) by virtue of [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 3 para. 62](https://www.legislation.gov.uk/ukpga/2018/16/schedule/3/paragraph/62) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/3/l) (with [regs. 10](https://www.legislation.gov.uk/uksi/2020/1622/regulation/10), [22](https://www.legislation.gov.uk/uksi/2020/1622/regulation/22))
 
-[^key-90843e76b4a05df2dcee694797867547]: Textual amendment: Words in Sch. 10 para. 4(1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/2/a); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-90843e76b4a05df2dcee694797867547]: Textual amendment: Words in Sch. 10 para. 4(1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/2/a); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
 [^M_F_58d1b8de-8481-49e2-fe5f-fb8a70f69379]: Textual amendment: Words in Sch. 10 para. 4(2) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/2/b); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/19/a)
 
-[^key-14343a204a6e1eb4a1e3a2f4e61c1268]: Textual amendment: Words in Sch. 10 para. 4(2) inserted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/2/b); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-14343a204a6e1eb4a1e3a2f4e61c1268]: Textual amendment: Words in Sch. 10 para. 4(2) inserted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/2/b); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
-[^key-809da28160b6c00f2e7f9fa0fa98018e]: Textual amendment: Words in Sch. 10 para. 5 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/3); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-809da28160b6c00f2e7f9fa0fa98018e]: Textual amendment: Words in Sch. 10 para. 5 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(3)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/3); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
-[^key-c57b97000b0c5cb8b726a5f73ea432f4]: Textual amendment: Words in Sch. 10 para. 6 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
+[^c-c57b97000b0c5cb8b726a5f73ea432f4]: Textual amendment: Words in Sch. 10 para. 6 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
 
 [^c20120621]: Textual amendment: Words in Sch. 10 para. 7 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 115(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/115/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
@@ -270,11 +270,11 @@ the doubt shall be resolved in favour of granting him free legal aid.
 
 [^c20120801]: Textual amendment: Words in Sch. 10 para. 10 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 115(6)(c)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/115/6/c); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
-[^key-2ce3bac0d552d9b5d39965a733972946]: Textual amendment: Words in Sch. 10 para. 12 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
+[^c-2ce3bac0d552d9b5d39965a733972946]: Textual amendment: Words in Sch. 10 para. 12 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
 
-[^key-e0acd829e89372207ef5755cf567ac5f]: Textual amendment: Words in Sch. 10 para. 13 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/4); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-e0acd829e89372207ef5755cf567ac5f]: Textual amendment: Words in Sch. 10 para. 13 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/4); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
-[^key-aaeb00bc1af9326dd5a1975f11a64f08]: Textual amendment: Words in Sch. 10 para. 14 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
+[^c-aaeb00bc1af9326dd5a1975f11a64f08]: Textual amendment: Words in Sch. 10 para. 14 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
 
 [^c20120821]: Textual amendment: Words in Sch. 10 para. 16(2)(a) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 116(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/116/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
@@ -292,11 +292,11 @@ the doubt shall be resolved in favour of granting him free legal aid.
 
 [^c20121081]: Textual amendment: Words in Sch. 10 para. 20 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 116(7)(c)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/116/7/c); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
-[^key-77e2d5523af38d9151d6f1755738716e]: Textual amendment: Words in Sch. 10 para. 22 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
+[^c-77e2d5523af38d9151d6f1755738716e]: Textual amendment: Words in Sch. 10 para. 22 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
 
-[^key-9b0eb89e6d280a279f40ff89bc5a05f0]: Textual amendment: Words in Sch. 10 para. 23 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/5); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-9b0eb89e6d280a279f40ff89bc5a05f0]: Textual amendment: Words in Sch. 10 para. 23 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(5)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/5); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
-[^key-d1d5a53998d9cbdce5f355c216125c1a]: Textual amendment: Words in Sch. 10 para. 24 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
+[^c-d1d5a53998d9cbdce5f355c216125c1a]: Textual amendment: Words in Sch. 10 para. 24 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
 
 [^c20121261]: Textual amendment: Words in Sch. 10 para. 25 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 117(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/117/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
@@ -324,15 +324,15 @@ the doubt shall be resolved in favour of granting him free legal aid.
 
 [^c20121541]: Textual amendment: Words in cross-heading preceding Sch. 10 para. 33 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 118(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/118/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
-[^key-a141c10e8b894a788df1fa8fc23e75bc]: Textual amendment: Words in Sch. 10 para. 34 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(6)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/6); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-a141c10e8b894a788df1fa8fc23e75bc]: Textual amendment: Words in Sch. 10 para. 34 substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(6)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/6); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
 [^c20121581]: Textual amendment: Words in Sch. 10 para. 33 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 118(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/118/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
 [^c20121601]: Textual amendment: Words in Sch. 10 para. 34 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 118(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/118/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
-[^key-62244cbfe3dcc4f2560723195e77265e]: Textual amendment: Words in Sch. 10 para. 35(4) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(7)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/7); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
+[^c-62244cbfe3dcc4f2560723195e77265e]: Textual amendment: Words in Sch. 10 para. 35(4) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 2(7)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/2/7); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/a)
 
-[^key-8f955c0b9ba64bb0efe02e56ca5b6df7]: Textual amendment: Sch. 10 para. 36 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
+[^c-8f955c0b9ba64bb0efe02e56ca5b6df7]: Textual amendment: Sch. 10 para. 36 repealed (1.3.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/52](https://www.legislation.gov.uk/nisr/2010/52), [art. 2(e)](https://www.legislation.gov.uk/nisr/2010/52/article/2/e)
 
 [^M_F_bd94591f-b024-4e2e-d74f-a42bdc07aaef]: Textual amendment: Words in Sch. 10 para. 39(2) substituted (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 14](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/14) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2010/113/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2010/113/article/3))
 
@@ -340,9 +340,9 @@ the doubt shall be resolved in favour of granting him free legal aid.
 
 [^c20121681]: Textual amendment: Words in Sch. 10 para. 39(2)-(4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/118/6/b); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 
-[^key-94e95d407235905467a19df216124db2]: Modification: Sch. 10 para. 39(6): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 16](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/16) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-94e95d407235905467a19df216124db2]: Modification: Sch. 10 para. 39(6): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 16](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/16) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-cb614c845e83f658b8ab1d263030b9d2]: Textual amendment: Words in Sch. 10 para. 39(6) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 58(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/58/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-cb614c845e83f658b8ab1d263030b9d2]: Textual amendment: Words in Sch. 10 para. 39(6) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 58(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/58/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20121931]: Textual amendment: Words in Sch. 10 para. 40(a)(b) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 119(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/119/a); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/a/d)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Victim impact statements to mental health tribunals (restricted patients)[^key-793d759e8cf6d71d3c31318a5ddf72e1][^key-d2a8a5715947f02e3acf4f88266c0915]
+## 21. Victim impact statements to mental health tribunals (restricted patients)[^c-793d759e8cf6d71d3c31318a5ddf72e1][^c-d2a8a5715947f02e3acf4f88266c0915]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-793d759e8cf6d71d3c31318a5ddf72e1]: Commencement: S. 21 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-793d759e8cf6d71d3c31318a5ddf72e1]: Commencement: S. 21 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-d2a8a5715947f02e3acf4f88266c0915]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/21/section/21) in force at 25.6.2025 by [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/a)
+[^c-d2a8a5715947f02e3acf4f88266c0915]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2024/21/section/21) in force at 25.6.2025 by [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/a)

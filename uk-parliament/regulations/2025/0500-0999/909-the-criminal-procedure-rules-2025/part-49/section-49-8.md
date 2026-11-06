@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.8. Record of telephone link hearing before a nominated court[^key-80698304db510b01407ca381e93cf746]
+## 49.8. Record of telephone link hearing before a nominated court[^c-80698304db510b01407ca381e93cf746]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80698304db510b01407ca381e93cf746]: Commencement: [Rule 49.8](https://www.legislation.gov.uk/uksi/2025/909/rule/49.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-80698304db510b01407ca381e93cf746]: Commencement: [Rule 49.8](https://www.legislation.gov.uk/uksi/2025/909/rule/49.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

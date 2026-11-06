@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Insertion of new Schedule 8C (Material to accompany an application for a UK marketing authorisation under the unfettered access route)[^key-2f8accad0bcee9ed3e8997b4d3cf7310]
+## SCHEDULE 2A — Insertion of new Schedule 8C (Material to accompany an application for a UK marketing authorisation under the unfettered access route)[^c-2f8accad0bcee9ed3e8997b4d3cf7310]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ Regulation 51A
 
 ## Annotations
 
-[^key-2f8accad0bcee9ed3e8997b4d3cf7310]: Textual amendment: Sch. 2A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 190](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/190)
+[^c-2f8accad0bcee9ed3e8997b4d3cf7310]: Textual amendment: Sch. 2A inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 190](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/190)
 
 [^M_I_9c7f0136-6e2a-40cf-e179-b90354c038e3]: Commencement: Sch. 2A para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

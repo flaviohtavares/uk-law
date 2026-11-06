@@ -32,7 +32,7 @@ Sections 9(4) and 14.
 - [^c20895451]. . .
 - Admiralty Registrar.
 - Master, Chancery Division.
-- Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^key-c85012b418da0c43232f4a7106ec5741] Insolvency and Companies Court Judge *(Extent: E+W)*.
+- Registrar in Bankruptcy of the High Court *(Extent: E+W)* *(affected by repeal, see note)*[^c-c85012b418da0c43232f4a7106ec5741] Insolvency and Companies Court Judge *(Extent: E+W)*.
 - Taxing Master of the Senior Courts[^c20895461].
 - District judge of the Principal Registry of the Family Division.[^c20895471]
 - [^c20895481]. . .
@@ -64,7 +64,7 @@ President of the Transport Tribunal.
 (2) If such a person so elects—
 
 - (a) he shall continue to be subject to the principal civil service pension scheme as if service in an office within paragraph 1 above were employment in the civil service of the State, and
-- (b) the provisions of Parts II, III, and IV of this Schedule, and of Part II and section 33ZA[^key-27b9aa5af6c03b94af73a8ade64dcc50] of this Act, shall not apply to him.
+- (b) the provisions of Parts II, III, and IV of this Schedule, and of Part II and section 33ZA[^c-27b9aa5af6c03b94af73a8ade64dcc50] of this Act, shall not apply to him.
 
 (3) An election under this paragraph shall be made by notice in writing in such form and within such period as may be prescribed by the Lord Chancellor.
 
@@ -305,7 +305,7 @@ The reference in head (b) above to provisions of this Schedule does not include 
 
 [^c20895451]: Textual amendment: Words repealed by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/78/3), [125(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/7), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20)
 
-[^key-c85012b418da0c43232f4a7106ec5741]: Textual amendment: Words in Sch. 1 para. 1 substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/5)
+[^c-c85012b418da0c43232f4a7106ec5741]: Textual amendment: Words in Sch. 1 para. 1 substituted (E.W.) (26.2.2018) by [The Alteration of Judicial Titles (Registrar in Bankruptcy of the High Court) Order 2018 (S.I. 2018/130)](https://www.legislation.gov.uk/uksi/2018/130), [art. 1](https://www.legislation.gov.uk/uksi/2018/130/article/1), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2018/130/schedule/paragraph/5)
 
 [^c20895461]: Textual amendment: Words in Sch 1 para. 1 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 25(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/25/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -321,7 +321,7 @@ The reference in head (b) above to provisions of this Schedule does not include 
 
 [^c20872041]: Textual amendment: Words in [Sch 1 para. 2](https://www.legislation.gov.uk/ukpga/1981/20/schedule/1/paragraph/2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 25(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/25/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-27b9aa5af6c03b94af73a8ade64dcc50]: Textual amendment: Words in Sch. 1 para. 3(2)(b) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 2(4)](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/2/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-27b9aa5af6c03b94af73a8ade64dcc50]: Textual amendment: Words in Sch. 1 para. 3(2)(b) inserted (3.1.2012) by [Pensions Act 2011 (c. 19)](https://www.legislation.gov.uk/ukpga/2011/19), [s. 38(4)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/4), [Sch. 5 para. 2(4)](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/2/4); [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
 
 [^c10350421]: Textual amendment: “15 years” substituted (E.W.) for “the prescribed number of years of” by [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1981/54/schedule/5/paragraph/2)(*b*)(i)
 

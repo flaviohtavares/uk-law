@@ -31,7 +31,7 @@ summary: ''
 
 (4) A wildlife inspector entering premises under either of those sections may take with him a veterinary surgeon if he has reasonable grounds for believing that such a person will be needed for the exercise of powers under section 18C or 18E.
 
-## 18A. Vicarious liability for certain offences by employee or agent[^M_E_d4b67134-5748-4987-fba3-41f7a88e2ef0][^key-3b6d6498d1645cdcada1ea66464ae39f]
+## 18A. Vicarious liability for certain offences by employee or agent[^M_E_d4b67134-5748-4987-fba3-41f7a88e2ef0][^c-3b6d6498d1645cdcada1ea66464ae39f]
 
 *Extent: S*
 
@@ -60,8 +60,8 @@ summary: ''
 
 - (a) an offence under—
   - (i) section 1(1), (5) or (5B);
-  - (ii) section 5(1)(a) or (b); [^key-44d0669e19fc6587a3f08f1c112db790]...
-  - (iia)[^key-36befebe4c4cf07c5dbeebdb1442142a] section 11(1)(a) or (aa), (2)(a) or (b)(ii); or
+  - (ii) section 5(1)(a) or (b); [^c-44d0669e19fc6587a3f08f1c112db790]...
+  - (iia)[^c-36befebe4c4cf07c5dbeebdb1442142a] section 11(1)(a) or (aa), (2)(a) or (b)(ii); or
   - (iii) section 15A(1); and
 - (b) an offence under section 18 committed in relation to any of the offences mentioned in paragraph (a).
 
@@ -75,8 +75,8 @@ summary: ''
 
 [^M_E_d4b67134-5748-4987-fba3-41f7a88e2ef0]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 
-[^key-3b6d6498d1645cdcada1ea66464ae39f]: Textual amendment: Ss. 18A, 18B inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 24](https://www.legislation.gov.uk/asp/2011/6/section/24), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
+[^c-3b6d6498d1645cdcada1ea66464ae39f]: Textual amendment: Ss. 18A, 18B inserted (S.) (1.1.2012) by [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), [ss. 24](https://www.legislation.gov.uk/asp/2011/6/section/24), [43(1)](https://www.legislation.gov.uk/asp/2011/6/section/43/1) (with [s. 41(1)](https://www.legislation.gov.uk/asp/2011/6/section/41/1)); [S.S.I. 2011/433](https://www.legislation.gov.uk/ssi/2011/433), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2011/433/article/2/1/e)
 
-[^key-44d0669e19fc6587a3f08f1c112db790]: Textual amendment: Word in [s. 18A(6)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/18A/6/a) repealed (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2020/14/section/7/3/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-44d0669e19fc6587a3f08f1c112db790]: Textual amendment: Word in [s. 18A(6)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/18A/6/a) repealed (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2020/14/section/7/3/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
 
-[^key-36befebe4c4cf07c5dbeebdb1442142a]: Textual amendment: [S. 18A(6)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/18A/6/a)[(iia)](https://www.legislation.gov.uk/ukpga/1981/69/section/18A/6/iia) inserted (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2020/14/section/7/3/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))
+[^c-36befebe4c4cf07c5dbeebdb1442142a]: Textual amendment: [S. 18A(6)(a)](https://www.legislation.gov.uk/ukpga/1981/69/section/18A/6/a)[(iia)](https://www.legislation.gov.uk/ukpga/1981/69/section/18A/6/iia) inserted (S.) (30.11.2020) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2020/14/section/7/3/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/1), [sch.](https://www.legislation.gov.uk/ssi/2020/379/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/379/regulation/3))

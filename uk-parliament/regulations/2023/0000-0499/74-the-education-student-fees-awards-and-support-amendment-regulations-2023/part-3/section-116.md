@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Amendments relating to the ordinary residence requirements for existing protected categories[^key-c556224652341ccf145825d38a6cdd23]
+## 116. Amendments relating to the ordinary residence requirements for existing protected categories[^c-c556224652341ccf145825d38a6cdd23]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c556224652341ccf145825d38a6cdd23]: Commencement: Reg. 116 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c556224652341ccf145825d38a6cdd23]: Commencement: Reg. 116 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00092]: Footnote: Paragraph 5 was amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5A was substituted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5B was inserted by [S.I. 2020/48](https://www.legislation.gov.uk/uksi/2020/48). Paragraph 5C was substituted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 5D was inserted by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 6 was amended by [S.I. 2020/1203](https://www.legislation.gov.uk/uksi/2020/1203). Paragraph 6A was inserted by [S.I. 2021/1348](https://www.legislation.gov.uk/uksi/2021/1348) and amended by [S.I. 2022/57](https://www.legislation.gov.uk/uksi/2022/57). Paragraph 6B was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

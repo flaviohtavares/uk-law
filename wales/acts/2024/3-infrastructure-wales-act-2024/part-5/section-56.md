@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Deciding applications: general considerations[^key-112564326e4ee384ce2139f7ffb48812][^key-9ac0d7e5d28e3fa56ada90d226a22a3b]
+## 56. Deciding applications: general considerations[^c-112564326e4ee384ce2139f7ffb48812][^c-9ac0d7e5d28e3fa56ada90d226a22a3b]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-112564326e4ee384ce2139f7ffb48812]: Commencement: S. 56 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-112564326e4ee384ce2139f7ffb48812]: Commencement: S. 56 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-9ac0d7e5d28e3fa56ada90d226a22a3b]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2024/3/section/56) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)
+[^c-9ac0d7e5d28e3fa56ada90d226a22a3b]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2024/3/section/56) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48A. Enforcement of agreements for ancillary credit services[^key-de59fe8d95097ba78e399129f11cf383]
+## 48A. Enforcement of agreements for ancillary credit services[^c-de59fe8d95097ba78e399129f11cf383]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de59fe8d95097ba78e399129f11cf383]: Textual amendment: [Arts. 48A](https://www.legislation.gov.uk/uksi/2013/1881/article/48A), [48B](https://www.legislation.gov.uk/uksi/2013/1881/article/48B) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(3)](https://www.legislation.gov.uk/uksi/2014/208/article/7/3)
+[^c-de59fe8d95097ba78e399129f11cf383]: Textual amendment: [Arts. 48A](https://www.legislation.gov.uk/uksi/2013/1881/article/48A), [48B](https://www.legislation.gov.uk/uksi/2013/1881/article/48B) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(3)](https://www.legislation.gov.uk/uksi/2014/208/article/7/3)

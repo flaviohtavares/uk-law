@@ -31,10 +31,10 @@ summary: ''
 
 of 2 December 2005 on the conclusion, on behalf of the European Community, of the UN-ECE Protocol on Pollutant Release and Transfer Registers (revoked)
 
-[^key-2eba347a6ceca5de8f464f4211de0f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2eba347a6ceca5de8f464f4211de0f1c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-2eba347a6ceca5de8f464f4211de0f1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-2eba347a6ceca5de8f464f4211de0f1c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2eba347a6ceca5de8f464f4211de0f1c]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2eba347a6ceca5de8f464f4211de0f1c]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

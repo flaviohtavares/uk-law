@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Recovery of expenses[^key-307342bec16124d7f9129a4d3ca5cea9]
+## 150. Recovery of expenses[^c-307342bec16124d7f9129a4d3ca5cea9]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-307342bec16124d7f9129a4d3ca5cea9]: Commencement: S. 150 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-307342bec16124d7f9129a4d3ca5cea9]: Commencement: S. 150 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

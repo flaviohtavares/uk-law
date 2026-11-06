@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Online advertising of unlawful immigration services[^key-9afb44b6c4c25350b1f88bbe8bbec9c4][^key-406f91c5f85f930d7500f6e85949832b]
+## 17. Online advertising of unlawful immigration services[^c-9afb44b6c4c25350b1f88bbe8bbec9c4][^c-406f91c5f85f930d7500f6e85949832b]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9afb44b6c4c25350b1f88bbe8bbec9c4]: Commencement: S. 17 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-9afb44b6c4c25350b1f88bbe8bbec9c4]: Commencement: S. 17 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-406f91c5f85f930d7500f6e85949832b]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/31/section/17) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/a)
+[^c-406f91c5f85f930d7500f6e85949832b]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/31/section/17) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165A. Meaning of “holding company”, “trading company” and “trading group”[^key-5711249d7faa45095a90d907c661ff4e]
+## 165A. Meaning of “holding company”, “trading company” and “trading group”[^c-5711249d7faa45095a90d907c661ff4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ and in paragraph (b) above “**appropriate proportion**” means a proportion c
 
 (14) In this section—
 
-- “**51% subsidiary**” has the meaning given by Chapter 3 of Part 24 of CTA 2010[^key-ff1a39ddde65c7753dfcb677e603ed98],
+- “**51% subsidiary**” has the meaning given by Chapter 3 of Part 24 of CTA 2010[^c-ff1a39ddde65c7753dfcb677e603ed98],
 - “**group of companies**” means a company which has one or more 51% subsidiaries together with those subsidiaries,
 - “**joint venture company**” means a company—
   - (a) which is a trading company or the holding company of a trading group, and
@@ -90,14 +90,14 @@ and in paragraph (b) above “**appropriate proportion**” means a proportion c
 - “**qualifying shareholding**”, in relation to a company and a joint venture company, means—
   - (a) the holding by the company of 10% or more of the ordinary share capital of the joint venture company, or
   - (b) (where the company is a member of a group of companies) the holding by the company and the other members of the group (between them) of 10% or more of that ordinary share capital, and
-- “**trade**” means [^key-f7e48ce8fc1a727366672ad7f4736c27]... anything which—
+- “**trade**” means [^c-f7e48ce8fc1a727366672ad7f4736c27]... anything which—
   - (a) is a trade, profession or vocation, within the meaning of the Income Tax Acts, and
   - (b) is conducted on a commercial basis and with a view to the realisation of profits.
 
 ## Annotations
 
-[^key-5711249d7faa45095a90d907c661ff4e]: Textual amendment: S. 165A inserted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/34)
+[^c-5711249d7faa45095a90d907c661ff4e]: Textual amendment: S. 165A inserted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 34](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/34)
 
-[^key-ff1a39ddde65c7753dfcb677e603ed98]: Textual amendment: Words in s. 165A(14) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 241](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/241) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ff1a39ddde65c7753dfcb677e603ed98]: Textual amendment: Words in s. 165A(14) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 241](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/241) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f7e48ce8fc1a727366672ad7f4736c27]: Textual amendment: Words in [s. 165A(14)](https://www.legislation.gov.uk/ukpga/1992/12/section/165A/14) omitted (with effect in accordance with Sch. 5 para. 13 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/10/3), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-f7e48ce8fc1a727366672ad7f4736c27]: Textual amendment: Words in [s. 165A(14)](https://www.legislation.gov.uk/ukpga/1992/12/section/165A/14) omitted (with effect in accordance with Sch. 5 para. 13 of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 10(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/10/3), [13](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/13) (with [Sch. 5 paras. 14](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/14), [15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

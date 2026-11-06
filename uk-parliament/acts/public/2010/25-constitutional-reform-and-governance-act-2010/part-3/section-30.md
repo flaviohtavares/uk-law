@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. MPs' allowances scheme[^key-97cbe037dbd230187c2bc86b3c920fc7]
+## 30. MPs' allowances scheme[^c-97cbe037dbd230187c2bc86b3c920fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 5 of the Parliamentary Standards Act 2009 (MPs' allowances scheme) af
 
 ## Annotations
 
-[^key-97cbe037dbd230187c2bc86b3c920fc7]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2010/25/section/30) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/c)
+[^c-97cbe037dbd230187c2bc86b3c920fc7]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2010/25/section/30) in force at 7.5.2010 by [S.I. 2010/1277](https://www.legislation.gov.uk/uksi/2010/1277), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1277/article/3/c)

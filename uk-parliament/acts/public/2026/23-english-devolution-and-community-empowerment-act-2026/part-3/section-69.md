@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Secretary of State to have power to discharge statutory trusts[^key-aac1845a28f5b7f69cbed87ca756df89]
+## 69. Secretary of State to have power to discharge statutory trusts[^c-aac1845a28f5b7f69cbed87ca756df89]
 
 *Extent: E+W*
 
@@ -285,4 +285,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aac1845a28f5b7f69cbed87ca756df89]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-aac1845a28f5b7f69cbed87ca756df89]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

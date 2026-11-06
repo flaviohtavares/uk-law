@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to provide that certain asbestos-related condi
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 11th March 2009 and received Royal Assent on 17th April 2009
 
-## 1. Pleural plaques[^key-b915c4ff04007b841dcc7481153e551b]
+## 1. Pleural plaques[^c-b915c4ff04007b841dcc7481153e551b]
 
 (1) Asbestos-related pleural plaques are a personal injury which is not negligible.
 
@@ -44,7 +44,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) But nothing in this section otherwise affects any enactment or rule of law which determines whether and in what circumstances a person may be liable in damages in respect of personal injuries.
 
-## 2. Pleural thickening and asbestosis[^key-3340f08f4bf8843a674eae9c1d4d0f8c]
+## 2. Pleural thickening and asbestosis[^c-3340f08f4bf8843a674eae9c1d4d0f8c]
 
 (1) For the avoidance of doubt, a condition mentioned in subsection (2) which has not caused and is not causing impairment of a person's physical condition is a personal injury which is not negligible.
 
@@ -59,7 +59,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) But nothing in this section otherwise affects any enactment or rule of law which determines whether and in what circumstances a person may be liable in damages in respect of personal injuries.
 
-## 3. Limitation of actions[^key-25ab6cb9c5a6d0abede1089735d266c6]
+## 3. Limitation of actions[^c-25ab6cb9c5a6d0abede1089735d266c6]
 
 (1) This section applies to an action of damages for personal injuries—
 
@@ -89,10 +89,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-b915c4ff04007b841dcc7481153e551b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2009/4/section/1) in force at 17.6.2009 by [S.S.I. 2009/172](https://www.legislation.gov.uk/ssi/2009/172), [art. 2](https://www.legislation.gov.uk/ssi/2009/172/article/2)
+[^c-b915c4ff04007b841dcc7481153e551b]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2009/4/section/1) in force at 17.6.2009 by [S.S.I. 2009/172](https://www.legislation.gov.uk/ssi/2009/172), [art. 2](https://www.legislation.gov.uk/ssi/2009/172/article/2)
 
-[^key-3340f08f4bf8843a674eae9c1d4d0f8c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2009/4/section/2) in force at 17.6.2009 by [S.S.I. 2009/172](https://www.legislation.gov.uk/ssi/2009/172), [art. 2](https://www.legislation.gov.uk/ssi/2009/172/article/2)
+[^c-3340f08f4bf8843a674eae9c1d4d0f8c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2009/4/section/2) in force at 17.6.2009 by [S.S.I. 2009/172](https://www.legislation.gov.uk/ssi/2009/172), [art. 2](https://www.legislation.gov.uk/ssi/2009/172/article/2)
 
-[^key-25ab6cb9c5a6d0abede1089735d266c6]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2009/4/section/3) in force at 17.6.2009 by [S.S.I. 2009/172](https://www.legislation.gov.uk/ssi/2009/172), [art. 2](https://www.legislation.gov.uk/ssi/2009/172/article/2)
+[^c-25ab6cb9c5a6d0abede1089735d266c6]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2009/4/section/3) in force at 17.6.2009 by [S.S.I. 2009/172](https://www.legislation.gov.uk/ssi/2009/172), [art. 2](https://www.legislation.gov.uk/ssi/2009/172/article/2)
 
 [^c1969272]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2009/4/section/4) partly in force; [s. 4(1)](https://www.legislation.gov.uk/asp/2009/4/section/4/1) in force at Royal Assent see [s. 4(1)](https://www.legislation.gov.uk/asp/2009/4/section/4/1)

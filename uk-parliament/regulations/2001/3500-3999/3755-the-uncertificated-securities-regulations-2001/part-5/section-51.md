@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Minor and consequential amendments[^key-5e3366a4940d25f82eadbd2126c69828]
+## 51. Minor and consequential amendments[^c-5e3366a4940d25f82eadbd2126c69828]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 (minor and consequential amendments) shall have effect.
 
 ## Annotations
 
-[^key-5e3366a4940d25f82eadbd2126c69828]: Commencement: Reg. 51 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-5e3366a4940d25f82eadbd2126c69828]: Commencement: Reg. 51 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

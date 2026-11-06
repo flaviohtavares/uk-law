@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Port health districts and authorities.[^c8860831][^key-43e939a8ed7d51739c45d5f4ccf926c0][^key-f08c48976f9f13f07695070830ed4e2a]
+## 2. Port health districts and authorities.[^c8860831][^c-43e939a8ed7d51739c45d5f4ccf926c0][^c-f08c48976f9f13f07695070830ed4e2a]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ below, “**riparian authority**”, in relation to a port of a port, means—
 
     S. 2: s. 2 (with ss. 3 and 4) power exercised (02.12.1991) by [S.I.1991/2913](https://www.legislation.gov.uk/uksi/1991/2913).
 
-[^key-43e939a8ed7d51739c45d5f4ccf926c0]: Modification: S. 2 excluded (16.5.2008) by [London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1), [56](https://www.legislation.gov.uk/uksi/2008/1261/article/56) (with [arts. 41(1)](https://www.legislation.gov.uk/uksi/2008/1261/article/41/1), [45](https://www.legislation.gov.uk/uksi/2008/1261/article/45), [54(2)](https://www.legislation.gov.uk/uksi/2008/1261/article/54/2), [55](https://www.legislation.gov.uk/uksi/2008/1261/article/55), [56](https://www.legislation.gov.uk/uksi/2008/1261/article/56), [57](https://www.legislation.gov.uk/uksi/2008/1261/article/57), [58(6)](https://www.legislation.gov.uk/uksi/2008/1261/article/58/6))
+[^c-43e939a8ed7d51739c45d5f4ccf926c0]: Modification: S. 2 excluded (16.5.2008) by [London Gateway Port Harbour Empowerment Order 2008 (S.I. 2008/1261)](https://www.legislation.gov.uk/uksi/2008/1261), [arts. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1), [56](https://www.legislation.gov.uk/uksi/2008/1261/article/56) (with [arts. 41(1)](https://www.legislation.gov.uk/uksi/2008/1261/article/41/1), [45](https://www.legislation.gov.uk/uksi/2008/1261/article/45), [54(2)](https://www.legislation.gov.uk/uksi/2008/1261/article/54/2), [55](https://www.legislation.gov.uk/uksi/2008/1261/article/55), [56](https://www.legislation.gov.uk/uksi/2008/1261/article/56), [57](https://www.legislation.gov.uk/uksi/2008/1261/article/57), [58(6)](https://www.legislation.gov.uk/uksi/2008/1261/article/58/6))
 
-[^key-f08c48976f9f13f07695070830ed4e2a]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1984/22/section/2) excluded (13.3.2019) by [The Port of Tilbury (Expansion) Order 2019 (S.I. 2019/359)](https://www.legislation.gov.uk/uksi/2019/359), [arts. 1](https://www.legislation.gov.uk/uksi/2019/359/article/1), [3(12)](https://www.legislation.gov.uk/uksi/2019/359/article/3/12) (with [arts. 55](https://www.legislation.gov.uk/uksi/2019/359/article/55), [56](https://www.legislation.gov.uk/uksi/2019/359/article/56))
+[^c-f08c48976f9f13f07695070830ed4e2a]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/1984/22/section/2) excluded (13.3.2019) by [The Port of Tilbury (Expansion) Order 2019 (S.I. 2019/359)](https://www.legislation.gov.uk/uksi/2019/359), [arts. 1](https://www.legislation.gov.uk/uksi/2019/359/article/1), [3(12)](https://www.legislation.gov.uk/uksi/2019/359/article/3/12) (with [arts. 55](https://www.legislation.gov.uk/uksi/2019/359/article/55), [56](https://www.legislation.gov.uk/uksi/2019/359/article/56))

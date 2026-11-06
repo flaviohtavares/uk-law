@@ -22,12 +22,12 @@ summary: ''
 
 (1) Regulations may make provision for conferring on the prescribed authorities functions in connection with conducting work-focused interviews in cases where such interviews are requested or consented to by persons to whom this section applies.
 
-(2) This section applies to —[^key-1eeb35448c78d8c65fcd9bf9f31dfb49]
+(2) This section applies to —[^c-1eeb35448c78d8c65fcd9bf9f31dfb49]
 
 - (a) persons making claims for or entitled to any of the benefits listed in section 2A(2) above or any prescribed benefit; and
 - (b) partners of persons entitled to any of the benefits listed in section 2AA(2) above or any prescribed benefit,
 
-and it so applies regardless of whether such persons have, in accordance with regulations under section 2A or 2AA[^key-7ea9185da64293a32b42da5c7c5c4e8d] above, already taken part in interviews conducted under such regulations.
+and it so applies regardless of whether such persons have, in accordance with regulations under section 2A or 2AA[^c-7ea9185da64293a32b42da5c7c5c4e8d] above, already taken part in interviews conducted under such regulations.
 
 (3) The functions which may be conferred on the prescribed authorities by regulations under this section include functions relating to—
 
@@ -48,6 +48,6 @@ and it so applies regardless of whether such persons have, in accordance with re
 
 [^c14891711]: Textual amendment: S. 2C inserted (1.12.1999) by [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147), [arts. 1(4)](https://www.legislation.gov.uk/nisi/1999/3147/article/1/4), [55](https://www.legislation.gov.uk/nisi/1999/3147/article/55)
 
-[^key-1eeb35448c78d8c65fcd9bf9f31dfb49]: Textual amendment: Words in s. 2C(2) substituted (10.9.2003) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 9(1)](https://www.legislation.gov.uk/nia/2002/10/section/9/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/7/a); [S.R. 2003/396](https://www.legislation.gov.uk/nisr/2003/396), [art. 2](https://www.legislation.gov.uk/nisr/2003/396/article/2)
+[^c-1eeb35448c78d8c65fcd9bf9f31dfb49]: Textual amendment: Words in s. 2C(2) substituted (10.9.2003) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 9(1)](https://www.legislation.gov.uk/nia/2002/10/section/9/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/7/a); [S.R. 2003/396](https://www.legislation.gov.uk/nisr/2003/396), [art. 2](https://www.legislation.gov.uk/nisr/2003/396/article/2)
 
-[^key-7ea9185da64293a32b42da5c7c5c4e8d]: Textual amendment: Words in s. 2C(2) inserted (10.9.2003) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 9(1)](https://www.legislation.gov.uk/nia/2002/10/section/9/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/7/b); [S.R. 2003/396](https://www.legislation.gov.uk/nisr/2003/396), [art. 2](https://www.legislation.gov.uk/nisr/2003/396/article/2)
+[^c-7ea9185da64293a32b42da5c7c5c4e8d]: Textual amendment: Words in s. 2C(2) inserted (10.9.2003) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 9(1)](https://www.legislation.gov.uk/nia/2002/10/section/9/1), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/7/b); [S.R. 2003/396](https://www.legislation.gov.uk/nisr/2003/396), [art. 2](https://www.legislation.gov.uk/nisr/2003/396/article/2)

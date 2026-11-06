@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Abolition of NHS Trust Development Authority[^key-b8457245ba65969057cda25310737a5a][^key-9e53aa49b945073210e41499093e486e]
+## 36. Abolition of NHS Trust Development Authority[^c-b8457245ba65969057cda25310737a5a][^c-9e53aa49b945073210e41499093e486e]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8457245ba65969057cda25310737a5a]: Commencement: S. 36 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-b8457245ba65969057cda25310737a5a]: Commencement: S. 36 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-9e53aa49b945073210e41499093e486e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/31/section/36) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 12](https://www.legislation.gov.uk/uksi/2022/734/regulation/12), [13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))
+[^c-9e53aa49b945073210e41499093e486e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/31/section/36) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 12](https://www.legislation.gov.uk/uksi/2022/734/regulation/12), [13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29))

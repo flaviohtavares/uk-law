@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 170. Transfer payments made to other schemes or pension arrangements[^key-09f27d790be386537d4f0297e08ffb74]
+## 170. Transfer payments made to other schemes or pension arrangements[^c-09f27d790be386537d4f0297e08ffb74]
 
 *Extent: S*
 
-(1) Subject to regulation 175 (request for transfer out after member repays to scheme manager a refund received under regulation 166[^key-0fe76e588709619fe5fa306c7b461d59]), a transfer payment may only be made in respect of the accrued rights to benefits of a deferred member of this scheme.
+(1) Subject to regulation 175 (request for transfer out after member repays to scheme manager a refund received under regulation 166[^c-0fe76e588709619fe5fa306c7b461d59]), a transfer payment may only be made in respect of the accrued rights to benefits of a deferred member of this scheme.
 
 (2) A transfer payment may only be made to—
 
@@ -42,9 +42,9 @@ summary: ''
 
 ## Annotations
 
-[^key-09f27d790be386537d4f0297e08ffb74]: Commencement: Reg. 170 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-09f27d790be386537d4f0297e08ffb74]: Commencement: Reg. 170 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-0fe76e588709619fe5fa306c7b461d59]: Textual amendment: Words in [reg. 170(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/170/1) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/325/regulation/9)
+[^c-0fe76e588709619fe5fa306c7b461d59]: Textual amendment: Words in [reg. 170(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/170/1) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/325/regulation/9)
 
 [^f00065]: Footnote: Section 169(2) was amended by the Finance Act [2013 (c.29)](https://www.legislation.gov.uk/ukpga/2013/29), section 53(2) and (3).
 

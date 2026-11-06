@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Insect nuisance[^key-ac3d8afc7379a7f0fe1621144acce661]
+## 109. Insect nuisance[^c-ac3d8afc7379a7f0fe1621144acce661]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3d8afc7379a7f0fe1621144acce661]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2008/5/section/109) in force at 26.1.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)
+[^c-ac3d8afc7379a7f0fe1621144acce661]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2008/5/section/109) in force at 26.1.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/9/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/9/schedule/1)

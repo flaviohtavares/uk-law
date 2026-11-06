@@ -52,11 +52,11 @@ The Secretary of State for Transport makes this Order in exercise of the powers 
 
 The Secretary of State is a Minister designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to port security, measures relating to the safety of ships and the health and safety of persons on them, and maritime transport[^f00002].
 
-## 1. Citation and commencement[^key-20f49d16130885824dc9c5afc62809da]
+## 1. Citation and commencement[^c-20f49d16130885824dc9c5afc62809da]
 
 This Order may be cited as the Port Security (Port of Dover) Designation Order 2011 and comes into force on 31st January 2012.
 
-## 2. Port boundary[^key-051d5f0cedeccf61daf73a8ef84c0e68]
+## 2. Port boundary[^c-051d5f0cedeccf61daf73a8ef84c0e68]
 
 (1) For the purposes of regulation 3(2)(a) of the Port Security Regulations 2009[^f00003] the port of Dover is comprised of —
 
@@ -71,13 +71,13 @@ This Order may be cited as the Port Security (Port of Dover) Designation Order 2
 
 (3) Point Y is the point where the shortest line tracking the level of mean low water springs which can be drawn from point F to the boundary of the Dover Harbour area first intersects with the boundary of the Dover Harbour area.
 
-## 3. The Dover Port Security Authority[^key-64166a68ab5a69cef7e0a57cfa183ac7]
+## 3. The Dover Port Security Authority[^c-64166a68ab5a69cef7e0a57cfa183ac7]
 
 (1) For the purposes of the Port Security Regulations 2009, the Dover Port Security Authority is designated as the port security authority for the port of Dover.
 
 (2) Schedule 3 has effect with respect to the Dover Port Security Authority.
 
-## 4. Review[^key-9753d77247323b602bd6c87b52e5bb81]
+## 4. Review[^c-9753d77247323b602bd6c87b52e5bb81]
 
 (1) The Secretary of State must from time to time—
 
@@ -93,7 +93,7 @@ This Order may be cited as the Port Security (Port of Dover) Designation Order 2
 - (b) assess the extent to which those objectives are achieved, and
 - (c) assess whether those objectives remain appropriate and, if so, the extent to which they could be achieved with a system that imposes less regulation.
 
-(4) The first report under this article must be published before 31st January 2017[^key-864d9dc79444d14b215e01ca939cf6cd].
+(4) The first report under this article must be published before 31st January 2017[^c-864d9dc79444d14b215e01ca939cf6cd].
 
 (5) Reports under this article are afterwards to be published at intervals not exceeding five years.
 
@@ -107,15 +107,15 @@ Department for Transport
 
 19th December 2011
 
-## SCHEDULE 1 — Boundary of the Dover Harbour Area[^key-165cff69d21ddcd48a6514a176c6efd5]
+## SCHEDULE 1 — Boundary of the Dover Harbour Area[^c-165cff69d21ddcd48a6514a176c6efd5]
 
 Article 2(1)(a)
 
-[^key-165cff69d21ddcd48a6514a176c6efd5]
+[^c-165cff69d21ddcd48a6514a176c6efd5]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2011/3045/images/uksi_20113045_en_001)
 
-## SCHEDULE 2[^key-5d229a7508d0d7d7844779a29feee4e6]
+## SCHEDULE 2[^c-5d229a7508d0d7d7844779a29feee4e6]
 
 Article 2(1)(b)
 
@@ -141,7 +141,7 @@ Article 2(1)(b)
 
 Article 3(2)
 
-### 1. Members[^key-50cd4205eb1d5f29f50be1e6672b9cdf]
+### 1. Members[^c-50cd4205eb1d5f29f50be1e6672b9cdf]
 
 (1) The Dover Port Security Authority (in this Schedule called “the Authority”) is to consist of three or more members, each of them appointed by the Secretary of State.
 
@@ -161,7 +161,7 @@ Article 3(2)
 
 - (a) the member has failed to attend four or more consecutive meetings of the Authority without the permission of the Secretary of State;
 - (b) the member has a financial interest and it appears to the Secretary of State that the interest is likely to influence or to be capable of being seen as influencing the performance of the member’s functions;
-- (c) the member has been made[^key-fb6f15be2a97f2d5f279a1c57c922d6f] bankrupt, the member’s estate has been sequestrated or the member has made a composition with creditors or granted a trust deed for creditors;
+- (c) the member has been made[^c-fb6f15be2a97f2d5f279a1c57c922d6f] bankrupt, the member’s estate has been sequestrated or the member has made a composition with creditors or granted a trust deed for creditors;
 - (d) there has been misconduct on the part of the member relevant to his or her position as a member of the Authority; or
 - (e) the member is unable or unfit to perform the functions of the office.
 
@@ -171,7 +171,7 @@ Article 3(2)
 
 (8) A proxy must speak and vote at the meeting on behalf of the absent member as that member may direct.
 
-### 2. Proceedings of the Authority[^key-8e7e4aecaec01d3a35bd91e1a9df51d9]
+### 2. Proceedings of the Authority[^c-8e7e4aecaec01d3a35bd91e1a9df51d9]
 
 (1) The Authority must hold at least two meetings in any 12-month period.
 
@@ -194,7 +194,7 @@ Article 3(2)
 
 (9) The Authority must provide the Secretary of State with a copy of the minutes of a meeting before the end of the period of thirty days beginning with the day of the meeting.
 
-### 3. Members’ interests[^key-929315de4991adbd7dfc662d73d9d27f]
+### 3. Members’ interests[^c-929315de4991adbd7dfc662d73d9d27f]
 
 (1) A member who has any pecuniary interest, direct or indirect, in any matter that is brought up for consideration at a meeting of the Authority (which expression in this paragraph includes any committee or subcommittee of the Authority) must disclose the nature of the interest to the meeting.
 
@@ -235,7 +235,7 @@ and in the case of two persons living together as a couple (whether married or n
 
 (11) A person shall not be convicted of an offence under subparagraph (10) if it is proved that that person did not know that the contract, proposed contract or other matter in which that person had a pecuniary interest was the subject of consideration at the meeting concerned.
 
-### 4. The Crown[^key-9ea5e736c82c69e5e58f862ff4801285]
+### 4. The Crown[^c-9ea5e736c82c69e5e58f862ff4801285]
 
 The Authority is not to be regarded as the servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown and its property is not to be regarded as property of, or held on behalf of, the Crown.
 
@@ -255,30 +255,30 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595), [1994/757](https://www.legislation.gov.uk/uksi/1994/757) and [2004/706](https://www.legislation.gov.uk/uksi/2004/706).
 
-[^key-20f49d16130885824dc9c5afc62809da]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-20f49d16130885824dc9c5afc62809da]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-051d5f0cedeccf61daf73a8ef84c0e68]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/3045/article/2) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-051d5f0cedeccf61daf73a8ef84c0e68]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/3045/article/2) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
 [^f00003]: Footnote: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048).
 
-[^key-64166a68ab5a69cef7e0a57cfa183ac7]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/3045/article/3) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-64166a68ab5a69cef7e0a57cfa183ac7]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/3045/article/3) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-9753d77247323b602bd6c87b52e5bb81]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/3045/article/4) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-9753d77247323b602bd6c87b52e5bb81]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/3045/article/4) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
 [^f00004]: Footnote: [S.I. 2009/2048](https://www.legislation.gov.uk/uksi/2009/2048)
 
-[^key-864d9dc79444d14b215e01ca939cf6cd]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/3045/article/4/4) substituted (26.11.2013) by [The Port Security Designation (Amendment) Order 2013 (S.I. 2013/2728)](https://www.legislation.gov.uk/uksi/2013/2728), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2728/article/1), [2](https://www.legislation.gov.uk/uksi/2013/2728/article/2)
+[^c-864d9dc79444d14b215e01ca939cf6cd]: Textual amendment: Words in [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/3045/article/4/4) substituted (26.11.2013) by [The Port Security Designation (Amendment) Order 2013 (S.I. 2013/2728)](https://www.legislation.gov.uk/uksi/2013/2728), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2728/article/1), [2](https://www.legislation.gov.uk/uksi/2013/2728/article/2)
 
-[^key-165cff69d21ddcd48a6514a176c6efd5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3045/schedule/1) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-165cff69d21ddcd48a6514a176c6efd5]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3045/schedule/1) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-5d229a7508d0d7d7844779a29feee4e6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/3045/schedule/2) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-5d229a7508d0d7d7844779a29feee4e6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/3045/schedule/2) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-50cd4205eb1d5f29f50be1e6672b9cdf]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/1) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-50cd4205eb1d5f29f50be1e6672b9cdf]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/1) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-fb6f15be2a97f2d5f279a1c57c922d6f]: Textual amendment: Word in [Sch. 3 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/1/5/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
+[^c-fb6f15be2a97f2d5f279a1c57c922d6f]: Textual amendment: Word in [Sch. 3 para. 1(5)(c)](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/1/5/c) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2016/481/schedule/2/paragraph/13)
 
-[^key-8e7e4aecaec01d3a35bd91e1a9df51d9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/2) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-8e7e4aecaec01d3a35bd91e1a9df51d9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/2) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-929315de4991adbd7dfc662d73d9d27f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/3) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-929315de4991adbd7dfc662d73d9d27f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/3) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
 
-[^key-9ea5e736c82c69e5e58f862ff4801285]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/4) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)
+[^c-9ea5e736c82c69e5e58f862ff4801285]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/3045/schedule/3/paragraph/4) in force at 31.1.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2011/3045/article/1)

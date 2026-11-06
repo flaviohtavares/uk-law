@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3B — CONVENTIONAL CAGE SYTEMS[^key-1300997ddc4379442bd4510c02c710d9]
+## SCHEDULE 3B — CONVENTIONAL CAGE SYTEMS[^c-1300997ddc4379442bd4510c02c710d9]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1300997ddc4379442bd4510c02c710d9]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3B) inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/wsi/2002/1898/schedule)
+[^c-1300997ddc4379442bd4510c02c710d9]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/wsi/2001/2682/schedule/3B) inserted (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/wsi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2002/1898/regulation/2/8), [Sch.](https://www.legislation.gov.uk/wsi/2002/1898/schedule)

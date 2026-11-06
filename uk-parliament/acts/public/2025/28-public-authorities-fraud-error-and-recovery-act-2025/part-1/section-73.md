@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Public Sector Fraud Authority and transfer of functions[^key-9e04b92d99f426f5b3c53b848202fcc4]
+## 73. Public Sector Fraud Authority and transfer of functions[^c-9e04b92d99f426f5b3c53b848202fcc4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Schedule 2 contains provision about—
 
 ## Annotations
 
-[^key-9e04b92d99f426f5b3c53b848202fcc4]: Commencement: S. 73 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-9e04b92d99f426f5b3c53b848202fcc4]: Commencement: S. 73 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

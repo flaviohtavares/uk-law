@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Delegation of functions relating to the register[^key-40dfdc25c7aec75babfb57c2b3afe7e4]
+## 59. Delegation of functions relating to the register[^c-40dfdc25c7aec75babfb57c2b3afe7e4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40dfdc25c7aec75babfb57c2b3afe7e4]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2014/14/section/59) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-40dfdc25c7aec75babfb57c2b3afe7e4]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2014/14/section/59) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

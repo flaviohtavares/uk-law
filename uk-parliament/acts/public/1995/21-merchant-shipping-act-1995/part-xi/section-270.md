@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Rules as to investigations and appeals.[^key-0a80c20a0e4b870a16358c0cddcd9c3b]
+## 270. Rules as to investigations and appeals.[^c-0a80c20a0e4b870a16358c0cddcd9c3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
+[^c-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))

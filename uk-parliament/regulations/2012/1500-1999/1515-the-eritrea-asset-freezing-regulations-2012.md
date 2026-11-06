@@ -31,7 +31,7 @@ summary: ''
 
 Criminal Law
 
-The Eritrea (Asset-Freezing) Regulations 2012 (revoked)[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+The Eritrea (Asset-Freezing) Regulations 2012 (revoked)[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 Made
 
@@ -45,114 +45,114 @@ Coming into force
 
 5th July 2012
 
-[^key-c0ef46ef4b00b60a3789d74cba8f7baa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ef46ef4b00b60a3789d74cba8f7baa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 1. Citation, commencement and application[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 2. Interpretation[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Freezing of funds and economic resources[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 3. Freezing of funds and economic resources[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Making funds available to a designated person[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 4. Making funds available to a designated person[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Making funds available for the benefit of a designated person[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 5. Making funds available for the benefit of a designated person[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Making economic resources available to a designated person[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 6. Making economic resources available to a designated person[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Making economic resources available for the benefit of a designated person[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 7. Making economic resources available for the benefit of a designated person[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Credits to a frozen account[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 8. Credits to a frozen account[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Licences[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 9. Licences[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Contravention and circumvention of prohibitions[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 10. Contravention and circumvention of prohibitions[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Information provisions[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 11. Information provisions[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Officers of a body corporate etc.[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 12. Officers of a body corporate etc.[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Penalties[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 13. Penalties[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Proceedings[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 14. Proceedings[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Consent to prosecution[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 15. Consent to prosecution[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Notices[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 16. Notices[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. The Crown[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## 17. The Crown[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ef46ef4b00b60a3789d74cba8f7baa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ef46ef4b00b60a3789d74cba8f7baa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information Provisions[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+## SCHEDULE — Information Provisions[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 Regulation 11
 
-### 1. Reporting obligations of relevant institutions and others[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+### 1. Reporting obligations of relevant institutions and others[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Powers to request information[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+### 2. Powers to request information[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Production of documents[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+### 3. Production of documents[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Failure to comply with request for information[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+### 4. Failure to comply with request for information[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. General power to disclose information[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+### 5. General power to disclose information[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Application of provisions[^key-c0ef46ef4b00b60a3789d74cba8f7baa]
+### 6. Application of provisions[^c-c0ef46ef4b00b60a3789d74cba8f7baa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c0ef46ef4b00b60a3789d74cba8f7baa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ef46ef4b00b60a3789d74cba8f7baa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0ef46ef4b00b60a3789d74cba8f7baa]: Textual amendment: Regulations revoked (27.3.2020) by [The Eritrea (Asset-Freezing) (Revocation) Regulations 2020 (S.I. 2020/219)](https://www.legislation.gov.uk/uksi/2020/219), [regs. 1](https://www.legislation.gov.uk/uksi/2020/219/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/219/regulation/2)
+[^c-c0ef46ef4b00b60a3789d74cba8f7baa]: Textual amendment: Regulations revoked (27.3.2020) by [The Eritrea (Asset-Freezing) (Revocation) Regulations 2020 (S.I. 2020/219)](https://www.legislation.gov.uk/uksi/2020/219), [regs. 1](https://www.legislation.gov.uk/uksi/2020/219/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/219/regulation/2)

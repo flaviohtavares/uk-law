@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-c5a13ef8c275fcad4609fb8b545f1f67] The charity trustees of a charity must (subject to section 133) prepare in respect of each financial year of the charity a statement of accounts complying with such requirements as to its form and contents as may be prescribed by regulations made by the Secretary of State[^key-d50e82073454ef3d4befe8aa8f57674d].
+(1)[^c-c5a13ef8c275fcad4609fb8b545f1f67] The charity trustees of a charity must (subject to section 133) prepare in respect of each financial year of the charity a statement of accounts complying with such requirements as to its form and contents as may be prescribed by regulations made by the Secretary of State[^c-d50e82073454ef3d4befe8aa8f57674d].
 
 (2) Regulations under subsection (1) may in particular make provision—
 
@@ -38,6 +38,6 @@ if the disclosure would fall to be made at a time when the settlor or any spouse
 
 ## Annotations
 
-[^key-c5a13ef8c275fcad4609fb8b545f1f67]: Modification: [S. 132(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/132/1) applied (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1232/regulation/14)
+[^c-c5a13ef8c275fcad4609fb8b545f1f67]: Modification: [S. 132(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/132/1) applied (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1232/regulation/14)
 
-[^key-d50e82073454ef3d4befe8aa8f57674d]: Textual amendment: Words in [s. 132(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/132/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(t)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/t) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-d50e82073454ef3d4befe8aa8f57674d]: Textual amendment: Words in [s. 132(1)](https://www.legislation.gov.uk/ukpga/2011/25/section/132/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(t)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/t) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

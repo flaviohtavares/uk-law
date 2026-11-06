@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Deemed marine licences under the Marine and Coastal Access Act 2009[^key-6899c5fead2eacd2873e7522f7978242]
+## 11. Deemed marine licences under the Marine and Coastal Access Act 2009[^c-6899c5fead2eacd2873e7522f7978242]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The deemed array marine licence and the deemed export cables marine licence are 
 
 ## Annotations
 
-[^key-6899c5fead2eacd2873e7522f7978242]: Commencement: Art. 11 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-6899c5fead2eacd2873e7522f7978242]: Commencement: Art. 11 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

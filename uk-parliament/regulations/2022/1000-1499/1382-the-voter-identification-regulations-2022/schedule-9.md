@@ -22,7 +22,7 @@ summary: ''
 
 Regulations 52(17) and 54(17)
 
-### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^key-994110a4b80385b43ac37fa277980398]
+### PART 1 — Forms for use at a referendum where the poll is not taken together with another election or referendum[^c-994110a4b80385b43ac37fa277980398]
 
 **Official Poll Card (to be sent to a voter voting in person)**
 
@@ -52,7 +52,7 @@ Regulations 52(17) and 54(17)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1382/images/uksi_20221382_en_030)
 
-### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^key-9d957cfb4be1125e9e9beaf31e55c070]
+### PART 2 — Forms for use at a referendum where the poll is taken together with another election or referendum[^c-9d957cfb4be1125e9e9beaf31e55c070]
 
 **Official Poll Card (to be sent to a voter voting in person)**
 
@@ -84,6 +84,6 @@ Regulations 52(17) and 54(17)
 
 ## Annotations
 
-[^key-994110a4b80385b43ac37fa277980398]: Commencement: Sch. 9 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-994110a4b80385b43ac37fa277980398]: Commencement: Sch. 9 Pt. 1 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
 
-[^key-9d957cfb4be1125e9e9beaf31e55c070]: Commencement: Sch. 9 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-9d957cfb4be1125e9e9beaf31e55c070]: Commencement: Sch. 9 Pt. 2 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

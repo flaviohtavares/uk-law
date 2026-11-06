@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Application of prohibitions and requirements outside the United Kingdom[^key-26f4fb233f7ccb4d2ab368f0d226b089][^key-31e3f22d2f6105b6ab69bc4ea94f9888]
+## 3. Application of prohibitions and requirements outside the United Kingdom[^c-26f4fb233f7ccb4d2ab368f0d226b089][^c-31e3f22d2f6105b6ab69bc4ea94f9888]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any person may contravene a relevant prohibition by conduct in the territorial sea.
 
-(3) In this regulation[^key-a8efd63f9c2a770c5437ea364d2c05c6] a “**relevant prohibition**” means any prohibition imposed by—
+(3) In this regulation[^c-a8efd63f9c2a770c5437ea364d2c05c6] a “**relevant prohibition**” means any prohibition imposed by—
 
 - (a) regulation 9(2) (confidential information),
 - (b) Part 3 (Finance),
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-26f4fb233f7ccb4d2ab368f0d226b089]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-26f4fb233f7ccb4d2ab368f0d226b089]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-31e3f22d2f6105b6ab69bc4ea94f9888]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31e3f22d2f6105b6ab69bc4ea94f9888]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a8efd63f9c2a770c5437ea364d2c05c6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/438/regulation/3/3) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/4/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-a8efd63f9c2a770c5437ea364d2c05c6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2019/438/regulation/3/3) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/4/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

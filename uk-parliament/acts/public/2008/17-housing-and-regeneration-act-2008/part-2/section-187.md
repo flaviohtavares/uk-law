@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Change of use, etc.[^key-bb7556871a1b48567653bb1d568f0cf4]
+## 187. Change of use, etc.[^c-bb7556871a1b48567653bb1d568f0cf4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7556871a1b48567653bb1d568f0cf4]: Textual amendment: S. 187 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/19); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)
+[^c-bb7556871a1b48567653bb1d568f0cf4]: Textual amendment: S. 187 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/19); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4)

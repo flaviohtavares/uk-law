@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52B. Interest on advance payments of compensation paid late[^key-f52e28e4c0233bad0213e18757932baf]
+## 52B. Interest on advance payments of compensation paid late[^c-f52e28e4c0233bad0213e18757932baf]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f52e28e4c0233bad0213e18757932baf]: Textual amendment: S. 52B inserted (6.4.2017 for specified purposes) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 196(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/3), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/k)
+[^c-f52e28e4c0233bad0213e18757932baf]: Textual amendment: S. 52B inserted (6.4.2017 for specified purposes) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 196(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/196/3), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/k)

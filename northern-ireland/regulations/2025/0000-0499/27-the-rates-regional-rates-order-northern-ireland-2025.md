@@ -44,15 +44,15 @@ The Department of Finance[^f00001] makes the following Order in exercise of the 
 
 In accordance with Article 7(4)[^f00003] of that Order it has taken into consideration estimates of the amounts to be raised by district rates.
 
-## 1. Citation and commencement[^key-45bfa2e7cb5cbf9ed6b3a3160f17ecfd]
+## 1. Citation and commencement[^c-45bfa2e7cb5cbf9ed6b3a3160f17ecfd]
 
 This Order may be cited as the Rates (Regional Rates) Order (Northern Ireland) 2025 and shall come into operation on the day after the day on which it is affirmed by resolution of the Assembly.
 
-## 2. Application[^key-c0833d2d31b12228ed383fcae9294f4c]
+## 2. Application[^c-c0833d2d31b12228ed383fcae9294f4c]
 
 This Order shall apply in respect of the year ending 31st March 2026.
 
-## 3. Regional Rates[^key-49cf5837d6f4f5e4c1151b74a80e5adf]
+## 3. Regional Rates[^c-49cf5837d6f4f5e4c1151b74a80e5adf]
 
 (1) The regional rate to be levied on the rateable net annual values of hereditaments shall be 29.89 pence in the pound.
 
@@ -82,8 +82,8 @@ Hereditaments which are dwelling-houses, private garages and private storage pre
 
 [^f00003]: Footnote: Article 7(4) was amended by Article 10 of, and paragraph 1 of Schedule 2, to the Rates (Amendment) (Northern Ireland) Order 1998 ([S.I. 1998/3164 (N.I. 22))](https://www.legislation.gov.uk/nisi/1998/3164)
 
-[^key-45bfa2e7cb5cbf9ed6b3a3160f17ecfd]: Commencement: Art. 1 in operation at 11.3.2025 with application in accordance with art. 2
+[^c-45bfa2e7cb5cbf9ed6b3a3160f17ecfd]: Commencement: Art. 1 in operation at 11.3.2025 with application in accordance with art. 2
 
-[^key-c0833d2d31b12228ed383fcae9294f4c]: Commencement: Art. 2 in operation at 11.3.2025 with application in accordance with art. 2
+[^c-c0833d2d31b12228ed383fcae9294f4c]: Commencement: Art. 2 in operation at 11.3.2025 with application in accordance with art. 2
 
-[^key-49cf5837d6f4f5e4c1151b74a80e5adf]: Commencement: Art. 3 in operation at 11.3.2025 with application in accordance with art. 2
+[^c-49cf5837d6f4f5e4c1151b74a80e5adf]: Commencement: Art. 3 in operation at 11.3.2025 with application in accordance with art. 2

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Manner of voting in the referendum[^key-d81476b6ea769c81aad4bb2fdbd48a81]
+## 60. Manner of voting in the referendum[^c-d81476b6ea769c81aad4bb2fdbd48a81]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d81476b6ea769c81aad4bb2fdbd48a81]: Commencement: Reg. 60 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-d81476b6ea769c81aad4bb2fdbd48a81]: Commencement: Reg. 60 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00042]: Footnote: Section 7 was substituted by section 4 of the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2). It was amended by section 12(1) of the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22); paragraphs 1 and 2 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6); paragraph 1 of Schedule 1 to [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078); and paragraph 12 of Schedule 1 to [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465).
 

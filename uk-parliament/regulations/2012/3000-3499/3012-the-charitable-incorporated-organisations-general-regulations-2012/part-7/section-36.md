@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Charity trustee with personal interest in decision[^key-7b63bbec81897c900806dc644c603159]
+## 36. Charity trustee with personal interest in decision[^c-7b63bbec81897c900806dc644c603159]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b63bbec81897c900806dc644c603159]: Commencement: Reg. 36 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-7b63bbec81897c900806dc644c603159]: Commencement: Reg. 36 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

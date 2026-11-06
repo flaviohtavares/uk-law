@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Conditions for making technical standards[^key-f37de20ee4826042ff90e165f3732a52]
+## 24. Conditions for making technical standards[^c-f37de20ee4826042ff90e165f3732a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ After Article 13 insert—
 
 ## Annotations
 
-[^key-f37de20ee4826042ff90e165f3732a52]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f37de20ee4826042ff90e165f3732a52]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 172. Legal aid, advice and assistance[^key-ff0f3ef207c89177a2b8ad7d9d9a5498]
+## 172. Legal aid, advice and assistance[^c-ff0f3ef207c89177a2b8ad7d9d9a5498]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff0f3ef207c89177a2b8ad7d9d9a5498]: Textual amendment: [Art. 172](https://www.legislation.gov.uk/nisi/1995/755/article/172) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-ff0f3ef207c89177a2b8ad7d9d9a5498]: Textual amendment: [Art. 172](https://www.legislation.gov.uk/nisi/1995/755/article/172) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))

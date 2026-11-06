@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 850E. Payments by B out of the excess part of B's profit share[^key-9c7ff51333a0fb38b7d7849897220877]
+## 850E. Payments by B out of the excess part of B's profit share[^c-9c7ff51333a0fb38b7d7849897220877]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c7ff51333a0fb38b7d7849897220877]: Textual amendment: Ss. 850C-850E inserted (retrospective for specified purposes and 6.4.2014 in so far as not already in force and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/7/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)
+[^c-9c7ff51333a0fb38b7d7849897220877]: Textual amendment: Ss. 850C-850E inserted (retrospective for specified purposes and 6.4.2014 in so far as not already in force and with effect in accordance with Sch. 17 paras. 12, 13 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 7(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/7/3), [11](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/11)

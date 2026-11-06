@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Operations which require a licence[^key-8c94fd9e5db9874954afd681b8b2ed7f]
+## 13. Operations which require a licence[^c-8c94fd9e5db9874954afd681b8b2ed7f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ The operations referred to in regulation 12 are any of the following operations 
 
 ## Annotations
 
-[^key-8c94fd9e5db9874954afd681b8b2ed7f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2014/951/regulation/13) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-8c94fd9e5db9874954afd681b8b2ed7f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2014/951/regulation/13) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

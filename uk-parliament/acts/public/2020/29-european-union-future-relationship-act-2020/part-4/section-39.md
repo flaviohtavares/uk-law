@@ -24,14 +24,14 @@ summary: ''
 
 (2) The power to make regulations under subsection (1) may (among other things) be exercised by modifying any provision made by or under an enactment.
 
-(3)[^key-aabc8345211ff98bfa612643957d7cc3] Part 1 of Schedule 6 contains consequential provision.
+(3)[^c-aabc8345211ff98bfa612643957d7cc3] Part 1 of Schedule 6 contains consequential provision.
 
 (4) A Minister of the Crown may by regulations make such transitional, transitory or saving provision as the Minister considers appropriate in connection with the coming into force of any provision of this Act.
 
-(5)[^key-aabc8345211ff98bfa612643957d7cc3] Part 2 of Schedule 6 contains transitional, transitory and saving provision.
+(5)[^c-aabc8345211ff98bfa612643957d7cc3] Part 2 of Schedule 6 contains transitional, transitory and saving provision.
 
 ## Annotations
 
 [^c24409031]: Commencement: [S. 39(1)(2)(4)](https://www.legislation.gov.uk/ukpga/2020/29/section/39/1/2/4) in force at Royal Assent and s. 39(3)(5) in force at Royal Assent for specified purposes, see [s. 40(6)(f)(g)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/f/g)
 
-[^key-aabc8345211ff98bfa612643957d7cc3]: Commencement: [S. 39(3)](https://www.legislation.gov.uk/ukpga/2020/29/section/39/3)[(5)](https://www.legislation.gov.uk/ukpga/2020/29/section/39/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/aa)
+[^c-aabc8345211ff98bfa612643957d7cc3]: Commencement: [S. 39(3)](https://www.legislation.gov.uk/ukpga/2020/29/section/39/3)[(5)](https://www.legislation.gov.uk/ukpga/2020/29/section/39/5) in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/aa)

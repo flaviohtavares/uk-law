@@ -39,13 +39,13 @@ Coming into operation
 
 27th March 2006
 
-The Department of Enterprise, Trade and Investment[^f00001], in exercise of the powers conferred on it by Article 361(2) and (3) of the Insolvency (Northern Ireland) Order 1989[^f00002] and of all other powers enabling it in that behalf, with the concurrence of the Department of Finance and Personnel, hereby makes the following Order:[^key-cf2f2aa8aa8a6ed0a7dd9896fc5ffda0]
+The Department of Enterprise, Trade and Investment[^f00001], in exercise of the powers conferred on it by Article 361(2) and (3) of the Insolvency (Northern Ireland) Order 1989[^f00002] and of all other powers enabling it in that behalf, with the concurrence of the Department of Finance and Personnel, hereby makes the following Order:[^c-cf2f2aa8aa8a6ed0a7dd9896fc5ffda0]
 
-## 1. Citation and commencement[^key-26bfd66d33285aa16ce053f8dc666780]
+## 1. Citation and commencement[^c-26bfd66d33285aa16ce053f8dc666780]
 
 This Order may be cited as the Insolvency (Deposits) Order (Northern Ireland) 2006 and shall come into operation on 27 March 2006.
 
-## 2. Interpretation[^key-c836e210c30c36d78b193c2cca6884c6]
+## 2. Interpretation[^c-c836e210c30c36d78b193c2cca6884c6]
 
 In this Order—
 
@@ -53,18 +53,18 @@ In this Order—
 - “the 1989 Order” means the Insolvency (Northern Ireland) Order 1989;
 - “the Fees Order” means the Insolvency (Fees) Order (Northern Ireland) 2006[^f00003].
 
-## 3. Revocation[^key-ab776fb38a8d5e61b9235df14657d5d6]
+## 3. Revocation[^c-ab776fb38a8d5e61b9235df14657d5d6]
 
 The Insolvency (Deposits) Order (Northern Ireland) 1991[^f00004] and the Insolvency (Deposits) (Amendment) Order (Northern Ireland) 1996[^f00005] are hereby revoked.
 
-## 4. Deposits - winding up by the High Court and bankruptcy[^key-8e8ad6778b5a714243b162d35f55aee2]
+## 4. Deposits - winding up by the High Court and bankruptcy[^c-8e8ad6778b5a714243b162d35f55aee2]
 
 (1) In this Article—
 
 - “appropriate deposit” means—
-  - (a) In relation to a winding-up petition to be presented under the 1989 Order the sum of £1,165:[^key-4b3df86112d6345116862397ad070309]
-  - (b) In relation to a bankruptcy petition to be presented under Article 238(1)(b) of the 1989 Order the sum of £525;[^key-2ef6a25bb7d9d1bfc488b423fc4033de] or
-  - (c) In relation to a bankruptcy petition to be presented under Article 238(1)(a), (ba), (bb), or (c) of the 1989 Order[^f00006] the sum of £700;[^key-f0b480021ecc55452f3bedf8fcfc6863]
+  - (a) In relation to a winding-up petition to be presented under the 1989 Order the sum of £1,165:[^c-4b3df86112d6345116862397ad070309]
+  - (b) In relation to a bankruptcy petition to be presented under Article 238(1)(b) of the 1989 Order the sum of £525;[^c-2ef6a25bb7d9d1bfc488b423fc4033de] or
+  - (c) In relation to a bankruptcy petition to be presented under Article 238(1)(a), (ba), (bb), or (c) of the 1989 Order[^f00006] the sum of £700;[^c-f0b480021ecc55452f3bedf8fcfc6863]
 - “order” means a winding-up, or as the case may be, bankruptcy order;
 - “petition” means a winding-up, or as the case may be, bankruptcy petition;
 - “relevant assets” means the assets of the company or, as the case may be the assets comprised in the estate of the bankrupt; and
@@ -76,15 +76,15 @@ The Insolvency (Deposits) Order (Northern Ireland) 1991[^f00004] and the Insolve
 
 (4) In any case where an order is made (including any case where the order is subsequently annulled, rescinded or recalled), any deposit made shall be returned to the person who made it save to the extent that the relevant assets are insufficient to discharge the fees for which the deposit is security.
 
-## 5. Deposits –official receiver acting as nominee in individual voluntary arrangement[^key-1514b263bb873cd565221f58ce8ad74d]
+## 5. Deposits –official receiver acting as nominee in individual voluntary arrangement[^c-1514b263bb873cd565221f58ce8ad74d]
 
-(1) Where a proposal for an individual voluntary arrangement with the official receiver acting as nominee is notified to the official receiver, the notification shall be accompanied by a deposit of £315[^key-1d18261996a3372fc89ace83f583bdb5] as security for fees IVA1 and IVA2 in the Table of Fees in Schedule 2 to the Fees Order.
+(1) Where a proposal for an individual voluntary arrangement with the official receiver acting as nominee is notified to the official receiver, the notification shall be accompanied by a deposit of £315[^c-1d18261996a3372fc89ace83f583bdb5] as security for fees IVA1 and IVA2 in the Table of Fees in Schedule 2 to the Fees Order.
 
 (2) The deposit shall be used to discharge fees IVA1 and IVA2.
 
 (3) Where the official receiver declines to act in relation to a proposal of the kind mentioned in paragraph (1) the deposit mentioned in that paragraph shall be refunded to the person entitled to it.
 
-(4) Where the official receiver agrees to act as nominee in relation to a proposal of the kind mentioned in paragraph (1) but the proposal is rejected by the bankrupt’s creditors, any balance of the deposit after deducting[^key-fae2c40ec02337410bd8f9e17d03033a] fee IVA2 shall be returned to the person who is entitled to it.
+(4) Where the official receiver agrees to act as nominee in relation to a proposal of the kind mentioned in paragraph (1) but the proposal is rejected by the bankrupt’s creditors, any balance of the deposit after deducting[^c-fae2c40ec02337410bd8f9e17d03033a] fee IVA2 shall be returned to the person who is entitled to it.
 
 Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 16 February 2006
 
@@ -118,32 +118,32 @@ A Regulatory Impact Assessment was prepared for the Insolvency (Northern Ireland
 
 [^f00002]: Footnote: S.I. [1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405); in its application to limited liability partnerships Article 361(2) has been modified by Article 5 of, and Schedule 3 to, the Limited Liability Partnerships Regulations (Northern Ireland) 2004, [S.R. 2004 No. 307](https://www.legislation.gov.uk/nisr/2004/307)
 
-[^key-cf2f2aa8aa8a6ed0a7dd9896fc5ffda0]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/55) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1A para. 5 (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-cf2f2aa8aa8a6ed0a7dd9896fc5ffda0]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/55) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1A para. 5 (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-26bfd66d33285aa16ce053f8dc666780]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
+[^c-26bfd66d33285aa16ce053f8dc666780]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
 
-[^key-c836e210c30c36d78b193c2cca6884c6]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/55/article/2) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
+[^c-c836e210c30c36d78b193c2cca6884c6]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/55/article/2) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
 
 [^f00003]: Footnote: [S.R. 2006 No. 54](https://www.legislation.gov.uk/nisr/2006/54)
 
-[^key-ab776fb38a8d5e61b9235df14657d5d6]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/55/article/3) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
+[^c-ab776fb38a8d5e61b9235df14657d5d6]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/55/article/3) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
 
 [^f00004]: Footnote: [S.R. 1991 No. 384](https://www.legislation.gov.uk/nisr/1991/384)
 
 [^f00005]: Footnote: [S.R. 1996 No. 577](https://www.legislation.gov.uk/nisr/1996/577)
 
-[^key-8e8ad6778b5a714243b162d35f55aee2]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/55/article/4) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
+[^c-8e8ad6778b5a714243b162d35f55aee2]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/55/article/4) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
 
-[^key-4b3df86112d6345116862397ad070309]: Textual amendment: Sum in [Art. 4(1)(a)](https://www.legislation.gov.uk/nisr/2006/55/article/4/1/a) substituted (31.1.2012) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/391)](https://www.legislation.gov.uk/nisr/2011/391), [arts. 1](https://www.legislation.gov.uk/nisr/2011/391/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2011/391/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/391/article/3))
+[^c-4b3df86112d6345116862397ad070309]: Textual amendment: Sum in [Art. 4(1)(a)](https://www.legislation.gov.uk/nisr/2006/55/article/4/1/a) substituted (31.1.2012) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/391)](https://www.legislation.gov.uk/nisr/2011/391), [arts. 1](https://www.legislation.gov.uk/nisr/2011/391/article/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2011/391/article/2/2/a) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/391/article/3))
 
-[^key-2ef6a25bb7d9d1bfc488b423fc4033de]: Textual amendment: Sum in [Art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2006/55/article/4/1/b) substituted (31.1.2012) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/391)](https://www.legislation.gov.uk/nisr/2011/391), [arts. 1](https://www.legislation.gov.uk/nisr/2011/391/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2011/391/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/391/article/3))
+[^c-2ef6a25bb7d9d1bfc488b423fc4033de]: Textual amendment: Sum in [Art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2006/55/article/4/1/b) substituted (31.1.2012) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/391)](https://www.legislation.gov.uk/nisr/2011/391), [arts. 1](https://www.legislation.gov.uk/nisr/2011/391/article/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2011/391/article/2/2/b) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/391/article/3))
 
 [^f00006]: Footnote: Paragraphs 1(ba) and 1(bb) were inserted by Regulation 13 of the Insolvency (Northern Ireland) Order 1989 (Amendment No. 2) Regulations (Northern Ireland) 2002, [S.R. 2002 No. 334](https://www.legislation.gov.uk/nisr/2002/334)
 
-[^key-f0b480021ecc55452f3bedf8fcfc6863]: Textual amendment: Sum in [Art. 4(1)(c)](https://www.legislation.gov.uk/nisr/2006/55/article/4/1/c) substituted (31.1.2012) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/391)](https://www.legislation.gov.uk/nisr/2011/391), [arts. 1](https://www.legislation.gov.uk/nisr/2011/391/article/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2011/391/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/391/article/3))
+[^c-f0b480021ecc55452f3bedf8fcfc6863]: Textual amendment: Sum in [Art. 4(1)(c)](https://www.legislation.gov.uk/nisr/2006/55/article/4/1/c) substituted (31.1.2012) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2011 (S.R. 2011/391)](https://www.legislation.gov.uk/nisr/2011/391), [arts. 1](https://www.legislation.gov.uk/nisr/2011/391/article/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2011/391/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2011/391/article/3))
 
-[^key-1514b263bb873cd565221f58ce8ad74d]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2006/55/article/5) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
+[^c-1514b263bb873cd565221f58ce8ad74d]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2006/55/article/5) in operation at 27.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/55/article/1)
 
-[^key-1d18261996a3372fc89ace83f583bdb5]: Textual amendment: Sum in [Art. 5(1)](https://www.legislation.gov.uk/nisr/2006/55/article/5/1) substituted (1.10.2009) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/203)](https://www.legislation.gov.uk/nisr/2009/203), [arts. 1](https://www.legislation.gov.uk/nisr/2009/203/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2009/203/article/2/3) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2009/203/article/3/2))
+[^c-1d18261996a3372fc89ace83f583bdb5]: Textual amendment: Sum in [Art. 5(1)](https://www.legislation.gov.uk/nisr/2006/55/article/5/1) substituted (1.10.2009) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/203)](https://www.legislation.gov.uk/nisr/2009/203), [arts. 1](https://www.legislation.gov.uk/nisr/2009/203/article/1), [2(3)](https://www.legislation.gov.uk/nisr/2009/203/article/2/3) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2009/203/article/3/2))
 
-[^key-fae2c40ec02337410bd8f9e17d03033a]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/nisr/2006/55/article/5/4) substituted (1.10.2009) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/203)](https://www.legislation.gov.uk/nisr/2009/203), [arts. 1](https://www.legislation.gov.uk/nisr/2009/203/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2009/203/article/2/4)
+[^c-fae2c40ec02337410bd8f9e17d03033a]: Textual amendment: Word in [art. 5(4)](https://www.legislation.gov.uk/nisr/2006/55/article/5/4) substituted (1.10.2009) by [The Insolvency (Deposits) (Amendment) Order (Northern Ireland) 2009 (S.R. 2009/203)](https://www.legislation.gov.uk/nisr/2009/203), [arts. 1](https://www.legislation.gov.uk/nisr/2009/203/article/1), [2(4)](https://www.legislation.gov.uk/nisr/2009/203/article/2/4)

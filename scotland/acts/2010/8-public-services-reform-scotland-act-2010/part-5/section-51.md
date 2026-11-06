@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Information and advice[^key-43c9a20275aa059876959ead7e0e380b][^key-ee0a23b1d7df1a6ad857c00c6c54e97f]
+## 51. Information and advice[^c-43c9a20275aa059876959ead7e0e380b][^c-ee0a23b1d7df1a6ad857c00c6c54e97f]
 
 *Extent: S*
 
@@ -32,8 +32,8 @@ summary: ''
   - (ii) persons, or groups of persons, representing those who use, or are eligible to use, social services,
   - (iii) persons, or groups of persons, representing those who care for those who use, or are eligible to use, social services,
   - (iv) local authorities,
-  - (v) health bodies, [^key-d2cbee95fd8446ba8bec630b27893516]...
-  - (va)[^key-f6706f119ab60b2472b86be8461a4c2e] integration joint boards established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014, and
+  - (v) health bodies, [^c-d2cbee95fd8446ba8bec630b27893516]...
+  - (va)[^c-f6706f119ab60b2472b86be8461a4c2e] integration joint boards established under section 9(2) of the Public Bodies (Joint Working) (Scotland) Act 2014, and
   - (vi) such other persons, or groups of persons, as may be prescribed,
 
   about any matter relevant to the functions of SCSWIS,
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-43c9a20275aa059876959ead7e0e380b]: Commencement: S. 51 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-43c9a20275aa059876959ead7e0e380b]: Commencement: S. 51 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-ee0a23b1d7df1a6ad857c00c6c54e97f]: Commencement: S. 51 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-ee0a23b1d7df1a6ad857c00c6c54e97f]: Commencement: S. 51 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-d2cbee95fd8446ba8bec630b27893516]: Textual amendment: Word in s. 51(3)(b) repealed (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/10/2/a)
+[^c-d2cbee95fd8446ba8bec630b27893516]: Textual amendment: Word in s. 51(3)(b) repealed (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 10(2)(a)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/10/2/a)
 
-[^key-f6706f119ab60b2472b86be8461a4c2e]: Textual amendment: S. 51(3)(b)(va) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/10/2/b)
+[^c-f6706f119ab60b2472b86be8461a4c2e]: Textual amendment: S. 51(3)(b)(va) inserted (1.4.2015) by [The Public Bodies (Joint Working) (Scotland) Act 2014 (Consequential Modifications and Saving) Order 2015 (S.S.I. 2015/157)](https://www.legislation.gov.uk/ssi/2015/157), [art. 1(1)](https://www.legislation.gov.uk/ssi/2015/157/article/1/1), [Sch. para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2015/157/schedule/paragraph/10/2/b)

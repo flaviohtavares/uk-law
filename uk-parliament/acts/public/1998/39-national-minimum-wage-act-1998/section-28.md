@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Reversal of burden of proof.[^c9532071][^c9532081][^key-e0aefe9bcf767b9b07a92a9d5e4d1be5]
+## 28. Reversal of burden of proof.[^c9532071][^c9532081][^c-e0aefe9bcf767b9b07a92a9d5e4d1be5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ it shall be presumed for the purposes of the complaint, so far as relating to th
 
 [^c9532081]: Modification: S. 28 extended (with modifications) (*prosp.*) by [S.I. 1997/2151 (N.I. 22)](https://www.legislation.gov.uk/nisi/1997/2151), [art. 8A](https://www.legislation.gov.uk/nisi/1997/2151/article/8A) (as inserted by [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39), [ss. 47(1)(c)](https://www.legislation.gov.uk/ukpga/1998/39/section/47/1/c), [56(2)](https://www.legislation.gov.uk/ukpga/1998/39/section/56/2), [Sch. 2 Pt. III](https://www.legislation.gov.uk/ukpga/1998/39/schedule/2/part/III), [para. 26](https://www.legislation.gov.uk/ukpga/1998/39/paragraph/26) (with [s. 36](https://www.legislation.gov.uk/ukpga/1998/39/section/36)))
 
-[^key-e0aefe9bcf767b9b07a92a9d5e4d1be5]: Modification: S. 28 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(k)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/k)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
+[^c-e0aefe9bcf767b9b07a92a9d5e4d1be5]: Modification: S. 28 applied (with modifications) (E.W.) (30.7.2014) by [Agricultural Sector (Wales) Act 2014 (anaw 6)](https://www.legislation.gov.uk/anaw/2014/6), [ss. 5(1)](https://www.legislation.gov.uk/anaw/2014/6/section/5/1)[(2)(k)](https://www.legislation.gov.uk/anaw/2014/6/section/5/2/k)[(3)-(7)](https://www.legislation.gov.uk/anaw/2014/6/section/5/3), [19](https://www.legislation.gov.uk/anaw/2014/6/section/19) (with [s. 14(1)](https://www.legislation.gov.uk/anaw/2014/6/section/14/1))
 
 [^c9532091]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 

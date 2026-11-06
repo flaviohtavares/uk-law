@@ -32,7 +32,7 @@ as the Department considers appropriate in connection with any provision to whic
 (2) The persons within this paragraph are—
 
 - (a) a Northern Ireland department;
-- (b) a person providing services to, or designated (specifically or by description)[^key-8c23242398a37328af568bed256b50a9] for the purposes of this Article by an order of, a Northern Ireland department;
+- (b) a person providing services to, or designated (specifically or by description)[^c-8c23242398a37328af568bed256b50a9] for the purposes of this Article by an order of, a Northern Ireland department;
 - (c) any other body established by or under a statutory provision; and
 - (d) a person providing services to, or authorised to exercise any function of, such a body.
 
@@ -69,7 +69,7 @@ as the Department considers appropriate in connection with any provision to whic
 
 [^c22028861]: Textual amendment: Words in art. 69(1)(b) inserted (13.8.2010) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 36(1)(k)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/k), [28(4)(a)](https://www.legislation.gov.uk/nia/2010/13/section/28/4/a)
 
-[^key-8c23242398a37328af568bed256b50a9]: Textual amendment: Words in art. 69(2)(b) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [124](https://www.legislation.gov.uk/nisi/2015/2006/article/124); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(i)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/i)
+[^c-8c23242398a37328af568bed256b50a9]: Textual amendment: Words in art. 69(2)(b) inserted (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [124](https://www.legislation.gov.uk/nisi/2015/2006/article/124); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(i)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/i)
 
 [^c22028871]: Textual amendment: Art. 69(3)(a) substituted (13.8.2010) for art. 69(3)(a)(aa) by [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [ss. 36(1)(a)](https://www.legislation.gov.uk/nia/2010/13/section/36/1/a), [2(6)](https://www.legislation.gov.uk/nia/2010/13/section/2/6)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Agri-food supply chains: requirement to provide information[^key-3fc294b19ec7bf5c060ab96e3a74b2ae][^key-ff29134c9aceecbde976a8fa4d271d1b]
+## 25. Agri-food supply chains: requirement to provide information[^c-3fc294b19ec7bf5c060ab96e3a74b2ae][^c-ff29134c9aceecbde976a8fa4d271d1b]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc294b19ec7bf5c060ab96e3a74b2ae]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-3fc294b19ec7bf5c060ab96e3a74b2ae]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-ff29134c9aceecbde976a8fa4d271d1b]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2023/4/section/25) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-ff29134c9aceecbde976a8fa4d271d1b]: Commencement: [S. 25](https://www.legislation.gov.uk/asc/2023/4/section/25) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

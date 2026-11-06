@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Power of entry[^key-0986f1f423e501582d48cc42153f1c6c]
+## 56. Power of entry[^c-0986f1f423e501582d48cc42153f1c6c]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0986f1f423e501582d48cc42153f1c6c]: Commencement: [S. 56](https://www.legislation.gov.uk/nia/2011/23/section/56) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-0986f1f423e501582d48cc42153f1c6c]: Commencement: [S. 56](https://www.legislation.gov.uk/nia/2011/23/section/56) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

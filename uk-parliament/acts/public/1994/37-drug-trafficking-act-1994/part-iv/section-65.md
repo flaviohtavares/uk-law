@@ -26,7 +26,7 @@ summary: ''
 
 (3) Section 281(4) of the Insolvency [^c8345311] Act 1986 (discharge of bankrupt not to release him from liabilities in respect of fines, etc.) shall have effect as if the reference to a fine included a reference to a confiscation order.
 
-(4)[^key-544e33748ffb9ef324899112d3404875] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-544e33748ffb9ef324899112d3404875] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c8345311]: Marginal citation: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
-[^key-544e33748ffb9ef324899112d3404875]: Textual amendment: [S. 65(4)](https://www.legislation.gov.uk/ukpga/1994/37/section/65/4) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)
+[^c-544e33748ffb9ef324899112d3404875]: Textual amendment: [S. 65(4)](https://www.legislation.gov.uk/ukpga/1994/37/section/65/4) repealed (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1)

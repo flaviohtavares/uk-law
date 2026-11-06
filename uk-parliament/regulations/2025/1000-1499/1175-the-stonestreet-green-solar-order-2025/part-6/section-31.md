@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Time limit for exercise of authority to temporarily use land for carrying out the authorised development[^key-09cb9aded16b8f16fb3f97e4deab5757]
+## 31. Time limit for exercise of authority to temporarily use land for carrying out the authorised development[^c-09cb9aded16b8f16fb3f97e4deab5757]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09cb9aded16b8f16fb3f97e4deab5757]: Commencement: Art. 31 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-09cb9aded16b8f16fb3f97e4deab5757]: Commencement: Art. 31 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

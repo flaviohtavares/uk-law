@@ -46,7 +46,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and savings[^key-93f05c151249ba0219e5354e4af93f12]
+### 1. Citation, commencement, extent and savings[^c-93f05c151249ba0219e5354e4af93f12]
 
 (1) These Regulations may be cited as the Representation of the People (Franchise Amendment and Eligibility Review) (Northern Ireland) Regulations 2023.
 
@@ -56,7 +56,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 (4) The amendments made by regulations 18 and 19 do not apply to an application under section 10A(1)(a) or 13A(1)(a)[^f00004] of the 1983 Act made before 7th May 2024.
 
-### 2. Interpretation: general[^key-37dfb2390087fc10867cc72fe5bec087]
+### 2. Interpretation: general[^c-37dfb2390087fc10867cc72fe5bec087]
 
 In these Regulations—
 
@@ -68,7 +68,7 @@ In these Regulations—
 
 ### CHAPTER 1 — Interpretation
 
-#### 3. Interpretation of Part 2[^key-5177c854a2cad3eafd344b4da6cf76e2]
+#### 3. Interpretation of Part 2[^c-5177c854a2cad3eafd344b4da6cf76e2]
 
 In this Part—
 
@@ -79,7 +79,7 @@ In this Part—
     - (ii) is a person whom the Chief Electoral Officer is required to enter in such a register in accordance with section 13A of the 1983 Act, or
   - (b) that C has submitted an application under section 13A(1)(a) of the 1983 Act for registration in a register of local electors before the coming into force of this Part, and that application is granted on or after the coming into force of this Part;“**revised registration criteria**” means the criteria for registration set out in section 4(3)(c) of the 1983 Act[^f00007].
 
-#### 4. Meaning of “address” in specified circumstances[^key-cf4054a302bab8ab72c4782e36bc20e1]
+#### 4. Meaning of “address” in specified circumstances[^c-cf4054a302bab8ab72c4782e36bc20e1]
 
 (1) This regulation applies where a relevant person is registered pursuant to—
 
@@ -95,7 +95,7 @@ In this Part—
 
 ### CHAPTER 2 — Review of registration entitlement of relevant citizens of the Union in Northern Ireland
 
-#### 5. Duty to determine whether relevant citizens of the Union satisfy the revised registration criteria[^key-21fa2f80c1a36f98a896b2be9786eacc]
+#### 5. Duty to determine whether relevant citizens of the Union satisfy the revised registration criteria[^c-21fa2f80c1a36f98a896b2be9786eacc]
 
 (1) The Chief Electoral Officer must, in accordance with regulations 6 to 14, determine in the case of each relevant person whether the person satisfies the revised registration criteria.
 
@@ -115,13 +115,13 @@ and in consequence the Chief Electoral Officer has not made a determination.
 
 (5) Nothing in this Chapter prevents the Chief Electoral Officer from reviewing the eligibility of a relevant person to be or to remain registered in accordance with section 10A of the 1983 Act for reasons other than that they are a relevant person.
 
-#### 6. Procedure for reviewing entitlement to registration – data-based review[^key-28848e4079f0c373c76e20ed3d6bf8e6]
+#### 6. Procedure for reviewing entitlement to registration – data-based review[^c-28848e4079f0c373c76e20ed3d6bf8e6]
 
 (1) The Chief Electoral Officer must in the case of each relevant person conduct a review to determine whether they continue to be a person who satisfies the revised registration criteria.
 
 (2) As part of a review under paragraph (1), the Chief Electoral Officer may consider (amongst other things) any information provided in accordance with regulation 27(1)(caa)[^f00011] of the 2008 Regulations as part of an application received from a relevant person pursuant to section 13A(1)(a) of the 1983 Act.
 
-#### 7. Procedure for reviewing entitlement to registration – correspondence-based review[^key-0fe93cd012362da683e40dd934541b93]
+#### 7. Procedure for reviewing entitlement to registration – correspondence-based review[^c-0fe93cd012362da683e40dd934541b93]
 
 (1) Subject to paragraph (2), where the Chief Electoral Officer is not satisfied following a review under regulation 6 that a relevant person satisfies the revised registration criteria, the Chief Electoral Officer must—
 
@@ -163,7 +163,7 @@ and the date on which the relevant person’s entitlement to remain registered u
 - (a) obtain information requested in the notice, or
 - (b) encourage the relevant person to provide the information requested.
 
-#### 8. Notification of possible removal in the event of non-response[^key-b437141879571a7c06bbc26db70e8852]
+#### 8. Notification of possible removal in the event of non-response[^c-b437141879571a7c06bbc26db70e8852]
 
 (1) Paragraph (2) applies where—
 
@@ -180,7 +180,7 @@ and the date on which the relevant person’s entitlement to remain registered u
 
 (3) A notification of possible removal must be delivered to the relevant person by paper communication to the person’s address, accompanied by a pre-addressed reply envelope, return postage of which must be prepaid.
 
-#### 9. Requirement to attempt personal contact with relevant person[^key-c23ef21829fed407b934089d3f66943f]
+#### 9. Requirement to attempt personal contact with relevant person[^c-c23ef21829fed407b934089d3f66943f]
 
 (1) This regulation applies where—
 
@@ -201,7 +201,7 @@ and the date on which the relevant person’s entitlement to remain registered u
 
 (4) In this regulation, the “**address**” means the address to which the first or second review notice under regulation 7(1) or (5) was delivered.
 
-#### 10. Request for further information[^key-d73889de6c5aa20ff977540f962fc978]
+#### 10. Request for further information[^c-d73889de6c5aa20ff977540f962fc978]
 
 (1) Paragraph (2) applies where—
 
@@ -213,7 +213,7 @@ and the date on which the relevant person’s entitlement to remain registered u
 - (a) the Chief Electoral Officer may determine the review and remove the person’s entry from the register, and
 - (b) the relevant person would not be entitled to appeal against the Chief Electoral Officer’s determination.
 
-#### 11. Confirmation of continued registration following review[^key-d7e1db7a7790e778590b7efe9894f9b9]
+#### 11. Confirmation of continued registration following review[^c-d7e1db7a7790e778590b7efe9894f9b9]
 
 (1) Where, in accordance with this Chapter, the Chief Electoral Officer determines that a relevant person satisfies the revised registration criteria, the Chief Electoral Officer must—
 
@@ -226,7 +226,7 @@ and the date on which the relevant person’s entitlement to remain registered u
 - (b) state that the criteria under section 4(3) to (6) of the 1983 Act by which a citizen of a member State is eligible to be registered in the register of local electors have changed, and
 - (c) state that the Chief Electoral Officer has determined that the relevant person satisfies those criteria.
 
-#### 12. Procedure for removal following response to communications[^key-b2eb427dd9d4660207a5df71a9f52929]
+#### 12. Procedure for removal following response to communications[^c-b2eb427dd9d4660207a5df71a9f52929]
 
 (1) This regulation applies where—
 
@@ -249,9 +249,9 @@ and the date on which the relevant person’s entitlement to remain registered u
 
 (5) Where the relevant person requires a review hearing pursuant to paragraph (4), paragraphs (2) to (7) of regulation 38 of the 2008 Regulations apply (and see also regulation 13(2)).
 
-(6)[^key-dcb0c9060e9ef6fba08dc62657f95647] Regulation 44(2)(c) of the 2008 Regulations (copy of notice to be sent to affected persons) does not apply in respect of a notice under section 13A(2) of the 1983 Act resulting from the determination mentioned in paragraph (3).
+(6)[^c-dcb0c9060e9ef6fba08dc62657f95647] Regulation 44(2)(c) of the 2008 Regulations (copy of notice to be sent to affected persons) does not apply in respect of a notice under section 13A(2) of the 1983 Act resulting from the determination mentioned in paragraph (3).
 
-#### 13. Notification of outcome of reviews[^key-43b4c5886034893a4428d9b7f4750fef]
+#### 13. Notification of outcome of reviews[^c-43b4c5886034893a4428d9b7f4750fef]
 
 (1) This regulation applies where the Chief Electoral Officer has sent a notice to a relevant person’s address under regulation 12(2).
 
@@ -266,7 +266,7 @@ and the date on which the relevant person’s entitlement to remain registered u
 - (a) the Chief Electoral Officer may notify the person of the outcome of the review, and
 - (b) if the Chief Electoral Officer makes in relation to that person a determination pursuant to regulation 12(3), that Officer may inform the person that (in accordance with section 58(2)(a) of the 1983 Act) there is no right of appeal against that determination.
 
-#### 14. Confirmation of ceased registration following non-response to communications[^key-e3431ce1fffa0d01f0b501dc699083c1]
+#### 14. Confirmation of ceased registration following non-response to communications[^c-e3431ce1fffa0d01f0b501dc699083c1]
 
 (1) This regulation applies where a relevant person does not respond—
 
@@ -288,11 +288,11 @@ and the date on which the relevant person’s entitlement to remain registered u
 - (d) state that the relevant person’s entry has accordingly been removed from the register and that the person may apply to register again if they consider they are eligible to do so, and
 - (e) be accompanied by an electoral registration application form and by a pre-addressed reply envelope, return postage of which must be pre-paid.
 
-(4)[^key-21a5f1a68357bf1d9adf5ccb11e811b4] Regulation 44(2)(c) of the 2008 Regulations does not apply in respect of a notice under section 13A(2) of the 1983 Act resulting from the determination mentioned in paragraph (2)(a).
+(4)[^c-21a5f1a68357bf1d9adf5ccb11e811b4] Regulation 44(2)(c) of the 2008 Regulations does not apply in respect of a notice under section 13A(2) of the 1983 Act resulting from the determination mentioned in paragraph (2)(a).
 
 ### CHAPTER 3 — Supplementary provisions for Chapter 2
 
-#### 15. Applications to register during correspondence-based review[^key-35b3dee1fbce3017824a21643e5b50cb]
+#### 15. Applications to register during correspondence-based review[^c-35b3dee1fbce3017824a21643e5b50cb]
 
 (1) This regulation applies where the Chief Electoral Officer receives an application from a relevant person pursuant to section 13A(1)(a) of the 1983 Act—
 
@@ -306,17 +306,17 @@ and the date on which the relevant person’s entitlement to remain registered u
 
 ## PART 3 — Additional provision related to the franchise change for EU citizens
 
-### 16. Date for publication of revised registers for 2024[^key-b0ea7d42ab2ce884123e593f42905676]
+### 16. Date for publication of revised registers for 2024[^c-b0ea7d42ab2ce884123e593f42905676]
 
 In the application of section 13(1) of the 1983 Act to the year 2024, the date prescribed for the purposes of paragraph (a) or (as the case may be) paragraph (b) of that subsection is 1 February 2025.
 
 ## PART 4 — Amendments relating to applications to register by qualifying EU citizens and EU citizens with retained rights
 
-### 17. Amendment of the 2008 Regulations[^key-704490638ab8cfc5857ef782335d2220]
+### 17. Amendment of the 2008 Regulations[^c-704490638ab8cfc5857ef782335d2220]
 
 The 2008 Regulations are amended in accordance with this Part.
 
-### 18. Amendment of regulation 27 (applications for registration)[^key-f71b37badf84430aad89447403b5fd0b]
+### 18. Amendment of regulation 27 (applications for registration)[^c-f71b37badf84430aad89447403b5fd0b]
 
 (1) Regulation 27 (applications for registration) is amended as follows.
 
@@ -342,7 +342,7 @@ The 2008 Regulations are amended in accordance with this Part.
 
 .
 
-### 19. Amendment of regulation 51 (marking of names)[^key-e7711c2729597f7d3ed91768bbbdb230]
+### 19. Amendment of regulation 51 (marking of names)[^c-e7711c2729597f7d3ed91768bbbdb230]
 
 In regulation 51 (marking of names)—
 
@@ -384,21 +384,21 @@ A full impact assessment of the effect that this instrument, and the correspondi
 
 [^f00003]: Footnote: Section 201(2) was substituted by paragraph 69 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50) and was amended by paragraph 6(1) and (7)(b) of Schedule 21 to the Political Parties, Elections and Referendums Act [2000 (c. 41)](https://www.legislation.gov.uk/ukpga/2000/41); by section 13 of the Northern Ireland (Miscellaneous Provisions) Act [2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13); by paragraph 1(9) of Schedule 8 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37); and by [S.I. 1991/1728](https://www.legislation.gov.uk/uksi/1991/1728).
 
-[^key-93f05c151249ba0219e5354e4af93f12]: Commencement: Reg. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-93f05c151249ba0219e5354e4af93f12]: Commencement: Reg. 1 in force at 31.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00004]: Footnote: Section 13A was substituted by paragraph 6 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2). Section 13A(1) was amended by para.12(2)(b) of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
-[^key-37dfb2390087fc10867cc72fe5bec087]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1176/regulation/2) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-37dfb2390087fc10867cc72fe5bec087]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1176/regulation/2) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2008/1741](https://www.legislation.gov.uk/uksi/2008/1741); relevant amending instruments are [S.I. 2014/1808](https://www.legislation.gov.uk/uksi/2014/1808), [S.I. 2018/699](https://www.legislation.gov.uk/uksi/2018/699) and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
-[^key-5177c854a2cad3eafd344b4da6cf76e2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1176/regulation/3) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-5177c854a2cad3eafd344b4da6cf76e2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/1176/regulation/3) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00006]: Footnote: “Relevant citizen of the Union” is defined in section 202(1) of the Representation of the People Act [1983 (c. 2)](https://www.legislation.gov.uk/ukpga/1983/2). The definition was inserted by [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948).
 
 [^f00007]: Footnote: Section 4(3) was amended by paragraph 1 of Schedule 8 to the Elections Act [2022 (c. 2)](https://www.legislation.gov.uk/ukpga/2022/2) and is applied with modifications to local elections in Northern Ireland by section 2 of, and Schedule 1 to, the Elected Authorities (Northern Ireland) Act [1989 (c. 3)](https://www.legislation.gov.uk/ukpga/1989/3).
 
-[^key-cf4054a302bab8ab72c4782e36bc20e1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1176/regulation/4) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-cf4054a302bab8ab72c4782e36bc20e1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/1176/regulation/4) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00008]: Footnote: Section 7B was inserted by section 6 of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and is applied with modifications to local elections in Northern Ireland by section 2 of, and Schedule 1 to, the Elected Authorities (Northern Ireland) Act [1989 (c. 3)](https://www.legislation.gov.uk/ukpga/1989/3). Section 7B was amended by section 14(1)(a)(ii) of the Northern Ireland (Miscellaneous Provisions) Act [2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), by paragraph 1(3) of Schedule 8 to the Elections Act 2022 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
@@ -406,48 +406,48 @@ A full impact assessment of the effect that this instrument, and the correspondi
 
 [^f00010]: Footnote: See section 202(1) of the 1983 Act for the meaning of “service declaration”.
 
-[^key-21fa2f80c1a36f98a896b2be9786eacc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1176/regulation/5) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-21fa2f80c1a36f98a896b2be9786eacc]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/1176/regulation/5) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-28848e4079f0c373c76e20ed3d6bf8e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1176/regulation/6) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-28848e4079f0c373c76e20ed3d6bf8e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/1176/regulation/6) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00011]: Footnote: Regulation 27(1)(caa) of the 2008 Regulations is inserted by regulation 18 of this instrument.
 
-[^key-0fe93cd012362da683e40dd934541b93]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1176/regulation/7) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-0fe93cd012362da683e40dd934541b93]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/1176/regulation/7) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00012]: Footnote: Section 7C was inserted by section 6 of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2) and amended by section 14 of the Northern Ireland (Miscellaneous Provisions) Act [2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), by section 12 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), and by paragraph 4 of Schedule 4 to the Electoral Registration and Administration Act [2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6). Section 9C was inserted by section 10(1) of the Electoral Administration Act 2006 and amended by paragraph 8 of Schedule 4 to the Electoral Registration and Administration Act 2013. Section 15 was amended by paragraph 8 of Schedule 1 to the Representation of the People Act 2000; by sections 12(7) and 13(1) of the Electoral Administration Act 2006; by paragraph 15 of Schedule 4 to the Electoral Registration and Administration Act 2013, by paragraph 1(4) of Schedule 8 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37) and by [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948).
 
-[^key-b437141879571a7c06bbc26db70e8852]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1176/regulation/8) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-b437141879571a7c06bbc26db70e8852]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/1176/regulation/8) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-c23ef21829fed407b934089d3f66943f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1176/regulation/9) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-c23ef21829fed407b934089d3f66943f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/1176/regulation/9) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-d73889de6c5aa20ff977540f962fc978]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1176/regulation/10) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-d73889de6c5aa20ff977540f962fc978]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2023/1176/regulation/10) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-d7e1db7a7790e778590b7efe9894f9b9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/1176/regulation/11) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-d7e1db7a7790e778590b7efe9894f9b9]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2023/1176/regulation/11) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00013]: Footnote: Paragraph (3A) of regulation 51 is inserted by regulation 19(c).
 
-[^key-b2eb427dd9d4660207a5df71a9f52929]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1176/regulation/12) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-b2eb427dd9d4660207a5df71a9f52929]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2023/1176/regulation/12) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-dcb0c9060e9ef6fba08dc62657f95647]: Textual amendment: Reg. 12(6) inserted (7.5.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/4), [15(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/15/2)
+[^c-dcb0c9060e9ef6fba08dc62657f95647]: Textual amendment: Reg. 12(6) inserted (7.5.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/4), [15(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/15/2)
 
-[^key-43b4c5886034893a4428d9b7f4750fef]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1176/regulation/13) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-43b4c5886034893a4428d9b7f4750fef]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2023/1176/regulation/13) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-e3431ce1fffa0d01f0b501dc699083c1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/1176/regulation/14) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-e3431ce1fffa0d01f0b501dc699083c1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2023/1176/regulation/14) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-21a5f1a68357bf1d9adf5ccb11e811b4]: Textual amendment: Reg. 14(4) inserted (7.5.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/4), [15(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/15/3)
+[^c-21a5f1a68357bf1d9adf5ccb11e811b4]: Textual amendment: Reg. 14(4) inserted (7.5.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/4), [15(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/15/3)
 
-[^key-35b3dee1fbce3017824a21643e5b50cb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/1176/regulation/15) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-35b3dee1fbce3017824a21643e5b50cb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2023/1176/regulation/15) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00014]: Footnote: Regulation 27(1)(caa) is inserted by regulation 18(2).
 
-[^key-b0ea7d42ab2ce884123e593f42905676]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1176/regulation/16) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-b0ea7d42ab2ce884123e593f42905676]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2023/1176/regulation/16) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-704490638ab8cfc5857ef782335d2220]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/1176/regulation/17) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-704490638ab8cfc5857ef782335d2220]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2023/1176/regulation/17) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
-[^key-f71b37badf84430aad89447403b5fd0b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/1176/regulation/18) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-f71b37badf84430aad89447403b5fd0b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2023/1176/regulation/18) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
 
 [^f00015]: Footnote: Schedule 6A was inserted by paragraph 1 of Schedule 8 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37).
 
 [^f00016]: Footnote: Section 203B was inserted by paragraph 1(11) of Schedule 8 to the Elections Act 2022.
 
-[^key-e7711c2729597f7d3ed91768bbbdb230]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/1176/regulation/19) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)
+[^c-e7711c2729597f7d3ed91768bbbdb230]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2023/1176/regulation/19) in force at 7.5.2024, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1176/regulation/1/2)

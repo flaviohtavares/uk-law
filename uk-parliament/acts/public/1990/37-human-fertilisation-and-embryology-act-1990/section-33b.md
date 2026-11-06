@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Consent required to authorise certain disclosures[^key-1e1c172224c91e3eaf7101e1040ed7f6]
+## 33B. Consent required to authorise certain disclosures[^c-1e1c172224c91e3eaf7101e1040ed7f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e1c172224c91e3eaf7101e1040ed7f6]: Textual amendment: Ss. 33A-33D substituted for s. 33 (6.4.2009 for specified purposes, 1.10.2009 for specified purposes, 6.4.2010 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), ss. 25, 68(2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), art. 5(e)(h) (with art. 7 Sch.); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), art. 2(l); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/987/article/2/a)
+[^c-1e1c172224c91e3eaf7101e1040ed7f6]: Textual amendment: Ss. 33A-33D substituted for s. 33 (6.4.2009 for specified purposes, 1.10.2009 for specified purposes, 6.4.2010 in so far as not already in force) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), ss. 25, 68(2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), art. 5(e)(h) (with art. 7 Sch.); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), art. 2(l); [S.I. 2010/987](https://www.legislation.gov.uk/uksi/2010/987), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/987/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Suspected residential tenancy: entry under warrant[^key-642c73b8081fb6bcb2568209d5036831]
+## 129. Suspected residential tenancy: entry under warrant[^c-642c73b8081fb6bcb2568209d5036831]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-642c73b8081fb6bcb2568209d5036831]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2025/26/section/129) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-642c73b8081fb6bcb2568209d5036831]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2025/26/section/129) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

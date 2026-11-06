@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.34. Intimation of registration of, or of decision not to register, an order made in the Republic of Ireland[^key-a65f8b5de0ffc94950710afe485a4120]
+## 5.34. Intimation of registration of, or of decision not to register, an order made in the Republic of Ireland[^c-a65f8b5de0ffc94950710afe485a4120]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a65f8b5de0ffc94950710afe485a4120]: Textual amendment: Rule 5.34 omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(6)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/6/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))
+[^c-a65f8b5de0ffc94950710afe485a4120]: Textual amendment: Rule 5.34 omitted (28.11.2011) by virtue of [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 3) 2011 (S.S.I. 2011/386)](https://www.legislation.gov.uk/ssi/2011/386), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/1/1), [9(6)(b)](https://www.legislation.gov.uk/ssi/2011/386/paragraph/9/6/b) (with [para. 10](https://www.legislation.gov.uk/ssi/2011/386/paragraph/10))

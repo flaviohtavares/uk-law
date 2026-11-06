@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 18A. Amended determinations[^key-1030b6925ebc0fea2953bd269133cc30]
+## 18A. Amended determinations[^c-1030b6925ebc0fea2953bd269133cc30]
 
 (1) This regulation applies where a decision has been revised in consequence of an amended broad rental market area determination or amended local housing allowance determination by a rent officer.
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1030b6925ebc0fea2953bd269133cc30]: Textual amendment: Reg. 18A inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2007/2869/regulation/10)
+[^c-1030b6925ebc0fea2953bd269133cc30]: Textual amendment: Reg. 18A inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2007/2869/regulation/10)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**12.**[^key-79d819c1ef4bebf2ebd9c008132b4287] For section 15 (effect under this Act of certain nullity decrees) substitute—
+**12.**[^c-79d819c1ef4bebf2ebd9c008132b4287] For section 15 (effect under this Act of certain nullity decrees) substitute—
 
 > **15. Effect under this Act of certain nullity decrees**
 >
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79d819c1ef4bebf2ebd9c008132b4287]: Commencement: Art. 12 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-79d819c1ef4bebf2ebd9c008132b4287]: Commencement: Art. 12 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

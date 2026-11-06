@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Vesting declarations[^key-441e869afdecf0578a7a763b1f7c9b3a]
+## 26. Vesting declarations[^c-441e869afdecf0578a7a763b1f7c9b3a]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-441e869afdecf0578a7a763b1f7c9b3a]: Commencement: Art. 26 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-441e869afdecf0578a7a763b1f7c9b3a]: Commencement: Art. 26 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00020]: Footnote: [1981 c. 66](https://www.legislation.gov.uk/ukpga/1981/66).

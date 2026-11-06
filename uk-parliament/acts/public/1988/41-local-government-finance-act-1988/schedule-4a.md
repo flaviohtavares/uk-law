@@ -50,7 +50,7 @@ summary: ''
 
 (2) Where a person appeals against a completion notice and the appeal is not withdrawn or dismissed, the completion day shall be such day as the tribunal shall determine.
 
-(3)[^key-40a7ac2be36d6d24987d41b30be20c44] In this paragraph “**valuation tribunal**” means—
+(3)[^c-40a7ac2be36d6d24987d41b30be20c44] In this paragraph “**valuation tribunal**” means—
 
 - (a) in relation to England: the Valuation Tribunal for England;
 - (b) in relation to Wales: a valuation tribunal established under paragraph 1 of Schedule 11.
@@ -61,7 +61,7 @@ summary: ''
 
 **6.** (1) Where an appeal under paragraph 4 above is brought against a completion notice, then in relation to any day on which the appeal is pending section 45 above shall apply by virtue of section 46A(4) above as if the day stated in the notice had been determined under this Schedule as the completion day in relation to the building to which the notice relates.
 
-(2) The appropriate national authority[^key-be39616c559a7a674eb98e3066c69ad4] may make regulations providing for the making of financial adjustments where sub-paragraph (1) applies but the day stated in the completion notice is not actually determined as the completion day in relation to the building to which the notice relates.
+(2) The appropriate national authority[^c-be39616c559a7a674eb98e3066c69ad4] may make regulations providing for the making of financial adjustments where sub-paragraph (1) applies but the day stated in the completion notice is not actually determined as the completion day in relation to the building to which the notice relates.
 
 (3) Regulations under sub-paragraph (2) above may include—
 
@@ -108,9 +108,9 @@ summary: ''
 
 [^c13077381]: Textual amendment: Words in Sch. 4A para. 4(1) substituted (6.3.1992) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 83(2)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/83/2) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 
-[^key-40a7ac2be36d6d24987d41b30be20c44]: Textual amendment: Sch. 4A para. 4(3) inserted (1.10.2009) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 16 para. 4(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/16/paragraph/4/2); [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 6(d)(i)](https://www.legislation.gov.uk/uksi/2008/3110/article/6/d/i)
+[^c-40a7ac2be36d6d24987d41b30be20c44]: Textual amendment: Sch. 4A para. 4(3) inserted (1.10.2009) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [s. 245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5), [Sch. 16 para. 4(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/16/paragraph/4/2); [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 6(d)(i)](https://www.legislation.gov.uk/uksi/2008/3110/article/6/d/i)
 
-[^key-be39616c559a7a674eb98e3066c69ad4]: Textual amendment: Words in [Sch. 4A para. 6(2)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/4A/paragraph/6/2) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(19)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/19)
+[^c-be39616c559a7a674eb98e3066c69ad4]: Textual amendment: Words in [Sch. 4A para. 6(2)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/4A/paragraph/6/2) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(19)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/19)
 
 [^c13077391]: Textual amendment: Sch. 4A para. 6(3)(a) substituted (6.3.1992) for para. 6(3)(a)(b) by [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14), [s. 117(1)](https://www.legislation.gov.uk/ukpga/1992/14/section/117/1), [Sch. 13 para. 83(3)](https://www.legislation.gov.uk/ukpga/1992/14/schedule/13/paragraph/83/3) (with [s. 118(1)(2)(4)](https://www.legislation.gov.uk/ukpga/1992/14/section/118/1/2/4))
 

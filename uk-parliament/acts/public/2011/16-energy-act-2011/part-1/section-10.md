@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Confirmation of plan: supplementary provision for Scotland[^key-317042b6827ecde85909128e7522a2b4]
+## 10. Confirmation of plan: supplementary provision for Scotland[^c-317042b6827ecde85909128e7522a2b4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-317042b6827ecde85909128e7522a2b4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/16/section/10) in force at 22.6.2012 by [S.S.I. 2012/191](https://www.legislation.gov.uk/ssi/2012/191), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/191/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2012/191/article/2/2/a)
+[^c-317042b6827ecde85909128e7522a2b4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/16/section/10) in force at 22.6.2012 by [S.S.I. 2012/191](https://www.legislation.gov.uk/ssi/2012/191), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/191/article/2/1)[(2)(a)](https://www.legislation.gov.uk/ssi/2012/191/article/2/2/a)

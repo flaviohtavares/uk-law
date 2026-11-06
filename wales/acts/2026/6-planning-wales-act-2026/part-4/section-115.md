@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Offence of failing to comply with enforcement investigation notice[^key-608793a0b9325f3c69e17bd475b9cc86]
+## 115. Offence of failing to comply with enforcement investigation notice[^c-608793a0b9325f3c69e17bd475b9cc86]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-608793a0b9325f3c69e17bd475b9cc86]: Commencement: S. 115 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-608793a0b9325f3c69e17bd475b9cc86]: Commencement: S. 115 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Trespass with intent to search for or to pursue hares with dogs etc[^key-ba97c46e5acd2006772440cc5e21067b][^key-ff4ac6fc437168207a08923e44e09754]
+## 63. Trespass with intent to search for or to pursue hares with dogs etc[^c-ba97c46e5acd2006772440cc5e21067b][^c-ff4ac6fc437168207a08923e44e09754]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba97c46e5acd2006772440cc5e21067b]: Commencement: S. 63 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-ba97c46e5acd2006772440cc5e21067b]: Commencement: S. 63 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ff4ac6fc437168207a08923e44e09754]: Commencement: S. 63 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)
+[^c-ff4ac6fc437168207a08923e44e09754]: Commencement: S. 63 in force at 1.8.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 7](https://www.legislation.gov.uk/uksi/2022/520/regulation/7)

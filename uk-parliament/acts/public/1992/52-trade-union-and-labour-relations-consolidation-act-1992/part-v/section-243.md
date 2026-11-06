@@ -29,10 +29,10 @@ summary: ''
 (4) Nothing in this section—
 
 - (a) exempts from punishment a person guilty of a conspiracy for which a punishment is awarded by an Act of Parliament, or
-- (b) affects the law relating to riot, unlawful assembly, breach of the peace, or sedition *(affected by repeal, see note)*[^key-27d3c236f5e3ef7512eacb78c2cfe2c0] or any offence against the State or the Sovereign.
+- (b) affects the law relating to riot, unlawful assembly, breach of the peace, or sedition *(affected by repeal, see note)*[^c-27d3c236f5e3ef7512eacb78c2cfe2c0] or any offence against the State or the Sovereign.
 
 (5) This section extends to Scotland only.
 
 ## Annotations
 
-[^key-27d3c236f5e3ef7512eacb78c2cfe2c0]: Textual amendment: Words in s. 243(4)(b) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 19](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/19); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-27d3c236f5e3ef7512eacb78c2cfe2c0]: Textual amendment: Words in s. 243(4)(b) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 19](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/19); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

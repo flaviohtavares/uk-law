@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.C.15. Effect of death or early payment of pension after option exercised under regulation 2.C.8, 2.C.10 or 2.C.11[^key-b4f0759521b119cc71f46c2213e8a2f4][^key-779b6168ca4c1b6a9cd311702fe59175]
+## 2.C.15. Effect of death or early payment of pension after option exercised under regulation 2.C.8, 2.C.10 or 2.C.11[^c-b4f0759521b119cc71f46c2213e8a2f4][^c-779b6168ca4c1b6a9cd311702fe59175]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (4) If a member in respect of whom an option under regulation 2.C.8 has been exercised becomes entitled to a pension under regulation 2.D.8 before the end of the contribution option period as a result of a claim made after the end of the period of 12 months beginning with the date on which the option was exercised, regulation 2.C.14(2) and (4) applies as if all contributions under the option had been made.
 
-This is subject to regulation 2.C.13(5) and (6).[^key-5fab74e5b08596443bc560463de00f92]
+This is subject to regulation 2.C.13(5) and (6).[^c-5fab74e5b08596443bc560463de00f92]
 
 (5) If a member in respect of whom an option under regulation 2.C.8, 2.C.10 or 2.C.11 has been exercised—
 
@@ -53,8 +53,8 @@ the increase in the member’s pension under Chapter 2.D which would otherwise b
 
 ## Annotations
 
-[^key-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
+[^c-b4f0759521b119cc71f46c2213e8a2f4]: Modification: [Regs. 2.C.8-2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/b/i)
 
-[^key-779b6168ca4c1b6a9cd311702fe59175]: Modification: [Reg. 2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2C.15) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [24(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/24/b)
+[^c-779b6168ca4c1b6a9cd311702fe59175]: Modification: [Reg. 2.C.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2C.15) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [24(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/24/b)
 
-[^key-5fab74e5b08596443bc560463de00f92]: Textual amendment: Words in [reg. 2.C.15(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.15/4) added (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2013/413/regulation/37)
+[^c-5fab74e5b08596443bc560463de00f92]: Textual amendment: Words in [reg. 2.C.15(4)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.C.15/4) added (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2013/413/regulation/37)

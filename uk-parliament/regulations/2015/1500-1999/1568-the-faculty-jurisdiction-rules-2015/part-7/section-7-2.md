@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 7.2. Chancellor to seek advice of Diocesan Advisory Committee[^key-8d9318fa2e025d65eade5f75e412cadb]
+## 7.2. Chancellor to seek advice of Diocesan Advisory Committee[^c-8d9318fa2e025d65eade5f75e412cadb]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d9318fa2e025d65eade5f75e412cadb]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/uksi/2015/1568/article/7.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-8d9318fa2e025d65eade5f75e412cadb]: Commencement: [Rule 7.2](https://www.legislation.gov.uk/uksi/2015/1568/article/7.2) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

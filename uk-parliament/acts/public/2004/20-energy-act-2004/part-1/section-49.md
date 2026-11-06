@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Duty to assist the Secretary of State[^key-b894be09f40e03d35a2067e27e1e19e2]
+## 49. Duty to assist the Secretary of State[^c-b894be09f40e03d35a2067e27e1e19e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ with all such information and other assistance as the Secretary of State may req
 
 ## Annotations
 
-[^key-b894be09f40e03d35a2067e27e1e19e2]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2004/20/section/49) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-b894be09f40e03d35a2067e27e1e19e2]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2004/20/section/49) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

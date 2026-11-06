@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by section 61(2) and (5) of the Housing Act 1988[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-## 1. Citation and commencement[^key-509a3a45d3c06988c27ff79cf57c2351]
+## 1. Citation and commencement[^c-509a3a45d3c06988c27ff79cf57c2351]
 
 These Regulations may be cited as the Housing Action Trust Areas (Tenant Notification) Regulations 1989 and shall come into force on 17th August 1989.
 
-## 2. Prescribed descriptions of tenants[^key-711310d77c74646c444ef111c351053b]
+## 2. Prescribed descriptions of tenants[^c-711310d77c74646c444ef111c351053b]
 
 The descriptions of tenants prescribed for the purposes of section 61(2) of the Housing Act 1988 are tenants of a local housing authority whose tenancies would be secure tenancies but for the effect of—
 
@@ -72,8 +72,8 @@ These Regulations prescribe descriptions of tenants to whom notice of a proposal
 
 [^f00001]: Footnote: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-509a3a45d3c06988c27ff79cf57c2351]: Commencement: Reg. 1 in force at 17.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1246/regulation/1)
+[^c-509a3a45d3c06988c27ff79cf57c2351]: Commencement: Reg. 1 in force at 17.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1246/regulation/1)
 
-[^key-711310d77c74646c444ef111c351053b]: Commencement: Reg. 2 in force at 17.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1246/regulation/1)
+[^c-711310d77c74646c444ef111c351053b]: Commencement: Reg. 2 in force at 17.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1246/regulation/1)
 
 [^f00002]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68); paragraph 2(1) of Schedule 1 was amended by section 83(6) of the Housing Act 1988.

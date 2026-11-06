@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Opting out of this scheme[^key-f14907a9abd4d290f1d6be3fb14631c5][^key-f14907a9abd4d290f1d6be3fb14631c5]
+## 12. Opting out of this scheme[^c-f14907a9abd4d290f1d6be3fb14631c5][^c-f14907a9abd4d290f1d6be3fb14631c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f14907a9abd4d290f1d6be3fb14631c5]: Commencement: Reg. 12 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)
+[^c-f14907a9abd4d290f1d6be3fb14631c5]: Commencement: Reg. 12 in force at 18.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/2)

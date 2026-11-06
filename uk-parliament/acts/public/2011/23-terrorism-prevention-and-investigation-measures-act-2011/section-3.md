@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Condition A is that the Secretary of State reasonably believes[^key-aafa44b682c3938466e833f0a1351a2e] that the individual is, or has been, involved in terrorism-related activity (the “relevant activity”).
+(1) Condition A is that the Secretary of State reasonably believes[^c-aafa44b682c3938466e833f0a1351a2e] that the individual is, or has been, involved in terrorism-related activity (the “relevant activity”).
 
 (2) Condition B is that some or all of the relevant activity is new terrorism-related activity.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aafa44b682c3938466e833f0a1351a2e]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/2011/23/section/3/1) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 34](https://www.legislation.gov.uk/ukpga/2021/11/section/34), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)
+[^c-aafa44b682c3938466e833f0a1351a2e]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/2011/23/section/3/1) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 34](https://www.legislation.gov.uk/ukpga/2021/11/section/34), [50(2)(s)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/s)

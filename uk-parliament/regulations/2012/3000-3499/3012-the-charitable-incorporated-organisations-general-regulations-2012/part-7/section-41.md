@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Records to be kept of members’ decisions[^key-be99b7c17b99d0b8ac7698c3bcb763b9]
+## 41. Records to be kept of members’ decisions[^c-be99b7c17b99d0b8ac7698c3bcb763b9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be99b7c17b99d0b8ac7698c3bcb763b9]: Commencement: Reg. 41 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-be99b7c17b99d0b8ac7698c3bcb763b9]: Commencement: Reg. 41 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

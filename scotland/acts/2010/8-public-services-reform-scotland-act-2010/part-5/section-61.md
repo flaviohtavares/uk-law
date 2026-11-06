@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Limited registration[^key-f6ff9a4c58fc6e252eb8d5e3bc3eb441][^key-2b9ddccd8021d4e3ff7b2550fef79fbb]
+## 61. Limited registration[^c-f6ff9a4c58fc6e252eb8d5e3bc3eb441][^c-2b9ddccd8021d4e3ff7b2550fef79fbb]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ff9a4c58fc6e252eb8d5e3bc3eb441]: Commencement: S. 61 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-f6ff9a4c58fc6e252eb8d5e3bc3eb441]: Commencement: S. 61 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-2b9ddccd8021d4e3ff7b2550fef79fbb]: Commencement: S. 61 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-2b9ddccd8021d4e3ff7b2550fef79fbb]: Commencement: S. 61 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

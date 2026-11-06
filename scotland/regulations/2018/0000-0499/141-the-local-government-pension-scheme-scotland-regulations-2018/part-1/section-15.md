@@ -36,7 +36,7 @@ summary: ''
 (4) Where an active member—
 
 - (a) on reserve forces service leave;
-- (b) on child-related leave, which for this regulation includes any period of additional maternity leave, additional adoption leave , parental bereavement leave[^key-5deb9e02f1fa8306d99281621d490933] or shared parental leave during which the member receives no pay;
+- (b) on child-related leave, which for this regulation includes any period of additional maternity leave, additional adoption leave , parental bereavement leave[^c-5deb9e02f1fa8306d99281621d490933] or shared parental leave during which the member receives no pay;
 - (c) absent from work due to illness or injury where regulation 14(1) (contributions during absence for illness etc) applies; or
 - (d) absent from work with permission from the member's Scheme employer,
 
@@ -52,4 +52,4 @@ has an arrangement under regulation 16 (additional pension contributions) or reg
 
 ## Annotations
 
-[^key-5deb9e02f1fa8306d99281621d490933]: Textual amendment: Words in reg. 15(4)(b) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/4)
+[^c-5deb9e02f1fa8306d99281621d490933]: Textual amendment: Words in reg. 15(4)(b) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [41(4)](https://www.legislation.gov.uk/uksi/2020/354/regulation/41/4)

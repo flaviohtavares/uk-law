@@ -22,13 +22,13 @@ summary: ''
 
 Article 43
 
-**1.**[^key-c97b4c2cfe3898e68c6d1945ad1845dd] In this Schedule—
+**1.**[^c-c97b4c2cfe3898e68c6d1945ad1845dd] In this Schedule—
 
 - “**business day**” means a day other than a Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 (bank holidays) of the Banking and Financial Dealings Act 1971[^f00037];
 - “**requirement consultee**” means any body named in a Requirement as a body to be consulted by the relevant planning authority in discharging that Requirement; and
 - “**start date**” means the date of the notification given by the Secretary of State under paragraph 5(2)(b).
 
-### 2. Applications made under Requirements[^key-f1d521b124b375d490bf166cedb033b0]
+### 2. Applications made under Requirements[^c-f1d521b124b375d490bf166cedb033b0]
 
 (1) Where an application has been made to the relevant planning authority for any consent, agreement or approval required by a Requirement the relevant planning authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with the later of—
 
@@ -48,7 +48,7 @@ or such longer period as may be agreed in writing by the undertaker and the rele
 
 then the application is deemed to have been refused by the relevant planning authority at the end of that period.
 
-### 3. Further information and consultation[^key-2a4b5714f6d577ab0447b83c1da50d07]
+### 3. Further information and consultation[^c-2a4b5714f6d577ab0447b83c1da50d07]
 
 (1) In relation to any application to which this Schedule applies, the relevant planning authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -58,7 +58,7 @@ then the application is deemed to have been refused by the relevant planning aut
 
 (4) In the event that the relevant planning authority does not give notification as specified in sub-paragraph (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Fees[^key-ae0f0dc2d63867545960f833479075a5]
+### 4. Fees[^c-ae0f0dc2d63867545960f833479075a5]
 
 (1) Where an application is made to the relevant planning authority for written consent, agreement or approval in respect of a requirement, the fee prescribed under regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00038] (as may be amended or replaced from time to time) is to apply and must be paid to the relevant planning authority for each application.
 
@@ -67,9 +67,9 @@ then the application is deemed to have been refused by the relevant planning aut
 - (a) the application being rejected as invalidly made; or
 - (b) the relevant planning authority failing to determine the application within nine weeks from the relevant date in paragraph 1 unless—
   - (i) within that period the undertaker agrees, in writing, that the fee is to be retained by the relevant planning authority and credited in respect of a future application; or
-  - (ii) a longer period of time for determining the application has been agreed pursuant[^key-94e9e70490d4e8723217e5db0b2192d1] to paragraph 2 of this Schedule.
+  - (ii) a longer period of time for determining the application has been agreed pursuant[^c-94e9e70490d4e8723217e5db0b2192d1] to paragraph 2 of this Schedule.
 
-### 5. Appeals[^key-4f938f9803340c47b727ce7544d9f5be]
+### 5. Appeals[^c-4f938f9803340c47b727ce7544d9f5be]
 
 (1) The undertaker may appeal in the event that—
 
@@ -112,18 +112,18 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-c97b4c2cfe3898e68c6d1945ad1845dd]: Commencement: Sch. 9 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-c97b4c2cfe3898e68c6d1945ad1845dd]: Commencement: Sch. 9 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00037]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f1d521b124b375d490bf166cedb033b0]: Commencement: Sch. 9 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-f1d521b124b375d490bf166cedb033b0]: Commencement: Sch. 9 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-2a4b5714f6d577ab0447b83c1da50d07]: Commencement: Sch. 9 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-2a4b5714f6d577ab0447b83c1da50d07]: Commencement: Sch. 9 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-ae0f0dc2d63867545960f833479075a5]: Commencement: Sch. 9 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-ae0f0dc2d63867545960f833479075a5]: Commencement: Sch. 9 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00038]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920).
 
-[^key-94e9e70490d4e8723217e5db0b2192d1]: Textual amendment: Word in [Sch. 9 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1396/schedule/9/paragraph/4/2/b/ii) substituted (20.4.2023) by The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 ([S.I. 2023/442](https://www.legislation.gov.uk/uksi/2023/442)), art. 1, Sch.
+[^c-94e9e70490d4e8723217e5db0b2192d1]: Textual amendment: Word in [Sch. 9 para. 4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1396/schedule/9/paragraph/4/2/b/ii) substituted (20.4.2023) by The Keadby 3 (Carbon Capture Equipped Gas Fired Generating Station) (Correction) Order 2023 ([S.I. 2023/442](https://www.legislation.gov.uk/uksi/2023/442)), art. 1, Sch.
 
-[^key-4f938f9803340c47b727ce7544d9f5be]: Commencement: Sch. 9 para. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-4f938f9803340c47b727ce7544d9f5be]: Commencement: Sch. 9 para. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

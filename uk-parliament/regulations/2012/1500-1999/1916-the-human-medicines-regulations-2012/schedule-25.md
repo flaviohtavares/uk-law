@@ -40,7 +40,7 @@ Regulation 258
 
 **6.** Where paragraph 5 applies, the pharmacist may include such particulars, of the same kind as those mentioned in paragraph 4, as the pharmacist thinks appropriate.
 
-**6A.**[^key-2e98c0b317eeec9edeed7e010180d102] Where a product is to be sold or supplied in accordance with an order submitted as mentioned in regulation 222A(1)(a), for the purposes of—
+**6A.**[^c-2e98c0b317eeec9edeed7e010180d102] Where a product is to be sold or supplied in accordance with an order submitted as mentioned in regulation 222A(1)(a), for the purposes of—
 
 - (a) paragraph 2, B1, as defined in regulation 222A(1)(b), is the person who sells or supplies the product;
 - (b) paragraph 3, the date is instead the date on which the product is ready for sale or supply to or for the patient for whom it is dispensed; and
@@ -96,4 +96,4 @@ Regulation 258
 
 ## Annotations
 
-[^key-2e98c0b317eeec9edeed7e010180d102]: Textual amendment: [Sch. 25 para. 6A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/25/paragraph/6A) inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/758/regulation/11)
+[^c-2e98c0b317eeec9edeed7e010180d102]: Textual amendment: [Sch. 25 para. 6A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/25/paragraph/6A) inserted (1.10.2025) by [The Human Medicines (Amendments Relating to Hub and Spoke Dispensing etc.) Regulations 2025 (S.I. 2025/758)](https://www.legislation.gov.uk/uksi/2025/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/758/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2025/758/regulation/11)

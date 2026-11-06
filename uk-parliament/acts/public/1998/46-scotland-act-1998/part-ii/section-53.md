@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. General transfer of functions.[^c12394321][^c12394331][^c12394341][^c12394351][^c20286241][^key-c88674484c2d6e68698d1e7876edf325][^key-3311731a14126728307a113a4df036d0]
+## 53. General transfer of functions.[^c12394321][^c12394331][^c12394341][^c12394351][^c20286241][^c-c88674484c2d6e68698d1e7876edf325][^c-3311731a14126728307a113a4df036d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ but do not include any retained functions of the Lord Advocate.
 - (b) an enactment made, before the commencement of this section, under such an Act or such other enactment,
 - (c) subordinate legislation under section 106, to the extent that the legislation states that it is to be treated as a pre-commencement enactment.
 
-(3A)[^key-2b89bfd265c2a92d6fe22312b48904dc] But see sections 9, 32 and 51 of the Scotland Act 2016 (which give “pre-commencement enactment” a different meaning for functions exercisable within devolved competence by virtue of certain provisions of that Act).
+(3A)[^c-2b89bfd265c2a92d6fe22312b48904dc] But see sections 9, 32 and 51 of the Scotland Act 2016 (which give “pre-commencement enactment” a different meaning for functions exercisable within devolved competence by virtue of certain provisions of that Act).
 
 (4) This section and section 54 are modified by Part III of Schedule 4.
 
@@ -54,10 +54,10 @@ but do not include any retained functions of the Lord Advocate.
 
 [^c20286241]: Modification: S. 53 excluded (15.11.2004) by [Children Act 2004 (c. 31)](https://www.legislation.gov.uk/ukpga/2004/31), [ss. 6(9)](https://www.legislation.gov.uk/ukpga/2004/31/section/6/9), [67(1)](https://www.legislation.gov.uk/ukpga/2004/31/section/67/1)
 
-[^key-c88674484c2d6e68698d1e7876edf325]: Modification: S. 53 excluded (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/33/1), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/j)
+[^c-c88674484c2d6e68698d1e7876edf325]: Modification: S. 53 excluded (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 33(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/33/1), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/j)
 
-[^key-3311731a14126728307a113a4df036d0]: Modification: [S. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53) modified (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 104](https://www.legislation.gov.uk/ukpga/2025/28/section/104), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/f)
+[^c-3311731a14126728307a113a4df036d0]: Modification: [S. 53](https://www.legislation.gov.uk/ukpga/1998/46/section/53) modified (24.6.2026) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 104](https://www.legislation.gov.uk/ukpga/2025/28/section/104), [109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/f)
 
 [^c12394361]: Modification: S. 53(2)(a) modified (1.7.1999) by [S.I. 1999/1756](https://www.legislation.gov.uk/uksi/1999/1756), [arts. 5-7](https://www.legislation.gov.uk/uksi/1999/1756/article/5)
 
-[^key-2b89bfd265c2a92d6fe22312b48904dc]: Textual amendment: S. 53(3A) inserted (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/32/3), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/i)
+[^c-2b89bfd265c2a92d6fe22312b48904dc]: Textual amendment: S. 53(3A) inserted (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 32(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/32/3), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/i)

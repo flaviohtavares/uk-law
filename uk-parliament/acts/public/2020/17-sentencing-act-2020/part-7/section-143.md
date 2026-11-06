@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Review of compensation orders[^key-fad61e4160257a0ece1627359015a7cc][^key-e6de2b779d6f0f40e221291fd5ab8b58][^key-2c52f38c099ecdd1a417dd24bdb2979d]
+## 143. Review of compensation orders[^c-fad61e4160257a0ece1627359015a7cc][^c-e6de2b779d6f0f40e221291fd5ab8b58][^c-2c52f38c099ecdd1a417dd24bdb2979d]
 
 *Extent: E+W*
 
@@ -67,8 +67,8 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-fad61e4160257a0ece1627359015a7cc]: Commencement: S. 143 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-fad61e4160257a0ece1627359015a7cc]: Commencement: S. 143 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e6de2b779d6f0f40e221291fd5ab8b58]: Modification: S. 143 applied (with modifications) by 2015 c. 30, s. 10(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 293(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/293/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-e6de2b779d6f0f40e221291fd5ab8b58]: Modification: S. 143 applied (with modifications) by 2015 c. 30, s. 10(3) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 293(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/293/3) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-2c52f38c099ecdd1a417dd24bdb2979d]: Modification: Ss. 141-143 applied (with modifications) by 2013 c. 3, s. 4(12) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 290](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/290) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-2c52f38c099ecdd1a417dd24bdb2979d]: Modification: Ss. 141-143 applied (with modifications) by 2013 c. 3, s. 4(12) (as amended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 290](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/290) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))

@@ -959,7 +959,7 @@ In Schedule 2 of the Social Security Benefit (Computation of Earnings) Regulatio
 - (c) the New Deal (Miscellaneous Provisions) Order 2001 [^c1541758]; and
 - (d) the New Deal (Lone Parents)(Miscellaneous Provisions) Order 2001 [^c1541759].
 
-### 15. Amendment of the Social Security Commissioners (Procedure) Regulations 1999[^key-9c7188c3eec3358e0da8daf251f05251]
+### 15. Amendment of the Social Security Commissioners (Procedure) Regulations 1999[^c-9c7188c3eec3358e0da8daf251f05251]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1079,25 +1079,25 @@ In regulation 5(5)(e) of the Home Energy Efficiency Schemes (Wales) Regulations 
 
 ### 18. Amendment of the Discretionary Financial Assistance Regulations 2001
 
-(1 (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] The Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316] [^c1541773] shall be amended in accordance with the provisions of this paragraph. *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+(1 (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] The Discretionary Financial Assistance Regulations 2001 *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316] [^c1541773] shall be amended in accordance with the provisions of this paragraph. *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] For regulation 1(2), substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+(2 (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] For regulation 1(2), substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
-> (2 (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] In these Regulations— *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+> (2 (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] In these Regulations— *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 >
-> “ *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]**the Housing Benefit Regulations *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]**” means the Housing Benefit Regulations 2006; and *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+> “ *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]**the Housing Benefit Regulations *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]**” means the Housing Benefit Regulations 2006; and *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 >
-> “ *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]**the Housing Benefit (State Pension Credit) Regulations *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]**” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006. *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+> “ *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]**the Housing Benefit (State Pension Credit) Regulations *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]**” means the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006. *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] In regulation 3(a) (circumstances in which discretionary housing payments may be made) for “Schedule 1 to the Housing Benefit Regulations”, substitute *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316] “ Schedule 1 to the Housing Benefit Regulations or Schedule 1 to the Housing Benefit (State Pension Credit) Regulations ” *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]. *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+(3 (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] In regulation 3(a) (circumstances in which discretionary housing payments may be made) for “Schedule 1 to the Housing Benefit Regulations”, substitute *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316] “ Schedule 1 to the Housing Benefit Regulations or Schedule 1 to the Housing Benefit (State Pension Credit) Regulations ” *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]. *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
-(4 (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] In regulation 4, for paragraph (a) (limit on the amount of the discretionary housing payment that may be made), substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+(4 (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] In regulation 4, for paragraph (a) (limit on the amount of the discretionary housing payment that may be made), substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
-> - (a (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] periodical payments in respect of the dwelling which a person occupies as his home, other than payments in respect of council tax, an amount equal to the amount of the aggregate of the payments specified in— *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
->   - (i (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] regulation 12(1) of the Housing Benefit Regulations less the aggregate of the amounts referred to in regulations 12(3)(b)(i) to (iii) of those Regulations, calculated on a weekly basis in accordance with regulations 80 and 81 of those Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
->   - (ii (Extent: E) (affected by repeal, see note))[^key-44056131fd62853594f5eb1b5a233316] regulation 12(1) of the Housing Benefit (State Pension Credit) Regulations less the aggregate of the amounts referred to in regulations 12(3)(b)(i) to (iii) of those Regulations, calculated on a weekly basis in accordance with regulations 61 and 62 of those Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+> - (a (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] periodical payments in respect of the dwelling which a person occupies as his home, other than payments in respect of council tax, an amount equal to the amount of the aggregate of the payments specified in— *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
+>   - (i (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] regulation 12(1) of the Housing Benefit Regulations less the aggregate of the amounts referred to in regulations 12(3)(b)(i) to (iii) of those Regulations, calculated on a weekly basis in accordance with regulations 80 and 81 of those Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
+>   - (ii (Extent: E) (affected by repeal, see note))[^c-44056131fd62853594f5eb1b5a233316] regulation 12(1) of the Housing Benefit (State Pension Credit) Regulations less the aggregate of the amounts referred to in regulations 12(3)(b)(i) to (iii) of those Regulations, calculated on a weekly basis in accordance with regulations 61 and 62 of those Regulations; or *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-44056131fd62853594f5eb1b5a233316]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-44056131fd62853594f5eb1b5a233316]
 
 ### 19. Amendment of the Social Security (Change of Circumstances) Regulations 2001
 
@@ -1344,7 +1344,7 @@ In regulation 14 of the Displaced Persons (Temporary Protection) Regulations 200
 >
 > (2A) The amendments made by paragraphs (3), (9), (14) and (15) are to the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006.
 >
-> (2B) The amendment made by paragraph (7) is[^key-792a43391ee418fe84a165c9bbc94cd3] to both the Council Tax Benefit Regulations 2006 and the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006.
+> (2B) The amendment made by paragraph (7) is[^c-792a43391ee418fe84a165c9bbc94cd3] to both the Council Tax Benefit Regulations 2006 and the Council Tax Benefit (Persons who have attained the qualifying age for state pension credit) Regulations 2006.
 >
 > (2C) The amendment made by paragraph (10) is to the Council Tax Benefit Regulations.
 
@@ -1383,7 +1383,7 @@ In regulation 14 of the Displaced Persons (Temporary Protection) Regulations 200
 
 .
 
-(28)[^key-871ea98650b88a30919ed625f440ef9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(28)[^c-871ea98650b88a30919ed625f440ef9d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (29) In paragraph (13), for the words “paragraph 8(1)(g) of Schedule 5”, substitute “ paragraph 9(1)(e) of Schedule 5 to the Council Tax Benefit Regulations 2006 ”.
 
@@ -1564,7 +1564,7 @@ with effect from 2nd October 1995 for so long as he is incapable of work or is t
 
 as if he had been incapable of work in accordance with the provisions of, and regulations made under, Part 12A of the Act (incapacity for work) throughout that period.
 
-**3.** (1) Where the higher pensioner premium was applicable to a claimant on, or at any time during the 56 days immediately preceding, 12th April 1995 by virtue of paragraph 12(1)(a)(ii) of Schedule 2 to the 1987 Regulations[^key-94e4069665789c26bcea406eea2037f6] [^c1541789], or paragraph 13(1)(a)(ii) of Schedule 1 to the 1992 Regulations [^c1541790], as in force on that date, paragraph 13 of each of the Schedules specified in sub-paragraph (2) shall, in so far as it applies to those claimants, apply subject to the amendments specified in sub-paragraph (3).
+**3.** (1) Where the higher pensioner premium was applicable to a claimant on, or at any time during the 56 days immediately preceding, 12th April 1995 by virtue of paragraph 12(1)(a)(ii) of Schedule 2 to the 1987 Regulations[^c-94e4069665789c26bcea406eea2037f6] [^c1541789], or paragraph 13(1)(a)(ii) of Schedule 1 to the 1992 Regulations [^c1541790], as in force on that date, paragraph 13 of each of the Schedules specified in sub-paragraph (2) shall, in so far as it applies to those claimants, apply subject to the amendments specified in sub-paragraph (3).
 
 (2) Those Schedules (which all relate to the applicable amount) are—
 
@@ -1590,7 +1590,7 @@ as if he had been incapable of work in accordance with the provisions of, and re
 
   .
 
-### 4. Eligible rent[^key-88787eb8a33e289a31d639418e434e39]
+### 4. Eligible rent[^c-88787eb8a33e289a31d639418e434e39]
 
 (1) Subject to the following provisions of this paragraph, the eligible rent of a person—
 
@@ -1603,8 +1603,8 @@ as set out in paragraph 5.
 
 (2) Sub-paragraph (1)(a) shall not apply to—
 
-- (a) any determination of a person’s eligible rent in a case where a relevant authority is required to determine a maximum rent ( LHA ) by virtue of regulation 13C of the Housing Benefit Regulations or, as the case may be, regulation 13C of the Housing Benefit (State Pension Credit) Regulations; [^key-a0433a03b098885172f2d657f29fe123]...
-- (aa)[^key-1fd8eeed1dc1379933301a84ad78d1fd] a determination of eligible rent in a case where a person’s landlord is a registered housing association within the meaning of regulation 2 of the Housing Benefit Regulations or any case where housing benefit is payable in the form of a rent rebate unless—
+- (a) any determination of a person’s eligible rent in a case where a relevant authority is required to determine a maximum rent ( LHA ) by virtue of regulation 13C of the Housing Benefit Regulations or, as the case may be, regulation 13C of the Housing Benefit (State Pension Credit) Regulations; [^c-a0433a03b098885172f2d657f29fe123]...
+- (aa)[^c-1fd8eeed1dc1379933301a84ad78d1fd] a determination of eligible rent in a case where a person’s landlord is a registered housing association within the meaning of regulation 2 of the Housing Benefit Regulations or any case where housing benefit is payable in the form of a rent rebate unless—
 - (i) the claimant or the claimant’s partner has attained the qualifying age for state pension credit, or both have attained that age;
 - (ii) a relevant authority has, on or before 31st March 2013, reduced that person’s eligible rent in accordance with regulation 13(3) of the Housing Benefit Regulations as set out in paragraph 5 of this Schedule; or
 - (iii) a relevant authority has, on or before 31st March 2013, made a determination that the person’s dwelling is larger than is reasonably required or that the person’s rent is unreasonably high in accordance with regulation 13(3) of the Housing Benefit Regulations as set out in paragraph 5 of this Schedule, but has not, in accordance with paragraph (4), (5) or (7) of that regulation, reduced that person’s eligible rent; or
@@ -1660,7 +1660,7 @@ as set out in paragraph 5.
 - “the first date” means 1st January 1996, except in a case to which sub-paragraph (5) applies, when it shall be the relevant date;
 - “the second date” means any day after the first date for which a claimant’s entitlement to housing benefit is to be determined;
 - “eligible rent” means as the case may require, an eligible rent determined in accordance with—
-  - (a) regulations 12B (eligible rent), 12BA (eligible rent and maximum rent (social sector)),[^key-ee50961c47be1293e51fe7ccc4eea641] 12C (eligible rent and maximum rent), 12D (eligible rent and maximum rent ( LHA )) or any of regulations 12E to 12K (transitional protection for pathfinder cases) ; or
+  - (a) regulations 12B (eligible rent), 12BA (eligible rent and maximum rent (social sector)),[^c-ee50961c47be1293e51fe7ccc4eea641] 12C (eligible rent and maximum rent), 12D (eligible rent and maximum rent ( LHA )) or any of regulations 12E to 12K (transitional protection for pathfinder cases) ; or
   - (b) regulations 12 (rent) and 13 (restrictions on unreasonable payments) as set out in paragraph 5 of Schedule 3 to the Consequential Provisions Regulations in a case to which paragraph 4 of that Schedule applies;
 - “exempt accommodation” means accommodation which is—
   - (a) a resettlement place provided by persons to whom the Secretary of State has given assistance by way of grant pursuant to section 30 of the Jobseekers Act 1995 (grants for resettlement places); and for this purpose “resettlement place” shall have the same meaning as it has in that section; or
@@ -1726,7 +1726,7 @@ as set out in paragraph 5.
 > - (b) in any other case except one to which sub-paragraph (c) applies, the proportion of those charges in respect of the self-contained unit, which is obtained by dividing the area of the dwelling occupied by the claimant by the area of the self-contained unit of which it forms part; or
 > - (c) where the charges vary in accordance with the amount of water actually used, the amount which the appropriate authority considers to be fairly attributable to water and sewerage services, having regard to the actual or estimated consumption of the claimant.
 >
-> (6A)[^key-582c8ab502883838350ff42498853e06] Where a reduction in any of the payments listed in paragraph (1) for which a person would otherwise be liable is applied by a provider of social housing under an approved tenant incentive scheme, for the purposes of paragraph (1) the amount of the payment is to be treated as if no such reduction has been applied.
+> (6A)[^c-582c8ab502883838350ff42498853e06] Where a reduction in any of the payments listed in paragraph (1) for which a person would otherwise be liable is applied by a provider of social housing under an approved tenant incentive scheme, for the purposes of paragraph (1) the amount of the payment is to be treated as if no such reduction has been applied.
 >
 > (6B) For the purposes of paragraph (6A)—
 >
@@ -1765,10 +1765,10 @@ as set out in paragraph 5.
 > >
 > > (4) If any person to whom paragraph (10) applies—
 > >
-> > - (a)[^key-75495e320c8b88d4d8440a029e0c6d9e] has attained the qualifying age for state pension credit; or
-> > - (b)[^key-718bf11a095645f70d9569f1e0c229d4] is incapable of work for the purpose of Part 12A of the Act; or
+> > - (a)[^c-75495e320c8b88d4d8440a029e0c6d9e] has attained the qualifying age for state pension credit; or
+> > - (b)[^c-718bf11a095645f70d9569f1e0c229d4] is incapable of work for the purpose of Part 12A of the Act; or
 > > - (c) is treated as capable of work in accordance with regulations made under section 171E of the Act; or
-> > - (ca)[^key-f9f9262d3a7b92d8f3b61434167e878f] has limited capability for work within the meaning of section 1(4)[^key-a7eb27ce2bc469840f3f5d830384cdef] of the Welfare Reform Act 2007; or
+> > - (ca)[^c-f9f9262d3a7b92d8f3b61434167e878f] has limited capability for work within the meaning of section 1(4)[^c-a7eb27ce2bc469840f3f5d830384cdef] of the Welfare Reform Act 2007; or
 > > - (cb) is treated as not having limited capability for work in accordance with regulations made under paragraph 1(a) of Schedule 2 to that Act (employment and support allowance: supplementary provisions); or
 > > - (d) is a member of the same household as a child or young person for whom he or his partner is responsible,
 > >
@@ -2003,7 +2003,7 @@ a person who is an asylum seeker within the meaning of sub-paragraph (11) who ha
 - (c) in paragraphs (5) and (6), the words “Except in a case to which paragraph (3) applies,” are omitted; and
 - (d) in paragraph (7) the words “Subject to paragraphs (2), (3) and (5),” are omitted.
 
-### 8. Local reference rent taper[^key-66c878faab800bea402691f4565ac47b]
+### 8. Local reference rent taper[^c-66c878faab800bea402691f4565ac47b]
 
 (1) Regulation 13 of both the Housing Benefit Regulations and the Housing Benefit (State Pension Credit) Regulations (maximum rent) shall have effect in the case of a claimant to whom any of sub-paragraphs (3) to (6) applies subject to the amendment specified in sub-paragraph (2).
 
@@ -2042,7 +2042,7 @@ a person who is an asylum seeker within the meaning of sub-paragraph (11) who ha
     > (1A) This paragraph applies to a person who—
     >
     > - (a) was or became entitled immediately before 30th October 1990 to housing benefit in respect of residential accommodation; or
-    > - (b) became or becomes entitled to housing benefit in respect of such accommodation on or after that date but only if the claim was made or, as the case may be, the appropriate authority is satisfied that the claim was sent or delivered to the appropriate DWP office or designated office in accordance with regulation 64(5)[^key-8730a43897fb4f217186c55dc06fffe8] (time and manner in which claims are made), before that date.
+    > - (b) became or becomes entitled to housing benefit in respect of such accommodation on or after that date but only if the claim was made or, as the case may be, the appropriate authority is satisfied that the claim was sent or delivered to the appropriate DWP office or designated office in accordance with regulation 64(5)[^c-8730a43897fb4f217186c55dc06fffe8] (time and manner in which claims are made), before that date.
 
     ;
   - (iii) for paragraph (4) there were substituted paragraph (3) of regulation 7 of the 1987 Regulations as in force on 23rd October 2005;
@@ -2189,7 +2189,7 @@ TABLE
 
 ### 2. Refugees –Housing Benefit
 
-(1)[^key-146c315215afb1f51c63d210e7957afb] After regulation 10 of both the Housing Benefit Regulations and the Housing Benefit (State Pension Credit) Regulations, insert—
+(1)[^c-146c315215afb1f51c63d210e7957afb] After regulation 10 of both the Housing Benefit Regulations and the Housing Benefit (State Pension Credit) Regulations, insert—
 
 > **10A. Entitlement of a refugee to Housing Benefit**
 >
@@ -2432,7 +2432,7 @@ TABLE
 
 (4) For paragraph 37 of Schedule 4 to the Council Tax Benefit Regulations, substitute—
 
-> **37.** Any housing benefit, including any amount of housing benefit to which a person is entitled by virtue of regulation 10A[^key-818ab778190173980a0d91608eb7fb2d] of the Housing Benefit Regulations 2006 [^c1541827].
+> **37.** Any housing benefit, including any amount of housing benefit to which a person is entitled by virtue of regulation 10A[^c-818ab778190173980a0d91608eb7fb2d] of the Housing Benefit Regulations 2006 [^c1541827].
 
 .
 
@@ -2484,8 +2484,8 @@ TABLE
     > (5) Regulation 83(12) of these Regulations (backdating of claims) shall not have effect with respect to claims to which this Schedule applies.
 
     ;
-- (b)[^key-abab3b46edac7acca32c39b59ad22988] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-abab3b46edac7acca32c39b59ad22988] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-abab3b46edac7acca32c39b59ad22988] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-abab3b46edac7acca32c39b59ad22988] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the Housing Benefit (State Pension Credit) Regulations, the reference to regulation 83(12) in paragraph 2(5) of Schedule 1A, as substituted by sub-paragraph (2) above, is a reference to regulation 64(13).
 
@@ -2515,8 +2515,8 @@ TABLE
     > - (b) in any other case, within 28 days of a claimant being notified by the Secretary of State that he has been recorded as a refugee.
     >
     > (5) Regulation 69(14) of these Regulations (backdating of claims) shall not have effect with respect to claims to which this Schedule applies.
-- (b)[^key-114f09c9985c4811821fa06585b97318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-114f09c9985c4811821fa06585b97318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-114f09c9985c4811821fa06585b97318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-114f09c9985c4811821fa06585b97318] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the Council Tax Benefit (State Pension Credit) Regulations, the reference to regulation 69(14) in paragraph 2(5) of Schedule 1A, as substituted by sub-paragraph (4) above, is a reference to regulation 53(13).
 
@@ -2700,7 +2700,7 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541759]: Marginal citation: [S.I. 2001/2915](https://www.legislation.gov.uk/uksi/2001/2915).
 
-[^key-9c7188c3eec3358e0da8daf251f05251]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/15) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-9c7188c3eec3358e0da8daf251f05251]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/15) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c1541761]: Marginal citation: [S.I. 2000/2959](https://www.legislation.gov.uk/uksi/2000/2959).
 
@@ -2726,7 +2726,7 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541772]: Marginal citation: Paragraph (6) was inserted by [S.I. 2003/1581](https://www.legislation.gov.uk/uksi/2003/1581).
 
-[^key-44056131fd62853594f5eb1b5a233316]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/18) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
+[^c-44056131fd62853594f5eb1b5a233316]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2006/217/schedule/2/paragraph/18) revoked (E.) (1.4.2026) by [The Discretionary Financial Assistance and Discretionary Housing Payments (Amendment and Revocation) Regulations 2026 (S.I. 2026/271)](https://www.legislation.gov.uk/uksi/2026/271), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/271/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/271/schedule)
 
 [^c1541773]: Marginal citation: [S.I. 2001/1167](https://www.legislation.gov.uk/uksi/2001/1167).
 
@@ -2752,9 +2752,9 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541784]: Marginal citation: [S.I. 2005/2502](https://www.legislation.gov.uk/uksi/2005/2502).
 
-[^key-792a43391ee418fe84a165c9bbc94cd3]: Textual amendment: Words in Sch. 2 para. 27(20) substituted (31.3.2006) by [Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2006/588/regulation/12/a)
+[^c-792a43391ee418fe84a165c9bbc94cd3]: Textual amendment: Words in Sch. 2 para. 27(20) substituted (31.3.2006) by [Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/3), [12(a)](https://www.legislation.gov.uk/uksi/2006/588/regulation/12/a)
 
-[^key-871ea98650b88a30919ed625f440ef9d]: Textual amendment: Sch. 2 para. 27(28) revoked (31.3.2006) by [Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/3), [12(b)](https://www.legislation.gov.uk/uksi/2006/588/regulation/12/b)
+[^c-871ea98650b88a30919ed625f440ef9d]: Textual amendment: Sch. 2 para. 27(28) revoked (31.3.2006) by [Social Security (Miscellaneous Amendments) Regulations 2006 (S.I. 2006/588)](https://www.legislation.gov.uk/uksi/2006/588), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2006/588/regulation/1/3), [12(b)](https://www.legislation.gov.uk/uksi/2006/588/regulation/12/b)
 
 [^c1541785]: Marginal citation: [S.I. 2005/2465](https://www.legislation.gov.uk/uksi/2005/2465).
 
@@ -2764,7 +2764,7 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541788]: Marginal citation: [S.I. 2005/3238](https://www.legislation.gov.uk/uksi/2005/3238) (W. 243).
 
-[^key-94e4069665789c26bcea406eea2037f6]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/3/1) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/2)
+[^c-94e4069665789c26bcea406eea2037f6]: Textual amendment: Words in [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/3/1) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/2)
 
 [^c1541789]: Marginal citation: [S.I. 1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 
@@ -2772,23 +2772,23 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541791]: Marginal citation: [S.I. 1976/615](https://www.legislation.gov.uk/uksi/1976/615); relevant amending instruments are [S.I. 1982/699](https://www.legislation.gov.uk/uksi/1982/699), 1985/987 and 1987/409.
 
-[^key-88787eb8a33e289a31d639418e434e39]: Textual amendment: Sch. 3 paras. 4-5 substituted (7.4.2008, 6.4.2009 in so far as not already in force) by [The Housing Benefit (Local Housing Allowance, Miscellaneous and Consequential) Amendment Regulations 2007 (S.I. 2007/2870)](https://www.legislation.gov.uk/uksi/2007/2870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/6/2)
+[^c-88787eb8a33e289a31d639418e434e39]: Textual amendment: Sch. 3 paras. 4-5 substituted (7.4.2008, 6.4.2009 in so far as not already in force) by [The Housing Benefit (Local Housing Allowance, Miscellaneous and Consequential) Amendment Regulations 2007 (S.I. 2007/2870)](https://www.legislation.gov.uk/uksi/2007/2870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/6/2)
 
-[^key-a0433a03b098885172f2d657f29fe123]: Textual amendment: Word in [Sch. 3 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/4/2/a) omitted (3.3.2014) by virtue of [The Housing Benefit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/212)](https://www.legislation.gov.uk/uksi/2014/212), [regs. 1](https://www.legislation.gov.uk/uksi/2014/212/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/212/regulation/2/2/a)
+[^c-a0433a03b098885172f2d657f29fe123]: Textual amendment: Word in [Sch. 3 para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/4/2/a) omitted (3.3.2014) by virtue of [The Housing Benefit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/212)](https://www.legislation.gov.uk/uksi/2014/212), [regs. 1](https://www.legislation.gov.uk/uksi/2014/212/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/212/regulation/2/2/a)
 
-[^key-1fd8eeed1dc1379933301a84ad78d1fd]: Textual amendment: [Sch. 3 para. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/4/2/aa) inserted (3.3.2014) by [The Housing Benefit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/212)](https://www.legislation.gov.uk/uksi/2014/212), [regs. 1](https://www.legislation.gov.uk/uksi/2014/212/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/212/regulation/2/2/b)
+[^c-1fd8eeed1dc1379933301a84ad78d1fd]: Textual amendment: [Sch. 3 para. 4(2)(aa)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/4/2/aa) inserted (3.3.2014) by [The Housing Benefit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/212)](https://www.legislation.gov.uk/uksi/2014/212), [regs. 1](https://www.legislation.gov.uk/uksi/2014/212/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/212/regulation/2/2/b)
 
-[^key-ee50961c47be1293e51fe7ccc4eea641]: Textual amendment: Words in [Sch. 3 para. 4(10)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/4/10) inserted (3.3.2014) by [The Housing Benefit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/212)](https://www.legislation.gov.uk/uksi/2014/212), [regs. 1](https://www.legislation.gov.uk/uksi/2014/212/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/212/regulation/2/3)
+[^c-ee50961c47be1293e51fe7ccc4eea641]: Textual amendment: Words in [Sch. 3 para. 4(10)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/4/10) inserted (3.3.2014) by [The Housing Benefit (Transitional Provisions) (Amendment) Regulations 2014 (S.I. 2014/212)](https://www.legislation.gov.uk/uksi/2014/212), [regs. 1](https://www.legislation.gov.uk/uksi/2014/212/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/212/regulation/2/3)
 
-[^key-582c8ab502883838350ff42498853e06]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/5) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/22/2)
+[^c-582c8ab502883838350ff42498853e06]: Textual amendment: Words in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/5) inserted (7.11.2017) by [The Social Security and Child Support (Care Payments and Tenant Incentive Scheme) (Amendment) Regulations 2017 (S.I. 2017/995)](https://www.legislation.gov.uk/uksi/2017/995), [regs. 1](https://www.legislation.gov.uk/uksi/2017/995/regulation/1), [22(2)](https://www.legislation.gov.uk/uksi/2017/995/regulation/22/2)
 
-[^key-75495e320c8b88d4d8440a029e0c6d9e]: Textual amendment: Words in Sch. 3 para. 5(2) substituted (6.4.2010) by [Social Security (Equalisation of State Pension Age) Regulations 2009 (S.I. 2009/1488)](https://www.legislation.gov.uk/uksi/2009/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1), [41(2)](https://www.legislation.gov.uk/uksi/2009/1488/regulation/41/2)
+[^c-75495e320c8b88d4d8440a029e0c6d9e]: Textual amendment: Words in Sch. 3 para. 5(2) substituted (6.4.2010) by [Social Security (Equalisation of State Pension Age) Regulations 2009 (S.I. 2009/1488)](https://www.legislation.gov.uk/uksi/2009/1488), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1488/regulation/1), [41(2)](https://www.legislation.gov.uk/uksi/2009/1488/regulation/41/2)
 
-[^key-718bf11a095645f70d9569f1e0c229d4]: Textual amendment: Words in Sch. 3 para. 5(2) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/3)
+[^c-718bf11a095645f70d9569f1e0c229d4]: Textual amendment: Words in Sch. 3 para. 5(2) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/3)
 
-[^key-f9f9262d3a7b92d8f3b61434167e878f]: Textual amendment: Words in Sch. 3 para. 5(2) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1082/regulation/2)
+[^c-f9f9262d3a7b92d8f3b61434167e878f]: Textual amendment: Words in Sch. 3 para. 5(2) inserted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [2](https://www.legislation.gov.uk/uksi/2008/1082/regulation/2)
 
-[^key-a7eb27ce2bc469840f3f5d830384cdef]: Textual amendment: Words in Sch. 3 para. 5(2)(ca) substituted by SI 2008/1082 reg. 2 (as amended) (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2008/2428/regulation/25)
+[^c-a7eb27ce2bc469840f3f5d830384cdef]: Textual amendment: Words in Sch. 3 para. 5(2)(ca) substituted by SI 2008/1082 reg. 2 (as amended) (27.10.2008) by [The Employment and Support Allowance (Miscellaneous Amendments) Regulations 2008 (S.I. 2008/2428)](https://www.legislation.gov.uk/uksi/2008/2428), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2428/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2008/2428/regulation/25)
 
 [^c1541808]: Marginal citation: [S.I. 1996/30](https://www.legislation.gov.uk/uksi/1996/30).
 
@@ -2808,9 +2808,9 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541816]: Marginal citation: [S.I. 1996/965](https://www.legislation.gov.uk/uksi/1996/965).
 
-[^key-66c878faab800bea402691f4565ac47b]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/8) substituted (7.4.2008, 6.4.2009 in so far as not already in force) by [The Housing Benefit (Local Housing Allowance, Miscellaneous and Consequential) Amendment Regulations 2007 (S.I. 2007/2870)](https://www.legislation.gov.uk/uksi/2007/2870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/6/3)
+[^c-66c878faab800bea402691f4565ac47b]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/8) substituted (7.4.2008, 6.4.2009 in so far as not already in force) by [The Housing Benefit (Local Housing Allowance, Miscellaneous and Consequential) Amendment Regulations 2007 (S.I. 2007/2870)](https://www.legislation.gov.uk/uksi/2007/2870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/6/3)
 
-[^key-8730a43897fb4f217186c55dc06fffe8]: Textual amendment: Words in [Sch. 3 para. 9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/9/3/a/ii) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/4)
+[^c-8730a43897fb4f217186c55dc06fffe8]: Textual amendment: Words in [Sch. 3 para. 9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2006/217/schedule/3/paragraph/9/3/a/ii) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/4)
 
 [^c1541819]: Marginal citation: [S.I. 1992/3147](https://www.legislation.gov.uk/uksi/1992/3147).
 
@@ -2822,13 +2822,13 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541823]: Marginal citation: [2004 c. 19](https://www.legislation.gov.uk/ukpga/2004/19).
 
-[^key-146c315215afb1f51c63d210e7957afb]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/2/1) substituted (7.4.2008, 6.4.2009 in so far as not already in force) by [The Housing Benefit (Local Housing Allowance, Miscellaneous and Consequential) Amendment Regulations 2007 (S.I. 2007/2870)](https://www.legislation.gov.uk/uksi/2007/2870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/6/4/a)
+[^c-146c315215afb1f51c63d210e7957afb]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/2/1) substituted (7.4.2008, 6.4.2009 in so far as not already in force) by [The Housing Benefit (Local Housing Allowance, Miscellaneous and Consequential) Amendment Regulations 2007 (S.I. 2007/2870)](https://www.legislation.gov.uk/uksi/2007/2870), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2007/2870/regulation/6/4/a)
 
 [^c1541825]: Marginal citation: *See* regulation 7 and Schedule 4, paragraph 2 for regulation 10A and Schedule A1 (claims by refugees).
 
 [^c1541826]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); regulation 21ZB was inserted by [S.I. 2000/636](https://www.legislation.gov.uk/uksi/2000/636).
 
-[^key-818ab778190173980a0d91608eb7fb2d]: Textual amendment: Words in [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/3/4) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/5)
+[^c-818ab778190173980a0d91608eb7fb2d]: Textual amendment: Words in [Sch. 4 para. 3(4)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/3/4) substituted (19.5.2008) by [Social Security (Miscellaneous Amendments) (No.2) Regulations 2008 (S.I. 2008/1042)](https://www.legislation.gov.uk/uksi/2008/1042), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2008/1042/regulation/7/5)
 
 [^c1541827]: Marginal citation: *See* the [Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [regulation 7](https://www.legislation.gov.uk/uksi/2006/217/regulation/7) and Schedule 4, paragraph 2 for regulation 7A and Schedule A1 (claims by refugees).
 
@@ -2838,8 +2838,8 @@ Regulation 7 and Schedule 4 contain transitory provisions which apply for a limi
 
 [^c1541830]: Marginal citation: *See* regulation 7 and Schedule 4, paragraph 3 for regulation 7A and Schedule A1 (claims by refugees).
 
-[^key-abab3b46edac7acca32c39b59ad22988]: Textual amendment: [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/2/c) omitted (5.1.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.7) Regulations 2008 (S.I. 2008/3157)](https://www.legislation.gov.uk/uksi/2008/3157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3157/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/3157/regulation/9)
+[^c-abab3b46edac7acca32c39b59ad22988]: Textual amendment: [Sch. 4 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/2/c) omitted (5.1.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.7) Regulations 2008 (S.I. 2008/3157)](https://www.legislation.gov.uk/uksi/2008/3157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3157/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/3157/regulation/9)
 
 [^c1541833]: Marginal citation: *See* regulation 7 and Schedule 4, paragraph 2 for regulation 10A and Schedule A1 (claims by refugees).
 
-[^key-114f09c9985c4811821fa06585b97318]: Textual amendment: [Sch. 4 para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/4/b)[(c)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/4/c) omitted (5.1.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.7) Regulations 2008 (S.I. 2008/3157)](https://www.legislation.gov.uk/uksi/2008/3157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3157/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/3157/regulation/9)
+[^c-114f09c9985c4811821fa06585b97318]: Textual amendment: [Sch. 4 para. 4(4)(b)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/4/b)[(c)](https://www.legislation.gov.uk/uksi/2006/217/schedule/4/paragraph/4/4/c) omitted (5.1.2009) by virtue of [Social Security (Miscellaneous Amendments) (No.7) Regulations 2008 (S.I. 2008/3157)](https://www.legislation.gov.uk/uksi/2008/3157), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3157/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/3157/regulation/9)

@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1, 3 and 34 of, and paragraphs 1, 2, 4, 4A, 7, 8(1) and 10 of Schedule 1 to, the Building Act 1984[^f00001], having consulted the Building Regulations Advisory Committee for England and such other bodies as appear to the Secretary of State to be representative of the interests concerned in accordance with section 14(3)[^f00002] of that Act.
 
-## 1. Citation, extent, application and commencement[^key-c06d68d6b04ac5955fd2d622a2c07a23]
+## 1. Citation, extent, application and commencement[^c-c06d68d6b04ac5955fd2d622a2c07a23]
 
 (1) These Regulations may be cited as the Building Regulations &c. (Amendment) Regulations 2014.
 
@@ -56,7 +56,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) These Regulations come into force on 6th April 2014.
 
-## 2. Amendments to the Building Regulations 2010[^key-3f11183baf1f457ad2016a2d2003eb70]
+## 2. Amendments to the Building Regulations 2010[^c-3f11183baf1f457ad2016a2d2003eb70]
 
 (1) The Building Regulations 2010[^f00004] are amended in accordance with the following paragraphs.
 
@@ -123,26 +123,26 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) in sub-paragraph (i) after “appliance” add “(other than a fixed flueless gas cooker)”; and
 - (b) in sub-paragraph (ii) for “12(6)(b)” substitute “12(6A)”.
 
-## 3 (Extent: E) (affected by repeal, see note). Amendments to the Building (Approved Inspectors (Extent: E) (affected by repeal, see note) etc (Extent: E) (affected by repeal, see note)) Regulations 2010 (Extent: E) (affected by repeal, see note)[^key-0e16a8ce146dfd4b4587606a126dc240][^key-0d299b68478486051e0ae64a5643236c][^key-0d299b68478486051e0ae64a5643236c][^key-0d299b68478486051e0ae64a5643236c][^key-0d299b68478486051e0ae64a5643236c]
+## 3 (Extent: E) (affected by repeal, see note). Amendments to the Building (Approved Inspectors (Extent: E) (affected by repeal, see note) etc (Extent: E) (affected by repeal, see note)) Regulations 2010 (Extent: E) (affected by repeal, see note)[^c-0e16a8ce146dfd4b4587606a126dc240][^c-0d299b68478486051e0ae64a5643236c][^c-0d299b68478486051e0ae64a5643236c][^c-0d299b68478486051e0ae64a5643236c][^c-0d299b68478486051e0ae64a5643236c]
 
-(1 (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] The Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c] etc *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]) Regulations 2010 *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c][^f00011] are amended in accordance with the following paragraphs. *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+(1 (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] The Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c] etc *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]) Regulations 2010 *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c][^f00011] are amended in accordance with the following paragraphs. *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
-(2 (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] In regulation 8 (functions of approved inspectors) *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c][^f00012]— *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+(2 (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] In regulation 8 (functions of approved inspectors) *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c][^f00012]— *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] in paragraph (1)— *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
-  - (i (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] in sub-paragraph (a) after “26 (CO2 emission rates for new buildings),” insert “26A (fabric energy efficiency rates for new buildings),”, and *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
-  - (ii (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] in sub-paragraph (b) after “27,” insert “27A,”; and *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
-- (b (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] paragraph (2) is revoked. *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+- (a (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] in paragraph (1)— *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
+  - (i (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] in sub-paragraph (a) after “26 (CO2 emission rates for new buildings),” insert “26A (fabric energy efficiency rates for new buildings),”, and *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
+  - (ii (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] in sub-paragraph (b) after “27,” insert “27A,”; and *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
+- (b (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] paragraph (2) is revoked. *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
-(3 (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] In regulation 20 (application of regulations 20 *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c] etc. *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c] of the Principal Regulations) *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c][^f00013]— *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+(3 (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] In regulation 20 (application of regulations 20 *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c] etc. *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c] of the Principal Regulations) *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c][^f00013]— *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
-- (a (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] in the heading after “20,” insert “20A,”; *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
-- (b (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] in paragraph (1) after “20 (provisions applicable to self-certification schemes),” insert “20A (provisions applicable to third party certification schemes),”; and *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
-- (c (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] after paragraph (2) insert the following paragraph— *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+- (a (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] in the heading after “20,” insert “20A,”; *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
+- (b (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] in paragraph (1) after “20 (provisions applicable to self-certification schemes),” insert “20A (provisions applicable to third party certification schemes),”; and *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
+- (c (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] after paragraph (2) insert the following paragraph— *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
-  > (2A (Extent: E) (affected by repeal, see note))[^key-0d299b68478486051e0ae64a5643236c] Regulation 27A(3) of the Principal Regulations applies in relation to building work which is the subject of an initial notice as if after “work has been completed,” there were inserted “or, if earlier, the date on which in accordance with regulation 17 of the Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c] etc *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]) Regulations 2010 the initial notice ceases to be in force *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+  > (2A (Extent: E) (affected by repeal, see note))[^c-0d299b68478486051e0ae64a5643236c] Regulation 27A(3) of the Principal Regulations applies in relation to building work which is the subject of an initial notice as if after “work has been completed,” there were inserted “or, if earlier, the date on which in accordance with regulation 17 of the Building (Approved Inspectors *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c] etc *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]) Regulations 2010 the initial notice ceases to be in force *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
-  . *(Extent: E)* *(affected by repeal, see note)*[^key-0d299b68478486051e0ae64a5643236c]
+  . *(Extent: E)* *(affected by repeal, see note)*[^c-0d299b68478486051e0ae64a5643236c]
 
 Signed by authority of the Secretary of State for Communities and Local Government
 
@@ -158,7 +158,7 @@ Department for Communities and Local Government
 
 Regulation 2(9) and (10)
 
-### PART 1[^key-db5425b38ebfd5f145d5f30799471366]
+### PART 1[^c-db5425b38ebfd5f145d5f30799471366]
 
 > | *Column 1*<br>*Type of work* | *Column 2*<br>*Person carrying out work* |
 > | --- | --- |
@@ -183,7 +183,7 @@ Regulation 2(9) and (10)
 > | **19.** Installation of insulating material to the external walls of a building, not including insulation of demountable-clad buildings. | A person registered in respect of that type of work by British Board of Agrément, CERTASS Limited, Certsure LLP, NAPIT Registration Limited, or Stroma Certification Limited. |
 > | **20.** Installation of insulating material to the external and internal walls of a building (“hybrid insulation”), not including insulation of demountable-clad buildings, and not including the installation of flexible thermal linings | A person registered in respect of that type of work by British Board of Agrément, Certsure LLP, or NAPIT Registration Limited. |
 
-### PART 2[^key-9275fe4ef25d8295ac279725787dc20f]
+### PART 2[^c-9275fe4ef25d8295ac279725787dc20f]
 
 > **SCHEDULE 3A — Third Party Certification Schemes and Exemptions from Requirement to Give Building Notice or Deposit Full Plans**
 >
@@ -215,11 +215,11 @@ Regulation 3 of these Regulations amends the Building (Approved Inspectors etc) 
 
 [^f00002]: Footnote: Section 14(3) was amended by article 8(3) of [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-c06d68d6b04ac5955fd2d622a2c07a23]: Commencement: Reg. 1 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
+[^c-c06d68d6b04ac5955fd2d622a2c07a23]: Commencement: Reg. 1 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
 
 [^f00003]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-3f11183baf1f457ad2016a2d2003eb70]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
+[^c-3f11183baf1f457ad2016a2d2003eb70]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
 
 [^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended as described in the footnotes following.
 
@@ -235,9 +235,9 @@ Regulation 3 of these Regulations amends the Building (Approved Inspectors etc) 
 
 [^f00010]: Footnote: There are amendments, but none is relevant.
 
-[^key-0e16a8ce146dfd4b4587606a126dc240]: Commencement: Reg. 3 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
+[^c-0e16a8ce146dfd4b4587606a126dc240]: Commencement: Reg. 3 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
 
-[^key-0d299b68478486051e0ae64a5643236c]: Textual amendment: Reg. 3 revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(v)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/v) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-0d299b68478486051e0ae64a5643236c]: Textual amendment: Reg. 3 revoked (E.) (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(v)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/v) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
 [^f00011]: Footnote: [S.I. 2010/2215](https://www.legislation.gov.uk/uksi/2010/2215), as amended as described in the footnotes following.
 
@@ -245,7 +245,7 @@ Regulation 3 of these Regulations amends the Building (Approved Inspectors etc) 
 
 [^f00013]: Footnote: As amended by [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119) and [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959).
 
-[^key-db5425b38ebfd5f145d5f30799471366]: Commencement: Sch. Pt. 1 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
+[^c-db5425b38ebfd5f145d5f30799471366]: Commencement: Sch. Pt. 1 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
 
 [^f00014]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
@@ -285,4 +285,4 @@ Regulation 3 of these Regulations amends the Building (Approved Inspectors etc) 
 
 [^f00032]: Footnote: A company formed and registered under the Companies Acts with the registration number 00878293.
 
-[^key-9275fe4ef25d8295ac279725787dc20f]: Commencement: Sch. Pt. 2 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)
+[^c-9275fe4ef25d8295ac279725787dc20f]: Commencement: Sch. Pt. 2 in force at 6.4.2014, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/579/regulation/1/4)

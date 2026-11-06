@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. The mediation stage[^key-320ab523c2e76f1c3ebb3de821c31866][^key-4013b89b9881817320e5918eecffd442]
+## 60. The mediation stage[^c-320ab523c2e76f1c3ebb3de821c31866][^c-4013b89b9881817320e5918eecffd442]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-320ab523c2e76f1c3ebb3de821c31866]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-320ab523c2e76f1c3ebb3de821c31866]: Commencement: S. 60 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-4013b89b9881817320e5918eecffd442]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2025/21/section/60) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(v)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/v)
+[^c-4013b89b9881817320e5918eecffd442]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2025/21/section/60) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(v)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/v)

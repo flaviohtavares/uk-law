@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Revocation of redundant provisions[^key-cec601ebf56618b4bf95e5fe072fde90]
+## 215. Revocation of redundant provisions[^c-cec601ebf56618b4bf95e5fe072fde90]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The following enactments are revoked—
 
 ## Annotations
 
-[^key-cec601ebf56618b4bf95e5fe072fde90]: Commencement: Art. 215 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cec601ebf56618b4bf95e5fe072fde90]: Commencement: Art. 215 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the 1972 Act and it appears to the Scottish Ministers that it is expedient for references to Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532)[^f00003] to be references to that instrument as amended from time to time.
 
-## 1. Citation, commencement and extent[^key-09997583a75f13853c9f768274bb6a6a]
+## 1. Citation, commencement and extent[^c-09997583a75f13853c9f768274bb6a6a]
 
 (1) These Regulations may be cited as the Environmental Protection (Duty of Care) (Scotland) Regulations 2014 and come into force on 1st March 2014.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Interpretation[^key-dd31995f9bd7a7f80aa3c3dfd4d948d0]
+## 2. Interpretation[^c-dd31995f9bd7a7f80aa3c3dfd4d948d0]
 
 (1) In these Regulations—
 
@@ -68,7 +68,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (a) being in writing includes an electronic communication within the meaning of section 15 (general interpretation) of the Electronic Communications Act 2000[^f00005]; and
 - (b) being signed means, where the document is in electronic form, an electronic signature (and “electronic signature” means data in electronic form which are attached to or logically associated with the document and which serve as a method of authentication).
 
-## 3. Transfer Notes[^key-a275150fba791957bde4d8ba64065b30]
+## 3. Transfer Notes[^c-a275150fba791957bde4d8ba64065b30]
 
 (1) The transferor and the transferee must ensure that a document as described in paragraphs (3) and (4) is completed in writing and signed by each of them in respect of the waste being transferred (“a transfer note”).
 
@@ -94,11 +94,11 @@ TABLE
 | Category of person | Additional information |
 | --- | --- |
 | A waste collection authority. |  |
-| [^key-d808a82d1cc77bca3cc58589d181d3ab]... |  |
-| [^key-d808a82d1cc77bca3cc58589d181d3ab]. . . |  |
+| [^c-d808a82d1cc77bca3cc58589d181d3ab]... |  |
+| [^c-d808a82d1cc77bca3cc58589d181d3ab]. . . |  |
 | A person to whom section 33(1)(a) and (b) of the Act[^f00009] does not apply by virtue of regulations under subsection (3) of that section. |  |
-| [^key-d808a82d1cc77bca3cc58589d181d3ab]. . . |  |
-| A person authorised under a permit or registration under the Environmental Authorisations (Scotland) Regulations 2018[^key-5f1b843ff657b1b273e9b148e349b8b7] | The relevant authorisation number (if any) issued by the competent authority. |
+| [^c-d808a82d1cc77bca3cc58589d181d3ab]. . . |  |
+| A person authorised under a permit or registration under the Environmental Authorisations (Scotland) Regulations 2018[^c-5f1b843ff657b1b273e9b148e349b8b7] | The relevant authorisation number (if any) issued by the competent authority. |
 | A person who has notified SEPA under Part 3 of the Environmental Authorisations (Scotland) Regulations 2018. | The relevant authorisation number (if any) issued by the competent authority. |
 
 (5) In this regulation—
@@ -106,18 +106,18 @@ TABLE
 - “European Waste Catalogue” means the list set out in Commission [Decision 2000/532/EC](https://www.legislation.gov.uk/european/decision/2000/0532) establishing a list of wastes, as that instrument may be amended from time to time; and
 - “SIC code” means the code for an activity in the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007)[^f00012], as amended from time to time.
 
-## 4. Special waste: exception to requirement to prepare a transfer note[^key-934e400fc71aee136b8609c792f28335]
+## 4. Special waste: exception to requirement to prepare a transfer note[^c-934e400fc71aee136b8609c792f28335]
 
 Regulation 3 does not apply where—
 
 - (a) the waste transferred is special waste within the meaning of the Special Waste Regulations 1996[^f00013]; and
 - (b) a consignment note (and if appropriate schedule) is completed and dealt with in accordance with those Regulations.
 
-## 5. Duty to keep a written description of waste or a transfer note[^key-ebc44606817aee1641dd413a90142eba]
+## 5. Duty to keep a written description of waste or a transfer note[^c-ebc44606817aee1641dd413a90142eba]
 
 The transferor and the transferee must keep the written description and the transfer note (or copies of them) for a period of two years from the date of transfer of the waste.
 
-## 6. Duty to produce a written description of waste or a transfer note[^key-e03a441d5b1404c66711c1c0c11b494c]
+## 6. Duty to produce a written description of waste or a transfer note[^c-e03a441d5b1404c66711c1c0c11b494c]
 
 (1) A competent authority may request any person required to keep a written description, or a transfer note under regulation 5, to produce the description or note (or a copy) to that authority.
 
@@ -136,7 +136,7 @@ The transferor and the transferee must keep the written description and the tran
 - (a) the Scottish Environment Protection Agency; or
 - (b) a waste collection authority for the purposes of Part 2 of the Act[^f00014].
 
-## 7. Revocation[^key-76f1bcbcc02d4abe8ff2628d1552d2e1]
+## 7. Revocation[^c-76f1bcbcc02d4abe8ff2628d1552d2e1]
 
 The Environmental Protection (Duty of Care) Regulations 1991[^f00015] are revoked.
 
@@ -180,34 +180,34 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00003]: Footnote: OJ L 226, 6.9.2000, p.3. As amended by Commission [Decision 2001/118/EC](https://www.legislation.gov.uk/european/decision/2001/0118) (OJ L 47, 16.2.2001, p.1), Commission [Decision 2001/119/EC](https://www.legislation.gov.uk/european/decision/2001/0119) (OJ L 47, 16.2.2001, p.32), and Council [Decision 2001/573/EC](https://www.legislation.gov.uk/european/decision/2001/0573) (OJ L 203, 28.7.2001, p.18).
 
-[^key-09997583a75f13853c9f768274bb6a6a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/4/regulation/1) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-09997583a75f13853c9f768274bb6a6a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/4/regulation/1) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
-[^key-dd31995f9bd7a7f80aa3c3dfd4d948d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/4/regulation/2) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-dd31995f9bd7a7f80aa3c3dfd4d948d0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/4/regulation/2) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
 [^f00004]: Footnote: As amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2012/148](https://www.legislation.gov.uk/ssi/2012/148) and [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360).
 
 [^f00005]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-a275150fba791957bde4d8ba64065b30]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/4/regulation/3) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-a275150fba791957bde4d8ba64065b30]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/4/regulation/3) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
-[^key-d808a82d1cc77bca3cc58589d181d3ab]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/4/regulation/3) table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 25(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/25/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d808a82d1cc77bca3cc58589d181d3ab]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/4/regulation/3) table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 25(a)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/25/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00009]: Footnote: As amended by [S.S.I. 2009/247](https://www.legislation.gov.uk/ssi/2009/247).
 
-[^key-5f1b843ff657b1b273e9b148e349b8b7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/4/regulation/3) table inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 25(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/25/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-5f1b843ff657b1b273e9b148e349b8b7]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2014/4/regulation/3) table inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 25(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/25/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00012]: Footnote: Published on 14th December 2007 (ISBN 0116216417) and effective from 1st January 2008.
 
-[^key-934e400fc71aee136b8609c792f28335]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/4/regulation/4) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-934e400fc71aee136b8609c792f28335]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/4/regulation/4) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
 [^f00013]: Footnote: [S.S.I. 1996/972](https://www.legislation.gov.uk/ssi/1996/972). As relevantly amended by [S.I. 1996/2019](https://www.legislation.gov.uk/uksi/1996/2019) and [S.I. 1997/25](https://www.legislation.gov.uk/uksi/1997/25), and by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226) and [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228).
 
-[^key-ebc44606817aee1641dd413a90142eba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/4/regulation/5) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-ebc44606817aee1641dd413a90142eba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/4/regulation/5) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
-[^key-e03a441d5b1404c66711c1c0c11b494c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/4/regulation/6) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-e03a441d5b1404c66711c1c0c11b494c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/4/regulation/6) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
 [^f00014]: Footnote: Section 30(3) of the Environmental Protection Act 1990 has the effect that in Scotland a council constituted under section 2 of the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39) is a waste collection authority.
 
-[^key-76f1bcbcc02d4abe8ff2628d1552d2e1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/4/regulation/7) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
+[^c-76f1bcbcc02d4abe8ff2628d1552d2e1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/4/regulation/7) in force at 1.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/4/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1991/2839](https://www.legislation.gov.uk/uksi/1991/2839). As relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2003/235](https://www.legislation.gov.uk/ssi/2003/235) and [S.S.I. 2003/533](https://www.legislation.gov.uk/ssi/2003/533).

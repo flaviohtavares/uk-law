@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Entitlement to state pension at full or reduced rate[^key-03366c6d78df502987084af61b0de96d]
+## 2. Entitlement to state pension at full or reduced rate[^c-03366c6d78df502987084af61b0de96d]
 
 *Extent: E+W+S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the person has reached pensionable age, and
 - (b) the person has at least the minimum number of qualifying years but fewer than 35 qualifying years.
 
-(3)[^key-8e0b8e4931d6d68c18a887943472e333] The minimum number of qualifying years for a state pension payable at the reduced rate is to be specified in regulations and may not be more than 10.
+(3)[^c-8e0b8e4931d6d68c18a887943472e333] The minimum number of qualifying years for a state pension payable at the reduced rate is to be specified in regulations and may not be more than 10.
 
 (4) In this Part “**qualifying year**” means a tax year, during a person's working life, in which the person's earnings factor (or the sum of the person's earnings factors) is equal to or greater than the qualifying earnings factor for the year.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-03366c6d78df502987084af61b0de96d]: Commencement: S. 2 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-03366c6d78df502987084af61b0de96d]: Commencement: S. 2 in force at 6.4.2016 so far as not brought into force earlier by an order, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
 
-[^key-8e0b8e4931d6d68c18a887943472e333]: Commencement: S. 2(3) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(a)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/a)
+[^c-8e0b8e4931d6d68c18a887943472e333]: Commencement: S. 2(3) in force at 5.2.2015 for specified purposes by [S.I. 2015/134](https://www.legislation.gov.uk/uksi/2015/134), [art. 2(1)](https://www.legislation.gov.uk/uksi/2015/134/article/2/1)[(4)(a)](https://www.legislation.gov.uk/uksi/2015/134/article/2/4/a)

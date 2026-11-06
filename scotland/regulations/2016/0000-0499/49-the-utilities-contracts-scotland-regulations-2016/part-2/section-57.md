@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Prior involvement of candidates or tenderers[^key-4eaac51a3205fa7367500f0e59ed7ad6]
+## 57. Prior involvement of candidates or tenderers[^c-4eaac51a3205fa7367500f0e59ed7ad6]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4eaac51a3205fa7367500f0e59ed7ad6]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2016/49/regulation/57) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-4eaac51a3205fa7367500f0e59ed7ad6]: Commencement: [Reg. 57](https://www.legislation.gov.uk/ssi/2016/49/regulation/57) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

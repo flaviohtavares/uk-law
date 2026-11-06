@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12K. Power of Health Board to carry out other Health Board's functions[^key-37963615cd9a5ebccd2e6eec752b525b][^key-046ff196cf20fcbfdda9dbc11f657411][^key-dafddae47aa5b77e42d5706ab1fca194][^key-046ff196cf20fcbfdda9dbc11f657411]
+## 12K. Power of Health Board to carry out other Health Board's functions[^c-37963615cd9a5ebccd2e6eec752b525b][^c-046ff196cf20fcbfdda9dbc11f657411][^c-dafddae47aa5b77e42d5706ab1fca194][^c-046ff196cf20fcbfdda9dbc11f657411]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ A Health Board may, with the agreement of another Health Board and the Scottish 
 
 ## Annotations
 
-[^key-37963615cd9a5ebccd2e6eec752b525b]: Modification: [S. 12K](https://www.legislation.gov.uk/ukpga/1978/29/section/12K) applied (with modifications) (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-37963615cd9a5ebccd2e6eec752b525b]: Modification: [S. 12K](https://www.legislation.gov.uk/ukpga/1978/29/section/12K) applied (with modifications) (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
+[^c-046ff196cf20fcbfdda9dbc11f657411]: Modification: Pt. 1 applied (7.12.2019) by [The Public Health Scotland Order 2019 (S.S.I. 2019/336)](https://www.legislation.gov.uk/ssi/2019/336), [art. 1(2)](https://www.legislation.gov.uk/ssi/2019/336/article/1/2), [sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2019/336/schedule/1/part/1) (with [art. 4(4)](https://www.legislation.gov.uk/ssi/2019/336/article/4/4)[(5)](https://www.legislation.gov.uk/ssi/2019/336/article/4/5))
 
-[^key-dafddae47aa5b77e42d5706ab1fca194]: Textual amendment: S. 12K inserted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 67](https://www.legislation.gov.uk/asp/2014/9/section/67), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-dafddae47aa5b77e42d5706ab1fca194]: Textual amendment: S. 12K inserted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 67](https://www.legislation.gov.uk/asp/2014/9/section/67), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)

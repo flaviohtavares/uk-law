@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Incidental etc provision[^key-5e1d936b4c2b80970d9aebe3cbcbde7a]
+## 53. Incidental etc provision[^c-5e1d936b4c2b80970d9aebe3cbcbde7a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e1d936b4c2b80970d9aebe3cbcbde7a]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/55/section/53) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-5e1d936b4c2b80970d9aebe3cbcbde7a]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/55/section/53) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

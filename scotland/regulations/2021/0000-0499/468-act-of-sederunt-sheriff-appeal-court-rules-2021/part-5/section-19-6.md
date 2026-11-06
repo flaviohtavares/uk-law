@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19.6. Form of bond of caution[^key-8c75b644406c20d9112e4589f1cb9f0e]
+## 19.6. Form of bond of caution[^c-8c75b644406c20d9112e4589f1cb9f0e]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c75b644406c20d9112e4589f1cb9f0e]: Commencement: Para. 19.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-8c75b644406c20d9112e4589f1cb9f0e]: Commencement: Para. 19.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

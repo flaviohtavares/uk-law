@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**59.**[^key-37dfc70a86e77180cfa692fc529d4028] In section 17ZA[^f00070] (young carers’ needs assessments: England)—
+**59.**[^c-37dfc70a86e77180cfa692fc529d4028] In section 17ZA[^f00070] (young carers’ needs assessments: England)—
 
 - (a) in subsection (1) omit “in England”;
 - (b) in subsection (12) omit “in England”;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37dfc70a86e77180cfa692fc529d4028]: Commencement: Reg. 59 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-37dfc70a86e77180cfa692fc529d4028]: Commencement: Reg. 59 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00070]: Footnote: Section 17ZA was inserted (and applies to local authorities in England only) by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 96(1).

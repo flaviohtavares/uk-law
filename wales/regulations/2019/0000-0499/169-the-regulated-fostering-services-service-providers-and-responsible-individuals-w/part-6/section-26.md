@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Procedure when child is absent without permission[^key-bb9b0f5d5f35d8afd7174c78089e3c9f]
+## 26. Procedure when child is absent without permission[^c-bb9b0f5d5f35d8afd7174c78089e3c9f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that there is a procedure to be followed when a
 
 ## Annotations
 
-[^key-bb9b0f5d5f35d8afd7174c78089e3c9f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2019/169/regulation/26) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-bb9b0f5d5f35d8afd7174c78089e3c9f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2019/169/regulation/26) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

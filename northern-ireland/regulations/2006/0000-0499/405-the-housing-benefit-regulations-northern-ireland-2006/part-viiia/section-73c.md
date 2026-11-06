@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73C. Manner of calculating the amount of welfare benefits[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]
+## 73C. Manner of calculating the amount of welfare benefits[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)
+[^c-03e6a9fe44a05c3fa8bd78f00b59e7f4]: Textual amendment: [Pt. 8A](https://www.legislation.gov.uk/nisr/2006/405/part/8A) inserted (31.5.2016) by [The Benefit Cap (Housing Benefit) Regulations (Northern Ireland) 2016 (S.R. 2016/55)](https://www.legislation.gov.uk/nisr/2016/55), [regs. 1](https://www.legislation.gov.uk/nisr/2016/55/regulation/1), [3(5)](https://www.legislation.gov.uk/nisr/2016/55/regulation/3/5)

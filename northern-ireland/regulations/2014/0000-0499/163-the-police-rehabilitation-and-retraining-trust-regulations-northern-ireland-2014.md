@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by section 11(2) of the Financial Provisions Act (Northern Ireland) 2014[^f00001], makes the following Regulations—
 
-## 1. Citation and commencement[^key-a3cbaa801402bc9e0d35bb562828cde1]
+## 1. Citation and commencement[^c-a3cbaa801402bc9e0d35bb562828cde1]
 
 These Regulations may be cited as the Police Rehabilitation and Retraining Trust Regulations (Northern Ireland) 2014 and shall come into operation on 10th July 2014.
 
-## 2. Interpretation[^key-37ffc97203156a79eb8977c0c5878c49]
+## 2. Interpretation[^c-37ffc97203156a79eb8977c0c5878c49]
 
 In these Regulations–
 
@@ -59,7 +59,7 @@ In these Regulations–
 - “the Police Association” has the same meaning as in section 32 of the Police (Northern Ireland) Act 1998[^f00002];
 - “the Trust” means the Police Rehabilitation and Retraining Trust.
 
-## 3. Status and constitution of the Trust[^key-bd85ca3044eabfb34a33f6f18d530c5e]
+## 3. Status and constitution of the Trust[^c-bd85ca3044eabfb34a33f6f18d530c5e]
 
 (1) The Trust shall be established as a body corporate for the purposes of providing assistance to police officers and former police officers and their families with clinical and support services in connection with the objectives in section 11 of the Financial Provisions Act (Northern Ireland) 2014 prior to and after cessation of their service.
 
@@ -73,7 +73,7 @@ In these Regulations–
 
 (6) The chairperson and the Board members shall be appointed by the Department.
 
-## 4. Term of office[^key-f70ef4785875f6cb2e348ed19610e1f4]
+## 4. Term of office[^c-f70ef4785875f6cb2e348ed19610e1f4]
 
 (1) Subject to the following provisions of this regulation, a person shall hold and vacate office as chairperson or as a Board member of the Trust in accordance with the terms of his or her appointment.
 
@@ -90,17 +90,17 @@ In these Regulations–
 
 (5) Where the term of office of the chairperson or of a Board member expires he or she shall be eligible for reappointment for one further term of up to four years.
 
-## 5. Remuneration and allowances[^key-4a11bc2abbac6dd58ef0146602f391f0]
+## 5. Remuneration and allowances[^c-4a11bc2abbac6dd58ef0146602f391f0]
 
 The Trust may pay to the chairperson and Board members such remuneration and allowances as the Trust, with the approval of the Department, may determine.
 
-## 6. Procedures[^key-946dc22f52b535143e74638fe76cee4a]
+## 6. Procedures[^c-946dc22f52b535143e74638fe76cee4a]
 
-(1)[^key-691820271ec1702c6932937dbd514865] Subject to these Regulations and to any direction issued by the Department, the Trust may regulate its own procedures.
+(1)[^c-691820271ec1702c6932937dbd514865] Subject to these Regulations and to any direction issued by the Department, the Trust may regulate its own procedures.
 
-(2)[^key-f543d3b6d432e46b927d777fce5c8057] Those procedures may provide for the discharge, under the general direction of the Board, of any of the Board’s functions by a committee of the Board or by one or more of the members of the Board or of its staff.
+(2)[^c-f543d3b6d432e46b927d777fce5c8057] Those procedures may provide for the discharge, under the general direction of the Board, of any of the Board’s functions by a committee of the Board or by one or more of the members of the Board or of its staff.
 
-## 7. Payments to the Trust[^key-804f946a78ea5e9fa4ab470e1da72339]
+## 7. Payments to the Trust[^c-804f946a78ea5e9fa4ab470e1da72339]
 
 (1) The Department shall make payments to, or for the purposes of, the Trust in accordance with section 11 of the Financial Provisions Act (Northern Ireland) 2014.
 
@@ -122,7 +122,7 @@ as the Department, with the approval of the Department of Finance and Personnel,
 
 (7) All gifts received by the Trust shall be recorded in its accounts.
 
-## 8. Payments made by the Trust[^key-54a211b7e9a039bc357ca6a5fede893a]
+## 8. Payments made by the Trust[^c-54a211b7e9a039bc357ca6a5fede893a]
 
 (1) The Trust may make payments from the accounts for the following purposes—
 
@@ -139,7 +139,7 @@ as the Department, with the approval of the Department of Finance and Personnel,
 
 (2) Not less than one month before the start of each financial year, the Trust shall draw up a projected expenditure plan and shall send two copies thereof for approval to the Department.
 
-## 9. Accounts and governance of the Trust[^key-42f46d8fd565b761292e6a5947553947]
+## 9. Accounts and governance of the Trust[^c-42f46d8fd565b761292e6a5947553947]
 
 The Trust shall—
 
@@ -148,7 +148,7 @@ The Trust shall—
 - (c) prepare a statement of accounts in respect of each financial year which shall contain such information and shall be in such form as the Department may direct;
 - (d) send such number of copies of the statement of accounts as may be required by the Department of Finance and Personnel to the Department within such period after the end of the financial year to which the statement relates as the Department may direct. The Department shall transmit one copy of the accounts to the Department of Finance and Personnel and shall lay one copy before the Assembly.
 
-## 10. Support[^key-373a12892dc5310d2cc7cd1afdba8dcc]
+## 10. Support[^c-373a12892dc5310d2cc7cd1afdba8dcc]
 
 (1) Appropriate accommodation may be provided to the Trust from within the resources of the Department. The Department may require the Trust to reimburse it for the reasonable cost of such accommodation.
 
@@ -158,7 +158,7 @@ The Trust shall—
 
 (4) The Trust may engage such other support as is necessary or expedient for the proper functioning of the Trust.
 
-## 11. Winding up[^key-0f95a4044db4f34b79cab6d6fec31bec]
+## 11. Winding up[^c-0f95a4044db4f34b79cab6d6fec31bec]
 
 After consultation with the Department, the Board may, and on a direction so to do from the Department, shall, make all necessary arrangements for the Trust to cease functioning.
 
@@ -178,32 +178,32 @@ These Regulations provide for the constitution, functions, procedures and financ
 
 [^f00001]: Footnote: [2014 c. 6 (N.I)](https://www.legislation.gov.uk/nia/2014/6).
 
-[^key-a3cbaa801402bc9e0d35bb562828cde1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-a3cbaa801402bc9e0d35bb562828cde1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-37ffc97203156a79eb8977c0c5878c49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/163/regulation/2) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-37ffc97203156a79eb8977c0c5878c49]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2014/163/regulation/2) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
 [^f00002]: Footnote: [1998 c.32](https://www.legislation.gov.uk/ukpga/1998/32).
 
-[^key-bd85ca3044eabfb34a33f6f18d530c5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/163/regulation/3) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-bd85ca3044eabfb34a33f6f18d530c5e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2014/163/regulation/3) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 
-[^key-f70ef4785875f6cb2e348ed19610e1f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/163/regulation/4) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-f70ef4785875f6cb2e348ed19610e1f4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2014/163/regulation/4) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-4a11bc2abbac6dd58ef0146602f391f0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/163/regulation/5) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-4a11bc2abbac6dd58ef0146602f391f0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2014/163/regulation/5) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-946dc22f52b535143e74638fe76cee4a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/163/regulation/6) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-946dc22f52b535143e74638fe76cee4a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/163/regulation/6) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-691820271ec1702c6932937dbd514865]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/163/regulation/6): renumbered as reg. 6(1) (10.8.2021) by [The Police Rehabilitation and Retraining Trust (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/212)](https://www.legislation.gov.uk/nisr/2021/212), [regs. 1](https://www.legislation.gov.uk/nisr/2021/212/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2021/212/regulation/3/1)
+[^c-691820271ec1702c6932937dbd514865]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/163/regulation/6): renumbered as reg. 6(1) (10.8.2021) by [The Police Rehabilitation and Retraining Trust (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/212)](https://www.legislation.gov.uk/nisr/2021/212), [regs. 1](https://www.legislation.gov.uk/nisr/2021/212/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2021/212/regulation/3/1)
 
-[^key-f543d3b6d432e46b927d777fce5c8057]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2014/163/regulation/6/2) inserted (10.8.2021) by [The Police Rehabilitation and Retraining Trust (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/212)](https://www.legislation.gov.uk/nisr/2021/212), [regs. 1](https://www.legislation.gov.uk/nisr/2021/212/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/212/regulation/3/2)
+[^c-f543d3b6d432e46b927d777fce5c8057]: Textual amendment: [Reg. 6(2)](https://www.legislation.gov.uk/nisr/2014/163/regulation/6/2) inserted (10.8.2021) by [The Police Rehabilitation and Retraining Trust (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/212)](https://www.legislation.gov.uk/nisr/2021/212), [regs. 1](https://www.legislation.gov.uk/nisr/2021/212/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2021/212/regulation/3/2)
 
-[^key-804f946a78ea5e9fa4ab470e1da72339]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/163/regulation/7) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-804f946a78ea5e9fa4ab470e1da72339]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2014/163/regulation/7) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-54a211b7e9a039bc357ca6a5fede893a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/163/regulation/8) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-54a211b7e9a039bc357ca6a5fede893a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2014/163/regulation/8) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-42f46d8fd565b761292e6a5947553947]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/163/regulation/9) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-42f46d8fd565b761292e6a5947553947]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2014/163/regulation/9) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-373a12892dc5310d2cc7cd1afdba8dcc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/163/regulation/10) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-373a12892dc5310d2cc7cd1afdba8dcc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2014/163/regulation/10) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
 
-[^key-0f95a4044db4f34b79cab6d6fec31bec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/163/regulation/11) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)
+[^c-0f95a4044db4f34b79cab6d6fec31bec]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/163/regulation/11) in operation at 10.7.2014, see [reg. 1](https://www.legislation.gov.uk/nisr/2014/163/regulation/1)

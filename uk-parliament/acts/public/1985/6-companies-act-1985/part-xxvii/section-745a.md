@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 745A. “Bank of England”[^key-55467ddcf47d8a6cfa77fd51b58d8342]
+## 745A. “Bank of England”[^c-55467ddcf47d8a6cfa77fd51b58d8342]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Act references to the Bank of England do not include the Bank acting in 
 
 ## Annotations
 
-[^key-55467ddcf47d8a6cfa77fd51b58d8342]: Textual amendment: [S. 745A](https://www.legislation.gov.uk/ukpga/1985/6/section/745A) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/1)
+[^c-55467ddcf47d8a6cfa77fd51b58d8342]: Textual amendment: [S. 745A](https://www.legislation.gov.uk/ukpga/1985/6/section/745A) inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/1)

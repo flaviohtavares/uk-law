@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Temporary stopping up of public rights of way[^key-57cc5364df3c7876b7fb4d2eb45cc1bb]
+## 11. Temporary stopping up of public rights of way[^c-57cc5364df3c7876b7fb4d2eb45cc1bb]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57cc5364df3c7876b7fb4d2eb45cc1bb]: Commencement: Art. 11 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-57cc5364df3c7876b7fb4d2eb45cc1bb]: Commencement: Art. 11 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

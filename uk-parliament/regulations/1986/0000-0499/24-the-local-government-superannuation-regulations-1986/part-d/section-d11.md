@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D11. Previous service of certain re-employed pensioners[^key-5551f71d4f5f38d47202f942bb7f9b7e]
+## D11. Previous service of certain re-employed pensioners[^c-5551f71d4f5f38d47202f942bb7f9b7e]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ is entitled to reckon as qualifying service the period in respect of which the r
 
 ## Annotations
 
-[^key-5551f71d4f5f38d47202f942bb7f9b7e]: Commencement: [Reg. D11](https://www.legislation.gov.uk/uksi/1986/24/regulation/D11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-5551f71d4f5f38d47202f942bb7f9b7e]: Commencement: [Reg. D11](https://www.legislation.gov.uk/uksi/1986/24/regulation/D11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

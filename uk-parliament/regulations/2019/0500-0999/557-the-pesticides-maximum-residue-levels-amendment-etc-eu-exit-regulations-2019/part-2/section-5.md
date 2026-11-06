@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Chapter 3[^key-a5ccaa58c33f5a8779ed2eb505e92ba0]
+## 5. Chapter 3[^c-a5ccaa58c33f5a8779ed2eb505e92ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,7 +139,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-71c9d9a02261e3b5be831c0e6e28b0ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-71c9d9a02261e3b5be831c0e6e28b0ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **6.**
 >
@@ -181,7 +181,7 @@ summary: ''
   >
   > - (a) in relation to Wales, with the consent of the Welsh Ministers;
   > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-  > - (c)[^key-10f16073bd87defa129cb7aaa4a99224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (c)[^c-10f16073bd87defa129cb7aaa4a99224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   >
   > **5.**
   >
@@ -191,10 +191,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a5ccaa58c33f5a8779ed2eb505e92ba0]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a5ccaa58c33f5a8779ed2eb505e92ba0]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23667941]: Marginal citation: See for example: in relation to England, [S.I. 2015/610](https://www.legislation.gov.uk/uksi/2015/610); in relation to Wales, [S.I. 2006/1643](https://www.legislation.gov.uk/uksi/2006/1643) (W.158); in relation to Scotland, [S.S.I. 2005/613](https://www.legislation.gov.uk/ssi/2005/613); in relation to Northern Ireland, S.R. [2006 No. 82](https://www.legislation.gov.uk/ukcm/2006/82).
 
-[^key-71c9d9a02261e3b5be831c0e6e28b0ba]: Textual amendment: Words in reg. 5(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/4/a)
+[^c-71c9d9a02261e3b5be831c0e6e28b0ba]: Textual amendment: Words in reg. 5(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(4)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/4/a)
 
-[^key-10f16073bd87defa129cb7aaa4a99224]: Textual amendment: Words in reg. 5(5)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/4/b)
+[^c-10f16073bd87defa129cb7aaa4a99224]: Textual amendment: Words in reg. 5(5)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(4)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/4/b)

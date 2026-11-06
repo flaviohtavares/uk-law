@@ -44,15 +44,15 @@ The Department of Justice, in exercise of the powers conferred by section 116(1)
 
 The Department has, in accordance with section 116(1) of that Act, consulted with the Lady Chief Justice.
 
-## 1. Citation and commencement[^key-8bb49bb59238073c21dedd96c85064f2]
+## 1. Citation and commencement[^c-8bb49bb59238073c21dedd96c85064f2]
 
 This Order may be cited as the County Court Fees (Amendment) Order (Northern Ireland) 2023 and shall come into operation on 1st November 2023.
 
-## 2. Amendment of the County Court Fees Order (Northern Ireland) 1996[^key-903d5bae5107b2defd2da9893bffa0d2]
+## 2. Amendment of the County Court Fees Order (Northern Ireland) 1996[^c-903d5bae5107b2defd2da9893bffa0d2]
 
 The County Court Fees Order (Northern Ireland) 1996[^f00004] is amended as follows.
 
-**3.**[^key-92f41b07f920d8e1db895f15a71ff1c8] For Schedule 1 substitute the new Schedule 1 set out in the Schedule to this Order.
+**3.**[^c-92f41b07f920d8e1db895f15a71ff1c8] For Schedule 1 substitute the new Schedule 1 set out in the Schedule to this Order.
 
 Sealed with the Official Seal of the Department of Justice on 10th October 2023
 
@@ -68,7 +68,7 @@ Patrick Neeson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE[^key-77d06b41a7fee6b135694fa462791a47]
+## SCHEDULE[^c-77d06b41a7fee6b135694fa462791a47]
 
 Article 3
 
@@ -327,12 +327,12 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^f00003]: Footnote: Formerly the Department of Finance and Personnel, see the Departments Act (Northern Ireland) 2016 ([2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)), Section 1(4) and Schedule 1.
 
-[^key-8bb49bb59238073c21dedd96c85064f2]: Commencement: Art. 1 in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
+[^c-8bb49bb59238073c21dedd96c85064f2]: Commencement: Art. 1 in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
 
-[^key-903d5bae5107b2defd2da9893bffa0d2]: Commencement: Art. 2 in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
+[^c-903d5bae5107b2defd2da9893bffa0d2]: Commencement: Art. 2 in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 103](https://www.legislation.gov.uk/nisr/1996/103) to which relevant amendments are made by [S.R. 2007 No. 378](https://www.legislation.gov.uk/nisr/2007/378), [S.R. 2017 No. 15](https://www.legislation.gov.uk/nisr/2017/15) and [S.R. 2019 No. 177](https://www.legislation.gov.uk/nisr/2019/177).
 
-[^key-92f41b07f920d8e1db895f15a71ff1c8]: Commencement: Art. 3 in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
+[^c-92f41b07f920d8e1db895f15a71ff1c8]: Commencement: Art. 3 in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
 
-[^key-77d06b41a7fee6b135694fa462791a47]: Commencement: Sch. in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)
+[^c-77d06b41a7fee6b135694fa462791a47]: Commencement: Sch. in operation at 1.11.2023, see [art. 1](https://www.legislation.gov.uk/nisr/2023/166/article/1)

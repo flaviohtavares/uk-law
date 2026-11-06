@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Ensuring energy plans are green deal plans and that instalments can be collected on energy bills[^key-5c457cd3bd3590a46b0506a85281752f]
+## 26. Ensuring energy plans are green deal plans and that instalments can be collected on energy bills[^c-5c457cd3bd3590a46b0506a85281752f]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c457cd3bd3590a46b0506a85281752f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/2079/regulation/26) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-5c457cd3bd3590a46b0506a85281752f]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/2079/regulation/26) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

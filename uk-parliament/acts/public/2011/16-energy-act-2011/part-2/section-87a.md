@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87A. Appeals against requirements to provide information[^key-249b885d8e7ed53715113eea2feb7525]
+## 87A. Appeals against requirements to provide information[^c-249b885d8e7ed53715113eea2feb7525]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-249b885d8e7ed53715113eea2feb7525]: Textual amendment: Ss. 87A 87B inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/70/3), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-249b885d8e7ed53715113eea2feb7525]: Textual amendment: Ss. 87A 87B inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/70/3), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

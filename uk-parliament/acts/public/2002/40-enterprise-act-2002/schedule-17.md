@@ -33,19 +33,19 @@ In any instrument made before section 248(1) to (3) of this Act comes into force
 
 In section 87A(1) of the Magistrates’ Court Act 1980 (fine imposed on company) for “section 9 or 124 of the Insolvency Act 1986” substitute “ section 124 of, or paragraph 12 of Schedule B1 to, the Insolvency Act 1986 ”.
 
-### 3. Companies Act 1985 (c. 6)[^key-12c77a8c25798e571577468026eeb9a5]
+### 3. Companies Act 1985 (c. 6)[^c-12c77a8c25798e571577468026eeb9a5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-12c77a8c25798e571577468026eeb9a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Insolvency Act 1986 (c. 45)
 
@@ -379,7 +379,7 @@ The Company Directors Disqualification Act 1986 shall be amended as follows.
 
   > - (b) in a case within paragraph (c) of that subsection, to the appointment of the administrator or (as the case may be) administrative receiver.
 
-**42.**[^key-78f5c306d0ad7fde37eccef20f464d7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-78f5c306d0ad7fde37eccef20f464d7a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 43. Companies Act 1989 (c. 40)
 
@@ -606,6 +606,6 @@ The Financial Services and Markets Act 2000 shall be amended as follows.
 
 ## Annotations
 
-[^key-12c77a8c25798e571577468026eeb9a5]: Textual amendment: Sch. 17 paras. 3-8 repealed (6.4.2008 for the repeal of Sch. 17 paras. 4-6, 1.10.2009 for the repeal of Sch. 17 paras. 3, 7, 8) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); S.I. 2008/2860, Sch. 1 Pt 1
+[^c-12c77a8c25798e571577468026eeb9a5]: Textual amendment: Sch. 17 paras. 3-8 repealed (6.4.2008 for the repeal of Sch. 17 paras. 4-6, 1.10.2009 for the repeal of Sch. 17 paras. 3, 7, 8) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12)); S.I. 2008/2860, Sch. 1 Pt 1
 
-[^key-78f5c306d0ad7fde37eccef20f464d7a]: Textual amendment: Sch. 17 para. 42 omitted (26.5.2015 for specified purposes, 6.4.2016 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 107(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/107/5), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/2))
+[^c-78f5c306d0ad7fde37eccef20f464d7a]: Textual amendment: Sch. 17 para. 42 omitted (26.5.2015 for specified purposes, 6.4.2016 in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 107(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/107/5), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/c); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/b) (with [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/2))

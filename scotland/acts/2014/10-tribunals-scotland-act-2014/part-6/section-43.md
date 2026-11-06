@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Review of decisions[^key-89405d3cf28f38b0ac6568797f826210][^key-8dcdc2a4548e44e8ceb8c0e1db9e5e01][^key-545e11c862704f38ee0be25ba5011175]
+## 43. Review of decisions[^c-89405d3cf28f38b0ac6568797f826210][^c-8dcdc2a4548e44e8ceb8c0e1db9e5e01][^c-545e11c862704f38ee0be25ba5011175]
 
 *Extent: S*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-89405d3cf28f38b0ac6568797f826210]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/10/section/43) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-89405d3cf28f38b0ac6568797f826210]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2014/10/section/43) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-8dcdc2a4548e44e8ceb8c0e1db9e5e01]: Modification: [S. 43](https://www.legislation.gov.uk/asp/2014/10/section/43) excluded (22.10.2018) by [Social Security (Scotland) Act 2018 (asp 9)](https://www.legislation.gov.uk/asp/2018/9), [ss. 61(5)(a)](https://www.legislation.gov.uk/asp/2018/9/section/61/5/a), [99(2)](https://www.legislation.gov.uk/asp/2018/9/section/99/2); [S.S.I. 2018/298](https://www.legislation.gov.uk/ssi/2018/298), [reg. 2(1)(j)](https://www.legislation.gov.uk/ssi/2018/298/regulation/2/1/j) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/298/regulation/3/2))
+[^c-8dcdc2a4548e44e8ceb8c0e1db9e5e01]: Modification: [S. 43](https://www.legislation.gov.uk/asp/2014/10/section/43) excluded (22.10.2018) by [Social Security (Scotland) Act 2018 (asp 9)](https://www.legislation.gov.uk/asp/2018/9), [ss. 61(5)(a)](https://www.legislation.gov.uk/asp/2018/9/section/61/5/a), [99(2)](https://www.legislation.gov.uk/asp/2018/9/section/99/2); [S.S.I. 2018/298](https://www.legislation.gov.uk/ssi/2018/298), [reg. 2(1)(j)](https://www.legislation.gov.uk/ssi/2018/298/regulation/2/1/j) (with [reg. 3(2)](https://www.legislation.gov.uk/ssi/2018/298/regulation/3/2))
 
-[^key-545e11c862704f38ee0be25ba5011175]: Modification: [S. 43](https://www.legislation.gov.uk/asp/2014/10/section/43) excluded (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/13/5/a)
+[^c-545e11c862704f38ee0be25ba5011175]: Modification: [S. 43](https://www.legislation.gov.uk/asp/2014/10/section/43) excluded (24.12.2020) by [The Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions) (EU Exit) (Scotland) Regulations 2020 (S.S.I. 2020/475)](https://www.legislation.gov.uk/ssi/2020/475), [reg. 1](https://www.legislation.gov.uk/ssi/2020/475/regulation/1), [sch. 2 para. 13(5)(a)](https://www.legislation.gov.uk/ssi/2020/475/schedule/2/paragraph/13/5/a)

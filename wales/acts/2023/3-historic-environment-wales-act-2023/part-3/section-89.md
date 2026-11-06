@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Authorisation of works by listed building consent[^key-4a09fe602f5a57bad60f9056b7708176][^key-4cc6a08db86252f689fe3e23e6886751]
+## 89. Authorisation of works by listed building consent[^c-4a09fe602f5a57bad60f9056b7708176][^c-4cc6a08db86252f689fe3e23e6886751]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ the works are authorised from the grant of that consent.
 
 ## Annotations
 
-[^key-4a09fe602f5a57bad60f9056b7708176]: Commencement: S. 89 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4a09fe602f5a57bad60f9056b7708176]: Commencement: S. 89 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-4cc6a08db86252f689fe3e23e6886751]: Commencement: [S. 89](https://www.legislation.gov.uk/asc/2023/3/section/89) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-4cc6a08db86252f689fe3e23e6886751]: Commencement: [S. 89](https://www.legislation.gov.uk/asc/2023/3/section/89) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

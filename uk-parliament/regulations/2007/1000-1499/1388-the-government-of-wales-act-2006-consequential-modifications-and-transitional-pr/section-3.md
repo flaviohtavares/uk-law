@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Modifications[^key-8abdc7e63f27756d37deb6f298cb0c58][^key-8abdc7e63f27756d37deb6f298cb0c58]
+## 3. Modifications[^c-8abdc7e63f27756d37deb6f298cb0c58][^c-8abdc7e63f27756d37deb6f298cb0c58]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 to this Order (modifications of enactments) shall have effect.
 
 ## Annotations
 
-[^key-8abdc7e63f27756d37deb6f298cb0c58]: Commencement: Art. 3 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-8abdc7e63f27756d37deb6f298cb0c58]: Commencement: Art. 3 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)

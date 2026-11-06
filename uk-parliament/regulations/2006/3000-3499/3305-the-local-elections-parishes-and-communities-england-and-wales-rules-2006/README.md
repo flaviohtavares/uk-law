@@ -44,7 +44,7 @@ Coming into force in accordance with rule 1(2)
 
 The Secretary of State makes the following Rules in exercise of the powers conferred upon him by section 36(2) of the Representation of the People Act 1983 [^c17726611].
 
-In accordance with section 7(1) and (2)(d) of the Political Parties, Elections and Referendums Act 2000 [^c17726621] he has consulted the Electoral Commission.[^key-42aec07d27d828ae9e2b2cd5a9f206f8]
+In accordance with section 7(1) and (2)(d) of the Political Parties, Elections and Referendums Act 2000 [^c17726621] he has consulted the Electoral Commission.[^c-42aec07d27d828ae9e2b2cd5a9f206f8]
 
 ## Contents
 
@@ -105,4 +105,4 @@ Rule 5 makes similar provision for the filling of casual vacancies by co-option 
 
 [^c17726621]: Marginal citation: [2000 c.41](https://www.legislation.gov.uk/ukpga/2000/41)
 
-[^key-42aec07d27d828ae9e2b2cd5a9f206f8]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3305) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/7)
+[^c-42aec07d27d828ae9e2b2cd5a9f206f8]: Modification: [Rules](https://www.legislation.gov.uk/uksi/2006/3305) modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2011/1/schedule/5/paragraph/7)

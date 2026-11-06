@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147A. Performers of pharmaceutical services and assistants[^key-9de86e1011a257f2e6a8d4402f7d125c]
+## 147A. Performers of pharmaceutical services and assistants[^c-9de86e1011a257f2e6a8d4402f7d125c]
 
 *Extent: E+W*
 
-(1) Regulations may make provision for the preparation, maintenance and publication by NHS England[^key-c26379f595629655ada8a57e0d3d2bfd] of one or more lists of—
+(1) Regulations may make provision for the preparation, maintenance and publication by NHS England[^c-c26379f595629655ada8a57e0d3d2bfd] of one or more lists of—
 
 - (a) persons approved by NHS England for the purpose of assisting in the provision of pharmaceutical services which NHS England arranges;
 - (b) persons approved by NHS England for the purpose of performing local pharmaceutical services.
@@ -40,7 +40,7 @@ summary: ''
 - (f) the grounds on which NHS England may or must suspend or remove a person from a list, the procedure for doing so, and the consequences of doing so,
 - (g) circumstances in which a person included in a list may not withdraw from it,
 - (h) payments to or in respect of a person suspended from a list (including provision for the amount of the payment, or the method of calculating it, to be determined by the Secretary of State or a person appointed by the Secretary of State),
-- (i) the supply to NHS England by an applicant for inclusion in a list, or by a person included in a list, of a criminal conviction certificate under section 112 of the Police Act 1997, a criminal record certificate under section 113A of that Act, an enhanced criminal record certificate under section 113B of that Act or up-date information within the meaning given by section 116A of that Act,[^key-4334539f544a9d6570d12a2a129ab5ce]
+- (i) the supply to NHS England by an applicant for inclusion in a list, or by a person included in a list, of a criminal conviction certificate under section 112 of the Police Act 1997, a criminal record certificate under section 113A of that Act, an enhanced criminal record certificate under section 113B of that Act or up-date information within the meaning given by section 116A of that Act,[^c-4334539f544a9d6570d12a2a129ab5ce]
 - (j) the criteria to be applied in making decisions under the regulations,
 - (k) appeals against decisions made by NHS England under the regulations, and
 - (l) disclosure of information about applicants for inclusion, grants or refusals of applications or suspensions or removals,
@@ -83,8 +83,8 @@ and may make any provision corresponding to anything in sections 151 to 159.
 
 ## Annotations
 
-[^key-9de86e1011a257f2e6a8d4402f7d125c]: Textual amendment: [Pt. 7 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/41/part/7/chapter/4A) inserted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/2), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
+[^c-9de86e1011a257f2e6a8d4402f7d125c]: Textual amendment: [Pt. 7 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/41/part/7/chapter/4A) inserted (27.3.2012 for specified purposes, 1.10.2026 in so far as not already in force) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 208(2)](https://www.legislation.gov.uk/ukpga/2012/7/section/208/2), [306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2026/852](https://www.legislation.gov.uk/uksi/2026/852), [art. 2](https://www.legislation.gov.uk/uksi/2026/852/article/2)
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-4334539f544a9d6570d12a2a129ab5ce]: Textual amendment: Words in [s. 147A(3)(i)](https://www.legislation.gov.uk/ukpga/2006/41/section/147A/3/i) substituted (17.6.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 123](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/123) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(e)(v)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/e/v)
+[^c-4334539f544a9d6570d12a2a129ab5ce]: Textual amendment: Words in [s. 147A(3)(i)](https://www.legislation.gov.uk/ukpga/2006/41/section/147A/3/i) substituted (17.6.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 123](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/123) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1180](https://www.legislation.gov.uk/uksi/2013/1180), [art. 2(e)(v)](https://www.legislation.gov.uk/uksi/2013/1180/article/2/e/v)

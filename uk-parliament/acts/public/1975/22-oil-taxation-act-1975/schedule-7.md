@@ -54,7 +54,7 @@ Table
 </tbody>
 </table>
 
-[^key-04b7f4c779c877c2abdcbb14b2ccb27c][^c10749371][^key-aa3c2b212c78b48c67a7deb42ed8da48][^key-aa3c2b212c78b48c67a7deb42ed8da48][^key-8a94fd938370e9e7002037bc8cb23a99]
+[^c-04b7f4c779c877c2abdcbb14b2ccb27c][^c10749371][^c-aa3c2b212c78b48c67a7deb42ed8da48][^c-aa3c2b212c78b48c67a7deb42ed8da48][^c-8a94fd938370e9e7002037bc8cb23a99]
 
 ## Annotations
 
@@ -70,10 +70,10 @@ Table
 
 [^c10749361]: Textual amendment: Words inserted by [Finance Act 1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 64(2)](https://www.legislation.gov.uk/ukpga/1987/16/section/64/2) and Sch. 13 Part II para. 5
 
-[^key-04b7f4c779c877c2abdcbb14b2ccb27c]: Textual amendment: Word in Sch. 7 para. 1(3) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 84(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/84/2)
+[^c-04b7f4c779c877c2abdcbb14b2ccb27c]: Textual amendment: Word in Sch. 7 para. 1(3) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 84(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/84/2)
 
 [^c10749371]: Textual amendment: Words added by [Finance Act 1987 (c. 16, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1987/16), [s. 67](https://www.legislation.gov.uk/ukpga/1987/16/section/67)
 
-[^key-aa3c2b212c78b48c67a7deb42ed8da48]: Textual amendment: Words in [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/7/paragraph/1/3) omitted (1.4.2011) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 26(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/26/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
+[^c-aa3c2b212c78b48c67a7deb42ed8da48]: Textual amendment: Words in [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/7/paragraph/1/3) omitted (1.4.2011) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 26(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/26/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
 
-[^key-8a94fd938370e9e7002037bc8cb23a99]: Textual amendment: Words in [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/7/paragraph/1/3) omitted (1.4.2011) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 26(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/26/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)
+[^c-8a94fd938370e9e7002037bc8cb23a99]: Textual amendment: Words in [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/7/paragraph/1/3) omitted (1.4.2011) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 26(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/26/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/867/article/2/2)

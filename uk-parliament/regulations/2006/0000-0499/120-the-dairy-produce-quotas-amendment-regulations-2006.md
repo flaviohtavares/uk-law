@@ -34,7 +34,7 @@ This Statutory Instrument has been printed to correct errors in [SI 2005/465](ht
 
 FOOD
 
-The Dairy Produce Quotas (Amendment) Regulations 2006 (revoked)[^key-3374c34843255f2120dd9b42076d0c2c]
+The Dairy Produce Quotas (Amendment) Regulations 2006 (revoked)[^c-3374c34843255f2120dd9b42076d0c2c]
 
 Made
 
@@ -48,34 +48,34 @@ Coming into force
 
 31st March 2006
 
-[^key-3374c34843255f2120dd9b42076d0c2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3374c34843255f2120dd9b42076d0c2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-3374c34843255f2120dd9b42076d0c2c]
+## 1. Title and commencement[^c-3374c34843255f2120dd9b42076d0c2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas Regulations 2005[^key-3374c34843255f2120dd9b42076d0c2c]
+## 2. Amendment of the Dairy Produce Quotas Regulations 2005[^c-3374c34843255f2120dd9b42076d0c2c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3374c34843255f2120dd9b42076d0c2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3374c34843255f2120dd9b42076d0c2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3374c34843255f2120dd9b42076d0c2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3374c34843255f2120dd9b42076d0c2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3374c34843255f2120dd9b42076d0c2c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3374c34843255f2120dd9b42076d0c2c]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/e)
+[^c-3374c34843255f2120dd9b42076d0c2c]: Textual amendment: Regulations revoked (E.W.) (31.3.2019) by [The Food and Rural Affairs (Miscellaneous Revocations) Regulations 2018 (S.I. 2018/908)](https://www.legislation.gov.uk/uksi/2018/908), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2018/908/regulation/3/e)
 
     Regulations revoked (S.) (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2018/391/schedule/part/2)

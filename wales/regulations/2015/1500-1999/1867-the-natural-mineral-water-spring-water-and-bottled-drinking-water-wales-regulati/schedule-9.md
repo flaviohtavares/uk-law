@@ -68,12 +68,12 @@ Each food authority must monitor for indicative dose if a source of artificial o
 
 #### 13. Exemption from monitoring
 
-(1)[^key-901c63af4fc91fc36e529e85ebd777f0] A food authority is not required to monitor water bottled and labelled as “spring water”, “dŵr ffynnon”, or its equivalent in any other language, or bottled drinking water, for radon, tritium or indicative dose if—
+(1)[^c-901c63af4fc91fc36e529e85ebd777f0] A food authority is not required to monitor water bottled and labelled as “spring water”, “dŵr ffynnon”, or its equivalent in any other language, or bottled drinking water, for radon, tritium or indicative dose if—
 
 - (a) it is satisfied on the basis of representative surveys, monitoring data or other reliable information that, for a minimum period of 5 years, the parameter in question will remain below the respective parametric value specified in Part 4 of Schedule 7; and
 - (b) it notifies the Agency of that decision and provides the Agency with a copy of the representative surveys, monitoring data or other reliable information referred to in sub-paragraph (a).
 
-(2)[^key-6dc1587bf0ad9835167c44d31060b7e0] Subject to sub-paragraph (3), the exemption from monitoring under sub-paragraph (1) lapses after a period of 5 years, beginning on the date the food authority notifies its decision to the Agency in accordance with sub-paragraph (1)(b).
+(2)[^c-6dc1587bf0ad9835167c44d31060b7e0] Subject to sub-paragraph (3), the exemption from monitoring under sub-paragraph (1) lapses after a period of 5 years, beginning on the date the food authority notifies its decision to the Agency in accordance with sub-paragraph (1)(b).
 
 (3) The exemption from monitoring under sub-paragraph (1) lapses immediately if the level of radon, tritium or indicative dose exceeds the relevant parametric value specified in Part 4 of Schedule 7.
 
@@ -105,6 +105,6 @@ If a parametric value specified in Part 4 of Schedule 7 is exceeded in a sample 
 
 ## Annotations
 
-[^key-901c63af4fc91fc36e529e85ebd777f0]: Textual amendment: Sch. 9 para. 13(1): words in Sch. 9 para. 13 renumbered as Sch. 9 para. 13(1) (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [15(1)](https://www.legislation.gov.uk/wsi/2017/935/regulation/15/1)
+[^c-901c63af4fc91fc36e529e85ebd777f0]: Textual amendment: Sch. 9 para. 13(1): words in Sch. 9 para. 13 renumbered as Sch. 9 para. 13(1) (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [15(1)](https://www.legislation.gov.uk/wsi/2017/935/regulation/15/1)
 
-[^key-6dc1587bf0ad9835167c44d31060b7e0]: Textual amendment: Sch. 9 para. 13(2)(3) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [15(2)](https://www.legislation.gov.uk/wsi/2017/935/regulation/15/2)
+[^c-6dc1587bf0ad9835167c44d31060b7e0]: Textual amendment: Sch. 9 para. 13(2)(3) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) (Amendment) Regulations 2017 (S.I. 2017/935)](https://www.legislation.gov.uk/wsi/2017/935), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2017/935/regulation/1/3), [15(2)](https://www.legislation.gov.uk/wsi/2017/935/regulation/15/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — CONSTRUCTION ACCESS TO AND FROM WORKS[^key-4d20c99a477195557b417a8ceab7e8e2]
+## SCHEDULE 9 — CONSTRUCTION ACCESS TO AND FROM WORKS[^c-4d20c99a477195557b417a8ceab7e8e2]
 
 *Extent: E+W+S*
 
@@ -62,4 +62,4 @@ Article 15
 
 ## Annotations
 
-[^key-4d20c99a477195557b417a8ceab7e8e2]: Commencement: Sch. 9 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-4d20c99a477195557b417a8ceab7e8e2]: Commencement: Sch. 9 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

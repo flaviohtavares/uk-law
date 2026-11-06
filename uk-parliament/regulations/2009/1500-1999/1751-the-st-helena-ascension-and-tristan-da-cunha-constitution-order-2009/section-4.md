@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Change of name and establishment of Constitution[^key-6f7afb86e6a2111328056b7319f3b6c0]
+## 4. Change of name and establishment of Constitution[^c-6f7afb86e6a2111328056b7319f3b6c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ From the appointed day—
 
 ## Annotations
 
-[^key-6f7afb86e6a2111328056b7319f3b6c0]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/1751/article/4) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)
+[^c-6f7afb86e6a2111328056b7319f3b6c0]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/1751/article/4) in force at 1.9.2009, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1751/article/1/3)

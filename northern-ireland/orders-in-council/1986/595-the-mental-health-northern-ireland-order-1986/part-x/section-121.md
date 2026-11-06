@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Any person who, being an officer on the staff of or otherwise employed in a hospital, private hospital or nursing home or being [^key-27bdfea9e15dab3a3a9054e67673e0bc]... [^key-27bdfea9e15dab3a3a9054e67673e0bc]... a director of the[^c17126241] HSC[^c21355881] trust managing a hospital, or a person carrying on a private hospital or nursing home—
+(1) Any person who, being an officer on the staff of or otherwise employed in a hospital, private hospital or nursing home or being [^c-27bdfea9e15dab3a3a9054e67673e0bc]... [^c-27bdfea9e15dab3a3a9054e67673e0bc]... a director of the[^c17126241] HSC[^c21355881] trust managing a hospital, or a person carrying on a private hospital or nursing home—
 
 - (a) ill-treats or wilfully neglects a patient for the time being receiving treatment for mental disorder as an in-patient in that hospital or nursing home; or
 - (b) ill-treats or wilfully neglects, on the premises of which the hospital or nursing home forms part, a patient for the time being receiving such treatment there as an out-patient,
@@ -36,7 +36,7 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-27bdfea9e15dab3a3a9054e67673e0bc]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/nisi/1986/595/article/121/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 97](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/97); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-27bdfea9e15dab3a3a9054e67673e0bc]: Textual amendment: Words in [art. 121(1)](https://www.legislation.gov.uk/nisi/1986/595/article/121/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 97](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/97); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17126241]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 

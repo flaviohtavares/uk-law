@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.1. When this Part applies[^key-f8b3d112833d2fd4807031297268dda0]
+## 41.1. When this Part applies[^c-f8b3d112833d2fd4807031297268dda0]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ This Part applies where the Attorney General wants to—
 
 ## Annotations
 
-[^key-f8b3d112833d2fd4807031297268dda0]: Commencement: [Rule 41.1](https://www.legislation.gov.uk/uksi/2025/909/rule/41.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f8b3d112833d2fd4807031297268dda0]: Commencement: [Rule 41.1](https://www.legislation.gov.uk/uksi/2025/909/rule/41.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00983]: Footnote: [1972 c. 71](https://www.legislation.gov.uk/ukpga/1972/71); section 36 was amended by section 31 of, and paragraph 8 of Schedule 1 to, the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23) and section 40 of, and paragraph 23 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 

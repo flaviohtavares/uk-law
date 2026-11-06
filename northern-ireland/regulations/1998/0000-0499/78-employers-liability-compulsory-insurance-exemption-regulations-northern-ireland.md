@@ -30,7 +30,7 @@ summary: ''
 
 EMPLOYER'S LIABILITY
 
-Employer’s Liability (Compulsory Insurance) Exemption Regulations (Northern Ireland) 1998 (revoked)[^key-5f9dfee5d1a04a9bdef9015261de137f]
+Employer’s Liability (Compulsory Insurance) Exemption Regulations (Northern Ireland) 1998 (revoked)[^c-5f9dfee5d1a04a9bdef9015261de137f]
 
 Made
 
@@ -40,31 +40,31 @@ Coming into operation
 
 20th April 1998
 
-[^key-5f9dfee5d1a04a9bdef9015261de137f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f9dfee5d1a04a9bdef9015261de137f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5f9dfee5d1a04a9bdef9015261de137f]
+## 1. Citation and commencement[^c-5f9dfee5d1a04a9bdef9015261de137f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5f9dfee5d1a04a9bdef9015261de137f]
+## 2. Interpretation[^c-5f9dfee5d1a04a9bdef9015261de137f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemptions[^key-5f9dfee5d1a04a9bdef9015261de137f]
+## 3. Exemptions[^c-5f9dfee5d1a04a9bdef9015261de137f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-5f9dfee5d1a04a9bdef9015261de137f]
+## 4. Revocations[^c-5f9dfee5d1a04a9bdef9015261de137f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f9dfee5d1a04a9bdef9015261de137f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f9dfee5d1a04a9bdef9015261de137f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — List of employers exempted from the requirements of Part III of the Order to insure and maintain insurance[^key-5f9dfee5d1a04a9bdef9015261de137f]
+## SCHEDULE — List of employers exempted from the requirements of Part III of the Order to insure and maintain insurance[^c-5f9dfee5d1a04a9bdef9015261de137f]
 
 Regulation 3
 
@@ -72,8 +72,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f9dfee5d1a04a9bdef9015261de137f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f9dfee5d1a04a9bdef9015261de137f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f9dfee5d1a04a9bdef9015261de137f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/78) revoked (1.1.2000) by [Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999 (S.R. 1999/448)](https://www.legislation.gov.uk/nisr/1999/448), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/448/regulation/1/1), [10(1)](https://www.legislation.gov.uk/nisr/1999/448/regulation/10/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/448/schedule/3)
+[^c-5f9dfee5d1a04a9bdef9015261de137f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/78) revoked (1.1.2000) by [Employer’s Liability (Compulsory Insurance) Regulations (Northern Ireland) 1999 (S.R. 1999/448)](https://www.legislation.gov.uk/nisr/1999/448), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/448/regulation/1/1), [10(1)](https://www.legislation.gov.uk/nisr/1999/448/regulation/10/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/448/schedule/3)

@@ -22,14 +22,14 @@ summary: ''
 
 (1) An employment in a capacity mentioned in Part 1 of Schedule 2 is pensionable employment.
 
-(1A)[^key-3bdfc4ff9429ea486392b5cef8e584a3] In this regulation—
+(1A)[^c-3bdfc4ff9429ea486392b5cef8e584a3] In this regulation—
 
 - (a) paragraphs (2) and (3) apply to a person’s employment before the automatic enrolment date in relation to that person in respect of that employment; and
 - (b) paragraphs (2A) and (3A) apply to a person’s employment on or after the automatic enrolment date in relation to that person in respect of that employment.
 
 (2) An employment in a capacity mentioned in Part 2 of Schedule 2 is pensionable employment if the person in the employment makes an election under regulation 10 (election for employment to be pensionable) by reason of falling within paragraph (2)(b) of that regulation, in respect of that employment.
 
-(2A)[^key-f6ca227911d85ee354a8b334dc71d192] A person’s employment in a capacity mentioned in Part 2 of Schedule 2 is pensionable employment if either—
+(2A)[^c-f6ca227911d85ee354a8b334dc71d192] A person’s employment in a capacity mentioned in Part 2 of Schedule 2 is pensionable employment if either—
 
 - (a) an election made under regulation 10 (election for employment to be pensionable) has effect before the automatic enrolment date; or
 - (b) the employer enrols the person into the Scheme in relation to that employment, and no election under regulation 9 (election for employment not to be pensionable) has effect.
@@ -39,7 +39,7 @@ summary: ''
 - (a) the person in the employment makes an election under regulation 10 (election for employment to be pensionable) by reason of falling within paragraph (2)(b) of that regulation, in respect of that employment, and
 - (b) the person's employer consents to the election being made.
 
-(3A)[^key-678a119085507f7ea801d23b88e378e2] A person’s employment in a capacity mentioned in Part 3 of Schedule 2 is pensionable employment if either—
+(3A)[^c-678a119085507f7ea801d23b88e378e2] A person’s employment in a capacity mentioned in Part 3 of Schedule 2 is pensionable employment if either—
 
 - (a) an election made under regulation 10 (election for employment to be pensionable) has effect before the automatic enrolment date; or
 - (b) the employer enrols the person into the Scheme in relation to that employment, and no election under regulation 9 (election for employment not to be pensionable) has effect.
@@ -60,10 +60,10 @@ to undertake the same, or substantially the same, functions as the person was un
 
 ## Annotations
 
-[^key-3bdfc4ff9429ea486392b5cef8e584a3]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/6/1A) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/3/a)
+[^c-3bdfc4ff9429ea486392b5cef8e584a3]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/6/1A) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/3/a)
 
-[^key-f6ca227911d85ee354a8b334dc71d192]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/6/2A) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/3/b)
+[^c-f6ca227911d85ee354a8b334dc71d192]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/6/2A) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/3/b)
 
-[^key-678a119085507f7ea801d23b88e378e2]: Textual amendment: [Reg. 6(3A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/6/3A) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/3/c)
+[^c-678a119085507f7ea801d23b88e378e2]: Textual amendment: [Reg. 6(3A)](https://www.legislation.gov.uk/uksi/2010/990/regulation/6/3A) inserted (1.10.2012) by [The Teachers’ Pensions (Amendment) (No. 2) Regulations 2012 (S.I. 2012/2270)](https://www.legislation.gov.uk/uksi/2012/2270), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2270/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2012/2270/regulation/3/c)
 
 [^c20237551]: Marginal citation: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246).

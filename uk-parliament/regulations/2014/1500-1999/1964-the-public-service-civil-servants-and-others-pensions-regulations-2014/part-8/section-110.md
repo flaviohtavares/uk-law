@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Annual rate of surviving adult’s pensions payable on death of active member (death in service)[^key-f9e41568379676daa57b5091b9493f2b]
+## 110. Annual rate of surviving adult’s pensions payable on death of active member (death in service)[^c-f9e41568379676daa57b5091b9493f2b]
 
 *Extent: E+W+S+N.I.*
 
 (1) This regulation applies on the death of an active member of this scheme, in relation to a continuous period of pensionable service of at least 12 months.
 
-(2) If the member was a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1) includes the member’s period of pensionable service under the PCSPS before the transition date for that member[^key-8d0c6c15bab9bcab44178cac4af64532] (but not service that has been transferred into the PCSPS)[^key-bac233b46fd3617e27ce1566b474a928].
+(2) If the member was a transition member with continuity of service, the continuous period of pensionable service mentioned in paragraph (1) includes the member’s period of pensionable service under the PCSPS before the transition date for that member[^c-8d0c6c15bab9bcab44178cac4af64532] (but not service that has been transferred into the PCSPS)[^c-bac233b46fd3617e27ce1566b474a928].
 
 (3) The annual rate of a dependant’s earned pension is an amount equal to 37.5% of the amount of full retirement earned pension that would have been specified in the member’s full retirement account under regulation 52(2) had P become entitled to the immediate payment of a full retirement pension on the date of P’s death.
 
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f9e41568379676daa57b5091b9493f2b]: Commencement: [Reg. 110](https://www.legislation.gov.uk/uksi/2014/1964/regulation/110) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-f9e41568379676daa57b5091b9493f2b]: Commencement: [Reg. 110](https://www.legislation.gov.uk/uksi/2014/1964/regulation/110) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-8d0c6c15bab9bcab44178cac4af64532]: Textual amendment: Words in [reg. 110(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/110/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/10)
+[^c-8d0c6c15bab9bcab44178cac4af64532]: Textual amendment: Words in [reg. 110(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/110/2) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/10)
 
-[^key-bac233b46fd3617e27ce1566b474a928]: Textual amendment: Words in [reg. 110(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/110/2) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(9)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/9)
+[^c-bac233b46fd3617e27ce1566b474a928]: Textual amendment: Words in [reg. 110(2)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/110/2) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Consequential and Amendment) Regulations 2015 (S.I. 2015/372)](https://www.legislation.gov.uk/uksi/2015/372), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/372/regulation/1/2), [16(9)](https://www.legislation.gov.uk/uksi/2015/372/regulation/16/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Fine for obstructing works[^key-3d08f08605bbc25b42c33688d17b386f]
+## 15. Fine for obstructing works[^c-3d08f08605bbc25b42c33688d17b386f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-3d08f08605bbc25b42c33688d17b386f]: Commencement: Art. 15 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-3d08f08605bbc25b42c33688d17b386f]: Commencement: Art. 15 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

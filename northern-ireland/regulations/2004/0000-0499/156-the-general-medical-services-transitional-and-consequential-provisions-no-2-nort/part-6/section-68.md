@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. References to the dispute resolution procedure in general medical services contracts which follow default contracts[^key-bc60f0b3ef2329f8e3c58d8b39f8a4a4]
+## 68. References to the dispute resolution procedure in general medical services contracts which follow default contracts[^c-bc60f0b3ef2329f8e3c58d8b39f8a4a4]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ the refusal or notice shall be treated, for the purposes of referring the matter
 
 ## Annotations
 
-[^key-bc60f0b3ef2329f8e3c58d8b39f8a4a4]: Commencement: Art. 68 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-bc60f0b3ef2329f8e3c58d8b39f8a4a4]: Commencement: Art. 68 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

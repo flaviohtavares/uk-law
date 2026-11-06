@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-099a30a7639e09b2472cfea3e2ab4883][^key-adc812e8f4b9b82742a8ce260a98b39f][^key-7a439434519e376a33a2c7a5e7ff4134] The Jobseekers Order is amended as follows.
+(1)[^c-099a30a7639e09b2472cfea3e2ab4883][^c-adc812e8f4b9b82742a8ce260a98b39f][^c-7a439434519e376a33a2c7a5e7ff4134] The Jobseekers Order is amended as follows.
 
-(2)[^key-099a30a7639e09b2472cfea3e2ab4883][^key-adc812e8f4b9b82742a8ce260a98b39f][^key-7a439434519e376a33a2c7a5e7ff4134] In Article 2 (interpretation), in paragraph (2), at the appropriate places insert—
+(2)[^c-099a30a7639e09b2472cfea3e2ab4883][^c-adc812e8f4b9b82742a8ce260a98b39f][^c-7a439434519e376a33a2c7a5e7ff4134] In Article 2 (interpretation), in paragraph (2), at the appropriate places insert—
 
 > “**work availability requirement**” has the meaning given by Article 8E;
 
@@ -44,9 +44,9 @@ summary: ''
 
 .
 
-(3)[^key-adc812e8f4b9b82742a8ce260a98b39f][^key-7a439434519e376a33a2c7a5e7ff4134] In Article 3(2) (conditions of entitlement), sub-paragraphs (a) and (c) are repealed.
+(3)[^c-adc812e8f4b9b82742a8ce260a98b39f][^c-7a439434519e376a33a2c7a5e7ff4134] In Article 3(2) (conditions of entitlement), sub-paragraphs (a) and (c) are repealed.
 
-(4)[^key-099a30a7639e09b2472cfea3e2ab4883][^key-adc812e8f4b9b82742a8ce260a98b39f][^key-7a439434519e376a33a2c7a5e7ff4134] For Articles 8 to 12 (and the italic heading preceding Article 8) substitute—
+(4)[^c-099a30a7639e09b2472cfea3e2ab4883][^c-adc812e8f4b9b82742a8ce260a98b39f][^c-7a439434519e376a33a2c7a5e7ff4134] For Articles 8 to 12 (and the italic heading preceding Article 8) substitute—
 
 > **Work-related requirements**
 >
@@ -350,7 +350,7 @@ summary: ''
 >
 > (7) This Article applies in relation to the functions exercisable by the Department for Employment and Learning by virtue of Article 8L as it applies in relation to the functions of the Department mentioned in paragraph (1); and references to the Department in paragraphs (1) to (6) are to be construed accordingly.
 
-(5)[^key-adc812e8f4b9b82742a8ce260a98b39f][^key-7a439434519e376a33a2c7a5e7ff4134] In Article 31 (pilot schemes), in paragraph (8), for the words from “ascertaining” to the end substitute—
+(5)[^c-adc812e8f4b9b82742a8ce260a98b39f][^c-7a439434519e376a33a2c7a5e7ff4134] In Article 31 (pilot schemes), in paragraph (8), for the words from “ascertaining” to the end substitute—
 
 > testing the extent to which the provision made by the regulations is likely to promote—
 >
@@ -359,8 +359,8 @@ summary: ''
 
 ## Annotations
 
-[^key-099a30a7639e09b2472cfea3e2ab4883]: Commencement: [Art. 55(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/2)[(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/4) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/a/iii)
+[^c-099a30a7639e09b2472cfea3e2ab4883]: Commencement: [Art. 55(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/1)[(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/2)[(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/4) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/a/iii)
 
-[^key-adc812e8f4b9b82742a8ce260a98b39f]: Commencement: [Art. 55(1)-(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/1) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
+[^c-adc812e8f4b9b82742a8ce260a98b39f]: Commencement: [Art. 55(1)-(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/1) in operation at 27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 
-[^key-7a439434519e376a33a2c7a5e7ff4134]: Modification: [Art. 55(1)-(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/1) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)
+[^c-7a439434519e376a33a2c7a5e7ff4134]: Modification: [Art. 55(1)-(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/55/1) amendment to earlier commencing S.R. 2017/190, art. 24 (30.3.2022) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 16 and Commencement No. 8, 13 and 14 and Transitional and Transitory Provisions (Amendment)) Order (Northern Ireland) 2022 (S.R. 2022/132)](https://www.legislation.gov.uk/nisr/2022/132), [art. 5](https://www.legislation.gov.uk/nisr/2022/132/article/5), [Sch. para. 1(3)](https://www.legislation.gov.uk/nisr/2022/132/schedule/paragraph/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Agricultural charges on farming stock and assets[^key-ff01defcc970cd58a8064c137cdb3bf1]
+## 267. Agricultural charges on farming stock and assets[^c-ff01defcc970cd58a8064c137cdb3bf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff01defcc970cd58a8064c137cdb3bf1]: Commencement: Art. 267 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ff01defcc970cd58a8064c137cdb3bf1]: Commencement: Art. 267 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00182]: Footnote: The definition of “bank” in subsection (7) was substituted by the Banking Act [1979 (c. 37)](https://www.legislation.gov.uk/ukpga/1979/37) Schedule 6, paragraphs 2, 14 and has been amended by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22) Schedule 6, paragraph 2; the Trustee Savings Banks Act [1985 (c. 58)](https://www.legislation.gov.uk/ukpga/1985/58) ss. 4(3), 7(3), Schedule 4 and [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), article 1(2).

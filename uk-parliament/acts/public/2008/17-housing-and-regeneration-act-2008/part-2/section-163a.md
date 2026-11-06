@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163A. Restructuring of registered societies: registration of successor bodies[^M_C_21276f88-85f2-4256-c94d-b90cc0705757][^key-9fceaa4f3534b1e9e0940c789acf3875]
+## 163A. Restructuring of registered societies: registration of successor bodies[^M_C_21276f88-85f2-4256-c94d-b90cc0705757][^c-9fceaa4f3534b1e9e0940c789acf3875]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^M_C_21276f88-85f2-4256-c94d-b90cc0705757]: Modification: S. 163A applied (with modifications) (1.4.2024) by [The Charitable Incorporated Organisations (Notification Requirements: Social Housing) Regulations 2023 (S.I. 2023/1311)](https://www.legislation.gov.uk/uksi/2023/1311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1311/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/1311/regulation/9)
 
-[^key-9fceaa4f3534b1e9e0940c789acf3875]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/2008/17/section/163A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/17/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/j)
+[^c-9fceaa4f3534b1e9e0940c789acf3875]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/2008/17/section/163A) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/17/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. General restriction on selection by ability[^key-0279368d0c96a642b53b5f25c757eff2][^key-4518da2cbf7942b31924c9cc76675a5a]
+## 39. General restriction on selection by ability[^c-0279368d0c96a642b53b5f25c757eff2][^c-4518da2cbf7942b31924c9cc76675a5a]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0279368d0c96a642b53b5f25c757eff2]: Commencement: S. 39 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(b)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/b)
+[^c-0279368d0c96a642b53b5f25c757eff2]: Commencement: S. 39 in force at 27.2.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(b)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/b)
 
-[^key-4518da2cbf7942b31924c9cc76675a5a]: Commencement: S. 39 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-4518da2cbf7942b31924c9cc76675a5a]: Commencement: S. 39 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)

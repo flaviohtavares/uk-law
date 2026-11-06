@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Summary proceedings by litter authorities[^key-1a727bef6409719faf8515daebcc9472]
+## 92. Summary proceedings by litter authorities[^c-1a727bef6409719faf8515daebcc9472]
 
 *Extent: S*
 
@@ -60,4 +60,4 @@ that it is defaced by litter or refuse or that defacement of it by litter or ref
 
 ## Annotations
 
-[^key-1a727bef6409719faf8515daebcc9472]: Textual amendment: Ss. 92-94A repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/21) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/ii); and ss. 92, 93, 94 re-inserted (with modifications) (S.) (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 179(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/179/1), [183(5)(c)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/c)
+[^c-1a727bef6409719faf8515daebcc9472]: Textual amendment: Ss. 92-94A repealed (20.10.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/21) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(g)(ii)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/g/ii); and ss. 92, 93, 94 re-inserted (with modifications) (S.) (31.1.2017) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 179(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/179/1), [183(5)(c)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/c)

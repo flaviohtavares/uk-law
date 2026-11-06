@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Entitlement of relative to apply for a special guardianship order[^key-868515ef1ebd30181715c1aff0e6f188][^key-b6895fa6b9ffa27a192423e390c62c8a]
+## 38. Entitlement of relative to apply for a special guardianship order[^c-868515ef1ebd30181715c1aff0e6f188][^c-b6895fa6b9ffa27a192423e390c62c8a]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 14A(5) of the 1989 Act (persons entitled to apply for special guardia
 
 ## Annotations
 
-[^key-868515ef1ebd30181715c1aff0e6f188]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2008/23/section/38) in force at 1.9.2009 for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/l)
+[^c-868515ef1ebd30181715c1aff0e6f188]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2008/23/section/38) in force at 1.9.2009 for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(l)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/l)
 
-[^key-b6895fa6b9ffa27a192423e390c62c8a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2008/23/section/38) in force at 1.9.2009 for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/wsi/2009/1921), [art. 2(c)](https://www.legislation.gov.uk/wsi/2009/1921/article/2/c)
+[^c-b6895fa6b9ffa27a192423e390c62c8a]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2008/23/section/38) in force at 1.9.2009 for W. by [S.I. 2009/1921](https://www.legislation.gov.uk/wsi/2009/1921), [art. 2(c)](https://www.legislation.gov.uk/wsi/2009/1921/article/2/c)

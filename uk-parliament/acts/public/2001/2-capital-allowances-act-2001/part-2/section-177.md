@@ -44,7 +44,7 @@ the relevant time is the time when the equipment lessee begins to carry on the q
 
 (4) If an election is made under this section, the equipment lessee is not to be treated under section 176 as the owner of the fixture.
 
-(5) An election under this section must be made by notice to the an officer of Revenue and Customs[^key-f8383d059f6983497492acea54d7cfe8]—
+(5) An election under this section must be made by notice to the an officer of Revenue and Customs[^c-f8383d059f6983497492acea54d7cfe8]—
 
 - (a) for income tax purposes, on or before the normal time limit for amending a tax return for the tax year in which the relevant chargeable period ends;
 - (b) for corporation tax purposes, no later than 2 years after the end of the relevant chargeable period.
@@ -53,4 +53,4 @@ the relevant time is the time when the equipment lessee begins to carry on the q
 
 ## Annotations
 
-[^key-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-f8383d059f6983497492acea54d7cfe8]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 83(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/83/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

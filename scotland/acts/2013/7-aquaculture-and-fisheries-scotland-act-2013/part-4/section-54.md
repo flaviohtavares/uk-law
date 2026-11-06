@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Protection and improvement of shellfish waters[^key-97b6aa8443800858b552818ef13d21d4]
+## 54. Protection and improvement of shellfish waters[^c-97b6aa8443800858b552818ef13d21d4]
 
 *Extent: S*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97b6aa8443800858b552818ef13d21d4]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2013/7/section/54) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-97b6aa8443800858b552818ef13d21d4]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2013/7/section/54) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

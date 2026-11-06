@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Date on which change of circumstances is to take effect[^key-6d826dd3c65b97924bdcefb46cd5b5ee]
+## 13. Date on which change of circumstances is to take effect[^c-6d826dd3c65b97924bdcefb46cd5b5ee]
 
 *Extent: N.I.*
 
@@ -81,7 +81,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6d826dd3c65b97924bdcefb46cd5b5ee]: Commencement: Reg. 13 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-6d826dd3c65b97924bdcefb46cd5b5ee]: Commencement: Reg. 13 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00079]: Footnote: Paragraph (1) was amended by regulation 8(a)(i) of [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25) and regulation 6(a) of [S.R. 1999 No. 416](https://www.legislation.gov.uk/nisr/1999/416)
 

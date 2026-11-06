@@ -45,8 +45,8 @@ summary: ''
 (7) If the scheme manager revokes an election under paragraph (5)—
 
 - (a) periodic payments for additional pension under the election cease to be payable; and
-- (b) payments made by M before the date of revocation must be returned to M or, if M is deceased, M's personal[^key-ecd4579b5359012f346c8cc280395053] representatives.
+- (b) payments made by M before the date of revocation must be returned to M or, if M is deceased, M's personal[^c-ecd4579b5359012f346c8cc280395053] representatives.
 
 ## Annotations
 
-[^key-ecd4579b5359012f346c8cc280395053]: Textual amendment: Word in [reg. 66(7)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/66/7/b) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [35](https://www.legislation.gov.uk/uksi/2017/275/regulation/35)
+[^c-ecd4579b5359012f346c8cc280395053]: Textual amendment: Word in [reg. 66(7)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/66/7/b) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [35](https://www.legislation.gov.uk/uksi/2017/275/regulation/35)

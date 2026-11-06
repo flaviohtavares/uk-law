@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Variation of a licence on the application, or with the consent, of a licence holder[^key-ea906fa2f2d0999a50f7898bca58c617]
+## 11. Variation of a licence on the application, or with the consent, of a licence holder[^c-ea906fa2f2d0999a50f7898bca58c617]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea906fa2f2d0999a50f7898bca58c617]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/84/regulation/11) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-ea906fa2f2d0999a50f7898bca58c617]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/84/regulation/11) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

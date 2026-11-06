@@ -42,7 +42,7 @@ and the licensed bookmaker is unable to carry on the business of a bookmaker in 
   - (i) proposes to resume business in the licensed office within a reasonable period; or
   - (ii) has made an application for a new bookmaking office licence for those or other premises, or proposes to do so within a reasonable period.
 
-(3)[^key-9599d1d0ef0e063948c8aa1e071f7f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9599d1d0ef0e063948c8aa1e071f7f56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Where an order has been made under paragraph (1), a court of summary jurisdiction may, on application by the licensed bookmaker, make such further order or orders under that paragraph as it thinks fit.
 
@@ -59,4 +59,4 @@ whichever first occurs.
 
 [^c20359181]: Textual amendment: Art. 26(2)(c) repealed (15.11.2010) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(2)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/2), [Sch. 4](https://www.legislation.gov.uk/nisi/2006/1254/schedule/4) (with [art. 62](https://www.legislation.gov.uk/nisi/2006/1254/article/62)); [S.R. 2010/328](https://www.legislation.gov.uk/nisr/2010/328), [art. 2](https://www.legislation.gov.uk/nisr/2010/328/article/2)
 
-[^key-9599d1d0ef0e063948c8aa1e071f7f56]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/nisi/1985/1204/article/26/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-9599d1d0ef0e063948c8aa1e071f7f56]: Textual amendment: [Art. 26(3)](https://www.legislation.gov.uk/nisi/1985/1204/article/26/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

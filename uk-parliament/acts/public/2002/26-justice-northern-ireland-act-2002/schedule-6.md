@@ -44,7 +44,7 @@ Section 19
 - President of appeal tribunals (within the meaning of Chapter 1 of Part 2 of the Social Security (Northern Ireland) Order 1998 (S.I. 1998/1506 (N.I. 10)))
 - Member of the panel of persons to act as members of such appeal tribunals
 - Member of the legal panel of persons available to act as chairmen of Social Care Tribunals in Northern Ireland
-- [^key-03a5923d455c1ced503a0359fa49481e]...
+- [^c-03a5923d455c1ced503a0359fa49481e]...
 - President of the Industrial Tribunals and the Fair Employment Tribunal
 - Acting President of the Industrial Tribunals and the Fair Employment Tribunal under Article 82(6) of the Fair Employment and Treatment (Northern Ireland) Order 1998 (S.I. 1998/3162 (N.I. 12))
 - Vice-President of the Industrial Tribunals and the Fair Employment Tribunal
@@ -67,7 +67,7 @@ Section 19
 - Member of a Tribunal appointed under paragraph 2(1) of the Schedule to the Pensions Appeal Tribunals Act 1943 in its application to Northern Ireland
 - President or Deputy President of Pensions Appeal Tribunals appointed under paragraph 2B of the Schedule to the Pensions Appeal Tribunals Act 1943 in its application to Northern Ireland
 - Chairman of the Plant Varieties and Seeds Tribunal for the purpose of proceedings brought before it in Northern Ireland
-- Deputy appointed under paragraph 6(1) of Schedule 3 to the Plant Varieties Act 1997 for the purpose of proceedings brought before the Plant Varieties and Seeds Tribunal in Northern Ireland[^key-dda2ec14b14c563065da7de8dbb45b06]
+- Deputy appointed under paragraph 6(1) of Schedule 3 to the Plant Varieties Act 1997 for the purpose of proceedings brought before the Plant Varieties and Seeds Tribunal in Northern Ireland[^c-dda2ec14b14c563065da7de8dbb45b06]
 - Member of the panel of persons to act as chairmen of Reinstatement Committees sitting in Northern Ireland (appointed under paragraph 2(1)(a) of Schedule 2 to the Reserve Forces (Safeguard of Employment) Act 1985)
 - [^c20720981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [^c20721531]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -81,7 +81,7 @@ Section 19
 
 ## Annotations
 
-[^key-03a5923d455c1ced503a0359fa49481e]: Textual amendment: Words in Sch. 6 repealed (1.11.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1), [Sch. 3 para. 55](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/55), [Sch. 5](https://www.legislation.gov.uk/nia/2022/18/schedule/5); [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/iii)
+[^c-03a5923d455c1ced503a0359fa49481e]: Textual amendment: Words in Sch. 6 repealed (1.11.2024) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1), [Sch. 3 para. 55](https://www.legislation.gov.uk/nia/2022/18/schedule/3/paragraph/55), [Sch. 5](https://www.legislation.gov.uk/nia/2022/18/schedule/5); [S.R. 2024/186](https://www.legislation.gov.uk/nisr/2024/186), [art. 2(b)(iii)](https://www.legislation.gov.uk/nisr/2024/186/article/2/b/iii)
 
 [^c20717431]: Textual amendment: Sch. 6: entry inserted (31.8.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 126(4)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/126/4); [S.I. 2005/2284](https://www.legislation.gov.uk/uksi/2005/2284), [art. 2](https://www.legislation.gov.uk/uksi/2005/2284/article/2)
 
@@ -91,7 +91,7 @@ Section 19
 
 [^c20717481]: Textual amendment: Sch. 6: entries inserted (3.4.2006 except in regard to the office of General Commissioner for a division in Northern Ireland) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 126(5)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/126/5); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12)
 
-[^key-dda2ec14b14c563065da7de8dbb45b06]: Textual amendment: Words in Sch. 6 inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 35(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/35/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
+[^c-dda2ec14b14c563065da7de8dbb45b06]: Textual amendment: Words in Sch. 6 inserted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [s. 5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7), [Sch. 4 para. 35(2)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/35/2) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
 [^c20720981]: Textual amendment: Sch. 6: entry repealed (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 146](https://www.legislation.gov.uk/ukpga/2007/15/section/146), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1); [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 5](https://www.legislation.gov.uk/uksi/2008/2696/article/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2008/2696/article/3), [4](https://www.legislation.gov.uk/uksi/2008/2696/article/4))
 

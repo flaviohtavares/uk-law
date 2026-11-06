@@ -26,15 +26,15 @@ Section 104
 
 #### Introductory
 
-**1.**[^key-5d562710602584e6818799e8db9f4e72] This Part of this Schedule applies where a youth offender panel refers an offender back to court under Chapter 1 of Part 6 (referral orders).
+**1.**[^c-5d562710602584e6818799e8db9f4e72] This Part of this Schedule applies where a youth offender panel refers an offender back to court under Chapter 1 of Part 6 (referral orders).
 
 #### Mode of referral back to court
 
-**2.**[^key-3a58175a095db71c13697c3254ea9970] To make the referral, the panel must send a report to the appropriate court explaining why the offender is being referred back to court.
+**2.**[^c-3a58175a095db71c13697c3254ea9970] To make the referral, the panel must send a report to the appropriate court explaining why the offender is being referred back to court.
 
 #### Bringing the offender before the court
 
-**3.**[^key-76190061658661357652812f89310941] (1) Where the appropriate court receives a report under paragraph 2, the court must cause the offender to appear before it.
+**3.**[^c-76190061658661357652812f89310941] (1) Where the appropriate court receives a report under paragraph 2, the court must cause the offender to appear before it.
 
 (2) For that purpose, a justice acting in the same local justice area as the appropriate court may—
 
@@ -43,7 +43,7 @@ Section 104
 
 #### Detention and remand of arrested offender
 
-**4.**[^key-0cdbe0927b4ec3310ecc513384bc0e2d] (1) This paragraph applies where an offender—
+**4.**[^c-0cdbe0927b4ec3310ecc513384bc0e2d] (1) This paragraph applies where an offender—
 
 - (a) is arrested under a warrant issued under paragraph 3(2), and
 - (b) cannot immediately be brought before the appropriate court.
@@ -55,7 +55,7 @@ Section 104
 
 (3) A person detained in accordance with arrangements under sub-paragraph (2)(a) is deemed to be lawfully detained.
 
-**5.**[^key-98391116640c9b17f74a2e99b1667060] (1) This paragraph applies where the court before which the offender is brought under paragraph 4(2) (“the alternative court”) is not the appropriate court.
+**5.**[^c-98391116640c9b17f74a2e99b1667060] (1) This paragraph applies where the court before which the offender is brought under paragraph 4(2) (“the alternative court”) is not the appropriate court.
 
 (2) The alternative court may—
 
@@ -70,7 +70,7 @@ Section 104
 
 #### Powers of court on referral back
 
-**6.**[^key-77ae406b2ed94a47f724a518597b673b] Paragraphs 7 to 10 apply where the offender was referred back to court under—
+**6.**[^c-77ae406b2ed94a47f724a518597b673b] Paragraphs 7 to 10 apply where the offender was referred back to court under—
 
 - (a) section 92(3) (offender's failure to attend panel meeting);
 - (b) section 98(3) (no prospect of agreement on youth offender contract);
@@ -83,7 +83,7 @@ Section 104
 
 #### Power of court where it upholds panel's decision
 
-**7.**[^key-9466a2f32a1bcb4ff8b69ef1603b2169] (1) Sub-paragraph (2) applies where the appropriate court is satisfied, for any decision of the youth offender panel which resulted in the referral back to court, that—
+**7.**[^c-9466a2f32a1bcb4ff8b69ef1603b2169] (1) Sub-paragraph (2) applies where the appropriate court is satisfied, for any decision of the youth offender panel which resulted in the referral back to court, that—
 
 - (a) so far as the decision relied on any finding of fact by the youth offender panel, the panel was entitled to make that finding in the circumstances, and
 - (b) so far as the decision involved any exercise of discretion by the youth offender panel, the panel reasonably exercised that discretion in the circumstances.
@@ -106,11 +106,11 @@ Section 104
 
 #### Appeal
 
-**8.**[^key-8c7994ebcfce0070322c3566de7b581f] An offender re-sentenced under paragraph 7(4) for an offence may appeal to the Crown Court against the sentence.
+**8.**[^c-8c7994ebcfce0070322c3566de7b581f] An offender re-sentenced under paragraph 7(4) for an offence may appeal to the Crown Court against the sentence.
 
 #### Power of court to impose fine or extend period for which contract has effect
 
-**9.**[^key-df4d6966478319f5a7b692530f02af65] (1) This paragraph applies where—
+**9.**[^c-df4d6966478319f5a7b692530f02af65] (1) This paragraph applies where—
 
 - (a) the reference back to court was made under—
   - (i) section 92(3) (offender's failure to attend panel meeting),
@@ -133,7 +133,7 @@ Section 104
 
 #### Consequences of court not revoking referral order or orders
 
-**10.**[^key-836fc0ee16715b1b518a99e4c5118270] (1) This paragraph applies where, having considered the matters in sub-paragraph (1) of paragraph 7, the appropriate court does not revoke the referral order (or orders) to which the offender is subject.
+**10.**[^c-836fc0ee16715b1b518a99e4c5118270] (1) This paragraph applies where, having considered the matters in sub-paragraph (1) of paragraph 7, the appropriate court does not revoke the referral order (or orders) to which the offender is subject.
 
 (2) The offender remains subject to the referral order (or orders) in all respects as if the referral back to court had not occurred (subject to any order under paragraph 9(2) (extension of compliance period)).
 
@@ -149,7 +149,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Exception where court satisfied as to completion of contract
 
-**11.**[^key-10b578c32d0b238911bfb14d0a52ecb8] (1) This paragraph applies where—
+**11.**[^c-10b578c32d0b238911bfb14d0a52ecb8] (1) This paragraph applies where—
 
 - (a) the reference back to court was made under section 101(5) (final meeting: order not discharged), and
 - (b) the court decides (contrary to the decision of the panel) that the offender's compliance with the youth offender contract has, or will by the end of the compliance period have, been such as to justify the conclusion that the offender has, or will have, satisfactorily completed the youth offender contract.
@@ -160,7 +160,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Referral back for extension of compliance period
 
-**12.**[^key-4bb5f6ed01713fa5a2e45d0ffa1bf399] (1) This paragraph applies where—
+**12.**[^c-4bb5f6ed01713fa5a2e45d0ffa1bf399] (1) This paragraph applies where—
 
 - (a) the reference back to court was made under section 103(2) (request for extension of compliance period),
 - (b) the youth offender contract has taken effect and the compliance period has not expired, and
@@ -175,7 +175,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Power to adjourn hearing and remand offender
 
-**13.**[^key-e6fd18adeeb3cfc08084665cbd6f4ea0] (1) This paragraph applies where a youth court or other magistrates' court holds a hearing in proceedings under this Part of this Schedule.
+**13.**[^c-e6fd18adeeb3cfc08084665cbd6f4ea0] (1) This paragraph applies where a youth court or other magistrates' court holds a hearing in proceedings under this Part of this Schedule.
 
 (2) The court may adjourn the hearing.
 
@@ -208,7 +208,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Introductory
 
-**14.**[^key-48f95d9f526e362740d39e4d990658ae] This Part of this Schedule applies where—
+**14.**[^c-48f95d9f526e362740d39e4d990658ae] This Part of this Schedule applies where—
 
 - (a) a referral order has been made in respect of an offender and has not been discharged or revoked,
 - (b) the offender is aged under 18, and
@@ -216,7 +216,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Power of magistrates' court to deal with further offence by extending compliance period
 
-**15.**[^key-0e7f45634b3fcddc00b33f3c286a0cb4] (1) This paragraph applies if the court dealing with the offender for the new offence is a youth court or other magistrates' court.
+**15.**[^c-0e7f45634b3fcddc00b33f3c286a0cb4] (1) This paragraph applies if the court dealing with the offender for the new offence is a youth court or other magistrates' court.
 
 (2) An order under this paragraph is available in respect of the new offence if neither the new offence nor any offence connected with it is one the sentence for which is fixed by law.
 
@@ -224,7 +224,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Supplementary
 
-**16.**[^key-b8c76899e41c11bc1abbc29949ad11be] (1) This paragraph applies where a court makes an order under paragraph 15 in respect of the new offence.
+**16.**[^c-b8c76899e41c11bc1abbc29949ad11be] (1) This paragraph applies where a court makes an order under paragraph 15 in respect of the new offence.
 
 (2) The court must not deal with the offender for the new offence, or any offence connected with it, by making an order of the kind mentioned in section 89(3) (orders not available where court makes referral order).
 
@@ -235,7 +235,7 @@ the court must make an order declaring that the referral order (or each of the r
 
 #### Further convictions: power of any court to revoke referral orders
 
-**17.**[^key-ed29ecdc1fe8025c4b2f529356379e55] (1) This paragraph applies where, in dealing with the offender for the new offence, the court makes an order other than—
+**17.**[^c-ed29ecdc1fe8025c4b2f529356379e55] (1) This paragraph applies where, in dealing with the offender for the new offence, the court makes an order other than—
 
 - (a) an order under paragraph 15, or
 - (b) an order for absolute discharge or an order for conditional discharge.
@@ -253,36 +253,36 @@ the court must make an order declaring that the referral order (or each of the r
 
 ## Annotations
 
-[^key-5d562710602584e6818799e8db9f4e72]: Commencement: Sch. 4 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-5d562710602584e6818799e8db9f4e72]: Commencement: Sch. 4 para. 1 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3a58175a095db71c13697c3254ea9970]: Commencement: Sch. 4 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3a58175a095db71c13697c3254ea9970]: Commencement: Sch. 4 para. 2 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-76190061658661357652812f89310941]: Commencement: Sch. 4 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-76190061658661357652812f89310941]: Commencement: Sch. 4 para. 3 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0cdbe0927b4ec3310ecc513384bc0e2d]: Commencement: Sch. 4 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0cdbe0927b4ec3310ecc513384bc0e2d]: Commencement: Sch. 4 para. 4 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-98391116640c9b17f74a2e99b1667060]: Commencement: Sch. 4 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-98391116640c9b17f74a2e99b1667060]: Commencement: Sch. 4 para. 5 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-77ae406b2ed94a47f724a518597b673b]: Commencement: Sch. 4 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-77ae406b2ed94a47f724a518597b673b]: Commencement: Sch. 4 para. 6 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9466a2f32a1bcb4ff8b69ef1603b2169]: Commencement: Sch. 4 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9466a2f32a1bcb4ff8b69ef1603b2169]: Commencement: Sch. 4 para. 7 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-8c7994ebcfce0070322c3566de7b581f]: Commencement: Sch. 4 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8c7994ebcfce0070322c3566de7b581f]: Commencement: Sch. 4 para. 8 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-df4d6966478319f5a7b692530f02af65]: Commencement: Sch. 4 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-df4d6966478319f5a7b692530f02af65]: Commencement: Sch. 4 para. 9 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-836fc0ee16715b1b518a99e4c5118270]: Commencement: Sch. 4 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-836fc0ee16715b1b518a99e4c5118270]: Commencement: Sch. 4 para. 10 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-10b578c32d0b238911bfb14d0a52ecb8]: Commencement: Sch. 4 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-10b578c32d0b238911bfb14d0a52ecb8]: Commencement: Sch. 4 para. 11 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-4bb5f6ed01713fa5a2e45d0ffa1bf399]: Commencement: Sch. 4 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-4bb5f6ed01713fa5a2e45d0ffa1bf399]: Commencement: Sch. 4 para. 12 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e6fd18adeeb3cfc08084665cbd6f4ea0]: Commencement: Sch. 4 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e6fd18adeeb3cfc08084665cbd6f4ea0]: Commencement: Sch. 4 para. 13 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-48f95d9f526e362740d39e4d990658ae]: Commencement: Sch. 4 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-48f95d9f526e362740d39e4d990658ae]: Commencement: Sch. 4 para. 14 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-0e7f45634b3fcddc00b33f3c286a0cb4]: Commencement: Sch. 4 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0e7f45634b3fcddc00b33f3c286a0cb4]: Commencement: Sch. 4 para. 15 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b8c76899e41c11bc1abbc29949ad11be]: Commencement: Sch. 4 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-b8c76899e41c11bc1abbc29949ad11be]: Commencement: Sch. 4 para. 16 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-ed29ecdc1fe8025c4b2f529356379e55]: Commencement: Sch. 4 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ed29ecdc1fe8025c4b2f529356379e55]: Commencement: Sch. 4 para. 17 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

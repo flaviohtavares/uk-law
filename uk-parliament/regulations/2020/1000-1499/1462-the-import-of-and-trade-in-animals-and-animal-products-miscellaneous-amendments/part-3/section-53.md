@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Commission Regulation [(EC) No 798/2008](https://www.legislation.gov.uk/eur/2008/798) laying down a list of third countries, territories, zones or compartments from which poultry and poultry products may be imported into and transit through the Community and the veterinary certification requirements[^key-5215892acca565522c6cd831262e2a25]
+## 53. Commission Regulation [(EC) No 798/2008](https://www.legislation.gov.uk/eur/2008/798) laying down a list of third countries, territories, zones or compartments from which poultry and poultry products may be imported into and transit through the Community and the veterinary certification requirements[^c-5215892acca565522c6cd831262e2a25]
 
 *Extent: E+W+S+N.I.*
 
@@ -143,7 +143,7 @@ summary: ''
     > </tbody>
     > </table>
     >
-    > [^key-ea95725d055014cb26e396d903030d80]
+    > [^c-ea95725d055014cb26e396d903030d80]
 
     ;
   - (ii) in footnotes to the table—
@@ -209,6 +209,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5215892acca565522c6cd831262e2a25]: Commencement: Reg. 53 in force at 31.12.2020, see reg. 1(3)
+[^c-5215892acca565522c6cd831262e2a25]: Commencement: Reg. 53 in force at 31.12.2020, see reg. 1(3)
 
-[^key-ea95725d055014cb26e396d903030d80]: Textual amendment: Word in reg. 53(21)(a)(i) inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/11/2)
+[^c-ea95725d055014cb26e396d903030d80]: Textual amendment: Word in reg. 53(21)(a)(i) inserted (31.12.2020 immediately before IP completion day) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1631)](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/11/2)

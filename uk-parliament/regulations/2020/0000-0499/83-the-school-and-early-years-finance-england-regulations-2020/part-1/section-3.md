@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendments[^key-89c7a1a801861c02ce623f246b423e49]
+## 3. Amendments[^c-89c7a1a801861c02ce623f246b423e49]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89c7a1a801861c02ce623f246b423e49]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/83) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2022 (S.I. 2022/27)](https://www.legislation.gov.uk/uksi/2022/27), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/27/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/27/regulation/2)
+[^c-89c7a1a801861c02ce623f246b423e49]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/83) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2022 (S.I. 2022/27)](https://www.legislation.gov.uk/uksi/2022/27), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/27/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/27/regulation/2)

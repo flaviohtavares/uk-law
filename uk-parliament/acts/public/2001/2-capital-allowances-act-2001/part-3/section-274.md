@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274. Trades and undertakings which are “qualifying trades”[^key-9110db95a01c0c29a5bddba26486e553]
+## 274. Trades and undertakings which are “qualifying trades”[^c-9110db95a01c0c29a5bddba26486e553]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
   | 1\. | *Electricity* | An undertaking for the generation, transformation, conversion, transmission or distribution of electrical energy. |
   | 2\. | *Water* | An undertaking for the supply of water for public consumption. |
   | 3\. | *Hydraulic power* | An undertaking for the supply of hydraulic power. |
-  | 4\. | *Sewerage* | An undertaking for the provision of sewerage services within the meaning of the Water Industry Act 1991 (c. 56) or the Water and Sewerage Services (Northern Ireland) Order 2006 *(Extent: N.I.)*[^key-8b8e22e20e75b4fe42a5d97be819b774]. |
+  | 4\. | *Sewerage* | An undertaking for the provision of sewerage services within the meaning of the Water Industry Act 1991 (c. 56) or the Water and Sewerage Services (Northern Ireland) Order 2006 *(Extent: N.I.)*[^c-8b8e22e20e75b4fe42a5d97be819b774]. |
   | 5\. | *Transport* | A transport undertaking. |
   | 6\. | *Highway undertakings* | A highway undertaking, that is, so much of any undertaking relating to the design, building, financing and operation of roads as is carried on—<br>(a) for the purposes of, or<br>(b) in connection with,<br>the exploitation of highway concessions. |
   | 7\. | *Tunnels* | A tunnel undertaking. |
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
+[^c-9110db95a01c0c29a5bddba26486e553]: Textual amendment: Pt. 3 omitted (with effect in relation to chargeable periods beginning on or after 1.4.2011 for corporation tax purposes and 6.4.2011 for income tax purposes in accordance with ss. 84(1)(3)(4), 85, 86 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/84/2) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2008/9/schedule/27))
 
-[^key-8b8e22e20e75b4fe42a5d97be819b774]: Textual amendment: Words in s. 274(1) added (N.I.) (1.4.2007) by [The Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336)](https://www.legislation.gov.uk/nisi/2006/3336), [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [Sch. 12 para. 44](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/44) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/part/2) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
+[^c-8b8e22e20e75b4fe42a5d97be819b774]: Textual amendment: Words in s. 274(1) added (N.I.) (1.4.2007) by [The Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336)](https://www.legislation.gov.uk/nisi/2006/3336), [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [Sch. 12 para. 44](https://www.legislation.gov.uk/nisi/2006/3336/schedule/12/paragraph/44) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/part/2) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))

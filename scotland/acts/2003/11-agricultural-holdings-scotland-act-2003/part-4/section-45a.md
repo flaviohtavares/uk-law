@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45A. Amnesty under the Land Reform (Scotland) Act 2016[^key-4ef914e25ab60e297de963f54b729bef]
+## 45A. Amnesty under the Land Reform (Scotland) Act 2016[^c-4ef914e25ab60e297de963f54b729bef]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A tenant under a short limited duration tenancy, a limited duration tenancy or a
 
 ## Annotations
 
-[^key-4ef914e25ab60e297de963f54b729bef]: Textual amendment: S. 45A inserted (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 113(2)](https://www.legislation.gov.uk/asp/2016/18/section/113/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/20/regulation/4))
+[^c-4ef914e25ab60e297de963f54b729bef]: Textual amendment: S. 45A inserted (13.6.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 113(2)](https://www.legislation.gov.uk/asp/2016/18/section/113/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/20/regulation/4))

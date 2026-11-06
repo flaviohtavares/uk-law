@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Proceedings and steps[^key-5989819b0aa53616fe7350e74b19f987]
+## 54. Proceedings and steps[^c-5989819b0aa53616fe7350e74b19f987]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5989819b0aa53616fe7350e74b19f987]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/asp/2014/16/part/4) repealed (24.4.2017) by [The Tribunals (Scotland) Act 2014 (Ancillary Provisions) Regulations 2017 (S.S.I. 2017/108)](https://www.legislation.gov.uk/ssi/2017/108), [regs. 1](https://www.legislation.gov.uk/ssi/2017/108/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2017/108/regulation/2/1)
+[^c-5989819b0aa53616fe7350e74b19f987]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/asp/2014/16/part/4) repealed (24.4.2017) by [The Tribunals (Scotland) Act 2014 (Ancillary Provisions) Regulations 2017 (S.S.I. 2017/108)](https://www.legislation.gov.uk/ssi/2017/108), [regs. 1](https://www.legislation.gov.uk/ssi/2017/108/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2017/108/regulation/2/1)

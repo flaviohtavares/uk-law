@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 168. The board’s report[^key-96009524b65881b22c5569293d404987]
+## 168. The board’s report[^c-96009524b65881b22c5569293d404987]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96009524b65881b22c5569293d404987]: Commencement: Reg. 168 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-96009524b65881b22c5569293d404987]: Commencement: Reg. 168 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

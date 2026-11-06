@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. For protection of Network Rail Infrastructure Limited[^key-a6d2bf1bff31ef5cbe151574cde55b06]
+## 40. For protection of Network Rail Infrastructure Limited[^c-a6d2bf1bff31ef5cbe151574cde55b06]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 10 to this Order shall have effect.
 
 ## Annotations
 
-[^key-a6d2bf1bff31ef5cbe151574cde55b06]: Commencement: Art. 40 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-a6d2bf1bff31ef5cbe151574cde55b06]: Commencement: Art. 40 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 101. Treatment of gross receipts of participants in the self-employment route[^key-a41094a7ad32f30dbd7df370a1ee65ea]
+## 101. Treatment of gross receipts of participants in the self-employment route[^c-a41094a7ad32f30dbd7df370a1ee65ea]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The gross receipts of a commercial activity carried on by a claimant in respect 
 
 ## Annotations
 
-[^key-a41094a7ad32f30dbd7df370a1ee65ea]: Commencement: [Reg. 101](https://www.legislation.gov.uk/nisr/2008/280/regulation/101) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-a41094a7ad32f30dbd7df370a1ee65ea]: Commencement: [Reg. 101](https://www.legislation.gov.uk/nisr/2008/280/regulation/101) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

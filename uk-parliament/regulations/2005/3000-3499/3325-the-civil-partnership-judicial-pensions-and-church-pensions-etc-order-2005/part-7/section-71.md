@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**71.**[^key-4de9c9baf1e9591a3c13924e233ff627] In section 6 (grant and payment of a children’s pension), for subsection (7) substitute—
+**71.**[^c-4de9c9baf1e9591a3c13924e233ff627] In section 6 (grant and payment of a children’s pension), for subsection (7) substitute—
 
 > (7) In this section, “step-children of the deceased” means—
 >
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4de9c9baf1e9591a3c13924e233ff627]: Commencement: Art. 71 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-4de9c9baf1e9591a3c13924e233ff627]: Commencement: Art. 71 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

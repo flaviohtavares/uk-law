@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Amendment of the Pension Schemes Act (Northern Ireland) 2021[^key-31b6d29b484db2faf900e34bb6a587b5]
+## 62. Amendment of the Pension Schemes Act (Northern Ireland) 2021[^c-31b6d29b484db2faf900e34bb6a587b5]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-31b6d29b484db2faf900e34bb6a587b5]: Commencement: Reg. 62 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-31b6d29b484db2faf900e34bb6a587b5]: Commencement: Reg. 62 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00079]: Footnote: [2021 c. 6 (N.I.)](https://www.legislation.gov.uk/nia/2021/6)

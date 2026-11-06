@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Old system students[^key-ef2354d71581070209c149a7f5409d1d]
+## 37. Old system students[^c-ef2354d71581070209c149a7f5409d1d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef2354d71581070209c149a7f5409d1d]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2011/1986/regulation/37) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/6/a)
+[^c-ef2354d71581070209c149a7f5409d1d]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/uksi/2011/1986/regulation/37) omitted (26.11.2020) by virtue of [The Education (Student Fees, Awards and Support etc.) (Amendment) (No. 3) Regulations 2020 (S.I. 2020/1203)](https://www.legislation.gov.uk/uksi/2020/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1203/regulation/3/6/a)

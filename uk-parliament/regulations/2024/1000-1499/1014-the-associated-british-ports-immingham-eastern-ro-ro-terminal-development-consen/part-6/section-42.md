@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Byelaws relating to the authorised development[^key-4f7c57b5e99785c17a88e7f9d58ca2d5]
+## 42. Byelaws relating to the authorised development[^c-4f7c57b5e99785c17a88e7f9d58ca2d5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f7c57b5e99785c17a88e7f9d58ca2d5]: Commencement: Art. 42 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-4f7c57b5e99785c17a88e7f9d58ca2d5]: Commencement: Art. 42 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

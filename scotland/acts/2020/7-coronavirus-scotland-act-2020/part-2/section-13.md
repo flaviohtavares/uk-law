@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-91db375ba10a63a2ecf4ab65e748a714] The Scottish Ministers may by regulations provide that any provision of Part 1—
+(1)[^c-91db375ba10a63a2ecf4ab65e748a714] The Scottish Ministers may by regulations provide that any provision of Part 1—
 
 - (a) does not expire at the time when it would otherwise expire (whether by virtue of section 12 or previous regulations under this section), and
 - (b) expires instead at such earlier time as is specified in the regulations.
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91db375ba10a63a2ecf4ab65e748a714]: Modification: [S. 13(1)](https://www.legislation.gov.uk/asp/2020/7/section/13/1) modified (5.8.2021) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(9)](https://www.legislation.gov.uk/asp/2021/19/section/2/9), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2)
+[^c-91db375ba10a63a2ecf4ab65e748a714]: Modification: [S. 13(1)](https://www.legislation.gov.uk/asp/2020/7/section/13/1) modified (5.8.2021) by [Coronavirus (Extension and Expiry) (Scotland) Act 2021 (asp 19)](https://www.legislation.gov.uk/asp/2021/19), [ss. 2(9)](https://www.legislation.gov.uk/asp/2021/19/section/2/9), [11(2)](https://www.legislation.gov.uk/asp/2021/19/section/11/2)

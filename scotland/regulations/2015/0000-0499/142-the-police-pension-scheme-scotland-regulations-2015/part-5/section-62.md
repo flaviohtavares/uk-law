@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Establishment of pension credit member’s account[^key-2822558bda2578da6e2e29574c445fd1]
+## 62. Establishment of pension credit member’s account[^c-2822558bda2578da6e2e29574c445fd1]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2822558bda2578da6e2e29574c445fd1]: Commencement: Reg. 62 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2822558bda2578da6e2e29574c445fd1]: Commencement: Reg. 62 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00042]: Footnote: Part 4A was inserted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) section 37.

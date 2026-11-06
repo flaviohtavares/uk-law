@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4.1. Process for consultation and obtaining advice - outline[^key-b73abe952f627b235fcb14caa18f9263]
+## 4.1. Process for consultation and obtaining advice - outline[^c-b73abe952f627b235fcb14caa18f9263]
 
 *Extent: E*
 
@@ -33,12 +33,12 @@ summary: ''
   - (ii) the reservation of a grave space;
 - (b) proceedings are sufficiently urgent to justify the grant of a faculty, the issue of an injunction or the making of a restoration order without carrying out consultation under this Part; or
 
-(2A)[^key-1dfdef6e07f959a23411a6367fb0b7aa] The requirements under this Part to consult certain specified bodies do not prevent an intending applicant from consulting any other body or person.
+(2A)[^c-1dfdef6e07f959a23411a6367fb0b7aa] The requirements under this Part to consult certain specified bodies do not prevent an intending applicant from consulting any other body or person.
 
 (3) This part does not apply where works or other proposals relate only to matters which may be undertaken without a faculty in accordance with Part 3 and Schedule 1 (Lists A and B).
 
 ## Annotations
 
-[^key-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))
+[^c-b73abe952f627b235fcb14caa18f9263]: Textual amendment: Pt. 4 substituted (1.4.2020) by [The Faculty Jurisdiction (Amendment) Rules 2019 (S.I. 2019/1184)](https://www.legislation.gov.uk/uksi/2019/1184), [rules 1(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/1/2), [6](https://www.legislation.gov.uk/uksi/2019/1184/rule/6) (with [rule 23(2)](https://www.legislation.gov.uk/uksi/2019/1184/rule/23/2))
 
-[^key-1dfdef6e07f959a23411a6367fb0b7aa]: Textual amendment: [Rule 4.1(2A)](https://www.legislation.gov.uk/uksi/2015/1568/rule/4.1/2A) inserted (1.7.2022) by [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2022/155/rule/3/1)
+[^c-1dfdef6e07f959a23411a6367fb0b7aa]: Textual amendment: [Rule 4.1(2A)](https://www.legislation.gov.uk/uksi/2015/1568/rule/4.1/2A) inserted (1.7.2022) by [The Faculty Jurisdiction (Amendment) Rules 2022 (S.I. 2022/155)](https://www.legislation.gov.uk/uksi/2022/155), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/155/rule/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2022/155/rule/3/1)

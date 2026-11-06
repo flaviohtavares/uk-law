@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Landlord’s applications: power for Executive to obtain information from pension fund holders[^key-180df31f862f38783ce10221a1d2c922]
+## 4. Landlord’s applications: power for Executive to obtain information from pension fund holders[^c-180df31f862f38783ce10221a1d2c922]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In the case of any application to which Article 62 of the Order (determination o
 
 ## Annotations
 
-[^key-180df31f862f38783ce10221a1d2c922]: Commencement: Reg. 4 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-180df31f862f38783ce10221a1d2c922]: Commencement: Reg. 4 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

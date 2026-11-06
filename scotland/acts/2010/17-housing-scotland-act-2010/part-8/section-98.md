@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Voluntary winding up of society[^key-4d28908cc3ef9eaffb0413b83d39970d][^M_F_95e8a381-f67a-4279-84ef-b8947a56c927]
+## 98. Voluntary winding up of society[^c-4d28908cc3ef9eaffb0413b83d39970d][^M_F_95e8a381-f67a-4279-84ef-b8947a56c927]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d28908cc3ef9eaffb0413b83d39970d]: Commencement: S. 98 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-4d28908cc3ef9eaffb0413b83d39970d]: Commencement: S. 98 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
 [^M_F_95e8a381-f67a-4279-84ef-b8947a56c927]: Textual amendment: S. 98 substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(5)](https://www.legislation.gov.uk/asp/2018/13/section/6/5), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/253/regulation/8))

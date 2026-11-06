@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 84. Fees Advisory Commission: continuation and membership[^key-525d67014c492547563762853feff070]
+## 84. Fees Advisory Commission: continuation and membership[^c-525d67014c492547563762853feff070]
 
 *Extent: E*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) The members of the Commission are—
 
-- (a)[^key-75e2370cf48c353e783ce6d0e2d45233] one person who is a diocesan or suffragan bishop nominated by the House of Bishops (regardless of whether that person is a member of that House);
+- (a)[^c-75e2370cf48c353e783ce6d0e2d45233] one person who is a diocesan or suffragan bishop nominated by the House of Bishops (regardless of whether that person is a member of that House);
 - (b) one person who is a Church Commissioner or an officer of the Church Commissioners nominated by them;
 - (c) one person who is the chair of a diocesan board of finance nominated by representatives of dioceses (see subsection (4));
 - (d) one person who is the registrar of a diocese nominated by the Ecclesiastical Law Association (see subsection (5));
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-525d67014c492547563762853feff070]: Commencement: S. 84 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-525d67014c492547563762853feff070]: Commencement: S. 84 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-75e2370cf48c353e783ce6d0e2d45233]: Textual amendment: [S. 84(2)(a)](https://www.legislation.gov.uk/ukcm/2018/3/section/84/2/a) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/3), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/g)
+[^c-75e2370cf48c353e783ce6d0e2d45233]: Textual amendment: [S. 84(2)(a)](https://www.legislation.gov.uk/ukcm/2018/3/section/84/2/a) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 8(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/8/3), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(g)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/g)

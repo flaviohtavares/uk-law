@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Politically restricted posts[^key-a040c74dc3c9b1bc4f22719a7f2bc167]
+## 30. Politically restricted posts[^c-a040c74dc3c9b1bc4f22719a7f2bc167]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a040c74dc3c9b1bc4f22719a7f2bc167]: Commencement: S. 30 in force at 12.1.2010, see s. 148(1)(d)
+[^c-a040c74dc3c9b1bc4f22719a7f2bc167]: Commencement: S. 30 in force at 12.1.2010, see s. 148(1)(d)

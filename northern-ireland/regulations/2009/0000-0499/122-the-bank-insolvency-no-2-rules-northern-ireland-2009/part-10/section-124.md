@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Termination of membership[^key-fc019fba78bc7f37059b72d90817a9a9]
+## 124. Termination of membership[^c-fc019fba78bc7f37059b72d90817a9a9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.169 of the 1991 Rules.
 
 ## Annotations
 
-[^key-fc019fba78bc7f37059b72d90817a9a9]: Commencement: Rule 124 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-fc019fba78bc7f37059b72d90817a9a9]: Commencement: Rule 124 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

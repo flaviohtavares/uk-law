@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Annual reports[^key-a65f415d31fa11538b80e86cfa3f1a20][^key-4dfe4c658c791d1b601fd973c7018ee5]
+## 53. Annual reports[^c-a65f415d31fa11538b80e86cfa3f1a20][^c-4dfe4c658c791d1b601fd973c7018ee5]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a65f415d31fa11538b80e86cfa3f1a20]: Commencement: S. 53 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-a65f415d31fa11538b80e86cfa3f1a20]: Commencement: S. 53 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-4dfe4c658c791d1b601fd973c7018ee5]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/41/section/53) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-4dfe4c658c791d1b601fd973c7018ee5]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/41/section/53) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(aa)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/aa) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

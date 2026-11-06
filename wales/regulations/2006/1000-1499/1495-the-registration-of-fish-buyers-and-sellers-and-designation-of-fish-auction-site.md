@@ -41,26 +41,26 @@ Coming into force
 
 The National Assembly for Wales, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community and in exercise of the powers conferred upon it by the said section 2(2) hereby makes the following Regulations:
 
-## 1. Title, commencement and application[^key-a2cbf03b13791103f0f87beea6f4ef0c]
+## 1. Title, commencement and application[^c-a2cbf03b13791103f0f87beea6f4ef0c]
 
 (1) The title of these Regulations is the Registration of Fish Buyers and Sellers and Designation of Fish Auction Sites (Wales) Regulations 2006.
 
-(2) These Regulations, which apply in relation to Wales and the Welsh zone[^key-a2e45afb8dfccb199d0e323abf44ee03], come into force on 9 June 2006.
+(2) These Regulations, which apply in relation to Wales and the Welsh zone[^c-a2e45afb8dfccb199d0e323abf44ee03], come into force on 9 June 2006.
 
 (3) Proceedings for an offence under these Regulations may be taken, and for all incidental purposes the offence may be treated as having been committed, in any place in the United Kingdom.
 
-## 2. Interpretation[^key-f7ded2f834485942c83d492beb94efb0]
+## 2. Interpretation[^c-f7ded2f834485942c83d492beb94efb0]
 
 (1) In these Regulations–
 
-- [^key-0741985ed25dba5e4bc45617cbf4febd]...
-- [^key-c70e1bb7a203c54d83074a0718fedfc6]...
-- “the Control Regulation” (“y Rheoliad Rheolaeth”) means Council Regulation (EC) No. 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, as amended from time to time;[^key-61a34bec56b44df69e761afebbb7870e]
+- [^c-0741985ed25dba5e4bc45617cbf4febd]...
+- [^c-c70e1bb7a203c54d83074a0718fedfc6]...
+- “the Control Regulation” (“y Rheoliad Rheolaeth”) means Council Regulation (EC) No. 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, as amended from time to time;[^c-61a34bec56b44df69e761afebbb7870e]
 - “document” (“dogfen”) includes information recorded in any form;
-- “equivalent provisions” (“darpariaethau cywerth”) means any provision in any other regulations made under section 2(2) of the European Communities Act 1972 for the purposes of implementing Chapter[^key-c8d3bf6fcaf8db86c095a923715499c2] II of Title V, extending to any part of the United Kingdom, which has equivalent effect to any provision in these Regulations;
+- “equivalent provisions” (“darpariaethau cywerth”) means any provision in any other regulations made under section 2(2) of the European Communities Act 1972 for the purposes of implementing Chapter[^c-c8d3bf6fcaf8db86c095a923715499c2] II of Title V, extending to any part of the United Kingdom, which has equivalent effect to any provision in these Regulations;
 - “first sale fish” (“pysgod gwerthiant cyntaf”) means fish being marketed for the first time;
-- “fish” (“pysgod”) means fishery products landed from a fishing vessel to which the Control Regulation[^key-5adf043ac15845ffb71821e0501eb87e] applies;
-- “licensed fishing vessel” (“cwch pysgota trwyddedig”) means a fishing vessel in respect of which a licence has been issued under section 4 of the Sea Fish (Conservation) Act 1967[^f00006] or under similar fisheries related provisions [^key-352b4f2b5c5efc6736d637bab95eb57b]... by the appropriate authorities in the Channel Islands, Isle of Man or another country;
+- “fish” (“pysgod”) means fishery products landed from a fishing vessel to which the Control Regulation[^c-5adf043ac15845ffb71821e0501eb87e] applies;
+- “licensed fishing vessel” (“cwch pysgota trwyddedig”) means a fishing vessel in respect of which a licence has been issued under section 4 of the Sea Fish (Conservation) Act 1967[^f00006] or under similar fisheries related provisions [^c-352b4f2b5c5efc6736d637bab95eb57b]... by the appropriate authorities in the Channel Islands, Isle of Man or another country;
 - “National Assembly” (“Cynulliad Cenedlaethol”) means the National Assembly for Wales;
 - “PLN” (“PLN”) means a vessel’s port number within the meaning of regulation 31 of the Merchant Shipping (Registration of Ships) Regulations 1993[^f00007];
 - “registered fish buyer” (“prynwr pysgod cofrestredig”) means a person who is registered by the National Assembly in accordance with regulation 7; and
@@ -73,19 +73,19 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 - (a) an agent who sells fish on behalf of the seller; and,
 - (b) an auction trader.
 
-(3)[^key-e71f3bc2415d48339a9f5a50a2640303] Terms used in these Regulations which are not defined in paragraph (1) or (2) and which appear in the Control Regulation have the same meaning in these Regulations as they have for the purposes of the Control Regulation.
+(3)[^c-e71f3bc2415d48339a9f5a50a2640303] Terms used in these Regulations which are not defined in paragraph (1) or (2) and which appear in the Control Regulation have the same meaning in these Regulations as they have for the purposes of the Control Regulation.
 
 (4) In these Regulations, a reference to an Article means an Article of the Control Regulation, and a reference to Chapter II of Title V means Chapter II of Title V of the Control Regulation.
 
-## 3. Registration of fish sellers[^key-65d8a9cc3433c9825fb8d05d1883e21e]
+## 3. Registration of fish sellers[^c-65d8a9cc3433c9825fb8d05d1883e21e]
 
-(1) A registered fish seller is authorised for the purposes of Chapter[^key-81c7fdce0947a3fe63d43861bc6555b5] II of Title V (Control of marketing : post-landing activities), insofar as that person sells first sale fish by any form of competitive bidding at a designated auction site either on their own behalf or as the seller’s agent.
+(1) A registered fish seller is authorised for the purposes of Chapter[^c-81c7fdce0947a3fe63d43861bc6555b5] II of Title V (Control of marketing : post-landing activities), insofar as that person sells first sale fish by any form of competitive bidding at a designated auction site either on their own behalf or as the seller’s agent.
 
 (2) Any person may apply, using such form as the National Assembly may prescribe, to the National Assembly to be registered as a fish seller.
 
 (3) An applicant for registration as a fish seller must include with the application a statement of the facilities and the proposed methods of operation the applicant intends to use and of the place where the applicant intends to maintain the records of sales of first sale fish.
 
-(4) In considering an application for registration the National Assembly must take into account whether the statement as to the facilities and proposed methods of operation of the applicant, and of the place where the applicant intends to maintain the records of sales of first sale fish, are such as to assist compliance by the applicant with Articles 59, 62, 63, 64, 66 and 67[^key-28270c6605998536dea3c7fbb992590b] and these Regulations.
+(4) In considering an application for registration the National Assembly must take into account whether the statement as to the facilities and proposed methods of operation of the applicant, and of the place where the applicant intends to maintain the records of sales of first sale fish, are such as to assist compliance by the applicant with Articles 59, 62, 63, 64, 66 and 67[^c-28270c6605998536dea3c7fbb992590b] and these Regulations.
 
 (5) The National Assembly must notify an applicant in writing of its decision on an application made to it in accordance with this regulation.
 
@@ -96,13 +96,13 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 (8) The registration of a fish seller may be suspended where, in the view of the National Assembly, the registered fish seller has not–
 
 - (a) complied with a condition of registration; or,
-- (b) complied with any requirement of Articles 59, 62, 63, 64, 66 or 67[^key-c717410523247c8a0cad74421137afd3] or these Regulations.
+- (b) complied with any requirement of Articles 59, 62, 63, 64, 66 or 67[^c-c717410523247c8a0cad74421137afd3] or these Regulations.
 
 (9) Any person who knowingly or recklessly makes a false statement for the purposes of an application under this regulation is guilty of an offence.
 
 (10) Any registered fish seller who sells first sale fish in breach of a condition of registration is guilty of an offence.
 
-## 4. Sale of fish by unregistered seller[^key-8dd78488d9eb1316f357e9d6081d8be8]
+## 4. Sale of fish by unregistered seller[^c-8dd78488d9eb1316f357e9d6081d8be8]
 
 Any person who–
 
@@ -111,7 +111,7 @@ Any person who–
 
 is guilty of an offence.
 
-## 5. Maintenance of records by registered fish seller[^key-9e81bc0f1520fe6b7571d851ab766d6d]
+## 5. Maintenance of records by registered fish seller[^c-9e81bc0f1520fe6b7571d851ab766d6d]
 
 (1) A registered fish seller must maintain records, of each sale of first sale fish that the registered fish seller makes, at the place notified to the National Assembly in accordance with these Regulations.
 
@@ -124,7 +124,7 @@ is guilty of an offence.
 - (e) name, address and, where available, registration number of the buyer;
 - (f) reference number of the invoice or contract of sale.
 
-(3) A registered fish seller must keep the records of each sale as required by this regulation for 3 years[^key-c8806e1eb5779e4860fd6cfb24af631a].
+(3) A registered fish seller must keep the records of each sale as required by this regulation for 3 years[^c-c8806e1eb5779e4860fd6cfb24af631a].
 
 (4) A registered fish seller must make available for inspection at all reasonable times the records of sale of fish at the place notified to the National Assembly.
 
@@ -139,13 +139,13 @@ is guilty of an offence.
 
 (7) A registered fish seller who fails to keep or make available the records as required by this regulation is guilty of an offence.
 
-## 6. Designation of fish auction sites[^key-68bfa1a407be210fe9ead0f8a881a7c4]
+## 6. Designation of fish auction sites[^c-68bfa1a407be210fe9ead0f8a881a7c4]
 
-(1) Any person may apply to the National Assembly, using such form as it may prescribe, to have a place designated for the purposes of Chapter[^key-64c0abb467dac7188c3e97b800474d30] II of Title V as a fish auction site.
+(1) Any person may apply to the National Assembly, using such form as it may prescribe, to have a place designated for the purposes of Chapter[^c-64c0abb467dac7188c3e97b800474d30] II of Title V as a fish auction site.
 
 (2) An application for designation under this regulation must include a statement as to the facilities and proposed methods of operation which will be used at the site.
 
-(3) In considering an application for designation under this regulation the National Assembly will take into account whether the statement as to the facilities and proposed methods of operation at the site are such as to assist compliance with Chapter[^key-c39d38efb3d7a170bb1cafea26d4524f] II of Title V and these Regulations.
+(3) In considering an application for designation under this regulation the National Assembly will take into account whether the statement as to the facilities and proposed methods of operation at the site are such as to assist compliance with Chapter[^c-c39d38efb3d7a170bb1cafea26d4524f] II of Title V and these Regulations.
 
 (4) The National Assembly must notify the applicant in writing of its decision on an application for designation made in accordance with this regulation.
 
@@ -156,7 +156,7 @@ is guilty of an offence.
 (7) The designation of a fish auction site may be suspended where in the view of the National Assembly–
 
 - (a) a condition subject to which the designation was granted has not been complied with; or
-- (b) the methods of operation and facilities at the site do not comply with the requirements of Chapter[^key-d2fb4a5012d58d25bb82bce152ba7995] II of Title V or these Regulations.
+- (b) the methods of operation and facilities at the site do not comply with the requirements of Chapter[^c-d2fb4a5012d58d25bb82bce152ba7995] II of Title V or these Regulations.
 
 (8) Any person who knowingly or recklessly makes a false statement for the purposes of this regulation is guilty of an offence.
 
@@ -166,13 +166,13 @@ is guilty of an offence.
 
 - “person who has control of a designated fish auction site” includes, in relation to a designated fish auction site or any part of such a site, the owner of the site or that part, or the owner’s agent, or any person who exercises any control over or is in possession of the site or that part.
 
-## 7. Registration of fish buyers[^key-8c4feef2885e38e6da22db38543b87d9]
+## 7. Registration of fish buyers[^c-8c4feef2885e38e6da22db38543b87d9]
 
-(1) For the purposes of Article 59[^key-88c311ca15e5524cbdeb173693627a4f] any person may apply to the National Assembly to be registered as a fish buyer, using such form as the National Assembly may prescribe.
+(1) For the purposes of Article 59[^c-88c311ca15e5524cbdeb173693627a4f] any person may apply to the National Assembly to be registered as a fish buyer, using such form as the National Assembly may prescribe.
 
 (2) An application for registration as a fish buyer must include a statement of the facilities and the proposed methods of operation the applicant intends to use and of the place where the applicant intends to maintain the records of purchases of first sale fish.
 
-(3) In considering an application the National Assembly must take into account whether the statement as to the proposed methods of operation of the applicant, and of the place where the applicant intends to maintain the records of purchases of first sale fish, are such as to assist compliance by the applicant with Articles 62, 63, 64, 66 and 67[^key-39b93ea99142c0dcdff83de1826d92a6] and these Regulations.
+(3) In considering an application the National Assembly must take into account whether the statement as to the proposed methods of operation of the applicant, and of the place where the applicant intends to maintain the records of purchases of first sale fish, are such as to assist compliance by the applicant with Articles 62, 63, 64, 66 and 67[^c-39b93ea99142c0dcdff83de1826d92a6] and these Regulations.
 
 (4) The National Assembly must notify an applicant in writing of its decision on an application made to it in accordance with this regulation.
 
@@ -183,17 +183,17 @@ is guilty of an offence.
 (7) The registration of a fish buyer may be suspended where, in the view of the National Assembly, the registered fish buyer has not–
 
 - (a) complied with a condition of registration; or,
-- (b) conducted business in a manner that complies with the requirements of Articles 62, 63, 64, 66 or 67[^key-94f0443655ae994793307596aaa46cd8] or these Regulations.
+- (b) conducted business in a manner that complies with the requirements of Articles 62, 63, 64, 66 or 67[^c-94f0443655ae994793307596aaa46cd8] or these Regulations.
 
 (8) Any person who knowingly or recklessly makes a false statement for the purposes of an application under this regulation is guilty of an offence.
 
 (9) Any registered fish buyer who fails to comply with a condition of registration is guilty of an offence.
 
-## 8. Purchase of fish by an unregistered buyer[^key-cf0fea45592d23e1af4639b1ff1ac280]
+## 8. Purchase of fish by an unregistered buyer[^c-cf0fea45592d23e1af4639b1ff1ac280]
 
 Any person who buys fish contrary to Article 59(2) is guilty of an offence, unless the exemption in Article 59(3) applies.
 
-## 9. Maintenance of records by registered fish buyer[^key-602f37c81bdcd7255580f718374a9bf8]
+## 9. Maintenance of records by registered fish buyer[^c-602f37c81bdcd7255580f718374a9bf8]
 
 (1) A registered fish buyer must maintain and make available for inspection records of every purchase of first sale fish that the buyer makes.
 
@@ -206,7 +206,7 @@ Any person who buys fish contrary to Article 59(2) is guilty of an offence, unle
 - (e) name, address, and where available, the registration number of the seller;
 - (f) reference number of the invoice or contract of sale.
 
-(3) A registered fish buyer must keep the records of each purchase, as required by this regulation, and at the place notified to the National Assembly , for 3 years[^key-c8b6c1ed768a3f5b4302ec421d86775d].
+(3) A registered fish buyer must keep the records of each purchase, as required by this regulation, and at the place notified to the National Assembly , for 3 years[^c-c8b6c1ed768a3f5b4302ec421d86775d].
 
 (4) A registered fish buyer must make available for inspection at all reasonable times the records of purchases of fish at the place notified to the National Assembly.
 
@@ -221,11 +221,11 @@ Any person who buys fish contrary to Article 59(2) is guilty of an offence, unle
 
 (7) A registered fish buyer who fails to keep or make available the records as required by this Regulation is guilty of an offence.
 
-## 10. Sale of first sale fish landed from a licensed fishing vessel[^key-ea9b5882577f0c032e876f72dbffe2b2]
+## 10. Sale of first sale fish landed from a licensed fishing vessel[^c-ea9b5882577f0c032e876f72dbffe2b2]
 
 Any person who sells first sale fish which has been landed in Wales otherwise than by a licensed fishing vessel is guilty of an offence.
 
-## 11. Purchase of first sale fish landed from a licensed fishing vessel[^key-f43fe693ded224f27bb8977a045538e9]
+## 11. Purchase of first sale fish landed from a licensed fishing vessel[^c-f43fe693ded224f27bb8977a045538e9]
 
 (1) Any person who buys first sale fish which has been landed otherwise than by a licensed fishing vessel is guilty of an offence.
 
@@ -236,7 +236,7 @@ Any person who sells first sale fish which has been landed in Wales otherwise th
 
 that the fish had not been landed by a licensed fishing vessel.
 
-## 12. Penalties[^key-b0c13307b7567ebab9b41acf556ff9e1]
+## 12. Penalties[^c-b0c13307b7567ebab9b41acf556ff9e1]
 
 (1) A person convicted of an offence under these Regulations is liable–
 
@@ -249,9 +249,9 @@ that the fish had not been landed by a licensed fishing vessel.
 - (b) in relation to an offence under regulation 6(8) or 6(9), order that the designation of the site be revoked or order that the person convicted be disqualified from applying to have a site designated under regulation 6 or be disqualified from applying to have a site designated under that regulation for a specified period; and
 - (c) in relation to an offence under regulations 7(8), 7(9) or 9(7), order that the registration of the person convicted is revoked and that that person be disqualified from applying for registration under regulation 7 or be disqualified from applying for registration under that regulation for a specified period.
 
-## 13. Powers of British sea-fishery officers in relation to fishing boats[^key-bf55f313c1efee4864f7c31e915b954a]
+## 13. Powers of British sea-fishery officers in relation to fishing boats[^c-bf55f313c1efee4864f7c31e915b954a]
 
-(1) For the purpose of enforcing these Regulations or any equivalent provisions, any British sea-fishery officer may exercise the powers conferred by this article in relation to any fishing boat within Wales and the Welsh zone[^key-f37cb7310f7568461b8672c1d1cc397e].
+(1) For the purpose of enforcing these Regulations or any equivalent provisions, any British sea-fishery officer may exercise the powers conferred by this article in relation to any fishing boat within Wales and the Welsh zone[^c-f37cb7310f7568461b8672c1d1cc397e].
 
 (2) The officer may go on board the boat, with or without persons assigned to assist in that officer’s duties, and may require the boat to stop and do anything else which will facilitate either the boarding of, or the disembarkation from, the boat.
 
@@ -273,7 +273,7 @@ but nothing in sub-paragraph (f) above permits any document required by law to b
 
 and where such an officer detains or requires the detention of a boat the officer must serve on the master a notice in writing stating that the boat will be or is required to be detained until the notice is withdrawn by the service on the master of a further notice in writing signed by a British sea-fishery officer.
 
-## 14. Powers of British sea-fishery officers on land[^key-f7785a6aec7371f1371aab2d18dcf228]
+## 14. Powers of British sea-fishery officers on land[^c-f7785a6aec7371f1371aab2d18dcf228]
 
 (1) For the purpose of enforcing these Regulations or any equivalent provisions, any British sea-fishery officer may in Wales–
 
@@ -299,15 +299,15 @@ and where such an officer detains or requires the detention of a boat the office
 
   the justice may by warrant signed by him or her, and valid for one month, authorise a British sea-fishery officer to enter the premises, if need be by reasonable force, and take with the officer such persons as appear to the officer to be necessary.
 
-## 15. Powers of British sea-fishery officers to seize fish[^key-0f544f06714912c84242960ba64fe428]
+## 15. Powers of British sea-fishery officers to seize fish[^c-0f544f06714912c84242960ba64fe428]
 
 Any British sea-fishery officer may seize any fish (including any receptacle which contains the fish) in respect of which the officer has reasonable grounds to suspect that an offence under these Regulations or under any equivalent provision has been committed.
 
-## 16. Protection of officers[^key-b87f0362eab4b71833516ffa739246e6]
+## 16. Protection of officers[^c-b87f0362eab4b71833516ffa739246e6]
 
 A British sea-fishery officer or a person assisting such an officer by virtue of regulations 13(2) or 14(1)(b) or authorisation under regulation 14(3) of these Regulations will not be liable in any civil or criminal proceedings for anything done in the purported exercise of the powers conferred on that person by regulations 13 to 15 of these Regulations if the court is satisfied that the act was done in good faith, that there were reasonable grounds for doing it and that it was done with reasonable skill and care.
 
-## 17. Obstruction of officers[^key-00f8349465e51f301b735a098b63cb80]
+## 17. Obstruction of officers[^c-00f8349465e51f301b735a098b63cb80]
 
 (1) Any person who–
 
@@ -322,7 +322,7 @@ is guilty of an offence.
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
-## 18. Offences by bodies corporate[^key-c0c3e718bf49a4f83c300f1227f30f40]
+## 18. Offences by bodies corporate[^c-c0c3e718bf49a4f83c300f1227f30f40]
 
 (1) Where any offence under these Regulations or any equivalent provision committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of a director, manager, secretary or other similar officer of the body corporate, or a person purporting to act in any such capacity, that person as well as the body corporate is guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -340,25 +340,25 @@ The Presiding Officer of the National Assembly
 
 Article 3
 
-**1.**[^key-d40b3af0b4253747295e5075eb0e4fae] The National Assembly must be informed of any changes to the information contained in the application for registration within 28 days of the change occurring.
+**1.**[^c-d40b3af0b4253747295e5075eb0e4fae] The National Assembly must be informed of any changes to the information contained in the application for registration within 28 days of the change occurring.
 
-**2.**[^key-bd3364e82d6372e08b212259dcb25074] Sales notes must be submitted in accordance with the provisions of Articles 62 to 64[^key-8baf9a259ff65cf2e5ff499c284afdac].
+**2.**[^c-bd3364e82d6372e08b212259dcb25074] Sales notes must be submitted in accordance with the provisions of Articles 62 to 64[^c-8baf9a259ff65cf2e5ff499c284afdac].
 
 ## SCHEDULE 2 — Conditions applicable to designations of auction sites
 
 Article 6
 
-**1.**[^key-1c7da4b4323fdc506c049718c02c70ca] Auctions must be conducted only at the times notified to the National Assembly, subject to any variation notified to and approved by a local British sea fisheries officer.
+**1.**[^c-1c7da4b4323fdc506c049718c02c70ca] Auctions must be conducted only at the times notified to the National Assembly, subject to any variation notified to and approved by a local British sea fisheries officer.
 
-**2.**[^key-985ac13de8a4b781a90f749d8dd5e8e0] The National Assembly must be informed of any changes to the information contained in the application for designation within 28 days of the change occurring.
+**2.**[^c-985ac13de8a4b781a90f749d8dd5e8e0] The National Assembly must be informed of any changes to the information contained in the application for designation within 28 days of the change occurring.
 
 ## SCHEDULE 3 — Conditions applicable to registrations of fish buyers
 
 Article 7
 
-**1.**[^key-7338781d29f8268fc16ab052bd17f981] The National Assembly must be informed of any changes to the information contained in the application for registration within 28 days of the change occurring.
+**1.**[^c-7338781d29f8268fc16ab052bd17f981] The National Assembly must be informed of any changes to the information contained in the application for registration within 28 days of the change occurring.
 
-**2.**[^key-9adf161e1e8965f9d138d89d190ffc20] Sales notes must be submitted in accordance with Articles 62 to 64[^key-e17d9f66ac166cd88a1287354e10f841].
+**2.**[^c-9adf161e1e8965f9d138d89d190ffc20] Sales notes must be submitted in accordance with Articles 62 to 64[^c-e17d9f66ac166cd88a1287354e10f841].
 
 (This note is not part of the Regulations)
 
@@ -378,100 +378,100 @@ The Regulations confer powers of enforcement on British sea fishery officers for
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-a2cbf03b13791103f0f87beea6f4ef0c]: Commencement: Reg. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-a2cbf03b13791103f0f87beea6f4ef0c]: Commencement: Reg. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-a2e45afb8dfccb199d0e323abf44ee03]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2) inserted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(2)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/2)
+[^c-a2e45afb8dfccb199d0e323abf44ee03]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2) inserted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(2)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/2)
 
-[^key-f7ded2f834485942c83d492beb94efb0]: Commencement: Reg. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-f7ded2f834485942c83d492beb94efb0]: Commencement: Reg. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-0741985ed25dba5e4bc45617cbf4febd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) omitted (20.11.2018) by virtue of [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/i)
+[^c-0741985ed25dba5e4bc45617cbf4febd]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) omitted (20.11.2018) by virtue of [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(i)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/i)
 
-[^key-c70e1bb7a203c54d83074a0718fedfc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) omitted (20.11.2018) by virtue of [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/ii)
+[^c-c70e1bb7a203c54d83074a0718fedfc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) omitted (20.11.2018) by virtue of [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/ii)
 
-[^key-61a34bec56b44df69e761afebbb7870e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) inserted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/iii)
+[^c-61a34bec56b44df69e761afebbb7870e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) inserted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(iii)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/iii)
 
-[^key-c8d3bf6fcaf8db86c095a923715499c2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(iv)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/iv)
+[^c-c8d3bf6fcaf8db86c095a923715499c2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(iv)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/iv)
 
-[^key-5adf043ac15845ffb71821e0501eb87e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(v)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/v)
+[^c-5adf043ac15845ffb71821e0501eb87e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(a)(v)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/a/v)
 
 [^f00006]: Footnote: [1967 c. 84](https://www.legislation.gov.uk/ukpga/1967/84).
 
-[^key-352b4f2b5c5efc6736d637bab95eb57b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) omitted (31.12.2020) by virtue of [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/370)](https://www.legislation.gov.uk/wsi/2019/370), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/370/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/370/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-352b4f2b5c5efc6736d637bab95eb57b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/1) omitted (31.12.2020) by virtue of [The Fisheries and Marine Management (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/370)](https://www.legislation.gov.uk/wsi/2019/370), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/370/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2019/370/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote: S.I. [1993/3138](https://www.legislation.gov.uk/uksi/1993/3138); the relevant amending instrument is [1999/3206](https://www.legislation.gov.uk/uksi/1999/3206).
 
-[^key-e71f3bc2415d48339a9f5a50a2640303]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/3)[(4)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/4) substituted for [reg. 2(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/3) (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/b)
+[^c-e71f3bc2415d48339a9f5a50a2640303]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/3)[(4)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/4) substituted for [reg. 2(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/2/3) (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(3)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/3/b)
 
-[^key-65d8a9cc3433c9825fb8d05d1883e21e]: Commencement: Reg. 3 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-65d8a9cc3433c9825fb8d05d1883e21e]: Commencement: Reg. 3 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-81c7fdce0947a3fe63d43861bc6555b5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/3/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(4)(a)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/4/a)
+[^c-81c7fdce0947a3fe63d43861bc6555b5]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/3/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(4)(a)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/4/a)
 
-[^key-28270c6605998536dea3c7fbb992590b]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/3/4) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(4)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/4/b)
+[^c-28270c6605998536dea3c7fbb992590b]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/3/4) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(4)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/4/b)
 
-[^key-c717410523247c8a0cad74421137afd3]: Textual amendment: Words in [reg. 3(8)(b)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/3/8/b) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(4)(c)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/4/c)
+[^c-c717410523247c8a0cad74421137afd3]: Textual amendment: Words in [reg. 3(8)(b)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/3/8/b) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(4)(c)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/4/c)
 
-[^key-8dd78488d9eb1316f357e9d6081d8be8]: Commencement: Reg. 4 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-8dd78488d9eb1316f357e9d6081d8be8]: Commencement: Reg. 4 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-9e81bc0f1520fe6b7571d851ab766d6d]: Commencement: Reg. 5 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-9e81bc0f1520fe6b7571d851ab766d6d]: Commencement: Reg. 5 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-c8806e1eb5779e4860fd6cfb24af631a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/5/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/5)
+[^c-c8806e1eb5779e4860fd6cfb24af631a]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/5/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/5)
 
-[^key-68bfa1a407be210fe9ead0f8a881a7c4]: Commencement: Reg. 6 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-68bfa1a407be210fe9ead0f8a881a7c4]: Commencement: Reg. 6 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-64c0abb467dac7188c3e97b800474d30]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/6/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(6)(a)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/6/a)
+[^c-64c0abb467dac7188c3e97b800474d30]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/6/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(6)(a)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/6/a)
 
-[^key-c39d38efb3d7a170bb1cafea26d4524f]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/6/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(6)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/6/b)
+[^c-c39d38efb3d7a170bb1cafea26d4524f]: Textual amendment: Words in [reg. 6(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/6/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(6)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/6/b)
 
-[^key-d2fb4a5012d58d25bb82bce152ba7995]: Textual amendment: Words in [reg. 6(7)(b)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/6/7/b) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(6)(c)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/6/c)
+[^c-d2fb4a5012d58d25bb82bce152ba7995]: Textual amendment: Words in [reg. 6(7)(b)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/6/7/b) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(6)(c)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/6/c)
 
-[^key-8c4feef2885e38e6da22db38543b87d9]: Commencement: Reg. 7 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-8c4feef2885e38e6da22db38543b87d9]: Commencement: Reg. 7 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-88c311ca15e5524cbdeb173693627a4f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/7/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(7)(a)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/7/a)
+[^c-88c311ca15e5524cbdeb173693627a4f]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/7/1) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(7)(a)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/7/a)
 
-[^key-39b93ea99142c0dcdff83de1826d92a6]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/7/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(7)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/7/b)
+[^c-39b93ea99142c0dcdff83de1826d92a6]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/7/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(7)(b)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/7/b)
 
-[^key-94f0443655ae994793307596aaa46cd8]: Textual amendment: Words in [reg. 7(7)(b)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/7/7/b) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(7)(c)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/7/c)
+[^c-94f0443655ae994793307596aaa46cd8]: Textual amendment: Words in [reg. 7(7)(b)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/7/7/b) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(7)(c)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/7/c)
 
-[^key-cf0fea45592d23e1af4639b1ff1ac280]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2006/1495/regulation/8) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(8)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/8)
+[^c-cf0fea45592d23e1af4639b1ff1ac280]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/wsi/2006/1495/regulation/8) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(8)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/8)
 
-[^key-602f37c81bdcd7255580f718374a9bf8]: Commencement: Reg. 9 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-602f37c81bdcd7255580f718374a9bf8]: Commencement: Reg. 9 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-c8b6c1ed768a3f5b4302ec421d86775d]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/9/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(9)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/9)
+[^c-c8b6c1ed768a3f5b4302ec421d86775d]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/9/3) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(9)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/9)
 
-[^key-ea9b5882577f0c032e876f72dbffe2b2]: Commencement: Reg. 10 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-ea9b5882577f0c032e876f72dbffe2b2]: Commencement: Reg. 10 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-f43fe693ded224f27bb8977a045538e9]: Commencement: Reg. 11 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-f43fe693ded224f27bb8977a045538e9]: Commencement: Reg. 11 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-b0c13307b7567ebab9b41acf556ff9e1]: Commencement: Reg. 12 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-b0c13307b7567ebab9b41acf556ff9e1]: Commencement: Reg. 12 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-bf55f313c1efee4864f7c31e915b954a]: Commencement: Reg. 13 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-bf55f313c1efee4864f7c31e915b954a]: Commencement: Reg. 13 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-f37cb7310f7568461b8672c1d1cc397e]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/13/1) inserted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(10)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/10)
+[^c-f37cb7310f7568461b8672c1d1cc397e]: Textual amendment: Words in [reg. 13(1)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/13/1) inserted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(10)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/10)
 
-[^key-f7785a6aec7371f1371aab2d18dcf228]: Commencement: Reg. 14 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-f7785a6aec7371f1371aab2d18dcf228]: Commencement: Reg. 14 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-0f544f06714912c84242960ba64fe428]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2006/1495/regulation/15) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(11)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/11)
+[^c-0f544f06714912c84242960ba64fe428]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2006/1495/regulation/15) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(11)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/11)
 
-[^key-b87f0362eab4b71833516ffa739246e6]: Commencement: Reg. 16 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-b87f0362eab4b71833516ffa739246e6]: Commencement: Reg. 16 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-00f8349465e51f301b735a098b63cb80]: Commencement: Reg. 17 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-00f8349465e51f301b735a098b63cb80]: Commencement: Reg. 17 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-c0c3e718bf49a4f83c300f1227f30f40]: Commencement: Reg. 18 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-c0c3e718bf49a4f83c300f1227f30f40]: Commencement: Reg. 18 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
 [^f00008]: Footnote: [1988 c. 38](https://www.legislation.gov.uk/ukpga/1988/38).
 
-[^key-d40b3af0b4253747295e5075eb0e4fae]: Commencement: Sch. 1 para. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-d40b3af0b4253747295e5075eb0e4fae]: Commencement: Sch. 1 para. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-bd3364e82d6372e08b212259dcb25074]: Commencement: Sch. 1 para. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-bd3364e82d6372e08b212259dcb25074]: Commencement: Sch. 1 para. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-8baf9a259ff65cf2e5ff499c284afdac]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2006/1495/schedule/1/paragraph/2) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(12)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/12)
+[^c-8baf9a259ff65cf2e5ff499c284afdac]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2006/1495/schedule/1/paragraph/2) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(12)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/12)
 
-[^key-1c7da4b4323fdc506c049718c02c70ca]: Commencement: Sch. 2 para. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-1c7da4b4323fdc506c049718c02c70ca]: Commencement: Sch. 2 para. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-985ac13de8a4b781a90f749d8dd5e8e0]: Commencement: Sch. 2 para. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-985ac13de8a4b781a90f749d8dd5e8e0]: Commencement: Sch. 2 para. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-7338781d29f8268fc16ab052bd17f981]: Commencement: Sch. 3 para. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-7338781d29f8268fc16ab052bd17f981]: Commencement: Sch. 3 para. 1 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-9adf161e1e8965f9d138d89d190ffc20]: Commencement: Sch. 3 para. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
+[^c-9adf161e1e8965f9d138d89d190ffc20]: Commencement: Sch. 3 para. 2 in force at 9.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2006/1495/regulation/1/2)
 
-[^key-e17d9f66ac166cd88a1287354e10f841]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2006/1495/schedule/3/paragraph/2) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(13)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/13)
+[^c-e17d9f66ac166cd88a1287354e10f841]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2006/1495/schedule/3/paragraph/2) substituted (20.11.2018) by [The Sea Fishing (Miscellaneous Amendments) (Wales) Order 2018 (S.I. 2018/1095)](https://www.legislation.gov.uk/wsi/2018/1095), [arts. 1(5)](https://www.legislation.gov.uk/wsi/2018/1095/article/1/5), [2(13)](https://www.legislation.gov.uk/wsi/2018/1095/article/2/13)

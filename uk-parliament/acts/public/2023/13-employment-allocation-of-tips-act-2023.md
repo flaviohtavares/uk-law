@@ -36,7 +36,7 @@ An Act to ensure that tips, gratuities and service charges paid by customers are
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Tips, gratuities and service charges[^key-8a6463efda6c57da9688bee55ab8988e][^key-c10f82874184066f300e8935a4726ebc][^key-a6b5341b83ef88b4c5235ee1a3033793]
+## 1. Tips, gratuities and service charges[^c-8a6463efda6c57da9688bee55ab8988e][^c-c10f82874184066f300e8935a4726ebc][^c-a6b5341b83ef88b4c5235ee1a3033793]
 
 After section 27B of the Employment Rights Act 1996 insert—
 
@@ -89,7 +89,7 @@ After section 27B of the Employment Rights Act 1996 insert—
 > - “**payment arrangement**” means an arrangement between an employer and another person under which payments made by customers of the employer are to be received by the other person instead of the employer;
 > - “**week**” means any period of seven days beginning with a Monday (and ending with a Sunday).
 
-## 2. How tips etc must be dealt with[^key-16346c521c8973e04e46ae16bede5fac][^key-abfcbf70cf72f88b4e52840f3eab01d5][^key-76e39d5c704317c5b3601126c21b2123]
+## 2. How tips etc must be dealt with[^c-16346c521c8973e04e46ae16bede5fac][^c-abfcbf70cf72f88b4e52840f3eab01d5][^c-76e39d5c704317c5b3601126c21b2123]
 
 After section 27C of the Employment Rights Act 1996 insert—
 
@@ -124,7 +124,7 @@ After section 27C of the Employment Rights Act 1996 insert—
 >
 >   occurs wholly or mainly face-to-face.
 
-## 3. Independent troncs[^key-3e9e40995d45e135d40e7341b3eb3de8][^key-81b0086c6daf9309fcdce78eb7c73587][^key-d5c01a033cb29316302e4ed0a785fd93]
+## 3. Independent troncs[^c-3e9e40995d45e135d40e7341b3eb3de8][^c-81b0086c6daf9309fcdce78eb7c73587][^c-d5c01a033cb29316302e4ed0a785fd93]
 
 After section 27E of the Employment Rights Act 1996 insert—
 
@@ -181,7 +181,7 @@ After section 27E of the Employment Rights Act 1996 insert—
 > - “**social security contributions regulations**” means any regulations making provision related to social security contributions of employers or workers;
 > - “**unauthorised deduction**” means a deduction that is not required or authorised to be made by virtue of a statutory provision.
 
-## 4. When tips etc must be dealt with[^key-8a6d9029cfcfec6564009af2c6636f5f][^key-092a9eb2ffb21fc4af34869c0c2131d8][^key-8d103e5e7e6059743e3fe702dc341669]
+## 4. When tips etc must be dealt with[^c-8a6d9029cfcfec6564009af2c6636f5f][^c-092a9eb2ffb21fc4af34869c0c2131d8][^c-8d103e5e7e6059743e3fe702dc341669]
 
 After section 27F of the Employment Rights Act 1996 insert—
 
@@ -194,7 +194,7 @@ After section 27F of the Employment Rights Act 1996 insert—
 >
 > no later than the end of the month following the month in which the tip, gratuity or service charge was paid by the customer.
 
-## 5. Agency workers[^key-55e0f7f4f24804c7e7cbec14e6e84b9b][^key-a6cb42d5f9de663bb4c124f9944a7da9][^key-37a9e8b5c67b1dfbc2a44df619a9412b]
+## 5. Agency workers[^c-55e0f7f4f24804c7e7cbec14e6e84b9b][^c-a6cb42d5f9de663bb4c124f9944a7da9][^c-37a9e8b5c67b1dfbc2a44df619a9412b]
 
 After section 27G of the Employment Rights Act 1996 insert—
 
@@ -225,7 +225,7 @@ After section 27G of the Employment Rights Act 1996 insert—
 >
 > (6) In this Part a reference to an eligible agency worker includes, where the context requires, a reference to a former eligible agency worker.
 
-## 6. Information[^key-c0d5f786a01e86bfc0a8188a58274878][^key-a228a17ab444da97c6a4f3c26169084c][^key-031a1f507b56a115a4bd1ecf0544e37b]
+## 6. Information[^c-c0d5f786a01e86bfc0a8188a58274878][^c-a228a17ab444da97c6a4f3c26169084c][^c-031a1f507b56a115a4bd1ecf0544e37b]
 
 After section 27H of the Employment Rights Act 1996 insert—
 
@@ -320,7 +320,7 @@ After section 27H of the Employment Rights Act 1996 insert—
 > - “**date of the request**” means the date that the request is received by the employer;
 > - “**response period**” means the period of four weeks beginning with the date of the request.
 
-## 7. Enforcement: dealing with tips etc[^key-ed049a3d2941b3048fbde6d8d8f32faa][^key-a0772fda0c7ca0e15f3bf9fef7e4fdfb][^key-4f95c2e0f24587d224682b8784494f22]
+## 7. Enforcement: dealing with tips etc[^c-ed049a3d2941b3048fbde6d8d8f32faa][^c-a0772fda0c7ca0e15f3bf9fef7e4fdfb][^c-4f95c2e0f24587d224682b8784494f22]
 
 After section 27J of the Employment Rights Act 1996 insert—
 
@@ -372,7 +372,7 @@ After section 27J of the Employment Rights Act 1996 insert—
 >
 > (2) The tribunal may make an order under this section whether or not an order under section 27L(1)(b) has been made.
 
-## 8. Enforcement: information[^key-d28d65038aa0fed19522fe0cc9ecf363][^key-9c226a6d35c6a17c8797657eccd42885][^key-b3b6312b00e88bcbbcdb82040492a828]
+## 8. Enforcement: information[^c-d28d65038aa0fed19522fe0cc9ecf363][^c-9c226a6d35c6a17c8797657eccd42885][^c-b3b6312b00e88bcbbcdb82040492a828]
 
 After section 27M of the Employment Rights Act 1996 insert—
 
@@ -397,7 +397,7 @@ After section 27M of the Employment Rights Act 1996 insert—
 >
 > (3) The tribunal may make an order under subsection (2) whether or not an order referred to in subsection (1)(b) has been made.
 
-## 9. Code of practice about tips etc[^key-7f972ec4fcbafd654ff381fa2ef94e84][^key-849a7630091a28090a9ada7a3dad6253]
+## 9. Code of practice about tips etc[^c-7f972ec4fcbafd654ff381fa2ef94e84][^c-849a7630091a28090a9ada7a3dad6253]
 
 After section 27O of the Employment Rights Act 1996 insert—
 
@@ -448,7 +448,7 @@ After section 27O of the Employment Rights Act 1996 insert—
 >
 > (2) A failure on the part of an employer to observe any provision of a code of practice issued under this Part does not of itself render the employer liable to any proceedings.
 
-## 10. General[^key-657fb9d6d1e11d427dd816106b614195][^key-77647537cc9026e950cfed6af1592ee6][^key-7f45dad2e35bfcbe525e8873a1b71fe2]
+## 10. General[^c-657fb9d6d1e11d427dd816106b614195][^c-77647537cc9026e950cfed6af1592ee6][^c-7f45dad2e35bfcbe525e8873a1b71fe2]
 
 After section 27T of the Employment Rights Act 1996 insert—
 
@@ -535,7 +535,7 @@ After section 27T of the Employment Rights Act 1996 insert—
 >
 > This Part applies in respect of tips, gratuities and service charges paid by customers on or after the date on which section 27D comes into force.
 
-## 11. Wages[^key-4209d86383c05ff61fd8da32d34cd4a3][^key-e139d7867b73d984d40a09f7ce4a075a][^key-d6591e325802f61efbeb8987be7e936d]
+## 11. Wages[^c-4209d86383c05ff61fd8da32d34cd4a3][^c-e139d7867b73d984d40a09f7ce4a075a][^c-d6591e325802f61efbeb8987be7e936d]
 
 In the Employment Rights Act 1996—
 
@@ -553,7 +553,7 @@ In the Employment Rights Act 1996—
 
   .
 
-## 12. Other amendments to employment legislation[^key-ba5b8ccbe77f9b3704f2d152b364a9a2][^key-f7bc5dd062fe085af37e63a357488566][^key-04a18059325fe6539a5deb13e9a89df6]
+## 12. Other amendments to employment legislation[^c-ba5b8ccbe77f9b3704f2d152b364a9a2][^c-f7bc5dd062fe085af37e63a357488566][^c-04a18059325fe6539a5deb13e9a89df6]
 
 (1) In Schedule A2 to the Trade Union and Labour Relations (Consolidation) Act 1992 (tribunal jurisdictions), after the entry for “Section 23 of the Employment Rights Act 1996” insert—
 
@@ -601,11 +601,11 @@ In the Employment Rights Act 1996—
   ;
 - (b) in paragraph (a), for “the Employment Rights Act 1996”, substitute “that Act”.
 
-## 13. Extent[^key-c204758fcdbcf33bd90e9c367905c722]
+## 13. Extent[^c-c204758fcdbcf33bd90e9c367905c722]
 
 This Act extends to England and Wales and Scotland.
 
-## 14. Commencement[^key-1435dd40ec84c53eda1aeba63039fa11]
+## 14. Commencement[^c-1435dd40ec84c53eda1aeba63039fa11]
 
 (1) This section and sections 13 and 15 come into force on the day on which this Act is passed.
 
@@ -619,84 +619,84 @@ This Act extends to England and Wales and Scotland.
 
 (6) Regulations under this section are to be made by statutory instrument.
 
-## 15. Short title[^key-3c03d22736f1024b4ec8401a750d0268]
+## 15. Short title[^c-3c03d22736f1024b4ec8401a750d0268]
 
 This Act may be cited as the Employment (Allocation of Tips) Act 2023.
 
 ## Annotations
 
-[^key-8a6463efda6c57da9688bee55ab8988e]: Commencement: S. 1 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-8a6463efda6c57da9688bee55ab8988e]: Commencement: S. 1 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-c10f82874184066f300e8935a4726ebc]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/13/section/1) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-c10f82874184066f300e8935a4726ebc]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/13/section/1) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-a6b5341b83ef88b4c5235ee1a3033793]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/13/section/1) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/a)
+[^c-a6b5341b83ef88b4c5235ee1a3033793]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/13/section/1) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/a)
 
-[^key-16346c521c8973e04e46ae16bede5fac]: Commencement: S. 2 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-16346c521c8973e04e46ae16bede5fac]: Commencement: S. 2 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-abfcbf70cf72f88b4e52840f3eab01d5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/13/section/2) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-abfcbf70cf72f88b4e52840f3eab01d5]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/13/section/2) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-76e39d5c704317c5b3601126c21b2123]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/13/section/2) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/b)
+[^c-76e39d5c704317c5b3601126c21b2123]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/13/section/2) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/b)
 
-[^key-3e9e40995d45e135d40e7341b3eb3de8]: Commencement: S. 3 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-3e9e40995d45e135d40e7341b3eb3de8]: Commencement: S. 3 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-81b0086c6daf9309fcdce78eb7c73587]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/13/section/3) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-81b0086c6daf9309fcdce78eb7c73587]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/13/section/3) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-d5c01a033cb29316302e4ed0a785fd93]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/13/section/3) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/c)
+[^c-d5c01a033cb29316302e4ed0a785fd93]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/13/section/3) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/c)
 
-[^key-8a6d9029cfcfec6564009af2c6636f5f]: Commencement: S. 4 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-8a6d9029cfcfec6564009af2c6636f5f]: Commencement: S. 4 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-092a9eb2ffb21fc4af34869c0c2131d8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/13/section/4) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-092a9eb2ffb21fc4af34869c0c2131d8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/13/section/4) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-8d103e5e7e6059743e3fe702dc341669]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/13/section/4) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/d)
+[^c-8d103e5e7e6059743e3fe702dc341669]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/13/section/4) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/d)
 
-[^key-55e0f7f4f24804c7e7cbec14e6e84b9b]: Commencement: S. 5 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-55e0f7f4f24804c7e7cbec14e6e84b9b]: Commencement: S. 5 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-a6cb42d5f9de663bb4c124f9944a7da9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/13/section/5) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-a6cb42d5f9de663bb4c124f9944a7da9]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/13/section/5) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-37a9e8b5c67b1dfbc2a44df619a9412b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/13/section/5) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/e)
+[^c-37a9e8b5c67b1dfbc2a44df619a9412b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/13/section/5) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/e)
 
-[^key-c0d5f786a01e86bfc0a8188a58274878]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-c0d5f786a01e86bfc0a8188a58274878]: Commencement: S. 6 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-a228a17ab444da97c6a4f3c26169084c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-a228a17ab444da97c6a4f3c26169084c]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-031a1f507b56a115a4bd1ecf0544e37b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/f)
+[^c-031a1f507b56a115a4bd1ecf0544e37b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/13/section/6) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/f)
 
-[^key-ed049a3d2941b3048fbde6d8d8f32faa]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-ed049a3d2941b3048fbde6d8d8f32faa]: Commencement: S. 7 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-a0772fda0c7ca0e15f3bf9fef7e4fdfb]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/13/section/7) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-a0772fda0c7ca0e15f3bf9fef7e4fdfb]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/13/section/7) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-4f95c2e0f24587d224682b8784494f22]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/13/section/7) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/g)
+[^c-4f95c2e0f24587d224682b8784494f22]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/13/section/7) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/g)
 
-[^key-d28d65038aa0fed19522fe0cc9ecf363]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-d28d65038aa0fed19522fe0cc9ecf363]: Commencement: S. 8 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-9c226a6d35c6a17c8797657eccd42885]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/13/section/8) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
+[^c-9c226a6d35c6a17c8797657eccd42885]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/13/section/8) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a)
 
-[^key-b3b6312b00e88bcbbcdb82040492a828]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/13/section/8) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/h)
+[^c-b3b6312b00e88bcbbcdb82040492a828]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/13/section/8) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/h)
 
-[^key-7f972ec4fcbafd654ff381fa2ef94e84]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-7f972ec4fcbafd654ff381fa2ef94e84]: Commencement: S. 9 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-849a7630091a28090a9ada7a3dad6253]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/13/section/9) in force at 31.7.2023 by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/b)
+[^c-849a7630091a28090a9ada7a3dad6253]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/13/section/9) in force at 31.7.2023 by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/b)
 
-[^key-657fb9d6d1e11d427dd816106b614195]: Commencement: S. 10 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-657fb9d6d1e11d427dd816106b614195]: Commencement: S. 10 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-77647537cc9026e950cfed6af1592ee6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c)
+[^c-77647537cc9026e950cfed6af1592ee6]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c)
 
-[^key-7f45dad2e35bfcbe525e8873a1b71fe2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/j)
+[^c-7f45dad2e35bfcbe525e8873a1b71fe2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/j)
 
-[^key-4209d86383c05ff61fd8da32d34cd4a3]: Commencement: S. 11 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-4209d86383c05ff61fd8da32d34cd4a3]: Commencement: S. 11 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-e139d7867b73d984d40a09f7ce4a075a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/13/section/11) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c)
+[^c-e139d7867b73d984d40a09f7ce4a075a]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/13/section/11) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c)
 
-[^key-d6591e325802f61efbeb8987be7e936d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/13/section/11) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/k)
+[^c-d6591e325802f61efbeb8987be7e936d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/13/section/11) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/k)
 
-[^key-ba5b8ccbe77f9b3704f2d152b364a9a2]: Commencement: S. 12 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
+[^c-ba5b8ccbe77f9b3704f2d152b364a9a2]: Commencement: S. 12 not in force at Royal Assent, see [s. 14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2)
 
-[^key-f7bc5dd062fe085af37e63a357488566]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/13/section/12) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c)
+[^c-f7bc5dd062fe085af37e63a357488566]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/13/section/12) in force at 31.7.2023 for specified purposes by [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c)
 
-[^key-04a18059325fe6539a5deb13e9a89df6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/13/section/12) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/l)
+[^c-04a18059325fe6539a5deb13e9a89df6]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2023/13/section/12) in force at 1.10.2024 in so far as not already in force by [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/l)
 
-[^key-c204758fcdbcf33bd90e9c367905c722]: Commencement: S. 13 in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/1)
+[^c-c204758fcdbcf33bd90e9c367905c722]: Commencement: S. 13 in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/1)
 
-[^key-1435dd40ec84c53eda1aeba63039fa11]: Commencement: S. 14 in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/1)
+[^c-1435dd40ec84c53eda1aeba63039fa11]: Commencement: S. 14 in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/1)
 
-[^key-3c03d22736f1024b4ec8401a750d0268]: Commencement: S. 15 in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/1)
+[^c-3c03d22736f1024b4ec8401a750d0268]: Commencement: S. 15 in force at Royal Assent, see [s. 14(1)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/1)

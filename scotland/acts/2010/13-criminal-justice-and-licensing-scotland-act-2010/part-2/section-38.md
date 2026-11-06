@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Threatening or abusive behaviour[^key-4ea910e837efeef7fb0a56bdf88abf57]
+## 38. Threatening or abusive behaviour[^c-4ea910e837efeef7fb0a56bdf88abf57]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ea910e837efeef7fb0a56bdf88abf57]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/13/section/38) in force at 6.10.2010 by [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)
+[^c-4ea910e837efeef7fb0a56bdf88abf57]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2010/13/section/38) in force at 6.10.2010 by [S.S.I. 2010/339](https://www.legislation.gov.uk/ssi/2010/339), [art. 2](https://www.legislation.gov.uk/ssi/2010/339/article/2)

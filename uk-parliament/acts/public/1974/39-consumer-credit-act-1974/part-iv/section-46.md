@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. False or misleading advertisements.[^key-42736d938284873d82ff9ee7415df41b]
+## 46. False or misleading advertisements.[^c-42736d938284873d82ff9ee7415df41b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42736d938284873d82ff9ee7415df41b]: Textual amendment: S. 43 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
+[^c-42736d938284873d82ff9ee7415df41b]: Textual amendment: S. 43 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(11)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/11)
 
 [^c19905271]: Textual amendment: S. 46 repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277) regs. 30(1)(3), Sch. 2 para. 18, {Sch. 4 Pt. 1} (with savings in reg. 28(2)(3))

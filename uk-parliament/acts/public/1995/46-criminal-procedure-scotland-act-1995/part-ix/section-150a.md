@@ -57,7 +57,7 @@ the court may relieve that solicitor and appoint another solicitor for the purpo
 (8) Subsections (4)(b) and (7) above do not apply in the case of proceedings—
 
 - (a) in respect of a sexual offence to which section 288C of this Act applies;
-- (aa)[^key-8dd707f79e51ffd660a945510c95cb45] in respect of an offence to which section 288DC of this Act applies;
+- (aa)[^c-8dd707f79e51ffd660a945510c95cb45] in respect of an offence to which section 288DC of this Act applies;
 - (b) in respect of which section 288E of this Act applies; or
 - (c) in which an order has been made under section 288F(2) of this Act.
 
@@ -74,4 +74,4 @@ the court may relieve that solicitor and appoint another solicitor for the purpo
 
 [^c19811051]: Textual amendment: S. 150A inserted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 14(4)](https://www.legislation.gov.uk/asp/2007/6/section/14/4), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-8dd707f79e51ffd660a945510c95cb45]: Textual amendment: [S. 150A(8)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/150A/8/aa) inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(13)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/13); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-8dd707f79e51ffd660a945510c95cb45]: Textual amendment: [S. 150A(8)(aa)](https://www.legislation.gov.uk/ukpga/1995/46/section/150A/8/aa) inserted (1.4.2019) by [Domestic Abuse (Scotland) Act 2018 (asp 5)](https://www.legislation.gov.uk/asp/2018/5), [s. 15(2)](https://www.legislation.gov.uk/asp/2018/5/section/15/2), [sch. para. 4(13)](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4/13); [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))

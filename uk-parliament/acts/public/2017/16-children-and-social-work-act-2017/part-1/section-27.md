@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Combining child death review partner areas and delegating functions[^key-9e55d5019eb5ba86a7f8047d695b6815]
+## 27. Combining child death review partner areas and delegating functions[^c-9e55d5019eb5ba86a7f8047d695b6815]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ After section 16O of the Children Act 2004 (inserted by section 26 of this Act) 
 
 ## Annotations
 
-[^key-9e55d5019eb5ba86a7f8047d695b6815]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/16/section/27) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/p)
+[^c-9e55d5019eb5ba86a7f8047d695b6815]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2017/16/section/27) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/p)

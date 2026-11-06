@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Traffic signs[^key-c328501b0000d11720d5c12f60638d58]
+## 33. Traffic signs[^c-c328501b0000d11720d5c12f60638d58]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c328501b0000d11720d5c12f60638d58]: Commencement: Art. 33 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-c328501b0000d11720d5c12f60638d58]: Commencement: Art. 33 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

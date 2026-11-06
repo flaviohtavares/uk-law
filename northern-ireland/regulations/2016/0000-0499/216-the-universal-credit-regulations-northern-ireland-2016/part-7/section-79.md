@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Unless regulation 82 or 83 applies, the benefit cap applies where the welfare benefits to which a single person or couple is entitled during the reference period exceed the relevant amount determined under regulation 80A (relevant amount)[^key-d05532c6528d254c40565e2215f66fbe].
+(1) Unless regulation 82 or 83 applies, the benefit cap applies where the welfare benefits to which a single person or couple is entitled during the reference period exceed the relevant amount determined under regulation 80A (relevant amount)[^c-d05532c6528d254c40565e2215f66fbe].
 
 (2) The reference period for the purposes of the benefit cap is the assessment period for an award of universal credit.
 
-(3)[^key-8416d2b7b6517bb33a819ac3ae9bdb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8416d2b7b6517bb33a819ac3ae9bdb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8416d2b7b6517bb33a819ac3ae9bdb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8416d2b7b6517bb33a819ac3ae9bdb07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d05532c6528d254c40565e2215f66fbe]: Textual amendment: Words in reg. 79(1) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/2/a)
+[^c-d05532c6528d254c40565e2215f66fbe]: Textual amendment: Words in reg. 79(1) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(2)(a)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/2/a)
 
-[^key-8416d2b7b6517bb33a819ac3ae9bdb07]: Textual amendment: Reg. 79(3)(4) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/2/b)
+[^c-8416d2b7b6517bb33a819ac3ae9bdb07]: Textual amendment: Reg. 79(3)(4) omitted (coming into force in accordance with reg. 1(3) of the amending Rule) by virtue of [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(2)(b)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/2/b)

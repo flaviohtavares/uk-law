@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Duties about fraudulent advertising: Category 2A services[^key-4e7a26aaa85ae1031843a9324df0bf15][^key-3b408eca8d03ef2e9a5b97edf69784bd]
+## 39. Duties about fraudulent advertising: Category 2A services[^c-4e7a26aaa85ae1031843a9324df0bf15][^c-3b408eca8d03ef2e9a5b97edf69784bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7a26aaa85ae1031843a9324df0bf15]: Commencement: S. 39 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4e7a26aaa85ae1031843a9324df0bf15]: Commencement: S. 39 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3b408eca8d03ef2e9a5b97edf69784bd]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/50/section/39) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/l)
+[^c-3b408eca8d03ef2e9a5b97edf69784bd]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2023/50/section/39) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/l)

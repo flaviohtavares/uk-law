@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## C14. Restoration of right to reckon service in transitional cases where there has been a return of contributions[^key-44ee67dcb2f719900e71909b080d0936]
+## C14. Restoration of right to reckon service in transitional cases where there has been a return of contributions[^c-44ee67dcb2f719900e71909b080d0936]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44ee67dcb2f719900e71909b080d0936]: Commencement: [Reg. C14](https://www.legislation.gov.uk/uksi/1986/24/regulation/C14) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-44ee67dcb2f719900e71909b080d0936]: Commencement: [Reg. C14](https://www.legislation.gov.uk/uksi/1986/24/regulation/C14) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

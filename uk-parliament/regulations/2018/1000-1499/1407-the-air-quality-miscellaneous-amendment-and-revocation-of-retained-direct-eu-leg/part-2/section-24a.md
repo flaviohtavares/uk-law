@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Decision (EU) 2019/2010 establishing the best available techniques (BAT) conclusions, under [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council, for waste incineration[^M_I_87e8e151-1eab-4442-b325-7544c6ab584e][^key-fd3c74f7c11058c49048527b4d3e671a]
+## 24A. Decision (EU) 2019/2010 establishing the best available techniques (BAT) conclusions, under [Directive 2010/75/EU](https://www.legislation.gov.uk/eudr/2010/0075) of the European Parliament and of the Council, for waste incineration[^M_I_87e8e151-1eab-4442-b325-7544c6ab584e][^c-fd3c74f7c11058c49048527b4d3e671a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^M_I_87e8e151-1eab-4442-b325-7544c6ab584e]: Commencement: Reg. 24A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-fd3c74f7c11058c49048527b4d3e671a]: Textual amendment: Reg. 24A inserted (31.12.2020 immediately before IP completion day) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/2/4)
+[^c-fd3c74f7c11058c49048527b4d3e671a]: Textual amendment: Reg. 24A inserted (31.12.2020 immediately before IP completion day) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/2/4)

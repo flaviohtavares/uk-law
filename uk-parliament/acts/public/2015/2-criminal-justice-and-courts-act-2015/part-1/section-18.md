@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Restrictions on use of cautions: supplementary[^key-465fcab91da40d7daa7c71140c0cedab]
+## 18. Restrictions on use of cautions: supplementary[^c-465fcab91da40d7daa7c71140c0cedab]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-465fcab91da40d7daa7c71140c0cedab]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/2/section/18) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/14)
+[^c-465fcab91da40d7daa7c71140c0cedab]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2015/2/section/18) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/14)

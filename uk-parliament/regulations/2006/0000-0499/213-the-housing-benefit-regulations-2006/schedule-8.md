@@ -22,46 +22,46 @@ summary: ''
 
 Regulation 73
 
-### ...[^key-b0cc5f8f451a2c879ffda5c0871680bd][^key-b0cc5f8f451a2c879ffda5c0871680bd]
+### ...[^c-b0cc5f8f451a2c879ffda5c0871680bd][^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0cc5f8f451a2c879ffda5c0871680bd]: Textual amendment: Sch. 8 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(f)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/f)
+[^c-b0cc5f8f451a2c879ffda5c0871680bd]: Textual amendment: Sch. 8 omitted (6.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [4(4)(f)](https://www.legislation.gov.uk/uksi/2008/959/regulation/4/4/f)

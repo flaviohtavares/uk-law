@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Additional requirements for applications for a proxy signature in respect of a particular petition: England and Wales and Scotland[^key-9bff180b121d4256142bcb6894f2da77]
+## 68. Additional requirements for applications for a proxy signature in respect of a particular petition: England and Wales and Scotland[^c-9bff180b121d4256142bcb6894f2da77]
 
 *Extent: E+W+S*
 
@@ -49,12 +49,12 @@ the requirements of regulation 69 (emergency proxy signature) as to the matters 
   - (iii) the position of the person in the hospital at which the applicant is liable to be detained; and
   - (iv) the statutory provision under which the applicant is liable to be detained at the hospital (where applicable).
 
-(6A)[^key-8677a43498035c686e5306d6699ce567] Where an application under regulation 53(2) is made after 5pm on the sixth day before the last day of the signing period for the petition for which it is made because the circumstances set out in paragraph (4C)(a) of regulation 71 apply, the application must (in addition to providing any other information required by this Part) state that it is being made because of those circumstances.
+(6A)[^c-8677a43498035c686e5306d6699ce567] Where an application under regulation 53(2) is made after 5pm on the sixth day before the last day of the signing period for the petition for which it is made because the circumstances set out in paragraph (4C)(a) of regulation 71 apply, the application must (in addition to providing any other information required by this Part) state that it is being made because of those circumstances.
 
 (7) This regulation does not apply where the applicant has an anonymous entry.
 
 ## Annotations
 
-[^key-9bff180b121d4256142bcb6894f2da77]: Commencement: Reg. 68 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-9bff180b121d4256142bcb6894f2da77]: Commencement: Reg. 68 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
-[^key-8677a43498035c686e5306d6699ce567]: Textual amendment: Reg. 68(6A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(11)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/11) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))
+[^c-8677a43498035c686e5306d6699ce567]: Textual amendment: Reg. 68(6A) inserted (31.10.2023) by [The Representation of the People (Postal and Proxy Voting etc.) (Amendment) Regulations 2023 (S.I. 2023/1147)](https://www.legislation.gov.uk/uksi/2023/1147), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/1/2), [19(11)](https://www.legislation.gov.uk/uksi/2023/1147/regulation/19/11) (with [Sch. 2 paras. 33](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/33), [35](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/35), [36](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/36), [39](https://www.legislation.gov.uk/uksi/2023/1147/schedule/2/paragraph/39))

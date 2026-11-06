@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Exclusion of contract-holder after abandoning contracts[^key-bc0a11b65ee2ddcac2fbc8f1a8ed4b9c]
+## 66. Exclusion of contract-holder after abandoning contracts[^c-bc0a11b65ee2ddcac2fbc8f1a8ed4b9c]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc0a11b65ee2ddcac2fbc8f1a8ed4b9c]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2016/1/section/66) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-bc0a11b65ee2ddcac2fbc8f1a8ed4b9c]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2016/1/section/66) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

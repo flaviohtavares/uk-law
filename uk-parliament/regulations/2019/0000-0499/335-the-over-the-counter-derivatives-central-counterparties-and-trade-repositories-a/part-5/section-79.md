@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Interpretation[^key-31f69322ad308a63de820ec5543a1f77]
+## 79. Interpretation[^c-31f69322ad308a63de820ec5543a1f77]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,11 +40,11 @@ summary: ''
 
 (2) References in this Part to numbered Articles, except in regulations 80(1)(c) and 82(5)(a) and (b), are to the Articles of the EMIR regulation bearing that number.
 
-(3) References in this Part to the EMIR regulation, except in regulations 80(2)(c) and 82(6), are to that Regulation as in force after IP completion day[^key-e157a021c3ba791f5cf5aa2b151b8350].
+(3) References in this Part to the EMIR regulation, except in regulations 80(2)(c) and 82(6), are to that Regulation as in force after IP completion day[^c-e157a021c3ba791f5cf5aa2b151b8350].
 
 ## Annotations
 
-[^key-31f69322ad308a63de820ec5543a1f77]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-31f69322ad308a63de820ec5543a1f77]: Commencement: Reg. 79 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23594881]: Marginal citation: OJ No. L 314, 1.12.2015, p.13.
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c23594911]: Marginal citation: OJ No. L 340. 15.12.2016, p.9.
 
-[^key-e157a021c3ba791f5cf5aa2b151b8350]: Textual amendment: Words in reg. 79(3) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(8)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/8)
+[^c-e157a021c3ba791f5cf5aa2b151b8350]: Textual amendment: Words in reg. 79(3) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [52(8)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/52/8)

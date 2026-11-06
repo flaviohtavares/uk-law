@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Use of an organisation as an agency for payments[^key-c620648e44d713ead7314c6caff568d4]
+## 146. Use of an organisation as an agency for payments[^c-c620648e44d713ead7314c6caff568d4]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c620648e44d713ead7314c6caff568d4]: Commencement: S. 146 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c620648e44d713ead7314c6caff568d4]: Commencement: S. 146 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

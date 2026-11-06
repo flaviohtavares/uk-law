@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Inspectors[^key-3221242203fd551c742443aa1f84bb05]
+## 45. Inspectors[^c-3221242203fd551c742443aa1f84bb05]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ as the Department may require.
 
 ## Annotations
 
-[^key-3221242203fd551c742443aa1f84bb05]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/16/section/45) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)
+[^c-3221242203fd551c742443aa1f84bb05]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/16/section/45) in operation at 2.4.2012 by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/154/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2012/154/schedule/1)

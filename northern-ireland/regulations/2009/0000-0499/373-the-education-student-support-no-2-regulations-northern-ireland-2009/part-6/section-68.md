@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Old system students with full entitlement[^key-9b8331436afbef3a1cb8e966f956a3de]
+## 68. Old system students with full entitlement[^c-9b8331436afbef3a1cb8e966f956a3de]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b8331436afbef3a1cb8e966f956a3de]: Textual amendment: [Reg. 68](https://www.legislation.gov.uk/nisr/2009/373/regulation/68) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(d)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/d)
+[^c-9b8331436afbef3a1cb8e966f956a3de]: Textual amendment: [Reg. 68](https://www.legislation.gov.uk/nisr/2009/373/regulation/68) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(d)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/d)

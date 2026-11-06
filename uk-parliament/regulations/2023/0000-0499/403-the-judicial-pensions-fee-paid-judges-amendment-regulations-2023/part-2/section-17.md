@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of regulation 15[^key-3e01c41a87d6ce9a57e489b4e51ba6c3]
+## 17. Amendment of regulation 15[^c-3e01c41a87d6ce9a57e489b4e51ba6c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In regulation 15—
 
 ## Annotations
 
-[^key-3e01c41a87d6ce9a57e489b4e51ba6c3]: Commencement: Reg. 17 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-3e01c41a87d6ce9a57e489b4e51ba6c3]: Commencement: Reg. 17 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendments relating to employer cost cap[^key-37dd904f35b5f060c7733af5972f407b][^key-74a08144526c81ea9ce253818b772f14]
+## 92. Amendments relating to employer cost cap[^c-37dd904f35b5f060c7733af5972f407b][^c-74a08144526c81ea9ce253818b772f14]
 
 *Extent: E+W+S+N.I.*
 
@@ -148,6 +148,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37dd904f35b5f060c7733af5972f407b]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-37dd904f35b5f060c7733af5972f407b]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-74a08144526c81ea9ce253818b772f14]: Commencement: S. 92 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-74a08144526c81ea9ce253818b772f14]: Commencement: S. 92 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

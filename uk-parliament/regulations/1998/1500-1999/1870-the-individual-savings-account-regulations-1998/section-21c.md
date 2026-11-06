@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21C. Repair of invalid junior ISA accounts[^key-ad5c0bf4c0926cd052534bd0f725c0d4]
+## 21C. Repair of invalid junior ISA accounts[^c-ad5c0bf4c0926cd052534bd0f725c0d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad5c0bf4c0926cd052534bd0f725c0d4]: Textual amendment: Regs. 21B, 21C inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [26](https://www.legislation.gov.uk/uksi/2011/1780/regulation/26)
+[^c-ad5c0bf4c0926cd052534bd0f725c0d4]: Textual amendment: Regs. 21B, 21C inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [26](https://www.legislation.gov.uk/uksi/2011/1780/regulation/26)

@@ -30,7 +30,7 @@ References to “derivatives” include commodity-based contracts that give eith
 - (b) were designated for such purpose at their inception, and
 - (c) are expected to be settled by delivery of the commodity.
 
-**2.** (1) The expressions listed in sub-paragraph (2) have the same meaning as they have in [Directive 2013/34/EU](https://www.legislation.gov.uk/eudr/2013/0034)[^key-483363ce2c2e5e81ce77a673e6423edf] of 26 June 2013 on the annual financial statements etc. of certain types of undertakings and Council [Directive 91/674/EEC](https://www.legislation.gov.uk/eudr/1991/0674) of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings.
+**2.** (1) The expressions listed in sub-paragraph (2) have the same meaning as they have in [Directive 2013/34/EU](https://www.legislation.gov.uk/eudr/2013/0034)[^c-483363ce2c2e5e81ce77a673e6423edf] of 26 June 2013 on the annual financial statements etc. of certain types of undertakings and Council [Directive 91/674/EEC](https://www.legislation.gov.uk/eudr/1991/0674) of 19 December 1991 on the annual accounts and consolidated accounts of insurance undertakings.
 
 (2) Those expressions are “available for sale financial asset”, “business combination”, “commodity-based contracts”, “derivative”, “equity instrument”, “exchange difference”, “fair value hedge accounting system”, “financial fixed asset”, “financial instrument”, “foreign entity”, “hedge accounting”, “hedge accounting system”, “hedged items”, “hedging instrument”, “held for trading purposes”, “held to maturity”, “monetary item”, “receivables”, “reliable market” and “trading portfolio”.
 
@@ -109,6 +109,6 @@ the references in sub-paragraphs (1) to (4) to the interest held by, and the pur
 
 ## Annotations
 
-[^key-483363ce2c2e5e81ce77a673e6423edf]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/4/paragraph/2/1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [61](https://www.legislation.gov.uk/uksi/2016/575/regulation/61)
+[^c-483363ce2c2e5e81ce77a673e6423edf]: Textual amendment: Words in [Sch. 4 para. 2(1)](https://www.legislation.gov.uk/uksi/2008/1913/schedule/4/paragraph/2/1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [61](https://www.legislation.gov.uk/uksi/2016/575/regulation/61)
 
 [^c19349141]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).

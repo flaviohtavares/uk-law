@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Ports and airports[^key-9dfa8235ac978eff71770d5cf431ce35]
+## 12. Ports and airports[^c-9dfa8235ac978eff71770d5cf431ce35]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ These Regulations apply to activities relating to the exploitation of a geograph
 
 ## Annotations
 
-[^key-9dfa8235ac978eff71770d5cf431ce35]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/49/regulation/12) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-9dfa8235ac978eff71770d5cf431ce35]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2016/49/regulation/12) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

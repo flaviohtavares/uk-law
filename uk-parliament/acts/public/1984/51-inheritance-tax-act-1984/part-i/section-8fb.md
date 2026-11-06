@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8FB. Downsizing addition: entitlement: no residential interest at death[^key-b458615bf36bbe78f9a9b07671ddd5d6]
+## 8FB. Downsizing addition: entitlement: no residential interest at death[^c-b458615bf36bbe78f9a9b07671ddd5d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b458615bf36bbe78f9a9b07671ddd5d6]: Textual amendment: Ss. 8FA-8FE inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/5)
+[^c-b458615bf36bbe78f9a9b07671ddd5d6]: Textual amendment: Ss. 8FA-8FE inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2016/24/schedule/15/paragraph/5)

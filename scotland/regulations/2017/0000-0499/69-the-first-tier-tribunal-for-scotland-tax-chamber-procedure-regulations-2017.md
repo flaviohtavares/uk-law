@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with paragraph 4(3) of schedule 9 of that Act, they have consulted the President of the Scottish Tribunals and such other persons as they have considered appropriate.
 
-## 1. Citation and commencement[^key-75309211de74dd0b24e3cdb554ede3de]
+## 1. Citation and commencement[^c-75309211de74dd0b24e3cdb554ede3de]
 
 (1) These Regulations may be cited as the First-tier Tribunal for Scotland Tax Chamber (Procedure) Regulations 2017, and the Rules set out in the schedule may be cited as The First-tier Tribunal for Scotland Tax Chamber Rules of Procedure 2017.
 
 (2) These Regulations come into force on 24th April 2017.
 
-## 2. Application of the Rules set out in the schedule[^key-72ebaa67b0f8c06ffcdc4a68c0f6c3f1]
+## 2. Application of the Rules set out in the schedule[^c-72ebaa67b0f8c06ffcdc4a68c0f6c3f1]
 
 The Rules in the schedule apply to proceedings before the First-tier Tribunal for Scotland Tax Chamber, when exercising the functions allocated to it by regulation 2(1) of the First-tier Tribunal for Scotland (Transfer of Functions of the First-tier Tax Tribunal for Scotland) Regulations 2017[^f00002].
 
@@ -74,13 +74,13 @@ Regulation 2
 
 ### PART 1 — Introduction
 
-#### 1. Interpretation[^key-20128a95d28471c54cd04eeef9f62857]
+#### 1. Interpretation[^c-20128a95d28471c54cd04eeef9f62857]
 
 In these Rules—
 
 - “the 2014 Act” means the Tribunals (Scotland) Act 2014;
 - “RSTPA 2014” means the Revenue Scotland and Tax Powers Act 2014[^f00003];
-- “[^key-bb6884944f9729a92e1bbfef38f84a03]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “[^c-bb6884944f9729a92e1bbfef38f84a03]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
 - “appellant” means—
   - (a) the person who starts proceedings (whether by notifying an appeal, by making an application, by a reference, or otherwise);
   - (b) in proceedings started jointly by more than one person, such persons acting jointly or each such person, as the context requires;
@@ -88,7 +88,7 @@ In these Rules—
 - “Basic case” means a case allocated to the Basic category under rule 24 (allocation of cases to categories);
 - “chairing member” means the chairing member of the First-tier Tribunal, who is the legal member of that tribunal or, as the case may be, the member chosen by the Chamber President in terms of rule 19(1);
 - “Chamber President” means the Chamber President of the First-tier Tribunal;
-- “[^key-5d6947c48d4501fec060029fb953d613]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “[^c-5d6947c48d4501fec060029fb953d613]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
 - “Complex case” means a case allocated to the Complex category under rule 24;
 - “Convention Rights” has the meaning given to it in section 1 of the Human Rights Act 1998[^f00004];
 - “Default Paper case” means a case allocated to the Default Paper category under rule 24;
@@ -99,14 +99,14 @@ In these Rules—
 - “interested party” means a person other than the appellant or respondent on whom the First-tier Tribunal has ordered the proceedings before it to be served;
 - “party” means a person who is (or was at the time that the First-tier Tribunal disposed of the proceedings) an appellant or respondent in proceedings before the First-tier Tribunal;
 - “practice direction” means a direction given under section 74 of the 2014 Act;
-- “[^key-35e3530bce3326c153e67d8f25c974c1]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+- “[^c-35e3530bce3326c153e67d8f25c974c1]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
 - “respondent” means—
   - (a) Revenue Scotland, where Revenue Scotland is not an appellant;
   - (b) in proceedings brought by Revenue Scotland alone, a person against whom the proceedings are brought or to whom the proceedings relate;
   - (c) in any case, a person substituted or added as a respondent under rule 9; and
 - “Standard case” means a case allocated to the Standard category under rule 24.
 
-#### 2. Overriding objective and parties’ obligation to co-operate with the First-tier Tribunal[^key-d49afd88bcf9c6b9bc04eb8ab0c05bec]
+#### 2. Overriding objective and parties’ obligation to co-operate with the First-tier Tribunal[^c-d49afd88bcf9c6b9bc04eb8ab0c05bec]
 
 (1) The overriding objective of these Rules is to enable the First-tier Tribunal to deal with cases fairly and justly.
 
@@ -128,14 +128,14 @@ In these Rules—
 - (a) help the First-tier Tribunal to further the overriding objective; and
 - (b) co-operate with the First-tier Tribunal generally.
 
-#### 3. Mediation[^key-13cbc0e5713dc35eaa3b7ff12bf54e64]
+#### 3. Mediation[^c-13cbc0e5713dc35eaa3b7ff12bf54e64]
 
 The First-tier Tribunal should seek, where appropriate—
 
 - (a) to bring to the attention of the parties the availability of mediation for the resolution of the dispute; and
 - (b) if the parties wish, and provided that it is compatible with the overriding objective, to facilitate the use of mediation.
 
-#### 4. Delegation to staff[^key-c376b3f244636c3ad73311558bef51f7]
+#### 4. Delegation to staff[^c-c376b3f244636c3ad73311558bef51f7]
 
 (1) Staff of the Scottish Courts and Tribunals Service may, with the approval of the Chamber President, carry out functions of a judicial nature permitted or required to be done by the First-tier Tribunal.
 
@@ -145,7 +145,7 @@ The First-tier Tribunal should seek, where appropriate—
 
 ### PART 2 — General Powers and Provisions
 
-#### 5. Case management powers[^key-0b6e855b414e87705fd96269ef772a8b]
+#### 5. Case management powers[^c-0b6e855b414e87705fd96269ef772a8b]
 
 (1) Subject to the provisions of the 2014 Act and these Rules, the First-tier Tribunal may regulate its own procedure.
 
@@ -174,7 +174,7 @@ The First-tier Tribunal should seek, where appropriate—
   - (ii) the First-tier Tribunal considers that the other court or tribunal is a more appropriate forum for the determination of the case;
 - (m) suspend the effect of its own decision pending the determination by the First-tier Tribunal or the Upper Tribunal, as the case may be, of an application for permission to appeal or an appeal.
 
-#### 5A. Compatibility question under the 2024 Act – raising, intimation and notice[^key-0ba1a0bb4d290f6fc8d31bfcb27b3138]
+#### 5A. Compatibility question under the 2024 Act – raising, intimation and notice[^c-0ba1a0bb4d290f6fc8d31bfcb27b3138]
 
 (1) This rule applies to—
 
@@ -218,7 +218,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the First-tier Tribunal must notify the relevant authority of this as soon as practicable.
 
-#### 6. Procedure for applying for and giving orders[^key-3c0e18dbeb59c5222f50456e8dfc0d64]
+#### 6. Procedure for applying for and giving orders[^c-3c0e18dbeb59c5222f50456e8dfc0d64]
 
 (1) The First-tier Tribunal may give an order on the application of one or more of the parties or on its own initiative.
 
@@ -231,7 +231,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) Before making an order, the First-tier Tribunal must afford parties an opportunity to make representations to it concerning whether the order should be made and the terms of the order.
 
-#### 7. Failure to comply with rules etc.[^key-610db668fd7768e303b7abbccbfbe531]
+#### 7. Failure to comply with rules etc.[^c-610db668fd7768e303b7abbccbfbe531]
 
 (1) An irregularity resulting from a failure to comply with any requirement in these Rules, a practice direction or an order does not of itself render void the proceedings or any step taken in the proceedings.
 
@@ -241,7 +241,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (b) requiring the failure to be remedied; or
 - (c) exercising its power under rule 8 (dismissal of a party’s case).
 
-#### 8. Dismissal of a party’s case[^key-52b35e63b258fe610aa2e300dc051fe8]
+#### 8. Dismissal of a party’s case[^c-52b35e63b258fe610aa2e300dc051fe8]
 
 (1) The First-tier Tribunal must dismiss the whole or a part of the proceedings if the First-tier Tribunal—
 
@@ -255,7 +255,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) The First-tier Tribunal may not dismiss the whole or a part of the proceedings under paragraph (1) or (2) without first giving the appellant an opportunity to make representations in relation to the proposed dismissal.
 
-#### 9. Addition, substitution and removal of parties[^key-c5d5c3f95f485698226fe2ecdbabee60]
+#### 9. Addition, substitution and removal of parties[^c-c5d5c3f95f485698226fe2ecdbabee60]
 
 (1) The First-tier Tribunal may make an order adding, substituting or removing a party as an appellant or a respondent including where—
 
@@ -268,13 +268,13 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) If the First-tier Tribunal refuses an application under paragraph (3) it must consider whether to permit the person who made the application to provide submissions or evidence to the First-tier Tribunal.
 
-#### 10. Orders for expenses[^key-a9be3515f47df91a7fcd8fa7adfd2f50]
+#### 10. Orders for expenses[^c-a9be3515f47df91a7fcd8fa7adfd2f50]
 
 (1) The First-tier Tribunal may make an order for expenses as taxed by the Auditor of the Court of Session against a party if that party’s act, omission or other conduct has caused any other party to incur expense which it would be unreasonable for that other party to be expected to pay, with the maximum recoverable expenses being the expenses incurred.
 
 (2) The First-tier Tribunal, of its own initiative or on the application of a party or the parties, may in exceptional circumstances fix by order a sum payable by a party in discharge of an award of expenses.
 
-#### 11. Representatives[^key-ce37ddfa7528073876be56df9ef80ed4]
+#### 11. Representatives[^c-ce37ddfa7528073876be56df9ef80ed4]
 
 (1) A party may be represented in any proceedings by a legal representative or lay representative whose details must be communicated to the First-tier Tribunal prior to any hearing.
 
@@ -289,7 +289,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (a) it is of the opinion that the lay representative is an unsuitable person to act as a lay representative (whether generally or in the proceedings concerned); or
 - (b) it is satisfied that to do so would be in the interests of the efficient administration of justice.
 
-#### 12. Supporters[^key-75a73262c8742bf4d2aa56f1c439dd75]
+#### 12. Supporters[^c-75a73262c8742bf4d2aa56f1c439dd75]
 
 (1) A party who is an individual may be accompanied by another person to act as a supporter.
 
@@ -313,7 +313,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (a) it is of the opinion that the supporter is an unsuitable person to act as a supporter (whether generally or in the proceedings concerned); or
 - (b) it is satisfied that to do so would be in the interests of the efficient administration of justice.
 
-#### 13. Calculating time[^key-430ac5085b9e94a533400cd34a9783a7]
+#### 13. Calculating time[^c-430ac5085b9e94a533400cd34a9783a7]
 
 (1) An act required by these Rules, a practice direction or an order to be done on or by a particular day must be done before 5pm on that day.
 
@@ -321,7 +321,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) In this rule “working day” means any day except a Saturday or Sunday or a bank holiday in Scotland under section 1 of the Banking and Financial Dealings Act 1971.
 
-#### 14. Sending and delivery of documents[^key-3e5dc3ee56cb87f47fb8f33f0ad13d77]
+#### 14. Sending and delivery of documents[^c-3e5dc3ee56cb87f47fb8f33f0ad13d77]
 
 (1) Any document to be provided to the First-tier Tribunal under these Rules, a practice direction or an order must be—
 
@@ -336,11 +336,11 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (5) The First-tier Tribunal and each party may assume that the address provided by a party or its representative is and remains the address to which documents should be sent or delivered until receiving notification to the contrary.
 
-#### 15. Disclosure of documents and information[^key-61acf85111b1d1b23c3f7fc51b63744a]
+#### 15. Disclosure of documents and information[^c-61acf85111b1d1b23c3f7fc51b63744a]
 
 The First-tier Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties, make an order with a view to preventing or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention Rights of any person.
 
-#### 16. Evidence and submissions[^key-0033d7cde3f1af9ebc7740b7fa677f65]
+#### 16. Evidence and submissions[^c-0033d7cde3f1af9ebc7740b7fa677f65]
 
 (1) Without restriction on the general powers in rule 5(1) and (2) (case management powers), the First-tier Tribunal may give orders as to—
 
@@ -361,7 +361,7 @@ The First-tier Tribunal may at any stage of the proceedings, on its own initiati
 
 (3) The First-tier Tribunal may consent to a witness giving, or require any witness to give, evidence on oath, and may administer an oath for that purpose.
 
-#### 17. Citation of witnesses and orders to answer questions or produce documents[^key-9ede7d56fdb2056cf8b6c6b9ad1fb8a1]
+#### 17. Citation of witnesses and orders to answer questions or produce documents[^c-9ede7d56fdb2056cf8b6c6b9ad1fb8a1]
 
 (1) On the application of a party or on its own initiative, the First-tier Tribunal may—
 
@@ -375,7 +375,7 @@ The First-tier Tribunal may at any stage of the proceedings, on its own initiati
 - (c) state that the person on whom the requirement is imposed may apply to the First-tier Tribunal to vary or set aside the citation or order, if the person did not have an opportunity to object to it before it was made or issued; and
 - (d) state the consequences of failure to comply with the citation or order.
 
-#### 18. Withdrawal[^key-47b2b905c79169506768e30f5717d681]
+#### 18. Withdrawal[^c-47b2b905c79169506768e30f5717d681]
 
 (1) A party may give notice to the First-tier Tribunal of the withdrawal of the case made by it in the First-tier Tribunal proceedings, or any part of that case—
 
@@ -384,23 +384,23 @@ The First-tier Tribunal may at any stage of the proceedings, on its own initiati
 
 (2) The First-tier Tribunal must notify each party of its receipt of a withdrawal under this rule.
 
-#### 19. Chairing member and voting[^key-69ea7dc370859bed24d3f3f70157b1eb]
+#### 19. Chairing member and voting[^c-69ea7dc370859bed24d3f3f70157b1eb]
 
 (1) Where a matter is to be decided by two or more members of the First-tier Tribunal, the Chamber President must determine the chairing member.
 
 (2) The decision of the First-tier Tribunal on an application must be made by majority with the chairing member having a casting vote.
 
-#### 20. Venue for hearings[^key-95ded35d729812dd9afc9dc3fcb43f64]
+#### 20. Venue for hearings[^c-95ded35d729812dd9afc9dc3fcb43f64]
 
 The First-tier Tribunal is to be convened at such time and place in Scotland as the President of Tribunals may determine.
 
-#### 21. Enforcement of decisions[^key-cf8692b3eef803b0103226ac1380f87c]
+#### 21. Enforcement of decisions[^c-cf8692b3eef803b0103226ac1380f87c]
 
 An order for the payment of a sum payable in pursuance of a decision of the First-tier Tribunal, or a copy of such an order certified by the First-tier Tribunal, may be enforced as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
 ### PART 3 — Procedure for cases in the First-tier Tribunal
 
-#### 22. Proceedings concerning late notice of review[^key-44b2f4081c9eb256d0c253d477f02b13]
+#### 22. Proceedings concerning late notice of review[^c-44b2f4081c9eb256d0c253d477f02b13]
 
 (1) A person may apply to the First-tier Tribunal to be allowed a late notice of review under section 236(2)(b) of RSTPA 2014 (late notice of review) only if—
 
@@ -409,7 +409,7 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (2) Where permission to be allowed a late notice of review is sought under paragraph (1), the notice of review must include a request for the permission referred to in section 236(2)(b) of RSTPA 2014 and the reason why the notice of review was not provided in time.
 
-#### 23. Notice of appeal to the First-tier Tribunal[^key-ae85092680c4b8e0ac07785cbe90a8f6]
+#### 23. Notice of appeal to the First-tier Tribunal[^c-ae85092680c4b8e0ac07785cbe90a8f6]
 
 (1) The notice of appeal referred to in section 242(1) of RSTPA 2014 (notice of appeal) must include—
 
@@ -434,7 +434,7 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (5) When the First-tier Tribunal receives the notice of appeal, it must give notice of the proceedings to the respondent.
 
-#### 24. Allocation of cases to categories[^key-9b53549a72b4b8165ac6a483e4260466]
+#### 24. Allocation of cases to categories[^c-9b53549a72b4b8165ac6a483e4260466]
 
 (1) When the First-tier Tribunal receives a notice of appeal, the First-tier Tribunal must give an order allocating the case to one of the categories set out in paragraph (2).
 
@@ -455,7 +455,7 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (5) If a case is allocated as a Complex case, rule 29 (transfer of Complex cases to the Upper Tribunal) applies to the case.
 
-#### 25. Basic cases[^key-8ba0f480e6aa77625bcb23c820cdd525]
+#### 25. Basic cases[^c-8ba0f480e6aa77625bcb23c820cdd525]
 
 (1) This rule applies to Basic cases.
 
@@ -468,7 +468,7 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 - (a) as soon as reasonably practicable after becoming aware that such is the case; and
 - (b) in sufficient detail to enable the appellant to respond to such grounds at the hearing.
 
-#### 26. Respondent’s statement of case[^key-fe1dfd83513121426762b6f5e262b1f7]
+#### 26. Respondent’s statement of case[^c-fe1dfd83513121426762b6f5e262b1f7]
 
 (1) A respondent must send or deliver a statement of case to the First-tier Tribunal, the appellant and any other respondent so that it is received—
 
@@ -484,7 +484,7 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (4) If a respondent provides a statement of case to the First-tier Tribunal later than the time required by paragraph (1) or by any extension allowed under rule 5(3)(a) (case management powers), the statement of case must include a request for an extension of time and the reason why the statement of case was not provided in time.
 
-#### 27. Further steps in a Default Paper case[^key-a5d506d0aa6a3aca75599e0e2d608e07]
+#### 27. Further steps in a Default Paper case[^c-a5d506d0aa6a3aca75599e0e2d608e07]
 
 (1) This rule applies to Default Paper cases.
 
@@ -504,7 +504,7 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (7) If any party has made a written request to the First-tier Tribunal for a hearing, the First-tier Tribunal must hold a hearing before determining the case.
 
-#### 28. Further steps in a Standard or Complex case[^key-01dfd61ae8d2535320208cef78dacebc]
+#### 28. Further steps in a Standard or Complex case[^c-01dfd61ae8d2535320208cef78dacebc]
 
 (1) This rule applies to Standard and Complex cases.
 
@@ -515,13 +515,13 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (3) A party which has provided a list of documents under paragraph (2) must allow each other party to inspect or take copies of the documents on the list.
 
-#### 29. Transfer of Complex cases to the Upper Tribunal[^key-319e19614f003f58ddedd9f039e22187]
+#### 29. Transfer of Complex cases to the Upper Tribunal[^c-319e19614f003f58ddedd9f039e22187]
 
 (1) If a case has been allocated as a Complex case the First-tier Tribunal may, with the consent of the parties, refer a case or a preliminary issue to the Chamber President with a request that the case or issue be considered for transfer to the Upper Tribunal.
 
 (2) If a case or issue has been referred by the First-tier Tribunal under paragraph (1), the Chamber President may direct that the case or issue be transferred to and determined by the Upper Tribunal.
 
-#### 30. Decision with or without a hearing[^key-4cb2c5bf3fe596e6c7653aed0eafa174]
+#### 30. Decision with or without a hearing[^c-4cb2c5bf3fe596e6c7653aed0eafa174]
 
 (1) Subject to rule 27(6) (determination of a Default Paper case without a hearing) and the following paragraphs in this rule, the First-tier Tribunal must hold a hearing before making a decision which disposes of proceedings, or a part of proceedings, unless—
 
@@ -532,11 +532,11 @@ An order for the payment of a sum payable in pursuance of a decision of the Firs
 
 (3) The First-tier Tribunal may dispose of proceedings, or a part of proceedings, under rule 8 (dismissal of a party’s case) without a hearing.
 
-#### 31. Entitlement to attend a hearing[^key-7223e4f5994a0111fec0ec1381156585]
+#### 31. Entitlement to attend a hearing[^c-7223e4f5994a0111fec0ec1381156585]
 
 Subject to rules 11(5) (representatives), 12(6)(supporters) and 33(4) (public and private hearings and powers to exclude), each party is entitled to attend a hearing together with any legal or lay representative and supporter permitted respectively by rules 11 and 12.
 
-#### 32. Notice of hearings[^key-bb96f9247c09f974fcafb8b02b2a868c]
+#### 32. Notice of hearings[^c-bb96f9247c09f974fcafb8b02b2a868c]
 
 (1) The First-tier Tribunal must give each party entitled to attend a hearing reasonable notice of the time and place of any hearing (including any adjourned or postponed hearing) and any changes to the time and place of any hearing.
 
@@ -545,7 +545,7 @@ Subject to rules 11(5) (representatives), 12(6)(supporters) and 33(4) (public an
 - (a) with the parties’ consent; or
 - (b) in urgent or exceptional circumstances.
 
-#### 33. Public and private hearings[^key-33cbe6fd76ee599a37f23f8b9014a527]
+#### 33. Public and private hearings[^c-33cbe6fd76ee599a37f23f8b9014a527]
 
 (1) Subject to the following paragraphs, all hearings must be held in public.
 
@@ -570,14 +570,14 @@ Subject to rules 11(5) (representatives), 12(6)(supporters) and 33(4) (public an
 
 (6) When publishing a decision notice referred to in rule 35(2) (notice of decisions and reasons) resulting from a hearing which was held wholly or partly in private, the First-tier Tribunal must, so far as practicable, ensure that the report does not disclose information which was referred to only in a part of the hearing that was held in private (including such information which enables the identification of any person whose affairs were dealt with in the part of the hearing that was held in private) if to do so would undermine the purpose of holding the hearing in private.
 
-#### 34. Hearings in a party’s absence[^key-0e6ab149db18df19d9df5766c2f780ce]
+#### 34. Hearings in a party’s absence[^c-0e6ab149db18df19d9df5766c2f780ce]
 
 If a party fails to attend a hearing the First-tier Tribunal may proceed with the hearing if the First-tier Tribunal—
 
 - (a) is satisfied that the party has been notified of the hearing or that reasonable steps have been taken to notify the party of the hearing; and
 - (b) considers that it is in the interests of justice to proceed with the hearing.
 
-#### 35. Notice of decisions and reasons[^key-e4547545b5081b84af865c23eb252bfd]
+#### 35. Notice of decisions and reasons[^c-e4547545b5081b84af865c23eb252bfd]
 
 (1) Subject to the remainder of this rule, the First-tier Tribunal may give a decision orally at a hearing.
 
@@ -594,21 +594,21 @@ If a party fails to attend a hearing the First-tier Tribunal may proceed with th
 
 ### PART 4 — Correcting, Reviewing and Appealing decisions of the First-tier Tribunal
 
-#### 36. Interpretation[^key-6f1530585af2a9b5922503e39d1f65c0]
+#### 36. Interpretation[^c-6f1530585af2a9b5922503e39d1f65c0]
 
 In this Part—
 
 - “appeal” means the exercise of a right of appeal under section 46(1) of the 2014 Act (appeal from the Tribunal); and
 - “review” means the internal review provided for by section 43(1) of the 2014 Act (review of decisions).
 
-#### 37. Correction of clerical mistakes or accidental slips or omissions[^key-7bf21f799a4cdef254bd45aac94bd74a]
+#### 37. Correction of clerical mistakes or accidental slips or omissions[^c-7bf21f799a4cdef254bd45aac94bd74a]
 
 The First-tier Tribunal may at any time correct any clerical mistake or other accidental slip or omission contained in a decision, order or any document produced by it, by—
 
 - (a) sending notification of the amended decision or order, or a copy of the amended document to all parties; and
 - (b) making any necessary amendment to any information published in relation to the decision, order or document.
 
-#### 38. Application for permission to appeal a decision of the First-tier Tribunal[^key-1894f88be818e14bfbdec7d60977483e]
+#### 38. Application for permission to appeal a decision of the First-tier Tribunal[^c-1894f88be818e14bfbdec7d60977483e]
 
 (1) A person seeking permission to appeal must make a written application to the First-tier Tribunal for permission to appeal.
 
@@ -618,7 +618,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (b) identify the alleged point or points of law on which the person making the application wishes to appeal; and
 - (c) state the result the party making the application is seeking.
 
-#### 39. First-tier Tribunal’s consideration of application for permission to appeal[^key-b02f1565f0a84752b30f2310875bb940]
+#### 39. First-tier Tribunal’s consideration of application for permission to appeal[^c-b02f1565f0a84752b30f2310875bb940]
 
 (1) The First-tier Tribunal must decide whether to give permission to appeal on any point of law.
 
@@ -629,7 +629,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (a) a statement of its reasons for such a refusal; and
 - (b) notification of the right to make an application to the Upper Tribunal for permission to appeal and the time within which, and the method by which, such an application must be made.
 
-#### 39A. Reference of compatibility question to the Court of Session[^key-4b22fe37c5f456c5f93f67067b8c3b10]
+#### 39A. Reference of compatibility question to the Court of Session[^c-4b22fe37c5f456c5f93f67067b8c3b10]
 
 (1) If the First-tier Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -643,7 +643,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 (4) Where a relevant authority does not take part as a party to proceedings at first instance, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
 
-#### 40. Review of a decision[^key-114858a4a575ae3e77a249d93c895066]
+#### 40. Review of a decision[^c-114858a4a575ae3e77a249d93c895066]
 
 (1) The First-tier Tribunal may either at its own instance or at the request of a party review any decision made by it where it is necessary in the interests of justice to do so.
 
@@ -678,104 +678,104 @@ The Tribunals (Scotland) 2014 Act created a new structure for tribunals dealing 
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-75309211de74dd0b24e3cdb554ede3de]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/69/regulation/1) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-75309211de74dd0b24e3cdb554ede3de]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/69/regulation/1) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-72ebaa67b0f8c06ffcdc4a68c0f6c3f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/69/regulation/2) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-72ebaa67b0f8c06ffcdc4a68c0f6c3f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/69/regulation/2) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
 [^f00002]: Footnote: S.S.I. 2017/XXX.
 
-[^key-20128a95d28471c54cd04eeef9f62857]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/1) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-20128a95d28471c54cd04eeef9f62857]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/1) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
 [^f00003]: Footnote: [2014 asp 16](https://www.legislation.gov.uk/asp/2014/16).
 
-[^key-bb6884944f9729a92e1bbfef38f84a03]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/a/i)
+[^c-bb6884944f9729a92e1bbfef38f84a03]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/a/i)
 
-[^key-5d6947c48d4501fec060029fb953d613]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/a/ii)
+[^c-5d6947c48d4501fec060029fb953d613]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/a/ii)
 
 [^f00004]: Footnote: [1998 c.22](https://www.legislation.gov.uk/ukpga/1998/22).
 
-[^key-35e3530bce3326c153e67d8f25c974c1]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/a/iii)
+[^c-35e3530bce3326c153e67d8f25c974c1]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/a/iii)
 
-[^key-d49afd88bcf9c6b9bc04eb8ab0c05bec]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/2) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-d49afd88bcf9c6b9bc04eb8ab0c05bec]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/2) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-13cbc0e5713dc35eaa3b7ff12bf54e64]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/3) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-13cbc0e5713dc35eaa3b7ff12bf54e64]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/3) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-c376b3f244636c3ad73311558bef51f7]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/4) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-c376b3f244636c3ad73311558bef51f7]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/4) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-0b6e855b414e87705fd96269ef772a8b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/5) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-0b6e855b414e87705fd96269ef772a8b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/5) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-0ba1a0bb4d290f6fc8d31bfcb27b3138]: Textual amendment: [Sch. rule 5A](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/5A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/b)
+[^c-0ba1a0bb4d290f6fc8d31bfcb27b3138]: Textual amendment: [Sch. rule 5A](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/5A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/b)
 
-[^key-3c0e18dbeb59c5222f50456e8dfc0d64]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/6) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-3c0e18dbeb59c5222f50456e8dfc0d64]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/6) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-610db668fd7768e303b7abbccbfbe531]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/7) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-610db668fd7768e303b7abbccbfbe531]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/7) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-52b35e63b258fe610aa2e300dc051fe8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/8) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-52b35e63b258fe610aa2e300dc051fe8]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/8) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-c5d5c3f95f485698226fe2ecdbabee60]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/9) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-c5d5c3f95f485698226fe2ecdbabee60]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/9) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-a9be3515f47df91a7fcd8fa7adfd2f50]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/10) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-a9be3515f47df91a7fcd8fa7adfd2f50]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/10) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-ce37ddfa7528073876be56df9ef80ed4]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/11) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-ce37ddfa7528073876be56df9ef80ed4]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/11) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-75a73262c8742bf4d2aa56f1c439dd75]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/12) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-75a73262c8742bf4d2aa56f1c439dd75]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/12) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-430ac5085b9e94a533400cd34a9783a7]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/13) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-430ac5085b9e94a533400cd34a9783a7]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/13) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-3e5dc3ee56cb87f47fb8f33f0ad13d77]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/14) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-3e5dc3ee56cb87f47fb8f33f0ad13d77]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/14) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-61acf85111b1d1b23c3f7fc51b63744a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/15) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-61acf85111b1d1b23c3f7fc51b63744a]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/15) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-0033d7cde3f1af9ebc7740b7fa677f65]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/16) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-0033d7cde3f1af9ebc7740b7fa677f65]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/16) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-9ede7d56fdb2056cf8b6c6b9ad1fb8a1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/17) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-9ede7d56fdb2056cf8b6c6b9ad1fb8a1]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/17) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-47b2b905c79169506768e30f5717d681]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/18) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-47b2b905c79169506768e30f5717d681]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/18) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-69ea7dc370859bed24d3f3f70157b1eb]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/19) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-69ea7dc370859bed24d3f3f70157b1eb]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/19) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-95ded35d729812dd9afc9dc3fcb43f64]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/20) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-95ded35d729812dd9afc9dc3fcb43f64]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/20) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-cf8692b3eef803b0103226ac1380f87c]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/21) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-cf8692b3eef803b0103226ac1380f87c]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/21) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-44b2f4081c9eb256d0c253d477f02b13]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/22) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-44b2f4081c9eb256d0c253d477f02b13]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/22) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-ae85092680c4b8e0ac07785cbe90a8f6]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/23) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-ae85092680c4b8e0ac07785cbe90a8f6]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/23) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-9b53549a72b4b8165ac6a483e4260466]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/24) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-9b53549a72b4b8165ac6a483e4260466]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/24) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-8ba0f480e6aa77625bcb23c820cdd525]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/25) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-8ba0f480e6aa77625bcb23c820cdd525]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/25) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-fe1dfd83513121426762b6f5e262b1f7]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/26) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-fe1dfd83513121426762b6f5e262b1f7]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/26) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-a5d506d0aa6a3aca75599e0e2d608e07]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/27) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-a5d506d0aa6a3aca75599e0e2d608e07]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/27) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-01dfd61ae8d2535320208cef78dacebc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/28) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-01dfd61ae8d2535320208cef78dacebc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/28) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-319e19614f003f58ddedd9f039e22187]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/29) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-319e19614f003f58ddedd9f039e22187]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/29) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-4cb2c5bf3fe596e6c7653aed0eafa174]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/30) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-4cb2c5bf3fe596e6c7653aed0eafa174]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/30) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-7223e4f5994a0111fec0ec1381156585]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/31) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-7223e4f5994a0111fec0ec1381156585]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/31) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-bb96f9247c09f974fcafb8b02b2a868c]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/32) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-bb96f9247c09f974fcafb8b02b2a868c]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/32) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-33cbe6fd76ee599a37f23f8b9014a527]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/33) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-33cbe6fd76ee599a37f23f8b9014a527]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/33) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-0e6ab149db18df19d9df5766c2f780ce]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/34) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-0e6ab149db18df19d9df5766c2f780ce]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/34) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-e4547545b5081b84af865c23eb252bfd]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/35) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-e4547545b5081b84af865c23eb252bfd]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/35) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-6f1530585af2a9b5922503e39d1f65c0]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/36) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-6f1530585af2a9b5922503e39d1f65c0]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/36) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-7bf21f799a4cdef254bd45aac94bd74a]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/37) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-7bf21f799a4cdef254bd45aac94bd74a]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/37) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-1894f88be818e14bfbdec7d60977483e]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/38) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-1894f88be818e14bfbdec7d60977483e]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/38) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-b02f1565f0a84752b30f2310875bb940]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/39) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-b02f1565f0a84752b30f2310875bb940]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/39) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
-[^key-4b22fe37c5f456c5f93f67067b8c3b10]: Textual amendment: [Sch. rule 39A](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/39A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/c)
+[^c-4b22fe37c5f456c5f93f67067b8c3b10]: Textual amendment: [Sch. rule 39A](https://www.legislation.gov.uk/ssi/2017/69/schedule/rule/39A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/5/2/c)
 
-[^key-114858a4a575ae3e77a249d93c895066]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/40) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
+[^c-114858a4a575ae3e77a249d93c895066]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ssi/2017/69/schedule/paragraph/40) in force at 24.4.2017, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2017/69/regulation/1/2)
 
 [^f00005]: Footnote: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).

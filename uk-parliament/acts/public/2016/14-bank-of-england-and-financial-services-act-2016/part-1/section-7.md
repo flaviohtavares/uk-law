@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Monetary Policy Committee: membership[^key-c27599903a0f2eff20bb523a903a9726]
+## 7. Monetary Policy Committee: membership[^c-c27599903a0f2eff20bb523a903a9726]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c27599903a0f2eff20bb523a903a9726]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/14/section/7) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/h)
+[^c-c27599903a0f2eff20bb523a903a9726]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2016/14/section/7) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/h)

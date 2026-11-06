@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.1. Grounds for resignation[^key-3ad252d96f620f905b1b213ec66eca93]
+## 6.1. Grounds for resignation[^c-3ad252d96f620f905b1b213ec66eca93]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ad252d96f620f905b1b213ec66eca93]: Commencement: Rule 6.1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-3ad252d96f620f905b1b213ec66eca93]: Commencement: Rule 6.1 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

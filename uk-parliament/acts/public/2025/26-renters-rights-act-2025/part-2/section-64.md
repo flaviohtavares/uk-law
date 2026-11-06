@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Landlord redress schemes[^key-9f081be72fcdb181aaf4f9ecd7cc8880]
+## 64. Landlord redress schemes[^c-9f081be72fcdb181aaf4f9ecd7cc8880]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f081be72fcdb181aaf4f9ecd7cc8880]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-9f081be72fcdb181aaf4f9ecd7cc8880]: Commencement: S. 64 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Direction to co-operate with provision of support and assistance[^key-8222035b8e997b869611bf650cb6e314]
+## 105. Direction to co-operate with provision of support and assistance[^c-8222035b8e997b869611bf650cb6e314]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ for the purposes of enabling support and assistance to be provided to the suppor
 
 ## Annotations
 
-[^key-8222035b8e997b869611bf650cb6e314]: Commencement: S. 105 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)
+[^c-8222035b8e997b869611bf650cb6e314]: Commencement: S. 105 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/297/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21C. Requirement to appoint a UK responsible person for active implantable medical devices[^key-984cada5ec4efa45c0aef7a02e12e803]
+## 21C. Requirement to appoint a UK responsible person for active implantable medical devices[^c-984cada5ec4efa45c0aef7a02e12e803]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984cada5ec4efa45c0aef7a02e12e803]: Textual amendment: Reg. 21C omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/221/regulation/15)
+[^c-984cada5ec4efa45c0aef7a02e12e803]: Textual amendment: Reg. 21C omitted (21.3.2024) by virtue of [The Medical Devices (In Vitro Diagnostic Devices etc.) (Amendment) Regulations 2024 (S.I. 2024/221)](https://www.legislation.gov.uk/uksi/2024/221), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/221/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/221/regulation/15)

@@ -28,9 +28,9 @@ summary: ''
   - (iii) is not accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations; and
 - (b) either—
   - (i) the application for planning permission to which the subsequent application relates was accompanied by a statement referred to by the applicant as an environmental statement for the purposes of these Regulations; or
-  - (ii) the application is for the approval of a matter where the approval is required by or under a condition to which planning permission deemed by a qualifying enactment[^key-185b707eed6df89f09b4f76ffed7213f] is subject.
+  - (ii) the application is for the approval of a matter where the approval is required by or under a condition to which planning permission deemed by a qualifying enactment[^c-185b707eed6df89f09b4f76ffed7213f] is subject.
 
-(1A)[^key-e1be50f5f6b42813c9147b3642ab183c] In paragraph (1)(b)(ii), “**qualifying enactment**” means—
+(1A)[^c-e1be50f5f6b42813c9147b3642ab183c] In paragraph (1)(b)(ii), “**qualifying enactment**” means—
 
 - (a) section 10(1) of the Crossrail Act 2008,
 - (b) section 20(1) or 50(5)(a) of the High Speed Rail (London - West Midlands) Act 2017, or
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-185b707eed6df89f09b4f76ffed7213f]: Textual amendment: Words in [reg. 9(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/571/regulation/9/1/b/ii) substituted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 55(2)(a)](https://www.legislation.gov.uk/ukpga/2021/2/section/55/2/a), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-185b707eed6df89f09b4f76ffed7213f]: Textual amendment: Words in [reg. 9(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/571/regulation/9/1/b/ii) substituted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 55(2)(a)](https://www.legislation.gov.uk/ukpga/2021/2/section/55/2/a), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
 
-[^key-e1be50f5f6b42813c9147b3642ab183c]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2017/571/regulation/9/1A) inserted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/55/2/b), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-e1be50f5f6b42813c9147b3642ab183c]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2017/571/regulation/9/1A) inserted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 55(2)(b)](https://www.legislation.gov.uk/ukpga/2021/2/section/55/2/b), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)

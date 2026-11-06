@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Appointment of supervisor[^key-984aecc494b4cc70a639a0f57ce1b989]
+## 49. Appointment of supervisor[^c-984aecc494b4cc70a639a0f57ce1b989]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-984aecc494b4cc70a639a0f57ce1b989]: Commencement: S. 49 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-984aecc494b4cc70a639a0f57ce1b989]: Commencement: S. 49 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

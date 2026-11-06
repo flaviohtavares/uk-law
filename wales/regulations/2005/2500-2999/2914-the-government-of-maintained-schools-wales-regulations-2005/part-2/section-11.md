@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Sponsor Governors[^key-c9020ff57cabb4eedfc8f24a1997a30a]
+## 11. Sponsor Governors[^c-c9020ff57cabb4eedfc8f24a1997a30a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In these Regulations “sponsor governor” (“*noddwr-lywodraethwr*”) means 
 
 ## Annotations
 
-[^key-c9020ff57cabb4eedfc8f24a1997a30a]: Commencement: Reg. 11 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-c9020ff57cabb4eedfc8f24a1997a30a]: Commencement: Reg. 11 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)

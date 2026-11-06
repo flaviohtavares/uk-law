@@ -22,9 +22,9 @@ summary: ''
 
 (1) This Article applies where an accused person is convicted in the course of proceedings for an offence in a magistrates' court or the Crown Court.
 
-(2) If it appears to the court by or before which the accused is convicted that it is likely that he will be held in custody or detained in hospital[^key-a9e2c9a474d181d01e6dd4e50e6cddc6] during any sentencing hearing for the offence, the court may give a live link direction under this Article in relation to that hearing
+(2) If it appears to the court by or before which the accused is convicted that it is likely that he will be held in custody or detained in hospital[^c-a9e2c9a474d181d01e6dd4e50e6cddc6] during any sentencing hearing for the offence, the court may give a live link direction under this Article in relation to that hearing
 
-(3) A live link direction under this Article is a direction requiring the accused, if he is being held in custody or detained in hospital during the hearing, to attend it through a live link from the place at which he is being held or detained[^key-f965c059e209c2733a8631a994c23e94] .
+(3) A live link direction under this Article is a direction requiring the accused, if he is being held in custody or detained in hospital during the hearing, to attend it through a live link from the place at which he is being held or detained[^c-f965c059e209c2733a8631a994c23e94] .
 
 (4) A live link direction under this Article—
 
@@ -52,6 +52,6 @@ The court may exercise this power of its own motion or on an application by a pa
 
 ## Annotations
 
-[^key-a9e2c9a474d181d01e6dd4e50e6cddc6]: Textual amendment: Words in [art. 81(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/81/2)[(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/81/3) inserted (29.4.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 54(1)(a)](https://www.legislation.gov.uk/nia/2015/9/section/54/1/a), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2) (with [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/6/1)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(c)](https://www.legislation.gov.uk/nisr/2016/136/article/4/c)
+[^c-a9e2c9a474d181d01e6dd4e50e6cddc6]: Textual amendment: Words in [art. 81(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/81/2)[(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/81/3) inserted (29.4.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 54(1)(a)](https://www.legislation.gov.uk/nia/2015/9/section/54/1/a), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2) (with [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/6/1)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(c)](https://www.legislation.gov.uk/nisr/2016/136/article/4/c)
 
-[^key-f965c059e209c2733a8631a994c23e94]: Textual amendment: Words in [art. 81(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/81/3) added (29.4.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 54(2)(a)](https://www.legislation.gov.uk/nia/2015/9/section/54/2/a), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2) (with [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/6/1)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(c)](https://www.legislation.gov.uk/nisr/2016/136/article/4/c)
+[^c-f965c059e209c2733a8631a994c23e94]: Textual amendment: Words in [art. 81(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/81/3) added (29.4.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 54(2)(a)](https://www.legislation.gov.uk/nia/2015/9/section/54/2/a), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2) (with [Sch. 8 para. 6(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/6/1)); [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(c)](https://www.legislation.gov.uk/nisr/2016/136/article/4/c)

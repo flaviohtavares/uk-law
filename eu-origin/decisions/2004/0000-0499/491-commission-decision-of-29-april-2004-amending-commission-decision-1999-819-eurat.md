@@ -35,18 +35,18 @@ amending Commission Decision 1999/819/Euratom of 16 November 1999 concerning the
 
 (2004/491/Euratom) (revoked) (revoked)
 
-[^key-5661142ca4db5f731df422a1dd5aa033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5661142ca4db5f731df422a1dd5aa033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5661142ca4db5f731df422a1dd5aa033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5661142ca4db5f731df422a1dd5aa033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5661142ca4db5f731df422a1dd5aa033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5661142ca4db5f731df422a1dd5aa033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5661142ca4db5f731df422a1dd5aa033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5661142ca4db5f731df422a1dd5aa033] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5661142ca4db5f731df422a1dd5aa033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5661142ca4db5f731df422a1dd5aa033]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5661142ca4db5f731df422a1dd5aa033]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-5661142ca4db5f731df422a1dd5aa033]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

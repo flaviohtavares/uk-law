@@ -22,12 +22,12 @@ summary: ''
 
 (introduced by section 331(2) and (3))
 
-### Part 1 — Repeals[^key-711c1f32c9e08f8f287f73b9795ac26a]
+### Part 1 — Repeals[^c-711c1f32c9e08f8f287f73b9795ac26a]
 
 | *Enactment* | *Extent of repeal* |
 | --- | --- |
 | The National Health Service (Scotland) Act 1978 (c. 29) | In section 102, paragraph (a) of subsection (4), the word “or” immediately following that paragraph and subsection (5). |
-| The Mental Health (Scotland) Act 1984 (c. 36) | The whole Act with the exception of section 10(1)(b) and (c) and (2) and section 95[^key-6d3ea8e6b470119abbb24aba3e57d789]. |
+| The Mental Health (Scotland) Act 1984 (c. 36) | The whole Act with the exception of section 10(1)(b) and (c) and (2) and section 95[^c-6d3ea8e6b470119abbb24aba3e57d789]. |
 | The Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73) | Section 51(2)(b). |
 | The Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33) | In section 7(9), in paragraph (c) of the definition of “the managers”, the words from “a State Hospital Management Committee” to “constituted)”. |
 | The Children Act 1989 (c. 41) | In Schedule 13, paragraph 50. |
@@ -40,7 +40,7 @@ summary: ''
 | The Children (Scotland) Act 1995 (c. 36) | In Schedule 4, paragraph 33. |
 | The Criminal Law (Consolidation) (Scotland) Act 1995 (c. 39) | Section 13(3). |
 | The Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40) | In Schedule 4, paragraph 50. |
-| The Criminal Procedure (Scotland) Act 1995 (c. 46) | In section 52, subsections (2) to (7).<br>In section 58, subsection (1); in subsections (2) and (3), the words “(1) or”; subsections (4) and (5); in subsection (7), the words “hospital order or” and [^key-83192c8f82be7ee89e674b3a0c5de5a0]...; subsection (9); subsection (10); in subsection (11), the words “subsection (1) of”.<br>Section 59(3).<br>In section 200(9), the words “within 24 hours of his remand or, as the case may be, committal,”.<br>In section 210(1), in paragraphs (a) and (c)(iii), the words “52, 53 or”.<br>In section 230(1), the words “, not extending beyond 12 months from the date of the requirement,”.<br>In section 307(1), the definitions of “hospital order”, “residential establishment” and “responsible medical officer”. |
+| The Criminal Procedure (Scotland) Act 1995 (c. 46) | In section 52, subsections (2) to (7).<br>In section 58, subsection (1); in subsections (2) and (3), the words “(1) or”; subsections (4) and (5); in subsection (7), the words “hospital order or” and [^c-83192c8f82be7ee89e674b3a0c5de5a0]...; subsection (9); subsection (10); in subsection (11), the words “subsection (1) of”.<br>Section 59(3).<br>In section 200(9), the words “within 24 hours of his remand or, as the case may be, committal,”.<br>In section 210(1), in paragraphs (a) and (c)(iii), the words “52, 53 or”.<br>In section 230(1), the words “, not extending beyond 12 months from the date of the requirement,”.<br>In section 307(1), the definitions of “hospital order”, “residential establishment” and “responsible medical officer”. |
 | The Mental Health (Patients in the Community) Act 1995 (c. 52) | Sections 4 to 6.<br>Schedule 2. |
 | The Crime (Sentences) Act 1997 (c. 43) | In schedule 3, paragraphs 6 to 10. |
 | The Crime and Punishment (Scotland) Act 1997 (c. 48) | Sections 7 and 8.<br>In Schedule 1, paragraph 9. |
@@ -54,7 +54,7 @@ summary: ''
 | The International Criminal Court (Scotland) Act 2001 (asp 13) | Section 25. |
 | The Scottish Public Services Ombudsman Act 2002 (asp 11) | In schedule 6, paragraph 6. |
 
-### Part 2 — Revocations[^key-764081f7c005297bf2ccb6beef67794a]
+### Part 2 — Revocations[^c-764081f7c005297bf2ccb6beef67794a]
 
 | *Enactment* | *Extent of repeal* |
 | --- | --- |
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-711c1f32c9e08f8f287f73b9795ac26a]: Commencement: Sch. 5 Pt. 1 in force at 5.10.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-711c1f32c9e08f8f287f73b9795ac26a]: Commencement: Sch. 5 Pt. 1 in force at 5.10.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-6d3ea8e6b470119abbb24aba3e57d789]: Textual amendment: Words in Sch. 5 inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(28)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/28)
+[^c-6d3ea8e6b470119abbb24aba3e57d789]: Textual amendment: Words in Sch. 5 inserted (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [sch. 1 para. 32(28)](https://www.legislation.gov.uk/ssi/2005/465/schedule/1/paragraph/32/28)
 
-[^key-83192c8f82be7ee89e674b3a0c5de5a0]: Textual amendment: Words in Sch. 5 repealed (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
+[^c-83192c8f82be7ee89e674b3a0c5de5a0]: Textual amendment: Words in Sch. 5 repealed (27.9.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Modification of Enactments) Order 2005 (S.S.I. 2005/465)](https://www.legislation.gov.uk/ssi/2005/465), [art. 1](https://www.legislation.gov.uk/ssi/2005/465/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/465/schedule/2)
 
-[^key-764081f7c005297bf2ccb6beef67794a]: Commencement: Sch. 5 Pt. 2 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-764081f7c005297bf2ccb6beef67794a]: Commencement: Sch. 5 Pt. 2 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

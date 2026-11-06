@@ -29,8 +29,8 @@ summary: ''
 
 (3) If the aircraft carries two or more pilots (whether or not it is required to do so) and is flying on a flight for the purpose of the public transport of passengers, the pilot in command must remain at the controls during take-off and landing.
 
-(4) An operator must not permit a helicopter rotor to be turned under power for the purpose of making a flight unless there is a person at the controls entitled in accordance with article 137[^key-d62d27aa6b2877bcbf44ced995fbbcb6] to act as pilot in command of the helicopter.
+(4) An operator must not permit a helicopter rotor to be turned under power for the purpose of making a flight unless there is a person at the controls entitled in accordance with article 137[^c-d62d27aa6b2877bcbf44ced995fbbcb6] to act as pilot in command of the helicopter.
 
 ## Annotations
 
-[^key-d62d27aa6b2877bcbf44ced995fbbcb6]: Textual amendment: Word in [art. 70(4)](https://www.legislation.gov.uk/uksi/2016/765/article/70/4) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [18](https://www.legislation.gov.uk/uksi/2017/1112/article/18)
+[^c-d62d27aa6b2877bcbf44ced995fbbcb6]: Textual amendment: Word in [art. 70(4)](https://www.legislation.gov.uk/uksi/2016/765/article/70/4) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [18](https://www.legislation.gov.uk/uksi/2017/1112/article/18)

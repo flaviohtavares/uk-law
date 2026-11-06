@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 175. Procedural requirements[^key-22bc00a36e05d3361a086bc31399da04][^key-b679e466e931faa24805b327b012a048]
+## 175. Procedural requirements[^c-22bc00a36e05d3361a086bc31399da04][^c-b679e466e931faa24805b327b012a048]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ and may provide that such steps are to be treated as compliance, in whole or in 
 
 ## Annotations
 
-[^key-22bc00a36e05d3361a086bc31399da04]: Commencement: S. 175 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-22bc00a36e05d3361a086bc31399da04]: Commencement: S. 175 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-b679e466e931faa24805b327b012a048]: Commencement: [S. 175](https://www.legislation.gov.uk/asc/2023/3/section/175) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-b679e466e931faa24805b327b012a048]: Commencement: [S. 175](https://www.legislation.gov.uk/asc/2023/3/section/175) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

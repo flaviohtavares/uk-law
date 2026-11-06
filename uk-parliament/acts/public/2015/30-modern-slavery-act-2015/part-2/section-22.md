@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Appeals[^key-a22e2e43d1eb2c7384123f02c164e294]
+## 22. Appeals[^c-a22e2e43d1eb2c7384123f02c164e294]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a22e2e43d1eb2c7384123f02c164e294]: Commencement: S. 22 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)
+[^c-a22e2e43d1eb2c7384123f02c164e294]: Commencement: S. 22 in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/b)

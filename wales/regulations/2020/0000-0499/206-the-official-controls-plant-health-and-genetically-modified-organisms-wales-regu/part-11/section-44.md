@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Offence relating to the disclosure of information held by Revenue and Customs[^key-e8cbbce6b4daaf5e83a538cdd59293e0]
+## 44. Offence relating to the disclosure of information held by Revenue and Customs[^c-e8cbbce6b4daaf5e83a538cdd59293e0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A person commits an offence if the person discloses any information received fro
 
 ## Annotations
 
-[^key-e8cbbce6b4daaf5e83a538cdd59293e0]: Commencement: Reg. 44 in force at 27.3.2020, see reg. 1
+[^c-e8cbbce6b4daaf5e83a538cdd59293e0]: Commencement: Reg. 44 in force at 27.3.2020, see reg. 1

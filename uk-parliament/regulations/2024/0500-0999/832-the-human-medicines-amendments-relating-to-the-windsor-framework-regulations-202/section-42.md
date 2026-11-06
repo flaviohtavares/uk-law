@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Substitution of regulation 53B[^key-f7879d0f442b3281e6a3a8f5f9a5e50a]
+## 42. Substitution of regulation 53B[^c-f7879d0f442b3281e6a3a8f5f9a5e50a]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ For regulation 53B (application for UKMA(UK) relating to similar biological medi
 
 ## Annotations
 
-[^key-f7879d0f442b3281e6a3a8f5f9a5e50a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2024/832/regulation/42) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-f7879d0f442b3281e6a3a8f5f9a5e50a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2024/832/regulation/42) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00053]: Footnote: Regulation 53B was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

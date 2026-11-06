@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Imprisonment or detention for public protection: annual report[^key-a4f94836dba4e22e5dbbf80ec91130a8][^key-27061b415fe4ef0d25c2f3819e1da017]
+## 67. Imprisonment or detention for public protection: annual report[^c-a4f94836dba4e22e5dbbf80ec91130a8][^c-27061b415fe4ef0d25c2f3819e1da017]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4f94836dba4e22e5dbbf80ec91130a8]: Commencement: S. 67 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-a4f94836dba4e22e5dbbf80ec91130a8]: Commencement: S. 67 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-27061b415fe4ef0d25c2f3819e1da017]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2024/21/section/67) in force at 1.11.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/1/b)
+[^c-27061b415fe4ef0d25c2f3819e1da017]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2024/21/section/67) in force at 1.11.2024 by [S.I. 2024/966](https://www.legislation.gov.uk/uksi/2024/966), [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/2024/966/regulation/3/1/b)

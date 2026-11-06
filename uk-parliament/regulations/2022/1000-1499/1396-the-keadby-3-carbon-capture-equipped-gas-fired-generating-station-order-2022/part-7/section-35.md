@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Protective provision[^key-fbd030571a1a9f46cc91947e398745de]
+## 35. Protective provision[^c-fbd030571a1a9f46cc91947e398745de]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 10 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-fbd030571a1a9f46cc91947e398745de]: Commencement: Art. 35 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-fbd030571a1a9f46cc91947e398745de]: Commencement: Art. 35 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

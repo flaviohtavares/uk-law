@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. Employers’ contributions[^key-ca4b0e1b571b9f8c33a38c1761aa617a]
+## 137. Employers’ contributions[^c-ca4b0e1b571b9f8c33a38c1761aa617a]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ at such intervals and at such rates as the scheme manager may from time to time 
 
 ## Annotations
 
-[^key-ca4b0e1b571b9f8c33a38c1761aa617a]: Commencement: [Reg. 137](https://www.legislation.gov.uk/nisr/2014/290/regulation/137) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-ca4b0e1b571b9f8c33a38c1761aa617a]: Commencement: [Reg. 137](https://www.legislation.gov.uk/nisr/2014/290/regulation/137) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

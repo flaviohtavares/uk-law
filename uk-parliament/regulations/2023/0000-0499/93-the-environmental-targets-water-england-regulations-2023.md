@@ -54,7 +54,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-7b2f32c6335f5a77af9ff3ae7dacc3cc]
+### 1. Citation, commencement and extent[^c-7b2f32c6335f5a77af9ff3ae7dacc3cc]
 
 (1) These Regulations may be cited as the Environmental Targets (Water) (England) Regulations 2023.
 
@@ -62,7 +62,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (3) These Regulations extend to England and Wales.
 
-### 2. Interpretation[^key-8991b6806f1613d2b7bf55b47c70a99f]
+### 2. Interpretation[^c-8991b6806f1613d2b7bf55b47c70a99f]
 
 In these Regulations—
 
@@ -70,17 +70,17 @@ In these Regulations—
 - “**coastal waters**” has the meaning given in section 104 of the Water Resources Act 1991[^f00002];
 - “**freshwaters**” has the same meaning as “**inland freshwaters**” in section 104 of the Water Resources Act 1991[^f00003].
 
-### 3. Water targets[^key-219dcc205cae991583c9de0fb5573262]
+### 3. Water targets[^c-219dcc205cae991583c9de0fb5573262]
 
 Regulations 5, 10, 15 and 20 specify four targets for the purposes of the Secretary of State’s duty in section 1 of the Act to set a long-term target in respect of water.
 
 ## PART 2 — Agriculture Water Target
 
-### 4. Application of this Part[^key-2a165046182dfa00b98224dbc2b2e41c]
+### 4. Application of this Part[^c-2a165046182dfa00b98224dbc2b2e41c]
 
 This Part applies to total nitrogen, total phosphorus and sediment entering the water environment through agricultural diffuse pollution from human activity undertaken on agricultural land in England.
 
-### 5. Agriculture water target[^key-bb380b8007a0e8eab4a58a0d984a86de]
+### 5. Agriculture water target[^c-bb380b8007a0e8eab4a58a0d984a86de]
 
 The first target in respect of water is that the load of each of the following—
 
@@ -90,7 +90,7 @@ The first target in respect of water is that the load of each of the following�
 
 entering the water environment through agricultural diffuse pollution is, by 31st December 2038, at least 40% lower than the baseline.
 
-### 6. Measurement of the agriculture target[^key-2384984c06844134bdd9ab3c13977c6a]
+### 6. Measurement of the agriculture target[^c-2384984c06844134bdd9ab3c13977c6a]
 
 (1) The load of each of the agriculture target substances entering the water environment through agricultural diffuse pollution which is to be compared with the baseline to determine whether the target in regulation 5 is met by 31st December 2038 is to be measured by determining the load of each of those substances so entering the water environment in the year from 1st January 2038 to 31st December 2038.
 
@@ -98,11 +98,11 @@ entering the water environment through agricultural diffuse pollution is, by 31s
 
 (3) In paragraph (2), “**environmental, conservation or sustainability objectives**” means objectives the main purpose of which are to contribute to environmental protection[^f00004] or improve the natural environment[^f00005].
 
-### 7. Reporting date[^key-fd8a0295ce208377d7c8e209cf168737]
+### 7. Reporting date[^c-fd8a0295ce208377d7c8e209cf168737]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target set in regulation 5 is 1st February 2040.
 
-### 8. Interpretation of Part 2[^key-e4c30d6170550c55b34bdd3727634142]
+### 8. Interpretation of Part 2[^c-e4c30d6170550c55b34bdd3727634142]
 
 (1) In this Part—
 
@@ -137,25 +137,25 @@ For the purposes of section 6(1) of the 2021 Act, the reporting date for the tar
 
 ## PART 3 — Waste Water Target
 
-### 9. Application of this Part[^key-f7c11211c2ec8228c5b48c98b78bc4c9]
+### 9. Application of this Part[^c-f7c11211c2ec8228c5b48c98b78bc4c9]
 
 (1) This Part applies to relevant discharges into freshwaters in England from sewerage systems of sewerage undertakers whose areas are wholly or mainly in England at sewage disposal works in England.
 
 (2) In paragraph (1), a sewerage undertaker’s area refers to the area for which it has been appointed to be a sewerage undertaker in accordance with section 6(1) of the Water Industry Act 1991[^f00008].
 
-### 10. Waste water target[^key-4cf79e01e9c5c39de3aaf2114d2d1a0c]
+### 10. Waste water target[^c-4cf79e01e9c5c39de3aaf2114d2d1a0c]
 
 The second target in respect of water is that the load of total phosphorus discharged into freshwaters from relevant discharges is, by 31st December 2038, at least 80% lower than the baseline.
 
-### 11. Measurement of the waste water target[^key-10aa437b18b3a6b9c31bd1b3a9085d7f]
+### 11. Measurement of the waste water target[^c-10aa437b18b3a6b9c31bd1b3a9085d7f]
 
 The load of total phosphorus discharged into freshwaters from relevant discharges which is to be compared with the baseline to determine whether the target in regulation 10 is met by 31st December 2038 is to be measured by determining the load of total phosphorus so discharged in the year from 1st January 2038 to 31st December 2038.
 
-### 12. Reporting date[^key-18e23f8a20934039c557bbfc0bb1a61c]
+### 12. Reporting date[^c-18e23f8a20934039c557bbfc0bb1a61c]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target set in regulation 10 is 1st February 2040.
 
-### 13. Interpretation of Part 3[^key-d9bb9f9280c49801c52c37d18260321d]
+### 13. Interpretation of Part 3[^c-d9bb9f9280c49801c52c37d18260321d]
 
 (1) In this Part—
 
@@ -166,11 +166,11 @@ For the purposes of section 6(1) of the 2021 Act, the reporting date for the tar
 
 ## PART 4 — Abandoned Metal Mines Water Target
 
-### 14. Application of this Part[^key-f7676a12efa890daa8ddfa913498c954]
+### 14. Application of this Part[^c-f7676a12efa890daa8ddfa913498c954]
 
 This Part applies to relevant waters in England polluted by abandoned metal mines in England.
 
-### 15. Abandoned metal mines water target[^key-7d4b024664740b4644b36c18be1f6122]
+### 15. Abandoned metal mines water target[^c-7d4b024664740b4644b36c18be1f6122]
 
 The third target in respect of water is that the length of relevant waters polluted by any of the following—
 
@@ -183,15 +183,15 @@ The third target in respect of water is that the length of relevant waters pollu
 
 from abandoned metal mines is, by 31st December 2038, at least 50% lower than the baseline.
 
-### 16. Measurement of the abandoned metal mines target[^key-9d87b9c0b229926e4e2ce59aeaa3cf06]
+### 16. Measurement of the abandoned metal mines target[^c-9d87b9c0b229926e4e2ce59aeaa3cf06]
 
 The length of relevant waters polluted by any of the target substances from abandoned metal mines which is to be compared with the baseline to determine whether the target in regulation 15 is met by 31st December 2038 is to be measured by determining the length of relevant waters considered so polluted in the year from 1st January 2038 to 31st December 2038.
 
-### 17. Reporting date[^key-752115cda2851bb622134782fde90690]
+### 17. Reporting date[^c-752115cda2851bb622134782fde90690]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target set in regulation 15 is 1st February 2040.
 
-### 18. Interpretation of this Part[^key-aa8b6ae216fff3846ad1f89610910167]
+### 18. Interpretation of this Part[^c-aa8b6ae216fff3846ad1f89610910167]
 
 (1) In this Part—
 
@@ -212,25 +212,25 @@ For the purposes of section 6(1) of the 2021 Act, the reporting date for the tar
 
 ## PART 5 — Water demand target
 
-### 19. Application of this Part[^key-aec07036ce8f1fccd0e613ba5423a343]
+### 19. Application of this Part[^c-aec07036ce8f1fccd0e613ba5423a343]
 
 (1) This Part applies to potable water supplied by water undertakers whose areas are wholly or mainly in England to people in England.
 
 (2) For the purposes of paragraph (1), a water undertaker’s area refers to the area for which it has been appointed to be a water undertaker in accordance with section 6(1) of the Water Industry Act 1991.
 
-### 20. Water demand target[^key-8999ed2b2190f3cb2c7237a31b1f1319]
+### 20. Water demand target[^c-8999ed2b2190f3cb2c7237a31b1f1319]
 
 The fourth target in respect of water is that the volume of potable water supplied per day per head of population in England is, by 31st March 2038, at least 20% lower than the baseline.
 
-### 21. Measurement of the water demand target[^key-94f93733a454a8b1ee7832987ba871fe]
+### 21. Measurement of the water demand target[^c-94f93733a454a8b1ee7832987ba871fe]
 
 The volume of potable water supplied per day per head of population in England which is to be compared with the baseline to determine whether the target in regulation 20 is met by 31st March 2038 is to be measured by calculating the distribution input over population for a year from 1st April 2037 to 31st March 2038.
 
-### 22. Reporting date[^key-f71781ee319c8fbcc89b262b0146987a]
+### 22. Reporting date[^c-f71781ee319c8fbcc89b262b0146987a]
 
 For the purposes of section 6(1) of the 2021 Act, the reporting date for the target set in regulation 20 is 30th April 2039.
 
-### 23. Interpretation[^key-c5bbfc608d844718bc5e38b6659390f3]
+### 23. Interpretation[^c-c5bbfc608d844718bc5e38b6659390f3]
 
 (1) In this Part—
 
@@ -249,7 +249,7 @@ For the purposes of section 6(1) of the 2021 Act, the reporting date for the tar
 
 ## PART 6 — Provision of data
 
-### 24. Requirement to provide data to the Secretary of State[^key-bfabae71800cee951f5bdb443dcdc59a]
+### 24. Requirement to provide data to the Secretary of State[^c-bfabae71800cee951f5bdb443dcdc59a]
 
 The Environment Agency must, on request, provide the Secretary of State with such data as the Secretary of State considers is reasonably required for the performance of the Secretary of State’s functions under Part 1 of the Act (environmental governance) in relation to the targets in these Regulations.
 
@@ -285,74 +285,74 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [2021 c. 30](https://www.legislation.gov.uk/ukpga/2021/30).
 
-[^key-7b2f32c6335f5a77af9ff3ae7dacc3cc]: Commencement: Reg. 1 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-7b2f32c6335f5a77af9ff3ae7dacc3cc]: Commencement: Reg. 1 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-8991b6806f1613d2b7bf55b47c70a99f]: Commencement: Reg. 2 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-8991b6806f1613d2b7bf55b47c70a99f]: Commencement: Reg. 2 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00002]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57). Section 104(1) was modified in relation to the meaning of controlled waters by [S.I. 1997/1332](https://www.legislation.gov.uk/uksi/1997/1332).
 
 [^f00003]: Footnote: Section 104(1) was modified in relation to the meaning of inland freshwaters by [S.I. 1996/3001](https://www.legislation.gov.uk/uksi/1996/3001) and [1997/1331](https://www.legislation.gov.uk/uksi/1997/1331).
 
-[^key-219dcc205cae991583c9de0fb5573262]: Commencement: Reg. 3 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-219dcc205cae991583c9de0fb5573262]: Commencement: Reg. 3 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-2a165046182dfa00b98224dbc2b2e41c]: Commencement: Reg. 4 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-2a165046182dfa00b98224dbc2b2e41c]: Commencement: Reg. 4 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-bb380b8007a0e8eab4a58a0d984a86de]: Commencement: Reg. 5 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-bb380b8007a0e8eab4a58a0d984a86de]: Commencement: Reg. 5 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-2384984c06844134bdd9ab3c13977c6a]: Commencement: Reg. 6 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-2384984c06844134bdd9ab3c13977c6a]: Commencement: Reg. 6 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00004]: Footnote: Environmental protection is defined in section 45 of the Environment Act 2021.
 
 [^f00005]: Footnote: Natural environment is defined in section 44 of the Environment Act 2021.
 
-[^key-fd8a0295ce208377d7c8e209cf168737]: Commencement: Reg. 7 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-fd8a0295ce208377d7c8e209cf168737]: Commencement: Reg. 7 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-e4c30d6170550c55b34bdd3727634142]: Commencement: Reg. 8 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-e4c30d6170550c55b34bdd3727634142]: Commencement: Reg. 8 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00006]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). The boundaries between waters which are to be treated as internal waters or territorial sea of the United Kingdom adjacent to Scotland and those which are not are set out in [S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126).
 
 [^f00007]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Section 158(1) defines “Wales” as including the sea adjacent to Wales out as far as the seaward boundary of the territorial sea. Section 158(3) makes provision for the determination of any boundary between waters which are to be treated as parts of the sea adjacent to Wales and those which are not. The boundary between the sea adjacent to Wales and that adjacent to England is partly determined by article 6 of, and Schedule 3 to, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). By virtue of paragraph 26 of Schedule 11 to the Government of Wales Act 2006, [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) continues to have effect.
 
-[^key-f7c11211c2ec8228c5b48c98b78bc4c9]: Commencement: Reg. 9 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-f7c11211c2ec8228c5b48c98b78bc4c9]: Commencement: Reg. 9 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00008]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-4cf79e01e9c5c39de3aaf2114d2d1a0c]: Commencement: Reg. 10 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-4cf79e01e9c5c39de3aaf2114d2d1a0c]: Commencement: Reg. 10 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-10aa437b18b3a6b9c31bd1b3a9085d7f]: Commencement: Reg. 11 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-10aa437b18b3a6b9c31bd1b3a9085d7f]: Commencement: Reg. 11 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-18e23f8a20934039c557bbfc0bb1a61c]: Commencement: Reg. 12 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-18e23f8a20934039c557bbfc0bb1a61c]: Commencement: Reg. 12 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-d9bb9f9280c49801c52c37d18260321d]: Commencement: Reg. 13 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-d9bb9f9280c49801c52c37d18260321d]: Commencement: Reg. 13 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00009]: Footnote: Section 17BA was inserted by section 4(1) of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-f7676a12efa890daa8ddfa913498c954]: Commencement: Reg. 14 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-f7676a12efa890daa8ddfa913498c954]: Commencement: Reg. 14 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-7d4b024664740b4644b36c18be1f6122]: Commencement: Reg. 15 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-7d4b024664740b4644b36c18be1f6122]: Commencement: Reg. 15 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-9d87b9c0b229926e4e2ce59aeaa3cf06]: Commencement: Reg. 16 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-9d87b9c0b229926e4e2ce59aeaa3cf06]: Commencement: Reg. 16 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-752115cda2851bb622134782fde90690]: Commencement: Reg. 17 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-752115cda2851bb622134782fde90690]: Commencement: Reg. 17 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-aa8b6ae216fff3846ad1f89610910167]: Commencement: Reg. 18 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-aa8b6ae216fff3846ad1f89610910167]: Commencement: Reg. 18 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00010]: Footnote: See section 91A(1) which defines “abandonment” and cognate expressions. Section 91A was inserted by section 58 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
 [^f00011]: Footnote: The current directions are the Water Framework Directive (Standards and Classification) Directions (England and Wales) 2015. Those directions were made on 9th September 2015 and are available at https://www.legislation.gov.uk/uksi/2015/1623/pdfs/uksiod\_20151623\_en\_auto.pdf. A copy may be obtained from the Department for Environment, Food and Rural Affairs, 2 Marsham Street, London SW1P 4DF. The environmental quality standards are specified in Parts 2 and 3 of Schedule 3.
 
-[^key-aec07036ce8f1fccd0e613ba5423a343]: Commencement: Reg. 19 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-aec07036ce8f1fccd0e613ba5423a343]: Commencement: Reg. 19 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-8999ed2b2190f3cb2c7237a31b1f1319]: Commencement: Reg. 20 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-8999ed2b2190f3cb2c7237a31b1f1319]: Commencement: Reg. 20 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-94f93733a454a8b1ee7832987ba871fe]: Commencement: Reg. 21 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-94f93733a454a8b1ee7832987ba871fe]: Commencement: Reg. 21 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-f71781ee319c8fbcc89b262b0146987a]: Commencement: Reg. 22 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-f71781ee319c8fbcc89b262b0146987a]: Commencement: Reg. 22 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
-[^key-c5bbfc608d844718bc5e38b6659390f3]: Commencement: Reg. 23 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-c5bbfc608d844718bc5e38b6659390f3]: Commencement: Reg. 23 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
 
 [^f00012]: Footnote: Section 17B(4A) was inserted by section 2(2) of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
 [^f00013]: Footnote: Section 37A was inserted by section 62 of the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37) and was amended by the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-bfabae71800cee951f5bdb443dcdc59a]: Commencement: Reg. 24 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)
+[^c-bfabae71800cee951f5bdb443dcdc59a]: Commencement: Reg. 24 in force at 30.1.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/93/regulation/1/2)

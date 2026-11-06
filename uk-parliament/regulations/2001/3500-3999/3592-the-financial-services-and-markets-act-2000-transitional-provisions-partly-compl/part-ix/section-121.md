@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Task of friendly society tribunal in relation to a transitional friendly society appeal[^key-00ac60417d8f72e79e35d0cfe8e3075b]
+## 121. Task of friendly society tribunal in relation to a transitional friendly society appeal[^c-00ac60417d8f72e79e35d0cfe8e3075b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00ac60417d8f72e79e35d0cfe8e3075b]: Commencement: Art. 121 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-00ac60417d8f72e79e35d0cfe8e3075b]: Commencement: Art. 121 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

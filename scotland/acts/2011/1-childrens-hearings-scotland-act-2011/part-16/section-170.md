@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 170. Child absconding from person[^key-744df2d7b2d7dabe43cf945a6d735530][^key-737ac2e5c69c81e2b819b20251c67760][^key-8837e5340cd59b17b6ae6b1c40027c42]
+## 170. Child absconding from person[^c-744df2d7b2d7dabe43cf945a6d735530][^c-737ac2e5c69c81e2b819b20251c67760][^c-8837e5340cd59b17b6ae6b1c40027c42]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
   - (x) section 143, and
 - (b) the child absconds from that person.
 
-(2) The child may be [^key-4aeb3f62dc219f9659025e55dc18eade]... taken to that person.
+(2) The child may be [^c-4aeb3f62dc219f9659025e55dc18eade]... taken to that person.
 
 (3) If a court is satisfied that there are reasonable grounds for believing that the child is within premises, the court may grant a warrant authorising an officer of law to—
 
@@ -72,10 +72,10 @@ summary: ''
 
 ## Annotations
 
-[^key-744df2d7b2d7dabe43cf945a6d735530]: Commencement: S. 170 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-744df2d7b2d7dabe43cf945a6d735530]: Commencement: S. 170 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-737ac2e5c69c81e2b819b20251c67760]: Modification: [S. 170](https://www.legislation.gov.uk/asp/2011/1/section/170) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(9)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/9)
+[^c-737ac2e5c69c81e2b819b20251c67760]: Modification: [S. 170](https://www.legislation.gov.uk/asp/2011/1/section/170) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(9)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/9)
 
-[^key-8837e5340cd59b17b6ae6b1c40027c42]: Modification: [Ss. 168-171](https://www.legislation.gov.uk/asp/2011/1/section/168) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [36](https://www.legislation.gov.uk/ssi/2026/31/regulation/36)
+[^c-8837e5340cd59b17b6ae6b1c40027c42]: Modification: [Ss. 168-171](https://www.legislation.gov.uk/asp/2011/1/section/168) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [36](https://www.legislation.gov.uk/ssi/2026/31/regulation/36)
 
-[^key-4aeb3f62dc219f9659025e55dc18eade]: Textual amendment: Words in s. 170(2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 24](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/24); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-4aeb3f62dc219f9659025e55dc18eade]: Textual amendment: Words in s. 170(2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 24](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/24); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Power to make further provision about death, incapacity and insolvency[^key-88776f2d31c0391cb4ab11c2db629f3d]
+## 86. Power to make further provision about death, incapacity and insolvency[^c-88776f2d31c0391cb4ab11c2db629f3d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88776f2d31c0391cb4ab11c2db629f3d]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2017/3/section/86) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-88776f2d31c0391cb4ab11c2db629f3d]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2017/3/section/86) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

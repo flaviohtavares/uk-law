@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Appeal to Upper Tribunal from tribunals in Wales[^key-fd9f0e89fa022d9628b5875dcab40c4e]
+## 6. Appeal to Upper Tribunal from tribunals in Wales[^c-fd9f0e89fa022d9628b5875dcab40c4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-fd9f0e89fa022d9628b5875dcab40c4e]: Commencement: Art. 6 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-fd9f0e89fa022d9628b5875dcab40c4e]: Commencement: Art. 6 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
 
 [^f00004]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). Section 65 was amended by paragraph 107 of Schedule 1 to the Health Authorities Act [1995 (c.17)](https://www.legislation.gov.uk/ukpga/1995/17), and is further amended by section 38 of the Mental Health Act [2007 (c.12)](https://www.legislation.gov.uk/ukpga/2007/12) and by Schedule 3 to this Order.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Determination of bidders’ eligibility limit for second and subsequent primary bid rounds[^key-1045304ab6d36f5a937089f9eab464ca]
+## 41. Determination of bidders’ eligibility limit for second and subsequent primary bid rounds[^c-1045304ab6d36f5a937089f9eab464ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1045304ab6d36f5a937089f9eab464ca]: Commencement: Reg. 41 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-1045304ab6d36f5a937089f9eab464ca]: Commencement: Reg. 41 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

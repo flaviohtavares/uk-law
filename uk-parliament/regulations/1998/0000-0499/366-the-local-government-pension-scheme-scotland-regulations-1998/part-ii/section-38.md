@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Reduction of death grants: re-employed pensioners[^key-54b50df5fbc93aafd76e859d764c5346]
+## 38. Reduction of death grants: re-employed pensioners[^c-54b50df5fbc93aafd76e859d764c5346]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ the death grant payable because of his membership in the further employment must
 
 ## Annotations
 
-[^key-54b50df5fbc93aafd76e859d764c5346]: Commencement: Reg. 38 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-54b50df5fbc93aafd76e859d764c5346]: Commencement: Reg. 38 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00023]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Panel for advising governors[^c2191401][^key-c33673cae647b2ec860612a2efc45d96]
+## 162. Panel for advising governors[^c2191401][^c-c33673cae647b2ec860612a2efc45d96]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ After section 39 of the National Health Service Act 2006 insert—
 
 [^c2191401]: Commencement: S. 162 partly in force; s. 162 in force for specified purposes at Royal Assent, see s. 306(1)(d)
 
-[^key-c33673cae647b2ec860612a2efc45d96]: Commencement: S. 162 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-c33673cae647b2ec860612a2efc45d96]: Commencement: S. 162 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

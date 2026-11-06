@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Establishment of scheme advisory board[^key-e7da1be22e9f613f0bc0e9af5ee5f6c1]
+## 10. Establishment of scheme advisory board[^c-e7da1be22e9f613f0bc0e9af5ee5f6c1]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7da1be22e9f613f0bc0e9af5ee5f6c1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/292/regulation/10) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-e7da1be22e9f613f0bc0e9af5ee5f6c1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/292/regulation/10) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)

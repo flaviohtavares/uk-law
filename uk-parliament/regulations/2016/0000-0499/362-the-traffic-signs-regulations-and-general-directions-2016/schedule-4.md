@@ -22,19 +22,19 @@ summary: ''
 
 Regulation 3, Direction 3
 
-### PART 1 — Blank panel diagram[^key-8fc7e462f0fced80c62f547976c37ff4]
+### PART 1 — Blank panel diagram[^c-8fc7e462f0fced80c62f547976c37ff4]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_123)
 
 ### PART 2 — On-street parking control signs
 
-#### 1. Yellow panel signs[^key-293bc4dc43f25527059b8bb86f428829]
+#### 1. Yellow panel signs[^c-293bc4dc43f25527059b8bb86f428829]
 
 (1) A restriction or prohibition of a description in column 2 of the sign table in Part 3 must be conveyed by a sign which complies with paragraphs 2 to 7.
 
-**2.**[^key-5eed23f3c91ed00a14204f58f60d712a] The sign must have a yellow background and black border as shown in blank diagram 1 in Part 1.
+**2.**[^c-5eed23f3c91ed00a14204f58f60d712a] The sign must have a yellow background and black border as shown in blank diagram 1 in Part 1.
 
-**3.**[^key-e973d1235f561d1b034981593af41903] (1) The sign must include a symbol of the size, colour and type shown in column 3 of the Part 3 sign table for the description in question.
+**3.**[^c-e973d1235f561d1b034981593af41903] (1) The sign must include a symbol of the size, colour and type shown in column 3 of the Part 3 sign table for the description in question.
 
 (2) In the case of item 3, the sign must have the circular symbol shown in column 3 together with—
 
@@ -46,21 +46,21 @@ and each symbol included must be of the size, colour and type provided for in co
 
 (3) The numeral forming part of the lorry symbol shown in the diagram may be varied to another numeral.
 
-**4.**[^key-cec6fa3a939c271deccab1e21bce1791] A sign provided for in the Part 3 sign table must include the legend or legends provided for in column 4 for the description in question.
+**4.**[^c-cec6fa3a939c271deccab1e21bce1791] A sign provided for in the Part 3 sign table must include the legend or legends provided for in column 4 for the description in question.
 
-**5.**[^key-244133b68d9734ba073826373eb34223] A legend may be varied in accordance with an entry in column 5 (if any).
+**5.**[^c-244133b68d9734ba073826373eb34223] A legend may be varied in accordance with an entry in column 5 (if any).
 
-**6.**[^key-8d20544259fd3f399a951a8067526118] The legend must be of a height provided for in column 6 (by reference to x-height).
+**6.**[^c-8d20544259fd3f399a951a8067526118] The legend must be of a height provided for in column 6 (by reference to x-height).
 
-**7.**[^key-ecc9b3cdd95d7ddba544044b9b3f3ff6] A sign must include an arrow pointing to the left or to the right where indicating the beginning of, or a change in, a restriction or prohibition.
+**7.**[^c-ecc9b3cdd95d7ddba544044b9b3f3ff6] A sign must include an arrow pointing to the left or to the right where indicating the beginning of, or a change in, a restriction or prohibition.
 
-#### 8. White panel signs[^key-d81af840b2c2ee97219eb849aa4c84cd]
+#### 8. White panel signs[^c-d81af840b2c2ee97219eb849aa4c84cd]
 
 A restriction, prohibition or information of a description in column 2 of the sign table in Part 4 must be conveyed by a sign which complies with paragraphs 9 to 18.
 
-**9.**[^key-3e56ea3bdf4c3350d4641de2287b6cd1] The sign must have a white background and black border as shown in blank diagram 2 in Part 1.
+**9.**[^c-3e56ea3bdf4c3350d4641de2287b6cd1] The sign must have a white background and black border as shown in blank diagram 2 in Part 1.
 
-**10.**[^key-a3dcac99cf2fe2447212ae4b4bd2f474] (1) The sign must have a symbol of the size, colour and type shown in column 3 of the sign table in Part 4 for the description in question.
+**10.**[^c-a3dcac99cf2fe2447212ae4b4bd2f474] (1) The sign must have a symbol of the size, colour and type shown in column 3 of the sign table in Part 4 for the description in question.
 
 (2) Sub-paragraph (1) does not apply in relation to the description at item 1 of that table.
 
@@ -70,20 +70,20 @@ A restriction, prohibition or information of a description in column 2 of the si
 
 (5) Sub-paragraph (4) does not apply where the sign, in accordance with paragraph 15, includes the motor cycle or bus symbol shown at item 1 and 3 respectively of the Part 5 sign table.
 
-**11.**[^key-e4b950d12281c1bfb35f5784ebd97a34] A sign provided for at item 1, 5, 6, 7, or 8 of the Part 4 sign table must have the legend provided for in column 4 of the item.
+**11.**[^c-e4b950d12281c1bfb35f5784ebd97a34] A sign provided for at item 1, 5, 6, 7, or 8 of the Part 4 sign table must have the legend provided for in column 4 of the item.
 
-**12.**[^key-8bbe56d650493cfc9966ec53bfac51ce] A legend provided for at item 5, 6 or 7 of the Part 4 sign table may be varied in accordance with column 5 of the item.
+**12.**[^c-8bbe56d650493cfc9966ec53bfac51ce] A legend provided for at item 5, 6 or 7 of the Part 4 sign table may be varied in accordance with column 5 of the item.
 
-**13.**[^key-fbe7a9800b529d96a87409d462a1efae] A sign provided for at item 2, 3 or 4 of the Part 4 sign table may include a legend provided for in column 5 of the item.
+**13.**[^c-fbe7a9800b529d96a87409d462a1efae] A sign provided for at item 2, 3 or 4 of the Part 4 sign table may include a legend provided for in column 5 of the item.
 
-**14.**[^key-dda547bec1589c47b47a0ab6719fc5d2] A legend provided for in the Part 4 sign table must have an x-height provided for in column 6.
+**14.**[^c-dda547bec1589c47b47a0ab6719fc5d2] A legend provided for in the Part 4 sign table must have an x-height provided for in column 6.
 
-**15.**[^key-7b06c52250b3556ff5ef0380df47e485] Where an item in the Part 4 sign table (“the Part 4 item”) shows numbers in column 7, those numbers—
+**15.**[^c-7b06c52250b3556ff5ef0380df47e485] Where an item in the Part 4 sign table (“the Part 4 item”) shows numbers in column 7, those numbers—
 
 - (a) refer to items in the Part 5 sign table (“the Part 5 items”); and
 - (b) signify that a sign which includes the symbol shown in column 3 of the Part 4 item may also include a symbol shown in column 3 of one of the Part 5 items to convey the description in column 2 of that Part 5 item.
 
-**16.**[^key-7fe9e5244e06f815228564c4ecbf2b43] (1) A symbol included in accordance with paragraph 15 must be of the size, colour and type provided for in relation to that symbol at the appropriate column 2 entry in the Part 5 sign table.
+**16.**[^c-7fe9e5244e06f815228564c4ecbf2b43] (1) A symbol included in accordance with paragraph 15 must be of the size, colour and type provided for in relation to that symbol at the appropriate column 2 entry in the Part 5 sign table.
 
 (2) If the symbol shown in column 3 of item 4, 5, 6, 7 or 8 of the Part 5 table is included in a sign, a legend in column 4 at that item must also be included.
 
@@ -91,13 +91,13 @@ A restriction, prohibition or information of a description in column 2 of the si
 
 (4) In the case of item 8 of the Part 5 table, the symbol may be varied to correspond with the design on the applicable approved voucher (provided the size remains as provided for in column 2).
 
-**17.**[^key-438c000a211fe873e7503a6deb92f9ae] A sign must include an arrow pointing to the left or to the right where indicating the beginning of, or a change in, a restriction or prohibition.
+**17.**[^c-438c000a211fe873e7503a6deb92f9ae] A sign must include an arrow pointing to the left or to the right where indicating the beginning of, or a change in, a restriction or prohibition.
 
-**18.**[^key-09449b8f7b03590f0f76731ca7aa9149] (1) A sign may convey any two of the descriptions in column 2 in the Part 4 sign table (except the description at items 1 and 8), with “or” used to separate the legends applicable to the two descriptions.
+**18.**[^c-09449b8f7b03590f0f76731ca7aa9149] (1) A sign may convey any two of the descriptions in column 2 in the Part 4 sign table (except the description at items 1 and 8), with “or” used to separate the legends applicable to the two descriptions.
 
 (2) Where a sign conveys two descriptions in accordance with sub-paragraph (1), if the symbol applicable to those descriptions is the same, only one symbol need be included in the sign.
 
-#### 19. Signs consisting of multiple panels[^key-15dbbd7f3e197c9d1caf0bfb1a5e37bf]
+#### 19. Signs consisting of multiple panels[^c-15dbbd7f3e197c9d1caf0bfb1a5e37bf]
 
 (1) This paragraph applies to all signs provided for in the sign tables in Parts 3, 4 and 5 except those for conveying a description in column 2 at—
 
@@ -110,23 +110,23 @@ A restriction, prohibition or information of a description in column 2 of the si
 
 (4) This paragraph applies to a sign whether or not panels are included in accordance with paragraph 20 or 21.
 
-**20.**[^key-b522da200e996e68d53d66f4cd1f2f56] (1) This paragraph applies in relation to a sign provided for at item 2, 3, 4, 5, 6 or 7 of the Part 4 sign table.
+**20.**[^c-b522da200e996e68d53d66f4cd1f2f56] (1) This paragraph applies in relation to a sign provided for at item 2, 3, 4, 5, 6 or 7 of the Part 4 sign table.
 
 (2) The sign may be divided into panels with a white background of the type shown in blank diagram 2 in Part 1 with any symbol or legend forming part of that sign being placed in any of those panels.
 
 (3) This paragraph applies to a sign whether or not other panels are included in accordance with paragraph 19 or 21.
 
-**21.**[^key-e4dc7f00733d3d4f1e6eb26b71cce6ed] (1) This paragraph applies to a sign which includes the symbol provided for at item 8 of the Part 5 sign table.
+**21.**[^c-e4dc7f00733d3d4f1e6eb26b71cce6ed] (1) This paragraph applies to a sign which includes the symbol provided for at item 8 of the Part 5 sign table.
 
 (2) Information on the voucher parking scheme may be shown on a separate panel with a white background of the type shown in blank diagram 2 in Part 1.
 
 (3) This paragraph applies to a sign whether or not other panels are included in accordance with paragraph 19 or 20.
 
-#### 22. Provisions applying where the sign is made up of more than one panel[^key-205f7d7aeeebdf5ffcc6c32c9ca1cb6d]
+#### 22. Provisions applying where the sign is made up of more than one panel[^c-205f7d7aeeebdf5ffcc6c32c9ca1cb6d]
 
 When, in accordance with paragraph 19, 20 or 21, two or more panels are used, there must be a single black line separating adjoining panels.
 
-**23.**[^key-925e291b80217bc48f22f1f0240b26e2] (1) Panels included in a sign may be placed in any vertical or horizontal combination, and need not be aligned vertically or horizontally.
+**23.**[^c-925e291b80217bc48f22f1f0240b26e2] (1) Panels included in a sign may be placed in any vertical or horizontal combination, and need not be aligned vertically or horizontally.
 
 (2) Sub-paragraph (1) is subject to sub-paragraphs (3) to (7).
 
@@ -140,7 +140,7 @@ When, in accordance with paragraph 19, 20 or 21, two or more panels are used, th
 
 (7) Where a single panel is placed above or below two panels placed side by side, that single panel must be placed centrally in relation to the other two panels.
 
-#### 24. Height of legends to be proportionate[^key-3285772db385874a1b60e228431196d6]
+#### 24. Height of legends to be proportionate[^c-3285772db385874a1b60e228431196d6]
 
 (1) This paragraph applies whether or not the sign consists of a single panel or more than one panel.
 
@@ -150,13 +150,13 @@ When, in accordance with paragraph 19, 20 or 21, two or more panels are used, th
 
 (4) Sub-paragraph (3) does not apply to the legends provided for at item 7 or 10 in the Part 3 sign table.
 
-#### 25. Illumination[^key-608d19165df181e7c5dbefe5672165b7]
+#### 25. Illumination[^c-608d19165df181e7c5dbefe5672165b7]
 
 (1) A sign provided for in this Schedule need not be illuminated.
 
 (2) Paragraph (1) does not apply to a sign containing the symbol and legend provided for at item 2, 9 or 10 of the Part 3 sign table.
 
-### PART 3 — Symbols and legends used in combination with a yellow panel[^key-249e753a2d67e4ee0a5c4935cc45669c]
+### PART 3 — Symbols and legends used in combination with a yellow panel[^c-249e753a2d67e4ee0a5c4935cc45669c]
 
 Sign table — Schedule 4, Part 3
 
@@ -173,7 +173,7 @@ Sign table — Schedule 4, Part 3
 | 9 | Stopping prohibited in a lay-by except in emergency | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_132) | “No stopping except in emergency” |  | 37.5 mm or 50 mm |
 | 10 | Stopping prohibited on entrance markings | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_133) | 1\. “No stopping”; and<br>2\. “on entrance markings” | A time period may be included | 1\. 50 mm for “No stopping”<br>2\. 40 mm for “on entrance markings”<br>3*.* 40 mm for any time period |
 
-### PART 4 — Symbols and legends used in combination with a white panel[^key-2dc9b7fccb3f76251546177a725fbb06]
+### PART 4 — Symbols and legends used in combination with a white panel[^c-2dc9b7fccb3f76251546177a725fbb06]
 
 Sign table — Schedule 4, Part 4
 
@@ -188,7 +188,7 @@ Sign table — Schedule 4, Part 4
 | 7 | Parking subject to payment conditions | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_134) | “Pay at machine” | 1\. The permitted variants at item 2 apply<br>2\. “Pay at machine” may be varied to any of the following or any appropriate combination of the following—<br>(a) “Pay here at machine”<br>(b) “Pay at machine across road”<br>(c) “Pay at machine opposite”<br>(d) “Pay at machine” and a location<br>(e) “Pay at” and a description of the ticket machine in any coloured letters<br>(f) “Display ticket”<br>(g) “Pay by phone” and a telephone number and “or text” and a text number and “quoting location” and a location number<br>(h) “Pay by phone” and a telephone number and “quoting location” and a location number<br>(i) “Pay by text” and a text number and “quoting location” and a location number<br>(j) Disc Zone”, “Disc parking”, “Ticket Zone” or “Ticket parking”<br>3\. “Pay” in the legend “Pay at machine”, or in any of the legends referred to in entry 2, may be varied to “For longer stay pay”<br>4\. Where the legend refers to a ticket machine, the legend may include an arrow pointing horizontally to the left or to the right, or one arrow pointing to the left and one to the right, to indicate the location of the machine or machines | Not less than 15 mm and not more than 40 mm | 1, 2, 3, 4, 5, 6, 7, 8 |
 | 8 | Drivers must obtain and display parking tickets | [image: see source](https://www.legislation.gov.uk/uksi/2016/362/images/uksi_20160362_en_134) | “Have you paid and displayed?” |  | Not less than 15 mm and not more than 40 mm |  |
 
-### PART 5 — Symbols to be used with Part 4 symbols on a white panel[^key-0d4d8744f0cbe2aa34c50c47126fa441]
+### PART 5 — Symbols to be used with Part 4 symbols on a white panel[^c-0d4d8744f0cbe2aa34c50c47126fa441]
 
 Sign table — Schedule 4, Part 5
 
@@ -208,11 +208,11 @@ Sign table — Schedule 4, Part 5
 </tbody>
 </table>
 
-[^key-e21d342ff34f8471a5f882cd35e3647a][^key-84af4db6256547e547d07c0c2a8b3038]
+[^c-e21d342ff34f8471a5f882cd35e3647a][^c-84af4db6256547e547d07c0c2a8b3038]
 
 ### PART 6 — The Schedule 4 General Direction
 
-**1.**[^key-73d53cf9c820ba997b554bc3d2be741b] (1) The signs provided for in this Schedule must only be placed to indicate the effect of an Act, order, regulation, bylaw, resolution or notice which prohibits or restricts the use of the road by traffic.
+**1.**[^c-73d53cf9c820ba997b554bc3d2be741b] (1) The signs provided for in this Schedule must only be placed to indicate the effect of an Act, order, regulation, bylaw, resolution or notice which prohibits or restricts the use of the road by traffic.
 
 (2) Sub-paragraph (1) does not apply to a sign which consists solely of the elements provided for in the Part 3 sign table at—
 
@@ -221,66 +221,66 @@ Sign table — Schedule 4, Part 5
 
 ## Annotations
 
-[^key-8fc7e462f0fced80c62f547976c37ff4]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8fc7e462f0fced80c62f547976c37ff4]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-293bc4dc43f25527059b8bb86f428829]: Commencement: [Sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/2/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-293bc4dc43f25527059b8bb86f428829]: Commencement: [Sch. 4 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/2/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-5eed23f3c91ed00a14204f58f60d712a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-5eed23f3c91ed00a14204f58f60d712a]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/2) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e973d1235f561d1b034981593af41903]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e973d1235f561d1b034981593af41903]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-cec6fa3a939c271deccab1e21bce1791]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-cec6fa3a939c271deccab1e21bce1791]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-244133b68d9734ba073826373eb34223]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-244133b68d9734ba073826373eb34223]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8d20544259fd3f399a951a8067526118]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8d20544259fd3f399a951a8067526118]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/6) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-ecc9b3cdd95d7ddba544044b9b3f3ff6]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-ecc9b3cdd95d7ddba544044b9b3f3ff6]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/7) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-d81af840b2c2ee97219eb849aa4c84cd]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d81af840b2c2ee97219eb849aa4c84cd]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/8) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-3e56ea3bdf4c3350d4641de2287b6cd1]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-3e56ea3bdf4c3350d4641de2287b6cd1]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/9) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-a3dcac99cf2fe2447212ae4b4bd2f474]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-a3dcac99cf2fe2447212ae4b4bd2f474]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/10) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e4b950d12281c1bfb35f5784ebd97a34]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e4b950d12281c1bfb35f5784ebd97a34]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-8bbe56d650493cfc9966ec53bfac51ce]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-8bbe56d650493cfc9966ec53bfac51ce]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/12) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-fbe7a9800b529d96a87409d462a1efae]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-fbe7a9800b529d96a87409d462a1efae]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/13) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-dda547bec1589c47b47a0ab6719fc5d2]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-dda547bec1589c47b47a0ab6719fc5d2]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/14) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7b06c52250b3556ff5ef0380df47e485]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7b06c52250b3556ff5ef0380df47e485]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/15) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-7fe9e5244e06f815228564c4ecbf2b43]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/16) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-7fe9e5244e06f815228564c4ecbf2b43]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/16) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-438c000a211fe873e7503a6deb92f9ae]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/17) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-438c000a211fe873e7503a6deb92f9ae]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/17) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-09449b8f7b03590f0f76731ca7aa9149]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/18) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-09449b8f7b03590f0f76731ca7aa9149]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/18) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-15dbbd7f3e197c9d1caf0bfb1a5e37bf]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/19) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-15dbbd7f3e197c9d1caf0bfb1a5e37bf]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/19) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-b522da200e996e68d53d66f4cd1f2f56]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/20) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-b522da200e996e68d53d66f4cd1f2f56]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/20) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e4dc7f00733d3d4f1e6eb26b71cce6ed]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/21) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-e4dc7f00733d3d4f1e6eb26b71cce6ed]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/21) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-205f7d7aeeebdf5ffcc6c32c9ca1cb6d]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/22) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-205f7d7aeeebdf5ffcc6c32c9ca1cb6d]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/22) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-925e291b80217bc48f22f1f0240b26e2]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/23) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-925e291b80217bc48f22f1f0240b26e2]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/23) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-3285772db385874a1b60e228431196d6]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/24) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-3285772db385874a1b60e228431196d6]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/24) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-608d19165df181e7c5dbefe5672165b7]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/25) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-608d19165df181e7c5dbefe5672165b7]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/paragraph/25) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-249e753a2d67e4ee0a5c4935cc45669c]: Commencement: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-249e753a2d67e4ee0a5c4935cc45669c]: Commencement: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/3) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-2dc9b7fccb3f76251546177a725fbb06]: Commencement: [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-2dc9b7fccb3f76251546177a725fbb06]: Commencement: [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/4) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-0d4d8744f0cbe2aa34c50c47126fa441]: Commencement: [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-0d4d8744f0cbe2aa34c50c47126fa441]: Commencement: [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/5) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
-[^key-e21d342ff34f8471a5f882cd35e3647a]: Textual amendment: Words in [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/5) Table inserted (E.) (19.2.2021) by [The Traffic Signs (Coronavirus) (Amendment) (England) Regulations 2021 (S.I. 2021/75)](https://www.legislation.gov.uk/uksi/2021/75), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/75/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/75/regulation/2/5/a)
+[^c-e21d342ff34f8471a5f882cd35e3647a]: Textual amendment: Words in [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/5) Table inserted (E.) (19.2.2021) by [The Traffic Signs (Coronavirus) (Amendment) (England) Regulations 2021 (S.I. 2021/75)](https://www.legislation.gov.uk/uksi/2021/75), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/75/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/75/regulation/2/5/a)
 
-[^key-84af4db6256547e547d07c0c2a8b3038]: Textual amendment: Words in [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/5) Table inserted (E.) (19.2.2021) by [The Traffic Signs (Coronavirus) (Amendment) (England) Regulations 2021 (S.I. 2021/75)](https://www.legislation.gov.uk/uksi/2021/75), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/75/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/75/regulation/2/5/b)
+[^c-84af4db6256547e547d07c0c2a8b3038]: Textual amendment: Words in [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/5) Table inserted (E.) (19.2.2021) by [The Traffic Signs (Coronavirus) (Amendment) (England) Regulations 2021 (S.I. 2021/75)](https://www.legislation.gov.uk/uksi/2021/75), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/75/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2021/75/regulation/2/5/b)
 
-[^key-73d53cf9c820ba997b554bc3d2be741b]: Commencement: [Sch. 4 Pt. 6 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/6/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-73d53cf9c820ba997b554bc3d2be741b]: Commencement: [Sch. 4 Pt. 6 para. 1](https://www.legislation.gov.uk/uksi/2016/362/schedule/4/part/6/paragraph/1) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)

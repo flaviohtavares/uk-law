@@ -40,29 +40,29 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-The Treasury, in exercise of the powers conferred by sections 8(1) and 23(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001], make the following Regulations.[^key-c2a036ba07babacf91497a629f53a071]
+The Treasury, in exercise of the powers conferred by sections 8(1) and 23(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018[^f00001], make the following Regulations.[^c-c2a036ba07babacf91497a629f53a071]
 
-A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-c2a036ba07babacf91497a629f53a071]
+A draft of these Regulations has been approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-c2a036ba07babacf91497a629f53a071]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-f50439d936f015f0ef915fdbc8e595e0]
+### 1. Citation and commencement[^c-f50439d936f015f0ef915fdbc8e595e0]
 
 (1) These Regulations may be cited as the Mortgage Credit (Amendment) (EU Exit) Regulations 2019.
 
 (2) These Regulations come into force on exit day.
 
-### 2. Interpretation[^key-0c8a5dba446190e1a3069ec787c7544c]
+### 2. Interpretation[^c-0c8a5dba446190e1a3069ec787c7544c]
 
 In these Regulations “the 2015 Order” means the Mortgage Credit Directive Order 2015[^f00002].
 
 ## PART 2 — Amendment of the 2015 Order
 
-### 3. Amendment of the 2015 Order[^key-2f9b1ba20ae6be6daf7e98c37ef62e00]
+### 3. Amendment of the 2015 Order[^c-2f9b1ba20ae6be6daf7e98c37ef62e00]
 
 The 2015 Order is amended by the following regulations of this Part.
 
-### 4. Article 2 (interpretation)[^key-ee0cfbb68f08e9fca2f51899d2231ff3]
+### 4. Article 2 (interpretation)[^c-ee0cfbb68f08e9fca2f51899d2231ff3]
 
 (1) At the beginning of article 2(2)(a) insert “subject to paragraph (3),”.
 
@@ -81,7 +81,7 @@ The 2015 Order is amended by the following regulations of this Part.
 
 .
 
-### 5. Article 4 (interpretation of this Part)[^key-01ac804c7359d937081feb9bd8fb6b8b]
+### 5. Article 4 (interpretation of this Part)[^c-01ac804c7359d937081feb9bd8fb6b8b]
 
 (1) Article 4 is amended as follows.
 
@@ -112,15 +112,15 @@ The 2015 Order is amended by the following regulations of this Part.
 
 .
 
-### 6. Article 8 (register of consumer buy-to-let mortgage firms)[^key-af294b025d8a2b8bde284832fdf4fd59]
+### 6. Article 8 (register of consumer buy-to-let mortgage firms)[^c-af294b025d8a2b8bde284832fdf4fd59]
 
 In article 8(3)(f) for the words “specified in Commission Delegated Regulation (EU) No 1125/2014” to the end substitute “of such insurance or guarantee specified for mortgage intermediaries in the FCA’s Prudential sourcebook for Mortgage and Home Finance Firms, and Insurance Intermediaries as amended from time to time”.
 
-### 7. Article 33 (review)[^key-f84256203d6bed5e22743575a6d932ad]
+### 7. Article 33 (review)[^c-f84256203d6bed5e22743575a6d932ad]
 
 Omit article 33(2).
 
-### 8. Schedule 2 (references to ‘credit agreement’)[^key-a1bb9ea76cfdda81cdebe3874113792e]
+### 8. Schedule 2 (references to ‘credit agreement’)[^c-a1bb9ea76cfdda81cdebe3874113792e]
 
 (1) In the paragraphs of Schedule 2 set out in paragraph (2)—
 
@@ -137,15 +137,15 @@ Omit article 33(2).
 
 (3) In paragraph 21(17)(b) of Schedule 2 for “the agreement” substitute “the contract”.
 
-### 9. Schedule 2, paragraph 5 (general information)[^key-fd9977b0c9cdf9f14127b0fbc9794239]
+### 9. Schedule 2, paragraph 5 (general information)[^c-fd9977b0c9cdf9f14127b0fbc9794239]
 
 In paragraph 5(2)(c) of Schedule 2 for “in another EEA State” substitute “outside the United Kingdom”.
 
-### 10. Schedule 2, paragraph 12 (disclosure and verification of borrower information)[^key-252cfbea9ac735daee55d94873e9c912]
+### 10. Schedule 2, paragraph 12 (disclosure and verification of borrower information)[^c-252cfbea9ac735daee55d94873e9c912]
 
 In paragraph 12(2)(b) of Schedule 2 for “appointed representative” substitute “relevant person”.
 
-### 11. Schedule 2, paragraph 14 (foreign currency loans)[^key-a2411acb4a0f00fb1f9abe433cc9bc5c]
+### 11. Schedule 2, paragraph 14 (foreign currency loans)[^c-a2411acb4a0f00fb1f9abe433cc9bc5c]
 
 In paragraph 14 of Schedule 2[^f00004] for sub-paragraph (2)(b) substitute—
 
@@ -153,7 +153,7 @@ In paragraph 14 of Schedule 2[^f00004] for sub-paragraph (2)(b) substitute—
 
 .
 
-### 12. Schedule 2, paragraph 21 (additional assumptions for the calculation of the annual percentage rate of charge)[^key-fcc23778a73f8574cc4c52453209bf91]
+### 12. Schedule 2, paragraph 21 (additional assumptions for the calculation of the annual percentage rate of charge)[^c-fcc23778a73f8574cc4c52453209bf91]
 
 In paragraph 21 of Schedule 2—
 
@@ -168,11 +168,11 @@ In paragraph 21 of Schedule 2—
 
 ## PART 3 — Miscellaneous
 
-### 13. Revocation of Commission Delegated Regulation (EU) No. 1125/2014[^key-e13adfbbf23f19dac51aeb55cba496cd]
+### 13. Revocation of Commission Delegated Regulation (EU) No. 1125/2014[^c-e13adfbbf23f19dac51aeb55cba496cd]
 
 Commission Delegated Regulation (EU) No. 1125/2014 of 19 September 2014 supplementing [Directive 2014/17/EU](https://www.legislation.gov.uk/european/directive/2014/0017) of the European Parliament and of the Council with regard to regulatory technical standards on the minimum monetary amount of the professional indemnity insurance or comparable guarantee to be held by credit intermediaries is revoked.
 
-### 14. Treasury regulations: annual percentage rate of change[^key-029082dca754cdace965751ccd8dd58f]
+### 14. Treasury regulations: annual percentage rate of change[^c-029082dca754cdace965751ccd8dd58f]
 
 (1) The Treasury may, if the condition in paragraph (2) is satisfied, by regulations amend paragraph 9(2) to (4), 20(2) or 21 of Schedule 2 to the 2015 Order (“the provisions”).
 
@@ -212,38 +212,38 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-c2a036ba07babacf91497a629f53a071]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-c2a036ba07babacf91497a629f53a071]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-f50439d936f015f0ef915fdbc8e595e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/656/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-f50439d936f015f0ef915fdbc8e595e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/656/regulation/1) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-0c8a5dba446190e1a3069ec787c7544c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/656/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-0c8a5dba446190e1a3069ec787c7544c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/656/regulation/2) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910); amended by [S.I. 2015/1557](https://www.legislation.gov.uk/uksi/2015/1557).
 
-[^key-2f9b1ba20ae6be6daf7e98c37ef62e00]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/656/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-2f9b1ba20ae6be6daf7e98c37ef62e00]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/656/regulation/3) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-ee0cfbb68f08e9fca2f51899d2231ff3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/656/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-ee0cfbb68f08e9fca2f51899d2231ff3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/656/regulation/4) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-01ac804c7359d937081feb9bd8fb6b8b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/656/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-01ac804c7359d937081feb9bd8fb6b8b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/656/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
 [^f00003]: Footnote: Section 423A was inserted into the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8) by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-af294b025d8a2b8bde284832fdf4fd59]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/656/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-af294b025d8a2b8bde284832fdf4fd59]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/656/regulation/6) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-f84256203d6bed5e22743575a6d932ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/656/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-f84256203d6bed5e22743575a6d932ad]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/656/regulation/7) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-a1bb9ea76cfdda81cdebe3874113792e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/656/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-a1bb9ea76cfdda81cdebe3874113792e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/656/regulation/8) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-fd9977b0c9cdf9f14127b0fbc9794239]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/656/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-fd9977b0c9cdf9f14127b0fbc9794239]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/656/regulation/9) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-252cfbea9ac735daee55d94873e9c912]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/656/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-252cfbea9ac735daee55d94873e9c912]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/656/regulation/10) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-a2411acb4a0f00fb1f9abe433cc9bc5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/656/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-a2411acb4a0f00fb1f9abe433cc9bc5c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2019/656/regulation/11) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910); amended by [S.I. 2015/1557](https://www.legislation.gov.uk/uksi/2015/1557).
 
-[^key-fcc23778a73f8574cc4c52453209bf91]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/656/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-fcc23778a73f8574cc4c52453209bf91]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2019/656/regulation/12) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-e13adfbbf23f19dac51aeb55cba496cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/656/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-e13adfbbf23f19dac51aeb55cba496cd]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2019/656/regulation/13) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
 
-[^key-029082dca754cdace965751ccd8dd58f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)
+[^c-029082dca754cdace965751ccd8dd58f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/656/regulation/14) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/656/regulation/1/2)

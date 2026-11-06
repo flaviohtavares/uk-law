@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — Schedule 8A to the Roads (Scotland) Act 1984[^key-4a95dfe4131acd7a5c61219ba4649f91]
+## SCHEDULE 6 — Schedule 8A to the Roads (Scotland) Act 1984[^c-4a95dfe4131acd7a5c61219ba4649f91]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a95dfe4131acd7a5c61219ba4649f91]: Commencement: [Sch. 6](https://www.legislation.gov.uk/asp/2005/12/schedule/6) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-4a95dfe4131acd7a5c61219ba4649f91]: Commencement: [Sch. 6](https://www.legislation.gov.uk/asp/2005/12/schedule/6) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

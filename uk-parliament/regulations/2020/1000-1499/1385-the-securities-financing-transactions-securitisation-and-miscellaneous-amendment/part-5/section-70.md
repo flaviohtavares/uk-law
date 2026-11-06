@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020[^key-a059d7ad9539283fcd2327f86674d4a1]
+## 70. The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020[^c-a059d7ad9539283fcd2327f86674d4a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a059d7ad9539283fcd2327f86674d4a1]: Commencement: Reg. 70 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-a059d7ad9539283fcd2327f86674d4a1]: Commencement: Reg. 70 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
 [^f00062]: Footnote: [S.I. 2020/1055](https://www.legislation.gov.uk/uksi/2020/1055).
 

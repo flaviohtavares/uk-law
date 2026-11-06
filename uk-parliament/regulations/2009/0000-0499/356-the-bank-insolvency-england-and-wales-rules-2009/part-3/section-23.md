@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Security[^key-ee66faeebc7703cd95b07054057ffc8d]
+## 23. Security[^c-ee66faeebc7703cd95b07054057ffc8d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.28 of the 1986 Rules[^f00012].
 
 ## Annotations
 
-[^key-ee66faeebc7703cd95b07054057ffc8d]: Commencement: Rule 23 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-ee66faeebc7703cd95b07054057ffc8d]: Commencement: Rule 23 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00012]: Footnote: Paragraph (2) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

@@ -28,12 +28,12 @@ Section 12.
 
 ### Constitution
 
-**2.**[^key-135b7d6178f5d3c8f4c865b2b3a63ec0] (1) The Council shall consist of—
+**2.**[^c-135b7d6178f5d3c8f4c865b2b3a63ec0] (1) The Council shall consist of—
 
 - (a) not more than ten persons who are—
-  - (i) licensed conveyancers; [^key-6e131f52bf29298771bbbabb26789d5b]...
-  - (ia)[^key-dfa588bc7f4ceaf2db28e68abea58d1f] licensed CLC practitioners; or
-  - (ii) other persons practising as authorised persons in the course of a business which is carried on either by a recognised body or by a licensed body which holds a licence granted by[^key-54061a8e3f4a5234d8376f10665e66f5] the Council ; and
+  - (i) licensed conveyancers; [^c-6e131f52bf29298771bbbabb26789d5b]...
+  - (ia)[^c-dfa588bc7f4ceaf2db28e68abea58d1f] licensed CLC practitioners; or
+  - (ii) other persons practising as authorised persons in the course of a business which is carried on either by a recognised body or by a licensed body which holds a licence granted by[^c-54061a8e3f4a5234d8376f10665e66f5] the Council ; and
 - (b) not more than eleven persons who are lay persons,
 
 being persons appointed as members of the Council in accordance with a scheme under paragraph 4.
@@ -44,7 +44,7 @@ being persons appointed as members of the Council in accordance with a scheme un
 
 - “authorised person” has the meaning given by section 32A;
 - “lay person” has the same meaning as in Schedule 1 to the Legal Services Act 2007 (see paragraph 2 of that Schedule).
-- “licensed body” has the same meaning as in the Legal Services Act 2007 (see section 71).[^key-d968b0a7a623e24f84a1471f3c1ba28b]
+- “licensed body” has the same meaning as in the Legal Services Act 2007 (see section 71).[^c-d968b0a7a623e24f84a1471f3c1ba28b]
 
 **3.** [^c20458011]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -54,7 +54,7 @@ being persons appointed as members of the Council in accordance with a scheme un
 - (b) the appointment of[^c20458171] a person as chairman under paragraph 2(2); and
 - (c) the tenure and vacation of office of persons appointed[^c20458211] as aforesaid, and the eligibility of persons for appointment.
 
-(2)[^key-d41f7f279f6831769ca29fe7351b954f] A scheme under this paragraph shall secure that (except during any casual vacancy) the total number of persons appointed for the purposes of paragraph (b) of paragraph 2(1) exceeds [^key-7351471bf0ee8d7e929b566e7948a632]... the total number of persons appointed for the purposes of paragraph (a) of that provision.
+(2)[^c-d41f7f279f6831769ca29fe7351b954f] A scheme under this paragraph shall secure that (except during any casual vacancy) the total number of persons appointed for the purposes of paragraph (b) of paragraph 2(1) exceeds [^c-7351471bf0ee8d7e929b566e7948a632]... the total number of persons appointed for the purposes of paragraph (a) of that provision.
 
 (3) A scheme under this paragraph shall not come into force until it has been approved by the Legal Services Board.[^c20458271]
 
@@ -106,15 +106,15 @@ being persons appointed as members of the Council in accordance with a scheme un
 
 ## Annotations
 
-[^key-135b7d6178f5d3c8f4c865b2b3a63ec0]: Textual amendment: Sch. 3 para. 2 substituted (30.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/3), [9(2)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/2)
+[^c-135b7d6178f5d3c8f4c865b2b3a63ec0]: Textual amendment: Sch. 3 para. 2 substituted (30.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/3), [9(2)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/2)
 
-[^key-6e131f52bf29298771bbbabb26789d5b]: Textual amendment: Word in [Sch. 3 para. 2(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/2/1/a/i) omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 8(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/8/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-6e131f52bf29298771bbbabb26789d5b]: Textual amendment: Word in [Sch. 3 para. 2(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/2/1/a/i) omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 8(a)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/8/a); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-dfa588bc7f4ceaf2db28e68abea58d1f]: Textual amendment: [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/2/1/a), [(ia)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/2/1/ia) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 8(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/8/b); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
+[^c-dfa588bc7f4ceaf2db28e68abea58d1f]: Textual amendment: [Sch. 3 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/2/1/a), [(ia)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/2/1/ia) inserted (29.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/b), [Sch. 19 para. 8(b)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/19/paragraph/8/b); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(b)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/b)
 
-[^key-54061a8e3f4a5234d8376f10665e66f5]: Textual amendment: Words in Sch. 3 para. 2(1)(a)(ii) substituted (12.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), arts. 2(4), 9(3)(a); [S.I. 2011/2038](https://www.legislation.gov.uk/uksi/2011/2038)
+[^c-54061a8e3f4a5234d8376f10665e66f5]: Textual amendment: Words in Sch. 3 para. 2(1)(a)(ii) substituted (12.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), arts. 2(4), 9(3)(a); [S.I. 2011/2038](https://www.legislation.gov.uk/uksi/2011/2038)
 
-[^key-d968b0a7a623e24f84a1471f3c1ba28b]: Textual amendment: Words in Sch. 3 para. 2(3) inserted (12.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), arts. 2(4), 9(3)(b); [S.I. 2011/2038](https://www.legislation.gov.uk/uksi/2011/2038)
+[^c-d968b0a7a623e24f84a1471f3c1ba28b]: Textual amendment: Words in Sch. 3 para. 2(3) inserted (12.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), arts. 2(4), 9(3)(b); [S.I. 2011/2038](https://www.legislation.gov.uk/uksi/2011/2038)
 
 [^c20458011]: Textual amendment: Sch. 3 para. 3 repealed (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [210](https://www.legislation.gov.uk/ukpga/2007/29/section/210), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 29(5)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/29/5), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)(f)(v)(cc)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i/f/v/cc)
 
@@ -124,9 +124,9 @@ being persons appointed as members of the Council in accordance with a scheme un
 
 [^c20458211]: Textual amendment: Words in Sch. 3 para. 4(1) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 29(6)(c)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/29/6/c), (with ss. 29, 192, 193); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i)
 
-[^key-d41f7f279f6831769ca29fe7351b954f]: Textual amendment: Sch. 3 para. 4(2) substituted (30.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/3), [9(4)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/4)
+[^c-d41f7f279f6831769ca29fe7351b954f]: Textual amendment: Sch. 3 para. 4(2) substituted (30.9.2011) by [The Legal Services Act 2007 (The Law Society and The Council for Licensed Conveyancers) (Modification of Functions) Order 2011 (S.I. 2011/1716)](https://www.legislation.gov.uk/uksi/2011/1716), [arts. 2(3)](https://www.legislation.gov.uk/uksi/2011/1716/article/2/3), [9(4)](https://www.legislation.gov.uk/uksi/2011/1716/article/9/4)
 
-[^key-7351471bf0ee8d7e929b566e7948a632]: Textual amendment: Words in [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/4/2) omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/c), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/20/paragraph/9); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/c)
+[^c-7351471bf0ee8d7e929b566e7948a632]: Textual amendment: Words in [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/1985/61/schedule/3/paragraph/4/2) omitted (29.6.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(6)(c)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/6/c), [Sch. 20 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/20/paragraph/9); [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/c)
 
 [^c20458271]: Textual amendment: Words in Sch. 3 para. 4(3) substituted (31.3.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 182](https://www.legislation.gov.uk/ukpga/2007/29/section/182), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 17 para. 29(8)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/17/paragraph/29/8), (with ss. 29, 192, 193); [S.I. 2009/503](https://www.legislation.gov.uk/uksi/2009/503), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2009/503/article/2/c/i)
 

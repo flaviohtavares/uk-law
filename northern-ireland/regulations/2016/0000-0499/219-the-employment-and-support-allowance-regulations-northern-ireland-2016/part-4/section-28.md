@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Claimants to be treated as not having limited capability for work at the end of the period covered by medical evidence[^key-7f3d5d1204ebbfbacf5d50517b8860f4]
+## 28. Claimants to be treated as not having limited capability for work at the end of the period covered by medical evidence[^c-7f3d5d1204ebbfbacf5d50517b8860f4]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f3d5d1204ebbfbacf5d50517b8860f4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/219/regulation/28) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-7f3d5d1204ebbfbacf5d50517b8860f4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2016/219/regulation/28) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

@@ -29,7 +29,7 @@ summary: ''
 - (a) paragraph (2)(a) shall not apply;
 - (b) in paragraph (2)(b) for “relevant” substitute “ local ”;
 - (c) in paragraph (4)(a) for “provided by the applicant” substitute “ prepared by the local planning authority in accordance with regulation 32(2) ”; and
-- (d) in paragraph (12)[^key-5d4b4b2978a9ad20025a5befd3b602da] for “relevant” substitute “ local ”;
+- (d) in paragraph (12)[^c-5d4b4b2978a9ad20025a5befd3b602da] for “relevant” substitute “ local ”;
 
 (4) Paragraphs (5) and (6) apply where—
 
@@ -83,7 +83,7 @@ to the effect that the development is EIA development.
   - (iii) in paragraph (3)—
     - (aa) for “person” substitute “ local planning authority ”; and
     - (bb) omit “; and may request the relevant planning authority to provide such information as they can on any of those points.”;
-  - (iv) in paragraph (4)(b) for “person who made the scoping direction[^key-ffccb0d5d3a540a8da052473ebbe1038] request and to the relevant” substitute “ local ”;
+  - (iv) in paragraph (4)(b) for “person who made the scoping direction[^c-ffccb0d5d3a540a8da052473ebbe1038] request and to the relevant” substitute “ local ”;
 - (e) in regulation 18—
   - (i) omit paragraphs (1) and (2); and
   - (ii) in paragraph (5)(a) and (b) for “developer” substitute “ local planning authority ”;
@@ -205,15 +205,15 @@ to the effect that the development is EIA development.
 - (n) in regulation 58—
   - (i) in paragraph (1) for sub-paragraph (a) substitute—
 
-    > - (a) it comes to the attention of the Secretary of State that EIA development proposed to be carried out in England for which a local planning authority proposes to grant planning permission by a local development order is likely to have significant effects on the environment in an[^key-a4b82919627a2fdbbf720eb4d328ae79] EEA state; or
+    > - (a) it comes to the attention of the Secretary of State that EIA development proposed to be carried out in England for which a local planning authority proposes to grant planning permission by a local development order is likely to have significant effects on the environment in an[^c-a4b82919627a2fdbbf720eb4d328ae79] EEA state; or
 
     ; and
   - (ii) in paragraphs (3) and (6) for “application” substitute “ proposed local development order ”.
 
 ## Annotations
 
-[^key-5d4b4b2978a9ad20025a5befd3b602da]: Textual amendment: Word in reg. 32(3)(d) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/4/a)
+[^c-5d4b4b2978a9ad20025a5befd3b602da]: Textual amendment: Word in reg. 32(3)(d) substituted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/4/a)
 
-[^key-ffccb0d5d3a540a8da052473ebbe1038]: Textual amendment: Words in reg. 32(6)(d)(iv) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/4/b)
+[^c-ffccb0d5d3a540a8da052473ebbe1038]: Textual amendment: Words in reg. 32(6)(d)(iv) inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/4/b)
 
-[^key-a4b82919627a2fdbbf720eb4d328ae79]: Textual amendment: Word in [reg. 32(6)(n)(i)](https://www.legislation.gov.uk/uksi/2017/571/regulation/32/6/n/i) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4b82919627a2fdbbf720eb4d328ae79]: Textual amendment: Word in [reg. 32(6)(n)(i)](https://www.legislation.gov.uk/uksi/2017/571/regulation/32/6/n/i) substituted (31.12.2020) by [The Environmental Assessments and Miscellaneous Planning (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1232)](https://www.legislation.gov.uk/uksi/2018/1232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2018/1232/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

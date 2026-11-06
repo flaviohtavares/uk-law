@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Meaning of “creditor in a standard security with a right to sell land”[^key-f5164a9aef67edbcfa62a91db5d60c51]
+## 30. Meaning of “creditor in a standard security with a right to sell land”[^c-f5164a9aef67edbcfa62a91db5d60c51]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Any reference in this Part to a creditor in a standard security with a right to 
 
 ## Annotations
 
-[^key-f5164a9aef67edbcfa62a91db5d60c51]: Commencement: S. 30 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-f5164a9aef67edbcfa62a91db5d60c51]: Commencement: S. 30 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

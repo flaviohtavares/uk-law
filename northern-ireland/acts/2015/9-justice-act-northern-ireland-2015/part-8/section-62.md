@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Notice of applications[^key-fa87309a3c0aaa533768e2949ca1e2d5]
+## 62. Notice of applications[^c-fa87309a3c0aaa533768e2949ca1e2d5]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ a reasonable time before the hearing.
 
 ## Annotations
 
-[^key-fa87309a3c0aaa533768e2949ca1e2d5]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2015/9/section/62) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(h)](https://www.legislation.gov.uk/nisr/2016/417/article/2/h)
+[^c-fa87309a3c0aaa533768e2949ca1e2d5]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2015/9/section/62) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(h)](https://www.legislation.gov.uk/nisr/2016/417/article/2/h)

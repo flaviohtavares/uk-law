@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (Wales) (Amendment) Regulations 2011 (revoked)[^key-0b8547ba6dfd75a34eefe49eb2fce103]
+The Common Agricultural Policy Single Payment and Support Schemes (Cross Compliance) (Wales) (Amendment) Regulations 2011 (revoked)[^c-0b8547ba6dfd75a34eefe49eb2fce103]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1 January 2012
 
-[^key-0b8547ba6dfd75a34eefe49eb2fce103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b8547ba6dfd75a34eefe49eb2fce103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-0b8547ba6dfd75a34eefe49eb2fce103]
+## 1. Title, application and commencement[^c-0b8547ba6dfd75a34eefe49eb2fce103]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-0b8547ba6dfd75a34eefe49eb2fce103]
+## 2. Amendments[^c-0b8547ba6dfd75a34eefe49eb2fce103]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Updating references[^key-0b8547ba6dfd75a34eefe49eb2fce103]
+## 3. Updating references[^c-0b8547ba6dfd75a34eefe49eb2fce103]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. New Good Agricultural and Environmental Condition[^key-0b8547ba6dfd75a34eefe49eb2fce103]
+## 4. New Good Agricultural and Environmental Condition[^c-0b8547ba6dfd75a34eefe49eb2fce103]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b8547ba6dfd75a34eefe49eb2fce103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b8547ba6dfd75a34eefe49eb2fce103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b8547ba6dfd75a34eefe49eb2fce103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b8547ba6dfd75a34eefe49eb2fce103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b8547ba6dfd75a34eefe49eb2fce103]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 (S.I. 2014/3223)](https://www.legislation.gov.uk/wsi/2014/3223), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2014/3223/schedule/3)
+[^c-0b8547ba6dfd75a34eefe49eb2fce103]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Integrated Administration and Control System and Enforcement and Cross Compliance) (Wales) Regulations 2014 (S.I. 2014/3223)](https://www.legislation.gov.uk/wsi/2014/3223), reg. 1(3), [Sch. 3](https://www.legislation.gov.uk/wsi/2014/3223/schedule/3)

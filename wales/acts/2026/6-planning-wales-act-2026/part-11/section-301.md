@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 301. Electronic communications apparatus affected by order[^key-3f386137fe42e5af3f1e9be74a2fb5cc]
+## 301. Electronic communications apparatus affected by order[^c-3f386137fe42e5af3f1e9be74a2fb5cc]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f386137fe42e5af3f1e9be74a2fb5cc]: Commencement: S. 301 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3f386137fe42e5af3f1e9be74a2fb5cc]: Commencement: S. 301 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

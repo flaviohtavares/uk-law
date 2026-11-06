@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-42b087d7df0961d191a1a412e085616b]
+## 1. Citation and commencement[^c-42b087d7df0961d191a1a412e085616b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Council Tax Reduction (Scotland) Regulatio
 
 ## Annotations
 
-[^key-42b087d7df0961d191a1a412e085616b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-42b087d7df0961d191a1a412e085616b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**75.**[^key-a53a294f32f97eb1bfe16956d37f413c] In the River Bush and all rivers flowing into it, the annual close season for angling for salmon, trout, and rainbow trout shall be from 21st October in each year to the last day of February in the next following year, both dates inclusive.
+**75.**[^c-a53a294f32f97eb1bfe16956d37f413c] In the River Bush and all rivers flowing into it, the annual close season for angling for salmon, trout, and rainbow trout shall be from 21st October in each year to the last day of February in the next following year, both dates inclusive.
 
 ## Annotations
 
-[^key-a53a294f32f97eb1bfe16956d37f413c]: Commencement: S. 75 in operation at 1.11.1997, see byelaw 1
+[^c-a53a294f32f97eb1bfe16956d37f413c]: Commencement: S. 75 in operation at 1.11.1997, see byelaw 1

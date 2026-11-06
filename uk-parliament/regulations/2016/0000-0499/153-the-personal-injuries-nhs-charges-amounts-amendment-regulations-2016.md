@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2016
 
-[^key-f1316c71d2d08019402ead3f46445490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1316c71d2d08019402ead3f46445490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-f1316c71d2d08019402ead3f46445490]
+## 1. Citation, commencement, application and interpretation[^c-f1316c71d2d08019402ead3f46445490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal Regulations[^key-f1316c71d2d08019402ead3f46445490]
+## 2. Amendment of Schedule 1 to the principal Regulations[^c-f1316c71d2d08019402ead3f46445490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1316c71d2d08019402ead3f46445490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1316c71d2d08019402ead3f46445490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1316c71d2d08019402ead3f46445490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1316c71d2d08019402ead3f46445490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1316c71d2d08019402ead3f46445490]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/153) revoked (1.4.2018) by [The Personal Injuries (NHS Charges) (Amounts) Amendment Regulations 2018 (revoked) 2018 (S.I. 2018/141)](https://www.legislation.gov.uk/uksi/2018/141), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/141/regulation/3/a)
+[^c-f1316c71d2d08019402ead3f46445490]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/153) revoked (1.4.2018) by [The Personal Injuries (NHS Charges) (Amounts) Amendment Regulations 2018 (revoked) 2018 (S.I. 2018/141)](https://www.legislation.gov.uk/uksi/2018/141), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/141/regulation/3/a)

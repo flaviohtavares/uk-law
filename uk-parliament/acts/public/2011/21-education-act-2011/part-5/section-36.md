@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Objections to admission arrangements[^key-62944de3a3201227645622df5428aea8]
+## 36. Objections to admission arrangements[^c-62944de3a3201227645622df5428aea8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62944de3a3201227645622df5428aea8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/21/section/36) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-62944de3a3201227645622df5428aea8]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/21/section/36) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

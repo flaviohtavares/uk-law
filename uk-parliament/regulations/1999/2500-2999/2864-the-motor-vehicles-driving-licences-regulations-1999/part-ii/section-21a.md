@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A. Exchangeable licences[^key-7f852469aa54d7c82de1d85d1db7a7ce]
+## 21A. Exchangeable licences[^c-7f852469aa54d7c82de1d85d1db7a7ce]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f852469aa54d7c82de1d85d1db7a7ce]: Textual amendment: Reg. 21A inserted (29.12.2014) by [The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190)](https://www.legislation.gov.uk/uksi/2014/3190), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3190/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/3190/regulation/5)
+[^c-7f852469aa54d7c82de1d85d1db7a7ce]: Textual amendment: Reg. 21A inserted (29.12.2014) by [The Road Traffic Act 1988 and Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/3190)](https://www.legislation.gov.uk/uksi/2014/3190), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3190/regulation/1), [5](https://www.legislation.gov.uk/uksi/2014/3190/regulation/5)

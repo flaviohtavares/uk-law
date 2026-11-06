@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Grounds on which warrants may be issued by Secretary of State[^key-b481d8b00203d6cce206fdc4ca0a854d]
+## 20. Grounds on which warrants may be issued by Secretary of State[^c-b481d8b00203d6cce206fdc4ca0a854d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) A mutual assistance warrant is necessary on grounds falling within this section if—
 
-- (a) it is necessary for the purpose of giving effect to the provisions of [^key-08f06f5b60c8721fbbb9622a51d42e35]... an international mutual assistance agreement, and
+- (a) it is necessary for the purpose of giving effect to the provisions of [^c-08f06f5b60c8721fbbb9622a51d42e35]... an international mutual assistance agreement, and
 - (b) the circumstances appear to the Secretary of State to be equivalent to those in which the Secretary of State would issue a warrant by virtue of subsection (2)(b).
 
 (4) A warrant may be considered necessary as mentioned in subsection (2)(c) only if the information which it is considered necessary to obtain is information relating to the acts or intentions of persons outside the British Islands.
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b481d8b00203d6cce206fdc4ca0a854d]: Commencement: S. 20 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/f)
+[^c-b481d8b00203d6cce206fdc4ca0a854d]: Commencement: S. 20 in force at 31.5.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2018/652/regulation/3/f)
 
-[^key-08f06f5b60c8721fbbb9622a51d42e35]: Textual amendment: Words in [s. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/20/3/a) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [82(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/82/5) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08f06f5b60c8721fbbb9622a51d42e35]: Textual amendment: Words in [s. 20(3)(a)](https://www.legislation.gov.uk/ukpga/2016/25/section/20/3/a) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [82(5)](https://www.legislation.gov.uk/uksi/2019/742/regulation/82/5) (with [reg. 83](https://www.legislation.gov.uk/uksi/2019/742/regulation/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

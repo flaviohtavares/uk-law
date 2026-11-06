@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A licence authorising the driving of motor vehicles of any class shall not be granted to any person unless he [^key-82ba4408432c5104abb467deb0b09ac7]... satisfies the Department[^c17613381] (or, in the case of a test of competence passed under paragraph (a)(i) after a prescribed day, the Department is satisfied in such manner as may be prescribed)[^c20372351]
+(1) A licence authorising the driving of motor vehicles of any class shall not be granted to any person unless he [^c-82ba4408432c5104abb467deb0b09ac7]... satisfies the Department[^c17613381] (or, in the case of a test of competence passed under paragraph (a)(i) after a prescribed day, the Department is satisfied in such manner as may be prescribed)[^c20372351]
 
 - (a)[^c20372391] that he has passed–
   - (i) the test of competence to drive prescribed by virtue of paragraph (3) not earlier than the appointed day, or
@@ -41,14 +41,14 @@ summary: ''
 
 This paragraph is subject to the provisions of this Part as to provisional licences and to the provisions of any regulations made by virtue of Article 19C(1)(g).
 
-(1A)[^key-b7d593f69984a1ecdaccb6b1699fe866] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-b7d593f69984a1ecdaccb6b1699fe866] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purposes of paragraph (1)—
 
 - (a) a licence which has been revoked under Article 15(5) or under any corresponding provision of—
   - (i) the law of Great Britain,
   - (ii) the relevant external law, or
-  - (iii) the law of an EEA State [^key-b2fc05d548113a6dc94c055e4b5e3dc3]...,
+  - (iii) the law of an EEA State [^c-b2fc05d548113a6dc94c055e4b5e3dc3]...,
 
   as a licence granted in error shall be disregarded for the purposes of sub-paragraph (b), (d) or (ea) (as the case may be) or that paragraph;
 
@@ -70,7 +70,7 @@ and generally with respect to such tests.
 (4) In particular, regulations may, without prejudice to the generality of paragraph (3), provide—
 
 - (a) for requiring a person submitting himself for a test to provide a safe and suitable vehicle[^c20377581] for the purposes of the test and for requiring that, if the vehicle is a vehicle of a prescribed description, it has been certified in the prescribed manner after a prescribed inspection as satisfying such requirements as may be prescribed,[^c20377601]
-- (aa) for requiring a person submitting himself for a test to have been normally and lawfully resident in Northern Ireland or the United Kingdom (within the meaning of Article 13A)[^key-74c5c7bb8a00d5bb2859c72a56f8f9c5] for such period ending on the date of his appointment for the test as may be prescribed,
+- (aa) for requiring a person submitting himself for a test to have been normally and lawfully resident in Northern Ireland or the United Kingdom (within the meaning of Article 13A)[^c-74c5c7bb8a00d5bb2859c72a56f8f9c5] for such period ending on the date of his appointment for the test as may be prescribed,
 - (b)[^c20377631] or the charging (whether on the making of an appointment for a test or otherwise) of reasonable fees for or in connection with the test and any inspection of a vehicle required by regulations under paragraph (a) in relation to the test,
 - (c) for ensuring that a person submitting himself for a test and failing to pass that test shall not be eligible to submit himself for another test by the same or any other person before the expiration of a period specified in the regulations, except under an order made by a court under the power conferred by Article 7.
 
@@ -130,7 +130,7 @@ The reference in this paragraph to a licence does not include a licence which ha
 
 ## Annotations
 
-[^key-82ba4408432c5104abb467deb0b09ac7]: Textual amendment: Words in art. 5(1) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 62(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/62/a); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-82ba4408432c5104abb467deb0b09ac7]: Textual amendment: Words in art. 5(1) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 62(a)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/62/a); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
 [^c17613381]: Textual amendment: SR 1996/426
 
@@ -138,9 +138,9 @@ The reference in this paragraph to a licence does not include a licence which ha
 
 [^c20372391]: Textual amendment: Art. 5(1)(a) substituted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [32](https://www.legislation.gov.uk/nisi/2007/916/article/32); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
-[^key-b7d593f69984a1ecdaccb6b1699fe866]: Textual amendment: Art. 5(1A) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 62(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/62/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-b7d593f69984a1ecdaccb6b1699fe866]: Textual amendment: Art. 5(1A) omitted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 62(b)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/62/b); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
-[^key-b2fc05d548113a6dc94c055e4b5e3dc3]: Textual amendment: Words in [art. 5(2)(a)(iii)](https://www.legislation.gov.uk/nisi/1981/154/article/5/2/a/iii) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/194/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2fc05d548113a6dc94c055e4b5e3dc3]: Textual amendment: Words in [art. 5(2)(a)(iii)](https://www.legislation.gov.uk/nisi/1981/154/article/5/2/a/iii) omitted (31.12.2020) by virtue of [The Driving Licences (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/194)](https://www.legislation.gov.uk/uksi/2019/194), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/194/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/194/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22519041]: Modification: Art. 5(2A) excluded by [Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996 (S.R. 1996/542)](https://www.legislation.gov.uk/nisr/1996/542), [reg. 47H(3)(5)](https://www.legislation.gov.uk/nisr/1996/542/regulation/47H/3/5) (as inserted (21.2.2011) by [Motor Vehicles (Driving Licences) (Amendment) Regulations (Northern Ireland) 2011 (S.R. 2011/21)](https://www.legislation.gov.uk/nisr/2011/21), [reg. 2(9)](https://www.legislation.gov.uk/nisr/2011/21/regulation/2/9))
 
@@ -160,7 +160,7 @@ The reference in this paragraph to a licence does not include a licence which ha
 
 [^c20377601]: Textual amendment: Words in art. 5(4)(a) substituted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [44(2)(b)](https://www.legislation.gov.uk/nisi/2007/916/article/44/2/b); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 
-[^key-74c5c7bb8a00d5bb2859c72a56f8f9c5]: Textual amendment: Words in art. 5(4)(aa) substituted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 62(c)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/62/c); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
+[^c-74c5c7bb8a00d5bb2859c72a56f8f9c5]: Textual amendment: Words in art. 5(4)(aa) substituted (14.7.2014) by virtue of [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 9 para. 62(c)](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/62/c); [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(g)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/g)
 
 [^c20377631]: Textual amendment: Art. 5(4)(b) substituted (15.11.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts.1(3)(4)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3/4), [44(2)(c)](https://www.legislation.gov.uk/nisi/2007/916/article/44/2/c); [S.R. 2007/454](https://www.legislation.gov.uk/nisr/2007/454), [art. 2](https://www.legislation.gov.uk/nisr/2007/454/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/454/schedule)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Minor and consequential amendments: elections etc[^key-0da613f7573897b8c3ef489eeb8faf21]
+## 10. Minor and consequential amendments: elections etc[^c-0da613f7573897b8c3ef489eeb8faf21]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da613f7573897b8c3ef489eeb8faf21]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/11/section/10) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)
+[^c-0da613f7573897b8c3ef489eeb8faf21]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/11/section/10) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(h)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/h)

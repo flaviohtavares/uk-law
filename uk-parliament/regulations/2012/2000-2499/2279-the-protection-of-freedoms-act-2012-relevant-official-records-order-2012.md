@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 95(5) and (6) of the Protection of Freedoms Act 2012[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-5119acbd24ab238363c2a5e1a6c7958f]
+## 1. Citation, commencement and interpretation[^c-5119acbd24ab238363c2a5e1a6c7958f]
 
 (1) This Order may be cited as the Protection of Freedoms Act 2012 (Relevant Official Records) Order 2012 and comes into force on 1st October 2012.
 
@@ -57,11 +57,11 @@ The Secretary of State makes the following Order in exercise of the powers confe
   - (a) the Royal Navy Police;
   - (b) the Royal Military Police; or
   - (c) the Royal Air Force Police.
-- “[^key-9051391d86c3ed1ab41b69d3e72c0a2d]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
+- “[^c-9051391d86c3ed1ab41b69d3e72c0a2d]**tri-service serious crime unit**” means the unit described in section 375(1A) of the Armed Forces Act 2006.
 
-## 2. Relevant official records[^key-3b36a73dd8562315c39f9e63ae655945]
+## 2. Relevant official records[^c-3b36a73dd8562315c39f9e63ae655945]
 
-Relevant official records for the purposes of section 95 of the Act are any of the following [^key-10b1657b6fed99545b280075076c7e61]...—
+Relevant official records for the purposes of section 95 of the Act are any of the following [^c-10b1657b6fed99545b280075076c7e61]...—
 
 - (a) records kept locally by a police force for the use of constables;
 - (b) records kept locally by the British Transport Police for the use of constables;
@@ -69,11 +69,11 @@ Relevant official records for the purposes of section 95 of the Act are any of t
 - (d) records kept by the Royal Navy Police for the use of members of a service police force;
 - (e) records kept by the Royal Military Police for the use of members of a service police force;
 - (f) records kept by the Royal Air Force Police for the use of members of a service police force;
-- (fa)[^key-af30c32e7d8e8fe76be7d00fcc6c40bc] records kept by the tri-service serious crime unit for the use of members of a service police force;
+- (fa)[^c-af30c32e7d8e8fe76be7d00fcc6c40bc] records kept by the tri-service serious crime unit for the use of members of a service police force;
 - (g) records of magistrates’ courts dating from 1992 kept by Her Majesty’s Courts and Tribunals Service;
 - (h) records of the Crown Court kept by Her Majesty’s Courts and Tribunals Service.
 
-## 3. Relevant data controllers[^key-c5b28ff24770d359dac09e5a71872334]
+## 3. Relevant data controllers[^c-c5b28ff24770d359dac09e5a71872334]
 
 The following are prescribed as the relevant data controller in relation to the relevant official records—
 
@@ -83,11 +83,11 @@ The following are prescribed as the relevant data controller in relation to the 
 - (d) the Provost Marshal for the Royal Navy Police in relation to the records kept by the Royal Navy Police for the use of members of a service police force;
 - (e) the Provost Marshal for the Royal Military Police in relation to the records kept by the Royal Military Police for the use of members of a service police force;
 - (f) the Provost Marshal for the Royal Air Force Police in relation to the records kept by the Royal Air Force Police for the use of members of a service police force;
-- (fa)[^key-713b319e63eba486bf0c07919689ecdb] the Provost Marshal for serious crime in relation to the records kept by the tri-service serious crime unit for the use of members of a service police force;
+- (fa)[^c-713b319e63eba486bf0c07919689ecdb] the Provost Marshal for serious crime in relation to the records kept by the tri-service serious crime unit for the use of members of a service police force;
 - (g) the Secretary of State for Justice in relation to the records of magistrates’ courts dating from 1992 kept by Her Majesty’s Courts and Tribunals Service;
 - (h) the Secretary of State for Justice in relation to the records of the Crown Court kept by Her Majesty’s Courts and Tribunals Service.
 
-## 4. Annotation of relevant official records[^key-8c04e9134064a3a6de8452fa63605511]
+## 4. Annotation of relevant official records[^c-8c04e9134064a3a6de8452fa63605511]
 
 The following records are relevant official records in relation to which a notice to delete details means a notice to record the official record with the details of the disregarded conviction or caution concerned in accordance with section 95 of the Act—
 
@@ -114,18 +114,18 @@ This Order, made under section 95 of the Act, prescribes which records of convic
 
 [^f00001]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-5119acbd24ab238363c2a5e1a6c7958f]: Commencement: Art. 1 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
+[^c-5119acbd24ab238363c2a5e1a6c7958f]: Commencement: Art. 1 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
 
-[^key-9051391d86c3ed1ab41b69d3e72c0a2d]: Textual amendment: Words in art. 1(2) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/15/2)
+[^c-9051391d86c3ed1ab41b69d3e72c0a2d]: Textual amendment: Words in art. 1(2) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/15/2)
 
-[^key-3b36a73dd8562315c39f9e63ae655945]: Commencement: Art. 2 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
+[^c-3b36a73dd8562315c39f9e63ae655945]: Commencement: Art. 2 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
 
-[^key-10b1657b6fed99545b280075076c7e61]: Textual amendment: Words in art. 2 omitted (29.9.2026) by virtue of [The Protection of Freedoms Act 2012 (Relevant Official Records) (Amendment) Order 2026 (S.I. 2026/977)](https://www.legislation.gov.uk/uksi/2026/977), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/977/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/977/article/2)
+[^c-10b1657b6fed99545b280075076c7e61]: Textual amendment: Words in art. 2 omitted (29.9.2026) by virtue of [The Protection of Freedoms Act 2012 (Relevant Official Records) (Amendment) Order 2026 (S.I. 2026/977)](https://www.legislation.gov.uk/uksi/2026/977), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/977/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/977/article/2)
 
-[^key-af30c32e7d8e8fe76be7d00fcc6c40bc]: Textual amendment: Art. 2(fa) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/15/3)
+[^c-af30c32e7d8e8fe76be7d00fcc6c40bc]: Textual amendment: Art. 2(fa) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/15/3)
 
-[^key-c5b28ff24770d359dac09e5a71872334]: Commencement: Art. 3 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
+[^c-c5b28ff24770d359dac09e5a71872334]: Commencement: Art. 3 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
 
-[^key-713b319e63eba486bf0c07919689ecdb]: Textual amendment: Art. 3(fa) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/15/4)
+[^c-713b319e63eba486bf0c07919689ecdb]: Textual amendment: Art. 3(fa) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/15/4)
 
-[^key-8c04e9134064a3a6de8452fa63605511]: Commencement: Art. 4 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)
+[^c-8c04e9134064a3a6de8452fa63605511]: Commencement: Art. 4 in force at 1.10.2012, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2012/2279/article/1/1)

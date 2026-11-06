@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Definitions[^key-5a197edf8baac44565b291866d28c789]
+## 2. Definitions[^c-5a197edf8baac44565b291866d28c789]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ includes a reference to a person who has such a permission, is subject to such a
 
 ## Annotations
 
-[^key-5a197edf8baac44565b291866d28c789]: Commencement: Art. 2 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-5a197edf8baac44565b291866d28c789]: Commencement: Art. 2 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00002]: Footnote: S.I. [2001/2636](https://www.legislation.gov.uk/uksi/2001/2636).
 

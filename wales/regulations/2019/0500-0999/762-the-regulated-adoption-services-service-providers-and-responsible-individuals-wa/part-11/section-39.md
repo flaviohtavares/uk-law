@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Duty to report the appointment of manager to service provider[^key-84c6956e59cdae97867c7ddb7ea278f9]
+## 39. Duty to report the appointment of manager to service provider[^c-84c6956e59cdae97867c7ddb7ea278f9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ On the appointment of a manager in accordance with regulation 36(1), the respons
 
 ## Annotations
 
-[^key-84c6956e59cdae97867c7ddb7ea278f9]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2019/762/regulation/39) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-84c6956e59cdae97867c7ddb7ea278f9]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2019/762/regulation/39) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

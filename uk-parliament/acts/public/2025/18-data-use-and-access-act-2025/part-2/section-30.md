@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Withdrawal of a supplementary code[^key-e76ea8904448bd695d16c31860973bf9][^key-b5eac1ed1c811bcac219e5589c31e820]
+## 30. Withdrawal of a supplementary code[^c-e76ea8904448bd695d16c31860973bf9][^c-b5eac1ed1c811bcac219e5589c31e820]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e76ea8904448bd695d16c31860973bf9]: Commencement: S. 30 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-e76ea8904448bd695d16c31860973bf9]: Commencement: S. 30 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-b5eac1ed1c811bcac219e5589c31e820]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/18/section/30) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-b5eac1ed1c811bcac219e5589c31e820]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2025/18/section/30) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

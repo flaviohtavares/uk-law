@@ -41,7 +41,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 393(11) of that Act, a draft of this Order was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-8072808b7749c84488693364a74a505b]
+## 1. Citation, commencement and interpretation[^c-8072808b7749c84488693364a74a505b]
 
 (1) This Order may be cited as the Communications Act 2003 (Disclosure of Information) Order 2014.
 
@@ -49,26 +49,26 @@ In accordance with section 393(11) of that Act, a draft of this Order was laid b
 
 (3) In this Order “the Act” means the Communications Act 2003.
 
-## 2. Specification as a relevant person[^key-d6e50a03a3c5c558465bbab6bf6313a2]
+## 2. Specification as a relevant person[^c-d6e50a03a3c5c558465bbab6bf6313a2]
 
 Each of the following is specified as a relevant person for the purposes of section 393(3) of the Act (general restrictions on disclosure of information)—
 
-- (a) the Information Commission[^key-2d621c0462f0e8fa0b6035c2cc6638db];
+- (a) the Information Commission[^c-2d621c0462f0e8fa0b6035c2cc6638db];
 - (b) the Financial Conduct Authority; and
 - (c) the Payment Systems Regulator.
 
-## 3. Specification of relevant functions[^key-e902b3c71cc21e86841e742f2df2d124]
+## 3. Specification of relevant functions[^c-e902b3c71cc21e86841e742f2df2d124]
 
-(1)[^key-0cb344ca9a669fe81e3102ab41cd14c3] The following are specified as relevant functions for the purposes of section 393(4) of the Act—
+(1)[^c-0cb344ca9a669fe81e3102ab41cd14c3] The following are specified as relevant functions for the purposes of section 393(4) of the Act—
 
-- (a) any functions conferred by or under the data protection legislation[^key-edcb197c676e2ad9429c0480930ad398];
+- (a) any functions conferred by or under the data protection legislation[^c-edcb197c676e2ad9429c0480930ad398];
 - (b) any functions conferred by the Privacy and Electronic Communications (EC Directive) Regulations 2003[^f00003];
 - (c) any functions conferred by or under the Financial Services and Markets Act 2000[^f00004];
 - (d) any functions conferred by or under the Financial Services (Banking Reform) Act 2013[^f00005];
-- (e) any functions conferred by the Payment Services Regulations 2017[^key-d5b5a18aad9be12f493fefe86168d48c];
+- (e) any functions conferred by the Payment Services Regulations 2017[^c-d5b5a18aad9be12f493fefe86168d48c];
 - (f) any functions conferred by or under the Company Directors Disqualification Act 1986[^f00007].
 
-(2)[^key-c90330ca35075525e27abfd94866aa47] In this article, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(2)[^c-c90330ca35075525e27abfd94866aa47] In this article, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 Ed Vaizey
 
@@ -92,17 +92,17 @@ Article 3 specifies as relevant functions the functions under the Data Protectio
 
 [^f00001]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 393 has been amended, but those amendments are not relevant to this Order.
 
-[^key-8072808b7749c84488693364a74a505b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/1825/article/1) in force at 10.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/1/2)
+[^c-8072808b7749c84488693364a74a505b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/1825/article/1) in force at 10.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/1/2)
 
-[^key-d6e50a03a3c5c558465bbab6bf6313a2]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/1825/article/2) in force at 10.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/1/2)
+[^c-d6e50a03a3c5c558465bbab6bf6313a2]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2014/1825/article/2) in force at 10.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/1/2)
 
-[^key-2d621c0462f0e8fa0b6035c2cc6638db]: Textual amendment: Words in [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1825/article/2/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/15); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-2d621c0462f0e8fa0b6035c2cc6638db]: Textual amendment: Words in [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1825/article/2/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/15); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-e902b3c71cc21e86841e742f2df2d124]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1825/article/3) in force at 10.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/1/2)
+[^c-e902b3c71cc21e86841e742f2df2d124]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1825/article/3) in force at 10.7.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/1/2)
 
-[^key-0cb344ca9a669fe81e3102ab41cd14c3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1825/article/3) renumbered as art. 3(1) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 379(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/379/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-0cb344ca9a669fe81e3102ab41cd14c3]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1825/article/3) renumbered as art. 3(1) (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 379(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/379/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-edcb197c676e2ad9429c0480930ad398]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1825/article/3/1/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 379(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/379/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-edcb197c676e2ad9429c0480930ad398]: Textual amendment: Words in [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2014/1825/article/3/1/a) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 379(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/379/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^f00003]: Footnote: [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426) as amended by [S.I. 2004/1039](https://www.legislation.gov.uk/uksi/2004/1039), [2011/1208](https://www.legislation.gov.uk/uksi/2011/1208).
 
@@ -110,8 +110,8 @@ Article 3 specifies as relevant functions the functions under the Data Protectio
 
 [^f00005]: Footnote: Part 5 of that Act requires the Financial Conduct Authority to establish the Payment Systems Regulator, and confers duties and powers on the Payment Systems Regulator.
 
-[^key-d5b5a18aad9be12f493fefe86168d48c]: Textual amendment: Word in [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1825/article/3/e) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 17](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/17) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-d5b5a18aad9be12f493fefe86168d48c]: Textual amendment: Word in [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/1825/article/3/e) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 17](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/17) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00007]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46). Relevant amendments were made by the Deregulation and Contracting Out Act [1994(c.40)](https://www.legislation.gov.uk/uksi/1994/40), the Insolvency Act [2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), the Banking Act [2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1) and by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [2004/1941](https://www.legislation.gov.uk/uksi/2004/1941), [2007/2194](https://www.legislation.gov.uk/uksi/2007/2194), [2008/948](https://www.legislation.gov.uk/uksi/2008/948), [2009/805](https://www.legislation.gov.uk/uksi/2009/805), [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [2012/2404](https://www.legislation.gov.uk/uksi/2012/2404).
 
-[^key-c90330ca35075525e27abfd94866aa47]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/3/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 379(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/379/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c90330ca35075525e27abfd94866aa47]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/uksi/2014/1825/article/3/2) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 379(4)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/379/4) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

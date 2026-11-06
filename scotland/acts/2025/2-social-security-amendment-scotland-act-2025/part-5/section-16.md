@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Liability of appointees under sections 85A and 85B of the 2018 Act[^key-ff80705834f80f004aa21f33abb0e5a3]
+## 16. Liability of appointees under sections 85A and 85B of the 2018 Act[^c-ff80705834f80f004aa21f33abb0e5a3]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff80705834f80f004aa21f33abb0e5a3]: Commencement: S. 16 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-ff80705834f80f004aa21f33abb0e5a3]: Commencement: S. 16 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

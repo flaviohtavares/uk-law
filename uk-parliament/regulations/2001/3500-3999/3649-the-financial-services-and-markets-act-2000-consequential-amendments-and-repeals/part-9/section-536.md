@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 536. Provision of information[^key-2974e4ea749379dedb2057c7a572f585]
+## 536. Provision of information[^c-2974e4ea749379dedb2057c7a572f585]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ The Teachers' Superannuation (Provision of Information and Administrative Expens
 
 ## Annotations
 
-[^key-2974e4ea749379dedb2057c7a572f585]: Commencement: Art. 536 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2974e4ea749379dedb2057c7a572f585]: Commencement: Art. 536 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

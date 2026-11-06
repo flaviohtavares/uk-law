@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 161. Calls by liquidator[^key-68b5e21704fb6ca5492e9ecff3db18e2]
+## 161. Calls by liquidator[^c-68b5e21704fb6ca5492e9ecff3db18e2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.212 of the 1991 Rules.
 
 ## Annotations
 
-[^key-68b5e21704fb6ca5492e9ecff3db18e2]: Commencement: Rule 161 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-68b5e21704fb6ca5492e9ecff3db18e2]: Commencement: Rule 161 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

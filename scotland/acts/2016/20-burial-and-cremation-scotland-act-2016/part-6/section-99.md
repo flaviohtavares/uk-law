@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Power to extend application of Act[^key-5441f6b19de9cae875ad2acc75bf1540]
+## 99. Power to extend application of Act[^c-5441f6b19de9cae875ad2acc75bf1540]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5441f6b19de9cae875ad2acc75bf1540]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2016/20/section/99) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-5441f6b19de9cae875ad2acc75bf1540]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2016/20/section/99) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

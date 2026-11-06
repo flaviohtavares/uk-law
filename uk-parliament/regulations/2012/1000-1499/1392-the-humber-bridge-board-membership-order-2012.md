@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Humber Bridge Board (Membership) Order 2012 (revoked)[^key-34560c5aefe61a3826320e17e20fb288]
+The Humber Bridge Board (Membership) Order 2012 (revoked)[^c-34560c5aefe61a3826320e17e20fb288]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 31st May 2012
 
-[^key-34560c5aefe61a3826320e17e20fb288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34560c5aefe61a3826320e17e20fb288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-34560c5aefe61a3826320e17e20fb288]
+## 1. Citation and commencement[^c-34560c5aefe61a3826320e17e20fb288]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Alterations to the Humber Bridge Board[^key-34560c5aefe61a3826320e17e20fb288]
+## 2. Alterations to the Humber Bridge Board[^c-34560c5aefe61a3826320e17e20fb288]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-34560c5aefe61a3826320e17e20fb288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34560c5aefe61a3826320e17e20fb288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-34560c5aefe61a3826320e17e20fb288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34560c5aefe61a3826320e17e20fb288]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34560c5aefe61a3826320e17e20fb288]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1392) revoked (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 4](https://www.legislation.gov.uk/ukla/2013/6/schedule/4)
+[^c-34560c5aefe61a3826320e17e20fb288]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/1392) revoked (15.1.2014) by [Humber Bridge Act 2013 (c. vi)](https://www.legislation.gov.uk/ukla/2013/6), [s. 1(1)](https://www.legislation.gov.uk/ukla/2013/6/section/1/1), [Sch. 4](https://www.legislation.gov.uk/ukla/2013/6/schedule/4)

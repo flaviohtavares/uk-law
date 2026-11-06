@@ -26,8 +26,8 @@ summary: ''
 - (b) is on maternity leave;
 - (c) is on adoption leave;
 - (d) is on paternity leave;
-- (da)[^key-d13d9c832b83329d5f1dab5399c08df3] is on parental bereavement leave;
-- (e) is on parental leave or shared parental leave[^key-c0479e5bac34a91fe82c07a2f2d48476] ; or
+- (da)[^c-d13d9c832b83329d5f1dab5399c08df3] is on parental bereavement leave;
+- (e) is on parental leave or shared parental leave[^c-c0479e5bac34a91fe82c07a2f2d48476] ; or
 - (f) is within regulation 21(4) or (6).
 
 (2) If paragraph (1) applies—
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d13d9c832b83329d5f1dab5399c08df3]: Textual amendment: [Reg. 67(1)(da)](https://www.legislation.gov.uk/nisr/2015/120/regulation/67/1/da) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [22(4)](https://www.legislation.gov.uk/nisr/2023/157/regulation/22/4), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
+[^c-d13d9c832b83329d5f1dab5399c08df3]: Textual amendment: [Reg. 67(1)(da)](https://www.legislation.gov.uk/nisr/2015/120/regulation/67/1/da) inserted (29.9.2023) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/157)](https://www.legislation.gov.uk/nisr/2023/157), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/157/regulation/1/1), [22(4)](https://www.legislation.gov.uk/nisr/2023/157/regulation/22/4), [34](https://www.legislation.gov.uk/nisr/2023/157/regulation/34) (with [regs. 28-33](https://www.legislation.gov.uk/nisr/2023/157/regulation/28))
 
-[^key-c0479e5bac34a91fe82c07a2f2d48476]: Textual amendment: Words in [reg. 67(1)(e)](https://www.legislation.gov.uk/nisr/2015/120/regulation/67/1/e) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2023/33/regulation/22)
+[^c-c0479e5bac34a91fe82c07a2f2d48476]: Textual amendment: Words in [reg. 67(1)(e)](https://www.legislation.gov.uk/nisr/2015/120/regulation/67/1/e) inserted (1.4.2023) by [The Health and Social Care Pension Scheme (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/33)](https://www.legislation.gov.uk/nisr/2023/33), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2023/33/regulation/1/2), [22](https://www.legislation.gov.uk/nisr/2023/33/regulation/22)

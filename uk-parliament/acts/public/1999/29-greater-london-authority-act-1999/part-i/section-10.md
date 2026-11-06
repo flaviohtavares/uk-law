@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Filling a vacancy in an Assembly constituency.[^key-312a05f12be8090d01e29fa69b760009]
+## 10. Filling a vacancy in an Assembly constituency.[^c-312a05f12be8090d01e29fa69b760009]
 
 *Extent: E+W+S*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-312a05f12be8090d01e29fa69b760009]: Modification: S. 10 modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/4)
+[^c-312a05f12be8090d01e29fa69b760009]: Modification: S. 10 modified (E.) (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [9(1)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/1)[(3)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/3)[(4)](https://www.legislation.gov.uk/uksi/2020/395/regulation/9/4)
 
 [^c12799991]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).

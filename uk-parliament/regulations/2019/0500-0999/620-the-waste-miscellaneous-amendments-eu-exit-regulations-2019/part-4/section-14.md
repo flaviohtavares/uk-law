@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Commission Decision [2001/171/EC](https://www.legislation.gov.uk/eudn/2001/171) establishing the conditions for a derogation for glass packaging in relation to the heavy metal concentration levels established in Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) on packaging and packaging waste[^key-b149e9ea1f0c9eebd2dec8aed24d0e60]
+## 14. Commission Decision [2001/171/EC](https://www.legislation.gov.uk/eudn/2001/171) establishing the conditions for a derogation for glass packaging in relation to the heavy metal concentration levels established in Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) on packaging and packaging waste[^c-b149e9ea1f0c9eebd2dec8aed24d0e60]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,24 +28,24 @@ summary: ''
 >
 > **1.**
 >
-> In this Decision, “**Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62)**” means European Parliament and Council Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) on packaging and packaging waste [^c23656371], as last amended by Directive (EU) 2018/852[^key-b28d02d42affc0c872bda8080a512875] of the European Parliament and of the Council [^c23656381], and read in accordance with paragraphs 2 and 3.
+> In this Decision, “**Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62)**” means European Parliament and Council Directive [94/62/EC](https://www.legislation.gov.uk/eudr/1994/62) on packaging and packaging waste [^c23656371], as last amended by Directive (EU) 2018/852[^c-b28d02d42affc0c872bda8080a512875] of the European Parliament and of the Council [^c23656381], and read in accordance with paragraphs 2 and 3.
 >
 > **2.**
 >
 > Article 2 is to be read as if—
 >
-> - (a) in paragraph 1, for “the Community[^key-e41716f5e640c1e1ca836809e4e63a1d]” there were substituted “Great Britain[^key-be7230a0eda5667a538cd91fc3cb362d]”;
+> - (a) in paragraph 1, for “the Community[^c-e41716f5e640c1e1ca836809e4e63a1d]” there were substituted “Great Britain[^c-be7230a0eda5667a538cd91fc3cb362d]”;
 > - (b) paragraph 2 were omitted.
 >
-> **3.[^key-9b4ada64b9090218d7e027bb3de12f9a]**
+> **3.[^c-9b4ada64b9090218d7e027bb3de12f9a]**
 >
 > Article 3 is to be read as if, in paragraph 2, for “Article 3 of [Directive 2008/98/EC](https://www.legislation.gov.uk/eudr/2008/0098)” there were substituted “Article 3(1) of the Waste Framework Directive, as read with Articles 5 and 6 of that Directive”.
 >
 > **4.**
 >
-> In paragraph 3[^key-eded4407b1ff9ba55f80515225cc43cc], the “**Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^key-7e31f145373ee90c8ca9bb21fab0bc9e] , and read in accordance with paragraphs 5 and 6.
+> In paragraph 3[^c-eded4407b1ff9ba55f80515225cc43cc], the “**Waste Framework Directive**” means Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851[^c-7e31f145373ee90c8ca9bb21fab0bc9e] , and read in accordance with paragraphs 5 and 6.
 >
-> **5.[^key-d995428a2ff0c0dee02f9e9c518e305e]**
+> **5.[^c-d995428a2ff0c0dee02f9e9c518e305e]**
 >
 > Article 5 is to be read as if—
 >
@@ -108,33 +108,33 @@ summary: ''
 
 - (a) in the first paragraph, in the words before the first indent, in the first sentence, omit “in the Member States”;
 - (b) in the second paragraph—
-  - (i) for “the European[^key-19d732f139fe4d95b3a7e13009681150] Union” substitute “ Great Britain[^key-c55416d62d11ca5db523c1984e0df2a0] ”;
+  - (i) for “the European[^c-19d732f139fe4d95b3a7e13009681150] Union” substitute “ Great Britain[^c-c55416d62d11ca5db523c1984e0df2a0] ”;
   - (ii) omit “Community”.
 
 (6) Omit Article 7.
 
 ## Annotations
 
-[^key-b149e9ea1f0c9eebd2dec8aed24d0e60]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-b149e9ea1f0c9eebd2dec8aed24d0e60]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23656371]: Marginal citation: OJ No L 365, 31.12.1994, p 10.
 
-[^key-b28d02d42affc0c872bda8080a512875]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/a)
+[^c-b28d02d42affc0c872bda8080a512875]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(a)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/a)
 
 [^c23656381]: Marginal citation: OJ No L 115, 6.5.2015, p 11.
 
-[^key-e41716f5e640c1e1ca836809e4e63a1d]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/a/i)
+[^c-e41716f5e640c1e1ca836809e4e63a1d]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/a/i)
 
-[^key-be7230a0eda5667a538cd91fc3cb362d]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/a/ii)
+[^c-be7230a0eda5667a538cd91fc3cb362d]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/a/ii)
 
-[^key-9b4ada64b9090218d7e027bb3de12f9a]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/b)
+[^c-9b4ada64b9090218d7e027bb3de12f9a]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(b)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/b)
 
-[^key-eded4407b1ff9ba55f80515225cc43cc]: Textual amendment: Word in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/c/i)
+[^c-eded4407b1ff9ba55f80515225cc43cc]: Textual amendment: Word in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/c/i)
 
-[^key-7e31f145373ee90c8ca9bb21fab0bc9e]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/c/ii)
+[^c-7e31f145373ee90c8ca9bb21fab0bc9e]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/c/ii)
 
-[^key-d995428a2ff0c0dee02f9e9c518e305e]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/d)
+[^c-d995428a2ff0c0dee02f9e9c518e305e]: Textual amendment: Words in reg. 14(2) substituted (31.12.2020 immediately before IP completion day) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [14(10)(d)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/14/10/d)
 
-[^key-19d732f139fe4d95b3a7e13009681150]: Textual amendment: Words in reg. 14(5)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/b/i)
+[^c-19d732f139fe4d95b3a7e13009681150]: Textual amendment: Words in reg. 14(5)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/b/i)
 
-[^key-c55416d62d11ca5db523c1984e0df2a0]: Textual amendment: Words in reg. 14(5)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/b/ii)
+[^c-c55416d62d11ca5db523c1984e0df2a0]: Textual amendment: Words in reg. 14(5)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Hazardous Substances and Packaging (Legislative Functions and Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1647)](https://www.legislation.gov.uk/uksi/2020/1647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/1/2), [17(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1647/regulation/17/2/b/ii)

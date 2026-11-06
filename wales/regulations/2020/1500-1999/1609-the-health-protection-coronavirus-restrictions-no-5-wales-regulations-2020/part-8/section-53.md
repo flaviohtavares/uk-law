@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Fixed penalties: form and procedure[^key-3e55277a34e05be7029980b4258d5cee]
+## 53. Fixed penalties: form and procedure[^c-3e55277a34e05be7029980b4258d5cee]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) give reasonably detailed particulars of the circumstances alleged to constitute the offence;
 - (b) state the period during which (because of regulation 47(6)(a)) proceedings will not be taken for the offence;
-- (c) specify the amount of the fixed penalty determined under regulation 48 [^key-77da5ca29748f00a1ce3a1a580ff77a0]..., [^key-5770fe11487eb17e403bc5f4961cb9a8]... 50 [^key-77da5ca29748f00a1ce3a1a580ff77a0]... or 52 (as the case may be);
+- (c) specify the amount of the fixed penalty determined under regulation 48 [^c-77da5ca29748f00a1ce3a1a580ff77a0]..., [^c-5770fe11487eb17e403bc5f4961cb9a8]... 50 [^c-77da5ca29748f00a1ce3a1a580ff77a0]... or 52 (as the case may be);
 - (d) state the name and address of the person to whom the fixed penalty may be paid;
 - (e) specify permissible methods of payment.
 
@@ -45,8 +45,8 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-3e55277a34e05be7029980b4258d5cee]: Commencement: Reg. 53 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-3e55277a34e05be7029980b4258d5cee]: Commencement: Reg. 53 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
 
-[^key-77da5ca29748f00a1ce3a1a580ff77a0]: Textual amendment: Words in [reg. 53(1)(c)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/53/1/c) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(22)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/22) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
+[^c-77da5ca29748f00a1ce3a1a580ff77a0]: Textual amendment: Words in [reg. 53(1)(c)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/53/1/c) omitted (28.3.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/388)](https://www.legislation.gov.uk/wsi/2022/388), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/388/regulation/1/2), [2(22)](https://www.legislation.gov.uk/wsi/2022/388/regulation/2/22) (with [reg. 3](https://www.legislation.gov.uk/wsi/2022/388/regulation/3))
 
-[^key-5770fe11487eb17e403bc5f4961cb9a8]: Textual amendment: Word in [reg. 53(1)(c)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/53/1/c) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(10)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/10)
+[^c-5770fe11487eb17e403bc5f4961cb9a8]: Textual amendment: Word in [reg. 53(1)(c)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/53/1/c) omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(10)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/10)

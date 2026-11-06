@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Amendments[^key-2a41cdb7d31e1962646449c2e1e03a33]
+## 43. Amendments[^c-2a41cdb7d31e1962646449c2e1e03a33]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The 2006 (Charges) Regulations and the 2006 (PDS) Regulations are amended in acc
 
 ## Annotations
 
-[^key-2a41cdb7d31e1962646449c2e1e03a33]: Commencement: Reg. 43 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2a41cdb7d31e1962646449c2e1e03a33]: Commencement: Reg. 43 in force at 1.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

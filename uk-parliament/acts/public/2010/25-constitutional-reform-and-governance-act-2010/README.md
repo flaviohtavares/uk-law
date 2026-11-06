@@ -88,7 +88,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 19 — Consequential amendments and transitional provision](part-1/section-19.md)
 
-### Part 2 — Ratification of treaties[^key-6aa91b062b70e5c9f86fefccae5ecfd6]
+### Part 2 — Ratification of treaties[^c-6aa91b062b70e5c9f86fefccae5ecfd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,4 +158,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-6aa91b062b70e5c9f86fefccae5ecfd6]: Modification: Pt. 2 restricted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 42](https://www.legislation.gov.uk/ukpga/2020/21/section/42), [57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6)
+[^c-6aa91b062b70e5c9f86fefccae5ecfd6]: Modification: Pt. 2 restricted (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 42](https://www.legislation.gov.uk/ukpga/2020/21/section/42), [57(1)(b)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)[(c)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/c)[(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/6)

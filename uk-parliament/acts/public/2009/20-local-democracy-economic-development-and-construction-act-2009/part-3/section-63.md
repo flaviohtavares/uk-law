@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Continuity of functions[^key-cb285efd825d0402eef7d1d184180304]
+## 63. Continuity of functions[^c-cb285efd825d0402eef7d1d184180304]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb285efd825d0402eef7d1d184180304]: Commencement: S. 63 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(k)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/k)
+[^c-cb285efd825d0402eef7d1d184180304]: Commencement: S. 63 in force at 1.4.2010 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(k)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/k)

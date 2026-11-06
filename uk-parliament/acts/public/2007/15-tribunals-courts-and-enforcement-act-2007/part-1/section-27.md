@@ -22,7 +22,7 @@ summary: ''
 
 (1) A sum payable in pursuance of a decision of the First-tier Tribunal or Upper Tribunal made in England and Wales—
 
-- (a) shall be recoverable as if it were payable under an order of the county court[^key-c498696a5ef094d04f8ac2ed61a73d94] in England and Wales;
+- (a) shall be recoverable as if it were payable under an order of the county court[^c-c498696a5ef094d04f8ac2ed61a73d94] in England and Wales;
 - (b) shall be recoverable as if it were payable under an order of the High Court in England and Wales.
 
 (2) An order for the payment of a sum payable in pursuance of a decision of the First-tier Tribunal or Upper Tribunal made in Scotland (or a copy of such an order certified in accordance with Tribunal Procedure Rules) may be enforced as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
@@ -48,4 +48,4 @@ summary: ''
 
 [^c20684841]: Commencement: S. 27 wholly in force at 1.4.2009; s. 27 not in force at Royal Assent see s. 148; s. 27(5)(6) in force at 19.9.2007 by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 2](https://www.legislation.gov.uk/uksi/2007/2709/article/2); s. 27(1)-(4) in force at 1.4.2009 by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [art. 6(a)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/a)
 
-[^key-c498696a5ef094d04f8ac2ed61a73d94]: Textual amendment: Words in s. 27(1)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-c498696a5ef094d04f8ac2ed61a73d94]: Textual amendment: Words in s. 27(1)(a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

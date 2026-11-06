@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Representations to Parliament by the President of the Supreme Court[^key-423b3173d8c14aae4cbd80147a764b8f]
+## 81. Representations to Parliament by the President of the Supreme Court[^c-423b3173d8c14aae4cbd80147a764b8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-423b3173d8c14aae4cbd80147a764b8f]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2015/2/section/81) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/66)
+[^c-423b3173d8c14aae4cbd80147a764b8f]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2015/2/section/81) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 66](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/66)

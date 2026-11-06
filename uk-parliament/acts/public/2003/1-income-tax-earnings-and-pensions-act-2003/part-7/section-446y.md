@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446Y. Amount treated as income[^key-1b346b5eed502bf975486a87497b1d56]
+## 446Y. Amount treated as income[^c-1b346b5eed502bf975486a87497b1d56]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ DA is the amount of any expenses incurred in connection with the disposal.
 
 ## Annotations
 
-[^key-1b346b5eed502bf975486a87497b1d56]: Textual amendment: Pt. 7 Ch. 3D inserted (with effect in accordance with Sch. 22 para. 8(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 8(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/8/1)
+[^c-1b346b5eed502bf975486a87497b1d56]: Textual amendment: Pt. 7 Ch. 3D inserted (with effect in accordance with Sch. 22 para. 8(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 8(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/8/1)

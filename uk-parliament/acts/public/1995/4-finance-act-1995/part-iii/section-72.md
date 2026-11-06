@@ -106,13 +106,13 @@ summary: ''
 >   and
 > - (c) the references, in relation to sections 135 and 136, to the exchanged holding is a reference to the shares in company B or, as the case may be, to the shares or debentures in respect of which shares or debentures are issued under the arrangement in question.
 
-(4)[^key-26f325ac3c42c77f79def84971281842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-26f325ac3c42c77f79def84971281842] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 257(1) (gifts to charities etc.), after paragraph (b) there shall be inserted—
 
 > and the disposal is not one in relation to which section 151A(1) has effect.
 
-(6)[^key-53f8aa9dd24a8b1955d376a03bc20f7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-53f8aa9dd24a8b1955d376a03bc20f7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 288(1) (interpretation), after the definition of “trading stock” there shall be inserted the following definition—
 
@@ -126,6 +126,6 @@ summary: ''
 
 [^c15671101]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-26f325ac3c42c77f79def84971281842]: Textual amendment: [S. 72(4)](https://www.legislation.gov.uk/ukpga/1995/4/section/72/4) repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
+[^c-26f325ac3c42c77f79def84971281842]: Textual amendment: [S. 72(4)](https://www.legislation.gov.uk/ukpga/1995/4/section/72/4) repealed (with effect in accordance with Sch. 19 para. 7 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(13)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/13)
 
-[^key-53f8aa9dd24a8b1955d376a03bc20f7d]: Textual amendment: [S. 72(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/72/6) repealed (with effect in accordance with Sch. 21 para. 10(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/14)
+[^c-53f8aa9dd24a8b1955d376a03bc20f7d]: Textual amendment: [S. 72(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/72/6) repealed (with effect in accordance with Sch. 21 para. 10(8) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/14)

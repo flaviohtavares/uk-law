@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**30.**[^key-5de2c9df4aeacd882fcaed98a8c80736] Omit regulation 4 (information about related undertakings (non-IAS or IAS individual accounts)).
+**30.**[^c-5de2c9df4aeacd882fcaed98a8c80736] Omit regulation 4 (information about related undertakings (non-IAS or IAS individual accounts)).
 
 ## Annotations
 
-[^key-5de2c9df4aeacd882fcaed98a8c80736]: Commencement: Reg. 30 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-5de2c9df4aeacd882fcaed98a8c80736]: Commencement: Reg. 30 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

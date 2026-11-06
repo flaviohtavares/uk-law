@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to the following provisions of this section, an internal drainage board may borrow, on the security of their property or income—
 
-- (a) for the purpose of defraying any costs, charges or expenses incurred by them in the exercise or performance of any power or duty under this Act or the Water Resources Act 1991[^key-255bb01d110cd61dab103a9987117988]; or
+- (a) for the purpose of defraying any costs, charges or expenses incurred by them in the exercise or performance of any power or duty under this Act or the Water Resources Act 1991[^c-255bb01d110cd61dab103a9987117988]; or
 - (b) for the purpose of discharging any loan contracted by them under this Act or any provision re-enacted, whether directly or indirectly, by this Act.
 
 (2) The council of a county , county borough[^c1415504] or London borough and the Common Council of the City of London may borrow for the purposes of this Act.
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-255bb01d110cd61dab103a9987117988]: Textual amendment: Words in [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/1991/59/section/55/1/a) substituted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 40(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/40/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-255bb01d110cd61dab103a9987117988]: Textual amendment: Words in [s. 55(1)(a)](https://www.legislation.gov.uk/ukpga/1991/59/section/55/1/a) substituted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 40(3)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/40/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
 [^c1415504]: Textual amendment: Words inserted in s. 55(2) (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 22(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/22/5), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/19/schedule/11), [Pt. II](https://www.legislation.gov.uk/ukpga/1994/19/part/II), [para. 4(7)](https://www.legislation.gov.uk/ukpga/1994/19/paragraph/4/7) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art.3](https://www.legislation.gov.uk/uksi/1996/396/article/3)
 

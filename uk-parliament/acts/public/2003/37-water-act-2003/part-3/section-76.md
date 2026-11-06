@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Service of documents[^key-1dd928a9000adac3ce3e5c786948ec69]
+## 76. Service of documents[^c-1dd928a9000adac3ce3e5c786948ec69]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd928a9000adac3ce3e5c786948ec69]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2003/37/section/76) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(l)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/l) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))
+[^c-1dd928a9000adac3ce3e5c786948ec69]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2003/37/section/76) in force at 1.10.2004 by [S.I. 2004/2528](https://www.legislation.gov.uk/uksi/2004/2528), [art. 2(l)](https://www.legislation.gov.uk/uksi/2004/2528/article/2/l) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2004/2528/schedule/paragraph/8))

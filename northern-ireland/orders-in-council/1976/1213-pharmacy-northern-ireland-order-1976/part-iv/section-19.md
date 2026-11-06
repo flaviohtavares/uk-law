@@ -22,7 +22,7 @@ summary: ''
 
 (1) For the purposes of this Order, the Statutory Committee constituted under section 12 of the Act of 1945 shall continue in being and the provisions of this Article shall have effect with respect to the Statutory Committee and other matters relating to that Committee and their members.
 
-(2)[^key-5d712f490ba94536bae0a103737099d1] The Statutory Committee shall consist of—
+(2)[^c-5d712f490ba94536bae0a103737099d1] The Statutory Committee shall consist of—
 
 - (a) a lay member who is the chair;
 - (b) 2 lay members who are deputy chairs;
@@ -53,4 +53,4 @@ all of whom shall be appointed by the Council.
 
 ## Annotations
 
-[^key-5d712f490ba94536bae0a103737099d1]: Textual amendment: Art. 19(2)-(8) substituted (1.10.2012) for art. 19(2)-(11) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [7](https://www.legislation.gov.uk/nisr/2012/308/article/7) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))
+[^c-5d712f490ba94536bae0a103737099d1]: Textual amendment: Art. 19(2)-(8) substituted (1.10.2012) for art. 19(2)-(11) by [The Pharmacy (1976 Order) (Amendment) Order (Northern Ireland) 2012 (S.R. 2012/308)](https://www.legislation.gov.uk/nisr/2012/308), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2012/308/article/1/1), [7](https://www.legislation.gov.uk/nisr/2012/308/article/7) (with [Sch. 3](https://www.legislation.gov.uk/nisr/2012/308/schedule/3))

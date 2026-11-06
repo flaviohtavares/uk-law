@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Moratoriums in Northern Ireland: temporary provision[^key-fb7f1d38b35762a1e059b1d3a3a9e938][^key-edfc91f9a40caee0ed78919c138674ec]
+## SCHEDULE 8 — Moratoriums in Northern Ireland: temporary provision[^c-fb7f1d38b35762a1e059b1d3a3a9e938][^c-edfc91f9a40caee0ed78919c138674ec]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ Section 6
 **1.** In this Schedule “**relevant period**” means the period which—
 
 - (a) begins with the day on which this Schedule comes into force, and
-- (b) ends with 30 March 2022[^key-b723d5ff171fa133696687356779b864].
+- (b) ends with 30 March 2022[^c-b723d5ff171fa133696687356779b864].
 
 #### Power to turn off particular provisions of Part 2 of this Schedule early
 
@@ -51,56 +51,56 @@ Section 6
 
 #### “Eligible” company: additional exclusion
 
-**5.**[^key-58b842178fe4a2c67a9d58d914324604] During the relevant period, a company is not eligible for the purposes of Article 13B, 13BA or 13BB of the Insolvency (Northern Ireland) Order 1989 if the company— *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**5.**[^c-58b842178fe4a2c67a9d58d914324604] During the relevant period, a company is not eligible for the purposes of Article 13B, 13BA or 13BB of the Insolvency (Northern Ireland) Order 1989 if the company— *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-- (a) has permission under Part 4A of the Financial Services and Markets Act 2000 to carry on a regulated activity within the meaning of that Act, and *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
-- (b) is not subject to a requirement imposed under that Act to refrain from holding money for clients. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+- (a) has permission under Part 4A of the Financial Services and Markets Act 2000 to carry on a regulated activity within the meaning of that Act, and *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+- (b) is not subject to a requirement imposed under that Act to refrain from holding money for clients. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 #### Relaxation of conditions for obtaining moratorium etc
 
-**6.** (1) For the purposes of obtaining a moratorium under Article 13B of the Insolvency (Northern Ireland) Order 1989 during the relevant period— *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**6.** (1) For the purposes of obtaining a moratorium under Article 13B of the Insolvency (Northern Ireland) Order 1989 during the relevant period— *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-- (a) Article 13B of that Order has effect as if paragraph (1)(a) were omitted; *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
-- (b) Article 13BC(1)(e) of that Order has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
-- (c) Schedule ZA1 to that Order has effect as if paragraph 2(1)(b) and (2)(b) were omitted. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+- (a) Article 13B of that Order has effect as if paragraph (1)(a) were omitted; *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+- (b) Article 13BC(1)(e) of that Order has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+- (c) Schedule ZA1 to that Order has effect as if paragraph 2(1)(b) and (2)(b) were omitted. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-(2) During the relevant period, only an overseas company may obtain a moratorium under Article 13BA of the Insolvency (Northern Ireland) Order 1989. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+(2) During the relevant period, only an overseas company may obtain a moratorium under Article 13BA of the Insolvency (Northern Ireland) Order 1989. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-**7.** In relation to an application for a moratorium made under Article 13BA or 13BB of the Insolvency (Northern Ireland) Order 1989 during the relevant period— *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**7.** In relation to an application for a moratorium made under Article 13BA or 13BB of the Insolvency (Northern Ireland) Order 1989 during the relevant period— *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-- (a) Article 13BC(1)(e) of that Order has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
-- (b) Schedule ZA1 to that Order has effect as if paragraph 2(1)(b) and (2)(b) were omitted. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+- (a) Article 13BC(1)(e) of that Order has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+- (b) Schedule ZA1 to that Order has effect as if paragraph 2(1)(b) and (2)(b) were omitted. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 #### Relaxation of conditions for extending moratorium obtained during relevant period
 
-**8.** (1) This paragraph applies in relation to a moratorium that comes into force during the relevant period. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**8.** (1) This paragraph applies in relation to a moratorium that comes into force during the relevant period. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-(2) For the purposes of extending the moratorium under Article 13CA or 13CB of the Insolvency (Northern Ireland) Order 1989, paragraph (1)(d) of that Article has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+(2) For the purposes of extending the moratorium under Article 13CA or 13CB of the Insolvency (Northern Ireland) Order 1989, paragraph (1)(d) of that Article has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-(3) In relation to an application under Article 13CD of the Insolvency (Northern Ireland) Order 1989 that the moratorium be extended, paragraph (2)(d) of that Article has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+(3) In relation to an application under Article 13CD of the Insolvency (Northern Ireland) Order 1989 that the moratorium be extended, paragraph (2)(d) of that Article has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 #### Monitoring of moratorium obtained during relevant period
 
-**9.** In relation to a moratorium that comes into force during the relevant period, Article 13EA(1) of the Insolvency (Northern Ireland) Order 1989 has effect as if for the words from “it remains likely” to the end there were substituted *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**9.** In relation to a moratorium that comes into force during the relevant period, Article 13EA(1) of the Insolvency (Northern Ireland) Order 1989 has effect as if for the words from “it remains likely” to the end there were substituted *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 > —
 >
-> - (a) it is likely that the moratorium will result in the rescue of the company as a going concern, or *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
-> - (b) that, if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, it is likely that the moratorium would result in the rescue of the company as a going concern. *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+> - (a) it is likely that the moratorium will result in the rescue of the company as a going concern, or *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+> - (b) that, if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, it is likely that the moratorium would result in the rescue of the company as a going concern. *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 #### Termination of moratorium obtained during relevant period
 
-**10.** In relation to a moratorium that comes into force during the relevant period, Article 13ED(1) of the Insolvency (Northern Ireland) Order 1989 has effect as if for sub-paragraph (a) there were substituted— *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**10.** In relation to a moratorium that comes into force during the relevant period, Article 13ED(1) of the Insolvency (Northern Ireland) Order 1989 has effect as if for sub-paragraph (a) there were substituted— *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
-> - (a) the monitor thinks— *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
->   - (i) that the moratorium is not likely to result in the rescue of the company as a going concern, and *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
->   - (ii (affected by repeal, see note))[^key-58b842178fe4a2c67a9d58d914324604] that, even if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, the moratorium would not be likely to result in the rescue of the company as a going concern, *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+> - (a) the monitor thinks— *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+>   - (i) that the moratorium is not likely to result in the rescue of the company as a going concern, and *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
+>   - (ii (affected by repeal, see note))[^c-58b842178fe4a2c67a9d58d914324604] that, even if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, the moratorium would not be likely to result in the rescue of the company as a going concern, *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 .
 
 #### “Coronavirus”
 
-**11.** In the modifications made by this Part of this Schedule “ *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]**coronavirus *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). *(affected by repeal, see note)*[^key-58b842178fe4a2c67a9d58d914324604]
+**11.** In the modifications made by this Part of this Schedule “ *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]**coronavirus *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). *(affected by repeal, see note)*[^c-58b842178fe4a2c67a9d58d914324604]
 
 ### PART 3 — Temporary rules
 
@@ -529,10 +529,10 @@ Section 6
 
 ## Annotations
 
-[^key-fb7f1d38b35762a1e059b1d3a3a9e938]: Modification: Sch. 8 applied (with modifications) (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/643/regulation/6)
+[^c-fb7f1d38b35762a1e059b1d3a3a9e938]: Modification: Sch. 8 applied (with modifications) (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2020/643/regulation/6)
 
-[^key-edfc91f9a40caee0ed78919c138674ec]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8) applied (with modifications) (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2021/60/regulation/7)
+[^c-edfc91f9a40caee0ed78919c138674ec]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8) applied (with modifications) (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2021/60/regulation/7)
 
-[^key-b723d5ff171fa133696687356779b864]: Textual amendment: Words in [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/1/b) substituted (29.9.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Relevant Period in Schedule 8) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/258)](https://www.legislation.gov.uk/nisr/2021/258), [regs. 1](https://www.legislation.gov.uk/nisr/2021/258/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/258/regulation/2)
+[^c-b723d5ff171fa133696687356779b864]: Textual amendment: Words in [Sch. 8 para. 1(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/paragraph/1/b) substituted (29.9.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Amendment of Relevant Period in Schedule 8) (No. 2) Regulations (Northern Ireland) 2021 (S.R. 2021/258)](https://www.legislation.gov.uk/nisr/2021/258), [regs. 1](https://www.legislation.gov.uk/nisr/2021/258/regulation/1), [2](https://www.legislation.gov.uk/nisr/2021/258/regulation/2)
 
-[^key-58b842178fe4a2c67a9d58d914324604]: Textual amendment: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/part/2) ceases to have effect (14.2.2022) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Part 2 of Schedule 8) Regulations (Northern Ireland) 2022 (S.R. 2022/4)](https://www.legislation.gov.uk/nisr/2022/4), [regs. 1](https://www.legislation.gov.uk/nisr/2022/4/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/4/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/4/regulation/3))
+[^c-58b842178fe4a2c67a9d58d914324604]: Textual amendment: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/12/schedule/8/part/2) ceases to have effect (14.2.2022) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Part 2 of Schedule 8) Regulations (Northern Ireland) 2022 (S.R. 2022/4)](https://www.legislation.gov.uk/nisr/2022/4), [regs. 1](https://www.legislation.gov.uk/nisr/2022/4/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/4/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/4/regulation/3))

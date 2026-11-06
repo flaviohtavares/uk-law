@@ -33,18 +33,18 @@ of 29 September 2015
 
 amending Annex II to Regulation (EU) No 1233/2011 of the European Parliament and of the Council on the application of certain guidelines in the field of officially supported export credits (revoked)
 
-[^key-e5d2ea9678deba5afa907f0e0973537b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5d2ea9678deba5afa907f0e0973537b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e5d2ea9678deba5afa907f0e0973537b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e5d2ea9678deba5afa907f0e0973537b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e5d2ea9678deba5afa907f0e0973537b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e5d2ea9678deba5afa907f0e0973537b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5d2ea9678deba5afa907f0e0973537b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5d2ea9678deba5afa907f0e0973537b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-e5d2ea9678deba5afa907f0e0973537b]
+## ANNEX[^c-e5d2ea9678deba5afa907f0e0973537b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5d2ea9678deba5afa907f0e0973537b]: Textual amendment: Regulation revoked (31.12.2020) by [The EU Export Credits Legislation (Revocation) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/969)](https://www.legislation.gov.uk/uksi/2019/969), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/969/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2019/969/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5d2ea9678deba5afa907f0e0973537b]: Textual amendment: Regulation revoked (31.12.2020) by [The EU Export Credits Legislation (Revocation) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/969)](https://www.legislation.gov.uk/uksi/2019/969), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/969/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2019/969/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

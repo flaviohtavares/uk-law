@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Notification orders[^key-daef3d2b5b963345ca9d595b735c2115]
+## 57. Notification orders[^c-daef3d2b5b963345ca9d595b735c2115]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 makes provision for notification orders applying the notification req
 
 ## Annotations
 
-[^key-daef3d2b5b963345ca9d595b735c2115]: Commencement: S. 57 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)
+[^c-daef3d2b5b963345ca9d595b735c2115]: Commencement: S. 57 in force at 1.10.2009 by [S.I. 2009/1493](https://www.legislation.gov.uk/uksi/2009/1493), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/1493/article/2/a)

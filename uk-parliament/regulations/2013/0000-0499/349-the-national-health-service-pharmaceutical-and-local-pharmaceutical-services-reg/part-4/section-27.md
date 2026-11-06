@@ -27,7 +27,7 @@ summary: ''
 
 from a person (X) who proposes to provide pharmaceutical services which are not being provided because the person listed in relation to them (Y) is suspended from the pharmaceutical list.
 
-(2) NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must refuse an application to which paragraph (1) applies—
+(2) NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must refuse an application to which paragraph (1) applies—
 
 - (a) unless it is satisfied that—
   - (i) Y has nominated X as the person to provide those services for the duration of Y's suspension and consents to X doing so,
@@ -62,4 +62,4 @@ from a person (X) who proposes to provide pharmaceutical services which are not 
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

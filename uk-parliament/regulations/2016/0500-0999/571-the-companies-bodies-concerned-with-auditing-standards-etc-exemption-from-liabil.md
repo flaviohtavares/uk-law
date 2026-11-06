@@ -54,14 +54,14 @@ These Regulations may be cited as the Companies (Bodies Concerned with Auditing 
 
 (1) The exemption from liability in subsections (3) and (4) of section 18A (power to confer exemption from liability) of the Act applies to—
 
-- (a) the Financial Reporting Council Limited, [^key-f006bcd888c147e16cd8c5298be8cd94]...
-- (b)[^key-f006bcd888c147e16cd8c5298be8cd94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Financial Reporting Council Limited, [^c-f006bcd888c147e16cd8c5298be8cd94]...
+- (b)[^c-f006bcd888c147e16cd8c5298be8cd94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-in accordance with paragraph (2)[^key-0fae38d714aa4c787a3b0710ae040d6e] .
+in accordance with paragraph (2)[^c-0fae38d714aa4c787a3b0710ae040d6e] .
 
-(2) The section 16(2) activities [^c23157311] which are specified under section 18A(3) of the Act in relation to the exemption from liability provided for under paragraph (1)(a) are the activities within subsection 2(a) to (t) of section 16[^key-1671c4ef33c12f6584b9a7b226e38900] (grants to bodies concerned with accounting standards etc) of the Act.
+(2) The section 16(2) activities [^c23157311] which are specified under section 18A(3) of the Act in relation to the exemption from liability provided for under paragraph (1)(a) are the activities within subsection 2(a) to (t) of section 16[^c-1671c4ef33c12f6584b9a7b226e38900] (grants to bodies concerned with accounting standards etc) of the Act.
 
-(3)[^key-bbe197faadf9cca178905138f42c6718] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-bbe197faadf9cca178905138f42c6718] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In this regulation “**the Act**” means the Companies (Audit, Investigations and Community Enterprise) Act 2004.
 
@@ -83,12 +83,12 @@ An explanatory memorandum is available alongside the instrument on www.legislati
 
 [^c23157291]: Marginal citation: [2004 c. 27](https://www.legislation.gov.uk/ukpga/2004/27). Section 18A was inserted by section 38 of the [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26); see [section 18A(5)](https://www.legislation.gov.uk/ukpga/2015/26/section/18A/5) for the definition of “specified”.
 
-[^key-f006bcd888c147e16cd8c5298be8cd94]: Textual amendment: Reg. 2(1)(b) and word omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2021/465/article/8/a/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-f006bcd888c147e16cd8c5298be8cd94]: Textual amendment: Reg. 2(1)(b) and word omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(a)(i)](https://www.legislation.gov.uk/uksi/2021/465/article/8/a/i) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
 
-[^key-0fae38d714aa4c787a3b0710ae040d6e]: Textual amendment: Words in reg. 2(1) substituted (6.5.2021) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2021/465/article/8/a/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-0fae38d714aa4c787a3b0710ae040d6e]: Textual amendment: Words in reg. 2(1) substituted (6.5.2021) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(a)(ii)](https://www.legislation.gov.uk/uksi/2021/465/article/8/a/ii) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
 
 [^c23157311]: Marginal citation: “Section 16(2) activities” is defined in section 18A(5) of the Companies (Audit, Investigations and Community Enterprise) Act 2004.
 
-[^key-1671c4ef33c12f6584b9a7b226e38900]: Textual amendment: Words in reg. 2(2) substituted (6.5.2021) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2021/465/article/8/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-1671c4ef33c12f6584b9a7b226e38900]: Textual amendment: Words in reg. 2(2) substituted (6.5.2021) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2021/465/article/8/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
 
-[^key-bbe197faadf9cca178905138f42c6718]: Textual amendment: Reg. 2(3) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2021/465/article/8/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-bbe197faadf9cca178905138f42c6718]: Textual amendment: Reg. 2(3) omitted (6.5.2021) by virtue of [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2021/465/article/8/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))

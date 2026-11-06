@@ -27,7 +27,7 @@ summary: ''
 
 (2) Subsection (1) above shall have effect subject to any contrary intention shown by the deceased in his will.
 
-(3)[^key-dd9e569686f3fd8952e039da24d69582] If—
+(3)[^c-dd9e569686f3fd8952e039da24d69582] If—
 
 - (a) personal representatives pay an amount of tax,
 - (b) the amount does not fall to be borne as part of the general testamentary and administration expenses of the estate,
@@ -40,4 +40,4 @@ the vestee must repay the amount to the personal representatives.
 
 ## Annotations
 
-[^key-dd9e569686f3fd8952e039da24d69582]: Textual amendment: [S. 211(3)](https://www.legislation.gov.uk/ukpga/1984/51/section/211/3) substituted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/3), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-dd9e569686f3fd8952e039da24d69582]: Textual amendment: [S. 211(3)](https://www.legislation.gov.uk/ukpga/1984/51/section/211/3) substituted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/3), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

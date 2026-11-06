@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Power of members of staff at schools to search pupils[^key-e193f0f3469402c5fac9c8f639d99352]
+## 2. Power of members of staff at schools to search pupils[^c-e193f0f3469402c5fac9c8f639d99352]
 
 *Extent: E+W*
 
@@ -137,4 +137,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e193f0f3469402c5fac9c8f639d99352]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/21/section/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-e193f0f3469402c5fac9c8f639d99352]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2011/21/section/2) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

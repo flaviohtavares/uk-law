@@ -75,14 +75,14 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
   and “**agricultural**” shall be construed accordingly;
 - “**the appropriate United Kingdom competent authority**” means—
-  - (a) in relation to England [^key-d9b6ddc205bc90435987c287fcbdb6ea]..., the Secretary of State;
-  - (aa) in relation to Wales, the Welsh Ministers;[^key-16fe6ae097667e4b79b87988ae90a1f5]
+  - (a) in relation to England [^c-d9b6ddc205bc90435987c287fcbdb6ea]..., the Secretary of State;
+  - (aa) in relation to Wales, the Welsh Ministers;[^c-16fe6ae097667e4b79b87988ae90a1f5]
   - (b) in relation to Scotland, the Scottish Ministers; and
   - (c) in relation to Northern Ireland, the Department;
 - “**authorised person**” means a person authorised in accordance with regulation 20(1);
 - “**the Department**” means the Department of Agriculture and Rural Development in Northern Ireland;
-- [^key-2ab0d55bcbc08b8510795551a04169f8]...
-- “**the Directive**” means Directive [2009/128/EC](https://www.legislation.gov.uk/eudr/2009/128) of the European Parliament and of the Council establishing a framework for Community action to achieve the sustainable use of pesticides , as last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council[^key-1fd8c46ae92d33afb860974fc913d26a] , as read in accordance with Schedule A1[^key-79b1f6cb12553b7b845e1ff47a0c6c79], of which Annexes I to IV are as amended from time to time;
+- [^c-2ab0d55bcbc08b8510795551a04169f8]...
+- “**the Directive**” means Directive [2009/128/EC](https://www.legislation.gov.uk/eudr/2009/128) of the European Parliament and of the Council establishing a framework for Community action to achieve the sustainable use of pesticides , as last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council[^c-1fd8c46ae92d33afb860974fc913d26a] , as read in accordance with Schedule A1[^c-79b1f6cb12553b7b845e1ff47a0c6c79], of which Annexes I to IV are as amended from time to time;
 - “**distributor**” means any person who makes a plant protection product available on the market, including wholesalers, retailers, vendors and suppliers;
 - “**environment**” means waters (including groundwaters, surface water, transitional waters, coastal waters and marine waters), sediment, soil, air, land, flora and fauna (indigenous or not), and any interrelationship between them, and any relationship with other living organisms;
 - “**groundwater**” means all water which is below the surface of the ground in the saturation zone and in direct contact with the ground or subsoil;
@@ -94,8 +94,8 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
   - (a) any vehicle, vessel, aircraft, hovercraft or marine structure; and
   - (b) any tent to moveable structure;
 - “**professional user**” means any person who uses plant protection products in the course of their work activities, including operators, technicians, employers and self-employed people, both in the farming and other sectors and “**professional use**” shall be construed accordingly;
-- “Regulation 1272/2008” means Regulation[^key-91e958c9f43924d9f2c577ae9a750e36] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, as amended from time to time;
-- “**Regulation 1107/2009**” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market , as last amended by[^key-20030596b72e036d459e12b50a9064c0] Regulation (EU) 2019/1009 of the European Parliament and of the Council[^key-0544d716c6cdb412f7423b59af1ed2d9] [^c21299731];
+- “Regulation 1272/2008” means Regulation[^c-91e958c9f43924d9f2c577ae9a750e36] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council on classification, labelling and packaging of substances and mixtures, as amended from time to time;
+- “**Regulation 1107/2009**” means Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market , as last amended by[^c-20030596b72e036d459e12b50a9064c0] Regulation (EU) 2019/1009 of the European Parliament and of the Council[^c-0544d716c6cdb412f7423b59af1ed2d9] [^c21299731];
 - “**specified certificate**” means—
   - (a) a certificate of competence relating to plant protection products recognised by Ministers having been published in a list by Ministers before 18th July 2012, for the purposes of paragraph 4 or 5 of Schedule 2, or paragraphs 7 or 8 of Schedule 3, to the Control of Pesticides Regulations 1986 [^c21299741];
   - (b) a certificate of competence relating to plant protection products recognised by the Department, having been published in a list by the Department before 18th July 2012 for the purposes of paragraph 4 or 5 of Schedule 2, or paragraphs 7 or 8 of Schedule 3, to the Control of Pesticides Regulations (Northern Ireland) 1987 [^c21299751];
@@ -124,7 +124,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) The review shall relate to the operation of these Regulations as they have effect in relation to England [^key-d194052fb216d361b5af7dc937822f7d]... only.
+(2) The review shall relate to the operation of these Regulations as they have effect in relation to England [^c-d194052fb216d361b5af7dc937822f7d]... only.
 
 (3) In carrying out the review the Secretary of State must, so far as is reasonable, have regard to how the Directive which is implemented by means of regulations 2 and 4 to 32 is implemented in other Member States.
 
@@ -140,7 +140,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## 4. National Action Plan
 
-The [^key-ac944e0b5b0bddada052c85977d456c5]... Ministers and the Department must jointly—
+The [^c-ac944e0b5b0bddada052c85977d456c5]... Ministers and the Department must jointly—
 
 - (a) adopt a National Action Plan in accordance with Article 4 and revise it as necessary;
 - (b) list plant protection product application equipment to which regulation 12(1) applies in the National Action Plan in accordance with Article 8(3)(a); and
@@ -179,9 +179,9 @@ The [^key-ac944e0b5b0bddada052c85977d456c5]... Ministers and the Department must
 - “**advisor**” means any person who has acquired adequate knowledge of and advises on pest management and the safe use of plant protection products, in the context of a professional capacity or commercial service, including private, self-employed and public advisory services, commercial agents, food producers and retailers where applicable;
 - “**awarding body**” means a body responsible for implementing a certification system;
 - “**a regulator in the United Kingdom**” means—
-  - (a) in relation to England, [^key-0eabfcd15ad5c898bd2ce6e3e5bd4a62]... the Office of Qualifications and Examinations Regulation;
-  - (b) in relation to Wales, the Welsh Ministers or Qualifications Wales[^key-edc3a5f27dda5bdd6a85157ea2a22e7a];
-  - (c) in relation to Scotland, the Quality Assurance Agency (Scotland) or Qualifications Scotland[^key-b752ba909df47a64e52ed5e1021debd6];
+  - (a) in relation to England, [^c-0eabfcd15ad5c898bd2ce6e3e5bd4a62]... the Office of Qualifications and Examinations Regulation;
+  - (b) in relation to Wales, the Welsh Ministers or Qualifications Wales[^c-edc3a5f27dda5bdd6a85157ea2a22e7a];
+  - (c) in relation to Scotland, the Quality Assurance Agency (Scotland) or Qualifications Scotland[^c-b752ba909df47a64e52ed5e1021debd6];
   - (d) in relation to Northern Ireland, the Northern Ireland Council for Curriculum Examinations and Assessment or the Office of Qualifications and Examinations Regulation.
 
 ## 6. Designation of authorities (inspection of equipment in use)
@@ -234,9 +234,9 @@ The [^key-ac944e0b5b0bddada052c85977d456c5]... Ministers and the Department must
 
 (3) Schedule 1 has effect.
 
-(4) Distributors who sell plant protection products to persons other than professional users must provide general information regarding the risks for human health and the environment of plant protection product use, in particular on hazards, exposure, proper storage, handling, application and safe disposal in accordance with assimilated[^key-04ee458b231499c166d4d35de12a7043][^key-eaa617b0d3e77a161766734290464938] law on waste, as well as regarding low-risk alternatives.
+(4) Distributors who sell plant protection products to persons other than professional users must provide general information regarding the risks for human health and the environment of plant protection product use, in particular on hazards, exposure, proper storage, handling, application and safe disposal in accordance with assimilated[^c-04ee458b231499c166d4d35de12a7043][^c-eaa617b0d3e77a161766734290464938] law on waste, as well as regarding low-risk alternatives.
 
-(4A)[^key-b7db8bc9f4ad78cb8ee4eac7ee8c4141] For the purposes of paragraph (4), “assimilated[^key-e539c7aed21d1211ff4ee3e764975c6a] law on waste” in relation to Northern Ireland includes any European Union legislation on waste which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+(4A)[^c-b7db8bc9f4ad78cb8ee4eac7ee8c4141] For the purposes of paragraph (4), “assimilated[^c-e539c7aed21d1211ff4ee3e764975c6a] law on waste” in relation to Northern Ireland includes any European Union legislation on waste which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
 
 (5) A person (P) must not purchase, or cause another person to purchase, a professional product for use by any individual (including P) unless that individual holds a specified certificate or, if that individual does not hold a certificate, either of the conditions set out in paragraph (6) is satisfied.
 
@@ -259,17 +259,17 @@ The [^key-ac944e0b5b0bddada052c85977d456c5]... Ministers and the Department must
 
 - (a) areas used by the general public or by vulnerable groups;
 - (b) areas in the close vicinity of healthcare facilities;
-- (c) protected areas of the type referred to in paragraph 1(v) of Annex IV to Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy , as last amended by Commission[^key-4af29f0760a55f3f8043befd74fe532b] [Directive 2014/101/EU](https://www.legislation.gov.uk/eudr/2014/0101) [^c21299801] (“Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)”) or a European site or European marine site within the meaning of regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-26690a0257dfdc015ee979169da8d449];
+- (c) protected areas of the type referred to in paragraph 1(v) of Annex IV to Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy , as last amended by Commission[^c-4af29f0760a55f3f8043befd74fe532b] [Directive 2014/101/EU](https://www.legislation.gov.uk/eudr/2014/0101) [^c21299801] (“Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60)”) or a European site or European marine site within the meaning of regulation 8 of the Conservation of Habitats and Species Regulations 2017[^c-26690a0257dfdc015ee979169da8d449];
 - (d) areas recently treated with a plant protection product and used by or accessible to agricultural workers;
 - (e) on or along roads, railway lines, very permeable surfaces, or other infrastructure close to surface water or groundwater; or
 - (f) on sealed surfaces with a high risk of run-off into surface water or sewage systems.
 
-(3) A person who uses, or causes or permits an individual to use a plant protection product in the circumstances set out in paragraph (4) must, so far as is reasonably practicable, use or cause or require the use of a plant protection product not classified as hazardous to[^key-d67691932129cf898cf9fb42d1a5a197] the aquatic environment pursuant to Regulation 1272/2008[^key-ad5a8bc6ee350d9953fc76df7272a023] nor containing priority hazardous substances listed in Annex 10 to[^key-a312e1731512621840e3cc51a2b929f6] Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) (“priority hazardous substances”).
+(3) A person who uses, or causes or permits an individual to use a plant protection product in the circumstances set out in paragraph (4) must, so far as is reasonably practicable, use or cause or require the use of a plant protection product not classified as hazardous to[^c-d67691932129cf898cf9fb42d1a5a197] the aquatic environment pursuant to Regulation 1272/2008[^c-ad5a8bc6ee350d9953fc76df7272a023] nor containing priority hazardous substances listed in Annex 10 to[^c-a312e1731512621840e3cc51a2b929f6] Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) (“priority hazardous substances”).
 
 (4) The circumstances referred to in paragraph (3) are—
 
 - (a) the use of the plant protection product represents a risk to the aquatic environment or drinking water; and
-- (b) there is a product authorised for use in the particular situation which is neither classified as hazardous to[^key-a67139f9cf562ebafd169e21af61aa63] the aquatic environment pursuant to Regulation 1272/2008[^key-0d9386dea60c55c5a3d10d4a0817546a] nor containing priority hazardous substances.
+- (b) there is a product authorised for use in the particular situation which is neither classified as hazardous to[^c-a67139f9cf562ebafd169e21af61aa63] the aquatic environment pursuant to Regulation 1272/2008[^c-0d9386dea60c55c5a3d10d4a0817546a] nor containing priority hazardous substances.
 
 (5) Where necessary in order to protect non-target aquatic organisms, the appropriate United Kingdom competent authority must include in authorisations and permits granted under Regulation 1107/2009 a requirement for an appropriately sized buffer zone.
 
@@ -348,7 +348,7 @@ Professional users must conduct regular calibrations and technical checks of the
 (6) The appropriate United Kingdom competent authority must—
 
 - (a) keep records of the applications for aerial spraying permits and the information accompanying those applications which is required by paragraph 3 of Schedule 2; and
-- (b) make available to the public information contained in those records such as the area to be sprayed, the provisional day and time of spraying and the type of plant protection product in accordance with its national law or , in relation to Northern Ireland, any European Union legislation which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement[^key-0f8dc35db4cc7097abc2130e581dfcd1].
+- (b) make available to the public information contained in those records such as the area to be sprayed, the provisional day and time of spraying and the type of plant protection product in accordance with its national law or , in relation to Northern Ireland, any European Union legislation which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement[^c-0f8dc35db4cc7097abc2130e581dfcd1].
 
 ## 16. Applications for aerial spraying permits: provision of information
 
@@ -548,11 +548,11 @@ Schedule 4 (service of documents) has effect.
 
 ## 29. Agency arrangements
 
-(1) The Scottish Ministers or Welsh Ministers[^key-099fb33eeac8d4f26d025bd17a6a9c52] may arrange, with the agreement of the Secretary of State, for any of their functions under or for the purposes of the Directive and these Regulations to be exercised on their behalf by the Secretary of State.
+(1) The Scottish Ministers or Welsh Ministers[^c-099fb33eeac8d4f26d025bd17a6a9c52] may arrange, with the agreement of the Secretary of State, for any of their functions under or for the purposes of the Directive and these Regulations to be exercised on their behalf by the Secretary of State.
 
-(2) An arrangement under these Regulations in respect of any functions may include provisions for any fees and charges payable to the Scottish Ministers or Welsh Ministers[^key-d3c940e8ee4bb33361cbff265f2f81de] pursuant to regulation 6 of the Plant Protection Product (Fees and Charges) Regulations 2011 [^c21299861] in respect of that function to be collected by the Secretary of State on behalf of the Scottish Ministers or Welsh Ministers.
+(2) An arrangement under these Regulations in respect of any functions may include provisions for any fees and charges payable to the Scottish Ministers or Welsh Ministers[^c-d3c940e8ee4bb33361cbff265f2f81de] pursuant to regulation 6 of the Plant Protection Product (Fees and Charges) Regulations 2011 [^c21299861] in respect of that function to be collected by the Secretary of State on behalf of the Scottish Ministers or Welsh Ministers.
 
-(3) An arrangement under these Regulations shall be in writing and be signed by, or on behalf of, the Scottish Ministers or Welsh Ministers, as the case may be,[^key-e69952d43e49b4f2c2321100b194312b] and the Secretary of State and such an arrangement may be subject to such conditions (including conditions as to the costs) as may be agreed.
+(3) An arrangement under these Regulations shall be in writing and be signed by, or on behalf of, the Scottish Ministers or Welsh Ministers, as the case may be,[^c-e69952d43e49b4f2c2321100b194312b] and the Secretary of State and such an arrangement may be subject to such conditions (including conditions as to the costs) as may be agreed.
 
 ## 30. Application to the Crown
 
@@ -617,7 +617,7 @@ Parliamentary Under Secretary of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE A1 — Modification of the Directive[^key-7db0649aa75e0afdabdd89b5c1fd628b]
+## SCHEDULE A1 — Modification of the Directive[^c-7db0649aa75e0afdabdd89b5c1fd628b]
 
 Regulation 2(1)
 
@@ -632,10 +632,10 @@ Regulation 2(1)
 
 **4.** Article 4 is to be read as if—
 
-- (a) in paragraph 1, in the fifth subparagraph, for the words from “Community” to the end substitute “assimilated[^key-06661369916e212afbe0603c43d90120] law on the use of pesticides”;
+- (a) in paragraph 1, in the fifth subparagraph, for the words from “Community” to the end substitute “assimilated[^c-06661369916e212afbe0603c43d90120] law on the use of pesticides”;
 - (aa) after paragraph 1 there were inserted—
 
-  > **1A.** For the purposes of paragraph 1, “assimilated[^key-ca62d8205dfa002ca0ac7f0b31a20922] law on the use of pesticides” in relation to Northern Ireland includes any European Union legislation on the use of pesticides which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+  > **1A.** For the purposes of paragraph 1, “assimilated[^c-ca62d8205dfa002ca0ac7f0b31a20922] law on the use of pesticides” in relation to Northern Ireland includes any European Union legislation on the use of pesticides which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
 
   ;
 - (b) in paragraph 2—
@@ -649,10 +649,10 @@ Regulation 2(1)
 **6.** Article 6 is to be read as if—
 
 - (a) in paragraph 1, in the third sentence, for the words from “as toxic” to the end there were substituted “ for acute toxicity, carcinogenicity, germ cell mutagenicity, or reproductive toxicity pursuant to Regulation 1272/2008 ”;
-- (b) in paragraph 3, for “Community legislation” there were substituted “assimilated[^key-f7961dbb3f6eecb8b5105e00dccebebc] law”.
+- (b) in paragraph 3, for “Community legislation” there were substituted “assimilated[^c-f7961dbb3f6eecb8b5105e00dccebebc] law”.
 - (c) after paragraph 3 there were inserted—
 
-  > **3A.** For the purposes of paragraph 3, “assimilated[^key-94a348feb0ef8a20397365cce82d5511] law on waste” in relation to Northern Ireland includes any European Union legislation on waste which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+  > **3A.** For the purposes of paragraph 3, “assimilated[^c-94a348feb0ef8a20397365cce82d5511] law on waste” in relation to Northern Ireland includes any European Union legislation on waste which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
 
   .
 
@@ -693,10 +693,10 @@ Regulation 2(1)
 
 **12.** Article 13 is to be read as if—
 
-- (a) in paragraph 1(e), for “Community legislation” there were substituted “assimilated[^key-65f048d5442e1b144f378814c9f50c4d] law”;
+- (a) in paragraph 1(e), for “Community legislation” there were substituted “assimilated[^c-65f048d5442e1b144f378814c9f50c4d] law”;
 - (b) after paragraph 1 there were inserted—
 
-  > **1A.** For the purposes of paragraph 1(e), “assimilated[^key-8526bbc79122b49250564099df572cc2] law on waste” in relation to Northern Ireland, includes any European Union legislation on waste which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+  > **1A.** For the purposes of paragraph 1(e), “assimilated[^c-8526bbc79122b49250564099df572cc2] law on waste” in relation to Northern Ireland, includes any European Union legislation on waste which has effect in Northern Ireland by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
 
   .
 
@@ -839,7 +839,7 @@ Regulation 9(1) does not apply in relation to a distributor—
 
 - (a) if the distributor was a micro-distributor in its preceding financial year and the accounts for that period are closed;
 - (b) if the distributor had an annual turnover which did not exceed 2 million euros in its preceding financial year; and
-- (c) if the only plant protection products offered for sale by that distributor are for non-professional use and are not formulations classified as toxic, very toxic, carcinogenic, mutagenic or toxic for reproduction pursuant to Regulation 1272/2008[^key-80ac6ecba2221d84238871e51d6dfc1b].
+- (c) if the only plant protection products offered for sale by that distributor are for non-professional use and are not formulations classified as toxic, very toxic, carcinogenic, mutagenic or toxic for reproduction pursuant to Regulation 1272/2008[^c-80ac6ecba2221d84238871e51d6dfc1b].
 
 ### 2. Micro-distributor
 
@@ -911,7 +911,7 @@ the relevant United Kingdom competent authority must inform the applicant of tha
 - (b) the application contains information about the provisional time of spraying and the amounts and type of plant protection product or products to be applied;
 - (c) the plant protection product or products to be used must be explicitly authorised for aerial spraying by the appropriate United Kingdom competent authority following a specific assessment addressing the risks from aerial spraying;
 - (d) the application contains the reference numbers of the specified certificates of all individuals who will be carrying out the aerial spraying or any part of it;
-- (e) every aircraft to be used for aerial spraying must be identified in an aerial application certificate granted by the Civil Aviation Authority under article 91(2) of the Air Navigation Order 2016[^key-334963989e11f031a1f793252f7406c7] and held by the operator of such aircraft;
+- (e) every aircraft to be used for aerial spraying must be identified in an aerial application certificate granted by the Civil Aviation Authority under article 91(2) of the Air Navigation Order 2016[^c-334963989e11f031a1f793252f7406c7] and held by the operator of such aircraft;
 - (f) the area to be sprayed must not be in close proximity to any residential area; and
 - (g) after 31st December 2012, the aircraft is equipped with accessories that constitute the best available technology to reduce spray drift.
 
@@ -1250,23 +1250,23 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^c21299691]: Marginal citation: OJ No L309, 24.11.2009, p.71.
 
-[^key-d9b6ddc205bc90435987c287fcbdb6ea]: Textual amendment: Words in reg. 2(1) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/2/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-d9b6ddc205bc90435987c287fcbdb6ea]: Textual amendment: Words in reg. 2(1) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/2/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
-[^key-16fe6ae097667e4b79b87988ae90a1f5]: Textual amendment: Words in reg. 2(1) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/2/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-16fe6ae097667e4b79b87988ae90a1f5]: Textual amendment: Words in reg. 2(1) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/2/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
-[^key-2ab0d55bcbc08b8510795551a04169f8]: Textual amendment: Words in reg. 2(1) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/a)
+[^c-2ab0d55bcbc08b8510795551a04169f8]: Textual amendment: Words in reg. 2(1) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/a)
 
-[^key-1fd8c46ae92d33afb860974fc913d26a]: Textual amendment: Words in reg. 2(1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/b)
+[^c-1fd8c46ae92d33afb860974fc913d26a]: Textual amendment: Words in reg. 2(1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/b)
 
-[^key-79b1f6cb12553b7b845e1ff47a0c6c79]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/2/1) inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79b1f6cb12553b7b845e1ff47a0c6c79]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/2/1) inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21299711]: Marginal citation: OJ No L309, 24.11.2009, p1.
 
-[^key-91e958c9f43924d9f2c577ae9a750e36]: Textual amendment: Words in reg. 2(1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/c)
+[^c-91e958c9f43924d9f2c577ae9a750e36]: Textual amendment: Words in reg. 2(1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/c)
 
-[^key-20030596b72e036d459e12b50a9064c0]: Textual amendment: Words in reg. 2(1) substituted (10.11.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/d)
+[^c-20030596b72e036d459e12b50a9064c0]: Textual amendment: Words in reg. 2(1) substituted (10.11.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(2)(d)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/2/d)
 
-[^key-0544d716c6cdb412f7423b59af1ed2d9]: Textual amendment: Words in reg. 2(1) substituted (31.10.2019) by [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1290/regulation/7/2)
+[^c-0544d716c6cdb412f7423b59af1ed2d9]: Textual amendment: Words in reg. 2(1) substituted (31.10.2019) by [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1290/regulation/7/2)
 
 [^c21299731]: Marginal citation: OJ No L230, 19.8.1991, p1.
 
@@ -1278,79 +1278,79 @@ An impact assessment of the effect that this instrument will have on the costs t
 
 [^c21299771]: Marginal citation: S.R (NI) 1997 No 470.
 
-[^key-d194052fb216d361b5af7dc937822f7d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/3/2) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-d194052fb216d361b5af7dc937822f7d]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/3/2) omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
-[^key-ac944e0b5b0bddada052c85977d456c5]: Textual amendment: Words in reg. 4 omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-ac944e0b5b0bddada052c85977d456c5]: Textual amendment: Words in reg. 4 omitted (1.3.2019) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
 [^c21299781]: Marginal citation: [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
 
 [^c21299791]: Marginal citation: S.R. (NI) 2011 No 295 amended by S.R. (NI) 2012 No12.
 
-[^key-0eabfcd15ad5c898bd2ce6e3e5bd4a62]: Textual amendment: Words in reg. 5(12) omitted (31.10.2019) by virtue of [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/1290/regulation/7/3/a)
+[^c-0eabfcd15ad5c898bd2ce6e3e5bd4a62]: Textual amendment: Words in reg. 5(12) omitted (31.10.2019) by virtue of [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/1290/regulation/7/3/a)
 
-[^key-edc3a5f27dda5bdd6a85157ea2a22e7a]: Textual amendment: Words in reg. 5(12) substituted (31.10.2019) by [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/1290/regulation/7/3/b)
+[^c-edc3a5f27dda5bdd6a85157ea2a22e7a]: Textual amendment: Words in reg. 5(12) substituted (31.10.2019) by [The Pesticides (Amendment) Regulations 2019 (S.I. 2019/1290)](https://www.legislation.gov.uk/uksi/2019/1290), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1290/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/1290/regulation/7/3/b)
 
-[^key-b752ba909df47a64e52ed5e1021debd6]: Textual amendment: Words in reg. 5(12) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/13/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-b752ba909df47a64e52ed5e1021debd6]: Textual amendment: Words in reg. 5(12) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/13/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-04ee458b231499c166d4d35de12a7043]: Textual amendment: Word in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/a)
+[^c-04ee458b231499c166d4d35de12a7043]: Textual amendment: Word in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/a)
 
-[^key-eaa617b0d3e77a161766734290464938]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eaa617b0d3e77a161766734290464938]: Textual amendment: Words in [reg. 9(4)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7db8bc9f4ad78cb8ee4eac7ee8c4141]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4A) inserted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/8/2)
+[^c-b7db8bc9f4ad78cb8ee4eac7ee8c4141]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4A) inserted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/8/2)
 
-[^key-e539c7aed21d1211ff4ee3e764975c6a]: Textual amendment: Word in [reg. 9(4A)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/a)
+[^c-e539c7aed21d1211ff4ee3e764975c6a]: Textual amendment: Word in [reg. 9(4A)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/9/4A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/a)
 
-[^key-4af29f0760a55f3f8043befd74fe532b]: Textual amendment: Words in reg. 10(2)(c) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/a/i)
+[^c-4af29f0760a55f3f8043befd74fe532b]: Textual amendment: Words in reg. 10(2)(c) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/a/i)
 
 [^c21299801]: Marginal citation: OJ No L 327, 22.12.2000, p1.
 
-[^key-26690a0257dfdc015ee979169da8d449]: Textual amendment: Words in [reg. 10(2)(c)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/10/2/c) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(4)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26690a0257dfdc015ee979169da8d449]: Textual amendment: Words in [reg. 10(2)(c)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/10/2/c) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(4)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d67691932129cf898cf9fb42d1a5a197]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/10/3) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(4)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d67691932129cf898cf9fb42d1a5a197]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/10/3) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(4)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ad5a8bc6ee350d9953fc76df7272a023]: Textual amendment: Words in reg. 10(3) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/b/i)
+[^c-ad5a8bc6ee350d9953fc76df7272a023]: Textual amendment: Words in reg. 10(3) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/b/i)
 
-[^key-a312e1731512621840e3cc51a2b929f6]: Textual amendment: Words in reg. 10(3) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/b/ii)
+[^c-a312e1731512621840e3cc51a2b929f6]: Textual amendment: Words in reg. 10(3) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/b/ii)
 
-[^key-a67139f9cf562ebafd169e21af61aa63]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/10/4/b) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(4)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a67139f9cf562ebafd169e21af61aa63]: Textual amendment: Words in [reg. 10(4)(b)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/10/4/b) substituted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [14(4)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/14/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0d9386dea60c55c5a3d10d4a0817546a]: Textual amendment: Words in reg. 10(4)(b) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/c)
+[^c-0d9386dea60c55c5a3d10d4a0817546a]: Textual amendment: Words in reg. 10(4)(b) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(3)(c)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/3/c)
 
-[^key-0f8dc35db4cc7097abc2130e581dfcd1]: Textual amendment: Words in [reg. 15(6)(b)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/15/6/b) substituted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/8/3)
+[^c-0f8dc35db4cc7097abc2130e581dfcd1]: Textual amendment: Words in [reg. 15(6)(b)](https://www.legislation.gov.uk/uksi/2012/1657/regulation/15/6/b) substituted (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/8/3)
 
 [^c21299841]: Marginal citation: [S.I. 1994/867](https://www.legislation.gov.uk/uksi/1994/867), to which there are amendments not relevant to these Regulations.
 
 [^c21299851]: Marginal citation: [1994 c.39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-099fb33eeac8d4f26d025bd17a6a9c52]: Textual amendment: Words in reg. 29(1) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(5)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/5/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-099fb33eeac8d4f26d025bd17a6a9c52]: Textual amendment: Words in reg. 29(1) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(5)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/5/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
-[^key-d3c940e8ee4bb33361cbff265f2f81de]: Textual amendment: Words in reg. 29(2) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(5)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/5/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-d3c940e8ee4bb33361cbff265f2f81de]: Textual amendment: Words in reg. 29(2) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(5)(a)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/5/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
 [^c21299861]: Marginal citation: [S.I. 2011/2132](https://www.legislation.gov.uk/uksi/2011/2132)
 
-[^key-e69952d43e49b4f2c2321100b194312b]: Textual amendment: Words in reg. 29(3) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(5)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/5/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
+[^c-e69952d43e49b4f2c2321100b194312b]: Textual amendment: Words in reg. 29(3) inserted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [9(5)(b)](https://www.legislation.gov.uk/uksi/2019/306/regulation/9/5/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2019/306/regulation/10))
 
 [^c21299871]: Marginal citation: [S.I. 1997/189](https://www.legislation.gov.uk/uksi/1997/189) amended by [S.I.2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
 
 [^c21299881]: Marginal citation: S.R.(NI) 1997 No 470.
 
-[^key-7db0649aa75e0afdabdd89b5c1fd628b]: Textual amendment: Sch. A1 inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2019/306/schedule) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(5)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7db0649aa75e0afdabdd89b5c1fd628b]: Textual amendment: Sch. A1 inserted (31.12.2020) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2019/306/schedule) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [5(5)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/5/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-06661369916e212afbe0603c43d90120]: Textual amendment: Word in [Sch. A1 para. 4(a)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/4/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/i)
+[^c-06661369916e212afbe0603c43d90120]: Textual amendment: Word in [Sch. A1 para. 4(a)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/4/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/i)
 
-[^key-ca62d8205dfa002ca0ac7f0b31a20922]: Textual amendment: Word in [Sch. A1 para. 4(aa)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/4/aa) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/ii)
+[^c-ca62d8205dfa002ca0ac7f0b31a20922]: Textual amendment: Word in [Sch. A1 para. 4(aa)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/4/aa) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/ii)
 
-[^key-f7961dbb3f6eecb8b5105e00dccebebc]: Textual amendment: Word in [Sch. A1 para. 6(b)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/iii)
+[^c-f7961dbb3f6eecb8b5105e00dccebebc]: Textual amendment: Word in [Sch. A1 para. 6(b)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/6/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(iii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/iii)
 
-[^key-94a348feb0ef8a20397365cce82d5511]: Textual amendment: Word in [Sch. A1 para. 6(c)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/6/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/iv)
+[^c-94a348feb0ef8a20397365cce82d5511]: Textual amendment: Word in [Sch. A1 para. 6(c)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/6/c) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(iv)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/iv)
 
-[^key-65f048d5442e1b144f378814c9f50c4d]: Textual amendment: Word in [Sch. A1 para. 12(a)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/12/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(v)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/v)
+[^c-65f048d5442e1b144f378814c9f50c4d]: Textual amendment: Word in [Sch. A1 para. 12(a)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/12/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(v)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/v)
 
-[^key-8526bbc79122b49250564099df572cc2]: Textual amendment: Word in [Sch. A1 para. 12(b)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/12/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(vi)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/vi)
+[^c-8526bbc79122b49250564099df572cc2]: Textual amendment: Word in [Sch. A1 para. 12(b)](https://www.legislation.gov.uk/uksi/2012/1657/schedule/A1/paragraph/12/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 27(b)(vi)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/27/b/vi)
 
-[^key-80ac6ecba2221d84238871e51d6dfc1b]: Textual amendment: Words in Sch. 1 para. 1(c) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/4)
+[^c-80ac6ecba2221d84238871e51d6dfc1b]: Textual amendment: Words in Sch. 1 para. 1(c) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2018/942/regulation/20/4)
 
-[^key-334963989e11f031a1f793252f7406c7]: Textual amendment: Words in Sch. 2 para. 7(e) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/4) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-334963989e11f031a1f793252f7406c7]: Textual amendment: Words in Sch. 2 para. 7(e) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 4](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/4) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
 [^c21299901]: Marginal citation: [S.I. 2011/2131](https://www.legislation.gov.uk/uksi/2011/2131).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016[^key-86ae50945acb89c5b26849fb2ba1cc98]
+## 84. The Town and Country Planning (Environmental Impact Assessment) (Wales) Regulations 2016[^c-86ae50945acb89c5b26849fb2ba1cc98]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In the Town and Country Planning (Environmental Impact Assessment) (Wales) Regul
 
 ## Annotations
 
-[^key-86ae50945acb89c5b26849fb2ba1cc98]: Commencement: [Reg. 84](https://www.legislation.gov.uk/wsi/2024/924/regulation/84) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-86ae50945acb89c5b26849fb2ba1cc98]: Commencement: [Reg. 84](https://www.legislation.gov.uk/wsi/2024/924/regulation/84) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00047]: Footnote: [S.I. 2016/58 (W. 28)](https://www.legislation.gov.uk/wsi/2016/58), revoked by [S.I. 2017/567 (W. 136)](https://www.legislation.gov.uk/wsi/2017/567) with savings.

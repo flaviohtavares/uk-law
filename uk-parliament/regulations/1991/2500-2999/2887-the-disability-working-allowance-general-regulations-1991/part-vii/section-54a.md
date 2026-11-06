@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54A. Surrendering an award following birth or adoption etc. of child[^key-1437d94b20127a73c5d74eb16b8eb2da]
+## 54A. Surrendering an award following birth or adoption etc. of child[^c-1437d94b20127a73c5d74eb16b8eb2da]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1437d94b20127a73c5d74eb16b8eb2da]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/54A) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2001/892/regulation/10)
+[^c-1437d94b20127a73c5d74eb16b8eb2da]: Textual amendment: [Reg. 54A](https://www.legislation.gov.uk/uksi/1991/2887/regulation/54A) inserted (with effect in accordance with reg. 1(5) of the amending S.I.) by [The Tax Credits (Miscellaneous Amendments No. 3) Regulations 2001 (S.I. 2001/892)](https://www.legislation.gov.uk/uksi/2001/892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2001/892/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2001/892/regulation/10)

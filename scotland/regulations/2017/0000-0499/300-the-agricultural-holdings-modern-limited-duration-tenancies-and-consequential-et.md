@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-f01ebb67ac121505f55eeada9fc4b515]
+### 1. Citation, commencement and interpretation[^c-f01ebb67ac121505f55eeada9fc4b515]
 
 (1) These Regulations may be cited as the Agricultural Holdings (Modern Limited Duration Tenancies and Consequential etc. Provisions) (Scotland) Regulations 2017 and come into force on 30th November 2017.
 
@@ -60,7 +60,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Modern limited duration tenancies: new entrants to farming
 
-### 2. Interpretation of Part 2[^key-130ed8c89fa9a0fb8fd36ac5ce3c3b63]
+### 2. Interpretation of Part 2[^c-130ed8c89fa9a0fb8fd36ac5ce3c3b63]
 
 In this Part—
 
@@ -70,7 +70,7 @@ In this Part—
   - (b) a lease where the tenants under that lease are joint tenants; and
 - “T” means a tenant under a lease to which regulation 3 applies.
 
-### 3. New entrants to farming: non-shared lease[^key-b15f53a7b3a7e9e25dc7e876fd4e616b]
+### 3. New entrants to farming: non-shared lease[^c-b15f53a7b3a7e9e25dc7e876fd4e616b]
 
 (1) This regulation applies to a lease constituting a modern limited duration tenancy which is not a shared lease.
 
@@ -116,7 +116,7 @@ In this Part—
   - (ii) the bequest is declared null and void under section 12A(6)(a) or 12B(2)(a) of the 1991 Act; or
   - (iii) the will or other testamentary writing containing the bequest was made before 23rd December 2016 and the bequest is declared null and void under section 11(6) of the 1991 Act[^f00010].
 
-### 4. New entrants to farming: shared lease[^key-ebbe69188cce9f269a28a86814616327]
+### 4. New entrants to farming: shared lease[^c-ebbe69188cce9f269a28a86814616327]
 
 (1) This regulation applies to a lease constituting a modern limited duration tenancy which is a shared lease.
 
@@ -124,7 +124,7 @@ In this Part—
 
 (3) For the purposes of paragraph (2), a tenant is disqualified if regulation 3(3), (4) or (5) would apply to that tenant if that tenant were T.
 
-### 5. New entrants to farming: supplemental[^key-baccf7dbe823873040cd811a8f493aa7]
+### 5. New entrants to farming: supplemental[^c-baccf7dbe823873040cd811a8f493aa7]
 
 (1) For the purposes of regulation 3, a person has control of a legal person (“L”) if that person—
 
@@ -141,11 +141,11 @@ In this Part—
 
 ## PART 3 — Land Reform (Scotland) Act 2016: consequential, transitory and saving provisions
 
-### 6. Consequential modifications[^key-5c34328dad0b5f445be5225f66d8da4e]
+### 6. Consequential modifications[^c-5c34328dad0b5f445be5225f66d8da4e]
 
 Schedule 1 (consequential modifications) has effect.
 
-### 7. Transitory and saving provisions[^key-a2d9f96271be66966143deb27dcd8fd3]
+### 7. Transitory and saving provisions[^c-a2d9f96271be66966143deb27dcd8fd3]
 
 Schedule 2 (transitory and saving provisions) has effect.
 
@@ -163,7 +163,7 @@ Edinburgh
 
 Regulation 6
 
-### 1. The Rural Stewardship Scheme (Scotland) Regulations 2001[^key-fa10a27aee624b79b6ac690b82521376]
+### 1. The Rural Stewardship Scheme (Scotland) Regulations 2001[^c-fa10a27aee624b79b6ac690b82521376]
 
 (1) The Rural Stewardship Scheme (Scotland) Regulations 2001[^f00011] are modified as follows.
 
@@ -172,7 +172,7 @@ Regulation 6
 - (a) in paragraph (b) of the definition of “landlord”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”; and
 - (b) in paragraph (b) of the definition of “tenant”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”.
 
-### 2. The Organic Aid (Scotland) Regulations 2004[^key-03e71e2b4c7b26d450dfa2eb210c894f]
+### 2. The Organic Aid (Scotland) Regulations 2004[^c-03e71e2b4c7b26d450dfa2eb210c894f]
 
 (1) The Organic Aid (Scotland) Regulations 2004[^f00013] are modified as follows.
 
@@ -189,7 +189,7 @@ Regulation 6
 
 .
 
-### 3. The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^key-78b7c505eae4969d0864e183a12dcd3f]
+### 3. The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^c-78b7c505eae4969d0864e183a12dcd3f]
 
 (1) The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^f00015] are modified as follows.
 
@@ -198,7 +198,7 @@ Regulation 6
 - (a) in paragraph (b) of the definition of “landlord”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”; and
 - (b) in paragraph (b) of the definition of “tenant”, for “or short limited duration tenancy” substitute “, short limited duration tenancy, modern limited duration tenancy or repairing tenancy”.
 
-### 4. The Scheduled Monument Consent Procedure (Scotland) Regulations 2015[^key-96e5936463b2f45914dc280165468819]
+### 4. The Scheduled Monument Consent Procedure (Scotland) Regulations 2015[^c-96e5936463b2f45914dc280165468819]
 
 (1) The Scheduled Monument Consent Procedure (Scotland) Regulations 2015[^f00016] are modified as follows.
 
@@ -208,7 +208,7 @@ Regulation 6
 
 Regulation 7
 
-### 1. Interpretation of schedule 2[^key-4671f3bf19a13673c4e3b4fafea078dd]
+### 1. Interpretation of schedule 2[^c-4671f3bf19a13673c4e3b4fafea078dd]
 
 In this schedule—
 
@@ -217,7 +217,7 @@ In this schedule—
 - “relevant lease” means a lease constituting a limited duration tenancy or a lease constituting a short limited duration tenancy; and
 - “short limited duration tenancy” has the same meaning as in section 93 of the 2003 Act.
 
-### 2. Transitory provision: The Rural Stewardship Scheme (Scotland) Regulations 2001[^key-943951e5f09b7fbc2e2e916d8ddb66c3]
+### 2. Transitory provision: The Rural Stewardship Scheme (Scotland) Regulations 2001[^c-943951e5f09b7fbc2e2e916d8ddb66c3]
 
 Until the coming into force of section 92 of the 2016 Act (repairing tenancies: creation) for all purposes, regulation 2(1) of the Rural Stewardship Scheme (Scotland) Regulations 2001 (interpretation) is to be read as if—
 
@@ -231,7 +231,7 @@ Until the coming into force of section 92 of the 2016 Act for all purposes, regu
 - (a) in paragraph (b) of the definition of “landlord”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”; and
 - (b) in paragraph (b) of the definition of “tenant”, for “, modern limited duration tenancy or repairing tenancy” there were substituted “or modern limited duration tenancy”.
 
-### 4. Saving provisions: The Organic Aid (Scotland) Regulations 2004[^key-3b72b684727d76f1aff654ede859ff85]
+### 4. Saving provisions: The Organic Aid (Scotland) Regulations 2004[^c-3b72b684727d76f1aff654ede859ff85]
 
 (1) The modification made by paragraph 2(3) of schedule 1 has no effect in relation to—
 
@@ -250,7 +250,7 @@ Until the coming into force of section 92 of the 2016 Act for all purposes, regu
 - (b) that person died before 23rd December 2016; and
 - (c) at the time of that person’s death, that person had made no will or other testamentary writing containing a bequest of that lease.
 
-### 5. Transitory provision: The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^key-b8969967745f70799595e6eef29d233e]
+### 5. Transitory provision: The Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005[^c-b8969967745f70799595e6eef29d233e]
 
 Until the coming into force of section 92 of the 2016 Act for all purposes, regulation 2(1) of the Land Management Contracts (Menu Scheme) (Scotland) Regulations 2005 (interpretation) is to be read as if—
 
@@ -283,13 +283,13 @@ Paragraph 4 of schedule 2 makes saving provisions so that the modifications made
 
 [^f00002]: Footnote: [2016 asp 18](https://www.legislation.gov.uk/asp/2016/18).
 
-[^key-f01ebb67ac121505f55eeada9fc4b515]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/300/regulation/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-f01ebb67ac121505f55eeada9fc4b515]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2017/300/regulation/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00003]: Footnote: [1991 c.55](https://www.legislation.gov.uk/ukpga/1991/55).
 
-[^key-130ed8c89fa9a0fb8fd36ac5ce3c3b63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/300/regulation/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-130ed8c89fa9a0fb8fd36ac5ce3c3b63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2017/300/regulation/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
-[^key-b15f53a7b3a7e9e25dc7e876fd4e616b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/300/regulation/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-b15f53a7b3a7e9e25dc7e876fd4e616b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2017/300/regulation/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00004]: Footnote: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44). Section 3(3) was amended by section 22(1)(b) of the Crofting Reform (Scotland) Act [2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14).
 
@@ -305,40 +305,40 @@ Paragraph 4 of schedule 2 makes saving provisions so that the modifications made
 
 [^f00010]: Footnote: The repeal of section 11(6) by section 109(2)(d) of the 2016 Act was subject to the saving provision contained in regulation 7 of [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365).
 
-[^key-ebbe69188cce9f269a28a86814616327]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/300/regulation/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-ebbe69188cce9f269a28a86814616327]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2017/300/regulation/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
-[^key-baccf7dbe823873040cd811a8f493aa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/300/regulation/5) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-baccf7dbe823873040cd811a8f493aa7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2017/300/regulation/5) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
-[^key-5c34328dad0b5f445be5225f66d8da4e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/300/regulation/6) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-5c34328dad0b5f445be5225f66d8da4e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2017/300/regulation/6) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
-[^key-a2d9f96271be66966143deb27dcd8fd3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/300/regulation/7) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-a2d9f96271be66966143deb27dcd8fd3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/300/regulation/7) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
-[^key-fa10a27aee624b79b6ac690b82521376]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-fa10a27aee624b79b6ac690b82521376]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00011]: Footnote: [S.S.I. 2001/300](https://www.legislation.gov.uk/ssi/2001/300).
 
 [^f00012]: Footnote: Regulation 2(1) was relevantly amended by [S.S.I. 2005/620](https://www.legislation.gov.uk/ssi/2005/620).
 
-[^key-03e71e2b4c7b26d450dfa2eb210c894f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-03e71e2b4c7b26d450dfa2eb210c894f]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/2) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00013]: Footnote: [S.S.I. 2004/143](https://www.legislation.gov.uk/ssi/2004/143).
 
 [^f00014]: Footnote: Regulation 2(1) was relevantly amended by [S.S.I. 2005/619](https://www.legislation.gov.uk/ssi/2005/619).
 
-[^key-78b7c505eae4969d0864e183a12dcd3f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-78b7c505eae4969d0864e183a12dcd3f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/3) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00015]: Footnote: [S.S.I. 2005/225](https://www.legislation.gov.uk/ssi/2005/225) to which there are amendments not relevant to these Regulations.
 
-[^key-96e5936463b2f45914dc280165468819]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-96e5936463b2f45914dc280165468819]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2017/300/schedule/1/paragraph/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00016]: Footnote: [S.S.I. 2015/229](https://www.legislation.gov.uk/ssi/2015/229).
 
-[^key-4671f3bf19a13673c4e3b4fafea078dd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-4671f3bf19a13673c4e3b4fafea078dd]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/1) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
 [^f00017]: Footnote: The definition of “limited duration tenancy” in section 93 of the Agricultural Holdings (Scotland) Act 2003 was substituted by paragraph 7(30)(a) of schedule 2 of the Land Reform (Scotland) Act 2016. That paragraph is commenced by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299).
 
-[^key-943951e5f09b7fbc2e2e916d8ddb66c3]: Textual amendment: Sch. 2 paras. 2, 3 substituted (30.11.2017) for Sch. 2 paras. 2, 3 by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/370/regulation/6)
+[^c-943951e5f09b7fbc2e2e916d8ddb66c3]: Textual amendment: Sch. 2 paras. 2, 3 substituted (30.11.2017) for Sch. 2 paras. 2, 3 by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/370/regulation/6)
 
-[^key-3b72b684727d76f1aff654ede859ff85]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
+[^c-3b72b684727d76f1aff654ede859ff85]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2017/300/schedule/2/paragraph/4) in force at 30.11.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/300/regulation/1/1)
 
-[^key-b8969967745f70799595e6eef29d233e]: Textual amendment: Sch. 2 paras. 5, 6 substituted (30.11.2017) for Sch. 2 paras. 5, 6 by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [7](https://www.legislation.gov.uk/ssi/2017/370/regulation/7)
+[^c-b8969967745f70799595e6eef29d233e]: Textual amendment: Sch. 2 paras. 5, 6 substituted (30.11.2017) for Sch. 2 paras. 5, 6 by [The Land Reform (Scotland) Act 2016 (Commencement No. 6, Transitory and Saving Provisions) (Modern Limited Duration Tenancies) Miscellaneous Amendments Regulations 2017 (S.S.I. 2017/370)](https://www.legislation.gov.uk/ssi/2017/370), [regs. 1](https://www.legislation.gov.uk/ssi/2017/370/regulation/1), [7](https://www.legislation.gov.uk/ssi/2017/370/regulation/7)

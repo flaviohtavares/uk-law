@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Dissolution of regional Transport Partnerships[^key-02c898f744cd27e24d2f1ea088f4cf5f]
+## 2. Dissolution of regional Transport Partnerships[^c-02c898f744cd27e24d2f1ea088f4cf5f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02c898f744cd27e24d2f1ea088f4cf5f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2005/12/section/2) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-02c898f744cd27e24d2f1ea088f4cf5f]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2005/12/section/2) in force at 10.10.2005 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

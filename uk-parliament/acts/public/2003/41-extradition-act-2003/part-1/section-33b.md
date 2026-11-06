@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Detention pending conclusion of appeals relating to devolution issues[^key-df00134ff9c9a025ed068a85529ea0d9]
+## 33B. Detention pending conclusion of appeals relating to devolution issues[^c-df00134ff9c9a025ed068a85529ea0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df00134ff9c9a025ed068a85529ea0d9]: Textual amendment: S. 33B inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/19) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/3))
+[^c-df00134ff9c9a025ed068a85529ea0d9]: Textual amendment: S. 33B inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 19](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/19) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/3))

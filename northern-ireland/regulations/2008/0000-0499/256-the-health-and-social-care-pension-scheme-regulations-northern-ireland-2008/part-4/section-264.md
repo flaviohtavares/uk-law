@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a member has not more than 10 years of pensionable service before first becoming a [^key-43cfad92f6d80c5976ce4c6ed93616ff]... medical practitioner, the reference amount shall be the best of—
+(1) Where a member has not more than 10 years of pensionable service before first becoming a [^c-43cfad92f6d80c5976ce4c6ed93616ff]... medical practitioner, the reference amount shall be the best of—
 
 - (a) the amount determined by calculation method A,
 - (b) the amount determined by calculation method B, and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43cfad92f6d80c5976ce4c6ed93616ff]: Textual amendment: Word in [reg. 264(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/264/1) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [99](https://www.legislation.gov.uk/nisr/2010/22/regulation/99)
+[^c-43cfad92f6d80c5976ce4c6ed93616ff]: Textual amendment: Word in [reg. 264(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/264/1) omitted (with effect in accordance with reg. 1(2) of the amending Rule) by virtue of [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [99](https://www.legislation.gov.uk/nisr/2010/22/regulation/99)

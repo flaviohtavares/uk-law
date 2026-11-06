@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368S. Meaning of “video-sharing platform service”[^key-735de11d253e275728a3190b9941f322]
+## 368S. Meaning of “video-sharing platform service”[^c-735de11d253e275728a3190b9941f322]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-735de11d253e275728a3190b9941f322]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/2003/21/part/4B) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/1), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1) (with [Sch. 17](https://www.legislation.gov.uk/ukpga/2023/50/schedule/17)); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)
+[^c-735de11d253e275728a3190b9941f322]: Textual amendment: [Pt. 4B](https://www.legislation.gov.uk/ukpga/2003/21/part/4B) omitted (25.7.2025) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 210(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/210/1), [240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1) (with [Sch. 17](https://www.legislation.gov.uk/ukpga/2023/50/schedule/17)); [S.I. 2025/888](https://www.legislation.gov.uk/uksi/2025/888), [reg. 2](https://www.legislation.gov.uk/uksi/2025/888/regulation/2)

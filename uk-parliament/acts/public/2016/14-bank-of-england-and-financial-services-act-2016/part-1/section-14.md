@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Accounts relating to Bank's functions as Prudential Regulation Authority[^key-e6f64ec04479fddbd763de4cf120b911]
+## 14. Accounts relating to Bank's functions as Prudential Regulation Authority[^c-e6f64ec04479fddbd763de4cf120b911]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6f64ec04479fddbd763de4cf120b911]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/14/section/14) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/e)
+[^c-e6f64ec04479fddbd763de4cf120b911]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/14/section/14) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/e)

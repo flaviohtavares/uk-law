@@ -24,13 +24,13 @@ Section 15
 
 ### Application and commencement of scheme
 
-**1.**[^key-485bf680d84d0c970221514cb5b16a36] (1) The property, rights and liabilities to be transferred may be specified or described by a scheme.
+**1.**[^c-485bf680d84d0c970221514cb5b16a36] (1) The property, rights and liabilities to be transferred may be specified or described by a scheme.
 
 (2) A scheme comes into force on the date it appoints.
 
 ### Property, rights and liabilities that may be transferred
 
-**2.**[^key-7e50f2607449da330091b2f91bb8bfe4] (1) The property, rights and liabilities that may be transferred by a scheme include—
+**2.**[^c-7e50f2607449da330091b2f91bb8bfe4] (1) The property, rights and liabilities that may be transferred by a scheme include—
 
 - (a) property, rights and liabilities that would not otherwise be capable of being transferred or assigned;
 - (b) property acquired in the period after the making of the scheme and before it comes into force;
@@ -60,7 +60,7 @@ to the extent only that the scheme provides for it to be so enforceable.
 
 ### Dividing and modifying transferor's property, rights and liabilities
 
-**3.**[^key-933daf17319e6d959c3f6f5f4162389f] (1) A scheme may contain provision—
+**3.**[^c-933daf17319e6d959c3f6f5f4162389f] (1) A scheme may contain provision—
 
 - (a) for the creation, in favour of a transferor or transferee, of an interest or right in, or in relation to, property to be transferred in accordance with the scheme;
 - (b) for giving effect to a transfer to a person by the creation, in favour of that person, of an interest or right in, or in relation to, property to be retained by a transferor;
@@ -84,7 +84,7 @@ to the extent only that the scheme provides for it to be so enforceable.
 
 ### Obligation to effect transfers etc under a scheme
 
-**4.**[^key-0affd62daf47f8813313cbf340e23688] (1) A scheme may contain provision for imposing on a transferee or a transferor an obligation—
+**4.**[^c-0affd62daf47f8813313cbf340e23688] (1) A scheme may contain provision for imposing on a transferee or a transferor an obligation—
 
 - (a) to enter into such agreements with another person on whom a corresponding obligation is, could be or has been, imposed by virtue of this paragraph (whether in the same or a different scheme), or
 - (b) to execute such instruments in favour of any such person,
@@ -95,7 +95,7 @@ as may be specified or described in the scheme.
 
 ### Effect of scheme
 
-**5.**[^key-f171ee36cd7ca6501ca89bc7030c8be0] (1) Where a scheme provides for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
+**5.**[^c-f171ee36cd7ca6501ca89bc7030c8be0] (1) Where a scheme provides for the transfer of property, rights or liabilities, or for the creation of interests, rights or liabilities—
 
 - (a) the property or interests, rights or liabilities vest, without further assurance, in the transferee at that time, and
 - (b) the provisions of that scheme in relation to that property or those interests, rights or liabilities have effect from the time when the scheme comes into force.
@@ -111,7 +111,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Powers and duties under statutory provisions
 
-**6.**[^key-7491cfc2eac4ede5c6b6a000093475ba] (1) A scheme may make provision for some or all of the powers and duties to which this paragraph applies—
+**6.**[^c-7491cfc2eac4ede5c6b6a000093475ba] (1) A scheme may make provision for some or all of the powers and duties to which this paragraph applies—
 
 - (a) to be transferred to a transferee,
 - (b) to become powers and duties that are exercisable, or must be performed, concurrently by two or more transferees, or
@@ -127,7 +127,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Supplementary provisions of schemes
 
-**7.**[^key-bb76bb6e2305d593bda8940e1ffa9956] (1) A scheme may—
+**7.**[^c-bb76bb6e2305d593bda8940e1ffa9956] (1) A scheme may—
 
 - (a) make such incidental, supplemental, consequential and transitional provision in connection with the scheme as the Secretary of State thinks fit;
 - (b) make different provision for different cases.
@@ -143,7 +143,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Modification of a scheme by agreement
 
-**8.**[^key-89426c4615b4d8b4b79f92fb5f287b50] (1) Where the transferor and transferee under a scheme that has come into force so agree, the scheme is to be treated for all purposes as having come into force with such modifications as may be agreed.
+**8.**[^c-89426c4615b4d8b4b79f92fb5f287b50] (1) Where the transferor and transferee under a scheme that has come into force so agree, the scheme is to be treated for all purposes as having come into force with such modifications as may be agreed.
 
 (2) An agreement under this paragraph which relates to rights and liabilities under a contract of employment may be entered into only if the employee is a party to the agreement.
 
@@ -156,7 +156,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Continuity of employment etc
 
-**9.**[^key-6c132f90a24efeef0c6654fb619940c7] (1) Where in accordance with a scheme a person employed by a transferor becomes an employee of a transferee—
+**9.**[^c-6c132f90a24efeef0c6654fb619940c7] (1) Where in accordance with a scheme a person employed by a transferor becomes an employee of a transferee—
 
 - (a) that person is not to be regarded for the purposes of Part 11 (redundancy payments etc) of the Employment Rights Act 1996 as having been dismissed by virtue of the transfer,
 - (b) that person's period of employment with the transferor counts for the purposes of that Act as a period of employment with the transferee, and
@@ -182,7 +182,7 @@ to be effected by or under an agreement or instrument entered into or executed i
 
 ### Compensation for third parties
 
-**10.**[^key-3c9db40ca0f9a8640b09e3df486c675f] (1) A third party is entitled to compensation in respect of the extinguishment of that party's entitlement where—
+**10.**[^c-3c9db40ca0f9a8640b09e3df486c675f] (1) A third party is entitled to compensation in respect of the extinguishment of that party's entitlement where—
 
 - (a) the entitlement is to an interest or right which would, apart from a provision of a scheme and paragraph 2(3) and (4), have become enforceable in respect of the transfer or creation of any property, rights or liabilities in accordance with the scheme,
 - (b) the provisions of that scheme or of paragraph 2(3) and (4) have the effect of preventing that party's entitlement to that interest or right from being enforced in respect of anything for which the scheme provides, and
@@ -201,7 +201,7 @@ as it has effect in relation to the scheme but as if, in the case of an agreemen
 
 ### Provision of information to Secretary of State for the purposes of making a scheme
 
-**11.**[^key-25d661b359dcbac0529170dcebf652c3] (1) The Secretary of State may direct a strategic highways company, or a former strategic highways company, to provide such information as he or she may consider necessary for the purposes of making a scheme.
+**11.**[^c-25d661b359dcbac0529170dcebf652c3] (1) The Secretary of State may direct a strategic highways company, or a former strategic highways company, to provide such information as he or she may consider necessary for the purposes of making a scheme.
 
 (2) The direction must specify the period within which the information is to be provided.
 
@@ -230,7 +230,7 @@ as it has effect in relation to the scheme but as if, in the case of an agreemen
 
 ### Interpretation
 
-**12.**[^key-2a7b8150a851340c8ca249f4b08b1f56] (1) In this Schedule—
+**12.**[^c-2a7b8150a851340c8ca249f4b08b1f56] (1) In this Schedule—
 
 - “**third party**”, in relation to a scheme, means a person other than a transferor and a transferee;
 - “transferee”—
@@ -258,26 +258,26 @@ as it has effect in relation to the scheme but as if, in the case of an agreemen
 
 ## Annotations
 
-[^key-485bf680d84d0c970221514cb5b16a36]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/1) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-485bf680d84d0c970221514cb5b16a36]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/1) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-7e50f2607449da330091b2f91bb8bfe4]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/2) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-7e50f2607449da330091b2f91bb8bfe4]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/2) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-933daf17319e6d959c3f6f5f4162389f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/3) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-933daf17319e6d959c3f6f5f4162389f]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/3) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-0affd62daf47f8813313cbf340e23688]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/4) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-0affd62daf47f8813313cbf340e23688]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/4) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-f171ee36cd7ca6501ca89bc7030c8be0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/5) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-f171ee36cd7ca6501ca89bc7030c8be0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/5) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-7491cfc2eac4ede5c6b6a000093475ba]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/6) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-7491cfc2eac4ede5c6b6a000093475ba]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/6) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-bb76bb6e2305d593bda8940e1ffa9956]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/7) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-bb76bb6e2305d593bda8940e1ffa9956]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/7) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-89426c4615b4d8b4b79f92fb5f287b50]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/8) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-89426c4615b4d8b4b79f92fb5f287b50]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/8) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-6c132f90a24efeef0c6654fb619940c7]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/9) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-6c132f90a24efeef0c6654fb619940c7]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/9) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-3c9db40ca0f9a8640b09e3df486c675f]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/10) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-3c9db40ca0f9a8640b09e3df486c675f]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/10) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-25d661b359dcbac0529170dcebf652c3]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/11) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-25d661b359dcbac0529170dcebf652c3]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/11) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-2a7b8150a851340c8ca249f4b08b1f56]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/12) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-2a7b8150a851340c8ca249f4b08b1f56]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2015/7/schedule/3/paragraph/12) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

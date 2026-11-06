@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 135. Formal defects[^key-b841361ebd81ef9fac43969d779329a5]
+## 135. Formal defects[^c-b841361ebd81ef9fac43969d779329a5]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.172A of the 1986 Rules[^f00056].
 
 ## Annotations
 
-[^key-b841361ebd81ef9fac43969d779329a5]: Commencement: Rule 135 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-b841361ebd81ef9fac43969d779329a5]: Commencement: Rule 135 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00056]: Footnote: Rule 4.172A was inserted by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

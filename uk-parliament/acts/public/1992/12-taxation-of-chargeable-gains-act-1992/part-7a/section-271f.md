@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 271F. Obligations and liabilities of UK representative[^key-9d2266cff61c51d6e733a53fa72156c3]
+## 271F. Obligations and liabilities of UK representative[^c-9d2266cff61c51d6e733a53fa72156c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ is discharged.
 
 ## Annotations
 
-[^key-9d2266cff61c51d6e733a53fa72156c3]: Textual amendment: Pt. 7A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-9d2266cff61c51d6e733a53fa72156c3]: Textual amendment: Pt. 7A inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/part/2) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Requirement for croft to be registered (miscellaneous provisions)[^key-adaa0bc822dd2db7203433fecf414a98]
+## 47. Requirement for croft to be registered (miscellaneous provisions)[^c-adaa0bc822dd2db7203433fecf414a98]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adaa0bc822dd2db7203433fecf414a98]: Commencement: S. 47 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-adaa0bc822dd2db7203433fecf414a98]: Commencement: S. 47 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

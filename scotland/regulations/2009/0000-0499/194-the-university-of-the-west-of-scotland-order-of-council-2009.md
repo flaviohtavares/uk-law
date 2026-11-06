@@ -32,7 +32,7 @@ summary: ''
 
 EDUCATION
 
-The University of the West of Scotland Order of Council 2009 (revoked)[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]
+The University of the West of Scotland Order of Council 2009 (revoked)[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]
 
 Made
 
@@ -50,46 +50,46 @@ At the Council Chamber, Whitehall, the 19th day of May 2009
 
 By the Lords of Her Majesty's Most Honourable Privy Council
 
-[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]
+## 1. Citation and commencement[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the University of Paisley (Scotland) Order of Council 1993[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]
+## 2. Amendment of the University of Paisley (Scotland) Order of Council 1993[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Revocation of provisions of the Paisley College of Technology Scheme 1954[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]
+## 12. Revocation of provisions of the Paisley College of Technology Scheme 1954[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ff0ede5c6484a5ee5934b8eb2d9ac94]: Textual amendment: Order revoked (1.10.2019) by [The University of the West of Scotland Order of Council 2019 (S.S.I. 2019/212)](https://www.legislation.gov.uk/ssi/2019/212), [art. 1](https://www.legislation.gov.uk/ssi/2019/212/article/1), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2019/212/schedule/2/paragraph/3)
+[^c-4ff0ede5c6484a5ee5934b8eb2d9ac94]: Textual amendment: Order revoked (1.10.2019) by [The University of the West of Scotland Order of Council 2019 (S.S.I. 2019/212)](https://www.legislation.gov.uk/ssi/2019/212), [art. 1](https://www.legislation.gov.uk/ssi/2019/212/article/1), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2019/212/schedule/2/paragraph/3)

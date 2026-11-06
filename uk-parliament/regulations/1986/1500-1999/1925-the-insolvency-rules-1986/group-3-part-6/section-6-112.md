@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.112. Payments of a periodical nature[^key-76b0cc89d55abfba4aeaea33395241cf]
+## 6.112. Payments of a periodical nature[^c-76b0cc89d55abfba4aeaea33395241cf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76b0cc89d55abfba4aeaea33395241cf]: Commencement: [Rule 6.112](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.112) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-76b0cc89d55abfba4aeaea33395241cf]: Commencement: [Rule 6.112](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.112) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

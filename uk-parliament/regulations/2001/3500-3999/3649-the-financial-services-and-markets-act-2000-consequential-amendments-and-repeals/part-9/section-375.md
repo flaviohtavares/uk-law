@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 375. Interpretation of the 1983 Regulations: “contract of insurance”[^key-3a703b52c33b3615b7c3aba9955b3865]
+## 375. Interpretation of the 1983 Regulations: “contract of insurance”[^c-3a703b52c33b3615b7c3aba9955b3865]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a703b52c33b3615b7c3aba9955b3865]: Commencement: Art. 375 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3a703b52c33b3615b7c3aba9955b3865]: Commencement: Art. 375 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00266]: Footnote: The words defining “contract of insurance” were inserted by [S.I. 1984/1600](https://www.legislation.gov.uk/uksi/1984/1600), regulation 2(a).

@@ -33,40 +33,40 @@ of 16 September 2019
 
 on the position to be taken on behalf of the European Union within the Western Central Atlantic Fishery Commission (WECAFC) (revoked)
 
-[^key-2566aa324b953cf1448d50b7c092f7bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2566aa324b953cf1448d50b7c092f7bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-2566aa324b953cf1448d50b7c092f7bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2566aa324b953cf1448d50b7c092f7bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2566aa324b953cf1448d50b7c092f7bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — The position to be taken on the Union's behalf in the Western Central Atlantic Fishery Commission (WECAFC)[^key-2566aa324b953cf1448d50b7c092f7bc]
+## ANNEX I — The position to be taken on the Union's behalf in the Western Central Atlantic Fishery Commission (WECAFC)[^c-2566aa324b953cf1448d50b7c092f7bc]
 
-[^key-2566aa324b953cf1448d50b7c092f7bc]1.
+[^c-2566aa324b953cf1448d50b7c092f7bc]1.
 
 **PRINCIPLES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2566aa324b953cf1448d50b7c092f7bc]2.
+[^c-2566aa324b953cf1448d50b7c092f7bc]2.
 
 **ORIENTATIONS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Year to year specification of the Union's position to be taken in sessions of the Western Central Atlantic Fishery Commission[^key-2566aa324b953cf1448d50b7c092f7bc]
+## ANNEX II — Year to year specification of the Union's position to be taken in sessions of the Western Central Atlantic Fishery Commission[^c-2566aa324b953cf1448d50b7c092f7bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2566aa324b953cf1448d50b7c092f7bc]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2566aa324b953cf1448d50b7c092f7bc]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

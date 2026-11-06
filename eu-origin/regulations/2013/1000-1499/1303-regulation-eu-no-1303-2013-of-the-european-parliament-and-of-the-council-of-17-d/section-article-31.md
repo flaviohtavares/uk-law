@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 31. Participation of the EIB[^key-c75dae0baea0a9ba14abbc2cd67a3c44]
+## Article 31. Participation of the EIB[^c-c75dae0baea0a9ba14abbc2cd67a3c44]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c75dae0baea0a9ba14abbc2cd67a3c44]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2013/1303/article/31) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c75dae0baea0a9ba14abbc2cd67a3c44]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2013/1303/article/31) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

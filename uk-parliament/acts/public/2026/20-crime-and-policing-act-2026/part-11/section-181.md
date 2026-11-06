@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Access to driver licensing information[^key-253d8eee292dda7dd5c1a67f502b8f1d][^key-e0f49828c1ba1064891e9f217d862c1c]
+## 181. Access to driver licensing information[^c-253d8eee292dda7dd5c1a67f502b8f1d][^c-e0f49828c1ba1064891e9f217d862c1c]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,6 +152,6 @@ summary: ''
 
 ## Annotations
 
-[^key-253d8eee292dda7dd5c1a67f502b8f1d]: Commencement: S. 181 in force at Royal Assent for specified purposes, see [s. 255(2)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/e)
+[^c-253d8eee292dda7dd5c1a67f502b8f1d]: Commencement: S. 181 in force at Royal Assent for specified purposes, see [s. 255(2)(e)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/e)
 
-[^key-e0f49828c1ba1064891e9f217d862c1c]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2026/20/section/181) in force at 29.6.2026 in so far as not already in force by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/u) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/689/regulation/3))
+[^c-e0f49828c1ba1064891e9f217d862c1c]: Commencement: [S. 181](https://www.legislation.gov.uk/ukpga/2026/20/section/181) in force at 29.6.2026 in so far as not already in force by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(u)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/u) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/689/regulation/3))

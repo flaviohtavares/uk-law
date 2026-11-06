@@ -25,7 +25,7 @@ summary: ''
 - (a) an indeterminate custodial sentence; or
 - (b) an extended custodial sentence.
 
-(1A)[^key-dc9f861b32c850b3729f26a601bbc731] But this Article does not apply to a prisoner to whom Article 20A applies.
+(1A)[^c-dc9f861b32c850b3729f26a601bbc731] But this Article does not apply to a prisoner to whom Article 20A applies.
 
 (2) In this Article—
 
@@ -63,6 +63,6 @@ the Department of Justice[^c22091801] shall release P on licence under this Arti
 
 ## Annotations
 
-[^key-dc9f861b32c850b3729f26a601bbc731]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/nisi/2008/1216/article/18/1A) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 74(4)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/74/4)
+[^c-dc9f861b32c850b3729f26a601bbc731]: Textual amendment: [Art. 18(1A)](https://www.legislation.gov.uk/nisi/2008/1216/article/18/1A) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 74(4)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/74/4)
 
 [^c22091801]: Textual amendment: Words in [art. 18](https://www.legislation.gov.uk/nisi/2008/1216/article/18) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 14](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/14) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)

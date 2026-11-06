@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Suspension and adjournment[^key-0ec1b13bf9226cd75a2cb9ca70c9e3aa]
+## 53. Suspension and adjournment[^c-0ec1b13bf9226cd75a2cb9ca70c9e3aa]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0ec1b13bf9226cd75a2cb9ca70c9e3aa]: Commencement: Rule 53 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0ec1b13bf9226cd75a2cb9ca70c9e3aa]: Commencement: Rule 53 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00022]: Footnote: Paragraphs (3) and (4) were amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).

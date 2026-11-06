@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Consent to transfer benefit of Order[^key-58cb03592f9e60e9d2f52eee5cda0821]
+## 13. Consent to transfer benefit of Order[^c-58cb03592f9e60e9d2f52eee5cda0821]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58cb03592f9e60e9d2f52eee5cda0821]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2014/2935/article/13) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-58cb03592f9e60e9d2f52eee5cda0821]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2014/2935/article/13) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

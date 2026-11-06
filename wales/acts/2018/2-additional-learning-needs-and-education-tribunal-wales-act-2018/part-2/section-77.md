@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Compliance with orders[^key-3c313a754fb2622ab41fd8168b493a4c][^key-b50b2c511a745562d0b0cba395d0879a]
+## 77. Compliance with orders[^c-3c313a754fb2622ab41fd8168b493a4c][^c-b50b2c511a745562d0b0cba395d0879a]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3c313a754fb2622ab41fd8168b493a4c]: Commencement: S. 77 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/i)
+[^c-3c313a754fb2622ab41fd8168b493a4c]: Commencement: S. 77 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/i)
 
-[^key-b50b2c511a745562d0b0cba395d0879a]: Commencement: S. 77 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-b50b2c511a745562d0b0cba395d0879a]: Commencement: S. 77 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

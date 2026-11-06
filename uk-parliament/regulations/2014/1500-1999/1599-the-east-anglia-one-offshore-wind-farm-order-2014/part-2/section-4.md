@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Power to construct and maintain authorised project[^key-0124edcf6a3ddd52f317e9d9eaeded93]
+## 4. Power to construct and maintain authorised project[^c-0124edcf6a3ddd52f317e9d9eaeded93]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertakers may, at any time construct and maintain, and maintain from time 
 
 ## Annotations
 
-[^key-0124edcf6a3ddd52f317e9d9eaeded93]: Commencement: Art. 4 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-0124edcf6a3ddd52f317e9d9eaeded93]: Commencement: Art. 4 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

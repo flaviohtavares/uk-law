@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-27a54a08bd5b87834f70593e5c70a8e9]
+## 1. Citation and commencement[^c-27a54a08bd5b87834f70593e5c70a8e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the National Health Service Reform and Health 
 
 ## Annotations
 
-[^key-27a54a08bd5b87834f70593e5c70a8e9]: Commencement: Reg. 1 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)
+[^c-27a54a08bd5b87834f70593e5c70a8e9]: Commencement: Reg. 1 in force at 1.10.2002, see [reg. 1](https://www.legislation.gov.uk/uksi/2002/2469/regulation/1)

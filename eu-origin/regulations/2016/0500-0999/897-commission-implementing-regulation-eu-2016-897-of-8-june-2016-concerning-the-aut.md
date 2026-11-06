@@ -36,28 +36,28 @@ concerning the authorisation of a preparation of *Bacillus subtilis* (C-3102) (D
 
 (Text with EEA relevance) (revoked)
 
-[^key-c0ccbdd7f044e3d2eba36a6e18d199b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ccbdd7f044e3d2eba36a6e18d199b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-c0ccbdd7f044e3d2eba36a6e18d199b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0ccbdd7f044e3d2eba36a6e18d199b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0ccbdd7f044e3d2eba36a6e18d199b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c0ccbdd7f044e3d2eba36a6e18d199b5]
+## ANNEX[^c-c0ccbdd7f044e3d2eba36a6e18d199b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0ccbdd7f044e3d2eba36a6e18d199b5]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 197](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/197) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c0ccbdd7f044e3d2eba36a6e18d199b5]: Textual amendment: Regulation revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 197](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/197) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

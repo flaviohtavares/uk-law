@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where the person convicted of an offence under section 29 is the person by whom the vehicle in respect of which the offence was committed was kept at the time at which it was committed, the court shall (in addition to any penalty which it may impose under that section) order him to pay the amount specified in subsection (2).
 
-(2) The amount referred to in subsection (1) is an amount equal to one-twelfth of the annual rate of vehicle excise duty chargeable in respect of using or keeping the vehicle on a public road[^key-e479fdcbfb7479db0e339c2223400ed9] for each month, or part of a month, in the relevant period (within the meaning of section 31).
+(2) The amount referred to in subsection (1) is an amount equal to one-twelfth of the annual rate of vehicle excise duty chargeable in respect of using or keeping the vehicle on a public road[^c-e479fdcbfb7479db0e339c2223400ed9] for each month, or part of a month, in the relevant period (within the meaning of section 31).
 
 (3) In relation to any month or part of a month in the relevant period, the reference in subsection (2) to the annual rate of vehicle excise duty appropriate to the vehicle is a reference to the annual rate applicable to it at the beginning of that month or part.
 
@@ -37,4 +37,4 @@ except so far as it is proved to have fallen within some other description for t
 
 ## Annotations
 
-[^key-e479fdcbfb7479db0e339c2223400ed9]: Textual amendment: Words in s. 30(2) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/3)
+[^c-e479fdcbfb7479db0e339c2223400ed9]: Textual amendment: Words in s. 30(2) substituted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 45 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/45/paragraph/3)

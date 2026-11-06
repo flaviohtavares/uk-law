@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Adjudication of claims: review and appeal[^key-fb8d94060c71262b69bdfe19145bed60]
+## 127. Adjudication of claims: review and appeal[^c-fb8d94060c71262b69bdfe19145bed60]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8d94060c71262b69bdfe19145bed60]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2016/21/section/127) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-fb8d94060c71262b69bdfe19145bed60]: Commencement: [S. 127](https://www.legislation.gov.uk/asp/2016/21/section/127) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

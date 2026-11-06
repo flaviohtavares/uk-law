@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Accounts[^key-455aecaa55211fa5b957ca92d04ed513]
+## 46. Accounts[^c-455aecaa55211fa5b957ca92d04ed513]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-455aecaa55211fa5b957ca92d04ed513]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2005/11/section/46) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-455aecaa55211fa5b957ca92d04ed513]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2005/11/section/46) in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)

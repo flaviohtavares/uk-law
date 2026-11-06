@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Guidance[^key-2068fa828b976cec6141c5cfbe39ef81]
+## 14. Guidance[^c-2068fa828b976cec6141c5cfbe39ef81]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2068fa828b976cec6141c5cfbe39ef81]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2015/2/section/14) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/d)
+[^c-2068fa828b976cec6141c5cfbe39ef81]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2015/2/section/14) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/d)

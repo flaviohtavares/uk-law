@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Applications for rebates for vehicle and trade licences[^key-e25b51225c5eefc4b194fc6a1db9cac8]
+## 9. Applications for rebates for vehicle and trade licences[^c-e25b51225c5eefc4b194fc6a1db9cac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e25b51225c5eefc4b194fc6a1db9cac8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2002/2742/regulation/9) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/5)
+[^c-e25b51225c5eefc4b194fc6a1db9cac8]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2002/2742/regulation/9) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/5)

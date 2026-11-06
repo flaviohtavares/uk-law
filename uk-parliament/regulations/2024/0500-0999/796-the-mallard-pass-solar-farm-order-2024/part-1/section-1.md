@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-8943cf9bb9cff2891bf15d163eb5eb91]
+## 1. Citation and commencement[^c-8943cf9bb9cff2891bf15d163eb5eb91]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Mallard Pass Solar Farm Order and comes into forc
 
 ## Annotations
 
-[^key-8943cf9bb9cff2891bf15d163eb5eb91]: Commencement: Art. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)
+[^c-8943cf9bb9cff2891bf15d163eb5eb91]: Commencement: Art. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/796/article/1)

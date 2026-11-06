@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Interpretation of Part V[^key-24d91a53d1b41700dadab6c013fb6376]
+## 44A. Interpretation of Part V[^c-24d91a53d1b41700dadab6c013fb6376]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Part, “**medical device**” means a device that is a “**relevant de
 
 ## Annotations
 
-[^key-24d91a53d1b41700dadab6c013fb6376]: Textual amendment: Reg. 44A inserted (1.9.2003) by [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/a), [12](https://www.legislation.gov.uk/uksi/2003/1697/regulation/12)
+[^c-24d91a53d1b41700dadab6c013fb6376]: Textual amendment: Reg. 44A inserted (1.9.2003) by [The Medical Devices (Amendment) Regulations 2003 (S.I. 2003/1697)](https://www.legislation.gov.uk/uksi/2003/1697), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/1697/regulation/1/1/a), [12](https://www.legislation.gov.uk/uksi/2003/1697/regulation/12)

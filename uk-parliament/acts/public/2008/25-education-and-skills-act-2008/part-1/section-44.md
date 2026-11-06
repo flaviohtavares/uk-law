@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1) local authorities[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England and responsible officers must, in carrying out their functions in relation to parenting contracts under section 40 and parenting orders under section 41, have regard to the extent to which any failure by, or anything done by, a parent of a person to whom this Part applies is affecting, or is likely to affect, that person's fulfilment of the duty imposed by section 2.
+(1) local authorities[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] in England and responsible officers must, in carrying out their functions in relation to parenting contracts under section 40 and parenting orders under section 41, have regard to the extent to which any failure by, or anything done by, a parent of a person to whom this Part applies is affecting, or is likely to affect, that person's fulfilment of the duty imposed by section 2.
 
 (2) Regulations may make further provision about the exercise by local authorities in England of their functions relating to—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

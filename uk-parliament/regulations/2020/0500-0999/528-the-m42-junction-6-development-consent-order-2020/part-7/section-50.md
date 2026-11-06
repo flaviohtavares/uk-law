@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Amendment of local legislation[^key-680c20e8c60fcc264c318800eb3a4d03]
+## 50. Amendment of local legislation[^c-680c20e8c60fcc264c318800eb3a4d03]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-680c20e8c60fcc264c318800eb3a4d03]: Commencement: Art. 50 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-680c20e8c60fcc264c318800eb3a4d03]: Commencement: Art. 50 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
 [^f00075]: Footnote: 1846 c. cccxxxvii.
 

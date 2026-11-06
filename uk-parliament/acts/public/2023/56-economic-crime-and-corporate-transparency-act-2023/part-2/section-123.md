@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. New partners: transitional provision about required information[^key-c838293d32677ee1ae13f82fa4f8602b]
+## 123. New partners: transitional provision about required information[^c-c838293d32677ee1ae13f82fa4f8602b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the general partners in the limited partnership are not required by the provisio
 
 ## Annotations
 
-[^key-c838293d32677ee1ae13f82fa4f8602b]: Commencement: S. 123 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c838293d32677ee1ae13f82fa4f8602b]: Commencement: S. 123 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

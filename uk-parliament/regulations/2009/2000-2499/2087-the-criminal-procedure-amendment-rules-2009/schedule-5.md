@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5[^key-205da9794ba6211b498616d93e7739de]
+## SCHEDULE 5[^c-205da9794ba6211b498616d93e7739de]
 
 *Extent: E+W*
 
@@ -162,7 +162,7 @@ Rule 18
 
 ## Annotations
 
-[^key-205da9794ba6211b498616d93e7739de]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2009/2087/schedule/5) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-205da9794ba6211b498616d93e7739de]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2009/2087/schedule/5) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
 
 [^f00067]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 30(4A) was inserted by section 47 of, and paragraph 32 of Schedule 1 to, the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25) and is to be repealed by section 41 to, and paragraph 60(1) and (6) of Schedule 3 and Schedule 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), with effect from a date to be appointed.
 

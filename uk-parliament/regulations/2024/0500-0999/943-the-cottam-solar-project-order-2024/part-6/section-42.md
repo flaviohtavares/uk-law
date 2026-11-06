@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Arbitration[^key-f7a92c1c3b17de09479f779a25bcb5c0]
+## 42. Arbitration[^c-f7a92c1c3b17de09479f779a25bcb5c0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7a92c1c3b17de09479f779a25bcb5c0]: Commencement: Art. 42 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-f7a92c1c3b17de09479f779a25bcb5c0]: Commencement: Art. 42 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

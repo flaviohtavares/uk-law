@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-75a30ed5885d5295bdd98abc7efa2801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-75a30ed5885d5295bdd98abc7efa2801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-dee3e6ccea6854df64e6f35848c95f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6)[^M_F_c0bf9e77-7dbe-4c4d-f1c1-fe56fa6db09c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -44,8 +44,8 @@ summary: ''
 
 [^c2030323]: Commencement: S. 2 partly in force; s. 2(1)(5)(7)(8) in force at Royal Assent and s. 2(6) in force for specified purposes at Royal Assent see s. 26(1)(b)
 
-[^key-75a30ed5885d5295bdd98abc7efa2801]: Textual amendment: S. 2(1) omitted (6.4.2021) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/26); [S.I. 2021/433](https://www.legislation.gov.uk/uksi/2021/433), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2021/433/regulation/2/b/vi)
+[^c-75a30ed5885d5295bdd98abc7efa2801]: Textual amendment: S. 2(1) omitted (6.4.2021) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/26); [S.I. 2021/433](https://www.legislation.gov.uk/uksi/2021/433), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2021/433/regulation/2/b/vi)
 
-[^key-dee3e6ccea6854df64e6f35848c95f09]: Textual amendment: S. 2(2)-(5) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-dee3e6ccea6854df64e6f35848c95f09]: Textual amendment: S. 2(2)-(5) repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 19](https://www.legislation.gov.uk/ukpga/2012/21/schedule/19) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^M_F_c0bf9e77-7dbe-4c4d-f1c1-fe56fa6db09c]: Textual amendment: S. 2(6) omitted (6.4.2021) by virtue of [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [s. 37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2018/10/schedule/3/paragraph/26); [S.I. 2021/433](https://www.legislation.gov.uk/uksi/2021/433), [reg. 2(b)(vi)](https://www.legislation.gov.uk/uksi/2021/433/regulation/2/b/vi)

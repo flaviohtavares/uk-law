@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — Provisions coming into force on 1st June 2007[^key-d4fbb6b1158dec9bcb08f5895288a16e]
+## SCHEDULE 3 — Provisions coming into force on 1st June 2007[^c-d4fbb6b1158dec9bcb08f5895288a16e]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ Article 2(3)
 
 ## Annotations
 
-[^key-d4fbb6b1158dec9bcb08f5895288a16e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) omitted (24.5.2007) by virtue of [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1527)](https://www.legislation.gov.uk/uksi/2007/1527), [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1527/article/2/3)
+[^c-d4fbb6b1158dec9bcb08f5895288a16e]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3) omitted (24.5.2007) by virtue of [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) Order 2007 (S.I. 2007/1527)](https://www.legislation.gov.uk/uksi/2007/1527), [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1527/article/2/3)

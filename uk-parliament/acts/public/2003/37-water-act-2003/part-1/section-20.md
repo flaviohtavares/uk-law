@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Limited extension of abstraction licence validity[^key-40bc1b978baf91d2b34847814b72b571]
+## 20. Limited extension of abstraction licence validity[^c-40bc1b978baf91d2b34847814b72b571]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 46 of the WRA there is inserted—
 
 ## Annotations
 
-[^key-40bc1b978baf91d2b34847814b72b571]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2003/37/section/20) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(g)](https://www.legislation.gov.uk/uksi/2004/641/article/3/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/2)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-40bc1b978baf91d2b34847814b72b571]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2003/37/section/20) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(g)](https://www.legislation.gov.uk/uksi/2004/641/article/3/g) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/2)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

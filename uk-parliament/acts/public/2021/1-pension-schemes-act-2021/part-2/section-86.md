@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. When a decision to withdraw authorisation becomes final[^c24481111][^key-4215e60a9bb20b55df6745f8d2abc9f3]
+## 86. When a decision to withdraw authorisation becomes final[^c24481111][^c-4215e60a9bb20b55df6745f8d2abc9f3]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c24481111]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2021/1/section/86) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-4215e60a9bb20b55df6745f8d2abc9f3]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2021/1/section/86) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-4215e60a9bb20b55df6745f8d2abc9f3]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2021/1/section/86) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Termination of grants for redevelopment etc.[^key-d9b0b137b4b530b283780518247bf8e5]
+## 52. Termination of grants for redevelopment etc.[^c-d9b0b137b4b530b283780518247bf8e5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9b0b137b4b530b283780518247bf8e5]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1986/63/section/52) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-d9b0b137b4b530b283780518247bf8e5]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1986/63/section/52) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

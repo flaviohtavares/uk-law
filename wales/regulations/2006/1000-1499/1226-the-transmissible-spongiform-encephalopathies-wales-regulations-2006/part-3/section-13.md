@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Revocations of approvals, etc.[^key-07012b8c8eda093c89f7ba1b870274d2]
+## 13. Revocations of approvals, etc.[^c-07012b8c8eda093c89f7ba1b870274d2]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07012b8c8eda093c89f7ba1b870274d2]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21/a)
+[^c-07012b8c8eda093c89f7ba1b870274d2]: Textual amendment: Regulations revoked (31.12.2008) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2008 (S.I. 2008/3154)](https://www.legislation.gov.uk/uksi/2008/3154), [regs. 1](https://www.legislation.gov.uk/uksi/2008/3154/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2008/3154/regulation/21/a)

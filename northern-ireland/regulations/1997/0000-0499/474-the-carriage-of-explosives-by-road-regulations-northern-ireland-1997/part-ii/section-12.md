@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Types of vehicle[^key-e1702451ac5716788e91c3c0d2e9dab6]
+## 12. Types of vehicle[^c-e1702451ac5716788e91c3c0d2e9dab6]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations any reference to—
 
 ## Annotations
 
-[^key-e1702451ac5716788e91c3c0d2e9dab6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1997/474/regulation/12) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-e1702451ac5716788e91c3c0d2e9dab6]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1997/474/regulation/12) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

@@ -55,7 +55,7 @@ And Whereas the Convention and the Protocol have been ratified by the said Gover
 
 [^c2181044][^c2181045]And Whereas by section 143 of the Social Security Act 1975 and section 15 of the Child Benefit Act 1975 it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act and for modifying the provisions of Part I of the said Child Benefit Act and regulations made under it in their application to cases affected by agreements with other governments providing for reciprocity in matters specified in those sections:
 
-Now, therefore, Her Majesty, in pursuance of the said section 143, and the said section 15, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_e647f370-24dd-4782-fbdf-4597fdae02bc][^M_C_53e51191-8efc-4e49-af1f-dd39cd1e5eda][^M_C_64bc1cce-4a1d-458f-fe0e-289d04313d30][^M_C_4566efcc-eecc-46af-bab0-7b3a36585c31][^M_C_b8c2399d-0304-4f95-ee7f-c68afe9a847e][^key-6607111e7dcaff17e48fa7a89906e613][^M_C_736870e7-0531-46f2-c187-e4acc823325a][^key-f17602b4c21916399b9e9af729a7ff99]
+Now, therefore, Her Majesty, in pursuance of the said section 143, and the said section 15, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_e647f370-24dd-4782-fbdf-4597fdae02bc][^M_C_53e51191-8efc-4e49-af1f-dd39cd1e5eda][^M_C_64bc1cce-4a1d-458f-fe0e-289d04313d30][^M_C_4566efcc-eecc-46af-bab0-7b3a36585c31][^M_C_b8c2399d-0304-4f95-ee7f-c68afe9a847e][^c-6607111e7dcaff17e48fa7a89906e613][^M_C_736870e7-0531-46f2-c187-e4acc823325a][^c-f17602b4c21916399b9e9af729a7ff99]
 
 ## 1. Citation and commencement
 
@@ -79,7 +79,7 @@ G. I. de Deney
 
 Clerk of the Privy Council
 
-## SCHEDULE — CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE KINGDOM OF SWEDEN[^key-7ddf83bb02564c96952cd18050286d48]
+## SCHEDULE — CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE KINGDOM OF SWEDEN[^c-7ddf83bb02564c96952cd18050286d48]
 
 Articles 2 and 3
 
@@ -594,11 +594,11 @@ The Convention and Protocol (set out in the Schedule) relate to reciprocity in c
 
 [^M_C_b8c2399d-0304-4f95-ee7f-c68afe9a847e]: Modification: Order modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1928/article/1), [2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
 
-[^key-6607111e7dcaff17e48fa7a89906e613]: Modification: Order modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [arts. 1](https://www.legislation.gov.uk/uksi/2001/407/article/1), [2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-6607111e7dcaff17e48fa7a89906e613]: Modification: Order modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [arts. 1](https://www.legislation.gov.uk/uksi/2001/407/article/1), [2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
 [^M_C_736870e7-0531-46f2-c187-e4acc823325a]: Modification: Order modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [arts. 1](https://www.legislation.gov.uk/uksi/1992/3213/article/1), [2](https://www.legislation.gov.uk/uksi/1992/3213/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/3213/schedule/1), [2](https://www.legislation.gov.uk/uksi/1992/3213/schedule/2)
 
-[^key-f17602b4c21916399b9e9af729a7ff99]: Modification: Order modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), arts. 1, 2, [Schs. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-f17602b4c21916399b9e9af729a7ff99]: Modification: Order modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), arts. 1, 2, [Schs. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
 [^c2181046]: Marginal citation: [S.I. 1957/856](https://www.legislation.gov.uk/uksi/1957/856).
 
@@ -608,4 +608,4 @@ The Convention and Protocol (set out in the Schedule) relate to reciprocity in c
 
 [^c2181049]: Marginal citation: [S.I. 1982/1528](https://www.legislation.gov.uk/uksi/1982/1528).
 
-[^key-7ddf83bb02564c96952cd18050286d48]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1988/590/schedule) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-7ddf83bb02564c96952cd18050286d48]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1988/590/schedule) modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)

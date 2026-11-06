@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Additional sanctions for failures by bus operators[^c2199634][^key-b7fff4220c379f4310454e94d8036ea1][^key-d9fb9e21877dafe63c65371ed1f65b3a]
+## 64. Additional sanctions for failures by bus operators[^c2199634][^c-b7fff4220c379f4310454e94d8036ea1][^c-d9fb9e21877dafe63c65371ed1f65b3a]
 
 *Extent: E+W*
 
@@ -95,6 +95,6 @@ summary: ''
 
 [^c2199634]: Commencement: S. 64 partly in force; s. 64(3) in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-b7fff4220c379f4310454e94d8036ea1]: Commencement: S. 64 in force at 9.2.2009 for E. in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/4))
+[^c-b7fff4220c379f4310454e94d8036ea1]: Commencement: S. 64 in force at 9.2.2009 for E. in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/paragraph/4))
 
-[^key-d9fb9e21877dafe63c65371ed1f65b3a]: Commencement: S. 64 in force at 1.4.2009 for W. in so far as not already in force by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/579/article/2/e) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/579/schedule/paragraph/2))
+[^c-d9fb9e21877dafe63c65371ed1f65b3a]: Commencement: S. 64 in force at 1.4.2009 for W. in so far as not already in force by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(e)](https://www.legislation.gov.uk/uksi/2009/579/article/2/e) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/579/schedule/paragraph/2))

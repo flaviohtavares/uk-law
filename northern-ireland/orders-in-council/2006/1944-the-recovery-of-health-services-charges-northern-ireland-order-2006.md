@@ -530,7 +530,7 @@ the policy is also to be treated as covering any liability of that person under 
 (3) In paragraph (1), “ **health care arrangement**” means an arrangement or agreement between—
 
 - (a) the hospital in question or a body responsible for it, and
-- (b) [^key-d9d1a73e7e6fafbe710451ae8db27740]... an HSC[^c21464261] trust.
+- (b) [^c-d9d1a73e7e6fafbe710451ae8db27740]... an HSC[^c21464261] trust.
 
 (4) In this Article “**qualifying hospital**” means a hospital which is not a health care hospital.
 
@@ -579,9 +579,9 @@ Article 3.
 **1.** Any payment made to or for the injured person under—
 
 - (a) Article 14 of the Criminal Justice (Northern Ireland) Order 1994 (NI 15) (compensation orders against convicted persons),
-- (b) section 130 of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) or Chapter 2 of Part 7 of the Sentencing Code[^key-6c4dd4dd8ea0648b59d0d852d6aa65db] (corresponding provision in relation to England and Wales), [^key-d82f03864b90641500bf64ca00d2996b]...
+- (b) section 130 of the Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) or Chapter 2 of Part 7 of the Sentencing Code[^c-6c4dd4dd8ea0648b59d0d852d6aa65db] (corresponding provision in relation to England and Wales), [^c-d82f03864b90641500bf64ca00d2996b]...
 - (c) section 249 of the Criminal Procedure (Scotland) Act 1995 (c. 46) (corresponding provision in relation to Scotland).
-- (d)[^key-50db912108fa6155ab0228f6c008259a] Schedule 2 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (slavery and trafficking reparation orders).
+- (d)[^c-50db912108fa6155ab0228f6c008259a] Schedule 2 to the Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (slavery and trafficking reparation orders).
 
 **2.** Any payment made in the exercise of a discretion out of property held subject to a trust in a case where no more than 50 per cent by value of the capital contributed to the trust was directly or indirectly provided by persons who are, or are alleged to be, liable in respect of—
 
@@ -689,7 +689,7 @@ This Order amends the law relating to the recovery of health services charges fr
 
 [^c21464181]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-d9d1a73e7e6fafbe710451ae8db27740]: Textual amendment: Words in [art. 17(3)(b)](https://www.legislation.gov.uk/nisi/2006/1944/article/17/3/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 211](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/211); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9d1a73e7e6fafbe710451ae8db27740]: Textual amendment: Words in [art. 17(3)(b)](https://www.legislation.gov.uk/nisi/2006/1944/article/17/3/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 211](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/211); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21464261]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
@@ -699,11 +699,11 @@ This Order amends the law relating to the recovery of health services charges fr
 
 [^c21464271]: Textual amendment: Words in Order substituted (1.4.2009) by virtue of [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-6c4dd4dd8ea0648b59d0d852d6aa65db]: Textual amendment: Words in [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/nisi/2006/1944/schedule/1/paragraph/1/b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 314](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/314) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6c4dd4dd8ea0648b59d0d852d6aa65db]: Textual amendment: Words in [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/nisi/2006/1944/schedule/1/paragraph/1/b) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 314](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/314) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d82f03864b90641500bf64ca00d2996b]: Textual amendment: Word in Sch. 1 para. 1(b) omitted (14.1.2015) by virtue of [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 18(a)](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/18/a)
+[^c-d82f03864b90641500bf64ca00d2996b]: Textual amendment: Word in Sch. 1 para. 1(b) omitted (14.1.2015) by virtue of [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 18(a)](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/18/a)
 
-[^key-50db912108fa6155ab0228f6c008259a]: Textual amendment: Sch. 1 para. 1(d) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 18(b)](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/18/b)
+[^c-50db912108fa6155ab0228f6c008259a]: Textual amendment: Sch. 1 para. 1(d) inserted (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 4 para. 18(b)](https://www.legislation.gov.uk/nia/2015/2/schedule/4/paragraph/18/b)
 
 [^c19469391]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisi/2006/1944/schedule/1/paragraph/3) wholly in force at 29.1.2007: Sch. 1 para. 3 not in force at Royal Assent see [art. 1(2)](https://www.legislation.gov.uk/nisi/2006/1944/article/1/2); [Sch. 1 para. 3](https://www.legislation.gov.uk/nisi/2006/1944/schedule/1/paragraph/3) in force for certain purposes at 4.12.2006 and wholly in force at 29.1.2007 for all other purposes by [S.R. 2006/484](https://www.legislation.gov.uk/nisr/2006/484), [art. 2](https://www.legislation.gov.uk/nisr/2006/484/article/2)
 

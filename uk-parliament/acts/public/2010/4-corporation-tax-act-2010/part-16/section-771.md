@@ -51,7 +51,7 @@ summary: ''
 
 (9) A finance arrangement code does not apply so far as sections 228B and 228C of CAA 2001 (finance leaseback) apply in relation to the arrangement.
 
-(9A)[^key-6223f9f3be9b9d8c15186bdbeeb96be0] A finance arrangement code does not apply if the arrangement is a right-of-use lease—
+(9A)[^c-6223f9f3be9b9d8c15186bdbeeb96be0] A finance arrangement code does not apply if the arrangement is a right-of-use lease—
 
 - (a) under which the relevant person is a lessee, and
 - (b) which, were that person required under generally accepted accounting practice to determine whether the lease falls to be treated in the accounts of that person as a finance lease or loan, would not fall to be so treated.
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6223f9f3be9b9d8c15186bdbeeb96be0]: Textual amendment: [S. 771(9A)](https://www.legislation.gov.uk/ukpga/2010/4/section/771/9A)[(9B)](https://www.legislation.gov.uk/ukpga/2010/4/section/771/9B) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(9)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/9)
+[^c-6223f9f3be9b9d8c15186bdbeeb96be0]: Textual amendment: [S. 771(9A)](https://www.legislation.gov.uk/ukpga/2010/4/section/771/9A)[(9B)](https://www.legislation.gov.uk/ukpga/2010/4/section/771/9B) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(9)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/9)

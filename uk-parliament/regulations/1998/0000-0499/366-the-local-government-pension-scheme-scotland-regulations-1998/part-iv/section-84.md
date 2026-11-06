@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Over-provision: calculation and return of surplus AVC and SCAVC funds[^key-9aeb97d6debab132f4196c608d793da1]
+## 84. Over-provision: calculation and return of surplus AVC and SCAVC funds[^c-9aeb97d6debab132f4196c608d793da1]
 
 *Extent: E+W+S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9aeb97d6debab132f4196c608d793da1]: Commencement: Reg. 84 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-9aeb97d6debab132f4196c608d793da1]: Commencement: Reg. 84 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00031]: Footnote: S.I. [1993/3016](https://www.legislation.gov.uk/uksi/1993/3016).

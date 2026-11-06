@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 12 — Financial penalties for breach of retail licence conditions in Northern Ireland[^key-60e9e213c633c5f095f61b8dc918b850]
+## Schedule 12 — Financial penalties for breach of retail licence conditions in Northern Ireland[^c-60e9e213c633c5f095f61b8dc918b850]
 
 *Extent: N.I.*
 
 Section 88(3)
 
-[^key-60e9e213c633c5f095f61b8dc918b850]
+[^c-60e9e213c633c5f095f61b8dc918b850]
 
 After [Schedule 1](https://www.legislation.gov.uk/nia/2014/4/schedule/1) to the [Tobacco Retailers Act (Northern Ireland) 2014 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2014/4/contents) (inserted by Schedule 11 to this Act) insert—
 
@@ -116,4 +116,4 @@ After [Schedule 1](https://www.legislation.gov.uk/nia/2014/4/schedule/1) to the 
 
 ## Annotations
 
-[^key-60e9e213c633c5f095f61b8dc918b850]: Commencement: Sch. 12 in force at Royal Assent for specified purposes, see [s. 175(2)(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/8)
+[^c-60e9e213c633c5f095f61b8dc918b850]: Commencement: Sch. 12 in force at Royal Assent for specified purposes, see [s. 175(2)(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/8)

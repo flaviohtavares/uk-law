@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46B. Reviews and performance assessments: integrated care system[^key-84f0bab7d3daede02a6d1dc4476dc952]
+## 46B. Reviews and performance assessments: integrated care system[^c-84f0bab7d3daede02a6d1dc4476dc952]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84f0bab7d3daede02a6d1dc4476dc952]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/ukpga/2008/14/section/46B) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/31/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/b)
+[^c-84f0bab7d3daede02a6d1dc4476dc952]: Textual amendment: [S. 46B](https://www.legislation.gov.uk/ukpga/2008/14/section/46B) inserted (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/31/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Meaning of “executry services”[^key-52c01baaf040f2216da95c9392aa3452]
+## 233. Meaning of “executry services”[^c-52c01baaf040f2216da95c9392aa3452]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 23 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (
 
 ## Annotations
 
-[^key-52c01baaf040f2216da95c9392aa3452]: Commencement: Art. 233 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-52c01baaf040f2216da95c9392aa3452]: Commencement: Art. 233 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Restriction on arranging adoptions etc.[^key-4791771601c0cffe826576479b6a0942]
+## 96. Restriction on arranging adoptions etc.[^c-4791771601c0cffe826576479b6a0942]
 
 *Extent: N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4791771601c0cffe826576479b6a0942]: Commencement: S. 96 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-4791771601c0cffe826576479b6a0942]: Commencement: S. 96 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

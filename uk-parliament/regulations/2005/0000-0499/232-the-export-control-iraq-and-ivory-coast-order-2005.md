@@ -32,7 +32,7 @@ summary: ''
 
 CUSTOMS AND EXCISE
 
-The Export Control (Iraq and Ivory Coast) Order 2005 (revoked)[^key-1cc9ad214bd95edd3387156f95c5696f]
+The Export Control (Iraq and Ivory Coast) Order 2005 (revoked)[^c-1cc9ad214bd95edd3387156f95c5696f]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 9th February 2005
 
-[^key-1cc9ad214bd95edd3387156f95c5696f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc9ad214bd95edd3387156f95c5696f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1cc9ad214bd95edd3387156f95c5696f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1cc9ad214bd95edd3387156f95c5696f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc9ad214bd95edd3387156f95c5696f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1cc9ad214bd95edd3387156f95c5696f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1cc9ad214bd95edd3387156f95c5696f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1cc9ad214bd95edd3387156f95c5696f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/232) revoked (7.1.2014) by [The Export Control (North Korea and Ivory Coast Sanctions and Syria Amendment) Order 2013 (S.I. 2013/3182)](https://www.legislation.gov.uk/uksi/2013/3182), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3182/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/3182/schedule)
+[^c-1cc9ad214bd95edd3387156f95c5696f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2005/232) revoked (7.1.2014) by [The Export Control (North Korea and Ivory Coast Sanctions and Syria Amendment) Order 2013 (S.I. 2013/3182)](https://www.legislation.gov.uk/uksi/2013/3182), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3182/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/3182/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 85. Power to obtain information.[^key-8bd6489373046dccfafec4e40dcae5eb]
+## 85. Power to obtain information.[^c-8bd6489373046dccfafec4e40dcae5eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd6489373046dccfafec4e40dcae5eb]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1989/42/section/85) omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(3)(f)](https://www.legislation.gov.uk/anaw/2014/7/section/131/3/f), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)
+[^c-8bd6489373046dccfafec4e40dcae5eb]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1989/42/section/85) omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(3)(f)](https://www.legislation.gov.uk/anaw/2014/7/section/131/3/f), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)

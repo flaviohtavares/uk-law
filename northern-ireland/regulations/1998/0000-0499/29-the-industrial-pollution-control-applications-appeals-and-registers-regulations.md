@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of the Environment, in exercise of the powers conferred on it by Articles 11(1), (3) to (7), 15(10), 20(1) and (2), and 22(9) and paragraphs 1 to 3, 6 and 7 of Schedule 1 to the Industrial Pollution Control (Northern Ireland) Order 1997[^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-71723dcf5520702f5a8bcdbed91f419d]
+## 1. Citation and commencement[^c-71723dcf5520702f5a8bcdbed91f419d]
 
 These regulations may be cited as the Industrial Pollution Control (Applications, Appeals and Registers) Regulations (Northern Ireland) 1998, and shall come into operation on 2nd March 1998.
 
-## 2. Interpretation[^key-b1f5fd1dcb2cee7d9bf8fa8241d87ad1]
+## 2. Interpretation[^c-b1f5fd1dcb2cee7d9bf8fa8241d87ad1]
 
 In these Regulations:—
 
@@ -53,7 +53,7 @@ In these Regulations:—
 - “prescribed process” means any process the description of which is prescribed by regulation 3(1) of, and Schedule 1 to the Industrial Pollution Control (Prescribed Processes and Substances) Regulations (Northern Ireland) 1998[^f00002];
 - “Schedule 1” means Schedule 1 to the Industrial Pollution Control (Northern Ireland) Order 1997.
 
-## 3. Applications for an authorisation[^key-7496d5733324611f39f1a66161b2e747]
+## 3. Applications for an authorisation[^c-7496d5733324611f39f1a66161b2e747]
 
 (1) An application to the enforcing authority for an authorisation under Article 6(2) of the Order shall be in writing and, subject to paragraphs (2) and (3), shall contain the following information—
 
@@ -94,7 +94,7 @@ In these Regulations:—
   - (a) has become unfit for the use for which it was intended and, in particular, used combustion engine oil, gearbox oil, mineral lubricating oil, oil for turbines and hydraulic oil; and
   - (b) is generated only as a result of activities carried out by the applicant on the premises where the process is carried on.
 
-## 4. Variation of conditions of an authorisation[^key-ec860ba0fe61b731e3180926f36c5aa1]
+## 4. Variation of conditions of an authorisation[^c-ec860ba0fe61b731e3180926f36c5aa1]
 
 (1) Any notice given to an enforcing authority under Article 11(1)(*a*) of the Order of a proposed relevant change in a prescribed process shall be in writing.
 
@@ -137,9 +137,9 @@ shall also furnish the authority with—
 - (a) an indication of the variations he wishes the authority to make; and
 - (b) any additional information which he wishes the authority to take into account in considering his application.
 
-## 5. Consultation[^key-1dd4de42f49c60536d42404ea5cc70cf]
+## 5. Consultation[^c-1dd4de42f49c60536d42404ea5cc70cf]
 
-(1) Subject to regulations 7 and 8(2), and except in the case of a prescribed process to which regulation 7A applies,[^key-027318347bc13812f9a120adc7627d2a] the persons to be consulted under paragraph 2, 6 or 7 of Schedule 1, are—
+(1) Subject to regulations 7 and 8(2), and except in the case of a prescribed process to which regulation 7A applies,[^c-027318347bc13812f9a120adc7627d2a] the persons to be consulted under paragraph 2, 6 or 7 of Schedule 1, are—
 
 - (a) the Department of Economic Development, in all cases;
 - (b) the Department of Agriculture in the case of all prescribed processes designated for integrated central control;
@@ -153,7 +153,7 @@ shall also furnish the authority with—
   - (i) in the case of all prescribed processes designated for integrated central control which may involve the release of any substance into any environmental medium;
   - (ii) in the case of all prescribed processes designated for restricted central control which may involve the release of any substance, into the air (other than those which will be carried on by means of mobile plant), or in respect of which a direction under Article 5(5) of the Order is in force; and
 - (e) the harbour authority in the case of all prescribed processes designated for integrated central control and which may result in the release of any substance into a harbour managed by the harbour authority.
-- (f)[^key-7920f29738890bfc357be3b3fdd04d97] the Food Standards Agency, in the case of all prescribed processes designated for integrated central control.
+- (f)[^c-7920f29738890bfc357be3b3fdd04d97] the Food Standards Agency, in the case of all prescribed processes designated for integrated central control.
 
 (2) Subject to regulation 8(5)(*a*), the period for notification under paragraphs 2(1), 6(2) and 7(2) of Schedule 1 shall be the period of 14 days beginning with—
 
@@ -163,9 +163,9 @@ shall also furnish the authority with—
 
 (3) In this regulation “harbour authority” has the same meaning as in section 38(1) of the Harbours Act (Northern Ireland) 1970[^f00005].
 
-## 6. Advertisements[^key-dbd6ccc5e5cc6b5b584e5e0775d4a97c]
+## 6. Advertisements[^c-dbd6ccc5e5cc6b5b584e5e0775d4a97c]
 
-(1) Subject to paragraph (4) and regulations 7 and 7A,[^key-af9712cc2a576289e31c7aa7eaa8eb6f] , an advertisement—
+(1) Subject to paragraph (4) and regulations 7 and 7A,[^c-af9712cc2a576289e31c7aa7eaa8eb6f] , an advertisement—
 
 - (a) by an applicant under paragraph 1(2) of Schedule 1; or
 - (b) by the holder of an authorisation under paragraph 6(2) or 7(2) of Schedule 1
@@ -189,7 +189,7 @@ shall be published in one or more newspapers circulating in the locality in whic
 
 (4) The requirement in paragraph (1) of this regulation to publish an advertisement in one or more newspapers circulating in the locality in which the prescribed process will be carried on does not apply in relation to any prescribed process which will be carried on by means of mobile plant.
 
-## 7. Exemption for waste oil burners[^key-556a4cf56d5f7c094b7e7d68bcf5b348]
+## 7. Exemption for waste oil burners[^c-556a4cf56d5f7c094b7e7d68bcf5b348]
 
 (1) The requirements of paragraphs 1(2), 2, 6 or 7 of Schedule 1 shall not apply in relation to any process involving only the burning of waste oil in an appliance with a net rated thermal input of less than 0.4 megawatts.
 
@@ -198,7 +198,7 @@ shall be published in one or more newspapers circulating in the locality in whic
 - “net rated thermal input” has the same meaning as in regulation 3(4); and
 - “waste oil” means any mineral based lubricating or industrial oil which has become unfit for the use for which it was intended and, in particular, used combustion engine oil, gearbox oil, mineral lubricating oil, oil for turbines and hydraulic oil.
 
-## 7A. Exemption for service stations[^key-df72a79e452c4c2a1892404b6ac467ba]
+## 7A. Exemption for service stations[^c-df72a79e452c4c2a1892404b6ac467ba]
 
 (1) This regulation applies to a prescribed process falling within Part C of Section 1.4 in Chapter I of Schedule 1 to the Industrial Pollution Control (Prescribed Processes and Substances) Regulations (Northern Ireland) 1998.
 
@@ -208,7 +208,7 @@ shall be published in one or more newspapers circulating in the locality in whic
 - (b) the requirement in paragraph 6(2) of that Schedule to advertise the action to be taken by the holder of an authorisation in consequence of a variation;
 - (c) the requirement in paragraph 7(2) of that Schedule to advertise an application for a variation of an authorisation.
 
-## 8. National security and confidential information[^key-7caaa84988959cab2a8156e452fcace2]
+## 8. National security and confidential information[^c-7caaa84988959cab2a8156e452fcace2]
 
 (1) This regulation applies where in relation to an application or an authorisation—
 
@@ -240,11 +240,11 @@ shall be published in one or more newspapers circulating in the locality in whic
 - (c) in a case where the enforcing authority determines under Article 22(2) or (4) of the Order that the information in question is commercially confidential, on the date of the authority’s determination;
 - (d) in a case where the enforcing authority determines under Article 22(2) or (4) of the Order that the information in question is commercially confidential, on the date on which the period for bringing an appeal expires without an appeal being brought or, if such an appeal is brought within that period, on the date of the final determination of the appeal by the Department or, as the case may be, the date on which the appellant withdraws his appeal.
 
-## 9. Transmitted applications[^key-9a5b0042ab0cbd953a5b715aaa51c3e9]
+## 9. Transmitted applications[^c-9a5b0042ab0cbd953a5b715aaa51c3e9]
 
 Where an application for an authorisation is transmitted to the Department for determination under paragraph 3(1) of Schedule 1, a request by the applicant or the enforcing authority concerned that the Department exercise one of the powers under paragraph 3(3) of Schedule 1 shall be made to the Department in writing within the period of 21 days beginning with the day on which the applicant is informed that the application is being transmitted to the Department.
 
-## 10. Notice of appeal[^key-d1a8be39a8d4c0532319482e606e5227]
+## 10. Notice of appeal[^c-d1a8be39a8d4c0532319482e606e5227]
 
 (1) A person who wishes to appeal to the Department under Article 15 or 22(5) of the Order shall give to the Department written notice of the appeal together with the documents specified in paragraph (2) and shall at the same time send to the enforcing authority a copy of that notice together with the documents specified in paragraph (2)(*a*) and (*f*).
 
@@ -259,7 +259,7 @@ Where an application for an authorisation is transmitted to the Department for d
 
 (3) If the appellant wishes to withdraw an appeal he shall do so by notifying the Department in writing and shall send a copy of that notification to the enforcing authority.
 
-## 11. Time limit for bringing an appeal[^key-e97c461283087abaf3292f52062c58b2]
+## 11. Time limit for bringing an appeal[^c-e97c461283087abaf3292f52062c58b2]
 
 (1) Subject to paragraph (2) notice of appeal in accordance with regulation 10(1) shall be given—
 
@@ -273,7 +273,7 @@ Where an application for an authorisation is transmitted to the Department for d
 
 (2) The Department may in a particular case allow notice of appeal to be given after the expiry of the periods mentioned in paragraph (1)(*a*), (*b*) or (*d*).
 
-## 12. Action upon receipt of notice of appeal[^key-11a36ca1d4593d433ce2d2964ffc5feb]
+## 12. Action upon receipt of notice of appeal[^c-11a36ca1d4593d433ce2d2964ffc5feb]
 
 (1) Subject to paragraph (5), the enforcing authority shall within 14 days of receipt of the copy of the notice of appeal in accordance with regulation 10(1)—
 
@@ -299,7 +299,7 @@ Where an application for an authorisation is transmitted to the Department for d
 
 (5) The provisions of this regulation do not apply in the case of an appeal brought under Article 22(5) of the Order.
 
-## 13. Written representations[^key-dd09e234aa6c3b03548beb4d9708c841]
+## 13. Written representations[^c-dd09e234aa6c3b03548beb4d9708c841]
 
 (1) Where the appellant informs the Department that he wishes the appeal to be disposed of on the basis of written representations, the enforcing authority shall submit any written representations to the Department not later than 28 days beginning with the date of receipt of a copy of the documents mentioned in regulation 10(2)(*a*) and (*f*).
 
@@ -316,7 +316,7 @@ Where an application for an authorisation is transmitted to the Department for d
 - (a) set later time limits than those mentioned in this regulation;
 - (b) require exchanges of representations between the parties in addition to those mentioned in paragraphs (1) and (2).
 
-## 14. Hearings[^key-3d98afb102ca9395ac296a2812bb69d7]
+## 14. Hearings[^c-3d98afb102ca9395ac296a2812bb69d7]
 
 (1) The Department shall give the appellant and the enforcing authority at least 28 days' written notice (or such shorter period of notice as they may agree) of the date, time and place fixed for the holding of any hearing in respect of an appeal under Article 15 or 22(5) of the Order.
 
@@ -343,7 +343,7 @@ and shall serve a copy of the notice mentioned in paragraph (1) on every person 
 
 (8) After the conclusion of a hearing, the person appointed to conduct the hearing shall make a report in writing to the Department which shall include his conclusions and his recommendations or his reasons for not making any recommendations.
 
-## 15. Notification of determination[^key-44f11c4bdf9f960e3348f3e1e30ece9b]
+## 15. Notification of determination[^c-44f11c4bdf9f960e3348f3e1e30ece9b]
 
 (1) The Department shall notify the appellant in writing of its determination of the appeal and shall provide him with a copy of any report mentioned in regulation 14(8).
 
@@ -352,7 +352,7 @@ and shall serve a copy of the notice mentioned in paragraph (1) on every person 
 - (a) a copy of the documents mentioned in paragraph (1) to the enforcing authority and to any persons required under regulation 12(1)(*b*)(ii) to be notified of the appeal; and
 - (b) a copy of its determination of the appeal to a person mentioned in regulation 12(1)(*a*) and (*b*)(i) who made representations to the Department and, if a hearing was held, to any other person who made representations in relation to the appeal at the hearing.
 
-## 16. Registers[^key-6d69481e0340c5d71ea8aecb3e131920]
+## 16. Registers[^c-6d69481e0340c5d71ea8aecb3e131920]
 
 Subject to Articles 21 and 22 of the Order, a register maintained by an enforcing authority under Article 20 of the Order shall be maintained in accordance with regulation 17 and shall contain—
 
@@ -376,7 +376,7 @@ Subject to Articles 21 and 22 of the Order, a register maintained by an enforcin
 - (r) all particulars of any report published by an enforcing authority relating to an assessment of the environmental consequences of the carrying on of a prescribed process in the locality of premises where the prescribed process is carried on under an authorisation granted by the authority; and
 - (s) all particulars of any direction (other than a direction under Article 21(2) of the Order) given to the authority by the Department under any provision of the Order.
 
-**17.**[^key-c1b611e04d2b064f9e056621d41752b7] (1) Where an advertisement is required to be published in accordance with regulation 6—
+**17.**[^c-c1b611e04d2b064f9e056621d41752b7] (1) Where an advertisement is required to be published in accordance with regulation 6—
 
 - (a) in the case of an advertisement under paragraph 1(2) of 7(2) of Schedule 1 to the Order, the particulars referred to in paragraph (*a*) of regulation 16 shall be entered in the register not later than 14 days after the receipt by the enforcing authority of the application to which the advertisement relates;
 - (b) in the case of an advertisement under paragraph 6(2) of that Schedule, the particulars referred to in paragraph (*i*) of regulation 16 shall be entered in the register not later than 14 days after the giving of the notification under Article 10(6) of the Order.
@@ -385,9 +385,9 @@ Subject to Articles 21 and 22 of the Order, a register maintained by an enforcin
 
 (3) Where, by virtue of any regulations made under Article 3(1) of the Order a description of process ceases to be a prescribed process, all particulars relating to processes of that description shall be removed from the register not less than two months and not more than three months after the date on which that description of process ceases to be prescribed.
 
-**18.**[^key-abb38d7b8ae2dc9e59b54bb1290e6510] A register maintained by a district council shall (in addition to the particulars required by regulation 16) contain all particulars of such information contained in any register maintained by the chief inspector as relates to the carrying on in the area of that district council of prescribed processes in relation to which the chief inspector has functions under the Order.
+**18.**[^c-abb38d7b8ae2dc9e59b54bb1290e6510] A register maintained by a district council shall (in addition to the particulars required by regulation 16) contain all particulars of such information contained in any register maintained by the chief inspector as relates to the carrying on in the area of that district council of prescribed processes in relation to which the chief inspector has functions under the Order.
 
-**19.**[^key-7fa63938cae3c34c50bd0691bfc4da93] Nothing in regulation 16 or 18 shall require an enforcing authority to keep in a register maintained by him—
+**19.**[^c-7fa63938cae3c34c50bd0691bfc4da93] Nothing in regulation 16 or 18 shall require an enforcing authority to keep in a register maintained by him—
 
 - (a) monitoring information relating to a particular process four years after that information was entered in the register; or
 - (b) information relating to a particular process which has been superseded by later information relating to that process four years after that later information was entered in the register,
@@ -416,56 +416,56 @@ Copies of the document published by the British Standards Institution referred t
 
 [^f00001]: Footnote: S.I. [1997/2777 (N.I. 18)](https://www.legislation.gov.uk/nisi/1997/2777), *see* Article 2(2) for the definition of “the Department” and Articles 10(9) and 20(8) for the definition of “prescribed”
 
-[^key-71723dcf5520702f5a8bcdbed91f419d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-71723dcf5520702f5a8bcdbed91f419d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-b1f5fd1dcb2cee7d9bf8fa8241d87ad1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/29/regulation/2) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-b1f5fd1dcb2cee7d9bf8fa8241d87ad1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/29/regulation/2) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1998 No. 28](https://www.legislation.gov.uk/nisr/1998/28)
 
-[^key-7496d5733324611f39f1a66161b2e747]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/29/regulation/3) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-7496d5733324611f39f1a66161b2e747]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1998/29/regulation/3) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
 [^f00003]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032); Art. 4 was substituted by the provisions in Art. 62 of S.I. [1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)
 
-[^key-ec860ba0fe61b731e3180926f36c5aa1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/29/regulation/4) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-ec860ba0fe61b731e3180926f36c5aa1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1998/29/regulation/4) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-1dd4de42f49c60536d42404ea5cc70cf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/29/regulation/5) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-1dd4de42f49c60536d42404ea5cc70cf]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1998/29/regulation/5) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-027318347bc13812f9a120adc7627d2a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/29/regulation/5/1) inserted (31.8.1998) by [The Industrial Pollution Control (Prescribed Processes and Substances) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/268)](https://www.legislation.gov.uk/nisr/1998/268), [regs. 1](https://www.legislation.gov.uk/nisr/1998/268/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/1998/268/regulation/6/a)
+[^c-027318347bc13812f9a120adc7627d2a]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/nisr/1998/29/regulation/5/1) inserted (31.8.1998) by [The Industrial Pollution Control (Prescribed Processes and Substances) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/268)](https://www.legislation.gov.uk/nisr/1998/268), [regs. 1](https://www.legislation.gov.uk/nisr/1998/268/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/1998/268/regulation/6/a)
 
 [^f00004]: Footnote: [1972 c. 5 (N.I.)](https://www.legislation.gov.uk/apni/1972/5)
 
-[^key-7920f29738890bfc357be3b3fdd04d97]: Textual amendment: [Reg. 5(1)(f)](https://www.legislation.gov.uk/nisr/1998/29/regulation/5/1/f) added (1.4.2000) by [Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000 (S.R. 2000/78)](https://www.legislation.gov.uk/nisr/2000/78), [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/nisr/2000/78/schedule/8/part/II) (with [regs. 12-14](https://www.legislation.gov.uk/nisr/2000/78/regulation/12))
+[^c-7920f29738890bfc357be3b3fdd04d97]: Textual amendment: [Reg. 5(1)(f)](https://www.legislation.gov.uk/nisr/1998/29/regulation/5/1/f) added (1.4.2000) by [Food Standards Act 1999 (Transitional and Consequential Provisions and Savings) Regulations (Northern Ireland) 2000 (S.R. 2000/78)](https://www.legislation.gov.uk/nisr/2000/78), [reg. 1](https://www.legislation.gov.uk/nisr/2000/78/regulation/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/nisr/2000/78/schedule/8/part/II) (with [regs. 12-14](https://www.legislation.gov.uk/nisr/2000/78/regulation/12))
 
 [^f00005]: Footnote: [1970 c. 1 (N.I.)](https://www.legislation.gov.uk/apni/1970/1)
 
-[^key-dbd6ccc5e5cc6b5b584e5e0775d4a97c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/29/regulation/6) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-dbd6ccc5e5cc6b5b584e5e0775d4a97c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1998/29/regulation/6) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-af9712cc2a576289e31c7aa7eaa8eb6f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/1998/29/regulation/6/1) substituted (31.8.1998) by [The Industrial Pollution Control (Prescribed Processes and Substances) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/268)](https://www.legislation.gov.uk/nisr/1998/268), [regs. 1](https://www.legislation.gov.uk/nisr/1998/268/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/1998/268/regulation/6/b)
+[^c-af9712cc2a576289e31c7aa7eaa8eb6f]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/1998/29/regulation/6/1) substituted (31.8.1998) by [The Industrial Pollution Control (Prescribed Processes and Substances) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/268)](https://www.legislation.gov.uk/nisr/1998/268), [regs. 1](https://www.legislation.gov.uk/nisr/1998/268/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/1998/268/regulation/6/b)
 
-[^key-556a4cf56d5f7c094b7e7d68bcf5b348]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/29/regulation/7) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-556a4cf56d5f7c094b7e7d68bcf5b348]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1998/29/regulation/7) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-df72a79e452c4c2a1892404b6ac467ba]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/1998/29/regulation/7A) inserted (31.8.1998) by [The Industrial Pollution Control (Prescribed Processes and Substances) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/268)](https://www.legislation.gov.uk/nisr/1998/268), [regs. 1](https://www.legislation.gov.uk/nisr/1998/268/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/1998/268/regulation/6/c)
+[^c-df72a79e452c4c2a1892404b6ac467ba]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/nisr/1998/29/regulation/7A) inserted (31.8.1998) by [The Industrial Pollution Control (Prescribed Processes and Substances) (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/268)](https://www.legislation.gov.uk/nisr/1998/268), [regs. 1](https://www.legislation.gov.uk/nisr/1998/268/regulation/1), [6(c)](https://www.legislation.gov.uk/nisr/1998/268/regulation/6/c)
 
-[^key-7caaa84988959cab2a8156e452fcace2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/29/regulation/8) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-7caaa84988959cab2a8156e452fcace2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1998/29/regulation/8) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-9a5b0042ab0cbd953a5b715aaa51c3e9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/29/regulation/9) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-9a5b0042ab0cbd953a5b715aaa51c3e9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1998/29/regulation/9) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-d1a8be39a8d4c0532319482e606e5227]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/29/regulation/10) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-d1a8be39a8d4c0532319482e606e5227]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1998/29/regulation/10) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-e97c461283087abaf3292f52062c58b2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/29/regulation/11) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-e97c461283087abaf3292f52062c58b2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1998/29/regulation/11) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-11a36ca1d4593d433ce2d2964ffc5feb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/29/regulation/12) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-11a36ca1d4593d433ce2d2964ffc5feb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1998/29/regulation/12) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-dd09e234aa6c3b03548beb4d9708c841]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1998/29/regulation/13) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-dd09e234aa6c3b03548beb4d9708c841]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/1998/29/regulation/13) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-3d98afb102ca9395ac296a2812bb69d7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1998/29/regulation/14) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-3d98afb102ca9395ac296a2812bb69d7]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/1998/29/regulation/14) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-44f11c4bdf9f960e3348f3e1e30ece9b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/1998/29/regulation/15) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-44f11c4bdf9f960e3348f3e1e30ece9b]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/1998/29/regulation/15) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-6d69481e0340c5d71ea8aecb3e131920]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1998/29/regulation/16) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-6d69481e0340c5d71ea8aecb3e131920]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/1998/29/regulation/16) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-c1b611e04d2b064f9e056621d41752b7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/1998/29/regulation/17) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-c1b611e04d2b064f9e056621d41752b7]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/1998/29/regulation/17) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-abb38d7b8ae2dc9e59b54bb1290e6510]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/1998/29/regulation/18) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-abb38d7b8ae2dc9e59b54bb1290e6510]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/1998/29/regulation/18) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
 
-[^key-7fa63938cae3c34c50bd0691bfc4da93]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/1998/29/regulation/19) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)
+[^c-7fa63938cae3c34c50bd0691bfc4da93]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/1998/29/regulation/19) in operation at 2.3.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/29/regulation/1)

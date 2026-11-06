@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Remediation notice[^key-326ac957a5af9df67f5addf2d3dc1dcf][^M_C_53b81ee0-d77f-42a2-89ac-8ce74d1cde21]
+## 44. Remediation notice[^c-326ac957a5af9df67f5addf2d3dc1dcf][^M_C_53b81ee0-d77f-42a2-89ac-8ce74d1cde21]
 
 *Extent: S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-326ac957a5af9df67f5addf2d3dc1dcf]: Commencement: S. 44 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-326ac957a5af9df67f5addf2d3dc1dcf]: Commencement: S. 44 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
 [^M_C_53b81ee0-d77f-42a2-89ac-8ce74d1cde21]: Modification: Ss. 43-45 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [13](https://www.legislation.gov.uk/ssi/2020/316/article/13)

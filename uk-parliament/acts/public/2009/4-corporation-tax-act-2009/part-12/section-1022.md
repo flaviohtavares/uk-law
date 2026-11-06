@@ -40,8 +40,8 @@ Section 1023 explains what is meant by “qualifying option”, “takeover”, 
 
 The consideration covered by paragraph (a) does not include the consideration mentioned in subsection (1)(c).
 
-(5)[^key-1de44273567089f7757e41e869a5d572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1de44273567089f7757e41e869a5d572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1de44273567089f7757e41e869a5d572]: Textual amendment: S. 1022(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)
+[^c-1de44273567089f7757e41e869a5d572]: Textual amendment: S. 1022(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)

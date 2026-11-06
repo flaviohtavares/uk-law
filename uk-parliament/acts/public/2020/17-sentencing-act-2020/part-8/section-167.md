@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Effect of custodial sentence in other cases[^key-9826e11fee272161a85553095470b426]
+## 167. Effect of custodial sentence in other cases[^c-9826e11fee272161a85553095470b426]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ But the court may not take into account for this purpose any custodial sentence 
 
 ## Annotations
 
-[^key-9826e11fee272161a85553095470b426]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2020/17/section/167) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9826e11fee272161a85553095470b426]: Commencement: [S. 167](https://www.legislation.gov.uk/ukpga/2020/17/section/167) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

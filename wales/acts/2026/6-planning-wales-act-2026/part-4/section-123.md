@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Offence of breaching temporary stop notice[^key-177050c2a9bc22d229ad9dc30b365f07]
+## 123. Offence of breaching temporary stop notice[^c-177050c2a9bc22d229ad9dc30b365f07]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-177050c2a9bc22d229ad9dc30b365f07]: Commencement: S. 123 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-177050c2a9bc22d229ad9dc30b365f07]: Commencement: S. 123 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

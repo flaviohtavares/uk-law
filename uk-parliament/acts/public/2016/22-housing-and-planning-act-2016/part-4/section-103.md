@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Housing administrator may sell land free from planning obligations[^key-e24d1ff01830e71d00fb841ed01df4bf]
+## 103. Housing administrator may sell land free from planning obligations[^c-e24d1ff01830e71d00fb841ed01df4bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e24d1ff01830e71d00fb841ed01df4bf]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2016/22/section/103) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-e24d1ff01830e71d00fb841ed01df4bf]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2016/22/section/103) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

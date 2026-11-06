@@ -34,7 +34,7 @@ This Statutory Instrument has been made to correct errors in [SI 2006/3284](http
 
 betting, gaming and lotteries
 
-The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2007 (revoked)[^key-699868c2209d0079f4b958dae0cd4718]
+The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) Regulations 2007 (revoked)[^c-699868c2209d0079f4b958dae0cd4718]
 
 Made
 
@@ -48,23 +48,23 @@ Coming into force
 
 1st March 2007
 
-[^key-699868c2209d0079f4b958dae0cd4718]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-699868c2209d0079f4b958dae0cd4718]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-699868c2209d0079f4b958dae0cd4718]
+## 1. Citation and commencement[^c-699868c2209d0079f4b958dae0cd4718]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to annual fees for non-remote operating licences[^key-699868c2209d0079f4b958dae0cd4718]
+## 2. Amendment to annual fees for non-remote operating licences[^c-699868c2209d0079f4b958dae0cd4718]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-699868c2209d0079f4b958dae0cd4718]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-699868c2209d0079f4b958dae0cd4718]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Table substituted in Schedule 3 to the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006 (annual fees for non-remote operating licences)[^key-699868c2209d0079f4b958dae0cd4718]
+## SCHEDULE — Table substituted in Schedule 3 to the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006 (annual fees for non-remote operating licences)[^c-699868c2209d0079f4b958dae0cd4718]
 
 Regulation 2
 
@@ -72,8 +72,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-699868c2209d0079f4b958dae0cd4718]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-699868c2209d0079f4b958dae0cd4718]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-699868c2209d0079f4b958dae0cd4718]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/269) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)
+[^c-699868c2209d0079f4b958dae0cd4718]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/269) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)

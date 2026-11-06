@@ -26,19 +26,19 @@ Section 7(2)
 
 *Extent: E+W+S*
 
-**1.**[^key-b5953e5be7a72da09062ded507c90871] In section 288 of the Trade Union and Labour Relations (Consolidation) Act 1992 (restriction on contracting out), in subsection (2), for “section 18” substitute “ any of sections 18A to 18C ”.
+**1.**[^c-b5953e5be7a72da09062ded507c90871] In section 288 of the Trade Union and Labour Relations (Consolidation) Act 1992 (restriction on contracting out), in subsection (2), for “section 18” substitute “ any of sections 18A to 18C ”.
 
 ### Employment Tribunals Act 1996 (c. 17)
 
 *Extent: E+W+S*
 
-**2.**[^key-8f7862af61bfcbd724d652100d19f667] The Employment Tribunals Act 1996 is amended as follows.
+**2.**[^c-8f7862af61bfcbd724d652100d19f667] The Employment Tribunals Act 1996 is amended as follows.
 
-**3.**[^key-0ae1cdb4d9b75b8084f7f169cc515b9c] In section 7 (employment tribunal procedure regulations), in subsection (3ZA)(b), after “form” insert “ (including certificates issued under section 18A(4)) ”.
+**3.**[^c-0ae1cdb4d9b75b8084f7f169cc515b9c] In section 7 (employment tribunal procedure regulations), in subsection (3ZA)(b), after “form” insert “ (including certificates issued under section 18A(4)) ”.
 
-**4.**[^key-497c4e2cd0595352979034d7e277871d] In section 7B (mediation), in subsection (5), for “the Advisory, Conciliation and Arbitration Service” substitute “ ACAS ”.
+**4.**[^c-497c4e2cd0595352979034d7e277871d] In section 7B (mediation), in subsection (5), for “the Advisory, Conciliation and Arbitration Service” substitute “ ACAS ”.
 
-**5.**[^key-fcb0a4b22d7fe93efdf92a41683f70f7] (1) Section 18 (conciliation) is amended as follows.
+**5.**[^c-fcb0a4b22d7fe93efdf92a41683f70f7] (1) Section 18 (conciliation) is amended as follows.
 
 (2) At the end of the heading insert “ : relevant proceedings etc. ”
 
@@ -61,7 +61,7 @@ Section 7(2)
 
 (9) In subsections (6) and (7), for “this section” substitute “ any of sections 18A to 18C ”.
 
-**6.**[^key-3abf2fc038150c52e6dffdb759a6e0b1] After section 18B (inserted by section 7(1)) insert—
+**6.**[^c-3abf2fc038150c52e6dffdb759a6e0b1] After section 18B (inserted by section 7(1)) insert—
 
 > **18C. Conciliation after institution of proceedings**
 >
@@ -77,11 +77,11 @@ Section 7(2)
 >
 > (3) In subsection (1) “**settlement**” means a settlement that brings proceedings to an end without their being determined by an employment tribunal.
 
-**7.**[^key-0802aea114f071d9a77ea08b66eb08dd] In section 19A (conciliation: recovery of sums payable under compromises), in subsection (1)(a)(i), for “section 18” substitute “ any of sections 18A to 18C ”.
+**7.**[^c-0802aea114f071d9a77ea08b66eb08dd] In section 19A (conciliation: recovery of sums payable under compromises), in subsection (1)(a)(i), for “section 18” substitute “ any of sections 18A to 18C ”.
 
-**8.**[^key-6f014ba85ff82190665ac48c6b0edab7] In section 40 (power to amend Act), in subsection (2), omit the words from “and to section 18” to the end.
+**8.**[^c-6f014ba85ff82190665ac48c6b0edab7] In section 40 (power to amend Act), in subsection (2), omit the words from “and to section 18” to the end.
 
-**9.**[^key-2841d338208c15b722faddc29daa07cd] In section 42 (interpretation), in subsection (1)—
+**9.**[^c-2841d338208c15b722faddc29daa07cd] In section 42 (interpretation), in subsection (1)—
 
 - (a) before the definition of “the Appeal Tribunal” insert—
 
@@ -94,48 +94,48 @@ Section 7(2)
 
 *Extent: E+W+S*
 
-**10.**[^key-bce3c4e5d74cdfec2cfac9571e13c241] In section 203 of the Employment Rights Act 1996 (restrictions on contracting out), in subsection (2)(e), for “section 18” substitute “ any of sections 18A to 18C ”.
+**10.**[^c-bce3c4e5d74cdfec2cfac9571e13c241] In section 203 of the Employment Rights Act 1996 (restrictions on contracting out), in subsection (2)(e), for “section 18” substitute “ any of sections 18A to 18C ”.
 
 ### National Minimum Wage Act 1998 (c. 39)
 
-**11.**[^key-61f4c24df40f22e3d759cdd3eb33f4b7] In section 49 of the National Minimum Wage Act 1998 (restrictions on contracting out), in subsection (2)(a), for “section 18” substitute “ any of sections 18A to 18C ”.
+**11.**[^c-61f4c24df40f22e3d759cdd3eb33f4b7] In section 49 of the National Minimum Wage Act 1998 (restrictions on contracting out), in subsection (2)(a), for “section 18” substitute “ any of sections 18A to 18C ”.
 
 ### Employment Act 2008 (c. 24)
 
 *Extent: E+W+S*
 
-**12.**[^key-a53bbc836ec9c91a9caa5a5f343b6d79] Section 5 of the Employment Act 2008 (which amends provisions repealed by paragraph 5(8)) is omitted.
+**12.**[^c-a53bbc836ec9c91a9caa5a5f343b6d79] Section 5 of the Employment Act 2008 (which amends provisions repealed by paragraph 5(8)) is omitted.
 
 ### Pensions Act 2008 (c. 30)
 
 *Extent: E+W+S*
 
-**13.**[^key-567b41d65b13f2cd7a83702e8155d9d6] In section 58 of the Pensions Act 2008 (restrictions on agreements to limit operation of Part 1), in subsection (3), for “section 18” substitute “ any of sections 18A to 18C ”.
+**13.**[^c-567b41d65b13f2cd7a83702e8155d9d6] In section 58 of the Pensions Act 2008 (restrictions on agreements to limit operation of Part 1), in subsection (3), for “section 18” substitute “ any of sections 18A to 18C ”.
 
 ## Annotations
 
-[^key-b5953e5be7a72da09062ded507c90871]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/1) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-b5953e5be7a72da09062ded507c90871]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/1) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
 
-[^key-8f7862af61bfcbd724d652100d19f667]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/2) in force at 6.3.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 2](https://www.legislation.gov.uk/uksi/2014/253/article/2)
+[^c-8f7862af61bfcbd724d652100d19f667]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/2) in force at 6.3.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 2](https://www.legislation.gov.uk/uksi/2014/253/article/2)
 
-[^key-0ae1cdb4d9b75b8084f7f169cc515b9c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/3) in force at 6.3.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 2](https://www.legislation.gov.uk/uksi/2014/253/article/2)
+[^c-0ae1cdb4d9b75b8084f7f169cc515b9c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/3) in force at 6.3.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 2](https://www.legislation.gov.uk/uksi/2014/253/article/2)
 
-[^key-497c4e2cd0595352979034d7e277871d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/4) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-497c4e2cd0595352979034d7e277871d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/4) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
 
-[^key-fcb0a4b22d7fe93efdf92a41683f70f7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/5) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2014/253/article/5/2))
+[^c-fcb0a4b22d7fe93efdf92a41683f70f7]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/5) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2014/253/article/5/2))
 
-[^key-3abf2fc038150c52e6dffdb759a6e0b1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/6) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-3abf2fc038150c52e6dffdb759a6e0b1]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/6) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
 
-[^key-0802aea114f071d9a77ea08b66eb08dd]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/7) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-0802aea114f071d9a77ea08b66eb08dd]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/7) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
 
-[^key-6f014ba85ff82190665ac48c6b0edab7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/8) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-6f014ba85ff82190665ac48c6b0edab7]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/8) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
 
-[^key-2841d338208c15b722faddc29daa07cd]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/9) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-2841d338208c15b722faddc29daa07cd]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/9) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
 
-[^key-bce3c4e5d74cdfec2cfac9571e13c241]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/10) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-bce3c4e5d74cdfec2cfac9571e13c241]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/10) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
 
-[^key-61f4c24df40f22e3d759cdd3eb33f4b7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/11) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-61f4c24df40f22e3d759cdd3eb33f4b7]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/11) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
 
-[^key-a53bbc836ec9c91a9caa5a5f343b6d79]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/12) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
+[^c-a53bbc836ec9c91a9caa5a5f343b6d79]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/12) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f)
 
-[^key-567b41d65b13f2cd7a83702e8155d9d6]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/13) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))
+[^c-567b41d65b13f2cd7a83702e8155d9d6]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/1/paragraph/13) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(f)](https://www.legislation.gov.uk/uksi/2014/253/article/3/f) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2014/253/article/5/1))

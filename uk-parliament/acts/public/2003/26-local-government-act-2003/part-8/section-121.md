@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Fire brigade establishment schemes: removal of Secretary of State’s functions[^key-fa308106f145ef01bd719cd3450ff296]
+## 121. Fire brigade establishment schemes: removal of Secretary of State’s functions[^c-fa308106f145ef01bd719cd3450ff296]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa308106f145ef01bd719cd3450ff296]: Textual amendment: S. 121 repealed (1.10.2004 except in relation to W. otherwise 10.11.2004) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-fa308106f145ef01bd719cd3450ff296]: Textual amendment: S. 121 repealed (1.10.2004 except in relation to W. otherwise 10.11.2004) by [Fire and Rescue Services Act 2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), [s. 61](https://www.legislation.gov.uk/ukpga/2004/21/section/61), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/21/schedule/2); [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2); [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

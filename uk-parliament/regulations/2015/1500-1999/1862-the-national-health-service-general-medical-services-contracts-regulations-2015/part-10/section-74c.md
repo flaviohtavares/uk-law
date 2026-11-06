@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74C. Information relating to indicators no longer in the Quality and Outcomes Framework[^key-36f6994f6677e51a30d71eaf37926e68]
+## 74C. Information relating to indicators no longer in the Quality and Outcomes Framework[^c-36f6994f6677e51a30d71eaf37926e68]
 
 *Extent: E+W*
 
-A contractor must allow the extraction from the contractor’s computerised clinical systems by NHS England[^key-32179b9857a86046090eb1342fae7a85] of the information specified in the Table relating to clinical indicators which are no longer in the Quality and Outcomes Framework at such intervals during each financial year as are notified to the contractor by NHS England.
+A contractor must allow the extraction from the contractor’s computerised clinical systems by NHS England[^c-32179b9857a86046090eb1342fae7a85] of the information specified in the Table relating to clinical indicators which are no longer in the Quality and Outcomes Framework at such intervals during each financial year as are notified to the contractor by NHS England.
 
-Table[^key-20a3e112e93d6220593ae9e9be8c8050]
+Table[^c-20a3e112e93d6220593ae9e9be8c8050]
 
 Quality and Outcomes Framework – indicators no longer in the Quality and Outcomes Framework
 
 | Indicator ID | Indicator Description |
 | --- | --- |
-| [^key-3fb482a0aa98462dc1ee950784e5bd3c]. . . |  |
+| [^c-3fb482a0aa98462dc1ee950784e5bd3c]. . . |  |
 | CHD003 | The percentage of patients with coronary heart disease whose last measured cholesterol (measured in the preceding 12 months) is 5 mmol/l or less |
 | CKD002 | The percentage of patients on the CKD register in whom the last blood pressure reading (measured in the preceding 12 months) is 140/85 mmHg or less |
 | CKD004 | The percentage of patients on the CKD register whose notes have a record of a urine albumin: creatinine ratio (or protein: creatinine ratio) test in the preceding 12 months |
@@ -40,7 +40,7 @@ Quality and Outcomes Framework – indicators no longer in the Quality and Outco
 | EP003 | The percentage of women aged 18 or over and who have not attained the age of 55 who are taking antiepileptic drugs who have a record of information and counselling about contraception, conception and pregnancy in the preceding 12 months |
 | LD002 | The percentage of patients on the learning disability register with Down’s syndrome aged 18 or over who have a record of blood TSH in the preceding 12 months |
 | MH004 | The percentage of patients aged 40 or over with schizophrenia, bipolar affective disorder and other psychoses who have a record of total cholesterol: hdl ratio in the preceding 12 months |
-| [^key-a5695606aa7f86238f5c25969602d4cc]. . . | [^key-d0c0e8d1583e33f03ccbfa3e579db6ab]. . . |
+| [^c-a5695606aa7f86238f5c25969602d4cc]. . . | [^c-d0c0e8d1583e33f03ccbfa3e579db6ab]. . . |
 | MH007 | The percentage of patients with schizophrenia, bipolar affective disorder and other psychoses who have a record of alcohol consumption in the preceding 12 months |
 | MH008 | The percentage of women aged 25 or over and who have not attained the age of 65 with schizophrenia, bipolar affective disorder and other psychoses whose notes record that a cervical screening test has been performed in the preceding 5 years |
 | PAD002 | The percentage of patients with peripheral arterial disease in whom the last blood pressure reading (measured in the preceding 12 months) is 150/90 mmHg or less |
@@ -55,14 +55,14 @@ Quality and Outcomes Framework – indicators no longer in the Quality and Outco
 
 ## Annotations
 
-[^key-36f6994f6677e51a30d71eaf37926e68]: Textual amendment: Regs. 74B-74F inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/908/regulation/2)
+[^c-36f6994f6677e51a30d71eaf37926e68]: Textual amendment: Regs. 74B-74F inserted (6.10.2017) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2017 (S.I. 2017/908)](https://www.legislation.gov.uk/uksi/2017/908), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/908/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2017/908/regulation/2)
 
-[^key-32179b9857a86046090eb1342fae7a85]: Textual amendment: Words in reg. 74C substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 52(6)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/52/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-32179b9857a86046090eb1342fae7a85]: Textual amendment: Words in reg. 74C substituted (1.2.2023) by [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 52(6)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/52/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-20a3e112e93d6220593ae9e9be8c8050]: Textual amendment: Reg. 74C Table substituted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/1137/regulation/10)
+[^c-20a3e112e93d6220593ae9e9be8c8050]: Textual amendment: Reg. 74C Table substituted (1.10.2019) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2019 (S.I. 2019/1137)](https://www.legislation.gov.uk/uksi/2019/1137), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1137/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/1137/regulation/10)
 
-[^key-3fb482a0aa98462dc1ee950784e5bd3c]: Textual amendment: Words in reg. 74C table omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/16/a)
+[^c-3fb482a0aa98462dc1ee950784e5bd3c]: Textual amendment: Words in reg. 74C table omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/16/a)
 
-[^key-a5695606aa7f86238f5c25969602d4cc]: Textual amendment: Word in reg. 74C table omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/16/b)
+[^c-a5695606aa7f86238f5c25969602d4cc]: Textual amendment: Word in reg. 74C table omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/16/b)
 
-[^key-d0c0e8d1583e33f03ccbfa3e579db6ab]: Textual amendment: Words in reg. 74C table omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 16(c)](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/16/c)
+[^c-d0c0e8d1583e33f03ccbfa3e579db6ab]: Textual amendment: Words in reg. 74C table omitted (1.10.2022) by virtue of [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/935)](https://www.legislation.gov.uk/uksi/2022/935), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/935/regulation/1/b), [Sch. 1 para. 16(c)](https://www.legislation.gov.uk/uksi/2022/935/schedule/1/paragraph/16/c)

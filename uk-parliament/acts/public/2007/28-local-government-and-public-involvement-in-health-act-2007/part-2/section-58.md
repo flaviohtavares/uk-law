@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Metropolitan districts: councillors per ward[^key-f90c37bfcb8207bdab7196746d5a4722]
+## 58. Metropolitan districts: councillors per ward[^c-f90c37bfcb8207bdab7196746d5a4722]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f90c37bfcb8207bdab7196746d5a4722]: Commencement: S. 58 in force at 30.12.2007, see s. 245(2)
+[^c-f90c37bfcb8207bdab7196746d5a4722]: Commencement: S. 58 in force at 30.12.2007, see s. 245(2)

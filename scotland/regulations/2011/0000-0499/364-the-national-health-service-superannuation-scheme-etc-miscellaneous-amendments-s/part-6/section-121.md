@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Amendments to the National Health Service (Compensation for Premature Retirement) (Scotland) Regulations 2003[^key-b4a1496a6bb8ea02dde4e56f2f49845e]
+## 121. Amendments to the National Health Service (Compensation for Premature Retirement) (Scotland) Regulations 2003[^c-b4a1496a6bb8ea02dde4e56f2f49845e]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The National Health Service (Compensation for Premature Retirement) (Scotland) R
 
 ## Annotations
 
-[^key-b4a1496a6bb8ea02dde4e56f2f49845e]: Commencement: [Reg. 121](https://www.legislation.gov.uk/ssi/2011/364/regulation/121) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-b4a1496a6bb8ea02dde4e56f2f49845e]: Commencement: [Reg. 121](https://www.legislation.gov.uk/ssi/2011/364/regulation/121) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
 
 [^f00010]: Footnote: [S.S.I. 2003/344](https://www.legislation.gov.uk/ssi/2003/344), amended by [S.S.I. 2005/512](https://www.legislation.gov.uk/ssi/2005/512) and [544](https://www.legislation.gov.uk/ssi/2005/544), [2006/561](https://www.legislation.gov.uk/ssi/2006/561), [2008/92](https://www.legislation.gov.uk/ssi/2008/92) and [225](https://www.legislation.gov.uk/ssi/2008/225), and [2011/211](https://www.legislation.gov.uk/ssi/2011/211).

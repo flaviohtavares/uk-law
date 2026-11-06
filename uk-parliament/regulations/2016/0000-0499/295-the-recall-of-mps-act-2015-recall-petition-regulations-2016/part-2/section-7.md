@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Publication of register[^key-403f7188bcde311203ae98933bae0fe3]
+## 7. Publication of register[^c-403f7188bcde311203ae98933bae0fe3]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-403f7188bcde311203ae98933bae0fe3]: Commencement: Reg. 7 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-403f7188bcde311203ae98933bae0fe3]: Commencement: Reg. 7 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
 
 [^f00013]: Footnote: “Signing period” means the period of 6 weeks beginning with the first day on which the petition is to be made available for signing; see sections 9(2) and 22(1) of the Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Grants and loans where housing administration order is made[^key-f23e0b4cc1b5a66de5fb5d2483ebb9d2]
+## 109. Grants and loans where housing administration order is made[^c-f23e0b4cc1b5a66de5fb5d2483ebb9d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f23e0b4cc1b5a66de5fb5d2483ebb9d2]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2016/22/section/109) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-f23e0b4cc1b5a66de5fb5d2483ebb9d2]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2016/22/section/109) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

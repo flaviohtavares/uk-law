@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Time limits[^key-7e60d027de739dae402329ac8c56e6a8]
+## 6. Time limits[^c-7e60d027de739dae402329ac8c56e6a8]
 
 *Extent: S*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e60d027de739dae402329ac8c56e6a8]: Commencement: S. 6 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))
+[^c-7e60d027de739dae402329ac8c56e6a8]: Commencement: S. 6 in force at 1.2.2005 by [S.S.I. 2004/405](https://www.legislation.gov.uk/ssi/2004/405), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/405/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2004/405/schedule/1) (with [arts. 3-5](https://www.legislation.gov.uk/ssi/2004/405/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Regulations[^key-31b876e206fdf70f74af4e3f4f1fce62]
+## 48. Regulations[^c-31b876e206fdf70f74af4e3f4f1fce62]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31b876e206fdf70f74af4e3f4f1fce62]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2019/13/section/48) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)
+[^c-31b876e206fdf70f74af4e3f4f1fce62]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2019/13/section/48) in force at 1.12.2019 by [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/385/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Assessment of penalties[^key-9c9e6212be38074f452e48a861ee296e]
+## 19. Assessment of penalties[^c-9c9e6212be38074f452e48a861ee296e]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c9e6212be38074f452e48a861ee296e]: Commencement: S. 19 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-9c9e6212be38074f452e48a861ee296e]: Commencement: S. 19 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

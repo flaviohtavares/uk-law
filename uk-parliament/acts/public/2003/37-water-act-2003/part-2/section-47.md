@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Investigations by the Council[^key-c95d9978a0e03d5c996adeeab3d4788e]
+## 47. Investigations by the Council[^c-c95d9978a0e03d5c996adeeab3d4788e]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ After section 29 of the WIA there is inserted—
 
 ## Annotations
 
-[^key-c95d9978a0e03d5c996adeeab3d4788e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2003/37/section/47) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/g) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
+[^c-c95d9978a0e03d5c996adeeab3d4788e]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2003/37/section/47) in force at 1.10.2005 by [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(g)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/g) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))

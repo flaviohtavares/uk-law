@@ -60,7 +60,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article A1. Interpretation[^key-3e92abfe1e421f3b05d709d324740ae0]
+## Article A1. Interpretation[^c-3e92abfe1e421f3b05d709d324740ae0]
 
 1. Paragraph 2 applies where Commission Regulation (EU) No 283/2013 setting out the data requirements for active substances applies in relation to an application by virtue of—
 
@@ -78,9 +78,9 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 1.** The labelling of plant protection products shall comply with the requirements, as set out in Annex I, and contain, where approriate, the standard phrases for special risks to human or animal health or to the environment, as set out in Annex II, and the standard phrases for safety precautions for the protection of human or animal health or of the environment, as set out in Annex III.
 
-**Article 2.** [^key-9b0e37ecbc6da2e0f629f95fa26c7857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.** [^c-9b0e37ecbc6da2e0f629f95fa26c7857]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-189a740e14cab01884084ef7dd54b375]...
+[^c-189a740e14cab01884084ef7dd54b375]...
 
 ## ANNEX I — LABELLING REQUIREMENTS AS REFERRED TO IN ARTICLE 1
 
@@ -90,7 +90,7 @@ The following information shall be included clearly and indelibly on the packagi
 
 - ((a)) the trade name or designation of the plant protection product;
 - ((b)) the name and address of the holder of the authorisation and the authorisation number of the plant protection product and, if different, the name and address of the person responsible for the final packaging and labelling or for the final labelling of the plant protection product on the market;
-- ((c)) the name of each active substance expressed as provided for in Article 18(3) of Regulation[^key-b92b8b907155512b9559e2f05b90f3a5] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council with clear indication of the chemical form. The name must be as given in the GB mandatory classification and labelling list[^key-54f481ea125fa1625e7d844f26d21f1e] or, if not included therein, its ISO common name. If the latter is not available, the active substance shall be designated by its chemical designation according to IUPAC rules;
+- ((c)) the name of each active substance expressed as provided for in Article 18(3) of Regulation[^c-b92b8b907155512b9559e2f05b90f3a5] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council with clear indication of the chemical form. The name must be as given in the GB mandatory classification and labelling list[^c-54f481ea125fa1625e7d844f26d21f1e] or, if not included therein, its ISO common name. If the latter is not available, the active substance shall be designated by its chemical designation according to IUPAC rules;
 - ((d)) the concentration of each active substance expressed as follows:
   - ((i)) for solids, aerosols, volatile liquids (maximum boiling point 50 °C) or viscous liquids (lower limit 1 Pa s at 20 °C), as % w/w and g/kg,
   - ((ii)) for other liquids/gel formulations, as % w/w and g/l,
@@ -123,7 +123,7 @@ If the active substance is a micro-organism, its content shall be expressed as t
 - ((t)) any information required by the authorisation in accordance with Articles 31, 36(3), 51(5) or 54 of Regulation (EC) No 1107/2009;
 - ((u)) the categories of users allowed to use the plant protection product, where use is limited to certain categories.
 
-(1A)[^key-83d5df92815279ebc6fee9a667abb22f]
+(1A)[^c-83d5df92815279ebc6fee9a667abb22f]
 
 In point (1)(c), the “**GB mandatory classification and labelling list**” means the list of mandatory classification and labelling requirements of substances and groups of substances established and maintained in accordance with Article 38A of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272).
 
@@ -135,7 +135,7 @@ The information required by points 1-(m), (n), (o), (q), (r) and (t) may be indi
 
 In no circumstances may the label of the packaging of a plant protection product bear the indications ‘non-toxic’, ‘harmless’, or similar indications. However, information that the plant protection product may be used when bees or other non target species are active, or when crops or weeds are in flower or other such phrases to protect bees, or phrases with similar information concerning the protection of bees or of other non-target species, may be included in the label, if the authorisation explicitly allows use under such conditions.
 
-(4)[^key-8860471bc7760042cae551b904d04b47]
+(4)[^c-8860471bc7760042cae551b904d04b47]
 
 A competent authority may make the placing of plant protection products on the market in its constituent territory subject to the additional labelling of the product in a language other than English.
 
@@ -147,7 +147,7 @@ By way of derogation from point (1), labelling and packaging of plant protection
 
 INTRODUCTION
 
-The following additional standard phrases are defined to supplement the phrases provided for by Regulation[^key-5eff2f440df3f587113092da14ceaa67] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272), which applies to plant protection products. The provisions of that Regulation[^key-1e58e9929726dac529ca7900fb35d86a] shall also be used for plant protection products containing micro-organisms, including viruses, as active substances. The labelling of products containing micro-organisms, including viruses, as active substances shall also reflect the provisions concerning dermal and respiratory sensitisation testing which are laid down in part B of the Annex to Commission Regulation (EU) No 544/2011[^f00005] and part B of the Annex to Commission Regulation (EU) No 545/2011[^f00006].
+The following additional standard phrases are defined to supplement the phrases provided for by Regulation[^c-5eff2f440df3f587113092da14ceaa67] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272), which applies to plant protection products. The provisions of that Regulation[^c-1e58e9929726dac529ca7900fb35d86a] shall also be used for plant protection products containing micro-organisms, including viruses, as active substances. The labelling of products containing micro-organisms, including viruses, as active substances shall also reflect the provisions concerning dermal and respiratory sensitisation testing which are laid down in part B of the Annex to Commission Regulation (EU) No 544/2011[^f00005] and part B of the Annex to Commission Regulation (EU) No 545/2011[^f00006].
 
 The standard phrases for special risks are without prejudice to Annex I.
 
@@ -155,7 +155,7 @@ The standard phrases for special risks are without prejudice to Annex I.
 
 **Standard phrases for special risks**
 
-1.1.[^key-30e91776e5b6a632dcfeb84298939b26]
+1.1.[^c-30e91776e5b6a632dcfeb84298939b26]
 
 *1.1. Special risks related to humans (RSh)*
 
@@ -207,7 +207,7 @@ Contact with vapour causes burns to skin and eyes and contact with liquid causes
 
 The phrase shall be assigned to plant-protection products being formulated as liquefied gas, where appropriate (e.g. preparations of methyl bromide). Personal protective measures shall be specified in these cases, as outlined in the general provisions of Annex III.
 
-This phrase shall not be used in cases where hazard statement H314 in Regulation[^key-6c71fae916f4908c430c33423f6245fd] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council, are applied.
+This phrase shall not be used in cases where hazard statement H314 in Regulation[^c-6c71fae916f4908c430c33423f6245fd] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272) of the European Parliament and of the Council, are applied.
 
 2.2.
 
@@ -219,11 +219,11 @@ None.
 
 INTRODUCTION
 
-The following additional standard phrases are defined to supplement the phrases provided for by Regulation[^key-f7fdba97de835c43019782931ec948c9] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272), which applies to plant-protection products. The provisions of that Regulation[^key-188e6ff3baa54380bbbb6413994d65dd] shall also be used for plant-protection products containing micro-organisms, including viruses, as active substances. The labelling of products containing micro-organisms, including viruses, as active substances shall also reflect the provisions concerning dermal and respiratory sensitisation testing which are laid down in part B of the Annex to Regulation (EU) No 544/2011 and part B of the Annex to Regulation (EU) No 545/2011.
+The following additional standard phrases are defined to supplement the phrases provided for by Regulation[^c-f7fdba97de835c43019782931ec948c9] [(EC) No 1272/2008](https://www.legislation.gov.uk/eur/2008/1272), which applies to plant-protection products. The provisions of that Regulation[^c-188e6ff3baa54380bbbb6413994d65dd] shall also be used for plant-protection products containing micro-organisms, including viruses, as active substances. The labelling of products containing micro-organisms, including viruses, as active substances shall also reflect the provisions concerning dermal and respiratory sensitisation testing which are laid down in part B of the Annex to Regulation (EU) No 544/2011 and part B of the Annex to Regulation (EU) No 545/2011.
 
 The standard phrases for safety precautions are without prejudice to Annex I.
 
-1.[^key-478d95f49ac2871bf2e6da7cc90d1d7f]
+1.[^c-478d95f49ac2871bf2e6da7cc90d1d7f]
 
 **General provisions**
 
@@ -235,7 +235,7 @@ All plant-protection products shall be labelled with the following phrase, which
 
 **Specific safety precautions**
 
-2.1.[^key-7d7ce719eb411c1a1ec9476a77290b85]
+2.1.[^c-7d7ce719eb411c1a1ec9476a77290b85]
 
 *Safety precautions for operators (SPo)*
 
@@ -475,36 +475,36 @@ To avoid secondary poisoning of animals the phrase shall be assigned to all rode
 
 [^f00002]: Footnote: [OJ L 230, 19.8.1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.230.01.0001.01.ENG).
 
-[^key-3e92abfe1e421f3b05d709d324740ae0]: Textual amendment: Art. A1 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e92abfe1e421f3b05d709d324740ae0]: Textual amendment: Art. A1 inserted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b0e37ecbc6da2e0f629f95fa26c7857]: Textual amendment: Art. 2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b0e37ecbc6da2e0f629f95fa26c7857]: Textual amendment: Art. 2 omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-189a740e14cab01884084ef7dd54b375]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-189a740e14cab01884084ef7dd54b375]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(4)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b92b8b907155512b9559e2f05b90f3a5]: Textual amendment: Words in Annex 1 point (1)(c) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b92b8b907155512b9559e2f05b90f3a5]: Textual amendment: Words in Annex 1 point (1)(c) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(5)(a)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-54f481ea125fa1625e7d844f26d21f1e]: Textual amendment: Words in Annex 1 point (1)(c) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 60(2)(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/60/2/a) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54f481ea125fa1625e7d844f26d21f1e]: Textual amendment: Words in Annex 1 point (1)(c) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 60(2)(a)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/60/2/a) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83d5df92815279ebc6fee9a667abb22f]: Textual amendment: Annex 1 point (1A) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 60(2)(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/60/2/b) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-83d5df92815279ebc6fee9a667abb22f]: Textual amendment: Annex 1 point (1A) inserted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 2 para. 60(2)(b)](https://www.legislation.gov.uk/uksi/2019/720/schedule/2/paragraph/60/2/b) (as amended by [S.I. 2020/1567](https://www.legislation.gov.uk/uksi/2020/1567), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1567/regulation/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1567/schedule/2/paragraph/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8860471bc7760042cae551b904d04b47]: Textual amendment: Annex 1 point (4) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8860471bc7760042cae551b904d04b47]: Textual amendment: Annex 1 point (4) substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(5)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5eff2f440df3f587113092da14ceaa67]: Textual amendment: Words in Annex 2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5eff2f440df3f587113092da14ceaa67]: Textual amendment: Words in Annex 2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1e58e9929726dac529ca7900fb35d86a]: Textual amendment: Word in Annex 2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1e58e9929726dac529ca7900fb35d86a]: Textual amendment: Word in Annex 2 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: See page 1 of this Official Journal.
 
 [^f00006]: Footnote: See page 67 of this Official Journal.
 
-[^key-30e91776e5b6a632dcfeb84298939b26]: Textual amendment: Annex 2 point 1.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30e91776e5b6a632dcfeb84298939b26]: Textual amendment: Annex 2 point 1.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c71fae916f4908c430c33423f6245fd]: Textual amendment: Words in Annex 2 point 2.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c71fae916f4908c430c33423f6245fd]: Textual amendment: Words in Annex 2 point 2.1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(6)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7fdba97de835c43019782931ec948c9]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7fdba97de835c43019782931ec948c9]: Textual amendment: Words in Annex 3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-188e6ff3baa54380bbbb6413994d65dd]: Textual amendment: Word in Annex 3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-188e6ff3baa54380bbbb6413994d65dd]: Textual amendment: Word in Annex 3 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-478d95f49ac2871bf2e6da7cc90d1d7f]: Textual amendment: Annex 3 point 1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-478d95f49ac2871bf2e6da7cc90d1d7f]: Textual amendment: Annex 3 point 1 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(b)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7d7ce719eb411c1a1ec9476a77290b85]: Textual amendment: Annex 3 points 2.1-2.4 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/c) (as amended by [S.I. 2019/1410](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d7ce719eb411c1a1ec9476a77290b85]: Textual amendment: Annex 3 points 2.1-2.4 substituted (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [19(7)(c)](https://www.legislation.gov.uk/uksi/2019/556/regulation/19/7/c) (as amended by [S.I. 2019/1410](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

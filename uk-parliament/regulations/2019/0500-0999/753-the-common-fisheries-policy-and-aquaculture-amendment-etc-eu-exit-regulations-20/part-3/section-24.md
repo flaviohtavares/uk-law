@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Council Regulation [(EEC) No 1899/85](https://www.legislation.gov.uk/eur/1985/1899) establishing a minimum mesh size for nets used when fishing for capelin in that part of the zone of the Convention on future multilateral cooperation in the north-east Atlantic fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention[^key-1275dce5e1d35326136cffe9c6809239]
+## 24. Council Regulation [(EEC) No 1899/85](https://www.legislation.gov.uk/eur/1985/1899) establishing a minimum mesh size for nets used when fishing for capelin in that part of the zone of the Convention on future multilateral cooperation in the north-east Atlantic fisheries which extends beyond the maritime waters falling within the fisheries jurisdiction of Contracting Parties to the Convention[^c-1275dce5e1d35326136cffe9c6809239]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1275dce5e1d35326136cffe9c6809239]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1275dce5e1d35326136cffe9c6809239]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

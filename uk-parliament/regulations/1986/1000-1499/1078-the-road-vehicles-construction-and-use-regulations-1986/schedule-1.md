@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 1 — REGULATIONS REVOKED BY REGULATION 2[^key-79f565c081693df9670d7196392e6ccb]
+## SCHEDULE 1 — REGULATIONS REVOKED BY REGULATION 2[^c-79f565c081693df9670d7196392e6ccb]
 
 *Extent: E+W+S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79f565c081693df9670d7196392e6ccb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-79f565c081693df9670d7196392e6ccb]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1986/1078/schedule/1) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

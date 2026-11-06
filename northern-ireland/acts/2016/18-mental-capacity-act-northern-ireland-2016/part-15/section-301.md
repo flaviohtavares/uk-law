@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 301. Documents appearing to be duly made[^key-b6b26825dffa2f59320ca9527adf4ee4]
+## 301. Documents appearing to be duly made[^c-b6b26825dffa2f59320ca9527adf4ee4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Regulations may make provision enabling documents of a prescribed description wh
 
 ## Annotations
 
-[^key-b6b26825dffa2f59320ca9527adf4ee4]: Commencement: [S. 301](https://www.legislation.gov.uk/nia/2016/18/section/301) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-b6b26825dffa2f59320ca9527adf4ee4]: Commencement: [S. 301](https://www.legislation.gov.uk/nia/2016/18/section/301) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

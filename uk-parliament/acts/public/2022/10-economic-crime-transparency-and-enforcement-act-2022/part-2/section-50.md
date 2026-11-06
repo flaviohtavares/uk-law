@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to extend period for which interim freezing order has effect: Scotland[^key-0faf0e36887cb71158889b5fad65806c][^key-9832b2805f02b0048884b2b950538977]
+## 50. Power to extend period for which interim freezing order has effect: Scotland[^c-0faf0e36887cb71158889b5fad65806c][^c-9832b2805f02b0048884b2b950538977]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0faf0e36887cb71158889b5fad65806c]: Commencement: S. 50 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-0faf0e36887cb71158889b5fad65806c]: Commencement: S. 50 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-9832b2805f02b0048884b2b950538977]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/10/section/50) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-9832b2805f02b0048884b2b950538977]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2022/10/section/50) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)

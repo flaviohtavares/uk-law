@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002].
 
-## 1. Citation and commencement[^key-f79e4fdc88af9fec4771919a489cc0e0]
+## 1. Citation and commencement[^c-f79e4fdc88af9fec4771919a489cc0e0]
 
 These Regulations may be cited as the Food Hygiene (Scotland) Amendment Regulations 2010 and come into force on 13th April 2010.
 
-## 2. Amendments to the Food Hygiene (Scotland) Regulations 2006[^key-8bd1e2dba901b407f2155b6dffbc74dd]
+## 2. Amendments to the Food Hygiene (Scotland) Regulations 2006[^c-8bd1e2dba901b407f2155b6dffbc74dd]
 
 (1) The Food Hygiene (Scotland) Regulations 2006[^f00003] are amended as follows.
 
@@ -87,11 +87,11 @@ These Regulations may be cited as the Food Hygiene (Scotland) Amendment Regulati
 
 .
 
-(4) For Schedule 1 (definitions of EU[^key-7b452ec37083097cb1dd720a33c7e722] legislation) substitute the Schedule set out in Schedule 1 to these Regulations.
+(4) For Schedule 1 (definitions of EU[^c-7b452ec37083097cb1dd720a33c7e722] legislation) substitute the Schedule set out in Schedule 1 to these Regulations.
 
 (5) After Schedule 3 (bulk transport in sea-going vessels of liquid oils or fats or of raw sugar) insert the Schedules set out in Schedule 2 to these Regulations.
 
-## 3. Revocation[^key-04aa8ce4e664fee0f0c50781bfcc8eca]
+## 3. Revocation[^c-04aa8ce4e664fee0f0c50781bfcc8eca]
 
 The Food Hygiene (Scotland) Amendment Regulations 2007[^f00004] are revoked.
 
@@ -105,7 +105,7 @@ Edinburgh
 
 25th February 2010
 
-## SCHEDULE 1 — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FOOD HYGIENE (SCOTLAND) REGULATIONS 2006[^key-8e21ede4d34b0a9781cb3e7c0bc49916]
+## SCHEDULE 1 — SCHEDULE SUBSTITUTED FOR SCHEDULE 1 TO THE FOOD HYGIENE (SCOTLAND) REGULATIONS 2006[^c-8e21ede4d34b0a9781cb3e7c0bc49916]
 
 Regulation 2(4)
 
@@ -144,7 +144,7 @@ Regulation 2(4)
 > | “Regulation 596/2009” means Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four[^f00033]; and |
 > | “Regulation 669/2009” means [Commission Regulation (EC) No. 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669) implementing [Commission Regulation (EC) No. 882/2004](https://www.legislation.gov.uk/european/regulation/2004/0882) of the European Parliament and of the Council as regards the increased level of official controls on imports of certain feed and food of non-animal origin and amending Decision [2006/504/EC](https://www.legislation.gov.uk/european/decision/2006/0504)[^f00034]. |
 
-## SCHEDULE 2 — SCHEDULES INSERTED AFTER SCHEDULE 3 TO THE FOOD HYGIENE (SCOTLAND) REGULATIONS 2006[^key-33975e565217f382309337e5ef60ce54]
+## SCHEDULE 2 — SCHEDULES INSERTED AFTER SCHEDULE 3 TO THE FOOD HYGIENE (SCOTLAND) REGULATIONS 2006[^c-33975e565217f382309337e5ef60ce54]
 
 Regulation 2(5)
 
@@ -240,19 +240,19 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: O.J. No. L 31, 1.2.02, p.1 as amended by Regulation (EC) No. 1642/2003 of the European Parliament and of the Council (O.J. No. L 245, 29.9.2003, p.4), Commission Regulation (EC) No. 575/2006 (O.J. No. L 100, 8.4.2006, p.3), [Commission Regulation (EC) No. 202/2008](https://www.legislation.gov.uk/european/regulation/2008/0202) (O.J. No. L 60, 5.3.2008, p.17) and Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council (O.J. No. L 188, 18.7.2009, p.14).
 
-[^key-f79e4fdc88af9fec4771919a489cc0e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
+[^c-f79e4fdc88af9fec4771919a489cc0e0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
 
-[^key-8bd1e2dba901b407f2155b6dffbc74dd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/69/regulation/2) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
+[^c-8bd1e2dba901b407f2155b6dffbc74dd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2010/69/regulation/2) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
 
 [^f00003]: Footnote: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3) as amended by [S.S.I. 2007/11](https://www.legislation.gov.uk/ssi/2007/11).
 
-[^key-7b452ec37083097cb1dd720a33c7e722]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [regs. 3-6](https://www.legislation.gov.uk/uksi/2011/1043/regulation/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/regulation/8)
+[^c-7b452ec37083097cb1dd720a33c7e722]: Textual amendment: Word in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [regs. 3-6](https://www.legislation.gov.uk/uksi/2011/1043/regulation/3), [8-10](https://www.legislation.gov.uk/uksi/2011/1043/regulation/8)
 
-[^key-04aa8ce4e664fee0f0c50781bfcc8eca]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/69/regulation/3) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
+[^c-04aa8ce4e664fee0f0c50781bfcc8eca]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2010/69/regulation/3) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
 
 [^f00004]: Footnote: [S.S.I. 2007/11](https://www.legislation.gov.uk/ssi/2007/11).
 
-[^key-8e21ede4d34b0a9781cb3e7c0bc49916]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/69/schedule/1) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
+[^c-8e21ede4d34b0a9781cb3e7c0bc49916]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2010/69/schedule/1) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
 
 [^f00005]: Footnote: O.J. No. L320, 18.11.2006, p.53.
 
@@ -314,7 +314,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00034]: Footnote: O.J. No. L 194, 25.7.2009, p.11.
 
-[^key-33975e565217f382309337e5ef60ce54]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/69/schedule/2) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
+[^c-33975e565217f382309337e5ef60ce54]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2010/69/schedule/2) in force at 13.4.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1)
 
 [^f00035]: Footnote: [S.I. 1995/539](https://www.legislation.gov.uk/uksi/1995/539), revoked as regards Scotland by [S.S.I. 2005/505](https://www.legislation.gov.uk/uksi/2005/505).
 

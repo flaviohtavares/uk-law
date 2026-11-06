@@ -43,21 +43,21 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 77(4) and 108(16) of the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985[^f00001] and now vested in it[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-e66b27b7c3f19372ef1c35074c7add25]
+## 1. Citation, commencement and interpretation[^c-e66b27b7c3f19372ef1c35074c7add25]
 
 (1) This Order may be cited as the Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2003 and shall come into operation on 28th March 2003.
 
 (2) In this Order “the 1985 Order” means the Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985.
 
-## 2. Conditions governing gaming for prizes on bingo club premises[^key-4b9a364b570442a2c5c94cdc0be3547d]
+## 2. Conditions governing gaming for prizes on bingo club premises[^c-4b9a364b570442a2c5c94cdc0be3547d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Maximum entitlement to prizes in gaming by means of a gaming machine on licensed premises within the meaning of the Licensing (Northern Ireland) Order 1996[^key-4b9a364b570442a2c5c94cdc0be3547d]
+## 3. Maximum entitlement to prizes in gaming by means of a gaming machine on licensed premises within the meaning of the Licensing (Northern Ireland) Order 1996[^c-4b9a364b570442a2c5c94cdc0be3547d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-32a576c521a50d1eb522ac097a017cbd]
+## 4. Revocations[^c-32a576c521a50d1eb522ac097a017cbd]
 
 The following are hereby revoked–
 
@@ -85,11 +85,11 @@ This Order–
 
 [^f00002]: Footnote: *See* Article 8(b) of and Part II of Schedule 6 to the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
 
-[^key-e66b27b7c3f19372ef1c35074c7add25]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2003/15/article/1) in operation at 28.3.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/15/article/1/1)
+[^c-e66b27b7c3f19372ef1c35074c7add25]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2003/15/article/1) in operation at 28.3.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/15/article/1/1)
 
-[^key-4b9a364b570442a2c5c94cdc0be3547d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2003/15/article/3) revoked (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [6(d)](https://www.legislation.gov.uk/nisr/2025/2/article/6/d)
+[^c-4b9a364b570442a2c5c94cdc0be3547d]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/nisr/2003/15/article/3) revoked (29.1.2025) by [The Gaming (Variation of Monetary Limits) Order (Northern Ireland) 2025 (S.R. 2025/2)](https://www.legislation.gov.uk/nisr/2025/2), [arts. 1](https://www.legislation.gov.uk/nisr/2025/2/article/1), [6(d)](https://www.legislation.gov.uk/nisr/2025/2/article/6/d)
 
-[^key-32a576c521a50d1eb522ac097a017cbd]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2003/15/article/4) in operation at 28.3.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/15/article/1/1)
+[^c-32a576c521a50d1eb522ac097a017cbd]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2003/15/article/4) in operation at 28.3.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/15/article/1/1)
 
 [^f00005]: Footnote: [S.R. 2001 No. 414](https://www.legislation.gov.uk/nisr/2001/414)
 

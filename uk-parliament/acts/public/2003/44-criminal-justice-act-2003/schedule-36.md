@@ -61,7 +61,7 @@ Section 331
 
 #### Supreme Court Act 1981 (c. 54)
 
-**4.**[^key-313f846b01464e3b9ae69df24ac6a9f1] (1) Section 81 of the Supreme Court Act 1981 (bail) is amended as follows.
+**4.**[^c-313f846b01464e3b9ae69df24ac6a9f1] (1) Section 81 of the Supreme Court Act 1981 (bail) is amended as follows.
 
 (2) In subsection (1)(g) after “examination)” there is inserted “ , section 52(5) of the Crime and Disorder Act 1998 (adjournment of proceedings under section 51 etc) ”.
 
@@ -742,7 +742,7 @@ Section 331
 
 **Not yet in force.**
 
-**98.**[^key-a3e33b9257ec8d03683466866d418635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-a3e33b9257ec8d03683466866d418635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -750,7 +750,7 @@ Section 331
 
 [^c19410441]: Commencement: Sch. 36 para. 3 wholly in force at 1.1.2007, see s. 336(3) and [S.I. 2006/3217](https://www.legislation.gov.uk/uksi/2006/3217), [art. 2](https://www.legislation.gov.uk/uksi/2006/3217/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/3217/article/3))
 
-[^key-313f846b01464e3b9ae69df24ac6a9f1]: Commencement: Sch. 36 para. 4 in force at 18.6.2012 by [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/e)
+[^c-313f846b01464e3b9ae69df24ac6a9f1]: Commencement: Sch. 36 para. 4 in force at 18.6.2012 by [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/e)
 
 [^c19357911]: Commencement: Sch. 36 para. 5 wholly in force at 5.4.2004, see s. 336(3) and [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1/2) (subject to [art. 2(3)-(6)](https://www.legislation.gov.uk/uksi/2004/829/article/2/3))
 
@@ -916,4 +916,4 @@ Section 331
 
 [^c19359721]: Commencement: Sch. 36 para. 97 wholly in force at 1.9.2004, see s. 336(3) and [S.I. 2004/1629](https://www.legislation.gov.uk/uksi/2004/1629), [art. 3(1)(2)](https://www.legislation.gov.uk/uksi/2004/1629/article/3/1/2) (subject to [art. 3(3)(4)](https://www.legislation.gov.uk/uksi/2004/1629/article/3/3/4))
 
-[^key-a3e33b9257ec8d03683466866d418635]: Textual amendment: Sch. 36 para. 98 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a3e33b9257ec8d03683466866d418635]: Textual amendment: Sch. 36 para. 98 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

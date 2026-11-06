@@ -53,7 +53,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) In subsection (5) (references to schemes made under section 2 to include references to schemes having effect, by virtue of subsection (3) or (4), as if so made) for the words “or (4)” there shall be substituted the words “ , (4) or (4A) ”.
 
-## 2. Continuation of tax exemption for non-resident pensioners.[^key-b57ffaf204fce8a0bb8d568ebae69bf7]
+## 2. Continuation of tax exemption for non-resident pensioners.[^c-b57ffaf204fce8a0bb8d568ebae69bf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -67,4 +67,4 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 [^c931104]: Marginal citation: [1973 c.21](https://www.legislation.gov.uk/ukpga/1973/21).
 
-[^key-b57ffaf204fce8a0bb8d568ebae69bf7]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1991/16/section/2) repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-b57ffaf204fce8a0bb8d568ebae69bf7]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1991/16/section/2) repealed (6.4.2003 with effect in accordance with s. 723(1)(a)(b)) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

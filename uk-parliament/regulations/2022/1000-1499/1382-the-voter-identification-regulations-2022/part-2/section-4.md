@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Identity document applications: general[^key-47a514b17086584fa759725e55219b26]
+## 4. Identity document applications: general[^c-47a514b17086584fa759725e55219b26]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47a514b17086584fa759725e55219b26]: Commencement: Reg. 4 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-47a514b17086584fa759725e55219b26]: Commencement: Reg. 4 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

@@ -46,25 +46,25 @@ Coming into force
 
 The Treasury make the following Order in exercise of the powers conferred by sections 104(3) to (6), 106(2) to (6) and 107(2) to (6) of the Finance Act 2009[^f00001].
 
-## 1. Citation and commencement[^key-3464538b82aa96757fe196f8a1ab7755][^key-7cfdb85753d7430979a5193741767291]
+## 1. Citation and commencement[^c-3464538b82aa96757fe196f8a1ab7755][^c-7cfdb85753d7430979a5193741767291]
 
-This Order may be cited as the Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) Order 2014 and comes into force on 1st January 2015[^key-fb9118fd97970d0f5fab85c3a6d2752c].
+This Order may be cited as the Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) Order 2014 and comes into force on 1st January 2015[^c-fb9118fd97970d0f5fab85c3a6d2752c].
 
-## 2. Appointed days[^key-1f23329bd690fd4ff1392245f0b19a77]
+## 2. Appointed days[^c-1f23329bd690fd4ff1392245f0b19a77]
 
 The day appointed for the coming into force of Schedule 55 to the Finance Act 2009 (penalty for failure to make returns etc)[^f00002] is 1st January 2015 in relation to a charge to tax which is specified in item 11 of the Table in paragraph 1 of that Schedule[^f00003].
 
-## 3.[^key-8907c938b9600d91da3157bf2da2cbec]
+## 3.[^c-8907c938b9600d91da3157bf2da2cbec]
 
-The day appointed for the coming into force of Schedule 56 to the Finance Act 2009 (penalty for failure to make payments on time)[^f00004] is 1st January 2015 in relation to an amount of stamp duty reserve[^key-63f08c37365dc70737cfdcd3e5a35a1a] tax which is [^key-6c0da2a071ae7d6ae9380dd46cab600a]... in item[^key-fca0943bad8b8ca328474b697536cff6] 10, 17, 23 or 24 of the Table in paragraph 1 of that Schedule[^f00005].
+The day appointed for the coming into force of Schedule 56 to the Finance Act 2009 (penalty for failure to make payments on time)[^f00004] is 1st January 2015 in relation to an amount of stamp duty reserve[^c-63f08c37365dc70737cfdcd3e5a35a1a] tax which is [^c-6c0da2a071ae7d6ae9380dd46cab600a]... in item[^c-fca0943bad8b8ca328474b697536cff6] 10, 17, 23 or 24 of the Table in paragraph 1 of that Schedule[^f00005].
 
-## 4.[^key-6514c03e15896d6dd59daca73125acd7]
+## 4.[^c-6514c03e15896d6dd59daca73125acd7]
 
 (1) The day appointed as the day on which sections 101 (late payment interest) and 102 (repayment interest) of the Finance Act 2009 come into force for the purposes of stamp duty reserve tax (including any penalties assessed in relation to that tax) is 1st January 2015.
 
 (2) This article only applies to a charge with a due and payable date falling after 31st December 2014.
 
-## 5. Consequential revocation[^key-b883b55df89ed72053b5509fe7e779f3]
+## 5. Consequential revocation[^c-b883b55df89ed72053b5509fe7e779f3]
 
 Article 22 of the Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011[^f00006] is omitted.
 
@@ -94,32 +94,32 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00001]: Footnote: [2009 c.10](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-3464538b82aa96757fe196f8a1ab7755]: Commencement: Art. 1 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
+[^c-3464538b82aa96757fe196f8a1ab7755]: Commencement: Art. 1 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
 
-[^key-7cfdb85753d7430979a5193741767291]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1) heading inserted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/2)
+[^c-7cfdb85753d7430979a5193741767291]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1) heading inserted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/2)
 
-[^key-fb9118fd97970d0f5fab85c3a6d2752c]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1) inserted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/3)
+[^c-fb9118fd97970d0f5fab85c3a6d2752c]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1) inserted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/3)
 
-[^key-1f23329bd690fd4ff1392245f0b19a77]: Commencement: Art. 2 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
+[^c-1f23329bd690fd4ff1392245f0b19a77]: Commencement: Art. 2 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
 
 [^f00002]: Footnote: Relevant amendments are made to Schedule 55 by paragraphs 10 to 14 of Schedule 10 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13) and Schedule 10 to the Finance (No. 3) Act [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33).
 
 [^f00003]: Footnote: A charge to tax is required to be notified under regulation 4(1)(a) of the Stamp Duty Reserve Tax Regulations 1986 ([S.I. 1986/1711](https://www.legislation.gov.uk/uksi/1986/1711)) (“the Stamp Duty Regulations”). Relevant amending instruments are [S.I. 1989/1301](https://www.legislation.gov.uk/uksi/1989/1301), [1992/3287](https://www.legislation.gov.uk/uksi/1992/3287), [1997/2430](https://www.legislation.gov.uk/uksi/1997/2430) and [1999/3264](https://www.legislation.gov.uk/uksi/1999/3264).
 
-[^key-8907c938b9600d91da3157bf2da2cbec]: Commencement: Art. 3 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
+[^c-8907c938b9600d91da3157bf2da2cbec]: Commencement: Art. 3 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
 
 [^f00004]: Footnote: Relevant amendments are made to Schedule 56 by Schedule 11 to the Finance Act (No. 3) [2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33).
 
-[^key-63f08c37365dc70737cfdcd3e5a35a1a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/3269/article/3) inserted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/4)
+[^c-63f08c37365dc70737cfdcd3e5a35a1a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/3269/article/3) inserted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/4)
 
-[^key-6c0da2a071ae7d6ae9380dd46cab600a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/3269/article/3) omitted (1.1.2015) by virtue of [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/5)
+[^c-6c0da2a071ae7d6ae9380dd46cab600a]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2014/3269/article/3) omitted (1.1.2015) by virtue of [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/5)
 
-[^key-fca0943bad8b8ca328474b697536cff6]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2014/3269/article/3) substituted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/6)
+[^c-fca0943bad8b8ca328474b697536cff6]: Textual amendment: Word in [art. 3](https://www.legislation.gov.uk/uksi/2014/3269/article/3) substituted (1.1.2015) by [The Finance Act 2009, Schedules 55 and 56 and Sections 101 and 102 (Stamp Duty Reserve Tax) (Appointed Days, Consequential and Transitional Provision) (Amendment) Order 2014 (S.I. 2014/3346)](https://www.legislation.gov.uk/uksi/2014/3346), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3346/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3346/article/2/6)
 
 [^f00005]: Footnote: Regulation 3 of the Stamp Duty Regulations provides that a charge to tax will be due and payable on the accountable date.
 
-[^key-6514c03e15896d6dd59daca73125acd7]: Commencement: Art. 4 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
+[^c-6514c03e15896d6dd59daca73125acd7]: Commencement: Art. 4 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
 
-[^key-b883b55df89ed72053b5509fe7e779f3]: Commencement: Art. 5 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
+[^c-b883b55df89ed72053b5509fe7e779f3]: Commencement: Art. 5 in force at 1.1.2015 (as amended by S.I.2014/3346, art. 2(3)), see [art. 1](https://www.legislation.gov.uk/uksi/2014/3269/article/1)
 
 [^f00006]: Footnote: [S.I. 2011/702](https://www.legislation.gov.uk/uksi/2011/702).

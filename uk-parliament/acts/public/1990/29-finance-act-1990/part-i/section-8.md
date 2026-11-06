@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Spirits methylated abroad.[^key-f03180320f161ebef33772666d7cef79]
+## 8. Spirits methylated abroad.[^c-f03180320f161ebef33772666d7cef79]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f03180320f161ebef33772666d7cef79]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1990/29/section/8) repealed (1.7.2005) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 5(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/5/6), [Sch. 29 Pt. I(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/I/3); [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2](https://www.legislation.gov.uk/uksi/2005/1523/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))
+[^c-f03180320f161ebef33772666d7cef79]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1990/29/section/8) repealed (1.7.2005) by [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [s. 5(6)](https://www.legislation.gov.uk/ukpga/1995/4/section/5/6), [Sch. 29 Pt. I(3)](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29/part/I/3); [S.I. 2005/1523](https://www.legislation.gov.uk/uksi/2005/1523), [art. 2](https://www.legislation.gov.uk/uksi/2005/1523/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/1523/article/3))

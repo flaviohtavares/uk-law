@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-b12e1bb1974ff5500b691f4e06c41a27]
+### 1. Citation and commencement[^c-b12e1bb1974ff5500b691f4e06c41a27]
 
 (1) These Regulations may be cited as the Fisheries (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019.
 
@@ -59,11 +59,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Amendments to Out of Date References in Subordinate Legislation
 
-### 2. The Sea Fishing (Enforcement of Community Conservation Measures) (Scotland) Order 2000[^key-c0f2bb7711e7dbaef7107df26d929823]
+### 2. The Sea Fishing (Enforcement of Community Conservation Measures) (Scotland) Order 2000[^c-c0f2bb7711e7dbaef7107df26d929823]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000[^key-5ee6df103b4c5f46d3412d05766fe76e]
+### 3. The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000[^c-5ee6df103b4c5f46d3412d05766fe76e]
 
 (1) The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000 [^c23597121] is amended as follows.
 
@@ -73,7 +73,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 .
 
-### 4. The Shrimp Fishing Nets (Scotland) Order 2004[^key-2197e13c04e88a0b32a2c8fa4f5203ba]
+### 4. The Shrimp Fishing Nets (Scotland) Order 2004[^c-2197e13c04e88a0b32a2c8fa4f5203ba]
 
 (1) The Shrimp Fishing Nets (Scotland) Order 2004 [^c23597151] is amended as follows.
 
@@ -83,25 +83,25 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 .
 
-### 5. The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007[^key-131102239c0ddc1eeff6d6716c08dfd4]
+### 5. The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007[^c-131102239c0ddc1eeff6d6716c08dfd4]
 
 (1) The Sea Fishing (Prohibition on the Removal of Shark Fins) (Scotland) Order 2007 [^c23597171] is amended as follows.
 
 (2) In article 2(1), in the definition of “the Regulation”, at the end insert “ , as amended by Council Regulation (EU) No. 605/2013 [^c23597181] ”.
 
-### 6. The Sea Fishing (Transitional EU Technical Conservation Measures) (Scotland) Order 2010[^key-9a32b23676d9f08a2f365f904b68f9b6]
+### 6. The Sea Fishing (Transitional EU Technical Conservation Measures) (Scotland) Order 2010[^c-9a32b23676d9f08a2f365f904b68f9b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Other Amendments to Subordinate Legislation (EU Exit)[^key-c7c00dc6a79e7a75dab9d3f692bbef79]
+## PART 3 — Other Amendments to Subordinate Legislation (EU Exit)[^c-c7c00dc6a79e7a75dab9d3f692bbef79]
 
 **No longer in force.**
 
-### 7. The Sea Fishing (Enforcement of Community Conservation Measures) (Scotland) Order 2000[^key-c7c00dc6a79e7a75dab9d3f692bbef79]
+### 7. The Sea Fishing (Enforcement of Community Conservation Measures) (Scotland) Order 2000[^c-c7c00dc6a79e7a75dab9d3f692bbef79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000[^key-c7c00dc6a79e7a75dab9d3f692bbef79]
+### 8. The Sea Fish (Specified Sea Areas) (Regulation of Nets and Other Fishing Gear) (Scotland) Order 2000[^c-c7c00dc6a79e7a75dab9d3f692bbef79]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -129,11 +129,11 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^c23597021]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-b12e1bb1974ff5500b691f4e06c41a27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/69/regulation/1) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
+[^c-b12e1bb1974ff5500b691f4e06c41a27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/69/regulation/1) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
 
-[^key-c0f2bb7711e7dbaef7107df26d929823]: Textual amendment: Reg. 2 omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/7/2)
+[^c-c0f2bb7711e7dbaef7107df26d929823]: Textual amendment: Reg. 2 omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/7/2)
 
-[^key-5ee6df103b4c5f46d3412d05766fe76e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/69/regulation/3) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
+[^c-5ee6df103b4c5f46d3412d05766fe76e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/69/regulation/3) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
 
 [^c23597121]: Marginal citation: [S.S.I. 2000/227](https://www.legislation.gov.uk/ssi/2000/227) as amended by [S.S.I. 2001/250](https://www.legislation.gov.uk/ssi/2001/250), [S.S.I. 2009/165](https://www.legislation.gov.uk/ssi/2009/165) and [S.S.I. 2010/231](https://www.legislation.gov.uk/ssi/2010/231).
 
@@ -141,18 +141,18 @@ A Business and Regulatory Impact Assessment has not been produced for this instr
 
 [^c23597141]: Marginal citation: OJ L 133, 29.5.2015, p.1, as corrected by a corrigendum (OJ L 319, 4.12.2015, p.21).
 
-[^key-2197e13c04e88a0b32a2c8fa4f5203ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/69/regulation/4) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
+[^c-2197e13c04e88a0b32a2c8fa4f5203ba]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/69/regulation/4) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
 
 [^c23597151]: Marginal citation: [S.S.I. 2004/261](https://www.legislation.gov.uk/ssi/2004/261) as amended by [S.S.I. 2008/10](https://www.legislation.gov.uk/ssi/2008/10).
 
 [^c23597161]: Marginal citation: OJ L 151, 11.6.2008, p.5.
 
-[^key-131102239c0ddc1eeff6d6716c08dfd4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/69/regulation/5) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
+[^c-131102239c0ddc1eeff6d6716c08dfd4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/69/regulation/5) in force at 28.3.2019, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/69/regulation/1/2/a)
 
 [^c23597171]: Marginal citation: [S.S.I. 2007/39](https://www.legislation.gov.uk/ssi/2007/39) as amended by [S.S.I. 2015/320](https://www.legislation.gov.uk/ssi/2015/320).
 
 [^c23597181]: Marginal citation: OJ L 181, 29.6.2013, p.1.
 
-[^key-9a32b23676d9f08a2f365f904b68f9b6]: Textual amendment: Reg. 6 omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/7/2)
+[^c-9a32b23676d9f08a2f365f904b68f9b6]: Textual amendment: Reg. 6 omitted (21.12.2020) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2020/367/regulation/7/2)
 
-[^key-c7c00dc6a79e7a75dab9d3f692bbef79]: Textual amendment: Pt. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/3), [7(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/7/3)
+[^c-c7c00dc6a79e7a75dab9d3f692bbef79]: Textual amendment: Pt. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Fisheries (Technical Conservation Measures) (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/367)](https://www.legislation.gov.uk/ssi/2020/367), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/1/3), [7(3)](https://www.legislation.gov.uk/ssi/2020/367/regulation/7/3)

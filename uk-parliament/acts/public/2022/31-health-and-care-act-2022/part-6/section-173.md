@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Hospital food standards[^key-0320a778e25ce16350c41eabdd9b0f4c][^key-a35da1904c0abaf0eabd9de447d48000]
+## 173. Hospital food standards[^c-0320a778e25ce16350c41eabdd9b0f4c][^c-a35da1904c0abaf0eabd9de447d48000]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ In section 20 of the Health and Social Care Act 2008 (regulation of regulated ac
 
 ## Annotations
 
-[^key-0320a778e25ce16350c41eabdd9b0f4c]: Commencement: S. 173 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-0320a778e25ce16350c41eabdd9b0f4c]: Commencement: S. 173 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-a35da1904c0abaf0eabd9de447d48000]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2022/31/section/173) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-a35da1904c0abaf0eabd9de447d48000]: Commencement: [S. 173](https://www.legislation.gov.uk/ukpga/2022/31/section/173) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Effect of grant of planning permission on enforcement notice[^key-35be5f54a215a3f9568ca07f7ad0811b]
+## 141. Effect of grant of planning permission on enforcement notice[^c-35be5f54a215a3f9568ca07f7ad0811b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the notice ceases to have effect (or does not take effect) so far as it is incon
 
 ## Annotations
 
-[^key-35be5f54a215a3f9568ca07f7ad0811b]: Commencement: S. 141 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-35be5f54a215a3f9568ca07f7ad0811b]: Commencement: S. 141 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

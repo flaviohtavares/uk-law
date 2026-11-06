@@ -18,14 +18,14 @@ summary: ''
 
 *Extent: E+W*
 
-**85.**[^key-a0cb309e2dfc80e970c06f4a694e05b5] In section 24D[^f00102] (representations: sections 23A to 24B)—
+**85.**[^c-a0cb309e2dfc80e970c06f4a694e05b5] In section 24D[^f00102] (representations: sections 23A to 24B)—
 
 - (a) in subsection (1A)[^f00103] for “appropriate national authority” substitute “Secretary of State”;
 - (b) in subsection (2) for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-a0cb309e2dfc80e970c06f4a694e05b5]: Commencement: Reg. 85 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a0cb309e2dfc80e970c06f4a694e05b5]: Commencement: Reg. 85 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00102]: Footnote: Section 24D was inserted by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 5.
 

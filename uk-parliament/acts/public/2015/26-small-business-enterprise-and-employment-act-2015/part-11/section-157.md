@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Power of Secretary of State to waive repayment requirement[^key-8020887fdce6fa46936f089483c836a6]
+## 157. Power of Secretary of State to waive repayment requirement[^c-8020887fdce6fa46936f089483c836a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,10 +50,10 @@ summary: ''
 (6) The exit payments regulations made by the Treasury may make provision for the power conferred on the Secretary of State by subsection (1) to be exercised instead—
 
 - (a) by the Department of Finance and Personnel in Northern Ireland, in relation to qualifying exit payments made by responsible authorities who wholly or mainly exercise functions which could be conferred by provision included in an Act of the Northern Ireland Assembly made without the consent of the Secretary of State (see sections 6 to 8 of the Northern Ireland Act 1998);
-- (b) by the Welsh Ministers, in relation to qualifying exit payments made by responsible authorities who are devolved Welsh authorities within the meaning given by section 157A of the Government of Wales Act 2006.[^key-e6db858862a67f75b51c8b2e3251213e]
+- (b) by the Welsh Ministers, in relation to qualifying exit payments made by responsible authorities who are devolved Welsh authorities within the meaning given by section 157A of the Government of Wales Act 2006.[^c-e6db858862a67f75b51c8b2e3251213e]
 
 ## Annotations
 
-[^key-8020887fdce6fa46936f089483c836a6]: Commencement: S. 157 in force at 1.1.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/b)
+[^c-8020887fdce6fa46936f089483c836a6]: Commencement: S. 157 in force at 1.1.2016 by [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/b)
 
-[^key-e6db858862a67f75b51c8b2e3251213e]: Textual amendment: Words in [s. 157(6)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/157/6/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 110](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/110) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-e6db858862a67f75b51c8b2e3251213e]: Textual amendment: Words in [s. 157(6)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/157/6/b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 110](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/110) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Failure to comply with a relevant requirement[^key-be9c32ee0f265c83c61b1e520ab1bb4b]
+## 77. Failure to comply with a relevant requirement[^c-be9c32ee0f265c83c61b1e520ab1bb4b]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be9c32ee0f265c83c61b1e520ab1bb4b]: Commencement: [S. 77](https://www.legislation.gov.uk/mwa/2011/1/section/77) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-be9c32ee0f265c83c61b1e520ab1bb4b]: Commencement: [S. 77](https://www.legislation.gov.uk/mwa/2011/1/section/77) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

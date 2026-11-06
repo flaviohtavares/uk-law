@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86. Failure of child to attend grounds hearing: power to make interim order[^key-1d5085d2eaac13f6b12005b9207566f1]
+## 86. Failure of child to attend grounds hearing: power to make interim order[^c-1d5085d2eaac13f6b12005b9207566f1]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In section 95 of the 2011 Act, after subsection (2) insert—
 
 ## Annotations
 
-[^key-1d5085d2eaac13f6b12005b9207566f1]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/8/section/86) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-1d5085d2eaac13f6b12005b9207566f1]: Commencement: [S. 86](https://www.legislation.gov.uk/asp/2014/8/section/86) in force at 26.1.2015 by [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

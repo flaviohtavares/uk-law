@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 225A. Requirement for knowledge and understanding: pension boards of public service pension schemes[^key-5bd52d8091b829d10cd0554bbb446a92]
+## 225A. Requirement for knowledge and understanding: pension boards of public service pension schemes[^c-5bd52d8091b829d10cd0554bbb446a92]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bd52d8091b829d10cd0554bbb446a92]: Textual amendment: Art. 225A inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/19); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-5bd52d8091b829d10cd0554bbb446a92]: Textual amendment: Art. 225A inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 19](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/19); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))

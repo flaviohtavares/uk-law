@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Determination of the licence fee[^key-7a35f40710c7fdd74b493f8a6ff3e921]
+## 108. Determination of the licence fee[^c-7a35f40710c7fdd74b493f8a6ff3e921]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The licence fee payable by a winning bidder shall be an amount equal to the tota
 
 ## Annotations
 
-[^key-7a35f40710c7fdd74b493f8a6ff3e921]: Commencement: Reg. 108 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-7a35f40710c7fdd74b493f8a6ff3e921]: Commencement: Reg. 108 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

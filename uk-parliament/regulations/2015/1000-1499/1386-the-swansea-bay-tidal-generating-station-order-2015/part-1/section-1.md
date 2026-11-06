@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-6b3638c3057c20c9a649bba2dc745fbd]
+## 1. Citation and commencement[^c-6b3638c3057c20c9a649bba2dc745fbd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Swansea Bay Tidal Generating Station Order 2015 a
 
 ## Annotations
 
-[^key-6b3638c3057c20c9a649bba2dc745fbd]: Commencement: Art. 1 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-6b3638c3057c20c9a649bba2dc745fbd]: Commencement: Art. 1 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

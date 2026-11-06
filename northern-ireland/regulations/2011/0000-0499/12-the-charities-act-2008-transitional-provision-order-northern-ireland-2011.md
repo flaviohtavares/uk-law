@@ -32,7 +32,7 @@ summary: ''
 
 Charities
 
-The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2011 (revoked)[^key-11197a9c2cf86dedc89743b66b64755e]
+The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2011 (revoked)[^c-11197a9c2cf86dedc89743b66b64755e]
 
 Made
 
@@ -42,30 +42,30 @@ Coming into operation
 
 18th February 2011
 
-[^key-11197a9c2cf86dedc89743b66b64755e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11197a9c2cf86dedc89743b66b64755e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-11197a9c2cf86dedc89743b66b64755e]
+## 1. Citation and commencement[^c-11197a9c2cf86dedc89743b66b64755e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Institutions to be treated as charities[^key-11197a9c2cf86dedc89743b66b64755e]
+## 2. Institutions to be treated as charities[^c-11197a9c2cf86dedc89743b66b64755e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11197a9c2cf86dedc89743b66b64755e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11197a9c2cf86dedc89743b66b64755e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-11197a9c2cf86dedc89743b66b64755e]
+## SCHEDULE[^c-11197a9c2cf86dedc89743b66b64755e]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-11197a9c2cf86dedc89743b66b64755e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11197a9c2cf86dedc89743b66b64755e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11197a9c2cf86dedc89743b66b64755e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/12) revoked (19.8.2013) by [The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2013 (S.R. 2013/211)](https://www.legislation.gov.uk/nisr/2013/211), [arts. 1](https://www.legislation.gov.uk/nisr/2013/211/article/1), [3](https://www.legislation.gov.uk/nisr/2013/211/article/3)
+[^c-11197a9c2cf86dedc89743b66b64755e]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/12) revoked (19.8.2013) by [The Charities Act 2008 (Transitional Provision) Order (Northern Ireland) 2013 (S.R. 2013/211)](https://www.legislation.gov.uk/nisr/2013/211), [arts. 1](https://www.legislation.gov.uk/nisr/2013/211/article/1), [3](https://www.legislation.gov.uk/nisr/2013/211/article/3)

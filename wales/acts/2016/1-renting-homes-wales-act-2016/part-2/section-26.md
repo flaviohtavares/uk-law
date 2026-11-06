@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Key matters of all occupation contracts[^key-c4b6acdcf99a72f601e40fd7e0871bb0]
+## 26. Key matters of all occupation contracts[^c-c4b6acdcf99a72f601e40fd7e0871bb0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The following are key matters in relation to all occupation contracts—
 
 ## Annotations
 
-[^key-c4b6acdcf99a72f601e40fd7e0871bb0]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2016/1/section/26) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c4b6acdcf99a72f601e40fd7e0871bb0]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2016/1/section/26) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

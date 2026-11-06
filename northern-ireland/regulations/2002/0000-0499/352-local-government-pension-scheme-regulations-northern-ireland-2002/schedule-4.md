@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — REVENUE RESTRICTIONS[^key-e653214f4c6496672d74ca3aaf344fd8]
+## SCHEDULE 4 — REVENUE RESTRICTIONS[^c-e653214f4c6496672d74ca3aaf344fd8]
 
 *Extent: N.I.*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulations 8(2), 22(1), 25, 53(2), 55(5), 57(2), 61(5) and 99(2)
 
-### Preliminary[^key-e653214f4c6496672d74ca3aaf344fd8]
+### Preliminary[^c-e653214f4c6496672d74ca3aaf344fd8]
 
-**1.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class A members[^key-e653214f4c6496672d74ca3aaf344fd8]
+### Class A members[^c-e653214f4c6496672d74ca3aaf344fd8]
 
-**2.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Class B members and Class C members[^key-e653214f4c6496672d74ca3aaf344fd8]
+### Class B members and Class C members[^c-e653214f4c6496672d74ca3aaf344fd8]
 
-**3.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Maximum additions under regulation 57[^key-e653214f4c6496672d74ca3aaf344fd8]
+### Maximum additions under regulation 57[^c-e653214f4c6496672d74ca3aaf344fd8]
 
-**8.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Controlling directors[^key-e653214f4c6496672d74ca3aaf344fd8]
+### Controlling directors[^c-e653214f4c6496672d74ca3aaf344fd8]
 
-**9.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Overriding provisions[^key-e653214f4c6496672d74ca3aaf344fd8]
+### Overriding provisions[^c-e653214f4c6496672d74ca3aaf344fd8]
 
-**10.**[^key-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e653214f4c6496672d74ca3aaf344fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e653214f4c6496672d74ca3aaf344fd8]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2002/352/schedule/4) deleted (6.4.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [48](https://www.legislation.gov.uk/nisr/2007/152/regulation/48)
+[^c-e653214f4c6496672d74ca3aaf344fd8]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2002/352/schedule/4) deleted (6.4.2006) by [Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/152)](https://www.legislation.gov.uk/nisr/2007/152), [regs. 1(2)(a)](https://www.legislation.gov.uk/nisr/2007/152/regulation/1), [48](https://www.legislation.gov.uk/nisr/2007/152/regulation/48)

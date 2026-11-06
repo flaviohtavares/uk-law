@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Disposal of leisure facilities[^key-0d6dd7558769d4a4288ca9e4bb8d2260]
+## 90. Disposal of leisure facilities[^c-0d6dd7558769d4a4288ca9e4bb8d2260]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ For the purposes of regulation 86, a disposal of an interest in land shall be a 
 
 ## Annotations
 
-[^key-0d6dd7558769d4a4288ca9e4bb8d2260]: Commencement: Reg. 90 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0d6dd7558769d4a4288ca9e4bb8d2260]: Commencement: Reg. 90 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

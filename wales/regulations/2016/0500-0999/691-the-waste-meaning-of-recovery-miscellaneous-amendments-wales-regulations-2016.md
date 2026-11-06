@@ -65,7 +65,7 @@ The Welsh Ministers are designated[^f00004] for the purposes of section 2(2) of 
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by section 2(2) of the ECA 1972, section 2 of and Schedule 1 to the PPCA 1999, sections 11, 12, 13 and 36 of the WETA 2003 and sections 5(1)(a) and (b) and (d) to (f) and 19(2) of the W(W)M 2010.
 
-## 1. Title, commencement and application[^key-25678d0cf7391e06468029cabb47238e]
+## 1. Title, commencement and application[^c-25678d0cf7391e06468029cabb47238e]
 
 (1) The title of these Regulations is the Waste (Meaning of Recovery) (Miscellaneous Amendments) (Wales) Regulations 2016.
 
@@ -73,19 +73,19 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the Landfill Allowances Scheme (Wales) Regulations 2004[^key-4437a409aef13bec20f69139d9a647b7]
+## 2. Amendment of the Landfill Allowances Scheme (Wales) Regulations 2004[^c-4437a409aef13bec20f69139d9a647b7]
 
 (1) The Landfill Allowances Scheme (Wales) Regulations 2004[^f00007] are amended as follows.
 
 (2) In regulation 2(1) (interpretation), in the definition of “waste facility”, after the words “Council on waste” insert “as last amended by Commission Directive (EU) 2015/1127[^f00008]”.
 
-## 3. Amendment of the Hazardous Waste (Wales) Regulations 2005[^key-6ecded1fcec49525be4b50c264e04208]
+## 3. Amendment of the Hazardous Waste (Wales) Regulations 2005[^c-6ecded1fcec49525be4b50c264e04208]
 
 (1) The Hazardous Waste (Wales) Regulations 2005[^f00009] are amended as follows.
 
-(2)[^key-4676846ad66e672763d11f7b3114048c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4676846ad66e672763d11f7b3114048c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Environmental Permitting (England and Wales) Regulations 2010[^key-86b1ee6c4cc6a36bf85cb004b8af8f05]
+## 4. Amendment of the Environmental Permitting (England and Wales) Regulations 2010[^c-86b1ee6c4cc6a36bf85cb004b8af8f05]
 
 (1) The Environmental Permitting (England and Wales) Regulations 2010[^f00011] are amended as follows.
 
@@ -95,7 +95,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 .
 
-## 5. Amendment of the Waste (England and Wales) Regulations 2011[^key-b49c272b076318d9477f029183a12df8]
+## 5. Amendment of the Waste (England and Wales) Regulations 2011[^c-b49c272b076318d9477f029183a12df8]
 
 (1) The Waste (England and Wales) Regulations 2011[^f00012] are amended as follows.
 
@@ -105,7 +105,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 .
 
-## 6. Amendment of the Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011[^key-ba142ec94dd53fac7f31029f4fb1ba05]
+## 6. Amendment of the Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011[^c-ba142ec94dd53fac7f31029f4fb1ba05]
 
 (1) The Recycling, Preparation for Re-use and Composting Targets (Monitoring and Penalties) (Wales) Regulations 2011[^f00013] are amended as follows.
 
@@ -145,28 +145,28 @@ The Welsh Ministers’ Code of Practice on the carrying out of regulatory impact
 
 [^f00006]: Footnote: [S.I. 2005/850](https://www.legislation.gov.uk/uksi/2005/850).
 
-[^key-25678d0cf7391e06468029cabb47238e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/691/regulation/1) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
+[^c-25678d0cf7391e06468029cabb47238e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/691/regulation/1) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
 
-[^key-4437a409aef13bec20f69139d9a647b7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/691/regulation/2) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
+[^c-4437a409aef13bec20f69139d9a647b7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/691/regulation/2) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2004/1490 (W. 155)](https://www.legislation.gov.uk/wsi/2004/1490) as amended by [S.I. 2005/1820 (W. 148)](https://www.legislation.gov.uk/wsi/2005/1820). There are other amendments not relevant to these Regulations.
 
 [^f00008]: Footnote: OJ No L 184, 11.7.2015, p13.
 
-[^key-6ecded1fcec49525be4b50c264e04208]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/691/regulation/3) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
+[^c-6ecded1fcec49525be4b50c264e04208]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/691/regulation/3) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2005/1806 (W. 138)](https://www.legislation.gov.uk/wsi/2005/1806) as amended by [S.I. 2015/1417 (W. 141)](https://www.legislation.gov.uk/wsi/2015/1417), [2011/971 (W. 141)](https://www.legislation.gov.uk/wsi/2011/971) and [2011/988](https://www.legislation.gov.uk/uksi/2011/988).
 
-[^key-4676846ad66e672763d11f7b3114048c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/3/2) revoked (5.7.2018) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/721)](https://www.legislation.gov.uk/wsi/2018/721), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/721/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2018/721/regulation/7/b)
+[^c-4676846ad66e672763d11f7b3114048c]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/3/2) revoked (5.7.2018) by [The Hazardous Waste (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/721)](https://www.legislation.gov.uk/wsi/2018/721), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/721/regulation/1/2), [7(b)](https://www.legislation.gov.uk/wsi/2018/721/regulation/7/b)
 
-[^key-86b1ee6c4cc6a36bf85cb004b8af8f05]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/691/regulation/4) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
+[^c-86b1ee6c4cc6a36bf85cb004b8af8f05]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/691/regulation/4) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675), as amended by [S.I. 2015/1417 (W. 141)](https://www.legislation.gov.uk/wsi/2015/1417). There are other amendments not relevant to these Regulations.
 
-[^key-b49c272b076318d9477f029183a12df8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/691/regulation/5) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
+[^c-b49c272b076318d9477f029183a12df8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/691/regulation/5) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988) as amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) and [2014/656](https://www.legislation.gov.uk/uksi/2014/656).
 
-[^key-ba142ec94dd53fac7f31029f4fb1ba05]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/691/regulation/6) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
+[^c-ba142ec94dd53fac7f31029f4fb1ba05]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/691/regulation/6) in force at 31.7.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/691/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2011/1014 (W. 152)](https://www.legislation.gov.uk/wsi/2011/1014) as amended by [S.I. 2015/1417 (W. 141)](https://www.legislation.gov.uk/wsi/2015/1417).

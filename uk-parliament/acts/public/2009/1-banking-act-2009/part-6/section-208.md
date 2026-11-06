@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. “Banknote”[^key-4c23acf46785b5db10e0bcb625fb1977]
+## 208. “Banknote”[^c-4c23acf46785b5db10e0bcb625fb1977]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Part “**banknote**” means a promissory note, bill of exchange or oth
 
 ## Annotations
 
-[^key-4c23acf46785b5db10e0bcb625fb1977]: Commencement: S. 208 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)
+[^c-4c23acf46785b5db10e0bcb625fb1977]: Commencement: S. 208 in force at 23.11.2009 by [S.I. 2009/3000](https://www.legislation.gov.uk/uksi/2009/3000), [art. 3](https://www.legislation.gov.uk/uksi/2009/3000/article/3)

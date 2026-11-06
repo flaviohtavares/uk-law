@@ -79,7 +79,7 @@ except to the extent that it consists of or includes the erection, construction,
 
 (6) Nothing in section 41 of the Act of 1971 (limit on duration of planning permissions) shall apply to the planning permission deemed by subsection (1) or (3) above to have been granted under Part III of that Act.
 
-(7) Sections 28(5) and 29(3) of the *(Extent: S)* *(affected by repeal, see note)*[^key-3fa4f87611f850649b63258a8437c72f] [^c7868461]Wildlife and Countryside Act 1981 (prohibitions of operations likely to be injurious to the flora, fauna or features of areas of special scientific interest) shall not apply in relation to any operation which is connected with the carrying out of any works authorised to be carried out by this Act and which is carried out within the limits of land to be acquired for any of those works. *(Extent: S)* *(affected by repeal, see note)*[^key-3fa4f87611f850649b63258a8437c72f]
+(7) Sections 28(5) and 29(3) of the *(Extent: S)* *(affected by repeal, see note)*[^c-3fa4f87611f850649b63258a8437c72f] [^c7868461]Wildlife and Countryside Act 1981 (prohibitions of operations likely to be injurious to the flora, fauna or features of areas of special scientific interest) shall not apply in relation to any operation which is connected with the carrying out of any works authorised to be carried out by this Act and which is carried out within the limits of land to be acquired for any of those works. *(Extent: S)* *(affected by repeal, see note)*[^c-3fa4f87611f850649b63258a8437c72f]
 
 (8) In this section and in Schedule 3 to this Act—
 
@@ -105,7 +105,7 @@ except to the extent that it consists of or includes the erection, construction,
 
 [^c7868451]: Marginal citation: [S.I. 1977/289](https://www.legislation.gov.uk/uksi/1977/289).
 
-[^key-3fa4f87611f850649b63258a8437c72f]: Textual amendment: [S. 9(7)](https://www.legislation.gov.uk/ukpga/1987/53/section/9/7) repealed (S.) (29.11.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [s. 59(2)](https://www.legislation.gov.uk/asp/2004/6/section/59/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/asp/2004/6/schedule/7/paragraph/6) (with [s. 55(2)](https://www.legislation.gov.uk/asp/2004/6/section/55/2)); [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-3fa4f87611f850649b63258a8437c72f]: Textual amendment: [S. 9(7)](https://www.legislation.gov.uk/ukpga/1987/53/section/9/7) repealed (S.) (29.11.2004) by [Nature Conservation (Scotland) Act 2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), [s. 59(2)](https://www.legislation.gov.uk/asp/2004/6/section/59/2), [Sch. 7 para. 6](https://www.legislation.gov.uk/asp/2004/6/schedule/7/paragraph/6) (with [s. 55(2)](https://www.legislation.gov.uk/asp/2004/6/section/55/2)); [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
 [^c7868461]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

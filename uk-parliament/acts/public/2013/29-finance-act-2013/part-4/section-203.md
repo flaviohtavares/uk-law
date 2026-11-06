@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Bank levy: rates from 1 January 2014[^key-d967a021876544d4a7f3bdb5e4b28283]
+## 203. Bank levy: rates from 1 January 2014[^c-d967a021876544d4a7f3bdb5e4b28283]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d967a021876544d4a7f3bdb5e4b28283]: Textual amendment: [S. 203](https://www.legislation.gov.uk/ukpga/2013/29/section/203) repealed (1.1.2014 retrospective) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 119(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/4)[(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/5)
+[^c-d967a021876544d4a7f3bdb5e4b28283]: Textual amendment: [S. 203](https://www.legislation.gov.uk/ukpga/2013/29/section/203) repealed (1.1.2014 retrospective) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 119(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/4)[(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/119/5)

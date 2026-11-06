@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Legal professional privilege[^key-b4a903c4617169e76fde042991cc73e1]
+## 43. Legal professional privilege[^c-b4a903c4617169e76fde042991cc73e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Nothing in this Part requires any person to produce a document which that person
 
 ## Annotations
 
-[^key-b4a903c4617169e76fde042991cc73e1]: Commencement: Art. 43 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-b4a903c4617169e76fde042991cc73e1]: Commencement: Art. 43 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Franchising arrangements for local services[^key-034b510e0b188099f7e307d3bc82f34f]
+## 38. Franchising arrangements for local services[^c-034b510e0b188099f7e307d3bc82f34f]
 
 *Extent: S*
 
@@ -505,4 +505,4 @@ summary: ''
 
 ## Annotations
 
-[^key-034b510e0b188099f7e307d3bc82f34f]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/17/section/38) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-034b510e0b188099f7e307d3bc82f34f]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2019/17/section/38) in force at 4.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

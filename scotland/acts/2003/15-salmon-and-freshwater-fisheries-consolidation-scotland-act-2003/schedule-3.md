@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 48(9))
 
-### 1. Making of protection order[^key-f4728c96b7ef7ba4d7594e38840e3867]
+### 1. Making of protection order[^c-f4728c96b7ef7ba4d7594e38840e3867]
 
 Before the Scottish Ministers make a protection order they shall require a person from whom they have received proposals under section 48(3)(a) of this Act to give notice in such form as they may direct—
 
@@ -30,13 +30,13 @@ Before the Scottish Ministers make a protection order they shall require a perso
 - (b) naming a place or places where a copy of the proposals and any map accompanying the proposals may be inspected free of charge at all reasonable hours; and
 - (c) specifying the time (not being less than 28 days from the date of the first publication of the notice) within which, and the manner in which, representations or objections with respect to the proposals may be made.
 
-**2.**[^key-078e013ec45e5a69098a4239c8463ab6] The notice to be given under paragraph 1 above shall be given by publication [^key-1159370fb4c4c1370ae5569f293c943c]...and in such number of such newspapers as the Scottish Ministers may direct.
+**2.**[^c-078e013ec45e5a69098a4239c8463ab6] The notice to be given under paragraph 1 above shall be given by publication [^c-1159370fb4c4c1370ae5569f293c943c]...and in such number of such newspapers as the Scottish Ministers may direct.
 
-**3.**[^key-02ea185869d21536206c332f4ef83f7b] The Scottish Ministers may direct that, in addition to publication of the notice as required by paragraph 2 above, a copy or copies of it shall be affixed by a person duly authorised in writing by them to some conspicuous object or objects on the banks of any waters to which the proposals relate or of such other waters as they may direct and at such number of places as they may direct.
+**3.**[^c-02ea185869d21536206c332f4ef83f7b] The Scottish Ministers may direct that, in addition to publication of the notice as required by paragraph 2 above, a copy or copies of it shall be affixed by a person duly authorised in writing by them to some conspicuous object or objects on the banks of any waters to which the proposals relate or of such other waters as they may direct and at such number of places as they may direct.
 
-**4.**[^key-16d45ac0da9c185066538936e1918648] If no representations or objections are duly made, or if any so made are withdrawn, the Scottish Ministers may make a protection order.
+**4.**[^c-16d45ac0da9c185066538936e1918648] If no representations or objections are duly made, or if any so made are withdrawn, the Scottish Ministers may make a protection order.
 
-**5.**[^key-8b15b778f1d90f31d690cc0089f53dac] (1) If any representation or objection duly made is not withdrawn, the Scottish Ministers may, after considering the same, forthwith make a protection order or may cause a local inquiry to be held.
+**5.**[^c-8b15b778f1d90f31d690cc0089f53dac] (1) If any representation or objection duly made is not withdrawn, the Scottish Ministers may, after considering the same, forthwith make a protection order or may cause a local inquiry to be held.
 
 (2) The Scottish Ministers shall appoint a person to hold the inquiry and to report thereon to them.
 
@@ -57,14 +57,14 @@ Provided that—
 
 (8) Any order of the Scottish Ministers under sub-paragraph (7) above requiring any party to pay expenses may be enforced in like manner as an extract registered decree arbitral bearing a warrant for execution issued by the sheriff court of any sheriffdom in Scotland.
 
-**6.**[^key-5929eb6069da9c35640596c51bf71911] After considering the report of the person appointed to hold the inquiry in pursuance of paragraph 5 above and any representations or objections which were duly made, the Scottish Ministers may make a protection order.
+**6.**[^c-5929eb6069da9c35640596c51bf71911] After considering the report of the person appointed to hold the inquiry in pursuance of paragraph 5 above and any representations or objections which were duly made, the Scottish Ministers may make a protection order.
 
-**7.**[^key-74074cab739ac9bacb3153d36a970b0b] As soon as may be after a protection order has been made—
+**7.**[^c-74074cab739ac9bacb3153d36a970b0b] As soon as may be after a protection order has been made—
 
 - (a) the Scottish Ministers shall publish the making of the order in the Edinburgh Gazette and in such number of local newspapers circulating in the area to which the order relates as they think fit; and
 - (b) a person duly authorised in writing by the Scottish Ministers or a warden shall affix and maintain a copy or copies of the order and such other notice as the Scottish Ministers may consider necessary of the incidence of the order to some conspicuous object or objects, at such places as the Scottish Ministers may direct, on the banks of any waters to which the order relates or elsewhere.
 
-**8.**[^key-31c41169845dce511fd53fc4d2c6e25a][^key-b770627ac03e9bb18c3c7cc785a3fc09] (1) Before the Scottish Ministers make an order varying a protection order, they shall by notice make such publication as they think fit of the general effect of the proposed variation and specify a time within which, and the manner in which, representations or objections with respect to the proposed variation may be made.
+**8.**[^c-31c41169845dce511fd53fc4d2c6e25a][^c-b770627ac03e9bb18c3c7cc785a3fc09] (1) Before the Scottish Ministers make an order varying a protection order, they shall by notice make such publication as they think fit of the general effect of the proposed variation and specify a time within which, and the manner in which, representations or objections with respect to the proposed variation may be made.
 
 (2) The Scottish Ministers may cause a copy or copies of the notice referred to in sub-paragraph (1) above to be affixed by a person duly authorised by them in writing to some conspicuous object or objects on the banks of such waters at such places as the Scottish Ministers may direct.
 
@@ -76,7 +76,7 @@ Provided that—
 
 (6) Paragraph 6 and 7 above shall apply in relation to an order varying a protection order as they apply in relation to a protection order, but as if in paragraph 6 for the reference to paragraph 5 above there were substituted a reference to this paragraph.
 
-**9.**[^key-b5da149d6d6c5c08d0a7e85c74228396] (1) Before the Scottish Ministers make an order revoking a protection order, they shall[^key-5b60be9d7c140e2105a938ab885d6991] by notice make such publication as they think fit of the general effect of the proposed revocation and specify a time within which, and the manner in which, representations or objections with respect to the proposed revocation may be made.
+**9.**[^c-b5da149d6d6c5c08d0a7e85c74228396] (1) Before the Scottish Ministers make an order revoking a protection order, they shall[^c-5b60be9d7c140e2105a938ab885d6991] by notice make such publication as they think fit of the general effect of the proposed revocation and specify a time within which, and the manner in which, representations or objections with respect to the proposed revocation may be made.
 
 (2) The Scottish Ministers may cause a copy or copies of the notice referred to in sub-paragraph (1) above to be affixed by a person duly authorised by them in writing to some conspicuous object or objects on the banks of such waters at such places as the Scottish Ministers may direct.
 
@@ -88,32 +88,32 @@ Provided that—
 
 (6) Paragraph 6 and 7 above shall apply in relation to an order revoking a protection order as they apply in relation to a protection order, but as if in paragraph 6 for the reference to paragraph 5 above there were substituted a reference to this paragraph.
 
-**10.**[^key-9eaf783dc6ed74c5e7462be257a6d93b] The Scottish Ministers shall cause to be published each year a list of prescribed areas.
+**10.**[^c-9eaf783dc6ed74c5e7462be257a6d93b] The Scottish Ministers shall cause to be published each year a list of prescribed areas.
 
 ## Annotations
 
-[^key-f4728c96b7ef7ba4d7594e38840e3867]: Commencement: Sch. 3 para. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-f4728c96b7ef7ba4d7594e38840e3867]: Commencement: Sch. 3 para. 1 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-078e013ec45e5a69098a4239c8463ab6]: Commencement: Sch. 3 para. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-078e013ec45e5a69098a4239c8463ab6]: Commencement: Sch. 3 para. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-1159370fb4c4c1370ae5569f293c943c]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/3/paragraph/2) repealed (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(6)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/6) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-1159370fb4c4c1370ae5569f293c943c]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/3/paragraph/2) repealed (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(6)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/6) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-02ea185869d21536206c332f4ef83f7b]: Commencement: Sch. 3 para. 3 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-02ea185869d21536206c332f4ef83f7b]: Commencement: Sch. 3 para. 3 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-16d45ac0da9c185066538936e1918648]: Commencement: Sch. 3 para. 4 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-16d45ac0da9c185066538936e1918648]: Commencement: Sch. 3 para. 4 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-8b15b778f1d90f31d690cc0089f53dac]: Commencement: Sch. 3 para. 5 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-8b15b778f1d90f31d690cc0089f53dac]: Commencement: Sch. 3 para. 5 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-5929eb6069da9c35640596c51bf71911]: Commencement: Sch. 3 para. 6 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-5929eb6069da9c35640596c51bf71911]: Commencement: Sch. 3 para. 6 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-74074cab739ac9bacb3153d36a970b0b]: Commencement: Sch. 3 para. 7 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-74074cab739ac9bacb3153d36a970b0b]: Commencement: Sch. 3 para. 7 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-31c41169845dce511fd53fc4d2c6e25a]: Commencement: Sch. 3 para. 8 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-31c41169845dce511fd53fc4d2c6e25a]: Commencement: Sch. 3 para. 8 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-b770627ac03e9bb18c3c7cc785a3fc09]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2003/15/schedule/3/paragraph/8) substituted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(7)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/7) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-b770627ac03e9bb18c3c7cc785a3fc09]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/asp/2003/15/schedule/3/paragraph/8) substituted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(7)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/7) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-b5da149d6d6c5c08d0a7e85c74228396]: Commencement: Sch. 3 para. 9 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-b5da149d6d6c5c08d0a7e85c74228396]: Commencement: Sch. 3 para. 9 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-5b60be9d7c140e2105a938ab885d6991]: Textual amendment: Word in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/asp/2003/15/schedule/3/paragraph/9/1) substituted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(8)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/8) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
+[^c-5b60be9d7c140e2105a938ab885d6991]: Textual amendment: Word in [Sch. 3 para. 9(1)](https://www.legislation.gov.uk/asp/2003/15/schedule/3/paragraph/9/1) substituted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(8)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/8) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1)
 
-[^key-9eaf783dc6ed74c5e7462be257a6d93b]: Commencement: Sch. 3 para. 10 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-9eaf783dc6ed74c5e7462be257a6d93b]: Commencement: Sch. 3 para. 10 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

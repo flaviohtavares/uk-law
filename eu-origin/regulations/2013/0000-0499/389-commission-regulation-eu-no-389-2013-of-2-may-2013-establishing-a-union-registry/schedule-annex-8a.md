@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX 8a — Notices (Article 110e)[^key-a1ec80576c75e7036a2f6336e85ba3d8]
+## ANNEX 8a — Notices (Article 110e)[^c-a1ec80576c75e7036a2f6336e85ba3d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ For the purposes of paragraph 7, where a body corporate registered outside the U
 
 ## Annotations
 
-[^key-a1ec80576c75e7036a2f6336e85ba3d8]: Textual amendment: [Annex 8a](https://www.legislation.gov.uk/eur/2013/389/annex/8a) inserted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(7)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/7)
+[^c-a1ec80576c75e7036a2f6336e85ba3d8]: Textual amendment: [Annex 8a](https://www.legislation.gov.uk/eur/2013/389/annex/8a) inserted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [10(7)](https://www.legislation.gov.uk/uksi/2021/511/regulation/10/7)

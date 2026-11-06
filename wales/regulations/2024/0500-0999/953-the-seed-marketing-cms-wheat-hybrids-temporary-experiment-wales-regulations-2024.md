@@ -49,7 +49,7 @@ In accordance with section 16(1) of the 1964 Act, the Welsh Minsters have consul
 
 ## PART 1 — Introductory
 
-### 1. Title, coming into force, application and expiry[^key-8eaaf270b860b1ad0b3aa4588086bd78]
+### 1. Title, coming into force, application and expiry[^c-8eaaf270b860b1ad0b3aa4588086bd78]
 
 (1) The title of these Regulations is the Seed Marketing (CMS Wheat Hybrids) (Temporary Experiment) (Wales) Regulations 2024 and they come into force on 7 October 2024.
 
@@ -57,7 +57,7 @@ In accordance with section 16(1) of the 1964 Act, the Welsh Minsters have consul
 
 (3) These Regulations cease to have effect at the end of 6 October 2031.
 
-### 2. Interpretation[^key-49d2c75052d8d101aecd0efe3baceb6c]
+### 2. Interpretation[^c-49d2c75052d8d101aecd0efe3baceb6c]
 
 In these Regulations—
 
@@ -70,7 +70,7 @@ In these Regulations—
 
 ## PART 2 — The experiment
 
-### 3. Purpose and duration of the experiment, and the granting of licences to participate in it[^key-70e9d92ad15a89b4835c08278553d03f]
+### 3. Purpose and duration of the experiment, and the granting of licences to participate in it[^c-70e9d92ad15a89b4835c08278553d03f]
 
 (1) The purpose of the experiment, in accordance with regulation 21A(1) of the 2012 Regulations[^f00003], is to seek alternative requirements for the certification of CMS wheat hybrids which may be more suitable than the requirements specified in Schedule 2 to the 2012 Regulations.
 
@@ -78,7 +78,7 @@ In these Regulations—
 
 (3) The Welsh Ministers may grant a licence for the purpose of participating in the experiment to a person who applies for a licence in accordance with regulation 4(1) and (2).
 
-### 4. Application for a licence[^key-f64752320e07d1d12fd9c30175ac2358]
+### 4. Application for a licence[^c-f64752320e07d1d12fd9c30175ac2358]
 
 (1) An application for a licence must be made in writing to the Welsh Ministers and include the information specified in paragraph (2).
 
@@ -93,7 +93,7 @@ In these Regulations—
 
 (4) The participant must comply with any conditions specified in the licence.
 
-### 5. Period of validity of a licence[^key-40113f6d99a02c0af671170b252e98b4]
+### 5. Period of validity of a licence[^c-40113f6d99a02c0af671170b252e98b4]
 
 (1) Subject to paragraphs (2) and (5) and to regulation 8, the period of validity of a licence to participate in the experiment begins on the date of issue specified in the licence and ends with 6 October 2031.
 
@@ -105,17 +105,17 @@ In these Regulations—
 
 (5) Where the participant informs the Welsh Ministers that they intend to cease participation in the experiment, the participant’s licence ceases to be valid at the end of the date specified in the notice referred to in paragraph (3).
 
-### 6. Effect of the grant of a licence to participate in the experiment[^key-ac8f799e4dd9cebf45b5259c5963cb4a]
+### 6. Effect of the grant of a licence to participate in the experiment[^c-ac8f799e4dd9cebf45b5259c5963cb4a]
 
 The Schedule, which makes transitory modifications to the application of the 2012 Regulations during the period of validity of a licence, has effect in relation to a participant in so far as the provision relates to CMS wheat hybrids developed in accordance with the licence.
 
-### 7. Variation of conditions included in a licence[^key-80fa8d85f7edc4a4498f2e56b321b7a7]
+### 7. Variation of conditions included in a licence[^c-80fa8d85f7edc4a4498f2e56b321b7a7]
 
 (1) The Welsh Ministers may at any time vary any of the conditions included in a licence by giving notice in writing to the participant.
 
 (2) The written notice referred to in paragraph (1) must state the reasons for the variation and the date from which it is to take effect.
 
-### 8. Revocation or suspension of a licence[^key-0dd6cb4dd18844b496117a70272d77cd]
+### 8. Revocation or suspension of a licence[^c-0dd6cb4dd18844b496117a70272d77cd]
 
 (1) The Welsh Ministers may revoke or suspend a licence by giving written notice to the participant if satisfied that a participant has—
 
@@ -132,7 +132,7 @@ The Schedule, which makes transitory modifications to the application of the 201
 
 ## PART 3 — Record keeping and inspection of premises
 
-### 9. Recording and reporting obligations relating to the experiment[^key-5a5dc4bfeb4344cf74ebceb1a65d4c3f]
+### 9. Recording and reporting obligations relating to the experiment[^c-5a5dc4bfeb4344cf74ebceb1a65d4c3f]
 
 A participant or, where the participant is not an individual, the person responsible for the participant’s participation in the experiment, must keep accurate records concerning the experiment in relation to—
 
@@ -143,13 +143,13 @@ A participant or, where the participant is not an individual, the person respons
   - (ii) any person to whom seeds of the hybrid have been supplied, and
   - (iii) the person responsible for the development and maintenance of the hybrid.
 
-**10.**[^key-e244c450e97cb78ab6a72eeceea9039d] (1) A participant or, where the participant is not an individual, the person responsible for the participant’s participation in the experiment, must notify the Welsh Ministers in writing of any changes to the information specified in regulation 4(2) since the licence application was made.
+**10.**[^c-e244c450e97cb78ab6a72eeceea9039d] (1) A participant or, where the participant is not an individual, the person responsible for the participant’s participation in the experiment, must notify the Welsh Ministers in writing of any changes to the information specified in regulation 4(2) since the licence application was made.
 
 (2) The written notification referred to in paragraph (1) must be given within the period of 30 days beginning with the date on which the change took place, or the date on which the participant ought reasonably to have become aware of it.
 
 ## PART 4 — Marketing and certification
 
-### 11. Certification procedure[^key-0ee311e2e519153b45bc863ead1ba8e8]
+### 11. Certification procedure[^c-0ee311e2e519153b45bc863ead1ba8e8]
 
 (1) A participant may apply to the Welsh Ministers under the 2012 Regulations, as they have effect under the Schedule, for certification of CMS wheat hybrid seeds developed under the experiment.
 
@@ -167,16 +167,16 @@ Regulation 6
 
 ### PART 1 — General
 
-**1.**[^key-3b019e9b6a39f29d7ea6ea95f4c8bf94] The 2012 Regulations apply to CMS wheat hybrids produced in accordance with a licence, subject to the modifications specified in Part 2 of this Schedule.
+**1.**[^c-3b019e9b6a39f29d7ea6ea95f4c8bf94] The 2012 Regulations apply to CMS wheat hybrids produced in accordance with a licence, subject to the modifications specified in Part 2 of this Schedule.
 
-**2.**[^key-131a835c0bf2646aa78f1d59297c2f6f] In this Schedule—
+**2.**[^c-131a835c0bf2646aa78f1d59297c2f6f] In this Schedule—
 
 - (a) references to a regulation are to a regulation of the 2012 Regulations;
 - (b) references to Schedule 2 are to Schedule 2 to the 2012 Regulations.
 
 ### PART 2 — Transitory modifications: certification
 
-**3.**[^key-49755ba39f1334073abd5597896494e1] Regulation 3 (interpretation of other terms) is to be read as if—
+**3.**[^c-49755ba39f1334073abd5597896494e1] Regulation 3 (interpretation of other terms) is to be read as if—
 
 - (a) after paragraph (1)(b) there were inserted —
 
@@ -189,7 +189,7 @@ Regulation 6
 
   > (3) Any reference to a regulation of, or to a paragraph of Schedule 2 to, these Regulations whose application is modified by the Schedule to the CMS Wheat Hybrids Regulations, is to be read as a reference to that provision as modified by the CMS Wheat Hybrids Regulations.
 
-**4.**[^key-f6c5e61ac2f40daf8a9608816bd86784] Regulation 10 (Overriding requirements for certification) is to be read as if—
+**4.**[^c-f6c5e61ac2f40daf8a9608816bd86784] Regulation 10 (Overriding requirements for certification) is to be read as if—
 
 - (a) the existing text were numbered paragraph (1);
 - (b) in paragraph (1), as numbered by this paragraph, in the opening words after “regulation 5” there were inserted “(except in the case of a seed of a CMS wheat hybrid)”.
@@ -200,11 +200,11 @@ Regulation 6
   > - (a) be produced under a CWH licence, and
   > - (b) meet the requirements for certification specified in Schedule 2.
 
-**5.**[^key-898cd5204b6ae3fe41a687044e360bcc] Regulation 11 (detailed requirements for certification) is to be read as if, in paragraph (3), in the opening words, after “Schedule 2” there were inserted “and, in relation to CMS wheat hybrids, the CMS Wheat Hybrids Regulations”.
+**5.**[^c-898cd5204b6ae3fe41a687044e360bcc] Regulation 11 (detailed requirements for certification) is to be read as if, in paragraph (3), in the opening words, after “Schedule 2” there were inserted “and, in relation to CMS wheat hybrids, the CMS Wheat Hybrids Regulations”.
 
-**6.**[^key-3e80455ca8d53eb86d5ab1031d82ced6] Regulation 15 (control plots and tests) is to be read as if, in paragraph (2), after “varietal purity” there were inserted “or, in relation to a seed of a CMS wheat hybrid, the applicable certification requirements in Schedule 2 and the CMS Wheat Hybrids Regulations,”.
+**6.**[^c-3e80455ca8d53eb86d5ab1031d82ced6] Regulation 15 (control plots and tests) is to be read as if, in paragraph (2), after “varietal purity” there were inserted “or, in relation to a seed of a CMS wheat hybrid, the applicable certification requirements in Schedule 2 and the CMS Wheat Hybrids Regulations,”.
 
-**7.**[^key-452b939d8dcfafff776fe4ea3e8859a8] Regulation 28 (appeals) is to be read as if, in paragraph (1), after sub-paragraph (a), there were inserted—
+**7.**[^c-452b939d8dcfafff776fe4ea3e8859a8] Regulation 28 (appeals) is to be read as if, in paragraph (1), after sub-paragraph (a), there were inserted—
 
 > - (aa) in relation to a seed used to create a CMS wheat hybrid—
 >   - (i) refuse to grant a CWH licence;
@@ -213,7 +213,7 @@ Regulation 6
 
 .
 
-**8.**[^key-913c96533b8f1b851a0630f009c5ac4e] Paragraph 15 of Schedule 2 (crop and seed requirements) is to be read as if, after sub-paragraph (2A), there were inserted—
+**8.**[^c-913c96533b8f1b851a0630f009c5ac4e] Paragraph 15 of Schedule 2 (crop and seed requirements) is to be read as if, after sub-paragraph (2A), there were inserted—
 
 > **2B.** In addition, in relation to CMS wheat hybrids—
 >
@@ -267,44 +267,44 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16 was amended by section 4(1) of, and paragraph 5(1), (2) and (3) of Schedule 4 to, the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [S.I. 1977/1112](https://www.legislation.gov.uk/uksi/1977/1112) and section 2 of the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49). See section 38(1) of the 1964 Act for a definition of “the Minister”. Under the Transfer of Functions (Wales) (No. 1) Order 1978 ([S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272)) (“**the 1978 Order**”), article 2(1) and Schedule 1, the functions of the Minister of Agriculture, Fisheries and Food under the Plant Varieties and Seeds Act 1964 were, so far as they are exercisable in relation to Wales, transferred to the Secretary of State and under the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)), article 2 and Schedule 1, the functions transferred to the Secretary of State by the 1978 Order were transferred to the National Assembly for Wales. By virtue of paragraph 30 of Schedule 11 to the Government of Wales Act 2006, those functions are exercisable by the Welsh Ministers.
 
-[^key-8eaaf270b860b1ad0b3aa4588086bd78]: Commencement: Reg. 1 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-8eaaf270b860b1ad0b3aa4588086bd78]: Commencement: Reg. 1 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-49d2c75052d8d101aecd0efe3baceb6c]: Commencement: Reg. 2 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-49d2c75052d8d101aecd0efe3baceb6c]: Commencement: Reg. 2 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2012/245 (W. 39)](https://www.legislation.gov.uk/wsi/2012/245); relevant amendments were made by [S.I. 2013/889 (W. 101)](https://www.legislation.gov.uk/wsi/2013/889), [2016/1242 (W. 294)](https://www.legislation.gov.uk/wsi/2016/1242) and [2019/368 (W. 90)](https://www.legislation.gov.uk/wsi/2019/368) (as amended by [S.I. 2020/1573 (W. 330)](https://www.legislation.gov.uk/wsi/2020/1573)).
 
-[^key-70e9d92ad15a89b4835c08278553d03f]: Commencement: Reg. 3 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-70e9d92ad15a89b4835c08278553d03f]: Commencement: Reg. 3 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
 [^f00003]: Footnote: Regulation 21A was inserted by [S.I. 2013/889 (W. 101)](https://www.legislation.gov.uk/wsi/2013/889) and substituted by [S.I. 2019/368 (W. 90)](https://www.legislation.gov.uk/wsi/2019/368). It provides that the Welsh Ministers may by licence exempt any person or class of persons from compliance with any provision of the 2012 Regulations for the purposes of a temporary experiment seeking improved alternatives to provisions of those Regulations.
 
-[^key-f64752320e07d1d12fd9c30175ac2358]: Commencement: Reg. 4 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-f64752320e07d1d12fd9c30175ac2358]: Commencement: Reg. 4 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-40113f6d99a02c0af671170b252e98b4]: Commencement: Reg. 5 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-40113f6d99a02c0af671170b252e98b4]: Commencement: Reg. 5 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-ac8f799e4dd9cebf45b5259c5963cb4a]: Commencement: Reg. 6 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-ac8f799e4dd9cebf45b5259c5963cb4a]: Commencement: Reg. 6 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-80fa8d85f7edc4a4498f2e56b321b7a7]: Commencement: Reg. 7 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-80fa8d85f7edc4a4498f2e56b321b7a7]: Commencement: Reg. 7 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-0dd6cb4dd18844b496117a70272d77cd]: Commencement: Reg. 8 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-0dd6cb4dd18844b496117a70272d77cd]: Commencement: Reg. 8 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-5a5dc4bfeb4344cf74ebceb1a65d4c3f]: Commencement: Reg. 9 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-5a5dc4bfeb4344cf74ebceb1a65d4c3f]: Commencement: Reg. 9 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-e244c450e97cb78ab6a72eeceea9039d]: Commencement: Reg. 10 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-e244c450e97cb78ab6a72eeceea9039d]: Commencement: Reg. 10 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-0ee311e2e519153b45bc863ead1ba8e8]: Commencement: Reg. 11 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-0ee311e2e519153b45bc863ead1ba8e8]: Commencement: Reg. 11 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-3b019e9b6a39f29d7ea6ea95f4c8bf94]: Commencement: Sch. para. 1 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-3b019e9b6a39f29d7ea6ea95f4c8bf94]: Commencement: Sch. para. 1 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-131a835c0bf2646aa78f1d59297c2f6f]: Commencement: Sch. para. 2 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-131a835c0bf2646aa78f1d59297c2f6f]: Commencement: Sch. para. 2 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-49755ba39f1334073abd5597896494e1]: Commencement: Sch. para. 3 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-49755ba39f1334073abd5597896494e1]: Commencement: Sch. para. 3 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-f6c5e61ac2f40daf8a9608816bd86784]: Commencement: Sch. para. 4 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-f6c5e61ac2f40daf8a9608816bd86784]: Commencement: Sch. para. 4 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-898cd5204b6ae3fe41a687044e360bcc]: Commencement: Sch. para. 5 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-898cd5204b6ae3fe41a687044e360bcc]: Commencement: Sch. para. 5 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-3e80455ca8d53eb86d5ab1031d82ced6]: Commencement: Sch. para. 6 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-3e80455ca8d53eb86d5ab1031d82ced6]: Commencement: Sch. para. 6 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-452b939d8dcfafff776fe4ea3e8859a8]: Commencement: Sch. para. 7 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-452b939d8dcfafff776fe4ea3e8859a8]: Commencement: Sch. para. 7 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
 
-[^key-913c96533b8f1b851a0630f009c5ac4e]: Commencement: Sch. para. 8 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)
+[^c-913c96533b8f1b851a0630f009c5ac4e]: Commencement: Sch. para. 8 in force at 7.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2024/953/regulation/1/1)

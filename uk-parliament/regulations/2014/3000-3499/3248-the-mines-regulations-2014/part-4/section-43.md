@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Ventilation[^key-96cfd0ae1a0017b7d0cec91f97c0342b]
+## 43. Ventilation[^c-96cfd0ae1a0017b7d0cec91f97c0342b]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96cfd0ae1a0017b7d0cec91f97c0342b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2014/3248/regulation/43) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-96cfd0ae1a0017b7d0cec91f97c0342b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2014/3248/regulation/43) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

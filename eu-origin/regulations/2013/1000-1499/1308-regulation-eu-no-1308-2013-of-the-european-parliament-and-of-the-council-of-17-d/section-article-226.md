@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 226. Use of the Reserve[^key-25bdce5a0ee5fef6135be5c9dc9e263e]
+## Article 226. Use of the Reserve[^c-25bdce5a0ee5fef6135be5c9dc9e263e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25bdce5a0ee5fef6135be5c9dc9e263e]: Textual amendment: [Art. 226](https://www.legislation.gov.uk/eur/2013/1308/article/226) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [76](https://www.legislation.gov.uk/uksi/2019/821/regulation/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25bdce5a0ee5fef6135be5c9dc9e263e]: Textual amendment: [Art. 226](https://www.legislation.gov.uk/eur/2013/1308/article/226) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products Framework (Miscellaneous Amendments, etc.) (EU Exit) Regulations 2019 (S.I. 2019/821)](https://www.legislation.gov.uk/uksi/2019/821), [regs. 1](https://www.legislation.gov.uk/uksi/2019/821/regulation/1), [76](https://www.legislation.gov.uk/uksi/2019/821/regulation/76); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

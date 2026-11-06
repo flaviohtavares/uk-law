@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Surrenders of authorisations[^key-8222a8aeb74b2f78ce525fa677baf291]
+## 8. Surrenders of authorisations[^c-8222a8aeb74b2f78ce525fa677baf291]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ which had not been granted or (in the case of a notice) taken effect before comm
 
 ## Annotations
 
-[^key-8222a8aeb74b2f78ce525fa677baf291]: Commencement: Art. 8 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-8222a8aeb74b2f78ce525fa677baf291]: Commencement: Art. 8 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Trading VCTS allowances[^key-dd2ba98f36e53c15d70a1f69a91c634d]
+## 69. Trading VCTS allowances[^c-dd2ba98f36e53c15d70a1f69a91c634d]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd2ba98f36e53c15d70a1f69a91c634d]: Commencement: Art. 69 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-dd2ba98f36e53c15d70a1f69a91c634d]: Commencement: Art. 69 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

@@ -35,54 +35,54 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-01c03323c858d3522dcfadf442c0da72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01c03323c858d3522dcfadf442c0da72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-01c03323c858d3522dcfadf442c0da72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-01c03323c858d3522dcfadf442c0da72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-01c03323c858d3522dcfadf442c0da72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-01c03323c858d3522dcfadf442c0da72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-01c03323c858d3522dcfadf442c0da72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-01c03323c858d3522dcfadf442c0da72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01c03323c858d3522dcfadf442c0da72]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^key-01c03323c858d3522dcfadf442c0da72]
+## ANNEX — INTERNATIONAL ACCOUNTING STANDARDS[^c-01c03323c858d3522dcfadf442c0da72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72] Amendments to IAS 36 Impairment of Assets
+[^c-01c03323c858d3522dcfadf442c0da72] Amendments to IAS 36 Impairment of Assets
 
 ***Recoverable Amount Disclosures for Non-Financial Assets***
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72]DISCLOSURE
+[^c-01c03323c858d3522dcfadf442c0da72]DISCLOSURE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72] 130
+[^c-01c03323c858d3522dcfadf442c0da72] 130
 
 **An entity shall disclose the following for an individual asset (including goodwill) or a cash-generating unit, for which an impairment loss has been recognised or reversed during the period:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72] 134
+[^c-01c03323c858d3522dcfadf442c0da72] 134
 
 **An entity shall disclose the information required by (a)–(f) for each cash-generating unit (group of units) for which the carrying amount of goodwill or intangible assets with indefinite useful lives allocated to that unit (group of units) is significant in comparison with the entity’s total carrying amount of goodwill or intangible assets with indefinite useful lives:**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72]TRANSITIONAL PROVISIONS AND EFFECTIVE DATE
+[^c-01c03323c858d3522dcfadf442c0da72]TRANSITIONAL PROVISIONS AND EFFECTIVE DATE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72]138
+[^c-01c03323c858d3522dcfadf442c0da72]138
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01c03323c858d3522dcfadf442c0da72]140J
+[^c-01c03323c858d3522dcfadf442c0da72]140J
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01c03323c858d3522dcfadf442c0da72]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/40) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-01c03323c858d3522dcfadf442c0da72]: Textual amendment: Regulation revoked (31.12.2020) by The International Accounting Standards and European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2019/685/schedule/2/paragraph/40) (with [reg. 20(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/20/2)) (as amended by [S.I. 2020/335](https://www.legislation.gov.uk/uksi/2020/335), [regs. 1](https://www.legislation.gov.uk/uksi/2020/335/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/335/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

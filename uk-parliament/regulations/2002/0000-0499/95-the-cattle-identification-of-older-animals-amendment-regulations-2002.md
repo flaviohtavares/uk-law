@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Cattle (Identification of Older Animals) (Amendment) Regulations 2002 (revoked)[^key-bc16da19aa4ae994d18d8880391e65c8]
+The Cattle (Identification of Older Animals) (Amendment) Regulations 2002 (revoked)[^c-bc16da19aa4ae994d18d8880391e65c8]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 11th February 2002
 
-[^key-bc16da19aa4ae994d18d8880391e65c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc16da19aa4ae994d18d8880391e65c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-bc16da19aa4ae994d18d8880391e65c8]
+## 1. Title, extent and commencement[^c-bc16da19aa4ae994d18d8880391e65c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Cattle (Identification of Older Animals) Regulations 2000[^key-bc16da19aa4ae994d18d8880391e65c8]
+## 2. Amendment to the Cattle (Identification of Older Animals) Regulations 2000[^c-bc16da19aa4ae994d18d8880391e65c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bc16da19aa4ae994d18d8880391e65c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc16da19aa4ae994d18d8880391e65c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bc16da19aa4ae994d18d8880391e65c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bc16da19aa4ae994d18d8880391e65c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bc16da19aa4ae994d18d8880391e65c8]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification Regulations 2007 (S.I. 2007/529)](https://www.legislation.gov.uk/uksi/2007/529), [regs. 1](https://www.legislation.gov.uk/uksi/2007/529/regulation/1), [17(h)](https://www.legislation.gov.uk/uksi/2007/529/regulation/17/h)
+[^c-bc16da19aa4ae994d18d8880391e65c8]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification Regulations 2007 (S.I. 2007/529)](https://www.legislation.gov.uk/uksi/2007/529), [regs. 1](https://www.legislation.gov.uk/uksi/2007/529/regulation/1), [17(h)](https://www.legislation.gov.uk/uksi/2007/529/regulation/17/h)

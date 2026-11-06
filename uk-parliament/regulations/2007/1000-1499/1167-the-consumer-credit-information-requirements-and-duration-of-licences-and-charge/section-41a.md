@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**41A.**[^key-f81829e1cc7a4daffcdad7d6e2312ddc] (1) Where a statement relates to a green deal plan made before 28th February 2014, or a green deal consumer credit agreement, and the statement contains an error or omission which arises as a result of one or more of the grounds specified in paragraph (2)—
+**41A.**[^c-f81829e1cc7a4daffcdad7d6e2312ddc] (1) Where a statement relates to a green deal plan made before 28th February 2014, or a green deal consumer credit agreement, and the statement contains an error or omission which arises as a result of one or more of the grounds specified in paragraph (2)—
 
 - (a) the statement shall not breach these Regulations on this ground alone; and
 - (b) paragraphs (3) to (5) apply.
@@ -49,4 +49,4 @@ where, at the time of providing the statement, the creditor did not know, and co
 
 ## Annotations
 
-[^key-f81829e1cc7a4daffcdad7d6e2312ddc]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2007/1167/regulation/41A) inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/6)
+[^c-f81829e1cc7a4daffcdad7d6e2312ddc]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2007/1167/regulation/41A) inserted (26.9.2014) by [The Consumer Credit (Information Requirements and Duration of Licences and Charges) (Amendment) Regulations 2014 (S.I. 2014/2369)](https://www.legislation.gov.uk/uksi/2014/2369), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2369/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/2369/regulation/2/6)

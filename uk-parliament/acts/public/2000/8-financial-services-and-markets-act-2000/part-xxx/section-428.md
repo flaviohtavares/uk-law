@@ -26,14 +26,14 @@ summary: ''
 
 (3) Any statutory instrument made under this Act may—
 
-- (za)[^key-945aa1cae637b5ec0031a586c6a3094d] make provision by reference to any rules or other instruments as they have effect from time to time;
+- (za)[^c-945aa1cae637b5ec0031a586c6a3094d] make provision by reference to any rules or other instruments as they have effect from time to time;
 - (a) contain such incidental, supplemental, consequential and transitional provision as the person making it considers appropriate; and
 - (b) make different provision for different cases.
 
-(4)[^key-4b18ea045dae3283362f6419be44ff76] In subsection (3)(za) “**rules**” includes rules made by the Bank of England under this Act.
+(4)[^c-4b18ea045dae3283362f6419be44ff76] In subsection (3)(za) “**rules**” includes rules made by the Bank of England under this Act.
 
 ## Annotations
 
-[^key-945aa1cae637b5ec0031a586c6a3094d]: Textual amendment: [S. 428(3)(za)](https://www.legislation.gov.uk/ukpga/2000/8/section/428/3/za) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 66(3)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/66/3/a), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(rr)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/rr)
+[^c-945aa1cae637b5ec0031a586c6a3094d]: Textual amendment: [S. 428(3)(za)](https://www.legislation.gov.uk/ukpga/2000/8/section/428/3/za) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 66(3)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/66/3/a), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(rr)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/rr)
 
-[^key-4b18ea045dae3283362f6419be44ff76]: Textual amendment: [S. 428(4)](https://www.legislation.gov.uk/ukpga/2000/8/section/428/4) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 66(3)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/66/3/b), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(rr)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/rr)
+[^c-4b18ea045dae3283362f6419be44ff76]: Textual amendment: [S. 428(4)](https://www.legislation.gov.uk/ukpga/2000/8/section/428/4) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 66(3)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/66/3/b), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(rr)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/rr)

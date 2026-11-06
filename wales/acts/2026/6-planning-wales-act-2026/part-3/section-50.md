@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Planning permission for development without complying with previous conditions[^key-3d055582dd4fea64dbcaa5a158a1100d]
+## 50. Planning permission for development without complying with previous conditions[^c-3d055582dd4fea64dbcaa5a158a1100d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d055582dd4fea64dbcaa5a158a1100d]: Commencement: S. 50 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3d055582dd4fea64dbcaa5a158a1100d]: Commencement: S. 50 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

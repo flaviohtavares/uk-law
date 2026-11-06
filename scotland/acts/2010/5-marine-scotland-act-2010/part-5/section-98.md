@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Prohibited act taken in an emergency[^key-218d7a08a88321ae57abfd46c0b20be5]
+## 98. Prohibited act taken in an emergency[^c-218d7a08a88321ae57abfd46c0b20be5]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-218d7a08a88321ae57abfd46c0b20be5]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/5/section/98) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)
+[^c-218d7a08a88321ae57abfd46c0b20be5]: Commencement: [S. 98](https://www.legislation.gov.uk/asp/2010/5/section/98) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/230/article/2/b)

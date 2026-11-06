@@ -64,7 +64,7 @@ The Scottish Ministers make the following regulations in exercise of the powers 
 
 ### 2. Interpretation
 
-(1)[^key-3f868c070227cd1fd996c077cb2a4438] In these Regulations–
+(1)[^c-3f868c070227cd1fd996c077cb2a4438] In these Regulations–
 
 - “**abnormal situation**” means an event or combination of events impacting upon bathing water quality which SEPA would not expect to occur, on average, more than once every 4 years;
 - “**bathing season**” means the period determined by the Scottish Ministers under regulation 3 relative to each bathing water;
@@ -82,7 +82,7 @@ The Scottish Ministers make the following regulations in exercise of the powers 
 - “**management measures**” means such remedial and restorative measures as are required of a person under regulations 11 to 16;
 - “**permanent advice against bathing**” means advice against bathing lasting for at least one bathing season;
 - “**pollution**” means the presence of any organisms or waste as described in regulation 14 to 16 or intestinal enterococci and Escherichia coli;
-- “**public body**” means any body that is also a “contracting authority” in terms of the[^key-e216867fcaf87aae1d2d336ab02ab17d] Public Contracts (Scotland) Regulations 2015[^key-5e95dd2ce268c99ffa23bb758e499dde];
+- “**public body**” means any body that is also a “contracting authority” in terms of the[^c-e216867fcaf87aae1d2d336ab02ab17d] Public Contracts (Scotland) Regulations 2015[^c-5e95dd2ce268c99ffa23bb758e499dde];
 - “**public sewerage system**” has the same meaning as it has in Part 2 of the Water Services etc. (Scotland) Act 2005 [^c19244631];
 - “**relevant health board**”, in relation to a bathing water, means the health board constituted under section 2(1)(a) of the National Health Service (Scotland) Act 1978 [^c19244641] with responsibility for the area where the water is situated;
 - “**relevant local authority**”, in relation to a bathing water, means the council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c19244651] with responsibility for the area where the water is situated;
@@ -93,7 +93,7 @@ The Scottish Ministers make the following regulations in exercise of the powers 
 - “**SEPA**” means the Scottish Environment Protection Agency;
 - “**SEPA controlled sign**” means signage at a bathing water installed, updated and maintained by SEPA;
 - “**set of bathing water quality data**” means data obtained from results from samples taken under Part 1 of Schedule 2;
-- “**short-term pollution**” means (notwithstanding the definition of “pollution”) contamination by intestinal enterococci or Escherichia coli where SEPA —[^key-9c870abd5c3c1b2d626455d63eb63dce]
+- “**short-term pollution**” means (notwithstanding the definition of “pollution”) contamination by intestinal enterococci or Escherichia coli where SEPA —[^c-9c870abd5c3c1b2d626455d63eb63dce]
   - (a) has identified the causes of the contamination; and
   - (b) does not normally expect the contamination to affect bathing water quality for more than 72 hours from when the bathing water is first affected;
 - “**SNH**” means Scottish Natural Heritage;
@@ -101,7 +101,7 @@ The Scottish Ministers make the following regulations in exercise of the powers 
 - “**surface water**” has the same meaning as it has in section 3(3) of the Water Environment and Water Services (Scotland) Act 2003; and
 - “**transitional water**” has the same meaning as it has in section 3(7) of the Water Environment and Water Services (Scotland) Act 2003.
 
-(2)[^key-0f7ec5973de9e127169ec5bbdd7dcdce] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States or a competent authority in a provision imposing an obligation on, or providing a discretion to, a member State or competent authority were to the relevant authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or exercise of that discretion, in Scotland.
+(2)[^c-0f7ec5973de9e127169ec5bbdd7dcdce] For the purposes of these Regulations, a reference to an EU Directive is to be read as if any reference in that Directive to one or more member States or a competent authority in a provision imposing an obligation on, or providing a discretion to, a member State or competent authority were to the relevant authority which, immediately before exit day, was responsible for the United Kingdom's compliance with that obligation, or exercise of that discretion, in Scotland.
 
 (3) In paragraph (2), “**relevant authority**” means—
 
@@ -179,7 +179,7 @@ and the Scottish Ministers must make notification of such publication in the Edi
 
 (4) In this regulation, “**relevant functions**” means functions under the relevant enactments as defined in section 2 of the Water Environment and Water Services (Scotland) Act 2003.
 
-(5)[^key-4069b1f2145533216d03802d866a7040] When interpreting the bathing water directive for the purposes of this regulation, the bathing water directive is to be read subject to the following rules.
+(5)[^c-4069b1f2145533216d03802d866a7040] When interpreting the bathing water directive for the purposes of this regulation, the bathing water directive is to be read subject to the following rules.
 
 (6) The following are to be ignored—
 
@@ -199,7 +199,7 @@ and the Scottish Ministers must make notification of such publication in the Edi
 
 (9) For the purposes of paragraph 7, Article 8 of Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) is to be read as if—
 
-- (a) in paragraph 1, in the final indent, for “Community legislation” there were substituted “ assimilated[^key-5960e7d11d8ad007105dbd70b618ec6c] law ”,
+- (a) in paragraph 1, in the final indent, for “Community legislation” there were substituted “ assimilated[^c-5960e7d11d8ad007105dbd70b618ec6c] law ”,
 - (b) in paragraph 2, the reference in the second sentence to Annex V to Council Directive [2000/60/EC](https://www.legislation.gov.uk/eudr/2000/60) were a reference to that Annex as modified by Part 1 of schedule 5 of the Water Environment and Water Services (Scotland) Act 2003.
 
 ### 5. Consultation
@@ -281,14 +281,14 @@ and the Scottish Ministers must make notification of such publication in the Edi
 
 ### 8. Public information
 
-(1) The relevant local authority must ensure that the following information about a bathing water is promptly made available[^key-b52bcb24d5648b0218b6689fa9785694] during the bathing season on a publicly accessible sign (or signs if necessary) erected on land where such sign or signs are likely to be noticed by the public as they access the bathing water:–
+(1) The relevant local authority must ensure that the following information about a bathing water is promptly made available[^c-b52bcb24d5648b0218b6689fa9785694] during the bathing season on a publicly accessible sign (or signs if necessary) erected on land where such sign or signs are likely to be noticed by the public as they access the bathing water:–
 
 - (a) the bathing water's current classification pursuant to regulation 10;
-- (b)[^key-9cd4c4ae0c39042fa2af778c4456b15a] where there is a bathing prohibition or advice against bathing—
+- (b)[^c-9cd4c4ae0c39042fa2af778c4456b15a] where there is a bathing prohibition or advice against bathing—
   - (i) an indication of such in the form of the appropriate symbol contained in Part 1 of the Annex to Commission Implementing Decision 2011/321/EU establishing, pursuant to Directive [2006/7/EC](https://www.legislation.gov.uk/european/directive/2006/0007) of the European Parliament and of the Council, a symbol for information to the public on bathing water classification and any bathing prohibition or advice against bathing (“the Commission Decision”); and
   - (ii) the reasons for the bathing prohibition or advice against bathing;
 - (c) a general description of the bathing water in non-technical language, based on its bathing water profile;
-- (d) where SEPA[^key-3369af9508f6a0f0bd1710ceefcf0534] considers that the bathing water is likely to be affected by incidents of short-term pollution–
+- (d) where SEPA[^c-3369af9508f6a0f0bd1710ceefcf0534] considers that the bathing water is likely to be affected by incidents of short-term pollution–
   - (i) an indication of such; and
   - (ii) an indication of the number of days for which advice against bathing was introduced or a prohibition on bathing was imposed during the immediately preceding bathing season because of short-term pollution;
 - (e) where a bathing prohibition has been introduced for whatever reason (and SEPA has advised the relevant local authority of this) the management measures being undertaken to prevent, reduce, or eliminate the causes of pollution that have led to the prohibition; and
@@ -296,7 +296,7 @@ and the Scottish Ministers must make notification of such publication in the Edi
 
 (2) In deciding the location of any sign or signs in compliance with paragraph (1), a local authority must consult with SEPA.
 
-(3)[^key-42e29e00afb2b5ddbf24e485ea9ed1a7] The sign referred to in paragraph (1) must—
+(3)[^c-42e29e00afb2b5ddbf24e485ea9ed1a7] The sign referred to in paragraph (1) must—
 
 - (a) be designed in such a way as to allow the additional SEPA information referred to in paragraph (5) to be affixed to it or displayed; and
 - (b) indicate the bathing water’s current classification under regulation 10 in the form of the appropriate symbol contained in Part 2 of the Annex to the Commission Decision.
@@ -314,7 +314,7 @@ and the Scottish Ministers must make notification of such publication in the Edi
 
 (7) The obligations in paragraph (6) do not apply in so far as the additional SEPA information is already displayed on a SEPA controlled sign at the bathing water.
 
-(8) SEPA must, in relation to each bathing water, promptly and actively disseminate the following information[^key-35e6132cbed35921cc975d341a834ccd]–
+(8) SEPA must, in relation to each bathing water, promptly and actively disseminate the following information[^c-35e6132cbed35921cc975d341a834ccd]–
 
 - (a) the information referred to in paragraph (1);
 - (b) the information referred to in paragraph (5);
@@ -322,7 +322,7 @@ and the Scottish Ministers must make notification of such publication in the Edi
 - (d) before the start of every bathing season, the bathing water's classification in accordance with regulation 10 over the last 3 years;
 - (e) the current bathing water profile;
 - (f) as soon as possible after the completion of the analysis under Schedule 2, the results of the monitoring carried out in accordance with regulation 7 since the beginning of the current bathing season;
-- (g) where SEPA[^key-bb1347100fb9a2fee71c0ff0b41a83b0] considers that the bathing water is likely to be affected by incidents of short-term pollution, general information on–
+- (g) where SEPA[^c-bb1347100fb9a2fee71c0ff0b41a83b0] considers that the bathing water is likely to be affected by incidents of short-term pollution, general information on–
   - (i) the conditions likely to cause short-term pollution;
   - (ii) the likelihood of short-term pollution and its possible duration; and
   - (iii) the causes of short-term pollution and management measures taken with respect to it; and
@@ -445,19 +445,19 @@ that it has withdrawn its permanent advice against bathing.
 
 (1) This regulation applies where SEPA classifies a bathing water as “poor” under regulation 10.
 
-(2) SEPA must , with effect from the bathing season following the classification,[^key-cb6d6b857c5f7d7b99af0e84d524e7b4]–
+(2) SEPA must , with effect from the bathing season following the classification,[^c-cb6d6b857c5f7d7b99af0e84d524e7b4]–
 
 - (a) advise the Scottish Ministers, the relevant local authority and the relevant owner of the classification; and
-- (b) issue advice against bathing for that bathing water ; and[^key-c2749a6c78fb58a485babf812b6c423c]
+- (b) issue advice against bathing for that bathing water ; and[^c-c2749a6c78fb58a485babf812b6c423c]
 - (c) identify the reasons why the bathing water failed to achieve a classification of “sufficient”
 
 (3) Where a SEPA controlled sign is situated at the bathing water, SEPA must update that sign so that it displays that the bathing water has been classified as “poor”.
 
-(4) Subject to paragraph (5) SEPA must take such action as it considers necessary, whether in relation to the regulation of any controlled activity or under any other functions to ensure that the causes of pollution at the bathing water are prevented, reduced or eliminated[^key-e5679ab8e6fdf4c81f221eb585103eb5].
+(4) Subject to paragraph (5) SEPA must take such action as it considers necessary, whether in relation to the regulation of any controlled activity or under any other functions to ensure that the causes of pollution at the bathing water are prevented, reduced or eliminated[^c-e5679ab8e6fdf4c81f221eb585103eb5].
 
-(5) SEPA will not be bound under paragraph (4) to prevent, reduce or eliminate the causes of pollution at[^key-0e30cc56134316da1696ec630b72c5a7] a bathing water if permanent advice against bathing has been issued under regulation 10(2) with regard to that bathing water.
+(5) SEPA will not be bound under paragraph (4) to prevent, reduce or eliminate the causes of pollution at[^c-0e30cc56134316da1696ec630b72c5a7] a bathing water if permanent advice against bathing has been issued under regulation 10(2) with regard to that bathing water.
 
-### 12. Management measures at bathing waters subject to short-term pollution[^key-4ffd84f3045d7cdd40370082ab2c44d8]
+### 12. Management measures at bathing waters subject to short-term pollution[^c-4ffd84f3045d7cdd40370082ab2c44d8]
 
 Where short-term pollution is predicted or present at a bathing water, SEPA must—
 
@@ -847,7 +847,7 @@ A transposition note and Regulatory Impact Assessment have been prepared in conn
 
 [^c19244561]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by Schedule 8, paragraph 15(3) of the [Scotland Act 1998 (c. 46) and the Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) (“**the 2006 Act**”), section 27(1). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act.
 
-[^key-3f868c070227cd1fd996c077cb2a4438]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/16/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3f868c070227cd1fd996c077cb2a4438]: Textual amendment: Reg. 2 renumbered as reg. 2(1) (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/ssi/2019/26/regulation/16/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19244571]: Marginal citation: O.J. No. L 64, 4.3.2006, p.37.
 
@@ -859,9 +859,9 @@ A transposition note and Regulatory Impact Assessment have been prepared in conn
 
 [^c19244611]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716); relevant amending instruments are [S.S.I. 2004/475](https://www.legislation.gov.uk/ssi/2004/475) and 2007/80.
 
-[^key-e216867fcaf87aae1d2d336ab02ab17d]: Textual amendment: Words in reg. 2 substituted (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [51](https://www.legislation.gov.uk/ssi/2012/88/regulation/51), [53](https://www.legislation.gov.uk/ssi/2012/88/regulation/53), [sch. 7 Pt. B](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/part/B) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8))
+[^c-e216867fcaf87aae1d2d336ab02ab17d]: Textual amendment: Words in reg. 2 substituted (1.5.2012) by [The Public Contracts (Scotland) Regulations 2012 (S.S.I. 2012/88)](https://www.legislation.gov.uk/ssi/2012/88), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2012/88/regulation/1/1), [51](https://www.legislation.gov.uk/ssi/2012/88/regulation/51), [53](https://www.legislation.gov.uk/ssi/2012/88/regulation/53), [sch. 7 Pt. B](https://www.legislation.gov.uk/ssi/2012/88/schedule/7/part/B) (with [regs. 4](https://www.legislation.gov.uk/ssi/2012/88/regulation/4), [5](https://www.legislation.gov.uk/ssi/2012/88/regulation/5), [6](https://www.legislation.gov.uk/ssi/2012/88/regulation/6), [8](https://www.legislation.gov.uk/ssi/2012/88/regulation/8))
 
-[^key-5e95dd2ce268c99ffa23bb758e499dde]: Textual amendment: Words in reg. 2 substituted (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 4(2)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/4/2) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
+[^c-5e95dd2ce268c99ffa23bb758e499dde]: Textual amendment: Words in reg. 2 substituted (18.4.2016) by [The Public Contracts (Scotland) Regulations 2015 (S.S.I. 2015/446)](https://www.legislation.gov.uk/ssi/2015/446), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/446/regulation/1/2), [sch. 6 para. 4(2)](https://www.legislation.gov.uk/ssi/2015/446/schedule/6/paragraph/4/2) (with [regs. 3-18](https://www.legislation.gov.uk/ssi/2015/446/regulation/3), [99-101](https://www.legislation.gov.uk/ssi/2015/446/regulation/99))
 
 [^c19244631]: Marginal citation: [2005 asp 3](https://www.legislation.gov.uk/asp/2005/3).
 
@@ -871,15 +871,15 @@ A transposition note and Regulatory Impact Assessment have been prepared in conn
 
 [^c19244661]: Marginal citation: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
-[^key-9c870abd5c3c1b2d626455d63eb63dce]: Textual amendment: Words in reg. 2 substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/2)
+[^c-9c870abd5c3c1b2d626455d63eb63dce]: Textual amendment: Words in reg. 2 substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/2)
 
 [^c19244671]: Marginal citation: [2004 asp 6](https://www.legislation.gov.uk/asp/2004/6).
 
-[^key-0f7ec5973de9e127169ec5bbdd7dcdce]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2008/170/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2008/170/regulation/2/3) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/16/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0f7ec5973de9e127169ec5bbdd7dcdce]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/ssi/2008/170/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2008/170/regulation/2/3) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/ssi/2019/26/regulation/16/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4069b1f2145533216d03802d866a7040]: Textual amendment: [Reg. 4(5)-(9)](https://www.legislation.gov.uk/ssi/2008/170/regulation/4/5) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [16(3)](https://www.legislation.gov.uk/ssi/2019/26/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4069b1f2145533216d03802d866a7040]: Textual amendment: [Reg. 4(5)-(9)](https://www.legislation.gov.uk/ssi/2008/170/regulation/4/5) inserted (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) Regulations 2019 (S.S.I. 2019/26)](https://www.legislation.gov.uk/ssi/2019/26), [regs. 1](https://www.legislation.gov.uk/ssi/2019/26/regulation/1), [16(3)](https://www.legislation.gov.uk/ssi/2019/26/regulation/16/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5960e7d11d8ad007105dbd70b618ec6c]: Textual amendment: Word in [reg. 4(9)(a)](https://www.legislation.gov.uk/ssi/2008/170/regulation/4/9/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/11)
+[^c-5960e7d11d8ad007105dbd70b618ec6c]: Textual amendment: Word in [reg. 4(9)(a)](https://www.legislation.gov.uk/ssi/2008/170/regulation/4/9/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 11](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/11)
 
 [^c19244681]: Marginal citation: [S.I](https://www.legislation.gov.uk/ssi/2008/170/section/I) 1991/1609.
 
@@ -889,27 +889,27 @@ A transposition note and Regulatory Impact Assessment have been prepared in conn
 
 [^c19244711]: Marginal citation: [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99); as amended by [S.I. 2005/2035](https://www.legislation.gov.uk/uksi/2005/2035).
 
-[^key-b52bcb24d5648b0218b6689fa9785694]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/1) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/a)
+[^c-b52bcb24d5648b0218b6689fa9785694]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/1) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/a)
 
-[^key-9cd4c4ae0c39042fa2af778c4456b15a]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/1/b) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/b)
+[^c-9cd4c4ae0c39042fa2af778c4456b15a]: Textual amendment: [Reg. 8(1)(b)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/1/b) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/b)
 
-[^key-3369af9508f6a0f0bd1710ceefcf0534]: Textual amendment: Words in [reg. 8(1)(d)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/1/d) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/c)
+[^c-3369af9508f6a0f0bd1710ceefcf0534]: Textual amendment: Words in [reg. 8(1)(d)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/1/d) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/c)
 
-[^key-42e29e00afb2b5ddbf24e485ea9ed1a7]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/3) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/d)
+[^c-42e29e00afb2b5ddbf24e485ea9ed1a7]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/3) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/d)
 
-[^key-35e6132cbed35921cc975d341a834ccd]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/8) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/e)
+[^c-35e6132cbed35921cc975d341a834ccd]: Textual amendment: Words in [reg. 8(8)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/8) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(e)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/e)
 
-[^key-bb1347100fb9a2fee71c0ff0b41a83b0]: Textual amendment: Words in [reg. 8(8)(g)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/8/g) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/f)
+[^c-bb1347100fb9a2fee71c0ff0b41a83b0]: Textual amendment: Words in [reg. 8(8)(g)](https://www.legislation.gov.uk/ssi/2008/170/regulation/8/8/g) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(3)(f)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/3/f)
 
-[^key-cb6d6b857c5f7d7b99af0e84d524e7b4]: Textual amendment: Words in reg. 11(2) inserted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/a)
+[^c-cb6d6b857c5f7d7b99af0e84d524e7b4]: Textual amendment: Words in reg. 11(2) inserted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/a)
 
-[^key-c2749a6c78fb58a485babf812b6c423c]: Textual amendment: Reg. 11(2)(c) and word inserted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/b)
+[^c-c2749a6c78fb58a485babf812b6c423c]: Textual amendment: Reg. 11(2)(c) and word inserted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/b)
 
-[^key-e5679ab8e6fdf4c81f221eb585103eb5]: Textual amendment: Words in reg. 11(4) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/c)
+[^c-e5679ab8e6fdf4c81f221eb585103eb5]: Textual amendment: Words in reg. 11(4) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(c)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/c)
 
-[^key-0e30cc56134316da1696ec630b72c5a7]: Textual amendment: Words in reg. 11(5) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/d)
+[^c-0e30cc56134316da1696ec630b72c5a7]: Textual amendment: Words in reg. 11(5) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(4)(d)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/4/d)
 
-[^key-4ffd84f3045d7cdd40370082ab2c44d8]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2008/170/regulation/12) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/5)
+[^c-4ffd84f3045d7cdd40370082ab2c44d8]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2008/170/regulation/12) substituted (2.10.2012) by [The Bathing Waters (Scotland) Amendment Regulations 2012 (S.S.I. 2012/243)](https://www.legislation.gov.uk/ssi/2012/243), [regs. 1](https://www.legislation.gov.uk/ssi/2012/243/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2012/243/regulation/2/5)
 
 [^c19244721]: Marginal citation: [S.S.I. 2005/348](https://www.legislation.gov.uk/ssi/2005/348).
 

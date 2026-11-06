@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Sixth form funding[^key-6c9eddf0bf72d965fed6fe3b1129ff11]
+## 30. Sixth form funding[^c-6c9eddf0bf72d965fed6fe3b1129ff11]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c9eddf0bf72d965fed6fe3b1129ff11]: Commencement: Reg. 30 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-6c9eddf0bf72d965fed6fe3b1129ff11]: Commencement: Reg. 30 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

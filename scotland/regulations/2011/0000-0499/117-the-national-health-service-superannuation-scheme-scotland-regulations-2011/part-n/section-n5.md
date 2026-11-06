@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## N5. Transfers in respect of members to whom regulation B6 applies who elect to join or rejoin this Section of the scheme after opting out[^key-ccc82d095160bbf57a08857bebdc1b8e]
+## N5. Transfers in respect of members to whom regulation B6 applies who elect to join or rejoin this Section of the scheme after opting out[^c-ccc82d095160bbf57a08857bebdc1b8e]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccc82d095160bbf57a08857bebdc1b8e]: Textual amendment: Words in reg. N5 heading substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2013/109/regulation/17) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))
+[^c-ccc82d095160bbf57a08857bebdc1b8e]: Textual amendment: Words in reg. N5 heading substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2013 (S.S.I. 2013/109)](https://www.legislation.gov.uk/ssi/2013/109), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2013/109/regulation/1/2), [17](https://www.legislation.gov.uk/ssi/2013/109/regulation/17) (with [reg. 71](https://www.legislation.gov.uk/ssi/2013/109/regulation/71))

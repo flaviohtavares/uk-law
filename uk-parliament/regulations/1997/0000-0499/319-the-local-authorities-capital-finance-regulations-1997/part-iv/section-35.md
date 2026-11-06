@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Leases having an initial cost which includes consideration under earlier lease[^key-3be0ad57a198004c7e4d85ddb7fea53d]
+## 35. Leases having an initial cost which includes consideration under earlier lease[^c-3be0ad57a198004c7e4d85ddb7fea53d]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ the initial cost shall be the aggregate of the capital cost of the relevant leas
 
 ## Annotations
 
-[^key-3be0ad57a198004c7e4d85ddb7fea53d]: Commencement: Reg. 35 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-3be0ad57a198004c7e4d85ddb7fea53d]: Commencement: Reg. 35 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00037]: Footnote: Paragraph 4 was substituted as from 20th January 1997 by paragraph 3 of Schedule 17 to the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52).
 

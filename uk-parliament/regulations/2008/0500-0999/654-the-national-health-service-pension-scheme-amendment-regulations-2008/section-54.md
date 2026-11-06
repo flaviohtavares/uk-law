@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Amendment of regulation R5[^key-585c28a481adc5cab3d84fdac27f8ce3]
+## 54. Amendment of regulation R5[^c-585c28a481adc5cab3d84fdac27f8ce3]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ For paragraph (6) of regulation R5 (part-time employment) substitute—
 
 ## Annotations
 
-[^key-585c28a481adc5cab3d84fdac27f8ce3]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-585c28a481adc5cab3d84fdac27f8ce3]: Commencement: Reg. 54 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

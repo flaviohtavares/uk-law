@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — Restrictions on persons taking part in proceedings of the governing body or its committees[^key-58009605ba4ade192104655c676665e0]
+## SCHEDULE 10 — Restrictions on persons taking part in proceedings of the governing body or its committees[^c-58009605ba4ade192104655c676665e0]
 
 *Extent: E+W*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 72
 
-### 1. Pecuniary interests[^key-58009605ba4ade192104655c676665e0]
+### 1. Pecuniary interests[^c-58009605ba4ade192104655c676665e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Office of governor, chair, vice-chair or clerk[^key-58009605ba4ade192104655c676665e0]
+### 2. Office of governor, chair, vice-chair or clerk[^c-58009605ba4ade192104655c676665e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Pay or appraisal of persons working at the school[^key-58009605ba4ade192104655c676665e0]
+### 3. Pay or appraisal of persons working at the school[^c-58009605ba4ade192104655c676665e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Appointment of staff[^key-58009605ba4ade192104655c676665e0]
+### 4. Appointment of staff[^c-58009605ba4ade192104655c676665e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Persons who are members of more than one governing body[^key-58009605ba4ade192104655c676665e0]
+### 5. Persons who are members of more than one governing body[^c-58009605ba4ade192104655c676665e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-58009605ba4ade192104655c676665e0]: Textual amendment: [Schs. 1-10](https://www.legislation.gov.uk/wsi/2010/638/schedule/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))
+[^c-58009605ba4ade192104655c676665e0]: Textual amendment: [Schs. 1-10](https://www.legislation.gov.uk/wsi/2010/638/schedule/1) revoked (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [2(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/1) (with [reg. 2(3)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/2/3))

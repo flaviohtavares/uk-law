@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Earnings of employed earners[^key-187ef9a6b450d34d053b93f52441c84c]
+## 25. Earnings of employed earners[^c-187ef9a6b450d34d053b93f52441c84c]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-187ef9a6b450d34d053b93f52441c84c]: Commencement: Reg. 25 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-187ef9a6b450d34d053b93f52441c84c]: Commencement: Reg. 25 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00068]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 146(4) was amended by paragraph 10 of Schedule 1 to the Employment Rights (Dispute Resolution) (Northern Ireland) Order 1998 ([S.I. 1998/1256 (N.I. 8)](https://www.legislation.gov.uk/nisi/1998/1256)) and paragraph 11 of Schedule 9 to the Employment Relations (Northern Ireland) Order 1999 ([S.I. 1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790))
 

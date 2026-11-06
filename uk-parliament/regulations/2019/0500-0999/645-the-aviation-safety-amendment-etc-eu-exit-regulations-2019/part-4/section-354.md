@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 354. Amendment of Subpart GEN of Annex 2 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^key-864b96a8d5b748e1ca794f6da489a54d]
+## 354. Amendment of Subpart GEN of Annex 2 to [Commission Regulation (EU) No 965/2012](https://www.legislation.gov.uk/eur/2012/0965)[^c-864b96a8d5b748e1ca794f6da489a54d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) In point ARO.GEN.120—
 
 - (a) in point (a), for “Agency” substitute “CAA”;
-- (b) in point (c), in both places where the words occur,[^key-9613c919873f227a7af6efa667994f6b] for “competent authority” substitute “CAA”;
+- (b) in point (c), in both places where the words occur,[^c-9613c919873f227a7af6efa667994f6b] for “competent authority” substitute “CAA”;
 - (c) in point (d)—
   - (i) in both places it occurs, for “competent authority” substitute “CAA”;
   - (ii) at the end of point (1), omit “and”;
@@ -108,6 +108,6 @@ summary: ''
 
 ## Annotations
 
-[^key-864b96a8d5b748e1ca794f6da489a54d]: Commencement: Reg. 354 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-864b96a8d5b748e1ca794f6da489a54d]: Commencement: Reg. 354 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-9613c919873f227a7af6efa667994f6b]: Textual amendment: Words in reg. 354(3)(b) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [42](https://www.legislation.gov.uk/uksi/2020/1116/regulation/42)
+[^c-9613c919873f227a7af6efa667994f6b]: Textual amendment: Words in reg. 354(3)(b) inserted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [42](https://www.legislation.gov.uk/uksi/2020/1116/regulation/42)

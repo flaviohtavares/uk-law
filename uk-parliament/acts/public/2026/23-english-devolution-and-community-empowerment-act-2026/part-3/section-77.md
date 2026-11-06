@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Suspension under section 76[^key-996b7e658e18113be9f17646ecbe92d8]
+## 77. Suspension under section 76[^c-996b7e658e18113be9f17646ecbe92d8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-996b7e658e18113be9f17646ecbe92d8]: Commencement: S. 77 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-996b7e658e18113be9f17646ecbe92d8]: Commencement: S. 77 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

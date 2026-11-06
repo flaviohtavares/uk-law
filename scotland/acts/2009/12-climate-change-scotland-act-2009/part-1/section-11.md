@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. The baseline[^key-f31e92979133f0a7f1eaeb742d410b25]
+## 11. The baseline[^c-f31e92979133f0a7f1eaeb742d410b25]
 
 *Extent: S*
 
@@ -32,10 +32,10 @@ summary: ''
 - (c) for hydrofluorocarbons, 1995;
 - (d) for perfluorocarbons, 1995;
 - (e) for sulphur hexafluoride, 1995.
-- (f)[^key-a2c6c8c14c19d3f32d8d222fb8d2c32a] for nitrogen trifluoride, 1995.
+- (f)[^c-a2c6c8c14c19d3f32d8d222fb8d2c32a] for nitrogen trifluoride, 1995.
 
 ## Annotations
 
-[^key-f31e92979133f0a7f1eaeb742d410b25]: Commencement: S. 11 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-f31e92979133f0a7f1eaeb742d410b25]: Commencement: S. 11 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-a2c6c8c14c19d3f32d8d222fb8d2c32a]: Textual amendment: S. 11(2)(f) inserted (16.5.2015) by [The Climate Change (Additional Greenhouse Gas) (Scotland) Order 2015 (S.S.I. 2015/197)](https://www.legislation.gov.uk/ssi/2015/197), [arts. 1](https://www.legislation.gov.uk/ssi/2015/197/article/1), [3](https://www.legislation.gov.uk/ssi/2015/197/article/3)
+[^c-a2c6c8c14c19d3f32d8d222fb8d2c32a]: Textual amendment: S. 11(2)(f) inserted (16.5.2015) by [The Climate Change (Additional Greenhouse Gas) (Scotland) Order 2015 (S.S.I. 2015/197)](https://www.legislation.gov.uk/ssi/2015/197), [arts. 1](https://www.legislation.gov.uk/ssi/2015/197/article/1), [3](https://www.legislation.gov.uk/ssi/2015/197/article/3)

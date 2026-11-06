@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 70 and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-58b18381d1ebc2e0bd1e2af10612c656]
+## 1. Citation and commencement[^c-58b18381d1ebc2e0bd1e2af10612c656]
 
 These Regulations may be cited as the Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 25th November 1996.
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-52d72fb0f69088c56728b2b32707e48e]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-52d72fb0f69088c56728b2b32707e48e]
 
 (1) The Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00002] shall be amended in accordance with paragraphs (2) to (10) of this regulation.
 
@@ -77,11 +77,11 @@ These Regulations may be cited as the Social Security (Invalid Care Allowance) (
 
 (10) In regulation 11 (invalid care allowance for persons over the age of 65) for “section 37(1)(*a*) or (*b*) of the Act” there shall be substituted “section 70(1)(a) or (b) of the Contributions and Benefits Act”.
 
-## 3. Saving[^key-12f5f9275af0af71f7c96f5b9dad9adf]
+## 3. Saving[^c-12f5f9275af0af71f7c96f5b9dad9adf]
 
 In a case where regulation 8(2)(*c*) of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976 applied immediately before 25th November 1996, that regulation shall continue to apply in respect of any continuous period throughout which a person is entitled to an invalid care allowance in respect of a severely disabled person and which began on a date before 25th November 1996, as if regulation 2(7)(*b*) of these Regulations had not been made.
 
-## 4. Revocation[^key-9396e0ef4c7d60f4e18733bbaf9a9d7b]
+## 4. Revocation[^c-9396e0ef4c7d60f4e18733bbaf9a9d7b]
 
 Regulation 5(2) of the Social Security (Severe Disablement Allowance and Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 1994[^f00005] is hereby revoked.
 
@@ -107,9 +107,9 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 70 was amended by [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370)
 
-[^key-58b18381d1ebc2e0bd1e2af10612c656]: Commencement: Reg. 1 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
+[^c-58b18381d1ebc2e0bd1e2af10612c656]: Commencement: Reg. 1 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
 
-[^key-52d72fb0f69088c56728b2b32707e48e]: Commencement: Reg. 2 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
+[^c-52d72fb0f69088c56728b2b32707e48e]: Commencement: Reg. 2 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
 
 [^f00002]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); relevant amending regulations are [S.R. 1981 No. 142](https://www.legislation.gov.uk/nisr/1981/142), [S.R. 1992 No. 95](https://www.legislation.gov.uk/nisr/1992/95), [S.R. 1993 No. 72](https://www.legislation.gov.uk/nisr/1993/72), [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370), [S.R. 1995 No. 429](https://www.legislation.gov.uk/nisr/1995/429) and [S.R. 1996 No. 11](https://www.legislation.gov.uk/nisr/1996/11)
 
@@ -117,8 +117,8 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00004]: Footnote: Regulation 6 was substituted by regulation 2 of [S.R. 1981 No. 142](https://www.legislation.gov.uk/nisr/1981/142)
 
-[^key-12f5f9275af0af71f7c96f5b9dad9adf]: Commencement: Reg. 3 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
+[^c-12f5f9275af0af71f7c96f5b9dad9adf]: Commencement: Reg. 3 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
 
-[^key-9396e0ef4c7d60f4e18733bbaf9a9d7b]: Commencement: Reg. 4 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
+[^c-9396e0ef4c7d60f4e18733bbaf9a9d7b]: Commencement: Reg. 4 in operation at 25.11.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/521/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1994 No. 370](https://www.legislation.gov.uk/nisr/1994/370)

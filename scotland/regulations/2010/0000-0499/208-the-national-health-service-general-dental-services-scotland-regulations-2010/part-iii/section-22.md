@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Statement of Dental Remuneration[^key-4dfdf2d46ee0f1503b064ca9425d51dc]
+## 22. Statement of Dental Remuneration[^c-4dfdf2d46ee0f1503b064ca9425d51dc]
 
 *Extent: S*
 
@@ -63,7 +63,7 @@ TABLE
 </tbody>
 </table>
 
-[^key-154b8deb55aad14c75844ef3fdf4ea7e][^key-154b8deb55aad14c75844ef3fdf4ea7e][^key-2ab453253377416532331d5aca419555][^key-bc573be52acd6ad6a3bbec2d512fe66d]
+[^c-154b8deb55aad14c75844ef3fdf4ea7e][^c-154b8deb55aad14c75844ef3fdf4ea7e][^c-2ab453253377416532331d5aca419555][^c-bc573be52acd6ad6a3bbec2d512fe66d]
 
 (2) The Scottish Ministers shall publish the determinations in a statement called the Statement of Dental Remuneration.
 
@@ -73,10 +73,10 @@ TABLE
 
 ## Annotations
 
-[^key-4dfdf2d46ee0f1503b064ca9425d51dc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2010/208/regulation/22) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-4dfdf2d46ee0f1503b064ca9425d51dc]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2010/208/regulation/22) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
-[^key-154b8deb55aad14c75844ef3fdf4ea7e]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2010/208/regulation/22) table omitted (1.11.2023) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2023/247/regulation/8) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
+[^c-154b8deb55aad14c75844ef3fdf4ea7e]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/ssi/2010/208/regulation/22) table omitted (1.11.2023) by virtue of [The National Health Service (General Dental Services) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/247)](https://www.legislation.gov.uk/ssi/2023/247), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/247/regulation/1/1), [8](https://www.legislation.gov.uk/ssi/2023/247/regulation/8) (with [regs. 16](https://www.legislation.gov.uk/ssi/2023/247/regulation/16), [17](https://www.legislation.gov.uk/ssi/2023/247/regulation/17))
 
-[^key-2ab453253377416532331d5aca419555]: Textual amendment: Words in reg. 22(1) table substituted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2017/289/regulation/5) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
+[^c-2ab453253377416532331d5aca419555]: Textual amendment: Words in reg. 22(1) table substituted (26.10.2017) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/289)](https://www.legislation.gov.uk/ssi/2017/289), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/289/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2017/289/regulation/5) (with [reg. 14](https://www.legislation.gov.uk/ssi/2017/289/regulation/14))
 
-[^key-bc573be52acd6ad6a3bbec2d512fe66d]: Textual amendment: Words in reg. 22(1) table inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [16](https://www.legislation.gov.uk/ssi/2019/174/regulation/16)
+[^c-bc573be52acd6ad6a3bbec2d512fe66d]: Textual amendment: Words in reg. 22(1) table inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [16](https://www.legislation.gov.uk/ssi/2019/174/regulation/16)

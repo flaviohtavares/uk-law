@@ -50,7 +50,7 @@ The Secretary of State has consulted the Building Regulations Advisory Committee
 
 The Secretary of State makes the following Regulations, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by sections 1, 1A, 3, 8(6), 34, 35 and 126 of, and paragraphs 7, 8, 9 and 10 of Schedule 1 to, the Building Act 1984.
 
-## 1. Citation, application and commencement[^key-5e9331cc68dd1e64bc781077fc149ea9]
+## 1. Citation, application and commencement[^c-5e9331cc68dd1e64bc781077fc149ea9]
 
 (1) These Regulations may be cited as the Building (Amendment) Regulations 2016.
 
@@ -60,7 +60,7 @@ The Secretary of State makes the following Regulations, in exercise of the power
 
 (4) These Regulations come into force on 9th May 2016.
 
-## 2. Amendments to the Building Regulations 2010[^key-d84f4381af7727a61d517a4f957f19e2]
+## 2. Amendments to the Building Regulations 2010[^c-d84f4381af7727a61d517a4f957f19e2]
 
 (1) The Building Regulations 2010[^f00005] are amended in accordance with the following paragraphs.
 
@@ -151,7 +151,7 @@ The Secretary of State makes the following Regulations, in exercise of the power
 > </tbody>
 > </table>
 
-## 3. Transitional provision[^key-d8f2c77b23d609824b55171632f0b7f0]
+## 3. Transitional provision[^c-d8f2c77b23d609824b55171632f0b7f0]
 
 The amendments made by regulation 2(2), (3), (4) and (6) shall not apply to building work in respect of which a building notice, an initial notice, or a plans certificate has been given to, or full plans deposited with, a local authority before 1st January 2017.
 
@@ -193,14 +193,14 @@ An impact assessment is available with the explanatory memorandum for these Regu
 
 [^f00003]: Footnote: [1984 c.55](https://www.legislation.gov.uk/ukpga/1984/55). Section 1 was amended by section 1(1) to (3) and section 1A inserted by section 2 of the Sustainable and Secure Buildings Act 2004. Section 14(3) was amended by Article 8(1) and (3) of [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019). Section 126 is cited for the definition “prescribed”. There are other amendments but none is relevant to this instrument.
 
-[^key-5e9331cc68dd1e64bc781077fc149ea9]: Commencement: Reg. 1 in force at 9.5.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4)
+[^c-5e9331cc68dd1e64bc781077fc149ea9]: Commencement: Reg. 1 in force at 9.5.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4)
 
 [^f00004]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-d84f4381af7727a61d517a4f957f19e2]: Commencement: Reg. 2 in force at 9.5.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4)
+[^c-d84f4381af7727a61d517a4f957f19e2]: Commencement: Reg. 2 in force at 9.5.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4)
 
 [^f00005]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended by [S.I. 2011/1515](https://www.legislation.gov.uk/uksi/2011/1515), [S.I. 2011/3058](https://www.legislation.gov.uk/uksi/2011/3058), [S.I. 2012/809](https://www.legislation.gov.uk/uksi/2012/809), [S.I. 2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10), [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [S.I. 2013/1105](https://www.legislation.gov.uk/uksi/2013/1105), [S.I. 2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579), [S.I. 2015/767](https://www.legislation.gov.uk/uksi/2015/767), and [S.I. 2016/285](https://www.legislation.gov.uk/uksi/2016/285).
 
 [^f00006]: Footnote: OJ No L 155, 23.5.2014, p. 1.
 
-[^key-d8f2c77b23d609824b55171632f0b7f0]: Commencement: Reg. 3 in force at 9.5.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4)
+[^c-d8f2c77b23d609824b55171632f0b7f0]: Commencement: Reg. 3 in force at 9.5.2016, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4)

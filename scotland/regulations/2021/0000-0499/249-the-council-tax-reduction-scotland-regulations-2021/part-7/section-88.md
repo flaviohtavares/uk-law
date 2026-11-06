@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Extended council tax reduction (qualifying contributory benefits: movers)[^key-379ef869586ce0ebd63547439441935a]
+## 88. Extended council tax reduction (qualifying contributory benefits: movers)[^c-379ef869586ce0ebd63547439441935a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-379ef869586ce0ebd63547439441935a]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2021/249/regulation/88) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-379ef869586ce0ebd63547439441935a]: Commencement: [Reg. 88](https://www.legislation.gov.uk/ssi/2021/249/regulation/88) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

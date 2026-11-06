@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Obstetric Committee[^key-8f6b87da7be8efffc5d09029ee071f99]
+## 29. Obstetric Committee[^c-8f6b87da7be8efffc5d09029ee071f99]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f6b87da7be8efffc5d09029ee071f99]: Commencement: Reg. 29 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-8f6b87da7be8efffc5d09029ee071f99]: Commencement: Reg. 29 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

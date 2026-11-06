@@ -22,19 +22,19 @@ summary: ''
 
 Section 1
 
-**1.**[^key-229f671a210b6365b72edecb6e5542b3][^key-4ad35af81271ca43a80fd6e817d53991][^key-54d67c23a12222e6ee36c69352e250fc][^key-8d8f93e19ed55d4c575814a7d412765a][^key-b30f6b4506cc3f879c11b17704a337d3] The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
+**1.**[^c-229f671a210b6365b72edecb6e5542b3][^c-4ad35af81271ca43a80fd6e817d53991][^c-54d67c23a12222e6ee36c69352e250fc][^c-8d8f93e19ed55d4c575814a7d412765a][^c-b30f6b4506cc3f879c11b17704a337d3] The Apprenticeships, Skills, Children and Learning Act 2009 is amended as follows.
 
-**2.**[^key-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-162f71b5deaccff54ac3859c59db39a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-13b1f814ba971b12e3a53133c0b1ce4d] In the heading for Chapter A1, after “Apprenticeships” insert “ and technical education ”.
+**6.**[^c-13b1f814ba971b12e3a53133c0b1ce4d] In the heading for Chapter A1, after “Apprenticeships” insert “ and technical education ”.
 
-**7.**[^key-963a465c07215604858c8822fae8ae96] In Chapter A1, before section A1 (and the italic heading before it) substitute—
+**7.**[^c-963a465c07215604858c8822fae8ae96] In Chapter A1, before section A1 (and the italic heading before it) substitute—
 
 > **Occupational categories and groups**
 >
@@ -96,9 +96,9 @@ Section 1
 >
 > (10) Where a standard is published, the Institute must publish, with the information published under section ZA10(5) in relation to the occupation, information indicating that there is a standard for the occupation.
 
-**8.**[^key-c99a9bba9cb2760f9ac7b2a5cad3460b] For the italic heading before section A1 substitute “ Meaning of “approved English apprenticeship” etc ”.
+**8.**[^c-c99a9bba9cb2760f9ac7b2a5cad3460b] For the italic heading before section A1 substitute “ Meaning of “approved English apprenticeship” etc ”.
 
-**9.**[^key-23f3492e1ee074c482f55f59fb1b42e8] In section A1 (meaning of “approved English apprenticeship”)—
+**9.**[^c-23f3492e1ee074c482f55f59fb1b42e8] In section A1 (meaning of “approved English apprenticeship”)—
 
 - (a) in subsection (3)(a)—
   - (i) for “a sector for which an approved apprenticeship” substitute “ an occupation for which a ”;
@@ -109,9 +109,9 @@ Section 1
   - (iii) subsection (7), in the first place it occurs;
 - (c) in subsection (7), for “A2” substitute “ ZA11 ”.
 
-**10.**[^key-0b117cea1031e05d4bc9289ab5a6656c] For the italic heading before section A2 substitute “ Apprenticeship assessment plans ”.
+**10.**[^c-0b117cea1031e05d4bc9289ab5a6656c] For the italic heading before section A2 substitute “ Apprenticeship assessment plans ”.
 
-**11.**[^key-b6970ae7423111faa1bf0fd35bc105e2] (1) Section A2 (apprenticeship standards and assessment plans) is amended as follows.
+**11.**[^c-b6970ae7423111faa1bf0fd35bc105e2] (1) Section A2 (apprenticeship standards and assessment plans) is amended as follows.
 
 (2) For the heading, substitute “ Apprenticeship assessment plans ”.
 
@@ -152,19 +152,19 @@ Section 1
 >
 > (13) Where an apprenticeship assessment plan is published, the Institute must publish, with the information published under section ZA10(5) in relation to the occupation, information indicating that there is an apprenticeship assessment plan in respect of the standard for the occupation.
 
-**12.**[^key-5268589cef1230b674fafa674ab1b838] Omit section A2A (preparation of apprenticeship standards and plans).
+**12.**[^c-5268589cef1230b674fafa674ab1b838] Omit section A2A (preparation of apprenticeship standards and plans).
 
-**13.**[^key-2ae3f55e0b37f6586d9c52b29cce27a4] In the italic heading before section A2B, at the end insert “ of apprenticeship assessments etc ”.
+**13.**[^c-2ae3f55e0b37f6586d9c52b29cce27a4] In the italic heading before section A2B, at the end insert “ of apprenticeship assessments etc ”.
 
-**14.**[^key-f99c87435a903b360959c52f0974f989] (1) Section A2B (evaluation of quality of apprenticeship assessments) is amended as follows.
+**14.**[^c-f99c87435a903b360959c52f0974f989] (1) Section A2B (evaluation of quality of apprenticeship assessments) is amended as follows.
 
 (2) In subsection (2), after “to which the” insert “ apprenticeship ”.
 
 (3) In subsection (3), after “may” insert “ carry out evaluations or ”.
 
-(4)[^key-ac2322ef105f8ed0e9d4c83500de554d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ac2322ef105f8ed0e9d4c83500de554d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-883a1ad74be6c4ac610afd08f93b59e3] After section A2D insert—
+**15.**[^c-883a1ad74be6c4ac610afd08f93b59e3] After section A2D insert—
 
 > **Technical education qualifications**
 >
@@ -221,11 +221,11 @@ Section 1
 >
 > The Secretary of State may give the Institute a direction in connection with the exercise by the Institute of any function under or for the purposes of section A2DA or A2DB.
 
-**16.**[^key-345419794ab15f1a66009c17709a36a9] For the italic heading before section A2E substitute “ Other provision relating to approved English apprenticeships and technical education ”.
+**16.**[^c-345419794ab15f1a66009c17709a36a9] For the italic heading before section A2E substitute “ Other provision relating to approved English apprenticeships and technical education ”.
 
-**17.**[^key-1e7ca4829831d9a5153dceaeadb42d41] In section A2E (regular reviews of published standards and assessment plans), in subsections (1) and (2) after “standard or” insert “ apprenticeship ”.
+**17.**[^c-1e7ca4829831d9a5153dceaeadb42d41] In section A2E (regular reviews of published standards and assessment plans), in subsections (1) and (2) after “standard or” insert “ apprenticeship ”.
 
-**18.**[^key-8bc7f84cbaf51c2e3b7b46fc3566e275] (1) Section A2F (revision or withdrawal of published standards and assessment plans) is amended as follows.
+**18.**[^c-8bc7f84cbaf51c2e3b7b46fc3566e275] (1) Section A2F (revision or withdrawal of published standards and assessment plans) is amended as follows.
 
 (2) In subsection (1), in paragraphs (a) and (b), after “standard or” insert “ apprenticeship ”.
 
@@ -235,14 +235,14 @@ Section 1
 >
 > (3) Subsections (6) to (12) of section A2 apply in relation to a revised version of an apprenticeship assessment plan published under this section as they do in relation to an apprenticeship assessment plan published under that section.
 
-**19.**[^key-a516c9fc80584e3f82177decea8be5df] Omit the italic heading before section A2G.
+**19.**[^c-a516c9fc80584e3f82177decea8be5df] Omit the italic heading before section A2G.
 
-**20.**[^key-9afa4841c237ef5de48dd451bba23ad3] In section A2G—
+**20.**[^c-9afa4841c237ef5de48dd451bba23ad3] In section A2G—
 
 - (a) after “standard or”, in each place it occurs, insert “ apprenticeship ”;
 - (b) in subsection (1) (examinations by independent third parties), for “A2A(1)” substitute “ ZA11(3) or section A2(6) ”.
 
-**21.**[^key-859e7c1b0361b76d4cf45375aaf3a81e] After section A2H insert—
+**21.**[^c-859e7c1b0361b76d4cf45375aaf3a81e] After section A2H insert—
 
 > **A2HA. List of technical education qualifications**
 >
@@ -255,7 +255,7 @@ Section 1
 >
 > (3) The Institute must ensure that the list is available free of charge.
 
-**22.**[^key-b3e9f2ac62fa452863df280f938d9a58] (1) Section A2I (transfer of copyright in standards and assessment plans) is amended as follows.
+**22.**[^c-b3e9f2ac62fa452863df280f938d9a58] (1) Section A2I (transfer of copyright in standards and assessment plans) is amended as follows.
 
 (2) In subsection (1), for paragraph (a) substitute—
 
@@ -265,7 +265,7 @@ Section 1
 
 (3) In subsection (3), after “standard or” insert “ apprenticeship ”.
 
-**23.**[^key-9a1be51cf4a2a2972a36db06da257630] After section A2I insert—
+**23.**[^c-9a1be51cf4a2a2972a36db06da257630] After section A2I insert—
 
 > **A2IA. Transfer of copyright relating to technical education qualifications**
 >
@@ -277,7 +277,7 @@ Section 1
 >
 > (4) In this section “**relevant course document**” means a document in relation to which the Institute has made a determination under section A2DA(4)(a).
 
-**24.**[^key-74c0f243a23424e49858323aba9835ec] After section A3 insert—
+**24.**[^c-74c0f243a23424e49858323aba9835ec] After section A3 insert—
 
 > **A3A. Power to issue technical education certificate**
 >
@@ -292,11 +292,11 @@ Section 1
 > - (b) about the supply by the Secretary of State of copies of technical education certificates to persons to whom they were issued;
 > - (c) authorising the Secretary of State (subject to any restrictions prescribed by the regulations) to charge a fee for issuing a technical education certificate or supplying a copy.
 
-**25.**[^key-18376388f5600dde9f52b8f38ec1534b] Part 1A (apprenticeships: information sharing) is amended as follows.
+**25.**[^c-18376388f5600dde9f52b8f38ec1534b] Part 1A (apprenticeships: information sharing) is amended as follows.
 
-**26.**[^key-ce5e17f5f6b59609e2ecf5f361f97b9f] In the Part heading, after “Apprenticeships” insert “ and other education and training ”.
+**26.**[^c-ce5e17f5f6b59609e2ecf5f361f97b9f] In the Part heading, after “Apprenticeships” insert “ and other education and training ”.
 
-**27.**[^key-875014a88cb0ffb8e92e9500a6899837] After section 40A insert—
+**27.**[^c-875014a88cb0ffb8e92e9500a6899837] After section 40A insert—
 
 > **40AA. Sharing of information by or with the Institute**
 >
@@ -331,20 +331,20 @@ Section 1
 >
 > (7) Regulations under this section prescribing functions of a person may prescribe all of the person's functions.
 
-**28.**[^key-978e9fefa3cc183c1caf9b393e7da51e] In section 40D(3) (interpretation of Part 1A)—
+**28.**[^c-978e9fefa3cc183c1caf9b393e7da51e] In section 40D(3) (interpretation of Part 1A)—
 
 - (a) the words from “affects” to the end become paragraph (a);
 - (b) after that paragraph insert—
 
   > - (b) authorises the disclosure of any information in contravention of any provision made by or under any Act which prevents disclosure of the information.
 
-**29.**[^key-f9956d03d53ebf0db89b04102fec73eb] (1) Section 100 (funding) is amended as follows.
+**29.**[^c-f9956d03d53ebf0db89b04102fec73eb] (1) Section 100 (funding) is amended as follows.
 
 (2) After subsection (1A) insert—
 
 > (1B) The Secretary of State may secure the provision of financial resources to any person under this subsection (whether or not the resources could be secured under subsection (1)) in connection with approved technical education qualifications or approved steps towards occupational competence.
 
-(3)[^key-ff148e96569808435d3d33620a8dd631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ff148e96569808435d3d33620a8dd631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (5), for “this section” substitute
 
@@ -356,7 +356,7 @@ Section 1
 
 .
 
-**30.**[^key-75f69be3cebcfb00cbfba99cd2c67f5a] In section 121(1) (interpretation of Part 1), at the appropriate places insert—
+**30.**[^c-75f69be3cebcfb00cbfba99cd2c67f5a] In section 121(1) (interpretation of Part 1), at the appropriate places insert—
 
 > “**technical education qualification**” has the meaning given by section A2DA;
 
@@ -370,88 +370,88 @@ Section 1
 
 .
 
-**31.**[^key-840f51e0f1e98aefd30cf845ea500691] In section 262(6) (orders and regulations subject to affirmative procedure), after paragraph (aa) insert—
+**31.**[^c-840f51e0f1e98aefd30cf845ea500691] In section 262(6) (orders and regulations subject to affirmative procedure), after paragraph (aa) insert—
 
 > - (aza) regulations under section 40AA;
 
 .
 
-**32.**[^key-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-60b9ae5a1dfa5f79d70fb445b0d702ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-229f671a210b6365b72edecb6e5542b3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 16.8.2017 for specified purposes by [S.I. 2017/844](https://www.legislation.gov.uk/uksi/2017/844), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2017/844/regulation/2/b/i)
+[^c-229f671a210b6365b72edecb6e5542b3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 16.8.2017 for specified purposes by [S.I. 2017/844](https://www.legislation.gov.uk/uksi/2017/844), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2017/844/regulation/2/b/i)
 
-[^key-4ad35af81271ca43a80fd6e817d53991]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 8.11.2017 for specified purposes by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/i)
+[^c-4ad35af81271ca43a80fd6e817d53991]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 8.11.2017 for specified purposes by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/i)
 
-[^key-54d67c23a12222e6ee36c69352e250fc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 2.1.2018 for specified purposes by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/i)
+[^c-54d67c23a12222e6ee36c69352e250fc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 2.1.2018 for specified purposes by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(i)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/i)
 
-[^key-8d8f93e19ed55d4c575814a7d412765a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 9.2.2018 for specified purposes by [S.I. 2018/140](https://www.legislation.gov.uk/uksi/2018/140), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/140/regulation/2/b/i)
+[^c-8d8f93e19ed55d4c575814a7d412765a]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 9.2.2018 for specified purposes by [S.I. 2018/140](https://www.legislation.gov.uk/uksi/2018/140), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2018/140/regulation/2/b/i)
 
-[^key-b30f6b4506cc3f879c11b17704a337d3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 31.1.2019 in so far as not already in force by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-b30f6b4506cc3f879c11b17704a337d3]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/1) in force at 31.1.2019 in so far as not already in force by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-162f71b5deaccff54ac3859c59db39a6]: Textual amendment: [Sch. 1 paras. 2-5](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/2) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/9/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-162f71b5deaccff54ac3859c59db39a6]: Textual amendment: [Sch. 1 paras. 2-5](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/2) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 9(a)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/9/a) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
 
-[^key-13b1f814ba971b12e3a53133c0b1ce4d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/6) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-13b1f814ba971b12e3a53133c0b1ce4d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/6) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-963a465c07215604858c8822fae8ae96]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/7) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
+[^c-963a465c07215604858c8822fae8ae96]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/7) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
 
-[^key-c99a9bba9cb2760f9ac7b2a5cad3460b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/8) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-c99a9bba9cb2760f9ac7b2a5cad3460b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/8) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-23f3492e1ee074c482f55f59fb1b42e8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/9) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-23f3492e1ee074c482f55f59fb1b42e8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/9) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-0b117cea1031e05d4bc9289ab5a6656c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/10) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-0b117cea1031e05d4bc9289ab5a6656c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/10) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-b6970ae7423111faa1bf0fd35bc105e2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/11) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
+[^c-b6970ae7423111faa1bf0fd35bc105e2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/11) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
 
-[^key-5268589cef1230b674fafa674ab1b838]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/12) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-5268589cef1230b674fafa674ab1b838]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/12) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-2ae3f55e0b37f6586d9c52b29cce27a4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/13) in force at 16.8.2017 by [S.I. 2017/844](https://www.legislation.gov.uk/uksi/2017/844), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/844/regulation/2/b/ii)
+[^c-2ae3f55e0b37f6586d9c52b29cce27a4]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/13) in force at 16.8.2017 by [S.I. 2017/844](https://www.legislation.gov.uk/uksi/2017/844), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/844/regulation/2/b/ii)
 
-[^key-f99c87435a903b360959c52f0974f989]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/14) in force at 16.8.2017 by [S.I. 2017/844](https://www.legislation.gov.uk/uksi/2017/844), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/844/regulation/2/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/844/regulation/3))
+[^c-f99c87435a903b360959c52f0974f989]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/14) in force at 16.8.2017 by [S.I. 2017/844](https://www.legislation.gov.uk/uksi/2017/844), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/844/regulation/2/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/844/regulation/3))
 
-[^key-ac2322ef105f8ed0e9d4c83500de554d]: Textual amendment: [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/14/4) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/34/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
+[^c-ac2322ef105f8ed0e9d4c83500de554d]: Textual amendment: [Sch. 1 para. 14(4)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/14/4) omitted (1.6.2025) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 1 para. 34(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/1/paragraph/34/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2025/598/regulation/3/g)
 
-[^key-883a1ad74be6c4ac610afd08f93b59e3]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/15) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-883a1ad74be6c4ac610afd08f93b59e3]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/15) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-345419794ab15f1a66009c17709a36a9]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/16) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-345419794ab15f1a66009c17709a36a9]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/16) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-1e7ca4829831d9a5153dceaeadb42d41]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/17) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-1e7ca4829831d9a5153dceaeadb42d41]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/17) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-8bc7f84cbaf51c2e3b7b46fc3566e275]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/18) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-8bc7f84cbaf51c2e3b7b46fc3566e275]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/18) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-a516c9fc80584e3f82177decea8be5df]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/19) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-a516c9fc80584e3f82177decea8be5df]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/19) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-9afa4841c237ef5de48dd451bba23ad3]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/20) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
+[^c-9afa4841c237ef5de48dd451bba23ad3]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/20) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii)
 
-[^key-859e7c1b0361b76d4cf45375aaf3a81e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/21) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-859e7c1b0361b76d4cf45375aaf3a81e]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/21) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-b3e9f2ac62fa452863df280f938d9a58]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/22) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
+[^c-b3e9f2ac62fa452863df280f938d9a58]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/22) in force at 8.11.2017 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/2/b/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
 
-[^key-9a1be51cf4a2a2972a36db06da257630]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/23) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-9a1be51cf4a2a2972a36db06da257630]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/23) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-74c0f243a23424e49858323aba9835ec]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/24) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-74c0f243a23424e49858323aba9835ec]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/24) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-18376388f5600dde9f52b8f38ec1534b]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/25) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
+[^c-18376388f5600dde9f52b8f38ec1534b]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/25) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
 
-[^key-ce5e17f5f6b59609e2ecf5f361f97b9f]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/26) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
+[^c-ce5e17f5f6b59609e2ecf5f361f97b9f]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/26) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
 
-[^key-875014a88cb0ffb8e92e9500a6899837]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/27) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
+[^c-875014a88cb0ffb8e92e9500a6899837]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/27) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1055/regulation/4))
 
-[^key-978e9fefa3cc183c1caf9b393e7da51e]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/28) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
+[^c-978e9fefa3cc183c1caf9b393e7da51e]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/28) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
 
-[^key-f9956d03d53ebf0db89b04102fec73eb]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/29) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-f9956d03d53ebf0db89b04102fec73eb]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/29) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-ff148e96569808435d3d33620a8dd631]: Textual amendment: [Sch. 1 para. 29(3)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/29/3) repealed (6.11.2018) by [The Greater Manchester Combined Authority (Adult Education Functions) Order 2018 (S.I. 2018/1141)](https://www.legislation.gov.uk/uksi/2018/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1141/article/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2018/1141/article/7/6)
+[^c-ff148e96569808435d3d33620a8dd631]: Textual amendment: [Sch. 1 para. 29(3)](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/29/3) repealed (6.11.2018) by [The Greater Manchester Combined Authority (Adult Education Functions) Order 2018 (S.I. 2018/1141)](https://www.legislation.gov.uk/uksi/2018/1141), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/1141/article/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2018/1141/article/7/6)
 
-[^key-75f69be3cebcfb00cbfba99cd2c67f5a]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/30) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
+[^c-75f69be3cebcfb00cbfba99cd2c67f5a]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/30) in force at 31.1.2019 by [S.I. 2019/61](https://www.legislation.gov.uk/uksi/2019/61), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/61/regulation/2/b)
 
-[^key-840f51e0f1e98aefd30cf845ea500691]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/31) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
+[^c-840f51e0f1e98aefd30cf845ea500691]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/31) in force at 2.1.2018 by [S.I. 2017/1055](https://www.legislation.gov.uk/uksi/2017/1055), [reg. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1055/regulation/3/b/ii)
 
-[^key-60b9ae5a1dfa5f79d70fb445b0d702ef]: Textual amendment: [Sch. 1 paras. 32-35](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/32) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/9/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)
+[^c-60b9ae5a1dfa5f79d70fb445b0d702ef]: Textual amendment: [Sch. 1 paras. 32-35](https://www.legislation.gov.uk/ukpga/2017/19/schedule/1/paragraph/32) omitted (1.6.2025 at 2.00 a.m.) by virtue of [Institute for Apprenticeships and Technical Education (Transfer of Functions etc) Act 2025 (c. 14)](https://www.legislation.gov.uk/ukpga/2025/14), [s. 12(1)(b)](https://www.legislation.gov.uk/ukpga/2025/14/section/12/1/b), [Sch. 3 para. 9(b)](https://www.legislation.gov.uk/ukpga/2025/14/schedule/3/paragraph/9/b) (with [s. 13](https://www.legislation.gov.uk/ukpga/2025/14/section/13)); [S.I. 2025/598](https://www.legislation.gov.uk/uksi/2025/598), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2025/598/regulation/4/b)

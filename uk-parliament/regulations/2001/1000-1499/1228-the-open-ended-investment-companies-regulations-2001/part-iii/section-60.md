@@ -24,8 +24,8 @@ summary: ''
 
 (2) The official seal when duly affixed to a document has the same effect as the company’s common seal.
 
-(3)[^key-99545b203db648a9b3311e2302dd15b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-99545b203db648a9b3311e2302dd15b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99545b203db648a9b3311e2302dd15b4]: Textual amendment: Reg. 60(3) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/21) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-99545b203db648a9b3311e2302dd15b4]: Textual amendment: Reg. 60(3) omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/21) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

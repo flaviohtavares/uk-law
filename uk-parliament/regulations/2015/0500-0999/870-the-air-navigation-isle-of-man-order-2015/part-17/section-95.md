@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Gliders, kites and parascending parachutes[^key-5e76f48c89696855d3102e42eb6ba5c2]
+## 95. Gliders, kites and parascending parachutes[^c-5e76f48c89696855d3102e42eb6ba5c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e76f48c89696855d3102e42eb6ba5c2]: Commencement: [Art. 95](https://www.legislation.gov.uk/uksi/2015/870/article/95) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-5e76f48c89696855d3102e42eb6ba5c2]: Commencement: [Art. 95](https://www.legislation.gov.uk/uksi/2015/870/article/95) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

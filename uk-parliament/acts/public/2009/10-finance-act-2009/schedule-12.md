@@ -94,9 +94,9 @@ Section 31
 
 ### Consequential amendments
 
-**2.**[^key-5b2f8561a190f7c1074203478cd95a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5b2f8561a190f7c1074203478cd95a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-9894e9c73a0f24c28cc5d12343d70e91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-9894e9c73a0f24c28cc5d12343d70e91] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In consequence of the amendment made by paragraph 1, omit—
 
@@ -111,6 +111,6 @@ Section 31
 
 ## Annotations
 
-[^key-5b2f8561a190f7c1074203478cd95a69]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/12/paragraph/2) repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 8(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/8/d)
+[^c-5b2f8561a190f7c1074203478cd95a69]: Textual amendment: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/12/paragraph/2) repealed (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 8(d)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/8/d)
 
-[^key-9894e9c73a0f24c28cc5d12343d70e91]: Textual amendment: Sch. 12 para. 3 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9894e9c73a0f24c28cc5d12343d70e91]: Textual amendment: Sch. 12 para. 3 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -40,7 +40,7 @@ Section 76.
 
 #### Stock lending agreements under which manufactured payments are not made
 
-**3.**[^key-0915fd6fceb7e3f5110f5402c55d0877] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0915fd6fceb7e3f5110f5402c55d0877] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Manufactured payments in stock lending cases etc.
 
@@ -50,7 +50,7 @@ Section 76.
 - (b) in paragraph 7(3)—
   - (i) in paragraph (a), the words “except where paragraph 6 above applies, and” shall be omitted;
   - (ii) paragraph (b) shall be omitted; and
-  - (iii)[^key-c296291d36285315c52765dd0c875f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-c296291d36285315c52765dd0c875f6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Stock lending arrangements: capital gains
 
@@ -107,7 +107,7 @@ Section 76.
 
 (2) Section 271(9) of that Act (treatment of approved stock lending arrangements) shall cease to have effect.
 
-(3)[^key-d623e28d81b39d61e37744d95927a7c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d623e28d81b39d61e37744d95927a7c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Premiums trust funds of Lloyd’s members
 
@@ -138,11 +138,11 @@ Section 76.
 
 #### Manufactured dividends on UK equities
 
-**10.**[^key-b6f570d114c7ea5a2e810c1fd5f96bc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b6f570d114c7ea5a2e810c1fd5f96bc4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Manufactured interest on UK securities
 
-**11.**[^key-5cd5a5ef8db099ba97930df04e7a7d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5cd5a5ef8db099ba97930df04e7a7d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Repeal of paragraph 5 of Schedule 23A
 
@@ -150,7 +150,7 @@ Section 76.
 
 #### Consequential amendments in Schedule 23A
 
-**13.**[^key-c5d24e7390a49f16fd758ff213c5d9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c5d24e7390a49f16fd758ff213c5d9b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Amendments of Taxes Management Act 1970
 
@@ -233,13 +233,13 @@ for obtaining information about transactions entered into, or payments made, bef
 
 ## Annotations
 
-[^key-0915fd6fceb7e3f5110f5402c55d0877]: Textual amendment: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0915fd6fceb7e3f5110f5402c55d0877]: Textual amendment: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-c296291d36285315c52765dd0c875f6d]: Textual amendment: [Sch. 10 para. 4(b)(iii)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/4/b/iii) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c296291d36285315c52765dd0c875f6d]: Textual amendment: [Sch. 10 para. 4(b)(iii)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/4/b/iii) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14710151]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-d623e28d81b39d61e37744d95927a7c3]: Textual amendment: [Sch. 10 para. 5(3)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/5/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-d623e28d81b39d61e37744d95927a7c3]: Textual amendment: [Sch. 10 para. 5(3)](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/5/3) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c14710161]: Marginal citation: [1993 c. 34](https://www.legislation.gov.uk/ukpga/1993/34).
 
@@ -249,11 +249,11 @@ for obtaining information about transactions entered into, or payments made, bef
 
 [^c14710191]: Textual amendment: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/9) repealed (31.7.1997 with effect in accordance with s. 36 and [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/58/schedule/6) of the amending Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(11)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/11) note (with s. 3(3))
 
-[^key-b6f570d114c7ea5a2e810c1fd5f96bc4]: Textual amendment: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/10) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b6f570d114c7ea5a2e810c1fd5f96bc4]: Textual amendment: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/10) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5cd5a5ef8db099ba97930df04e7a7d7e]: Textual amendment: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/11) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-5cd5a5ef8db099ba97930df04e7a7d7e]: Textual amendment: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/11) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-c5d24e7390a49f16fd758ff213c5d9b1]: Textual amendment: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/13) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-c5d24e7390a49f16fd758ff213c5d9b1]: Textual amendment: [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/1997/16/schedule/10/paragraph/13) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14710221]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 

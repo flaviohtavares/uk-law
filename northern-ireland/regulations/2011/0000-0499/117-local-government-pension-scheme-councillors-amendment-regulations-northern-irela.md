@@ -32,7 +32,7 @@ summary: ''
 
 Local Government
 
-Local Government Pension Scheme (Councillors) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-60a063c5bfb8b6251a6b70f2d0021935]
+Local Government Pension Scheme (Councillors) (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 Made
 
@@ -42,110 +42,110 @@ Coming into operation
 
 9th May 2011
 
-[^key-60a063c5bfb8b6251a6b70f2d0021935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a063c5bfb8b6251a6b70f2d0021935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-60a063c5bfb8b6251a6b70f2d0021935]
+## 1. Citation and commencement[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^key-60a063c5bfb8b6251a6b70f2d0021935]
+## 2. Amendment of the Local Government Pension Scheme (Benefits, Membership and Contributions) Regulations (Northern Ireland) 2009[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009[^key-60a063c5bfb8b6251a6b70f2d0021935]
+## 3. Amendment of the Local Government Pension Scheme (Administration) Regulations (Northern Ireland) 2009[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001[^key-60a063c5bfb8b6251a6b70f2d0021935]
+## 4. Amendment of The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60a063c5bfb8b6251a6b70f2d0021935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a063c5bfb8b6251a6b70f2d0021935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-60a063c5bfb8b6251a6b70f2d0021935]
+## SCHEDULE 1[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 Regulation 2
 
-> **SCHEDULE — COUNCILLOR MEMBERS[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **SCHEDULE — COUNCILLOR MEMBERS[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
 > Regulation 2A
 >
-> **PART 1 — CONTRIBUTIONS[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **PART 1 — CONTRIBUTIONS[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **Pay[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Pay[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **1.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — BENEFITS[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **PART 2 — BENEFITS[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **Preliminary[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Preliminary[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **2.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Retirement Benefits[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Retirement Benefits[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **4.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Death grants[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Death grants[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **9.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **10.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **11.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **11.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 3 — OPTIONAL ADDITIONAL BENEFITS[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **PART 3 — OPTIONAL ADDITIONAL BENEFITS[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **Increases of membership and pensions[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Increases of membership and pensions[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **12.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **12.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-60a063c5bfb8b6251a6b70f2d0021935]
+## SCHEDULE 2[^c-60a063c5bfb8b6251a6b70f2d0021935]
 
 Regulation 3
 
-> **SCHEDULE 4 — COUNCILLOR MEMBERS[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **SCHEDULE 4 — COUNCILLOR MEMBERS[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
 > Regulation 3A
 >
-> **Membership[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Membership[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **1.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Additional voluntary contributions and shared cost AVC schemes[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Additional voluntary contributions and shared cost AVC schemes[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **3.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Members’ contributions[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Members’ contributions[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **5.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Transfers[^key-60a063c5bfb8b6251a6b70f2d0021935]**
+> **Transfers[^c-60a063c5bfb8b6251a6b70f2d0021935]**
 >
-> **6.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-60a063c5bfb8b6251a6b70f2d0021935] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60a063c5bfb8b6251a6b70f2d0021935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60a063c5bfb8b6251a6b70f2d0021935]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60a063c5bfb8b6251a6b70f2d0021935]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/117) revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3))
+[^c-60a063c5bfb8b6251a6b70f2d0021935]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/117) revoked (1.4.2015) by [The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/189)](https://www.legislation.gov.uk/nisr/2014/189), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/189/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2014/189/regulation/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/189/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/189/regulation/3))

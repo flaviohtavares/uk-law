@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Goods prohibitions relating to gold, precious metals or diamonds[^key-fa03e5289ad8df43d73919b4788918a0]
+## 42. Goods prohibitions relating to gold, precious metals or diamonds[^c-fa03e5289ad8df43d73919b4788918a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa03e5289ad8df43d73919b4788918a0]: Textual amendment: Regs. 42-46 omitted (22.4.2026) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/4)
+[^c-fa03e5289ad8df43d73919b4788918a0]: Textual amendment: Regs. 42-46 omitted (22.4.2026) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/4)

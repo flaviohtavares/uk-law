@@ -140,7 +140,7 @@ unless the Secretary of State has reason to suppose that no notification under p
 
 ## 3. Cases in which payments under section 7 of the Act are not to be made, or are to be made to prescribed persons
 
-(1) No payment shall be made under section 7 of the Act (schemes becoming contracted-out between 1st January 1986 and 5th April 1993) in any case to which paragraph (2), (3), (4) or (4A)[^key-6cfa33054a2c93c12b2d883fc4cecffe] applies.
+(1) No payment shall be made under section 7 of the Act (schemes becoming contracted-out between 1st January 1986 and 5th April 1993) in any case to which paragraph (2), (3), (4) or (4A)[^c-6cfa33054a2c93c12b2d883fc4cecffe] applies.
 
 (2) Subject to paragraph (2B),[^M_F_6bef3834-406d-4b4d-d42c-b409e76e517a] this paragraph applies to a case where the earner in question, or another earner, has been in employment which—
 
@@ -164,7 +164,7 @@ unless the Secretary of State has reason to suppose that no notification under p
 - (a) earnings in relation to which the earner, being a married woman or widow, is liable to make contributions at a reduced rate in accordance with an election which she has made and which is still operative; or
 - (b) earnings in relation to which contributions have not been paid or treated as paid, or the earner has paid contributions which are treated as not paid under regulation 38(1) and (2)(a) of the Social Security (Contributions) Regulations 1979 [^c2180689].
 
-(4A)[^key-2dc4440e38cf7da5734b0615b7d46369] This paragraph applies to any case where a claim for the payment under section 7 of the Act has not been made in accordance with regulation 4 below before 6th April 2001.
+(4A)[^c-2dc4440e38cf7da5734b0615b7d46369] This paragraph applies to any case where a claim for the payment under section 7 of the Act has not been made in accordance with regulation 4 below before 6th April 2001.
 
 (5) In a case where a scheme has ceased, on any date after 31st December 1985, to be a contracted-out scheme, no payment shall be made under section 7 of the Act to the trustees or managers of that scheme.
 
@@ -271,7 +271,7 @@ Regulation 4 deals with claims for payments under section 7; regulation 5 with t
 
 [^M_F_e7c4c835-3a27-4177-b715-7c1a9e218bb8]: Textual amendment: [Reg. 2(12)](https://www.legislation.gov.uk/uksi/1987/1115/regulation/2/12) added (1.10.1989) by [S.I. 1989/1641](https://www.legislation.gov.uk/uksi/1989/1641), [regs. 1(3)](https://www.legislation.gov.uk/uksi/1989/1641/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/1989/1641/regulation/4)
 
-[^key-6cfa33054a2c93c12b2d883fc4cecffe]: Textual amendment: Words in reg. 3(1) substituted (6.4.2000) by [The Personal and Occupational Pension Schemes (Incentive Payments) Amendment Regulations 2000 (S.I. 2000/749)](https://www.legislation.gov.uk/uksi/2000/749), [regs. 1](https://www.legislation.gov.uk/uksi/2000/749/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2000/749/regulation/2/1/a)
+[^c-6cfa33054a2c93c12b2d883fc4cecffe]: Textual amendment: Words in reg. 3(1) substituted (6.4.2000) by [The Personal and Occupational Pension Schemes (Incentive Payments) Amendment Regulations 2000 (S.I. 2000/749)](https://www.legislation.gov.uk/uksi/2000/749), [regs. 1](https://www.legislation.gov.uk/uksi/2000/749/regulation/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/2000/749/regulation/2/1/a)
 
 [^M_F_6bef3834-406d-4b4d-d42c-b409e76e517a]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1987/1115/regulation/3/2) inserted (27.6.90) by [S.I. 1990/1142](https://www.legislation.gov.uk/uksi/1990/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1990/1142/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/1990/1142/regulation/6/2)
 
@@ -283,4 +283,4 @@ Regulation 4 deals with claims for payments under section 7; regulation 5 with t
 
 [^c2180689]: Marginal citation: [S.I. 1979/591](https://www.legislation.gov.uk/uksi/1979/591), to which there are amendments not relevant to these Regulations.
 
-[^key-2dc4440e38cf7da5734b0615b7d46369]: Textual amendment: Reg. 3(4A) inserted (6.4.2000) by [The Personal and Occupational Pension Schemes (Incentive Payments) Amendment Regulations 2000 (S.I. 2000/749)](https://www.legislation.gov.uk/uksi/2000/749), [regs. 1](https://www.legislation.gov.uk/uksi/2000/749/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2000/749/regulation/2/1/b)
+[^c-2dc4440e38cf7da5734b0615b7d46369]: Textual amendment: Reg. 3(4A) inserted (6.4.2000) by [The Personal and Occupational Pension Schemes (Incentive Payments) Amendment Regulations 2000 (S.I. 2000/749)](https://www.legislation.gov.uk/uksi/2000/749), [regs. 1](https://www.legislation.gov.uk/uksi/2000/749/regulation/1), [2(1)(b)](https://www.legislation.gov.uk/uksi/2000/749/regulation/2/1/b)

@@ -42,11 +42,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 17(2)(a) of that Act, as these are the first regulations under section 1, a draft has been laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation[^key-a1802369322bd5b5309db9c6ed928fab]
+## 1. Citation[^c-a1802369322bd5b5309db9c6ed928fab]
 
 These Regulations may be cited as the Diffuse Mesothelioma Payment Scheme Regulations 2014.
 
-## 2. Commencement and ceasing to have effect[^key-c7574a80da8cc285f5f3cba6741b4303]
+## 2. Commencement and ceasing to have effect[^c-c7574a80da8cc285f5f3cba6741b4303]
 
 (1) These Regulations, apart from regulation 7(2)(c), come into force on the day after the day on which they are made.
 
@@ -54,7 +54,7 @@ These Regulations may be cited as the Diffuse Mesothelioma Payment Scheme Regula
 
 (3) Regulation 7(2)(a) and (b) cease to have effect when regulation 7(2)(c) comes into force.
 
-## 3. Interpretation[^key-e92b9153053a43726f4594623902e463]
+## 3. Interpretation[^c-e92b9153053a43726f4594623902e463]
 
 In these Regulations—
 
@@ -68,13 +68,13 @@ In these Regulations—
     - (i) section 1A of the Social Security (Recovery of Benefits) Act 1997[^f00006], or
     - (ii) article 3A of the Social Security (Recovery of Benefits) (Northern Ireland) Order 1997[^f00007].
 
-## 4. Establishment of the scheme[^key-b4bb52937174c492abb8dbf68c6b5d72]
+## 4. Establishment of the scheme[^c-b4bb52937174c492abb8dbf68c6b5d72]
 
 These Regulations establish the Diffuse Mesothelioma Payment Scheme for making payments to eligible people with diffuse mesothelioma and eligible dependants under sections 2 and 3 of the Act.
 
 ## Scheme administrator
 
-### 5. General duties of the scheme administrator[^key-3b656c7dd20b26ad47affe9230533913]
+### 5. General duties of the scheme administrator[^c-3b656c7dd20b26ad47affe9230533913]
 
 (1) The scheme administrator must provide such information in connection with the operation of the scheme as the scheme administrator considers appropriate.
 
@@ -96,7 +96,7 @@ These Regulations establish the Diffuse Mesothelioma Payment Scheme for making p
 
 ## Eligibility
 
-### 6. First diagnosis of diffuse mesothelioma and specified payments[^key-57bd0c1566d0ed58f1c3096240de45b1]
+### 6. First diagnosis of diffuse mesothelioma and specified payments[^c-57bd0c1566d0ed58f1c3096240de45b1]
 
 (1) For the purposes of sections 2 and 3 of the Act (eligible people with diffuse mesothelioma and eligible dependants) and of these Regulations—
 
@@ -105,7 +105,7 @@ These Regulations establish the Diffuse Mesothelioma Payment Scheme for making p
 
 ### 7. Circumstances in which a person is to be treated as unable to bring an action
 
-(1)[^key-312841ed04e3f65590a939162fbd16af] For the purposes of section 18(3) of the Act, the circumstances in which a person is not to be treated as able to bring an action are that an employer against whom the person is able to bring an action in respect of diffuse mesothelioma can be found or does exist, but—
+(1)[^c-312841ed04e3f65590a939162fbd16af] For the purposes of section 18(3) of the Act, the circumstances in which a person is not to be treated as able to bring an action are that an employer against whom the person is able to bring an action in respect of diffuse mesothelioma can be found or does exist, but—
 
 - (a) that employer is a person whose circumstances are such that they fall within any of the relevant provisions; and
 - (b) no other employer or insurer can be found or exists against whom the person can maintain an action for damages.
@@ -114,14 +114,14 @@ These Regulations establish the Diffuse Mesothelioma Payment Scheme for making p
 
 - (a)[^M_F_7deeb95b-8cf6-4af2-afcc-329a07d017a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b)[^M_F_7deeb95b-8cf6-4af2-afcc-329a07d017a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b1ea6771b6c8d059cf82450fcdfa2418] sections 4 to 7 of the Third Parties (Rights against Insurers) Act 2010;
-- (d)[^key-312841ed04e3f65590a939162fbd16af] section 130 of the Health and Social Care Act 2012[^f00010] and any regulations made under that section;
-- (e)[^key-312841ed04e3f65590a939162fbd16af] articles 41 to 43 of the Water and Sewerage Services (Northern Ireland) Order 2006[^f00011]; or
-- (f)[^key-312841ed04e3f65590a939162fbd16af] section 17 of the Energy Act (Northern Ireland) 2011[^f00012].
+- (c)[^c-b1ea6771b6c8d059cf82450fcdfa2418] sections 4 to 7 of the Third Parties (Rights against Insurers) Act 2010;
+- (d)[^c-312841ed04e3f65590a939162fbd16af] section 130 of the Health and Social Care Act 2012[^f00010] and any regulations made under that section;
+- (e)[^c-312841ed04e3f65590a939162fbd16af] articles 41 to 43 of the Water and Sewerage Services (Northern Ireland) Order 2006[^f00011]; or
+- (f)[^c-312841ed04e3f65590a939162fbd16af] section 17 of the Energy Act (Northern Ireland) 2011[^f00012].
 
 ## Applications and procedure
 
-### 8. The application[^key-82f8dc9d9349a04579a13be400f1c4fe]
+### 8. The application[^c-82f8dc9d9349a04579a13be400f1c4fe]
 
 (1) Any application must be made in writing to the scheme administrator in such format as the scheme administrator may approve.
 
@@ -137,7 +137,7 @@ These Regulations establish the Diffuse Mesothelioma Payment Scheme for making p
 
 (7) Where the applicant is unable to sign the statement on account of the applicant’s physical or mental condition, a person other than the applicant may sign the statement on the application stating that the person who signs it believes the matters stated as facts in the application to be true.
 
-### 9. Time limit for making an application[^key-0d743ae299027e8aa02cef877c23e33e]
+### 9. Time limit for making an application[^c-0d743ae299027e8aa02cef877c23e33e]
 
 (1) The application by a person applying on the basis that they are eligible under section 2 of the Act (eligible people with diffuse mesothelioma) must be sent so that it is received by the scheme administrator—
 
@@ -151,14 +151,14 @@ These Regulations establish the Diffuse Mesothelioma Payment Scheme for making p
 
 (3) The scheme administrator may extend the time limits in paragraph (1) or (2) by a further period where the scheme administrator considers that there was good reason for the failure to make the application before the end of the periods mentioned in those paragraphs and for any delay since then in making the application.
 
-### 10. Power of scheme administrator to obtain additional documents or evidence[^key-ca511c68b249b8caa45f93a59e9270e1]
+### 10. Power of scheme administrator to obtain additional documents or evidence[^c-ca511c68b249b8caa45f93a59e9270e1]
 
 Before making a determination of an application, the scheme administrator may—
 
 - (a) in accordance with regulation 11, request an applicant to provide such additional documents or evidence in support of the application as the scheme administrator may reasonably require for the purposes of determining the application;
 - (b) in accordance with regulation 13, request a person other than the applicant to provide specified documents where it appears to the scheme administrator that the document is reasonably required for the purposes of determining the application.
 
-### 11. Request to applicants to provide additional documents or evidence[^key-4da3f0ce115ee298df5a059e87859bf1]
+### 11. Request to applicants to provide additional documents or evidence[^c-4da3f0ce115ee298df5a059e87859bf1]
 
 (1) A request for any additional documents or evidence (“requested material”) which is made under regulation 10(a) must—
 
@@ -176,7 +176,7 @@ Before making a determination of an application, the scheme administrator may—
 
 (5) If, in all the circumstances, the scheme administrator is satisfied that it is appropriate to do so, the scheme administrator may meet the reasonable costs of the applicant which are incurred in obtaining any requested material.
 
-### 12. Duty of applicants[^key-30a83a3b216ce0ccf8195292e82399ef]
+### 12. Duty of applicants[^c-30a83a3b216ce0ccf8195292e82399ef]
 
 (1) As soon as reasonably practicable, an applicant must inform the scheme administrator of—
 
@@ -185,7 +185,7 @@ Before making a determination of an application, the scheme administrator may—
 
 (2) An applicant must, so far as reasonably practicable, provide any other assistance to the scheme administrator which the scheme administrator requests in connection with the consideration of the application.
 
-### 13. Request to third parties to provide documents[^key-de9f806675da1f50c3a8d5752377cead]
+### 13. Request to third parties to provide documents[^c-de9f806675da1f50c3a8d5752377cead]
 
 (1) A request which is made under regulation 10(b) for a person other than the applicant to provide any document may be made following a request made by an applicant to the scheme administrator or on the scheme administrator’s own initiative.
 
@@ -208,11 +208,11 @@ Before making a determination of an application, the scheme administrator may—
 - (a) in England and Wales or Northern Ireland a county court or the High Court, or
 - (b) in Scotland the sheriff or the Court of Session.
 
-### 14. Withdrawal of an application by person with diffuse mesothelioma[^key-5a64c4272f31a3f36a95d43a98bcdce9]
+### 14. Withdrawal of an application by person with diffuse mesothelioma[^c-5a64c4272f31a3f36a95d43a98bcdce9]
 
 An application which is made by a person with diffuse mesothelioma may be withdrawn by the applicant at any time before a payment under the scheme is made to the applicant.
 
-### 15. Notice for a person to cease to be an eligible dependant[^key-d4cd052b25c798097d2fcfdde310de2a]
+### 15. Notice for a person to cease to be an eligible dependant[^c-d4cd052b25c798097d2fcfdde310de2a]
 
 (1) For the purposes of section 3(3) of the Act (which makes provision for a person who does not want a payment under the scheme to cease to be an eligible dependant), notice is given by a person in accordance with the scheme if it is given in writing to the scheme administrator at any time before a payment under the scheme is made to that person.
 
@@ -220,7 +220,7 @@ An application which is made by a person with diffuse mesothelioma may be withdr
 
 ## Determination of applications
 
-### 16. Determination of applications[^key-9d1fefd210160ae104603c32ed9d480e]
+### 16. Determination of applications[^c-9d1fefd210160ae104603c32ed9d480e]
 
 (1) In making a determination the scheme administrator must—
 
@@ -238,7 +238,7 @@ An application which is made by a person with diffuse mesothelioma may be withdr
 - (a) their age at the date of first diagnosis; or
 - (b) where the application is made by their dependant under the circumstances mentioned in section 3(2) of the Act (where a person has been diagnosed with diffuse mesothelioma following his or her death), the date of death of the person.
 
-### 17. Imposing conditions on the making of a payment[^key-821410574d39a4f4eef8dffb59c44b25]
+### 17. Imposing conditions on the making of a payment[^c-821410574d39a4f4eef8dffb59c44b25]
 
 (1) Where the scheme administrator decides to make a payment under the scheme the scheme administrator—
 
@@ -265,7 +265,7 @@ An application which is made by a person with diffuse mesothelioma may be withdr
 - (b) “guardian” has the meaning given in section 57 of the Adults with Incapacity (Scotland) Act 2000[^f00014];
 - (c) “controller” has the meaning given by Article 101 of the Mental Health (Northern Ireland) Order 1986[^f00015].
 
-### 18. Notice of a determination[^key-117d51cea30fbe798c424051019042d9]
+### 18. Notice of a determination[^c-117d51cea30fbe798c424051019042d9]
 
 (1) The scheme administrator must send a written notice which states the determination which has been made in the applicant’s case—
 
@@ -291,7 +291,7 @@ An application which is made by a person with diffuse mesothelioma may be withdr
 
 ## Payments
 
-### 19. Payment[^key-c6574caa1899f690e772f412c4442d91]
+### 19. Payment[^c-c6574caa1899f690e772f412c4442d91]
 
 (1) This regulation applies where a determination has been made to make a payment under the scheme to an applicant.
 
@@ -312,7 +312,7 @@ An application which is made by a person with diffuse mesothelioma may be withdr
 
 has been provided to the scheme administrator.
 
-### 20. Circumstances in which a person may be required to repay[^key-3fc33498fcbe1924f8a5f4520fa9223d]
+### 20. Circumstances in which a person may be required to repay[^c-3fc33498fcbe1924f8a5f4520fa9223d]
 
 (1) The scheme administrator may require a person who received a payment under the scheme to repay the whole of the amount of a payment under the scheme which has been received in any case where the scheme administrator is satisfied that relevant evidence shows that—
 
@@ -340,7 +340,7 @@ has been provided to the scheme administrator.
 
 ## Reviews and appeals
 
-### 21. Review at the request of an applicant[^key-12db8b83f81ac1f84913a067aaf86e6f]
+### 21. Review at the request of an applicant[^c-12db8b83f81ac1f84913a067aaf86e6f]
 
 (1) An applicant may request a review of a determination—
 
@@ -359,7 +359,7 @@ has been provided to the scheme administrator.
 
 (5) In a case where a person makes an application and then dies, the reference in this regulation or in any of regulations 22 to 25 to an applicant is to be read as if it were a reference to the applicant’s personal representatives.
 
-### 22. Review initiated by the scheme administrator[^key-ac074444476604a091ea275fe5c0cbb3]
+### 22. Review initiated by the scheme administrator[^c-ac074444476604a091ea275fe5c0cbb3]
 
 (1) Where the scheme administrator receives information after a determination is made which calls the determination into question, the scheme administrator—
 
@@ -379,7 +379,7 @@ has been provided to the scheme administrator.
 
 (5) The scheme administrator may extend the time limit in paragraph (4) by a further period where the scheme administrator considers that there was good reason for the failure to submit written representations before the end of that initial period and for any delay since then in submitting written representations.
 
-### 23. Other circumstances in which a review may be held[^key-94fe639fa622debadeec2b5c5707f8e2]
+### 23. Other circumstances in which a review may be held[^c-94fe639fa622debadeec2b5c5707f8e2]
 
 (1) Where a notice of an appeal which is made by an applicant to the First-tier Tribunal is received by the scheme administrator before a request for a review under regulation 21 is received—
 
@@ -396,7 +396,7 @@ has been provided to the scheme administrator.
 
 (6) Where the determination made on review is that a payment under the scheme is to be made to the applicant, the case is not to be referred to the First-tier Tribunal unless, on being notified of the determination in accordance with regulation 24(4)(b), the applicant sends a notice in writing to the scheme administrator to indicate that the applicant does not accept the determination made on review.
 
-### 24. Conduct of the review[^key-568114161c8ea49caea74503d3956615]
+### 24. Conduct of the review[^c-568114161c8ea49caea74503d3956615]
 
 (1) The scheme administrator must ensure that, in conducting a review, no member of the scheme administrator’s staff who had any involvement in the determination that is subject to review under any of regulations 21 to 23 is be involved in making the determination of the review.
 
@@ -422,7 +422,7 @@ has been provided to the scheme administrator.
 
 (6) Nothing in this regulation prevents a determination notified to an applicant in accordance with regulation 18(1) or 20(3) from being confirmed on review for reasons that differ in any respect from the reasons given in relation to that determination.
 
-### 25. Appeal[^key-c005005184c1aeec993826d74a5862a0]
+### 25. Appeal[^c-c005005184c1aeec993826d74a5862a0]
 
 (1) An applicant may appeal to the First-tier Tribunal from a determination which has been reviewed under regulation 24(3).
 
@@ -430,7 +430,7 @@ has been provided to the scheme administrator.
 
 ## Scheme administrator’s functions to help people bring proceedings
 
-### 26. Circumstances in which scheme administrator may help people to bring proceedings[^key-f63d4e4e7c45bc535f7e912419ec5a4e]
+### 26. Circumstances in which scheme administrator may help people to bring proceedings[^c-f63d4e4e7c45bc535f7e912419ec5a4e]
 
 (1) The circumstances in which the scheme administrator may help a person to bring relevant proceedings under section 10 of the Act (power of scheme administrator to help people bring proceedings) are that—
 
@@ -456,7 +456,7 @@ has been provided to the scheme administrator.
 
 ## Review of these Regulations
 
-### 27. Review of these Regulations by the Secretary of State[^key-566d2d2ad2ac12f8b66f757cad46e8ff]
+### 27. Review of these Regulations by the Secretary of State[^c-566d2d2ad2ac12f8b66f757cad46e8ff]
 
 (1) The Secretary of State must—
 
@@ -489,7 +489,7 @@ Department for Work and Pensions
 
 Regulation 6
 
-**1.**[^key-f3b02006d7c38e17c4e102edf261f7ed] In this Schedule—
+**1.**[^c-f3b02006d7c38e17c4e102edf261f7ed] In this Schedule—
 
 - “P” means a person with diffuse mesothelioma;
 - “connected person”, in relation to P, means—
@@ -500,19 +500,19 @@ Regulation 6
   - (b) a registered nurse working in a clinical nurse specialist role in relation to patients with cancer;
   - (c) a member of a multi-disciplinary team for the diagnosis and treatment of patients with cancer which includes one or more persons mentioned in paragraph (a) or (b) of this definition.
 
-### 2. Application by a person with diffuse mesothelioma[^key-a393c0300f96643d521f14bbb9f73757]
+### 2. Application by a person with diffuse mesothelioma[^c-a393c0300f96643d521f14bbb9f73757]
 
 For the purposes of section 2 of the Act—
 
 - (a) a person (“P”) is to be taken as having been “first diagnosed” with diffuse mesothelioma where both of the conditions set out in paragraph 3 are met; and
 - (b) the date of first diagnosis is to be determined in accordance with paragraphs 4 and 5.
 
-**3.**[^key-8902fe286620119455d987e254194ca7] The conditions referred to in paragraph 2(a) are—
+**3.**[^c-8902fe286620119455d987e254194ca7] The conditions referred to in paragraph 2(a) are—
 
 - (a) that a diagnosis of diffuse mesothelioma in relation to P is made by a health care professional; and
 - (b) that either P or a connected person is advised of the diagnosis by a health care professional (whether by the health care professional who made the diagnosis or by a different one).
 
-**4.**[^key-2232d7d7c0dba132f94f9b9e0f04a51e] (1) The date of P’s first diagnosis is to be determined as follows.
+**4.**[^c-2232d7d7c0dba132f94f9b9e0f04a51e] (1) The date of P’s first diagnosis is to be determined as follows.
 
 (2) Where the advice that P has diffuse mesothelioma is given orally, the date of first diagnosis is the date shown in P’s clinical notes as being the date on which P or a connected person was advised of the diagnosis.
 
@@ -523,7 +523,7 @@ For the purposes of section 2 of the Act—
 
 (4) Where no date can be determined in accordance with sub-paragraph (2) or (3), or there is reason to doubt the accuracy of the date so determined, the date of first diagnosis is to be determined by such other evidence as the scheme administrator considers appropriate.
 
-**5.**[^key-db6d28ab707956ca0e2e6be49655ca82] (1) In determining whether the conditions set out in paragraph 3 have been met, the scheme administrator may make further enquiries to determine whether the disease that has been diagnosed is in fact diffuse mesothelioma in any case where—
+**5.**[^c-db6d28ab707956ca0e2e6be49655ca82] (1) In determining whether the conditions set out in paragraph 3 have been met, the scheme administrator may make further enquiries to determine whether the disease that has been diagnosed is in fact diffuse mesothelioma in any case where—
 
 - (a) the scheme administrator considers that there is reason to doubt whether the disease that has been diagnosed is diffuse mesothelioma; or
 - (b) P or a connected person was advised by a healthcare professional that P’s diagnosis is of anything other than diffuse mesothelioma (including a diagnosis of mesothelioma without explanation of its extent).
@@ -536,13 +536,13 @@ For the purposes of section 2 of the Act—
 - (b) the date on which a connected person is advised of the substituted diagnosis;
 - (c) the date on which the scheme administrator is advised of the substituted diagnosis.
 
-### 6. Application by a dependant of a person with diffuse mesothelioma[^key-8d85c8ee09fd3bd0ff9eca51e5f6738c]
+### 6. Application by a dependant of a person with diffuse mesothelioma[^c-8d85c8ee09fd3bd0ff9eca51e5f6738c]
 
 For the purposes of section 3 of the Act, P who has died is to be taken as having been “first diagnosed” with diffuse mesothelioma as follows.
 
-**7.**[^key-d6402d53580faafd6990ee05d90217de] If the conditions set out in paragraph 3 were met before P’s death, the date of first diagnosis is to be determined in accordance with the provisions of paragraph 4.
+**7.**[^c-d6402d53580faafd6990ee05d90217de] If the conditions set out in paragraph 3 were met before P’s death, the date of first diagnosis is to be determined in accordance with the provisions of paragraph 4.
 
-**8.**[^key-6c43c99736c5b112424c22eff9276993] (1) In any other case, P is to be taken as having been “first diagnosed” with diffuse mesothelioma where either of the conditions set out in sub-paragraph (2)(a) or (b) is met and the date of first diagnosis is to be determined in accordance with sub-paragraph (3).
+**8.**[^c-6c43c99736c5b112424c22eff9276993] (1) In any other case, P is to be taken as having been “first diagnosed” with diffuse mesothelioma where either of the conditions set out in sub-paragraph (2)(a) or (b) is met and the date of first diagnosis is to be determined in accordance with sub-paragraph (3).
 
 (2) The conditions referred to in sub-paragraph (1) are—
 
@@ -551,11 +551,11 @@ For the purposes of section 3 of the Act, P who has died is to be taken as havin
 
 (3) The date of P’s first diagnosis is the date shown on the report of the post-mortem examination or the date shown on the health care professional’s written confirmation of the diagnosis (as the case may be).
 
-## SCHEDULE 2 — Specified Payments[^key-370619ee2ec00bce1a2fdb149ef2f0ba]
+## SCHEDULE 2 — Specified Payments[^c-370619ee2ec00bce1a2fdb149ef2f0ba]
 
 Regulation 6
 
-[^key-370619ee2ec00bce1a2fdb149ef2f0ba]
+[^c-370619ee2ec00bce1a2fdb149ef2f0ba]
 
 - Payment under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 2006[^f00019].
 - Payment under the Armed Forces and Reserve Forces (Compensation Scheme) Order 2011[^f00020].
@@ -571,12 +571,12 @@ Regulation 8
 
 ### PART 1 — The application
 
-**1.**[^key-b6b2ae8fa3787bc3b2fa208fb8354635] An applicant may be required to state whether the applicant is—
+**1.**[^c-b6b2ae8fa3787bc3b2fa208fb8354635] An applicant may be required to state whether the applicant is—
 
 - (a) the person with diffuse mesothelioma;
 - (b) a person who is a dependant of a person who has died with diffuse mesothelioma.
 
-**2.**[^key-cbf78c479e0bcc8684042239a61cffc8] An applicant within paragraph 1(a) or (b) may be required to provide, in relation to the person with diffuse mesothelioma—
+**2.**[^c-cbf78c479e0bcc8684042239a61cffc8] An applicant within paragraph 1(a) or (b) may be required to provide, in relation to the person with diffuse mesothelioma—
 
 - (a) the person’s name and national insurance number;
 - (b) the person’s date of birth;
@@ -591,7 +591,7 @@ Regulation 8
 - (k) a statement that the person has not received damages or a specified payment in respect of the disease;
 - (l) a statement that the person is not eligible to receive a specified payment.
 
-**3.**[^key-aebb2366cefc9dc1510f6655fe157cfe] An applicant within paragraph 1(b) may also be required to provide—
+**3.**[^c-aebb2366cefc9dc1510f6655fe157cfe] An applicant within paragraph 1(b) may also be required to provide—
 
 - (a) the name of the applicant;
 - (b) their date of birth;
@@ -604,7 +604,7 @@ Regulation 8
 
 ### PART 2 — Key issues
 
-**4.**[^key-097c017fa3441d2264cd6704b5c8afe5] The key issues to be addressed by the information and other material required under Part 1 of this Schedule, are—
+**4.**[^c-097c017fa3441d2264cd6704b5c8afe5] The key issues to be addressed by the information and other material required under Part 1 of this Schedule, are—
 
 - (a) establishing that the person with diffuse mesothelioma was employed by a relevant employer;
 - (b) establishing that the person with diffuse mesothelioma was exposed to asbestos during the period of the person’s employment;
@@ -616,7 +616,7 @@ Regulation 8
 
 ### PART 3 — Supporting evidence
 
-**5.**[^key-4f934a09e6364963e8dafab5c917905a] Supporting evidence that may be required in relation to an application includes—
+**5.**[^c-4f934a09e6364963e8dafab5c917905a] Supporting evidence that may be required in relation to an application includes—
 
 - (a) medical evidence which confirms the person has been diagnosed with diffuse mesothelioma (see Schedule 1);
 - (b) witness statements (whether made by the person with diffuse mesothelioma or by others);
@@ -624,7 +624,7 @@ Regulation 8
 - (d) the details of all steps taken to find any relevant insurer and the results of any search for a relevant insurer that has been carried out;
 - (e) a copy of any decision published by the Technical Committee which relates to a person named in the application as a relevant employer or an insurer of that employer.
 
-**6.**[^key-f4b2b42ca10814b58b3f37f07b82a123] (1) Any witness statement that is provided must be signed by the person making the statement and verified by a statement of truth.
+**6.**[^c-f4b2b42ca10814b58b3f37f07b82a123] (1) Any witness statement that is provided must be signed by the person making the statement and verified by a statement of truth.
 
 (2) “Statement of truth” means a statement that the person making the witness statement believes the matters stated as facts in the witness statement to be true.
 
@@ -632,7 +632,7 @@ Regulation 8
 
 Regulation 16
 
-Table 1[^key-58837f511e7814dc8adcbe1c0fb52b10]
+Table 1[^c-58837f511e7814dc8adcbe1c0fb52b10]
 
 | Age of the person with diffuse mesothelioma (see regulation 16(3)) | Scheme Payment |
 | --- | --- |
@@ -714,13 +714,13 @@ A full impact assessment was produced for the Mesothelioma Bill and a copy is av
 
 [^f00001]: Footnote: [2014 c. 1](https://www.legislation.gov.uk/ukpga/2014/1)
 
-[^key-a1802369322bd5b5309db9c6ed928fab]: Commencement: Reg. 1 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-a1802369322bd5b5309db9c6ed928fab]: Commencement: Reg. 1 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-c7574a80da8cc285f5f3cba6741b4303]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-c7574a80da8cc285f5f3cba6741b4303]: Commencement: Reg. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^f00002]: Footnote: [2010 c. 10](https://www.legislation.gov.uk/ukpga/2010/10).
 
-[^key-e92b9153053a43726f4594623902e463]: Commencement: Reg. 3 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-e92b9153053a43726f4594623902e463]: Commencement: Reg. 3 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^f00003]: Footnote: As defined in section 18(1) of the Act.
 
@@ -732,17 +732,17 @@ A full impact assessment was produced for the Mesothelioma Bill and a copy is av
 
 [^f00007]: Footnote: Article 3A was inserted by section 8 of the Mesothelioma, etc., Act (Northern Ireland) [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-b4bb52937174c492abb8dbf68c6b5d72]: Commencement: Reg. 4 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-b4bb52937174c492abb8dbf68c6b5d72]: Commencement: Reg. 4 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-3b656c7dd20b26ad47affe9230533913]: Commencement: Reg. 5 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-3b656c7dd20b26ad47affe9230533913]: Commencement: Reg. 5 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-57bd0c1566d0ed58f1c3096240de45b1]: Commencement: Reg. 6 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-57bd0c1566d0ed58f1c3096240de45b1]: Commencement: Reg. 6 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-312841ed04e3f65590a939162fbd16af]: Commencement: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/a)[(b)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/b)[(d)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/d)[(e)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/e)[(f)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/f) in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-312841ed04e3f65590a939162fbd16af]: Commencement: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/a)[(b)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/b)[(d)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/d)[(e)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/e)[(f)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/f) in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^M_F_7deeb95b-8cf6-4af2-afcc-329a07d017a2]: Textual amendment: Reg. 7(2)(a)(b) ceases to have effect (1.8.2016) by virtue of [The Diffuse Mesothelioma Payment Scheme Regulations 2014 (S.I. 2014/916)](https://www.legislation.gov.uk/uksi/2014/916), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/3)
 
-[^key-b1ea6771b6c8d059cf82450fcdfa2418]: Commencement: [Reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/c) in force at 1.8.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/2)
+[^c-b1ea6771b6c8d059cf82450fcdfa2418]: Commencement: [Reg. 7(2)(c)](https://www.legislation.gov.uk/uksi/2014/916/regulation/7/2/c) in force at 1.8.2016, see [reg. 2(2)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/2)
 
 [^f00010]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7).
 
@@ -750,25 +750,25 @@ A full impact assessment was produced for the Mesothelioma Bill and a copy is av
 
 [^f00012]: Footnote: [2011 c. 6](https://www.legislation.gov.uk/ukpga/2011/6).
 
-[^key-82f8dc9d9349a04579a13be400f1c4fe]: Commencement: Reg. 8 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-82f8dc9d9349a04579a13be400f1c4fe]: Commencement: Reg. 8 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-0d743ae299027e8aa02cef877c23e33e]: Commencement: Reg. 9 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-0d743ae299027e8aa02cef877c23e33e]: Commencement: Reg. 9 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-ca511c68b249b8caa45f93a59e9270e1]: Commencement: Reg. 10 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-ca511c68b249b8caa45f93a59e9270e1]: Commencement: Reg. 10 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-4da3f0ce115ee298df5a059e87859bf1]: Commencement: Reg. 11 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-4da3f0ce115ee298df5a059e87859bf1]: Commencement: Reg. 11 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-30a83a3b216ce0ccf8195292e82399ef]: Commencement: Reg. 12 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-30a83a3b216ce0ccf8195292e82399ef]: Commencement: Reg. 12 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-de9f806675da1f50c3a8d5752377cead]: Commencement: Reg. 13 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-de9f806675da1f50c3a8d5752377cead]: Commencement: Reg. 13 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-5a64c4272f31a3f36a95d43a98bcdce9]: Commencement: Reg. 14 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-5a64c4272f31a3f36a95d43a98bcdce9]: Commencement: Reg. 14 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-d4cd052b25c798097d2fcfdde310de2a]: Commencement: Reg. 15 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-d4cd052b25c798097d2fcfdde310de2a]: Commencement: Reg. 15 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-9d1fefd210160ae104603c32ed9d480e]: Commencement: Reg. 16 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-9d1fefd210160ae104603c32ed9d480e]: Commencement: Reg. 16 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-821410574d39a4f4eef8dffb59c44b25]: Commencement: Reg. 17 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-821410574d39a4f4eef8dffb59c44b25]: Commencement: Reg. 17 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^f00013]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
@@ -776,49 +776,49 @@ A full impact assessment was produced for the Mesothelioma Bill and a copy is av
 
 [^f00015]: Footnote: [S.I. 1986 No. 595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595).
 
-[^key-117d51cea30fbe798c424051019042d9]: Commencement: Reg. 18 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-117d51cea30fbe798c424051019042d9]: Commencement: Reg. 18 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-c6574caa1899f690e772f412c4442d91]: Commencement: Reg. 19 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-c6574caa1899f690e772f412c4442d91]: Commencement: Reg. 19 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-3fc33498fcbe1924f8a5f4520fa9223d]: Commencement: Reg. 20 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-3fc33498fcbe1924f8a5f4520fa9223d]: Commencement: Reg. 20 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-12db8b83f81ac1f84913a067aaf86e6f]: Commencement: Reg. 21 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-12db8b83f81ac1f84913a067aaf86e6f]: Commencement: Reg. 21 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-ac074444476604a091ea275fe5c0cbb3]: Commencement: Reg. 22 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-ac074444476604a091ea275fe5c0cbb3]: Commencement: Reg. 22 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-94fe639fa622debadeec2b5c5707f8e2]: Commencement: Reg. 23 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-94fe639fa622debadeec2b5c5707f8e2]: Commencement: Reg. 23 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-568114161c8ea49caea74503d3956615]: Commencement: Reg. 24 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-568114161c8ea49caea74503d3956615]: Commencement: Reg. 24 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-c005005184c1aeec993826d74a5862a0]: Commencement: Reg. 25 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-c005005184c1aeec993826d74a5862a0]: Commencement: Reg. 25 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^f00016]: Footnote: [S.I. 2008/2685](https://www.legislation.gov.uk/uksi/2008/2685).
 
-[^key-f63d4e4e7c45bc535f7e912419ec5a4e]: Commencement: Reg. 26 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-f63d4e4e7c45bc535f7e912419ec5a4e]: Commencement: Reg. 26 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^f00017]: Footnote: [S.I. 2008/1596](https://www.legislation.gov.uk/uksi/2008/1596).
 
 [^f00018]: Footnote: [S.I. 2008/355 (N.I.)](https://www.legislation.gov.uk/nisr/2008/355).
 
-[^key-566d2d2ad2ac12f8b66f757cad46e8ff]: Commencement: Reg. 27 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-566d2d2ad2ac12f8b66f757cad46e8ff]: Commencement: Reg. 27 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-f3b02006d7c38e17c4e102edf261f7ed]: Commencement: Sch. 1 para. 1 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-f3b02006d7c38e17c4e102edf261f7ed]: Commencement: Sch. 1 para. 1 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-a393c0300f96643d521f14bbb9f73757]: Commencement: Sch. 1 para. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-a393c0300f96643d521f14bbb9f73757]: Commencement: Sch. 1 para. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-8902fe286620119455d987e254194ca7]: Commencement: Sch. 1 para. 3 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-8902fe286620119455d987e254194ca7]: Commencement: Sch. 1 para. 3 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-2232d7d7c0dba132f94f9b9e0f04a51e]: Commencement: Sch. 1 para. 4 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-2232d7d7c0dba132f94f9b9e0f04a51e]: Commencement: Sch. 1 para. 4 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-db6d28ab707956ca0e2e6be49655ca82]: Commencement: Sch. 1 para. 5 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-db6d28ab707956ca0e2e6be49655ca82]: Commencement: Sch. 1 para. 5 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-8d85c8ee09fd3bd0ff9eca51e5f6738c]: Commencement: Sch. 1 para. 6 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-8d85c8ee09fd3bd0ff9eca51e5f6738c]: Commencement: Sch. 1 para. 6 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-d6402d53580faafd6990ee05d90217de]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/916/schedule/1/paragraph/7) in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-d6402d53580faafd6990ee05d90217de]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/916/schedule/1/paragraph/7) in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-6c43c99736c5b112424c22eff9276993]: Commencement: Sch. 1 para. 8 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-6c43c99736c5b112424c22eff9276993]: Commencement: Sch. 1 para. 8 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-370619ee2ec00bce1a2fdb149ef2f0ba]: Commencement: Sch. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-370619ee2ec00bce1a2fdb149ef2f0ba]: Commencement: Sch. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
 [^f00019]: Footnote: [S.I. 2006/606](https://www.legislation.gov.uk/uksi/2006/606).
 
@@ -826,16 +826,16 @@ A full impact assessment was produced for the Mesothelioma Bill and a copy is av
 
 [^f00021]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-b6b2ae8fa3787bc3b2fa208fb8354635]: Commencement: Sch. 3 para. 1 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-b6b2ae8fa3787bc3b2fa208fb8354635]: Commencement: Sch. 3 para. 1 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-cbf78c479e0bcc8684042239a61cffc8]: Commencement: Sch. 3 para. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-cbf78c479e0bcc8684042239a61cffc8]: Commencement: Sch. 3 para. 2 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-aebb2366cefc9dc1510f6655fe157cfe]: Commencement: Sch. 3 para. 3 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-aebb2366cefc9dc1510f6655fe157cfe]: Commencement: Sch. 3 para. 3 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-097c017fa3441d2264cd6704b5c8afe5]: Commencement: Sch. 3 para. 4 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-097c017fa3441d2264cd6704b5c8afe5]: Commencement: Sch. 3 para. 4 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-4f934a09e6364963e8dafab5c917905a]: Commencement: Sch. 3 para. 5 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-4f934a09e6364963e8dafab5c917905a]: Commencement: Sch. 3 para. 5 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-f4b2b42ca10814b58b3f37f07b82a123]: Commencement: Sch. 3 para. 6 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
+[^c-f4b2b42ca10814b58b3f37f07b82a123]: Commencement: Sch. 3 para. 6 in force at 6.4.2014, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2014/916/regulation/2/1)
 
-[^key-58837f511e7814dc8adcbe1c0fb52b10]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/916/schedule/4) Table 1 substituted (4.11.2025) by [The Diffuse Mesothelioma Payment Scheme (Amendment) Regulations 2025 (S.I. 2025/1069)](https://www.legislation.gov.uk/uksi/2025/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1069/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1069/regulation/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1069/regulation/1/3))
+[^c-58837f511e7814dc8adcbe1c0fb52b10]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2014/916/schedule/4) Table 1 substituted (4.11.2025) by [The Diffuse Mesothelioma Payment Scheme (Amendment) Regulations 2025 (S.I. 2025/1069)](https://www.legislation.gov.uk/uksi/2025/1069), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/1069/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1069/regulation/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1069/regulation/1/3))

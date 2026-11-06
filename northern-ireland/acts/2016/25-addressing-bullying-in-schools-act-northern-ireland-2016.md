@@ -35,7 +35,7 @@ An Act to address bullying in grant-aided schools.
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. Definition of “bullying”[^key-b33c41fd138a9e0d4f91665ac55de97d]
+## 1. Definition of “bullying”[^c-b33c41fd138a9e0d4f91665ac55de97d]
 
 (1) In this Act “**bullying**” includes (but is not limited to) the repeated use of—
 
@@ -47,7 +47,7 @@ by a pupil or a group of pupils against another pupil or group of pupils, with t
 
 (2) For the purposes of subsection (1), “**act**” includes omission.
 
-## 2. Duty of Board of Governors to secure measures to prevent bullying[^key-5ffae6dcf0e17b2dea7b4b703d979df6]
+## 2. Duty of Board of Governors to secure measures to prevent bullying[^c-5ffae6dcf0e17b2dea7b4b703d979df6]
 
 (1) The Board of Governors of a grant-aided school must—
 
@@ -81,7 +81,7 @@ by a pupil or a group of pupils against another pupil or group of pupils, with t
 
 (4) In Article 3(3)(a)(ii) of the Education (Northern Ireland) Order 1998 (duty of the principal to determine measures) omit the words “and, in particular, preventing all forms of bullying among pupils”.
 
-## 3. Duty to keep a record of incidents of bullying[^key-09c46a85c0a17118d1a4263f823ab7c5]
+## 3. Duty to keep a record of incidents of bullying[^c-09c46a85c0a17118d1a4263f823ab7c5]
 
 (1) The Board of Governors of a grant-aided school must ensure that a record is kept of all incidents of bullying or alleged bullying involving a registered pupil at the school that occur—
 
@@ -108,7 +108,7 @@ by a pupil or a group of pupils against another pupil or group of pupils, with t
 
 (5) The Department may from time to time publish guidance as to how a Board of Governors is to comply with the duty to keep a record under this section; and in complying with the duty under this section a Board of Governors must have due regard to any guidance for the time being published under this subsection.
 
-## 4. Interpretation[^key-d5dcdc0219484cea448b92dd548eee15]
+## 4. Interpretation[^c-d5dcdc0219484cea448b92dd548eee15]
 
 (1) In this Act—
 
@@ -127,10 +127,10 @@ by a pupil or a group of pupils against another pupil or group of pupils, with t
 
 ## Annotations
 
-[^key-b33c41fd138a9e0d4f91665ac55de97d]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/25/section/1) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
+[^c-b33c41fd138a9e0d4f91665ac55de97d]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2016/25/section/1) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
 
-[^key-5ffae6dcf0e17b2dea7b4b703d979df6]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/25/section/2) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
+[^c-5ffae6dcf0e17b2dea7b4b703d979df6]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2016/25/section/2) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
 
-[^key-09c46a85c0a17118d1a4263f823ab7c5]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/25/section/3) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
+[^c-09c46a85c0a17118d1a4263f823ab7c5]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2016/25/section/3) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
 
-[^key-d5dcdc0219484cea448b92dd548eee15]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/25/section/4) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)
+[^c-d5dcdc0219484cea448b92dd548eee15]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/25/section/4) in operation at 1.9.2021 by [S.R. 2021/107](https://www.legislation.gov.uk/nisr/2021/107), [art. 2](https://www.legislation.gov.uk/nisr/2021/107/article/2)

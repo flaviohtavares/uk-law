@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Use of scientific methods in age assessments[^key-14ceaf3cb965a1f85ad989ee7c5c2d7e][^key-34d6edb229fd63c202b0a53c4879ebf3]
+## 52. Use of scientific methods in age assessments[^c-14ceaf3cb965a1f85ad989ee7c5c2d7e][^c-34d6edb229fd63c202b0a53c4879ebf3]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14ceaf3cb965a1f85ad989ee7c5c2d7e]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 87(4)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/f)
+[^c-14ceaf3cb965a1f85ad989ee7c5c2d7e]: Commencement: S. 52 in force at Royal Assent for specified purposes, see [s. 87(4)(f)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/f)
 
-[^key-34d6edb229fd63c202b0a53c4879ebf3]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/36/section/52) in force at 20.11.2023 in so far as not already in force by [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/c)
+[^c-34d6edb229fd63c202b0a53c4879ebf3]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/36/section/52) in force at 20.11.2023 in so far as not already in force by [S.I. 2023/1130](https://www.legislation.gov.uk/uksi/2023/1130), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/1130/regulation/2/c)

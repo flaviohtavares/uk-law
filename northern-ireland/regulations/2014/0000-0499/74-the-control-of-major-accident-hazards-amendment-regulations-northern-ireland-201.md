@@ -40,23 +40,23 @@ Coming into operation
 
 7th April 2014
 
-The Department of Enterprise, Trade and Investment *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048031], being the Department concerned *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048041], makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 (“the 1972 Act) *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048051] and Articles 17(1) to (5) *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048061], 40(2) and (4) and 55(2) of, and paragraphs 1(1) and (2), 14(1), 15 and 19 of Schedule 3 to the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048071] (“**the 1978 Order *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d]**”).
+The Department of Enterprise, Trade and Investment *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048031], being the Department concerned *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048041], makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 (“the 1972 Act) *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048051] and Articles 17(1) to (5) *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048061], 40(2) and (4) and 55(2) of, and paragraphs 1(1) and (2), 14(1), 15 and 19 of Schedule 3 to the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048071] (“**the 1978 Order *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d]**”).
 
-The Department was designated *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048081] for the purposes of section 2(2) of the 1972 Act in relation to measures relating to the prevention and limitation of the effects of accidents involving dangerous substances. *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d]
+The Department was designated *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048081] for the purposes of section 2(2) of the 1972 Act in relation to measures relating to the prevention and limitation of the effects of accidents involving dangerous substances. *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d]
 
-The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048091] of the 1978 Order after the Executive had carried out consultations in accordance with Article 46(3) *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048101].
+The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048091] of the 1978 Order after the Executive had carried out consultations in accordance with Article 46(3) *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048101].
 
 ## 1. Citation, commencement and interpretation
 
-(1) These Regulations may be cited as the Control of Major Accident Hazards (Amendment) Regulations (Northern Ireland) 2014 and shall come into operation on 7th April 2014. *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d]
+(1) These Regulations may be cited as the Control of Major Accident Hazards (Amendment) Regulations (Northern Ireland) 2014 and shall come into operation on 7th April 2014. *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d]
 
-(2) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048111] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d]
+(2) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048111] shall apply to these Regulations as it applies to an Act of the Assembly. *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d]
 
 ## 2. Amendment of the Control of Major Accident Hazards Regulations (Northern Ireland) 2000
 
-In Part 2 of Schedule 1 to the Control of Major Accident Hazards Regulations (Northern Ireland) 2000 *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048121] in column 1 of the table under the entry relating to petroleum products, after “(c) gas oils (including diesel fuels, home heating oils and gas oil blending streams)”, insert— *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d]
+In Part 2 of Schedule 1 to the Control of Major Accident Hazards Regulations (Northern Ireland) 2000 *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d] [^c22048121] in column 1 of the table under the entry relating to petroleum products, after “(c) gas oils (including diesel fuels, home heating oils and gas oil blending streams)”, insert— *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d]
 
-> - (d) heavy fuel oils. *(affected by repeal, see note)*[^key-2bbf2262668404aecbb8cfc4f4c92e9d]
+> - (d) heavy fuel oils. *(affected by repeal, see note)*[^c-2bbf2262668404aecbb8cfc4f4c92e9d]
 
 Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 11th March 2014
 
@@ -78,7 +78,7 @@ Department of Enterprise, Trade and Investment
 
 ## Annotations
 
-[^key-2bbf2262668404aecbb8cfc4f4c92e9d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2014/74) revoked (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2015/325/schedule/7) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-2bbf2262668404aecbb8cfc4f4c92e9d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2014/74) revoked (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2015/325/schedule/7) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
 
 [^c22048031]: Marginal citation: Formerly the Department of Economic Development; *see* [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), [Article 3(5)](https://www.legislation.gov.uk/nisi/1999/283/article/3/5); that Department was formerly the Department of Manpower Services, *see* [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), [Article 3](https://www.legislation.gov.uk/nisi/1982/846/article/3)
 

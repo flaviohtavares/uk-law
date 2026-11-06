@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259M. Countering the effect of avoidance arrangements[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259M. Countering the effect of avoidance arrangements[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,8 +34,8 @@ summary: ''
 
 (4) A person obtains a “relevant tax advantage” if—
 
-- (a) the person avoids, to any extent, any provision of this Part, or any equivalent provision of the law of a territory outside the United Kingdom, restricting whether or how that person may make a deduction from income for the purposes of calculating taxable profits, [^key-085f72bd56ea7a58b75018debdd4544e]...
-- (b) the person avoids, to any extent, an amount being treated as income of that person under any provision of this Part or any equivalent provision of the law of a territory outside the United Kingdom, or[^key-d81967b4e7b859e690470a3de7e8f721]
+- (a) the person avoids, to any extent, any provision of this Part, or any equivalent provision of the law of a territory outside the United Kingdom, restricting whether or how that person may make a deduction from income for the purposes of calculating taxable profits, [^c-085f72bd56ea7a58b75018debdd4544e]...
+- (b) the person avoids, to any extent, an amount being treated as income of that person under any provision of this Part or any equivalent provision of the law of a territory outside the United Kingdom, or[^c-d81967b4e7b859e690470a3de7e8f721]
 - (c) the person does anything which, to any extent, results in an amount being treated as dual inclusion income of that person under any provision of this Part.
 
 (5) “**Relevant avoidance arrangements**” means arrangements the main purpose, or one of the main purposes, of which is to enable any person to obtain a relevant tax advantage.
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-085f72bd56ea7a58b75018debdd4544e]: Textual amendment: Word in [s. 259M(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259M/4/a) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/14)
+[^c-085f72bd56ea7a58b75018debdd4544e]: Textual amendment: Word in [s. 259M(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/259M/4/a) omitted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/14)
 
-[^key-d81967b4e7b859e690470a3de7e8f721]: Textual amendment: [S. 259M(4)(c)](https://www.legislation.gov.uk/ukpga/2010/8/section/259M/4/c) and word inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/14)
+[^c-d81967b4e7b859e690470a3de7e8f721]: Textual amendment: [S. 259M(4)(c)](https://www.legislation.gov.uk/ukpga/2010/8/section/259M/4/c) and word inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/14)

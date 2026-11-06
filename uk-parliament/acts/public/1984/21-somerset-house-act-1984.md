@@ -35,9 +35,9 @@ An Act to confer leasing powers on the Crown in respect of the Fine Rooms and ot
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Leasing of Somerset House for artistic, cultural or other purposes.[^key-4172bf112ed48f29ac7f35b186d07b35]
+## 1. Leasing of Somerset House for artistic, cultural or other purposes.[^c-4172bf112ed48f29ac7f35b186d07b35]
 
-(1) Subject to the provisions of this section, the Secretary of State for Communities and Local Government[^key-e2ef2da6d936a3c9e69f2fdb9a6cdc1c] may grant a lease of any part of Somerset House for such period as he thinks fit.
+(1) Subject to the provisions of this section, the Secretary of State for Communities and Local Government[^c-e2ef2da6d936a3c9e69f2fdb9a6cdc1c] may grant a lease of any part of Somerset House for such period as he thinks fit.
 
 (2) Any lease under this section of the part of Somerset House known as the Fine Rooms shall be on terms requiring their use for artistic or cultural purposes with provision for public access, whether on payment or otherwise.
 
@@ -49,6 +49,6 @@ This Act may be cited as the Somerset House Act 1984.
 
 ## Annotations
 
-[^key-4172bf112ed48f29ac7f35b186d07b35]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1984/21/section/1) transfer of functions (7.5.2008) by [Transfer of Functions (Miscellaneous) Order 2008 (S.I. 2008/1034)](https://www.legislation.gov.uk/uksi/2008/1034), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1034/article/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1034/article/4)
+[^c-4172bf112ed48f29ac7f35b186d07b35]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1984/21/section/1) transfer of functions (7.5.2008) by [Transfer of Functions (Miscellaneous) Order 2008 (S.I. 2008/1034)](https://www.legislation.gov.uk/uksi/2008/1034), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1034/article/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1034/article/4)
 
-[^key-e2ef2da6d936a3c9e69f2fdb9a6cdc1c]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1984/21/section/1/1) substituted (7.5.2008) by [Transfer of Functions (Miscellaneous) Order 2008 (S.I. 2008/1034)](https://www.legislation.gov.uk/uksi/2008/1034), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1034/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2008/1034/schedule/paragraph/3)
+[^c-e2ef2da6d936a3c9e69f2fdb9a6cdc1c]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/1984/21/section/1/1) substituted (7.5.2008) by [Transfer of Functions (Miscellaneous) Order 2008 (S.I. 2008/1034)](https://www.legislation.gov.uk/uksi/2008/1034), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1034/article/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2008/1034/schedule/paragraph/3)

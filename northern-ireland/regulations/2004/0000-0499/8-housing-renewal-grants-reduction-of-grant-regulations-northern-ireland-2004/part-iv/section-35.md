@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Disregard of capital of child or young person[^key-e444d8856158f03fdca7d0bc4e0e4e7f]
+## 35. Disregard of capital of child or young person[^c-e444d8856158f03fdca7d0bc4e0e4e7f]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The capital of a child or young person who is a member of the relevant person’
 
 ## Annotations
 
-[^key-e444d8856158f03fdca7d0bc4e0e4e7f]: Commencement: Reg. 35 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-e444d8856158f03fdca7d0bc4e0e4e7f]: Commencement: Reg. 35 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

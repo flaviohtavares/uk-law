@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Students who are treated as in attendance on a course[^key-63848a1bafa259eeef9bf3b3618d3a4e]
+## 75. Students who are treated as in attendance on a course[^c-63848a1bafa259eeef9bf3b3618d3a4e]
 
 *Extent: N.I.*
 
@@ -25,13 +25,13 @@ summary: ''
 (2) This regulation applies to—
 
 - (a) a compressed degree student;
-- (aa)[^key-98710a95d25d1109ffae02845389dd12] a student on a period of study or period of overseas work placement in an Erasmus year;
+- (aa)[^c-98710a95d25d1109ffae02845389dd12] a student on a period of study or period of overseas work placement in an Erasmus year;
 - (b) a disabled student who—
   - (i) is not a compressed degree student; and
   - (ii) is undertaking a designated course in the United Kingdom or at a relevant institution of higher education in the Republic of Ireland but is not in attendance because the student is unable to attend for a reason which relates to the student’s disability.
 
 ## Annotations
 
-[^key-63848a1bafa259eeef9bf3b3618d3a4e]: Commencement: Reg. 75 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-63848a1bafa259eeef9bf3b3618d3a4e]: Commencement: Reg. 75 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-98710a95d25d1109ffae02845389dd12]: Textual amendment: [Reg. 75(2)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/75/2/aa) inserted (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [17](https://www.legislation.gov.uk/nisr/2010/383/regulation/17)
+[^c-98710a95d25d1109ffae02845389dd12]: Textual amendment: [Reg. 75(2)(aa)](https://www.legislation.gov.uk/nisr/2009/373/regulation/75/2/aa) inserted (23.12.2010) by [The Education (Student Support) (No. 2) Regulations (Northern Ireland) 2009 (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/383)](https://www.legislation.gov.uk/nisr/2010/383), [regs. 1](https://www.legislation.gov.uk/nisr/2010/383/regulation/1), [17](https://www.legislation.gov.uk/nisr/2010/383/regulation/17)

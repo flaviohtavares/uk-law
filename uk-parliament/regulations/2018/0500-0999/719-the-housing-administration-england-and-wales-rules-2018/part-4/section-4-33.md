@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.33. Award of costs against the housing administrator[^key-3308007f1d8d9fa856ee61733b9ecf0d]
+## 4.33. Award of costs against the housing administrator[^c-3308007f1d8d9fa856ee61733b9ecf0d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to any provision of the Act by virtue of which the housing adm
 
 ## Annotations
 
-[^key-3308007f1d8d9fa856ee61733b9ecf0d]: Commencement: Rule 4.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-3308007f1d8d9fa856ee61733b9ecf0d]: Commencement: Rule 4.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 5A — HYDROGEN FUELLED MACHINERY[^key-9243d4710f3bfc439ff5ab1afdf48cef]
+## Schedule 5A — HYDROGEN FUELLED MACHINERY[^c-9243d4710f3bfc439ff5ab1afdf48cef]
 
 *Extent: E+W+S*
 
@@ -145,4 +145,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9243d4710f3bfc439ff5ab1afdf48cef]: Textual amendment: Sch. 5A inserted (29.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2025 (S.I. 2025/454)](https://www.legislation.gov.uk/uksi/2025/454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/454/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/454/regulation/2/4)
+[^c-9243d4710f3bfc439ff5ab1afdf48cef]: Textual amendment: Sch. 5A inserted (29.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2025 (S.I. 2025/454)](https://www.legislation.gov.uk/uksi/2025/454), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/454/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2025/454/regulation/2/4)

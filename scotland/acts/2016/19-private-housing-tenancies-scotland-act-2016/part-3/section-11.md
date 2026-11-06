@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Duty to provide specified information[^key-a8345ecc8c86dce1c7cd408644064593]
+## 11. Duty to provide specified information[^c-a8345ecc8c86dce1c7cd408644064593]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8345ecc8c86dce1c7cd408644064593]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/19/section/11) in force at 31.10.2016 by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)
+[^c-a8345ecc8c86dce1c7cd408644064593]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2016/19/section/11) in force at 31.10.2016 by [S.S.I. 2016/298](https://www.legislation.gov.uk/ssi/2016/298), [reg. 2](https://www.legislation.gov.uk/ssi/2016/298/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/298/schedule)

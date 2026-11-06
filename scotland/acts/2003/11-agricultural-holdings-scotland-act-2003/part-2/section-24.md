@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. The Keeper and the Register[^key-bec468cd060aab3cfb256d8e920de1a2]
+## 24. The Keeper and the Register[^c-bec468cd060aab3cfb256d8e920de1a2]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bec468cd060aab3cfb256d8e920de1a2]: Commencement: S. 24 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-bec468cd060aab3cfb256d8e920de1a2]: Commencement: S. 24 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

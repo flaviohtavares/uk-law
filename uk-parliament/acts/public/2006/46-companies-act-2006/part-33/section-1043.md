@@ -26,7 +26,7 @@ summary: ''
 - (b) bodies not formed for the purpose of carrying on a business that has for its object the acquisition of gain by the body or its individual members;
 - (c) bodies for the time being exempted from this section by direction of the Secretary of State;
 - (d) open-ended investment companies.
-- (e)[^key-1921c5835f1cc9e7d7325851341fc4be] protected cell companies registered under Part 4 of the Risk Transformation Regulations 2017.
+- (e)[^c-1921c5835f1cc9e7d7325851341fc4be] protected cell companies registered under Part 4 of the Risk Transformation Regulations 2017.
 
 (2) The Secretary of State may make provision by regulations applying specified provisions of the Companies Acts to all, or any specified description of, the bodies to which this section applies.
 
@@ -47,4 +47,4 @@ But in relation to any such body the operation of any such enactment, charter or
 
 [^c18952821]: Commencement: S. 1043 wholly in force at 6.4.2007; s. 1043 not in force at Royal Assent, see s. 1300; s. 1043 in force for specified purposes at 20.1.2007 by [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/3428/article/3/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))); s. 1043 wholly in force at 6.4.2007 by [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093) {art. 2(1)(c)}
 
-[^key-1921c5835f1cc9e7d7325851341fc4be]: Textual amendment: [S. 1043(1)(e)](https://www.legislation.gov.uk/ukpga/2006/46/section/1043/1/e) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/4/b) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-1921c5835f1cc9e7d7325851341fc4be]: Textual amendment: [S. 1043(1)(e)](https://www.legislation.gov.uk/ukpga/2006/46/section/1043/1/e) inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/4/b) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))

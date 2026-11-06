@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 165. Grant by Welsh Ministers for preservation or enhancement of conservation areas[^key-b52db09acc5b6759fa166ae2dcba546a][^key-394ed40c41f40f1042f9fee9056bfc53]
+## 165. Grant by Welsh Ministers for preservation or enhancement of conservation areas[^c-b52db09acc5b6759fa166ae2dcba546a][^c-394ed40c41f40f1042f9fee9056bfc53]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b52db09acc5b6759fa166ae2dcba546a]: Commencement: S. 165 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-b52db09acc5b6759fa166ae2dcba546a]: Commencement: S. 165 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-394ed40c41f40f1042f9fee9056bfc53]: Commencement: [S. 165](https://www.legislation.gov.uk/asc/2023/3/section/165) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-394ed40c41f40f1042f9fee9056bfc53]: Commencement: [S. 165](https://www.legislation.gov.uk/asc/2023/3/section/165) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

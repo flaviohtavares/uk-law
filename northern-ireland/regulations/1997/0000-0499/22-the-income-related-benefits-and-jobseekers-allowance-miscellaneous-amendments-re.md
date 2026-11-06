@@ -40,7 +40,7 @@ Coming into operation in accordance with Regulation 1
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 129(1), 131(1), 132(2), (3) and (4)(*a*), (*b*) and (*d*) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(*q*) and (5), 30(8), 73(2) and 165(1), (3) and (4) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6(5), 14(1) and (4)(*b*) and (*d*), 15(3) and 36(1) and (2) of the Jobseekers (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf and with the consent of the Department of the Environment for Northern Ireland[^f00004] in so far as relates to regulations 2(1), 10, 11, 12 and 13 of these Regulations, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-80532d684190e1b9e9ecdaa92ba05800]
+## 1. Citation, commencement and interpretation[^c-80532d684190e1b9e9ecdaa92ba05800]
 
 (1) These Regulations may be cited as the Income-Related Benefits and Jobseeker’s Allowance (Miscellaneous Amendments) Regulations (Northern Ireland) 1997 and this regulation shall come into operation on 1st April 1997.
 
@@ -70,7 +70,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (8) The Interpretation Act (Northern Ireland) 1954[^f00013] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Income-related benefits and jobseeker’s allowance: Disregard of certain income other than earnings[^key-7744aff2913a6ef6b2553f531c365464]
+## 2. Income-related benefits and jobseeker’s allowance: Disregard of certain income other than earnings[^c-7744aff2913a6ef6b2553f531c365464]
 
 (1) In Schedule 4 to the Housing Benefit Regulations (sums to be disregarded in the calculation of income other than earnings) after paragraph 64[^f00014] there shall be added the following paragraph—
 
@@ -141,13 +141,13 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (6) In Schedule 2 to the Family Credit Regulations in paragraph 22(2)(*a*)[^f00023] for “27(2)” there shall be substituted “27”.
 
-## 3. Income-related benefits and jobseeker’s allowance: capital treated as income[^key-f038a1fc242f9661ebda6b7a2dd3c8a2]
+## 3. Income-related benefits and jobseeker’s allowance: capital treated as income[^c-f038a1fc242f9661ebda6b7a2dd3c8a2]
 
 (1) In regulation 41(1) of the Income Support Regulations[^f00024] (capital treated as income) after “£8,000” there shall be inserted “or, in a case where regulation 45(*b*)[^f00025] applies, £16,000”.
 
 (2) In regulation 104(1) of the Jobseeker’s Allowance Regulations (capital treated as income) after “£8,000” there shall be inserted “or, in a case where regulation 107(*b*)[^f00026] applies, £16,000”.
 
-## 4. Income support and jobseeker’s allowance: definition of housing benefit expenditure[^key-6faa0cdc7d36eddc16cb16e037908199]
+## 4. Income support and jobseeker’s allowance: definition of housing benefit expenditure[^c-6faa0cdc7d36eddc16cb16e037908199]
 
 (1) In regulation 2(1) of the Income Support Regulations (interpretation) for the definition of “housing benefit expenditure” there shall be substituted the following definition—
 
@@ -161,7 +161,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 5. Income support and jobseeker’s allowance: calculation of income and capital of students[^key-b9b2593e8ad27bff5664b8b2e394a377]
+## 5. Income support and jobseeker’s allowance: calculation of income and capital of students[^c-b9b2593e8ad27bff5664b8b2e394a377]
 
 (1) In regulation 29 of the Income Support Regulations[^f00028] (calculation of earnings derived from employed earner’s employment and income other than earnings)—
 
@@ -191,7 +191,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
   .
 
-## 6. Income support and jobseeker’s allowance: calculation of weekly amount of income[^key-75a0d2291b39b9f2263befc4087166a2]
+## 6. Income support and jobseeker’s allowance: calculation of weekly amount of income[^c-75a0d2291b39b9f2263befc4087166a2]
 
 (1) In regulation 32 of the Income Support Regulations[^f00029] (calculation of weekly amount of income) after paragraph (6) there shall be inserted the following paragraph—
 
@@ -205,7 +205,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 7. Income support and jobseeker’s allowance: calculation of income other than earnings[^key-805f3acc9e04341b37234aa5cb8bc248]
+## 7. Income support and jobseeker’s allowance: calculation of income other than earnings[^c-805f3acc9e04341b37234aa5cb8bc248]
 
 (1) In regulation 40 of the Income Support Regulations (calculation of income other than earnings) after paragraph (3A)[^f00032] there shall be inserted the following paragraph—
 
@@ -219,7 +219,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 .
 
-## 8. Income support and jobseeker’s allowance: calculation of tariff income from capital[^key-ac59cd10de63e264240781fe1166427d]
+## 8. Income support and jobseeker’s allowance: calculation of tariff income from capital[^c-ac59cd10de63e264240781fe1166427d]
 
 In both regulation 53 of the Income Support Regulations[^f00035] and regulation 116 of the Jobseeker’s Allowance Regulations[^f00036] (calculation of tariff income from capital) in paragraph (1B)—
 
@@ -232,11 +232,11 @@ In both regulation 53 of the Income Support Regulations[^f00035] and regulation 
 
   .
 
-## 9. Income support: notional capital[^key-d5361e9a1f70d42c38f31ae04f77ea37]
+## 9. Income support: notional capital[^c-d5361e9a1f70d42c38f31ae04f77ea37]
 
 In regulation 51(3) of the Income Support Regulations[^f00037] (notional capital) in sub-paragraph (*a*)(i) for “or a war widow’s pension” there shall be substituted “, war widow’s pension or a pension payable to a person as a widow under the Naval, Military and Air Forces Etc. (Disablement and Death) Service Pensions Order 1983[^f00038] in so far as that Order is made under the Naval and Marine Pay and Pensions Act 1865[^f00039] or the Pensions and Yeomanry Pay Act 1884[^f00040], or is made only under section 12(1) of the Social Security (Miscellaneous Provisions) Act 1977[^f00041] and any power of Her Majesty otherwise than under any statutory provision to make provision about pensions for or in respect of persons who have been disabled or who have died in consequence of service as members of the armed forces of the Crown,”.
 
-## 10. Housing benefit: maximum housing benefit[^key-7891ac80312195e6b8b55caf4d84d622][^key-f250373b455a87c0bccc20f58bca9ad6]
+## 10. Housing benefit: maximum housing benefit[^c-7891ac80312195e6b8b55caf4d84d622][^c-f250373b455a87c0bccc20f58bca9ad6]
 
 In regulation 9 of the Housing Benefit Regulations (rates)—
 
@@ -247,7 +247,7 @@ In regulation 9 of the Housing Benefit Regulations (rates)—
 
   .
 
-## 11. Housing benefit: circumstances in which payment is to be made to a landlord or the Department of the Environment[^key-42504c2cb5532955519e5730dd543d5d][^key-6419b8721c52ada465015de42e8b7e4e]
+## 11. Housing benefit: circumstances in which payment is to be made to a landlord or the Department of the Environment[^c-42504c2cb5532955519e5730dd543d5d][^c-6419b8721c52ada465015de42e8b7e4e]
 
 In regulation 93 of the Housing Benefit Regulations[^f00043] (circumstances in which payment is to be made to a landlord or the Department of the Environment)—
 
@@ -261,15 +261,15 @@ In regulation 93 of the Housing Benefit Regulations[^f00043] (circumstances in w
 
   .
 
-## 12. Housing benefit: circumstances in which payment may be made to a landlord or the Department of the Environment[^key-6d4184560194e1299f61715752e5d9eb][^key-f2481bb7813fcfe703be42512cf0d2cb]
+## 12. Housing benefit: circumstances in which payment may be made to a landlord or the Department of the Environment[^c-6d4184560194e1299f61715752e5d9eb][^c-f2481bb7813fcfe703be42512cf0d2cb]
 
 In regulation 94(3) of the Housing Benefit Regulations[^f00044] (circumstances in which payment may be made to a landlord or the Department of the Environment) at the end there shall be added “and paragraph (1A) of that regulation shall have effect for the purposes of this regulation”.
 
-## 13. Housing benefit: recoverable overpayments and excess benefit[^key-e3c01980c1116d5fcc943417eb73b682][^key-330b63d94571e5d446df557b4cf07c28]
+## 13. Housing benefit: recoverable overpayments and excess benefit[^c-e3c01980c1116d5fcc943417eb73b682][^c-330b63d94571e5d446df557b4cf07c28]
 
 In regulation 99(3) of the Housing Benefit Regulations (recoverable overpayments) for “or something done or omitted to be done” there shall be substituted “, whether in the form of an act or omission,”.
 
-## 14. Housing benefit: ineligible service charges[^key-5cc608e46f494878639973f7d9c320b7][^key-fda99dc5b713192fd9be28ecf61640fd]
+## 14. Housing benefit: ineligible service charges[^c-5cc608e46f494878639973f7d9c320b7][^c-fda99dc5b713192fd9be28ecf61640fd]
 
 In Schedule 1 to the Housing Benefit Regulations (ineligible service charges) in paragraph 1A[^f00045] (amount ineligible for meals)—
 
@@ -281,7 +281,7 @@ In Schedule 1 to the Housing Benefit Regulations (ineligible service charges) in
 
   .
 
-## 15. Disability working allowance: reviews[^key-eedf203cc3d55ea40e597fce17eab58f]
+## 15. Disability working allowance: reviews[^c-eedf203cc3d55ea40e597fce17eab58f]
 
 In regulation 66 of the Social Security (Adjudication) Regulations (Northern Ireland) 1995[^f00046] (review in disability working allowance cases) for paragraph (1) there shall be substituted the following paragraph—
 
@@ -339,7 +339,7 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00005]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992
 
-[^key-80532d684190e1b9e9ecdaa92ba05800]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/1)
+[^c-80532d684190e1b9e9ecdaa92ba05800]: Commencement: Reg. 1 in operation at 1.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/1)
 
 [^f00006]: Footnote: The definition of “benefit week” was amended by regulation 2(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -357,7 +357,7 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00013]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7744aff2913a6ef6b2553f531c365464]: Commencement: Reg. 2 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-7744aff2913a6ef6b2553f531c365464]: Commencement: Reg. 2 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00014]: Footnote: Paragraph 64 was added by regulation 8(*b*) of [S.R. 1997 No. 4](https://www.legislation.gov.uk/nisr/1997/4)
 
@@ -379,7 +379,7 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00023]: Footnote: Paragraph 22 was amended by regulation 2 of [S.R. 1989 No. 366](https://www.legislation.gov.uk/nisr/1989/366)
 
-[^key-f038a1fc242f9661ebda6b7a2dd3c8a2]: Commencement: Reg. 3 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-f038a1fc242f9661ebda6b7a2dd3c8a2]: Commencement: Reg. 3 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00024]: Footnote: Relevant amending Regulations are [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137)
 
@@ -387,15 +387,15 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00026]: Footnote: Regulation 107 was substituted by regulation 9 of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-6faa0cdc7d36eddc16cb16e037908199]: Commencement: Reg. 4 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-6faa0cdc7d36eddc16cb16e037908199]: Commencement: Reg. 4 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00027]: Footnote: Regulation 10(1) was amended by regulation 5 of [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424)
 
-[^key-b9b2593e8ad27bff5664b8b2e394a377]: Commencement: Reg. 5 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-b9b2593e8ad27bff5664b8b2e394a377]: Commencement: Reg. 5 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00028]: Footnote: Relevant amending Regulations are [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365) and [S.R. 1990 No. 131](https://www.legislation.gov.uk/nisr/1990/131)
 
-[^key-75a0d2291b39b9f2263befc4087166a2]: Commencement: Reg. 6 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-75a0d2291b39b9f2263befc4087166a2]: Commencement: Reg. 6 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00029]: Footnote: Paragraph (7) was added by regulation 10(*b*) of [S.R. 1989 No. 365](https://www.legislation.gov.uk/nisr/1989/365)
 
@@ -403,7 +403,7 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00031]: Footnote: Paragraph (2A) is inserted by regulation 5(2) of these Regulations
 
-[^key-805f3acc9e04341b37234aa5cb8bc248]: Commencement: Reg. 7 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-805f3acc9e04341b37234aa5cb8bc248]: Commencement: Reg. 7 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00032]: Footnote: Paragraph (3A) was inserted by regulation 4(4)(*b*) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and amended by regulation 8 of [S.R. 1991 No. 46](https://www.legislation.gov.uk/nisr/1991/46)
 
@@ -411,13 +411,13 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00034]: Footnote: Paragraph (7) is inserted by regulation 6(2) of these Regulations
 
-[^key-ac59cd10de63e264240781fe1166427d]: Commencement: Reg. 8 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-ac59cd10de63e264240781fe1166427d]: Commencement: Reg. 8 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00035]: Footnote: Paragraph (1B) was inserted by regulation 11(*b*)(ii) of [S.R. 1996 No. 93](https://www.legislation.gov.uk/nisr/1996/93)
 
 [^f00036]: Footnote: Paragraph (1B) was inserted by regulation 10(*b*) of [S.R. 1996 No. 356](https://www.legislation.gov.uk/nisr/1996/356)
 
-[^key-d5361e9a1f70d42c38f31ae04f77ea37]: Commencement: Reg. 9 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
+[^c-d5361e9a1f70d42c38f31ae04f77ea37]: Commencement: Reg. 9 in operation at 7.4.1997 with effect in accordance with reg. 1(2)
 
 [^f00037]: Footnote: Regulation 51(3) was substituted by regulation 11(*a*) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 7 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), regulation 4(3)(*c*) of [S.R. 1990 No. 33](https://www.legislation.gov.uk/nisr/1990/33), regulation 4(5) of [S.R. 1991 No. 204](https://www.legislation.gov.uk/nisr/1991/204), regulation 5(5) of [S.R. 1992 No. 201](https://www.legislation.gov.uk/nisr/1992/201), paragraph 6(8) of Schedule 2 to [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149), regulation 5(3)(*c*) of [S.R. 1993 No. 195](https://www.legislation.gov.uk/nisr/1993/195) and regulation 5(3)(*c*) of [S.R. 1993 No. 233](https://www.legislation.gov.uk/nisr/1993/233)
 
@@ -429,34 +429,34 @@ In so far as these Regulations are required, for the purposes of regulations 2(1
 
 [^f00041]: Footnote: [1977 c. 5](https://www.legislation.gov.uk/ukpga/1977/5)
 
-[^key-7891ac80312195e6b8b55caf4d84d622]: Commencement: Reg. 10 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+[^c-7891ac80312195e6b8b55caf4d84d622]: Commencement: Reg. 10 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
 
-[^key-f250373b455a87c0bccc20f58bca9ad6]: Commencement: Reg. 10 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+[^c-f250373b455a87c0bccc20f58bca9ad6]: Commencement: Reg. 10 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
 
 [^f00042]: Footnote: Regulation 48A was inserted by regulation 3(6) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297) and paragraph (1) was amended by regulation 5 of [S.R. 1992 No. 549](https://www.legislation.gov.uk/nisr/1992/549)
 
-[^key-42504c2cb5532955519e5730dd543d5d]: Commencement: Reg. 11 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+[^c-42504c2cb5532955519e5730dd543d5d]: Commencement: Reg. 11 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
 
-[^key-6419b8721c52ada465015de42e8b7e4e]: Commencement: Reg. 11 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+[^c-6419b8721c52ada465015de42e8b7e4e]: Commencement: Reg. 11 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
 
 [^f00043]: Footnote: Relevant amending Regulations are [S.R. 1996 Nos. 334](https://www.legislation.gov.uk/nisr/1996/334) and [448](https://www.legislation.gov.uk/nisr/1996/448)
 
-[^key-6d4184560194e1299f61715752e5d9eb]: Commencement: Reg. 12 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+[^c-6d4184560194e1299f61715752e5d9eb]: Commencement: Reg. 12 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
 
-[^key-f2481bb7813fcfe703be42512cf0d2cb]: Commencement: Reg. 12 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+[^c-f2481bb7813fcfe703be42512cf0d2cb]: Commencement: Reg. 12 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
 
 [^f00044]: Footnote: Regulation 94(3) was added by regulation 10 of [S.R. 1994 No. 335](https://www.legislation.gov.uk/nisr/1994/335)
 
-[^key-e3c01980c1116d5fcc943417eb73b682]: Commencement: Reg. 13 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+[^c-e3c01980c1116d5fcc943417eb73b682]: Commencement: Reg. 13 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
 
-[^key-330b63d94571e5d446df557b4cf07c28]: Commencement: Reg. 13 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+[^c-330b63d94571e5d446df557b4cf07c28]: Commencement: Reg. 13 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
 
-[^key-5cc608e46f494878639973f7d9c320b7]: Commencement: Reg. 14 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
+[^c-5cc608e46f494878639973f7d9c320b7]: Commencement: Reg. 14 in operation at 1.4.1997 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/a)(5)
 
-[^key-fda99dc5b713192fd9be28ecf61640fd]: Commencement: Reg. 14 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
+[^c-fda99dc5b713192fd9be28ecf61640fd]: Commencement: Reg. 14 in operation at 7.4.1997 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/nisr/1997/22/regulation/1/4/b)
 
 [^f00045]: Footnote: Relevant amending rules are [S.R. 1988 No. 314](https://www.legislation.gov.uk/nisr/1988/314) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
 
-[^key-eedf203cc3d55ea40e597fce17eab58f]: Commencement: Reg. 15 in operation at 8.4.1997 with effect in accordance with reg. 1(6)
+[^c-eedf203cc3d55ea40e597fce17eab58f]: Commencement: Reg. 15 in operation at 8.4.1997 with effect in accordance with reg. 1(6)
 
 [^f00046]: Footnote: [S.R. 1995 No. 293](https://www.legislation.gov.uk/nisr/1995/293)

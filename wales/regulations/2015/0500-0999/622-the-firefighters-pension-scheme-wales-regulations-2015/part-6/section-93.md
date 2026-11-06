@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Eligible child’s pension[^key-dbf7c58fdd25742ed7a6ab2221aefc86]
+## 93. Eligible child’s pension[^c-dbf7c58fdd25742ed7a6ab2221aefc86]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbf7c58fdd25742ed7a6ab2221aefc86]: Commencement: Reg. 93 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-dbf7c58fdd25742ed7a6ab2221aefc86]: Commencement: Reg. 93 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

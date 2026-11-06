@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Disposal and use of common good property: consultation[^key-2c56d4a1d4ea14fd436cfb86a965f2f1]
+## 104. Disposal and use of common good property: consultation[^c-2c56d4a1d4ea14fd436cfb86a965f2f1]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c56d4a1d4ea14fd436cfb86a965f2f1]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2015/6/section/104) in force at 27.6.2018 by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(d)](https://www.legislation.gov.uk/ssi/2018/139/article/2/d)
+[^c-2c56d4a1d4ea14fd436cfb86a965f2f1]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2015/6/section/104) in force at 27.6.2018 by [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(d)](https://www.legislation.gov.uk/ssi/2018/139/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 13 — Regulations as to compensation in respect of orders relating to mineral working[^key-0401029da8e68e80570e7f7caace7c20]
+## SCHEDULE 13 — Regulations as to compensation in respect of orders relating to mineral working[^c-0401029da8e68e80570e7f7caace7c20]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ and may also make different provision for different cases, and incidental or sup
 
 ## Annotations
 
-[^key-0401029da8e68e80570e7f7caace7c20]: Modification: [Sch. 13](https://www.legislation.gov.uk/ukpga/1997/8/schedule/13) modified (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [31(5)](https://www.legislation.gov.uk/ssi/2010/60/regulation/31/5) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-0401029da8e68e80570e7f7caace7c20]: Modification: [Sch. 13](https://www.legislation.gov.uk/ukpga/1997/8/schedule/13) modified (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [31(5)](https://www.legislation.gov.uk/ssi/2010/60/regulation/31/5) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
 
 [^c950528]: Textual amendment: Words in [Sch. 13 para. 1(1)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/13/paragraph/1/1) repealed (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2 Pt. I para. 127(23)](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2/part/I/paragraph/127/23), [Pt. IV](https://www.legislation.gov.uk/uksi/1999/1820/part/IV); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)

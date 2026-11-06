@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 111. Repeals[^key-ec8f5a30d10e6b34120f5e55e767f68e]
+## 111. Repeals[^c-ec8f5a30d10e6b34120f5e55e767f68e]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Subject to the provisions of Schedule 8, the provisions specified in Schedule 9 
 
 ## Annotations
 
-[^key-ec8f5a30d10e6b34120f5e55e767f68e]: Commencement: S. 111 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-ec8f5a30d10e6b34120f5e55e767f68e]: Commencement: S. 111 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

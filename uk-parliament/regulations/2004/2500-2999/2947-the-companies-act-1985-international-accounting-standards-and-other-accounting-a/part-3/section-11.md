@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Summary financial statements[^key-7e67823f5b18d4af549332c5fe217053]
+## 11. Summary financial statements[^c-7e67823f5b18d4af549332c5fe217053]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7e67823f5b18d4af549332c5fe217053]: Commencement: Reg. 11 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-7e67823f5b18d4af549332c5fe217053]: Commencement: Reg. 11 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00010]: Footnote: Section 251 was substituted by section 15 of the Companies Act 1989, and amended by regulation 3 of S.I. [1992/3003](https://www.legislation.gov.uk/uksi/1992/3003), by article 14 of S.I. [2000/3373](https://www.legislation.gov.uk/uksi/2000/3373), by article 15 of S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649) and by regulation 8 of S.I. [2002/1986](https://www.legislation.gov.uk/uksi/2002/1986).

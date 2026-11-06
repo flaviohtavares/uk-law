@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 495. Statement about deduction of income tax[^key-143bd9b5bb204ba479f60d10ee9dbf46]
+## 495. Statement about deduction of income tax[^c-143bd9b5bb204ba479f60d10ee9dbf46]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-143bd9b5bb204ba479f60d10ee9dbf46]: Modification: S. 495 excluded (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/4)
+[^c-143bd9b5bb204ba479f60d10ee9dbf46]: Modification: S. 495 excluded (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/12/4)

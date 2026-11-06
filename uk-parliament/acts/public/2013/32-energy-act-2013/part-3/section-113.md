@@ -24,14 +24,14 @@ summary: ''
 
 (2) An instrument containing (whether alone or with other provision)—
 
-- (a) nuclear regulations , or nuclear safeguards regulations,[^key-700057e4e4e98d47b05af5018e3bc698] which fall within subsection (3), [^key-e77b7c0c984067c76081a7583990bf26]...
-- (aa)[^key-da5509e7b9493f3c6cbdfc37dcdf5de4] regulations under section 76A(7),
-- (b) an order under section 111, or[^key-623af1e3d1f4c9e2927e2de5532b5ff9]
+- (a) nuclear regulations , or nuclear safeguards regulations,[^c-700057e4e4e98d47b05af5018e3bc698] which fall within subsection (3), [^c-e77b7c0c984067c76081a7583990bf26]...
+- (aa)[^c-da5509e7b9493f3c6cbdfc37dcdf5de4] regulations under section 76A(7),
+- (b) an order under section 111, or[^c-623af1e3d1f4c9e2927e2de5532b5ff9]
 - (c) regulations under section 112(1B),
 
 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(3) Nuclear regulations or nuclear safeguards regulations[^key-ca7c081cd5176627bc40db9091ac7cd0] fall within this subsection if—
+(3) Nuclear regulations or nuclear safeguards regulations[^c-ca7c081cd5176627bc40db9091ac7cd0] fall within this subsection if—
 
 - (a) they are the first nuclear regulations or nuclear safeguards regulations to be made,
 - (b) they include provision amending or repealing any provision of—
@@ -62,12 +62,12 @@ and for this purpose nuclear regulations or nuclear safeguards regulations which
 
 ## Annotations
 
-[^key-700057e4e4e98d47b05af5018e3bc698]: Textual amendment: Words in s. 113(2)(a) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/a); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-700057e4e4e98d47b05af5018e3bc698]: Textual amendment: Words in s. 113(2)(a) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/a); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-e77b7c0c984067c76081a7583990bf26]: Textual amendment: Word in s. 113(2)(a) omitted (26.10.2018) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/b); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-e77b7c0c984067c76081a7583990bf26]: Textual amendment: Word in s. 113(2)(a) omitted (26.10.2018) by virtue of [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/b); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-da5509e7b9493f3c6cbdfc37dcdf5de4]: Textual amendment: S. 113(2)(aa) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(c)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/c); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-da5509e7b9493f3c6cbdfc37dcdf5de4]: Textual amendment: S. 113(2)(aa) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(c)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/c); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-623af1e3d1f4c9e2927e2de5532b5ff9]: Textual amendment: S. 113(2)(c) and word inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(d)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/d); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-623af1e3d1f4c9e2927e2de5532b5ff9]: Textual amendment: S. 113(2)(c) and word inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(2)(d)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/2/d); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-ca7c081cd5176627bc40db9091ac7cd0]: Textual amendment: Words in s. 113(3) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/3); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-ca7c081cd5176627bc40db9091ac7cd0]: Textual amendment: Words in s. 113(3) inserted (26.10.2018) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 9(3)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9/3); [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)

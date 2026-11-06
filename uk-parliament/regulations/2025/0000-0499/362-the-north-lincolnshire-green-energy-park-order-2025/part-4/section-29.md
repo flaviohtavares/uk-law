@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Application of Part 1 of the 1965 Act[^key-97dbd14607aa0f3dbe1fd5bd4a4256e4]
+## 29. Application of Part 1 of the 1965 Act[^c-97dbd14607aa0f3dbe1fd5bd4a4256e4]
 
 *Extent: E+W+S*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-97dbd14607aa0f3dbe1fd5bd4a4256e4]: Commencement: Art. 29 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-97dbd14607aa0f3dbe1fd5bd4a4256e4]: Commencement: Art. 29 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
 [^f00028]: Footnote: Inserted by section 202(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

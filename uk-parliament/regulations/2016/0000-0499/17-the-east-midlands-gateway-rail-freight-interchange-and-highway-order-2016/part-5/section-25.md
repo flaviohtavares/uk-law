@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Compulsory acquisition of land and rights[^key-f076a2748bb1174c8fee078bb52ecb36]
+## 25. Compulsory acquisition of land and rights[^c-f076a2748bb1174c8fee078bb52ecb36]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ whichever is the earlier.
 
 ## Annotations
 
-[^key-f076a2748bb1174c8fee078bb52ecb36]: Commencement: Art. 25 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-f076a2748bb1174c8fee078bb52ecb36]: Commencement: Art. 25 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
 [^f00031]: Footnote: Section 11(1) was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and paragraph 12(1) of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 150. Meaning of “annualised final pay”[^key-5ec21f0cb181522bbef447dd8e560068]
+## 150. Meaning of “annualised final pay”[^c-5ec21f0cb181522bbef447dd8e560068]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ where—
 
 ## Annotations
 
-[^key-5ec21f0cb181522bbef447dd8e560068]: Commencement: Reg. 150 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-5ec21f0cb181522bbef447dd8e560068]: Commencement: Reg. 150 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

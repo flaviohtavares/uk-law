@@ -38,7 +38,7 @@ summary: ''
 - (a) as if he had been so admitted in pursuance of a hospital order made on the date on which the order under paragraph (2)(a) was made; and
 - (b) if the court so directs, as if a restriction order had been made, either without limit of time or during such period as may be specified in the direction.
 
-(4) An order shall not be made under paragraph (2)(a) by a court unless an opportunity has been given to the authorised HSC trust in which the hospital is vested[^key-b6dd32198986373470ab4359ebb8670d] to make representations to the court concerning the making of such an order.
+(4) An order shall not be made under paragraph (2)(a) by a court unless an opportunity has been given to the authorised HSC trust in which the hospital is vested[^c-b6dd32198986373470ab4359ebb8670d] to make representations to the court concerning the making of such an order.
 
 (5) A guardianship order placing a patient under the guardianship of any person shall not be made under paragraph (2)(b)(i) unless the court is satisfied that that person is willing to receive the patient into guardianship.
 
@@ -62,7 +62,7 @@ summary: ''
 
 [^c21432081]: Textual amendment: [1996 NI 24](https://www.legislation.gov.uk/1996/ni24)
 
-[^key-b6dd32198986373470ab4359ebb8670d]: Textual amendment: Words in [art. 50A(4)](https://www.legislation.gov.uk/nisi/1986/595/article/50A/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 83](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/83); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-b6dd32198986373470ab4359ebb8670d]: Textual amendment: Words in [art. 50A(4)](https://www.legislation.gov.uk/nisi/1986/595/article/50A/4) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 83](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/83); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c17124761]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/1998/ni9)
 

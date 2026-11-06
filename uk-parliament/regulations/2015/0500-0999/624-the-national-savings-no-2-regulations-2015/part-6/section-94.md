@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Loss of documents, etc.[^key-b6f8b08bb75d5994d878bbf39ae61658]
+## 94. Loss of documents, etc.[^c-b6f8b08bb75d5994d878bbf39ae61658]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ issued by the Director of Savings under these Regulations, or by the Postmaster 
 
 ## Annotations
 
-[^key-b6f8b08bb75d5994d878bbf39ae61658]: Commencement: Reg. 94 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-b6f8b08bb75d5994d878bbf39ae61658]: Commencement: Reg. 94 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

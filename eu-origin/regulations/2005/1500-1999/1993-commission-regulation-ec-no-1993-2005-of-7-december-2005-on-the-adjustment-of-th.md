@@ -33,66 +33,66 @@ of 7 December 2005
 
 on the adjustment of the export refunds on malt under Article 15(4) of Council Regulation (EC) No 1784/2003 (revoked)
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-7a6041da956d3b80f1ea89c8c0625e9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Basic information to be supplied with the declaration of stocks of malt or barley present on 30 June[^key-7a6041da956d3b80f1ea89c8c0625e9c]
+## ANNEX I — Basic information to be supplied with the declaration of stocks of malt or barley present on 30 June[^c-7a6041da956d3b80f1ea89c8c0625e9c]
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]A.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]A.
 
 Malt
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]1.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]2.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]B.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]B.
 
 Barley
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]1.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]2.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]3.
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]3.
 
 Declaration certifying that:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-7a6041da956d3b80f1ea89c8c0625e9c]
+## ANNEX II[^c-7a6041da956d3b80f1ea89c8c0625e9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-7a6041da956d3b80f1ea89c8c0625e9c]
+## ANNEX III[^c-7a6041da956d3b80f1ea89c8c0625e9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a6041da956d3b80f1ea89c8c0625e9c]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-7a6041da956d3b80f1ea89c8c0625e9c]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

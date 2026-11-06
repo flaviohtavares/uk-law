@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 163. Application of Part 3 to conservation areas[^key-6acceee1f55b1aa23da9644f7b568836][^key-bfe098dc8eb3e7125270cb7ea80674e5]
+## 163. Application of Part 3 to conservation areas[^c-6acceee1f55b1aa23da9644f7b568836][^c-bfe098dc8eb3e7125270cb7ea80674e5]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6acceee1f55b1aa23da9644f7b568836]: Commencement: S. 163 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-6acceee1f55b1aa23da9644f7b568836]: Commencement: S. 163 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-bfe098dc8eb3e7125270cb7ea80674e5]: Commencement: [S. 163](https://www.legislation.gov.uk/asc/2023/3/section/163) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-bfe098dc8eb3e7125270cb7ea80674e5]: Commencement: [S. 163](https://www.legislation.gov.uk/asc/2023/3/section/163) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

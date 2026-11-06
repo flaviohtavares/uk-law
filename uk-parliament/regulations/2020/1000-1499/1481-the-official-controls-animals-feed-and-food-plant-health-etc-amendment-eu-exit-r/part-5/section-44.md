@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. The Animals (Legislative Functions) (EU Exit) Regulations 2019[^key-8fef3350d6c5801856c44521de081bd3]
+## 44. The Animals (Legislative Functions) (EU Exit) Regulations 2019[^c-8fef3350d6c5801856c44521de081bd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fef3350d6c5801856c44521de081bd3]: Commencement: Reg. 44 in force at 31.12.2020 immediately before IP completion day, see reg. 1 (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
+[^c-8fef3350d6c5801856c44521de081bd3]: Commencement: Reg. 44 in force at 31.12.2020 immediately before IP completion day, see reg. 1 (as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2020/1631/regulation/10/2))
 
 [^c24369001]: Marginal citation: [S.I. 2019/588](https://www.legislation.gov.uk/uksi/2019/588).

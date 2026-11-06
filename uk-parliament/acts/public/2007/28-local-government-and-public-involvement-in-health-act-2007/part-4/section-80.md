@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Community governance petitions[^key-068b48686cb9acc5566c2786b26cc935]
+## 80. Community governance petitions[^c-068b48686cb9acc5566c2786b26cc935]
 
 *Extent: E+W*
 
@@ -26,9 +26,9 @@ summary: ''
 
 (3) The petition must be signed as follows—
 
-- (a) if the petition area has fewer than 500 local government electors, the petition must be signed by at least 37.5%[^key-94bdcb0f938e3473739baaec2fca0da3] of the electors;
-- (b) if the petition area has between 500 and 2,500 local government electors, the petition must be signed by at least 187[^key-54eb842940c5474e308d491c3faea361] of the electors;
-- (c) if the petition area has more than 2,500 local government electors, the petition must be signed by at least 7.5%[^key-3af0dff8fa5a94fbad91647bff593670] of the electors.
+- (a) if the petition area has fewer than 500 local government electors, the petition must be signed by at least 37.5%[^c-94bdcb0f938e3473739baaec2fca0da3] of the electors;
+- (b) if the petition area has between 500 and 2,500 local government electors, the petition must be signed by at least 187[^c-54eb842940c5474e308d491c3faea361] of the electors;
+- (c) if the petition area has more than 2,500 local government electors, the petition must be signed by at least 7.5%[^c-3af0dff8fa5a94fbad91647bff593670] of the electors.
 
 (4) The petition must—
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-068b48686cb9acc5566c2786b26cc935]: Commencement: S. 80 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
+[^c-068b48686cb9acc5566c2786b26cc935]: Commencement: S. 80 in force at 13.2.2008 by [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/337/article/2/b)
 
-[^key-94bdcb0f938e3473739baaec2fca0da3]: Textual amendment: Word in s. 80(3)(a) substituted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2015/998/article/3/a)
+[^c-94bdcb0f938e3473739baaec2fca0da3]: Textual amendment: Word in s. 80(3)(a) substituted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [3(a)](https://www.legislation.gov.uk/uksi/2015/998/article/3/a)
 
-[^key-54eb842940c5474e308d491c3faea361]: Textual amendment: Word in s. 80(3)(b) substituted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2015/998/article/3/b)
+[^c-54eb842940c5474e308d491c3faea361]: Textual amendment: Word in s. 80(3)(b) substituted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [3(b)](https://www.legislation.gov.uk/uksi/2015/998/article/3/b)
 
-[^key-3af0dff8fa5a94fbad91647bff593670]: Textual amendment: Word in s. 80(3)(c) substituted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [3(c)](https://www.legislation.gov.uk/uksi/2015/998/article/3/c)
+[^c-3af0dff8fa5a94fbad91647bff593670]: Textual amendment: Word in s. 80(3)(c) substituted (E.) (27.3.2015) by [The Legislative Reform (Community Governance Reviews) Order 2015 (S.I. 2015/998)](https://www.legislation.gov.uk/uksi/2015/998), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/998/article/1/3), [3(c)](https://www.legislation.gov.uk/uksi/2015/998/article/3/c)

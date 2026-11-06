@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Requirement for individual performing special procedure to be licensed[^key-126d6ca2c80d075ddd6ec605b19c22c2]
+## 58. Requirement for individual performing special procedure to be licensed[^c-126d6ca2c80d075ddd6ec605b19c22c2]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-126d6ca2c80d075ddd6ec605b19c22c2]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2017/2/section/58) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(c)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/c) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-126d6ca2c80d075ddd6ec605b19c22c2]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2017/2/section/58) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(c)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/c) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

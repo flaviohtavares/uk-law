@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60GB. Trade: exception in respect of the acquisition of Schedule 3DA revenue generating goods[^key-eed06886f28fa3411e905cff980365c4]
+## 60GB. Trade: exception in respect of the acquisition of Schedule 3DA revenue generating goods[^c-eed06886f28fa3411e905cff980365c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eed06886f28fa3411e905cff980365c4]: Textual amendment: Regs. 60GA, 60GB inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/440/regulation/11)
+[^c-eed06886f28fa3411e905cff980365c4]: Textual amendment: Regs. 60GA, 60GB inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2023/440/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82E. Section 82D: treatment of transferors under insurance business transfer schemes[^key-49539971a60322af5c978a262da58dfd]
+## 82E. Section 82D: treatment of transferors under insurance business transfer schemes[^c-49539971a60322af5c978a262da58dfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49539971a60322af5c978a262da58dfd]: Textual amendment: Ss. 82D-82F omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 52](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/52)
+[^c-49539971a60322af5c978a262da58dfd]: Textual amendment: Ss. 82D-82F omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 52](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/52)

@@ -33,11 +33,11 @@ summary: ''
 
 (5) The provisions in respect of which subsections (2) and (4) apply are—
 
-- (a) sections 12(4), 39(5)(a), 54, 57, 58, 58A, 58B,[^key-425f26877dcb98a2357526bab766cb36] 77 and 103 of this Act, and
+- (a) sections 12(4), 39(5)(a), 54, 57, 58, 58A, 58B,[^c-425f26877dcb98a2357526bab766cb36] 77 and 103 of this Act, and
 - (b) sections 13, 32 and 33 of the [^c11206131]Northern Ireland (Emergency Provisions) Act 1996 (possession and information offences) as they have effect by virtue of Schedule 1 to this Act.
 
 ## Annotations
 
-[^key-425f26877dcb98a2357526bab766cb36]: Textual amendment: Word in [s. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/118/5/a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/38)
+[^c-425f26877dcb98a2357526bab766cb36]: Textual amendment: Word in [s. 118(5)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/118/5/a) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 38](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/38)
 
 [^c11206131]: Marginal citation: [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22).

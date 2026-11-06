@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5A — Monetary penalties in relation to requirements under Part 3A[^key-26c7503c5d999caff476f91a73382e93]
+## Schedule 5A — Monetary penalties in relation to requirements under Part 3A[^c-26c7503c5d999caff476f91a73382e93]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,4 +124,4 @@ If a person does not pay the whole or any part of a penalty which the person is 
 
 ## Annotations
 
-[^key-26c7503c5d999caff476f91a73382e93]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1991/22/schedule/5A) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/1)
+[^c-26c7503c5d999caff476f91a73382e93]: Textual amendment: [Sch. 5A](https://www.legislation.gov.uk/ukpga/1991/22/schedule/5A) inserted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h), [Sch. 1](https://www.legislation.gov.uk/ukpga/2025/18/schedule/1)

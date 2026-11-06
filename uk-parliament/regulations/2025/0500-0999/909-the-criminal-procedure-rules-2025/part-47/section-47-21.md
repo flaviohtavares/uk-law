@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.21. Content of application for a customer information order under the Proceeds of Crime Act 2002[^key-dd7d91f4e0d4740422cd016f156f5042]
+## 47.21. Content of application for a customer information order under the Proceeds of Crime Act 2002[^c-dd7d91f4e0d4740422cd016f156f5042]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ As well as complying with rules 47.6 and 47.17, an applicant who wants the court
 
 ## Annotations
 
-[^key-dd7d91f4e0d4740422cd016f156f5042]: Commencement: Rule 47.21 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-dd7d91f4e0d4740422cd016f156f5042]: Commencement: Rule 47.21 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01180]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 363 was amended by section 77 of, and paragraphs 1 and 11 of Schedule 10 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 169 of, and paragraphs 1 and 16 of Schedule 19 to, the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) and section 49 of, and paragraphs 1 and 10 of Schedule 19 to, the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22). Section 364 was amended by section 107 of the Serious Organised Crime and Police Act [2005 (c. 27)](https://www.legislation.gov.uk/ukpga/2005/27) and article 2(1) of, and paragraph 196 of Schedule 1 to, [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Effect of granting scheduled monument consent on enforcement notice[^key-56cc145e9420fdec0e5c48a27a9dc178][^key-770b8dff2f16b2ae060eaa25394767b6]
+## 38. Effect of granting scheduled monument consent on enforcement notice[^c-56cc145e9420fdec0e5c48a27a9dc178][^c-770b8dff2f16b2ae060eaa25394767b6]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56cc145e9420fdec0e5c48a27a9dc178]: Commencement: S. 38 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-56cc145e9420fdec0e5c48a27a9dc178]: Commencement: S. 38 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-770b8dff2f16b2ae060eaa25394767b6]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2023/3/section/38) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-770b8dff2f16b2ae060eaa25394767b6]: Commencement: [S. 38](https://www.legislation.gov.uk/asc/2023/3/section/38) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Certificates of exception—exception from liability for, and entitlement to pay, Class 2 contributions[^key-ce076a344d4d508502d36f007378d1b9]
+## 46. Certificates of exception—exception from liability for, and entitlement to pay, Class 2 contributions[^c-ce076a344d4d508502d36f007378d1b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce076a344d4d508502d36f007378d1b9]: Textual amendment: Regs. 44-47 omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [24(1)(b)](https://www.legislation.gov.uk/uksi/2015/478/regulation/24/1/b)
+[^c-ce076a344d4d508502d36f007378d1b9]: Textual amendment: Regs. 44-47 omitted (6.4.2015) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations 2015 (S.I. 2015/478)](https://www.legislation.gov.uk/uksi/2015/478), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/478/regulation/1/4), [24(1)(b)](https://www.legislation.gov.uk/uksi/2015/478/regulation/24/1/b)

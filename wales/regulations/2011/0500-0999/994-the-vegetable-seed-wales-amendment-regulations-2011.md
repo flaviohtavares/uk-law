@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS, WALES
 
-The Vegetable Seed (Wales) (Amendment) Regulations 2011 (revoked)[^key-bac680fb98907ad03556ada804334126]
+The Vegetable Seed (Wales) (Amendment) Regulations 2011 (revoked)[^c-bac680fb98907ad03556ada804334126]
 
 Made
 
@@ -45,52 +45,52 @@ Coming into force
 
 22 April 2011
 
-[^key-bac680fb98907ad03556ada804334126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bac680fb98907ad03556ada804334126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-bac680fb98907ad03556ada804334126]
+## 1. Title, application and commencement[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Vegetable Seed (Wales) Regulations 2005[^key-bac680fb98907ad03556ada804334126]
+## 2. Amendment of the Vegetable Seed (Wales) Regulations 2005[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to Regulation 2[^key-bac680fb98907ad03556ada804334126]
+## 3. Amendment to Regulation 2[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of new regulations 19A, 19B and 19 C[^key-bac680fb98907ad03556ada804334126]
+## 4. Insertion of new regulations 19A, 19B and 19 C[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 22[^key-bac680fb98907ad03556ada804334126]
+## 5. Amendment to regulation 22[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to regulation 25[^key-bac680fb98907ad03556ada804334126]
+## 6. Amendment to regulation 25[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment to Schedule 1[^key-bac680fb98907ad03556ada804334126]
+## 7. Amendment to Schedule 1[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment to Schedule 4[^key-bac680fb98907ad03556ada804334126]
+## 8. Amendment to Schedule 4[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment to Schedule 8[^key-bac680fb98907ad03556ada804334126]
+## 9. Amendment to Schedule 8[^c-bac680fb98907ad03556ada804334126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bac680fb98907ad03556ada804334126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bac680fb98907ad03556ada804334126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bac680fb98907ad03556ada804334126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bac680fb98907ad03556ada804334126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bac680fb98907ad03556ada804334126]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [reg. 34(k)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/k) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))
+[^c-bac680fb98907ad03556ada804334126]: Textual amendment: Regulations revoked (27.2.2012) by [The Seed Marketing (Wales) Regulations 2012 (S.I. 2012/245)](https://www.legislation.gov.uk/wsi/2012/245), [reg. 34(k)](https://www.legislation.gov.uk/wsi/2012/245/regulation/34/k) (with [reg. 4](https://www.legislation.gov.uk/wsi/2012/245/regulation/4))

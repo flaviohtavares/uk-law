@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Modification by Authority to secure winding-up.[^key-0cb61cfdee79b622a4f4eb3cdf5922de]
+## 71A. Modification by Authority to secure winding-up.[^c-0cb61cfdee79b622a4f4eb3cdf5922de]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,10 +36,10 @@ make an order modifying that scheme with a view to ensuring that it is properly 
 - (a) for the form and manner in which an application for the purposes of this section is to be made to the Authority;
 - (b) for the matters which are to be contained in such an application;
 - (c) for the documents which must be attached to an application for the purposes of this section or which must otherwise be delivered to the Authority with or in connection with any such application;
-- (d) for persons to be required, before an application is made for the purposes of this section[^key-f956488ee7dbb9e99346007839d6034b], to give such notifications of the making of the application[^key-c68c4853d6d047ec478718713cc6f4d4] as may be prescribed;
+- (d) for persons to be required, before an application is made for the purposes of this section[^c-f956488ee7dbb9e99346007839d6034b], to give such notifications of the making of the application[^c-c68c4853d6d047ec478718713cc6f4d4] as may be prescribed;
 - (e) for the matters which are to be contained in a notification of such an application;
-- (f)[^key-edf7759c35303092fd1c70cd6b87d40f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-edf7759c35303092fd1c70cd6b87d40f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-edf7759c35303092fd1c70cd6b87d40f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-edf7759c35303092fd1c70cd6b87d40f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The power of the Authority to make an order under this section—
 
@@ -70,10 +70,10 @@ and for the purposes of this subsection no account shall be taken of modificatio
 
 ## Annotations
 
-[^key-0cb61cfdee79b622a4f4eb3cdf5922de]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/1995/26/section/71A) inserted (1.3.2002 for specified purposes, 1.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 48](https://www.legislation.gov.uk/ukpga/2000/19/section/48), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2002/437/article/3/2)
+[^c-0cb61cfdee79b622a4f4eb3cdf5922de]: Textual amendment: [S. 71A](https://www.legislation.gov.uk/ukpga/1995/26/section/71A) inserted (1.3.2002 for specified purposes, 1.4.2002 in so far as not already in force) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [ss. 48](https://www.legislation.gov.uk/ukpga/2000/19/section/48), [86(1)(b)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/b)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2002/437](https://www.legislation.gov.uk/uksi/2002/437), [art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2002/437/article/3/1/a)[(2)](https://www.legislation.gov.uk/uksi/2002/437/article/3/2)
 
-[^key-f956488ee7dbb9e99346007839d6034b]: Textual amendment: Words in s. 71A(4)(d) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 58(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/58/a); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-f956488ee7dbb9e99346007839d6034b]: Textual amendment: Words in s. 71A(4)(d) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 58(a)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/58/a); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-c68c4853d6d047ec478718713cc6f4d4]: Textual amendment: Words in s. 71A(4)(d) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 58(b)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/58/b); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-c68c4853d6d047ec478718713cc6f4d4]: Textual amendment: Words in s. 71A(4)(d) substituted (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 12 para. 58(b)](https://www.legislation.gov.uk/ukpga/2004/35/schedule/12/paragraph/58/b); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 
-[^key-edf7759c35303092fd1c70cd6b87d40f]: Textual amendment: S. 71A(4)(f)(g) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-edf7759c35303092fd1c70cd6b87d40f]: Textual amendment: S. 71A(4)(f)(g) repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

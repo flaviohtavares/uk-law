@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Duty of competent authorities[^key-dd9211ead1fbc94e7b0f52db8cce716a]
+## 6. Duty of competent authorities[^c-dd9211ead1fbc94e7b0f52db8cce716a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,14 +33,14 @@ summary: ''
 - (g) Part 2 of the Food and Environment Protection Act 1985 [^c23067951] (deposits in the sea);
 - (h) sections 128 and 129 of the Merchant Shipping Act 1995 [^c23067961] (prevention of pollution from ships and further provision for prevention of pollution from ships);
 - (i) the Pollution Prevention and Control Act 1999 [^c23067971];
-- (j)[^key-752502688bc35f77da61ecb6f1780ba7] the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019;
+- (j)[^c-752502688bc35f77da61ecb6f1780ba7] the Merchant Shipping (Prevention of Oil Pollution) Regulations 2019;
 - (k) the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c23067991];
 - (l) the Offshore Installations (Emergency Pollution Control) Regulations 2002 [^c23068001];
 - (m) the Planning Act 2008 [^c23068011];
 - (n) the Marine Act, in particular any functions under Parts 3, 4, 5 and 6 of that Act (marine planning, marine licensing, nature conservation and management of inshore fisheries, respectively); and
 - (o) these Regulations.
 
-(2A)[^key-d41f1c1692570ba1240875b2dc0ad3d9] The duty in paragraph (1) does not apply to functions under regulation 36A (compensatory measures: relevant offshore wind plans or projects).
+(2A)[^c-d41f1c1692570ba1240875b2dc0ad3d9] The duty in paragraph (1) does not apply to functions under regulation 36A (compensatory measures: relevant offshore wind plans or projects).
 
 (3) Without prejudice to the generality of paragraph (1), in relation to the offshore marine area a competent authority must take such steps in the exercise of its functions as it considers appropriate to secure the objective in paragraph (4), so far as lies within its powers.
 
@@ -54,7 +54,7 @@ summary: ''
 
 (8) In this regulation “**the Marine Act**” means the Marine and Coastal Access Act 2009 [^c23068031].
 
-**6A.**[^key-d3a999ca5452402616e15a5b28482ad3] (1) The Secretary of State must publish, at least every six years from exit day, a report on the implementation of the measures for the conservation of the natural habitat types listed in Annex I to the Habitats Directive and species listed in Annex II to that Directive.
+**6A.**[^c-d3a999ca5452402616e15a5b28482ad3] (1) The Secretary of State must publish, at least every six years from exit day, a report on the implementation of the measures for the conservation of the natural habitat types listed in Annex I to the Habitats Directive and species listed in Annex II to that Directive.
 
 (2) The report must include in particular—
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9211ead1fbc94e7b0f52db8cce716a]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1013/regulation/6) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
+[^c-dd9211ead1fbc94e7b0f52db8cce716a]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1013/regulation/6) power to disapply or modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 293(4)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/4)[(5)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/5), [334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j) (with [s. 293(6)](https://www.legislation.gov.uk/ukpga/2023/52/section/293/6))
 
 [^c23067891]: Marginal citation: [1934 c. 49](https://www.legislation.gov.uk/ukpga/1934/49).
 
@@ -89,7 +89,7 @@ summary: ''
 
 [^c23067971]: Marginal citation: [1999 c. 24](https://www.legislation.gov.uk/ukpga/1999/24).
 
-[^key-752502688bc35f77da61ecb6f1780ba7]: Textual amendment: Words in reg. 6(2)(j) substituted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-752502688bc35f77da61ecb6f1780ba7]: Textual amendment: Words in reg. 6(2)(j) substituted (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/42/schedule/paragraph/6) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
 [^c23067991]: Marginal citation: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056), amended by [S.I. 2015/386](https://www.legislation.gov.uk/uksi/2015/386) and 2016/992.
 
@@ -97,10 +97,10 @@ summary: ''
 
 [^c23068011]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-d41f1c1692570ba1240875b2dc0ad3d9]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/6/2A) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/508/regulation/14)
+[^c-d41f1c1692570ba1240875b2dc0ad3d9]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/6/2A) inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2026/508/regulation/14)
 
 [^c23068021]: Marginal citation: Section 123(3)(a) applies in relation to the “UK marine area”, defined in section 42 of the Marine Act in terms which include the area comprised in the offshore marine area.
 
 [^c23068031]: Marginal citation: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-d3a999ca5452402616e15a5b28482ad3]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/6A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/579/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3a999ca5452402616e15a5b28482ad3]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/6A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/579/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

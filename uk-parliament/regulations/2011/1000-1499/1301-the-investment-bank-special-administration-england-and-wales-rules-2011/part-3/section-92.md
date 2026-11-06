@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Procedure for admitting clients’ claims for voting[^key-ccb413f88f2412c22d82f4118f811ea2]
+## 92. Procedure for admitting clients’ claims for voting[^c-ccb413f88f2412c22d82f4118f811ea2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb413f88f2412c22d82f4118f811ea2]: Commencement: [Rule 92](https://www.legislation.gov.uk/uksi/2011/1301/rule/92) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ccb413f88f2412c22d82f4118f811ea2]: Commencement: [Rule 92](https://www.legislation.gov.uk/uksi/2011/1301/rule/92) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

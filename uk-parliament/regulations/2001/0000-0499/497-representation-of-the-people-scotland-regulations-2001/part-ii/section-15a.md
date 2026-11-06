@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15A. Contents of service declaration: declarant with a service qualification under section 14(1A) of the 1983 Act[^key-38e32b7a4364499d6795c1f4a70bb5b7]
+## 15A. Contents of service declaration: declarant with a service qualification under section 14(1A) of the 1983 Act[^c-38e32b7a4364499d6795c1f4a70bb5b7]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e32b7a4364499d6795c1f4a70bb5b7]: Textual amendment: Reg. 15A inserted (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 10(3)](https://www.legislation.gov.uk/asp/2015/7/section/10/3), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)
+[^c-38e32b7a4364499d6795c1f4a70bb5b7]: Textual amendment: Reg. 15A inserted (25.7.2015) by [Scottish Elections (Reduction of Voting Age) Act 2015 (asp 7)](https://www.legislation.gov.uk/asp/2015/7), [ss. 10(3)](https://www.legislation.gov.uk/asp/2015/7/section/10/3), [21](https://www.legislation.gov.uk/asp/2015/7/section/21)

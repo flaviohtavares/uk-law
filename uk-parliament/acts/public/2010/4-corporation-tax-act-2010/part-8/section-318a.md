@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318A. Adjustment of pool to remove pre-2013 expenditure after the initial 6 periods[^key-f9d35a543999d7330fd16072982a59a5]
+## 318A. Adjustment of pool to remove pre-2013 expenditure after the initial 6 periods[^c-f9d35a543999d7330fd16072982a59a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ are to be treated as separate pre-commencement periods.
 
 ## Annotations
 
-[^key-f9d35a543999d7330fd16072982a59a5]: Textual amendment: S. 318A inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/7)
+[^c-f9d35a543999d7330fd16072982a59a5]: Textual amendment: S. 318A inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/7)

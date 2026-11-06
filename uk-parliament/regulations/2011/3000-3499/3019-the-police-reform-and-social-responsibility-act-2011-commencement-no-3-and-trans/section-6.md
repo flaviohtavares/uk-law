@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Transitional provision in relation to the appointment of the Deputy Mayor for Policing and Crime[^key-94be5bc8fc936650fd500ad15bfbc4d0]
+## 6. Transitional provision in relation to the appointment of the Deputy Mayor for Policing and Crime[^c-94be5bc8fc936650fd500ad15bfbc4d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94be5bc8fc936650fd500ad15bfbc4d0]: Commencement: Art. 6 in force at made date
+[^c-94be5bc8fc936650fd500ad15bfbc4d0]: Commencement: Art. 6 in force at made date
 
 [^f00005]: Footnote: [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29). Schedule 4A was inserted by Schedule 1 to the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24).

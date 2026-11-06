@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Summary sheriff: civil competence and jurisdiction[^key-5b316dea3ddc41839b7ef923baa0ae50]
+## 44. Summary sheriff: civil competence and jurisdiction[^c-5b316dea3ddc41839b7ef923baa0ae50]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b316dea3ddc41839b7ef923baa0ae50]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/18/section/44) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-5b316dea3ddc41839b7ef923baa0ae50]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2014/18/section/44) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184. Application for repayment of balance of contributions[^key-4afba8532114b106b650e17fbab102cf]
+## 184. Application for repayment of balance of contributions[^c-4afba8532114b106b650e17fbab102cf]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4afba8532114b106b650e17fbab102cf]: Commencement: [Reg. 184](https://www.legislation.gov.uk/ssi/2014/292/regulation/184) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-4afba8532114b106b650e17fbab102cf]: Commencement: [Reg. 184](https://www.legislation.gov.uk/ssi/2014/292/regulation/184) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

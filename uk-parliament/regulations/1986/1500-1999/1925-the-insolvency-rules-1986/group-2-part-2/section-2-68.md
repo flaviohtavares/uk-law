@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**2.68.**[^key-3cd429780944af0d9d340d0898769129] (1) This Chapter applies where the administrator makes, or proposes to make, a distribution to any class of creditors. Where the distribution is to a particular class of creditors, references in this Chapter to creditors shall, in so far as the context requires, be a reference to that class of creditors only.
+**2.68.**[^c-3cd429780944af0d9d340d0898769129] (1) This Chapter applies where the administrator makes, or proposes to make, a distribution to any class of creditors. Where the distribution is to a particular class of creditors, references in this Chapter to creditors shall, in so far as the context requires, be a reference to that class of creditors only.
 
 (2) The administrator shall give notice to the creditors of his intention to declare and distribute a dividend in accordance with Rule 2.95.
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))

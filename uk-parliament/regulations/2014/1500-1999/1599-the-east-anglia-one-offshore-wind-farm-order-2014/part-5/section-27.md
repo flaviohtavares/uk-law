@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Recovery of costs of new connections[^key-16f784fa255b62488996a4c70688b422]
+## 27. Recovery of costs of new connections[^c-16f784fa255b62488996a4c70688b422]
 
 *Extent: E+W+S*
 
-(1) Where any apparatus of a public utility undertakers or of a public communications provider is removed under article 26[^key-ebeac23e79baa2c8fcb2c5895a7240df] (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus shall be entitled to recover from the undertakers compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
+(1) Where any apparatus of a public utility undertakers or of a public communications provider is removed under article 26[^c-ebeac23e79baa2c8fcb2c5895a7240df] (statutory undertakers) any person who is the owner or occupier of premises to which a supply was given from that apparatus shall be entitled to recover from the undertakers compensation in respect of expenditure reasonably incurred by that person, in consequence of the removal, for the purpose of effecting a connection between the premises and any other apparatus from which a supply is given.
 
-(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 26[^key-3e352a9c371b690a9b7da62ac50b0ee1], any person who is—
+(2) Paragraph (1) does not apply in the case of the removal of a public sewer but where such a sewer is removed under article 26[^c-3e352a9c371b690a9b7da62ac50b0ee1], any person who is—
 
 - (a) the owner or occupier of premises the drains of which communicated with that sewer; or
 - (b) the owner of a private sewer which communicated with that sewer,
@@ -38,8 +38,8 @@ shall be entitled to recover from the undertakers compensation in respect of exp
 
 ## Annotations
 
-[^key-16f784fa255b62488996a4c70688b422]: Commencement: Art. 27 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-16f784fa255b62488996a4c70688b422]: Commencement: Art. 27 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-ebeac23e79baa2c8fcb2c5895a7240df]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/27/1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-ebeac23e79baa2c8fcb2c5895a7240df]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/uksi/2014/1599/article/27/1) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
 
-[^key-3e352a9c371b690a9b7da62ac50b0ee1]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2014/1599/article/27/2) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)
+[^c-3e352a9c371b690a9b7da62ac50b0ee1]: Textual amendment: Words in [art. 27(2)](https://www.legislation.gov.uk/uksi/2014/1599/article/27/2) substituted (25.3.2016) by [The East Anglia ONE Offshore Wind Farm (Corrections and Amendments) Order 2016 (S.I. 2016/447)](https://www.legislation.gov.uk/uksi/2016/447), [art. 1](https://www.legislation.gov.uk/uksi/2016/447/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/447/schedule/1)

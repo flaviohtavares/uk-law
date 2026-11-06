@@ -22,7 +22,7 @@ summary: ''
 
 Section 15
 
-### 1. Functions of overview and scrutiny committee[^key-a839c9dc7f75224c168c63b37be9061f]
+### 1. Functions of overview and scrutiny committee[^c-a839c9dc7f75224c168c63b37be9061f]
 
 (1) A CCA must arrange for the appointment by the CCA of one or more committees of the authority (referred to in this Schedule as overview and scrutiny committees).
 
@@ -43,7 +43,7 @@ Section 15
 - (a) power to direct that a decision is not to be implemented while it is under review or scrutiny by the overview and scrutiny committee, and
 - (b) power to recommend that the decision be reconsidered.
 
-(4A)[^key-389af60f26c9b6bd7bd054ad853fe016] Paragraph 9 of Schedule 2A makes provision about particular functions of overview and scrutiny committees in relation to commissioners appointed under section 29A.
+(4A)[^c-389af60f26c9b6bd7bd054ad853fe016] Paragraph 9 of Schedule 2A makes provision about particular functions of overview and scrutiny committees in relation to commissioners appointed under section 29A.
 
 (5) An overview and scrutiny committee of a CCA must publish details of how it proposes to exercise its powers in relation to the review and scrutiny of decisions made but not yet implemented and its arrangements in connection with the exercise of those powers.
 
@@ -53,7 +53,7 @@ Section 15
 
 (8) Any reference in this Schedule to the discharge of any functions includes a reference to the doing of anything which is calculated to facilitate, or is conducive or incidental to, the discharge of those functions.
 
-### 2. Overview and scrutiny committees: supplementary provision[^key-72226d7950a451e49857c2aa49ab7798]
+### 2. Overview and scrutiny committees: supplementary provision[^c-72226d7950a451e49857c2aa49ab7798]
 
 (1) An overview and scrutiny committee of a CCA—
 
@@ -83,7 +83,7 @@ Section 15
 
 (11) In sub-paragraphs (3) to (9) references to an overview and scrutiny committee of a CCA include references to any sub-committee of such a committee.
 
-### 3. Power to make further provision about overview and scrutiny committees[^key-6e8de42a4e0c3e6697ae9afc33abf95d]
+### 3. Power to make further provision about overview and scrutiny committees[^c-6e8de42a4e0c3e6697ae9afc33abf95d]
 
 (1) The Secretary of State may by regulations make further provision about overview and scrutiny committees of a CCA.
 
@@ -124,7 +124,7 @@ Section 15
 
 (9) In this paragraph references to an overview and scrutiny committee include references to any sub-committee of such a committee.
 
-### 4. Audit committees[^key-488e23c734b5673c6fc5b17298bdc9aa]
+### 4. Audit committees[^c-488e23c734b5673c6fc5b17298bdc9aa]
 
 (1) A CCA must arrange for the appointment by the CCA of an audit committee.
 
@@ -145,12 +145,12 @@ Section 15
 
 ## Annotations
 
-[^key-a839c9dc7f75224c168c63b37be9061f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/1) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-a839c9dc7f75224c168c63b37be9061f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/1) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-389af60f26c9b6bd7bd054ad853fe016]: Textual amendment: [Sch. 1 para. 1(4A)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/1/4A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-389af60f26c9b6bd7bd054ad853fe016]: Textual amendment: [Sch. 1 para. 1(4A)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/1/4A) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 9(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/9/3), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-72226d7950a451e49857c2aa49ab7798]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/2) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-72226d7950a451e49857c2aa49ab7798]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/2) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-6e8de42a4e0c3e6697ae9afc33abf95d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/3) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-6e8de42a4e0c3e6697ae9afc33abf95d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/3) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-488e23c734b5673c6fc5b17298bdc9aa]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/4) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-488e23c734b5673c6fc5b17298bdc9aa]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2023/55/schedule/1/paragraph/4) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

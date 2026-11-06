@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Capital finance risk management[^key-0cc96456c8baf2ef13d2f3210f9488d7][^key-337225ffdde2652420de826ad074ea9f]
+## 78. Capital finance risk management[^c-0cc96456c8baf2ef13d2f3210f9488d7][^c-337225ffdde2652420de826ad074ea9f]
 
 *Extent: E+W*
 
@@ -162,6 +162,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cc96456c8baf2ef13d2f3210f9488d7]: Commencement: S. 78 not in force at Royal Assent, see [s. 255(2)(p)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/p)
+[^c-0cc96456c8baf2ef13d2f3210f9488d7]: Commencement: S. 78 not in force at Royal Assent, see [s. 255(2)(p)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/p)
 
-[^key-337225ffdde2652420de826ad074ea9f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/55/section/78) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/a)
+[^c-337225ffdde2652420de826ad074ea9f]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2023/55/section/78) in force at 31.1.2024 by [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/a)

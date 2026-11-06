@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39ZA. Procedure for regulations under section 38ZA[^M_C_791a1904-fa56-449a-bb63-0dba210cb4a3][^key-3fbf1d35051798ecd34f5873ffc9dbea]
+## 39ZA. Procedure for regulations under section 38ZA[^M_C_791a1904-fa56-449a-bb63-0dba210cb4a3][^c-3fbf1d35051798ecd34f5873ffc9dbea]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^M_C_791a1904-fa56-449a-bb63-0dba210cb4a3]: Modification: S. 39ZA(2)(a) modified (temp.) (1.7.2015) by [The Water Act 2014 (Commencement No. 4 and Transitional Provisions) Order 2015 (S.I. 2015/1469)](https://www.legislation.gov.uk/uksi/2015/1469), [art. 5(1)(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1/5)
 
-[^key-3fbf1d35051798ecd34f5873ffc9dbea]: Textual amendment: S. 39ZA inserted (15.7.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 29(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/7), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/c) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-3fbf1d35051798ecd34f5873ffc9dbea]: Textual amendment: S. 39ZA inserted (15.7.2015) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 29(7)](https://www.legislation.gov.uk/ukpga/2014/21/section/29/7), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/c) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))

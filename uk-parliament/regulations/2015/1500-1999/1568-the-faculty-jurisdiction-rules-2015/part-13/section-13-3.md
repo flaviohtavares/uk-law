@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13.3. Evidence of Historic England and national amenity societies[^key-f7f7aeb53572d78711b98b7d0fd0c19c]
+## 13.3. Evidence of Historic England and national amenity societies[^c-f7f7aeb53572d78711b98b7d0fd0c19c]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7f7aeb53572d78711b98b7d0fd0c19c]: Commencement: [Rule 13.3](https://www.legislation.gov.uk/uksi/2015/1568/article/13.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-f7f7aeb53572d78711b98b7d0fd0c19c]: Commencement: [Rule 13.3](https://www.legislation.gov.uk/uksi/2015/1568/article/13.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

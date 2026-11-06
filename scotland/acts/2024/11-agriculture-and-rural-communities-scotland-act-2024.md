@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Objectives and planning
 
-### 1. Overarching objectives of agricultural policy[^key-b13eb4013255b9ba8ccbb7448b28ab05][^key-b7cfbe85ff9cf1f08b71e06375dcd8cc]
+### 1. Overarching objectives of agricultural policy[^c-b13eb4013255b9ba8ccbb7448b28ab05][^c-b7cfbe85ff9cf1f08b71e06375dcd8cc]
 
 (1) For the purposes of this Act, the objectives of Scottish agricultural policy are—
 
@@ -50,7 +50,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Regulations under this section are subject to the affirmative procedure.
 
-### 2. Rural support plan[^key-91aa38f97ff117c3ece2476aecef3be5][^key-75cfd24340dd271fc94b881853474664]
+### 2. Rural support plan[^c-91aa38f97ff117c3ece2476aecef3be5][^c-75cfd24340dd271fc94b881853474664]
 
 (1) The Scottish Ministers must—
 
@@ -116,7 +116,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (12) Regulations under subsection (11) are subject to the affirmative procedure.
 
-### 3. Rural support plan: matters to be considered[^key-b0383dd50b7870c6f3b6ed722c8c91cf][^key-6b3e8eb061416bcf71982d32c650f929]
+### 3. Rural support plan: matters to be considered[^c-b0383dd50b7870c6f3b6ed722c8c91cf][^c-6b3e8eb061416bcf71982d32c650f929]
 
 (1) The Scottish Ministers must have regard to the following matters when preparing or amending a rural support plan under section 2.
 
@@ -137,7 +137,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Regulations under subsection (4) are subject to the affirmative procedure.
 
-### 4. Rural support plan: engagement[^key-1598af04e14b31b8bbe90e2a099cbb35][^key-00ec39274070626baea5ad3a31e58fda]
+### 4. Rural support plan: engagement[^c-1598af04e14b31b8bbe90e2a099cbb35][^c-00ec39274070626baea5ad3a31e58fda]
 
 (1) Subsection (2) applies when the Scottish Ministers are preparing a rural support plan.
 
@@ -159,7 +159,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) At the same time as laying the rural support plan or the amended plan before the Scottish Parliament, the Scottish Ministers must lay a statement describing the consultation undertaken in respect of the plan (or amendment).
 
-### 5. Reports on rural support plan[^key-6c39d0a8187bad09f1e7c7bc8ddd8f6c][^key-ccd2b8d13e042174f3b1d08f594786f1]
+### 5. Reports on rural support plan[^c-6c39d0a8187bad09f1e7c7bc8ddd8f6c][^c-ccd2b8d13e042174f3b1d08f594786f1]
 
 (1) As soon as practicable after the end of each plan period under section 2, the Scottish Ministers must prepare a report.
 
@@ -196,7 +196,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Power to provide support
 
-#### 6. Power to provide support[^key-f9ec880f033178d570f5fc23307d475c][^key-3deac73bd85ab5a0873f29d38c35f1e7]
+#### 6. Power to provide support[^c-f9ec880f033178d570f5fc23307d475c][^c-3deac73bd85ab5a0873f29d38c35f1e7]
 
 (1) The Scottish Ministers may provide support for or in connection with the purposes described in schedule 1.
 
@@ -213,7 +213,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) a reference to support (other than a reference to the provision of support by a third party described in section 7) is to support provided under this section, and
 - (b) a reference to financial support is a reference to support under this section that is provided financially.
 
-#### 7. Funding third party support[^key-19e78ea2aa87495238145f87f12d2f2e][^key-e0c1dc9d793602873d347d441d05eeed]
+#### 7. Funding third party support[^c-19e78ea2aa87495238145f87f12d2f2e][^c-e0c1dc9d793602873d347d441d05eeed]
 
 (1) Without prejudice to the purposes described in schedule 1, support may be provided to—
 
@@ -224,7 +224,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### General provision about support
 
-#### 8. Form of support and conditions[^key-6c11126ea6b103d77c97ee7d1a9f2384][^key-eed7b1b7940df08e92a788ec1b11a439]
+#### 8. Form of support and conditions[^c-6c11126ea6b103d77c97ee7d1a9f2384][^c-eed7b1b7940df08e92a788ec1b11a439]
 
 (1) Support may be provided—
 
@@ -235,7 +235,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The conditions that may be imposed may, in particular, include conditions requiring the repayment or otherwise making good of any financial support (with or without interest).
 
-#### 9. Guidance[^key-61cad4c890191877d6442bc905af1e77][^key-4028899e5fb30725f7ee67437535c5ba]
+#### 9. Guidance[^c-61cad4c890191877d6442bc905af1e77][^c-4028899e5fb30725f7ee67437535c5ba]
 
 (1) The Scottish Ministers may by regulations make provision in relation to guidance about support (including the guidance contained in the Code of Sustainable and Regenerative Agriculture (see section 29)).
 
@@ -248,7 +248,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Regulations under this section are subject to the negative procedure.
 
-#### 10. Delegation[^key-2d19289d9aa15260f97c3df9d3919fd8][^key-64d48c0b56de9f5c9873ddfc45c9e5cf]
+#### 10. Delegation[^c-2d19289d9aa15260f97c3df9d3919fd8][^c-64d48c0b56de9f5c9873ddfc45c9e5cf]
 
 (1) The Scottish Ministers may delegate functions relating to the providing of support to any other person.
 
@@ -262,7 +262,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) affect the Scottish Ministers’ responsibility for the performance of the function, or
 - (b) prevent the Scottish Ministers from performing the function themselves.
 
-#### 11. Power to cap support and assistance[^key-ff8ecf8173046e78115ef03613f3b354][^key-27c8ac17755b4c86a7ab798f9648f369]
+#### 11. Power to cap support and assistance[^c-ff8ecf8173046e78115ef03613f3b354][^c-27c8ac17755b4c86a7ab798f9648f369]
 
 (1) The Scottish Ministers may by regulations—
 
@@ -279,7 +279,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - “**relevant assistance**” means financial assistance provided by the Scottish Ministers under or by virtue of another enactment (including, in particular, assimilated law governing the CAP direct payment schemes and assimilated direct CAP legislation) for a purpose similar to a purpose described in schedule 1,
 - “**specified**” means specified in regulations under subsection (1).
 
-#### 12. Refusal or recovery of support where in the public interest[^key-32a64b11c102f38b677000ef8a7984af][^key-3bbf7348158af5281c87c5efe91f8ce9]
+#### 12. Refusal or recovery of support where in the public interest[^c-32a64b11c102f38b677000ef8a7984af][^c-3bbf7348158af5281c87c5efe91f8ce9]
 
 (1) The Scottish Ministers may (in accordance with any regulations made under subsection (2))—
 
@@ -301,7 +301,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Intervention in agricultural markets
 
-#### 13. Exceptional market conditions: powers available to Scottish Ministers[^key-ab0a80193277c206c376e8aab30e8793][^key-9aafbfb7c49905157301c770a45dbb06]
+#### 13. Exceptional market conditions: powers available to Scottish Ministers[^c-ab0a80193277c206c376e8aab30e8793][^c-9aafbfb7c49905157301c770a45dbb06]
 
 (1) Subsection (2) applies during the period for which an exceptional market conditions declaration under section 14 has effect.
 
@@ -320,7 +320,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) after the end of the period for which an exceptional market conditions declaration has effect, but
 - (b) in response to an application made during that period.
 
-#### 14. Declaration relating to exceptional market conditions[^key-4681af0e79d450df749a5735647da910][^key-51e83ae62e140d31cd38ea0c01d0f6f5]
+#### 14. Declaration relating to exceptional market conditions[^c-4681af0e79d450df749a5735647da910][^c-51e83ae62e140d31cd38ea0c01d0f6f5]
 
 (1) If the Scottish Ministers consider that there are exceptional market conditions, they may make and publish a declaration (“an exceptional market conditions declaration”) in accordance with this section.
 
@@ -360,7 +360,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Administrative matters, eligibility and enforcement
 
-#### 15. Regulations about support[^key-a7a46d7ab417ac548bbdf9c2b8347bb5][^key-8e7317a0b686c66d3c8fc030c01b9d89]
+#### 15. Regulations about support[^c-a7a46d7ab417ac548bbdf9c2b8347bb5][^c-8e7317a0b686c66d3c8fc030c01b9d89]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the provision of support or support for a particular purpose.
 
@@ -394,7 +394,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iv) create a criminal offence (see section 18), and
 - (b) making significant changes to an existing scheme of support that is, by reference to the matters in paragraph (a), a significant scheme.
 
-#### 16. Eligibility criteria for support[^key-895406c0a867f1f1c981c71c9dfa8e29][^key-1a4422a8ea491b8e7c35c1170b43245b]
+#### 16. Eligibility criteria for support[^c-895406c0a867f1f1c981c71c9dfa8e29][^c-1a4422a8ea491b8e7c35c1170b43245b]
 
 (1) Regulations under section 15(2)(a) may, in particular, make provision for or in connection with criteria for support by reference to—
 
@@ -408,7 +408,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) In this section “**grazing committee**” has the meaning given by section 47 of the Crofters (Scotland) Act 1993.
 
-#### 17. Payment entitlements[^key-72b1ca28d74ab00c5d9e267a1e2db864][^key-317be1596938eb5224afd23f5642d1ff]
+#### 17. Payment entitlements[^c-72b1ca28d74ab00c5d9e267a1e2db864][^c-317be1596938eb5224afd23f5642d1ff]
 
 (1) Regulations under section 15(2)(b) may, in particular, make provision for or in connection with—
 
@@ -423,7 +423,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) In this Part, a “payment entitlement” is the entitlement of a person to be provided an amount of support for a particular purpose (subject to meeting any eligibility criteria and conditions or limits on payments).
 
-#### 18. Checking, enforcing and monitoring support[^key-b30d4862c12a6a47ffc46b6c43e2b802][^key-7a9f3b598b7d093ab05dd45ca1a55cda]
+#### 18. Checking, enforcing and monitoring support[^c-b30d4862c12a6a47ffc46b6c43e2b802][^c-7a9f3b598b7d093ab05dd45ca1a55cda]
 
 (1) Regulations under section 15(2)(f) may, in particular, make provision for or in connection with—
 
@@ -460,7 +460,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (6) In this section, “**specified**” means specified in, or determined under, regulations made by virtue of subsection (1).
 
-#### 19. Publication of information about support[^key-ccadd1ed7ae49fd6292565916de9e4a6][^key-1fd3f4ae183073e645c6eae944d0c035]
+#### 19. Publication of information about support[^c-ccadd1ed7ae49fd6292565916de9e4a6][^c-1fd3f4ae183073e645c6eae944d0c035]
 
 Regulations under section 15(2)(h) may, in particular, make provision—
 
@@ -470,7 +470,7 @@ Regulations under section 15(2)(h) may, in particular, make provision—
   - (ii) the amount of any support provided,
   - (iii) the purposes of any support provided.
 
-#### 20. Processing of information[^key-63e165fb4356e3bdfb27b41c989a58dd][^key-467d71e84eb70c1c5f0acfa494aa03ce]
+#### 20. Processing of information[^c-63e165fb4356e3bdfb27b41c989a58dd][^c-467d71e84eb70c1c5f0acfa494aa03ce]
 
 (1) The Scottish Ministers may by regulations make provision about the processing of information for and in connection with—
 
@@ -498,7 +498,7 @@ Regulations under section 15(2)(h) may, in particular, make provision—
 
 (5) Regulations under this section are subject to the negative procedure.
 
-#### 21. Monitoring and evaluation of schemes[^key-b935c70e0754d5dc698b36e626385d39][^key-664ada13dd325c8779e8536729771c72]
+#### 21. Monitoring and evaluation of schemes[^c-b935c70e0754d5dc698b36e626385d39][^c-664ada13dd325c8779e8536729771c72]
 
 (1) The Scottish Ministers must, in relation to each support scheme—
 
@@ -523,7 +523,7 @@ Regulations under section 15(2)(h) may, in particular, make provision—
 
 ### Powers in relation to relevant CAP legislation
 
-#### 22. Power to simplify, improve or update relevant CAP legislation[^key-4d9c99f1ec54ea014408be07b44c9c03][^key-82e2d508bbe798b3686b45033556bff9]
+#### 22. Power to simplify, improve or update relevant CAP legislation[^c-4d9c99f1ec54ea014408be07b44c9c03][^c-82e2d508bbe798b3686b45033556bff9]
 
 (1) The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as follows.
 
@@ -566,7 +566,7 @@ Regulations under section 15(2)(h) may, in particular, make provision—
 
 (4) The section title of section 2 becomes “**Power to simplify, improve or update relevant CAP legislation**”.
 
-#### 23. Power to continue or end the operation of relevant CAP legislation[^key-e3ea1302e0d59d1301082a692213b445][^key-cdd4f94e45f27ea9a01cdabf8086f214]
+#### 23. Power to continue or end the operation of relevant CAP legislation[^c-e3ea1302e0d59d1301082a692213b445][^c-cdd4f94e45f27ea9a01cdabf8086f214]
 
 (1) The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as follows.
 
@@ -588,7 +588,7 @@ Regulations under section 15(2)(h) may, in particular, make provision—
 
 (3) The section title of section 3 becomes “**Power to continue or end the operation of relevant CAP legislation**”.
 
-#### 24. Power to modify financial provision in relevant CAP legislation[^key-6eb3ae622dcc9d23098d1c72049e2a29][^key-2273e74656d801ce5084686283517d83]
+#### 24. Power to modify financial provision in relevant CAP legislation[^c-6eb3ae622dcc9d23098d1c72049e2a29][^c-2273e74656d801ce5084686283517d83]
 
 (1) The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as follows.
 
@@ -600,11 +600,11 @@ Regulations under section 15(2)(h) may, in particular, make provision—
 
 (3) The section title of section 4 becomes “**Power to modify financial provision in relevant CAP legislation**”.
 
-#### 25. Repeal of section 5[^key-688537fe7d1032c5f56af030a40ea2ca][^key-b73459105ec53768e06736c92c2c528b]
+#### 25. Repeal of section 5[^c-688537fe7d1032c5f56af030a40ea2ca][^c-b73459105ec53768e06736c92c2c528b]
 
 Section 5 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is repealed.
 
-#### 26. Public intervention and private storage aid[^key-a0f3a70e99c36162a323292f79c717d5][^key-5bb99c75b162abc01489811f6df20d34]
+#### 26. Public intervention and private storage aid[^c-a0f3a70e99c36162a323292f79c717d5][^c-5bb99c75b162abc01489811f6df20d34]
 
 (1) The Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is modified as follows.
 
@@ -625,13 +625,13 @@ Section 5 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 is r
 
   .
 
-#### 27. Power to modify CAP legislation on aid for fruit and vegetable producer organisations[^key-68c02a528e03275aa7aa3122d0276b36][^key-cb534f0bca8182aecaac1d5b413c681b]
+#### 27. Power to modify CAP legislation on aid for fruit and vegetable producer organisations[^c-68c02a528e03275aa7aa3122d0276b36][^c-cb534f0bca8182aecaac1d5b413c681b]
 
 (1) In section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (power to simplify or improve CAP legislation on aid for fruit and vegetable producer organisations), subsection (2) is repealed.
 
 (2) The section title of section 7 becomes “**Power to modify CAP legislation on aid for fruit and vegetable producer organisations**”.
 
-#### 28. Apiculture[^key-ea0eaafb83c2e19048cd39018295eda7][^key-89c21b5cb8fb5e19f0ecdee8d380fce5]
+#### 28. Apiculture[^c-ea0eaafb83c2e19048cd39018295eda7][^c-89c21b5cb8fb5e19f0ecdee8d380fce5]
 
 After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 insert—
 
@@ -653,7 +653,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 
 ## Part 4 — Miscellaneous
 
-### 29. Code of Practice on Sustainable and Regenerative Agriculture[^key-e4c766cb82b6d42c2484b282171a8df1][^key-ca6acaf3e36454c4b365d9a4a97dfb8d]
+### 29. Code of Practice on Sustainable and Regenerative Agriculture[^c-e4c766cb82b6d42c2484b282171a8df1][^c-ca6acaf3e36454c4b365d9a4a97dfb8d]
 
 (1) The Scottish Ministers must prepare and publish a document providing guidance on sustainable and regenerative agriculture within the period of one year beginning with the day on which this section comes into force.
 
@@ -681,7 +681,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 - (a) the period of 5 years beginning with the day on which the first code is published, and
 - (b) each subsequent period of 5 years.
 
-### 30. Continuing professional development[^key-045a1b0853082c149daee3c81e122d9b][^key-e523ef393b23c32dfd9a9013a0139a06]
+### 30. Continuing professional development[^c-045a1b0853082c149daee3c81e122d9b][^c-e523ef393b23c32dfd9a9013a0139a06]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the continuing professional development of—
 
@@ -715,7 +715,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 - (a) may make provision for persons other than the Scottish Ministers carrying out functions in relation to CPD activities,
 - (b) are subject to the negative procedure.
 
-### 31. Monitoring and evaluation of continuing professional development[^key-29f1694e5bfe377360d612fe6d78ac1d][^key-096767c465472537681a756743efe1be]
+### 31. Monitoring and evaluation of continuing professional development[^c-29f1694e5bfe377360d612fe6d78ac1d][^c-096767c465472537681a756743efe1be]
 
 (1) The Scottish Ministers must, in relation to each CPD scheme—
 
@@ -750,7 +750,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
   - (ii) a person to whom a CPD scheme relates is a reference to a person who may or must undertake certain CPD activities as a result of regulations made under section 30,
 - (b) “**CPD activities**” has the same meaning as in section 30(3).
 
-### 32. Prescribing and regulating means of identifying animals[^key-4d5ad2db0067d4da3ee75df84f4b8a64][^key-657e5b936fdc701ab986479b8ba4dd0a]
+### 32. Prescribing and regulating means of identifying animals[^c-4d5ad2db0067d4da3ee75df84f4b8a64][^c-657e5b936fdc701ab986479b8ba4dd0a]
 
 (1) The Animal Health Act 1981 is modified as follows.
 
@@ -763,7 +763,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
   ,
 - (b) in subsection (1A) (as inserted by the Agriculture Act 2020), the words “made by the Secretary of State or the Welsh Ministers” are repealed.
 
-### 33. Food security statements[^key-c7a5131eea53fb8735bd76c31b699e8b][^key-16d2c11f373e1daff63de7cca67d4f71]
+### 33. Food security statements[^c-c7a5131eea53fb8735bd76c31b699e8b][^c-16d2c11f373e1daff63de7cca67d4f71]
 
 (1) The Scottish Ministers must, not less than once in every period of 3 years, prepare a statement on food security in Scotland.
 
@@ -774,7 +774,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 
 (3) The first statement under this section must be published within the period of 3 years beginning with the date of commencement of this section.
 
-### 34. Repeals and minor modifications[^key-a01db07d2e410200eac40931074bb26c][^key-f580162043eb9ee26688f4c664db7f3d]
+### 34. Repeals and minor modifications[^c-a01db07d2e410200eac40931074bb26c][^c-f580162043eb9ee26688f4c664db7f3d]
 
 (1) The enactments mentioned in the first column of the table in Part 1 of schedule 2 are repealed or revoked to the extent specified in the second column of the table.
 
@@ -782,7 +782,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 
 ## Part 5 — Final provisions
 
-### 35. Regulations[^key-17b53bb84c2352d31a5192c1e9827536]
+### 35. Regulations[^c-17b53bb84c2352d31a5192c1e9827536]
 
 (1) A power to make regulations conferred by this Act includes the power to make—
 
@@ -791,7 +791,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 
 (2) This section does not apply to section 38.
 
-### 36. Ancillary provision[^key-30e5caed5043d170b3b233b19f4275e6]
+### 36. Ancillary provision[^c-30e5caed5043d170b3b233b19f4275e6]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, or in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -802,7 +802,7 @@ After section 7 of the Agriculture (Retained EU Law and Data) (Scotland) Act 202
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act (including this Act), but
 - (b) otherwise are subject to the negative procedure.
 
-### 37. Index of defined terms[^key-55960fd343c07e4e90113c536b242cdd]
+### 37. Index of defined terms[^c-55960fd343c07e4e90113c536b242cdd]
 
 In this Act—
 
@@ -814,7 +814,7 @@ In this Act—
 - “**support**” is to be construed in accordance with section 6(4),
 - “**third party scheme**” is to be construed in accordance with section 7(2).
 
-### 38. Commencement[^key-c7cdc811667abbb2cc4b45423e6a5288]
+### 38. Commencement[^c-c7cdc811667abbb2cc4b45423e6a5288]
 
 (1) This section and sections 35, 36, 37 and 39 come into force the day after Royal Assent.
 
@@ -825,7 +825,7 @@ In this Act—
 - (a) make different provision for different purposes or areas,
 - (b) include transitional, transitory or saving provision.
 
-### 39. Short title[^key-c5a93c68455d060ad892b64e0643e0ad]
+### 39. Short title[^c-c5a93c68455d060ad892b64e0643e0ad]
 
 The short title of this Act is the Agriculture and Rural Communities (Scotland) Act 2024.
 
@@ -835,7 +835,7 @@ The short title of this Act is the Agriculture and Rural Communities (Scotland) 
 
 ### Part 1 — General
 
-#### 1. Application[^key-40be52694945468224da5fd68c676eff][^key-0fa47fed9d0d9293b114458cccf2a030]
+#### 1. Application[^c-40be52694945468224da5fd68c676eff][^c-0fa47fed9d0d9293b114458cccf2a030]
 
 (1) The purposes described in this schedule are the purposes for which support may be provided under section 6.
 
@@ -850,7 +850,7 @@ The short title of this Act is the Agriculture and Rural Communities (Scotland) 
 
 ### Part 2 — Agriculture, food and drink
 
-#### 2. Farming etc.[^key-4991f7b257143811f76237ba254fae7c][^key-4214ce7f3a319e93d70a2d7a0b0e3951]
+#### 2. Farming etc.[^c-4991f7b257143811f76237ba254fae7c][^c-4214ce7f3a319e93d70a2d7a0b0e3951]
 
 (1) Assisting persons to carry out agricultural activities.
 
@@ -871,7 +871,7 @@ The short title of this Act is the Agriculture and Rural Communities (Scotland) 
 
 (3) In this paragraph, “**horticulture**” means the growing and harvesting of horticultural crops, including fruit, vegetables, tubers, mushrooms, herbs, bush and tree nuts and seeds.
 
-#### 3. Particular products or sectors[^key-8fa5c989f22bf21ce771e0e3063299e2][^key-a8abd9ada66a099402148bb4341d7600]
+#### 3. Particular products or sectors[^c-8fa5c989f22bf21ce771e0e3063299e2][^c-a8abd9ada66a099402148bb4341d7600]
 
 (1) Assisting persons to produce (or produce in a particular way) a product listed in sub-paragraph (3) with a view to—
 
@@ -909,7 +909,7 @@ The short title of this Act is the Agriculture and Rural Communities (Scotland) 
 
 (4) In this paragraph, an “ancillary activity” is an activity of selling, marketing, preparing, packaging, processing or distributing a product.
 
-#### 4. Food and drink[^key-a372bd45e912fe17e4cdf8cddf7ee85d][^key-f7fdd3f70fa18248d861b10f74483dcb]
+#### 4. Food and drink[^c-a372bd45e912fe17e4cdf8cddf7ee85d][^c-f7fdd3f70fa18248d861b10f74483dcb]
 
 (1) Assisting persons to—
 
@@ -931,7 +931,7 @@ The short title of this Act is the Agriculture and Rural Communities (Scotland) 
 
 ### Part 3 — Forestry
 
-#### 5. Forestry[^key-d321c620569ae49b83a44a5a9600d09e][^key-2b8e9f026e69c209e91e72b85f95e637]
+#### 5. Forestry[^c-d321c620569ae49b83a44a5a9600d09e][^c-2b8e9f026e69c209e91e72b85f95e637]
 
 (1) Assisting persons to—
 
@@ -952,11 +952,11 @@ The short title of this Act is the Agriculture and Rural Communities (Scotland) 
 
 ### Part 4 — Rural communities and economy
 
-#### 6. Venison supply chains and infrastructure[^key-ce22f226084f73baffe73c4064500cd7][^key-30a0622484ce4148cadbfa3ff77a37e3]
+#### 6. Venison supply chains and infrastructure[^c-ce22f226084f73baffe73c4064500cd7][^c-30a0622484ce4148cadbfa3ff77a37e3]
 
 Assisting persons who work in, operate, or seek to establish venison supply chains and infrastructures, such as deer larders and access to carcass removal.
 
-#### 7. Rural communities[^key-292d013b1a0d293ebffc5ad23493119a][^key-9aa8e4ab3fe94cdf8dd3f6bdcfcc67ba]
+#### 7. Rural communities[^c-292d013b1a0d293ebffc5ad23493119a][^c-9aa8e4ab3fe94cdf8dd3f6bdcfcc67ba]
 
 (1) Assisting persons—
 
@@ -975,7 +975,7 @@ Assisting persons who work in, operate, or seek to establish venison supply chai
 - (a) is situated in or near a particular rural community, and
 - (b) makes a significant contribution to the economic sustainability, resilience, or growth of, or culture in, that community.
 
-#### 8. Community benefits[^key-ae318b7ce6321a2892d5119d511521da][^key-716ee30e88d7a4365aa3826b0b87b722]
+#### 8. Community benefits[^c-ae318b7ce6321a2892d5119d511521da][^c-716ee30e88d7a4365aa3826b0b87b722]
 
 Assisting persons to create community benefits, including—
 
@@ -986,7 +986,7 @@ Assisting persons to create community benefits, including—
 - (e) access to nature,
 - (f) wider economic and social benefits.
 
-#### 9. Investing in rural businesses and enterprises[^key-e874fbf600d763344ce96c877e9b844a][^key-66060baa265e66e8d87276bb72202ff3]
+#### 9. Investing in rural businesses and enterprises[^c-e874fbf600d763344ce96c877e9b844a][^c-66060baa265e66e8d87276bb72202ff3]
 
 (1) Assisting persons to—
 
@@ -999,7 +999,7 @@ Assisting persons to create community benefits, including—
 
 (2) For the purposes of this paragraph, “**enterprise**” includes co-operative societies and similar organisations.
 
-#### 10. Knowledge, innovation, education and training[^key-47e6aff389f5207895c34e9839b0d752][^key-2f95fa236e543f18d74cdcbcee37528e]
+#### 10. Knowledge, innovation, education and training[^c-47e6aff389f5207895c34e9839b0d752][^c-2f95fa236e543f18d74cdcbcee37528e]
 
 (1) Assisting persons—
 
@@ -1025,7 +1025,7 @@ Assisting persons to create community benefits, including—
 
 (3) For the purposes of this paragraph, “**animal**” means a vertebrate (other than a human) or invertebrate.
 
-#### 11. Integrated land management[^key-fd2dbc40360b425f586eb5203a27f07d][^key-33c9715bd5802a0d0a2bdaed00773133]
+#### 11. Integrated land management[^c-fd2dbc40360b425f586eb5203a27f07d][^c-33c9715bd5802a0d0a2bdaed00773133]
 
 (1) Assisting persons to develop and implement integrated land management plans.
 
@@ -1036,7 +1036,7 @@ Assisting persons to create community benefits, including—
 
 (3) In this paragraph, “**relevant authority**” means the Scottish Ministers, a local authority, a national park authority or such other authority with functions relating to land management as the Scottish Ministers consider appropriate.
 
-#### 12. Quality schemes and producer groups[^key-82e40847853d66c268c939b9adac97df][^key-e9dcb685b9f158cddc1d1b83723f20ab]
+#### 12. Quality schemes and producer groups[^c-82e40847853d66c268c939b9adac97df][^c-e9dcb685b9f158cddc1d1b83723f20ab]
 
 Assisting persons to establish or participate in—
 
@@ -1045,21 +1045,21 @@ Assisting persons to establish or participate in—
   - (ii) is produced in a particular place or in a particular way,
 - (b) groups of producers of particular agricultural or forestry products.
 
-#### 13. Preservation of historic and cultural sites[^key-659bd3abe8845b992ad4a512dc5520f8][^key-ced7c903525290eb0026049e71825343]
+#### 13. Preservation of historic and cultural sites[^c-659bd3abe8845b992ad4a512dc5520f8][^c-ced7c903525290eb0026049e71825343]
 
 Assisting persons to protect or enhance the conditions of sites of historic or cultural interest.
 
-#### 14. Recreational access to land[^key-ba8d3c74ca4b2606c54a5da070f7e21d][^key-5acada10c238dd00b327b9383f238dad]
+#### 14. Recreational access to land[^c-ba8d3c74ca4b2606c54a5da070f7e21d][^c-5acada10c238dd00b327b9383f238dad]
 
 Assisting persons to provide, maintain, facilitate and improve access for recreation to land (including land covered with water) in rural areas.
 
-#### 15. Nature-based economy[^key-aa1ba113e82e822b739e33ab6d9749bc][^key-fd493d49a828e8a92f309ffad7406e7c]
+#### 15. Nature-based economy[^c-aa1ba113e82e822b739e33ab6d9749bc][^c-fd493d49a828e8a92f309ffad7406e7c]
 
 Assisting persons to invest in nature-based enterprises in rural areas.
 
 ### Part 5 — Rural land management and the environment
 
-#### 16. Plants and soil[^key-26e6b4247cf132731356fca83a4040c4][^key-9757bad7d80d445397b2795c9e211fe0]
+#### 16. Plants and soil[^c-26e6b4247cf132731356fca83a4040c4][^c-9757bad7d80d445397b2795c9e211fe0]
 
 Assisting persons to promote, protect or improve—
 
@@ -1069,7 +1069,7 @@ Assisting persons to promote, protect or improve—
   - (i) the physical, chemical and biological condition of the soil, determining its capacity to function as a vital living system and to provide ecosystem services,
   - (ii) the carbon capacity of the soil.
 
-#### 17. Greenhouse gases and climate change[^key-c831fa71c8da88acd7165f859403f21c][^key-ac831cb1dde0668ceca86db4ebe1b7a7]
+#### 17. Greenhouse gases and climate change[^c-c831fa71c8da88acd7165f859403f21c][^c-ac831cb1dde0668ceca86db4ebe1b7a7]
 
 (1) Assisting persons to—
 
@@ -1082,7 +1082,7 @@ Assisting persons to promote, protect or improve—
 
 (3) In this paragraph, “**climate change plan**” means the climate change plan prepared and laid before Parliament under section 35 of the Climate Change (Scotland) Act 2009 and the reference to particular sectors are to be construed in accordance with that section.
 
-#### 18. Natural environment[^key-e4c4574c0b474f17759ebab9b6cdf7ec][^key-65d989b95b786db5e35f9d57ce7cfb74]
+#### 18. Natural environment[^c-e4c4574c0b474f17759ebab9b6cdf7ec][^c-65d989b95b786db5e35f9d57ce7cfb74]
 
 (1) Assisting persons to carry out activities that monitor, preserve, protect, improve or restore biodiversity and the natural environment (in any respect).
 
@@ -1103,7 +1103,7 @@ Assisting persons to promote, protect or improve—
 
 (7) For the purposes of this paragraph, “**animal**” means a vertebrate (other than a human) or invertebrate.
 
-#### 19. Animals[^key-0043f3bd361c8c93d43ba1ba33ab16d6][^key-010323c40b99213413ec68ef7f5b24fc]
+#### 19. Animals[^c-0043f3bd361c8c93d43ba1ba33ab16d6][^c-010323c40b99213413ec68ef7f5b24fc]
 
 (1) Assisting persons to promote, protect or improve—
 
@@ -1114,14 +1114,14 @@ Assisting persons to promote, protect or improve—
 
 ### Part 6 — Administrative and technical support and monitoring
 
-#### 20. Administrative and technical support[^key-ec8fd0e3d29b11d4b184f511dac0dd9c][^key-d4918db38f79d8d5308428a37d689477]
+#### 20. Administrative and technical support[^c-ec8fd0e3d29b11d4b184f511dac0dd9c][^c-d4918db38f79d8d5308428a37d689477]
 
 Assisting persons to—
 
 - (a) understand and access the support to which a person is entitled under this Act,
 - (b) comply with the requirements of a scheme or any condition imposed in connection with support provided to the person or to which the person may be entitled.
 
-#### 21. Monitoring and reporting on effectiveness of support[^key-50532ae1fed651b2903cc882f411482d][^key-0a3e9b0ed04d6ee91ee88c5dd99642a8]
+#### 21. Monitoring and reporting on effectiveness of support[^c-50532ae1fed651b2903cc882f411482d][^c-0a3e9b0ed04d6ee91ee88c5dd99642a8]
 
 Assisting persons to monitor, gather data, prepare reports on, or otherwise provide information in relation to assessing the effectiveness of support provided under this Act.
 
@@ -1129,7 +1129,7 @@ Assisting persons to monitor, gather data, prepare reports on, or otherwise prov
 
 (introduced by section 34)
 
-### Part 1 — Repeals and revocations[^key-66b184fb27dd771a286afc04b857029d][^key-093743bbc012ffa948db3744d2ec74e6]
+### Part 1 — Repeals and revocations[^c-66b184fb27dd771a286afc04b857029d][^c-093743bbc012ffa948db3744d2ec74e6]
 
 <table>
 <thead>
@@ -1238,7 +1238,7 @@ Assisting persons to monitor, gather data, prepare reports on, or otherwise prov
 
 ### Part 2 — Minor modifications
 
-**1.**[^key-5099f5045c792c42a60512b6e1c7bb19][^key-c84e5e70163a27916ba807a345088332] (1) The Agricultural Wages (Scotland) Act 1949 is modified by sub-paragraph (2).
+**1.**[^c-5099f5045c792c42a60512b6e1c7bb19][^c-c84e5e70163a27916ba807a345088332] (1) The Agricultural Wages (Scotland) Act 1949 is modified by sub-paragraph (2).
 
 (2) For section 13, substitute—
 
@@ -1252,250 +1252,250 @@ Assisting persons to monitor, gather data, prepare reports on, or otherwise prov
 
 .
 
-**2.**[^key-6e97b6e117b110c5589b02d1a2a7b561][^key-df54bcb3b61adb4032447a5d646e7fec] (1) The Agricultural Marketing Act 1958 is modified by sub-paragraph (2).
+**2.**[^c-6e97b6e117b110c5589b02d1a2a7b561][^c-df54bcb3b61adb4032447a5d646e7fec] (1) The Agricultural Marketing Act 1958 is modified by sub-paragraph (2).
 
 (2) In section 5(4), for “eighty of the Agriculture Act, 1947” substitute “18 of the Agriculture (Retained EU Law and Data) Scotland Act 2020”.
 
 ## Annotations
 
-[^key-b13eb4013255b9ba8ccbb7448b28ab05]: Commencement: S. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-b13eb4013255b9ba8ccbb7448b28ab05]: Commencement: S. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-b7cfbe85ff9cf1f08b71e06375dcd8cc]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/11/section/1) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-b7cfbe85ff9cf1f08b71e06375dcd8cc]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2024/11/section/1) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-91aa38f97ff117c3ece2476aecef3be5]: Commencement: S. 2 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-91aa38f97ff117c3ece2476aecef3be5]: Commencement: S. 2 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-75cfd24340dd271fc94b881853474664]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/11/section/2) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-75cfd24340dd271fc94b881853474664]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/11/section/2) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-b0383dd50b7870c6f3b6ed722c8c91cf]: Commencement: S. 3 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-b0383dd50b7870c6f3b6ed722c8c91cf]: Commencement: S. 3 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-6b3e8eb061416bcf71982d32c650f929]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/11/section/3) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-6b3e8eb061416bcf71982d32c650f929]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2024/11/section/3) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-1598af04e14b31b8bbe90e2a099cbb35]: Commencement: S. 4 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-1598af04e14b31b8bbe90e2a099cbb35]: Commencement: S. 4 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-00ec39274070626baea5ad3a31e58fda]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/11/section/4) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-00ec39274070626baea5ad3a31e58fda]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2024/11/section/4) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-6c39d0a8187bad09f1e7c7bc8ddd8f6c]: Commencement: S. 5 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-6c39d0a8187bad09f1e7c7bc8ddd8f6c]: Commencement: S. 5 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-ccd2b8d13e042174f3b1d08f594786f1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/11/section/5) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-ccd2b8d13e042174f3b1d08f594786f1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2024/11/section/5) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-f9ec880f033178d570f5fc23307d475c]: Commencement: S. 6 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-f9ec880f033178d570f5fc23307d475c]: Commencement: S. 6 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-3deac73bd85ab5a0873f29d38c35f1e7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/11/section/6) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-3deac73bd85ab5a0873f29d38c35f1e7]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2024/11/section/6) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-19e78ea2aa87495238145f87f12d2f2e]: Commencement: S. 7 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-19e78ea2aa87495238145f87f12d2f2e]: Commencement: S. 7 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-e0c1dc9d793602873d347d441d05eeed]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/11/section/7) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-e0c1dc9d793602873d347d441d05eeed]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2024/11/section/7) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-6c11126ea6b103d77c97ee7d1a9f2384]: Commencement: S. 8 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-6c11126ea6b103d77c97ee7d1a9f2384]: Commencement: S. 8 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-eed7b1b7940df08e92a788ec1b11a439]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/11/section/8) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-eed7b1b7940df08e92a788ec1b11a439]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/11/section/8) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-61cad4c890191877d6442bc905af1e77]: Commencement: S. 9 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-61cad4c890191877d6442bc905af1e77]: Commencement: S. 9 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-4028899e5fb30725f7ee67437535c5ba]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/11/section/9) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-4028899e5fb30725f7ee67437535c5ba]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2024/11/section/9) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-2d19289d9aa15260f97c3df9d3919fd8]: Commencement: S. 10 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-2d19289d9aa15260f97c3df9d3919fd8]: Commencement: S. 10 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-64d48c0b56de9f5c9873ddfc45c9e5cf]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/11/section/10) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-64d48c0b56de9f5c9873ddfc45c9e5cf]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/11/section/10) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ff8ecf8173046e78115ef03613f3b354]: Commencement: S. 11 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ff8ecf8173046e78115ef03613f3b354]: Commencement: S. 11 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-27c8ac17755b4c86a7ab798f9648f369]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/11/section/11) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-27c8ac17755b4c86a7ab798f9648f369]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2024/11/section/11) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-32a64b11c102f38b677000ef8a7984af]: Commencement: S. 12 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-32a64b11c102f38b677000ef8a7984af]: Commencement: S. 12 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-3bbf7348158af5281c87c5efe91f8ce9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/11/section/12) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-3bbf7348158af5281c87c5efe91f8ce9]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2024/11/section/12) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ab0a80193277c206c376e8aab30e8793]: Commencement: S. 13 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ab0a80193277c206c376e8aab30e8793]: Commencement: S. 13 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-9aafbfb7c49905157301c770a45dbb06]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/11/section/13) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-9aafbfb7c49905157301c770a45dbb06]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/11/section/13) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-4681af0e79d450df749a5735647da910]: Commencement: S. 14 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-4681af0e79d450df749a5735647da910]: Commencement: S. 14 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-51e83ae62e140d31cd38ea0c01d0f6f5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/11/section/14) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-51e83ae62e140d31cd38ea0c01d0f6f5]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2024/11/section/14) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-a7a46d7ab417ac548bbdf9c2b8347bb5]: Commencement: S. 15 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-a7a46d7ab417ac548bbdf9c2b8347bb5]: Commencement: S. 15 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-8e7317a0b686c66d3c8fc030c01b9d89]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/11/section/15) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-8e7317a0b686c66d3c8fc030c01b9d89]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2024/11/section/15) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-895406c0a867f1f1c981c71c9dfa8e29]: Commencement: S. 16 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-895406c0a867f1f1c981c71c9dfa8e29]: Commencement: S. 16 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-1a4422a8ea491b8e7c35c1170b43245b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/11/section/16) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-1a4422a8ea491b8e7c35c1170b43245b]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2024/11/section/16) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-72b1ca28d74ab00c5d9e267a1e2db864]: Commencement: S. 17 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-72b1ca28d74ab00c5d9e267a1e2db864]: Commencement: S. 17 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-317be1596938eb5224afd23f5642d1ff]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/11/section/17) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-317be1596938eb5224afd23f5642d1ff]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2024/11/section/17) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-b30d4862c12a6a47ffc46b6c43e2b802]: Commencement: S. 18 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-b30d4862c12a6a47ffc46b6c43e2b802]: Commencement: S. 18 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-7a9f3b598b7d093ab05dd45ca1a55cda]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/11/section/18) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-7a9f3b598b7d093ab05dd45ca1a55cda]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/11/section/18) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ccadd1ed7ae49fd6292565916de9e4a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ccadd1ed7ae49fd6292565916de9e4a6]: Commencement: S. 19 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-1fd3f4ae183073e645c6eae944d0c035]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/11/section/19) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-1fd3f4ae183073e645c6eae944d0c035]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2024/11/section/19) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-63e165fb4356e3bdfb27b41c989a58dd]: Commencement: S. 20 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-63e165fb4356e3bdfb27b41c989a58dd]: Commencement: S. 20 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-467d71e84eb70c1c5f0acfa494aa03ce]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/11/section/20) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-467d71e84eb70c1c5f0acfa494aa03ce]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2024/11/section/20) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-b935c70e0754d5dc698b36e626385d39]: Commencement: S. 21 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-b935c70e0754d5dc698b36e626385d39]: Commencement: S. 21 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-664ada13dd325c8779e8536729771c72]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/11/section/21) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-664ada13dd325c8779e8536729771c72]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2024/11/section/21) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-4d9c99f1ec54ea014408be07b44c9c03]: Commencement: S. 22 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-4d9c99f1ec54ea014408be07b44c9c03]: Commencement: S. 22 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-82e2d508bbe798b3686b45033556bff9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/11/section/22) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-82e2d508bbe798b3686b45033556bff9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2024/11/section/22) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-e3ea1302e0d59d1301082a692213b445]: Commencement: S. 23 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-e3ea1302e0d59d1301082a692213b445]: Commencement: S. 23 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-cdd4f94e45f27ea9a01cdabf8086f214]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/11/section/23) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-cdd4f94e45f27ea9a01cdabf8086f214]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2024/11/section/23) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-6eb3ae622dcc9d23098d1c72049e2a29]: Commencement: S. 24 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-6eb3ae622dcc9d23098d1c72049e2a29]: Commencement: S. 24 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-2273e74656d801ce5084686283517d83]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/11/section/24) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-2273e74656d801ce5084686283517d83]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2024/11/section/24) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-688537fe7d1032c5f56af030a40ea2ca]: Commencement: S. 25 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-688537fe7d1032c5f56af030a40ea2ca]: Commencement: S. 25 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-b73459105ec53768e06736c92c2c528b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/11/section/25) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-b73459105ec53768e06736c92c2c528b]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2024/11/section/25) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-a0f3a70e99c36162a323292f79c717d5]: Commencement: S. 26 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-a0f3a70e99c36162a323292f79c717d5]: Commencement: S. 26 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-5bb99c75b162abc01489811f6df20d34]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/11/section/26) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-5bb99c75b162abc01489811f6df20d34]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2024/11/section/26) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-68c02a528e03275aa7aa3122d0276b36]: Commencement: S. 27 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-68c02a528e03275aa7aa3122d0276b36]: Commencement: S. 27 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-cb534f0bca8182aecaac1d5b413c681b]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/11/section/27) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-cb534f0bca8182aecaac1d5b413c681b]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2024/11/section/27) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ea0eaafb83c2e19048cd39018295eda7]: Commencement: S. 28 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ea0eaafb83c2e19048cd39018295eda7]: Commencement: S. 28 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-89c21b5cb8fb5e19f0ecdee8d380fce5]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/11/section/28) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-89c21b5cb8fb5e19f0ecdee8d380fce5]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2024/11/section/28) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-e4c766cb82b6d42c2484b282171a8df1]: Commencement: S. 29 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-e4c766cb82b6d42c2484b282171a8df1]: Commencement: S. 29 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-ca6acaf3e36454c4b365d9a4a97dfb8d]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/11/section/29) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-ca6acaf3e36454c4b365d9a4a97dfb8d]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2024/11/section/29) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-045a1b0853082c149daee3c81e122d9b]: Commencement: S. 30 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-045a1b0853082c149daee3c81e122d9b]: Commencement: S. 30 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-e523ef393b23c32dfd9a9013a0139a06]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2024/11/section/30) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-e523ef393b23c32dfd9a9013a0139a06]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2024/11/section/30) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-29f1694e5bfe377360d612fe6d78ac1d]: Commencement: S. 31 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-29f1694e5bfe377360d612fe6d78ac1d]: Commencement: S. 31 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-096767c465472537681a756743efe1be]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/11/section/31) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-096767c465472537681a756743efe1be]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2024/11/section/31) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-4d5ad2db0067d4da3ee75df84f4b8a64]: Commencement: S. 32 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-4d5ad2db0067d4da3ee75df84f4b8a64]: Commencement: S. 32 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-657e5b936fdc701ab986479b8ba4dd0a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2024/11/section/32) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-657e5b936fdc701ab986479b8ba4dd0a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2024/11/section/32) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-c7a5131eea53fb8735bd76c31b699e8b]: Commencement: S. 33 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-c7a5131eea53fb8735bd76c31b699e8b]: Commencement: S. 33 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-16d2c11f373e1daff63de7cca67d4f71]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2024/11/section/33) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-16d2c11f373e1daff63de7cca67d4f71]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2024/11/section/33) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-a01db07d2e410200eac40931074bb26c]: Commencement: S. 34 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-a01db07d2e410200eac40931074bb26c]: Commencement: S. 34 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-f580162043eb9ee26688f4c664db7f3d]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2024/11/section/34) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-f580162043eb9ee26688f4c664db7f3d]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2024/11/section/34) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-17b53bb84c2352d31a5192c1e9827536]: Commencement: S. 35 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
+[^c-17b53bb84c2352d31a5192c1e9827536]: Commencement: S. 35 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
 
-[^key-30e5caed5043d170b3b233b19f4275e6]: Commencement: S. 36 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
+[^c-30e5caed5043d170b3b233b19f4275e6]: Commencement: S. 36 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
 
-[^key-55960fd343c07e4e90113c536b242cdd]: Commencement: S. 37 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
+[^c-55960fd343c07e4e90113c536b242cdd]: Commencement: S. 37 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
 
-[^key-c7cdc811667abbb2cc4b45423e6a5288]: Commencement: S. 38 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
+[^c-c7cdc811667abbb2cc4b45423e6a5288]: Commencement: S. 38 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
 
-[^key-c5a93c68455d060ad892b64e0643e0ad]: Commencement: S. 39 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
+[^c-c5a93c68455d060ad892b64e0643e0ad]: Commencement: S. 39 in force at 31.7.2024, see [s. 38(1)](https://www.legislation.gov.uk/asp/2024/11/section/38/1)
 
-[^key-40be52694945468224da5fd68c676eff]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-40be52694945468224da5fd68c676eff]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-0fa47fed9d0d9293b114458cccf2a030]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/1) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-0fa47fed9d0d9293b114458cccf2a030]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/1) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-4991f7b257143811f76237ba254fae7c]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-4991f7b257143811f76237ba254fae7c]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-4214ce7f3a319e93d70a2d7a0b0e3951]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/2) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-4214ce7f3a319e93d70a2d7a0b0e3951]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/2) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-8fa5c989f22bf21ce771e0e3063299e2]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-8fa5c989f22bf21ce771e0e3063299e2]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-a8abd9ada66a099402148bb4341d7600]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/3) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-a8abd9ada66a099402148bb4341d7600]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/3) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-a372bd45e912fe17e4cdf8cddf7ee85d]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-a372bd45e912fe17e4cdf8cddf7ee85d]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-f7fdd3f70fa18248d861b10f74483dcb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/4) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-f7fdd3f70fa18248d861b10f74483dcb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/4) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-d321c620569ae49b83a44a5a9600d09e]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-d321c620569ae49b83a44a5a9600d09e]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-2b8e9f026e69c209e91e72b85f95e637]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/5) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-2b8e9f026e69c209e91e72b85f95e637]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/5) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ce22f226084f73baffe73c4064500cd7]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ce22f226084f73baffe73c4064500cd7]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-30a0622484ce4148cadbfa3ff77a37e3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/6) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-30a0622484ce4148cadbfa3ff77a37e3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/6) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-292d013b1a0d293ebffc5ad23493119a]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-292d013b1a0d293ebffc5ad23493119a]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-9aa8e4ab3fe94cdf8dd3f6bdcfcc67ba]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/7) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-9aa8e4ab3fe94cdf8dd3f6bdcfcc67ba]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/7) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ae318b7ce6321a2892d5119d511521da]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ae318b7ce6321a2892d5119d511521da]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-716ee30e88d7a4365aa3826b0b87b722]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/8) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-716ee30e88d7a4365aa3826b0b87b722]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/8) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-e874fbf600d763344ce96c877e9b844a]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-e874fbf600d763344ce96c877e9b844a]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-66060baa265e66e8d87276bb72202ff3]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/9) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-66060baa265e66e8d87276bb72202ff3]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/9) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-47e6aff389f5207895c34e9839b0d752]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-47e6aff389f5207895c34e9839b0d752]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-2f95fa236e543f18d74cdcbcee37528e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/10) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-2f95fa236e543f18d74cdcbcee37528e]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/10) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-fd2dbc40360b425f586eb5203a27f07d]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-fd2dbc40360b425f586eb5203a27f07d]: Commencement: Sch. 1 para. 11 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-33c9715bd5802a0d0a2bdaed00773133]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/11) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-33c9715bd5802a0d0a2bdaed00773133]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/11) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-82e40847853d66c268c939b9adac97df]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-82e40847853d66c268c939b9adac97df]: Commencement: Sch. 1 para. 12 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-e9dcb685b9f158cddc1d1b83723f20ab]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/12) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-e9dcb685b9f158cddc1d1b83723f20ab]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/12) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-659bd3abe8845b992ad4a512dc5520f8]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-659bd3abe8845b992ad4a512dc5520f8]: Commencement: Sch. 1 para. 13 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-ced7c903525290eb0026049e71825343]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/13) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-ced7c903525290eb0026049e71825343]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/13) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ba8d3c74ca4b2606c54a5da070f7e21d]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ba8d3c74ca4b2606c54a5da070f7e21d]: Commencement: Sch. 1 para. 14 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-5acada10c238dd00b327b9383f238dad]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/14) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-5acada10c238dd00b327b9383f238dad]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/14) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-aa1ba113e82e822b739e33ab6d9749bc]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-aa1ba113e82e822b739e33ab6d9749bc]: Commencement: Sch. 1 para. 15 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-fd493d49a828e8a92f309ffad7406e7c]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/15) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-fd493d49a828e8a92f309ffad7406e7c]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/15) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-26e6b4247cf132731356fca83a4040c4]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-26e6b4247cf132731356fca83a4040c4]: Commencement: Sch. 1 para. 16 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-9757bad7d80d445397b2795c9e211fe0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/16) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-9757bad7d80d445397b2795c9e211fe0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/16) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-c831fa71c8da88acd7165f859403f21c]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-c831fa71c8da88acd7165f859403f21c]: Commencement: Sch. 1 para. 17 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-ac831cb1dde0668ceca86db4ebe1b7a7]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/17) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-ac831cb1dde0668ceca86db4ebe1b7a7]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/17) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-e4c4574c0b474f17759ebab9b6cdf7ec]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-e4c4574c0b474f17759ebab9b6cdf7ec]: Commencement: Sch. 1 para. 18 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-65d989b95b786db5e35f9d57ce7cfb74]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/18) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-65d989b95b786db5e35f9d57ce7cfb74]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/18) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-0043f3bd361c8c93d43ba1ba33ab16d6]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-0043f3bd361c8c93d43ba1ba33ab16d6]: Commencement: Sch. 1 para. 19 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-010323c40b99213413ec68ef7f5b24fc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/19) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-010323c40b99213413ec68ef7f5b24fc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/19) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ec8fd0e3d29b11d4b184f511dac0dd9c]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-ec8fd0e3d29b11d4b184f511dac0dd9c]: Commencement: Sch. 1 para. 20 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-d4918db38f79d8d5308428a37d689477]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/20) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-d4918db38f79d8d5308428a37d689477]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/20) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-50532ae1fed651b2903cc882f411482d]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-50532ae1fed651b2903cc882f411482d]: Commencement: Sch. 1 para. 21 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-0a3e9b0ed04d6ee91ee88c5dd99642a8]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/21) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-0a3e9b0ed04d6ee91ee88c5dd99642a8]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/asp/2024/11/schedule/1/paragraph/21) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-66b184fb27dd771a286afc04b857029d]: Commencement: Sch. 2 Pt. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-66b184fb27dd771a286afc04b857029d]: Commencement: Sch. 2 Pt. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-093743bbc012ffa948db3744d2ec74e6]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1) in force at 16.6.2025 for specified purposes by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-093743bbc012ffa948db3744d2ec74e6]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1) in force at 16.6.2025 for specified purposes by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-5099f5045c792c42a60512b6e1c7bb19]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-5099f5045c792c42a60512b6e1c7bb19]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-c84e5e70163a27916ba807a345088332]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/paragraph/1) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-c84e5e70163a27916ba807a345088332]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/paragraph/1) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-6e97b6e117b110c5589b02d1a2a7b561]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
+[^c-6e97b6e117b110c5589b02d1a2a7b561]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2)
 
-[^key-df54bcb3b61adb4032447a5d646e7fec]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2024/11/schedule/2/paragraph/2) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-df54bcb3b61adb4032447a5d646e7fec]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2024/11/schedule/2/paragraph/2) in force at 16.6.2025 by [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)

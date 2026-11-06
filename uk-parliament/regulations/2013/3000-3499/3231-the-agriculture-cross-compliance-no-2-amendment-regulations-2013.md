@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Agriculture (Cross compliance) (No. 2) (Amendment) Regulations 2013 (revoked)[^key-963acd1a33a3bc01b63da17fa182ef3d]
+The Agriculture (Cross compliance) (No. 2) (Amendment) Regulations 2013 (revoked)[^c-963acd1a33a3bc01b63da17fa182ef3d]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st January 2014
 
-[^key-963acd1a33a3bc01b63da17fa182ef3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-963acd1a33a3bc01b63da17fa182ef3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-963acd1a33a3bc01b63da17fa182ef3d]
+## 1. Citation and commencement[^c-963acd1a33a3bc01b63da17fa182ef3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Agriculture (Cross compliance) (No. 2) Regulations 2009[^key-963acd1a33a3bc01b63da17fa182ef3d]
+## 2. Amendment of the Agriculture (Cross compliance) (No. 2) Regulations 2009[^c-963acd1a33a3bc01b63da17fa182ef3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-963acd1a33a3bc01b63da17fa182ef3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-963acd1a33a3bc01b63da17fa182ef3d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-963acd1a33a3bc01b63da17fa182ef3d]EXPLANATORY NOTE
+[^c-963acd1a33a3bc01b63da17fa182ef3d]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-963acd1a33a3bc01b63da17fa182ef3d]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)
+[^c-963acd1a33a3bc01b63da17fa182ef3d]: Textual amendment: Regulations revoked (1.1.2015) by [The Common Agricultural Policy (Control and Enforcement, Cross-Compliance, Scrutiny of Transactions and Appeals) Regulations 2014 (S.I. 2014/3263)](https://www.legislation.gov.uk/uksi/2014/3263), reg. 1(1), [Sch. 5](https://www.legislation.gov.uk/uksi/2014/3263/schedule/5)

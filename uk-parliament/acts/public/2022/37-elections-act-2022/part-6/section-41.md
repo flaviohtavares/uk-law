@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Requirement to include information with electronic material[^key-d1435f2e7fd587c9faa3dc802956c8ef][^key-64ce069303b0f5c5d22b27505a876fc4]
+## 41. Requirement to include information with electronic material[^c-d1435f2e7fd587c9faa3dc802956c8ef][^c-64ce069303b0f5c5d22b27505a876fc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d1435f2e7fd587c9faa3dc802956c8ef]: Commencement: S. 41 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-d1435f2e7fd587c9faa3dc802956c8ef]: Commencement: S. 41 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-64ce069303b0f5c5d22b27505a876fc4]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/37/section/41) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-64ce069303b0f5c5d22b27505a876fc4]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2022/37/section/41) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

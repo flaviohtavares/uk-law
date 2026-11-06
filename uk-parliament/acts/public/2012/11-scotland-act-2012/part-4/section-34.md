@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Convention rights and EU law: role of Advocate General in relation to criminal proceedings[^key-16fcc25084cb486d6dc2a3712ed8fef3]
+## 34. Convention rights and EU law: role of Advocate General in relation to criminal proceedings[^c-16fcc25084cb486d6dc2a3712ed8fef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16fcc25084cb486d6dc2a3712ed8fef3]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2012/11/section/34) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/6/article/2/a)
+[^c-16fcc25084cb486d6dc2a3712ed8fef3]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2012/11/section/34) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/6/article/2/a)

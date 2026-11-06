@@ -42,11 +42,11 @@ Coming into operation
 
 The Office of the First Minister and deputy First Minister makes the following regulations in exercise of the powers conferred by section 223(7) and section 223(9) of the Planning Act (Northern Ireland) 2011[^f00001].
 
-## 1. Citation and Commencement[^key-fc85b8178fad66cc37e1a75653d357a2]
+## 1. Citation and Commencement[^c-fc85b8178fad66cc37e1a75653d357a2]
 
 These regulations may be cited as the Planning Fees (Deemed Planning Applications and Appeals) Regulations (Northern Ireland) 2015 and shall come into operation on 1<sup>st</sup> April 2015.
 
-## 2. Interpretation[^key-d1cea4c3242f323a728d6e717ffe46bb]
+## 2. Interpretation[^c-d1cea4c3242f323a728d6e717ffe46bb]
 
 In these regulations—
 
@@ -64,7 +64,7 @@ In these regulations—
 - “relevant enforcement notice” in relation to any deemed application means the enforcement notice stating the matters to which that deemed application relates;
 - “use of land” includes use of land for the winning and working of minerals.
 
-## 3. Fees for deemed planning applications[^key-c9be55285a88134b9e07a9fc41d67281]
+## 3. Fees for deemed planning applications[^c-c9be55285a88134b9e07a9fc41d67281]
 
 (1) Subject to regulations 4, 5 and 6, a fee shall be paid to the appeals commission where an application for planning permission is deemed to have been made by virtue of the provisions of section 145(5) of the 2011 Act.
 
@@ -72,7 +72,7 @@ In these regulations—
 
 (3) Where a fee is payable in respect of a deemed application under paragraph (1), it shall be paid by every person who appeals against the relevant enforcement notice under section 143 of the 2011 Act.
 
-## 4. Exemptions[^key-c5f6c4dedc6e4223b4725054cb09af46]
+## 4. Exemptions[^c-c5f6c4dedc6e4223b4725054cb09af46]
 
 (1) Regulation 3(1) shall not apply where the appeals commission is satisfied that the deemed application relates solely to—
 
@@ -85,24 +85,24 @@ for the purpose, in either case, of providing means of access to or within the d
 
 (3) In this regulation “disabled person” means a person who is within any of the descriptions of persons to whom section 1 of the Chronically Sick and Disabled Persons (Northern Ireland) Act 1978[^f00004] applies.
 
-**5.**[^key-b9bf552a29f459d30f0002523c92f64e] Regulation 3(1) shall not apply where the appeals commission is satisfied—
+**5.**[^c-b9bf552a29f459d30f0002523c92f64e] Regulation 3(1) shall not apply where the appeals commission is satisfied—
 
 - (a) that the deemed application relates to the use of a building or other land for a purpose of a class specified in the Planning (Use Classes) Order (Northern Ireland) 2015[^f00005] and solely to such use;
 - (b) that the existing use of that building or other land is for another purpose of the same class; and
 - (c) that the making of an application for planning permission in respect of the use to which the application relates is necessary by reason of (and only by reason of) a condition imposed on a permission granted or having the like effect as a permission granted under Part 3 of the 2011 Act.
 
-**6.**[^key-2601e86ad05dbaf593d4578709f1a0c1] Regulation 3(1) shall not apply to a deemed application where the appellant, before the date when the relevant enforcement notice was issued, made—
+**6.**[^c-2601e86ad05dbaf593d4578709f1a0c1] Regulation 3(1) shall not apply to a deemed application where the appellant, before the date when the relevant enforcement notice was issued, made—
 
 - (a) an application for planning permission for the development to which the enforcement notice relates and has paid the fee for that application under and in accordance with the Fees Regulations or the Planning (Fees) Regulations (Northern Ireland) 2005[^f00006], as appropriate; or
 - (b) an appeal to the appeals commission against the refusal to grant such permission,
 
 and that application or that appeal (as the case may be) has not been determined on or before the date when the relevant enforcement notice was issued.
 
-## 7. Fee for a deemed application for EIA development[^key-2cc90a470b01427a3f09f2920c2aee99]
+## 7. Fee for a deemed application for EIA development[^c-2cc90a470b01427a3f09f2920c2aee99]
 
-Where an application is deemed to have been made for EIA development, the fee payable in respect of the deemed application shall be the sum of £12,664,[^key-fb8e88ef2eced6c071455f84fdd1e140] in addition to the amount that would otherwise be payable, subject to the maximum amount for the category of development as specified in Part 2 of the Schedule to these regulations.
+Where an application is deemed to have been made for EIA development, the fee payable in respect of the deemed application shall be the sum of £12,664,[^c-fb8e88ef2eced6c071455f84fdd1e140] in addition to the amount that would otherwise be payable, subject to the maximum amount for the category of development as specified in Part 2 of the Schedule to these regulations.
 
-## 8. Refunds for deemed applications[^key-691a8c1c38e8e3936e7e58e96d2bdc29]
+## 8. Refunds for deemed applications[^c-691a8c1c38e8e3936e7e58e96d2bdc29]
 
 (1) If, in the case of a deemed application, the appeals commission declines jurisdiction on the grounds that the relevant appeal does not comply with one or more of the requirements of section 143(1) to (4) of the 2011 Act, the fee paid in respect of the deemed application shall be refunded.
 
@@ -123,16 +123,16 @@ the fee payable shall be that lesser amount and any excess amount already paid s
 
 (7) In determining a fee under paragraph (6) no account shall be taken of any change in fees which takes effect after the making of the deemed application.
 
-## 9. Fees for appeals[^key-a3e79a3df167b242244ab0127b9eec8b]
+## 9. Fees for appeals[^c-a3e79a3df167b242244ab0127b9eec8b]
 
-(1) The fee for an appeal to the appeals commission shall be £150.[^key-8f51a604497a8f5ff74149c1dc5f4839]
+(1) The fee for an appeal to the appeals commission shall be £150.[^c-8f51a604497a8f5ff74149c1dc5f4839]
 
 (2) No fee shall be payable in respect of—
 
 - (a) an appeal pursuant to the Planning (Trees) Regulations (Northern Ireland) 2015[^f00007] against a refusal or conditional grant of consent to cut down, top or lop trees or in default of a decision on an application for such consent; or
 - (b) an appeal under the Planning (Control of Advertisements) Regulations (Northern Ireland) 2015[^f00008] against a refusal or conditional grant of consent to display an advertisement.
 
-## 10. Revocations[^key-db163a776a148ae766ed9d54ab1c2719]
+## 10. Revocations[^c-db163a776a148ae766ed9d54ab1c2719]
 
 (1) Regulation 17 of the Planning (Fees) Regulations (Northern Ireland) 1995[^f00009] is revoked.
 
@@ -144,7 +144,7 @@ Siobhan Broderick
 
 A senior officer of the Office of the First Minister and deputy First Minister
 
-## SCHEDULE — Fees in Respect of Deemed Applications[^key-951377ee2aa44a78229bb2e9e840eff8]
+## SCHEDULE — Fees in Respect of Deemed Applications[^c-951377ee2aa44a78229bb2e9e840eff8]
 
 Reg 3(2)
 
@@ -220,46 +220,46 @@ Regulation 10 also revokes and replaces Regulation 17 of the Planning (Fees) Reg
 
 [^f00001]: Footnote: [2011 c. 25 (N.I.)](https://www.legislation.gov.uk/nia/2011/25)
 
-[^key-fc85b8178fad66cc37e1a75653d357a2]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-fc85b8178fad66cc37e1a75653d357a2]: Commencement: Reg. 1 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
-[^key-d1cea4c3242f323a728d6e717ffe46bb]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-d1cea4c3242f323a728d6e717ffe46bb]: Commencement: Reg. 2 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2015 No. 74](https://www.legislation.gov.uk/nisr/2015/74)
 
 [^f00003]: Footnote: [S.R. 2015 No. 73](https://www.legislation.gov.uk/nisr/2015/73)
 
-[^key-c9be55285a88134b9e07a9fc41d67281]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-c9be55285a88134b9e07a9fc41d67281]: Commencement: Reg. 3 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
-[^key-c5f6c4dedc6e4223b4725054cb09af46]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-c5f6c4dedc6e4223b4725054cb09af46]: Commencement: Reg. 4 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
 [^f00004]: Footnote: [1978 c. 53](https://www.legislation.gov.uk/ukpga/1978/53)
 
-[^key-b9bf552a29f459d30f0002523c92f64e]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-b9bf552a29f459d30f0002523c92f64e]: Commencement: Reg. 5 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2015 No. 40](https://www.legislation.gov.uk/nisr/2015/40)
 
-[^key-2601e86ad05dbaf593d4578709f1a0c1]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-2601e86ad05dbaf593d4578709f1a0c1]: Commencement: Reg. 6 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2005 No. 222](https://www.legislation.gov.uk/nisr/2005/222)
 
-[^key-2cc90a470b01427a3f09f2920c2aee99]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-2cc90a470b01427a3f09f2920c2aee99]: Commencement: Reg. 7 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
-[^key-fb8e88ef2eced6c071455f84fdd1e140]: Textual amendment: Sum in [reg. 7](https://www.legislation.gov.uk/nisr/2015/136/regulation/7) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/137/regulation/4)
+[^c-fb8e88ef2eced6c071455f84fdd1e140]: Textual amendment: Sum in [reg. 7](https://www.legislation.gov.uk/nisr/2015/136/regulation/7) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [4](https://www.legislation.gov.uk/nisr/2025/137/regulation/4)
 
-[^key-691a8c1c38e8e3936e7e58e96d2bdc29]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-691a8c1c38e8e3936e7e58e96d2bdc29]: Commencement: Reg. 8 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
-[^key-a3e79a3df167b242244ab0127b9eec8b]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-a3e79a3df167b242244ab0127b9eec8b]: Commencement: Reg. 9 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
-[^key-8f51a604497a8f5ff74149c1dc5f4839]: Textual amendment: Sum in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2015/136/regulation/9/1) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/137/regulation/5)
+[^c-8f51a604497a8f5ff74149c1dc5f4839]: Textual amendment: Sum in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2015/136/regulation/9/1) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [5](https://www.legislation.gov.uk/nisr/2025/137/regulation/5)
 
 [^f00007]: Footnote: [S.R. 2015 No. 84](https://www.legislation.gov.uk/nisr/2015/84)
 
 [^f00008]: Footnote: [S.R. 2015 No. 66](https://www.legislation.gov.uk/nisr/2015/66)
 
-[^key-db163a776a148ae766ed9d54ab1c2719]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
+[^c-db163a776a148ae766ed9d54ab1c2719]: Commencement: Reg. 10 in operation at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/136/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1995 No. 78](https://www.legislation.gov.uk/nisr/1995/78)
 
 [^f00010]: Footnote: [S.R. 2005 No. 222](https://www.legislation.gov.uk/nisr/2005/222)
 
-[^key-951377ee2aa44a78229bb2e9e840eff8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2015/136/schedule) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [6](https://www.legislation.gov.uk/nisr/2025/137/regulation/6)
+[^c-951377ee2aa44a78229bb2e9e840eff8]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2015/136/schedule) substituted (13.8.2025) by [The Planning Fees (Deemed Planning Applications and Appeals) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/137)](https://www.legislation.gov.uk/nisr/2025/137), [regs. 1](https://www.legislation.gov.uk/nisr/2025/137/regulation/1), [6](https://www.legislation.gov.uk/nisr/2025/137/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Establishment of a pension credit member’s account[^key-e64ef16aa03b828a7354c34d68c6c457]
+## 41. Establishment of a pension credit member’s account[^c-e64ef16aa03b828a7354c34d68c6c457]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e64ef16aa03b828a7354c34d68c6c457]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/2336/regulation/41) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-e64ef16aa03b828a7354c34d68c6c457]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2014/2336/regulation/41) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

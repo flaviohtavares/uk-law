@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71P. Designated activities: liability[^key-0b37bb1bfd301e02d8c8df3c7e213886]
+## 71P. Designated activities: liability[^c-0b37bb1bfd301e02d8c8df3c7e213886]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b37bb1bfd301e02d8c8df3c7e213886]: Textual amendment: Pt. 5A inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/8/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)
+[^c-0b37bb1bfd301e02d8c8df3c7e213886]: Textual amendment: Pt. 5A inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/29/section/8/2), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Re-determinations after the period allowed[^key-e74c6e5a73557fc628aa0ce412c6d0bd]
+## 7. Re-determinations after the period allowed[^c-e74c6e5a73557fc628aa0ce412c6d0bd]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e74c6e5a73557fc628aa0ce412c6d0bd]: Commencement: S. 7 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-e74c6e5a73557fc628aa0ce412c6d0bd]: Commencement: S. 7 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

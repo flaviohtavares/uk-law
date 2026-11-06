@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Co-operation in the exercise of functions[^key-906e63bfa3aec897e8d899914347e4f7]
+## 178. Co-operation in the exercise of functions[^c-906e63bfa3aec897e8d899914347e4f7]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-906e63bfa3aec897e8d899914347e4f7]: Commencement: [S. 178](https://www.legislation.gov.uk/anaw/2016/2/section/178) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-906e63bfa3aec897e8d899914347e4f7]: Commencement: [S. 178](https://www.legislation.gov.uk/anaw/2016/2/section/178) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

@@ -39,7 +39,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (2) This Order comes into force on 6th April 2016.
 
-(3) Articles 2(1), (2)[^key-ebb6dffd49a7d8ed043eb29b96ce121c], (3A) and (5A)[^key-07f3730e89ebaea4006a93cf960e4cb0] cease to have effect on 6th April 2019.
+(3) Articles 2(1), (2)[^c-ebb6dffd49a7d8ed043eb29b96ce121c], (3A) and (5A)[^c-07f3730e89ebaea4006a93cf960e4cb0] cease to have effect on 6th April 2019.
 
 (4) In this Order—
 
@@ -49,12 +49,12 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - “earner” has the meaning given in section 181(1) of the 1993 Act;
 - “HMRC” means the Commissioners for Her Majesty’s Revenue and Customs;
 - “PPF assessment period” means an assessment period in relation to the Board of the Pension Protection Fund within the meaning of section 132 of the Pensions Act 2004;
-- “reference scheme minimum benefit” means a salary related benefit which is defined by reference to section 12B of the 1993 Act (reference scheme) and which, under the provisions of the scheme, will be provided as a minimum pension payable to the member;[^key-dc2d15690f219fdc9c8f16859443c8a2]
+- “reference scheme minimum benefit” means a salary related benefit which is defined by reference to section 12B of the 1993 Act (reference scheme) and which, under the provisions of the scheme, will be provided as a minimum pension payable to the member;[^c-dc2d15690f219fdc9c8f16859443c8a2]
 - “salary related contracted-out scheme” and “the second abolition date” have the meanings given in section 181(1) of the 1993 Act.
 
 ## 2. Savings
 
-(1) The provisions of the 1993 Act specified in paragraph (2) and repealed by paragraphs 5, 8, 9 to 11, 22, 28, 29, [^key-190b29f3fc675942188fb006fee684a0]... 36 [^key-aec688395f35fda58043a89fb85f9d7a]... and 46(1), (2) and (4) of Schedule 13 to the Act (abolition of contracting-out for salary related schemes) continue to have effect, despite those repeals, for the purposes of allowing or requiring the trustees or managers of a scheme that was a salary related contracted-out scheme, and HMRC, to carry out any necessary activity relating to any period of contracted-out employment which occurred before the second abolition date.
+(1) The provisions of the 1993 Act specified in paragraph (2) and repealed by paragraphs 5, 8, 9 to 11, 22, 28, 29, [^c-190b29f3fc675942188fb006fee684a0]... 36 [^c-aec688395f35fda58043a89fb85f9d7a]... and 46(1), (2) and (4) of Schedule 13 to the Act (abolition of contracting-out for salary related schemes) continue to have effect, despite those repeals, for the purposes of allowing or requiring the trustees or managers of a scheme that was a salary related contracted-out scheme, and HMRC, to carry out any necessary activity relating to any period of contracted-out employment which occurred before the second abolition date.
 
 (2) The provisions are—
 
@@ -64,18 +64,18 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (d) sections 12A to 12D (requirements for certification of occupational pension schemes applying from 6th April 1997);
 - (e) sections 34 to 36 (cancellation, variation, surrender and refusal of certificates);
 - (f) section 41 (reduced rates of Class 1 contributions);
-- (g)[^key-98ae5df464fc16c3efd6e4c080d24f07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-98ae5df464fc16c3efd6e4c080d24f07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) section 53(3) (supervision: former contracted-out schemes);
-- (i)[^key-f11bfeac57ee1922a68b746f6cc98dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-f11bfeac57ee1922a68b746f6cc98dd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) Schedule 2, paragraphs 1 to 4 and 6 to 8 (certification regulations).
 
-(2A)[^key-37be55613c24240ea74980b5807aa0ba] Sections 12A to 12D of the 1993 Act (requirements for certification of occupational pension schemes applying from 6th April 1997) continue to have effect, as if the repeals made by paragraphs 10 and 11 of Schedule 13 to the Act had not been made, in relation to a scheme that was a salary related contracted-out scheme and which provides a reference scheme minimum benefit in order to meet the statutory standard in section 12A, and in relation to the period of a member’s contracted-out employment which ended before or on the second abolition date.
+(2A)[^c-37be55613c24240ea74980b5807aa0ba] Sections 12A to 12D of the 1993 Act (requirements for certification of occupational pension schemes applying from 6th April 1997) continue to have effect, as if the repeals made by paragraphs 10 and 11 of Schedule 13 to the Act had not been made, in relation to a scheme that was a salary related contracted-out scheme and which provides a reference scheme minimum benefit in order to meet the statutory standard in section 12A, and in relation to the period of a member’s contracted-out employment which ended before or on the second abolition date.
 
 (3) Section 16(2) of the 1993 Act (revaluation of earnings factors for the purposes of section 14: early leavers etc) continues to have effect, as if that subsection had not been substituted by paragraph 16 of Schedule 13 to the Act, in relation to earners whose service in contracted-out employment ended before the second abolition date.
 
-(3A)[^key-4bd3bcca5b1934440012f232c92b1d52] Section 50 of the 1993 Act (powers of HMRC to approve arrangements for scheme ceasing to be certified) continues to have effect, as if that section had not been repealed by paragraph 33 of Schedule 13 to the Act, in relation to a salary related contracted-out scheme which ceased to be such a scheme before the second abolition date.
+(3A)[^c-4bd3bcca5b1934440012f232c92b1d52] Section 50 of the 1993 Act (powers of HMRC to approve arrangements for scheme ceasing to be certified) continues to have effect, as if that section had not been repealed by paragraph 33 of Schedule 13 to the Act, in relation to a salary related contracted-out scheme which ceased to be such a scheme before the second abolition date.
 
-(4) Sections 55 to 68 of the 1993 Act continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the Act, for the purposes of allowing or requiring the trustees or managers of a scheme described in paragraph (5) to elect to pay, and pay, a contributions equivalent premium in relation to members of the scheme whose contracted-out employment ended [^key-7a93cd69e8f2a9d0d0bd148e51bd38c5]... before the second abolition date.
+(4) Sections 55 to 68 of the 1993 Act continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the Act, for the purposes of allowing or requiring the trustees or managers of a scheme described in paragraph (5) to elect to pay, and pay, a contributions equivalent premium in relation to members of the scheme whose contracted-out employment ended [^c-7a93cd69e8f2a9d0d0bd148e51bd38c5]... before the second abolition date.
 
 (5) A scheme referred to in paragraph (4) is—
 
@@ -85,7 +85,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
   - (ii) which entered a PPF assessment period before 6th April 2016, and where the assessment period continues after 6th April 2019; and
   - (iii) where the trustees or managers of the scheme elected to pay a contributions equivalent premium after the start of the PPF assessment period but cannot make that payment during the assessment period due to the restriction in section 135(4)(b) of the Pensions Act 2004 (restrictions on winding up, discharge of liabilities etc).
 
-(5A)[^key-b61fde89f3da648b80ca725226dc3695] Sections 55 to 68 of the 1993 Act (state scheme premiums) continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the 2014 Act (abolition of contracting-out for salary related schemes) for the purposes of allowing action to be taken by HMRC and the trustees or managers of a scheme in relation to the payment of a contributions equivalent premium in respect of an earner to whom section 55(2)(a) to (c) applied before the second abolition date.
+(5A)[^c-b61fde89f3da648b80ca725226dc3695] Sections 55 to 68 of the 1993 Act (state scheme premiums) continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the 2014 Act (abolition of contracting-out for salary related schemes) for the purposes of allowing action to be taken by HMRC and the trustees or managers of a scheme in relation to the payment of a contributions equivalent premium in respect of an earner to whom section 55(2)(a) to (c) applied before the second abolition date.
 
 (5B) Sections 56 to 68 of the 1993 Act additionally continue to have effect as if they had not been repealed by paragraph 37 of Schedule 13 to the 2014 Act insofar as necessary for the purposes of article 3 of the Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 with the modifications specified in paragraphs (5C) to (5F).
 
@@ -130,7 +130,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (a) in subsection (4) for “section 55(2A)(a) and (b), (d) and (e)” substitute “article 3(5)(a), (b) and (d) of the Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016”; and
 - (b) in subsection (5) for “section 55(2A)(c)” substitute “article 3(5)(c) of the Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016”.
 
-(6)[^key-547b708a0794b355e6e7121491d91014] Section 87(1)(a) of the 1993 Act (general protection principle) continues to have effect, as if sub-paragraph (i) had not been substituted by paragraph 38 of Schedule 13 to the Act, in relation to earners whose service in contracted-out employment ended before the second abolition date.
+(6)[^c-547b708a0794b355e6e7121491d91014] Section 87(1)(a) of the 1993 Act (general protection principle) continues to have effect, as if sub-paragraph (i) had not been substituted by paragraph 38 of Schedule 13 to the Act, in relation to earners whose service in contracted-out employment ended before the second abolition date.
 
 Signed by authority of the Secretary of State for Work and Pensions
 
@@ -160,26 +160,26 @@ An analysis of the impact of this legislation has been made as part of the analy
 
 [^f00001]: Footnote: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-ebb6dffd49a7d8ed043eb29b96ce121c]: Textual amendment: Words in art. 1(3) substituted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/2/a)
+[^c-ebb6dffd49a7d8ed043eb29b96ce121c]: Textual amendment: Words in art. 1(3) substituted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/2/a)
 
-[^key-07f3730e89ebaea4006a93cf960e4cb0]: Textual amendment: Words in art. 1(3) substituted (6.4.2016) by [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 5(2)](https://www.legislation.gov.uk/uksi/2016/252/article/5/2)[reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/regulation/1/2)
+[^c-07f3730e89ebaea4006a93cf960e4cb0]: Textual amendment: Words in art. 1(3) substituted (6.4.2016) by [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 5(2)](https://www.legislation.gov.uk/uksi/2016/252/article/5/2)[reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/regulation/1/2)
 
-[^key-dc2d15690f219fdc9c8f16859443c8a2]: Textual amendment: Words in art. 1(4) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/2/b)
+[^c-dc2d15690f219fdc9c8f16859443c8a2]: Textual amendment: Words in art. 1(4) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/2/b)
 
-[^key-190b29f3fc675942188fb006fee684a0]: Textual amendment: Word in art. 2(1) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/a)
+[^c-190b29f3fc675942188fb006fee684a0]: Textual amendment: Word in art. 2(1) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/a)
 
-[^key-aec688395f35fda58043a89fb85f9d7a]: Textual amendment: Words in art. 2(1) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/a)
+[^c-aec688395f35fda58043a89fb85f9d7a]: Textual amendment: Words in art. 2(1) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(a)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/a)
 
-[^key-98ae5df464fc16c3efd6e4c080d24f07]: Textual amendment: Art. 2(2)(g) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/b)
+[^c-98ae5df464fc16c3efd6e4c080d24f07]: Textual amendment: Art. 2(2)(g) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/b)
 
-[^key-f11bfeac57ee1922a68b746f6cc98dd6]: Textual amendment: Art. 2(2)(i) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(b)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/b)
+[^c-f11bfeac57ee1922a68b746f6cc98dd6]: Textual amendment: Art. 2(2)(i) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(b)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/b)
 
-[^key-37be55613c24240ea74980b5807aa0ba]: Textual amendment: Art. 2(2A) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(c)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/c)
+[^c-37be55613c24240ea74980b5807aa0ba]: Textual amendment: Art. 2(2A) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(c)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/c)
 
-[^key-4bd3bcca5b1934440012f232c92b1d52]: Textual amendment: Art. 2(3A) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/d)
+[^c-4bd3bcca5b1934440012f232c92b1d52]: Textual amendment: Art. 2(3A) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/d)
 
-[^key-7a93cd69e8f2a9d0d0bd148e51bd38c5]: Textual amendment: Words in art. 2(4) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(c)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/c)
+[^c-7a93cd69e8f2a9d0d0bd148e51bd38c5]: Textual amendment: Words in art. 2(4) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(c)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/c)
 
-[^key-b61fde89f3da648b80ca725226dc3695]: Textual amendment: Art. 2(5A)-(5F) inserted (6.4.2016) by [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(d)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/d)
+[^c-b61fde89f3da648b80ca725226dc3695]: Textual amendment: Art. 2(5A)-(5F) inserted (6.4.2016) by [The Pensions Act 2014 (Contributions Equivalent Premium) (Consequential Provision) and (Savings) (Amendment) Order 2016 (S.I. 2016/252)](https://www.legislation.gov.uk/uksi/2016/252), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/252/article/1/2), [art. 5(3)(d)](https://www.legislation.gov.uk/uksi/2016/252/article/5/3/d)
 
-[^key-547b708a0794b355e6e7121491d91014]: Textual amendment: Art. 2(6) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(e)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/e)
+[^c-547b708a0794b355e6e7121491d91014]: Textual amendment: Art. 2(6) inserted (6.4.2016) by [The Pensions Act 2014 (Commencement No.7) and (Savings) (Amendment) Order 2015 (S.I. 2015/2058)](https://www.legislation.gov.uk/uksi/2015/2058), [art. 3(3)(e)](https://www.legislation.gov.uk/uksi/2015/2058/article/3/3/e)

@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12A. Conditions for application to open an account that is a junior ISA account[^key-f2b2e58433c8ebca1031b74335bcaa9f]
+## 12A. Conditions for application to open an account that is a junior ISA account[^c-f2b2e58433c8ebca1031b74335bcaa9f]
 
 *Extent: E+W+S+N.I.*
 
-(1) An application (“junior ISA application”) to open a junior ISA account with an account manager may only be made if the account will be held by an eligible child immediately following the opening of the account or by the holder of a junior ISA account arising from a transfer provided for by regulation 20A of the Child Trust Funds Regulations 2004, or if the application is preliminary to such a transfer[^key-2bb7a196d9f3cb60aecb1c1c7a1ac8e6].
+(1) An application (“junior ISA application”) to open a junior ISA account with an account manager may only be made if the account will be held by an eligible child immediately following the opening of the account or by the holder of a junior ISA account arising from a transfer provided for by regulation 20A of the Child Trust Funds Regulations 2004, or if the application is preliminary to such a transfer[^c-2bb7a196d9f3cb60aecb1c1c7a1ac8e6].
 
-(2) A[^key-ca865a2089d1548ff573cfef21513c9c] child may hold—
+(2) A[^c-ca865a2089d1548ff573cfef21513c9c] child may hold—
 
 - (a) only one account set up as a cash account; and
 - (b) only one account set up as a stocks and shares account.
 
 (3) For the purposes of paragraphs (2) and (7), an account holding an amount of less than one penny shall be disregarded.
 
-(3A)[^key-cff5cb8e5de9d4494b1ee94476b61a2d] Except in the case of an account that will be held by an eligible child as mentioned in paragraph (1), the word “eligible” in paragraphs (4), (6), (7)(g), (h) and (i) and (8) must be disregarded.
+(3A)[^c-cff5cb8e5de9d4494b1ee94476b61a2d] Except in the case of an account that will be held by an eligible child as mentioned in paragraph (1), the word “eligible” in paragraphs (4), (6), (7)(g), (h) and (i) and (8) must be disregarded.
 
 (4) A junior ISA application may be made by a person who—
 
@@ -46,9 +46,9 @@ summary: ''
 
 - (a) the application is made to open a junior ISA account;
 - (b) the information provided in accordance with paragraph (8) is true;
-- (c) the child who will hold the account opened pursuant to the application is not an “eligible child” within the meaning given in the Child Trust Funds Act 2004 (but this is not required if the person who will hold the account is already the holder of a junior ISA account arising from a transfer mentioned in paragraph (1), or if the application is preliminary to such a transfer)[^key-d33494c760632a77c64370136f545530];
+- (c) the child who will hold the account opened pursuant to the application is not an “eligible child” within the meaning given in the Child Trust Funds Act 2004 (but this is not required if the person who will hold the account is already the holder of a junior ISA account arising from a transfer mentioned in paragraph (1), or if the application is preliminary to such a transfer)[^c-d33494c760632a77c64370136f545530];
 - (d) the child who will hold the account opened pursuant to the application is—
-  - (i) resident [^key-df0e7143408d48fe1d00862e6e4ed5aa]... in the United Kingdom (but this is not required if the application is preliminary to a transfer mentioned in paragraph (1))[^key-9322abff5efd2dde48cb5b849891e633],
+  - (i) resident [^c-df0e7143408d48fe1d00862e6e4ed5aa]... in the United Kingdom (but this is not required if the application is preliminary to a transfer mentioned in paragraph (1))[^c-9322abff5efd2dde48cb5b849891e633],
   - (ii) a person who has general earnings from overseas Crown employment subject to United Kingdom tax within the meaning given by section 28 of ITEPA 2003,
   - (iii) married to or in a civil partnership with a person mentioned in paragraph (ii), or
   - (iv) a dependant of a person mentioned in paragraph (ii);
@@ -106,16 +106,16 @@ summary: ''
 
 ## Annotations
 
-[^key-f2b2e58433c8ebca1031b74335bcaa9f]: Textual amendment: Reg. 12A inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [19](https://www.legislation.gov.uk/uksi/2011/1780/regulation/19)
+[^c-f2b2e58433c8ebca1031b74335bcaa9f]: Textual amendment: Reg. 12A inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [19](https://www.legislation.gov.uk/uksi/2011/1780/regulation/19)
 
-[^key-2bb7a196d9f3cb60aecb1c1c7a1ac8e6]: Textual amendment: Words in reg. 12A(1) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/1)
+[^c-2bb7a196d9f3cb60aecb1c1c7a1ac8e6]: Textual amendment: Words in reg. 12A(1) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(1)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/1)
 
-[^key-ca865a2089d1548ff573cfef21513c9c]: Textual amendment: Word in reg. 12A(2) substituted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/2)
+[^c-ca865a2089d1548ff573cfef21513c9c]: Textual amendment: Word in reg. 12A(2) substituted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/2)
 
-[^key-cff5cb8e5de9d4494b1ee94476b61a2d]: Textual amendment: Reg. 12A(3A) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/3)
+[^c-cff5cb8e5de9d4494b1ee94476b61a2d]: Textual amendment: Reg. 12A(3A) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/3)
 
-[^key-d33494c760632a77c64370136f545530]: Textual amendment: Words in reg. 12A(7)(c) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/4)
+[^c-d33494c760632a77c64370136f545530]: Textual amendment: Words in reg. 12A(7)(c) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/4)
 
-[^key-df0e7143408d48fe1d00862e6e4ed5aa]: Textual amendment: Words in reg. 12A(7)(d)(i) omitted (6.4.2013) by virtue of [The Income Tax (Removal of Ordinary Residence) Regulations 2013 (S.I. 2013/605)](https://www.legislation.gov.uk/uksi/2013/605), [regs. 1](https://www.legislation.gov.uk/uksi/2013/605/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/605/regulation/4/5) (with [reg. 2(a)](https://www.legislation.gov.uk/uksi/2013/605/regulation/2/a))
+[^c-df0e7143408d48fe1d00862e6e4ed5aa]: Textual amendment: Words in reg. 12A(7)(d)(i) omitted (6.4.2013) by virtue of [The Income Tax (Removal of Ordinary Residence) Regulations 2013 (S.I. 2013/605)](https://www.legislation.gov.uk/uksi/2013/605), [regs. 1](https://www.legislation.gov.uk/uksi/2013/605/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/605/regulation/4/5) (with [reg. 2(a)](https://www.legislation.gov.uk/uksi/2013/605/regulation/2/a))
 
-[^key-9322abff5efd2dde48cb5b849891e633]: Textual amendment: Words in reg. 12A(7)(d)(i) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/5)
+[^c-9322abff5efd2dde48cb5b849891e633]: Textual amendment: Words in reg. 12A(7)(d)(i) inserted (6.4.2015) by [The Individual Savings Account (Amendment No. 3) Regulations 2015 (S.I. 2015/941)](https://www.legislation.gov.uk/uksi/2015/941), [regs. 1](https://www.legislation.gov.uk/uksi/2015/941/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2015/941/regulation/4/5)

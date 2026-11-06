@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Apparatus and rights of statutory undertakers in stopped up streets[^key-5bc14258fb0e35ec03fdfc75a9d0c28b]
+## 32. Apparatus and rights of statutory undertakers in stopped up streets[^c-5bc14258fb0e35ec03fdfc75a9d0c28b]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ and the placing of apparatus of that type or capacity or of those dimensions or 
 
 ## Annotations
 
-[^key-5bc14258fb0e35ec03fdfc75a9d0c28b]: Commencement: Art. 32 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
+[^c-5bc14258fb0e35ec03fdfc75a9d0c28b]: Commencement: Art. 32 in force at 18.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/556/article/1)
 
 [^c24104381]: Marginal citation: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). There are amendments to section 51 which are not relevant to this Order.

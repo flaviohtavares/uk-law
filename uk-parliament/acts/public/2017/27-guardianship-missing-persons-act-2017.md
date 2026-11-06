@@ -37,7 +37,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Missing persons
 
-### 1. Missing persons[^key-a3aba2d349cd4e9afe547207d7d0c437]
+### 1. Missing persons[^c-a3aba2d349cd4e9afe547207d7d0c437]
 
 (1) For the purposes of this Act, a person is “missing” if—
 
@@ -59,7 +59,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Guardianship orders
 
-### 2. Applying for a guardianship order[^key-fbfd3cc3bdc3f3a53d38bd06540dd5e9]
+### 2. Applying for a guardianship order[^c-fbfd3cc3bdc3f3a53d38bd06540dd5e9]
 
 (1) A person may apply to the court for an order appointing a guardian in respect of some or all of a missing person's property and financial affairs (a “guardianship order”).
 
@@ -73,7 +73,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (3) If a person is missing for two or more separate periods, the reference in subsection (2)(a) to the day before he or she was first known to be missing is to be read as a reference to the day before the latest period began.
 
-### 3. Making a guardianship order[^key-2ad4c8b8848f34c96e71a41715f43ef9]
+### 3. Making a guardianship order[^c-2ad4c8b8848f34c96e71a41715f43ef9]
 
 (1) The court may make a guardianship order on an application under section 2 if subsection (2) or (3) of this section applies (and see also sections 19 and 20).
 
@@ -101,7 +101,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (7) A statutory instrument containing regulations under this section may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-### 4. Choice of guardian[^key-de09828e534e6da3b2626ae26940ab8d]
+### 4. Choice of guardian[^c-de09828e534e6da3b2626ae26940ab8d]
 
 (1) The court may only appoint a person as a guardian in respect of property or financial affairs of a missing person if it is satisfied that the person—
 
@@ -130,7 +130,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (5) The court may make a guardianship order appointing a person as a guardian whether or not the person is proposed in the application for the order.
 
-### 5. Guardian's role: property and financial affairs[^key-4a8986379393a9532f97b962f68d714b]
+### 5. Guardian's role: property and financial affairs[^c-4a8986379393a9532f97b962f68d714b]
 
 (1) A guardianship order must appoint the guardian in relation to—
 
@@ -146,7 +146,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - (a) the conditions in section 3(2)(c) and (d) are met, and
 - (b) where the order is made in reliance on section 3(3), the urgency condition is met.
 
-### 6. Guardian's role: rights and powers etc[^key-7190820a0ac0ad8b93bd52c18999f043]
+### 6. Guardian's role: rights and powers etc[^c-7190820a0ac0ad8b93bd52c18999f043]
 
 (1) A guardianship order must appoint the guardian to exercise on behalf of the missing person—
 
@@ -190,7 +190,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (9) “**Dependant**”, in relation to a missing person, means an individual who, if the missing person were not missing, would reasonably rely on the missing person to provide for his or her maintenance.
 
-### 7. Period of guardianship[^key-8039463c4ad35006f4964a08120887bd]
+### 7. Period of guardianship[^c-8039463c4ad35006f4964a08120887bd]
 
 (1) A guardian is appointed for the period specified in the guardianship order.
 
@@ -200,7 +200,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Guardians
 
-### 8. Guardians and effect of guardianship order[^key-fdad1459611a8a39206369979ef3ff7b]
+### 8. Guardians and effect of guardianship order[^c-fdad1459611a8a39206369979ef3ff7b]
 
 (1) A guardian must act in what the guardian reasonably believes to be the missing person's best interests (see section 18).
 
@@ -210,7 +210,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) A guardianship order does not affect any rights, powers or other interests of third parties in relation to the missing person's property or financial affairs.
 
-### 9. Expenses, remuneration and records[^key-2ab9f9ca0586cff93ec9c8cea1fb2ab5]
+### 9. Expenses, remuneration and records[^c-2ab9f9ca0586cff93ec9c8cea1fb2ab5]
 
 (1) A guardian is entitled to be reimbursed out of the missing person's property for reasonable expenses incurred in connection with the exercise of functions as a guardian.
 
@@ -232,7 +232,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) Directions under subsection (3) and orders under subsection (4) may include conditions and restrictions.
 
-### 10. Directions by the court to guardians[^key-97fbf80dfe92f3d1955d19e5fc2ce9ef]
+### 10. Directions by the court to guardians[^c-97fbf80dfe92f3d1955d19e5fc2ce9ef]
 
 (1) The court may give a direction to a guardian about—
 
@@ -241,7 +241,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) The court may do so on an application or without an application being made (and see sections 19 and 20).
 
-### 11. Actions outside guardian's authority etc[^key-c49ec01cdf44e7482bf5eeb310f551d8]
+### 11. Actions outside guardian's authority etc[^c-c49ec01cdf44e7482bf5eeb310f551d8]
 
 (1) The court may make a declaration—
 
@@ -272,7 +272,7 @@ the court may relieve the guardian, either entirely or partly, of personal liabi
 
 ## Variation and revocation of guardianship orders
 
-### 12. Variation of guardianship order[^key-8e11ad1257ab983c3f49f249f992417b]
+### 12. Variation of guardianship order[^c-8e11ad1257ab983c3f49f249f992417b]
 
 (1) The court may make an order varying a guardianship order, on an application or without an application being made.
 
@@ -298,7 +298,7 @@ the court may relieve the guardian, either entirely or partly, of personal liabi
 
 (6) The court must send a copy of an order varying a guardianship order to the Public Guardian.
 
-### 13. Revocation of guardianship order[^key-6c3deb69de3db5753b9cbf43fc0dd63f]
+### 13. Revocation of guardianship order[^c-6c3deb69de3db5753b9cbf43fc0dd63f]
 
 (1) The court may make an order revoking a guardianship order, on an application or without an application being made.
 
@@ -313,7 +313,7 @@ the court may relieve the guardian, either entirely or partly, of personal liabi
 
 (4) The court must send a copy of an order revoking a guardianship order to the Public Guardian.
 
-### 14. Automatic revocation[^key-13112de774b04f77e2cc21543a2710e4]
+### 14. Automatic revocation[^c-13112de774b04f77e2cc21543a2710e4]
 
 (1) A guardianship order is revoked—
 
@@ -326,7 +326,7 @@ the court may relieve the guardian, either entirely or partly, of personal liabi
 
 (3) Where a person becomes aware that a guardianship order appointing the person as guardian has been revoked under subsection (1)(a) or (b), the person must inform the Public Guardian as soon as reasonably practicable.
 
-### 15. Protection following variation or revocation[^key-fed701f5f7e97867dd9684aaf974facc]
+### 15. Protection following variation or revocation[^c-fed701f5f7e97867dd9684aaf974facc]
 
 (1) Where a guardian acts within the scope of the authority conferred by the guardianship order and this Act at a time when—
 
@@ -356,16 +356,16 @@ the transaction between them is, in favour of that person, as valid as if the gu
 
 ### 16. Appointment of two or more guardians[^c22730051]
 
-(1)[^key-e80aa00e313f6cea32b413b63727aac8] The court may appoint two or more guardians in respect of some or all of a missing person's property and financial affairs.
+(1)[^c-e80aa00e313f6cea32b413b63727aac8] The court may appoint two or more guardians in respect of some or all of a missing person's property and financial affairs.
 
-(2)[^key-e80aa00e313f6cea32b413b63727aac8] It may appoint them—
+(2)[^c-e80aa00e313f6cea32b413b63727aac8] It may appoint them—
 
 - (a) at the same time or at different times;
 - (b) by means of the same guardianship order or separate guardianship orders.
 
-(3)[^key-e80aa00e313f6cea32b413b63727aac8] It may do so whether or not the appointment of two or more guardians is proposed in an application for, or for the variation of, a guardianship order.
+(3)[^c-e80aa00e313f6cea32b413b63727aac8] It may do so whether or not the appointment of two or more guardians is proposed in an application for, or for the variation of, a guardianship order.
 
-(4)[^key-e80aa00e313f6cea32b413b63727aac8] The Schedule to this Act makes further provision about the appointment of two or more guardians.
+(4)[^c-e80aa00e313f6cea32b413b63727aac8] The Schedule to this Act makes further provision about the appointment of two or more guardians.
 
 (5) The Secretary of State may by regulations made by statutory instrument make provision about the appointment of two or more guardians, including provision modifying this Act as it applies where two or more guardians are appointed.
 
@@ -379,7 +379,7 @@ the transaction between them is, in favour of that person, as valid as if the gu
 
 ## Supervision of guardians
 
-### 17. Supervision of guardians by the Public Guardian[^c22730061][^key-6a5ac7ee3bd49599cc2fccb080907d46]
+### 17. Supervision of guardians by the Public Guardian[^c22730061][^c-6a5ac7ee3bd49599cc2fccb080907d46]
 
 (1) Section 58 of the Mental Capacity Act 2005 (functions of the Public Guardian) is amended as follows.
 
@@ -414,22 +414,22 @@ the transaction between them is, in favour of that person, as valid as if the gu
 
 ### 18. Missing person's best interests[^c22730071]
 
-(1)[^key-055b4c08fe8f6ec459d3f13fd5d472ed] In determining for the purposes of this Act what is in a missing person's best interests, the court or a guardian—
+(1)[^c-055b4c08fe8f6ec459d3f13fd5d472ed] In determining for the purposes of this Act what is in a missing person's best interests, the court or a guardian—
 
 - (a) must consider all the relevant circumstances of which the court or guardian is aware, and
 - (b) must, among other things, take the steps described in subsections (2) to (4).
 
-(2)[^key-055b4c08fe8f6ec459d3f13fd5d472ed] The court or guardian must consider, so far as is reasonably ascertainable—
+(2)[^c-055b4c08fe8f6ec459d3f13fd5d472ed] The court or guardian must consider, so far as is reasonably ascertainable—
 
 - (a) any relevant wishes and feelings expressed by the missing person at any time, including any relevant written statement made by the missing person,
 - (b) the beliefs and values that would be likely to influence the missing person, and
 - (c) any other factors that the missing person would be likely to consider.
 
-(3)[^key-055b4c08fe8f6ec459d3f13fd5d472ed] The court or guardian must take into account the views of any persons of whom the court or guardian (as appropriate) is aware with a relevant interest in relation to the missing person's property or financial affairs, where it is reasonably practicable and appropriate to do so.
+(3)[^c-055b4c08fe8f6ec459d3f13fd5d472ed] The court or guardian must take into account the views of any persons of whom the court or guardian (as appropriate) is aware with a relevant interest in relation to the missing person's property or financial affairs, where it is reasonably practicable and appropriate to do so.
 
-(4)[^key-055b4c08fe8f6ec459d3f13fd5d472ed] The court or guardian must consider the consequences of taking a proposed action.
+(4)[^c-055b4c08fe8f6ec459d3f13fd5d472ed] The court or guardian must consider the consequences of taking a proposed action.
 
-(5)[^key-055b4c08fe8f6ec459d3f13fd5d472ed] Nothing in this Act requires the court or a guardian—
+(5)[^c-055b4c08fe8f6ec459d3f13fd5d472ed] Nothing in this Act requires the court or a guardian—
 
 - (a) to decide a matter by reference to the decision the missing person is likely to have taken in relation to the matter, or
 - (b) to consider any question as to whether or when the missing person might cease to be missing.
@@ -445,7 +445,7 @@ the transaction between them is, in favour of that person, as valid as if the gu
 
 ## Applications, intervention and codes of practice
 
-### 19. Requirement for applicants to have sufficient interest[^key-fdccb6ddafb19a3a80288e68a920a552]
+### 19. Requirement for applicants to have sufficient interest[^c-fdccb6ddafb19a3a80288e68a920a552]
 
 (1) The court must refuse to hear an application under a provision listed in subsection (2) if it considers that the applicant does not have a sufficient interest in relation to the missing person's property or financial affairs.
 
@@ -465,7 +465,7 @@ the transaction between them is, in favour of that person, as valid as if the gu
 - (c) in relation to an application under section 2, a person who was the guardian in respect of some or all of the missing person's property and financial affairs at any time during the period of one year ending with the day on which the application is made;
 - (d) in relation to an application under section 10, 12 or 13, the guardian.
 
-### 20. Giving notice of applications[^key-c86bf73b23e70dc2f907b25146743080]
+### 20. Giving notice of applications[^c-c86bf73b23e70dc2f907b25146743080]
 
 (1) Where an application under a provision listed in subsection (2) is made—
 
@@ -490,7 +490,7 @@ the transaction between them is, in favour of that person, as valid as if the gu
 - (a) an application is made under a provision of this Act which is not listed in subsection (2), or
 - (b) the court proposes to exercise a power under this Act without an application being made.
 
-### 21. Right to intervene[^key-c8b5211163dfdb0a01f03baaae06cceb]
+### 21. Right to intervene[^c-c8b5211163dfdb0a01f03baaae06cceb]
 
 (1) The missing person's spouse, civil partner, parent, child or sibling may intervene in—
 
@@ -504,7 +504,7 @@ the transaction between them is, in favour of that person, as valid as if the gu
 
 (4) References in this section to intervening in proceedings include arguing before the court any question which the court considers it necessary to have fully argued for the purposes of the proceedings.
 
-### 22. Codes of practice[^key-9e6a43ed62ec196c0f9487eb93d292f4]
+### 22. Codes of practice[^c-9e6a43ed62ec196c0f9487eb93d292f4]
 
 (1) The Lord Chancellor must prepare and issue one or more codes of practice—
 
@@ -543,7 +543,7 @@ is relevant to a question arising in the proceedings, the provision or failure m
 
 ## General
 
-### 23. The court[^key-1abbc15c305d10c30e31abf569b3662a]
+### 23. The court[^c-1abbc15c305d10c30e31abf569b3662a]
 
 (1) The Lord Chancellor must by regulations made by statutory instrument designate the High Court or the Court of Protection to have the functions of the court under this Act.
 
@@ -610,7 +610,7 @@ Section 16
 
 ### Powers of court when appointing two or more guardians
 
-**1.**[^key-5224a32386db6e2383529ba311fe621d] (1) This paragraph applies where, when making or varying a guardianship order, the court appoints two or more guardians in respect of some or all of a missing person's property and financial affairs, whether by appointing them at the same time or at different times.
+**1.**[^c-5224a32386db6e2383529ba311fe621d] (1) This paragraph applies where, when making or varying a guardianship order, the court appoints two or more guardians in respect of some or all of a missing person's property and financial affairs, whether by appointing them at the same time or at different times.
 
 (2) The court must—
 
@@ -629,13 +629,13 @@ Section 16
 
 ### Power of court to remove guardians
 
-**2.**[^key-ea16ccdabfe3862293a4ea4aad59eb86] (1) This paragraph applies where a guardianship order appoints two or more guardians.
+**2.**[^c-ea16ccdabfe3862293a4ea4aad59eb86] (1) This paragraph applies where a guardianship order appoints two or more guardians.
 
 (2) The court's powers under section 12 to vary the order include a power to remove one or more of the guardians without appointing a replacement (but not to remove all of the guardians without replacing any of them).
 
 ### Guardians appointed to act jointly
 
-**3.**[^key-1ff3d9a00a68785d2cc843750d604126] (1) This paragraph applies where a guardianship order appoints two or more guardians to act jointly in relation to property or financial affairs.
+**3.**[^c-1ff3d9a00a68785d2cc843750d604126] (1) This paragraph applies where a guardianship order appoints two or more guardians to act jointly in relation to property or financial affairs.
 
 (2) The guardians must act unanimously in relation to the property or financial affairs.
 
@@ -647,7 +647,7 @@ Section 16
 
 *Extent: E+W+S+N.I.*
 
-**4.**[^key-4692c1bb548bbc0d3d7c1ec645b5a9af] (1) This paragraph applies where—
+**4.**[^c-4692c1bb548bbc0d3d7c1ec645b5a9af] (1) This paragraph applies where—
 
 - (a) a guardianship order appoints two or more guardians, and
 - (b) one of the guardians dies.
@@ -661,7 +661,7 @@ Section 16
 
 ### Expiry of period of appointment of a guardian
 
-**5.**[^key-2fa09d1368fe9a1d82c74ea16f65f79c] (1) This paragraph applies where—
+**5.**[^c-2fa09d1368fe9a1d82c74ea16f65f79c] (1) This paragraph applies where—
 
 - (a) a guardianship order appoints two or more guardians, and
 - (b) a guardian's period of appointment expires.
@@ -672,64 +672,64 @@ Section 16
 
 ## Annotations
 
-[^key-a3aba2d349cd4e9afe547207d7d0c437]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/27/section/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-a3aba2d349cd4e9afe547207d7d0c437]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2017/27/section/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-fbfd3cc3bdc3f3a53d38bd06540dd5e9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/27/section/2) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-fbfd3cc3bdc3f3a53d38bd06540dd5e9]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2017/27/section/2) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-2ad4c8b8848f34c96e71a41715f43ef9]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/27/section/3) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-2ad4c8b8848f34c96e71a41715f43ef9]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2017/27/section/3) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-de09828e534e6da3b2626ae26940ab8d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/27/section/4) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-de09828e534e6da3b2626ae26940ab8d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2017/27/section/4) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-4a8986379393a9532f97b962f68d714b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/27/section/5) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-4a8986379393a9532f97b962f68d714b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2017/27/section/5) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-7190820a0ac0ad8b93bd52c18999f043]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/27/section/6) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-7190820a0ac0ad8b93bd52c18999f043]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/27/section/6) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-8039463c4ad35006f4964a08120887bd]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/27/section/7) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-8039463c4ad35006f4964a08120887bd]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2017/27/section/7) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-fdad1459611a8a39206369979ef3ff7b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/27/section/8) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-fdad1459611a8a39206369979ef3ff7b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/27/section/8) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-2ab9f9ca0586cff93ec9c8cea1fb2ab5]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/27/section/9) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-2ab9f9ca0586cff93ec9c8cea1fb2ab5]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/27/section/9) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-97fbf80dfe92f3d1955d19e5fc2ce9ef]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/27/section/10) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-97fbf80dfe92f3d1955d19e5fc2ce9ef]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2017/27/section/10) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-c49ec01cdf44e7482bf5eeb310f551d8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/27/section/11) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-c49ec01cdf44e7482bf5eeb310f551d8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/27/section/11) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-8e11ad1257ab983c3f49f249f992417b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/27/section/12) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-8e11ad1257ab983c3f49f249f992417b]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2017/27/section/12) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-6c3deb69de3db5753b9cbf43fc0dd63f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/27/section/13) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-6c3deb69de3db5753b9cbf43fc0dd63f]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/27/section/13) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-13112de774b04f77e2cc21543a2710e4]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/27/section/14) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-13112de774b04f77e2cc21543a2710e4]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2017/27/section/14) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-fed701f5f7e97867dd9684aaf974facc]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/27/section/15) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-fed701f5f7e97867dd9684aaf974facc]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/27/section/15) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
 [^c22730051]: Commencement: [S. 16(5)-(7)](https://www.legislation.gov.uk/ukpga/2017/27/section/16/5) in force at Royal Assent, see [s. 25(2)](https://www.legislation.gov.uk/ukpga/2017/27/section/25/2)
 
-[^key-e80aa00e313f6cea32b413b63727aac8]: Commencement: [S. 16(1)-(4)](https://www.legislation.gov.uk/ukpga/2017/27/section/16/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-e80aa00e313f6cea32b413b63727aac8]: Commencement: [S. 16(1)-(4)](https://www.legislation.gov.uk/ukpga/2017/27/section/16/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
 [^c22730061]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/27/section/17) in force for specified purposes at Royal Assent, see [s. 25(2)](https://www.legislation.gov.uk/ukpga/2017/27/section/25/2)
 
-[^key-6a5ac7ee3bd49599cc2fccb080907d46]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/27/section/17) in force at 31.7.2019 in so far as not already in force by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-6a5ac7ee3bd49599cc2fccb080907d46]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2017/27/section/17) in force at 31.7.2019 in so far as not already in force by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
 [^c22730071]: Commencement: [S. 18(6)-(8)](https://www.legislation.gov.uk/ukpga/2017/27/section/18/6) in force at Royal Assent, see [s. 25(2)](https://www.legislation.gov.uk/ukpga/2017/27/section/25/2)
 
-[^key-055b4c08fe8f6ec459d3f13fd5d472ed]: Commencement: [S. 18(1)-(5)](https://www.legislation.gov.uk/ukpga/2017/27/section/18/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-055b4c08fe8f6ec459d3f13fd5d472ed]: Commencement: [S. 18(1)-(5)](https://www.legislation.gov.uk/ukpga/2017/27/section/18/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-fdccb6ddafb19a3a80288e68a920a552]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/27/section/19) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-fdccb6ddafb19a3a80288e68a920a552]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2017/27/section/19) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-c86bf73b23e70dc2f907b25146743080]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/27/section/20) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-c86bf73b23e70dc2f907b25146743080]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/27/section/20) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-c8b5211163dfdb0a01f03baaae06cceb]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/27/section/21) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-c8b5211163dfdb0a01f03baaae06cceb]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2017/27/section/21) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-9e6a43ed62ec196c0f9487eb93d292f4]: Commencement: S. 22 in force at 19.6.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/1032/regulation/2/a)
+[^c-9e6a43ed62ec196c0f9487eb93d292f4]: Commencement: S. 22 in force at 19.6.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2019/1032/regulation/2/a)
 
-[^key-1abbc15c305d10c30e31abf569b3662a]: Commencement: S. 23 in force at 19.6.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1032/regulation/2/b)
+[^c-1abbc15c305d10c30e31abf569b3662a]: Commencement: S. 23 in force at 19.6.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2019/1032/regulation/2/b)
 
-[^key-5224a32386db6e2383529ba311fe621d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-5224a32386db6e2383529ba311fe621d]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/1) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-ea16ccdabfe3862293a4ea4aad59eb86]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/2) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-ea16ccdabfe3862293a4ea4aad59eb86]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/2) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-1ff3d9a00a68785d2cc843750d604126]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/3) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-1ff3d9a00a68785d2cc843750d604126]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/3) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-4692c1bb548bbc0d3d7c1ec645b5a9af]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/4) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-4692c1bb548bbc0d3d7c1ec645b5a9af]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/4) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
 
-[^key-2fa09d1368fe9a1d82c74ea16f65f79c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/5) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)
+[^c-2fa09d1368fe9a1d82c74ea16f65f79c]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2017/27/schedule/paragraph/5) in force at 31.7.2019 by [S.I. 2019/1032](https://www.legislation.gov.uk/uksi/2019/1032), [reg. 3](https://www.legislation.gov.uk/uksi/2019/1032/regulation/3)

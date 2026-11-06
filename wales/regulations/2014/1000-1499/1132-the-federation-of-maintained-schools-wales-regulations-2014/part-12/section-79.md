@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Procedure for a school to leave a non local authority federation[^key-c79cf362d6ca07f316b62e6587620e4f]
+## 79. Procedure for a school to leave a non local authority federation[^c-c79cf362d6ca07f316b62e6587620e4f]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c79cf362d6ca07f316b62e6587620e4f]: Commencement: Reg. 79 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-c79cf362d6ca07f316b62e6587620e4f]: Commencement: Reg. 79 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

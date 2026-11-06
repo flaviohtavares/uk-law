@@ -25,10 +25,10 @@ summary: ''
 - (a) beginning when the investment is made, and
 - (b) ending immediately before the qualifying date relating to the tax year.
 
-(2) No claim for CITR may be made in relation to a tax year if before the qualifying date relating to that year paragraphs (a) to (d) of section 364(1) (receipts of value in the 6[^key-2e7d108c2e8ceb54e019f935faa07e84] year period exceeding permitted limits) apply in relation to the investment or any part of it.
+(2) No claim for CITR may be made in relation to a tax year if before the qualifying date relating to that year paragraphs (a) to (d) of section 364(1) (receipts of value in the 6[^c-2e7d108c2e8ceb54e019f935faa07e84] year period exceeding permitted limits) apply in relation to the investment or any part of it.
 
 (3) For the purposes of this section the qualifying date relating to a tax year is the next anniversary of the investment date to occur after the end of that year.
 
 ## Annotations
 
-[^key-2e7d108c2e8ceb54e019f935faa07e84]: Textual amendment: Figure in s. 355(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 512](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/512) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2e7d108c2e8ceb54e019f935faa07e84]: Textual amendment: Figure in s. 355(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 512](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/512) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

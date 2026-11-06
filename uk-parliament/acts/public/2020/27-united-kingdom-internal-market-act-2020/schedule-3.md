@@ -22,9 +22,9 @@ summary: ''
 
 Section 32
 
-**1.**[^key-4c3ff0d1845a9ce3e417ce98e433dbf2] Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority) is amended as follows.
+**1.**[^c-4c3ff0d1845a9ce3e417ce98e433dbf2] Schedule 4 to the Enterprise and Regulatory Reform Act 2013 (the Competition and Markets Authority) is amended as follows.
 
-**2.**[^key-8149a388bfbcb9855a5546c67c5be56d] (1) Paragraph 1 is amended as follows.
+**2.**[^c-8149a388bfbcb9855a5546c67c5be56d] (1) Paragraph 1 is amended as follows.
 
 (2) In sub-paragraph (1)(b)—
 
@@ -57,7 +57,7 @@ Section 32
 > - (a) may make the appointment without the consent of the authority or authorities concerned, and
 > - (b) must, if the appointment is made, inform each authority which did not give consent of the reasons for the decision to proceed with the appointment.
 
-**3.**[^key-b3009eef9b315bd0e86f976ec539f077] (1) Paragraph 3 is amended as follows.
+**3.**[^c-b3009eef9b315bd0e86f976ec539f077] (1) Paragraph 3 is amended as follows.
 
 (2) After sub-paragraph (2), insert—
 
@@ -69,7 +69,7 @@ Section 32
 >
 > (5) Where at the beginning of a person's term of appointment to membership of the OIM panel the person has already begun (and continues) to hold office as a member of the CMA panel, the term of the person's appointment to membership of the OIM panel is to be treated for the purposes of sub-paragraph (2A) as beginning when the person's term of appointment to membership of the CMA panel began.
 
-**4.**[^key-2084681d2b976fa9c44d3384a815e0ab] (1) Paragraph 4 is amended as follows.
+**4.**[^c-2084681d2b976fa9c44d3384a815e0ab] (1) Paragraph 4 is amended as follows.
 
 (2) After sub-paragraph (1), insert—
 
@@ -77,7 +77,7 @@ Section 32
 
 (3) In sub-paragraph (2), for “sub-paragraph (1)” substitute “ sub-paragraphs (1) and (1A) ”.
 
-**5.**[^key-da0b4df25f98cbdc6ffedabf3b03d88d] (1) Paragraph 6 is amended as follows.
+**5.**[^c-da0b4df25f98cbdc6ffedabf3b03d88d] (1) Paragraph 6 is amended as follows.
 
 (2) In sub-paragraph (2), for “of either the CMA Board or the CMA panel (but not of both)” substitute “ of one, but not more than one, of the CMA Board, the CMA panel and the OIM panel, ”.
 
@@ -94,7 +94,7 @@ Section 32
 
 > (4) The OIM panel chair may at any time resign from membership of the CMA by giving written notice to this effect to the Secretary of State (and may not resign from the OIM panel, or any other office to which the person is appointed by virtue of paragraph 1(1)(b)(iv), except in accordance with this sub-paragraph).
 
-**6.**[^key-8e9fb859c80adf7fad8f05b627c40a2e] In paragraph 9(2)—
+**6.**[^c-8e9fb859c80adf7fad8f05b627c40a2e] In paragraph 9(2)—
 
 - (a) omit “or” at the end of paragraph (a);
 - (b) after paragraph (b) insert
@@ -103,9 +103,9 @@ Section 32
   >
   > - (c) a member of the OIM panel.
 
-**7.**[^key-1ee5edba4c313375c0b201dcfaac76af] In paragraph 10(2)(b), at the end insert “ or the OIM panel ”.
+**7.**[^c-1ee5edba4c313375c0b201dcfaac76af] In paragraph 10(2)(b), at the end insert “ or the OIM panel ”.
 
-**8.**[^key-cdc6fd87913489465f1f5e167d1c1bd2] After Part 3 insert—
+**8.**[^c-cdc6fd87913489465f1f5e167d1c1bd2] After Part 3 insert—
 
 > **PART 3A — The OIM panel**
 >
@@ -192,18 +192,18 @@ Section 32
 
 ## Annotations
 
-[^key-4c3ff0d1845a9ce3e417ce98e433dbf2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-4c3ff0d1845a9ce3e417ce98e433dbf2]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-8149a388bfbcb9855a5546c67c5be56d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-8149a388bfbcb9855a5546c67c5be56d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-b3009eef9b315bd0e86f976ec539f077]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-b3009eef9b315bd0e86f976ec539f077]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-2084681d2b976fa9c44d3384a815e0ab]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-2084681d2b976fa9c44d3384a815e0ab]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-da0b4df25f98cbdc6ffedabf3b03d88d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-da0b4df25f98cbdc6ffedabf3b03d88d]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/5) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-8e9fb859c80adf7fad8f05b627c40a2e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-8e9fb859c80adf7fad8f05b627c40a2e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-1ee5edba4c313375c0b201dcfaac76af]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-1ee5edba4c313375c0b201dcfaac76af]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
 
-[^key-cdc6fd87913489465f1f5e167d1c1bd2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)
+[^c-cdc6fd87913489465f1f5e167d1c1bd2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/27/schedule/3/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/r)

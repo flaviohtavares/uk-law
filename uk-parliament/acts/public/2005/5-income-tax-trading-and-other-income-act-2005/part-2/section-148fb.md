@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148FB. Cases where ss. 148A to 148F do not apply: lessor also lessee under non-long funding lease[^key-23cca12f3ea9c0aa2bb84734c97d841b][^c19154671]
+## 148FB. Cases where ss. 148A to 148F do not apply: lessor also lessee under non-long funding lease[^c-23cca12f3ea9c0aa2bb84734c97d841b][^c19154671]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23cca12f3ea9c0aa2bb84734c97d841b]: Textual amendment: S. 148FB inserted (with effect in accordance with Sch. 20 para. 10(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/10/3)
+[^c-23cca12f3ea9c0aa2bb84734c97d841b]: Textual amendment: S. 148FB inserted (with effect in accordance with Sch. 20 para. 10(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/10/3)
 
 [^c19154671]: Textual amendment: Pt. 2 Ch. 10A, (ss 148A-148J) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 81](https://www.legislation.gov.uk/ukpga/2006/25/section/81), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/13)

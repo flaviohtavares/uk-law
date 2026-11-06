@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132A. Effect of attaining qualifying age for state pension credit[^key-b008bc04bbd934a93776d73c09ca7ffb]
+## 132A. Effect of attaining qualifying age for state pension credit[^c-b008bc04bbd934a93776d73c09ca7ffb]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b008bc04bbd934a93776d73c09ca7ffb]: Textual amendment: S. 132A inserted (27.1.2003 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act (Northern Ireland) 2002 (c. 14)](https://www.legislation.gov.uk/nia/2002/14), [s. 21(2)](https://www.legislation.gov.uk/nia/2002/14/section/21/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2002/14/schedule/2/paragraph/3); [S.R. 2003/29](https://www.legislation.gov.uk/nisr/2003/29), [art. 2](https://www.legislation.gov.uk/nisr/2003/29/article/2); [S.R. 2003/373](https://www.legislation.gov.uk/nisr/2003/373), [art. 2](https://www.legislation.gov.uk/nisr/2003/373/article/2)
+[^c-b008bc04bbd934a93776d73c09ca7ffb]: Textual amendment: S. 132A inserted (27.1.2003 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act (Northern Ireland) 2002 (c. 14)](https://www.legislation.gov.uk/nia/2002/14), [s. 21(2)](https://www.legislation.gov.uk/nia/2002/14/section/21/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2002/14/schedule/2/paragraph/3); [S.R. 2003/29](https://www.legislation.gov.uk/nisr/2003/29), [art. 2](https://www.legislation.gov.uk/nisr/2003/29/article/2); [S.R. 2003/373](https://www.legislation.gov.uk/nisr/2003/373), [art. 2](https://www.legislation.gov.uk/nisr/2003/373/article/2)

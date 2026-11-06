@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Amendment of the 1991 Regulations[^key-70c45378d1a4c8a252bef63b0a7c04e2]
+## 32. Amendment of the 1991 Regulations[^c-70c45378d1a4c8a252bef63b0a7c04e2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The 1991 Regulations shall be amended in accordance with Schedule 9.
 
 ## Annotations
 
-[^key-70c45378d1a4c8a252bef63b0a7c04e2]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/1997/474/regulation/32) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-70c45378d1a4c8a252bef63b0a7c04e2]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/1997/474/regulation/32) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)

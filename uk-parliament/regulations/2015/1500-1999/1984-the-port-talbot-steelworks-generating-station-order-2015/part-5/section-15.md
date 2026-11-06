@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Time limit for exercise of authority to acquire rights compulsorily[^key-e88ae671fc3ed60fc464a56cc4f3193f]
+## 15. Time limit for exercise of authority to acquire rights compulsorily[^c-e88ae671fc3ed60fc464a56cc4f3193f]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ After 7th December 2020—
 
 ## Annotations
 
-[^key-e88ae671fc3ed60fc464a56cc4f3193f]: Commencement: Art. 15 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-e88ae671fc3ed60fc464a56cc4f3193f]: Commencement: Art. 15 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

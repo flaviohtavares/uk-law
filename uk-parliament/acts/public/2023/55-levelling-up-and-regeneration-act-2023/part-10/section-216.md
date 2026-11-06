@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Compensation[^key-04cfbb0ef6b45ff2e1ca430de3732f50][^key-e9c5c0db386db5401298c314e865324c]
+## 216. Compensation[^c-04cfbb0ef6b45ff2e1ca430de3732f50][^c-e9c5c0db386db5401298c314e865324c]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-04cfbb0ef6b45ff2e1ca430de3732f50]: Commencement: S. 216 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-04cfbb0ef6b45ff2e1ca430de3732f50]: Commencement: S. 216 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-e9c5c0db386db5401298c314e865324c]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2023/55/section/216) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/g)
+[^c-e9c5c0db386db5401298c314e865324c]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2023/55/section/216) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/g)

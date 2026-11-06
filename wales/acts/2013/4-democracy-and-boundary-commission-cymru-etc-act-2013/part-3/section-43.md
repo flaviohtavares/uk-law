@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Other than as provided for by this section, orders made under this section or section 37, 38 or 39 may not be varied or revoked by the Welsh Ministers, the Commission or, as the case may be, the principal council[^key-c9636c8cf771ffb39ef0616e54f4a637].
+(1) Other than as provided for by this section, orders made under this section or section 37, 38 or 39 may not be varied or revoked by the Welsh Ministers, the Commission or, as the case may be, the principal council[^c-c9636c8cf771ffb39ef0616e54f4a637].
 
 (2) The Welsh Ministers, the Commission or, as the case may be, a principal council may by order vary or revoke—
 
@@ -55,12 +55,12 @@ summary: ''
 
 (12) The Welsh Ministers, the Commission or, as the case may be, a principal council may not exercise the power in subsection (10) in relation to an order made by someone else.
 
-(12A)[^key-49c3bbe0f35d0cdebb7b352405f29c8d] The Welsh Ministers may by order vary or revoke an order under this section or section 37, 38 or 39 (regardless of whether they made the order) in consequence of regulations under paragraph 9 or 10 of Schedule 1 to the Local Government and Elections (Wales) Act 2021.
+(12A)[^c-49c3bbe0f35d0cdebb7b352405f29c8d] The Welsh Ministers may by order vary or revoke an order under this section or section 37, 38 or 39 (regardless of whether they made the order) in consequence of regulations under paragraph 9 or 10 of Schedule 1 to the Local Government and Elections (Wales) Act 2021.
 
 (13) In this section, “**public body**” has the same meaning as it has in section 40(6).
 
 ## Annotations
 
-[^key-c9636c8cf771ffb39ef0616e54f4a637]: Textual amendment: Words in s. 43(1) inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/5/2)
+[^c-c9636c8cf771ffb39ef0616e54f4a637]: Textual amendment: Words in s. 43(1) inserted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/5/2)
 
-[^key-49c3bbe0f35d0cdebb7b352405f29c8d]: Textual amendment: S. 43(12A) inserted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/14)
+[^c-49c3bbe0f35d0cdebb7b352405f29c8d]: Textual amendment: S. 43(12A) inserted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/f)[(2)](https://www.legislation.gov.uk/asc/2021/1/section/175/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/asc/2021/1/schedule/1/paragraph/14)

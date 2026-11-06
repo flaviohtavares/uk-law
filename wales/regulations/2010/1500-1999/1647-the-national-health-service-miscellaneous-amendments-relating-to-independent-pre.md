@@ -45,17 +45,17 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 47, 80, 83, 86, 121 and 203(9) and (10) of the National Health Service (Wales) Act 2006[^f00001] make the following Regulations:
 
-## 1. Title, commencement and application[^key-1b59efc439fd475ba2652b607afe6e72]
+## 1. Title, commencement and application[^c-1b59efc439fd475ba2652b607afe6e72]
 
 (1) The title of these Regulations is the National Health Service (Miscellaneous Amendments Relating to Independent Prescribing) (Wales) Regulations 2010 and they come into force on 19 July 2010.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Amendment of the National Health Service (Pharmaceutical Services) Regulations 1992[^key-080ac58a0affdeb845ade096c9400ce7]
+## 2. Amendment of the National Health Service (Pharmaceutical Services) Regulations 1992[^c-080ac58a0affdeb845ade096c9400ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^key-bd17b8dd5e8a89aa416cc7e3c5cdf17b]
+## 3. Amendment of the National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^c-bd17b8dd5e8a89aa416cc7e3c5cdf17b]
 
 (1) The National Health Service (General Medical Services Contracts) (Wales) Regulations 2004[^f00007] are amended in accordance with the following provisions of this regulation.
 
@@ -92,7 +92,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 47, 80, 83,
 
 (5) In paragraph 49(4) of Schedule 6 omit the words from “whose name is registered” to “as a supplementary prescriber” in both places where they appear.
 
-## 4. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007[^key-b8159d0d2711984431b66b02b87f30d7]
+## 4. Amendment of the National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007[^c-b8159d0d2711984431b66b02b87f30d7]
 
 (1) The National Health Service (Free Prescriptions and Charges for Drugs and Appliances) (Wales) Regulations 2007[^f00008] are amended in accordance with the following provisions of this regulation.
 
@@ -139,7 +139,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 47, 80, 83,
 
 .
 
-## 5. Saving[^key-1191a2fc4439e7d99bcea721396e75df]
+## 5. Saving[^c-1191a2fc4439e7d99bcea721396e75df]
 
 Any person who was qualified to practice in Wales as a nurse independent prescriber before the coming into force of these Regulations continues to be qualified to do so notwithstanding the substitution of the definition of nurse independent prescriber in –
 
@@ -172,18 +172,18 @@ These Regulations make amendments to the following Regulations:
 
 [^f00001]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-1b59efc439fd475ba2652b607afe6e72]: Commencement: Reg. 1 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
+[^c-1b59efc439fd475ba2652b607afe6e72]: Commencement: Reg. 1 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
 
-[^key-080ac58a0affdeb845ade096c9400ce7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2010/1647/regulation/2) revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (revoked) 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/898/regulation/1/2), [Sch. 8 para. 23](https://www.legislation.gov.uk/wsi/2013/898/schedule/8/paragraph/23)
+[^c-080ac58a0affdeb845ade096c9400ce7]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2010/1647/regulation/2) revoked (10.5.2013) by [The National Health Service (Pharmaceutical Services) (Wales) Regulations 2013 (revoked) 2013 (S.I. 2013/898)](https://www.legislation.gov.uk/wsi/2013/898), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/898/regulation/1/2), [Sch. 8 para. 23](https://www.legislation.gov.uk/wsi/2013/898/schedule/8/paragraph/23)
 
-[^key-bd17b8dd5e8a89aa416cc7e3c5cdf17b]: Commencement: Reg. 3 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
+[^c-bd17b8dd5e8a89aa416cc7e3c5cdf17b]: Commencement: Reg. 3 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2004/478 (W.48)](https://www.legislation.gov.uk/wsi/2004/478). Relevant amending instruments are [S.I. 2006/358 (W. 46)](https://www.legislation.gov.uk/wsi/2006/358) , [S.I. 2007/205 (W.19)](https://www.legislation.gov.uk/wsi/2007/205) and [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289).
 
-[^key-b8159d0d2711984431b66b02b87f30d7]: Commencement: Reg. 4 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
+[^c-b8159d0d2711984431b66b02b87f30d7]: Commencement: Reg. 4 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2007/121 (W.11)](https://www.legislation.gov.uk/wsi/2007/121).
 
 [^f00009]: Footnote: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830).
 
-[^key-1191a2fc4439e7d99bcea721396e75df]: Commencement: Reg. 5 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)
+[^c-1191a2fc4439e7d99bcea721396e75df]: Commencement: Reg. 5 in force at 19.7.2010, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2010/1647/regulation/1/1)

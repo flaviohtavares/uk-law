@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. UNCITRAL Model Law to have force of law[^key-5cb7965d8d2bb08a37c48b222d9f3fa4]
+## 3. UNCITRAL Model Law to have force of law[^c-5cb7965d8d2bb08a37c48b222d9f3fa4]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5cb7965d8d2bb08a37c48b222d9f3fa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/115/regulation/3) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-5cb7965d8d2bb08a37c48b222d9f3fa4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/115/regulation/3) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
 
 [^f00003]: Footnote: A United Nations Publication, ISBN 92-1-133608-2.

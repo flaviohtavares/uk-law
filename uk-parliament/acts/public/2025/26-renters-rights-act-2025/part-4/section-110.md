@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Duty to report[^key-2b6146e06a8678ff16b9b67a7ab8b456]
+## 110. Duty to report[^c-2b6146e06a8678ff16b9b67a7ab8b456]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6146e06a8678ff16b9b67a7ab8b456]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/26/section/110) in force at 27.12.2025, see [s. 145(5)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/c)
+[^c-2b6146e06a8678ff16b9b67a7ab8b456]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2025/26/section/110) in force at 27.12.2025, see [s. 145(5)(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/c)

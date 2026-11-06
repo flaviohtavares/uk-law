@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Travel to schools etc: meaning of “eligible child”[^key-f2ed0e51ba40c6842d3ea8eaf853bbcf][^key-066e0954297b33626d048904008f7e25]
+## SCHEDULE 8 — Travel to schools etc: meaning of “eligible child”[^c-f2ed0e51ba40c6842d3ea8eaf853bbcf][^c-066e0954297b33626d048904008f7e25]
 
 *Extent: E+W*
 
 Section 77
 
-[^key-f2ed0e51ba40c6842d3ea8eaf853bbcf][^key-066e0954297b33626d048904008f7e25]
+[^c-f2ed0e51ba40c6842d3ea8eaf853bbcf][^c-066e0954297b33626d048904008f7e25]
 
 After Schedule 35A to EA 1996 insert—
 
@@ -179,6 +179,6 @@ After Schedule 35A to EA 1996 insert—
 
 ## Annotations
 
-[^key-f2ed0e51ba40c6842d3ea8eaf853bbcf]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/8) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(k)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/k)
+[^c-f2ed0e51ba40c6842d3ea8eaf853bbcf]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/8) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(k)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/k)
 
-[^key-066e0954297b33626d048904008f7e25]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/8) in force at 1.9.2008 in so far as not already in force by [S.I. 2008/1971](https://www.legislation.gov.uk/uksi/2008/1971), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1971/article/2/b)
+[^c-066e0954297b33626d048904008f7e25]: Commencement: [Sch. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/8) in force at 1.9.2008 in so far as not already in force by [S.I. 2008/1971](https://www.legislation.gov.uk/uksi/2008/1971), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/1971/article/2/b)

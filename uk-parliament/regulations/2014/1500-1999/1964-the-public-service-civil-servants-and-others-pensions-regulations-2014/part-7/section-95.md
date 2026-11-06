@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Reduction in pension debit member’s benefits[^key-c419709a979c2b4f39b3f83e3dc58b66]
+## 95. Reduction in pension debit member’s benefits[^c-c419709a979c2b4f39b3f83e3dc58b66]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The benefits to which a pension debit member is entitled under this Part are sub
 
 ## Annotations
 
-[^key-c419709a979c2b4f39b3f83e3dc58b66]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2014/1964/regulation/95) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c419709a979c2b4f39b3f83e3dc58b66]: Commencement: [Reg. 95](https://www.legislation.gov.uk/uksi/2014/1964/regulation/95) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

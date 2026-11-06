@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Inspections of mines on behalf of workmen employed thereat.[^key-de3d1c135768466c0a738f858532ee42]
+## 105. Inspections of mines on behalf of workmen employed thereat.[^c-de3d1c135768466c0a738f858532ee42]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de3d1c135768466c0a738f858532ee42]: Textual amendment: [S. 105](https://www.legislation.gov.uk/apni/1969/6/section/105) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-de3d1c135768466c0a738f858532ee42]: Textual amendment: [S. 105](https://www.legislation.gov.uk/apni/1969/6/section/105) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

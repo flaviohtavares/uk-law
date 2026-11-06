@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. General universal service conditions[^key-0cea94fa71c810996c5f054abe9c232b]
+## 42. General universal service conditions[^c-0cea94fa71c810996c5f054abe9c232b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cea94fa71c810996c5f054abe9c232b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2011/5/section/42) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-0cea94fa71c810996c5f054abe9c232b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2011/5/section/42) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7.[^key-d5a9b53f1f4c82c756c6d5db1b3c15b5]
+## 7.[^c-d5a9b53f1f4c82c756c6d5db1b3c15b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ Insert a new regulation 10A—
 >
 > (1) No person may place on the market a ceramic article that does not comply with the requirements of regulation 10(4) as read with regulation 10(5).
 >
-> (2) At the marketing stages up to and including the retail stage, ceramic articles which are not yet in contact with foodstuffs must be accompanied by a written declaration in accordance with Article 16 of Regulation 1935/2004. That declaration is to be issued by the manufacturer or by a seller in Great Britain[^key-e47f0ab4bd75114cbd1a95c8e3cb304c] and must contain the information laid down in Schedule 4.
+> (2) At the marketing stages up to and including the retail stage, ceramic articles which are not yet in contact with foodstuffs must be accompanied by a written declaration in accordance with Article 16 of Regulation 1935/2004. That declaration is to be issued by the manufacturer or by a seller in Great Britain[^c-e47f0ab4bd75114cbd1a95c8e3cb304c] and must contain the information laid down in Schedule 4.
 >
 > (3) Appropriate documentation to demonstrate that the ceramic articles comply with the migration limits for lead and cadmium set out in regulation 10 must be made available by the manufacturer or the importer to the competent authorities on request. That documentation must contain the results of the analysis carried out, the test conditions and the name and the address of the laboratory that performed the testing.
 >
@@ -38,6 +38,6 @@ Insert a new regulation 10A—
 
 ## Annotations
 
-[^key-d5a9b53f1f4c82c756c6d5db1b3c15b5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d5a9b53f1f4c82c756c6d5db1b3c15b5]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e47f0ab4bd75114cbd1a95c8e3cb304c]: Textual amendment: Words in reg. 7 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/2)
+[^c-e47f0ab4bd75114cbd1a95c8e3cb304c]: Textual amendment: Words in reg. 7 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/2)

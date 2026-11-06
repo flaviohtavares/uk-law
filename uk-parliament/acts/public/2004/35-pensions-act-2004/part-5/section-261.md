@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Further provisions about regulations relating to consultation[^key-17ca5e41eda6861efab864bdf8c4f9b1][^key-5a8ead0fd1f26493b3888ce776c89274]
+## 261. Further provisions about regulations relating to consultation[^c-17ca5e41eda6861efab864bdf8c4f9b1][^c-5a8ead0fd1f26493b3888ce776c89274]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17ca5e41eda6861efab864bdf8c4f9b1]: Commencement: [S. 261](https://www.legislation.gov.uk/ukpga/2004/35/section/261) in force at 1.1.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
+[^c-17ca5e41eda6861efab864bdf8c4f9b1]: Commencement: [S. 261](https://www.legislation.gov.uk/ukpga/2004/35/section/261) in force at 1.1.2006 for specified purposes and 6.4.2006 in so far as not already in force by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(5)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/5)
 
-[^key-5a8ead0fd1f26493b3888ce776c89274]: Modification: [S. 261](https://www.legislation.gov.uk/ukpga/2004/35/section/261) modified (2.2.2006) by [The Occupational Pension Schemes (Consultation by Employers) (Modification for Multi-employer Schemes) Regulations 2006 (S.I. 2006/16)](https://www.legislation.gov.uk/uksi/2006/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/16/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/16/regulation/2)
+[^c-5a8ead0fd1f26493b3888ce776c89274]: Modification: [S. 261](https://www.legislation.gov.uk/ukpga/2004/35/section/261) modified (2.2.2006) by [The Occupational Pension Schemes (Consultation by Employers) (Modification for Multi-employer Schemes) Regulations 2006 (S.I. 2006/16)](https://www.legislation.gov.uk/uksi/2006/16), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/16/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2006/16/regulation/2)

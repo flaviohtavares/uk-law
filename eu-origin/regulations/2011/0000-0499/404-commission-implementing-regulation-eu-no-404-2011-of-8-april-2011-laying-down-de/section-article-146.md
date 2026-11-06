@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 146. Access by the Commission[^key-a1efe448a412a22a91b661ee3b8694c7]
+## Article 146. Access by the Commission[^c-a1efe448a412a22a91b661ee3b8694c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1efe448a412a22a91b661ee3b8694c7]: Textual amendment: [Arts. 143-146a](https://www.legislation.gov.uk/eur/2011/404/article/143) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(97)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1efe448a412a22a91b661ee3b8694c7]: Textual amendment: [Arts. 143-146a](https://www.legislation.gov.uk/eur/2011/404/article/143) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(97)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

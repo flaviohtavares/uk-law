@@ -51,10 +51,10 @@ A scheme made under this section is called an “authority-to-carry scheme”.
 
 (9) So far as it applies in relation to Northern Ireland, an authority-to-carry scheme may be made only for purposes that are, or relate to, excepted or reserved matters (within the meaning of the Northern Ireland Act 1998).
 
-(10)[^key-4656313deb74180f92b52f79d28e41fa] In the Nationality, Immigration and Asylum Act 2002 omit section 124 (authority to carry).
+(10)[^c-4656313deb74180f92b52f79d28e41fa] In the Nationality, Immigration and Asylum Act 2002 omit section 124 (authority to carry).
 
 ## Annotations
 
 [^c22388821]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2015/6/section/22) partly in force at Royal Assent; [s. 22(1)-(9)](https://www.legislation.gov.uk/ukpga/2015/6/section/22/1) in force at Royal Assent, see [s. 52(3)(b)(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/b/5)
 
-[^key-4656313deb74180f92b52f79d28e41fa]: Commencement: [S. 22(10)](https://www.legislation.gov.uk/ukpga/2015/6/section/22/10) in force at 31.3.2015 by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 2](https://www.legislation.gov.uk/uksi/2015/956/regulation/2)
+[^c-4656313deb74180f92b52f79d28e41fa]: Commencement: [S. 22(10)](https://www.legislation.gov.uk/ukpga/2015/6/section/22/10) in force at 31.3.2015 by [S.I. 2015/956](https://www.legislation.gov.uk/uksi/2015/956), [reg. 2](https://www.legislation.gov.uk/uksi/2015/956/regulation/2)

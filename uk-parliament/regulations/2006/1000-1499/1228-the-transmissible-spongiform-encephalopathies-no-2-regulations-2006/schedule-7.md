@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 7 — Restrictions on dispatch to other member States and to third countries[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+## SCHEDULE 7 — Restrictions on dispatch to other member States and to third countries[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 *Extent: E+W+S+NI*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 5
 
-### 1. Restrictions on dispatch to other member States and to third countries[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 1. Restrictions on dispatch to other member States and to third countries[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Exports to third countries[^key-e0faddaa55fe6f8ffc46128ef987d71c]
+### 2. Exports to third countries[^c-e0faddaa55fe6f8ffc46128ef987d71c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e0faddaa55fe6f8ffc46128ef987d71c]: Textual amendment: Regulations revoked (7.8.2008) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2008 (S.I. 2008/1881)](https://www.legislation.gov.uk/uksi/2008/1881), regs. 1(c), [21(a)](https://www.legislation.gov.uk/uksi/2008/1881/regulation/21/a)
+[^c-e0faddaa55fe6f8ffc46128ef987d71c]: Textual amendment: Regulations revoked (7.8.2008) by [The Transmissible Spongiform Encephalopathies (England) Regulations 2008 (S.I. 2008/1881)](https://www.legislation.gov.uk/uksi/2008/1881), regs. 1(c), [21(a)](https://www.legislation.gov.uk/uksi/2008/1881/regulation/21/a)

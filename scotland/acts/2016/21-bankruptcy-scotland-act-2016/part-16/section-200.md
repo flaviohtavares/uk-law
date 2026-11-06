@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 200. Supervisory functions of Accountant in Bankruptcy[^key-980256de98eb9de85a456088852365f9]
+## 200. Supervisory functions of Accountant in Bankruptcy[^c-980256de98eb9de85a456088852365f9]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-980256de98eb9de85a456088852365f9]: Commencement: [S. 200](https://www.legislation.gov.uk/asp/2016/21/section/200) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-980256de98eb9de85a456088852365f9]: Commencement: [S. 200](https://www.legislation.gov.uk/asp/2016/21/section/200) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 408. Transitional provision for anticipatory carrying out of functions[^key-b444bcf68fe3a68cf422bf2a6861fde5][^key-42bb8698b0762ad424ca3a3cdc1695a5]
+## 408. Transitional provision for anticipatory carrying out of functions[^c-b444bcf68fe3a68cf422bf2a6861fde5][^c-42bb8698b0762ad424ca3a3cdc1695a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,8 +70,8 @@ is to have effect as if had been done by or in relation to OFCOM.
 
 ## Annotations
 
-[^key-b444bcf68fe3a68cf422bf2a6861fde5]: Commencement: S. 408 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-b444bcf68fe3a68cf422bf2a6861fde5]: Commencement: S. 408 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-42bb8698b0762ad424ca3a3cdc1695a5]: Commencement: S. 408 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-42bb8698b0762ad424ca3a3cdc1695a5]: Commencement: S. 408 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c19918211]: Subordinate legislation: S. 408(1)(4) power partly exercised: 25.7.2003 and 18.9.2003 appointed for specified provisions and purposes by {[S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900)}, art. 2

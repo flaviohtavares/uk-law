@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Security[^key-b5b039189a38117ede42e50007244b9d]
+## 23. Security[^c-b5b039189a38117ede42e50007244b9d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.031 of the 1991 Rules.
 
 ## Annotations
 
-[^key-b5b039189a38117ede42e50007244b9d]: Commencement: Rule 23 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-b5b039189a38117ede42e50007244b9d]: Commencement: Rule 23 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

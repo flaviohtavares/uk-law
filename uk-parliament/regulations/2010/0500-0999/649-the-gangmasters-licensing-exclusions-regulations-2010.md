@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Gangmasters Licensing (Exclusions) Regulations 2010 (revoked)[^key-7b17f8499d51cc3509ee583d3d8bab80]
+The Gangmasters Licensing (Exclusions) Regulations 2010 (revoked)[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 Made
 
@@ -46,86 +46,86 @@ Coming into force
 
 6th April 2010
 
-[^key-7b17f8499d51cc3509ee583d3d8bab80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b17f8499d51cc3509ee583d3d8bab80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7b17f8499d51cc3509ee583d3d8bab80]
+## 1. Citation, commencement and extent[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Circumstances in which a licence is not required[^key-7b17f8499d51cc3509ee583d3d8bab80]
+## 2. Circumstances in which a licence is not required[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-7b17f8499d51cc3509ee583d3d8bab80]
+## 3. Revocation[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b17f8499d51cc3509ee583d3d8bab80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b17f8499d51cc3509ee583d3d8bab80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CIRCUMSTANCES IN WHICH A LICENCE IS NOT REQUIRED[^key-7b17f8499d51cc3509ee583d3d8bab80]
+## SCHEDULE — CIRCUMSTANCES IN WHICH A LICENCE IS NOT REQUIRED[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 Regulation 2
 
-### PART 1[^key-7b17f8499d51cc3509ee583d3d8bab80]
+### PART 1[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
-#### 1. Produce workers[^key-7b17f8499d51cc3509ee583d3d8bab80]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**2.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 2[^key-7b17f8499d51cc3509ee583d3d8bab80]
-
-#### 4. Agricultural workers[^key-7b17f8499d51cc3509ee583d3d8bab80]
+#### 1. Produce workers[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 2[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
-**8.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**10.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**11.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**12.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**14.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**16.**[^key-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 3[^key-7b17f8499d51cc3509ee583d3d8bab80]
-
-#### 17. Shellfish gatherers[^key-7b17f8499d51cc3509ee583d3d8bab80]
+#### 4. Agricultural workers[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4[^key-7b17f8499d51cc3509ee583d3d8bab80]
+**5.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Bodies corporate[^key-7b17f8499d51cc3509ee583d3d8bab80]
+**6.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**14.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**15.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-7b17f8499d51cc3509ee583d3d8bab80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3[^c-7b17f8499d51cc3509ee583d3d8bab80]
+
+#### 17. Shellfish gatherers[^c-7b17f8499d51cc3509ee583d3d8bab80]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 4[^c-7b17f8499d51cc3509ee583d3d8bab80]
+
+#### 18. Bodies corporate[^c-7b17f8499d51cc3509ee583d3d8bab80]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b17f8499d51cc3509ee583d3d8bab80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b17f8499d51cc3509ee583d3d8bab80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b17f8499d51cc3509ee583d3d8bab80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/649) revoked (1.10.2013) by [The Gangmasters Licensing (Exclusions) Regulations 2013 (S.I. 2013/2216)](https://www.legislation.gov.uk/uksi/2013/2216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2216/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2216/regulation/3)
+[^c-7b17f8499d51cc3509ee583d3d8bab80]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/649) revoked (1.10.2013) by [The Gangmasters Licensing (Exclusions) Regulations 2013 (S.I. 2013/2216)](https://www.legislation.gov.uk/uksi/2013/2216), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2216/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2216/regulation/3)

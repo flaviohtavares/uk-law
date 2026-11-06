@@ -45,7 +45,7 @@ Section 19.
 - sections[^c2545881] [^c19355491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .296 and 611 of the [^c2545891] Housing Act 1985;
 - section 39(6)(b) of the [^c2545901]Opencast Coal Act 1958;
 - section 11 of the [^c2545911]Land Compensation Act 1961;
-- section 3(4) of the Flood Prevention (Scotland) Act 1961; *(Extent: S)* *(affected by repeal, see note)*[^key-834c4044df0009a378f3e2358d5f19c1]
+- section 3(4) of the Flood Prevention (Scotland) Act 1961; *(Extent: S)* *(affected by repeal, see note)*[^c-834c4044df0009a378f3e2358d5f19c1]
 - the [^c2545931]Pipe-lines Act 1962;
 - section 18 of the [^c2545941]Land Compensation (Scotland) Act 1963;
 - Schedule 3 and (pending the coming into force of its repeal by the [^c2545951]Transport Act 1981) Schedule 5 to the [^c2545961]Harbours Act 1964;
@@ -117,7 +117,7 @@ Section 19.
 
 [^c2545911]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-834c4044df0009a378f3e2358d5f19c1]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1982/16/schedule/2/paragraph/4) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/3) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
+[^c-834c4044df0009a378f3e2358d5f19c1]: Textual amendment: Words in [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1982/16/schedule/2/paragraph/4) repealed (S.) (24.12.2010) by [Flood Risk Management (Scotland) Act 2009 (asp 6)](https://www.legislation.gov.uk/asp/2009/6), [s. 97(1)](https://www.legislation.gov.uk/asp/2009/6/section/97/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2009/6/schedule/3/paragraph/3) (with [s. 91](https://www.legislation.gov.uk/asp/2009/6/section/91)); [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(h)](https://www.legislation.gov.uk/ssi/2010/401/article/3/h)
 
 [^c2545931]: Marginal citation: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).
 

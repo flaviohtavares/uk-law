@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Seizure orders where disqualification breached: Scotland[^key-e0166d5cf4d7ea33a3003988b60bab9d]
+## 48. Seizure orders where disqualification breached: Scotland[^c-e0166d5cf4d7ea33a3003988b60bab9d]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0166d5cf4d7ea33a3003988b60bab9d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/45/section/48) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)
+[^c-e0166d5cf4d7ea33a3003988b60bab9d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2006/45/section/48) in force at 12.12.2007 by [S.S.I. 2007/519](https://www.legislation.gov.uk/ssi/2007/519), [art. 2](https://www.legislation.gov.uk/ssi/2007/519/article/2)

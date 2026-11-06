@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. Amendment of Subpart FCL of Annex 6 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-f1550c8f8ad379bffca38dfc335aa5b5]
+## 322. Amendment of Subpart FCL of Annex 6 to [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-f1550c8f8ad379bffca38dfc335aa5b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) In point ARA.FCL.200—
 
 - (a) omit point (a);
-- (b) in points (b) to (e)[^key-bb037ea6e50fa8ebca4e5f98ba4c3920], in each place the words occur, for “competent authority” substitute “CAA”.
+- (b) in points (b) to (e)[^c-bb037ea6e50fa8ebca4e5f98ba4c3920], in each place the words occur, for “competent authority” substitute “CAA”.
 
 (4) In point ARA.FCL.205—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1550c8f8ad379bffca38dfc335aa5b5]: Commencement: Reg. 322 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f1550c8f8ad379bffca38dfc335aa5b5]: Commencement: Reg. 322 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bb037ea6e50fa8ebca4e5f98ba4c3920]: Textual amendment: Words in reg. 322(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [38](https://www.legislation.gov.uk/uksi/2020/1116/regulation/38)
+[^c-bb037ea6e50fa8ebca4e5f98ba4c3920]: Textual amendment: Words in reg. 322(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Aviation Safety (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1116)](https://www.legislation.gov.uk/uksi/2020/1116), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1116/regulation/1/3), [38](https://www.legislation.gov.uk/uksi/2020/1116/regulation/38)

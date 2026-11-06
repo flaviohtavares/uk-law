@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Benefit Fraud Inspectorate: transfers to the Audit Commission[^key-deb5436fe93ad75b090fe5cf14bae43e]
+## 148. Benefit Fraud Inspectorate: transfers to the Audit Commission[^c-deb5436fe93ad75b090fe5cf14bae43e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-deb5436fe93ad75b090fe5cf14bae43e]: Textual amendment: S. 148 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 81](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/81) (with [Sch. 12 para. 85](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/85)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-deb5436fe93ad75b090fe5cf14bae43e]: Textual amendment: S. 148 omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 81](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/81) (with [Sch. 12 para. 85](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/85)); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

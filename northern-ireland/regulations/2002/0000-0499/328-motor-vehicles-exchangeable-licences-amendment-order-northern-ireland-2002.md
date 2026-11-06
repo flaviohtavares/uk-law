@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2002 (revoked)[^key-285cd37e2725ae31a0067a3042e91bf8]
+Motor Vehicles (Exchangeable Licences) (Amendment) Order (Northern Ireland) 2002 (revoked)[^c-285cd37e2725ae31a0067a3042e91bf8]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 9th December 2002
 
-[^key-285cd37e2725ae31a0067a3042e91bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-285cd37e2725ae31a0067a3042e91bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-285cd37e2725ae31a0067a3042e91bf8]
+## 1. Citation and commencement[^c-285cd37e2725ae31a0067a3042e91bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation of the designation of Kenya[^key-285cd37e2725ae31a0067a3042e91bf8]
+## 2. Revocation of the designation of Kenya[^c-285cd37e2725ae31a0067a3042e91bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 1994[^key-285cd37e2725ae31a0067a3042e91bf8]
+## 3. Amendment of the Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 1994[^c-285cd37e2725ae31a0067a3042e91bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-285cd37e2725ae31a0067a3042e91bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-285cd37e2725ae31a0067a3042e91bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-285cd37e2725ae31a0067a3042e91bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-285cd37e2725ae31a0067a3042e91bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-285cd37e2725ae31a0067a3042e91bf8]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/328) revoked (12.10.2009) by [The Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 2009 (S.R. 2009/302)](https://www.legislation.gov.uk/nisr/2009/302), [arts. 1](https://www.legislation.gov.uk/nisr/2009/302/article/1), [5](https://www.legislation.gov.uk/nisr/2009/302/article/5)
+[^c-285cd37e2725ae31a0067a3042e91bf8]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/328) revoked (12.10.2009) by [The Motor Vehicles (Exchangeable Licences) Order (Northern Ireland) 2009 (S.R. 2009/302)](https://www.legislation.gov.uk/nisr/2009/302), [arts. 1](https://www.legislation.gov.uk/nisr/2009/302/article/1), [5](https://www.legislation.gov.uk/nisr/2009/302/article/5)

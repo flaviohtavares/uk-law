@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-No UK[^key-06563cfa5aa0814d045d1502c72e5127] plant passport or other permitted plant passport[^key-b87645c58bd4590a8b76eef2f64292f0] shall be required for the movements of plants, plant products and other objects within and between the premises of the same registered operator which are in close proximity to each other.
+No UK[^c-06563cfa5aa0814d045d1502c72e5127] plant passport or other permitted plant passport[^c-b87645c58bd4590a8b76eef2f64292f0] shall be required for the movements of plants, plant products and other objects within and between the premises of the same registered operator which are in close proximity to each other.
 
-[^key-e49f7096b93bc91c655cf250d47d5e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e49f7096b93bc91c655cf250d47d5e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e49f7096b93bc91c655cf250d47d5e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e49f7096b93bc91c655cf250d47d5e64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06563cfa5aa0814d045d1502c72e5127]: Textual amendment: Word in Art. 82 inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(16)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/16/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-06563cfa5aa0814d045d1502c72e5127]: Textual amendment: Word in Art. 82 inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(16)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/16/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-b87645c58bd4590a8b76eef2f64292f0]: Textual amendment: Words in Art. 82 inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/14)
+[^c-b87645c58bd4590a8b76eef2f64292f0]: Textual amendment: Words in Art. 82 inserted (27.1.2021) by [The Plant Health (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/79)](https://www.legislation.gov.uk/uksi/2021/79), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/79/regulation/1/2), [3(14)](https://www.legislation.gov.uk/uksi/2021/79/regulation/3/14)
 
-[^key-e49f7096b93bc91c655cf250d47d5e64]: Textual amendment: Words in Art. 82 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(16)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/16/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-e49f7096b93bc91c655cf250d47d5e64]: Textual amendment: Words in Art. 82 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(16)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/16/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

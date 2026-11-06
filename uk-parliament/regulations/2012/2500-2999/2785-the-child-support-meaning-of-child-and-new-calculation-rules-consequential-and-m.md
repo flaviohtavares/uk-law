@@ -64,7 +64,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 (6) In these Regulations—
 
 - “**2008 Act**” means the Child Maintenance and Other Payments Act 2008.
-- “arrears of child support maintenance” means any payment of child support maintenance—[^key-1d6ea0ce90a2db02bc2df549d523fe6c]
+- “arrears of child support maintenance” means any payment of child support maintenance—[^c-1d6ea0ce90a2db02bc2df549d523fe6c]
   - (a) which has become due in relation to a maintenance assessment, or a maintenance calculation made under 2003 scheme rules, and not paid; and
   - (b) in respect of which the Secretary of State is arranging collection under section 29 of the 1991 Act;
 - “**arrears-only case**” means a case in which—
@@ -354,7 +354,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) in paragraph (1)(d), for “regulation 23” to “Procedure Regulations” substitute “ regulation 25 of the Maintenance Calculation Regulations (notification of a maintenance calculation) ”; and
 - (b) in paragraph (2)(c), for “regulation 34” to “Regulations 1999” substitute “ paragraph 4 of the Schedule to the Maintenance Calculation Regulations ”.
 
-### 9. Amendment of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^key-02192efcba3fcde44a25e868fc91ee8f]
+### 9. Amendment of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008[^c-02192efcba3fcde44a25e868fc91ee8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -388,14 +388,14 @@ The following Regulations are revoked—
 
 - (a) the order continues to take effect for the purposes of any deductions which are required to be made under the order until it is discharged or lapses;
 - (b) the Collection and Enforcement Regulations, as they were in force before the amendments made by regulation 4(3) to (6) came into force, continue to apply in relation to the order until it is discharged or lapses; and
-- (c) the order is to be treated as discharged, if it has not otherwise lapsed or been discharged, on the date that the first deduction from earnings order made under the Collection and Enforcement Regulations as amended by regulation 4(3) to (6) takes effect. *(affected by repeal, see note)*[^key-0e489d847c7025c407683571a7a92fd4]
+- (c) the order is to be treated as discharged, if it has not otherwise lapsed or been discharged, on the date that the first deduction from earnings order made under the Collection and Enforcement Regulations as amended by regulation 4(3) to (6) takes effect. *(affected by repeal, see note)*[^c-0e489d847c7025c407683571a7a92fd4]
 
   the order is to be treated as discharged, if it has not otherwise lapsed or been discharged, either—
 
   - (i) in a case where there are old scheme arrears, on the date on which the old scheme arrears have been transferred to the computer system on which cases where child support maintenance calculated under the new scheme rules are administered by the Secretary of State, or
   - (ii) in a case where there are no old scheme arrears, on the date on which the first deduction from earnings order made under the Collection and Enforcement Regulations as amended by regulation 4(3) to (6) takes effect.
 
-(3)[^key-8d4df5861722f102b8ab0e5b771712d5] In this regulation—
+(3)[^c-8d4df5861722f102b8ab0e5b771712d5] In this regulation—
 
 - “calculated under the new scheme rules” means calculated in accordance with Part 1 of Schedule 1 to the Child Support Act 1991 as amended by paragraph 2 of Schedule 4 to the 2008 Act;
 - “old scheme arrears” means the amount of child support maintenance calculated other that in accordance with the new scheme rules which is overdue and which remains outstanding.
@@ -440,7 +440,7 @@ A full impact assessment of the effect that the Child Support Maintenance Calcul
 
 [^c2144151]: Marginal citation: [2008 c. 6](https://www.legislation.gov.uk/ukpga/2008/6).
 
-[^key-1d6ea0ce90a2db02bc2df549d523fe6c]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/6) substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2013/1517/regulation/9)
+[^c-1d6ea0ce90a2db02bc2df549d523fe6c]: Textual amendment: Words in [reg. 1(6)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/1/6) substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2013/1517/regulation/9)
 
 [^c2144152]: Marginal citation: [S.I. 1992/1989](https://www.legislation.gov.uk/uksi/1992/1989).
 
@@ -478,7 +478,7 @@ A full impact assessment of the effect that the Child Support Maintenance Calcul
 
 [^c2144169]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-02192efcba3fcde44a25e868fc91ee8f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2785/regulation/9) revoked (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2013/1517/regulation/10)
+[^c-02192efcba3fcde44a25e868fc91ee8f]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/2785/regulation/9) revoked (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/1517)](https://www.legislation.gov.uk/uksi/2013/1517), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1517/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2013/1517/regulation/10)
 
 [^c2144172]: Marginal citation: [S.I. 1992/1813](https://www.legislation.gov.uk/uksi/1992/1813).
 
@@ -494,6 +494,6 @@ A full impact assessment of the effect that the Child Support Maintenance Calcul
 
 [^c2144178]: Marginal citation: [S.I. 2001/157](https://www.legislation.gov.uk/uksi/2001/157).
 
-[^key-0e489d847c7025c407683571a7a92fd4]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12/2/c) substituted (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/4/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))
+[^c-0e489d847c7025c407683571a7a92fd4]: Textual amendment: [Reg. 12(2)(c)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12/2/c) substituted (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/4/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))
 
-[^key-8d4df5861722f102b8ab0e5b771712d5]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12/3) inserted (temp. until 22.5.2021) (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/982/regulation/4/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))
+[^c-8d4df5861722f102b8ab0e5b771712d5]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/2785/regulation/12/3) inserted (temp. until 22.5.2021) (7.11.2016) by [The Child Support (Deduction from Earnings Orders Amendment and Modification and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/982)](https://www.legislation.gov.uk/uksi/2016/982), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/982/regulation/4/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/982/regulation/1/2))

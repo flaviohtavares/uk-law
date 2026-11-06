@@ -34,7 +34,7 @@ In this Schedule—
 - “**default value method**” means the calculation method provided for in Part 3;
 - “**post-2013 dedicated biomass station**” means a generating station which—
   - (a) was not accredited on or before 31st March 2013, and
-  - (b) has, in any month after March 2013, generated electricity in the way described as “dedicated biomass” (including “dedicated biomass with[^key-4df7975b931f044ccb26fccf8452bba7] CHP”) in Schedule 5;
+  - (b) has, in any month after March 2013, generated electricity in the way described as “dedicated biomass” (including “dedicated biomass with[^c-4df7975b931f044ccb26fccf8452bba7] CHP”) in Schedule 5;
 - “**relevant biomass**” means biomass other than animal excreta, bioliquid, landfill gas, sewage gas or waste;
 - “**relevant ceiling**” means—
   - (a) in relation to biomass used by a post-2013 dedicated biomass station to generate electricity before 1st April 2020, 79.2 grams per megajoule of electricity,
@@ -170,4 +170,4 @@ For the purposes of paragraph 2, and subject to paragraph 4, the greenhouse gas 
 
 ## Annotations
 
-[^key-4df7975b931f044ccb26fccf8452bba7]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/1947/schedule/2/paragraph/1) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/896/article/5/2)
+[^c-4df7975b931f044ccb26fccf8452bba7]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2015/1947/schedule/2/paragraph/1) inserted (20.7.2018) by [The Renewables Obligation (Amendment) Order 2018 (S.I. 2018/896)](https://www.legislation.gov.uk/uksi/2018/896), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/896/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2018/896/article/5/2)

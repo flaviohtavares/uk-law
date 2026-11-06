@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44B. Deemed earnings factors: 2010-11 onwards[^key-d1c2ac95b07bbff08069f5acd975c171]
+## 44B. Deemed earnings factors: 2010-11 onwards[^c-d1c2ac95b07bbff08069f5acd975c171]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of section 44(6)(za) above, if any of Conditions A to C in subsections (3) to (5) below is satisfied for a relevant year to which this section applies, a pensioner is deemed to have an earnings factor for that year which—
 
-- (a) is derived from so much of his earnings as did not exceed the upper accrual point[^key-2549ed19731369b07ea40525a49ab5f4] and on which primary Class 1 contributions were paid; and
+- (a) is derived from so much of his earnings as did not exceed the upper accrual point[^c-2549ed19731369b07ea40525a49ab5f4] and on which primary Class 1 contributions were paid; and
 - (b) is equal to the amount which, when added to any other earnings factors taken into account under that provision, produces an aggregate of earnings factors equal to the low earnings threshold.
 
 (3) Condition A is that the pensioner would, apart from this section, have an earnings factor for the year—
@@ -46,14 +46,14 @@ summary: ''
 
 (7) In this section—
 
-- (a)[^key-a8174c7622e58c8b2a7502320c37ee2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a8174c7622e58c8b2a7502320c37ee2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**the low earnings threshold**” means the low earnings threshold for the year concerned as specified in section 44A above; and
 - (c) in subsections (3) and (4), any reference to the pensioner's earnings factor for a relevant year is to be construed in accordance with section 44(6)(za) above.
 
 ## Annotations
 
-[^key-d1c2ac95b07bbff08069f5acd975c171]: Textual amendment: Ss. 44B, 44C inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/9/1), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
+[^c-d1c2ac95b07bbff08069f5acd975c171]: Textual amendment: Ss. 44B, 44C inserted (26.9.2007) by [Pensions Act 2007 (c. 22)](https://www.legislation.gov.uk/ukpga/2007/22), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2007/22/section/9/1), [30(3)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/3)
 
-[^key-2549ed19731369b07ea40525a49ab5f4]: Textual amendment: Words in s. 44B(2)(a) substituted (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2008/16/schedule/1/paragraph/5)
+[^c-2549ed19731369b07ea40525a49ab5f4]: Textual amendment: Words in s. 44B(2)(a) substituted (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2008/16/schedule/1/paragraph/5)
 
-[^key-a8174c7622e58c8b2a7502320c37ee2c]: Textual amendment: S. 44B(7)(a) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)
+[^c-a8174c7622e58c8b2a7502320c37ee2c]: Textual amendment: S. 44B(7)(a) repealed (21.9.2008) by [National Insurance Contributions Act 2008 (c. 16)](https://www.legislation.gov.uk/ukpga/2008/16), [s. 6(1)](https://www.legislation.gov.uk/ukpga/2008/16/section/6/1), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/16/schedule/2)

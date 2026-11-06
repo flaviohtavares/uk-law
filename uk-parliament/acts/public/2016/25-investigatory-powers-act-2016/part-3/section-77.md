@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Commissioner approval for authorisations to identify or confirm journalistic sources[^key-0ea1c836fc043b3d2b277db28dae9583]
+## 77. Commissioner approval for authorisations to identify or confirm journalistic sources[^c-0ea1c836fc043b3d2b277db28dae9583]
 
 *Extent: E+W+S+N.I.*
 
 (1) Subsection (2) applies if—
 
-- (a) a designated senior officer has granted an authorisation under section 61 or 61A[^key-0e69165e1e3a758075120664f5cc44b4] in relation to the obtaining by a relevant public authority of communications data for the purpose of identifying or confirming a source of journalistic information, and
+- (a) a designated senior officer has granted an authorisation under section 61 or 61A[^c-0e69165e1e3a758075120664f5cc44b4] in relation to the obtaining by a relevant public authority of communications data for the purpose of identifying or confirming a source of journalistic information, and
 - (b) the authorisation is not necessary because of an imminent threat to life.
 
-(1A)[^key-9e27cfc5c37186d36a384e5aca88dd62] Subsection (2) also applies if—
+(1A)[^c-9e27cfc5c37186d36a384e5aca88dd62] Subsection (2) also applies if—
 
 - (a) a person to whom functions under section 60A have been delegated under section 238(5) has granted an authorisation under that section in relation to the obtaining by a relevant public authority of communications data for the purpose of identifying or confirming a source of journalistic information, and
 - (b) the authorisation is not necessary because of an imminent threat to life.
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0ea1c836fc043b3d2b277db28dae9583]: Commencement: S. 77 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
+[^c-0ea1c836fc043b3d2b277db28dae9583]: Commencement: S. 77 in force at 5.2.2019 by [S.I. 2019/174](https://www.legislation.gov.uk/uksi/2019/174), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2019/174/regulation/2/d)
 
-[^key-0e69165e1e3a758075120664f5cc44b4]: Textual amendment: Words in s. 77(1)(a) inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/17/2) (see S.I. 2019/174, reg. 2(c))
+[^c-0e69165e1e3a758075120664f5cc44b4]: Textual amendment: Words in s. 77(1)(a) inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/17/2) (see S.I. 2019/174, reg. 2(c))
 
-[^key-9e27cfc5c37186d36a384e5aca88dd62]: Textual amendment: S. 77(1A) inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/17/3) (see S.I. 2019/174, reg. 2(c))
+[^c-9e27cfc5c37186d36a384e5aca88dd62]: Textual amendment: S. 77(1A) inserted (5.2.2019) by [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/17/3) (see S.I. 2019/174, reg. 2(c))

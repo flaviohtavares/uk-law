@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-2acf8b5b2fa8a6b834a8b3a05ed1194d]
+## SCHEDULE 6 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-2acf8b5b2fa8a6b834a8b3a05ed1194d]
 
 *Extent: E+W*
 
 Article 33
 
-[^key-2acf8b5b2fa8a6b834a8b3a05ed1194d]
+[^c-2acf8b5b2fa8a6b834a8b3a05ed1194d]
 
 In the City of Wolverhampton—
 
@@ -44,4 +44,4 @@ In the City of Wolverhampton—
 
 ## Annotations
 
-[^key-2acf8b5b2fa8a6b834a8b3a05ed1194d]: Commencement: Sch. 6 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-2acf8b5b2fa8a6b834a8b3a05ed1194d]: Commencement: Sch. 6 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

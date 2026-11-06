@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9B. Exception for conservation varieties[^key-a26084f52481efb83fc374b6437e573d]
+## 9B. Exception for conservation varieties[^c-a26084f52481efb83fc374b6437e573d]
 
 *Extent: S*
 
@@ -47,7 +47,7 @@ of the area to be used to produce that seed.
 
 (8) For the purposes of Article 14 of Commission Directive 2008/62, the Scottish Ministers may specify the maximum amount of seed of a Conservation Variety which may be marketed in any given growing season. Different maxima for different persons or classes of person may be specified.
 
-(8A)[^key-4cc9a559d857f837086755118c300998] For the purposes of paragraph (8), Article 14 of Commission Directive 2008/62 is to be read as if—
+(8A)[^c-4cc9a559d857f837086755118c300998] For the purposes of paragraph (8), Article 14 of Commission Directive 2008/62 is to be read as if—
 
 - (a) in the first paragraph—
   - (i) “Each Member State shall ensure that,” was omitted,
@@ -63,8 +63,8 @@ of the area to be used to produce that seed.
 
 (11) In this regulation–
 
-- “additional region” means the region for seed production approved by the Scottish Ministers for the purposes of the second paragraph of Article 11(1) of the Commission Directive 2008/ 62 , with Article 11(1) of Commission Directive 2008/62 being read as if for the reference to[^key-2f36ee414743560998e22146cd0e0123] “ Member States ” in each place where it occurs and “the Member States” there were substituted “ the Scottish Ministers ”; and
-- “region of origin” means the region forming a part or the whole of Great Britain identified by the Scottish Ministers for the purposes of Article 8.1 of Commission Directive 2008/62, with Article 8.1 of Commission Directive 2008/62 being read as if—[^key-338e925a5a2287e0c137dcd705b1fd98]
+- “additional region” means the region for seed production approved by the Scottish Ministers for the purposes of the second paragraph of Article 11(1) of the Commission Directive 2008/ 62 , with Article 11(1) of Commission Directive 2008/62 being read as if for the reference to[^c-2f36ee414743560998e22146cd0e0123] “ Member States ” in each place where it occurs and “the Member States” there were substituted “ the Scottish Ministers ”; and
+- “region of origin” means the region forming a part or the whole of Great Britain identified by the Scottish Ministers for the purposes of Article 8.1 of Commission Directive 2008/62, with Article 8.1 of Commission Directive 2008/62 being read as if—[^c-338e925a5a2287e0c137dcd705b1fd98]
   - (a) in the first sub-paragraph—
     - (i) for “a Member State accepts”, there were substituted “the Scottish Ministers accept”;
     - (ii) for “it shall”, there were substituted “they must”;
@@ -74,10 +74,10 @@ of the area to be used to produce that seed.
 
 ## Annotations
 
-[^key-a26084f52481efb83fc374b6437e573d]: Textual amendment: [Reg. 9B](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B) inserted (30.6.2009) by [The Seed (Scotland) (Amendments for Conservation Varieties) Regulations 2009 (S.S.I. 2009/223)](https://www.legislation.gov.uk/ssi/2009/223), [regs. 1](https://www.legislation.gov.uk/ssi/2009/223/regulation/1), [25](https://www.legislation.gov.uk/ssi/2009/223/regulation/25)
+[^c-a26084f52481efb83fc374b6437e573d]: Textual amendment: [Reg. 9B](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B) inserted (30.6.2009) by [The Seed (Scotland) (Amendments for Conservation Varieties) Regulations 2009 (S.S.I. 2009/223)](https://www.legislation.gov.uk/ssi/2009/223), [regs. 1](https://www.legislation.gov.uk/ssi/2009/223/regulation/1), [25](https://www.legislation.gov.uk/ssi/2009/223/regulation/25)
 
-[^key-4cc9a559d857f837086755118c300998]: Textual amendment: [Reg. 9B(8A)](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B/8A) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [14(11)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/11/a) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cc9a559d857f837086755118c300998]: Textual amendment: [Reg. 9B(8A)](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B/8A) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [14(11)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/11/a) (as amended by [S.S.I. 2020/445](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f36ee414743560998e22146cd0e0123]: Textual amendment: Words in [reg. 9B(11)](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B/11) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [14(11)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f36ee414743560998e22146cd0e0123]: Textual amendment: Words in [reg. 9B(11)](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B/11) inserted (31.12.2020) by [The Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/59)](https://www.legislation.gov.uk/ssi/2019/59), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/b), [14(11)(b)(i)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/11/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-338e925a5a2287e0c137dcd705b1fd98]: Textual amendment: Words in [reg. 9B(11)](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B/11) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 14(11)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/11/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-338e925a5a2287e0c137dcd705b1fd98]: Textual amendment: Words in [reg. 9B(11)](https://www.legislation.gov.uk/ssi/2005/329/regulation/9B/11) substituted (31.12.2020) by [S.S.I. 2019/59](https://www.legislation.gov.uk/ssi/2019/59), [reg. 14(11)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/59/regulation/14/11/b/ii) (as substituted by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

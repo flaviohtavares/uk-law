@@ -43,17 +43,17 @@ Coming into force in accordance with section 1(1)
 
 The Welsh Ministers, in exercise of the powers in sections 29, 408, 537, 537A(1) and (2) and 569(4) and (5) of the Education Act 199[^f00001]), and in sections 30(1) and (2) and 210 of the Education Act 2002[^f00002] and now vested in them[^f00003] and after consulting with those persons with whom consultation appeared to the Welsh Ministers to be desirable pursuant to section 408(5) of the Education Act 1996 make the following Regulations:
 
-## 1. Title, commencement and application[^key-ecccc396f8f426c60494291f92bde42f]
+## 1. Title, commencement and application[^c-ecccc396f8f426c60494291f92bde42f]
 
 (1) The title of these Regulations is the National Curriculum (Amendments relating to Educational Programmes for the Foundation Phase and Programmes of Study for the Second and Third Key Stages) (Wales) Regulations 2013 and they come into force on 1 May 2013 except for regulation 3(5) which comes into force on 1 September 2013.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. School Governors' Annual Reports (Wales) Regulations 2011[^key-10e8d0895b390b6ede9e6395e6d76a65]
+## 2. School Governors' Annual Reports (Wales) Regulations 2011[^c-10e8d0895b390b6ede9e6395e6d76a65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^key-7bb964ab17677e45d7252266f163c04d][^key-703fea12a3b25060a7aab33b533b6277]
+## 3. Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^c-7bb964ab17677e45d7252266f163c04d][^c-703fea12a3b25060a7aab33b533b6277]
 
 (1) The Head Teacher’s Report to Parents and Adult Pupils (Wales) Regulations 2011[^f00005] is amended as follows.
 
@@ -81,7 +81,7 @@ The Welsh Ministers, in exercise of the powers in sections 29, 408, 537, 537A(1)
 
 .
 
-## 4. School Information (Wales) Regulations 2011[^key-3d8fcb23e32a13d58dc9ca4e7a8b1550]
+## 4. School Information (Wales) Regulations 2011[^c-3d8fcb23e32a13d58dc9ca4e7a8b1550]
 
 (1) The School Information (Wales) Regulations 2011[^f00006] are amended as follows.
 
@@ -106,7 +106,7 @@ The Welsh Ministers, in exercise of the powers in sections 29, 408, 537, 537A(1)
 
 .
 
-## 5. School Performance Information (Wales) Regulations 2011[^key-8e9caa2ec23e847c0bc4bd607c68b1cb]
+## 5. School Performance Information (Wales) Regulations 2011[^c-8e9caa2ec23e847c0bc4bd607c68b1cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -138,18 +138,18 @@ Regulation 5 amends the School Performance Information (Wales) Regulations 2011 
 
 [^f00003]: Footnote: The functions of the Secretary of State in the sections in the Education Act 1996 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) and then to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act 2006. The functions of the National Assembly for Wales in the sections in the Education Act 2002 were transferred to the Welsh Ministers under paragraph 30 of Schedule 11 to the Government of Wales Act 2006.
 
-[^key-ecccc396f8f426c60494291f92bde42f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/437/regulation/1) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+[^c-ecccc396f8f426c60494291f92bde42f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2013/437/regulation/1) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
 
-[^key-10e8d0895b390b6ede9e6395e6d76a65]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/437/regulation/2) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [12(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/12/2)
+[^c-10e8d0895b390b6ede9e6395e6d76a65]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/wsi/2013/437/regulation/2) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [12(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/12/2)
 
-[^key-7bb964ab17677e45d7252266f163c04d]: Commencement: Reg. 3(1)-(4) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+[^c-7bb964ab17677e45d7252266f163c04d]: Commencement: Reg. 3(1)-(4) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
 
-[^key-703fea12a3b25060a7aab33b533b6277]: Commencement: Reg. 3(5) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+[^c-703fea12a3b25060a7aab33b533b6277]: Commencement: Reg. 3(5) in force at 1.9.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
 
 [^f00005]: Footnote: S.I. [2011/1943 (W.210)](https://www.legislation.gov.uk/wsi/2011/1943).
 
-[^key-3d8fcb23e32a13d58dc9ca4e7a8b1550]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/437/regulation/4) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
+[^c-3d8fcb23e32a13d58dc9ca4e7a8b1550]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2013/437/regulation/4) in force at 1.5.2013, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2013/437/regulation/1/1)
 
 [^f00006]: Footnote: S.I. [2011/1944 (W.211)](https://www.legislation.gov.uk/wsi/2011/1944).
 
-[^key-8e9caa2ec23e847c0bc4bd607c68b1cb]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/437/regulation/5) omitted (1.9.2022) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2022/758/regulation/18)
+[^c-8e9caa2ec23e847c0bc4bd607c68b1cb]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2013/437/regulation/5) omitted (1.9.2022) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [18](https://www.legislation.gov.uk/wsi/2022/758/regulation/18)

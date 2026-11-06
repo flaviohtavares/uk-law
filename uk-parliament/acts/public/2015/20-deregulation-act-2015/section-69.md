@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Personal licences: no requirement to renew[^key-165b64d7bf926c3530c65d369b2ae573]
+## 69. Personal licences: no requirement to renew[^c-165b64d7bf926c3530c65d369b2ae573]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-165b64d7bf926c3530c65d369b2ae573]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2015/20/section/69) in force at 1.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-165b64d7bf926c3530c65d369b2ae573]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2015/20/section/69) in force at 1.4.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)

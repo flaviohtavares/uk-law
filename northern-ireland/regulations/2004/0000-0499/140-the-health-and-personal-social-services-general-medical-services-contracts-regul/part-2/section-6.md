@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Reasons[^key-26e7300987241ddc51c9e1b0fda9a660]
+## 6. Reasons[^c-26e7300987241ddc51c9e1b0fda9a660]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26e7300987241ddc51c9e1b0fda9a660]: Commencement: Reg. 6 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-26e7300987241ddc51c9e1b0fda9a660]: Commencement: Reg. 6 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)

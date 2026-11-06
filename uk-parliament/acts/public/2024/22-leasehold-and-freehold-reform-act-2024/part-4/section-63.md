@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Right of tenants to claim litigation costs from landlords[^key-ce266de26974b6511e035fa1654c366d]
+## 63. Right of tenants to claim litigation costs from landlords[^c-ce266de26974b6511e035fa1654c366d]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ After section 30I of the LTA 1985 insert—
 
 ## Annotations
 
-[^key-ce266de26974b6511e035fa1654c366d]: Commencement: S. 63 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-ce266de26974b6511e035fa1654c366d]: Commencement: S. 63 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

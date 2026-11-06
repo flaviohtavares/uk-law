@@ -32,7 +32,7 @@ summary: ''
 
 Legal Services Commission, England And Wales
 
-The Community Legal Service (Funding) (Amendment No. 2) Order 2010 (revoked)[^key-1f37ec92d60513de0ede14e6f64437e8]
+The Community Legal Service (Funding) (Amendment No. 2) Order 2010 (revoked)[^c-1f37ec92d60513de0ede14e6f64437e8]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 14th October 2010
 
-[^key-1f37ec92d60513de0ede14e6f64437e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f37ec92d60513de0ede14e6f64437e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-1f37ec92d60513de0ede14e6f64437e8]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendments to the 2007 Order[^key-1f37ec92d60513de0ede14e6f64437e8]
+## 1. Citation, commencement and interpretation[^c-1f37ec92d60513de0ede14e6f64437e8]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 2. Amendments to the 2007 Order[^c-1f37ec92d60513de0ede14e6f64437e8]
 
-**4.**[^key-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Not yet in force.**
 
-**5.**[^key-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation of the Community Legal Service (Funding) (Counsel in Family Proceedings) Order 2001[^key-1f37ec92d60513de0ede14e6f64437e8]
+**5.**[^c-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**6.**[^c-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**7.**[^c-1f37ec92d60513de0ede14e6f64437e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Revocation of the Community Legal Service (Funding) (Counsel in Family Proceedings) Order 2001[^c-1f37ec92d60513de0ede14e6f64437e8]
 
 **Not yet in force.**
 
@@ -78,17 +78,17 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f37ec92d60513de0ede14e6f64437e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f37ec92d60513de0ede14e6f64437e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## SCHEDULE 1[^key-1f37ec92d60513de0ede14e6f64437e8]
+## SCHEDULE 1[^c-1f37ec92d60513de0ede14e6f64437e8]
 
 Article 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-1f37ec92d60513de0ede14e6f64437e8]
+## SCHEDULE 2[^c-1f37ec92d60513de0ede14e6f64437e8]
 
 Article 6
 
@@ -96,8 +96,8 @@ Article 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f37ec92d60513de0ede14e6f64437e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f37ec92d60513de0ede14e6f64437e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f37ec92d60513de0ede14e6f64437e8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1109) revoked (13.10.2010) by [The Community Legal Service (Funding) (Amendment No. 2) Order 2010 (Revocation) Order 2010 (S.I. 2010/2478)](https://www.legislation.gov.uk/uksi/2010/2478), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2478/article/1), [2](https://www.legislation.gov.uk/uksi/2010/2478/article/2)
+[^c-1f37ec92d60513de0ede14e6f64437e8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2010/1109) revoked (13.10.2010) by [The Community Legal Service (Funding) (Amendment No. 2) Order 2010 (Revocation) Order 2010 (S.I. 2010/2478)](https://www.legislation.gov.uk/uksi/2010/2478), [arts. 1](https://www.legislation.gov.uk/uksi/2010/2478/article/1), [2](https://www.legislation.gov.uk/uksi/2010/2478/article/2)

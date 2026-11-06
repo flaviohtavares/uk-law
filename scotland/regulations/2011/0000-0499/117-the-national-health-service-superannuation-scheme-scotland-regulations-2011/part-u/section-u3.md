@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## U3. Accounts and actuarial reports[^key-05afcd06876a3e3a8f0351e79a1a07d6]
+## U3. Accounts and actuarial reports[^c-05afcd06876a3e3a8f0351e79a1a07d6]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05afcd06876a3e3a8f0351e79a1a07d6]: Textual amendment: Reg. U3 substituted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2014/154/regulation/13)
+[^c-05afcd06876a3e3a8f0351e79a1a07d6]: Textual amendment: Reg. U3 substituted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2014/154/regulation/13)

@@ -37,7 +37,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6671371]
 
-### 2. Reliefs for shipbuilders in respect of certain duties.[^key-1fa37970e5f744944c39ea4d7853b893]
+### 2. Reliefs for shipbuilders in respect of certain duties.[^c-1fa37970e5f744944c39ea4d7853b893]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,7 +92,7 @@ and as from that date bookmakers’ licence duty shall cease to be charged.
 
 ### 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6672081]
 
-### 27. Amendments of Corporation Tax Acts.[^key-96dc7229f32ed54f090d15f18fd2b841]
+### 27. Amendments of Corporation Tax Acts.[^c-96dc7229f32ed54f090d15f18fd2b841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -124,7 +124,7 @@ and as from that date bookmakers’ licence duty shall cease to be charged.
 
 ## Part VII — Miscellaneous
 
-### 45. Harbour reorganisation schemes: corporation tax and stamp duty.[^key-7daf743d739ff6689d34435430e0e7ec]
+### 45. Harbour reorganisation schemes: corporation tax and stamp duty.[^c-7daf743d739ff6689d34435430e0e7ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -200,13 +200,13 @@ Section 2.
 
 **6.** (1) Any dispute as to the determination for the purposes of an application under the said section 2 of the price or value referred to in subsection (3) of that section, or of any amount by which that price or value is to be treated as reduced by virtue of subsection (4) thereof, shall be referred to a referee appointed in accordance with the next following sub-paragraph.
 
-(2) A reference under the foregoing sub-paragraph shall be to a person (not being an official of any government department) appointed by the Lord Chancellor with the concurrence of the Lord Chief Justice of England and Wales[^key-74d8afe5a62e6018261ae2ea1ccd922b] or, if the application for the purposes of which the determination is made relates to a vessel or structure constructed in Scotland or Northern Ireland, or was by a company incorporated in Scotland or Northern Ireland, and the applicant in either case so requires, appointed by the Lord President of the Court of Session or as the case may be, by the Lord Chancellor with the concurrence of[^key-aefa2259633d5ded710b9480ea3e8851] the Lord Chief Justice of Northern Ireland.
+(2) A reference under the foregoing sub-paragraph shall be to a person (not being an official of any government department) appointed by the Lord Chancellor with the concurrence of the Lord Chief Justice of England and Wales[^c-74d8afe5a62e6018261ae2ea1ccd922b] or, if the application for the purposes of which the determination is made relates to a vessel or structure constructed in Scotland or Northern Ireland, or was by a company incorporated in Scotland or Northern Ireland, and the applicant in either case so requires, appointed by the Lord President of the Court of Session or as the case may be, by the Lord Chancellor with the concurrence of[^c-aefa2259633d5ded710b9480ea3e8851] the Lord Chief Justice of Northern Ireland.
 
 (3) The procedure on any such reference shall be such as the referee may determine.
 
 (4) Sub-paragraph (1) above shall not have effect, and any price, value or amount falling to be determined for the purposes of the said subsection (3) or (4) shall be that fixed by the Commissioners, unless, within three months from the time when the Commissioners’ final determination thereof is communicated to him, or such longer time as the Commissioners may allow, a notice requiring a reference under that sub-paragraph has been served on the Commissioners by the person for the purposes of whose application the determination was made.
 
-(5)[^key-e6c7d2597c788465bdef12af4607e732] The Lord Chief Justice of England and Wales may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this paragraph.
+(5)[^c-e6c7d2597c788465bdef12af4607e732] The Lord Chief Justice of England and Wales may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this paragraph.
 
 (6) The Lord Chief Justice of Northern Ireland may nominate any of the following to exercise his functions under sub-paragraph (2)—
 
@@ -225,7 +225,7 @@ Section 15.
 
 **1—5.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6672471]
 
-**6.**[^key-c8da1d27e4fd52a421da009612ee8423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c8da1d27e4fd52a421da009612ee8423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7—26.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6672491]
 
@@ -243,29 +243,29 @@ Section 27
 
 **20.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c6672551]
 
-## SCHEDULE 6 — Administration of Corporation Tax Acts[^key-09495bb2a832ebc992abdbb68f399c34]
+## SCHEDULE 6 — Administration of Corporation Tax Acts[^c-09495bb2a832ebc992abdbb68f399c34]
 
 Section 27.
 
 **May not be in force at this date. Check the source.**
 
-**1—13.**[^key-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1—13.**[^c-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Priority of corporation tax and other tax in liquidation[^key-09495bb2a832ebc992abdbb68f399c34]
-
-**No longer in force.**
-
-**14.**[^key-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**15—22.**[^key-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Transitional relief for existing companies with overseas trading income[^key-09495bb2a832ebc992abdbb68f399c34]
+### Priority of corporation tax and other tax in liquidation[^c-09495bb2a832ebc992abdbb68f399c34]
 
 **No longer in force.**
 
-**23.**[^key-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24—27.**[^key-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15—22.**[^c-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Transitional relief for existing companies with overseas trading income[^c-09495bb2a832ebc992abdbb68f399c34]
+
+**No longer in force.**
+
+**23.**[^c-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**24—27.**[^c-09495bb2a832ebc992abdbb68f399c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 7.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6672711]
 
@@ -301,7 +301,7 @@ Section 53.
 
 [^c6671371]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/1966/18/section/1) repealed (with saving) by [S.I. 1977/910](https://www.legislation.gov.uk/uksi/1977/910)
 
-[^key-1fa37970e5f744944c39ea4d7853b893]: Textual amendment: S. 2 repealed (with effect in accordance with s. 323 of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/5)
+[^c-1fa37970e5f744944c39ea4d7853b893]: Textual amendment: S. 2 repealed (with effect in accordance with s. 323 of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/5)
 
 [^c6671911]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1966/18/section/3) repealed (with saving) by [Finance Act 1977 (c. 36)](https://www.legislation.gov.uk/ukpga/1977/36), [s. 59(5)](https://www.legislation.gov.uk/ukpga/1977/36/section/59/5), [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1977/36/schedule/9/part/II)
 
@@ -335,7 +335,7 @@ Section 53.
 
 [^c6672081]: Textual amendment: [Ss. 17–26](https://www.legislation.gov.uk/ukpga/1966/18/section/17), [28](https://www.legislation.gov.uk/ukpga/1966/18/section/28), [29(1)–(3)](https://www.legislation.gov.uk/ukpga/1966/18/section/29/1) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
-[^key-96dc7229f32ed54f090d15f18fd2b841]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1966/18/section/27) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-96dc7229f32ed54f090d15f18fd2b841]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1966/18/section/27) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c6672091]: Textual amendment: [Ss. 17–26](https://www.legislation.gov.uk/ukpga/1966/18/section/17), [28](https://www.legislation.gov.uk/ukpga/1966/18/section/28), [29(1)–(3)](https://www.legislation.gov.uk/ukpga/1966/18/section/29/1) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 16](https://www.legislation.gov.uk/ukpga/1970/10/schedule/16)
 
@@ -357,7 +357,7 @@ Section 53.
 
 [^c6672181]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1966/18/section/44) repealed by [Post Office Act 1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48), [s. 141](https://www.legislation.gov.uk/ukpga/1969/48/section/141), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1969/48/schedule/11/part/II); [Finance Act 1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41), [ss. 122(5)](https://www.legislation.gov.uk/ukpga/1972/41/section/122/5), [134(7)](https://www.legislation.gov.uk/ukpga/1972/41/section/134/7), [Sch. 28 Pts. VIII](https://www.legislation.gov.uk/ukpga/1972/41/schedule/28/part/VIII), [IX](https://www.legislation.gov.uk/ukpga/1972/41/schedule/28/part/IX); [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [s. 41(1)](https://www.legislation.gov.uk/ukpga/1973/36/section/41/1), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-7daf743d739ff6689d34435430e0e7ec]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/1966/18/section/45) repealed (with effect in accordance with Sch. 39 para. 18(1) of the commencing Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 14](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/14)
+[^c-7daf743d739ff6689d34435430e0e7ec]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/1966/18/section/45) repealed (with effect in accordance with Sch. 39 para. 18(1) of the commencing Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 14](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/14)
 
 [^c6672241]: Textual amendment: [S. 46](https://www.legislation.gov.uk/ukpga/1966/18/section/46) repealed by [Finance Act 1985 (c. 54, SIF 114)](https://www.legislation.gov.uk/ukpga/1985/54), [s. 98(6)](https://www.legislation.gov.uk/ukpga/1985/54/section/98/6), [Sch. 27 Pt. IX(3)](https://www.legislation.gov.uk/ukpga/1985/54/schedule/27/part/IX/3)
 
@@ -393,17 +393,17 @@ Section 53.
 
 [^c6672451]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by [S.I. 1984/703](https://www.legislation.gov.uk/uksi/1984/703), (N.I. 3) arts. 5, 6
 
-[^key-74d8afe5a62e6018261ae2ea1ccd922b]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 61(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/61/2/a); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-74d8afe5a62e6018261ae2ea1ccd922b]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 61(2)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/61/2/a); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-aefa2259633d5ded710b9480ea3e8851]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 61(2)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/61/2/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-aefa2259633d5ded710b9480ea3e8851]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/2) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 61(2)(b)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/61/2/b); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
-[^key-e6c7d2597c788465bdef12af4607e732]: Textual amendment: [Sch. 1 para. 6(5)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/5)[(6)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/6) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 61(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/61/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
+[^c-e6c7d2597c788465bdef12af4607e732]: Textual amendment: [Sch. 1 para. 6(5)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/5)[(6)](https://www.legislation.gov.uk/ukpga/1966/18/schedule/1/paragraph/6/6) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 61(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/61/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(e)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/e)
 
 [^c6672461]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/1966/18/schedule/2) repealed by [Finance Act 1967 (c. 54)](https://www.legislation.gov.uk/ukpga/1967/54), [ss. 5(1)](https://www.legislation.gov.uk/ukpga/1967/54/section/5/1)(*a*), 45(8), Sch. 16 Pt. I; [Hydrocarbon Oil (Customs and Excise) Act 1971 (c. 12)](https://www.legislation.gov.uk/ukpga/1971/12), [s. 24(2)](https://www.legislation.gov.uk/ukpga/1971/12/section/24/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/1971/12/schedule/7); [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 177(3)](https://www.legislation.gov.uk/ukpga/1979/2/section/177/3), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1979/2/schedule/6/part/I); [Alchoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4), [s. 92(2)](https://www.legislation.gov.uk/ukpga/1979/4/section/92/2), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1979/4/schedule/4/part/I)
 
 [^c6672471]: Textual amendment: [Sch. 3 paras. 1–5](https://www.legislation.gov.uk/ukpga/1966/18/schedule/3/paragraph/1), [7–26](https://www.legislation.gov.uk/ukpga/1966/18/schedule/3/paragraph/7) repealed by [Betting and Gaming Duties Act 1972 (c. 25)](https://www.legislation.gov.uk/ukpga/1972/25), [Sch. 7](https://www.legislation.gov.uk/ukpga/1972/25/schedule/7)
 
-[^key-c8da1d27e4fd52a421da009612ee8423]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/1966/18/schedule/3/paragraph/6) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
+[^c-c8da1d27e4fd52a421da009612ee8423]: Textual amendment: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/1966/18/schedule/3/paragraph/6) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 6(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/3)
 
 [^c6672491]: Textual amendment: [Sch. 3 paras. 1–5](https://www.legislation.gov.uk/ukpga/1966/18/schedule/3/paragraph/1), [7–26](https://www.legislation.gov.uk/ukpga/1966/18/schedule/3/paragraph/7) repealed by [Betting and Gaming Duties Act 1972 (c. 25)](https://www.legislation.gov.uk/ukpga/1972/25), [Sch. 7](https://www.legislation.gov.uk/ukpga/1972/25/schedule/7)
 
@@ -415,7 +415,7 @@ Section 53.
 
 [^c6672551]: Textual amendment: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/1966/18/schedule/5/paragraph/20), [Sch. 6 paras. 1–13](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6/paragraph/1), [15–22](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6/paragraph/15), [24–27](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6/paragraph/24), [Sch. 7](https://www.legislation.gov.uk/ukpga/1966/18/schedule/7), repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/1970/10/schedule/6)
 
-[^key-09495bb2a832ebc992abdbb68f399c34]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
+[^c-09495bb2a832ebc992abdbb68f399c34]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/8)
 
 [^c6672711]: Textual amendment: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/1966/18/schedule/5/paragraph/20), [Sch. 6 paras. 1–13](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6/paragraph/1), [15–22](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6/paragraph/15), [24–27](https://www.legislation.gov.uk/ukpga/1966/18/schedule/6/paragraph/24), [Sch. 7](https://www.legislation.gov.uk/ukpga/1966/18/schedule/7), repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [s. 539(1)](https://www.legislation.gov.uk/ukpga/1970/10/section/539/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/1970/10/schedule/6)
 

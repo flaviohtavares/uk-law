@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Appeals against decisions of the CAT[^key-7099ac3f1eed29e37e18f405b21aec64][^key-76a15883bb74d6cde04b65f762dde011]
+## 75. Appeals against decisions of the CAT[^c-7099ac3f1eed29e37e18f405b21aec64][^c-76a15883bb74d6cde04b65f762dde011]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7099ac3f1eed29e37e18f405b21aec64]: Commencement: S. 75 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-7099ac3f1eed29e37e18f405b21aec64]: Commencement: S. 75 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-76a15883bb74d6cde04b65f762dde011]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/23/section/75) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-76a15883bb74d6cde04b65f762dde011]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2022/23/section/75) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

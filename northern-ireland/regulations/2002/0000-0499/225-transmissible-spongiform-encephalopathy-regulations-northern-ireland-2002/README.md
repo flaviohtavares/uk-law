@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (revoked)[^key-fc7dc424576554a5f7d79c62428fec0b]
+Transmissible Spongiform Encephalopathy Regulations (Northern Ireland) 2002 (revoked)[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into operation
 
 18th July 2002
 
-[^key-fc7dc424576554a5f7d79c62428fec0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc7dc424576554a5f7d79c62428fec0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTION[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART I — INTRODUCTION[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ Coming into operation
 - [Section 2 — Application](part-i/section-2.md)
 - [Section 3 — Interpretation](part-i/section-3.md)
 
-### PART II — TSE MONITORING[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART II — TSE MONITORING[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -71,13 +71,13 @@ Coming into operation
 - [Section 9 — Compensation for slaughtered TSE susceptible animals](part-ii/section-9.md)
 - [Section 10 — Notifications](part-ii/section-10.md)
 
-### PART III — ANIMAL FEEDING[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART III — ANIMAL FEEDING[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Mammalian protein and mammalian meat and bone meal[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Mammalian protein and mammalian meat and bone meal[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -87,7 +87,7 @@ Coming into operation
 - [Section 12 — Mammalian meat and bone meal for use in feedingstuffs for livestock](part-iii/section-12.md)
 - [Section 13 — Mammalian meat and bone meal for use in fertilisers on agricultural land](part-iii/section-13.md)
 
-#### Processed animal protein[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Processed animal protein[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -99,7 +99,7 @@ Coming into operation
 - [Section 17 — Production of dicalcium phosphate and hydrolysed protein for feeding to farmed animals other than ruminants](part-iii/section-17.md)
 - [Section 18 — Transport and storage of processed animal protein](part-iii/section-18.md)
 
-#### Approval of premises[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Approval of premises[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -109,7 +109,7 @@ Coming into operation
 - [Section 20 — Suspension and withdrawal of approval](part-iii/section-20.md)
 - [Section 21 — Appeals](part-iii/section-21.md)
 
-#### Feedingstuffs[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Feedingstuffs[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -120,7 +120,7 @@ Coming into operation
 - [Section 24 — Production of feedingstuffs containing dicalcium phosphate and hydrolysed protein for feeding to farmed animals other than ruminants](part-iii/section-24.md)
 - [Section 25 — Use and storage of feedingstuffs containing fishmeal, dicalcium phosphate or hydrolysed protein](part-iii/section-25.md)
 
-#### Administration and enforcement[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Administration and enforcement[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -131,13 +131,13 @@ Coming into operation
 - [Section 28 — Powers of inspectors](part-iii/section-28.md)
 - [Section 29 — Disposal and recall of mammalian meat and bone meal and MBM products](part-iii/section-29.md)
 
-### PART IV — SPECIFIED RISK MATERIAL[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART IV — SPECIFIED RISK MATERIAL[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### Introduction[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Introduction[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -147,7 +147,7 @@ Coming into operation
 - [Section 31 — Extended meaning of sale etc.](part-iv/section-31.md)
 - [Section 32 — Presumptions that food is intended for human consumption](part-iv/section-32.md)
 
-#### Carcases and specified risk material[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Carcases and specified risk material[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -163,7 +163,7 @@ Coming into operation
 - [Section 40 — Consignment of specified risk material after removal from carcases](part-iv/section-40.md)
 - [Section 41 — Presence of an official veterinary surgeon](part-iv/section-41.md)
 
-#### Prohibitions: slaughter and carcases[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Prohibitions: slaughter and carcases[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -176,7 +176,7 @@ Coming into operation
 - [Section 46 — Transport of carcases containing specified risk material](part-iv/section-46.md)
 - [Section 47 — Possession of carcases containing specified risk material](part-iv/section-47.md)
 
-#### Prohibitions on sale and use of specified risk material[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Prohibitions on sale and use of specified risk material[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -187,7 +187,7 @@ Coming into operation
 - [Section 50 — Specified risk material for use in cosmetic, pharmaceutical and medical products](part-iv/section-50.md)
 - [Section 51 — Mechanically recovered meat](part-iv/section-51.md)
 
-#### Prohibitions on collection, transport, rendering, incineration etc. and storage of specified risk material[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Prohibitions on collection, transport, rendering, incineration etc. and storage of specified risk material[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -198,7 +198,7 @@ Coming into operation
 - [Section 54 — Transport of specified risk material](part-iv/section-54.md)
 - [Section 55 — Procedure for bringing in specified risk material from Great Britain, the Isle of Man or any of the Channel Islands](part-iv/section-55.md)
 
-#### Approval or licensing[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Approval or licensing[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -212,7 +212,7 @@ Coming into operation
 - [Section 61 — Revocation of approval or licence](part-iv/section-61.md)
 - [Section 62 — Appeals against suspension and revocation of approval or licence](part-iv/section-62.md)
 
-#### Collection centres and incinerators[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Collection centres and incinerators[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -221,7 +221,7 @@ Coming into operation
 - [Section 63 — Collection centres](part-iv/section-63.md)
 - [Section 64 — Incinerators](part-iv/section-64.md)
 
-#### Rendering plants[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Rendering plants[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -232,7 +232,7 @@ Coming into operation
 - [Section 67 — Rendering of specified risk material](part-iv/section-67.md)
 - [Section 68 — Rendered material](part-iv/section-68.md)
 
-#### Administration and enforcement[^key-fc7dc424576554a5f7d79c62428fec0b]
+#### Administration and enforcement[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -248,7 +248,7 @@ Coming into operation
 - [Section 76 — Offences and penalties](part-iv/section-76.md)
 - [Section 77 — Inspection and seizure of suspected food](part-iv/section-77.md)
 
-### PART V — CONTROL AND ERADICATION OF TSEs: CHAPTER IV OF THE COMMUNITY TSE REGULATION[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART V — CONTROL AND ERADICATION OF TSEs: CHAPTER IV OF THE COMMUNITY TSE REGULATION[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -264,7 +264,7 @@ Coming into operation
 - [Section 85 — Prohibition of sale, supply and use of milk from affected or suspected animals](part-v/section-85.md)
 - [Section 86 — Cleansing and disinfection](part-v/section-86.md)
 
-### PART VI — ARTICLE 15(2) OF AND CHAPTER B OF ANNEX VIII TO THE COMMUNITY TSE REGULATION[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART VI — ARTICLE 15(2) OF AND CHAPTER B OF ANNEX VIII TO THE COMMUNITY TSE REGULATION[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -280,7 +280,7 @@ Coming into operation
 - [Section 94 — Offspring slaughter](part-vi/section-94.md)
 - [Section 95 — Cleansing and disinfection](part-vi/section-95.md)
 
-### PART VII — SAMPLING AND LABORATORY METHODS[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART VII — SAMPLING AND LABORATORY METHODS[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -288,7 +288,7 @@ Coming into operation
 
 - [Section 96 — Sampling and laboratory methods](part-vii/section-96.md)
 
-### PART VIII — COMMUNITY CONTROLS, OFFENCES, PENALTIES AND ENFORCEMENT[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART VIII — COMMUNITY CONTROLS, OFFENCES, PENALTIES AND ENFORCEMENT[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -300,7 +300,7 @@ Coming into operation
 - [Section 100 — Offences due to fault of another person and defence of due diligence](part-viii/section-100.md)
 - [Section 101 — Enforcement](part-viii/section-101.md)
 
-### PART IX — MISCELLANEOUS[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART IX — MISCELLANEOUS[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -308,7 +308,7 @@ Coming into operation
 
 - [Section 102 — General provisions relative to slaughter and compensation](part-ix/section-102.md)
 
-### PART X — SUPPLEMENTARY PROVISIONS[^key-fc7dc424576554a5f7d79c62428fec0b]
+### PART X — SUPPLEMENTARY PROVISIONS[^c-fc7dc424576554a5f7d79c62428fec0b]
 
 *Extent: N.I.*
 
@@ -330,14 +330,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-fc7dc424576554a5f7d79c62428fec0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc7dc424576554a5f7d79c62428fec0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-fc7dc424576554a5f7d79c62428fec0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc7dc424576554a5f7d79c62428fec0b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc7dc424576554a5f7d79c62428fec0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/225) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"
+[^c-fc7dc424576554a5f7d79c62428fec0b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/225) revoked (3.5.2006) by [The Transmissible Spongiform Encephalopathies Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/202)](https://www.legislation.gov.uk/nisr/2006/202), [regs. 1](https://www.legislation.gov.uk/nisr/2006/202/regulation/1), [20](https://www.legislation.gov.uk/nisr/2006/202/regulation/20), [Sch. 8](https://www.legislation.gov.uk/nisr/2006/202/schedule/8); No historical revised versions have been created for amendments to this S.R. made prior to it's final revocation. A revised version of how the S.R. stood at its first commmencment is available and to see the document content as it originally stood when it was made, select the "Original (As Made) version from the left-hand menu. For further details of the amendments see the List of All Changes available in "More Resources' above"

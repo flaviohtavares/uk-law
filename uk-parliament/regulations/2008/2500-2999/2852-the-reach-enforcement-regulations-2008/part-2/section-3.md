@@ -22,7 +22,7 @@ summary: ''
 
 (1) An enforcing authority must enforce a listed REACH provision where it is named against that provision in the relevant REACH table[^M_F_69974334-8e18-4bd1-f644-a5e93e3eb001].
 
-(2) The duty in paragraph (1) is subject to the following provisions of this regulation and regulations 3A and 6[^key-a1d6f3951ea31292fafbebd1b6fdde3f].
+(2) The duty in paragraph (1) is subject to the following provisions of this regulation and regulations 3A and 6[^c-a1d6f3951ea31292fafbebd1b6fdde3f].
 
 (3) The enforcement duty commences—
 
@@ -92,7 +92,7 @@ the enforcement duty applies to an enforcing authority in the relevant part or p
 
 [^M_F_69974334-8e18-4bd1-f644-a5e93e3eb001]: Textual amendment: Words in reg. 3 substituted (E.W.S.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/1/2/a) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1d6f3951ea31292fafbebd1b6fdde3f]: Textual amendment: Words in reg. 3(2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 133](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/133) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-a1d6f3951ea31292fafbebd1b6fdde3f]: Textual amendment: Words in reg. 3(2) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 133](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/133) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^M_F_d1ba8a35-bd17-4f92-d817-b7ca3788e07a]: Textual amendment: Words in reg. 3(5)(a) substituted (E.W.S.) (31.12.2020) by [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 10 para. 1(2)(c)(i)](https://www.legislation.gov.uk/uksi/2019/758/schedule/10/paragraph/1/2/c/i) (as amended by [S.I. 2020/1577](https://www.legislation.gov.uk/uksi/2020/1577), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/1/1/a), [3(1)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/3/1), [10(3)](https://www.legislation.gov.uk/uksi/2020/1577/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

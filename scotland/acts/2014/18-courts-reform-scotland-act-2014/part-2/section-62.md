@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Records of the Sheriff Appeal Court[^key-aae7509631b547aabf712f38d165290f]
+## 62. Records of the Sheriff Appeal Court[^c-aae7509631b547aabf712f38d165290f]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aae7509631b547aabf712f38d165290f]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/18/section/62) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-aae7509631b547aabf712f38d165290f]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/18/section/62) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

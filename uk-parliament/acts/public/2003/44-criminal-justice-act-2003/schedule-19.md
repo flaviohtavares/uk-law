@@ -33,17 +33,17 @@ Section 239(7)
 
 ### Membership
 
-**2.**[^c19356721] (1) The Board is to consist of a chairman and not less than five[^key-01c44cd8e1c7e701031d35bfb240d83f] other members appointed by the Secretary of State.
+**2.**[^c19356721] (1) The Board is to consist of a chairman and not less than five[^c-01c44cd8e1c7e701031d35bfb240d83f] other members appointed by the Secretary of State.
 
 (2) The Board must include among its members—
 
 - (a) a person who holds or has held judicial office;
 - (b) a registered medical practitioner who is a psychiatrist;
-- (c) a person appearing to the Secretary of State to have knowledge and experience of the supervision or after-care of discharged prisoners; [^key-8f32432eb3c24e708a28c0fd45801a1c]...
-- (d) a person appearing to the Secretary of State to have made a study of the causes of delinquency or the treatment of offenders; and[^key-a4953a9fb3a315342dd13500ba9879a0]
+- (c) a person appearing to the Secretary of State to have knowledge and experience of the supervision or after-care of discharged prisoners; [^c-8f32432eb3c24e708a28c0fd45801a1c]...
+- (d) a person appearing to the Secretary of State to have made a study of the causes of delinquency or the treatment of offenders; and[^c-a4953a9fb3a315342dd13500ba9879a0]
 - (e) a person appearing to the Secretary of State to have experience of law enforcement in a part of the United Kingdom.
 
-(2A)[^key-22611c9a9526e760cc29df8b61f9d588] “**Law enforcement**” means the prevention, detection or investigation of offences.
+(2A)[^c-22611c9a9526e760cc29df8b61f9d588] “**Law enforcement**” means the prevention, detection or investigation of offences.
 
 (3) A member of the Board—
 
@@ -123,13 +123,13 @@ and a person who ceases to hold office as a member of the Board is eligible for 
 
 [^c19356721]: Commencement: Sch. 19 wholly in force at 4.4.2005; Sch. 19 not in force at Royal Assent, see s. 336(3); Sch. 19 in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule); Sch. 19 in force in so far as not already in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/41) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-01c44cd8e1c7e701031d35bfb240d83f]: Textual amendment: Word in [Sch. 19 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/1) substituted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
+[^c-01c44cd8e1c7e701031d35bfb240d83f]: Textual amendment: Word in [Sch. 19 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/1) substituted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
 
-[^key-8f32432eb3c24e708a28c0fd45801a1c]: Textual amendment: Word in [Sch. 19 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/2/c) omitted (3.2.2025) by virtue of [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(3)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/3/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
+[^c-8f32432eb3c24e708a28c0fd45801a1c]: Textual amendment: Word in [Sch. 19 para. 2(2)(c)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/2/c) omitted (3.2.2025) by virtue of [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(3)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/3/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
 
-[^key-a4953a9fb3a315342dd13500ba9879a0]: Textual amendment: [Sch. 19 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/2/e) and word inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(3)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/3/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
+[^c-a4953a9fb3a315342dd13500ba9879a0]: Textual amendment: [Sch. 19 para. 2(2)(e)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/2/e) and word inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(3)(b)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/3/b), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
 
-[^key-22611c9a9526e760cc29df8b61f9d588]: Textual amendment: [Sch. 19 para. 2(2A)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/2A) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/4), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
+[^c-22611c9a9526e760cc29df8b61f9d588]: Textual amendment: [Sch. 19 para. 2(2A)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/19/paragraph/2/2A) inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 74(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/74/4), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/d)
 
 [^c19356741]: Commencement: Sch. 19 wholly in force at 4.4.2005; Sch. 19 not in force at Royal Assent, see s. 336(3); Sch. 19 in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule); Sch. 19 in force in so far as not already in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/41) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 

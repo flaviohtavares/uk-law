@@ -32,7 +32,7 @@ summary: ''
 
 Sanctions
 
-The Burma (Sanctions) (EU Exit) Regulations 2019 (revoked)[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+The Burma (Sanctions) (EU Exit) Regulations 2019 (revoked)[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-66ce3b8862df4a7ee1b7c7116d575db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66ce3b8862df4a7ee1b7c7116d575db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 1 — General[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 3 — Application of prohibitions and requirements outside the United Kingdom](part-1/section-3.md)
 - [Section 4 — Purposes](part-1/section-4.md)
 
-### PART 2 — Designation of persons[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 2 — Designation of persons[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,7 +71,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 8 — Notification and publicity where designation power used](part-2/section-8.md)
 - [Section 9 — Confidential information in certain cases where designation power used](part-2/section-9.md)
 
-### PART 3 — Finance[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 3 — Finance[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 15 — Making economic resources available for benefit of designated person](part-3/section-15.md)
 - [Section 16 — Circumventing etc prohibitions](part-3/section-16.md)
 
-### PART 4 — Immigration[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 4 — Immigration[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,13 +93,13 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 17 — Immigration](part-4/section-17.md)
 
-### PART 5 — Trade[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 5 — Trade[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Interpretation[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+#### CHAPTER 1 — Interpretation[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,7 +110,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 20 — Definition of “interception and monitoring services”](part-5/section-20.md)
 - [Section 21 — Interpretation of other expressions used in this Part](part-5/section-21.md)
 
-#### CHAPTER 2 — Restricted goods and restricted technology[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+#### CHAPTER 2 — Restricted goods and restricted technology[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,7 +124,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 27 — Financial services and funds relating to restricted goods and restricted technology](part-5/section-27.md)
 - [Section 28 — Brokering services: non-UK activity relating to restricted goods and restricted technology](part-5/section-28.md)
 
-#### CHAPTER 2A — Dual-use goods and dual-use technology[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+#### CHAPTER 2A — Dual-use goods and dual-use technology[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 **No longer in force.**
 
@@ -137,7 +137,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 28G — Financial services and funds relating to dual-use goods and dual-use technology](part-5/section-28g.md)
 - [Section 28H — Brokering services: non-UK activity relating to dual-use goods and dual-use technology](part-5/section-28h.md)
 
-#### CHAPTER 3 — Interception and monitoring services[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+#### CHAPTER 3 — Interception and monitoring services[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -145,13 +145,13 @@ Coming into force in accordance with regulation 1(2)
 
 - [Section 29 — Provision of interception and monitoring services](part-5/section-29.md)
 
-#### CHAPTER 4 — Military activities etc.[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+#### CHAPTER 4 — Military activities etc.[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 **No longer in force.**
 
 - [Section 30 — Military activities or otherwise enabling or facilitating the conduct of armed hostilities](part-5/section-30.md)
 
-#### CHAPTER 5 — Further provision[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+#### CHAPTER 5 — Further provision[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,7 +160,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 31 — Circumventing etc prohibitions](part-5/section-31.md)
 - [Section 32 — Defences](part-5/section-32.md)
 
-### PART 6 — Exceptions and licences[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 6 — Exceptions and licences[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -176,7 +176,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 39 — Trade: licensing offences](part-6/section-39.md)
 - [Section 40 — Section 8B(1) to (3) of Immigration Act 1971: directions](part-6/section-40.md)
 
-### PART 7 — Information and records[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 7 — Information and records[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -193,7 +193,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 49 — Disclosure of information](part-7/section-49.md)
 - [Section 50 — Part 7: supplementary](part-7/section-50.md)
 
-### PART 8 — Enforcement[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 8 — Enforcement[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -209,7 +209,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 58 — Application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005](part-8/section-58.md)
 - [Section 59 — Monetary penalties](part-8/section-59.md)
 
-### PART 9 — Maritime enforcement[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 9 — Maritime enforcement[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -222,7 +222,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 64 — Restrictions on exercise of maritime enforcement powers](part-9/section-64.md)
 - [Section 65 — Interpretation of Part 9](part-9/section-65.md)
 
-### PART 10 — Supplementary and final provision[^key-66ce3b8862df4a7ee1b7c7116d575db2]
+### PART 10 — Supplementary and final provision[^c-66ce3b8862df4a7ee1b7c7116d575db2]
 
 *Extent: E+W+S+N.I.*
 
@@ -242,7 +242,7 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-66ce3b8862df4a7ee1b7c7116d575db2]SCHEDULES
+[^c-66ce3b8862df4a7ee1b7c7116d575db2]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -253,14 +253,14 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-66ce3b8862df4a7ee1b7c7116d575db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66ce3b8862df4a7ee1b7c7116d575db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-66ce3b8862df4a7ee1b7c7116d575db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-66ce3b8862df4a7ee1b7c7116d575db2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-66ce3b8862df4a7ee1b7c7116d575db2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/136) revoked (29.4.2021 at. 5.00 pm) by [The Myanmar (Sanctions) Regulations 2021 (S.I. 2021/496)](https://www.legislation.gov.uk/uksi/2021/496), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2021/496/regulation/78) (with [regs. 79-81](https://www.legislation.gov.uk/uksi/2021/496/regulation/79))
+[^c-66ce3b8862df4a7ee1b7c7116d575db2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/136) revoked (29.4.2021 at. 5.00 pm) by [The Myanmar (Sanctions) Regulations 2021 (S.I. 2021/496)](https://www.legislation.gov.uk/uksi/2021/496), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3), [78](https://www.legislation.gov.uk/uksi/2021/496/regulation/78) (with [regs. 79-81](https://www.legislation.gov.uk/uksi/2021/496/regulation/79))

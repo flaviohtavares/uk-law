@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-aea93fe24ba1add56539045e5519b39a]
+## 2. Interpretation[^c-aea93fe24ba1add56539045e5519b39a]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ In these Regulations—
 
 - “the Act” means the Welfare Reform Act (Northern Ireland) 2007;
 - “advanced education” means education for the purposes of—
-  - (a) a course in preparation for a degree, a diploma of higher education, a higher national diploma, a higher national diploma of the Business and Technology Education Council or Qualifications Scotland[^key-d300cbf5c13fcd1f911c73c316720e2b], or a teaching qualification; or
+  - (a) a course in preparation for a degree, a diploma of higher education, a higher national diploma, a higher national diploma of the Business and Technology Education Council or Qualifications Scotland[^c-d300cbf5c13fcd1f911c73c316720e2b], or a teaching qualification; or
   - (b) any other course which is of a standard above ordinary national diploma, a diploma of the Business and Technology Education Council or a higher or advanced higher national certificate of Qualifications Scotland or a general certificate of education (advanced level);
 - “benefit week” means a period of 7 days ending on such day as the Department may direct, but for the purposes of calculating any payment of income “benefit week” means the period of 7 days ending on—
   - (a) the day before the first day of the first period of seven days which—
@@ -32,7 +32,7 @@ In these Regulations—
     - (ii) follows the date of claim for an employment and support allowance; or
   - (b) the last day on which an employment and support allowance is paid if it is in payment for less than a week;
 - “carer’s allowance” means an allowance under section 70 of the Contributions and Benefits Act[^f00006];
-- “[^key-44b24086bcd0eb02c5708676883062eb]**carer support payment**” means the carer support payment component of carer support[^key-29090da793987ded21469f9937e10079] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
+- “[^c-44b24086bcd0eb02c5708676883062eb]**carer support payment**” means the carer support payment component of carer support[^c-29090da793987ded21469f9937e10079] given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023;
 - “child” means a person under the age of 16;
 - “the Children Order” means the Children (Northern Ireland) Order 1995[^f00007];
 - “the Claims and Payments Regulations 2016” means the Universal Credit, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance (Claims and Payments) Regulations (Northern Ireland) 2016[^f00008];
@@ -40,7 +40,7 @@ In these Regulations—
 - “confinement” has the meaning given to it by section 167(1) of the Contributions and Benefits Act[^f00009];
 - “councillor” means a member of a district council;
 - “councillor’s allowance” means such payments for or in connection with the work which a person undertakes as a councillor;
-- “couple” means—[^key-f652fd14e586c03ed369367a8bd34c35]
+- “couple” means—[^c-f652fd14e586c03ed369367a8bd34c35]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household, or
   - (b) two people who are not married to, or civil partners of, each other but are living together as if spouses of each other;
 - “the Decisions and Appeals Regulations 1999” means the Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00010];
@@ -71,7 +71,7 @@ In these Regulations—
   - (b) a member of an establishment or organisation specified in Part 1 of that Schedule,
 
   but does not include any such person while absent on desertion;
-- “[^key-613d1631ebbb08283f85927e42eceb9a]**member of the work-related activity group**” means a claimant who has or is treated as having limited capability for work under either—
+- “[^c-613d1631ebbb08283f85927e42eceb9a]**member of the work-related activity group**” means a claimant who has or is treated as having limited capability for work under either—
   - (a) Part 5 of the Employment and Support Allowance Regulations (Northern Ireland) 2008 other than by virtue of regulation 30 of those regulations; or
   - (b) Part 4 of these Regulations other than by virtue of regulation 26;
 - “the Mental Health Order” means the Mental Health (Northern Ireland) Order 1986[^f00021];
@@ -99,7 +99,7 @@ In these Regulations—
 - “self-employed earner” means a person who is gainfully employed in Northern Ireland or the Republic of Ireland otherwise than in employed earner’s employment (whether or not he is also employed in such employment);
 - “state pension credit” means a state pension credit under the State Pension Credit Act (Northern Ireland) 2002[^f00028];
 - “the Tax Credits Act” means the Tax Credits Act 2002[^f00029];
-- “terminally ill”, in relation to a claimant, means the claimant is suffering from a progressive disease and death in consequence of that disease can reasonably be expected within 12[^key-950bc5d7ff4fb61869a33388f4b9f4e1] months;
+- “terminally ill”, in relation to a claimant, means the claimant is suffering from a progressive disease and death in consequence of that disease can reasonably be expected within 12[^c-950bc5d7ff4fb61869a33388f4b9f4e1] months;
 - “training” means—
   - (a) training in pursuance of arrangements made under section 1 or 3 of the Employment and Training Act; or
   - (b) any training received on a course which a person attends for 16 hours or more a week, the primary purpose of which is the teaching of occupational or vocational skills;
@@ -117,15 +117,15 @@ In these Regulations—
 
 ## Annotations
 
-[^key-aea93fe24ba1add56539045e5519b39a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-aea93fe24ba1add56539045e5519b39a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
-[^key-d300cbf5c13fcd1f911c73c316720e2b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/15/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-d300cbf5c13fcd1f911c73c316720e2b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/1350)](https://www.legislation.gov.uk/uksi/2025/1350), [art. 1(4)](https://www.legislation.gov.uk/uksi/2025/1350/article/1/4), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2025/1350/schedule/paragraph/15/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
 [^f00006]: Footnote: [1992 c.7](https://www.legislation.gov.uk/ukpga/1992/7); Section 70 was amended by Articles 2(2)(a) and 3 of [S.R. 2002 No. 321](https://www.legislation.gov.uk/nisr/2002/321) and other amendments not relevant to these Regulations
 
-[^key-44b24086bcd0eb02c5708676883062eb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/49/2)
+[^c-44b24086bcd0eb02c5708676883062eb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [49(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/49/2)
 
-[^key-29090da793987ded21469f9937e10079]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2026/246/article/54/2)
+[^c-29090da793987ded21469f9937e10079]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (15.3.2026) by [The Social Security (Scotland) Act 2018 (Carer’s Assistance) (Consequential Modifications) Order 2026 (S.I. 2026/246)](https://www.legislation.gov.uk/uksi/2026/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/246/article/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2026/246/article/54/2)
 
 [^f00007]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 [^f00009]: Footnote: The definition of “confinement” was amended by Article 4(b) of the Still-Birth (Definition) (Northern Ireland) Order 1992.([S.I. 1992/1310 (N.I. 10)](https://www.legislation.gov.uk/nisi/1992/1310))
 
-[^key-f652fd14e586c03ed369367a8bd34c35]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [116](https://www.legislation.gov.uk/uksi/2019/1514/regulation/116) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f652fd14e586c03ed369367a8bd34c35]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [116](https://www.legislation.gov.uk/uksi/2019/1514/regulation/116) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^f00010]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162)
 
@@ -157,7 +157,7 @@ In these Regulations—
 
 [^f00020]: Footnote: [S.R. 1976 No. 175](https://www.legislation.gov.uk/nisr/1976/175)
 
-[^key-613d1631ebbb08283f85927e42eceb9a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) inserted (3.4.2017) by [The Employment and Support Allowance (Consequential Amendments and Transitional and Savings Provisions) Regulations (Northern Ireland) 2017 (S.R. 2017/51)](https://www.legislation.gov.uk/nisr/2017/51), [regs. 1](https://www.legislation.gov.uk/nisr/2017/51/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2017/51/regulation/3/2) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2017/51/schedule/2))
+[^c-613d1631ebbb08283f85927e42eceb9a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) inserted (3.4.2017) by [The Employment and Support Allowance (Consequential Amendments and Transitional and Savings Provisions) Regulations (Northern Ireland) 2017 (S.R. 2017/51)](https://www.legislation.gov.uk/nisr/2017/51), [regs. 1](https://www.legislation.gov.uk/nisr/2017/51/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2017/51/regulation/3/2) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2017/51/schedule/2))
 
 [^f00021]: Footnote: [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
@@ -177,7 +177,7 @@ In these Regulations—
 
 [^f00029]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
-[^key-950bc5d7ff4fb61869a33388f4b9f4e1]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (4.4.2022) by [Social Security (Terminal Illness) Act (Northern Ireland) 2022 (c. 7)](https://www.legislation.gov.uk/nia/2022/7), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/7/section/1/1)[(2)(c)(iii)](https://www.legislation.gov.uk/nia/2022/7/section/1/2/c/iii), [3(2)](https://www.legislation.gov.uk/nia/2022/7/section/3/2) (with [s. 1(8)](https://www.legislation.gov.uk/nia/2022/7/section/1/8)); [S.R. 2022/171](https://www.legislation.gov.uk/nisr/2022/171), [art. 2](https://www.legislation.gov.uk/nisr/2022/171/article/2)
+[^c-950bc5d7ff4fb61869a33388f4b9f4e1]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/nisr/2016/219/regulation/2) substituted (4.4.2022) by [Social Security (Terminal Illness) Act (Northern Ireland) 2022 (c. 7)](https://www.legislation.gov.uk/nia/2022/7), [ss. 1(1)](https://www.legislation.gov.uk/nia/2022/7/section/1/1)[(2)(c)(iii)](https://www.legislation.gov.uk/nia/2022/7/section/1/2/c/iii), [3(2)](https://www.legislation.gov.uk/nia/2022/7/section/3/2) (with [s. 1(8)](https://www.legislation.gov.uk/nia/2022/7/section/1/8)); [S.R. 2022/171](https://www.legislation.gov.uk/nisr/2022/171), [art. 2](https://www.legislation.gov.uk/nisr/2022/171/article/2)
 
 [^f00030]: Footnote: Sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act [1960 (c. 4) (N.I.)](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594 (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 

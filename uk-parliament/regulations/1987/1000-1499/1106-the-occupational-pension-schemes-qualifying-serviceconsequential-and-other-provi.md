@@ -64,7 +64,7 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Discharge Regulations[^key-44d0b84067d66d4ed581253e5bf34a98]
+## 4. Amendment of the Discharge Regulations[^c-44d0b84067d66d4ed581253e5bf34a98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -74,7 +74,7 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 
 ## 6. Purpose prescribed under section 64(1A)(a) of the Social Security Act 1973
 
-A purpose prescribed under section 136(1)(a)(ii) of the Pension Schemes Act 1993[^key-09ea94722f1c04e6aca32af0db1e5b54] (powers of Occupational Pensions Board to authorise modification of occupational pension schemes) is that of enabling the scheme—
+A purpose prescribed under section 136(1)(a)(ii) of the Pension Schemes Act 1993[^c-09ea94722f1c04e6aca32af0db1e5b54] (powers of Occupational Pensions Board to authorise modification of occupational pension schemes) is that of enabling the scheme—
 
 - (a)[^M_F_eb7ae245-eddc-4927-da64-ef56c434365f] to provide the alternative to short service benefit described in regulation 9 of the Occupational Pension Schemes (Preservation of Benefit) Regulations 1991 (bought out benefits) without the member’s consent in the circumstances described in paragraph (5)(b) of that regulation; and
 - (b) to make provision for a benefit payable to a member's widow or widower to be secured by means of a policy of insurance or annuity contract without the widow's or widower's consent in cases where the requirements of regulation 5(5)[^M_F_7baa1826-3c6a-4ee4-8edf-6eef35c956d7] of the Discharge Regulations are satisfied.
@@ -123,11 +123,11 @@ The report of the Occupational Pensions Board on the draft of these Regulations,
 
 [^M_F_8b0285cf-3b11-4e91-edb3-17ad07271a21]: Textual amendment: Reg. 3 revoked (28.2.1991) by S.I. 1991/167, reg. 1(1), Sch. 2
 
-[^key-44d0b84067d66d4ed581253e5bf34a98]: Textual amendment: Reg. 4 revoked (6.4.1997) by [The Occupational Pension Schemes (Discharge of Liability) Regulations 1997 (S.I. 1997/784)](https://www.legislation.gov.uk/uksi/1997/784), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/784/schedule/2)
+[^c-44d0b84067d66d4ed581253e5bf34a98]: Textual amendment: Reg. 4 revoked (6.4.1997) by [The Occupational Pension Schemes (Discharge of Liability) Regulations 1997 (S.I. 1997/784)](https://www.legislation.gov.uk/uksi/1997/784), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1997/784/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/784/schedule/2)
 
 [^M_F_485ca48b-5b84-4b8c-b5b7-8af47595b7bf]: Textual amendment: Reg. 5 revoked (28.2.1991) by S.I. 1991/168, reg. 1(2), Sch.
 
-[^key-09ea94722f1c04e6aca32af0db1e5b54]: Textual amendment: Words in reg. 6 substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/13)
+[^c-09ea94722f1c04e6aca32af0db1e5b54]: Textual amendment: Words in reg. 6 substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/13)
 
 [^M_F_eb7ae245-eddc-4927-da64-ef56c434365f]: Textual amendment: Reg. 6(a) substituted (28.2.1991) by S.I. 1991/167, reg. 1(2), Sch. 1 para. 5
 

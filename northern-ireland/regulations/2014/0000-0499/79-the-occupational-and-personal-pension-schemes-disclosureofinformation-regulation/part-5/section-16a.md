@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16A. Statements of benefits: cash balance benefits[^key-8c8a076de38e63ab0ecf381138ce4104]
+## 16A. Statements of benefits: cash balance benefits[^c-8c8a076de38e63ab0ecf381138ce4104]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c8a076de38e63ab0ecf381138ce4104]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2014/79/regulation/16A) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [73(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/73/3)
+[^c-8c8a076de38e63ab0ecf381138ce4104]: Textual amendment: [Reg. 16A](https://www.legislation.gov.uk/nisr/2014/79/regulation/16A) inserted (24.7.2014) by [The Pensions (2012 Act) (Transitional, Consequential and Supplementary Provisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [73(3)](https://www.legislation.gov.uk/nisr/2014/204/regulation/73/3)

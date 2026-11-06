@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6A — Statements of benefits: collective money purchase benefits[^key-95774d6285897aeec2ab107b1553891d]
+## SCHEDULE 6A — Statements of benefits: collective money purchase benefits[^c-95774d6285897aeec2ab107b1553891d]
 
 *Extent: N.I.*
 
@@ -32,15 +32,15 @@ Regulation 17A(2)
 
 **4.** An explanation of how the member may obtain further details about the information given under this Schedule.
 
-**5.**[^key-392e4ec51a6e0d826806552d2808a286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-392e4ec51a6e0d826806552d2808a286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7fea5845cc56fa10db13b2e8bea6083d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7fea5845cc56fa10db13b2e8bea6083d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** Details of any deduction from the member’s benefits.
 
 **8.** Where applicable, a statement that, if the member exercises rights or options to access benefits under the scheme before the member’s retirement date, the amount of the member’s benefits is likely to be lower.
 
-**9.**[^key-a58630a9bf214b695dcc2d21033dbc19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-a58630a9bf214b695dcc2d21033dbc19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** A statement that illustrations of the amount of pension that may be payable to the member on the member’s retirement date—
 
@@ -77,7 +77,7 @@ Regulation 17A(2)
 **17.** Either—
 
 - (a) a summary of the methods and assumptions used to calculate—
-  - (i)[^key-7f469f45e1c37e7092812bbd3af09d53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-7f469f45e1c37e7092812bbd3af09d53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the member’s future benefit illustrations, or
 - (b) a statement that such a summary is—
   - (i) provided in a specified annex, or
@@ -106,7 +106,7 @@ Regulation 17A(2)
 
 ### PART 4 — Information for active members
 
-**22.**[^key-479b52d25f67da78430320d9c541cef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-479b52d25f67da78430320d9c541cef8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **23.** The amount, at the illustration date, of any benefits payable on the death of the member.
 
@@ -133,16 +133,16 @@ Regulation 17A(2)
 
 ## Annotations
 
-[^key-95774d6285897aeec2ab107b1553891d]: Textual amendment: Sch. 6A inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(16)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/16), [Sch. 1](https://www.legislation.gov.uk/nisr/2022/192/schedule/1)
+[^c-95774d6285897aeec2ab107b1553891d]: Textual amendment: Sch. 6A inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(16)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/16), [Sch. 1](https://www.legislation.gov.uk/nisr/2022/192/schedule/1)
 
-[^key-392e4ec51a6e0d826806552d2808a286]: Textual amendment: Sch. 6A para. 5 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
+[^c-392e4ec51a6e0d826806552d2808a286]: Textual amendment: Sch. 6A para. 5 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
 
-[^key-7fea5845cc56fa10db13b2e8bea6083d]: Textual amendment: Sch. 6A para. 6 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
+[^c-7fea5845cc56fa10db13b2e8bea6083d]: Textual amendment: Sch. 6A para. 6 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
 
-[^key-a58630a9bf214b695dcc2d21033dbc19]: Textual amendment: Sch. 6A para. 9 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
+[^c-a58630a9bf214b695dcc2d21033dbc19]: Textual amendment: Sch. 6A para. 9 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
 
 [^f00061]: Footnote: Article 23 was substituted by Article 32(3) of the Pensions (Northern Ireland) Order 2005
 
-[^key-7f469f45e1c37e7092812bbd3af09d53]: Textual amendment: Sch. 6A para. 17(a)(i) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/b)
+[^c-7f469f45e1c37e7092812bbd3af09d53]: Textual amendment: Sch. 6A para. 17(a)(i) omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/b)
 
-[^key-479b52d25f67da78430320d9c541cef8]: Textual amendment: Sch. 6A para. 22 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)
+[^c-479b52d25f67da78430320d9c541cef8]: Textual amendment: Sch. 6A para. 22 omitted (4.12.2025) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 (S.R. 2025/175)](https://www.legislation.gov.uk/nisr/2025/175), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2025/175/regulation/1/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2025/175/regulation/3/7/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Enforcement of requirement to pay sums due to individuals[^key-39f5779cdd2cf2693c9bc5c40b534aff][^key-e6c02f8673866481b1acc38bbb6fa562]
+## 114. Enforcement of requirement to pay sums due to individuals[^c-39f5779cdd2cf2693c9bc5c40b534aff][^c-e6c02f8673866481b1acc38bbb6fa562]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ the court must order the liable party to pay the sum to the underpaid individual
 
 ## Annotations
 
-[^key-39f5779cdd2cf2693c9bc5c40b534aff]: Commencement: S. 114 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-39f5779cdd2cf2693c9bc5c40b534aff]: Commencement: S. 114 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-e6c02f8673866481b1acc38bbb6fa562]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/36/section/114) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(19)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/19)
+[^c-e6c02f8673866481b1acc38bbb6fa562]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2025/36/section/114) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(19)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/19)

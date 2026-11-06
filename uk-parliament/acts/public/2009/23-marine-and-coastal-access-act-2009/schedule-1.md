@@ -24,7 +24,7 @@ Section 1
 
 ### Status of the MMO
 
-**1.**[^key-2d2e47e5b9bd65d954c3f755c68ce9f9] (1) The MMO is a body corporate.
+**1.**[^c-2d2e47e5b9bd65d954c3f755c68ce9f9] (1) The MMO is a body corporate.
 
 (2) The MMO is not to be regarded—
 
@@ -41,11 +41,11 @@ and the property of the MMO is not to be regarded as property of, or held on beh
 
 ### The chair of the MMO
 
-**2.**[^key-cb85a59f7a3f21ddb2ee6c3375792deb] A person (the “chair of the MMO”) is to be appointed by the Secretary of State to chair the MMO.
+**2.**[^c-cb85a59f7a3f21ddb2ee6c3375792deb] A person (the “chair of the MMO”) is to be appointed by the Secretary of State to chair the MMO.
 
 ### Membership
 
-**3.**[^key-4d807bd061422fbdf6462d72ee8094ba] (1) The members of the MMO are to be—
+**3.**[^c-4d807bd061422fbdf6462d72ee8094ba] (1) The members of the MMO are to be—
 
 - (a) the person who is for the time being the chair of the MMO, and
 - (b) not fewer than 5, nor more than 8, other members (“ordinary members”) who are to be appointed by the Secretary of State.
@@ -56,24 +56,24 @@ and the property of the MMO is not to be regarded as property of, or held on beh
 
 ### The deputy chair of the MMO
 
-**4.**[^key-142ce70894dab9f72c05e75a737315f8] The Secretary of State may appoint one of the ordinary members to be the deputy chair of the MMO (“the deputy chair”).
+**4.**[^c-142ce70894dab9f72c05e75a737315f8] The Secretary of State may appoint one of the ordinary members to be the deputy chair of the MMO (“the deputy chair”).
 
 ### Considerations in making appointments
 
-**5.**[^key-ad98667dfda8b07b6c48882f82e9c223] In appointing any person to be the chair of the MMO or an ordinary member, the Secretary of State must have regard to the desirability—
+**5.**[^c-ad98667dfda8b07b6c48882f82e9c223] In appointing any person to be the chair of the MMO or an ordinary member, the Secretary of State must have regard to the desirability—
 
 - (a) of appointing a person who has experience of, and has shown some capacity in, some matter relevant to the exercise of the MMO's functions, and
 - (b) of securing that a variety of skills and experience is available among the members.
 
 ### Power to amend the numbers of members specified in paragraph 3(1)
 
-**6.**[^c2007983][^key-4650120adf6b159c92ec43ef47ebe2fa] (1) The Secretary of State may by order amend paragraph 3(1) so as to substitute a different number for any of the numbers for the time being specified there.
+**6.**[^c2007983][^c-4650120adf6b159c92ec43ef47ebe2fa] (1) The Secretary of State may by order amend paragraph 3(1) so as to substitute a different number for any of the numbers for the time being specified there.
 
 (2) An order under sub-paragraph (1) must not amend paragraph 3(1)(b) so that it provides that there may be fewer than 5 ordinary members.
 
 ### Terms of appointment
 
-**7.**[^key-8c743476e56417442b983ed488569a01] (1) A person appointed as—
+**7.**[^c-8c743476e56417442b983ed488569a01] (1) A person appointed as—
 
 - (a) the chair of the MMO, or
 - (b) an ordinary member,
@@ -92,7 +92,7 @@ holds and vacates office in accordance with the terms of the appointment.
 
 ### Resignation from office
 
-**8.**[^key-f72b80ae883c8b04a7d3f41cad06fce0] A person may, by giving notice to the Secretary of State, resign from office as—
+**8.**[^c-f72b80ae883c8b04a7d3f41cad06fce0] A person may, by giving notice to the Secretary of State, resign from office as—
 
 - (a) the chair of the MMO,
 - (b) the deputy chair, or
@@ -100,7 +100,7 @@ holds and vacates office in accordance with the terms of the appointment.
 
 ### Suspension from, or termination of, office
 
-**9.**[^key-01754cbccb10c743d20bd711916eb791] (1) The Secretary of State may suspend or terminate the appointment of any person as the chair of the MMO, the deputy chair, or an ordinary member, if—
+**9.**[^c-01754cbccb10c743d20bd711916eb791] (1) The Secretary of State may suspend or terminate the appointment of any person as the chair of the MMO, the deputy chair, or an ordinary member, if—
 
 - (a) the person has become bankrupt or made an arrangement with creditors,
 - (b) the person's estate has been sequestrated in Scotland or the person has entered into a debt arrangement programme under Part 1 of the Debt Arrangement and Attachment (Scotland) Act 2002 (asp 17) as the debtor or has, under Scots law, granted a trust deed for creditors,
@@ -116,7 +116,7 @@ or if the person is, in the opinion of the Secretary of State, unable or unfit t
 
 ### Eligibility for re-appointment
 
-**10.**[^key-22ba93af671968132be2f011736b9587] A person who ceases to hold any of the following offices—
+**10.**[^c-22ba93af671968132be2f011736b9587] A person who ceases to hold any of the following offices—
 
 - (a) chair of the MMO,
 - (b) deputy chair,
@@ -126,18 +126,18 @@ is not by reason of that cessation prevented from subsequently being re-appointe
 
 ### Members' remuneration and allowances
 
-**11.**[^key-f107ebd8091e3f338048e60f17a88506] The MMO may pay to its members such remuneration and allowances as the Secretary of State may determine.
+**11.**[^c-f107ebd8091e3f338048e60f17a88506] The MMO may pay to its members such remuneration and allowances as the Secretary of State may determine.
 
 ### Pensions, allowances and gratuities
 
-**12.**[^key-ecbc1b7f26e01de26626aa0ab73e58c4] If required to do so by the Secretary of State, the MMO must—
+**12.**[^c-ecbc1b7f26e01de26626aa0ab73e58c4] If required to do so by the Secretary of State, the MMO must—
 
 - (a) pay such pensions, allowances or gratuities as the Secretary of State may determine to or in respect of any person who is or has been a member;
 - (b) pay such sums as the Secretary of State may determine towards provision for the payment of pensions, allowances or gratuities to or in respect of any such person.
 
 ### Compensation for loss of office
 
-**13.**[^key-91c535ae212a318e3900ae15fa8c1d1d] If—
+**13.**[^c-91c535ae212a318e3900ae15fa8c1d1d] If—
 
 - (a) a person ceases to be a member, and
 - (b) it appears to the Secretary of State that there are special circumstances which make it appropriate for the person to receive compensation,
@@ -146,7 +146,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Chief executive
 
-**14.**[^key-7dac87bb7c28f203b6dbedabfd469ffc] (1) The MMO must appoint a person to be its chief executive.
+**14.**[^c-7dac87bb7c28f203b6dbedabfd469ffc] (1) The MMO must appoint a person to be its chief executive.
 
 (2) The person appointed must have been approved by the Secretary of State.
 
@@ -156,7 +156,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Chief scientific adviser
 
-**15.**[^key-f02f19a97e28448fdf538807bc5bc5c8] (1) The MMO must appoint a person to be its chief scientific adviser.
+**15.**[^c-f02f19a97e28448fdf538807bc5bc5c8] (1) The MMO must appoint a person to be its chief scientific adviser.
 
 (2) The chief scientific adviser is an employee of the MMO.
 
@@ -164,19 +164,19 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Other staff
 
-**16.**[^key-9386ecb763dcd098ab5a9cb3396a0f68] (1) The MMO may appoint other employees.
+**16.**[^c-9386ecb763dcd098ab5a9cb3396a0f68] (1) The MMO may appoint other employees.
 
 (2) The MMO may only make an appointment under sub-paragraph (1) with the approval of the Secretary of State as to any terms and conditions of employment not falling within paragraph 17 or 18.
 
 ### Staff remuneration and allowances
 
-**17.**[^key-fd02585a3533a4054fac23ca7f8d740f] (1) The MMO may pay such remuneration and allowances as it may determine to any of its employees.
+**17.**[^c-fd02585a3533a4054fac23ca7f8d740f] (1) The MMO may pay such remuneration and allowances as it may determine to any of its employees.
 
 (2) The MMO may only make a determination under sub-paragraph (1) with the approval of the Secretary of State.
 
 ### Staff pensions etc
 
-**18.**[^key-e01759b4f6a36e73aadfc031b5cf826e] (1) The MMO may—
+**18.**[^c-e01759b4f6a36e73aadfc031b5cf826e] (1) The MMO may—
 
 - (a) pay such pensions, allowances or gratuities as it may determine to or in respect of any person who is or has been an employee of the MMO;
 - (b) pay such sums as it may determine towards provision for the payment of pensions, allowances or gratuities to or in respect of any such person.
@@ -185,7 +185,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Staff superannuation
 
-**19.**[^key-5c2483aaaa37fc3ce8a52d274c8edc6f] (1) Employment with the MMO is to be included among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) can apply.
+**19.**[^c-5c2483aaaa37fc3ce8a52d274c8edc6f] (1) Employment with the MMO is to be included among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) can apply.
 
 (2) Accordingly, in Schedule 1 to that Act (kinds of employment to which the Act applies) insert at the appropriate place—
 
@@ -195,14 +195,14 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Procedure
 
-**20.**[^key-d967fa5eebb3514a07302c3202c35c27] Subject to the following provisions of this Schedule, the MMO may regulate—
+**20.**[^c-d967fa5eebb3514a07302c3202c35c27] Subject to the following provisions of this Schedule, the MMO may regulate—
 
 - (a) its own procedure (including quorum), and
 - (b) the procedure of any of its committees or sub-committees (including quorum).
 
 ### Delegation of functions
 
-**21.**[^key-512d1bf862dde2bbe1bc027eaf1bd51d] (1) The MMO may authorise a committee, sub-committee, member or employee of the MMO to exercise any of the MMO's functions.
+**21.**[^c-512d1bf862dde2bbe1bc027eaf1bd51d] (1) The MMO may authorise a committee, sub-committee, member or employee of the MMO to exercise any of the MMO's functions.
 
 (2) The MMO must keep a record of any authorisations under sub-paragraph (1).
 
@@ -213,7 +213,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Membership of committees and sub-committees
 
-**22.**[^key-de2a24581f121707bf198a7f09dda7d3] (1) A committee or sub-committee may include persons who are not members of the MMO.
+**22.**[^c-de2a24581f121707bf198a7f09dda7d3] (1) A committee or sub-committee may include persons who are not members of the MMO.
 
 (2) The MMO may pay such remuneration and allowances as it may determine to any person who—
 
@@ -224,7 +224,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Validity of proceedings
 
-**23.**[^key-f1680272fd8859ad5480b04dbd62645a] The validity of anything done by the MMO, or by any committee or sub-committee of the MMO, is not affected by any of the following—
+**23.**[^c-f1680272fd8859ad5480b04dbd62645a] The validity of anything done by the MMO, or by any committee or sub-committee of the MMO, is not affected by any of the following—
 
 - (a) any vacancy in the office of chair of the MMO or chair of the committee or sub-committee,
 - (b) any deficiency in the number of ordinary members or in the number of members of the committee or sub-committee,
@@ -232,7 +232,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Application of seal and proof of documents
 
-**24.**[^key-f2856fdc122a82f429d55f546811ab4b] (1) The application of the MMO's seal must be authenticated by the signature of—
+**24.**[^c-f2856fdc122a82f429d55f546811ab4b] (1) The application of the MMO's seal must be authenticated by the signature of—
 
 - (a) a member who is authorised (generally or specially) for that purpose, or
 - (b) an employee of the MMO who is so authorised.
@@ -241,7 +241,7 @@ the Secretary of State may require the MMO to make such payments to the person a
 
 ### Documents served etc by the MMO
 
-**25.**[^key-8cc9c6fd85e35542e507cf04270130ff] (1) Any document which the MMO is authorised or required by or under any enactment to serve, make or issue may be signed on behalf of the MMO by any member or employee of the MMO who has been authorised for the purpose, whether generally or specially, by the MMO.
+**25.**[^c-8cc9c6fd85e35542e507cf04270130ff] (1) Any document which the MMO is authorised or required by or under any enactment to serve, make or issue may be signed on behalf of the MMO by any member or employee of the MMO who has been authorised for the purpose, whether generally or specially, by the MMO.
 
 (2) Every document purporting—
 
@@ -252,7 +252,7 @@ is to be received in evidence and taken to be so made or issued, unless the cont
 
 ### Annual report
 
-**26.**[^key-1e69c87876ec25f13f64479fe5a82181] (1) For each financial year, the MMO must prepare an annual report on how it has discharged its functions during the year.
+**26.**[^c-1e69c87876ec25f13f64479fe5a82181] (1) For each financial year, the MMO must prepare an annual report on how it has discharged its functions during the year.
 
 (2) The MMO must send the report to the Secretary of State as soon as possible after the end of the year to which it relates.
 
@@ -267,7 +267,7 @@ is to be received in evidence and taken to be so made or issued, unless the cont
 
 ### Accounts and records
 
-**27.**[^key-72848ef1be62978a0f0292bdf5364afa] (1) The MMO must keep proper accounts and proper records in relation to the accounts.
+**27.**[^c-72848ef1be62978a0f0292bdf5364afa] (1) The MMO must keep proper accounts and proper records in relation to the accounts.
 
 (2) For each financial year, the MMO must prepare a statement of accounts in respect of that financial year.
 
@@ -282,7 +282,7 @@ is to be received in evidence and taken to be so made or issued, unless the cont
 
 ### Audit
 
-**28.**[^key-b2cbfd7ba9699f5a096e9e9ea4b3cb29] (1) This paragraph applies where, in pursuance of paragraph 27, the MMO has sent a copy of a statement of accounts to the Comptroller and Auditor General.
+**28.**[^c-b2cbfd7ba9699f5a096e9e9ea4b3cb29] (1) This paragraph applies where, in pursuance of paragraph 27, the MMO has sent a copy of a statement of accounts to the Comptroller and Auditor General.
 
 (2) The Comptroller and Auditor General must—
 
@@ -293,7 +293,7 @@ is to be received in evidence and taken to be so made or issued, unless the cont
 
 ### Duty to provide information to the Secretary of State
 
-**29.**[^key-810d1ff55e936e20fa2b8c7774882d00] (1) The MMO must provide the Secretary of State with—
+**29.**[^c-810d1ff55e936e20fa2b8c7774882d00] (1) The MMO must provide the Secretary of State with—
 
 - (a) copies of such returns or accounts, or
 - (b) such information,
@@ -312,62 +312,62 @@ as the Secretary of State may require.
 
 ## Annotations
 
-[^key-2d2e47e5b9bd65d954c3f755c68ce9f9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/1) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-2d2e47e5b9bd65d954c3f755c68ce9f9]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/1) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-cb85a59f7a3f21ddb2ee6c3375792deb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/2) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-cb85a59f7a3f21ddb2ee6c3375792deb]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/2) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-4d807bd061422fbdf6462d72ee8094ba]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/3) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-4d807bd061422fbdf6462d72ee8094ba]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/3) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-142ce70894dab9f72c05e75a737315f8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/4) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-142ce70894dab9f72c05e75a737315f8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/4) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-ad98667dfda8b07b6c48882f82e9c223]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/5) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-ad98667dfda8b07b6c48882f82e9c223]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/5) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
 [^c2007983]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/6) partly in force; [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/6) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-4650120adf6b159c92ec43ef47ebe2fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/6) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-4650120adf6b159c92ec43ef47ebe2fa]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/6) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-8c743476e56417442b983ed488569a01]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/7) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-8c743476e56417442b983ed488569a01]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/7) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-f72b80ae883c8b04a7d3f41cad06fce0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/8) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-f72b80ae883c8b04a7d3f41cad06fce0]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/8) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-01754cbccb10c743d20bd711916eb791]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/9) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-01754cbccb10c743d20bd711916eb791]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/9) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-22ba93af671968132be2f011736b9587]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/10) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-22ba93af671968132be2f011736b9587]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/10) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-f107ebd8091e3f338048e60f17a88506]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/11) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-f107ebd8091e3f338048e60f17a88506]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/11) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-ecbc1b7f26e01de26626aa0ab73e58c4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/12) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-ecbc1b7f26e01de26626aa0ab73e58c4]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/12) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-91c535ae212a318e3900ae15fa8c1d1d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/13) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-91c535ae212a318e3900ae15fa8c1d1d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/13) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-7dac87bb7c28f203b6dbedabfd469ffc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/14) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-7dac87bb7c28f203b6dbedabfd469ffc]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/14) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-f02f19a97e28448fdf538807bc5bc5c8]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/15) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-f02f19a97e28448fdf538807bc5bc5c8]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/15) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-9386ecb763dcd098ab5a9cb3396a0f68]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/16) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-9386ecb763dcd098ab5a9cb3396a0f68]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/16) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-fd02585a3533a4054fac23ca7f8d740f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/17) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-fd02585a3533a4054fac23ca7f8d740f]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/17) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-e01759b4f6a36e73aadfc031b5cf826e]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/18) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-e01759b4f6a36e73aadfc031b5cf826e]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/18) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-5c2483aaaa37fc3ce8a52d274c8edc6f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/19) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-5c2483aaaa37fc3ce8a52d274c8edc6f]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/19) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-d967fa5eebb3514a07302c3202c35c27]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/20) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-d967fa5eebb3514a07302c3202c35c27]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/20) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-512d1bf862dde2bbe1bc027eaf1bd51d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/21) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-512d1bf862dde2bbe1bc027eaf1bd51d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/21) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-de2a24581f121707bf198a7f09dda7d3]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/22) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-de2a24581f121707bf198a7f09dda7d3]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/22) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-f1680272fd8859ad5480b04dbd62645a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/23) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-f1680272fd8859ad5480b04dbd62645a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/23) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-f2856fdc122a82f429d55f546811ab4b]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/24) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-f2856fdc122a82f429d55f546811ab4b]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/24) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-8cc9c6fd85e35542e507cf04270130ff]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/25) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-8cc9c6fd85e35542e507cf04270130ff]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/25) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-1e69c87876ec25f13f64479fe5a82181]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/26) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-1e69c87876ec25f13f64479fe5a82181]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/26) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-72848ef1be62978a0f0292bdf5364afa]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/27) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-72848ef1be62978a0f0292bdf5364afa]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/27) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-b2cbfd7ba9699f5a096e9e9ea4b3cb29]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/28) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-b2cbfd7ba9699f5a096e9e9ea4b3cb29]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/28) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
 
-[^key-810d1ff55e936e20fa2b8c7774882d00]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/29) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)
+[^c-810d1ff55e936e20fa2b8c7774882d00]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2009/23/schedule/1/paragraph/29) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/1)

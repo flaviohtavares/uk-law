@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99.[^key-392a132245b34c95c32aa558b60197bd]
+## 99.[^c-392a132245b34c95c32aa558b60197bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ In Article 25 (cooperation with other competent authorities at national level)â€
 
 ## Annotations
 
-[^key-392a132245b34c95c32aa558b60197bd]: Commencement: Reg. 99 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-392a132245b34c95c32aa558b60197bd]: Commencement: Reg. 99 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23587301]: Marginal citation: The UK financial services regulator, with primary responsibility for the conduct of firms authorised under the [Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8).

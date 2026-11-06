@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Application taken over by nominated beneficiary[^key-f26fa8da95c8176ded97260df2f1624e]
+## 72. Application taken over by nominated beneficiary[^c-f26fa8da95c8176ded97260df2f1624e]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ but the nominated beneficiary is otherwise, subject to section 70 and the except
 
 ## Annotations
 
-[^key-f26fa8da95c8176ded97260df2f1624e]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2021/15/section/72) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-f26fa8da95c8176ded97260df2f1624e]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2021/15/section/72) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

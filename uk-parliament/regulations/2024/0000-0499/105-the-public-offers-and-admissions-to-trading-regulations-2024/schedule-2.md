@@ -24,13 +24,13 @@ Regulation 30(9)
 
 ### PART 1 — Interpretation
 
-**1.**[^key-3b2e81a74e0a267d96d75a40a124127c] In this Schedule, “**prospectus**” includes an MTF admission prospectus.
+**1.**[^c-3b2e81a74e0a267d96d75a40a124127c] In this Schedule, “**prospectus**” includes an MTF admission prospectus.
 
 ### PART 2 — General exemptions
 
 #### Statements believed to be true
 
-**2.**[^key-44dec5f80d3aee9c0c89aa5202cf9b3f] (1) In this paragraph “**statement**” means—
+**2.**[^c-44dec5f80d3aee9c0c89aa5202cf9b3f] (1) In this paragraph “**statement**” means—
 
 - (a) any untrue or misleading statement in a prospectus, or
 - (b) the omission from a prospectus of any matter required to be included by regulation 23.
@@ -51,7 +51,7 @@ Regulation 30(9)
 
 #### Statements by experts
 
-**3.**[^key-db2288ffe8e74d4e188bfdbc6fcf7b86] (1) In this paragraph “**statement**” means a statement included in a prospectus which—
+**3.**[^c-db2288ffe8e74d4e188bfdbc6fcf7b86] (1) In this paragraph “**statement**” means a statement included in a prospectus which—
 
 - (a) purports to be made by, or on the authority of, another person as an expert, and
 - (b) is stated to be included in the prospectus with that person’s consent.
@@ -72,7 +72,7 @@ Regulation 30(9)
 
 #### Correction of statements
 
-**4.**[^key-4743cf62741cc5a9e05c5dad445b0c96] (1) In this paragraph “**statement**” has the same meaning as in paragraph 2.
+**4.**[^c-4743cf62741cc5a9e05c5dad445b0c96] (1) In this paragraph “**statement**” has the same meaning as in paragraph 2.
 
 (2) A person (D) does not incur liability under regulation 30(1) for loss caused by a statement if D satisfies the court—
 
@@ -83,7 +83,7 @@ Regulation 30(9)
 
 #### Corrections of statements by experts
 
-**5.**[^key-2b03e982e38a288bb35a3ccda01ed3f0] (1) In this paragraph “**statement**” has the same meaning as in paragraph 3.
+**5.**[^c-2b03e982e38a288bb35a3ccda01ed3f0] (1) In this paragraph “**statement**” has the same meaning as in paragraph 3.
 
 (2) A person (D) does not incur liability under regulation 30(1) for loss caused by a statement if D satisfies the court—
 
@@ -94,7 +94,7 @@ Regulation 30(9)
 
 #### Official statements
 
-**6.**[^key-ee89df9910ffab6673ecf4118ae20003] A person (D) does not incur any liability under regulation 30(1) for loss resulting from—
+**6.**[^c-ee89df9910ffab6673ecf4118ae20003] A person (D) does not incur any liability under regulation 30(1) for loss resulting from—
 
 - (a) a statement made by an official person which is included in the prospectus, or
 - (b) a statement contained in a public official document which is included in the prospectus,
@@ -103,7 +103,7 @@ if D satisfies the court that the statement is accurately and fairly reproduced.
 
 #### False or misleading information known about
 
-**7.**[^key-fc1a388370de09564912ac98600fbff6] A person (D) does not incur any liability under regulation 30(1) or (5) if D satisfies the court that the person suffering the loss acquired the transferable securities in question with knowledge—
+**7.**[^c-fc1a388370de09564912ac98600fbff6] A person (D) does not incur any liability under regulation 30(1) or (5) if D satisfies the court that the person suffering the loss acquired the transferable securities in question with knowledge—
 
 - (a) that the statement was false or misleading,
 - (b) of the omitted matter, or
@@ -113,19 +113,19 @@ as the case may be.
 
 #### Belief that supplementary prospectus not called for
 
-**8.**[^key-096a0039d1ec88810ebb9af0957050e4] (1) A person (D) does not incur any liability under regulation 30(5) if D satisfies the court that D reasonably believed that the circumstances were not such as to give rise under the appropriate rules (as defined by regulation 30(8)) to the obligation to publish a supplementary prospectus
+**8.**[^c-096a0039d1ec88810ebb9af0957050e4] (1) A person (D) does not incur any liability under regulation 30(5) if D satisfies the court that D reasonably believed that the circumstances were not such as to give rise under the appropriate rules (as defined by regulation 30(8)) to the obligation to publish a supplementary prospectus
 
 (2) In this paragraph “**supplementary prospectus**” includes a document falling within regulation 30(6)(a) or (b).
 
 #### Meaning of “expert”
 
-**9.**[^key-a0ee635879f068f4a7b6555d024edfc7] “**Expert**” includes any engineer, valuer, accountant or other person whose profession, qualifications or experience give authority to a statement made by the person.
+**9.**[^c-a0ee635879f068f4a7b6555d024edfc7] “**Expert**” includes any engineer, valuer, accountant or other person whose profession, qualifications or experience give authority to a statement made by the person.
 
 ### PART 3 — Further exemption relating to forward-looking statement
 
 #### “Protected forward-looking statement”
 
-**10.**[^key-897a5738bea6674d6876a1ff5eeb2ea8] (1) For the purposes of this Part of this Schedule, a forward-looking statement in a prospectus is “a protected forward-looking statement” if it—
+**10.**[^c-897a5738bea6674d6876a1ff5eeb2ea8] (1) For the purposes of this Part of this Schedule, a forward-looking statement in a prospectus is “a protected forward-looking statement” if it—
 
 - (a) is of a kind specified by the FCA for the purposes of this paragraph in the appropriate rules, and
 - (b) is accompanied by a statement, in such form as may be required by the appropriate rules, which identifies the statement as a protected forward-looking statement for the purposes of this Part of this Schedule.
@@ -143,7 +143,7 @@ as the case may be.
 
 #### Exemption from liability
 
-**11.**[^key-834b4a389b24fdd27389b5c718dcab36] (1) Unless the condition in sub-paragraph (2) is met, a person responsible for a prospectus (R)—
+**11.**[^c-834b4a389b24fdd27389b5c718dcab36] (1) Unless the condition in sub-paragraph (2) is met, a person responsible for a prospectus (R)—
 
 - (a) does not incur any liability under regulation 30(1) or (5) in respect of any loss caused by a protected forward-looking statement, and
 - (b) is not subject to any other liability in respect of any loss caused by such a statement.
@@ -182,24 +182,24 @@ as the case may be.
 
 ## Annotations
 
-[^key-3b2e81a74e0a267d96d75a40a124127c]: Commencement: Sch. 2 para. 1 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-3b2e81a74e0a267d96d75a40a124127c]: Commencement: Sch. 2 para. 1 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-44dec5f80d3aee9c0c89aa5202cf9b3f]: Commencement: Sch. 2 para. 2 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-44dec5f80d3aee9c0c89aa5202cf9b3f]: Commencement: Sch. 2 para. 2 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-db2288ffe8e74d4e188bfdbc6fcf7b86]: Commencement: Sch. 2 para. 3 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-db2288ffe8e74d4e188bfdbc6fcf7b86]: Commencement: Sch. 2 para. 3 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-4743cf62741cc5a9e05c5dad445b0c96]: Commencement: Sch. 2 para. 4 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-4743cf62741cc5a9e05c5dad445b0c96]: Commencement: Sch. 2 para. 4 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-2b03e982e38a288bb35a3ccda01ed3f0]: Commencement: Sch. 2 para. 5 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-2b03e982e38a288bb35a3ccda01ed3f0]: Commencement: Sch. 2 para. 5 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-ee89df9910ffab6673ecf4118ae20003]: Commencement: Sch. 2 para. 6 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-ee89df9910ffab6673ecf4118ae20003]: Commencement: Sch. 2 para. 6 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-fc1a388370de09564912ac98600fbff6]: Commencement: Sch. 2 para. 7 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-fc1a388370de09564912ac98600fbff6]: Commencement: Sch. 2 para. 7 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-096a0039d1ec88810ebb9af0957050e4]: Commencement: Sch. 2 para. 8 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-096a0039d1ec88810ebb9af0957050e4]: Commencement: Sch. 2 para. 8 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-a0ee635879f068f4a7b6555d024edfc7]: Commencement: Sch. 2 para. 9 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-a0ee635879f068f4a7b6555d024edfc7]: Commencement: Sch. 2 para. 9 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-897a5738bea6674d6876a1ff5eeb2ea8]: Commencement: Sch. 2 para. 10 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-897a5738bea6674d6876a1ff5eeb2ea8]: Commencement: Sch. 2 para. 10 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
-[^key-834b4a389b24fdd27389b5c718dcab36]: Commencement: Sch. 2 para. 11 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-834b4a389b24fdd27389b5c718dcab36]: Commencement: Sch. 2 para. 11 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)

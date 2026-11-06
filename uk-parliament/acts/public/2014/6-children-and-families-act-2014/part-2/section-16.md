@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Care proceedings and care plans: regulations: procedural requirements[^key-e14e31757647de76527e5c85d189e9ec]
+## 16. Care proceedings and care plans: regulations: procedural requirements[^c-e14e31757647de76527e5c85d189e9ec]
 
 *Extent: E+W*
 
@@ -27,10 +27,10 @@ summary: ''
 
   > (3BA) Regulations fall within this subsection if they are regulations made in the exercise of the power conferred by section 31(3C) or 32(9).
 
-(2)[^key-566e5849a511b5eaab2dfe31c0478d3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-566e5849a511b5eaab2dfe31c0478d3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e14e31757647de76527e5c85d189e9ec]: Commencement: S. 16 in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(e)](https://www.legislation.gov.uk/uksi/2014/889/article/4/e) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-e14e31757647de76527e5c85d189e9ec]: Commencement: S. 16 in force at 22.4.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(e)](https://www.legislation.gov.uk/uksi/2014/889/article/4/e) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-566e5849a511b5eaab2dfe31c0478d3a]: Textual amendment: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/16/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [291](https://www.legislation.gov.uk/wsi/2016/413/regulation/291)
+[^c-566e5849a511b5eaab2dfe31c0478d3a]: Textual amendment: [S. 16(2)](https://www.legislation.gov.uk/ukpga/2014/6/section/16/2) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [291](https://www.legislation.gov.uk/wsi/2016/413/regulation/291)

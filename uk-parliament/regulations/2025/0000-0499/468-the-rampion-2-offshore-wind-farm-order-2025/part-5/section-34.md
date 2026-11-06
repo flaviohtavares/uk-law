@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Statutory undertakers[^key-b95449dce740d5879dec75c43a7a9e93]
+## 34. Statutory undertakers[^c-b95449dce740d5879dec75c43a7a9e93]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Subject to the provisions of article 24 (compulsory acquisition of rights and im
 
 ## Annotations
 
-[^key-b95449dce740d5879dec75c43a7a9e93]: Commencement: Art. 34 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-b95449dce740d5879dec75c43a7a9e93]: Commencement: Art. 34 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

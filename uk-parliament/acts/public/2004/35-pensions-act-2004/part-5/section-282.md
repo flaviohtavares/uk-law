@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Meaning of “working life” in Pension Schemes Act 1993[^key-27b77cc9cbb73a0e1c67dad7c1c1e2ac]
+## 282. Meaning of “working life” in Pension Schemes Act 1993[^c-27b77cc9cbb73a0e1c67dad7c1c1e2ac]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In section 181 of the Pension Schemes Act 1993 (c. 48) (general interpretation),
 
 ## Annotations
 
-[^key-27b77cc9cbb73a0e1c67dad7c1c1e2ac]: Commencement: S. 282 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-27b77cc9cbb73a0e1c67dad7c1c1e2ac]: Commencement: S. 282 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

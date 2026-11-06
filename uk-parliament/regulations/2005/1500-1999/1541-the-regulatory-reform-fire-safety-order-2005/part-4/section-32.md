@@ -22,7 +22,7 @@ summary: ''
 
 (1) It is an offence for any responsible person or any other person mentioned in article 5(3) to—
 
-- (a) fail to comply with any requirement or prohibition imposed by articles 8 to 22B[^key-502b31e8448c9ae9a61cf45336cd0abb] and 38 (fire safety duties) where that failure places one or more relevant persons at risk of death or serious injury in case of fire;
+- (a) fail to comply with any requirement or prohibition imposed by articles 8 to 22B[^c-502b31e8448c9ae9a61cf45336cd0abb] and 38 (fire safety duties) where that failure places one or more relevant persons at risk of death or serious injury in case of fire;
 - (b) fail to comply with any requirement or prohibition imposed by regulations made, or having effect as if made, under article 24 where that failure places one or more relevant persons at risk of death or serious injury in case of fire;
 - (c) fail to comply with any requirement imposed by article 29(3) or (4) (alterations notices);
 - (d) fail to comply with any requirement imposed by an enforcement notice;
@@ -47,7 +47,7 @@ summary: ''
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine, or to imprisonment for a term not exceeding two years, or to both.
 
-(4) Any person guilty of an offence under paragraph (1)(e)(i) to (iii) is liable on summary conviction to a fine [^key-268e183d8bd329f33979de4aa47e6f24]....
+(4) Any person guilty of an offence under paragraph (1)(e)(i) to (iii) is liable on summary conviction to a fine [^c-268e183d8bd329f33979de4aa47e6f24]....
 
 (5) Any person guilty of an offence under paragraph (2)(a) is liable—
 
@@ -56,7 +56,7 @@ summary: ''
 
 (6) Any person guilty of an offence under paragraph (2)(b), (c), (d) or (g) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(7) Any person guilty of an offence under paragraph (2)(e) or (f) is liable on summary conviction to a fine [^key-69f7d38ee8250fe055a244344d33d0aa]....
+(7) Any person guilty of an offence under paragraph (2)(e) or (f) is liable on summary conviction to a fine [^c-69f7d38ee8250fe055a244344d33d0aa]....
 
 (8) Where an offence under this Order committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he as well as the body corporate is guilty of that offence, and is liable to be proceeded against and punished accordingly.
 
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-502b31e8448c9ae9a61cf45336cd0abb]: Textual amendment: Word in [art. 32(1)(a)](https://www.legislation.gov.uk/uksi/2005/1541/article/32/1/a) substituted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(10)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/10/a), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
+[^c-502b31e8448c9ae9a61cf45336cd0abb]: Textual amendment: Word in [art. 32(1)(a)](https://www.legislation.gov.uk/uksi/2005/1541/article/32/1/a) substituted (1.10.2023) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(10)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/10/a), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3)
 
-[^key-268e183d8bd329f33979de4aa47e6f24]: Textual amendment: Words in [art. 32(4)](https://www.legislation.gov.uk/uksi/2005/1541/article/32/4) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(10)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/10/b), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/2)); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/914/regulation/6))
+[^c-268e183d8bd329f33979de4aa47e6f24]: Textual amendment: Words in [art. 32(4)](https://www.legislation.gov.uk/uksi/2005/1541/article/32/4) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(10)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/10/b), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/2)); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/914/regulation/6))
 
-[^key-69f7d38ee8250fe055a244344d33d0aa]: Textual amendment: Words in [art. 32(7)](https://www.legislation.gov.uk/uksi/2005/1541/article/32/7) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(10)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/10/c), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/2)); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/914/regulation/6))
+[^c-69f7d38ee8250fe055a244344d33d0aa]: Textual amendment: Words in [art. 32(7)](https://www.legislation.gov.uk/uksi/2005/1541/article/32/7) omitted (1.10.2023) by virtue of [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 156(10)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/156/10/c), [170(4)(b)(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b/c); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 4](https://www.legislation.gov.uk/uksi/2023/362/regulation/4) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2023/362/regulation/5/2)); [S.I. 2023/914](https://www.legislation.gov.uk/uksi/2023/914), [reg. 3](https://www.legislation.gov.uk/uksi/2023/914/regulation/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2023/914/regulation/6))

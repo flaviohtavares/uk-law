@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Disclosure period: caution for good behaviour[^key-c186e0431f261d545a572b7485fd6561]
+## 22. Disclosure period: caution for good behaviour[^c-c186e0431f261d545a572b7485fd6561]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c186e0431f261d545a572b7485fd6561]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/14/section/22) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-c186e0431f261d545a572b7485fd6561]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2019/14/section/22) in force at 30.11.2020 by [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

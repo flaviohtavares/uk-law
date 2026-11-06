@@ -33,7 +33,7 @@ Plant Varieties and Seeds Act 1964
 
 An Act to provide for the granting of proprietary rights to persons who breed or discover plant varieties and for the issue of compulsory licences in respect thereof; to establish a tribunal to hear appeals and other proceedings relating to the rights, and to exclude certain agreements relating to the rights from Part I of the Restrictive Trade Practices Act 1956; to confer power to regulate, and to amend in other respects the law relating to, transactions in seeds and seed potatoes, including provision for the testing of seeds and seed potatoes, the establishment of an index of names of varieties and the imposition of restrictions as respects the introduction of new varieties; to control the import of seeds and seed potatoes; to authorise measures to prevent injurious cross-pollination; and for connected purposes.
 
-\[12th March 1964\][^c738529][^c738531][^c738532][^c738534][^c738536][^key-7bbc1b57ab8181231c4241064120c236]
+\[12th March 1964\][^c738529][^c738531][^c738532][^c738534][^c738536][^c-7bbc1b57ab8181231c4241064120c236]
 
 ## Part I — . . .[^c738542]
 
@@ -385,7 +385,7 @@ is false in a material particular and the person giving the information or makin
 
 ### Regulation of sales
 
-#### 16. Seeds regulations.[^c738698][^key-52f53bff673691dd91695a42dfb7c690][^c738697]
+#### 16. Seeds regulations.[^c738698][^c-52f53bff673691dd91695a42dfb7c690][^c738697]
 
 (1)[^c738699][^c738700][^c738701][^c738702] The Minister, after consultation with representatives of such interests as appear to him to be concerned, may by statutory instrument make such regulations as appear to him to be necessary or expedient for the purpose—
 
@@ -446,20 +446,20 @@ and regulations under this section shall be known as seeds regulations.
 
 (7) If any person—
 
-- (a)[^key-c9062571917849f8097d832a22aa98aa] in a statutory statement includes anything which is false in a material particular, or
+- (a)[^c-c9062571917849f8097d832a22aa98aa] in a statutory statement includes anything which is false in a material particular, or
 - (b) contravenes any provision contained in seeds regulations he shall be liable on summary conviction to a fine not exceeding[^c738717] level 5 on the standard scale[^c738718].
 
 (8)[^c738699][^c738700][^c738702][^c738719] The Ministers acting jointly may make seeds regulations for the whole of Great Britain.
 
-#### 17. Civil liabilities of sellers of seeds.[^key-52f53bff673691dd91695a42dfb7c690]
+#### 17. Civil liabilities of sellers of seeds.[^c-52f53bff673691dd91695a42dfb7c690]
 
 *Extent: E+W+S*
 
 (1) If and so far as seeds regulations provide that a statutory statement shall constitute a statutory warranty for the purposes of this section, the statutory statement, when received by the purchaser, shall, notwithstanding any contract or notice to the contrary, have effect as a written warranty by the seller that the particulars contained in the statutory statement are correct.
 
-(2)[^c738723][^c2101691][^key-60e9ce222e57b862e617927f41aaf4c0][^key-617d75751aad8f89237d2d43bd22fd96][^key-2bee9f1438ac1ab12b75b6540875bdae][^key-e105ccea2ab075e75e42145f7213cc15][^key-b292633415f38837cc5344479dd36136][^key-4fd0e6d615ab7f9cb0edb9b871d4806d][^key-8908c5be89471e97819b9fe1df24f48a][^key-48c1664318c2a2f896e9a66b2d9a86e8][^key-db1665c00401abb56a20edc6997d5f3f][^key-c303435d92c2d24868e0399c418567e5] If and so far as seeds regulations apply this subsection to the particulars in a statutory statement and prescribe limits of variation in relation to those particulars, those particulars shall, for the purposes of any legal proceedings on a contract for the sale of the seeds to which the statutory statement relates, be deemed to be true except so far as there is a mis-statement in the statutory particulars which exceeds the limits of variation so prescribed.
+(2)[^c738723][^c2101691][^c-60e9ce222e57b862e617927f41aaf4c0][^c-617d75751aad8f89237d2d43bd22fd96][^c-2bee9f1438ac1ab12b75b6540875bdae][^c-e105ccea2ab075e75e42145f7213cc15][^c-b292633415f38837cc5344479dd36136][^c-4fd0e6d615ab7f9cb0edb9b871d4806d][^c-8908c5be89471e97819b9fe1df24f48a][^c-48c1664318c2a2f896e9a66b2d9a86e8][^c-db1665c00401abb56a20edc6997d5f3f][^c-c303435d92c2d24868e0399c418567e5] If and so far as seeds regulations apply this subsection to the particulars in a statutory statement and prescribe limits of variation in relation to those particulars, those particulars shall, for the purposes of any legal proceedings on a contract for the sale of the seeds to which the statutory statement relates, be deemed to be true except so far as there is a mis-statement in the statutory particulars which exceeds the limits of variation so prescribed.
 
-(3)[^c738724][^c2101692][^key-e37c6a91acd992a7fb6b4a35f7d930d8][^key-14c016a30b0a69ab2139aad4bc8c1202][^key-d2c752b8dd9efafb05333800d64e52df][^key-34bb0150d9755ed689c1254e1677cc78][^key-ceee580229ae89cd3cb731fb19627dcb][^key-0b6b760d9fda69648614e986e778a84f][^key-f888016c2ad58c98a4139d03283746fd][^key-2c35e9a13e9c4b05af686f0e9f088bb9][^key-84b60d73ed206e3136a04b81ae259223][^key-02a4797ceda574abfe625e79f0c3a5c7] If and so far as seeds regulations apply this subsection to the particulars in a statutory statement, the particulars in the statutory statement shall, for the purposes of any legal proceedings on a contract for the sale of the seeds to which the statutory statement relates, be deemed to be true unless it is made to appear on a test carried out at an official testing station, and made on a sample taken in the manner, and within the period, prescribed by seeds regulations, that the particulars were untrue.
+(3)[^c738724][^c2101692][^c-e37c6a91acd992a7fb6b4a35f7d930d8][^c-14c016a30b0a69ab2139aad4bc8c1202][^c-d2c752b8dd9efafb05333800d64e52df][^c-34bb0150d9755ed689c1254e1677cc78][^c-ceee580229ae89cd3cb731fb19627dcb][^c-0b6b760d9fda69648614e986e778a84f][^c-f888016c2ad58c98a4139d03283746fd][^c-2c35e9a13e9c4b05af686f0e9f088bb9][^c-84b60d73ed206e3136a04b81ae259223][^c-02a4797ceda574abfe625e79f0c3a5c7] If and so far as seeds regulations apply this subsection to the particulars in a statutory statement, the particulars in the statutory statement shall, for the purposes of any legal proceedings on a contract for the sale of the seeds to which the statutory statement relates, be deemed to be true unless it is made to appear on a test carried out at an official testing station, and made on a sample taken in the manner, and within the period, prescribed by seeds regulations, that the particulars were untrue.
 
 (4) Where a purchaser intends to obtain a test of seeds for the purposes of subsection (3) of this section, the seller of the seeds shall be given written notice of the purchaser’s intention not more than the prescribed period after delivery to the purchaser of the seeds under the sale, and seeds regulations shall prescribe a procedure for taking a sample of seeds to be tested for the purposes of that subsection which will afford to the seller of the seeds or his agent an opportunity of being present when the sample is taken, and of obtaining part of the sample.
 
@@ -467,7 +467,7 @@ and regulations under this section shall be known as seeds regulations.
 
 (6) In Scotland a contract for the sale of seeds may not be treated as repudiated by reason only of a breach of a written warranty having effect by virtue of subsection (1) of this section.
 
-#### 18. Defences in proceedings for offences against seeds regulations.[^key-52f53bff673691dd91695a42dfb7c690]
+#### 18. Defences in proceedings for offences against seeds regulations.[^c-52f53bff673691dd91695a42dfb7c690]
 
 (1) If and so far as seeds regulations for the purposes of this section prescribe limits of variation in relation to the particulars in a statutory statement, it shall be a defence to proceedings under this Act for including in a statutory statement any false particulars to prove that the mis-statements in the particulars alleged to be false do not exceed the limits of variation so prescribed.
 
@@ -488,7 +488,7 @@ to prove—
   - (i) the accused purchased the seeds from another person who, in connection with the sale, duly delivered to the accused a statutory statement giving particulars of the seeds which were the same as the particulars alleged to be false, and
   - (ii) the accused had no reason to believe that paragraph (a) of this subsection did not apply in relation to those particulars.
 
-#### 19. Presumption as respects statutory statements under seeds regulations.[^key-52f53bff673691dd91695a42dfb7c690]
+#### 19. Presumption as respects statutory statements under seeds regulations.[^c-52f53bff673691dd91695a42dfb7c690]
 
 For the purposes of this Part of this Act and of any seeds regulations, any statutory statement made as respects seeds which are in distinct portions shall be presumed to be made both as respects the seeds as a whole and also as respects each portion taken separately.
 
@@ -498,7 +498,7 @@ For the purposes of this Part of this Act and of any seeds regulations, any stat
 
 *Extent: E+W+S*
 
-#### 24. Official testing stations and certificates of test.[^key-6b462a4975ab38cf4127dd734ad79f4b]
+#### 24. Official testing stations and certificates of test.[^c-6b462a4975ab38cf4127dd734ad79f4b]
 
 (1) Subject to this section, the Minister of Agriculture, Fisheries and Food and the Secretary of State shall respectively continue to maintain the official seed testing stations established for England and Wales and for Scotland under the [^c738728]Seeds Act 1920.
 
@@ -506,9 +506,9 @@ For the purposes of this Part of this Act and of any seeds regulations, any stat
 
 (3) Either or both of the Ministers may at any time alter the arrangements made by them for official seed testing stations for England and Wales and for Scotland respectively, and any official seed testing station established by either or both of them may be established in conjunction with any other bodies or persons.
 
-(4)[^key-451cc95ba1c3a4c9eb0249571803c751] The Minister or Ministers concerned may, subject to the approval of the Treasury, authorise the charging of fees for the services given at an official seed testing station.
+(4)[^c-451cc95ba1c3a4c9eb0249571803c751] The Minister or Ministers concerned may, subject to the approval of the Treasury, authorise the charging of fees for the services given at an official seed testing station.
 
-(5)[^key-c5f4af1e7b7061eb678d07da517bc92d] A certificate of the result of a test at an official seed testing station of a sample taken by an authorised officer for the purposes of this Part of this Act shall be in the form prescribed by seeds regulations.
+(5)[^c-c5f4af1e7b7061eb678d07da517bc92d] A certificate of the result of a test at an official seed testing station of a sample taken by an authorised officer for the purposes of this Part of this Act shall be in the form prescribed by seeds regulations.
 
 (6) A certificate of the result of a test at an official seed testing station of a sample taken for the purposes of this Act, and purporting to be issued by an officer of an official seed testing station,—
 
@@ -521,9 +521,9 @@ unless, in either case, either party to the proceedings requires that the person
 
 ### Supplemental[^c738729]
 
-#### 25. Powers of entry.[^c738731][^key-4f79e13f0f39451c61de1b35f056f2bb][^key-3b3c079b5c4f1416e7a9aacec6033177][^key-75c48fdf52bda09327d63bb39eae995c][^key-4c1c34cf86edba91f8a8191badc02fd6][^key-5a614b87bb5444f23aec37797bce71bb][^key-6b462a4975ab38cf4127dd734ad79f4b][^c738730]
+#### 25. Powers of entry.[^c738731][^c-4f79e13f0f39451c61de1b35f056f2bb][^c-3b3c079b5c4f1416e7a9aacec6033177][^c-75c48fdf52bda09327d63bb39eae995c][^c-4c1c34cf86edba91f8a8191badc02fd6][^c-5a614b87bb5444f23aec37797bce71bb][^c-6b462a4975ab38cf4127dd734ad79f4b][^c738730]
 
-(1)[^c738732][^key-9d9f11c83baf5138c38d8120bec6cc08] The powers of entry conferred by subsections (3) and (4) of this section may be exercised for the purpose of exercising—
+(1)[^c738732][^c-9d9f11c83baf5138c38d8120bec6cc08] The powers of entry conferred by subsections (3) and (4) of this section may be exercised for the purpose of exercising—
 
 - (a) the further powers conferred by subsections (5) and (6) of this section, or
 - (b) any powers of calling for, inspecting or taking copies of records or other documents conferred by seeds regulations,
@@ -534,7 +534,7 @@ or for the purpose of ascertaining whether there is, or has been, on or in conne
 
 (3) Any person duly authorised by the Minister in that behalf may, on production if so required of his authority, at all reasonable hours enter any premises which he has reasonable cause to believe to be used for any purpose of a business in the course of which seeds are sold, whether the sale is by wholesale or retail, and whether the person conducting it acts as principal or agent.
 
-(4)[^c738733][^key-deb7e35d4770f5de4111c3c2b89bf679] Any person duly authorised by the Minister in that behalf may, on production if so required of his authority, at all reasonable hours enter any premises on which he has reasonable cause to believe that there are any seed potatoes which have been sold and which are to be delivered, or are in the course of delivery, to the purchaser, and the power of entry under this subsection may be exercised when the seed potatoes are in transit in the course of delivery to the purchaser, and in particular when they are in any vehicle or vessel in the course of delivery.
+(4)[^c738733][^c-deb7e35d4770f5de4111c3c2b89bf679] Any person duly authorised by the Minister in that behalf may, on production if so required of his authority, at all reasonable hours enter any premises on which he has reasonable cause to believe that there are any seed potatoes which have been sold and which are to be delivered, or are in the course of delivery, to the purchaser, and the power of entry under this subsection may be exercised when the seed potatoes are in transit in the course of delivery to the purchaser, and in particular when they are in any vehicle or vessel in the course of delivery.
 
 (5) A person may, on any premises (including any vehicle or vessel) which he has power under this section to enter for the purpose of exercising the powers conferred by this subsection, examine any seeds which he finds there and may without payment take samples of any seeds so found.
 
@@ -553,29 +553,29 @@ and references in this Part of this Act to a statutory statement shall include r
 
 (9)[^c738736][^c738738] A person who obstructs or impedes any person acting in the exercise of the powers conferred by this section shall be liable on summary conviction to a fine not exceeding twenty pounds.
 
-#### 26. Use of samples in criminal proceedings.[^c738740][^key-050f666db008481ddb8cc7a977831b8c][^key-6b462a4975ab38cf4127dd734ad79f4b][^c738739]
+#### 26. Use of samples in criminal proceedings.[^c738740][^c-050f666db008481ddb8cc7a977831b8c][^c-6b462a4975ab38cf4127dd734ad79f4b][^c738739]
 
 (1) Evidence shall not be adduced in proceedings for an offence under this Part of this Act respecting a sample taken by an authorised officer unless the sample was taken in the manner prescribed by seeds regulations.
 
-(2)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-59725998b0c088bf8790f37062d1320b][^key-2d92bcbf3586fd7657bc80342345230b][^key-9c3c90a11f5f0fa2dca091f943d08410] Seeds regulations shall provide for the sample being divided into at least two parts, and for one of the parts being given to the owner of the seeds or to such other person as may be prescribed by seeds regulations, and shall provide for a third part of the sample to be retained for production in all cases where use of it may be made by the court under this section.
+(2)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-59725998b0c088bf8790f37062d1320b][^c-2d92bcbf3586fd7657bc80342345230b][^c-9c3c90a11f5f0fa2dca091f943d08410] Seeds regulations shall provide for the sample being divided into at least two parts, and for one of the parts being given to the owner of the seeds or to such other person as may be prescribed by seeds regulations, and shall provide for a third part of the sample to be retained for production in all cases where use of it may be made by the court under this section.
 
 (3) A certificate in the form prescribed by seeds regulations purporting to be issued by an authorised officer and stating that a sample was taken in the prescribed manner shall be sufficient evidence of the facts stated in the certificate.
 
-(4)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-c5075ef2fc36f4c8630936aef9a7c3b8][^key-477d0b1daee723b2ef856dac0bddb260][^key-fd9d7545f69209bdfe4de937317d7cd3] If part of a sample taken by an authorised officer is sent to the chief officer of an official testing station, it shall be so sent as soon as practicable after the sample is taken, and the person to whom any other part of the sample is given shall be informed before the first-mentioned part is sent.
+(4)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-c5075ef2fc36f4c8630936aef9a7c3b8][^c-477d0b1daee723b2ef856dac0bddb260][^c-fd9d7545f69209bdfe4de937317d7cd3] If part of a sample taken by an authorised officer is sent to the chief officer of an official testing station, it shall be so sent as soon as practicable after the sample is taken, and the person to whom any other part of the sample is given shall be informed before the first-mentioned part is sent.
 
-(5)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-c5075ef2fc36f4c8630936aef9a7c3b8][^key-477d0b1daee723b2ef856dac0bddb260][^key-fd9d7545f69209bdfe4de937317d7cd3] A copy of a certificate issued by an official testing station stating the result of a test of part of a sample taken by an authorised officer shall be sent to the person to whom any other part of the sample is given.
+(5)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-c5075ef2fc36f4c8630936aef9a7c3b8][^c-477d0b1daee723b2ef856dac0bddb260][^c-fd9d7545f69209bdfe4de937317d7cd3] A copy of a certificate issued by an official testing station stating the result of a test of part of a sample taken by an authorised officer shall be sent to the person to whom any other part of the sample is given.
 
-(6)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-c5075ef2fc36f4c8630936aef9a7c3b8][^key-477d0b1daee723b2ef856dac0bddb260][^key-53d2db6373232eb745b4b9ba04108bda] In any proceedings for an offence under this Part of this Act in respect of seeds which have been sampled by an authorised officer, the summons shall not be made returnable, and, in Scotland, the case shall not proceed to trial, less than fourteen days from the day on which the summons or complaint is served, and a copy of any certificate of an official testing station which the prosecutor intends to adduce as evidence shall be served with the summons or complaint.
+(6)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-c5075ef2fc36f4c8630936aef9a7c3b8][^c-477d0b1daee723b2ef856dac0bddb260][^c-53d2db6373232eb745b4b9ba04108bda] In any proceedings for an offence under this Part of this Act in respect of seeds which have been sampled by an authorised officer, the summons shall not be made returnable, and, in Scotland, the case shall not proceed to trial, less than fourteen days from the day on which the summons or complaint is served, and a copy of any certificate of an official testing station which the prosecutor intends to adduce as evidence shall be served with the summons or complaint.
 
-(7)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-c5075ef2fc36f4c8630936aef9a7c3b8][^key-477d0b1daee723b2ef856dac0bddb260][^key-53d2db6373232eb745b4b9ba04108bda] In proceedings for including in a statutory statement false particulars concerning matters which are under seeds regulations to be ascertained, for the purpose of the statement, by a test of the seeds, if any sample of the seeds has been taken by an authorised officer, the third part of that sample required by seeds regulations to be retained as mentioned in subsection (2) of this section shall be produced at the hearing.
+(7)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-c5075ef2fc36f4c8630936aef9a7c3b8][^c-477d0b1daee723b2ef856dac0bddb260][^c-53d2db6373232eb745b4b9ba04108bda] In proceedings for including in a statutory statement false particulars concerning matters which are under seeds regulations to be ascertained, for the purpose of the statement, by a test of the seeds, if any sample of the seeds has been taken by an authorised officer, the third part of that sample required by seeds regulations to be retained as mentioned in subsection (2) of this section shall be produced at the hearing.
 
-(8)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-c5075ef2fc36f4c8630936aef9a7c3b8][^key-0d02b79fad8efa38db438d98bb14ab21][^key-477d0b1daee723b2ef856dac0bddb260] The court may, if it thinks fit, on the request of either party, cause the part so produced to be sent to the chief officer of an official testing station, who shall transmit to the court a certificate of the result of a test of that part of the sample.
+(8)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-c5075ef2fc36f4c8630936aef9a7c3b8][^c-0d02b79fad8efa38db438d98bb14ab21][^c-477d0b1daee723b2ef856dac0bddb260] The court may, if it thinks fit, on the request of either party, cause the part so produced to be sent to the chief officer of an official testing station, who shall transmit to the court a certificate of the result of a test of that part of the sample.
 
-(9)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^key-c5075ef2fc36f4c8630936aef9a7c3b8][^key-0d02b79fad8efa38db438d98bb14ab21][^key-477d0b1daee723b2ef856dac0bddb260] If, in a case where an appeal is brought, no action has been taken under the last foregoing subsection the provisions of that subsection shall apply also to the court by which the appeal is heard.
+(9)[^M_C_966728b1-da08-4453-f7b7-1bb0af20ae75][^c738741][^c-c5075ef2fc36f4c8630936aef9a7c3b8][^c-0d02b79fad8efa38db438d98bb14ab21][^c-477d0b1daee723b2ef856dac0bddb260] If, in a case where an appeal is brought, no action has been taken under the last foregoing subsection the provisions of that subsection shall apply also to the court by which the appeal is heard.
 
-(10)[^key-9b90c61177df3ff5ad518d1e22380cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-9b90c61177df3ff5ad518d1e22380cfd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 27. Tampering with samples.[^c738749][^key-6b462a4975ab38cf4127dd734ad79f4b]
+#### 27. Tampering with samples.[^c738749][^c-6b462a4975ab38cf4127dd734ad79f4b]
 
 (1)[^c738750] If any person—
 
@@ -587,7 +587,7 @@ he shall be liable on summary conviction to a fine not exceeding one hundred pou
 
 (2) In this section “**licensed testing establishment**” means an establishment licensed under seeds regulations for the testing of seeds.
 
-#### 28. Institution of criminal proceedings.[^c738758][^key-6b462a4975ab38cf4127dd734ad79f4b]
+#### 28. Institution of criminal proceedings.[^c738758][^c-6b462a4975ab38cf4127dd734ad79f4b]
 
 *Extent: E+W+S*
 
@@ -601,25 +601,25 @@ A certificate purporting to be issued by an authorised officer and stating that 
 
 (3)[^c738768] Proceedings for an offence under this Part of this Act relating to a statutory statement which has been delivered to a purchaser of seeds, or relating to seeds which have been sold and delivered to the purchaser, may be brought before a court having jurisdiction at the place of delivery of the statement or seeds.
 
-#### 29. Application of Part II to seed potatoes , other propagating material and planting material.[^key-6b462a4975ab38cf4127dd734ad79f4b][^key-4aa041837aa345e0ff2197cf0e0f3b07]
+#### 29. Application of Part II to seed potatoes , other propagating material and planting material.[^c-6b462a4975ab38cf4127dd734ad79f4b][^c-4aa041837aa345e0ff2197cf0e0f3b07]
 
-(1)[^c738773] This Part of this Act applies to seed potatoes and any other vegetative propagating material, to vegetative planting material[^key-5504ced3f9a61ffb983235e7353c324a][^c738774] and to silvicultural planting material as it applies to seeds, and accordingly, except where the context otherwise requires, references in this Part of this Act to seeds include references to seed potatoes and any other vegetative propagating material, to vegetative planting material and to silvicultural planting material.
+(1)[^c738773] This Part of this Act applies to seed potatoes and any other vegetative propagating material, to vegetative planting material[^c-5504ced3f9a61ffb983235e7353c324a][^c738774] and to silvicultural planting material as it applies to seeds, and accordingly, except where the context otherwise requires, references in this Part of this Act to seeds include references to seed potatoes and any other vegetative propagating material, to vegetative planting material and to silvicultural planting material.
 
-(2)[^c738777][^c738776] The *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] appropriate authority[^key-8e1d114c98df2a5afe1d925b2ecab5c1] *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] may establish and maintain an official seed testing station for silvicultural propagating and planting material, and seeds regulations may confer on *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority[^key-3086acf33dbfde044209c85d72cc25cc] *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] any functions the regulations may confer on a Minister, and *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority[^key-fec8dfa7b0ddbcd9dd8aab6698eb2dd0] *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] may charge or authorise the charging of fees for services given at any such station or in connection with any such functions; and accordingly— *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584]
+(2)[^c738777][^c738776] The *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] appropriate authority[^c-8e1d114c98df2a5afe1d925b2ecab5c1] *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] may establish and maintain an official seed testing station for silvicultural propagating and planting material, and seeds regulations may confer on *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority[^c-3086acf33dbfde044209c85d72cc25cc] *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] any functions the regulations may confer on a Minister, and *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority[^c-fec8dfa7b0ddbcd9dd8aab6698eb2dd0] *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] may charge or authorise the charging of fees for services given at any such station or in connection with any such functions; and accordingly— *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-3d33486cf7c3b044aff73bfa07f73584] references in this part of the Act to an authorised officer shall include an officer of *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584]; and *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584]
-- (b (Extent: S) (affected by repeal, see note))[^key-3d33486cf7c3b044aff73bfa07f73584] in section 25 above the references in subsections (3), (4) and (6) to a person duly authorised by the Minister shall include a person duly authorised by *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584]. *(Extent: S)* *(affected by repeal, see note)*[^key-3d33486cf7c3b044aff73bfa07f73584]
+- (a (Extent: S) (affected by repeal, see note))[^c-3d33486cf7c3b044aff73bfa07f73584] references in this part of the Act to an authorised officer shall include an officer of *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584]; and *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584]
+- (b (Extent: S) (affected by repeal, see note))[^c-3d33486cf7c3b044aff73bfa07f73584] in section 25 above the references in subsections (3), (4) and (6) to a person duly authorised by the Minister shall include a person duly authorised by *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584] the appropriate authority *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584]. *(Extent: S)* *(affected by repeal, see note)*[^c-3d33486cf7c3b044aff73bfa07f73584]
 
 Any expenses incurred or fees received by the Commissioners by virtue of this subsection shall be defrayed, or as the case may be treated, in accordance with section 41 of the Forestry Act 1967.[^c738778]
 
-(3) In relation to matters concerning silvicultural propagating or planting material or concerning the appropriate authority[^key-9cfe7cc9a031b19d181cbbfd00b0711d], “the Minister” shall in this Part of this Act mean, in relation to Wales and Monmouthshire, the Secretary of State, and the reference in section 16(8) to the Ministers shall be construed accordingly.
+(3) In relation to matters concerning silvicultural propagating or planting material or concerning the appropriate authority[^c-9cfe7cc9a031b19d181cbbfd00b0711d], “the Minister” shall in this Part of this Act mean, in relation to Wales and Monmouthshire, the Secretary of State, and the reference in section 16(8) to the Ministers shall be construed accordingly.
 
-(4)[^key-5fd1c8d393bda591acfaa73d2b418eb5] In this section “appropriate authority” means— *(Extent: S)* *(affected by repeal, see note)*[^key-40b20daa805bdea2ca376ce8c1f423e0]
+(4)[^c-5fd1c8d393bda591acfaa73d2b418eb5] In this section “appropriate authority” means— *(Extent: S)* *(affected by repeal, see note)*[^c-40b20daa805bdea2ca376ce8c1f423e0]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-40b20daa805bdea2ca376ce8c1f423e0] in relation to Wales, the Welsh Ministers; *(Extent: S)* *(affected by repeal, see note)*[^key-40b20daa805bdea2ca376ce8c1f423e0]
-- (b (Extent: S) (affected by repeal, see note))[^key-40b20daa805bdea2ca376ce8c1f423e0] in all other respects, the Forestry Commissioners. *(Extent: S)* *(affected by repeal, see note)*[^key-40b20daa805bdea2ca376ce8c1f423e0]
+- (a (Extent: S) (affected by repeal, see note))[^c-40b20daa805bdea2ca376ce8c1f423e0] in relation to Wales, the Welsh Ministers; *(Extent: S)* *(affected by repeal, see note)*[^c-40b20daa805bdea2ca376ce8c1f423e0]
+- (b (Extent: S) (affected by repeal, see note))[^c-40b20daa805bdea2ca376ce8c1f423e0] in all other respects, the Forestry Commissioners. *(Extent: S)* *(affected by repeal, see note)*[^c-40b20daa805bdea2ca376ce8c1f423e0]
 
-#### 30. Interpretation of Part II.[^key-6b462a4975ab38cf4127dd734ad79f4b][^c738779]
+#### 30. Interpretation of Part II.[^c-6b462a4975ab38cf4127dd734ad79f4b][^c738779]
 
 (1) In this Part of this Act, unless the context otherwise requires,—
 
@@ -636,7 +636,7 @@ Any expenses incurred or fees received by the Commissioners by virtue of this su
 
 *Extent: E+W+S*
 
-(1) The enactments mentioned in Schedule 6 to this Act (which include certain enactments which were obsolete before the passing of this Act) shall, [^key-f7d59f4f89fc43ae8f4fe8819f0b5d0b]... be repealed to the extent specified in the third column of that Schedule.
+(1) The enactments mentioned in Schedule 6 to this Act (which include certain enactments which were obsolete before the passing of this Act) shall, [^c-f7d59f4f89fc43ae8f4fe8819f0b5d0b]... be repealed to the extent specified in the third column of that Schedule.
 
 (2)[^c738783]
 
@@ -646,7 +646,7 @@ Any expenses incurred or fees received by the Commissioners by virtue of this su
 
 ### 32. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c738784]
 
-### 33. Measures to prevent injurious cross-pollination affecting crops of seeds.[^key-dbb692bfbf78da5919d2b19ca5b65f60]
+### 33. Measures to prevent injurious cross-pollination affecting crops of seeds.[^c-dbb692bfbf78da5919d2b19ca5b65f60]
 
 (1) This section shall have effect for the purpose of maintaining the purity of seed of any types and varieties of plants of any species of the genus Allium, Beta or Brassica.
 
@@ -697,19 +697,19 @@ The Minister may recover from the person on whom the notice was served a sum equ
 
 ## Part IV — General[^c738791][^c738792]
 
-### 34. The gazette.[^key-2f48c88a48380e82e550a54dd9c0bd05]
+### 34. The gazette.[^c-2f48c88a48380e82e550a54dd9c0bd05]
 
 (1) The Ministers shall from time to time publish a gazette (in this Act referred to as “**the gazette**”), and shall use the gazette as one of the means of publishing notice of matters to be published under this Act or Part I of the Plant Varieties Act 1997[^c738795].
 
 (2) It shall be no defence in civil or criminal proceedings to show that at any time a person did not know of an entry in the register under section 18 of the Plant Varieties Act 1997[^c738796], . . . [^c738797], if before that time notice of that entry . . . [^c738797] had been published in the gazette.
 
-### 35. General provisions as to offences.[^key-2f48c88a48380e82e550a54dd9c0bd05]
+### 35. General provisions as to offences.[^c-2f48c88a48380e82e550a54dd9c0bd05]
 
 (1) Where an offence punishable under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) Proceedings for any offence punishable under this Act may (without prejudice to any jurisdiction exercisable apart from this subsection) be taken against a person before the appropriate court in Great Britain having jurisdiction in the place where that person is for the time being.
 
-### 36. Supplemental provisions as to regulations.[^c738805][^c738806][^c738807][^key-2f48c88a48380e82e550a54dd9c0bd05]
+### 36. Supplemental provisions as to regulations.[^c738805][^c738806][^c738807][^c-2f48c88a48380e82e550a54dd9c0bd05]
 
 Regulations under this Act—
 
@@ -728,7 +728,7 @@ Regulations under this Act—
 
 (2) Any fees received by virtue of this Act by a Minister [^c738811]. . . shall be paid into the Exchequer.
 
-### 38. Interpretation.[^key-f9d298ea6561cc526623bba526eb8e34]
+### 38. Interpretation.[^c-f9d298ea6561cc526623bba526eb8e34]
 
 (1) In this Act—
 
@@ -774,9 +774,9 @@ Her Majesty may by Order in Council direct that any of the provisions of this Ac
 
 ### 41. Short title and commencement.
 
-(1)[^key-d29556079fe99b6af92207fa1c5808fb] This Act may be cited as the Plant Varieties and Seeds Act 1964.
+(1)[^c-d29556079fe99b6af92207fa1c5808fb] This Act may be cited as the Plant Varieties and Seeds Act 1964.
 
-(2)[^key-cd695525562a6b0850ea687b93b5bbc1][^c738869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cd695525562a6b0850ea687b93b5bbc1][^c738869] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 SCHEDULES
 
@@ -1075,7 +1075,7 @@ Section 31.
 | 2 & 3 Eliz. 2. c. 39. | The Agriculture (Miscellaneous Provisions) Act 1954. | Section 12. |
 | 1963 c. 11 | The Agriculture (Miscellaneous Provisions) Act 1963. | Section 24. |
 
-## SCHEDULE 7 — Cross-Pollination Injuring Protected Crops[^key-a7d3105af3757e1621094bbbc3b828fa]
+## SCHEDULE 7 — Cross-Pollination Injuring Protected Crops[^c-a7d3105af3757e1621094bbbc3b828fa]
 
 *Extent: E+W+S*
 
@@ -1105,7 +1105,7 @@ Section 33.
 
 [^c738536]: Modification: Act: transfer of functions, property, rights and liabilities (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [arts. 2(1)(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1/5), [4](https://www.legislation.gov.uk/uksi/1999/3141/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/1999/3141/article/3), [5](https://www.legislation.gov.uk/uksi/1999/3141/article/5))
 
-[^key-7bbc1b57ab8181231c4241064120c236]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1964/14) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 8(1)](https://www.legislation.gov.uk/uksi/2018/644/article/8/1)
+[^c-7bbc1b57ab8181231c4241064120c236]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1964/14) functions transferred (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [art. 8(1)](https://www.legislation.gov.uk/uksi/2018/644/article/8/1)
 
 [^c738542]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/1964/14/part/I) repealed (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 52](https://www.legislation.gov.uk/ukpga/1997/66/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/66/schedule/4); [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
@@ -1187,7 +1187,7 @@ Section 33.
 
 [^c738698]: Subordinate legislation: [S. 16](https://www.legislation.gov.uk/ukpga/1964/14/section/16): for previous exercises of this power see Index to Government Orders.
 
-[^key-52f53bff673691dd91695a42dfb7c690]: Modification: [Ss. 16-19](https://www.legislation.gov.uk/ukpga/1964/14/section/16) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-52f53bff673691dd91695a42dfb7c690]: Modification: [Ss. 16-19](https://www.legislation.gov.uk/ukpga/1964/14/section/16) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
 
 [^c738697]: Modification: [S. 16](https://www.legislation.gov.uk/ukpga/1964/14/section/16) (in part) extended (N.I.) by [S.I. 1973/609](https://www.legislation.gov.uk/uksi/1973/609), [art. 1](https://www.legislation.gov.uk/uksi/1973/609/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1973/609/schedule)
 
@@ -1213,7 +1213,7 @@ Section 33.
 
 [^c738716]: Textual amendment: [S. 16(5A)](https://www.legislation.gov.uk/ukpga/1964/14/section/16/5A) inserted (E.W.S.) by Agriculture Act 1986 (c. 49 SIF 2:1), s. 2
 
-[^key-c9062571917849f8097d832a22aa98aa]: Modification: [S. 16(7)(a)](https://www.legislation.gov.uk/ukpga/1964/14/section/16/7/a) modified (W.) (29.2.2016) by [The Seed Potatoes (Wales) Regulations 2016 (S.I. 2016/106)](https://www.legislation.gov.uk/wsi/2016/106), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/106/regulation/1/2), [13(8)](https://www.legislation.gov.uk/wsi/2016/106/regulation/13/8)
+[^c-c9062571917849f8097d832a22aa98aa]: Modification: [S. 16(7)(a)](https://www.legislation.gov.uk/ukpga/1964/14/section/16/7/a) modified (W.) (29.2.2016) by [The Seed Potatoes (Wales) Regulations 2016 (S.I. 2016/106)](https://www.legislation.gov.uk/wsi/2016/106), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/106/regulation/1/2), [13(8)](https://www.legislation.gov.uk/wsi/2016/106/regulation/13/8)
 
 [^c738717]: Textual amendment: Words substituted by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/5/2)
 
@@ -1225,49 +1225,49 @@ Section 33.
 
 [^c2101691]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (E.) (31.1.2003) by: [S.I. 2002/3171](https://www.legislation.gov.uk/uksi/2002/3171), [reg. 24(2)](https://www.legislation.gov.uk/uksi/2002/3171/regulation/24/2); [S.I. 2002/3172](https://www.legislation.gov.uk/uksi/2002/3172), [reg. 27(2)](https://www.legislation.gov.uk/uksi/2002/3172/regulation/27/2); [S.I. 2002/3173](https://www.legislation.gov.uk/uksi/2002/3173), [reg. 27(2)](https://www.legislation.gov.uk/uksi/2002/3173/regulation/27/2); [S.I. 2002/3174](https://www.legislation.gov.uk/uksi/2002/3174), [reg. 27(2)](https://www.legislation.gov.uk/uksi/2002/3174/regulation/27/2); [S.I. 2002/3175](https://www.legislation.gov.uk/uksi/2002/3175), [reg. 27(2)](https://www.legislation.gov.uk/uksi/2002/3175/regulation/27/2)
 
-[^key-60e9ce222e57b862e617927f41aaf4c0]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (26.9.2004) by [Oil and Fibre Plant Seed (Scotland) Regulations 2004 (No. 317)](https://www.legislation.gov.uk/ssi/2004/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1), [23(2)](https://www.legislation.gov.uk/ssi/2004/317/regulation/23/2)
+[^c-60e9ce222e57b862e617927f41aaf4c0]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (26.9.2004) by [Oil and Fibre Plant Seed (Scotland) Regulations 2004 (No. 317)](https://www.legislation.gov.uk/ssi/2004/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1), [23(2)](https://www.legislation.gov.uk/ssi/2004/317/regulation/23/2)
 
-[^key-617d75751aad8f89237d2d43bd22fd96]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/wsi/2004/2881), [regs. 1](https://www.legislation.gov.uk/wsi/2004/2881/regulation/1), [27(2)](https://www.legislation.gov.uk/wsi/2004/2881/regulation/27/2)
+[^c-617d75751aad8f89237d2d43bd22fd96]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/wsi/2004/2881), [regs. 1](https://www.legislation.gov.uk/wsi/2004/2881/regulation/1), [27(2)](https://www.legislation.gov.uk/wsi/2004/2881/regulation/27/2)
 
-[^key-2bee9f1438ac1ab12b75b6540875bdae]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (30.4.2005) by [The Fodder Plant Seed (Wales) Regulations 2005 (S.I. 2005/1207)](https://www.legislation.gov.uk/wsi/2005/1207), [regs. 1](https://www.legislation.gov.uk/wsi/2005/1207/regulation/1), [27(2)](https://www.legislation.gov.uk/wsi/2005/1207/regulation/27/2)
+[^c-2bee9f1438ac1ab12b75b6540875bdae]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (30.4.2005) by [The Fodder Plant Seed (Wales) Regulations 2005 (S.I. 2005/1207)](https://www.legislation.gov.uk/wsi/2005/1207), [regs. 1](https://www.legislation.gov.uk/wsi/2005/1207/regulation/1), [27(2)](https://www.legislation.gov.uk/wsi/2005/1207/regulation/27/2)
 
-[^key-e105ccea2ab075e75e42145f7213cc15]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (1.7.2005) by [Fodder Plant Seed (Scotland) Regulations 2005 (No. 329)](https://www.legislation.gov.uk/ssi/2005/329), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [24(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/24/2)
+[^c-e105ccea2ab075e75e42145f7213cc15]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (1.7.2005) by [Fodder Plant Seed (Scotland) Regulations 2005 (No. 329)](https://www.legislation.gov.uk/ssi/2005/329), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [24(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/24/2)
 
-[^key-b292633415f38837cc5344479dd36136]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (1.7.2005) by [Cereal Seed (Scotland) Regulations 2005 (No. 328)](https://www.legislation.gov.uk/ssi/2005/328), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [24(2)](https://www.legislation.gov.uk/ssi/2005/328/regulation/24/2)
+[^c-b292633415f38837cc5344479dd36136]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (1.7.2005) by [Cereal Seed (Scotland) Regulations 2005 (No. 328)](https://www.legislation.gov.uk/ssi/2005/328), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [24(2)](https://www.legislation.gov.uk/ssi/2005/328/regulation/24/2)
 
-[^key-4fd0e6d615ab7f9cb0edb9b871d4806d]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/wsi/2005/3036), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/1/2), [27(2)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/27/2)
+[^c-4fd0e6d615ab7f9cb0edb9b871d4806d]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/wsi/2005/3036), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/1/2), [27(2)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/27/2)
 
-[^key-8908c5be89471e97819b9fe1df24f48a]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/wsi/2005/3035), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/1/2), [27(2)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/27/2)
+[^c-8908c5be89471e97819b9fe1df24f48a]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/wsi/2005/3035), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/1/2), [27(2)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/27/2)
 
-[^key-48c1664318c2a2f896e9a66b2d9a86e8]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/wsi/2005/3037), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/1/2), [24(2)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/24/2)
+[^c-48c1664318c2a2f896e9a66b2d9a86e8]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/wsi/2005/3037), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/1/2), [24(2)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/24/2)
 
-[^key-db1665c00401abb56a20edc6997d5f3f]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) Regulations 2010 (No. 67)](https://www.legislation.gov.uk/ssi/2010/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/67/regulation/1/1), [21(2)](https://www.legislation.gov.uk/ssi/2010/67/regulation/21/2)
+[^c-db1665c00401abb56a20edc6997d5f3f]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) Regulations 2010 (No. 67)](https://www.legislation.gov.uk/ssi/2010/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/67/regulation/1/1), [21(2)](https://www.legislation.gov.uk/ssi/2010/67/regulation/21/2)
 
-[^key-c303435d92c2d24868e0399c418567e5]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (No. 148)](https://www.legislation.gov.uk/ssi/2010/148), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [21(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/21/2)
+[^c-c303435d92c2d24868e0399c418567e5]: Modification: [S. 17(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/2) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (No. 148)](https://www.legislation.gov.uk/ssi/2010/148), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [21(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/21/2)
 
 [^c738724]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (1.9.1993): by [S.I. 1993/2005](https://www.legislation.gov.uk/uksi/1993/2005), [reg. 10(3)](https://www.legislation.gov.uk/uksi/1993/2005/regulation/10/3); [S.I. 1993/2006](https://www.legislation.gov.uk/uksi/1993/2006), [reg. 10(3)](https://www.legislation.gov.uk/uksi/1993/2006/regulation/10/3); [S.I. 1993/2007](https://www.legislation.gov.uk/uksi/1993/2007), [reg. 10(3)](https://www.legislation.gov.uk/uksi/1993/2007/regulation/10/3); [S.I. 1993/2008](https://www.legislation.gov.uk/uksi/1993/2008), [reg. 11(3)](https://www.legislation.gov.uk/uksi/1993/2008/regulation/11/3); [S.I. 1993/2009](https://www.legislation.gov.uk/uksi/1993/2009), [reg. 10(3)](https://www.legislation.gov.uk/uksi/1993/2009/regulation/10/3)
 
 [^c2101692]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (E.) (31.1.2003) by: [S.I. 2002/3171](https://www.legislation.gov.uk/uksi/2002/3171), [reg. 24(3)](https://www.legislation.gov.uk/uksi/2002/3171/regulation/24/3); [S.I. 2002/3172](https://www.legislation.gov.uk/uksi/2002/3172), [reg. 27(3)](https://www.legislation.gov.uk/uksi/2002/3172/regulation/27/3); [S.I. 2002/3173](https://www.legislation.gov.uk/uksi/2002/3173), [reg. 27(3)](https://www.legislation.gov.uk/uksi/2002/3173/regulation/27/3); [S.I. 2002/3174](https://www.legislation.gov.uk/uksi/2002/3174), [reg. 27(3)](https://www.legislation.gov.uk/uksi/2002/3174/regulation/27/3); [S.I. 2002/3175](https://www.legislation.gov.uk/uksi/2002/3175), [reg. 27(3)](https://www.legislation.gov.uk/uksi/2002/3175/regulation/27/3)
 
-[^key-e37c6a91acd992a7fb6b4a35f7d930d8]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (26.9.2004) by [Oil and Fibre Plant Seed (Scotland) Regulations 2004 (No. 317)](https://www.legislation.gov.uk/ssi/2004/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1), [23(3)](https://www.legislation.gov.uk/ssi/2004/317/regulation/23/3)
+[^c-e37c6a91acd992a7fb6b4a35f7d930d8]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (26.9.2004) by [Oil and Fibre Plant Seed (Scotland) Regulations 2004 (No. 317)](https://www.legislation.gov.uk/ssi/2004/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1), [23(3)](https://www.legislation.gov.uk/ssi/2004/317/regulation/23/3)
 
-[^key-14c016a30b0a69ab2139aad4bc8c1202]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/wsi/2004/2881), [regs. 1](https://www.legislation.gov.uk/wsi/2004/2881/regulation/1), [27(3)](https://www.legislation.gov.uk/wsi/2004/2881/regulation/27/3)
+[^c-14c016a30b0a69ab2139aad4bc8c1202]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (13.12.2004) by [The Oil and Fibre Plant Seed (Wales) Regulations 2004 (S.I. 2004/2881)](https://www.legislation.gov.uk/wsi/2004/2881), [regs. 1](https://www.legislation.gov.uk/wsi/2004/2881/regulation/1), [27(3)](https://www.legislation.gov.uk/wsi/2004/2881/regulation/27/3)
 
-[^key-d2c752b8dd9efafb05333800d64e52df]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (30.4.2005) by [The Fodder Plant Seed (Wales) Regulations 2005 (S.I. 2005/1207)](https://www.legislation.gov.uk/wsi/2005/1207), [regs. 1](https://www.legislation.gov.uk/wsi/2005/1207/regulation/1), [27(3)](https://www.legislation.gov.uk/wsi/2005/1207/regulation/27/3)
+[^c-d2c752b8dd9efafb05333800d64e52df]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (30.4.2005) by [The Fodder Plant Seed (Wales) Regulations 2005 (S.I. 2005/1207)](https://www.legislation.gov.uk/wsi/2005/1207), [regs. 1](https://www.legislation.gov.uk/wsi/2005/1207/regulation/1), [27(3)](https://www.legislation.gov.uk/wsi/2005/1207/regulation/27/3)
 
-[^key-34bb0150d9755ed689c1254e1677cc78]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (1.7.2005) by [Cereal Seed (Scotland) Regulations 2005 (No. 328)](https://www.legislation.gov.uk/ssi/2005/328), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [24(3)](https://www.legislation.gov.uk/ssi/2005/328/regulation/24/3)
+[^c-34bb0150d9755ed689c1254e1677cc78]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (1.7.2005) by [Cereal Seed (Scotland) Regulations 2005 (No. 328)](https://www.legislation.gov.uk/ssi/2005/328), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [24(3)](https://www.legislation.gov.uk/ssi/2005/328/regulation/24/3)
 
-[^key-ceee580229ae89cd3cb731fb19627dcb]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (1.7.2005) by [Fodder Plant Seed (Scotland) Regulations 2005 (No. 329)](https://www.legislation.gov.uk/ssi/2005/329), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [24(3)](https://www.legislation.gov.uk/ssi/2005/329/regulation/24/3)
+[^c-ceee580229ae89cd3cb731fb19627dcb]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (1.7.2005) by [Fodder Plant Seed (Scotland) Regulations 2005 (No. 329)](https://www.legislation.gov.uk/ssi/2005/329), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [24(3)](https://www.legislation.gov.uk/ssi/2005/329/regulation/24/3)
 
-[^key-0b6b760d9fda69648614e986e778a84f]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/wsi/2005/3036), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/1/2), [27(3)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/27/3)
+[^c-0b6b760d9fda69648614e986e778a84f]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (18.11.2005) by [The Cereal Seed (Wales) Regulations 2005 (S.I. 2005/3036)](https://www.legislation.gov.uk/wsi/2005/3036), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/1/2), [27(3)](https://www.legislation.gov.uk/wsi/2005/3036/regulation/27/3)
 
-[^key-f888016c2ad58c98a4139d03283746fd]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/wsi/2005/3037), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/1/2), [24(3)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/24/3)
+[^c-f888016c2ad58c98a4139d03283746fd]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (18.11.2005) by [The Beet Seed (Wales) Regulations 2005 (S.I. 2005/3037)](https://www.legislation.gov.uk/wsi/2005/3037), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/1/2), [24(3)](https://www.legislation.gov.uk/wsi/2005/3037/regulation/24/3)
 
-[^key-2c35e9a13e9c4b05af686f0e9f088bb9]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/wsi/2005/3035), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/1/2), [27(3)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/27/3)
+[^c-2c35e9a13e9c4b05af686f0e9f088bb9]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (W.) (18.11.2005) by [The Vegetable Seed (Wales) Regulations 2005 (S.I. 2005/3035)](https://www.legislation.gov.uk/wsi/2005/3035), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/1/2), [27(3)](https://www.legislation.gov.uk/wsi/2005/3035/regulation/27/3)
 
-[^key-84b60d73ed206e3136a04b81ae259223]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) Regulations 2010 (No. 67)](https://www.legislation.gov.uk/ssi/2010/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/67/regulation/1/1), [21(3)](https://www.legislation.gov.uk/ssi/2010/67/regulation/21/3)
+[^c-84b60d73ed206e3136a04b81ae259223]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) Regulations 2010 (No. 67)](https://www.legislation.gov.uk/ssi/2010/67), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/67/regulation/1/1), [21(3)](https://www.legislation.gov.uk/ssi/2010/67/regulation/21/3)
 
-[^key-02a4797ceda574abfe625e79f0c3a5c7]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (No. 148)](https://www.legislation.gov.uk/ssi/2010/148), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [21(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/21/3)
+[^c-02a4797ceda574abfe625e79f0c3a5c7]: Modification: [S. 17(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/17/3) applied (S.) (20.4.2010) by [The Beet Seed (Scotland) (No. 2) Regulations 2010 (No. 148)](https://www.legislation.gov.uk/ssi/2010/148), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2010/148/regulation/1/2), [21(3)](https://www.legislation.gov.uk/ssi/2010/148/regulation/21/3)
 
 [^c738725]: Modification: [S. 18(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/18/2) (in part) extended (N.I.) by [S.I. 1973/609](https://www.legislation.gov.uk/uksi/1973/609), [art. 1](https://www.legislation.gov.uk/uksi/1973/609/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1973/609/schedule)
 
@@ -1275,27 +1275,27 @@ Section 33.
 
 [^c738727]: Textual amendment: [Ss. 20](https://www.legislation.gov.uk/ukpga/1964/14/section/20)—23A repealed by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1972/68/schedule/3/part/III)
 
-[^key-6b462a4975ab38cf4127dd734ad79f4b]: Modification: Ss. 24-30 extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-6b462a4975ab38cf4127dd734ad79f4b]: Modification: Ss. 24-30 extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
 
 [^c738728]: Marginal citation: [1920 c. 54](https://www.legislation.gov.uk/ukpga/1920/54).
 
-[^key-451cc95ba1c3a4c9eb0249571803c751]: Modification: [S. 24(4)](https://www.legislation.gov.uk/ukpga/1964/14/section/24/4) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/644/article/8/2)
+[^c-451cc95ba1c3a4c9eb0249571803c751]: Modification: [S. 24(4)](https://www.legislation.gov.uk/ukpga/1964/14/section/24/4) functions modified (W.) (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2018/644/article/8/2)
 
-[^key-c5f4af1e7b7061eb678d07da517bc92d]: Modification: [S. 24(5)](https://www.legislation.gov.uk/ukpga/1964/14/section/24/5) modified (S.) (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2016/68/regulation/14/2)
+[^c-c5f4af1e7b7061eb678d07da517bc92d]: Modification: [S. 24(5)](https://www.legislation.gov.uk/ukpga/1964/14/section/24/5) modified (S.) (1.7.2016) by [The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 (S.S.I. 2016/68)](https://www.legislation.gov.uk/ssi/2016/68), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/68/regulation/1/1), [14(2)](https://www.legislation.gov.uk/ssi/2016/68/regulation/14/2)
 
 [^c738729]: Modification: [Ss. 25](https://www.legislation.gov.uk/ukpga/1964/14/section/25)—27, 30 so far as they relate to ss. 20—23 and s. 29 extended (N.I.) by [S.I. 1964/1574](https://www.legislation.gov.uk/uksi/1964/1574), [art. 1](https://www.legislation.gov.uk/uksi/1964/1574/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1964/1574/schedule)
 
 [^c738731]: Modification: S. 25 modified (11.10.1991) by [S.I. 1991/2206](https://www.legislation.gov.uk/uksi/1991/2206), [reg. 23(1)(2)](https://www.legislation.gov.uk/uksi/1991/2206/regulation/23/1/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/1991/2206/regulation/4), [5](https://www.legislation.gov.uk/uksi/1991/2206/regulation/5))
 
-[^key-4f79e13f0f39451c61de1b35f056f2bb]: Modification: S. 25 modified (E.) (16.5.2006) by [Seed Potatoes (England) Regulations 2006 (S.I. 2006/1161)](https://www.legislation.gov.uk/uksi/2006/1161), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/1/1), [reg. 23(2)-(4)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/23/2)
+[^c-4f79e13f0f39451c61de1b35f056f2bb]: Modification: S. 25 modified (E.) (16.5.2006) by [Seed Potatoes (England) Regulations 2006 (S.I. 2006/1161)](https://www.legislation.gov.uk/uksi/2006/1161), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/1/1), [reg. 23(2)-(4)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/23/2)
 
-[^key-3b3c079b5c4f1416e7a9aacec6033177]: Modification: S. 25 modified (W.) (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/uksi/2006/2929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/1/1), [reg. 23(2)-(4)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/23/2)
+[^c-3b3c079b5c4f1416e7a9aacec6033177]: Modification: S. 25 modified (W.) (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/uksi/2006/2929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/1/1), [reg. 23(2)-(4)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/23/2)
 
-[^key-75c48fdf52bda09327d63bb39eae995c]: Modification: S. 25 modified (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [reg. 23(2)-(4)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/2) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
+[^c-75c48fdf52bda09327d63bb39eae995c]: Modification: S. 25 modified (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [reg. 23(2)-(4)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/2) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
 
-[^key-4c1c34cf86edba91f8a8191badc02fd6]: Modification: S. 25 modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
+[^c-4c1c34cf86edba91f8a8191badc02fd6]: Modification: S. 25 modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
 
-[^key-5a614b87bb5444f23aec37797bce71bb]: Modification: S. 25 modified (W.) (29.2.2016) by [The Seed Potatoes (Wales) Regulations 2016 (S.I. 2016/106)](https://www.legislation.gov.uk/wsi/2016/106), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/106/regulation/1/2), [24(2)](https://www.legislation.gov.uk/wsi/2016/106/regulation/24/2)-[(4)](https://www.legislation.gov.uk/wsi/2016/106/regulation/24/4)[(6)](https://www.legislation.gov.uk/wsi/2016/106/regulation/24/6)
+[^c-5a614b87bb5444f23aec37797bce71bb]: Modification: S. 25 modified (W.) (29.2.2016) by [The Seed Potatoes (Wales) Regulations 2016 (S.I. 2016/106)](https://www.legislation.gov.uk/wsi/2016/106), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/106/regulation/1/2), [24(2)](https://www.legislation.gov.uk/wsi/2016/106/regulation/24/2)-[(4)](https://www.legislation.gov.uk/wsi/2016/106/regulation/24/4)[(6)](https://www.legislation.gov.uk/wsi/2016/106/regulation/24/6)
 
 [^c738730]: Modification: S. 25 modified by [S.I. 1984/412](https://www.legislation.gov.uk/uksi/1984/412), [art. 22](https://www.legislation.gov.uk/uksi/1984/412/article/22)
 
@@ -1305,11 +1305,11 @@ Section 33.
 
 [^c738732]: Modification: S. 25(1) modified (11.10.1991) by [S.I. 1991/2206](https://www.legislation.gov.uk/uksi/1991/2206), [reg. 23(3)](https://www.legislation.gov.uk/uksi/1991/2206/regulation/23/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/1991/2206/regulation/4), [5](https://www.legislation.gov.uk/uksi/1991/2206/regulation/5))
 
-[^key-9d9f11c83baf5138c38d8120bec6cc08]: Modification: S. 25(1) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
+[^c-9d9f11c83baf5138c38d8120bec6cc08]: Modification: S. 25(1) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
 
 [^c738733]: Modification: S. 25(4) excluded (11.10.1991) by [S.I. 1991/2206](https://www.legislation.gov.uk/uksi/1991/2206), [art. 23(4)](https://www.legislation.gov.uk/uksi/1991/2206/article/23/4) (with [regs. 4](https://www.legislation.gov.uk/uksi/1991/2206/regulation/4), [5](https://www.legislation.gov.uk/uksi/1991/2206/regulation/5))
 
-[^key-deb7e35d4770f5de4111c3c2b89bf679]: Modification: S. 25(4) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
+[^c-deb7e35d4770f5de4111c3c2b89bf679]: Modification: S. 25(4) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(4)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
 
 [^c738734]: Textual amendment: Words substituted for s. 25(7) paras. (a)(b) by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/5/2)
 
@@ -1323,7 +1323,7 @@ Section 33.
 
     S. 26 applied (with modifications) (1.12.2001) by 2001/3510, reg. 21(1)
 
-[^key-050f666db008481ddb8cc7a977831b8c]: Modification: S. 26 modified (E.) (16.5.2006) by [Seed Potatoes (England) Regulations 2006 (S.I. 2006/1161)](https://www.legislation.gov.uk/uksi/2006/1161), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/23/5)
+[^c-050f666db008481ddb8cc7a977831b8c]: Modification: S. 26 modified (E.) (16.5.2006) by [Seed Potatoes (England) Regulations 2006 (S.I. 2006/1161)](https://www.legislation.gov.uk/uksi/2006/1161), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2006/1161/regulation/23/5)
 
 [^c738739]: Modification: S. 26 modified by [S.I. 1984/412](https://www.legislation.gov.uk/uksi/1984/412), [art. 22](https://www.legislation.gov.uk/uksi/1984/412/article/22)
 
@@ -1331,23 +1331,23 @@ Section 33.
 
 [^c738741]: Modification: S. 26(2)(4)(5)(6)(7)(8)(9) excluded (11.10.1991) by [S.I. 1991/2206](https://www.legislation.gov.uk/uksi/1991/2206), [reg. 23(1)(5)](https://www.legislation.gov.uk/uksi/1991/2206/regulation/23/1/5) (with [regs. 4](https://www.legislation.gov.uk/uksi/1991/2206/regulation/4), [5](https://www.legislation.gov.uk/uksi/1991/2206/regulation/5))
 
-[^key-59725998b0c088bf8790f37062d1320b]: Modification: S. 26(2) excluded (W.) (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/uksi/2006/2929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/23/5)
+[^c-59725998b0c088bf8790f37062d1320b]: Modification: S. 26(2) excluded (W.) (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/uksi/2006/2929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/23/5)
 
-[^key-2d92bcbf3586fd7657bc80342345230b]: Modification: S. 26(2) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(5)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
+[^c-2d92bcbf3586fd7657bc80342345230b]: Modification: S. 26(2) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(5)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
 
-[^key-9c3c90a11f5f0fa2dca091f943d08410]: Modification: S. 26(2) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
+[^c-9c3c90a11f5f0fa2dca091f943d08410]: Modification: S. 26(2) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
 
-[^key-c5075ef2fc36f4c8630936aef9a7c3b8]: Modification: S. 26(4)-(9) excluded (W.) (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/uksi/2006/2929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/23/5)
+[^c-c5075ef2fc36f4c8630936aef9a7c3b8]: Modification: S. 26(4)-(9) excluded (W.) (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/uksi/2006/2929), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/1/1), [23(5)](https://www.legislation.gov.uk/uksi/2006/2929/regulation/23/5)
 
-[^key-477d0b1daee723b2ef856dac0bddb260]: Modification: S. 26(4)-(9) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(5)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
+[^c-477d0b1daee723b2ef856dac0bddb260]: Modification: S. 26(4)-(9) modified (E.) (1.1.2016) by [The Seed Potatoes (England) Regulations 2015 (S.I. 2015/1953)](https://www.legislation.gov.uk/uksi/2015/1953), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/1), [24(5)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/5) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/1/3), [24(6)](https://www.legislation.gov.uk/uksi/2015/1953/regulation/24/6))
 
-[^key-fd9d7545f69209bdfe4de937317d7cd3]: Modification: S. 26(4)(5) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
+[^c-fd9d7545f69209bdfe4de937317d7cd3]: Modification: S. 26(4)(5) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
 
-[^key-53d2db6373232eb745b4b9ba04108bda]: Modification: S. 26(6)(7) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
+[^c-53d2db6373232eb745b4b9ba04108bda]: Modification: S. 26(6)(7) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
 
-[^key-0d02b79fad8efa38db438d98bb14ab21]: Modification: S. 26(8)(9) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
+[^c-0d02b79fad8efa38db438d98bb14ab21]: Modification: S. 26(8)(9) excluded (S.) (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [23(5)](https://www.legislation.gov.uk/ssi/2015/395/regulation/23/5) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
 
-[^key-9b90c61177df3ff5ad518d1e22380cfd]: Textual amendment: S. 26(10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-9b90c61177df3ff5ad518d1e22380cfd]: Textual amendment: S. 26(10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c738749]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/1964/14/section/27) applied (with modifications) (1.12.2001) by 2001/3510, reg. 21(1)
 
@@ -1373,11 +1373,11 @@ Section 33.
 
 [^c738768]: Modification: [S. 28(3)](https://www.legislation.gov.uk/ukpga/1964/14/section/28/3) (in part) extended (N.I.) by [S.I. 1973/609](https://www.legislation.gov.uk/uksi/1973/609), [art. 1](https://www.legislation.gov.uk/uksi/1973/609/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1973/609/schedule/1)
 
-[^key-4aa041837aa345e0ff2197cf0e0f3b07]: Textual amendment: Words in s. 29 heading inserted (13.12.2022) by [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/20/2)
+[^c-4aa041837aa345e0ff2197cf0e0f3b07]: Textual amendment: Words in s. 29 heading inserted (13.12.2022) by [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/20/2)
 
 [^c738773]: Modification: S. 29(1) applied (with modifications) (1.12.2001) by 2001/3510, reg. 21(1)
 
-[^key-5504ced3f9a61ffb983235e7353c324a]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/29/1) substituted (13.12.2022) by [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/20/3)
+[^c-5504ced3f9a61ffb983235e7353c324a]: Textual amendment: Words in [s. 29(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/29/1) substituted (13.12.2022) by [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/20/3)
 
 [^c738774]: Textual amendment: Words inserted by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/5/4)
 
@@ -1385,21 +1385,21 @@ Section 33.
 
 [^c738776]: Textual amendment: S. 29(2)(3) added by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/ukpga/1972/68/schedule/4/paragraph/5/4)
 
-[^key-3d33486cf7c3b044aff73bfa07f73584]: Textual amendment: S. 29(2) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 9](https://www.legislation.gov.uk/asp/2018/8/section/9), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-3d33486cf7c3b044aff73bfa07f73584]: Textual amendment: S. 29(2) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 9](https://www.legislation.gov.uk/asp/2018/8/section/9), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-8e1d114c98df2a5afe1d925b2ecab5c1]: Textual amendment: Words in s. 29(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8e1d114c98df2a5afe1d925b2ecab5c1]: Textual amendment: Words in s. 29(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-3086acf33dbfde044209c85d72cc25cc]: Textual amendment: Words in s. 29(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3086acf33dbfde044209c85d72cc25cc]: Textual amendment: Words in s. 29(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/2/b) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-fec8dfa7b0ddbcd9dd8aab6698eb2dd0]: Textual amendment: Words in s. 29(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-fec8dfa7b0ddbcd9dd8aab6698eb2dd0]: Textual amendment: Words in s. 29(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c738778]: Textual amendment: Words in s. 29(2) substituted (16.3.2000) by [S.I. 2000/746](https://www.legislation.gov.uk/uksi/2000/746), [art. 2](https://www.legislation.gov.uk/uksi/2000/746/article/2), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2000/746/schedule/paragraph/2)
 
-[^key-9cfe7cc9a031b19d181cbbfd00b0711d]: Textual amendment: Words in s. 29(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9cfe7cc9a031b19d181cbbfd00b0711d]: Textual amendment: Words in s. 29(3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-5fd1c8d393bda591acfaa73d2b418eb5]: Textual amendment: S. 29(4) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5fd1c8d393bda591acfaa73d2b418eb5]: Textual amendment: S. 29(4) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/29/4) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-40b20daa805bdea2ca376ce8c1f423e0]: Textual amendment: S. 29(4) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 9](https://www.legislation.gov.uk/asp/2018/8/section/9), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-40b20daa805bdea2ca376ce8c1f423e0]: Textual amendment: S. 29(4) repealed (S.) (1.4.2019) by [Forestry and Land Management (Scotland) Act 2018 (asp 8)](https://www.legislation.gov.uk/asp/2018/8), [ss. 9](https://www.legislation.gov.uk/asp/2018/8/section/9), [85(2)](https://www.legislation.gov.uk/asp/2018/8/section/85/2) (with [s. 83](https://www.legislation.gov.uk/asp/2018/8/section/83)); [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
 [^c738779]: Modification: [S. 30](https://www.legislation.gov.uk/ukpga/1964/14/section/30) (in part) extended (N.I.) by [S.I. 1973/609](https://www.legislation.gov.uk/uksi/1973/609), [art. 1](https://www.legislation.gov.uk/uksi/1973/609/article/1), [Sch.](https://www.legislation.gov.uk/uksi/1973/609/schedule)
 
@@ -1409,13 +1409,13 @@ Section 33.
 
 [^c738782]: Modification: Unreliable margin note
 
-[^key-f7d59f4f89fc43ae8f4fe8819f0b5d0b]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/31/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-f7d59f4f89fc43ae8f4fe8819f0b5d0b]: Textual amendment: Words in [s. 31(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/31/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c738783]: Textual amendment: S. 31(2) repealed by [Trade Descriptions Act 1968 (c. 29)](https://www.legislation.gov.uk/ukpga/1968/29), [Sch. 2](https://www.legislation.gov.uk/ukpga/1968/29/schedule/2)
 
 [^c738784]: Textual amendment: [S. 32](https://www.legislation.gov.uk/ukpga/1964/14/section/32) repealed by [European Communities Act 1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), [s. 4](https://www.legislation.gov.uk/ukpga/1972/68/section/4), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1972/68/schedule/3/part/III)
 
-[^key-dbb692bfbf78da5919d2b19ca5b65f60]: Modification: [S. 33](https://www.legislation.gov.uk/ukpga/1964/14/section/33) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-dbb692bfbf78da5919d2b19ca5b65f60]: Modification: [S. 33](https://www.legislation.gov.uk/ukpga/1964/14/section/33) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
 
 [^c738785]: Modification: [S. 33(7)](https://www.legislation.gov.uk/ukpga/1964/14/section/33/7): [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
 
@@ -1427,7 +1427,7 @@ Section 33.
 
 [^c738792]: Modification: Provisions of Pt. I and of Pt. IV in its application to the said Pt. I extend to the Isle of Man subject to specified exceptions, adaptations and modifications by [S.I. 1969/1829](https://www.legislation.gov.uk/uksi/1969/1829) art. 2, Sch.
 
-[^key-2f48c88a48380e82e550a54dd9c0bd05]: Modification: [Ss. 34-36](https://www.legislation.gov.uk/ukpga/1964/14/section/34) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-2f48c88a48380e82e550a54dd9c0bd05]: Modification: [Ss. 34-36](https://www.legislation.gov.uk/ukpga/1964/14/section/34) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
 
 [^c738795]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/34/1) inserted (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 51(1)(a)](https://www.legislation.gov.uk/ukpga/1997/66/section/51/1/a); [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
@@ -1453,7 +1453,7 @@ Section 33.
 
 [^c738811]: Textual amendment: Words in [s. 37(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/37/2) repealed (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 52](https://www.legislation.gov.uk/ukpga/1997/66/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/66/schedule/4); [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
-[^key-f9d298ea6561cc526623bba526eb8e34]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1964/14/section/38) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-f9d298ea6561cc526623bba526eb8e34]: Modification: [S. 38](https://www.legislation.gov.uk/ukpga/1964/14/section/38) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
 
 [^c738815]: Textual amendment: Definitions repealed (8.5.1998) by [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66), [s. 52](https://www.legislation.gov.uk/ukpga/1997/66/section/52), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/66/schedule/4); [S.I. 1998/1028](https://www.legislation.gov.uk/uksi/1998/1028), [art. 2](https://www.legislation.gov.uk/uksi/1998/1028/article/2)
 
@@ -1483,9 +1483,9 @@ Section 33.
 
 [^c738868]: Modification: [S. 40](https://www.legislation.gov.uk/ukpga/1964/14/section/40) extended by [Plant Varieties Act 1983 (c. 17, SIF 2:9)](https://www.legislation.gov.uk/ukpga/1983/17), [s. 5(2)](https://www.legislation.gov.uk/ukpga/1983/17/section/5/2)
 
-[^key-d29556079fe99b6af92207fa1c5808fb]: Modification: [S. 41(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/41/1) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-d29556079fe99b6af92207fa1c5808fb]: Modification: [S. 41(1)](https://www.legislation.gov.uk/ukpga/1964/14/section/41/1) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
 
-[^key-cd695525562a6b0850ea687b93b5bbc1]: Textual amendment: [S. 41(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/41/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-cd695525562a6b0850ea687b93b5bbc1]: Textual amendment: [S. 41(2)](https://www.legislation.gov.uk/ukpga/1964/14/section/41/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c738869]: Modification: Power of appointment conferred by s. 41(2) fully exercised as regards all unrepealed provisions; [S.I. 1966/276](https://www.legislation.gov.uk/uksi/1966/276), 1968/206, 1973/928, 1978/1002
 
@@ -1553,4 +1553,4 @@ Section 33.
 
 [^c738914]: Modification: The text of Sch. 6 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-a7d3105af3757e1621094bbbc3b828fa]: Modification: [Sch. 7](https://www.legislation.gov.uk/ukpga/1964/14/schedule/7) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)
+[^c-a7d3105af3757e1621094bbbc3b828fa]: Modification: [Sch. 7](https://www.legislation.gov.uk/ukpga/1964/14/schedule/7) extended (with modifications) (1.8.2016) by [The Plant Varieties and Seeds (Isle of Man) Order 2016 (S.I. 2016/758)](https://www.legislation.gov.uk/uksi/2016/758), [arts. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2016/758/article/2/2/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/758/schedule/1)

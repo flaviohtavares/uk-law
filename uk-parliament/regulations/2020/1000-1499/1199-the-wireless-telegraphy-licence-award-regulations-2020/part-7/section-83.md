@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Partial adjacency agreement[^key-7b28302f5b792fd5294d00b988a0df37]
+## 83. Partial adjacency agreement[^c-7b28302f5b792fd5294d00b988a0df37]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A partial adjacency agreement is an agreement between two or more winning bidder
 
 ## Annotations
 
-[^key-7b28302f5b792fd5294d00b988a0df37]: Commencement: Reg. 83 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-7b28302f5b792fd5294d00b988a0df37]: Commencement: Reg. 83 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

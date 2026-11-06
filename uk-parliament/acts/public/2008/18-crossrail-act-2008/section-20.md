@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Control of construction sites: appeals[^key-b82d6d9ce7cebf62ea808cb7d3dfda6f][^key-ffc327e4dc10066fb3a8412413207471]
+## 20. Control of construction sites: appeals[^c-b82d6d9ce7cebf62ea808cb7d3dfda6f][^c-ffc327e4dc10066fb3a8412413207471]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b82d6d9ce7cebf62ea808cb7d3dfda6f]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/2008/18/section/20) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-b82d6d9ce7cebf62ea808cb7d3dfda6f]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/2008/18/section/20) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-ffc327e4dc10066fb3a8412413207471]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/2008/18/section/20) applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)
+[^c-ffc327e4dc10066fb3a8412413207471]: Modification: [S. 20](https://www.legislation.gov.uk/ukpga/2008/18/section/20) applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(a)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/a)

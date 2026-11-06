@@ -42,11 +42,11 @@ Coming into force
 
 1st July 1995
 
-The Treasury, being a government department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to credit and financial institutions and to the taking of deposits or other repayable funds from the public, in exercise of the powers conferred on them by that section and of all other powers enabling it in that behalf, hereby make the following Regulations:[^key-77fb032dab60dde21c64687f9588f107]
+The Treasury, being a government department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to credit and financial institutions and to the taking of deposits or other repayable funds from the public, in exercise of the powers conferred on them by that section and of all other powers enabling it in that behalf, hereby make the following Regulations:[^c-77fb032dab60dde21c64687f9588f107]
 
 ## Part I — General
 
-### 1. Citation, commencement and extent[^key-5e1869a0254adc108a03e8bc91102b24]
+### 1. Citation, commencement and extent[^c-5e1869a0254adc108a03e8bc91102b24]
 
 (1) These Regulations may be cited as the Credit Institutions (Protection of Depositors) Regulations 1995.
 
@@ -54,39 +54,39 @@ The Treasury, being a government department designated[^f00001] for the purposes
 
 (3) These Regulations extend to Northern Ireland.
 
-### 2. Interpretation[^key-91c0222679e368575bda646955fbbc86]
+### 2. Interpretation[^c-91c0222679e368575bda646955fbbc86]
 
 (1) In these Regulations—
 
 - “the 1986 Act” means the Building Societies Act 1986[^f00003];
-- “the 2000 Act” means the Financial Services and Markets Act 2000;[^key-41eeeadaeddfccf2cdab89160f9b90eb]
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- [^key-e2b7464eb3c4bd19ab67676320518a80]...
-- [^key-caa2428dcda4523ebc808b1a47d49f95]...
+- “the 2000 Act” means the Financial Services and Markets Act 2000;[^c-41eeeadaeddfccf2cdab89160f9b90eb]
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- [^c-e2b7464eb3c4bd19ab67676320518a80]...
+- [^c-caa2428dcda4523ebc808b1a47d49f95]...
 - “building society” means a building society incorporated (or deemed to be incorporated) under the 1986 Act;
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- “EEA institution” means an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to the 2000 Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits;[^key-1a42c01af9ac8e5829a3b762c55056d5]
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- “EEA institution” means an EEA firm of the kind mentioned in paragraph 5(b) of Schedule 3 to the 2000 Act which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12(1) of that Schedule) to accept deposits;[^c-1a42c01af9ac8e5829a3b762c55056d5]
 - “EEA State” means a State which is a Contracting Party of the Agreement on the European Economic Area signed at Oporto on 2nd May 1992[^f00006] as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00007];
-- “the[^key-99667f841004cfe2bd9a27707d7bea63] FCA” means the Financial Conduct Authority;
-- “Financial Services Compensation Scheme” means the Financial Services Compensation Scheme referred to in section 213(2) of the 2000 Act;[^key-351df381d966382b9689a4569a7a2f8c]
+- “the[^c-99667f841004cfe2bd9a27707d7bea63] FCA” means the Financial Conduct Authority;
+- “Financial Services Compensation Scheme” means the Financial Services Compensation Scheme referred to in section 213(2) of the 2000 Act;[^c-351df381d966382b9689a4569a7a2f8c]
 - “Electing Participants Regulations” means the Financial Services and Markets Act 2000 (Compensation Scheme: Electing Participants) Regulations 2001;
-- “home State”, in relation to an EEA institution [^key-dfb43e8539535995d8468cd5c863077f]..., means the EEA State, or the country or territory, in which it is incorporated or under the law of which it is formed;
-- “home State scheme” in relation to an EEA institution, means a scheme for the protection of depositors which is in force in the institution’s home State and in which the institution participates;[^key-f45717e43b47ac368f15c41c88e168cc]
+- “home State”, in relation to an EEA institution [^c-dfb43e8539535995d8468cd5c863077f]..., means the EEA State, or the country or territory, in which it is incorporated or under the law of which it is formed;
+- “home State scheme” in relation to an EEA institution, means a scheme for the protection of depositors which is in force in the institution’s home State and in which the institution participates;[^c-f45717e43b47ac368f15c41c88e168cc]
 - “host State scheme”, in relation to a UK institution or building society, means a scheme for the protection of depositors which is in force in an EEA State other than the United Kingdom and in which the institution or society participates;
-- “investment”, in relation to a building society or an Irish building society which, in accordance with the Electing Participants Regulations[^key-4bcb187bf26220d53d53c66f82c204c8], is participating in the investor protection scheme, means a deposit with or a share in the society;
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
+- “investment”, in relation to a building society or an Irish building society which, in accordance with the Electing Participants Regulations[^c-4bcb187bf26220d53d53c66f82c204c8], is participating in the investor protection scheme, means a deposit with or a share in the society;
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
 - “Irish building society” means an EEA institution which is incorporated in or formed under the law of the Republic of Ireland and whose characteristics correspond as nearly as may be to those of a building society;
 - “the PRA” means the Prudential Regulation Authority;
-- “scheme manager” means a body corporate established in accordance with section 212(1) of the 2000 Act;[^key-fd6a2efdbdc34a822bf1023336f592e1]
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
+- “scheme manager” means a body corporate established in accordance with section 212(1) of the 2000 Act;[^c-fd6a2efdbdc34a822bf1023336f592e1]
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
 - “supervisory authority”, in relation to an EEA State other than the United Kingdom or a country or territory outside the European Economic Area, means an authority in that State, country or territory which has regulatory functions in relation to the acceptance of deposits;
-- “UK institution” means a body corporate or partnership incorporated or formed under the law of any part of the United Kingdom, and which has permission under Part IV of the 2000 Act to accept deposits;[^key-1ca7dc8275144c4ef7a1b8e54686364f]
-- [^key-ebd125463ddc024b5af645ba8ddb6a0a]...
+- “UK institution” means a body corporate or partnership incorporated or formed under the law of any part of the United Kingdom, and which has permission under Part IV of the 2000 Act to accept deposits;[^c-1ca7dc8275144c4ef7a1b8e54686364f]
+- [^c-ebd125463ddc024b5af645ba8ddb6a0a]...
 
 (2) In these Regulations, unless the context otherwise requires, references to deposits include references to investments, and references to depositors or intending depositors shall be construed accordingly.
 
@@ -96,71 +96,71 @@ The Treasury, being a government department designated[^f00001] for the purposes
 
 #### Main provisions
 
-##### 3. Eligibility to participate in scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 3. Eligibility to participate in scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 4. Participation in scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 4. Participation in scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 5. Withdrawal from scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 5. Withdrawal from scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 6. Exclusion where institution no longer eligible[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 6. Exclusion where institution no longer eligible[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 7. Exclusion where institution in default[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 7. Exclusion where institution in default[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 8. Appeals against decisions of Board[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 8. Appeals against decisions of Board[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Supplementary provisions
 
-##### 9. Duty of institution to notify withdrawal or exclusion[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 9. Duty of institution to notify withdrawal or exclusion[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 10. Duty of Board to consult with home State authority[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 10. Duty of Board to consult with home State authority[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 11. Power of Board to make agency and information agreements[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 11. Power of Board to make agency and information agreements[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 12. Duty of Board to maintain list of participating EEA institutions[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 12. Duty of Board to maintain list of participating EEA institutions[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Chapter II — Participation in EEA scheme by UK institution or building society
 
-#### 13. Duty of institution or society to notify withdrawal or exclusion[^key-f706d134b6fc7ab167e61310c8e20aa7]
+#### 13. Duty of institution or society to notify withdrawal or exclusion[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Liability of institution or society in respect of payments under host State scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+#### 14. Liability of institution or society in respect of payments under host State scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Duty of Board to consult with host State authority[^key-f706d134b6fc7ab167e61310c8e20aa7]
+#### 15. Duty of Board to consult with host State authority[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Power of Board to make agency and information agreements[^key-f706d134b6fc7ab167e61310c8e20aa7]
+#### 16. Power of Board to make agency and information agreements[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Duty of Bank or Commission to declare that deposits are no longer available[^key-f706d134b6fc7ab167e61310c8e20aa7]
+#### 17. Duty of Bank or Commission to declare that deposits are no longer available[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Powers of authority responsible for host State scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+#### 18. Powers of authority responsible for host State scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -168,113 +168,113 @@ The Treasury, being a government department designated[^f00001] for the purposes
 
 #### Main provisions
 
-##### 19. Eligibility not to participate in scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 19. Eligibility not to participate in scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Election not to participate in scheme[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 20. Election not to participate in scheme[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 21. Election to cease to have effect where institution no longer eligible[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 21. Election to cease to have effect where institution no longer eligible[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 22. Appeals against decisions of Board[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 22. Appeals against decisions of Board[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Supplementary provisions
 
-##### 23. Duty of institution to notify election not to participate[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 23. Duty of institution to notify election not to participate[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 24. Duty of Board to maintain list of participating non-EEA institutions[^key-f706d134b6fc7ab167e61310c8e20aa7]
+##### 24. Duty of Board to maintain list of participating non-EEA institutions[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — Amendments of Part II of 1987 Act
 
-### 25. Functions of Deposit Protection Board[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 25. Functions of Deposit Protection Board[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. The Deposit Protection Fund[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 26. The Deposit Protection Fund[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Contributory institutions etc.[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 27. Contributory institutions etc.[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Initial contributions[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 28. Initial contributions[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Calculation of deposit base of transferee institutions[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 29. Calculation of deposit base of transferee institutions[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Compensation payments to depositors[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 30. Compensation payments to depositors[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Meaning of insolvency etc.[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 31. Meaning of insolvency etc.[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Protected deposits[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 32. Protected deposits[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Trustee deposits, joint deposits etc.[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 33. Trustee deposits, joint deposits etc.[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Liability of institution in respect of compensation payments[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 34. Liability of institution in respect of compensation payments[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Power to obtain information[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 35. Power to obtain information[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part IV — Amendments of Part IV of 1986 Act
 
-### 36. Function of Investor Protection Board[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 36. Function of Investor Protection Board[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. The Investor Protection Fund[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 37. The Investor Protection Fund[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Meaning of insolvency etc.[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 38. Meaning of insolvency etc.[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Duty to levy contributions etc.[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 39. Duty to levy contributions etc.[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Payments to investors[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 40. Payments to investors[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Liability of insolvent institution in respect of payments made by Board[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 41. Liability of insolvent institution in respect of payments made by Board[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Repayments in respect of contributions[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 42. Repayments in respect of contributions[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 43. Power to obtain information[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 43. Power to obtain information[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 44. Trusts and joint or client account holdings[^key-f706d134b6fc7ab167e61310c8e20aa7]
+### 44. Trusts and joint or client account holdings[^c-f706d134b6fc7ab167e61310c8e20aa7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -286,28 +286,28 @@ The Treasury, being a government department designated[^f00001] for the purposes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 46. Information to be supplied on request[^key-3c799d7e24a9f2735803f0b641d150dc]
+#### 46. Information to be supplied on request[^c-3c799d7e24a9f2735803f0b641d150dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 47. Information in explanatory literature[^key-3c799d7e24a9f2735803f0b641d150dc]
+#### 47. Information in explanatory literature[^c-3c799d7e24a9f2735803f0b641d150dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 48. Information in advertisements[^key-3c799d7e24a9f2735803f0b641d150dc]
+#### 48. Information in advertisements[^c-3c799d7e24a9f2735803f0b641d150dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Supplemental
 
-#### 49. Enforcement: UK and non-EEA institutions[^key-f6e3902447cbbc4eea691719af1007a0]
+#### 49. Enforcement: UK and non-EEA institutions[^c-f6e3902447cbbc4eea691719af1007a0]
 
 (1) In subsection (1A)[^f00039] of section 11 of the 1987 Act (revocation of authorisation)—
 
 - (a) in paragraph (e), after the words “the Banking Coordination (Second Council Directive) Regulations 1992” there shall be inserted the words “or the Credit Institutions (Protection of Depositors) Regulations 1995”; and
 - (b) in paragraph (f), after the words “Second Council Directive” there shall be inserted the words “or Directive [94/19/EC](https://www.legislation.gov.uk/european/directive/1994/0019) on deposit-guarantee schemes”.
 
-(2)[^key-0330deb9ed63fa39ef79a6eeb59aaf5d] In its application to a UK institution or building society, subsection (1) of section 55J (variation or cancellation on initiative of regulator) and subsection (2) of each of sections 55L and 55M of the 2000 Act (imposition of requirements) have effect as if—
+(2)[^c-0330deb9ed63fa39ef79a6eeb59aaf5d] In its application to a UK institution or building society, subsection (1) of section 55J (variation or cancellation on initiative of regulator) and subsection (2) of each of sections 55L and 55M of the 2000 Act (imposition of requirements) have effect as if—
 
 - (a) at the end of paragraph (b), “or” were omitted;
 - (b) at the end of paragraph (c) there were inserted—
@@ -320,16 +320,16 @@ The Treasury, being a government department designated[^f00001] for the purposes
 
   .
 
-(3) Where the FCA[^key-7a7bb4f5d4495876d91b69f6e01dffbd] or the PRA—
+(3) Where the FCA[^c-7a7bb4f5d4495876d91b69f6e01dffbd] or the PRA—
 
-- (a) is informed by the scheme manager[^key-cfaf43168d3b9692038dc301b6385a7a] of an unpaid contribution of a UK institution or building society[^key-cabe3a59c244b8a39b7b420f8a3a9472]; or
+- (a) is informed by the scheme manager[^c-cfaf43168d3b9692038dc301b6385a7a] of an unpaid contribution of a UK institution or building society[^c-cabe3a59c244b8a39b7b420f8a3a9472]; or
 - (b) is informed by a supervisory authority in another EEA State that a UK institution is failing to comply with such an obligation as is mentioned in paragraph (2)(b) above,
 
-that regulator[^key-dc595f0896aae02d13093ad94f204a41] shall, after such consultation with the scheme manager or supervisory authority as it considers appropriate, consider whether to exercise its powers under section section 55J, 55L or 55M of the[^key-15ca9ab7dea9a1f449d423bb2c67c7c2] 2000 Act.
+that regulator[^c-dc595f0896aae02d13093ad94f204a41] shall, after such consultation with the scheme manager or supervisory authority as it considers appropriate, consider whether to exercise its powers under section section 55J, 55L or 55M of the[^c-15ca9ab7dea9a1f449d423bb2c67c7c2] 2000 Act.
 
-(4)[^key-e9d82481f09c2692619fe0200b16b78f] In this regulation, “unpaid contribution”, in relation to an institution or building society, means any amount required to be paid by the institution or society by way of a levy imposed in accordance with the Financial Services Compensation Scheme, and which remains unpaid after the last day on which payment falls due, as determined by or in accordance with that Scheme.
+(4)[^c-e9d82481f09c2692619fe0200b16b78f] In this regulation, “unpaid contribution”, in relation to an institution or building society, means any amount required to be paid by the institution or society by way of a levy imposed in accordance with the Financial Services Compensation Scheme, and which remains unpaid after the last day on which payment falls due, as determined by or in accordance with that Scheme.
 
-#### 50. Enforcement: EEA institutions[^key-644aa1e7a858e859d0ba39531de0cbf4]
+#### 50. Enforcement: EEA institutions[^c-644aa1e7a858e859d0ba39531de0cbf4]
 
 (1) In that paragraph (2)(c) of regulation 9 of the 1992 Regulations (power to prohibit the acceptance of deposits), for the words from “by these Regulations” to the end there shall be substituted—
 
@@ -341,19 +341,19 @@ that regulator[^key-dc595f0896aae02d13093ad94f204a41] shall, after such consulta
 > - (i) the implementation of the Second Council Directive; or
 > - (ii) the implementation of Directive [94/19/EC](https://www.legislation.gov.uk/european/directive/1994/0019) on deposit-guarantee schemes;.
 
-#### 51. Enforcement: building societies[^key-09f10c2d7d8da072ba9d0d1a273807e7]
+#### 51. Enforcement: building societies[^c-09f10c2d7d8da072ba9d0d1a273807e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 52. Consequential amendments[^key-09f10c2d7d8da072ba9d0d1a273807e7]
+#### 52. Consequential amendments[^c-09f10c2d7d8da072ba9d0d1a273807e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 53. Transitional provisions and savings[^key-b231253d376c767f25799b27a9afe340]
+#### 53. Transitional provisions and savings[^c-b231253d376c767f25799b27a9afe340]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 54. Transitory provisions[^key-b231253d376c767f25799b27a9afe340]
+#### 54. Transitory provisions[^c-b231253d376c767f25799b27a9afe340]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -385,66 +385,66 @@ Part V of the Regulations contains miscellaneous and supplementary provisions. T
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); by virtue of the amendment of section 1(2) made by section 1 of the European Economic Area Act 1993
 
-[^key-77fb032dab60dde21c64687f9588f107]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-77fb032dab60dde21c64687f9588f107]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-5e1869a0254adc108a03e8bc91102b24]: Commencement: Reg. 1 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
+[^c-5e1869a0254adc108a03e8bc91102b24]: Commencement: Reg. 1 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
 
-[^key-91c0222679e368575bda646955fbbc86]: Commencement: Reg. 2 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
+[^c-91c0222679e368575bda646955fbbc86]: Commencement: Reg. 2 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
 
 [^f00003]: Footnote: [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53).
 
-[^key-41eeeadaeddfccf2cdab89160f9b90eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/b)
+[^c-41eeeadaeddfccf2cdab89160f9b90eb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(b)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/b)
 
-[^key-ebd125463ddc024b5af645ba8ddb6a0a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/a)
+[^c-ebd125463ddc024b5af645ba8ddb6a0a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/a)
 
-[^key-e2b7464eb3c4bd19ab67676320518a80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/a/i)
+[^c-e2b7464eb3c4bd19ab67676320518a80]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) omitted (1.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/a/i)
 
-[^key-caa2428dcda4523ebc808b1a47d49f95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/46)
+[^c-caa2428dcda4523ebc808b1a47d49f95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/46)
 
-[^key-1a42c01af9ac8e5829a3b762c55056d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(d)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/d)
+[^c-1a42c01af9ac8e5829a3b762c55056d5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(d)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/d)
 
 [^f00006]: Footnote: Cm 2073.
 
 [^f00007]: Footnote: Cm 2183.
 
-[^key-99667f841004cfe2bd9a27707d7bea63]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/a/ii)
+[^c-99667f841004cfe2bd9a27707d7bea63]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/a/ii)
 
-[^key-351df381d966382b9689a4569a7a2f8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(e)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/e)
+[^c-351df381d966382b9689a4569a7a2f8c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(e)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/e)
 
-[^key-dfb43e8539535995d8468cd5c863077f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(f)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/f)
+[^c-dfb43e8539535995d8468cd5c863077f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(f)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/f)
 
-[^key-f45717e43b47ac368f15c41c88e168cc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(g)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/g)
+[^c-f45717e43b47ac368f15c41c88e168cc]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(g)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/g)
 
-[^key-4bcb187bf26220d53d53c66f82c204c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(h)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/h)
+[^c-4bcb187bf26220d53d53c66f82c204c8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(h)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/h)
 
-[^key-fd6a2efdbdc34a822bf1023336f592e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(i)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/i)
+[^c-fd6a2efdbdc34a822bf1023336f592e1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(i)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/i)
 
-[^key-1ca7dc8275144c4ef7a1b8e54686364f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(j)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/j)
+[^c-1ca7dc8275144c4ef7a1b8e54686364f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/2/1) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [494(1)(j)](https://www.legislation.gov.uk/uksi/2001/3649/article/494/1/j)
 
-[^key-f706d134b6fc7ab167e61310c8e20aa7]: Textual amendment: [Regs. 3-45](https://www.legislation.gov.uk/uksi/1995/1442/regulation/3) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001 (S.I. 2001/2967)](https://www.legislation.gov.uk/uksi/2001/2967), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/2967/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/2) (with [arts. 9](https://www.legislation.gov.uk/uksi/2001/2967/article/9), [11](https://www.legislation.gov.uk/uksi/2001/2967/article/11), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/1), [2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/2))
+[^c-f706d134b6fc7ab167e61310c8e20aa7]: Textual amendment: [Regs. 3-45](https://www.legislation.gov.uk/uksi/1995/1442/regulation/3) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001 (S.I. 2001/2967)](https://www.legislation.gov.uk/uksi/2001/2967), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/2967/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/2) (with [arts. 9](https://www.legislation.gov.uk/uksi/2001/2967/article/9), [11](https://www.legislation.gov.uk/uksi/2001/2967/article/11), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/1), [2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/2))
 
-[^key-3c799d7e24a9f2735803f0b641d150dc]: Textual amendment: [Regs. 46-48](https://www.legislation.gov.uk/uksi/1995/1442/regulation/46) revoked (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2015/486/regulation/17)
+[^c-3c799d7e24a9f2735803f0b641d150dc]: Textual amendment: [Regs. 46-48](https://www.legislation.gov.uk/uksi/1995/1442/regulation/46) revoked (26.3.2015) by [The Deposit Guarantee Scheme Regulations 2015 (S.I. 2015/486)](https://www.legislation.gov.uk/uksi/2015/486), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/486/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2015/486/regulation/17)
 
-[^key-f6e3902447cbbc4eea691719af1007a0]: Commencement: Reg. 49 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
+[^c-f6e3902447cbbc4eea691719af1007a0]: Commencement: Reg. 49 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
 
 [^f00039]: Footnote: Subsection (1A) was inserted by the Banking Coordination (Second Council Directive) Regulations 1992 (S.I. [1992/3218](https://www.legislation.gov.uk/uksi/1992/3218)), regulation 28(1).
 
-[^key-0330deb9ed63fa39ef79a6eeb59aaf5d]: Textual amendment: Reg. 49(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/i)
+[^c-0330deb9ed63fa39ef79a6eeb59aaf5d]: Textual amendment: Reg. 49(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/i)
 
-[^key-7a7bb4f5d4495876d91b69f6e01dffbd]: Textual amendment: Words in reg. 49(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/ii/aa)
+[^c-7a7bb4f5d4495876d91b69f6e01dffbd]: Textual amendment: Words in reg. 49(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(ii)(aa)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/ii/aa)
 
-[^key-cfaf43168d3b9692038dc301b6385a7a]: Textual amendment: Words in [reg. 49(3)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/49/3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [498(b)(i)](https://www.legislation.gov.uk/uksi/2001/3649/article/498/b/i)
+[^c-cfaf43168d3b9692038dc301b6385a7a]: Textual amendment: Words in [reg. 49(3)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/49/3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [498(b)(i)](https://www.legislation.gov.uk/uksi/2001/3649/article/498/b/i)
 
-[^key-cabe3a59c244b8a39b7b420f8a3a9472]: Textual amendment: Words in [reg. 49(3)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/49/3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [498(b)(ii)](https://www.legislation.gov.uk/uksi/2001/3649/article/498/b/ii)
+[^c-cabe3a59c244b8a39b7b420f8a3a9472]: Textual amendment: Words in [reg. 49(3)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/49/3) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [498(b)(ii)](https://www.legislation.gov.uk/uksi/2001/3649/article/498/b/ii)
 
-[^key-dc595f0896aae02d13093ad94f204a41]: Textual amendment: Words in reg. 49(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/ii/bb)
+[^c-dc595f0896aae02d13093ad94f204a41]: Textual amendment: Words in reg. 49(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(ii)(bb)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/ii/bb)
 
-[^key-15ca9ab7dea9a1f449d423bb2c67c7c2]: Textual amendment: Words in reg. 49(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/ii/cc)
+[^c-15ca9ab7dea9a1f449d423bb2c67c7c2]: Textual amendment: Words in reg. 49(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 12(c)(ii)(cc)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/12/c/ii/cc)
 
-[^key-e9d82481f09c2692619fe0200b16b78f]: Textual amendment: [Reg. 49(4)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/49/4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [498(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/498/c)
+[^c-e9d82481f09c2692619fe0200b16b78f]: Textual amendment: [Reg. 49(4)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/49/4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [498(c)](https://www.legislation.gov.uk/uksi/2001/3649/article/498/c)
 
-[^key-644aa1e7a858e859d0ba39531de0cbf4]: Commencement: Reg. 50 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
+[^c-644aa1e7a858e859d0ba39531de0cbf4]: Commencement: Reg. 50 in force at 1.7.1995, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1995/1442/regulation/1/2)
 
-[^key-09f10c2d7d8da072ba9d0d1a273807e7]: Textual amendment: [Regs. 51](https://www.legislation.gov.uk/uksi/1995/1442/regulation/51), [52](https://www.legislation.gov.uk/uksi/1995/1442/regulation/52) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [499](https://www.legislation.gov.uk/uksi/2001/3649/article/499)
+[^c-09f10c2d7d8da072ba9d0d1a273807e7]: Textual amendment: [Regs. 51](https://www.legislation.gov.uk/uksi/1995/1442/regulation/51), [52](https://www.legislation.gov.uk/uksi/1995/1442/regulation/52) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [499](https://www.legislation.gov.uk/uksi/2001/3649/article/499)
 
-[^key-b231253d376c767f25799b27a9afe340]: Textual amendment: [Regs. 53-54](https://www.legislation.gov.uk/uksi/1995/1442/regulation/53) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001 (S.I. 2001/2967)](https://www.legislation.gov.uk/uksi/2001/2967), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/2967/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/2) (with [arts. 9](https://www.legislation.gov.uk/uksi/2001/2967/article/9), [11](https://www.legislation.gov.uk/uksi/2001/2967/article/11), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/1), [2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/2))
+[^c-b231253d376c767f25799b27a9afe340]: Textual amendment: [Regs. 53-54](https://www.legislation.gov.uk/uksi/1995/1442/regulation/53) revoked (1.12.2001) by [The Financial Services and Markets Act 2000 (Transitional Provisions, Repeals and Savings) (Financial Services Compensation Scheme) Order 2001 (S.I. 2001/2967)](https://www.legislation.gov.uk/uksi/2001/2967), [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/2967/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/2) (with [arts. 9](https://www.legislation.gov.uk/uksi/2001/2967/article/9), [11](https://www.legislation.gov.uk/uksi/2001/2967/article/11), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/1), [2](https://www.legislation.gov.uk/uksi/2001/2967/schedule/1/part/2))

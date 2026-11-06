@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Transfer of jurisdiction of actions involving letting agents[^key-fdaf0b5df59cabf5d2c200536087daee]
+## 57. Transfer of jurisdiction of actions involving letting agents[^c-fdaf0b5df59cabf5d2c200536087daee]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fdaf0b5df59cabf5d2c200536087daee]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/14/section/57) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-fdaf0b5df59cabf5d2c200536087daee]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2014/14/section/57) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

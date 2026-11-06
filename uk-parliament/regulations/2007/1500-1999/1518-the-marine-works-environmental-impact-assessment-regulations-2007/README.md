@@ -30,29 +30,29 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Marine Works (Environmental Impact Assessment) Regulations 2007 *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+The Marine Works (Environmental Impact Assessment) Regulations 2007 *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Made *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Made *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-21st May 2007 *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+21st May 2007 *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Laid before Parliament *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Laid before Parliament *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-25th May 2007 *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+25th May 2007 *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Coming into force *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Coming into force *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-24th June 2007 *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+24th June 2007 *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-These Regulations are made in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483][^f00001] and section 56 of the Finance Act 1973 *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483][^f00002].
+These Regulations are made in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483][^f00001] and section 56 of the Finance Act 1973 *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483][^f00002].
 
-The Secretary of State for Environment, Food and Rural Affairs has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483][^f00003].[^key-d9903d21cdcf9bf5054dc169b7a15e79]
+The Secretary of State for Environment, Food and Rural Affairs has been designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483][^f00003].[^c-d9903d21cdcf9bf5054dc169b7a15e79]
 
-The Secretary of State for Environment, Food and Rural Affairs, with the consent of the Treasury, makes the following Regulations: *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483][^key-d9903d21cdcf9bf5054dc169b7a15e79]
+The Secretary of State for Environment, Food and Rural Affairs, with the consent of the Treasury, makes the following Regulations: *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483][^c-d9903d21cdcf9bf5054dc169b7a15e79]
 
 ## Contents
 
-### PART 1 (affected by repeal, see note) — INTRODUCTION (affected by repeal, see note)[^key-02c0b69fbc163db02681d8d002687483][^key-02c0b69fbc163db02681d8d002687483]
+### PART 1 (affected by repeal, see note) — INTRODUCTION (affected by repeal, see note)[^c-02c0b69fbc163db02681d8d002687483][^c-02c0b69fbc163db02681d8d002687483]
 
 *Extent: E+W+S+NI*
 
@@ -62,7 +62,7 @@ The Secretary of State for Environment, Food and Rural Affairs, with the consent
 - [Section 2A — Proposed activity which would otherwise be a regulated activity](part-1/section-2a.md)
 - [Section 3 — Fees](part-1/section-3.md)
 
-### PART 2 (affected by repeal, see note) — REGULATED ACTIVITY IN RELATION TO WHICH AN ENVIRONMENTAL IMPACT ASSESSMENT IS (OR MAY BE) REQUIRED (affected by repeal, see note)[^key-02c0b69fbc163db02681d8d002687483][^key-02c0b69fbc163db02681d8d002687483]
+### PART 2 (affected by repeal, see note) — REGULATED ACTIVITY IN RELATION TO WHICH AN ENVIRONMENTAL IMPACT ASSESSMENT IS (OR MAY BE) REQUIRED (affected by repeal, see note)[^c-02c0b69fbc163db02681d8d002687483][^c-02c0b69fbc163db02681d8d002687483]
 
 *Extent: E+W+S+NI*
 
@@ -78,7 +78,7 @@ The Secretary of State for Environment, Food and Rural Affairs, with the consent
 - [Section 10A — Further provisions in relation to Article 2(4) of the EIA Directive](part-2/section-10a.md)
 - [Section 11 — Screening opinions](part-2/section-11.md)
 
-### PART 3 (affected by repeal, see note) — ENVIRONMENTAL IMPACT ASSESSMENTS (affected by repeal, see note)[^key-02c0b69fbc163db02681d8d002687483][^key-02c0b69fbc163db02681d8d002687483]
+### PART 3 (affected by repeal, see note) — ENVIRONMENTAL IMPACT ASSESSMENTS (affected by repeal, see note)[^c-02c0b69fbc163db02681d8d002687483][^c-02c0b69fbc163db02681d8d002687483]
 
 *Extent: E+W+S+NI*
 
@@ -101,7 +101,7 @@ The Secretary of State for Environment, Food and Rural Affairs, with the consent
 - [Section 24ZA — Notification and publication of regulatory decisions](part-3/section-24za.md)
 - [Section 24A — Fees in relation to the assessment etc. of the results of monitoring measures](part-3/section-24a.md)
 
-### PART 4 (affected by repeal, see note) — OFFENCES (affected by repeal, see note)[^key-02c0b69fbc163db02681d8d002687483][^key-02c0b69fbc163db02681d8d002687483]
+### PART 4 (affected by repeal, see note) — OFFENCES (affected by repeal, see note)[^c-02c0b69fbc163db02681d8d002687483][^c-02c0b69fbc163db02681d8d002687483]
 
 *Extent: E+W+S+NI*
 
@@ -109,7 +109,7 @@ The Secretary of State for Environment, Food and Rural Affairs, with the consent
 - [Section 26 — Offences committed by bodies corporate](part-4/section-26.md)
 - [Section 27 — Offences committed by Scottish partnerships](part-4/section-27.md)
 
-### PART 5 (affected by repeal, see note) — MISCELLANEOUS (affected by repeal, see note)[^key-02c0b69fbc163db02681d8d002687483][^key-02c0b69fbc163db02681d8d002687483]
+### PART 5 (affected by repeal, see note) — MISCELLANEOUS (affected by repeal, see note)[^c-02c0b69fbc163db02681d8d002687483][^c-02c0b69fbc163db02681d8d002687483]
 
 *Extent: E+W+S+NI*
 
@@ -128,19 +128,19 @@ The Secretary of State for Environment, Food and Rural Affairs, with the consent
 
 *Extent: E+W+S+NI*
 
-Ben Bradshaw *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Ben Bradshaw *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Minister of State *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Minister of State *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Department for Environment, Food and Rural Affairs *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Department for Environment, Food and Rural Affairs *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-We concur, *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+We concur, *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Alan Campbell *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Alan Campbell *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Frank Roy *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Frank Roy *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
-Two of the Lords Commissioners of Her Majesty’s Treasury *(affected by repeal, see note)*[^key-02c0b69fbc163db02681d8d002687483]
+Two of the Lords Commissioners of Her Majesty’s Treasury *(affected by repeal, see note)*[^c-02c0b69fbc163db02681d8d002687483]
 
 *Extent: E+W+S+NI*
 
@@ -170,7 +170,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 ## Annotations
 
-[^key-02c0b69fbc163db02681d8d002687483]: Textual amendment: Regulations revoked (S.) (16.5.2017) by [The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/115)](https://www.legislation.gov.uk/ssi/2017/115), [reg. 42(a)](https://www.legislation.gov.uk/ssi/2017/115/regulation/42/a) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/115/regulation/1/2), [40](https://www.legislation.gov.uk/ssi/2017/115/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/115/regulation/41))
+[^c-02c0b69fbc163db02681d8d002687483]: Textual amendment: Regulations revoked (S.) (16.5.2017) by [The Marine Works (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/115)](https://www.legislation.gov.uk/ssi/2017/115), [reg. 42(a)](https://www.legislation.gov.uk/ssi/2017/115/regulation/42/a) (with [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/115/regulation/1/2), [40](https://www.legislation.gov.uk/ssi/2017/115/regulation/40), [41](https://www.legislation.gov.uk/ssi/2017/115/regulation/41))
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers conferred by section 2(2) were extended by virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51). As regards functions transferred to the Scottish Ministers by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), these Regulations extend to Scotland pursuant to section 57(1) of that Act.
 
@@ -178,4 +178,4 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00003]: Footnote: [S.I. 1988/785](https://www.legislation.gov.uk/uksi/1988/785).
 
-[^key-d9903d21cdcf9bf5054dc169b7a15e79]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2007/1518) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-d9903d21cdcf9bf5054dc169b7a15e79]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2007/1518) power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

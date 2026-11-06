@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Continuing suitability of the placement[^key-b450c8909dfe6dc0f789c5dd158eda4d]
+## 14. Continuing suitability of the placement[^c-b450c8909dfe6dc0f789c5dd158eda4d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If, as a result of a change in the child's assessed needs, the placement made by
 
 ## Annotations
 
-[^key-b450c8909dfe6dc0f789c5dd158eda4d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/169/regulation/14) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-b450c8909dfe6dc0f789c5dd158eda4d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2019/169/regulation/14) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

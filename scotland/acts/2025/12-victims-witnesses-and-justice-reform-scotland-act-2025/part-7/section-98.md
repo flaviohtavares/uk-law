@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Statutory offences: art and part and aiding and abetting[^key-6ac7744c4c1a52f4880ebfedaa020506]
+## 98. Statutory offences: art and part and aiding and abetting[^c-6ac7744c4c1a52f4880ebfedaa020506]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac7744c4c1a52f4880ebfedaa020506]: Commencement: S. 98 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-6ac7744c4c1a52f4880ebfedaa020506]: Commencement: S. 98 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

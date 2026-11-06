@@ -52,9 +52,9 @@ Now, therefore, Her Majesty, by virtue and in exercise of the powers conferred o
 
 ## PART 1 — GENERAL
 
-**1.**[^key-b69934519be6ac8729d3c961434a5a16] This Order may be cited as the International Tribunal for the Law of the Sea (Immunities and Privileges) Order 2005, and shall come into force on the date, specified in the London, Edinburgh and Belfast Gazettes, on which the Agreement on the Privileges and Immunities of the International Tribunal for the Law of the Sea done at New York on 1st July 1997 [^f00003] enters into force in respect of the United Kingdom.
+**1.**[^c-b69934519be6ac8729d3c961434a5a16] This Order may be cited as the International Tribunal for the Law of the Sea (Immunities and Privileges) Order 2005, and shall come into force on the date, specified in the London, Edinburgh and Belfast Gazettes, on which the Agreement on the Privileges and Immunities of the International Tribunal for the Law of the Sea done at New York on 1st July 1997 [^f00003] enters into force in respect of the United Kingdom.
 
-**2.**[^key-05549ec6d025f3e26a634bc791aad976] In this Order—
+**2.**[^c-05549ec6d025f3e26a634bc791aad976] In this Order—
 
 - “the 1961 Convention Articles” means the articles (being certain articles of the Vienna Convention on Diplomatic Relations signed in 1961) which are set out in Schedule 1 to the Diplomatic Privileges Act 1964 [^f00004];
 - “Convention” means the United Nations Convention on the Law of the Sea done at Montego Bay on 10th December 1982 [^f00005];
@@ -66,29 +66,29 @@ Now, therefore, Her Majesty, by virtue and in exercise of the powers conferred o
 
 ## PART 2 — THE TRIBUNAL
 
-**3.**[^key-680915d3887a7cf1772867ef478da276] The Tribunal shall have the legal capacities of a body corporate.
+**3.**[^c-680915d3887a7cf1772867ef478da276] The Tribunal shall have the legal capacities of a body corporate.
 
-**4.**[^key-3d2a34d8d2a523b60ca81b2e77f50358] The Tribunal shall enjoy immunity from suit and legal process, including in respect of its property, assets and funds, except in so far as the Tribunal has expressly waived such immunity in any particular case.
+**4.**[^c-3d2a34d8d2a523b60ca81b2e77f50358] The Tribunal shall enjoy immunity from suit and legal process, including in respect of its property, assets and funds, except in so far as the Tribunal has expressly waived such immunity in any particular case.
 
-**5.**[^key-9b8f7fc843c37d20d6bc2ecde02d58c5] The Tribunal shall have the like inviolability of official archives and premises as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives and premises of a diplomatic mission.
+**5.**[^c-9b8f7fc843c37d20d6bc2ecde02d58c5] The Tribunal shall have the like inviolability of official archives and premises as, in accordance with the 1961 Convention Articles, is accorded in respect of the official archives and premises of a diplomatic mission.
 
-**6.**[^key-c2110222cc791b6d603896d59b01c70d] The Tribunal, its assets, income and other property shall have exemption from income tax, capital gains tax and corporation tax.
+**6.**[^c-c2110222cc791b6d603896d59b01c70d] The Tribunal, its assets, income and other property shall have exemption from income tax, capital gains tax and corporation tax.
 
-**7.**[^key-df69911d7913681f50c49fd9f642e4fd] The Tribunal shall have the like relief from rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
+**7.**[^c-df69911d7913681f50c49fd9f642e4fd] The Tribunal shall have the like relief from rates on its official premises as, in accordance with Article 23 of the 1961 Convention Articles, is accorded in respect of the premises of a diplomatic mission.
 
-**8.**[^key-d5a7d413d549af60bc6c41e9f4b1d148] The Tribunal shall have exemption from duties (whether of customs or excise) and taxes on the importation of goods and publications of the Tribunal imported by the Tribunal for its official use, such exemption to be subject to compliance with such conditions as the Commissioners for Her Majesty’s Revenue and Customs may prescribe for the protection of the Revenue.
+**8.**[^c-d5a7d413d549af60bc6c41e9f4b1d148] The Tribunal shall have exemption from duties (whether of customs or excise) and taxes on the importation of goods and publications of the Tribunal imported by the Tribunal for its official use, such exemption to be subject to compliance with such conditions as the Commissioners for Her Majesty’s Revenue and Customs may prescribe for the protection of the Revenue.
 
-**9.**[^key-bdf887d26699b55f75323e16af01129d] The Tribunal shall have exemption from prohibitions and restrictions, except where the prohibitions or restrictions arise from European Community law, on importation or exportation of goods by the Tribunal for its official use and in the case of any publications of the Tribunal imported or exported by it.
+**9.**[^c-bdf887d26699b55f75323e16af01129d] The Tribunal shall have exemption from prohibitions and restrictions, except where the prohibitions or restrictions arise from European Community law, on importation or exportation of goods by the Tribunal for its official use and in the case of any publications of the Tribunal imported or exported by it.
 
-**10.**[^key-3a2c7999479673ab0c877ea45e804700] The Tribunal shall have relief, under arrangements made by the Commissioners for Her Majesty’s Revenue and Customs, by way of refund of duty (whether of customs or excise) paid on imported hydrocarbon oil (within the meaning of the Hydrocarbon Oil Duties Act 1979 [^f00006]) or value added tax paid on the importation of such oil which is bought in the United Kingdom by the Tribunal and necessary for the exercise of its official activities, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements.
+**10.**[^c-3a2c7999479673ab0c877ea45e804700] The Tribunal shall have relief, under arrangements made by the Commissioners for Her Majesty’s Revenue and Customs, by way of refund of duty (whether of customs or excise) paid on imported hydrocarbon oil (within the meaning of the Hydrocarbon Oil Duties Act 1979 [^f00006]) or value added tax paid on the importation of such oil which is bought in the United Kingdom by the Tribunal and necessary for the exercise of its official activities, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements.
 
-**11.**[^key-56f2ac5778105e6f304eaccb714b3cec] The Tribunal shall have relief, under arrangements made by the Secretary of State, by way of refund of car tax paid on any vehicles and value added tax paid on the supply of any goods or services which are necessary for the official purposes of the Tribunal, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements.
+**11.**[^c-56f2ac5778105e6f304eaccb714b3cec] The Tribunal shall have relief, under arrangements made by the Secretary of State, by way of refund of car tax paid on any vehicles and value added tax paid on the supply of any goods or services which are necessary for the official purposes of the Tribunal, such relief to be subject to compliance with such conditions as may be imposed in accordance with the arrangements.
 
-**12.**[^key-b9d9e969c2fc8e0a0195fcc748333fe8] The Tribunal shall have relief, under arrangements made by the Secretary of State, by way of refund of Insurance Premium Tax and Air Passenger Duty paid by the Tribunal in the exercise of its official activities.
+**12.**[^c-b9d9e969c2fc8e0a0195fcc748333fe8] The Tribunal shall have relief, under arrangements made by the Secretary of State, by way of refund of Insurance Premium Tax and Air Passenger Duty paid by the Tribunal in the exercise of its official activities.
 
 ## PART 3 — MEMBERS OF THE TRIBUNAL
 
-**13.**[^key-28b6e450a6bc2378d99241d3750a73b8] (1) Except in so far as in any particular case any privilege or immunity is waived as set out in paragraph (8), members of the Tribunal shall enjoy—
+**13.**[^c-28b6e450a6bc2378d99241d3750a73b8] (1) Except in so far as in any particular case any privilege or immunity is waived as set out in paragraph (8), members of the Tribunal shall enjoy—
 
 - (a) when engaged on the business of the Tribunal;
 - (b) when residing in the United Kingdom for the purpose of holding themselves at the disposal of the Tribunal;
@@ -128,7 +128,7 @@ shall enjoy the privileges and immunities provided for in paragraph (2) during t
 
 ## PART 4 — REGISTRAR
 
-**14.**[^key-8cf7c239318b0ac6898de6d6e27f0bd5] (1) Except in so far as in any particular case any privilege or immunity is waived as set out in paragraph (5), the Registrar, when engaged on the business of the Tribunal, shall enjoy—
+**14.**[^c-8cf7c239318b0ac6898de6d6e27f0bd5] (1) Except in so far as in any particular case any privilege or immunity is waived as set out in paragraph (5), the Registrar, when engaged on the business of the Tribunal, shall enjoy—
 
 - (a) the like immunity from suit and legal process, the like inviolability of residence, the like immunity from personal arrest, detention and seizure of personal baggage, and the like exemption or relief from taxes and rates as are accorded to or in respect of a diplomatic agent;
 - (b) the like exemption from duties and taxes on the importation of articles imported for his personal use, including articles imported for his establishment, as in accordance with paragraph 1 of Article 36 of the 1961 Convention Articles is accorded to a diplomatic agent;
@@ -150,7 +150,7 @@ except in so far as in any particular case any privilege or immunity is waived a
 
 ## PART 5 — OTHER OFFICIALS OF THE TRIBUNAL
 
-**15.**[^key-3112dd6bd9e2fc71151d5e1156ffd138] (1) Except in so far as in any particular case any privilege or immunity is waived in accordance with paragraph (5), officials of the Tribunal other than the Registrar, when engaged on the business of the Tribunal and as necessary for the independent exercise of their functions, shall enjoy—
+**15.**[^c-3112dd6bd9e2fc71151d5e1156ffd138] (1) Except in so far as in any particular case any privilege or immunity is waived in accordance with paragraph (5), officials of the Tribunal other than the Registrar, when engaged on the business of the Tribunal and as necessary for the independent exercise of their functions, shall enjoy—
 
 - (a) immunity from suit and legal process (even after they have ceased to exercise their functions) in respect of acts, including words written or spoken, done by them in the course of discharging their functions for the Tribunal;
 - (b) exemption from income tax in respect of salaries and emoluments received by them from the Tribunal as officials of the Tribunal;
@@ -172,7 +172,7 @@ except in so far as in any particular case any privilege or immunity is waived a
 
 ## PART 6 — EXPERTS
 
-**16.**[^key-7299c43f87f60007240253417136a62d] (1) Except in so far as in any particular case any privilege or immunity is waived by the Tribunal, experts appointed under article 289 of the Convention, during the period of their mission (including time spent on journeys in that connection), as necessary for the independent exercise of their functions, shall enjoy—
+**16.**[^c-7299c43f87f60007240253417136a62d] (1) Except in so far as in any particular case any privilege or immunity is waived by the Tribunal, experts appointed under article 289 of the Convention, during the period of their mission (including time spent on journeys in that connection), as necessary for the independent exercise of their functions, shall enjoy—
 
 - (a) immunity from suit and legal process (even after they have ceased to exercise their functions) in respect of acts, including words written or spoken, done by them in the course of discharging their functions for the Tribunal;
 - (b) the like exemption and privileges in respect of their personal baggage as in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles are accorded to a diplomatic agent;
@@ -183,7 +183,7 @@ except in so far as in any particular case any privilege or immunity is waived a
 
 ## PART 7 — AGENTS, COUNSEL AND ADVOCATES
 
-**17.**[^key-6810811ed72c3b54992e3dc81b816681] (1) Except in so far as in any particular case any privilege or immunity is waived in accordance with paragraph (3), and subject to the production of the required certificate, agents, counsel and advocates before the Tribunal during the period of their missions (including time spent on journeys in that connection), as necessary for the independent performance of their functions, shall enjoy—
+**17.**[^c-6810811ed72c3b54992e3dc81b816681] (1) Except in so far as in any particular case any privilege or immunity is waived in accordance with paragraph (3), and subject to the production of the required certificate, agents, counsel and advocates before the Tribunal during the period of their missions (including time spent on journeys in that connection), as necessary for the independent performance of their functions, shall enjoy—
 
 - (a) immunity from suit and legal process (even after they have ceased to exercise their functions) in respect of acts, including words written or spoken, done by them in the course of discharging their functions for the Tribunal;
 - (b) the like exemption and privileges in respect of their personal baggage as in accordance with paragraph 2 of Article 36 of the 1961 Convention Articles are accorded to a diplomatic agent;
@@ -201,11 +201,11 @@ except in so far as in any particular case any privilege or immunity is waived a
 
 ## PART 8 — WITNESSES, EXPERTS AND PERSONS PERFORMING MISSIONS
 
-**18.**[^key-d24be2c8df478f57450afe505543c711] (1) Except in so far as in any particular case any privilege or immunity is waived by the Tribunal, witnesses, experts and persons performing missions by order of the Tribunal, during the period of their mission (including time spent on journeys in that connection), shall enjoy the privileges and immunities provided for in article 16 (1).
+**18.**[^c-d24be2c8df478f57450afe505543c711] (1) Except in so far as in any particular case any privilege or immunity is waived by the Tribunal, witnesses, experts and persons performing missions by order of the Tribunal, during the period of their mission (including time spent on journeys in that connection), shall enjoy the privileges and immunities provided for in article 16 (1).
 
 (2) The provisions of paragraph (1) shall not operate so as to confer any privilege or immunity set out in article 16 (1), sub-paragraphs (b), (c) and (d) on any person who is a British citizen, a British overseas territories citizen, a British Overseas citizen, a British national (Overseas) or permanently resident in the United Kingdom.
 
-**19.**[^key-e7539dedde19f15e73adebecc0cf7873] The International Tribunal for the Law of the Sea (Immunities and Privileges) Order 1996 [^f00007] is hereby revoked.
+**19.**[^c-e7539dedde19f15e73adebecc0cf7873] The International Tribunal for the Law of the Sea (Immunities and Privileges) Order 1996 [^f00007] is hereby revoked.
 
 A. K. Galloway
 
@@ -221,50 +221,50 @@ This Order confers the legal capacities of a body corporate and privileges and i
 
 [^f00002]: Footnote: [2005 c. 20](https://www.legislation.gov.uk/ukpga/2005/20).
 
-[^key-b69934519be6ac8729d3c961434a5a16]: Commencement: Art. 1 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-b69934519be6ac8729d3c961434a5a16]: Commencement: Art. 1 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
 [^f00003]: Footnote: Cm. 4526.
 
-[^key-05549ec6d025f3e26a634bc791aad976]: Commencement: Art. 2 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-05549ec6d025f3e26a634bc791aad976]: Commencement: Art. 2 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
 [^f00004]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81); as amended by section 2(2) of, and paragraph 4 of the Schedule to, the Hong Kong Act [1985 (c. 15)](https://www.legislation.gov.uk/ukpga/1985/15) and by section 1(1) of the Arms Control and Disarmament (Privileges and Immunities) Act [1988 (c. 2)](https://www.legislation.gov.uk/ukpga/1988/2).
 
 [^f00005]: Footnote: Cm. 4524.
 
-[^key-680915d3887a7cf1772867ef478da276]: Commencement: Art. 3 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-680915d3887a7cf1772867ef478da276]: Commencement: Art. 3 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-3d2a34d8d2a523b60ca81b2e77f50358]: Commencement: Art. 4 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-3d2a34d8d2a523b60ca81b2e77f50358]: Commencement: Art. 4 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-9b8f7fc843c37d20d6bc2ecde02d58c5]: Commencement: Art. 5 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-9b8f7fc843c37d20d6bc2ecde02d58c5]: Commencement: Art. 5 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-c2110222cc791b6d603896d59b01c70d]: Commencement: Art. 6 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-c2110222cc791b6d603896d59b01c70d]: Commencement: Art. 6 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-df69911d7913681f50c49fd9f642e4fd]: Commencement: Art. 7 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-df69911d7913681f50c49fd9f642e4fd]: Commencement: Art. 7 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-d5a7d413d549af60bc6c41e9f4b1d148]: Commencement: Art. 8 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-d5a7d413d549af60bc6c41e9f4b1d148]: Commencement: Art. 8 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-bdf887d26699b55f75323e16af01129d]: Commencement: Art. 9 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-bdf887d26699b55f75323e16af01129d]: Commencement: Art. 9 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-3a2c7999479673ab0c877ea45e804700]: Commencement: Art. 10 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-3a2c7999479673ab0c877ea45e804700]: Commencement: Art. 10 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
 [^f00006]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-56f2ac5778105e6f304eaccb714b3cec]: Commencement: Art. 11 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-56f2ac5778105e6f304eaccb714b3cec]: Commencement: Art. 11 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-b9d9e969c2fc8e0a0195fcc748333fe8]: Commencement: Art. 12 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-b9d9e969c2fc8e0a0195fcc748333fe8]: Commencement: Art. 12 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-28b6e450a6bc2378d99241d3750a73b8]: Commencement: Art. 13 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-28b6e450a6bc2378d99241d3750a73b8]: Commencement: Art. 13 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-8cf7c239318b0ac6898de6d6e27f0bd5]: Commencement: Art. 14 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-8cf7c239318b0ac6898de6d6e27f0bd5]: Commencement: Art. 14 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-3112dd6bd9e2fc71151d5e1156ffd138]: Commencement: Art. 15 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-3112dd6bd9e2fc71151d5e1156ffd138]: Commencement: Art. 15 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-7299c43f87f60007240253417136a62d]: Commencement: Art. 16 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-7299c43f87f60007240253417136a62d]: Commencement: Art. 16 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-6810811ed72c3b54992e3dc81b816681]: Commencement: Art. 17 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-6810811ed72c3b54992e3dc81b816681]: Commencement: Art. 17 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-d24be2c8df478f57450afe505543c711]: Commencement: Art. 18 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-d24be2c8df478f57450afe505543c711]: Commencement: Art. 18 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
-[^key-e7539dedde19f15e73adebecc0cf7873]: Commencement: Art. 19 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
+[^c-e7539dedde19f15e73adebecc0cf7873]: Commencement: Art. 19 in force at 16.6.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2047/article/1)
 
 [^f00007]: Footnote: S.I. [1996/272](https://www.legislation.gov.uk/uksi/1996/272)

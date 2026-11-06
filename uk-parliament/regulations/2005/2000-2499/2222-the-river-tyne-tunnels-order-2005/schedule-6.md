@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — LAND COMPRISING OPEN SPACE EXCLUDED FROM COMPULSORY ACQUISITION[^key-759ede0bb43a4679f1440f3586c127a3]
+## SCHEDULE 6 — LAND COMPRISING OPEN SPACE EXCLUDED FROM COMPULSORY ACQUISITION[^c-759ede0bb43a4679f1440f3586c127a3]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ Article 25
 
 ## Annotations
 
-[^key-759ede0bb43a4679f1440f3586c127a3]: Commencement: Sch. 6 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-759ede0bb43a4679f1440f3586c127a3]: Commencement: Sch. 6 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

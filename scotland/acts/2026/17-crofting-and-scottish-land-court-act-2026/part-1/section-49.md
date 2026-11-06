@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Public notification[^key-0be2e42fa33bc3b142f249577fa9bb25]
+## 49. Public notification[^c-0be2e42fa33bc3b142f249577fa9bb25]
 
 *Extent: S*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0be2e42fa33bc3b142f249577fa9bb25]: Commencement: S. 49 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-0be2e42fa33bc3b142f249577fa9bb25]: Commencement: S. 49 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

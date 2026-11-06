@@ -52,7 +52,7 @@ The Legal Services Board has complied with the consultation requirements in sect
 
 ## General
 
-### 1. Citation, commencement and interpretation[^key-43f598efdbf40d5f2c6c45bdd6ad51bf]
+### 1. Citation, commencement and interpretation[^c-43f598efdbf40d5f2c6c45bdd6ad51bf]
 
 (1) These Rules may be cited as the Legal Services Act 2007 (Levy) (No.2) Rules 2010.
 
@@ -69,9 +69,9 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 ## Annual levy
 
-### 2. Levy imposed under these Rules[^key-654783cdeef50a7a45c92fcc890e0cbf]
+### 2. Levy imposed under these Rules[^c-654783cdeef50a7a45c92fcc890e0cbf]
 
-(1) Subject to paragraph (6), a[^key-a25ee0c3035ea6e9891fe5564f3c3f7f] levy is to be imposed on leviable bodies in respect of the 12 month period ending with 31st March 2011 and in respect of each successive 12 month period.
+(1) Subject to paragraph (6), a[^c-a25ee0c3035ea6e9891fe5564f3c3f7f] levy is to be imposed on leviable bodies in respect of the 12 month period ending with 31st March 2011 and in respect of each successive 12 month period.
 
 (2) The levy is for the purpose of raising an amount corresponding to the aggregate of—
 
@@ -80,7 +80,7 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 (3) The expenditure referred to in paragraph (2)(a) or (b) may include—
 
-- (a) estimated expenditure in so far as actual expenditure figures are not available to the Board[^key-505f13f6b910c850480de02326658ba3]; and
+- (a) estimated expenditure in so far as actual expenditure figures are not available to the Board[^c-505f13f6b910c850480de02326658ba3]; and
 - (b) such amount as is necessary to make good any shortfall in respect of a levy previously imposed.
 
 (4) For the purposes of paragraph (3)(b)—
@@ -90,7 +90,7 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 (5) The Board must obtain the Lord Chancellor’s agreement to the amount to be raised by way of the levy in respect of each 12 month period.
 
-(6)[^key-1dd2d278f226334d7378629ad4bc5769] The levy is not to be imposed on a leviable body to whom this paragraph applies until its regulatory arrangements in respect of reserved legal activities are approved by the Board under Part 3 of Schedule 4 to the 2007 Act.
+(6)[^c-1dd2d278f226334d7378629ad4bc5769] The levy is not to be imposed on a leviable body to whom this paragraph applies until its regulatory arrangements in respect of reserved legal activities are approved by the Board under Part 3 of Schedule 4 to the 2007 Act.
 
 (7) Paragraph (6) applies to—
 
@@ -99,13 +99,13 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 ## Amount payable by each leviable body
 
-### 3. Determining the amount of the levy for each leviable body[^key-b99e31c8223a9d37eca3212c8bd7875c]
+### 3. Determining the amount of the levy for each leviable body[^c-b99e31c8223a9d37eca3212c8bd7875c]
 
 (1) The amount that each leviable body must pay to the Board in respect of the levy imposed in respect of any 12 month period is to be determined by adding together the amounts determined for that body under rules 4 and 5 (subject to paragraphs (2) and (3)).
 
-(2) Where a body becomes a leviable body or a leviable body to whom rule 2(6) applies has its regulatory arrangements in respect of reserved legal activities approved by the Board under Part 3 of Schedule 4 to the 2007 Act[^key-592a30462e4b4bd4c7becbb5307a5e57] in the course of any 12 month period (“the initial period”)—
+(2) Where a body becomes a leviable body or a leviable body to whom rule 2(6) applies has its regulatory arrangements in respect of reserved legal activities approved by the Board under Part 3 of Schedule 4 to the 2007 Act[^c-592a30462e4b4bd4c7becbb5307a5e57] in the course of any 12 month period (“the initial period”)—
 
-- (a) £3000[^key-34153fd16de73c430b6eab386681ac2f] is payable by the leviable body under paragraph (1) in respect of the initial period; and
+- (a) £3000[^c-34153fd16de73c430b6eab386681ac2f] is payable by the leviable body under paragraph (1) in respect of the initial period; and
 - (b) the amount that the leviable body must pay to the Board in respect of each subsequent 12 month period is the amount determined for that body under rule 4 only; but
 - (c) if the leviable body is the subject of a determination under rule 4(3) or 5(3) in respect of any 12 month period, the amount that the body must pay to the Board under paragraph (1) is—
   - (i) where the determination is in respect of the initial period, any amount determined for that body under rule 4(4)(a) or 5(4)(a) (or the aggregate of such amounts); and
@@ -123,9 +123,9 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 (5) The leviable body must pay to the Board the amount stated in the notice.
 
-### 4. Apportionment of leviable Board expenditure[^key-eadaed2d2496d909f4c342f8e6e3cd54]
+### 4. Apportionment of leviable Board expenditure[^c-eadaed2d2496d909f4c342f8e6e3cd54]
 
-(1) Subject to paragraphs (3) to (6)[^key-669e3bc6525f548db374c103cae55455], the amount payable by a leviable body under this rule is an amount equal to the relevant proportion of leviable Board expenditure.
+(1) Subject to paragraphs (3) to (6)[^c-669e3bc6525f548db374c103cae55455], the amount payable by a leviable body under this rule is an amount equal to the relevant proportion of leviable Board expenditure.
 
 (2) For these purposes—
 
@@ -144,13 +144,13 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 (5) The amount payable by each leviable body which is the subject of a determination under paragraph (3) is the aggregate of the amounts determined for that body under paragraphs (1) and (4)(a).
 
-(6)[^key-da69293f8a99aa68d52d42e55bbae654] The total amount of leviable Board expenditure to be used in applying the calculation under paragraph (1) is to be reduced by any amount payable by a leviable body under rule 3(2)(a).
+(6)[^c-da69293f8a99aa68d52d42e55bbae654] The total amount of leviable Board expenditure to be used in applying the calculation under paragraph (1) is to be reduced by any amount payable by a leviable body under rule 3(2)(a).
 
-### 5. Apportionment of leviable OLC expenditure[^key-0ac53944837731559ec4c53084de2ee3]
+### 5. Apportionment of leviable OLC expenditure[^c-0ac53944837731559ec4c53084de2ee3]
 
-(1) Subject to paragraphs (3) to (5), the amount payable by a leviable body under this rule is £5000 plus[^key-2e233700c6fe24ab2e19a1e77016c365] an amount equal to the relevant proportion of leviable OLC expenditure.
+(1) Subject to paragraphs (3) to (5), the amount payable by a leviable body under this rule is £5000 plus[^c-2e233700c6fe24ab2e19a1e77016c365] an amount equal to the relevant proportion of leviable OLC expenditure.
 
-(2)[^key-8f764a35af6d54fdcefcd073e2f18791] For these purposes—
+(2)[^c-8f764a35af6d54fdcefcd073e2f18791] For these purposes—
 
 - (a) subject to paragraph (2A), “**the relevant proportion**” in relation to a leviable body is the number of service complaints in respect of that leviable body accepted in the course of the reference period by the OLC, as a proportion of the total number of service complaints in respect of all leviable bodies accepted in the course of that period by the OLC; and
 - (b) “the reference period” is the three year period ending on 31st March prior to the 12 month period in respect of which the levy is imposed.
@@ -169,18 +169,18 @@ is a reference to such expenditure in relation to the 12 month period in respect
 
 (5) The amount payable by each leviable body which is the subject of a determination under paragraph (3) is the aggregate of the amounts determined for that body under paragraphs (1) and (4)(a).
 
-(6)[^key-ed1760ba097773d459a5b4984f2d2c3a] In this rule, “**service complaint**” means a complaint which is within the jurisdiction of the ombudsman scheme as provided for in Part 6 of the 2007 Act.
+(6)[^c-ed1760ba097773d459a5b4984f2d2c3a] In this rule, “**service complaint**” means a complaint which is within the jurisdiction of the ombudsman scheme as provided for in Part 6 of the 2007 Act.
 
 ## Duty to provide information
 
-### 6. Duty to provide information required to calculate the levy[^key-d05a4035726d116676cda8e5bdf50853]
+### 6. Duty to provide information required to calculate the levy[^c-d05a4035726d116676cda8e5bdf50853]
 
 (1) For the purpose of enabling the Board to determine the amount payable by a leviable body in respect of any 12 month period, each leviable body must provide the Board with the information required by paragraphs (2) and (3).
 
 (2) The information to be provided is—
 
 - (a) for the purposes of rule 4, a statement of the number of persons who were authorised by the leviable body at 1st April of the 12 month period in question; and
-- (b)[^key-9beb347bebb4c16040a6a744d1aa0f20] for the purposes of rule 5, a statement of the number of service complaints accepted in the course of the reference period by the OLC (and for this purpose “**reference period**” has the meaning given in rule 5).
+- (b)[^c-9beb347bebb4c16040a6a744d1aa0f20] for the purposes of rule 5, a statement of the number of service complaints accepted in the course of the reference period by the OLC (and for this purpose “**reference period**” has the meaning given in rule 5).
 
 (3) Any statement provided under paragraph (2) must contain or be accompanied by such information as will enable the Board, or such person as the Board may appoint, to be satisfied that the numbers stated are correct.
 
@@ -189,11 +189,11 @@ is a reference to such expenditure in relation to the 12 month period in respect
 - (a) before the end of the period of one month starting with 1st April of the 12 month period in respect of which the levy is to be imposed; or
 - (b) on or before such later date as may be agreed in writing between the Board and the leviable body.
 
-(5)[^key-622d975e1595a3dd07a9bdc123da6052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-622d975e1595a3dd07a9bdc123da6052] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Arrangements for payment
 
-### 7. Making payment[^key-4e3d01ab24623ba61d4b3f4813f857f3]
+### 7. Making payment[^c-4e3d01ab24623ba61d4b3f4813f857f3]
 
 (1) Subject to paragraph (2), the amount of levy that a leviable body is required to pay to the Board under rule 3 must be paid in full by the leviable body no later than—
 
@@ -204,9 +204,9 @@ whichever is the later.
 
 (2) Where a cancellation order in relation to any body has been made as described in rule 3(3), the reduced amount determined for that body under rule 3(3) is immediately payable with effect from the date of the cancellation order.
 
-### 8. Interest payable on late payment[^key-8023ab1e12e9ba630fcc41ff1a0284ba]
+### 8. Interest payable on late payment[^c-8023ab1e12e9ba630fcc41ff1a0284ba]
 
-If payment is not made by a leviable body in accordance with the requirements of rule 7, the unpaid balance from time to time carries interest[^key-02be15dd4a87f05a651119814575a4db] at the rate which is for the time being specified in section 17(1) of the Judgments Act 1838[^f00011] in relation to a judgment debt.
+If payment is not made by a leviable body in accordance with the requirements of rule 7, the unpaid balance from time to time carries interest[^c-02be15dd4a87f05a651119814575a4db] at the rate which is for the time being specified in section 17(1) of the Judgments Act 1838[^f00011] in relation to a judgment debt.
 
 Made by the Legal Services Board on 30th November 2010
 
@@ -260,50 +260,50 @@ An impact assessment in relation to the levy is available from the Legal Service
 
 [^f00001]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-43f598efdbf40d5f2c6c45bdd6ad51bf]: Commencement: Rule 1 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-43f598efdbf40d5f2c6c45bdd6ad51bf]: Commencement: Rule 1 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
 [^f00002]: Footnote: “Leviable body”, “leviable Board expenditure” and “leviable OLC expenditure” are defined in section 173 of the Legal Services Act 2007. “The Board” and “the OLC” are respectively defined in sections 2 and 114 of that Act.
 
-[^key-654783cdeef50a7a45c92fcc890e0cbf]: Commencement: Rule 2 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-654783cdeef50a7a45c92fcc890e0cbf]: Commencement: Rule 2 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-a25ee0c3035ea6e9891fe5564f3c3f7f]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2010/2911/rule/2/1) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/3/a)
+[^c-a25ee0c3035ea6e9891fe5564f3c3f7f]: Textual amendment: Words in [rule 2(1)](https://www.legislation.gov.uk/uksi/2010/2911/rule/2/1) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/3/a)
 
-[^key-505f13f6b910c850480de02326658ba3]: Textual amendment: Words in [rule 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2911/rule/2/3/a) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/3/b)
+[^c-505f13f6b910c850480de02326658ba3]: Textual amendment: Words in [rule 2(3)(a)](https://www.legislation.gov.uk/uksi/2010/2911/rule/2/3/a) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/3/b)
 
 [^f00003]: Footnote: [S.I. 2010/213](https://www.legislation.gov.uk/uksi/2010/213).
 
-[^key-1dd2d278f226334d7378629ad4bc5769]: Textual amendment: [Rule 2(6)(7)](https://www.legislation.gov.uk/uksi/2010/2911/rule/2/6/7) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [3(c)](https://www.legislation.gov.uk/uksi/2014/1185/rule/3/c)
+[^c-1dd2d278f226334d7378629ad4bc5769]: Textual amendment: [Rule 2(6)(7)](https://www.legislation.gov.uk/uksi/2010/2911/rule/2/6/7) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [3(c)](https://www.legislation.gov.uk/uksi/2014/1185/rule/3/c)
 
-[^key-b99e31c8223a9d37eca3212c8bd7875c]: Commencement: Rule 3 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-b99e31c8223a9d37eca3212c8bd7875c]: Commencement: Rule 3 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-592a30462e4b4bd4c7becbb5307a5e57]: Textual amendment: Words in rule 3(2) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/4/a)
+[^c-592a30462e4b4bd4c7becbb5307a5e57]: Textual amendment: Words in rule 3(2) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/4/a)
 
-[^key-34153fd16de73c430b6eab386681ac2f]: Textual amendment: Sum in rule 3(2)(a) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/4/b)
+[^c-34153fd16de73c430b6eab386681ac2f]: Textual amendment: Sum in rule 3(2)(a) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/4/b)
 
-[^key-eadaed2d2496d909f4c342f8e6e3cd54]: Commencement: Rule 4 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-eadaed2d2496d909f4c342f8e6e3cd54]: Commencement: Rule 4 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-669e3bc6525f548db374c103cae55455]: Textual amendment: Word in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/2911/rule/4/1) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/5/a)
+[^c-669e3bc6525f548db374c103cae55455]: Textual amendment: Word in [rule 4(1)](https://www.legislation.gov.uk/uksi/2010/2911/rule/4/1) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [5(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/5/a)
 
-[^key-da69293f8a99aa68d52d42e55bbae654]: Textual amendment: [Rule 4(6)](https://www.legislation.gov.uk/uksi/2010/2911/rule/4/6) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/5/b)
+[^c-da69293f8a99aa68d52d42e55bbae654]: Textual amendment: [Rule 4(6)](https://www.legislation.gov.uk/uksi/2010/2911/rule/4/6) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [5(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/5/b)
 
-[^key-0ac53944837731559ec4c53084de2ee3]: Commencement: Rule 5 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-0ac53944837731559ec4c53084de2ee3]: Commencement: Rule 5 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-2e233700c6fe24ab2e19a1e77016c365]: Textual amendment: Words in [rule 5(1)](https://www.legislation.gov.uk/uksi/2010/2911/rule/5/1) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [6(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/6/a)
+[^c-2e233700c6fe24ab2e19a1e77016c365]: Textual amendment: Words in [rule 5(1)](https://www.legislation.gov.uk/uksi/2010/2911/rule/5/1) inserted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [6(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/6/a)
 
-[^key-8f764a35af6d54fdcefcd073e2f18791]: Textual amendment: [Rule 5(2)(2A)](https://www.legislation.gov.uk/uksi/2010/2911/rule/5/2/2A) substituted for rule 5(2) (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/6/b)
+[^c-8f764a35af6d54fdcefcd073e2f18791]: Textual amendment: [Rule 5(2)(2A)](https://www.legislation.gov.uk/uksi/2010/2911/rule/5/2/2A) substituted for rule 5(2) (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [6(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/6/b)
 
-[^key-ed1760ba097773d459a5b4984f2d2c3a]: Textual amendment: [Rule 5(6)](https://www.legislation.gov.uk/uksi/2010/2911/rule/5/6) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [6(c)](https://www.legislation.gov.uk/uksi/2014/1185/rule/6/c)
+[^c-ed1760ba097773d459a5b4984f2d2c3a]: Textual amendment: [Rule 5(6)](https://www.legislation.gov.uk/uksi/2010/2911/rule/5/6) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [6(c)](https://www.legislation.gov.uk/uksi/2014/1185/rule/6/c)
 
-[^key-d05a4035726d116676cda8e5bdf50853]: Commencement: Rule 6 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-d05a4035726d116676cda8e5bdf50853]: Commencement: Rule 6 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-9beb347bebb4c16040a6a744d1aa0f20]: Textual amendment: [Rule 6(2)(b)](https://www.legislation.gov.uk/uksi/2010/2911/rule/6/2/b) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [7(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/7/a)
+[^c-9beb347bebb4c16040a6a744d1aa0f20]: Textual amendment: [Rule 6(2)(b)](https://www.legislation.gov.uk/uksi/2010/2911/rule/6/2/b) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [7(a)](https://www.legislation.gov.uk/uksi/2014/1185/rule/7/a)
 
-[^key-622d975e1595a3dd07a9bdc123da6052]: Textual amendment: [Rule 6(5)](https://www.legislation.gov.uk/uksi/2010/2911/rule/6/5) omitted (2.7.2014) by virtue of [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [7(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/7/b)
+[^c-622d975e1595a3dd07a9bdc123da6052]: Textual amendment: [Rule 6(5)](https://www.legislation.gov.uk/uksi/2010/2911/rule/6/5) omitted (2.7.2014) by virtue of [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [7(b)](https://www.legislation.gov.uk/uksi/2014/1185/rule/7/b)
 
-[^key-4e3d01ab24623ba61d4b3f4813f857f3]: Commencement: Rule 7 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-4e3d01ab24623ba61d4b3f4813f857f3]: Commencement: Rule 7 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-8023ab1e12e9ba630fcc41ff1a0284ba]: Commencement: Rule 8 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
+[^c-8023ab1e12e9ba630fcc41ff1a0284ba]: Commencement: Rule 8 in force at 1.1.2011, see [rule 1(2)](https://www.legislation.gov.uk/uksi/2010/2911/rule/1/2)
 
-[^key-02be15dd4a87f05a651119814575a4db]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/2010/2911/rule/8) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [8](https://www.legislation.gov.uk/uksi/2014/1185/rule/8)
+[^c-02be15dd4a87f05a651119814575a4db]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/2010/2911/rule/8) substituted (2.7.2014) by [The Legal Services Act 2007 (Levy) (No. 2) (Amendment) Rules 2014 (S.I. 2014/1185)](https://www.legislation.gov.uk/uksi/2014/1185), [rules 1](https://www.legislation.gov.uk/uksi/2014/1185/rule/1), [8](https://www.legislation.gov.uk/uksi/2014/1185/rule/8)
 
 [^f00011]: Footnote: [1838 c. 110](https://www.legislation.gov.uk/ukpga/1838/110). A relevant amendment was made by [S.I. 1993/564](https://www.legislation.gov.uk/uksi/1993/564).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Schedule 13 infringements[^key-834e833df356666a7237ab70e6964898]
+## 212. Schedule 13 infringements[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-834e833df356666a7237ab70e6964898]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/ukpga/2002/40/part/8) omitted (6.4.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/4) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-834e833df356666a7237ab70e6964898]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/ukpga/2002/40/part/8) omitted (6.4.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/4) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)

@@ -48,17 +48,17 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with paragraphs 1, 2 and 3 of Schedule 7 to that Act a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-329b69f322c744dba774712a9e99683f]
+## 1. Citation and commencement[^c-329b69f322c744dba774712a9e99683f]
 
 This Order may be cited as the Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 and comes into force on 30th November 2016.
 
-## 2. Interpretation[^key-32aca43e68fcbe5632baa8b2df43ca74]
+## 2. Interpretation[^c-32aca43e68fcbe5632baa8b2df43ca74]
 
 (1) In this Order unless the context otherwise requires—
 
 - “the 2016 Act” means the Bankruptcy (Scotland) Act 2016[^f00002];
 - “Accountant in Bankruptcy” is to be construed in accordance with section 199 of the 2016 Act;
-- “creditor” includes a member State insolvency practitioner[^key-69a34169ef60b96e479c1f89ba84db7e] deemed to be a creditor under section 207 of the 2016 Act[^f00003];
+- “creditor” includes a member State insolvency practitioner[^c-69a34169ef60b96e479c1f89ba84db7e] deemed to be a creditor under section 207 of the 2016 Act[^f00003];
 - “date of sequestration” has the meaning given by section 22(7) of the 2016 Act;
 - “debtor” includes, without prejudice to the expression’s generality, an entity whose estate may be sequestrated by virtue of section 6 of the 2016 Act, a deceased debtor, a deceased debtor’s executor or a person entitled to be appointed a deceased debtor’s executor;
 - “debtor application” means an application for sequestration made to the Accountant in Bankruptcy under section 2(1)(a), 5(a) or 6(3)(a), (4)(b) or (7)(a) of the 2016 Act;
@@ -72,7 +72,7 @@ This Order may be cited as the Bankruptcy (Scotland) Act 2016 (Consequential Pro
 
 (3) Any reference in this Order, however expressed, to the time when a debtor application is made is to be construed as a reference to the time when the application is received by the Accountant in Bankruptcy.
 
-## 3. Provisions ancillary to sections 118 and 119 of the 2016 Act[^key-5c056d201a6ff4ac260b7d5f4f0f2e7f]
+## 3. Provisions ancillary to sections 118 and 119 of the 2016 Act[^c-5c056d201a6ff4ac260b7d5f4f0f2e7f]
 
 (1) If a debtor or relevant person is to be examined under section 118 or 119 of the 2016 Act and is residing in a part of the United Kingdom other than Scotland, the sheriff may on the application of the trustee grant a warrant for the arrest of the debtor or relevant person and to have the arrested person taken to the place of the examination.
 
@@ -96,7 +96,7 @@ and to deliver the document or a copy of the document to the trustee in the sequ
 - “examination” means a private examination under section 118, or a public examination under section 119, of the 2016 Act;
 - “relevant person” means a spouse, civil partner or any other person who the trustee believes can give information relating to the debtor’s assets, the debtor’s dealings with them or the debtor’s conduct in relation to the debtor’s business or financial affairs.
 
-## 4. Effect of discharge under section 137, 138 or 140 of the 2016 Act[^key-376b4a757c47cb8a54ec202bf90abe95]
+## 4. Effect of discharge under section 137, 138 or 140 of the 2016 Act[^c-376b4a757c47cb8a54ec202bf90abe95]
 
 *Extent: E+W+N.I.*
 
@@ -129,7 +129,7 @@ and to deliver the document or a copy of the document to the trustee in the sequ
 
 (7) This article extends to all parts of the United Kingdom other than Scotland (and is without prejudice to section 145 of the 2016 Act).
 
-## 5. Regulations under section 103, 106 or 205(2) of, or schedule 3 to, the 2016 Act[^key-690254bf534e5b093cac38ac9907f514]
+## 5. Regulations under section 103, 106 or 205(2) of, or schedule 3 to, the 2016 Act[^c-690254bf534e5b093cac38ac9907f514]
 
 (1) Any power of the Secretary of State to make regulations under section 103(4), 106(4) or 205(2) of, or paragraph 2(1) or 3 of schedule 3 to, the 2016 Act is exercisable by statutory instrument.
 
@@ -137,7 +137,7 @@ and to deliver the document or a copy of the document to the trustee in the sequ
 
 (3) Such regulations may make different provision for different cases or classes of case.
 
-## 6. Limitation of actions[^key-42e469570c6a976b3f81d363821efe18]
+## 6. Limitation of actions[^c-42e469570c6a976b3f81d363821efe18]
 
 *Extent: E+W+N.I.*
 
@@ -154,7 +154,7 @@ and to deliver the document or a copy of the document to the trustee in the sequ
 
 (4) This article extends to all parts of the United Kingdom other than Scotland (and is without prejudice to sections 13(5), 14(5), 46(8), and 125(3) of, and paragraph 4 of schedule 4 to, the 2016 Act).
 
-## 7. Modifications, repeals, revocations and savings provisions[^key-45e8be46a0d92e5b9c2b6db1ec086514]
+## 7. Modifications, repeals, revocations and savings provisions[^c-45e8be46a0d92e5b9c2b6db1ec086514]
 
 (1) Schedule 1 makes provision for the modification of enactments.
 
@@ -171,13 +171,13 @@ and to deliver the document or a copy of the document to the trustee in the sequ
 
 (4) Any modification, repeal or revocation made by Schedule 1 or 2 has the same extent as the enactment to which it relates.
 
-## 8. Sequestrations and trust deeds to which Order applies[^key-fd16c2018aba7812be456ceff8601d27]
+## 8. Sequestrations and trust deeds to which Order applies[^c-fd16c2018aba7812be456ceff8601d27]
 
 (1) This Order applies to sequestrations as regards which the petition is presented, or the debtor application is made, on or after the day on which section 236 of the 2016 Act comes into force.
 
 (2) This Order applies to trust deeds executed on or after the day on which Part 14 of the 2016 Act comes into force.
 
-## 9. Crown application[^key-2f8b5cec1a612d777fe28088d637ad7e]
+## 9. Crown application[^c-2f8b5cec1a612d777fe28088d637ad7e]
 
 This Order binds the Crown as creditor only.
 
@@ -197,14 +197,14 @@ Article 7(1)
 
 ### PART 1 — Primary legislation
 
-#### 1. Superannuation Act 1972[^key-2e257d40a6ec26e78dd777b88da0a2fe]
+#### 1. Superannuation Act 1972[^c-2e257d40a6ec26e78dd777b88da0a2fe]
 
 In section 5(2) of the Superannuation Act 1972[^f00007] (benefits under civil service superannuation schemes not assignable)—
 
 - (a) omit “or section 32(2) and (4) of the Bankruptcy (Scotland) Act 1985”; and
 - (b) insert at the end “or the powers of any person under section 90 or 95 of the Bankruptcy (Scotland) Act 2016”.
 
-#### 2. Control of Pollution Act 1974[^key-da9beedc5ae04a7329fa80ce4e49ecce]
+#### 2. Control of Pollution Act 1974[^c-da9beedc5ae04a7329fa80ce4e49ecce]
 
 (1) The Control of Pollution Act 1974[^f00008] is amended as follows.
 
@@ -218,11 +218,11 @@ In section 5(2) of the Superannuation Act 1972[^f00007] (benefits under civil se
 - (a) for “permanent” substitute “trustee”; and
 - (b) for “1985” substitute “2016”.
 
-#### 3. Customs and Excise Management Act 1979[^key-f730c6c16da131a48128d9d0f844e8ce]
+#### 3. Customs and Excise Management Act 1979[^c-f730c6c16da131a48128d9d0f844e8ce]
 
 In section 1(1) of the Customs and Excise Management Act 1979[^f00009] (interpretation), in the definition of “representative”, for “or interim or permanent trustee” substitute “, trustee or interim trustee in a sequestration”.
 
-#### 4. Insolvency Act 1986[^key-c55c5b33b8ba606d6a890b26bd17d2f9]
+#### 4. Insolvency Act 1986[^c-c55c5b33b8ba606d6a890b26bd17d2f9]
 
 (1) The Insolvency Act 1986[^f00010] is amended as follows.
 
@@ -270,11 +270,11 @@ In section 1(1) of the Customs and Excise Management Act 1979[^f00009] (interpre
 
 (11) In paragraph 14 of Schedule 8 (provisions capable of inclusion in company insolvency rules), for “1985” substitute “2016”.
 
-#### 5. Company Directors Disqualification Act 1986[^key-d9250c52752381874ac8eb9eac980538]
+#### 5. Company Directors Disqualification Act 1986[^c-d9250c52752381874ac8eb9eac980538]
 
 In section 11(2)(b)(i)[^f00019] of the Company Directors Disqualification Act 1986[^f00020] (undischarged bankrupts), after “1985” insert “or 2016”.
 
-#### 6. Companies Act 1989[^key-ae38b4797dbc8e1a6f42c29373b7a428]
+#### 6. Companies Act 1989[^c-ae38b4797dbc8e1a6f42c29373b7a428]
 
 (1) The Companies Act 1989[^f00021] is amended as follows.
 
@@ -337,14 +337,14 @@ In section 11(2)(b)(i)[^f00019] of the Company Directors Disqualification Act 19
   > | --- | --- |
   > | interim trustee and trustee in the sequestration of an estate (in relation to Scotland) | section 190(1) and (7)(b) |
 
-#### 7. Environmental Protection Act 1990[^key-a742f6801514884ce601aaa04da51d49]
+#### 7. Environmental Protection Act 1990[^c-a742f6801514884ce601aaa04da51d49]
 
 In section 78X(4)(e) of the Environmental Protection Act 1990[^f00028] (supplementary provisions)—
 
 - (a) for “permanent” substitute “trustee”; and
 - (b) for “1985” substitute “2016”.
 
-#### 8. Water Resources Act 1991[^key-a7bbbaccabf03084ed6ff09b88c55f26]
+#### 8. Water Resources Act 1991[^c-a7bbbaccabf03084ed6ff09b88c55f26]
 
 (1) The Water Resources Act 1991[^f00029] is amended as follows.
 
@@ -358,18 +358,18 @@ In section 78X(4)(e) of the Environmental Protection Act 1990[^f00028] (suppleme
 - (a) for “permanent” substitute “trustee”; and
 - (b) for “1985” substitute “2016”.
 
-#### 9. Social Security Administration Act 1992[^key-c240aef940ed70c4566217b44c3d5225]
+#### 9. Social Security Administration Act 1992[^c-c240aef940ed70c4566217b44c3d5225]
 
 In section 78(3B) of the Social Security Administration Act 1992[^f00030] (recovery of social fund awards), for “1985” substitute “2016”.
 
-#### 10. Taxation of Chargeable Gains Act 1992[^key-d802f7769763d7383ec5a53cfa6d1cf6]
+#### 10. Taxation of Chargeable Gains Act 1992[^c-d802f7769763d7383ec5a53cfa6d1cf6]
 
 In section 66(5) of the Taxation of Chargeable Gains Act 1992[^f00031] (insolvents’ assets), in the definition of “trustee in bankruptcy”—
 
 - (a) for “permanent trustee within the meaning of” substitute “trustee in a sequestration under”; and
 - (b) for “1985” substitute “2016”.
 
-#### 11. Pension Schemes Act 1993[^key-05c77891f56f19182763ef721264a884]
+#### 11. Pension Schemes Act 1993[^c-05c77891f56f19182763ef721264a884]
 
 (1) The Pension Schemes Act 1993[^f00032] is amended as follows.
 
@@ -386,13 +386,13 @@ In section 66(5) of the Taxation of Chargeable Gains Act 1992[^f00031] (insolven
 - (a) for “Part I” substitute “Part 1”; and
 - (b) for “1985” substitute “2016”.
 
-#### 12. Value Added Tax Act 1994[^key-cfc5ec54d72cd7203bafecd60e1cc3b2]
+#### 12. Value Added Tax Act 1994[^c-cfc5ec54d72cd7203bafecd60e1cc3b2]
 
 (1) The Value Added Tax Act 1994[^f00034] is amended as follows.
 
 (2) In section 73 (failure to make returns etc.), in each of subsections (5) and (10), for “interim or permanent trustee” substitute “trustee in sequestration”.
 
-(3)[^key-95b52f246c7b4e276ddba4a0fddbcd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-95b52f246c7b4e276ddba4a0fddbcd5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 76(10) (assessment of amounts due by way of penalty, interest or surcharge), for “interim or permanent trustee” substitute “trustee in sequestration”.
 
@@ -409,9 +409,9 @@ In section 66(5) of the Taxation of Chargeable Gains Act 1992[^f00031] (insolven
 
   .
 
-(8)[^key-8a9c1ab4250ffc76bee0d426d2a59163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8a9c1ab4250ffc76bee0d426d2a59163] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Pensions Act 1995[^key-234435dd47c909753940119b4d979d1e]
+#### 13. Pensions Act 1995[^c-234435dd47c909753940119b4d979d1e]
 
 (1) The Pensions Act 1995[^f00036] is amended as follows.
 
@@ -426,7 +426,7 @@ In section 66(5) of the Taxation of Chargeable Gains Act 1992[^f00031] (insolven
 
 (5) In section 123(2) (“connected” and “associated” persons), for “74 of the Bankruptcy (Scotland) Act 1985 (associated persons)” substitute “229 of the Bankruptcy (Scotland) Act 2016 (meaning of “associate”)”.
 
-#### 14. Proceeds of Crime (Scotland) Act 1995[^key-5d93c080adaffd32b61908bbeb774bd9]
+#### 14. Proceeds of Crime (Scotland) Act 1995[^c-5d93c080adaffd32b61908bbeb774bd9]
 
 (1) The Proceeds of Crime (Scotland) Act 1995[^f00037] is amended as follows.
 
@@ -453,11 +453,11 @@ In section 66(5) of the Taxation of Chargeable Gains Act 1992[^f00031] (insolven
   - (i) in sub-paragraph (1), for “1985”, in both places where it occurs, substitute “2016”; and
   - (ii) in sub-paragraph (3), for “interim or permanent trustee” substitute “trustee (or interim trustee)”.
 
-#### 15. Finance Act 1996[^key-577d893eb906d8bc9f31ea0f5b34ec50]
+#### 15. Finance Act 1996[^c-577d893eb906d8bc9f31ea0f5b34ec50]
 
 In section 50(10) of the Finance Act 1996[^f00038] (power to assess), for the words from “an” to “1985)” substitute “a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate”.
 
-#### 16. Employment Rights Act 1996[^key-e4f4356a4a009998fa1d06392df049e6]
+#### 16. Employment Rights Act 1996[^c-e4f4356a4a009998fa1d06392df049e6]
 
 (1) The Employment Rights Act 1996[^f00039] is amended as follows.
 
@@ -473,18 +473,18 @@ In section 50(10) of the Finance Act 1996[^f00038] (power to assess), for the wo
 
 (4) In section 189(2)(b) (transfer to Secretary of State of rights and remedies), for “1985” substitute “2016”.
 
-#### 17. Housing Grants, Construction and Regeneration Act 1996[^key-cb6a88fa79c21ad3260ba41a8f475e1c]
+#### 17. Housing Grants, Construction and Regeneration Act 1996[^c-cb6a88fa79c21ad3260ba41a8f475e1c]
 
 In section 113 of the Housing Grants, Construction and Regeneration Act 1996[^f00040] (prohibition of conditional payment provisions)—
 
 - (a) in subsection (3)(b), for “12 of the Bankruptcy (Scotland) Act 1985” substitute “22 of the Bankruptcy (Scotland) Act 2016”; and
 - (b) in subsection (4)(b), for “1985” substitute “2016”.
 
-#### 18. Finance Act 1997[^key-fa76ca27111e562ae2e96cc25de38b2d]
+#### 18. Finance Act 1997[^c-fa76ca27111e562ae2e96cc25de38b2d]
 
 In paragraph 20(3) of Schedule 5 to the Finance Act 1997[^f00041] (interpretation of Part 5 of that Schedule), for “interim or permanent trustee” substitute “trustee or interim trustee in a sequestration”.
 
-#### 19. Welfare Reform and Pensions Act 1999[^key-73b0c4363938761bd5e93b3e72925bc9]
+#### 19. Welfare Reform and Pensions Act 1999[^c-73b0c4363938761bd5e93b3e72925bc9]
 
 (1) Section 13 of the Welfare Reform and Pensions Act 1999[^f00042] (application of sections 11 and 12 of the Act to Scotland) is amended as follows.
 
@@ -496,7 +496,7 @@ In paragraph 20(3) of Schedule 5 to the Finance Act 1997[^f00041] (interpretatio
 
 (3) In subsection (3), for “12(4) of the Bankruptcy (Scotland) Act 1985” substitute “22(7) of the Bankruptcy (Scotland) Act 2016”.
 
-#### 20. Financial Services and Markets Act 2000[^key-7578bdfc0c7a551ff28aa97271e7db00]
+#### 20. Financial Services and Markets Act 2000[^c-7578bdfc0c7a551ff28aa97271e7db00]
 
 (1) The Financial Services and Markets Act 2000[^f00043] is amended as follows.
 
@@ -539,7 +539,7 @@ In paragraph 20(3) of Schedule 5 to the Finance Act 1997[^f00041] (interpretatio
 - (b) in subsection (2)(b)(iii)[^f00048], for “1985” substitute “2016”; and
 - (c) in subsection (4)(c), for “17 or 18 of Schedule 6 to the 1985” substitute “26 or 27 of schedule 6 to the 2016”.
 
-#### 21. Terrorism Act 2000[^key-14db3884227ac5fa7d05417495d840b2]
+#### 21. Terrorism Act 2000[^c-14db3884227ac5fa7d05417495d840b2]
 
 (1) Schedule 4 to the Terrorism Act 2000[^f00049] (forfeiture orders) is amended as follows.
 
@@ -549,11 +549,11 @@ In paragraph 20(3) of Schedule 5 to the Finance Act 1997[^f00041] (interpretatio
 
 (4) In paragraph 53(1)(c), for “permanent or interim trustee on the” substitute “trustee or interim trustee in the sequestration of a”.
 
-#### 22. Limited Liability Partnerships Act 2000[^key-059505a55f14052202c14c181e9b89f8]
+#### 22. Limited Liability Partnerships Act 2000[^c-059505a55f14052202c14c181e9b89f8]
 
 In section 7(2)(b) of the Limited Liability Partnerships Act 2000[^f00050] (ex-members), for the words from “or permanent” to “1985) or” substitute “, the trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of the former member’s estate or the former member’s”.
 
-#### 23. Finance Act 2000[^key-64a6877a7f70fa40eb9d7e768a9e737a]
+#### 23. Finance Act 2000[^c-64a6877a7f70fa40eb9d7e768a9e737a]
 
 In Schedule 6 to the Finance Act 2000[^f00051] (climate change levy)—
 
@@ -575,7 +575,7 @@ In Schedule 6 to the Finance Act 2000[^f00051] (climate change levy)—
   ; and
 - (e) in paragraph 120(7)(k), for “1985” substitute “2016”.
 
-#### 24. Finance Act 2001[^key-c954b273455b7cf997d8df2e13a3430a]
+#### 24. Finance Act 2001[^c-c954b273455b7cf997d8df2e13a3430a]
 
 (1) The Finance Act 2001[^f00052] is amended as follows.
 
@@ -602,7 +602,7 @@ In Schedule 6 to the Finance Act 2000[^f00051] (climate change levy)—
 
 .
 
-#### 25. Proceeds of Crime Act 2002[^key-c3cedb161ffd26287c31de3e40316e66]
+#### 25. Proceeds of Crime Act 2002[^c-c3cedb161ffd26287c31de3e40316e66]
 
 (1) The Proceeds of Crime Act 2002[^f00053] is amended as follows.
 
@@ -674,7 +674,7 @@ In Schedule 6 to the Finance Act 2000[^f00051] (climate change levy)—
 
 (13) In paragraph 3 of Schedule 3 (administrators: further provision), in sub-paragraph (10), for “74 of the Bankruptcy (Scotland) Act [1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66)” substitute “229 of the Bankruptcy (Scotland) Act 2016”.
 
-#### 26. Pensions Act 2004[^key-fdbdb6806e21632d3e24003d72c19bb0]
+#### 26. Pensions Act 2004[^c-fdbdb6806e21632d3e24003d72c19bb0]
 
 (1) The Pensions Act 2004[^f00055] is amended as follows.
 
@@ -691,11 +691,11 @@ In Schedule 6 to the Finance Act 2000[^f00051] (climate change levy)—
 - (a) in subsection (4)(b), for “12 of the Bankruptcy (Scotland) Act [1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66)” substitute “22 of the Bankruptcy (Scotland) Act 2016”; and
 - (b) omit subsection (11)(a).
 
-#### 27. Income Tax (Trading and Other Income) Act 2005[^key-7f822a2cb4e8f082e4b5c43fa7402895]
+#### 27. Income Tax (Trading and Other Income) Act 2005[^c-7f822a2cb4e8f082e4b5c43fa7402895]
 
 In section 259(a) of the Income Tax (Trading and Other Income) Act 2005[^f00056] (meaning of “statutory insolvency arrangement”), for the words from “Schedule” to the end substitute “the Insolvency (Northern Ireland) Order 1989 or schedule 4 to the Bankruptcy (Scotland) Act 2016”.
 
-#### 28. Gambling Act 2005[^key-0ad45a067703ef9b56a82313a444a44d]
+#### 28. Gambling Act 2005[^c-0ad45a067703ef9b56a82313a444a44d]
 
 (1) The Gambling Act 2005[^f00057] is amended as follows.
 
@@ -707,7 +707,7 @@ In section 259(a) of the Income Tax (Trading and Other Income) Act 2005[^f00056]
 
 (5) In paragraph 15 of Schedule 14 (prize gaming permits), in sub-paragraph (1)(d), for “12(1) of the Bankruptcy (Scotland) Act [1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66)” substitute “22(1) of the Bankruptcy (Scotland) Act 2016”.
 
-#### 29. Companies Act 2006[^key-43292328709b1e7ff32b0cbaca8554f6]
+#### 29. Companies Act 2006[^c-43292328709b1e7ff32b0cbaca8554f6]
 
 (1) The Companies Act 2006[^f00058] is amended as follows.
 
@@ -743,26 +743,26 @@ In section 259(a) of the Income Tax (Trading and Other Income) Act 2005[^f00056]
 - (a) in paragraph (b), for “[1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66)” substitute “2016”; and
 - (b) for “permanent or interim trustee (within the meaning of that Act)” substitute “trustee or interim trustee (under that Act)”.
 
-#### 30. Armed Forces Act 2006[^key-c695e54078da0af458d0bdf8593134fe]
+#### 30. Armed Forces Act 2006[^c-c695e54078da0af458d0bdf8593134fe]
 
 In section 356(4)(b)(ii) of the Armed Forces Act 2006[^f00059] (avoidance of assignment of, or charge on, pay and pensions etc.)—
 
 - (a) for “permanent trustee in a sequestration” substitute “trustee in the sequestration of a person’s estate”; and
 - (b) for “[1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66)” substitute “2016”.
 
-#### 31. Serious Crime Act 2007[^key-6a3cdf9779f525cd27d5b0fc48970f73]
+#### 31. Serious Crime Act 2007[^c-6a3cdf9779f525cd27d5b0fc48970f73]
 
 In section 27(8) of the Serious Crime Act 2007[^f00060] (powers to wind up companies etc: England and Wales), for “[1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66)” substitute “2016”.
 
-#### 32. Banking Act 2009[^key-aa28e8c0bdd3ac077f22264c2aae38de]
+#### 32. Banking Act 2009[^c-aa28e8c0bdd3ac077f22264c2aae38de]
 
 In section 103 of the Banking Act 2009[^f00061] (general powers, duties and effect), in the entry in the table of applied provisions which relates to section 185 of the Insolvency Act 1986, for “section 37(1) of the Bankruptcy (Scotland) Act 1985” substitute “section 24(1) and (2) of the Bankruptcy (Scotland) Act 2016”.
 
-#### 33. Corporation Tax Act 2009[^key-45583e0442f3399798e34764d176a161]
+#### 33. Corporation Tax Act 2009[^c-45583e0442f3399798e34764d176a161]
 
 In section 1319 of the Corporation Tax Act 2009[^f00062] (other definitions), in paragraph (a) of the definition of “statutory insolvency arrangement”[^f00063], for the words from “Schedule” to the end substitute “the Insolvency (Northern Ireland) Order 1989 or schedule 4 to the Bankruptcy (Scotland) Act 2016”.
 
-#### 34. Coroners and Justice Act 2009[^key-f9d2fd69684896e3b6e29f8a4233ef19]
+#### 34. Coroners and Justice Act 2009[^c-f9d2fd69684896e3b6e29f8a4233ef19]
 
 (1) The Coroners and Justice Act 2009[^f00064] is amended as follows.
 
@@ -774,7 +774,7 @@ In section 1319 of the Corporation Tax Act 2009[^f00062] (other definitions), in
 
 (3) In section 165(3)(c) (property), for the words from “permanent” to “c.66))” substitute “trustee or interim trustee in a sequestration of the person’s estate under the Bankruptcy (Scotland) Act 2016”.
 
-#### 35. Third Parties (Rights against Insurers) Act 2010[^key-25735d240c31750d1afc6d3dfb32e788]
+#### 35. Third Parties (Rights against Insurers) Act 2010[^c-25735d240c31750d1afc6d3dfb32e788]
 
 (1) The Third Parties (Rights against Insurers) Act 2010[^f00065] is amended as follows.
 
@@ -822,7 +822,7 @@ In section 1319 of the Corporation Tax Act 2009[^f00062] (other definitions), in
 
 ### PART 2 — Secondary Legislation
 
-#### 36. Insolvency (Scotland) Rules 1986[^key-e432dd5e7492395f81327bc2274792cf]
+#### 36. Insolvency (Scotland) Rules 1986[^c-e432dd5e7492395f81327bc2274792cf]
 
 (1) The Insolvency (Scotland) Rules 1986[^f00066] are amended as follows.
 
@@ -841,7 +841,7 @@ In section 1319 of the Corporation Tax Act 2009[^f00062] (other definitions), in
 
 .
 
-#### 37. Insolvency (Northern Ireland) Order 1989[^key-a539bebd61943c528b76ad6cb385c654]
+#### 37. Insolvency (Northern Ireland) Order 1989[^c-a539bebd61943c528b76ad6cb385c654]
 
 (1) The Insolvency (Northern Ireland) Order 1989[^f00067] is amended as follows.
 
@@ -849,11 +849,11 @@ In section 1319 of the Corporation Tax Act 2009[^f00062] (other definitions), in
 
 (3) In Article 349(5)(a) (persons not qualified to act as insolvency practitioners), after “1985” insert “or 2016”.
 
-#### 38. Company Directors Disqualification (Northern Ireland) Order 2002[^key-6e0ed7c98402c0501384e922ed1eb72a]
+#### 38. Company Directors Disqualification (Northern Ireland) Order 2002[^c-6e0ed7c98402c0501384e922ed1eb72a]
 
 In Article 15(1A)(b)(ii) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00068] (undischarged bankrupts), after “1985” insert “or 2016”.
 
-#### 39. Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^key-9835eee504d8a132f3dd5cc74dd84cb3]
+#### 39. Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^c-9835eee504d8a132f3dd5cc74dd84cb3]
 
 (1) The Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^f00069] is amended as follows.
 
@@ -923,7 +923,7 @@ In Article 15(1A)(b)(ii) of the Company Directors Disqualification (Northern Ire
 
 Article 7(2)
 
-### PART 1 — REPEALS[^key-408e4543275415a1db899b703508366a]
+### PART 1 — REPEALS[^c-408e4543275415a1db899b703508366a]
 
 <table>
 <thead>
@@ -961,7 +961,7 @@ Article 7(2)
 </tbody>
 </table>
 
-### PART 2 — Revocations[^key-0a6f3cbee85d2184fed5413c5e6af439]
+### PART 2 — Revocations[^c-0a6f3cbee85d2184fed5413c5e6af439]
 
 | Enactment | Extent of revocation |
 | --- | --- |
@@ -996,19 +996,19 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-329b69f322c744dba774712a9e99683f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-329b69f322c744dba774712a9e99683f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-32aca43e68fcbe5632baa8b2df43ca74]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/1034/article/2) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-32aca43e68fcbe5632baa8b2df43ca74]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2016/1034/article/2) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00002]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21) (“the 2016 Act”).
 
-[^key-69a34169ef60b96e479c1f89ba84db7e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2016/1034/article/2/1) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 92(2)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/92/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+[^c-69a34169ef60b96e479c1f89ba84db7e]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2016/1034/article/2/1) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 92(2)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/92/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
 
 [^f00003]: Footnote: A member State liquidator is defined in section 228(1) of the 2016 Act as a person falling within the definition of liquidator in Article 2(b) of Council Regulation [(EC) No. 1346/2000](https://www.legislation.gov.uk/european/regulation/2000/1346) of 29th May 2000 on insolvency proceedings (OJ L 160, 30.6.2000, p.19) appointed in proceedings to which it applies in a member State other than the UK. That Regulation is replaced from 26th June 2017 by Regulation (EU) 2015/848 of the Council and the Parliament of 20th May 2015 on insolvency proceedings (OJ L 141, 5.6.2015, p.19).
 
-[^key-5c056d201a6ff4ac260b7d5f4f0f2e7f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/1034/article/3) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-5c056d201a6ff4ac260b7d5f4f0f2e7f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2016/1034/article/3) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-376b4a757c47cb8a54ec202bf90abe95]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2016/1034/article/4) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-376b4a757c47cb8a54ec202bf90abe95]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2016/1034/article/4) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00004]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -1016,29 +1016,29 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00006]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-690254bf534e5b093cac38ac9907f514]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/1034/article/5) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-690254bf534e5b093cac38ac9907f514]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2016/1034/article/5) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-42e469570c6a976b3f81d363821efe18]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/1034/article/6) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-42e469570c6a976b3f81d363821efe18]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2016/1034/article/6) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-45e8be46a0d92e5b9c2b6db1ec086514]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/1034/article/7) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-45e8be46a0d92e5b9c2b6db1ec086514]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2016/1034/article/7) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-fd16c2018aba7812be456ceff8601d27]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2016/1034/article/8) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-fd16c2018aba7812be456ceff8601d27]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2016/1034/article/8) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-2f8b5cec1a612d777fe28088d637ad7e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2016/1034/article/9) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-2f8b5cec1a612d777fe28088d637ad7e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2016/1034/article/9) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-2e257d40a6ec26e78dd777b88da0a2fe]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/1) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-2e257d40a6ec26e78dd777b88da0a2fe]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/1) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00007]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11); section 5(2) was amended by the Bankruptcy (Scotland) Act [1985 (c.66)](https://www.legislation.gov.uk/ukpga/1985/66), Schedule 7, paragraph 9.
 
-[^key-da9beedc5ae04a7329fa80ce4e49ecce]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/2) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-da9beedc5ae04a7329fa80ce4e49ecce]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/2) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00008]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40); sections 30Y and 30Z were inserted by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 59 and amended in relation to Scotland by the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), schedule 3, paragraph 16(3).
 
-[^key-f730c6c16da131a48128d9d0f844e8ce]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/3) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-f730c6c16da131a48128d9d0f844e8ce]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/3) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00009]: Footnote: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2); the definition of “representative” was inserted by the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), Schedule 6, paragraph 2(4).
 
-[^key-c55c5b33b8ba606d6a890b26bd17d2f9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/4) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-c55c5b33b8ba606d6a890b26bd17d2f9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/4) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00010]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -1058,13 +1058,13 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00018]: Footnote: Section 426(10)(b) was amended by the Insolvency Act 2000, Schedule 4, paragraph 16(3)(b).
 
-[^key-d9250c52752381874ac8eb9eac980538]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/5) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-d9250c52752381874ac8eb9eac980538]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/5) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00019]: Footnote: Section 11(2) was substituted by the 2015 Act, section 113(1).
 
 [^f00020]: Footnote: [1986 c.46](https://www.legislation.gov.uk/ukpga/1986/46).
 
-[^key-ae38b4797dbc8e1a6f42c29373b7a428]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/6) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-ae38b4797dbc8e1a6f42c29373b7a428]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/6) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00021]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 
@@ -1080,67 +1080,67 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00027]: Footnote: The table was substituted by [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504), Schedule 1, paragraph 1.
 
-[^key-a742f6801514884ce601aaa04da51d49]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/7) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-a742f6801514884ce601aaa04da51d49]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/7) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00028]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43); section 78X(4)(e) was inserted by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) (“the 1995 Act”), section 57.
 
-[^key-a7bbbaccabf03084ed6ff09b88c55f26]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-a7bbbaccabf03084ed6ff09b88c55f26]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/8) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00029]: Footnote: [1991 c.57](https://www.legislation.gov.uk/ukpga/1991/57); sections 91A and 91B were inserted by the 1995 Act, section 58.
 
-[^key-c240aef940ed70c4566217b44c3d5225]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/9) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-c240aef940ed70c4566217b44c3d5225]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/9) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00030]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 78(3B) was inserted by the Jobseekers Act [1995 (c.18)](https://www.legislation.gov.uk/ukpga/1995/18), section 32(2) and is prospectively repealed by the Welfare Reform Act [2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5), Schedule 14, Part 8.
 
-[^key-d802f7769763d7383ec5a53cfa6d1cf6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/10) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-d802f7769763d7383ec5a53cfa6d1cf6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/10) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00031]: Footnote: [1992 c.12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-05c77891f56f19182763ef721264a884]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/11) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-05c77891f56f19182763ef721264a884]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/11) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00032]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
 [^f00033]: Footnote: Section 47(7) was inserted by the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 2, paragraph 6.
 
-[^key-cfc5ec54d72cd7203bafecd60e1cc3b2]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/12) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-cfc5ec54d72cd7203bafecd60e1cc3b2]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/12) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00034]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-95b52f246c7b4e276ddba4a0fddbcd5f]: Textual amendment: [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/12/3) revoked (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 132(m)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/132/m) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-95b52f246c7b4e276ddba4a0fddbcd5f]: Textual amendment: [Sch. 1 para. 12(3)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/12/3) revoked (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 132(m)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/132/m) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^f00035]: Footnote: Section 78A was inserted by the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), section 45(1).
 
-[^key-8a9c1ab4250ffc76bee0d426d2a59163]: Textual amendment: [Sch. 1 para. 12(8)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/12/8) revoked (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 132(m)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/132/m) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-8a9c1ab4250ffc76bee0d426d2a59163]: Textual amendment: [Sch. 1 para. 12(8)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/12/8) revoked (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 132(m)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/132/m) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-234435dd47c909753940119b4d979d1e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/13) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-234435dd47c909753940119b4d979d1e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/13) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00036]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-5d93c080adaffd32b61908bbeb774bd9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-5d93c080adaffd32b61908bbeb774bd9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/14) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00037]: Footnote: [1995 c.43](https://www.legislation.gov.uk/ukpga/1995/43).
 
-[^key-577d893eb906d8bc9f31ea0f5b34ec50]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/15) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-577d893eb906d8bc9f31ea0f5b34ec50]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/15) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00038]: Footnote: [1996 c.8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-e4f4356a4a009998fa1d06392df049e6]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-e4f4356a4a009998fa1d06392df049e6]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/16) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00039]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-cb6a88fa79c21ad3260ba41a8f475e1c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/17) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-cb6a88fa79c21ad3260ba41a8f475e1c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/17) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00040]: Footnote: [1996 c.53](https://www.legislation.gov.uk/ukpga/1996/53).
 
-[^key-fa76ca27111e562ae2e96cc25de38b2d]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/18) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-fa76ca27111e562ae2e96cc25de38b2d]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/18) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00041]: Footnote: [1997 c.16](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-73b0c4363938761bd5e93b3e72925bc9]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/19) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-73b0c4363938761bd5e93b3e72925bc9]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/19) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00042]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-7578bdfc0c7a551ff28aa97271e7db00]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/20) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-7578bdfc0c7a551ff28aa97271e7db00]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/20) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00043]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -1154,83 +1154,83 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00048]: Footnote: Section 374(2) was amended by the 2012 Act, Schedule 14, paragraph 22(3).
 
-[^key-14db3884227ac5fa7d05417495d840b2]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-14db3884227ac5fa7d05417495d840b2]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/21) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00049]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-059505a55f14052202c14c181e9b89f8]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/22) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-059505a55f14052202c14c181e9b89f8]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/22) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00050]: Footnote: [2000 c.12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-64a6877a7f70fa40eb9d7e768a9e737a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/23) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-64a6877a7f70fa40eb9d7e768a9e737a]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/23) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00051]: Footnote: [2000 c.17](https://www.legislation.gov.uk/ukpga/2000/17).
 
-[^key-c954b273455b7cf997d8df2e13a3430a]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-c954b273455b7cf997d8df2e13a3430a]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00052]: Footnote: [2001 c.9](https://www.legislation.gov.uk/ukpga/2001/9).
 
-[^key-c3cedb161ffd26287c31de3e40316e66]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/25) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-c3cedb161ffd26287c31de3e40316e66]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/25) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00053]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).
 
 [^f00054]: Footnote: Section 420(2) was substituted by the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), Schedule 7, paragraph 82.
 
-[^key-fdbdb6806e21632d3e24003d72c19bb0]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/26) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-fdbdb6806e21632d3e24003d72c19bb0]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/26) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00055]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-7f822a2cb4e8f082e4b5c43fa7402895]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/27) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-7f822a2cb4e8f082e4b5c43fa7402895]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/27) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00056]: Footnote: [2005 c.5](https://www.legislation.gov.uk/ukpga/2005/5).
 
-[^key-0ad45a067703ef9b56a82313a444a44d]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/28) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-0ad45a067703ef9b56a82313a444a44d]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/28) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00057]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-43292328709b1e7ff32b0cbaca8554f6]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-43292328709b1e7ff32b0cbaca8554f6]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/29) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00058]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-c695e54078da0af458d0bdf8593134fe]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/30) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-c695e54078da0af458d0bdf8593134fe]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/30) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00059]: Footnote: [2006 c.52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-6a3cdf9779f525cd27d5b0fc48970f73]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/31) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-6a3cdf9779f525cd27d5b0fc48970f73]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/31) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00060]: Footnote: [2007 c.27](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-aa28e8c0bdd3ac077f22264c2aae38de]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/32) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-aa28e8c0bdd3ac077f22264c2aae38de]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/32) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00061]: Footnote: [2009 c.1](https://www.legislation.gov.uk/ukpga/2009/1).
 
-[^key-45583e0442f3399798e34764d176a161]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/33) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-45583e0442f3399798e34764d176a161]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/33) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00062]: Footnote: [2009 c.4](https://www.legislation.gov.uk/ukpga/2009/4).
 
 [^f00063]: Footnote: The definition of “statutory insolvency arrangement” was inserted by the Corporation Tax Act [2010 (c.4)](https://www.legislation.gov.uk/ukpga/2010/4), paragraph 701(3) of Schedule 1.
 
-[^key-f9d2fd69684896e3b6e29f8a4233ef19]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/34) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-f9d2fd69684896e3b6e29f8a4233ef19]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/34) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00064]: Footnote: [2009 c.25](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-25735d240c31750d1afc6d3dfb32e788]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-25735d240c31750d1afc6d3dfb32e788]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/35) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00065]: Footnote: [2010 c.10](https://www.legislation.gov.uk/ukpga/2010/10).
 
-[^key-e432dd5e7492395f81327bc2274792cf]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/36) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-e432dd5e7492395f81327bc2274792cf]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/36) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00066]: Footnote: [S.I. 1986/1915](https://www.legislation.gov.uk/uksi/1986/1915), amended by [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [S.I. 2002/2709](https://www.legislation.gov.uk/uksi/2002/2709), [S.I. 2003/2108](https://www.legislation.gov.uk/uksi/2003/2108), [S.I. 2003/2109](https://www.legislation.gov.uk/uksi/2003/2109), [S.I. 2003/2111](https://www.legislation.gov.uk/uksi/2003/2111), [S.I. 2006/734](https://www.legislation.gov.uk/uksi/2006/734), [S.I. 2007/2537](https://www.legislation.gov.uk/uksi/2007/2537), [S.I. 2008/662](https://www.legislation.gov.uk/uksi/2008/662), [S.I. 2009/662](https://www.legislation.gov.uk/uksi/2009/662), [S.I. 2010/688](https://www.legislation.gov.uk/uksi/2010/688) and [S.I. 2012/2404](https://www.legislation.gov.uk/uksi/2012/2404), [S.S.I. 2008/393](https://www.legislation.gov.uk/ssi/2008/393) and [S.S.I. 2014/114](https://www.legislation.gov.uk/ssi/2014/114).
 
-[^key-a539bebd61943c528b76ad6cb385c654]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/37) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-a539bebd61943c528b76ad6cb385c654]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/37) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00067]: Footnote: [S.I. 1989/2405](https://www.legislation.gov.uk/uksi/1989/2405); Article 349(5)(a) was substituted by the Small Business, Enterprise and Employment Act [2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) (“the 2015 Act”), section 116(3).
 
-[^key-6e0ed7c98402c0501384e922ed1eb72a]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/38) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-6e0ed7c98402c0501384e922ed1eb72a]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/38) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00068]: Footnote: [S.I. 2002/3150](https://www.legislation.gov.uk/uksi/2002/3150); Article 15(1A) was inserted by the 2015 Act, section 114.
 
-[^key-9835eee504d8a132f3dd5cc74dd84cb3]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-9835eee504d8a132f3dd5cc74dd84cb3]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/39) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
 [^f00069]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181), amended by [S.I. 2013/2604](https://www.legislation.gov.uk/uksi/2013/2604).
 
@@ -1242,6 +1242,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00073]: Footnote: Article 141ZM was inserted by article 3 of [S.I. 2013/2604](https://www.legislation.gov.uk/uksi/2013/2604).
 
-[^key-408e4543275415a1db899b703508366a]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-408e4543275415a1db899b703508366a]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/1) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
 
-[^key-0a6f3cbee85d2184fed5413c5e6af439]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)
+[^c-0a6f3cbee85d2184fed5413c5e6af439]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2016/1034/schedule/2/part/2) in force at 30.11.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1)

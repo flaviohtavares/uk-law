@@ -44,12 +44,12 @@ the proper address is the address of an office of that person where, to the know
 
 (6) In this Rule—
 
-- (a) “**authorised deposit-taker**” means a person with permission under Part 4A of the Financial Services and Markets Act 2000 *(Extent: E+W)*[^key-e0083dc93fc94dfa1b047531258b1e2f] [^c21778781] to accept deposits;
+- (a) “**authorised deposit-taker**” means a person with permission under Part 4A of the Financial Services and Markets Act 2000 *(Extent: E+W)*[^c-e0083dc93fc94dfa1b047531258b1e2f] [^c21778781] to accept deposits;
 - (b) “**former authorised deposit-taker**” means a person who—
   - (i) is not an authorised deposit-taker,
   - (ii) was formerly—
     - (aa) an authorised institution under the Banking Act 1987 [^c21778791], or a recognised bank or a licensed institution under the Banking Act 1979 [^c21778801]; or
-    - (bb) a person with permission under Part 4 or Part 4A *(Extent: E+W)*[^key-a726db91721046772fc4364748711070] of the Financial Services and Markets Act 2000; and
+    - (bb) a person with permission under Part 4 or Part 4A *(Extent: E+W)*[^c-a726db91721046772fc4364748711070] of the Financial Services and Markets Act 2000; and
   - (iii) continues to have liability in respect of any deposit for which it had a liability at a time when it was an institution, bank or person mentioned in paragraph (ii).
 
 (7) Paragraph (6)(a) and (b) must be read with—
@@ -60,7 +60,7 @@ the proper address is the address of an office of that person where, to the know
 
 ## Annotations
 
-[^key-e0083dc93fc94dfa1b047531258b1e2f]: Textual amendment: Words in rule 10(6)(a) substituted (19.12.2013) by [The Energy Supply Company Administration (Amendment) Rules 2013 (S.I. 2013/2950)](https://www.legislation.gov.uk/uksi/2013/2950), [art. 1](https://www.legislation.gov.uk/uksi/2013/2950/article/1), [rule 2(a)](https://www.legislation.gov.uk/uksi/2013/2950/rule/2/a)
+[^c-e0083dc93fc94dfa1b047531258b1e2f]: Textual amendment: Words in rule 10(6)(a) substituted (19.12.2013) by [The Energy Supply Company Administration (Amendment) Rules 2013 (S.I. 2013/2950)](https://www.legislation.gov.uk/uksi/2013/2950), [art. 1](https://www.legislation.gov.uk/uksi/2013/2950/article/1), [rule 2(a)](https://www.legislation.gov.uk/uksi/2013/2950/rule/2/a)
 
 [^c21778781]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -68,4 +68,4 @@ the proper address is the address of an office of that person where, to the know
 
 [^c21778801]: Marginal citation: [1979 c. 37](https://www.legislation.gov.uk/ukpga/1979/37); repealed by the [Banking Act 1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), [section 108](https://www.legislation.gov.uk/ukpga/1987/22/section/108), [Schedule 7](https://www.legislation.gov.uk/ukpga/1987/22/schedule/7), [Part 1](https://www.legislation.gov.uk/ukpga/1987/22/part/1).
 
-[^key-a726db91721046772fc4364748711070]: Textual amendment: Words in rule 10(6)(b)(ii)(bb) inserted (19.12.2013) by [The Energy Supply Company Administration (Amendment) Rules 2013 (S.I. 2013/2950)](https://www.legislation.gov.uk/uksi/2013/2950), [art. 1](https://www.legislation.gov.uk/uksi/2013/2950/article/1), [rule 2(b)](https://www.legislation.gov.uk/uksi/2013/2950/rule/2/b)
+[^c-a726db91721046772fc4364748711070]: Textual amendment: Words in rule 10(6)(b)(ii)(bb) inserted (19.12.2013) by [The Energy Supply Company Administration (Amendment) Rules 2013 (S.I. 2013/2950)](https://www.legislation.gov.uk/uksi/2013/2950), [art. 1](https://www.legislation.gov.uk/uksi/2013/2950/article/1), [rule 2(b)](https://www.legislation.gov.uk/uksi/2013/2950/rule/2/b)

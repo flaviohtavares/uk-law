@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Offences[^key-6b632402f7ba2f3103d1333f0bd9b0d6]
+## 118. Offences[^c-6b632402f7ba2f3103d1333f0bd9b0d6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b632402f7ba2f3103d1333f0bd9b0d6]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2014/12/section/118) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/a)
+[^c-6b632402f7ba2f3103d1333f0bd9b0d6]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2014/12/section/118) in force at 1.9.2014 by [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/a)

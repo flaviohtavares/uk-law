@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Lands held runrig[^key-7d387e2e3add202b232d111613d998e6][^key-3bc03da16c51ec2afd463b1db716fe55]
+## 32. Lands held runrig[^c-7d387e2e3add202b232d111613d998e6][^c-3bc03da16c51ec2afd463b1db716fe55]
 
 *Extent: S*
 
@@ -77,6 +77,6 @@ that subsection.
 
 ## Annotations
 
-[^key-7d387e2e3add202b232d111613d998e6]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/14/section/32) in force at 30.10.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
+[^c-7d387e2e3add202b232d111613d998e6]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/14/section/32) in force at 30.10.2012 for specified purposes by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/1)
 
-[^key-3bc03da16c51ec2afd463b1db716fe55]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/14/section/32) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)
+[^c-3bc03da16c51ec2afd463b1db716fe55]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2010/14/section/32) in force at 30.11.2012 in so far as not already in force by [S.S.I. 2012/288](https://www.legislation.gov.uk/ssi/2012/288), [art. 3(1)(b)](https://www.legislation.gov.uk/ssi/2012/288/article/3/1/b)[(2)](https://www.legislation.gov.uk/ssi/2012/288/article/3/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ssi/2012/288/schedule/1/part/2)

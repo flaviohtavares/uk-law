@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Measuring activity in the VRTS[^key-9326d85d17b7eb1a9ca11422493189f7]
+## 56. Measuring activity in the VRTS[^c-9326d85d17b7eb1a9ca11422493189f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A VRTS participant’s number of units of activity in the VRTS during a scheme y
 
 ## Annotations
 
-[^key-9326d85d17b7eb1a9ca11422493189f7]: Commencement: Art. 56 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-9326d85d17b7eb1a9ca11422493189f7]: Commencement: Art. 56 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

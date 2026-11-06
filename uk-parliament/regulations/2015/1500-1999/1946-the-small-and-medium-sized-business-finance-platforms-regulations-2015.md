@@ -46,18 +46,18 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-da76a51fbde930f2d572ab7596544a18]
+### 1. Citation and commencement[^c-da76a51fbde930f2d572ab7596544a18]
 
 (1) These Regulations may be cited as the Small and Medium Sized Business (Finance Platforms) Regulations 2015.
 
 (2) These Regulations come into force on 1st January 2016.
 
-### 2. Interpretation[^key-253f143b43aa95f6eceae4e8e2f3803a]
+### 2. Interpretation[^c-253f143b43aa95f6eceae4e8e2f3803a]
 
 (1) In these Regulations—
 
 - “the 2000 Act” means the Financial Services and Markets Act 2000[^f00002];
-- “broker” means a person who, as part of that person’s usual business activities, effects introductions of persons seeking finance to finance providers;[^key-064cd1b5c7c699ab6ac1dbbaec8fb593]
+- “broker” means a person who, as part of that person’s usual business activities, effects introductions of persons seeking finance to finance providers;[^c-064cd1b5c7c699ab6ac1dbbaec8fb593]
 - “designated firm” means a designated bank or a designated finance platform;
 - “the FCA” means the Financial Conduct Authority;
 - “finance application” means a request in any form for a finance facility, whether such request is made for a new facility or for the renewal or extension of an existing facility, where—
@@ -88,7 +88,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 ## PART 2 — Provision of specified information about small and medium sized businesses by banks to finance platforms
 
-### 3. Designated banks to provide information to designated finance platforms[^key-b2a5b05c279d63eb4cb85f827c1ae94e]
+### 3. Designated banks to provide information to designated finance platforms[^c-b2a5b05c279d63eb4cb85f827c1ae94e]
 
 (1) This regulation and regulation 4 apply where—
 
@@ -101,13 +101,13 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 - (a) the value of the finance facility applied for is less than £1,000;
 - (b) the facility applied for is sought for a period of less than 30 days;
-- (c) the bank is aware that the business is subject to a statutory demand for payment, enforcement proceedings or other legal proceedings in relation to payment obligations arising under an existing finance facility; [^key-a566ca9a8a51f708db4501d8059cb97b]...
-- (d) the bank is aware that the business is subject to a formal demand ; or[^key-53ca19bdf39d16899336eb20563bddde]
+- (c) the bank is aware that the business is subject to a statutory demand for payment, enforcement proceedings or other legal proceedings in relation to payment obligations arising under an existing finance facility; [^c-a566ca9a8a51f708db4501d8059cb97b]...
+- (d) the bank is aware that the business is subject to a formal demand ; or[^c-53ca19bdf39d16899336eb20563bddde]
 - (e) the application was made by a broker on behalf of the business.
 
 (4) Paragraph (2) applies only if the business to which the information relates has agreed to the information being provided.
 
-### 4. Indication of agreement by businesses and incomplete information[^key-5849f7c609a6527dda2b619819183755]
+### 4. Indication of agreement by businesses and incomplete information[^c-5849f7c609a6527dda2b619819183755]
 
 (1) The designated bank must—
 
@@ -121,13 +121,13 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (3) If the business does not agree to such information being provided, the bank must send to the business the generic platforms information by the end of a period of five working days starting on the day on which the bank makes the request under paragraph (1).
 
-### 5. Timing for provision of information to designated finance platforms and incomplete information[^key-c3d31aca89a7d9f550207d5a550098d1]
+### 5. Timing for provision of information to designated finance platforms and incomplete information[^c-c3d31aca89a7d9f550207d5a550098d1]
 
 (1) Subject to paragraph (2), the designated bank must provide information under regulation 3(2) before the end of the working day after the day on which the bank receives confirmation from the business to which the information relates of agreement to such information being provided.
 
 (2) Where a bank holds incomplete specified information, a bank need not provide any information under regulation 3(2) until the end of the working day after the day on which the bank first holds complete information.
 
-### 6. Designated finance platforms to provide information to finance providers[^key-4f0caddcae7a571ed617c2aaa1f2836e]
+### 6. Designated finance platforms to provide information to finance providers[^c-4f0caddcae7a571ed617c2aaa1f2836e]
 
 (1) A designated finance platform must provide a finance provider with access to information that it has received from designated banks by virtue of regulation 3(2) if—
 
@@ -153,7 +153,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (7) The platform must not charge any fee to a small or medium sized business in relation to the provision of information about a finance application made by that business, as required by these Regulations.
 
-### 7. Maintenance and removal of access to finance providers[^key-124e46c13fa136272d197a528430ab76]
+### 7. Maintenance and removal of access to finance providers[^c-124e46c13fa136272d197a528430ab76]
 
 (1) A designated finance platform must maintain access to information in relation to a finance application provided under regulation 6(1) until the earlier of—
 
@@ -167,7 +167,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 - (a) the end of the period described in paragraph (1)(a); or
 - (b) the end of the first working day following the platform being informed that either of the circumstances described in paragraph (1)(b) applies.
 
-### 8. Designated finance platforms to provide information to the Treasury and retention of information[^key-a918c6236e38d56b7aec34eeb68ae655]
+### 8. Designated finance platforms to provide information to the Treasury and retention of information[^c-a918c6236e38d56b7aec34eeb68ae655]
 
 (1) A designated finance platform must provide to the Treasury on request statistical information relating to information received and provided under these Regulations.
 
@@ -177,7 +177,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 ## PART 3 — Designation of banks and finance platforms
 
-### 9. Power to designate banks and finance platforms and to revoke designations[^key-5b5118af23789fe0324d323b5b53ee77]
+### 9. Power to designate banks and finance platforms and to revoke designations[^c-5b5118af23789fe0324d323b5b53ee77]
 
 (1) The Treasury may designate a bank or a finance platform for the purposes of these Regulations, and may revoke such designation.
 
@@ -188,7 +188,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (3) The Treasury may exercise the power in paragraph (1) on its own initiative or at the request of another person.
 
-### 10. Criteria for the designation of a bank[^key-449f927ca888e30f8029993de1610ed3]
+### 10. Criteria for the designation of a bank[^c-449f927ca888e30f8029993de1610ed3]
 
 (1) The Treasury may designate a bank only if it is—
 
@@ -205,13 +205,13 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (4) In considering whether to designate a bank or to revoke the designation of a bank, the Treasury may also have regard to such other matters as they consider appropriate.
 
-### 11. Consultation before designation of a bank[^key-c3313ae3d204f3adda43e41f59016577]
+### 11. Consultation before designation of a bank[^c-c3313ae3d204f3adda43e41f59016577]
 
 (1) Before designating a bank or revoking the designation of a bank, the Treasury may consult the Bank of England and any other person they consider appropriate.
 
 (2) In considering whether to designate a bank or to revoke the designation of a bank, the Treasury may rely on advice or information provided in response to consultation under paragraph (1).
 
-### 12. Consultation before designation of a finance platform[^key-0e03230c6f10e54fef8d93b06f429747]
+### 12. Consultation before designation of a finance platform[^c-0e03230c6f10e54fef8d93b06f429747]
 
 (1) Before designating a finance platform or revoking the designation of a finance platform, the Treasury may consult—
 
@@ -221,7 +221,7 @@ A draft of these Regulations has been laid before and approved by resolution of 
 
 (2) In considering whether to designate a finance platform or to revoke the designation of a finance platform, the Treasury may rely on advice or information provided in response to consultation under paragraph (1).
 
-### 13. Record of designated banks and finance platforms[^key-f14f426bc38a6771086f37a3778d6306]
+### 13. Record of designated banks and finance platforms[^c-f14f426bc38a6771086f37a3778d6306]
 
 The Treasury must, in such manner as they determine—
 
@@ -230,11 +230,11 @@ The Treasury must, in such manner as they determine—
 
 ## PART 4 — Complaints about designated finance platforms
 
-### 14. Extension of the jurisdiction of the Financial Ombudsman Scheme to designated finance platforms[^key-eb7d5b6ee86b8020706fd610901f0c88]
+### 14. Extension of the jurisdiction of the Financial Ombudsman Scheme to designated finance platforms[^c-eb7d5b6ee86b8020706fd610901f0c88]
 
 (1) Part 16 (the Ombudsman Scheme) of the 2000 Act applies in respect of a complaint relating to the act or omission of a designated finance platform as if—
 
-- (a) in section 226(2)(b) of that Act (compulsory jurisdiction)[^f00007], after “Payment Services Regulations 2017[^key-8acc483d66539c300590754cac8b19ab],” there were inserted “or a designated finance platform,”;
+- (a) in section 226(2)(b) of that Act (compulsory jurisdiction)[^f00007], after “Payment Services Regulations 2017[^c-8acc483d66539c300590754cac8b19ab],” there were inserted “or a designated finance platform,”;
 - (b) in section 226(4) of that Act, after “under section 22,” there were inserted “or the activity of furnishing by a designated finance platform of persons with information relating to an application made by a business for finance (and ancillary activities),”;
 - (c) in section 232A of that Act (scheme operator’s duty to provide information to the FCA)[^f00008], after “FCA’s operational objectives,” there were inserted “or which might otherwise be of assistance to the FCA for the purposes of discharging any of the FCA’s duties under the Small and Medium Sized Business (Finance Platforms) Regulations 2015,”;
 - (d) in section 234(1) of that Act (industry funding)[^f00009], after “Payment Services Regulations 2017” there were inserted “, or a designated finance platform,”;
@@ -247,13 +247,13 @@ The Treasury must, in such manner as they determine—
 
 ### CHAPTER 1 — The FCA
 
-#### 15. Functions of the FCA[^key-75d714102719d1041ee7cefdd87f8327]
+#### 15. Functions of the FCA[^c-75d714102719d1041ee7cefdd87f8327]
 
 (1) The FCA has the functions conferred on it by this Part.
 
 (2) In discharging its functions under this Part (including its functions under any provision of the 2000 Act as applied by this Part), the FCA must have regard to the need to use its resources in the most efficient and economic way.
 
-#### 16. Monitoring and enforcement[^key-a3b4e42cf58f180cc330a4da094f9693]
+#### 16. Monitoring and enforcement[^c-a3b4e42cf58f180cc330a4da094f9693]
 
 (1) The FCA must maintain arrangements designed to enable it to determine whether—
 
@@ -262,7 +262,7 @@ The Treasury must, in such manner as they determine—
 
 (2) The FCA must also maintain arrangements designed to enable it to enforce relevant requirements.
 
-#### 17. Guidance and consultation[^key-cc939602016153cee926bd5c3ed3cd38]
+#### 17. Guidance and consultation[^c-cc939602016153cee926bd5c3ed3cd38]
 
 (1) The FCA may give guidance consisting of such information and advice as it considers appropriate with respect to—
 
@@ -278,7 +278,7 @@ The Treasury must, in such manner as they determine—
 
 (3) The requirements of section 138I of the 2000 Act (consultation by the FCA)[^f00011], in so far as they apply to a proposal to make rules or give guidance under or in relation to these Regulations, may be satisfied by things done (wholly or in part) before the date on which these Regulations come into force.
 
-#### 18. Fees and penalties[^key-795e9a7b2a0a197ccad6ce59506fbbb4]
+#### 18. Fees and penalties[^c-795e9a7b2a0a197ccad6ce59506fbbb4]
 
 (1) Subject to paragraphs (2) to (4), the functions of the FCA under this Part are to be treated for the purposes of paragraph 23 (fees) of Schedule 1ZA to the 2000 Act[^f00012] as functions conferred on the FCA under that Act.
 
@@ -290,25 +290,25 @@ The Treasury must, in such manner as they determine—
 
 (5) The FCA must apply amounts paid to it by way of penalties imposed under regulation 26 towards expenses incurred in carrying out its functions under this Part or for any incidental purpose.
 
-#### 19. Exemption from liability in damages[^key-76791ba04b73ec2e2981f270cf96289d]
+#### 19. Exemption from liability in damages[^c-76791ba04b73ec2e2981f270cf96289d]
 
 The functions of the FCA under these Regulations are to be treated for the purposes of paragraph 25 of Schedule 1ZA to the 2000 Act (exemption from liability in damages)[^f00015] as functions conferred on the FCA under that Act.
 
 ### CHAPTER 2 — Reporting and information
 
-#### 20. Reporting requirements[^key-7d9ba4301315ee601e17071224f7361e]
+#### 20. Reporting requirements[^c-7d9ba4301315ee601e17071224f7361e]
 
 (1) A designated firm must provide the FCA with such information in respect of its compliance or non-compliance with any relevant requirement applicable to it as the FCA may direct.
 
 (2) A designated firm must provide the FCA with information required to be given under this regulation at such times, in such form, and verified in such manner, as the FCA may direct.
 
-#### 21. Record keeping[^key-743a01d500a61637141cd219840c1ccb]
+#### 21. Record keeping[^c-743a01d500a61637141cd219840c1ccb]
 
 (1) A designated firm must maintain relevant records in retrievable and legible form for no less than five years from the date on which the records were created.
 
 (2) For the purposes of this regulation, records are relevant where they contain information relevant to demonstrating the designated firm’s compliance or non-compliance with any relevant requirement applicable to the designated firm.
 
-#### 22. Restrictions on disclosure of information[^key-c1a32fb29b56d087fff78259e772deff]
+#### 22. Restrictions on disclosure of information[^c-c1a32fb29b56d087fff78259e772deff]
 
 (1) Sections 348 (restrictions on disclosure of confidential information by FCA, PRA etc), 349 (exceptions from section 348) and 352 (offences) of the 2000 Act[^f00016] apply for the purposes of this Part as if—
 
@@ -336,7 +336,7 @@ The functions of the FCA under these Regulations are to be treated for the purpo
 
 ### CHAPTER 3 — Investigatory powers
 
-#### 23. Information gathering and investigations under Part 11 of the 2000 Act[^key-f3648e99497f18a9a94f116bee0b1de7]
+#### 23. Information gathering and investigations under Part 11 of the 2000 Act[^c-f3648e99497f18a9a94f116bee0b1de7]
 
 Part 11 (information gathering and investigations) of the 2000 Act[^f00018] applies for the purposes of this Part as if—
 
@@ -396,17 +396,17 @@ Part 11 (information gathering and investigations) of the 2000 Act[^f00018] appl
     - (aa) in paragraph (a) “87C, 87J,” and “,165A, 169A” were omitted; and
     - (bb) in paragraph (b) “, 173” were omitted.
 
-#### 24. Protected information[^key-34a9a3e53eb21442a4c3d06c5214d629]
+#### 24. Protected information[^c-34a9a3e53eb21442a4c3d06c5214d629]
 
 Section 413 of the 2000 Act (protected items) applies for the purposes of this Part as it applies for the purposes of that Act.
 
 ### CHAPTER 4 — Disciplinary measures
 
-#### 25. Public censure[^key-8d0b5a2a596df0de84c43d8570eae965]
+#### 25. Public censure[^c-8d0b5a2a596df0de84c43d8570eae965]
 
 If the FCA considers that a designated firm has contravened a relevant requirement, the FCA may publish a statement to that effect.
 
-#### 26. Financial penalties[^key-7c121be20370d62d2c5404d32ca9f210]
+#### 26. Financial penalties[^c-7c121be20370d62d2c5404d32ca9f210]
 
 (1) The FCA may impose a penalty of such amount as it considers appropriate on—
 
@@ -415,7 +415,7 @@ If the FCA considers that a designated firm has contravened a relevant requireme
 
 (2) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
 
-#### 27. Limitations on permission to carry on regulated activities[^key-d92faa812d628932650699d71e31f3f0]
+#### 27. Limitations on permission to carry on regulated activities[^c-d92faa812d628932650699d71e31f3f0]
 
 (1) If the FCA considers that a designated firm has contravened a relevant requirement, it may impose, for such period as it considers appropriate, such limitations in relation to the carrying on of a regulated activity by the designated firm as it considers appropriate.
 
@@ -436,7 +436,7 @@ If the FCA considers that a designated firm has contravened a relevant requireme
 
 ### CHAPTER 5 — Injunctions and restitution
 
-#### 28. Injunctions[^key-f941ad2fff2533dbfd80c1d98bb65ac1]
+#### 28. Injunctions[^c-f941ad2fff2533dbfd80c1d98bb65ac1]
 
 (1) If, on the application of the FCA, the court is satisfied—
 
@@ -463,7 +463,7 @@ it may make an order restraining (or, in Scotland, an interdict prohibiting) the
 
 (5) In paragraph (2), references to remedying a contravention include references to mitigating its effect.
 
-#### 29. Power of FCA to require restitution[^key-769d1b55d0040a2549124e898f89360d]
+#### 29. Power of FCA to require restitution[^c-769d1b55d0040a2549124e898f89360d]
 
 (1) The FCA may exercise the power in paragraph (2) if it is satisfied that a designated firm (referred to in this regulation as “the person concerned”) has contravened a relevant requirement, or been knowingly concerned in the contravention of such a requirement, and that—
 
@@ -481,7 +481,7 @@ it may make an order restraining (or, in Scotland, an interdict prohibiting) the
 - (a) to whom the profits mentioned in paragraph (1)(a) are attributable; or
 - (b) who has suffered the loss or adverse effect mentioned in paragraph (1)(b).
 
-#### 30. Restitution orders[^key-990b4783fd8ce87889430957deed1fb7]
+#### 30. Restitution orders[^c-990b4783fd8ce87889430957deed1fb7]
 
 (1) The court may, on the application of the FCA, make an order under paragraph (2) if it is satisfied that a designated firm has contravened a relevant requirement, or been knowingly concerned in the contravention of such a requirement, and that—
 
@@ -515,7 +515,7 @@ it may make an order restraining (or, in Scotland, an interdict prohibiting) the
 
 ### CHAPTER 6 — Misleading the FCA
 
-#### 31. Offence of misleading the FCA[^key-5f0c332ae267b964c76e6398e755915b]
+#### 31. Offence of misleading the FCA[^c-5f0c332ae267b964c76e6398e755915b]
 
 (1) A person must not, for the purposes of compliance or purported compliance with a relevant requirement, knowingly or recklessly give the FCA information which is false or misleading in a material particular.
 
@@ -533,11 +533,11 @@ the information is false or misleading in a material particular and knowing that
 - (a) on summary conviction, to a fine, or
 - (b) on conviction on indictment, to a fine.
 
-#### 32. Restriction on penalties[^key-44289796a774629d9c657c658c95b6be]
+#### 32. Restriction on penalties[^c-44289796a774629d9c657c658c95b6be]
 
 A person who is convicted of an offence under regulation 31 (misleading the FCA) is not subsequently liable to a penalty under regulation 26 (financial penalties) in respect of the same acts or omissions that constituted the offence.
 
-#### 33. Liability of officers of bodies corporate etc[^key-3834b849760571e5a975a4c985e2acf6]
+#### 33. Liability of officers of bodies corporate etc[^c-3834b849760571e5a975a4c985e2acf6]
 
 (1) If an offence under regulation 31 committed by a body corporate is shown—
 
@@ -569,7 +569,7 @@ the officer as well as the association is guilty of the offence and liable to be
   - (b) in relation to an unincorporated association, means any officer of the association or any member of its governing body, or a person purporting to act in such capacity;
 - “partner” includes a person purporting to act as a partner.
 
-#### 34. Proceedings for offence[^key-3ed247fbf6d6cef4944d4c9b732cfec2]
+#### 34. Proceedings for offence[^c-3ed247fbf6d6cef4944d4c9b732cfec2]
 
 (1) Proceedings for an offence under regulation 31 (misleading the FCA) may be instituted—
 
@@ -583,7 +583,7 @@ the officer as well as the association is guilty of the offence and liable to be
 - (a) proceedings generally; or
 - (b) such proceedings, or categories of proceedings, as the Treasury may direct.
 
-#### 35. Further provisions relating to proceedings for offence[^key-fed2af3460656714fefbb48b1d491a8b]
+#### 35. Further provisions relating to proceedings for offence[^c-fed2af3460656714fefbb48b1d491a8b]
 
 (1) Proceedings for an offence under regulation 31 (misleading the FCA) alleged to have been committed by a partnership or other unincorporated association must be brought in the name of the partnership or association (and not in those of its members).
 
@@ -606,7 +606,7 @@ the officer as well as the association is guilty of the offence and liable to be
 
 ### CHAPTER 7 — Procedure
 
-#### 36. Requirement to issue warning notice[^key-309b86a0603894cb52fe1ae15a5659c5]
+#### 36. Requirement to issue warning notice[^c-309b86a0603894cb52fe1ae15a5659c5]
 
 (1) Where the FCA proposes to—
 
@@ -624,7 +624,7 @@ it must give the person concerned a warning notice.
 - (c) in the case of a limitation on a permission under regulation 27, the limitation and the period for which it is to have effect;
 - (d) in the case of the exercise of the power in regulation 29(2), the amount which the FCA proposes to require to be paid or distributed as mentioned in regulation 29(2).
 
-#### 37. Requirement to issue decision notice[^key-20677ce04a76704300e805d1db9d88e8]
+#### 37. Requirement to issue decision notice[^c-20677ce04a76704300e805d1db9d88e8]
 
 (1) If, having considered any representations made in response to the warning notice, the FCA decides to—
 
@@ -645,17 +645,17 @@ it must without delay give the person concerned a decision notice.
   - (ii) the person or persons to whom that amount is to be paid or among whom that amount is to be distributed; and
   - (iii) the arrangements in accordance with which the payment or distribution is to be made.
 
-#### 38. Third party rights[^key-275bba13668613548628177525f7f4d7]
+#### 38. Third party rights[^c-275bba13668613548628177525f7f4d7]
 
 After a statement under regulation 25 (public censure) is published, the FCA must send a copy of it to the person concerned and to any person to whom a copy of the decision notice was given under section 393(4) (third party rights) of the 2000 Act[^f00024] (as applied by regulation 41 (application of Part 26 of the 2000 Act)).
 
-#### 39. Service of notices[^key-20aed644bb7ec02ac42b2613f2258be1]
+#### 39. Service of notices[^c-20aed644bb7ec02ac42b2613f2258be1]
 
 (1) Section 414 of the 2000 Act (service of notices) applies for the purposes of this Part as if in subsection (1) and (4) for “this Act” there were substituted “the Small and Medium Sized Business (Finance Platforms) Regulations 2015”.
 
 (2) The Financial Services and Markets Act 2000 (Service of Notices) Regulations 2001[^f00025] apply to any notice, direction or document of any kind given by or to the FCA under this Part as they apply to any notice, direction or document of any kind under the 2000 Act.
 
-#### 40. Statements of policy[^key-498f857d8eb3676a1c8a9149ae24c765]
+#### 40. Statements of policy[^c-498f857d8eb3676a1c8a9149ae24c765]
 
 (1) Sections 210 (statements of policy) and 211 (statements of policy: procedure) of the 2000 Act[^f00026] apply to the FCA with respect to—
 
@@ -669,7 +669,7 @@ But see paragraph (2).
 
 (2) Section 210 of the 2000 Act applies as if subsection (1A) were omitted.
 
-#### 41. Application of Part 26 of the 2000 Act[^key-98c43fd4e9dfa5201d31d91e5f25bfe2]
+#### 41. Application of Part 26 of the 2000 Act[^c-98c43fd4e9dfa5201d31d91e5f25bfe2]
 
 Part 26 (notices) of the 2000 Act[^f00028] applies for the purposes of this Part as if—
 
@@ -702,7 +702,7 @@ Part 26 (notices) of the 2000 Act[^f00028] applies for the purposes of this Part
 
 ### CHAPTER 8 — Referral to the Tribunal
 
-#### 42. Referral to Tribunal[^key-65934e8441c533b9c3c82c2262ea363d]
+#### 42. Referral to Tribunal[^c-65934e8441c533b9c3c82c2262ea363d]
 
 If the FCA decides to—
 
@@ -713,7 +713,7 @@ If the FCA decides to—
 
 the person concerned may refer the matter to the Upper Tribunal.
 
-#### 43. The Tribunal[^key-50013166596e8144388e9c32e7a871a6]
+#### 43. The Tribunal[^c-50013166596e8144388e9c32e7a871a6]
 
 (1) Part 9 (hearings and appeals) of the 2000 Act[^f00029] applies with respect to proceedings pursuant to references to the Upper Tribunal under regulation 42 (“relevant proceedings”) as it applies to proceedings pursuant to references to the Upper Tribunal under that Act, with the following modifications.
 
@@ -745,7 +745,7 @@ the person concerned may refer the matter to the Upper Tribunal.
 
 ## PART 6 — Review
 
-### 44. Review[^key-2589027d2e3e45e14fcd82d937619d99]
+### 44. Review[^c-2589027d2e3e45e14fcd82d937619d99]
 
 (1) The Treasury must from time to time—
 
@@ -771,11 +771,11 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 26th November 2015
 
-## SCHEDULE — Specified information[^key-5fbf8bf4e2a21af64b1b8f376759a6f7]
+## SCHEDULE — Specified information[^c-5fbf8bf4e2a21af64b1b8f376759a6f7]
 
 Regulation 2
 
-[^key-5fbf8bf4e2a21af64b1b8f376759a6f7]
+[^c-5fbf8bf4e2a21af64b1b8f376759a6f7]
 
 The following is specified information—
 
@@ -813,53 +813,53 @@ An impact assessment of the effect of the Regulations has been prepared and is a
 
 [^f00001]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-da76a51fbde930f2d572ab7596544a18]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-da76a51fbde930f2d572ab7596544a18]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-253f143b43aa95f6eceae4e8e2f3803a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1946/regulation/2) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-253f143b43aa95f6eceae4e8e2f3803a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1946/regulation/2) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-064cd1b5c7c699ab6ac1dbbaec8fb593]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/2/1) inserted (17.3.2016) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/a), [9(a)](https://www.legislation.gov.uk/uksi/2016/392/article/9/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-064cd1b5c7c699ab6ac1dbbaec8fb593]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/2/1) inserted (17.3.2016) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/a), [9(a)](https://www.legislation.gov.uk/uksi/2016/392/article/9/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^f00004]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-b2a5b05c279d63eb4cb85f827c1ae94e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1946/regulation/3) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-b2a5b05c279d63eb4cb85f827c1ae94e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1946/regulation/3) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-a566ca9a8a51f708db4501d8059cb97b]: Textual amendment: Word in [reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/3/3/c) omitted (17.3.2016) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/a), [9(b)(i)](https://www.legislation.gov.uk/uksi/2016/392/article/9/b/i) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-a566ca9a8a51f708db4501d8059cb97b]: Textual amendment: Word in [reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/3/3/c) omitted (17.3.2016) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/a), [9(b)(i)](https://www.legislation.gov.uk/uksi/2016/392/article/9/b/i) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-53ca19bdf39d16899336eb20563bddde]: Textual amendment: [Reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/3/3/e) and word inserted (17.3.2016) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/a), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2016/392/article/9/b/ii) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-53ca19bdf39d16899336eb20563bddde]: Textual amendment: [Reg. 3(3)(e)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/3/3/e) and word inserted (17.3.2016) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/a), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2016/392/article/9/b/ii) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-5849f7c609a6527dda2b619819183755]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1946/regulation/4) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-5849f7c609a6527dda2b619819183755]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1946/regulation/4) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-c3d31aca89a7d9f550207d5a550098d1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1946/regulation/5) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-c3d31aca89a7d9f550207d5a550098d1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1946/regulation/5) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-4f0caddcae7a571ed617c2aaa1f2836e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1946/regulation/6) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-4f0caddcae7a571ed617c2aaa1f2836e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1946/regulation/6) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-124e46c13fa136272d197a528430ab76]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1946/regulation/7) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-124e46c13fa136272d197a528430ab76]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1946/regulation/7) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-a918c6236e38d56b7aec34eeb68ae655]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1946/regulation/8) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-a918c6236e38d56b7aec34eeb68ae655]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1946/regulation/8) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-5b5118af23789fe0324d323b5b53ee77]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1946/regulation/9) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-5b5118af23789fe0324d323b5b53ee77]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1946/regulation/9) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-449f927ca888e30f8029993de1610ed3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1946/regulation/10) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-449f927ca888e30f8029993de1610ed3]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1946/regulation/10) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00005]: Footnote: [2009 c. 1](https://www.legislation.gov.uk/ukpga/2009/1).
 
 [^f00006]: Footnote: Section 1164 was amended by paragraph 12 of Schedule 18 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-c3313ae3d204f3adda43e41f59016577]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1946/regulation/11) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-c3313ae3d204f3adda43e41f59016577]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/1946/regulation/11) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-0e03230c6f10e54fef8d93b06f429747]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1946/regulation/12) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-0e03230c6f10e54fef8d93b06f429747]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/1946/regulation/12) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-f14f426bc38a6771086f37a3778d6306]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1946/regulation/13) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-f14f426bc38a6771086f37a3778d6306]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/1946/regulation/13) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-eb7d5b6ee86b8020706fd610901f0c88]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1946/regulation/14) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-eb7d5b6ee86b8020706fd610901f0c88]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/1946/regulation/14) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00007]: Footnote: Section 226 was amended by paragraph 1 of Schedule 11 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21) and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209) and [2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 
-[^key-8acc483d66539c300590754cac8b19ab]: Textual amendment: Word in [reg. 14(1)(a)(d)(e)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/14/1/a/d/e) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 24](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-8acc483d66539c300590754cac8b19ab]: Textual amendment: Word in [reg. 14(1)(a)(d)(e)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/14/1/a/d/e) substituted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 24](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/24) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^f00008]: Footnote: Section 232A was inserted by paragraph 9 of Schedule 11 to the Financial Services Act 2012.
 
@@ -867,15 +867,15 @@ An impact assessment of the effect of the Regulations has been prepared and is a
 
 [^f00010]: Footnote: Paragraph 13 was amended by paragraph 24 of Schedule 11 to the Financial Services Act 2012 and by [S.I. 2009/209](https://www.legislation.gov.uk/uksi/2009/209), [2011/99](https://www.legislation.gov.uk/uksi/2011/99) and [2015/542](https://www.legislation.gov.uk/uksi/2015/542).
 
-[^key-75d714102719d1041ee7cefdd87f8327]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1946/regulation/15) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-75d714102719d1041ee7cefdd87f8327]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/1946/regulation/15) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-a3b4e42cf58f180cc330a4da094f9693]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1946/regulation/16) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-a3b4e42cf58f180cc330a4da094f9693]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1946/regulation/16) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-cc939602016153cee926bd5c3ed3cd38]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/1946/regulation/17) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-cc939602016153cee926bd5c3ed3cd38]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/1946/regulation/17) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00011]: Footnote: Section 138I has been amended, but none of the amendments are relevant here.
 
-[^key-795e9a7b2a0a197ccad6ce59506fbbb4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/1946/regulation/18) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-795e9a7b2a0a197ccad6ce59506fbbb4]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/1946/regulation/18) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00012]: Footnote: Schedule 1ZA was inserted by section 6(2) of the Financial Services Act 2012, paragraph 23 has been amended, but none of the amendments are relevant here.
 
@@ -883,47 +883,47 @@ An impact assessment of the effect of the Regulations has been prepared and is a
 
 [^f00014]: Footnote: Chapter 4 of Part 9A has been amended, but none of the amendments are relevant here.
 
-[^key-76791ba04b73ec2e2981f270cf96289d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1946/regulation/19) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-76791ba04b73ec2e2981f270cf96289d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/1946/regulation/19) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00015]: Footnote: Paragraph 25 has been amended, but the amendment is not relevant here.
 
-[^key-7d9ba4301315ee601e17071224f7361e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1946/regulation/20) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-7d9ba4301315ee601e17071224f7361e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/1946/regulation/20) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-743a01d500a61637141cd219840c1ccb]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1946/regulation/21) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-743a01d500a61637141cd219840c1ccb]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/1946/regulation/21) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-c1a32fb29b56d087fff78259e772deff]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1946/regulation/22) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-c1a32fb29b56d087fff78259e772deff]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/1946/regulation/22) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00016]: Footnote: Section 348 is amended by paragraph 26 of Schedule 2 to the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), paragraph 18 of Schedule 12 to the Financial Services Act 2012 and paragraph 5 of Schedule 8 to the Financial Services (Banking Reform) Act [2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33). Section 349 is amended by section 964 of the Companies Act [2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46), paragraph 19 of Schedule 12 to the Financial Services Act 2012, [S.I. 2006/1183](https://www.legislation.gov.uk/uksi/2006/1183), [S.I. 2007/1093](https://www.legislation.gov.uk/uksi/2007/1093) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Section 352 is amended by paragraph 54 of Schedule 26 to the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
 [^f00017]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
 
-[^key-f3648e99497f18a9a94f116bee0b1de7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/1946/regulation/23) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-f3648e99497f18a9a94f116bee0b1de7]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/1946/regulation/23) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00018]: Footnote: Part 11 is amended by paragraph 33 of Schedule 7 to the Counter Terrorism Act [2008 (c.28)](https://www.legislation.gov.uk/ukpga/2008/28), section 18 of and Schedule 2 to the Financial Services Act [2010 (c.28)](https://www.legislation.gov.uk/ukpga/2010/28), Schedule 12 to and paragraph 8 of Schedule 18 to the Financial Services Act 2012, [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2012/2554](https://www.legislation.gov.uk/uksi/2012/2554), [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773) and [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575). Other amendments are not relevant here.
 
-[^key-34a9a3e53eb21442a4c3d06c5214d629]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/1946/regulation/24) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-34a9a3e53eb21442a4c3d06c5214d629]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/1946/regulation/24) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-8d0b5a2a596df0de84c43d8570eae965]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/1946/regulation/25) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-8d0b5a2a596df0de84c43d8570eae965]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/1946/regulation/25) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-7c121be20370d62d2c5404d32ca9f210]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/1946/regulation/26) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-7c121be20370d62d2c5404d32ca9f210]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/1946/regulation/26) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-d92faa812d628932650699d71e31f3f0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/1946/regulation/27) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-d92faa812d628932650699d71e31f3f0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/1946/regulation/27) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-f941ad2fff2533dbfd80c1d98bb65ac1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1946/regulation/28) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-f941ad2fff2533dbfd80c1d98bb65ac1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/1946/regulation/28) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-769d1b55d0040a2549124e898f89360d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2015/1946/regulation/29) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-769d1b55d0040a2549124e898f89360d]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2015/1946/regulation/29) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-990b4783fd8ce87889430957deed1fb7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/1946/regulation/30) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-990b4783fd8ce87889430957deed1fb7]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/1946/regulation/30) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-5f0c332ae267b964c76e6398e755915b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2015/1946/regulation/31) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-5f0c332ae267b964c76e6398e755915b]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2015/1946/regulation/31) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-44289796a774629d9c657c658c95b6be]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/1946/regulation/32) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-44289796a774629d9c657c658c95b6be]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/1946/regulation/32) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-3834b849760571e5a975a4c985e2acf6]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/1946/regulation/33) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-3834b849760571e5a975a4c985e2acf6]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/1946/regulation/33) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-3ed247fbf6d6cef4944d4c9b732cfec2]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/1946/regulation/34) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-3ed247fbf6d6cef4944d4c9b732cfec2]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/1946/regulation/34) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-fed2af3460656714fefbb48b1d491a8b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2015/1946/regulation/35) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-fed2af3460656714fefbb48b1d491a8b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2015/1946/regulation/35) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00019]: Footnote: [1925 c.86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 is amended by the Magistrates’ Courts Act [1952 (c.55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6, the Courts Act [1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), Schedule 8, and the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39), Schedule 8, paragraph 71 and Schedule 10.
 
@@ -935,34 +935,34 @@ An impact assessment of the effect of the Regulations has been prepared and is a
 
 [^f00023]: Footnote: [S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675).
 
-[^key-309b86a0603894cb52fe1ae15a5659c5]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2015/1946/regulation/36) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-309b86a0603894cb52fe1ae15a5659c5]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2015/1946/regulation/36) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-20677ce04a76704300e805d1db9d88e8]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2015/1946/regulation/37) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-20677ce04a76704300e805d1db9d88e8]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2015/1946/regulation/37) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-275bba13668613548628177525f7f4d7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2015/1946/regulation/38) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-275bba13668613548628177525f7f4d7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2015/1946/regulation/38) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00024]: Footnote: Section 393(4) is amended by paragraph 32 of Schedule 9 to the Financial Services Act 2012.
 
-[^key-20aed644bb7ec02ac42b2613f2258be1]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2015/1946/regulation/39) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-20aed644bb7ec02ac42b2613f2258be1]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2015/1946/regulation/39) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2001/1420](https://www.legislation.gov.uk/uksi/2001/1420). This has been amended by [S.I. 2005/274](https://www.legislation.gov.uk/uksi/2005/274), [S.I. 2010/1193](https://www.legislation.gov.uk/uksi/2010/1193), [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), and [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
 
-[^key-498f857d8eb3676a1c8a9149ae24c765]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2015/1946/regulation/40) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-498f857d8eb3676a1c8a9149ae24c765]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2015/1946/regulation/40) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00026]: Footnote: Section 210 is amended by paragraph 20 of Schedule 2 to the Financial Services Act 2010 and paragraph 17 of Schedule 9 to the Financial Services Act 2012. Section 211 is amended by paragraph 18 of Schedule 9 to the Financial Services Act 2012.
 
 [^f00027]: Footnote: Part 14 is amended by sections 9 and 10 of and Schedule 2 to the Financial Services Act 2010, Schedule 9 to the Financial Services Act 2012 and [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
-[^key-98c43fd4e9dfa5201d31d91e5f25bfe2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2015/1946/regulation/41) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-98c43fd4e9dfa5201d31d91e5f25bfe2]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2015/1946/regulation/41) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00028]: Footnote: Part 26 is amended by paragraph 11 of Schedule 4 to the Regulation of Investigatory Powers Act [2000 (c.23)](https://www.legislation.gov.uk/ukpga/2000/23), sections 13 and 24 of and paragraphs 28 and 29 of Schedule 2 to the Financial Services Act 2010, sections 17, 18, 19 and 24 of and paragraph 37 of Schedule 8, Schedule 9 and paragraph 8 of Schedule 13 to the Financial Services Act 2012, section 4 of and Schedule 3 to the Financial Services (Banking Reform) Act 2013, [S.I. 2005/381](https://www.legislation.gov.uk/uksi/2005/381), [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433), [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [S.I. 2007/1973](https://www.legislation.gov.uk/uksi/2007/1973), [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916), [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388), [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115) and [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
 
-[^key-65934e8441c533b9c3c82c2262ea363d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2015/1946/regulation/42) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-65934e8441c533b9c3c82c2262ea363d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2015/1946/regulation/42) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-50013166596e8144388e9c32e7a871a6]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2015/1946/regulation/43) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-50013166596e8144388e9c32e7a871a6]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2015/1946/regulation/43) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
 [^f00029]: Footnote: Part 9 is amended by section 23 of the Financial Services Act 2012, section 4 of the Financial Services (Banking Reform) Act 2013, paragraph 83 of Schedule 9 to the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22) and [S.I. 2013/1388](https://www.legislation.gov.uk/uksi/2013/1388).
 
-[^key-2589027d2e3e45e14fcd82d937619d99]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2015/1946/regulation/44) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-2589027d2e3e45e14fcd82d937619d99]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2015/1946/regulation/44) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
 
-[^key-5fbf8bf4e2a21af64b1b8f376759a6f7]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1946/schedule) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)
+[^c-5fbf8bf4e2a21af64b1b8f376759a6f7]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1946/schedule) in force at 1.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1946/regulation/1/2)

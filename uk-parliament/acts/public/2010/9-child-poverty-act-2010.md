@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Life Chances Act 2010[^key-5e077dc7c64f343d161d160c6c359a88]
+Life Chances Act 2010[^c-5e077dc7c64f343d161d160c6c359a88]
 
 2010 c. 9
 
@@ -34,9 +34,9 @@ An Act to set targets relating to the eradication of child poverty, and to make 
 
 \[25th March 2010\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-8ccbf6074c8f5e848ecbff528002ec5b]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-8ccbf6074c8f5e848ecbff528002ec5b]
 
-## PART A1 — LIFE CHANCES[^key-885b038f98b0be8bfed35d16c535325d]
+## PART A1 — LIFE CHANCES[^c-885b038f98b0be8bfed35d16c535325d]
 
 ### Children: reporting obligations
 
@@ -69,7 +69,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - “Key Stage 4” means the fourth key stage, within the meaning of Part 6 of the Education Act 2002;
 - “official statistics” has the meaning given by section 6(1) of the Statistics and Registration Service Act 2007.
 
-### Social Mobility Commission[^key-ed0fdfa1bb1f1c98b7ddb0c542f13305]
+### Social Mobility Commission[^c-ed0fdfa1bb1f1c98b7ddb0c542f13305]
 
 #### A1B. Social Mobility Commission
 
@@ -105,47 +105,47 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (10) A Minister of the Crown may direct the Commission to carry out any other activity relating to improving social mobility in England or Northern Ireland.
 
-## Part 1 — Strategies: Northern Ireland[^key-4f938b905acc779f1955c5431df376f3]
+## Part 1 — Strategies: Northern Ireland[^c-4f938b905acc779f1955c5431df376f3]
 
 ### Targets relating to child poverty
 
-#### 1. The 2010 target[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 1. The 2010 target[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Duty of Secretary of State to ensure that targets in sections 3 to 6 are met[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 2. Duty of Secretary of State to ensure that targets in sections 3 to 6 are met[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. The relative low income target[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 3. The relative low income target[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. The combined low income and material deprivation target[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 4. The combined low income and material deprivation target[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. The absolute low income target[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 5. The absolute low income target[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. The persistent poverty target[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 6. The persistent poverty target[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Interpretation of terms used in relation to targets[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 7. Interpretation of terms used in relation to targets[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
@@ -153,25 +153,25 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Social Mobility and Child Poverty Commission
 
-#### 8. Social Mobility and Child Poverty Commission[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 8. Social Mobility and Child Poverty Commission[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8A. Advice[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 8A. Advice[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8B. Annual reports[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 8B. Annual reports[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8C. Other functions[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 8C. Other functions[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
@@ -179,21 +179,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### Strategies: duties of Secretary of State
 
-#### 9. UK strategies[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 9. UK strategies[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Consultation[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 10. Consultation[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Strategies: duties of ... relevant Northern Ireland department[^key-f4e351573346407b9ba054d8f0ac2726]
+### Strategies: duties of ... relevant Northern Ireland department[^c-f4e351573346407b9ba054d8f0ac2726]
 
-#### 11. Scottish strategies[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]
+#### 11. Scottish strategies[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]
 
 *Extent: S*
 
@@ -209,65 +209,65 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (2) A “Northern Ireland strategy” is a strategy under this section setting out the measures that the Northern Ireland departments propose to take—
 
-- (a)[^key-fbcc452fb120af0f206ddaa55ea65382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-fbcc452fb120af0f206ddaa55ea65382] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the purpose of ensuring as far as possible that children in Northern Ireland do not experience socio-economic disadvantage.
 
-(3) Before the end of the period to which a Northern Ireland strategy relates, the relevant Northern Ireland department must review the strategy and publish and lay before the Northern Ireland Assembly a revised Northern Ireland strategy, but this subsection does not apply after 31 March 2020[^key-02b0a73ee43e65a12090cc81fca8a2b7].
+(3) Before the end of the period to which a Northern Ireland strategy relates, the relevant Northern Ireland department must review the strategy and publish and lay before the Northern Ireland Assembly a revised Northern Ireland strategy, but this subsection does not apply after 31 March 2020[^c-02b0a73ee43e65a12090cc81fca8a2b7].
 
 (4) A Northern Ireland strategy must—
 
-- (a) where it relates to a period ending before 1 April 2021[^key-ed23f28c1c2cae7518dbc388ba6b1e66]—
-  - (i)[^key-35b9b906ac837a70a6f7ede83834f49d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) describe the [^key-481132a117d02126c671a63435a12a7b]... progress that the Northern Ireland departments intend to make by the end of the period to which the strategy relates in achieving the purpose mentioned in subsection (2)(b), and
-- (b) describe the progress that the Northern Ireland departments intend to make by 31 March 2021[^key-ba8d9db6148de3de6e360c24b9e62469] in achieving the purpose mentioned in subsection (2)(b), [^key-a675a02bd963fec7a75909caf24f57b0]....
+- (a) where it relates to a period ending before 1 April 2021[^c-ed23f28c1c2cae7518dbc388ba6b1e66]—
+  - (i)[^c-35b9b906ac837a70a6f7ede83834f49d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) describe the [^c-481132a117d02126c671a63435a12a7b]... progress that the Northern Ireland departments intend to make by the end of the period to which the strategy relates in achieving the purpose mentioned in subsection (2)(b), and
+- (b) describe the progress that the Northern Ireland departments intend to make by 31 March 2021[^c-ba8d9db6148de3de6e360c24b9e62469] in achieving the purpose mentioned in subsection (2)(b), [^c-a675a02bd963fec7a75909caf24f57b0]....
 
 (5) A Northern Ireland strategy other than the first must also—
 
 - (a) describe the measures taken by the Northern Ireland departments in accordance with the previous Northern Ireland strategy,
-- (b)[^key-d42719c74871c576ed8f7f1ecb5fa57a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) describe the[^key-0e6efccc0af20053da08f45a276bdd42] effects of those measures that contribute to the achievement of the purpose mentioned in subsection (2)(b).
+- (b)[^c-d42719c74871c576ed8f7f1ecb5fa57a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) describe the[^c-0e6efccc0af20053da08f45a276bdd42] effects of those measures that contribute to the achievement of the purpose mentioned in subsection (2)(b).
 
 (6) A Northern Ireland strategy may not include proposals that relate to excepted or reserved matters, within the meaning of the Northern Ireland Act 1998.
 
 (7) The relevant Northern Ireland department must, on or before each report date relating to a Northern Ireland strategy, lay before the Northern Ireland Assembly a report which—
 
 - (a) describes the measures taken by the Northern Ireland departments in accordance with the Northern Ireland strategy,
-- (b)[^key-05a38e89a9a78d3590456dbf2224555c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) describes the[^key-1976a4b5424a4b5b533717253be99d85] effects of those measures that contribute to the achievement of the purpose mentioned in subsection (2)(b).
+- (b)[^c-05a38e89a9a78d3590456dbf2224555c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) describes the[^c-1976a4b5424a4b5b533717253be99d85] effects of those measures that contribute to the achievement of the purpose mentioned in subsection (2)(b).
 
 (8) The report dates relating to a Northern Ireland strategy are each anniversary of the day on which it was laid before the Northern Ireland Assembly, other than an anniversary which falls—
 
 - (a) on or after the date on which a subsequent Northern Ireland strategy is so laid, or
-- (b) after 31 March 2021[^key-601761188f7f4d2c232de4ec3f0e6fc3].
+- (b) after 31 March 2021[^c-601761188f7f4d2c232de4ec3f0e6fc3].
 
 (9) References in this section to the period to which a Northern Ireland strategy relates are references to the period beginning with the date on which the Northern Ireland strategy is laid before the Northern Ireland Assembly and—
 
-- (a) except in the case of a Northern Ireland strategy laid before the Assembly less than 3 years before 1 April 2020[^key-11d2f880fced888aa947276210de41c6], ending 3 years later, and
-- (b) in that excepted case, ending with 31 March 2021[^key-416a66dd9a6ebba668e76b30f9d89619].
+- (a) except in the case of a Northern Ireland strategy laid before the Assembly less than 3 years before 1 April 2020[^c-11d2f880fced888aa947276210de41c6], ending 3 years later, and
+- (b) in that excepted case, ending with 31 March 2021[^c-416a66dd9a6ebba668e76b30f9d89619].
 
-#### 13. Consultation: ... Northern Ireland[^key-b3ae0d81037dc422973f125ae6f13ff3][^key-ea4d7f0fb0d4c70ae11aa1815b919796]
+#### 13. Consultation: ... Northern Ireland[^c-b3ae0d81037dc422973f125ae6f13ff3][^c-ea4d7f0fb0d4c70ae11aa1815b919796]
 
-(1)[^key-4bd9608d495ba505af3e5644b9d722c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4bd9608d495ba505af3e5644b9d722c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4bd9608d495ba505af3e5644b9d722c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4bd9608d495ba505af3e5644b9d722c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In preparing [^key-e06f07467d4dbdc926dfd85d5d29d4ea]... a Northern Ireland strategy, the relevant Northern Ireland department[^key-d51b07a5271eeef7d8c91566ad66253c]—
+(3) In preparing [^c-e06f07467d4dbdc926dfd85d5d29d4ea]... a Northern Ireland strategy, the relevant Northern Ireland department[^c-d51b07a5271eeef7d8c91566ad66253c]—
 
-- (a)[^key-abdbe50e2bb9ac868bad83ac1ef10713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-abdbe50e2bb9ac868bad83ac1ef10713] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) must consult the Secretary of State,
 - (c) must consult such children, and organisations working with or representing children, as the relevant Northern Ireland department thinks fit,
 - (d) must consult such parents, and organisations working with or representing parents, as the relevant Northern Ireland department thinks fit, and
 - (e) may consult such other persons as the relevant Northern Ireland department thinks fit.
 
-(4)[^key-45d7834c8572b16730d93f4c31cdc40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-45d7834c8572b16730d93f4c31cdc40c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Reports by Secretary of State
 
-#### 14. Statement by Secretary of State[^key-b127bcd62dfbd97cc82fa5964a2f9539][^key-f5b56a0ccb7f81fa493b612268cf9a34]
+#### 14. Statement by Secretary of State[^c-b127bcd62dfbd97cc82fa5964a2f9539][^c-f5b56a0ccb7f81fa493b612268cf9a34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Statement required in relation to target year[^key-bed235aa47b7a0c8a1f1525d01922b90]
+#### 15. Statement required in relation to target year[^c-bed235aa47b7a0c8a1f1525d01922b90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -275,18 +275,18 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### 16. Economic and fiscal circumstances
 
-(1)[^key-408e3e1b80a6bb98dfec47b63a59213a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-408e3e1b80a6bb98dfec47b63a59213a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-408e3e1b80a6bb98dfec47b63a59213a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-408e3e1b80a6bb98dfec47b63a59213a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-86693bec260e59950ed7b509724648f1] In preparing a Northern Ireland strategy, the relevant Northern Ireland department must have regard to—
+(3)[^c-86693bec260e59950ed7b509724648f1] In preparing a Northern Ireland strategy, the relevant Northern Ireland department must have regard to—
 
 - (a) the resources that are or may be available to the Northern Ireland departments, and
 - (b) the effect of the implementation of the strategy on those resources.
 
 ### Continuing effect of targets after target year
 
-#### 17. Continuing effect of targets after target year[^key-8542229b446cb8c179c3978a36b72248]
+#### 17. Continuing effect of targets after target year[^c-8542229b446cb8c179c3978a36b72248]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -294,7 +294,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### 18. Interpretation of Part 1
 
-(1)[^key-29eb0162400e8e458c8cd77481833f06] In this Part—
+(1)[^c-29eb0162400e8e458c8cd77481833f06] In this Part—
 
 - “child” means—
   - (a) a person under the age of 16, or
@@ -303,53 +303,53 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   - (a) any individual who has parental responsibility for a child, or
   - (b) any other individual with whom a child resides and who has care of the child.
 
-(1A)[^key-222ae8a3671f16ea2b7b89577386228a] In paragraph (a) of the definition of “parent” in subsection (1), the reference to “parental responsibility” is to be read in accordance with the Children (Northern Ireland) Order 1995.
+(1A)[^c-222ae8a3671f16ea2b7b89577386228a] In paragraph (a) of the definition of “parent” in subsection (1), the reference to “parental responsibility” is to be read in accordance with the Children (Northern Ireland) Order 1995.
 
-(2)[^key-c7bbca2103777ecb7fec9374878bb16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c7bbca2103777ecb7fec9374878bb16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-c7bbca2103777ecb7fec9374878bb16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c7bbca2103777ecb7fec9374878bb16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part 2 — Duties of local authorities and other bodies in England
 
 *Extent: E+W*
 
-### 19. Responsible local authorities[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 19. Responsible local authorities[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Partner authorities[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 20. Partner authorities[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Co-operation to reduce child poverty in local area[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 21. Co-operation to reduce child poverty in local area[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Local child poverty needs assessment[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 22. Local child poverty needs assessment[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Joint child poverty strategy for local area[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 23. Joint child poverty strategy for local area[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Sustainable community strategy[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 24. Sustainable community strategy[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Meaning of “child poverty” in Part 2[^key-d2ef7f54f7e3d01bef6cffc725182178]
+### 25. Meaning of “child poverty” in Part 2[^c-d2ef7f54f7e3d01bef6cffc725182178]
 
 **No longer in force.**
 
@@ -393,7 +393,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ### General
 
-#### 27. General interpretation[^key-5032e2279959746ad3fbc2cf57b64e26]
+#### 27. General interpretation[^c-5032e2279959746ad3fbc2cf57b64e26]
 
 (1) In this Act—
 
@@ -407,19 +407,19 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### 28. ... orders[^M_F_77c56a9d-b3d9-41c8-fc45-124beff4cf27]
 
-(1) Any power to make [^key-acf0f6c1378810569f2942492f01e13c]... an order under this Act is exercisable by statutory instrument.
+(1) Any power to make [^c-acf0f6c1378810569f2942492f01e13c]... an order under this Act is exercisable by statutory instrument.
 
-(2) Any [^key-243e37090e008ecc691a2181e4e6abb3]... order under this Act may—
+(2) Any [^c-243e37090e008ecc691a2181e4e6abb3]... order under this Act may—
 
 - (a) make different provision for different cases,
 - (b) include supplementary, incidental and consequential provision, and
 - (c) make transitional provisions and savings.
 
-(3) A power conferred by any provision of this Act to make [^key-266b73b10c65af99d01abf71f9ac1b7a]... an order includes power to provide for a person to exercise a discretion in dealing with any matter.
+(3) A power conferred by any provision of this Act to make [^c-266b73b10c65af99d01abf71f9ac1b7a]... an order includes power to provide for a person to exercise a discretion in dealing with any matter.
 
-(4)[^key-7a67d4a594f96530834ae1647be65060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-7a67d4a594f96530834ae1647be65060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7a67d4a594f96530834ae1647be65060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7a67d4a594f96530834ae1647be65060] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 29. Financial provisions
 
@@ -432,11 +432,11 @@ There is to be paid out of money provided by Parliament—
 
 (1) Except as provided by subsections (2) to (4), the provisions of this Act extend to England and Wales, Scotland and Northern Ireland.
 
-(2)[^key-c39f3e5c812ef17abca66686754129da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c39f3e5c812ef17abca66686754129da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Part 1[^key-f4570f9e22534a41c840e566dd47ed47] extends to Northern Ireland only.
+(3) Part 1[^c-f4570f9e22534a41c840e566dd47ed47] extends to Northern Ireland only.
 
-(4) Section 26 extends[^key-1c1259aaaf9357496477e44ba39879ad] to England and Wales only.
+(4) Section 26 extends[^c-1c1259aaaf9357496477e44ba39879ad] to England and Wales only.
 
 #### 31. Commencement
 
@@ -450,15 +450,15 @@ This Act may be cited as the Life Chances Act 2010.
 
 SCHEDULES
 
-## SCHEDULE 1 — Social Mobility Commission[^key-59c6e2bd8c9c78ed90d34e96245fcce1][^key-dcbfdd1a53ca92ef74c48d4c9fb7f59d]
+## SCHEDULE 1 — Social Mobility Commission[^c-59c6e2bd8c9c78ed90d34e96245fcce1][^c-dcbfdd1a53ca92ef74c48d4c9fb7f59d]
 
 ### Membership, chair and deputy chair
 
 **1.** (1) The members of the Commission are to be—
 
 - (a) a chair appointed by a Minister of the Crown,
-- (b)[^key-b7ba16897e1e30ff925a0d9b81986232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-b7ba16897e1e30ff925a0d9b81986232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b7ba16897e1e30ff925a0d9b81986232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b7ba16897e1e30ff925a0d9b81986232] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) after the appointed day for Northern Ireland, a member appointed by the relevant Northern Ireland department, and
 - (e) any other members appointed by a Minister of the Crown.
 
@@ -533,142 +533,142 @@ as the Minister may determine are required by the Commission in the exercise of 
 
 **15.** The Commission may authorise a sub-committee or member to exercise any of the Commission's functions.
 
-## SCHEDULE 2 — Continuing effect of targets after target year[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+## SCHEDULE 2 — Continuing effect of targets after target year[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
 **No longer in force.**
 
 Section 17
 
-### Interpretation of Schedule[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+### Interpretation of Schedule[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
-**1.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duty to maintain targets[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+### Duty to maintain targets[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
-**2.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Duty to make regulations requiring targets to be met in specified financial year[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+### Duty to make regulations requiring targets to be met in specified financial year[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
-**3.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Economic and fiscal circumstances[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+### Economic and fiscal circumstances[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
-**7.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Statement as to whether targets are met in relation to renewed target year[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+### Statement as to whether targets are met in relation to renewed target year[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
-**8.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Power to exclude or modify absolute low income target[^key-5b483c6d05563bdf22ce1b32c5ad8fec]
+### Power to exclude or modify absolute low income target[^c-5b483c6d05563bdf22ce1b32c5ad8fec]
 
-**9.**[^key-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5b483c6d05563bdf22ce1b32c5ad8fec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e077dc7c64f343d161d160c6c359a88]: Textual amendment: Act: "The Child Poverty Act 2010 may be cited as the Life Chances Act 2010" (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), ss. 7(12), 36(2)(d)
+[^c-5e077dc7c64f343d161d160c6c359a88]: Textual amendment: Act: "The Child Poverty Act 2010 may be cited as the Life Chances Act 2010" (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), ss. 7(12), 36(2)(d)
 
-[^key-8ccbf6074c8f5e848ecbff528002ec5b]: Modification: Act transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-8ccbf6074c8f5e848ecbff528002ec5b]: Modification: Act transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-885b038f98b0be8bfed35d16c535325d]: Textual amendment: Pt. A1 inserted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 5](https://www.legislation.gov.uk/ukpga/2016/7/section/5), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-885b038f98b0be8bfed35d16c535325d]: Textual amendment: Pt. A1 inserted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 5](https://www.legislation.gov.uk/ukpga/2016/7/section/5), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-ed0fdfa1bb1f1c98b7ddb0c542f13305]: Textual amendment: Ss. A1B, A1C and cross-heading inserted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/6/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-ed0fdfa1bb1f1c98b7ddb0c542f13305]: Textual amendment: Ss. A1B, A1C and cross-heading inserted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/6/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-4f938b905acc779f1955c5431df376f3]: Textual amendment: Pt. 1 heading substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/7), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-4f938b905acc779f1955c5431df376f3]: Textual amendment: Pt. 1 heading substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/7), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-514bcefbe97d98a5c6ee97ab84e3fc1e]: Textual amendment: Ss. 1-11 repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-514bcefbe97d98a5c6ee97ab84e3fc1e]: Textual amendment: Ss. 1-11 repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-f4e351573346407b9ba054d8f0ac2726]: Textual amendment: Words in s. 11 cross-heading omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/2), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-f4e351573346407b9ba054d8f0ac2726]: Textual amendment: Words in s. 11 cross-heading omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/2), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-fbcc452fb120af0f206ddaa55ea65382]: Textual amendment: S. 12(2)(a) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-fbcc452fb120af0f206ddaa55ea65382]: Textual amendment: S. 12(2)(a) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-02b0a73ee43e65a12090cc81fca8a2b7]: Textual amendment: Words in s. 12(3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-02b0a73ee43e65a12090cc81fca8a2b7]: Textual amendment: Words in s. 12(3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-ed23f28c1c2cae7518dbc388ba6b1e66]: Textual amendment: Words in s. 12(4)(a) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-ed23f28c1c2cae7518dbc388ba6b1e66]: Textual amendment: Words in s. 12(4)(a) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-35b9b906ac837a70a6f7ede83834f49d]: Textual amendment: S. 12(4)(a)(i) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/d), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-35b9b906ac837a70a6f7ede83834f49d]: Textual amendment: S. 12(4)(a)(i) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/d), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-481132a117d02126c671a63435a12a7b]: Textual amendment: Word in s. 12(4)(a)(ii) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(e)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/e), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-481132a117d02126c671a63435a12a7b]: Textual amendment: Word in s. 12(4)(a)(ii) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(e)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/e), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-ba8d9db6148de3de6e360c24b9e62469]: Textual amendment: Words in s. 12(4)(b) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(f)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/f), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-ba8d9db6148de3de6e360c24b9e62469]: Textual amendment: Words in s. 12(4)(b) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(f)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/f), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-a675a02bd963fec7a75909caf24f57b0]: Textual amendment: Words in s. 12(4)(b) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(g)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/g), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-a675a02bd963fec7a75909caf24f57b0]: Textual amendment: Words in s. 12(4)(b) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(g)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/g), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-d42719c74871c576ed8f7f1ecb5fa57a]: Textual amendment: S. 12(5)(b) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(h)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/h), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-d42719c74871c576ed8f7f1ecb5fa57a]: Textual amendment: S. 12(5)(b) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(h)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/h), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-0e6efccc0af20053da08f45a276bdd42]: Textual amendment: Word in s. 12(5)(c) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(i)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/i), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-0e6efccc0af20053da08f45a276bdd42]: Textual amendment: Word in s. 12(5)(c) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(i)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/i), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-05a38e89a9a78d3590456dbf2224555c]: Textual amendment: S. 12(7)(b) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(j)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/j), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-05a38e89a9a78d3590456dbf2224555c]: Textual amendment: S. 12(7)(b) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(j)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/j), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-1976a4b5424a4b5b533717253be99d85]: Textual amendment: Word in s. 12(7)(c) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(k)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/k), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-1976a4b5424a4b5b533717253be99d85]: Textual amendment: Word in s. 12(7)(c) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(k)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/k), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-601761188f7f4d2c232de4ec3f0e6fc3]: Textual amendment: Words in s. 12(8)(b) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(l)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/l), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-601761188f7f4d2c232de4ec3f0e6fc3]: Textual amendment: Words in s. 12(8)(b) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(l)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/l), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-11d2f880fced888aa947276210de41c6]: Textual amendment: Words in s. 12(9)(a) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(m)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/m), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-11d2f880fced888aa947276210de41c6]: Textual amendment: Words in s. 12(9)(a) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(m)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/m), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-416a66dd9a6ebba668e76b30f9d89619]: Textual amendment: Words in s. 12(9)(b) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(n)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/n), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-416a66dd9a6ebba668e76b30f9d89619]: Textual amendment: Words in s. 12(9)(b) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(3)(n)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/3/n), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-b3ae0d81037dc422973f125ae6f13ff3]: Textual amendment: S. 13 heading substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 7(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/7/a)
+[^c-b3ae0d81037dc422973f125ae6f13ff3]: Textual amendment: S. 13 heading substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 7(a)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/7/a)
 
-[^key-ea4d7f0fb0d4c70ae11aa1815b919796]: Textual amendment: Words in s. 13 heading omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(e)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/e), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-ea4d7f0fb0d4c70ae11aa1815b919796]: Textual amendment: Words in s. 13 heading omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(e)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/e), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-4bd9608d495ba505af3e5644b9d722c6]: Textual amendment: S. 13(1)(2) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 7(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/7/b)
+[^c-4bd9608d495ba505af3e5644b9d722c6]: Textual amendment: S. 13(1)(2) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 7(b)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/7/b)
 
-[^key-e06f07467d4dbdc926dfd85d5d29d4ea]: Textual amendment: Words in s. 13(3) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-e06f07467d4dbdc926dfd85d5d29d4ea]: Textual amendment: Words in s. 13(3) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-d51b07a5271eeef7d8c91566ad66253c]: Textual amendment: Words in s. 13(3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-d51b07a5271eeef7d8c91566ad66253c]: Textual amendment: Words in s. 13(3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-abdbe50e2bb9ac868bad83ac1ef10713]: Textual amendment: S. 13(3)(a) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-abdbe50e2bb9ac868bad83ac1ef10713]: Textual amendment: S. 13(3)(a) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-45d7834c8572b16730d93f4c31cdc40c]: Textual amendment: S. 13(4) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/d), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-45d7834c8572b16730d93f4c31cdc40c]: Textual amendment: S. 13(4) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(4)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/4/d), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-b127bcd62dfbd97cc82fa5964a2f9539]: Textual amendment: S. 14 repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/8/2)
+[^c-b127bcd62dfbd97cc82fa5964a2f9539]: Textual amendment: S. 14 repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 8(2)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/8/2)
 
-[^key-f5b56a0ccb7f81fa493b612268cf9a34]: Textual amendment: Word in s. 14 substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 8(1)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/8/1)
+[^c-f5b56a0ccb7f81fa493b612268cf9a34]: Textual amendment: Word in s. 14 substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) , [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j) , [Sch. 13 para. 8(1)](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/8/1)
 
-[^key-bed235aa47b7a0c8a1f1525d01922b90]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2010/9/section/15) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-bed235aa47b7a0c8a1f1525d01922b90]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/2010/9/section/15) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-408e3e1b80a6bb98dfec47b63a59213a]: Textual amendment: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2010/9/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2010/9/section/16/2) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(5)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/5/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-408e3e1b80a6bb98dfec47b63a59213a]: Textual amendment: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2010/9/section/16/1)[(2)](https://www.legislation.gov.uk/ukpga/2010/9/section/16/2) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(5)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/5/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-86693bec260e59950ed7b509724648f1]: Textual amendment: [S. 16(3)](https://www.legislation.gov.uk/ukpga/2010/9/section/16/3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(5)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/5/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-86693bec260e59950ed7b509724648f1]: Textual amendment: [S. 16(3)](https://www.legislation.gov.uk/ukpga/2010/9/section/16/3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(5)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/5/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-8542229b446cb8c179c3978a36b72248]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2010/9/section/17) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-8542229b446cb8c179c3978a36b72248]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/2010/9/section/17) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-29eb0162400e8e458c8cd77481833f06]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/1) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(6)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/6/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-29eb0162400e8e458c8cd77481833f06]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/1) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(6)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/6/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-222ae8a3671f16ea2b7b89577386228a]: Textual amendment: [S. 18(1A)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/1A) inserted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/6/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-222ae8a3671f16ea2b7b89577386228a]: Textual amendment: [S. 18(1A)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/1A) inserted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(6)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/6/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-c7bbca2103777ecb7fec9374878bb16c]: Textual amendment: [S. 18(2)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/2)[(3)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/3) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(6)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/6/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-c7bbca2103777ecb7fec9374878bb16c]: Textual amendment: [S. 18(2)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/2)[(3)](https://www.legislation.gov.uk/ukpga/2010/9/section/18/3) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(6)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/6/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-d2ef7f54f7e3d01bef6cffc725182178]: Textual amendment: [Ss. 19-25](https://www.legislation.gov.uk/ukpga/2010/9/section/19) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-d2ef7f54f7e3d01bef6cffc725182178]: Textual amendment: [Ss. 19-25](https://www.legislation.gov.uk/ukpga/2010/9/section/19) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-5032e2279959746ad3fbc2cf57b64e26]: Textual amendment: S. 27 substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/8), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-5032e2279959746ad3fbc2cf57b64e26]: Textual amendment: S. 27 substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(8)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/8), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
 [^M_F_77c56a9d-b3d9-41c8-fc45-124beff4cf27]: Textual amendment: Words in s. 28 heading omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/c), 36(2)(d)
 
-[^key-acf0f6c1378810569f2942492f01e13c]: Textual amendment: Words in s. 28(1) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-acf0f6c1378810569f2942492f01e13c]: Textual amendment: Words in s. 28(1) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-243e37090e008ecc691a2181e4e6abb3]: Textual amendment: Words in s. 28(2) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-243e37090e008ecc691a2181e4e6abb3]: Textual amendment: Words in s. 28(2) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-266b73b10c65af99d01abf71f9ac1b7a]: Textual amendment: Words in s. 28(3) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-266b73b10c65af99d01abf71f9ac1b7a]: Textual amendment: Words in s. 28(3) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-7a67d4a594f96530834ae1647be65060]: Textual amendment: S. 28(4)(5) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-7a67d4a594f96530834ae1647be65060]: Textual amendment: S. 28(4)(5) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(9)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/9/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-c39f3e5c812ef17abca66686754129da]: Textual amendment: S. 30(2) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(10)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/10/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-c39f3e5c812ef17abca66686754129da]: Textual amendment: S. 30(2) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(10)(a)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/10/a), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-f4570f9e22534a41c840e566dd47ed47]: Textual amendment: Words in s. 30(3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(10)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/10/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-f4570f9e22534a41c840e566dd47ed47]: Textual amendment: Words in s. 30(3) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(10)(b)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/10/b), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-1c1259aaaf9357496477e44ba39879ad]: Textual amendment: Words in s. 30(4) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(10)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/10/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-1c1259aaaf9357496477e44ba39879ad]: Textual amendment: Words in s. 30(4) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(10)(c)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/10/c), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-59c6e2bd8c9c78ed90d34e96245fcce1]: Textual amendment: Sch. 1 substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/3)
+[^c-59c6e2bd8c9c78ed90d34e96245fcce1]: Textual amendment: Sch. 1 substituted (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(2)(j)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/j), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2012/5/schedule/13/paragraph/3)
 
-[^key-dcbfdd1a53ca92ef74c48d4c9fb7f59d]: Textual amendment: [Sch. 1 title](https://www.legislation.gov.uk/ukpga/2010/9/schedule/1) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/6/2), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-dcbfdd1a53ca92ef74c48d4c9fb7f59d]: Textual amendment: [Sch. 1 title](https://www.legislation.gov.uk/ukpga/2010/9/schedule/1) substituted (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2016/7/section/6/2), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-b7ba16897e1e30ff925a0d9b81986232]: Textual amendment: Sch. 1 para. 1(1)(b)(c) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(11)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/11), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-b7ba16897e1e30ff925a0d9b81986232]: Textual amendment: Sch. 1 para. 1(1)(b)(c) omitted (16.5.2016) by virtue of [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(11)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/11), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
 
-[^key-5b483c6d05563bdf22ce1b32c5ad8fec]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/9/schedule/2) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)
+[^c-5b483c6d05563bdf22ce1b32c5ad8fec]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/9/schedule/2) repealed (16.5.2016) by [Welfare Reform and Work Act 2016 (c. 7)](https://www.legislation.gov.uk/ukpga/2016/7), [ss. 7(1)](https://www.legislation.gov.uk/ukpga/2016/7/section/7/1), [36(2)(d)](https://www.legislation.gov.uk/ukpga/2016/7/section/36/2/d)

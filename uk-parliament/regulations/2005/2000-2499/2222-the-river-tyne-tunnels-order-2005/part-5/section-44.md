@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Application of landlord and tenant law[^key-b6cd8682c2f860f3f7bbc40817775ba8]
+## 44. Application of landlord and tenant law[^c-b6cd8682c2f860f3f7bbc40817775ba8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6cd8682c2f860f3f7bbc40817775ba8]: Commencement: Art. 44 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-b6cd8682c2f860f3f7bbc40817775ba8]: Commencement: Art. 44 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

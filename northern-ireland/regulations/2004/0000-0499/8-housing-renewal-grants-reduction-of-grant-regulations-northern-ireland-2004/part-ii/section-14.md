@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Successive applications[^key-7c82250df38ed9213709003463ed9824]
+## 14. Successive applications[^c-7c82250df38ed9213709003463ed9824]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7c82250df38ed9213709003463ed9824]: Commencement: Reg. 14 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-7c82250df38ed9213709003463ed9824]: Commencement: Reg. 14 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
 
 [^f00049]: Footnote: [S.R. 1997 No. 456](https://www.legislation.gov.uk/nisr/1997/456), amended by [S.R. 1998 No. 396](https://www.legislation.gov.uk/nisr/1998/396), [S.R. 1999 No. 387](https://www.legislation.gov.uk/nisr/1999/387), [S.R. 2000 Nos. 62](https://www.legislation.gov.uk/nisr/2000/62) and [325](https://www.legislation.gov.uk/nisr/2000/325), [S.R. 2001 No. 315](https://www.legislation.gov.uk/nisr/2001/315) and [S.R. 2003 Nos. 234](https://www.legislation.gov.uk/nisr/2003/234), [282](https://www.legislation.gov.uk/nisr/2003/282) and [387](https://www.legislation.gov.uk/nisr/2003/387)
 

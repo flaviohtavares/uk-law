@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Discharge of debtor to whom section 2(2) applies[^key-c915e687c7a3ee2de8aefd6a80276005]
+## 140. Discharge of debtor to whom section 2(2) applies[^c-c915e687c7a3ee2de8aefd6a80276005]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c915e687c7a3ee2de8aefd6a80276005]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2016/21/section/140) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c915e687c7a3ee2de8aefd6a80276005]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2016/21/section/140) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

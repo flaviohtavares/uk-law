@@ -56,9 +56,9 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation, commencement, extent and application[^key-0e050191874949f4c565fe0d48b1fcf8]
+### 1. Citation, commencement, extent and application[^c-0e050191874949f4c565fe0d48b1fcf8]
 
-(1) This Order may be cited as the Invasive Alien Species (Enforcement and Permitting) Order 2019 and comes into force on 1st December 2019[^key-512cb7694c65c4b4dc689b07cd09e549].
+(1) This Order may be cited as the Invasive Alien Species (Enforcement and Permitting) Order 2019 and comes into force on 1st December 2019[^c-512cb7694c65c4b4dc689b07cd09e549].
 
 (2) This Order does not extend to Scotland and Northern Ireland except in so far as—
 
@@ -74,7 +74,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
 - (b) to the offshore marine area; and
 - (c) as regards any provision which applies in relation to controls on imports into and exports from the United Kingdom, and any provision which relates to any such provision, to Scotland and Northern Ireland.
 
-### 2. Interpretation[^key-72b2fe974737e3cb368411cc8ab51f4f][^M_E_6cd7c5fa-fa29-4f46-cbe7-262f3a4a3aa1]
+### 2. Interpretation[^c-72b2fe974737e3cb368411cc8ab51f4f][^M_E_6cd7c5fa-fa29-4f46-cbe7-262f3a4a3aa1]
 
 *Extent: E+W+S*
 
@@ -93,7 +93,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
     - (iii) the Welsh Ministers; or
     - (iv) the Natural Resources Body for Wales;
 - “**ex situ conservation**” means the conservation of components of biological diversity outside their natural habitat;
-- “**invasive alien species**” means any species of animal, plant, fungus or micro-organism included from time to time on the list of species of special concern[^key-de7743902293187ddf4ba6220b98cbb4];
+- “**invasive alien species**” means any species of animal, plant, fungus or micro-organism included from time to time on the list of species of special concern[^c-de7743902293187ddf4ba6220b98cbb4];
 - “**licence**” means a licence granted in accordance with article 36 (licences for activities relating to invasive alien species);
 - “**the licensing authority**” means—
   - (a) Natural England in relation to—
@@ -101,7 +101,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
     - (ii) the offshore marine area; and
     - (iii) licences relating to imports into or exports from the United Kingdom;
   - (b) the Natural Resources Body for Wales in relation to Wales, except in relation to licensing within sub-paragraph (a)(iii);
-- “[^key-7795adbc5d6bdaf910c90e0f78d578bb]**the list of species of special concern**” means the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No 1143/2014 of the European Parliament and of the Council, as amended from time to time;
+- “[^c-7795adbc5d6bdaf910c90e0f78d578bb]**the list of species of special concern**” means the list of species in the Annex to Commission Implementing Regulation (EU) 2016/1141 adopting a list of invasive alien species of Union concern pursuant to Regulation (EU) No 1143/2014 of the European Parliament and of the Council, as amended from time to time;
 - “**Northern Ireland**” includes the area of territorial sea adjacent to Northern Ireland, which is to be construed in accordance with article 2 of the Adjacent Waters Boundaries (Northern Ireland) Order 2002 (the territorial sea adjacent to Northern Ireland) [^c23629131];
 - “**the offshore marine area**” means—
   - (a) any part of the seabed and subsoil situated in any area designated under section 1(7) of the Continental Shelf Act 1964 (exploration and exploitation of continental shelf) [^c23629141]; and
@@ -124,7 +124,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
   - (a) any hybrid, variety or breed of a species that might survive and subsequently reproduce; and
   - (b) any subspecies or lower taxon of a species.
 - “**specimen**” means a specimen of any live invasive alien species, and includes any part, gamete, seed, egg, or propagule of such a species that might grow, hatch or reproduce, as the case may be;
-- [^key-1f5ee596b200d714d35eb4f9f3297c28]...
+- [^c-1f5ee596b200d714d35eb4f9f3297c28]...
 - “**Wales**” includes the area of territorial sea adjacent to Wales, which is to be construed in accordance with article 6 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 1999 (the sea adjacent to Wales) [^c23629181].
 
 (2) This Order applies to the Isles of Scilly as if the Isles were a county and the Council of the Isles were a county council.
@@ -174,7 +174,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
 - “**registered veterinary surgeon**” means a person who is registered in the register of veterinary surgeons under section 2 of the Veterinary Surgeons Act 1966 (register of veterinary surgeons) [^V_NI_f7ebdf46-1b06-ae06-c0a7-694741064d29];
 - “**relevant organism**” means a live animal, plant, fungus or micro-organism, and includes any part, gamete, seed, egg, or propagule that might grow, hatch or reproduce, as the case may be;
 - “**research**” means descriptive or experimental work, undertaken under regulated conditions, to obtain new scientific findings or to develop new products, including the initial phases of identification, characterisation and isolation of genetic features (other than those features which make a species invasive) of invasive alien species in so far as essential to enable the breeding of those features into non-invasive species;
-- “the[^M_F_d75ebe55-3da0-405d-8227-f5a7e60d953e] assimilated[^key-ea45edaec07367e2d376e35e1dbdfb68] Regulation” means [EU Regulation (EU) No 1143/2014](https://www.legislation.gov.uk/european/regulation/2014/1143) of the European Parliament and of the Council on the prevention and management of the introduction and spread of invasive alien species as it has effect by virtue of section 3 of the European Union (Withdrawal) Act 2018;
+- “the[^M_F_d75ebe55-3da0-405d-8227-f5a7e60d953e] assimilated[^c-ea45edaec07367e2d376e35e1dbdfb68] Regulation” means [EU Regulation (EU) No 1143/2014](https://www.legislation.gov.uk/european/regulation/2014/1143) of the European Parliament and of the Council on the prevention and management of the introduction and spread of invasive alien species as it has effect by virtue of section 3 of the European Union (Withdrawal) Act 2018;
 - “**Scotland**” includes the area of territorial sea adjacent to Scotland, which is to be construed in accordance with article 3 of, and Schedule 1 to, the Scottish Adjacent Waters Boundaries Order 1999 (boundaries – internal waters and territorial sea) [^V_NI_98749858-abbc-81fd-c1d5-a55862566b3d];
 - “**seize**” includes “detain” and cognate words are to be construed accordingly;
 - “**species**” includes—
@@ -190,7 +190,7 @@ This Order makes provision for a purpose mentioned in section 2(2) of the 1972 A
 
 ## PART 2 — Offences
 
-### 3. Import, keeping, breeding, purchase, release etc. of invasive alien species[^M_E_d6e27098-5603-48ab-e90f-d40dfe1dfe34][^key-c7dfd0d1be6da7703c094b6e436aba48]
+### 3. Import, keeping, breeding, purchase, release etc. of invasive alien species[^M_E_d6e27098-5603-48ab-e90f-d40dfe1dfe34][^c-c7dfd0d1be6da7703c094b6e436aba48]
 
 *Extent: E+W+S*
 
@@ -219,7 +219,7 @@ is guilty of an offence.
 
 (6) The power to make an order under section 14ZA(3)(b) of the Wildlife and Countryside Act 1981 (sale of invasive non-native species) [^c23629201] applies for the purposes of enabling the Secretary of State, or (in relation to Wales) the Welsh Ministers, to add to or remove from Part 3 of Schedule 2 any species of animal or plant as it applies for the purposes of enabling animals or plants to be prescribed for the purposes of section 14ZA of that Act.
 
-(7)[^key-bd7b05f5b1fde8cd5b9762e17534ccf5] Where regulations made under Article 10 of the Principal Regulation (emergency measures) provide that any provision specified in Table 1 of Schedule 1 is to apply in relation to a species specified in those regulations as it applies in relation to an invasive alien species, this Part and Parts 3 to 8 apply in relation to any contravention, or attempted contravention, of any such provision in relation to that species, as they apply in relation to a contravention, or attempted contravention, of that provision in relation to an invasive alien species.
+(7)[^c-bd7b05f5b1fde8cd5b9762e17534ccf5] Where regulations made under Article 10 of the Principal Regulation (emergency measures) provide that any provision specified in Table 1 of Schedule 1 is to apply in relation to a species specified in those regulations as it applies in relation to an invasive alien species, this Part and Parts 3 to 8 apply in relation to any contravention, or attempted contravention, of any such provision in relation to that species, as they apply in relation to a contravention, or attempted contravention, of that provision in relation to an invasive alien species.
 
 ### 3. Import, keeping, breeding, purchase, release etc. of invasive alien species[^M_E_24024b85-9531-41ef-d1d8-f05118e5fdab][^V_NI_9756daf2-6764-6386-89e0-69adb50400f1]
 
@@ -227,7 +227,7 @@ is guilty of an offence.
 
 (1) A person who contravenes a provision of the Principal Regulation specified in Table 1 of Schedule 1 is guilty of an offence.
 
-(1A)[^key-585d033a59f064e302483291b1e8cb1b] The offences in this Part apply as if the references to “the Union” in Article 7(1)(a) (bringing into the territory of the Union) and (d) (transportation) of the Principal Regulation included Northern Ireland, and the references to those offences in Table 1 of Schedule 1 are to be construed accordingly.
+(1A)[^c-585d033a59f064e302483291b1e8cb1b] The offences in this Part apply as if the references to “the Union” in Article 7(1)(a) (bringing into the territory of the Union) and (d) (transportation) of the Principal Regulation included Northern Ireland, and the references to those offences in Table 1 of Schedule 1 are to be construed accordingly.
 
 (2) A person who releases or allows to escape into the wild any specimen which is of a species of animal which—
 
@@ -252,9 +252,9 @@ is guilty of an offence.
 
 (6) The power to make an order under section 14ZA(3)(b) of the Wildlife and Countryside Act 1981 (sale of invasive non-native species) [^V_NI_67a256e2-f5db-9cc1-99ee-cc6692a491de] applies for the purposes of enabling the Secretary of State, or (in relation to Wales) the Welsh Ministers, to add to or remove from Part 3 of Schedule 2 any species of animal or plant as it applies for the purposes of enabling animals or plants to be prescribed for the purposes of section 14ZA of that Act.
 
-(7)[^key-7493cf892320e15d82831c79ba276ac0] Where regulations made under article 3A (emergency measures) provide that any provision specified in Table 1 of Schedule 1 is to apply in relation to a species specified in those regulations as it applies in relation to an invasive alien species, this Part and Parts 3 to 8 apply in relation to any contravention, or attempted contravention, of any such provision in relation to that species, as they apply in relation to a contravention, or attempted contravention, of that provision in relation to an invasive alien species.
+(7)[^c-7493cf892320e15d82831c79ba276ac0] Where regulations made under article 3A (emergency measures) provide that any provision specified in Table 1 of Schedule 1 is to apply in relation to a species specified in those regulations as it applies in relation to an invasive alien species, this Part and Parts 3 to 8 apply in relation to any contravention, or attempted contravention, of any such provision in relation to that species, as they apply in relation to a contravention, or attempted contravention, of that provision in relation to an invasive alien species.
 
-### 3A. Emergency measures[^key-24bbbd6ee692442a5a3f97a3fffb2185]
+### 3A. Emergency measures[^c-24bbbd6ee692442a5a3f97a3fffb2185]
 
 *Extent: N.I.*
 
@@ -273,7 +273,7 @@ is guilty of an offence.
 
 (6) The Secretary of State may not make regulations under paragraph (1) without the consent of the Department of Agriculture, Environment and Rural Affairs in Northern Ireland.
 
-### 4. False statements[^key-89ce95e31bfa453fedf6bb5d55bbd823]
+### 4. False statements[^c-89ce95e31bfa453fedf6bb5d55bbd823]
 
 (1) A person who, for the purpose of obtaining the issue of a permit or the grant of a licence (whether for that person or another), knowingly or recklessly—
 
@@ -284,15 +284,15 @@ is guilty of an offence.
 
 (2) A person who, for the purpose of the notice referred to in article 19(2), makes a statement or representation which is false in a material particular is guilty of an offence.
 
-### 5. Misuse of permits or licences[^key-401177bda9cf6397c1a85f983da10f5e]
+### 5. Misuse of permits or licences[^c-401177bda9cf6397c1a85f983da10f5e]
 
 A person who knowingly falsifies or alters a permit or a licence is guilty of an offence.
 
-### 6. Compliance with permits and licences[^key-ed26e09a44638f72210eb10a93938160]
+### 6. Compliance with permits and licences[^c-ed26e09a44638f72210eb10a93938160]
 
 A person who knowingly contravenes a condition of a permit or of a licence is guilty of an offence.
 
-### 7. Obstruction and deception[^key-911c5fe26d5971443e6c5397f46e9700]
+### 7. Obstruction and deception[^c-911c5fe26d5971443e6c5397f46e9700]
 
 (1) A person who intentionally obstructs an enforcement officer or a designated customs official acting in accordance with the powers conferred in Part 5 is guilty of an offence.
 
@@ -302,13 +302,13 @@ A person who knowingly contravenes a condition of a permit or of a licence is gu
 
 (4) A person who furnishes to an enforcement officer or a designated customs official any information knowing it to be false or misleading is guilty of an offence.
 
-### 8. Attempts to commit offences etc.[^key-bff221fdeaec356062660c7f8b4fc0e9]
+### 8. Attempts to commit offences etc.[^c-bff221fdeaec356062660c7f8b4fc0e9]
 
 (1) A person who attempts to commit an offence under articles 3 to 6 is guilty of an offence.
 
 (2) A person who, for the purposes of committing an offence under articles 3 to 6 is in possession of anything capable of being used for committing the offence is guilty of an offence.
 
-### 9. Offences by bodies corporate[^key-861d221b611310f4e345790933e5eae3]
+### 9. Offences by bodies corporate[^c-861d221b611310f4e345790933e5eae3]
 
 (1) If an offence under this Part committed by a body corporate is proved—
 
@@ -324,7 +324,7 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 (3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member's functions of management as it applies to an officer of a body corporate.
 
-### 10. Offences by Scottish partnerships[^key-d1f13a417b9af7671c03ea01f8046965]
+### 10. Offences by Scottish partnerships[^c-d1f13a417b9af7671c03ea01f8046965]
 
 (1) If an offence under this Part committed by a Scottish partnership is proved—
 
@@ -335,7 +335,7 @@ the partner, as well as the partnership, is guilty of the offence and liable to 
 
 (2) In paragraph (1), “**partner**” includes a person purporting to act as a partner.
 
-### 11. Offences by partnerships and unincorporated associations[^key-97847bb5c73d48ae0af9c2e572b6e6bb]
+### 11. Offences by partnerships and unincorporated associations[^c-97847bb5c73d48ae0af9c2e572b6e6bb]
 
 (1) Proceedings for an offence under this Part alleged to have been committed by a partnership (other than a Scottish partnership) or an unincorporated association must be brought against the partnership or association in the name of the partnership or association.
 
@@ -370,7 +370,7 @@ the officer, as well as the association, is guilty of the offence and liable to 
 - (a) an officer of the association or a member of its governing body; or
 - (b) a person purporting to act in such a capacity.
 
-### 12. Application of offences in the offshore marine area[^key-c1c816ee7433eaf248f08cb705fc515b][^M_E_e6945c2d-cdf7-4cf7-eb97-81d2bdc329c9]
+### 12. Application of offences in the offshore marine area[^c-c1c816ee7433eaf248f08cb705fc515b][^M_E_e6945c2d-cdf7-4cf7-eb97-81d2bdc329c9]
 
 *Extent: E+W+S*
 
@@ -380,7 +380,7 @@ the officer, as well as the association, is guilty of the offence and liable to 
 - (b) on a ship in any part of the waters comprised in the offshore marine area;
 - (c) on or under an offshore marine installation.
 
-(1A)[^key-d9bc3168dbf3db69e0417e1cdd8eb895] For the purposes of their application by virtue of paragraph (1), the offences in this Part apply as if the references to “Great Britain” in Article 7(1)(a) and (d) of the Principal Regulation included the offshore marine area, and the references to those offences in Table 1 of Schedule 1 are to be construed accordingly.
+(1A)[^c-d9bc3168dbf3db69e0417e1cdd8eb895] For the purposes of their application by virtue of paragraph (1), the offences in this Part apply as if the references to “Great Britain” in Article 7(1)(a) and (d) of the Principal Regulation included the offshore marine area, and the references to those offences in Table 1 of Schedule 1 are to be construed accordingly.
 
 (2) The offences in this Part do not apply to any person on a third country ship.
 
@@ -391,16 +391,16 @@ the officer, as well as the association, is guilty of the offence and liable to 
   - (b) in any part of the waters in any area designated under section 84(4) of the Energy Act 2004 (exploitation of areas outside the territorial sea for energy production) [^c23629271];
 - “**ship**” means any vessel (including hovercraft, submersible craft and other floating craft) other than one which permanently rests on, or is permanently attached to, the seabed;
 - “**third country ship**” means a ship which—
-  - (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^key-03ae95e63c6fcfde6fd71fef312d9964]; and
-  - (b) is not registered in the United Kingdom[^key-e00b0c7690df31c000f05e65ff87f773].
+  - (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^c-03ae95e63c6fcfde6fd71fef312d9964]; and
+  - (b) is not registered in the United Kingdom[^c-e00b0c7690df31c000f05e65ff87f773].
 
-### 12. Application of offences in the offshore marine area[^key-765add74c323e3d226d9add3f5fb13a6][^M_E_43ee053b-cddd-4d3b-905e-240f1ab209c7]
+### 12. Application of offences in the offshore marine area[^c-765add74c323e3d226d9add3f5fb13a6][^M_E_43ee053b-cddd-4d3b-905e-240f1ab209c7]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Proceedings for offences: venue and time limits[^key-a3da405ae81d0216c9bda279d6857d76]
+### 13. Proceedings for offences: venue and time limits[^c-a3da405ae81d0216c9bda279d6857d76]
 
 (1) For the purposes of conferring jurisdiction in any proceedings for the prosecution of an offence under this Part, any such offence is deemed to have been committed in any place where the offender is found or to which the offender is first brought after the commission of the offence.
 
@@ -413,7 +413,7 @@ the officer, as well as the association, is guilty of the offence and liable to 
 - (a) a certificate signed by or on behalf of the prosecutor and stating the date on which the prosecutor first knew of evidence to justify the proceedings is conclusive evidence of that fact; and
 - (b) a certificate stating that matter and purporting to be so signed is deemed to be so signed unless the contrary is proved.
 
-## PART 2A — Controls on invasive alien species in the offshore marine area[^key-97c464ba2832432887240db5fa7b7415]
+## PART 2A — Controls on invasive alien species in the offshore marine area[^c-97c464ba2832432887240db5fa7b7415]
 
 *Extent: N.I.*
 
@@ -425,18 +425,18 @@ the officer, as well as the association, is guilty of the offence and liable to 
 
 (2) For the purposes of this article, the Order shall apply—
 
-- (a) as if references to the “Principal Regulation” were to the assimilated[^key-9bd569fe457b6bef4779eff241d985a3] Regulation, and references to provisions of the Principal Regulation were construed accordingly;
+- (a) as if references to the “Principal Regulation” were to the assimilated[^c-9bd569fe457b6bef4779eff241d985a3] Regulation, and references to provisions of the Principal Regulation were construed accordingly;
 - (b) as if—
   - (i) references to “invasive alien species” were to any species of animal, plant, fungus or micro-organism included from time to time on the list of species of special concern;
   - (ii) references to “the Union list” were to the list of species of special concern;
-  - (iii) in Article 7(1)(a) (bringing into the territory of Great Britain) and (d) (transportation) of the assimilated[^key-31a0f52cab8016d004199afe9746ba56] Regulation, references to “Great Britain” included the offshore marine area, and the references to those offences in Table 1 of Schedule 1 were construed accordingly;
-  - (iv) the reference in article 3(8)(a) to article 3A (emergency measures) were a reference to Article 10 of the assimilated[^key-cd549295cb5e12e51d17678fd4fbc328] Regulation (emergency measures).
+  - (iii) in Article 7(1)(a) (bringing into the territory of Great Britain) and (d) (transportation) of the assimilated[^c-31a0f52cab8016d004199afe9746ba56] Regulation, references to “Great Britain” included the offshore marine area, and the references to those offences in Table 1 of Schedule 1 were construed accordingly;
+  - (iv) the reference in article 3(8)(a) to article 3A (emergency measures) were a reference to Article 10 of the assimilated[^c-cd549295cb5e12e51d17678fd4fbc328] Regulation (emergency measures).
 
 (3) The offences applied by virtue of this Part do not apply to any person on a third country ship.
 
 (4) In this article—
 
-- “list of species of special concern” has the same meaning as in the assimilated[^key-553138702aa008aae66c71cc9e5b0c2e] Regulation;
+- “list of species of special concern” has the same meaning as in the assimilated[^c-553138702aa008aae66c71cc9e5b0c2e] Regulation;
 - “offshore marine installation” means any artificial island, installation or structure (other than a ship) which is situated—
   - (a) in any part of the waters designated under section 1(7) of the Continental Shelf Act 1962 (exploration and exploitation of the continental shelf); or
   - (b) in any part of the waters in any area designated under section 84(4) of the Energy Act 2004 (exploitation of areas outside the territorial sea for energy production);
@@ -447,27 +447,27 @@ the officer, as well as the association, is guilty of the offence and liable to 
 
 ## PART 3 — Defences
 
-### 14. Defences: permits and licences[^key-69205315ece59e49aed41d696210cd8f]
+### 14. Defences: permits and licences[^c-69205315ece59e49aed41d696210cd8f]
 
 Article 3 (import, keeping, breeding, purchase, release etc. of invasive alien species) does not apply to anything done under, and in accordance with—
 
 - (a) a permit; or
 - (b) a licence.
 
-### 15. Defences: enforcement activity[^key-7fea790e32dbbcb3f251d62db29a264d]
+### 15. Defences: enforcement activity[^c-7fea790e32dbbcb3f251d62db29a264d]
 
 It is a defence to a charge of committing an offence under article 3(1) in relation to a breach of the restrictions in Article 7(1)(b) (keeping), (d) (transportation) or (f) (use and exchange) of the Principal Regulation if the person accused is—
 
 - (a) an enforcement officer or designated customs official, or a person acting at the request, or on behalf, of an enforcement officer or designated customs official; and
 - (b) acting for a purpose connected with the enforcement of this Order.
 
-### 16. Transitional provision for non-commercial owners: companion animals[^M_E_ababe288-b28c-44b2-a3cf-3616169847d8][^key-c903a30fd38ed02f8967dcd523a7e9b4]
+### 16. Transitional provision for non-commercial owners: companion animals[^M_E_ababe288-b28c-44b2-a3cf-3616169847d8][^c-c903a30fd38ed02f8967dcd523a7e9b4]
 
 *Extent: E+W+S*
 
-(1) It is a defence to a charge of committing an offence under article 3(1) in relation to a breach of the restrictions in Article 7(1)(b) (keeping), 7(1)(d) (transportation) or, in relation to introduction into Great Britain from Northern Ireland, 7(1)(a) (introduction into Great Britain)[^key-a12018638d7256bb8528eb47c1880211] of the Principal Regulation to show that the specimen to which the alleged offence relates—
+(1) It is a defence to a charge of committing an offence under article 3(1) in relation to a breach of the restrictions in Article 7(1)(b) (keeping), 7(1)(d) (transportation) or, in relation to introduction into Great Britain from Northern Ireland, 7(1)(a) (introduction into Great Britain)[^c-a12018638d7256bb8528eb47c1880211] of the Principal Regulation to show that the specimen to which the alleged offence relates—
 
-- (a) immediately before its inclusion on the list of species of special concern[^key-6603d5754f57cbade5790b4552800a80], was kept as a companion animal; and
+- (a) immediately before its inclusion on the list of species of special concern[^c-6603d5754f57cbade5790b4552800a80], was kept as a companion animal; and
 - (b) the condition in paragraph (2) or the condition in paragraph (3) applies.
 
 (2) The condition in this paragraph is that, at all material times—
@@ -486,13 +486,13 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
 (4) In this article—
 
 - “**relevant licence**” means a licence under—
-  - (a) article 36(2)(d) (licences for the keeping of animals by a facility); or[^key-be2efc5df00fa8fc7ebfc0cf7fc86a42]
-  - (b) any provision in legislation which applies in relation to Scotland and which enables licences to be granted for the keeping of an animal by a facility until the end of its natural life in accordance with Article 31(4) of the Principal Regulation .[^key-891c4eed9feaf4dc39d38d8531dbf195]
-  - (c) [^key-103228475ff3bbfee6b469e54460f9ac]...
+  - (a) article 36(2)(d) (licences for the keeping of animals by a facility); or[^c-be2efc5df00fa8fc7ebfc0cf7fc86a42]
+  - (b) any provision in legislation which applies in relation to Scotland and which enables licences to be granted for the keeping of an animal by a facility until the end of its natural life in accordance with Article 31(4) of the Principal Regulation .[^c-891c4eed9feaf4dc39d38d8531dbf195]
+  - (c) [^c-103228475ff3bbfee6b469e54460f9ac]...
 - “**relevant permit**” means a permit under—
   - (a) article 35 (permits for activities relating to invasive alien species) of this Order; or
   - (b) any provision in legislation which applies in relation to Scotland and which enables permits to be issued in accordance with Article 8 or 9 of the Principal Regulation .
-  - (c) [^key-103228475ff3bbfee6b469e54460f9ac]...
+  - (c) [^c-103228475ff3bbfee6b469e54460f9ac]...
 
 ### 16. Transitional provision for non-commercial owners: companion animals[^M_E_565859fe-f1e1-4d61-9248-6804ee134fba][^V_NI_5ea84622-0534-3188-a27e-f0c0d48220e3]
 
@@ -520,21 +520,21 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
 
 - “**relevant licence**” means a licence under—
   - (a) article 36(2)(d) (licences for the keeping of animals by a facility);
-  - (b) any provision corresponding to paragraphs (1) and (2)(d), read together, of article 36 which applies in relation to Scotland; or[^key-048230fd4083fc8a6649e227728877c0]
+  - (b) any provision corresponding to paragraphs (1) and (2)(d), read together, of article 36 which applies in relation to Scotland; or[^c-048230fd4083fc8a6649e227728877c0]
   - (c) any provision corresponding to paragraphs (1) and (2)(d), read together, of article 36 which applies in relation to Northern Ireland;
 - “**relevant permit**” means a permit under—
   - (a) article 35 (permits for activities relating to invasive alien species) of this Order;
-  - (b) any provision corresponding to article 35 which applies in relation to Scotland; or[^key-946c37278d547434f27127373a74bebe]
+  - (b) any provision corresponding to article 35 which applies in relation to Scotland; or[^c-946c37278d547434f27127373a74bebe]
   - (c) any provision corresponding to article 35 which applies in relation to Northern Ireland;
 
-### 17. Transitional provision for non-commercial owners: commercial stocks[^key-60d75e5ca875fa12a8535463b76c3091]
+### 17. Transitional provision for non-commercial owners: commercial stocks[^c-60d75e5ca875fa12a8535463b76c3091]
 
 It is a defence to a charge of committing an offence under article 3(1) in relation to a breach of the restrictions in Article 7(1)(b) (keeping) or (d) (transportation) of the Principal Regulation to show that the specimen to which the alleged offence relates—
 
 - (a) was received from a keeper of commercial stocks in accordance with article 18(3)(d) (transitional provisions for commercial stocks); and
 - (b) at all material times was kept in contained holding and appropriate measures were in place to ensure that the specimen could not reproduce or escape.
 
-### 18. Transitional provisions for commercial stocks[^M_E_b1db533e-f872-4c31-d371-864147ef90bf][^key-5d165926ec60d5e7fae72317efb706f1]
+### 18. Transitional provisions for commercial stocks[^M_E_b1db533e-f872-4c31-d371-864147ef90bf][^c-5d165926ec60d5e7fae72317efb706f1]
 
 *Extent: E+W+S*
 
@@ -545,7 +545,7 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
   - (i) was carried out for one of the purposes listed in paragraph (3); and
   - (ii) was not carried out after the end of the relevant period following the inclusion of the species to which the specimen in question belongs on the list of species of special concern.
 
-(2)[^key-56385b35550b41aa09564833f86d8751] This article applies to—
+(2)[^c-56385b35550b41aa09564833f86d8751] This article applies to—
 
 - (a) an offence under article 3(1) in relation to a breach of the restrictions in—
   - (i) Article 7(1)(b) (keeping), (d) (transportation), (e) (placing on the market) or (f) (use or exchange) of the Principal Regulation;
@@ -569,7 +569,7 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
 - (a) in relation to an activity carried out for a purpose mention in paragraph (3)(a) to (c), two years;
 - (b) in relation to an activity carried out for a purpose mentioned in paragraph (3)(d), one year.
 
-(6)[^key-a08d19cb550ea11a8d9b47e75d97a450] In this article—
+(6)[^c-a08d19cb550ea11a8d9b47e75d97a450] In this article—
 
 - “qualifying Northern Ireland goods” has the meaning given to it from time to time in regulations made under section 8C(6) of the European Union (Withdrawal) Act 2018;
 - “relevant permit” means—
@@ -619,14 +619,14 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
 
 - (a) for the purposes of paragraph (3)(a), a permit under—
   - (i) article 35(1)(a) (permits for research or ex situ conservation);
-  - (ii)[^key-dd688a949105bdf6b99a8da1b5423147] any provision corresponding to article 35(1)(a) which applies in relation to Scotland; or
+  - (ii)[^c-dd688a949105bdf6b99a8da1b5423147] any provision corresponding to article 35(1)(a) which applies in relation to Scotland; or
   - (iii) any provision corresponding to article 35(1)(a) which applies in relation to Northern Ireland;
 - (b) for the purposes of paragraph (3)(b), a permit under—
   - (i) article 35(1)(b) (permits for medicinal activities);
-  - (ii)[^key-aa116e231f5351facd397f78a9471e25] any provision corresponding to article 35(1)(b) which applies in relation to Scotland; or
+  - (ii)[^c-aa116e231f5351facd397f78a9471e25] any provision corresponding to article 35(1)(b) which applies in relation to Scotland; or
   - (iii) any provision corresponding to article 35(1)(b) which applies in relation to Northern Ireland.
 
-### 19. Defences: due diligence[^key-9ed2dd2efd8335223e9cf9198a3c9d2b]
+### 19. Defences: due diligence[^c-9ed2dd2efd8335223e9cf9198a3c9d2b]
 
 (1) It is defence to a charge of committing an offence under article 3(2) to (4) if the person charged (“P”) shows that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -636,9 +636,9 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
 
 ## PART 4 — Penalties
 
-### 20. Penalties etc.[^key-5258f3a94217dd698fa91f0f3e34eb37]
+### 20. Penalties etc.[^c-5258f3a94217dd698fa91f0f3e34eb37]
 
-(1)[^key-9d0b9d8b793c2d90eb92f4ce40a57289] A person guilty of an offence under this Order is liable—
+(1)[^c-9d0b9d8b793c2d90eb92f4ce40a57289] A person guilty of an offence under this Order is liable—
 
 - (a) on summary conviction—
   - (i) in England and Wales, to imprisonment for a term not exceeding six months or to a fine, or to both;
@@ -659,13 +659,13 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
 
 ## PART 5 — Enforcement
 
-### 21. General[^key-5724c67eac0fe8c17f181e8b4eb6a279][^M_E_b4cb7957-0e2f-450b-c9b0-db618512e3c3]
+### 21. General[^c-5724c67eac0fe8c17f181e8b4eb6a279][^M_E_b4cb7957-0e2f-450b-c9b0-db618512e3c3]
 
 *Extent: E+W+S*
 
 (1) This Order is enforced by enforcement officers and designated customs officials.
 
-(2) The competent authorities for the purpose of the official controls referred to in Article 15 of the Principal Regulation (which requires the designation of competent authorities responsible for official controls to prevent the introduction into Great Britain[^key-ccc673406493290fccab19e2687352dc] of invasive alien species) are—
+(2) The competent authorities for the purpose of the official controls referred to in Article 15 of the Principal Regulation (which requires the designation of competent authorities responsible for official controls to prevent the introduction into Great Britain[^c-ccc673406493290fccab19e2687352dc] of invasive alien species) are—
 
 - (a) in England and the offshore marine area—
   - (i) the Secretary of State;
@@ -681,10 +681,10 @@ It is a defence to a charge of committing an offence under article 3(1) in relat
   - (i) the Secretary of State;
   - (ii) the Scottish Ministers;
   - (iii) Food Standards Scotland; and
-  - (iv) councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c23629281] .[^key-b373077caed3f2c0790e390ac4daaa77]
+  - (iv) councils constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c23629281] .[^c-b373077caed3f2c0790e390ac4daaa77]
 - (d)[^M_F_e6238992-c837-4e7c-b43e-95a97303d2be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1819b00def1e742c6eae07e499368055] In this Part, references to—
+(3)[^c-1819b00def1e742c6eae07e499368055] In this Part, references to—
 
 - (a) import into the United Kingdom are references to import into the United Kingdom by introduction into Great Britain,
 - (b) export from the United Kingdom are references to export from the United Kingdom by transportation from Great Britain,
@@ -704,15 +704,15 @@ and cognate expressions shall be construed accordingly.
   - (ii) the Food Standards Agency;
   - (iii) county councils, district councils, Port Health Authorities, London borough councils; and
   - (iv) in the city of London, the Common Council of the City of London;
-- (b)[^key-8764cbd6288b0538ab31e1eeedd28563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-8764cbd6288b0538ab31e1eeedd28563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8764cbd6288b0538ab31e1eeedd28563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8764cbd6288b0538ab31e1eeedd28563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in Northern Ireland—
   - (i) the Secretary of State;
   - (ii) the Department of Agriculture, Environment and Rural Affairs;
   - (iii) the Food Standards Agency; and
   - (iv) district councils.
 
-### 22. Power to stop and search persons[^key-cd076644d830dd3aa904168803a6e0a8]
+### 22. Power to stop and search persons[^c-cd076644d830dd3aa904168803a6e0a8]
 
 (1) If a constable or a designated customs official has reasonable grounds to suspect that any person is committing or has committed an offence under this Order, the constable or designated customs official may, without warrant—
 
@@ -728,7 +728,7 @@ and cognate expressions shall be construed accordingly.
 
 (5) In this article, “**intimate search**”, “**rub-down search**” and “**strip search**” have the same meanings as in section 164(5) of the Customs and Excise Management Act 1979 (power to search persons) [^c23629291].
 
-### 23. Power to enter and search vehicles[^key-5255920dbdfd87b3deb0692e0174d398]
+### 23. Power to enter and search vehicles[^c-5255920dbdfd87b3deb0692e0174d398]
 
 (1) If a constable or designated customs official has reasonable grounds to suspect that there is relevant evidence in a vehicle, other than a vehicle used wholly or mainly as a private dwelling, the constable or designated customs official may, at any time—
 
@@ -756,7 +756,7 @@ to afford such facilities and assistance with respect to matters under that pers
 - “**vehicle**” includes any vessel, including any aircraft;
 - “**relevant evidence**” means evidence that an offence under this Order has been committed.
 
-### 24. Powers of entry[^key-a99df0095897555d11f888ad75d9909d]
+### 24. Powers of entry[^c-a99df0095897555d11f888ad75d9909d]
 
 (1) Where an enforcement officer has reasonable grounds to suspect a specimen is being kept at premises, other than premises used wholly or mainly as a private dwelling, the enforcement officer may, at a reasonable time and on giving reasonable notice, enter, search and inspect those premises, for the purpose of—
 
@@ -822,7 +822,7 @@ as the enforcement officer considers necessary.
 
 (12) An enforcement officer must, if requested to do so, produce evidence of his or her authority before entering premises by virtue of paragraph (1) or (4).
 
-### 25. Examining relevant organisms and taking samples[^key-45cf40cdfd64b82c0b5b6fd956a25186]
+### 25. Examining relevant organisms and taking samples[^c-45cf40cdfd64b82c0b5b6fd956a25186]
 
 (1) An enforcement officer may, for the purpose of ascertaining whether an offence under this Order is being or has been committed—
 
@@ -837,7 +837,7 @@ as the enforcement officer considers necessary.
 
 (3) In this article, “**sample**” means a sample of blood, tissue or other biological material.
 
-### 26. Power of seizure for purposes of investigation etc.[^key-b934e52c42ab8fe478e00d0ab4178335]
+### 26. Power of seizure for purposes of investigation etc.[^c-b934e52c42ab8fe478e00d0ab4178335]
 
 (1) An enforcement officer exercising the powers conferred by this Part may seize anything where the enforcement officer has reasonable grounds for believing that—
 
@@ -870,10 +870,10 @@ any power to seize the item conferred by this article includes power to seize th
 
 - (a) may be transferred—
   - (i) to another enforcement officer; or
-  - (ii) to an establishment or facility which is authorised to keep it by a relevant permit or relevant licence[^key-6e66495f742ea3e2202dd97f9fd84694] (as the case may be); or
+  - (ii) to an establishment or facility which is authorised to keep it by a relevant permit or relevant licence[^c-6e66495f742ea3e2202dd97f9fd84694] (as the case may be); or
 - (b) where the enforcement officer is satisfied it is a specimen, may be humanely dispatched (in the case of animals) or destroyed (in the case of plants, fungi or micro-organisms) as the enforcement officer sees fit.
 
-### 27. Power of seizure to facilitate functions of an enforcement officer[^key-52566637595af8e6ac9950eed0b51303]
+### 27. Power of seizure to facilitate functions of an enforcement officer[^c-52566637595af8e6ac9950eed0b51303]
 
 (1) A designated customs official may, for the purpose of facilitating the exercise by an enforcement officer of any functions conferred on an enforcement officer by or under this Order, seize any relevant organism which is being imported or exported or which has been imported or brought to a place for the purpose of export—
 
@@ -894,11 +894,11 @@ any power to seize the item conferred by this article includes power to seize th
 
 (5) A relevant organism held by an enforcement officer under paragraph (4)(b) must be held in contained holding.
 
-### 28. Power to use reasonable force[^key-e033fdc8630eef707db9e5337af93afe]
+### 28. Power to use reasonable force[^c-e033fdc8630eef707db9e5337af93afe]
 
 Designated customs officials and enforcement officers may use reasonable force, if necessary, in the exercise of the powers conferred by articles 22 to 27.
 
-### 29. Proof of lawful import or export[^key-328b296eaeeb67b13141acc99416be7a]
+### 29. Proof of lawful import or export[^c-328b296eaeeb67b13141acc99416be7a]
 
 (1) Where a relevant organism is being imported or exported, or has been imported or brought to a place for the purpose of being exported, a designated customs official who suspects that the relevant organism is a specimen may require a person possessing or having control, or appearing to possess or have control, of that relevant organism to furnish relevant proof.
 
@@ -913,7 +913,7 @@ Designated customs officials and enforcement officers may use reasonable force, 
 - (a) that the relevant organism is not a specimen; or
 - (b) that such importation or exportation (as the case may be) is or was authorised by a permit or a licence, or (if it would otherwise be unlawful) is lawful by virtue of a defence under articles 15 to 18.
 
-### 30. Action following seizure[^key-bc6b297ec24a9b4d4de5300ceb6df06c]
+### 30. Action following seizure[^c-bc6b297ec24a9b4d4de5300ceb6df06c]
 
 (1) This article applies where a relevant organism has—
 
@@ -925,25 +925,25 @@ and the designated customs official or enforcement officer (as the case may be) 
 
 (2) In a case where the relevant organism has been imported or was being imported and relevant proof is not provided to the satisfaction of the designated customs official or enforcement officer, as the case may be, within 5 working days of seizure, the relevant organism must be re-dispatched to a destination outside of the United Kingdom, except in a case within paragraph (3) or (4).
 
-(3) Where the relevant organism is required for enforcement purposes, an enforcement officer may arrange for the transfer of the relevant organism to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^key-e9f68c1228154f31a195214586ebd863] (as the case may be).
+(3) Where the relevant organism is required for enforcement purposes, an enforcement officer may arrange for the transfer of the relevant organism to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^c-e9f68c1228154f31a195214586ebd863] (as the case may be).
 
 (4) Where re-dispatch of the relevant organism under paragraph (2) would contravene the Principal Regulation, or is not reasonably practicable, an enforcement officer may arrange—
 
 - (i) where the enforcement officer is satisfied it is a specimen, for its humane dispatch (in the case of animals) or destruction (in the case of plants, fungi or micro-organisms); or
-- (ii) for the transfer of the relevant organism to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^key-69bc27c6ce4bfe8ac821b6440eea98ad] (as the case may be).
+- (ii) for the transfer of the relevant organism to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^c-69bc27c6ce4bfe8ac821b6440eea98ad] (as the case may be).
 
 (5) In a case where a relevant organism was being exported, or has been brought to a place for the purpose of export, and relevant proof is not provided to the satisfaction of the designated customs official or enforcement officer, as the case may be, within 5 working days of seizure—
 
 - (a) where an enforcement officer considers it appropriate, the relevant organism may be released to the exporter, provided such release would not result in the commission of an offence under article 3, or
 - (b) an enforcement officer may arrange—
   - (i) where the enforcement officer is satisfied it is a specimen, for its humane dispatch (in the case of animals) or destruction (in the case of plants, fungi or micro-organisms); or
-  - (ii) the transfer of the relevant organism to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^key-25da996007f35db27ff9a710ce186651] (as the case may be).
+  - (ii) the transfer of the relevant organism to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^c-25da996007f35db27ff9a710ce186651] (as the case may be).
 
 (6) Where relevant proof is provided within five working days of seizure, the relevant organism must be released to the importer or exporter (as the case may be).
 
 (7) In paragraphs (6) “importer” and “exporter” include any authorised representative of the importer or exporter, as the case may be.
 
-### 31. Information sharing[^key-0d4f65898091c7c6573182b7f9320aba]
+### 31. Information sharing[^c-0d4f65898091c7c6573182b7f9320aba]
 
 (1) The Commissioners of Her Majesty's Revenue and Customs, a designated customs official, a competent authority and an enforcement officer may exchange information for the purposes of this Order, and may divulge information to the enforcement authorities in Scotland and Northern Ireland for the purposes of this Order or the equivalent legislation in those jurisdictions.
 
@@ -959,7 +959,7 @@ and the designated customs official or enforcement officer (as the case may be) 
 
 (4) This article does not limit the circumstances in which information may be exchanged apart from this article.
 
-### 32. Recovery of costs[^key-baa187aa9ffb4b285747316883b48a2a]
+### 32. Recovery of costs[^c-baa187aa9ffb4b285747316883b48a2a]
 
 (1) The importer or exporter (as the case may be) is responsible for—
 
@@ -983,7 +983,7 @@ the unpaid amount is recoverable summarily as a civil debt.
 - “importer” and “exporter” include any authorised representative of the importer or exporter, as the case may be;
 - “**relevant specimen**” means the specimen in relation to which the offence was committed.
 
-### 33. Forfeiture[^key-ee91b4e944bc369bee7643df574067f9]
+### 33. Forfeiture[^c-ee91b4e944bc369bee7643df574067f9]
 
 (1) The court by which any person is convicted of an offence under this Order—
 
@@ -995,9 +995,9 @@ the unpaid amount is recoverable summarily as a civil debt.
 (3) A specimen forfeited under this article must be—
 
 - (i) humanely dispatched (in the case of animals) or destroyed (in the case of plants, fungi or micro-organisms); or
-- (ii) transferred to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^key-67f9fb1a25d331958450c8c839eb6a30] (as the case may be).
+- (ii) transferred to an establishment or facility authorised to keep it by a relevant permit or relevant licence[^c-67f9fb1a25d331958450c8c839eb6a30] (as the case may be).
 
-### 33A. Meaning of relevant permit and relevant licence[^key-a53aa65ed41ebbdcf1d3abac26c319d1]
+### 33A. Meaning of relevant permit and relevant licence[^c-a53aa65ed41ebbdcf1d3abac26c319d1]
 
 In this Part—
 
@@ -1014,13 +1014,13 @@ In this Part—
 
 *Extent: E+W*
 
-### 34. Civil Sanctions[^key-493d978c0fd293bab442d8ba98a4cea7]
+### 34. Civil Sanctions[^c-493d978c0fd293bab442d8ba98a4cea7]
 
 Schedule 3 (which provides for civil sanctions) has effect.
 
 ## PART 7 — Permits
 
-### 35. Permits for activities relating to invasive alien species[^key-e78bfae7814ecd1f27e871becec565b0]
+### 35. Permits for activities relating to invasive alien species[^c-e78bfae7814ecd1f27e871becec565b0]
 
 (1) A permitting authority may issue to an establishment a permit which authorises it to carry out any prohibited action in relation to a specimen where it is carried out in the course of one or more of the following activities—
 
@@ -1079,7 +1079,7 @@ Schedule 3 (which provides for civil sanctions) has effect.
 
 ## PART 8 — Licences
 
-### 36. Licences for activities relating to invasive alien species[^key-a0719b9d6ec9ecdb4c09089132b7d7a3]
+### 36. Licences for activities relating to invasive alien species[^c-a0719b9d6ec9ecdb4c09089132b7d7a3]
 
 (1) Subject to the provisions of this article, the licensing authority may grant a licence for the purposes specified in paragraph (2).
 
@@ -1112,7 +1112,7 @@ Schedule 3 (which provides for civil sanctions) has effect.
 
 ## PART 9 — Amendments, revocations and effect in relation to other enactments
 
-### 37. The Destructive Imported Animals Act 1932[^key-0ac7b08ee9d35c4f4fb3c7aececd2ef6]
+### 37. The Destructive Imported Animals Act 1932[^c-0ac7b08ee9d35c4f4fb3c7aececd2ef6]
 
 (1) A person may not by reason of the same act be convicted of both—
 
@@ -1127,11 +1127,11 @@ Schedule 3 (which provides for civil sanctions) has effect.
 
 (5) In this article, “**1932 Act licence**” means a licence granted under section 3 or 8 of the Destructive Imported Animals Act 1932 (grant and revocation of licences, and savings in respect of animals kept for exhibition etc.).
 
-### 38. The Customs and Excise Management Act 1979[^key-451b8d47567e2366ae273e4ce5f0d5b9]
+### 38. The Customs and Excise Management Act 1979[^c-451b8d47567e2366ae273e4ce5f0d5b9]
 
 The provisions of this Order apply without prejudice to the Customs and Excise Management Act 1979 [^c23629361].
 
-### 39. The Keeping and Introduction of Fish (Wales) Regulations 2014[^key-7d58815a6a18f6e9f885ae0b64094d3b]
+### 39. The Keeping and Introduction of Fish (Wales) Regulations 2014[^c-7d58815a6a18f6e9f885ae0b64094d3b]
 
 (1) A person may not by reason of the same act be convicted of both—
 
@@ -1146,7 +1146,7 @@ The provisions of this Order apply without prejudice to the Customs and Excise M
 
 (5) In this article, “**2014 Regulations permit**” means a permit granted under regulation 6 of the Keeping and Introduction of Fish (Wales) Regulations 2014 (grant of permit).
 
-### 40. The Keeping and Introduction of Fish (England and River Esk Catchment Area) Regulations 2015[^key-eb618cd97f25c0d8b34608fa51647586]
+### 40. The Keeping and Introduction of Fish (England and River Esk Catchment Area) Regulations 2015[^c-eb618cd97f25c0d8b34608fa51647586]
 
 (1) A person may not by reason of the same act be convicted of both—
 
@@ -1161,24 +1161,24 @@ The provisions of this Order apply without prejudice to the Customs and Excise M
 
 (5) In this article, “**2015 Regulations permit**” means a permit granted under regulation 6 of the Keeping and Introduction of Fish (England and River Esk Catchment Area) Regulations 2015 (grant of permit).
 
-### 41. Amendments[^key-22420337cc288e80bc36bc0a9b19d498]
+### 41. Amendments[^c-22420337cc288e80bc36bc0a9b19d498]
 
 Schedule 4 (amendments) has effect.
 
-### 42. Revocations[^key-07022e035052632409aec4fe504c5c03]
+### 42. Revocations[^c-07022e035052632409aec4fe504c5c03]
 
 The Prohibition of Keeping of Live Fish (Crayfish) (Amendment) Order 1996 [^c23629391] is revoked.
 
 ## PART 10 — Review
 
-### 43. Review: England[^key-853715251dae5b5a2d0223e78e842fac]
+### 43. Review: England[^c-853715251dae5b5a2d0223e78e842fac]
 
 (1) The Secretary of State, in relation to England, must from time to time—
 
 - (a) carry out a review of the regulatory provisions contained in this Order; and
 - (b) publish a report setting out the conclusions of the review.
 
-(2) The first report must be published before 1st December 2024[^key-92e967db5bb985a9fc28052d960d2cd7].
+(2) The first report must be published before 1st December 2024[^c-92e967db5bb985a9fc28052d960d2cd7].
 
 (3) Subsequent reviews must be carried out at intervals not exceeding five years.
 
@@ -1204,7 +1204,7 @@ Minister for Environment, Energy and Rural Affairs,
 
 one of the Welsh Ministers
 
-## SCHEDULE 1 — Provisions of the Principal Regulation[^key-5a1294e10bcf7f86c112a4dd696faf13]
+## SCHEDULE 1 — Provisions of the Principal Regulation[^c-5a1294e10bcf7f86c112a4dd696faf13]
 
 Articles 3, 35, 37, 39 and 40
 
@@ -1213,9 +1213,9 @@ Table 1
 | *Provision of the Principal Regulation* | *Subject matter* |
 | --- | --- |
 | Article 7(1)(a) to (h) | Invasive alien species shall not be intentionally— |
-|  | \-brought into the territory of the Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c4342f4842b91960eab2596b9b7bdeae] Great Britain *(Extent: E+W+S)*, including transit under customs supervision;<br>\- kept, including in contained holding; |
+|  | \-brought into the territory of the Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c4342f4842b91960eab2596b9b7bdeae] Great Britain *(Extent: E+W+S)*, including transit under customs supervision;<br>\- kept, including in contained holding; |
 |  | \- bred, including in contained holding; |
-|  | \- transported to, from or within the Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-c4342f4842b91960eab2596b9b7bdeae] Great Britain *(Extent: E+W+S)*, except for the transportation of species to facilities in the context of eradication; |
+|  | \- transported to, from or within the Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-c4342f4842b91960eab2596b9b7bdeae] Great Britain *(Extent: E+W+S)*, except for the transportation of species to facilities in the context of eradication; |
 |  | \- placed on the market; |
 |  | \- used or exchanged; |
 |  | \- grown, cultivated or permitted to reproduce, including in contained holding; |
@@ -1225,13 +1225,13 @@ Table 2
 
 | *Provision of the Principal Regulation* | *Conditions* |
 | --- | --- |
-| Article 8 paragraph 2 | (a) the invasive alien species of Union concern *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6417d695465e2530a3ff6813acd2fd2d] of special concern *(Extent: E+W+S)* is kept in and handled in contained holding in accordance with Article 8(3); |
-|  | (b) the activity is to be carried out by appropriately qualified personnel as laid down by the competent authorities *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-3012bb43793422c4dda8056d49b9ee0b] appropriate authority *(Extent: E+W+S)*; |
+| Article 8 paragraph 2 | (a) the invasive alien species of Union concern *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6417d695465e2530a3ff6813acd2fd2d] of special concern *(Extent: E+W+S)* is kept in and handled in contained holding in accordance with Article 8(3); |
+|  | (b) the activity is to be carried out by appropriately qualified personnel as laid down by the competent authorities *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-3012bb43793422c4dda8056d49b9ee0b] appropriate authority *(Extent: E+W+S)*; |
 |  | (c) transport to and from contained holding is carried out under conditions that preclude escape of the invasive alien species as established by the permit; |
-|  | (d) in the case of invasive alien species of Union concern *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6417d695465e2530a3ff6813acd2fd2d] of special concern *(Extent: E+W+S)* that are animals, they are marked or otherwise effectively identified where appropriate, using methods that do not cause avoidable pain, distress or suffering; |
+|  | (d) in the case of invasive alien species of Union concern *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6417d695465e2530a3ff6813acd2fd2d] of special concern *(Extent: E+W+S)* that are animals, they are marked or otherwise effectively identified where appropriate, using methods that do not cause avoidable pain, distress or suffering; |
 |  | (e) the risk of escape or spread or removal is effectively managed, taking into account the identity, biology and means of dispersal of the species, the activity and the contained holding envisaged, the interaction with the environment and other relevant factors; |
-|  | (f) a continuous surveillance system and a contingency plan covering possible escape or spread is drawn up by the applicant, including an eradication plan. The contingency plan is to be approved by the competent authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-1475293d3800b9b11167a5ef174e1eec] appropriate authority *(Extent: E+W+S)*. If an escape or spread occurs, the contingency plan is to be implemented immediately and the permit may be withdrawn, temporarily or permanently. |
-|  | The permit is to be limited to a number of invasive alien species and specimens that does not exceed the capacity of the contained holding. It must include the restrictions necessary to mitigate the risk of escape or spread of the species concerned. It must accompany the invasive alien species to which it refers at all times when those species are kept, brought into and transported within the Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-227028ca2971e6a4926eeff640fc90ad] Great Britain *(Extent: E+W+S)*. |
+|  | (f) a continuous surveillance system and a contingency plan covering possible escape or spread is drawn up by the applicant, including an eradication plan. The contingency plan is to be approved by the competent authority *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-1475293d3800b9b11167a5ef174e1eec] appropriate authority *(Extent: E+W+S)*. If an escape or spread occurs, the contingency plan is to be implemented immediately and the permit may be withdrawn, temporarily or permanently. |
+|  | The permit is to be limited to a number of invasive alien species and specimens that does not exceed the capacity of the contained holding. It must include the restrictions necessary to mitigate the risk of escape or spread of the species concerned. It must accompany the invasive alien species to which it refers at all times when those species are kept, brought into and transported within the Union *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-227028ca2971e6a4926eeff640fc90ad] Great Britain *(Extent: E+W+S)*. |
 | Article 8 paragraph 3 | 3\. Specimens are to be considered to be kept in contained holding if the following conditions are fulfilled: |
 |  | (a) the specimens are physically isolated and they cannot escape or spread or be removed by unauthorised persons from the holdings where they are kept; |
 |  | (b) cleaning, waste handling and maintenance protocols ensure that no specimens or reproducible parts can escape, spread or be removed by unauthorised persons; |
@@ -1241,7 +1241,7 @@ Table 2
 
 Article 3
 
-### PART 1 — Animals to which the offence in article 3(2) applies[^key-7fb4cec276218be2b55bd7b745d17ab1]
+### PART 1 — Animals to which the offence in article 3(2) applies[^c-7fb4cec276218be2b55bd7b745d17ab1]
 
 <table>
 <tfoot>
@@ -1262,9 +1262,9 @@ Article 3
 </tbody>
 </table>
 
-[^key-d2cc09189e0e640fc8c35b30984e7926][^key-7ddcaac757f7632020605c0bcdb90de7]
+[^c-d2cc09189e0e640fc8c35b30984e7926][^c-7ddcaac757f7632020605c0bcdb90de7]
 
-### PART 2 — Plants to which the offence in article 3(3) applies[^key-082b97da6fef7a941c106ba34071db30]
+### PART 2 — Plants to which the offence in article 3(3) applies[^c-082b97da6fef7a941c106ba34071db30]
 
 <table>
 <tfoot>
@@ -1287,9 +1287,9 @@ Article 3
 </tbody>
 </table>
 
-[^key-56d86aa58089d830c6c003aa9a9c5993]
+[^c-56d86aa58089d830c6c003aa9a9c5993]
 
-### PART 3 — Species to which the offences in article 3(4) apply[^key-207ad6ee99081585775c5b781e05e37f]
+### PART 3 — Species to which the offences in article 3(4) apply[^c-207ad6ee99081585775c5b781e05e37f]
 
 <table>
 <tfoot>
@@ -1310,7 +1310,7 @@ Article 34
 
 ### PART 1 — Power to impose civil sanctions
 
-#### 1. The regulator[^key-4480a371e20f14bef79466ecfd117f7b]
+#### 1. The regulator[^c-4480a371e20f14bef79466ecfd117f7b]
 
 In this Schedule, “**the regulator**” means—
 
@@ -1320,7 +1320,7 @@ In this Schedule, “**the regulator**” means—
   - (iii) offences relating to imports into or exports from the United Kingdom;
 - (b) the Natural Resources Body for Wales in relation to Wales unless sub-paragraph (a)(iii) applies.
 
-#### 2. Compliance notice[^key-79794ef5729606e84fb0133b7ee12754]
+#### 2. Compliance notice[^c-79794ef5729606e84fb0133b7ee12754]
 
 (1) This paragraph applies where the regulator is satisfied on the balance of probabilities that a person has committed an offence under Part 2 of this Order.
 
@@ -1328,7 +1328,7 @@ In this Schedule, “**the regulator**” means—
 
 (3) A compliance notice may not be imposed on more than one occasion in relation to the same act or omission.
 
-#### 3. Restoration notice[^key-ac227d13c264b5cf6003d75b180ea49a]
+#### 3. Restoration notice[^c-ac227d13c264b5cf6003d75b180ea49a]
 
 (1) This paragraph applies where the regulator is satisfied on the balance of probabilities that a person has committed an offence under Part 2 of this Order.
 
@@ -1336,7 +1336,7 @@ In this Schedule, “**the regulator**” means—
 
 (3) A restoration notice may not be imposed on more than one occasion in relation to the same act or omission.
 
-#### 4. Imposition of a fixed monetary penalty[^key-de9484506c5c966fb6272e8e884aeb6f]
+#### 4. Imposition of a fixed monetary penalty[^c-de9484506c5c966fb6272e8e884aeb6f]
 
 (1) This paragraph applies where the regulator is satisfied on the balance of probabilities that a person has committed an offence under Part 2 of this Order.
 
@@ -1351,7 +1351,7 @@ In this Schedule, “**the regulator**” means—
 - (a) the Consolidated Fund, where the regulator is Natural England; and
 - (b) the Welsh Consolidated Fund, where the regulator is the Natural Resources Body for Wales.
 
-#### 5. Imposition of a variable monetary penalty[^key-a8a32164fc5239a65a963b2fe1a58ac9]
+#### 5. Imposition of a variable monetary penalty[^c-a8a32164fc5239a65a963b2fe1a58ac9]
 
 (1) This paragraph applies where the regulator is satisfied on the balance of probabilities that a person has committed an offence under Part 2 of this Order.
 
@@ -1370,7 +1370,7 @@ In this Schedule, “**the regulator**” means—
 - (a) the Consolidated Fund, where the regulator is Natural England; and
 - (b) the Welsh Consolidated Fund, where the regulator is the Natural Resources Body for Wales.
 
-#### 6. Notice of intent[^key-ab8452c6e3bff178c4db510f94c6683f]
+#### 6. Notice of intent[^c-ab8452c6e3bff178c4db510f94c6683f]
 
 (1) If the regulator proposes to serve on a person a compliance notice, a restoration notice or a notice imposing a fixed or variable monetary penalty under this Part, it must serve on that person a notice of what is proposed (a “notice of intent”).
 
@@ -1383,7 +1383,7 @@ In this Schedule, “**the regulator**” means—
   - (i) the right to make representations and objections within 28 days beginning with the day on which the notice of intent was received; and
   - (ii) the circumstances in which the regulator may not serve the proposed notice.
 
-#### 7. Combination of penalties[^key-70f875fafd80412074f05ccad0a66fc7]
+#### 7. Combination of penalties[^c-70f875fafd80412074f05ccad0a66fc7]
 
 (1) The regulator may not serve a notice of intent relating to a fixed monetary penalty if, in relation to the same offence—
 
@@ -1396,15 +1396,15 @@ In this Schedule, “**the regulator**” means—
 - (a) a fixed monetary penalty has been imposed on that person; or
 - (b) that person has discharged liability for a fixed monetary penalty following service of a notice of intent to impose that penalty.
 
-#### 8. Discharge of liability – fixed monetary penalties[^key-2f5209fdd9668768bdfffb11c4e371bc]
+#### 8. Discharge of liability – fixed monetary penalties[^c-2f5209fdd9668768bdfffb11c4e371bc]
 
 A fixed monetary penalty is discharged if a person who receives a notice of intent pays 50% of the amount of the penalty within 28 days beginning with the day on which the notice was received.
 
-#### 9. Making representations and objections[^key-86f3f17c470e7969b4385122f57ae249]
+#### 9. Making representations and objections[^c-86f3f17c470e7969b4385122f57ae249]
 
 A person on whom a notice of intent is served may within 28 days beginning with the day on which the notice is received make written representations and objections to the regulator in relation to the proposed service of a compliance notice, restoration notice or notice imposing a fixed or variable monetary penalty.
 
-#### 10. Third party undertakings[^key-c13b7f50a881eb4a9dd05d6a7af9c15a]
+#### 10. Third party undertakings[^c-c13b7f50a881eb4a9dd05d6a7af9c15a]
 
 (1) A person on whom a notice of intent relating to a compliance notice, a restoration notice or a variable monetary penalty is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any third party affected by the offence (“a third party undertaking”).
 
@@ -1412,7 +1412,7 @@ A person on whom a notice of intent is served may within 28 days beginning with 
 
 (3) The regulator must take into account any third party undertaking that it accepts in its decision as to whether or not to serve a final notice, and, if it serves a notice imposing a variable monetary penalty, the amount of the penalty.
 
-#### 11. Final notice[^key-b261eb7bf2b58bb881220047bea0d9a8]
+#### 11. Final notice[^c-b261eb7bf2b58bb881220047bea0d9a8]
 
 (1) After the end of the period for making representations and objections, the regulator must decide whether to impose the requirements described in the notice of intent, with or without modifications.
 
@@ -1429,7 +1429,7 @@ A person on whom a notice of intent is served may within 28 days beginning with 
 
 (5) This paragraph does not apply to a person who has discharged a fixed monetary penalty in accordance with paragraph 8.
 
-#### 12. Contents of final notice: compliance and restoration notices[^key-6eb03a2d80153d769b95da0a39c2b0aa]
+#### 12. Contents of final notice: compliance and restoration notices[^c-6eb03a2d80153d769b95da0a39c2b0aa]
 
 A final notice relating to a compliance notice or a restoration notice must include information as to—
 
@@ -1438,7 +1438,7 @@ A final notice relating to a compliance notice or a restoration notice must incl
 - (c) rights of appeal; and
 - (d) the consequences of failing to comply with the notice.
 
-#### 13. Contents of final notice: fixed and variable monetary penalties[^key-92fa752c911e863e93d3f8faab1e079d]
+#### 13. Contents of final notice: fixed and variable monetary penalties[^c-92fa752c911e863e93d3f8faab1e079d]
 
 A final notice relating to a fixed or variable monetary penalty must include information as to—
 
@@ -1450,11 +1450,11 @@ A final notice relating to a fixed or variable monetary penalty must include inf
 - (f) rights of appeal; and
 - (g) the consequences of failing to comply with the notice.
 
-#### 14. Fixed monetary penalty: discount for early payment[^key-388d84519fe45d562e6a043564d59e94]
+#### 14. Fixed monetary penalty: discount for early payment[^c-388d84519fe45d562e6a043564d59e94]
 
 If a person who was served with a notice of intent relating to a proposed fixed monetary penalty made representations or objections concerning that notice within the time limit specified in paragraph 9, that person may discharge the final notice by paying 50% of the final penalty within 28 days beginning with the day on which the final notice was received.
 
-#### 15. Appeals against a final notice[^key-1d2107558cccc93ce4a00a44f9caea07]
+#### 15. Appeals against a final notice[^c-1d2107558cccc93ce4a00a44f9caea07]
 
 (1) The person on whom a final notice is served may appeal against it.
 
@@ -1467,7 +1467,7 @@ If a person who was served with a notice of intent relating to a proposed fixed 
 - (e) that the decision was unreasonable for any other reason;
 - (f) that the decision was wrong for any other reason.
 
-#### 16. Fixed monetary penalty: non-payment within the stated payment period[^key-77eafe24c060931883dfa7c6986cf3c8]
+#### 16. Fixed monetary penalty: non-payment within the stated payment period[^c-77eafe24c060931883dfa7c6986cf3c8]
 
 (1) This paragraph applies to a final notice relating to a fixed monetary penalty.
 
@@ -1475,7 +1475,7 @@ If a person who was served with a notice of intent relating to a proposed fixed 
 
 (3) In the case of an appeal which is unsuccessful, the penalty is payable within 28 days of the determination of the appeal, and if it is not paid within 28 days, the amount of the penalty is increased by 50%.
 
-#### 17. Criminal proceedings[^key-be208c5830928de63e87e4d374469d7f]
+#### 17. Criminal proceedings[^c-be208c5830928de63e87e4d374469d7f]
 
 (1) If—
 
@@ -1490,7 +1490,7 @@ that person may not at any time be convicted of an offence under Part 2 of this 
 
 ### PART 2 — Stop notices
 
-#### 18. Stop notices[^key-71013dedc7c3432bd7d1e6788f58de10]
+#### 18. Stop notices[^c-71013dedc7c3432bd7d1e6788f58de10]
 
 (1) The regulator may serve a notice (a “stop notice”) on any person prohibiting that person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
 
@@ -1502,7 +1502,7 @@ that person may not at any time be convicted of an offence under Part 2 of this 
 
 (3) The steps referred to in sub-paragraph (1) must be steps to eliminate the risk of the offence being committed.
 
-#### 19. Contents of a stop notice[^key-51e4c90dce1a1c1e2b207a67827fe34c]
+#### 19. Contents of a stop notice[^c-51e4c90dce1a1c1e2b207a67827fe34c]
 
 A stop notice must include information as to—
 
@@ -1512,7 +1512,7 @@ A stop notice must include information as to—
 - (d) rights of appeal; and
 - (e) the consequences of failing to comply with the notice.
 
-#### 20. Appeals[^key-c3b7043b2267fd2af651e736163481b5]
+#### 20. Appeals[^c-c3b7043b2267fd2af651e736163481b5]
 
 (1) The person on whom a stop notice is served may appeal against the decision to serve it.
 
@@ -1526,7 +1526,7 @@ A stop notice must include information as to—
 - (f) that the person would not, by reason of any defence, permit or licence have been liable to be convicted of the offence had the stop notice not been served;
 - (g) that the decision was wrong for any other reason.
 
-#### 21. Completion certificates[^key-a477705154133703f96762423f969eb6]
+#### 21. Completion certificates[^c-a477705154133703f96762423f969eb6]
 
 (1) The regulator must issue a certificate (a “completion certificate”) if, after service of a stop notice, the regulator is satisfied that the person on whom it was served has taken the steps specified in the notice.
 
@@ -1545,7 +1545,7 @@ A stop notice must include information as to—
 - (c) was unfair or unreasonable;
 - (d) was wrong for any other reason.
 
-#### 22. Compensation[^key-a6c4176d3d303efaea8427eec8f2c769]
+#### 22. Compensation[^c-a6c4176d3d303efaea8427eec8f2c769]
 
 (1) The regulator must compensate a person for loss suffered as the result of the service of the stop notice or the refusal of a completion certificate if that person has suffered loss as a result of the notice or refusal and—
 
@@ -1560,17 +1560,17 @@ A stop notice must include information as to—
 - (b) the amount offered was based on incorrect facts; or
 - (c) the decision was wrong for any other reason.
 
-#### 23. Offences[^key-3d1c9f7b1ddd44920ed4dd2dd48d5c52]
+#### 23. Offences[^c-3d1c9f7b1ddd44920ed4dd2dd48d5c52]
 
 If a person on whom a stop notice is served does not comply with it within the time limit specified in the notice, the person is guilty of an offence and liable on summary conviction to a fine.
 
 ### PART 3 — Enforcement undertakings
 
-#### 24. Enforcement undertakings[^key-785cde49015dd3df294cfd17a6138dc1]
+#### 24. Enforcement undertakings[^c-785cde49015dd3df294cfd17a6138dc1]
 
 Where the regulator has reasonable grounds to suspect that a person has committed an offence under Part 2 of this Order, the regulator may accept a written undertaking (an “enforcement undertaking”) given by that person to take such action as may be specified in the undertaking within such period as may be specified.
 
-#### 25. Contents of an enforcement undertaking[^key-bfae7b6487684640d6993f05bf52dbdc]
+#### 25. Contents of an enforcement undertaking[^c-bfae7b6487684640d6993f05bf52dbdc]
 
 (1) An enforcement undertaking must specify—
 
@@ -1588,7 +1588,7 @@ Where the regulator has reasonable grounds to suspect that a person has committe
 
 (4) The enforcement undertaking may be varied, or the period within which the action must be completed may be extended, if both the regulator and the person who gave the undertaking agree in writing.
 
-#### 26. Acceptance of an enforcement undertaking[^key-1bfd9345eb6f7c0b6cdc779f218bd5fd]
+#### 26. Acceptance of an enforcement undertaking[^c-1bfd9345eb6f7c0b6cdc779f218bd5fd]
 
 (1) If the regulator has accepted an enforcement undertaking from a person—
 
@@ -1597,7 +1597,7 @@ Where the regulator has reasonable grounds to suspect that a person has committe
 
 (2) Paragraph (1) does not apply if the person who gave the undertaking has failed to comply with it or any part of it.
 
-#### 27. Discharge of an enforcement undertaking[^key-bd842036408952be91a22d317b175b2f]
+#### 27. Discharge of an enforcement undertaking[^c-bd842036408952be91a22d317b175b2f]
 
 (1) If the regulator is satisfied that an enforcement undertaking has been complied with, it must issue a certificate (“a discharge certificate”) to that effect.
 
@@ -1616,13 +1616,13 @@ Where the regulator has reasonable grounds to suspect that a person has committe
 - (c) was unfair or unreasonable;
 - (d) was wrong for any other reason.
 
-#### 28. Inaccurate, incomplete or misleading information[^key-f7dec2f4f863864a44f5d5b3766872bc]
+#### 28. Inaccurate, incomplete or misleading information[^c-f7dec2f4f863864a44f5d5b3766872bc]
 
 (1) A person who has given inaccurate, misleading or incomplete information in relation to an enforcement undertaking is to be regarded as not having complied with it.
 
 (2) The regulator may by notice in writing revoke a discharge certificate issued under paragraph 27 if it was issued on the basis of inaccurate, incomplete or misleading information.
 
-#### 29. Non-compliance with an enforcement undertaking[^key-848956b6278c3249639ac42869f39e27]
+#### 29. Non-compliance with an enforcement undertaking[^c-848956b6278c3249639ac42869f39e27]
 
 (1) If a person does not comply with an enforcement undertaking, the regulator may, in the case of an offence committed under Part 2 of this Order —
 
@@ -1633,13 +1633,13 @@ Where the regulator has reasonable grounds to suspect that a person has committe
 
 (3) Criminal proceedings for offences to which an enforcement undertaking relates may be instituted at any time up to 6 months from the date on which the regulator notifies the person that the person has failed to comply with that undertaking.
 
-(4)[^key-15249abc6336d54d4057567f92069d23] The provisions in paragraphs 30(2) to (7) and 31 apply to non-compliance penalties served pursuant to this paragraph as they apply to such penalties served pursuant to paragraph 30(1).
+(4)[^c-15249abc6336d54d4057567f92069d23] The provisions in paragraphs 30(2) to (7) and 31 apply to non-compliance penalties served pursuant to this paragraph as they apply to such penalties served pursuant to paragraph 30(1).
 
 (5) For the purposes of sub-paragraph (4), the references to “compliance notice, restoration notice or third party undertaking” in paragraph 30(2) and (5) are to be read as a reference to “enforcement undertaking”
 
 ### PART 4 — Non-compliance penalties
 
-#### 30. Non-compliance penalties[^key-db0f85c6d771126e7e1ebbfb8efba1ff]
+#### 30. Non-compliance penalties[^c-db0f85c6d771126e7e1ebbfb8efba1ff]
 
 (1) If a person fails to comply with a compliance notice, restoration notice or third party undertaking, the regulator may, irrespective of whether a variable monetary penalty was also imposed, serve a notice on that person imposing a monetary penalty (“a non-compliance penalty”).
 
@@ -1666,7 +1666,7 @@ Where the regulator has reasonable grounds to suspect that a person has committe
 - (a) the Consolidated Fund, where the regulator is Natural England; and
 - (b) the Welsh Consolidated Fund, where the regulator is the Natural Resources Body for Wales.
 
-#### 31. Appeals[^key-7ccb603ed046dfe276ff3e7b35fc73ab]
+#### 31. Appeals[^c-7ccb603ed046dfe276ff3e7b35fc73ab]
 
 (1) The person on whom the notice imposing the non-compliance penalty is served may appeal against it.
 
@@ -1680,7 +1680,7 @@ Where the regulator has reasonable grounds to suspect that a person has committe
 
 ### PART 5 — Withdrawal and amendment of notices
 
-#### 32. Withdrawing or amending a notice[^key-898e9037435a5520e30fcc5294228a78]
+#### 32. Withdrawing or amending a notice[^c-898e9037435a5520e30fcc5294228a78]
 
 The regulator may at any time in writing—
 
@@ -1690,7 +1690,7 @@ The regulator may at any time in writing—
 
 ### PART 6 — Costs recovery
 
-#### 33. Recovery of enforcement costs[^key-7275bf8c66400b240d174f844dbe5771]
+#### 33. Recovery of enforcement costs[^c-7275bf8c66400b240d174f844dbe5771]
 
 (1) The regulator may give a costs recovery notice if any of the conditions in sub-paragraph (3) are met.
 
@@ -1727,7 +1727,7 @@ The regulator may at any time in writing—
 
 ### PART 7 — Appeals
 
-#### 34. Appeals[^key-3125acb1a7ec94a05bcb2f544537012d]
+#### 34. Appeals[^c-3125acb1a7ec94a05bcb2f544537012d]
 
 (1) Any appeal under this Schedule must be made to the First-tier Tribunal.
 
@@ -1745,7 +1745,7 @@ The regulator may at any time in writing—
 
 ### PART 8 — Guidance and publicity
 
-#### 35. Guidance as to use of civil sanctions[^key-4492ccaaa770814df2becfb2d39c0777]
+#### 35. Guidance as to use of civil sanctions[^c-4492ccaaa770814df2becfb2d39c0777]
 
 (1) The regulator must publish guidance about its use of civil sanctions.
 
@@ -1766,14 +1766,14 @@ The regulator may at any time in writing—
 - (a) the circumstances in which the regulator is likely to accept an enforcement undertaking; and
 - (b) the circumstances in which the regulator is not likely to accept an enforcement undertaking.
 
-#### 36. Consultation on guidance[^key-653c3cafd30679efd4861a42ae09c339]
+#### 36. Consultation on guidance[^c-653c3cafd30679efd4861a42ae09c339]
 
 The regulator must consult such persons as it considers appropriate before publishing—
 
 - (a) any guidance; or
 - (b) any significant revisions or updates to guidance which has already been published.
 
-#### 37. Publication of enforcement action[^key-0a4c46036d53c750f95f9037afe160e5]
+#### 37. Publication of enforcement action[^c-0a4c46036d53c750f95f9037afe160e5]
 
 (1) The regulator must publish annually—
 
@@ -1791,7 +1791,7 @@ Article 41
 
 ### PART 1 — Amendments to primary legislation
 
-#### 1. Wildlife and Countryside Act 1981[^key-c3097a69b08dc19c0f2364fcb02fb0fa]
+#### 1. Wildlife and Countryside Act 1981[^c-c3097a69b08dc19c0f2364fcb02fb0fa]
 
 (1) The Wildlife and Countryside Act 1981 [^c23629411] is amended as follows.
 
@@ -1855,7 +1855,7 @@ Article 41
 
 ### PART 2 — Amendments to secondary legislation
 
-#### 2. The Prohibition of Keeping of Live Fish (Crayfish) Order 1996[^key-7d7b94755299aab088250647023392b0]
+#### 2. The Prohibition of Keeping of Live Fish (Crayfish) Order 1996[^c-7d7b94755299aab088250647023392b0]
 
 (1) The Prohibition of Keeping of Live Fish (Crayfish) Order 1996 [^c23629421] is amended as follows.
 
@@ -1879,7 +1879,7 @@ Article 41
 
 (4) Omit the Schedule.
 
-#### 3. The Wildlife and Countryside Act 1981 (Prohibition on Sale etc. of Invasive Non-native Plants (England) Order 2014[^key-dd27f912790446a609b0d937e8d0f383]
+#### 3. The Wildlife and Countryside Act 1981 (Prohibition on Sale etc. of Invasive Non-native Plants (England) Order 2014[^c-dd27f912790446a609b0d937e8d0f383]
 
 In the table in article 3 of the Wildlife and Countryside Act 1981 (Prohibition on Sale etc. of Invasive Non-native Plants) (England) Order 2014 [^c23629431] omit the following entries—
 
@@ -1922,11 +1922,11 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23629101]: Marginal citation: OJ No. L317, 4.11.2014, p. 35.
 
-[^key-0e050191874949f4c565fe0d48b1fcf8]: Commencement: Art. 1 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-0e050191874949f4c565fe0d48b1fcf8]: Commencement: Art. 1 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-512cb7694c65c4b4dc689b07cd09e549]: Textual amendment: Words in art. 1(1) substituted (30.9.2019) by [The Invasive Alien Species (Enforcement and Permitting) (Amendment) Order 2019 (S.I. 2019/1213)](https://www.legislation.gov.uk/uksi/2019/1213), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1213/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1213/article/2/2)
+[^c-512cb7694c65c4b4dc689b07cd09e549]: Textual amendment: Words in art. 1(1) substituted (30.9.2019) by [The Invasive Alien Species (Enforcement and Permitting) (Amendment) Order 2019 (S.I. 2019/1213)](https://www.legislation.gov.uk/uksi/2019/1213), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1213/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1213/article/2/2)
 
-[^key-72b2fe974737e3cb368411cc8ab51f4f]: Commencement: Art. 2 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-72b2fe974737e3cb368411cc8ab51f4f]: Commencement: Art. 2 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^M_E_6cd7c5fa-fa29-4f46-cbe7-262f3a4a3aa1]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
@@ -1934,9 +1934,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23629121]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 18A was inserted, in relation to England and Wales, by paragraph 1 of Part 1 of Schedule 5 to the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-de7743902293187ddf4ba6220b98cbb4]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/uksi/2019/527/part/1) substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de7743902293187ddf4ba6220b98cbb4]: Textual amendment: Words in [Pt. 1](https://www.legislation.gov.uk/uksi/2019/527/part/1) substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7795adbc5d6bdaf910c90e0f78d578bb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/527/article/2/1) inserted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7795adbc5d6bdaf910c90e0f78d578bb]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/527/article/2/1) inserted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23629131]: Marginal citation: [S.I. 2002/791](https://www.legislation.gov.uk/uksi/2002/791).
 
@@ -1948,7 +1948,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23629171]: Marginal citation: [S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126).
 
-[^key-1f5ee596b200d714d35eb4f9f3297c28]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/527/article/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f5ee596b200d714d35eb4f9f3297c28]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/527/article/2/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23629181]: Marginal citation: [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), to which there are amendments not relevant to this Order. These provisions continue to have effect as if made under section 158(3) of the [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32) by virtue of paragraph 26(3) of Schedule 11 to that Act.
 
@@ -1974,7 +1974,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^M_F_d75ebe55-3da0-405d-8227-f5a7e60d953e]: Textual amendment: Words in art. 2(1) inserted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/2/b)
 
-[^key-ea45edaec07367e2d376e35e1dbdfb68]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/527/article/2/1) substituted (N.I) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/a)
+[^c-ea45edaec07367e2d376e35e1dbdfb68]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2019/527/article/2/1) substituted (N.I) (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/a)
 
 [^V_NI_98749858-abbc-81fd-c1d5-a55862566b3d]: Textual amendment: [S.I. 1999/1126](https://www.legislation.gov.uk/uksi/1999/1126).
 
@@ -1984,39 +1984,39 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^M_E_d6e27098-5603-48ab-e90f-d40dfe1dfe34]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c7dfd0d1be6da7703c094b6e436aba48]: Commencement: Art. 3 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-c7dfd0d1be6da7703c094b6e436aba48]: Commencement: Art. 3 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629201]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 14ZA was inserted by section 50 of the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and amended by section 25(3) of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-bd7b05f5b1fde8cd5b9762e17534ccf5]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2019/527/article/3/7) inserted (E.W.S.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/2)
+[^c-bd7b05f5b1fde8cd5b9762e17534ccf5]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2019/527/article/3/7) inserted (E.W.S.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/2)
 
 [^M_E_24024b85-9531-41ef-d1d8-f05118e5fdab]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_9756daf2-6764-6386-89e0-69adb50400f1]: Commencement: Art. 3 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-585d033a59f064e302483291b1e8cb1b]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2019/527/article/3/1A) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/3/a)
+[^c-585d033a59f064e302483291b1e8cb1b]: Textual amendment: [Art. 3(1A)](https://www.legislation.gov.uk/uksi/2019/527/article/3/1A) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/3/a)
 
 [^V_NI_67a256e2-f5db-9cc1-99ee-cc6692a491de]: Textual amendment: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69). Section 14ZA was inserted by section 50 of the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and amended by section 25(3) of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-7493cf892320e15d82831c79ba276ac0]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2019/527/article/3/7) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/3/b)
+[^c-7493cf892320e15d82831c79ba276ac0]: Textual amendment: [Art. 3(7)](https://www.legislation.gov.uk/uksi/2019/527/article/3/7) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/3/b)
 
-[^key-24bbbd6ee692442a5a3f97a3fffb2185]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2019/527/article/3A) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/4)
+[^c-24bbbd6ee692442a5a3f97a3fffb2185]: Textual amendment: [Art. 3A](https://www.legislation.gov.uk/uksi/2019/527/article/3A) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/4)
 
-[^key-89ce95e31bfa453fedf6bb5d55bbd823]: Commencement: Art. 4 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-89ce95e31bfa453fedf6bb5d55bbd823]: Commencement: Art. 4 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-401177bda9cf6397c1a85f983da10f5e]: Commencement: Art. 5 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-401177bda9cf6397c1a85f983da10f5e]: Commencement: Art. 5 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-ed26e09a44638f72210eb10a93938160]: Commencement: Art. 6 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-ed26e09a44638f72210eb10a93938160]: Commencement: Art. 6 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-911c5fe26d5971443e6c5397f46e9700]: Commencement: Art. 7 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-911c5fe26d5971443e6c5397f46e9700]: Commencement: Art. 7 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-bff221fdeaec356062660c7f8b4fc0e9]: Commencement: Art. 8 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-bff221fdeaec356062660c7f8b4fc0e9]: Commencement: Art. 8 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-861d221b611310f4e345790933e5eae3]: Commencement: Art. 9 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-861d221b611310f4e345790933e5eae3]: Commencement: Art. 9 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-d1f13a417b9af7671c03ea01f8046965]: Commencement: Art. 10 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-d1f13a417b9af7671c03ea01f8046965]: Commencement: Art. 10 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-97847bb5c73d48ae0af9c2e572b6e6bb]: Commencement: Art. 11 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-97847bb5c73d48ae0af9c2e572b6e6bb]: Commencement: Art. 11 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629211]: Marginal citation: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Section 33 was amended by section 132 of, and Schedule 6 to, the [Magistrates Courts Act 1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55); paragraph 19 of Schedule 8 to the [Courts Act 1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23); and paragraph 71 of Schedule 8, and Schedule 10, to the [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) (subject to savings specified in [S.I. 2004/2066](https://www.legislation.gov.uk/uksi/2004/2066)).
 
@@ -2028,151 +2028,151 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23629251]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-c1c816ee7433eaf248f08cb705fc515b]: Commencement: Art. 12 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-c1c816ee7433eaf248f08cb705fc515b]: Commencement: Art. 12 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^M_E_e6945c2d-cdf7-4cf7-eb97-81d2bdc329c9]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-d9bc3168dbf3db69e0417e1cdd8eb895]: Textual amendment: Art. 12(1A) inserted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4/a) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a))
+[^c-d9bc3168dbf3db69e0417e1cdd8eb895]: Textual amendment: Art. 12(1A) inserted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4/a) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a))
 
 [^c23629261]: Marginal citation: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) was amended by section 37 of, and paragraph 1 of Schedule 3 to, the [Oil and Gas (Enterprise) Act 1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23). Areas have been designated under section 1(7) by [S.I. 1987/1265](https://www.legislation.gov.uk/uksi/1987/1265) (as amended by [S.I. 2000/3062](https://www.legislation.gov.uk/uksi/2000/3062)) and 2013/3162.
 
 [^c23629271]: Marginal citation: [2004 c. 20](https://www.legislation.gov.uk/ukpga/2004/20). Section 84(4) was substituted by paragraph 4 of Schedule 4 to the [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23). Areas have been designated under section 84(4) by [S.I. 2004/2668](https://www.legislation.gov.uk/uksi/2004/2668) and 2013/3161.
 
-[^key-03ae95e63c6fcfde6fd71fef312d9964]: Textual amendment: Words in art. 12(3) substituted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4/b/i) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a))
+[^c-03ae95e63c6fcfde6fd71fef312d9964]: Textual amendment: Words in art. 12(3) substituted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4/b/i) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a))
 
-[^key-e00b0c7690df31c000f05e65ff87f773]: Textual amendment: Words in art. 12(3) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4/b/ii) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a))
+[^c-e00b0c7690df31c000f05e65ff87f773]: Textual amendment: Words in art. 12(3) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4/b/ii) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a))
 
-[^key-765add74c323e3d226d9add3f5fb13a6]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2019/527/article/12) omitted (N.I.) (31.12.2020) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(5)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/5)
+[^c-765add74c323e3d226d9add3f5fb13a6]: Textual amendment: [Art. 12](https://www.legislation.gov.uk/uksi/2019/527/article/12) omitted (N.I.) (31.12.2020) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(5)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/5)
 
 [^M_E_43ee053b-cddd-4d3b-905e-240f1ab209c7]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-a3da405ae81d0216c9bda279d6857d76]: Commencement: Art. 13 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-a3da405ae81d0216c9bda279d6857d76]: Commencement: Art. 13 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-97c464ba2832432887240db5fa7b7415]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2019/527/part/2A) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(6)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/6)
+[^c-97c464ba2832432887240db5fa7b7415]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2019/527/part/2A) inserted (N.I.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(6)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/6)
 
-[^key-9bd569fe457b6bef4779eff241d985a3]: Textual amendment: Word in [art. 13A(2)(a)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/2/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/i)
+[^c-9bd569fe457b6bef4779eff241d985a3]: Textual amendment: Word in [art. 13A(2)(a)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/2/a) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/i)
 
-[^key-31a0f52cab8016d004199afe9746ba56]: Textual amendment: Word in [art. 13A(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/2/b/iii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/i)
+[^c-31a0f52cab8016d004199afe9746ba56]: Textual amendment: Word in [art. 13A(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/2/b/iii) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/i)
 
-[^key-cd549295cb5e12e51d17678fd4fbc328]: Textual amendment: Word in [art. 13A(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/2/b/iv) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/i)
+[^c-cd549295cb5e12e51d17678fd4fbc328]: Textual amendment: Word in [art. 13A(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/2/b/iv) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(i)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/i)
 
-[^key-553138702aa008aae66c71cc9e5b0c2e]: Textual amendment: Word in [art. 13A(4)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/ii)
+[^c-553138702aa008aae66c71cc9e5b0c2e]: Textual amendment: Word in [art. 13A(4)](https://www.legislation.gov.uk/uksi/2019/527/article/13A/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 43(b)(ii)](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/43/b/ii)
 
-[^key-69205315ece59e49aed41d696210cd8f]: Commencement: Art. 14 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-69205315ece59e49aed41d696210cd8f]: Commencement: Art. 14 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-7fea790e32dbbcb3f251d62db29a264d]: Commencement: Art. 15 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-7fea790e32dbbcb3f251d62db29a264d]: Commencement: Art. 15 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^M_E_ababe288-b28c-44b2-a3cf-3616169847d8]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c903a30fd38ed02f8967dcd523a7e9b4]: Commencement: Art. 16 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-c903a30fd38ed02f8967dcd523a7e9b4]: Commencement: Art. 16 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-a12018638d7256bb8528eb47c1880211]: Textual amendment: Words in art. 16(1) substituted (E.W.S.) (31.12.2020 immediately before IP completion day) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/a) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
+[^c-a12018638d7256bb8528eb47c1880211]: Textual amendment: Words in art. 16(1) substituted (E.W.S.) (31.12.2020 immediately before IP completion day) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/a) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
 
-[^key-6603d5754f57cbade5790b4552800a80]: Textual amendment: Words in Pt. 3 substituted (E.W.S.) (31.12.2020) by The Animal Health, Invasive Alien Species, Plant Breeders’ [Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6603d5754f57cbade5790b4552800a80]: Textual amendment: Words in Pt. 3 substituted (E.W.S.) (31.12.2020) by The Animal Health, Invasive Alien Species, Plant Breeders’ [Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(2)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be2efc5df00fa8fc7ebfc0cf7fc86a42]: Textual amendment: Word in art. 16(4) inserted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/b/ii) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
+[^c-be2efc5df00fa8fc7ebfc0cf7fc86a42]: Textual amendment: Word in art. 16(4) inserted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/b/ii) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
 
-[^key-891c4eed9feaf4dc39d38d8531dbf195]: Textual amendment: Art. 16(4): full stop substituted for word (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/b/iii) (as inserted) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
+[^c-891c4eed9feaf4dc39d38d8531dbf195]: Textual amendment: Art. 16(4): full stop substituted for word (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/b/iii) (as inserted) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
 
-[^key-103228475ff3bbfee6b469e54460f9ac]: Textual amendment: Words in art. 16(4) omitted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/b/iv) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
+[^c-103228475ff3bbfee6b469e54460f9ac]: Textual amendment: Words in art. 16(4) omitted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4A)(b)(iv)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4A/b/iv) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
 
 [^M_E_565859fe-f1e1-4d61-9248-6804ee134fba]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_5ea84622-0534-3188-a27e-f0c0d48220e3]: Commencement: Art. 16 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-048230fd4083fc8a6649e227728877c0]: Textual amendment: Words in art. 16(4) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(7)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/7/a)
+[^c-048230fd4083fc8a6649e227728877c0]: Textual amendment: Words in art. 16(4) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(7)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/7/a)
 
-[^key-946c37278d547434f27127373a74bebe]: Textual amendment: Words in art. 16(4) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(7)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/7/b)
+[^c-946c37278d547434f27127373a74bebe]: Textual amendment: Words in art. 16(4) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(7)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/7/b)
 
-[^key-60d75e5ca875fa12a8535463b76c3091]: Commencement: Art. 17 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-60d75e5ca875fa12a8535463b76c3091]: Commencement: Art. 17 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^M_E_b1db533e-f872-4c31-d371-864147ef90bf]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-5d165926ec60d5e7fae72317efb706f1]: Commencement: Art. 18 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-5d165926ec60d5e7fae72317efb706f1]: Commencement: Art. 18 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-56385b35550b41aa09564833f86d8751]: Textual amendment: Art. 18(2) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4B)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4B/a) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
+[^c-56385b35550b41aa09564833f86d8751]: Textual amendment: Art. 18(2) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4B)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4B/a) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
 
-[^key-a08d19cb550ea11a8d9b47e75d97a450]: Textual amendment: Art. 18(6) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4B)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4B/b) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
+[^c-a08d19cb550ea11a8d9b47e75d97a450]: Textual amendment: Art. 18(6) substituted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(4B)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/4B/b) (as inserted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b))
 
 [^M_E_cf384a6b-9f60-4d32-b37e-c65d61203678]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^V_NI_a80574bf-6cd7-f62b-2dea-11f2672cc03b]: Commencement: Art. 18 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-dd688a949105bdf6b99a8da1b5423147]: Textual amendment: Art. 18(6)(a)(ii)(iii) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(8)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/8/a)
+[^c-dd688a949105bdf6b99a8da1b5423147]: Textual amendment: Art. 18(6)(a)(ii)(iii) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(8)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/8/a)
 
-[^key-aa116e231f5351facd397f78a9471e25]: Textual amendment: Art. 18(6)(b)(ii)(iii) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(8)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/8/b)
+[^c-aa116e231f5351facd397f78a9471e25]: Textual amendment: Art. 18(6)(b)(ii)(iii) substituted (N.I.) (31.12.2020) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(8)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/8/b)
 
-[^key-9ed2dd2efd8335223e9cf9198a3c9d2b]: Commencement: Art. 19 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-9ed2dd2efd8335223e9cf9198a3c9d2b]: Commencement: Art. 19 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-5258f3a94217dd698fa91f0f3e34eb37]: Commencement: Art. 20 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-5258f3a94217dd698fa91f0f3e34eb37]: Commencement: Art. 20 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-9d0b9d8b793c2d90eb92f4ce40a57289]: Textual amendment: Art. 20(1)(1A) substituted for art. 20(1) (26.9.2019) by [The Animal Health, Invasive Alien Species, Plant Breeders Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/a), [2](https://www.legislation.gov.uk/uksi/2019/1220/regulation/2)
+[^c-9d0b9d8b793c2d90eb92f4ce40a57289]: Textual amendment: Art. 20(1)(1A) substituted for art. 20(1) (26.9.2019) by [The Animal Health, Invasive Alien Species, Plant Breeders Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/a), [2](https://www.legislation.gov.uk/uksi/2019/1220/regulation/2)
 
-[^key-5724c67eac0fe8c17f181e8b4eb6a279]: Commencement: Art. 21 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-5724c67eac0fe8c17f181e8b4eb6a279]: Commencement: Art. 21 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^M_E_b4cb7957-0e2f-450b-c9b0-db618512e3c3]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-ccc673406493290fccab19e2687352dc]: Textual amendment: Words in art. 21(2) substituted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/a/i) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
+[^c-ccc673406493290fccab19e2687352dc]: Textual amendment: Words in art. 21(2) substituted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/a/i) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
 
 [^c23629281]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), to which there are amendments not relevant to this Order.
 
-[^key-b373077caed3f2c0790e390ac4daaa77]: Textual amendment: Art. 21(2)(c)(iv) full stop substituted for semicolon (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/a/ii) (as substituted) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
+[^c-b373077caed3f2c0790e390ac4daaa77]: Textual amendment: Art. 21(2)(c)(iv) full stop substituted for semicolon (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/a/ii) (as substituted) by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
 
 [^M_F_e6238992-c837-4e7c-b43e-95a97303d2be]: Textual amendment: Art. 21(2)(d) omitted (E.W.S) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/a/ii) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
 
-[^key-1819b00def1e742c6eae07e499368055]: Textual amendment: Art. 21(3) inserted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/b) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
+[^c-1819b00def1e742c6eae07e499368055]: Textual amendment: Art. 21(3) inserted (E.W.S.) (31.12.2020) by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), [reg. 7(5)(b)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/5/b) (as substituted by The Animal Welfare and Invasive Non-native [Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c))
 
 [^V_NI_1c4657cc-47aa-99b0-6c95-b62fa9f789ab]: Commencement: Art. 21 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^M_E_8fe17e50-e7bc-4ac6-8fa3-89b377647390]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-8764cbd6288b0538ab31e1eeedd28563]: Textual amendment: [Art. 21(2)(b)](https://www.legislation.gov.uk/uksi/2019/527/article/21/2/b)[(c)](https://www.legislation.gov.uk/uksi/2019/527/article/21/2/c) omitted (N.I.) (31.12.2020) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(9)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/9)
+[^c-8764cbd6288b0538ab31e1eeedd28563]: Textual amendment: [Art. 21(2)(b)](https://www.legislation.gov.uk/uksi/2019/527/article/21/2/b)[(c)](https://www.legislation.gov.uk/uksi/2019/527/article/21/2/c) omitted (N.I.) (31.12.2020) by virtue of [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [8(9)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/8/9)
 
-[^key-cd076644d830dd3aa904168803a6e0a8]: Commencement: Art. 22 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-cd076644d830dd3aa904168803a6e0a8]: Commencement: Art. 22 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629291]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 164(5) was inserted by section 10(3) of the [Finance Act 1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39).
 
-[^key-5255920dbdfd87b3deb0692e0174d398]: Commencement: Art. 23 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-5255920dbdfd87b3deb0692e0174d398]: Commencement: Art. 23 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-a99df0095897555d11f888ad75d9909d]: Commencement: Art. 24 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-a99df0095897555d11f888ad75d9909d]: Commencement: Art. 24 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-45cf40cdfd64b82c0b5b6fd956a25186]: Commencement: Art. 25 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-45cf40cdfd64b82c0b5b6fd956a25186]: Commencement: Art. 25 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-b934e52c42ab8fe478e00d0ab4178335]: Commencement: Art. 26 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-b934e52c42ab8fe478e00d0ab4178335]: Commencement: Art. 26 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-6e66495f742ea3e2202dd97f9fd84694]: Textual amendment: Words in [art. 26(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/26/7/a/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
+[^c-6e66495f742ea3e2202dd97f9fd84694]: Textual amendment: Words in [art. 26(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/26/7/a/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
 
-[^key-52566637595af8e6ac9950eed0b51303]: Commencement: Art. 27 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-52566637595af8e6ac9950eed0b51303]: Commencement: Art. 27 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-e033fdc8630eef707db9e5337af93afe]: Commencement: Art. 28 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-e033fdc8630eef707db9e5337af93afe]: Commencement: Art. 28 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-328b296eaeeb67b13141acc99416be7a]: Commencement: Art. 29 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-328b296eaeeb67b13141acc99416be7a]: Commencement: Art. 29 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-bc6b297ec24a9b4d4de5300ceb6df06c]: Commencement: Art. 30 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-bc6b297ec24a9b4d4de5300ceb6df06c]: Commencement: Art. 30 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-e9f68c1228154f31a195214586ebd863]: Textual amendment: Words in [art. 30(3)](https://www.legislation.gov.uk/uksi/2019/527/article/30/3) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
+[^c-e9f68c1228154f31a195214586ebd863]: Textual amendment: Words in [art. 30(3)](https://www.legislation.gov.uk/uksi/2019/527/article/30/3) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
 
-[^key-69bc27c6ce4bfe8ac821b6440eea98ad]: Textual amendment: Words in [art. 30(4)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/30/4/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
+[^c-69bc27c6ce4bfe8ac821b6440eea98ad]: Textual amendment: Words in [art. 30(4)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/30/4/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
 
-[^key-25da996007f35db27ff9a710ce186651]: Textual amendment: Words in [art. 30(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/30/5/b/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
+[^c-25da996007f35db27ff9a710ce186651]: Textual amendment: Words in [art. 30(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/30/5/b/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
 
-[^key-0d4f65898091c7c6573182b7f9320aba]: Commencement: Art. 31 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-0d4f65898091c7c6573182b7f9320aba]: Commencement: Art. 31 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629301]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 
 [^c23629311]: Marginal citation: OJ No. L119, 4.5.2016, p.1.
 
-[^key-baa187aa9ffb4b285747316883b48a2a]: Commencement: Art. 32 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-baa187aa9ffb4b285747316883b48a2a]: Commencement: Art. 32 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-ee91b4e944bc369bee7643df574067f9]: Commencement: Art. 33 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-ee91b4e944bc369bee7643df574067f9]: Commencement: Art. 33 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-67f9fb1a25d331958450c8c839eb6a30]: Textual amendment: Words in [art. 33(3)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/33/3/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
+[^c-67f9fb1a25d331958450c8c839eb6a30]: Textual amendment: Words in [art. 33(3)(ii)](https://www.legislation.gov.uk/uksi/2019/527/article/33/3/ii) substituted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(3)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/3)
 
-[^key-a53aa65ed41ebbdcf1d3abac26c319d1]: Textual amendment: [Art. 33A](https://www.legislation.gov.uk/uksi/2019/527/article/33A) inserted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/4)
+[^c-a53aa65ed41ebbdcf1d3abac26c319d1]: Textual amendment: [Art. 33A](https://www.legislation.gov.uk/uksi/2019/527/article/33A) inserted (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(4)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/4)
 
-[^key-493d978c0fd293bab442d8ba98a4cea7]: Commencement: Art. 34 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-493d978c0fd293bab442d8ba98a4cea7]: Commencement: Art. 34 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-e78bfae7814ecd1f27e871becec565b0]: Commencement: Art. 35 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-e78bfae7814ecd1f27e871becec565b0]: Commencement: Art. 35 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629321]: Marginal citation: Article 191 of the Treaty on the Functioning of the European Union requires Union policy on the environment to be based on the precautionary principle. It aims at ensuring a higher level of environmental protection through preventative decision-taking in the case of risk. See the Communication from the Commission on the precautionary principle (COM/2000/0001/Final).
 
@@ -2180,144 +2180,144 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23629341]: Marginal citation: OJ No. L256, 7.9.1987, p.1.
 
-[^key-a0719b9d6ec9ecdb4c09089132b7d7a3]: Commencement: Art. 36 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-a0719b9d6ec9ecdb4c09089132b7d7a3]: Commencement: Art. 36 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-0ac7b08ee9d35c4f4fb3c7aececd2ef6]: Commencement: Art. 37 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-0ac7b08ee9d35c4f4fb3c7aececd2ef6]: Commencement: Art. 37 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629351]: Marginal citation: [1932 c. 12](https://www.legislation.gov.uk/ukpga/1932/12). The Act was amended by Schedule 13 to the [Agriculture Act 1947 (c. 48)](https://www.legislation.gov.uk/ukpga/1947/48); section 31 of the [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45); sections 38 and 46 of the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48); paragraph 1 of Schedule 6 of, and paragraph 1 of Schedule 11 to, the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16); paragraph 1 of Schedule 13 to, the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20); and [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554) and 1992/3302. The Act was repealed in relation to Scotland by section 25 of, and Part 2 of the Schedule to, the [Wildlife and Natural Environment (Scotland) Act 2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6).
 
-[^key-451b8d47567e2366ae273e4ce5f0d5b9]: Commencement: Art. 38 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-451b8d47567e2366ae273e4ce5f0d5b9]: Commencement: Art. 38 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629361]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).
 
-[^key-7d58815a6a18f6e9f885ae0b64094d3b]: Commencement: Art. 39 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-7d58815a6a18f6e9f885ae0b64094d3b]: Commencement: Art. 39 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629371]: Marginal citation: [S.I. 2014/3303](https://www.legislation.gov.uk/uksi/2014/3303) (W. 336); amended by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
-[^key-eb618cd97f25c0d8b34608fa51647586]: Commencement: Art. 40 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-eb618cd97f25c0d8b34608fa51647586]: Commencement: Art. 40 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629381]: Marginal citation: [S.I. 2015/10](https://www.legislation.gov.uk/uksi/2015/10); amended by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
-[^key-22420337cc288e80bc36bc0a9b19d498]: Commencement: Art. 41 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-22420337cc288e80bc36bc0a9b19d498]: Commencement: Art. 41 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-07022e035052632409aec4fe504c5c03]: Commencement: Art. 42 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-07022e035052632409aec4fe504c5c03]: Commencement: Art. 42 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
 [^c23629391]: Marginal citation: [S.I. 1996/1374](https://www.legislation.gov.uk/uksi/1996/1374).
 
-[^key-853715251dae5b5a2d0223e78e842fac]: Commencement: Art. 43 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-853715251dae5b5a2d0223e78e842fac]: Commencement: Art. 43 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-92e967db5bb985a9fc28052d960d2cd7]: Textual amendment: Words in art. 43(2) substituted (30.9.2019) by [The Invasive Alien Species (Enforcement and Permitting) (Amendment) Order 2019 (S.I. 2019/1213)](https://www.legislation.gov.uk/uksi/2019/1213), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1213/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1213/article/2/3)
+[^c-92e967db5bb985a9fc28052d960d2cd7]: Textual amendment: Words in art. 43(2) substituted (30.9.2019) by [The Invasive Alien Species (Enforcement and Permitting) (Amendment) Order 2019 (S.I. 2019/1213)](https://www.legislation.gov.uk/uksi/2019/1213), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1213/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/1213/article/2/3)
 
 [^c23629401]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), and by paragraph 36 of Part 2 of Schedule 8 to the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-5a1294e10bcf7f86c112a4dd696faf13]: Commencement: Sch. 1 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-5a1294e10bcf7f86c112a4dd696faf13]: Commencement: Sch. 1 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-c4342f4842b91960eab2596b9b7bdeae]: Textual amendment: Words in Sch. 1 Table 1 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/a) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)(3)(d)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2/3/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4342f4842b91960eab2596b9b7bdeae]: Textual amendment: Words in Sch. 1 Table 1 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(a)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/a) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)(3)(d)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2/3/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6417d695465e2530a3ff6813acd2fd2d]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/i) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6417d695465e2530a3ff6813acd2fd2d]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/i) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3012bb43793422c4dda8056d49b9ee0b]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/ii) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3012bb43793422c4dda8056d49b9ee0b]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/ii) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1475293d3800b9b11167a5ef174e1eec]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/iii/aa) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1475293d3800b9b11167a5ef174e1eec]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/iii/aa) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-227028ca2971e6a4926eeff640fc90ad]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/iii/bb) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)(3)(d)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2/3/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-227028ca2971e6a4926eeff640fc90ad]: Textual amendment: Words in Sch. 1 Table 2 substituted (E.W.S.) (31.12.2020) by [The Animal Health, Invasive Alien Species, Plant Breeders’ Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1220)](https://www.legislation.gov.uk/uksi/2019/1220), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/2/d), [7(6)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/7/6/b/iii/bb) (as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)(3)(d)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2/3/d)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7fb4cec276218be2b55bd7b745d17ab1]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-7fb4cec276218be2b55bd7b745d17ab1]: Commencement: Sch. 2 Pt. 1 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-d2cc09189e0e640fc8c35b30984e7926]: Textual amendment: Words in Sch. 2 Pt. 1 Table inserted (E.W.) (4.5.2021) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b), [41(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41/2/a)
+[^c-d2cc09189e0e640fc8c35b30984e7926]: Textual amendment: Words in Sch. 2 Pt. 1 Table inserted (E.W.) (4.5.2021) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b), [41(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41/2/a)
 
-[^key-7ddcaac757f7632020605c0bcdb90de7]: Textual amendment: Words in Sch. 2 Pt. 1 Table inserted (E.W.) (4.5.2021) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b), [41(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41/2/b)
+[^c-7ddcaac757f7632020605c0bcdb90de7]: Textual amendment: Words in Sch. 2 Pt. 1 Table inserted (E.W.) (4.5.2021) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b), [41(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41/2/b)
 
-[^key-082b97da6fef7a941c106ba34071db30]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-082b97da6fef7a941c106ba34071db30]: Commencement: Sch. 2 Pt. 2 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-56d86aa58089d830c6c003aa9a9c5993]: Textual amendment: Words in Sch. 2 Pt. 2 Table inserted (E.W.) (4.5.2021) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b), [41(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41/3)
+[^c-56d86aa58089d830c6c003aa9a9c5993]: Textual amendment: Words in Sch. 2 Pt. 2 Table inserted (E.W.) (4.5.2021) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/b), [41(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/41/3)
 
-[^key-207ad6ee99081585775c5b781e05e37f]: Commencement: Sch. 2 Pt. 3 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-207ad6ee99081585775c5b781e05e37f]: Commencement: Sch. 2 Pt. 3 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-4480a371e20f14bef79466ecfd117f7b]: Commencement: Sch. 3 para. 1 in force at 1.12.2019, see art. 1(1)
+[^c-4480a371e20f14bef79466ecfd117f7b]: Commencement: Sch. 3 para. 1 in force at 1.12.2019, see art. 1(1)
 
-[^key-79794ef5729606e84fb0133b7ee12754]: Commencement: Sch. 3 para. 2 in force at 1.12.2019, see art. 1(1)
+[^c-79794ef5729606e84fb0133b7ee12754]: Commencement: Sch. 3 para. 2 in force at 1.12.2019, see art. 1(1)
 
-[^key-ac227d13c264b5cf6003d75b180ea49a]: Commencement: Sch. 3 para. 3 in force at 1.12.2019, see art. 1(1)
+[^c-ac227d13c264b5cf6003d75b180ea49a]: Commencement: Sch. 3 para. 3 in force at 1.12.2019, see art. 1(1)
 
-[^key-de9484506c5c966fb6272e8e884aeb6f]: Commencement: Sch. 3 para. 4 in force at 1.12.2019, see art. 1(1)
+[^c-de9484506c5c966fb6272e8e884aeb6f]: Commencement: Sch. 3 para. 4 in force at 1.12.2019, see art. 1(1)
 
-[^key-a8a32164fc5239a65a963b2fe1a58ac9]: Commencement: Sch. 3 para. 5 in force at 1.12.2019, see art. 1(1)
+[^c-a8a32164fc5239a65a963b2fe1a58ac9]: Commencement: Sch. 3 para. 5 in force at 1.12.2019, see art. 1(1)
 
-[^key-ab8452c6e3bff178c4db510f94c6683f]: Commencement: Sch. 3 para. 6 in force at 1.12.2019, see art. 1(1)
+[^c-ab8452c6e3bff178c4db510f94c6683f]: Commencement: Sch. 3 para. 6 in force at 1.12.2019, see art. 1(1)
 
-[^key-70f875fafd80412074f05ccad0a66fc7]: Commencement: Sch. 3 para. 7 in force at 1.12.2019, see art. 1(1)
+[^c-70f875fafd80412074f05ccad0a66fc7]: Commencement: Sch. 3 para. 7 in force at 1.12.2019, see art. 1(1)
 
-[^key-2f5209fdd9668768bdfffb11c4e371bc]: Commencement: Sch. 3 para. 8 in force at 1.12.2019, see art. 1(1)
+[^c-2f5209fdd9668768bdfffb11c4e371bc]: Commencement: Sch. 3 para. 8 in force at 1.12.2019, see art. 1(1)
 
-[^key-86f3f17c470e7969b4385122f57ae249]: Commencement: Sch. 3 para. 9 in force at 1.12.2019, see art. 1(1)
+[^c-86f3f17c470e7969b4385122f57ae249]: Commencement: Sch. 3 para. 9 in force at 1.12.2019, see art. 1(1)
 
-[^key-c13b7f50a881eb4a9dd05d6a7af9c15a]: Commencement: Sch. 3 para. 10 in force at 1.12.2019, see art. 1(1)
+[^c-c13b7f50a881eb4a9dd05d6a7af9c15a]: Commencement: Sch. 3 para. 10 in force at 1.12.2019, see art. 1(1)
 
-[^key-b261eb7bf2b58bb881220047bea0d9a8]: Commencement: Sch. 3 para. 11 in force at 1.12.2019, see art. 1(1)
+[^c-b261eb7bf2b58bb881220047bea0d9a8]: Commencement: Sch. 3 para. 11 in force at 1.12.2019, see art. 1(1)
 
-[^key-6eb03a2d80153d769b95da0a39c2b0aa]: Commencement: Sch. 3 para. 12 in force at 1.12.2019, see art. 1(1)
+[^c-6eb03a2d80153d769b95da0a39c2b0aa]: Commencement: Sch. 3 para. 12 in force at 1.12.2019, see art. 1(1)
 
-[^key-92fa752c911e863e93d3f8faab1e079d]: Commencement: Sch. 3 para. 13 in force at 1.12.2019, see art. 1(1)
+[^c-92fa752c911e863e93d3f8faab1e079d]: Commencement: Sch. 3 para. 13 in force at 1.12.2019, see art. 1(1)
 
-[^key-388d84519fe45d562e6a043564d59e94]: Commencement: Sch. 3 para. 14 in force at 1.12.2019, see art. 1(1)
+[^c-388d84519fe45d562e6a043564d59e94]: Commencement: Sch. 3 para. 14 in force at 1.12.2019, see art. 1(1)
 
-[^key-1d2107558cccc93ce4a00a44f9caea07]: Commencement: Sch. 3 para. 15 in force at 1.12.2019, see art. 1(1)
+[^c-1d2107558cccc93ce4a00a44f9caea07]: Commencement: Sch. 3 para. 15 in force at 1.12.2019, see art. 1(1)
 
-[^key-77eafe24c060931883dfa7c6986cf3c8]: Commencement: Sch. 3 para. 16 in force at 1.12.2019, see art. 1(1)
+[^c-77eafe24c060931883dfa7c6986cf3c8]: Commencement: Sch. 3 para. 16 in force at 1.12.2019, see art. 1(1)
 
-[^key-be208c5830928de63e87e4d374469d7f]: Commencement: Sch. 3 para. 17 in force at 1.12.2019, see art. 1(1)
+[^c-be208c5830928de63e87e4d374469d7f]: Commencement: Sch. 3 para. 17 in force at 1.12.2019, see art. 1(1)
 
-[^key-71013dedc7c3432bd7d1e6788f58de10]: Commencement: Sch. 3 para. 18 in force at 1.12.2019, see art. 1(1)
+[^c-71013dedc7c3432bd7d1e6788f58de10]: Commencement: Sch. 3 para. 18 in force at 1.12.2019, see art. 1(1)
 
-[^key-51e4c90dce1a1c1e2b207a67827fe34c]: Commencement: Sch. 3 para. 19 in force at 1.12.2019, see art. 1(1)
+[^c-51e4c90dce1a1c1e2b207a67827fe34c]: Commencement: Sch. 3 para. 19 in force at 1.12.2019, see art. 1(1)
 
-[^key-c3b7043b2267fd2af651e736163481b5]: Commencement: Sch. 3 para. 20 in force at 1.12.2019, see art. 1(1)
+[^c-c3b7043b2267fd2af651e736163481b5]: Commencement: Sch. 3 para. 20 in force at 1.12.2019, see art. 1(1)
 
-[^key-a477705154133703f96762423f969eb6]: Commencement: Sch. 3 para. 21 in force at 1.12.2019, see art. 1(1)
+[^c-a477705154133703f96762423f969eb6]: Commencement: Sch. 3 para. 21 in force at 1.12.2019, see art. 1(1)
 
-[^key-a6c4176d3d303efaea8427eec8f2c769]: Commencement: Sch. 3 para. 22 in force at 1.12.2019, see art. 1(1)
+[^c-a6c4176d3d303efaea8427eec8f2c769]: Commencement: Sch. 3 para. 22 in force at 1.12.2019, see art. 1(1)
 
-[^key-3d1c9f7b1ddd44920ed4dd2dd48d5c52]: Commencement: Sch. 3 para. 23 in force at 1.12.2019, see art. 1(1)
+[^c-3d1c9f7b1ddd44920ed4dd2dd48d5c52]: Commencement: Sch. 3 para. 23 in force at 1.12.2019, see art. 1(1)
 
-[^key-785cde49015dd3df294cfd17a6138dc1]: Commencement: Sch. 3 para. 24 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-785cde49015dd3df294cfd17a6138dc1]: Commencement: Sch. 3 para. 24 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-bfae7b6487684640d6993f05bf52dbdc]: Commencement: Sch. 3 para. 25 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-bfae7b6487684640d6993f05bf52dbdc]: Commencement: Sch. 3 para. 25 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-1bfd9345eb6f7c0b6cdc779f218bd5fd]: Commencement: Sch. 3 para. 26 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-1bfd9345eb6f7c0b6cdc779f218bd5fd]: Commencement: Sch. 3 para. 26 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-bd842036408952be91a22d317b175b2f]: Commencement: Sch. 3 para. 27 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-bd842036408952be91a22d317b175b2f]: Commencement: Sch. 3 para. 27 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-f7dec2f4f863864a44f5d5b3766872bc]: Commencement: Sch. 3 para. 28 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-f7dec2f4f863864a44f5d5b3766872bc]: Commencement: Sch. 3 para. 28 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-848956b6278c3249639ac42869f39e27]: Commencement: Sch. 3 para. 29 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
+[^c-848956b6278c3249639ac42869f39e27]: Commencement: Sch. 3 para. 29 in force at 1.12.2019, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2019/527/article/1/1)
 
-[^key-15249abc6336d54d4057567f92069d23]: Textual amendment: [Sch. 3 para. 29(4)](https://www.legislation.gov.uk/uksi/2019/527/schedule/3/paragraph/29/4)[(5)](https://www.legislation.gov.uk/uksi/2019/527/schedule/3/paragraph/29/5) inserted (E.W.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(5)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/5)
+[^c-15249abc6336d54d4057567f92069d23]: Textual amendment: [Sch. 3 para. 29(4)](https://www.legislation.gov.uk/uksi/2019/527/schedule/3/paragraph/29/4)[(5)](https://www.legislation.gov.uk/uksi/2019/527/schedule/3/paragraph/29/5) inserted (E.W.) (31.12.2020) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/ii), [9(5)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/9/5)
 
-[^key-db0f85c6d771126e7e1ebbfb8efba1ff]: Commencement: Sch. 3 para. 30 in force at 1.12.2019, see art. 1(1)
+[^c-db0f85c6d771126e7e1ebbfb8efba1ff]: Commencement: Sch. 3 para. 30 in force at 1.12.2019, see art. 1(1)
 
-[^key-7ccb603ed046dfe276ff3e7b35fc73ab]: Commencement: Sch. 3 para. 31 in force at 1.12.2019, see art. 1(1)
+[^c-7ccb603ed046dfe276ff3e7b35fc73ab]: Commencement: Sch. 3 para. 31 in force at 1.12.2019, see art. 1(1)
 
-[^key-898e9037435a5520e30fcc5294228a78]: Commencement: Sch. 3 para. 32 in force at 1.12.2019, see art. 1(1)
+[^c-898e9037435a5520e30fcc5294228a78]: Commencement: Sch. 3 para. 32 in force at 1.12.2019, see art. 1(1)
 
-[^key-7275bf8c66400b240d174f844dbe5771]: Commencement: Sch. 3 para. 33 in force at 1.12.2019, see art. 1(1)
+[^c-7275bf8c66400b240d174f844dbe5771]: Commencement: Sch. 3 para. 33 in force at 1.12.2019, see art. 1(1)
 
-[^key-3125acb1a7ec94a05bcb2f544537012d]: Commencement: Sch. 3 para. 34 in force at 1.12.2019, see art. 1(1)
+[^c-3125acb1a7ec94a05bcb2f544537012d]: Commencement: Sch. 3 para. 34 in force at 1.12.2019, see art. 1(1)
 
-[^key-4492ccaaa770814df2becfb2d39c0777]: Commencement: Sch. 3 para. 35 in force at 1.12.2019, see art. 1(1)
+[^c-4492ccaaa770814df2becfb2d39c0777]: Commencement: Sch. 3 para. 35 in force at 1.12.2019, see art. 1(1)
 
-[^key-653c3cafd30679efd4861a42ae09c339]: Commencement: Sch. 3 para. 36 in force at 1.12.2019, see art. 1(1)
+[^c-653c3cafd30679efd4861a42ae09c339]: Commencement: Sch. 3 para. 36 in force at 1.12.2019, see art. 1(1)
 
-[^key-0a4c46036d53c750f95f9037afe160e5]: Commencement: Sch. 3 para. 37 in force at 1.12.2019, see art. 1(1)
+[^c-0a4c46036d53c750f95f9037afe160e5]: Commencement: Sch. 3 para. 37 in force at 1.12.2019, see art. 1(1)
 
-[^key-c3097a69b08dc19c0f2364fcb02fb0fa]: Commencement: Sch. 4 para. 1 in force at 1.12.2019, see art. 1(1)
+[^c-c3097a69b08dc19c0f2364fcb02fb0fa]: Commencement: Sch. 4 para. 1 in force at 1.12.2019, see art. 1(1)
 
 [^c23629411]: Marginal citation: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69). Section 14 of the Act was amended by section 102 of, and Part 4 of Schedule 16 to, the [Countryside and Rights of Way Act 2000 (c. 16)](https://www.legislation.gov.uk/ukpga/2000/16) and sections 23 and 25 of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 14ZA was inserted by section 50 of the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) and amended by section 25(3) of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). Schedule 9 was amended by sections 24 and 25 of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7); [S.I. 1992/320](https://www.legislation.gov.uk/uksi/1992/320), 1992/2674, 1997/226, 1999/1002, 2010/609 and (in relation to Wales) 2015/1180. Schedule 9A was inserted by section 23(3) of the [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). There are other amendments which are not relevant.
 
-[^key-7d7b94755299aab088250647023392b0]: Commencement: Sch. 4 para. 2 in force at 1.12.2019, see art. 1(1)
+[^c-7d7b94755299aab088250647023392b0]: Commencement: Sch. 4 para. 2 in force at 1.12.2019, see art. 1(1)
 
 [^c23629421]: Marginal citation: [S.I. 1996/1104](https://www.legislation.gov.uk/uksi/1996/1104), amended by section 73(2) of the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37); [S.I. 1996/1374](https://www.legislation.gov.uk/uksi/1996/1374) and 2011/2292.
 
-[^key-dd27f912790446a609b0d937e8d0f383]: Commencement: Sch. 4 para. 3 in force at 1.12.2019, see art. 1(1)
+[^c-dd27f912790446a609b0d937e8d0f383]: Commencement: Sch. 4 para. 3 in force at 1.12.2019, see art. 1(1)
 
 [^c23629431]: Marginal citation: [S.I. 2014/538](https://www.legislation.gov.uk/uksi/2014/538).

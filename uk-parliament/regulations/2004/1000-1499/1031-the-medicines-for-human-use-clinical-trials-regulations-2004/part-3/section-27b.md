@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Publication of information[^key-20a99f083388b1609134764a314d3745]
+## 27B. Publication of information[^c-20a99f083388b1609134764a314d3745]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20a99f083388b1609134764a314d3745]: Textual amendment: Reg. 27B substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2025/538/regulation/16)
+[^c-20a99f083388b1609134764a314d3745]: Textual amendment: Reg. 27B substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2025/538/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Removal orders[^key-2e50bc5b0302f0a60dcb4229a2f00d78]
+## 14. Removal orders[^c-2e50bc5b0302f0a60dcb4229a2f00d78]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e50bc5b0302f0a60dcb4229a2f00d78]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2007/10/section/14) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-2e50bc5b0302f0a60dcb4229a2f00d78]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2007/10/section/14) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

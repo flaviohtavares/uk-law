@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 178. Children's hearing: disclosure of information[^key-b4540f6342eaf6a9074760309181944b]
+## 178. Children's hearing: disclosure of information[^c-b4540f6342eaf6a9074760309181944b]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4540f6342eaf6a9074760309181944b]: Commencement: S. 178 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b4540f6342eaf6a9074760309181944b]: Commencement: S. 178 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

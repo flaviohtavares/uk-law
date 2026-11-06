@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Her Majesty's Inspectors of Education, Children's Services and Skills[^key-2ace4c0219d20c5fee46a245c63faa0e][^c17507791]
+## 114. Her Majesty's Inspectors of Education, Children's Services and Skills[^c-2ace4c0219d20c5fee46a245c63faa0e][^c17507791]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ is to become, as from that day, one of Her Majesty's Inspectors of Education, Ch
 
 ## Annotations
 
-[^key-2ace4c0219d20c5fee46a245c63faa0e]: Commencement: S. 114 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(s)](https://www.legislation.gov.uk/uksi/2007/935/article/5/s)
+[^c-2ace4c0219d20c5fee46a245c63faa0e]: Commencement: S. 114 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(s)](https://www.legislation.gov.uk/uksi/2007/935/article/5/s)
 
 [^c17507791]: Commencement: S. 114 partly in force; s. 114 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see [s. 188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1)

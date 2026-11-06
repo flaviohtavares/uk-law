@@ -60,7 +60,7 @@ This Order may be cited as the Road Races (Northern Ireland) Order 1986 and shal
 
 (1) Subject to the following provisions of this Article, the Department may, upon the application of any promoter, by order declare that any road specified in the order may be used for or in connection with motor races during the whole or any part of any days so specified.
 
-(1A)[^key-78ee42b240d2c5df304779d16314d65c] An order under this Article may, in addition, specify the whole or part of not more than two other days for the purposes of paragraph (1E) (“contingency days”).
+(1A)[^c-78ee42b240d2c5df304779d16314d65c] An order under this Article may, in addition, specify the whole or part of not more than two other days for the purposes of paragraph (1E) (“contingency days”).
 
 (1B) A contingency day must be one of the two days falling immediately before or immediately after a day specified under paragraph (1).
 
@@ -105,7 +105,7 @@ the Department may, on an application made by the promoter in accordance with pa
 
 (8) The Department shall secure that such public notice of the provisions of an order made under this Article is given as the Department considers appropriate to bring the effect of the order to the attention of the public.
 
-(8A)[^key-047ae72c7b1a03ff0cf213ef093bfd04] The Department shall also secure that such public notice is given of the effect of any direction under paragraph (1E) as the Department considers appropriate for bringing the effect of the direction to the attention of the public.
+(8A)[^c-047ae72c7b1a03ff0cf213ef093bfd04] The Department shall also secure that such public notice is given of the effect of any direction under paragraph (1E) as the Department considers appropriate for bringing the effect of the direction to the attention of the public.
 
 (9) Paragraphs (2) and (3) do not apply to an order made under this Article in respect of a motor race—
 
@@ -246,6 +246,6 @@ Article 8
 
 [^c5469331]: Textual amendment: [1993 NI 15](https://www.legislation.gov.uk/1993/ni15)
 
-[^key-78ee42b240d2c5df304779d16314d65c]: Textual amendment: Art. 3(1A)-(1G) inserted (18.1.2014) by [Road Races (Amendment) Act (Northern Ireland) 2014 (c. 1)](https://www.legislation.gov.uk/nia/2014/1), [s. 1(2)](https://www.legislation.gov.uk/nia/2014/1/section/1/2)[(4)(a)](https://www.legislation.gov.uk/nia/2014/1/section/1/4/a)
+[^c-78ee42b240d2c5df304779d16314d65c]: Textual amendment: Art. 3(1A)-(1G) inserted (18.1.2014) by [Road Races (Amendment) Act (Northern Ireland) 2014 (c. 1)](https://www.legislation.gov.uk/nia/2014/1), [s. 1(2)](https://www.legislation.gov.uk/nia/2014/1/section/1/2)[(4)(a)](https://www.legislation.gov.uk/nia/2014/1/section/1/4/a)
 
-[^key-047ae72c7b1a03ff0cf213ef093bfd04]: Textual amendment: [Art. 3(8A)](https://www.legislation.gov.uk/nisi/1986/1887/article/3/8A) inserted (18.1.2014) by [Road Races (Amendment) Act (Northern Ireland) 2014 (c. 1)](https://www.legislation.gov.uk/nia/2014/1), [s. 1(3)](https://www.legislation.gov.uk/nia/2014/1/section/1/3)[(4)(a)](https://www.legislation.gov.uk/nia/2014/1/section/1/4/a)
+[^c-047ae72c7b1a03ff0cf213ef093bfd04]: Textual amendment: [Art. 3(8A)](https://www.legislation.gov.uk/nisi/1986/1887/article/3/8A) inserted (18.1.2014) by [Road Races (Amendment) Act (Northern Ireland) 2014 (c. 1)](https://www.legislation.gov.uk/nia/2014/1), [s. 1(3)](https://www.legislation.gov.uk/nia/2014/1/section/1/3)[(4)(a)](https://www.legislation.gov.uk/nia/2014/1/section/1/4/a)

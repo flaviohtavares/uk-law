@@ -36,7 +36,7 @@ that work requires to be carried out for the purposes of complying with it.
 
 (4) The landlord complies with the duty imposed by subsection (1)(b) only if any work which requires to be carried out for the purposes of complying with that duty is completed within a reasonable time of the landlord being notified by the tenant, or otherwise becoming aware, that the work is required.
 
-(5)[^key-ee40d37e29e33960101cc4c75e2f4e0c] If the landlord is notified by the tenant, or otherwise becomes aware, that the house is or may be affected by damp or mould, the landlord must ensure that an investigation is carried out by a competent person to determine—
+(5)[^c-ee40d37e29e33960101cc4c75e2f4e0c] If the landlord is notified by the tenant, or otherwise becomes aware, that the house is or may be affected by damp or mould, the landlord must ensure that an investigation is carried out by a competent person to determine—
 
 - (a) whether or not the house is substantially free from damp and mould, and
 - (b) if not, whether any relevant safety work is required in relation to the house.
@@ -68,4 +68,4 @@ that work requires to be carried out for the purposes of complying with it.
 
 ## Annotations
 
-[^key-ee40d37e29e33960101cc4c75e2f4e0c]: Textual amendment: [S. 14(5)-(11)](https://www.legislation.gov.uk/asp/2006/1/section/14/5) inserted (6.10.2026) by [The Investigation and Commencement of Repair (Scotland) Regulations 2026 (S.S.I. 2026/173)](https://www.legislation.gov.uk/ssi/2026/173), [regs. 1](https://www.legislation.gov.uk/ssi/2026/173/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/173/regulation/3/3)
+[^c-ee40d37e29e33960101cc4c75e2f4e0c]: Textual amendment: [S. 14(5)-(11)](https://www.legislation.gov.uk/asp/2006/1/section/14/5) inserted (6.10.2026) by [The Investigation and Commencement of Repair (Scotland) Regulations 2026 (S.S.I. 2026/173)](https://www.legislation.gov.uk/ssi/2026/173), [regs. 1](https://www.legislation.gov.uk/ssi/2026/173/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2026/173/regulation/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122A. Power to set minimum remuneration of Academy teachers etc[^key-6f74c7c6392f350e4b38984f9803d59e]
+## 122A. Power to set minimum remuneration of Academy teachers etc[^c-6f74c7c6392f350e4b38984f9803d59e]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f74c7c6392f350e4b38984f9803d59e]: Textual amendment: S. 122A inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/5)
+[^c-6f74c7c6392f350e4b38984f9803d59e]: Textual amendment: S. 122A inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(2)(i)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/i), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2026/21/schedule/3/paragraph/5)

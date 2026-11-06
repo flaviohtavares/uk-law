@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Abolition of Adjudicator[^key-2f31c57e2bf219db0b8c9de20dbe3bad]
+## 66. Abolition of Adjudicator[^c-2f31c57e2bf219db0b8c9de20dbe3bad]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f31c57e2bf219db0b8c9de20dbe3bad]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2015/26/section/66) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-2f31c57e2bf219db0b8c9de20dbe3bad]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2015/26/section/66) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

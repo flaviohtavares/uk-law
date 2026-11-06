@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Persons who are not members of the public[^key-daf98bc5678a098044573ba08cc9af00]
+## 40. Persons who are not members of the public[^c-daf98bc5678a098044573ba08cc9af00]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-daf98bc5678a098044573ba08cc9af00]: Commencement: Reg. 40 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-daf98bc5678a098044573ba08cc9af00]: Commencement: Reg. 40 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00034]: Footnote: [S.I. 2021/793](https://www.legislation.gov.uk/uksi/2021/793).
 

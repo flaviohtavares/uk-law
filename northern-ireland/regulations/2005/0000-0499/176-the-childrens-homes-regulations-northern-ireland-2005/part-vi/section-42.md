@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Revocations[^key-52e406ceb1b5ae70b814b4219734550d]
+## 42. Revocations[^c-52e406ceb1b5ae70b814b4219734550d]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ The following Regulations are revoked –
 
 ## Annotations
 
-[^key-52e406ceb1b5ae70b814b4219734550d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2005/176/regulation/42) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-52e406ceb1b5ae70b814b4219734550d]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2005/176/regulation/42) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
 [^f00019]: Footnote: [S.R. 1996 No. 479](https://www.legislation.gov.uk/nisr/1996/479)
 

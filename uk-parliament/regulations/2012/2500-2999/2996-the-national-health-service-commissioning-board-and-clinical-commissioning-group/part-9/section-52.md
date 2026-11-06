@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Duty to make arrangements to diagnose or rule out cancer[^key-616504754d585b823a372ce4be803843]
+## 52. Duty to make arrangements to diagnose or rule out cancer[^c-616504754d585b823a372ce4be803843]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ the period of time specified in paragraph (5) is excluded from the calculation o
 
 ## Annotations
 
-[^key-616504754d585b823a372ce4be803843]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/uksi/2012/2996/regulation/52) substituted (1.4.2024) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2024 (S.I. 2024/302)](https://www.legislation.gov.uk/uksi/2024/302), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/302/regulation/1/b), [2(9)](https://www.legislation.gov.uk/uksi/2024/302/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/302/regulation/3))
+[^c-616504754d585b823a372ce4be803843]: Textual amendment: [Reg. 52](https://www.legislation.gov.uk/uksi/2012/2996/regulation/52) substituted (1.4.2024) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) Regulations 2024 (S.I. 2024/302)](https://www.legislation.gov.uk/uksi/2024/302), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/302/regulation/1/b), [2(9)](https://www.legislation.gov.uk/uksi/2024/302/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/302/regulation/3))

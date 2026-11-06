@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of the Explosives Regulations 2014[^key-112b8e6b94831881b0ebae21e4fa46ce]
+## 19. Amendment of the Explosives Regulations 2014[^c-112b8e6b94831881b0ebae21e4fa46ce]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 16 contains amendment of the Explosives Regulations 2014 [^c24326161] a
 
 ## Annotations
 
-[^key-112b8e6b94831881b0ebae21e4fa46ce]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-112b8e6b94831881b0ebae21e4fa46ce]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c24326161]: Marginal citation: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638), amended by [S.I. 2016/315](https://www.legislation.gov.uk/uksi/2016/315). There are other amending instruments but none is relevant. They were made in part under section 2(2) of the European Communities Act 1972 and are accordingly saved by virtue of section 2(2)(a) of the European Union (Withdrawal) Act 2018.

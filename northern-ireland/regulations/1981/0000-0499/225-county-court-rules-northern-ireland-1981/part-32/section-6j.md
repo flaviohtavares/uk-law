@@ -28,7 +28,7 @@ summary: ''
 - (b) the evidence would be improved if a direction were given under Article 24(2) of the 1999 Order; and
 - (c) it would not be contrary to the interests of justice to give such a direction.
 
-(3)[^key-ec07d43923d8f1cd0f2f2a496e0b58fd] On receipt of the application, the chief clerk shall refer it—
+(3)[^c-ec07d43923d8f1cd0f2f2a496e0b58fd] On receipt of the application, the chief clerk shall refer it—
 
 - (a) to a judge; or
 - (b) if the hearing of the appeal has started, to the judge hearing the appeal.
@@ -68,6 +68,6 @@ summary: ''
 
 [^f00308]: Footnote: Rules 6J to 6N inserted by [S.R. 2003 No. 485](https://www.legislation.gov.uk/nisr/2003/485) with effect from 01.01.04
 
-[^key-ec07d43923d8f1cd0f2f2a496e0b58fd]: Textual amendment: Order 32 rule 6J(3) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(f)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/f); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
+[^c-ec07d43923d8f1cd0f2f2a496e0b58fd]: Textual amendment: Order 32 rule 6J(3) substituted (31.10.2016) by [The County Court (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/302)](https://www.legislation.gov.uk/nisr/2016/302), [rules 1](https://www.legislation.gov.uk/nisr/2016/302/rule/1), [3(11)(f)](https://www.legislation.gov.uk/nisr/2016/302/rule/3/11/f); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2](https://www.legislation.gov.uk/nisr/2016/387/article/2)
 
 [^f00309]: Footnote: Words amended by [S.R. 2013 No. 19](https://www.legislation.gov.uk/nisr/2013/19) with effect from 25.02.13

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 4 — Offences where offender not eligible for automatic release under section 255BA after recall[^key-fdad88029f5bdb203a0d66ecd8f0eb7b][^key-0c289415b0bba2a7590d655bed629e56]
+## Schedule 4 — Offences where offender not eligible for automatic release under section 255BA after recall[^c-fdad88029f5bdb203a0d66ecd8f0eb7b][^c-0c289415b0bba2a7590d655bed629e56]
 
 *Extent: E+W*
 
 Section 30(4)
 
-[^key-0c289415b0bba2a7590d655bed629e56]
+[^c-0c289415b0bba2a7590d655bed629e56]
 
 This is the Schedule to be inserted in the Criminal Justice Act 2003 after Schedule 19ZA—
 
@@ -131,6 +131,6 @@ This is the Schedule to be inserted in the Criminal Justice Act 2003 after Sched
 
 ## Annotations
 
-[^key-fdad88029f5bdb203a0d66ecd8f0eb7b]: Commencement: Sch. 4 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-fdad88029f5bdb203a0d66ecd8f0eb7b]: Commencement: Sch. 4 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-0c289415b0bba2a7590d655bed629e56]: Commencement: Sch. 4 in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(v)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/v), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)
+[^c-0c289415b0bba2a7590d655bed629e56]: Commencement: Sch. 4 in force at 31.3.2026 for specified purposes and otherwise coming into force in accordance with reg. 4 by [S.I. 2026/86](https://www.legislation.gov.uk/uksi/2026/86), [regs. 3(b)(v)](https://www.legislation.gov.uk/uksi/2026/86/regulation/3/b/v), [4](https://www.legislation.gov.uk/uksi/2026/86/regulation/4)

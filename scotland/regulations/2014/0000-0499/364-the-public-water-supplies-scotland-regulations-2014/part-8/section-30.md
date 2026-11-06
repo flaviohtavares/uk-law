@@ -24,7 +24,7 @@ summary: ''
 
 (2) Scottish Water must assess each treatment works and its connected supply system (“the combined system”) so as to establish whether or not there is a significant risk of supplying unwholesome water from the combined system (or any part of it).
 
-(2A)[^key-a070514299d8ed32abc333517e88c283] Without prejudice to the generality of paragraph (2), each assessment carried out pursuant to that paragraph must—
+(2A)[^c-a070514299d8ed32abc333517e88c283] Without prejudice to the generality of paragraph (2), each assessment carried out pursuant to that paragraph must—
 
 - (a) seek to establish whether—
   - (i) the measures in place to control risks to human health throughout the water supply chain from the catchment area through abstraction, treatment and storage to distribution are working effectively; and
@@ -50,13 +50,13 @@ summary: ''
   - (i) monitoring data which verifies this; and
   - (ii) details of those measures.
 
-(4) Subject to paragraph (5), each risk assessment must be completed (and recorded) before 1st October 2018[^key-b01fefc6f6dede1bf1e7beff2728f47b].
+(4) Subject to paragraph (5), each risk assessment must be completed (and recorded) before 1st October 2018[^c-b01fefc6f6dede1bf1e7beff2728f47b].
 
-(5) If the combined system (or part of it) is not in use on 27th October 2017[^key-e62ae10c18fd0aaf297576b370d8f033], the risk assessment must be completed (and recorded) before the combined system or, as the case may be, that part of it) is used by Scottish Water to supply water for human consumption purposes.
+(5) If the combined system (or part of it) is not in use on 27th October 2017[^c-e62ae10c18fd0aaf297576b370d8f033], the risk assessment must be completed (and recorded) before the combined system or, as the case may be, that part of it) is used by Scottish Water to supply water for human consumption purposes.
 
-(6)[^key-21914bace219e8ed518c7246c0d110a0] Subject to paragraph (6A), Scottish Water must review and, where necessary, update each risk assessment at least every 5 years (or earlier if it considers that the existing risk assessment is inadequate for any reason).
+(6)[^c-21914bace219e8ed518c7246c0d110a0] Subject to paragraph (6A), Scottish Water must review and, where necessary, update each risk assessment at least every 5 years (or earlier if it considers that the existing risk assessment is inadequate for any reason).
 
-(6A)[^key-d45feb8fb16412a6b20e16b6f2a33b56] Scottish Water must review and, where necessary, update the risk assessment as soon as possible in the event that it becomes aware of any—
+(6A)[^c-d45feb8fb16412a6b20e16b6f2a33b56] Scottish Water must review and, where necessary, update the risk assessment as soon as possible in the event that it becomes aware of any—
 
 - (a) deterioration of the quality of the water;
 - (b) increase in the pollution of a body of water or other source used for the abstraction of the water; or
@@ -70,12 +70,12 @@ which is relevant for the protection of human health and was not previously take
 
 ## Annotations
 
-[^key-a070514299d8ed32abc333517e88c283]: Textual amendment: [Reg. 30(2A)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/2A)[(2B)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/2B) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/a)
+[^c-a070514299d8ed32abc333517e88c283]: Textual amendment: [Reg. 30(2A)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/2A)[(2B)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/2B) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/a)
 
-[^key-b01fefc6f6dede1bf1e7beff2728f47b]: Textual amendment: Word in [reg. 30(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/4) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/b)
+[^c-b01fefc6f6dede1bf1e7beff2728f47b]: Textual amendment: Word in [reg. 30(4)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/4) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/b)
 
-[^key-e62ae10c18fd0aaf297576b370d8f033]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/5) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/c)
+[^c-e62ae10c18fd0aaf297576b370d8f033]: Textual amendment: Words in [reg. 30(5)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/5) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/c)
 
-[^key-21914bace219e8ed518c7246c0d110a0]: Textual amendment: [Reg. 30(6)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/6) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/d)
+[^c-21914bace219e8ed518c7246c0d110a0]: Textual amendment: [Reg. 30(6)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/6) substituted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(d)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/d)
 
-[^key-d45feb8fb16412a6b20e16b6f2a33b56]: Textual amendment: [Reg. 30(6A)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/6A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(e)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/e)
+[^c-d45feb8fb16412a6b20e16b6f2a33b56]: Textual amendment: [Reg. 30(6A)](https://www.legislation.gov.uk/ssi/2014/364/regulation/30/6A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [5(2)(e)](https://www.legislation.gov.uk/ssi/2017/281/regulation/5/2/e)

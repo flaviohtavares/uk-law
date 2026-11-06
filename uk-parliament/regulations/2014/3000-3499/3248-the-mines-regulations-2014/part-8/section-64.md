@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64. Records of substances tipped[^key-3cbe940e3a166bb273b6b74b5ebaa693]
+## 64. Records of substances tipped[^c-3cbe940e3a166bb273b6b74b5ebaa693]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The mine operator must ensure that sufficient records are kept of the nature, qu
 
 ## Annotations
 
-[^key-3cbe940e3a166bb273b6b74b5ebaa693]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/3248/regulation/64) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-3cbe940e3a166bb273b6b74b5ebaa693]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2014/3248/regulation/64) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

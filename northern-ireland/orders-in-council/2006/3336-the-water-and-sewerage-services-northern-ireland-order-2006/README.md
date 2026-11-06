@@ -46,7 +46,7 @@ The Queen's Most Excellent Majesty in Council
 
 Whereas a draft of this Order in Council has been approved by resolution of each House of Parliament:
 
-[^c20587391]Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-fd37d5c8657b28c6b5e04893f415eeaf][^key-5232010b75510077c56135bc86dd06bf]
+[^c20587391]Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(1) of the Schedule to the Northern Ireland Act 2000 (c. 1) and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-fd37d5c8657b28c6b5e04893f415eeaf][^c-5232010b75510077c56135bc86dd06bf]
 
 ## Contents
 
@@ -354,7 +354,7 @@ Whereas a draft of this Order in Council has been approved by resolution of each
 - [Section 157 — Further duty to provide sewers](part-vi/section-157.md)
 - [Section 158 — Power to construct lateral drains following provision of public sewer](part-vi/section-158.md)
 
-##### Adoption of sewers , sustainable drainage systems and waste water treatment works[^key-d65b4e3a5bee00c1875bb29affc9f051]
+##### Adoption of sewers , sustainable drainage systems and waste water treatment works[^c-d65b4e3a5bee00c1875bb29affc9f051]
 
 *Extent: N.I.*
 
@@ -687,10 +687,10 @@ Deputy Clerk of the Privy Council
 
 [^c20587391]: Modification: Order modified (1.4.2007) by [Urban Waste Water Treatment Regulations (Northern Ireland) 2007 (S.R. 2007/187)](https://www.legislation.gov.uk/nisr/2007/187), [reg. 6(1)](https://www.legislation.gov.uk/nisr/2007/187/regulation/6/1)
 
-[^key-fd37d5c8657b28c6b5e04893f415eeaf]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/3336) Power to amend conferred (23.3.2016) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 3(1)](https://www.legislation.gov.uk/nia/2016/7/section/3/1)
+[^c-fd37d5c8657b28c6b5e04893f415eeaf]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/3336) Power to amend conferred (23.3.2016) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 3(1)](https://www.legislation.gov.uk/nia/2016/7/section/3/1)
 
-[^key-5232010b75510077c56135bc86dd06bf]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/3336): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5232010b75510077c56135bc86dd06bf]: Modification: [Order](https://www.legislation.gov.uk/nisi/2006/3336): power to amend conferred (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 138(2)-(7)](https://www.legislation.gov.uk/ukpga/2024/13/section/138/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-d65b4e3a5bee00c1875bb29affc9f051]: Textual amendment: Words in [art. 159 cross-heading](https://www.legislation.gov.uk/nisi/2006/3336/part/VI/chapter/II/crossheading/adoption-of-sewers-and-waste-water-treatment-works) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/3)
+[^c-d65b4e3a5bee00c1875bb29affc9f051]: Textual amendment: Words in [art. 159 cross-heading](https://www.legislation.gov.uk/nisi/2006/3336/part/VI/chapter/II/crossheading/adoption-of-sewers-and-waste-water-treatment-works) inserted (24.5.2016 with application as mentioned in s. 8(1) of the amending Act) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [s. 8](https://www.legislation.gov.uk/nia/2016/7/section/8), [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2016/7/schedule/2/paragraph/3)
 
 [^c20599341]: Modification: [Pt. VI Ch. III](https://www.legislation.gov.uk/nisi/2006/3336/part/VI/chapter/III) (arts. 175-199) excluded (1.4.2007) by [Urban Waste Water Treatment Regulations (Northern Ireland) 2007 (S.R. 2007/187)](https://www.legislation.gov.uk/nisr/2007/187), [reg. 9(6)](https://www.legislation.gov.uk/nisr/2007/187/regulation/9/6)

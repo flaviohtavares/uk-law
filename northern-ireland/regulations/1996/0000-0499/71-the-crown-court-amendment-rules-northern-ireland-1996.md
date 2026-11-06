@@ -44,13 +44,13 @@ Coming into operation
 
 We, the Crown Court Rules Committee in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001], Articles 81(5) and 81A(11) of the Police and Criminal Evidence (Northern Ireland) Order 1989[^f00002] and of all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-b21601e6fff0231791497731b98b081d]
+## 1. Citation, commencement and interpretation[^c-b21601e6fff0231791497731b98b081d]
 
-(1) These Rules may be cited as the Crown Court (Amendment) Rules (Northern Ireland)[^key-0f36a9a0fb6654b79e3590ac85294fd3] 1996 and shall come into operation on 8th April 1996.
+(1) These Rules may be cited as the Crown Court (Amendment) Rules (Northern Ireland)[^c-0f36a9a0fb6654b79e3590ac85294fd3] 1996 and shall come into operation on 8th April 1996.
 
 (2) In these Rules, “the principal Rules” shall mean the Crown Court Rules (Northern Ireland) 1979[^f00003] and a reference to a rule by number shall mean a rule so numbered in the principal Rules.
 
-## 2. Amendment to the principal Rules[^key-ba368a2a01c03cd2533cf68be19c6df0]
+## 2. Amendment to the principal Rules[^c-ba368a2a01c03cd2533cf68be19c6df0]
 
 For rule 44B there shall be substituted the following rule—
 
@@ -99,7 +99,7 @@ For rule 44B there shall be substituted the following rule—
 
 .
 
-## 3.[^key-88b1810162a069642ba09815370c1e5c]
+## 3.[^c-88b1810162a069642ba09815370c1e5c]
 
 After rule 44B there shall be added the following rule
 
@@ -159,11 +159,11 @@ After rule 44B there shall be added the following rule
 
 .
 
-## 4.[^key-ce4db4d8a815df0cbbfbd79e50157d20]
+## 4.[^c-ce4db4d8a815df0cbbfbd79e50157d20]
 
 Rule 44 shall be amended by inserting after the words “Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988” the words “or Article 4 of the Children’s Evidence (Northern Ireland) Order 1995”.
 
-## 5.[^key-90464f77347b929a9002d90389a66297]
+## 5.[^c-90464f77347b929a9002d90389a66297]
 
 The principal Rules shall be further amended by—
 
@@ -200,7 +200,7 @@ Mackay of Clashfern, C.
 
 Dated 5th March 1996.
 
-## SCHEDULE[^key-effb0cd4e4ade822645725350c758c03]
+## SCHEDULE[^c-effb0cd4e4ade822645725350c758c03]
 
 Rule 3
 
@@ -246,26 +246,26 @@ Rule 5 and the Schedule provide for the necessary forms for use in connection wi
 
 [^f00002]: Footnote: S.I. [1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341); to which the most recent amendments were made by S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
-[^key-b21601e6fff0231791497731b98b081d]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/71/article/1) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+[^c-b21601e6fff0231791497731b98b081d]: Commencement: [Rule 1](https://www.legislation.gov.uk/nisr/1996/71/article/1) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
 
-[^key-0f36a9a0fb6654b79e3590ac85294fd3]: Textual amendment: Words in [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1) inserted (25.8.1996) by [The Crown Court (Amendment No. 2) Rules (Northern Ireland) 1996 (S.R. 1996/281)](https://www.legislation.gov.uk/nisr/1996/281), [rules 1(1)](https://www.legislation.gov.uk/nisr/1996/281/article/1/1), [4](https://www.legislation.gov.uk/nisr/1996/281/article/4) (with [rule 3](https://www.legislation.gov.uk/nisr/1996/281/article/3))
+[^c-0f36a9a0fb6654b79e3590ac85294fd3]: Textual amendment: Words in [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1) inserted (25.8.1996) by [The Crown Court (Amendment No. 2) Rules (Northern Ireland) 1996 (S.R. 1996/281)](https://www.legislation.gov.uk/nisr/1996/281), [rules 1(1)](https://www.legislation.gov.uk/nisr/1996/281/article/1/1), [4](https://www.legislation.gov.uk/nisr/1996/281/article/4) (with [rule 3](https://www.legislation.gov.uk/nisr/1996/281/article/3))
 
 [^f00003]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90); to which the most recent relevant amendments were made by [S.R. 1989 No. 393](https://www.legislation.gov.uk/nisr/1989/393)
 
-[^key-ba368a2a01c03cd2533cf68be19c6df0]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/71/article/2) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+[^c-ba368a2a01c03cd2533cf68be19c6df0]: Commencement: [Rule 2](https://www.legislation.gov.uk/nisr/1996/71/article/2) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
 
 [^f00004]: Footnote: S.I. [1988/1846 (N.I. 16)](https://www.legislation.gov.uk/nisi/1988/1846)
 
 [^f00005]: Footnote: [1969 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1969/15)
 
-[^key-88b1810162a069642ba09815370c1e5c]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/71/article/3) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+[^c-88b1810162a069642ba09815370c1e5c]: Commencement: [Rule 3](https://www.legislation.gov.uk/nisr/1996/71/article/3) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
 
 [^f00006]: Footnote: S.I. [1995/757 (N.I. 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
 [^f00007]: Footnote: [1969 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1969/15)
 
-[^key-ce4db4d8a815df0cbbfbd79e50157d20]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/71/article/4) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+[^c-ce4db4d8a815df0cbbfbd79e50157d20]: Commencement: [Rule 4](https://www.legislation.gov.uk/nisr/1996/71/article/4) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
 
-[^key-90464f77347b929a9002d90389a66297]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/71/article/5) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+[^c-90464f77347b929a9002d90389a66297]: Commencement: [Rule 5](https://www.legislation.gov.uk/nisr/1996/71/article/5) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
 
-[^key-effb0cd4e4ade822645725350c758c03]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/71/schedule) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)
+[^c-effb0cd4e4ade822645725350c758c03]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/1996/71/schedule) in operation at 8.4.1996, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1996/71/article/1/1)

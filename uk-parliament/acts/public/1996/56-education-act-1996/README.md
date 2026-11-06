@@ -33,7 +33,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 \[24th July 1996\]
 
-[^c15241081][^c19112111][^c19112121][^c18137611][^c15241071]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-07b340948e1d3a0af3bcca1ebbab37d8][^key-abd602ed50e680a8b52e9bdbbc066c56][^key-48eb0c5ba1ce61be3bdeb09b9785b294][^key-50a7fcc314fabfe05fccffe19dfea65e][^key-a79aebb54fb72e6dc97c436dfdc2b430][^key-5d2c173355d9c0e0853c8350670e9523][^key-f3381d48e2a04585eb076eb7595203fa][^key-31b669b4b107f77c83f9dd4ba0a193e8][^key-1fd9ae92b4e8674f064b9efd8566d2ef][^key-7162c82eb23c3702ec33b8411750068a][^key-610103d85bb97d16fc0a42a3f0c59d69][^key-5833d9377479ace25b945d8d4ce95dec][^key-b16c1e2eac2888f3f015b7145f828599][^key-4a5e6f27ff9e8bdab4cd3cf5df62931d][^key-408f3e2aa15c7520dc4f1d83b7a2e523][^key-dc1bed0a2b4721d6ce564eca8117a7c4]
+[^c15241081][^c19112111][^c19112121][^c18137611][^c15241071]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-07b340948e1d3a0af3bcca1ebbab37d8][^c-abd602ed50e680a8b52e9bdbbc066c56][^c-48eb0c5ba1ce61be3bdeb09b9785b294][^c-50a7fcc314fabfe05fccffe19dfea65e][^c-a79aebb54fb72e6dc97c436dfdc2b430][^c-5d2c173355d9c0e0853c8350670e9523][^c-f3381d48e2a04585eb076eb7595203fa][^c-31b669b4b107f77c83f9dd4ba0a193e8][^c-1fd9ae92b4e8674f064b9efd8566d2ef][^c-7162c82eb23c3702ec33b8411750068a][^c-610103d85bb97d16fc0a42a3f0c59d69][^c-5833d9377479ace25b945d8d4ce95dec][^c-b16c1e2eac2888f3f015b7145f828599][^c-4a5e6f27ff9e8bdab4cd3cf5df62931d][^c-408f3e2aa15c7520dc4f1d83b7a2e523][^c-dc1bed0a2b4721d6ce564eca8117a7c4]
 
 ## Contents
 
@@ -77,7 +77,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 10 — General duty of Secretary of State.](part-i/section-10.md)
 - [Section 11 — Duty in the case of primary, secondary and further education.](part-i/section-11.md)
 
-#### Chapter III — local authorities[^key-df82d42709314c7296748c08b3554faa]
+#### Chapter III — local authorities[^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
@@ -115,7 +115,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 19 — Exceptional provision of education in pupil referral units or elsewhere : England](part-i/section-19.md)
 - [Section 19A — Exceptional provision of education in pupil referral units or elsewhere: Wales](part-i/section-19a.md)
 
-##### Contribution of individual schools[^key-2191e21cbad80b89f2e2eaee6fc104ab]
+##### Contribution of individual schools[^c-2191e21cbad80b89f2e2eaee6fc104ab]
 
 - [Section 19B — Schools to co-operate with local authority in securing adequate provision (England)](part-i/section-19b.md)
 
@@ -245,13 +245,13 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 66 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-66.md)
 - [Section 67 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-67.md)
 
-##### Assistance by local authorities for governing bodies of aided and special agreement schools[^key-df82d42709314c7296748c08b3554faa]
+##### Assistance by local authorities for governing bodies of aided and special agreement schools[^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
 - [Section 68 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ii/section-68.md)
 
-##### Assistance by local authorities for promoters of new voluntary schools[^key-df82d42709314c7296748c08b3554faa]
+##### Assistance by local authorities for promoters of new voluntary schools[^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
@@ -722,26 +722,26 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 311 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-311.md)
 
-### Part IV — Special educational needs[^key-5da470f3949372b4fa4585dc480dea3a]
+### Part IV — Special educational needs[^c-5da470f3949372b4fa4585dc480dea3a]
 
 *Extent: E+W*
 
-#### Chapter I (affected by repeal, see note) — Children (affected by repeal, see note) in wales (affected by repeal, see note) with special educational needs (affected by repeal, see note)[^key-a26091f02a6f098b8797ebca0f491930][^key-44c659fdf3ae27bfa95ab072d6157d41][^key-44c659fdf3ae27bfa95ab072d6157d41][^key-b577f0dd48c732488ded6dfab14699bc][^key-44c659fdf3ae27bfa95ab072d6157d41][^key-44c659fdf3ae27bfa95ab072d6157d41]
+#### Chapter I (affected by repeal, see note) — Children (affected by repeal, see note) in wales (affected by repeal, see note) with special educational needs (affected by repeal, see note)[^c-a26091f02a6f098b8797ebca0f491930][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-b577f0dd48c732488ded6dfab14699bc][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 *Extent: E+W*
 
-##### Introductory (affected by repeal, see note)[^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### Introductory (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 - [Section 311A — Application of this Chapter: children in Wales](part-iv/section-311a.md)
 - [Section 312 — Meaning of “special educational needs” and “special educational provision” etc.](part-iv/section-312.md)
 - [Section 312A — Children subject to detention](part-iv/section-312a.md)
 
-##### Code of Practice (affected by repeal, see note)[^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### Code of Practice (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 - [Section 313 — Code of Practice.](part-iv/section-313.md)
 - [Section 314 — Making and approval of code.](part-iv/section-314.md)
 
-##### Special educational provision: general (affected by repeal, see note)[^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### Special educational provision: general (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 *Extent: E+W*
 
@@ -754,7 +754,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 319 — Special educational provision otherwise than in schools.](part-iv/section-319.md)
 - [Section 320 — Provision outside England and Wales for certain children.](part-iv/section-320.md)
 
-##### Identification and assessment of children with special educational needs (affected by repeal, see note)[^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### Identification and assessment of children with special educational needs (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 *Extent: E+W*
 
@@ -774,13 +774,13 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 331 — Assessment of educational needs of children under two.](part-iv/section-331.md)
 - [Section 332 — Duty of Local Health Board or National Health Service trust to notify parent etc.](part-iv/section-332.md)
 
-##### Appeals by children (affected by repeal, see note)[^key-a59a0d0f77f148cd9cf15817c0afa5ec][^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### Appeals by children (affected by repeal, see note)[^c-a59a0d0f77f148cd9cf15817c0afa5ec][^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 - [Section 332ZA — Right of a child to appeal to the ... Tribunal](part-iv/section-332za.md)
 - [Section 332ZB — Notice and service of documents on a child](part-iv/section-332zb.md)
 - [Section 332ZC — Case friends ...](part-iv/section-332zc.md)
 
-##### General duties of (affected by repeal, see note) local authorities (affected by repeal, see note)[^c15247411][^key-44c659fdf3ae27bfa95ab072d6157d41][^key-df82d42709314c7296748c08b3554faa][^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### General duties of (affected by repeal, see note) local authorities (affected by repeal, see note)[^c15247411][^c-44c659fdf3ae27bfa95ab072d6157d41][^c-df82d42709314c7296748c08b3554faa][^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 - [Section 332A — Advice and information for parents — England](part-iv/section-332a.md)
 - [Section 332AA — Advice and information ...](part-iv/section-332aa.md)
@@ -788,7 +788,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 332BA — Resolution of disputes ...](part-iv/section-332ba.md)
 - [Section 332BB — Independent advocacy services ...](part-iv/section-332bb.md)
 
-##### ...[^key-158b95d33efc08f0b7be50cfc97a92db][^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### ...[^c-158b95d33efc08f0b7be50cfc97a92db][^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 *Extent: (E+W)*
 
@@ -796,7 +796,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 332D — Publication of information](part-iv/section-332d.md)
 - [Section 332E — Interpretation of sections 332C and 332D](part-iv/section-332e.md)
 
-##### Special Educational Needs Tribunal (affected by repeal, see note) for Wales (affected by repeal, see note)[^key-44c659fdf3ae27bfa95ab072d6157d41][^key-1dd373d739305568cfcd2248102451a7][^key-44c659fdf3ae27bfa95ab072d6157d41]
+##### Special Educational Needs Tribunal (affected by repeal, see note) for Wales (affected by repeal, see note)[^c-44c659fdf3ae27bfa95ab072d6157d41][^c-1dd373d739305568cfcd2248102451a7][^c-44c659fdf3ae27bfa95ab072d6157d41]
 
 *Extent: E+W*
 
@@ -812,7 +812,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 *Extent: E+W*
 
-##### Interpretation[^key-6109e8626624d81ee6bb1bb304340e58]
+##### Interpretation[^c-6109e8626624d81ee6bb1bb304340e58]
 
 *Extent: E+W*
 
@@ -834,11 +834,11 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 342 — Approval of non-maintained special schools.](part-iv/section-342.md)
 
-##### Non-maintained special schools in England: protection of pupils in an emergency[^key-61407902398b90b10340d3ceb0ef6bf8]
+##### Non-maintained special schools in England: protection of pupils in an emergency[^c-61407902398b90b10340d3ceb0ef6bf8]
 
 - [Section 342A — Application to justice of the peace: power to make regulations](part-iv/section-342a.md)
 
-##### Non-maintained special schools in England: appeals[^key-aa07d8b12e97150cabab051f636e1822]
+##### Non-maintained special schools in England: appeals[^c-aa07d8b12e97150cabab051f636e1822]
 
 - [Section 342B — Appeal against decision of Secretary of State](part-iv/section-342b.md)
 - [Section 342C — Appeal against order of justice of peace](part-iv/section-342c.md)
@@ -982,7 +982,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 398 — No requirement of attendance at Sunday school etc.](part-v/section-398.md)
 - [Section 399 — Determination of question whether religious education in accordance with trust deed.](part-v/section-399.md)
 
-#### Chapter IV — Miscellaneous and supplementary provisions[^key-cd51e133565c591964fc0313a1e3f7bc][^key-0efc737fad9e4d0bbba969ce239df156]
+#### Chapter IV — Miscellaneous and supplementary provisions[^c-cd51e133565c591964fc0313a1e3f7bc][^c-0efc737fad9e4d0bbba969ce239df156]
 
 *Extent: E+W*
 
@@ -1111,7 +1111,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 434 — Registration of pupils.](part-vi/section-434.md)
 
-##### Withdrawal of children from school: local authority involvement[^key-8cb9db9ccd22d7f01e703f6e101b3f27]
+##### Withdrawal of children from school: local authority involvement[^c-8cb9db9ccd22d7f01e703f6e101b3f27]
 
 - [Section 434A — Local authority consent for withdrawal of certain children from school](part-vi/section-434a.md)
 - [Section 434B — Mandatory local authority meetings prior to withdrawal of child from school](part-vi/section-434b.md)
@@ -1128,11 +1128,11 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 *Extent: E+W*
 
-##### Children not receiving suitable education[^key-e5166ca8cdd5b7826a2f72b98a965816]
+##### Children not receiving suitable education[^c-e5166ca8cdd5b7826a2f72b98a965816]
 
 - [Section 436A — Duty to make arrangements to identify children not receiving education](part-vi/section-436a.md)
 
-##### Children not in school[^key-ab685345cb00f1ccfab1b3d5aa5e0e98]
+##### Children not in school[^c-ab685345cb00f1ccfab1b3d5aa5e0e98]
 
 - [Section 436B — Duty to register children not in school](part-vi/section-436b.md)
 - [Section 436C — Content and maintenance of registers](part-vi/section-436c.md)
@@ -1141,7 +1141,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 436F — Use of information in the register](part-vi/section-436f.md)
 - [Section 436G — Support](part-vi/section-436g.md)
 
-##### School attendance orders[^key-1e9698cc672d28f0cccebce23b0d14f2]
+##### School attendance orders[^c-1e9698cc672d28f0cccebce23b0d14f2]
 
 - [Section 436H — Preliminary notice for school attendance order](part-vi/section-436h.md)
 - [Section 436I — School attendance orders](part-vi/section-436i.md)
@@ -1156,7 +1156,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 436R — References to “Academy school” and “Academy arrangements”](part-vi/section-436r.md)
 - [Section 436S — References to “regulations” and “prescribed”](part-vi/section-436s.md)
 
-##### Children not in school and school attendance orders: processing of information[^key-4063da525cbbf6dcd3954f1ebd4a2038]
+##### Children not in school and school attendance orders: processing of information[^c-4063da525cbbf6dcd3954f1ebd4a2038]
 
 - [Section 436T — Processing of information](part-vi/section-436t.md)
 
@@ -1187,7 +1187,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 448 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-vi/section-448.md)
 
-#### Chapter III — Charges in connection with education at maintained schools[^key-06dd79d0f477f057e7be418e2e48584c][^c15250511]
+#### Chapter III — Charges in connection with education at maintained schools[^c-06dd79d0f477f057e7be418e2e48584c][^c15250511]
 
 *Extent: E+W*
 
@@ -1351,7 +1351,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 507 — Power to direct local inquiries.](part-ix/section-507.md)
 
-#### Chapter II — Ancillary functions of local authorities[^key-df82d42709314c7296748c08b3554faa]
+#### Chapter II — Ancillary functions of local authorities[^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
@@ -1514,7 +1514,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 550A — Power of members of staff to restrain pupils.](part-x/section-550a.md)
 
-##### Powers to search pupils[^key-5ba8cc289df00fe228800e9937d24135]
+##### Powers to search pupils[^c-5ba8cc289df00fe228800e9937d24135]
 
 - [Section 550ZA — Power of members of staff to search pupils for prohibited items: England](part-x/section-550za.md)
 - [Section 550ZB — Power of search under section 550ZA: supplementary](part-x/section-550zb.md)
@@ -1526,7 +1526,7 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 550B — Detention outside school hours lawful despite absence of parental consent.](part-x/section-550b.md)
 
-#### Chapter 2A — Guidance on mobile phones etc: schools in England[^key-06b7a37f3ea415f611387c7b2787bc87]
+#### Chapter 2A — Guidance on mobile phones etc: schools in England[^c-06b7a37f3ea415f611387c7b2787bc87]
 
 - [Section 550C — Guidance on use of mobile phones etc in schools in England](part-x/section-550c.md)
 
@@ -1538,12 +1538,12 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 
 - [Section 551 — Regulations as to duration of school day etc.](part-x/section-551.md)
 
-##### ... School uniforms[^key-a148d47517d8a60f8e1f50006c73fa9b][^key-7d5a12b62b60f2cba649f470a865a8a9]
+##### ... School uniforms[^c-a148d47517d8a60f8e1f50006c73fa9b][^c-7d5a12b62b60f2cba649f470a865a8a9]
 
 - [Section 551ZA — School uniforms: limits on branded items](part-x/section-551za.md)
 - [Section 551A — Guidance about the costs of school uniforms: England](part-x/section-551a.md)
 
-##### Breakfast clubs[^key-2fccb74de381c1fee73b219f1013b4e7]
+##### Breakfast clubs[^c-2fccb74de381c1fee73b219f1013b4e7]
 
 - [Section 551B — Free breakfast club provision in primary schools in England](part-x/section-551b.md)
 - [Section 551C — Power to exempt schools from duty under section 551B(1)](part-x/section-551c.md)
@@ -1580,11 +1580,11 @@ An Act to consolidate the Education Act 1944 and certain other enactments relati
 - [Section 561 — Act not to apply to persons in service of the Crown.](part-x/section-561.md)
 - [Section 562 — Act not to apply to certain persons detained under order of a court.](part-x/section-562.md)
 
-#### Chapter 5A — Persons detained in youth accommodation[^key-e7e116145194886f0e32d13b2a197268]
+#### Chapter 5A — Persons detained in youth accommodation[^c-e7e116145194886f0e32d13b2a197268]
 
 *Extent: E+W+S+N.I.*
 
-##### Provisions applying to detained persons[^key-e7e116145194886f0e32d13b2a197268]
+##### Provisions applying to detained persons[^c-e7e116145194886f0e32d13b2a197268]
 
 *Extent: E+W+S+N.I.*
 
@@ -1744,41 +1744,41 @@ SCHEDULES
 
 [^c15241071]: Modification: Act modified (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 126](https://www.legislation.gov.uk/ukpga/1998/31/section/126)
 
-[^key-07b340948e1d3a0af3bcca1ebbab37d8]: Modification: Act construed with 1998 c. 38, s. 145B (as inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [ss. 4](https://www.legislation.gov.uk/ukpga/2004/23/section/4), [73](https://www.legislation.gov.uk/ukpga/2004/23/section/73); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1))
+[^c-07b340948e1d3a0af3bcca1ebbab37d8]: Modification: Act construed with 1998 c. 38, s. 145B (as inserted (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [ss. 4](https://www.legislation.gov.uk/ukpga/2004/23/section/4), [73](https://www.legislation.gov.uk/ukpga/2004/23/section/73); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1))
 
-[^key-abd602ed50e680a8b52e9bdbbc066c56]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-abd602ed50e680a8b52e9bdbbc066c56]: Modification: Act applied (1.4.2005) by [The Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-48eb0c5ba1ce61be3bdeb09b9785b294]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
+[^c-48eb0c5ba1ce61be3bdeb09b9785b294]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 96(2)](https://www.legislation.gov.uk/ukpga/2005/18/section/96/2)
 
-[^key-50a7fcc314fabfe05fccffe19dfea65e]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 122](https://www.legislation.gov.uk/ukpga/2005/18/section/122)
+[^c-50a7fcc314fabfe05fccffe19dfea65e]: Modification: Act modified (7.4.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 122](https://www.legislation.gov.uk/ukpga/2005/18/section/122)
 
-[^key-a79aebb54fb72e6dc97c436dfdc2b430]: Modification: Act Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
+[^c-a79aebb54fb72e6dc97c436dfdc2b430]: Modification: Act Education Acts modified (temp.) (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/6/paragraph/3/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(bb)](https://www.legislation.gov.uk/uksi/2007/935/article/5/bb)
 
-[^key-5d2c173355d9c0e0853c8350670e9523]: Modification: Act modified (12.11.2009) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 264(5)](https://www.legislation.gov.uk/ukpga/2009/22/section/264/5)
+[^c-5d2c173355d9c0e0853c8350670e9523]: Modification: Act modified (12.11.2009) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 264(5)](https://www.legislation.gov.uk/ukpga/2009/22/section/264/5)
 
-[^key-f3381d48e2a04585eb076eb7595203fa]: Modification: Act modified (27.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 17(4)](https://www.legislation.gov.uk/ukpga/2010/32/section/17/4)
+[^c-f3381d48e2a04585eb076eb7595203fa]: Modification: Act modified (27.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [s. 17(4)](https://www.legislation.gov.uk/ukpga/2010/32/section/17/4)
 
-[^key-31b669b4b107f77c83f9dd4ba0a193e8]: Modification: Act modified (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2010/32/section/4/6), [19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
+[^c-31b669b4b107f77c83f9dd4ba0a193e8]: Modification: Act modified (29.7.2010) by [Academies Act 2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2010/32/section/4/6), [19(2)](https://www.legislation.gov.uk/ukpga/2010/32/section/19/2); [S.I. 2010/1937](https://www.legislation.gov.uk/uksi/2010/1937), [art. 2](https://www.legislation.gov.uk/uksi/2010/1937/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1937/schedule/1)
 
-[^key-1fd9ae92b4e8674f064b9efd8566d2ef]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by S.I. 2010/1906, reg. 2)
+[^c-1fd9ae92b4e8674f064b9efd8566d2ef]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by S.I. 2010/1906, reg. 2)
 
-[^key-7162c82eb23c3702ec33b8411750068a]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-7162c82eb23c3702ec33b8411750068a]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-610103d85bb97d16fc0a42a3f0c59d69]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) construed as one with 2013 anaw 1 (26.4.2013 for specified purposes, 4.5.2013 in so far as not already in force) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 98(1)](https://www.legislation.gov.uk/anaw/2013/1/section/98/1)[(2)](https://www.legislation.gov.uk/anaw/2013/1/section/98/2), [100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4); [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [arts. 2(d)](https://www.legislation.gov.uk/wsi/2013/1000/article/2/d), [3(b)](https://www.legislation.gov.uk/wsi/2013/1000/article/3/b)
+[^c-610103d85bb97d16fc0a42a3f0c59d69]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) construed as one with 2013 anaw 1 (26.4.2013 for specified purposes, 4.5.2013 in so far as not already in force) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 98(1)](https://www.legislation.gov.uk/anaw/2013/1/section/98/1)[(2)](https://www.legislation.gov.uk/anaw/2013/1/section/98/2), [100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4); [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [arts. 2(d)](https://www.legislation.gov.uk/wsi/2013/1000/article/2/d), [3(b)](https://www.legislation.gov.uk/wsi/2013/1000/article/3/b)
 
-[^key-5833d9377479ace25b945d8d4ce95dec]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [reg. 4](https://www.legislation.gov.uk/wsi/2013/1793/regulation/4)
+[^c-5833d9377479ace25b945d8d4ce95dec]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [reg. 4](https://www.legislation.gov.uk/wsi/2013/1793/regulation/4)
 
-[^key-b16c1e2eac2888f3f015b7145f828599]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 100(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/100/6), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(c)](https://www.legislation.gov.uk/uksi/2014/889/article/7/c)
+[^c-b16c1e2eac2888f3f015b7145f828599]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 100(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/100/6), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(c)](https://www.legislation.gov.uk/uksi/2014/889/article/7/c)
 
-[^key-4a5e6f27ff9e8bdab4cd3cf5df62931d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 83(7)](https://www.legislation.gov.uk/ukpga/2014/6/section/83/7), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505)
+[^c-4a5e6f27ff9e8bdab4cd3cf5df62931d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 83(7)](https://www.legislation.gov.uk/ukpga/2014/6/section/83/7), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505)
 
-[^key-408f3e2aa15c7520dc4f1d83b7a2e523]: Modification: Act: to be construed as one with this Act (5.8.2015) by virtue of Qualifications Wales Act 2015 (anaw 5), ss. 57(1)(2), 60(1)(c)
+[^c-408f3e2aa15c7520dc4f1d83b7a2e523]: Modification: Act: to be construed as one with this Act (5.8.2015) by virtue of Qualifications Wales Act 2015 (anaw 5), ss. 57(1)(2), 60(1)(c)
 
-[^key-dc1bed0a2b4721d6ce564eca8117a7c4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (25.1.2018) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 99(6)](https://www.legislation.gov.uk/anaw/2018/2/section/99/6)[(7)](https://www.legislation.gov.uk/anaw/2018/2/section/99/7)
+[^c-dc1bed0a2b4721d6ce564eca8117a7c4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1996/56) modified (25.1.2018) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 99(6)](https://www.legislation.gov.uk/anaw/2018/2/section/99/6)[(7)](https://www.legislation.gov.uk/anaw/2018/2/section/99/7)
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-2191e21cbad80b89f2e2eaee6fc104ab]: Textual amendment: S. 19B and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/61/2), [78(2)(k)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/k)
+[^c-2191e21cbad80b89f2e2eaee6fc104ab]: Textual amendment: S. 19B and cross-heading inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/61/2), [78(2)(k)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/k)
 
 [^c15241881]: Textual amendment: [Pt. II](https://www.legislation.gov.uk/ukpga/1996/56/part/II) (ss. 31-182) repealed (1.10.1998, 10.3.1999, 1.4.1999 respectively in relation to specified provisions and otherwise 1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 69](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/69), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [art. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [Sch. 1 Pts. I](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/I), [IV](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/IV); [S.I. 1999/120](https://www.legislation.gov.uk/uksi/1999/120), [art. 2(2)](https://www.legislation.gov.uk/uksi/1999/120/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/120/schedule/2) ; [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1016/schedule/1); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1) (with savings as specified in those S.I.s and subject to savings in [S.I. 1999/704](https://www.legislation.gov.uk/uksi/1999/704) , [S.I. 1999/711](https://www.legislation.gov.uk/uksi/1999/711), [S.I](https://www.legislation.gov.uk/uksi/1999/711/section/I). 1999/2243 and [S.I. 1999/2262](https://www.legislation.gov.uk/uksi/1999/2262))
 
@@ -1790,49 +1790,49 @@ SCHEDULES
 
 [^c15246291]: Textual amendment: [S. 306A](https://www.legislation.gov.uk/ukpga/1996/56/section/306A) (and the heading immediately preceding it) inserted (1.4.1998) by [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44), [s. 3(1)](https://www.legislation.gov.uk/ukpga/1997/44/section/3/1) (with [s. 57(3)](https://www.legislation.gov.uk/ukpga/1997/44/section/57/3)); [S.I. 1998/386](https://www.legislation.gov.uk/uksi/1998/386), [art. 2](https://www.legislation.gov.uk/uksi/1998/386/article/2), [Sch. 1 Pt.II](https://www.legislation.gov.uk/uksi/1998/386/schedule/1/part/II)
 
-[^key-5da470f3949372b4fa4585dc480dea3a]: Modification: Pt. 4 power to amend or repeal conferred (10.2.2012) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [ss. 18](https://www.legislation.gov.uk/mwa/2009/5/section/18), [26(3)](https://www.legislation.gov.uk/mwa/2009/5/section/26/3); [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/320/article/2/g)
+[^c-5da470f3949372b4fa4585dc480dea3a]: Modification: Pt. 4 power to amend or repeal conferred (10.2.2012) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [ss. 18](https://www.legislation.gov.uk/mwa/2009/5/section/18), [26(3)](https://www.legislation.gov.uk/mwa/2009/5/section/26/3); [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/320/article/2/g)
 
-[^key-a26091f02a6f098b8797ebca0f491930]: Modification: Pt. 4 Ch. 1 excluded (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 81](https://www.legislation.gov.uk/ukpga/2014/6/section/81), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
+[^c-a26091f02a6f098b8797ebca0f491930]: Modification: Pt. 4 Ch. 1 excluded (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 81](https://www.legislation.gov.uk/ukpga/2014/6/section/81), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
 
-[^key-44c659fdf3ae27bfa95ab072d6157d41]: Textual amendment: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/1996/56/part/4/chapter/1) repealed (1.9.2021 for the repeal of ss. 333(1ZA)(2)-(6), 334-335 and otherwise in force for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/9); [S.I. 2021/373](https://www.legislation.gov.uk/uksi/2021/373), [arts. 3](https://www.legislation.gov.uk/uksi/2021/373/article/3), [4](https://www.legislation.gov.uk/uksi/2021/373/article/4), [6](https://www.legislation.gov.uk/uksi/2021/373/article/6), [7](https://www.legislation.gov.uk/uksi/2021/373/article/7), [8(j)(vi)](https://www.legislation.gov.uk/uksi/2021/373/article/8/j/vi) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/uksi/2021/1243), [art. 3](https://www.legislation.gov.uk/uksi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/uksi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/uksi/2021/1244), [art. 3](https://www.legislation.gov.uk/uksi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/uksi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/uksi/2021/1245), [arts. 3](https://www.legislation.gov.uk/uksi/2021/1245/article/3), [4](https://www.legislation.gov.uk/uksi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/uksi/2022/891), [art. 3](https://www.legislation.gov.uk/uksi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/uksi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/uksi/2022/892), [arts. 2](https://www.legislation.gov.uk/uksi/2022/892/article/2), [3](https://www.legislation.gov.uk/uksi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/uksi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/uksi/2022/893), [arts. 2](https://www.legislation.gov.uk/uksi/2022/893/article/2), [4](https://www.legislation.gov.uk/uksi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/uksi/2022/894), [art. 3](https://www.legislation.gov.uk/uksi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/uksi/2022/895), [arts. 3](https://www.legislation.gov.uk/uksi/2022/895/article/3), [4](https://www.legislation.gov.uk/uksi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/uksi/2022/896), [art. 3](https://www.legislation.gov.uk/uksi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/uksi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/uksi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/uksi/2022/897), [art. 3](https://www.legislation.gov.uk/uksi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/uksi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/uksi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/uksi/2022/898), [arts. 2](https://www.legislation.gov.uk/uksi/2022/898/article/2), [3](https://www.legislation.gov.uk/uksi/2022/898/article/3)
+[^c-44c659fdf3ae27bfa95ab072d6157d41]: Textual amendment: [Pt. 4 Ch. 1](https://www.legislation.gov.uk/ukpga/1996/56/part/4/chapter/1) repealed (1.9.2021 for the repeal of ss. 333(1ZA)(2)-(6), 334-335 and otherwise in force for specified purposes, 1.1.2022 for specified purposes, 1.9.2022 for specified purposes, 1.9.2025 for specified purposes) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 4(9)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/4/9); [S.I. 2021/373](https://www.legislation.gov.uk/uksi/2021/373), [arts. 3](https://www.legislation.gov.uk/uksi/2021/373/article/3), [4](https://www.legislation.gov.uk/uksi/2021/373/article/4), [6](https://www.legislation.gov.uk/uksi/2021/373/article/6), [7](https://www.legislation.gov.uk/uksi/2021/373/article/7), [8(j)(vi)](https://www.legislation.gov.uk/uksi/2021/373/article/8/j/vi) (as amended by [S.I. 2021/938](https://www.legislation.gov.uk/uksi/2021/938), [art. 2](https://www.legislation.gov.uk/uksi/2021/938/article/2)); [S.I. 2021/1243](https://www.legislation.gov.uk/uksi/2021/1243), [art. 3](https://www.legislation.gov.uk/uksi/2021/1243/article/3) (with [arts. 4-23](https://www.legislation.gov.uk/uksi/2021/1243/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 2](https://www.legislation.gov.uk/uksi/2021/1428/article/2)); [S.I. 2021/1244](https://www.legislation.gov.uk/uksi/2021/1244), [art. 3](https://www.legislation.gov.uk/uksi/2021/1244/article/3) (with [arts. 4-21](https://www.legislation.gov.uk/uksi/2021/1244/article/4)) (as amended by [S.I. 2021/1428](https://www.legislation.gov.uk/uksi/2021/1428), [art. 3](https://www.legislation.gov.uk/uksi/2021/1428/article/3)); [S.I. 2021/1245](https://www.legislation.gov.uk/uksi/2021/1245), [arts. 3](https://www.legislation.gov.uk/uksi/2021/1245/article/3), [4](https://www.legislation.gov.uk/uksi/2021/1245/article/4) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/1245/article/1/4)); [S.I. 2022/891](https://www.legislation.gov.uk/uksi/2022/891), [art. 3](https://www.legislation.gov.uk/uksi/2022/891/article/3) (with [arts. 4-25](https://www.legislation.gov.uk/uksi/2022/891/article/4)); [S.I. 2022/892](https://www.legislation.gov.uk/uksi/2022/892), [arts. 2](https://www.legislation.gov.uk/uksi/2022/892/article/2), [3](https://www.legislation.gov.uk/uksi/2022/892/article/3) (with [arts. 4-18](https://www.legislation.gov.uk/uksi/2022/892/article/4)); [S.I. 2022/893](https://www.legislation.gov.uk/uksi/2022/893), [arts. 2](https://www.legislation.gov.uk/uksi/2022/893/article/2), [4](https://www.legislation.gov.uk/uksi/2022/893/article/4); [S.I. 2022/894](https://www.legislation.gov.uk/uksi/2022/894), [art. 3](https://www.legislation.gov.uk/uksi/2022/894/article/3); [S.I. 2022/895](https://www.legislation.gov.uk/uksi/2022/895), [arts. 3](https://www.legislation.gov.uk/uksi/2022/895/article/3), [4](https://www.legislation.gov.uk/uksi/2022/895/article/4); [S.I. 2022/896](https://www.legislation.gov.uk/uksi/2022/896), [art. 3](https://www.legislation.gov.uk/uksi/2022/896/article/3) (with [arts. 1(7)](https://www.legislation.gov.uk/uksi/2022/896/article/1/7), [4-22](https://www.legislation.gov.uk/uksi/2022/896/article/4)); [S.I. 2022/897](https://www.legislation.gov.uk/uksi/2022/897), [art. 3](https://www.legislation.gov.uk/uksi/2022/897/article/3) (with [arts. 1(8)](https://www.legislation.gov.uk/uksi/2022/897/article/1/8), [4-21](https://www.legislation.gov.uk/uksi/2022/897/article/4)); [S.I. 2022/898](https://www.legislation.gov.uk/uksi/2022/898), [arts. 2](https://www.legislation.gov.uk/uksi/2022/898/article/2), [3](https://www.legislation.gov.uk/uksi/2022/898/article/3)
 
-[^key-b577f0dd48c732488ded6dfab14699bc]: Textual amendment: Words in Pt. 4 Ch. 1 title inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/9); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505)))
+[^c-b577f0dd48c732488ded6dfab14699bc]: Textual amendment: Words in Pt. 4 Ch. 1 title inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/9); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505)))
 
-[^key-a59a0d0f77f148cd9cf15817c0afa5ec]: Textual amendment: S. 332ZA and cross-heading inserted (6.3.2012) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [ss. 1(2)](https://www.legislation.gov.uk/mwa/2009/5/section/1/2), [26(3)](https://www.legislation.gov.uk/mwa/2009/5/section/26/3) (as amended (5.5.2010) by [S.I. 2010/1148](https://www.legislation.gov.uk/uksi/2010/1148), arts. 1, 5(2)); [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/320/article/3/a)
+[^c-a59a0d0f77f148cd9cf15817c0afa5ec]: Textual amendment: S. 332ZA and cross-heading inserted (6.3.2012) by [Education (Wales) Measure 2009 (nawm 5)](https://www.legislation.gov.uk/mwa/2009/5), [ss. 1(2)](https://www.legislation.gov.uk/mwa/2009/5/section/1/2), [26(3)](https://www.legislation.gov.uk/mwa/2009/5/section/26/3) (as amended (5.5.2010) by [S.I. 2010/1148](https://www.legislation.gov.uk/uksi/2010/1148), arts. 1, 5(2)); [S.I. 2012/320](https://www.legislation.gov.uk/wsi/2012/320), [art. 3(a)](https://www.legislation.gov.uk/wsi/2012/320/article/3/a)
 
 [^c15247411]: Textual amendment: S. 332A and preceding cross-heading inserted (1.1.2002 (E.) and 1.4.2002 (W.)) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 2](https://www.legislation.gov.uk/ukpga/2001/10/section/2) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2001/2217](https://www.legislation.gov.uk/uksi/2001/2217), [art. 5](https://www.legislation.gov.uk/uksi/2001/2217/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/2217/schedule/part/II) (as amended by [S.I. 2001/2614](https://www.legislation.gov.uk/uksi/2001/2614), [art. 4](https://www.legislation.gov.uk/uksi/2001/2614/article/4)); [S.I. 2002/74](https://www.legislation.gov.uk/uksi/2002/74), [art. 5](https://www.legislation.gov.uk/uksi/2002/74/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/74/schedule/part/II)
 
-[^key-158b95d33efc08f0b7be50cfc97a92db]: Textual amendment: S. 332C cross-heading omitted (1.9.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 29(1)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/29/1); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
+[^c-158b95d33efc08f0b7be50cfc97a92db]: Textual amendment: S. 332C cross-heading omitted (1.9.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 29(1)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/29/1); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
 
-[^key-1dd373d739305568cfcd2248102451a7]: Textual amendment: Words in s. 333 cross-heading inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/30); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
+[^c-1dd373d739305568cfcd2248102451a7]: Textual amendment: Words in s. 333 cross-heading inserted (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/30); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
 
-[^key-6109e8626624d81ee6bb1bb304340e58]: Textual amendment: Ss. 337, 337A and cross-heading substituted for s. 337 and cross-heading (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/142/1), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-6109e8626624d81ee6bb1bb304340e58]: Textual amendment: Ss. 337, 337A and cross-heading substituted for s. 337 and cross-heading (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 142(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/142/1), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
 
 [^c17956091]: Textual amendment: S. 342 and crossheading substituted for s. 342 (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 82](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/82) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-61407902398b90b10340d3ceb0ef6bf8]: Textual amendment: S. 342A and cross-heading inserted (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 144](https://www.legislation.gov.uk/ukpga/2008/25/section/144), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-61407902398b90b10340d3ceb0ef6bf8]: Textual amendment: S. 342A and cross-heading inserted (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 144](https://www.legislation.gov.uk/ukpga/2008/25/section/144), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
 
-[^key-aa07d8b12e97150cabab051f636e1822]: Textual amendment: Ss. 342B, 342C and cross-heading inserted (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 145](https://www.legislation.gov.uk/ukpga/2008/25/section/145), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-aa07d8b12e97150cabab051f636e1822]: Textual amendment: Ss. 342B, 342C and cross-heading inserted (30.3.2010) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 145](https://www.legislation.gov.uk/ukpga/2008/25/section/145), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4); [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
 
 [^c15247941]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1996/56/part/V) (ss. 350-410) modified (1.9.1999) by [S.I. 1999/2262](https://www.legislation.gov.uk/uksi/1999/2262), [reg. 57](https://www.legislation.gov.uk/uksi/1999/2262/regulation/57)
 
-[^key-cd51e133565c591964fc0313a1e3f7bc]: Modification: [Pt. V Ch. IV](https://www.legislation.gov.uk/ukpga/1996/56/part/V/chapter/IV): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 34(6)(b)](https://www.legislation.gov.uk/ukpga/2017/16/section/34/6/b), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)
+[^c-cd51e133565c591964fc0313a1e3f7bc]: Modification: [Pt. V Ch. IV](https://www.legislation.gov.uk/ukpga/1996/56/part/V/chapter/IV): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 34(6)(b)](https://www.legislation.gov.uk/ukpga/2017/16/section/34/6/b), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/e)
 
-[^key-0efc737fad9e4d0bbba969ce239df156]: Modification: [Pt. V Ch. IV](https://www.legislation.gov.uk/ukpga/1996/56/part/V/chapter/IV): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 35(4)(b)](https://www.legislation.gov.uk/ukpga/2017/16/section/35/4/b), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
+[^c-0efc737fad9e4d0bbba969ce239df156]: Modification: [Pt. V Ch. IV](https://www.legislation.gov.uk/ukpga/1996/56/part/V/chapter/IV): power to amend conferred (1.4.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 35(4)(b)](https://www.legislation.gov.uk/ukpga/2017/16/section/35/4/b), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/f)
 
 [^c15249221]: Textual amendment: Words in cross-heading substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para.108](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/108) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/1016](https://www.legislation.gov.uk/uksi/1999/1016), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/1016/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1016/schedule/2)
 
-[^key-8cb9db9ccd22d7f01e703f6e101b3f27]: Textual amendment: Ss. 434A, 434B and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/37/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-8cb9db9ccd22d7f01e703f6e101b3f27]: Textual amendment: Ss. 434A, 434B and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/37/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-e5166ca8cdd5b7826a2f72b98a965816]: Textual amendment: S. 436A and cross-heading inserted (27.2.2007 for E., 1.9.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/4/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/a); [S.I. 2009/1027](https://www.legislation.gov.uk/uksi/2009/1027), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/1027/article/3/a)
+[^c-e5166ca8cdd5b7826a2f72b98a965816]: Textual amendment: S. 436A and cross-heading inserted (27.2.2007 for E., 1.9.2009 for W.) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/4/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 6(a)](https://www.legislation.gov.uk/uksi/2006/3400/article/6/a); [S.I. 2009/1027](https://www.legislation.gov.uk/uksi/2009/1027), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/1027/article/3/a)
 
-[^key-ab685345cb00f1ccfab1b3d5aa5e0e98]: Textual amendment: Ss. 436B-436G and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436B, 436C, 436E, 436F, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/38/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-ab685345cb00f1ccfab1b3d5aa5e0e98]: Textual amendment: Ss. 436B-436G and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436B, 436C, 436E, 436F, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/38/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-1e9698cc672d28f0cccebce23b0d14f2]: Textual amendment: Ss. 436H-436S and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436I, 436S, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/39/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-1e9698cc672d28f0cccebce23b0d14f2]: Textual amendment: Ss. 436H-436S and cross-heading inserted (29.4.2026 but only in relation to the power to make regulations conferred by ss. 436I, 436S, otherwise prosp.) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 39(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/39/2), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-4063da525cbbf6dcd3954f1ebd4a2038]: Textual amendment: S. 436T and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 40](https://www.legislation.gov.uk/ukpga/2026/21/section/40), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-4063da525cbbf6dcd3954f1ebd4a2038]: Textual amendment: S. 436T and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 40](https://www.legislation.gov.uk/ukpga/2026/21/section/40), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/3)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
 
-[^key-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
+[^c-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
 
 [^c15250511]: Textual amendment: Pt. VI Ch. III heading substituted (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1), [Sch. 30 para. 119](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/119) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1).
 
@@ -1846,18 +1846,18 @@ SCHEDULES
 
 [^c17953041]: Textual amendment: S. 550A and cross-heading inserted (1.9.1998) by [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44), [s. 4](https://www.legislation.gov.uk/ukpga/1997/44/section/4) (with [s. 57(3)](https://www.legislation.gov.uk/ukpga/1997/44/section/57/3)); [S.I. 1998/386](https://www.legislation.gov.uk/uksi/1998/386), [art. 2(4)](https://www.legislation.gov.uk/uksi/1998/386/article/2/4), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1998/386/schedule/1/part/IV)
 
-[^key-5ba8cc289df00fe228800e9937d24135]: Textual amendment: Ss. 550ZA-550ZD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/242/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-5ba8cc289df00fe228800e9937d24135]: Textual amendment: Ss. 550ZA-550ZD inserted (1.9.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2009/22/section/242/1), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
 
 [^c17954101]: Textual amendment: S. 550B and cross-heading inserted (1.9.1998) by [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44), [s. 5](https://www.legislation.gov.uk/ukpga/1997/44/section/5) (with [s. 57(3)](https://www.legislation.gov.uk/ukpga/1997/44/section/57/3)); [S.I. 1998/386](https://www.legislation.gov.uk/uksi/1998/386), [art. 2(4)](https://www.legislation.gov.uk/uksi/1998/386/article/2/4), [Sch. 1 Pt. IV](https://www.legislation.gov.uk/uksi/1998/386/schedule/1/part/IV)
 
-[^key-06b7a37f3ea415f611387c7b2787bc87]: Textual amendment: Pt. 10 Ch. 2A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/36/1), [78(2)(d)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/d)
+[^c-06b7a37f3ea415f611387c7b2787bc87]: Textual amendment: Pt. 10 Ch. 2A inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/36/1), [78(2)(d)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/d)
 
-[^key-a148d47517d8a60f8e1f50006c73fa9b]: Textual amendment: Words in s. 551A cross-heading omitted (1.9.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/35/2), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/b)
+[^c-a148d47517d8a60f8e1f50006c73fa9b]: Textual amendment: Words in s. 551A cross-heading omitted (1.9.2026) by virtue of [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 35(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/35/2), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2026/803/regulation/5/b)
 
-[^key-7d5a12b62b60f2cba649f470a865a8a9]: Textual amendment: S. 551A and cross-heading inserted (29.6.2021) by [Education (Guidance about Costs of School Uniforms) Act 2021 (c. 20)](https://www.legislation.gov.uk/ukpga/2021/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2021/20/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2021/20/section/2/2)
+[^c-7d5a12b62b60f2cba649f470a865a8a9]: Textual amendment: S. 551A and cross-heading inserted (29.6.2021) by [Education (Guidance about Costs of School Uniforms) Act 2021 (c. 20)](https://www.legislation.gov.uk/ukpga/2021/20), [ss. 1](https://www.legislation.gov.uk/ukpga/2021/20/section/1), [2(2)](https://www.legislation.gov.uk/ukpga/2021/20/section/2/2)
 
-[^key-2fccb74de381c1fee73b219f1013b4e7]: Textual amendment: Ss. 551B-551D and cross-heading inserted (15.7.2026 but only for the insertion of s. 551B(2)-(7)) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 30](https://www.legislation.gov.uk/ukpga/2026/21/section/30), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/i)
+[^c-2fccb74de381c1fee73b219f1013b4e7]: Textual amendment: Ss. 551B-551D and cross-heading inserted (15.7.2026 but only for the insertion of s. 551B(2)-(7)) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 30](https://www.legislation.gov.uk/ukpga/2026/21/section/30), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/i)
 
-[^key-e7e116145194886f0e32d13b2a197268]: Textual amendment: Pt. 10 Ch. 5A inserted (1.9.2010 for E. for specified purposes, 1.4.2011 for W. for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 50](https://www.legislation.gov.uk/ukpga/2009/22/section/50), [269(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5); [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/829/article/2/b)
+[^c-e7e116145194886f0e32d13b2a197268]: Textual amendment: Pt. 10 Ch. 5A inserted (1.9.2010 for E. for specified purposes, 1.4.2011 for W. for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 50](https://www.legislation.gov.uk/ukpga/2009/22/section/50), [269(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5); [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/829/article/2/b)
 
 [^c15243141]: Textual amendment: Part II Chapter V (ss. 101-126) repealed (1.4.1999 subject to savings) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 69](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/69), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1998/2212](https://www.legislation.gov.uk/uksi/1998/2212), [arts. 2](https://www.legislation.gov.uk/uksi/1998/2212/article/2), [4](https://www.legislation.gov.uk/uksi/1998/2212/article/4), [Sch. 1 Pt.IV](https://www.legislation.gov.uk/uksi/1998/2212/schedule/1/part/IV), [Sch. 2 Pt. II para. 8](https://www.legislation.gov.uk/uksi/1998/2212/schedule/2/part/II/paragraph/8) (subject to savings in [S.I. 1999/711](https://www.legislation.gov.uk/uksi/1999/711), [reg. 5](https://www.legislation.gov.uk/uksi/1999/711/regulation/5) and [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [Sch. 7 paras. 2-4](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/2), [6](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/6), [7](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/7), [10](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/10), [12](https://www.legislation.gov.uk/uksi/1999/2323/schedule/7/paragraph/12)))

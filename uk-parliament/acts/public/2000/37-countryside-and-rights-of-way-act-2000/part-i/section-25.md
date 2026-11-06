@@ -27,7 +27,7 @@ summary: ''
 
 *Extent: E*
 
-(1A)[^key-926dd785b5be3952591e827c73b32142] Subsection (1)(a) does not apply in relation to land which is coastal margin if it is—
+(1A)[^c-926dd785b5be3952591e827c73b32142] Subsection (1)(a) does not apply in relation to land which is coastal margin if it is—
 
 - (a) land over which the line of an approved section of the English coastal route, an official alternative route or a temporary route passes, or
 - (b) land which is adjacent to and within 2 metres either side of such a line.
@@ -37,7 +37,7 @@ summary: ''
 - (a) a specified period in every calendar year, and
 - (b) a period which is to be—
   - (i) determined by a specified person in accordance with the direction, and
-  - (ii) notified by him to the relevant authority in accordance with regulations under section 32(1)(d)., and *(Extent: E)*[^key-09e6a23591d3ff26798bcb8dca695a0e]
+  - (ii) notified by him to the relevant authority in accordance with regulations under section 32(1)(d)., and *(Extent: E)*[^c-09e6a23591d3ff26798bcb8dca695a0e]
 
 *Extent: E*
 
@@ -55,7 +55,7 @@ summary: ''
 
 *Extent: E*
 
-(6)[^key-29381a7560de1c7cd8b20733cee68179] Nothing in subsection (4) or (5) applies in relation to land which is coastal margin.
+(6)[^c-29381a7560de1c7cd8b20733cee68179] Nothing in subsection (4) or (5) applies in relation to land which is coastal margin.
 
 (7 (Extent: E)) In this section— *(Extent: E)*
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-926dd785b5be3952591e827c73b32142]: Textual amendment: [S. 25(1A)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/1A) inserted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 19(a)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/19/a)
+[^c-926dd785b5be3952591e827c73b32142]: Textual amendment: [S. 25(1A)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/1A) inserted (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 19(a)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/19/a)
 
-[^key-09e6a23591d3ff26798bcb8dca695a0e]: Textual amendment: [S. 25(2)(c)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/2/c) and word added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 19(b)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/19/b)
+[^c-09e6a23591d3ff26798bcb8dca695a0e]: Textual amendment: [S. 25(2)(c)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/2/c) and word added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 19(b)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/19/b)
 
-[^key-29381a7560de1c7cd8b20733cee68179]: Textual amendment: [S. 25(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/6)[(7)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/7) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/19/c)
+[^c-29381a7560de1c7cd8b20733cee68179]: Textual amendment: [S. 25(6)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/6)[(7)](https://www.legislation.gov.uk/ukpga/2000/37/section/25/7) added (E.) (6.4.2010) by [The Access to the Countryside (Coastal Margin) (England) Order 2010 (S.I. 2010/558)](https://www.legislation.gov.uk/uksi/2010/558), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/558/article/1/2), [Sch. 1 para. 19(c)](https://www.legislation.gov.uk/uksi/2010/558/schedule/1/paragraph/19/c)

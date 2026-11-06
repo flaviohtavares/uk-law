@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Determination of adjusted demand[^key-7a40da7f49037d81de000d82e335fce9]
+## 30. Determination of adjusted demand[^c-7a40da7f49037d81de000d82e335fce9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a40da7f49037d81de000d82e335fce9]: Commencement: Reg. 30 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-7a40da7f49037d81de000d82e335fce9]: Commencement: Reg. 30 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

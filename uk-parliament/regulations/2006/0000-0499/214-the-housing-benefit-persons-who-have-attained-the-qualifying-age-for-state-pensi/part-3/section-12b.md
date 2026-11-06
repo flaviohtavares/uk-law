@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 12B. Eligible rent[^key-40886efb9e5f41f98addf3d975e77077]
+## 12B. Eligible rent[^c-40886efb9e5f41f98addf3d975e77077]
 
 (1) The amount of a person’s eligible rent shall be determined in accordance with the provisions of this regulation except where regulations 12C (eligible rent and maximum rent) or 12D (eligible rent and maximum rent ( LHA )) apply, or paragraph 4 of Schedule 3 to the Consequential Provisions Regulations applies.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40886efb9e5f41f98addf3d975e77077]: Textual amendment: Regs. 12B-12D inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2869/regulation/5)
+[^c-40886efb9e5f41f98addf3d975e77077]: Textual amendment: Regs. 12B-12D inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2869/regulation/5)

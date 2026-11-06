@@ -35,7 +35,7 @@ summary: ''
 
 (6) In deciding whether P has contravened a relevant requirement, the designated supervisory authority must consider whether at the time P followed—
 
-- (a)[^key-a8c6b77287affb460b701ac3a78d4c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a8c6b77287affb460b701ac3a78d4c88] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any relevant guidance which was at the time—
   - (i) issued by the FCA; or
   - (ii) issued by any other supervisory authority or appropriate body and approved by the Treasury.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8c6b77287affb460b701ac3a78d4c88]: Textual amendment: [Reg. 76(6)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/76/6/a) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2019/253/regulation/12/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8c6b77287affb460b701ac3a78d4c88]: Textual amendment: [Reg. 76(6)(a)](https://www.legislation.gov.uk/uksi/2017/692/regulation/76/6/a) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [12(1)](https://www.legislation.gov.uk/uksi/2019/253/regulation/12/1) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

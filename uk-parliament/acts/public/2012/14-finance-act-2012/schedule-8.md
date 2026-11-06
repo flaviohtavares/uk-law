@@ -108,7 +108,7 @@ Section 40
 
 **6.** (1) Section 292A (the maximum amount raised annually through risk capital schemes requirement) is amended as follows.
 
-(2)[^key-d3ad87a1dd0f52d89ab12bd42101104d] In subsection (1) for “£2 million” substitute “ £5 million ”.
+(2)[^c-d3ad87a1dd0f52d89ab12bd42101104d] In subsection (1) for “£2 million” substitute “ £5 million ”.
 
 (3) In subsection (3)—
 
@@ -129,14 +129,14 @@ Section 40
 
 ### Increase in the gross assets limits
 
-**8.**[^key-4cf95681c949f726282435e183704f42] In section 297 (the gross assets requirement)—
+**8.**[^c-4cf95681c949f726282435e183704f42] In section 297 (the gross assets requirement)—
 
 - (a) in subsections (1)(a) and (2)(a), for “£7 million” substitute “ £15 million ”, and
 - (b) in subsections (1)(b) and (2)(b), for “£8 million” substitute “ £16 million ”.
 
 ### Relaxation of restriction on number of employees
 
-**9.**[^key-27d4068a6cf6cf1b4996159d84ec0580] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-27d4068a6cf6cf1b4996159d84ec0580] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### No disqualifying arrangements requirement
 
@@ -236,7 +236,7 @@ Section 40
 
 ### Powers to amend
 
-**14.**[^key-194a74b634d11af7d0ce8e91b0871c08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-194a74b634d11af7d0ce8e91b0871c08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Information
 
@@ -274,11 +274,11 @@ Section 40
 
 ### Commencement and transitional provision
 
-**18.**[^key-00557aac54d7db86d9d7d2a47010603a] (1) The amendments made by paragraphs 2 and 3 have effect in relation to investments made on or after the day on which this Act is passed.
+**18.**[^c-00557aac54d7db86d9d7d2a47010603a] (1) The amendments made by paragraphs 2 and 3 have effect in relation to investments made on or after the day on which this Act is passed.
 
 (2) But nothing in sub-paragraph (1) prevents investments made before that day constituting a “**relevant investment**” for the purposes of section 280B of ITA 2007 (as inserted by paragraph 3) for the purposes of determining whether the investment limits condition in section 274 of that Act is breached by an investment made on or after that day.
 
-**19.**[^key-4d45fd4a6afaaaa3e18d3a7936bf2fa8] (1) The amendments made by paragraphs 4, 5, 6(1) and (3), 10, 15 and 16 have effect for the purpose of determining whether shares or securities issued on or after 6 April 2012 are to be regarded as comprised in a company's qualifying holdings.
+**19.**[^c-4d45fd4a6afaaaa3e18d3a7936bf2fa8] (1) The amendments made by paragraphs 4, 5, 6(1) and (3), 10, 15 and 16 have effect for the purpose of determining whether shares or securities issued on or after 6 April 2012 are to be regarded as comprised in a company's qualifying holdings.
 
 (2) But for the purposes of paragraphs 4, 10, 15 and 16 it does not matter whether the disqualifying arrangements were entered into before or on or after 6 April 2012.
 
@@ -288,30 +288,30 @@ Section 40
 
 **21.** (1) Paragraph 7 is to be treated as having come into force on 6 April 2012.
 
-(2)[^key-3e68dd18c219aa8e9236eb31e90be863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3e68dd18c219aa8e9236eb31e90be863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-3e68dd18c219aa8e9236eb31e90be863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3e68dd18c219aa8e9236eb31e90be863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.** (1) Subject to sub-paragraph (2), the amendments made by paragraphs 11 to 13 have effect in relation to a relevant holding issued on or after 23 March 2011.
 
 (2) Those amendments do not have effect in relation to any relevant holding issued before 6 April 2012 if the relevant company, or a qualifying 90% subsidiary of that company, first began to carry on activities of the kind mentioned in section 303(1)(ka) of ITA 2007 before that day.
 
-(3)[^key-7629f4abfaa22ad4d2bc81bb678b6ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-7629f4abfaa22ad4d2bc81bb678b6ba0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d3ad87a1dd0f52d89ab12bd42101104d]: Commencement: [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/6/2) in force at 19.7.2012 for the purposes of the amendment made by that sub-paragraph by [S.I. 2012/1901](https://www.legislation.gov.uk/uksi/2012/1901), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1901/article/2/a)
+[^c-d3ad87a1dd0f52d89ab12bd42101104d]: Commencement: [Sch. 8 para. 6(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/6/2) in force at 19.7.2012 for the purposes of the amendment made by that sub-paragraph by [S.I. 2012/1901](https://www.legislation.gov.uk/uksi/2012/1901), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1901/article/2/a)
 
-[^key-4cf95681c949f726282435e183704f42]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/8) in force at 19.7.2012 for the purposes of the amendments made by that paragraph by [S.I. 2012/1901](https://www.legislation.gov.uk/uksi/2012/1901), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1901/article/2/b)
+[^c-4cf95681c949f726282435e183704f42]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/8) in force at 19.7.2012 for the purposes of the amendments made by that paragraph by [S.I. 2012/1901](https://www.legislation.gov.uk/uksi/2012/1901), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1901/article/2/b)
 
-[^key-27d4068a6cf6cf1b4996159d84ec0580]: Textual amendment: Sch. 8 para. 9 omitted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/2)
+[^c-27d4068a6cf6cf1b4996159d84ec0580]: Textual amendment: Sch. 8 para. 9 omitted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/2)
 
-[^key-194a74b634d11af7d0ce8e91b0871c08]: Textual amendment: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/14) omitted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/3)
+[^c-194a74b634d11af7d0ce8e91b0871c08]: Textual amendment: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/14) omitted (with effect in accordance with Sch. 6 para. 23(3) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 22(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/22/3)
 
-[^key-00557aac54d7db86d9d7d2a47010603a]: Modification: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/18) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15](https://www.legislation.gov.uk/ukpga/2018/3/section/15)
+[^c-00557aac54d7db86d9d7d2a47010603a]: Modification: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/18) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15](https://www.legislation.gov.uk/ukpga/2018/3/section/15)
 
-[^key-4d45fd4a6afaaaa3e18d3a7936bf2fa8]: Modification: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/19) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15](https://www.legislation.gov.uk/ukpga/2018/3/section/15)
+[^c-4d45fd4a6afaaaa3e18d3a7936bf2fa8]: Modification: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/19) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15](https://www.legislation.gov.uk/ukpga/2018/3/section/15)
 
-[^key-3e68dd18c219aa8e9236eb31e90be863]: Textual amendment: Sch. 8 para. 21(2)(3) repealed (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/20)
+[^c-3e68dd18c219aa8e9236eb31e90be863]: Textual amendment: Sch. 8 para. 21(2)(3) repealed (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/20)
 
-[^key-7629f4abfaa22ad4d2bc81bb678b6ba0]: Textual amendment: [Sch. 8 para. 22(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/22/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-7629f4abfaa22ad4d2bc81bb678b6ba0]: Textual amendment: [Sch. 8 para. 22(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/22/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

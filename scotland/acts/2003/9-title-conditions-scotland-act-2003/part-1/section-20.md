@@ -48,10 +48,10 @@ summary: ''
 
 (6) Where a property is subject to two or more real burdens, it shall be competent to execute and register a single notice of termination in respect of both (or all) the real burdens.
 
-(7)[^key-88b5aa85218cd3c2811dbb59b6dff1fa] This section applies to a real burden created by the conversion of a qualifying condition under Part 2 of the Long Leases (Scotland) Act 2012 (asp 9) as if the reference to the “**constitutive deed**” were a reference to the deed setting out the qualifying condition.
+(7)[^c-88b5aa85218cd3c2811dbb59b6dff1fa] This section applies to a real burden created by the conversion of a qualifying condition under Part 2 of the Long Leases (Scotland) Act 2012 (asp 9) as if the reference to the “**constitutive deed**” were a reference to the deed setting out the qualifying condition.
 
 ## Annotations
 
 [^c7955351]: Commencement: S. 20 wholly in force; s. 20 in force for certain purposes at 4.4.2003 see s. 129(2)(5); s. 20 otherwise in force at 28.11.2004 by [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
-[^key-88b5aa85218cd3c2811dbb59b6dff1fa]: Textual amendment: [S. 20(7)](https://www.legislation.gov.uk/asp/2003/9/section/20/7) inserted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(3)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/3); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)
+[^c-88b5aa85218cd3c2811dbb59b6dff1fa]: Textual amendment: [S. 20(7)](https://www.legislation.gov.uk/asp/2003/9/section/20/7) inserted (28.11.2013) by [Long Leases (Scotland) Act 2012 (asp 9)](https://www.legislation.gov.uk/asp/2012/9), [s. 83(2)](https://www.legislation.gov.uk/asp/2012/9/section/83/2)[(3)](https://www.legislation.gov.uk/asp/2012/9/section/83/3), [sch. para. 3(3)](https://www.legislation.gov.uk/asp/2012/9/schedule/paragraph/3/3); [S.S.I. 2013/322](https://www.legislation.gov.uk/ssi/2013/322), [art. 2(I)](https://www.legislation.gov.uk/ssi/2013/322/article/2/I)

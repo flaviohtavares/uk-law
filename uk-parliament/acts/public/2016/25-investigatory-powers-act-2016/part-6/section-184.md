@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Duration of warrants[^key-2768e3c20529a79be0efdbad33c58ad4]
+## 184. Duration of warrants[^c-2768e3c20529a79be0efdbad33c58ad4]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2768e3c20529a79be0efdbad33c58ad4]: Commencement: S. 184 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)
+[^c-2768e3c20529a79be0efdbad33c58ad4]: Commencement: S. 184 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/b)

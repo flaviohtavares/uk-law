@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Notification of detention[^key-e0037d7a95ea5a1730232180f1026913]
+## 30. Notification of detention[^c-e0037d7a95ea5a1730232180f1026913]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0037d7a95ea5a1730232180f1026913]: Textual amendment: S. 30 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 6(4)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/6/4)
+[^c-e0037d7a95ea5a1730232180f1026913]: Textual amendment: S. 30 repealed (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [reg. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [sch. para. 6(4)](https://www.legislation.gov.uk/ssi/2017/453/schedule/paragraph/6/4)

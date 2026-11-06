@@ -32,7 +32,7 @@ summary: ''
 
 food, england
 
-The Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007 (revoked)[^key-a4648a88181a2d76bf54f0c9138ecfba]
+The Notification of Marketing of Food for Particular Nutritional Uses (England) Regulations 2007 (revoked)[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 Made
 
@@ -46,48 +46,48 @@ Coming into force
 
 1st March 2007
 
-[^key-a4648a88181a2d76bf54f0c9138ecfba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4648a88181a2d76bf54f0c9138ecfba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 1. Title, commencement and application[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 2. Interpretation[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on sale[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 3. Restriction on sale[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Declaration[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 4. Declaration[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Enforcement[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 5. Enforcement[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 6. Offences and penalties[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of various provisions of the Food Safety Act 1990[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 7. Application of various provisions of the Food Safety Act 1990[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-a4648a88181a2d76bf54f0c9138ecfba]
+## 8. Revocation[^c-a4648a88181a2d76bf54f0c9138ecfba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4648a88181a2d76bf54f0c9138ecfba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4648a88181a2d76bf54f0c9138ecfba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a4648a88181a2d76bf54f0c9138ecfba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4648a88181a2d76bf54f0c9138ecfba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4648a88181a2d76bf54f0c9138ecfba]: Textual amendment: Regulations revoked (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/688/regulation/5/a)
+[^c-a4648a88181a2d76bf54f0c9138ecfba]: Textual amendment: Regulations revoked (20.7.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (England) Regulations 2016 (S.I. 2016/688)](https://www.legislation.gov.uk/uksi/2016/688), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/688/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/688/regulation/5/a)

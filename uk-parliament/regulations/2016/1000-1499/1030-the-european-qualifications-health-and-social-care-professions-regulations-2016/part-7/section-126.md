@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Amendment of section 80 (English text)[^key-cda6ec9a98e36a1ae99d18822a06c876]
+## 126. Amendment of section 80 (English text)[^c-cda6ec9a98e36a1ae99d18822a06c876]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cda6ec9a98e36a1ae99d18822a06c876]: Commencement: Reg. 126 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-cda6ec9a98e36a1ae99d18822a06c876]: Commencement: Reg. 126 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

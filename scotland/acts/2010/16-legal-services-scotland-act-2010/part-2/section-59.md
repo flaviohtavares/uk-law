@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Designated persons[^key-bd0b38d790c766079c33f77e1642f0d9]
+## 59. Designated persons[^c-bd0b38d790c766079c33f77e1642f0d9]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0b38d790c766079c33f77e1642f0d9]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2010/16/section/59) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-bd0b38d790c766079c33f77e1642f0d9]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2010/16/section/59) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

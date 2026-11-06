@@ -24,11 +24,11 @@ summary: ''
 
 (2) Before responding to the consultation, the CAA must consult the following persons so far as it considers it reasonably practicable to do so—
 
-- (a) persons who hold licences by virtue of section 71(1)[^key-4634a9e9a3f23543a2a47c30b35a984b] above, and
+- (a) persons who hold licences by virtue of section 71(1)[^c-4634a9e9a3f23543a2a47c30b35a984b] above, and
 - (b) any other person or body appearing to it to have an interest in the matter.
 
 ## Annotations
 
 [^c19372301]: Textual amendment: Ss. 71A, 71B inserted (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 10](https://www.legislation.gov.uk/ukpga/2006/34/section/10), [14](https://www.legislation.gov.uk/ukpga/2006/34/section/14); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-4634a9e9a3f23543a2a47c30b35a984b]: Textual amendment: Reference in [s. 71B(2)(a)](https://www.legislation.gov.uk/ukpga/1982/16/section/71B/2/a) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2012/19/section/94/5/a), [110(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))
+[^c-4634a9e9a3f23543a2a47c30b35a984b]: Textual amendment: Reference in [s. 71B(2)(a)](https://www.legislation.gov.uk/ukpga/1982/16/section/71B/2/a) substituted (19.2.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 94(5)(a)](https://www.legislation.gov.uk/ukpga/2012/19/section/94/5/a), [110(3)(b)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/3/b) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17))

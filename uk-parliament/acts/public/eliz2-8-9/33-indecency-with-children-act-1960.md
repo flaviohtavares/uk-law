@@ -31,24 +31,24 @@ Indecency with Children Act 1960 (repealed)
 
 1960 c.33
 
-[^key-cc46c1f79c20efac36486ecc589a7753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc46c1f79c20efac36486ecc589a7753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[2nd June 1960\]
 
 **No longer in force.**
 
-## 1. Indecent conduct towards young child.[^key-cc46c1f79c20efac36486ecc589a7753][^key-cc46c1f79c20efac36486ecc589a7753]
+## 1. Indecent conduct towards young child.[^c-cc46c1f79c20efac36486ecc589a7753][^c-cc46c1f79c20efac36486ecc589a7753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Length of imprisonment for certain offences against young girls.[^key-cc46c1f79c20efac36486ecc589a7753][^key-cc46c1f79c20efac36486ecc589a7753]
+## 2. Length of imprisonment for certain offences against young girls.[^c-cc46c1f79c20efac36486ecc589a7753][^c-cc46c1f79c20efac36486ecc589a7753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, extent and commencement.[^key-cc46c1f79c20efac36486ecc589a7753][^key-cc46c1f79c20efac36486ecc589a7753]
+## 3. Short title, extent and commencement.[^c-cc46c1f79c20efac36486ecc589a7753][^c-cc46c1f79c20efac36486ecc589a7753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc46c1f79c20efac36486ecc589a7753]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/33) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-cc46c1f79c20efac36486ecc589a7753]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/33) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Public rights of way[^key-031f21c7c05bf99b9d525ce539ba65b0]
+## 10. Public rights of way[^c-031f21c7c05bf99b9d525ce539ba65b0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may, in connection with the carrying out of the authorised projec
 
 ## Annotations
 
-[^key-031f21c7c05bf99b9d525ce539ba65b0]: Commencement: Art. 10 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-031f21c7c05bf99b9d525ce539ba65b0]: Commencement: Art. 10 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

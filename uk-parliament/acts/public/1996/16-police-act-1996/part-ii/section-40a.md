@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40A. Power to give directions in relation to local policing body[^key-6b3b1efc9ed11254cfc5a893d173f018][^key-3baf1e34f7f8068277c813a088dc88d7][^key-ee0bc95de3f7673768a1fe348fb226e9]
+## 40A. Power to give directions in relation to local policing body[^c-6b3b1efc9ed11254cfc5a893d173f018][^c-3baf1e34f7f8068277c813a088dc88d7][^c-ee0bc95de3f7673768a1fe348fb226e9]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the Secretary of State is satisfied that a local policing body will fail to discharge any of its functions in an effective manner, whether generally or in particular respects, unless remedial measures are taken, he may direct the local policing body to take specified measures in order to prevent such a failure occurring.
 
-(3) The measures that may be specified in a direction under subsection (1) or (2) include the submission to the Secretary of State of an action plan setting out the measures which the local policing body[^key-972897b40ece96dad5beb6a7961f98d5] submitting the plan proposes to take for the purpose of remedying the failure in question or (as the case may be) preventing such a failure occurring.
+(3) The measures that may be specified in a direction under subsection (1) or (2) include the submission to the Secretary of State of an action plan setting out the measures which the local policing body[^c-972897b40ece96dad5beb6a7961f98d5] submitting the plan proposes to take for the purpose of remedying the failure in question or (as the case may be) preventing such a failure occurring.
 
 (4) The Secretary of State shall not give a direction under this section in relation to a local policing body unless—
 
@@ -52,10 +52,10 @@ The Secretary of State shall publish any such observations in such manner as app
 
 ## Annotations
 
-[^key-6b3b1efc9ed11254cfc5a893d173f018]: Modification: Ss. 40-40B: power to apply conferred (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [Sch. 5C para. 11(1)(c)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/11/1/c) (as inserted by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2))
+[^c-6b3b1efc9ed11254cfc5a893d173f018]: Modification: Ss. 40-40B: power to apply conferred (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [Sch. 5C para. 11(1)(c)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5C/paragraph/11/1/c) (as inserted by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [s. 25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2016/1/schedule/2))
 
-[^key-3baf1e34f7f8068277c813a088dc88d7]: Textual amendment: Ss. 40-40B substituted for s. 40 (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/27); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
+[^c-3baf1e34f7f8068277c813a088dc88d7]: Textual amendment: Ss. 40-40B substituted for s. 40 (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/27); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(c)](https://www.legislation.gov.uk/uksi/2007/709/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6))
 
-[^key-ee0bc95de3f7673768a1fe348fb226e9]: Textual amendment: Words in s. 40A substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 91(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/91/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-ee0bc95de3f7673768a1fe348fb226e9]: Textual amendment: Words in s. 40A substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 91(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/91/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-972897b40ece96dad5beb6a7961f98d5]: Textual amendment: Words in s. 40A substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 91(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/91/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-972897b40ece96dad5beb6a7961f98d5]: Textual amendment: Words in s. 40A substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 91(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/91/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

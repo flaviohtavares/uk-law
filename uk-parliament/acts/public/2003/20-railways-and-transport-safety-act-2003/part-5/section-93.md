@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Prescribed limit[^key-31d32d9c81d70079b4df58b62eb476b1]
+## 93. Prescribed limit[^c-31d32d9c81d70079b4df58b62eb476b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31d32d9c81d70079b4df58b62eb476b1]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2003/20/section/93) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(p)](https://www.legislation.gov.uk/uksi/2004/827/article/3/p)
+[^c-31d32d9c81d70079b4df58b62eb476b1]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2003/20/section/93) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(p)](https://www.legislation.gov.uk/uksi/2004/827/article/3/p)

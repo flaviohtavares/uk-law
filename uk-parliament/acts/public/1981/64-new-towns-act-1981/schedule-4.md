@@ -95,7 +95,7 @@ the Secretary of State may make a final decision without further investigation a
 - (a) whether to confirm the order, or
 - (b) what modification, if any, ought to be made.
 
-**4A.**[^key-e80ac3d6538ee5f656ec5434ddc18e14] (1) The confirming authority may appoint a person (“an inspector”) to act instead of it in relation to the confirmation of a compulsory purchase order under this Schedule.
+**4A.**[^c-e80ac3d6538ee5f656ec5434ddc18e14] (1) The confirming authority may appoint a person (“an inspector”) to act instead of it in relation to the confirmation of a compulsory purchase order under this Schedule.
 
 (2) An inspector may be appointed to act in relation to—
 
@@ -133,14 +133,14 @@ the Secretary of State may make a final decision without further investigation a
 **5.** As soon as may be after the order has been confirmed the acquiring authority shall publish in one or more newspapers circulating in the locality in which the land designated by the order is situated a notice in the prescribed form—
 
 - (a) describing the land,
-- (b) stating that the order has been confirmed, [^key-a61d4ac6d5e7ed5d50d9976140835c19]...
+- (b) stating that the order has been confirmed, [^c-a61d4ac6d5e7ed5d50d9976140835c19]...
 - (c) naming a place where a copy of the order and of the map and any annexed descriptive matter may be seen at any reasonable hour,
-- (d)[^key-380d827ccba7c8b91ba7f11295e49ca1] containing a prescribed statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981, and
+- (d)[^c-380d827ccba7c8b91ba7f11295e49ca1] containing a prescribed statement about the effect of Parts 2 and 3 of the Compulsory Purchase (Vesting Declarations) Act 1981, and
 - (e) inviting any person who would be entitled to claim compensation if a declaration were executed under section 4 of that Act to give the acquiring authority information about the person’s name, address and interest in land, using a prescribed form,
 
-and shall serve a like notice on any person who, if Part 2 of the Acquisition of Land Act 1981 applied to the acquisition, would be entitled to a notice under section 12 of that Act (notice to owners, lessees and occupiers).[^key-2af2e7bb94a628c2dedcb44dcedb0a00]
+and shall serve a like notice on any person who, if Part 2 of the Acquisition of Land Act 1981 applied to the acquisition, would be entitled to a notice under section 12 of that Act (notice to owners, lessees and occupiers).[^c-2af2e7bb94a628c2dedcb44dcedb0a00]
 
-**5A.**[^key-5c433f17e0a4647dc1368cc5ca90b73d] (1) A development corporation submitting an order to the Secretary of State under this Part of this Schedule may include in the order a direction that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored); and if it does so the following provisions of this paragraph apply.
+**5A.**[^c-5c433f17e0a4647dc1368cc5ca90b73d] (1) A development corporation submitting an order to the Secretary of State under this Part of this Schedule may include in the order a direction that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored); and if it does so the following provisions of this paragraph apply.
 
 (2) The corporation must submit a statement of commitments together with the order.
 
@@ -242,7 +242,7 @@ a notice, in such form as he may determine, similar, with requisite adaptations,
 - (a) which is the property of a local authority, or
 - (b) which is land belonging to the National Trust, and which is held by the Trust inalienably,
 
-the order shall be subject to special parliamentary procedure in any case where an objection to the acquisition of the land[^key-0569673118ecd4bea3fd9f2334cdf5f7] has been duly made by the local authority or the National Trust, as the case may be, and has not been withdrawn.
+the order shall be subject to special parliamentary procedure in any case where an objection to the acquisition of the land[^c-0569673118ecd4bea3fd9f2334cdf5f7] has been duly made by the local authority or the National Trust, as the case may be, and has not been withdrawn.
 
 **13.**[^c253404] (1) In so far as a compulsory purchase order authorises the acquisition of any land forming part of any common, open space or fuel or field garden allotment, the order shall be subject to special parliamentary procedure unless the Secretary of State . . . [^c253405], is satisfied—
 
@@ -285,22 +285,22 @@ he may, within 6 weeks from the date on which notice of the confirmation or maki
 
 **16.** This Part of this Schedule—
 
-- (a) shall not apply to an order which is confirmed by Act of Parliament under section 4 or[^key-fc76df622f4a00143d073d7a2427c4dc] 6 of the [^c253408]Statutory Orders (Special Procedure) Act 1945, but, (except for that)—
+- (a) shall not apply to an order which is confirmed by Act of Parliament under section 4 or[^c-fc76df622f4a00143d073d7a2427c4dc] 6 of the [^c253408]Statutory Orders (Special Procedure) Act 1945, but, (except for that)—
 - (b) shall have effect in relation to a compulsory purchase order to which that Act applies—
   - (i) as if in paragraph 14(1) above for the reference to the date on which notice of the confirmation or making of the order is first published in accordance with this Schedule there were substituted a reference to the date on which the order becomes operative under that Act of 1945, and
   - (ii) as if paragraph 15(b) above were omitted.
 
 ## Annotations
 
-[^key-e80ac3d6538ee5f656ec5434ddc18e14]: Textual amendment: [Sch. 4 para. 4A](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/4A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/114/1), [118(5)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/h) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-e80ac3d6538ee5f656ec5434ddc18e14]: Textual amendment: [Sch. 4 para. 4A](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/4A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 114(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/114/1), [118(5)(h)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/5/h) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-a61d4ac6d5e7ed5d50d9976140835c19]: Textual amendment: Word in [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5) omitted (2.2.2017) by virtue of [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/2/a) (with [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/4))
+[^c-a61d4ac6d5e7ed5d50d9976140835c19]: Textual amendment: Word in [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5) omitted (2.2.2017) by virtue of [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 4(2)(a)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/2/a) (with [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/4))
 
-[^key-380d827ccba7c8b91ba7f11295e49ca1]: Textual amendment: [Sch. 4 para. 5(d)(e)](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5/d/e) inserted (2.2.2017) by [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/2/b) (with [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/4))
+[^c-380d827ccba7c8b91ba7f11295e49ca1]: Textual amendment: [Sch. 4 para. 5(d)(e)](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5/d/e) inserted (2.2.2017) by [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/2/b) (with [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/4))
 
-[^key-2af2e7bb94a628c2dedcb44dcedb0a00]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5) substituted (2.2.2017) by [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/2/b) (with [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/4))
+[^c-2af2e7bb94a628c2dedcb44dcedb0a00]: Textual amendment: Words in [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5) substituted (2.2.2017) by [The Housing and Planning Act 2016 (Compulsory Purchase) (Corresponding Amendments) Regulations 2017 (S.I. 2017/16)](https://www.legislation.gov.uk/uksi/2017/16), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/16/regulation/1/2), [Sch. para. 4(2)(c)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/2/b) (with [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2017/16/schedule/paragraph/4/4))
 
-[^key-5c433f17e0a4647dc1368cc5ca90b73d]: Textual amendment: [Sch. 4 para. 5A](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5A) inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/3/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
+[^c-5c433f17e0a4647dc1368cc5ca90b73d]: Textual amendment: [Sch. 4 para. 5A](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/5A) inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/3/a), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
 
 [^c253399]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -312,7 +312,7 @@ he may, within 6 weeks from the date on which notice of the confirmation or maki
 
 [^c253403]: Marginal citation: [1949 c. 32](https://www.legislation.gov.uk/ukpga/1949/32).
 
-[^key-0569673118ecd4bea3fd9f2334cdf5f7]: Textual amendment: Words in [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/12) substituted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(8)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/8), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
+[^c-0569673118ecd4bea3fd9f2334cdf5f7]: Textual amendment: Words in [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/1981/64/schedule/4/paragraph/12) substituted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(8)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/8), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
 
 [^c253404]: Modification: Functions of the Minister of Agriculture under Sch. 4 para. 13 transferred to the Secretary of State by [S.I. 1985/442](https://www.legislation.gov.uk/uksi/1985/442), [art. 3](https://www.legislation.gov.uk/uksi/1985/442/article/3)
 
@@ -320,6 +320,6 @@ he may, within 6 weeks from the date on which notice of the confirmation or maki
 
 [^c253406]: Textual amendment: Words repealed by [S.I. 1985/442](https://www.legislation.gov.uk/uksi/1985/442), [art. 5](https://www.legislation.gov.uk/uksi/1985/442/article/5)(*b*)
 
-[^key-fc76df622f4a00143d073d7a2427c4dc]: Textual amendment: Words in Sch. 4 para. 16(a) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
+[^c-fc76df622f4a00143d073d7a2427c4dc]: Textual amendment: Words in Sch. 4 para. 16(a) inserted (25.6.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 25(9)](https://www.legislation.gov.uk/ukpga/2013/27/section/25/9), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/1488/article/3/e) (with [art. 8(3)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/3))
 
 [^c253408]: Marginal citation: [1945 c. 18](https://www.legislation.gov.uk/ukpga/1945/18).

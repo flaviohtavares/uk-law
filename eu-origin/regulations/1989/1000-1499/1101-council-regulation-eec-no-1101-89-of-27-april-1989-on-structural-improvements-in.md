@@ -35,10 +35,10 @@ Council Regulation (EEC) No 1101/89
 
 of 27 April 1989 on structural improvements in inland waterway transport (repealed)
 
-[^key-d824cea1bea30f3ddd24ace9065bb846]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d824cea1bea30f3ddd24ace9065bb846]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-d824cea1bea30f3ddd24ace9065bb846] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-d824cea1bea30f3ddd24ace9065bb846] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d824cea1bea30f3ddd24ace9065bb846]: Textual amendment: Regulation repealed (19.11.2017) by [Regulation (EU) 2017/1952 of the European Parliament and of the Council of 25 October 2017 repealing Regulations (EC) No 2888/2000 and (EC) No 685/2001 of the European Parliament and of the Council and Council Regulation (EEC) No 1101/89 (Text with EEA relevance.)](https://www.legislation.gov.uk/eur/2017/1952), Art. 1; and Regulation expressed to be revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d824cea1bea30f3ddd24ace9065bb846]: Textual amendment: Regulation repealed (19.11.2017) by [Regulation (EU) 2017/1952 of the European Parliament and of the Council of 25 October 2017 repealing Regulations (EC) No 2888/2000 and (EC) No 685/2001 of the European Parliament and of the Council and Council Regulation (EEC) No 1101/89 (Text with EEA relevance.)](https://www.legislation.gov.uk/eur/2017/1952), Art. 1; and Regulation expressed to be revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(a)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

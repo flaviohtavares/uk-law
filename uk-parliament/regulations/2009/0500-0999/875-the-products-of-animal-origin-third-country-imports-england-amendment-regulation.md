@@ -47,11 +47,11 @@ Coming into force
 
 The Secretary of State is a Minister designated[^f00001] for the purposes of making Regulations under section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, and makes these Regulations in exercise of the powers conferred by that section.
 
-## 1. Title, application and commencement[^key-bab4d1e8efcfd08ffd3551b50f06f7dd]
+## 1. Title, application and commencement[^c-bab4d1e8efcfd08ffd3551b50f06f7dd]
 
 These Regulations may be cited as the Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2009; they apply in England and come into force on 1st May 2009.
 
-## 2. Amendment to the Products of Animal Origin (Third Country Imports) (England) Regulations 2006[^key-ae1ae069d6f6c75e328e507b4a521666]
+## 2. Amendment to the Products of Animal Origin (Third Country Imports) (England) Regulations 2006[^c-ae1ae069d6f6c75e328e507b4a521666]
 
 The Products of Animal Origin (Third Country Imports) (England) Regulations 2006[^f00003] are amended by replacing paragraphs (7) and (8) of regulation 4 with the following paragraph—
 
@@ -81,9 +81,9 @@ An Impact Assessment has not been prepared for this instrument as no impact on b
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-bab4d1e8efcfd08ffd3551b50f06f7dd]: Commencement: Reg. 1 in force at 1.5.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/875/regulation/1)
+[^c-bab4d1e8efcfd08ffd3551b50f06f7dd]: Commencement: Reg. 1 in force at 1.5.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/875/regulation/1)
 
-[^key-ae1ae069d6f6c75e328e507b4a521666]: Commencement: Reg. 2 in force at 1.5.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/875/regulation/1)
+[^c-ae1ae069d6f6c75e328e507b4a521666]: Commencement: Reg. 2 in force at 1.5.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/875/regulation/1)
 
 [^f00003]: Footnote: [S. I. 2006/2841](https://www.legislation.gov.uk/uksi/2006/2841) as last amended by [S. I. 2008/3230](https://www.legislation.gov.uk/uksi/2008/3230).
 

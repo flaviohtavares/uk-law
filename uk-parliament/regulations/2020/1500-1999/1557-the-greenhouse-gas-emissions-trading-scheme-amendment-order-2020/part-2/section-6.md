@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Article 4A inserted[^key-85b4794c3bda64733f8517fbd9140a21]
+## 6. Article 4A inserted[^c-85b4794c3bda64733f8517fbd9140a21]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ After article 4 insert—
 
 ## Annotations
 
-[^key-85b4794c3bda64733f8517fbd9140a21]: Commencement: Art. 6 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-85b4794c3bda64733f8517fbd9140a21]: Commencement: Art. 6 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

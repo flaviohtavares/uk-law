@@ -26,7 +26,7 @@ summary: ''
 
 1997 No. 2778 (N.I. 19)
 
-The Waste and Contaminated Land (Northern Ireland) Order 1997[^key-d0df548d7d719f9d57f3e1f72f9617bb]
+The Waste and Contaminated Land (Northern Ireland) Order 1997[^c-d0df548d7d719f9d57f3e1f72f9617bb]
 
 26th November 1997
 
@@ -37,7 +37,7 @@ The Waste and Contaminated Land (Northern Ireland) Order 1997[^key-d0df548d7d719
 - [Section 1 — Title and commencement](part-i/section-1.md)
 - [Section 2 — General interpretation](part-i/section-2.md)
 
-### PART II — WASTE ON LAND[^c22547281][^key-9fb980549bfc6419bf646886d0eac251]
+### PART II — WASTE ON LAND[^c22547281][^c-9fb980549bfc6419bf646886d0eac251]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ The Waste and Contaminated Land (Northern Ireland) Order 1997[^key-d0df548d7d719
 - [Section 5E — Power to search and seize vehicles etc](part-ii/section-5e.md)
 - [Section 5F — Seizure of vehicles etc: supplementary](part-ii/section-5f.md)
 
-#### Electronic waste tracking[^key-4815fb533c98a206ed454e93966310d1]
+#### Electronic waste tracking[^c-4815fb533c98a206ed454e93966310d1]
 
 - [Section 5G — Electronic waste tracking](part-ii/section-5g.md)
 - [Section 5H — Further provision about regulations under Article 5G](part-ii/section-5h.md)
@@ -197,7 +197,7 @@ The Waste and Contaminated Land (Northern Ireland) Order 1997[^key-d0df548d7d719
 
 - [Section 76 — Disclosure of information](part-iv/section-76.md)
 
-#### Charging schemes[^key-e21244d46a3d143428a387b5e4bc9617]
+#### Charging schemes[^c-e21244d46a3d143428a387b5e4bc9617]
 
 - [Section 76A — Power to make charging schemes](part-iv/section-76a.md)
 
@@ -227,14 +227,14 @@ SCHEDULES
 
 ## Annotations
 
-[^key-d0df548d7d719f9d57f3e1f72f9617bb]: Modification: [Order](https://www.legislation.gov.uk/nisi/1997/2778) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
+[^c-d0df548d7d719f9d57f3e1f72f9617bb]: Modification: [Order](https://www.legislation.gov.uk/nisi/1997/2778) modified (31.12.2020) by S.I. 2019/289, reg. 5, Sch. 3 (as amended by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3)[(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/5))
 
 [^c22547281]: Modification: [Pt. 2](https://www.legislation.gov.uk/nisi/1997/2778/part/2) (arts. 3-48) modified by [S.R. 2003/493](https://www.legislation.gov.uk/nisr/2003/493), [Sch. 3 Pt. 1 para. 9](https://www.legislation.gov.uk/nisr/2003/493/schedule/3/part/1/paragraph/9) (as substituted (8.4.2011) by [Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [40](https://www.legislation.gov.uk/nisr/2011/127/regulation/40) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2)))
 
-[^key-9fb980549bfc6419bf646886d0eac251]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1997/2778/part/II) modified (30.11.2013) by [The Controlled Waste and Duty of Care Regulations (Northern Ireland) 2013 (S.R. 2013/255)](https://www.legislation.gov.uk/nisr/2013/255), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/255/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2013/255/regulation/4/1)
+[^c-9fb980549bfc6419bf646886d0eac251]: Modification: [Pt. II](https://www.legislation.gov.uk/nisi/1997/2778/part/II) modified (30.11.2013) by [The Controlled Waste and Duty of Care Regulations (Northern Ireland) 2013 (S.R. 2013/255)](https://www.legislation.gov.uk/nisr/2013/255), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/255/regulation/1/1), [4(1)](https://www.legislation.gov.uk/nisr/2013/255/regulation/4/1)
 
 [^c20492091]: Textual amendment: Art. 5B and preceding cross-heading inserted (25.6.2007) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [6(1)](https://www.legislation.gov.uk/nisi/2007/611/article/6/1) (with [art. 6(2)](https://www.legislation.gov.uk/nisi/2007/611/article/6/2)); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)
 
-[^key-4815fb533c98a206ed454e93966310d1]: Textual amendment: [Arts. 5G](https://www.legislation.gov.uk/nisi/1997/2778/article/5G), [5H](https://www.legislation.gov.uk/nisi/1997/2778/article/5H) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/59/2), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/i)
+[^c-4815fb533c98a206ed454e93966310d1]: Textual amendment: [Arts. 5G](https://www.legislation.gov.uk/nisi/1997/2778/article/5G), [5H](https://www.legislation.gov.uk/nisi/1997/2778/article/5H) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2021/30/section/59/2), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(i)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/i)
 
-[^key-e21244d46a3d143428a387b5e4bc9617]: Textual amendment: [Art. 76A](https://www.legislation.gov.uk/nisi/1997/2778/article/76A) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/1), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)
+[^c-e21244d46a3d143428a387b5e4bc9617]: Textual amendment: [Art. 76A](https://www.legislation.gov.uk/nisi/1997/2778/article/76A) and cross-heading inserted (28.2.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 65(1)](https://www.legislation.gov.uk/ukpga/2021/30/section/65/1), [147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/k)

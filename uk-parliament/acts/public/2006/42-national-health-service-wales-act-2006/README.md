@@ -77,11 +77,11 @@ An Act to consolidate certain enactments relating to the health service.
 
 - [Section 10 — Welsh Ministers' arrangements with other bodies](part-1/section-10.md)
 
-#### Procurement[^key-7ed693d61d5203b2e0c246207ea45fa6]
+#### Procurement[^c-7ed693d61d5203b2e0c246207ea45fa6]
 
 - [Section 10A — Procurement of services etc. as part of the NHS in Wales](part-1/section-10a.md)
 
-#### Direct payments for health care[^key-ec7d9b644361c2bc4103db7d05a38b9b]
+#### Direct payments for health care[^c-ec7d9b644361c2bc4103db7d05a38b9b]
 
 - [Section 10B — Direct payments for health care](part-1/section-10b.md)
 - [Section 10C — Regulations about direct payments](part-1/section-10c.md)
@@ -120,11 +120,11 @@ An Act to consolidate certain enactments relating to the health service.
 
 *Extent: E+W*
 
-##### Nursing services[^key-671c9232ef674b2c90129bdc32090e70]
+##### Nursing services[^c-671c9232ef674b2c90129bdc32090e70]
 
 - [Section 25A — Duty to have regard to providing sufficient nurses](part-2/section-25a.md)
 
-##### Nurse staffing levels[^key-671c9232ef674b2c90129bdc32090e70]
+##### Nurse staffing levels[^c-671c9232ef674b2c90129bdc32090e70]
 
 - [Section 25B — Duty to calculate and take steps to maintain nurse staffing levels](part-2/section-25b.md)
 - [Section 25C — Nurse staffing levels: method of calculation](part-2/section-25c.md)
@@ -587,10 +587,10 @@ SCHEDULES
 
 [^c22548141]: Modification: Act modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [ss. 4](https://www.legislation.gov.uk/ukpga/2006/43/section/4), [8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/18) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-7ed693d61d5203b2e0c246207ea45fa6]: Textual amendment: S. 10A and cross-heading inserted (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 3(2)](https://www.legislation.gov.uk/asc/2024/1/section/3/2), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)
+[^c-7ed693d61d5203b2e0c246207ea45fa6]: Textual amendment: S. 10A and cross-heading inserted (6.2.2024) by [Health Service Procurement (Wales) Act 2024 (asc 1)](https://www.legislation.gov.uk/asc/2024/1), [ss. 3(2)](https://www.legislation.gov.uk/asc/2024/1/section/3/2), [4](https://www.legislation.gov.uk/asc/2024/1/section/4)
 
-[^key-ec7d9b644361c2bc4103db7d05a38b9b]: Textual amendment: Ss. 10B-10D and cross-heading inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 24(2)](https://www.legislation.gov.uk/asc/2025/1/section/24/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/a)
+[^c-ec7d9b644361c2bc4103db7d05a38b9b]: Textual amendment: Ss. 10B-10D and cross-heading inserted (1.1.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 24(2)](https://www.legislation.gov.uk/asc/2025/1/section/24/2), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/a)
 
-[^key-671c9232ef674b2c90129bdc32090e70]: Textual amendment: Ss. 25A-25E and cross-headings inserted (3.8.2016 for the insertion of s. 25D, 6.4.2017 for the insertion of s. 25A, 6.4.2018 in so far as not already in force) by [Nurse Staffing Levels (Wales) Act 2016 (anaw 5)](https://www.legislation.gov.uk/anaw/2016/5), [ss. 1(1)](https://www.legislation.gov.uk/anaw/2016/5/section/1/1), [2(1)](https://www.legislation.gov.uk/anaw/2016/5/section/2/1); [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/829/article/2/a)[(b)](https://www.legislation.gov.uk/wsi/2016/829/article/2/b)[(c)](https://www.legislation.gov.uk/wsi/2016/829/article/2/c)
+[^c-671c9232ef674b2c90129bdc32090e70]: Textual amendment: Ss. 25A-25E and cross-headings inserted (3.8.2016 for the insertion of s. 25D, 6.4.2017 for the insertion of s. 25A, 6.4.2018 in so far as not already in force) by [Nurse Staffing Levels (Wales) Act 2016 (anaw 5)](https://www.legislation.gov.uk/anaw/2016/5), [ss. 1(1)](https://www.legislation.gov.uk/anaw/2016/5/section/1/1), [2(1)](https://www.legislation.gov.uk/anaw/2016/5/section/2/1); [S.I. 2016/829](https://www.legislation.gov.uk/wsi/2016/829), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/829/article/2/a)[(b)](https://www.legislation.gov.uk/wsi/2016/829/article/2/b)[(c)](https://www.legislation.gov.uk/wsi/2016/829/article/2/c)
 
 [^c20965301]: Textual amendment: [Pt. 8 Ch. 1A](https://www.legislation.gov.uk/ukpga/2006/42/part/8/chapter/1A) inserted (prosp.) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 31(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/31/1), [40](https://www.legislation.gov.uk/ukpga/2009/21/section/40)

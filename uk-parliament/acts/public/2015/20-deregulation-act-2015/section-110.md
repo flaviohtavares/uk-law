@@ -27,7 +27,7 @@ summary: ''
 - (a) as to the ways in which regulatory functions may be exercised so as to promote economic growth;
 - (b) as to how persons who have the duty may demonstrate, in a way that is transparent and accountable, that they are complying with it.
 
-(3)[^key-0b743f92fa2cd92b11229f5a8163e9dd] A person who has a duty under section 108(1) must have regard to any guidance issued under subsection (1).
+(3)[^c-0b743f92fa2cd92b11229f5a8163e9dd] A person who has a duty under section 108(1) must have regard to any guidance issued under subsection (1).
 
 (4) Before issuing guidance under subsection (1), the Minister must prepare a draft of the guidance.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c22547951]: Commencement: [S. 110(1)(2)(4)-(8)](https://www.legislation.gov.uk/ukpga/2015/20/section/110/1/2/4) in force at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-0b743f92fa2cd92b11229f5a8163e9dd]: Commencement: [S. 110(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/110/3) in force at 9.3.2017 by [S.I. 2017/331](https://www.legislation.gov.uk/uksi/2017/331), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/331/article/2/c)
+[^c-0b743f92fa2cd92b11229f5a8163e9dd]: Commencement: [S. 110(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/110/3) in force at 9.3.2017 by [S.I. 2017/331](https://www.legislation.gov.uk/uksi/2017/331), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/331/article/2/c)

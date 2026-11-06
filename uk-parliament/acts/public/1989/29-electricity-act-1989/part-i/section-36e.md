@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36E. Applications under section 36D: requirement for permission[^key-f987eee924403457bf42e963f500b3d1]
+## 36E. Applications under section 36D: requirement for permission[^c-f987eee924403457bf42e963f500b3d1]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f987eee924403457bf42e963f500b3d1]: Textual amendment: Ss. 36D, 36E inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/374/article/4/2) (with art. 4(4))
+[^c-f987eee924403457bf42e963f500b3d1]: Textual amendment: Ss. 36D, 36E inserted (26.2.2015) by [The Regulatory Reform (Scotland) Act 2014 (Consequential Modifications) Order 2015 (S.I. 2015/374)](https://www.legislation.gov.uk/uksi/2015/374), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/374/article/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/374/article/4/2) (with art. 4(4))

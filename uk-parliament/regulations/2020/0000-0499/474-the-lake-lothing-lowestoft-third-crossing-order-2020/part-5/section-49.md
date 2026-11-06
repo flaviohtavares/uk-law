@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Transfer of benefit of Order, etc.[^key-f70b199b8071aaee5310687631101042]
+## 49. Transfer of benefit of Order, etc.[^c-f70b199b8071aaee5310687631101042]
 
 *Extent: E+W*
 
 (1) The undertaker may, with the consent of the Secretary of the State—
 
-- (a) transfer to another person (“**the transferee**”) any or all of the benefit of the provisions of this Order that apply to the undertaker[^key-0aab3969ace94bc9e6a0c2c6f3030f80]; and such statutory rights as may be agreed between the undertaker and the transferee; or
+- (a) transfer to another person (“**the transferee**”) any or all of the benefit of the provisions of this Order that apply to the undertaker[^c-0aab3969ace94bc9e6a0c2c6f3030f80]; and such statutory rights as may be agreed between the undertaker and the transferee; or
 - (b) grant to another person (“the grantee”) for a period agreed between the undertaker and the grantee any or all of the benefit of the provisions of this Order that apply to the undertaker and such related statutory rights as may be so agreed.
 
 (2) Where an agreement has been made in accordance with paragraph (1) references in the provisions of this Order that apply to the undertaker must include references to the transferee or the grantee, as the case may be.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f70b199b8071aaee5310687631101042]: Commencement: Art. 49 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-f70b199b8071aaee5310687631101042]: Commencement: Art. 49 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
-[^key-0aab3969ace94bc9e6a0c2c6f3030f80]: Textual amendment: Word in [art. 49(1)(a)](https://www.legislation.gov.uk/uksi/2020/474/article/49/1/a) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/6)
+[^c-0aab3969ace94bc9e6a0c2c6f3030f80]: Textual amendment: Word in [art. 49(1)(a)](https://www.legislation.gov.uk/uksi/2020/474/article/49/1/a) substituted (22.10.2020) by [The Lake Lothing (Lowestoft) Third Crossing (Correction) Order 2020 (S.I. 2020/1158)](https://www.legislation.gov.uk/uksi/2020/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1158/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2020/1158/article/2/6)

@@ -44,19 +44,19 @@ Coming into force
 
 In accordance with section 96(2) of that Act, a draft of these Regulations has been laid before and approved by resolution of the Scottish Parliament.
 
-In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.[^key-99a39c1d99c896b4e61ee2db894e1f45]
+In accordance with section 97(2) of that Act, the Scottish Ministers have informed the Scottish Commission on Social Security of their proposals, notified the Scottish Parliament that they have done so and made their proposals publicly available by such means as they consider appropriate.[^c-99a39c1d99c896b4e61ee2db894e1f45]
 
 ## PART 1 — Introduction
 
-### 1. Citation[^key-3da072391e413983b3b91d0260114e0f]
+### 1. Citation[^c-3da072391e413983b3b91d0260114e0f]
 
 These Regulations may be cited as the Scottish Child Payment Regulations 2020.
 
-### 2. Commencement[^key-a84be6e2da6583fa019953f7d111c946]
+### 2. Commencement[^c-a84be6e2da6583fa019953f7d111c946]
 
 These Regulations come into force on the first Monday after the day on which they are made.
 
-### 3. Overview[^key-69d51d38ccd06b7e1bf01b85d272a749]
+### 3. Overview[^c-69d51d38ccd06b7e1bf01b85d272a749]
 
 (1) Part 2 makes provision about the interpretation of these Regulations.
 
@@ -70,7 +70,7 @@ These Regulations come into force on the first Monday after the day on which the
 
 ### General
 
-#### 4. Interpretation[^key-fe3c95d825094d430faf537d0deeb823]
+#### 4. Interpretation[^c-fe3c95d825094d430faf537d0deeb823]
 
 In these Regulations—
 
@@ -80,11 +80,11 @@ In these Regulations—
 
 ### Expressions about time and timing
 
-#### 5. When an application is to be treated as made[^key-5716425dab7ebc9e5da10363c17f431b]
+#### 5. When an application is to be treated as made[^c-5716425dab7ebc9e5da10363c17f431b]
 
 A reference to the day on which an application is made means the day on which an application is received by the Scottish Ministers or, as the context may require, the day on which the application is treated as having been made by virtue of regulation 25 or the schedule.
 
-#### 6. Meaning of “working day”[^key-183f8a00ef38c8d29f867eb608519b83]
+#### 6. Meaning of “working day”[^c-183f8a00ef38c8d29f867eb608519b83]
 
 A “**working day**” means a day other than—
 
@@ -92,28 +92,28 @@ A “**working day**” means a day other than—
 - (b) a Sunday, or
 - (c) a day which is a bank holiday in Scotland under the Banking and Financial Dealings Act 1971 [^c24321041].
 
-#### 7. Calculation of the age of a child born on 29 February[^key-a583bf2ad6b1ba1caa60f1dc8509e633]
+#### 7. Calculation of the age of a child born on 29 February[^c-a583bf2ad6b1ba1caa60f1dc8509e633]
 
 When calculating the age of a child born on 29 February for the purposes of these Regulations, in a non-leap year the birthday of the child is to be taken to be 28 February.
 
-#### 8. Meaning of “week”[^key-1d1c465f77b88d875fe2b87f2542e1fa]
+#### 8. Meaning of “week”[^c-1d1c465f77b88d875fe2b87f2542e1fa]
 
 A “**week**” means a period of 7 days.
 
 ### Expressions about inter-personal relationships
 
-#### 9. Meaning of being responsible for a child[^key-871f5a5b216efa532faf6cc76c30e401]
+#### 9. Meaning of being responsible for a child[^c-871f5a5b216efa532faf6cc76c30e401]
 
 An individual is to be regarded as responsible for a child on a day only if at least one or more of the following statements is true—
 
 - (a) the child is a dependant of the individual on that day,
 - (b) the child is a dependant of the individual's partner on that day.
 
-#### 10. Meaning of “partner”[^key-e143b1a03b3daea2026dde18c357fc0c]
+#### 10. Meaning of “partner”[^c-e143b1a03b3daea2026dde18c357fc0c]
 
 A person (“A”) is the partner of another person (“B”) on a day only if, on that day, A and B would be regarded as a couple for the purposes of Part 1 of the Welfare Reform Act 2012 [^c24321051] (see section 39 of that Act [^c24321061]).
 
-#### 11. Meaning of “kinship carer”[^key-2f74ff2e0f56eba658c8774aa149e326]
+#### 11. Meaning of “kinship carer”[^c-2f74ff2e0f56eba658c8774aa149e326]
 
 (1) An individual is a kinship carer for a child on a day if—
 
@@ -138,7 +138,7 @@ A person (“A”) is the partner of another person (“B”) on a day only if, 
 
 (3) In paragraph (1)(a) “**related**” means related either by blood, marriage or civil partnership.
 
-#### 12. Meaning of “dependant”[^key-2a7b411baea9d628848420bb1ceeb41c]
+#### 12. Meaning of “dependant”[^c-2a7b411baea9d628848420bb1ceeb41c]
 
 (1) A child is to be regarded as a dependant of a person on a day only if—
 
@@ -148,7 +148,7 @@ A person (“A”) is the partner of another person (“B”) on a day only if, 
 (2) This paragraph applies if—
 
 - (a) the person has been awarded—
-  - (i) [^key-1abe2838ac27f7f927fcbdf86706f8f6]... child benefit or state pension credit for the day in question (or for a period that includes that day), or
+  - (i) [^c-1abe2838ac27f7f927fcbdf86706f8f6]... child benefit or state pension credit for the day in question (or for a period that includes that day), or
   - (ii) universal credit for an assessment period that includes the day in question, and
 - (b) the child is recognised to be a child for whom the person has responsibility in terms of that award of assistance.
 
@@ -156,7 +156,7 @@ A person (“A”) is the partner of another person (“B”) on a day only if, 
 
 ### Expressions about social security assistance
 
-#### 13. Meaning of determination of entitlement to a Scottish child payment[^key-4cfbb49855519fa5bc7b8af16ce821d5]
+#### 13. Meaning of determination of entitlement to a Scottish child payment[^c-4cfbb49855519fa5bc7b8af16ce821d5]
 
 (1) Unless the context otherwise requires, references in these Regulations to a determination of an individual's entitlement to a Scottish child payment are to a determination made—
 
@@ -176,19 +176,19 @@ A person (“A”) is the partner of another person (“B”) on a day only if, 
 - (b) if those rules are satisfied, a decision (taken in accordance with these Regulations) about what assistance the individual is entitled to be given, and
 - (c) if the determination is to be made on the basis that the individual has ongoing entitlement to a Scottish child payment, a decision about what assistance the determination is to entitle the individual to be given in the future.
 
-#### 14. Meaning of references to specified kinds of assistance[^key-dfcca1d75cb1ea929a30c9c8f4104cc5]
+#### 14. Meaning of references to specified kinds of assistance[^c-dfcca1d75cb1ea929a30c9c8f4104cc5]
 
 For the purposes of these Regulations, references to a kind of assistance specified in this regulation are to—
 
-- (a)[^key-374de1be1da107ad5df6833a78a586ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-374de1be1da107ad5df6833a78a586ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) income-based jobseeker's allowance under the Jobseekers Act 1995 [^c24321131],
 - (c) income-related employment and support allowance under Part 1 of the Welfare Reform Act 2007 [^c24321141],
 - (d) income support under Part VII of the Social Security Contributions and Benefits Act 1992 [^c24321151],
 - (e) state pension credit under the State Pension Credit Act 2002 [^c24321161],
 - (f) universal credit under Part 1 of the Welfare Reform Act 2012 [^c24321171],
-- (g)[^key-776db353e2d91eb81ad2681cec789f32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-776db353e2d91eb81ad2681cec789f32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Meaning of references to assistance being awarded[^key-d41dc34dc5cb893e7bc20543773d92eb][^key-e8f88e79392d231c2c7d0ee60b5fad40]
+#### 15. Meaning of references to assistance being awarded[^c-d41dc34dc5cb893e7bc20543773d92eb][^c-e8f88e79392d231c2c7d0ee60b5fad40]
 
 (1) An individual is not to be regarded as having been awarded a kind of assistance specified in regulation 14 for a day or a period if—
 
@@ -202,47 +202,47 @@ For the purposes of these Regulations, references to a kind of assistance specif
 
 the sum that would have been awarded had the deduction not been made.
 
-#### 16. Meaning of “assessment period” in relation to universal credit[^key-1927597de96eb4c9173ef6a68f4775fb]
+#### 16. Meaning of “assessment period” in relation to universal credit[^c-1927597de96eb4c9173ef6a68f4775fb]
 
 “**Assessment period**” means a period in respect of which universal credit may be payable to the individual in question in accordance with section 7 of the Welfare Reform Act 2012.
 
 ## PART 3 — Eligibility and assistance to be given
 
-### 17. Duty to give assistance[^key-56263cc1a4d5271868d0f45369d20342]
+### 17. Duty to give assistance[^c-56263cc1a4d5271868d0f45369d20342]
 
 The Scottish Ministers must give an individual whatever assistance the individual is entitled to be given under a determination of the individual's entitlement to a Scottish child payment.
 
-### 18. Eligibility for a Scottish child payment[^key-8ff02e1a20f48654d63c3a6b7d84eb51]
+### 18. Eligibility for a Scottish child payment[^c-8ff02e1a20f48654d63c3a6b7d84eb51]
 
 An individual is eligible for a Scottish child payment in respect of a child if—
 
 - (a) the individual has made an application for the payment (or an application is treated as having been made by the individual by virtue of a provision in the schedule requiring the Scottish Ministers to make a determination without application in the individual's case),
-- (b) the child is under 16[^key-4ea39b3ca0baa19370a4dee04dd4e387] years of age on the day the application is made,
+- (b) the child is under 16[^c-4ea39b3ca0baa19370a4dee04dd4e387] years of age on the day the application is made,
 - (c) no other individual has received, or is due to receive, a Scottish child payment in respect of the child and the period that the payment will cover (other than in circumstances where paragraph 10(1)(b) of the schedule applies),
 - (d) the individual is ordinarily resident in Scotland on the day the application is made,
 - (e) the individual is responsible for the child on the day the application is made, and
 - (f) the individual has been awarded, for the day the application is made (or for a period or universal credit assessment period which includes that day), assistance of a kind specified in regulation 14.
 
-### 18A. Beginning of entitlement to assistance[^key-16223ce4962ae2671ce58ba472daed02][^key-2284a8c533b68ddb9acc8ebaa3286c83]
+### 18A. Beginning of entitlement to assistance[^c-16223ce4962ae2671ce58ba472daed02][^c-2284a8c533b68ddb9acc8ebaa3286c83]
 
 Where a determination is made that an individual is entitled to a Scottish child payment, the date on which entitlement begins is the date on which the application is made or treated as made in accordance with regulation 5.
 
-### 19. Ongoing entitlement[^key-a3d2d7ec4689c33cb06f49337f2fa360]
+### 19. Ongoing entitlement[^c-a3d2d7ec4689c33cb06f49337f2fa360]
 
 (1) A determination of an individual's entitlement to a Scottish child payment in respect of a child and a week may be made on the basis that the individual has an ongoing entitlement to a Scottish child payment.
 
 (2) A determination of ongoing entitlement is made on the basis that the individual will continue to be entitled to a Scottish child payment in respect of that child in each subsequent week until—
 
 - (a) the week following any week in which the individual ceases to have responsibility for the child,
-- (b) the week following that in which the child attains the age of 16[^key-10465b12eee42374abcb9812cb75fcf6] years,
+- (b) the week following that in which the child attains the age of 16[^c-10465b12eee42374abcb9812cb75fcf6] years,
 - (c) the week following any week in which the individual ceases to be ordinarily resident in Scotland,
 - (d) any week in which no award of assistance of a kind specified in regulation 14 is made to the individual for any day in that week.
 
-### 19A. Circumstances in which assistance may be suspended[^key-8c1dc74e3d8f881709821faff4cba252]
+### 19A. Circumstances in which assistance may be suspended[^c-8c1dc74e3d8f881709821faff4cba252]
 
 (1) The Scottish Ministers may decide that an individual who has an ongoing entitlement to Scottish child payment in respect of a period by virtue of regulation 19 is not to become entitled to be given some or all of that assistance at the time at which the individual otherwise would in accordance with that regulation, as read with regulation 21 (time of payment) (referred to in these Regulations as a decision to suspend the individual’s Scottish child payment).
 
-(2)[^key-27eae5c6b393488b7781f053598a747a] Where such a decision is made in respect of an individual, payments of Scottish child payment to that individual are to be suspended until such time as the Scottish Ministers decide to end the suspension in accordance with regulation 19E.
+(2)[^c-27eae5c6b393488b7781f053598a747a] Where such a decision is made in respect of an individual, payments of Scottish child payment to that individual are to be suspended until such time as the Scottish Ministers decide to end the suspension in accordance with regulation 19E.
 
 (3) The Scottish Ministers may decide to suspend an individual’s Scottish child payment only in the circumstances where—
 
@@ -309,7 +309,7 @@ In regulations 19A to 19F—
 
 ### 20. Value and form of a Scottish child payment
 
-(1) The value of a Scottish child payment in respect of a child is £28.20[^key-0004d290cb2e32d3edf3e46408cd866f] per week.
+(1) The value of a Scottish child payment in respect of a child is £28.20[^c-0004d290cb2e32d3edf3e46408cd866f] per week.
 
 (2) A Scottish child payment may only be given as money, except as provided for by paragraph (3).
 
@@ -320,18 +320,18 @@ In regulations 19A to 19F—
 
 (4) For the purpose of sub-paragraph (3), “**reasonable level**” means a level that is reasonable having regard to the financial circumstances of the individual.
 
-(5)[^key-76d0b60fffd6f28c7f8bc852f2c1ffd7] For each week in the period of 12 weeks ending with the death of the child, the amount of Scottish child payment that is to be given to the individual is the weekly rate, multiplied by two.
+(5)[^c-76d0b60fffd6f28c7f8bc852f2c1ffd7] For each week in the period of 12 weeks ending with the death of the child, the amount of Scottish child payment that is to be given to the individual is the weekly rate, multiplied by two.
 
-### 21. Time of payment[^key-6f828f8d52dbd3517b207049933edefb]
+### 21. Time of payment[^c-6f828f8d52dbd3517b207049933edefb]
 
-(1) Following a determination that an individual is entitled to a Scottish child payment, the payment is to be given in accordance with paragraph (2) or, where paragraph (3) applies, paragraph (4)[^key-734d9c0ee6cdd8ef389100f8a27b29cc].
+(1) Following a determination that an individual is entitled to a Scottish child payment, the payment is to be given in accordance with paragraph (2) or, where paragraph (3) applies, paragraph (4)[^c-734d9c0ee6cdd8ef389100f8a27b29cc].
 
-(2)[^key-5f343069ecd5b638ba9a05caa38c7c29] Except where paragraph (3) applies, where a determination is made that an individual is entitled to a Scottish child payment, the Scottish Ministers are to make—
+(2)[^c-5f343069ecd5b638ba9a05caa38c7c29] Except where paragraph (3) applies, where a determination is made that an individual is entitled to a Scottish child payment, the Scottish Ministers are to make—
 
 - (a) the first payment of a Scottish child payment on a date specified in the determination, and
 - (b) subsequent payments in the last week of each successive period of 4 weeks in which the individual continues to be entitled to a Scottish child payment for at least one week by virtue of regulation 19.
 
-(3)[^key-001d6c52f32ea10e3639b98c9e086b6e] This paragraph applies where the payment is to be made pursuant to a determination made in accordance with paragraph 11 of the schedule (determination following award of a Scottish child payment in respect of another child).
+(3)[^c-001d6c52f32ea10e3639b98c9e086b6e] This paragraph applies where the payment is to be made pursuant to a determination made in accordance with paragraph 11 of the schedule (determination following award of a Scottish child payment in respect of another child).
 
 (4) Where paragraph (3) applies, payments are to be made so that—
 
@@ -341,7 +341,7 @@ In regulations 19A to 19F—
 
 (5) Where the period mentioned in paragraph (4)(b) includes a part-week, for the purpose only of that first payment the part-week is to be treated as a full week.
 
-### 22. Individual's right to stop receiving assistance[^key-b726d25e90734d2babb8e446fbb6cd58]
+### 22. Individual's right to stop receiving assistance[^c-b726d25e90734d2babb8e446fbb6cd58]
 
 (1) An individual may request that the Scottish Ministers cancel a determination of the individual's entitlement to assistance.
 
@@ -356,7 +356,7 @@ In regulations 19A to 19F—
 
 (5) The Scottish Ministers must publicise any requirements for the time being set under paragraph (4).
 
-### 23. Later determination supersedes earlier[^key-cb15b9d308d376f0636ea7e72d4c3680]
+### 23. Later determination supersedes earlier[^c-cb15b9d308d376f0636ea7e72d4c3680]
 
 (1) The latest determination of an individual's entitlement to a Scottish child payment in respect of a given period or event supersedes any earlier determination insofar as it deals with the individual's entitlement to a Scottish child payment in respect of the same period or event.
 
@@ -364,7 +364,7 @@ In regulations 19A to 19F—
 
 ## PART 4 — Transitory provision
 
-### 24. Definitions – initial period[^key-613ac14039f8c67da1579f590b231c8e]
+### 24. Definitions – initial period[^c-613ac14039f8c67da1579f590b231c8e]
 
 (1) Regulations 25, 26, and 27 apply in respect of the initial application period and the initial payment period.
 
@@ -373,18 +373,18 @@ In regulations 19A to 19F—
 - (a) the “**initial application period**” means the period beginning with the day on which these Regulations come into force and ending on the day which falls 14 weeks after that day, and
 - (b) the “**initial payment period**” means the period beginning with the day immediately after the end of the initial application period and ending on the day which falls 4 weeks after that day.
 
-### 25. When an application is treated as made – initial period[^key-7e30cb29f299e7b1194ce08ee38088ce]
+### 25. When an application is treated as made – initial period[^c-7e30cb29f299e7b1194ce08ee38088ce]
 
 Any application for a Scottish child payment which is received by the Scottish Ministers during the initial application period is to be treated for the purposes of these Regulations as having been made on the day immediately after the expiry of that period.
 
-### 26. Time of payment – initial period[^key-79d798c2edb1d03b4f70d0a4fce4f416]
+### 26. Time of payment – initial period[^c-79d798c2edb1d03b4f70d0a4fce4f416]
 
 Where an individual's first payment period (see regulation 21(2)(a)) would fall wholly or partly in the initial payment period, regulation 21(2) does not apply and instead—
 
 - (a) the first payment to the individual is to be made in arrears on such date within the initial payment period as the Scottish Ministers consider appropriate,
 - (b) subsequent payments to the individual are to be made in the last week of each successive period of 4 weeks in which the individual continues to be entitled to a Scottish child payment for at least one week by virtue of regulation 19.
 
-### 27. Duty to notify – initial period[^key-c6184e6c1214daac66cbe9c529376851]
+### 27. Duty to notify – initial period[^c-c6184e6c1214daac66cbe9c529376851]
 
 (1) The Scottish Ministers may place a duty to notify them about a change in circumstances on a person to whom sub-paragraph (3) or (4) applies.
 
@@ -412,7 +412,7 @@ Regulation 3(4)
 
 ### PART 1 — Applications and determination of applications
 
-#### 1. Requirement for applications[^key-fc0a9aaa37682c279d4105befa28c5a3]
+#### 1. Requirement for applications[^c-fc0a9aaa37682c279d4105befa28c5a3]
 
 (1) Except as provided for by Part 2 of this schedule, an individual is not entitled to a Scottish child payment unless an application is made to the Scottish Ministers.
 
@@ -436,7 +436,7 @@ as the Scottish Ministers require.
 - (b) the reasons for it, and
 - (c) the individual's right to appeal under paragraph 23(1).
 
-#### 2. Withdrawal of application[^key-e33dfd475c8204504faa7e14cf4dedbd]
+#### 2. Withdrawal of application[^c-e33dfd475c8204504faa7e14cf4dedbd]
 
 (1) An individual who has made an application for a Scottish child payment may request that the Scottish Ministers disregard it.
 
@@ -449,14 +449,14 @@ as the Scottish Ministers require.
 
 (4) The Scottish Ministers must publicise any requirements for the time being set under sub-paragraph (3).
 
-#### 3. Duty to make a determination of entitlement[^key-8580666b90e57585b6f6bffe8c21f55f]
+#### 3. Duty to make a determination of entitlement[^c-8580666b90e57585b6f6bffe8c21f55f]
 
 The Scottish Ministers must make a determination of an individual's entitlement to a Scottish child payment—
 
 - (a) on receiving an application for a Scottish child payment from the individual, or
 - (b) when required to do so by Part 2 of this schedule.
 
-#### 4. Notice of determination[^key-b12f5997b6b33f14b40ebe60403cdae4]
+#### 4. Notice of determination[^c-b12f5997b6b33f14b40ebe60403cdae4]
 
 (1) Having made a determination under paragraph 3 of an individual's entitlement to a Scottish child payment, the Scottish Ministers must inform the individual—
 
@@ -467,27 +467,27 @@ The Scottish Ministers must make a determination of an individual's entitlement 
 
 (2) The Scottish Ministers must fulfil their duty under sub-paragraph (1) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-#### 5. Multiple determinations involving the same child[^key-39ec84a21f387fddf0df322636fb010f]
+#### 5. Multiple determinations involving the same child[^c-39ec84a21f387fddf0df322636fb010f]
 
-(1) Where the Scottish Ministers are required by paragraph 3 to make a determination of the entitlement of two or more individuals for a Scottish child payment in respect of the same child and the same period, the determination must be made in accordance with sub-paragraphs (2) to (6)[^key-9582917edb4d8188715b84b56714c055].
+(1) Where the Scottish Ministers are required by paragraph 3 to make a determination of the entitlement of two or more individuals for a Scottish child payment in respect of the same child and the same period, the determination must be made in accordance with sub-paragraphs (2) to (6)[^c-9582917edb4d8188715b84b56714c055].
 
 (2) For the avoidance of doubt, the Scottish Ministers must—
 
 - (a) make a determination of each individual's entitlement, notwithstanding that another individual may have previously been properly awarded a Scottish child payment in respect of the child (and continue to receive that payment), and
 - (b) in so doing, determine which (if any) of the individuals is to be entitled to a Scottish child payment in respect of the child.
 
-(3) Where the Scottish Ministers decide that two or more individuals are eligible for a Scottish child payment in respect of the child and the period (see regulations 18 and 19), they must apply the rules in sub-paragraphs (4) to (6)[^key-a55318a718287da646f725ceb5f08808] to determine which of the individuals is to be entitled to the payment.
+(3) Where the Scottish Ministers decide that two or more individuals are eligible for a Scottish child payment in respect of the child and the period (see regulations 18 and 19), they must apply the rules in sub-paragraphs (4) to (6)[^c-a55318a718287da646f725ceb5f08808] to determine which of the individuals is to be entitled to the payment.
 
 (4) The rules are that—
 
-- (a) where only one individual has been awarded [^key-89b860d733c976b0baaaeb54f0fab2e3]... state pension credit or universal credit for the day, or assessment period that includes the day, in question (and the child is recognised to be a child for whom the individual has responsibility in terms of that award of assistance), unless the Scottish Ministers decide otherwise in pursuance of the rule in sub-paragraph (6),[^key-3747d0863f4a0ababba275163b48c4f6] that individual is entitled to the payment,
+- (a) where only one individual has been awarded [^c-89b860d733c976b0baaaeb54f0fab2e3]... state pension credit or universal credit for the day, or assessment period that includes the day, in question (and the child is recognised to be a child for whom the individual has responsibility in terms of that award of assistance), unless the Scottish Ministers decide otherwise in pursuance of the rule in sub-paragraph (6),[^c-3747d0863f4a0ababba275163b48c4f6] that individual is entitled to the payment,
 - (b) where none of the individuals have been awarded assistance as described in sub-paragraph (4)(a), and only one individual has been awarded child benefit for the day in question (and the child is recognised to be a child for whom the individual has responsibility in terms of that award of assistance), that individual is entitled to the payment,
 - (c) where the individuals are kinship carers for the child, and none of them have been awarded any kind of assistance as described in sub-paragraph (4)(a) or (4)(b), the individual whose determination is to be made first is entitled to the payment,
 - (d) where one individual has been awarded child benefit for the day in question, and another individual is a kinship carer for the child, the individual who is the kinship carer for the child is entitled to the payment.
 
 (5) For the purposes of sub-paragraph (4), the Scottish Ministers must determine the entitlement of the individual whose entitlement first fell to be determined in accordance with paragraph 3 (whether on receipt of an application from the individual or by virtue of Part 2 of this schedule) before making any other determination.
 
-(6)[^key-002d82c0be214e1ce887cfb2aa18f992] Where—
+(6)[^c-002d82c0be214e1ce887cfb2aa18f992] Where—
 
 - (a) having applied the rules in sub-paragraph (4) in accordance with sub-paragraph (3) it appears to the Scottish Ministers from information available to them that none of the circumstances described in rules (a) to (d) are true in the case of the individuals in question, or
 - (b) the circumstances described in rule (a) of subparagraph (4) are true in the case of the individuals in question and one individual is a kinship carer for the child,
@@ -496,7 +496,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 ### PART 2 — Determination without application
 
-#### 6. Determination following official error resulting in underpayment[^key-8670ac811c7d252e1775d4d3e764527c]
+#### 6. Determination following official error resulting in underpayment[^c-8670ac811c7d252e1775d4d3e764527c]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment (without receiving an application) where—
 
@@ -516,7 +516,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 (4) In this paragraph, “**official error**” means an error made by someone acting on behalf of the Scottish Ministers or on behalf of a Minister of the Crown that was not materially contributed to by anyone not so acting.
 
-#### 7. Determination following error resulting in overpayment[^key-d37de85e5d0058240a92c3c3e85db9d2]
+#### 7. Determination following error resulting in overpayment[^c-d37de85e5d0058240a92c3c3e85db9d2]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment (without receiving an application) where—
 
@@ -544,7 +544,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
     - (bb) an assumption which proves to be wrong,
 - (b) a new decision under regulation 13 not being made after an assumption on the basis of which an earlier decision was made has proved to be wrong.
 
-#### 8. Determination following backdated award of assistance[^key-6f6ce73d23f3af011429081361557564]
+#### 8. Determination following backdated award of assistance[^c-6f6ce73d23f3af011429081361557564]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment (without receiving an application) where the circumstances in sub-paragraphs (2) to (5) apply.
 
@@ -561,14 +561,14 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 (6) For the purposes of this paragraph, an award is backdated if it relates to a day, or a period that begins on a day, that falls before the day the decision to make the award was taken.
 
-**9.**[^key-758eefd4bf103da24ec22e8f923b32d5] (1) In making a determination required by paragraph 8 the Scottish Ministers are to use—
+**9.**[^c-758eefd4bf103da24ec22e8f923b32d5] (1) In making a determination required by paragraph 8 the Scottish Ministers are to use—
 
 - (a) the information provided in the application that led to the original determination, and
 - (b) any other information they have obtained in connection with that application.
 
 (2) Where a determination is to be, or has been, made without an application by virtue of paragraph 8, references in these Regulations to the day the application is made are to be read as references to the day the application that led to the original determination was made.
 
-#### 10. Determination following change of circumstances etc.[^key-364cddcd19beaf8de0bcd712dc012f16]
+#### 10. Determination following change of circumstances etc.[^c-364cddcd19beaf8de0bcd712dc012f16]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment in respect of a child (without receiving an application) where an individual has ongoing entitlement to a Scottish child payment (see regulation 19) and they—
 
@@ -582,7 +582,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 (3) In sub-paragraph (1)(a), “**a change in circumstances**” means a change in the circumstances of the individual in relation to any of the matters listed in regulation 18.
 
-#### 11. Determination following award of a Scottish child payment in respect of another child[^key-2df7aaafe78d910471c68ab34a768b2a]
+#### 11. Determination following award of a Scottish child payment in respect of another child[^c-2df7aaafe78d910471c68ab34a768b2a]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment in respect of a child (without receiving an application) where—
 
@@ -595,12 +595,12 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 (3) Where a determination is to be made by virtue of this paragraph, references in these Regulations to the day the application is made are to be read as references to—
 
 - (a) the day on which notification is given under sub-paragraph (1)(b), or
-- (b) where the child is under 6 years old[^key-9e2f86b0504746e63e5e992f52b95c94] such earlier day not more than 4 weeks before that day on which the child was recognised to be a child for whom the individual has responsibility in terms of an award of assistance mentioned in regulation 12(2)(a), or[^key-ba11084ece67e4c7e7b01b8b8b27a38f]
-- (c)[^key-fd42ecc9f102438d75d2312f1f8dac2e] where the child is 6 years old or older, such earlier day which is—
+- (b) where the child is under 6 years old[^c-9e2f86b0504746e63e5e992f52b95c94] such earlier day not more than 4 weeks before that day on which the child was recognised to be a child for whom the individual has responsibility in terms of an award of assistance mentioned in regulation 12(2)(a), or[^c-ba11084ece67e4c7e7b01b8b8b27a38f]
+- (c)[^c-fd42ecc9f102438d75d2312f1f8dac2e] where the child is 6 years old or older, such earlier day which is—
   - (i) not more than 4 weeks before that day on which the child was recognised to be a child for whom the individual has responsibility in terms of an award of assistance mentioned in regulation 12(2)(a), and
   - (ii) on or after 14 November 2022.
 
-#### 12. Determination following cessation of award of a Scottish child payment[^key-6f3f63720f99710f339ee3bda1ad776d]
+#### 12. Determination following cessation of award of a Scottish child payment[^c-6f3f63720f99710f339ee3bda1ad776d]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment in respect of a child (without receiving an application) where the circumstances in sub-paragraphs (2) to (5) apply.
 
@@ -613,11 +613,11 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 (4) It appears to the Scottish Ministers that, due to a change in the individual's circumstances in relation to the matters referred to in sub-paragraph (3), the individual is likely to once again be entitled to a Scottish child payment in respect of the child.
 
-(5) Not more than 12 weeks have passed since the day on which the change of circumstances[^M_F_e3737a29-c7fa-4b2e-b560-abcabe6fc55f] referred to in sub-paragraph (3) occurred[^key-b7a6286fcccd0a67dfe69e821d3b97f4].
+(5) Not more than 12 weeks have passed since the day on which the change of circumstances[^M_F_e3737a29-c7fa-4b2e-b560-abcabe6fc55f] referred to in sub-paragraph (3) occurred[^c-b7a6286fcccd0a67dfe69e821d3b97f4].
 
 (6) Where a determination is to be made by virtue of this paragraph, references in these Regulations to the day the application is made are to be read as references to the day on which the change in circumstances occurred or, if that is not known, the day on which the Scottish Ministers became aware of the change in circumstances.
 
-#### 13. Determination to effect a deduction decision[^key-447370a0bc2eba83e626e7e4957e764e]
+#### 13. Determination to effect a deduction decision[^c-447370a0bc2eba83e626e7e4957e764e]
 
 (1) The Scottish Ministers are to make a determination of an individual's entitlement to a Scottish child payment (without receiving an application) where the circumstances in sub-paragraphs (2) and (3) apply.
 
@@ -643,7 +643,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 ### PART 3 — Re-determination of entitlement
 
-#### 14. Right to request re-determination and periods allowed[^key-50542cededa34acd992bd56691a1c35f]
+#### 14. Right to request re-determination and periods allowed[^c-50542cededa34acd992bd56691a1c35f]
 
 (1) An individual may request that the Scottish Ministers re-determine the individual's entitlement to a Scottish child payment, after being informed (in accordance with paragraph 4(1)) of a determination by the Ministers of the individual's entitlement to such a payment.
 
@@ -659,7 +659,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 - (b) the reasons for it, and
 - (c) the individual's right to appeal under paragraph 23.
 
-#### 15. Late request for re-determination[^key-30b444d4c7b22554c19812275ee69f3d]
+#### 15. Late request for re-determination[^c-30b444d4c7b22554c19812275ee69f3d]
 
 (1) It is for the Scottish Ministers, or on appeal under paragraph 23 the First-tier Tribunal for Scotland, to decide whether, for the purpose of paragraph 14(3), an individual has a good reason for not requesting a re-determination sooner.
 
@@ -670,14 +670,14 @@ the Scottish Ministers must determine which of the individuals is entitled to th
   - (i) the reasons for the decision, and
   - (ii) the individual's right to appeal under paragraph 23.
 
-#### 16. Duty to re-determine and period allowed[^key-4c303779de0bd57781611ef3a19b84f3]
+#### 16. Duty to re-determine and period allowed[^c-4c303779de0bd57781611ef3a19b84f3]
 
 (1) On receiving a valid request under paragraph 14 to re-determine an individual's entitlement to a Scottish child payment, the Scottish Ministers are to make a determination of the individual's entitlement to that payment.
 
 (2) The Scottish Ministers must aim to make that determination within the period of 16 working days beginning with—
 
-- (a) the day that the request for a re-determination is received by the Scottish Ministers,[^key-67a3984187addf95e17021d83d4960be]...
-- (b) in the case of a request for a re-determination to which paragraph 14(3) applies (late requests), the day on which it is decided by the Scottish Ministers or (as the case may be) the First-tier Tribunal for Scotland that the individual has a good reason for not requesting a re-determination sooner , or[^key-7802bc2f5b24bdf3a129e43cb82fbd71]
+- (a) the day that the request for a re-determination is received by the Scottish Ministers,[^c-67a3984187addf95e17021d83d4960be]...
+- (b) in the case of a request for a re-determination to which paragraph 14(3) applies (late requests), the day on which it is decided by the Scottish Ministers or (as the case may be) the First-tier Tribunal for Scotland that the individual has a good reason for not requesting a re-determination sooner , or[^c-7802bc2f5b24bdf3a129e43cb82fbd71]
 - (c) in a case where the Scottish Ministers have informed the individual of their decision that the request for a re-determination was not made in such form as the Scottish Ministers require, the day on which it is subsequently decided by the First-Tier Tribunal for Scotland that the individual in question has made the request in such form as the Scottish Ministers require.
 
 (3) If the Scottish Ministers fail to make the determination within that period—
@@ -685,7 +685,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 - (a) their duty to make the determination ends (but they may still make it), and
 - (b) paragraph 18 applies.
 
-#### 17. Notice of re-determination[^key-cc15224e924dce552dc38ac31e500415]
+#### 17. Notice of re-determination[^c-cc15224e924dce552dc38ac31e500415]
 
 (1) Having made a determination under paragraph 16(1) of an individual's entitlement to a Scottish child payment, the Scottish Ministers must—
 
@@ -697,7 +697,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 (2) The Scottish Ministers must fulfil their duty under sub-paragraph (1)(a) in a way that leaves the individual with a record of the information which the individual can show to, or otherwise share with, others.
 
-#### 18. Notice where re-determination not made timeously[^key-c543c7a32af2380f604a063d1e4fb9bb]
+#### 18. Notice where re-determination not made timeously[^c-c543c7a32af2380f604a063d1e4fb9bb]
 
 (1) Where the Scottish Ministers fail to make a determination under paragraph 16 within the period allowed by paragraph 16(2), the Scottish Ministers must—
 
@@ -710,7 +710,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 
 ### PART 4 — Appeals
 
-#### 19. Right to appeal to the First-tier Tribunal against determination[^key-07cf26869e208b13442db33972b4dfd3]
+#### 19. Right to appeal to the First-tier Tribunal against determination[^c-07cf26869e208b13442db33972b4dfd3]
 
 (1) An individual may appeal to the First-tier Tribunal for Scotland—
 
@@ -722,7 +722,7 @@ the Scottish Ministers must determine which of the individuals is entitled to th
 - (a) having been informed of a determination under paragraph 3 of the individual's entitlement to a Scottish child payment, the individual has made a request for a re-determination under paragraph 14, and
 - (b) the Scottish Ministers have failed to make a determination under paragraph 16 in consequence of that request within the period of 16 working days described in paragraph 16(2).
 
-#### 20. Initiating an appeal[^key-a0940df88a79545bc1814c3676b595f9]
+#### 20. Initiating an appeal[^c-a0940df88a79545bc1814c3676b595f9]
 
 (1) To bring an appeal against a determination, an individual must submit to the Scottish Ministers the form provided under paragraph 17(1)(b) or (as the case may be) paragraph 18(1)(b) in relation to the determination.
 
@@ -739,7 +739,7 @@ to the First-tier Tribunal.
 
 (5) For the avoidance of doubt, the form that the Scottish Ministers provide under paragraph 17 and 18 need not be a physical form.
 
-#### 21. Deadline for appealing[^key-c0e704e79f66623bccaec8559b049c47]
+#### 21. Deadline for appealing[^c-c0e704e79f66623bccaec8559b049c47]
 
 (1) An appeal under paragraph 19—
 
@@ -756,7 +756,7 @@ to the First-tier Tribunal.
 
 (3) The First-tier Tribunal may give permission under sub-paragraph (1)(b) for an appeal to be brought only if it is satisfied that there is a good reason for the application not having been made sooner.
 
-#### 22. First-tier Tribunal's power to determine entitlement[^key-d70b167c3470777e970197389acfa89d][^key-8009ab2bd5f8a40c87def0637744b7ad]
+#### 22. First-tier Tribunal's power to determine entitlement[^c-d70b167c3470777e970197389acfa89d][^c-8009ab2bd5f8a40c87def0637744b7ad]
 
 (1) In an appeal under paragraph 19 (right to appeal to the First-tier Tribunal against determination) against a determination of an individual’s entitlement to a Scottish child payment, the First-tier Tribunal may—
 
@@ -770,7 +770,7 @@ to the First-tier Tribunal.
 
 (3) In sub-paragraph (2), “**the relevant time**” means the time at which the individual’s entitlement fell to be determined by the Scottish Ministers in making the original determination under paragraph 3 (duty to make a determination of entitlement) in relation to that entitlement.
 
-#### 23. Appeal to First-tier Tribunal against process decisions[^key-7c5e3f63d72034045b1502c73dc73353]
+#### 23. Appeal to First-tier Tribunal against process decisions[^c-7c5e3f63d72034045b1502c73dc73353]
 
 (1) An individual may appeal to the First-tier Tribunal for Scotland against a decision by the Scottish Ministers—
 
@@ -798,7 +798,7 @@ is final.
 - (a) reviewed under section 43 of the Tribunals (Scotland) Act 2014 [^c24321201], nor
 - (b) appealed against under section 46 of that Act.
 
-#### 24. Presumption for purposes of paragraphs 4, 14, 15, 17, 18 and 20[^key-5555c52e9d6ddb9d5685a84fd463485a]
+#### 24. Presumption for purposes of paragraphs 4, 14, 15, 17, 18 and 20[^c-5555c52e9d6ddb9d5685a84fd463485a]
 
 (1) Sub-paragraph (2) applies in relation to the references in paragraphs 4, 14, 15, 17, 18, and 20 to an individual being informed of something by the Scottish Ministers in accordance with these Regulations.
 
@@ -811,7 +811,7 @@ the individual is to be taken to have received the information 48 hours after it
 
 ### PART 5 — Further provision about determining entitlement
 
-#### 25. Obtaining information to make determination[^key-acd408a0a98ff04cc6390f3b7b88f8fb]
+#### 25. Obtaining information to make determination[^c-acd408a0a98ff04cc6390f3b7b88f8fb]
 
 (1) Where—
 
@@ -836,9 +836,9 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 (4) If the individual fails to provide information requested under sub-paragraph (1) within the period specified under sub-paragraph (1) or (3) the Scottish Ministers may, without further consideration, proceed to make the determination on the basis that the individual does not satisfy the eligibility rules in regulation 18, or (as the case may be) that the individual has no ongoing entitlement under regulation 19.
 
-(5)[^key-e0790d83129bf8eebe4d166509d2906d] A determination made in accordance with paragraph (4) takes effect on the date the individual’s Scottish child payment was suspended.
+(5)[^c-e0790d83129bf8eebe4d166509d2906d] A determination made in accordance with paragraph (4) takes effect on the date the individual’s Scottish child payment was suspended.
 
-#### 26. Duty to notify change of circumstances[^key-b8026ccce38f081e14328981300d10fb]
+#### 26. Duty to notify change of circumstances[^c-b8026ccce38f081e14328981300d10fb]
 
 (1) The Scottish Ministers may place a duty to notify them about a change in circumstances on a person to whom sub-paragraph (3) or (4) applies.
 
@@ -852,7 +852,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 (4) This sub-paragraph applies to a person acting on behalf of an individual to whom sub-paragraph (3) applies in relation to any application for a Scottish child payment or the determination of the individual's entitlement.
 
-#### 27. Lifting of duty to notify change of circumstances[^key-2e1e076ea3a6e1c161bf105ba041ec52]
+#### 27. Lifting of duty to notify change of circumstances[^c-2e1e076ea3a6e1c161bf105ba041ec52]
 
 (1) A duty to notify the Scottish Ministers about a change of circumstances placed on a person under regulation 27 or paragraph 26 ceases to apply when—
 
@@ -863,7 +863,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 (3) Under sub-paragraph (2), the Scottish Ministers may lift a duty as it relates to some or all of the changes in circumstances which the person has a duty to notify them about.
 
-#### 28. Right to support[^key-854329a420163fcf5766b875f8ef7a37]
+#### 28. Right to support[^c-854329a420163fcf5766b875f8ef7a37]
 
 (1) The Scottish Ministers must comply with an individual's wish to have another person (“a supporter”) present during any discussion relating to the individual's entitlement to a Scottish child payment, unless the wish is unreasonable.
 
@@ -875,7 +875,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 ### PART 6 — Recovery of value of assistance
 
-#### 29. Liability for assistance given in error[^key-101ae35c8d06c51a4ca487017172c831]
+#### 29. Liability for assistance given in error[^c-101ae35c8d06c51a4ca487017172c831]
 
 (1) An individual is liable to pay the Scottish Ministers the value of any assistance that was given to the individual due to an error (but see paragraph 30).
 
@@ -895,7 +895,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
     - (bb) an assumption which proves to be wrong.
 - (b) a new decision under regulation 13 not being made after an assumption on the basis of which an earlier decision was made has proved to be wrong.
 
-#### 30. Exclusion from liability[^key-78842d44dc69f51b52a508218494873e]
+#### 30. Exclusion from liability[^c-78842d44dc69f51b52a508218494873e]
 
 (1) An individual has no liability under paragraph 29(1) in respect of assistance given due to an error if the error is neither—
 
@@ -918,7 +918,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 - (a) sub-paragraph (2)(a), the reference to providing information includes making a statement,
 - (b) sub-paragraph (3)(b), the reference to information given to the individual by the Scottish Ministers does not include information explaining why the Ministers consider the assistance to have been given in error.
 
-#### 31. Consideration for debtor's circumstances[^key-a474ea83bc92b24595562647d3bed654]
+#### 31. Consideration for debtor's circumstances[^c-a474ea83bc92b24595562647d3bed654]
 
 (1) This paragraph applies to decisions of the Scottish Ministers about—
 
@@ -927,7 +927,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 (2) In making a decision to which this paragraph applies, the Scottish Ministers must have regard to the financial circumstances of the individual who owes the money (so far as those circumstances are known to the Ministers).
 
-#### 32. Exclusion of other rights of recovery[^key-97eb4db8dd7c967214c6d481a29759dd]
+#### 32. Exclusion of other rights of recovery[^c-97eb4db8dd7c967214c6d481a29759dd]
 
 (1) An individual given assistance in error has no non-statutory obligation based on redress or unjustified enrichment to pay the value of that assistance to the Scottish Ministers.
 
@@ -936,7 +936,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 - (a) “**non-statutory obligation**” means an obligation that arises from a rule of law rather than an enactment,
 - (b) the reference to assistance being given in error is to be construed in accordance with paragraph 29(4).
 
-#### 33. Liability where assistance given for period after death[^key-2cd8c9f931050f909e1928b16a698987]
+#### 33. Liability where assistance given for period after death[^c-2cd8c9f931050f909e1928b16a698987]
 
 (1) An individual's estate is liable to pay the Scottish Ministers the value of any assistance that was given to the individual under regulation 17 in respect of a period after the individual's death.
 
@@ -944,7 +944,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 ### PART 7 — Coronavirus – relaxation of deadlines
 
-#### 34. Re-determination and appeal deadlines[^key-5067d0a0de30845dfaf92da5734fdf47]
+#### 34. Re-determination and appeal deadlines[^c-5067d0a0de30845dfaf92da5734fdf47]
 
 (1) A request for a re-determination is valid, despite being made after the expiry of the period described in sub-paragraph (3) of paragraph 14, if the person deciding whether the individual has a good reason for not requesting a re-determination sooner decides that the individual has a good reason that is related to coronavirus.
 
@@ -952,9 +952,9 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 (3) Any provision of Scottish Tribunal Rules that would (but for this sub-paragraph) have the effect of precluding an appeal being brought by virtue of sub-paragraph (2) is to be disregarded to the extent that it would have that effect.
 
-(4)[^key-e40c46e8b81d3f26dcf3848e5a1e8259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e40c46e8b81d3f26dcf3848e5a1e8259] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 35. Timing of applications for Scottish child payment[^key-78b8650a2da52533ef37b53780ee7620]
+#### 35. Timing of applications for Scottish child payment[^c-78b8650a2da52533ef37b53780ee7620]
 
 (1) Sub-paragraph (2) applies where these Regulations make an individual's eligibility for a Scottish child payment depend (in any way) on an application being made by a particular time.
 
@@ -962,7 +962,7 @@ the Scottish Ministers may issue a decision to suspend the Scottish child paymen
 
 (3) For the avoidance of doubt, the provisions of these Regulations that make a child's age at the time an application is made material to the determination of an individual's entitlement to a Scottish child payment are to be understood to make the individual's eligibility depend on the application being made by a particular time (namely the time at which the child ceases to be the specified age or fall within the specified age bracket).
 
-(4)[^key-c6ba065d633b33dd8c5d44d3c794620e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-c6ba065d633b33dd8c5d44d3c794620e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -980,37 +980,37 @@ The schedule to the Regulations deals with procedural matters connected with app
 
 [^c24321021]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9). The powers to make these Regulations are exercised together by virtue of section 33(2) of the [Interpretation and Legislative Reform (Scotland) Act 2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-99a39c1d99c896b4e61ee2db894e1f45]: Modification: Regulations modified (14.11.2022) by [The Scottish Child Payment (Ancillary Provision) Regulations 2022 (S.S.I. 2022/326)](https://www.legislation.gov.uk/ssi/2022/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/326/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/ssi/2022/326/regulation/4/4/c)
+[^c-99a39c1d99c896b4e61ee2db894e1f45]: Modification: Regulations modified (14.11.2022) by [The Scottish Child Payment (Ancillary Provision) Regulations 2022 (S.S.I. 2022/326)](https://www.legislation.gov.uk/ssi/2022/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/326/regulation/1/1), [4(4)(c)](https://www.legislation.gov.uk/ssi/2022/326/regulation/4/4/c)
 
-[^key-3da072391e413983b3b91d0260114e0f]: Commencement: Reg. 1 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-3da072391e413983b3b91d0260114e0f]: Commencement: Reg. 1 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-a84be6e2da6583fa019953f7d111c946]: Commencement: Reg. 2 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-a84be6e2da6583fa019953f7d111c946]: Commencement: Reg. 2 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-69d51d38ccd06b7e1bf01b85d272a749]: Commencement: Reg. 3 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-69d51d38ccd06b7e1bf01b85d272a749]: Commencement: Reg. 3 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-fe3c95d825094d430faf537d0deeb823]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/351/regulation/4) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-fe3c95d825094d430faf537d0deeb823]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/351/regulation/4) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
 [^c24321031]: Marginal citation: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-5716425dab7ebc9e5da10363c17f431b]: Commencement: Reg. 5 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-5716425dab7ebc9e5da10363c17f431b]: Commencement: Reg. 5 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-183f8a00ef38c8d29f867eb608519b83]: Commencement: Reg. 6 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-183f8a00ef38c8d29f867eb608519b83]: Commencement: Reg. 6 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
 [^c24321041]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1, paragraph 2 sets out the Scottish bank holidays, it is amended by the [St Andrew's Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [section 1](https://www.legislation.gov.uk/asp/2007/2/section/1).
 
-[^key-a583bf2ad6b1ba1caa60f1dc8509e633]: Commencement: Reg. 7 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-a583bf2ad6b1ba1caa60f1dc8509e633]: Commencement: Reg. 7 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-1d1c465f77b88d875fe2b87f2542e1fa]: Commencement: Reg. 8 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-1d1c465f77b88d875fe2b87f2542e1fa]: Commencement: Reg. 8 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-871f5a5b216efa532faf6cc76c30e401]: Commencement: Reg. 9 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-871f5a5b216efa532faf6cc76c30e401]: Commencement: Reg. 9 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-e143b1a03b3daea2026dde18c357fc0c]: Commencement: Reg. 10 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-e143b1a03b3daea2026dde18c357fc0c]: Commencement: Reg. 10 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
 [^c24321051]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
 [^c24321061]: Marginal citation: [Section 39](https://www.legislation.gov.uk/ssi/2020/351/section/39) is amended by [S.I. 2014/3229](https://www.legislation.gov.uk/uksi/2014/3229) and [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458).
 
-[^key-2f74ff2e0f56eba658c8774aa149e326]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/351/regulation/11) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-2f74ff2e0f56eba658c8774aa149e326]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/351/regulation/11) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
 [^c24321081]: Marginal citation: [1995 c.36](https://www.legislation.gov.uk/ukpga/1995/36). Section 17(6) is amended by the [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [schedule 2](https://www.legislation.gov.uk/asp/2007/4/schedule/2), [paragraph 9(4)](https://www.legislation.gov.uk/asp/2007/4/paragraph/9/4), the [Children's Hearings (Scotland) Act 2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), [schedule 5](https://www.legislation.gov.uk/asp/2011/1/schedule/5), [paragraph 2(4)](https://www.legislation.gov.uk/asp/2011/1/paragraph/2/4) and [S.S.I. 2013/211](https://www.legislation.gov.uk/ssi/2013/211).
 
@@ -1018,17 +1018,17 @@ The schedule to the Regulations deals with procedural matters connected with app
 
 [^c24321101]: Marginal citation: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755). Article 25 is amended by the [Children (Leaving Care) Act (Northern Ireland) 2002 (c.11)](https://www.legislation.gov.uk/nia/2002/11), [section 2(1)](https://www.legislation.gov.uk/nia/2002/11/section/2/1).
 
-[^key-2a7b411baea9d628848420bb1ceeb41c]: Commencement: Reg. 12 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-2a7b411baea9d628848420bb1ceeb41c]: Commencement: Reg. 12 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-1abe2838ac27f7f927fcbdf86706f8f6]: Textual amendment: Words in [reg. 12(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/351/regulation/12/2/a/i) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/2) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
+[^c-1abe2838ac27f7f927fcbdf86706f8f6]: Textual amendment: Words in [reg. 12(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/351/regulation/12/2/a/i) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/2) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
 
-[^key-4cfbb49855519fa5bc7b8af16ce821d5]: Commencement: Reg. 13 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-4cfbb49855519fa5bc7b8af16ce821d5]: Commencement: Reg. 13 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
 [^c24321111]: Marginal citation: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-dfcca1d75cb1ea929a30c9c8f4104cc5]: Commencement: Reg. 14 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-dfcca1d75cb1ea929a30c9c8f4104cc5]: Commencement: Reg. 14 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-374de1be1da107ad5df6833a78a586ba]: Textual amendment: [Reg. 14(a)](https://www.legislation.gov.uk/ssi/2020/351/regulation/14/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
+[^c-374de1be1da107ad5df6833a78a586ba]: Textual amendment: [Reg. 14(a)](https://www.legislation.gov.uk/ssi/2020/351/regulation/14/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
 
 [^c24321131]: Marginal citation: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
@@ -1040,158 +1040,158 @@ The schedule to the Regulations deals with procedural matters connected with app
 
 [^c24321171]: Marginal citation: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-776db353e2d91eb81ad2681cec789f32]: Textual amendment: [Reg. 14(g)](https://www.legislation.gov.uk/ssi/2020/351/regulation/14/g) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
+[^c-776db353e2d91eb81ad2681cec789f32]: Textual amendment: [Reg. 14(g)](https://www.legislation.gov.uk/ssi/2020/351/regulation/14/g) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
 
-[^key-d41dc34dc5cb893e7bc20543773d92eb]: Commencement: Reg. 15 in force at 9.11.2020, see reg. 2
+[^c-d41dc34dc5cb893e7bc20543773d92eb]: Commencement: Reg. 15 in force at 9.11.2020, see reg. 2
 
-[^key-e8f88e79392d231c2c7d0ee60b5fad40]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/351/regulation/15) substituted (15.1.2021) by [The Scottish Child Payment Amendment Regulations 2021 (S.S.I. 2021/16)](https://www.legislation.gov.uk/ssi/2021/16), [regs. 1](https://www.legislation.gov.uk/ssi/2021/16/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/16/regulation/3)
+[^c-e8f88e79392d231c2c7d0ee60b5fad40]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/351/regulation/15) substituted (15.1.2021) by [The Scottish Child Payment Amendment Regulations 2021 (S.S.I. 2021/16)](https://www.legislation.gov.uk/ssi/2021/16), [regs. 1](https://www.legislation.gov.uk/ssi/2021/16/regulation/1), [3](https://www.legislation.gov.uk/ssi/2021/16/regulation/3)
 
-[^key-1927597de96eb4c9173ef6a68f4775fb]: Commencement: Reg. 16 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-1927597de96eb4c9173ef6a68f4775fb]: Commencement: Reg. 16 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-56263cc1a4d5271868d0f45369d20342]: Commencement: Reg. 17 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-56263cc1a4d5271868d0f45369d20342]: Commencement: Reg. 17 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-8ff02e1a20f48654d63c3a6b7d84eb51]: Commencement: Reg. 18 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-8ff02e1a20f48654d63c3a6b7d84eb51]: Commencement: Reg. 18 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-4ea39b3ca0baa19370a4dee04dd4e387]: Textual amendment: Word in [reg. 18(b)](https://www.legislation.gov.uk/ssi/2020/351/regulation/18/b) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/4) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-4ea39b3ca0baa19370a4dee04dd4e387]: Textual amendment: Word in [reg. 18(b)](https://www.legislation.gov.uk/ssi/2020/351/regulation/18/b) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(4)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/4) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-16223ce4962ae2671ce58ba472daed02]: Modification: [Reg. 18A](https://www.legislation.gov.uk/ssi/2020/351/regulation/18A) excluded (14.11.2022) by [The Scottish Child Payment (Ancillary Provision) Regulations 2022 (S.S.I. 2022/326)](https://www.legislation.gov.uk/ssi/2022/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/326/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2022/326/regulation/4/4/b)
+[^c-16223ce4962ae2671ce58ba472daed02]: Modification: [Reg. 18A](https://www.legislation.gov.uk/ssi/2020/351/regulation/18A) excluded (14.11.2022) by [The Scottish Child Payment (Ancillary Provision) Regulations 2022 (S.S.I. 2022/326)](https://www.legislation.gov.uk/ssi/2022/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/326/regulation/1/1), [4(4)(b)](https://www.legislation.gov.uk/ssi/2022/326/regulation/4/4/b)
 
-[^key-2284a8c533b68ddb9acc8ebaa3286c83]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/ssi/2020/351/regulation/18A) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-2284a8c533b68ddb9acc8ebaa3286c83]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/ssi/2020/351/regulation/18A) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(5)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/5) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-a3d2d7ec4689c33cb06f49337f2fa360]: Commencement: Reg. 19 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-a3d2d7ec4689c33cb06f49337f2fa360]: Commencement: Reg. 19 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-10465b12eee42374abcb9812cb75fcf6]: Textual amendment: Word in [reg. 19(2)(b)](https://www.legislation.gov.uk/ssi/2020/351/regulation/19/2/b) substituted (14.11.2022) by [The Scottish Child Payment (Ancillary Provision) Regulations 2022 (S.S.I. 2022/326)](https://www.legislation.gov.uk/ssi/2022/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/326/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2022/326/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/326/regulation/4))
+[^c-10465b12eee42374abcb9812cb75fcf6]: Textual amendment: Word in [reg. 19(2)(b)](https://www.legislation.gov.uk/ssi/2020/351/regulation/19/2/b) substituted (14.11.2022) by [The Scottish Child Payment (Ancillary Provision) Regulations 2022 (S.S.I. 2022/326)](https://www.legislation.gov.uk/ssi/2022/326), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/326/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2022/326/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2022/326/regulation/4))
 
-[^key-8c1dc74e3d8f881709821faff4cba252]: Textual amendment: [Regs. 19A-19G](https://www.legislation.gov.uk/ssi/2020/351/regulation/19A) inserted (9.2.2022) by [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/2)
+[^c-8c1dc74e3d8f881709821faff4cba252]: Textual amendment: [Regs. 19A-19G](https://www.legislation.gov.uk/ssi/2020/351/regulation/19A) inserted (9.2.2022) by [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/2)
 
-[^key-27eae5c6b393488b7781f053598a747a]: Textual amendment: [Reg. 19A(2)](https://www.legislation.gov.uk/ssi/2020/351/regulation/19A/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/7/2)
+[^c-27eae5c6b393488b7781f053598a747a]: Textual amendment: [Reg. 19A(2)](https://www.legislation.gov.uk/ssi/2020/351/regulation/19A/2) substituted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [7(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/7/2)
 
-[^key-0004d290cb2e32d3edf3e46408cd866f]: Textual amendment: Sum in reg. 20(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2026/170/regulation/8) (with [sch. para. 6](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/6))
+[^c-0004d290cb2e32d3edf3e46408cd866f]: Textual amendment: Sum in reg. 20(1) substituted (1.4.2026) by [The Social Security (Up-rating) (Miscellaneous Amendments) (Scotland) Regulations 2026 (S.S.I. 2026/170)](https://www.legislation.gov.uk/ssi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/170/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2026/170/regulation/8) (with [sch. para. 6](https://www.legislation.gov.uk/ssi/2026/170/schedule/paragraph/6))
 
-[^key-76d0b60fffd6f28c7f8bc852f2c1ffd7]: Modification: Reg. 20(5) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/6/b) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5)) (with savings in [S.S.I. 2022/302](https://www.legislation.gov.uk/ssi/2022/302), [reg. 3](https://www.legislation.gov.uk/ssi/2022/302/regulation/3))
+[^c-76d0b60fffd6f28c7f8bc852f2c1ffd7]: Modification: Reg. 20(5) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(6)(b)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/6/b) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5)) (with savings in [S.S.I. 2022/302](https://www.legislation.gov.uk/ssi/2022/302), [reg. 3](https://www.legislation.gov.uk/ssi/2022/302/regulation/3))
 
-[^key-6f828f8d52dbd3517b207049933edefb]: Commencement: Reg. 21 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-6f828f8d52dbd3517b207049933edefb]: Commencement: Reg. 21 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-734d9c0ee6cdd8ef389100f8a27b29cc]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2020/351/regulation/21/1) substituted (15.1.2021) by [The Scottish Child Payment Amendment Regulations 2021 (S.S.I. 2021/16)](https://www.legislation.gov.uk/ssi/2021/16), [regs. 1](https://www.legislation.gov.uk/ssi/2021/16/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/16/regulation/4/2)
+[^c-734d9c0ee6cdd8ef389100f8a27b29cc]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/ssi/2020/351/regulation/21/1) substituted (15.1.2021) by [The Scottish Child Payment Amendment Regulations 2021 (S.S.I. 2021/16)](https://www.legislation.gov.uk/ssi/2021/16), [regs. 1](https://www.legislation.gov.uk/ssi/2021/16/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2021/16/regulation/4/2)
 
-[^key-5f343069ecd5b638ba9a05caa38c7c29]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/ssi/2020/351/regulation/21/2) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(7)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/7) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-5f343069ecd5b638ba9a05caa38c7c29]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/ssi/2020/351/regulation/21/2) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(7)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/7) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-001d6c52f32ea10e3639b98c9e086b6e]: Textual amendment: [Reg. 21(3)-(5)](https://www.legislation.gov.uk/ssi/2020/351/regulation/21/3) inserted (15.1.2021) by [The Scottish Child Payment Amendment Regulations 2021 (S.S.I. 2021/16)](https://www.legislation.gov.uk/ssi/2021/16), [regs. 1](https://www.legislation.gov.uk/ssi/2021/16/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2021/16/regulation/4/4)
+[^c-001d6c52f32ea10e3639b98c9e086b6e]: Textual amendment: [Reg. 21(3)-(5)](https://www.legislation.gov.uk/ssi/2020/351/regulation/21/3) inserted (15.1.2021) by [The Scottish Child Payment Amendment Regulations 2021 (S.S.I. 2021/16)](https://www.legislation.gov.uk/ssi/2021/16), [regs. 1](https://www.legislation.gov.uk/ssi/2021/16/regulation/1), [4(4)](https://www.legislation.gov.uk/ssi/2021/16/regulation/4/4)
 
-[^key-b726d25e90734d2babb8e446fbb6cd58]: Commencement: Reg. 22 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-b726d25e90734d2babb8e446fbb6cd58]: Commencement: Reg. 22 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-cb15b9d308d376f0636ea7e72d4c3680]: Commencement: Reg. 23 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-cb15b9d308d376f0636ea7e72d4c3680]: Commencement: Reg. 23 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-613ac14039f8c67da1579f590b231c8e]: Commencement: Reg. 24 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-613ac14039f8c67da1579f590b231c8e]: Commencement: Reg. 24 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-7e30cb29f299e7b1194ce08ee38088ce]: Commencement: Reg. 25 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-7e30cb29f299e7b1194ce08ee38088ce]: Commencement: Reg. 25 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-79d798c2edb1d03b4f70d0a4fce4f416]: Commencement: Reg. 26 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-79d798c2edb1d03b4f70d0a4fce4f416]: Commencement: Reg. 26 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-c6184e6c1214daac66cbe9c529376851]: Commencement: Reg. 27 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-c6184e6c1214daac66cbe9c529376851]: Commencement: Reg. 27 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-fc0a9aaa37682c279d4105befa28c5a3]: Commencement: Sch. para. 1 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-fc0a9aaa37682c279d4105befa28c5a3]: Commencement: Sch. para. 1 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-e33dfd475c8204504faa7e14cf4dedbd]: Commencement: Sch. para. 2 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-e33dfd475c8204504faa7e14cf4dedbd]: Commencement: Sch. para. 2 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-8580666b90e57585b6f6bffe8c21f55f]: Commencement: Sch. para. 3 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-8580666b90e57585b6f6bffe8c21f55f]: Commencement: Sch. para. 3 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-b12f5997b6b33f14b40ebe60403cdae4]: Commencement: Sch. para. 4 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-b12f5997b6b33f14b40ebe60403cdae4]: Commencement: Sch. para. 4 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-39ec84a21f387fddf0df322636fb010f]: Commencement: Sch. para. 5 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-39ec84a21f387fddf0df322636fb010f]: Commencement: Sch. para. 5 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-9582917edb4d8188715b84b56714c055]: Textual amendment: Word in [sch. para. 5(1)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/1) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/2)
+[^c-9582917edb4d8188715b84b56714c055]: Textual amendment: Word in [sch. para. 5(1)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/1) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(2)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/2)
 
-[^key-a55318a718287da646f725ceb5f08808]: Textual amendment: Words in [sch. para. 5(3)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/3)
+[^c-a55318a718287da646f725ceb5f08808]: Textual amendment: Words in [sch. para. 5(3)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/3) substituted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(3)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/3)
 
-[^key-89b860d733c976b0baaaeb54f0fab2e3]: Textual amendment: Words in [sch. para. 5(4)(a)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/4/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/4/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
+[^c-89b860d733c976b0baaaeb54f0fab2e3]: Textual amendment: Words in [sch. para. 5(4)(a)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/4/a) omitted (23.6.2025) by virtue of [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(4)(a)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/4/a) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13))
 
-[^key-3747d0863f4a0ababba275163b48c4f6]: Textual amendment: Words in [sch. para. 5(4)(a)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/4/a) inserted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/4)
+[^c-3747d0863f4a0ababba275163b48c4f6]: Textual amendment: Words in [sch. para. 5(4)(a)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/4/a) inserted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(4)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/4)
 
-[^key-002d82c0be214e1ce887cfb2aa18f992]: Textual amendment: [Sch. para. 5(6)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/6) inserted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/5)
+[^c-002d82c0be214e1ce887cfb2aa18f992]: Textual amendment: [Sch. para. 5(6)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/5/6) inserted (23.12.2021) by [The Best Start Grants and Scottish Child Payment (Miscellaneous Amendments) Regulations 2021 (S.S.I. 2021/494)](https://www.legislation.gov.uk/ssi/2021/494), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/494/regulation/1/1), [6(5)](https://www.legislation.gov.uk/ssi/2021/494/regulation/6/5)
 
-[^key-8670ac811c7d252e1775d4d3e764527c]: Commencement: Sch. para. 6 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-8670ac811c7d252e1775d4d3e764527c]: Commencement: Sch. para. 6 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-d37de85e5d0058240a92c3c3e85db9d2]: Commencement: Sch. para. 7 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-d37de85e5d0058240a92c3c3e85db9d2]: Commencement: Sch. para. 7 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-6f6ce73d23f3af011429081361557564]: Commencement: Sch. para. 8 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-6f6ce73d23f3af011429081361557564]: Commencement: Sch. para. 8 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-758eefd4bf103da24ec22e8f923b32d5]: Commencement: Sch. para. 9 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-758eefd4bf103da24ec22e8f923b32d5]: Commencement: Sch. para. 9 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-364cddcd19beaf8de0bcd712dc012f16]: Commencement: Sch. para. 10 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-364cddcd19beaf8de0bcd712dc012f16]: Commencement: Sch. para. 10 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-2df7aaafe78d910471c68ab34a768b2a]: Commencement: Sch. para. 11 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-2df7aaafe78d910471c68ab34a768b2a]: Commencement: Sch. para. 11 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-9e2f86b0504746e63e5e992f52b95c94]: Textual amendment: Words in [sch. para. 11(3)(b)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/11/3/b) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/a/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-9e2f86b0504746e63e5e992f52b95c94]: Textual amendment: Words in [sch. para. 11(3)(b)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/11/3/b) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(a)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/a/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-ba11084ece67e4c7e7b01b8b8b27a38f]: Textual amendment: Word in [sch. para. 11(3)(b)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/11/3/b) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/a/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-ba11084ece67e4c7e7b01b8b8b27a38f]: Textual amendment: Word in [sch. para. 11(3)(b)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/11/3/b) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(a)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/a/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-fd42ecc9f102438d75d2312f1f8dac2e]: Textual amendment: [Sch. para. 11(3)(c)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/11/3/c) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/a/iii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-fd42ecc9f102438d75d2312f1f8dac2e]: Textual amendment: [Sch. para. 11(3)(c)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/11/3/c) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(a)(iii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/a/iii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-6f3f63720f99710f339ee3bda1ad776d]: Commencement: Sch. para. 12 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-6f3f63720f99710f339ee3bda1ad776d]: Commencement: Sch. para. 12 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
 [^M_F_e3737a29-c7fa-4b2e-b560-abcabe6fc55f]: Textual amendment: Words in sch. para. 12(5) substituted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(b)(i)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/b/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5)) (with savings in [S.S.I. 2022/326](https://www.legislation.gov.uk/ssi/2022/326), [reg. 3](https://www.legislation.gov.uk/ssi/2022/326/regulation/3))
 
-[^key-b7a6286fcccd0a67dfe69e821d3b97f4]: Textual amendment: Word in [sch. para. 12(5)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/12/5) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/b/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5)) (with savings in [S.S.I. 2022/326](https://www.legislation.gov.uk/ssi/2022/326), [reg. 3](https://www.legislation.gov.uk/ssi/2022/326/regulation/3))
+[^c-b7a6286fcccd0a67dfe69e821d3b97f4]: Textual amendment: Word in [sch. para. 12(5)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/12/5) inserted (14.11.2022) by [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/b/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5)) (with savings in [S.S.I. 2022/326](https://www.legislation.gov.uk/ssi/2022/326), [reg. 3](https://www.legislation.gov.uk/ssi/2022/326/regulation/3))
 
-[^key-447370a0bc2eba83e626e7e4957e764e]: Commencement: Sch. para. 13 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-447370a0bc2eba83e626e7e4957e764e]: Commencement: Sch. para. 13 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-50542cededa34acd992bd56691a1c35f]: Commencement: Sch. para. 14 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-50542cededa34acd992bd56691a1c35f]: Commencement: Sch. para. 14 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-30b444d4c7b22554c19812275ee69f3d]: Commencement: Sch. para. 15 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-30b444d4c7b22554c19812275ee69f3d]: Commencement: Sch. para. 15 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-4c303779de0bd57781611ef3a19b84f3]: Commencement: Sch. para. 16 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-4c303779de0bd57781611ef3a19b84f3]: Commencement: Sch. para. 16 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-67a3984187addf95e17021d83d4960be]: Textual amendment: Word in [sch. para. 16(2)(a)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/16/2/a) omitted (9.2.2022) by virtue of [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/3/a)
+[^c-67a3984187addf95e17021d83d4960be]: Textual amendment: Word in [sch. para. 16(2)(a)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/16/2/a) omitted (9.2.2022) by virtue of [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/3/a)
 
-[^key-7802bc2f5b24bdf3a129e43cb82fbd71]: Textual amendment: [Sch. para. 16(2)(c)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/16/2/c) and word inserted (9.2.2022) by [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/3/b)
+[^c-7802bc2f5b24bdf3a129e43cb82fbd71]: Textual amendment: [Sch. para. 16(2)(c)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/16/2/c) and word inserted (9.2.2022) by [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/3/b)
 
-[^key-cc15224e924dce552dc38ac31e500415]: Commencement: Sch. para. 17 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-cc15224e924dce552dc38ac31e500415]: Commencement: Sch. para. 17 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-c543c7a32af2380f604a063d1e4fb9bb]: Commencement: Sch. para. 18 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-c543c7a32af2380f604a063d1e4fb9bb]: Commencement: Sch. para. 18 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-07cf26869e208b13442db33972b4dfd3]: Commencement: Sch. para. 19 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-07cf26869e208b13442db33972b4dfd3]: Commencement: Sch. para. 19 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-a0940df88a79545bc1814c3676b595f9]: Commencement: Sch. para. 20 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-a0940df88a79545bc1814c3676b595f9]: Commencement: Sch. para. 20 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-c0e704e79f66623bccaec8559b049c47]: Commencement: Sch. para. 21 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-c0e704e79f66623bccaec8559b049c47]: Commencement: Sch. para. 21 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
 [^c24321191]: Marginal citation: [Section 68(2)](https://www.legislation.gov.uk/ssi/2020/351/section/68/2) of the Tribunals (Scotland) Act [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-d70b167c3470777e970197389acfa89d]: Commencement: Sch. para. 22 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-d70b167c3470777e970197389acfa89d]: Commencement: Sch. para. 22 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-8009ab2bd5f8a40c87def0637744b7ad]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/22) substituted (23.6.2025) by [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/4/b) (with [regs. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13), [14](https://www.legislation.gov.uk/ssi/2025/195/regulation/14))
+[^c-8009ab2bd5f8a40c87def0637744b7ad]: Textual amendment: [Sch. para. 22](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/22) substituted (23.6.2025) by [The Social Security (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/195)](https://www.legislation.gov.uk/ssi/2025/195), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/195/regulation/1/1), [5(4)(b)](https://www.legislation.gov.uk/ssi/2025/195/regulation/5/4/b) (with [regs. 13](https://www.legislation.gov.uk/ssi/2025/195/regulation/13), [14](https://www.legislation.gov.uk/ssi/2025/195/regulation/14))
 
-[^key-7c5e3f63d72034045b1502c73dc73353]: Commencement: Sch. para. 23 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-7c5e3f63d72034045b1502c73dc73353]: Commencement: Sch. para. 23 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
 [^c24321201]: Marginal citation: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-5555c52e9d6ddb9d5685a84fd463485a]: Commencement: Sch. para. 24 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-5555c52e9d6ddb9d5685a84fd463485a]: Commencement: Sch. para. 24 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-acd408a0a98ff04cc6390f3b7b88f8fb]: Textual amendment: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/25) substituted (9.2.2022) by [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/4)
+[^c-acd408a0a98ff04cc6390f3b7b88f8fb]: Textual amendment: [Sch. para. 25](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/25) substituted (9.2.2022) by [The Scottish Child Payment Regulations 2020 and the Disability Assistance for Children and Young People (Scotland) Regulations 2021 (Miscellaneous Amendments) Regulations 2022 (S.S.I. 2022/41)](https://www.legislation.gov.uk/ssi/2022/41), [regs. 1](https://www.legislation.gov.uk/ssi/2022/41/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2022/41/regulation/2/4)
 
-[^key-e0790d83129bf8eebe4d166509d2906d]: Textual amendment: [Sch. para. 25(5)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/25/5) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/336/regulation/13))
+[^c-e0790d83129bf8eebe4d166509d2906d]: Textual amendment: [Sch. para. 25(5)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/25/5) inserted (6.11.2025) by [The Social Security (Cross-border Provision, Case Transfer and Miscellaneous Amendments) (Scotland) Regulations 2025 (S.S.I. 2025/336)](https://www.legislation.gov.uk/ssi/2025/336), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/336/regulation/1/2), [7(3)](https://www.legislation.gov.uk/ssi/2025/336/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/ssi/2025/336/regulation/13))
 
-[^key-b8026ccce38f081e14328981300d10fb]: Commencement: Sch. para. 26 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-b8026ccce38f081e14328981300d10fb]: Commencement: Sch. para. 26 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-2e1e076ea3a6e1c161bf105ba041ec52]: Commencement: Sch. para. 27 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-2e1e076ea3a6e1c161bf105ba041ec52]: Commencement: Sch. para. 27 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-854329a420163fcf5766b875f8ef7a37]: Commencement: Sch. para. 28 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-854329a420163fcf5766b875f8ef7a37]: Commencement: Sch. para. 28 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-101ae35c8d06c51a4ca487017172c831]: Commencement: Sch. para. 29 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-101ae35c8d06c51a4ca487017172c831]: Commencement: Sch. para. 29 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-78842d44dc69f51b52a508218494873e]: Commencement: Sch. para. 30 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-78842d44dc69f51b52a508218494873e]: Commencement: Sch. para. 30 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-a474ea83bc92b24595562647d3bed654]: Commencement: Sch. para. 31 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-a474ea83bc92b24595562647d3bed654]: Commencement: Sch. para. 31 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-97eb4db8dd7c967214c6d481a29759dd]: Commencement: Sch. para. 32 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-97eb4db8dd7c967214c6d481a29759dd]: Commencement: Sch. para. 32 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-2cd8c9f931050f909e1928b16a698987]: Commencement: Sch. para. 33 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-2cd8c9f931050f909e1928b16a698987]: Commencement: Sch. para. 33 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-5067d0a0de30845dfaf92da5734fdf47]: Commencement: Sch. para. 34 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-5067d0a0de30845dfaf92da5734fdf47]: Commencement: Sch. para. 34 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-e40c46e8b81d3f26dcf3848e5a1e8259]: Textual amendment: [Sch. para. 34(4)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/34/4) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(c)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-e40c46e8b81d3f26dcf3848e5a1e8259]: Textual amendment: [Sch. para. 34(4)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/34/4) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(c)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
 
-[^key-78b8650a2da52533ef37b53780ee7620]: Commencement: Sch. para. 35 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
+[^c-78b8650a2da52533ef37b53780ee7620]: Commencement: Sch. para. 35 in force at 9.11.2020, see [reg. 2](https://www.legislation.gov.uk/ssi/2020/351/regulation/2)
 
-[^key-c6ba065d633b33dd8c5d44d3c794620e]: Textual amendment: [Sch. para. 35(4)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/35/4) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(d)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/d) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))
+[^c-c6ba065d633b33dd8c5d44d3c794620e]: Textual amendment: [Sch. para. 35(4)](https://www.legislation.gov.uk/ssi/2020/351/schedule/paragraph/35/4) omitted (14.11.2022) by virtue of [The Social Security (Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/336)](https://www.legislation.gov.uk/ssi/2022/336), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/336/regulation/1/1), [4(8)(d)](https://www.legislation.gov.uk/ssi/2022/336/regulation/4/8/d) (with [reg. 5](https://www.legislation.gov.uk/ssi/2022/336/regulation/5))

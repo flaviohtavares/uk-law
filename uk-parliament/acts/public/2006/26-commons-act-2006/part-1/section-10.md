@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Attachment[^key-79685af62b15db90b9859b35d802965c][^key-d13741a150c99fde554664d1dd0b366e]
+## 10. Attachment[^c-79685af62b15db90b9859b35d802965c][^c-d13741a150c99fde554664d1dd0b366e]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79685af62b15db90b9859b35d802965c]: Commencement: S. 10 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-79685af62b15db90b9859b35d802965c]: Commencement: S. 10 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-d13741a150c99fde554664d1dd0b366e]: Commencement: S. 10 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-d13741a150c99fde554664d1dd0b366e]: Commencement: S. 10 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))

@@ -33,11 +33,11 @@ summary: ''
   - (iii) that, had the trustees or managers known about, or not been mistaken as to, that fact, they could not reasonably have decided to make the award, and
 - (c) that the Board is not satisfied that the criteria in the admissible rules governing entitlement to early payment of pension on grounds of ill health were satisfied in respect of the member at any time after that decision but before the assessment date.
 
-(4)[^c17104071] For the purposes of paragraph (2) “the relevant date” means the date during the assessment period on which a determination under Article 127(2)(a) or[^key-15f37aa760205cdd8bd13c5660ee3fde] a scheme valuation in relation to the scheme becomes binding.
+(4)[^c17104071] For the purposes of paragraph (2) “the relevant date” means the date during the assessment period on which a determination under Article 127(2)(a) or[^c-15f37aa760205cdd8bd13c5660ee3fde] a scheme valuation in relation to the scheme becomes binding.
 
 (5) The power to make a decision in respect of the pension under paragraph (2) may only be exercised at a time which falls—
 
-- (a)[^c17104071] during the assessment period but before the time the Board first makes a determination under Article 127(2)(a) or[^key-e8706706300881cefbcedc6e4a8f9a08] approves a scheme valuation under Article 128 in relation to the scheme, and
+- (a)[^c17104071] during the assessment period but before the time the Board first makes a determination under Article 127(2)(a) or[^c-e8706706300881cefbcedc6e4a8f9a08] approves a scheme valuation under Article 128 in relation to the scheme, and
 - (b) within a reasonable period beginning with the assessment date or, where the decision to make the award was made at a later date, that date.
 
 (6) Regulations made for the purposes of paragraph (2) may, in particular, include provision applying any provision of Schedule 6 with such modifications as may be prescribed.
@@ -48,6 +48,6 @@ summary: ''
 
 [^c17104071]: Textual amendment: mod. by SR 2005/55
 
-[^key-15f37aa760205cdd8bd13c5660ee3fde]: Textual amendment: Words in [art. 125(4)](https://www.legislation.gov.uk/nisi/2005/255/article/125/4) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/3/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-15f37aa760205cdd8bd13c5660ee3fde]: Textual amendment: Words in [art. 125(4)](https://www.legislation.gov.uk/nisi/2005/255/article/125/4) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 3(2)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/3/2); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
 
-[^key-e8706706300881cefbcedc6e4a8f9a08]: Textual amendment: Words in [art. 125(5)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/125/5/a) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/3/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)
+[^c-e8706706300881cefbcedc6e4a8f9a08]: Textual amendment: Words in [art. 125(5)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/125/5/a) inserted (23.7.2012) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/3/3); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(4)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/4/a/ii)

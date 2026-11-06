@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Qualifying offenders[^key-6be86685ecc71b7db333b0a8be8ce05b]
+## 156. Qualifying offenders[^c-6be86685ecc71b7db333b0a8be8ce05b]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,22 +25,22 @@ summary: ''
 (2) A person is within this subsection if (whether before or after the commencement of this Part) the person—
 
 - (a) has been convicted by a court in the United Kingdom of an offence,
-- (b) has been found not guilty by such a court of an offence by reason of insanity, or *(Extent: S)* *(affected by repeal, see note)*[^key-b83c219a17ec728fb9ed0bbdfe6313dc]
+- (b) has been found not guilty by such a court of an offence by reason of insanity, or *(Extent: S)* *(affected by repeal, see note)*[^c-b83c219a17ec728fb9ed0bbdfe6313dc]
 
 *Extent: S*
 
-- (ba)[^key-9c02f9d6b7831c0375083e5629d54cbb] has been acquitted by such a court of an offence by reason of the special defence set out in section 51A of the Criminal Procedure (Scotland) Act 1995 (c.46), or
+- (ba)[^c-9c02f9d6b7831c0375083e5629d54cbb] has been acquitted by such a court of an offence by reason of the special defence set out in section 51A of the Criminal Procedure (Scotland) Act 1995 (c.46), or
 - (c) has been found by such a court to be under a disability and to have done the act charged in respect of an offence.
 
 (3) A person is within this subsection if—
 
 - (a) under the law in force in a country outside the United Kingdom (and whether before or after the commencement of this Part)—
   - (i) the person has been convicted of a foreign offence,
-  - (ii) a court exercising jurisdiction under that law has made, in respect of a foreign offence, a finding equivalent to a finding that the person was not guilty by reason of insanity, or *(Extent: S)* *(affected by repeal, see note)*[^key-5fbf48fd40db56aebf100efada03e624]
+  - (ii) a court exercising jurisdiction under that law has made, in respect of a foreign offence, a finding equivalent to a finding that the person was not guilty by reason of insanity, or *(Extent: S)* *(affected by repeal, see note)*[^c-5fbf48fd40db56aebf100efada03e624]
 
   *Extent: S*
 
-  - (iia)[^key-36272718065edc2c9d3fedf9b5ac7808] such a court has made, in respect of a foreign offence, a finding equivalent to a finding of the person's acquittal by reason of the special defence set out in section 51A of the Criminal Procedure (Scotland) Act 1995, or
+  - (iia)[^c-36272718065edc2c9d3fedf9b5ac7808] such a court has made, in respect of a foreign offence, a finding equivalent to a finding of the person's acquittal by reason of the special defence set out in section 51A of the Criminal Procedure (Scotland) Act 1995, or
   - (iii) such a court has made, in respect of a foreign offence, a finding equivalent to a finding that the person was under a disability and did the act charged in respect of the offence, and
 - (b) the person—
   - (i) is a United Kingdom national,
@@ -64,12 +64,12 @@ summary: ''
 
 ## Annotations
 
-[^key-6be86685ecc71b7db333b0a8be8ce05b]: Commencement: S. 156 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-6be86685ecc71b7db333b0a8be8ce05b]: Commencement: S. 156 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
 
-[^key-b83c219a17ec728fb9ed0bbdfe6313dc]: Textual amendment: Word in s. 156(2) repealed (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(a)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/a/i); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-b83c219a17ec728fb9ed0bbdfe6313dc]: Textual amendment: Word in s. 156(2) repealed (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(a)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/a/i); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-9c02f9d6b7831c0375083e5629d54cbb]: Textual amendment: S. 156(2)(ba) inserted (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(a)(ii)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/a/ii); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-9c02f9d6b7831c0375083e5629d54cbb]: Textual amendment: S. 156(2)(ba) inserted (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(a)(ii)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/a/ii); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-5fbf48fd40db56aebf100efada03e624]: Textual amendment: Word in s. 156(3)(a) repealed (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(b)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/b/i); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-5fbf48fd40db56aebf100efada03e624]: Textual amendment: Word in s. 156(3)(a) repealed (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(b)(i)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/b/i); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
 
-[^key-36272718065edc2c9d3fedf9b5ac7808]: Textual amendment: S. 156(3)(a)(iia) inserted (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(b)(ii)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/b/ii); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)
+[^c-36272718065edc2c9d3fedf9b5ac7808]: Textual amendment: S. 156(3)(a)(iia) inserted (S.) (with application in accordance with art. 3 of the commencing S.S.I.) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 7 para. 87(b)(ii)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/87/b/ii); [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule)

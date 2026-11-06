@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Enforcement of plans: Wales[^key-f25f7f81a5b25ddf882252f489b71b56]
+## 38. Enforcement of plans: Wales[^c-f25f7f81a5b25ddf882252f489b71b56]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f25f7f81a5b25ddf882252f489b71b56]: Textual amendment: S. 38 omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 18](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/18) (with [Sch. paras. 27-30](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/27)); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(iii)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/iii)
+[^c-f25f7f81a5b25ddf882252f489b71b56]: Textual amendment: S. 38 omitted (1.9.2015) by virtue of [Higher Education (Wales) Act 2015 (anaw 1)](https://www.legislation.gov.uk/anaw/2015/1), [s. 59(2)](https://www.legislation.gov.uk/anaw/2015/1/section/59/2), [Sch. para. 18](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/18) (with [Sch. paras. 27-30](https://www.legislation.gov.uk/anaw/2015/1/schedule/paragraph/27)); [S.I. 2015/1327](https://www.legislation.gov.uk/wsi/2015/1327), [art. 5(s)(iii)](https://www.legislation.gov.uk/wsi/2015/1327/article/5/s/iii)

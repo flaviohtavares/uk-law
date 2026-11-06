@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Extent of rule-making[^key-e15d90fe4d84e9c7f8970b862482145f]
+## 70. Extent of rule-making[^c-e15d90fe4d84e9c7f8970b862482145f]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e15d90fe4d84e9c7f8970b862482145f]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/10/section/70) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-e15d90fe4d84e9c7f8970b862482145f]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2014/10/section/70) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

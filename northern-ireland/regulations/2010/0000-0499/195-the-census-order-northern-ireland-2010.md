@@ -44,11 +44,11 @@ Coming into operation
 
 The First Minister and deputy First Minister acting jointly make the following Order in exercise of the powers conferred on them by section 1(1) of the Census Act (Northern Ireland) 1969[^f00001].
 
-## 1. Citation and Commencement[^key-f39a02fce308229be56b28ba52acbd79]
+## 1. Citation and Commencement[^c-f39a02fce308229be56b28ba52acbd79]
 
 This Order may be cited as The Census (Northern Ireland) Order 2010 and shall come into operation as soon as possible after it is approved.
 
-## 2. Interpretation[^key-b002308ed7d1b678c55cb0dfdfb112cb]
+## 2. Interpretation[^c-b002308ed7d1b678c55cb0dfdfb112cb]
 
 (1) In this Order—
 
@@ -78,11 +78,11 @@ This Order may be cited as The Census (Northern Ireland) Order 2010 and shall co
 
 (3) In this Order, any reference to a Group is a reference to that Group as specified in Schedule 1.
 
-## 3. Date of census[^key-959dc3dfcbdeb05895505a17c16a15a5]
+## 3. Date of census[^c-959dc3dfcbdeb05895505a17c16a15a5]
 
 A census shall be taken for Northern Ireland on 27th March 2011.
 
-## 4. Persons with respect to whom returns to be made[^key-2424bfc92162a9e6ed553cb338011b05]
+## 4. Persons with respect to whom returns to be made[^c-2424bfc92162a9e6ed553cb338011b05]
 
 (1) Subject to paragraph (2), for the purpose of that census, returns must be made in accordance with the provisions of this Order with respect to—
 
@@ -95,7 +95,7 @@ who are alive at midnight at the end of census day.
 
 (3) A return with respect to any person shall be made in accordance with the provisions of this Order relating to the Group in which that person is included, and in the form prescribed by regulations made under section 3 of the Census Act (Northern Ireland) 1969.
 
-## 5. Persons by whom returns to be made[^key-5b5f6f3836abe7fcb0cad543135b66f5]
+## 5. Persons by whom returns to be made[^c-5b5f6f3836abe7fcb0cad543135b66f5]
 
 (1) Subject to paragraph (2), where a dwelling referred to in column (1) of Group A is occupied by a household consisting of one usual resident, that person must make a return.
 
@@ -136,7 +136,7 @@ but where the obligation falls on more than one person, any one of their number 
 
 (9) In the case of any premises or vessel specified in Group B, C, D, E or F, the person for the time being in charge of the premises or vessel must make a return in accordance with paragraph (5) of article 6.
 
-## 6. Particulars in returns[^key-c09f96d8e29bd46fecc62bf8b7332528]
+## 6. Particulars in returns[^c-c09f96d8e29bd46fecc62bf8b7332528]
 
 (1) For the purpose of this article any reference to an item is to an item specified in Schedule 2 and—
 
@@ -174,11 +174,11 @@ Martin McGuinness
 
 deputy First Minister
 
-## SCHEDULE 1[^key-778c1db0cc91a0f604e3fbd410a19062]
+## SCHEDULE 1[^c-778c1db0cc91a0f604e3fbd410a19062]
 
 Ref Articles 2(3), 4(2) (3) and 5
 
-[^key-778c1db0cc91a0f604e3fbd410a19062]
+[^c-778c1db0cc91a0f604e3fbd410a19062]
 
 <table>
 <thead>
@@ -207,41 +207,41 @@ Ref Articles 2(3), 4(2) (3) and 5
 
 Article 6(1)-(4)
 
-### 1. Resident particulars[^key-31da7776304c797c6954e8c70cf5550e]
+### 1. Resident particulars[^c-31da7776304c797c6954e8c70cf5550e]
 
 For each usual resident at the address, the first name, last name, connection to the household or accommodation and whether or not an individual return has been issued for that person.
 
-**2.**[^key-2ca662a6c96aaec3029b5f636a2dcc5d][^key-31da7776304c797c6954e8c70cf5550e] The total number of usual residents at the address.
+**2.**[^c-2ca662a6c96aaec3029b5f636a2dcc5d][^c-31da7776304c797c6954e8c70cf5550e] The total number of usual residents at the address.
 
-**3.**[^key-a0cd238519c3d744482217d5c403ac62][^key-31da7776304c797c6954e8c70cf5550e] For each usual resident—
+**3.**[^c-a0cd238519c3d744482217d5c403ac62][^c-31da7776304c797c6954e8c70cf5550e] For each usual resident—
 
 - (a) except in a case to which (b) applies, the relationship to the first person named in the return and the relationship to each of the previous persons named in the return;
 - (b) in the case of any person named seventh or at any higher number in a return, the relationship to the first person named in the return and to any other person named at a previous number higher than six in the return.
 
-### 4. Visitor particulars[^key-1e534fcd82b1f695c58c5a25105e496d]
+### 4. Visitor particulars[^c-1e534fcd82b1f695c58c5a25105e496d]
 
 For each reckonable visitor at the address, the first name, last name, sex, date of birth, connection to the household or accommodation and usual address or country of usual residence if outside the UK.
 
-**5.**[^key-96c0dcd941c77354c101591abfe29c38][^key-1e534fcd82b1f695c58c5a25105e496d] The total number of reckonable visitors at the address.
+**5.**[^c-96c0dcd941c77354c101591abfe29c38][^c-1e534fcd82b1f695c58c5a25105e496d] The total number of reckonable visitors at the address.
 
-### 6. Demographic particulars[^key-aa72c9c89587080835af4e838d4b06a0]
+### 6. Demographic particulars[^c-aa72c9c89587080835af4e838d4b06a0]
 
 Sex and date of birth.
 
-**7.**[^key-1f774a3298bdb7a220790659b325fb28][^key-aa72c9c89587080835af4e838d4b06a0] Current legal status as to marriage or civil partnership.
+**7.**[^c-1f774a3298bdb7a220790659b325fb28][^c-aa72c9c89587080835af4e838d4b06a0] Current legal status as to marriage or civil partnership.
 
-**8.**[^key-8fefab2788322f922448ca0b99fec814][^key-aa72c9c89587080835af4e838d4b06a0] Whether a student (including a schoolchild) in full-time education and if so, whether living at the address to which the return relates during term-time or at another address.
+**8.**[^c-8fefab2788322f922448ca0b99fec814][^c-aa72c9c89587080835af4e838d4b06a0] Whether a student (including a schoolchild) in full-time education and if so, whether living at the address to which the return relates during term-time or at another address.
 
-**9.**[^key-f7b590af0d761f941b70b055fbb4fa57][^key-aa72c9c89587080835af4e838d4b06a0] Country of birth.
+**9.**[^c-f7b590af0d761f941b70b055fbb4fa57][^c-aa72c9c89587080835af4e838d4b06a0] Country of birth.
 
-**10.**[^key-1ef9817ff6a9521d37281c53a05b7be0][^key-aa72c9c89587080835af4e838d4b06a0] If not born in the UK, and if the date of arrival to live in the UK was on or after the 27th March 2010, the length of intended stay in the UK.
+**10.**[^c-1ef9817ff6a9521d37281c53a05b7be0][^c-aa72c9c89587080835af4e838d4b06a0] If not born in the UK, and if the date of arrival to live in the UK was on or after the 27th March 2010, the length of intended stay in the UK.
 
-**11.**[^key-8e76b8a2f486be3eb569bead4dc853f4][^key-aa72c9c89587080835af4e838d4b06a0] Whether the person has lived outside Northern Ireland for a continuous period of one year or more; and, if so;
+**11.**[^c-8e76b8a2f486be3eb569bead4dc853f4][^c-aa72c9c89587080835af4e838d4b06a0] Whether the person has lived outside Northern Ireland for a continuous period of one year or more; and, if so;
 
 - (a) the country last lived in; and
 - (b) the month and year of most recent arrival to live in Northern Ireland.
 
-**12.**[^key-47492daa137f9af968577c3c3d468b15][^key-aa72c9c89587080835af4e838d4b06a0] Whether on 27th March 2010—
+**12.**[^c-47492daa137f9af968577c3c3d468b15][^c-aa72c9c89587080835af4e838d4b06a0] Whether on 27th March 2010—
 
 - (a) the person was a usual resident—
   - (i) at the address to which the return relates;
@@ -249,11 +249,11 @@ Sex and date of birth.
   - (iii) at another address in the UK (and if so, that address); or
 - (b) the person’s usual address was outside the UK (and if so, in which country).
 
-**13.**[^key-fdba792bceb6b2e75f1616acbf8df00d][^key-aa72c9c89587080835af4e838d4b06a0] Country of passport(s) held.
+**13.**[^c-fdba792bceb6b2e75f1616acbf8df00d][^c-aa72c9c89587080835af4e838d4b06a0] Country of passport(s) held.
 
-**14.**[^key-96903facb456d354919e32ab3f472bce][^key-aa72c9c89587080835af4e838d4b06a0] Whether the person describes themselves as: British, Irish, Northern Irish, English, Scottish, Welsh, or any other national identity (stating which).
+**14.**[^c-96903facb456d354919e32ab3f472bce][^c-aa72c9c89587080835af4e838d4b06a0] Whether the person describes themselves as: British, Irish, Northern Irish, English, Scottish, Welsh, or any other national identity (stating which).
 
-**15.**[^key-502b0b60a76d535be37c25736219a6df][^key-aa72c9c89587080835af4e838d4b06a0] As regards ethnic group, whether—
+**15.**[^c-502b0b60a76d535be37c25736219a6df][^c-aa72c9c89587080835af4e838d4b06a0] As regards ethnic group, whether—
 
 - (a) White;
 - (b) Chinese;
@@ -267,17 +267,17 @@ Sex and date of birth.
 - (j) Of mixed ethnic group, if so, stating which groups;
 - (k) Other ethnic group (stating which).
 
-**16.**[^key-9251aff79d5ccac84a97508f2b5c785b][^key-aa72c9c89587080835af4e838d4b06a0] Religion, religious denomination or body belonged to, if any, or if none.
+**16.**[^c-9251aff79d5ccac84a97508f2b5c785b][^c-aa72c9c89587080835af4e838d4b06a0] Religion, religious denomination or body belonged to, if any, or if none.
 
 For those indicating none to the above;
 
 Religion, religious denomination or body brought up in, if any, or if none.
 
-**17.**[^key-3eca537fdf0333009edaa0b5779e1b7c][^key-aa72c9c89587080835af4e838d4b06a0] Whether main language is English or another language (stating which).
+**17.**[^c-3eca537fdf0333009edaa0b5779e1b7c][^c-aa72c9c89587080835af4e838d4b06a0] Whether main language is English or another language (stating which).
 
-**18.**[^key-cddee9decf8a8b150a051ce5e70e811e][^key-aa72c9c89587080835af4e838d4b06a0] If main language is one other than English, whether the person can speak English very well, well, not well or not at all.
+**18.**[^c-cddee9decf8a8b150a051ce5e70e811e][^c-aa72c9c89587080835af4e838d4b06a0] If main language is one other than English, whether the person can speak English very well, well, not well or not at all.
 
-**19.**[^key-1993d12a97e7ef51c2dcf86099503671][^key-aa72c9c89587080835af4e838d4b06a0] In respect of any person, whether able to—
+**19.**[^c-1993d12a97e7ef51c2dcf86099503671][^c-aa72c9c89587080835af4e838d4b06a0] In respect of any person, whether able to—
 
 - (a) understand spoken Irish;
 - (b) understand spoken Ulster-Scots;
@@ -290,15 +290,15 @@ Religion, religious denomination or body brought up in, if any, or if none.
 - (i) no ability in Irish;
 - (j) no ability in Ulster-Scots.
 
-**20.**[^key-125864a40339274d5e170d15d7dde4bd][^key-aa72c9c89587080835af4e838d4b06a0] Whether or not the person suffers from any health problem or disability which has lasted or is expected to last at least 12 months and which limits their day-to-day activities.
+**20.**[^c-125864a40339274d5e170d15d7dde4bd][^c-aa72c9c89587080835af4e838d4b06a0] Whether or not the person suffers from any health problem or disability which has lasted or is expected to last at least 12 months and which limits their day-to-day activities.
 
-**21.**[^key-eabe8f818269fd9fd83d61e7c50963f9][^key-aa72c9c89587080835af4e838d4b06a0] Whether or not the person has any conditions that have lasted, or are expected to last, at least 12 months and the nature of that condition(s).
+**21.**[^c-eabe8f818269fd9fd83d61e7c50963f9][^c-aa72c9c89587080835af4e838d4b06a0] Whether or not the person has any conditions that have lasted, or are expected to last, at least 12 months and the nature of that condition(s).
 
-**22.**[^key-5e23a1c0dff0465b7553c718adbe8672][^key-aa72c9c89587080835af4e838d4b06a0] Whether the person’s health is in general very good, good, fair, bad or very bad.
+**22.**[^c-5e23a1c0dff0465b7553c718adbe8672][^c-aa72c9c89587080835af4e838d4b06a0] Whether the person’s health is in general very good, good, fair, bad or very bad.
 
-**23.**[^key-87f194e16779c2ffe02dfffeb5be0bee][^key-aa72c9c89587080835af4e838d4b06a0] Whether or not the person looks after or gives help or support to family members, friends, neighbours or others because of long-term physical or mental ill-health or disability or because of problems related to old age, and, if so, the number of hours a week spent on this, excluding anything done as part of any paid employment.
+**23.**[^c-87f194e16779c2ffe02dfffeb5be0bee][^c-aa72c9c89587080835af4e838d4b06a0] Whether or not the person looks after or gives help or support to family members, friends, neighbours or others because of long-term physical or mental ill-health or disability or because of problems related to old age, and, if so, the number of hours a week spent on this, excluding anything done as part of any paid employment.
 
-### 24. Education and Employment particulars for each person falling within article 6(2)(d)(ii) or 6(3)(b) applies[^key-4025a313eb4eb42c53b539b5d728e241]
+### 24. Education and Employment particulars for each person falling within article 6(2)(d)(ii) or 6(3)(b) applies[^c-4025a313eb4eb42c53b539b5d728e241]
 
 The levels of educational qualifications obtained (if any) and whether any of the following have been obtained—
 
@@ -306,9 +306,9 @@ The levels of educational qualifications obtained (if any) and whether any of th
 - (b) vocational or work related qualifications;
 - (c) qualifications gained outside the UK.
 
-**25.**[^key-f18b52bd4ab06b2128c0ed473a8f44da][^key-4025a313eb4eb42c53b539b5d728e241] Whether or not the person has helped with or carried out any voluntary work without pay during the past year.
+**25.**[^c-f18b52bd4ab06b2128c0ed473a8f44da][^c-4025a313eb4eb42c53b539b5d728e241] Whether or not the person has helped with or carried out any voluntary work without pay during the past year.
 
-**26.**[^key-e23865552b95f0ce9d77dbfb8b109ad8][^key-4025a313eb4eb42c53b539b5d728e241] Whether that person during the week preceding census day was—
+**26.**[^c-e23865552b95f0ce9d77dbfb8b109ad8][^c-4025a313eb4eb42c53b539b5d728e241] Whether that person during the week preceding census day was—
 
 - (a) working as an employee;
 - (b) on a Government sponsored training scheme;
@@ -318,7 +318,7 @@ The levels of educational qualifications obtained (if any) and whether any of th
 - (f) doing any other kind of paid work; or
 - (g) none of the above.
 
-**27.**[^key-4291c9b4ab3dc2a24a18a88c0f0272d2][^key-4025a313eb4eb42c53b539b5d728e241] If not working during the week preceding census day, whether or not that person was—
+**27.**[^c-4291c9b4ab3dc2a24a18a88c0f0272d2][^c-4025a313eb4eb42c53b539b5d728e241] If not working during the week preceding census day, whether or not that person was—
 
 - (a) actively looking for any kind of paid work during the last four weeks;
 - (b) available to start work within two weeks;
@@ -332,9 +332,9 @@ and whether that person was—
 - (g) long-term sick or disabled; or
 - (h) not working for any other reason.
 
-**28.**[^key-195f80d8b93697fdeb548d3f9fb0c325][^key-4025a313eb4eb42c53b539b5d728e241] If not working during the week preceding census day whether that person has ever worked and if so, the last year of work.
+**28.**[^c-195f80d8b93697fdeb548d3f9fb0c325][^c-4025a313eb4eb42c53b539b5d728e241] If not working during the week preceding census day whether that person has ever worked and if so, the last year of work.
 
-**29.**[^key-bf545fc367b0a9892be1771a8ead22e9][^key-4025a313eb4eb42c53b539b5d728e241] For the main job done during the week preceding census day, or if not working then, for their last main job—
+**29.**[^c-bf545fc367b0a9892be1771a8ead22e9][^c-4025a313eb4eb42c53b539b5d728e241] For the main job done during the week preceding census day, or if not working then, for their last main job—
 
 - (a) whether working as an employee, or self-employed/freelance without employees, or self-employed with employees;
 - (b) the full title of their main job;
@@ -344,12 +344,12 @@ and whether that person was—
 - (f) either the name of the organisation they worked for (including own organisation if self-employed) or whether there was no such organisation; and
 - (g) the number of hours a week usually worked in their main job.
 
-**30.**[^key-5e0323a9061dfc9aca02648bb1c9a277][^key-4025a313eb4eb42c53b539b5d728e241] In respect of any person who was working or studying during the week preceding census day—
+**30.**[^c-5e0323a9061dfc9aca02648bb1c9a277][^c-4025a313eb4eb42c53b539b5d728e241] In respect of any person who was working or studying during the week preceding census day—
 
 - (a) the workplace or school address for the main job or place of study, or, whether mainly working or studying at or from home or at an offshore installation or whether there is no fixed place of work or study;
 - (b) the mode of transport used for the longest part, by distance, of the usual journey to work or place of study.
 
-### 31. Accommodation particulars[^key-b9601e4565673026f90beacdaa81e967]
+### 31. Accommodation particulars[^c-b9601e4565673026f90beacdaa81e967]
 
 Whether the living accommodation occupied by the household to which the return relates is—
 
@@ -357,15 +357,15 @@ Whether the living accommodation occupied by the household to which the return r
 - (b) a flat, maisonette or apartment (and whether in a purpose-built block of flats or tenement, part of a converted or shared house (including bedsits) or in a commercial building); or
 - (c) a caravan or any other mobile or temporary structure.
 
-**32.**[^key-b5a72f1bf5d2d60d5ff14bd64d3d108d][^key-b9601e4565673026f90beacdaa81e967] Whether or not the accommodation is self-contained.
+**32.**[^c-b5a72f1bf5d2d60d5ff14bd64d3d108d][^c-b9601e4565673026f90beacdaa81e967] Whether or not the accommodation is self-contained.
 
-**33.**[^key-bf4845ed948f55a4e4e437da0bbbfbb7][^key-b9601e4565673026f90beacdaa81e967] Excluding any bathrooms, toilets, halls or landings, or rooms that can only be used for storage, the number of rooms for use only by the household.
+**33.**[^c-bf4845ed948f55a4e4e437da0bbbfbb7][^c-b9601e4565673026f90beacdaa81e967] Excluding any bathrooms, toilets, halls or landings, or rooms that can only be used for storage, the number of rooms for use only by the household.
 
-**34.**[^key-b04f3fb3ab5296f6aaa9a96bcf45dbdb][^key-b9601e4565673026f90beacdaa81e967] Whether or not the accommodation has been designed or adapted for wheelchair use, other physical or mobility difficulties, visual difficulties, hearing difficulties or other use.
+**34.**[^c-b04f3fb3ab5296f6aaa9a96bcf45dbdb][^c-b9601e4565673026f90beacdaa81e967] Whether or not the accommodation has been designed or adapted for wheelchair use, other physical or mobility difficulties, visual difficulties, hearing difficulties or other use.
 
-**35.**[^key-a896736b40922f377413d57723e5b73a][^key-b9601e4565673026f90beacdaa81e967] Whether or not the accommodation has central heating, and if so whether the type of heating is gas, electric (including storage heaters), oil, solid fuel (for example, wood, coal) or other type.
+**35.**[^c-a896736b40922f377413d57723e5b73a][^c-b9601e4565673026f90beacdaa81e967] Whether or not the accommodation has central heating, and if so whether the type of heating is gas, electric (including storage heaters), oil, solid fuel (for example, wood, coal) or other type.
 
-**36.**[^key-fd3c6dd974230b6b8a41b371a3269854][^key-b9601e4565673026f90beacdaa81e967] Whether the household to which the return relates—
+**36.**[^c-fd3c6dd974230b6b8a41b371a3269854][^c-b9601e4565673026f90beacdaa81e967] Whether the household to which the return relates—
 
 - (a) owns the accommodation outright;
 - (b) owns the accommodation with a mortgage or loan;
@@ -373,15 +373,15 @@ Whether the living accommodation occupied by the household to which the return r
 - (d) rents the accommodation; or
 - (e) lives in the accommodation rent free.
 
-**37.**[^key-914ba7f2266618bb58eb75a13e3e56fd][^key-b9601e4565673026f90beacdaa81e967] Where the household to which the return relates rents or part rents the accommodation or lives in the accommodation rent free, the type of landlord.
+**37.**[^c-914ba7f2266618bb58eb75a13e3e56fd][^c-b9601e4565673026f90beacdaa81e967] Where the household to which the return relates rents or part rents the accommodation or lives in the accommodation rent free, the type of landlord.
 
-**38.**[^key-1f66040860c68953b8d76eaffa4732f1][^key-b9601e4565673026f90beacdaa81e967] The number of cars and vans owned, or available for use, by members of the household to which the return relates.
+**38.**[^c-1f66040860c68953b8d76eaffa4732f1][^c-b9601e4565673026f90beacdaa81e967] The number of cars and vans owned, or available for use, by members of the household to which the return relates.
 
-### 39. Additional particulars for individual returns[^key-cf162776baad3fa883cf34f61f3db2a9]
+### 39. Additional particulars for individual returns[^c-cf162776baad3fa883cf34f61f3db2a9]
 
 Whether the accommodation is a communal establishment, or a private or family home.
 
-**40.**[^key-8936fd8d90ed2e353153c252d135afae][^key-cf162776baad3fa883cf34f61f3db2a9] If the accommodation is a communal establishment whether or not the respondent is answering the questions on behalf of someone else and whether the person with whom the return is concerned is—
+**40.**[^c-8936fd8d90ed2e353153c252d135afae][^c-cf162776baad3fa883cf34f61f3db2a9] If the accommodation is a communal establishment whether or not the respondent is answering the questions on behalf of someone else and whether the person with whom the return is concerned is—
 
 - (a) a resident in the establishment; or
 - (b) a member of staff or the owner of the establishment; or
@@ -391,15 +391,15 @@ Whether the accommodation is a communal establishment, or a private or family ho
 
 Article 6(5)
 
-**1.**[^key-e4a7be8b022997471c7cba45fb8402f6] Number of individual forms issued.
+**1.**[^c-e4a7be8b022997471c7cba45fb8402f6] Number of individual forms issued.
 
-**2.**[^key-2cd640698743b9b36e8cbefeed2703f5] Number of individual forms collected.
+**2.**[^c-2cd640698743b9b36e8cbefeed2703f5] Number of individual forms collected.
 
-**3.**[^key-f4660598122b79722ddd5effb1be2aa3] Number of returns completed online.
+**3.**[^c-f4660598122b79722ddd5effb1be2aa3] Number of returns completed online.
 
-**4.**[^key-9a2fe787bb6a8c1b6282ccc59707d357] Number of reckonable visitors staying overnight on census night.
+**4.**[^c-9a2fe787bb6a8c1b6282ccc59707d357] Number of reckonable visitors staying overnight on census night.
 
-**5.**[^key-673dbf72823634a681fe634dae60e706] Type of establishment.
+**5.**[^c-673dbf72823634a681fe634dae60e706] Type of establishment.
 
 (This note is not part of the Order)
 
@@ -409,106 +409,106 @@ This Order provides for the taking of a census for Northern Ireland on 27th Marc
 
 [^f00001]: Footnote: [1969 c. 8 (N.I.)](https://www.legislation.gov.uk/apni/1969/8); the relevant amendments are S.I. [1999/663](https://www.legislation.gov.uk/uksi/1999/663), article 2(1) and Schedule 1, paragraph 15; [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33) section 261(3) and Schedule 29, paragraph 9.
 
-[^key-f39a02fce308229be56b28ba52acbd79]: Commencement: Art. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-f39a02fce308229be56b28ba52acbd79]: Commencement: Art. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-b002308ed7d1b678c55cb0dfdfb112cb]: Commencement: Art. 2 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-b002308ed7d1b678c55cb0dfdfb112cb]: Commencement: Art. 2 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-959dc3dfcbdeb05895505a17c16a15a5]: Commencement: Art. 3 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-959dc3dfcbdeb05895505a17c16a15a5]: Commencement: Art. 3 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-2424bfc92162a9e6ed553cb338011b05]: Commencement: Art. 4 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-2424bfc92162a9e6ed553cb338011b05]: Commencement: Art. 4 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-5b5f6f3836abe7fcb0cad543135b66f5]: Commencement: Art. 5 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-5b5f6f3836abe7fcb0cad543135b66f5]: Commencement: Art. 5 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-c09f96d8e29bd46fecc62bf8b7332528]: Commencement: Art. 6 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-c09f96d8e29bd46fecc62bf8b7332528]: Commencement: Art. 6 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-778c1db0cc91a0f604e3fbd410a19062]: Commencement: Sch. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-778c1db0cc91a0f604e3fbd410a19062]: Commencement: Sch. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-31da7776304c797c6954e8c70cf5550e]: Commencement: Sch. 2 para. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-31da7776304c797c6954e8c70cf5550e]: Commencement: Sch. 2 para. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-2ca662a6c96aaec3029b5f636a2dcc5d]: Commencement: Sch. 2 para. 2 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-2ca662a6c96aaec3029b5f636a2dcc5d]: Commencement: Sch. 2 para. 2 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-a0cd238519c3d744482217d5c403ac62]: Commencement: Sch. 2 para. 3 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-a0cd238519c3d744482217d5c403ac62]: Commencement: Sch. 2 para. 3 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-1e534fcd82b1f695c58c5a25105e496d]: Commencement: Sch. 2 para. 4 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-1e534fcd82b1f695c58c5a25105e496d]: Commencement: Sch. 2 para. 4 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-96c0dcd941c77354c101591abfe29c38]: Commencement: Sch. 2 para. 5 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-96c0dcd941c77354c101591abfe29c38]: Commencement: Sch. 2 para. 5 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-aa72c9c89587080835af4e838d4b06a0]: Commencement: Sch. 2 para. 6 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-aa72c9c89587080835af4e838d4b06a0]: Commencement: Sch. 2 para. 6 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-1f774a3298bdb7a220790659b325fb28]: Commencement: Sch. 2 para. 7 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-1f774a3298bdb7a220790659b325fb28]: Commencement: Sch. 2 para. 7 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-8fefab2788322f922448ca0b99fec814]: Commencement: Sch. 2 para. 8 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-8fefab2788322f922448ca0b99fec814]: Commencement: Sch. 2 para. 8 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-f7b590af0d761f941b70b055fbb4fa57]: Commencement: Sch. 2 para. 9 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-f7b590af0d761f941b70b055fbb4fa57]: Commencement: Sch. 2 para. 9 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-1ef9817ff6a9521d37281c53a05b7be0]: Commencement: Sch. 2 para. 10 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-1ef9817ff6a9521d37281c53a05b7be0]: Commencement: Sch. 2 para. 10 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-8e76b8a2f486be3eb569bead4dc853f4]: Commencement: Sch. 2 para. 11 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-8e76b8a2f486be3eb569bead4dc853f4]: Commencement: Sch. 2 para. 11 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-47492daa137f9af968577c3c3d468b15]: Commencement: Sch. 2 para. 12 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-47492daa137f9af968577c3c3d468b15]: Commencement: Sch. 2 para. 12 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-fdba792bceb6b2e75f1616acbf8df00d]: Commencement: Sch. 2 para. 13 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-fdba792bceb6b2e75f1616acbf8df00d]: Commencement: Sch. 2 para. 13 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-96903facb456d354919e32ab3f472bce]: Commencement: Sch. 2 para. 14 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-96903facb456d354919e32ab3f472bce]: Commencement: Sch. 2 para. 14 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-502b0b60a76d535be37c25736219a6df]: Commencement: Sch. 2 para. 15 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-502b0b60a76d535be37c25736219a6df]: Commencement: Sch. 2 para. 15 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-9251aff79d5ccac84a97508f2b5c785b]: Commencement: Sch. 2 para. 16 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-9251aff79d5ccac84a97508f2b5c785b]: Commencement: Sch. 2 para. 16 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-3eca537fdf0333009edaa0b5779e1b7c]: Commencement: Sch. 2 para. 17 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-3eca537fdf0333009edaa0b5779e1b7c]: Commencement: Sch. 2 para. 17 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-cddee9decf8a8b150a051ce5e70e811e]: Commencement: Sch. 2 para. 18 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-cddee9decf8a8b150a051ce5e70e811e]: Commencement: Sch. 2 para. 18 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-1993d12a97e7ef51c2dcf86099503671]: Commencement: Sch. 2 para. 19 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-1993d12a97e7ef51c2dcf86099503671]: Commencement: Sch. 2 para. 19 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-125864a40339274d5e170d15d7dde4bd]: Commencement: Sch. 2 para. 20 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-125864a40339274d5e170d15d7dde4bd]: Commencement: Sch. 2 para. 20 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-eabe8f818269fd9fd83d61e7c50963f9]: Commencement: Sch. 2 para. 21 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-eabe8f818269fd9fd83d61e7c50963f9]: Commencement: Sch. 2 para. 21 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-5e23a1c0dff0465b7553c718adbe8672]: Commencement: Sch. 2 para. 22 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-5e23a1c0dff0465b7553c718adbe8672]: Commencement: Sch. 2 para. 22 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-87f194e16779c2ffe02dfffeb5be0bee]: Commencement: Sch. 2 para. 23 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-87f194e16779c2ffe02dfffeb5be0bee]: Commencement: Sch. 2 para. 23 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-4025a313eb4eb42c53b539b5d728e241]: Commencement: Sch. 2 para. 24 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-4025a313eb4eb42c53b539b5d728e241]: Commencement: Sch. 2 para. 24 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-f18b52bd4ab06b2128c0ed473a8f44da]: Commencement: Sch. 2 para. 25 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-f18b52bd4ab06b2128c0ed473a8f44da]: Commencement: Sch. 2 para. 25 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-e23865552b95f0ce9d77dbfb8b109ad8]: Commencement: Sch. 2 para. 26 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-e23865552b95f0ce9d77dbfb8b109ad8]: Commencement: Sch. 2 para. 26 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-4291c9b4ab3dc2a24a18a88c0f0272d2]: Commencement: Sch. 2 para. 27 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-4291c9b4ab3dc2a24a18a88c0f0272d2]: Commencement: Sch. 2 para. 27 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-195f80d8b93697fdeb548d3f9fb0c325]: Commencement: Sch. 2 para. 28 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-195f80d8b93697fdeb548d3f9fb0c325]: Commencement: Sch. 2 para. 28 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-bf545fc367b0a9892be1771a8ead22e9]: Commencement: Sch. 2 para. 29 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-bf545fc367b0a9892be1771a8ead22e9]: Commencement: Sch. 2 para. 29 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-5e0323a9061dfc9aca02648bb1c9a277]: Commencement: Sch. 2 para. 30 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-5e0323a9061dfc9aca02648bb1c9a277]: Commencement: Sch. 2 para. 30 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-b9601e4565673026f90beacdaa81e967]: Commencement: Sch. 2 para. 31 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-b9601e4565673026f90beacdaa81e967]: Commencement: Sch. 2 para. 31 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-b5a72f1bf5d2d60d5ff14bd64d3d108d]: Commencement: Sch. 2 para. 32 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-b5a72f1bf5d2d60d5ff14bd64d3d108d]: Commencement: Sch. 2 para. 32 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-bf4845ed948f55a4e4e437da0bbbfbb7]: Commencement: Sch. 2 para. 33 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-bf4845ed948f55a4e4e437da0bbbfbb7]: Commencement: Sch. 2 para. 33 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-b04f3fb3ab5296f6aaa9a96bcf45dbdb]: Commencement: Sch. 2 para. 34 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-b04f3fb3ab5296f6aaa9a96bcf45dbdb]: Commencement: Sch. 2 para. 34 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-a896736b40922f377413d57723e5b73a]: Commencement: Sch. 2 para. 35 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-a896736b40922f377413d57723e5b73a]: Commencement: Sch. 2 para. 35 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-fd3c6dd974230b6b8a41b371a3269854]: Commencement: Sch. 2 para. 36 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-fd3c6dd974230b6b8a41b371a3269854]: Commencement: Sch. 2 para. 36 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-914ba7f2266618bb58eb75a13e3e56fd]: Commencement: Sch. 2 para. 37 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-914ba7f2266618bb58eb75a13e3e56fd]: Commencement: Sch. 2 para. 37 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-1f66040860c68953b8d76eaffa4732f1]: Commencement: Sch. 2 para. 38 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-1f66040860c68953b8d76eaffa4732f1]: Commencement: Sch. 2 para. 38 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-cf162776baad3fa883cf34f61f3db2a9]: Commencement: Sch. 2 para. 39 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-cf162776baad3fa883cf34f61f3db2a9]: Commencement: Sch. 2 para. 39 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-8936fd8d90ed2e353153c252d135afae]: Commencement: Sch. 2 para. 40 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-8936fd8d90ed2e353153c252d135afae]: Commencement: Sch. 2 para. 40 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-e4a7be8b022997471c7cba45fb8402f6]: Commencement: Sch. 3 para. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-e4a7be8b022997471c7cba45fb8402f6]: Commencement: Sch. 3 para. 1 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-2cd640698743b9b36e8cbefeed2703f5]: Commencement: Sch. 3 para. 2 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-2cd640698743b9b36e8cbefeed2703f5]: Commencement: Sch. 3 para. 2 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-f4660598122b79722ddd5effb1be2aa3]: Commencement: Sch. 3 para. 3 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-f4660598122b79722ddd5effb1be2aa3]: Commencement: Sch. 3 para. 3 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-9a2fe787bb6a8c1b6282ccc59707d357]: Commencement: Sch. 3 para. 4 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-9a2fe787bb6a8c1b6282ccc59707d357]: Commencement: Sch. 3 para. 4 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
 
-[^key-673dbf72823634a681fe634dae60e706]: Commencement: Sch. 3 para. 5 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)
+[^c-673dbf72823634a681fe634dae60e706]: Commencement: Sch. 3 para. 5 in operation at 2.6.2010, see [art. 1](https://www.legislation.gov.uk/nisr/2010/195/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48A. Pre-notice to be given to other joint tenants[^key-a153475a0379c54549fadf9a5421cbf4]
+## 48A. Pre-notice to be given to other joint tenants[^c-a153475a0379c54549fadf9a5421cbf4]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a153475a0379c54549fadf9a5421cbf4]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/asp/2016/19/section/48A) inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 44(3)](https://www.legislation.gov.uk/asp/2025/13/section/44/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-a153475a0379c54549fadf9a5421cbf4]: Textual amendment: [S. 48A](https://www.legislation.gov.uk/asp/2016/19/section/48A) inserted (1.4.2026 for the purpose of making regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 44(3)](https://www.legislation.gov.uk/asp/2025/13/section/44/3), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

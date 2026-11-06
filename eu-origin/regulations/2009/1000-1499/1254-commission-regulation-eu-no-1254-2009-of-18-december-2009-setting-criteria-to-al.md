@@ -30,7 +30,7 @@ Commission Regulation (EU) No 1254/2009
 
 of 18 December 2009
 
-setting criteria to allow derogation from the[^key-03bdd0e604ab3b6bc536f2bea9f395a1] basic standards on civil aviation security and to adopt alternative security measures
+setting criteria to allow derogation from the[^c-03bdd0e604ab3b6bc536f2bea9f395a1] basic standards on civil aviation security and to adopt alternative security measures
 
 (Text with EEA relevance)
 
@@ -56,7 +56,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** The appropriate authority[^key-cfdd22a9495fb3d5f71ead2b4e957c5c][^c000001] may derogate from the [^key-d97756c91dbef752302fe4318c270d82]... basic standards referred to in Article 4(1) of Regulation (EC) No 300/2008 and adopt alternative security measures that provide an adequate level of protection on the basis of a risk assessment approved by the appropriate authority at airports or demarcated areas of airports where traffic is limited to one or more of the following categories:
+**Article 1.** The appropriate authority[^c-cfdd22a9495fb3d5f71ead2b4e957c5c][^c000001] may derogate from the [^c-d97756c91dbef752302fe4318c270d82]... basic standards referred to in Article 4(1) of Regulation (EC) No 300/2008 and adopt alternative security measures that provide an adequate level of protection on the basis of a risk assessment approved by the appropriate authority at airports or demarcated areas of airports where traffic is limited to one or more of the following categories:
 
 - 1.. aircraft with a maximum take-off weight of less than 15 000 kilograms;
 - 2.. helicopters;
@@ -71,7 +71,7 @@ HAS ADOPTED THIS REGULATION:
 - 11.. flights with aircraft with a maximum take-off weight of less than 45 500 kilograms, chartered or leased in its entirety by a company from an aircraft operator with which it has a written agreement for the carriage of own staff and non-fare-paying passengers and goods as an aid to the conduct of company business;
 - 12.. flights with aircraft with a maximum take-off weight of less than 45 500 kilograms, for the carriage of the owner of the aircraft and of non-fare-paying passengers and goods.
 
-For flights covered under points 10, 11 and 12, but with a maximum take-off weight of 45 500 kilograms or more, the appropriate authority may in exceptional cases, and based on a risk assessment for each individual case, derogate from the weight limitation laid down in these categories.[^c000002] [^key-3b7b8eb621457549ecbeb8483dcde1ea]...
+For flights covered under points 10, 11 and 12, but with a maximum take-off weight of 45 500 kilograms or more, the appropriate authority may in exceptional cases, and based on a risk assessment for each individual case, derogate from the weight limitation laid down in these categories.[^c000002] [^c-3b7b8eb621457549ecbeb8483dcde1ea]...
 
 **Article 2.** This Regulation shall enter into force on the 20th day following its publication in the *Official Journal of the European Union*.
 
@@ -81,18 +81,18 @@ It shall apply as from the date specified in the implementing rules adopted in a
 
 ## Annotations
 
-[^key-03bdd0e604ab3b6bc536f2bea9f395a1]: Textual amendment: Words in Regulation title substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [48](https://www.legislation.gov.uk/uksi/2019/547/regulation/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03bdd0e604ab3b6bc536f2bea9f395a1]: Textual amendment: Words in Regulation title substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [48](https://www.legislation.gov.uk/uksi/2019/547/regulation/48); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00001]: Footnote: [OJ L 97, 9.4.2008, p. 72](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.097.01.0072.01.ENG).
 
-[^key-cfdd22a9495fb3d5f71ead2b4e957c5c]: Textual amendment: Words in Art. 1 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [49(a)(i)](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cfdd22a9495fb3d5f71ead2b4e957c5c]: Textual amendment: Words in Art. 1 substituted (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [49(a)(i)](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2016/2096 of 30 November 2016 amending Regulation (EU) No 1254/2009 as regards certain criteria to allow Member States to derogate from the common basic standards on civil aviation security and to adopt alternative security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/2096).
 
-[^key-d97756c91dbef752302fe4318c270d82]: Textual amendment: Word in Art. 1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [49(a)(ii)](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d97756c91dbef752302fe4318c270d82]: Textual amendment: Word in Art. 1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [49(a)(ii)](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000002]: Textual amendment: Inserted by [Commission Regulation (EU) 2016/2096 of 30 November 2016 amending Regulation (EU) No 1254/2009 as regards certain criteria to allow Member States to derogate from the common basic standards on civil aviation security and to adopt alternative security measures (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/2096).
 
-[^key-3b7b8eb621457549ecbeb8483dcde1ea]: Textual amendment: Words in Art. 1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [49(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b7b8eb621457549ecbeb8483dcde1ea]: Textual amendment: Words in Art. 1 omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [49(b)](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_f961cf69-0d68-4785-fdeb-661ff6fcaecf]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2009/1254/article/1) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [50](https://www.legislation.gov.uk/uksi/2019/547/regulation/49/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

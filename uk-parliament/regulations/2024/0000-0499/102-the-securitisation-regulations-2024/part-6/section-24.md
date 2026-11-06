@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Interpretation of Part 6[^key-f8aefc1c6421c00de26bfe8d552693e2]
+## 24. Interpretation of Part 6[^c-f8aefc1c6421c00de26bfe8d552693e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-f8aefc1c6421c00de26bfe8d552693e2]: Commencement: Reg. 24 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-f8aefc1c6421c00de26bfe8d552693e2]: Commencement: Reg. 24 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

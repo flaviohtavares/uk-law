@@ -43,7 +43,7 @@ The Welsh Ministers, in exercise of the powers conferred by paragraph 1(1) of Sc
 
 In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this instrument has been laid before and approved by a resolution of the National Assembly for Wales.
 
-## 1. Title, commencement and application[^key-0541fabc577dd3b74579f83f5ceeb493]
+## 1. Title, commencement and application[^c-0541fabc577dd3b74579f83f5ceeb493]
 
 (1) The title of these Regulations is the Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019.
 
@@ -51,7 +51,7 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 (3) These Regulations apply in relation to Wales.
 
-## 2. The Registration of Establishments (Laying Hens) (Wales) Regulations 2004[^key-e4f6ea9023bb35f20162daf2b0c40357]
+## 2. The Registration of Establishments (Laying Hens) (Wales) Regulations 2004[^c-e4f6ea9023bb35f20162daf2b0c40357]
 
 (1) The Registration of Establishments (Laying Hens) (Wales) Regulations 2004 [^c23671271] are amended as follows.
 
@@ -91,7 +91,7 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 (5) In regulations 7(1) and 11, for “National Assembly” substitute “ Welsh Ministers ”.
 
-## 3. The Welfare of Animals (Transport) (Wales) Order 2007[^key-33f795ed121170d7c8cf68152a96c6db]
+## 3. The Welfare of Animals (Transport) (Wales) Order 2007[^c-33f795ed121170d7c8cf68152a96c6db]
 
 (1) The Welfare of Animals (Transport) (Wales) Order 2007 [^c23671281] is amended as follows.
 
@@ -121,7 +121,7 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
 
 (6) In articles 24(9), 26(1)(a), 27(b) and 29(2), for “National Assembly”, in each place where it occurs, substitute “ Welsh Ministers ”.
 
-## 4. The Welfare of Farmed Animals (Wales) Regulations 2007[^key-5fdcd1b751e13f5162c3ef5f2bedef75]
+## 4. The Welfare of Farmed Animals (Wales) Regulations 2007[^c-5fdcd1b751e13f5162c3ef5f2bedef75]
 
 (1) The Welfare of Farmed Animals (Wales) Regulations 2007 [^c23671291] are amended as follows.
 
@@ -138,14 +138,14 @@ In accordance with paragraph 1(9) of Schedule 7 to that Act, a draft of this ins
   ;
 - (b) in sub-paragraph (2), for “certificates recognised by the Welsh Ministers for the purposes of sub-paragraph (1)” substitute “ recognised certificates ”.
 
-## 5. The Welfare of Animals at the Time of Killing (Wales) Regulations 2014[^key-db8dc0983b8f079c14ba4e4828b86682]
+## 5. The Welfare of Animals at the Time of Killing (Wales) Regulations 2014[^c-db8dc0983b8f079c14ba4e4828b86682]
 
 (1) The Welfare of Animals at the Time of Killing (Wales) Regulations 2014 [^c23671311] are amended as follows.
 
 (2) In regulation 3—
 
 - (a) in paragraph (1), in the definition of “EU Regulation”, at the end insert “ as amended from time to time ”;
-- (aa)[^key-4c3b82921569be031cfa129188d58af9] in paragraph (1), in the definition of “evidence of training and examination”, after paragraph (a) insert—
+- (aa)[^c-4c3b82921569be031cfa129188d58af9] in paragraph (1), in the definition of “evidence of training and examination”, after paragraph (a) insert—
 
   > - (aa) a document attesting the passing of an independent final examination issued by—
   >   - (i) a body designated by the Republic of Ireland as responsible for delivering certificates in accordance with Article 21(1) of the EU Regulation as it has effect in EU law as amended from time to time, or
@@ -183,24 +183,24 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23671261]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-0541fabc577dd3b74579f83f5ceeb493]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-0541fabc577dd3b74579f83f5ceeb493]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-e4f6ea9023bb35f20162daf2b0c40357]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e4f6ea9023bb35f20162daf2b0c40357]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671271]: Marginal citation: [S.I. 2004/1432](https://www.legislation.gov.uk/uksi/2004/1432) (W. 145), to which there are amendments not relevant to these Regulations.
 
-[^key-33f795ed121170d7c8cf68152a96c6db]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-33f795ed121170d7c8cf68152a96c6db]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671281]: Marginal citation: [S.I. 2007/1047](https://www.legislation.gov.uk/uksi/2007/1047) (W. 105).
 
-[^key-5fdcd1b751e13f5162c3ef5f2bedef75]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5fdcd1b751e13f5162c3ef5f2bedef75]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671291]: Marginal citation: [S.I. 2007/3070](https://www.legislation.gov.uk/uksi/2007/3070) (W. 264), amended by [S.I. 2010/2713](https://www.legislation.gov.uk/uksi/2010/2713) (W. 229).
 
 [^c23671301]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), to which there are amendments not relevant to these Regulations.
 
-[^key-db8dc0983b8f079c14ba4e4828b86682]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-db8dc0983b8f079c14ba4e4828b86682]: Commencement: Reg. 5 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23671311]: Marginal citation: [S.I. 2014/951](https://www.legislation.gov.uk/uksi/2014/951) (W. 92).
 
-[^key-4c3b82921569be031cfa129188d58af9]: Textual amendment: Reg. 5(2)(aa) inserted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) (Amendment) Regulations 2019 (S.I. 2019/1375)](https://www.legislation.gov.uk/uksi/2019/1375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1375/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/1375/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4c3b82921569be031cfa129188d58af9]: Textual amendment: Reg. 5(2)(aa) inserted (31.12.2020) by [The Animal Health and Welfare (Miscellaneous Amendments) (Wales) (EU Exit) (Amendment) Regulations 2019 (S.I. 2019/1375)](https://www.legislation.gov.uk/uksi/2019/1375), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1375/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2019/1375/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Establishment of courts boards[^key-004fff58a00ca19ac228062290fb7b03]
+## 4. Establishment of courts boards[^c-004fff58a00ca19ac228062290fb7b03]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-004fff58a00ca19ac228062290fb7b03]: Textual amendment: S. 4 repealed (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/4)
+[^c-004fff58a00ca19ac228062290fb7b03]: Textual amendment: S. 4 repealed (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/4)

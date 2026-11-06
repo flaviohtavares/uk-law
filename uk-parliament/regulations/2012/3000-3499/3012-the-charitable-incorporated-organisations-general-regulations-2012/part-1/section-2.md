@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation: general[^key-65a9c25eae4d3736a1bf726616982b75]
+## 2. Interpretation: general[^c-65a9c25eae4d3736a1bf726616982b75]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-65a9c25eae4d3736a1bf726616982b75]: Commencement: Reg. 2 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-65a9c25eae4d3736a1bf726616982b75]: Commencement: Reg. 2 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00002]: Footnote: Section 204 of the 2011 Act provides that for the purposes of that Act “CIO” means charitable incorporated organisation.

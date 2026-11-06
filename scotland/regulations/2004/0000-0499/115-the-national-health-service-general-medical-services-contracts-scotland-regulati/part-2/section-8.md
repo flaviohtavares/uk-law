@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Prescribed period under section 17L(6) of the Act[^key-00e396e97061bbe3e2da5e66c71bc694]
+## 8. Prescribed period under section 17L(6) of the Act[^c-00e396e97061bbe3e2da5e66c71bc694]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The period prescribed for the purposes of section 17L(6) of the Act (eligibility
 
 ## Annotations
 
-[^key-00e396e97061bbe3e2da5e66c71bc694]: Commencement: Reg. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-00e396e97061bbe3e2da5e66c71bc694]: Commencement: Reg. 8 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00048]: Footnote: Section 17L was inserted by the 2004 Act, section 4.

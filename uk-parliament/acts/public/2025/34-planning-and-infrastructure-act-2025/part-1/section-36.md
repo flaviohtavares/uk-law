@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Replacement of model clauses with guidance[^key-4e8529f4db0efb22483f113d9b6027f8][^key-4a8865c8125070d2b36d27515d297c92]
+## 36. Replacement of model clauses with guidance[^c-4e8529f4db0efb22483f113d9b6027f8][^c-4a8865c8125070d2b36d27515d297c92]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ In the Transport and Works Act 1992, for section 8 (model clauses) substitute—
 
 ## Annotations
 
-[^key-4e8529f4db0efb22483f113d9b6027f8]: Commencement: S. 36 not in force at Royal Assent, see [s. 118(1)(u)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/u)
+[^c-4e8529f4db0efb22483f113d9b6027f8]: Commencement: S. 36 not in force at Royal Assent, see [s. 118(1)(u)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/u)
 
-[^key-4a8865c8125070d2b36d27515d297c92]: Commencement: S. 36 in force at 1.9.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/4/b)
+[^c-4a8865c8125070d2b36d27515d297c92]: Commencement: S. 36 in force at 1.9.2026 by [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/4/b)

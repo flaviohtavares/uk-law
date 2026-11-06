@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Transitional provisions: licences under article 39(1) of the Forestry Order or article 41(1) of the 2005 Order[^key-10d7ad08ed0504078ed4cdb31198bd82]
+## 50. Transitional provisions: licences under article 39(1) of the Forestry Order or article 41(1) of the 2005 Order[^c-10d7ad08ed0504078ed4cdb31198bd82]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-10d7ad08ed0504078ed4cdb31198bd82]: Commencement: Reg. 50 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-10d7ad08ed0504078ed4cdb31198bd82]: Commencement: Reg. 50 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946131]: Marginal citation: OJ L 137, 23.5.2019, p.15.
 

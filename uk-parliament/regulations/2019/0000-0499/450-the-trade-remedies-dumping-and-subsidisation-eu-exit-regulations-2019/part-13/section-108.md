@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108.[^key-9a6f555be671b4f95c078574ce3c4020]
+## 108.[^c-9a6f555be671b4f95c078574ce3c4020]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ Regulation 52 (assessment of an application) has effect as if—
 
 ## Annotations
 
-[^key-9a6f555be671b4f95c078574ce3c4020]: Commencement: Reg. 108 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-9a6f555be671b4f95c078574ce3c4020]: Commencement: Reg. 108 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

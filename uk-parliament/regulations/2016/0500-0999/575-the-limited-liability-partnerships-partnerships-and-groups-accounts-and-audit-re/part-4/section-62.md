@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Review[^key-a5d9dff2c843c71d1ec9109d15bf264f]
+## 62. Review[^c-a5d9dff2c843c71d1ec9109d15bf264f]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ After regulation 7 (general interpretation) insert—
 
 ## Annotations
 
-[^key-a5d9dff2c843c71d1ec9109d15bf264f]: Commencement: Reg. 62 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-a5d9dff2c843c71d1ec9109d15bf264f]: Commencement: Reg. 62 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00049]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).

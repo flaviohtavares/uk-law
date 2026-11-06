@@ -26,7 +26,7 @@ summary: ''
 
 #### Firearms Act 1968
 
-**1.**[^key-aba138b45e52ae9e7aad459b3ecc4393] (1) The Firearms Act 1968 is amended as follows.
+**1.**[^c-aba138b45e52ae9e7aad459b3ecc4393] (1) The Firearms Act 1968 is amended as follows.
 
 (2) In section 3(1) (offences relating to manufacturing, selling or transferring firearms when not a firearms dealer)—
 
@@ -98,7 +98,7 @@ summary: ''
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**2.**[^key-4a897777d5e2365a2a1854f764fe41bd] In Schedule 9 to the Criminal Procedure (Scotland) Act 1995 (certificates as to proof of certain routine matters), at the end of the table insert—
+**2.**[^c-4a897777d5e2365a2a1854f764fe41bd] In Schedule 9 to the Criminal Procedure (Scotland) Act 1995 (certificates as to proof of certain routine matters), at the end of the table insert—
 
 > |  |  |  |
 > | --- | --- | --- |
@@ -108,21 +108,21 @@ summary: ''
 
 #### Violent Crime Reduction Act 2006
 
-**3.**[^key-9929a538a07ac2800c205328ad2de522] Section 32 of the Violent Crime Reduction Act 2006 (sales of air weapons by way of trade or business to be face to face) is repealed.
+**3.**[^c-9929a538a07ac2800c205328ad2de522] Section 32 of the Violent Crime Reduction Act 2006 (sales of air weapons by way of trade or business to be face to face) is repealed.
 
 ### PART 2 — AMENDMENTS RELATING TO PART 2
 
 #### Licensing (Scotland) Act 2005
 
-**4.** (1)[^key-92b87d346b5c0b01033935e55858708b] The 2005 Act is amended as follows.
+**4.** (1)[^c-92b87d346b5c0b01033935e55858708b] The 2005 Act is amended as follows.
 
 (2) In section 28(2) (period of effect of premises licence), for “34(1)” substitute “ 33(1) ”.
 
-(3)[^key-92b87d346b5c0b01033935e55858708b] In section 29(4) (application to vary premises licence), for “and 22” substitute “ , 22 and 24A ”.
+(3)[^c-92b87d346b5c0b01033935e55858708b] In section 29(4) (application to vary premises licence), for “and 22” substitute “ , 22 and 24A ”.
 
 (4) In section 35 (variation on transfer), in each of subsections (1) and (3)(b), the words “or 34(1)” are repealed.
 
-(5)[^key-92b87d346b5c0b01033935e55858708b] In section 37 (review of premises licence on Licensing Board's initiative)—
+(5)[^c-92b87d346b5c0b01033935e55858708b] In section 37 (review of premises licence on Licensing Board's initiative)—
 
 - (a) in subsection (3), for “subsection” where second occurring substitute “ section ”,
 - (b) in subsection (4)—
@@ -131,7 +131,7 @@ summary: ''
 
 (6) In section 49(1)(c) (Licensing Board's duty to update premises licence), the words “or 34(1)” are repealed.
 
-(7)[^key-92b87d346b5c0b01033935e55858708b] In section 57 (notification of occasional licence application to chief constable and Licensing Standards officer), in subsection (5)—
+(7)[^c-92b87d346b5c0b01033935e55858708b] In section 57 (notification of occasional licence application to chief constable and Licensing Standards officer), in subsection (5)—
 
 - (a) for “Subsections (2) and (3) have” substitute “ Subsection (3) has ”,
 - (b) for “references” where first occurring substitute “ reference ”,
@@ -141,7 +141,7 @@ summary: ''
 
 #### Civic Government (Scotland) Act 1982
 
-**5.**[^key-066b96ae4c1e5f899b33a7768248bfe7] (1) The 1982 Act is amended as follows.
+**5.**[^c-066b96ae4c1e5f899b33a7768248bfe7] (1) The 1982 Act is amended as follows.
 
 (2) In Schedule 1 (licensing: further provisions as to the general system)—
 
@@ -152,12 +152,12 @@ summary: ''
 
 ## Annotations
 
-[^key-aba138b45e52ae9e7aad459b3ecc4393]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/1) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
+[^c-aba138b45e52ae9e7aad459b3ecc4393]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/1) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
 
-[^key-4a897777d5e2365a2a1854f764fe41bd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/2) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
+[^c-4a897777d5e2365a2a1854f764fe41bd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/2) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
 
-[^key-9929a538a07ac2800c205328ad2de522]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/3) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
+[^c-9929a538a07ac2800c205328ad2de522]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/3) in force at 31.12.2016 by [S.S.I. 2016/130](https://www.legislation.gov.uk/ssi/2016/130), [art. 3(c)](https://www.legislation.gov.uk/ssi/2016/130/article/3/c)
 
-[^key-92b87d346b5c0b01033935e55858708b]: Commencement: Sch. 2 para. 4(1)(3)(5)(7) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-92b87d346b5c0b01033935e55858708b]: Commencement: Sch. 2 para. 4(1)(3)(5)(7) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
 
-[^key-066b96ae4c1e5f899b33a7768248bfe7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/5) in force at 20.12.2017 by [S.S.I. 2017/424](https://www.legislation.gov.uk/ssi/2017/424), [art. 2(c)](https://www.legislation.gov.uk/ssi/2017/424/article/2/c)
+[^c-066b96ae4c1e5f899b33a7768248bfe7]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2015/10/schedule/2/paragraph/5) in force at 20.12.2017 by [S.S.I. 2017/424](https://www.legislation.gov.uk/ssi/2017/424), [art. 2(c)](https://www.legislation.gov.uk/ssi/2017/424/article/2/c)

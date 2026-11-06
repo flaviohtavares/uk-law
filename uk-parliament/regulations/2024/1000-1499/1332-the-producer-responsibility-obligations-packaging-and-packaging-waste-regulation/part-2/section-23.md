@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Large and small producers[^key-3d10a0f60d9f06c9f94ac37c38feb42f]
+## 23. Large and small producers[^c-3d10a0f60d9f06c9f94ac37c38feb42f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-3d10a0f60d9f06c9f94ac37c38feb42f]: Commencement: Reg. 23 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-3d10a0f60d9f06c9f94ac37c38feb42f]: Commencement: Reg. 23 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

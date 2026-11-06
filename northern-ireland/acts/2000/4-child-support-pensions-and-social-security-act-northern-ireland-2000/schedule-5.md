@@ -52,7 +52,7 @@ Section 52.
 - (a) in paragraph (a), for or to a personal pension scheme there shall be substituted “, to a personal pension scheme or to an overseas arrangement”; and
 - (b) in paragraph (b), for or a personal pension scheme there shall be substituted “, a personal pension scheme or an overseas arrangement”.
 
-(2)[^key-02996a619cea53b212217a5d4406cf68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-02996a619cea53b212217a5d4406cf68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 176(1) of that Act (general interpretation), after the definition of occupational pension scheme, there shall be inserted—
 
@@ -67,7 +67,7 @@ Section 52.
 
 #### Protected rights
 
-**3.**[^key-3eddefe9f99d606112fb0b0f93ae14d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3eddefe9f99d606112fb0b0f93ae14d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Use of cash equivalent for annuity
 
@@ -157,34 +157,34 @@ Section 52.
 
 **11.** In Article 167(3) of the Pensions Order (Assembly, etc. control of orders and regulations), after orders in the first place where it occurs, there shall be inserted “made by virtue of Article 10(2)” and sub-paragraph (a) shall cease to have effect.
 
-### PART II — ALTERNATIVE TO ANTI-FRANKING RULES[^key-0b8393e97aacb5195ea244011d004cbf]
+### PART II — ALTERNATIVE TO ANTI-FRANKING RULES[^c-0b8393e97aacb5195ea244011d004cbf]
 
 **No longer in force.**
 
-#### Cases in which alternative applies[^key-0b8393e97aacb5195ea244011d004cbf]
+#### Cases in which alternative applies[^c-0b8393e97aacb5195ea244011d004cbf]
 
-**12.**[^key-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Alternative rules[^key-0b8393e97aacb5195ea244011d004cbf]
+#### Alternative rules[^c-0b8393e97aacb5195ea244011d004cbf]
 
-**13.**[^key-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Relationship between alternative rules and other rules[^key-0b8393e97aacb5195ea244011d004cbf]
+#### Relationship between alternative rules and other rules[^c-0b8393e97aacb5195ea244011d004cbf]
 
-**14.**[^key-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplemental[^key-0b8393e97aacb5195ea244011d004cbf]
+#### Supplemental[^c-0b8393e97aacb5195ea244011d004cbf]
 
-**15.**[^key-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-0b8393e97aacb5195ea244011d004cbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02996a619cea53b212217a5d4406cf68]: Textual amendment: [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/nia/2000/4/schedule/5/paragraph/2/2) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-02996a619cea53b212217a5d4406cf68]: Textual amendment: [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/nia/2000/4/schedule/5/paragraph/2/2) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
 
-[^key-3eddefe9f99d606112fb0b0f93ae14d3]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2000/4/schedule/5/paragraph/3) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
+[^c-3eddefe9f99d606112fb0b0f93ae14d3]: Textual amendment: [Sch. 5 para. 3](https://www.legislation.gov.uk/nia/2000/4/schedule/5/paragraph/3) repealed (6.4.2012) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [ss. 13(4)](https://www.legislation.gov.uk/nia/2008/1/section/13/4), [19(5)](https://www.legislation.gov.uk/nia/2008/1/section/19/5), [Sch. 6 Pt. 6](https://www.legislation.gov.uk/nia/2008/1/schedule/6/part/6); [S.R. 2012/115](https://www.legislation.gov.uk/nisr/2012/115), [art. 2](https://www.legislation.gov.uk/nisr/2012/115/article/2)
 
 [^c19213781]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/nia/2000/4/schedule/5/paragraph/9) repealed (6.4.2006) by [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [291](https://www.legislation.gov.uk/nisi/2005/255/article/291), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
 
 [^c19214231]: Textual amendment: [Sch. 5 para. 10(2)-(4)](https://www.legislation.gov.uk/nia/2000/4/schedule/5/paragraph/10/2) never in operation, repealed (6.4.2006) by [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [291](https://www.legislation.gov.uk/nisi/2005/255/article/291), [Sch. 11](https://www.legislation.gov.uk/nisi/2005/255/schedule/11); [S.R. 2006/95](https://www.legislation.gov.uk/nisr/2006/95), [art. 2(c)](https://www.legislation.gov.uk/nisr/2006/95/article/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2006/95/schedule/part/3)
 
-[^key-0b8393e97aacb5195ea244011d004cbf]: Textual amendment: Sch. 5 Pt. II repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 70](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/70)
+[^c-0b8393e97aacb5195ea244011d004cbf]: Textual amendment: Sch. 5 Pt. II repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 70](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/70)

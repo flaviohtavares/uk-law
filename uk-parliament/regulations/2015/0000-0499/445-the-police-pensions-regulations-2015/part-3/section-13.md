@@ -36,8 +36,8 @@ summary: ''
 - (b) the Director General of the NCA;
 - (c) the College of Policing;
 - (d) the Disclosure and Barring Service;
-- (e) the Independent Office for Police Conduct[^key-1a8ce783a542f000d01d82ad6295bd47];
-- (f)[^key-564f21bc4ca51cae547be41990c2f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Independent Office for Police Conduct[^c-1a8ce783a542f000d01d82ad6295bd47];
+- (f)[^c-564f21bc4ca51cae547be41990c2f3b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph (3), “**established Police Pension Board**” means a Police Pension Board which has been established to assist another scheme manager.
 
@@ -45,6 +45,6 @@ summary: ''
 
 [^c22402371]: Marginal citation: See section 5(8) of the Act for the meaning of “pension board”.
 
-[^key-1a8ce783a542f000d01d82ad6295bd47]: Textual amendment: Words in reg. 13 substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [34(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/34/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-1a8ce783a542f000d01d82ad6295bd47]: Textual amendment: Words in reg. 13 substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [34(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/34/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-564f21bc4ca51cae547be41990c2f3b5]: Textual amendment: [Reg. 13(3)(f)](https://www.legislation.gov.uk/uksi/2015/445/regulation/13/3/f) omitted (30.9.2020) by virtue of [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/24/3)
+[^c-564f21bc4ca51cae547be41990c2f3b5]: Textual amendment: [Reg. 13(3)(f)](https://www.legislation.gov.uk/uksi/2015/445/regulation/13/3/f) omitted (30.9.2020) by virtue of [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 24(3)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/24/3)

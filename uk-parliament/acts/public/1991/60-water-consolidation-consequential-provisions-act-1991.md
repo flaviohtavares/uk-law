@@ -226,7 +226,7 @@ Section 2.
 
 *Extent: E+W*
 
-**10.**[^key-d158edebe3e5ceab0f1e460c28a04aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-d158edebe3e5ceab0f1e460c28a04aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Public Health Act 1961 (c. 64)
 
@@ -287,7 +287,7 @@ Section 2.
 
 *Extent: E+W*
 
-**16.**[^key-3b491c4e9eceaa11684fc4593a49079f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-3b491c4e9eceaa11684fc4593a49079f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Parliamentary Commissioner Act 1967 (c. 13)
 
@@ -348,7 +348,7 @@ Section 2.
 
 *Extent: E+W*
 
-**24.**[^key-d0220eafbaa85f166ece271058bc5502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-d0220eafbaa85f166ece271058bc5502] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government Act 1974 (c. 7)
 
@@ -360,7 +360,7 @@ Section 2.
 
 *Extent: E+W*
 
-**26.**[^key-9446f30af8cb87f0c125bb2a015672ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-9446f30af8cb87f0c125bb2a015672ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Control of Pollution Act 1974 (c. 40)
 
@@ -374,14 +374,14 @@ Section 2.
 
 **28.** In Part III of Schedule 1 to the House of Commons Disqualification Act 1975 (other disqualifying offices)—
 
-- (a)[^key-2e9a031961e07caa5057ba2f3f01f730] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2e9a031961e07caa5057ba2f3f01f730] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the entry relating to directors of companies holding appointments under Chapter I of Part II of the Water Act 1989, for the words “Water Act 1989” there shall be substituted the words “ Water Industry Act 1991 ”.
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
 **29.** In Part III of Schedule 1 to the Northern Ireland Assembly Disqualification Act 1975 (other disqualifying offices)—
 
-- (a)[^key-1088abb3ab6ba9349cb225d6257425f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1088abb3ab6ba9349cb225d6257425f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the entry relating to directors of companies holding appointments under Chapter I of Part II of the Water Act 1989, for the words “Water Act 1989” there shall be substituted the words “ Water Industry Act 1991 ”.
 
 ### The Salmon and Freshwater Fisheries Act 1975 (c. 51)
@@ -390,8 +390,8 @@ Section 2.
 
 **30.** (1) A person shall not be guilty of an offence under section 4 of the Salmon and Freshwater Fisheries Act 1975 (offences of causing pollution of certain waters) in respect of any entry of matter into any controlled waters (within the meaning of Part III of the [^c932544]Water Resources Act 1991) which occurs—
 
-- (a) under and in accordance with an environmental permit under regulation 13 of[^key-ef1d6a56615f576405cf88b664237ff4] the Environmental Permitting (England and Wales) Regulations 2016 ([^key-e6af4cf03f0d59d3582cb8f1e06259cc][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) or a consent under Part II of the [^c932545]Control of Pollution Act 1974 (which makes corresponding provision for Scotland); or
-- (b) as a result of any act or omission under and in accordance with such apermit or[^key-3e046b54f9d0be31118f2969deda3db8] consent.
+- (a) under and in accordance with an environmental permit under regulation 13 of[^c-ef1d6a56615f576405cf88b664237ff4] the Environmental Permitting (England and Wales) Regulations 2016 ([^c-e6af4cf03f0d59d3582cb8f1e06259cc][S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154)) or a consent under Part II of the [^c932545]Control of Pollution Act 1974 (which makes corresponding provision for Scotland); or
+- (b) as a result of any act or omission under and in accordance with such apermit or[^c-3e046b54f9d0be31118f2969deda3db8] consent.
 
 (2) In section 5(5) of that Act of 1975, for paragraph (c) there shall be substituted the following paragraph—
 
@@ -427,13 +427,13 @@ Section 2.
 
 *Extent: E+W*
 
-**33.**[^key-3961ca48cd9858e81ac7c6f2c2edcb25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-3961ca48cd9858e81ac7c6f2c2edcb25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Competition Act 1980 (c. 21)
 
 *Extent: E+W*
 
-**34.**[^key-3961ca48cd9858e81ac7c6f2c2edcb25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-3961ca48cd9858e81ac7c6f2c2edcb25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Government, Planning and Land Act 1980 (c. 65)
 
@@ -511,7 +511,7 @@ Section 2.
 
 *Extent: E+W*
 
-**40.** (1) In sections 895(2) and 995(4) of the Companies Act 2006[^key-a3711c3c6f993a00db77cb3f54e23555] (compromises with creditors and protection of minorities by the Secretary of State), any reference to a company or body corporate which is liable to be wound up includes a reference to a company or body corporate which would be so liable but for section 25 of the Water Industry Act 1991.
+**40.** (1) In sections 895(2) and 995(4) of the Companies Act 2006[^c-a3711c3c6f993a00db77cb3f54e23555] (compromises with creditors and protection of minorities by the Secretary of State), any reference to a company or body corporate which is liable to be wound up includes a reference to a company or body corporate which would be so liable but for section 25 of the Water Industry Act 1991.
 
 (2) In section 459(3) of that Act of 1985, for the words “the Water Act 1989” there shall be substituted the words “ the Statutory Water Companies Act 1991 ”.
 
@@ -519,7 +519,7 @@ Section 2.
 
 *Extent: E+W*
 
-**41.**[^key-05c19ccaedd9f829c8c7e046b42adc86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-05c19ccaedd9f829c8c7e046b42adc86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Water (Fluoridation) Act 1985 (c. 63)
 
@@ -639,7 +639,7 @@ Section 2.
 
 *Extent: E+W+S*
 
-**56.**[^key-72be65bfc9d023a5caef9cd109db24c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-72be65bfc9d023a5caef9cd109db24c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The New Roads and Street Works Act 1991 (c. 22)
 
@@ -816,7 +816,7 @@ and every duty imposed on a water undertaker by virtue of paragraph (b) above sh
 
 #### Non-domestic supplies
 
-**8.** The repeal by this Act of paragraph 8 of Schedule 26 to the 1989 Act shall not affect the power to make a determination under sub-paragraph (2) of that paragraph on any reference which remains outstanding at commencement; and any such determination shall have effect, after it is made, as a determination of the Water Services Regulation Authority[^key-4490ee64efc97962f15b250997cebdcd] for the purposes of section 55 of the [^c932575]Water Industry Act 1991.
+**8.** The repeal by this Act of paragraph 8 of Schedule 26 to the 1989 Act shall not affect the power to make a determination under sub-paragraph (2) of that paragraph on any reference which remains outstanding at commencement; and any such determination shall have effect, after it is made, as a determination of the Water Services Regulation Authority[^c-4490ee64efc97962f15b250997cebdcd] for the purposes of section 55 of the [^c932575]Water Industry Act 1991.
 
 #### Sewer requisitions
 
@@ -826,7 +826,7 @@ and every duty imposed on a water undertaker by virtue of paragraph (b) above sh
 
 #### Appeals with respect to sewerage matters etc. begun before 1st September 1989
 
-**10.** The repeals made by this Act shall not affect anything saved by virtue of sub-paragraph (2) of paragraph 13 of Schedule 26 to the 1989 Act (saving for certain appeals and references); but any determination made after commencement by virtue of that sub-paragraph under an enactment repealed by this Act shall have effect as if made by the Water Services Regulation Authority[^key-51581932652d426bb825b0f8144c4b92] under the corresponding provision of the Water Industry Act 1991.
+**10.** The repeals made by this Act shall not affect anything saved by virtue of sub-paragraph (2) of paragraph 13 of Schedule 26 to the 1989 Act (saving for certain appeals and references); but any determination made after commencement by virtue of that sub-paragraph under an enactment repealed by this Act shall have effect as if made by the Water Services Regulation Authority[^c-51581932652d426bb825b0f8144c4b92] under the corresponding provision of the Water Industry Act 1991.
 
 #### Savings in respect of charging provisions
 
@@ -1065,7 +1065,7 @@ Section 3.
 | 1980 c. 65. | The Local Government, Planning and Land Act 1980. | Section 181. |
 | 1980 c. 66. | The Highways Act 1980. | In Schedule 24, paragraph 4. |
 | 1981 c. 12. | The Water Act 1981. | Section 6. |
-| 1981 c. 54. | The Senior Courts Act 1981[^key-6a253e8830aafb411ccddffa37438423] . | In Schedule 5, the entry relating to the Public Health Act 1961. |
+| 1981 c. 54. | The Senior Courts Act 1981[^c-6a253e8830aafb411ccddffa37438423] . | In Schedule 5, the entry relating to the Public Health Act 1961. |
 | 1981 c. 67. | The Acquisition of Land Act 1981. | In Schedule 4, in paragraph 1, the entry relating to the Land Drainage Act 1976. |
 | 1982 c. 32. | The Local Government Finance Act 1982. | In Schedule 5, paragraph 7. |
 | 1983 c. 23. | The Water Act 1983. | In Schedule 4, paragraphs 5 and 6. |
@@ -1237,7 +1237,7 @@ Section 3.
 
 [^c932533]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/9) repealed (25.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 50](https://www.legislation.gov.uk/ukpga/1993/12/section/50), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 6 Pt.I](https://www.legislation.gov.uk/ukpga/1993/12/schedule/6/part/I) (with ss. 42 and 46).
 
-[^key-d158edebe3e5ceab0f1e460c28a04aba]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/10) repealed (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/2), [9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(l)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/m)[(vii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/vii)
+[^c-d158edebe3e5ceab0f1e460c28a04aba]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/10) repealed (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/2), [9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(l)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/m)[(vii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/vii)
 
 [^c932534]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
@@ -1245,7 +1245,7 @@ Section 3.
 
 [^c932536]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-3b491c4e9eceaa11684fc4593a49079f]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/16) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
+[^c-3b491c4e9eceaa11684fc4593a49079f]: Textual amendment: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/16) repealed (1.4.2010 for W., 1.4.2011 for E.) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/4); [S.I. 2010/630](https://www.legislation.gov.uk/uksi/2010/630), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/630/article/3/b) (with [arts. 8](https://www.legislation.gov.uk/uksi/2010/630/article/8) [12](https://www.legislation.gov.uk/uksi/2010/630/article/12)); [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(o)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/o) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2011/556/article/2/3))
 
 [^c932537]: Textual amendment: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/17) repealed (E.W.S.) (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxi)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxi)
 
@@ -1253,39 +1253,39 @@ Section 3.
 
 [^c932539]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-d0220eafbaa85f166ece271058bc5502]: Textual amendment: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/24) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-d0220eafbaa85f166ece271058bc5502]: Textual amendment: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/24) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c932541]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/25) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxi)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxi)
 
-[^key-9446f30af8cb87f0c125bb2a015672ae]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/26) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-9446f30af8cb87f0c125bb2a015672ae]: Textual amendment: [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/26) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c932542]: Textual amendment: [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/27/2) repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3(xxi)](https://www.legislation.gov.uk/uksi/1996/186/article/3/xxi)
 
-[^key-2e9a031961e07caa5057ba2f3f01f730]: Textual amendment: [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/28/a) repealed (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/2), [9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(l)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/m)[(vii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/vii)
+[^c-2e9a031961e07caa5057ba2f3f01f730]: Textual amendment: [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/28/a) repealed (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/2), [9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(l)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/m)[(vii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/vii)
 
-[^key-1088abb3ab6ba9349cb225d6257425f0]: Textual amendment: [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/29/a) repealed (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/2), [9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(l)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/m)[(vii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/vii)
+[^c-1088abb3ab6ba9349cb225d6257425f0]: Textual amendment: [Sch. 1 para. 29(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/29/a) repealed (1.10.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(2)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/2), [9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 2(l)(m)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/m)[(vii)](https://www.legislation.gov.uk/uksi/2005/2714/article/2/l/vii)
 
 [^c932544]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-ef1d6a56615f576405cf88b664237ff4]: Textual amendment: Words in Sch. 1 para. 30(1)(a) substituted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 9(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/9/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-ef1d6a56615f576405cf88b664237ff4]: Textual amendment: Words in Sch. 1 para. 30(1)(a) substituted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 9(a)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/9/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
-[^key-e6af4cf03f0d59d3582cb8f1e06259cc]: Textual amendment: Words in [Sch. 1 para. 30(1)(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/30/1/a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-e6af4cf03f0d59d3582cb8f1e06259cc]: Textual amendment: Words in [Sch. 1 para. 30(1)(a)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/30/1/a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c932545]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-3e046b54f9d0be31118f2969deda3db8]: Textual amendment: Words in Sch. 1 para. 30(1)(b) inserted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 9(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/9/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
+[^c-3e046b54f9d0be31118f2969deda3db8]: Textual amendment: Words in Sch. 1 para. 30(1)(b) inserted (6.4.2010) by [The Environmental Permitting (England and Wales) Regulations 2010 (S.I. 2010/675)](https://www.legislation.gov.uk/uksi/2010/675), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/1/b), [Sch. 26 para. 9(b)](https://www.legislation.gov.uk/uksi/2010/675/schedule/26/paragraph/9/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2010/675/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/675/schedule/4))
 
-[^key-3961ca48cd9858e81ac7c6f2c2edcb25]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/34) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-3961ca48cd9858e81ac7c6f2c2edcb25]: Textual amendment: [Sch. 1 para. 34](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/34) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
 [^c932546]: Marginal citation: [1963 c. 38](https://www.legislation.gov.uk/ukpga/1963/38).
 
-[^key-a3711c3c6f993a00db77cb3f54e23555]: Textual amendment: Words in [Sch. 1 para. 40(1)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/40/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 182](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/182) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
+[^c-a3711c3c6f993a00db77cb3f54e23555]: Textual amendment: Words in [Sch. 1 para. 40(1)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/40/1) substituted (6.4.2008) by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [Sch. 1 para. 182](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/182) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
-[^key-05c19ccaedd9f829c8c7e046b42adc86]: Textual amendment: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/41) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-05c19ccaedd9f829c8c7e046b42adc86]: Textual amendment: [Sch. 1 para. 41](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/41) repealed (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/1941/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c932547]: Textual amendment: [Sch. 1 para. 53](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/53) repealed (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [s. 580](https://www.legislation.gov.uk/ukpga/2001/2/section/580), [Sch. 4](https://www.legislation.gov.uk/ukpga/2001/2/schedule/4)
 
-[^key-72be65bfc9d023a5caef9cd109db24c4]: Textual amendment: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/56) repealed (1.4.2015 for S.) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/c)
+[^c-72be65bfc9d023a5caef9cd109db24c4]: Textual amendment: [Sch. 1 para. 56](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/56) repealed (1.4.2015 for S.) by [Pollution Prevention and Control Act 1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3); [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2/c)
 
 [^c932553]: Modification: [Sch. 2](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2): power to modify conferred (1.12.1991) by [Water Industry Act 1991 (c. 56, SIF 130)](https://www.legislation.gov.uk/ukpga/1991/56), [ss. 74(6)](https://www.legislation.gov.uk/ukpga/1991/56/section/74/6), [223(2)](https://www.legislation.gov.uk/ukpga/1991/56/section/223/2) (with [s. 219(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/219/3))
 
@@ -1331,11 +1331,11 @@ Section 3.
 
 [^c932574]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-4490ee64efc97962f15b250997cebdcd]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/8) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/3/a); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/f)
+[^c-4490ee64efc97962f15b250997cebdcd]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/8) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/3/a); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/f)
 
 [^c932575]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-51581932652d426bb825b0f8144c4b92]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/10) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/3/b); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/f)
+[^c-51581932652d426bb825b0f8144c4b92]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/1991/60/schedule/2/paragraph/10) substituted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/29/3/b); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/f)
 
 [^c932576]: Marginal citation: [1988 c. 15](https://www.legislation.gov.uk/ukpga/1988/15).
 
@@ -1365,4 +1365,4 @@ Section 3.
 
 [^c932589]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-6a253e8830aafb411ccddffa37438423]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-6a253e8830aafb411ccddffa37438423]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

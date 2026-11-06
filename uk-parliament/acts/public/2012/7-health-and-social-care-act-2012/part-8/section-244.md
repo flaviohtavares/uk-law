@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Arrangements with other bodies[^key-139e1109dc94d72a6e704a3228504374]
+## 244. Arrangements with other bodies[^c-139e1109dc94d72a6e704a3228504374]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-139e1109dc94d72a6e704a3228504374]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2012/7/section/244) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-139e1109dc94d72a6e704a3228504374]: Commencement: [S. 244](https://www.legislation.gov.uk/ukpga/2012/7/section/244) in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

@@ -24,7 +24,7 @@ Section 69
 
 ### Interpretation
 
-**1.**[^key-e1901d19928c7dcc9852764b0cc19ad0] In this Schedule—
+**1.**[^c-e1901d19928c7dcc9852764b0cc19ad0] In this Schedule—
 
 - “**the appointed day**” means the day appointed under section 83 for the coming into force of section 57(4),
 - “**employee**” means a person who immediately before the appointed day is an employee of the NHSAC, and
@@ -32,7 +32,7 @@ Section 69
 
 ### Transfer of staff
 
-**2.**[^key-40f62dd85dfeb221e2064f7ab3c564f0] (1) An employee's contract of employment has effect on and after the appointed day as if originally made between him and the Commission.
+**2.**[^c-40f62dd85dfeb221e2064f7ab3c564f0] (1) An employee's contract of employment has effect on and after the appointed day as if originally made between him and the Commission.
 
 (2) Accordingly—
 
@@ -52,7 +52,7 @@ Section 69
 
 ### Transfer of property, rights and liabilities
 
-**3.**[^key-bff45af99063f6cffad5f40f6196e9ec] (1) By virtue of this paragraph the property, rights and liabilities (including criminal liabilities) of the NHSAC existing immediately before the appointed day are transferred to the Commission on the appointed day.
+**3.**[^c-bff45af99063f6cffad5f40f6196e9ec] (1) By virtue of this paragraph the property, rights and liabilities (including criminal liabilities) of the NHSAC existing immediately before the appointed day are transferred to the Commission on the appointed day.
 
 (2) Anything done by or in relation to the NHSAC which is in effect immediately before the appointed day is to be treated on and after the appointed day as done by or in relation to the Commission.
 
@@ -69,14 +69,14 @@ may be continued on and after the appointed day by or in relation to the Commiss
 
 ### General
 
-**4.**[^key-2888ef8df1ef15614f648acab0a4bf4b] Nothing in this Schedule affects the validity of anything done by the NHSAC.
+**4.**[^c-2888ef8df1ef15614f648acab0a4bf4b] Nothing in this Schedule affects the validity of anything done by the NHSAC.
 
 ## Annotations
 
-[^key-e1901d19928c7dcc9852764b0cc19ad0]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/1) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
+[^c-e1901d19928c7dcc9852764b0cc19ad0]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/1) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
 
-[^key-40f62dd85dfeb221e2064f7ab3c564f0]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/2) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
+[^c-40f62dd85dfeb221e2064f7ab3c564f0]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/2) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
 
-[^key-bff45af99063f6cffad5f40f6196e9ec]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/3) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
+[^c-bff45af99063f6cffad5f40f6196e9ec]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/3) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
 
-[^key-2888ef8df1ef15614f648acab0a4bf4b]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/4) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)
+[^c-2888ef8df1ef15614f648acab0a4bf4b]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2006/28/schedule/7/paragraph/4) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 4(5)(b)](https://www.legislation.gov.uk/uksi/2006/2603/article/4/5/b)

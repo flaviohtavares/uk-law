@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Current system students[^key-f0b1797fb3e2544dcf75c9e28887b735]
+## 35. Current system students[^c-f0b1797fb3e2544dcf75c9e28887b735]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ The following grants are available to a current system student in connection wit
 
 ## Annotations
 
-[^key-f0b1797fb3e2544dcf75c9e28887b735]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-f0b1797fb3e2544dcf75c9e28887b735]: Commencement: Reg. 35 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

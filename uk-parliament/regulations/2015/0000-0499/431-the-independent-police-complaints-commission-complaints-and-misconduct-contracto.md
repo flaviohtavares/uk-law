@@ -52,11 +52,11 @@ In accordance with section 63(3)(b) of the Police Act 1996[^f00002], the Secreta
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-6a4d90365e961a5645692f7f05991adf]
+### 1. Citation, commencement and extent[^c-6a4d90365e961a5645692f7f05991adf]
 
 These Regulations may be cited as the Independent Police Complaints Commission (Complaints and Misconduct) (Contractors) Regulations 2015 and come into force on 8th April 2015.
 
-### 2. Interpretation[^key-c41f2aa851ea8970de4da163aea2033e]
+### 2. Interpretation[^c-c41f2aa851ea8970de4da163aea2033e]
 
 In these Regulations—
 
@@ -86,7 +86,7 @@ In these Regulations—
     - (ii) who in the opinion of the chief officer has sufficient seniority, skills and experience to carry out this function;
 - “contractor standards” means the behaviours and standards in accordance with which a contractor is required to comply under the contractor’s conduct and performance policies;
 - “death or serious injury matter” or “DSI matter” has the same meaning as in regulation 8;
-- “Director General” means the Director General of the Independent Office for Police Conduct;[^key-0fd72adffe133ea9cdbb16a099e1758b]
+- “Director General” means the Director General of the Independent Office for Police Conduct;[^c-0fd72adffe133ea9cdbb16a099e1758b]
 - “disciplinary proceedings” in relation to the contractor means any proceedings or management process in accordance with which the conduct of a person is considered in order to determine whether it is misconduct or gross misconduct and if so whether, as a result, any action is to be taken in relation to it;
 - “HMIC” means Her Majesty’s Inspectors of Constabulary;
 - “investigator” means a person appointed or designated to investigate under regulations 42 to 45;
@@ -108,7 +108,7 @@ In these Regulations—
 - “unsatisfactory performance proceedings” means any proceedings or management process in accordance with which the performance of the contractor is considered in order to determine whether it is unsatisfactory or whether, as a result, any action is to be taken in relation to it;
 - “working day” means any day other than a Saturday or Sunday or a day which is a bank holiday or public holiday in England and Wales.
 
-### 3. Saving and transitional provisions[^key-2c3c5b494131f43b8e2ca3e3b5d2cd39]
+### 3. Saving and transitional provisions[^c-2c3c5b494131f43b8e2ca3e3b5d2cd39]
 
 (1) Subject to paragraphs (2) and (3), regulation 35 of the 2012 Regulations is omitted.
 
@@ -121,7 +121,7 @@ In these Regulations—
 
 (3) In this regulation, “preceding appropriate authority” is the appropriate authority for the purposes of a matter in relation to which regulation 35 of the 2012 Regulations has effect.
 
-### 4. Application: general[^key-ad00a059fb045a2acc4fcd14fa302a4e]
+### 4. Application: general[^c-ad00a059fb045a2acc4fcd14fa302a4e]
 
 (1) For the purposes of Part 2 of the 2002 Act and the Regulations listed in paragraph (2) a contractor is to be treated as a person serving with the police.
 
@@ -132,21 +132,21 @@ In these Regulations—
 
 (3) But in the application of Part 2 of the 2002 Act and the Regulations listed in paragraph (2) to contractors, Part 2 and those Regulations are to be modified, and therefore the provisions in Part 2 and the regulations listed in paragraph (2) specified in the first column of the table in the Schedule are to be read as having effect as set out in the provisions of these Regulations specified in the second column of the table in the Schedule opposite the respective entries.
 
-### 5. Delegation of functions to the contractor manager[^key-bb6eb89bdb2424803c9a9a7e74cae613]
+### 5. Delegation of functions to the contractor manager[^c-bb6eb89bdb2424803c9a9a7e74cae613]
 
 In relation to a contractor, the chief officer may arrange for the contractor manager to carry out the functions of the appropriate authority.
 
 ## PART 2 — Complaints and Misconduct
 
-### 6. General functions of the Director General under these Regulations[^key-42457386a08ba60f92bc70224095ebf9][^key-b3450d08578a63aaa2beddf2a3a51028]
+### 6. General functions of the Director General under these Regulations[^c-42457386a08ba60f92bc70224095ebf9][^c-b3450d08578a63aaa2beddf2a3a51028]
 
 (1) The functions of the Director General shall be—
 
-- (a) to secure the maintenance by the Director General [^key-ad5329dca37b878f0d33085b4039b0e0]..., and by local policing bodies, chief officers and contractors, of suitable arrangements with respect to the matters mentioned in paragraph (2);
+- (a) to secure the maintenance by the Director General [^c-ad5329dca37b878f0d33085b4039b0e0]..., and by local policing bodies, chief officers and contractors, of suitable arrangements with respect to the matters mentioned in paragraph (2);
 - (b) to keep under review all arrangements maintained with respect to those matters;
 - (c) to secure that arrangements maintained with respect to those matters comply with the requirements of the provisions of these Regulations, are efficient and effective and contain and manifest an appropriate degree of independence;
 - (d) to secure that public confidence is established and maintained in the existence of suitable arrangements with respect to those matters and with the operation of the arrangements that are in fact maintained with respect to those matters; and
-- (e) to make such recommendations, and to give such advice, for the modification of the arrangements maintained with respect to those matters, and also of the practice of the police or contractors or in relation to other matters, as appear, from the carrying out by the Director General of the Director General’s[^key-cdd3092bb6a69eb962c52d6d1d949cc6] other functions, to be necessary or desirable.
+- (e) to make such recommendations, and to give such advice, for the modification of the arrangements maintained with respect to those matters, and also of the practice of the police or contractors or in relation to other matters, as appear, from the carrying out by the Director General of the Director General’s[^c-cdd3092bb6a69eb962c52d6d1d949cc6] other functions, to be necessary or desirable.
 
 (2) Those matters are—
 
@@ -157,7 +157,7 @@ In relation to a contractor, the chief officer may arrange for the contractor ma
 
 (3) It shall be the duty of the Director General—
 
-- (a) to exercise the powers and perform the duties conferred on the Director General[^key-aa9d457bdabfb496869b62a254f77c02] by the following provisions of these Regulations in the manner that the Director General considers best calculated for the purpose of securing the proper carrying out of the Director General’s functions under paragraph (1); and
+- (a) to exercise the powers and perform the duties conferred on the Director General[^c-aa9d457bdabfb496869b62a254f77c02] by the following provisions of these Regulations in the manner that the Director General considers best calculated for the purpose of securing the proper carrying out of the Director General’s functions under paragraph (1); and
 - (b) to secure that arrangements exist which are conducive to, and facilitate, the reporting of misconduct by persons in relation to whose conduct the Director General has functions.
 
 (4) It shall also be the duty of the Director General—
@@ -165,13 +165,13 @@ In relation to a contractor, the chief officer may arrange for the contractor ma
 - (a) to enter into arrangements with the chief inspector of constabulary for the purpose of securing co-operation, in the carrying out of their respective functions, between the Director General and the inspectors of the constabulary; and
 - (b) to provide those inspectors with all such assistance and co-operation as may be required by those arrangements, or as otherwise appears to the Director General to be appropriate, for facilitating the carrying out by those inspectors of their functions.
 
-(4A)[^key-ed513d2254698ee0465ccc411efc67f9] In carrying out functions under these Regulations the Director General shall have regard to any advice provided to the Director General by the Office (see regulation 6A(1)(a)).
+(4A)[^c-ed513d2254698ee0465ccc411efc67f9] In carrying out functions under these Regulations the Director General shall have regard to any advice provided to the Director General by the Office (see regulation 6A(1)(a)).
 
 (5) Subject to the other provisions of these Regulations, the Director General may do anything which appears to the Director General to be calculated to facilitate, or is incidental or conducive to, the carrying out of the Director General’s functions under these Regulations.
 
-(6) The IOPC[^key-11f58c2b55c29fa4577b3f9a5d92ea35] may, in connection with the making of any recommendation or the giving of any advice to any person for the purpose of carrying out its functions under paragraph (1)(e) impose any such charge on that person for anything done by the Director General for the purposes of, or in connection with, the carrying out of that function as it thinks fit.
+(6) The IOPC[^c-11f58c2b55c29fa4577b3f9a5d92ea35] may, in connection with the making of any recommendation or the giving of any advice to any person for the purpose of carrying out its functions under paragraph (1)(e) impose any such charge on that person for anything done by the Director General for the purposes of, or in connection with, the carrying out of that function as it thinks fit.
 
-### 6A. General Functions of the IOPC under these Regulations[^key-4512327e411aeb5985da9b8300794f60]
+### 6A. General Functions of the IOPC under these Regulations[^c-4512327e411aeb5985da9b8300794f60]
 
 (1) The functions of the IOPC are—
 
@@ -188,15 +188,15 @@ In relation to a contractor, the chief officer may arrange for the contractor ma
 
 The Director General and the IOPC must carry out their functions under these Regulations efficiently and effectively.
 
-### 7. Reports to the Secretary of State[^key-8b4ec48073d856c534fead67a39d0f3c]
+### 7. Reports to the Secretary of State[^c-8b4ec48073d856c534fead67a39d0f3c]
 
-(1)[^key-fd81295e2295fc4d2549be8d24a54fe8] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC shall also jointly make a report to the Secretary of State on the carrying out of their functions during that year.
+(1)[^c-fd81295e2295fc4d2549be8d24a54fe8] As soon as practicable after the end of each of the IOPC’s financial years, the Director General and the IOPC shall also jointly make a report to the Secretary of State on the carrying out of their functions during that year.
 
 (2) The Secretary of State may also require reports to be made (at any time) by the Director General about the carrying out of the Director General’s functions.
 
 (3) The Director General may, from time to time, make such other reports to the Secretary of State as the Director General considers appropriate for drawing the Secretary of State’s attention to matters which—
 
-- (a) have come to the Director General’s[^key-c7a76f39c0ea1b7041c357ecbfef0bc0] notice; and
+- (a) have come to the Director General’s[^c-c7a76f39c0ea1b7041c357ecbfef0bc0] notice; and
 - (b) are matters that the Director General considers should be drawn to the Secretary of State’s attention by reason of their gravity or of other exceptional circumstances.
 
 (4) The Director General shall prepare such reports containing advice and recommendations as the Director General thinks appropriate for the purpose of carrying out the Director General’s function under regulation 6(1)(e) (general functions of the Director General).
@@ -208,7 +208,7 @@ The Director General and the IOPC must carry out their functions under these Reg
 
 lay a copy of the report before Parliament and cause the report to be published.
 
-(6) The IOPC[^key-63eb5ded72f68bf321113db36daa45d8] shall send a copy of every annual report under paragraph (1) to every local policing body.
+(6) The IOPC[^c-63eb5ded72f68bf321113db36daa45d8] shall send a copy of every annual report under paragraph (1) to every local policing body.
 
 (7) The Director General shall send a copy of every report under paragraph (3)—
 
@@ -228,7 +228,7 @@ lay a copy of the report before Parliament and cause the report to be published.
 
 as the Director General thinks fit.
 
-### 8. Complaints, matters and persons to which these Regulations apply[^key-4b79f16e59c9650fc222934e1dfebd67]
+### 8. Complaints, matters and persons to which these Regulations apply[^c-4b79f16e59c9650fc222934e1dfebd67]
 
 (1) In these Regulations references to a complaint are references (subject to the following provisions of this regulation) to any complaint about the conduct of a contractor which is made (whether in writing or otherwise) by—
 
@@ -296,7 +296,7 @@ was on duty in his capacity as a contractor.
 - (a) the person so acting is for the time being designated for the purposes of this regulation by the Director General as a person through whom complaints may be made, or is of a description of persons so designated; or
 - (b) the person so acting has been given, and is able to produce, the written consent of the person on whose behalf the person is taking action.
 
-### 9. General duties of local policing bodies, chief officers, contractors and inspectors[^key-2d756e344f8b3c62d65cefc9c99b6533]
+### 9. General duties of local policing bodies, chief officers, contractors and inspectors[^c-2d756e344f8b3c62d65cefc9c99b6533]
 
 (1) It shall be the duty of—
 
@@ -336,7 +336,7 @@ it shall be the duty of the chief officer to whom the requirement is addressed t
 - (b) the chief officer of every police force; and
 - (c) the contractor
 
-to provide the Director General and every member of the IOPC’s[^key-5d1a6bcc03dc0e73fbedbd9abba08463] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under this Part.
+to provide the Director General and every member of the IOPC’s[^c-5d1a6bcc03dc0e73fbedbd9abba08463] staff with all such assistance as the Director General or that member of staff may reasonably require for the purposes of, or in connection with, the carrying out of any investigation by the Director General under this Part.
 
 (8) It shall be the duty of—
 
@@ -357,7 +357,7 @@ but a chief officer of a third force may be required to give assistance and co-o
 
 (11) These Regulations shall only have effect with respect to so much of any complaint as relates to the direction and control of a contractor to the extent that it relates to the direction and control of the contractor by a chief officer of police.
 
-### 10. Payment for assistance with investigations[^key-40d1a026b786b48fe7d6b3dc5a504733]
+### 10. Payment for assistance with investigations[^c-40d1a026b786b48fe7d6b3dc5a504733]
 
 (1) This regulation applies where—
 
@@ -377,7 +377,7 @@ but a chief officer of a third force may be required to give assistance and co-o
   - (ii) are for the time being in force with respect to the making of contributions towards the costs of assistance provided, in connection with investigations under these Regulations; or
 - (c) in the absence of any such arrangements, as may be determined by the Secretary of State.
 
-(4) Where the assistance is required to be provided by a police force to the Director General, the IOPC[^key-f4053762de0ecde2ba7a0fe31964af16] shall pay to the local policing body maintaining that force such contribution (if any) towards the costs of the assistance—
+(4) Where the assistance is required to be provided by a police force to the Director General, the IOPC[^c-f4053762de0ecde2ba7a0fe31964af16] shall pay to the local policing body maintaining that force such contribution (if any) towards the costs of the assistance—
 
 - (a) as may be agreed between the Director General and that body; or
 - (b) in the absence of an agreement, as may be determined in accordance with any arrangements which—
@@ -385,7 +385,7 @@ but a chief officer of a third force may be required to give assistance and co-o
   - (ii) are for the time being in force with respect to the making of contributions towards the costs of assistance provided, in connection with investigations under these Regulations, to the Director General; or
 - (c) in the absence of any such arrangements, as may be determined by the Secretary of State.
 
-### 11. Provision of information to the Director General[^key-b4eab75c80921199ef605eb79a2a1157]
+### 11. Provision of information to the Director General[^c-b4eab75c80921199ef605eb79a2a1157]
 
 (1) It shall be the duty of every local policing body, chief officer and contractor—
 
@@ -406,7 +406,7 @@ as appear to the Director General to be required by the Director General for the
 
 (4) A requirement imposed by any notification under this regulation may authorise or require information or documents to which it relates to be provided to the Director General electronically.
 
-### 12. Inspection of premises on behalf of the Director General[^key-d479feae39088bb161358398cb4bdeda]
+### 12. Inspection of premises on behalf of the Director General[^c-d479feae39088bb161358398cb4bdeda]
 
 (1) Where—
 
@@ -437,13 +437,13 @@ the obligation to secure that the required access is allowed shall have effect a
 (5) The provisions of this regulation are in addition to, and without prejudice to—
 
 - (a) the rights of entry, search and seizure that are or may be conferred on—
-  - (i) a person designated for the purposes of regulation 45 (investigations by the Director General [^key-63fb4b24c943358ed46f51252568aa87]...); or
+  - (i) a person designated for the purposes of regulation 45 (investigations by the Director General [^c-63fb4b24c943358ed46f51252568aa87]...); or
   - (ii) any person who otherwise acts on behalf of the Director General,
 
   in that person’s capacity as a constable or as a person with the powers and privileges of a constable; or
 - (b) the obligations of the local policing body, the chief officer or the contractor under regulations 9 and 11.
 
-### 13. Duty to keep the complainant informed[^key-87948ba97453095a45b7f6e72dd9ab39]
+### 13. Duty to keep the complainant informed[^c-87948ba97453095a45b7f6e72dd9ab39]
 
 (1) Subject to regulation 16 (exceptions to the duty to keep the complainant informed and to provide information for other persons), in any case in which there is an investigation of a complaint in accordance with the provisions of these Regulations—
 
@@ -472,9 +472,9 @@ it shall be the duty of the appropriate authority to provide the complainant wit
 - (d) the action (if any) that is taken in respect of any of the matters dealt with in any such report; and
 - (e) the outcome of any action.
 
-(5) It shall be the duty of a person appointed to carry out an investigation under these Regulations to provide the Director General or, as the case may be, the appropriate authority with all such information as the Director General or that authority may reasonably require for the purpose of performing their[^key-db084c7c3bba538878ef577a032cae53] duty under this regulation.
+(5) It shall be the duty of a person appointed to carry out an investigation under these Regulations to provide the Director General or, as the case may be, the appropriate authority with all such information as the Director General or that authority may reasonably require for the purpose of performing their[^c-db084c7c3bba538878ef577a032cae53] duty under this regulation.
 
-### 14. Duty to provide information for other persons[^key-dd34605edc4ce519cd9e533a0d4c4aa6]
+### 14. Duty to provide information for other persons[^c-dd34605edc4ce519cd9e533a0d4c4aa6]
 
 (1) A person has an interest in being kept properly informed about the handling of a complaint, recordable conduct matter or DSI matter which is the subject of an investigation in accordance with the provisions of these Regulations if—
 
@@ -534,7 +534,7 @@ it shall be the duty of the appropriate authority to provide the interested pers
 
 (12) In this regulation “relative” means any spouse, partner, parent or adult child.
 
-### 15. Manner in which duties to provide information are to be performed[^key-9fcb673d6e6719cd52e0d7e9dc3456e2]
+### 15. Manner in which duties to provide information are to be performed[^c-9fcb673d6e6719cd52e0d7e9dc3456e2]
 
 (1) For the purposes of regulations 13 and 14 (duties to keep complainant and other persons informed), the manner in which the Director General or, as the case may be, an appropriate authority shall perform the duties imposed by those regulations is as follows.
 
@@ -567,7 +567,7 @@ it shall be the duty of the appropriate authority to provide the interested pers
 
 (9) Any notification under this regulation shall be given in writing, except in a case where the notification is given at a meeting held in consequence of a determination under paragraph (5) or it is given by means other than writing in accordance with paragraph (8).
 
-### 16. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^key-fa723a8c51d662f4c8fd47adcbe398a9]
+### 16. Exceptions to the duty to keep the complainant informed and to provide information for other persons[^c-fa723a8c51d662f4c8fd47adcbe398a9]
 
 (1) Subject to paragraph (2), the duties mentioned in regulation 13(1) and (2) (duty to keep the complainant informed), regulation 14(7) and (8) (duty to provide information for other persons), regulation 73(11) and regulation 74(12) (action by the Director General or appropriate authority in response to an investigation report) shall not apply in circumstances where in the opinion of the Director General, or, as the case may be, of the appropriate authority, the non-disclosure of information is necessary for the purpose of—
 
@@ -580,7 +580,7 @@ it shall be the duty of the appropriate authority to provide the interested pers
 
 (2) The non-disclosure of information is required on proportionality grounds if its disclosure would cause, directly or indirectly, an adverse effect which would be disproportionate to the benefits arising from its disclosure.
 
-(3) The Director General or, as the case may be, the appropriate authority shall not conclude that the non-disclosure of information is necessary under paragraph (1) unless the Director General or, as the case may be, the appropriate authority[^key-ece51b0c0e7f13ad88002505e3d8e5f6] is satisfied that—
+(3) The Director General or, as the case may be, the appropriate authority shall not conclude that the non-disclosure of information is necessary under paragraph (1) unless the Director General or, as the case may be, the appropriate authority[^c-ece51b0c0e7f13ad88002505e3d8e5f6] is satisfied that—
 
 - (a) there is a real risk of the disclosure of that information causing an adverse effect; and
 - (b) that adverse effect would be significant.
@@ -594,7 +594,7 @@ it shall be the duty of the appropriate authority to provide the interested pers
 
 ## PART 3 — Handling of complaints
 
-### 17. Duties to preserve evidence relating to complaints[^key-dbf4aa5b0c3918b99080bd11a2ffc37e]
+### 17. Duties to preserve evidence relating to complaints[^c-dbf4aa5b0c3918b99080bd11a2ffc37e]
 
 (1) Where—
 
@@ -611,7 +611,7 @@ the chief officer shall take all such steps as appear to be appropriate for the 
 
 (5) It shall be the duty of the contractor to take all such specific steps for obtaining or preserving evidence relating to any conduct that is the subject-matter of a complaint as the contractor may be directed to take for the purposes of this regulation by the chief officer or by the Director General.
 
-### 18. Initial handling and recording of complaints[^key-195ef3e1e013f2bf669feda0aa507bea]
+### 18. Initial handling and recording of complaints[^c-195ef3e1e013f2bf669feda0aa507bea]
 
 (1) Where a complaint is made to the Director General, the Director General shall give notification of the complaint to the chief officer.
 
@@ -637,7 +637,7 @@ the chief officer shall record the complaint.
 
 (8) Nothing in this regulation shall require the recording by any person of any complaint about any conduct if that person considers that the complaint falls within a description of complaints specified in regulation 20 **(**recording of complaints).
 
-### 19. Copies of complaints etc[^key-9e680a05f1636a62a5e06e9b3bdb42fd]
+### 19. Copies of complaints etc[^c-9e680a05f1636a62a5e06e9b3bdb42fd]
 
 (1) Where a complaint is recorded under regulation 18(6), the appropriate authority shall—
 
@@ -653,7 +653,7 @@ the chief officer shall record the complaint.
 
 (4) Where an appropriate authority decides not to supply such a copy, it shall keep that decision under regular review.
 
-### 20. Recording of complaints[^key-bbe64cf97bb9465708f3475f1a5ce6da]
+### 20. Recording of complaints[^c-bbe64cf97bb9465708f3475f1a5ce6da]
 
 (1) For the purposes of regulation 18(8) (descriptions of complaint not required to be recorded) the complaints set out in paragraph (2) are specified.
 
@@ -680,7 +680,7 @@ the chief officer shall record the complaint.
 
 (4) For the purposes of paragraph (2)(e) a complaint is fanciful if, and only if, no reasonable person could lend any credence to it.
 
-### 21. Failures to notify or record a complaint[^key-6c82cee318f0f8ad5da320fb49bc70f4]
+### 21. Failures to notify or record a complaint[^c-6c82cee318f0f8ad5da320fb49bc70f4]
 
 (1) This regulation applies where anything which is or purports to be a complaint in relation to which regulation 18 has effect is received by the chief officer, local policing body or the contractor (whether in consequence of having been made directly or of a notification under that regulation).
 
@@ -708,7 +708,7 @@ and it shall be the duty of the chief officer, local policing body or contractor
 - (a) shall give notification to the chief officer, local policing body or contractor and the complainant of any determination made by the Director General under this regulation; and
 - (b) shall give notification to the complainant of any direction given by the Director General under this regulation to the chief officer, local policing body or contractor.
 
-### 22. Reference of complaints to the Director General[^key-e779d8bb2c714edb3a459547ff3ad47a]
+### 22. Reference of complaints to the Director General[^c-e779d8bb2c714edb3a459547ff3ad47a]
 
 (1) It shall be the duty of the appropriate authority to refer a complaint to the Director General if—
 
@@ -717,7 +717,7 @@ and it shall be the duty of the chief officer, local policing body or contractor
   - (i) a serious assault, as defined in guidance issued by the Director General;
   - (ii) a serious sexual offence, as defined in guidance issued by the Director General;
   - (iii) serious corruption, as defined in guidance issued by the Director General;
-  - (iv) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-df9af029fce9bb277675707651f28855];
+  - (iv) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-df9af029fce9bb277675707651f28855];
   - (v) a relevant offence;
 - (c) the complaint arises from the same incident as one in which any conduct falling within sub-paragraph (a) or (b) is alleged; or
 - (d) the complaint is one in respect of which the Director General notifies the appropriate authority that the Director General requires the complaint in question to be referred to the Director General for the Director General’s consideration.
@@ -754,7 +754,7 @@ shall be exercisable at any time irrespective of whether the complaint is alread
 - (a) shall not be required to be referred again under this regulation unless the Director General so directs; and
 - (b) shall not be referred in exercise of any power conferred by this regulation unless the Director General consents.
 
-### 23. Duties of the Director General on references under regulation 22[^key-627dadbc4c4c5b19457967dcabceb789]
+### 23. Duties of the Director General on references under regulation 22[^c-627dadbc4c4c5b19457967dcabceb789]
 
 (1) It shall be the duty of the Director General in the case of every complaint referred to the Director General by the appropriate authority, to determine whether or not it is necessary for the complaint to be investigated.
 
@@ -765,7 +765,7 @@ shall be exercisable at any time irrespective of whether the complaint is alread
 - (a) to the complainant; and
 - (b) except in a case where it appears to the Director General that to do so might prejudice a possible future investigation of the complaint, to the person complained against.
 
-### 24. Handling of complaints by the appropriate authority[^key-4b48e51516d92fd6a57736a430f1624f]
+### 24. Handling of complaints by the appropriate authority[^c-4b48e51516d92fd6a57736a430f1624f]
 
 (1) This regulation applies where a complaint has been recorded by the chief officer.
 
@@ -791,7 +791,7 @@ shall be exercisable at any time irrespective of whether the complaint is alread
 
 (9) Paragraph (7) (where applicable) is in addition to paragraphs (6).
 
-### 25. Disapplication of requirements of these Regulations[^key-f7f2924f17ed466eb7c581c40f7bad13]
+### 25. Disapplication of requirements of these Regulations[^c-f7f2924f17ed466eb7c581c40f7bad13]
 
 (1) If, in a case in which regulation 24 applies, the appropriate authority considers—
 
@@ -838,7 +838,7 @@ the appropriate authority may handle the complaint in whatever manner (if any) t
 
 (9) In this regulation any reference to action not being reasonably practicable shall include a reference to action which it does not appear reasonably practicable to take within a period which is reasonable in all the circumstances of the case.
 
-### 26.[^key-9b2cac0e48c9188051345e80fb3aa8e8]
+### 26.[^c-9b2cac0e48c9188051345e80fb3aa8e8]
 
 (1) Before deciding to handle a complaint in whatever manner (if any) it thinks fit in accordance with regulation 25(1), the appropriate authority shall—
 
@@ -885,7 +885,7 @@ and it shall be the duty of the appropriate authority to comply with any directi
 - (a) the appeal shall determine whether any decision taken by the appropriate authority under this paragraph should have been taken in the case in question; and
 - (b) if the appeal finds in the complainant’s favour, the appropriate authority must take such action as the appropriate authority thinks appropriate for handling the complaint in accordance with these Regulations or handling it otherwise than in accordance with these Regulations.
 
-### 27. Local resolution of complaints[^key-a9daa3c63274b83d2749d3f0e17f3e7a]
+### 27. Local resolution of complaints[^c-a9daa3c63274b83d2749d3f0e17f3e7a]
 
 (1) The arrangements made by the appropriate authority for subjecting any complaint to local resolution may include the appointment of a person who is—
 
@@ -926,7 +926,7 @@ it shall make arrangements for the complaint to be investigated by that authorit
 
 (12) A person who has participated in any attempt to resolve a complaint using local resolution shall be disqualified for appointment under any provision of these Regulations to investigate that complaint, or to assist with the carrying out of the investigation of that complaint.
 
-### 28. Appeals relating to complaints dealt with other than by investigation[^key-b25ea6fcb4e6d16bdaf1eed8b4f1b580]
+### 28. Appeals relating to complaints dealt with other than by investigation[^c-b25ea6fcb4e6d16bdaf1eed8b4f1b580]
 
 (1) The complainant shall have a right of appeal to the relevant appeal body against the outcome of any complaint that is—
 
@@ -949,7 +949,7 @@ and it shall be the duty of the appropriate authority to comply with any directi
 
 ## PART 4 — Handling of conduct matters
 
-### 29. Conduct matters arising in civil proceedings[^key-590bffe3f35dce7548dc4fa2f26b2c6e]
+### 29. Conduct matters arising in civil proceedings[^c-590bffe3f35dce7548dc4fa2f26b2c6e]
 
 (1) This regulation applies where—
 
@@ -980,7 +980,7 @@ the chief officer may deal with the matter in such other manner (if any) as it m
 - (a) they relate to such a matter; or
 - (b) they are proceedings that relate to a matter in relation to which a conduct matter, or evidence of a conduct matter, is or may be relevant.
 
-### 30. Recording etc. of conduct matters in other cases[^key-5d728ecc23bbb1bdfb9c5d6f21ab68dd]
+### 30. Recording etc. of conduct matters in other cases[^c-5d728ecc23bbb1bdfb9c5d6f21ab68dd]
 
 (1) This regulation applies where—
 
@@ -1000,7 +1000,7 @@ the chief officer may deal with the matter in such other manner (if any) as it m
 - (a) a serious assault, as defined in guidance issued by the Director General;
 - (b) a serious sexual offence, as defined in guidance issued by the Director General;
 - (c) serious corruption, as defined in guidance issued by the Director General;
-- (d) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-33874daf3d052ff5d489fcbdb6c88b79];
+- (d) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-33874daf3d052ff5d489fcbdb6c88b79];
 - (e) a relevant offence;
 - (f) conduct whose gravity or other exceptional circumstances make it appropriate to record the matter in which the conduct is involved; or
 - (g) conduct which is alleged to have taken place in the same incident as one in which conduct within sub-paragraph (a) to (f) is alleged.
@@ -1024,9 +1024,9 @@ the appropriate authority may deal with the matter in such other manner (if any)
 
 (11) Nothing in paragraph (6) or (8) shall require the chief officer to record any conduct matter if the chief officer is satisfied that the matter has been, or is already being, dealt with by means of criminal or disciplinary proceedings against the person to whose conduct the matter relates.
 
-(12)[^key-cdb1d18101314c410753a7a4568ed1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-cdb1d18101314c410753a7a4568ed1eb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Conduct matters not required to be recorded[^key-7478c963f1af74746dc26177bdeea6d0]
+### 31. Conduct matters not required to be recorded[^c-7478c963f1af74746dc26177bdeea6d0]
 
 For the purposes of regulations 29(4) and 30(7), a conduct matter is repetitious only if—
 
@@ -1041,7 +1041,7 @@ For the purposes of regulations 29(4) and 30(7), a conduct matter is repetitious
   - (v) the complainant gave such notification as is mentioned in regulation 41(1); or
   - (vi) the requirements of regulations 73(9) or 74(11) (determination by the appropriate authority of what action to take) were complied with.
 
-### 32. Duties to preserve evidence relating to conduct matters[^key-14b124852911739a1068a1716aea55fd]
+### 32. Duties to preserve evidence relating to conduct matters[^c-14b124852911739a1068a1716aea55fd]
 
 (1) Where the chief officer becomes aware of any recordable conduct matter relating to the conduct of the contractor, it shall be the chief officer’s duty to take all such steps as appear to be appropriate for the purposes of these Regulations for obtaining and preserving evidence relating to that matter.
 
@@ -1051,7 +1051,7 @@ For the purposes of regulations 29(4) and 30(7), a conduct matter is repetitious
 
 (4) It shall be the duty of the contractor to take all such specific steps for obtaining or preserving evidence relating to any recordable conduct matter as the contractor may be directed to take for the purposes of this regulation by the chief officer or by the Director General.
 
-### 33. Reference of conduct matters to the Director General[^key-41c74c2500671a07b75c88eb8123135c]
+### 33. Reference of conduct matters to the Director General[^c-41c74c2500671a07b75c88eb8123135c]
 
 (1) It shall be the duty of the appropriate authority to refer a recordable conduct matter to the Director General if, in a case (whether or not falling within regulation 29 (conduct matters arising in civil proceedings))—
 
@@ -1064,7 +1064,7 @@ For the purposes of regulations 29(4) and 30(7), a conduct matter is repetitious
 - (a) a serious assault, as defined in guidance issued by the Director General;
 - (b) a serious sexual offence, as defined in guidance issued by the Director General;
 - (c) serious corruption, as defined in guidance issued by the Director General;
-- (d) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-79e91aaedcfd434ee2a7ca05aad66777];
+- (d) a criminal offence or behaviour which is liable to lead to disciplinary proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-79e91aaedcfd434ee2a7ca05aad66777];
 - (e) a relevant offence;
 - (f) conduct whose gravity or other exceptional circumstances make it appropriate to record the matter in which the conduct is involved; or
 - (g) conduct which is alleged to have taken place in the same incident as one in which conduct within sub-paragraphs (a) to (e) is alleged.
@@ -1098,7 +1098,7 @@ it shall give a notification of the making of the reference to the person to who
 - (a) shall not be required to be referred again under this regulation unless the Director General so directs; and
 - (b) shall not be referred in exercise of any power conferred by this regulation unless the Director General consents.
 
-### 34. Duties of the Director General on references under regulation 33[^key-b604d4f6042b35da2d8b9eed31564d69]
+### 34. Duties of the Director General on references under regulation 33[^c-b604d4f6042b35da2d8b9eed31564d69]
 
 (1) It shall be the duty of the Director General, in the case of every recordable conduct matter referred to the Director General by the appropriate authority under regulation 33 (reference of conduct matters to the Director General), to determine whether or not it is necessary for the matter to be investigated.
 
@@ -1113,7 +1113,7 @@ the Director General shall give a notification of the making of the reference to
 
 ## PART 5 — Handling of Death and Serious Injury (DSI) Matters
 
-### 35. Duty to record DSI matters[^key-630fcee5d3d3a3deec78abfc4ee950f5]
+### 35. Duty to record DSI matters[^c-630fcee5d3d3a3deec78abfc4ee950f5]
 
 (1) Where a DSI matter comes to the attention of the chief officer, the local policing body or the contractor—
 
@@ -1127,7 +1127,7 @@ the Director General shall give a notification of the making of the reference to
 
 the Director General may direct the chief officer to record that matter and it shall be the duty of the chief officer to comply with the direction.
 
-### 36. Duty to preserve evidence relating to DSI matters[^key-f3801a3026af8c9ec41d05435892a85e]
+### 36. Duty to preserve evidence relating to DSI matters[^c-f3801a3026af8c9ec41d05435892a85e]
 
 (1) Where—
 
@@ -1142,7 +1142,7 @@ it shall be the duty of the chief officer to take all such steps as appear to be
 
 (4) It shall be the duty of the contractor to take all such specific steps for obtaining or preserving evidence relating to any DSI matter as the contractor may be directed to take for the purposes of this regulation by the chief officer or by the Director General.
 
-### 37. Reference of DSI matters to the Director General[^key-6dad03eee4b4d5363d70e451124cdb53]
+### 37. Reference of DSI matters to the Director General[^c-6dad03eee4b4d5363d70e451124cdb53]
 
 (1) It shall be the duty of the chief officer to refer a DSI matter to the Director General.
 
@@ -1153,7 +1153,7 @@ it shall be the duty of the chief officer to take all such steps as appear to be
 
 (3) A matter that has already been referred to the Director General under this regulation on a previous occasion shall not be required to be referred again under this regulation unless the Director General so directs.
 
-### 38. Duties of Director General on references under regulation 37[^key-4848f332caa70fc766a59a9634fdcb8d]
+### 38. Duties of Director General on references under regulation 37[^c-4848f332caa70fc766a59a9634fdcb8d]
 
 (1) It shall be the duty of the Director General, in the case of every DSI matter referred to the Director General by the chief officer, to determine whether or not it is necessary for the matter to be investigated.
 
@@ -1161,7 +1161,7 @@ it shall be the duty of the chief officer to take all such steps as appear to be
 
 ## PART 6 — Investigations and Subsequent Proceedings
 
-### 39. Power of the Director General to determine the form of an investigation[^key-d4d216c03576a1386280e93a2e90546f]
+### 39. Power of the Director General to determine the form of an investigation[^c-d4d216c03576a1386280e93a2e90546f]
 
 (1) This regulation applies where—
 
@@ -1195,7 +1195,7 @@ such directions as the Director General considers appropriate for the purpose of
 
 (8) The Director General shall notify the appropriate authority of any determination that the Director General makes under this regulation in relation to a particular complaint, recordable conduct matter or DSI matter.
 
-### 40. Appointment of persons to carry out investigations[^key-788539619aecae7763d5043b3084c72b]
+### 40. Appointment of persons to carry out investigations[^c-788539619aecae7763d5043b3084c72b]
 
 No person shall be appointed to carry out an investigation under regulation 42, 43 or 44 (investigation by the appropriate authority on its own behalf, supervised and managed investigations)—
 
@@ -1203,7 +1203,7 @@ No person shall be appointed to carry out an investigation under regulation 42, 
 - (b) if that person works, directly or indirectly, under the management of the person whose conduct is being investigated;
 - (c) if that person’s involvement in the role could reasonably give rise to a concern as to whether that person could act impartially under these Regulations.
 
-### 41. Withdrawn complaints[^key-cf68a4d1f4620eedf1d879bf6fb18fd8]
+### 41. Withdrawn complaints[^c-cf68a4d1f4620eedf1d879bf6fb18fd8]
 
 (1) If an appropriate authority receives from a complainant notification in writing signed by the complainant or by a solicitor or other authorised agent on the complainant’s behalf to the effect either—
 
@@ -1269,7 +1269,7 @@ the Director General shall consider whether it is in the public interest for tha
 
 (12) Nothing in paragraph (11) shall require the appropriate authority to make a notification if it has previously decided under regulation 19 (copies of complaints etc.) not to notify the person complained against of the complaint because it is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 42. Investigations by the appropriate authority on its own behalf[^key-809b7160b82440b81974c9abf1aac595]
+### 42. Investigations by the appropriate authority on its own behalf[^c-809b7160b82440b81974c9abf1aac595]
 
 (1) This regulation applies if the appropriate authority is required by virtue of—
 
@@ -1291,7 +1291,7 @@ to make arrangements for a complaint, recordable conduct matter or DSI matter to
 
 to investigate the complaint or matter.
 
-### 43. Investigations supervised by the Director General[^key-62c533744837f63906e2f22452718062]
+### 43. Investigations supervised by the Director General[^c-62c533744837f63906e2f22452718062]
 
 (1) Subject to regulation 40, this regulation applies where the Director General has determined that the Director General should supervise the investigation by the appropriate authority of any complaint or recordable conduct matter or DSI matter.
 
@@ -1318,7 +1318,7 @@ to investigate the complaint or matter.
 
 (8) The Director General shall not, under paragraph (6), impose any requirement relating to the resources to be made available by the chief officer for the purposes of an investigation without first consulting the chief officer and having regard to any representations the chief officer may make.
 
-### 44. Investigations managed by the Director General[^key-dbeace56c4e0f5fbaea8eceb9fcc98a4]
+### 44. Investigations managed by the Director General[^c-dbeace56c4e0f5fbaea8eceb9fcc98a4]
 
 (1) Subject to regulation 40, this regulation applies where the Director General has determined that the Director General should manage the investigation by the appropriate authority of any complaint, recordable conduct matter or DSI matter.
 
@@ -1326,11 +1326,11 @@ to investigate the complaint or matter.
 
 (3) The person appointed to investigate the complaint or matter shall, in relation to that investigation, be under the direction and control of the Director General.
 
-### 45. Investigations by the Director General itself[^key-26c612f1399c6a81de36285667ede3c6]
+### 45. Investigations by the Director General itself[^c-26c612f1399c6a81de36285667ede3c6]
 
-(1) This regulation applies where the Director General has determined that the Director General should [^key-1f38aa255b342c366d1db0ca26f124a1]... carry out the investigation of a complaint or recordable conduct matter or DSI matter.
+(1) This regulation applies where the Director General has determined that the Director General should [^c-1f38aa255b342c366d1db0ca26f124a1]... carry out the investigation of a complaint or recordable conduct matter or DSI matter.
 
-(2)[^key-9746a6550d6aa03662e14bc91d1ef6c0] The Director General shall designate both—
+(2)[^c-9746a6550d6aa03662e14bc91d1ef6c0] The Director General shall designate both—
 
 - (a) a person to take charge of the investigation; and
 - (b) such members of the IOPC’s staff as are required by the Director General to assist the person designated to take charge of the investigation.
@@ -1344,14 +1344,14 @@ to investigate the complaint or matter.
 
 (4) The person designated under paragraph (2) to be the person to take charge of an investigation of a DSI matter in relation to which the relevant officer is the Commissioner of Police of the Metropolis or the Deputy Commissioner of Police of the Metropolis must be the person nominated by the Secretary of State to be so designated under that paragraph.
 
-(5) A person[^key-cace68ad1f668f7759cb033a9dd347e2] who—
+(5) A person[^c-cace68ad1f668f7759cb033a9dd347e2] who—
 
 - (a) is designated under paragraph (2) in relation to any investigation; but
 - (b) does not already, by virtue of section 97(8) (police officers engaged on service outside their force) of the Police Act 1996[^f00015] have all the powers and privileges of a constable throughout England and Wales and the adjacent United Kingdom waters,
 
 shall for the purposes of the carrying out of the investigation and all purposes connected with it, have all those powers and privileges throughout England and Wales and those waters.
 
-(6) A person designated under paragraph (2)[^key-1afd22df3ce3bb3c81edb217ffd8e18d] who is not a constable shall not, as a result of paragraph (5), be treated as being in police service for the purposes of—
+(6) A person designated under paragraph (2)[^c-1afd22df3ce3bb3c81edb217ffd8e18d] who is not a constable shall not, as a result of paragraph (5), be treated as being in police service for the purposes of—
 
 - (a) section 280 (police service) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00016]; or
 - (b) section 200 (police officers) of the Employment Rights Act 1996[^f00017].
@@ -1363,7 +1363,7 @@ shall for the purposes of the carrying out of the investigation and all purposes
 
 (8) In this regulation “United Kingdom waters” means the sea and other waters within the seaward limits of the United Kingdom’s territorial sea.
 
-### 46. Investigations by the Director General: power to serve information notice[^key-d416cc976d708129f65610319884bfb8]
+### 46. Investigations by the Director General: power to serve information notice[^c-d416cc976d708129f65610319884bfb8]
 
 (1) The Director General may serve upon any person an information notice requiring the person to provide the Director General with information that the Director General reasonably requires for the purposes of an investigation in accordance with regulation 45.
 
@@ -1371,7 +1371,7 @@ shall for the purposes of the carrying out of the investigation and all purposes
 
 - (a) to provide information that might incriminate the person;
 - (b) to provide an item subject to legal privilege within the meaning of the Police and Criminal Evidence Act 1984[^f00018] (see section 10 of that Act);
-- (c) to make a disclosure that would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^key-47d8f3002c1feb0d21180d242be801dd];
+- (c) to make a disclosure that would be prohibited by any of Parts 1 to 7 or Chapter 1 of Part 9 of the Investigatory Powers Act 2016[^c-47d8f3002c1feb0d21180d242be801dd];
 - (d) to provide information that was provided to the person by, or by an agency of, the government of a country or territory outside the United Kingdom where that government does not consent to the disclosure of the information.
 
 (3) Neither must an information notice require a postal or telecommunications operator (within the meaning of Chapter 2 of Part 1 of the Regulation of Investigatory Powers Act 2000) to provide communications data (within the meaning of that Chapter).
@@ -1386,7 +1386,7 @@ shall for the purposes of the carrying out of the investigation and all purposes
 
 (6) The Director General may cancel an information notice by written notice to the person on whom it was served.
 
-### 47. Failure to comply with information notice[^key-999364a6d1a1ea9e01efd2e97c08f384]
+### 47. Failure to comply with information notice[^c-999364a6d1a1ea9e01efd2e97c08f384]
 
 (1) If a person who has received an information notice—
 
@@ -1397,7 +1397,7 @@ the Director General may certify in writing to the High Court that the person ha
 
 (2) The High Court may then inquire into the matter and, after hearing any witness who may be produced against or on behalf of the person, and after hearing any statement offered in defence, deal with the person as if the person had committed a contempt of court.
 
-### 48. Appeals against information notices[^key-2969ea3cf643172c3edd05833e9c77fc]
+### 48. Appeals against information notices[^c-2969ea3cf643172c3edd05833e9c77fc]
 
 (1) A person on whom an information notice is served may appeal against the notice to the First-tier Tribunal on the ground that the notice is not in accordance with the law.
 
@@ -1406,7 +1406,7 @@ the Director General may certify in writing to the High Court that the person ha
 - (a) it must quash the notice; and
 - (b) it may give directions to the Director General in relation to the service of a further information notice.
 
-### 49. Sensitive information: restriction on further disclosure[^key-5fa60309299ef4639e5c79a4c5881ada]
+### 49. Sensitive information: restriction on further disclosure[^c-5fa60309299ef4639e5c79a4c5881ada]
 
 (1) Where the Director General receives information within paragraph (2) under an information notice, the Director General must not disclose (whether under regulation 7, 13 or 14 or otherwise) the information, or the fact that the Director General has received it, unless the relevant authority consents to the disclosure.
 
@@ -1432,7 +1432,7 @@ the Director General may certify in writing to the High Court that the person ha
   - (b) the Secret Intelligence Service,
   - (c) GCHQ, or
   - (d) any part of Her Majesty’s forces (within the meaning of the Armed Forces Act 2006[^f00020]), or of the Ministry of Defence, which engages in intelligence activities;
-- “intercept information” means information relating to any of the matters mentioned in section 57(4) of the Investigatory Powers Act 2016[^key-0cf92957bc988c40995f1321be1471af];
+- “intercept information” means information relating to any of the matters mentioned in section 57(4) of the Investigatory Powers Act 2016[^c-0cf92957bc988c40995f1321be1471af];
 - “Minister of the Crown” includes the Treasury;
 - “relevant authority” means—
   - (a) in the case of intelligence service information obtained from the Security Service, the Director-General of the Security Service;
@@ -1443,9 +1443,9 @@ the Director General may certify in writing to the High Court that the person ha
   - (f) in the case of information within paragraph (2)(c)—
     - (i) the Secretary of State, or
     - (ii) the Minister of the Crown in charge of the government department from which the information was obtained (if that Minister is not a Secretary of State);
-- “relevant interception warrant” means the interception warrant issued under section 5 of the Regulation of Investigatory Powers Act 2000 or Part 2 or Chapter 1 of Part 6 of the Investigatory Powers Act 2016[^key-40624e03dd94591af46abddfa05978bb] that relates to the intercept information.
+- “relevant interception warrant” means the interception warrant issued under section 5 of the Regulation of Investigatory Powers Act 2000 or Part 2 or Chapter 1 of Part 6 of the Investigatory Powers Act 2016[^c-40624e03dd94591af46abddfa05978bb] that relates to the intercept information.
 
-### 50. Combining and splitting investigations[^key-8aa6729850ae2b1fe621a878e6a74d2e]
+### 50. Combining and splitting investigations[^c-8aa6729850ae2b1fe621a878e6a74d2e]
 
 (1) An appropriate authority which is carrying out an investigation on its own behalf may—
 
@@ -1454,7 +1454,7 @@ the Director General may certify in writing to the High Court that the person ha
 
 if it considers that it is more efficient and effective, or is otherwise in the public interest, to do so.
 
-(2) Subject to paragraph (3), where the Director General is supervising, managing or , under paragraph 19 of Schedule 3 to the 2002 Act has designated a person to carry out, an investigation[^key-67faf755320ab5aa2fcbcff1759b9e9f], the Director General may—
+(2) Subject to paragraph (3), where the Director General is supervising, managing or , under paragraph 19 of Schedule 3 to the 2002 Act has designated a person to carry out, an investigation[^c-67faf755320ab5aa2fcbcff1759b9e9f], the Director General may—
 
 - (a) combine that investigation with another investigation; or
 - (b) split that investigation into two or more separate investigations,
@@ -1468,7 +1468,7 @@ if the Director General considers that it is more efficient and effective, or is
 - (a) where an investigation is split into two or more separate investigations, those investigations may take different forms;
 - (b) two or more separate investigations which take different forms (including an investigation being carried out by the appropriate authority on its own behalf) may be combined into a single investigation.
 
-### 51. Relinquishing the Director General’s supervision or management of an investigation[^key-a451a613f2444ac581e69e16a2f119f4]
+### 51. Relinquishing the Director General’s supervision or management of an investigation[^c-a451a613f2444ac581e69e16a2f119f4]
 
 (1) This regulation applies where the Director General relinquishes—
 
@@ -1482,7 +1482,7 @@ if the Director General considers that it is more efficient and effective, or is
 
 (3) Nothing in paragraph (2)(a) shall require the Director General to make a notification to the person complained against if the Director General is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 52. Circumstances in which an investigation or other procedure may be suspended[^key-9ba9ccf2769de9478883b47b989b734f]
+### 52. Circumstances in which an investigation or other procedure may be suspended[^c-9ba9ccf2769de9478883b47b989b734f]
 
 (1) The Director General may suspend any investigation or other procedure under these Regulations which would, if it were to continue, prejudice any criminal investigation or proceedings.
 
@@ -1492,7 +1492,7 @@ if the Director General considers that it is more efficient and effective, or is
 
 (4) The Director General shall consult the appropriate authority before making such a direction.
 
-### 53. Resumption of investigation after criminal proceedings[^key-656a7a64225d7ab28f88e358ea56de96]
+### 53. Resumption of investigation after criminal proceedings[^c-656a7a64225d7ab28f88e358ea56de96]
 
 (1) Where the whole or part of the investigation of a complaint has been suspended until the conclusion of criminal proceedings, and the complainant has failed to indicate after the conclusion of those proceedings that the complainant wishes the investigation to start or be resumed, the Director General or, as the case may be, appropriate authority shall take the steps set out in paragraph (2).
 
@@ -1508,11 +1508,11 @@ if the Director General considers that it is more efficient and effective, or is
 
 (7) Subject to paragraph (8), the Director General or appropriate authority shall notify the person complained against if paragraph (5) or (6) applies.
 
-(8) Nothing in paragraph (7) shall require the Director General or appropriate authority to make a notification if the Director General or, as the case may be, the appropriate authority[^key-b915f5e055f9a1384254ab4baa6b90e8] is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
+(8) Nothing in paragraph (7) shall require the Director General or appropriate authority to make a notification if the Director General or, as the case may be, the appropriate authority[^c-b915f5e055f9a1384254ab4baa6b90e8] is of the opinion that that might prejudice any criminal investigation or pending proceedings or would be contrary to the public interest.
 
-### 54. Special procedure: assessment of seriousness of conduct under investigation[^key-54760a1c7934c2a473037b3c3bde219b]
+### 54. Special procedure: assessment of seriousness of conduct under investigation[^c-54760a1c7934c2a473037b3c3bde219b]
 
-(1) If, during the course of an investigation of a complaint, it appears to the person investigating or, in the case of an investigation by a designated person under regulation 45 the Director General,[^key-e932ba54f2c09d59e049f57ddc02734b] that there is an indication that a person to whose conduct the investigation relates may have—
+(1) If, during the course of an investigation of a complaint, it appears to the person investigating or, in the case of an investigation by a designated person under regulation 45 the Director General,[^c-e932ba54f2c09d59e049f57ddc02734b] that there is an indication that a person to whose conduct the investigation relates may have—
 
 - (a) committed a criminal offence; or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
@@ -1565,7 +1565,7 @@ the person investigating or, in the case of an investigation by a designated per
 - “relevant document” means a document relating to any complaint or matter under investigation and includes such a document containing suggestions as to lines of inquiry to be pursued or witnesses to be interviewed;
 - “relevant statement” means an oral or written statement relating to any complaint or matter under investigation.
 
-### 55. Duty to consider submissions from person whose conduct is being investigated[^key-61d336871b26d5c5259e5c52e7cbaf2d]
+### 55. Duty to consider submissions from person whose conduct is being investigated[^c-61d336871b26d5c5259e5c52e7cbaf2d]
 
 (1) This regulation applies to—
 
@@ -1574,23 +1574,23 @@ the person investigating or, in the case of an investigation by a designated per
 
 (2) If before the expiry of the appropriate time limit notified in pursuance of regulation 54(8)—
 
-- (a) the person concerned provides the person investigating the complaint or matter or, in the case of an investigation by a designated person under regulation 45 the Director General,[^key-3c2f1795337bb08d26b08119d02d456c] with a relevant statement or a relevant document; or
+- (a) the person concerned provides the person investigating the complaint or matter or, in the case of an investigation by a designated person under regulation 45 the Director General,[^c-3c2f1795337bb08d26b08119d02d456c] with a relevant statement or a relevant document; or
 - (b) a contractor friend provides that person with a relevant document,
 
 that person must consider the statement or document.
 
-### 56. Interview of person whose conduct is being investigated[^key-5fc876ff8060aaf6998615523aaa1fcf]
+### 56. Interview of person whose conduct is being investigated[^c-5fc876ff8060aaf6998615523aaa1fcf]
 
 (1) This regulation applies to an investigation to which regulation 55(1)(a) or (b) applies.
 
-(2)  Where the person concerned is required for interview as part of—[^key-25e682dfb9652045c320d9f5b1ace623]
+(2)  Where the person concerned is required for interview as part of—[^c-25e682dfb9652045c320d9f5b1ace623]
 
 - (a) an investigation under regulation 45, the Director General shall;
 - (b) an investigation under regulation 42, 43 or 44, the investigator shall;
 
 if reasonably practicable, agree a date and time for the interview with the person concerned.
 
-(3) Where no date and time is agreed under paragraph (2), the investigator or, in the case of an investigation by a designated person under regulation 45 who is not the Director General, the Director General[^key-d445e404230396e9b2587b53b9fd3ed9] shall specify a date and time for the interview.
+(3) Where no date and time is agreed under paragraph (2), the investigator or, in the case of an investigation by a designated person under regulation 45 who is not the Director General, the Director General[^c-d445e404230396e9b2587b53b9fd3ed9] shall specify a date and time for the interview.
 
 (4) Where a date and time is specified under paragraph (3) and—
 
@@ -1612,7 +1612,7 @@ the interview shall be postponed to the time proposed by the person concerned.
 
 (9) A contractor friend may not answer any questions asked of the person concerned during the interview.
 
-### 57. Duty to provide certain information to appropriate authority[^key-1f1930d05f3ad7d817e9b7029ca3ebb5]
+### 57. Duty to provide certain information to appropriate authority[^c-1f1930d05f3ad7d817e9b7029ca3ebb5]
 
 (1) This paragraph applies during the course of an investigation to which regulation 55(1)(a) or (b) applies.
 
@@ -1623,7 +1623,7 @@ the interview shall be postponed to the time proposed by the person concerned.
 - (a) the person concerned should be, or should remain, suspended from that person’s appointment or employment as a contractor; or
 - (b) in relation to a person who has been seconded to the contractor to provide services to a chief officer, the secondment of the person concerned should cease to have effect, or continue to cease to have effect.
 
-### 58. Contractor friend[^key-579a8fb5ec119c34764f43ea958be3a5]
+### 58. Contractor friend[^c-579a8fb5ec119c34764f43ea958be3a5]
 
 (1) The person concerned may choose—
 
@@ -1639,26 +1639,26 @@ who is not otherwise involved in the matter to act as that person’s contractor
 - (c) advise the person concerned throughout proceedings under these Regulations; and
 - (d) make representations to the Director General concerning any aspect of the proceedings under these Regulations.
 
-### 59. Interview of the contractor during certain investigations[^key-d82177cbfd7ef7876939ee0633d2c598]
+### 59. Interview of the contractor during certain investigations[^c-d82177cbfd7ef7876939ee0633d2c598]
 
 (1) This regulation applies to an investigation of a complaint, recordable conduct matter or DSI matter which—
 
 - (a) is carried out by the appropriate authority under the management of the Director General; or
-- (b) is carried out by a person designated under regulation 45[^key-90f6289efd98f724ff394338919a4630].
+- (b) is carried out by a person designated under regulation 45[^c-90f6289efd98f724ff394338919a4630].
 
 (2) Paragraph (3) prescribes the procedure to be followed in connection with an interview which—
 
 - (a) is held with the contractor during the course of the investigation by the person investigating the complaint or matter; and
 - (b) is not within regulation 56.
 
-(3)[^key-e1206575251b70ac5a392f8d125a4e27] Where a contractor is required for interview as part of—
+(3)[^c-e1206575251b70ac5a392f8d125a4e27] Where a contractor is required for interview as part of—
 
 - (a) an investigation under regulation 45, the Director General shall;
 - (b) an investigation under regulation 44, the investigator shall,
 
 give written notice to the contractor that the interview will take place in accordance with this regulation, and if reasonably practicable, agree a date and time for the interview with the contractor.
 
-(4) Where no date and time is agreed under paragraph (3), the relevant investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^key-d9059909cb868d7345aa4a8904e41350] shall specify a date and time for the interview.
+(4) Where no date and time is agreed under paragraph (3), the relevant investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^c-d9059909cb868d7345aa4a8904e41350] shall specify a date and time for the interview.
 
 (5) Where a date and time is specified under paragraph (4) and—
 
@@ -1670,11 +1670,11 @@ the interview shall be postponed to the time proposed by the contractor.
 (6) An alternative time must—
 
 - (a) be reasonable; and
-- (b) fall before the end of the period of 5 working days beginning with the first working day after the day specified by the relevant investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^key-7b0a1002de69a88cd2b695788cbb338f].
+- (b) fall before the end of the period of 5 working days beginning with the first working day after the day specified by the relevant investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^c-7b0a1002de69a88cd2b695788cbb338f].
 
 (7) The contractor shall be given written notice of the date, time and place of the interview.
 
-(8) The relevant investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^key-654bca07fd45b078b7a2b40bb5c2f3d8] shall, in advance of the interview, provide the contractor with such information as the relevant investigator or, as the case may be, the Director General[^key-fd9746ab0d9312bf0fa2a37d9a7cccf7] considers appropriate in the circumstances of the case to enable the contractor to prepare for the interview.
+(8) The relevant investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^c-654bca07fd45b078b7a2b40bb5c2f3d8] shall, in advance of the interview, provide the contractor with such information as the relevant investigator or, as the case may be, the Director General[^c-fd9746ab0d9312bf0fa2a37d9a7cccf7] considers appropriate in the circumstances of the case to enable the contractor to prepare for the interview.
 
 (9) The contractor shall attend the interview.
 
@@ -1684,7 +1684,7 @@ the interview shall be postponed to the time proposed by the contractor.
 
 (12) Nothing in this regulation shall apply to an interview of any person—
 
-- (a) in relation to an investigation of a complaint, in respect of whom it appears to the investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^key-a6bd7a26e558d29cf6e39db5e1d6d679] that there is a relevant indication; or
+- (a) in relation to an investigation of a complaint, in respect of whom it appears to the investigator or, in the case of an investigation under regulation 45 by a designated person who is not the Director General, the Director General[^c-a6bd7a26e558d29cf6e39db5e1d6d679] that there is a relevant indication; or
 - (b) in relation to an investigation of a recordable conduct matter, to whose conduct the investigation relates.
 
 (13) Nothing in this regulation prevents or restricts the holding of interviews to which this regulation does not apply during the course of any investigation under these Regulations.
@@ -1697,20 +1697,20 @@ the interview shall be postponed to the time proposed by the contractor.
   - (b) behaved in a manner which would justify the bringing of disciplinary proceedings;
 - “relevant investigator” means a person appointed or designated to investigate under regulations 44 or 45.
 
-### 60. Restrictions on proceedings pending the conclusion of an investigation[^key-3fb9e3a53bf41bb6e709714fa087fbae]
+### 60. Restrictions on proceedings pending the conclusion of an investigation[^c-3fb9e3a53bf41bb6e709714fa087fbae]
 
 (1) No criminal or disciplinary proceedings shall be brought in relation to any matter which is the subject of an investigation in accordance with the provisions of these Regulations until—
 
 - (a) the appropriate authority has certified the case as a special case under regulation 62(3) or 65(3); or
-- (b) a report on that investigation has been submitted to the Director General or to the appropriate authority under regulation 72 or 75 or, in the case of an investigation under regulation 45 by the Director General acting personally, a report has been completed by the Director General[^key-75d1d0a3d61c8dffe4d2c127adcde9d8].
+- (b) a report on that investigation has been submitted to the Director General or to the appropriate authority under regulation 72 or 75 or, in the case of an investigation under regulation 45 by the Director General acting personally, a report has been completed by the Director General[^c-75d1d0a3d61c8dffe4d2c127adcde9d8].
 
 (2) Nothing in this regulation shall prevent the bringing of criminal or disciplinary proceedings in respect of any conduct at any time after the discontinuance of the investigation in accordance with the provisions of these Regulations which relate to that conduct.
 
 (3) The restrictions imposed by this regulation in relation to the bringing of criminal proceedings shall not apply to the bringing of criminal proceedings by the Director of Public Prosecutions in any case in which it appears to him that there are exceptional circumstances which make it undesirable to delay the bringing of such proceedings.
 
-### 61. Accelerated procedure in special cases[^key-48426a17d06301c098c62d44c70d6c21]
+### 61. Accelerated procedure in special cases[^c-48426a17d06301c098c62d44c70d6c21]
 
-(1) If, at any time before the completion of the investigation, the person investigating a complaint or recordable conduct matter or, in the case of an investigation by a designated person under regulation 45 the Director General,[^key-52666c37bc20bd9c6c9401dd1609fb8d] believes that the appropriate authority would, on consideration of the matter, be likely to consider that the special conditions are satisfied, the person investigating[^key-c20c95b8e33bf66a6f9953240673b7f6] shall proceed in accordance with the following provisions of this paragraph.
+(1) If, at any time before the completion of the investigation, the person investigating a complaint or recordable conduct matter or, in the case of an investigation by a designated person under regulation 45 the Director General,[^c-52666c37bc20bd9c6c9401dd1609fb8d] believes that the appropriate authority would, on consideration of the matter, be likely to consider that the special conditions are satisfied, the person investigating[^c-c20c95b8e33bf66a6f9953240673b7f6] shall proceed in accordance with the following provisions of this paragraph.
 
 (2) If the person was appointed under regulation 42, the person shall submit to the appropriate authority—
 
@@ -1721,7 +1721,7 @@ and if the person was appointed following a determination made by the Director G
 
 (3) If the person was appointed under regulation 43 or 44 or designated under regulation 44, the person shall submit to the appropriate authority—
 
-- (a) a statement of the belief referred to in paragraph (1)[^key-b045fa67949d4a06131614b3a009c3a2] and the grounds for it; and
+- (a) a statement of the belief referred to in paragraph (1)[^c-b045fa67949d4a06131614b3a009c3a2] and the grounds for it; and
 - (b) a written report on the investigation to that point,
 
 and shall send a copy of the statement and the report to the Director General.
@@ -1739,7 +1739,7 @@ and shall send a copy of the statement and the report to the Director General.
 
 (8) In regulations 62 to 67 “special report” means a report submitted under this regulation.
 
-### 62. Investigations managed or carried out by Director General: action by appropriate authority[^key-03f18b5c262b71613b8f633b74785b3e]
+### 62. Investigations managed or carried out by Director General: action by appropriate authority[^c-03f18b5c262b71613b8f633b74785b3e]
 
 (1) This regulation applies where—
 
@@ -1771,7 +1771,7 @@ it shall submit to the Director General a memorandum under this paragraph.
 
 (7) In this regulation “special conditions” has the meaning given by regulation 61(7).
 
-### 63. Investigations managed or carried out by Director General: action by Director General[^key-a228d7cf55d45935edfa58aa0637652f]
+### 63. Investigations managed or carried out by Director General: action by Director General[^c-a228d7cf55d45935edfa58aa0637652f]
 
 (1) On receipt of a notification under regulation 62(4), the Director General shall give a notification—
 
@@ -1791,7 +1791,7 @@ it shall submit to the Director General a memorandum under this paragraph.
 - (a) regulation 16 provides otherwise, or
 - (b) the Director General is prevented from doing so by regulation 49.
 
-### 64.[^key-e25ac947f96ad8dda71684477dfafdb7]
+### 64.[^c-e25ac947f96ad8dda71684477dfafdb7]
 
 (1) On receipt of a memorandum under regulation 62(5), the Director General shall—
 
@@ -1801,7 +1801,7 @@ it shall submit to the Director General a memorandum under this paragraph.
 
 (2) If the Director General determines not to make a recommendation under regulation 67, the Director General shall notify the appropriate authority and the person investigating the complaint or matter of the Director General’s determination.
 
-### 65. Other investigations: action by appropriate authority[^key-2b651e6f0d9e5d5e53f7f5fd8bf2c3e6]
+### 65. Other investigations: action by appropriate authority[^c-2b651e6f0d9e5d5e53f7f5fd8bf2c3e6]
 
 (1) This regulation applies where—
 
@@ -1828,7 +1828,7 @@ it shall notify the person investigating the complaint or matter of its determin
 
 (6) In this regulation “special conditions” has the meaning given by regulation 61(7).
 
-### 66.[^key-9200c69270def4020a219dd6cbb2a785]
+### 66.[^c-9200c69270def4020a219dd6cbb2a785]
 
 (1) If the appropriate authority certifies a case under regulation 65(3), it shall give a notification—
 
@@ -1845,7 +1845,7 @@ it shall notify the person investigating the complaint or matter of its determin
 
 (4) Except so far as may be otherwise prohibited by regulation 16, the appropriate authority shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (1) notification of the findings of the special report by sending that person a copy of that report.
 
-### 67. Special cases: recommendation or direction of Director General[^key-af7f2841142c9ef373a6169bf9bb393b]
+### 67. Special cases: recommendation or direction of Director General[^c-af7f2841142c9ef373a6169bf9bb393b]
 
 (1) Where the appropriate authority has submitted, or is required to submit, a memorandum to the Director General under regulation 62(5), the Director General may make a recommendation to the appropriate authority that it should certify the case under regulation 62(3).
 
@@ -1876,7 +1876,7 @@ it shall notify the person investigating the complaint or matter of its determin
 
 (10) The appropriate authority shall keep the Director General informed of whatever action it takes in response to a recommendation or direction.
 
-### 68.[^key-4eb393be6b85defc272eb40afbfb9e50]
+### 68.[^c-4eb393be6b85defc272eb40afbfb9e50]
 
 (1) Where—
 
@@ -1897,7 +1897,7 @@ it shall be the duty of the Director General to determine what (if any) further 
 - (a) of any determination under paragraph (2) not to take further steps under regulation 67; and
 - (b) where the Director General determines under that paragraph to take further steps under that paragraph, of the outcome of the taking of those steps.
 
-### 69. Power to discontinue an investigation[^key-3d7351ecc0f21b8bb8e2377d45d568e4]
+### 69. Power to discontinue an investigation[^c-3d7351ecc0f21b8bb8e2377d45d568e4]
 
 (1) The Director General may by order require the discontinuance of the investigation of a complaint or matter if (whether on the application of the appropriate authority or otherwise) it appears to the Director General that—
 
@@ -1928,7 +1928,7 @@ it shall be the duty of the Director General to determine what (if any) further 
 
 (6) The Director General shall not require the discontinuance of an investigation in a case where there has been no application to do so by the appropriate authority unless the Director General has consulted with that authority.
 
-(7) Before requiring the discontinuance of an investigation under paragraph (1) in a case where there has been no application to do so by the appropriate authority, or discontinuing an investigation [^key-02be2ba8bf495b434300e3f6897c815e]... under paragraph (6), the Director General shall—
+(7) Before requiring the discontinuance of an investigation under paragraph (1) in a case where there has been no application to do so by the appropriate authority, or discontinuing an investigation [^c-02be2ba8bf495b434300e3f6897c815e]... under paragraph (6), the Director General shall—
 
 - (a) write to the complainant at the complainant’s last known address—
   - (i) inviting the complainant to make representations in relation to the matter; and
@@ -1955,7 +1955,7 @@ it shall be the duty of the Director General to determine what (if any) further 
 - (a) the Director General, in a case where discontinuance is within the Director General’s power in accordance with paragraph (8); and
 - (b) the appropriate authority, in any other case.
 
-### 70.[^key-d03d6fd38897d2a3ee3b43d1dc798d87]
+### 70.[^c-d03d6fd38897d2a3ee3b43d1dc798d87]
 
 (1) The Director General shall not discontinue any investigation that is being carried out in accordance with regulation 45 except in any cases where the complaint, conduct matter or DSI matter under investigation falls within regulation 69(9).
 
@@ -1973,7 +1973,7 @@ it shall be the duty of the Director General to determine what (if any) further 
 (4) Where an investigation of a complaint, recordable conduct matter or DSI matter is discontinued in accordance with an order under regulation 69(1)—
 
 - (a) the Director General may give the appropriate authority directions in accordance with paragraph (5);
-- (b) the Director General may [^key-99984c9d68dbb7ce9c220dceba8a982f]... take any such steps of a description specified in paragraph (8) (with the exception of the step in paragraph (8)(c)) as the Director General considers appropriate for purposes connected with the discontinuance of the investigation; and
+- (b) the Director General may [^c-99984c9d68dbb7ce9c220dceba8a982f]... take any such steps of a description specified in paragraph (8) (with the exception of the step in paragraph (8)(c)) as the Director General considers appropriate for purposes connected with the discontinuance of the investigation; and
 - (c) subject to the preceding paragraphs, neither the appropriate authority nor the Director General shall take any further action in accordance with the provisions of these Regulations in relation to that complaint or matter.
 
 (5) A direction given to an appropriate authority by the Director General under paragraph (4)(a) may—
@@ -2016,9 +2016,9 @@ and it shall be the duty of the appropriate authority to comply with any directi
 - (a) the appeal shall determine whether any decision taken by the appropriate authority under this paragraph should have been taken in the case in question; and
 - (b) if the appeal finds in the complainant’s favour, the chief officer must take such action as the chief officer thinks appropriate for investigating the complaint.
 
-### 71. Procedure where conduct matter is revealed during investigation of DSI matter[^key-8a8bdfc421ed285ce2c28d4703484903]
+### 71. Procedure where conduct matter is revealed during investigation of DSI matter[^c-8a8bdfc421ed285ce2c28d4703484903]
 
-(1) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 44 [^key-1a93b919158654a0962c7b3b6fae5b7f]... that there is an indication that a person (“the person whose conduct is in question”) may have—
+(1) If during the course of an investigation of a DSI matter it appears to a person appointed under regulation 44 [^c-1a93b919158654a0962c7b3b6fae5b7f]... that there is an indication that a person (“the person whose conduct is in question”) may have—
 
 - (a) committed a criminal offence; or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
@@ -2030,7 +2030,7 @@ the appointed or designated person shall make a submission to that effect to the
 - (a) notify the appropriate authority in relation to the DSI matter and (if different) the appropriate authority in relation to the person whose conduct is in question of the Director General’s determination; and
 - (b) send to it (or each of them) a copy of the submission under paragraph (1).
 
-(2A)[^key-71d759229c9d1d7c361fd1e83425e3a2] If during the course of an investigation of a DSI matter being carried out by a person designated under regulation 45 the Director General determines that there is an indication that a person (“the person whose conduct is in question”) may have—
+(2A)[^c-71d759229c9d1d7c361fd1e83425e3a2] If during the course of an investigation of a DSI matter being carried out by a person designated under regulation 45 the Director General determines that there is an indication that a person (“the person whose conduct is in question”) may have—
 
 - (a) committed a criminal offence; or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings,
@@ -2057,7 +2057,7 @@ the appointed person shall make a submission to that effect to the appropriate a
 
 (5) Where the appropriate authority in relation to the person whose conduct is in question—
 
-- (a) is notified of a determination by the Director General under paragraph (2) or (2B)[^key-b18e69ee4ea3a9bdbef3a4e8588bf2b6];
+- (a) is notified of a determination by the Director General under paragraph (2) or (2B)[^c-b18e69ee4ea3a9bdbef3a4e8588bf2b6];
 - (b) (in a case where it is also the appropriate authority in relation to the DSI matter) makes a determination under paragraph (4); or
 - (c) (in a case where it is not the appropriate authority in relation to the DSI matter) is notified by that other authority of a determination by it under paragraph (4),
 
@@ -2070,7 +2070,7 @@ it shall record the matter under regulation 30 as a conduct matter.
 
 ## PART 7 — Reports and Recommendations
 
-### 72. Final reports on investigations: complaints, conduct matters and certain DSI matters[^key-adbfd8887306fc26621013eb676579c3]
+### 72. Final reports on investigations: complaints, conduct matters and certain DSI matters[^c-adbfd8887306fc26621013eb676579c3]
 
 (1) This regulation applies on the completion of an investigation of—
 
@@ -2089,27 +2089,27 @@ it shall record the matter under regulation 30 as a conduct matter.
 - (a) the appropriate authority in relation to the DSI matter; and
 - (b) (where different) the appropriate authority in relation to the person whose conduct is in question.
 
-(5) A person designated under regulation 45 (investigations by the Director General [^key-5f564022612a3b070a359d3b1c8ac38f]...) as the person in charge of an investigation shall—[^key-d33dcd1dde30b01e84eb02567289266b]
+(5) A person designated under regulation 45 (investigations by the Director General [^c-5f564022612a3b070a359d3b1c8ac38f]...) as the person in charge of an investigation shall—[^c-d33dcd1dde30b01e84eb02567289266b]
 
 - (a) submit a report to the Director General, or
 - (b) where the person in charge of the investigation is the Director General acting personally, complete a report on the investigation.
 
-(6) A person submitting or, in the case of an investigation under regulation 45 by the Director General personally, completing[^key-a64a2f4967ac37a84dd4b9a0cc898be6] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in that person’s report as that person thinks fit.
+(6) A person submitting or, in the case of an investigation under regulation 45 by the Director General personally, completing[^c-a64a2f4967ac37a84dd4b9a0cc898be6] a report under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in that person’s report as that person thinks fit.
 
 (7) For the purposes of a report on an investigation under regulation 55(1)(a) or (b) (special procedure cases), on completion of the investigation the report shall—
 
 - (a) provide an accurate summary of the evidence;
 - (b) attach or refer to any relevant documents; and
-- (c) where the investigation was carried out under regulation 42 or 43,[^key-5fea4ef055e7f62452f3ffca067f9646] indicate the investigator’s opinion as to whether there is a case to answer in respect of misconduct or gross misconduct or whether there is no case to answer.
+- (c) where the investigation was carried out under regulation 42 or 43,[^c-5fea4ef055e7f62452f3ffca067f9646] indicate the investigator’s opinion as to whether there is a case to answer in respect of misconduct or gross misconduct or whether there is no case to answer.
 
-(7A)[^key-1ffaf87e96718d34a1c78e18aed181b9] On completion of an investigation—
+(7A)[^c-1ffaf87e96718d34a1c78e18aed181b9] On completion of an investigation—
 
 - (a) carried out under regulation 44 or 45; and
 - (b) to which regulation 55(1) applies,
 
 where the Director General notifies the appropriate authority under regulation 73(8), the Director General shall indicate in writing to the appropriate authority the Director General’s opinion as to whether there is a case to answer in respect of misconduct or gross misconduct or whether there is no case to answer.
 
-(8) A person who has submitted or, in the case of an investigation under regulation 45 by the Director General personally, completed[^key-ffb7fcf6961aef3f4577c49e0d95c7fc] a report under this regulation on an investigation within regulation 55(1)(a) or (b) must supply the appropriate authority with such copies of further documents or other items in that person’s possession as the authority may request.
+(8) A person who has submitted or, in the case of an investigation under regulation 45 by the Director General personally, completed[^c-ffb7fcf6961aef3f4577c49e0d95c7fc] a report under this regulation on an investigation within regulation 55(1)(a) or (b) must supply the appropriate authority with such copies of further documents or other items in that person’s possession as the authority may request.
 
 (9) The appropriate authority may only make a request in respect of a copy of a document or other item if the authority—
 
@@ -2121,14 +2121,14 @@ where the Director General notifies the appropriate authority under regulation 7
 - (a) complying with any obligation which the authority has in respect of any disciplinary proceedings in relation to any person to whose conduct the investigation related;
 - (b) ensuring that any such person receives a fair hearing at any disciplinary proceedings in respect of any such conduct of that person.
 
-### 73. Action by the Director General in response to an investigation report under regulation 72[^key-b8803c237ba8f955962e3586a4a57d40]
+### 73. Action by the Director General in response to an investigation report under regulation 72[^c-b8803c237ba8f955962e3586a4a57d40]
 
 (1) This regulation applies where—
 
 - (a) a report on an investigation carried out under the management of the Director General is submitted to the Director General under paragraph (3) of regulation 72 (final reports on investigations: complaints, conduct matters and certain DSI matters); or
-- (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General , or is otherwise completed,[^key-3b91bed8152dcc74ab6141aca19268d7] under paragraph (5) of that regulation.
+- (b) a report on an investigation carried out by a person designated by the Director General is submitted to the Director General , or is otherwise completed,[^c-3b91bed8152dcc74ab6141aca19268d7] under paragraph (5) of that regulation.
 
-(2) On receipt of the report , or on its completion by the Director General,[^key-3e2f977bc12e642e2f8d38c54eae56d5] the Director General—
+(2) On receipt of the report , or on its completion by the Director General,[^c-3e2f977bc12e642e2f8d38c54eae56d5] the Director General—
 
 - (a) if it appears that the appropriate authority has not already been sent a copy of the report, shall send a copy of the report to that authority;
 - (b) shall determine whether the conditions set out in paragraphs (3) and (4) are satisfied in respect of the report;
@@ -2148,7 +2148,7 @@ where the Director General notifies the appropriate authority under regulation 7
 - (a) in the case of a complaint, the complainant and every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
 - (b) in the case of a recordable conduct matter, every person entitled to be kept properly informed in relation to that matter under that regulation.
 
-(8) On receipt of the report , or on its completion by the Director General,[^key-b3d93d574cde537c58fcabdd742de1e6] the Director General shall also notify the appropriate authority that it must determine—
+(8) On receipt of the report , or on its completion by the Director General,[^c-b3d93d574cde537c58fcabdd742de1e6] the Director General shall also notify the appropriate authority that it must determine—
 
 - (a) whether any person to whose conduct the investigation related has a case to answer in respect of misconduct or gross misconduct or has no case to answer;
 - (b) whether or not any such person’s performance is unsatisfactory;
@@ -2181,9 +2181,9 @@ where the Director General notifies the appropriate authority under regulation 7
 
 (14) The Director General shall be entitled (notwithstanding any obligation of secrecy imposed by any rule of law or otherwise) to discharge the duty to give a person mentioned in paragraph (11) notification of the findings of the report by sending that person a copy of the report, except so far as regulation 16 provides otherwise.
 
-(15) In relation to a DSI matter in respect of which a determination has been made under regulation 71(2) , (2A)[^key-4f7e25c5fc93e015123b2668583cd238] or (4) (procedure where conduct matter is revealed during investigation of DSI matter), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
+(15) In relation to a DSI matter in respect of which a determination has been made under regulation 71(2) , (2A)[^c-4f7e25c5fc93e015123b2668583cd238] or (4) (procedure where conduct matter is revealed during investigation of DSI matter), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
 
-### 74. Action by the appropriate authority in response to an investigation report under regulation 72[^key-5acfce73b8eede239ded7445049ca9fc]
+### 74. Action by the appropriate authority in response to an investigation report under regulation 72[^c-5acfce73b8eede239ded7445049ca9fc]
 
 (1) This regulation applies where—
 
@@ -2242,25 +2242,25 @@ where the Director General notifies the appropriate authority under regulation 7
 
 (16) In relation to a DSI matter in respect of which a determination has been made under regulation 71(2) or (4) (procedure where conduct matter is revealed during investigation of DSI matter), the references in this regulation to the appropriate authority are references to the appropriate authority in relation to the person whose conduct is in question.
 
-### 75. Final reports on investigations: other DSI matters[^key-5947c037b39c8686d8cf03f3b7df0b99]
+### 75. Final reports on investigations: other DSI matters[^c-5947c037b39c8686d8cf03f3b7df0b99]
 
-(1) This regulation applies on the completion of an investigation of a DSI matter in respect of which neither the Director General nor the appropriate authority has made a determination under regulation 71(2) , (2A)[^key-17b6ccb1a96ab59f58c75013a25a0810] or (4) (procedure where a conduct matter is revealed during investigation of a DSI matter).
+(1) This regulation applies on the completion of an investigation of a DSI matter in respect of which neither the Director General nor the appropriate authority has made a determination under regulation 71(2) , (2A)[^c-17b6ccb1a96ab59f58c75013a25a0810] or (4) (procedure where a conduct matter is revealed during investigation of a DSI matter).
 
 (2) The person investigating shall—
 
 - (a) submit a report on the investigation to the Director General; and
 - (b) send a copy of that report to the appropriate authority.
 
-(2A)[^key-f3115c5a5d13e2b813431ee6f6fadfa6] Paragraph (2)(a) does not apply where the person investigating is the Director General carrying out an investigation personally under regulation 45, but the Director General shall complete a report on the investigation.
+(2A)[^c-f3115c5a5d13e2b813431ee6f6fadfa6] Paragraph (2)(a) does not apply where the person investigating is the Director General carrying out an investigation personally under regulation 45, but the Director General shall complete a report on the investigation.
 
 (3)[^M_F_1ad318de-02e6-4dce-e78a-5a50f16de70c] A person submitting a report to the Director General under this regulation shall not be prevented by any obligation of secrecy imposed by any rule of law or otherwise from including all such matters in his report as that person thinks fit.
 
-(4) On receipt of the report (or on its completion by the Director General)[^key-ae04c5e69ff5dc52db0e37697c5e00a4], the Director General shall determine whether the report indicates that the contractor may have—
+(4) On receipt of the report (or on its completion by the Director General)[^c-ae04c5e69ff5dc52db0e37697c5e00a4], the Director General shall determine whether the report indicates that the contractor may have—
 
 - (a) committed a criminal offence; or
 - (b) behaved in a manner which would justify the bringing of disciplinary proceedings.
 
-### 76. Action by the Director General in response to an investigation report under regulation 75[^key-f019483e252541b1ed66a15d7e6959be]
+### 76. Action by the Director General in response to an investigation report under regulation 75[^c-f019483e252541b1ed66a15d7e6959be]
 
 (1) If the Director General determines under regulation 75(4) that the report indicates that the contractor may have—
 
@@ -2294,7 +2294,7 @@ the Director General shall notify the appropriate authority in relation to the p
 - (b) determine whether or not to make recommendations under regulation 79;
 - (c) make such recommendations (if any) under that regulation as the Director General thinks fit.
 
-### 77. Appeals with respect to an investigation[^key-8360b10f03701490235871176312bb53]
+### 77. Appeals with respect to an investigation[^c-8360b10f03701490235871176312bb53]
 
 (1) This regulation applies where a complaint has been subjected to—
 
@@ -2393,7 +2393,7 @@ in a case where the appropriate authority is the relevant appeal body, that auth
 
 (18) It shall be the duty of the appropriate authority to comply with any directions given to it under this regulation.
 
-### 78. Reviews and re-investigations following an appeal[^key-e7ec58e6c0aed2e153e3e1ed8391a4c8]
+### 78. Reviews and re-investigations following an appeal[^c-e7ec58e6c0aed2e153e3e1ed8391a4c8]
 
 (1) On a review under regulation 77(9)(a) (appeals with respect to an investigation) of the findings of an investigation the powers of the Director General shall be, according to the Director General’s determination on that review, to do one or more of the following—
 
@@ -2423,7 +2423,7 @@ in a case where the appropriate authority is the relevant appeal body, that auth
 - (b) to every person entitled to be kept properly informed in relation to the complaint under regulation 14 (duty to provide information for other persons); and
 - (c) except in a case where it appears to the Director General that to do so might prejudice any proposed review or re-investigation of the complaint, to the person complained against.
 
-### 79. Duties with respect to disciplinary proceedings etc.[^key-ce4a0e198d7191ccc6e0078872c9dd67]
+### 79. Duties with respect to disciplinary proceedings etc.[^c-ce4a0e198d7191ccc6e0078872c9dd67]
 
 (1) This regulation applies where, in the case of any investigation, the appropriate authority—
 
@@ -2470,7 +2470,7 @@ and it shall be the duty of the appropriate authority to notify the Director Gen
 - (a) in a case in which this regulation applies by virtue of paragraph (1)(b) or (c), of whatever action it takes in pursuance of its duty under paragraph (2); and
 - (b) in every case of a recommendation or direction under this regulation, of whatever action it takes in response to that recommendation or direction.
 
-### 80. Information for complainant about disciplinary recommendations[^key-54dfea6c95ce26bd5dcc80e783621e64]
+### 80. Information for complainant about disciplinary recommendations[^c-54dfea6c95ce26bd5dcc80e783621e64]
 
 (1) Where—
 
@@ -2491,13 +2491,13 @@ it shall be the duty of the Director General to determine what if any further st
 - (a) of any determination under paragraph (2) not to take further steps under regulation 79; and
 - (b) where the Director General determines under that paragraph to take further steps under that paragraph, of the outcome of the taking of those steps.
 
-### 81. Recommendations by the Director General[^key-acbbec951a465e1d324d778f4fc38988]
+### 81. Recommendations by the Director General[^c-acbbec951a465e1d324d778f4fc38988]
 
-(1) This regulation applies where the Director General has received a report (or otherwise completed one in relation to an investigation carried out under regulation 45 by the Director General personally)[^key-3f20bf8e267e545dfcb1f21c34b4e472] under—
+(1) This regulation applies where the Director General has received a report (or otherwise completed one in relation to an investigation carried out under regulation 45 by the Director General personally)[^c-3f20bf8e267e545dfcb1f21c34b4e472] under—
 
 - (a) regulation 72(3) (report on completion of investigation of complaint or conduct matter supervised or managed by Director General),
-- (b) regulation 72(5) (report on completion of investigation of complaint or conduct matter by , or on behalf of, the Director General[^key-c30ab37a894353ae388210a76b1ac6cb]), or
-- (c) regulation 75(2) , or (2A)[^key-4c2de0751aeb426d1d64ac4b2dd4109b] (report on completion of investigation of DSI matter that is not also conduct matter).
+- (b) regulation 72(5) (report on completion of investigation of complaint or conduct matter by , or on behalf of, the Director General[^c-c30ab37a894353ae388210a76b1ac6cb]), or
+- (c) regulation 75(2) , or (2A)[^c-4c2de0751aeb426d1d64ac4b2dd4109b] (report on completion of investigation of DSI matter that is not also conduct matter).
 
 (2) This regulation also applies where the Director General has made a determination on an appeal under—
 
@@ -2506,7 +2506,7 @@ it shall be the duty of the Director General to determine what if any further st
 
 (3) The Director General may make a recommendation in relation to a matter dealt with in the report or appeal.
 
-(4) A recommendation under this regulation may be made to any person if it is made following the receipt , or completion,[^key-397a1c58a243af996d3bccf3757a5620] of a report relating to a matter specified in paragraph (5).
+(4) A recommendation under this regulation may be made to any person if it is made following the receipt , or completion,[^c-397a1c58a243af996d3bccf3757a5620] of a report relating to a matter specified in paragraph (5).
 
 (5) The matters specified for the purposes of paragraph (4) are—
 
@@ -2516,7 +2516,7 @@ it shall be the duty of the Director General to determine what if any further st
   - (i) a serious assault, as defined in guidance issued by the Director General;
   - (ii) a serious sexual assault, as defined in guidance issued by the Director General;
   - (iii) serious corruption, as defined in guidance issued by the Director General;
-  - (iv) a criminal offence or behaviour which is liable to lead to misconduct proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-e58e329430551827d5f93636581862d6];
+  - (iv) a criminal offence or behaviour which is liable to lead to misconduct proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-e58e329430551827d5f93636581862d6];
   - (v) a relevant offence;
   - (vi) conduct which took place in the same incident as one in which conduct falling within sub-paragraphs (i) to (v) took place; or
 - (d) a matter in respect of which the Director General gives a notification to the appropriate authority under regulation 33(1)(c);
@@ -2525,7 +2525,7 @@ it shall be the duty of the Director General to determine what if any further st
   - (i) a serious assault, as defined in guidance issued by the Director General;
   - (ii) a serious sexual assault, as defined in guidance issued by the Director General;
   - (iii) serious corruption, as defined in guidance issued by the Director General;
-  - (iv) a criminal offence or behaviour which is liable to lead to misconduct proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^key-319b15277e9262f28487ed4718b529b9];
+  - (iv) a criminal offence or behaviour which is liable to lead to misconduct proceedings and which in either case was aggravated by discriminatory behaviour on the grounds of a person’s race, sex, religion, or other status identified in guidance issued by the Director General[^c-319b15277e9262f28487ed4718b529b9];
   - (v) a relevant offence;
 - (g) a complaint which arises from the same incident as one in which any conduct falling within sub-paragraphs (e) or (f) took place;
 - (h) a complaint in respect of which the Director General gives a notification to the appropriate authority under regulation 22(1)(d); or
@@ -2548,7 +2548,7 @@ it shall be the duty of the Director General to determine what if any further st
 
 (8) Nothing in this paragraph affects the power of the Director General to make recommendations or give advice under regulation 6(1)(e) (whether arising under these Regulations or otherwise).
 
-### 82. Response to recommendation[^key-a5044a005d3a16854f6f9c157a2451f6]
+### 82. Response to recommendation[^c-a5044a005d3a16854f6f9c157a2451f6]
 
 (1) A person to whom a recommendation under regulation 81 is made must provide to the Director General a response in writing stating—
 
@@ -2596,11 +2596,11 @@ unless the person giving the response has made representations under paragraph (
 
 ## PART 8 — General
 
-### 83. Complaints or conduct matters concerning a person who has subsequently ceased to be a contractor[^key-10173f4d5333d5504fc8a4ac4313e8c9]
+### 83. Complaints or conduct matters concerning a person who has subsequently ceased to be a contractor[^c-10173f4d5333d5504fc8a4ac4313e8c9]
 
 Where a complaint or conduct matter relates to the conduct of a person who has ceased to be a contractor since the time of the conduct, then these Regulations shall apply in relation to such a person as if they did not include any requirement for an appropriate authority to determine whether disciplinary proceedings should be brought against a person whose conduct is the subject-matter of a report.
 
-### 84. Complaints or conduct matters concerning a person whose identity is unascertained[^key-81c144d263261919f99dba3018b7689d]
+### 84. Complaints or conduct matters concerning a person whose identity is unascertained[^c-81c144d263261919f99dba3018b7689d]
 
 (1) Where a complaint or conduct matter relates to the conduct of a person whose identity is unascertained at the time at which the complaint is made or the conduct matter is recorded, or whose identity is not ascertained during or subsequent to, the investigation of the complaint or recordable conduct matter, then these Regulations shall apply in relation to such a person as if it did not include—
 
@@ -2610,7 +2610,7 @@ Where a complaint or conduct matter relates to the conduct of a person who has c
 
 (2) Where the identity of such a person is subsequently ascertained, the Director General and appropriate authority shall take such action in accordance with these Regulations as they see fit, regardless of any previous action taken under these Regulations as modified above.
 
-### 85. Notification of actions and decisions[^key-fb06ae2483248b7781f27e3eb75092a9]
+### 85. Notification of actions and decisions[^c-fb06ae2483248b7781f27e3eb75092a9]
 
 (1) So far as not covered by regulations 73(11) and (12) and 77(15) and (16) (notifications by the Director General in relation to recommending disciplinary proceedings), where the Director General takes any action or decisions in consequence of the Director General having received a memorandum under regulation 73(9) or regulation 77(4), the Director General shall notify such action or decisions, together with an explanation of the Director General’s reasons for having taken them, to—
 
@@ -2622,7 +2622,7 @@ Where a complaint or conduct matter relates to the conduct of a person who has c
 
 (3) The Director General may decide not to give such a notification and explanation to the person complained against if the Director General is of the opinion that that notification might prejudice any criminal investigation, pending proceedings, or review of the complaint.
 
-### 86. Keeping of records[^key-031eebfce6a0f199d12098ee89a0e1c0]
+### 86. Keeping of records[^c-031eebfce6a0f199d12098ee89a0e1c0]
 
 The appropriate authority shall keep records, in such form as the Director General shall determine, of—
 
@@ -2631,7 +2631,7 @@ The appropriate authority shall keep records, in such form as the Director Gener
 - (c) every DSI matter recorded by it under regulation 35 (duty to record DSI matters);
 - (d) every exercise of a power or performance of a duty under these Regulations.
 
-### 87. Register to be kept by the Director General[^key-cce870d4ae070636f1817c3f6cdf3b59]
+### 87. Register to be kept by the Director General[^c-cce870d4ae070636f1817c3f6cdf3b59]
 
 (1) The Director General shall establish and maintain a register of all information supplied to the Director General by the appropriate authority under these Regulations.
 
@@ -2643,7 +2643,7 @@ The appropriate authority shall keep records, in such form as the Director Gener
 
 (3) Information may not be published or disclosed in circumstances where in the opinion of the Director General the non-disclosure of information is necessary for a purpose mentioned in regulation 16(1)(a) or (b) (exceptions to the duty to keep the complainant informed and to provide information for other persons).
 
-### 88. Delegation of powers and duties by the chief officer[^key-237850967927bf220fdf4b733047fb98]
+### 88. Delegation of powers and duties by the chief officer[^c-237850967927bf220fdf4b733047fb98]
 
 (1) Subject to the remaining paragraphs of this regulation, the chief officer may delegate all or any of the powers or duties conferred or imposed on the chief officer by or under these Regulations to such an officer as is mentioned in paragraph (2), or to a police staff member who, in the opinion of the chief officer, is of at least a similar level of seniority.
 
@@ -2660,7 +2660,7 @@ The appropriate authority shall keep records, in such form as the Director Gener
 - (b) a civilian employee of a police force; or
 - (c) a contractor.
 
-### 89. Manner and time limits of notifications[^key-1c7ee76a54d6613e0a589ed5a87e8c75]
+### 89. Manner and time limits of notifications[^c-1c7ee76a54d6613e0a589ed5a87e8c75]
 
 (1) Any notification to be given under these Regulations shall—
 
@@ -2669,7 +2669,7 @@ The appropriate authority shall keep records, in such form as the Director Gener
 
 (2) No time limit mentioned in these Regulations or determined by the Director General shall apply in any case where exceptional circumstances prevent that time limit being complied with.
 
-### 90. Appeals[^key-964e9a946688f976ff002a4697fad181]
+### 90. Appeals[^c-964e9a946688f976ff002a4697fad181]
 
 (1) This regulation applies to an appeal under any of the following provisions of these Regulations—
 
@@ -2729,7 +2729,7 @@ The appropriate authority shall keep records, in such form as the Director Gener
 
 (13) An appropriate authority may decide not to make a notification under paragraph (12)(a)(ii) if it is of the opinion that to do so might prejudice any criminal investigation or pending proceedings or would otherwise be contrary to the public interest.
 
-### 91. Relevant appeal body[^key-e6d5b804c15e40fa7de2d891e7095be0]
+### 91. Relevant appeal body[^c-e6d5b804c15e40fa7de2d891e7095be0]
 
 (1) The relevant appeal body in relation to an appeal is—
 
@@ -2783,7 +2783,7 @@ Home Office
 
 26th February 2015
 
-## SCHEDULE[^key-228b817973afa3dc5096a961613ed37c]
+## SCHEDULE[^c-228b817973afa3dc5096a961613ed37c]
 
 Regulation 4(3)
 
@@ -2910,9 +2910,9 @@ An impact assessment has not been prepared for this instrument as no impact on b
 
 [^f00002]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 63(3)(b) was substituted by paragraphs 68 and 78 of Schedule 4 to the Serious Organised Crime and Policing Act 2005; there have been further amendments to section 63 that are not relevant for these purposes.
 
-[^key-6a4d90365e961a5645692f7f05991adf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-6a4d90365e961a5645692f7f05991adf]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-c41f2aa851ea8970de4da163aea2033e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/431/regulation/2) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-c41f2aa851ea8970de4da163aea2033e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/431/regulation/2) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
 [^f00003]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
@@ -2926,338 +2926,338 @@ An impact assessment has not been prepared for this instrument as no impact on b
 
 [^f00008]: Footnote: Section 66 was amended by section 57(1) and (4) of the Criminal Justice and Court Services Act [2000 (c. 43)](https://www.legislation.gov.uk/ukpga/2000/43). There are other amendments which are not relevant to the provision made by these Regulations.
 
-[^key-0fd72adffe133ea9cdbb16a099e1758b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/431/regulation/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(4)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/4) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-0fd72adffe133ea9cdbb16a099e1758b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/431/regulation/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(4)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/4) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^f00009]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^f00010]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-2c3c5b494131f43b8e2ca3e3b5d2cd39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/431/regulation/3) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-2c3c5b494131f43b8e2ca3e3b5d2cd39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/431/regulation/3) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-ad00a059fb045a2acc4fcd14fa302a4e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/431/regulation/4) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-ad00a059fb045a2acc4fcd14fa302a4e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/431/regulation/4) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-bb6eb89bdb2424803c9a9a7e74cae613]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/431/regulation/5) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-bb6eb89bdb2424803c9a9a7e74cae613]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/431/regulation/5) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-42457386a08ba60f92bc70224095ebf9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/431/regulation/6) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-42457386a08ba60f92bc70224095ebf9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/431/regulation/6) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-b3450d08578a63aaa2beddf2a3a51028]: Textual amendment: Words in Regulations substituted (except in reg. 1) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/a) (with [regs. 33(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b3450d08578a63aaa2beddf2a3a51028]: Textual amendment: Words in Regulations substituted (except in reg. 1) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/a) (with [regs. 33(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-ad5329dca37b878f0d33085b4039b0e0]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/6/1/a) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-ad5329dca37b878f0d33085b4039b0e0]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/6/1/a) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(5)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/5/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-cdd3092bb6a69eb962c52d6d1d949cc6]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/431) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/d) (with [regs. 33(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-cdd3092bb6a69eb962c52d6d1d949cc6]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/431) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/d) (with [regs. 33(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-aa9d457bdabfb496869b62a254f77c02]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/431) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-aa9d457bdabfb496869b62a254f77c02]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/431) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-ed513d2254698ee0465ccc411efc67f9]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/6/4A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-ed513d2254698ee0465ccc411efc67f9]: Textual amendment: [Reg. 6(4A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/6/4A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(5)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/5/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-11f58c2b55c29fa4577b3f9a5d92ea35]: Textual amendment: Word in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/6/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(5)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/5/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-11f58c2b55c29fa4577b3f9a5d92ea35]: Textual amendment: Word in [reg. 6(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/6/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(5)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/5/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-4512327e411aeb5985da9b8300794f60]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/2015/431/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/2015/431/regulation/6B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(6)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/6) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-4512327e411aeb5985da9b8300794f60]: Textual amendment: [Regs. 6A](https://www.legislation.gov.uk/uksi/2015/431/regulation/6A), [6B](https://www.legislation.gov.uk/uksi/2015/431/regulation/6B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(6)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/6) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-8b4ec48073d856c534fead67a39d0f3c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/431/regulation/7) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-8b4ec48073d856c534fead67a39d0f3c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/431/regulation/7) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-fd81295e2295fc4d2549be8d24a54fe8]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/7/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(7)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/7/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-fd81295e2295fc4d2549be8d24a54fe8]: Textual amendment: [Reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/7/1)[(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/7/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(7)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/7/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-c7a76f39c0ea1b7041c357ecbfef0bc0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/431) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/b) (with [regs. 33(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-c7a76f39c0ea1b7041c357ecbfef0bc0]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/431) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(2)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/2/b) (with [regs. 33(3)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/3), [37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-63eb5ded72f68bf321113db36daa45d8]: Textual amendment: Word in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/7/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(7)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/7/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-63eb5ded72f68bf321113db36daa45d8]: Textual amendment: Word in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/7/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(7)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/7/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-4b79f16e59c9650fc222934e1dfebd67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/431/regulation/8) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-4b79f16e59c9650fc222934e1dfebd67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/431/regulation/8) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-2d756e344f8b3c62d65cefc9c99b6533]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/431/regulation/9) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-2d756e344f8b3c62d65cefc9c99b6533]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/431/regulation/9) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-5d1a6bcc03dc0e73fbedbd9abba08463]: Textual amendment: Word in [reg. 9(7)](https://www.legislation.gov.uk/uksi/2015/431/regulation/9/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(8)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-5d1a6bcc03dc0e73fbedbd9abba08463]: Textual amendment: Word in [reg. 9(7)](https://www.legislation.gov.uk/uksi/2015/431/regulation/9/7) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(8)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/8) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-40d1a026b786b48fe7d6b3dc5a504733]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/431/regulation/10) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-40d1a026b786b48fe7d6b3dc5a504733]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/431/regulation/10) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-f4053762de0ecde2ba7a0fe31964af16]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/10/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(9)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-f4053762de0ecde2ba7a0fe31964af16]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/10/4) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(9)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/9) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b4eab75c80921199ef605eb79a2a1157]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/431/regulation/11) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-b4eab75c80921199ef605eb79a2a1157]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/431/regulation/11) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-d479feae39088bb161358398cb4bdeda]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/431/regulation/12) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-d479feae39088bb161358398cb4bdeda]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2015/431/regulation/12) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-63fb4b24c943358ed46f51252568aa87]: Textual amendment: Word in [reg. 12(5)(a)(i)](https://www.legislation.gov.uk/uksi/2015/431/regulation/12/5/a/i) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(10)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/10) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-63fb4b24c943358ed46f51252568aa87]: Textual amendment: Word in [reg. 12(5)(a)(i)](https://www.legislation.gov.uk/uksi/2015/431/regulation/12/5/a/i) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(10)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/10) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-87948ba97453095a45b7f6e72dd9ab39]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/431/regulation/13) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-87948ba97453095a45b7f6e72dd9ab39]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2015/431/regulation/13) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-db084c7c3bba538878ef577a032cae53]: Textual amendment: Word in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/13/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-db084c7c3bba538878ef577a032cae53]: Textual amendment: Word in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/13/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(11)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/11) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-dd34605edc4ce519cd9e533a0d4c4aa6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/431/regulation/14) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-dd34605edc4ce519cd9e533a0d4c4aa6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2015/431/regulation/14) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-9fcb673d6e6719cd52e0d7e9dc3456e2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/431/regulation/15) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-9fcb673d6e6719cd52e0d7e9dc3456e2]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2015/431/regulation/15) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-fa723a8c51d662f4c8fd47adcbe398a9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/431/regulation/16) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-fa723a8c51d662f4c8fd47adcbe398a9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/431/regulation/16) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-ece51b0c0e7f13ad88002505e3d8e5f6]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/16/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(12)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/12) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-ece51b0c0e7f13ad88002505e3d8e5f6]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/16/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(12)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/12) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-dbf4aa5b0c3918b99080bd11a2ffc37e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/431/regulation/17) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-dbf4aa5b0c3918b99080bd11a2ffc37e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2015/431/regulation/17) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-195ef3e1e013f2bf669feda0aa507bea]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/431/regulation/18) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-195ef3e1e013f2bf669feda0aa507bea]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2015/431/regulation/18) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-9e680a05f1636a62a5e06e9b3bdb42fd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/431/regulation/19) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-9e680a05f1636a62a5e06e9b3bdb42fd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/431/regulation/19) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-bbe64cf97bb9465708f3475f1a5ce6da]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/431/regulation/20) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-bbe64cf97bb9465708f3475f1a5ce6da]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2015/431/regulation/20) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-6c82cee318f0f8ad5da320fb49bc70f4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/431/regulation/21) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-6c82cee318f0f8ad5da320fb49bc70f4]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2015/431/regulation/21) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-e779d8bb2c714edb3a459547ff3ad47a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/431/regulation/22) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-e779d8bb2c714edb3a459547ff3ad47a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2015/431/regulation/22) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-df9af029fce9bb277675707651f28855]: Textual amendment: Words in [reg. 22(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/431/regulation/22/1/b/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-df9af029fce9bb277675707651f28855]: Textual amendment: Words in [reg. 22(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/431/regulation/22/1/b/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-627dadbc4c4c5b19457967dcabceb789]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/431/regulation/23) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-627dadbc4c4c5b19457967dcabceb789]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2015/431/regulation/23) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-4b48e51516d92fd6a57736a430f1624f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/431/regulation/24) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-4b48e51516d92fd6a57736a430f1624f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/431/regulation/24) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
 [^f00012]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-f7f2924f17ed466eb7c581c40f7bad13]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/431/regulation/25) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-f7f2924f17ed466eb7c581c40f7bad13]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2015/431/regulation/25) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-9b2cac0e48c9188051345e80fb3aa8e8]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/431/regulation/26) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-9b2cac0e48c9188051345e80fb3aa8e8]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2015/431/regulation/26) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-a9daa3c63274b83d2749d3f0e17f3e7a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/431/regulation/27) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-a9daa3c63274b83d2749d3f0e17f3e7a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2015/431/regulation/27) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-b25ea6fcb4e6d16bdaf1eed8b4f1b580]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/431/regulation/28) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-b25ea6fcb4e6d16bdaf1eed8b4f1b580]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2015/431/regulation/28) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-590bffe3f35dce7548dc4fa2f26b2c6e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2015/431/regulation/29) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-590bffe3f35dce7548dc4fa2f26b2c6e]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2015/431/regulation/29) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-5d728ecc23bbb1bdfb9c5d6f21ab68dd]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/431/regulation/30) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-5d728ecc23bbb1bdfb9c5d6f21ab68dd]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2015/431/regulation/30) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-33874daf3d052ff5d489fcbdb6c88b79]: Textual amendment: Words in [reg. 30(4)(d)](https://www.legislation.gov.uk/uksi/2015/431/regulation/30/4/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-33874daf3d052ff5d489fcbdb6c88b79]: Textual amendment: Words in [reg. 30(4)(d)](https://www.legislation.gov.uk/uksi/2015/431/regulation/30/4/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-cdb1d18101314c410753a7a4568ed1eb]: Textual amendment: [Reg. 30(12)](https://www.legislation.gov.uk/uksi/2015/431/regulation/30/12) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-cdb1d18101314c410753a7a4568ed1eb]: Textual amendment: [Reg. 30(12)](https://www.legislation.gov.uk/uksi/2015/431/regulation/30/12) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(14)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/14) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-7478c963f1af74746dc26177bdeea6d0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2015/431/regulation/31) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-7478c963f1af74746dc26177bdeea6d0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2015/431/regulation/31) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-14b124852911739a1068a1716aea55fd]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/431/regulation/32) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-14b124852911739a1068a1716aea55fd]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2015/431/regulation/32) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-41c74c2500671a07b75c88eb8123135c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/431/regulation/33) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-41c74c2500671a07b75c88eb8123135c]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2015/431/regulation/33) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-79e91aaedcfd434ee2a7ca05aad66777]: Textual amendment: Words in [reg. 33(2)(d)](https://www.legislation.gov.uk/uksi/2015/431/regulation/33/2/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-79e91aaedcfd434ee2a7ca05aad66777]: Textual amendment: Words in [reg. 33(2)(d)](https://www.legislation.gov.uk/uksi/2015/431/regulation/33/2/d) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b604d4f6042b35da2d8b9eed31564d69]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/431/regulation/34) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-b604d4f6042b35da2d8b9eed31564d69]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/431/regulation/34) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-630fcee5d3d3a3deec78abfc4ee950f5]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2015/431/regulation/35) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-630fcee5d3d3a3deec78abfc4ee950f5]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2015/431/regulation/35) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-f3801a3026af8c9ec41d05435892a85e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2015/431/regulation/36) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-f3801a3026af8c9ec41d05435892a85e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2015/431/regulation/36) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-6dad03eee4b4d5363d70e451124cdb53]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2015/431/regulation/37) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-6dad03eee4b4d5363d70e451124cdb53]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2015/431/regulation/37) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-4848f332caa70fc766a59a9634fdcb8d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2015/431/regulation/38) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-4848f332caa70fc766a59a9634fdcb8d]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2015/431/regulation/38) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-d4d216c03576a1386280e93a2e90546f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2015/431/regulation/39) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-d4d216c03576a1386280e93a2e90546f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2015/431/regulation/39) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-788539619aecae7763d5043b3084c72b]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2015/431/regulation/40) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-788539619aecae7763d5043b3084c72b]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2015/431/regulation/40) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-cf68a4d1f4620eedf1d879bf6fb18fd8]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2015/431/regulation/41) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-cf68a4d1f4620eedf1d879bf6fb18fd8]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2015/431/regulation/41) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-809b7160b82440b81974c9abf1aac595]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2015/431/regulation/42) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-809b7160b82440b81974c9abf1aac595]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2015/431/regulation/42) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-62c533744837f63906e2f22452718062]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2015/431/regulation/43) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-62c533744837f63906e2f22452718062]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2015/431/regulation/43) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-dbeace56c4e0f5fbaea8eceb9fcc98a4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2015/431/regulation/44) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-dbeace56c4e0f5fbaea8eceb9fcc98a4]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2015/431/regulation/44) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-26c612f1399c6a81de36285667ede3c6]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2015/431/regulation/45) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-26c612f1399c6a81de36285667ede3c6]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2015/431/regulation/45) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-1f38aa255b342c366d1db0ca26f124a1]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-1f38aa255b342c366d1db0ca26f124a1]: Textual amendment: Word in [reg. 45(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/a) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-9746a6550d6aa03662e14bc91d1ef6c0]: Textual amendment: [Reg. 45(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/2)[(2A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/2A) substituted for [reg. 45(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-9746a6550d6aa03662e14bc91d1ef6c0]: Textual amendment: [Reg. 45(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/2)[(2A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/2A) substituted for [reg. 45(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/2) (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/b) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
-[^key-cace68ad1f668f7759cb033a9dd347e2]: Textual amendment: Word in [reg. 45(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/c) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-cace68ad1f668f7759cb033a9dd347e2]: Textual amendment: Word in [reg. 45(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/c) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
 [^f00015]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-1afd22df3ce3bb3c81edb217ffd8e18d]: Textual amendment: Words in [reg. 45(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/d) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
+[^c-1afd22df3ce3bb3c81edb217ffd8e18d]: Textual amendment: Words in [reg. 45(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/45/6) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(15)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/15/d) (with [regs. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37), [38](https://www.legislation.gov.uk/uksi/2017/1250/regulation/38))
 
 [^f00016]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
 [^f00017]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-d416cc976d708129f65610319884bfb8]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2015/431/regulation/46) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-d416cc976d708129f65610319884bfb8]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2015/431/regulation/46) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
 [^f00018]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-47d8f3002c1feb0d21180d242be801dd]: Textual amendment: Words in [reg. 46(2)(c)](https://www.legislation.gov.uk/uksi/2015/431/regulation/46/2/c) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/2), [Sch. 1 para. 30(2)](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/30/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/682/regulation/4))
+[^c-47d8f3002c1feb0d21180d242be801dd]: Textual amendment: Words in [reg. 46(2)(c)](https://www.legislation.gov.uk/uksi/2015/431/regulation/46/2/c) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/2), [Sch. 1 para. 30(2)](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/30/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/682/regulation/4))
 
-[^key-999364a6d1a1ea9e01efd2e97c08f384]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2015/431/regulation/47) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-999364a6d1a1ea9e01efd2e97c08f384]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2015/431/regulation/47) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-2969ea3cf643172c3edd05833e9c77fc]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2015/431/regulation/48) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-2969ea3cf643172c3edd05833e9c77fc]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2015/431/regulation/48) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-5fa60309299ef4639e5c79a4c5881ada]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2015/431/regulation/49) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-5fa60309299ef4639e5c79a4c5881ada]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2015/431/regulation/49) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
 [^f00020]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-0cf92957bc988c40995f1321be1471af]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/49/4) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/2), [Sch. 1 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/30/3/a)
+[^c-0cf92957bc988c40995f1321be1471af]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/49/4) substituted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/2), [Sch. 1 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/30/3/a)
 
-[^key-40624e03dd94591af46abddfa05978bb]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/49/4) inserted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/2), [Sch. 1 para. 30(3)(b)](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/30/3/b)
+[^c-40624e03dd94591af46abddfa05978bb]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/49/4) inserted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/2), [Sch. 1 para. 30(3)(b)](https://www.legislation.gov.uk/uksi/2018/682/schedule/1/paragraph/30/3/b)
 
-[^key-8aa6729850ae2b1fe621a878e6a74d2e]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2015/431/regulation/50) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-8aa6729850ae2b1fe621a878e6a74d2e]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2015/431/regulation/50) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-67faf755320ab5aa2fcbcff1759b9e9f]: Textual amendment: Words in [reg. 50(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/50/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(16)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/16) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-67faf755320ab5aa2fcbcff1759b9e9f]: Textual amendment: Words in [reg. 50(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/50/2) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(16)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/16) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-a451a613f2444ac581e69e16a2f119f4]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2015/431/regulation/51) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-a451a613f2444ac581e69e16a2f119f4]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2015/431/regulation/51) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-9ba9ccf2769de9478883b47b989b734f]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2015/431/regulation/52) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-9ba9ccf2769de9478883b47b989b734f]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2015/431/regulation/52) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-656a7a64225d7ab28f88e358ea56de96]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2015/431/regulation/53) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-656a7a64225d7ab28f88e358ea56de96]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2015/431/regulation/53) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-b915f5e055f9a1384254ab4baa6b90e8]: Textual amendment: Words in [reg. 53(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/53/8) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(17)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/17) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b915f5e055f9a1384254ab4baa6b90e8]: Textual amendment: Words in [reg. 53(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/53/8) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(17)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/17) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-54760a1c7934c2a473037b3c3bde219b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2015/431/regulation/54) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-54760a1c7934c2a473037b3c3bde219b]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2015/431/regulation/54) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-e932ba54f2c09d59e049f57ddc02734b]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/54/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(18)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/18) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-e932ba54f2c09d59e049f57ddc02734b]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/54/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(18)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/18) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-61d336871b26d5c5259e5c52e7cbaf2d]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2015/431/regulation/55) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-61d336871b26d5c5259e5c52e7cbaf2d]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2015/431/regulation/55) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-3c2f1795337bb08d26b08119d02d456c]: Textual amendment: Words in [reg. 55(2)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/55/2/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(19)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/19) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3c2f1795337bb08d26b08119d02d456c]: Textual amendment: Words in [reg. 55(2)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/55/2/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(19)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/19) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-5fc876ff8060aaf6998615523aaa1fcf]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2015/431/regulation/56) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-5fc876ff8060aaf6998615523aaa1fcf]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2015/431/regulation/56) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-25e682dfb9652045c320d9f5b1ace623]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/56/2) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(20)(a)(i)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/20/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-25e682dfb9652045c320d9f5b1ace623]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/56/2) substituted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(20)(a)(i)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/20/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-d445e404230396e9b2587b53b9fd3ed9]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2015/431/regulation/56) inserted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(20)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/20/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-d445e404230396e9b2587b53b9fd3ed9]: Textual amendment: Words in [reg. 56](https://www.legislation.gov.uk/uksi/2015/431/regulation/56) inserted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(20)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/20/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-1f1930d05f3ad7d817e9b7029ca3ebb5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2015/431/regulation/57) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-1f1930d05f3ad7d817e9b7029ca3ebb5]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2015/431/regulation/57) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-579a8fb5ec119c34764f43ea958be3a5]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2015/431/regulation/58) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-579a8fb5ec119c34764f43ea958be3a5]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2015/431/regulation/58) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-d82177cbfd7ef7876939ee0633d2c598]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2015/431/regulation/59) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-d82177cbfd7ef7876939ee0633d2c598]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2015/431/regulation/59) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-90f6289efd98f724ff394338919a4630]: Textual amendment: Words in [reg. 59(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-90f6289efd98f724ff394338919a4630]: Textual amendment: Words in [reg. 59(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-e1206575251b70ac5a392f8d125a4e27]: Textual amendment: [Reg. 59(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-e1206575251b70ac5a392f8d125a4e27]: Textual amendment: [Reg. 59(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-d9059909cb868d7345aa4a8904e41350]: Textual amendment: Words in [reg. 59(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-d9059909cb868d7345aa4a8904e41350]: Textual amendment: Words in [reg. 59(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-7b0a1002de69a88cd2b695788cbb338f]: Textual amendment: Words in [reg. 59(6)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/6/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-7b0a1002de69a88cd2b695788cbb338f]: Textual amendment: Words in [reg. 59(6)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/6/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-654bca07fd45b078b7a2b40bb5c2f3d8]: Textual amendment: Words in [reg. 59(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/iii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-654bca07fd45b078b7a2b40bb5c2f3d8]: Textual amendment: Words in [reg. 59(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(iii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/iii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-fd9746ab0d9312bf0fa2a37d9a7cccf7]: Textual amendment: Words in [reg. 59(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-fd9746ab0d9312bf0fa2a37d9a7cccf7]: Textual amendment: Words in [reg. 59(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-a6bd7a26e558d29cf6e39db5e1d6d679]: Textual amendment: Words in [reg. 59(12)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/12/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(iv)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/iv) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-a6bd7a26e558d29cf6e39db5e1d6d679]: Textual amendment: Words in [reg. 59(12)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/59/12/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(21)(c)(iv)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/21/c/iv) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-3fb9e3a53bf41bb6e709714fa087fbae]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2015/431/regulation/60) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-3fb9e3a53bf41bb6e709714fa087fbae]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2015/431/regulation/60) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-75d1d0a3d61c8dffe4d2c127adcde9d8]: Textual amendment: Words in [reg. 60(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/60/1/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(22)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/22) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-75d1d0a3d61c8dffe4d2c127adcde9d8]: Textual amendment: Words in [reg. 60(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/60/1/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(22)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/22) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-48426a17d06301c098c62d44c70d6c21]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2015/431/regulation/61) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-48426a17d06301c098c62d44c70d6c21]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/2015/431/regulation/61) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-52666c37bc20bd9c6c9401dd1609fb8d]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/61/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(23)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/23/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-52666c37bc20bd9c6c9401dd1609fb8d]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/61/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(23)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/23/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-c20c95b8e33bf66a6f9953240673b7f6]: Textual amendment: Word in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/61/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(23)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/23/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-c20c95b8e33bf66a6f9953240673b7f6]: Textual amendment: Word in [reg. 61(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/61/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(23)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/23/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b045fa67949d4a06131614b3a009c3a2]: Textual amendment: Words in [reg. 61(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/61/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(23)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/23/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b045fa67949d4a06131614b3a009c3a2]: Textual amendment: Words in [reg. 61(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/61/3) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(23)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/23/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-03f18b5c262b71613b8f633b74785b3e]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2015/431/regulation/62) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-03f18b5c262b71613b8f633b74785b3e]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/2015/431/regulation/62) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-a228d7cf55d45935edfa58aa0637652f]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2015/431/regulation/63) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-a228d7cf55d45935edfa58aa0637652f]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2015/431/regulation/63) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-e25ac947f96ad8dda71684477dfafdb7]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2015/431/regulation/64) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-e25ac947f96ad8dda71684477dfafdb7]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2015/431/regulation/64) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-2b651e6f0d9e5d5e53f7f5fd8bf2c3e6]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2015/431/regulation/65) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-2b651e6f0d9e5d5e53f7f5fd8bf2c3e6]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/2015/431/regulation/65) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-9200c69270def4020a219dd6cbb2a785]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2015/431/regulation/66) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-9200c69270def4020a219dd6cbb2a785]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2015/431/regulation/66) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-af7f2841142c9ef373a6169bf9bb393b]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2015/431/regulation/67) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-af7f2841142c9ef373a6169bf9bb393b]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/2015/431/regulation/67) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-4eb393be6b85defc272eb40afbfb9e50]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2015/431/regulation/68) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-4eb393be6b85defc272eb40afbfb9e50]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/2015/431/regulation/68) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-3d7351ecc0f21b8bb8e2377d45d568e4]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2015/431/regulation/69) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-3d7351ecc0f21b8bb8e2377d45d568e4]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/2015/431/regulation/69) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-02be2ba8bf495b434300e3f6897c815e]: Textual amendment: Word in [reg. 69(7)](https://www.legislation.gov.uk/uksi/2015/431/regulation/69/7) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(24)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/24) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-02be2ba8bf495b434300e3f6897c815e]: Textual amendment: Word in [reg. 69(7)](https://www.legislation.gov.uk/uksi/2015/431/regulation/69/7) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(24)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/24) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-d03d6fd38897d2a3ee3b43d1dc798d87]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2015/431/regulation/70) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-d03d6fd38897d2a3ee3b43d1dc798d87]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/2015/431/regulation/70) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-99984c9d68dbb7ce9c220dceba8a982f]: Textual amendment: Word in [reg. 70(4)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/70/4/b) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(24)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/24) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-99984c9d68dbb7ce9c220dceba8a982f]: Textual amendment: Word in [reg. 70(4)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/70/4/b) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(24)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/24) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-8a8bdfc421ed285ce2c28d4703484903]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2015/431/regulation/71) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-8a8bdfc421ed285ce2c28d4703484903]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/2015/431/regulation/71) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-1a93b919158654a0962c7b3b6fae5b7f]: Textual amendment: Words in [reg. 71(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(25)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/25/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-1a93b919158654a0962c7b3b6fae5b7f]: Textual amendment: Words in [reg. 71(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/1) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(25)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/25/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-71d759229c9d1d7c361fd1e83425e3a2]: Textual amendment: [Reg. 71(2A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/2A)[(2B)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/2B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(25)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/25/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-71d759229c9d1d7c361fd1e83425e3a2]: Textual amendment: [Reg. 71(2A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/2A)[(2B)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/2B) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(25)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/25/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b18e69ee4ea3a9bdbef3a4e8588bf2b6]: Textual amendment: Words in [reg. 71(5)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/5/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(25)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/25/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b18e69ee4ea3a9bdbef3a4e8588bf2b6]: Textual amendment: Words in [reg. 71(5)(a)](https://www.legislation.gov.uk/uksi/2015/431/regulation/71/5/a) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(25)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/25/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-adbfd8887306fc26621013eb676579c3]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2015/431/regulation/72) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-adbfd8887306fc26621013eb676579c3]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2015/431/regulation/72) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-5f564022612a3b070a359d3b1c8ac38f]: Textual amendment: Word in [reg. 72(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/5) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-5f564022612a3b070a359d3b1c8ac38f]: Textual amendment: Word in [reg. 72(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/5) omitted (8.1.2018) by virtue of [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-d33dcd1dde30b01e84eb02567289266b]: Textual amendment: Words in [reg. 72(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-d33dcd1dde30b01e84eb02567289266b]: Textual amendment: Words in [reg. 72(5)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/5) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-a64a2f4967ac37a84dd4b9a0cc898be6]: Textual amendment: Words in [reg. 72(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/6) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-a64a2f4967ac37a84dd4b9a0cc898be6]: Textual amendment: Words in [reg. 72(6)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/6) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-5fea4ef055e7f62452f3ffca067f9646]: Textual amendment: Words in [reg. 72(7)(c)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/7/c) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-5fea4ef055e7f62452f3ffca067f9646]: Textual amendment: Words in [reg. 72(7)(c)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/7/c) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-1ffaf87e96718d34a1c78e18aed181b9]: Textual amendment: [Reg. 72(7A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/7A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-1ffaf87e96718d34a1c78e18aed181b9]: Textual amendment: [Reg. 72(7A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/7A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-ffb7fcf6961aef3f4577c49e0d95c7fc]: Textual amendment: Words in [reg. 72(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(e)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/e) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-ffb7fcf6961aef3f4577c49e0d95c7fc]: Textual amendment: Words in [reg. 72(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/72/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(26)(e)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/26/e) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b8803c237ba8f955962e3586a4a57d40]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2015/431/regulation/73) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-b8803c237ba8f955962e3586a4a57d40]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/2015/431/regulation/73) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-3b91bed8152dcc74ab6141aca19268d7]: Textual amendment: Words in [reg. 73(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/1/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3b91bed8152dcc74ab6141aca19268d7]: Textual amendment: Words in [reg. 73(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/1/b) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-3e2f977bc12e642e2f8d38c54eae56d5]: Textual amendment: Words in [reg. 73(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3e2f977bc12e642e2f8d38c54eae56d5]: Textual amendment: Words in [reg. 73(2)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/2) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-b3d93d574cde537c58fcabdd742de1e6]: Textual amendment: Words in [reg. 73(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-b3d93d574cde537c58fcabdd742de1e6]: Textual amendment: Words in [reg. 73(8)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/8) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-4f7e25c5fc93e015123b2668583cd238]: Textual amendment: Word in [reg. 73(15)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/15) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-4f7e25c5fc93e015123b2668583cd238]: Textual amendment: Word in [reg. 73(15)](https://www.legislation.gov.uk/uksi/2015/431/regulation/73/15) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(27)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/27/c) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-5acfce73b8eede239ded7445049ca9fc]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2015/431/regulation/74) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-5acfce73b8eede239ded7445049ca9fc]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2015/431/regulation/74) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-5947c037b39c8686d8cf03f3b7df0b99]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2015/431/regulation/75) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-5947c037b39c8686d8cf03f3b7df0b99]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2015/431/regulation/75) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-17b6ccb1a96ab59f58c75013a25a0810]: Textual amendment: Word in [reg. 75(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(28)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-17b6ccb1a96ab59f58c75013a25a0810]: Textual amendment: Word in [reg. 75(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(28)(a)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/a) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-f3115c5a5d13e2b813431ee6f6fadfa6]: Textual amendment: [Reg. 75(2A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/2A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(28)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-f3115c5a5d13e2b813431ee6f6fadfa6]: Textual amendment: [Reg. 75(2A)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/2A) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(28)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
 [^M_F_1ad318de-02e6-4dce-e78a-5a50f16de70c]: Textual amendment: [Reg. 75(3)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/3): By [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [reg. 33(28)(c)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/c), it is provided that (8.1.2018) the words “paragraph (2) or completing one under paragraph (2A)” are substituted for the words “this paragraph"
 
-[^key-ae04c5e69ff5dc52db0e37697c5e00a4]: Textual amendment: Words in [reg. 75(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(28)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-ae04c5e69ff5dc52db0e37697c5e00a4]: Textual amendment: Words in [reg. 75(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/75/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(28)(d)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/28/d) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-f019483e252541b1ed66a15d7e6959be]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2015/431/regulation/76) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-f019483e252541b1ed66a15d7e6959be]: Commencement: [Reg. 76](https://www.legislation.gov.uk/uksi/2015/431/regulation/76) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-8360b10f03701490235871176312bb53]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2015/431/regulation/77) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-8360b10f03701490235871176312bb53]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2015/431/regulation/77) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-e7ec58e6c0aed2e153e3e1ed8391a4c8]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2015/431/regulation/78) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-e7ec58e6c0aed2e153e3e1ed8391a4c8]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2015/431/regulation/78) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-ce4a0e198d7191ccc6e0078872c9dd67]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2015/431/regulation/79) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-ce4a0e198d7191ccc6e0078872c9dd67]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2015/431/regulation/79) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-54dfea6c95ce26bd5dcc80e783621e64]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2015/431/regulation/80) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-54dfea6c95ce26bd5dcc80e783621e64]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/2015/431/regulation/80) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-acbbec951a465e1d324d778f4fc38988]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2015/431/regulation/81) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-acbbec951a465e1d324d778f4fc38988]: Commencement: [Reg. 81](https://www.legislation.gov.uk/uksi/2015/431/regulation/81) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-3f20bf8e267e545dfcb1f21c34b4e472]: Textual amendment: Words in [reg. 81(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-3f20bf8e267e545dfcb1f21c34b4e472]: Textual amendment: Words in [reg. 81(1)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/1) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/a/i) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-c30ab37a894353ae388210a76b1ac6cb]: Textual amendment: Words in [reg. 81(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-c30ab37a894353ae388210a76b1ac6cb]: Textual amendment: Words in [reg. 81(1)(b)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/1/b) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/a/ii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-4c2de0751aeb426d1d64ac4b2dd4109b]: Textual amendment: Words in [reg. 81(1)(c)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/1/c) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/a/iii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-4c2de0751aeb426d1d64ac4b2dd4109b]: Textual amendment: Words in [reg. 81(1)(c)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/1/c) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(a)(iii)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/a/iii) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-397a1c58a243af996d3bccf3757a5620]: Textual amendment: Words in [reg. 81(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-397a1c58a243af996d3bccf3757a5620]: Textual amendment: Words in [reg. 81(4)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/4) inserted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(29)(b)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/29/b) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-e58e329430551827d5f93636581862d6]: Textual amendment: Words in [reg. 81(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/5/c/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-e58e329430551827d5f93636581862d6]: Textual amendment: Words in [reg. 81(5)(c)(iv)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/5/c/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-319b15277e9262f28487ed4718b529b9]: Textual amendment: Words in [reg. 81(5)(f)(iv)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/5/f/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
+[^c-319b15277e9262f28487ed4718b529b9]: Textual amendment: Words in [reg. 81(5)(f)(iv)](https://www.legislation.gov.uk/uksi/2015/431/regulation/81/5/f/iv) substituted (8.1.2018) by [The Independent Office for Police Conduct (Transitional and Consequential) Regulations 2017 (S.I. 2017/1250)](https://www.legislation.gov.uk/uksi/2017/1250), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1250/regulation/1), [33(13)](https://www.legislation.gov.uk/uksi/2017/1250/regulation/33/13) (with [reg. 37](https://www.legislation.gov.uk/uksi/2017/1250/regulation/37))
 
-[^key-a5044a005d3a16854f6f9c157a2451f6]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2015/431/regulation/82) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-a5044a005d3a16854f6f9c157a2451f6]: Commencement: [Reg. 82](https://www.legislation.gov.uk/uksi/2015/431/regulation/82) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-10173f4d5333d5504fc8a4ac4313e8c9]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2015/431/regulation/83) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-10173f4d5333d5504fc8a4ac4313e8c9]: Commencement: [Reg. 83](https://www.legislation.gov.uk/uksi/2015/431/regulation/83) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-81c144d263261919f99dba3018b7689d]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2015/431/regulation/84) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-81c144d263261919f99dba3018b7689d]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2015/431/regulation/84) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-fb06ae2483248b7781f27e3eb75092a9]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2015/431/regulation/85) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-fb06ae2483248b7781f27e3eb75092a9]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2015/431/regulation/85) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-031eebfce6a0f199d12098ee89a0e1c0]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2015/431/regulation/86) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-031eebfce6a0f199d12098ee89a0e1c0]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2015/431/regulation/86) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-cce870d4ae070636f1817c3f6cdf3b59]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2015/431/regulation/87) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-cce870d4ae070636f1817c3f6cdf3b59]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/2015/431/regulation/87) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-237850967927bf220fdf4b733047fb98]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2015/431/regulation/88) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-237850967927bf220fdf4b733047fb98]: Commencement: [Reg. 88](https://www.legislation.gov.uk/uksi/2015/431/regulation/88) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-1c7ee76a54d6613e0a589ed5a87e8c75]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2015/431/regulation/89) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-1c7ee76a54d6613e0a589ed5a87e8c75]: Commencement: [Reg. 89](https://www.legislation.gov.uk/uksi/2015/431/regulation/89) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-964e9a946688f976ff002a4697fad181]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2015/431/regulation/90) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-964e9a946688f976ff002a4697fad181]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/2015/431/regulation/90) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
-[^key-e6d5b804c15e40fa7de2d891e7095be0]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2015/431/regulation/91) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-e6d5b804c15e40fa7de2d891e7095be0]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2015/431/regulation/91) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
 
 [^f00022]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
-[^key-228b817973afa3dc5096a961613ed37c]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/431/schedule) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)
+[^c-228b817973afa3dc5096a961613ed37c]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/431/schedule) in force at 8.4.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/431/regulation/1)

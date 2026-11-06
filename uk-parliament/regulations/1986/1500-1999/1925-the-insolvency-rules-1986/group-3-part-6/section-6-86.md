@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.86. Venue of meetings[^key-ca98a9c20d523f6634c8231d8b687dc5]
+## 6.86. Venue of meetings[^c-ca98a9c20d523f6634c8231d8b687dc5]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ca98a9c20d523f6634c8231d8b687dc5]: Commencement: [Rule 6.86](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.86) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ca98a9c20d523f6634c8231d8b687dc5]: Commencement: [Rule 6.86](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.86) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00157]: Marginal citation: \[FORM 8.5\]

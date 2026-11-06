@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## H5. Former employees of Manchester Corporation[^key-e2041a922c252d1b15f81a3c5f10b6aa]
+## H5. Former employees of Manchester Corporation[^c-e2041a922c252d1b15f81a3c5f10b6aa]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ TABLE
 
 ## Annotations
 
-[^key-e2041a922c252d1b15f81a3c5f10b6aa]: Commencement: [Reg. H5](https://www.legislation.gov.uk/uksi/1986/24/regulation/H5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-e2041a922c252d1b15f81a3c5f10b6aa]: Commencement: [Reg. H5](https://www.legislation.gov.uk/uksi/1986/24/regulation/H5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

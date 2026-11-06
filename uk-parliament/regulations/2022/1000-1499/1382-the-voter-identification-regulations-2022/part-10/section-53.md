@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendment of Schedule 4 (application, with modifications, of Acts and subordinate legislation)[^key-80fcd712eef893ef0d844efac65e9f95]
+## 53. Amendment of Schedule 4 (application, with modifications, of Acts and subordinate legislation)[^c-80fcd712eef893ef0d844efac65e9f95]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80fcd712eef893ef0d844efac65e9f95]: Commencement: Reg. 53 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-80fcd712eef893ef0d844efac65e9f95]: Commencement: Reg. 53 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

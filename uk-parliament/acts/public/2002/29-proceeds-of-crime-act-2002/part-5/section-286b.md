@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 286B. Legal expenses: regulations for purposes of section 266(8B) or 286A(3)[^key-254ab2df7ad578c998489f72c6be75f8]
+## 286B. Legal expenses: regulations for purposes of section 266(8B) or 286A(3)[^c-254ab2df7ad578c998489f72c6be75f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-254ab2df7ad578c998489f72c6be75f8]: Textual amendment: Ss. 286A, 286B inserted (1.8.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/20); [S.I. 2005/2026](https://www.legislation.gov.uk/uksi/2005/2026), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2026/article/2/b)
+[^c-254ab2df7ad578c998489f72c6be75f8]: Textual amendment: Ss. 286A, 286B inserted (1.8.2005) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2005/15/schedule/6/paragraph/20); [S.I. 2005/2026](https://www.legislation.gov.uk/uksi/2005/2026), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/2026/article/2/b)

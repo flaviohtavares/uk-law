@@ -44,17 +44,17 @@ Coming into force
 
 Whereas the Secretary of State is a Minister designated[^f00001] for the purpose of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the safety of ships, and the health and safety of persons on them;
 
-And whereas, in so far as the following Regulations are made in the exercise of powers conferred by section 55 and section 85 of the Merchant Shipping Act 1995[^f00003], the Secretary of State has in pursuance of subsection (4) of section 86 of that Act consulted persons he considers will be affected as mentioned in that subsection;[^key-152f4445ccafd54a51044c5e5e8d0b87]
+And whereas, in so far as the following Regulations are made in the exercise of powers conferred by section 55 and section 85 of the Merchant Shipping Act 1995[^f00003], the Secretary of State has in pursuance of subsection (4) of section 86 of that Act consulted persons he considers will be affected as mentioned in that subsection;[^c-152f4445ccafd54a51044c5e5e8d0b87]
 
-Now, therefore, the Secretary of State, in exercise of the powers conferred by the said section 2(2) of the European Communities Act 1972, and by section 55(2)(b), 85(1)(a) and (b), (3), (5) to (7) and 86(1) of the Merchant Shipping Act 1995 and of all other powers enabling him on that behalf, hereby makes the following Regulations:[^key-152f4445ccafd54a51044c5e5e8d0b87]
+Now, therefore, the Secretary of State, in exercise of the powers conferred by the said section 2(2) of the European Communities Act 1972, and by section 55(2)(b), 85(1)(a) and (b), (3), (5) to (7) and 86(1) of the Merchant Shipping Act 1995 and of all other powers enabling him on that behalf, hereby makes the following Regulations:[^c-152f4445ccafd54a51044c5e5e8d0b87]
 
-## 1. Citation, commencement and revocations[^key-6ba602c65b5b1595742932ed5e77d2e9]
+## 1. Citation, commencement and revocations[^c-6ba602c65b5b1595742932ed5e77d2e9]
 
 (1) These Regulations may be cited as the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Employment of Young Persons) Regulations 1998 and shall come into force on 30th October 1998.
 
 (2) The Merchant Shipping (Employment of Young Persons) Regulations 1995[^f00004] are hereby revoked.
 
-## 2. Interpretation[^key-c205dd5c9d9766dad8e76900ddd18e83]
+## 2. Interpretation[^c-c205dd5c9d9766dad8e76900ddd18e83]
 
 (1) In these Regulations, except where the context otherwise requires, any reference to–
 
@@ -64,7 +64,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 (2) In these Regulations–
 
 - “the Act” means the Merchant Shipping Act 1995;
-- “the CLP Regulation means Regulation[^key-1f15d6e46ba32b11e7d62dad570cb8bc] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- “the CLP Regulation means Regulation[^c-1f15d6e46ba32b11e7d62dad570cb8bc] [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives [67/548/EEC](https://www.legislation.gov.uk/european/directive/1967/0548) and [1999/45/EC](https://www.legislation.gov.uk/european/directive/1999/0045) and amending Regulation [(EC) No. 1907/2006](https://www.legislation.gov.uk/european/regulation/2006/1907), of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
 - “collective agreement” means a collective agreement within the meaning of section 178 of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00005], the trade union parties to which are independent trade unions within the meaning of section 5 of that Act;
 - “Company” in relation to a ship to which these Regulations apply, means the owner of the ship or any other organisation or person such as the manager, or bareboat charterer, who has assumed the responsibility for operation of the ship from the owner;
 - “competent person” means a person who has sufficient training and experience or knowledge and other qualities, to enable him properly to undertake the duty imposed under the relevant provision in these Regulations;
@@ -89,7 +89,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 - “trainees and apprentices” does not include trainees on a sail training vessel;
 - “United Kingdom ship” means a ship which–
   - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
-  - (b) [^key-428f945b34763268bab9a443b761c0df]...
+  - (b) [^c-428f945b34763268bab9a443b761c0df]...
   - (c) is a hovercraft registered under the Hovercraft Act 1968[^f00010];
 - “week” means a period of 7 days starting at midnight on Sunday;
 - “worker” means any person who is employed by an employer under a contract of employment, including trainees and apprentices;
@@ -99,13 +99,13 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
   - (b) any additional period which is to be treated as working time for the purpose of these Regulations under a relevant agreement;
 
   and “work” shall be construed accordingly;
-- “young person” means—[^key-3fcbe74be65f0c64c7864ff126888da7]
+- “young person” means—[^c-3fcbe74be65f0c64c7864ff126888da7]
   - (a) in relation to employment on a sea-going United Kingdom ship, any person who is of the age of 16 or 17; or
   - (b) in relation to employment on any other United Kingdom ship, any person who is under the age of 18 and, in Great Britain is over school-leaving age for the purposes of section 55 of the Act or, in Northern Ireland, is over compulsory school age within the meaning in Article 46 of the Education and Libraries (Northern Ireland) Order 1986.
 
-(3)[^key-6d8672dc1e18bdf0d7e335f8a0b9579f] Subject to paragraph (2), words and expressions used in the Regulations shall have the same meaning as in Council Directive [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33) on the protection of young people at work, as it had effect immediately before IP completion day.
+(3)[^c-6d8672dc1e18bdf0d7e335f8a0b9579f] Subject to paragraph (2), words and expressions used in the Regulations shall have the same meaning as in Council Directive [94/33/EC](https://www.legislation.gov.uk/eudr/1994/33) on the protection of young people at work, as it had effect immediately before IP completion day.
 
-## 3. Application and exemption[^key-33fa07e28ad4e3b4c51aa029f2d85865]
+## 3. Application and exemption[^c-33fa07e28ad4e3b4c51aa029f2d85865]
 
 (1) Subject to paragraph (3), these Regulations shall apply to all activities of young persons engaged as workers on United Kingdom ships.
 
@@ -119,13 +119,13 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
   - (ii) adult workers are not available, and
   - (iii) the young persons affected are allowed equivalent compensatory rest time within the following three weeks.
 
-## 4. Persons on whom duties are imposed[^key-d6976ecadd4a325d99ce913e66a016d1]
+## 4. Persons on whom duties are imposed[^c-d6976ecadd4a325d99ce913e66a016d1]
 
 (1) Except where a duty is imposed on any other person, it shall be the duty of every employer to comply with the provisions of these Regulations.
 
 (2) Where a person on whom a duty is imposed by any provision of these Regulations does not have control of the matter to which the regulation relates because he does not have responsibility for the operation of the ship, then any duty imposed by that regulation shall also extend to any person who has control of that matter.
 
-## 5. Additional general duties[^key-ad8bd2ea014c651ff8cfc443bb399f86]
+## 5. Additional general duties[^c-ad8bd2ea014c651ff8cfc443bb399f86]
 
 (1) In addition to the duties contained in the General Duties Regulations, appropriate measures shall be taken to protect young persons at work from the risks to their health and safety which are a consequence of their lack of experience, or absence of awareness of existing or potential risks or the fact that young persons have not yet fully matured.
 
@@ -163,7 +163,7 @@ Now, therefore, the Secretary of State, in exercise of the powers conferred by t
 
 and in such a case the duty shall be to ensure so far as is reasonably practicable the health and safety of the young person when performing that activity.
 
-## 6. Rest periods for young persons[^key-ae9e692c82dbbefcce61e7d32ffe251f]
+## 6. Rest periods for young persons[^c-ae9e692c82dbbefcce61e7d32ffe251f]
 
 (1) Where a young person is engaged as a worker on any ship, he shall be provided with–
 
@@ -183,9 +183,9 @@ and in such a case the duty shall be to ensure so far as is reasonably practicab
   - (i) may be interrupted in the case of activities involving periods of work that are split up over the day or of short duration; and
   - (ii) may be reduced to a period which is not less than 36 hours where this is justified by technical or organisational reasons.
 
-(6)[^key-175386e931b7b9160c1c83abdd381e95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-175386e931b7b9160c1c83abdd381e95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) [^key-76671af8f8694e03c9a76fa9f9ad0de3]... young persons may be permitted to work during the rest periods required by paragraph (1)(b) provided that–
+(7) [^c-76671af8f8694e03c9a76fa9f9ad0de3]... young persons may be permitted to work during the rest periods required by paragraph (1)(b) provided that–
 
 - (a) such hours are provided for in a relevant agreement;
 - (b) they are allowed compensatory rest time; and
@@ -195,7 +195,7 @@ and in such a case the duty shall be to ensure so far as is reasonably practicab
 
 (9) Where a young person is engaged as a worker on a fishing vessel, paragraphs (1) to (8) shall not apply, but he shall be provided with compensatory rest periods which are as long as those that the young person would have been entitled to had paragraph (1) applied to him.
 
-## 7. Health assessment[^key-8acdc271f720facaac1e2bfd5c5dc0fb]
+## 7. Health assessment[^c-8acdc271f720facaac1e2bfd5c5dc0fb]
 
 (1) Without prejudice to regulation 11 of the General Duties Regulations–
 
@@ -206,11 +206,11 @@ no young person shall be engaged as a worker unless he has been provided with a 
 
 (2) The requirement for health assessments in the case within paragraph (1)(b) shall not apply where the only night work carried out is of an exceptional nature.
 
-## 8. Young persons' medical certificates[^key-51a60de8216ded61224c9b3f97e25ce7]
+## 8. Young persons' medical certificates[^c-51a60de8216ded61224c9b3f97e25ce7]
 
 (1) Without prejudice to the provisions of the Merchant Shipping (Medical Examination) Regulations 1983[^f00017] and subject to paragraphs (2) and (3), no young person shall be engaged as a worker in any capacity in a ship unless there has been delivered to the master of the ship a certificate granted by a duly qualified medical practitioner certifying that the young person is fit to be engaged in that capacity.
 
-- In this paragraph, “duly qualified medical practitioner” means a person who is a fully registered person within the meaning of section 55 of the Medical Act 1983[^f00018] who holds a licence to practise[^key-564bb495757e01aaac0a717730c64a4f].
+- In this paragraph, “duly qualified medical practitioner” means a person who is a fully registered person within the meaning of section 55 of the Medical Act 1983[^f00018] who holds a licence to practise[^c-564bb495757e01aaac0a717730c64a4f].
 
 (2) Paragraph (1) shall not apply in the case of engagement as a worker in a ship in which only members of the same family are employed.
 
@@ -218,7 +218,7 @@ no young person shall be engaged as a worker unless he has been provided with a 
 
 (4) A certificate shall be effective for the purposes of this regulation for a period of twelve months from the date on which it is granted and no longer, but if the period of twelve months expires during a voyage in which the young person is engaged as a worker in the ship, the certificate shall remain effective until the next port of call where there is a duly qualified medical practitioner.
 
-## 9. Record of young persons[^key-9291d561036707f7615ca7ea3945e42e]
+## 9. Record of young persons[^c-9291d561036707f7615ca7ea3945e42e]
 
 (1) There shall be included in every crew agreement a list of the young persons who are engaged as workers on the ship, together with particulars of their dates of birth.
 
@@ -226,11 +226,11 @@ no young person shall be engaged as a worker unless he has been provided with a 
 
 (3) In the case of a ship in which there is no crew agreement, the master of the ship shall if young persons are engaged as workers on the ship, keep a register of those persons with particulars of their dates of birth and of the dates on which they became engaged as workers on the ship.
 
-## 10. Penalties[^key-92a4a5f285dcf93c6b307a03cbfd1968]
+## 10. Penalties[^c-92a4a5f285dcf93c6b307a03cbfd1968]
 
 Any contravention of these Regulations shall be an offence punishable on summary conviction by a fine not exceeding level 3 on the standard scale.
 
-## 11. Offences by body corporate and partnerships[^key-7099f2b64b7239c11cc37694c513e81b]
+## 11. Offences by body corporate and partnerships[^c-7099f2b64b7239c11cc37694c513e81b]
 
 (1) Where a body corporate is guilty of an offence under any of these Regulations and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or a person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -238,15 +238,15 @@ Any contravention of these Regulations shall be an offence punishable on summary
 
 (3) Where an offence under any of these regulations committed by a Scottish partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership is guilty of an offence and liable to be proceeded against and punished accordingly.
 
-## 12. Onus of proving what is reasonably practicable[^key-3bbeb220a1a2e4ca2de65c8625058fc0]
+## 12. Onus of proving what is reasonably practicable[^c-3bbeb220a1a2e4ca2de65c8625058fc0]
 
 In any proceedings for an offence under any of these Regulations consisting of a failure to comply with a duty or requirement to do something so far as is reasonably practicable, it shall be for the defendant to prove that it was not reasonably practicable to do more than was in fact done to satisfy the duty or requirement.
 
-## 13. Inspection and detention of a United Kingdom ship[^key-91613d97b30768ac32932f9a99398d97]
+## 13. Inspection and detention of a United Kingdom ship[^c-91613d97b30768ac32932f9a99398d97]
 
 A relevant inspector may inspect any United Kingdom ship and if he is satisfied that there has been a failure to comply in relation to that ship with the requirements of these Regulations may detain the ship until the health and safety of all young persons aboard the ship is secured, but shall not in the exercise of these powers detain or delay the ship unreasonably.
 
-## 14. Inspection, detention and other measures in respect of ships registered outside the United Kingdom[^key-52737d9f6bd6ada765bc9538fa90b5b3]
+## 14. Inspection, detention and other measures in respect of ships registered outside the United Kingdom[^c-52737d9f6bd6ada765bc9538fa90b5b3]
 
 (1) A relevant inspector may inspect any ship which is not a United Kingdom ship when the ship is in United Kingdom waters, and if satisfied that the ship does not conform to the standards required of United Kingdom ships by these Regulations, may–
 
@@ -261,15 +261,15 @@ A relevant inspector may inspect any United Kingdom ship and if he is satisfied 
 
 (4) The relevant inspector shall not in exercise of his power under this regulation detain or delay the ship unreasonably.
 
-## 15. Enforcement of detention[^key-58916327ec2528c641b4cd7251fe0cf5]
+## 15. Enforcement of detention[^c-58916327ec2528c641b4cd7251fe0cf5]
 
 Where a ship is liable to be detained under these Regulations, section 284(1) to (5) and (8) of the Act (which relates to the detention of the ship) shall apply as if for the words “this Act”, wherever they appear, there were substituted “the Merchant Shipping and Fishing Vessels (Health and Safety) (Employment of Young Persons) Regulations 1998”.
 
-## 16. Compensation[^key-168fac9fdc879d13ed230eab3eb06524]
+## 16. Compensation[^c-168fac9fdc879d13ed230eab3eb06524]
 
 Sections 96 and 97 of the Act (Arbitration and Compensation) shall apply in relation to a detention notice or order under these Regulations as they apply to a detention notice under section 95(3) of the Act and in such application, “relevant inspector” means a person making an inspection under these Regulations.
 
-## 17. Miscellaneous amendments[^key-c64a986e948ba847b51ff6444725e0b3]
+## 17. Miscellaneous amendments[^c-c64a986e948ba847b51ff6444725e0b3]
 
 The General Duties Regulations shall be amended as follows–
 
@@ -300,18 +300,18 @@ Regulation 5
 
 ### I — Agents
 
-#### 1. Physical agents[^key-68525eab037a7c0ba1d0fadff0d921c8]
+#### 1. Physical agents[^c-68525eab037a7c0ba1d0fadff0d921c8]
 
 - (a) Ionising radiation;
 - (b) Work in a high pressure atmosphere, eg in pressurised containers, diving.
 
-#### 2. Biological agents[^key-d46166f4327a8d1b0a68d81c887151de][^key-44b26ff17204e03ede9b385222432d24]
+#### 2. Biological agents[^c-d46166f4327a8d1b0a68d81c887151de][^c-44b26ff17204e03ede9b385222432d24]
 
 - (a) Biological agents which are group 3 biological agents or group 4 biological agents, as defined in the Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Biological Agents) Regulations 2010.
 
-#### 3. Chemical Agents[^key-2ce8cbaf773f1474f56c40a5f59ae26b]
+#### 3. Chemical Agents[^c-2ce8cbaf773f1474f56c40a5f59ae26b]
 
-- (a)[^key-7a8d43805b2e5c974a6bc9b4295c2359] Substances and mixtures which meet the criteria for classification under Annex I to[^key-924246ee36ca8d91b9d83a3d883af2da] the CLP Regulation in one or more of the following hazard classes and hazard categories with one or more of the following hazard statements:
+- (a)[^c-7a8d43805b2e5c974a6bc9b4295c2359] Substances and mixtures which meet the criteria for classification under Annex I to[^c-924246ee36ca8d91b9d83a3d883af2da] the CLP Regulation in one or more of the following hazard classes and hazard categories with one or more of the following hazard statements:
   - acute toxicity, category 1, 2 or 3 (H300, H310, H330, H301, H311, H331);
   - skin corrosion, category 1A, 1B or 1C (H314);
   - flammable gas, category 1 or 2 (H220, H221);
@@ -327,31 +327,31 @@ Regulation 5
   - carcinogenicity, category 1A, 1B or 2 (H350, H350i, H351);
   - germ cell mutagenicity, category 1A, 1B or 2 (H340, H341);
   - reproductive toxicity, category 1A or 1B (H360, H360F, H360FD, H360Fd, H360D, H360Df);
-- (b)[^key-5617c11e5ab72c49561e86be3ade8eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-5617c11e5ab72c49561e86be3ade8eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-ff9e2dfcbae7e51b204ae67bb9cf1567] Substances and mixtures referred to in point (ii) of point (a) of Article 2 of [Directive 2004/37/EC](https://www.legislation.gov.uk/european/directive/2004/0037) of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Sixth individual Directive within the meaning of Article 16(1) of Council [Directive 89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391));
+- (b)[^c-5617c11e5ab72c49561e86be3ade8eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-5617c11e5ab72c49561e86be3ade8eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-ff9e2dfcbae7e51b204ae67bb9cf1567] Substances and mixtures referred to in point (ii) of point (a) of Article 2 of [Directive 2004/37/EC](https://www.legislation.gov.uk/european/directive/2004/0037) of the European Parliament and of the Council of 29 April 2004 on the protection of workers from the risks related to exposure to carcinogens or mutagens at work (Sixth individual Directive within the meaning of Article 16(1) of Council [Directive 89/391/EEC](https://www.legislation.gov.uk/european/directive/1989/0391));
 - (e) Lead and compounds thereof, inasmuch as the agents in question are absorbable by the human organism;
 - (f) asbestos.
 
 ### II — Processes and work
 
-**1.**[^key-654e4fc3c3268cdb3c6db8b9fef871c0] Processes at work referred to in Annex I to Directive [Directive 2004/37/EC](https://www.legislation.gov.uk/european/directive/2004/0037)[^key-3666a3aa9a40cf8f001e0c86312cabf7].
+**1.**[^c-654e4fc3c3268cdb3c6db8b9fef871c0] Processes at work referred to in Annex I to Directive [Directive 2004/37/EC](https://www.legislation.gov.uk/european/directive/2004/0037)[^c-3666a3aa9a40cf8f001e0c86312cabf7].
 
-**2.**[^key-bee6445331c45a8dc657bddd6a1b0d4b] Manufacture and handling of devices, fireworks or other objects containing explosives.
+**2.**[^c-bee6445331c45a8dc657bddd6a1b0d4b] Manufacture and handling of devices, fireworks or other objects containing explosives.
 
-**3.**[^key-0a1e2d262b8beb8b9c629396e83eefbc] Work with fierce or poisonous animals.
+**3.**[^c-0a1e2d262b8beb8b9c629396e83eefbc] Work with fierce or poisonous animals.
 
-**4.**[^key-755065f33c19ec16be18170cefe2d3c6] Animal slaughtering on an industrial scale.
+**4.**[^c-755065f33c19ec16be18170cefe2d3c6] Animal slaughtering on an industrial scale.
 
-**5.**[^key-8b7b67ef9d241a0726778ad8d704a90c] Work involving the handling or equipment for the production, storage or application of compressed, liquefied or dissolved gases.
+**5.**[^c-8b7b67ef9d241a0726778ad8d704a90c] Work involving the handling or equipment for the production, storage or application of compressed, liquefied or dissolved gases.
 
-**6.**[^key-64ed52ea355e343ce8f510d7a8e0291b] Work with vats, tanks, reservoirs or carboys containing chemical agents referred to in paragraph 1.3.
+**6.**[^c-64ed52ea355e343ce8f510d7a8e0291b] Work with vats, tanks, reservoirs or carboys containing chemical agents referred to in paragraph 1.3.
 
-**7.**[^key-8e0dc9ff7889b0feb2085f8adfbec246] Work involving a risk of structural collapse.
+**7.**[^c-8e0dc9ff7889b0feb2085f8adfbec246] Work involving a risk of structural collapse.
 
-**8.**[^key-4dc2c237f18178bf63e63352e2311365] Work involving high-voltage electrical hazards.
+**8.**[^c-4dc2c237f18178bf63e63352e2311365] Work involving high-voltage electrical hazards.
 
-**9.**[^key-5d56010d040d41e9b7f904b197bd711b] Work the pace of which is determined by machinery and involving payment by results.
+**9.**[^c-5d56010d040d41e9b7f904b197bd711b] Work the pace of which is determined by machinery and involving payment by results.
 
 (This note is not part of the Regulations)
 
@@ -387,15 +387,15 @@ These regulations are made under powers contained in the Merchant Shipping Act 1
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21); sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 8, and are applied to hovercraft by the Hovercraft (Application and Enactments) Order 1989 (S.I. [1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-152f4445ccafd54a51044c5e5e8d0b87]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2411) continued (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/1614/regulation/16)
+[^c-152f4445ccafd54a51044c5e5e8d0b87]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2411) continued (7.8.2014) by [The Merchant Shipping (Maritime Labour Convention) (Consequential and Minor Amendments) Regulations 2014 (S.I. 2014/1614)](https://www.legislation.gov.uk/uksi/2014/1614), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1614/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/1614/regulation/16)
 
-[^key-6ba602c65b5b1595742932ed5e77d2e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-6ba602c65b5b1595742932ed5e77d2e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1995/972](https://www.legislation.gov.uk/uksi/1995/972).
 
-[^key-c205dd5c9d9766dad8e76900ddd18e83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-c205dd5c9d9766dad8e76900ddd18e83]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-1f15d6e46ba32b11e7d62dad570cb8bc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/2)
+[^c-1f15d6e46ba32b11e7d62dad570cb8bc]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/2)
 
 [^f00005]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
@@ -407,59 +407,59 @@ These regulations are made under powers contained in the Merchant Shipping Act 1
 
 [^f00009]: Footnote: Published by The Stationery Office in 1997 (ISBN 0–11–551911–4).
 
-[^key-428f945b34763268bab9a443b761c0df]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/2) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-428f945b34763268bab9a443b761c0df]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/2) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^f00010]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
 [^f00011]: Footnote: S.I. [1998/1833](https://www.legislation.gov.uk/uksi/1998/1833).
 
-[^key-3fcbe74be65f0c64c7864ff126888da7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/2) substituted (7.7.2002) by [The Merchant Shipping (Hours of Work) Regulations 2002 (S.I. 2002/2125)](https://www.legislation.gov.uk/uksi/2002/2125), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2125/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2002/2125/schedule/2/paragraph/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/2125/regulation/3))
+[^c-3fcbe74be65f0c64c7864ff126888da7]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/2) substituted (7.7.2002) by [The Merchant Shipping (Hours of Work) Regulations 2002 (S.I. 2002/2125)](https://www.legislation.gov.uk/uksi/2002/2125), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2125/regulation/1), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2002/2125/schedule/2/paragraph/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/2125/regulation/3))
 
-[^key-6d8672dc1e18bdf0d7e335f8a0b9579f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/3) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/2) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d8672dc1e18bdf0d7e335f8a0b9579f]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/2/3) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/2) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1000/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33fa07e28ad4e3b4c51aa029f2d85865]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2411/regulation/3) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-33fa07e28ad4e3b4c51aa029f2d85865]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2411/regulation/3) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
 [^f00014]: Footnote: S.I. [1997/135](https://www.legislation.gov.uk/uksi/1997/135).
 
 [^f00015]: Footnote: [S.R. 1997 No. 387](https://www.legislation.gov.uk/nisr/1997/387).
 
-[^key-d6976ecadd4a325d99ce913e66a016d1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2411/regulation/4) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-d6976ecadd4a325d99ce913e66a016d1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2411/regulation/4) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-ad8bd2ea014c651ff8cfc443bb399f86]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2411/regulation/5) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-ad8bd2ea014c651ff8cfc443bb399f86]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2411/regulation/5) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-ae9e692c82dbbefcce61e7d32ffe251f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2411/regulation/6) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-ae9e692c82dbbefcce61e7d32ffe251f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2411/regulation/6) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-175386e931b7b9160c1c83abdd381e95]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/6/6) omitted (7.7.2002) by virtue of [The Merchant Shipping (Hours of Work) Regulations 2002 (S.I. 2002/2125)](https://www.legislation.gov.uk/uksi/2002/2125), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2125/regulation/1), [Sch. 2 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2002/2125/schedule/2/paragraph/4/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/2125/regulation/3))
+[^c-175386e931b7b9160c1c83abdd381e95]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/6/6) omitted (7.7.2002) by virtue of [The Merchant Shipping (Hours of Work) Regulations 2002 (S.I. 2002/2125)](https://www.legislation.gov.uk/uksi/2002/2125), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2125/regulation/1), [Sch. 2 para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2002/2125/schedule/2/paragraph/4/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/2125/regulation/3))
 
-[^key-76671af8f8694e03c9a76fa9f9ad0de3]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/6/7) omitted (7.7.2002) by virtue of [The Merchant Shipping (Hours of Work) Regulations 2002 (S.I. 2002/2125)](https://www.legislation.gov.uk/uksi/2002/2125), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2125/regulation/1), [Sch. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2125/schedule/2/paragraph/4/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/2125/regulation/3))
+[^c-76671af8f8694e03c9a76fa9f9ad0de3]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/6/7) omitted (7.7.2002) by virtue of [The Merchant Shipping (Hours of Work) Regulations 2002 (S.I. 2002/2125)](https://www.legislation.gov.uk/uksi/2002/2125), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2125/regulation/1), [Sch. 2 para. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2125/schedule/2/paragraph/4/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2002/2125/regulation/3))
 
-[^key-8acdc271f720facaac1e2bfd5c5dc0fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2411/regulation/7) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-8acdc271f720facaac1e2bfd5c5dc0fb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2411/regulation/7) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-51a60de8216ded61224c9b3f97e25ce7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2411/regulation/8) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-51a60de8216ded61224c9b3f97e25ce7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2411/regulation/8) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
 [^f00017]: Footnote: S.I. [1983/808](https://www.legislation.gov.uk/uksi/1983/808).
 
 [^f00018]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-564bb495757e01aaac0a717730c64a4f]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/8/1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/40) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
+[^c-564bb495757e01aaac0a717730c64a4f]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/8/1) inserted (coming into force in accordance with art. 1(3) of the amending S.I.) by [The Medical Act 1983 (Amendment) Order 2002 (S.I. 2002/3135)](https://www.legislation.gov.uk/uksi/2002/3135), [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/3135/article/1/2), [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2002/3135/schedule/1/paragraph/40) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2002/3135/schedule/2))
 
-[^key-9291d561036707f7615ca7ea3945e42e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2411/regulation/9) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-9291d561036707f7615ca7ea3945e42e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2411/regulation/9) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-92a4a5f285dcf93c6b307a03cbfd1968]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2411/regulation/10) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-92a4a5f285dcf93c6b307a03cbfd1968]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2411/regulation/10) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-7099f2b64b7239c11cc37694c513e81b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2411/regulation/11) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-7099f2b64b7239c11cc37694c513e81b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2411/regulation/11) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-3bbeb220a1a2e4ca2de65c8625058fc0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2411/regulation/12) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-3bbeb220a1a2e4ca2de65c8625058fc0]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2411/regulation/12) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-91613d97b30768ac32932f9a99398d97]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2411/regulation/13) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-91613d97b30768ac32932f9a99398d97]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2411/regulation/13) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-52737d9f6bd6ada765bc9538fa90b5b3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2411/regulation/14) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-52737d9f6bd6ada765bc9538fa90b5b3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2411/regulation/14) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-58916327ec2528c641b4cd7251fe0cf5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2411/regulation/15) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-58916327ec2528c641b4cd7251fe0cf5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2411/regulation/15) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-168fac9fdc879d13ed230eab3eb06524]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2411/regulation/16) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-168fac9fdc879d13ed230eab3eb06524]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2411/regulation/16) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-c64a986e948ba847b51ff6444725e0b3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-c64a986e948ba847b51ff6444725e0b3]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2411/regulation/17) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
 [^f00019]: Footnote: Published by The Stationery Office in 1993 (ISBN 0–11–551184–9).
 
@@ -471,38 +471,38 @@ These regulations are made under powers contained in the Merchant Shipping Act 1
 
 [^f00023]: Footnote: [S.R. 1979 No. 437](https://www.legislation.gov.uk/nisr/1979/437).
 
-[^key-68525eab037a7c0ba1d0fadff0d921c8]: Commencement: Sch. Pt. 1. para. 1 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-68525eab037a7c0ba1d0fadff0d921c8]: Commencement: Sch. Pt. 1. para. 1 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-d46166f4327a8d1b0a68d81c887151de]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/2) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-d46166f4327a8d1b0a68d81c887151de]: Commencement: [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/2) in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-44b26ff17204e03ede9b385222432d24]: Textual amendment: [Sch. Pt. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/paragraph/2/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44b26ff17204e03ede9b385222432d24]: Textual amendment: [Sch. Pt. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/paragraph/2/a) substituted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [5(3)(a)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2ce8cbaf773f1474f56c40a5f59ae26b]: Commencement: Sch. Pt. 2 para. 3 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-2ce8cbaf773f1474f56c40a5f59ae26b]: Commencement: Sch. Pt. 2 para. 3 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-7a8d43805b2e5c974a6bc9b4295c2359]: Textual amendment: [Sch. Pt. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/3/a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/3/b)
+[^c-7a8d43805b2e5c974a6bc9b4295c2359]: Textual amendment: [Sch. Pt. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/3/a) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/3/b)
 
-[^key-924246ee36ca8d91b9d83a3d883af2da]: Textual amendment: Words in [Sch. Pt. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/paragraph/3/a) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-924246ee36ca8d91b9d83a3d883af2da]: Textual amendment: Words in [Sch. Pt. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/paragraph/3/a) inserted (31.12.2020) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1202)](https://www.legislation.gov.uk/uksi/2018/1202), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/1/2), [5(3)(b)](https://www.legislation.gov.uk/uksi/2018/1202/regulation/5/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5617c11e5ab72c49561e86be3ade8eb5]: Textual amendment: [Sch. Pt. 1 paras. 3(b)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/3/b)[(c)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/3/c) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(3)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/3/c)
+[^c-5617c11e5ab72c49561e86be3ade8eb5]: Textual amendment: [Sch. Pt. 1 paras. 3(b)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/3/b)[(c)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/1/paragraph/3/c) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(3)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/3/c)
 
-[^key-ff9e2dfcbae7e51b204ae67bb9cf1567]: Textual amendment: [Sch. Pt. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/I.) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(3)(d)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/3/d)
+[^c-ff9e2dfcbae7e51b204ae67bb9cf1567]: Textual amendment: [Sch. Pt. 1 para. 3(d)](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/I.) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(3)(d)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/3/d)
 
-[^key-654e4fc3c3268cdb3c6db8b9fef871c0]: Commencement: Sch. Pt. 2. para. 1 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-654e4fc3c3268cdb3c6db8b9fef871c0]: Commencement: Sch. Pt. 2. para. 1 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-3666a3aa9a40cf8f001e0c86312cabf7]: Textual amendment: Words in [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/2/paragraph/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/4)
+[^c-3666a3aa9a40cf8f001e0c86312cabf7]: Textual amendment: Words in [Sch. Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1998/2411/schedule/part/2/paragraph/1) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [7(4)](https://www.legislation.gov.uk/uksi/2015/21/regulation/7/4)
 
-[^key-bee6445331c45a8dc657bddd6a1b0d4b]: Commencement: Sch. Pt. 2 para. 2 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-bee6445331c45a8dc657bddd6a1b0d4b]: Commencement: Sch. Pt. 2 para. 2 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-0a1e2d262b8beb8b9c629396e83eefbc]: Commencement: Sch. Pt. 2 para. 3 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-0a1e2d262b8beb8b9c629396e83eefbc]: Commencement: Sch. Pt. 2 para. 3 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-755065f33c19ec16be18170cefe2d3c6]: Commencement: Sch. Pt. 2 para. 4 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-755065f33c19ec16be18170cefe2d3c6]: Commencement: Sch. Pt. 2 para. 4 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-8b7b67ef9d241a0726778ad8d704a90c]: Commencement: Sch. Pt. 2 para. 5 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-8b7b67ef9d241a0726778ad8d704a90c]: Commencement: Sch. Pt. 2 para. 5 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-64ed52ea355e343ce8f510d7a8e0291b]: Commencement: Sch. Pt. 2 para. 6 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-64ed52ea355e343ce8f510d7a8e0291b]: Commencement: Sch. Pt. 2 para. 6 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-8e0dc9ff7889b0feb2085f8adfbec246]: Commencement: Sch. Pt. 2 para. 7 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-8e0dc9ff7889b0feb2085f8adfbec246]: Commencement: Sch. Pt. 2 para. 7 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-4dc2c237f18178bf63e63352e2311365]: Commencement: Sch. Pt. 2 para. 8 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-4dc2c237f18178bf63e63352e2311365]: Commencement: Sch. Pt. 2 para. 8 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
 
-[^key-5d56010d040d41e9b7f904b197bd711b]: Commencement: Sch. Pt. 2 para. 9 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)
+[^c-5d56010d040d41e9b7f904b197bd711b]: Commencement: Sch. Pt. 2 para. 9 in force at 30.10.1998, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1998/2411/regulation/1/1)

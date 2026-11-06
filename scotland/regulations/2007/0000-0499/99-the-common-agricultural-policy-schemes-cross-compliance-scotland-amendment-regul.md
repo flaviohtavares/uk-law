@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Amendment Regulations 2007 (revoked)[^key-3f407f49762756e3306e62b172bdd06c]
+The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Amendment Regulations 2007 (revoked)[^c-3f407f49762756e3306e62b172bdd06c]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 19th March 2007
 
-[^key-3f407f49762756e3306e62b172bdd06c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f407f49762756e3306e62b172bdd06c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3f407f49762756e3306e62b172bdd06c]
+## 1. Citation and commencement[^c-3f407f49762756e3306e62b172bdd06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2004[^key-3f407f49762756e3306e62b172bdd06c]
+## 2. Amendment of the Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2004[^c-3f407f49762756e3306e62b172bdd06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to regulation 2[^key-3f407f49762756e3306e62b172bdd06c]
+## 3. Amendment to regulation 2[^c-3f407f49762756e3306e62b172bdd06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to regulation 5[^key-3f407f49762756e3306e62b172bdd06c]
+## 4. Amendment to regulation 5[^c-3f407f49762756e3306e62b172bdd06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 6[^key-3f407f49762756e3306e62b172bdd06c]
+## 5. Amendment to regulation 6[^c-3f407f49762756e3306e62b172bdd06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment to the Schedule[^key-3f407f49762756e3306e62b172bdd06c]
+## 6. Amendment to the Schedule[^c-3f407f49762756e3306e62b172bdd06c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3f407f49762756e3306e62b172bdd06c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f407f49762756e3306e62b172bdd06c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3f407f49762756e3306e62b172bdd06c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3f407f49762756e3306e62b172bdd06c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3f407f49762756e3306e62b172bdd06c]: Textual amendment: Regulations revoked (1.1.2012) by [The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2011 (S.S.I. 2011/415)](https://www.legislation.gov.uk/ssi/2011/415), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/415/regulation/1/1), [12(c)](https://www.legislation.gov.uk/ssi/2011/415/regulation/12/c)
+[^c-3f407f49762756e3306e62b172bdd06c]: Textual amendment: Regulations revoked (1.1.2012) by [The Common Agricultural Policy Schemes (Cross-Compliance) (Scotland) Regulations 2011 (S.S.I. 2011/415)](https://www.legislation.gov.uk/ssi/2011/415), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2011/415/regulation/1/1), [12(c)](https://www.legislation.gov.uk/ssi/2011/415/regulation/12/c)

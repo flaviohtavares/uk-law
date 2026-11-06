@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Review of continued recognition of certain European qualifications[^key-ade9b2d6a0bcb130c50cab78011f1cd3]
+## 14. Review of continued recognition of certain European qualifications[^c-ade9b2d6a0bcb130c50cab78011f1cd3]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Secretary of State must, after the end of the period of two years beginning with the day on which these Regulations come into force—
 
-- (a) carry out a review of the operation of the provisions in paragraph (2) (which concern the recognition to be given to certain European qualifications after IP completion day[^key-d0ae7c2baddb1da5cfaaa45e31843352]), as inserted or amended by these Regulations,
+- (a) carry out a review of the operation of the provisions in paragraph (2) (which concern the recognition to be given to certain European qualifications after IP completion day[^c-d0ae7c2baddb1da5cfaaa45e31843352]), as inserted or amended by these Regulations,
 - (b) set out the conclusions of the review in the report, and
 - (c) publish the report.
 
@@ -39,9 +39,9 @@ summary: ''
 
 ## Annotations
 
-[^key-ade9b2d6a0bcb130c50cab78011f1cd3]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-ade9b2d6a0bcb130c50cab78011f1cd3]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-d0ae7c2baddb1da5cfaaa45e31843352]: Textual amendment: Words in reg. 14(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1394/regulation/7)
+[^c-d0ae7c2baddb1da5cfaaa45e31843352]: Textual amendment: Words in reg. 14(1)(a) substituted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2020/1394/regulation/7)
 
 [^c23644971]: Marginal citation: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54). Section 21B was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914).
 

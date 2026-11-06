@@ -65,7 +65,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 8 — General interpretation](part-1/section-8.md)
 - [Section 9 — Abbreviations and general index](part-1/section-9.md)
 
-### PART 1A — THE GENUINE DIVERSITY OF OWNERSHIP CONDITION[^key-de97026971c5f2892935deb942661f54]
+### PART 1A — THE GENUINE DIVERSITY OF OWNERSHIP CONDITION[^c-de97026971c5f2892935deb942661f54]
 
 - [Section 9A — The genuine diversity of ownership condition](part-1a/section-9a.md)
 - [Section 9B — Clearance in relation to the genuine diversity of ownership condition](part-1a/section-9b.md)
@@ -80,7 +80,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 11 — General rule for derivative contracts: exclusion of capital profits, gains or losses](part-2/section-11.md)
 - [Section 12 — Accounts prepared in accordance with UK generally accepted accounting practice](part-2/section-12.md)
 
-#### ... Interest distributions and deficits[^key-228ac78215321e06fdb53d39bbbf5c48]
+#### ... Interest distributions and deficits[^c-228ac78215321e06fdb53d39bbbf5c48]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,30 +88,30 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 13 — Treatment of interest distributions for purposes of loan relationships](part-2/section-13.md)
 - [Section 14 — Treatment of deficits on loan relationships](part-2/section-14.md)
 
-#### Authorised investment funds having interests in offshore non-reporting funds[^key-f173e63a22d663113efe68ca36ee0537]
+#### Authorised investment funds having interests in offshore non-reporting funds[^c-f173e63a22d663113efe68ca36ee0537]
 
 - [Section 14ZA — Interests in offshore non-reporting funds: general](part-2/section-14za.md)
 - [Section 14ZB — Treatment of disposal of interest in non-reporting fund](part-2/section-14zb.md)
 - [Section 14ZC — Treatment of interest in non-reporting fund: cases where the conditions in regulation 14ZA(2) would not be satisfied](part-2/section-14zc.md)
 - [Section 14A — Authorised investment funds with limited investment powers – stamp duty reserve tax](part-2/section-14a.md)
 
-#### Treatments applying to authorised investment funds with specific investment purposes[^key-41cfdf8ce18a10730052a08478524d2f]
+#### Treatments applying to authorised investment funds with specific investment purposes[^c-41cfdf8ce18a10730052a08478524d2f]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 14ZD — Index tracking funds](part-2/section-14zd.md)
 
-### PART 2A — Qualified Investor Schemes[^key-afbfafb42c05809e4f91e384905f7a73]
+### PART 2A — Qualified Investor Schemes[^c-afbfafb42c05809e4f91e384905f7a73]
 
 - [Section 14B — Tax treatment of qualified investor schemes](part-2a/section-14b.md)
 - [Section 14C — The genuine diversity of ownership condition](part-2a/section-14c.md)
 - [Section 14D — Clearance in relation to the genuine diversity of ownership condition](part-2a/section-14d.md)
 
-### PART 2AA — LONG-TERM ASSET FUNDS[^key-0f1c10a04226240dbd515a7ae36b1f13]
+### PART 2AA — LONG-TERM ASSET FUNDS[^c-0f1c10a04226240dbd515a7ae36b1f13]
 
 - [Section 14DA — Tax treatment of long-term asset funds](part-2aa/section-14da.md)
 
-### PART 2B — DIVERSELY OWNED AIFS[^key-8d979ec81511d10ef646d41c77bb88d0]
+### PART 2B — DIVERSELY OWNED AIFS[^c-8d979ec81511d10ef646d41c77bb88d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -133,7 +133,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 15 — Interpretation](part-3/section-15.md)
 - [Section 16 — Funds excluded from the ambit of this Part](part-3/section-16.md)
 
-#### ...[^key-56f7aec4ef0b6dbe65ff517dd40e0ab1]
+#### ...[^c-56f7aec4ef0b6dbe65ff517dd40e0ab1]
 
 *Extent: E+W+S+N.I.*
 
@@ -201,7 +201,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 45 — Consequences of notice under regulation 39(6)](part-4/section-45.md)
 - [Section 46 — Qualifying certificate not in writing](part-4/section-46.md)
 
-##### Annual payments to non-residents[^key-266f32755851ef65e8c3e47fc7ef1d96]
+##### Annual payments to non-residents[^c-266f32755851ef65e8c3e47fc7ef1d96]
 
 - [Section 46A — Annual Payments – duty to deduct income tax](part-4/section-46a.md)
 - [Section 46B — Consequences of reasonable but incorrect belief](part-4/section-46b.md)
@@ -259,24 +259,24 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 68 — Disposal of the whole of a substantial QIS holding](part-4/section-68.md)
 - [Section 69 — No gain/no loss disposals](part-4/section-69.md)
 
-### PART 4A — PROPERTY AIFS[^key-228ceee17a63954421c7bcbab46e5182]
+### PART 4A — PROPERTY AIFS[^c-228ceee17a63954421c7bcbab46e5182]
 
-#### CHAPTER 1 — PRELIMINARY PROVISIONS[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 1 — PRELIMINARY PROVISIONS[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69A — Property AIFs](part-4a/section-69a.md)
 - [Section 69B — Structure of this Part](part-4a/section-69b.md)
 - [Section 69C — Key concepts](part-4a/section-69c.md)
 
-#### CHAPTER 2 — ENTRY INTO AND MEMBERSHIP OF THE PROPERTY AIF REGIME[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 2 — ENTRY INTO AND MEMBERSHIP OF THE PROPERTY AIF REGIME[^c-228ceee17a63954421c7bcbab46e5182]
 
-##### Conditions of membership of the Property AIF regime[^key-228ceee17a63954421c7bcbab46e5182]
+##### Conditions of membership of the Property AIF regime[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 69D — Conditions for this Part to apply to company](part-4a/section-69d.md)
 - [Section 69DA — Conditions for this Part to apply to a company where the company is also a qualified investor scheme](part-4a/section-69da.md)
 
-##### The property investment business condition[^key-228ceee17a63954421c7bcbab46e5182]
+##### The property investment business condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69E — The property investment business condition](part-4a/section-69e.md)
 - [Section 69F — Meaning of “property investment business”](part-4a/section-69f.md)
@@ -284,51 +284,51 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69H — Meaning of “property rental business”](part-4a/section-69h.md)
 - [Section 69I — Meaning of “intermediate holding vehicle”](part-4a/section-69i.md)
 
-##### The genuine diversity of ownership condition[^key-228ceee17a63954421c7bcbab46e5182]
+##### The genuine diversity of ownership condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69J — The genuine diversity of ownership condition](part-4a/section-69j.md)
 
-##### The corporate ownership condition[^key-228ceee17a63954421c7bcbab46e5182]
+##### The corporate ownership condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69K — The corporate ownership condition](part-4a/section-69k.md)
 - [Section 69L — The corporate ownership condition: further provisions](part-4a/section-69l.md)
 
-##### The loan creditor condition[^key-228ceee17a63954421c7bcbab46e5182]
+##### The loan creditor condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69M — The loan creditor condition](part-4a/section-69m.md)
 
-##### The balance of business conditions[^key-228ceee17a63954421c7bcbab46e5182]
+##### The balance of business conditions[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69N — The balance of business conditions](part-4a/section-69n.md)
 
-##### The notification condition[^key-228ceee17a63954421c7bcbab46e5182]
+##### The notification condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69O — The notification condition](part-4a/section-69o.md)
 - [Section 69P — Form and timing of notice under regulation 69O](part-4a/section-69p.md)
 - [Section 69Q — Contents of notice under regulation 69O](part-4a/section-69q.md)
 
-##### Procedural matters relating to the giving of notice for this Part to apply[^key-228ceee17a63954421c7bcbab46e5182]
+##### Procedural matters relating to the giving of notice for this Part to apply[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69R — Notice: further provisions: quashing notices](part-4a/section-69r.md)
 - [Section 69S — Procedure relating to quashing notices](part-4a/section-69s.md)
 - [Section 69T — Appeal against quashing notice](part-4a/section-69t.md)
 
-##### Clearance applications[^key-228ceee17a63954421c7bcbab46e5182]
+##### Clearance applications[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69U — Clearance in relation to the genuine diversity of ownership condition](part-4a/section-69u.md)
 
-##### Consequences of entry[^key-228ceee17a63954421c7bcbab46e5182]
+##### Consequences of entry[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69V — Effects of entry](part-4a/section-69v.md)
 - [Section 69W — Duration](part-4a/section-69w.md)
 
-#### CHAPTER 3 — THE TAX TREATMENT OF PROPERTY AIFS[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 3 — THE TAX TREATMENT OF PROPERTY AIFS[^c-228ceee17a63954421c7bcbab46e5182]
 
-##### Categories of business[^key-228ceee17a63954421c7bcbab46e5182]
+##### Categories of business[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69X — Ring-fencing of tax-exempt business](part-4a/section-69x.md)
 
-##### Chargeability to tax[^key-228ceee17a63954421c7bcbab46e5182]
+##### Chargeability to tax[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Y — Chargeability to corporation tax](part-4a/section-69y.md)
 - [Section 69Z — Meaning of “net income”](part-4a/section-69z.md)
@@ -336,7 +336,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69Z2 — Components of income arising to F (residual)](part-4a/section-69z2.md)
 - [Section 69Z3 — Calculation of net income of F (residual)](part-4a/section-69z3.md)
 
-##### Breaches of conditions[^key-228ceee17a63954421c7bcbab46e5182]
+##### Breaches of conditions[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z4 — Breach of the genuine diversity of ownership condition](part-4a/section-69z4.md)
 - [Section 69Z5 — Breach of the corporate ownership condition](part-4a/section-69z5.md)
@@ -344,7 +344,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69Z7 — Breach of balance of business conditions](part-4a/section-69z7.md)
 - [Section 69Z8 — Multiple breaches of separate conditions](part-4a/section-69z8.md)
 
-##### Further provisions[^key-228ceee17a63954421c7bcbab46e5182]
+##### Further provisions[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z9 — Profit/financing costs in the case of a Property AIF that is a qualified investor scheme](part-4a/section-69z9.md)
 - [Section 69Z10 — Cancellation of tax advantage](part-4a/section-69z10.md)
@@ -352,25 +352,25 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69Z12 — Distribution to holder of excessive rights: charge to tax](part-4a/section-69z12.md)
 - [Section 69Z13 — Meaning of “holder of excessive rights”](part-4a/section-69z13.md)
 
-#### CHAPTER 4 — DISTRIBUTIONS MADE BY PROPERTY AIFS[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 4 — DISTRIBUTIONS MADE BY PROPERTY AIFS[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z14 — Allocation of income](part-4a/section-69z14.md)
 - [Section 69Z15 — Property income distributions](part-4a/section-69z15.md)
 - [Section 69Z16 — PAIF distributions (interest)](part-4a/section-69z16.md)
 - [Section 69Z17 — PAIF distributions (dividends)](part-4a/section-69z17.md)
 
-#### CHAPTER 5 — THE TREATMENT OF PARTICIPANTS IN PROPERTY AIFS[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 5 — THE TREATMENT OF PARTICIPANTS IN PROPERTY AIFS[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
-##### Treatment of distributions: liability to tax of participants[^key-228ceee17a63954421c7bcbab46e5182]
+##### Treatment of distributions: liability to tax of participants[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z18 — Property income distributions: liability to tax of participants](part-4a/section-69z18.md)
 - [Section 69Z19 — PAIF distributions (interest): liability to tax of participants](part-4a/section-69z19.md)
 - [Section 69Z20 — Property distributions (dividends): liability to tax of participants](part-4a/section-69z20.md)
 - [Section 69Z21 — Distributions made after cessation](part-4a/section-69z21.md)
 
-##### Deduction of tax from distributions[^key-228ceee17a63954421c7bcbab46e5182]
+##### Deduction of tax from distributions[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -382,32 +382,32 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69Z24C — Manufactured dividends – PAIF distributions (dividends)](part-4a/section-69z24c.md)
 - [Section 69Z24D — Interpretation](part-4a/section-69z24d.md)
 
-##### Conversions and exchanges[^key-ab1d7c50d09ca8fc955840f12180887d][^key-228ceee17a63954421c7bcbab46e5182]
+##### Conversions and exchanges[^c-ab1d7c50d09ca8fc955840f12180887d][^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z24E — Conversion to property AIF](part-4a/section-69z24e.md)
 - [Section 69Z24F — Exchange of units](part-4a/section-69z24f.md)
 - [Section 69Z24G — Further requirement](part-4a/section-69z24g.md)
 - [Section 69Z24H — Application of section 137 of TCGA](part-4a/section-69z24h.md)
 
-#### CHAPTER 6 — COMPLIANCE IN RELATION TO THE PROPERTY AIF REGIME[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 6 — COMPLIANCE IN RELATION TO THE PROPERTY AIF REGIME[^c-228ceee17a63954421c7bcbab46e5182]
 
-##### Company tax return[^key-228ceee17a63954421c7bcbab46e5182]
+##### Company tax return[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z25 — Documents to be included with company tax return](part-4a/section-69z25.md)
 
-##### Breaches of conditions in Chapter 2[^key-228ceee17a63954421c7bcbab46e5182]
+##### Breaches of conditions in Chapter 2[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z26 — Information to be provided by company to which this Part applies](part-4a/section-69z26.md)
 
-##### Holders of excessive rights[^key-228ceee17a63954421c7bcbab46e5182]
+##### Holders of excessive rights[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z27 — Information relating to holders of excessive rights](part-4a/section-69z27.md)
 
-##### Information about possible breaches of conditions of membership of Property AIF regime[^key-228ceee17a63954421c7bcbab46e5182]
+##### Information about possible breaches of conditions of membership of Property AIF regime[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z28 — Information to be provided to officers of Revenue and Customs](part-4a/section-69z28.md)
 
-##### Accounting for tax deducted from property income distributions[^key-228ceee17a63954421c7bcbab46e5182]
+##### Accounting for tax deducted from property income distributions[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z29 — Payments in an accounting period](part-4a/section-69z29.md)
 - [Section 69Z30 — Collection and payment of tax](part-4a/section-69z30.md)
@@ -417,7 +417,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69Z34 — Certificates of deduction of tax](part-4a/section-69z34.md)
 - [Section 69Z35 — Company’s duty to deliver amended return](part-4a/section-69z35.md)
 
-#### CHAPTER 7 — LEAVING THE PROPERTY AIF REGIME[^key-228ceee17a63954421c7bcbab46e5182]
+#### CHAPTER 7 — LEAVING THE PROPERTY AIF REGIME[^c-228ceee17a63954421c7bcbab46e5182]
 
 - [Section 69Z36 — Termination by notice: company](part-4a/section-69z36.md)
 - [Section 69Z37 — Termination by notice: Commissioners](part-4a/section-69z37.md)
@@ -426,79 +426,79 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 69Z40 — Mergers](part-4a/section-69z40.md)
 - [Section 69Z41 — Effects of cessation](part-4a/section-69z41.md)
 
-### PART 4B — TAX ELECTED FUNDS[^key-99ec40eae4e63472000e98d5a2a781e8]
+### PART 4B — TAX ELECTED FUNDS[^c-99ec40eae4e63472000e98d5a2a781e8]
 
-#### CHAPTER 1 — PRELIMINARY PROVISIONS[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 1 — PRELIMINARY PROVISIONS[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z42 — Tax Elected Funds](part-4b/section-69z42.md)
 - [Section 69Z43 — Structure of this Part](part-4b/section-69z43.md)
 - [Section 69Z44 — Interpretation](part-4b/section-69z44.md)
 
-#### CHAPTER 2 — ENTRY INTO AND MEMBERSHIP OF THE TAX ELECTED FUNDS REGIME[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 2 — ENTRY INTO AND MEMBERSHIP OF THE TAX ELECTED FUNDS REGIME[^c-99ec40eae4e63472000e98d5a2a781e8]
 
-##### Conditions of membership of the Tax Elected Funds regime[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### Conditions of membership of the Tax Elected Funds regime[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z45 — Conditions for this Part to apply to fund](part-4b/section-69z45.md)
 
-##### The TEF conditions[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### The TEF conditions[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z46 — The property condition](part-4b/section-69z46.md)
 - [Section 69Z47 — The loan creditor condition](part-4b/section-69z47.md)
 - [Section 69Z48 — The scheme documentation condition](part-4b/section-69z48.md)
 
-##### Application for this Part to apply[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### Application for this Part to apply[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z49 — Application process](part-4b/section-69z49.md)
 - [Section 69Z50 — Form and timing of application under regulation 69Z49](part-4b/section-69z50.md)
 - [Section 69Z51 — Contents of application under regulation 69Z49](part-4b/section-69z51.md)
 
-##### Procedural matters relating to the making of applications for this Part to apply[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### Procedural matters relating to the making of applications for this Part to apply[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z52 — Refusing an application: refusal notice](part-4b/section-69z52.md)
 - [Section 69Z53 — Appeal against refusal notice](part-4b/section-69z53.md)
 
-##### Consequences of entry[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### Consequences of entry[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z54 — Effects of entry](part-4b/section-69z54.md)
 - [Section 69Z55 — Duration](part-4b/section-69z55.md)
 
-#### CHAPTER 3 — THE TAX TREATMENT OF TAX ELECTED FUNDS[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 3 — THE TAX TREATMENT OF TAX ELECTED FUNDS[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z56 — Components of income](part-4b/section-69z56.md)
 - [Section 69Z57 — Treatment of property investment income](part-4b/section-69z57.md)
 - [Section 69Z58 — Treatment of distributions](part-4b/section-69z58.md)
 
-#### CHAPTER 4 — DISTRIBUTIONS MADE BY TAX ELECTED FUNDS[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 4 — DISTRIBUTIONS MADE BY TAX ELECTED FUNDS[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z59 — Allocation of income](part-4b/section-69z59.md)
 - [Section 69Z60 — TEF distributions (dividends)](part-4b/section-69z60.md)
 - [Section 69Z61 — TEF distributions (non-dividend)](part-4b/section-69z61.md)
 
-#### CHAPTER 5 — THE TREATMENT OF PARTICIPANTS IN TAX ELECTED FUNDS[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 5 — THE TREATMENT OF PARTICIPANTS IN TAX ELECTED FUNDS[^c-99ec40eae4e63472000e98d5a2a781e8]
 
-##### TEF distribution (dividend)[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### TEF distribution (dividend)[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z62 — Participants chargeable to corporation tax](part-4b/section-69z62.md)
 
-##### TEF distributions (non-dividend)[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### TEF distributions (non-dividend)[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z63 — Obligation to deduct tax from TEF distributions (non-dividend)](part-4b/section-69z63.md)
 - [Section 69Z64 — Modification of section 490 of CTA 2009](part-4b/section-69z64.md)
 
-#### CHAPTER 6 — COMPLIANCE IN RELATION TO THE TAX ELECTED FUNDS REGIME[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 6 — COMPLIANCE IN RELATION TO THE TAX ELECTED FUNDS REGIME[^c-99ec40eae4e63472000e98d5a2a781e8]
 
-##### Breaches of TEF conditions[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### Breaches of TEF conditions[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z65 — Breach of conditions: general](part-4b/section-69z65.md)
 - [Section 69Z66 — Breach of the property condition, genuine diversity of ownership condition or scheme documentation condition](part-4b/section-69z66.md)
 - [Section 69Z67 — Breach of the loan creditor condition](part-4b/section-69z67.md)
 - [Section 69Z68 — Multiple breaches of separate conditions](part-4b/section-69z68.md)
 
-##### Information about possible breaches of the TEF conditions[^key-99ec40eae4e63472000e98d5a2a781e8]
+##### Information about possible breaches of the TEF conditions[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z69 — Information to be provided to officers of Revenue and Customs](part-4b/section-69z69.md)
 
-#### CHAPTER 7 — LEAVING THE TAX ELECTED FUNDS REGIME[^key-99ec40eae4e63472000e98d5a2a781e8]
+#### CHAPTER 7 — LEAVING THE TAX ELECTED FUNDS REGIME[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 - [Section 69Z70 — Termination by election: authorised investment fund](part-4b/section-69z70.md)
 - [Section 69Z71 — Termination by notice: Commissioners](part-4b/section-69z71.md)
@@ -511,7 +511,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 
 - [Section 70 — Application of section 234A of ICTA](part-5/section-70.md)
 
-#### Interest distributions and TEF distributions (non-dividend)[^key-1f6f4231b6f4fc4c7c6ab6e814e6cf63]
+#### Interest distributions and TEF distributions (non-dividend)[^c-1f6f4231b6f4fc4c7c6ab6e814e6cf63]
 
 *Extent: E+W+S+N.I.*
 
@@ -542,9 +542,9 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 84 — Assessments made on discovery](part-6/section-84.md)
 - [Section 85 — Prevention of double relief](part-6/section-85.md)
 
-### PART 6A — FUNDS INVESTING IN NON-REPORTING OFFSHORE FUNDS[^key-e7d651ce46fa813c235c276ae9ffac81]
+### PART 6A — FUNDS INVESTING IN NON-REPORTING OFFSHORE FUNDS[^c-e7d651ce46fa813c235c276ae9ffac81]
 
-#### CHAPTER 1 — Preliminary Provisions[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 1 — Preliminary Provisions[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85A — FINROFs](part-6a/section-85a.md)
 - [Section 85B — Structure of this Part](part-6a/section-85b.md)
@@ -553,7 +553,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 85E — Interests in funds treated as not being interests in non-reporting funds](part-6a/section-85e.md)
 - [Section 85F — Elective FINROFs](part-6a/section-85f.md)
 
-#### CHAPTER 2 — Entry into Funds Investing in Non-Reporting Offshore Fund (“FINROF”) regime[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 2 — Entry into Funds Investing in Non-Reporting Offshore Fund (“FINROF”) regime[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85G — Entry into FINROF regime: the basic rule](part-6a/section-85g.md)
 - [Section 85H — The requirement to notify where regulation 85D is satisfied](part-6a/section-85h.md)
@@ -562,23 +562,23 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 85K — Appeal against refusal to provide written notice](part-6a/section-85k.md)
 - [Section 85L — Disposal of an interest in an authorised investment fund prior to its becoming a FINROF](part-6a/section-85l.md)
 
-#### CHAPTER 3 — Tax treatment of FINROFs and of participants in FINROFs[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 3 — Tax treatment of FINROFs and of participants in FINROFs[^c-e7d651ce46fa813c235c276ae9ffac81]
 
-##### The charge to tax[^key-e7d651ce46fa813c235c276ae9ffac81]
+##### The charge to tax[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85M — The charge to tax: general provisions](part-6a/section-85m.md)
 - [Section 85N — The charge to tax: further provisions](part-6a/section-85n.md)
 - [Section 85O — Application of certain provisions of TCGA 1992](part-6a/section-85o.md)
 - [Section 85P — Application of section 10A of TCGA 1992](part-6a/section-85p.md)
 
-#### CHAPTER 4 — Exceptions, etc from the charge to tax[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 4 — Exceptions, etc from the charge to tax[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85Q — Exceptions from the charge to tax](part-6a/section-85q.md)
 - [Section 85R — Trading stock etc.](part-6a/section-85r.md)
 - [Section 85S — Long-term insurance funds of insurance companies](part-6a/section-85s.md)
 - [Section 85T — Charitable companies and charitable trusts](part-6a/section-85t.md)
 
-#### CHAPTER 5 — Disposal of units in FINROFs[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 5 — Disposal of units in FINROFs[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85U — Application of this Chapter](part-6a/section-85u.md)
 - [Section 85V — Disposal of an asset: the basic rule](part-6a/section-85v.md)
@@ -586,7 +586,7 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 85X — Application of section 135 of TCGA 1992](part-6a/section-85x.md)
 - [Section 85Y — Application of section 136 of TCGA 1992](part-6a/section-85y.md)
 
-#### CHAPTER 6 — Income gains and computation of income gains[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 6 — Income gains and computation of income gains[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85Z — General provisions](part-6a/section-85z.md)
 - [Section 85Z1 — The basic gain and its computation](part-6a/section-85z1.md)
@@ -594,14 +594,14 @@ The Treasury, in exercise of the powers conferred upon them by sections 17(3) an
 - [Section 85Z3 — Modifications of TCGA 1992](part-6a/section-85z3.md)
 - [Section 85Z4 — Losses](part-6a/section-85z4.md)
 
-#### CHAPTER 7 — Deduction of income gains in computing chargeable gains[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 7 — Deduction of income gains in computing chargeable gains[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85Z5 — Scope of this Chapter](part-6a/section-85z5.md)
 - [Section 85Z6 — Treatment of the TCGA disposal: general rules](part-6a/section-85z6.md)
 - [Section 85Z7 — Modification of section 162 TCGA 1992](part-6a/section-85z7.md)
 - [Section 85Z8 — Application of section 128 of TCGA 1992](part-6a/section-85z8.md)
 
-#### CHAPTER 8 — Leaving the FINROF regime[^key-e7d651ce46fa813c235c276ae9ffac81]
+#### CHAPTER 8 — Leaving the FINROF regime[^c-e7d651ce46fa813c235c276ae9ffac81]
 
 - [Section 85Z9 — Leaving the FINROF regime](part-6a/section-85z9.md)
 - [Section 85Z10 — Requirement to notify participants when a fund leaves the FINROF regime](part-6a/section-85z10.md)
@@ -724,30 +724,30 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c15458851]: Marginal citation: [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4); [section 152](https://www.legislation.gov.uk/uksi/2006/964/section/152) was amended by paragraph 13 of Schedule 19 to the [Finance Act 1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16) and Article 90 of [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629).
 
-[^key-de97026971c5f2892935deb942661f54]: Textual amendment: Pt. 1A inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/2036/regulation/6)
+[^c-de97026971c5f2892935deb942661f54]: Textual amendment: Pt. 1A inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [6](https://www.legislation.gov.uk/uksi/2009/2036/regulation/6)
 
-[^key-228ac78215321e06fdb53d39bbbf5c48]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2006/964/part/2/crossheading/loan-relationships-treatment-of-interest-distributions-and-deficits) cross-heading omitted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2015 (S.I. 2015/485)](https://www.legislation.gov.uk/uksi/2015/485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/485/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/485/regulation/2/2)
+[^c-228ac78215321e06fdb53d39bbbf5c48]: Textual amendment: Words in [reg. 12A](https://www.legislation.gov.uk/uksi/2006/964/part/2/crossheading/loan-relationships-treatment-of-interest-distributions-and-deficits) cross-heading omitted (with effect in accordance with reg. 1(2)(3) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2015 (S.I. 2015/485)](https://www.legislation.gov.uk/uksi/2015/485), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/485/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/485/regulation/2/2)
 
-[^key-f173e63a22d663113efe68ca36ee0537]: Textual amendment: Regs. 14ZA-14ZC and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/244)](https://www.legislation.gov.uk/uksi/2011/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/244/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/244/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2011/244/regulation/8))
+[^c-f173e63a22d663113efe68ca36ee0537]: Textual amendment: Regs. 14ZA-14ZC and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/244)](https://www.legislation.gov.uk/uksi/2011/244), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/244/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/244/regulation/4) (with [reg. 8](https://www.legislation.gov.uk/uksi/2011/244/regulation/8))
 
-[^key-41cfdf8ce18a10730052a08478524d2f]: Textual amendment: Reg. 14ZD and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2192/regulation/4)
+[^c-41cfdf8ce18a10730052a08478524d2f]: Textual amendment: Reg. 14ZD and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2192/regulation/4)
 
-[^key-afbfafb42c05809e4f91e384905f7a73]: Textual amendment: Pt. 2A inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2008/3159/regulation/11) (with [reg. 30](https://www.legislation.gov.uk/uksi/2008/3159/regulation/30))
+[^c-afbfafb42c05809e4f91e384905f7a73]: Textual amendment: Pt. 2A inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2008/3159/regulation/11) (with [reg. 30](https://www.legislation.gov.uk/uksi/2008/3159/regulation/30))
 
-[^key-0f1c10a04226240dbd515a7ae36b1f13]: Textual amendment: [Pt. 2AA](https://www.legislation.gov.uk/uksi/2006/964/part/2AA) inserted (9.12.2021) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2021 (S.I. 2021/1270)](https://www.legislation.gov.uk/uksi/2021/1270), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1270/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1270/regulation/3/2)
+[^c-0f1c10a04226240dbd515a7ae36b1f13]: Textual amendment: [Pt. 2AA](https://www.legislation.gov.uk/uksi/2006/964/part/2AA) inserted (9.12.2021) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2021 (S.I. 2021/1270)](https://www.legislation.gov.uk/uksi/2021/1270), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1270/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1270/regulation/3/2)
 
-[^key-8d979ec81511d10ef646d41c77bb88d0]: Textual amendment: Pt. 2B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10)
+[^c-8d979ec81511d10ef646d41c77bb88d0]: Textual amendment: Pt. 2B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/2036/regulation/10)
 
-[^key-56f7aec4ef0b6dbe65ff517dd40e0ab1]: Textual amendment: [Reg. 17 cross-heading](https://www.legislation.gov.uk/uksi/2006/964/part/3/crossheading/distribution-accounts-general) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/294/regulation/8/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))
+[^c-56f7aec4ef0b6dbe65ff517dd40e0ab1]: Textual amendment: [Reg. 17 cross-heading](https://www.legislation.gov.uk/uksi/2006/964/part/3/crossheading/distribution-accounts-general) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/294/regulation/8/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))
 
-[^key-266f32755851ef65e8c3e47fc7ef1d96]: Textual amendment: Regs. 46A, 46B and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2013 (S.I. 2013/1772)](https://www.legislation.gov.uk/uksi/2013/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/2/2)
+[^c-266f32755851ef65e8c3e47fc7ef1d96]: Textual amendment: Regs. 46A, 46B and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2013 (S.I. 2013/1772)](https://www.legislation.gov.uk/uksi/2013/1772), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1772/regulation/2/2)
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-ab1d7c50d09ca8fc955840f12180887d]: Textual amendment: [Regs. 69Z24E-69Z24H](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z24E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/1783)](https://www.legislation.gov.uk/uksi/2012/1783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1783/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1783/regulation/4)
+[^c-ab1d7c50d09ca8fc955840f12180887d]: Textual amendment: [Regs. 69Z24E-69Z24H](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z24E) and cross-heading inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2012 (S.I. 2012/1783)](https://www.legislation.gov.uk/uksi/2012/1783), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1783/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2012/1783/regulation/4)
 
-[^key-99ec40eae4e63472000e98d5a2a781e8]: Textual amendment: Pt. 4B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24)
+[^c-99ec40eae4e63472000e98d5a2a781e8]: Textual amendment: Pt. 4B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24)
 
-[^key-1f6f4231b6f4fc4c7c6ab6e814e6cf63]: Textual amendment: Words in [reg. 71 cross-heading](https://www.legislation.gov.uk/uksi/2006/964/part/5/crossheading/interest-distributions) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26)
+[^c-1f6f4231b6f4fc4c7c6ab6e814e6cf63]: Textual amendment: Words in [reg. 71 cross-heading](https://www.legislation.gov.uk/uksi/2006/964/part/5/crossheading/interest-distributions) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26)
 
-[^key-e7d651ce46fa813c235c276ae9ffac81]: Textual amendment: Pt. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/294/regulation/21) (with [regs. 25](https://www.legislation.gov.uk/uksi/2010/294/regulation/25), [26](https://www.legislation.gov.uk/uksi/2010/294/regulation/26))
+[^c-e7d651ce46fa813c235c276ae9ffac81]: Textual amendment: Pt. 6A inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2010/294/regulation/21) (with [regs. 25](https://www.legislation.gov.uk/uksi/2010/294/regulation/25), [26](https://www.legislation.gov.uk/uksi/2010/294/regulation/26))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Forfeit of deposit and exclusion from award process[^key-07a1a6ca016dfaa0060272106a0f3801]
+## 122. Forfeit of deposit and exclusion from award process[^c-07a1a6ca016dfaa0060272106a0f3801]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07a1a6ca016dfaa0060272106a0f3801]: Commencement: Reg. 122 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-07a1a6ca016dfaa0060272106a0f3801]: Commencement: Reg. 122 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

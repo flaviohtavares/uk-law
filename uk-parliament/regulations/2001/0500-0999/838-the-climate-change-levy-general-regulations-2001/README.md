@@ -97,7 +97,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 32](part-ii/section-32.md)
 - [Section 33 — Special rules for excluded, exempt ... ... and reduced-rate supplies](part-ii/section-33.md)
 
-### PART III — EXCLUDED, EXEMPT ... ... AND REDUCED-RATE SUPPLIES[^key-ed0f2cb1cc1017c6db31d5d3345836ee][^key-317299bd5b42a604ca2d1200c4ce8cc4]
+### PART III — EXCLUDED, EXEMPT ... ... AND REDUCED-RATE SUPPLIES[^c-ed0f2cb1cc1017c6db31d5d3345836ee][^c-317299bd5b42a604ca2d1200c4ce8cc4]
 
 *Extent: E+W+S+N.I.*
 
@@ -125,7 +125,7 @@ The Commissioners of Customs and Excise, in exercise of the powers conferred on 
 - [Section 50](part-iv/section-50.md)
 - [Section 51](part-iv/section-51.md)
 
-### PART IV(A) — Combined heat and power stations[^key-803aa9fa3f649411679cf9cd7eb6114a]
+### PART IV(A) — Combined heat and power stations[^c-803aa9fa3f649411679cf9cd7eb6114a]
 
 - [Section 51A — Interpretation of Part IV(A)](part-5/section-51a.md)
 - [Section 51B — Certification of electricity produced in a combined heat and power station](part-5/section-51b.md)
@@ -213,8 +213,8 @@ London SE1 9PJ
 
 [^f00002]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-ed0f2cb1cc1017c6db31d5d3345836ee]: Textual amendment: Word in Pt. 3 heading omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 9
+[^c-ed0f2cb1cc1017c6db31d5d3345836ee]: Textual amendment: Word in Pt. 3 heading omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 9
 
-[^key-317299bd5b42a604ca2d1200c4ce8cc4]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2001/838/part/3) heading omitted (1.4.2014 with effect in accordance with Sch. 20 para. 10 to the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 20 paras. 8(7)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/20/paragraph/8/7), [10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/20/paragraph/10/1)
+[^c-317299bd5b42a604ca2d1200c4ce8cc4]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2001/838/part/3) heading omitted (1.4.2014 with effect in accordance with Sch. 20 para. 10 to the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 20 paras. 8(7)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/20/paragraph/8/7), [10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/20/paragraph/10/1)
 
-[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
+[^c-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)

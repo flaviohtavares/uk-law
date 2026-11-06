@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.171. Composition of committee when creditors paid in full[^key-ded1b2a78fb2a4f31779c9196c8cbac8]
+## 4.171. Composition of committee when creditors paid in full[^c-ded1b2a78fb2a4f31779c9196c8cbac8]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ But at any time when the committee consists of less than 3 contributory members,
 
 ## Annotations
 
-[^key-ded1b2a78fb2a4f31779c9196c8cbac8]: Commencement: [Rule 4.171](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.171) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ded1b2a78fb2a4f31779c9196c8cbac8]: Commencement: [Rule 4.171](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.171) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00097]: Marginal citation: \[FORM 4.50\]
 

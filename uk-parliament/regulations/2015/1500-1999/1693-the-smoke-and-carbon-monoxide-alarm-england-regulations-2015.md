@@ -46,15 +46,15 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and application[^key-8c0dd9b1927f3d33d979b512e5fd25c4]
+### 1. Citation, commencement and application[^c-8c0dd9b1927f3d33d979b512e5fd25c4]
 
 (1) These Regulations may be cited as the Smoke and Carbon Monoxide Alarm (England) Regulations 2015 and come into force on 1st October 2015.
 
-(2) Subject to paragraph (3),[^key-7191d6d693bfb86405ad0715f997e082] these Regulations apply to England only.
+(2) Subject to paragraph (3),[^c-7191d6d693bfb86405ad0715f997e082] these Regulations apply to England only.
 
-(3)[^key-8d5e666836fd1c362f65273d0c8b3c5e] Regulation 15 applies to England and Wales.
+(3)[^c-8d5e666836fd1c362f65273d0c8b3c5e] Regulation 15 applies to England and Wales.
 
-### 2. Interpretation[^key-4611455e93d8a23ee2065972592730b6]
+### 2. Interpretation[^c-4611455e93d8a23ee2065972592730b6]
 
 (1) In these Regulations—
 
@@ -79,45 +79,45 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 ## PART 2 — Prescribed alarms
 
-### 3. Meaning of “relevant landlord”[^key-03937c1e1ff0cd2635ef544bd353d889]
+### 3. Meaning of “relevant landlord”[^c-03937c1e1ff0cd2635ef544bd353d889]
 
-(1)[^key-c39938b3ead5780034573d8dde0e0ee6] For the purposes of these Regulations, a landlord is a “relevant landlord” if the landlord is the immediate landlord in respect of a specified tenancy.
+(1)[^c-c39938b3ead5780034573d8dde0e0ee6] For the purposes of these Regulations, a landlord is a “relevant landlord” if the landlord is the immediate landlord in respect of a specified tenancy.
 
 (2) In paragraph (1) “immediate landlord”—
 
 - (a) where the premises are occupied under a specified tenancy which is not a licence means the person for the time being entitled to the reversion expectant on that tenancy; and
 - (b) where the premises are occupied under a specified tenancy which is a licence means the licensor, except that where the licensor himself or herself occupies the premises under a specified tenancy which is not a licence, it means the person for the time being entitled to the reversion expectant on that tenancy.
 
-### 4. Duties of relevant landlord in relation to prescribed alarms[^key-77694c2bfd520e2e55daa9c2ff1caab5]
+### 4. Duties of relevant landlord in relation to prescribed alarms[^c-77694c2bfd520e2e55daa9c2ff1caab5]
 
 (1) A relevant landlord in respect of a specified tenancy must ensure that—
 
-- (a) during any period [^key-79c76a115c63e4082fdd93ed1ef93d6c]... when the premises are occupied under the tenancy—
+- (a) during any period [^c-79c76a115c63e4082fdd93ed1ef93d6c]... when the premises are occupied under the tenancy—
   - (i) a smoke alarm is equipped on each storey of the premises on which there is a room used wholly or partly as living accommodation;
-  - (ii) a carbon monoxide alarm is equipped in any room of the premises which is used wholly or partly as living accommodation and contains a fixed combustion appliance other than a gas cooker[^key-d08e18de94efdf9072aeb0677559c941]; [^key-5e3a7a17284a22ab06eab3da04f7b24d]...
-- (b) checks are made by or on behalf of the landlord to ensure that each prescribed alarm is in proper working order on the day the tenancy begins if it is a new tenancy; and[^key-647f325566318f4ba66c9a6f9a14fbae]
+  - (ii) a carbon monoxide alarm is equipped in any room of the premises which is used wholly or partly as living accommodation and contains a fixed combustion appliance other than a gas cooker[^c-d08e18de94efdf9072aeb0677559c941]; [^c-5e3a7a17284a22ab06eab3da04f7b24d]...
+- (b) checks are made by or on behalf of the landlord to ensure that each prescribed alarm is in proper working order on the day the tenancy begins if it is a new tenancy; and[^c-647f325566318f4ba66c9a6f9a14fbae]
 - (c) where, following a report made on or after 1st October 2022 by a tenant or by their nominated representative to the landlord, a prescribed alarm is found not to be in proper working order, the alarm is repaired or replaced.
 
 (2) For the purposes of paragraph (1)(a), a bathroom or lavatory is to be treated as a room used as living accommodation.
 
 (3) For the purposes of paragraph (1)(b), a tenancy begins on the day on which, under the terms of the tenancy, the tenant is entitled to possession under that tenancy.
 
-(3A)[^key-4658daa5758f8a302a222cf201e59f98] For the purposes of meeting the requirement in paragraph (1)(c) both the determination (following a report) as to whether the prescribed alarm is in proper working order and any required repair or replacement must be carried out by or on behalf of the landlord as soon as reasonably practicable.
+(3A)[^c-4658daa5758f8a302a222cf201e59f98] For the purposes of meeting the requirement in paragraph (1)(c) both the determination (following a report) as to whether the prescribed alarm is in proper working order and any required repair or replacement must be carried out by or on behalf of the landlord as soon as reasonably practicable.
 
 (4) In this regulation—
 
-- “new tenancy” means a tenancy granted on or after 1st October 2022[^key-5b89725dd0541b40376904b69c926388], but does not include—
+- “new tenancy” means a tenancy granted on or after 1st October 2022[^c-5b89725dd0541b40376904b69c926388], but does not include—
   - (a) a tenancy granted in pursuance of an agreement entered into before that date;
-  - (b) [^key-8cb5c81a246e33b8203977d76585c71f]...
+  - (b) [^c-8cb5c81a246e33b8203977d76585c71f]...
   - (c) a tenancy which comes into being on the coming to an end of an earlier tenancy, under which, on its coming into being—
     - (i) the landlord and tenant are the same as under the earlier tenancy as at its coming to an end; and
     - (ii) the premises let are the same or substantially the same as those let under the earlier tenancy as at that time;
-- “room” includes a hall or landing; [^key-5c1245eecfd60a4d7a38e9d9e3ff3460]...
-- [^key-5c1245eecfd60a4d7a38e9d9e3ff3460]...
+- “room” includes a hall or landing; [^c-5c1245eecfd60a4d7a38e9d9e3ff3460]...
+- [^c-5c1245eecfd60a4d7a38e9d9e3ff3460]...
 
 ## PART 3 — Remedial action
 
-### 5. Duty of local housing authority to serve a remedial notice[^key-d46a0ad077f16345bf18386ffa4c8042]
+### 5. Duty of local housing authority to serve a remedial notice[^c-d46a0ad077f16345bf18386ffa4c8042]
 
 (1) Where a local housing authority has reasonable grounds to believe that, in relation to premises situated within its area, a relevant landlord is in breach of one or more of the duties under regulation 4(1), the authority must serve a remedial notice on the landlord.
 
@@ -133,7 +133,7 @@ A draft of this instrument was laid before and approved by a resolution of each 
 
 (3) The local housing authority must serve a remedial notice within 21 days beginning with the day on which the authority decides it has reasonable grounds under paragraph (1).
 
-(4)[^key-9fc0abbaaf26be2adb364448928dd8fc] The local housing authority must consider any representations made by the landlord within the period specified in paragraph (2)(e).
+(4)[^c-9fc0abbaaf26be2adb364448928dd8fc] The local housing authority must consider any representations made by the landlord within the period specified in paragraph (2)(e).
 
 (5) Where the landlord makes such written representations the remedial notice is suspended from the beginning of the day following the day on which the representations were received until the local housing authority has complied with paragraphs (4) and (6).
 
@@ -146,24 +146,24 @@ within 7 days beginning with the day on which the period specified in paragraph 
 
 (7) Where the local housing authority fails to inform the landlord in writing as required by paragraph (6) within the 7 days determined in accordance with that paragraph, the remedial notice served is deemed to be withdrawn.
 
-### 6. Duty of relevant landlord to comply with a remedial notice[^key-780b840d3a281bf4fc3a6321be58d0ee]
+### 6. Duty of relevant landlord to comply with a remedial notice[^c-780b840d3a281bf4fc3a6321be58d0ee]
 
-(1) Subject to paragraph (1A),[^key-913c6392ac62035b694e97c97c8cbb34] where a remedial notice is served on a landlord who is in breach of one or more of the duties under regulation 4(1), the landlord must take the remedial action specified in the notice within the period specified in regulation 5(2)(d).
+(1) Subject to paragraph (1A),[^c-913c6392ac62035b694e97c97c8cbb34] where a remedial notice is served on a landlord who is in breach of one or more of the duties under regulation 4(1), the landlord must take the remedial action specified in the notice within the period specified in regulation 5(2)(d).
 
-(1A)[^key-3637941ea042fb95db827d0129dc5be3] Where—
+(1A)[^c-3637941ea042fb95db827d0129dc5be3] Where—
 
 - (a) a remedial notice has been suspended following representations being made, and
 - (b) the local housing authority has notified the landlord in accordance with regulation 5(6) that the remedial notice is confirmed,
 
 the landlord must take the remedial action specified in the remedial notice (as amended if amendments have been made) within 21 days beginning with the day on which the landlord is informed that the suspension under regulation 5(5) ceases to have effect.
 
-(2) A landlord is not to be taken to be in breach of the duty under paragraph (1) or (1A)[^key-201d731c0f2130ef65e5d22ea89ae974] if the landlord can show he, she or it has taken all reasonable steps [^key-9e6b9f46de29add339a4786fa82ae36b]... to comply with the duty.
+(2) A landlord is not to be taken to be in breach of the duty under paragraph (1) or (1A)[^c-201d731c0f2130ef65e5d22ea89ae974] if the landlord can show he, she or it has taken all reasonable steps [^c-9e6b9f46de29add339a4786fa82ae36b]... to comply with the duty.
 
-(3)[^key-dead9f0ee8b3ad22babede9cb8dd222a] For the purposes of paragraph (2), where the landlord is prevented from entering the premises to which the duty under paragraph (1) or (1A) relates by a tenant or occupier of the premises, the landlord will not be considered to have failed to have taken all reasonable steps to comply with the duty under paragraph (1) or (1A) solely by reason of a failure to bring legal proceedings with a view to securing entry to the premises.
+(3)[^c-dead9f0ee8b3ad22babede9cb8dd222a] For the purposes of paragraph (2), where the landlord is prevented from entering the premises to which the duty under paragraph (1) or (1A) relates by a tenant or occupier of the premises, the landlord will not be considered to have failed to have taken all reasonable steps to comply with the duty under paragraph (1) or (1A) solely by reason of a failure to bring legal proceedings with a view to securing entry to the premises.
 
-### 7. Duty of local housing authority to arrange remedial action[^key-ef300d0372946dc89fa3b34dcd18cf72]
+### 7. Duty of local housing authority to arrange remedial action[^c-ef300d0372946dc89fa3b34dcd18cf72]
 
-(1) Where a local housing authority is satisfied, on the balance of probabilities, that a landlord on whom it has served a remedial notice is in breach of the duty under regulation 6(1) or (1A)[^key-f6c00978290c17d05d57aa1ff36ff8c0], the authority must, if the necessary consent is given, arrange for an authorised person to take the remedial action specified in the remedial notice.
+(1) Where a local housing authority is satisfied, on the balance of probabilities, that a landlord on whom it has served a remedial notice is in breach of the duty under regulation 6(1) or (1A)[^c-f6c00978290c17d05d57aa1ff36ff8c0], the authority must, if the necessary consent is given, arrange for an authorised person to take the remedial action specified in the remedial notice.
 
 (2) The local housing authority must ensure the authorised person takes the remedial action within 28 days beginning with the day on which the authority is first satisfied under paragraph (1).
 
@@ -174,21 +174,21 @@ the landlord must take the remedial action specified in the remedial notice (as 
 
 (4) In paragraph (1) “the necessary consent” means the consent of the occupier of the premises on which the remedial action is to be taken.
 
-(5) A local housing authority is not to be taken to be in breach of a duty under this regulation where the authority can show it has taken all reasonable steps [^key-9d56f8fd206da45af07775694cee37bd]... to comply with the duty.
+(5) A local housing authority is not to be taken to be in breach of a duty under this regulation where the authority can show it has taken all reasonable steps [^c-9d56f8fd206da45af07775694cee37bd]... to comply with the duty.
 
-(6)[^key-1ca7b2917f90007aea78175b28359dea] For the purposes of paragraph (5), where an authorised person is prevented from entering the premises to which the duty under this regulation relates by a landlord, tenant or occupier of the premises, the local housing authority will not be considered to have failed to have taken all reasonable steps to comply with the duty under this regulation solely by reason of a failure to bring legal proceedings with a view to securing entry to the premises.
+(6)[^c-1ca7b2917f90007aea78175b28359dea] For the purposes of paragraph (5), where an authorised person is prevented from entering the premises to which the duty under this regulation relates by a landlord, tenant or occupier of the premises, the local housing authority will not be considered to have failed to have taken all reasonable steps to comply with the duty under this regulation solely by reason of a failure to bring legal proceedings with a view to securing entry to the premises.
 
 ## PART 4 — Penalty charges
 
-### 8. Penalty for breach of the duty under regulation 6(1) or (1A)[^key-091b8c2dbf6ead4456bd8a757e2c0514][^key-e25a35551aff286256e6b4f7c727cd86]
+### 8. Penalty for breach of the duty under regulation 6(1) or (1A)[^c-091b8c2dbf6ead4456bd8a757e2c0514][^c-e25a35551aff286256e6b4f7c727cd86]
 
-(1) Where a local housing authority is satisfied, on the balance of probabilities, that a landlord on whom it has served a remedial notice is in breach of the duty under regulation 6(1) or (1A)[^key-ee8c389293a7bd10b2f0d41761f948e9], the authority may require the landlord to pay a penalty charge of such amount as the authority may determine.
+(1) Where a local housing authority is satisfied, on the balance of probabilities, that a landlord on whom it has served a remedial notice is in breach of the duty under regulation 6(1) or (1A)[^c-ee8c389293a7bd10b2f0d41761f948e9], the authority may require the landlord to pay a penalty charge of such amount as the authority may determine.
 
 (2) The amount of the penalty charge must not exceed £5,000.
 
 (3) Where a local housing authority decides to impose a penalty charge, the authority must serve notice of that fact on the landlord (“a penalty charge notice”) within six weeks beginning with the day on which the authority is first satisfied under paragraph (1).
 
-### 9. Content of penalty charge notice[^key-3b09beed4f4711d896f14dce58ca39dd]
+### 9. Content of penalty charge notice[^c-3b09beed4f4711d896f14dce58ca39dd]
 
 (1) A penalty charge notice must state—
 
@@ -206,7 +206,7 @@ the landlord must take the remedial action specified in the remedial notice (as 
 
 (3) The period specified under paragraph (1)(e) must not be less than 28 days beginning with the day on which the penalty charge notice is served.
 
-### 10. Review of penalty charge notice[^key-3bf4fb6f21fc3d7f3f63167630496389]
+### 10. Review of penalty charge notice[^c-3bf4fb6f21fc3d7f3f63167630496389]
 
 (1) Paragraph (2) applies if, within the period specified under regulation 9(1)(e), the landlord serves a notice on the local housing authority requesting a review.
 
@@ -218,7 +218,7 @@ the landlord must take the remedial action specified in the remedial notice (as 
 
 (3) A notice under paragraph (2)(c) confirming or varying the penalty charge notice must also state the effect of regulation 11.
 
-### 11. Appeals[^key-40a1412d51f912cdbce590f15b86f3c7]
+### 11. Appeals[^c-40a1412d51f912cdbce590f15b86f3c7]
 
 (1) A landlord who is served with a notice under regulation 10(2)(c) confirming or varying a penalty charge notice may appeal to the First-tier Tribunal against the local housing authority’s decision.
 
@@ -233,7 +233,7 @@ the landlord must take the remedial action specified in the remedial notice (as 
 
 (4) The Tribunal may quash, confirm or vary the penalty charge notice, but may not increase the amount of the penalty charge.
 
-### 12. Recovery of penalty charge[^key-57ff41dbd0f1c7d6e9a68811d7261600]
+### 12. Recovery of penalty charge[^c-57ff41dbd0f1c7d6e9a68811d7261600]
 
 (1) The local housing authority may recover the penalty charge on the order of a court, as if payable under a court order.
 
@@ -255,7 +255,7 @@ is conclusive evidence of that fact, and a certificate to that effect and purpor
 
 (6) Sums received by a local housing authority under a penalty charge may be used by the authority for any of its functions.
 
-### 13. Information to be published by local housing authority[^key-65a90000762b49ae2598af97e5ff1b3c]
+### 13. Information to be published by local housing authority[^c-65a90000762b49ae2598af97e5ff1b3c]
 
 (1) A local housing authority must prepare and publish a statement of principles which it proposes to follow in determining the amount of a penalty charge.
 
@@ -265,9 +265,9 @@ is conclusive evidence of that fact, and a certificate to that effect and purpor
 
 ## PART 5 — Notices
 
-### 14. Service of notices[^key-6f55b10fbe8b2f82d968cb19f0af54e2]
+### 14. Service of notices[^c-6f55b10fbe8b2f82d968cb19f0af54e2]
 
-(1) Any notice served on a landlord under these Regulations must be in writing and may be amended [^key-945c5523b57039d3c104823c57d2e4f8]... or revoked in writing at any time.
+(1) Any notice served on a landlord under these Regulations must be in writing and may be amended [^c-945c5523b57039d3c104823c57d2e4f8]... or revoked in writing at any time.
 
 (2) A notice is to be taken to be served on a landlord on—
 
@@ -284,7 +284,7 @@ is conclusive evidence of that fact, and a certificate to that effect and purpor
 
 ## PART 6 — Licences under Parts 2 and 3 of the Housing Act 2004
 
-### 15. Amendments to Schedule 4 to the Housing Act 2004[^key-f44edca32153c6b952acbdebf57ea4f4]
+### 15. Amendments to Schedule 4 to the Housing Act 2004[^c-f44edca32153c6b952acbdebf57ea4f4]
 
 (1) In paragraph 1 of Schedule 4 to the Housing Act 2004 (licences under parts 2 and 3: mandatory conditions)—
 
@@ -315,7 +315,7 @@ is conclusive evidence of that fact, and a certificate to that effect and purpor
 
 (2) The amendments made by paragraph (1) apply only to licences granted or renewed on or after 1st October 2015.
 
-### 16. Review[^key-6321618e1c3f5a0700fdc75a036807f7]
+### 16. Review[^c-6321618e1c3f5a0700fdc75a036807f7]
 
 (1) The Secretary of State must from time to time—
 
@@ -349,7 +349,7 @@ Department for Communities and Local Government
 
 Regulation 2
 
-### 1. Shared accommodation with landlord or landlord’s family[^key-dfd05f73d98abfeb94ea64e7abf67df9]
+### 1. Shared accommodation with landlord or landlord’s family[^c-dfd05f73d98abfeb94ea64e7abf67df9]
 
 (1) A tenancy under the terms of which the occupier shares any accommodation with the landlord or a member of the landlord’s family.
 
@@ -366,7 +366,7 @@ Regulation 2
 - (f) a relationship of the half-blood is to be treated as a relationship of the whole blood; and
 - (g) a stepchild of a person is to be treated as that person’s child.
 
-### 2. Long leases[^key-37e081f1b95991a98182182212f2dfe1]
+### 2. Long leases[^c-37e081f1b95991a98182182212f2dfe1]
 
 (1) A tenancy that—
 
@@ -377,7 +377,7 @@ Regulation 2
 
 (3) A tenancy does not grant a right of occupation for a term of 7 years or more if the agreement can be terminated at the option of a party before the end of 7 years from the commencement of the term.
 
-### 3. Student halls of residence[^key-fca69b66abf4e6f75ce43370d0a6379c]
+### 3. Student halls of residence[^c-fca69b66abf4e6f75ce43370d0a6379c]
 
 (1) A tenancy that grants a right of occupation in a building which—
 
@@ -386,7 +386,7 @@ Regulation 2
 
 (2) In this paragraph “student” has the same meaning as in paragraph 4 of Schedule 1 to the Local Government Finance Act 1992[^f00012].
 
-### 4. Hostels and refuges[^key-d5df78ec4c60d0aeed72c410116126b1]
+### 4. Hostels and refuges[^c-d5df78ec4c60d0aeed72c410116126b1]
 
 (1) A tenancy that grants a right of occupation of accommodation in a hostel or refuge.
 
@@ -414,13 +414,13 @@ Regulation 2
 
 (7) In this paragraph “voluntary organisation” means a body, other than a public or local authority, whose activities are not carried on for profit.
 
-### 5. Care homes[^key-f32b8e6a5fc28716ea8c07ef397309a8]
+### 5. Care homes[^c-f32b8e6a5fc28716ea8c07ef397309a8]
 
 (1) A tenancy that grants a right of occupation in a care home.
 
 (2) In this paragraph “care home” has the meaning given in section 3 of the Care Standards Act 2000[^f00013].
 
-### 6. Hospitals and hospices[^key-022413ee427f7f8153116411bc706177]
+### 6. Hospitals and hospices[^c-022413ee427f7f8153116411bc706177]
 
 (1) A tenancy that grants a right of occupation of accommodation in a hospital or hospice.
 
@@ -428,13 +428,13 @@ Regulation 2
 
 (3) In this paragraph “hospice” means an establishment other than a hospital whose primary function is the provision of palliative care to persons resident there who are suffering from a progressive disease in its final stages.
 
-### 6A. Low cost ownership homes[^key-80693c8440881c7709a859684273b9f7]
+### 6A. Low cost ownership homes[^c-80693c8440881c7709a859684273b9f7]
 
 (1) A tenancy of accommodation which is low cost home ownership accommodation.
 
 (2) In this paragraph accommodation is low cost home ownership accommodation if it satisfies the conditions specified in section 70 of the Housing and Regeneration Act 2008.
 
-### 7. Other accommodation relating to healthcare provision[^key-ebfba9bb1f8b357da8e8caf4a22694be]
+### 7. Other accommodation relating to healthcare provision[^c-ebfba9bb1f8b357da8e8caf4a22694be]
 
 (1) A tenancy—
 
@@ -443,8 +443,8 @@ Regulation 2
 
 (2) In this paragraph “relevant NHS body” means—
 
-- (a) an integrated care board[^key-5ffcedcbee12679f34eb310cdf59aaa0]; or
-- (b) NHS England[^key-526998bfd2fa3f5baad192513a56d70c].
+- (a) an integrated care board[^c-5ffcedcbee12679f34eb310cdf59aaa0]; or
+- (b) NHS England[^c-526998bfd2fa3f5baad192513a56d70c].
 
 (3) In this paragraph “enactment” includes an enactment contained in subordinate legislation within the meaning of the Interpretation Act 1978[^f00015].
 
@@ -484,13 +484,13 @@ Two regulatory impact assessments have been prepared in relation to these Regula
 
 [^f00002]: Footnote: [2004 c. 34](https://www.legislation.gov.uk/ukpga/2004/34). As to the meaning of “appropriate national authority” see section 261(1).
 
-[^key-8c0dd9b1927f3d33d979b512e5fd25c4]: Commencement: Reg. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-8c0dd9b1927f3d33d979b512e5fd25c4]: Commencement: Reg. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-7191d6d693bfb86405ad0715f997e082]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/2) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/1)
+[^c-7191d6d693bfb86405ad0715f997e082]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/2) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/1)
 
-[^key-8d5e666836fd1c362f65273d0c8b3c5e]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/3) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/2)
+[^c-8d5e666836fd1c362f65273d0c8b3c5e]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/3) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/3/2)
 
-[^key-4611455e93d8a23ee2065972592730b6]: Commencement: Reg. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-4611455e93d8a23ee2065972592730b6]: Commencement: Reg. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
 [^f00003]: Footnote: See the definition of “premises” in s. 150(10) of the Energy Act 2013.
 
@@ -498,108 +498,108 @@ Two regulatory impact assessments have been prepared in relation to these Regula
 
 [^f00005]: Footnote: See the definition of “tenancy” in s. 150(10) of the Energy Act 2013.
 
-[^key-03937c1e1ff0cd2635ef544bd353d889]: Commencement: Reg. 3 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-03937c1e1ff0cd2635ef544bd353d889]: Commencement: Reg. 3 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-c39938b3ead5780034573d8dde0e0ee6]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/3/1) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/707/regulation/4)
+[^c-c39938b3ead5780034573d8dde0e0ee6]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/3/1) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2022/707/regulation/4)
 
-[^key-77694c2bfd520e2e55daa9c2ff1caab5]: Commencement: Reg. 4 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-77694c2bfd520e2e55daa9c2ff1caab5]: Commencement: Reg. 4 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-79c76a115c63e4082fdd93ed1ef93d6c]: Textual amendment: Words in reg. 4(1)(a) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/i)
+[^c-79c76a115c63e4082fdd93ed1ef93d6c]: Textual amendment: Words in reg. 4(1)(a) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/i)
 
-[^key-d08e18de94efdf9072aeb0677559c941]: Textual amendment: Words in reg. 4(1)(a)(ii) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/ii)
+[^c-d08e18de94efdf9072aeb0677559c941]: Textual amendment: Words in reg. 4(1)(a)(ii) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/ii)
 
-[^key-5e3a7a17284a22ab06eab3da04f7b24d]: Textual amendment: Word in reg. 4(1) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/iii)
+[^c-5e3a7a17284a22ab06eab3da04f7b24d]: Textual amendment: Word in reg. 4(1) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/iii)
 
-[^key-647f325566318f4ba66c9a6f9a14fbae]: Textual amendment: Reg. 4(1)(c) and word inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(iv)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/iv)
+[^c-647f325566318f4ba66c9a6f9a14fbae]: Textual amendment: Reg. 4(1)(c) and word inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(a)(iv)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/a/iv)
 
-[^key-4658daa5758f8a302a222cf201e59f98]: Textual amendment: Reg. 4(3A) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/b)
+[^c-4658daa5758f8a302a222cf201e59f98]: Textual amendment: Reg. 4(3A) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/b)
 
-[^key-5b89725dd0541b40376904b69c926388]: Textual amendment: Words in reg. 4(4) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/c)
+[^c-5b89725dd0541b40376904b69c926388]: Textual amendment: Words in reg. 4(4) substituted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2022/707/regulation/5/c)
 
-[^key-8cb5c81a246e33b8203977d76585c71f]: Textual amendment: Words in reg. 4(4) omitted (1.5.2026) by virtue of [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2026/325/regulation/11/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
+[^c-8cb5c81a246e33b8203977d76585c71f]: Textual amendment: Words in reg. 4(4) omitted (1.5.2026) by virtue of [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [11(a)](https://www.legislation.gov.uk/uksi/2026/325/regulation/11/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
 
-[^key-5c1245eecfd60a4d7a38e9d9e3ff3460]: Textual amendment: Words in reg. 4(4) omitted (1.5.2026) by virtue of [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2026/325/regulation/11/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
+[^c-5c1245eecfd60a4d7a38e9d9e3ff3460]: Textual amendment: Words in reg. 4(4) omitted (1.5.2026) by virtue of [The Renters’ Rights Act 2025 (Consequential Amendments) and Tenancies (Miscellaneous Amendments) (England) Regulations 2026 (S.I. 2026/325)](https://www.legislation.gov.uk/uksi/2026/325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/1), [11(b)](https://www.legislation.gov.uk/uksi/2026/325/regulation/11/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/325/regulation/1/3))
 
-[^key-d46a0ad077f16345bf18386ffa4c8042]: Commencement: Reg. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-d46a0ad077f16345bf18386ffa4c8042]: Commencement: Reg. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-9fc0abbaaf26be2adb364448928dd8fc]: Textual amendment: [Reg. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/5/4) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/707/regulation/6) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-9fc0abbaaf26be2adb364448928dd8fc]: Textual amendment: [Reg. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/5/4) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/707/regulation/6) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-780b840d3a281bf4fc3a6321be58d0ee]: Commencement: Reg. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-780b840d3a281bf4fc3a6321be58d0ee]: Commencement: Reg. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-913c6392ac62035b694e97c97c8cbb34]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/1) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-913c6392ac62035b694e97c97c8cbb34]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/1) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-3637941ea042fb95db827d0129dc5be3]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/1A) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-3637941ea042fb95db827d0129dc5be3]: Textual amendment: [Reg. 6(1A)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/1A) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-201d731c0f2130ef65e5d22ea89ae974]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/2) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/c/i) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-201d731c0f2130ef65e5d22ea89ae974]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/2) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(c)(i)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/c/i) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-9e6b9f46de29add339a4786fa82ae36b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/2) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/c/ii)
+[^c-9e6b9f46de29add339a4786fa82ae36b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/2) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(c)(ii)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/c/ii)
 
-[^key-dead9f0ee8b3ad22babede9cb8dd222a]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/3) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/d)
+[^c-dead9f0ee8b3ad22babede9cb8dd222a]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/6/3) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [7(d)](https://www.legislation.gov.uk/uksi/2022/707/regulation/7/d)
 
-[^key-ef300d0372946dc89fa3b34dcd18cf72]: Commencement: Reg. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-ef300d0372946dc89fa3b34dcd18cf72]: Commencement: Reg. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-f6c00978290c17d05d57aa1ff36ff8c0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/7/1) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/707/regulation/8/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-f6c00978290c17d05d57aa1ff36ff8c0]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/7/1) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [8(a)](https://www.legislation.gov.uk/uksi/2022/707/regulation/8/a) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-9d56f8fd206da45af07775694cee37bd]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/7/5) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/707/regulation/8/b)
+[^c-9d56f8fd206da45af07775694cee37bd]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/7/5) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [8(b)](https://www.legislation.gov.uk/uksi/2022/707/regulation/8/b)
 
-[^key-1ca7b2917f90007aea78175b28359dea]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/7/6) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2022/707/regulation/8/c)
+[^c-1ca7b2917f90007aea78175b28359dea]: Textual amendment: [Reg. 7(6)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/7/6) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2022/707/regulation/8/c)
 
-[^key-091b8c2dbf6ead4456bd8a757e2c0514]: Commencement: Reg. 8 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-091b8c2dbf6ead4456bd8a757e2c0514]: Commencement: Reg. 8 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-e25a35551aff286256e6b4f7c727cd86]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2015/1693/regulation/8) heading inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/9/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-e25a35551aff286256e6b4f7c727cd86]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2015/1693/regulation/8) heading inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [9(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/9/1) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-ee8c389293a7bd10b2f0d41761f948e9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/8/1) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/9/2) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
+[^c-ee8c389293a7bd10b2f0d41761f948e9]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/8/1) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2022/707/regulation/9/2) (with [reg. 14](https://www.legislation.gov.uk/uksi/2022/707/regulation/14))
 
-[^key-3b09beed4f4711d896f14dce58ca39dd]: Commencement: Reg. 9 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-3b09beed4f4711d896f14dce58ca39dd]: Commencement: Reg. 9 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-3bf4fb6f21fc3d7f3f63167630496389]: Commencement: Reg. 10 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-3bf4fb6f21fc3d7f3f63167630496389]: Commencement: Reg. 10 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-40a1412d51f912cdbce590f15b86f3c7]: Commencement: Reg. 11 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-40a1412d51f912cdbce590f15b86f3c7]: Commencement: Reg. 11 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-57ff41dbd0f1c7d6e9a68811d7261600]: Commencement: Reg. 12 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-57ff41dbd0f1c7d6e9a68811d7261600]: Commencement: Reg. 12 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
 [^f00008]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42); amendments have been made to section 5 but they are not relevant to these Regulations.
 
-[^key-65a90000762b49ae2598af97e5ff1b3c]: Commencement: Reg. 13 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-65a90000762b49ae2598af97e5ff1b3c]: Commencement: Reg. 13 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-6f55b10fbe8b2f82d968cb19f0af54e2]: Commencement: Reg. 14 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-6f55b10fbe8b2f82d968cb19f0af54e2]: Commencement: Reg. 14 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-945c5523b57039d3c104823c57d2e4f8]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/14/1) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2022/707/regulation/10)
+[^c-945c5523b57039d3c104823c57d2e4f8]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/14/1) omitted (1.10.2022) by virtue of [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2022/707/regulation/10)
 
 [^f00009]: Footnote: [1987 c. 31](https://www.legislation.gov.uk/ukpga/1987/31); amendments have been made to section 48 but they are not relevant to these Regulations.
 
 [^f00010]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f44edca32153c6b952acbdebf57ea4f4]: Commencement: Reg. 15 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-f44edca32153c6b952acbdebf57ea4f4]: Commencement: Reg. 15 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-6321618e1c3f5a0700fdc75a036807f7]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1693/regulation/16) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2022/707/regulation/11)
+[^c-6321618e1c3f5a0700fdc75a036807f7]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2015/1693/regulation/16) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2022/707/regulation/11)
 
-[^key-dfd05f73d98abfeb94ea64e7abf67df9]: Commencement: Sch. para. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-dfd05f73d98abfeb94ea64e7abf67df9]: Commencement: Sch. para. 1 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-37e081f1b95991a98182182212f2dfe1]: Commencement: Sch. para. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-37e081f1b95991a98182182212f2dfe1]: Commencement: Sch. para. 2 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
 [^f00011]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-fca69b66abf4e6f75ce43370d0a6379c]: Commencement: Sch. para. 3 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-fca69b66abf4e6f75ce43370d0a6379c]: Commencement: Sch. para. 3 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
 [^f00012]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-d5df78ec4c60d0aeed72c410116126b1]: Commencement: Sch. para. 4 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-d5df78ec4c60d0aeed72c410116126b1]: Commencement: Sch. para. 4 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-f32b8e6a5fc28716ea8c07ef397309a8]: Commencement: Sch. para. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-f32b8e6a5fc28716ea8c07ef397309a8]: Commencement: Sch. para. 5 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
 [^f00013]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), Schedule 5, Part 1, paragraphs 1, 4(1), (2) and (3).
 
-[^key-022413ee427f7f8153116411bc706177]: Commencement: Sch. para. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-022413ee427f7f8153116411bc706177]: Commencement: Sch. para. 6 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
 [^f00014]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41); amendments have been made to section 275 but they are not relevant to these Regulations.
 
-[^key-80693c8440881c7709a859684273b9f7]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2015/1693/schedule/paragraph/6A) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2022/707/regulation/12)
+[^c-80693c8440881c7709a859684273b9f7]: Textual amendment: [Sch. para. 6A](https://www.legislation.gov.uk/uksi/2015/1693/schedule/paragraph/6A) inserted (1.10.2022) by [The Smoke and Carbon Monoxide Alarm (Amendment) Regulations 2022 (S.I. 2022/707)](https://www.legislation.gov.uk/uksi/2022/707), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/707/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2022/707/regulation/12)
 
-[^key-ebfba9bb1f8b357da8e8caf4a22694be]: Commencement: Sch. para. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
+[^c-ebfba9bb1f8b357da8e8caf4a22694be]: Commencement: Sch. para. 7 in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1693/regulation/1/1)
 
-[^key-5ffcedcbee12679f34eb310cdf59aaa0]: Textual amendment: Words in [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2015/1693) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-5ffcedcbee12679f34eb310cdf59aaa0]: Textual amendment: Words in [Sch. para. 7(2)(a)](https://www.legislation.gov.uk/uksi/2015/1693) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-526998bfd2fa3f5baad192513a56d70c]: Textual amendment: Words in Sch. para. 7(2)(b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-526998bfd2fa3f5baad192513a56d70c]: Textual amendment: Words in Sch. para. 7(2)(b) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00015]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

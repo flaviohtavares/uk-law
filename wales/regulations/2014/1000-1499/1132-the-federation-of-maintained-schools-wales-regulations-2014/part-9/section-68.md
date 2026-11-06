@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Pupil discipline and exclusions committee[^key-cab1fb9cc2ccce0d466abdb842d0249c]
+## 68. Pupil discipline and exclusions committee[^c-cab1fb9cc2ccce0d466abdb842d0249c]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cab1fb9cc2ccce0d466abdb842d0249c]: Commencement: Reg. 68 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-cab1fb9cc2ccce0d466abdb842d0249c]: Commencement: Reg. 68 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
 
 [^f00037]: Footnote: *See* the Education (Pupil Exclusions and Appeals) (Maintained Schools) (Wales) Regulations 2003 ([S.I. 2003/3227 (W.308)](https://www.legislation.gov.uk/wsi/2003/3227)) as amended by the Education (Pupil Exclusions and Appeals) (Wales) (Miscellaneous Amendments) Regulations 2004 ([S.I. 2004/1805 (W.193)](https://www.legislation.gov.uk/wsi/2004/1805)).

@@ -33,7 +33,7 @@ An Act to restrict the operation of section 15 of the Wills Act 1837.
 
 \[30th May 1968\][^c683144]
 
-## 1. Restriction of operation of Wills Act 1837, s. 15.[^key-78b3700db131c4cc3a86edd6b601ce41]
+## 1. Restriction of operation of Wills Act 1837, s. 15.[^c-78b3700db131c4cc3a86edd6b601ce41]
 
 (1) For the purposes of section 15 of the [^c683145]Wills Act 1837 (avoidance of gifts to attesting witnesses and their spouses) the attestation of a will by a person to whom or to whose spouse there is given or made any such disposition as is described in that section shall be disregarded if the will is duly executed without his attestation and without that of any other such person.
 
@@ -49,6 +49,6 @@ An Act to restrict the operation of section 15 of the Wills Act 1837.
 
 [^c683144]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
 
-[^key-78b3700db131c4cc3a86edd6b601ce41]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1968/28/section/1) applied (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-78b3700db131c4cc3a86edd6b601ce41]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1968/28/section/1) applied (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c683145]: Marginal citation: [1837 c. 26](https://www.legislation.gov.uk/ukpga/1837/26).

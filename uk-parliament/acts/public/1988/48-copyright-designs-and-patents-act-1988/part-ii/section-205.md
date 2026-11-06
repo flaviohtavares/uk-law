@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In England and Wales the county court and in[^key-935d1745efbd64690ffa8135e4512ead] Northern Ireland a county court may entertain proceedings under—
+(1) In England and Wales the county court and in[^c-935d1745efbd64690ffa8135e4512ead] Northern Ireland a county court may entertain proceedings under—
 
 - section 195 (order for delivery up of illicit recording), or
 - section 204 (order as to disposal of illicit recording),
@@ -35,6 +35,6 @@ save that, in Northern Ireland, a county court may entertain such proceedings on
 
 [^c20314171]: Editorial: The insertion of the new headings "Chapter 1 Introductory", "Chapter 2 Economic Rights", "Chapter 3 Moral Rights" and "Chapter 4 Qualification for Protection, Extent and Interpretation" in Pt. II on 1.2.2006 gives rise to a change in the structure of this legislation on SLD which breaks the continuity of historical versions of the existing provisions which are now brought under those new headings.
 
-[^key-935d1745efbd64690ffa8135e4512ead]: Textual amendment: Words in s. 205(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/72); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-935d1745efbd64690ffa8135e4512ead]: Textual amendment: Words in s. 205(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 72](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/72); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c20312321]: Textual amendment: Words in s. 205(1) inserted by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(8)](https://www.legislation.gov.uk/uksi/1991/724/article/2/8), [Schedule Part I](https://www.legislation.gov.uk/uksi/1991/724/schedule)

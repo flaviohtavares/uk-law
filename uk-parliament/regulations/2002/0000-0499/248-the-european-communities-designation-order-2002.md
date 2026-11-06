@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 2002 (revoked)[^key-010e486883147adf6f568eff438a862e]
+The European Communities (Designation) Order 2002 (revoked)[^c-010e486883147adf6f568eff438a862e]
 
 Made
 
@@ -51,56 +51,56 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-010e486883147adf6f568eff438a862e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-010e486883147adf6f568eff438a862e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-010e486883147adf6f568eff438a862e]
+## 1. Citation, commencement and interpretation[^c-010e486883147adf6f568eff438a862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of Ministers or departments[^key-010e486883147adf6f568eff438a862e]
+## 2. Designation of Ministers or departments[^c-010e486883147adf6f568eff438a862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of the National Assembly for Wales[^key-010e486883147adf6f568eff438a862e]
+## 3. Designation of the National Assembly for Wales[^c-010e486883147adf6f568eff438a862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of earlier designations[^key-010e486883147adf6f568eff438a862e]
+## 4. Revocation of earlier designations[^c-010e486883147adf6f568eff438a862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of earlier Order[^key-010e486883147adf6f568eff438a862e]
+## 5. Amendment of earlier Order[^c-010e486883147adf6f568eff438a862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-010e486883147adf6f568eff438a862e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-010e486883147adf6f568eff438a862e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DESIGNATION OF MINISTERS OR DEPARTMENTS[^key-010e486883147adf6f568eff438a862e]
+## SCHEDULE 1 — DESIGNATION OF MINISTERS OR DEPARTMENTS[^c-010e486883147adf6f568eff438a862e]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^key-010e486883147adf6f568eff438a862e]
+## SCHEDULE 2 — MATTERS IN RELATION TO WHICH THE NATIONAL ASSEMBLY FOR WALES IS DESIGNATED[^c-010e486883147adf6f568eff438a862e]
 
 Article 3
 
-[^key-010e486883147adf6f568eff438a862e]
+[^c-010e486883147adf6f568eff438a862e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — REVOCATION OF DESIGNATIONS[^key-010e486883147adf6f568eff438a862e]
+## SCHEDULE 3 — REVOCATION OF DESIGNATIONS[^c-010e486883147adf6f568eff438a862e]
 
 Article 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-010e486883147adf6f568eff438a862e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-010e486883147adf6f568eff438a862e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-010e486883147adf6f568eff438a862e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/248) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-010e486883147adf6f568eff438a862e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/248) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. 2007 scheme ceasing to have effect, with savings[^key-c64d493cbe68e3c8246fd0df1d10f115]
+## 4. 2007 scheme ceasing to have effect, with savings[^c-c64d493cbe68e3c8246fd0df1d10f115]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c64d493cbe68e3c8246fd0df1d10f115]: Commencement: Art. 4 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-c64d493cbe68e3c8246fd0df1d10f115]: Commencement: Art. 4 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
 [^f00004]: Footnote: .[S.R. 2007 No. 144](https://www.legislation.gov.uk/nisr/2007/144)

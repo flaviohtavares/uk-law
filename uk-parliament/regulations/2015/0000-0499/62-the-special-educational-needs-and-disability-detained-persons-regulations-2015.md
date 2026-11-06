@@ -94,7 +94,7 @@ before determining whether it may be necessary for special educational provision
 - (f) in relation to a detained person who is a young person—
   - (i) if the young person is a registered pupil at a school, the head teacher of that school (or the person holding the equivalent position), or
   - (ii) if the young person is a student at a post-16 institution, the principal of that institution (or the person holding the equivalent position), and
-- (g) in relation to a detained person who has been deleted from the admission register in accordance with regulation 9(1)(j) of the School Attendance (Pupil Registration) (England) Regulations 2024[^key-8eded1642e0a80218b4c5ecd7945e796], the person from whom the authority is required to seek advice and information from under regulation 6(1)(b).
+- (g) in relation to a detained person who has been deleted from the admission register in accordance with regulation 9(1)(j) of the School Attendance (Pupil Registration) (England) Regulations 2024[^c-8eded1642e0a80218b4c5ecd7945e796], the person from whom the authority is required to seek advice and information from under regulation 6(1)(b).
 
 #### 5. Decision whether or not to conduct a detained person's EHC needs assessment
 
@@ -624,7 +624,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22332511]: Marginal citation: Pupil has the meaning in section 3 of EA 1996.
 
-[^key-8eded1642e0a80218b4c5ecd7945e796]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2015/62/regulation/4/2/g) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/5/2)
+[^c-8eded1642e0a80218b4c5ecd7945e796]: Textual amendment: Words in [reg. 4(2)(g)](https://www.legislation.gov.uk/uksi/2015/62/regulation/4/2/g) substituted (19.8.2024) by [The School Attendance (Pupil Registration) (England) Regulations 2024 (S.I. 2024/208)](https://www.legislation.gov.uk/uksi/2024/208), [reg. 1](https://www.legislation.gov.uk/uksi/2024/208/regulation/1), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2024/208/schedule/1/paragraph/5/2)
 
 [^c22332531]: Marginal citation: [1970 c.44](https://www.legislation.gov.uk/ukpga/1970/44); section 2(1) was amended by section 14(1) and Schedule 2, paragraph 12 of the [Local Authority Social Services Act 1970 (c.42)](https://www.legislation.gov.uk/ukpga/1970/42); and by section 272(1) and Schedule 30 of the [Local Government Act 1972 (c.70)](https://www.legislation.gov.uk/ukpga/1972/70); and section 66, and paragraph 12 of Schedule 9 and Schedule 10 of the [National Health Service and Community Care Act 1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19). Section 2(1A) was inserted by section 148(3) of the [Health and Social Care Act 2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14). Section 2(2) was repealed by section 272(1) and Schedule 30 of the Local Government Act 1972.
 

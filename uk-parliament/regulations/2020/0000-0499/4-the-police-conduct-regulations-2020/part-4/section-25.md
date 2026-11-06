@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Joint misconduct proceedings[^key-35b0e0cce53933287e7f60fca3705522]
+## 25. Joint misconduct proceedings[^c-35b0e0cce53933287e7f60fca3705522]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35b0e0cce53933287e7f60fca3705522]: Commencement: Reg. 25 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-35b0e0cce53933287e7f60fca3705522]: Commencement: Reg. 25 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

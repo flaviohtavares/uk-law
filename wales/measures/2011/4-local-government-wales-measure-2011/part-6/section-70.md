@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Appointments to be made by political groups[^key-ea6ba211bac7ca52e0ac331024549143]
+## 70. Appointments to be made by political groups[^c-ea6ba211bac7ca52e0ac331024549143]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea6ba211bac7ca52e0ac331024549143]: Commencement: [S. 70](https://www.legislation.gov.uk/mwa/2011/4/section/70) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-ea6ba211bac7ca52e0ac331024549143]: Commencement: [S. 70](https://www.legislation.gov.uk/mwa/2011/4/section/70) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

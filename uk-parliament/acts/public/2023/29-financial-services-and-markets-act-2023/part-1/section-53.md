@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Consultation on rules[^key-5f03dcf08c34fce0b86b4bacc9e85cb5][^key-dbe241cbe4fda86b059024cfe5bdbe7b]
+## 53. Consultation on rules[^c-5f03dcf08c34fce0b86b4bacc9e85cb5][^c-dbe241cbe4fda86b059024cfe5bdbe7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f03dcf08c34fce0b86b4bacc9e85cb5]: Commencement: S. 53 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-5f03dcf08c34fce0b86b4bacc9e85cb5]: Commencement: S. 53 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-dbe241cbe4fda86b059024cfe5bdbe7b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/29/section/53) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(mm)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/mm)
+[^c-dbe241cbe4fda86b059024cfe5bdbe7b]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/29/section/53) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(mm)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/mm)

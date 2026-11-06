@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Requirement to respond to annual report[^key-b60c8c2902e599caceb818e8c29aa87b]
+## 19. Requirement to respond to annual report[^c-b60c8c2902e599caceb818e8c29aa87b]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ the Commissioner may, in the report, impose on the person a requirement to respo
 
 ## Annotations
 
-[^key-b60c8c2902e599caceb818e8c29aa87b]: Commencement: S. 19 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-b60c8c2902e599caceb818e8c29aa87b]: Commencement: S. 19 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

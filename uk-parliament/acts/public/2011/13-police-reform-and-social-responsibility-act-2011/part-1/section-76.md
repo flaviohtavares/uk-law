@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Interpretation of Chapter 6[^key-5abb68b72fa5b4a68a77f32cda18f83d]
+## 76. Interpretation of Chapter 6[^c-5abb68b72fa5b4a68a77f32cda18f83d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Chapter, the following terms have the following meanings, unless the con
 
 ## Annotations
 
-[^key-5abb68b72fa5b4a68a77f32cda18f83d]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2011/13/section/76) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-5abb68b72fa5b4a68a77f32cda18f83d]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2011/13/section/76) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 379C. Creditors' ability to opt out of receiving certain notices[^key-36694043418a88a612b281c39f8b7adc]
+## 379C. Creditors' ability to opt out of receiving certain notices[^c-36694043418a88a612b281c39f8b7adc]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36694043418a88a612b281c39f8b7adc]: Textual amendment: S. 379C inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 125(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/125/3), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)
+[^c-36694043418a88a612b281c39f8b7adc]: Textual amendment: S. 379C inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 125(3)](https://www.legislation.gov.uk/ukpga/2015/26/section/125/3), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)

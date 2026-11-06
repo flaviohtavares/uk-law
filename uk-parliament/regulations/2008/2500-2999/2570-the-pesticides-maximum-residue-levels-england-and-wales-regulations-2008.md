@@ -91,11 +91,11 @@ Any notice under these Regulations—
 - (b) may be subject to conditions; and
 - (c) may be amended, suspended or revoked by a notice issued by an inspector.
 
-## 4. Designated national authority[^key-dec6e2ca0c0f2f4483f0bd29cdd08688]
+## 4. Designated national authority[^c-dec6e2ca0c0f2f4483f0bd29cdd08688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Functions of the member State[^key-3504fff4e35ae2268ba8809a0b2952c5]
+## 5. Functions of the member State[^c-3504fff4e35ae2268ba8809a0b2952c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -106,7 +106,7 @@ It is an offence for any person to—
 - (a) place on the market as food or feed, or
 - (b) feed to any animal,
 
-any product listed in Section A or B of a list in Part 1 of the MRLs register in relation to England or Wales[^key-9d059b8da9a84a8b50f47600be5a5833] in breach of Article 18(1) of Regulation 396/2005[^key-d5795308154273cea8dc2e054f2f797e] as read with Article 20(1) of that Regulation.
+any product listed in Section A or B of a list in Part 1 of the MRLs register in relation to England or Wales[^c-9d059b8da9a84a8b50f47600be5a5833] in breach of Article 18(1) of Regulation 396/2005[^c-d5795308154273cea8dc2e054f2f797e] as read with Article 20(1) of that Regulation.
 
 ## 7. Prohibition on processing and mixing products
 
@@ -114,7 +114,7 @@ It is an offence for any person to process or mix any products specified in Arti
 
 ## 8. Powers of inspectors
 
-(1) The Secretary of State[^key-a3883cc35a60e873d33b2dbd00886c16] (in England) and the Welsh Ministers (in Wales) may appoint any person to be an inspector for the purposes of these Regulations.
+(1) The Secretary of State[^c-a3883cc35a60e873d33b2dbd00886c16] (in England) and the Welsh Ministers (in Wales) may appoint any person to be an inspector for the purposes of these Regulations.
 
 (2) Schedule 1 (powers of inspectors) has effect.
 
@@ -155,7 +155,7 @@ A person guilty of an offence under these Regulations is liable—
 
 These Regulations are enforced—
 
-- (a) in England, by the Secretary of State[^key-ec2520108b93beddf179c4592719327b]; and
+- (a) in England, by the Secretary of State[^c-ec2520108b93beddf179c4592719327b]; and
 - (b) in Wales, by the Welsh Ministers.
 
 ## 13. Revocations
@@ -286,19 +286,19 @@ A Regulatory Impact Assessment (RIA) was prepared for the Pesticides (Maximum Re
 
 [^f00005]: Footnote: Paragraph 1A of Schedule 2 to the European Communities Act 1972 was inserted by section 28 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-dec6e2ca0c0f2f4483f0bd29cdd08688]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2570/regulation/4) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2019/306/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dec6e2ca0c0f2f4483f0bd29cdd08688]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/2570/regulation/4) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2019/306/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3504fff4e35ae2268ba8809a0b2952c5]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2570/regulation/5) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2019/306/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3504fff4e35ae2268ba8809a0b2952c5]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2008/2570/regulation/5) omitted (31.12.2020) by virtue of [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/4), [11](https://www.legislation.gov.uk/uksi/2019/306/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_b938796f-da89-4878-e2d4-de997555eee3]: Textual amendment: Regs. 4, 5 substituted (1.3.2019) by [The Pesticides and Fertilisers (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/306)](https://www.legislation.gov.uk/uksi/2019/306), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/306/regulation/1/3), [3(2)](https://www.legislation.gov.uk/uksi/2019/306/regulation/3/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/306/regulation/4))
 
-[^key-9d059b8da9a84a8b50f47600be5a5833]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2570/regulation/6) substituted (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/2/a) (with [reg. 14(3)-(5)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d059b8da9a84a8b50f47600be5a5833]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2570/regulation/6) substituted (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/2/a) (with [reg. 14(3)-(5)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d5795308154273cea8dc2e054f2f797e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2570/regulation/6) substituted (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/2/b) (with [reg. 14(3)-(5)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5795308154273cea8dc2e054f2f797e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/2570/regulation/6) substituted (31.12.2020) by [The Pesticides (Maximum Residue Levels) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/557)](https://www.legislation.gov.uk/uksi/2019/557), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/557/regulation/1/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/2/b) (with [reg. 14(3)-(5)](https://www.legislation.gov.uk/uksi/2019/557/regulation/14/3)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [6(8)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/6/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a3883cc35a60e873d33b2dbd00886c16]: Textual amendment: Words in reg. 8(1) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4)
+[^c-a3883cc35a60e873d33b2dbd00886c16]: Textual amendment: Words in reg. 8(1) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4)
 
-[^key-ec2520108b93beddf179c4592719327b]: Textual amendment: Words in reg. 12(a) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4)
+[^c-ec2520108b93beddf179c4592719327b]: Textual amendment: Words in reg. 12(a) substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4)
 
 [^f00006]: Footnote: [S.I. 2005/3286](https://www.legislation.gov.uk/uksi/2005/3286), as amended by [S.I. 2006/985](https://www.legislation.gov.uk/uksi/2006/985), [2006/1742](https://www.legislation.gov.uk/uksi/2006/1742), [2006/2922](https://www.legislation.gov.uk/uksi/2006/2922), [2007/971](https://www.legislation.gov.uk/uksi/2007/971), [2007/2083](https://www.legislation.gov.uk/uksi/2007/2083), [2007/2998](https://www.legislation.gov.uk/uksi/2007/2998), [2007/3297](https://www.legislation.gov.uk/uksi/2007/3297) and [2008/665](https://www.legislation.gov.uk/uksi/2008/665).
 

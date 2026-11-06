@@ -26,8 +26,8 @@ summary: ''
 
 (3) In relation to any young offender institution, section 14(6) of the Prison Act 1952 shall have effect so as to enable the provision of special rooms instead of special cells for the temporary confinement of refractory or violent inmates.
 
-(4) An inmate shall not be confined under this rule for longer than 24 hours without a direction in writing given[^key-60f8844e3f7aad50a5ec9f289f2a8b46]... by an officer of the Secretary of State [^key-60f8844e3f7aad50a5ec9f289f2a8b46]....
+(4) An inmate shall not be confined under this rule for longer than 24 hours without a direction in writing given[^c-60f8844e3f7aad50a5ec9f289f2a8b46]... by an officer of the Secretary of State [^c-60f8844e3f7aad50a5ec9f289f2a8b46]....
 
 ## Annotations
 
-[^key-60f8844e3f7aad50a5ec9f289f2a8b46]: Textual amendment: Words in [rule 51(4)](https://www.legislation.gov.uk/uksi/2000/3371/rule/51/4) omitted (3.1.2006) by virtue of [The Young Offender Institution (Amendment) (No. 2) Rules 2005 (S.I. 2005/3438)](https://www.legislation.gov.uk/uksi/2005/3438), [rule 1](https://www.legislation.gov.uk/uksi/2005/3438/rule/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/3438/schedule/paragraph/8)
+[^c-60f8844e3f7aad50a5ec9f289f2a8b46]: Textual amendment: Words in [rule 51(4)](https://www.legislation.gov.uk/uksi/2000/3371/rule/51/4) omitted (3.1.2006) by virtue of [The Young Offender Institution (Amendment) (No. 2) Rules 2005 (S.I. 2005/3438)](https://www.legislation.gov.uk/uksi/2005/3438), [rule 1](https://www.legislation.gov.uk/uksi/2005/3438/rule/1), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/3438/schedule/paragraph/8)

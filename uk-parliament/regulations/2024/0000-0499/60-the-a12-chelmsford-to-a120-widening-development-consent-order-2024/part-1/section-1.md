@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-f6381b1f5be4aa5a3b7ece201c1242b2]
+## 1. Citation and commencement[^c-f6381b1f5be4aa5a3b7ece201c1242b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A12 Chelmsford to A120 Widening Development Conse
 
 ## Annotations
 
-[^key-f6381b1f5be4aa5a3b7ece201c1242b2]: Commencement: Art. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-f6381b1f5be4aa5a3b7ece201c1242b2]: Commencement: Art. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

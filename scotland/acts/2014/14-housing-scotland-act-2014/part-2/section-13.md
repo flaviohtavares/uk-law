@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Succession to Scottish secure tenancy[^key-95f7a920ae4f6680852166acb2b0a9fc]
+## 13. Succession to Scottish secure tenancy[^c-95f7a920ae4f6680852166acb2b0a9fc]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ In schedule 3 to the 2001 Act (succession to Scottish secure tenancy: qualified 
 
 ## Annotations
 
-[^key-95f7a920ae4f6680852166acb2b0a9fc]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/14/section/13) in force at 1.11.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 8](https://www.legislation.gov.uk/ssi/2018/153/article/8), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-95f7a920ae4f6680852166acb2b0a9fc]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2014/14/section/13) in force at 1.11.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 8](https://www.legislation.gov.uk/ssi/2018/153/article/8), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

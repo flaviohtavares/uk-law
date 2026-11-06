@@ -42,25 +42,25 @@ Coming into operation
 
 6th April 2011
 
-The Department of the Environment, as the appropriate licensing authority under section 113(6)(b) of the Marine and Coastal Access Act 2009[^f00001], in exercise of the powers conferred by sections 74(1) and 316(1), having had regard to the matters mentioned in section 74(4) and having carried out consultation in accordance with section 74(5) of that Act, makes the following Order.[^key-b122c088e188a80077ed856b77e60895]
+The Department of the Environment, as the appropriate licensing authority under section 113(6)(b) of the Marine and Coastal Access Act 2009[^f00001], in exercise of the powers conferred by sections 74(1) and 316(1), having had regard to the matters mentioned in section 74(4) and having carried out consultation in accordance with section 74(5) of that Act, makes the following Order.[^c-b122c088e188a80077ed856b77e60895]
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-cd52135617cd40a846cc6d8b8d6f92cb]
+### 1. Citation and commencement[^c-cd52135617cd40a846cc6d8b8d6f92cb]
 
 This Order may be cited as the Marine Licensing (Exempted Activities) Order (Northern Ireland) 2011 and comes into operation on 6th April 2011.
 
-### 2. Application[^key-67f3528ba96cef71f05ecd3375848f08]
+### 2. Application[^c-67f3528ba96cef71f05ecd3375848f08]
 
 This Order applies in relation to Northern Ireland and the Northern Ireland inshore region, and any activity carried on in Northern Ireland or the Northern Ireland inshore region, for which the Department of the Environment is the appropriate licensing authority under section 113(6) of the Marine and Coastal Act 2009[^f00002].
 
-### 3. Interpretation[^key-a277d4bebb9fee6acbe112e2a3eb04ec]
+### 3. Interpretation[^c-a277d4bebb9fee6acbe112e2a3eb04ec]
 
 (1) In this Order—
 
 - “the Act” means the Marine and Coastal Access Act 2009;
 - “activity” means licensable marine activity[^f00003];
-- “Commission Directive ([^key-51d3293816afd4ca7df925e51a2917a9]EU) 2015/1127” means Commission Directive (EU) 2015/1127 of 10th July 2015 amending Annex II to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and the Council on waste and repealing certain Directives;
+- “Commission Directive ([^c-51d3293816afd4ca7df925e51a2917a9]EU) 2015/1127” means Commission Directive (EU) 2015/1127 of 10th July 2015 amending Annex II to [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and the Council on waste and repealing certain Directives;
 - “disposal” has the meaning given by Article 3 of the Waste Framework Directive;
 - “a European site” means—
   - (a) a European site within the meaning of regulation 9(1) of the Conservation (Nature Habitats, etc.) Regulations (Northern Ireland) 1995[^f00004]; and
@@ -70,7 +70,7 @@ This Order applies in relation to Northern Ireland and the Northern Ireland insh
 - “harbour authority” has the meaning given by section 38(1) of the Harbours Act (Northern Ireland) 1970[^f00006];
 - “licensing authority” means the appropriate licensing authority under section 113(6)(b) of the Act;
 - “lighthouse authority” means a general lighthouse authority or a local lighthouse authority within the meaning of Part 8 of the Merchant Shipping Act 1995[^f00007];
-- “[^key-bdcf473b96fd0645a57a81abc467edc7]**marine litter**” means any persistent, manufactured or processed solid material discarded, disposed of or abandoned in the marine and coastal environment;
+- “[^c-bdcf473b96fd0645a57a81abc467edc7]**marine litter**” means any persistent, manufactured or processed solid material discarded, disposed of or abandoned in the marine and coastal environment;
 - “**MCZ**” means a marine conservation zone designated under section 13(1) of the Marine Act (Northern Ireland) 2013;
 - “plan or project” has the same meaning as in Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00008];
 - “protected feature” has the meaning given by section 147(1) of the Act;
@@ -78,10 +78,10 @@ This Order applies in relation to Northern Ireland and the Northern Ireland insh
 - “shellfish” includes crustaceans and molluscs of any kind and any part of a shellfish;
 - “waste” means anything that—
   - (a) is waste within the meaning of Article 3(1) of the Waste Framework Directive, as read with Article 5(1) of that Directive; and
-  - (b) is not excluded from the scope of that Directive by Article 2(1), 2(2) or 2(3) of that Directive; and ,[^key-7e6d28f63cf601c08e7236efebfa308e]
+  - (b) is not excluded from the scope of that Directive by Article 2(1), 2(2) or 2(3) of that Directive; and ,[^c-7e6d28f63cf601c08e7236efebfa308e]
 
   for this purpose Article 5(1) of that Directive is to be read as if the words “Member States shall take appropriate measures to ensure that” were omitted; and
-- “[^key-c6293170b05e1773536dc2760449fe2a]**the Waste Framework Directive**” means [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851.
+- “[^c-c6293170b05e1773536dc2760449fe2a]**the Waste Framework Directive**” means [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste, as last amended by Directive (EU) 2018/851.
 
 (2) A reference in this Order to a numbered item is a reference to that numbered item in section 66(1) of the Act (Licensable marine activities).
 
@@ -89,7 +89,7 @@ This Order applies in relation to Northern Ireland and the Northern Ireland insh
 
 ## PART 2 — Exempt activities – general provisions
 
-### 4. Exemption from need for marine licence[^key-2274a1873c8066b371671f67a53c639f]
+### 4. Exemption from need for marine licence[^c-2274a1873c8066b371671f67a53c639f]
 
 (1) A marine licence is not needed for an activity that is an exempt activity.
 
@@ -102,7 +102,7 @@ This Order applies in relation to Northern Ireland and the Northern Ireland insh
 
 (4) Nothing in this Order makes an activity an exempt activity to the extent to which the carrying on of the activity is contrary to international law.
 
-### 5. Activities relating to disposal or recovery of waste[^key-6cca6490bc784edf0767ec03bd23ad5c]
+### 5. Activities relating to disposal or recovery of waste[^c-6cca6490bc784edf0767ec03bd23ad5c]
 
 (1) An activity carried on by an establishment or undertaking involving the disposal or recovery of waste is not an exempt activity unless conditions 1 to 3 are satisfied.
 
@@ -122,12 +122,12 @@ This Order applies in relation to Northern Ireland and the Northern Ireland insh
 (7) In this Article—
 
 - (a) “establishment” and “undertaking” have the same meaning as in Articles 23 and 24 of the Waste Framework Directive;
-- (b)[^key-375141b0af46c48deb5edac8f0333bb4] “recovery” means any operation the principal result of which is the waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared for that function, in the plant or in the wider economy. Annex II to the Directive, as amended by Commission Directive (EU) 2015/1127, sets out a non-exhaustive list of recovery operations; and
+- (b)[^c-375141b0af46c48deb5edac8f0333bb4] “recovery” means any operation the principal result of which is the waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared for that function, in the plant or in the wider economy. Annex II to the Directive, as amended by Commission Directive (EU) 2015/1127, sets out a non-exhaustive list of recovery operations; and
 - (c) “non-hazardous waste” has the same meaning as in the Waste Framework Directive.
 
 ## PART 3 — Activities to which Article 4 applies and conditions
 
-### 6. Interpretation of this Part[^key-4ce3b6dd1ccf342e5b464ff6359340fd]
+### 6. Interpretation of this Part[^c-4ce3b6dd1ccf342e5b464ff6359340fd]
 
 (1) In this Part, a reference to a numbered item is a reference to that numbered item in section 66(1) of the Act.
 
@@ -138,11 +138,11 @@ This Order applies in relation to Northern Ireland and the Northern Ireland insh
 - (c) a reference to a “removal activity” is a reference to an activity falling within item 8 (use of vehicle, vessel etc to remove substance or object from sea bed within UK marine licensing area); and
 - (d) a reference to a “works activity” is a reference to an activity falling within item 7 (construction, alteration or improvement of works within UK marine licensing area etc).
 
-### 7. Activities falling within Part 6 of the Merchant Shipping Act 1995[^key-74ca411259c42dcd91536167302638f8]
+### 7. Activities falling within Part 6 of the Merchant Shipping Act 1995[^c-74ca411259c42dcd91536167302638f8]
 
 Article 4 applies to an activity falling within the subject matter of Part 6 of the Merchant Shipping Act 1995[^f00013] (pollution etc).
 
-### 8. Safety directions under the Merchant Shipping Act 1995[^key-d591d2727a6b4b5b664ab3eabb2938db]
+### 8. Safety directions under the Merchant Shipping Act 1995[^c-d591d2727a6b4b5b664ab3eabb2938db]
 
 Article 4 applies to an activity carried on—
 
@@ -150,19 +150,19 @@ Article 4 applies to an activity carried on—
 - (b) by any person for the purpose of complying with a direction under that Schedule; or
 - (c) by any person for the purpose of avoiding interference with action taken by virtue of that Schedule.
 
-### 9. Salvage activities[^key-297b2f474836548e918c6d6a654d239b]
+### 9. Salvage activities[^c-297b2f474836548e918c6d6a654d239b]
 
 Article 4 applies to an activity carried on, in the course of a salvage operation, for the purpose of ensuring the safety of a vessel or preventing pollution.
 
-### 10. Fire fighting etc[^key-6e75ed0376f10becdaa2c2af6a5bbc01]
+### 10. Fire fighting etc[^c-6e75ed0376f10becdaa2c2af6a5bbc01]
 
 Article 4 applies to an activity carried on for the purpose of fighting, or preventing the spread of, any fire.
 
-### 11. Air accident investigation[^key-b0807d1ec2ba3ddddb7cf2b8462cfaba]
+### 11. Air accident investigation[^c-b0807d1ec2ba3ddddb7cf2b8462cfaba]
 
 Article 4 applies to a deposit or removal activity carried on for the purpose of recovering any substance or object as part of an investigation into any accident involving any aircraft.
 
-### 12. Fishing operations[^key-dfa6f4385a355fa8ae666ee02180deb2]
+### 12. Fishing operations[^c-dfa6f4385a355fa8ae666ee02180deb2]
 
 (1) Article 4 applies to any of the following activities if carried on in the course of a fishing operation—
 
@@ -170,7 +170,7 @@ Article 4 applies to a deposit or removal activity carried on for the purpose of
 - (b) a removal activity or dredging activity carried on for the purpose of—
   - (i) fishing for or taking fish; or
   - (ii) removing fishing gear; or
-- (c) the deposit by way of return to the sea of any fish or other object , provided that the fish or other object has not been landed before being so returned[^key-48bed4ea325b3c20db59976457ad852f].
+- (c) the deposit by way of return to the sea of any fish or other object , provided that the fish or other object has not been landed before being so returned[^c-48bed4ea325b3c20db59976457ad852f].
 
 (2) Article 4 also applies to the deposit by way of return to the sea of any fish during the course of fish processing at sea.
 
@@ -179,11 +179,11 @@ Article 4 applies to a deposit or removal activity carried on for the purpose of
 - (a) “fish” includes shellfish and any part of a fish; and
 - (b) “fishing gear” includes gear used to fish for or take shellfish, but does not otherwise include anything used in connection with the propagation or cultivation of shellfish.
 
-### 13. Shellfish propagation and cultivation[^key-d606392bc02bb5cfa48cb77053e1f036]
+### 13. Shellfish propagation and cultivation[^c-d606392bc02bb5cfa48cb77053e1f036]
 
 (1) Article 4 applies—
 
-- (a) to the deposit of any shellfish, trestle, raft, cage, pole, rope , marker[^key-66dbb02839b1c7d35b9cceec1263e89a] or line in the course of the propagation or cultivation of shellfish; and
+- (a) to the deposit of any shellfish, trestle, raft, cage, pole, rope , marker[^c-66dbb02839b1c7d35b9cceec1263e89a] or line in the course of the propagation or cultivation of shellfish; and
 - (b) to a removal activity or dredging activity carried on for the purpose of moving shellfish within the sea in the course of its propagation or cultivation.
 
 (2) But Article 4 does not apply—
@@ -192,14 +192,14 @@ Article 4 applies to a deposit or removal activity carried on for the purpose of
 - (b) to any such deposit made for the purpose of creating, altering or maintaining an artificial reef; or
 - (c) to any such deposit that causes or is likely to cause obstruction or danger to navigation.
 
-### 14. Discharge etc of offshore chemicals and oil[^key-e037cf6b3ace1405df89f9d26eaa6722]
+### 14. Discharge etc of offshore chemicals and oil[^c-e037cf6b3ace1405df89f9d26eaa6722]
 
 Article 4 applies to any activity in relation to which a permit is required under—
 
 - (a) the Offshore Chemicals Regulations 2002[^f00015]; or
 - (b) the Offshore Petroleum Activities (Oil Pollution Prevention and Control) Regulations 2005[^f00016].
 
-### 15. Deposits of marine chemical and marine oil treatment substances etc[^key-7f0f96b8fba7d74b996030137c3bc487]
+### 15. Deposits of marine chemical and marine oil treatment substances etc[^c-7f0f96b8fba7d74b996030137c3bc487]
 
 (1) Article 4 applies—
 
@@ -207,19 +207,19 @@ Article 4 applies to any activity in relation to which a permit is required unde
 - (b) to the deposit of any marine oil treatment substance; or
 - (c) to the deposit of any substance used or intended to be used for removing surface fouling matter from the surface of the sea or of the sea bed.
 
-(2) Paragraph (1) is subject to conditions 1 to 3[^key-bd682cb73299c50ae22aceca488e4c46] .
+(2) Paragraph (1) is subject to conditions 1 to 3[^c-bd682cb73299c50ae22aceca488e4c46] .
 
 (3) Condition 1 is that the substance must be one the use of which is for the time being approved for the purposes of this Order by the licensing authority.
 
 (4) Condition 2 is that the substance must be used in accordance with any conditions to which the approval is subject.
 
-(5)[^key-66be3906eb09863c4ef34d4b32a1fd42] Condition 3 is that the deposit may only be made in accordance with an approval granted by the licensing authority for that purpose.
+(5)[^c-66be3906eb09863c4ef34d4b32a1fd42] Condition 3 is that the deposit may only be made in accordance with an approval granted by the licensing authority for that purpose.
 
-(6)[^key-057185096d6c5eff2963ea394084e266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-057185096d6c5eff2963ea394084e266] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this Article, “marine chemical treatment substance” and “marine oil treatment substance” have the same meaning given by section 107(2) of the Act.
 
-### 16. Deposit of equipment to control, contain or recover oil etc[^key-4d8e9e793d4668abf42d2f12b3586835]
+### 16. Deposit of equipment to control, contain or recover oil etc[^c-4d8e9e793d4668abf42d2f12b3586835]
 
 (1) Article 4 applies to the deposit of any equipment for the purpose of controlling, containing or recovering any—
 
@@ -231,7 +231,7 @@ Article 4 applies to any activity in relation to which a permit is required unde
 
 (2) But Article 4 does not apply to a deposit to the extent that it falls within item 10.
 
-### 17. Scientific instruments etc[^key-32cc0c088a8f18009ee0a2071cf2f6fc]
+### 17. Scientific instruments etc[^c-32cc0c088a8f18009ee0a2071cf2f6fc]
 
 (1) Article 4 applies—
 
@@ -240,31 +240,31 @@ Article 4 applies to any activity in relation to which a permit is required unde
 - (c) to the deposit of any tracer; or
 - (d) to a removal activity carried on for the purpose of removing any scientific instrument or associated equipment referred to in sub-paragraph (a).
 
-(2)[^key-cdd3020d80ae23cbd14b083f28c83715] Paragraph (1) is subject to condition 1, and (as that paragraph relates to the deposit of a reagent or tracer) conditions 2 and 3.
+(2)[^c-cdd3020d80ae23cbd14b083f28c83715] Paragraph (1) is subject to condition 1, and (as that paragraph relates to the deposit of a reagent or tracer) conditions 2 and 3.
 
 (2A) Condition 1 is that notice of the intention to carry on the activity must be given to the licensing authority before the activity is carried on.
 
-(3) Condition 2[^key-dc7345a6b8532a19d8e2a3fc487e4820] is that the reagent or tracer must be one the use of which is for the time being approved for the purposes of this Order by the licensing authority.
+(3) Condition 2[^c-dc7345a6b8532a19d8e2a3fc487e4820] is that the reagent or tracer must be one the use of which is for the time being approved for the purposes of this Order by the licensing authority.
 
-(4) Condition 3[^key-220e0fdb67259b483a6f80b5b79e8346] is that the reagent or tracer must be used in accordance with any conditions to which the approval is subject.
+(4) Condition 3[^c-220e0fdb67259b483a6f80b5b79e8346] is that the reagent or tracer must be used in accordance with any conditions to which the approval is subject.
 
 (5) But Article 4 does not apply—
 
 - (a) to any such deposit made for the purpose of disposal;
-- (b) to any such deposit that causes or is likely to cause obstruction or danger to navigation , in particular where any such deposit is tethered to the seabed or reduces navigational clearance by more than 5% by reference to Chart Datum[^key-198d34a2a7df3b9a080395e52bdb720b]; or
+- (b) to any such deposit that causes or is likely to cause obstruction or danger to navigation , in particular where any such deposit is tethered to the seabed or reduces navigational clearance by more than 5% by reference to Chart Datum[^c-198d34a2a7df3b9a080395e52bdb720b]; or
 - (c) to any such deposit or removal activity—
-  - (i) that falls within sub-paragraph (a), (b) or (c)[^key-b5922679c4a186489096a8a9bd836d84] of paragraph (6); and
+  - (i) that falls within sub-paragraph (a), (b) or (c)[^c-b5922679c4a186489096a8a9bd836d84] of paragraph (6); and
   - (ii) that is not directly connected with or necessary to the management of the site referred to in that sub-paragraph.
 
 (6) A deposit or removal activity falls within this paragraph if—
 
-- (a) it is a plan or project likely (either alone or in combination with other plans or projects) to have a significant effect on a European site; [^key-d217b32efa24f18ab90e38e81f80d379]...
-- (b) it is likely to have a significant effect on a Ramsar site ; or[^key-1a1f8a0f302eeaddd38cd8402fd0f84e]
+- (a) it is a plan or project likely (either alone or in combination with other plans or projects) to have a significant effect on a European site; [^c-d217b32efa24f18ab90e38e81f80d379]...
+- (b) it is likely to have a significant effect on a Ramsar site ; or[^c-1a1f8a0f302eeaddd38cd8402fd0f84e]
 - (c) it is capable of affecting (other than insignificantly)–
   - (i) the protected features of an MCZ;
   - (ii) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
 
-### 17A. Samples for testing or analysis[^key-ef20b398908a7cedd5a75921d55cd5e8]
+### 17A. Samples for testing or analysis[^c-ef20b398908a7cedd5a75921d55cd5e8]
 
 (1) Article 4 applies to a removal activity carried on for the purpose of taking a sample of any material for testing or analysis.
 
@@ -311,7 +311,7 @@ Article 4 applies to any activity in relation to which a permit is required unde
   - (i) the protected features of an MCZ; or
   - (ii) any ecological or geomorphological process on which conservation of any protected feature of an MCZ is (wholly or in part) dependent.
 
-### 18. Deposits in the course of aggregates or mineral dredging[^key-db724d63a061ac37e0354ea04c16ee43]
+### 18. Deposits in the course of aggregates or mineral dredging[^c-db724d63a061ac37e0354ea04c16ee43]
 
 Article 4 applies—
 
@@ -320,7 +320,7 @@ Article 4 applies—
   - (i) in the normal course of dredging for aggregates or other minerals; or
   - (ii) at the site of such dredging following its completion or during the return journey of the vessel.
 
-### 19. Maintenance of coast protection, drainage and flood defence works[^key-4a80f2621c3ebb643becf6cbb7f4cee2]
+### 19. Maintenance of coast protection, drainage and flood defence works[^c-4a80f2621c3ebb643becf6cbb7f4cee2]
 
 (1) Article 4 applies to an activity carried on for the purpose of maintaining any—
 
@@ -328,7 +328,7 @@ Article 4 applies—
 - (b) drainage works; or
 - (c) flood defence works.
 
-(2)[^key-8465de4f332357b98476a198b34e366b] Paragraph (1) is subject to condition 1 and either condition 2 or 3.
+(2)[^c-8465de4f332357b98476a198b34e366b] Paragraph (1) is subject to condition 1 and either condition 2 or 3.
 
 (2A) Condition 1 is that the activity must be carried on within the existing boundaries of the works being maintained.
 
@@ -346,50 +346,50 @@ Article 4 applies—
 - (a) in relation to any such activity which consists of beach replenishment; or
 - (b) to an activity that causes or is likely to cause obstruction or danger to navigation.
 
-(4)[^key-a231f4b096c29773e28af6539d67bc7f] In this Article–
+(4)[^c-a231f4b096c29773e28af6539d67bc7f] In this Article–
 
 - “**beach replenishment**” means the addition of material from land-based, off-shore or other coastal sources not connected to the beach or its associated sediment system to replace material permanently lost from the system;
 - “**coast protection works**” includes–
   - (a) beach re-profiling, which involves the movement of beach material in a cross-shore direction up or down the beach; and
   - (b) beach recycling, which involves the movement of beach material along the beach from areas of accretion to areas of erosion within the beach or associated sediment system.
 
-### 20. Emergency works in response to flood or flood risk[^key-ecb8f9084ed9e8b66f5a4c01bbf81711]
+### 20. Emergency works in response to flood or flood risk[^c-ecb8f9084ed9e8b66f5a4c01bbf81711]
 
 (1) Article 4 applies to an activity carried on for the purpose of executing emergency works in response to any flood or the imminent risk of any flood.
 
-(2)[^key-7564335ce8ccd646317da2a801a01652] Paragraph (1) is subject to the condition that–
+(2)[^c-7564335ce8ccd646317da2a801a01652] Paragraph (1) is subject to the condition that–
 
 - (a) the activity is notified to the licensing authority before the end of the period of 3 working days beginning with the date on which the activity commences; and
 - (b) the notification sets out the location of, the circumstances giving rise to and the nature of the emergency works.
 
-### 21. Use of vehicles to remove litter , seaweed or dead animals from beaches or intertidal areas[^key-f7b620f80eb5642621f6c9210056a4d8][^key-6283022bca6f936591ff2a1d74151d45]
+### 21. Use of vehicles to remove litter , seaweed or dead animals from beaches or intertidal areas[^c-f7b620f80eb5642621f6c9210056a4d8][^c-6283022bca6f936591ff2a1d74151d45]
 
-(1) Article 4 applies to a removal activity using a vehicle carried on by or on behalf of a local authority for the purpose of removing any litter , seaweed or dead animals from beaches or intertidal areas[^key-bd703541ffc0302b308429f03f4e498d].
+(1) Article 4 applies to a removal activity using a vehicle carried on by or on behalf of a local authority for the purpose of removing any litter , seaweed or dead animals from beaches or intertidal areas[^c-bd703541ffc0302b308429f03f4e498d].
 
-(1A)[^key-31fff2c7c79f53540b98a0c8fb61363a] Paragraph (1) is subject to the condition that notice of the intention to carry on the removal activity must be given to the licensing authority before the removal activity may be carried on for the purpose of removing a dead animal.
+(1A)[^c-31fff2c7c79f53540b98a0c8fb61363a] Paragraph (1) is subject to the condition that notice of the intention to carry on the removal activity must be given to the licensing authority before the removal activity may be carried on for the purpose of removing a dead animal.
 
 (2) But Article 4 does not apply to any such removal activity—
 
-- (a) that falls within sub-paragraph (a), (b) or (c) of paragraph (3), or paragraph (3A)[^key-892f7bcdcd6aa8d02331250293d0299e]; and
+- (a) that falls within sub-paragraph (a), (b) or (c) of paragraph (3), or paragraph (3A)[^c-892f7bcdcd6aa8d02331250293d0299e]; and
 - (b) that is not directly connected with or necessary to the management of the site referred to in that sub-paragraph.
 
 (3) Such an activity falls within this paragraph if—
 
-- (a) it is a plan or project likely (either alone or in combination with other plans or projects) to have a significant effect on a European site; [^key-01a086f002b7eb498a9db26bcc78b1e5]...
-- (b) it is likely to have a significant effect on a Ramsar site ; or[^key-d907f0aeec186bd0c4a44d70803d9d0b]
+- (a) it is a plan or project likely (either alone or in combination with other plans or projects) to have a significant effect on a European site; [^c-01a086f002b7eb498a9db26bcc78b1e5]...
+- (b) it is likely to have a significant effect on a Ramsar site ; or[^c-d907f0aeec186bd0c4a44d70803d9d0b]
 - (c) it is capable of affecting (other than insignificantly)–
   - (i) the protected features of an MCZ;
   - (ii) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
 
-(3A)[^key-15b08321c463fbaecfb48b027acd5641] Such an activity falls within this paragraph if it is likely to cause damage to features of archaeological or historic interest in an area where the activities in question occur.
+(3A)[^c-15b08321c463fbaecfb48b027acd5641] Such an activity falls within this paragraph if it is likely to cause damage to features of archaeological or historic interest in an area where the activities in question occur.
 
 (4) In paragraph (1), “local authority” has the meaning given by section 68(9) of the Act.
 
-(4A)[^key-e0880763c7c6e07c5166b8764c44935d] In paragraph (1), “**intertidal area**” means the area between the level of mean high water spring tides and the level of mean low water spring tides.
+(4A)[^c-e0880763c7c6e07c5166b8764c44935d] In paragraph (1), “**intertidal area**” means the area between the level of mean high water spring tides and the level of mean low water spring tides.
 
 (5) In Paragraph (3)(a) and (b), “likely” has the same meaning as in Council Directive [92/43/EEC](https://www.legislation.gov.uk/european/directive/1992/0043) on the conservation of natural habitats and of wild fauna and flora[^f00017].
 
-### 21A. Recovery of marine litter etc[^key-6f03e0f2ce3c4a3d58fb30cc3d30200b]
+### 21A. Recovery of marine litter etc[^c-6f03e0f2ce3c4a3d58fb30cc3d30200b]
 
 (1) Article 4 applies to the removal during the course of diving activities of–
 
@@ -413,7 +413,7 @@ Article 4 applies—
   - (i) the protected features of an MCZ;
   - (ii) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
 
-### 22. Deposits in the course of normal navigation or maintenance[^key-1b3d8f35313d6e6b9819aa7d7aeabf9e]
+### 22. Deposits in the course of normal navigation or maintenance[^c-1b3d8f35313d6e6b9819aa7d7aeabf9e]
 
 (1) Article 4 applies to the deposit from a vehicle, vessel, aircraft or marine structure in the course of its normal navigation or maintenance.
 
@@ -422,13 +422,13 @@ Article 4 applies—
 - (a) to any such deposit made for the purpose of disposal; or
 - (b) to any such deposit to the extent that it falls within item 10.
 
-### 23. Maintenance of harbour works[^key-40601ac8838beb7b7baa6ed68b091b73]
+### 23. Maintenance of harbour works[^c-40601ac8838beb7b7baa6ed68b091b73]
 
 (1) Article 4 applies to a deposit, removal activity or works activity carried on by or on behalf of a harbour authority for the purpose of maintaining any harbour works.
 
 (2) Paragraph (1) is subject to the condition that the activity is carried on within the existing boundaries of the work being maintained.
 
-### 24. Removal of obstruction or danger to navigation[^key-e2b4308790a5052ff81032dc8bd20c4c]
+### 24. Removal of obstruction or danger to navigation[^c-e2b4308790a5052ff81032dc8bd20c4c]
 
 (1) Article 4 applies to a removal activity carried on by a person referred to in paragraph (2) for the purpose of removing anything causing or likely to cause obstruction or danger to navigation.
 
@@ -444,7 +444,7 @@ Article 4 applies—
 - “conservancy authority” has the meaning given by section 313(1) of the Merchant Shipping Act 1995[^f00018]; and
 - “navigation authority” means any person having powers under any enactment or statutory provision to work or maintain a canal or other inland navigation, including a navigation in tidal water.
 
-### 24A. Use of vehicles or vessels to remove marine litter and debris[^key-96da489cdcd10e89a50bc7856e9ab42b]
+### 24A. Use of vehicles or vessels to remove marine litter and debris[^c-96da489cdcd10e89a50bc7856e9ab42b]
 
 (1) Article 4 applies to a removal activity using a vehicle or vessel carried on by or on behalf of a Harbour Authority for the purpose of removing marine litter and debris from the area within its jurisdiction.
 
@@ -463,7 +463,7 @@ Article 4 applies—
   - (i) the protected features of an MCZ;
   - (ii) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
 
-### 25. Moorings and aids to navigation – deposits and construction[^key-48337262d41a9a873259ee4ccc673ce6]
+### 25. Moorings and aids to navigation – deposits and construction[^c-48337262d41a9a873259ee4ccc673ce6]
 
 (1) Article 4 applies—
 
@@ -478,7 +478,7 @@ Article 4 applies—
 
 (3) But Article 4 does not apply to any such activity which consists of the deposit or construction of a pontoon.
 
-### 25A. Markers for European marine sites and marine conservation zones[^key-1dabe56310a486860fc0cb2598e4b496]
+### 25A. Markers for European marine sites and marine conservation zones[^c-1dabe56310a486860fc0cb2598e4b496]
 
 Article 4 applies–
 
@@ -513,15 +513,15 @@ Article 4 applies–
   - (i) the protected features of an MCZ; or
   - (ii) any ecological or geomorphological process on which the conservation of any protected feature of an MCZ is (wholly or in part) dependent.
 
-### 26. Dry Docks[^key-b0ac11192bd308b1de7d235a00ff9b5e]
+### 26. Dry Docks[^c-b0ac11192bd308b1de7d235a00ff9b5e]
 
 Article 4 applies to a deposit or removal activity in a dry dock area within a harbour which is regulated under the Harbours Act (Northern Ireland) 1970.
 
-### 27. Launching of vessels etc[^key-8611e02a7eedcc7328c526af63248407]
+### 27. Launching of vessels etc[^c-8611e02a7eedcc7328c526af63248407]
 
 Article 4 applies to a deposit in connection with the launching of any vehicle, vessel, aircraft, marine structure or floating container.
 
-### 27A. Deposit of a substance arising from the cleaning of vessels[^key-5259199dc8e5f20cb1f5ffa280c34dbe]
+### 27A. Deposit of a substance arising from the cleaning of vessels[^c-5259199dc8e5f20cb1f5ffa280c34dbe]
 
 (1) Article 4 applies to the deposit of a substance removed from that part of the hull of a vessel which is normally submerged.
 
@@ -532,23 +532,23 @@ Article 4 applies to a deposit in connection with the launching of any vehicle, 
 - (c) the bristles of a soft brush;
 - (d) sandpaper, the grit size of which is at least P20002.
 
-### 28. Dismantling of ships[^key-3c97de35d14f3384646fd82abf5a46bc]
+### 28. Dismantling of ships[^c-3c97de35d14f3384646fd82abf5a46bc]
 
 (1) Article 4 applies to a deposit or removal activity carried on as part of dismantling a ship that is waste.
 
 (2) But Article 4 does not apply to any such deposit to the extent that it falls within item 10.
 
-### 29. Diver trails within restricted areas[^key-22062013ab6d7634161b259f6d5374f0]
+### 29. Diver trails within restricted areas[^c-22062013ab6d7634161b259f6d5374f0]
 
 (1) Article 4 applies to a deposit or removal activity carried on for the purpose of placing, securing or removing signage or other identifying markers relating to
 
-- (a)[^M_F_549f2848-da86-4ab3-d484-cf53752fffa6] a wreck within an area designated as a restricted area within the meaning of section 1 of the Protection of Wrecks Act 1973[^f00019] ;[^key-0b276fbb67f3ec05a29c0b3b1be3ad7b]
-- (b)[^key-49414f42b462a01c11040e3edd6dd735] a monument designated as a scheduled monument under Article 3 of the Historic Monuments and Archaeological Objects (Northern Ireland) 1995;
+- (a)[^M_F_549f2848-da86-4ab3-d484-cf53752fffa6] a wreck within an area designated as a restricted area within the meaning of section 1 of the Protection of Wrecks Act 1973[^f00019] ;[^c-0b276fbb67f3ec05a29c0b3b1be3ad7b]
+- (b)[^c-49414f42b462a01c11040e3edd6dd735] a monument designated as a scheduled monument under Article 3 of the Historic Monuments and Archaeological Objects (Northern Ireland) 1995;
 - (c) an area designated as a controlled site under section 1(2)(b) of the Protection of Military Remains Act 1986.
 
 (2) But Article 4 does not apply to a deposit to the extent that it falls within item 10.
 
-### 30. Coastguard activities[^key-8f08a2a77de823e5ff021e863394b618]
+### 30. Coastguard activities[^c-8f08a2a77de823e5ff021e863394b618]
 
 Article 4 applies to an activity carried out by or on behalf of the Maritime and Coastguard Agency[^f00020] for the purpose of—
 
@@ -556,7 +556,7 @@ Article 4 applies to an activity carried out by or on behalf of the Maritime and
 - (b) saving life; or
 - (c) training for any purpose referred to in sub-paragraph (a) or (b).
 
-### 31. Deposit and use of flares etc - safety purposes and training[^key-406a998044e60c3955e56943888c59b9]
+### 31. Deposit and use of flares etc - safety purposes and training[^c-406a998044e60c3955e56943888c59b9]
 
 Article 4 applies to the deposit or use of any distress flare, smoke float or similar pyrotechnic substance or object for the purpose of—
 
@@ -564,7 +564,7 @@ Article 4 applies to the deposit or use of any distress flare, smoke float or si
 - (b) saving life; or
 - (c) training for any purpose referred to in sub-paragraph (a) or (b).
 
-### 32. Cables and pipelines – authorised emergency inspection and repair[^key-5353a7dad11d7f0c9c54e99f89afdce9]
+### 32. Cables and pipelines – authorised emergency inspection and repair[^c-5353a7dad11d7f0c9c54e99f89afdce9]
 
 (1) Article 4 applies to a deposit, removal activity or dredging activity carried on for the purpose of executing emergency inspection or repair works to any cable or pipeline.
 
@@ -572,7 +572,7 @@ Article 4 applies to the deposit or use of any distress flare, smoke float or si
 
 (3) But Article 4 does not apply to a deposit falling within item 10.
 
-### 33. Bored tunnels[^key-f18e69cfb081cef32d063686ecc10274]
+### 33. Bored tunnels[^c-f18e69cfb081cef32d063686ecc10274]
 
 (1) Article 4 applies to a deposit or works activity carried on wholly under the sea bed in connection with the construction or operation of a bored tunnel.
 
@@ -584,7 +584,7 @@ Article 4 applies to the deposit or use of any distress flare, smoke float or si
 
 (5) But Article 4 does not apply to any such deposit carried on for the purpose of disposal.
 
-### 34. Rights of foreign vessels etc under international law[^key-8649a1b056ad2db710d53ee1c70b740c]
+### 34. Rights of foreign vessels etc under international law[^c-8649a1b056ad2db710d53ee1c70b740c]
 
 (1) Article 4 applies to an activity to the extent that it is carried on in exercise of a right under rules of international law, by or in relation to—
 
@@ -593,8 +593,8 @@ Article 4 applies to the deposit or use of any distress flare, smoke float or si
 
 (2) In paragraph (1), “third country vessel” means a vessel which—
 
-- (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^key-f8197f616bcac49bb2c3e0dc97e169a3]; and
-- (b) is not registered in the United Kingdom[^key-60c56ea548256f100092d5806fad30a0].
+- (a) is flying the flag of, or is registered in, any State or territory other than the United Kingdom[^c-f8197f616bcac49bb2c3e0dc97e169a3]; and
+- (b) is not registered in the United Kingdom[^c-60c56ea548256f100092d5806fad30a0].
 
 (3) Article 4 only applies to an activity to the extent that it falls within item 1, 2, 3 or 8.
 
@@ -602,13 +602,13 @@ Article 4 applies to the deposit or use of any distress flare, smoke float or si
 
 ## PART 4 — Amendment and revocations
 
-### 35. Amendment[^key-c3dc0e6f70fb737a26726323965b3a16]
+### 35. Amendment[^c-c3dc0e6f70fb737a26726323965b3a16]
 
 (1) The Waste Management Licensing Regulations (Northern Ireland) 2003[^f00021] are amended as follows.
 
 (2) In regulation 22(2)(b)(ii), for “Article 3 of the Deposits in the Sea (Exemptions) Order (Northern Ireland) 1995”[^f00022] substitute “Article 4 of the Marine Licensing (Exempted Activities) Order 2011”[^f00023].
 
-### 36. Revocations[^key-27100855f4819bff6862799087aa0bf0]
+### 36. Revocations[^c-27100855f4819bff6862799087aa0bf0]
 
 The following are revoked—
 
@@ -647,19 +647,19 @@ A full regulatory impact assessment of the effects that this instrument will hav
 
 [^f00001]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-b122c088e188a80077ed856b77e60895]: Modification: Regulations modified by [S.I. 2019/289](https://www.legislation.gov.uk/uksi/2019/289), [reg. 5](https://www.legislation.gov.uk/uksi/2019/289/regulation/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/289/schedule/3) (as amended (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3))
+[^c-b122c088e188a80077ed856b77e60895]: Modification: Regulations modified by [S.I. 2019/289](https://www.legislation.gov.uk/uksi/2019/289), [reg. 5](https://www.legislation.gov.uk/uksi/2019/289/regulation/5), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/289/schedule/3) (as amended (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [3(3)(5)](https://www.legislation.gov.uk/nisr/2020/284/regulation/3/3))
 
-[^key-cd52135617cd40a846cc6d8b8d6f92cb]: Commencement: Art. 1 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-cd52135617cd40a846cc6d8b8d6f92cb]: Commencement: Art. 1 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-67f3528ba96cef71f05ecd3375848f08]: Commencement: Art. 2 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-67f3528ba96cef71f05ecd3375848f08]: Commencement: Art. 2 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00002]: Footnote: By virtue of section 113(6) of the Marine and Coastal Access Act 2009, the Department of the Environment is the appropriate licensing authority. See section 322(1) for a definition of this region and section 66 for list of licensable marine activities. Functions not licensed under this legislation include fisheries, oil and gas.
 
-[^key-a277d4bebb9fee6acbe112e2a3eb04ec]: Commencement: Art. 3 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-a277d4bebb9fee6acbe112e2a3eb04ec]: Commencement: Art. 3 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00003]: Footnote: See sections 66 and 115(1) of the Marine and Coastal Access Act 2009.
 
-[^key-51d3293816afd4ca7df925e51a2917a9]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2011/78/article/3/1) inserted (15.7.2016) by [The Waste (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/95)](https://www.legislation.gov.uk/nisr/2016/95), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/95/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2016/95/regulation/6/2/b)
+[^c-51d3293816afd4ca7df925e51a2917a9]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2011/78/article/3/1) inserted (15.7.2016) by [The Waste (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/95)](https://www.legislation.gov.uk/nisr/2016/95), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/95/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2016/95/regulation/6/2/b)
 
 [^f00004]: Footnote: [SR 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380).
 
@@ -669,167 +669,167 @@ A full regulatory impact assessment of the effects that this instrument will hav
 
 [^f00007]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). See section 193 of that Act, to which section relevant amendments have been made by paragraph 6 of Schedule 6 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-bdcf473b96fd0645a57a81abc467edc7]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisr/2011/78/article/3) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [3](https://www.legislation.gov.uk/nisr/2022/68/article/3)
+[^c-bdcf473b96fd0645a57a81abc467edc7]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/nisr/2011/78/article/3) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [3](https://www.legislation.gov.uk/nisr/2022/68/article/3)
 
 [^f00008]: Footnote: OJ No L 206, 22.7.1992, p 7, last amended by Council Directive [2006/105/EC](https://www.legislation.gov.uk/european/directive/2006/0105) (OJ No L 363, 20.12.2006, p 368).
 
 [^f00009]: Footnote: These sites are given statutory protection by the Nature Conservation and Amenity Lands (Northern Ireland) Order 1985. No. 170
 
-[^key-7e6d28f63cf601c08e7236efebfa308e]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2011/78/article/3/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2020/284/regulation/2/2/a)
+[^c-7e6d28f63cf601c08e7236efebfa308e]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2011/78/article/3/1) inserted (31.12.2020 immediately before IP completion day) by [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2020/284/regulation/2/2/a)
 
-[^key-c6293170b05e1773536dc2760449fe2a]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2011/78/article/3/1) substituted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/284/regulation/2/2/b)
+[^c-c6293170b05e1773536dc2760449fe2a]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisr/2011/78/article/3/1) substituted (31.12.2020 immediately before IP completion day) by virtue of [The Waste (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/284)](https://www.legislation.gov.uk/nisr/2020/284), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/284/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2020/284/regulation/2/2/b)
 
 [^f00011]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2274a1873c8066b371671f67a53c639f]: Commencement: Art. 4 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-2274a1873c8066b371671f67a53c639f]: Commencement: Art. 4 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00012]: Footnote: Part 3 sets out the activities to which this article applies.
 
-[^key-6cca6490bc784edf0767ec03bd23ad5c]: Commencement: Art. 5 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-6cca6490bc784edf0767ec03bd23ad5c]: Commencement: Art. 5 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-375141b0af46c48deb5edac8f0333bb4]: Textual amendment: Words in [art. 5(7)(b)](https://www.legislation.gov.uk/nisr/2011/78/article/5/7/b) substituted (15.7.2016) by [The Waste (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/95)](https://www.legislation.gov.uk/nisr/2016/95), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/95/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2016/95/regulation/6/3)
+[^c-375141b0af46c48deb5edac8f0333bb4]: Textual amendment: Words in [art. 5(7)(b)](https://www.legislation.gov.uk/nisr/2011/78/article/5/7/b) substituted (15.7.2016) by [The Waste (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/95)](https://www.legislation.gov.uk/nisr/2016/95), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/95/regulation/1/1), [6(3)](https://www.legislation.gov.uk/nisr/2016/95/regulation/6/3)
 
-[^key-4ce3b6dd1ccf342e5b464ff6359340fd]: Commencement: Art. 6 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-4ce3b6dd1ccf342e5b464ff6359340fd]: Commencement: Art. 6 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-74ca411259c42dcd91536167302638f8]: Commencement: Art. 7 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-74ca411259c42dcd91536167302638f8]: Commencement: Art. 7 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00013]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Relevant amendments and repeals to provisions in Part 6 were made by the Merchant Shipping (Pollution) Act [2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8); the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28); the Pollution Prevention and Control Act [1999 (c. 24)](https://www.legislation.gov.uk/ukpga/1999/24); the Marine Safety Act [2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), and [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244).
 
-[^key-d591d2727a6b4b5b664ab3eabb2938db]: Commencement: Art. 8 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-d591d2727a6b4b5b664ab3eabb2938db]: Commencement: Art. 8 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00014]: Footnote: [1995. c 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 108A of the Merchant Shipping Act 1995, which gives effect to Schedule 3A, was inserted by section 1(1) of the Marine Safety Act [2003, c. 16](https://www.legislation.gov.uk/ukpga/2003/16)
 
-[^key-297b2f474836548e918c6d6a654d239b]: Commencement: Art. 9 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-297b2f474836548e918c6d6a654d239b]: Commencement: Art. 9 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-6e75ed0376f10becdaa2c2af6a5bbc01]: Commencement: Art. 10 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-6e75ed0376f10becdaa2c2af6a5bbc01]: Commencement: Art. 10 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-b0807d1ec2ba3ddddb7cf2b8462cfaba]: Commencement: Art. 11 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-b0807d1ec2ba3ddddb7cf2b8462cfaba]: Commencement: Art. 11 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-dfa6f4385a355fa8ae666ee02180deb2]: Commencement: Art. 12 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-dfa6f4385a355fa8ae666ee02180deb2]: Commencement: Art. 12 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-48bed4ea325b3c20db59976457ad852f]: Textual amendment: Words in [art. 12(1)(c)](https://www.legislation.gov.uk/nisr/2011/78/article/12/1/c) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [4](https://www.legislation.gov.uk/nisr/2022/68/article/4)
+[^c-48bed4ea325b3c20db59976457ad852f]: Textual amendment: Words in [art. 12(1)(c)](https://www.legislation.gov.uk/nisr/2011/78/article/12/1/c) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [4](https://www.legislation.gov.uk/nisr/2022/68/article/4)
 
-[^key-d606392bc02bb5cfa48cb77053e1f036]: Commencement: Art. 13 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-d606392bc02bb5cfa48cb77053e1f036]: Commencement: Art. 13 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-66dbb02839b1c7d35b9cceec1263e89a]: Textual amendment: Word in [art. 13(1)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/13/1/a) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [5](https://www.legislation.gov.uk/nisr/2022/68/article/5)
+[^c-66dbb02839b1c7d35b9cceec1263e89a]: Textual amendment: Word in [art. 13(1)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/13/1/a) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [5](https://www.legislation.gov.uk/nisr/2022/68/article/5)
 
-[^key-e037cf6b3ace1405df89f9d26eaa6722]: Commencement: Art. 14 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-e037cf6b3ace1405df89f9d26eaa6722]: Commencement: Art. 14 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00015]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355), amended by [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055), regulation 20 and Schedule 2, and [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), regulation 6.
 
 [^f00016]: Footnote: [S.I. 2005/2055](https://www.legislation.gov.uk/uksi/2005/2055), amended by [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), regulation 9.
 
-[^key-7f0f96b8fba7d74b996030137c3bc487]: Commencement: Art. 15 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-7f0f96b8fba7d74b996030137c3bc487]: Commencement: Art. 15 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-bd682cb73299c50ae22aceca488e4c46]: Textual amendment: Word in [art. 15(2)](https://www.legislation.gov.uk/nisr/2011/78/article/15/2) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2022/68/article/6/a)
+[^c-bd682cb73299c50ae22aceca488e4c46]: Textual amendment: Word in [art. 15(2)](https://www.legislation.gov.uk/nisr/2011/78/article/15/2) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [6(a)](https://www.legislation.gov.uk/nisr/2022/68/article/6/a)
 
-[^key-66be3906eb09863c4ef34d4b32a1fd42]: Textual amendment: [Art. 15(5)](https://www.legislation.gov.uk/nisr/2011/78/article/15/5) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [6(b)](https://www.legislation.gov.uk/nisr/2022/68/article/6/b)
+[^c-66be3906eb09863c4ef34d4b32a1fd42]: Textual amendment: [Art. 15(5)](https://www.legislation.gov.uk/nisr/2011/78/article/15/5) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [6(b)](https://www.legislation.gov.uk/nisr/2022/68/article/6/b)
 
-[^key-057185096d6c5eff2963ea394084e266]: Textual amendment: [Art. 15(6)](https://www.legislation.gov.uk/nisr/2011/78/article/15/6) omitted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [6(c)](https://www.legislation.gov.uk/nisr/2022/68/article/6/c)
+[^c-057185096d6c5eff2963ea394084e266]: Textual amendment: [Art. 15(6)](https://www.legislation.gov.uk/nisr/2011/78/article/15/6) omitted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [6(c)](https://www.legislation.gov.uk/nisr/2022/68/article/6/c)
 
-[^key-4d8e9e793d4668abf42d2f12b3586835]: Commencement: Art. 16 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-4d8e9e793d4668abf42d2f12b3586835]: Commencement: Art. 16 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-32cc0c088a8f18009ee0a2071cf2f6fc]: Commencement: Art. 17 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-32cc0c088a8f18009ee0a2071cf2f6fc]: Commencement: Art. 17 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-cdd3020d80ae23cbd14b083f28c83715]: Textual amendment: [Art. 17(2)](https://www.legislation.gov.uk/nisr/2011/78/article/17/2)[(2A)](https://www.legislation.gov.uk/nisr/2011/78/article/17/2A) substituted (1.4.2022) for art. 17(2) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2022/68/article/7/a)
+[^c-cdd3020d80ae23cbd14b083f28c83715]: Textual amendment: [Art. 17(2)](https://www.legislation.gov.uk/nisr/2011/78/article/17/2)[(2A)](https://www.legislation.gov.uk/nisr/2011/78/article/17/2A) substituted (1.4.2022) for art. 17(2) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(a)](https://www.legislation.gov.uk/nisr/2022/68/article/7/a)
 
-[^key-dc7345a6b8532a19d8e2a3fc487e4820]: Textual amendment: Word in [art. 17(3)](https://www.legislation.gov.uk/nisr/2011/78/article/17/3) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2022/68/article/7/b)
+[^c-dc7345a6b8532a19d8e2a3fc487e4820]: Textual amendment: Word in [art. 17(3)](https://www.legislation.gov.uk/nisr/2011/78/article/17/3) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(b)](https://www.legislation.gov.uk/nisr/2022/68/article/7/b)
 
-[^key-220e0fdb67259b483a6f80b5b79e8346]: Textual amendment: Word in [art. 17(4)](https://www.legislation.gov.uk/nisr/2011/78/article/17/4) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(c)](https://www.legislation.gov.uk/nisr/2022/68/article/7/c)
+[^c-220e0fdb67259b483a6f80b5b79e8346]: Textual amendment: Word in [art. 17(4)](https://www.legislation.gov.uk/nisr/2011/78/article/17/4) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(c)](https://www.legislation.gov.uk/nisr/2022/68/article/7/c)
 
-[^key-198d34a2a7df3b9a080395e52bdb720b]: Textual amendment: Words in [art. 17(5)(b)](https://www.legislation.gov.uk/nisr/2011/78/article/17/5/b) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(d)(i)](https://www.legislation.gov.uk/nisr/2022/68/article/7/d/i)
+[^c-198d34a2a7df3b9a080395e52bdb720b]: Textual amendment: Words in [art. 17(5)(b)](https://www.legislation.gov.uk/nisr/2011/78/article/17/5/b) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(d)(i)](https://www.legislation.gov.uk/nisr/2022/68/article/7/d/i)
 
-[^key-b5922679c4a186489096a8a9bd836d84]: Textual amendment: Words in [art. 17(5)(c)(i)](https://www.legislation.gov.uk/nisr/2011/78/article/17/5/c/i) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(d)(ii)](https://www.legislation.gov.uk/nisr/2022/68/article/7/d/ii)
+[^c-b5922679c4a186489096a8a9bd836d84]: Textual amendment: Words in [art. 17(5)(c)(i)](https://www.legislation.gov.uk/nisr/2011/78/article/17/5/c/i) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(d)(ii)](https://www.legislation.gov.uk/nisr/2022/68/article/7/d/ii)
 
-[^key-d217b32efa24f18ab90e38e81f80d379]: Textual amendment: Word in [art. 17(6)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/17/6/a) omitted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(e)(i)](https://www.legislation.gov.uk/nisr/2022/68/article/7/e/i)
+[^c-d217b32efa24f18ab90e38e81f80d379]: Textual amendment: Word in [art. 17(6)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/17/6/a) omitted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(e)(i)](https://www.legislation.gov.uk/nisr/2022/68/article/7/e/i)
 
-[^key-1a1f8a0f302eeaddd38cd8402fd0f84e]: Textual amendment: [Art. 17(6)(c)](https://www.legislation.gov.uk/nisr/2011/78/article/17/6/c) and word inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(e)(ii)](https://www.legislation.gov.uk/nisr/2022/68/article/7/e/ii)
+[^c-1a1f8a0f302eeaddd38cd8402fd0f84e]: Textual amendment: [Art. 17(6)(c)](https://www.legislation.gov.uk/nisr/2011/78/article/17/6/c) and word inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [7(e)(ii)](https://www.legislation.gov.uk/nisr/2022/68/article/7/e/ii)
 
-[^key-ef20b398908a7cedd5a75921d55cd5e8]: Textual amendment: [Arts. 17A](https://www.legislation.gov.uk/nisr/2011/78/article/17A), [17B](https://www.legislation.gov.uk/nisr/2011/78/article/17B) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [8](https://www.legislation.gov.uk/nisr/2022/68/article/8)
+[^c-ef20b398908a7cedd5a75921d55cd5e8]: Textual amendment: [Arts. 17A](https://www.legislation.gov.uk/nisr/2011/78/article/17A), [17B](https://www.legislation.gov.uk/nisr/2011/78/article/17B) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [8](https://www.legislation.gov.uk/nisr/2022/68/article/8)
 
-[^key-db724d63a061ac37e0354ea04c16ee43]: Commencement: Art. 18 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-db724d63a061ac37e0354ea04c16ee43]: Commencement: Art. 18 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-4a80f2621c3ebb643becf6cbb7f4cee2]: Commencement: Art. 19 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-4a80f2621c3ebb643becf6cbb7f4cee2]: Commencement: Art. 19 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-8465de4f332357b98476a198b34e366b]: Textual amendment: [Art. 19(2)-(2C)](https://www.legislation.gov.uk/nisr/2011/78/article/19/2) substituted (1.4.2022) for art. 19(2) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [9(1)(a)](https://www.legislation.gov.uk/nisr/2022/68/article/9/1/a)
+[^c-8465de4f332357b98476a198b34e366b]: Textual amendment: [Art. 19(2)-(2C)](https://www.legislation.gov.uk/nisr/2011/78/article/19/2) substituted (1.4.2022) for art. 19(2) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [9(1)(a)](https://www.legislation.gov.uk/nisr/2022/68/article/9/1/a)
 
-[^key-a231f4b096c29773e28af6539d67bc7f]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/nisr/2011/78/article/19/4) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [9(2)](https://www.legislation.gov.uk/nisr/2022/68/article/9/2)
+[^c-a231f4b096c29773e28af6539d67bc7f]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/nisr/2011/78/article/19/4) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [9(2)](https://www.legislation.gov.uk/nisr/2022/68/article/9/2)
 
-[^key-ecb8f9084ed9e8b66f5a4c01bbf81711]: Commencement: Art. 20 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-ecb8f9084ed9e8b66f5a4c01bbf81711]: Commencement: Art. 20 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-7564335ce8ccd646317da2a801a01652]: Textual amendment: [Art. 20(2)](https://www.legislation.gov.uk/nisr/2011/78/article/20/2) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [10](https://www.legislation.gov.uk/nisr/2022/68/article/10)
+[^c-7564335ce8ccd646317da2a801a01652]: Textual amendment: [Art. 20(2)](https://www.legislation.gov.uk/nisr/2011/78/article/20/2) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [10](https://www.legislation.gov.uk/nisr/2022/68/article/10)
 
-[^key-f7b620f80eb5642621f6c9210056a4d8]: Commencement: Art. 21 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-f7b620f80eb5642621f6c9210056a4d8]: Commencement: Art. 21 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-6283022bca6f936591ff2a1d74151d45]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/nisr/2011/78/article/21) heading substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(1)](https://www.legislation.gov.uk/nisr/2022/68/article/11/1)
+[^c-6283022bca6f936591ff2a1d74151d45]: Textual amendment: Words in [art. 21](https://www.legislation.gov.uk/nisr/2011/78/article/21) heading substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(1)](https://www.legislation.gov.uk/nisr/2022/68/article/11/1)
 
-[^key-bd703541ffc0302b308429f03f4e498d]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/nisr/2011/78/article/21/1) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(2)](https://www.legislation.gov.uk/nisr/2022/68/article/11/2)
+[^c-bd703541ffc0302b308429f03f4e498d]: Textual amendment: Words in [art. 21(1)](https://www.legislation.gov.uk/nisr/2011/78/article/21/1) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(2)](https://www.legislation.gov.uk/nisr/2022/68/article/11/2)
 
-[^key-31fff2c7c79f53540b98a0c8fb61363a]: Textual amendment: [Art. 21(1A)](https://www.legislation.gov.uk/nisr/2011/78/article/21/1A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2022/68/article/11/3)
+[^c-31fff2c7c79f53540b98a0c8fb61363a]: Textual amendment: [Art. 21(1A)](https://www.legislation.gov.uk/nisr/2011/78/article/21/1A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(3)](https://www.legislation.gov.uk/nisr/2022/68/article/11/3)
 
-[^key-892f7bcdcd6aa8d02331250293d0299e]: Textual amendment: Words in [art. 21(2)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/21/2/a) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(4)](https://www.legislation.gov.uk/nisr/2022/68/article/11/4)
+[^c-892f7bcdcd6aa8d02331250293d0299e]: Textual amendment: Words in [art. 21(2)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/21/2/a) substituted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(4)](https://www.legislation.gov.uk/nisr/2022/68/article/11/4)
 
-[^key-01a086f002b7eb498a9db26bcc78b1e5]: Textual amendment: Word in [art. 21(3)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/21/3/a) omitted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(5)(a)](https://www.legislation.gov.uk/nisr/2022/68/article/11/5/a)
+[^c-01a086f002b7eb498a9db26bcc78b1e5]: Textual amendment: Word in [art. 21(3)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/21/3/a) omitted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(5)(a)](https://www.legislation.gov.uk/nisr/2022/68/article/11/5/a)
 
-[^key-d907f0aeec186bd0c4a44d70803d9d0b]: Textual amendment: [Art. 21(3)(c)](https://www.legislation.gov.uk/nisr/2011/78/article/21/3/c) and word inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(5)(b)](https://www.legislation.gov.uk/nisr/2022/68/article/11/5/b)
+[^c-d907f0aeec186bd0c4a44d70803d9d0b]: Textual amendment: [Art. 21(3)(c)](https://www.legislation.gov.uk/nisr/2011/78/article/21/3/c) and word inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(5)(b)](https://www.legislation.gov.uk/nisr/2022/68/article/11/5/b)
 
-[^key-15b08321c463fbaecfb48b027acd5641]: Textual amendment: [Art. 21(3A)](https://www.legislation.gov.uk/nisr/2011/78/article/21/3A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(6)](https://www.legislation.gov.uk/nisr/2022/68/article/11/6)
+[^c-15b08321c463fbaecfb48b027acd5641]: Textual amendment: [Art. 21(3A)](https://www.legislation.gov.uk/nisr/2011/78/article/21/3A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(6)](https://www.legislation.gov.uk/nisr/2022/68/article/11/6)
 
-[^key-e0880763c7c6e07c5166b8764c44935d]: Textual amendment: [Art. 21(4A)](https://www.legislation.gov.uk/nisr/2011/78/article/21/4A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(7)](https://www.legislation.gov.uk/nisr/2022/68/article/11/7)
+[^c-e0880763c7c6e07c5166b8764c44935d]: Textual amendment: [Art. 21(4A)](https://www.legislation.gov.uk/nisr/2011/78/article/21/4A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [11(7)](https://www.legislation.gov.uk/nisr/2022/68/article/11/7)
 
 [^f00017]: Footnote: OJ No L 206, 22.7.1992
 
-[^key-6f03e0f2ce3c4a3d58fb30cc3d30200b]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/nisr/2011/78/article/21A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [12](https://www.legislation.gov.uk/nisr/2022/68/article/12)
+[^c-6f03e0f2ce3c4a3d58fb30cc3d30200b]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/nisr/2011/78/article/21A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [12](https://www.legislation.gov.uk/nisr/2022/68/article/12)
 
-[^key-1b3d8f35313d6e6b9819aa7d7aeabf9e]: Commencement: Art. 22 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-1b3d8f35313d6e6b9819aa7d7aeabf9e]: Commencement: Art. 22 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-40601ac8838beb7b7baa6ed68b091b73]: Commencement: Art. 23 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-40601ac8838beb7b7baa6ed68b091b73]: Commencement: Art. 23 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-e2b4308790a5052ff81032dc8bd20c4c]: Commencement: Art. 24 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-e2b4308790a5052ff81032dc8bd20c4c]: Commencement: Art. 24 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00018]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). The definition of ‘harbour authority’ was substituted by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), section 29(1) and Schedule 6, paragraph 19(2)(a).
 
-[^key-96da489cdcd10e89a50bc7856e9ab42b]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/nisr/2011/78/article/24A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [13](https://www.legislation.gov.uk/nisr/2022/68/article/13)
+[^c-96da489cdcd10e89a50bc7856e9ab42b]: Textual amendment: [Art. 24A](https://www.legislation.gov.uk/nisr/2011/78/article/24A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [13](https://www.legislation.gov.uk/nisr/2022/68/article/13)
 
-[^key-48337262d41a9a873259ee4ccc673ce6]: Commencement: Art. 25 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-48337262d41a9a873259ee4ccc673ce6]: Commencement: Art. 25 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-1dabe56310a486860fc0cb2598e4b496]: Textual amendment: [Arts. 25A](https://www.legislation.gov.uk/nisr/2011/78/article/25A), [25B](https://www.legislation.gov.uk/nisr/2011/78/article/25B) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [14](https://www.legislation.gov.uk/nisr/2022/68/article/14)
+[^c-1dabe56310a486860fc0cb2598e4b496]: Textual amendment: [Arts. 25A](https://www.legislation.gov.uk/nisr/2011/78/article/25A), [25B](https://www.legislation.gov.uk/nisr/2011/78/article/25B) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [14](https://www.legislation.gov.uk/nisr/2022/68/article/14)
 
-[^key-b0ac11192bd308b1de7d235a00ff9b5e]: Commencement: Art. 26 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-b0ac11192bd308b1de7d235a00ff9b5e]: Commencement: Art. 26 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-8611e02a7eedcc7328c526af63248407]: Commencement: Art. 27 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-8611e02a7eedcc7328c526af63248407]: Commencement: Art. 27 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-5259199dc8e5f20cb1f5ffa280c34dbe]: Textual amendment: [Art. 27A](https://www.legislation.gov.uk/nisr/2011/78/article/27A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [15](https://www.legislation.gov.uk/nisr/2022/68/article/15)
+[^c-5259199dc8e5f20cb1f5ffa280c34dbe]: Textual amendment: [Art. 27A](https://www.legislation.gov.uk/nisr/2011/78/article/27A) inserted (1.4.2022) by [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [15](https://www.legislation.gov.uk/nisr/2022/68/article/15)
 
-[^key-3c97de35d14f3384646fd82abf5a46bc]: Commencement: Art. 28 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-3c97de35d14f3384646fd82abf5a46bc]: Commencement: Art. 28 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-22062013ab6d7634161b259f6d5374f0]: Commencement: Art. 29 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-22062013ab6d7634161b259f6d5374f0]: Commencement: Art. 29 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^M_F_549f2848-da86-4ab3-d484-cf53752fffa6]: Textual amendment: [Art. 29(a)](https://www.legislation.gov.uk/nisr/2011/78/article/29/a): words in art. 29 renumbered as art. 29(a) (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [16(a)](https://www.legislation.gov.uk/nisr/2022/68/article/16/a)
 
 [^f00019]: Footnote: [1973 c. 33](https://www.legislation.gov.uk/ukpga/1973/33).
 
-[^key-0b276fbb67f3ec05a29c0b3b1be3ad7b]: Textual amendment: Word in [art. 29(a)](https://www.legislation.gov.uk/nisr/2011/78/article/29/a) inserted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [16(b)](https://www.legislation.gov.uk/nisr/2022/68/article/16/b)
+[^c-0b276fbb67f3ec05a29c0b3b1be3ad7b]: Textual amendment: Word in [art. 29(a)](https://www.legislation.gov.uk/nisr/2011/78/article/29/a) inserted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [16(b)](https://www.legislation.gov.uk/nisr/2022/68/article/16/b)
 
-[^key-49414f42b462a01c11040e3edd6dd735]: Textual amendment: [Art. 29(b)](https://www.legislation.gov.uk/nisr/2011/78/article/29/b)[(c)](https://www.legislation.gov.uk/nisr/2011/78/article/29/c) inserted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [16(c)](https://www.legislation.gov.uk/nisr/2022/68/article/16/c)
+[^c-49414f42b462a01c11040e3edd6dd735]: Textual amendment: [Art. 29(b)](https://www.legislation.gov.uk/nisr/2011/78/article/29/b)[(c)](https://www.legislation.gov.uk/nisr/2011/78/article/29/c) inserted (1.4.2022) by virtue of [The Marine Licensing (Exempted Activities) (Amendment) Order (Northern Ireland) 2022 (S.R. 2022/68)](https://www.legislation.gov.uk/nisr/2022/68), [arts. 1](https://www.legislation.gov.uk/nisr/2022/68/article/1), [16(c)](https://www.legislation.gov.uk/nisr/2022/68/article/16/c)
 
-[^key-8f08a2a77de823e5ff021e863394b618]: Commencement: Art. 30 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-8f08a2a77de823e5ff021e863394b618]: Commencement: Art. 30 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00020]: Footnote: The Maritime and Coastguard Agency (MCA) was created by the merger of the Coastguard Agency and the Marine Safety Agency. The MCA’s statutory powers and responsibilities derive primarily from the Coastguard Act [1925 (c.88)](https://www.legislation.gov.uk/ukpga/1925/88), the Merchant Shipping Act [1995 (c 21)](https://www.legislation.gov.uk/ukpga/1995/21) and the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28)
 
-[^key-406a998044e60c3955e56943888c59b9]: Commencement: Art. 31 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-406a998044e60c3955e56943888c59b9]: Commencement: Art. 31 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-5353a7dad11d7f0c9c54e99f89afdce9]: Commencement: Art. 32 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-5353a7dad11d7f0c9c54e99f89afdce9]: Commencement: Art. 32 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-f18e69cfb081cef32d063686ecc10274]: Commencement: Art. 33 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-f18e69cfb081cef32d063686ecc10274]: Commencement: Art. 33 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-8649a1b056ad2db710d53ee1c70b740c]: Commencement: Art. 34 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-8649a1b056ad2db710d53ee1c70b740c]: Commencement: Art. 34 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
-[^key-f8197f616bcac49bb2c3e0dc97e169a3]: Textual amendment: Words in [art. 34(2)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/34/2/a) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8197f616bcac49bb2c3e0dc97e169a3]: Textual amendment: Words in [art. 34(2)(a)](https://www.legislation.gov.uk/nisr/2011/78/article/34/2/a) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/112/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-60c56ea548256f100092d5806fad30a0]: Textual amendment: Words in [art. 34(2)(b)](https://www.legislation.gov.uk/nisr/2011/78/article/34/2/b) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-60c56ea548256f100092d5806fad30a0]: Textual amendment: Words in [art. 34(2)(b)](https://www.legislation.gov.uk/nisr/2011/78/article/34/2/b) substituted (31.12.2020) by [The Water (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/112)](https://www.legislation.gov.uk/uksi/2019/112), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/112/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/112/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c3dc0e6f70fb737a26726323965b3a16]: Commencement: Art. 35 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-c3dc0e6f70fb737a26726323965b3a16]: Commencement: Art. 35 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00021]: Footnote: [SR 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493).
 
@@ -837,7 +837,7 @@ A full regulatory impact assessment of the effects that this instrument will hav
 
 [^f00023]: Footnote: Regulation 20(2) was substituted in relation to England and Wales by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538), regulation 73 and paragraph 34(1) and (4) of Schedule 21.
 
-[^key-27100855f4819bff6862799087aa0bf0]: Commencement: Art. 36 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
+[^c-27100855f4819bff6862799087aa0bf0]: Commencement: Art. 36 in operation at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/nisr/2011/78/article/1)
 
 [^f00024]: Footnote: [1995/234 (N.I.)](https://www.legislation.gov.uk/nisr/1995/234)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Scheduling of business in sheriff courts and the Sheriff Appeal Court[^key-eea6360fc7a2a142dac00421fcd2eed5][^key-8315746bf9efd6cf0828dce420c6f79d]
+## 31. Scheduling of business in sheriff courts and the Sheriff Appeal Court[^c-eea6360fc7a2a142dac00421fcd2eed5][^c-8315746bf9efd6cf0828dce420c6f79d]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eea6360fc7a2a142dac00421fcd2eed5]: Commencement: S. 31 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-eea6360fc7a2a142dac00421fcd2eed5]: Commencement: S. 31 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-8315746bf9efd6cf0828dce420c6f79d]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2025/12/section/31) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-8315746bf9efd6cf0828dce420c6f79d]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2025/12/section/31) in force at 1.10.2026 by [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)

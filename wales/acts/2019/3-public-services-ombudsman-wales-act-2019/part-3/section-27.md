@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Reports: alternative procedure[^key-7d8e13c210b78045e0e663d6007c3cf3]
+## 27. Reports: alternative procedure[^c-7d8e13c210b78045e0e663d6007c3cf3]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ that information must not be included in a version of the report sent to a perso
 
 ## Annotations
 
-[^key-7d8e13c210b78045e0e663d6007c3cf3]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2019/3/section/27) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-7d8e13c210b78045e0e663d6007c3cf3]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2019/3/section/27) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

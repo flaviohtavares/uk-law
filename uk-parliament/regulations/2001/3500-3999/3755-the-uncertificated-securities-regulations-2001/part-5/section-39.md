@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Fees charged by Operators[^key-f28549231c14fbb6c938ad312d0cae77]
+## 39. Fees charged by Operators[^c-f28549231c14fbb6c938ad312d0cae77]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f28549231c14fbb6c938ad312d0cae77]: Commencement: Reg. 39 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-f28549231c14fbb6c938ad312d0cae77]: Commencement: Reg. 39 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130J. Welsh qualifying informal patients[^key-88f218289dd9a70bdedcc64c53908cf5]
+## 130J. Welsh qualifying informal patients[^c-88f218289dd9a70bdedcc64c53908cf5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88f218289dd9a70bdedcc64c53908cf5]: Textual amendment: S. 130J inserted (2.4.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 36](https://www.legislation.gov.uk/mwa/2010/7/section/36), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-88f218289dd9a70bdedcc64c53908cf5]: Textual amendment: S. 130J inserted (2.4.2012) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 36](https://www.legislation.gov.uk/mwa/2010/7/section/36), [55(3)](https://www.legislation.gov.uk/mwa/2010/7/section/55/3); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [art. 3(d)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/d) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))

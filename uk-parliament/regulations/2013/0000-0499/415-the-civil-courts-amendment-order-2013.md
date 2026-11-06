@@ -32,7 +32,7 @@ summary: ''
 
 County Courts, England And Wales
 
-The Civil Courts (Amendment) Order 2013 (revoked)[^key-cbb98e9d9ed096b858305aad1624b4c3]
+The Civil Courts (Amendment) Order 2013 (revoked)[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 25th March 2013
 
-[^key-cbb98e9d9ed096b858305aad1624b4c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbb98e9d9ed096b858305aad1624b4c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 1. Citation and Commencement[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of Chippenham and Trowbridge County Court[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 2. Establishment of Chippenham and Trowbridge County Court[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Divorce jurisdiction[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 3. Divorce jurisdiction[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Closure of county courts[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 4. Closure of county courts[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional Provisions[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 5. Transitional Provisions[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 6.[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to the Civil Courts Order 1983[^key-cbb98e9d9ed096b858305aad1624b4c3]
+## 7. Amendments to the Civil Courts Order 1983[^c-cbb98e9d9ed096b858305aad1624b4c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cbb98e9d9ed096b858305aad1624b4c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbb98e9d9ed096b858305aad1624b4c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cbb98e9d9ed096b858305aad1624b4c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cbb98e9d9ed096b858305aad1624b4c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cbb98e9d9ed096b858305aad1624b4c3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/415) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)
+[^c-cbb98e9d9ed096b858305aad1624b4c3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/415) revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)

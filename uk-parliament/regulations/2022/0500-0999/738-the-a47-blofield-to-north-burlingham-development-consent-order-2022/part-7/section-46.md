@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Protection of interests[^key-6b2a0bb9209516f9680d61bef8d4e0d8]
+## 46. Protection of interests[^c-6b2a0bb9209516f9680d61bef8d4e0d8]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-6b2a0bb9209516f9680d61bef8d4e0d8]: Commencement: Art. 46 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-6b2a0bb9209516f9680d61bef8d4e0d8]: Commencement: Art. 46 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

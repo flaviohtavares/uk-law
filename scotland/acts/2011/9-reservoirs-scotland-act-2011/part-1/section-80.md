@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Fixed monetary penalties: procedure[^key-5fb69d7c9c9b5e30ceaf9f299b2972a4]
+## 80. Fixed monetary penalties: procedure[^c-5fb69d7c9c9b5e30ceaf9f299b2972a4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb69d7c9c9b5e30ceaf9f299b2972a4]: Textual amendment: [Ss. 78-81](https://www.legislation.gov.uk/asp/2011/9/section/78) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-5fb69d7c9c9b5e30ceaf9f299b2972a4]: Textual amendment: [Ss. 78-81](https://www.legislation.gov.uk/asp/2011/9/section/78) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 13(2)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/13/2); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

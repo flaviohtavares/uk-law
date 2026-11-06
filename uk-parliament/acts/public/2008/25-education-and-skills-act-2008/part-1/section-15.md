@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Supply of social security information[^key-856728154b608fb958f39d65af59aac9]
+## 15. Supply of social security information[^c-856728154b608fb958f39d65af59aac9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-856728154b608fb958f39d65af59aac9]: Textual amendment: S. 15 repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 254(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/254/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 10](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/10); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-856728154b608fb958f39d65af59aac9]: Textual amendment: S. 15 repealed (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 254(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/254/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 10](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/10); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82.1. Scope and interpretation[^key-c2b447dcce072522f2e795ce120ccaaf]
+## 82.1. Scope and interpretation[^c-c2b447dcce072522f2e795ce120ccaaf]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 - (b) “closed material application” means an application of the kind mentioned in section 8(1)(a) of the Act;
 - (c) “legal representative” is to be construed in accordance with section 14(1) of the Act;
 - (d) “relevant person” is to be construed in accordance with section 14(1) of the Act;
-- (da)[^key-d8ae078ce2681e8fbd63125ea0fd9c7b] “**Secretary of State**” is to be construed in accordance with section 14(1) of the Act;
+- (da)[^c-d8ae078ce2681e8fbd63125ea0fd9c7b] “**Secretary of State**” is to be construed in accordance with section 14(1) of the Act;
 - (e) “section 6 proceedings” is to be construed in accordance with section 14(1) of the Act;
 - (f) “sensitive material” has the meaning given by section 6(11) of the Act;
 - (g) “special advocate” means a person appointed under section 9(1) of the Act;
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
+[^c-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
 
-[^key-d8ae078ce2681e8fbd63125ea0fd9c7b]: Textual amendment: [Rule 82.1(2)(da)](https://www.legislation.gov.uk/uksi/1998/3132/rule/82.1/2/da) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/33) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-d8ae078ce2681e8fbd63125ea0fd9c7b]: Textual amendment: [Rule 82.1(2)(da)](https://www.legislation.gov.uk/uksi/1998/3132/rule/82.1/2/da) inserted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/33) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

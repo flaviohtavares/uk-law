@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Offences by bodies corporate and partnerships[^key-a2f10c0ab4f821c040a6c6ea0cc24746]
+## 31. Offences by bodies corporate and partnerships[^c-a2f10c0ab4f821c040a6c6ea0cc24746]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2f10c0ab4f821c040a6c6ea0cc24746]: Commencement: S. 31 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-a2f10c0ab4f821c040a6c6ea0cc24746]: Commencement: S. 31 in force at 20.6.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

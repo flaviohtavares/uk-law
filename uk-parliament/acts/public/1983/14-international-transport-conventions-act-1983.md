@@ -37,35 +37,35 @@ An Act to give effect to the Convention concerning International Carriage by Rai
 
 ## The Railway Convention
 
-### 1. Convention to have the force of law.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 1. Convention to have the force of law.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Destination of Member States etc.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 2. Destination of Member States etc.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Fatal accidents.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 3. Fatal accidents.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Power of court to take account of other proceedings.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 4. Power of court to take account of other proceedings.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Conversion of special drawing rights into sterling.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 5. Conversion of special drawing rights into sterling.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Enforcement of judgments.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 6. Enforcement of judgments.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Examination of luggage.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 7. Examination of luggage.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendments consequential on revision of Convention.[^key-8514aacac9b23974d75b575ca7e6515e]
+### 8. Amendments consequential on revision of Convention.[^c-8514aacac9b23974d75b575ca7e6515e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -87,33 +87,33 @@ This Act binds the Crown.
 
 (2) The enactments mentioned in Schedule 3 to this Act are hereby repealed to the extent specified in the third column of that Schedule; and in section 31(3) and 32(4) of the [^c754686]Civil Jurisdiction and Judgments Act 1982 for the words “section 5 of the Carriage by Railway Act 1972” there shall be substituted the words “ section 6 of the International Transport Conventions Act 1983 ”.
 
-(3)[^key-e38c510245f42193c7c7d10e2bbf7f03][^c754687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e38c510245f42193c7c7d10e2bbf7f03][^c754687] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e38c510245f42193c7c7d10e2bbf7f03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e38c510245f42193c7c7d10e2bbf7f03] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 SCHEDULES
 
-## SCHEDULE 1[^key-4b75981d352f5e00dbdb7bccfc9d78cd]
+## SCHEDULE 1[^c-4b75981d352f5e00dbdb7bccfc9d78cd]
 
-### Fatal Accidents: Scotland[^key-4b75981d352f5e00dbdb7bccfc9d78cd]
+### Fatal Accidents: Scotland[^c-4b75981d352f5e00dbdb7bccfc9d78cd]
 
 **No longer in force.**
 
 *Extent: E+W+N.I.*
 
-**1.**[^key-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4b75981d352f5e00dbdb7bccfc9d78cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2
 
@@ -133,7 +133,7 @@ SCHEDULES
 
 ### The Carriage of Passengers by Road Act 1974[^c754694]
 
-**3.**[^key-23755dc3c6c55fac8e19020951042fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-23755dc3c6c55fac8e19020951042fd8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The International Carriage of Perishable Foodstuffs Act 1976[^c754695]
 
@@ -159,15 +159,15 @@ SCHEDULES
 
 [^c754678]: Commencement: Act partly in force at Royal Assent see [s.11(3)](https://www.legislation.gov.uk/ukpga/1983/14/section/11/3); Act wholly in force at 1.5.1985.
 
-[^key-8514aacac9b23974d75b575ca7e6515e]: Textual amendment: Ss. 1-8 repealed (coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2092/schedule/2/paragraph/1)
+[^c-8514aacac9b23974d75b575ca7e6515e]: Textual amendment: Ss. 1-8 repealed (coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2092/schedule/2/paragraph/1)
 
 [^c754686]: Marginal citation: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27).
 
-[^key-e38c510245f42193c7c7d10e2bbf7f03]: Textual amendment: S. 11(3)(4) repealed (coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2092/schedule/2/paragraph/1)
+[^c-e38c510245f42193c7c7d10e2bbf7f03]: Textual amendment: S. 11(3)(4) repealed (coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2092/schedule/2/paragraph/1)
 
 [^c754687]: Modification: Power of appointment conferred by section 11(3) fully exercised: [S.I. 1985/612](https://www.legislation.gov.uk/uksi/1985/612)
 
-[^key-4b75981d352f5e00dbdb7bccfc9d78cd]: Textual amendment: Sch. 1 repealed (coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2092/schedule/2/paragraph/1)
+[^c-4b75981d352f5e00dbdb7bccfc9d78cd]: Textual amendment: Sch. 1 repealed (coming into force in accordance with reg. 1) by [The Railways (Convention on International Carriage by Rail) Regulations 2005 (S.I. 2005/2092)](https://www.legislation.gov.uk/uksi/2005/2092), [reg. 1](https://www.legislation.gov.uk/uksi/2005/2092/regulation/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/2092/schedule/2/paragraph/1)
 
 [^c754692]: Marginal citation: [1961 c. 27](https://www.legislation.gov.uk/ukpga/1961/27).
 
@@ -175,6 +175,6 @@ SCHEDULES
 
 [^c754694]: Marginal citation: [1974 c. 35](https://www.legislation.gov.uk/ukpga/1974/35).
 
-[^key-23755dc3c6c55fac8e19020951042fd8]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1983/14/schedule/2/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-23755dc3c6c55fac8e19020951042fd8]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/1983/14/schedule/2/paragraph/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c754695]: Marginal citation: [1976 c. 58](https://www.legislation.gov.uk/ukpga/1976/58).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Other authorised use: moveable property[^key-25580bd237c6e5c651c709185bd72936]
+## 11. Other authorised use: moveable property[^c-25580bd237c6e5c651c709185bd72936]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25580bd237c6e5c651c709185bd72936]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/6/section/11) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-25580bd237c6e5c651c709185bd72936]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2017/6/section/11) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

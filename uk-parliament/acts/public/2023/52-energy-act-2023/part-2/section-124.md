@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Sanctions: information powers[^key-18b1b18f80606d39d47222f2f93b033d]
+## 124. Sanctions: information powers[^c-18b1b18f80606d39d47222f2f93b033d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18b1b18f80606d39d47222f2f93b033d]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2023/52/section/124) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-18b1b18f80606d39d47222f2f93b033d]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2023/52/section/124) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

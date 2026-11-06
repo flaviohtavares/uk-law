@@ -26,7 +26,7 @@ Regulations 83 and 84(1)
 
 ### Part I — Personal Allowances
 
-**1.**[^key-fce71f88aadc2ca697a7c9911a7b648c] The weekly amounts specified in column (2) in respect of each person or couple specified in column (1) shall be the weekly amounts specified for the purposes of regulations 83 and 84(1) (applicable amounts and polygamous marriages).
+**1.**[^c-fce71f88aadc2ca697a7c9911a7b648c] The weekly amounts specified in column (2) in respect of each person or couple specified in column (1) shall be the weekly amounts specified for the purposes of regulations 83 and 84(1) (applicable amounts and polygamous marriages).
 
 <table>
 <thead>
@@ -57,7 +57,7 @@ Regulations 83 and 84(1)
 </tbody>
 </table>
 
-**2.**[^key-6b41a8a06898a2570281fcc46d74f100] The weekly amounts specified in column (2) in respect of each person specified in column (1) shall be the weekly amounts specified for the purposes of regulations 83(b) and 84(1)(c).
+**2.**[^c-6b41a8a06898a2570281fcc46d74f100] The weekly amounts specified in column (2) in respect of each person specified in column (1) shall be the weekly amounts specified for the purposes of regulations 83(b) and 84(1)(c).
 
 <table>
 <thead>
@@ -73,7 +73,7 @@ Regulations 83 and 84(1)
 </tbody>
 </table>
 
-**3.**[^key-7076fc1dbff0fe6f12dd461a188d537b] (1) The weekly amount for the purposes of regulations 83(c) and 84(1)(d) (residential allowance) in respect of a person who satisfies the conditions specified in sub-paragraph (2) shall be £54·00.
+**3.**[^c-7076fc1dbff0fe6f12dd461a188d537b] (1) The weekly amount for the purposes of regulations 83(c) and 84(1)(d) (residential allowance) in respect of a person who satisfies the conditions specified in sub-paragraph (2) shall be £54·00.
 
 (2) Subject to sub-paragraphs (3), (4) and (5), the conditions are—
 
@@ -109,32 +109,32 @@ then any question arising for determination under this paragraph shall be determ
 
 ### Part II — Family Premium
 
-**4.**[^key-218b8f546046f124a5d7d8a12722d970] The weekly amount for the purposes of regulations 83(d) and 84(1)(e) in respect of a family of which at least one member is a child or young person shall be £10·55.
+**4.**[^c-218b8f546046f124a5d7d8a12722d970] The weekly amount for the purposes of regulations 83(d) and 84(1)(e) in respect of a family of which at least one member is a child or young person shall be £10·55.
 
 ### Part III — Premiums
 
-**5.**[^key-f3a4d6a07830a5c8407787519361e155] Except as provided in paragraph 6, the weekly premiums specified in Part IV shall, for the purposes of regulations 83(e) and 84(1)(f), be applicable to a claimant who satisfies the condition specified in paragraphs 9 to 17 in respect of that premium.
+**5.**[^c-f3a4d6a07830a5c8407787519361e155] Except as provided in paragraph 6, the weekly premiums specified in Part IV shall, for the purposes of regulations 83(e) and 84(1)(f), be applicable to a claimant who satisfies the condition specified in paragraphs 9 to 17 in respect of that premium.
 
-**6.**[^key-ed8d0f45547eecc503a2177143e7d0ac] Subject to paragraph 7, where a claimant satisfies the conditions in respect of more than one premium in this Part, only one premium shall be applicable to him and, if they are different amounts, the higher or highest amount shall apply.
+**6.**[^c-ed8d0f45547eecc503a2177143e7d0ac] Subject to paragraph 7, where a claimant satisfies the conditions in respect of more than one premium in this Part, only one premium shall be applicable to him and, if they are different amounts, the higher or highest amount shall apply.
 
-**7.**[^key-716a8181c2371f2681b80db34b09f922] (1) The severe disability premium to which paragraph 15 applies may be applicable in addition to any other premium which may apply under this Schedule.
+**7.**[^c-716a8181c2371f2681b80db34b09f922] (1) The severe disability premium to which paragraph 15 applies may be applicable in addition to any other premium which may apply under this Schedule.
 
 (2) The disabled child premium to which paragraph 16 applies may be applicable in addition to any other premium which may apply under this Schedule.
 
 (3) The carer premium to which paragraph 17 applies may be applicable in addition to any other premium which may apply under this Schedule.
 
-**8.**[^key-602c2f70905495297534a30ea3e79025] (1) Subject to sub-paragraph (2), for the purposes of this Part, once a premium is applicable to a claimant under this Part, a person shall be treated as being in receipt of any benefit—
+**8.**[^c-602c2f70905495297534a30ea3e79025] (1) Subject to sub-paragraph (2), for the purposes of this Part, once a premium is applicable to a claimant under this Part, a person shall be treated as being in receipt of any benefit—
 
 - (a) in the case of a benefit to which the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00129] applies, for any period during which, apart from the provisions of those regulations, he would be in receipt of that benefit, and
 - (b) for any period spent by a person on a scheme of a kind specified in sections 2 and 3 of the Disabled Persons (Employment) Act (Northern Ireland) 1945[^f00130] or section 1(1) of the Employment and Training Act (Northern Ireland) 1950[^f00131].
 
 (2) For the purposes of the carer premium under paragraph 17, a person shall be treated as being in receipt of invalid care allowance by virtue of sub-paragraph (1)(a) only if and for so long as the person in respect of whose care the allowance has been claimed remains in receipt of attendance allowance, or the care component of disability living allowance at the highest or middle rate prescribed in accordance with section 72(3) of the Benefits Act.
 
-#### 9. Lone Parent Premium[^key-218429511d0e461a788d318c57cb640c]
+#### 9. Lone Parent Premium[^c-218429511d0e461a788d318c57cb640c]
 
 The condition is that the claimant is a member of a family but has no partner.
 
-#### 10. Pensioner Premium for persons over 60[^key-2c38da40767be7368176ce39e40db74b]
+#### 10. Pensioner Premium for persons over 60[^c-2c38da40767be7368176ce39e40db74b]
 
 The condition is that the claimant—
 
@@ -142,11 +142,11 @@ The condition is that the claimant—
 - (b) has attained the age of 60 and has a partner, or
 - (c) has a partner and the partner has attained the age of 60 but not the age of 75.
 
-#### 11. Pensioner Premium where claimant’s partner has attained the age of 75[^key-c98dbb57519732a5d547384a125994f4]
+#### 11. Pensioner Premium where claimant’s partner has attained the age of 75[^c-c98dbb57519732a5d547384a125994f4]
 
 The condition is that the claimant has a partner who has attained the age of 75 but not the age of 80.
 
-#### 12. Higher Pensioner Premium[^key-0084bafd3c105a8e96a79043c8451c1b]
+#### 12. Higher Pensioner Premium[^c-0084bafd3c105a8e96a79043c8451c1b]
 
 (1) The condition is that—
 
@@ -166,7 +166,7 @@ The condition is that the claimant has a partner who has attained the age of 75 
 - (a) once the higher pensioner premium is applicable to a claimant, if he then ceases, for a period of 8 weeks or less, to be entitled to either income support or an income-based jobseeker’s allowance, he shall, on becoming re-entitled to either of those benefits, thereafter be treated as having been continuously entitled thereto;
 - (b) in so far as sub-paragraph (1)(a)(ii) and (c)(ii) are concerned, if a claimant ceases to be entitled to either income support or an income-based jobseeker’s allowance for a period not exceeding 8 weeks which includes his 60th birthday, he shall, on becoming re-entitled to either of those benefits, thereafter be treated as having been continuously entitled thereto.
 
-#### 13. Disability Premium[^key-8072b305f5b6653fb67e7b79523759da]
+#### 13. Disability Premium[^c-8072b305f5b6653fb67e7b79523759da]
 
 The condition is that the claimant—
 
@@ -174,7 +174,7 @@ The condition is that the claimant—
 - (b) has not attained the age of 60, has a partner and the claimant satisfies any one of the additional conditions specified in paragraph 14(1)(a), (c), (e), (f) or (h), or
 - (c) has a partner and the partner has not attained the age of 60 and also satisfies any one of the additional conditions specified in paragraph 14.
 
-#### 14. Additional Conditions for Higher Pensioner and Disability Premium[^key-eaa951dd177deb3c0bc83fc0a040073e]
+#### 14. Additional Conditions for Higher Pensioner and Disability Premium[^c-eaa951dd177deb3c0bc83fc0a040073e]
 
 (1) The additional conditions specified in this paragraph are that—
 
@@ -193,7 +193,7 @@ The condition is that the claimant—
 
 (2) For the purposes of sub-paragraph (1)(h), a person who has ceased to be registered as blind on regaining his eyesight shall nevertheless be treated as blind and as satisfying the additional condition set out in that sub-paragraph for a period of 28 weeks following the date on which he ceased to be so registered.
 
-#### 15. Severe Disability Premium[^key-78f7020453cfbf3d9c0411006c3f4f45]
+#### 15. Severe Disability Premium[^c-78f7020453cfbf3d9c0411006c3f4f45]
 
 (1) In the case of a single claimant, a lone parent or a claimant who is treated as having no partner in consequence of sub-paragraph (3), the condition is that—
 
@@ -229,7 +229,7 @@ The condition is that the claimant—
 
 (8) A person shall be treated as satisfying this condition if he would have satisfied the condition specified for a severe disability premium in income support in paragraph 13 of Schedule 2 to the Income Support Regulations by virtue only of regulations 4 to 6 of the Income Support (General) (Amendment No. 5) Regulations (Northern Ireland) 1991[^f00138] (savings provisions in relation to severe disability premium) and for the purposes of determining whether in the particular case regulation 4 of those regulations had ceased to apply in accordance with regulation 5(2)(a) of those regulations, a person who is entitled to an income-based jobseeker’s allowance shall be treated as entitled to income support.
 
-#### 16. Disabled Child Premium[^key-5522178cc3796ef6aa216acb49424c64]
+#### 16. Disabled Child Premium[^c-5522178cc3796ef6aa216acb49424c64]
 
 The condition is that a child or young person for whom the claimant or a partner of his is responsible and who is a member of the claimant’s household—
 
@@ -237,7 +237,7 @@ The condition is that a child or young person for whom the claimant or a partner
 - (b) is in receipt of disability living allowance or is no longer in receipt of that allowance because he is a patient provided that the child or young person continues to be a member of the family, or
 - (c) is blind or treated as blind within the meaning of paragraph 14(1)(h) and (2).
 
-#### 17. Carer Premium[^key-f9c4b94c2bf325c5f9e945ae80d811ac]
+#### 17. Carer Premium[^c-f9c4b94c2bf325c5f9e945ae80d811ac]
 
 (1) Subject to sub-paragraphs (3) and (4), the condition is that the claimant or his partner is, or both of them are, in receipt of invalid care allowance under section 70 of the Benefits Act.
 
@@ -251,15 +251,15 @@ The condition is that a child or young person for whom the claimant or a partner
 
 (4) Where a person who has been receiving, or who has been treated as receiving invalid care allowance ceases to be in receipt of, or ceases to be treated as being in receipt of, that allowance and makes a claim for income-based jobseeker’s allowance, the condition for the award of the carer premium shall be treated as satisfied for a period of 8 weeks from and including the date the person ceased to be in receipt of, or ceased to be treated as being in receipt of, invalid care allowance.
 
-#### 18. Persons in receipt of concessionary payments[^key-0f555a200a05a7276d491b2de1f2830b]
+#### 18. Persons in receipt of concessionary payments[^c-0f555a200a05a7276d491b2de1f2830b]
 
 For the purpose of determining whether a premium is applicable to a person under paragraphs 14 to 17, any concessionary payment made to compensate that person for the non-payment of any benefit mentioned in those paragraphs shall be treated as if it were a payment of that benefit.
 
-#### 19. Person in receipt of benefit[^key-2b1d8be5e978298e5a37744f950700da]
+#### 19. Person in receipt of benefit[^c-2b1d8be5e978298e5a37744f950700da]
 
 For the purposes of this Part, a person shall be regarded as being in receipt of any benefit if, and only if, it is paid in respect of him and shall be so regarded only for any period in respect of which that benefit is paid.
 
-### Part IV — Weekly Amounts of Premiums Specified in Part III[^key-62d1d899ec31df3fe4cbb0e09758e769]
+### Part IV — Weekly Amounts of Premiums Specified in Part III[^c-62d1d899ec31df3fe4cbb0e09758e769]
 
 | Premium | Amount |
 | --- | --- |
@@ -284,25 +284,25 @@ For the purposes of this Part, a person shall be regarded as being in receipt of
 
 ### Part V — Rounding of Fractions
 
-**21.**[^key-e8dc4bf40e5b5e11d56403bd22da878c] Where an income-based jobseeker’s allowance is awarded for a period which is not a complete benefit week and the applicable amount in respect of that period results in an amount which includes a fraction of one penny that fraction shall be treated as one penny.
+**21.**[^c-e8dc4bf40e5b5e11d56403bd22da878c] Where an income-based jobseeker’s allowance is awarded for a period which is not a complete benefit week and the applicable amount in respect of that period results in an amount which includes a fraction of one penny that fraction shall be treated as one penny.
 
 ## Annotations
 
-[^key-fce71f88aadc2ca697a7c9911a7b648c]: Commencement: Sch. 1 Pt. I para. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-fce71f88aadc2ca697a7c9911a7b648c]: Commencement: Sch. 1 Pt. I para. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-6b41a8a06898a2570281fcc46d74f100]: Commencement: Sch. 1 Pt. I para. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-6b41a8a06898a2570281fcc46d74f100]: Commencement: Sch. 1 Pt. I para. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-7076fc1dbff0fe6f12dd461a188d537b]: Commencement: Sch. 1 Pt. I para. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7076fc1dbff0fe6f12dd461a188d537b]: Commencement: Sch. 1 Pt. I para. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-218b8f546046f124a5d7d8a12722d970]: Commencement: Sch. 1 Pt. II para. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-218b8f546046f124a5d7d8a12722d970]: Commencement: Sch. 1 Pt. II para. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-f3a4d6a07830a5c8407787519361e155]: Commencement: Sch. 1 Pt. III para. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f3a4d6a07830a5c8407787519361e155]: Commencement: Sch. 1 Pt. III para. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-ed8d0f45547eecc503a2177143e7d0ac]: Commencement: Sch. 1 Pt. III para. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ed8d0f45547eecc503a2177143e7d0ac]: Commencement: Sch. 1 Pt. III para. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-716a8181c2371f2681b80db34b09f922]: Commencement: Sch. 1 Pt. III para. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-716a8181c2371f2681b80db34b09f922]: Commencement: Sch. 1 Pt. III para. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-602c2f70905495297534a30ea3e79025]: Commencement: Sch. 1 Pt. III para. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-602c2f70905495297534a30ea3e79025]: Commencement: Sch. 1 Pt. III para. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00129]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242)
 
@@ -310,17 +310,17 @@ For the purposes of this Part, a person shall be regarded as being in receipt of
 
 [^f00131]: Footnote: [1950 c. 29 (N.I.)](https://www.legislation.gov.uk/apni/1950/29); section 1 was amended by Article 3 of the Employment and Training (Amendment) (Northern Ireland) Order 1988 ([S.I. 1988/1087 (N.I. 10)](https://www.legislation.gov.uk/nisi/1988/1087))
 
-[^key-218429511d0e461a788d318c57cb640c]: Commencement: Sch. 1 para. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-218429511d0e461a788d318c57cb640c]: Commencement: Sch. 1 para. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-2c38da40767be7368176ce39e40db74b]: Commencement: Sch. 1 para. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2c38da40767be7368176ce39e40db74b]: Commencement: Sch. 1 para. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-c98dbb57519732a5d547384a125994f4]: Commencement: Sch. 1 para. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c98dbb57519732a5d547384a125994f4]: Commencement: Sch. 1 para. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-0084bafd3c105a8e96a79043c8451c1b]: Commencement: Sch. 1 para. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0084bafd3c105a8e96a79043c8451c1b]: Commencement: Sch. 1 para. 12 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-8072b305f5b6653fb67e7b79523759da]: Commencement: Sch. 1 para. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8072b305f5b6653fb67e7b79523759da]: Commencement: Sch. 1 para. 13 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-eaa951dd177deb3c0bc83fc0a040073e]: Commencement: Sch. 1 para. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-eaa951dd177deb3c0bc83fc0a040073e]: Commencement: Sch. 1 para. 14 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00132]: Footnote: Regulation 43 was amended by regulation 22 of [S.R. 1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7)
 
@@ -334,20 +334,20 @@ For the purposes of this Part, a person shall be regarded as being in receipt of
 
 [^f00137]: Footnote: Section 30A was inserted by Article 3(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994
 
-[^key-78f7020453cfbf3d9c0411006c3f4f45]: Commencement: Sch. 1 para. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-78f7020453cfbf3d9c0411006c3f4f45]: Commencement: Sch. 1 para. 15 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00138]: Footnote: [S.R. 1991 No. 474](https://www.legislation.gov.uk/nisr/1991/474); relevant amending regulations are [S.R. 1991 No. 520](https://www.legislation.gov.uk/nisr/1991/520)
 
-[^key-5522178cc3796ef6aa216acb49424c64]: Commencement: Sch. 1 para. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-5522178cc3796ef6aa216acb49424c64]: Commencement: Sch. 1 para. 16 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-f9c4b94c2bf325c5f9e945ae80d811ac]: Commencement: Sch. 1 para. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f9c4b94c2bf325c5f9e945ae80d811ac]: Commencement: Sch. 1 para. 17 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00139]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); relevant amending regulations are [S.R. 1980 No. 451](https://www.legislation.gov.uk/nisr/1980/451), [S.R. 1983 No. 36](https://www.legislation.gov.uk/nisr/1983/36) and [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317)
 
-[^key-0f555a200a05a7276d491b2de1f2830b]: Commencement: Sch. 1 para. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-0f555a200a05a7276d491b2de1f2830b]: Commencement: Sch. 1 para. 18 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-2b1d8be5e978298e5a37744f950700da]: Commencement: Sch. 1 para. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2b1d8be5e978298e5a37744f950700da]: Commencement: Sch. 1 para. 19 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-62d1d899ec31df3fe4cbb0e09758e769]: Commencement: Sch. 1 Pt. IV in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-62d1d899ec31df3fe4cbb0e09758e769]: Commencement: Sch. 1 Pt. IV in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-e8dc4bf40e5b5e11d56403bd22da878c]: Commencement: Sch. 1 para. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-e8dc4bf40e5b5e11d56403bd22da878c]: Commencement: Sch. 1 para. 21 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

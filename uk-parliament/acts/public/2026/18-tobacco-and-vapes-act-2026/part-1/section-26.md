@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Breach of restricted premises orders[^key-048ddffa1ddeb829cc3b502efbe4d918]
+## 26. Breach of restricted premises orders[^c-048ddffa1ddeb829cc3b502efbe4d918]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-048ddffa1ddeb829cc3b502efbe4d918]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2026/18/section/26) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-048ddffa1ddeb829cc3b502efbe4d918]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2026/18/section/26) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

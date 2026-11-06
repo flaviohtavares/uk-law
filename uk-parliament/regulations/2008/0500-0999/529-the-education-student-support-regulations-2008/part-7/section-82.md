@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. General[^key-5b87b84055cd906bee77ae71bcdc55f3]
+## 82. General[^c-5b87b84055cd906bee77ae71bcdc55f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ An eligible student or person treated as an eligible student qualifies for a col
 
 ## Annotations
 
-[^key-5b87b84055cd906bee77ae71bcdc55f3]: Commencement: Reg. 82 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-5b87b84055cd906bee77ae71bcdc55f3]: Commencement: Reg. 82 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

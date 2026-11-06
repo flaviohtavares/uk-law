@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37B. Manufacturing and assembly of POC medicinal products: additional requirements[^key-364df8aaab31854056cb402b4a5f88fb]
+## 37B. Manufacturing and assembly of POC medicinal products: additional requirements[^c-364df8aaab31854056cb402b4a5f88fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In addition to the requirements in regulation 37, the holder of a manufacturerâ€
 
 ## Annotations
 
-[^key-364df8aaab31854056cb402b4a5f88fb]: Textual amendment: [Regs. 37A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/37A), [37B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/37B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/87/regulation/14)
+[^c-364df8aaab31854056cb402b4a5f88fb]: Textual amendment: [Regs. 37A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/37A), [37B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/37B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2025/87/regulation/14)

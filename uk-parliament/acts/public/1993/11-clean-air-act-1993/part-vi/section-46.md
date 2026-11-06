@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-1100964f344a76287ed45684a87a19fd] It shall be part of the functions of the local authority, in cases where it seems to them proper to do so, to report to the responsible Minister any cases of—
+(1)[^c-1100964f344a76287ed45684a87a19fd] It shall be part of the functions of the local authority, in cases where it seems to them proper to do so, to report to the responsible Minister any cases of—
 
 - (a) emissions of dark smoke, or of grit or dust, from any premises which are under the control of any Government department and are occupied for the public service of the Crown or for any of the purposes of any Government department;
 - (b) emissions of smoke, whether dark smoke or not, from any such premises which are within a smoke control area;
@@ -44,7 +44,7 @@ and on receiving any such report the responsible Minister shall inquire into the
 
 ## Annotations
 
-[^key-1100964f344a76287ed45684a87a19fd]: Modification: [S. 46(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/46/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-1100964f344a76287ed45684a87a19fd]: Modification: [S. 46(1)](https://www.legislation.gov.uk/ukpga/1993/11/section/46/1) functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
 [^c10491191]: Textual amendment: Words in definition of “Government ship” in s. 46(6) substituted (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/2), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch. 13 para. 94(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/94/a) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 

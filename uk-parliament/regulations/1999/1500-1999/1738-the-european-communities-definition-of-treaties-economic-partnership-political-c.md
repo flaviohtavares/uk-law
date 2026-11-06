@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States and the United Mexican States) Order 1999 (revoked)[^key-e1234e1d6ce6f6407fd40a4e519ad4db]
+The European Communities (Definition of Treaties) (Economic Partnership, Political Coordination and Cooperation Agreement between the European Community and its Member States and the United Mexican States) Order 1999 (revoked)[^c-e1234e1d6ce6f6407fd40a4e519ad4db]
 
 Made
 
@@ -45,30 +45,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-e1234e1d6ce6f6407fd40a4e519ad4db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1234e1d6ce6f6407fd40a4e519ad4db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-e1234e1d6ce6f6407fd40a4e519ad4db]
+## 1.[^c-e1234e1d6ce6f6407fd40a4e519ad4db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-e1234e1d6ce6f6407fd40a4e519ad4db]
+## 2.[^c-e1234e1d6ce6f6407fd40a4e519ad4db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1234e1d6ce6f6407fd40a4e519ad4db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1234e1d6ce6f6407fd40a4e519ad4db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e1234e1d6ce6f6407fd40a4e519ad4db]
+## SCHEDULE[^c-e1234e1d6ce6f6407fd40a4e519ad4db]
 
-[^key-e1234e1d6ce6f6407fd40a4e519ad4db]
+[^c-e1234e1d6ce6f6407fd40a4e519ad4db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e1234e1d6ce6f6407fd40a4e519ad4db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e1234e1d6ce6f6407fd40a4e519ad4db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e1234e1d6ce6f6407fd40a4e519ad4db]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/1738) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1234e1d6ce6f6407fd40a4e519ad4db]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/1738) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

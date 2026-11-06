@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 450. Market value of strips etc.[^key-b092d244d16279863b44d0b689aff681][^c19865031]
+## 450. Market value of strips etc.[^c-b092d244d16279863b44d0b689aff681][^c19865031]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b092d244d16279863b44d0b689aff681]: Textual amendment: [S. 450](https://www.legislation.gov.uk/ukpga/2005/5/section/450) substituted for [s. 450](https://www.legislation.gov.uk/ukpga/2005/5/section/450) (with effect in accordance with Sch. 26 para. 5(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5); [S.I. 2015/635](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)
+[^c-b092d244d16279863b44d0b689aff681]: Textual amendment: [S. 450](https://www.legislation.gov.uk/ukpga/2005/5/section/450) substituted for [s. 450](https://www.legislation.gov.uk/ukpga/2005/5/section/450) (with effect in accordance with Sch. 26 para. 5(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 5](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5); [S.I. 2015/635](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)
 
 [^c19865031]: Textual amendment: S. 450 substituted for ss. 450, 451 (19.7.2007 with effect as stated in [Sch. 26 para. 5(2)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5/2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 109](https://www.legislation.gov.uk/ukpga/2007/11/section/109), [Sch. 26 para. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/5/1); [S.I. 2015/635](https://www.legislation.gov.uk/uksi/2015/635), [art. 2](https://www.legislation.gov.uk/uksi/2015/635/article/2)

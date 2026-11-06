@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54. Composition of court on appeal or review[^key-012654dcefd32ada197c3cfc3ce120cc]
+## 54. Composition of court on appeal or review[^c-012654dcefd32ada197c3cfc3ce120cc]
 
 *Extent: E*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-012654dcefd32ada197c3cfc3ce120cc]: Commencement: S. 54 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-012654dcefd32ada197c3cfc3ce120cc]: Commencement: S. 54 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

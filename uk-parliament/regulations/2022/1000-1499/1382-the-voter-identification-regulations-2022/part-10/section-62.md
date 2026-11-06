@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Amendment of Part 5 of Schedule 4 (modifications to PCC elections rules for combination of poll with the poll for an election to Senedd Cymru)[^key-94e6be219b741e5308f54c3a73cdfb48]
+## 62. Amendment of Part 5 of Schedule 4 (modifications to PCC elections rules for combination of poll with the poll for an election to Senedd Cymru)[^c-94e6be219b741e5308f54c3a73cdfb48]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94e6be219b741e5308f54c3a73cdfb48]: Commencement: Reg. 62 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-94e6be219b741e5308f54c3a73cdfb48]: Commencement: Reg. 62 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

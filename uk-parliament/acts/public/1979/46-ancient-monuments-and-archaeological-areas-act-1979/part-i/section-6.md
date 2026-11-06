@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Powers of entry for inspection of scheduled monuments, etc.[^M_E_2d3d2534-01ba-4fc6-9764-b942d3faf23c][^key-44b645e2bcad7964e9524b054b99f58f]
+## 6. Powers of entry for inspection of scheduled monuments, etc.[^M_E_2d3d2534-01ba-4fc6-9764-b942d3faf23c][^c-44b645e2bcad7964e9524b054b99f58f]
 
 *Extent: E+W*
 
-(1)[^c250801][^key-13a6bb0e8ba0430e84081d6949529edf][^key-526dacab81486d4d2dea5610585b0ce7][^key-dbff3d6b4e231dfb750acc2465b1cf27] Any person duly authorised in writing by the Secretary of State may at any reasonable time enter any land for the purpose of inspecting any scheduled monument in, on or under the land with a view to ascertaining its condition and—
+(1)[^c250801][^c-13a6bb0e8ba0430e84081d6949529edf][^c-526dacab81486d4d2dea5610585b0ce7][^c-dbff3d6b4e231dfb750acc2465b1cf27] Any person duly authorised in writing by the Secretary of State may at any reasonable time enter any land for the purpose of inspecting any scheduled monument in, on or under the land with a view to ascertaining its condition and—
 
 - (a) whether any works affecting the monument are being carried out in contravention of section 2(1) of this Act; or
 - (b) whether it has been or is likely to be damaged (by any such works or otherwise).
@@ -42,7 +42,7 @@ so as to ensure that the works in question are or have been executed in accordan
 - (a) inspecting the land (including any buildings or other structures on the land) with a view to recording any matters of archaeological or historical interest; and
 - (b) observing the execution of those works with a view to examining and recording any objects or other material of archaeological or historical interest, and recording any matters of archaeological or historical interest, discovered during the course of those works.
 
-(5)[^key-c86e6215e7f01cfeabaa2e8c7737d111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c86e6215e7f01cfeabaa2e8c7737d111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) References in this section to scheduled monument consent include references to consent granted by order under section 3 of this Act.
 
@@ -90,17 +90,17 @@ so as to ensure that the works in question are or have been executed in accordan
 
 [^M_E_2d3d2534-01ba-4fc6-9764-b942d3faf23c]: Extent: This version of this provision extends to England and Wales only; a separate version has been created for Scotland only
 
-[^key-44b645e2bcad7964e9524b054b99f58f]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1979/46/section/6) applied (with modifications) (1.1.2022) by [The Scheduled Monuments (Heritage Partnership Agreements) (Wales) Regulations 2021 (S.I. 2021/1176)](https://www.legislation.gov.uk/wsi/2021/1176), [reg. 1](https://www.legislation.gov.uk/wsi/2021/1176/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2021/1176/schedule/1)
+[^c-44b645e2bcad7964e9524b054b99f58f]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1979/46/section/6) applied (with modifications) (1.1.2022) by [The Scheduled Monuments (Heritage Partnership Agreements) (Wales) Regulations 2021 (S.I. 2021/1176)](https://www.legislation.gov.uk/wsi/2021/1176), [reg. 1](https://www.legislation.gov.uk/wsi/2021/1176/regulation/1), [Sch. 1](https://www.legislation.gov.uk/wsi/2021/1176/schedule/1)
 
 [^c250801]: Modification: S. 6(1) restricted (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 12](https://www.legislation.gov.uk/ukpga/1996/61/section/12), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/7/paragraph/4/3)
 
-[^key-13a6bb0e8ba0430e84081d6949529edf]: Modification: S. 6(1) restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/3)
+[^c-13a6bb0e8ba0430e84081d6949529edf]: Modification: S. 6(1) restricted (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 9 para. 4(3)](https://www.legislation.gov.uk/ukpga/2008/18/schedule/9/paragraph/4/3)
 
-[^key-526dacab81486d4d2dea5610585b0ce7]: Modification: S. 6(1) restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/3)
+[^c-526dacab81486d4d2dea5610585b0ce7]: Modification: S. 6(1) restricted (23.2.2017) by [High Speed Rail (London - West Midlands) Act 2017 (c. 7)](https://www.legislation.gov.uk/ukpga/2017/7), [s. 70(1)](https://www.legislation.gov.uk/ukpga/2017/7/section/70/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2017/7/schedule/19/paragraph/1/3)
 
-[^key-dbff3d6b4e231dfb750acc2465b1cf27]: Modification: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1979/46/section/6/1) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/3)
+[^c-dbff3d6b4e231dfb750acc2465b1cf27]: Modification: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1979/46/section/6/1) restricted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2021/2/schedule/19/paragraph/1/3)
 
-[^key-c86e6215e7f01cfeabaa2e8c7737d111]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/1979/46/section/6/5) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 24](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/24) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-c86e6215e7f01cfeabaa2e8c7737d111]: Textual amendment: [S. 6(5)](https://www.legislation.gov.uk/ukpga/1979/46/section/6/5) omitted (E.W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 24](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/24) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^M_E_5e6cf2c4-ab2a-4e02-b507-d3e7bc313270]: Extent: This version of this provision extends to Scotland only; a separate version has been created for England and Wales only
 

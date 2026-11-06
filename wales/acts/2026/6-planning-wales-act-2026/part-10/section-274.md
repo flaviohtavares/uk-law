@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 274. Meaning of “relevant acquisition” and “relevant appropriation”[^key-276b240edcbb0d67675bb7e7ddafd322]
+## 274. Meaning of “relevant acquisition” and “relevant appropriation”[^c-276b240edcbb0d67675bb7e7ddafd322]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-276b240edcbb0d67675bb7e7ddafd322]: Commencement: S. 274 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-276b240edcbb0d67675bb7e7ddafd322]: Commencement: S. 274 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

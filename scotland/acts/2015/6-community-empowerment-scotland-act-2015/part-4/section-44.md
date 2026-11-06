@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Notification of transfer[^key-9ffee50e1a9f7ecdd72376c87a410315][^key-b9224c54ce76ae06d571bdc7fbffd490]
+## 44. Notification of transfer[^c-9ffee50e1a9f7ecdd72376c87a410315][^c-b9224c54ce76ae06d571bdc7fbffd490]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ In section 41 of the 2003 Act (provisions supplementary to and explanatory of se
 
 ## Annotations
 
-[^key-9ffee50e1a9f7ecdd72376c87a410315]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/6/section/44) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-9ffee50e1a9f7ecdd72376c87a410315]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/6/section/44) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-b9224c54ce76ae06d571bdc7fbffd490]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/6/section/44) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))
+[^c-b9224c54ce76ae06d571bdc7fbffd490]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/6/section/44) in force at 15.4.2016 in so far as not already in force by [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3))

@@ -56,7 +56,7 @@ In accordance with section 10(1) of the 1972 Act[^f00005] and section 3(5) of th
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-8899f20f493002f3430b30005bf86a48]
+### 1. Citation, commencement and extent[^c-8899f20f493002f3430b30005bf86a48]
 
 (1) These Regulations may be cited as the National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022.
 
@@ -68,11 +68,11 @@ In accordance with section 10(1) of the 1972 Act[^f00005] and section 3(5) of th
 
 ## PART 2 — Amendments to member contribution provisions in the National Health Service Pension Scheme Regulations 2015
 
-### 2. General[^key-254b8975a748310eeaa5fca455a984e9]
+### 2. General[^c-254b8975a748310eeaa5fca455a984e9]
 
 The National Health Service Pension Scheme Regulations 2015[^f00007] are amended in accordance with this Part.
 
-### 3. Amendment of regulation 30[^key-d8adbc9c2cab172c3f231d2843e7d4de]
+### 3. Amendment of regulation 30[^c-d8adbc9c2cab172c3f231d2843e7d4de]
 
 (1) Regulation 30 (members’ contributions: employees) is amended as follows.
 
@@ -81,7 +81,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 - (a) for “each scheme year from 2015/16” substitute “the scheme year 2022/23”;
 - (b) for the table in paragraph (3), substitute—
 
-  > Table Scheme Year 2022/23[^key-efc40f5010b33b161e152021c60da6d5]
+  > Table Scheme Year 2022/23[^c-efc40f5010b33b161e152021c60da6d5]
   >
   > | **Column 1** | **Column 2** |
   > | --- | --- |
@@ -104,7 +104,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 
 > (3A) Where paragraph 2A or 3 of Schedule 11 applies, M’s contribution rate for the scheme year 2022/23 is the percentage specified in column 2 of the following table in respect of the corresponding pensionable earnings band specified in column 1 into which M’s pensionable earnings fall.
 >
-> Table Scheme Year 2022/23[^key-7d277fdedef0ee431aa0cc1e00260412]
+> Table Scheme Year 2022/23[^c-7d277fdedef0ee431aa0cc1e00260412]
 >
 > | **Column 1** | **Column 2** |
 > | --- | --- |
@@ -125,7 +125,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 
 (4) In paragraph (4), for “Table” substitute “tables”.
 
-### 4. Amendment of regulation 31[^key-74eaa9f34ef7dd48e606de41e3bacead]
+### 4. Amendment of regulation 31[^c-74eaa9f34ef7dd48e606de41e3bacead]
 
 (1) Regulation 31 (members’ contributions: practitioners and non-GP providers) is amended as follows.
 
@@ -163,7 +163,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 >   </tbody>
 >   </table>
 >
->   Table 2 Scheme Year 2022/23[^key-a2c0e31324de3fd996dabf945a3b48e5]
+>   Table 2 Scheme Year 2022/23[^c-a2c0e31324de3fd996dabf945a3b48e5]
 >
 >   | **Column 1** | **Column 2** |
 >   | --- | --- |
@@ -184,7 +184,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 
 (5) In paragraph (10), for ““the Table”” substitute “the relevant table”.
 
-### 5. Amendment of regulation 38[^key-99fcfdbc5d8c3b3fe0bc20f6d77042ea]
+### 5. Amendment of regulation 38[^c-99fcfdbc5d8c3b3fe0bc20f6d77042ea]
 
 (1) Regulation 38 (members’ contributions: supplementary: medical practitioners and non-GP providers) is amended as follows.
 
@@ -195,7 +195,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 
 (3) In paragraph (4), for “Table” substitute “relevant table”.
 
-### 6. Amendment of regulation 39[^key-3dcad19d21e41db26a9c7867bd1b3232]
+### 6. Amendment of regulation 39[^c-3dcad19d21e41db26a9c7867bd1b3232]
 
 (1) Regulation 39 (members’ contributions: supplementary: dental practitioners) is amended as follows.
 
@@ -206,7 +206,7 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
 
 (3) In paragraph (4), for “Table” substitute “relevant table”.
 
-### 7. Amendment of Schedule 11[^key-d0229f129698a97376db15d00bb0567f]
+### 7. Amendment of Schedule 11[^c-d0229f129698a97376db15d00bb0567f]
 
 (1) Schedule 11 (determination of pensionable earnings: setting contribution rates) is amended as follows.
 
@@ -294,31 +294,31 @@ The National Health Service Pension Scheme Regulations 2015[^f00007] are amended
   ;
 - (e) in sub-paragraph (7), for the words from “(6)” to the end substitute “(6) is to be taken as such amount as the employing authority considers appropriate for the current scheme year”.
 
-### 8. Amendment of Schedule 12[^key-c782b2c8d6d38992114a5f3533d83e2e]
+### 8. Amendment of Schedule 12[^c-c782b2c8d6d38992114a5f3533d83e2e]
 
 In Schedule 12 (practitioner contribution payments), in paragraph 4(5) (information to be provided to scheme manager) after “column 2 of the” insert “relevant”.
 
 ## PART 3 — Modifications of restrictions on return to work
 
-### 9. Expiry of modifications in this Part[^key-3d1be8ef01773dd41d2d9c17b3f8d54e]
+### 9. Expiry of modifications in this Part[^c-3d1be8ef01773dd41d2d9c17b3f8d54e]
 
-The modifications in this Part apply until the end of 31st March 2023, except for the modification in regulation 10(b) which applies until the end of 31st March 2025[^key-2436005bbb13a60adf0dab25aa695109].
+The modifications in this Part apply until the end of 31st March 2023, except for the modification in regulation 10(b) which applies until the end of 31st March 2025[^c-2436005bbb13a60adf0dab25aa695109].
 
-### 10. Modifications of the National Health Service Pension Scheme Regulations 1995[^key-09c32a1ed1444ae79e36c89ddf75617c]
+### 10. Modifications of the National Health Service Pension Scheme Regulations 1995[^c-09c32a1ed1444ae79e36c89ddf75617c]
 
 The National Health Service Pension Scheme Regulations 1995[^f00008] have effect as if—
 
 - (a) regulation S1 (suspension of pension on return to NHS employment) were omitted; and
 - (b) in the opening words of regulation S2(3) (reduction of pension on return to NHS employment) the words “or (c)” were omitted.
 
-### 11. Modifications of the National Health Service Pension Scheme Regulations 2008[^key-babe17eb72a0c864f790f80b29c70a1b]
+### 11. Modifications of the National Health Service Pension Scheme Regulations 2008[^c-babe17eb72a0c864f790f80b29c70a1b]
 
 The National Health Service Pension Scheme Regulations 2008[^f00009] have effect as if the following regulations were omitted—
 
 - (a) regulation 2.D.6(2)(a) (abatement of pension following increase in pensionable pay); and
 - (b) regulation 3.D.6(2)(a) (abatement of pension following increase in engagement in employment).
 
-### 12. Modification of the National Health Service Pension Scheme Regulations 2015[^key-698cd9222e9ed393b8ed9f39e1225386]
+### 12. Modification of the National Health Service Pension Scheme Regulations 2015[^c-698cd9222e9ed393b8ed9f39e1225386]
 
 The National Health Service Pension Scheme Regulations 2015[^f00010] have effect as if regulation 86(3) (abatement of pension following continuation of employment) were omitted.
 
@@ -362,44 +362,44 @@ Part 3 makes temporary modifications to the 1995 Regulations, the 2008 Regulatio
 
 [^f00005]: Footnote: The functions of the Minister for the Civil Service under section 10 of the 1972 Act were transferred to the Treasury by article 2 of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-8899f20f493002f3430b30005bf86a48]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
+[^c-8899f20f493002f3430b30005bf86a48]: Commencement: Reg. 1 comes into force in accordance with reg. 1(2)
 
 [^f00006]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 
-[^key-254b8975a748310eeaa5fca455a984e9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/273/regulation/2) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-254b8975a748310eeaa5fca455a984e9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/273/regulation/2) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
 [^f00007]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94), amended by [S.I. 2019/418](https://www.legislation.gov.uk/uksi/2019/418); there are other amending instruments but none is relevant.
 
-[^key-d8adbc9c2cab172c3f231d2843e7d4de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/273/regulation/3) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-d8adbc9c2cab172c3f231d2843e7d4de]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/273/regulation/3) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
-[^key-efc40f5010b33b161e152021c60da6d5]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2022/273/regulation/3/2/b) Table substituted (30.9.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/991)](https://www.legislation.gov.uk/uksi/2022/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/991/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/991/regulation/2/2/a)
+[^c-efc40f5010b33b161e152021c60da6d5]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2022/273/regulation/3/2/b) Table substituted (30.9.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/991)](https://www.legislation.gov.uk/uksi/2022/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/991/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/991/regulation/2/2/a)
 
-[^key-7d277fdedef0ee431aa0cc1e00260412]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/3/3) Table substituted (30.9.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/991)](https://www.legislation.gov.uk/uksi/2022/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/991/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/991/regulation/2/2/b)
+[^c-7d277fdedef0ee431aa0cc1e00260412]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/3/3) Table substituted (30.9.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/991)](https://www.legislation.gov.uk/uksi/2022/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/991/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/991/regulation/2/2/b)
 
-[^key-74eaa9f34ef7dd48e606de41e3bacead]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/273/regulation/4) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-74eaa9f34ef7dd48e606de41e3bacead]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/273/regulation/4) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
-[^key-a2c0e31324de3fd996dabf945a3b48e5]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/273/regulation/4/4) Table 2 substituted (30.9.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/991)](https://www.legislation.gov.uk/uksi/2022/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/991/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/991/regulation/2/3)
+[^c-a2c0e31324de3fd996dabf945a3b48e5]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/273/regulation/4/4) Table 2 substituted (30.9.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/991)](https://www.legislation.gov.uk/uksi/2022/991), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/991/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2022/991/regulation/2/3)
 
-[^key-99fcfdbc5d8c3b3fe0bc20f6d77042ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/273/regulation/5) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-99fcfdbc5d8c3b3fe0bc20f6d77042ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/273/regulation/5) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
-[^key-3dcad19d21e41db26a9c7867bd1b3232]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/273/regulation/6) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-3dcad19d21e41db26a9c7867bd1b3232]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/273/regulation/6) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
-[^key-d0229f129698a97376db15d00bb0567f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/273/regulation/7) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-d0229f129698a97376db15d00bb0567f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/273/regulation/7) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
-[^key-c782b2c8d6d38992114a5f3533d83e2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/273/regulation/8) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
+[^c-c782b2c8d6d38992114a5f3533d83e2e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/273/regulation/8) in force at 1.10.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/3)
 
-[^key-3d1be8ef01773dd41d2d9c17b3f8d54e]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
+[^c-3d1be8ef01773dd41d2d9c17b3f8d54e]: Commencement: Reg. 9 comes into force in accordance with reg. 1(2)
 
-[^key-2436005bbb13a60adf0dab25aa695109]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9) substituted (31.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1028)](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2)
+[^c-2436005bbb13a60adf0dab25aa695109]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9) substituted (31.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1028)](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2)
 
-[^key-09c32a1ed1444ae79e36c89ddf75617c]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
+[^c-09c32a1ed1444ae79e36c89ddf75617c]: Commencement: Reg. 10 comes into force in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [S.I. 1995/300](https://www.legislation.gov.uk/uksi/1995/300), relevant amending instruments: [S.I. 2000/605](https://www.legislation.gov.uk/uksi/2000/605), [2007/3280](https://www.legislation.gov.uk/uksi/2007/3280), [2008/654](https://www.legislation.gov.uk/uksi/2008/654), [2009/2446](https://www.legislation.gov.uk/uksi/2009/2446) and [2012/610](https://www.legislation.gov.uk/uksi/2012/610). There are other amendments that are not relevant to this instrument. Section 45 of the Coronavirus Act 2020 made temporary amendments to regulations S1 and S2(3) of [S.I. 1995/300](https://www.legislation.gov.uk/uksi/1995/300).
 
-[^key-babe17eb72a0c864f790f80b29c70a1b]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
+[^c-babe17eb72a0c864f790f80b29c70a1b]: Commencement: Reg. 11 comes into force in accordance with reg. 1(2)
 
 [^f00009]: Footnote: [S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653). Section 45 of the Coronavirus Act [2020 (c.7)](https://www.legislation.gov.uk/ukpga/2020/7) made temporary amendments to regulations 2.D.6(2)(a) and 3.D.6(2)(a) of [S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653).
 
-[^key-698cd9222e9ed393b8ed9f39e1225386]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
+[^c-698cd9222e9ed393b8ed9f39e1225386]: Commencement: Reg. 12 comes into force in accordance with reg. 1(2)
 
 [^f00010]: Footnote: [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94). Section 45 of the Coronavirus Act [2020 (c.7)](https://www.legislation.gov.uk/ukpga/2020/7) made temporary amendments to regulations 86(3) of [S.I. 2015/94](https://www.legislation.gov.uk/uksi/2015/94).

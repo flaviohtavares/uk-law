@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25.18. Copies of orders and other documents[^key-fac486bccc89c6381f2f4fe36561bffb]
+## 25.18. Copies of orders and other documents[^c-fac486bccc89c6381f2f4fe36561bffb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless the court directs otherwise, a copy of any order or other document affect
 
 ## Annotations
 
-[^key-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)
+[^c-fac486bccc89c6381f2f4fe36561bffb]: Textual amendment: Pt. 25 substituted (31.1.2013) by [The Family Procedure (Amendment) (No.5) Rules 2012 (S.I. 2012/3061)](https://www.legislation.gov.uk/uksi/2012/3061), [rule 1](https://www.legislation.gov.uk/uksi/2012/3061/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/3061/schedule)

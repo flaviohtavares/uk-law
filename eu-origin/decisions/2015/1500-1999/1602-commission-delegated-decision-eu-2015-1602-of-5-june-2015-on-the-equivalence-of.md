@@ -33,22 +33,22 @@ of 5 June 2015
 
 on the equivalence of the solvency and prudential regime for insurance and reinsurance undertakings in force in Switzerland based on Articles 172(2), 227(4) and 260(3) of Directive 2009/138/EC of the European Parliament and of the Council (revoked)
 
-[^key-3623f15cde63d789dfa156f01f4238f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3623f15cde63d789dfa156f01f4238f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3A.**[^key-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3A.**[^c-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-3623f15cde63d789dfa156f01f4238f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3623f15cde63d789dfa156f01f4238f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3623f15cde63d789dfa156f01f4238f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3623f15cde63d789dfa156f01f4238f9]: Textual amendment: Decision revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)
+[^c-3623f15cde63d789dfa156f01f4238f9]: Textual amendment: Decision revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/1071](https://www.legislation.gov.uk/uksi/2024/1071), [reg. 5(c)](https://www.legislation.gov.uk/uksi/2024/1071/regulation/5/c), [Sch.](https://www.legislation.gov.uk/uksi/2024/1071/schedule)

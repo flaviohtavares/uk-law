@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Inspection of local authorities in England[^key-fab19fbcbcec0c596c900a17e422e3cb]
+## 136. Inspection of local authorities in England[^c-fab19fbcbcec0c596c900a17e422e3cb]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fab19fbcbcec0c596c900a17e422e3cb]: Commencement: S. 136 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-fab19fbcbcec0c596c900a17e422e3cb]: Commencement: S. 136 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 183. Forfeiture of lump sum death benefit: offences committed by other persons[^key-5847f78ee3c886980e3998a8ceef9131]
+## 183. Forfeiture of lump sum death benefit: offences committed by other persons[^c-5847f78ee3c886980e3998a8ceef9131]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5847f78ee3c886980e3998a8ceef9131]: Commencement: Reg. 183 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-5847f78ee3c886980e3998a8ceef9131]: Commencement: Reg. 183 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

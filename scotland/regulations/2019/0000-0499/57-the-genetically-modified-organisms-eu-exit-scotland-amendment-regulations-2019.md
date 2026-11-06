@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-2e90ff8399daebf7716addb99be4e320]
+### 1. Citation, commencement, extent and interpretation[^c-2e90ff8399daebf7716addb99be4e320]
 
 (1) These Regulations may be cited as the Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019.
 
@@ -63,7 +63,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Amendments to subordinate legislation made in exercise of powers conferred by section 2(2) of the European Communities Act 1972
 
-### 2. The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^key-b2bc47ee61be0271c832a4561041fe4e]
+### 2. The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^c-b2bc47ee61be0271c832a4561041fe4e]
 
 (1) The 2002 Regulations are amended in accordance with paragraphs (2) to (15).
 
@@ -173,7 +173,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 3 — Amendments to subordinate legislation to address deficiencies arising from the withdrawal of the United Kingdom from the European Union
 
-### 3. The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^key-8cf575a91e6bfd31c63c091d00ab6272]
+### 3. The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^c-8cf575a91e6bfd31c63c091d00ab6272]
 
 (1) The 2002 Regulations are amended in accordance with paragraphs (2) to (29), as read with schedules 1 and 2.
 
@@ -502,12 +502,12 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (29) After schedule 5, insert schedule 5A (monitoring plan) which is in schedule 2 (new schedule 5A to be inserted) of these Regulations.
 
-### 4. The Genetically Modified Organisms (Transboundary Movements) (Scotland) Regulations 2005[^key-1abbd4dc42f03f2977bac332f2661101]
+### 4. The Genetically Modified Organisms (Transboundary Movements) (Scotland) Regulations 2005[^c-1abbd4dc42f03f2977bac332f2661101]
 
 In schedule 1 (specified community provisions) of the Genetically Modified Organisms (Transboundary Movements) (Scotland) Regulations 2005 [^c23584291]—
 
 - (a) in Part 1, in the text in the second column of the row relating to Article 10(3)—
-  - (i) for “it is authorised within the European Union” substitute “ its use is permitted in Great Britain[^key-52da04b3dd60bbf1a97b9250bccb167d]”,
+  - (i) for “it is authorised within the European Union” substitute “ its use is permitted in Great Britain[^c-52da04b3dd60bbf1a97b9250bccb167d]”,
   - (ii) for “a third” substitute “ the importing ”, and
   - (iii) omit “as required” to the end, and
 - (b) in Part 2, in the text in the second column of the row relating to Article 6, omit “and to the Commission”.
@@ -520,7 +520,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1 — NEW SCHEDULE 1 TO BE INSERTED[^key-aa898938cc080eb1b351d2be8d7275e6]
+## SCHEDULE 1 — NEW SCHEDULE 1 TO BE INSERTED[^c-aa898938cc080eb1b351d2be8d7275e6]
 
 Regulation 3(24)
 
@@ -754,7 +754,7 @@ Regulation 3(24)
 >
 > (7) Effects on human and animal health.
 
-## SCHEDULE 2 — NEW SCHEDULE 5A TO BE INSERTED[^key-903fddb9cb8d61a6a346c307e721f6a7]
+## SCHEDULE 2 — NEW SCHEDULE 5A TO BE INSERTED[^c-903fddb9cb8d61a6a346c307e721f6a7]
 
 Regulation 3(29)
 
@@ -809,15 +809,15 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23584101]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-2e90ff8399daebf7716addb99be4e320]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-2e90ff8399daebf7716addb99be4e320]: Commencement: Reg. 1 in force at 28.3.2019, see reg. 1(2)(a)
 
 [^c23584111]: Marginal citation: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), as amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I](https://www.legislation.gov.uk/ssi/2004/439/section/I). 2005/2759, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and the Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019.
 
-[^key-b2bc47ee61be0271c832a4561041fe4e]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(2)(a)
+[^c-b2bc47ee61be0271c832a4561041fe4e]: Commencement: Reg. 2 in force at 28.3.2019, see reg. 1(2)(a)
 
 [^c23584121]: Marginal citation: [2015 asp 3](https://www.legislation.gov.uk/asp/2015/3); to which there are amendments which are not relevant to these Regulations.
 
-[^key-8cf575a91e6bfd31c63c091d00ab6272]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-8cf575a91e6bfd31c63c091d00ab6272]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23584131]: Marginal citation: Regulation 2(1) is amended by Part 2 of these Regulations.
 
@@ -851,12 +851,12 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23584281]: Marginal citation: Regulation 34(3) and (7) is amended by Part 2 of these Regulations.
 
-[^key-1abbd4dc42f03f2977bac332f2661101]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-1abbd4dc42f03f2977bac332f2661101]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23584291]: Marginal citation: [S.S.I. 2005/316](https://www.legislation.gov.uk/ssi/2005/316), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-52da04b3dd60bbf1a97b9250bccb167d]: Textual amendment: Words in reg. 4(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms and Pesticides (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/381)](https://www.legislation.gov.uk/ssi/2020/381), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/381/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2020/381/regulation/2)
+[^c-52da04b3dd60bbf1a97b9250bccb167d]: Textual amendment: Words in reg. 4(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Genetically Modified Organisms and Pesticides (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/381)](https://www.legislation.gov.uk/ssi/2020/381), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/381/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2020/381/regulation/2)
 
-[^key-aa898938cc080eb1b351d2be8d7275e6]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-aa898938cc080eb1b351d2be8d7275e6]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
-[^key-903fddb9cb8d61a6a346c307e721f6a7]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-903fddb9cb8d61a6a346c307e721f6a7]: Commencement: Sch. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)

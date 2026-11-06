@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. National Statistician: advisory functions[^key-88273026f2a7244be1023242d1fed3db]
+## 30. National Statistician: advisory functions[^c-88273026f2a7244be1023242d1fed3db]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ the Board must publish a statement of its reasons for doing so.
 
 ## Annotations
 
-[^key-88273026f2a7244be1023242d1fed3db]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2007/18/section/30) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-88273026f2a7244be1023242d1fed3db]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2007/18/section/30) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

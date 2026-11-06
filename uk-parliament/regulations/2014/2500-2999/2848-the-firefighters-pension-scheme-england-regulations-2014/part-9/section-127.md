@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Estimated surpluses[^key-6d7180cca6f99bf8c2e3f8406dc589aa]
+## 127. Estimated surpluses[^c-6d7180cca6f99bf8c2e3f8406dc589aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ the Secretary of State may require the scheme manager to pay to the Secretary of
 
 ## Annotations
 
-[^key-6d7180cca6f99bf8c2e3f8406dc589aa]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2014/2848/regulation/127) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-6d7180cca6f99bf8c2e3f8406dc589aa]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2014/2848/regulation/127) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

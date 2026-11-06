@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Power of OGA to give sanction notices[^key-957e9bbd87864bbf281fa09325a40209]
+## 42. Power of OGA to give sanction notices[^c-957e9bbd87864bbf281fa09325a40209]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ but it may not give separate sanction notices to each of them in respect of the 
 
 ## Annotations
 
-[^key-957e9bbd87864bbf281fa09325a40209]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/20/section/42) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-957e9bbd87864bbf281fa09325a40209]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2016/20/section/42) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

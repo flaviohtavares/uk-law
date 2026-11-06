@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Meetings requisitioned[^key-bcd40baba0b50db628d5fd4c3843f2c1]
+## 94. Meetings requisitioned[^c-bcd40baba0b50db628d5fd4c3843f2c1]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bcd40baba0b50db628d5fd4c3843f2c1]: Commencement: Rule 94 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-bcd40baba0b50db628d5fd4c3843f2c1]: Commencement: Rule 94 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00042]: Footnote: Rule 7.6 was amended by paragraph 38 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921), and paragraph 8 of Schedule 2(1) to [S.I. 2003/2111](https://www.legislation.gov.uk/uksi/2003/2111).

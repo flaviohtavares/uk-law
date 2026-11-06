@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. SDRT: unit trust schemes and individual pension accounts[^key-18bd88af67cdfa537f00252c993d6547]
+## 93. SDRT: unit trust schemes and individual pension accounts[^c-18bd88af67cdfa537f00252c993d6547]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18bd88af67cdfa537f00252c993d6547]: Textual amendment: Ss. 93, 94 omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/3/b)
+[^c-18bd88af67cdfa537f00252c993d6547]: Textual amendment: Ss. 93, 94 omitted (with effect in accordance with s. 114(4) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 114(3)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/114/3/b)

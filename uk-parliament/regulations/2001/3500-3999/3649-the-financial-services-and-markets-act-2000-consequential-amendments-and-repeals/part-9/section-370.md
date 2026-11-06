@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 370. Minors[^key-5da6b1bb62a0e65f52ae6b35ec403665]
+## 370. Minors[^c-5da6b1bb62a0e65f52ae6b35ec403665]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5da6b1bb62a0e65f52ae6b35ec403665]: Commencement: Art. 370 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-5da6b1bb62a0e65f52ae6b35ec403665]: Commencement: Art. 370 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00263]: Footnote: Paragraph (1A) was inserted by [S.I. 1989/2046](https://www.legislation.gov.uk/uksi/1989/2046), regulation 2(c).

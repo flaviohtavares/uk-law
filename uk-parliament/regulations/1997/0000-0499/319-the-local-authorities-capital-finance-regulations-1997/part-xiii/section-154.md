@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Interpretation[^key-352516c815a39530035c1ccde08d59c5]
+## 154. Interpretation[^c-352516c815a39530035c1ccde08d59c5]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-352516c815a39530035c1ccde08d59c5]: Commencement: Reg. 154 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-352516c815a39530035c1ccde08d59c5]: Commencement: Reg. 154 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00115]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49) Section 8 was substituted by section 1(1) of the Health Authorities Act [1995 (c. 17)](https://www.legislation.gov.uk/ukpga/1995/17). Health Authorities were established in England by the Health Authorities (England) Establihment Order 1996 ([S.I. 1996/624](https://www.legislation.gov.uk/uksi/1996/624)), and in Wales by the Health Authorities (Wales) Establisment Order 1996 ([S.I. 1996/146](https://www.legislation.gov.uk/uksi/1996/146)).
 

@@ -36,7 +36,7 @@ National Health Service, Scotland
 
 Health And Personal Social Services, Northern Ireland
 
-The Health Service Branded Medicines (Control of Prices and Supply of Information) Regulations 2008 (revoked)[^key-65ee1dff899c8d84fe2e11acb00c0100]
+The Health Service Branded Medicines (Control of Prices and Supply of Information) Regulations 2008 (revoked)[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 Made
 
@@ -50,64 +50,64 @@ Coming into force
 
 1st September 2008
 
-[^key-65ee1dff899c8d84fe2e11acb00c0100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ee1dff899c8d84fe2e11acb00c0100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 1. Citation, commencement and interpretation[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Control of prices[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 2. Control of prices[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. New products[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 3. New products[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemptions[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 4. Exemptions[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Increases[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 5. Increases[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 6. Enforcement[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Information[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 7. Information[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Appeals[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 8. Appeals[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Duration of regulations[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## 9. Duration of regulations[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65ee1dff899c8d84fe2e11acb00c0100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ee1dff899c8d84fe2e11acb00c0100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — RECOVERABLE SUMS[^key-65ee1dff899c8d84fe2e11acb00c0100]
+## SCHEDULE — RECOVERABLE SUMS[^c-65ee1dff899c8d84fe2e11acb00c0100]
 
 Regulation 6(1)
 
-**1.**[^key-65ee1dff899c8d84fe2e11acb00c0100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-65ee1dff899c8d84fe2e11acb00c0100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-65ee1dff899c8d84fe2e11acb00c0100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-65ee1dff899c8d84fe2e11acb00c0100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-65ee1dff899c8d84fe2e11acb00c0100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-65ee1dff899c8d84fe2e11acb00c0100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-65ee1dff899c8d84fe2e11acb00c0100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ee1dff899c8d84fe2e11acb00c0100]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65ee1dff899c8d84fe2e11acb00c0100]: Textual amendment: Regulations revoked (1.2.2009) by [The Health Service Branded Medicines (Control of Prices and Supply of Information) (No. 2) Regulations 2008 (S.I. 2008/3258)](https://www.legislation.gov.uk/uksi/2008/3258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3258/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/3258/regulation/10)
+[^c-65ee1dff899c8d84fe2e11acb00c0100]: Textual amendment: Regulations revoked (1.2.2009) by [The Health Service Branded Medicines (Control of Prices and Supply of Information) (No. 2) Regulations 2008 (S.I. 2008/3258)](https://www.legislation.gov.uk/uksi/2008/3258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3258/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2008/3258/regulation/10)

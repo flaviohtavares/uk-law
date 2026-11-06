@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Compensation for loss or damage caused by temporary stop notice[^key-20f1f2e254063453ed56eb5d6eecd768]
+## 124. Compensation for loss or damage caused by temporary stop notice[^c-20f1f2e254063453ed56eb5d6eecd768]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20f1f2e254063453ed56eb5d6eecd768]: Commencement: S. 124 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-20f1f2e254063453ed56eb5d6eecd768]: Commencement: S. 124 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

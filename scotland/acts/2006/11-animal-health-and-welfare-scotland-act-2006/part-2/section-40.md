@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Disqualification orders[^key-2d2a99f333d95eac9d8af744342f6f04][^key-41b212768bec014b1fd22becd672a67c]
+## 40. Disqualification orders[^c-2d2a99f333d95eac9d8af744342f6f04][^c-41b212768bec014b1fd22becd672a67c]
 
 *Extent: S*
 
-(1) Where a person is convicted of a relevant offence, the convicting court must consider whether it is necessary, to protect animal welfare, to[^key-1744a17babda65b5eb72cc863646507b] make an order (in this Part referred to as a “**disqualification order**”) which imposes on the person one or more of the disqualifications specified in subsection (2).
+(1) Where a person is convicted of a relevant offence, the convicting court must consider whether it is necessary, to protect animal welfare, to[^c-1744a17babda65b5eb72cc863646507b] make an order (in this Part referred to as a “**disqualification order**”) which imposes on the person one or more of the disqualifications specified in subsection (2).
 
-(1A)[^key-e20573385ff0f1efe0b1946369ae601f] The purpose of a disqualification order is for the future protection of animals and not in substitution for a penalty for a relevant offence.
+(1A)[^c-e20573385ff0f1efe0b1946369ae601f] The purpose of a disqualification order is for the future protection of animals and not in substitution for a penalty for a relevant offence.
 
 (2) Those are disqualification from—
 
@@ -48,7 +48,7 @@ summary: ''
 
 if no alternative arrangements for its care are reasonably available.
 
-(5)[^key-52cf4c41a37150ecf9bfb03d3a6d4c6f] The court must state its reasons—
+(5)[^c-52cf4c41a37150ecf9bfb03d3a6d4c6f] The court must state its reasons—
 
 - (a) for deciding to make or, as the case may be, not make a disqualification order,
 - (b) where it decides to make such an order—
@@ -56,7 +56,7 @@ if no alternative arrangements for its care are reasonably available.
   - (ii) for specifying, under subsection (9)(a), the period for which the order is to have effect, and
   - (iii) for specifying, under subsection (9)(b), a period within which no application under section 42(1) may be made.
 
-(6) A disqualification order may be made in addition to [^key-6e60506f1753de11cd119033e39b952f]... any other penalty or order which may be imposed in relation to a relevant offence.
+(6) A disqualification order may be made in addition to [^c-6e60506f1753de11cd119033e39b952f]... any other penalty or order which may be imposed in relation to a relevant offence.
 
 (7) A disqualification order may apply to animals generally or to animals of any particular kind.
 
@@ -92,14 +92,14 @@ as having occurred in relation to all the animals of the particular kind concern
 
 ## Annotations
 
-[^key-2d2a99f333d95eac9d8af744342f6f04]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2006/11/section/40) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(1)(a)](https://www.legislation.gov.uk/ssi/2006/482/article/4/1/a))
+[^c-2d2a99f333d95eac9d8af744342f6f04]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2006/11/section/40) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(1)(a)](https://www.legislation.gov.uk/ssi/2006/482/article/4/1/a))
 
-[^key-41b212768bec014b1fd22becd672a67c]: Modification: [Ss. 39](https://www.legislation.gov.uk/asp/2006/11/section/39), [40](https://www.legislation.gov.uk/asp/2006/11/section/40) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(1)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/1)
+[^c-41b212768bec014b1fd22becd672a67c]: Modification: [Ss. 39](https://www.legislation.gov.uk/asp/2006/11/section/39), [40](https://www.legislation.gov.uk/asp/2006/11/section/40) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(1)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/1)
 
-[^key-1744a17babda65b5eb72cc863646507b]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/asp/2006/11/section/40/1) substituted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 4(2)(a)](https://www.legislation.gov.uk/asp/2020/14/section/4/2/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
+[^c-1744a17babda65b5eb72cc863646507b]: Textual amendment: Words in [s. 40(1)](https://www.legislation.gov.uk/asp/2006/11/section/40/1) substituted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 4(2)(a)](https://www.legislation.gov.uk/asp/2020/14/section/4/2/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
 
-[^key-e20573385ff0f1efe0b1946369ae601f]: Textual amendment: [S. 40(1A)](https://www.legislation.gov.uk/asp/2006/11/section/40/1A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 5(2)(a)](https://www.legislation.gov.uk/asp/2020/14/section/5/2/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/b)
+[^c-e20573385ff0f1efe0b1946369ae601f]: Textual amendment: [S. 40(1A)](https://www.legislation.gov.uk/asp/2006/11/section/40/1A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 5(2)(a)](https://www.legislation.gov.uk/asp/2020/14/section/5/2/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/b)
 
-[^key-52cf4c41a37150ecf9bfb03d3a6d4c6f]: Textual amendment: [S. 40(5)](https://www.legislation.gov.uk/asp/2006/11/section/40/5) substituted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 4(2)(b)](https://www.legislation.gov.uk/asp/2020/14/section/4/2/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
+[^c-52cf4c41a37150ecf9bfb03d3a6d4c6f]: Textual amendment: [S. 40(5)](https://www.legislation.gov.uk/asp/2006/11/section/40/5) substituted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 4(2)(b)](https://www.legislation.gov.uk/asp/2020/14/section/4/2/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/a)
 
-[^key-6e60506f1753de11cd119033e39b952f]: Textual amendment: Words in [s. 40(6)](https://www.legislation.gov.uk/asp/2006/11/section/40/6) repealed (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 5(2)(b)](https://www.legislation.gov.uk/asp/2020/14/section/5/2/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/b)
+[^c-6e60506f1753de11cd119033e39b952f]: Textual amendment: Words in [s. 40(6)](https://www.legislation.gov.uk/asp/2006/11/section/40/6) repealed (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 5(2)(b)](https://www.legislation.gov.uk/asp/2020/14/section/5/2/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/b)

@@ -33,42 +33,42 @@ of 14 May 2019
 
 on the position to be taken on behalf of the European Union in the North Atlantic Salmon Conservation Organization (NASCO), and repealing the Decision of 26 May 2014 on the position to be adopted, on behalf of the Union, in the NASCO (revoked)
 
-[^key-b0af17caa939ad83f73a0f0700429665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0af17caa939ad83f73a0f0700429665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b0af17caa939ad83f73a0f0700429665] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0af17caa939ad83f73a0f0700429665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0af17caa939ad83f73a0f0700429665]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — The position to be taken on the Union's behalf in the North Atlantic Salmon Conservation Organisation (NASCO)[^key-b0af17caa939ad83f73a0f0700429665]
+## ANNEX I — The position to be taken on the Union's behalf in the North Atlantic Salmon Conservation Organisation (NASCO)[^c-b0af17caa939ad83f73a0f0700429665]
 
-[^key-b0af17caa939ad83f73a0f0700429665]1.
+[^c-b0af17caa939ad83f73a0f0700429665]1.
 
 PRINCIPLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0af17caa939ad83f73a0f0700429665]2.
+[^c-b0af17caa939ad83f73a0f0700429665]2.
 
 ORIENTATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the North Atlantic Salmon Conservation Organisation[^key-b0af17caa939ad83f73a0f0700429665]
+## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the North Atlantic Salmon Conservation Organisation[^c-b0af17caa939ad83f73a0f0700429665]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0af17caa939ad83f73a0f0700429665]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-b0af17caa939ad83f73a0f0700429665]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -28,7 +28,7 @@ summary: ''
 
 (4) Money or money’s worth is not a capital receipt for the purposes of section 501 to the extent that—
 
-- (a) it constitutes income in the hands of the recipient for the purposes of income tax or would do so but for sections 489 to 498 (SIPs: tax advantages) or section 770 of[^key-6a9855ce31f32da6bd7043b97eb47169] ITTOIA 2005 (exemption for amounts applied by SIP trustees acquiring dividend shares or retained for reinvestment),
+- (a) it constitutes income in the hands of the recipient for the purposes of income tax or would do so but for sections 489 to 498 (SIPs: tax advantages) or section 770 of[^c-6a9855ce31f32da6bd7043b97eb47169] ITTOIA 2005 (exemption for amounts applied by SIP trustees acquiring dividend shares or retained for reinvestment),
 - (b) it consists of the proceeds of disposal of the plan shares mentioned in section 501, or
 - (c) it consists of new shares within the meaning of paragraph 87 of Schedule 2 (company reconstructions).
 
@@ -41,4 +41,4 @@ the money or money’s worth constituting the proceeds of that disposal is not a
 
 ## Annotations
 
-[^key-6a9855ce31f32da6bd7043b97eb47169]: Textual amendment: Words in s. 502(4)(a) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 603](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/603) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-6a9855ce31f32da6bd7043b97eb47169]: Textual amendment: Words in s. 502(4)(a) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 603](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/603) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

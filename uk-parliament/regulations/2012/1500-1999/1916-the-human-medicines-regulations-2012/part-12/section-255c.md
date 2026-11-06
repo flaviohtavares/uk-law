@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255C. Offences relating to Commission Regulation 2016/161: management of the repository system[^key-2b6b43118e385c1374baaa9e923c9a8e]
+## 255C. Offences relating to Commission Regulation 2016/161: management of the repository system[^c-2b6b43118e385c1374baaa9e923c9a8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6b43118e385c1374baaa9e923c9a8e]: Textual amendment: [Reg. 255C](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255C) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [109(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/109/c)
+[^c-2b6b43118e385c1374baaa9e923c9a8e]: Textual amendment: [Reg. 255C](https://www.legislation.gov.uk/uksi/2012/1916/regulation/255C) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [109(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/109/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Information to be provided to the Board[^key-d07f6093f67b682e8498dc68db27bf32]
+## 32. Information to be provided to the Board[^c-d07f6093f67b682e8498dc68db27bf32]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d07f6093f67b682e8498dc68db27bf32]: Textual amendment: Reg. 33 omitted (1.11.2011) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [32](https://www.legislation.gov.uk/uksi/2011/1780/regulation/32)
+[^c-d07f6093f67b682e8498dc68db27bf32]: Textual amendment: Reg. 33 omitted (1.11.2011) by virtue of [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [32](https://www.legislation.gov.uk/uksi/2011/1780/regulation/32)

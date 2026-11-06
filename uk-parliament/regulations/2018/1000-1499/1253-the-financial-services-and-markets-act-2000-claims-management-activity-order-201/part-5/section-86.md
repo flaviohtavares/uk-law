@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86. Interpretation[^key-69dd686a35c7d3d928278de0c7728a44][^key-261433b9a123fee15c94058a51923657]
+## 86. Interpretation[^c-69dd686a35c7d3d928278de0c7728a44][^c-261433b9a123fee15c94058a51923657]
 
 *Extent: E+W+S*
 
@@ -29,8 +29,8 @@ In this Part—
 
 ## Annotations
 
-[^key-69dd686a35c7d3d928278de0c7728a44]: Commencement: Art. 86 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-69dd686a35c7d3d928278de0c7728a44]: Commencement: Art. 86 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-261433b9a123fee15c94058a51923657]: Commencement: [Art. 86](https://www.legislation.gov.uk/uksi/2018/1253/article/86) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-261433b9a123fee15c94058a51923657]: Commencement: [Art. 86](https://www.legislation.gov.uk/uksi/2018/1253/article/86) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00122]: Footnote: [2012 c. 21](https://www.legislation.gov.uk/ukpga/2012/21).

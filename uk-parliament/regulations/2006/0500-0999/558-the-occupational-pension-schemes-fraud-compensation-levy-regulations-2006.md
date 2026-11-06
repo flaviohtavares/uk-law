@@ -74,7 +74,7 @@ In these Regulations—
 - “**stakeholder pension scheme**” means a stakeholder pension scheme within the meaning of section 1 of the Welfare Reform and Pensions Act 1999 [^c1543163] (meaning of stakeholder pension scheme) which is established under a trust;
 - “**unallocated assets**”, in relation to a scheme, means any assets of the scheme which have not been specifically allocated for the provision of benefits to, or in respect of, members (whether generally or individually).
 
-## 3. The fraud compensation levy[^key-05e160cdb3c2d4d1e86fe78c7187f484]
+## 3. The fraud compensation levy[^c-05e160cdb3c2d4d1e86fe78c7187f484]
 
 (1) For the purposes of meeting expenditure payable out of the Fraud Compensation Fund, trustees or managers of schemes shall be liable to pay a fraud compensation levy in respect of each financial year.
 
@@ -83,7 +83,7 @@ In these Regulations—
 (3) The fraud compensation levy payable shall—
 
 - (a) be payable by reference to the total number of members of the scheme on the reference day, and
-- (b)[^key-598c9d31b6a6357168606863a1fa062b] not exceed—
+- (b)[^c-598c9d31b6a6357168606863a1fa062b] not exceed—
   - (i) in the case of a scheme which is authorised by the Regulator under section 5 of the Pension Schemes Act 2017 (decision on application), 65 pence per member, and
   - (ii) in any other case, £1.80 per member.
 
@@ -146,7 +146,7 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 ## 9. Partially guaranteed schemes
 
-(1) Except where paragraph (3) applies,[^key-a85fd247b20cfd045cc97c731205f72b] this regulation applies if a relevant public authority has—
+(1) Except where paragraph (3) applies,[^c-a85fd247b20cfd045cc97c731205f72b] this regulation applies if a relevant public authority has—
 
 - (a) given a guarantee in relation to any part of a scheme, any benefits payable under the scheme, or any member of the scheme; or
 - (b) made any other arrangements for the purpose of securing that the assets of the scheme are sufficient to meet any part of its liabilities.
@@ -157,7 +157,7 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 - (b) which relates to benefits payable under the scheme in relation to which the guarantee has been given; or
 - (c) which relates to benefits payable under the scheme in relation to the liabilities for which those other arrangements have been made.
 
-(3)[^key-3ac3b371743fd6e7c003958661e63ac9] This paragraph applies where regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies to a scheme.
+(3)[^c-3ac3b371743fd6e7c003958661e63ac9] This paragraph applies where regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations 2005 (schemes to which paragraph (1) of regulation 2 does not apply) applies to a scheme.
 
 ## 10. Avoidance of double liability: schemes in Northern Ireland
 
@@ -171,7 +171,7 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 ## 11. Penalties
 
-Where any person, without reasonable cause, fails to pay any fraud compensation levy which is payable under regulation 3(1), the Regulator may by notice in writing[^key-c31bda5b01cbf8ba3a3b53efc6d46ad2] require that person to pay within 28 days, after the levy became due, a penalty which shall—
+Where any person, without reasonable cause, fails to pay any fraud compensation levy which is payable under regulation 3(1), the Regulator may by notice in writing[^c-c31bda5b01cbf8ba3a3b53efc6d46ad2] require that person to pay within 28 days, after the levy became due, a penalty which shall—
 
 - (a) in the case of an individual, not exceed £1,000; and
 - (b) in any other case, not exceed £10,000.
@@ -237,12 +237,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1543163]: Marginal citation: [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-05e160cdb3c2d4d1e86fe78c7187f484]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/558/regulation/3) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [23(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/c)
+[^c-05e160cdb3c2d4d1e86fe78c7187f484]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2006/558/regulation/3) modified (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [23(1)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/23/2/c)
 
-[^key-598c9d31b6a6357168606863a1fa062b]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2006/558/regulation/3/3/b) substituted (1.4.2022) by [The Occupational Pension Schemes (Fraud Compensation Levy) (Amendment) Regulations 2022 (S.I. 2022/259)](https://www.legislation.gov.uk/uksi/2022/259), [regs. 1](https://www.legislation.gov.uk/uksi/2022/259/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/259/regulation/3)
+[^c-598c9d31b6a6357168606863a1fa062b]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2006/558/regulation/3/3/b) substituted (1.4.2022) by [The Occupational Pension Schemes (Fraud Compensation Levy) (Amendment) Regulations 2022 (S.I. 2022/259)](https://www.legislation.gov.uk/uksi/2022/259), [regs. 1](https://www.legislation.gov.uk/uksi/2022/259/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/259/regulation/3)
 
-[^key-a85fd247b20cfd045cc97c731205f72b]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2006/558/regulation/9/1) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/7/a)
+[^c-a85fd247b20cfd045cc97c731205f72b]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2006/558/regulation/9/1) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2010/196/regulation/7/a)
 
-[^key-3ac3b371743fd6e7c003958661e63ac9]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2006/558/regulation/9/3) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/7/b)
+[^c-3ac3b371743fd6e7c003958661e63ac9]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/uksi/2006/558/regulation/9/3) inserted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/196)](https://www.legislation.gov.uk/uksi/2010/196), [regs. 1](https://www.legislation.gov.uk/uksi/2010/196/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/196/regulation/7/b)
 
-[^key-c31bda5b01cbf8ba3a3b53efc6d46ad2]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2006/558/regulation/11) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/21/2)
+[^c-c31bda5b01cbf8ba3a3b53efc6d46ad2]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2006/558/regulation/11) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/21/2)

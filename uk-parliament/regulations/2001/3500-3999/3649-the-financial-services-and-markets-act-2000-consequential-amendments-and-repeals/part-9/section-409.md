@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 409. Revocation of spent provision[^key-3844adf8702192d14af4c842dee71ef0]
+## 409. Revocation of spent provision[^c-3844adf8702192d14af4c842dee71ef0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 10 of the Insurance Companies (Legal Expenses Insurance) Regulations 
 
 ## Annotations
 
-[^key-3844adf8702192d14af4c842dee71ef0]: Commencement: Art. 409 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3844adf8702192d14af4c842dee71ef0]: Commencement: Art. 409 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

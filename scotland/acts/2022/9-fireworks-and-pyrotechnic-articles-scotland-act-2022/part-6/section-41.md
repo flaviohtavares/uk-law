@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Search for fireworks or pyrotechnic articles without warrant[^key-1778f8a5963d727821203e692f0da902][^key-c13420ff446f4ec9437fddb03fe61b19]
+## 41. Search for fireworks or pyrotechnic articles without warrant[^c-1778f8a5963d727821203e692f0da902][^c-c13420ff446f4ec9437fddb03fe61b19]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1778f8a5963d727821203e692f0da902]: Commencement: S. 41 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-1778f8a5963d727821203e692f0da902]: Commencement: S. 41 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-c13420ff446f4ec9437fddb03fe61b19]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2022/9/section/41) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)
+[^c-c13420ff446f4ec9437fddb03fe61b19]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2022/9/section/41) in force at 10.10.2022 by [S.S.I. 2022/280](https://www.legislation.gov.uk/ssi/2022/280), [reg. 2](https://www.legislation.gov.uk/ssi/2022/280/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/280/schedule)

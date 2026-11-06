@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Preservation for transplantation[^key-d5e0eaa21a1b28818f402b75ce6a3bd5][^key-a193e6e72372e77f08fea6a7a81e35e5]
+## 43. Preservation for transplantation[^c-d5e0eaa21a1b28818f402b75ce6a3bd5][^c-a193e6e72372e77f08fea6a7a81e35e5]
 
 *Extent: E+W+N.I.*
 
@@ -46,14 +46,14 @@ summary: ''
 
 *Extent: E+W*
 
-(7)[^key-5cbe71e33a414a402501c8092a97c504] This section does not apply in relation to a part of a body lying in an institution in Wales.
+(7)[^c-5cbe71e33a414a402501c8092a97c504] This section does not apply in relation to a part of a body lying in an institution in Wales.
 
 (For provision in these circumstances see section 13 of the Human Transplantation (Wales) Act 2013).
 
 ## Annotations
 
-[^key-d5e0eaa21a1b28818f402b75ce6a3bd5]: Commencement: S. 43 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-d5e0eaa21a1b28818f402b75ce6a3bd5]: Commencement: S. 43 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-a193e6e72372e77f08fea6a7a81e35e5]: Commencement: S. 43 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-a193e6e72372e77f08fea6a7a81e35e5]: Commencement: S. 43 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-5cbe71e33a414a402501c8092a97c504]: Textual amendment: [S. 43(7)](https://www.legislation.gov.uk/ukpga/2004/30/section/43/7) inserted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(7)](https://www.legislation.gov.uk/anaw/2013/5/section/16/7), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-5cbe71e33a414a402501c8092a97c504]: Textual amendment: [S. 43(7)](https://www.legislation.gov.uk/ukpga/2004/30/section/43/7) inserted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(7)](https://www.legislation.gov.uk/anaw/2013/5/section/16/7), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)

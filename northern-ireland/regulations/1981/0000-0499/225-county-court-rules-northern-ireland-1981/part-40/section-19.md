@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Mediation settlement enforcement orders[^key-c14bd92adcdce3b95094758e5c9c7eda]
+## 19. Mediation settlement enforcement orders[^c-c14bd92adcdce3b95094758e5c9c7eda]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c14bd92adcdce3b95094758e5c9c7eda]: Textual amendment: Order 40 Pt. 6 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2019/234/article/3/6) (with [rule 4](https://www.legislation.gov.uk/nisr/2019/234/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c14bd92adcdce3b95094758e5c9c7eda]: Textual amendment: Order 40 Pt. 6 omitted (31.12.2020) by virtue of [The County Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/234)](https://www.legislation.gov.uk/nisr/2019/234), [rules 1](https://www.legislation.gov.uk/nisr/2019/234/rule/1), [3(6)](https://www.legislation.gov.uk/nisr/2019/234/article/3/6) (with [rule 4](https://www.legislation.gov.uk/nisr/2019/234/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

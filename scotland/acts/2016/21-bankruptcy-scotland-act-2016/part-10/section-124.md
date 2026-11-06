@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. False claims etc.[^key-e6b821dd3b037eb02b068ef1e1090f3b]
+## 124. False claims etc.[^c-e6b821dd3b037eb02b068ef1e1090f3b]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ which is false.
 
 ## Annotations
 
-[^key-e6b821dd3b037eb02b068ef1e1090f3b]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2016/21/section/124) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-e6b821dd3b037eb02b068ef1e1090f3b]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2016/21/section/124) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

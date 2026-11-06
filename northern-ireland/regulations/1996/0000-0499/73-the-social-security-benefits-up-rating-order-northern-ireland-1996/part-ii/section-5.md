@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Increase in rates or amounts of certain benefits under the Pension Schemes Act[^key-fe8a3a9639b3eb9542b7290c184857f8]
+## 5. Increase in rates or amounts of certain benefits under the Pension Schemes Act[^c-fe8a3a9639b3eb9542b7290c184857f8]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8a3a9639b3eb9542b7290c184857f8]: Commencement: Art. 5 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
+[^c-fe8a3a9639b3eb9542b7290c184857f8]: Commencement: Art. 5 in operation at 8.4.1996, see [art. 1(1)(d)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/d)
 
 [^f00011]: Footnote: *See* section 132(4) of the Social Security Administration (Northern Ireland) Act 1992 as amended by paragraph 41(c) of Schedule 7 to the Pension Schemes (Northern Ireland) Act 1993. *See also* the Guaranteed Minimum Pensions Increase Order (Northern Ireland) 1996 ([S.R. 1996 No. 62](https://www.legislation.gov.uk/nisr/1996/62))

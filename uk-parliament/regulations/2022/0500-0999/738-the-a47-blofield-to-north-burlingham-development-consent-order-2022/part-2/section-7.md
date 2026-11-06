@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Planning permission[^key-55f82ca5e1d0b762181f263b318722a9]
+## 7. Planning permission[^c-55f82ca5e1d0b762181f263b318722a9]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ the carrying out, use or operation of such development under the terms of the pl
 
 ## Annotations
 
-[^key-55f82ca5e1d0b762181f263b318722a9]: Commencement: Art. 7 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-55f82ca5e1d0b762181f263b318722a9]: Commencement: Art. 7 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)

@@ -27,7 +27,7 @@ Section 18.
 **2.**[^c13520631] (1) In subsection (1) of section 1 (vehicles charged to tax), for the words from “all" to the end of the subsection there shall be substituted—
 
 > - (a) every chargeable vehicle made in the United Kingdom;
-> - (b) every chargeable vehicle imported into the United Kingdom from outside European Union[^key-0ab640817216ca7798db3d3bc479e23b];
+> - (b) every chargeable vehicle imported into the United Kingdom from outside European Union[^c-0ab640817216ca7798db3d3bc479e23b];
 > - (c) every chargeable vehicle acquired in the United Kingdom from another member State; and
 > - (d) every chargeable vehicle not charged with tax under any of the preceding paragraphs which—
 >   - (i) is registered, or
@@ -156,7 +156,7 @@ Section 18.
 
 [^c13520631]: Textual amendment: Sch. 4 deemed never to have been enacted by virtue of [Car Tax (Abolition) Act 1992 (c. 58)](https://www.legislation.gov.uk/ukpga/1992/58), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/58/section/4), [5](https://www.legislation.gov.uk/ukpga/1992/58/section/5)
 
-[^key-0ab640817216ca7798db3d3bc479e23b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-0ab640817216ca7798db3d3bc479e23b]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c13520641]: Textual amendment: Sch. 4 deemed never to have been enacted by virtue of [Car Tax (Abolition) Act 1992 (c. 58)](https://www.legislation.gov.uk/ukpga/1992/58), [ss. 4](https://www.legislation.gov.uk/ukpga/1992/58/section/4), [5](https://www.legislation.gov.uk/ukpga/1992/58/section/5)
 

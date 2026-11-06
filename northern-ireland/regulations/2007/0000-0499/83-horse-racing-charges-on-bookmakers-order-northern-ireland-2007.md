@@ -31,7 +31,7 @@ summary: ''
 
 HORSE RACING AND BETTING
 
-Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 2007 (revoked)[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]
+Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 2007 (revoked)[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]
 
 Made
 
@@ -43,28 +43,28 @@ Coming into operation
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
 
-[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]
+## 1. Citation and commencement[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Charges on bookmakers[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]
+## 2. Charges on bookmakers[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]
+## 3. Revocation[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc183eeb60e3fa08ffc8fd2cd17f38be]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/83) revoked (14.4.2010) by [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 2010 (S.R. 2010/51)](https://www.legislation.gov.uk/nisr/2010/51), [arts. 1](https://www.legislation.gov.uk/nisr/2010/51/article/1), [3](https://www.legislation.gov.uk/nisr/2010/51/article/3)
+[^c-cc183eeb60e3fa08ffc8fd2cd17f38be]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/83) revoked (14.4.2010) by [Horse Racing (Charges on Bookmakers) Order (Northern Ireland) 2010 (S.R. 2010/51)](https://www.legislation.gov.uk/nisr/2010/51), [arts. 1](https://www.legislation.gov.uk/nisr/2010/51/article/1), [3](https://www.legislation.gov.uk/nisr/2010/51/article/3)

@@ -45,11 +45,11 @@ Coming into force
 
 The Minister for Agriculture, Fisheries and Food, being designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to the Common Agricultural Policy of the European Community, in exercise of the powers conferred on him by that section, and of all other powers enabling him in that behalf, makes the following Regulations:
 
-## 1. Title, commencement and extent[^key-aab5d3e188dfb9a2f3c6885da5103bb9]
+## 1. Title, commencement and extent[^c-aab5d3e188dfb9a2f3c6885da5103bb9]
 
 These Regulations may be cited as The Foot-and-Mouth Disease (Marking of Meat, Minced Meat and Meat Preparations) Regulations 2001; they extend to England and shall come into force on 5th May 2001.
 
-## 2. Amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^key-49adadcb72211a0d57886d00448054ce]
+## 2. Amendment to the Fresh Meat (Hygiene and Inspection) Regulations 1995[^c-49adadcb72211a0d57886d00448054ce]
 
 (1) The Fresh Meat (Hygiene and Inspection) Regulatons 1995[^f00002] are amended in so far as they extend to England in accordance with this regulation.
 
@@ -61,7 +61,7 @@ These Regulations may be cited as The Foot-and-Mouth Disease (Marking of Meat, M
 
 .
 
-## 3. Amendment to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^key-263e52ea08368ce533fe5c418da4b685]
+## 3. Amendment to the Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^c-263e52ea08368ce533fe5c418da4b685]
 
 (1) The Minced Meat and Meat Preparations (Hygiene) Regulations 1995[^f00004] are amended in so far as they extend to England in accordance with this regulation.
 
@@ -133,15 +133,15 @@ A regulatory impact assessment has not been prepared for these Regulations.
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-aab5d3e188dfb9a2f3c6885da5103bb9]: Commencement: Reg. 1 in force at 5.5.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1739/regulation/1)
+[^c-aab5d3e188dfb9a2f3c6885da5103bb9]: Commencement: Reg. 1 in force at 5.5.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1739/regulation/1)
 
-[^key-49adadcb72211a0d57886d00448054ce]: Commencement: Reg. 2 in force at 5.5.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1739/regulation/1)
+[^c-49adadcb72211a0d57886d00448054ce]: Commencement: Reg. 2 in force at 5.5.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1739/regulation/1)
 
 [^f00002]: Footnote: S.I. [1995/3189](https://www.legislation.gov.uk/uksi/1995/3189) amended by S.I. [1995/3189](https://www.legislation.gov.uk/uksi/1995/3189), S.I. [2000/2215](https://www.legislation.gov.uk/uksi/2000/2215) and S.I. [2001/1512](https://www.legislation.gov.uk/uksi/2001/1512).
 
 [^f00003]: Footnote: OJ No. L62, 2.3.2001, p. 22 as amended by Commission Decisions [2001/190/EC](https://www.legislation.gov.uk/european/decision/2001/0190) (OJ No. L67, 9.3.2001, p. 88) [2001/209/EC](https://www.legislation.gov.uk/european/decision/2001/0209) (OJ No. L76, 16.3.2001, p. 35) [2001/239/EC](https://www.legislation.gov.uk/european/decision/2001/0239) (OJ No. L86, 27.3.2001, p. 33), [2001/268/EC](https://www.legislation.gov.uk/european/decision/2001/0268) (OJ No. L94, 3.4.2001, p. 27), [2001/316/EC](https://www.legislation.gov.uk/european/decision/2001/0316) (OJ No. L109, 19.4.2001, p. 72) and [2001/318/EC](https://www.legislation.gov.uk/european/decision/2001/0318) (OJ No. L109, 19.4.2001, p. 75).
 
-[^key-263e52ea08368ce533fe5c418da4b685]: Commencement: Reg. 3 in force at 5.5.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1739/regulation/1)
+[^c-263e52ea08368ce533fe5c418da4b685]: Commencement: Reg. 3 in force at 5.5.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/1739/regulation/1)
 
 [^f00004]: Footnote: S.I. [1995/3205](https://www.legislation.gov.uk/uksi/1995/3205) amended by S.I. [2000/656](https://www.legislation.gov.uk/uksi/2000/656) and S.I. [2001/1512](https://www.legislation.gov.uk/uksi/2001/1512).
 

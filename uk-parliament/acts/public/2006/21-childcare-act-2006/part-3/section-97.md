@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Employees not to be regarded as providing childcare[^key-a986d85b038b9ee785d4b2facc196f54]
+## 97. Employees not to be regarded as providing childcare[^c-a986d85b038b9ee785d4b2facc196f54]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a986d85b038b9ee785d4b2facc196f54]: Commencement: S. 97 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-a986d85b038b9ee785d4b2facc196f54]: Commencement: S. 97 in force at 6.4.2007 by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)

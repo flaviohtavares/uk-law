@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. The Fair Employment Tribunal for Northern Ireland[^key-386e92158c61a4a6949e9c72faa84aa6]
+## 5. The Fair Employment Tribunal for Northern Ireland[^c-386e92158c61a4a6949e9c72faa84aa6]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-386e92158c61a4a6949e9c72faa84aa6]: Commencement: Reg. 5 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-386e92158c61a4a6949e9c72faa84aa6]: Commencement: Reg. 5 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

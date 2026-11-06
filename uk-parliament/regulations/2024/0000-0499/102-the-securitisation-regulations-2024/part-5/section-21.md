@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Tribunal[^key-e351d682dcb5ea9ec3173711af3a6d51]
+## 21. Tribunal[^c-e351d682dcb5ea9ec3173711af3a6d51]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e351d682dcb5ea9ec3173711af3a6d51]: Commencement: Reg. 21 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-e351d682dcb5ea9ec3173711af3a6d51]: Commencement: Reg. 21 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

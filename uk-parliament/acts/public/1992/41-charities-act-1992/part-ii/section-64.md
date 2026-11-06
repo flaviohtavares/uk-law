@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-7c38ef683061e5c574e5c3c4e3631386] may make such regulations as appear to him to be necessary or desirable for any purposes connected with any of the preceding provisions of this Part.
+(1) The Secretary of State[^c-7c38ef683061e5c574e5c3c4e3631386] may make such regulations as appear to him to be necessary or desirable for any purposes connected with any of the preceding provisions of this Part.
 
 (2) Without prejudice to the generality of subsection (1), any such regulations may—
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c10232791]: Commencement: Pt. II (ss. 58-64) wholly in force at 1.3.1995; Pt. II not in force at Royal Assent see s. 79(2); Pt. II in force for certain purposes at 28.11.1994 and wholly in force at 1.3.1995 by [S.I. 1999/3023](https://www.legislation.gov.uk/uksi/1999/3023), [art. 2](https://www.legislation.gov.uk/uksi/1999/3023/article/2)
 
-[^key-7c38ef683061e5c574e5c3c4e3631386]: Textual amendment: Words in [s. 64(1)](https://www.legislation.gov.uk/ukpga/1992/41/section/64/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 8(3)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/8/3/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-7c38ef683061e5c574e5c3c4e3631386]: Textual amendment: Words in [s. 64(1)](https://www.legislation.gov.uk/ukpga/1992/41/section/64/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 8(3)(d)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/8/3/d) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

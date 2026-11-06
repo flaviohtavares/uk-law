@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 103. Amendments to the Social Security Fraud Act 2001: loss of benefits following penalty[^key-406a66c5b80ef5e1b939f75e007e2e8d][^key-8cced75b8535079ff92442f6e669d1e4]
+## 103. Amendments to the Social Security Fraud Act 2001: loss of benefits following penalty[^c-406a66c5b80ef5e1b939f75e007e2e8d][^c-8cced75b8535079ff92442f6e669d1e4]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-406a66c5b80ef5e1b939f75e007e2e8d]: Commencement: S. 103 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-406a66c5b80ef5e1b939f75e007e2e8d]: Commencement: S. 103 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-8cced75b8535079ff92442f6e669d1e4]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/28/section/103) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/g)
+[^c-8cced75b8535079ff92442f6e669d1e4]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/28/section/103) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/g)

@@ -31,7 +31,7 @@ summary: ''
 
 PESTICIDES, ENGLAND AND WALES
 
-The Plant Protection Products (Amendment) (No. 3) Regulations 2002 (revoked)[^key-a2d14620e9e47003c2f4c282be31d714]
+The Plant Protection Products (Amendment) (No. 3) Regulations 2002 (revoked)[^c-a2d14620e9e47003c2f4c282be31d714]
 
 Made
 
@@ -45,38 +45,38 @@ Coming into force
 
 31st December 2002
 
-[^key-a2d14620e9e47003c2f4c282be31d714]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2d14620e9e47003c2f4c282be31d714]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-a2d14620e9e47003c2f4c282be31d714]
+## 1. Title, commencement and extent[^c-a2d14620e9e47003c2f4c282be31d714]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plant Protection Products Regulations 1995[^key-a2d14620e9e47003c2f4c282be31d714]
+## 2. Amendment to the Plant Protection Products Regulations 1995[^c-a2d14620e9e47003c2f4c282be31d714]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-a2d14620e9e47003c2f4c282be31d714]
+## 3. Revocation[^c-a2d14620e9e47003c2f4c282be31d714]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2d14620e9e47003c2f4c282be31d714]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2d14620e9e47003c2f4c282be31d714]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-a2d14620e9e47003c2f4c282be31d714]
+## SCHEDULE[^c-a2d14620e9e47003c2f4c282be31d714]
 
 **Regulation 2(5)**
 
-[^key-a2d14620e9e47003c2f4c282be31d714]
+[^c-a2d14620e9e47003c2f4c282be31d714]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a2d14620e9e47003c2f4c282be31d714]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2d14620e9e47003c2f4c282be31d714]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2d14620e9e47003c2f4c282be31d714]: Textual amendment: Regulations revoked (31.12.2003) by [The Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [reg. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/3241/schedule/5)
+[^c-a2d14620e9e47003c2f4c282be31d714]: Textual amendment: Regulations revoked (31.12.2003) by [The Plant Protection Products Regulations 2003 (S.I. 2003/3241)](https://www.legislation.gov.uk/uksi/2003/3241), [reg. 1](https://www.legislation.gov.uk/uksi/2003/3241/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2003/3241/schedule/5)

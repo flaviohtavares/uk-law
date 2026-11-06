@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Accessories[^key-1eb7c1591e6aa729658486cd6ad1f004][^key-b91c7979f5cca44839db22df5ceb0efd]
+## 219. Accessories[^c-1eb7c1591e6aa729658486cd6ad1f004][^c-b91c7979f5cca44839db22df5ceb0efd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1eb7c1591e6aa729658486cd6ad1f004]: Commencement: S. 219 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-1eb7c1591e6aa729658486cd6ad1f004]: Commencement: S. 219 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b91c7979f5cca44839db22df5ceb0efd]: Commencement: [S. 219](https://www.legislation.gov.uk/ukpga/2024/13/section/219) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-b91c7979f5cca44839db22df5ceb0efd]: Commencement: [S. 219](https://www.legislation.gov.uk/ukpga/2024/13/section/219) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

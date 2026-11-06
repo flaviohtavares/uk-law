@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Duties to take action in relation to importer’s compliance failure[^key-118501a9e4cf726e89a1b3e9417fd5c6][^key-b5434fda4b63ac49fa14965931d0a8f9]
+## 18. Duties to take action in relation to importer’s compliance failure[^c-118501a9e4cf726e89a1b3e9417fd5c6][^c-b5434fda4b63ac49fa14965931d0a8f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ Regulations under this subsection are subject to the negative resolution procedu
 
 ## Annotations
 
-[^key-118501a9e4cf726e89a1b3e9417fd5c6]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-118501a9e4cf726e89a1b3e9417fd5c6]: Commencement: S. 18 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-b5434fda4b63ac49fa14965931d0a8f9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/46/section/18) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b5434fda4b63ac49fa14965931d0a8f9]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/46/section/18) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

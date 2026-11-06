@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Meaning of “residential property”[^key-f473565422e3cb3d4b489ee6c3c7c788][^key-9b4e91c0ebc5918e2a743e237e8686d7]
+## 59. Meaning of “residential property”[^c-f473565422e3cb3d4b489ee6c3c7c788][^c-9b4e91c0ebc5918e2a743e237e8686d7]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f473565422e3cb3d4b489ee6c3c7c788]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2013/11/section/59) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
+[^c-f473565422e3cb3d4b489ee6c3c7c788]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2013/11/section/59) in force at 7.11.2014 for specified purposes by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
 
-[^key-9b4e91c0ebc5918e2a743e237e8686d7]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2013/11/section/59) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-9b4e91c0ebc5918e2a743e237e8686d7]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2013/11/section/59) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Removal of certain trustees by court: unfitness[^key-bd776992cca55cb685339cd6ed515bf0][^key-a1e4b0f466bc36ab2c686e88c7d6ea0e]
+## 8. Removal of certain trustees by court: unfitness[^c-bd776992cca55cb685339cd6ed515bf0][^c-a1e4b0f466bc36ab2c686e88c7d6ea0e]
 
 *Extent: S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd776992cca55cb685339cd6ed515bf0]: Commencement: S. 8 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-bd776992cca55cb685339cd6ed515bf0]: Commencement: S. 8 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-a1e4b0f466bc36ab2c686e88c7d6ea0e]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/2/section/8) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-a1e4b0f466bc36ab2c686e88c7d6ea0e]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2024/2/section/8) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

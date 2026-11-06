@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554C. Relevant steps: payment of sum, transfer of asset etc[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554C. Relevant steps: payment of sum, transfer of asset etc[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
 (1) A person (“P”) takes a step within this section if P—
 
 - (a) pays a sum of money to a relevant person,
-- (aa)[^key-3b8104d4e85a4664debf6b6a79d2eb00] acquires a right to a payment of a sum of money, or to a transfer of assets, where there is a connection (direct or indirect) between the acquisition of the right and—
+- (aa)[^c-3b8104d4e85a4664debf6b6a79d2eb00] acquires a right to a payment of a sum of money, or to a transfer of assets, where there is a connection (direct or indirect) between the acquisition of the right and—
   - (i) a payment made, by way of a loan or otherwise, to a relevant person, or
   - (ii) a transfer of assets to a relevant person,
 - (ab) releases or writes off the whole or a part of—
@@ -43,7 +43,7 @@ summary: ''
 
 (3) In subsection (2) references to A include references to any person linked with A.
 
-(3A)[^key-026666db320c2fe9ddbe4fe44f884cf3] For the purposes of subsection (1) “**loan**” includes—
+(3A)[^c-026666db320c2fe9ddbe4fe44f884cf3] For the purposes of subsection (1) “**loan**” includes—
 
 - (a) any form of credit, and
 - (b) a payment that is purported to be made by way of a loan.
@@ -94,8 +94,8 @@ the original lease is to be treated as continuing until the end of the later lea
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-3b8104d4e85a4664debf6b6a79d2eb00]: Textual amendment: S. 554C(1)(aa)(ab) inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/3/2)
+[^c-3b8104d4e85a4664debf6b6a79d2eb00]: Textual amendment: S. 554C(1)(aa)(ab) inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/3/2)
 
-[^key-026666db320c2fe9ddbe4fe44f884cf3]: Textual amendment: S. 554C(3A)-(3C) inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/3/2)
+[^c-026666db320c2fe9ddbe4fe44f884cf3]: Textual amendment: S. 554C(3A)-(3C) inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/3/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-92875a04655198024e2edf700c28dc2c]
+## 2. Interpretation[^c-92875a04655198024e2edf700c28dc2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,13 +59,13 @@ summary: ''
 - “service voter” means a person who has made a service declaration in accordance with section 15 of the 1983 Act[^f00017] and is registered or entitled to be registered in pursuance of it;
 - “Scottish parliamentary election” means an election for membership of the Scottish Parliament and “Scottish parliamentary general election” shall be construed accordingly;
 - “Scottish Parliamentary Election Rules” means the rules set out in Schedule 2; and
-- “universal postal service provider” means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011.[^key-a6d6a350098e572ae7d8c6daaddb6929]
+- “universal postal service provider” means a universal service provider within the meaning of Part 3 of the Postal Services Act 2011.[^c-a6d6a350098e572ae7d8c6daaddb6929]
 
 (2) For the purposes of this Order, a person shall be deemed not to have attained a given age until commencement of the relevant anniversary of the day of his or her birth.
 
 ## Annotations
 
-[^key-92875a04655198024e2edf700c28dc2c]: Commencement: Art. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-92875a04655198024e2edf700c28dc2c]: Commencement: Art. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00002]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2).
 
@@ -99,4 +99,4 @@ summary: ''
 
 [^f00017]: Footnote: Section 15 was amended by the 2000 Act, Schedule 1, paragraph 8(2) and (4) and Schedule 7, paragraph 1; the 2006 Act, sections 12(7) and 13(1) and [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948), Schedule 2, paragraph 4(b).
 
-[^key-a6d6a350098e572ae7d8c6daaddb6929]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/2/1) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/86)
+[^c-a6d6a350098e572ae7d8c6daaddb6929]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/2/1) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 86](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/86)

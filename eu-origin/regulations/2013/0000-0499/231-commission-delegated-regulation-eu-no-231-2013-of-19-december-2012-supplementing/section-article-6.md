@@ -24,7 +24,7 @@ summary: ''
 
 2. AIFMs shall calculate the exposure of the AIFs managed in accordance with the gross method as set out in Article 7 and the commitment method as set out in Article 8.
 
-[^key-8e7401618c803bbbff2efda2191cafdb]...
+[^c-8e7401618c803bbbff2efda2191cafdb]...
 
 3. Exposure contained in any financial or legal structures involving third parties controlled by the relevant AIF shall be included in the calculation of the exposure where the structures referred to are specifically set up to directly or indirectly increase the exposure at the level of the AIF. For AIFs whose core investment policy is to acquire control of non-listed companies or issuers, the AIFM shall not include in the calculation of the leverage any exposure that exists at the level of those non-listed companies and issuers provided that the AIF or the AIFM acting on behalf of the AIF does not have to bear potential losses beyond its investment in the respective company or issuer.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e7401618c803bbbff2efda2191cafdb]: Textual amendment: Words in Art. 6(2) omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(8)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e7401618c803bbbff2efda2191cafdb]: Textual amendment: Words in Art. 6(2) omitted (31.12.2020) by virtue of [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [23(8)](https://www.legislation.gov.uk/uksi/2019/328/regulation/23) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

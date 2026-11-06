@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Civil enforcement areas[^key-259ba439f1e0b2683d45c2e32b5dd230][^key-e7e6d42102eb55e8fa2d68b98e2b5bc7][^key-d1686519977cd01df0d08f7a689531c8]
+## 74. Civil enforcement areas[^c-259ba439f1e0b2683d45c2e32b5dd230][^c-e7e6d42102eb55e8fa2d68b98e2b5bc7][^c-d1686519977cd01df0d08f7a689531c8]
 
 *Extent: E+W*
 
@@ -32,8 +32,8 @@ summary: ''
 
 ## Annotations
 
-[^key-259ba439f1e0b2683d45c2e32b5dd230]: Commencement: S. 74 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-259ba439f1e0b2683d45c2e32b5dd230]: Commencement: S. 74 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-e7e6d42102eb55e8fa2d68b98e2b5bc7]: Commencement: S. 74 in force at 31.3.2008 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(a)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-e7e6d42102eb55e8fa2d68b98e2b5bc7]: Commencement: S. 74 in force at 31.3.2008 for specified purposes for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(a)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-d1686519977cd01df0d08f7a689531c8]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2004/18/section/74) in force at 31.5.2022 for specified purposes for E. by [S.I. 2022/66](https://www.legislation.gov.uk/uksi/2022/66), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/66/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/66/article/2/2/a) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2022/66/article/3/1))
+[^c-d1686519977cd01df0d08f7a689531c8]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2004/18/section/74) in force at 31.5.2022 for specified purposes for E. by [S.I. 2022/66](https://www.legislation.gov.uk/uksi/2022/66), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/66/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/66/article/2/2/a) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2022/66/article/3/1))

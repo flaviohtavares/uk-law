@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Attendance targets[^key-2afbf474e862e44b768c093542f6b9d1][^key-66253b0cf45f3815dcc862ec743c602b]
+## 53. Attendance targets[^c-2afbf474e862e44b768c093542f6b9d1][^c-66253b0cf45f3815dcc862ec743c602b]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2afbf474e862e44b768c093542f6b9d1]: Commencement: S. 53 in force at 1.6.2004 except in relation to W. by [S.I. 2004/1318](https://www.legislation.gov.uk/uksi/2004/1318), [art. 2](https://www.legislation.gov.uk/uksi/2004/1318/article/2)
+[^c-2afbf474e862e44b768c093542f6b9d1]: Commencement: S. 53 in force at 1.6.2004 except in relation to W. by [S.I. 2004/1318](https://www.legislation.gov.uk/uksi/2004/1318), [art. 2](https://www.legislation.gov.uk/uksi/2004/1318/article/2)
 
-[^key-66253b0cf45f3815dcc862ec743c602b]: Commencement: S. 53 in force at 31.10.2005 for W. by [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)
+[^c-66253b0cf45f3815dcc862ec743c602b]: Commencement: S. 53 in force at 31.10.2005 for W. by [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)

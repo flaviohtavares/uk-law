@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Variation and revocation of notices[^key-24ad3630c27c85cfe2614bb1796a3a3d]
+## 256. Variation and revocation of notices[^c-24ad3630c27c85cfe2614bb1796a3a3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24ad3630c27c85cfe2614bb1796a3a3d]: Commencement: S. 256 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/j)
+[^c-24ad3630c27c85cfe2614bb1796a3a3d]: Commencement: S. 256 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/j)

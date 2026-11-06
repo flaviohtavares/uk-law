@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31A. Objections relating to applications that have been allowed, but before alterations to register have taken effect[^key-7123b1152c3e879ae59f29ddec5bf64f]
+## 31A. Objections relating to applications that have been allowed, but before alterations to register have taken effect[^c-7123b1152c3e879ae59f29ddec5bf64f]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) either—
   - (i) an objection is later made to that application, or
   - (ii) an objector whose objection in respect of that application has been disallowed in pursuance of regulation 29(5A) notifies the registration officer, in accordance with regulation 29(5C), that he requires the objection to be heard, and
-- (c) no alteration to the register has yet taken effect in respect of that application by virtue of section 13(5), 13A(2) ,13AB(2)[^key-f9c83e0733637d573f3bb6a509568be9] or 13B(3) of the 1983 Act.
+- (c) no alteration to the register has yet taken effect in respect of that application by virtue of section 13(5), 13A(2) ,13AB(2)[^c-f9c83e0733637d573f3bb6a509568be9] or 13B(3) of the 1983 Act.
 
 (2) Where the registration officer—
 
@@ -41,6 +41,6 @@ the application is to be treated as if it had been disallowed.
 
 ## Annotations
 
-[^key-7123b1152c3e879ae59f29ddec5bf64f]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/uksi/2001/341/regulation/31A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2006/2910/regulation/10)
+[^c-7123b1152c3e879ae59f29ddec5bf64f]: Textual amendment: [Reg. 31A](https://www.legislation.gov.uk/uksi/2001/341/regulation/31A) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2006/2910/regulation/10)
 
-[^key-f9c83e0733637d573f3bb6a509568be9]: Textual amendment: Word in [reg. 31A(1)(c)](https://www.legislation.gov.uk/uksi/2001/341/regulation/31A/1/c) inserted (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4), [42](https://www.legislation.gov.uk/uksi/2013/3198/regulation/42); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/414/article/3/b)
+[^c-f9c83e0733637d573f3bb6a509568be9]: Textual amendment: Word in [reg. 31A(1)(c)](https://www.legislation.gov.uk/uksi/2001/341/regulation/31A/1/c) inserted (6.4.2014) by [The Representation of the People (England and Wales) (Description of Electoral Registers and Amendment) Regulations 2013 (S.I. 2013/3198)](https://www.legislation.gov.uk/uksi/2013/3198), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2013/3198/regulation/1/4), [42](https://www.legislation.gov.uk/uksi/2013/3198/regulation/42); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/414/article/3/b)

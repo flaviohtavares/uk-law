@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70F. Other interpretation[^key-8adf765414ce0d9accbf79b875f46cbf]
+## 70F. Other interpretation[^c-8adf765414ce0d9accbf79b875f46cbf]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-1beb638f6c7d3d4c462e293e3c750ab3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-1beb638f6c7d3d4c462e293e3c750ab3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) For the purposes of this Chapter, a matter is finally determined when the Secretary of State—
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8adf765414ce0d9accbf79b875f46cbf]: Textual amendment: Pt. 3 Ch. 3A inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/2) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-8adf765414ce0d9accbf79b875f46cbf]: Textual amendment: Pt. 3 Ch. 3A inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/2) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
 
-[^key-1beb638f6c7d3d4c462e293e3c750ab3]: Textual amendment: S. 70F(1) omitted (with effect in accordance with art. 4 of the amending S.I.) by virtue of [The Enterprise Act 2002 (Definition of Newspaper) Order 2025 (S.I. 2025/921)](https://www.legislation.gov.uk/uksi/2025/921), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/921/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/921/article/3)
+[^c-1beb638f6c7d3d4c462e293e3c750ab3]: Textual amendment: S. 70F(1) omitted (with effect in accordance with art. 4 of the amending S.I.) by virtue of [The Enterprise Act 2002 (Definition of Newspaper) Order 2025 (S.I. 2025/921)](https://www.legislation.gov.uk/uksi/2025/921), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/921/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/921/article/3)

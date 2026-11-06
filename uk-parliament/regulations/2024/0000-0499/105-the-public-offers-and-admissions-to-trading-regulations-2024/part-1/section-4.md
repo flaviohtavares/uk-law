@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. “Transferable securities”[^key-afae151984abcdd263715366087a27d7]
+## 4. “Transferable securities”[^c-afae151984abcdd263715366087a27d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations “**transferable securities**” means those classes of se
 
 ## Annotations
 
-[^key-afae151984abcdd263715366087a27d7]: Commencement: Reg. 4 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)
+[^c-afae151984abcdd263715366087a27d7]: Commencement: Reg. 4 in force at 30.1.2024, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/a)

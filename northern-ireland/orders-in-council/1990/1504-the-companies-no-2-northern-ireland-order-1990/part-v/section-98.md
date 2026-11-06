@@ -53,8 +53,8 @@ for the purpose of securing debts or liabilities arising in connection with or a
 - (b) arranging deals in investments;
 - (c) managing investments;
 - (d) safeguarding and administering investments;
-- (e) sending dematerialised instructions; [^key-534965d7e23cbcf292b19dabc5b102ad]...
-- (ea)[^key-5bbe6702bf1be4d33e714628be54eadd] managing a UCITS ;
+- (e) sending dematerialised instructions; [^c-534965d7e23cbcf292b19dabc5b102ad]...
+- (ea)[^c-5bbe6702bf1be4d33e714628be54eadd] managing a UCITS ;
 - (eb) acting as trustee or depositary of a UCITS ;
 - (ec) managing an AIF ;
 - (ed) acting as trustee or depositary of an AIF ; or
@@ -74,6 +74,6 @@ for the purpose of securing debts or liabilities arising in connection with or a
 
 [^c16862631]: Textual amendment: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11)
 
-[^key-534965d7e23cbcf292b19dabc5b102ad]: Textual amendment: Word in art. 98(8) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/3)
+[^c-534965d7e23cbcf292b19dabc5b102ad]: Textual amendment: Word in art. 98(8) omitted (22.7.2013) by virtue of [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/3)
 
-[^key-5bbe6702bf1be4d33e714628be54eadd]: Textual amendment: Art. 98(8)(ea)-(ed) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/3)
+[^c-5bbe6702bf1be4d33e714628be54eadd]: Textual amendment: Art. 98(8)(ea)-(ed) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 253. Variation of tree replacement notice[^key-a07f45ada2acdccd082993d0743bebce]
+## 253. Variation of tree replacement notice[^c-a07f45ada2acdccd082993d0743bebce]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a07f45ada2acdccd082993d0743bebce]: Commencement: S. 253 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a07f45ada2acdccd082993d0743bebce]: Commencement: S. 253 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

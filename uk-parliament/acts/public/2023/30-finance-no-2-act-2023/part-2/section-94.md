@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Defaults in respect of denatured alcohol: possession of excess alcoholic products[^M_I_4304a731-465e-4b6d-dd35-cd85d5de0b70][^key-9aac12f6fde49081da075e8e0c489c68]
+## 94. Defaults in respect of denatured alcohol: possession of excess alcoholic products[^M_I_4304a731-465e-4b6d-dd35-cd85d5de0b70][^c-9aac12f6fde49081da075e8e0c489c68]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^M_I_4304a731-465e-4b6d-dd35-cd85d5de0b70]: Commencement: S. 94 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-9aac12f6fde49081da075e8e0c489c68]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/30/section/94) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-9aac12f6fde49081da075e8e0c489c68]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2023/30/section/94) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

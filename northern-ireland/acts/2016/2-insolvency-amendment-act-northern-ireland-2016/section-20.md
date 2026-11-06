@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Compliance orders[^key-1430bd61c4ea88fad912c963d2e65ba7]
+## 20. Compliance orders[^c-1430bd61c4ea88fad912c963d2e65ba7]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ After Article 350S of the Insolvency Order (inserted by section 19) insert—
 
 ## Annotations
 
-[^key-1430bd61c4ea88fad912c963d2e65ba7]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/2/section/20) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-1430bd61c4ea88fad912c963d2e65ba7]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2016/2/section/20) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

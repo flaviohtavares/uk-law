@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Review of own performance[^key-62adb7a9fe07a1e0d7c504a7f13ac98f]
+## 106. Review of own performance[^c-62adb7a9fe07a1e0d7c504a7f13ac98f]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62adb7a9fe07a1e0d7c504a7f13ac98f]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2010/16/section/106) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-62adb7a9fe07a1e0d7c504a7f13ac98f]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2010/16/section/106) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

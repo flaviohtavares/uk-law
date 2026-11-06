@@ -46,11 +46,11 @@ In accordance with section 25(9)(a) of the 1998 Act, the Department of Justice h
 
 In accordance with section 72(2A) of the 1998 Act and section 3(5) of the 2014 Act, the Department of Finance[^f00005] has consented to the making of these Regulations.
 
-## 1. Citation, commencement, and effect[^key-4d765b53645e0dcee123ead6b9222d82]
+## 1. Citation, commencement, and effect[^c-4d765b53645e0dcee123ead6b9222d82]
 
 These Regulations may be cited as the Police Pensions (Amendment) Regulations (Northern Ireland) 2024.
 
-**2.**[^key-35330804b0c8c94edeffa0cc6b88f4ff] These Regulations come into operation on 1st April 2024 except the following—
+**2.**[^c-35330804b0c8c94edeffa0cc6b88f4ff] These Regulations come into operation on 1st April 2024 except the following—
 
 - (a) Regulation 48 has effect from 6th April 2006.
 - (b) Regulations 47, 49 and 51 have effect from 1st July 2014.
@@ -59,11 +59,11 @@ These Regulations may be cited as the Police Pensions (Amendment) Regulations (N
 
 ## PART 1 — Police Pensions
 
-### 3. Amendment of the Police Pensions Regulations (Northern Ireland) 2015[^key-843767bb16dc4f40dba9f5f133d58b7d]
+### 3. Amendment of the Police Pensions Regulations (Northern Ireland) 2015[^c-843767bb16dc4f40dba9f5f133d58b7d]
 
 The Police Pensions Regulations (Northern Ireland) 2015[^f00007] are amended in accordance with this Part.
 
-### 4. Interpretation[^key-cca09bbf9f049cff95acaf56f8bf7d1f]
+### 4. Interpretation[^c-cca09bbf9f049cff95acaf56f8bf7d1f]
 
 (1) Regulation 2 is amended as follows.
 
@@ -83,11 +83,11 @@ The Police Pensions Regulations (Northern Ireland) 2015[^f00007] are amended in 
 
 (5) Omit “weekly rate” and associated footnote.
 
-### 5. Police Pension Board: membership[^key-eab451c74614dbdaa8fc8cdd0c218df3]
+### 5. Police Pension Board: membership[^c-eab451c74614dbdaa8fc8cdd0c218df3]
 
 In regulation 11 (Police Pension Board: membership), at paragraph (1)(a) omit the words “with departmental approval”.
 
-### 6. Eligible Service[^key-3a22220b825fc9900b054d92dec0a0fb]
+### 6. Eligible Service[^c-3a22220b825fc9900b054d92dec0a0fb]
 
 (1) Regulation 18 (Eligible Service) is amended as follows.
 
@@ -97,7 +97,7 @@ In regulation 11 (Police Pension Board: membership), at paragraph (1)(a) omit th
 
 (3) In paragraph (4), for “a member of a police force” substitute “a member of the police service”.
 
-### 7. Periods of unpaid leave[^key-8f312bcdb29810f29fc78dc2f40e1565]
+### 7. Periods of unpaid leave[^c-8f312bcdb29810f29fc78dc2f40e1565]
 
 In regulation 19 (Periods of unpaid leave) after sub-paragraph (1)(b)(ii) insert—
 
@@ -106,25 +106,25 @@ In regulation 19 (Periods of unpaid leave) after sub-paragraph (1)(b)(ii) insert
 > - (i) that does not exceed 5 years; and
 > - (ii) during which the employment relationship continues.
 
-### 8. Automatic re-enrolment[^key-888f48287238685306f0bcb1fb788079]
+### 8. Automatic re-enrolment[^c-888f48287238685306f0bcb1fb788079]
 
 In regulation 26(3) (Automatic re-enrolment) for “scheme manager” substitute “employer”.
 
-### 9. Pensionable earnings[^key-70591ca2306f545c2fb290d9e6c0b436]
+### 9. Pensionable earnings[^c-70591ca2306f545c2fb290d9e6c0b436]
 
 In regulation 30 (Pensionable earnings) for paragraph (2) substitute—
 
 > (2) A member’s pensionable earnings for any period means pay to which the member is entitled in that period, account being taken of any retrospective increase in that pay.
 
-### 10. Eligibility for payment of ill-health benefits[^key-475861af9c12819273aaf5f9aab18358]
+### 10. Eligibility for payment of ill-health benefits[^c-475861af9c12819273aaf5f9aab18358]
 
 Chapter 4 (Eligibility for payment of ill-health benefits) shall cease to have effect from 1<sup>st</sup> April 2024.
 
-### 11. Meaning of deferred member[^key-bea6fac125e48c19a57bb8cad9105141]
+### 11. Meaning of deferred member[^c-bea6fac125e48c19a57bb8cad9105141]
 
 In regulation 40 (Meaning of deferred member) in paragraph (4), after “Paragraph” for “(2)” substitute “(3)”.
 
-### 12. Decision of selected medical practitioner[^key-a0f1173b7458c98004ea40f500f69716]
+### 12. Decision of selected medical practitioner[^c-a0f1173b7458c98004ea40f500f69716]
 
 (1) Regulation 74 (Decision of selected medical practitioner) is amended as follows.
 
@@ -146,7 +146,7 @@ In regulation 40 (Meaning of deferred member) in paragraph (4), after “Paragra
 >   - (i) the member reaches normal pension age under this scheme; or
 >   - (ii) the member dies (if the selected medical practitioner considers the member is likely to die before reaching normal pension age under this scheme).
 
-### 13. Refusal to be medically examined or attend interviews[^key-f3f8a5428a90396c178b33b8b22454d3]
+### 13. Refusal to be medically examined or attend interviews[^c-f3f8a5428a90396c178b33b8b22454d3]
 
 In regulation 75 (Refusal to be medically examined or attend interviews) after paragraph (2)(b) insert—
 
@@ -157,7 +157,7 @@ In regulation 75 (Refusal to be medically examined or attend interviews) after p
 
 .
 
-### 14. Referral of medical questions for purpose of regulation 80[^key-ade5047e7bc4afb03306fc1e4e8aca5a]
+### 14. Referral of medical questions for purpose of regulation 80[^c-ade5047e7bc4afb03306fc1e4e8aca5a]
 
 In regulation 79 (Referral of medical questions for purpose of regulation 80) after paragraph (4) insert—
 
@@ -166,7 +166,7 @@ In regulation 79 (Referral of medical questions for purpose of regulation 80) af
 > - (a) an appeal under Schedule 1 against the decision of the selected medical practitioner; or
 > - (b) a referral under Schedule 1 of the decision of the selected medical practitioner for reconsideration.
 
-### 15. Application of Chapter[^key-3b5c9792de8526ced59b7c6e1e201f6d]
+### 15. Application of Chapter[^c-3b5c9792de8526ced59b7c6e1e201f6d]
 
 In regulation 83 (Application of Chapter) for paragraph (2) substitute—
 
@@ -175,7 +175,7 @@ In regulation 83 (Application of Chapter) for paragraph (2) substitute—
 > - (a) a former member of the police service is taken to be a member of the police service; and
 > - (b) “**police pension authority**” in relation to the former member of the police service, means the police pension authority for the police service.
 
-### 16. Referral of medical questions for purpose of early payment of full retirement pension on grounds of permanent medical unfitness[^key-bf854e0f86ec26463ca20585be93d40c]
+### 16. Referral of medical questions for purpose of early payment of full retirement pension on grounds of permanent medical unfitness[^c-bf854e0f86ec26463ca20585be93d40c]
 
 (1) Regulation 84 (Referral of medical questions for purpose of early payment of full retirement pension on grounds of permanent medical unfitness) is amended as follows.
 
@@ -192,19 +192,19 @@ In regulation 83 (Application of Chapter) for paragraph (2) substitute—
 >
 > (4) For the purpose of paragraph (1), “**early payment**” means payment before the member reaches the member’s state pension age[^f00008].
 
-### 17. Qualifying Service[^key-9eb0e23ef4417c4f74066e32ae6d4fbe]
+### 17. Qualifying Service[^c-9eb0e23ef4417c4f74066e32ae6d4fbe]
 
 In regulation 86 (Qualifying service) for paragraph (3) substitute—
 
 > (3) In calculating the member’s qualifying service for a member who falls within regulation 4(1)(b) or (d), a continuous period of service under this scheme or an existing police pension scheme counts as if it were a period of full-time service in the Police Service of Northern Ireland Reserve.
 
-### 18. Entitlement to full retirement pension (active members)[^key-c08a40e5c2ca7a7c6cf131c8d8e8b8c2]
+### 18. Entitlement to full retirement pension (active members)[^c-c08a40e5c2ca7a7c6cf131c8d8e8b8c2]
 
 In regulation 88 (Entitlement to full retirement pension (active members)), for paragraph (1)(d) substitute—
 
 > - (d) the member claims payment of a full retirement pension under regulation 90 (Claim for payment of full retirement pension (active members)).
 
-### 19. Entitlement to full retirement pension (deferred members)[^key-84b1bb819401555beec3fb655b794d78]
+### 19. Entitlement to full retirement pension (deferred members)[^c-84b1bb819401555beec3fb655b794d78]
 
 (1) In Regulation 89 (Entitlement to full retirement pension (deferred members)) is amended as follows.
 
@@ -222,17 +222,17 @@ In regulation 88 (Entitlement to full retirement pension (active members)), for 
 
 (8) Omit paragraph (3)(e).
 
-### 20. Claim for payment of full retirement pension (active members)[^key-c97336b1ac13be8557fcc4d9f3c967f2]
+### 20. Claim for payment of full retirement pension (active members)[^c-c97336b1ac13be8557fcc4d9f3c967f2]
 
 In regulation 90 (Claim for payment of full retirement pension (active members)) after paragraph (3) insert—
 
 > (4) Unless this regulation provides otherwise, a member of the police service engaged on relevant service under section 27 of the 1998 Act must give notice of intent to claim the pension in accordance with the notice period that applies under the member’s terms and conditions of employment in relation to termination of service.
 
-### 21. Notice period for active members[^key-cc2961e4c666972201db77af4339260f]
+### 21. Notice period for active members[^c-cc2961e4c666972201db77af4339260f]
 
 In regulation 91 (Notice period for active members) at paragraph (1) after “in accordance with” insert “the notice period that applies under”.
 
-### 22. Payment thresholds[^key-e8f8716df39481e3363fdd9657ac27e8]
+### 22. Payment thresholds[^c-e8f8716df39481e3363fdd9657ac27e8]
 
 (1) Regulation 99 (Payment thresholds) is amended as follows.
 
@@ -245,25 +245,25 @@ In regulation 91 (Notice period for active members) at paragraph (1) after “in
 
 (3) At paragraph (2) after “(“upper tier threshold”)” insert “under this Chapter”.
 
-### 23. Entitlement to payment of ill-health pension[^key-9c75fc7f04c5bd149f7ef4bcb77e2860]
+### 23. Entitlement to payment of ill-health pension[^c-9c75fc7f04c5bd149f7ef4bcb77e2860]
 
 In regulation 100 (Entitlement to payment of ill-health pension), at paragraph 2(c) after “ill-health benefits” insert “for the period for which the member has paid contributions at the full member contributions rate under regulation 169”.
 
-### 24. Annual rate of ill-health pension under this scheme[^key-8c1d2258ee5b6d7fa5e6bb24cde91341]
+### 24. Annual rate of ill-health pension under this scheme[^c-8c1d2258ee5b6d7fa5e6bb24cde91341]
 
 In regulation 102 (Annual rate of ill-health pension under this scheme), within the formula at paragraph (6), for “pensionable pay” substitute “pensionable service”.
 
-### 25. Referral of medical question for purpose of reduction of benefits[^key-945fee90a9acd591aeb0b74d9ba1e4ad]
+### 25. Referral of medical question for purpose of reduction of benefits[^c-945fee90a9acd591aeb0b74d9ba1e4ad]
 
 In regulation 104 (Referral of medical question for purpose of reduction of benefits), at paragraph (5)(b) after “Schedule” insert “1”.
 
-### 26. Reduction of pension in case of default[^key-8576ddb214ce7ea9c89f4e250bc1b469]
+### 26. Reduction of pension in case of default[^c-8576ddb214ce7ea9c89f4e250bc1b469]
 
 In regulation 105 (Reduction of pension in case of default); for paragraph (5) substitute—
 
 > (5) When the member reaches the member’s state pension age, if the reduced pension is less than the amount of full retirement pension that would have been payable to the member under regulation 89(2) had the member reached the member’s state pension age when the member left eligible service, the scheme manager must increase the pension to that amount.
 
-### 27. Refusal to be medically examined[^key-ea7660ce3e5efaa00d7e7d3ff55d31c0]
+### 27. Refusal to be medically examined[^c-ea7660ce3e5efaa00d7e7d3ff55d31c0]
 
 In regulation 106 (Refusal to be medically examined) for paragraph (a) substitute—
 
@@ -271,7 +271,7 @@ In regulation 106 (Refusal to be medically examined) for paragraph (a) substitut
 
 .
 
-### 28. Decision of scheme manager void if appeal against decision of selected medical practitioner is successful[^key-b9328b316d4ae1375d5eb0118bf60d71]
+### 28. Decision of scheme manager void if appeal against decision of selected medical practitioner is successful[^c-b9328b316d4ae1375d5eb0118bf60d71]
 
 For regulation 107 (Decision of scheme manager void if appeal against decision of selected medical practitioner is successful) substitute—
 
@@ -281,11 +281,11 @@ For regulation 107 (Decision of scheme manager void if appeal against decision o
 > - (b) the member appeals under Schedule 1 against the decision of the selected medical practitioner; and
 > - (c) the IMR decides that the member did not bring about or substantially contribute to the medical unfitness by the member’s own default.
 
-### 29. Review of lower tier ill-health pension[^key-ffde06b4b11a329567fa87ecdbe6e142]
+### 29. Review of lower tier ill-health pension[^c-ffde06b4b11a329567fa87ecdbe6e142]
 
 In regulation 108 (Review of lower tier ill-health pension) at paragraph (3), for “chooses” substitute “in its discretion determines”.
 
-### 30. Review and cancellation of enhanced upper tier ill-health pension[^key-882125b18fb9c73548c8afcaad8def67]
+### 30. Review and cancellation of enhanced upper tier ill-health pension[^c-882125b18fb9c73548c8afcaad8def67]
 
 (1) Regulation 112 (Review and cancellation of enhanced upper tier ill-health pension) is amended as follows.
 
@@ -295,13 +295,13 @@ In regulation 108 (Review of lower tier ill-health pension) at paragraph (3), fo
 
 (3) At paragraph (8)(b) after “report” insert “and certificate”.
 
-### 31. Review and cancellation of full retirement pension which came into payment early on the grounds of permanent medical unfitness[^key-d02a1f7cbd36e8c20158b26020abc35b]
+### 31. Review and cancellation of full retirement pension which came into payment early on the grounds of permanent medical unfitness[^c-d02a1f7cbd36e8c20158b26020abc35b]
 
 In regulation 114 (Review and cancellation of full retirement pension which came into payment early on the grounds of medical unfitness), for paragraph (3) substitute—
 
 > (3) A review may be carried out at intervals of no less than 5 years as the scheme manager in its discretion determines.
 
-### 32. Decision of scheme manager void if appeal against decision of selected medical practitioner is successful[^key-699573cf826a04ea5ff608e0a4df561e]
+### 32. Decision of scheme manager void if appeal against decision of selected medical practitioner is successful[^c-699573cf826a04ea5ff608e0a4df561e]
 
 (1) Regulation 117 (Decision of scheme manager void if appeal against decision of selected medical practitioner is successful) is amended as follows.
 
@@ -327,7 +327,7 @@ In regulation 114 (Review and cancellation of full retirement pension which came
 > - (b) the member appeals under Schedule 1 against the decision of the selected medical practitioner; and
 > - (c) the IMR decides that the member is so permanently medically unfit.
 
-### 33. Option to buy out early payment reduction[^key-1fa8d44a25b2751d823f94128cb0a930]
+### 33. Option to buy out early payment reduction[^c-1fa8d44a25b2751d823f94128cb0a930]
 
 (1) Regulation 120 (Option to buy out early payment reduction) is amended as follows.
 
@@ -335,7 +335,7 @@ In regulation 114 (Review and cancellation of full retirement pension which came
 
 (3) In paragraph (3) after “The cost” insert “to buy out all or part of the early payment reduction”.
 
-### 34. Death gratuity – estate[^key-14dfb8a7d806b6888037e021bba4c0c2]
+### 34. Death gratuity – estate[^c-14dfb8a7d806b6888037e021bba4c0c2]
 
 (1) Regulation 165 (Death gratuity – estate) is amended as follows.
 
@@ -349,7 +349,7 @@ In regulation 114 (Review and cancellation of full retirement pension which came
 
 (3) In paragraph (4) for “A claim for payment” substitute “For the purpose of an appeal to the Department under regulation 206 (Appeals to the Department), a claim for payment”.
 
-### 35. Rate of member’s contribution[^key-eea8c988621ec1b2dd5add06c4e0a59a]
+### 35. Rate of member’s contribution[^c-eea8c988621ec1b2dd5add06c4e0a59a]
 
 (1) Regulation 169 (Rate of member’s contributions) is amended as follows—
 
@@ -367,11 +367,11 @@ In regulation 114 (Review and cancellation of full retirement pension which came
 
 (7) In the table, (“For each scheme year falling in period beginning 1<sup>st</sup> April 2015”) omit column 3 “(Reduced Member Contributions rate)”.
 
-### 36. Employer contributions[^key-6faabc35142ee7d08ca2e67b692ff51d]
+### 36. Employer contributions[^c-6faabc35142ee7d08ca2e67b692ff51d]
 
 In regulation 173 (Employer contributions) at paragraph (1) for “35” substitute “46.6”.
 
-### 37. Commutation of small pensions[^key-bc5f236ce73d60be2d0adb966cb01d23]
+### 37. Commutation of small pensions[^c-bc5f236ce73d60be2d0adb966cb01d23]
 
 (1) Regulation 202 (Commutation of small pensions) is amended as follows.
 
@@ -379,11 +379,11 @@ In regulation 173 (Employer contributions) at paragraph (1) for “35” substit
 
 (3) For “(b)” substitute “(a)”, for “(c)” substitute “(b)” and for “(d)” substitute “(c)”.
 
-### 38. Interpretation and application[^key-1e594ad820f0f5e35f0603f11dc0e226]
+### 38. Interpretation and application[^c-1e594ad820f0f5e35f0603f11dc0e226]
 
 In regulation 203 (Interpretation and application) omit paragraph (1)(c) and associated footnote.
 
-### 39. Forfeiture: offences committed by members[^key-16287dda46e76e823d9200b0cc8f169d]
+### 39. Forfeiture: offences committed by members[^c-16287dda46e76e823d9200b0cc8f169d]
 
 (1) Regulation 209 (Forfeiture: offences committed by members) is amended as follows.
 
@@ -393,7 +393,7 @@ In regulation 203 (Interpretation and application) omit paragraph (1)(c) and ass
 
 (3) In paragraph (4) at “relevant offence” for “(c)” substitute “(a)” and for “(d)” substitute “(b)”.
 
-### 40. Forfeiture: offences committed by a member’s beneficiary[^key-aa237370a2a763dd8aae0e570e656e8a]
+### 40. Forfeiture: offences committed by a member’s beneficiary[^c-aa237370a2a763dd8aae0e570e656e8a]
 
 (1) Regulation 210 (Forfeiture: offences committed by a member’s beneficiary) is amended as follows.
 
@@ -413,7 +413,7 @@ In regulation 203 (Interpretation and application) omit paragraph (1)(c) and ass
 > - (b) the manslaughter of the member; or
 > - (c) any other offence of which the unlawful killing of the member is an element.
 
-### 41. Reduction of benefits where annual allowance charge paid by scheme manager[^key-af3386ad35c4536d33dbf858f1960114]
+### 41. Reduction of benefits where annual allowance charge paid by scheme manager[^c-af3386ad35c4536d33dbf858f1960114]
 
 In regulation 219 (Reduction of benefits where annual allowance charge paid by scheme manager) after paragraph (4) insert—
 
@@ -421,7 +421,7 @@ In regulation 219 (Reduction of benefits where annual allowance charge paid by s
 >
 > “*tax year*” means a period of one year which is the period of assessment for income tax purposes.
 
-### 42. Medical decisions: appeals and reconsideration[^key-411074fa290a986f58970835dbecd4ff]
+### 42. Medical decisions: appeals and reconsideration[^c-411074fa290a986f58970835dbecd4ff]
 
 (1) Schedule 1 (Medical decisions: appeals and reconsideration) is amended as follows.
 
@@ -433,7 +433,7 @@ In regulation 219 (Reduction of benefits where annual allowance charge paid by s
 
 .
 
-### 43. Transitional provisions[^key-5561783c8e53632abfa7498c2062b5b8]
+### 43. Transitional provisions[^c-5561783c8e53632abfa7498c2062b5b8]
 
 (1) Schedule 4 (Transitional provisions) is amended as follows.
 
@@ -446,11 +446,11 @@ In regulation 219 (Reduction of benefits where annual allowance charge paid by s
 
 ## PART 2 — Police Pensions
 
-### 44. Amendment of the Police Pension (Northern Ireland) Regulations 2009[^key-f2802c2bf8a3048762ba61716f44ea2a]
+### 44. Amendment of the Police Pension (Northern Ireland) Regulations 2009[^c-f2802c2bf8a3048762ba61716f44ea2a]
 
 The Police Pension (Northern Ireland) Regulations 2009[^f00009] are amended in accordance with this Part.
 
-### 45. Forfeiture of Pension[^key-2b33e8ab9df71c813335457f84408eef]
+### 45. Forfeiture of Pension[^c-2b33e8ab9df71c813335457f84408eef]
 
 (1) Regulation 52 (Forfeiture of Pension) is amended as follows.
 
@@ -480,15 +480,15 @@ The Police Pension (Northern Ireland) Regulations 2009[^f00009] are amended in a
 
 ## PART 3 — Police Pensions
 
-### 46. Amendment of the Royal Ulster Constabulary Pensions Regulations 1988[^key-5134cf15628c0f10f2891219f81009c2]
+### 46. Amendment of the Royal Ulster Constabulary Pensions Regulations 1988[^c-5134cf15628c0f10f2891219f81009c2]
 
 The Royal Ulster Constabulary Pensions Regulations 1988[^f00010] are amended accordance with this Part.
 
-### 47. Pension debit members[^key-bc3566e65e250019855f136a74a1e53a]
+### 47. Pension debit members[^c-bc3566e65e250019855f136a74a1e53a]
 
 In regulation C10 (Pension debit members), after “C8,” omit the words from “and the pension” to “C9 is made,”.
 
-### 48. Child’s allowance or special gratuity - limitations[^key-eb085b4a305067b8b6c0f50577e42f12]
+### 48. Child’s allowance or special gratuity - limitations[^c-eb085b4a305067b8b6c0f50577e42f12]
 
 (1) Regulation D5 is amended as follows.
 
@@ -507,11 +507,11 @@ In regulation C10 (Pension debit members), after “C8,” omit the words from �
 
 (5) In paragraph (8), for the words “and (5)”, substitute “(5) and (5A)”.
 
-### 49. Gratuity in lieu of widow’s pension[^key-3ef466ecd4d0148753743b22f98c9cde]
+### 49. Gratuity in lieu of widow’s pension[^c-3ef466ecd4d0148753743b22f98c9cde]
 
 In regulation E4 (Gratuity in lieu of widow’s pension) omit paragraph (4).
 
-### 50. Forfeiture of Pension[^key-28aea0264ee29a8d0ee33ce0ff90835d]
+### 50. Forfeiture of Pension[^c-28aea0264ee29a8d0ee33ce0ff90835d]
 
 (1) Regulation K5 is amended as follows.
 
@@ -543,7 +543,7 @@ In regulation E4 (Gratuity in lieu of widow’s pension) omit paragraph (4).
 > - (i) a widow to whom Part C applies;
 > - (ii) a child to whom Part D applies.
 
-### 51. Schedule A (Glossary of Expressions)[^key-589295e12621b1b1e5ccc8ed9ced5d72]
+### 51. Schedule A (Glossary of Expressions)[^c-589295e12621b1b1e5ccc8ed9ced5d72]
 
 At “widow” for “regulations C9, C9A and”, substitute “regulation”.
 
@@ -609,114 +609,114 @@ Regulation 50 aligns the provisions for forfeiture of beneficiaries in the 1988 
 
 [^f00005]: Footnote: Departments Act (Northern Ireland) [2016 c.5 (N.I)](https://www.legislation.gov.uk/nia/2016/5). Section 1(4) renamed the Department of Finance and Personnel as the Department of Finance.
 
-[^key-4d765b53645e0dcee123ead6b9222d82]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-4d765b53645e0dcee123ead6b9222d82]: Commencement: Reg. 1 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
-[^key-35330804b0c8c94edeffa0cc6b88f4ff]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-35330804b0c8c94edeffa0cc6b88f4ff]: Commencement: Reg. 2 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
 [^f00006]: Footnote: Regulation 19, 20 and 60 of [S.R. 1996. No 107](https://www.legislation.gov.uk/nisr/1996/107), Schedule 3.
 
-[^key-843767bb16dc4f40dba9f5f133d58b7d]: Commencement: Reg. 3 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-843767bb16dc4f40dba9f5f133d58b7d]: Commencement: Reg. 3 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
 [^f00007]: Footnote: [S.R. 2015 No.113](https://www.legislation.gov.uk/nisr/2015/113).
 
-[^key-cca09bbf9f049cff95acaf56f8bf7d1f]: Commencement: Reg. 4 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-cca09bbf9f049cff95acaf56f8bf7d1f]: Commencement: Reg. 4 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-eab451c74614dbdaa8fc8cdd0c218df3]: Commencement: Reg. 5 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-eab451c74614dbdaa8fc8cdd0c218df3]: Commencement: Reg. 5 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
-[^key-3a22220b825fc9900b054d92dec0a0fb]: Commencement: Reg. 6 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-3a22220b825fc9900b054d92dec0a0fb]: Commencement: Reg. 6 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-8f312bcdb29810f29fc78dc2f40e1565]: Commencement: Reg. 7 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-8f312bcdb29810f29fc78dc2f40e1565]: Commencement: Reg. 7 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-888f48287238685306f0bcb1fb788079]: Commencement: Reg. 8 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-888f48287238685306f0bcb1fb788079]: Commencement: Reg. 8 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-70591ca2306f545c2fb290d9e6c0b436]: Commencement: Reg. 9 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-70591ca2306f545c2fb290d9e6c0b436]: Commencement: Reg. 9 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-475861af9c12819273aaf5f9aab18358]: Commencement: Reg. 10 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-475861af9c12819273aaf5f9aab18358]: Commencement: Reg. 10 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
-[^key-bea6fac125e48c19a57bb8cad9105141]: Commencement: Reg. 11 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-bea6fac125e48c19a57bb8cad9105141]: Commencement: Reg. 11 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-a0f1173b7458c98004ea40f500f69716]: Commencement: Reg. 12 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-a0f1173b7458c98004ea40f500f69716]: Commencement: Reg. 12 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-f3f8a5428a90396c178b33b8b22454d3]: Commencement: Reg. 13 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-f3f8a5428a90396c178b33b8b22454d3]: Commencement: Reg. 13 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-ade5047e7bc4afb03306fc1e4e8aca5a]: Commencement: Reg. 14 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-ade5047e7bc4afb03306fc1e4e8aca5a]: Commencement: Reg. 14 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-3b5c9792de8526ced59b7c6e1e201f6d]: Commencement: Reg. 15 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-3b5c9792de8526ced59b7c6e1e201f6d]: Commencement: Reg. 15 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-bf854e0f86ec26463ca20585be93d40c]: Commencement: Reg. 16 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-bf854e0f86ec26463ca20585be93d40c]: Commencement: Reg. 16 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
 [^f00008]: Footnote: See regulation 89(3) for entitlement to early payment of a full retirement pension on the grounds of permanent medical unfitness.
 
-[^key-9eb0e23ef4417c4f74066e32ae6d4fbe]: Commencement: Reg. 17 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-9eb0e23ef4417c4f74066e32ae6d4fbe]: Commencement: Reg. 17 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-c08a40e5c2ca7a7c6cf131c8d8e8b8c2]: Commencement: Reg. 18 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-c08a40e5c2ca7a7c6cf131c8d8e8b8c2]: Commencement: Reg. 18 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-84b1bb819401555beec3fb655b794d78]: Commencement: Reg. 19 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-84b1bb819401555beec3fb655b794d78]: Commencement: Reg. 19 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-c97336b1ac13be8557fcc4d9f3c967f2]: Commencement: Reg. 20 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-c97336b1ac13be8557fcc4d9f3c967f2]: Commencement: Reg. 20 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-cc2961e4c666972201db77af4339260f]: Commencement: Reg. 21 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-cc2961e4c666972201db77af4339260f]: Commencement: Reg. 21 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-e8f8716df39481e3363fdd9657ac27e8]: Commencement: Reg. 22 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-e8f8716df39481e3363fdd9657ac27e8]: Commencement: Reg. 22 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-9c75fc7f04c5bd149f7ef4bcb77e2860]: Commencement: Reg. 23 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-9c75fc7f04c5bd149f7ef4bcb77e2860]: Commencement: Reg. 23 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-8c1d2258ee5b6d7fa5e6bb24cde91341]: Commencement: Reg. 24 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-8c1d2258ee5b6d7fa5e6bb24cde91341]: Commencement: Reg. 24 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-945fee90a9acd591aeb0b74d9ba1e4ad]: Commencement: Reg. 25 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-945fee90a9acd591aeb0b74d9ba1e4ad]: Commencement: Reg. 25 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-8576ddb214ce7ea9c89f4e250bc1b469]: Commencement: Reg. 26 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-8576ddb214ce7ea9c89f4e250bc1b469]: Commencement: Reg. 26 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-ea7660ce3e5efaa00d7e7d3ff55d31c0]: Commencement: Reg. 27 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-ea7660ce3e5efaa00d7e7d3ff55d31c0]: Commencement: Reg. 27 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-b9328b316d4ae1375d5eb0118bf60d71]: Commencement: Reg. 28 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-b9328b316d4ae1375d5eb0118bf60d71]: Commencement: Reg. 28 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-ffde06b4b11a329567fa87ecdbe6e142]: Commencement: Reg. 29 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-ffde06b4b11a329567fa87ecdbe6e142]: Commencement: Reg. 29 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-882125b18fb9c73548c8afcaad8def67]: Commencement: Reg. 30 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-882125b18fb9c73548c8afcaad8def67]: Commencement: Reg. 30 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-d02a1f7cbd36e8c20158b26020abc35b]: Commencement: Reg. 31 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-d02a1f7cbd36e8c20158b26020abc35b]: Commencement: Reg. 31 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-699573cf826a04ea5ff608e0a4df561e]: Commencement: Reg. 32 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-699573cf826a04ea5ff608e0a4df561e]: Commencement: Reg. 32 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-1fa8d44a25b2751d823f94128cb0a930]: Commencement: Reg. 33 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-1fa8d44a25b2751d823f94128cb0a930]: Commencement: Reg. 33 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-14dfb8a7d806b6888037e021bba4c0c2]: Commencement: Reg. 34 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-14dfb8a7d806b6888037e021bba4c0c2]: Commencement: Reg. 34 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-eea8c988621ec1b2dd5add06c4e0a59a]: Commencement: Reg. 35 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-eea8c988621ec1b2dd5add06c4e0a59a]: Commencement: Reg. 35 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
-[^key-6faabc35142ee7d08ca2e67b692ff51d]: Commencement: Reg. 36 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-6faabc35142ee7d08ca2e67b692ff51d]: Commencement: Reg. 36 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
-[^key-bc5f236ce73d60be2d0adb966cb01d23]: Commencement: Reg. 37 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(d)
+[^c-bc5f236ce73d60be2d0adb966cb01d23]: Commencement: Reg. 37 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(d)
 
-[^key-1e594ad820f0f5e35f0603f11dc0e226]: Commencement: Reg. 38 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(d)
+[^c-1e594ad820f0f5e35f0603f11dc0e226]: Commencement: Reg. 38 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(d)
 
-[^key-16287dda46e76e823d9200b0cc8f169d]: Commencement: Reg. 39 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-16287dda46e76e823d9200b0cc8f169d]: Commencement: Reg. 39 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-aa237370a2a763dd8aae0e570e656e8a]: Commencement: Reg. 40 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-aa237370a2a763dd8aae0e570e656e8a]: Commencement: Reg. 40 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-af3386ad35c4536d33dbf858f1960114]: Commencement: Reg. 41 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-af3386ad35c4536d33dbf858f1960114]: Commencement: Reg. 41 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-411074fa290a986f58970835dbecd4ff]: Commencement: Reg. 42 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-411074fa290a986f58970835dbecd4ff]: Commencement: Reg. 42 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-5561783c8e53632abfa7498c2062b5b8]: Commencement: Reg. 43 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-5561783c8e53632abfa7498c2062b5b8]: Commencement: Reg. 43 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-f2802c2bf8a3048762ba61716f44ea2a]: Commencement: Reg. 44 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-f2802c2bf8a3048762ba61716f44ea2a]: Commencement: Reg. 44 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
 [^f00009]: Footnote: [S.R. 2009 No.79](https://www.legislation.gov.uk/nisr/2009/79)
 
-[^key-2b33e8ab9df71c813335457f84408eef]: Commencement: Reg. 45 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-2b33e8ab9df71c813335457f84408eef]: Commencement: Reg. 45 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-5134cf15628c0f10f2891219f81009c2]: Commencement: Reg. 46 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
+[^c-5134cf15628c0f10f2891219f81009c2]: Commencement: Reg. 46 in operation at 1.4.2024, see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2)
 
 [^f00010]: Footnote: [S.R. 1988 No.374](https://www.legislation.gov.uk/nisr/1988/374).
 
-[^key-bc3566e65e250019855f136a74a1e53a]: Commencement: Reg. 47 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(b)
+[^c-bc3566e65e250019855f136a74a1e53a]: Commencement: Reg. 47 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(b)
 
-[^key-eb085b4a305067b8b6c0f50577e42f12]: Commencement: Reg. 48 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(a)
+[^c-eb085b4a305067b8b6c0f50577e42f12]: Commencement: Reg. 48 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(a)
 
-[^key-3ef466ecd4d0148753743b22f98c9cde]: Commencement: Reg. 49 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(b)
+[^c-3ef466ecd4d0148753743b22f98c9cde]: Commencement: Reg. 49 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(b)
 
-[^key-28aea0264ee29a8d0ee33ce0ff90835d]: Commencement: Reg. 50 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
+[^c-28aea0264ee29a8d0ee33ce0ff90835d]: Commencement: Reg. 50 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(c)
 
-[^key-589295e12621b1b1e5ccc8ed9ced5d72]: Commencement: Reg. 51 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(b)
+[^c-589295e12621b1b1e5ccc8ed9ced5d72]: Commencement: Reg. 51 in operation at 1.4.2024 see [reg. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2) and with effect in accordance with reg. 2(b)

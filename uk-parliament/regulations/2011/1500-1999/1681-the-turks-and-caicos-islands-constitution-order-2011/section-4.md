@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Establishment of Constitution[^key-923b4ff8cf32ff30d642424d56731d18]
+## 4. Establishment of Constitution[^c-923b4ff8cf32ff30d642424d56731d18]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 shall have effect as the Constitution of the Turks and Caicos Islands
 
 ## Annotations
 
-[^key-923b4ff8cf32ff30d642424d56731d18]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/1681/article/4) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)
+[^c-923b4ff8cf32ff30d642424d56731d18]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/1681/article/4) in force at 15.10.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1681/article/1/2)

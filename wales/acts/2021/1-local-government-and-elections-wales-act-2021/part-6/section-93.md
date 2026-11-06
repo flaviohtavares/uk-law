@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Duty of principal council to respond to report of panel performance assessment[^key-e0dfa450c4bee5dec679f06c763e7356]
+## 93. Duty of principal council to respond to report of panel performance assessment[^c-e0dfa450c4bee5dec679f06c763e7356]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0dfa450c4bee5dec679f06c763e7356]: Commencement: [S. 93](https://www.legislation.gov.uk/asc/2021/1/section/93) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(a)](https://www.legislation.gov.uk/wsi/2021/297/article/3/a)
+[^c-e0dfa450c4bee5dec679f06c763e7356]: Commencement: [S. 93](https://www.legislation.gov.uk/asc/2021/1/section/93) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(a)](https://www.legislation.gov.uk/wsi/2021/297/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Notice etc to joint postal administrators[^key-13b625a185fad3416a14663deffb2128]
+## 169. Notice etc to joint postal administrators[^c-13b625a185fad3416a14663deffb2128]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there are joint postal administrators, delivery of a document to one of th
 
 ## Annotations
 
-[^key-13b625a185fad3416a14663deffb2128]: Commencement: [Rule 169](https://www.legislation.gov.uk/uksi/2013/3208/rule/169) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-13b625a185fad3416a14663deffb2128]: Commencement: [Rule 169](https://www.legislation.gov.uk/uksi/2013/3208/rule/169) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

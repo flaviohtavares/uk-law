@@ -22,7 +22,7 @@ summary: ''
 
 Article 29
 
-### 1. Pensions Commutation Act 1871[^key-0fbe11d2e9f8bf47bb9277aba6e079ef]
+### 1. Pensions Commutation Act 1871[^c-0fbe11d2e9f8bf47bb9277aba6e079ef]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ In section 4 of the Pensions Commutation Act 1871[^f00099] (power to Treasury to
 
 .
 
-### 2. Local Government (Emergency Provisions) Act 1916[^key-2f0434b0584c09415fdd144bb189f811]
+### 2. Local Government (Emergency Provisions) Act 1916[^c-2f0434b0584c09415fdd144bb189f811]
 
 *Extent: S*
 
@@ -42,19 +42,19 @@ For section 2 of the Local Government (Emergency Provisions) Act 1916[^f00100] (
 
 .
 
-### 3. Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^key-13b337617c903fb2bd4d2322299f11a0]
+### 3. Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^c-13b337617c903fb2bd4d2322299f11a0]
 
 *Extent: S*
 
 In the closing words of section 46(3) of the Reserve and Auxiliary Forces (Protection of Civil Interests) Act 1951[^f00101] (payments to make up civil remuneration), for “his widow” substitute “that person’s surviving spouse, surviving civil partner”.
 
-### 4. Transport Act 1962[^key-58adc8ea50c9d0d0eb735532a5c09064]
+### 4. Transport Act 1962[^c-58adc8ea50c9d0d0eb735532a5c09064]
 
 *Extent: S*
 
 In section 65(5) of the Transport Act 1962[^f00102] (railway savings banks), for the words “is a man” to the end substitute “is a person who dies leaving a surviving spouse or surviving civil partner, that survivor for so long as that survivor does not subsequently marry, enter into a civil partnership or die.”.
 
-### 5. National Insurance Act 1965[^key-c9939651770d8af65f62f3b9e783af92]
+### 5. National Insurance Act 1965[^c-c9939651770d8af65f62f3b9e783af92]
 
 *Extent: S*
 
@@ -69,13 +69,13 @@ In section 65(5) of the Transport Act 1962[^f00102] (railway savings banks), for
 
 .
 
-### 6. Transport Act 1978[^key-6f198ba2bfe1f0a5cf5c672cfdf3dd0a]
+### 6. Transport Act 1978[^c-6f198ba2bfe1f0a5cf5c672cfdf3dd0a]
 
 *Extent: S*
 
 In section 21 of the Transport Act 1978[^f00105] (travel concessions for transferred employees), for “widows” substitute “surviving spouses, surviving civil partners”.
 
-### 7. Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^key-92bc4f356199bc85de363b7ddac045fd]
+### 7. Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^c-92bc4f356199bc85de363b7ddac045fd]
 
 *Extent: S*
 
@@ -88,7 +88,7 @@ In section 3 of the Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^f001
   ; and
 - (b) omit subsection (2B).
 
-### 8. Child Support Act 1991[^key-7cbd96ae9fda7ebc290c48aecd226e70]
+### 8. Child Support Act 1991[^c-7cbd96ae9fda7ebc290c48aecd226e70]
 
 *Extent: S*
 
@@ -116,7 +116,7 @@ In section 3 of the Pneumoconiosis etc. (Workers’ Compensation) Act 1979[^f001
   , and
 - (b) omit sub-paragraph (6).
 
-### 9. Social Security Administration Act 1992[^key-dbccdd51e4c712b5ed7ec797e44a0b24]
+### 9. Social Security Administration Act 1992[^c-dbccdd51e4c712b5ed7ec797e44a0b24]
 
 *Extent: S*
 
@@ -125,13 +125,13 @@ In section 15A of the Social Security Administration Act 1992[^f00113] (payment 
 - (a) in subsection (4), in paragraph (b) of the definition of “partner”, for “husband and wife or as if they were civil partners” substitute “if they were a married couple”; and
 - (b) omit subsection (4B).
 
-### 10. Trade Union and Labour Relations (Consolidation) Act 1992[^key-a699d1602ca9e8a9bf3de7abf2f7f972]
+### 10. Trade Union and Labour Relations (Consolidation) Act 1992[^c-a699d1602ca9e8a9bf3de7abf2f7f972]
 
 *Extent: S*
 
 In section 38(1) of the Trade Union and Labour Relations (Consolidation) Act 1992[^f00114] (members’ superannuation schemes: separate fund to be maintained), in paragraph (a), after “widows’ ” insert “, widowers’, surviving civil partners’ ”.
 
-### 11. Pension Schemes Act 1993[^key-f86b48850fce2764897ad9367be02178]
+### 11. Pension Schemes Act 1993[^c-f86b48850fce2764897ad9367be02178]
 
 *Extent: S*
 
@@ -205,7 +205,7 @@ In section 38(1) of the Trade Union and Labour Relations (Consolidation) Act 199
 
 (9) In Schedule 3 (methods of revaluing accrued pension benefits)[^f00123], in paragraph 1(1E)(b), after “widower” insert “, surviving same sex spouse”.
 
-### 12. Jobseekers Act 1995[^key-c97e54a5d8d21255220c4a7e123d40e3]
+### 12. Jobseekers Act 1995[^c-c97e54a5d8d21255220c4a7e123d40e3]
 
 *Extent: S*
 
@@ -221,13 +221,13 @@ In section 38(1) of the Trade Union and Labour Relations (Consolidation) Act 199
 
 (3) Omit subsection (1A).
 
-### 13. Pensions Act 1995[^key-9cb0e1f1267c8916b9a3316fa8575802]
+### 13. Pensions Act 1995[^c-9cb0e1f1267c8916b9a3316fa8575802]
 
 *Extent: S*
 
 In section 124(1) of the Pensions Act 1995[^f00125] (interpretation of Part 1), omit the definition of “civil partnership status”.
 
-### 14. State Pension Credit Act 2002[^key-6ac795b2feb409b7abcf3dfbc89fa51f]
+### 14. State Pension Credit Act 2002[^c-6ac795b2feb409b7abcf3dfbc89fa51f]
 
 *Extent: S*
 
@@ -243,7 +243,7 @@ In section 124(1) of the Pensions Act 1995[^f00125] (interpretation of Part 1), 
 
 (3) Omit subsection (1A).
 
-### 15. Gender Recognition Act 2004[^key-c2a076f3882f2a3e0e01c59069bc9602]
+### 15. Gender Recognition Act 2004[^c-c2a076f3882f2a3e0e01c59069bc9602]
 
 (1) The Gender Recognition Act 2004[^f00127] is amended as follows.
 
@@ -349,7 +349,7 @@ In section 124(1) of the Pensions Act 1995[^f00125] (interpretation of Part 1), 
 
 (7) In section 21(1A) (foreign gender change and marriage), omit “Scotland and”.
 
-### 16. Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^key-2f4a3b4308f4112dbff07bb14b20d754]
+### 16. Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^c-2f4a3b4308f4112dbff07bb14b20d754]
 
 Section 14(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2004[^f00128] (immigration officer: power of arrest) is amended as follows—
 
@@ -360,7 +360,7 @@ Section 14(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2
 
   .
 
-### 17. Welfare Reform Act 2007[^key-80ed917ee11fce1c09ac2c2af8925b6e]
+### 17. Welfare Reform Act 2007[^c-80ed917ee11fce1c09ac2c2af8925b6e]
 
 *Extent: S*
 
@@ -376,7 +376,7 @@ Section 14(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2
 
 (3) Omit sub-paragraph (6).
 
-### 18. Human Fertilisation and Embryology Act 2008[^key-f8a7cf4feceba66e3005445171554285]
+### 18. Human Fertilisation and Embryology Act 2008[^c-f8a7cf4feceba66e3005445171554285]
 
 *Extent: S*
 
@@ -403,7 +403,7 @@ Section 14(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2
 - (c) in subsection (1)(c), (d) and (e), after “partnership” in each case insert “or marriage”; and
 - (d) in the words after subsection (1)(f), after “partnership” insert “or marriage”.
 
-### 19. Equality Act 2010[^key-5710fedd5acc951592b1fa0e2a837f65]
+### 19. Equality Act 2010[^c-5710fedd5acc951592b1fa0e2a837f65]
 
 *Extent: E+W+S*
 
@@ -503,7 +503,7 @@ Section 14(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2
 
 .
 
-### 20. Welfare Reform Act 2012[^key-a2595ccd3b542c841dc4c44bd7115d31]
+### 20. Welfare Reform Act 2012[^c-a2595ccd3b542c841dc4c44bd7115d31]
 
 *Extent: S*
 
@@ -525,7 +525,7 @@ Section 14(2) of the Asylum and Immigration (Treatment of Claimants, etc.) Act 2
 - (a) in paragraph (a), for “husband and wife” substitute “married”; and
 - (b) in paragraph (b), for “a man and woman are to be treated as living together as husband and wife” substitute “two people are to be treated as living together as a married couple”.
 
-### 21. Marriage (Same Sex Couples) Act 2013[^key-d2935fab7dd413faaf4343a62cc3f8c4]
+### 21. Marriage (Same Sex Couples) Act 2013[^c-d2935fab7dd413faaf4343a62cc3f8c4]
 
 *Extent: S*
 
@@ -533,37 +533,37 @@ Paragraphs 29 and 30 of Schedule 7 to the Marriage (Same Sex Couples) Act 2013[^
 
 ## Annotations
 
-[^key-0fbe11d2e9f8bf47bb9277aba6e079ef]: Commencement: Sch. 5 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-0fbe11d2e9f8bf47bb9277aba6e079ef]: Commencement: Sch. 5 para. 1 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00099]: Footnote: [1871 c.36](https://www.legislation.gov.uk/ukpga/1871/36); section 4 was, in relation to England and Wales, amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-2f0434b0584c09415fdd144bb189f811]: Commencement: Sch. 5 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-2f0434b0584c09415fdd144bb189f811]: Commencement: Sch. 5 para. 2 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00100]: Footnote: [1916 c.12](https://www.legislation.gov.uk/ukpga/1916/12); section 2 was, in relation to England and Wales, amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-13b337617c903fb2bd4d2322299f11a0]: Commencement: Sch. 5 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-13b337617c903fb2bd4d2322299f11a0]: Commencement: Sch. 5 para. 3 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00101]: Footnote: [1951 c.65](https://www.legislation.gov.uk/ukpga/1951/65); relevant amendments are as follows: paragraph (a)(i) and (ii) of section 46(3) was substituted by the Superannuation Act [1972 (c.11)](https://www.legislation.gov.uk/ukpga/1972/11), Schedule 6, paragraph 30; paragraph (a)(iii) was amended by the Fire and Rescue Services Act [2004 (c.21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 12(1) and (2); paragraph (a) was amended, and paragraph (b) inserted, by the 2004 Act, Schedule 26, paragraph 25(1) and (3). Section 46(3) was amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-58adc8ea50c9d0d0eb735532a5c09064]: Commencement: Sch. 5 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-58adc8ea50c9d0d0eb735532a5c09064]: Commencement: Sch. 5 para. 4 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00102]: Footnote: [1962 c.46](https://www.legislation.gov.uk/ukpga/1962/46); section 65(5) was amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). There are other amendments to section 65 not relevant to this Order.
 
-[^key-c9939651770d8af65f62f3b9e783af92]: Commencement: Sch. 5 para. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-c9939651770d8af65f62f3b9e783af92]: Commencement: Sch. 5 para. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00103]: Footnote: [1965 c.51](https://www.legislation.gov.uk/ukpga/1965/51). Sections 36 and 37 of the National Insurance Act 1965 were repealed by the Social Security Act [1973 (c.38)](https://www.legislation.gov.uk/ukpga/1973/38) with effect from 6th April 1975 but continue in force by virtue of regulations made under Schedule 3 to the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6). The relevant regulations are the Social Security (Graduated Retirement Benefit) (No. 2) Regulations 1978 ([S.I. 1978/393](https://www.legislation.gov.uk/uksi/1978/393)), as amended by [S.I. 1989/1642](https://www.legislation.gov.uk/uksi/1989/1642), [S.I. 1995/2606](https://www.legislation.gov.uk/uksi/1995/2606), [S.I. 1996/1345](https://www.legislation.gov.uk/uksi/1996/1345), [S.I. 1997/1642](https://www.legislation.gov.uk/uksi/1997/1642), [S.I. 1999/2422](https://www.legislation.gov.uk/uksi/1999/2422), [S.I. 2005/454](https://www.legislation.gov.uk/uksi/2005/454), [S.I. 2009/497](https://www.legislation.gov.uk/uksi/2009/497) and [S.I. 2009/2206](https://www.legislation.gov.uk/uksi/2009/2206).
 
 [^f00104]: Footnote: Section 37(1) was most recently amended by regulation 4(1) to (3) of the Social Security (State Pension and National Insurance Credits) Regulations 2009 ([S.I. 2009/2206](https://www.legislation.gov.uk/uksi/2009/2206)) but regulation 4(4) of those Regulations provides that the amendment made by regulation 4(2) of those Regulations does not apply where the survivor attained pensionable age before 6th April 2010.
 
-[^key-6f198ba2bfe1f0a5cf5c672cfdf3dd0a]: Commencement: Sch. 5 para. 6 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-6f198ba2bfe1f0a5cf5c672cfdf3dd0a]: Commencement: Sch. 5 para. 6 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00105]: Footnote: [1978 c.55](https://www.legislation.gov.uk/ukpga/1978/55); section 21 was amended by the London Regional Transport Act [1984 (c.32)](https://www.legislation.gov.uk/ukpga/1984/32), Schedule 6, paragraph 14; the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38), Schedule 31, Part 4 (not yet in force); and by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-92bc4f356199bc85de363b7ddac045fd]: Commencement: Sch. 5 para. 7 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-92bc4f356199bc85de363b7ddac045fd]: Commencement: Sch. 5 para. 7 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00106]: Footnote: [1979 c.41](https://www.legislation.gov.uk/ukpga/1979/41); subsections (2A) and (2B) of section 3 were inserted by the Welfare Reform Act [2007 (c.5)](https://www.legislation.gov.uk/ukpga/2007/5), section 59(2). Subsection (2A) was substituted, and subsection (2B) was omitted, by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-7cbd96ae9fda7ebc290c48aecd226e70]: Commencement: Sch. 5 para. 8 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-7cbd96ae9fda7ebc290c48aecd226e70]: Commencement: Sch. 5 para. 8 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00107]: Footnote: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
@@ -577,15 +577,15 @@ Paragraphs 29 and 30 of Schedule 7 to the Marriage (Same Sex Couples) Act 2013[^
 
 [^f00112]: Footnote: Sub-paragraphs (5) and (6) of paragraph 10C were substituted by the 2004 Act, Schedule 24, paragraph 6 and amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-dbccdd51e4c712b5ed7ec797e44a0b24]: Commencement: Sch. 5 para. 9 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-dbccdd51e4c712b5ed7ec797e44a0b24]: Commencement: Sch. 5 para. 9 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00113]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5); section 15A was inserted by the Social Security (Mortgage Interest Payments) Act [1992 (c.33)](https://www.legislation.gov.uk/ukpga/1992/33), the Schedule, paragraph 1 and was, in relation to England and Wales, amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). Subsection 4B was inserted by the Civil Partnership Act 2004, Schedule 24, paragraph 57(3). There are other amendments to subsection 4 not relevant to this Order.
 
-[^key-a699d1602ca9e8a9bf3de7abf2f7f972]: Commencement: Sch. 5 para. 10 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-a699d1602ca9e8a9bf3de7abf2f7f972]: Commencement: Sch. 5 para. 10 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00114]: Footnote: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52); section 38(1) was amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-f86b48850fce2764897ad9367be02178]: Commencement: Sch. 5 para. 11 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-f86b48850fce2764897ad9367be02178]: Commencement: Sch. 5 para. 11 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00115]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48); sections 8, 17, 24D, 37, 47, 83 and Schedule 3 were amended, and section 38A inserted by the 2013 Act, Schedule 4, paragraphs 18 to 26. Section 17 was further amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
@@ -605,37 +605,37 @@ Paragraphs 29 and 30 of Schedule 7 to the Marriage (Same Sex Couples) Act 2013[^
 
 [^f00123]: Footnote: Schedule 3 paragraph 1(1)-(3A) were substituted by the Pensions Act [2008 (c.30)](https://www.legislation.gov.uk/ukpga/2008/30), Schedule 2, paragraph 2. Paragraph 1(1E) of Schedule 3 was amended, in relation to England and Wales, by the 2013 Act, Schedule 4, paragraph 26.
 
-[^key-c97e54a5d8d21255220c4a7e123d40e3]: Commencement: Sch. 5 para. 12 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-c97e54a5d8d21255220c4a7e123d40e3]: Commencement: Sch. 5 para. 12 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00124]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18); the definition of “couple” in section 35(1) and subsection (1A) were inserted by the Civil Partnership Act 2004, Schedule 24, paragraph 124(1), (2) and (5), and amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-9cb0e1f1267c8916b9a3316fa8575802]: Commencement: Sch. 5 para. 13 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-9cb0e1f1267c8916b9a3316fa8575802]: Commencement: Sch. 5 para. 13 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00125]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26); the definition of “civil partnership status” was inserted by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053) and was, in relation to England and Wales, repealed by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560). There are other amendments to section 124(1) not relevant to this Order.
 
-[^key-6ac795b2feb409b7abcf3dfbc89fa51f]: Commencement: Sch. 5 para. 14 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-6ac795b2feb409b7abcf3dfbc89fa51f]: Commencement: Sch. 5 para. 14 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00126]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16); the definition of “couple” in section 17(1) were inserted by the Civil Partnership Act 2004, Schedule 24, paragraphs 142(1) and (2), and amended by [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560), in relation to England and Wales. Subsection (1A) was inserted by paragraph 143 of Schedule 24 to the Civil Partnership Act 2004.
 
-[^key-c2a076f3882f2a3e0e01c59069bc9602]: Commencement: Sch. 5 para. 15 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-c2a076f3882f2a3e0e01c59069bc9602]: Commencement: Sch. 5 para. 15 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00127]: Footnote: [2004 c.7](https://www.legislation.gov.uk/ukpga/2004/7). Subsection (3B) was inserted into section 2 by the 2014 Act, schedule 2, paragraph 14. Section 3D was inserted by the 2014 Act, schedule 2, paragraph 17.
 
-[^key-2f4a3b4308f4112dbff07bb14b20d754]: Commencement: Sch. 5 para. 16 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-2f4a3b4308f4112dbff07bb14b20d754]: Commencement: Sch. 5 para. 16 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00128]: Footnote: [2004 c.19](https://www.legislation.gov.uk/ukpga/2004/19).
 
 [^f00129]: Footnote: Section 24(A1) was inserted by section 28 of the 2014 Act.
 
-[^key-80ed917ee11fce1c09ac2c2af8925b6e]: Commencement: Sch. 5 para. 17 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-80ed917ee11fce1c09ac2c2af8925b6e]: Commencement: Sch. 5 para. 17 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00130]: Footnote: [2007 c.5](https://www.legislation.gov.uk/ukpga/2007/5); paragraph 6 of Schedule 1 was amended by the Welfare Reform Act [2009 (c.24)](https://www.legislation.gov.uk/ukpga/2009/24), sections 5(2), 9(3)(b) and 58(1) and Schedule 7 and [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560), and repealed by Part 1 of Schedule 14 to the Welfare Reform Act 2012. That repeal has been brought into force for certain purposes, but has yet to be brought into force for the remaining purposes.
 
-[^key-f8a7cf4feceba66e3005445171554285]: Commencement: Sch. 5 para. 18 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-f8a7cf4feceba66e3005445171554285]: Commencement: Sch. 5 para. 18 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00131]: Footnote: [2008 c.22](https://www.legislation.gov.uk/ukpga/2008/22). Sections 35, 40, 42 and 46 were amended by the 2013 Act, Schedule 7, paragraphs 37 to 41.
 
-[^key-5710fedd5acc951592b1fa0e2a837f65]: Commencement: Sch. 5 para. 19 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-5710fedd5acc951592b1fa0e2a837f65]: Commencement: Sch. 5 para. 19 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00132]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
@@ -651,10 +651,10 @@ Paragraphs 29 and 30 of Schedule 7 to the Marriage (Same Sex Couples) Act 2013[^
 
 [^f00138]: Footnote: Section 8(2)(a) of the 1977 Act was amended by section 12(2)(c) of the 2014 Act.
 
-[^key-a2595ccd3b542c841dc4c44bd7115d31]: Commencement: Sch. 5 para. 20 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-a2595ccd3b542c841dc4c44bd7115d31]: Commencement: Sch. 5 para. 20 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00139]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5). Section 39 was amended [S.I. 2014/560](https://www.legislation.gov.uk/uksi/2014/560).
 
-[^key-d2935fab7dd413faaf4343a62cc3f8c4]: Commencement: Sch. 5 para. 21 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-d2935fab7dd413faaf4343a62cc3f8c4]: Commencement: Sch. 5 para. 21 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
 
 [^f00140]: Footnote: [2013 c.30](https://www.legislation.gov.uk/ukpga/2013/30).

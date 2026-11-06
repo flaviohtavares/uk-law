@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Repeals[^key-e8a00d8a3a00f93fd2727a6eb22ed703][^key-a95b59a436043b11fba930560c1dbc6d]
+## 52. Repeals[^c-e8a00d8a3a00f93fd2727a6eb22ed703][^c-a95b59a436043b11fba930560c1dbc6d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 4 contains repeals.
 
 ## Annotations
 
-[^key-e8a00d8a3a00f93fd2727a6eb22ed703]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2009/2/section/52) in force at 1.1.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 2](https://www.legislation.gov.uk/wsi/2009/3272/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/3272/schedule/1)
+[^c-e8a00d8a3a00f93fd2727a6eb22ed703]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2009/2/section/52) in force at 1.1.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 2](https://www.legislation.gov.uk/wsi/2009/3272/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2009/3272/schedule/1)
 
-[^key-a95b59a436043b11fba930560c1dbc6d]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2009/2/section/52) in force at 1.4.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2) (with [art. 3(2)-(5)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/2)) (as amended (8.9.2010) by S.I. 2010/2237, art. 2)
+[^c-a95b59a436043b11fba930560c1dbc6d]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2009/2/section/52) in force at 1.4.2010 for specified purposes by [S.I. 2009/3272](https://www.legislation.gov.uk/wsi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/wsi/2009/3272/schedule/2) (with [art. 3(2)-(5)](https://www.legislation.gov.uk/wsi/2009/3272/article/3/2)) (as amended (8.9.2010) by S.I. 2010/2237, art. 2)

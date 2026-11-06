@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Confirmation decisions: requirements to take steps[^key-df352d800fabfcc51b4fefe821bb2157][^key-37d14053319d2fdd13e2870851a92ff7]
+## 133. Confirmation decisions: requirements to take steps[^c-df352d800fabfcc51b4fefe821bb2157][^c-37d14053319d2fdd13e2870851a92ff7]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 - (a) specify the steps that are required,
 - (b) give OFCOM’s reasons for their decision to impose those requirements,
 - (c) specify which of those requirements (if any) have been designated as CSEA requirements (see subsections (6) and (7)),
-- (ca)[^key-c738f88dcf7fa5320b27d0897e92c45f] specify which of those requirements (if any) have been designated as intimate image content requirements (see subsections (7A) and (7B)),
+- (ca)[^c-c738f88dcf7fa5320b27d0897e92c45f] specify which of those requirements (if any) have been designated as intimate image content requirements (see subsections (7A) and (7B)),
 - (d) specify each notified requirement to which the steps relate,
 - (e) specify the period during which the failure to comply with a notified requirement has occurred, and whether the failure is continuing,
 - (f) specify a reasonable period within which each of the steps specified in the decision must be taken or, if a step requires the use of a system or process, a reasonable period within which the system or process must begin to be used (but see subsection (5) in relation to information duties),
@@ -54,7 +54,7 @@ summary: ''
 - (a) a failure to comply with section 10(2)(a) or (3)(a) in respect of CSEA content, or in respect of priority illegal content which includes CSEA content;
 - (b) a failure to comply with section 10(2)(b) in respect of an offence specified in Schedule 6 (CSEA offences), or in respect of priority offences which include such an offence.
 
-(7A)[^key-a19a78f32f98eed1b845910dfe4b3fc8] If the condition in subsection (7B) is met in relation to a requirement imposed by a confirmation decision which is of a kind described in subsection (1), OFCOM must designate the requirement as an “**intimate image content requirement**” for the purposes of section 138(3A) (offence of failure to comply with confirmation decision).
+(7A)[^c-a19a78f32f98eed1b845910dfe4b3fc8] If the condition in subsection (7B) is met in relation to a requirement imposed by a confirmation decision which is of a kind described in subsection (1), OFCOM must designate the requirement as an “**intimate image content requirement**” for the purposes of section 138(3A) (offence of failure to comply with confirmation decision).
 
 (7B) The condition referred to in subsection (7A) is that the requirement is imposed (whether or not exclusively) in relation to—
 
@@ -82,18 +82,18 @@ summary: ''
 
 (10) In this section—
 
-- “**CSEA content**”, “intimate image content”,[^key-3fc00f6f2999e6f7eb8b680e3de94192] “**priority illegal content**” and “**priority offence**” have the same meaning as in Part 3 (see section 59);
+- “**CSEA content**”, “intimate image content”,[^c-3fc00f6f2999e6f7eb8b680e3de94192] “**priority illegal content**” and “**priority offence**” have the same meaning as in Part 3 (see section 59);
 - “**information duty**” means a duty set out in section 102(8);
 - “**notified requirement**” has the meaning given by section 132.
 
 ## Annotations
 
-[^key-df352d800fabfcc51b4fefe821bb2157]: Commencement: S. 133 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-df352d800fabfcc51b4fefe821bb2157]: Commencement: S. 133 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-37d14053319d2fdd13e2870851a92ff7]: Commencement: S. 133 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-37d14053319d2fdd13e2870851a92ff7]: Commencement: S. 133 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
 
-[^key-c738f88dcf7fa5320b27d0897e92c45f]: Textual amendment: S. 133(4)(ca) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(9)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/9/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-c738f88dcf7fa5320b27d0897e92c45f]: Textual amendment: S. 133(4)(ca) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(9)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/9/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-a19a78f32f98eed1b845910dfe4b3fc8]: Textual amendment: S. 133(7A)(7B) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(9)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/9/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-a19a78f32f98eed1b845910dfe4b3fc8]: Textual amendment: S. 133(7A)(7B) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(9)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/9/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-3fc00f6f2999e6f7eb8b680e3de94192]: Textual amendment: Words in s. 133(10) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(9)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/9/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-3fc00f6f2999e6f7eb8b680e3de94192]: Textual amendment: Words in s. 133(10) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(9)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/9/c), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

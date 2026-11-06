@@ -192,7 +192,7 @@ the planning authority may by order (in this Act referred to as a “**suspensio
 
 #### Old mining permissions
 
-**10.**[^key-3f2bf4cff91db003b7217a1e93acf432] (1) In this paragraph and Part II of this Schedule, “**old mining permission**” means any planning permission for development—
+**10.**[^c-3f2bf4cff91db003b7217a1e93acf432] (1) In this paragraph and Part II of this Schedule, “**old mining permission**” means any planning permission for development—
 
 - (a) consisting of the winning and working of minerals, or
 - (b) involving the depositing of mineral waste,
@@ -262,7 +262,7 @@ cease to have effect on the day following the last date on which the application
 
 (7) The provisions of this Schedule and of any regulations made under this Act with respect to the procedure to be followed in connection with the submission by the planning authority of any order under paragraph 1, 3, 5 or 6, as the case may be, its confirmation by the Secretary of State and the service of copies of it as confirmed shall have effect, subject to any necessary modifications, in relation to any proposal by the Secretary of State to make such an order by virtue of sub-paragraph (1), its making by him and the service of copies of it.
 
-### Part II — Registration of Old Mining Permissions[^key-4254aee58eb42eda6a43c02d4827e1a0]
+### Part II — Registration of Old Mining Permissions[^c-4254aee58eb42eda6a43c02d4827e1a0]
 
 #### Application for registration
 
@@ -313,7 +313,7 @@ the application is to be treated for the purposes of paragraph 10 and this Part 
 (6) On an application under this paragraph—
 
 - (a) the planning authority must determine the conditions to which the permission is to be subject, and
-- (b)[^key-62d00e051a9467b630c1ce04d00226fe] if, within the period of 3 months beginning with the service of notice of the application (or within such extended period as may at any time be agreed upon in writing between the applicant and the authority) the authority have not given the applicant notice of their determination, the authority shall be treated for the purposes of paragraph 10 and this Part of this Schedule as having determined that the permission is to be subject to the conditions set out in the application.
+- (b)[^c-62d00e051a9467b630c1ce04d00226fe] if, within the period of 3 months beginning with the service of notice of the application (or within such extended period as may at any time be agreed upon in writing between the applicant and the authority) the authority have not given the applicant notice of their determination, the authority shall be treated for the purposes of paragraph 10 and this Part of this Schedule as having determined that the permission is to be subject to the conditions set out in the application.
 
 (7) The condition to which an old mining permission is to be subject by reason of sub-paragraph (1)(c) is not to be regarded for the purposes of the planning Acts as a condition such as is mentioned in section 41(1)(b) (planning permission granted for a limited period).
 
@@ -338,7 +338,7 @@ the application is to be treated for the purposes of paragraph 10 and this Part 
 
 (3) Where the planning authority receive an application under paragraph 13 or 14, they must as soon as reasonably practicable give to the applicant a written acknowledgement of the application.
 
-(4)[^key-e20e6b1aca1d4f59eecc3d55ced44edf] Where the planning authority determine an application under either of those paragraphs, they must as soon as reasonably practicable give written notice of their determination to the applicant.
+(4)[^c-e20e6b1aca1d4f59eecc3d55ced44edf] Where the planning authority determine an application under either of those paragraphs, they must as soon as reasonably practicable give written notice of their determination to the applicant.
 
 (5) An appropriate certificate is such a certificate—
 
@@ -356,13 +356,13 @@ the application is to be treated for the purposes of paragraph 10 and this Part 
 
 the applicant may appeal to the Secretary of State.
 
-(2)[^key-b1789a58087b2567a9c93e4b1a7b17d2][^key-b733702b3c81b6a6b7edc1c2ed62092a] Where, on an application under paragraph 14, the planning authority determine conditions that differ in any respect from the conditions set out in the application, the applicant may appeal to the Secretary of State.
+(2)[^c-b1789a58087b2567a9c93e4b1a7b17d2][^c-b733702b3c81b6a6b7edc1c2ed62092a] Where, on an application under paragraph 14, the planning authority determine conditions that differ in any respect from the conditions set out in the application, the applicant may appeal to the Secretary of State.
 
 (3) An appeal under this paragraph must be made by giving notice of appeal to the Secretary of State.
 
 (4) In the case of an appeal under sub-paragraph (1), the notice must be given to the Secretary of State before the end of the period of 3 months beginning with the determination or, in the case of an application treated as refused by virtue of paragraph 13(5), beginning at the end of the period or extended period referred to in paragraph 13(5)(b).
 
-(5)[^key-0d386f2187a4a3a8683fc3650381799b][^key-7dc8bfdb68800f71824aed85171a615b] In the case of an appeal under sub-paragraph (2), the notice must be given to the Secretary of State before the end of the period of 6 months beginning with the determination.
+(5)[^c-0d386f2187a4a3a8683fc3650381799b][^c-7dc8bfdb68800f71824aed85171a615b] In the case of an appeal under sub-paragraph (2), the notice must be given to the Secretary of State before the end of the period of 6 months beginning with the determination.
 
 (6) A notice of appeal under this paragraph is a notice which—
 
@@ -375,7 +375,7 @@ the applicant may appeal to the Secretary of State.
 
 #### Determination of appeal
 
-**18.**[^key-d50afffea49849ae8ca9c32d3b55cca8] (1) On an appeal under paragraph 17 the Secretary of State may—
+**18.**[^c-d50afffea49849ae8ca9c32d3b55cca8] (1) On an appeal under paragraph 17 the Secretary of State may—
 
 - (a) allow or dismiss the appeal, or
 - (b) reverse or vary any part of the decision of the planning authority (whether the appeal relates to that part of it or not),
@@ -431,7 +431,7 @@ then for the purpose of the determination of the applications and any appeal aga
 
 (2) Where the planning authority are not the authority required to keep the register under that section, the planning authority must provide the authority required to keep the register with such information and documents as that authority requires to comply with paragraph 15 and with that section as applied by this paragraph.
 
-(3)[^key-9509fd2e24e5067bad90c8874de1d6d4] Sections 237 and 239 (validity of certain decisions and proceedings for questioning their validity) shall have effect as if the action mentioned in section 237(3) included any decision of the Secretary of State on an appeal under paragraph 17 or on an application referred to him under paragraph 19.
+(3)[^c-9509fd2e24e5067bad90c8874de1d6d4] Sections 237 and 239 (validity of certain decisions and proceedings for questioning their validity) shall have effect as if the action mentioned in section 237(3) included any decision of the Secretary of State on an appeal under paragraph 17 or on an application referred to him under paragraph 19.
 
 #### Interpretation
 
@@ -447,22 +447,22 @@ then for the purpose of the determination of the applications and any appeal aga
 
 ## Annotations
 
-[^key-3f2bf4cff91db003b7217a1e93acf432]: Modification: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/10) applied (with modifications) (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/97/2), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-3f2bf4cff91db003b7217a1e93acf432]: Modification: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/10) applied (with modifications) (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/97/2), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
 
-[^key-4254aee58eb42eda6a43c02d4827e1a0]: Modification: [Sch. 8 Pt. II](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/part/II) applied (with modifications) (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/97/2), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-4254aee58eb42eda6a43c02d4827e1a0]: Modification: [Sch. 8 Pt. II](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/part/II) applied (with modifications) (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [ss. 97(2)](https://www.legislation.gov.uk/ukpga/2004/5/section/97/2), [121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
 
-[^key-62d00e051a9467b630c1ce04d00226fe]: Modification: [Sch. 8 para. 14(6)(b)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/14/6/b) restricted (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(17)(a)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/17/a)
+[^c-62d00e051a9467b630c1ce04d00226fe]: Modification: [Sch. 8 para. 14(6)(b)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/14/6/b) restricted (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(17)(a)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/17/a)
 
-[^key-e20e6b1aca1d4f59eecc3d55ced44edf]: Modification: [Sch. 8 para. 16(4)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/16/4) excluded (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(18)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/18)
+[^c-e20e6b1aca1d4f59eecc3d55ced44edf]: Modification: [Sch. 8 para. 16(4)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/16/4) excluded (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(18)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/18)
 
-[^key-b1789a58087b2567a9c93e4b1a7b17d2]: Modification: [Sch. 8 para. 17(2)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/2) modified (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(21)(a)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/21/a)
+[^c-b1789a58087b2567a9c93e4b1a7b17d2]: Modification: [Sch. 8 para. 17(2)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/2) modified (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(21)(a)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/21/a)
 
-[^key-b733702b3c81b6a6b7edc1c2ed62092a]: Modification: [Sch. 8 para. 17(2)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/2) modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [38(18)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/18), [(22)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/22) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-b733702b3c81b6a6b7edc1c2ed62092a]: Modification: [Sch. 8 para. 17(2)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/2) modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [38(18)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/18), [(22)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/22) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-0d386f2187a4a3a8683fc3650381799b]: Modification: [Sch. 8 para. 17(5)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/5) modified (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(21)(b)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/21/b)
+[^c-0d386f2187a4a3a8683fc3650381799b]: Modification: [Sch. 8 para. 17(5)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/5) modified (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(21)(b)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/21/b)
 
-[^key-7dc8bfdb68800f71824aed85171a615b]: Modification: [Sch. 8 para. 17(5)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/5) modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [38(18)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/18), [(22)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/22) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
+[^c-7dc8bfdb68800f71824aed85171a615b]: Modification: [Sch. 8 para. 17(5)](https://www.legislation.gov.uk/ukpga/1997/8/schedule/8/paragraph/17/5) modified (16.5.2017) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2017 (S.S.I. 2017/102)](https://www.legislation.gov.uk/ssi/2017/102), [regs. 1](https://www.legislation.gov.uk/ssi/2017/102/regulation/1), [38(18)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/18), [(22)](https://www.legislation.gov.uk/ssi/2017/102/regulation/38/22) (with [regs. 2(10)](https://www.legislation.gov.uk/ssi/2017/102/regulation/2/10), [38](https://www.legislation.gov.uk/ssi/2017/102/regulation/38), [39](https://www.legislation.gov.uk/ssi/2017/102/regulation/39), [40](https://www.legislation.gov.uk/ssi/2017/102/regulation/40), [60(7)](https://www.legislation.gov.uk/ssi/2017/102/regulation/60/7))
 
-[^key-d50afffea49849ae8ca9c32d3b55cca8]: Modification: Sch. 8 para. 18 applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/29/3) (with [regs. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-d50afffea49849ae8ca9c32d3b55cca8]: Modification: Sch. 8 para. 18 applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/29/3) (with [regs. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
 
-[^key-9509fd2e24e5067bad90c8874de1d6d4]: Modification: Sch. 8 para. 21(3) applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/29/3) (with [regs. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-9509fd2e24e5067bad90c8874de1d6d4]: Modification: Sch. 8 para. 21(3) applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [29(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/29/3) (with [regs. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))

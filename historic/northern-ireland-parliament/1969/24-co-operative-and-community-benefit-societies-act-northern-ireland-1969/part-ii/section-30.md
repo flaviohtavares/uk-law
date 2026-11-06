@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Holding of land.[^c16934421][^key-d315927e77b4174b4a786d02ab0f9d52]
+## 30. Holding of land.[^c16934421][^c-d315927e77b4174b4a786d02ab0f9d52]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ A registered society may, unless its registered rules direct otherwise, acquire 
 
 [^c16934421]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-d315927e77b4174b4a786d02ab0f9d52]: Modification: [S. 30](https://www.legislation.gov.uk/apni/1969/24/section/30) excluded by S.I. 1992/1725 (N.I. 15), art. 13A(1) (as substituted (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(1)](https://www.legislation.gov.uk/nia/2020/5/section/1/1), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2))
+[^c-d315927e77b4174b4a786d02ab0f9d52]: Modification: [S. 30](https://www.legislation.gov.uk/apni/1969/24/section/30) excluded by S.I. 1992/1725 (N.I. 15), art. 13A(1) (as substituted (29.8.2020) by [Housing (Amendment) Act (Northern Ireland) 2020 (c. 5)](https://www.legislation.gov.uk/nia/2020/5), [ss. 1(1)](https://www.legislation.gov.uk/nia/2020/5/section/1/1), [10(2)](https://www.legislation.gov.uk/nia/2020/5/section/10/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-d9d08b4e2e5ba353ee55af3a9bd0a899]
+## 1. Citation and commencement[^c-d9d08b4e2e5ba353ee55af3a9bd0a899]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ This Order may be cited as the Roads (Speed Limit) (No. 10) Order (Northern Irel
 
 ## Annotations
 
-[^key-d9d08b4e2e5ba353ee55af3a9bd0a899]: Commencement: Art. 1 in operation at 10.2.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/617/article/1)
+[^c-d9d08b4e2e5ba353ee55af3a9bd0a899]: Commencement: Art. 1 in operation at 10.2.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1996/617/article/1)

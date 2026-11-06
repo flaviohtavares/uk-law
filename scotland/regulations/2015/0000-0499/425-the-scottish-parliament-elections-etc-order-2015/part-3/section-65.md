@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Schools and rooms for Scottish parliamentary election meetings: candidates for return as regional members[^key-e4a0e1403726749899369781292a95c3]
+## 65. Schools and rooms for Scottish parliamentary election meetings: candidates for return as regional members[^c-e4a0e1403726749899369781292a95c3]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ to the use of the rooms described in paragraphs (2) and (3), free of charge, at 
 
 ## Annotations
 
-[^key-e4a0e1403726749899369781292a95c3]: Commencement: Art. 65 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e4a0e1403726749899369781292a95c3]: Commencement: Art. 65 in force at 16.12.2015 in accordance with art. 1(1)

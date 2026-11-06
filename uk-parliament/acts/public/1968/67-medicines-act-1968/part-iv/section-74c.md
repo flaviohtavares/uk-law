@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74C. Supplementary provision in respect of registration of premises: Great Britain[^key-2dd7ea2ea1f70633852975d97935774e]
+## 74C. Supplementary provision in respect of registration of premises: Great Britain[^c-2dd7ea2ea1f70633852975d97935774e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 - (b) is valid for the period of one year beginning with the day on which the entry would otherwise have ceased to be valid by virtue of section 74A(7) or is valid for such longer period beginning with that day as the registrar may in any particular case allow; and
 - (c) may be subject to the same conditions as those to which the entry was subject immediately before it was removed from Part 3 of the register by virtue of section 74A(7) or may be subject to such other conditions as the registrar may impose under section 74D(1).
 
-(3) An application for restoration may be made to the registrar by the person who is the owner of the retail pharmacy business previously carried on at or from[^key-deb66357060068e399c5ebff00cec93a] the premises and that person must be—
+(3) An application for restoration may be made to the registrar by the person who is the owner of the retail pharmacy business previously carried on at or from[^c-deb66357060068e399c5ebff00cec93a] the premises and that person must be—
 
 - (a) a person who is lawfully conducting a retail pharmacy business; or
-- (b) a person who, if the entry of the premises is restored to Part 3 of the register and the person begins to carry on a retail pharmacy business at or from[^key-47b7c340a237dc16b525e247fd16b92e] the premises, will, from the time the person begins to do so, be a person lawfully conducting a retail pharmacy business.
+- (b) a person who, if the entry of the premises is restored to Part 3 of the register and the person begins to carry on a retail pharmacy business at or from[^c-47b7c340a237dc16b525e247fd16b92e] the premises, will, from the time the person begins to do so, be a person lawfully conducting a retail pharmacy business.
 
 (4) The General Pharmaceutical Council may make rules in connection with applications under this section.
 
@@ -56,8 +56,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-deb66357060068e399c5ebff00cec93a]: Textual amendment: Words in [s. 74C(3)](https://www.legislation.gov.uk/ukpga/1968/67/section/74C/3) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/9/a); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-deb66357060068e399c5ebff00cec93a]: Textual amendment: Words in [s. 74C(3)](https://www.legislation.gov.uk/ukpga/1968/67/section/74C/3) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/9/a); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
 
-[^key-47b7c340a237dc16b525e247fd16b92e]: Textual amendment: Words in [s. 74C(3)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/74C/3/b) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/9/b); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-47b7c340a237dc16b525e247fd16b92e]: Textual amendment: Words in [s. 74C(3)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/74C/3/b) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/9/b); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)

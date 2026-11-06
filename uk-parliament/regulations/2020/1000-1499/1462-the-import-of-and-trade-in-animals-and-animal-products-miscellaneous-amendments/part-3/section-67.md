@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Commission Implementing Decision (EU) 2018/320 on certain animal health protection measures for intra-Union trade in salamanders and the introduction into the Union of such animals in relation to the fungus Batrachochytrium salamandrivorans[^key-f4d1a7023992227560baada0ea84648a]
+## 67. Commission Implementing Decision (EU) 2018/320 on certain animal health protection measures for intra-Union trade in salamanders and the introduction into the Union of such animals in relation to the fungus Batrachochytrium salamandrivorans[^c-f4d1a7023992227560baada0ea84648a]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4d1a7023992227560baada0ea84648a]: Commencement: Reg. 67 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-f4d1a7023992227560baada0ea84648a]: Commencement: Reg. 67 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

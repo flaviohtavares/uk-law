@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019[^key-58f5069f8c6e46c71306eadeaf2c31cf][^key-2c45ec5b45506bedc7af6f6220351e93]
+## 50. The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019[^c-58f5069f8c6e46c71306eadeaf2c31cf][^c-2c45ec5b45506bedc7af6f6220351e93]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-58f5069f8c6e46c71306eadeaf2c31cf] The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019[^f00030] are amended as follows.
+(1)[^c-58f5069f8c6e46c71306eadeaf2c31cf] The Credit Rating Agencies (Amendment etc.) (EU Exit) Regulations 2019[^f00030] are amended as follows.
 
-(2)[^key-2c45ec5b45506bedc7af6f6220351e93] In each of the following provisions, for “credit rating agency”, in each place it occurs, substitute “person”—
+(2)[^c-2c45ec5b45506bedc7af6f6220351e93] In each of the following provisions, for “credit rating agency”, in each place it occurs, substitute “person”—
 
 - (a) regulation 7(1) (financial penalties);
 - (b) regulation 8(7) (statement of policy);
@@ -36,13 +36,13 @@ summary: ''
   - (ii) paragraph (2);
   - (iii) paragraph (3).
 
-(3)[^key-2c45ec5b45506bedc7af6f6220351e93] In regulation 18 (information gathering and investigations)—
+(3)[^c-2c45ec5b45506bedc7af6f6220351e93] In regulation 18 (information gathering and investigations)—
 
 - (a) in paragraph (1), for “in respect of a credit rating agency as it applies in respect of an authorised person under the Act, subject as follows” substitute “as if references to an authorised person also included references to a person subject to requirements under these Regulations or the CRA Regulation, and subject to the following further modifications”;
 - (b) in paragraph (2)(b), in new paragraph (b)(iv), for “credit rating agency” substitute “person”;
 - (c) in paragraph (3), in the new subsection (1A), for “credit rating agency” substitute “person”.
 
-(4)[^key-58f5069f8c6e46c71306eadeaf2c31cf] For regulation 45 (misleading the FCA: criminal offence), substitute—
+(4)[^c-58f5069f8c6e46c71306eadeaf2c31cf] For regulation 45 (misleading the FCA: criminal offence), substitute—
 
 > **45.** Section 398 of the Financial Services and Markets Act 2000 (misleading the FCA or PRA: residual cases) applies to a requirement to provide information in accordance with—
 >
@@ -54,7 +54,7 @@ summary: ''
 
 .
 
-(5)[^key-58f5069f8c6e46c71306eadeaf2c31cf] After regulation 46 (offence by bodies corporate) insert—
+(5)[^c-58f5069f8c6e46c71306eadeaf2c31cf] After regulation 46 (offence by bodies corporate) insert—
 
 > **46A. Further information to be supplied**
 >
@@ -67,7 +67,7 @@ summary: ''
 
 .
 
-(6)[^key-58f5069f8c6e46c71306eadeaf2c31cf] For regulation 47 (further information to be supplied by a person to whom regulation 28, 33 or 39 applies), including the heading, substitute—
+(6)[^c-58f5069f8c6e46c71306eadeaf2c31cf] For regulation 47 (further information to be supplied by a person to whom regulation 28, 33 or 39 applies), including the heading, substitute—
 
 > **47. Duty to disclose information**
 >
@@ -121,8 +121,8 @@ summary: ''
 
 ## Annotations
 
-[^key-58f5069f8c6e46c71306eadeaf2c31cf]: Commencement: Reg. 50(1)(4)-(6) in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-58f5069f8c6e46c71306eadeaf2c31cf]: Commencement: Reg. 50(1)(4)-(6) in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
-[^key-2c45ec5b45506bedc7af6f6220351e93]: Commencement: [Reg. 50(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/3)[(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/7)[(8)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/8) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
+[^c-2c45ec5b45506bedc7af6f6220351e93]: Commencement: [Reg. 50(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/2)[(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/3)[(7)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/7)[(8)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/50/8) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4)
 
 [^f00030]: Footnote: [S.I. 2019/266](https://www.legislation.gov.uk/uksi/2019/266).

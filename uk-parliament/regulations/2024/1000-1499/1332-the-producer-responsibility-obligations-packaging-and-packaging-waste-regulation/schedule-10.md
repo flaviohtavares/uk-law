@@ -24,7 +24,7 @@ Regulation 102
 
 ### PART 1 — Licensors
 
-#### 1. Meaning of “licence agreement”, “licensor” and “licensee”[^key-c19e44447783505de6f8a1d3e8a09c25]
+#### 1. Meaning of “licence agreement”, “licensor” and “licensee”[^c-c19e44447783505de6f8a1d3e8a09c25]
 
 In this Part of this Schedule—
 
@@ -33,13 +33,13 @@ In this Part of this Schedule—
   - (ii) includes an obligation (whether expressed as a positive obligation or as a prohibition or restriction) on the licensee that relates to the presentation of those premises; and
 - (b) “licensor” and “licensee” are to be interpreted in accordance with sub-paragraph (a).
 
-#### 2. Obligations of licensors[^key-ea240d8d6336a51826c2adf50ae282ab]
+#### 2. Obligations of licensors[^c-ea240d8d6336a51826c2adf50ae282ab]
 
 (1) A licensor (“**LR**”) has the obligations set out in paragraphs 5 and 6, where the case in paragraph 3 or the case in paragraph 4 applies.
 
 (2) Where the case in paragraph 4 applies, LR’s obligations under paragraphs 5 and 6 are in addition to LR’s producer responsibility obligations.
 
-**3.**[^key-e375e8a67ae8c46698140f15313a3c0a] The case in this paragraph is that—
+**3.**[^c-e375e8a67ae8c46698140f15313a3c0a] The case in this paragraph is that—
 
 - (a) LR—
   - (i) is a producer, and has a turnover which meets the criterion in regulation 24(2)(a); but
@@ -47,13 +47,13 @@ In this Part of this Schedule—
 - (b) one or more of LR’s licensees are producers, but do not have producer responsibility obligations because they do not meet one or both of the criteria in regulation 24(2); and
 - (c) the total amount of packaging specified in paragraph 7 which is supplied by LR and the licensees referred to in sub-paragraph (b) meets the criterion in regulation 24(2)(b).
 
-**4.**[^key-7d11eb263cd40359314a0b4dd7e5c5cc] The case in this paragraph is that—
+**4.**[^c-7d11eb263cd40359314a0b4dd7e5c5cc] The case in this paragraph is that—
 
 - (a) LR has producer responsibility obligations;
 - (b) one or more of LR’s licensees are producers, but do not have producer responsibility obligations because they do not satisfy one or both of the criteria in regulation 24(2);
 - (c) the total amount of packaging specified in paragraph 7 which is supplied by the licensees referred to in sub-paragraph (b) meets the criterion in regulation 24(2)(b).
 
-**5.**[^key-d2aa7ce6cffb30464620be7ec27ecad2] (1) Where LR has obligations under this Part, LR must collect the data referred to in sub-paragraph (2) in relation to packaging specified in paragraph 7 which is supplied by—
+**5.**[^c-d2aa7ce6cffb30464620be7ec27ecad2] (1) Where LR has obligations under this Part, LR must collect the data referred to in sub-paragraph (2) in relation to packaging specified in paragraph 7 which is supplied by—
 
 - (a) LR and the licensees referred to in paragraph 3(b), where the case in paragraph 3 applies; or
 - (b) the licensees referred to in paragraph 4(b), where the case in paragraph 4 applies.
@@ -70,7 +70,7 @@ In this Part of this Schedule—
 
 (4) LR must keep the data collected under sub-paragraph (1) and a record of any estimates made under sub-paragraph (3)(b) for at least 7 years after the end of the reporting period to which the data relate.
 
-**6.**[^key-86a2cfe4489ab871c6314db3f6061464] (1) LR must report every 12 months—
+**6.**[^c-86a2cfe4489ab871c6314db3f6061464] (1) LR must report every 12 months—
 
 - (a) to the appropriate agency, the data specified in paragraph 11 of Schedule 4; and
 - (b) to the Environment Agency, the data specified in paragraph 14 of Schedule 4,
@@ -79,7 +79,7 @@ which it has collected under paragraph 5(1), or estimated under paragraph 5(3)(b
 
 (2) Regulation 39 applies to LR in relation to information which LR is required to report under sub-paragraph (1), as it applies to a producer in relation to information which the producer is required to report under Chapter 2 of Part 3.
 
-**7.**[^key-58e6d2c391da064a666f5f482ad7816d] For the purposes of paragraphs 3 to 6, the packaging specified in this paragraph is—
+**7.**[^c-58e6d2c391da064a666f5f482ad7816d] For the purposes of paragraphs 3 to 6, the packaging specified in this paragraph is—
 
 - (a) packaging that bears, or for goods that bear, a trade mark of LR, where a licence to use that trade mark has been granted to LR’s licensees under their licence agreement;
 - (b) packaging for goods supplied by a licensee, where the licensee has been required by its licence agreement to purchase—
@@ -90,7 +90,7 @@ which it has collected under paragraph 5(1), or estimated under paragraph 5(3)(b
 
 ### PART 2 — Pub Operating Businesses
 
-#### 8. Meaning of “pub operating agreement”, “pub operating business” and “tenant”[^key-34c1e37f0d9ff524e0c41d2225dfcbf1]
+#### 8. Meaning of “pub operating agreement”, “pub operating business” and “tenant”[^c-34c1e37f0d9ff524e0c41d2225dfcbf1]
 
 (1) In this Part of this Schedule—
 
@@ -109,13 +109,13 @@ which it has collected under paragraph 5(1), or estimated under paragraph 5(3)(b
   - (ii) in Scotland, for the sale by retail or supply of alcohol for consumption on the premises or both on and off the premises;
   - (iii) in Northern Ireland, for the sale of intoxicating liquor by retail for consumption either in or off the premises, or for consumption off the premises.
 
-#### 9. Obligations of pub operating businesses[^key-ea18b5cae506c377bcca56d0a1d14b0d]
+#### 9. Obligations of pub operating businesses[^c-ea18b5cae506c377bcca56d0a1d14b0d]
 
 (1) A pub operating business (“**PB**”) has the obligations set out in paragraphs 12 and 13, where the case in paragraph 10 or the case in paragraph 11 applies.
 
 (2) Where the case in paragraph 11 applies, PB’s obligations under paragraphs 12 and 13 are in addition to PB’s producer responsibility obligations.
 
-**10.**[^key-32c7c738540034949348fc05727a0f9b] The case in this paragraph is that—
+**10.**[^c-32c7c738540034949348fc05727a0f9b] The case in this paragraph is that—
 
 - (a) PB—
   - (i) is a producer, and has a turnover which meets the criterion in regulation 24(2)(a); but
@@ -123,13 +123,13 @@ which it has collected under paragraph 5(1), or estimated under paragraph 5(3)(b
 - (b) one or more of PB’s tenants are producers, but do not have producer responsibility obligations because they do not meet one or both of the criteria in regulation 24(2); and
 - (c) the total amount of packaging specified in paragraph 14 which is supplied by PB and the tenants referred to in sub-paragraph (b) meets the criterion in regulation 24(2)(b).
 
-**11.**[^key-6a6f975224bf1c9c6c389820e7f9f42a] The case in this paragraph is that—
+**11.**[^c-6a6f975224bf1c9c6c389820e7f9f42a] The case in this paragraph is that—
 
 - (a) PB is a producer and has producer responsibility obligations;
 - (b) one or more of PB’s tenants are producers, but do not have producer responsibility obligations because they do not satisfy one or both of the criteria in regulation 24(2);
 - (c) the total amount of packaging specified in paragraph 14 which is supplied by the tenants referred to in sub-paragraph (b) meets the criterion in regulation 24(2)(b).
 
-**12.**[^key-026a85b3b94bcc945f0cc8539d7e82e2] (1) Where PB has obligations under this Part, PB must collect the data referred to in sub-paragraph (2) in relation to packaging specified in paragraph 14 which are supplied by—
+**12.**[^c-026a85b3b94bcc945f0cc8539d7e82e2] (1) Where PB has obligations under this Part, PB must collect the data referred to in sub-paragraph (2) in relation to packaging specified in paragraph 14 which are supplied by—
 
 - (a) PB and the tenants referred to in paragraph 10(b), where the case in paragraph 10 applies; or
 - (b) the tenants referred to in paragraph 11(b), where the case in paragraph 11 applies.
@@ -146,7 +146,7 @@ which it has collected under paragraph 5(1), or estimated under paragraph 5(3)(b
 
 (4) PB must keep the data collected under sub-paragraph (1) and a record of any estimates made under paragraph (3)(b) for at least 7 years after the end of the reporting period to which the data relate.
 
-**13.**[^key-5a2a83e2ae3fc9a521ac26a29668c3ed] (1) PB must report every 12 months—
+**13.**[^c-5a2a83e2ae3fc9a521ac26a29668c3ed] (1) PB must report every 12 months—
 
 - (a) to the appropriate agency, the data specified in paragraph 11 of Schedule 4; and
 - (b) to the Environment Agency, the data specified in paragraph 14 of Schedule 4,
@@ -155,11 +155,11 @@ which it has collected under paragraph 12(1) or estimated under paragraph 12(3)(
 
 (2) Regulation 39 applies to PB in relation to information which PB is required to report under sub-paragraph (1), as it applies to a producer in relation to information which the producer is required to report under Chapter 2 of Part 3.
 
-**14.**[^key-c978b762299be129f841a126cb41f944] For the purposes of paragraphs 10 to 13, the packaging specified in this paragraph is packaging for goods that a tenant is required by their pub operating agreement to purchase from PB or from a person nominated or authorised by PB.
+**14.**[^c-c978b762299be129f841a126cb41f944] For the purposes of paragraphs 10 to 13, the packaging specified in this paragraph is packaging for goods that a tenant is required by their pub operating agreement to purchase from PB or from a person nominated or authorised by PB.
 
 ### PART 3 — Interpretation
 
-#### 15. Interpretation of this Schedule[^key-02e90fec28af0e4715de87696d482b96]
+#### 15. Interpretation of this Schedule[^c-02e90fec28af0e4715de87696d482b96]
 
 (1) In Parts 1 and 2 of this Schedule—
 
@@ -185,35 +185,35 @@ which it has collected under paragraph 12(1) or estimated under paragraph 12(3)(
 
 ## Annotations
 
-[^key-c19e44447783505de6f8a1d3e8a09c25]: Commencement: Sch. 10 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c19e44447783505de6f8a1d3e8a09c25]: Commencement: Sch. 10 para. 1 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-ea240d8d6336a51826c2adf50ae282ab]: Commencement: Sch. 10 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-ea240d8d6336a51826c2adf50ae282ab]: Commencement: Sch. 10 para. 2 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-e375e8a67ae8c46698140f15313a3c0a]: Commencement: Sch. 10 para. 3 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e375e8a67ae8c46698140f15313a3c0a]: Commencement: Sch. 10 para. 3 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-7d11eb263cd40359314a0b4dd7e5c5cc]: Commencement: Sch. 10 para. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-7d11eb263cd40359314a0b4dd7e5c5cc]: Commencement: Sch. 10 para. 4 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-d2aa7ce6cffb30464620be7ec27ecad2]: Commencement: Sch. 10 para. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d2aa7ce6cffb30464620be7ec27ecad2]: Commencement: Sch. 10 para. 5 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-86a2cfe4489ab871c6314db3f6061464]: Commencement: Sch. 10 para. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-86a2cfe4489ab871c6314db3f6061464]: Commencement: Sch. 10 para. 6 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-58e6d2c391da064a666f5f482ad7816d]: Commencement: Sch. 10 para. 7 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-58e6d2c391da064a666f5f482ad7816d]: Commencement: Sch. 10 para. 7 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-34c1e37f0d9ff524e0c41d2225dfcbf1]: Commencement: Sch. 10 para. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-34c1e37f0d9ff524e0c41d2225dfcbf1]: Commencement: Sch. 10 para. 8 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-ea18b5cae506c377bcca56d0a1d14b0d]: Commencement: Sch. 10 para. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-ea18b5cae506c377bcca56d0a1d14b0d]: Commencement: Sch. 10 para. 9 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-32c7c738540034949348fc05727a0f9b]: Commencement: Sch. 10 para. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-32c7c738540034949348fc05727a0f9b]: Commencement: Sch. 10 para. 10 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-6a6f975224bf1c9c6c389820e7f9f42a]: Commencement: Sch. 10 para. 11 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-6a6f975224bf1c9c6c389820e7f9f42a]: Commencement: Sch. 10 para. 11 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-026a85b3b94bcc945f0cc8539d7e82e2]: Commencement: Sch. 10 para. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-026a85b3b94bcc945f0cc8539d7e82e2]: Commencement: Sch. 10 para. 12 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-5a2a83e2ae3fc9a521ac26a29668c3ed]: Commencement: Sch. 10 para. 13 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-5a2a83e2ae3fc9a521ac26a29668c3ed]: Commencement: Sch. 10 para. 13 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-c978b762299be129f841a126cb41f944]: Commencement: Sch. 10 para. 14 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c978b762299be129f841a126cb41f944]: Commencement: Sch. 10 para. 14 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-02e90fec28af0e4715de87696d482b96]: Commencement: Sch. 10 para. 15 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-02e90fec28af0e4715de87696d482b96]: Commencement: Sch. 10 para. 15 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
 [^f00085]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17). Section 191 was amended by section 135 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3) and [S.I. 2006/2407](https://www.legislation.gov.uk/uksi/2006/2407).
 

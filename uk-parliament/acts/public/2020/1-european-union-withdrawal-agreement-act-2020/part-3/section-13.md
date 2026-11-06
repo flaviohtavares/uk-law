@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Co-ordination of social security systems[^key-6216ab34f24ae18d7d88cf92392824e3]
+## 13. Co-ordination of social security systems[^c-6216ab34f24ae18d7d88cf92392824e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6216ab34f24ae18d7d88cf92392824e3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/1/section/13) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/e)
+[^c-6216ab34f24ae18d7d88cf92392824e3]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2020/1/section/13) in force at 19.5.2020 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/e)

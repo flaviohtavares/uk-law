@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Procedure at misconduct proceedings[^key-9ea1c914e95841fdd718bf166036ec22]
+## 41. Procedure at misconduct proceedings[^c-9ea1c914e95841fdd718bf166036ec22]
 
 *Extent: E+W*
 
@@ -72,7 +72,7 @@ failed to mention any fact relied on in the officer's case at the misconduct pro
 
 (14) Where this paragraph applies, the person or persons conducting the misconduct proceedings may draw such inferences from the failure as appear proper.
 
-(14A)[^key-e219ae0755e4e4b1ccfbb0f9ecb76a6e] The advice provided by the legally qualified person under regulation 28(5D) must be given to all parties to the misconduct hearing.
+(14A)[^c-e219ae0755e4e4b1ccfbb0f9ecb76a6e] The advice provided by the legally qualified person under regulation 28(5D) must be given to all parties to the misconduct hearing.
 
 (14B) In paragraph (14A) “**parties**” means the panel of persons constituted in accordance with regulation 28, any person to whom responsibility for chairing the misconduct hearing has been delegated under regulation 2(4A), the appropriate authority or, as the case may be, the originating authority, the officer concerned, the representatives of the officer concerned and, where the Director General is presenting the case, the Director General.
 
@@ -92,6 +92,6 @@ failed to mention any fact relied on in the officer's case at the misconduct pro
 
 ## Annotations
 
-[^key-9ea1c914e95841fdd718bf166036ec22]: Commencement: Reg. 41 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-9ea1c914e95841fdd718bf166036ec22]: Commencement: Reg. 41 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-e219ae0755e4e4b1ccfbb0f9ecb76a6e]: Textual amendment: Reg. 41(14A)(14B) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-e219ae0755e4e4b1ccfbb0f9ecb76a6e]: Textual amendment: Reg. 41(14A)(14B) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/8) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

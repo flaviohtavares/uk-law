@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 262. Acquisition of land by agreement for planning purposes[^key-740f9d9d56a24001ad54a2edb8542807]
+## 262. Acquisition of land by agreement for planning purposes[^c-740f9d9d56a24001ad54a2edb8542807]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-740f9d9d56a24001ad54a2edb8542807]: Commencement: S. 262 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-740f9d9d56a24001ad54a2edb8542807]: Commencement: S. 262 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Particulars of application[^key-13326b3a0a98635c1ad38c1e2b004e41]
+## 6. Particulars of application[^c-13326b3a0a98635c1ad38c1e2b004e41]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13326b3a0a98635c1ad38c1e2b004e41]: Commencement: Reg. 6 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-13326b3a0a98635c1ad38c1e2b004e41]: Commencement: Reg. 6 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

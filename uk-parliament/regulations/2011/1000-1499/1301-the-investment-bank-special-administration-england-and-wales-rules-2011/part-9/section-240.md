@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 240. Form and contents of application[^key-3247a3974a732db3ad7d32fb1cab4c39]
+## 240. Form and contents of application[^c-3247a3974a732db3ad7d32fb1cab4c39]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3247a3974a732db3ad7d32fb1cab4c39]: Commencement: [Rule 240](https://www.legislation.gov.uk/uksi/2011/1301/rule/240) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-3247a3974a732db3ad7d32fb1cab4c39]: Commencement: [Rule 240](https://www.legislation.gov.uk/uksi/2011/1301/rule/240) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

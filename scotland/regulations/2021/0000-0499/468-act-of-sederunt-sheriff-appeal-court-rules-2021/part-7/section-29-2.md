@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.2. Form of application for new trial[^key-7dfe70ffca79569f36340dd683f01dd3]
+## 29.2. Form of application for new trial[^c-7dfe70ffca79569f36340dd683f01dd3]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dfe70ffca79569f36340dd683f01dd3]: Commencement: Para. 29.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-7dfe70ffca79569f36340dd683f01dd3]: Commencement: Para. 29.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

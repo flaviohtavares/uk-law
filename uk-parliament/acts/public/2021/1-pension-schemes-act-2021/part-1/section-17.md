@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Continuity strategy requirement[^c24458221][^key-591f9337c05b7e709d1a90b986bdbe2a]
+## 17. Continuity strategy requirement[^c24458221][^c-591f9337c05b7e709d1a90b986bdbe2a]
 
 *Extent: E+W+S*
 
 (1) This section applies for the purposes of enabling the Pensions Regulator to decide whether it is satisfied that a collective money purchase scheme has an adequate continuity strategy (see section 9(3)(f)).
 
-(2)[^key-5f073cc878c7cc3efd4c8fdf4c54099b] A document addressing how the interests of members of the scheme are to be protected if a triggering event (see section 31) occurs in relation to the scheme (a “continuity strategy”) must be prepared by—
+(2)[^c-5f073cc878c7cc3efd4c8fdf4c54099b] A document addressing how the interests of members of the scheme are to be protected if a triggering event (see section 31) occurs in relation to the scheme (a “continuity strategy”) must be prepared by—
 
 - (a) where the scheme is a single or connected employer scheme, the trustees of the scheme;
 - (b) where the scheme is an unconnected multiple employer scheme, the scheme proprietor.
@@ -36,19 +36,19 @@ summary: ''
 - (a) contain such other information as may be specified in regulations made by the Secretary of State, and
 - (b) be prepared in accordance with regulations made by the Secretary of State.
 
-(6) The trustees of a single or connected employer scheme[^key-7658ac9afdc4abfb30569357750e18d2] must—
+(6) The trustees of a single or connected employer scheme[^c-7658ac9afdc4abfb30569357750e18d2] must—
 
 - (a) keep the continuity strategy under review, and
 - (b) revise it if appropriate.
 
-(6A)[^key-34f1e6a72aa3556ec82442ae2422a70b] The scheme proprietor of an unconnected multiple employer scheme must—
+(6A)[^c-34f1e6a72aa3556ec82442ae2422a70b] The scheme proprietor of an unconnected multiple employer scheme must—
 
 - (a) keep the continuity strategy under review, and
 - (b) revise it if appropriate.
 
 (6B) The continuity strategy of an unconnected multiple employer scheme, and any revisions to it, must be approved by the trustees of the scheme.
 
-(7)[^key-86032127530e8e177f31e2af5463b5cb] The continuity strategy must be provided to the Pensions Regulator in accordance with subsection (7A)—
+(7)[^c-86032127530e8e177f31e2af5463b5cb] The continuity strategy must be provided to the Pensions Regulator in accordance with subsection (7A)—
 
 - (a) where the scheme is a single or connected employer scheme, by the trustees;
 - (b) where the scheme is an unconnected multiple employer scheme, by the scheme proprietor.
@@ -69,12 +69,12 @@ summary: ''
 
 [^c24458221]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/1/section/17) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-591f9337c05b7e709d1a90b986bdbe2a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/1/section/17) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-591f9337c05b7e709d1a90b986bdbe2a]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2021/1/section/17) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
 
-[^key-5f073cc878c7cc3efd4c8fdf4c54099b]: Textual amendment: [S. 17(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/2) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/a)
+[^c-5f073cc878c7cc3efd4c8fdf4c54099b]: Textual amendment: [S. 17(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/2) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(a)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/a)
 
-[^key-7658ac9afdc4abfb30569357750e18d2]: Textual amendment: Words in [s. 17(6)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/6) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/b)
+[^c-7658ac9afdc4abfb30569357750e18d2]: Textual amendment: Words in [s. 17(6)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/6) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(b)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/b)
 
-[^key-34f1e6a72aa3556ec82442ae2422a70b]: Textual amendment: [S. 17(6A)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/6B) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/c)
+[^c-34f1e6a72aa3556ec82442ae2422a70b]: Textual amendment: [S. 17(6A)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/6B) inserted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(c)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/c)
 
-[^key-86032127530e8e177f31e2af5463b5cb]: Textual amendment: [S. 17(7)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/7)[(7A)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/7A) substituted for [s. 17(7)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/7) (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(d)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/d)
+[^c-86032127530e8e177f31e2af5463b5cb]: Textual amendment: [S. 17(7)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/7)[(7A)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/7A) substituted for [s. 17(7)](https://www.legislation.gov.uk/ukpga/2021/1/section/17/7) (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [11(d)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/11/d)

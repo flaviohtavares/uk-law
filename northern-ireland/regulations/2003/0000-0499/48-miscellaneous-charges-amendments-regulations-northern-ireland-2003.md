@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-Miscellaneous Charges (Amendments) Regulations (Northern Ireland) 2003 (revoked)[^key-0f8a323151631fe458aef4887490fdd5]
+Miscellaneous Charges (Amendments) Regulations (Northern Ireland) 2003 (revoked)[^c-0f8a323151631fe458aef4887490fdd5]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 3rd March 2003
 
-[^key-0f8a323151631fe458aef4887490fdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f8a323151631fe458aef4887490fdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0f8a323151631fe458aef4887490fdd5]
+## 1. Citation, commencement and interpretation[^c-0f8a323151631fe458aef4887490fdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the Travelling Expenses Regulations[^key-0f8a323151631fe458aef4887490fdd5]
+## 2. Amendment of regulation 2 of the Travelling Expenses Regulations[^c-0f8a323151631fe458aef4887490fdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1 to the Travelling Expenses Regulations[^key-0f8a323151631fe458aef4887490fdd5]
+## 3. Amendment of Schedule 1 to the Travelling Expenses Regulations[^c-0f8a323151631fe458aef4887490fdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 1 of the Dental Charges Regulations[^key-0f8a323151631fe458aef4887490fdd5]
+## 4. Amendment of regulation 1 of the Dental Charges Regulations[^c-0f8a323151631fe458aef4887490fdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. New regulation 8A inserted into Dental Charges Regulations[^key-0f8a323151631fe458aef4887490fdd5]
+## 5. New regulation 8A inserted into Dental Charges Regulations[^c-0f8a323151631fe458aef4887490fdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Schedule 2 to the Dental Charges Regulations[^key-0f8a323151631fe458aef4887490fdd5]
+## 6. Amendment of Schedule 2 to the Dental Charges Regulations[^c-0f8a323151631fe458aef4887490fdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f8a323151631fe458aef4887490fdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f8a323151631fe458aef4887490fdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f8a323151631fe458aef4887490fdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f8a323151631fe458aef4887490fdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f8a323151631fe458aef4887490fdd5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/48) revoked (6.4.2004) by [Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004 (S.R. 2004/91)](https://www.legislation.gov.uk/nisr/2004/91), [reg. 1](https://www.legislation.gov.uk/nisr/2004/91/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/91/schedule/2)
+[^c-0f8a323151631fe458aef4887490fdd5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/48) revoked (6.4.2004) by [Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004 (S.R. 2004/91)](https://www.legislation.gov.uk/nisr/2004/91), [reg. 1](https://www.legislation.gov.uk/nisr/2004/91/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/91/schedule/2)

@@ -16,44 +16,44 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Constitution of the agency[^key-80ea595f518fdde88ef9bb7306d12003]
+## SCHEDULE 17 — Constitution of the agency[^c-80ea595f518fdde88ef9bb7306d12003]
 
 *Extent: E+W+S+N.I.*
 
 Section 158(2).
 
-### ...[^key-80ea595f518fdde88ef9bb7306d12003]
+### ...[^c-80ea595f518fdde88ef9bb7306d12003]
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ea595f518fdde88ef9bb7306d12003] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80ea595f518fdde88ef9bb7306d12003]: Textual amendment: Schs. 17-20 repealed (1.12.2008 except for the repeal of Schs. 17, 18, 1.4.2009 in so far as not already in force) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/63/2/b), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(2)](https://www.legislation.gov.uk/uksi/2009/803/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2009/803/article/3/3), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)
+[^c-80ea595f518fdde88ef9bb7306d12003]: Textual amendment: Schs. 17-20 repealed (1.12.2008 except for the repeal of Schs. 17, 18, 1.4.2009 in so far as not already in force) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 63(2)(b)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/63/2/b), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2009/803](https://www.legislation.gov.uk/uksi/2009/803), [arts. 3(2)](https://www.legislation.gov.uk/uksi/2009/803/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2009/803/article/3/3), [10](https://www.legislation.gov.uk/uksi/2009/803/article/10)

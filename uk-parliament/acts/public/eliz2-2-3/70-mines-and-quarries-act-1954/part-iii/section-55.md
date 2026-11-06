@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Duty to provide adequate ventilation.[^key-7fbd3798dde6f8eda284d18c0dd6ae84]
+## 55. Duty to provide adequate ventilation.[^c-7fbd3798dde6f8eda284d18c0dd6ae84]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fbd3798dde6f8eda284d18c0dd6ae84]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/55) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-7fbd3798dde6f8eda284d18c0dd6ae84]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/70/section/55) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

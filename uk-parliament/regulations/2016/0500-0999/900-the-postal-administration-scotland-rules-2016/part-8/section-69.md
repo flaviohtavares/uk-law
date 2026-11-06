@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Hand-over of assets to successor postal administrator[^key-0217636134f7987060e62db363c70048]
+## 69. Hand-over of assets to successor postal administrator[^c-0217636134f7987060e62db363c70048]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0217636134f7987060e62db363c70048]: Commencement: Rule 69 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-0217636134f7987060e62db363c70048]: Commencement: Rule 69 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

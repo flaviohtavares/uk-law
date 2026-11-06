@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 213. Decision under section 212(1): review[^key-c116e94ccecff26d138c07fce334e949]
+## 213. Decision under section 212(1): review[^c-c116e94ccecff26d138c07fce334e949]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c116e94ccecff26d138c07fce334e949]: Commencement: S. 213 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c116e94ccecff26d138c07fce334e949]: Commencement: S. 213 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

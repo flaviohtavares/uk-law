@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Further provision about service of purchase notice[^key-9c66f6a2881c3fcba9ab2e7b551d6218][^key-f60cbc788e8a06f1699f199470d5817a]
+## 111. Further provision about service of purchase notice[^c-9c66f6a2881c3fcba9ab2e7b551d6218][^c-f60cbc788e8a06f1699f199470d5817a]
 
 *Extent: E+W*
 
@@ -46,15 +46,15 @@ summary: ''
   - (i) by a planning authority when it serves the notice required by section 12 of the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67);
   - (ii) by the Welsh Ministers when they serve the notice required by paragraph 3(1) of Schedule 1 to that Act;
 - (b) a compulsory acquisition is discontinued—
-  - (i) in the case of an acquisition by a planning authority, when the compulsory purchase order is withdrawn or the Welsh Ministers decide not to confirm it or (having been confirmed conditionally) it expires by virtue of section 13BA(2)(b) of the Acquisition of Land Act 1981[^key-3cbfa99266fa3c71184e0999581fa54f];
-  - (ii) in the case of an acquisition by the Welsh Ministers, when they decide not to make the compulsory purchase order or the order (having been made conditionally) expires by virtue of paragraph 4AA(2) of Schedule 1 to that Act[^key-ff47b54b245d8b9344c6ebe28891f729].
+  - (i) in the case of an acquisition by a planning authority, when the compulsory purchase order is withdrawn or the Welsh Ministers decide not to confirm it or (having been confirmed conditionally) it expires by virtue of section 13BA(2)(b) of the Acquisition of Land Act 1981[^c-3cbfa99266fa3c71184e0999581fa54f];
+  - (ii) in the case of an acquisition by the Welsh Ministers, when they decide not to make the compulsory purchase order or the order (having been made conditionally) expires by virtue of paragraph 4AA(2) of Schedule 1 to that Act[^c-ff47b54b245d8b9344c6ebe28891f729].
 
 ## Annotations
 
-[^key-9c66f6a2881c3fcba9ab2e7b551d6218]: Commencement: S. 111 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-9c66f6a2881c3fcba9ab2e7b551d6218]: Commencement: S. 111 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f60cbc788e8a06f1699f199470d5817a]: Commencement: [S. 111](https://www.legislation.gov.uk/asc/2023/3/section/111) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-f60cbc788e8a06f1699f199470d5817a]: Commencement: [S. 111](https://www.legislation.gov.uk/asc/2023/3/section/111) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
 
-[^key-3cbfa99266fa3c71184e0999581fa54f]: Textual amendment: Words in s. 111(8)(b)(i) inserted (18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 7(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/7/a/i) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-3cbfa99266fa3c71184e0999581fa54f]: Textual amendment: Words in s. 111(8)(b)(i) inserted (18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 7(a)(i)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/7/a/i) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
 
-[^key-ff47b54b245d8b9344c6ebe28891f729]: Textual amendment: Words in s. 111(8)(b)(ii) inserted (18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 7(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/7/a/ii) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)
+[^c-ff47b54b245d8b9344c6ebe28891f729]: Textual amendment: Words in s. 111(8)(b)(ii) inserted (18.2.2026 for specified purposes) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7), [Sch. 18 para. 7(a)(ii)](https://www.legislation.gov.uk/ukpga/2023/55/schedule/18/paragraph/7/a/ii) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/1/c)[(2)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/2/2)

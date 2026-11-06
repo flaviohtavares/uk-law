@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if the Secretary of State thinks, in the light of a report made under section 33 on the operation of a pilot order under section 32, that it would be desirable for provision similar to that made by the order to apply generally, and on a permanent basis, in relation to—
 
 - (a) parliamentary elections;
-- (b) local government elections in England [^key-a029b9d6f8da679ba7b6854459004113]...;
+- (b) local government elections in England [^c-a029b9d6f8da679ba7b6854459004113]...;
 - (c) any description of election falling within paragraph (a) or (b).
 
 (2) The Secretary of State may by order make provision for the purposes of enabling ballot papers issued at such elections (mentioned in subsection (1)) as are specified in the order to contain photographs of the candidates.
@@ -52,4 +52,4 @@ summary: ''
 
 [^c18996801]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2006/22/section/34) wholly in force at 1.1.2007; [s. 34](https://www.legislation.gov.uk/ukpga/2006/22/section/34) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [s. 34](https://www.legislation.gov.uk/ukpga/2006/22/section/34) in force at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1), (subject to transitional provisions in Schedule 2)
 
-[^key-a029b9d6f8da679ba7b6854459004113]: Textual amendment: Words in [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2006/22/section/34/1/b) omitted (E.W.) (10.9.2024) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/4/3)
+[^c-a029b9d6f8da679ba7b6854459004113]: Textual amendment: Words in [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2006/22/section/34/1/b) omitted (E.W.) (10.9.2024) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/4/3)

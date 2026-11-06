@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Breach of the disclosure and acknowledgment provisions[^key-2939e1ff76bf0a75272b19b5a72282a0]
+## 62. Breach of the disclosure and acknowledgment provisions[^c-2939e1ff76bf0a75272b19b5a72282a0]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ A breach of the disclosure and acknowledgment provisions occurs where—
 
 ## Annotations
 
-[^key-2939e1ff76bf0a75272b19b5a72282a0]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/uksi/2012/2079/regulation/62) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/139/regulation/13)
+[^c-2939e1ff76bf0a75272b19b5a72282a0]: Textual amendment: [Reg. 62](https://www.legislation.gov.uk/uksi/2012/2079/regulation/62) substituted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [13](https://www.legislation.gov.uk/uksi/2013/139/regulation/13)

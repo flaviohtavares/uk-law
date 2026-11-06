@@ -24,7 +24,7 @@ Section 34
 
 ### Transfer schemes
 
-**1.**[^key-a87981f4cf32330c6d3d171d912bb18f] (1) This paragraph amends paragraph 2 of Schedule 2 to the Water Industry Act 1991 (transfer schemes).
+**1.**[^c-a87981f4cf32330c6d3d171d912bb18f] (1) This paragraph amends paragraph 2 of Schedule 2 to the Water Industry Act 1991 (transfer schemes).
 
 (2) In sub-paragraph (1) omit “and, in relation to the matters affecting them, of any other appointees”.
 
@@ -32,11 +32,11 @@ Section 34
 
 (4) In sub-paragraph (4) for “, the new appointee and, in relation to the provisions of the order which affect them, any other appointees” substitute “ and the new appointee ”.
 
-**2.**[^key-e341e319cdb85509b292fcd28238698e] At the end of paragraph 3(2)(b) of Schedule 2 add “ (but may not impose new liabilities on any other appointee); ”.
+**2.**[^c-e341e319cdb85509b292fcd28238698e] At the end of paragraph 3(2)(b) of Schedule 2 add “ (but may not impose new liabilities on any other appointee); ”.
 
 ### Objectives
 
-**3.**[^key-2ea6e066500497f56159b7942417ed02][^key-351c871bc478d061077ddf10309a5a05] After section 23(2A) of the Water Industry Act 1991 (special administration order: effect) insert—
+**3.**[^c-2ea6e066500497f56159b7942417ed02][^c-351c871bc478d061077ddf10309a5a05] After section 23(2A) of the Water Industry Act 1991 (special administration order: effect) insert—
 
 > (2B) Where a company is in special administration as a result of an order made on the grounds that the company is or is likely to be unable to pay its debts—
 >
@@ -70,7 +70,7 @@ Section 34
 
 ### Financial assistance
 
-**4.**[^key-c582298c62745cefe1fee733c222b1e3] (1) This paragraph amends sections 153 and 154 of the Water Industry Act 1991 (government financial assistance where special administration order made).
+**4.**[^c-c582298c62745cefe1fee733c222b1e3] (1) This paragraph amends sections 153 and 154 of the Water Industry Act 1991 (government financial assistance where special administration order made).
 
 (2) For section 153(1)(b) substitute—
 
@@ -102,7 +102,7 @@ Section 34
 
 ### Hive down
 
-**5.**[^key-7d3aadbf034119692fd2a2137ba39677][^key-6b0ea88ccf57d0fb55a9d44fec229598] (1) In section 23 of the Water Industry Act 1991 (special administration order) after subsection (2G) (inserted by paragraph 2 above) insert—
+**5.**[^c-7d3aadbf034119692fd2a2137ba39677][^c-6b0ea88ccf57d0fb55a9d44fec229598] (1) In section 23 of the Water Industry Act 1991 (special administration order) after subsection (2G) (inserted by paragraph 2 above) insert—
 
 > (2H) A transfer under subsection (2) or (2A) may be effected by—
 >
@@ -120,7 +120,7 @@ Section 34
 
 ### Application of general administration law
 
-**6.**[^key-ac053bd01eca4f06eb7d07e605313463][^key-3a900ddb38a7df8a69a3fea1beb3a547] (1) For section 23(3) of (and Schedule 3 to) the Water Industry Act 1991 (special administration order: application of Insolvency Act 1986) substitute—
+**6.**[^c-ac053bd01eca4f06eb7d07e605313463][^c-3a900ddb38a7df8a69a3fea1beb3a547] (1) For section 23(3) of (and Schedule 3 to) the Water Industry Act 1991 (special administration order: application of Insolvency Act 1986) substitute—
 
 > (3) Schedule B1 to the Insolvency Act 1986 (administration) applies to special administration (subject to regulations under subsection (3A)).
 >
@@ -148,28 +148,28 @@ Section 34
 
 ### Strategic supplies
 
-**7.**[^key-a8cf1b49eb92fdf4f7ce4f9773afcd78] (1) In section 66G(10) of the Water Industry Act 1991 (designation of strategic supply) after “its own customers” insert “ , and supplies which it is obliged to make under section 66A or 66C, ”.
+**7.**[^c-a8cf1b49eb92fdf4f7ce4f9773afcd78] (1) In section 66G(10) of the Water Industry Act 1991 (designation of strategic supply) after “its own customers” insert “ , and supplies which it is obliged to make under section 66A or 66C, ”.
 
 (2) In section 66H(10) of the Water Industry Act 1991 (designation of collective strategic supply) after “its own customers” insert “ , and supplies which it is obliged to make under section 66A or 66C, ”.
 
 ## Annotations
 
-[^key-a87981f4cf32330c6d3d171d912bb18f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/1) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/694/article/5/3))
+[^c-a87981f4cf32330c6d3d171d912bb18f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/1) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/694/article/5/3))
 
-[^key-e341e319cdb85509b292fcd28238698e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/2) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/694/article/5/3))
+[^c-e341e319cdb85509b292fcd28238698e]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/2) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2011/694/article/5/3))
 
-[^key-2ea6e066500497f56159b7942417ed02]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-2ea6e066500497f56159b7942417ed02]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-351c871bc478d061077ddf10309a5a05]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) in force at 12.1.2024 in so far as not already in force by [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b)
+[^c-351c871bc478d061077ddf10309a5a05]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) in force at 12.1.2024 in so far as not already in force by [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b)
 
-[^key-c582298c62745cefe1fee733c222b1e3]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/4) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j)
+[^c-c582298c62745cefe1fee733c222b1e3]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/4) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j)
 
-[^key-7d3aadbf034119692fd2a2137ba39677]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/5) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-7d3aadbf034119692fd2a2137ba39677]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/5) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-6b0ea88ccf57d0fb55a9d44fec229598]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/5) in force at 12.1.2024 in so far as not already in force by [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b)
+[^c-6b0ea88ccf57d0fb55a9d44fec229598]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/5) in force at 12.1.2024 in so far as not already in force by [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b)
 
-[^key-ac053bd01eca4f06eb7d07e605313463]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/6) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-ac053bd01eca4f06eb7d07e605313463]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/6) in force at 1.10.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-3a900ddb38a7df8a69a3fea1beb3a547]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/6) in force at 15.3.2024 in so far as not already in force by [S.I. 2024/363](https://www.legislation.gov.uk/uksi/2024/363), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/363/article/2/b)
+[^c-3a900ddb38a7df8a69a3fea1beb3a547]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/6) in force at 15.3.2024 in so far as not already in force by [S.I. 2024/363](https://www.legislation.gov.uk/uksi/2024/363), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/363/article/2/b)
 
-[^key-a8cf1b49eb92fdf4f7ce4f9773afcd78]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/7) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j)
+[^c-a8cf1b49eb92fdf4f7ce4f9773afcd78]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/7) in force at 1.4.2011 by [S.I. 2011/694](https://www.legislation.gov.uk/uksi/2011/694), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/694/article/3/j)

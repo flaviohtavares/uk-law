@@ -37,7 +37,7 @@ Made
 
 The Treasury make the following Regulations in exercise of the power conferred by section 86(3) and (4) of the Financial Services and Markets Act 2023[^f00001].
 
-## 1. Citation, extent and interpretation[^key-db983ff1a15376d0679ce855ceb628a4]
+## 1. Citation, extent and interpretation[^c-db983ff1a15376d0679ce855ceb628a4]
 
 (1) These Regulations may be cited as the Financial Services and Markets Act 2023 (Commencement No. 1) Regulations 2023.
 
@@ -45,7 +45,7 @@ The Treasury make the following Regulations in exercise of the power conferred b
 
 (3) In these Regulations, “**the Act**” means the Financial Services and Markets Act 2023.
 
-## 2. Provisions coming into force on the day after these Regulations are made[^key-8324f777beba1c472db3a5e5e9694f5e]
+## 2. Provisions coming into force on the day after these Regulations are made[^c-8324f777beba1c472db3a5e5e9694f5e]
 
 The following provisions of the Act come into force on the day after the day on which these Regulations are made—
 
@@ -63,14 +63,14 @@ The following provisions of the Act come into force on the day after the day on 
   - (vi) Article 15(5);
 - (g) in Part 2 (subordinate legislation) of Schedule 1 (revocation of retained EU law relating to financial services), the revocation of the Money Market Funds Regulations 2018 ([S.I. 2018/698](https://www.legislation.gov.uk/uksi/2018/698)).
 
-## 3. Revocation of retained EU law coming into force on 29th August 2023[^key-bf8ab5cd9930104956d7164a4df56a6c]
+## 3. Revocation of retained EU law coming into force on 29th August 2023[^c-bf8ab5cd9930104956d7164a4df56a6c]
 
 The following provisions of the Act come into force on 29th August 2023—
 
 - (a) section 1(1) (revocation of retained EU law relating to financial services and markets), so far as it relates to the revocations coming into force by virtue of paragraph (b) of this regulation;
 - (b) in Part 2 (subordinate legislation) of Schedule 1 (revocation of retained EU law relating to financial services), the revocation of the provisions of legislation specified in the Schedule to these Regulations.
 
-## 4. Other provisions of the Act coming into force on 29th August 2023[^key-755205e8bd20fcf9d253716c229ae2e1]
+## 4. Other provisions of the Act coming into force on 29th August 2023[^c-755205e8bd20fcf9d253716c229ae2e1]
 
 The following provisions of the Act come into force on 29th August 2023—
 
@@ -165,7 +165,7 @@ The following provisions of the Act come into force on 29th August 2023—
   - (xiv) paragraph 165 (modified application of corporate law to CCPs in resolution);
 - (eee) Schedule 14 (credit unions).
 
-## 5. Provisions coming into force on 1st January 2024[^key-46bc29c62a3389586003583e483b372b]
+## 5. Provisions coming into force on 1st January 2024[^c-46bc29c62a3389586003583e483b372b]
 
 The following provisions of the Act come into force on 1st January 2024—
 
@@ -194,11 +194,11 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 10th July 2023
 
-## SCHEDULE — Retained EU law relating to financial services and markets revoked on 29th August 2023[^key-251515a5627b85677070a94d63e76a89]
+## SCHEDULE — Retained EU law relating to financial services and markets revoked on 29th August 2023[^c-251515a5627b85677070a94d63e76a89]
 
 Regulation 3
 
-[^key-251515a5627b85677070a94d63e76a89]
+[^c-251515a5627b85677070a94d63e76a89]
 
 - Financial Markets and Insolvency (Settlement Finality) (Revocation) Regulations 2001 ([S.I. 2001/1349](https://www.legislation.gov.uk/uksi/2001/1349))
 - Financial Services (EEA Passport Rights) Regulations 2001 ([S.I. 2001/1376](https://www.legislation.gov.uk/uksi/2001/1376))
@@ -241,7 +241,7 @@ Regulation 3
 - Undertakings for Collective Investment in Transferable Securities (Amendment) Regulations 2012 (S.I 2012/2015)
 - Prospectus Regulations 2013 ([S.I. 2013/1125](https://www.legislation.gov.uk/uksi/2013/1125))
 - Financial Conglomerates and Other Financial Groups (Amendment) Regulations 2013 ([S.I. 2013/1162](https://www.legislation.gov.uk/uksi/2013/1162))
-- [^key-4a7305f8de97f2195eeb20ec2b679f98]...
+- [^c-4a7305f8de97f2195eeb20ec2b679f98]...
 - Companies and Partnerships (Accounts and Audit) Regulations 2013 ([S.I. 2013/2005](https://www.legislation.gov.uk/uksi/2013/2005))
 - Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) (Amendment) Regulations 2014 ([S.I. 2014/905](https://www.legislation.gov.uk/uksi/2014/905))
 - Financial Services and Markets Act 2000 (Market Abuse) Regulations 2014 ([S.I. 2014/3081](https://www.legislation.gov.uk/uksi/2014/3081))
@@ -341,15 +341,15 @@ An impact assessment has not been published for these Regulations as they have n
 
 [^f00001]: Footnote: [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29).
 
-[^key-db983ff1a15376d0679ce855ceb628a4]: Commencement: Reg. 1 in force at made date
+[^c-db983ff1a15376d0679ce855ceb628a4]: Commencement: Reg. 1 in force at made date
 
-[^key-8324f777beba1c472db3a5e5e9694f5e]: Commencement: Reg. 2 in force at made date
+[^c-8324f777beba1c472db3a5e5e9694f5e]: Commencement: Reg. 2 in force at made date
 
 [^f00002]: Footnote: EUR 2020/852; Articles 10(6), 11(6), 12(5), 13(5), 14(5) and 15(5) were substituted by [S.I. 2020/1385](https://www.legislation.gov.uk/uksi/2020/1385).
 
-[^key-bf8ab5cd9930104956d7164a4df56a6c]: Commencement: Reg. 3 in force at made date
+[^c-bf8ab5cd9930104956d7164a4df56a6c]: Commencement: Reg. 3 in force at made date
 
-[^key-755205e8bd20fcf9d253716c229ae2e1]: Commencement: Reg. 4 in force at made date
+[^c-755205e8bd20fcf9d253716c229ae2e1]: Commencement: Reg. 4 in force at made date
 
 [^f00003]: Footnote: [2008 c. 27](https://www.legislation.gov.uk/ukpga/2008/27).
 
@@ -357,7 +357,7 @@ An impact assessment has not been published for these Regulations as they have n
 
 [^f00005]: Footnote: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).
 
-[^key-46bc29c62a3389586003583e483b372b]: Commencement: Reg. 5 in force at made date
+[^c-46bc29c62a3389586003583e483b372b]: Commencement: Reg. 5 in force at made date
 
 [^f00006]: Footnote: EUR 575/2013; Article 92b was amended by [S.I. 2019/1232](https://www.legislation.gov.uk/uksi/2019/1232).
 
@@ -365,6 +365,6 @@ An impact assessment has not been published for these Regulations as they have n
 
 [^f00008]: Footnote: EUR 2018/480.
 
-[^key-251515a5627b85677070a94d63e76a89]: Commencement: Sch. in force at made date
+[^c-251515a5627b85677070a94d63e76a89]: Commencement: Sch. in force at made date
 
-[^key-4a7305f8de97f2195eeb20ec2b679f98]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule) omitted (26.8.2023) by virtue of [The Financial Services and Markets Act 2023 (Commencement No. 3) (Amendment) Regulations 2023 (S.I. 2023/937)](https://www.legislation.gov.uk/uksi/2023/937), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/937/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/937/regulation/2)
+[^c-4a7305f8de97f2195eeb20ec2b679f98]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule) omitted (26.8.2023) by virtue of [The Financial Services and Markets Act 2023 (Commencement No. 3) (Amendment) Regulations 2023 (S.I. 2023/937)](https://www.legislation.gov.uk/uksi/2023/937), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/937/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2023/937/regulation/2)

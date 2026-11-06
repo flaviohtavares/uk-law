@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Duties of Objective A committee[^key-fd29fc89e2d1c8cc73a4c4aad354aaf4]
+## 29. Duties of Objective A committee[^c-fd29fc89e2d1c8cc73a4c4aad354aaf4]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd29fc89e2d1c8cc73a4c4aad354aaf4]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2011/1301/rule/29) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fd29fc89e2d1c8cc73a4c4aad354aaf4]: Commencement: [Rule 29](https://www.legislation.gov.uk/uksi/2011/1301/rule/29) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

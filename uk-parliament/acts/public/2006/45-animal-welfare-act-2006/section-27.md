@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Inspection in connection with registration[^key-42a633102c8789747a93ed7a668a78fb][^key-d36970a38509a87f3a9ae379cbf6dd76]
+## 27. Inspection in connection with registration[^c-42a633102c8789747a93ed7a668a78fb][^c-d36970a38509a87f3a9ae379cbf6dd76]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42a633102c8789747a93ed7a668a78fb]: Commencement: S. 27 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
+[^c-42a633102c8789747a93ed7a668a78fb]: Commencement: S. 27 in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/uksi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2007/1030/article/2/1/e)
 
-[^key-d36970a38509a87f3a9ae379cbf6dd76]: Commencement: S. 27 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-d36970a38509a87f3a9ae379cbf6dd76]: Commencement: S. 27 in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

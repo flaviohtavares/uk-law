@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Short title[^key-951978b55ee9b62a32c98ecd4aea769b]
+## 56. Short title[^c-951978b55ee9b62a32c98ecd4aea769b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Media Act 2024.
 
 ## Annotations
 
-[^key-951978b55ee9b62a32c98ecd4aea769b]: Commencement: S. 56 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)
+[^c-951978b55ee9b62a32c98ecd4aea769b]: Commencement: S. 56 in force at Royal Assent, see [s. 55(1)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/1/b)

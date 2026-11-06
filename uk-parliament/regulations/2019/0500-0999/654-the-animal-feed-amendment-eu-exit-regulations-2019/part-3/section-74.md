@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74.[^key-0dfb681e830b6c9208ead7baf4809795]
+## 74.[^c-0dfb681e830b6c9208ead7baf4809795]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 12, in both places in which it occurs, for “CRL”, substitute “ 
 
 ## Annotations
 
-[^key-0dfb681e830b6c9208ead7baf4809795]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0dfb681e830b6c9208ead7baf4809795]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

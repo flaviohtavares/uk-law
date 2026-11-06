@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Option not to join scheme[^key-9e43bc448908fa98216b562e92208e4a]
+## 18. Option not to join scheme[^c-9e43bc448908fa98216b562e92208e4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e43bc448908fa98216b562e92208e4a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2336/regulation/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-9e43bc448908fa98216b562e92208e4a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2014/2336/regulation/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

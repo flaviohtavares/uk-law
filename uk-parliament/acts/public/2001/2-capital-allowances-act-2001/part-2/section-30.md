@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Safety at designated sports grounds[^key-e3a360a22419fc9c69db2d8e5c75c65b]
+## 30. Safety at designated sports grounds[^c-e3a360a22419fc9c69db2d8e5c75c65b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3a360a22419fc9c69db2d8e5c75c65b]: Textual amendment: S. 30 repealed (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 33(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/33/a)
+[^c-e3a360a22419fc9c69db2d8e5c75c65b]: Textual amendment: S. 30 repealed (with effect in accordance with Sch. 39 para. 35 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 33(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/33/a)

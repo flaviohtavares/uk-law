@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 346. Provision of false or misleading information to auditor or actuary.[^c2077013][^key-585a4fd487b388829e619ad676ea6686]
+## 346. Provision of false or misleading information to auditor or actuary.[^c2077013][^c-585a4fd487b388829e619ad676ea6686]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^c2077013]: Modification: Ss. 341-346 applied (with modifications) (1.11.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [95](https://www.legislation.gov.uk/uksi/2009/209/regulation/95), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2009/209/schedule/5/paragraph/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3)) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 155(6)(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/155/6/d) (with [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/156)))
 
-[^key-585a4fd487b388829e619ad676ea6686]: Modification: Ss. 341-346 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-585a4fd487b388829e619ad676ea6686]: Modification: Ss. 341-346 applied (with modifications) (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 6 para. 7](https://www.legislation.gov.uk/uksi/2017/752/schedule/6/paragraph/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))

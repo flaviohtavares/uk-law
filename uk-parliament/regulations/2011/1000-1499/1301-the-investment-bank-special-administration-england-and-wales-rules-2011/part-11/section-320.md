@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 320. Confidentiality of documents – grounds for refusing inspection[^key-9e78e95f7acc334c5bcb154c528728be]
+## 320. Confidentiality of documents – grounds for refusing inspection[^c-9e78e95f7acc334c5bcb154c528728be]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the administrator may decline to allow it to be inspected by a person who would 
 
 ## Annotations
 
-[^key-9e78e95f7acc334c5bcb154c528728be]: Commencement: [Rule 320](https://www.legislation.gov.uk/uksi/2011/1301/rule/320) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9e78e95f7acc334c5bcb154c528728be]: Commencement: [Rule 320](https://www.legislation.gov.uk/uksi/2011/1301/rule/320) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

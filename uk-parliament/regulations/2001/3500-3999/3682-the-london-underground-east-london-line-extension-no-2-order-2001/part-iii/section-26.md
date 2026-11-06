@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Extinction or suspension of private rights of way[^key-59856dcce9f76ab73ba10264a9689358]
+## 26. Extinction or suspension of private rights of way[^c-59856dcce9f76ab73ba10264a9689358]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ whichever is sooner.
 
 ## Annotations
 
-[^key-59856dcce9f76ab73ba10264a9689358]: Commencement: Art. 26 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-59856dcce9f76ab73ba10264a9689358]: Commencement: Art. 26 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

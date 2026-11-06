@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131AA. Destruction of seized cryptoassets[^key-f1bf108faa6e6c4061a5e13aa207e7fa][^key-4ab4b1a9edd48528c1df8446858c96f4]
+## 131AA. Destruction of seized cryptoassets[^c-f1bf108faa6e6c4061a5e13aa207e7fa][^c-4ab4b1a9edd48528c1df8446858c96f4]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1bf108faa6e6c4061a5e13aa207e7fa]: Textual amendment: S. 131AA inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/30); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
+[^c-f1bf108faa6e6c4061a5e13aa207e7fa]: Textual amendment: S. 131AA inserted (26.10.2023 for specified purposes, 31.3.2026 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)[(4)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/4/a), [Sch. 8 para. 30](https://www.legislation.gov.uk/ukpga/2023/56/schedule/8/paragraph/30); [S.S.I. 2025/304](https://www.legislation.gov.uk/ssi/2025/304), [reg. 2](https://www.legislation.gov.uk/ssi/2025/304/regulation/2)
 
-[^key-4ab4b1a9edd48528c1df8446858c96f4]: Textual amendment: Ss. 131A-131D and cross-heading inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/59/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-4ab4b1a9edd48528c1df8446858c96f4]: Textual amendment: Ss. 131A-131D and cross-heading inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/59/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Activity licensed by another State[^c2007839][^key-0aa956cecf32536f6001cec84f3e5c4a]
+## 88. Activity licensed by another State[^c2007839][^c-0aa956cecf32536f6001cec84f3e5c4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c2007839]: Commencement: S. 88 partly in force; s. 88 in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-0aa956cecf32536f6001cec84f3e5c4a]: Commencement: S. 88 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-0aa956cecf32536f6001cec84f3e5c4a]: Commencement: S. 88 in force at 6.4.2011 in so far as not already in force by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

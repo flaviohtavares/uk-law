@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**43.**[^key-91d10a6352f34aa0a37c715792fd951c] The National Health Service (Dental Charges) Regulations 2005[^f00010] are amended in accordance with this Part.
+**43.**[^c-91d10a6352f34aa0a37c715792fd951c] The National Health Service (Dental Charges) Regulations 2005[^f00010] are amended in accordance with this Part.
 
 ## Annotations
 
-[^key-91d10a6352f34aa0a37c715792fd951c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2013/364/regulation/43) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-91d10a6352f34aa0a37c715792fd951c]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2013/364/regulation/43) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
 
 [^f00010]: Footnote: [S.I.2005/3477](https://www.legislation.gov.uk/uksi/2005/3477), as amended by [S.I. 2006/1837](https://www.legislation.gov.uk/uksi/2006/1837), [2007/544](https://www.legislation.gov.uk/uksi/2007/544), [2008/547](https://www.legislation.gov.uk/uksi/2008/547), [2009/407](https://www.legislation.gov.uk/uksi/2009/407), [2011/519](https://www.legislation.gov.uk/uksi/2011/519) and [2012/502](https://www.legislation.gov.uk/uksi/2012/502).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Signs: smoke-free premises[^key-2158cda674bba53000e80239f2f10aed][^key-039a23f875761209c6317ba55064ced7]
+## 17. Signs: smoke-free premises[^c-2158cda674bba53000e80239f2f10aed][^c-039a23f875761209c6317ba55064ced7]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ to be imposed on a person, or person of a description, specified in the regulati
 
 ## Annotations
 
-[^key-2158cda674bba53000e80239f2f10aed]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/2/section/17) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/d)
+[^c-2158cda674bba53000e80239f2f10aed]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/2/section/17) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/d)
 
-[^key-039a23f875761209c6317ba55064ced7]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/2/section/17) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-039a23f875761209c6317ba55064ced7]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2017/2/section/17) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

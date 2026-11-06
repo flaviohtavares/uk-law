@@ -62,17 +62,17 @@ Section 67(1).
 
 ### The Radioactive Substances Act 1993 (c. 12)
 
-**6.** In Schedule 3 to the Radioactive Substances Act 1993— *(Extent: S)* *(affected by repeal, see note)*[^key-cdb6bf9b5bb010065d72acbfa2c5998f]
+**6.** In Schedule 3 to the Radioactive Substances Act 1993— *(Extent: S)* *(affected by repeal, see note)*[^c-cdb6bf9b5bb010065d72acbfa2c5998f]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-cdb6bf9b5bb010065d72acbfa2c5998f] for paragraph 2 there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-cdb6bf9b5bb010065d72acbfa2c5998f]
+- (a (Extent: S) (affected by repeal, see note))[^c-cdb6bf9b5bb010065d72acbfa2c5998f] for paragraph 2 there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-cdb6bf9b5bb010065d72acbfa2c5998f]
 
-  > **2 (Extent: S) (affected by repeal, see note).**[^key-cdb6bf9b5bb010065d72acbfa2c5998f] Section 16 of the Clean Air Act 1993. *(Extent: S)* *(affected by repeal, see note)*[^key-cdb6bf9b5bb010065d72acbfa2c5998f]
+  > **2 (Extent: S) (affected by repeal, see note).**[^c-cdb6bf9b5bb010065d72acbfa2c5998f] Section 16 of the Clean Air Act 1993. *(Extent: S)* *(affected by repeal, see note)*[^c-cdb6bf9b5bb010065d72acbfa2c5998f]
 
-  ; and *(Extent: S)* *(affected by repeal, see note)*[^key-cdb6bf9b5bb010065d72acbfa2c5998f]
-- (b (Extent: S) (affected by repeal, see note))[^key-cdb6bf9b5bb010065d72acbfa2c5998f] for paragraph 12 there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^key-cdb6bf9b5bb010065d72acbfa2c5998f]
+  ; and *(Extent: S)* *(affected by repeal, see note)*[^c-cdb6bf9b5bb010065d72acbfa2c5998f]
+- (b (Extent: S) (affected by repeal, see note))[^c-cdb6bf9b5bb010065d72acbfa2c5998f] for paragraph 12 there is substituted— *(Extent: S)* *(affected by repeal, see note)*[^c-cdb6bf9b5bb010065d72acbfa2c5998f]
 
-  > **12 (Extent: S) (affected by repeal, see note).**[^key-cdb6bf9b5bb010065d72acbfa2c5998f] Sections 16 and 17 of the Clean Air Act 1993. *(Extent: S)* *(affected by repeal, see note)*[^key-cdb6bf9b5bb010065d72acbfa2c5998f]
+  > **12 (Extent: S) (affected by repeal, see note).**[^c-cdb6bf9b5bb010065d72acbfa2c5998f] Sections 16 and 17 of the Clean Air Act 1993. *(Extent: S)* *(affected by repeal, see note)*[^c-cdb6bf9b5bb010065d72acbfa2c5998f]
 
 ## Annotations
 
-[^key-cdb6bf9b5bb010065d72acbfa2c5998f]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1993/11/schedule/4/paragraph/6) repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-cdb6bf9b5bb010065d72acbfa2c5998f]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1993/11/schedule/4/paragraph/6) repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))

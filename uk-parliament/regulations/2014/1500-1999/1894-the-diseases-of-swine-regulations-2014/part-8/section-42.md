@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Exceptional circumstances[^key-131215b95c9d44397c941844a37df471]
+## 42. Exceptional circumstances[^c-131215b95c9d44397c941844a37df471]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A veterinary inspector may for the purpose of ensuring the health or welfare of 
 
 ## Annotations
 
-[^key-131215b95c9d44397c941844a37df471]: Commencement: Reg. 42 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-131215b95c9d44397c941844a37df471]: Commencement: Reg. 42 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

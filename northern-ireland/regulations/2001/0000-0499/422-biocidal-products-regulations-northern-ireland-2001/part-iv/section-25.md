@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Co-operation in the use of information[^key-aae4d7d418c254e292e86a27df00a78f]
+## 25. Co-operation in the use of information[^c-aae4d7d418c254e292e86a27df00a78f]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aae4d7d418c254e292e86a27df00a78f]: Commencement: Reg. 25 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-aae4d7d418c254e292e86a27df00a78f]: Commencement: Reg. 25 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

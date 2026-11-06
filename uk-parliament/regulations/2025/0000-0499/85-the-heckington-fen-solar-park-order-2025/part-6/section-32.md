@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Consent to transfer the benefit of the Order[^key-4e855e5e649b8eac069d172f986546d3]
+## 32. Consent to transfer the benefit of the Order[^c-4e855e5e649b8eac069d172f986546d3]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ summary: ''
   - (i) where relevant, a plan showing the works or areas to which the transfer or grant relates; and
   - (ii) a copy of the document effecting the transfer or grant signed by the undertaker and the persons to whom the benefit of the powers will be transferred or granted.
 
-(6) The date specified under sub-paragraph (5)(a)(ii)[^key-a9164d36cf1010187f041062f3de0d88] must not be earlier than the expiry of 14 days from the date of the receipt of the notification.
+(6) The date specified under sub-paragraph (5)(a)(ii)[^c-a9164d36cf1010187f041062f3de0d88] must not be earlier than the expiry of 14 days from the date of the receipt of the notification.
 
 (7) The notification given must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notification.
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e855e5e649b8eac069d172f986546d3]: Commencement: Art. 32 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-4e855e5e649b8eac069d172f986546d3]: Commencement: Art. 32 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-a9164d36cf1010187f041062f3de0d88]: Textual amendment: Words in [art. 32(6)](https://www.legislation.gov.uk/uksi/2025/85/article/32/6) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-a9164d36cf1010187f041062f3de0d88]: Textual amendment: Words in [art. 32(6)](https://www.legislation.gov.uk/uksi/2025/85/article/32/6) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

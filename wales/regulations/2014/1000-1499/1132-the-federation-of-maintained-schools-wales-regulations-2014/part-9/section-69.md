@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Admissions committee[^key-4db0c58b7c7f323c038774eed8a726f0]
+## 69. Admissions committee[^c-4db0c58b7c7f323c038774eed8a726f0]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4db0c58b7c7f323c038774eed8a726f0]: Commencement: Reg. 69 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-4db0c58b7c7f323c038774eed8a726f0]: Commencement: Reg. 69 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Judgments Enforcement (Northern Ireland) Order 1981[^key-10d62a8a615f94487b97895a48d267a2]
+## 139. Judgments Enforcement (Northern Ireland) Order 1981[^c-10d62a8a615f94487b97895a48d267a2]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In paragraph 3(c)(ii) of Schedule 1 to the Judgments Enforcement (Northern Irela
 
 ## Annotations
 
-[^key-10d62a8a615f94487b97895a48d267a2]: Commencement: Reg. 139 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-10d62a8a615f94487b97895a48d267a2]: Commencement: Reg. 139 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00226]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).

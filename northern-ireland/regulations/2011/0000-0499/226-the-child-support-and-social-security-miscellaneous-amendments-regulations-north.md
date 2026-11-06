@@ -44,19 +44,19 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 18(1), 19(3) and (5), 47(1), and 48(4) of, and paragraph 11(1) of Schedule 1 to, the Child Support (Northern Ireland) Order 1991[^f00001], and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-892130100ff3d40368d9ec5a61c4aa9f]
+## 1. Citation and commencement[^c-892130100ff3d40368d9ec5a61c4aa9f]
 
 These Regulations may be cited as the Child Support and Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 and shall come into operation on 4th July 2011.
 
-## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-5445c2a9ef0ed76b4cebe18d5a3219ef][^key-a2ecf13d4173b4bea46bf00b7bf256a2]
+## 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-5445c2a9ef0ed76b4cebe18d5a3219ef][^c-a2ecf13d4173b4bea46bf00b7bf256a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-5445c2a9ef0ed76b4cebe18d5a3219ef][^key-24456522eef9327774be8c7ff48daf83]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-5445c2a9ef0ed76b4cebe18d5a3219ef][^c-24456522eef9327774be8c7ff48daf83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-a12848640f3a7a109c051b01e64c4e6c]
+## 4. Revocations[^c-a12848640f3a7a109c051b01e64c4e6c]
 
 The following provisions are hereby revoked—
 
@@ -89,15 +89,15 @@ Regulation 4 makes consequential revocations.
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-892130100ff3d40368d9ec5a61c4aa9f]: Commencement: Reg. 1 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+[^c-892130100ff3d40368d9ec5a61c4aa9f]: Commencement: Reg. 1 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
 
-[^key-5445c2a9ef0ed76b4cebe18d5a3219ef]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/226) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-5445c2a9ef0ed76b4cebe18d5a3219ef]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2011/226) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-a2ecf13d4173b4bea46bf00b7bf256a2]: Commencement: Reg. 2 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+[^c-a2ecf13d4173b4bea46bf00b7bf256a2]: Commencement: Reg. 2 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
 
-[^key-24456522eef9327774be8c7ff48daf83]: Commencement: Reg. 3 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+[^c-24456522eef9327774be8c7ff48daf83]: Commencement: Reg. 3 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
 
-[^key-a12848640f3a7a109c051b01e64c4e6c]: Commencement: Reg. 4 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
+[^c-a12848640f3a7a109c051b01e64c4e6c]: Commencement: Reg. 4 in operation at 4.7.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/226/regulation/1)
 
 [^f00019]: Footnote: [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 

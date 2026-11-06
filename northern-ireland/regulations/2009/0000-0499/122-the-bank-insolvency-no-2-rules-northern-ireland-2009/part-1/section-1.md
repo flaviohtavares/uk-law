@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and revocation[^key-1a11626f8607f4e50088d48dfec3f403]
+## 1. Citation, commencement and revocation[^c-1a11626f8607f4e50088d48dfec3f403]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a11626f8607f4e50088d48dfec3f403]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-1a11626f8607f4e50088d48dfec3f403]: Commencement: Rule 1 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00004]: Footnote: [S.R. 2009 No. 64](https://www.legislation.gov.uk/nisr/2009/64)

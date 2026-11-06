@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.176. Liquidator's certificate[^key-330a20f7174c440ac6cbd8bac5fc4734]
+## 4.176. Liquidator's certificate[^c-330a20f7174c440ac6cbd8bac5fc4734]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-330a20f7174c440ac6cbd8bac5fc4734]: Commencement: [Rule 4.176](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.176) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-330a20f7174c440ac6cbd8bac5fc4734]: Commencement: [Rule 4.176](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.176) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00099]: Marginal citation: \[FORM 4.52\]
 

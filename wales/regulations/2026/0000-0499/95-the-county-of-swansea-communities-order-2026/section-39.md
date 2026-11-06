@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**39.**[^key-1cbe17e74de5a6f1e03c1c57e7f275e4] The community of Reynoldston is abolished.
+**39.**[^c-1cbe17e74de5a6f1e03c1c57e7f275e4] The community of Reynoldston is abolished.
 
 ## Annotations
 
-[^key-1cbe17e74de5a6f1e03c1c57e7f275e4]: Commencement: [Art. 39](https://www.legislation.gov.uk/wsi/2026/95/article/39) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-1cbe17e74de5a6f1e03c1c57e7f275e4]: Commencement: [Art. 39](https://www.legislation.gov.uk/wsi/2026/95/article/39) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)

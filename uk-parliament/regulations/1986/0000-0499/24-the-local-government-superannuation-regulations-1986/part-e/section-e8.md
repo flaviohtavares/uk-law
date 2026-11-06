@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E8. Entitlement to children's short-term and long-term pensions[^key-07cbd644295fe48c60bf9f7c3b915062]
+## E8. Entitlement to children's short-term and long-term pensions[^c-07cbd644295fe48c60bf9f7c3b915062]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ and he leaves one or more eligible children, they are, subject to paragraphs (3)
 
 ## Annotations
 
-[^key-07cbd644295fe48c60bf9f7c3b915062]: Commencement: [Reg. E8](https://www.legislation.gov.uk/uksi/1986/24/regulation/E8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-07cbd644295fe48c60bf9f7c3b915062]: Commencement: [Reg. E8](https://www.legislation.gov.uk/uksi/1986/24/regulation/E8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

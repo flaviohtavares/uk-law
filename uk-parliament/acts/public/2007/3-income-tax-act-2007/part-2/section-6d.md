@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6D. The property basic, higher and additional rates[^key-6572269b13c135b3dbe794ea3a817706]
+## 6D. The property basic, higher and additional rates[^c-6572269b13c135b3dbe794ea3a817706]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The property basic rate, the property higher rate and the property additional ra
 
 ## Annotations
 
-[^key-6572269b13c135b3dbe794ea3a817706]: Textual amendment: S. 6D inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8)
+[^c-6572269b13c135b3dbe794ea3a817706]: Textual amendment: S. 6D inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8)

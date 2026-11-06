@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Rights of entry[^key-2c2b4a327ba550bce69bf4810d18b8df]
+## 19. Rights of entry[^c-2c2b4a327ba550bce69bf4810d18b8df]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c2b4a327ba550bce69bf4810d18b8df]: Commencement: Art. 19 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-2c2b4a327ba550bce69bf4810d18b8df]: Commencement: Art. 19 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00028]: Footnote: Paragraph 27(b) was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

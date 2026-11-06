@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Power of members of staff to search pupils for weapons: Wales[^key-f7526269903352a6d21eb9acd0fbe100]
+## 243. Power of members of staff to search pupils for weapons: Wales[^c-f7526269903352a6d21eb9acd0fbe100]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7526269903352a6d21eb9acd0fbe100]: Commencement: S. 243 in force at 1.9.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9)) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-f7526269903352a6d21eb9acd0fbe100]: Commencement: S. 243 in force at 1.9.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9)) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))

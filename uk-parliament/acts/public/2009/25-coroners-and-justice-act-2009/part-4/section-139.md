@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Dangerous offenders: terrorism offences (Northern Ireland)[^key-2e4a2b4c79b23fb4a4f56f5dc56fcb0b]
+## 139. Dangerous offenders: terrorism offences (Northern Ireland)[^c-2e4a2b4c79b23fb4a4f56f5dc56fcb0b]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e4a2b4c79b23fb4a4f56f5dc56fcb0b]: Commencement: S. 139 in force at 12.1.2010 by [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2](https://www.legislation.gov.uk/uksi/2010/28/article/2)
+[^c-2e4a2b4c79b23fb4a4f56f5dc56fcb0b]: Commencement: S. 139 in force at 12.1.2010 by [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2](https://www.legislation.gov.uk/uksi/2010/28/article/2)
 
 [^M_F_f419768c-045c-45c2-ea3e-c61c0fef44b1]: Textual amendment: S. 139(5)-(8) omitted (12.4.2019) by virtue of [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3), [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2019/3/schedule/4/paragraph/15) (with [s. 25(5)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/5))

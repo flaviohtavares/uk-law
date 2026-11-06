@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. References to EBA: determination of minimum consolidated requirement[^key-116b21307cf94779a5ed0e9472abbd91]
+## 128. References to EBA: determination of minimum consolidated requirement[^c-116b21307cf94779a5ed0e9472abbd91]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-116b21307cf94779a5ed0e9472abbd91]: Textual amendment: [Art. 128](https://www.legislation.gov.uk/uksi/2014/3348/article/128) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 71](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-116b21307cf94779a5ed0e9472abbd91]: Textual amendment: [Art. 128](https://www.legislation.gov.uk/uksi/2014/3348/article/128) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 71](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

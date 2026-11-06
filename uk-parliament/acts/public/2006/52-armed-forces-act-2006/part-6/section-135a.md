@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135A. Extended powers: time for obtaining[^key-1ac88f328f810d15efe67b80da37fc24]
+## 135A. Extended powers: time for obtaining[^c-1ac88f328f810d15efe67b80da37fc24]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ is to be treated for the purposes of sections 133(3), 134(2) and 135(5) as made 
 
 ## Annotations
 
-[^key-1ac88f328f810d15efe67b80da37fc24]: Textual amendment: S. 135A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/11); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-1ac88f328f810d15efe67b80da37fc24]: Textual amendment: S. 135A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/11); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)

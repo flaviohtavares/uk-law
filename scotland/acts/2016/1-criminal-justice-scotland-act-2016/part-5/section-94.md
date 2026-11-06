@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Finality of appeal proceedings[^key-cdbd2bda310639d0880cad073da639e3]
+## 94. Finality of appeal proceedings[^c-cdbd2bda310639d0880cad073da639e3]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In subsection (2) of section 124 (finality of proceedings) of the 1995 Act—
 
 ## Annotations
 
-[^key-cdbd2bda310639d0880cad073da639e3]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2016/1/section/94) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-cdbd2bda310639d0880cad073da639e3]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2016/1/section/94) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

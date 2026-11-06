@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Provision of careers education for certain persons: Wales[^key-433644602ba08b493c5052d50c18cbfc]
+## 43. Provision of careers education for certain persons: Wales[^c-433644602ba08b493c5052d50c18cbfc]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-433644602ba08b493c5052d50c18cbfc]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1997/44/section/43) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3/7)
+[^c-433644602ba08b493c5052d50c18cbfc]: Textual amendment: [S. 43](https://www.legislation.gov.uk/ukpga/1997/44/section/43) substituted (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 3(7)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/3/7)

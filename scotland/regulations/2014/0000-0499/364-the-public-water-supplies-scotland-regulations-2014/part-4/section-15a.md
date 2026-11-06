@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15A. Directions and guidance[^key-af0c8319868d03c1d99f89f629a27efb]
+## 15A. Directions and guidance[^c-af0c8319868d03c1d99f89f629a27efb]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af0c8319868d03c1d99f89f629a27efb]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/ssi/2014/364/regulation/15A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(7)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/7)
+[^c-af0c8319868d03c1d99f89f629a27efb]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/ssi/2014/364/regulation/15A) inserted (27.10.2017) by [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(7)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/7)

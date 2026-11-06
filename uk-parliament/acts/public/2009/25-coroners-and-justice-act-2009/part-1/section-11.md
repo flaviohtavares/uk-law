@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Duty or power to suspend or resume investigations[^key-7fb16949f2ac49b83ea79c2913f82e96]
+## 11. Duty or power to suspend or resume investigations[^c-7fb16949f2ac49b83ea79c2913f82e96]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 1 makes provision about suspension and resumption of investigations.
 
 ## Annotations
 
-[^key-7fb16949f2ac49b83ea79c2913f82e96]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/25/section/11) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)
+[^c-7fb16949f2ac49b83ea79c2913f82e96]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2009/25/section/11) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/a)

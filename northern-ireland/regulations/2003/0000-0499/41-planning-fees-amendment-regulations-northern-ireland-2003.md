@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-Planning (Fees) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-67cb78369e7630c635530f13725169df]
+Planning (Fees) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-67cb78369e7630c635530f13725169df]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 3rd March 2003
 
-[^key-67cb78369e7630c635530f13725169df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67cb78369e7630c635530f13725169df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-67cb78369e7630c635530f13725169df]
+## 1. Citation and commencement[^c-67cb78369e7630c635530f13725169df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 1995[^key-67cb78369e7630c635530f13725169df]
+## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 1995[^c-67cb78369e7630c635530f13725169df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67cb78369e7630c635530f13725169df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67cb78369e7630c635530f13725169df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SUBSTITUTION OF PART II OF SCHEDULE 1 TO THE PLANNING (FEES) REGULATIONS (NORTHERN IRELAND) 1995[^key-67cb78369e7630c635530f13725169df]
+## SCHEDULE — SUBSTITUTION OF PART II OF SCHEDULE 1 TO THE PLANNING (FEES) REGULATIONS (NORTHERN IRELAND) 1995[^c-67cb78369e7630c635530f13725169df]
 
 Regulation 2(6)(b)
 
-> **PART II — scales of fees[^key-67cb78369e7630c635530f13725169df]**
+> **PART II — scales of fees[^c-67cb78369e7630c635530f13725169df]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67cb78369e7630c635530f13725169df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67cb78369e7630c635530f13725169df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67cb78369e7630c635530f13725169df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/41) revoked (18.5.2005) by [The Planning (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/222)](https://www.legislation.gov.uk/nisr/2005/222), [reg. 1](https://www.legislation.gov.uk/nisr/2005/222/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/222/schedule/3)
+[^c-67cb78369e7630c635530f13725169df]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/41) revoked (18.5.2005) by [The Planning (Fees) Regulations (Northern Ireland) 2005 (S.R. 2005/222)](https://www.legislation.gov.uk/nisr/2005/222), [reg. 1](https://www.legislation.gov.uk/nisr/2005/222/regulation/1), [Sch. 3](https://www.legislation.gov.uk/nisr/2005/222/schedule/3)

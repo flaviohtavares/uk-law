@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Approval of superfund scheme trustees[^key-eca77e99a1b18c4450b2999bfa4e24b5]
+## 80. Approval of superfund scheme trustees[^c-eca77e99a1b18c4450b2999bfa4e24b5]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eca77e99a1b18c4450b2999bfa4e24b5]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-eca77e99a1b18c4450b2999bfa4e24b5]: Commencement: S. 80 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

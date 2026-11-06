@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Neglect or refusal to pay costs[^key-860c008778c9860396ba4fc11972b1e4]
+## 106. Neglect or refusal to pay costs[^c-860c008778c9860396ba4fc11972b1e4]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-860c008778c9860396ba4fc11972b1e4]: Commencement: Art. 106 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-860c008778c9860396ba4fc11972b1e4]: Commencement: Art. 106 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Enhanced criminal record certificates: additional safeguards[^key-9294f15b8ededff3884efa04e3ed0a75]
+## 40. Enhanced criminal record certificates: additional safeguards[^c-9294f15b8ededff3884efa04e3ed0a75]
 
 *Extent: N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9294f15b8ededff3884efa04e3ed0a75]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2015/9/section/40) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/358/article/2/e)
+[^c-9294f15b8ededff3884efa04e3ed0a75]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2015/9/section/40) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/358/article/2/e)

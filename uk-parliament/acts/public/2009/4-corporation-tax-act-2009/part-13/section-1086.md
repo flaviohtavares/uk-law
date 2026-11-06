@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1086. Meaning of “qualifying R&D activity”[^key-101d5a8ba2de360c1b8fa6a0d8596139]
+## 1086. Meaning of “qualifying R&D activity”[^c-101d5a8ba2de360c1b8fa6a0d8596139]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-101d5a8ba2de360c1b8fa6a0d8596139]: Textual amendment: Pt. 13 Ch. 7 omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/2)
+[^c-101d5a8ba2de360c1b8fa6a0d8596139]: Textual amendment: Pt. 13 Ch. 7 omitted (with effect in accordance with s. 47(15) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 47(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/47/2)

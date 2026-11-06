@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Commission as CORE keeper[^key-0d6c7464e905027da4a70e68e0d9e64c]
+## 20A. Commission as CORE keeper[^c-0d6c7464e905027da4a70e68e0d9e64c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d6c7464e905027da4a70e68e0d9e64c]: Textual amendment: S. 20A repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)
+[^c-0d6c7464e905027da4a70e68e0d9e64c]: Textual amendment: S. 20A repealed (2.4.2013) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [ss. 23(2)](https://www.legislation.gov.uk/ukpga/2013/6/section/23/2), [27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1); [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 3(e)](https://www.legislation.gov.uk/uksi/2013/702/article/3/e)

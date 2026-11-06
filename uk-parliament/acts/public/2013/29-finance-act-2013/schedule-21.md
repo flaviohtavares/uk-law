@@ -28,7 +28,7 @@ Section 46
 
 ### Meaning of “open to the whole community”
 
-**2.**[^key-b8e33f96fbb4dbcfcf90acfa126c6be3] (1) Section 659 (meaning of “open to the whole community”) is amended as follows.
+**2.**[^c-b8e33f96fbb4dbcfcf90acfa126c6be3] (1) Section 659 (meaning of “open to the whole community”) is amended as follows.
 
 (2) In subsection (1), for paragraph (c) substitute—
 
@@ -60,7 +60,7 @@ Section 46
 
 ### Meaning of “organised on an amateur basis”
 
-**3.**[^key-62e192f91a77b84b444e91f3a44c1a18] (1) Section 660 (meaning of “organised on an amateur basis”) is amended as follows.
+**3.**[^c-62e192f91a77b84b444e91f3a44c1a18] (1) Section 660 (meaning of “organised on an amateur basis”) is amended as follows.
 
 (2) In subsection (1), omit the “and” after paragraph (b) and after that paragraph insert—
 
@@ -118,9 +118,9 @@ Section 46
 
 ### Clubs consisting mainly of social members
 
-**4.**[^key-415a03f5db569b31df7567fe8089d6ec] In section 658 (meaning of “community amateur sports club”), in subsection (1A)(c), for “section 661” substitute “ sections 660A and 661 ”.
+**4.**[^c-415a03f5db569b31df7567fe8089d6ec] In section 658 (meaning of “community amateur sports club”), in subsection (1A)(c), for “section 661” substitute “ sections 660A and 661 ”.
 
-**5.**[^key-aca2c01a70e32e721a74f1eb9c9c5542] After section 660 insert—
+**5.**[^c-aca2c01a70e32e721a74f1eb9c9c5542] After section 660 insert—
 
 > **660A. Clubs consisting mainly of social members**
 >
@@ -143,13 +143,13 @@ Section 46
 
 ### Exemptions
 
-**6.**[^key-4b4741cdb0f258bd7e817d1a818ab66e] In section 662 (exemption from corporation tax for UK trading income), after subsection (5) insert—
+**6.**[^c-4b4741cdb0f258bd7e817d1a818ab66e] In section 662 (exemption from corporation tax for UK trading income), after subsection (5) insert—
 
 > (5A) The Treasury may by order amend the figure for the time being specified as the relevant threshold in subsection (5)(a).
 >
 > (5B) A statutory instrument containing an order under subsection (5A) that amends that figure so as to substitute a lower figure may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the House of Commons.
 
-**7.**[^key-6f16c0f60cbdae79adabe891512ca79e] In section 663 (exemption from corporation tax for UK property income), after subsection (5) insert—
+**7.**[^c-6f16c0f60cbdae79adabe891512ca79e] In section 663 (exemption from corporation tax for UK property income), after subsection (5) insert—
 
 > (5A) The Treasury may by order amend the figure for the time being specified as the relevant threshold in subsection (5)(a).
 >
@@ -157,7 +157,7 @@ Section 46
 
 ### Power to specify income condition
 
-**8.**[^key-bb3136a1bfe6601c1c4fa82e7ae04dd1] (1) The Treasury may by regulations provide that a club is not entitled to be registered as a community amateur sports club under section 658 of CTA 2010 unless it meets one or more conditions relating to income received by the club.
+**8.**[^c-bb3136a1bfe6601c1c4fa82e7ae04dd1] (1) The Treasury may by regulations provide that a club is not entitled to be registered as a community amateur sports club under section 658 of CTA 2010 unless it meets one or more conditions relating to income received by the club.
 
 (2) The provision that may be made by regulations under this paragraph includes, in particular—
 
@@ -194,16 +194,16 @@ Section 46
 
 ## Annotations
 
-[^key-b8e33f96fbb4dbcfcf90acfa126c6be3]: Commencement: Sch. 21 para. 2 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-b8e33f96fbb4dbcfcf90acfa126c6be3]: Commencement: Sch. 21 para. 2 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-62e192f91a77b84b444e91f3a44c1a18]: Commencement: Sch. 21 para. 3 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-62e192f91a77b84b444e91f3a44c1a18]: Commencement: Sch. 21 para. 3 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-415a03f5db569b31df7567fe8089d6ec]: Commencement: Sch. 21 para. 4 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-415a03f5db569b31df7567fe8089d6ec]: Commencement: Sch. 21 para. 4 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-aca2c01a70e32e721a74f1eb9c9c5542]: Commencement: Sch. 21 para. 5 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-aca2c01a70e32e721a74f1eb9c9c5542]: Commencement: Sch. 21 para. 5 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-4b4741cdb0f258bd7e817d1a818ab66e]: Commencement: Sch. 21 para. 6 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-4b4741cdb0f258bd7e817d1a818ab66e]: Commencement: Sch. 21 para. 6 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-6f16c0f60cbdae79adabe891512ca79e]: Commencement: Sch. 21 para. 7 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-6f16c0f60cbdae79adabe891512ca79e]: Commencement: Sch. 21 para. 7 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
 
-[^key-bb3136a1bfe6601c1c4fa82e7ae04dd1]: Commencement: Sch. 21 para. 8 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-bb3136a1bfe6601c1c4fa82e7ae04dd1]: Commencement: Sch. 21 para. 8 in force at 1.4.2010 for the purposes of the amendments made by that paragraph so far as not already in force by [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)

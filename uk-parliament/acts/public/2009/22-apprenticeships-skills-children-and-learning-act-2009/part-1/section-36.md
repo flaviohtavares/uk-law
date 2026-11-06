@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Crown servants and Parliamentary staff[^key-49d50b5cabc2f9ae7db0b968cb25d86b][^key-ed4a6d5847677d4d6829ba00eed1a42e][^key-86e3546cc5697f54eb7036d249310bac]
+## 36. Crown servants and Parliamentary staff[^c-49d50b5cabc2f9ae7db0b968cb25d86b][^c-ed4a6d5847677d4d6829ba00eed1a42e][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ as they apply in relation to any other agreement under which a person undertakes
 
 (4) Without prejudice to section 262(3), the power conferred by section 32(2)(b) may be exercised, in particular, to make provision in relation to an apprenticeship agreement which is an agreement within any of paragraphs (a), (b) and (c) of subsection (1) that differs from provision made in relation to other apprenticeship agreements.
 
-(5) Regulations may provide for any provision of this Chapter [^key-e9cb86c97512183d813ae8f00404af2c]... to apply with modifications in relation to—
+(5) Regulations may provide for any provision of this Chapter [^c-e9cb86c97512183d813ae8f00404af2c]... to apply with modifications in relation to—
 
 - (a) an agreement within paragraph (a), (b) or (c) of subsection (1), or
 - (b) a person working, or proposing to work, under such an agreement.
@@ -49,10 +49,10 @@ as they apply in relation to any other agreement under which a person undertakes
 
 ## Annotations
 
-[^key-49d50b5cabc2f9ae7db0b968cb25d86b]: Commencement: S. 36 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
+[^c-49d50b5cabc2f9ae7db0b968cb25d86b]: Commencement: S. 36 in force at 6.4.2011 for E. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 3](https://www.legislation.gov.uk/uksi/2011/200/article/3)
 
-[^key-ed4a6d5847677d4d6829ba00eed1a42e]: Commencement: S. 36 in force at 1.8.2011 for W. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 4](https://www.legislation.gov.uk/uksi/2011/200/article/4)
+[^c-ed4a6d5847677d4d6829ba00eed1a42e]: Commencement: S. 36 in force at 1.8.2011 for W. by [S.I. 2011/200](https://www.legislation.gov.uk/uksi/2011/200), [art. 4](https://www.legislation.gov.uk/uksi/2011/200/article/4)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
 
-[^key-e9cb86c97512183d813ae8f00404af2c]: Textual amendment: Words in s. 36(5) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/18/paragraph/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)
+[^c-e9cb86c97512183d813ae8f00404af2c]: Textual amendment: Words in s. 36(5) omitted (1.9.2012) by virtue of [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/18/paragraph/3); [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3)

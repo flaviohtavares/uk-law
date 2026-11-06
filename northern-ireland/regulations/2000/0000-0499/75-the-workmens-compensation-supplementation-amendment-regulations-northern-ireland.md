@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Workmen’s Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-3d2890afd963d2d929a175ea73d21d49]
+The Workmen’s Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-3d2890afd963d2d929a175ea73d21d49]
 
 Made
 
@@ -41,62 +41,62 @@ Coming into operation
 
 12th April 2000
 
-[^key-3d2890afd963d2d929a175ea73d21d49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d2890afd963d2d929a175ea73d21d49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-3d2890afd963d2d929a175ea73d21d49]
+## 1. Citation, commencement and interpretation[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 5 of the principal Regulations[^key-3d2890afd963d2d929a175ea73d21d49]
+## 2. Amendment of regulation 5 of the principal Regulations[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Substitution of Schedule 1 to the principal Regulations[^key-3d2890afd963d2d929a175ea73d21d49]
+## 3. Substitution of Schedule 1 to the principal Regulations[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision relating to amount of allowance payable[^key-3d2890afd963d2d929a175ea73d21d49]
+## 4. Transitional provision relating to amount of allowance payable[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision relating to claims not made, or made but not determined, before the operative date[^key-3d2890afd963d2d929a175ea73d21d49]
+## 5. Transitional provision relating to claims not made, or made but not determined, before the operative date[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision relating to revision and appeal[^key-3d2890afd963d2d929a175ea73d21d49]
+## 6. Transitional provision relating to revision and appeal[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation[^key-3d2890afd963d2d929a175ea73d21d49]
+## 7. Revocation[^c-3d2890afd963d2d929a175ea73d21d49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3d2890afd963d2d929a175ea73d21d49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d2890afd963d2d929a175ea73d21d49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be substituted for Schedule 1 to the principal Regulations[^key-3d2890afd963d2d929a175ea73d21d49]
+## SCHEDULE — Schedule to be substituted for Schedule 1 to the principal Regulations[^c-3d2890afd963d2d929a175ea73d21d49]
 
 Regulation 3
 
-> **SCHEDULE 1[^key-3d2890afd963d2d929a175ea73d21d49]**
+> **SCHEDULE 1[^c-3d2890afd963d2d929a175ea73d21d49]**
 >
 > Regulation 5
 >
-> **Part I — Table of Rates of Lesser Incapacity Allowance for Beneficiaries to whom Regulation 5(2) Applies[^key-3d2890afd963d2d929a175ea73d21d49]**
+> **Part I — Table of Rates of Lesser Incapacity Allowance for Beneficiaries to whom Regulation 5(2) Applies[^c-3d2890afd963d2d929a175ea73d21d49]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Table of Loss of Earnings and Corresponding Rates of lesser Incapacity Allowance[^key-3d2890afd963d2d929a175ea73d21d49]**
+> **Part II — Table of Loss of Earnings and Corresponding Rates of lesser Incapacity Allowance[^c-3d2890afd963d2d929a175ea73d21d49]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3d2890afd963d2d929a175ea73d21d49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d2890afd963d2d929a175ea73d21d49]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d2890afd963d2d929a175ea73d21d49]: Textual amendment: revoked (11.4.2001) by [The Workmen’s Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/116)](https://www.legislation.gov.uk/nisr/2001/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/116/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2001/116/regulation/7)
+[^c-3d2890afd963d2d929a175ea73d21d49]: Textual amendment: revoked (11.4.2001) by [The Workmen’s Compensation (Supplementation) (Amendment) Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/116)](https://www.legislation.gov.uk/nisr/2001/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/116/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2001/116/regulation/7)

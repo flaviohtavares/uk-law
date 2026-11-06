@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZG. Relationship with contractual remuneration[^key-ac4c76973becf2fd657f54571283e0b3]
+## 171ZG. Relationship with contractual remuneration[^c-ac4c76973becf2fd657f54571283e0b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,10 +29,10 @@ summary: ''
 
 (3) Regulations may make provision as to payments which are, and those which are not, to be treated as contractual remuneration for the purposes of subsections (1) and (2) above.
 
-(4)[^key-a3a9351465bcd9cf9c09f1cb89a6cbe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a3a9351465bcd9cf9c09f1cb89a6cbe7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac4c76973becf2fd657f54571283e0b3]: Textual amendment: Pt. 12ZA inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2002/22/section/2), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
+[^c-ac4c76973becf2fd657f54571283e0b3]: Textual amendment: Pt. 12ZA inserted (8.12.2002) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 2](https://www.legislation.gov.uk/ukpga/2002/22/section/2), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/2)
 
-[^key-a3a9351465bcd9cf9c09f1cb89a6cbe7]: Textual amendment: [S. 171ZG(4)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZG/4) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/20); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(g)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/g) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))
+[^c-a3a9351465bcd9cf9c09f1cb89a6cbe7]: Textual amendment: [S. 171ZG(4)](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZG/4) repealed (5.4.2015) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 7 para. 20](https://www.legislation.gov.uk/ukpga/2014/6/schedule/7/paragraph/20); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 7(g)](https://www.legislation.gov.uk/uksi/2014/1640/article/7/g) (with [art. 16](https://www.legislation.gov.uk/uksi/2014/1640/article/16))

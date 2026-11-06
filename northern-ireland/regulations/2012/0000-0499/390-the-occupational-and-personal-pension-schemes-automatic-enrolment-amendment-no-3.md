@@ -57,7 +57,7 @@ In regulation 36 of the Occupational and Personal Pension Schemes (Automatic Enr
   > - (c) a discretionary power may be exercised in the revaluation of such benefits,
 
   ;
-- (b)[^key-74b08f9a8921a56d5a963b88e965ebb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-74b08f9a8921a56d5a963b88e965ebb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department for Social Development on 26th October 2012
 
@@ -81,4 +81,4 @@ Regulation 2(b) amends regulation 36(4) of the 2010 Regulations so that all aver
 
 [^c21423751]: Marginal citation: S.R. [2010 No. 122](https://www.legislation.gov.uk/ukcm/2010/122); regulation 36 was amended by regulation 2(5) of S.R. [2012 No. 237](https://www.legislation.gov.uk/ukcm/2012/237)
 
-[^key-74b08f9a8921a56d5a963b88e965ebb2]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2012/390/regulation/2/b) revoked (1.4.2014) by [The Occupational and Personal Pension Schemes (AutomaticEnrolment) (Amendment) Regulations (NorthernIreland) 2014 (S.R. 2014/89)](https://www.legislation.gov.uk/nisr/2014/89), [regs. 1](https://www.legislation.gov.uk/nisr/2014/89/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2014/89/regulation/3/b)
+[^c-74b08f9a8921a56d5a963b88e965ebb2]: Textual amendment: [Reg. 2(b)](https://www.legislation.gov.uk/nisr/2012/390/regulation/2/b) revoked (1.4.2014) by [The Occupational and Personal Pension Schemes (AutomaticEnrolment) (Amendment) Regulations (NorthernIreland) 2014 (S.R. 2014/89)](https://www.legislation.gov.uk/nisr/2014/89), [regs. 1](https://www.legislation.gov.uk/nisr/2014/89/regulation/1), [3(b)](https://www.legislation.gov.uk/nisr/2014/89/regulation/3/b)

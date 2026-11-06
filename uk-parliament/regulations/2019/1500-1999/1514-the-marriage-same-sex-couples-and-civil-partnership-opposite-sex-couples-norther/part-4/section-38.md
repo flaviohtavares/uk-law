@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Property rights where parents not married to, or civil partners of, each other[^key-df5985fcf3a332577fe7e35e46b5d4b2]
+## 38. Property rights where parents not married to, or civil partners of, each other[^c-df5985fcf3a332577fe7e35e46b5d4b2]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) After “not married to” insert “, or civil partners of,”.
 
-**39.**[^key-7076b7338814de26fcdba30233a95b86][^key-df5985fcf3a332577fe7e35e46b5d4b2] (1) Schedule 6 to the Children (Northern Ireland) Order 1995 (property rights where parents not married to each other) is amended as follows.
+**39.**[^c-7076b7338814de26fcdba30233a95b86][^c-df5985fcf3a332577fe7e35e46b5d4b2] (1) Schedule 6 to the Children (Northern Ireland) Order 1995 (property rights where parents not married to each other) is amended as follows.
 
 (2) In the heading, after “not married to” insert “or civil partners of”.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df5985fcf3a332577fe7e35e46b5d4b2]: Commencement: Reg. 38 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-df5985fcf3a332577fe7e35e46b5d4b2]: Commencement: Reg. 38 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
-[^key-7076b7338814de26fcdba30233a95b86]: Commencement: Reg. 39 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-7076b7338814de26fcdba30233a95b86]: Commencement: Reg. 39 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Duty to carry out a financial assessment[^key-8730eeb3194e1d6f4383b4a00ebd6b14]
+## 6. Duty to carry out a financial assessment[^c-8730eeb3194e1d6f4383b4a00ebd6b14]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ it must carry out an assessment of A’s financial resources in accordance with 
 
 ## Annotations
 
-[^key-8730eeb3194e1d6f4383b4a00ebd6b14]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1844/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-8730eeb3194e1d6f4383b4a00ebd6b14]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1844/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
 
 [^f00024]: Footnote: Section 53(3) of the Act (direct payments: further provision) provides that regulations made in accordance with sections 50, 51, or 52 of the Act may make provision in relation to direct payments which corresponds to the provision which is made, or may be made, under sections 59 to 67 or section 73 of the Act.
 

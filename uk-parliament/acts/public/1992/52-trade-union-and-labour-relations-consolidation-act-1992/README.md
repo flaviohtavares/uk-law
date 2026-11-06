@@ -33,7 +33,7 @@ An Act to consolidate the enactments relating to collective labour relations, th
 
 \[16th July 1992\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3193441aab52ebdafa81fb2e2cf1bf3e][^key-ba89ac39c3926548c3652356bce909ce]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3193441aab52ebdafa81fb2e2cf1bf3e][^c-ba89ac39c3926548c3652356bce909ce]
 
 ## Contents
 
@@ -188,7 +188,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 46 — Duty to hold elections for certain positions.](part-i/section-46.md)
 
-##### Determination of means of voting[^key-42bbf9f7fe536fb01dbb5c1946a29789]
+##### Determination of means of voting[^c-42bbf9f7fe536fb01dbb5c1946a29789]
 
 - [Section 46A — Responsible person’s determination of means of voting](part-i/section-46a.md)
 
@@ -203,17 +203,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 51 — Voting.](part-i/section-51.md)
 - [Section 51ZA — Counting of votes where multiple votes cast by same person](part-i/section-51za.md)
 
-##### Postal voting[^key-792a0a593f141c0fb302988cb4ace1ba]
+##### Postal voting[^c-792a0a593f141c0fb302988cb4ace1ba]
 
 - [Section 51ZB — Postal voting](part-i/section-51zb.md)
 - [Section 51ZC — Postal voting: voting paper and method of voting](part-i/section-51zc.md)
 - [Section 51A — Postal voting: counting of votes etc. by independent person](part-i/section-51a.md)
 
-##### Electronic voting[^key-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]
+##### Electronic voting[^c-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]
 
 - [Section 51B — Electronic voting](part-i/section-51b.md)
 
-##### Hybrid voting[^key-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]
+##### Hybrid voting[^c-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]
 
 - [Section 51C — Hybrid voting](part-i/section-51c.md)
 
@@ -274,13 +274,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 70 — Membership of constituent or affiliated organisation.](part-i/section-70.md)
 
-#### Chapter 5ZA — Right of trade unions to access workplaces[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+#### Chapter 5ZA — Right of trade unions to access workplaces[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
-##### Access agreements: general[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### Access agreements: general[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZA — Access agreements](part-i/section-70za.md)
 
-##### Entering into access agreements[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### Entering into access agreements[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZB — Access requests and response notices](part-i/section-70zb.md)
 - [Section 70ZC — Response period and negotiation period](part-i/section-70zc.md)
@@ -288,26 +288,26 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 70ZE — Determinations by the Central Arbitration Committee](part-i/section-70ze.md)
 - [Section 70ZF — Determinations by the Central Arbitration Committee: further provision](part-i/section-70zf.md)
 
-##### Variation and revocation of access agreements[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### Variation and revocation of access agreements[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZG — Variation and revocation of access agreements](part-i/section-70zg.md)
 
-##### Enforcement of access agreements[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### Enforcement of access agreements[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZH — Enforcement of access agreements: initial complaint](part-i/section-70zh.md)
 - [Section 70ZI — Enforcement of access agreements: subsequent complaint](part-i/section-70zi.md)
 - [Section 70ZJ — Power to make provision about amounts payable under section 70ZI](part-i/section-70zj.md)
 - [Section 70ZK — Enforcement of access agreements: supplementary provision](part-i/section-70zk.md)
 
-##### General limitations on access agreements etc[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### General limitations on access agreements etc[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZL — General limitations on access agreements etc](part-i/section-70zl.md)
 
-##### Appeals to the Employment Appeal Tribunal[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### Appeals to the Employment Appeal Tribunal[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZM — Appeals to the Employment Appeal Tribunal](part-i/section-70zm.md)
 
-##### Regulations[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]
+##### Regulations[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]
 
 - [Section 70ZN — Regulations under this Chapter](part-i/section-70zn.md)
 
@@ -331,7 +331,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 72 — Political objects to which restriction applies.](part-i/section-72.md)
 - [Section 72A — Application of funds in breach of section 71.](part-i/section-72a.md)
 
-##### Trade union without a branch or section in Northern Ireland: political resolution[^key-1a25d560e20f6072872377d3956955df]
+##### Trade union without a branch or section in Northern Ireland: political resolution[^c-1a25d560e20f6072872377d3956955df]
 
 - [Section 72B — Application of sections 72C to 72P](part-i/section-72b.md)
 - [Section 72C — Passing and effect of political resolution](part-i/section-72c.md)
@@ -349,7 +349,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 72O — Scrutineer’s report](part-i/section-72o.md)
 - [Section 72P — Small accidental failures in relation to electronic voting to be disregarded](part-i/section-72p.md)
 
-##### Trade union with a branch or section in Northern Ireland: Political resolution[^key-189a902efc9446dc7fc823fb08558fe8]
+##### Trade union with a branch or section in Northern Ireland: Political resolution[^c-189a902efc9446dc7fc823fb08558fe8]
 
 *Extent: E+W+S+N.I.*
 
@@ -362,7 +362,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 77A — Counting of votes etc. by independent person.](part-i/section-77a.md)
 - [Section 78 — Scrutineer’s report.](part-i/section-78.md)
 
-##### Failure to comply with ballot rules[^key-5289ee146a91b1735745b39cbda0dcf8]
+##### Failure to comply with ballot rules[^c-5289ee146a91b1735745b39cbda0dcf8]
 
 - [Section 79 — Remedy for failure to comply with ballot rules: general.](part-i/section-79.md)
 - [Section 80 — Application to Certification Officer.](part-i/section-80.md)
@@ -411,7 +411,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 99 — Notice to be given to members.](part-i/section-99.md)
 - [Section 100 — Requirement of ballot on resolution.](part-i/section-100.md)
 
-##### Determination of means of voting[^key-9b45451656ee33c917aad030567253bd]
+##### Determination of means of voting[^c-9b45451656ee33c917aad030567253bd]
 
 - [Section 100ZA — Responsible person’s determination of means of voting](part-i/section-100za.md)
 - [Section 100A — Appointment of independent scrutineer.](part-i/section-100a.md)
@@ -419,17 +419,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 100C — Voting.](part-i/section-100c.md)
 - [Section 100CA — Counting of votes where multiple votes cast by same person](part-i/section-100ca.md)
 
-##### Postal voting[^key-1924f3564da6b2feced173dde9e3a346]
+##### Postal voting[^c-1924f3564da6b2feced173dde9e3a346]
 
 - [Section 100CB — Postal voting](part-i/section-100cb.md)
 - [Section 100CC — Postal voting: voting paper and method of voting](part-i/section-100cc.md)
 - [Section 100D — Postal voting: counting of votes etc. by independent person](part-i/section-100d.md)
 
-##### Electronic voting[^key-43be7aef81c2253a2b130251d00bc135]
+##### Electronic voting[^c-43be7aef81c2253a2b130251d00bc135]
 
 - [Section 100DA — Electronic voting](part-i/section-100da.md)
 
-##### Hybrid voting[^key-43be7aef81c2253a2b130251d00bc135]
+##### Hybrid voting[^c-43be7aef81c2253a2b130251d00bc135]
 
 - [Section 100DB — Hybrid voting](part-i/section-100db.md)
 
@@ -486,7 +486,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 116A — Provision of money for union modernisation](part-i/section-116a.md)
 
-##### ...[^key-ea14f5ff375200f34f06d3a1c23af06e]
+##### ...[^c-ea14f5ff375200f34f06d3a1c23af06e]
 
 - [Section 116B — Restriction on deduction of union subscriptions from wages in public sector](part-i/section-116b.md)
 
@@ -555,7 +555,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-#### Statement of trade union rights[^key-9d905576e4bc899953131d96bbddd416]
+#### Statement of trade union rights[^c-9d905576e4bc899953131d96bbddd416]
 
 - [Section 136A — Right to statement of trade union rights](part-iii/section-136a.md)
 
@@ -774,7 +774,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 226 — Requirement of ballot before action by trade union.](part-v/section-226.md)
 
-#### Determination of means of voting[^key-cd15659570b25659d79fa8b380f40672]
+#### Determination of means of voting[^c-cd15659570b25659d79fa8b380f40672]
 
 - [Section 226ZA — Responsible person’s determination of means of voting](part-v/section-226za.md)
 - [Section 226A — Notice of ballot and sample voting materials for employers.](part-v/section-226a.md)
@@ -790,19 +790,19 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 229 — Postal voting and workplace voting: voting paper](part-v/section-229.md)
 
-#### Postal voting[^key-e308923a5c522c2bd584cb6016dbb323]
+#### Postal voting[^c-e308923a5c522c2bd584cb6016dbb323]
 
 - [Section 230 — Postal voting: additional requirements for conduct of ballot](part-v/section-230.md)
 
-#### Electronic voting[^key-c1e967a51e9c0eba4b2863e25dd559b8]
+#### Electronic voting[^c-c1e967a51e9c0eba4b2863e25dd559b8]
 
 - [Section 230A — Electronic voting](part-v/section-230a.md)
 
-#### Hybrid voting[^key-c1e967a51e9c0eba4b2863e25dd559b8]
+#### Hybrid voting[^c-c1e967a51e9c0eba4b2863e25dd559b8]
 
 - [Section 230B — Hybrid voting](part-v/section-230b.md)
 
-#### Workplace voting[^key-c1e967a51e9c0eba4b2863e25dd559b8]
+#### Workplace voting[^c-c1e967a51e9c0eba4b2863e25dd559b8]
 
 - [Section 230C — Workplace voting](part-v/section-230c.md)
 - [Section 230D — Workplace voting: notice of ballot](part-v/section-230d.md)
@@ -825,7 +825,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 234A — Notice to employers of industrial action.](part-v/section-234a.md)
 
-#### ...[^key-a2a13578f4ae4d943aba89fd589c68b1]
+#### ...[^c-a2a13578f4ae4d943aba89fd589c68b1]
 
 - [Section 234B — Power of Secretary of State to specify minimum service levels](part-v/section-234b.md)
 - [Section 234C — Work notices relating to minimum service levels](part-v/section-234c.md)
@@ -834,7 +834,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 234F — Regulations: consultation and supplementary](part-v/section-234f.md)
 - [Section 234G — Interpretation of terms relating to minimum service levels](part-v/section-234g.md)
 
-#### Sections 226 to 234A: meaning of “contract of employment”[^key-75e2f4202dcfcc2316d1f44660917873]
+#### Sections 226 to 234A: meaning of “contract of employment”[^c-75e2f4202dcfcc2316d1f44660917873]
 
 *Extent: E+W+S*
 
@@ -850,7 +850,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 236 — No compulsion to work.](part-v/section-236.md)
 
-#### Protection against detriment[^key-6b4650436a66d71e80c6cff137211cbf]
+#### Protection against detriment[^c-6b4650436a66d71e80c6cff137211cbf]
 
 - [Section 236A — Detriment on grounds of industrial action](part-v/section-236a.md)
 - [Section 236B — Time limit for proceedings](part-v/section-236b.md)
@@ -1049,37 +1049,37 @@ SCHEDULES
 
 ## Annotations
 
-[^key-3193441aab52ebdafa81fb2e2cf1bf3e]: Modification: Act excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/15/2/a)[s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para. 15(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/5/paragraph); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
+[^c-3193441aab52ebdafa81fb2e2cf1bf3e]: Modification: Act excluded (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [para. 15(2)(a)](https://www.legislation.gov.uk/ukpga/2013/22/paragraph/15/2/a)[s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 5 para. 15(1)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/5/paragraph); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(m)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/m)
 
-[^key-ba89ac39c3926548c3652356bce909ce]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/52) modified (10.3.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 7 para. 14(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/7/paragraph/14/4); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/251/article/3/b)
+[^c-ba89ac39c3926548c3652356bce909ce]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1992/52) modified (10.3.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 7 para. 14(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/7/paragraph/14/4); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/251/article/3/b)
 
 [^c14513791]: Textual amendment: Ss. 37A-37E inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.10](https://www.legislation.gov.uk/ukpga/1993/19/section/10); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-42bbf9f7fe536fb01dbb5c1946a29789]: Textual amendment: S. 46A and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2026/881/article/3/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-42bbf9f7fe536fb01dbb5c1946a29789]: Textual amendment: S. 46A and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2026/881/article/3/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-792a0a593f141c0fb302988cb4ace1ba]: Textual amendment: [Ss. 51ZA-51ZC](https://www.legislation.gov.uk/ukpga/1992/52/section/51ZA) and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2026/881/article/3/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-792a0a593f141c0fb302988cb4ace1ba]: Textual amendment: [Ss. 51ZA-51ZC](https://www.legislation.gov.uk/ukpga/1992/52/section/51ZA) and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(7)](https://www.legislation.gov.uk/uksi/2026/881/article/3/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]: Textual amendment: Ss. 51B, 51C and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2026/881/article/3/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-e0e8f4ab4b79ffa4b9566a86ae8ff6f2]: Textual amendment: Ss. 51B, 51C and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2026/881/article/3/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^M_F_ba849096-d39e-4418-84e4-b44cdcfab56d]: Textual amendment: [S. 52](https://www.legislation.gov.uk/ukpga/1992/52/section/52) cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2026/881/article/3/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14514811]: Textual amendment: Heading substituted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.15](https://www.legislation.gov.uk/ukpga/1993/19/section/15), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/1993/19/schedule/9/paragraph/2); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-e1bdf4741bf99a74d07bf2dc2c67ee40]: Textual amendment: [Pt. 1 Ch. 5ZA](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/5ZA) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)
+[^c-e1bdf4741bf99a74d07bf2dc2c67ee40]: Textual amendment: [Pt. 1 Ch. 5ZA](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/5ZA) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/59/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(19)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/19/b)
 
 [^c14515061]: Textual amendment: [S. 70A](https://www.legislation.gov.uk/ukpga/1992/52/section/70A) of Chapter VA Pt. I and Chapter heading inserted (6.6.2000) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1999/26/section/1/2); [S.I. 2000/1338](https://www.legislation.gov.uk/uksi/2000/1338), [art. 2(a)](https://www.legislation.gov.uk/uksi/2000/1338/article/2/a)
 
-[^key-1a25d560e20f6072872377d3956955df]: Textual amendment: Ss. 72B-72P and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/881/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-1a25d560e20f6072872377d3956955df]: Textual amendment: Ss. 72B-72P and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(2)](https://www.legislation.gov.uk/uksi/2026/881/article/4/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-189a902efc9446dc7fc823fb08558fe8]: Textual amendment: Words in [s. 73 cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/VI/crossheading/political-resolution) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2026/881/article/4/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-189a902efc9446dc7fc823fb08558fe8]: Textual amendment: Words in [s. 73 cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/part/I/chapter/VI/crossheading/political-resolution) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2026/881/article/4/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-5289ee146a91b1735745b39cbda0dcf8]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1992/52/section/79) cross-heading inserted (E.W.S.) (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2026/881/article/4/6) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-5289ee146a91b1735745b39cbda0dcf8]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1992/52/section/79) cross-heading inserted (E.W.S.) (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [4(6)](https://www.legislation.gov.uk/uksi/2026/881/article/4/6) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-9b45451656ee33c917aad030567253bd]: Textual amendment: S. 100ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2026/881/article/5/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-9b45451656ee33c917aad030567253bd]: Textual amendment: S. 100ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2026/881/article/5/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-1924f3564da6b2feced173dde9e3a346]: Textual amendment: [Ss. 100CA-100CC](https://www.legislation.gov.uk/ukpga/1992/52/section/100CA) and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2026/881/article/5/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-1924f3564da6b2feced173dde9e3a346]: Textual amendment: [Ss. 100CA-100CC](https://www.legislation.gov.uk/ukpga/1992/52/section/100CA) and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(8)](https://www.legislation.gov.uk/uksi/2026/881/article/5/8) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-43be7aef81c2253a2b130251d00bc135]: Textual amendment: Ss. 100DA, 100DB and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2026/881/article/5/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-43be7aef81c2253a2b130251d00bc135]: Textual amendment: Ss. 100DA, 100DB and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2026/881/article/5/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^M_F_5e82993b-18d7-4522-a96b-a926bb2947e6]: Textual amendment: S. 100E cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [5(10)](https://www.legislation.gov.uk/uksi/2026/881/article/5/10) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
@@ -1089,9 +1089,9 @@ SCHEDULES
 
 [^c20383491]: Textual amendment: S. 116A and preceding cross-heading inserted (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2004/24/section/55/1), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule) (with [arts. 6-21](https://www.legislation.gov.uk/uksi/2005/872/article/6))
 
-[^key-ea14f5ff375200f34f06d3a1c23af06e]: Textual amendment: S. 116B and cross-heading omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/63/1/a), [159(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/c) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/5))
+[^c-ea14f5ff375200f34f06d3a1c23af06e]: Textual amendment: S. 116B and cross-heading omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/63/1/a), [159(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/c) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/5))
 
-[^key-9d905576e4bc899953131d96bbddd416]: Textual amendment: [S. 136A](https://www.legislation.gov.uk/ukpga/1992/52/section/136A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/b)
+[^c-9d905576e4bc899953131d96bbddd416]: Textual amendment: [S. 136A](https://www.legislation.gov.uk/ukpga/1992/52/section/136A) and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/58/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(18)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/18/b)
 
 [^c20383931]: Textual amendment: Ss. 145A-145F and cross-heading inserted (1.10.2004) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [ss. 29](https://www.legislation.gov.uk/ukpga/2004/24/section/29), [59(2)-(4)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/2); [S.I. 2004/2566](https://www.legislation.gov.uk/uksi/2004/2566), [art. 3(a)](https://www.legislation.gov.uk/uksi/2004/2566/article/3/a) (with [arts. 4-8](https://www.legislation.gov.uk/uksi/2004/2566/article/4))
 
@@ -1105,23 +1105,23 @@ SCHEDULES
 
 [^c14518811]: Textual amendment: Words in heading omitted (26.10.1995) by [S.I. 1995/2587](https://www.legislation.gov.uk/uksi/1995/2587), [reg. 3(10)](https://www.legislation.gov.uk/uksi/1995/2587/regulation/3/10)
 
-[^key-cd15659570b25659d79fa8b380f40672]: Textual amendment: S. 226ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2026/881/article/7/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-cd15659570b25659d79fa8b380f40672]: Textual amendment: S. 226ZA and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(3)](https://www.legislation.gov.uk/uksi/2026/881/article/7/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^M_F_a467b019-b52a-4a9f-c17d-5e4acda4ad2f]: Textual amendment: S. 229 cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(7)](https://www.legislation.gov.uk/uksi/2026/881/article/7/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-e308923a5c522c2bd584cb6016dbb323]: Textual amendment: S. 230 cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(9)](https://www.legislation.gov.uk/uksi/2026/881/article/7/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-e308923a5c522c2bd584cb6016dbb323]: Textual amendment: S. 230 cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(9)](https://www.legislation.gov.uk/uksi/2026/881/article/7/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
-[^key-c1e967a51e9c0eba4b2863e25dd559b8]: Textual amendment: Ss. 230A-230H and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(11)](https://www.legislation.gov.uk/uksi/2026/881/article/7/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-c1e967a51e9c0eba4b2863e25dd559b8]: Textual amendment: Ss. 230A-230H and cross-headings inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [7(11)](https://www.legislation.gov.uk/uksi/2026/881/article/7/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
 
 [^c14520761]: Textual amendment: S. 234A and cross heading inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.21](https://www.legislation.gov.uk/ukpga/1993/19/section/21); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-a2a13578f4ae4d943aba89fd589c68b1]: Textual amendment: [S. 234B cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/part/V/crossheading/minimum-service-levels-for-certain-services) omitted (18.12.2025) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/c), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-a2a13578f4ae4d943aba89fd589c68b1]: Textual amendment: [S. 234B cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/part/V/crossheading/minimum-service-levels-for-certain-services) omitted (18.12.2025) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/c), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
 
-[^key-75e2f4202dcfcc2316d1f44660917873]: Textual amendment: [S. 235 cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/part/V/crossheading/construction-of-references-to-contract-of-employment) substituted (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/d), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
+[^c-75e2f4202dcfcc2316d1f44660917873]: Textual amendment: [S. 235 cross-heading](https://www.legislation.gov.uk/ukpga/1992/52/part/V/crossheading/construction-of-references-to-contract-of-employment) substituted (18.12.2025) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 78(2)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/78/2/d), [159(1)(c)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/c)
 
 [^c14520911]: Textual amendment: Ss. 235A- 235C and cross heading inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s.22](https://www.legislation.gov.uk/ukpga/1993/19/section/22); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 
-[^key-6b4650436a66d71e80c6cff137211cbf]: Textual amendment: [S. 236A-236D](https://www.legislation.gov.uk/ukpga/1992/52/section/236A) and cross-heading inserted (6.1.2026 for specified purposes, 18.2.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 2(23)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/b), [3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
+[^c-6b4650436a66d71e80c6cff137211cbf]: Textual amendment: [S. 236A-236D](https://www.legislation.gov.uk/ukpga/1992/52/section/236A) and cross-heading inserted (6.1.2026 for specified purposes, 18.2.2026 in so far as not already in force) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/76/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [regs. 2(23)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/23/b), [3(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/7)
 
 [^c14522131]: Textual amendment: S. 266 and the cross heading immediately preceding it repealed (25.10.1999) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 44](https://www.legislation.gov.uk/ukpga/1999/26/section/44), [Sch. 9(6)](https://www.legislation.gov.uk/ukpga/1999/26/schedule/9/6); [S.I. 1999/2830](https://www.legislation.gov.uk/uksi/1999/2830), [art. 2(3)](https://www.legislation.gov.uk/uksi/1999/2830/article/2/3), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2830/schedule/2/part/I) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1999/2830/schedule/3/paragraph/4))
 

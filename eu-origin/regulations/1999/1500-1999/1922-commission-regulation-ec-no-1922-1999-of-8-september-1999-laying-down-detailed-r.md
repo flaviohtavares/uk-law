@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1922/1999
 
 of 8 September 1999 laying down detailed rules for the application of Council Regulation (EC) No 850/98 as regards conditions under which vessels exceeding eight metres length overall shall be permitted to use beam trawls within certain waters of the Community (revoked)
 
-[^key-e51da65c281917bb915b3f13b85e1867]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e51da65c281917bb915b3f13b85e1867]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e51da65c281917bb915b3f13b85e1867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e51da65c281917bb915b3f13b85e1867] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e51da65c281917bb915b3f13b85e1867]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [reg. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/753/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e51da65c281917bb915b3f13b85e1867]: Textual amendment: Regulation revoked (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [reg. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/753/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

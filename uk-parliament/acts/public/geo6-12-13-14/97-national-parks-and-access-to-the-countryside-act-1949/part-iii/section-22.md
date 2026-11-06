@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-Where the appropriate conservation body[^key-39f75f4adbdd6d0ae80f95d4587a1d70], a local authority or any other person enter into an agreement with a drainage authority for the doing by that authority of any work on land managed as a nature reserve by, or under an agreement with, the appropriate conservation body or a local authority, no limitation imposed by law on the capacity of the drainage authority by virtue of the constitution thereof shall operate so as to prevent the drainage authority carrying out the agreement.
+Where the appropriate conservation body[^c-39f75f4adbdd6d0ae80f95d4587a1d70], a local authority or any other person enter into an agreement with a drainage authority for the doing by that authority of any work on land managed as a nature reserve by, or under an agreement with, the appropriate conservation body or a local authority, no limitation imposed by law on the capacity of the drainage authority by virtue of the constitution thereof shall operate so as to prevent the drainage authority carrying out the agreement.
 
 ## Annotations
 
@@ -30,4 +30,4 @@ Where the appropriate conservation body[^key-39f75f4adbdd6d0ae80f95d4587a1d70], 
 
 [^c641940]: Modification: S. 22 amended (E.W.) by [Local Government Act 1972 (c. 70, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 17 para. 34](https://www.legislation.gov.uk/ukpga/1972/70/schedule/17/paragraph/34)
 
-[^key-39f75f4adbdd6d0ae80f95d4587a1d70]: Textual amendment: Words in s. 22 substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 15(f)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/15/f); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-39f75f4adbdd6d0ae80f95d4587a1d70]: Textual amendment: Words in s. 22 substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 15(f)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/15/f); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

@@ -26,16 +26,16 @@ summary: ''
 
 - (a) section 43(1) of the Terrorism Act 2000 (c. 11) (search of suspected terrorist);
 - (b) section 43(2) of that Act (search of person arrested under section 41 on suspicion of being a terrorist);
-- (ba)[^key-b84af33b3e94e3559250876a07e51966] section 43(4B) of that Act (search of vehicle in relation to suspected terrorist);
+- (ba)[^c-b84af33b3e94e3559250876a07e51966] section 43(4B) of that Act (search of vehicle in relation to suspected terrorist);
 - (bb) section 43A of that Act (search of vehicle suspected of being used for the purposes of terrorism);
-- (bc)[^key-52961887f2c9203b0f7360d9966a0812] section 43C(1) of that Act (search of terrorist offender released on licence);
+- (bc)[^c-52961887f2c9203b0f7360d9966a0812] section 43C(1) of that Act (search of terrorist offender released on licence);
 - (bd) section 43C(5) of that Act (search of vehicle in connection with search of terrorist offender released on licence);
 - (be) section 43D of that Act (search of premises of offender released on licence for purposes connected with protection from risk of terrorism);
 - (c) paragraph 1, 3, 11, 15, 28 or 31 of Schedule 5 to that Act (terrorist investigations);
 - (d) section 52(1) or (3)(b) of the Anti-terrorism, Crime and Security Act 2001 (c. 24) (search for evidence of commission of weapons-related offences);
-- (e)[^key-a63d93638fa054a5a6282f81f4524201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-a63d93638fa054a5a6282f81f4524201] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) section 28 of the Terrorism Act 2006 (c. 11) (search for terrorist publications).
-- (g)[^key-5d52b858ea339df3cc5512f58eabc009] paragraphs 6, 7, 8 or 10 of Schedule 5 to the Terrorism Prevention and Investigation Measures Act 2011.
+- (g)[^c-5d52b858ea339df3cc5512f58eabc009] paragraphs 6, 7, 8 or 10 of Schedule 5 to the Terrorism Prevention and Investigation Measures Act 2011.
 
 (2) A constable who carries out a search to which this section applies may, for the purpose of ascertaining whether a document is one that may be seized, remove the document to another place for examination and retain it there until the examination is completed.
 
@@ -50,10 +50,10 @@ the constable may require the document to be produced in a form in which it can 
 
 ## Annotations
 
-[^key-b84af33b3e94e3559250876a07e51966]: Textual amendment: S. 1(1)(ba)(bb) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 33](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/33) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-b84af33b3e94e3559250876a07e51966]: Textual amendment: S. 1(1)(ba)(bb) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 33](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/33) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-52961887f2c9203b0f7360d9966a0812]: Textual amendment: S. 1(1)(bc)-(be) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/3)
+[^c-52961887f2c9203b0f7360d9966a0812]: Textual amendment: S. 1(1)(bc)-(be) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(5)(w)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/w), [Sch. 19 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/19/paragraph/3)
 
-[^key-a63d93638fa054a5a6282f81f4524201]: Textual amendment: S. 1(1)(e) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/2/a) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-a63d93638fa054a5a6282f81f4524201]: Textual amendment: S. 1(1)(e) omitted (15.12.2011) by virtue of [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(2)(a)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/2/a) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
 
-[^key-5d52b858ea339df3cc5512f58eabc009]: Textual amendment: S. 1(1)(g) inserted (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/2/b) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-5d52b858ea339df3cc5512f58eabc009]: Textual amendment: S. 1(1)(g) inserted (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 7 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/7/paragraph/5/2/b) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))

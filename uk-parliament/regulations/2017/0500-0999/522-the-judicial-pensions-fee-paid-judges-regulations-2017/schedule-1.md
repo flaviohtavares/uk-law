@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Judicial offices[^key-96e2acce246fe2c6df7a969a045924a5]
+## SCHEDULE 1 — Judicial offices[^c-96e2acce246fe2c6df7a969a045924a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ Table 3
 | Deputy Master of the Senior Courts | 210 |
 | Deputy Taxing Master | 210 |
 | Deputy Master of the King’s Bench Division | 210 |
-| Deputy Master of the Business and Property Division[^key-d3ba0e0d70cd7708fc72e694e6ad433d] | 210 |
+| Deputy Master of the Business and Property Division[^c-d3ba0e0d70cd7708fc72e694e6ad433d] | 210 |
 | Deputy Bankruptcy Registrar | 210 |
 | Deputy Costs Judge | 210 |
 | Deputy Insolvency and Companies Court Judge | 210 |
@@ -119,7 +119,7 @@ Table 4
 | First-tier Tribunal Judge (Property Chamber) Land Registration | 220 | 1st January 2009 |
 | First-tier Tribunal Judge (Property Chamber) Residential Property | 220 | 30th June 2013 |
 | First-tier Tribunal Judge (Property Chamber) Agricultural Land and Drainage | 220 | 30th June 2013 |
-| First-tier Tribunal Judge (Health, Education and Social Care Chamber) Primary Health Lists[^key-c6b3090b4f17254f91ffb97bf37ce377] | 220 | 18th January 2010 |
+| First-tier Tribunal Judge (Health, Education and Social Care Chamber) Primary Health Lists[^c-c6b3090b4f17254f91ffb97bf37ce377] | 220 | 18th January 2010 |
 | Re-employed former Summary Sheriff, or part-time Summary Sheriff acting as Summary Sheriff (Scotland) | 215 |  |
 | Deputy Coroner (Northern Ireland) | 218 | 3rd April 2006 |
 | Member of a panel of Chairmen of Industrial Tribunals | 218 |  |
@@ -139,7 +139,7 @@ Table 4
 | President of the Adjudication Panel for Wales | 220 |  |
 | President of the Mental Health Review Tribunal for Wales | 220 |  |
 | President of Welsh Tribunals | 210 |  |
-| Legal Chair Agricultural Land Tribunal Wales[^key-6f6c474f51fb31b4c1a096709f2b9a4f] | 220 | 30th June 2013 |
+| Legal Chair Agricultural Land Tribunal Wales[^c-6f6c474f51fb31b4c1a096709f2b9a4f] | 220 | 30th June 2013 |
 | Deputy Legal Chair Agricultural Land Tribunal Wales | 220 | 30th June 2013 |
 | Deputy District Judge (Northern Ireland) | 218 | 31st March 1995 |
 | Legal Chair Competition Appeal Tribunal | 210 |  |
@@ -169,17 +169,17 @@ Table 4
 | Immigration Judge | 220 |  |
 | Legal Member Appeals Service | 220 |  |
 | Legal Member Transport Tribunal | 220 |  |
-| Judge of the Consumer Credit Appeal Tribunal[^key-58a29c5aa1ae3c9fae4b83a01eb3dea4] | 220 | 1st September 2009 |
+| Judge of the Consumer Credit Appeal Tribunal[^c-58a29c5aa1ae3c9fae4b83a01eb3dea4] | 220 | 1st September 2009 |
 | Judge of the Estate Agents Appeal Tribunal | 220 | 1st September 2009 |
 
 ## Annotations
 
-[^key-96e2acce246fe2c6df7a969a045924a5]: Textual amendment: Schs. 1-3 substituted for Sch. (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2023/403/regulation/66)
+[^c-96e2acce246fe2c6df7a969a045924a5]: Textual amendment: Schs. 1-3 substituted for Sch. (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [66](https://www.legislation.gov.uk/uksi/2023/403/regulation/66)
 
-[^key-d3ba0e0d70cd7708fc72e694e6ad433d]: Textual amendment: Words in Sch. 1 Table 3 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/19)
+[^c-d3ba0e0d70cd7708fc72e694e6ad433d]: Textual amendment: Words in Sch. 1 Table 3 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/19)
 
-[^key-c6b3090b4f17254f91ffb97bf37ce377]: Textual amendment: Words in Sch. 1 Table 4 inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [38(3)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/38/3)
+[^c-c6b3090b4f17254f91ffb97bf37ce377]: Textual amendment: Words in Sch. 1 Table 4 inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [38(3)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/38/3)
 
-[^key-6f6c474f51fb31b4c1a096709f2b9a4f]: Textual amendment: Words in Sch. 1 Table 4 inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [38(2)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/38/2)
+[^c-6f6c474f51fb31b4c1a096709f2b9a4f]: Textual amendment: Words in Sch. 1 Table 4 inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [38(2)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/38/2)
 
-[^key-58a29c5aa1ae3c9fae4b83a01eb3dea4]: Textual amendment: Words in Sch. 1 Table 4 inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [38(4)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/38/4)
+[^c-58a29c5aa1ae3c9fae4b83a01eb3dea4]: Textual amendment: Words in Sch. 1 Table 4 inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [38(4)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/38/4)

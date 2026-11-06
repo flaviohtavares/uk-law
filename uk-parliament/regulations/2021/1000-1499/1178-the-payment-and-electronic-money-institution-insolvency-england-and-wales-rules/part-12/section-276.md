@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 276. Notifications relating to documents[^key-e07af2a41838bcff66105c9ba06afa60]
+## 276. Notifications relating to documents[^c-e07af2a41838bcff66105c9ba06afa60]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 274, a notification relating to 
 
 ## Annotations
 
-[^key-e07af2a41838bcff66105c9ba06afa60]: Commencement: Rule 276 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e07af2a41838bcff66105c9ba06afa60]: Commencement: Rule 276 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

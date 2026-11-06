@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 301A. Consent to receive notices or other documents by electronic communication[^key-ba6737872c793d10fbed7e6cd9414b25]
+## 301A. Consent to receive notices or other documents by electronic communication[^c-ba6737872c793d10fbed7e6cd9414b25]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba6737872c793d10fbed7e6cd9414b25]: Textual amendment: [Art. 301A](https://www.legislation.gov.uk/nisi/2006/3336/article/301A) inserted (30.7.2021) by [The Water and Sewerage Services (Electronic Communications) Order (Northern Ireland) 2021 (S.R. 2021/184)](https://www.legislation.gov.uk/nisr/2021/184), [arts. 1](https://www.legislation.gov.uk/nisr/2021/184/article/1), [2](https://www.legislation.gov.uk/nisr/2021/184/article/2)
+[^c-ba6737872c793d10fbed7e6cd9414b25]: Textual amendment: [Art. 301A](https://www.legislation.gov.uk/nisi/2006/3336/article/301A) inserted (30.7.2021) by [The Water and Sewerage Services (Electronic Communications) Order (Northern Ireland) 2021 (S.R. 2021/184)](https://www.legislation.gov.uk/nisr/2021/184), [arts. 1](https://www.legislation.gov.uk/nisr/2021/184/article/1), [2](https://www.legislation.gov.uk/nisr/2021/184/article/2)

@@ -27,7 +27,7 @@ summary: ''
 
 the provisions of this Act with respect to compensation shall apply as if that part of the holding were a separate holding which the tenant had quitted in consequence of a notice to quit.
 
-(2) In a case falling within subsection (1)(b) above, the Land Court, in determining[^key-3073aa7803778f13aa7dde0c3c071ded] the amount of compensation payable to the tenant, shall take into account any benefit or relief allowed to the tenant under the lease in respect of the land possession of which is resumed by the landlord.
+(2) In a case falling within subsection (1)(b) above, the Land Court, in determining[^c-3073aa7803778f13aa7dde0c3c071ded] the amount of compensation payable to the tenant, shall take into account any benefit or relief allowed to the tenant under the lease in respect of the land possession of which is resumed by the landlord.
 
 (3) Where any land comprised in a lease is not an agricultural holding within the meaning of this Act by reason only that the land so comprised includes land to which subsection (4) below applies, the provisions of this Act with respect to compensation for improvements and for disturbance shall, unless it is otherwise agreed in writing, apply to the part of the land exclusive of the land to which subsection (4) below applies as if that part were a separate agricultural holding.
 
@@ -35,4 +35,4 @@ the provisions of this Act with respect to compensation shall apply as if that p
 
 ## Annotations
 
-[^key-3073aa7803778f13aa7dde0c3c071ded]: Textual amendment: Words in s. 49(2) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 30](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/30) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-3073aa7803778f13aa7dde0c3c071ded]: Textual amendment: Words in s. 49(2) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [s. 95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3)[(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4), [Sch. para. 30](https://www.legislation.gov.uk/asp/2003/11/schedule/paragraph/30) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(i)](https://www.legislation.gov.uk/ssi/2003/548/article/2/i) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

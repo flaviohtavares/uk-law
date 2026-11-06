@@ -32,7 +32,7 @@ summary: ''
 
 High Court Of Justiciary
 
-The High Court of Justiciary Fees Order 2015 (revoked)[^key-c11aadbe87de84347bfd52a083c255e4]
+The High Court of Justiciary Fees Order 2015 (revoked)[^c-c11aadbe87de84347bfd52a083c255e4]
 
 Made
 
@@ -44,49 +44,49 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-c11aadbe87de84347bfd52a083c255e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c11aadbe87de84347bfd52a083c255e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-c11aadbe87de84347bfd52a083c255e4]
+## 1. Citation, commencement and effect[^c-c11aadbe87de84347bfd52a083c255e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable in the High Court of Justiciary[^key-c11aadbe87de84347bfd52a083c255e4]
+## 2. Fees payable in the High Court of Justiciary[^c-c11aadbe87de84347bfd52a083c255e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of certain persons from fees[^key-c11aadbe87de84347bfd52a083c255e4]
+## 3. Exemption of certain persons from fees[^c-c11aadbe87de84347bfd52a083c255e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-c11aadbe87de84347bfd52a083c255e4]
+## 4. Revocations[^c-c11aadbe87de84347bfd52a083c255e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c11aadbe87de84347bfd52a083c255e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c11aadbe87de84347bfd52a083c255e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-c11aadbe87de84347bfd52a083c255e4]
+## SCHEDULE 1 — TABLE OF FEES[^c-c11aadbe87de84347bfd52a083c255e4]
 
 Article 2(1)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-c11aadbe87de84347bfd52a083c255e4]
+## SCHEDULE 2 — TABLE OF FEES[^c-c11aadbe87de84347bfd52a083c255e4]
 
 Article 2(1)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-c11aadbe87de84347bfd52a083c255e4]
+## SCHEDULE 3 — TABLE OF FEES[^c-c11aadbe87de84347bfd52a083c255e4]
 
 Article 2(1)(c)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Revocations[^key-c11aadbe87de84347bfd52a083c255e4]
+## SCHEDULE 4 — Revocations[^c-c11aadbe87de84347bfd52a083c255e4]
 
 Article 4
 
@@ -94,8 +94,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-c11aadbe87de84347bfd52a083c255e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c11aadbe87de84347bfd52a083c255e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c11aadbe87de84347bfd52a083c255e4]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/262) revoked (25.4.2018) by [The High Court of Justiciary Fees Order 2018 (revoked) 2018 (S.S.I. 2018/84)](https://www.legislation.gov.uk/ssi/2018/84), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/84/article/1/1), [5](https://www.legislation.gov.uk/ssi/2018/84/article/5)
+[^c-c11aadbe87de84347bfd52a083c255e4]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/262) revoked (25.4.2018) by [The High Court of Justiciary Fees Order 2018 (revoked) 2018 (S.S.I. 2018/84)](https://www.legislation.gov.uk/ssi/2018/84), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/84/article/1/1), [5](https://www.legislation.gov.uk/ssi/2018/84/article/5)

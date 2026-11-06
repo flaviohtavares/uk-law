@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Disqualification as director: bankruptcy, etc in Scotland and Northern Ireland[^key-e6bc75430ad5b01bb7bc51d75904e506]
+## 113. Disqualification as director: bankruptcy, etc in Scotland and Northern Ireland[^c-e6bc75430ad5b01bb7bc51d75904e506]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6bc75430ad5b01bb7bc51d75904e506]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2015/26/section/113) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/11))
+[^c-e6bc75430ad5b01bb7bc51d75904e506]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2015/26/section/113) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/11))

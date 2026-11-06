@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The Nuclear Decommissioning Authority[^key-02c0373933da89133ed4725226430602]
+## 1. The Nuclear Decommissioning Authority[^c-02c0373933da89133ed4725226430602]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ and the NDA’s property is not to be regarded as property of the Crown, or as h
 
 ## Annotations
 
-[^key-02c0373933da89133ed4725226430602]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2004/20/section/1) in force at 27.7.2004 by [S.I. 2004/1973](https://www.legislation.gov.uk/uksi/2004/1973), [art. 2](https://www.legislation.gov.uk/uksi/2004/1973/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1973/schedule)
+[^c-02c0373933da89133ed4725226430602]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2004/20/section/1) in force at 27.7.2004 by [S.I. 2004/1973](https://www.legislation.gov.uk/uksi/2004/1973), [art. 2](https://www.legislation.gov.uk/uksi/2004/1973/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/1973/schedule)

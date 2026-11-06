@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Unauthorised access to computer material[^key-6cabd0c5843f587a1b28ca6efa5ad5be][^key-7f78c2bbbdc61498c4e90939d98597d2]
+## 35. Unauthorised access to computer material[^c-6cabd0c5843f587a1b28ca6efa5ad5be][^c-7f78c2bbbdc61498c4e90939d98597d2]
 
 *Extent: E+W*
 
 (1) In the Computer Misuse Act 1990 (c. 18) (“**the 1990 Act**”), section 1 (offence of unauthorised access to computer material) is amended as follows.
 
-(2)[^key-8fdd33b8feceb9e5a7b700cec83b4563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8fdd33b8feceb9e5a7b700cec83b4563] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For subsection (3) there is substituted—
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-6cabd0c5843f587a1b28ca6efa5ad5be]: Commencement: S. 35 in force at 1.10.2007 for S. by [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/434/article/2/a)
+[^c-6cabd0c5843f587a1b28ca6efa5ad5be]: Commencement: S. 35 in force at 1.10.2007 for S. by [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/434/article/2/a)
 
-[^key-7f78c2bbbdc61498c4e90939d98597d2]: Commencement: S. 35 in force at 1.10.2008 for E.W.N.I. by [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/a)
+[^c-7f78c2bbbdc61498c4e90939d98597d2]: Commencement: S. 35 in force at 1.10.2008 for E.W.N.I. by [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/a)
 
-[^key-8fdd33b8feceb9e5a7b700cec83b4563]: Textual amendment: [S. 35(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/35/2) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/61/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a/i)
+[^c-8fdd33b8feceb9e5a7b700cec83b4563]: Textual amendment: [S. 35(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/35/2) repealed (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 61(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/61/2), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2007/27/schedule/14) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a/i)

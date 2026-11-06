@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Enforcement authorities[^key-09fb5dc2cf4fa3ef13515311a5a9b422][^key-c248486565c6a86acb571dfa648b62c1]
+## 18. Enforcement authorities[^c-09fb5dc2cf4fa3ef13515311a5a9b422][^c-c248486565c6a86acb571dfa648b62c1]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09fb5dc2cf4fa3ef13515311a5a9b422]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2017/2/section/18) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/e)
+[^c-09fb5dc2cf4fa3ef13515311a5a9b422]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2017/2/section/18) in force at 29.9.2020 for specified purposes by [S.I. 2020/1048](https://www.legislation.gov.uk/wsi/2020/1048), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2020/1048/article/2/1/e)
 
-[^key-c248486565c6a86acb571dfa648b62c1]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2017/2/section/18) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-c248486565c6a86acb571dfa648b62c1]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2017/2/section/18) in force at 1.3.2021 in so far as not already in force by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

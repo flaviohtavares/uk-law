@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Annex 6[^key-3164761509cc981e79d9f78597804b5e]
+## 41. Annex 6[^c-3164761509cc981e79d9f78597804b5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3164761509cc981e79d9f78597804b5e]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-3164761509cc981e79d9f78597804b5e]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)

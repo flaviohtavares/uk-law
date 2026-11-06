@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116.[^key-e5f07e4c632bc8c58eced690734c0767]
+## 116.[^c-e5f07e4c632bc8c58eced690734c0767]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where an acquisition in Northern Ireland of goods from a member State is treated
 
 ## Annotations
 
-[^key-e5f07e4c632bc8c58eced690734c0767]: Commencement: Reg. 116 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e5f07e4c632bc8c58eced690734c0767]: Commencement: Reg. 116 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 53. Closure of full retirement account[^key-0d7520074db90f723442a28e9dba9ed3]
+## 53. Closure of full retirement account[^c-0d7520074db90f723442a28e9dba9ed3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager must close a full retirement account if a full retirement pen
 
 ## Annotations
 
-[^key-0d7520074db90f723442a28e9dba9ed3]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2014/290/regulation/53) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-0d7520074db90f723442a28e9dba9ed3]: Commencement: [Reg. 53](https://www.legislation.gov.uk/nisr/2014/290/regulation/53) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Effect of allocation[^key-f0ba66c5a14a798aafc405b756fdc97d]
+## 63. Effect of allocation[^c-f0ba66c5a14a798aafc405b756fdc97d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0ba66c5a14a798aafc405b756fdc97d]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2014/2336/regulation/63) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-f0ba66c5a14a798aafc405b756fdc97d]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2014/2336/regulation/63) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

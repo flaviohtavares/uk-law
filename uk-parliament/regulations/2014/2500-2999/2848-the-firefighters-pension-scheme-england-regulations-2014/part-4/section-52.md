@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Establishment of survivor member’s account[^key-1f8951236cc7a8236a3cd42f474bac8d]
+## 52. Establishment of survivor member’s account[^c-1f8951236cc7a8236a3cd42f474bac8d]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f8951236cc7a8236a3cd42f474bac8d]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/2848/regulation/52) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-1f8951236cc7a8236a3cd42f474bac8d]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2014/2848/regulation/52) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

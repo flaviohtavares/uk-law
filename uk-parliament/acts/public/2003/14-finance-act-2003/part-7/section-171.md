@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Policies of life insurance etc: miscellaneous amendments[^key-fc83842a2077bd9b6a4d3e2f3d2dfb81]
+## 171. Policies of life insurance etc: miscellaneous amendments[^c-fc83842a2077bd9b6a4d3e2f3d2dfb81]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc83842a2077bd9b6a4d3e2f3d2dfb81]: Textual amendment: [S. 171](https://www.legislation.gov.uk/ukpga/2003/14/section/171) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(l)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/l)
+[^c-fc83842a2077bd9b6a4d3e2f3d2dfb81]: Textual amendment: [S. 171](https://www.legislation.gov.uk/ukpga/2003/14/section/171) omitted (with effect in accordance with Sch. 14 para. 18 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 14 para. 17(l)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/14/paragraph/17/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Discharge of obligation of landowner by agreement[^key-d66c474c245af887e3ca29aa8fd3e349][^key-b7eb539cdf2c43ec4b069701f0143bbb]
+## 127. Discharge of obligation of landowner by agreement[^c-d66c474c245af887e3ca29aa8fd3e349][^c-b7eb539cdf2c43ec4b069701f0143bbb]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d66c474c245af887e3ca29aa8fd3e349]: Commencement: S. 127 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-d66c474c245af887e3ca29aa8fd3e349]: Commencement: S. 127 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-b7eb539cdf2c43ec4b069701f0143bbb]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2021/30/section/127) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-b7eb539cdf2c43ec4b069701f0143bbb]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2021/30/section/127) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

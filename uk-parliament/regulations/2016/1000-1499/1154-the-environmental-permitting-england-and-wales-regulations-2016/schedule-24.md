@@ -36,14 +36,14 @@ Regulation 35(1)
 - “**economically justified demand**” means demand that does not exceed the needs for heating or cooling and which would otherwise be satisfied at market conditions by energy generation processes other than cogeneration;
 - “**high-efficiency cogeneration**” means cogeneration meeting the criteria laid down in Annex II to the Energy Efficiency Directive;
 - “**installation**” means—
-  - (a) a stationary technical unit where one or more activities listed in Part 2 of Schedule 1 are carried on, [^key-c313d2f78733ae1e5c9f63ae521f3b08]...
-  - (b) a small waste incineration plant; or[^key-1e274f032fbe5255ed743e69173af1c3]
+  - (a) a stationary technical unit where one or more activities listed in Part 2 of Schedule 1 are carried on, [^c-c313d2f78733ae1e5c9f63ae521f3b08]...
+  - (b) a small waste incineration plant; or[^c-1e274f032fbe5255ed743e69173af1c3]
   - (c) a medium combustion plant;
 - “**relevant installation**” means an installation carrying on—
   - (a) an activity described in Part A(1) of Section 1.1 of Part 2 of Schedule 1,
   - (b) an activity described in Part A(1) of Section 5.1 of Part 2 of Schedule 1,
-  - (c) an activity described in paragraph (a) of Part B of Section 1.1 of Part 2 of Schedule 1, [^key-e9c758b630c457236e44e26e43a49544]...
-  - (d) a small waste incineration plant operation; or[^key-622b6349adb6615bfeae9e553e93b425]
+  - (c) an activity described in paragraph (a) of Part B of Section 1.1 of Part 2 of Schedule 1, [^c-e9c758b630c457236e44e26e43a49544]...
+  - (d) a small waste incineration plant operation; or[^c-622b6349adb6615bfeae9e553e93b425]
   - (e) a medium combustion plant operation;
 - “**substantially refurbished**” means, subject to sub-paragraph (2)(e), a refurbishment the cost of which exceeds 50% of the investment cost for a new comparable energy plant.
 
@@ -123,7 +123,7 @@ Paragraphs 3 and 4 do not apply to an installation, except an installation which
 (1) When considering an application for an environmental permit, or for a variation of an environmental permit, in accordance with this Schedule, the regulator must take into account—
 
 - (a) the outcome of the cost-benefit analysis carried out in accordance with this Schedule, and
-- (b) the outcome of any comprehensive assessment carried out in accordance with regulation 4(2)(a) of the Energy Efficiency (Encouragement, Assessment and Information) Regulations 2014[^key-31c9f17fa24bc4d6bbe67d1d7a723560].
+- (b) the outcome of any comprehensive assessment carried out in accordance with regulation 4(2)(a) of the Energy Efficiency (Encouragement, Assessment and Information) Regulations 2014[^c-31c9f17fa24bc4d6bbe67d1d7a723560].
 
 (2) Subject to sub-paragraph (4), where a cost-benefit analysis carried out in accordance with paragraphs 2(1), 2(3) and 3(4) shows that benefits exceed costs, the regulator must ensure that any environmental permit that is granted or varied includes appropriate conditions that will ensure the operation of the installation in a manner shown by that analysis to be cost beneficial.
 
@@ -135,7 +135,7 @@ Paragraphs 3 and 4 do not apply to an installation, except an installation which
 
 (6) This Schedule does not apply to—
 
-- (a) installations that need to be located close to a geological storage site approved under Chapter 3 of Part 1 of the Energy Act 2008 and other EU-derived domestic legislation which transposed Directive[^key-86564dc1ac25d80a6f8a09d5f7d3a640] [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) on the geological storage of carbon dioxide in relation to England and Wales;
+- (a) installations that need to be located close to a geological storage site approved under Chapter 3 of Part 1 of the Energy Act 2008 and other EU-derived domestic legislation which transposed Directive[^c-86564dc1ac25d80a6f8a09d5f7d3a640] [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) on the geological storage of carbon dioxide in relation to England and Wales;
 - (b) any relevant installation within a nuclear site, within the meaning given in paragraph 1 of Part 2 of Schedule 23, and which is dedicated to the production of nuclear power;
 - (c) mobile plant.
 
@@ -160,14 +160,14 @@ Paragraphs 3 and 4 do not apply to an installation, except an installation which
 
 ## Annotations
 
-[^key-c313d2f78733ae1e5c9f63ae521f3b08]: Textual amendment: Word in Sch. 24 para. 1(1) omitted (30.1.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(a)(i)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/a/i)
+[^c-c313d2f78733ae1e5c9f63ae521f3b08]: Textual amendment: Word in Sch. 24 para. 1(1) omitted (30.1.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(a)(i)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/a/i)
 
-[^key-1e274f032fbe5255ed743e69173af1c3]: Textual amendment: Words in Sch. 24 para. 1(1) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/a/ii)
+[^c-1e274f032fbe5255ed743e69173af1c3]: Textual amendment: Words in Sch. 24 para. 1(1) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(a)(ii)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/a/ii)
 
-[^key-e9c758b630c457236e44e26e43a49544]: Textual amendment: Word in Sch. 24 para. 1(1) omitted (30.1.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/b/i)
+[^c-e9c758b630c457236e44e26e43a49544]: Textual amendment: Word in Sch. 24 para. 1(1) omitted (30.1.2018) by virtue of [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(b)(i)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/b/i)
 
-[^key-622b6349adb6615bfeae9e553e93b425]: Textual amendment: Words in Sch. 24 para. 1(1) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(b)(ii)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/b/ii)
+[^c-622b6349adb6615bfeae9e553e93b425]: Textual amendment: Words in Sch. 24 para. 1(1) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [15(b)(ii)](https://www.legislation.gov.uk/uksi/2018/110/regulation/15/b/ii)
 
-[^key-31c9f17fa24bc4d6bbe67d1d7a723560]: Textual amendment: Words in [Sch. 24 para. 6(1)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/24/paragraph/6/1/b) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(25)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/25/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31c9f17fa24bc4d6bbe67d1d7a723560]: Textual amendment: Words in [Sch. 24 para. 6(1)(b)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/24/paragraph/6/1/b) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(25)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/25/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86564dc1ac25d80a6f8a09d5f7d3a640]: Textual amendment: Words in [Sch. 24 para. 6(6)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/24/paragraph/6/6/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(25)(b)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-86564dc1ac25d80a6f8a09d5f7d3a640]: Textual amendment: Words in [Sch. 24 para. 6(6)(a)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/24/paragraph/6/6/a) substituted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(25)(b)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

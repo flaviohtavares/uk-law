@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Eligible persons[^key-d45ad869a83212cc43cf2a4cbc19f50c]
+## 14. Eligible persons[^c-d45ad869a83212cc43cf2a4cbc19f50c]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d45ad869a83212cc43cf2a4cbc19f50c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2014/290/regulation/14) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-d45ad869a83212cc43cf2a4cbc19f50c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2014/290/regulation/14) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

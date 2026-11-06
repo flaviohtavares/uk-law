@@ -35,7 +35,7 @@ on transmissible animal diseases and amending and repealing certain acts in the 
 
 (Text with EEA relevance)
 
-[^key-2e58802c3ff99b3f25764610d1369a37]
+[^c-2e58802c3ff99b3f25764610d1369a37]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -1555,7 +1555,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## Annotations
 
-[^key-2e58802c3ff99b3f25764610d1369a37]: Modification: Regulation incorporated in part (with modifications) (E.W.S.) (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2024/853/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/853/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/853/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/853/regulation/12))
+[^c-2e58802c3ff99b3f25764610d1369a37]: Modification: Regulation incorporated in part (with modifications) (E.W.S.) (2.9.2024) by [The Windsor Framework (Retail Movement Scheme: Plant and Animal Health) (Amendment etc.) Regulations 2024 (S.I. 2024/853)](https://www.legislation.gov.uk/uksi/2024/853), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2024/853/regulation/1/2/b), [5](https://www.legislation.gov.uk/uksi/2024/853/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/853/regulation/6), [9](https://www.legislation.gov.uk/uksi/2024/853/regulation/9) (with [reg. 12](https://www.legislation.gov.uk/uksi/2024/853/regulation/12))
 
 [^f00001]: Footnote: [OJ C 170, 5.6.2014, p. 104](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2014.170.01.0104.01.ENG).
 

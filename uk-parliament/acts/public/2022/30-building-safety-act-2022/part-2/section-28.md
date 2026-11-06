@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Fees and charges[^key-0dc2000ef5375187c67373688cbf2990]
+## 28. Fees and charges[^c-0dc2000ef5375187c67373688cbf2990]
 
 *Extent: E+W*
 
@@ -41,8 +41,8 @@ for or in connection with the performance of a relevant function.
 
 (5) In this section “**relevant function**” means —
 
-- (a) any function of the regulator under, or under regulations made under, this Part or Part 4, [^key-8c7aa50fc1d43c853b5cd8e01dfc28a5]...
-- (b)[^key-8c7aa50fc1d43c853b5cd8e01dfc28a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any function of the regulator under, or under regulations made under, this Part or Part 4, [^c-8c7aa50fc1d43c853b5cd8e01dfc28a5]...
+- (b)[^c-8c7aa50fc1d43c853b5cd8e01dfc28a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The regulator may—
 
@@ -53,6 +53,6 @@ for or in connection with the performance of a relevant function.
 
 ## Annotations
 
-[^key-0dc2000ef5375187c67373688cbf2990]: Commencement: S. 28 in force at Royal Assent, see [s. 170(1)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/d)
+[^c-0dc2000ef5375187c67373688cbf2990]: Commencement: S. 28 in force at Royal Assent, see [s. 170(1)(d)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/d)
 
-[^key-8c7aa50fc1d43c853b5cd8e01dfc28a5]: Textual amendment: [S. 28(5)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/28/5/b) and word omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/17) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))
+[^c-8c7aa50fc1d43c853b5cd8e01dfc28a5]: Textual amendment: [S. 28(5)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/28/5/b) and word omitted (27.1.2026) by virtue of [The Building Safety Regulator (Establishment of New Body and Transfer of Functions etc.) Regulations 2026 (S.I. 2026/20)](https://www.legislation.gov.uk/uksi/2026/20), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/20/regulation/1/2), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/20/schedule/2/paragraph/17) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/20/regulation/5))

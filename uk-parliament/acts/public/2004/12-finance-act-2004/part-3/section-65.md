@@ -32,10 +32,10 @@ the Board may make a direction under section 64(5).
 - (a) registered for gross payment, or
 - (b) applying to be so registered.
 
-(3)[^key-70e18276127cf27c6225dac973f047d7][^key-268a451f2559b447c61ccf476f9b1830] In this section references to a change in the control of a company are references to such a change determined in accordance with section 995 of the Income Tax Act 2007.
+(3)[^c-70e18276127cf27c6225dac973f047d7][^c-268a451f2559b447c61ccf476f9b1830] In this section references to a change in the control of a company are references to such a change determined in accordance with section 995 of the Income Tax Act 2007.
 
 ## Annotations
 
-[^key-70e18276127cf27c6225dac973f047d7]: Commencement: S. 65(3) has effect as specified by [The Finance Act 2004, Section 77(1) and (7), (Appointed Day) Order 2006 (S.I. 2006/3240)](https://www.legislation.gov.uk/uksi/2006/3240), [art. 2](https://www.legislation.gov.uk/uksi/2006/3240/article/2)
+[^c-70e18276127cf27c6225dac973f047d7]: Commencement: S. 65(3) has effect as specified by [The Finance Act 2004, Section 77(1) and (7), (Appointed Day) Order 2006 (S.I. 2006/3240)](https://www.legislation.gov.uk/uksi/2006/3240), [art. 2](https://www.legislation.gov.uk/uksi/2006/3240/article/2)
 
-[^key-268a451f2559b447c61ccf476f9b1830]: Textual amendment: S. 65(3) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 460](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/460) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-268a451f2559b447c61ccf476f9b1830]: Textual amendment: S. 65(3) substituted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 460](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/460) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

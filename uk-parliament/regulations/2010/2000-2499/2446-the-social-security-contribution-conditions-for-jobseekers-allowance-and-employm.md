@@ -48,11 +48,11 @@ The Secretary of State for Work and Pensions makes the following Regulations in 
 
 This instrument contains only regulations made by virtue of, or consequential upon, sections 12 and 13 of the Welfare Reform Act 2009[^f00003] and is made before the end of the period of 6 months beginning with the coming into force of these sections[^f00004].
 
-## 1. Citation and commencement[^key-100178ffdd00ca014577beb66e0b904a]
+## 1. Citation and commencement[^c-100178ffdd00ca014577beb66e0b904a]
 
 These Regulations may be cited as the Social Security (Contribution Conditions for Jobseeker’s Allowance and Employment and Support Allowance) Regulations 2010 and come into force on 1st November 2010.
 
-## 2. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-3c3d793cf61c96069a7e75ab23000df7]
+## 2. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-3c3d793cf61c96069a7e75ab23000df7]
 
 In the Jobseeker’s Allowance Regulations 1996[^f00005], at the beginning of Part 3 (after the heading “OTHER CONDITIONS OF ENTITLEMENT”) insert the following new regulation—
 
@@ -64,7 +64,7 @@ In the Jobseeker’s Allowance Regulations 1996[^f00005], at the beginning of Pa
 
 .
 
-## 3. Amendment of the Employment and Support Allowance Regulations 2008[^key-742f986643b5637ec6cf09bd07a124f4]
+## 3. Amendment of the Employment and Support Allowance Regulations 2008[^c-742f986643b5637ec6cf09bd07a124f4]
 
 (1) The Employment and Support Allowance Regulations 2008[^f00006] are amended as follows.
 
@@ -78,7 +78,7 @@ In the Jobseeker’s Allowance Regulations 1996[^f00005], at the beginning of Pa
 
 .
 
-(3)[^key-c84b2060a8d0d72025371825778d1dd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c84b2060a8d0d72025371825778d1dd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -116,14 +116,14 @@ A full impact assessment has not been produced for this instrument as it has no 
 
 [^f00004]: Footnote: *See* section 173(5) of the Social Security Administration Act [1992 (c.5)](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-100178ffdd00ca014577beb66e0b904a]: Commencement: Reg. 1 in force at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1)
+[^c-100178ffdd00ca014577beb66e0b904a]: Commencement: Reg. 1 in force at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1)
 
-[^key-3c3d793cf61c96069a7e75ab23000df7]: Commencement: Reg. 2 in force at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1)
+[^c-3c3d793cf61c96069a7e75ab23000df7]: Commencement: Reg. 2 in force at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-742f986643b5637ec6cf09bd07a124f4]: Commencement: Reg. 3 in force at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1)
+[^c-742f986643b5637ec6cf09bd07a124f4]: Commencement: Reg. 3 in force at 1.11.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/2446/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
-[^key-c84b2060a8d0d72025371825778d1dd4]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2010/2446/regulation/3/3) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2011/2425/regulation/28)
+[^c-c84b2060a8d0d72025371825778d1dd4]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2010/2446/regulation/3/3) revoked (31.10.2011) by [The Social Security (Miscellaneous Amendments) (No. 3) Regulations 2011 (S.I. 2011/2425)](https://www.legislation.gov.uk/uksi/2011/2425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2425/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2011/2425/regulation/28)

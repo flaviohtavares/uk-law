@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Annual plan of the Chief Inspector[^key-9e7b9db9a64927773727db6e18939877][^key-5a36bd58a1e54f67d3ec5b3213eb5924]
+## 67. Annual plan of the Chief Inspector[^c-9e7b9db9a64927773727db6e18939877][^c-5a36bd58a1e54f67d3ec5b3213eb5924]
 
 *Extent: E+W*
 
@@ -37,15 +37,15 @@ summary: ''
 
 by such time before the beginning of the financial year to which it relates as they may jointly direct.
 
-(4)[^key-d202774587f1d5befa0e2dc97b7614b9] The Chief Inspector may publish the plan after it has been approved by—
+(4)[^c-d202774587f1d5befa0e2dc97b7614b9] The Chief Inspector may publish the plan after it has been approved by—
 
 - (a) the Commission, and
 - (b) the Welsh Ministers.
 
 ## Annotations
 
-[^key-9e7b9db9a64927773727db6e18939877]: Commencement: S. 67 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-9e7b9db9a64927773727db6e18939877]: Commencement: S. 67 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-5a36bd58a1e54f67d3ec5b3213eb5924]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2022/1/section/67) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(k)](https://www.legislation.gov.uk/wsi/2026/62/article/2/k)
+[^c-5a36bd58a1e54f67d3ec5b3213eb5924]: Commencement: [S. 67](https://www.legislation.gov.uk/asc/2022/1/section/67) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(k)](https://www.legislation.gov.uk/wsi/2026/62/article/2/k)
 
-[^key-d202774587f1d5befa0e2dc97b7614b9]: Modification: [S. 67(4)](https://www.legislation.gov.uk/asc/2022/1/section/67/4) applied (with modifications) (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 7, Transitory, Transitional and Savings Provisions) Order 2026 (W.S.I. 2026/62)](https://www.legislation.gov.uk/wsi/2026/62), [art. 15(2)](https://www.legislation.gov.uk/wsi/2026/62/article/15/2)
+[^c-d202774587f1d5befa0e2dc97b7614b9]: Modification: [S. 67(4)](https://www.legislation.gov.uk/asc/2022/1/section/67/4) applied (with modifications) (1.4.2026) by [The Tertiary Education and Research (Wales) Act 2022 (Commencement No. 7, Transitory, Transitional and Savings Provisions) Order 2026 (W.S.I. 2026/62)](https://www.legislation.gov.uk/wsi/2026/62), [art. 15(2)](https://www.legislation.gov.uk/wsi/2026/62/article/15/2)

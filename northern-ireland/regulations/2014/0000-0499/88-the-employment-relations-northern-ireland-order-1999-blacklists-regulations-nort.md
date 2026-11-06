@@ -159,7 +159,7 @@ where the use or supply is necessary in order to determine whether these Regulat
 
 (1) Subject to paragraph (2), an industrial tribunal shall not consider a complaint under regulation 5 or 6 unless it is presented to the tribunal before the end of the period of three months beginning with the date of the conduct to which the complaint relates.
 
-(1A)[^key-4f53f64f481d2713aefdb4c14cdf1e98] Regulation 18 (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
+(1A)[^c-4f53f64f481d2713aefdb4c14cdf1e98] Regulation 18 (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
 
 (2) An industrial tribunal may consider a complaint under regulation 5 or 6 that is otherwise out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -220,7 +220,7 @@ where the use or supply is necessary in order to determine whether these Regulat
 
 (1) Subject to paragraph (2), an industrial tribunal shall not consider a complaint under regulation 9 unless it is presented before the end of the period of three months beginning with the date of the act or failure to which the complaint relates or, where that act or failure is part of a series of similar acts or failures (or both), the last of them.
 
-(1A)[^key-dcbb9ae8dbee49bfeb45ce2aacee6922] Regulation 18 (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
+(1A)[^c-dcbb9ae8dbee49bfeb45ce2aacee6922] Regulation 18 (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
 
 (2) An industrial tribunal may consider a complaint under regulation 9 that is otherwise out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -468,7 +468,7 @@ Article 245 of the Employment Rights (Northern Ireland) Order 1996 [^c22121261] 
 
 > Regulation 9 of the Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (detriment connected with prohibited list).
 
-### 18. Extension of time limit to facilitate conciliation before institution of proceedings[^key-e13ea1d59d4c1dd646bec476e6b84c1e]
+### 18. Extension of time limit to facilitate conciliation before institution of proceedings[^c-e13ea1d59d4c1dd646bec476e6b84c1e]
 
 (1) This regulation applies where these Regulations provide for it to apply for the purposes of a provision of these Regulations (“a relevant provision”).
 
@@ -505,11 +505,11 @@ The Regulations make amendments to the Employment Rights (Northern Ireland) Orde
 
 [^c22121131]: Marginal citation: [S.I. 1995/1980 (N.I. 12)](https://www.legislation.gov.uk/nisi/1995/1980); [Article 12](https://www.legislation.gov.uk/nisr/2014/88/article/12) amended by Articles 26, 30(2) and Schedule 3 of the [Employment Relations (Northern Ireland) Order 2004 (S.I. 2004/3078 (N.I. 19))](https://www.legislation.gov.uk/nisi/2004/3078); [Article 2(2)](https://www.legislation.gov.uk/nisr/2014/88/article/2/2) to which there are amendments not relevant to these Regulations
 
-[^key-4f53f64f481d2713aefdb4c14cdf1e98]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/nisr/2014/88/regulation/7/1A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 54](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/54)
+[^c-4f53f64f481d2713aefdb4c14cdf1e98]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/nisr/2014/88/regulation/7/1A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 54](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/54)
 
 [^c22121141]: Marginal citation: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
-[^key-dcbb9ae8dbee49bfeb45ce2aacee6922]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/nisr/2014/88/regulation/10/1A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 54](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/54)
+[^c-dcbb9ae8dbee49bfeb45ce2aacee6922]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/nisr/2014/88/regulation/10/1A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 54](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/54)
 
 [^c22121151]: Marginal citation: [S.I. 1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807); [Article 90AA](https://www.legislation.gov.uk/nisr/2014/88/article/90AA) inserted by section 4 of the [Employment Act (Northern Ireland) 2011 (c. 13 (N.I.))](https://www.legislation.gov.uk/nia/2011/13)
 
@@ -547,4 +547,4 @@ The Regulations make amendments to the Employment Rights (Northern Ireland) Orde
 
 [^c22121321]: Marginal citation: [S.I. 2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902); Schedule 2 amended by regulation 30(5) of the Disability Discrimination Act 1995 (Amendment) Regulations (Northern Ireland) 2004 (S.R. [2004 No. 55](https://www.legislation.gov.uk/ukcm/2004/55)), by Article 30 and paragraph 25 of Schedule 2 to the [Employment Relations (Northern Ireland) Order 2004 (S.I. 2004/3078 (N.I. 19))](https://www.legislation.gov.uk/nisi/2004/3078), by regulation 44 and paragraph 4(a) of Schedule 5 to the Employment Equality (Sexual Orientation) Regulations (Northern Ireland) 2003 (S.R. [2003 No. 497](https://www.legislation.gov.uk/ukcm/2003/497)), by regulation 53(1) and paragraph 6(a) of Part 1 of Schedule 7 to the Employment Equality (Age) Regulations (Northern Ireland) 2006 (S.R. [2006 No. 261](https://www.legislation.gov.uk/ukcm/2006/261)), by regulation 34(4)(a) of the [European Cooperative Society (Involvement of Employees) Regulations 2006 (S.I. 2006/2059)](https://www.legislation.gov.uk/uksi/2006/2059) as substituted by paragraph 13(2) of Schedule 3 to those Regulations, by Article 3(a) of the Employment (Northern Ireland) Order 2003 (Amendment of Schedules 2,3 and 4) Order (Northern Ireland) 2007 (S.R. [2007 No. 91](https://www.legislation.gov.uk/ukcm/2007/91)), by regulations 22(3) and 63(a) of the [Companies (Cross-border Mergers) Regulations 2007 (S.I. 2007/2974)](https://www.legislation.gov.uk/uksi/2007/2974) as substituted by paragraph 19 of Schedule 2 to those Regulations and by regulation 19 and paragraph 3(a) of Schedule 3 to the Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008 (S.R. [2008 No. 315](https://www.legislation.gov.uk/ukcm/2008/315))
 
-[^key-e13ea1d59d4c1dd646bec476e6b84c1e]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2014/88/regulation/18) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 55](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/55)
+[^c-e13ea1d59d4c1dd646bec476e6b84c1e]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/nisr/2014/88/regulation/18) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 55](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/55)

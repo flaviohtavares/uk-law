@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Information disclosed by the Welsh Revenue Authority[^key-832785b3f9f0adc9aff72687198477f1]
+## 47. Information disclosed by the Welsh Revenue Authority[^c-832785b3f9f0adc9aff72687198477f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-832785b3f9f0adc9aff72687198477f1]: Commencement: S. 47 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-832785b3f9f0adc9aff72687198477f1]: Commencement: S. 47 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

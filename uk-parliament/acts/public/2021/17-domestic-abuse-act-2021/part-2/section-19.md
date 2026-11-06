@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Restriction on exercise of functions in individual cases[^key-5ee173d8711ba3b73e2499ab1fb81dc9]
+## 19. Restriction on exercise of functions in individual cases[^c-5ee173d8711ba3b73e2499ab1fb81dc9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee173d8711ba3b73e2499ab1fb81dc9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/17/section/19) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-5ee173d8711ba3b73e2499ab1fb81dc9]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2021/17/section/19) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

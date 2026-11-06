@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-29aed4000146d317007ce38df6a9f7bb] Schedule 3 to the Housing and Regeneration Act 2008 (powers, in relation to land of the Homes and Communities Agency, to extinguish public rights of way, and in relation to burial grounds and consecrated land) applies in relation to an MDC and its land as it applies in relation to the Homes and Communities Agency and its land.
+(1)[^c-29aed4000146d317007ce38df6a9f7bb] Schedule 3 to the Housing and Regeneration Act 2008 (powers, in relation to land of the Homes and Communities Agency, to extinguish public rights of way, and in relation to burial grounds and consecrated land) applies in relation to an MDC and its land as it applies in relation to the Homes and Communities Agency and its land.
 
 (2) In that Schedule as applied by subsection (1), references to the Homes and Communities Agency are to be read as references to the MDC concerned.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29aed4000146d317007ce38df6a9f7bb]: Textual amendment: S. 208(1) substituted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/17); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-29aed4000146d317007ce38df6a9f7bb]: Textual amendment: S. 208(1) substituted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/17); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)

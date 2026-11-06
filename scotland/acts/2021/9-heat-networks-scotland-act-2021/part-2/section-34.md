@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Effective community engagement: guidance[^key-b12613927e30cbcbe42d3d555bd566fc]
+## 34. Effective community engagement: guidance[^c-b12613927e30cbcbe42d3d555bd566fc]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b12613927e30cbcbe42d3d555bd566fc]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/9/section/34) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-b12613927e30cbcbe42d3d555bd566fc]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2021/9/section/34) in force at 16.1.2023 for specified purposes by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

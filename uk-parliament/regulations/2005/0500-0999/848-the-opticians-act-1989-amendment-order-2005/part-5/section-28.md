@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Consequential amendments[^key-346aafaaeeb56772fc351067e775ff3a]
+## 28. Consequential amendments[^c-346aafaaeeb56772fc351067e775ff3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The minor and consequential amendments contained in Schedule 1 to this Order sha
 
 ## Annotations
 
-[^key-346aafaaeeb56772fc351067e775ff3a]: Commencement: Art. 28 comes into force in accordance with art. 1(3)-(6)
+[^c-346aafaaeeb56772fc351067e775ff3a]: Commencement: Art. 28 comes into force in accordance with art. 1(3)-(6)

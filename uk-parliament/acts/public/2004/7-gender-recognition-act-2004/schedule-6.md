@@ -22,21 +22,21 @@ summary: ''
 
 Section 14
 
-### Part 1 — Great Britain[^key-a98e06d0bf4ba2ed4698720362a16604]
+### Part 1 — Great Britain[^c-a98e06d0bf4ba2ed4698720362a16604]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-**1.**[^key-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a98e06d0bf4ba2ed4698720362a16604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Northern Ireland
 
@@ -62,4 +62,4 @@ Section 14
 
 ## Annotations
 
-[^key-a98e06d0bf4ba2ed4698720362a16604]: Textual amendment: Sch. 6 Pt. 1 repealed (1.10.2010) by Equality Act 2010 (c. 15) Sch. 27 Pt. 1 (as substituted by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-a98e06d0bf4ba2ed4698720362a16604]: Textual amendment: Sch. 6 Pt. 1 repealed (1.10.2010) by Equality Act 2010 (c. 15) Sch. 27 Pt. 1 (as substituted by [S.I. 2010/2279](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))

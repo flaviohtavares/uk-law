@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Transporting etc. Libyan oil in relation to UN designated ships[^key-b841a96d304353644bc692d190ce97ef]
+## 35. Transporting etc. Libyan oil in relation to UN designated ships[^c-b841a96d304353644bc692d190ce97ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b841a96d304353644bc692d190ce97ef]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-b841a96d304353644bc692d190ce97ef]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

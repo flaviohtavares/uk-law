@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19DB. Allocation of capacity in exempt new and modified facilities[^key-87c7bde8749775f4db4a1538f036b7a4]
+## 19DB. Allocation of capacity in exempt new and modified facilities[^c-87c7bde8749775f4db4a1538f036b7a4]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87c7bde8749775f4db4a1538f036b7a4]: Textual amendment: S. 19DB inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2011/2704/regulation/15)
+[^c-87c7bde8749775f4db4a1538f036b7a4]: Textual amendment: S. 19DB inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2011/2704/regulation/15)

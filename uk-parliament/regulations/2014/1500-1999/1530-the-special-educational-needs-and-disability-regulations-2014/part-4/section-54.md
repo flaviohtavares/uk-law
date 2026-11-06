@@ -42,8 +42,8 @@ summary: ''
 
 (2) When preparing and reviewing its local offer, a local authority must also consult—
 
-- (a) NHS England[^key-b22935dc95a00a451883d3e7a7178f2e];
-- (b) any integrated care board[^key-01dcaf4b20b6e4a4f1576bc0ddba1ff6]—
+- (a) NHS England[^c-b22935dc95a00a451883d3e7a7178f2e];
+- (b) any integrated care board[^c-01dcaf4b20b6e4a4f1576bc0ddba1ff6]—
   - (i) whose area coincides with, or falls wholly or partly within, the local authority's area, or
   - (ii) which exercises functions in relation to children or young people for whom the authority is responsible;
 - (c) any NHS trust or NHS foundation trust which provides services in the authority's area, or which exercises functions in relation to children or young people for whom the authority is responsible;
@@ -59,8 +59,8 @@ summary: ''
 
 [^c22119241]: Marginal citation: An academy has the same meaning as in section 1(10) of the Academies Act 2010
 
-[^key-b22935dc95a00a451883d3e7a7178f2e]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-b22935dc95a00a451883d3e7a7178f2e]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-01dcaf4b20b6e4a4f1576bc0ddba1ff6]: Textual amendment: Words in reg. 54(2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-01dcaf4b20b6e4a4f1576bc0ddba1ff6]: Textual amendment: Words in reg. 54(2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c22119251]: Marginal citation: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7)

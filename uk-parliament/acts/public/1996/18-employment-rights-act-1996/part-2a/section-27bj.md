@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27BJ. Right to reasonable notice of a shift[^key-294e3996e9c951ddc3f3282c81d192d6]
+## 27BJ. Right to reasonable notice of a shift[^c-294e3996e9c951ddc3f3282c81d192d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ the additional hours are to be treated for the purposes of this Chapter as a sep
 
 ## Annotations
 
-[^key-294e3996e9c951ddc3f3282c81d192d6]: Textual amendment: Pt. 2A Ch. 3 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/36/section/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/b)
+[^c-294e3996e9c951ddc3f3282c81d192d6]: Textual amendment: Pt. 2A Ch. 3 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/36/section/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/b)

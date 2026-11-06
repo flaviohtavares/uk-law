@@ -32,7 +32,7 @@ summary: ''
 
 Proceeds Of Crime
 
-The Proceeds of Crime Act 2002 (Cash Searches: Constables in Scotland: Code of Practice) Order 2015 (revoked)[^key-16e6461fc43ecb0128a9c4b28cc7456b]
+The Proceeds of Crime Act 2002 (Cash Searches: Constables in Scotland: Code of Practice) Order 2015 (revoked)[^c-16e6461fc43ecb0128a9c4b28cc7456b]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 1st June 2015
 
-[^key-16e6461fc43ecb0128a9c4b28cc7456b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16e6461fc43ecb0128a9c4b28cc7456b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-16e6461fc43ecb0128a9c4b28cc7456b]
+## 1. Citation, commencement and extent[^c-16e6461fc43ecb0128a9c4b28cc7456b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-16e6461fc43ecb0128a9c4b28cc7456b]
+## 2. Revised code of practice[^c-16e6461fc43ecb0128a9c4b28cc7456b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-16e6461fc43ecb0128a9c4b28cc7456b]
+## 3. Revocation[^c-16e6461fc43ecb0128a9c4b28cc7456b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16e6461fc43ecb0128a9c4b28cc7456b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16e6461fc43ecb0128a9c4b28cc7456b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-16e6461fc43ecb0128a9c4b28cc7456b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16e6461fc43ecb0128a9c4b28cc7456b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16e6461fc43ecb0128a9c4b28cc7456b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/220) revoked (16.4.2018) by [The Proceeds of Crime Act 2002 (Searches under Part 5: Constables in Scotland: Code of Practice) Order 2018 (S.S.I. 2018/114)](https://www.legislation.gov.uk/ssi/2018/114), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/114/article/1/1), [3](https://www.legislation.gov.uk/ssi/2018/114/article/3)
+[^c-16e6461fc43ecb0128a9c4b28cc7456b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/220) revoked (16.4.2018) by [The Proceeds of Crime Act 2002 (Searches under Part 5: Constables in Scotland: Code of Practice) Order 2018 (S.S.I. 2018/114)](https://www.legislation.gov.uk/ssi/2018/114), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/114/article/1/1), [3](https://www.legislation.gov.uk/ssi/2018/114/article/3)

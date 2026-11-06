@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Definition of pupil etc.[^key-17c9e704926d191efef5c570170e6514]
+## 3. Definition of pupil etc.[^c-17c9e704926d191efef5c570170e6514]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ and references to pupils in the context of the admission of pupils to, or the ex
 
 ## Annotations
 
-[^key-17c9e704926d191efef5c570170e6514]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1996/56/section/3): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-17c9e704926d191efef5c570170e6514]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/1996/56/section/3): power to modify conferred (temp.) (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2020/7/schedule/17/paragraph/5) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
 
 [^c15241201]: Textual amendment: Words in s. 3(1) inserted (1.9.1997) by [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44), [s. 57(1)](https://www.legislation.gov.uk/ukpga/1997/44/section/57/1), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/1997/44/schedule/7/paragraph/9/2); [S.I. 1997/1468](https://www.legislation.gov.uk/uksi/1997/1468), [art. 2](https://www.legislation.gov.uk/uksi/1997/1468/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1997/1468/schedule/1/part/II)
 

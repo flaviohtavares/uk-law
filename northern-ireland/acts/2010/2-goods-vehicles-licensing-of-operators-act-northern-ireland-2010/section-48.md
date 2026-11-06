@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Operators' licences not to be transferable[^key-90e6535d48b041a81547bb9e28011e4a][^key-b7f64a8b437ac6bdedfac8d3fb924c50]
+## 48. Operators' licences not to be transferable[^c-90e6535d48b041a81547bb9e28011e4a][^c-b7f64a8b437ac6bdedfac8d3fb924c50]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90e6535d48b041a81547bb9e28011e4a]: Commencement: S. 48 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
+[^c-90e6535d48b041a81547bb9e28011e4a]: Commencement: S. 48 in operation at 22.6.2012 for specified purposes by [S.R. 2012/247](https://www.legislation.gov.uk/nisr/2012/247), [art. 2](https://www.legislation.gov.uk/nisr/2012/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/247/schedule)
 
-[^key-b7f64a8b437ac6bdedfac8d3fb924c50]: Commencement: S. 48 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-b7f64a8b437ac6bdedfac8d3fb924c50]: Commencement: S. 48 in operation at 1.7.2012 in so far as not already in operation by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

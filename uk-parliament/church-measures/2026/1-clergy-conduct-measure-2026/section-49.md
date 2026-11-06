@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 49. Rights of patronage[^key-e00aff86f3f437d3f722eeb71b22dcb0]
+## 49. Rights of patronage[^c-e00aff86f3f437d3f722eeb71b22dcb0]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00aff86f3f437d3f722eeb71b22dcb0]: Commencement: S. 49 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-e00aff86f3f437d3f722eeb71b22dcb0]: Commencement: S. 49 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

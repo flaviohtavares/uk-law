@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## T11. Interest and administration charges: late paid contributions[^key-9ba1d98db76fe92f1cbce36f44514135]
+## T11. Interest and administration charges: late paid contributions[^c-9ba1d98db76fe92f1cbce36f44514135]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ba1d98db76fe92f1cbce36f44514135]: Textual amendment: Reg. T11 inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2014/154/regulation/12)
+[^c-9ba1d98db76fe92f1cbce36f44514135]: Textual amendment: Reg. T11 inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [12](https://www.legislation.gov.uk/ssi/2014/154/regulation/12)

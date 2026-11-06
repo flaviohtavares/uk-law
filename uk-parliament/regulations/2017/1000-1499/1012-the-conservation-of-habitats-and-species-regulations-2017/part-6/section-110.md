@@ -31,8 +31,8 @@ with the modifications specified in paragraphs (2) and (3).
 
 (3) Where this Chapter applies by virtue of paragraph (1)—
 
-- (a) regulations 105(5), 107(3) to (6) , 108 and 110A[^key-36b0d5abf872d4d7a83bfb50e985269e] do not apply; [^key-530ac8e50d898810a64e918758c6a97b]...
-- (b) in regulation 109, the reference to the appropriate authority is taken to be a reference to the Secretary of State ; and[^key-83808927cfea0308328cf465b01e4b17]
+- (a) regulations 105(5), 107(3) to (6) , 108 and 110A[^c-36b0d5abf872d4d7a83bfb50e985269e] do not apply; [^c-530ac8e50d898810a64e918758c6a97b]...
+- (b) in regulation 109, the reference to the appropriate authority is taken to be a reference to the Secretary of State ; and[^c-83808927cfea0308328cf465b01e4b17]
 - (c) where by virtue of paragraph (1) regulation 109 applies in relation to a national policy statement which consists of or includes a relevant offshore wind plan or project—
   - (i) regulation 109 does not apply in relation to the national policy statement to the extent that the negative assessment of the implications for a European site, European offshore marine site or Ramsar site results from the relevant offshore wind plan or project which forms part of the national policy statement,
   - (ii) the Secretary of State must secure that appropriate compensatory measures are taken in respect of the adverse effects, or predicted adverse effects, of the relevant offshore wind plan or project on the integrity of the European site, European offshore marine site or Ramsar site, and
@@ -42,8 +42,8 @@ with the modifications specified in paragraphs (2) and (3).
 
 [^c23344551]: Marginal citation: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29).
 
-[^key-36b0d5abf872d4d7a83bfb50e985269e]: Textual amendment: Words in reg. 110(3)(a) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/15) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-36b0d5abf872d4d7a83bfb50e985269e]: Textual amendment: Words in reg. 110(3)(a) substituted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6), [Sch. 15 para. 15](https://www.legislation.gov.uk/ukpga/2023/55/schedule/15/paragraph/15) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-530ac8e50d898810a64e918758c6a97b]: Textual amendment: Word in [reg. 110(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/110/3) omitted (21.5.2026) by virtue of [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/508/regulation/8/2)
+[^c-530ac8e50d898810a64e918758c6a97b]: Textual amendment: Word in [reg. 110(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/110/3) omitted (21.5.2026) by virtue of [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2026/508/regulation/8/2)
 
-[^key-83808927cfea0308328cf465b01e4b17]: Textual amendment: [Reg. 110(3)(c)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/110/3/c) and word inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2026/508/regulation/8/3)
+[^c-83808927cfea0308328cf465b01e4b17]: Textual amendment: [Reg. 110(3)(c)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/110/3/c) and word inserted (21.5.2026) by [The Conservation of Habitats and Species (Offshore Wind) (Amendment etc.) Regulations 2026 (S.I. 2026/508)](https://www.legislation.gov.uk/uksi/2026/508), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/508/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2026/508/regulation/8/3)

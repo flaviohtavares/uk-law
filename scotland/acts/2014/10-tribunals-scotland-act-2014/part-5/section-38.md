@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Composition of the Tribunal[^key-45416a1790b416422fe23a0808466d7c]
+## 38. Composition of the Tribunal[^c-45416a1790b416422fe23a0808466d7c]
 
 *Extent: S*
 
@@ -32,12 +32,12 @@ summary: ''
 
 (4) Regulations under subsection (1) may include provision for determining what relevant criteria are to be met by an ordinary member of the Tribunal for the member's involvement in decision-making in particular types of case.
 
-(4A)[^key-cab9d5767dc7538a02436a186df73ffb] Regulations under subsection (1) may include provision about the involvement in decision-making of an extra judge who is authorised to act as mentioned in section 18(4).
+(4A)[^c-cab9d5767dc7538a02436a186df73ffb] Regulations under subsection (1) may include provision about the involvement in decision-making of an extra judge who is authorised to act as mentioned in section 18(4).
 
 (5) In subsection (4), “**relevant criteria**” includes criteria as to qualifications, experience and training.
 
 ## Annotations
 
-[^key-45416a1790b416422fe23a0808466d7c]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/10/section/38) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-45416a1790b416422fe23a0808466d7c]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/10/section/38) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-cab9d5767dc7538a02436a186df73ffb]: Textual amendment: [S. 38(4A)](https://www.legislation.gov.uk/asp/2014/10/section/38/4A) inserted (13.5.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 16(5)](https://www.legislation.gov.uk/asp/2020/18/section/16/5), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)
+[^c-cab9d5767dc7538a02436a186df73ffb]: Textual amendment: [S. 38(4A)](https://www.legislation.gov.uk/asp/2014/10/section/38/4A) inserted (13.5.2022) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 16(5)](https://www.legislation.gov.uk/asp/2020/18/section/16/5), [18(2)](https://www.legislation.gov.uk/asp/2020/18/section/18/2)[(3)](https://www.legislation.gov.uk/asp/2020/18/section/18/3); [S.S.I. 2022/146](https://www.legislation.gov.uk/ssi/2022/146), [reg. 2](https://www.legislation.gov.uk/ssi/2022/146/regulation/2)

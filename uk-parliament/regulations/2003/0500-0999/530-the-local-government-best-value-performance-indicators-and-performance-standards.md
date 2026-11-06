@@ -45,7 +45,7 @@ Coming into force
 
 The First Secretary of State, in exercise of the powers conferred upon him by sections 4(1) and (2) and 28(1)(b) of the Local Government Act 1999[^f00001], and all other powers enabling him in that behalf, and having consulted, in accordance with section 4(3) of that Act, persons appearing to him to represent best value authorities concerned and such other person as he thought fit, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-ced295506ab7b04d3914d5a8138f90a6]
+## 1. Citation, commencement and interpretation[^c-ced295506ab7b04d3914d5a8138f90a6]
 
 (1) This Order may be cited as the Local Government (Best Value) Performance Indicators and Performance Standards Order 2003 and shall come into force on 1st April 2003.
 
@@ -67,14 +67,14 @@ The First Secretary of State, in exercise of the powers conferred upon him by se
 
 (3) In this Order a reference to a numbered indicator or standard in a particular Schedule is to the indicator or standard so numbered in column 1 of that Schedule and which is described in column 2 of that Schedule.
 
-## 2. Application[^key-951b10f72c2ce45924ad1b46b3fb2689]
+## 2. Application[^c-951b10f72c2ce45924ad1b46b3fb2689]
 
 This order applies—
 
 - (a) in relation to England, to all best value authorities; and
 - (b) in relation to Wales, only to authorities falling within section 1(1)(d) or (e) of the Act (police and fire authorities).
 
-## 3. General corporate health performance indicators[^key-5568581613b43da0672693b26acefb90]
+## 3. General corporate health performance indicators[^c-5568581613b43da0672693b26acefb90]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising all of their functions, shall be measured by reference to indicators 1 to 16 in Schedule 1 to this Order.
 
@@ -103,7 +103,7 @@ This order applies—
 
 (10) The performance of metropolitan county passenger transport authorities, in exercising all of their functions, shall be measured by reference to indicators 2, 7 and 10 to 15 in Schedule 1 to this Order.
 
-## 4. Performance indicators for community safety[^key-02b345b218601604e599a4243a4e3fd3]
+## 4. Performance indicators for community safety[^c-02b345b218601604e599a4243a4e3fd3]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their functions in relation to community safety, shall be measured by reference to indicators 1 to 6 in Schedule 2 to this Order.
 
@@ -119,7 +119,7 @@ This order applies—
 
 (3) The performance of police authorities, in exercising their community safety functions, shall be measured by reference to indicators 1 to 3 in Schedule 2 to this Order.
 
-## 5. Performance indicators for education[^key-24663fedc3870744113eb51f9c79c80f]
+## 5. Performance indicators for education[^c-24663fedc3870744113eb51f9c79c80f]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their education functions, shall be measured by reference to indicators 1 to 17 in Schedule 3 to this Order.
 
@@ -132,7 +132,7 @@ This order applies—
 - (e) metropolitan district councils; and
 - (f) unitary councils.
 
-## 6. Performance indicators for social services[^key-6788d8861de84d9334b04b1ef4e4a3fc]
+## 6. Performance indicators for social services[^c-6788d8861de84d9334b04b1ef4e4a3fc]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their social services functions, shall be measured by reference to indicators 1 to 13 in Schedule 4 to this Order.
 
@@ -145,7 +145,7 @@ This order applies—
 - (e) metropolitan district councils; and
 - (f) unitary councils.
 
-## 7. Performance indicators for housing and related services[^key-1e50ec44e4388abb767918e0378ac5f1]
+## 7. Performance indicators for housing and related services[^c-1e50ec44e4388abb767918e0378ac5f1]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their functions in relation to housing and housing related services, shall be measured by reference to indicators 1 to 10 in Schedule 5 to this Order.
 
@@ -160,7 +160,7 @@ This order applies—
 
 (3) For the purposes of the indicators specified by this article “dwelling ” is a building, or part of a building which forms a separate, or reasonably separate and self contained, set of premises designed to be occupied by a single household including non-permanent housing such as caravans, mobile homes and houseboats available for all year round occupation; a group of bedsits (single rooms without exclusive use of bath or toilet) sharing facilities counts as one dwelling.
 
-## 8. Performance indicators for housing benefit and council tax benefit[^key-c7a1a2299a76e931b4cbe5ec30d6c758]
+## 8. Performance indicators for housing benefit and council tax benefit[^c-c7a1a2299a76e931b4cbe5ec30d6c758]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their functions in relation to housing benefit and council tax benefit, shall be measured by reference to indicators 1 to 7 in Schedule 6 to this Order.
 
@@ -173,13 +173,13 @@ This order applies—
 - (e) London borough councils; and
 - (f) unitary councils.
 
-## 9. Performance indicators for environmental services[^key-dec83a45e62c6ac92ce411420b8797c4]
+## 9. Performance indicators for environmental services[^c-dec83a45e62c6ac92ce411420b8797c4]
 
 (1) The performance of waste disposal authorities, in exercising all of their functions, shall be measured by reference to indicators 1 to 5, 7 and 8 to 11 in Schedule 7 to this Order.
 
 (2) The performance of waste collection authorities, in exercising all of their functions, shall be measured by reference to indicators 1, 2, 5, 6 and 8 to 11 in Schedule 7 to this Order.
 
-## 10. Performance standards for waste authorities[^key-55b72be9782add6aa18b4eaa7881cb87]
+## 10. Performance standards for waste authorities[^c-55b72be9782add6aa18b4eaa7881cb87]
 
 (1) A waste disposal authority which achieved, in the financial year beginning with 1st April 1998—
 
@@ -193,7 +193,7 @@ This order applies—
 
 (3) For the purposes of this article “waste authority” means a waste collection authority or a waste disposal authority.
 
-## 11. Performance indicators for transport[^key-cb48175f97c6640163c079fa442a4afd]
+## 11. Performance indicators for transport[^c-cb48175f97c6640163c079fa442a4afd]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their transport functions, shall subject to paragraph (3), be measured by reference to indicators 1 to 11 in Schedule 9 to this Order.
 
@@ -211,7 +211,7 @@ This order applies—
 
 (5) The performance of metropolitan county passenger transport authorities, in exercising their transport functions, shall be measured by reference to indicators 4, 10 and 11 in Schedule 9 to this Order.
 
-## 12. Performance indicators for planning[^key-23e9b30669dfc2f3a58b4d3b441631ca]
+## 12. Performance indicators for planning[^c-23e9b30669dfc2f3a58b4d3b441631ca]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their planning functions, shall be measured by reference to indicators 1 to 7 in Schedule 10 to this Order.
 
@@ -232,7 +232,7 @@ This order applies—
 - (b) the Broads authority; and
 - (c) National park authorities.
 
-## 13. Performance standards for planning[^key-aa1564a40f7068c534c9ed6b2a9ef237]
+## 13. Performance standards for planning[^c-aa1564a40f7068c534c9ed6b2a9ef237]
 
 (1) The best value authorities specified in paragraph (2), in exercising their planning functions shall, in relation to indicator 3(a) (major applications) in Schedule 10 to this Order, meet standard 1 as specified in Schedule 11 to this Order.
 
@@ -363,7 +363,7 @@ This order applies—
 - Weymouth and Portland Borough Council; and
 - Windsor and Maidenhead Royal Borough Council.
 
-## 14. Performance indicators for environmental health and trading standards[^key-ec58bdccf1c49bdb483c1bf41257170c]
+## 14. Performance indicators for environmental health and trading standards[^c-ec58bdccf1c49bdb483c1bf41257170c]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their environmental health and trading standards functions, shall be measured by reference to the indicator contained in Schedule 12 to this Order.
 
@@ -377,7 +377,7 @@ This order applies—
 - (f) non-metropolitan district councils; and
 - (g) unitary councils.
 
-## 15. Performance indicators for cultural and related services[^key-72d66ee23a4be79bf602f8ae76d7ac4e]
+## 15. Performance indicators for cultural and related services[^c-72d66ee23a4be79bf602f8ae76d7ac4e]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their functions in relation to cultural and related services, shall be measured by reference to indicators 1 to 5 in Schedule 13 to this Order.
 
@@ -395,11 +395,11 @@ This order applies—
 
 (6) The performance of London borough councils, in exercising all of their functions in relation to cultural and related services, shall be measured by reference to indicators 1 and 3 to 5 in Schedule 13 to this Order.
 
-## 16. Performance indicators for fire services[^key-570a0778b45cde57207a3886474653a6]
+## 16. Performance indicators for fire services[^c-570a0778b45cde57207a3886474653a6]
 
 The performance of fire authorities, in exercising their functions in respect of the provision of fire services, shall be measured by reference to indicators 1 to 11 in Schedule 14 to this Order.
 
-## 17. Performance indicators for community legal services[^key-4139e21eeaf4a8564582f9162358bb8e]
+## 17. Performance indicators for community legal services[^c-4139e21eeaf4a8564582f9162358bb8e]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their functions in relation to community legal services, shall be measured by reference to the indicator in Schedule 15 to this Order.
 
@@ -413,7 +413,7 @@ The performance of fire authorities, in exercising their functions in respect of
 - (f) non-metropolitan district councils; and
 - (g) unitary councils.
 
-## 18. Community well-being performance indicators[^key-8c1dab3c598d25072e571b0254c8c3e5]
+## 18. Community well-being performance indicators[^c-8c1dab3c598d25072e571b0254c8c3e5]
 
 (1) The performance of the best value authorities specified in paragraph (2), in exercising their functions in relation to community well-being, shall be measured by reference to indicators 1 and 2 in Schedule 16 to this Order.
 
@@ -427,7 +427,7 @@ The performance of fire authorities, in exercising their functions in respect of
 - (f) unitary councils; and
 - (g) county councils.
 
-## 19. Revocation[^key-998f2972c93f458277f1ec326bb09863]
+## 19. Revocation[^c-998f2972c93f458277f1ec326bb09863]
 
 The Local Government (Best Value) Performance Indicators and Performance Standards Order 2002[^f00008] is hereby revoked.
 
@@ -439,7 +439,7 @@ Parliamentary Under Secretary of State, Office of the Deputy Prime Minister.
 
 Dated this 6th day of March 2003
 
-## SCHEDULE 1 — GENERAL CORPORATE HEALTH PERFORMANCE INDICATORS[^key-6d6000a9ba6bc0f0884b8fbff94a05ce]
+## SCHEDULE 1 — GENERAL CORPORATE HEALTH PERFORMANCE INDICATORS[^c-6d6000a9ba6bc0f0884b8fbff94a05ce]
 
 **Article 3**
 
@@ -462,7 +462,7 @@ Dated this 6th day of March 2003
 | 15 | The percentage of employees from black or minority ethnic groups within the authority’s workforce compared with the percentage of economically active minority ethnic community population in the authority’s area. |
 | 16 | - (a) Energy consumption in the authority’s operational buildings compared with comparable United Kingdom buildings; and<br>- (b) average lamp circuit wattage, compared with average consumption wattage by similar authorities in the United Kingdom. |
 
-## SCHEDULE 2 — COMMUNITY SAFETY PERFORMANCE INDICATORS[^key-250581928c0742133c8d2c9689ae9952]
+## SCHEDULE 2 — COMMUNITY SAFETY PERFORMANCE INDICATORS[^c-250581928c0742133c8d2c9689ae9952]
 
 **Article 4**
 
@@ -475,7 +475,7 @@ Dated this 6th day of March 2003
 | 5 | The percentage of recorded racial incidents that resulted in further action. |
 | 6 | The number of domestic violence refuge places per 10,000 population which are provided or supported by the authority. |
 
-## SCHEDULE 3 — EDUCATION PERFORMANCE INDICATORS[^key-b41c3b55e2b901bb679cb5f6f91bd57e]
+## SCHEDULE 3 — EDUCATION PERFORMANCE INDICATORS[^c-b41c3b55e2b901bb679cb5f6f91bd57e]
 
 **Article 5**
 
@@ -499,7 +499,7 @@ Dated this 6th day of March 2003
 | 16 | The percentage of permanently excluded pupils attending alternative tuition of—<br>- (a) 5 hours or less;<br>- (b) 6–12 hours;<br>- (c) 13–19 hours; or<br>- (d) 20 hours or more. |
 | 17 | Percentage of 14 year old pupils in schools maintained by the local education authority achieving level 5 or above in Key Stage 3 test in;<br>- (a) English;<br>- (b) Mathematics;<br>- (c) Science;<br>- (d) Information and communications technology (ICT). |
 
-## SCHEDULE 4 — SOCIAL SERVICES PERFORMANCE INDICATORS[^key-461a9c63ccb30ef0464cb4f6409fd716]
+## SCHEDULE 4 — SOCIAL SERVICES PERFORMANCE INDICATORS[^c-461a9c63ccb30ef0464cb4f6409fd716]
 
 **Article 6**
 
@@ -519,7 +519,7 @@ Dated this 6th day of March 2003
 | 12 | Acceptable waiting times for assessment. |
 | 13 | Acceptable waiting times for care packages. |
 
-## SCHEDULE 5 — HOUSING PERFORMANCE INDICATORS[^key-2b440e46152a88a72252f84dd56855a8]
+## SCHEDULE 5 — HOUSING PERFORMANCE INDICATORS[^c-2b440e46152a88a72252f84dd56855a8]
 
 **Article 7**
 
@@ -536,7 +536,7 @@ Dated this 6th day of March 2003
 | 9 | Whether the authority follows the Commission for Racial Equality’s Code of Practice in Rented Housing published in 1995[^f00017] and follows the Good Practice Standards for Social Landlords on tackling Harassment including in Tackling Racial Harassment: the code of Practice for Social Landlords[^f00018]. |
 | 10 | Satisfaction of tenants of council housing with opportunities for participation in management and decision making in relation to housing services provided by their landlord with results broken down by—<br>- (a) black and minority ethnic tenants; and<br>- (b) non black and non minority ethnic tenants. |
 
-## SCHEDULE 6 — HOUSING BENEFIT AND COUNCIL TAX BENEFIT PERFORMANCE INDICATORS[^key-78f081ab98f974bbe32ef391aefdef53]
+## SCHEDULE 6 — HOUSING BENEFIT AND COUNCIL TAX BENEFIT PERFORMANCE INDICATORS[^c-78f081ab98f974bbe32ef391aefdef53]
 
 **Article 8**
 
@@ -550,7 +550,7 @@ Dated this 6th day of March 2003
 | 6 | The accuracy of processing;<br>the percentage of recoverable overpayments (excluding Council Tax Benefit) that were recovered in the year. |
 | 7 | Level of satisfaction with the benefits service. |
 
-## SCHEDULE 7 — ENVIRONMENTAL INDICATORS[^key-49694e62568abb9e6ea44339dbed8450]
+## SCHEDULE 7 — ENVIRONMENTAL INDICATORS[^c-49694e62568abb9e6ea44339dbed8450]
 
 **Article 9**
 
@@ -572,7 +572,7 @@ Dated this 6th day of March 2003
 
 **Article 10**
 
-### Part 1 — Financial year 2003/2004[^key-d5488299676751f415738fb4b884e87a]
+### Part 1 — Financial year 2003/2004[^c-d5488299676751f415738fb4b884e87a]
 
 <table>
 <thead>
@@ -588,7 +588,7 @@ Dated this 6th day of March 2003
 
 [^f00019]
 
-### Part 2 — Financial year 2005/2006[^key-c10fe38631b485f34cffa2ae739c66e6]
+### Part 2 — Financial year 2005/2006[^c-c10fe38631b485f34cffa2ae739c66e6]
 
 <table>
 <thead>
@@ -603,7 +603,7 @@ Dated this 6th day of March 2003
 </tbody>
 </table>
 
-## SCHEDULE 9 — TRANSPORT PERFORMANCE INDICATORS[^key-943491352baf6a878b2272250d84cf9d]
+## SCHEDULE 9 — TRANSPORT PERFORMANCE INDICATORS[^c-943491352baf6a878b2272250d84cf9d]
 
 **Article 11**
 
@@ -621,7 +621,7 @@ Dated this 6th day of March 2003
 | 10 | Satisfaction with transport information. |
 | 11 | Satisfaction with local bus services. |
 
-## SCHEDULE 10 — PLANNING PERFORMANCE INDICATORS[^key-0c49fa0c9f92464724ab3dd184bb6075]
+## SCHEDULE 10 — PLANNING PERFORMANCE INDICATORS[^c-0c49fa0c9f92464724ab3dd184bb6075]
 
 **Article 12**
 
@@ -635,7 +635,7 @@ Dated this 6th day of March 2003
 | 6 | Satisfaction with the planning service by those making a planning application. |
 | 7 | - (a) Does the authority have a development plan that has been adopted, or alterations that have been adopted, in the last five years where the end date of the plan has not expired?<br>- (b) If no, does the authority have proposals for an alteration or replacement, with a published timetable for adopting those alterations or the replacement plan within three years beginning on 1st April 2003. |
 
-## SCHEDULE 11 — PLANNING STANDARDS[^key-5047d44a0b1bad31e17529c697b31627]
+## SCHEDULE 11 — PLANNING STANDARDS[^c-5047d44a0b1bad31e17529c697b31627]
 
 **Article 13**
 
@@ -645,7 +645,7 @@ Dated this 6th day of March 2003
 | 2 | That, during the financial year beginning 1st April 2003, fifty five percent of minor applications must be determined within eight weeks. |
 | 3 | That, during the financial year beginning 1st April 2003, seventy percent of other applications must be determined within eight weeks. |
 
-## SCHEDULE 12 — ENVIRONMENTAL HEALTH AND TRADING STANDARDS PERFORMANCE INDICATOR[^key-ee6c236ba0c5e92864c417d27f25e269]
+## SCHEDULE 12 — ENVIRONMENTAL HEALTH AND TRADING STANDARDS PERFORMANCE INDICATOR[^c-ee6c236ba0c5e92864c417d27f25e269]
 
 **Article 14**
 
@@ -653,7 +653,7 @@ Dated this 6th day of March 2003
 | --- |
 | Score against a checklist of enforcement best practice for environmental health/trading as set out in the document published in January 2003 by ODPM entitled “Best Value Performance Indicators Guidance 2003/2004”[^f00020]. |
 
-## SCHEDULE 13 — CULTURAL AND RELATED SERVICES PERFORMANCE INDICATORS[^key-0dc310413ee8a9ebb777b64587fbc474]
+## SCHEDULE 13 — CULTURAL AND RELATED SERVICES PERFORMANCE INDICATORS[^c-0dc310413ee8a9ebb777b64587fbc474]
 
 **Article 15**
 
@@ -665,7 +665,7 @@ Dated this 6th day of March 2003
 | 4 | - (a) The number of visits to/usage of museums per 1,000 population;<br>- (b) the number of those visits that were in person per 1,000 population; and<br>- (c) the number of pupils visiting museums and galleries in organised school groups. |
 | 5 | Satisfaction with cultural and recreational services and activities. |
 
-## SCHEDULE 14 — FIRE SERVICES PERFORMANCE INDICATORS[^key-f98a9212f818ab13e84eb57b82b28a23]
+## SCHEDULE 14 — FIRE SERVICES PERFORMANCE INDICATORS[^c-f98a9212f818ab13e84eb57b82b28a23]
 
 **Article 16**
 
@@ -683,7 +683,7 @@ Dated this 6th day of March 2003
 | 10 | False alarms caused by automatic fire detection apparatus per 1,000 non-domestic properties. |
 | 11 | Expenditure per head of population on the provision of fire and rescue services. |
 
-## SCHEDULE 15 — COMMUNITY LEGAL SERVICE PERFORMANCE INDICATOR[^key-9b1d26b723be765fbd0ca62890731e1b]
+## SCHEDULE 15 — COMMUNITY LEGAL SERVICE PERFORMANCE INDICATOR[^c-9b1d26b723be765fbd0ca62890731e1b]
 
 **Article 17**
 
@@ -691,7 +691,7 @@ Dated this 6th day of March 2003
 | --- |
 | Percentage of the authority’s expenditure on legal and advice services which is spent on services that have been awarded the Quality Mark as set out in the Legal Services Commission publication “quality mark standard ”[^f00022] and meets a priority legal need identified in the Community Legal Service Partnership Strategic Plan. |
 
-## SCHEDULE 16 — COMMUNITY WELL-BEING PERFORMANCE INDICATORS[^key-514bd985a8f38aa19193775cf78f1719]
+## SCHEDULE 16 — COMMUNITY WELL-BEING PERFORMANCE INDICATORS[^c-514bd985a8f38aa19193775cf78f1719]
 
 **Article 18**
 
@@ -798,7 +798,7 @@ The Stationery Office, CRE Customer Services, PO Box 29, Norwich, NR3 1GN. Tel. 
 
 [^f00001]: Footnote: [1999 c. 27](https://www.legislation.gov.uk/ukpga/1999/27). For the application of the Act to Wales, *see* section 29.
 
-[^key-ced295506ab7b04d3914d5a8138f90a6]: Commencement: Art. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-ced295506ab7b04d3914d5a8138f90a6]: Commencement: Art. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00002]: Footnote: [1947, 10 & 11 Geo 6 c.41](https://www.legislation.gov.uk/ukpga/1947/41).
 
@@ -808,49 +808,49 @@ The Stationery Office, CRE Customer Services, PO Box 29, Norwich, NR3 1GN. Tel. 
 
 [^f00005]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-951b10f72c2ce45924ad1b46b3fb2689]: Commencement: Art. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-951b10f72c2ce45924ad1b46b3fb2689]: Commencement: Art. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-5568581613b43da0672693b26acefb90]: Commencement: Art. 3 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-5568581613b43da0672693b26acefb90]: Commencement: Art. 3 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00006]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-02b345b218601604e599a4243a4e3fd3]: Commencement: Art. 4 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-02b345b218601604e599a4243a4e3fd3]: Commencement: Art. 4 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-24663fedc3870744113eb51f9c79c80f]: Commencement: Art. 5 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-24663fedc3870744113eb51f9c79c80f]: Commencement: Art. 5 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-6788d8861de84d9334b04b1ef4e4a3fc]: Commencement: Art. 6 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-6788d8861de84d9334b04b1ef4e4a3fc]: Commencement: Art. 6 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-1e50ec44e4388abb767918e0378ac5f1]: Commencement: Art. 7 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-1e50ec44e4388abb767918e0378ac5f1]: Commencement: Art. 7 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-c7a1a2299a76e931b4cbe5ec30d6c758]: Commencement: Art. 8 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-c7a1a2299a76e931b4cbe5ec30d6c758]: Commencement: Art. 8 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-dec83a45e62c6ac92ce411420b8797c4]: Commencement: Art. 9 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-dec83a45e62c6ac92ce411420b8797c4]: Commencement: Art. 9 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-55b72be9782add6aa18b4eaa7881cb87]: Commencement: Art. 10 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-55b72be9782add6aa18b4eaa7881cb87]: Commencement: Art. 10 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00007]: Footnote: “Municipal Waste Management Strategies” was published by the DETR on 5th March 2001. The document is available at www.defra.gov.uk/environment/waste/management/guidance/mwms/01.htm.
 
-[^key-cb48175f97c6640163c079fa442a4afd]: Commencement: Art. 11 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-cb48175f97c6640163c079fa442a4afd]: Commencement: Art. 11 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-23e9b30669dfc2f3a58b4d3b441631ca]: Commencement: Art. 12 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-23e9b30669dfc2f3a58b4d3b441631ca]: Commencement: Art. 12 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-aa1564a40f7068c534c9ed6b2a9ef237]: Commencement: Art. 13 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-aa1564a40f7068c534c9ed6b2a9ef237]: Commencement: Art. 13 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-ec58bdccf1c49bdb483c1bf41257170c]: Commencement: Art. 14 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-ec58bdccf1c49bdb483c1bf41257170c]: Commencement: Art. 14 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-72d66ee23a4be79bf602f8ae76d7ac4e]: Commencement: Art. 15 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-72d66ee23a4be79bf602f8ae76d7ac4e]: Commencement: Art. 15 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-570a0778b45cde57207a3886474653a6]: Commencement: Art. 16 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-570a0778b45cde57207a3886474653a6]: Commencement: Art. 16 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-4139e21eeaf4a8564582f9162358bb8e]: Commencement: Art. 17 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-4139e21eeaf4a8564582f9162358bb8e]: Commencement: Art. 17 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-8c1dab3c598d25072e571b0254c8c3e5]: Commencement: Art. 18 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-8c1dab3c598d25072e571b0254c8c3e5]: Commencement: Art. 18 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-998f2972c93f458277f1ec326bb09863]: Commencement: Art. 19 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-998f2972c93f458277f1ec326bb09863]: Commencement: Art. 19 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00008]: Footnote: S.I. [2002/523](https://www.legislation.gov.uk/uksi/2002/523).
 
-[^key-6d6000a9ba6bc0f0884b8fbff94a05ce]: Commencement: Sch. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-6d6000a9ba6bc0f0884b8fbff94a05ce]: Commencement: Sch. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00009]: Footnote: *See* section 4 of the Local Government Act [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
@@ -862,17 +862,17 @@ The Stationery Office, CRE Customer Services, PO Box 29, Norwich, NR3 1GN. Tel. 
 
 [^f00013]: Footnote: [1995 c. 50](https://www.legislation.gov.uk/ukpga/1995/50). For the definition of “disability” see section 1.
 
-[^key-250581928c0742133c8d2c9689ae9952]: Commencement: Sch. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-250581928c0742133c8d2c9689ae9952]: Commencement: Sch. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-b41c3b55e2b901bb679cb5f6f91bd57e]: Commencement: Sch. 3 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-b41c3b55e2b901bb679cb5f6f91bd57e]: Commencement: Sch. 3 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00014]: Footnote: The code came into force on 1st January 2002. A copy of the code can be obtained from the Department for Education and Skills.
 
 [^f00015]: Footnote: [1996 c. 57](https://www.legislation.gov.uk/ukpga/1996/57).
 
-[^key-461a9c63ccb30ef0464cb4f6409fd716]: Commencement: Sch. 4 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-461a9c63ccb30ef0464cb4f6409fd716]: Commencement: Sch. 4 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-2b440e46152a88a72252f84dd56855a8]: Commencement: Sch. 5 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-2b440e46152a88a72252f84dd56855a8]: Commencement: Sch. 5 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00016]: Footnote: This document can be obtained free of charge from: the enquiries bureau, Building Research Establishment, Garston, Watford WD2 7JR.
 
@@ -880,34 +880,34 @@ The Stationery Office, CRE Customer Services, PO Box 29, Norwich, NR3 1GN. Tel. 
 
 [^f00018]: Footnote: This document entitled “Housing Research Summary 148, 2001, Tackling Racial Harassment: Code of Practice for Social Landlords” can be obtained from ODPM free literature, PO Box 236, Wetherby, W Yorks, LS23 7NB.
 
-[^key-78f081ab98f974bbe32ef391aefdef53]: Commencement: Sch. 6 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-78f081ab98f974bbe32ef391aefdef53]: Commencement: Sch. 6 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-49694e62568abb9e6ea44339dbed8450]: Commencement: Sch. 7 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-49694e62568abb9e6ea44339dbed8450]: Commencement: Sch. 7 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-d5488299676751f415738fb4b884e87a]: Commencement: Sch. 8 Pt. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-d5488299676751f415738fb4b884e87a]: Commencement: Sch. 8 Pt. 1 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00019]: Footnote: Including the authorities for which adequate details were not supplied—*see* Article 10(2).
 
-[^key-c10fe38631b485f34cffa2ae739c66e6]: Commencement: Sch. 8 Pt. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-c10fe38631b485f34cffa2ae739c66e6]: Commencement: Sch. 8 Pt. 2 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-943491352baf6a878b2272250d84cf9d]: Commencement: Sch. 9 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-943491352baf6a878b2272250d84cf9d]: Commencement: Sch. 9 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-0c49fa0c9f92464724ab3dd184bb6075]: Commencement: Sch. 10 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-0c49fa0c9f92464724ab3dd184bb6075]: Commencement: Sch. 10 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-5047d44a0b1bad31e17529c697b31627]: Commencement: Sch. 11 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-5047d44a0b1bad31e17529c697b31627]: Commencement: Sch. 11 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-ee6c236ba0c5e92864c417d27f25e269]: Commencement: Sch. 12 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-ee6c236ba0c5e92864c417d27f25e269]: Commencement: Sch. 12 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00020]: Footnote: The checklist is to be found on pages 86 to 87 of this document which is available free of charge from: ODPM free literature, PO Box number 236, Wetherby, LS23 7NB.
 
-[^key-0dc310413ee8a9ebb777b64587fbc474]: Commencement: Sch. 13 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-0dc310413ee8a9ebb777b64587fbc474]: Commencement: Sch. 13 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
-[^key-f98a9212f818ab13e84eb57b82b28a23]: Commencement: Sch. 14 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-f98a9212f818ab13e84eb57b82b28a23]: Commencement: Sch. 14 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00021]: Footnote: The categories of fire risk “A”, “B”, “C” and “ D” are determined by reference to the type of property which predominates in an area. The basis of these risk categories is set out in Fire Service Circular 4/1985, issued to fire authorities by the Home Office on 22 May 1985. This circular is available free of charge from ODPM, Fire Policy Division, Zone 17/B, Portland House, Stag Place, London SW1E 5LP.
 
-[^key-9b1d26b723be765fbd0ca62890731e1b]: Commencement: Sch. 15 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-9b1d26b723be765fbd0ca62890731e1b]: Commencement: Sch. 15 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
 
 [^f00022]: Footnote: Details of the Community Legal Service Quality Mark can be found in the publication; “Community Legal Service Quality Mark” first edition, published April 2000. This publication is available from the Legal Services commissions, 85 Gray’s Inn Road, London, WC1X 8TX or at www.legal.services.gov.uk.
 
-[^key-514bd985a8f38aa19193775cf78f1719]: Commencement: Sch. 16 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)
+[^c-514bd985a8f38aa19193775cf78f1719]: Commencement: Sch. 16 in force at 1.4.2003, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/530/article/1/1)

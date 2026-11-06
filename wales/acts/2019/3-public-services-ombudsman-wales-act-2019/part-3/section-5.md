@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Criteria for own initiative investigations[^key-b97fcc90de9827235b268164d5372b32]
+## 5. Criteria for own initiative investigations[^c-b97fcc90de9827235b268164d5372b32]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b97fcc90de9827235b268164d5372b32]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2019/3/section/5) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-b97fcc90de9827235b268164d5372b32]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2019/3/section/5) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

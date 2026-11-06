@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 252. Notice etc to authorised recipients[^key-c61c042809a0e0b6224a3247ebf7b25d]
+## 252. Notice etc to authorised recipients[^c-c61c042809a0e0b6224a3247ebf7b25d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a notice or other document is to be given, delivered or sent to a person u
 
 ## Annotations
 
-[^key-c61c042809a0e0b6224a3247ebf7b25d]: Commencement: Rule 252 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c61c042809a0e0b6224a3247ebf7b25d]: Commencement: Rule 252 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Delegation of functions by Mayor's Office for Policing and Crime[^key-4dfa4ac9e30e59b0161cfb178111ec14]
+## 19. Delegation of functions by Mayor's Office for Policing and Crime[^c-4dfa4ac9e30e59b0161cfb178111ec14]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) But the Mayor's Office for Policing and Crime may not—
 
 - (a) appoint a person listed in subsection (6) as the Deputy Mayor for Policing and Crime;
-- (aa)[^key-6fe4f458ce85547efe550ac85de691f1] arrange, under subsection (1)(b) or (2), for the Deputy Mayor for Policing and Crime or any other person to exercise a function that the Mayor’s Office for Policing and Crime has under or by virtue of Part 2 of the Police Reform Act 2002 (see instead section 23(2)(pa) of that Act and regulations made under that provision);
+- (aa)[^c-6fe4f458ce85547efe550ac85de691f1] arrange, under subsection (1)(b) or (2), for the Deputy Mayor for Policing and Crime or any other person to exercise a function that the Mayor’s Office for Policing and Crime has under or by virtue of Part 2 of the Police Reform Act 2002 (see instead section 23(2)(pa) of that Act and regulations made under that provision);
 - (b) arrange for the Deputy Mayor for Policing and Crime to exercise a function listed in subsection (7) (a), (e), (f), (g) or (h);
 - (c) arrange, under subsection (2), for a person listed in subsection (6) to exercise any function; or
 - (d) arrange, under subsection (2), for a person to exercise a function listed in subsection (7).
@@ -61,7 +61,7 @@ summary: ''
 - (f) making representations in relation to the appointment of a Deputy Commissioner of Police of the Metropolis under section 45;
 - (g) being consulted in relation to the appointment or removal of an Assistant Commissioner of Police of the Metropolis, a Deputy Assistant Commissioner of Police of the Metropolis, or a Commander (see sections 45, 46, 47 and 49);
 - (h) suspending the Commissioner, or Deputy Commissioner, of Police of the Metropolis, or calling upon the Commissioner, or Deputy Commissioner, to retire or resign (see section 48);
-- (i)[^key-eb5bacc8081e2cd94642dcad594baaba] appointing a local auditor under section 7 of the Local Audit and Accountability Act 2014;
+- (i)[^c-eb5bacc8081e2cd94642dcad594baaba] appointing a local auditor under section 7 of the Local Audit and Accountability Act 2014;
 - (j) deciding whether to enter into a liability limitation agreement under section 14 of that Act.
 
 (8) If a function of the Mayor's Office for Policing and Crime is exercisable by a person in accordance with subsection (1), (2) or (4), any property or rights vested in the Office may be dealt with by the other person in exercising the function, as if vested in that person.
@@ -78,8 +78,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4dfa4ac9e30e59b0161cfb178111ec14]: Commencement: S. 19 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/2))
+[^c-4dfa4ac9e30e59b0161cfb178111ec14]: Commencement: S. 19 in force at 16.1.2012 by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2011/3019/article/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/2))
 
-[^key-6fe4f458ce85547efe550ac85de691f1]: Textual amendment: [S. 19(3)(aa)](https://www.legislation.gov.uk/ukpga/2011/13/section/19/3/aa) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/23/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/j) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-6fe4f458ce85547efe550ac85de691f1]: Textual amendment: [S. 19(3)(aa)](https://www.legislation.gov.uk/ukpga/2011/13/section/19/3/aa) inserted (31.1.2017 for specified purposes, 1.2.2020 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/23/3), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/j) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
 
-[^key-eb5bacc8081e2cd94642dcad594baaba]: Textual amendment: S. 19(7)(i)(j) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 117](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/117); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-eb5bacc8081e2cd94642dcad594baaba]: Textual amendment: S. 19(7)(i)(j) inserted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 117](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/117); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)

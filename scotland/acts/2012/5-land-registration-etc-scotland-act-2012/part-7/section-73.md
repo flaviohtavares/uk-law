@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Keeper's warranty[^key-989dfda7a414ae6463666d26a65936ea]
+## 73. Keeper's warranty[^c-989dfda7a414ae6463666d26a65936ea]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-989dfda7a414ae6463666d26a65936ea]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2012/5/section/73) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-989dfda7a414ae6463666d26a65936ea]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2012/5/section/73) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

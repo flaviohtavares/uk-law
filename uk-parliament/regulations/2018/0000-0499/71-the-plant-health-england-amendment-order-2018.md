@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Plant Health (England) (Amendment) Order 2018 (revoked)[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+The Plant Health (England) (Amendment) Order 2018 (revoked)[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 Made
 
@@ -52,44 +52,44 @@ for all other purposes
 
 14th February 2018
 
-[^key-0c9aa1f962a6c48a9a4c5230ac47be08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c9aa1f962a6c48a9a4c5230ac47be08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 1. Citation and commencement[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (England) Order 2015[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 2. Amendment of the Plant Health (England) Order 2015[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 3.[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 4.[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 5.[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 6.[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-0c9aa1f962a6c48a9a4c5230ac47be08]
+## 7.[^c-0c9aa1f962a6c48a9a4c5230ac47be08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c9aa1f962a6c48a9a4c5230ac47be08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c9aa1f962a6c48a9a4c5230ac47be08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0c9aa1f962a6c48a9a4c5230ac47be08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0c9aa1f962a6c48a9a4c5230ac47be08]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0c9aa1f962a6c48a9a4c5230ac47be08]: Textual amendment: Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)
+[^c-0c9aa1f962a6c48a9a4c5230ac47be08]: Textual amendment: Order revoked (E.) (14.1.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019 (S.I. 2019/1517)](https://www.legislation.gov.uk/uksi/2019/1517), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/1517/schedule/6)

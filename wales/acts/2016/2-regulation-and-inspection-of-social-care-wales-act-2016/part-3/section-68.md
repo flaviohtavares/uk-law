@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. SCW's objectives[^key-1425920a701d809bdad4b3db94433bb5][^key-e2aa7715f3bcaaf646b050bed67c09d8]
+## 68. SCW's objectives[^c-1425920a701d809bdad4b3db94433bb5][^c-e2aa7715f3bcaaf646b050bed67c09d8]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1425920a701d809bdad4b3db94433bb5]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/2/section/68) in force at 11.7.2016 for specified purposes by [S.I. 2016/713](https://www.legislation.gov.uk/wsi/2016/713), [art. 2](https://www.legislation.gov.uk/wsi/2016/713/article/2)
+[^c-1425920a701d809bdad4b3db94433bb5]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/2/section/68) in force at 11.7.2016 for specified purposes by [S.I. 2016/713](https://www.legislation.gov.uk/wsi/2016/713), [art. 2](https://www.legislation.gov.uk/wsi/2016/713/article/2)
 
-[^key-e2aa7715f3bcaaf646b050bed67c09d8]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/2/section/68) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-e2aa7715f3bcaaf646b050bed67c09d8]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/2/section/68) in force at 3.4.2017 in so far as not already in force by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(b)](https://www.legislation.gov.uk/wsi/2017/309/article/2/b) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

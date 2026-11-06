@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Substitution of regulation 55 (applications relating to new combinations of active substances)[^M_I_acde96ff-04df-4150-996d-ec5407389936][^key-992f76705e88fea330106a8dc848252b]
+## 60. Substitution of regulation 55 (applications relating to new combinations of active substances)[^M_I_acde96ff-04df-4150-996d-ec5407389936][^c-992f76705e88fea330106a8dc848252b]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ For regulation 55 substitute—
 
 [^M_I_acde96ff-04df-4150-996d-ec5407389936]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-992f76705e88fea330106a8dc848252b]: Textual amendment: Reg. 60 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/44)
+[^c-992f76705e88fea330106a8dc848252b]: Textual amendment: Reg. 60 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/44)

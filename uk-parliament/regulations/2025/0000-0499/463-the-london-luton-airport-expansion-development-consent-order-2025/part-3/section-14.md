@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Permanent stopping up of public rights of way[^key-86db76370124cc4d0c0ae54a018aa7b4]
+## 14. Permanent stopping up of public rights of way[^c-86db76370124cc4d0c0ae54a018aa7b4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86db76370124cc4d0c0ae54a018aa7b4]: Commencement: Art. 14 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)
+[^c-86db76370124cc4d0c0ae54a018aa7b4]: Commencement: Art. 14 in force at 24.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/463/article/1)

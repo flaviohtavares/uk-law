@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Jurisdiction of county courts[^key-fdfc675d3a914f28b261330908aefabc]
+## 44. Jurisdiction of county courts[^c-fdfc675d3a914f28b261330908aefabc]
 
 *Extent: N.I.*
 
@@ -36,10 +36,10 @@ may be made the subject of civil proceedings in like manner as any other claim i
 - (a) regulation 24 (institutions of further and higher education); or
 - (b) where the act arises out of and is closely connected to a relationship between the claimant and the respondent which has come to an end but during the course of which an act of discrimination against, or harassment of, the claimant by the respondent would have been unlawful by virtue of regulation 25 (relationships which have come to an end).
 
-(5) In paragraph (4)(b), reference to an act of discrimination or harassment which would have been unlawful includes, in the case of a relationship which has come to an end before the date on which the act of discrimination or harassment became unlawful by virtue of these Regulations[^key-b58b08aa9ea05c532b73d5d1e528d82a] , reference to an act of discrimination or harassment which would, after that date, have been unlawful.
+(5) In paragraph (4)(b), reference to an act of discrimination or harassment which would have been unlawful includes, in the case of a relationship which has come to an end before the date on which the act of discrimination or harassment became unlawful by virtue of these Regulations[^c-b58b08aa9ea05c532b73d5d1e528d82a] , reference to an act of discrimination or harassment which would, after that date, have been unlawful.
 
 ## Annotations
 
-[^key-fdfc675d3a914f28b261330908aefabc]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/261/regulation/44) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-fdfc675d3a914f28b261330908aefabc]: Commencement: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/261/regulation/44) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
-[^key-b58b08aa9ea05c532b73d5d1e528d82a]: Textual amendment: Words in [reg. 44(5)](https://www.legislation.gov.uk/nisr/2006/261/regulation/44/5) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/4)
+[^c-b58b08aa9ea05c532b73d5d1e528d82a]: Textual amendment: Words in [reg. 44(5)](https://www.legislation.gov.uk/nisr/2006/261/regulation/44/5) substituted (30.9.2006) by [The Employment Equality (Age) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/395)](https://www.legislation.gov.uk/nisr/2006/395), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/395/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2006/395/regulation/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 4A — Functions to which the CMA’s duty of expedition applies[^key-e685e0b75a7cea3e841e5c2a63c644ce]
+## Schedule 4A — Functions to which the CMA’s duty of expedition applies[^c-e685e0b75a7cea3e841e5c2a63c644ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ Functions under Part 1 of the Digital Markets, Competition and Consumers Act 202
 
 ## Annotations
 
-[^key-e685e0b75a7cea3e841e5c2a63c644ce]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4A) inserted (1.1.2025 for specified purposes, 6.4.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 327(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/2), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/b/ii); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/4)
+[^c-e685e0b75a7cea3e841e5c2a63c644ce]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4A) inserted (1.1.2025 for specified purposes, 6.4.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 327(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/327/2), [339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/b/ii); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(4)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/4)

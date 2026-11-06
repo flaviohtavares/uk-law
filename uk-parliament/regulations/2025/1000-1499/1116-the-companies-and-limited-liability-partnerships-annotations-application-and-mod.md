@@ -48,13 +48,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — Introductory
 
-### 1. Citation, commencement, extent and interpretation[^key-1debbcd46493e3754020f2c86e5e3e29]
+### 1. Citation, commencement, extent and interpretation[^c-1debbcd46493e3754020f2c86e5e3e29]
 
 (1) These Regulations may be cited as the Companies and Limited Liability Partnerships (Annotations, Application and Modification of Company Law and Consequential Amendments) Regulations 2025.
 
-(2) Subject to paragraphs (3) and (4), these Regulations come into force on 18th November 2025 (at the same time as section 167M of the 2006 Act (prohibition on director acting unless ID verified) came into force)[^key-bde80cba6b6f621a3aebaafb7fc813fc].
+(2) Subject to paragraphs (3) and (4), these Regulations come into force on 18th November 2025 (at the same time as section 167M of the 2006 Act (prohibition on director acting unless ID verified) came into force)[^c-bde80cba6b6f621a3aebaafb7fc813fc].
 
-(3) Regulation 3 comes into force on 18th November 2025 (at the same time as regulation 17AA of the 2009 Regulations (prohibition on member acting unless ID verified) came into force)[^key-d237d5862107ed9c7715960fb7e13fa6].
+(3) Regulation 3 comes into force on 18th November 2025 (at the same time as regulation 17AA of the 2009 Regulations (prohibition on member acting unless ID verified) came into force)[^c-d237d5862107ed9c7715960fb7e13fa6].
 
 (4) Regulation 5(4) comes into force immediately after section 790LA of the 2006 Act (duty to notify registrar of confirmed persons with significant control)[^f00006] comes into force.
 
@@ -68,19 +68,19 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — Annotations of the register of companies
 
-### 2. Annotation in relation to the identity verification status of verified individuals[^key-6eab7c2ff9036e9ec8972170dea2c484]
+### 2. Annotation in relation to the identity verification status of verified individuals[^c-6eab7c2ff9036e9ec8972170dea2c484]
 
 Where the registrar has given notice under regulation 8(1) (notice of outcome of application) or regulation 12(1) (notice of delivery of a verification statement) of the Registrar (Identification Verification and Authorised Corporate Service Providers) Regulations 2025[^f00007] confirming that an individual’s identity is verified, the registrar must place a note in the register specifying that the individual’s identity is verified.
 
 ## Part 3 — Annotations of the register of limited liability partnerships
 
-### 3. Application of regulation 2 to LLPs[^key-c81a0a36aa881e2741c7f45be47bc801]
+### 3. Application of regulation 2 to LLPs[^c-c81a0a36aa881e2741c7f45be47bc801]
 
 Regulation 2 of these Regulations applies to LLPs with the modification that the reference to “the register” is read as a reference to the register referred to in section 1080(2) of the 2006 Act (the register) as that subsection is applied to LLPs by regulation 63A of the 2009 Regulations (the registrar of companies).
 
 ## Part 4 — Amendments to secondary legislation
 
-### 4. Amendments to the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^key-65bf5d4aea5d040aad40eb2113d68bf0]
+### 4. Amendments to the Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009[^c-65bf5d4aea5d040aad40eb2113d68bf0]
 
 (1) The 2009 Regulations are amended as follows.
 
@@ -134,7 +134,7 @@ Regulation 2 of these Regulations applies to LLPs with the modification that the
 
 (4) In regulation 67 (correction or removal of material on the register), in section 1097A(4) of the 2006 Act (rectification of register relating to LLP registered office) as applied to LLPs with modifications by that regulation, omit regulation 16(1)(a)(i) of the Registered Office Address (Rectification of Register) Regulations 2024 (suspension of duties about making records available for inspection)[^f00008], as applied to LLPs with modifications by that subsection, as applied.
 
-### 5. Amendments to the Unregistered Companies Regulations 2009[^key-26e17f3460e755da012985739350b783]
+### 5. Amendments to the Unregistered Companies Regulations 2009[^c-26e17f3460e755da012985739350b783]
 
 (1) Schedule 1 to the Unregistered Companies Regulations 2009 (provisions of the Companies Acts applying to unregistered companies)[^f00009] is amended as follows.
 
@@ -228,15 +228,15 @@ Regulation 2 of these Regulations applies to LLPs with the modification that the
 
 .
 
-### 6. Amendments to the Companies (Companies Authorised to Register) Regulations 2009[^key-d5ae861079d6d5c3b4d7ac3e0be8416b]
+### 6. Amendments to the Companies (Companies Authorised to Register) Regulations 2009[^c-d5ae861079d6d5c3b4d7ac3e0be8416b]
 
 In paragraph (2) of regulation 12A of the Companies (Companies Authorised to Register) Regulations 2009 (allocation of unique identifiers)[^f00013], for “(S.I. 2025/\[xxx\])” substitute “(S.I. 2025/50)”.
 
-### 7. Amendments to the Registered Office Address (Rectification of Register) Regulations 2024[^key-5bc7aa75a134aa99f1cbb40e227cc1f5]
+### 7. Amendments to the Registered Office Address (Rectification of Register) Regulations 2024[^c-5bc7aa75a134aa99f1cbb40e227cc1f5]
 
 Omit paragraphs (ii), (v) and (xi) of regulation 16(1)(a) of the Registered Office Address (Rectification of Register) Regulations 2024 (suspension of duties about making records available for inspection).
 
-### 8. Amendments to the Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025[^key-e813772ed16b1635b8c4f22a78587858]
+### 8. Amendments to the Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025[^c-e813772ed16b1635b8c4f22a78587858]
 
 (1) The Companies Authorised to Register, Unregistered Companies and Overseas Companies (Application of Company Law) Regulations 2025[^f00014] are amended as follows.
 
@@ -289,7 +289,7 @@ Omit paragraphs (ii), (v) and (xi) of regulation 16(1)(a) of the Registered Offi
 
 .
 
-### 9. Amendments to the Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025[^key-23f4d8440ad24eb90f80725341fc8f02]
+### 9. Amendments to the Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025[^c-23f4d8440ad24eb90f80725341fc8f02]
 
 For regulation 16 of the Limited Liability Partnerships (Application and Modification of Company Law) Regulations 2025[^f00015] (identity verification of LLP members) substitute—
 
@@ -372,25 +372,25 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^f00003]: Footnote: [2023 c. 56](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-1debbcd46493e3754020f2c86e5e3e29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-1debbcd46493e3754020f2c86e5e3e29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1) in force at 18.11.2025 in accordance with reg. 1(2)
 
-[^key-bde80cba6b6f621a3aebaafb7fc813fc]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/5/a)
+[^c-bde80cba6b6f621a3aebaafb7fc813fc]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(5)(a)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/5/a)
 
-[^key-d237d5862107ed9c7715960fb7e13fa6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/5/b)
+[^c-d237d5862107ed9c7715960fb7e13fa6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2025/1116/regulation/1/3) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(5)(b)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/5/b)
 
 [^f00006]: Footnote: Section 790LA of the Companies Act 2006 was inserted by section 51 of, and Schedule 2 to, the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-6eab7c2ff9036e9ec8972170dea2c484]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1116/regulation/2) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-6eab7c2ff9036e9ec8972170dea2c484]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1116/regulation/2) in force at 18.11.2025 in accordance with reg. 1(2)
 
 [^f00007]: Footnote: [S.I. 2025/50](https://www.legislation.gov.uk/uksi/2025/50).
 
-[^key-c81a0a36aa881e2741c7f45be47bc801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1116/regulation/3) in force at 18.11.2025 in accordance with reg. 1(3)
+[^c-c81a0a36aa881e2741c7f45be47bc801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1116/regulation/3) in force at 18.11.2025 in accordance with reg. 1(3)
 
-[^key-65bf5d4aea5d040aad40eb2113d68bf0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-65bf5d4aea5d040aad40eb2113d68bf0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1116/regulation/4) in force at 18.11.2025 in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [S.I. 2024/233](https://www.legislation.gov.uk/uksi/2024/233).
 
-[^key-26e17f3460e755da012985739350b783]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5) in force at 18.11.2025 in accordance with reg. 1(2)(4)
+[^c-26e17f3460e755da012985739350b783]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1116/regulation/5) in force at 18.11.2025 in accordance with reg. 1(2)(4)
 
 [^f00009]: Footnote: [S.I. 2009/2436](https://www.legislation.gov.uk/uksi/2009/2436), amended by [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49); there are other amending instruments but none is relevant.
 
@@ -400,16 +400,16 @@ A full impact assessment has not been prepared for this instrument as no, or no 
 
 [^f00012]: Footnote: Section 1092A was inserted by section 83(2) of the Economic Crime and Corporate Transparency Act 2023.
 
-[^key-d5ae861079d6d5c3b4d7ac3e0be8416b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-d5ae861079d6d5c3b4d7ac3e0be8416b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1116/regulation/6) in force at 18.11.2025 in accordance with reg. 1(2)
 
 [^f00013]: Footnote: [S.I. 2009/2437](https://www.legislation.gov.uk/uksi/2009/2437). Regulation 12A was inserted by regulation 5 of [S.I. 2025/49](https://www.legislation.gov.uk/uksi/2025/49).
 
-[^key-5bc7aa75a134aa99f1cbb40e227cc1f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-5bc7aa75a134aa99f1cbb40e227cc1f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1116/regulation/7) in force at 18.11.2025 in accordance with reg. 1(2)
 
-[^key-e813772ed16b1635b8c4f22a78587858]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-e813772ed16b1635b8c4f22a78587858]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1116/regulation/8) in force at 18.11.2025 in accordance with reg. 1(2)
 
 [^f00014]: Footnote: [S.I. 2025/761](https://www.legislation.gov.uk/uksi/2025/761).
 
-[^key-23f4d8440ad24eb90f80725341fc8f02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1116/regulation/9) in force at 18.11.2025 in accordance with reg. 1(2)
+[^c-23f4d8440ad24eb90f80725341fc8f02]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1116/regulation/9) in force at 18.11.2025 in accordance with reg. 1(2)
 
 [^f00015]: Footnote: [S.I. 2025/1033](https://www.legislation.gov.uk/uksi/2025/1033).

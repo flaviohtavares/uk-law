@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272. Trustees etc. liable as scheme administrator[^key-551de8bfabcb8d548caba51b4bd2e75a][^key-8c76fa8ec60a9b82bde485d7f440cf11][^key-62d97e77f1600d49b6ce5157188ed31b]
+## 272. Trustees etc. liable as scheme administrator[^c-551de8bfabcb8d548caba51b4bd2e75a][^c-8c76fa8ec60a9b82bde485d7f440cf11][^c-62d97e77f1600d49b6ce5157188ed31b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) the references in paragraph (a) to tax, and interest on tax, include any that has become due before this section applied in relation to the pension scheme and remains unpaid, and
 - (b) the reference in paragraph (b) to obligations includes any that have become due before this section applied in relation to the pension scheme and remain unsatisfied, other than any liability to pay a penalty which has become due before this section so applied.
 
-(4)[^key-fabd29c625f942b0b4b4b49d1b67ccc8] The following heads specify the persons who assume liability by reason of this section applying in relation to the pension scheme or by reason of section 272C(7) applying in relation to a liability[^key-d82acacdb475f0d25755fda912910b12]; but if—
+(4)[^c-fabd29c625f942b0b4b4b49d1b67ccc8] The following heads specify the persons who assume liability by reason of this section applying in relation to the pension scheme or by reason of section 272C(7) applying in relation to a liability[^c-d82acacdb475f0d25755fda912910b12]; but if—
 
 - (a) a person assumes, or persons assume, liability by virtue of being specified under one head, and
 - (b) that person, or any of those persons, can be traced and is not in default,
@@ -74,12 +74,12 @@ and a person in default is in serious default if the Inland Revenue considers th
 
 ## Annotations
 
-[^key-551de8bfabcb8d548caba51b4bd2e75a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
+[^c-551de8bfabcb8d548caba51b4bd2e75a]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see s. 284
 
-[^key-8c76fa8ec60a9b82bde485d7f440cf11]: Modification: S. 272 applied (with modifications) (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/5)
+[^c-8c76fa8ec60a9b82bde485d7f440cf11]: Modification: S. 272 applied (with modifications) (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/5)
 
-[^key-62d97e77f1600d49b6ce5157188ed31b]: Modification: S. 272 modified (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/569/schedule/3/part/1)
+[^c-62d97e77f1600d49b6ce5157188ed31b]: Modification: S. 272 modified (6.4.2006) by [The Registered Pension Schemes (Splitting of Schemes) Regulations 2006 (S.I. 2006/569)](https://www.legislation.gov.uk/uksi/2006/569), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2006/569/regulation/3/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2006/569/schedule/3/part/1)
 
-[^key-fabd29c625f942b0b4b4b49d1b67ccc8]: Modification: S. 272(4) modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2006/575/regulation/27/2)
+[^c-fabd29c625f942b0b4b4b49d1b67ccc8]: Modification: S. 272(4) modified (6.4.2006) by [The Pension Protection Fund (Tax) Regulations 2006 (S.I. 2006/575)](https://www.legislation.gov.uk/uksi/2006/575), [regs. 1](https://www.legislation.gov.uk/uksi/2006/575/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2006/575/regulation/27/2)
 
-[^key-d82acacdb475f0d25755fda912910b12]: Textual amendment: Words in s. 272(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/18)
+[^c-d82acacdb475f0d25755fda912910b12]: Textual amendment: Words in s. 272(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/18)

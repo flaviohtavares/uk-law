@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Inhibition of property affected by order[^key-32939193b2d30fc3752334ac18b46d74]
+## 169. Inhibition of property affected by order[^c-32939193b2d30fc3752334ac18b46d74]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32939193b2d30fc3752334ac18b46d74]: Commencement: [Art. 169](https://www.legislation.gov.uk/uksi/2005/3181/article/169) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-32939193b2d30fc3752334ac18b46d74]: Commencement: [Art. 169](https://www.legislation.gov.uk/uksi/2005/3181/article/169) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00092]: Footnote: [1868 c. 101](https://www.legislation.gov.uk/ukpga/1868/101).

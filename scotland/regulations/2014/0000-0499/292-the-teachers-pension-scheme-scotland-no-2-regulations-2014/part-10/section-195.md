@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 195. Application for a statement of entitlement[^key-1eaf3be9e0b80fe1fff271666225445d]
+## 195. Application for a statement of entitlement[^c-1eaf3be9e0b80fe1fff271666225445d]
 
 *Extent: S*
 
-(1) A person [^key-2bed4515fce92a609fb669704f6155e0]... may apply for a statement of entitlement by written notice to the scheme manager.
+(1) A person [^c-2bed4515fce92a609fb669704f6155e0]... may apply for a statement of entitlement by written notice to the scheme manager.
 
-(2)[^key-743084e7458d27b5ab6381ac9ed1b32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-743084e7458d27b5ab6381ac9ed1b32b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1eaf3be9e0b80fe1fff271666225445d]: Commencement: [Reg. 195](https://www.legislation.gov.uk/ssi/2014/292/regulation/195) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1eaf3be9e0b80fe1fff271666225445d]: Commencement: [Reg. 195](https://www.legislation.gov.uk/ssi/2014/292/regulation/195) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-2bed4515fce92a609fb669704f6155e0]: Textual amendment: Word in [reg. 195(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/195/1) omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [20(a)](https://www.legislation.gov.uk/ssi/2015/97/regulation/20/a)
+[^c-2bed4515fce92a609fb669704f6155e0]: Textual amendment: Word in [reg. 195(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/195/1) omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [20(a)](https://www.legislation.gov.uk/ssi/2015/97/regulation/20/a)
 
-[^key-743084e7458d27b5ab6381ac9ed1b32b]: Textual amendment: [Reg. 195(2)](https://www.legislation.gov.uk/ssi/2014/292/regulation/195/2) omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [20(b)](https://www.legislation.gov.uk/ssi/2015/97/regulation/20/b)
+[^c-743084e7458d27b5ab6381ac9ed1b32b]: Textual amendment: [Reg. 195(2)](https://www.legislation.gov.uk/ssi/2014/292/regulation/195/2) omitted (1.4.2015) by virtue of [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [20(b)](https://www.legislation.gov.uk/ssi/2015/97/regulation/20/b)

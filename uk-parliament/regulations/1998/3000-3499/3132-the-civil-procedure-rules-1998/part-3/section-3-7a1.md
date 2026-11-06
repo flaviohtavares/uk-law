@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.7A1. Sanctions for non-payment of the trial fee by the claimant[^key-e884398476e12e3c5e16b514cf6a640b]
+## 3.7A1. Sanctions for non-payment of the trial fee by the claimant[^c-e884398476e12e3c5e16b514cf6a640b]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
   - (ii) the trial fee payment date; and
   - (iii) the consequences of non-payment of the trial fee;
 - (c) “trial date” means the date of the trial in relation to which the trial fee is payable, and if the trial in relation to which the trial fee is payable is scheduled to commence during the course of a specified period, “trial date” means the date of the Monday of the first week of that specified period;
-- (d) “trial fee” means fee 2.1 set out in the Table in Schedule 1 to the Fees Order 2008 and payable for the trial of a case on the multi-track, intermediate track[^key-444fe8bcb6ab9feb712fadc2b5bc0c58] fast track or small claims track;
+- (d) “trial fee” means fee 2.1 set out in the Table in Schedule 1 to the Fees Order 2008 and payable for the trial of a case on the multi-track, intermediate track[^c-444fe8bcb6ab9feb712fadc2b5bc0c58] fast track or small claims track;
 - (e) “trial fee payment date” means the date by which the trial fee must be paid, calculated in accordance with the Fees Order 2008;
 - (f) “revised trial fee payment date” means, if an application for fee remission is denied in whole or part, the revised date by which the fee or part of it is to be paid, calculated in accordance with the Fees Order 2008.
 
@@ -54,7 +54,7 @@ summary: ''
 - (b) the claimant has not applied to have the trial fee remitted in whole or part; and
 - (c) the trial fee has not been paid on or before the trial fee payment date,
 
-the claim will automatically be struck out without further order of the court, and unless the court orders otherwise, the claimant will be liable for the defendant’s costs in accordance with rule 44.9(1)[^key-209afee485c2eb78ea7a4ee94d375f49].
+the claim will automatically be struck out without further order of the court, and unless the court orders otherwise, the claimant will be liable for the defendant’s costs in accordance with rule 44.9(1)[^c-209afee485c2eb78ea7a4ee94d375f49].
 
 (8) If—
 
@@ -64,7 +64,7 @@ the claim will automatically be struck out without further order of the court, a
 - (d) following the decision on remission, the claimant has had notice in accordance with this rule to pay the full trial fee or balance of it; and
 - (e) the full trial fee or balance of it (as appropriate) has not been paid on or before the revised trial fee payment date,
 
-the claim will automatically be struck out without further order of the court, and, unless the court orders otherwise, the claimant will be liable for the defendant’s costs in accordance with rule 44.9(1)[^key-4b30c00479c3b7060dd088fae1b6ae43].
+the claim will automatically be struck out without further order of the court, and, unless the court orders otherwise, the claimant will be liable for the defendant’s costs in accordance with rule 44.9(1)[^c-4b30c00479c3b7060dd088fae1b6ae43].
 
 (Rule 44.9 provides for the basis of assessment where a right to costs arises under this rule and contains provisions about when a costs order is deemed to have been made and applying for an order under section 194(3) of the Legal Services Act 2007.)
 
@@ -84,10 +84,10 @@ the relief must be conditional on the claimant either paying the trial fee or fi
 
 ## Annotations
 
-[^key-e884398476e12e3c5e16b514cf6a640b]: Textual amendment: Rule 3.7A1 inserted (6.3.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(b)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/b), [5(5)](https://www.legislation.gov.uk/uksi/2017/95/rule/5/5) (with [rule 13(1)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/1)[(2)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/2))
+[^c-e884398476e12e3c5e16b514cf6a640b]: Textual amendment: Rule 3.7A1 inserted (6.3.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(b)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/b), [5(5)](https://www.legislation.gov.uk/uksi/2017/95/rule/5/5) (with [rule 13(1)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/1)[(2)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/2))
 
-[^key-444fe8bcb6ab9feb712fadc2b5bc0c58]: Textual amendment: Words in rule 3.7A1(1)(d) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/572/rule/5/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-444fe8bcb6ab9feb712fadc2b5bc0c58]: Textual amendment: Words in rule 3.7A1(1)(d) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2023/572/rule/5/2) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-209afee485c2eb78ea7a4ee94d375f49]: Textual amendment: Words in rule 3.7A1(7) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2024/839/rule/5/2/a)
+[^c-209afee485c2eb78ea7a4ee94d375f49]: Textual amendment: Words in rule 3.7A1(7) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2024/839/rule/5/2/a)
 
-[^key-4b30c00479c3b7060dd088fae1b6ae43]: Textual amendment: Words in rule 3.7A1(8) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/839/rule/5/2/b)
+[^c-4b30c00479c3b7060dd088fae1b6ae43]: Textual amendment: Words in rule 3.7A1(8) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2024/839/rule/5/2/b)

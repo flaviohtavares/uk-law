@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Supplementary provisions.[^key-36c0be76be1b6fd5cec0810cc40b7b90][^key-1f19857441bb987e97e6abe0638ea432][^key-2255bee8b6b87693b25e9bd517537301]
+## 101. Supplementary provisions.[^c-36c0be76be1b6fd5cec0810cc40b7b90][^c-1f19857441bb987e97e6abe0638ea432][^c-2255bee8b6b87693b25e9bd517537301]
 
 *Extent: E+W+S*
 
@@ -29,8 +29,8 @@ the whole or part of a pension shall be disregarded.
 
 ## Annotations
 
-[^key-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
+[^c-36c0be76be1b6fd5cec0810cc40b7b90]: Commencement: Ss. 1-187 in force at 7.2.1994 by [S.I. 1994/86](https://www.legislation.gov.uk/uksi/1994/86), [art. 2](https://www.legislation.gov.uk/uksi/1994/86/article/2)
 
-[^key-1f19857441bb987e97e6abe0638ea432]: Modification: Ss. 93-101 modified (1.4.1998) by [The Local Government Pension Scheme (Scotland) Regulations 1998 (S.I. 1998/366)](https://www.legislation.gov.uk/uksi/1998/366), [regs. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1), [116-118](https://www.legislation.gov.uk/uksi/1998/366/regulation/116)
+[^c-1f19857441bb987e97e6abe0638ea432]: Modification: Ss. 93-101 modified (1.4.1998) by [The Local Government Pension Scheme (Scotland) Regulations 1998 (S.I. 1998/366)](https://www.legislation.gov.uk/uksi/1998/366), [regs. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1), [116-118](https://www.legislation.gov.uk/uksi/1998/366/regulation/116)
 
-[^key-2255bee8b6b87693b25e9bd517537301]: Modification: S. 101 modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)
+[^c-2255bee8b6b87693b25e9bd517537301]: Modification: S. 101 modified (30.12.2005) by [The Occupational Pension Schemes (Cross-border Activities) Regulations 2005 (S.I. 2005/3381)](https://www.legislation.gov.uk/uksi/2005/3381), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3381/regulation/1), [14](https://www.legislation.gov.uk/uksi/2005/3381/regulation/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3381/schedule/2/paragraph/3)

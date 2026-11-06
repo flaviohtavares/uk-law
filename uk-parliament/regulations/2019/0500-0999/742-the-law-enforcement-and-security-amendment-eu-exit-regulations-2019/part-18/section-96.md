@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Freezing orders[^key-fd8240b56e4843e7e44962bcc2c05109]
+## 96. Freezing orders[^c-fd8240b56e4843e7e44962bcc2c05109]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8240b56e4843e7e44962bcc2c05109]: Textual amendment: Reg. 96 omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/c), [Sch. 3 para. 2(3)(d)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/3/d)
+[^c-fd8240b56e4843e7e44962bcc2c05109]: Textual amendment: Reg. 96 omitted (31.12.2020) by virtue of [European Union (Future Relationship) Act 2020 (c. 29)](https://www.legislation.gov.uk/ukpga/2020/29), [s. 40(6)(c)](https://www.legislation.gov.uk/ukpga/2020/29/section/40/6/c), [Sch. 3 para. 2(3)(d)](https://www.legislation.gov.uk/ukpga/2020/29/schedule/3/paragraph/2/3/d)

@@ -94,7 +94,7 @@ An Act to amend the Laws relating to Local Government in England and Wales, and 
 
 (1) The county council shall, as respects the business by this Act transferred to them from quarter sessions or the justices out of sessions, be subject to the provisions and limitations in this Act specified, but, save as aforesaid, shall have and be subject to all the powers, duties, and liabilities, which the quarter sessions, or any committee thereof, or any justice or justices had or were subject to in respect of the business so transferred.
 
-(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573938] the county council may also, without prejudice to any other power whether to appoint committees or otherwise, delegate to the justices of the peace[^c573939] acting in a local justice[^key-15e6a2b3ddfe6444bb8ef6a3fcf687e0] area consisting of or including the whole or part of the county any power or duty transferred by this Act to the county council in respect of. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573940] the execution as local authority. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573941] of the Act relating to contagious diseases of animals.
+(2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573938] the county council may also, without prejudice to any other power whether to appoint committees or otherwise, delegate to the justices of the peace[^c573939] acting in a local justice[^c-15e6a2b3ddfe6444bb8ef6a3fcf687e0] area consisting of or including the whole or part of the county any power or duty transferred by this Act to the county council in respect of. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573940] the execution as local authority. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573941] of the Act relating to contagious diseases of animals.
 
 (3) Provided that the county council shall not under this section delegate any power of raising money by rate or loan.
 
@@ -192,7 +192,7 @@ An Act to amend the Laws relating to Local Government in England and Wales, and 
 
 #### 68. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c573980]
 
-#### 69. Borrowing by county council.[^key-3768e3ce5377fefabf6a4715b7f182be]
+#### 69. Borrowing by county council.[^c-3768e3ce5377fefabf6a4715b7f182be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,7 +231,7 @@ and all the said enactments shall be construed with such modifications as may be
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c574001]
 
-(3) Where under any such enactment as in this section mentioned, any powers, duties, or liabilities are to be exercised or discharged after any presentment or in any particular manner, or at any particular meeting, or subject to any other conditions, the county council may, by the standing orders for the regulation of their proceedings, provide for the exercise and discharge of those powers, duties, and liabilities without any such prior presentment or in a different manner, or at any meeting of the council fixed by the standing orders, or without such other conditions; and until such standing orders take effect shall exercise and discharge them in the like manner, and at the like time, and subject to the like conditions, so nearly as circumstances admit; [^key-4dbf1da557653bc9956175a05218426a]...
+(3) Where under any such enactment as in this section mentioned, any powers, duties, or liabilities are to be exercised or discharged after any presentment or in any particular manner, or at any particular meeting, or subject to any other conditions, the county council may, by the standing orders for the regulation of their proceedings, provide for the exercise and discharge of those powers, duties, and liabilities without any such prior presentment or in a different manner, or at any meeting of the council fixed by the standing orders, or without such other conditions; and until such standing orders take effect shall exercise and discharge them in the like manner, and at the like time, and subject to the like conditions, so nearly as circumstances admit; [^c-4dbf1da557653bc9956175a05218426a]...
 
 (4)[^c574002][^c574003] For the purposes of this section the expression “**authority**” means a Secretary of State, the Board of Trade, the Local Government Board, and any Government Department, also any commissioners, conservators, or public body, corporate or unincorporate, specified in a Provisional Order transferring any powers, duties, or liabilities to the county council, also any quarter sessions and any justices, also the Metropolitan Board of Works, or other local authority mentioned in this Act; and the expression “**member of an authority**” includes, where the authority are quarter sessions or justices, any justice, and the expression “**meeting of an authority**” includes a court of quarter sessions and the assembly of justices in special or petty sessions; and the expression “**clerk of an authority**” includes in relation to any quarter sessions or justices, the clerk of the peace or the clerk to a justice as the case requires.
 
@@ -276,7 +276,7 @@ This section shall apply as if a joint committee were a committee of the county 
 
 #### 86. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c574018]
 
-#### 87. Application of provisions of 38 & 39 Vict. c. 55 as to local inquiries and provisional orders.[^key-bc7ae4221d319bd54a1746843425a3cb]
+#### 87. Application of provisions of 38 & 39 Vict. c. 55 as to local inquiries and provisional orders.[^c-bc7ae4221d319bd54a1746843425a3cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -413,7 +413,7 @@ Licences for the sale of intoxicating liquor for comsumption on the premises;
 
 [^c574089] . . .
 
-[^key-48fdf79ff46948637ee523518cd44044]...
+[^c-48fdf79ff46948637ee523518cd44044]...
 
 Licences for—
 
@@ -430,7 +430,7 @@ Licences for—
 </tbody>
 </table>
 
-[^c574090][^c574091][^c574092][^c574089][^c574094][^c574091][^c574091][^c574097][^key-48fdf79ff46948637ee523518cd44044][^c574098]
+[^c574090][^c574091][^c574092][^c574089][^c574094][^c574091][^c574091][^c574097][^c-48fdf79ff46948637ee523518cd44044][^c574098]
 
 ## SECOND SCHEDULE[^c574099][^c574099]
 
@@ -508,7 +508,7 @@ Licences for—
 
 [^c573939]: Textual amendment: Words in s. 28(2) substituted (27.9.1999) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [ss. 76(2)](https://www.legislation.gov.uk/ukpga/1999/22/section/76/2), [108(3)(c)](https://www.legislation.gov.uk/ukpga/1999/22/section/108/3/c), [Sch. 10 para. 13](https://www.legislation.gov.uk/ukpga/1999/22/schedule/10/paragraph/13) (with [s. 107](https://www.legislation.gov.uk/ukpga/1999/22/section/107), [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2))
 
-[^key-15e6a2b3ddfe6444bb8ef6a3fcf687e0]: Textual amendment: Words in s. 28(2) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 64](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/64); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-15e6a2b3ddfe6444bb8ef6a3fcf687e0]: Textual amendment: Words in s. 28(2) substituted (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 64](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/64); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c573940]: Textual amendment: Words repealed by [Theatre Act 1968 (c. 54)](https://www.legislation.gov.uk/ukpga/1968/54), [Sch. 3](https://www.legislation.gov.uk/ukpga/1968/54/schedule/3) and [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -592,7 +592,7 @@ Licences for—
 
 [^c573980]: Textual amendment: [S. 68](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/68) repealed by [Local Government Act 1933 (c. 51)](https://www.legislation.gov.uk/ukpga/1933/51), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1933/51/schedule/11/part/III) and [London Government Act 1939 (c. 40)](https://www.legislation.gov.uk/ukpga/1939/40), [Sch. 8](https://www.legislation.gov.uk/ukpga/1939/40/schedule/8)
 
-[^key-3768e3ce5377fefabf6a4715b7f182be]: Textual amendment: S. 69 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-3768e3ce5377fefabf6a4715b7f182be]: Textual amendment: S. 69 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c573993]: Textual amendment: [Ss. 69(10)(12)](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/69/10/12), [70](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/70) repealed by [Local Government Act 1933 (c. 51)](https://www.legislation.gov.uk/ukpga/1933/51), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1933/51/schedule/11/part/III) and [London Government Act 1963 (c. 33)](https://www.legislation.gov.uk/ukpga/1963/33), [Sch. 18 Pt. II](https://www.legislation.gov.uk/ukpga/1963/33/schedule/18/part/II)
 
@@ -612,7 +612,7 @@ Licences for—
 
 [^c574001]: Textual amendment: Words repealed by [Justices of the Peace Act 1968 (c. 69)](https://www.legislation.gov.uk/ukpga/1968/69), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1968/69/schedule/5/part/II)
 
-[^key-4dbf1da557653bc9956175a05218426a]: Textual amendment: Words in [s. 78(3)](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/78/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-4dbf1da557653bc9956175a05218426a]: Textual amendment: Words in [s. 78(3)](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/78/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c574002]: Modification: Functions of Board of Trade now exercisable by Secretary of State concurrently with Board of Trade: [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537)
 
@@ -646,7 +646,7 @@ Licences for—
 
 [^c574018]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/86) repealed by [Local Government Act 1958 (c. 55)](https://www.legislation.gov.uk/ukpga/1958/55), [s. 67](https://www.legislation.gov.uk/ukpga/1958/55/section/67), [Sch. 9 Pt. V](https://www.legislation.gov.uk/ukpga/1958/55/schedule/9/part/V)
 
-[^key-bc7ae4221d319bd54a1746843425a3cb]: Textual amendment: S. 87 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-bc7ae4221d319bd54a1746843425a3cb]: Textual amendment: S. 87 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c574025]: Textual amendment: [S. 88](https://www.legislation.gov.uk/ukpga/Vict/51-52/41/section/88) repealed by [London Government Act 1939 (c. 40)](https://www.legislation.gov.uk/ukpga/1939/40), [Sch. 8](https://www.legislation.gov.uk/ukpga/1939/40/schedule/8)
 
@@ -738,7 +738,7 @@ Licences for—
 
 [^c574089]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1975 (c. 10)](https://www.legislation.gov.uk/ukpga/1975/10), [Sch. Pt. VIII](https://www.legislation.gov.uk/ukpga/1975/10/schedule/part/VIII)
 
-[^key-48fdf79ff46948637ee523518cd44044]: Textual amendment: Words repealed (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/d)
+[^c-48fdf79ff46948637ee523518cd44044]: Textual amendment: Words repealed (1.8.2007) by [Regulatory Reform (Game) Order 2007 (S.I. 2007/2007)](https://www.legislation.gov.uk/uksi/2007/2007), [art. 1(1)](https://www.legislation.gov.uk/uksi/2007/2007/article/1/1), [Sch. para. 1(d)](https://www.legislation.gov.uk/uksi/2007/2007/schedule/paragraph/1/d)
 
 [^c574090]: Textual amendment: Words repealed by [Finance Act 1944 (c. 23)](https://www.legislation.gov.uk/ukpga/1944/23), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1944/23/schedule/5/part/II)
 

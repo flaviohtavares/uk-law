@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Entry and inspection of premises[^key-061f50695adc73da3ce77914b84af016]
+## 44. Entry and inspection of premises[^c-061f50695adc73da3ce77914b84af016]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-061f50695adc73da3ce77914b84af016]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2015/5/section/44) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-061f50695adc73da3ce77914b84af016]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2015/5/section/44) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

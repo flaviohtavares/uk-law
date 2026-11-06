@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**5.**[^key-995a4b92b04d49af8d5de355de9226e2] In rule 4.7 (Documents that must be served only by handing them over, leaving or posting them)—
+**5.**[^c-995a4b92b04d49af8d5de355de9226e2] In rule 4.7 (Documents that must be served only by handing them over, leaving or posting them)—
 
 - (a) for paragraph (1), substitute—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-995a4b92b04d49af8d5de355de9226e2]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2009/2087/article/5) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-995a4b92b04d49af8d5de355de9226e2]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2009/2087/article/5) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

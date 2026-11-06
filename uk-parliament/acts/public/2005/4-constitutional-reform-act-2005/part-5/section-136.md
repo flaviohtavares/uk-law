@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Interpretation of Part 5[^key-eece6579c6ee3d8baa7e3a401b9baade]
+## 136. Interpretation of Part 5[^c-eece6579c6ee3d8baa7e3a401b9baade]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eece6579c6ee3d8baa7e3a401b9baade]: Textual amendment: Ss. 133-136 repealed (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), Sch. 12 para. 82, Sch. 13 (as inserted by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/127)); [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/ii)
+[^c-eece6579c6ee3d8baa7e3a401b9baade]: Textual amendment: Ss. 133-136 repealed (12.4.2010) by Justice (Northern Ireland) Act 2002 (c. 26), Sch. 12 para. 82, Sch. 13 (as inserted by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/127)); [S.I. 2010/883](https://www.legislation.gov.uk/uksi/2010/883), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2010/883/article/2/c/ii)

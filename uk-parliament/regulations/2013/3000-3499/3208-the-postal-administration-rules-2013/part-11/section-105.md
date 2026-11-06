@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Adjournment of hearing; directions[^key-02a796963f2886143e75c3dfc52fd8a3]
+## 105. Adjournment of hearing; directions[^c-02a796963f2886143e75c3dfc52fd8a3]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02a796963f2886143e75c3dfc52fd8a3]: Commencement: [Rule 105](https://www.legislation.gov.uk/uksi/2013/3208/rule/105) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-02a796963f2886143e75c3dfc52fd8a3]: Commencement: [Rule 105](https://www.legislation.gov.uk/uksi/2013/3208/rule/105) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

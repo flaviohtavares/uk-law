@@ -50,11 +50,11 @@ The Welsh Ministers are designated[^f00001] for the purposes of section 2(2) of 
 
 The Welsh Ministers make these Regulations in exercise of the powers conferred by that section.
 
-## 1. Title, application and commencement[^key-1c6e86f79824b09bc607d2e7b5837d34]
+## 1. Title, application and commencement[^c-1c6e86f79824b09bc607d2e7b5837d34]
 
 The title of these Regulations is the Animals and Animal Products (Import and Export) (Wales) (Amendment) Regulations 2007. They apply in relation to Wales and come into force on 17 November 2007.
 
-## 2. Amendment of the Animals and Animal Products (Import and Export) (Wales) Regulations 2006[^key-434586965405882f150a709d51bf2f75]
+## 2. Amendment of the Animals and Animal Products (Import and Export) (Wales) Regulations 2006[^c-434586965405882f150a709d51bf2f75]
 
 (1) The Animals and Animal Products (Import and Export) (Wales) Regulations 2006[^f00003] are amended as follows.
 
@@ -146,8 +146,8 @@ A regulatory impact assessment has not been prepared for these Regulations.
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-1c6e86f79824b09bc607d2e7b5837d34]: Commencement: Reg. 1 in force at 17.11.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3279/regulation/1)
+[^c-1c6e86f79824b09bc607d2e7b5837d34]: Commencement: Reg. 1 in force at 17.11.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3279/regulation/1)
 
-[^key-434586965405882f150a709d51bf2f75]: Commencement: Reg. 2 in force at 17.11.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3279/regulation/1)
+[^c-434586965405882f150a709d51bf2f75]: Commencement: Reg. 2 in force at 17.11.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3279/regulation/1)
 
 [^f00003]: Footnote: S.I. [2006/1536 (W.153)](https://www.legislation.gov.uk/wsi/2006/1536) as last amended by S.I. [2007/1627 (W.137)](https://www.legislation.gov.uk/wsi/2007/1627).

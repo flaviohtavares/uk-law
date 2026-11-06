@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Authority may be required to carry on commercial activities through a taxable body[^key-e748619d5d0e3ecc13c9791916aaffdf]
+## 224. Authority may be required to carry on commercial activities through a taxable body[^c-e748619d5d0e3ecc13c9791916aaffdf]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e748619d5d0e3ecc13c9791916aaffdf]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2011/20/section/224) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-e748619d5d0e3ecc13c9791916aaffdf]: Commencement: [S. 224](https://www.legislation.gov.uk/ukpga/2011/20/section/224) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Proposals for merger of single tiers of local government[^key-d80f9462c70d9b09544570afcef8ea7a]
+## 2A. Proposals for merger of single tiers of local government[^c-d80f9462c70d9b09544570afcef8ea7a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d80f9462c70d9b09544570afcef8ea7a]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2007/28/section/2A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 28 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/28/paragraph/1/2)
+[^c-d80f9462c70d9b09544570afcef8ea7a]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2007/28/section/2A) inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 28 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/28/paragraph/1/2)

@@ -37,16 +37,16 @@ concerning national provisions notified by Denmark on the addition of nitrite to
 
 (Only the Danish text is authentic) (revoked)
 
-[^key-ea44b8147aecb23ddb92113ee1bddea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea44b8147aecb23ddb92113ee1bddea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ea44b8147aecb23ddb92113ee1bddea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ea44b8147aecb23ddb92113ee1bddea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ea44b8147aecb23ddb92113ee1bddea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ea44b8147aecb23ddb92113ee1bddea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ea44b8147aecb23ddb92113ee1bddea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ea44b8147aecb23ddb92113ee1bddea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea44b8147aecb23ddb92113ee1bddea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea44b8147aecb23ddb92113ee1bddea6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea44b8147aecb23ddb92113ee1bddea6]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/3)
+[^c-ea44b8147aecb23ddb92113ee1bddea6]: Textual amendment: Decision revoked (31.12.2020) by [The Waste and Environmental Permitting etc. (Legislative Functions and Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1540)](https://www.legislation.gov.uk/uksi/2020/1540), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1540/schedule/paragraph/3)

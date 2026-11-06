@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Amendment of return by taxpayer[^key-9a77c0433939f43c69bae2c1bbfadb01]
+## 83. Amendment of return by taxpayer[^c-9a77c0433939f43c69bae2c1bbfadb01]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a77c0433939f43c69bae2c1bbfadb01]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2014/16/section/83) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-9a77c0433939f43c69bae2c1bbfadb01]: Commencement: [S. 83](https://www.legislation.gov.uk/asp/2014/16/section/83) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

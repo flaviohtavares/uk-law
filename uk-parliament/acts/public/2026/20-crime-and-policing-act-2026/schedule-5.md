@@ -22,7 +22,7 @@ summary: ''
 
 Section 44
 
-### 1. Firearms Act 1968[^key-a7daa91ab0278602f007b6838ccc47c5][^key-c4d07b38927b55da622e5085ce45808b]
+### 1. Firearms Act 1968[^c-a7daa91ab0278602f007b6838ccc47c5][^c-c4d07b38927b55da622e5085ce45808b]
 
 (1) The [Firearms Act 1968](https://www.legislation.gov.uk/ukpga/1968/27/contents) is amended as follows.
 
@@ -82,7 +82,7 @@ Section 44
 
   > - (d) having obtained a permit under paragraph (c), remove any relevant accessory from or to a ship, aircraft or aerodrome, to or from the place specified in the permit.
 
-### 2. Firearms (Amendment) Act 1988[^key-7f35d54c87c0d723be330e8642217fab][^key-3c37fdf6e9909df0fae4b1c017b80662]
+### 2. Firearms (Amendment) Act 1988[^c-7f35d54c87c0d723be330e8642217fab][^c-3c37fdf6e9909df0fae4b1c017b80662]
 
 (1) The [Firearms (Amendment) Act 1988](https://www.legislation.gov.uk/ukpga/1988/45/contents) is amended as follows.
 
@@ -105,10 +105,10 @@ Section 44
 
 ## Annotations
 
-[^key-a7daa91ab0278602f007b6838ccc47c5]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a7daa91ab0278602f007b6838ccc47c5]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c4d07b38927b55da622e5085ce45808b]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/1) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+[^c-c4d07b38927b55da622e5085ce45808b]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/1) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
 
-[^key-7f35d54c87c0d723be330e8642217fab]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7f35d54c87c0d723be330e8642217fab]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-3c37fdf6e9909df0fae4b1c017b80662]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)
+[^c-3c37fdf6e9909df0fae4b1c017b80662]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/5/paragraph/2) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z8)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z8)

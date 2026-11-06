@@ -42,7 +42,7 @@ An Act of the National Assembly for Wales to make provision about the governance
 
 ## Further education institutions: governance
 
-### 1. Borrowing and investing by further education corporations[^key-465d8c3c76cbcf23098c9b4a361d511e]
+### 1. Borrowing and investing by further education corporations[^c-465d8c3c76cbcf23098c9b4a361d511e]
 
 In section 19 of the Further and Higher Education Act 1992 (supplementary powers of a further education corporation), omit—
 
@@ -53,7 +53,7 @@ In section 19 of the Further and Higher Education Act 1992 (supplementary powers
 - (e) subsection (4C) (subsection (4B) not to apply if Welsh Ministers consent to exercise of powers), and
 - (f) subsection (5) (power in subsection (4)(c) to borrow not to be exercised by further education corporation in Wales without consent of Welsh Ministers).
 
-### 2. Instrument and articles of government of further education corporations[^key-cd5762ce520c2c39785c615e4af9761e]
+### 2. Instrument and articles of government of further education corporations[^c-cd5762ce520c2c39785c615e4af9761e]
 
 (1) In section 20 of the Further and Higher Education Act 1992 (constitution of corporation and conduct of the institution), for subsections (2) and (2A) substitute—
 
@@ -70,7 +70,7 @@ In section 19 of the Further and Higher Education Act 1992 (supplementary powers
 >
 > A further education corporation may modify or replace their instrument of government or articles of government.
 
-### 3. Dissolution of further education corporations[^key-8b77fc3c21f43915da4070d66782fc6c][^key-22dcb1c99fb3cdd384b07c804153064b]
+### 3. Dissolution of further education corporations[^c-8b77fc3c21f43915da4070d66782fc6c][^c-22dcb1c99fb3cdd384b07c804153064b]
 
 For sections 27 to 27C of the Further and Higher Education Act 1992 substitute—
 
@@ -118,7 +118,7 @@ For sections 27 to 27C of the Further and Higher Education Act 1992 substitute�
 >
 > (6) In this section, “**the appropriate authority**” has the meaning given in section 27.
 
-### 4. Designated institutions: instrument and articles of government[^key-05a97a0ef89e9d1022884022d1748db2]
+### 4. Designated institutions: instrument and articles of government[^c-05a97a0ef89e9d1022884022d1748db2]
 
 (1) In section 29A of the Further and Higher Education Act 1992 (first post-designation instruments and articles), omit—
 
@@ -143,7 +143,7 @@ For sections 27 to 27C of the Further and Higher Education Act 1992 substitute�
 
 (3) In section 31 of that Act (designated institutions conducted by companies), omit subsection (2A) (articles relating to appointment of members to take into account members who may be appointed by Welsh Ministers).
 
-### 5. Intervention by Welsh Ministers in respect of institutions within further education sector[^key-f647f1ee2f261e5b9ae6ace4568a1e4d]
+### 5. Intervention by Welsh Ministers in respect of institutions within further education sector[^c-f647f1ee2f261e5b9ae6ace4568a1e4d]
 
 (1) Section 57 of the Further and Higher Education Act 1992 (intervention: Wales) is amended as follows.
 
@@ -168,21 +168,21 @@ For sections 27 to 27C of the Further and Higher Education Act 1992 substitute�
 
 (4) Omit section 57A of the Further and Higher Education Act 1992 (intervention policy: Wales).
 
-### 6. Abolition of duties of further education institutions to comply with directions[^key-83a13771717cd1b4a94aed6e39aa1ef9]
+### 6. Abolition of duties of further education institutions to comply with directions[^c-83a13771717cd1b4a94aed6e39aa1ef9]
 
-(1)[^key-4b3ba6b1f738937606c247130ec46a29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4b3ba6b1f738937606c247130ec46a29] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 33L(3) of that Act (joint working: guidance and directions), for “The persons mentioned in subsection (1)” substitute “ A local authority and a governing body of a maintained school ”.
 
-(3)[^key-68dd49618dc365b1f59474709ad82f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-68dd49618dc365b1f59474709ad82f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-f25ccb91de982ad718089c2870d83301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f25ccb91de982ad718089c2870d83301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Abolition of power to regulate higher education courses in further education sector[^key-bce3d14c014b1c6fe883fe0db7b94a40]
+### 7. Abolition of power to regulate higher education courses in further education sector[^c-bce3d14c014b1c6fe883fe0db7b94a40]
 
 In the Education Act 2002, omit section 139 (power to make regulations prohibiting provision of higher education courses by institutions within further education sector without approval of Welsh Ministers and determining numbers of persons who may take such courses at such institutions).
 
-### 8. Minor and consequential amendments[^key-1bb084fe281bd48b0e41d617642e0f87]
+### 8. Minor and consequential amendments[^c-1bb084fe281bd48b0e41d617642e0f87]
 
 Schedule 2 (which makes minor and consequential amendments) has effect.
 
@@ -223,7 +223,7 @@ In section 24 of the Teaching and Higher Education Act 1998 (supply of informati
 
 ## General
 
-### 10. Review of operation of Act[^key-6ef7420a01ba3150f5dd5cf6f118a2d2]
+### 10. Review of operation of Act[^c-6ef7420a01ba3150f5dd5cf6f118a2d2]
 
 The Welsh Ministers must, not later than 31 July 2016, review the operation of this Act with a view in particular to assessing its impact on—
 
@@ -246,7 +246,7 @@ The Welsh Ministers must, not later than 31 July 2016, review the operation of t
 
 The short title of this Act is the Further and Higher Education (Governance and Information) (Wales) Act 2014.
 
-## SCHEDULE 1 — INSTRUMENTS AND ARTICLES OF GOVERNMENT[^key-48acdae0d4873c1eed5c43e7880755d4]
+## SCHEDULE 1 — INSTRUMENTS AND ARTICLES OF GOVERNMENT[^c-48acdae0d4873c1eed5c43e7880755d4]
 
 (introduced by section 2)
 
@@ -336,7 +336,7 @@ In the Further and Higher Education Act 1992, for Schedule 4 substitute—
 
 ### Further and Higher Education Act 1992
 
-**1.**[^key-805c5135ebb9fdecaf446006ce8220ce] In the Further and Higher Education Act 1992—
+**1.**[^c-805c5135ebb9fdecaf446006ce8220ce] In the Further and Higher Education Act 1992—
 
 - (a) in section 30 (special provision for certain institutions), in subsection (1), for “29C” substitute “ 29B ”;
 - (b) in section 33I(2)(a) (instrument and articles of government of sixth form college corporations), omit “Part 2 of”;
@@ -353,18 +353,18 @@ In the Further and Higher Education Act 1992, for Schedule 4 substitute—
 
 ### Learning and Skills Act 2000
 
-**2.**[^key-57fca29925498fc0ac51a67029db43cd] In the Learning and Skills Act 2000, omit—
+**2.**[^c-57fca29925498fc0ac51a67029db43cd] In the Learning and Skills Act 2000, omit—
 
 - (a) section 39 (power of Welsh Ministers to appoint governors of institution falling within further education sector and mainly serving population of Wales), and
 - (b) in Schedule 9, paragraphs 22(4) and 25 (which amend sections 19 and 31 of the Further and Higher Education Act 1992).
 
 ### National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005
 
-**3.**[^key-52eb64028ec361c2d97473f4fda210e1] In the National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005, in Schedule 1, omit paragraphs 14 to 16, 18 and 59 (which amend sections 19, 22, 27 and 31 of the Further and Higher Education Act 1992 and section 39 of the Learning and Skills Act 2000).
+**3.**[^c-52eb64028ec361c2d97473f4fda210e1] In the National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005, in Schedule 1, omit paragraphs 14 to 16, 18 and 59 (which amend sections 19, 22, 27 and 31 of the Further and Higher Education Act 1992 and section 39 of the Learning and Skills Act 2000).
 
 ### Further Education and Training Act 2007
 
-**4.**[^key-8d6c208c99cd8094741275293d2fcba1] In the Further Education and Training Act 2007, omit—
+**4.**[^c-8d6c208c99cd8094741275293d2fcba1] In the Further Education and Training Act 2007, omit—
 
 - (a) section 18(5) (which inserts section 57A into the Further and Higher Education 1992),
 - (b) section 21(3) to (5) (which amend section 19 of that Act), and
@@ -372,56 +372,56 @@ In the Further and Higher Education Act 1992, for Schedule 4 substitute—
 
 ### Apprenticeships, Skills, Children and Learning Act 2009
 
-**5.**[^key-19c752f0c555e15e36aaa9dd21aca460] In the Apprenticeships, Skills, Children and Learning Act 2009, in Schedule 6, omit paragraphs 3(1), (3) and (4) and 5(b) (which amend sections 19(4A) and (4B) and 31(2A) of the Further and Higher Education 1992).
+**5.**[^c-19c752f0c555e15e36aaa9dd21aca460] In the Apprenticeships, Skills, Children and Learning Act 2009, in Schedule 6, omit paragraphs 3(1), (3) and (4) and 5(b) (which amend sections 19(4A) and (4B) and 31(2A) of the Further and Higher Education 1992).
 
 ### Learning and Skills (Wales) Measure 2009
 
-**6.**[^key-3b79ea944988c39593bc3ab8d0daecaa] In the Learning and Skills (Wales) Measure 2009, in the Schedule, in paragraph 3 (which amends section 39 of the Learning and Skills Act 2000), omit “39(1)”.
+**6.**[^c-3b79ea944988c39593bc3ab8d0daecaa] In the Learning and Skills (Wales) Measure 2009, in the Schedule, in paragraph 3 (which amends section 39 of the Learning and Skills Act 2000), omit “39(1)”.
 
 ### Education Act 2011
 
-**7.**[^key-228b4058c30dc229400497c1554df6d8] In the Education Act 2011, in Schedule 12, omit paragraphs 3(3) to (5) and (7)(a) and (9), 5, 6, 7, 16(a), 43 and 45 (which amend sections 19 and 20, insert sections 22 and 22ZA, and substitute section 27 of and Schedule 4 to the Further and Higher Education Act 1992 and amend section 22 of the Further Education and Training Act 2007).
+**7.**[^c-228b4058c30dc229400497c1554df6d8] In the Education Act 2011, in Schedule 12, omit paragraphs 3(3) to (5) and (7)(a) and (9), 5, 6, 7, 16(a), 43 and 45 (which amend sections 19 and 20, insert sections 22 and 22ZA, and substitute section 27 of and Schedule 4 to the Further and Higher Education Act 1992 and amend section 22 of the Further Education and Training Act 2007).
 
 ## Annotations
 
-[^key-465d8c3c76cbcf23098c9b4a361d511e]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2014/1/section/1) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(a)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/a)
+[^c-465d8c3c76cbcf23098c9b4a361d511e]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2014/1/section/1) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(a)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/a)
 
-[^key-cd5762ce520c2c39785c615e4af9761e]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/1/section/2) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)
+[^c-cd5762ce520c2c39785c615e4af9761e]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/1/section/2) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)
 
-[^key-8b77fc3c21f43915da4070d66782fc6c]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/1/section/3) in force for specified purposes at 1.8.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 2](https://www.legislation.gov.uk/wsi/2014/1706/article/2)
+[^c-8b77fc3c21f43915da4070d66782fc6c]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/1/section/3) in force for specified purposes at 1.8.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 2](https://www.legislation.gov.uk/wsi/2014/1706/article/2)
 
-[^key-22dcb1c99fb3cdd384b07c804153064b]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/1/section/3) in force in so far as not already in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(c)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/c)
+[^c-22dcb1c99fb3cdd384b07c804153064b]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/1/section/3) in force in so far as not already in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(c)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/c)
 
-[^key-05a97a0ef89e9d1022884022d1748db2]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2014/1/section/4) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
+[^c-05a97a0ef89e9d1022884022d1748db2]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2014/1/section/4) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(d)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/d)
 
-[^key-f647f1ee2f261e5b9ae6ace4568a1e4d]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2014/1/section/5) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(e)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/e)
+[^c-f647f1ee2f261e5b9ae6ace4568a1e4d]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2014/1/section/5) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(e)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/e)
 
-[^key-83a13771717cd1b4a94aed6e39aa1ef9]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2014/1/section/6) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(f)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/f)
+[^c-83a13771717cd1b4a94aed6e39aa1ef9]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2014/1/section/6) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(f)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/f)
 
-[^key-4b3ba6b1f738937606c247130ec46a29]: Textual amendment: [S. 6(1)](https://www.legislation.gov.uk/anaw/2014/1/section/6/1) omitted (1.4.2026) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments and Transitory Provision) Regulations 2026 (W.S.I. 2026/72)](https://www.legislation.gov.uk/wsi/2026/72), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/72/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2026/72/regulation/8)
+[^c-4b3ba6b1f738937606c247130ec46a29]: Textual amendment: [S. 6(1)](https://www.legislation.gov.uk/anaw/2014/1/section/6/1) omitted (1.4.2026) by virtue of [The Tertiary Education and Research (Wales) Act 2022 (Consequential Amendments and Transitory Provision) Regulations 2026 (W.S.I. 2026/72)](https://www.legislation.gov.uk/wsi/2026/72), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/72/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2026/72/regulation/8)
 
-[^key-68dd49618dc365b1f59474709ad82f25]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/anaw/2014/1/section/6/3) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 72](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/72) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-68dd49618dc365b1f59474709ad82f25]: Textual amendment: [S. 6(3)](https://www.legislation.gov.uk/anaw/2014/1/section/6/3) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 72](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/72) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-f25ccb91de982ad718089c2870d83301]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/anaw/2014/1/section/6/4) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 72](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/72) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
+[^c-f25ccb91de982ad718089c2870d83301]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/anaw/2014/1/section/6/4) omitted (30.4.2021) by virtue of [Curriculum and Assessment (Wales) Act 2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 72](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/72) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 
-[^key-bce3d14c014b1c6fe883fe0db7b94a40]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/1/section/7) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(g)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/g)
+[^c-bce3d14c014b1c6fe883fe0db7b94a40]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/1/section/7) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(g)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/g)
 
-[^key-1bb084fe281bd48b0e41d617642e0f87]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2014/1/section/8) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-1bb084fe281bd48b0e41d617642e0f87]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2014/1/section/8) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-6ef7420a01ba3150f5dd5cf6f118a2d2]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/1/section/10) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(i)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/i)
+[^c-6ef7420a01ba3150f5dd5cf6f118a2d2]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/1/section/10) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(i)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/i)
 
-[^key-48acdae0d4873c1eed5c43e7880755d4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2014/1/schedule/1) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)
+[^c-48acdae0d4873c1eed5c43e7880755d4]: Commencement: [Sch. 1](https://www.legislation.gov.uk/anaw/2014/1/schedule/1) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(b)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/b)
 
-[^key-805c5135ebb9fdecaf446006ce8220ce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/1) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-805c5135ebb9fdecaf446006ce8220ce]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/1) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-57fca29925498fc0ac51a67029db43cd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/2) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-57fca29925498fc0ac51a67029db43cd]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/2) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-52eb64028ec361c2d97473f4fda210e1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/3) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-52eb64028ec361c2d97473f4fda210e1]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/3) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-8d6c208c99cd8094741275293d2fcba1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-8d6c208c99cd8094741275293d2fcba1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/4) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-19c752f0c555e15e36aaa9dd21aca460]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/5) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-19c752f0c555e15e36aaa9dd21aca460]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/5) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-3b79ea944988c39593bc3ab8d0daecaa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/6) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-3b79ea944988c39593bc3ab8d0daecaa]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/6) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
 
-[^key-228b4058c30dc229400497c1554df6d8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/7) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)
+[^c-228b4058c30dc229400497c1554df6d8]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/anaw/2014/1/schedule/2/paragraph/7) in force at 1.9.2014 by [S.I. 2014/1706](https://www.legislation.gov.uk/wsi/2014/1706), [art. 3(h)](https://www.legislation.gov.uk/wsi/2014/1706/article/3/h)

@@ -33,7 +33,7 @@ PLANT HEALTH
 
 SEEDS
 
-The Marketing of Fruit Plant Material Amendment (Scotland) Regulations 2004 (revoked)[^key-4673b2e43d7b4c6e2647e800ccecbe65]
+The Marketing of Fruit Plant Material Amendment (Scotland) Regulations 2004 (revoked)[^c-4673b2e43d7b4c6e2647e800ccecbe65]
 
 Made
 
@@ -47,34 +47,34 @@ Coming into force
 
 25th November 2004
 
-[^key-4673b2e43d7b4c6e2647e800ccecbe65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4673b2e43d7b4c6e2647e800ccecbe65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4673b2e43d7b4c6e2647e800ccecbe65]
+## 1. Citation, commencement and extent[^c-4673b2e43d7b4c6e2647e800ccecbe65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Marketing of Fruit Plant Material Regulations 1995[^key-4673b2e43d7b4c6e2647e800ccecbe65]
+## 2. Amendment to the Marketing of Fruit Plant Material Regulations 1995[^c-4673b2e43d7b4c6e2647e800ccecbe65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4673b2e43d7b4c6e2647e800ccecbe65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4673b2e43d7b4c6e2647e800ccecbe65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-4673b2e43d7b4c6e2647e800ccecbe65]
+## SCHEDULE[^c-4673b2e43d7b4c6e2647e800ccecbe65]
 
 Regulation 2(2)
 
-[^key-4673b2e43d7b4c6e2647e800ccecbe65]
+[^c-4673b2e43d7b4c6e2647e800ccecbe65]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4673b2e43d7b4c6e2647e800ccecbe65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4673b2e43d7b4c6e2647e800ccecbe65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4673b2e43d7b4c6e2647e800ccecbe65]: Textual amendment: Regulations revoked (17.9.2010) by [The Marketing of Fruit Plant Material Regulations 2010 (S.I. 2010/2079)](https://www.legislation.gov.uk/uksi/2010/2079), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2079/regulation/1), [24(e)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/24/e) (with [regs. 3(3)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/4), [4](https://www.legislation.gov.uk/uksi/2010/2079/regulation/4))
+[^c-4673b2e43d7b4c6e2647e800ccecbe65]: Textual amendment: Regulations revoked (17.9.2010) by [The Marketing of Fruit Plant Material Regulations 2010 (S.I. 2010/2079)](https://www.legislation.gov.uk/uksi/2010/2079), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2079/regulation/1), [24(e)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/24/e) (with [regs. 3(3)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/4), [4](https://www.legislation.gov.uk/uksi/2010/2079/regulation/4))

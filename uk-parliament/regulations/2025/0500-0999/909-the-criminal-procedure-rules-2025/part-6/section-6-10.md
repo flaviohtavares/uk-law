@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.10. Forfeiture of unauthorised sound recording[^key-c2a2b3c1f30b863fcaafd76b6267a47d]
+## 6.10. Forfeiture of unauthorised sound recording[^c-c2a2b3c1f30b863fcaafd76b6267a47d]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2a2b3c1f30b863fcaafd76b6267a47d]: Commencement: [Rule 6.10](https://www.legislation.gov.uk/uksi/2025/909/rule/6.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c2a2b3c1f30b863fcaafd76b6267a47d]: Commencement: [Rule 6.10](https://www.legislation.gov.uk/uksi/2025/909/rule/6.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00238]: Footnote: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49).

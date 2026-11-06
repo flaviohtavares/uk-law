@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Compulsory acquisition powers to include taking of temporary possession[^key-291bd3d500a7f4f8c3adaa29fc569bc6]
+## 35. Compulsory acquisition powers to include taking of temporary possession[^c-291bd3d500a7f4f8c3adaa29fc569bc6]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 250(8) of the Highways Act 1980 (compulsory acquisition by creation o
 
 ## Annotations
 
-[^key-291bd3d500a7f4f8c3adaa29fc569bc6]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/34/section/35) in force at 18.2.2026, see [s. 118(1)(t)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/t)
+[^c-291bd3d500a7f4f8c3adaa29fc569bc6]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/34/section/35) in force at 18.2.2026, see [s. 118(1)(t)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/t)

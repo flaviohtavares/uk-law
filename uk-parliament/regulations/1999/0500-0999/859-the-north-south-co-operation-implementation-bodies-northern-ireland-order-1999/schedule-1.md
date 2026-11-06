@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — TEXT OF THE AGREEMENT[^key-b47720961ba55e366d6345dab33e0423]
+## SCHEDULE 1 — TEXT OF THE AGREEMENT[^c-b47720961ba55e366d6345dab33e0423]
 
 *Extent: N.I.*
 
@@ -668,4 +668,4 @@ Article 3
 
 ## Annotations
 
-[^key-b47720961ba55e366d6345dab33e0423]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/859/schedule/1) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-b47720961ba55e366d6345dab33e0423]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1999/859/schedule/1) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)

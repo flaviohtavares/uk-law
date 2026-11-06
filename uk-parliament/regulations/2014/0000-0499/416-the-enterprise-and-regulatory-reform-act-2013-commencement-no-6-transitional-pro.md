@@ -41,11 +41,11 @@ Made
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 100 and 103(3) and (4) of the Enterprise and Regulatory Reform Act 2013[^f00001].
 
-## 1. Citation[^key-1098e972d6ce64a5b8f5c5856edcc223]
+## 1. Citation[^c-1098e972d6ce64a5b8f5c5856edcc223]
 
 This Order may be cited as the Enterprise and Regulatory Reform Act 2013 (Commencement No. 6, Transitional Provisions and Savings) Order 2014.
 
-## 2. Provisions coming into force on 1st April 2014[^key-700c81458960e250e92080a4c840559c]
+## 2. Provisions coming into force on 1st April 2014[^c-700c81458960e250e92080a4c840559c]
 
 (1) The following provisions of the Enterprise and Regulatory Reform Act 2013 (so far as not already brought into force) come into force on 1st April 2014—
 
@@ -62,7 +62,7 @@ This Order may be cited as the Enterprise and Regulatory Reform Act 2013 (Commen
 
 (2) The Schedule contains transitional provisions and savings relating to the provisions brought into force by paragraph (1).
 
-## 3. Provisions coming into force on 6th April 2014[^key-478c4c244530a42ae53ff3903cda4417]
+## 3. Provisions coming into force on 6th April 2014[^c-478c4c244530a42ae53ff3903cda4417]
 
 The following provisions of the Enterprise and Regulatory Reform Act 2013 come into force on 6th April 2014—
 
@@ -84,7 +84,7 @@ Article 2(2)
 
 ### Introductory
 
-#### 1. Interpretation[^key-f74759ad3347acb3e88c4fcedb8e1d42]
+#### 1. Interpretation[^c-f74759ad3347acb3e88c4fcedb8e1d42]
 
 (1) In this Schedule—
 
@@ -105,7 +105,7 @@ Article 2(2)
 
 ### Abolition of OFT and Competition Commission
 
-#### 2. Abolition of OFT and Competition Commission[^key-724e131d97daec6181804ba96fb1ad9c]
+#### 2. Abolition of OFT and Competition Commission[^c-724e131d97daec6181804ba96fb1ad9c]
 
 (1) Anything which, immediately before the commencement date, is in the process of being done by or in relation to the transferor may, so far as it relates to a relevant function, be continued by or in relation to the transferee.
 
@@ -156,7 +156,7 @@ and references in this paragraph to things done include references to things omi
 
 ### Mergers
 
-#### 3. General: existing matters[^key-c49f1ddb54f5c0ef18f390bbf9020ef3]
+#### 3. General: existing matters[^c-c49f1ddb54f5c0ef18f390bbf9020ef3]
 
 (1) The amendments made by Chapter 1 of Part 4 of the Act, section 49 or 50 of the Act and paragraphs 16 to 20, 21(3) to (5), (6)(a) and (8) to (10), 23, 24, 26, 28, 29 and 35 of Schedule 15 to the Act (mergers) apply in relation to—
 
@@ -176,13 +176,13 @@ as they apply in relation to any such reference made, or arising, on or after th
 
 (4) This paragraph is subject to paragraphs 4 to 7 and 16.
 
-#### 4. Investigation powers[^key-eacc82000150bb636bbfe6ef7285bcd5]
+#### 4. Investigation powers[^c-eacc82000150bb636bbfe6ef7285bcd5]
 
 (1) The amendments made by section 29 of the Act (investigation powers) do not apply in relation to any notice given before the commencement date under section 109 of the 2002 Act[^f00014].
 
 (2) The amendments made by paragraphs 16 to 20, 21(3) to (5), (6)(a) and (8) to (10), 23, 24, 26, 28, 29 and 35 of Schedule 15 to the Act (other amendments in relation to investigation powers) do not apply in relation to any notice given before the commencement date under section 31, 34B, 46C or (as the case may be) 99(2) of the 2002 Act[^f00015].
 
-#### 5. Undertakings and orders[^key-d437224fc74a2cefb6a2c18d8786573d]
+#### 5. Undertakings and orders[^c-d437224fc74a2cefb6a2c18d8786573d]
 
 (1) The amendments made by section 30(1) of, and paragraphs 2(5) to (7) and 4(2) of Schedule 7 to, the Act (initial and interim undertakings) do not apply in relation to undertakings accepted under section 71 of, or paragraph 1 of Schedule 7 to, the 2002 Act[^f00016] before the commencement date.
 
@@ -201,7 +201,7 @@ as they apply in relation to any such reference made, or arising, on or after th
 
 but otherwise do apply in relation to undertakings accepted, or orders made, before that date.
 
-#### 6. Time-limits: general[^key-28ac2451ba849a8b4ac963401201791c]
+#### 6. Time-limits: general[^c-28ac2451ba849a8b4ac963401201791c]
 
 (1) The amendments made by paragraphs 2 to 4 and 7 to 12 of Schedule 8 to the Act (time-limits) do not apply in relation to any possible reference under section 22 or 33 of the 2002 Act[^f00018] which is active before the commencement date.
 
@@ -269,7 +269,7 @@ but otherwise do apply in relation to undertakings accepted, or orders made, bef
 - “EU Merger Regulation” means Council Regulation [(EC) No. 139/2004](https://www.legislation.gov.uk/european/regulation/2004/0139)[^f00025] of 20th January 2004 on the control of concentrations between undertakings;
 - “relevant person” means any person carrying on an enterprise to which the possible reference relates and which has or might have ceased, or (as the case may be) would or might cease, to be distinct (within the meaning of section 26 of the 2002 Act).
 
-#### 7. Time-limits for duty to remedy adverse effects[^key-0450cacae7b22e62bedd16add2c369b4]
+#### 7. Time-limits for duty to remedy adverse effects[^c-0450cacae7b22e62bedd16add2c369b4]
 
 The amendments made by paragraph 6 of Schedule 8 to the Act (time-limits for remedying adverse effects) do not apply in relation to a report of the Commission—
 
@@ -278,7 +278,7 @@ The amendments made by paragraph 6 of Schedule 8 to the Act (time-limits for rem
 
 ### Markets
 
-#### 8. General: existing matters[^key-8441388f1d0eef9ab3cd5f491f66bf5d]
+#### 8. General: existing matters[^c-8441388f1d0eef9ab3cd5f491f66bf5d]
 
 (1) The amendments made by Chapter 2 of Part 4 of the Act or section 49 or 50 of the Act (markets) apply in relation to—
 
@@ -293,7 +293,7 @@ as they apply in relation to any such reference made, or arising, on or after th
 
 (4) This paragraph is subject to paragraphs 9 to 12 and 16.
 
-#### 9. Public interest interventions[^key-bf6b33105c45688d2eab10fd96e6c8b3]
+#### 9. Public interest interventions[^c-bf6b33105c45688d2eab10fd96e6c8b3]
 
 (1) The amendments made by section 35 of, and Schedule 10 to, the Act (public interest interventions in markets investigations) do not apply in relation to—
 
@@ -317,7 +317,7 @@ as they apply in relation to any such reference made, or arising, on or after th
 - (h) section 140A(3)(b) required the CMA not to publish the report but to give it to the Secretary of State, and
 - (i) the reference in section 140A(10) to the market study report were a reference to the report.
 
-#### 10. Investigation powers[^key-4e6db9c8f855f8e03665666a81322259]
+#### 10. Investigation powers[^c-4e6db9c8f855f8e03665666a81322259]
 
 (1) The amendments made by section 36 of, and Schedule 11 to, the Act (investigation powers) do not apply in relation to any notice given before the commencement date under section 174 of the 2002 Act[^f00029] or section 109 of that Act[^f00030] as applied by section 176 of that Act[^f00031].
 
@@ -329,13 +329,13 @@ as they apply in relation to any such reference made, or arising, on or after th
 - (b) section 174C(1) has effect as if for paragraphs (a) and (b) there were substituted “the CMA publishes the report on the market study concerned or (as the case may be) gives it to the Secretary of State under section 140A(3)(b)”, and
 - (c) section 174C(2) has effect as if for paragraphs (a) and (b) there were substituted “the publication of the report or (as the case may be) the giving of it to the Secretary of State”.
 
-#### 11. Time-limits for market studies and market references[^key-e29ab3b4b0be8da0de2cb793944165b5]
+#### 11. Time-limits for market studies and market references[^c-e29ab3b4b0be8da0de2cb793944165b5]
 
 (1) The amendments made by paragraphs 1, 2, and 10 of Schedule 12 to the Act (market studies and time-limits) do not apply in relation to any market study publicly launched by the OFT before the commencement date (or any reference made under section 131 or 132 of that Act before that date).
 
 (2) The amendments made by paragraphs 3 and 6 of Schedule 12 to the Act (time-limits for market investigations and reports) do not apply in relation to any reference made under section 131 or 132 of the 2002 Act before the commencement date.
 
-#### 12. Time-limits for duty to remedy adverse effects[^key-6caf706b4896dd24d562f3402ca90db7]
+#### 12. Time-limits for duty to remedy adverse effects[^c-6caf706b4896dd24d562f3402ca90db7]
 
 The amendments made by paragraphs 4 and 5 of Schedule 12 to the Act (time-limits for remedying adverse effects) do not apply in relation to a report of the Commission—
 
@@ -344,17 +344,17 @@ The amendments made by paragraphs 4 and 5 of Schedule 12 to the Act (time-limits
 
 ### Anti-trust
 
-#### 13. General: existing anti-trust investigations[^key-401e7bb59a7aff3d06e12b3f7d0df469]
+#### 13. General: existing anti-trust investigations[^c-401e7bb59a7aff3d06e12b3f7d0df469]
 
 Subject to paragraph 14, the amendments made by Chapter 3 of Part 4 of the Act (anti-trust) apply in relation to any investigation begun before, and continuing on, the commencement date as they apply in relation to any investigation begun on or after that date.
 
-#### 14. Penalties[^key-96f9d29cd0d0443dd20ef346f7b86a10]
+#### 14. Penalties[^c-96f9d29cd0d0443dd20ef346f7b86a10]
 
 The amendments made by section 40 of the Act (civil enforcement of investigation powers) do not apply in relation to any requirement imposed on a person under the Competition Act 1998[^f00034] before the commencement date.
 
 ### Price control references
 
-#### 15. Recovery of CMA’s costs in respect of price control references[^key-07607a08671776ea02c1f2b749b4cb65]
+#### 15. Recovery of CMA’s costs in respect of price control references[^c-07607a08671776ea02c1f2b749b4cb65]
 
 (1) The amendments made by section 54 of, and paragraphs 42 to 45 of Schedule 15 to, the Act (recovery of CMA’s costs in respect of price control references) do not apply in relation to a determination on a price control reference if the notice of the appeal which gave rise to the price control reference was received by the Competition Appeal Tribunal before the commencement date.
 
@@ -362,7 +362,7 @@ The amendments made by section 40 of the Act (civil enforcement of investigation
 
 ### General
 
-#### 16. Enactments applied by other enactments[^key-c5ccb47de57f52d0a9b998a3927a9744]
+#### 16. Enactments applied by other enactments[^c-c5ccb47de57f52d0a9b998a3927a9744]
 
 (1) Subject as follows, this Schedule applies in relation to enactments as applied by other enactments as it applies in relation to the enactments themselves.
 
@@ -384,9 +384,9 @@ The amendments made by section 40 of the Act (civil enforcement of investigation
 - (b) the Gas and Electricity Markets Authority,
 - (c) the Water Services Regulation Authority,
 - (d) the Office of Rail Regulation,
-- (e) the Northern Ireland Authority for Utility Regulation, , or[^key-b72f13d4e0ce65f2a66e80ae9c8749d1]
-- (f) the Civil Aviation Authority, [^key-6d7dc6bdae37ef0fc830406b5f379693]...
-- (g)[^key-ca37851dd91c1bd1d98cf9d38c173997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Northern Ireland Authority for Utility Regulation, , or[^c-b72f13d4e0ce65f2a66e80ae9c8749d1]
+- (f) the Civil Aviation Authority, [^c-6d7dc6bdae37ef0fc830406b5f379693]...
+- (g)[^c-ca37851dd91c1bd1d98cf9d38c173997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) This paragraph is subject to any provision made otherwise than by this Schedule and dealing specifically with the enactments as applied.
 
@@ -472,23 +472,23 @@ The following provisions of the Act are brought into force by commencement order
 
 [^f00001]: Footnote: [2013 c. 24](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-1098e972d6ce64a5b8f5c5856edcc223]: Commencement: Art. 1 in force at made date
+[^c-1098e972d6ce64a5b8f5c5856edcc223]: Commencement: Art. 1 in force at made date
 
-[^key-700c81458960e250e92080a4c840559c]: Commencement: Art. 2 in force at made date
+[^c-700c81458960e250e92080a4c840559c]: Commencement: Art. 2 in force at made date
 
-[^key-478c4c244530a42ae53ff3903cda4417]: Commencement: Art. 3 in force at made date
+[^c-478c4c244530a42ae53ff3903cda4417]: Commencement: Art. 3 in force at made date
 
 [^f00002]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
 [^f00003]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-f74759ad3347acb3e88c4fcedb8e1d42]: Commencement: Sch. para. 1 in force at made date
+[^c-f74759ad3347acb3e88c4fcedb8e1d42]: Commencement: Sch. para. 1 in force at made date
 
 [^f00004]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00005]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-724e131d97daec6181804ba96fb1ad9c]: Commencement: Sch. para. 2 in force at made date
+[^c-724e131d97daec6181804ba96fb1ad9c]: Commencement: Sch. para. 2 in force at made date
 
 [^f00006]: Footnote: Section 22 was amended by paragraph 1 of Schedule 19 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), paragraph 67 of Schedule 5 and paragraph 2 of Schedule 8 to the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and paragraph 2 of the Schedule to the EC Merger Control (Consequential Amendments) Regulations 2004 ([S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079)). Section 33 was amended by paragraph 1 of Schedule 19 to the Communications Act 2003, paragraph 72 of Schedule 5 and paragraph 3 of Schedule 8 to the Enterprise and Regulatory Reform Act 2013 and paragraph 2 of the Schedule to the EC Merger Control (Consequential Amendments) Regulations 2004. Section 45 was amended by paragraph 9 of Schedule 16 to the Communications Act 2003 and paragraph 85 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013. Section 62 was amended by paragraph 14 of Schedule 16 and paragraph 1 of Schedule 19 to the Communications Act 2003 and paragraph 104 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013. Section 131 was amended by section 33 of, and paragraph 2 of Schedule 10 and paragraph 163 of Schedule 5 to, the Enterprise and Regulatory Reform Act 2013. Section 132 was amended by section 34 of, and paragraph 164 of Schedule 5, paragraph 3 of Schedule 10 and paragraph 10 of Schedule 12 to, the Enterprise and Regulatory Reform Act 2013.
 
@@ -506,21 +506,21 @@ The following provisions of the Act are brought into force by commencement order
 
 [^f00013]: Footnote: Section 4 was repealed by paragraph 229 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-c49f1ddb54f5c0ef18f390bbf9020ef3]: Commencement: Sch. para. 3 in force at made date
+[^c-c49f1ddb54f5c0ef18f390bbf9020ef3]: Commencement: Sch. para. 3 in force at made date
 
-[^key-eacc82000150bb636bbfe6ef7285bcd5]: Commencement: Sch. para. 4 in force at made date
+[^c-eacc82000150bb636bbfe6ef7285bcd5]: Commencement: Sch. para. 4 in force at made date
 
 [^f00014]: Footnote: Section 109 was amended by section 29 of and paragraph 143 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013 (c.24).
 
 [^f00015]: Footnote: Section 31 was repealed by paragraph 17 of Schedule 15 to the Enterprise and Regulatory Reform Act 2013. Sections 34B and 46C were inserted by paragraph 2 of the Schedule to the EC Merger Control (Consequential Amendments) Regulations 2004 ([S.I. 2004/1079](https://www.legislation.gov.uk/uksi/2004/1079)) and repealed by paragraph 20 and 24 respectively of Schedule 15 to the Enterprise and Regulatory Reform Act 2013. Section 99 was amended by paragraph 2 of the Schedule to the EC Merger Control (Consequential Amendments) Regulations 2004 and paragraph 133 of Schedule 5, paragraph 10 of Schedule 8 and paragraph 35 of Schedule 15 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-d437224fc74a2cefb6a2c18d8786573d]: Commencement: Sch. para. 5 in force at made date
+[^c-d437224fc74a2cefb6a2c18d8786573d]: Commencement: Sch. para. 5 in force at made date
 
 [^f00016]: Footnote: Section 71 and paragraph 1 of Schedule 7 were repealed by section 30 of and paragraph 4 of Schedule 7 to the Enterprise and Regulatory Reform Act 2013 respectively.
 
 [^f00017]: Footnote: Section 80 was amended by paragraph 120 of Schedule 5 and paragraphs 2 and 3 of Schedule 7 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-28ac2451ba849a8b4ac963401201791c]: Commencement: Sch. para. 6 in force at made date
+[^c-28ac2451ba849a8b4ac963401201791c]: Commencement: Sch. para. 6 in force at made date
 
 [^f00018]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40). Section 22 was amended by paragraph 1 of Schedule 19 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), paragraph 67 of Schedule 5 and paragraph 2 of Schedule 8 to the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and paragraph 2 of the Schedule to the EC Merger Control (Consequential Amendments) Regulations 2004 ([S.I.2004/1079](https://www.legislation.gov.uk/uksi/2004/1079)). Section 33 was amended by paragraph 1 of Schedule 19 to the Communications Act 2003, paragraph 72 of Schedule 5 and paragraph 3 of Schedule 8 to the Enterprise and Regulatory Reform Act 2013 and paragraph 1 of the Schedule to the EC Merger Control (Consequential Amendments) Regulations 2004.
 
@@ -538,19 +538,19 @@ The following provisions of the Act are brought into force by commencement order
 
 [^f00025]: Footnote: OJ No L24, 29.1.2004, p1.
 
-[^key-0450cacae7b22e62bedd16add2c369b4]: Commencement: Sch. para. 7 in force at made date
+[^c-0450cacae7b22e62bedd16add2c369b4]: Commencement: Sch. para. 7 in force at made date
 
 [^f00026]: Footnote: Section 41 was amended by paragraph 81 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-8441388f1d0eef9ab3cd5f491f66bf5d]: Commencement: Sch. para. 8 in force at made date
+[^c-8441388f1d0eef9ab3cd5f491f66bf5d]: Commencement: Sch. para. 8 in force at made date
 
 [^f00027]: Footnote: Section 131 was amended by section 33 of, and paragraph 2 of Schedule 10 and paragraph 163 of Schedule 5 to, the Enterprise and Regulatory Reform Act 2013. Section 132 was amended by section 34 of, and paragraph 164 of Schedule 5, paragraph 3 of Schedule 10 and paragraph 10 of Schedule 12 to, the Enterprise and Regulatory Reform Act 2013.
 
-[^key-bf6b33105c45688d2eab10fd96e6c8b3]: Commencement: Sch. para. 9 in force at made date
+[^c-bf6b33105c45688d2eab10fd96e6c8b3]: Commencement: Sch. para. 9 in force at made date
 
 [^f00028]: Footnote: Section 155 was amended by paragraph 188 of Schedule 5 and paragraph 23 of Schedule 10 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-4e6db9c8f855f8e03665666a81322259]: Commencement: Sch. para. 10 in force at made date
+[^c-4e6db9c8f855f8e03665666a81322259]: Commencement: Sch. para. 10 in force at made date
 
 [^f00029]: Footnote: Section 174 was amended by section 36 and paragraph 204 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013.
 
@@ -560,23 +560,23 @@ The following provisions of the Act are brought into force by commencement order
 
 [^f00032]: Footnote: Section 116 was amended by paragraph 150 of Schedule 5 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-e29ab3b4b0be8da0de2cb793944165b5]: Commencement: Sch. para. 11 in force at made date
+[^c-e29ab3b4b0be8da0de2cb793944165b5]: Commencement: Sch. para. 11 in force at made date
 
-[^key-6caf706b4896dd24d562f3402ca90db7]: Commencement: Sch. para. 12 in force at made date
+[^c-6caf706b4896dd24d562f3402ca90db7]: Commencement: Sch. para. 12 in force at made date
 
 [^f00033]: Footnote: Section 138 was amended by paragraph 171 of Schedule 5, paragraph 4 of Schedule 9 and paragraph 4 of Schedule 12 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-401e7bb59a7aff3d06e12b3f7d0df469]: Commencement: Sch. para. 13 in force at made date
+[^c-401e7bb59a7aff3d06e12b3f7d0df469]: Commencement: Sch. para. 13 in force at made date
 
-[^key-96f9d29cd0d0443dd20ef346f7b86a10]: Commencement: Sch. para. 14 in force at made date
+[^c-96f9d29cd0d0443dd20ef346f7b86a10]: Commencement: Sch. para. 14 in force at made date
 
 [^f00034]: Footnote: [1998 c.41](https://www.legislation.gov.uk/ukpga/1998/41).
 
-[^key-07607a08671776ea02c1f2b749b4cb65]: Commencement: Sch. para. 15 in force at made date
+[^c-07607a08671776ea02c1f2b749b4cb65]: Commencement: Sch. para. 15 in force at made date
 
 [^f00035]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21). Section 193 was amended by paragraph 98 of Schedule 6 and paragraph 44 of Schedule 15 to the Enterprise and Regulatory Reform Act 2013.
 
-[^key-c5ccb47de57f52d0a9b998a3927a9744]: Commencement: Sch. para. 16 in force at made date
+[^c-c5ccb47de57f52d0a9b998a3927a9744]: Commencement: Sch. para. 16 in force at made date
 
 [^f00036]: Footnote: [S.I. 2003/1592](https://www.legislation.gov.uk/uksi/2003/1592), amended by [S.I. 2013/610](https://www.legislation.gov.uk/uksi/2013/610), [2003/3180](https://www.legislation.gov.uk/uksi/2003/3180).
 
@@ -584,10 +584,10 @@ The following provisions of the Act are brought into force by commencement order
 
 [^f00038]: Footnote: Section 32 was amended by section 70 of the Enterprise Act 2002.
 
-[^key-b72f13d4e0ce65f2a66e80ae9c8749d1]: Textual amendment: Word in [Sch. para. 16(8)(e)](https://www.legislation.gov.uk/uksi/2014/416/schedule/paragraph/16/8/e) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [114(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/114/2/a)
+[^c-b72f13d4e0ce65f2a66e80ae9c8749d1]: Textual amendment: Word in [Sch. para. 16(8)(e)](https://www.legislation.gov.uk/uksi/2014/416/schedule/paragraph/16/8/e) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [114(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/114/2/a)
 
-[^key-6d7dc6bdae37ef0fc830406b5f379693]: Textual amendment: Word in [Sch. para. 16(8)](https://www.legislation.gov.uk/uksi/2014/416/schedule/paragraph/16/8) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [114(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/114/2/b)
+[^c-6d7dc6bdae37ef0fc830406b5f379693]: Textual amendment: Word in [Sch. para. 16(8)](https://www.legislation.gov.uk/uksi/2014/416/schedule/paragraph/16/8) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [114(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/114/2/b)
 
-[^key-ca37851dd91c1bd1d98cf9d38c173997]: Textual amendment: [Sch. para. 16(8)(g)](https://www.legislation.gov.uk/uksi/2014/416/schedule/paragraph/16/8/g) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [114(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/114/2/c)
+[^c-ca37851dd91c1bd1d98cf9d38c173997]: Textual amendment: [Sch. para. 16(8)(g)](https://www.legislation.gov.uk/uksi/2014/416/schedule/paragraph/16/8/g) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [114(2)(c)](https://www.legislation.gov.uk/uksi/2022/634/regulation/114/2/c)
 
 [^f00039]: Footnote: [S.I. 2013/2271 (C. 94)](https://www.legislation.gov.uk/uksi/2013/2271), article 2(a), amends article 3(b) of [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455) which partially commences section 72(4) of, and paragraph 2 of Schedule 20 to, the Enterprise and Regulatory Reform Act 2013.

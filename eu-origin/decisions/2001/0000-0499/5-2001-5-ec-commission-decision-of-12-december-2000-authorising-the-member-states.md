@@ -31,10 +31,10 @@ summary: ''
 
 of 12 December 2000 authorising the Member States temporarily to provide for derogations from certain provisions of Council Directive 2000/29/EC in respect of plants of Vitis L., other than fruits, originating in Switzerland (notified under document number C(2000) 3743) (revoked)
 
-[^key-8a252d2336cfdc378d9787e9b62e59bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8a252d2336cfdc378d9787e9b62e59bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-8a252d2336cfdc378d9787e9b62e59bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-8a252d2336cfdc378d9787e9b62e59bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8a252d2336cfdc378d9787e9b62e59bd]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-8a252d2336cfdc378d9787e9b62e59bd]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

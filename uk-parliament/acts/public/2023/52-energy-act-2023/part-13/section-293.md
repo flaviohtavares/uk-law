@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Assessment of environmental effects etc[^key-62673b6e9c40559ccd99314b28cc2a79]
+## 293. Assessment of environmental effects etc[^c-62673b6e9c40559ccd99314b28cc2a79]
 
 *Extent: E+W+S+N.I.*
 
@@ -114,4 +114,4 @@ but may (subject to paragraphs (a) and (b)) modify such a function.
 
 ## Annotations
 
-[^key-62673b6e9c40559ccd99314b28cc2a79]: Commencement: [S. 293](https://www.legislation.gov.uk/ukpga/2023/52/section/293) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)
+[^c-62673b6e9c40559ccd99314b28cc2a79]: Commencement: [S. 293](https://www.legislation.gov.uk/ukpga/2023/52/section/293) in force at 26.12.2023, see [s. 334(3)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/j)

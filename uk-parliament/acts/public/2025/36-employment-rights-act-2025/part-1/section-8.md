@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Exclusivity terms in zero hours arrangements[^key-515c55e2be846e20282641bae8ffbf79][^key-b8d7a05348b5562eb006aa449a749376]
+## 8. Exclusivity terms in zero hours arrangements[^c-515c55e2be846e20282641bae8ffbf79][^c-b8d7a05348b5562eb006aa449a749376]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-515c55e2be846e20282641bae8ffbf79]: Commencement: S. 8 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-515c55e2be846e20282641bae8ffbf79]: Commencement: S. 8 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b8d7a05348b5562eb006aa449a749376]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/36/section/8) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/5)
+[^c-b8d7a05348b5562eb006aa449a749376]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2025/36/section/8) in force at 6.1.2026 by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(5)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/5)

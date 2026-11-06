@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. The immunity requests panel[^key-d8c2ca1942599c131b92e697623233d3]
+## 22. The immunity requests panel[^c-d8c2ca1942599c131b92e697623233d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c2ca1942599c131b92e697623233d3]: Commencement: S. 22 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-d8c2ca1942599c131b92e697623233d3]: Commencement: S. 22 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 109. Churches etc. affected by private and local Acts[^key-213cafbf43501a278b6e925dd3d5b769]
+## 109. Churches etc. affected by private and local Acts[^c-213cafbf43501a278b6e925dd3d5b769]
 
 *Extent: E*
 
-(1) Subject to subsection (3)[^key-7025aaf62ed6adae7d08837efce1318a], the provisions of this Measure, and in particular those relating to churches closed for regular public worship, shall apply to—
+(1) Subject to subsection (3)[^c-7025aaf62ed6adae7d08837efce1318a], the provisions of this Measure, and in particular those relating to churches closed for regular public worship, shall apply to—
 
 - (a) churches affected by any private or local Act passed before 1st April 1969;
 - (b) land comprising the sites of any such churches or annexed or belonging to any such churches; and
@@ -42,6 +42,6 @@ In this subsection “**place of worship**” has the same meaning as in section
 
 ## Annotations
 
-[^key-213cafbf43501a278b6e925dd3d5b769]: Commencement: S. 109 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-213cafbf43501a278b6e925dd3d5b769]: Commencement: S. 109 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-7025aaf62ed6adae7d08837efce1318a]: Textual amendment: Words in s. 109(1) substituted (16.3.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 15(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/15/2), [16(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/2)
+[^c-7025aaf62ed6adae7d08837efce1318a]: Textual amendment: Words in s. 109(1) substituted (16.3.2020) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 15(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/15/2), [16(2)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/2)

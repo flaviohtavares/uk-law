@@ -38,29 +38,29 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Public authorities
 
-### 1. Councillors and members of the Greater London Authority[^key-4594da98b656c773b0c9b996af201709][^c2034875]
+### 1. Councillors and members of the Greater London Authority[^c-4594da98b656c773b0c9b996af201709][^c2034875]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Discrimination by public authorities[^key-4594da98b656c773b0c9b996af201709][^c2034930]
+### 2. Discrimination by public authorities[^c-4594da98b656c773b0c9b996af201709][^c2034930]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Duties of public authorities[^key-470452eb6f327db7dd412df8cb790677][^c2034931]
+### 3. Duties of public authorities[^c-470452eb6f327db7dd412df8cb790677][^c2034931]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Police[^key-4594da98b656c773b0c9b996af201709]
+### 4. Police[^c-4594da98b656c773b0c9b996af201709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Transport
 
-### 5. Application of sections 19 to 21 of the 1995 Act to transport vehicles[^key-4594da98b656c773b0c9b996af201709]
+### 5. Application of sections 19 to 21 of the 1995 Act to transport vehicles[^c-4594da98b656c773b0c9b996af201709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Rail vehicles: application of accessibility regulations[^key-4594da98b656c773b0c9b996af201709][^c2034919]
+### 6. Rail vehicles: application of accessibility regulations[^c-4594da98b656c773b0c9b996af201709][^c2034919]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,51 +139,51 @@ In the Chronically Sick and Disabled Persons Act 1970 (c. 44), after section 21 
 
 ## Other matters
 
-### 10. Discriminatory advertisements[^key-4594da98b656c773b0c9b996af201709]
+### 10. Discriminatory advertisements[^c-4594da98b656c773b0c9b996af201709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Group insurance[^key-4594da98b656c773b0c9b996af201709]
+### 11. Group insurance[^c-4594da98b656c773b0c9b996af201709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Private clubs etc.[^key-4594da98b656c773b0c9b996af201709][^c2035004]
+### 12. Private clubs etc.[^c-4594da98b656c773b0c9b996af201709][^c2035004]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Discrimination in relation to letting of premises[^key-4594da98b656c773b0c9b996af201709][^c2035019]
+### 13. Discrimination in relation to letting of premises[^c-4594da98b656c773b0c9b996af201709][^c2035019]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Power to modify or end small dwellings exemptions[^key-4594da98b656c773b0c9b996af201709]
+### 14. Power to modify or end small dwellings exemptions[^c-4594da98b656c773b0c9b996af201709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. General qualifications bodies[^key-4594da98b656c773b0c9b996af201709][^c2035022]
+### 15. General qualifications bodies[^c-4594da98b656c773b0c9b996af201709][^c2035022]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Improvements to let dwelling houses[^key-4594da98b656c773b0c9b996af201709][^c2034934]
+### 16. Improvements to let dwelling houses[^c-4594da98b656c773b0c9b996af201709][^c2034934]
 
 *Extent: E+W*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Generalisation of section 56 of the 1995 Act in relation to Part 3 claims[^key-4594da98b656c773b0c9b996af201709][^c2035020]
+### 17. Generalisation of section 56 of the 1995 Act in relation to Part 3 claims[^c-4594da98b656c773b0c9b996af201709][^c2035020]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Meaning of “disability”[^key-4594da98b656c773b0c9b996af201709][^c2035021]
+### 18. Meaning of “disability”[^c-4594da98b656c773b0c9b996af201709][^c2035021]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Supplementary
 
-### 19. Minor and consequential amendments and repeals and revocation[^key-4594da98b656c773b0c9b996af201709][^c2035094]
+### 19. Minor and consequential amendments and repeals and revocation[^c-4594da98b656c773b0c9b996af201709][^c2035094]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Short title, interpretation, commencement and extent[^key-4594da98b656c773b0c9b996af201709]
+### 20. Short title, interpretation, commencement and extent[^c-4594da98b656c773b0c9b996af201709]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -195,65 +195,65 @@ Section 19(1)
 
 ### Part 1 — Amendments of the 1995 Act
 
-**1.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4594da98b656c773b0c9b996af201709][^c2034940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4594da98b656c773b0c9b996af201709][^c2034940] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4594da98b656c773b0c9b996af201709][^c2034943] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4594da98b656c773b0c9b996af201709][^c2034943] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4594da98b656c773b0c9b996af201709][^c2034920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4594da98b656c773b0c9b996af201709][^c2034920] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4594da98b656c773b0c9b996af201709][^c2034921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4594da98b656c773b0c9b996af201709][^c2034921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **10.** [^c2035222]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4594da98b656c773b0c9b996af201709][^c2034944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4594da98b656c773b0c9b996af201709][^c2034944] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4594da98b656c773b0c9b996af201709][^c2034945] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4594da98b656c773b0c9b996af201709][^c2034945] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4594da98b656c773b0c9b996af201709][^c2034949] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4594da98b656c773b0c9b996af201709][^c2034949] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-4594da98b656c773b0c9b996af201709][^c2034951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-4594da98b656c773b0c9b996af201709][^c2034951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **25.** [^c2035223]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-4594da98b656c773b0c9b996af201709][^key-814eb0fe28939e27b4f7dd85b0f5d6b9][^key-f3db5cfa50a1ecd90694556658b76891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-4594da98b656c773b0c9b996af201709][^c-814eb0fe28939e27b4f7dd85b0f5d6b9][^c-f3db5cfa50a1ecd90694556658b76891] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28.**[^c2034952] [^c2035224]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-4594da98b656c773b0c9b996af201709][^c2034923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-4594da98b656c773b0c9b996af201709][^c2034923] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.**[^c2034924] (1) Section 64 (application to Crown etc) is amended as follows.
 
@@ -270,7 +270,7 @@ Section 19(1)
 
 (4) In subsection (2A) (subsections (1) and (2) have effect subject to section 64A), for “(1) and” there is substituted “ ;(A1) to ”.
 
-**32.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **33.**[^c2034954] (1) Section 67 (regulations and orders) is amended as follows.
 
@@ -327,29 +327,29 @@ Section 19(1)
 
 **34.**[^c2034961] (1) Section 68 (interpretation) is amended as follows.
 
-(2)[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) [^c2035229]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In subsection (1), in the definition of “**regulations**”, after “Secretary of State” there is inserted “ ;, except in sections 2(3), 28D, 28L(6), 28Q(7), 33, 49D to 49F and 67 (provisions where the meaning of “regulations is apparent)” .
 
-(7)[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-4594da98b656c773b0c9b996af201709] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-4594da98b656c773b0c9b996af201709][^c2034925] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-4594da98b656c773b0c9b996af201709][^c2034925] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-4594da98b656c773b0c9b996af201709][^c2034975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-4594da98b656c773b0c9b996af201709][^c2034975] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-4594da98b656c773b0c9b996af201709][^c2034976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-4594da98b656c773b0c9b996af201709][^c2034976] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-4594da98b656c773b0c9b996af201709][^c2034926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-4594da98b656c773b0c9b996af201709][^c2034926] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Amendments related to disabled persons' badges
 
@@ -475,7 +475,7 @@ Section 19(1)
 
 **50.**[^c2034927] [^c2035225]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Repeals and revocation[^c2035026][^key-2b2faadde74307d17625078c9fe4b962][^key-8f903c8c562feb6fd161d1301c3955bf]
+## SCHEDULE 2 — Repeals and revocation[^c2035026][^c-2b2faadde74307d17625078c9fe4b962][^c-8f903c8c562feb6fd161d1301c3955bf]
 
 Section 19(2)
 
@@ -490,13 +490,13 @@ Section 19(2)
 
 ## Annotations
 
-[^key-4594da98b656c773b0c9b996af201709]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2005/13) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
+[^c-4594da98b656c773b0c9b996af201709]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2005/13) repealed (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2)
 
 [^c2034875]: Commencement: S. 1 wholly in force at 4.12.2006; s. 1 not in force at Royal Assent see s. 20(3); s. 1 in force for certain purposes at 5.12.2005 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/2774/article/3/a); s. 1 fully in force at 4.12.2006 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2774/article/4/a)
 
 [^c2034930]: Commencement: S. 2 wholly in force at 4.12.2006; s. 2 not in force at Royal Assent see s. 20(3); s. 2 in force for certain purposes at 30.6.2005 by [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/1676/article/2/2/a); s. 2 fully in force at 4.12.2006 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2774/article/4/a)
 
-[^key-470452eb6f327db7dd412df8cb790677]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2005/13/section/3) repealed (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Schs. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
+[^c-470452eb6f327db7dd412df8cb790677]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2005/13/section/3) repealed (4.4.2011) by [The Equality Act 2010 (Public Authorities and Consequential and Supplementary Amendments) Order 2011 (S.I. 2011/1060)](https://www.legislation.gov.uk/uksi/2011/1060), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1060/article/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2011/1060/article/3/3/a), [Schs. 3](https://www.legislation.gov.uk/uksi/2011/1060/schedule/3)
 
 [^c2034931]: Commencement: S. 3 wholly in force at 4.12.2006; s. 3 not in force at Royal Assent see s. 20(3); s. 3 in force for certain purposes at 30.6.2005 by [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/1676/article/2/2/b); s. 3 in force for certain purposes at 5.12.2005 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/2774/article/3/b); s. 3 fully in force at 4.12.2006 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 4(a)](https://www.legislation.gov.uk/uksi/2005/2774/article/4/a)
 
@@ -538,9 +538,9 @@ Section 19(2)
 
 [^c2035223]: Textual amendment: Sch. 1 para. 25 repealed (1.10.2007) by [Equality Act 2006 (c. 3)](https://www.legislation.gov.uk/ukpga/2006/3), [ss. 91](https://www.legislation.gov.uk/ukpga/2006/3/section/91), [93](https://www.legislation.gov.uk/ukpga/2006/3/section/93), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/3/schedule/4) (with [s. 92](https://www.legislation.gov.uk/ukpga/2006/3/section/92)); [S.I. 2007/2603](https://www.legislation.gov.uk/uksi/2007/2603), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2007/2603/article/2/c/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2603/article/3))
 
-[^key-814eb0fe28939e27b4f7dd85b0f5d6b9]: Commencement: Sch. 1 para. 27 in force at 22.2.2010 for specified purposes by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/341/article/2/1/b)
+[^c-814eb0fe28939e27b4f7dd85b0f5d6b9]: Commencement: Sch. 1 para. 27 in force at 22.2.2010 for specified purposes by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2010/341/article/2/1/b)
 
-[^key-f3db5cfa50a1ecd90694556658b76891]: Commencement: Sch. 1 para. 27 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/341/article/2/2/b)
+[^c-f3db5cfa50a1ecd90694556658b76891]: Commencement: Sch. 1 para. 27 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/341/article/2/2/b)
 
 [^c2034952]: Commencement: Sch. 1 para. 28 wholly in force at 4.12.2006; Sch. 1 para. 28 not in force at Royal Assent see s. 20(3); Sch. 1 para. 28(1)-(5)(7) in force at 30.6.2005 by [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2005/1676/article/2/1/c); Sch. 1 para. 28 fully in force at 4.12.2006 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 4(f)](https://www.legislation.gov.uk/uksi/2005/2774/article/4/f)
 
@@ -586,6 +586,6 @@ Section 19(2)
 
 [^c2035026]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) partly in force; [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) not in force at Royal Assent see [s. 20(3)](https://www.legislation.gov.uk/ukpga/2005/13/section/20/3); [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force for certain purposes at 30.6.2005 by [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/1676/article/2/1/d); [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force for E. for certain purposes at 30.6.2005 by [S.I. 2005/1676](https://www.legislation.gov.uk/uksi/2005/1676), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/1676/article/3/c); [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force for certain purposes at 5.12.2005 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), [art. 3(k)](https://www.legislation.gov.uk/uksi/2005/2774/article/3/k); [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force for certain purposes at 4.12. 2006 by [S.I. 2005/2774](https://www.legislation.gov.uk/uksi/2005/2774), {art. 4 (g)}; [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force for W. for certain purposes at 30.3.2008 by [S.I. 2007/3285](https://www.legislation.gov.uk/uksi/2007/3285), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3285/article/2/c)
 
-[^key-2b2faadde74307d17625078c9fe4b962]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force at 22.2.2010 for specified purposes by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2010/341/article/2/1/c)
+[^c-2b2faadde74307d17625078c9fe4b962]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force at 22.2.2010 for specified purposes by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2010/341/article/2/1/c)
 
-[^key-8f903c8c562feb6fd161d1301c3955bf]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force at 6.4.2010 for specified purposes by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2010/341/article/2/2/c)
+[^c-8f903c8c562feb6fd161d1301c3955bf]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/13/schedule/2) in force at 6.4.2010 for specified purposes by [S.I. 2010/341](https://www.legislation.gov.uk/uksi/2010/341), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2010/341/article/2/2/c)

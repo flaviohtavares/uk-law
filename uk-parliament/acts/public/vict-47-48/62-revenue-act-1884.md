@@ -69,7 +69,7 @@ Provided that where a policy of life assurance has been effected with any insura
 
 #### 14. Amendment of 29 & 30 Vict. c. 39. as to what constitutes vouchers in the case of certain payments out of money granted for army and navy services.[^c573026]
 
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573027] Where payment out of money granted by Parliament for army services or navy services is made in respect of pay, wages, pensions, gratuities, or allowances to persons who are serving or have served in any of Her Majesty’s naval or military forces, or are, or have been employed in any of Her Majesty’s naval or military establishments, such payments may be made and witnessed in manner for the time being prescribed by regulations approved by the Treasury[^key-014c06d75d4b752c3d6fbe70108f3e02]....
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c573027] Where payment out of money granted by Parliament for army services or navy services is made in respect of pay, wages, pensions, gratuities, or allowances to persons who are serving or have served in any of Her Majesty’s naval or military forces, or are, or have been employed in any of Her Majesty’s naval or military establishments, such payments may be made and witnessed in manner for the time being prescribed by regulations approved by the Treasury[^c-014c06d75d4b752c3d6fbe70108f3e02]....
 
 . . . [^c573029]
 
@@ -103,6 +103,6 @@ This section shall be construed as part of the Exchequer and Audit Departments A
 
 [^c573027]: Textual amendment: Recital omitted under authority of [Statute Law Revision Act 1898 (c. 22)](https://www.legislation.gov.uk/ukpga/1898/22)
 
-[^key-014c06d75d4b752c3d6fbe70108f3e02]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/Vict/47-48/62/section/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
+[^c-014c06d75d4b752c3d6fbe70108f3e02]: Textual amendment: Words in [s. 14](https://www.legislation.gov.uk/ukpga/Vict/47-48/62/section/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9 Group 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9)
 
 [^c573029]: Textual amendment: Words repealed by [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [S. 25(1)](https://www.legislation.gov.uk/ukpga/1978/30/section/25/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1978/30/schedule/3)

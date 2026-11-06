@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Contract providing for transfer to third party: effect of transfer of rights[^key-899d97bac36f400439f06233626f785b]
+## 12. Contract providing for transfer to third party: effect of transfer of rights[^c-899d97bac36f400439f06233626f785b]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-899d97bac36f400439f06233626f785b]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2017/1/section/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-899d97bac36f400439f06233626f785b]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2017/1/section/12) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

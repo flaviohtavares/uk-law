@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74B. No relief for tax-generated losses[^key-fa76b39d51979182eb731d7d8c51f350]
+## 74B. No relief for tax-generated losses[^c-fa76b39d51979182eb731d7d8c51f350]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa76b39d51979182eb731d7d8c51f350]: Textual amendment: S. 74B omitted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/6)
+[^c-fa76b39d51979182eb731d7d8c51f350]: Textual amendment: S. 74B omitted (8.4.2010 with effect in accordance with Sch. 3 para. 11 of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2010/13/schedule/3/paragraph/6)

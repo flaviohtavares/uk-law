@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Notices[^key-f0d4b70e262ad7d29b3e6b72ab607840][^key-492311bcf7b616b50245dfea61065358]
+## 59. Notices[^c-f0d4b70e262ad7d29b3e6b72ab607840][^c-492311bcf7b616b50245dfea61065358]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,6 +68,6 @@ unless the notice is served personally on the individual.
 
 ## Annotations
 
-[^key-f0d4b70e262ad7d29b3e6b72ab607840]: Commencement: S. 59 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-f0d4b70e262ad7d29b3e6b72ab607840]: Commencement: S. 59 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-492311bcf7b616b50245dfea61065358]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/32/section/59) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-492311bcf7b616b50245dfea61065358]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2023/32/section/59) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

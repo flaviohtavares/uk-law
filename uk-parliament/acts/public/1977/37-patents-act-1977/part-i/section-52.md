@@ -40,7 +40,7 @@ summary: ''
 - (c) from a revocation or cancellation made by him under subsection (3) above; or
 - (d) from a refusal of his to make such an order, entry, revocation or cancellation,
 
-the Attorney General, the appropriate Law Officer within the meaning of section 4A of the Crown Suits (Scotland) Act 1857 [^c8020521] or the Attorney General for Northern Ireland, or such other person who has a right of audience[^key-28d8eec5f9c8eb6c44ec393875aa6706] as any of them may appoint, shall be entitled to appear and be heard.
+the Attorney General, the appropriate Law Officer within the meaning of section 4A of the Crown Suits (Scotland) Act 1857 [^c8020521] or the Attorney General for Northern Ireland, or such other person who has a right of audience[^c-28d8eec5f9c8eb6c44ec393875aa6706] as any of them may appoint, shall be entitled to appear and be heard.
 
 (5) Where an application under sections 48 to 51 above or subsection (2) above is opposed, and either–
 
@@ -59,4 +59,4 @@ the comptroller may at any time order the whole proceedings, or any question or 
 
 [^c8020521]: Textual amendment: [1857 c. 44](https://www.legislation.gov.uk/ukpga/1857/44).
 
-[^key-28d8eec5f9c8eb6c44ec393875aa6706]: Textual amendment: Words in s. 52(4) substituted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1), [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/4/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-28d8eec5f9c8eb6c44ec393875aa6706]: Textual amendment: Words in s. 52(4) substituted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [s. 24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1), [Sch. para. 4(1)](https://www.legislation.gov.uk/ukpga/2014/18/schedule/paragraph/4/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

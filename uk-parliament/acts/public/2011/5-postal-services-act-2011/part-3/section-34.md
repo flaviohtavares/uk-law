@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Review of minimum requirements[^key-914de60326b3c2110b00a02481fa4cd4]
+## 34. Review of minimum requirements[^c-914de60326b3c2110b00a02481fa4cd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-914de60326b3c2110b00a02481fa4cd4]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/5/section/34) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-914de60326b3c2110b00a02481fa4cd4]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2011/5/section/34) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

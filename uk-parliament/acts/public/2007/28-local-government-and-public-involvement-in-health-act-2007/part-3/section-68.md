@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Power to make incidental, consequential provision etc[^key-48e19956b71c8397c987433416170530]
+## 68. Power to make incidental, consequential provision etc[^c-48e19956b71c8397c987433416170530]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48e19956b71c8397c987433416170530]: Commencement: S. 68 in force at 30.12.2007, see s. 245(2)
+[^c-48e19956b71c8397c987433416170530]: Commencement: S. 68 in force at 30.12.2007, see s. 245(2)

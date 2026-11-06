@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. MMO's role in relation to applications for development consent[^key-8360a9a1dd3e8b2d5e125e215cfe143f]
+## 23. MMO's role in relation to applications for development consent[^c-8360a9a1dd3e8b2d5e125e215cfe143f]
 
 *Extent: E+W+S+N.I.*
 
 (1) The Planning Act 2008 (c. 29) is amended as set out in subsections (2) to (6).
 
-(2)[^key-2e04e85b341e06cda57e2c9ff8149292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2e04e85b341e06cda57e2c9ff8149292] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In consequence of the amendments made by subsection (2) of this section—
 
 - (a) the heading to section 43 becomes “Local authorities for purposes of section 42(1)(b)”, and
 - (b) the heading to section 44 becomes “Categories for purposes of section 42(1)(d)”.
 
-(4)[^key-a1a08e5f4e18360bb09283e44d78898e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-a1a08e5f4e18360bb09283e44d78898e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 56 (duty to notify persons of accepted applications)—
 
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8360a9a1dd3e8b2d5e125e215cfe143f]: Commencement: S. 23 in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/6)
+[^c-8360a9a1dd3e8b2d5e125e215cfe143f]: Commencement: S. 23 in force at 1.4.2010 by [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/6)
 
-[^key-2e04e85b341e06cda57e2c9ff8149292]: Textual amendment: S. 23(2) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/11/a), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-2e04e85b341e06cda57e2c9ff8149292]: Textual amendment: S. 23(2) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/11/a), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
 
-[^key-a1a08e5f4e18360bb09283e44d78898e]: Textual amendment: S. 23(4) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/11/a), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))
+[^c-a1a08e5f4e18360bb09283e44d78898e]: Textual amendment: S. 23(4) omitted (24.7.2026) by virtue of [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 6(11)(a)](https://www.legislation.gov.uk/ukpga/2025/34/section/6/11/a), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/c) (with [reg. 6](https://www.legislation.gov.uk/uksi/2026/641/regulation/6))

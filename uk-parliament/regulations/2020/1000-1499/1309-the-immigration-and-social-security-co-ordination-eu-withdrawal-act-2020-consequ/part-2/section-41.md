@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Amendment of the Referral of Proposed Marriages and Civil Partnerships Regulations 2015[^key-5a03fe414bcc84111e971bb6325a0a4e]
+## 41. Amendment of the Referral of Proposed Marriages and Civil Partnerships Regulations 2015[^c-5a03fe414bcc84111e971bb6325a0a4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a03fe414bcc84111e971bb6325a0a4e]: Commencement: Reg. 41 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-5a03fe414bcc84111e971bb6325a0a4e]: Commencement: Reg. 41 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398991]: Marginal citation: [S.I. 2015/123](https://www.legislation.gov.uk/uksi/2015/123). Relevant amendments are made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745). The amendments made by [S.I. 2019/745](https://www.legislation.gov.uk/uksi/2019/745) are not yet in force and are revoked by regulation 49 of these Regulations before they come into force.

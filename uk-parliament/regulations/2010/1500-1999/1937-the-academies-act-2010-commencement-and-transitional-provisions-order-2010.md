@@ -37,27 +37,27 @@ Made
 
 The Secretary of State for Education makes the following Order in exercise of the power conferred by section 19(2) and (3) of the Academies Act 2010[^f00001].
 
-## 1. Citation and interpretation[^key-b3c91f0ba2d7f90dd0b584a48102a9b5]
+## 1. Citation and interpretation[^c-b3c91f0ba2d7f90dd0b584a48102a9b5]
 
 (1) This Order may be cited as the Academies Act 2010 (Commencement and Transitional Provisions) Order 2010.
 
 (2) In this Order “the Act” means the Academies Act 2010.
 
-## 2. Provisions coming into force on 29th July 2010[^key-9542482d757960797b1d767a51723022]
+## 2. Provisions coming into force on 29th July 2010[^c-9542482d757960797b1d767a51723022]
 
 29th July 2010 is the day appointed for the coming into force of the provisions of the Act specified in column 1 of Schedule 1 to the extent specified in column 2 of that Schedule.
 
-## 3. Provisions coming into force on 1st September 2010[^key-78267485f07f5f6234d5a094fca46398]
+## 3. Provisions coming into force on 1st September 2010[^c-78267485f07f5f6234d5a094fca46398]
 
 (1) 1st September 2010 is the day appointed for the coming into force of the provisions of the Act specified in column 1 of Schedule 2.
 
 (2) Where a particular purpose is specified in column 2 of that Schedule in relation to any such provision, the provision comes into force on that date for that purpose only.
 
-## 4. Provisions coming into force on 1st January 2011[^key-bc371b51b047521874d19eb41639cdac]
+## 4. Provisions coming into force on 1st January 2011[^c-bc371b51b047521874d19eb41639cdac]
 
 1st January 2011 is the day appointed for the coming into force of the provisions of the Act specified in column 1 of Schedule 3 to the extent specified in column 2 of that Schedule.
 
-## 5. Transitional provisions[^key-563b895de21915990714f3d3b20090e7]
+## 5. Transitional provisions[^c-563b895de21915990714f3d3b20090e7]
 
 (1) This article applies if—
 
@@ -80,7 +80,7 @@ The Secretary of State for Education makes the following Order in exercise of th
 - (a) is employed or engaged for the purposes of the school immediately before the conversion date, otherwise than as a teacher, and
 - (b) becomes employed or engaged for the purposes of the Academy on the conversion date.
 
-**6.**[^key-2e94e6c049ed534841e3620df74ef0b3] (1) This article applies if—
+**6.**[^c-2e94e6c049ed534841e3620df74ef0b3] (1) This article applies if—
 
 - (a) an Academy order has effect in respect of a foundation or voluntary school which is designated by order under section 69(3) of SSFA 1998 as a school having a religious character,
 - (b) the school is converted into an Academy, and
@@ -101,7 +101,7 @@ Department for Education
 
 28th July 2010
 
-## SCHEDULE 1 — Provisions coming into force on 29th July 2010[^key-d44e52a40af1df6e04adfd5327092c65]
+## SCHEDULE 1 — Provisions coming into force on 29th July 2010[^c-d44e52a40af1df6e04adfd5327092c65]
 
 Article 2
 
@@ -117,7 +117,7 @@ Article 2
 | Schedule 1 |  |
 | Schedule 2 save for paragraph 10 |  |
 
-## SCHEDULE 2 — Provisions coming into force on 1st September 2010[^key-7fa56f8c120e29ea41571b1ac0479099]
+## SCHEDULE 2 — Provisions coming into force on 1st September 2010[^c-7fa56f8c120e29ea41571b1ac0479099]
 
 Article 3
 
@@ -128,13 +128,13 @@ Article 3
 | Section 14 | To the extent that it relates to the paragraph in Schedule 2 to the Act specified in column 1. |
 | paragraph 10 of Schedule 2 | Only in relation to the proprietor of an Academy opening on or after 1st September 2010. |
 
-## SCHEDULE 3 — Provisions coming into force on 1st January 2011[^key-d6ff502f8e4beb2b7b8838022753fe45]
+## SCHEDULE 3 — Provisions coming into force on 1st January 2011[^c-d6ff502f8e4beb2b7b8838022753fe45]
 
 Article 4
 
 | Column 1 | Column 2 |
 | --- | --- |
-| [^key-6ea77179ee05e37766db52a3ef79c75d]. . . |  |
+| [^c-6ea77179ee05e37766db52a3ef79c75d]. . . |  |
 | Section 14 | To the extent that it is not already in force. |
 | Schedule 2 | To the extent that it is not already in force. |
 
@@ -196,22 +196,22 @@ Article 6 makes transitional provision for existing staff who had protected righ
 
 [^f00001]: Footnote: [2010 c 32](https://www.legislation.gov.uk/ukpga/2010/32).
 
-[^key-b3c91f0ba2d7f90dd0b584a48102a9b5]: Commencement: Art. 1 in force at made date
+[^c-b3c91f0ba2d7f90dd0b584a48102a9b5]: Commencement: Art. 1 in force at made date
 
-[^key-9542482d757960797b1d767a51723022]: Commencement: Art. 2 in force at made date
+[^c-9542482d757960797b1d767a51723022]: Commencement: Art. 2 in force at made date
 
-[^key-78267485f07f5f6234d5a094fca46398]: Commencement: Art. 3 in force at made date
+[^c-78267485f07f5f6234d5a094fca46398]: Commencement: Art. 3 in force at made date
 
-[^key-bc371b51b047521874d19eb41639cdac]: Commencement: Art. 4 in force at made date
+[^c-bc371b51b047521874d19eb41639cdac]: Commencement: Art. 4 in force at made date
 
-[^key-563b895de21915990714f3d3b20090e7]: Commencement: Art. 5 in force at made date
+[^c-563b895de21915990714f3d3b20090e7]: Commencement: Art. 5 in force at made date
 
-[^key-2e94e6c049ed534841e3620df74ef0b3]: Commencement: Art. 6 in force at made date
+[^c-2e94e6c049ed534841e3620df74ef0b3]: Commencement: Art. 6 in force at made date
 
-[^key-d44e52a40af1df6e04adfd5327092c65]: Commencement: Sch. 1 in force at made date
+[^c-d44e52a40af1df6e04adfd5327092c65]: Commencement: Sch. 1 in force at made date
 
-[^key-7fa56f8c120e29ea41571b1ac0479099]: Commencement: Sch. 2 in force at made date
+[^c-7fa56f8c120e29ea41571b1ac0479099]: Commencement: Sch. 2 in force at made date
 
-[^key-d6ff502f8e4beb2b7b8838022753fe45]: Commencement: Sch. 3 in force at made date
+[^c-d6ff502f8e4beb2b7b8838022753fe45]: Commencement: Sch. 3 in force at made date
 
-[^key-6ea77179ee05e37766db52a3ef79c75d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1937/schedule/3) Table omitted (22.12.2010) by virtue of [The Academies Act 2010 (Commencement and Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/3037)](https://www.legislation.gov.uk/uksi/2010/3037), [art. 2](https://www.legislation.gov.uk/uksi/2010/3037/article/2)
+[^c-6ea77179ee05e37766db52a3ef79c75d]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2010/1937/schedule/3) Table omitted (22.12.2010) by virtue of [The Academies Act 2010 (Commencement and Transitional Provisions) (Amendment) Order 2010 (S.I. 2010/3037)](https://www.legislation.gov.uk/uksi/2010/3037), [art. 2](https://www.legislation.gov.uk/uksi/2010/3037/article/2)

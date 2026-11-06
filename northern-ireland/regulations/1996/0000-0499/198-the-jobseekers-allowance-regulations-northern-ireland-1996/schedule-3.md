@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 86
 
-**1.**[^key-70b5bfa066216b0c0d01ef6bf2562671] (1) Subject to sub-paragraph (2), the weekly applicable amount of a claimant to whom regulation 86 applies shall be the aggregate of—
+**1.**[^c-70b5bfa066216b0c0d01ef6bf2562671] (1) Subject to sub-paragraph (2), the weekly applicable amount of a claimant to whom regulation 86 applies shall be the aggregate of—
 
 - (a) subject to paragraph 3, the weekly charge for the accommodation, including all meals and services, provided for him or, if he is a member of a family, for him and his family increased, where appropriate, in accordance with paragraph 2 but, except in a case to which paragraph 9 applies, subject to the maximum determined in accordance with paragraph 4;
 - (b) a weekly amount for personal expenses for him and, if he is a member of a family, for each member of his family determined in accordance with paragraph 10;
@@ -33,7 +33,7 @@ Regulation 86
 
 (2) No amount shall be included in respect of any child or young person who is a member of the claimant’s family if the capital of that child or young person calculated in accordance with Part VIII (income and capital) in like manner as for the claimant, except where otherwise provided, would exceed £3,000.
 
-**2.**[^key-7cd2fe1f17cd6fb5e1b872ef09e8e080] (1) Where, in addition to the weekly charge for accommodation, a separate charge is made for the provision of heating, attention in connection with bodily functions, supervision, extra baths, laundry or a special diet needed for a medical reason, the weekly charge for the purpose of paragraph 1(1)(a) shall be increased by the amount of that charge.
+**2.**[^c-7cd2fe1f17cd6fb5e1b872ef09e8e080] (1) Where, in addition to the weekly charge for accommodation, a separate charge is made for the provision of heating, attention in connection with bodily functions, supervision, extra baths, laundry or a special diet needed for a medical reason, the weekly charge for the purpose of paragraph 1(1)(a) shall be increased by the amount of that charge.
 
 (2) Where the weekly charge for the accommodation does not include the provision of all meals, it shall for the purpose of paragraph 1(1)(a), be increased in respect of the claimant or, if he is a member of a family, in respect of each member of his family by the following amount—
 
@@ -45,9 +45,9 @@ Regulation 86
 
   except that, if some or all of the meals are normally provided free of charge or at a reduced rate, the amount shall be reduced to take account of the lower charge or reduction.
 
-**3.**[^key-583613dd1b3094e2255d8e7f32cd962e] Where any part of the weekly charge for the accommodation is met by housing benefit, an amount equal to the part so met shall be deducted from the amount calculated in accordance with paragraph 1(1)(a).
+**3.**[^c-583613dd1b3094e2255d8e7f32cd962e] Where any part of the weekly charge for the accommodation is met by housing benefit, an amount equal to the part so met shall be deducted from the amount calculated in accordance with paragraph 1(1)(a).
 
-**4.**[^key-f44fd07398a062fbfd6db873979a57e6] (1) Subject to paragraph 9, the maximum referred to in paragraph 1(1)(a) shall be—
+**4.**[^c-f44fd07398a062fbfd6db873979a57e6] (1) Subject to paragraph 9, the maximum referred to in paragraph 1(1)(a) shall be—
 
 - (a) in the case of a single claimant, the appropriate amount in respect of that claimant specified in or determined in accordance with paragraphs 5 to 8;
 - (b) in the case of a claimant who is a member of a family the aggregate of the following amounts—
@@ -57,7 +57,7 @@ Regulation 86
 
 (2) The maximum amount in respect of a member of the family aged under 11 calculated in the manner referred to in sub-paragraph (1)(b)(i) shall be rounded to the nearest multiple of 5p by treating an odd amount of 2·5p or more as 5p and by disregarding an odd amount of less than 2·5p.
 
-### 5. Residential care homes[^key-c5c582a25acc30daedf3b3f7b9714fa0]
+### 5. Residential care homes[^c-c5c582a25acc30daedf3b3f7b9714fa0]
 
 Subject to paragraphs 7 and 8, where the accommodation provided for the claimant is a residential care home for persons in need of personal care by virtue of—
 
@@ -67,7 +67,7 @@ Subject to paragraphs 7 and 8, where the accommodation provided for the claimant
 - (d) physical disablement, the appropriate amount shall be £276·00 per week;
 - (e) any condition not falling within sub-paragraphs (a) to (d), the appropriate amount shall be £203·00 per week.
 
-### 6. Nursing homes[^key-9a8dec30732d6283da0a4d7548390419]
+### 6. Nursing homes[^c-9a8dec30732d6283da0a4d7548390419]
 
 Subject to paragraphs 7 and 8, where the accommodation provided for the claimant is a nursing home for persons in need of personal care by virtue of—
 
@@ -78,12 +78,12 @@ Subject to paragraphs 7 and 8, where the accommodation provided for the claimant
 - (e) terminal illness, the appropriate amount shall be £303·00 per week;
 - (f) any condition not falling within sub-paragraphs (a) to (e), the appropriate amount shall be £303·00 per week.
 
-**7.**[^key-7e11a81cfb3ef723fe750e15f4d74bc3] The appropriate amount applicable to a claimant in a residential care home or nursing home shall, subject to paragraph 8, be determined—
+**7.**[^c-7e11a81cfb3ef723fe750e15f4d74bc3] The appropriate amount applicable to a claimant in a residential care home or nursing home shall, subject to paragraph 8, be determined—
 
 - (a) where the home is a residential care home registered under Part II of the Registered Homes Order, by reference to the particulars recorded in the register kept by the relevant Health and Social Services Board for the purposes of that Order, or
 - (b) where the home is a residential care home not so registered or a nursing home, by reference to the type of care which, taking into account the facilities and accommodation provided, the home is providing to the claimant.
 
-**8.**[^key-2320cc25323bd9cd3216caff715a3444] (1) Where more than one amount would otherwise be applicable, in accordance with paragraph 7, to a claimant in a residential care home or a nursing home, the appropriate amount in any case shall be determined in accordance with sub-paragraphs (2) to (4).
+**8.**[^c-2320cc25323bd9cd3216caff715a3444] (1) Where more than one amount would otherwise be applicable, in accordance with paragraph 7, to a claimant in a residential care home or a nursing home, the appropriate amount in any case shall be determined in accordance with sub-paragraphs (2) to (4).
 
 (2) Where the home is a residential care home registered under Part II of the Registered Homes Order and where the personal care that the claimant is receiving corresponds to the care received by a category of residents for whom the register indicates that the home provides accommodation, the appropriate amount shall be the amount, in paragraph 5, as is consistent with that personal care.
 
@@ -91,7 +91,7 @@ Subject to paragraphs 7 and 8, where the accommodation provided for the claimant
 
 (4) In any case not falling within sub-paragraph (2) or (3), the appropriate amount shall be whichever amount of the amounts applicable in accordance with paragraph 5, 6 or 7 is, having regard to the types of personal care that the home provides, most consistent with the personal care being received by the claimant in that accommodation.
 
-### 9. Circumstances in which the maximum is not to apply[^key-7b5ba1b2cfd91349fab1fa592edc5f0b]
+### 9. Circumstances in which the maximum is not to apply[^c-7b5ba1b2cfd91349fab1fa592edc5f0b]
 
 (1) Where a claimant who satisfies the conditions in sub-paragraph (2) has been able to meet the charges referred to in paragraphs 1 and 2 without recourse to a jobseeker’s allowance, income support or supplementary benefit, the maximum determined in accordance with paragraph 4 shall not apply for the period of 13 weeks or, if alternative accommodation is found earlier, such lesser period following the date of claim except to the extent that the claimant is able to meet out of income disregarded for the purposes of Part VIII (income and capital) the balance of the actual charge over the maximum.
 
@@ -124,7 +124,7 @@ the maximum amount shall be the rate specified in sub-paragraph (4) if that rate
 
   whichever is the lower amount.
 
-### 10. Personal allowances[^key-bb7a0124401d458e0c6d10d9a5f5c7e4]
+### 10. Personal allowances[^c-bb7a0124401d458e0c6d10d9a5f5c7e4]
 
 The allowance for personal expenses for the claimant and each member of his family referred to in paragraph 1(1)(b) shall be—
 
@@ -136,23 +136,23 @@ The allowance for personal expenses for the claimant and each member of his fami
 
 ## Annotations
 
-[^key-70b5bfa066216b0c0d01ef6bf2562671]: Commencement: Sch. 3 para. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-70b5bfa066216b0c0d01ef6bf2562671]: Commencement: Sch. 3 para. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-7cd2fe1f17cd6fb5e1b872ef09e8e080]: Commencement: Sch. 3 para. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7cd2fe1f17cd6fb5e1b872ef09e8e080]: Commencement: Sch. 3 para. 2 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-583613dd1b3094e2255d8e7f32cd962e]: Commencement: Sch. 3 para. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-583613dd1b3094e2255d8e7f32cd962e]: Commencement: Sch. 3 para. 3 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-f44fd07398a062fbfd6db873979a57e6]: Commencement: Sch. 3 para. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-f44fd07398a062fbfd6db873979a57e6]: Commencement: Sch. 3 para. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-c5c582a25acc30daedf3b3f7b9714fa0]: Commencement: Sch. 3 para. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-c5c582a25acc30daedf3b3f7b9714fa0]: Commencement: Sch. 3 para. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-9a8dec30732d6283da0a4d7548390419]: Commencement: Sch. 3 para. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-9a8dec30732d6283da0a4d7548390419]: Commencement: Sch. 3 para. 6 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-7e11a81cfb3ef723fe750e15f4d74bc3]: Commencement: Sch. 3 para. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7e11a81cfb3ef723fe750e15f4d74bc3]: Commencement: Sch. 3 para. 7 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-2320cc25323bd9cd3216caff715a3444]: Commencement: Sch. 3 para. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2320cc25323bd9cd3216caff715a3444]: Commencement: Sch. 3 para. 8 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
-[^key-7b5ba1b2cfd91349fab1fa592edc5f0b]: Commencement: Sch. 3 para. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-7b5ba1b2cfd91349fab1fa592edc5f0b]: Commencement: Sch. 3 para. 9 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00151]: Footnote: [S.I. 1988/1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990)
 
@@ -162,4 +162,4 @@ The allowance for personal expenses for the claimant and each member of his fami
 
 [^f00154]: Footnote: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15)
 
-[^key-bb7a0124401d458e0c6d10d9a5f5c7e4]: Commencement: Sch. 3 para. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-bb7a0124401d458e0c6d10d9a5f5c7e4]: Commencement: Sch. 3 para. 10 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

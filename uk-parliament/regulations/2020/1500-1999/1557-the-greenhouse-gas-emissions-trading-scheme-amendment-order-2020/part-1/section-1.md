@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation[^key-2b6dbc2ccaccf20e9d48020f7f3e3b04]
+## 1. Citation[^c-2b6dbc2ccaccf20e9d48020f7f3e3b04]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendmen
 
 ## Annotations
 
-[^key-2b6dbc2ccaccf20e9d48020f7f3e3b04]: Commencement: Art. 1 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-2b6dbc2ccaccf20e9d48020f7f3e3b04]: Commencement: Art. 1 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

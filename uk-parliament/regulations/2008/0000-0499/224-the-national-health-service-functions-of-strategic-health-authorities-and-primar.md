@@ -32,7 +32,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, ENGLAND
 
-The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) (Amendment) Regulations 2008 (revoked)[^key-67bab6062a28dcd8b4169365e1c01fff]
+The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) (Amendment) Regulations 2008 (revoked)[^c-67bab6062a28dcd8b4169365e1c01fff]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2008
 
-[^key-67bab6062a28dcd8b4169365e1c01fff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67bab6062a28dcd8b4169365e1c01fff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-67bab6062a28dcd8b4169365e1c01fff]
+## 1. Citation, commencement, interpretation and application[^c-67bab6062a28dcd8b4169365e1c01fff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 5 to the principal Regulations[^key-67bab6062a28dcd8b4169365e1c01fff]
+## 2. Amendment of Schedule 5 to the principal Regulations[^c-67bab6062a28dcd8b4169365e1c01fff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-67bab6062a28dcd8b4169365e1c01fff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67bab6062a28dcd8b4169365e1c01fff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-67bab6062a28dcd8b4169365e1c01fff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-67bab6062a28dcd8b4169365e1c01fff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-67bab6062a28dcd8b4169365e1c01fff]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/224) revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), art. 1(2), [Sch. 2 para. 196](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/196)
+[^c-67bab6062a28dcd8b4169365e1c01fff]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/224) revoked (1.4.2013) by [The National Treatment Agency (Abolition) and the Health and Social Care Act 2012 (Consequential, Transitional and Saving Provisions) Order 2013 (S.I. 2013/235)](https://www.legislation.gov.uk/uksi/2013/235), art. 1(2), [Sch. 2 para. 196](https://www.legislation.gov.uk/uksi/2013/235/schedule/2/paragraph/196)

@@ -64,7 +64,7 @@ Section 325.
 
 ### The Riot (Damages) Act 1886
 
-**6.**[^key-bbf5be40e75147af98873e568652f644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-bbf5be40e75147af98873e568652f644] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Metropolitan Police Act 1887
 
@@ -295,7 +295,7 @@ shall cease to have effect.
 
 ### The Local Government Act 1974
 
-**38.**[^key-eefbc37fefb219606101c54d59184307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-eefbc37fefb219606101c54d59184307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The House of Commons Disqualification Act 1975
 
@@ -337,7 +337,7 @@ shall cease to have effect.
 
 ### Rate support grants
 
-**43.**[^key-dc82f7aeea26e5f6aadb53225c4f94f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-dc82f7aeea26e5f6aadb53225c4f94f2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Disposal of land held by public bodies
 
@@ -521,15 +521,15 @@ shall cease to have effect.
 
 ### Local policing objectives
 
-**70.**[^key-1db6f1e6a670179862b06dbf63e21809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-1db6f1e6a670179862b06dbf63e21809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Local policing plans
 
-**71.**[^key-49b524302cc2d11ca1bbb1d09e6139ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**71.**[^c-49b524302cc2d11ca1bbb1d09e6139ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Annual report
 
-**72.**[^key-4f3729bbbd659cc562af7ac43f50f664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**72.**[^c-4f3729bbbd659cc562af7ac43f50f664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Police fund
 
@@ -642,7 +642,7 @@ shall cease to have effect.
 
 ### Objectives for police authorities
 
-**86.**[^key-dd087841111d39a6056e4f3042c87a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**86.**[^c-dd087841111d39a6056e4f3042c87a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Setting of performance targets
 
@@ -658,7 +658,7 @@ shall cease to have effect.
 
 ### Removal of Commissioners or Commanders
 
-**90.**[^key-763d7544e264f25fc1eb73a60386c1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-763d7544e264f25fc1eb73a60386c1e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Reports from the Commissioner of Police of the Metropolis
 
@@ -676,7 +676,7 @@ shall cease to have effect.
 
 **92.** (1) Section 46 of the [^c12814721]Police Act 1996 (duty of Secretary of State to make grants for police purposes) shall be amended as follows.
 
-(2)[^key-bd0bde59ebe42140cb244f2d29d65c27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bd0bde59ebe42140cb244f2d29d65c27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (1), in the words following paragraph (b), for “Receiver” there shall be substituted “ Greater London Authority ”.
 
@@ -722,15 +722,15 @@ shall cease to have effect.
 
 ### The appropriate authority for complaints etc about metropolitan police
 
-**97.**[^key-0cc23b9c3f769c0efc5e95beb0c95371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-0cc23b9c3f769c0efc5e95beb0c95371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Investigation of complaints
 
-**98.**[^key-0cc23b9c3f769c0efc5e95beb0c95371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**98.**[^c-0cc23b9c3f769c0efc5e95beb0c95371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Supervision of investigations by Police Complaints Authority
 
-**99.**[^key-0cc23b9c3f769c0efc5e95beb0c95371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**99.**[^c-0cc23b9c3f769c0efc5e95beb0c95371] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Grants by local authorities
 
@@ -811,13 +811,13 @@ shall cease to have effect.
 
 *Extent: E+W+S*
 
-**105.**[^key-12e14aa7ea26d0e352287c6422789de1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**105.**[^c-12e14aa7ea26d0e352287c6422789de1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schedule 3
 
 *Extent: E+W+S*
 
-**106.**[^key-9164f741e105204cb8a9e3b0177f240e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-9164f741e105204cb8a9e3b0177f240e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schedule 6
 
@@ -827,7 +827,7 @@ shall cease to have effect.
 
 ### The Justices of the Peace Act 1997
 
-**108.**[^key-b06d905218d010e1b15965d75f6b132a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**108.**[^c-b06d905218d010e1b15965d75f6b132a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Police (Insurance of Voluntary Assistants) Act 1997
 
@@ -896,7 +896,7 @@ shall cease to have effect.
 
 [^c12813241]: Marginal citation: [1886 c. 22](https://www.legislation.gov.uk/ukpga/1886/22).
 
-[^key-bbf5be40e75147af98873e568652f644]: Textual amendment: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/6) omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(d)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/d), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-bbf5be40e75147af98873e568652f644]: Textual amendment: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/6) omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(d)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/d), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
 [^c12813261]: Commencement: Sch. 27 para. 7 partly in force; Sch. 27 para. 7 not in force at Royal Assent see s. 425(2); Sch. 27 para. 7 in force for specified purposes at 3.7.2000 by [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule)
 
@@ -1016,7 +1016,7 @@ shall cease to have effect.
 
 [^c12813901]: Marginal citation: [1973 c. 35](https://www.legislation.gov.uk/ukpga/1973/35).
 
-[^key-eefbc37fefb219606101c54d59184307]: Textual amendment: Sch. 27 para. 38 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-eefbc37fefb219606101c54d59184307]: Textual amendment: Sch. 27 para. 38 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c12813921]: Commencement: Sch. 27 para. 39 partly in force; Sch. 27 para. 39 not in force at Royal Assent see s. 425(2); Sch. 27 para. 39(1)(2)(a)(b) in force at 3.7.2000 by [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule)
 
@@ -1032,7 +1032,7 @@ shall cease to have effect.
 
 [^c12813981]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
-[^key-dc82f7aeea26e5f6aadb53225c4f94f2]: Textual amendment: Sch. 27 para. 43 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-dc82f7aeea26e5f6aadb53225c4f94f2]: Textual amendment: Sch. 27 para. 43 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c12814001]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
@@ -1110,11 +1110,11 @@ shall cease to have effect.
 
 [^c12814431]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-1db6f1e6a670179862b06dbf63e21809]: Textual amendment: Sch. 27 para. 70 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-1db6f1e6a670179862b06dbf63e21809]: Textual amendment: Sch. 27 para. 70 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-49b524302cc2d11ca1bbb1d09e6139ad]: Textual amendment: Sch. 27 para. 71 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-49b524302cc2d11ca1bbb1d09e6139ad]: Textual amendment: Sch. 27 para. 71 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-4f3729bbbd659cc562af7ac43f50f664]: Textual amendment: Sch. 27 para. 72 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-4f3729bbbd659cc562af7ac43f50f664]: Textual amendment: Sch. 27 para. 72 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
 [^c12814471]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -1150,7 +1150,7 @@ shall cease to have effect.
 
 [^c12814631]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-dd087841111d39a6056e4f3042c87a17]: Textual amendment: Sch. 27 para. 86 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-dd087841111d39a6056e4f3042c87a17]: Textual amendment: Sch. 27 para. 86 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
 [^c12814651]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -1158,13 +1158,13 @@ shall cease to have effect.
 
 [^c12814671]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-763d7544e264f25fc1eb73a60386c1e8]: Textual amendment: Sch. 27 para. 90 repealed (23.12.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/3338](https://www.legislation.gov.uk/uksi/2004/3338), [art. 3(c)(v)](https://www.legislation.gov.uk/uksi/2004/3338/article/3/c/v)
+[^c-763d7544e264f25fc1eb73a60386c1e8]: Textual amendment: Sch. 27 para. 90 repealed (23.12.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/3338](https://www.legislation.gov.uk/uksi/2004/3338), [art. 3(c)(v)](https://www.legislation.gov.uk/uksi/2004/3338/article/3/c/v)
 
 [^c12814711]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
 [^c12814721]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-bd0bde59ebe42140cb244f2d29d65c27]: Textual amendment: Sch. 27 para. 92(2) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(k)(i)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/k/i)
+[^c-bd0bde59ebe42140cb244f2d29d65c27]: Textual amendment: Sch. 27 para. 92(2) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(k)(i)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/k/i)
 
 [^c12814731]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -1174,7 +1174,7 @@ shall cease to have effect.
 
 [^c12814761]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-0cc23b9c3f769c0efc5e95beb0c95371]: Textual amendment: Sch. 27 paras. 97-99 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(viii)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/viii)
+[^c-0cc23b9c3f769c0efc5e95beb0c95371]: Textual amendment: Sch. 27 paras. 97-99 repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 108(2)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(f)(viii)](https://www.legislation.gov.uk/uksi/2004/913/article/2/f/viii)
 
 [^c12814881]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
@@ -1186,13 +1186,13 @@ shall cease to have effect.
 
 [^c12814921]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-12e14aa7ea26d0e352287c6422789de1]: Textual amendment: Sch. 27 para. 105 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-12e14aa7ea26d0e352287c6422789de1]: Textual amendment: Sch. 27 para. 105 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-9164f741e105204cb8a9e3b0177f240e]: Textual amendment: Sch. 27 para. 106 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
+[^c-9164f741e105204cb8a9e3b0177f240e]: Textual amendment: Sch. 27 para. 106 repealed (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(s)(ii)](https://www.legislation.gov.uk/uksi/2007/709/article/3/s/ii) (with [art. 7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
 [^c12815001]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 
-[^key-b06d905218d010e1b15965d75f6b132a]: Textual amendment: Sch. 27 para. 108 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-b06d905218d010e1b15965d75f6b132a]: Textual amendment: Sch. 27 para. 108 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c12815021]: Marginal citation: [1997 c. 45](https://www.legislation.gov.uk/ukpga/1997/45).
 

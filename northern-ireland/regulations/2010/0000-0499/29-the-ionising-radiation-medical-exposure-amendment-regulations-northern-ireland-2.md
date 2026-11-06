@@ -42,15 +42,15 @@ Coming into operation -
 
 The Department of Health, Social Services and Public Safety [^f00001], being a Department designated [^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003], in relation to the making of safety measures in regard to radioactive substances and the emission of ionising radiation, makes the following Regulations:
 
-## 1. Citation and commencement[^key-6a19a634ba7c6e0afddc8498149dec40]
+## 1. Citation and commencement[^c-6a19a634ba7c6e0afddc8498149dec40]
 
 These Regulations may be cited as the Ionising Radiation (Medical Exposure) (Amendment) Regulations (Northern Ireland) 2010 and shall come into operation on the 15th March 2010.
 
-## 2. Interpretation[^key-c2bb425b4029582ef5ff411ac0895552]
+## 2. Interpretation[^c-c2bb425b4029582ef5ff411ac0895552]
 
 In these Regulations “the 2000 Regulations” means The Ionising Radiation (Medical Exposure) Regulations (Northern Ireland) 2000[^f00004].
 
-## 3. Amendment of the 2000 Regulations[^key-9352a64b362b1585f49bee48b9386e6f]
+## 3. Amendment of the 2000 Regulations[^c-9352a64b362b1585f49bee48b9386e6f]
 
 (1) The 2000 Regulations are amended as provided by paragraphs (2) to (5).
 
@@ -58,7 +58,7 @@ In these Regulations “the 2000 Regulations” means The Ionising Radiation (Me
 
 - (a) after the definition of “adequate training” insert the following definition—
 
-  > - “appropriate authority” means the RQIA[^key-df6b439e2ce242af7462275b88c4a8b0] ;
+  > - “appropriate authority” means the RQIA[^c-df6b439e2ce242af7462275b88c4a8b0] ;
 
   ;
 - (b) after the definition of “equipment” insert the following definition—
@@ -86,7 +86,7 @@ In these Regulations “the 2000 Regulations” means The Ionising Radiation (Me
 
 (5) In regulation 12 (enforcement), in paragraph (2) for “the Department” substitute “the appropriate authority”.
 
-## 4. Transitional provisions[^key-eb0989c216acb277c266c61bf1dd9bf3]
+## 4. Transitional provisions[^c-eb0989c216acb277c266c61bf1dd9bf3]
 
 The Department of Health, Social Services and Public Safety shall continue to be the appropriate authority in respect of—
 
@@ -131,15 +131,15 @@ Regulation 4 is a transitional provision in relation to incomplete investigation
 
 [^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-6a19a634ba7c6e0afddc8498149dec40]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
+[^c-6a19a634ba7c6e0afddc8498149dec40]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
 
-[^key-c2bb425b4029582ef5ff411ac0895552]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/29/regulation/2) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
+[^c-c2bb425b4029582ef5ff411ac0895552]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2010/29/regulation/2) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2000 No.194](https://www.legislation.gov.uk/nisr/2000/194)
 
-[^key-9352a64b362b1585f49bee48b9386e6f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/29/regulation/3) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
+[^c-9352a64b362b1585f49bee48b9386e6f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2010/29/regulation/3) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
 
-[^key-df6b439e2ce242af7462275b88c4a8b0]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-df6b439e2ce242af7462275b88c4a8b0]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
 
 [^f00005]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031)
 
@@ -147,4 +147,4 @@ Regulation 4 is a transitional provision in relation to incomplete investigation
 
 [^f00007]: Footnote: [S.I. 2003/431 (N.I.9)](https://www.legislation.gov.uk/nisi/2003/431), *see also section 1(2) of the Health and Social Care (Reform) Act (Northern Ireland) [2009 (c.1)](https://www.legislation.gov.uk/nia/2009/1)*
 
-[^key-eb0989c216acb277c266c61bf1dd9bf3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/29/regulation/4) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)
+[^c-eb0989c216acb277c266c61bf1dd9bf3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2010/29/regulation/4) in operation at 15.3.2010, see [reg. 1](https://www.legislation.gov.uk/nisr/2010/29/regulation/1)

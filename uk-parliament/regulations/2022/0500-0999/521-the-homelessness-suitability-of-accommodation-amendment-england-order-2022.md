@@ -46,25 +46,25 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 210(2) and 215(2) of the Housing Act 1996[^f00001].
 
-## 1. Citation, commencement and extent[^key-f4ab6e51a9ebd42366d81252d461bbd0]
+## 1. Citation, commencement and extent[^c-f4ab6e51a9ebd42366d81252d461bbd0]
 
 (1) This Order may be cited as the Homelessness (Suitability of Accommodation) (Amendment) (England) Order 2022 and comes into force on 1st June 2022.
 
 (2) This Order extends to England and Wales.
 
-## 2. Expiry[^key-8d581d5089d0d23cf6d539890f94695b]
+## 2. Expiry[^c-8d581d5089d0d23cf6d539890f94695b]
 
 (1) Article 4 of this Order expires on 1st June 2024;
 
 (2) Article 5 of this Order expires on 1st June 2025.
 
-## 3. Amendment of the Homelessness (Suitability of Accommodation) (England) Order 2003[^key-e43f5dfcc88c089996511213dd35a744]
+## 3. Amendment of the Homelessness (Suitability of Accommodation) (England) Order 2003[^c-e43f5dfcc88c089996511213dd35a744]
 
 (1) The Homelessness (Suitability of Accommodation) (England) Order 2003[^f00002] is amended in accordance with paragraph (2).
 
 (2) In article 2 (interpretation), at the end of the definition of “B&B accommodation”, insert “, or accommodation that is provided in a private dwelling”.
 
-## 4. Modification of the Homelessness (Suitability of Accommodation) (England) Order 2003[^key-947872b1d772f7a906a669e35aacd9fd]
+## 4. Modification of the Homelessness (Suitability of Accommodation) (England) Order 2003[^c-947872b1d772f7a906a669e35aacd9fd]
 
 (1) The Homelessness (Suitability of Accommodation) (England) Order 2003 is to be read in accordance with the modifications in paragraph (2).
 
@@ -82,7 +82,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
   .
 
-## 5. Modification of the Homelessness (Suitability of Accommodation) (England) Order 2012[^key-3fe17257fa3a379e4ae4720d81d4ab8e]
+## 5. Modification of the Homelessness (Suitability of Accommodation) (England) Order 2012[^c-3fe17257fa3a379e4ae4720d81d4ab8e]
 
 (1) The Homelessness (Suitability of Accommodation) (England) Order 2012[^f00003] is to be read in accordance with the modifications in paragraphs (2) and (3).
 
@@ -131,16 +131,16 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52); section 210 was amended by the Housing Act [2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), Schedule 15, paragraph 43.
 
-[^key-f4ab6e51a9ebd42366d81252d461bbd0]: Commencement: Art. 1 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
+[^c-f4ab6e51a9ebd42366d81252d461bbd0]: Commencement: Art. 1 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
 
-[^key-8d581d5089d0d23cf6d539890f94695b]: Textual amendment: Art. 2 substituted (31.5.2024) by [The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024 (S.I. 2024/371)](https://www.legislation.gov.uk/uksi/2024/371), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/371/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/371/article/2)
+[^c-8d581d5089d0d23cf6d539890f94695b]: Textual amendment: Art. 2 substituted (31.5.2024) by [The Homelessness (Suitability of Accommodation) (England) (Amendment) Order 2024 (S.I. 2024/371)](https://www.legislation.gov.uk/uksi/2024/371), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/371/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/371/article/2)
 
-[^key-e43f5dfcc88c089996511213dd35a744]: Commencement: Art. 3 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
+[^c-e43f5dfcc88c089996511213dd35a744]: Commencement: Art. 3 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2003/3326](https://www.legislation.gov.uk/uksi/2003/3326), amended by [S.I. 2010/671](https://www.legislation.gov.uk/uksi/2010/671).
 
-[^key-947872b1d772f7a906a669e35aacd9fd]: Commencement: Art. 4 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
+[^c-947872b1d772f7a906a669e35aacd9fd]: Commencement: Art. 4 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
 
-[^key-3fe17257fa3a379e4ae4720d81d4ab8e]: Commencement: Art. 5 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
+[^c-3fe17257fa3a379e4ae4720d81d4ab8e]: Commencement: Art. 5 in force at 1.6.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/521/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2012/2601](https://www.legislation.gov.uk/uksi/2012/2601), to which there are amendments not relevant to this Order.

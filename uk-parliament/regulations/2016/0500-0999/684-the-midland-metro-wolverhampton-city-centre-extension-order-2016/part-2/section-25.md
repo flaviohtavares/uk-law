@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Power to construct temporary tramways[^key-f11cc12a84f38b05584e6c389937b014]
+## 25. Power to construct temporary tramways[^c-f11cc12a84f38b05584e6c389937b014]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f11cc12a84f38b05584e6c389937b014]: Commencement: Art. 25 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)
+[^c-f11cc12a84f38b05584e6c389937b014]: Commencement: Art. 25 in force at 2.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/684/article/1)

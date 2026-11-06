@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Formal defects[^key-84f1843b8415139f7f6bad2c0bcf3f61]
+## 85. Formal defects[^c-84f1843b8415139f7f6bad2c0bcf3f61]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The acts of the creditors’ committee established for a special administration 
 
 ## Annotations
 
-[^key-84f1843b8415139f7f6bad2c0bcf3f61]: Commencement: [Rule 85](https://www.legislation.gov.uk/nisr/2026/11/rule/85) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-84f1843b8415139f7f6bad2c0bcf3f61]: Commencement: [Rule 85](https://www.legislation.gov.uk/nisr/2026/11/rule/85) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

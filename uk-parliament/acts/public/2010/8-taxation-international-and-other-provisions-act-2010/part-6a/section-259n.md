@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259N. Meaning of “financial instrument”[^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259N. Meaning of “financial instrument”[^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,14 +33,14 @@ summary: ''
 (3) But “**financial instrument**” does not include—
 
 - (a) a hybrid transfer arrangement (within the meaning given by section 259DB), or
-- (b)[^key-ce1efa046c8434fe77a95fadb991f5ca] anything of a description specified in regulations made by the Treasury.
+- (b)[^c-ce1efa046c8434fe77a95fadb991f5ca] anything of a description specified in regulations made by the Treasury.
 
-(4)[^key-b377062b110a20abe635fc288dd895b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b377062b110a20abe635fc288dd895b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
 
-[^key-ce1efa046c8434fe77a95fadb991f5ca]: Textual amendment: S. 259N(3)(b) substituted (with effect in accordance with s. 19(8)(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/4/a)
+[^c-ce1efa046c8434fe77a95fadb991f5ca]: Textual amendment: S. 259N(3)(b) substituted (with effect in accordance with s. 19(8)(9) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/4/a)
 
-[^key-b377062b110a20abe635fc288dd895b8]: Textual amendment: S. 259N(4) omitted (with effect in accordance with s. 19(8)(9) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/4/b)
+[^c-b377062b110a20abe635fc288dd895b8]: Textual amendment: S. 259N(4) omitted (with effect in accordance with s. 19(8)(9) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 19(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/19/4/b)

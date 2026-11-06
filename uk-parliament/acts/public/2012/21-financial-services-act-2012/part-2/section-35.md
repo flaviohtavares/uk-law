@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Sections 28 to 34: minor and consequential amendments[^key-00e930862c3cadc824ad54b43ff625a8][^key-5a1cf1c76588feb07fd8ca937654e7e5][^key-2db589851debf60da2b4107018b8237c]
+## 35. Sections 28 to 34: minor and consequential amendments[^c-00e930862c3cadc824ad54b43ff625a8][^c-5a1cf1c76588feb07fd8ca937654e7e5][^c-2db589851debf60da2b4107018b8237c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ Schedule 8 contains—
 
 ## Annotations
 
-[^key-00e930862c3cadc824ad54b43ff625a8]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/21/section/35) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-00e930862c3cadc824ad54b43ff625a8]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/21/section/35) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-5a1cf1c76588feb07fd8ca937654e7e5]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/21/section/35) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-5a1cf1c76588feb07fd8ca937654e7e5]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/21/section/35) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-2db589851debf60da2b4107018b8237c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/21/section/35) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2db589851debf60da2b4107018b8237c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/21/section/35) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

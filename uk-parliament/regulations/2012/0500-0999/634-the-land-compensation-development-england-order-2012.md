@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by section 20 of the Land Compensation Act 1961[^f00001] and sections 59, 61(1) and 333(7) of the Town and Country Planning Act 1990[^f00002], makes the following Order:
 
-## 1. Citation and commencement[^key-499be3e4cc9573f490738acd3c2d6d8d]
+## 1. Citation and commencement[^c-499be3e4cc9573f490738acd3c2d6d8d]
 
 This Order may be cited as the Land Compensation Development (England) Order 2012 and shall come into force on 6th April 2012.
 
-## 2. Interpretation[^key-f0c6980134618d4235993c836ad37a64]
+## 2. Interpretation[^c-f0c6980134618d4235993c836ad37a64]
 
 (1) In this Order—
 
@@ -74,7 +74,7 @@ This Order may be cited as the Land Compensation Development (England) Order 201
 
 (7) A requirement in this Order that any document should be in writing is fulfilled where the document meets the criteria in paragraph (4), and “written” and cognate expressions are to be construed accordingly.
 
-## 3. Application for and issue of certificates[^key-e02ba13459b73d7dbd71fe5d9bae309a]
+## 3. Application for and issue of certificates[^c-e02ba13459b73d7dbd71fe5d9bae309a]
 
 (1) An application to a local planning authority for a certificate under section 17 shall—
 
@@ -84,7 +84,7 @@ This Order may be cited as the Land Compensation Development (England) Order 201
 
 (2) The time within which a certificate is to be issued by a local planning authority shall, subject to the provisions of section 17(4), be two months from the receipt of such an application by them.
 
-(3)[^key-c2e26870a055f590f2ab32899157c28e] If a local planning authority—
+(3)[^c-c2e26870a055f590f2ab32899157c28e] If a local planning authority—
 
 - (a) issues a certificate—
   - (i) for development less extensive than described in the application made to them, or
@@ -93,7 +93,7 @@ This Order may be cited as the Land Compensation Development (England) Order 201
 
 it shall provide a statement in writing of its reasons for doing so and give particulars of the manner in which, and the time within which, an appeal may be made under section 18.
 
-## 4. Notification[^key-0f6e7717e8888a8896e96e17be0bd418]
+## 4. Notification[^c-0f6e7717e8888a8896e96e17be0bd418]
 
 Where a certificate is—
 
@@ -101,7 +101,7 @@ Where a certificate is—
 - (b) issued by a district planning authority and specifies development related to a county matter, they shall send a copy of that certificate to the county planning authority; and
 - (c) issued by a London borough council or the Common Council of City of London and describes development which, were it the subject of an application for planning permission, would have to be notified to the Mayor of London under section 2A of the Town and Country Planning Act 1990[^f00007] and article 4 of the Town and Country Planning (Mayor of London) Order 2008[^f00008], they shall send a copy of that certificate to the Mayor.
 
-## 5. Requests for information as to certificates, etc. and provision by local planning authority[^key-41779977ed6637224d6bfd9c8a3ce414]
+## 5. Requests for information as to certificates, etc. and provision by local planning authority[^c-41779977ed6637224d6bfd9c8a3ce414]
 
 (1) Where a written request is made to a local planning authority by any person appearing to them to have an interest in the land which is the subject of a certificate under section 17 for—
 
@@ -112,7 +112,7 @@ the local planning authority shall provide such person with such information and
 
 (2) Where a request is passed to an authority under paragraph (1), that authority shall comply with such request.
 
-## 6. Electronic communications[^key-31613177f67f993c0dc92a7c91840392]
+## 6. Electronic communications[^c-31613177f67f993c0dc92a7c91840392]
 
 Where an application for a certificate under section 17 or a request for information under article 5 is made electronically, the person making the application or the request (as the case may be) shall be taken to have agreed—
 
@@ -124,7 +124,7 @@ Where an application for a certificate under section 17 or a request for informa
 
 and such withdrawal or revocation shall be final and shall take effect on the date specified by the person in the notice, being not less than seven days after the date on which the notice is given.
 
-## 7. Revocation, transitional and saving provisions[^key-163ff25a0f844a2274d46c670c5b9a0c]
+## 7. Revocation, transitional and saving provisions[^c-163ff25a0f844a2274d46c670c5b9a0c]
 
 (1) The 1974 Order is revoked so far as it applies to England but any application for, or any request for information as to, a certificate under section 17 which is outstanding at the coming into force of this Order shall have effect as if made and shall be dealt with under and in accordance with the provisions of this Order.
 
@@ -166,9 +166,9 @@ An Impact Assessment has not been prepared in relation to this Order as any impa
 
 [^f00002]: Footnote: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-499be3e4cc9573f490738acd3c2d6d8d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-499be3e4cc9573f490738acd3c2d6d8d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
 
-[^key-f0c6980134618d4235993c836ad37a64]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/634/article/2) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-f0c6980134618d4235993c836ad37a64]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2012/634/article/2) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
 
 [^f00003]: Footnote: [S.I. 1974/539](https://www.legislation.gov.uk/uksi/1974/539); amended by [S.I. 1986/435](https://www.legislation.gov.uk/uksi/1986/435).
 
@@ -178,18 +178,18 @@ An Impact Assessment has not been prepared in relation to this Order as any impa
 
 [^f00006]: Footnote: Sections 17 and 18 will be substituted by section 232(3) of the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) on a date to be appointed.
 
-[^key-e02ba13459b73d7dbd71fe5d9bae309a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/634/article/3) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-e02ba13459b73d7dbd71fe5d9bae309a]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2012/634/article/3) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
 
-[^key-c2e26870a055f590f2ab32899157c28e]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2012/634/article/3/3) substituted (31.1.2025) by [The Compulsory Purchase of Land (Vesting Declarations and Land Compensation Development Order) (England) (Amendment) Regulations 2024 (S.I. 2024/477)](https://www.legislation.gov.uk/uksi/2024/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/477/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/477/regulation/3/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2024/477/regulation/4/2))
+[^c-c2e26870a055f590f2ab32899157c28e]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/uksi/2012/634/article/3/3) substituted (31.1.2025) by [The Compulsory Purchase of Land (Vesting Declarations and Land Compensation Development Order) (England) (Amendment) Regulations 2024 (S.I. 2024/477)](https://www.legislation.gov.uk/uksi/2024/477), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/477/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2024/477/regulation/3/2) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2024/477/regulation/4/2))
 
-[^key-0f6e7717e8888a8896e96e17be0bd418]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/634/article/4) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-0f6e7717e8888a8896e96e17be0bd418]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2012/634/article/4) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
 
 [^f00007]: Footnote: Inserted by the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), section 31(2).
 
 [^f00008]: Footnote: [S.I. 2008/580](https://www.legislation.gov.uk/uksi/2008/580); amended by [S.I. 2011/550](https://www.legislation.gov.uk/uksi/2011/550).
 
-[^key-41779977ed6637224d6bfd9c8a3ce414]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/634/article/5) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-41779977ed6637224d6bfd9c8a3ce414]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/634/article/5) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
 
-[^key-31613177f67f993c0dc92a7c91840392]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/634/article/6) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-31613177f67f993c0dc92a7c91840392]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2012/634/article/6) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
 
-[^key-163ff25a0f844a2274d46c670c5b9a0c]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/634/article/7) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)
+[^c-163ff25a0f844a2274d46c670c5b9a0c]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2012/634/article/7) in force at 6.4.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/634/article/1)

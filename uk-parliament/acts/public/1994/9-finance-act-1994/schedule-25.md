@@ -59,7 +59,7 @@ Section 253.
 
 (2) The disposal of the asset by the Holding Company shall be taken for the purposes of corporation tax on chargeable gains to be effected for a consideration of such amount as would secure that on the disposal neither a gain nor a loss would accrue to the Holding company.
 
-(3)[^key-f3eb41a29040a53b4385f04103631b8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f3eb41a29040a53b4385f04103631b8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Leasehold interests in industrial buildings or structures
 
@@ -105,7 +105,7 @@ Section 253.
 
 [^c14462501]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).
 
-[^key-f3eb41a29040a53b4385f04103631b8e]: Textual amendment: Sch. 25 para. 4(3) omitted (21.7.2008 with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(b)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/b/ii)
+[^c-f3eb41a29040a53b4385f04103631b8e]: Textual amendment: Sch. 25 para. 4(3) omitted (21.7.2008 with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(b)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/b/ii)
 
 [^c14462521]: Textual amendment: Words in Sch. 25 para. 5(2) substituted (22.3.2001 with effect as mentioned in [s. 579(1)](https://www.legislation.gov.uk/ukpga/2001/2/section/579/1) of the amending Act) by [2001 c. 2](https://www.legislation.gov.uk/ukpga/2001/2), [ss. 578](https://www.legislation.gov.uk/ukpga/2001/2/section/578), [579](https://www.legislation.gov.uk/ukpga/2001/2/section/579), [Sch. 2 para. 92(1)](https://www.legislation.gov.uk/ukpga/2001/2/schedule/2/paragraph/92/1)
 

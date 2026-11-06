@@ -22,9 +22,9 @@ summary: ''
 
 (1) This Part does not apply to an oil licence or an interest in an oil licence.
 
-(1A)[^key-68dca21f0730dee9b4025474f5daa565] The reference in subsection (1) to an oil licence or an interest in an oil licence includes all goodwill, and any intangible asset, which relates to, derives from or is connected with an oil licence or an interest in an oil licence.
+(1A)[^c-68dca21f0730dee9b4025474f5daa565] The reference in subsection (1) to an oil licence or an interest in an oil licence includes all goodwill, and any intangible asset, which relates to, derives from or is connected with an oil licence or an interest in an oil licence.
 
-(2) In this section[^key-1386977c1d87e1ea42005001226dffff] “**oil licence**” means a UK oil licence or a foreign oil concession.
+(2) In this section[^c-1386977c1d87e1ea42005001226dffff] “**oil licence**” means a UK oil licence or a foreign oil concession.
 
 (3) In this section—
 
@@ -37,7 +37,7 @@ summary: ''
   - (a) is a right to search for or win oil that exists in its natural condition in a place to which neither the 1998 Act nor the 1964 Act applies, and
   - (b) is conferred or exercisable (whether or not under a licence) in relation to a particular area.
 
-(4) In this section[^key-6803cc9901dd312eda01e25a6efb3d50] “**interest in an oil licence**” includes any entitlement under an agreement to, or to a share of, oil or the proceeds of its sale if the agreement—
+(4) In this section[^c-6803cc9901dd312eda01e25a6efb3d50] “**interest in an oil licence**” includes any entitlement under an agreement to, or to a share of, oil or the proceeds of its sale if the agreement—
 
 - (a) relates to oil from the whole or a part of the licensed area, and
 - (b) was made before the extraction of the oil to which it relates.
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-68dca21f0730dee9b4025474f5daa565]: Textual amendment: S. 809(1A) inserted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/2)
+[^c-68dca21f0730dee9b4025474f5daa565]: Textual amendment: S. 809(1A) inserted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/2)
 
-[^key-1386977c1d87e1ea42005001226dffff]: Textual amendment: Words in s. 809(2) substituted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/3)
+[^c-1386977c1d87e1ea42005001226dffff]: Textual amendment: Words in s. 809(2) substituted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/3)
 
-[^key-6803cc9901dd312eda01e25a6efb3d50]: Textual amendment: Words in s. 809(4) substituted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/4)
+[^c-6803cc9901dd312eda01e25a6efb3d50]: Textual amendment: Words in s. 809(4) substituted (19.7.2011) (with effect in accordance with s. 62(5)(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 62(4)](https://www.legislation.gov.uk/ukpga/2011/11/section/62/4)

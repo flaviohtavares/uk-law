@@ -25,7 +25,7 @@ summary: ''
 - (a) at the time of the disposition in question, or
 - (b) at the time of any contract for the disposition in question.
 
-(2) Subject to subsection (2A), the[^key-299e7e81a41e57ec983ee47828e73076] persons are—
+(2) Subject to subsection (2A), the[^c-299e7e81a41e57ec983ee47828e73076] persons are—
 
 - (a) a charity trustee or trustee for the charity,
 - (b) a person who is the donor of any land to the charity (whether the gift was made on or after the establishment of the charity),
@@ -40,7 +40,7 @@ summary: ''
   - (i) any connected person falling within any of paragraphs (a) to (g) has a substantial interest, or
   - (ii) two or more such persons, taken together, have a substantial interest.
 
-(2A)[^key-0e457b81c39e0127542278179cdcee18] A person who is an employee of the charity does not fall within subsection (2)(d) if the disposition in question is the grant of a tenancy—
+(2A)[^c-0e457b81c39e0127542278179cdcee18] A person who is an employee of the charity does not fall within subsection (2)(d) if the disposition in question is the grant of a tenancy—
 
 - (a) for a fixed term of one year or less or which is a periodic tenancy and the period is one year or less, and
 - (b) which confers the right to occupy a dwelling as a home.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-299e7e81a41e57ec983ee47828e73076]: Textual amendment: Words in [s. 118(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/118/2) substituted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/28); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(l)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/l)
+[^c-299e7e81a41e57ec983ee47828e73076]: Textual amendment: Words in [s. 118(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/118/2) substituted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2022/6/schedule/2/paragraph/28); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 20(l)](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/20/l)
 
-[^key-0e457b81c39e0127542278179cdcee18]: Textual amendment: [S. 118(2A)](https://www.legislation.gov.uk/ukpga/2011/25/section/118/2A) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2022/6/section/22), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/11)
+[^c-0e457b81c39e0127542278179cdcee18]: Textual amendment: [S. 118(2A)](https://www.legislation.gov.uk/ukpga/2011/25/section/118/2A) inserted (14.6.2023) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2022/6/section/22), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Restriction on concurrent proceedings and remedies[^key-c54a9ed6b009808a68e9595b9c1d73e8]
+## 134. Restriction on concurrent proceedings and remedies[^c-c54a9ed6b009808a68e9595b9c1d73e8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in energy administration proceedings the court makes an order staying any 
 
 ## Annotations
 
-[^key-c54a9ed6b009808a68e9595b9c1d73e8]: Commencement: Rule 134 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c54a9ed6b009808a68e9595b9c1d73e8]: Commencement: Rule 134 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

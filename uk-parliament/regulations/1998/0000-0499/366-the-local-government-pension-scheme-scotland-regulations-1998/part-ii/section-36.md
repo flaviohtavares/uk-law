@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Revaluation of guaranteed minimum[^key-41e658ae3e297164160d18d2b8f18342]
+## 36. Revaluation of guaranteed minimum[^c-41e658ae3e297164160d18d2b8f18342]
 
 *Extent: E+W+S*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-41e658ae3e297164160d18d2b8f18342]: Commencement: Reg. 36 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-41e658ae3e297164160d18d2b8f18342]: Commencement: Reg. 36 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00018]: Footnote: [1975 c. 60](https://www.legislation.gov.uk/ukpga/1975/60); section 21 was repealed by the Social Security (Consequential Provisions) Act [1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), section 3(1) and Schedule 1.
 

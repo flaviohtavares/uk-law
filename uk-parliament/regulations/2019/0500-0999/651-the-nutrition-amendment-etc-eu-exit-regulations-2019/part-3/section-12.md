@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Amendment of the Food Supplements (England) Regulations 2003[^key-cde240641b932323ae84f2728b371b63]
+## 12. Amendment of the Food Supplements (England) Regulations 2003[^c-cde240641b932323ae84f2728b371b63]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cde240641b932323ae84f2728b371b63]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cde240641b932323ae84f2728b371b63]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668651]: Marginal citation: [S.I. 2003/1387](https://www.legislation.gov.uk/uksi/2003/1387) relevant amending instruments are [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626), 2009/3251 and 2014/1855.
 

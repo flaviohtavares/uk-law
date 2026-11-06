@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Notice of intention to slaughter animals[^key-8494c18061aa60916592d3a01eb0c268]
+## 21. Notice of intention to slaughter animals[^c-8494c18061aa60916592d3a01eb0c268]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8494c18061aa60916592d3a01eb0c268]: Commencement: Reg. 21 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-8494c18061aa60916592d3a01eb0c268]: Commencement: Reg. 21 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

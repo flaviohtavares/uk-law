@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Operation of retail market: charges etc[^key-f4edec5d6691017b7d6819e3c1d5ea4d]
+## 47. Operation of retail market: charges etc[^c-f4edec5d6691017b7d6819e3c1d5ea4d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4edec5d6691017b7d6819e3c1d5ea4d]: Commencement: S. 47 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/vi) (with art. 5)
+[^c-f4edec5d6691017b7d6819e3c1d5ea4d]: Commencement: S. 47 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/vi) (with art. 5)

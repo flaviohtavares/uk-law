@@ -85,7 +85,7 @@ Where any enactment in this Act provides for an appeal to a petty sessional cour
 
 ### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c645724]
 
-### 10. Crown rights.[^key-3570050a723fea039a5c352d1466a4ea]
+### 10. Crown rights.[^c-3570050a723fea039a5c352d1466a4ea]
 
 Without prejudice to the generality of the provisions of section twelve of the [^c645729]Public Health Acts Amendment Act 1907, nothing in this Act shall affect . . . [^c645730] any electronic communications apparatus kept installed for the purposes of an electronic communications code network[^c645731] or the execution for those purposes of any works. . ..
 
@@ -97,7 +97,7 @@ Without prejudice to the generality of the provisions of section twelve of the [
 
 #### 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c645734]
 
-#### 14. Public drinking fountains, seats, &c. in streets.[^c645736][^key-c3cfbfe32562dcd0da12792c8019c655][^key-8e8dcad56e4562b92637341f0746b740][^c645735]
+#### 14. Public drinking fountains, seats, &c. in streets.[^c645736][^c-c3cfbfe32562dcd0da12792c8019c655][^c-8e8dcad56e4562b92637341f0746b740][^c645735]
 
 The local authority and any person with their consent and subject to such conditions as they may impose may, in proper and convenient situations in any street or public place, erect and maintain seats and drinking fountains for the use of the public and troughs for watering horses or cattle.
 
@@ -136,7 +136,7 @@ and any person acting in contravention of this provision shall be liable to a pe
 
 (4) Any person aggrieved by the intended order of the local authority may, within twenty-one days after the posting of the notice, appeal to a petty sessional court.
 
-(4A)[^key-0ec6295a37e5b476424151613553a1ee] In its application in relation to a street, or part of a street, in England, this section applies as if, in subsection (1), the words “may alter the name of any street, or part of a street, or” were omitted.
+(4A)[^c-0ec6295a37e5b476424151613553a1ee] In its application in relation to a street, or part of a street, in England, this section applies as if, in subsection (1), the words “may alter the name of any street, or part of a street, or” were omitted.
 
 See section 81 of the Levelling-up and Regeneration Act 2023 for provision about altering street names in England.
 
@@ -311,7 +311,7 @@ SCHEDULES
 
 [^c645724]: Textual amendment: [Ss. 9](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/9), [11](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/11), [12](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/12) repealed by [Public Health Act 1936 (c. 49)](https://www.legislation.gov.uk/ukpga/1936/49), [s. 346](https://www.legislation.gov.uk/ukpga/1936/49/section/346), [Sch. 3](https://www.legislation.gov.uk/ukpga/1936/49/schedule/3), [Pt. IV](https://www.legislation.gov.uk/ukpga/1936/49/part/IV)
 
-[^key-3570050a723fea039a5c352d1466a4ea]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/10) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/4) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by S.I. 2003/3142, art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-3570050a723fea039a5c352d1466a4ea]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/10) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/4) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Schs. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by S.I. 2003/3142, art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c645729]: Marginal citation: [1907 c. 53](https://www.legislation.gov.uk/ukpga/1907/53).
 
@@ -327,9 +327,9 @@ SCHEDULES
 
     S. 14: functions of a local highway authority made exercisable by, or by employees of, such person as may be authorised in that behalf by the local highway authority whose function it is (23.7.1999) by [S.I. 1999/2106](https://www.legislation.gov.uk/uksi/1999/2106), [art. 2](https://www.legislation.gov.uk/uksi/1999/2106/article/2), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1999/2106/schedule/3/paragraph/2)
 
-[^key-c3cfbfe32562dcd0da12792c8019c655]: Modification: S. 14: functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/2)
+[^c-c3cfbfe32562dcd0da12792c8019c655]: Modification: S. 14: functions made exercisable as specified (24.3.2009) by [The Contracting Out (Highway Functions) Order 2009 (S.I. 2009/721)](https://www.legislation.gov.uk/uksi/2009/721), [arts. 1](https://www.legislation.gov.uk/uksi/2009/721/article/1), [3](https://www.legislation.gov.uk/uksi/2009/721/article/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2009/721/schedule/3/paragraph/2)
 
-[^key-8e8dcad56e4562b92637341f0746b740]: Modification: S. 14: functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/2)
+[^c-8e8dcad56e4562b92637341f0746b740]: Modification: S. 14: functions made exercisable as specified (E.) (1.4.2015) by [The Delegation of Functions (Strategic Highways Companies) (England) Regulations 2015 (S.I. 2015/378)](https://www.legislation.gov.uk/uksi/2015/378), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/378/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/378/regulation/3), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2015/378/schedule/3/paragraph/2)
 
 [^c645735]: Modification: S. 14 amended by [Trunk Roads Act 1936 (1 Edw. 8 & 1 Geo. 6 c. 5)](https://www.legislation.gov.uk/ukpga/Edw8&1Geo6/1/5), [s. 3(2)](https://www.legislation.gov.uk/ukpga/Edw8&1Geo6/1/5/section/3/2), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/Edw8&1Geo6/1/5/schedule/3/part/III) and [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 14 Pt. II para. 28](https://www.legislation.gov.uk/ukpga/1972/70/schedule/14/part/II/paragraph/28): modified by [S.I. 1973/686](https://www.legislation.gov.uk/uksi/1973/686), [art. 3(1)](https://www.legislation.gov.uk/uksi/1973/686/article/3/1), [Sch. 3](https://www.legislation.gov.uk/uksi/1973/686/schedule/3)
 
@@ -355,7 +355,7 @@ SCHEDULES
 
 [^c645746]: Modification: Power to extend or exclude section 18 conferred by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 14 Pt. II para. 25](https://www.legislation.gov.uk/ukpga/1972/70/schedule/14/part/II/paragraph/25)
 
-[^key-0ec6295a37e5b476424151613553a1ee]: Textual amendment: [S. 18(4A)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/18/4A) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/5/paragraph/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/p)
+[^c-0ec6295a37e5b476424151613553a1ee]: Textual amendment: [S. 18(4A)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/18/4A) inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(r)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/r), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/5/paragraph/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/p)
 
 [^c645748]: Textual amendment: [Ss. 16(2)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/16/2), [18(5)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/18/5), [19(3)](https://www.legislation.gov.uk/ukpga/Geo5/15-16/71/section/19/3) repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 

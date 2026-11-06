@@ -22,7 +22,7 @@ summary: ''
 
 Section 73
 
-### 1. UK arrangements[^key-54d8e9e9b4f1251684fe1184b0e49f37][^key-48dc0d500bbfd2a0b57f7126e666b306]
+### 1. UK arrangements[^c-54d8e9e9b4f1251684fe1184b0e49f37][^c-48dc0d500bbfd2a0b57f7126e666b306]
 
 (1) Sections 65(4) and 69(3) (requirements to register foreign activity arrangements and foreign influence arrangements) do not apply to foreign activity arrangements or foreign influence arrangements that are UK arrangements.
 
@@ -36,7 +36,7 @@ Section 73
 - (a) the United Kingdom is a party, or
 - (b) any person acting for or on behalf of, or holding office under, the Crown is (in that capacity) a party.
 
-### 2. Foreign powers[^key-7c788dba70de41d0c000cf670a1712ce][^key-43f3d751923700dd7642cbe65e06a571]
+### 2. Foreign powers[^c-7c788dba70de41d0c000cf670a1712ce][^c-43f3d751923700dd7642cbe65e06a571]
 
 The following provisions do not apply to a foreign power—
 
@@ -46,7 +46,7 @@ The following provisions do not apply to a foreign power—
 - (d) section 71(2) or (3) (offence of carrying out activities under unregistered foreign influence arrangement);
 - (e) section 78(1) and (2) (offences of carrying out activities tainted by false information).
 
-### 3. Diplomatic missions etc[^key-d165cb63dc509a15225719a4ee6f241f][^key-9fdd7675efb54f8d801391aef3667609]
+### 3. Diplomatic missions etc[^c-d165cb63dc509a15225719a4ee6f241f][^c-9fdd7675efb54f8d801391aef3667609]
 
 (1) Section 65(4) (requirement to register foreign activity arrangements) does not apply to the extent that the foreign activity arrangement relates to the provision of goods or services which are reasonably necessary to support the efficient functioning of—
 
@@ -80,7 +80,7 @@ The following provisions do not apply to a foreign power—
 - “**diplomatic mission**” is to be read in accordance with the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961;
 - “**UK-based international organisation**” means an international organisation which has its headquarters in the United Kingdom and on which privileges and immunities have been conferred under section 1 of the International Organisations Act 1968.
 
-### 4. Recognised news publishers[^key-e91ec267c75a517ab8bfd15b7d394dd1][^key-20766f4f906df599a6b129eff7ab1775]
+### 4. Recognised news publishers[^c-e91ec267c75a517ab8bfd15b7d394dd1][^c-20766f4f906df599a6b129eff7ab1775]
 
 (1) The following provisions do not apply to a recognised news publisher—
 
@@ -98,7 +98,7 @@ The following provisions do not apply to a foreign power—
 
 (4) In this paragraph “**news-related material**”, “**publish**”, and “**recognised news publisher**” have the meaning given by paragraph 5.
 
-**5.**[^key-6d65d6c46cf57a101b513bc08f4f5d3a][^key-324393279a92f738d8bb6af8e243a6b4][^key-20766f4f906df599a6b129eff7ab1775] (1) In paragraph 4, “**recognised news publisher**” means any of the following entities—
+**5.**[^c-6d65d6c46cf57a101b513bc08f4f5d3a][^c-324393279a92f738d8bb6af8e243a6b4][^c-20766f4f906df599a6b129eff7ab1775] (1) In paragraph 4, “**recognised news publisher**” means any of the following entities—
 
 - (a) the British Broadcasting Corporation,
 - (b) Sianel Pedwar Cymru,
@@ -148,7 +148,7 @@ The following provisions do not apply to a foreign power—
   - (a) a code of standards that regulates the conduct of publishers, that is published by an independent regulator, or
   - (b) a code of standards that regulates the conduct of the entity in question, that is published by the entity itself.
 
-### 6. Legal activities[^key-dce61d4d0fe862357686a525ebe80b87][^key-6a9b2489793694f0c8d75db6aca42147]
+### 6. Legal activities[^c-dce61d4d0fe862357686a525ebe80b87][^c-6a9b2489793694f0c8d75db6aca42147]
 
 (1) Sections 65(4) and 69(3) (requirements to register foreign activity arrangements and foreign influence arrangements) do not apply in relation to a foreign activity arrangement or a foreign influence arrangement to the extent that the arrangement relates to the carrying on of a legal activity by a lawyer.
 
@@ -171,7 +171,7 @@ The following provisions do not apply to a foreign power—
 - (c) in Scotland, the provision of legal services within the meaning of section 3 of the [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), or
 - (d) acting as an arbitrator or mediator.
 
-### 7. Employees etc[^key-c2e24a94094dc41f4219aca5490bfd03][^key-16914ef7d3214c327b4ade658a0632be]
+### 7. Employees etc[^c-c2e24a94094dc41f4219aca5490bfd03][^c-16914ef7d3214c327b4ade658a0632be]
 
 (1) Where an exemption is conferred on a person (“**P**”) by this Schedule, the following are also exempt (subject to sub-paragraph (2))—
 
@@ -189,40 +189,40 @@ The following provisions do not apply to a foreign power—
 - (a) a misrepresentation as to the person’s identity or purpose;
 - (b) presenting information in a way which amounts to a misrepresentation, even if some or all of the information is true.
 
-### 8. Power to provide for further exemptions[^key-644ede61f5e75ab54b86d2f7e52be725][^key-645e02fcfcd845b8e2325d39c2681952]
+### 8. Power to provide for further exemptions[^c-644ede61f5e75ab54b86d2f7e52be725][^c-645e02fcfcd845b8e2325d39c2681952]
 
 The Secretary of State may by regulations make provision for further cases to which any provision of this Part does not apply.
 
 ## Annotations
 
-[^key-54d8e9e9b4f1251684fe1184b0e49f37]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see 100(1)
+[^c-54d8e9e9b4f1251684fe1184b0e49f37]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see 100(1)
 
-[^key-48dc0d500bbfd2a0b57f7126e666b306]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/1) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-48dc0d500bbfd2a0b57f7126e666b306]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/1) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-7c788dba70de41d0c000cf670a1712ce]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see 100(1)
+[^c-7c788dba70de41d0c000cf670a1712ce]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see 100(1)
 
-[^key-43f3d751923700dd7642cbe65e06a571]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/2) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-43f3d751923700dd7642cbe65e06a571]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/2) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-d165cb63dc509a15225719a4ee6f241f]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see 100(1)
+[^c-d165cb63dc509a15225719a4ee6f241f]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see 100(1)
 
-[^key-9fdd7675efb54f8d801391aef3667609]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/3) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-9fdd7675efb54f8d801391aef3667609]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/3) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-e91ec267c75a517ab8bfd15b7d394dd1]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see 100(1)
+[^c-e91ec267c75a517ab8bfd15b7d394dd1]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see 100(1)
 
-[^key-20766f4f906df599a6b129eff7ab1775]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/4) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-20766f4f906df599a6b129eff7ab1775]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/4) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-6d65d6c46cf57a101b513bc08f4f5d3a]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see 100(1)
+[^c-6d65d6c46cf57a101b513bc08f4f5d3a]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see 100(1)
 
-[^key-324393279a92f738d8bb6af8e243a6b4]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/5) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-324393279a92f738d8bb6af8e243a6b4]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/5) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-dce61d4d0fe862357686a525ebe80b87]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see 100(1)
+[^c-dce61d4d0fe862357686a525ebe80b87]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see 100(1)
 
-[^key-6a9b2489793694f0c8d75db6aca42147]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/6) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-6a9b2489793694f0c8d75db6aca42147]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/6) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-c2e24a94094dc41f4219aca5490bfd03]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see 100(1)
+[^c-c2e24a94094dc41f4219aca5490bfd03]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see 100(1)
 
-[^key-16914ef7d3214c327b4ade658a0632be]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/7) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-16914ef7d3214c327b4ade658a0632be]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/7) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
 
-[^key-644ede61f5e75ab54b86d2f7e52be725]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see 100(1)
+[^c-644ede61f5e75ab54b86d2f7e52be725]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see 100(1)
 
-[^key-645e02fcfcd845b8e2325d39c2681952]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/8) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-645e02fcfcd845b8e2325d39c2681952]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2023/32/schedule/15/paragraph/8) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

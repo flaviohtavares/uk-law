@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Application of regulations 11 to 20[^key-225949569c057161996227b3a4fcecff]
+## 11. Application of regulations 11 to 20[^c-225949569c057161996227b3a4fcecff]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations 11 to 20 apply where the adoption agency is considering adoption for
 
 ## Annotations
 
-[^key-225949569c057161996227b3a4fcecff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2005/1313/regulation/11) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-225949569c057161996227b3a4fcecff]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2005/1313/regulation/11) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

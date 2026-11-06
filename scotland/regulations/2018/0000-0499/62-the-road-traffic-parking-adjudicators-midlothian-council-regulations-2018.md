@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Road Traffic (Parking Adjudicators) (Midlothian Council) Regulations 2018 (revoked)[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+The Road Traffic (Parking Adjudicators) (Midlothian Council) Regulations 2018 (revoked)[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 Made
 
@@ -46,90 +46,90 @@ Coming into force
 
 2nd April 2018
 
-[^key-37c8237a1d1ae3bf5282c9177a872bb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37c8237a1d1ae3bf5282c9177a872bb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — Preliminary[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+## PART I — Preliminary[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
-### 1. Citation and commencement[^key-37c8237a1d1ae3bf5282c9177a872bb4]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 1. Citation and commencement[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — Procedure relating to Appeals[^key-37c8237a1d1ae3bf5282c9177a872bb4]
-
-### 3. Making an appeal[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 2. Interpretation[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Action upon receipt of notice of appeal and copy[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+## PART II — Procedure relating to Appeals[^c-37c8237a1d1ae3bf5282c9177a872bb4]
+
+### 3. Making an appeal[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Further representations[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 4. Action upon receipt of notice of appeal and copy[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Power to require attendance of witnesses[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 5. Further representations[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Disposing of an appeal without a hearing[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 6. Power to require attendance of witnesses[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Notice of time and place of hearing[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 7. Disposing of an appeal without a hearing[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Procedure at a hearing[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 8. Notice of time and place of hearing[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Decisions on appeals[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 9. Procedure at a hearing[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Review of adjudicator's decision[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 10. Decisions on appeals[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Expenses[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 11. Review of adjudicator's decision[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Conjoining of appeals[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 12. Expenses[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Miscellaneous powers of the adjudicator[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 13. Conjoining of appeals[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Clerical errors[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 14. Miscellaneous powers of the adjudicator[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Sending of documents[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 15. Clerical errors[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — The Register[^key-37c8237a1d1ae3bf5282c9177a872bb4]
-
-### 17. The Register[^key-37c8237a1d1ae3bf5282c9177a872bb4]
+### 16. Sending of documents[^c-37c8237a1d1ae3bf5282c9177a872bb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-37c8237a1d1ae3bf5282c9177a872bb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART III — The Register[^c-37c8237a1d1ae3bf5282c9177a872bb4]
+
+### 17. The Register[^c-37c8237a1d1ae3bf5282c9177a872bb4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-37c8237a1d1ae3bf5282c9177a872bb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-37c8237a1d1ae3bf5282c9177a872bb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-37c8237a1d1ae3bf5282c9177a872bb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-37c8237a1d1ae3bf5282c9177a872bb4]: Textual amendment: Regulations revoked (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 3 para. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/95/schedule/3/paragraph/1/1/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))
+[^c-37c8237a1d1ae3bf5282c9177a872bb4]: Textual amendment: Regulations revoked (1.4.2020) by [The First-tier Tribunal for Scotland (Transfer of Functions of Parking Adjudicators) Regulations 2020 (S.S.I. 2020/95)](https://www.legislation.gov.uk/ssi/2020/95), [reg. 1](https://www.legislation.gov.uk/ssi/2020/95/regulation/1), [sch. 3 para. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/95/schedule/3/paragraph/1/1/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2020/95/schedule/1))

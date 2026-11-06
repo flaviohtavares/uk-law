@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Power to amend Online Safety Act 2023: AI[^key-ea775df6d1a1a69504cdfc8edf20a2df]
+## 248. Power to amend Online Safety Act 2023: AI[^c-ea775df6d1a1a69504cdfc8edf20a2df]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,4 +115,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea775df6d1a1a69504cdfc8edf20a2df]: Commencement: S. 248 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)
+[^c-ea775df6d1a1a69504cdfc8edf20a2df]: Commencement: S. 248 in force at Royal Assent, see [s. 255(2)(k)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/k)

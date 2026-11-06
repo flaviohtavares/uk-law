@@ -31,7 +31,7 @@ summary: ''
 
 Housing, Wales
 
-The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (revoked)[^key-56d4fdca35df28b494e136e1513ec5bd]
+The Renting Homes (Fees etc.) (Wales) Act 2019 (Transitional Provision for Assured Shorthold Tenancies) Regulations 2019 (revoked)[^c-56d4fdca35df28b494e136e1513ec5bd]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 1st September 2019
 
-[^key-56d4fdca35df28b494e136e1513ec5bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56d4fdca35df28b494e136e1513ec5bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-56d4fdca35df28b494e136e1513ec5bd]
+## 1. Title and commencement[^c-56d4fdca35df28b494e136e1513ec5bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-56d4fdca35df28b494e136e1513ec5bd]
+## 2. Interpretation[^c-56d4fdca35df28b494e136e1513ec5bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of Parts 1 to 5 and 7 of the Act in respect of assured shorthold tenancies[^key-56d4fdca35df28b494e136e1513ec5bd]
+## 3. Application of Parts 1 to 5 and 7 of the Act in respect of assured shorthold tenancies[^c-56d4fdca35df28b494e136e1513ec5bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56d4fdca35df28b494e136e1513ec5bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56d4fdca35df28b494e136e1513ec5bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56d4fdca35df28b494e136e1513ec5bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56d4fdca35df28b494e136e1513ec5bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56d4fdca35df28b494e136e1513ec5bd]: Textual amendment: [Regulation](https://www.legislation.gov.uk/wsi/2019/1151) revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2)
+[^c-56d4fdca35df28b494e136e1513ec5bd]: Textual amendment: [Regulation](https://www.legislation.gov.uk/wsi/2019/1151) revoked (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/wsi/2022/907/schedule/2)

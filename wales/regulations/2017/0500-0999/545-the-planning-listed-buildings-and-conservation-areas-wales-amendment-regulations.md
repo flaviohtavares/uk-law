@@ -31,7 +31,7 @@ summary: ''
 
 Town And Country Planning, Wales
 
-The Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment) Regulations 2017 (revoked)[^key-1c89372e6c8014f631069ed8df3264b0]
+The Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment) Regulations 2017 (revoked)[^c-1c89372e6c8014f631069ed8df3264b0]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 5 May 2017
 
-[^key-1c89372e6c8014f631069ed8df3264b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c89372e6c8014f631069ed8df3264b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-1c89372e6c8014f631069ed8df3264b0]
+## 1. Title, commencement, application and interpretation[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2012 Regulations[^key-1c89372e6c8014f631069ed8df3264b0]
+## 2. Amendments to the 2012 Regulations[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-1c89372e6c8014f631069ed8df3264b0]
+## 3. Interpretation[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reference of applications to the Welsh Ministers[^key-1c89372e6c8014f631069ed8df3264b0]
+## 4. Reference of applications to the Welsh Ministers[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Appeals[^key-1c89372e6c8014f631069ed8df3264b0]
+## 5. Appeals[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Variation of applications after notice of appeal[^key-1c89372e6c8014f631069ed8df3264b0]
+## 6. Variation of applications after notice of appeal[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional and saving provisions[^key-1c89372e6c8014f631069ed8df3264b0]
+## 7. Transitional and saving provisions[^c-1c89372e6c8014f631069ed8df3264b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c89372e6c8014f631069ed8df3264b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c89372e6c8014f631069ed8df3264b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1c89372e6c8014f631069ed8df3264b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c89372e6c8014f631069ed8df3264b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1c89372e6c8014f631069ed8df3264b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/545) revoked (4.11.2024) by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 5 para. 1(d)](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1/d)
+[^c-1c89372e6c8014f631069ed8df3264b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2017/545) revoked (4.11.2024) by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/wsi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2), [Sch. 5 para. 1(d)](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1/d)

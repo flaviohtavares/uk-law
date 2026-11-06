@@ -37,19 +37,19 @@ Made
 
 The Treasury, in exercise of the powers conferred by section 126(1) of the Finance Act 1984[^f00001], section 265(1) of the Taxation of Chargeable Gains Act 1992[^f00002], section 73A(1) of the Finance Act 2004[^f00003], section 774(5) of the Income Tax (Trading and Other Income) Act 2005[^f00004] and section 979(1) of the Income Tax Act 2007[^f00005], make the following Order:
 
-## 1. Citation[^key-033c97b2a0af3c4182244eab1253d07c]
+## 1. Citation[^c-033c97b2a0af3c4182244eab1253d07c]
 
 This Order may be cited as the International Organisations (Tax Exemptions Designation) Order 2023.
 
-## 2. Designation of international organisations[^key-2a3793df8c35ea2f39516ee2037e61b3]
+## 2. Designation of international organisations[^c-2a3793df8c35ea2f39516ee2037e61b3]
 
-(1) The international organisations specified in paragraph (3)[^key-4582c03516a380cc9b5049aab7932dc8] are designated for the purposes of—
+(1) The international organisations specified in paragraph (3)[^c-4582c03516a380cc9b5049aab7932dc8] are designated for the purposes of—
 
 - (a) section 126 of the Finance Act 1984,
 - (b) section 265 of the Taxation of Chargeable Gains Act 1992, and
 - (c) section 774 of the Income Tax (Trading and Other Income) Act 2005.
 
-(2) The international organisations specified in paragraphs[^key-d53688742ea952e40ef0c9a82e19e10b] (3)(b) and (3)(c) are designated for the purposes of section 979 of the Income Tax Act 2007.
+(2) The international organisations specified in paragraphs[^c-d53688742ea952e40ef0c9a82e19e10b] (3)(b) and (3)(c) are designated for the purposes of section 979 of the Income Tax Act 2007.
 
 (3) The international organisations are—
 
@@ -101,13 +101,13 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00005]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3).
 
-[^key-033c97b2a0af3c4182244eab1253d07c]: Commencement: Art. 1 in force at made date
+[^c-033c97b2a0af3c4182244eab1253d07c]: Commencement: Art. 1 in force at made date
 
-[^key-2a3793df8c35ea2f39516ee2037e61b3]: Commencement: Art. 2 in force at made date
+[^c-2a3793df8c35ea2f39516ee2037e61b3]: Commencement: Art. 2 in force at made date
 
-[^key-4582c03516a380cc9b5049aab7932dc8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2023/348/article/2/1) substituted (4.7.2023) by [The International Organisations (Tax Exemptions Designation) (Amendment) Order 2023 (S.I. 2023/748)](https://www.legislation.gov.uk/uksi/2023/748), [art. 3](https://www.legislation.gov.uk/uksi/2023/748/article/3)
+[^c-4582c03516a380cc9b5049aab7932dc8]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2023/348/article/2/1) substituted (4.7.2023) by [The International Organisations (Tax Exemptions Designation) (Amendment) Order 2023 (S.I. 2023/748)](https://www.legislation.gov.uk/uksi/2023/748), [art. 3](https://www.legislation.gov.uk/uksi/2023/748/article/3)
 
-[^key-d53688742ea952e40ef0c9a82e19e10b]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/348/article/2/2) substituted (4.7.2023) by [The International Organisations (Tax Exemptions Designation) (Amendment) Order 2023 (S.I. 2023/748)](https://www.legislation.gov.uk/uksi/2023/748), [art. 4](https://www.legislation.gov.uk/uksi/2023/748/article/4)
+[^c-d53688742ea952e40ef0c9a82e19e10b]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/uksi/2023/348/article/2/2) substituted (4.7.2023) by [The International Organisations (Tax Exemptions Designation) (Amendment) Order 2023 (S.I. 2023/748)](https://www.legislation.gov.uk/uksi/2023/748), [art. 4](https://www.legislation.gov.uk/uksi/2023/748/article/4)
 
 [^f00006]: Footnote: Cmnd 4358.
 

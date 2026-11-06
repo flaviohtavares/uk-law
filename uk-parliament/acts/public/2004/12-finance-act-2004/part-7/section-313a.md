@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313A. Pre-disclosure enquiry[^key-d55edbf3b15092a769e2b956af40b89d]
+## 313A. Pre-disclosure enquiry[^c-d55edbf3b15092a769e2b956af40b89d]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where HMRC suspect that a person (P) is the promoter or introducer of a proposal, or the promoter of arrangements,[^key-16cf6d77b6cef328a970c2b216f8a9a2] which may be notifiable, they may by written notice require P to state—
+(1) Where HMRC suspect that a person (P) is the promoter or introducer of a proposal, or the promoter of arrangements,[^c-16cf6d77b6cef328a970c2b216f8a9a2] which may be notifiable, they may by written notice require P to state—
 
 - (a) whether in P's opinion the proposal or arrangements are notifiable by P, and
 - (b) if not, the reasons for P's opinion.
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d55edbf3b15092a769e2b956af40b89d]: Textual amendment: Ss. 313A, 313B inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/5) (with [s. 108(10)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/10))
+[^c-d55edbf3b15092a769e2b956af40b89d]: Textual amendment: Ss. 313A, 313B inserted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/5) (with [s. 108(10)](https://www.legislation.gov.uk/ukpga/2007/11/section/108/10))
 
-[^key-16cf6d77b6cef328a970c2b216f8a9a2]: Textual amendment: Words in s. 313A(1) substituted (1.1.2011) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2010/13/schedule/17/paragraph/4); [S.I. 2010/3019](https://www.legislation.gov.uk/uksi/2010/3019), [art. 2](https://www.legislation.gov.uk/uksi/2010/3019/article/2)
+[^c-16cf6d77b6cef328a970c2b216f8a9a2]: Textual amendment: Words in s. 313A(1) substituted (1.1.2011) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2010/13/schedule/17/paragraph/4); [S.I. 2010/3019](https://www.legislation.gov.uk/uksi/2010/3019), [art. 2](https://www.legislation.gov.uk/uksi/2010/3019/article/2)

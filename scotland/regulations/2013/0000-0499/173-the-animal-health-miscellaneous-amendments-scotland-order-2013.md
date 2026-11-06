@@ -156,7 +156,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (4) In Schedule 1 (forms), omit the Notes to Forms A, B, C and D.
 
-## 8. The Tuberculosis (Deer) Order 1989[^key-d02add5b658f65e626b3745b4353f685]
+## 8. The Tuberculosis (Deer) Order 1989[^c-d02add5b658f65e626b3745b4353f685]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -396,7 +396,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In article 2 (interpretation) of the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 [^c21800001], omit the definition of “the Chief Veterinary Officer (Scotland)”.
 
-## 22. The Tuberculosis (Scotland) Order 2007[^key-f012e08a0149f824e1e9b88362b9f827]
+## 22. The Tuberculosis (Scotland) Order 2007[^c-f012e08a0149f824e1e9b88362b9f827]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -484,7 +484,7 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 [^c21799861]: Marginal citation: [S.I. 1987/790](https://www.legislation.gov.uk/uksi/1987/790), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
 
-[^key-d02add5b658f65e626b3745b4353f685]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2013/173/article/8) omitted (9.10.2015) by virtue of [The Tuberculosis in Specified Animals (Scotland) Order 2015 (S.S.I. 2015/327)](https://www.legislation.gov.uk/ssi/2015/327), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1), [23(2)](https://www.legislation.gov.uk/ssi/2015/327/article/23/2)
+[^c-d02add5b658f65e626b3745b4353f685]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/ssi/2013/173/article/8) omitted (9.10.2015) by virtue of [The Tuberculosis in Specified Animals (Scotland) Order 2015 (S.S.I. 2015/327)](https://www.legislation.gov.uk/ssi/2015/327), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/327/article/1/1), [23(2)](https://www.legislation.gov.uk/ssi/2015/327/article/23/2)
 
 [^c21799881]: Marginal citation: [S.I. 1991/2814](https://www.legislation.gov.uk/uksi/1991/2814), amended by [S.I. 1995/2922](https://www.legislation.gov.uk/uksi/1995/2922).
 
@@ -516,7 +516,7 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 [^c21800001]: Marginal citation: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62), to which there are amendments not relevant to this Order.
 
-[^key-f012e08a0149f824e1e9b88362b9f827]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/ssi/2013/173/article/22) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
+[^c-f012e08a0149f824e1e9b88362b9f827]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/ssi/2013/173/article/22) revoked (18.5.2023) by [The Tuberculosis (Scotland) Order 2023 (S.S.I. 2023/93)](https://www.legislation.gov.uk/ssi/2023/93), [art. 1(1)](https://www.legislation.gov.uk/ssi/2023/93/article/1/1), [sch.](https://www.legislation.gov.uk/ssi/2023/93/schedule)
 
 [^c21800021]: Marginal citation: [S.S.I. 2007/387](https://www.legislation.gov.uk/ssi/2007/387), relevantly amended by [S.S.I. 2007/400](https://www.legislation.gov.uk/ssi/2007/400) and 423.
 

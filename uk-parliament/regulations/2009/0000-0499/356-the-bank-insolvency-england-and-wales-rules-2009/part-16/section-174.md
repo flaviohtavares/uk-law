@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 174. Litigation expenses and property subject to a floating charge–grant of approval or authorisation[^key-a3bb6b2d2ca3b73895cc55f1f799cd3f]
+## 174. Litigation expenses and property subject to a floating charge–grant of approval or authorisation[^c-a3bb6b2d2ca3b73895cc55f1f799cd3f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.218D of the 1986 Rules.
 
 ## Annotations
 
-[^key-a3bb6b2d2ca3b73895cc55f1f799cd3f]: Commencement: Rule 174 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-a3bb6b2d2ca3b73895cc55f1f799cd3f]: Commencement: Rule 174 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

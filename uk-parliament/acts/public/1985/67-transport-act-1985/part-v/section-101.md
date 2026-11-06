@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Enforcement of participation in travel concession schemes.[^c19483041][^c10881571][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 101. Enforcement of participation in travel concession schemes.[^c19483041][^c10881571][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
     Ss. 93-101 applied (S.) (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 54(1)](https://www.legislation.gov.uk/asp/2006/7/section/54/1) (with [s. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)

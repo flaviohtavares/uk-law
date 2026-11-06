@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Additions to the list of tribunals in Schedule 6[^key-5467cf3836ea4a09261a4d0d3ec780dd]
+## 2. Additions to the list of tribunals in Schedule 6[^c-5467cf3836ea4a09261a4d0d3ec780dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In Part 4 of Schedule 6 to the Tribunals, Courts and Enforcement Act 2007 (tribu
 
 ## Annotations
 
-[^key-5467cf3836ea4a09261a4d0d3ec780dd]: Commencement: Art. 2 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-5467cf3836ea4a09261a4d0d3ec780dd]: Commencement: Art. 2 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)

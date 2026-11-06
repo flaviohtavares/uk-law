@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, ENGLAND
 
-The Landfill Allowances and Trading Scheme (England)(Amendment) Regulations 2005 (revoked)[^key-6b97c92f867c16d5db3d8c529dd6860c]
+The Landfill Allowances and Trading Scheme (England)(Amendment) Regulations 2005 (revoked)[^c-6b97c92f867c16d5db3d8c529dd6860c]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 9th May 2005
 
-[^key-6b97c92f867c16d5db3d8c529dd6860c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b97c92f867c16d5db3d8c529dd6860c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6b97c92f867c16d5db3d8c529dd6860c]
+## 1. Citation and commencement[^c-6b97c92f867c16d5db3d8c529dd6860c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Landfill Allowances and Trading Scheme (England) Regulations 2004[^key-6b97c92f867c16d5db3d8c529dd6860c]
+## 2. Amendments to the Landfill Allowances and Trading Scheme (England) Regulations 2004[^c-6b97c92f867c16d5db3d8c529dd6860c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b97c92f867c16d5db3d8c529dd6860c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b97c92f867c16d5db3d8c529dd6860c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b97c92f867c16d5db3d8c529dd6860c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b97c92f867c16d5db3d8c529dd6860c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b97c92f867c16d5db3d8c529dd6860c]: Textual amendment: Regulations revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
+[^c-6b97c92f867c16d5db3d8c529dd6860c]: Textual amendment: Regulations revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))

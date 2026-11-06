@@ -46,18 +46,18 @@ The Tribunal Procedure Committee has made the following Rules in exercise of the
 
 The Lord Chancellor has allowed the Rules in accordance with paragraph 28(3) of that Schedule.
 
-## 1. Citation and commencement[^key-d1eb1fb6da60cb943b364e9816223758]
+## 1. Citation and commencement[^c-d1eb1fb6da60cb943b364e9816223758]
 
 These Rules may be cited as the Tribunal Procedure (Amendment No. 2) Rules 2012 and come into force—
 
 - (a) for the purposes of rules 2 and 3, on 1st September 2012;
 - (b) for all other purposes, on 1st July 2012.
 
-## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008[^key-9d25abce826e72a31a19805a01f21a28]
+## 2. Amendments to the Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008[^c-9d25abce826e72a31a19805a01f21a28]
 
 The Tribunal Procedure (First-tier Tribunal) (Health, Education and Social Care Chamber) Rules 2008[^f00002] are amended as follows.
 
-## 3.[^key-1952e165268f1e8185b007875bbe48ea]
+## 3.[^c-1952e165268f1e8185b007875bbe48ea]
 
 In paragraph (1) of rule 21 (the response)—
 
@@ -68,11 +68,11 @@ In paragraph (1) of rule 21 (the response)—
 
   .
 
-## 4. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^key-12d3e0266a85f312c55a6054f9cb4450]
+## 4. Amendments to the Tribunal Procedure (Upper Tribunal) Rules 2008[^c-12d3e0266a85f312c55a6054f9cb4450]
 
 The Tribunal Procedure (Upper Tribunal) Rules 2008[^f00003] are amended as follows.
 
-## 5.[^key-4c86bbfaac2adf62a69f5d6163f962ac]
+## 5.[^c-4c86bbfaac2adf62a69f5d6163f962ac]
 
 In paragraph (3) of rule 1 (interpretation etc)—
 
@@ -92,14 +92,14 @@ In paragraph (3) of rule 1 (interpretation etc)—
 
   .
 
-## 6.[^key-2435a92abf5063ca0a40bd4596956acf]
+## 6.[^c-2435a92abf5063ca0a40bd4596956acf]
 
 In paragraph (3) of rule 20A (procedure for applying for a stay of a decision pending an appeal)[^f00007]—
 
 - (a) in the first line, for “for a stay of a decision of a traffic commissioner” substitute “in a road transport case”;
 - (b) for each reference to “traffic commissioner” in sub-paragraphs (a) and (b), substitute “decision maker”.
 
-## 7.[^key-6f9917013da661565fa0a6ec18f12c77]
+## 7.[^c-6f9917013da661565fa0a6ec18f12c77]
 
 In paragraph (6) of rule 23 (notice of appeal), for sub-paragraph (b) substitute—
 
@@ -110,11 +110,11 @@ In paragraph (6) of rule 23 (notice of appeal), for sub-paragraph (b) substitute
 
 .
 
-## 8.[^key-5fc078204a3e874537237e1866cbb735]
+## 8.[^c-5fc078204a3e874537237e1866cbb735]
 
 In paragraph (1) of rule 24 (response to the notice of appeal), for “an appeal against a decision of a traffic commissioner” substitute “a road transport case”.
 
-## 9.[^key-57ac45fb3b1ab8241a60213643f2871b]
+## 9.[^c-57ac45fb3b1ab8241a60213643f2871b]
 
 In Schedule 1 (procedure after the notice of appeal in appeals against decisions of traffic commissioners)—
 
@@ -132,7 +132,7 @@ In Schedule 1 (procedure after the notice of appeal in appeals against decisions
   ;
 - (e) in paragraph 4—
   - (i) in sub-paragraph (b)—
-    - (aa)[^key-3f8cce004df5df097fb41b8686d18eff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (aa)[^c-3f8cce004df5df097fb41b8686d18eff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (bb) at the end of that sub-paragraph omit “and”;
   - (ii) after sub-paragraph (c), insert—
 
@@ -187,19 +187,19 @@ Amendments are also being made for the purposes of appeals against decisions of 
 
 [^f00001]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15)
 
-[^key-d1eb1fb6da60cb943b364e9816223758]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2012/1363/rule/1) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-d1eb1fb6da60cb943b364e9816223758]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2012/1363/rule/1) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
-[^key-9d25abce826e72a31a19805a01f21a28]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2012/1363/rule/2) in force at 1.9.2012, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/a)
+[^c-9d25abce826e72a31a19805a01f21a28]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2012/1363/rule/2) in force at 1.9.2012, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/a)
 
 [^f00002]: Footnote: [S.I. 2008/2699](https://www.legislation.gov.uk/uksi/2008/2699). Amendments have been made by [S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975), [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43), [S.I. 2010/2653](https://www.legislation.gov.uk/uksi/2010/2653), [S.I. 2011/651](https://www.legislation.gov.uk/uksi/2011/651) and [S.I. 2011/500](https://www.legislation.gov.uk/uksi/2011/500).
 
-[^key-1952e165268f1e8185b007875bbe48ea]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2012/1363/rule/3) in force at 1.9.2012, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/a)
+[^c-1952e165268f1e8185b007875bbe48ea]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2012/1363/rule/3) in force at 1.9.2012, see [rule 1(a)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/a)
 
-[^key-12d3e0266a85f312c55a6054f9cb4450]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2012/1363/rule/4) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-12d3e0266a85f312c55a6054f9cb4450]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2012/1363/rule/4) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
 [^f00003]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698). Amendments have been made by [S.I. 2009/274](https://www.legislation.gov.uk/uksi/2009/274), [S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975), [S.I. 2010/43](https://www.legislation.gov.uk/uksi/2010/43), [S.I. 2010/44](https://www.legislation.gov.uk/uksi/2010/44), [S.I. 2010/747](https://www.legislation.gov.uk/uksi/2010/747), [S.I. 2010/2653](https://www.legislation.gov.uk/uksi/2010/2653), [S.I. 2011/651](https://www.legislation.gov.uk/uksi/2011/651), [S.I. 2011/2343](https://www.legislation.gov.uk/uksi/2011/2343) and [S.I. 2012/500](https://www.legislation.gov.uk/uksi/2012/500).
 
-[^key-4c86bbfaac2adf62a69f5d6163f962ac]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2012/1363/rule/5) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-4c86bbfaac2adf62a69f5d6163f962ac]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2012/1363/rule/5) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
 [^f00004]: Footnote: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52). Section 66A was inserted by section 9(1) of the Road Traffic Act [1991 (c. 40)](https://www.legislation.gov.uk/ukpga/1991/40) and amended by paragraph 11 of Schedule 7 to the Goods Vehicles (Licensing of Operators) Act [1995 (c. 23)](https://www.legislation.gov.uk/ukpga/1995/23).
 
@@ -207,18 +207,18 @@ Amendments are also being made for the purposes of appeals against decisions of 
 
 [^f00006]: Footnote: [2010 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2010/2)
 
-[^key-2435a92abf5063ca0a40bd4596956acf]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2012/1363/rule/6) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-2435a92abf5063ca0a40bd4596956acf]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2012/1363/rule/6) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
 [^f00007]: Footnote: Rule 20A was inserted by [S.I. 2009/1975](https://www.legislation.gov.uk/uksi/2009/1975).
 
-[^key-6f9917013da661565fa0a6ec18f12c77]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2012/1363/rule/7) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-6f9917013da661565fa0a6ec18f12c77]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2012/1363/rule/7) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
-[^key-5fc078204a3e874537237e1866cbb735]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2012/1363/rule/8) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-5fc078204a3e874537237e1866cbb735]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2012/1363/rule/8) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
-[^key-57ac45fb3b1ab8241a60213643f2871b]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2012/1363/rule/9) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
+[^c-57ac45fb3b1ab8241a60213643f2871b]: Commencement: [Rule 9](https://www.legislation.gov.uk/uksi/2012/1363/rule/9) in force at 1.7.2012, see [rule 1(b)](https://www.legislation.gov.uk/uksi/2012/1363/rule/1/b)
 
 [^f00008]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14). Section 50 was substituted by section 31 of the Transport Act [1985 (c. 67)](https://www.legislation.gov.uk/ukpga/1985/67) and amended by section 65(2) of, and paragraph 7 of Schedule 14 to, the Deregulation and Contracting Out Act [1994 (c. 40)](https://www.legislation.gov.uk/ukpga/1994/40). It was also amended by paragraph 2(a) of Schedule 1 to the Transfer of Functions (Transport Tribunal and Appeal Panel) Order 2009 ([S.I. 2009/1885](https://www.legislation.gov.uk/uksi/2009/1885)).
 
 [^f00009]: Footnote: [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23)
 
-[^key-3f8cce004df5df097fb41b8686d18eff]: Textual amendment: [Rule 9(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2012/1363/article/9/e/aa) revoked (1.9.2014) by [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/a), [39](https://www.legislation.gov.uk/uksi/2014/2128/article/39)
+[^c-3f8cce004df5df097fb41b8686d18eff]: Textual amendment: [Rule 9(e)(i)(aa)](https://www.legislation.gov.uk/uksi/2012/1363/article/9/e/aa) revoked (1.9.2014) by [The Tribunal Procedure (Amendment No. 3) Rules 2014 (S.I. 2014/2128)](https://www.legislation.gov.uk/uksi/2014/2128), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2014/2128/article/1/a), [39](https://www.legislation.gov.uk/uksi/2014/2128/article/39)

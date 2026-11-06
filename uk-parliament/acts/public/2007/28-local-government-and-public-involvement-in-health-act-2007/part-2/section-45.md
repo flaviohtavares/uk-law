@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Order for elections by halves: years in which elections are to be held[^key-0267e9a3a870e09a96a35b1823fcfa38]
+## 45. Order for elections by halves: years in which elections are to be held[^c-0267e9a3a870e09a96a35b1823fcfa38]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Ordinary elections of the councillors of the council are to be held in—
 
-- (a) the first relevant year after the year in which the Local Government Boundary Commission makes[^key-b19afecb94c0a9fa90f09db5be8dd799] the order, and
+- (a) the first relevant year after the year in which the Local Government Boundary Commission makes[^c-b19afecb94c0a9fa90f09db5be8dd799] the order, and
 - (b) each subsequent year for elections by halves.
 
 (3) In this section—
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0267e9a3a870e09a96a35b1823fcfa38]: Commencement: S. 45 in force at 30.12.2007, see s. 245(2)
+[^c-0267e9a3a870e09a96a35b1823fcfa38]: Commencement: S. 45 in force at 30.12.2007, see s. 245(2)
 
-[^key-b19afecb94c0a9fa90f09db5be8dd799]: Textual amendment: Words in s. 45(2)(a) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/26); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-b19afecb94c0a9fa90f09db5be8dd799]: Textual amendment: Words in s. 45(2)(a) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/26); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)

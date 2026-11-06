@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. The Veterinary Medicines Regulations 2013[^key-41bfb2a642ee35bd15a64ae1e963b752]
+## 17. The Veterinary Medicines Regulations 2013[^c-41bfb2a642ee35bd15a64ae1e963b752]
 
 *Extent: E+W+S*
 
@@ -88,6 +88,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41bfb2a642ee35bd15a64ae1e963b752]: Commencement: Reg. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-41bfb2a642ee35bd15a64ae1e963b752]: Commencement: Reg. 17 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23716541]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033), amended by [S.I. 2014/599](https://www.legislation.gov.uk/uksi/2014/599), 2018/761.

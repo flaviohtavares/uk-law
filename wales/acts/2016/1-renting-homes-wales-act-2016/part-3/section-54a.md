@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54A. Right for children to live at or visit dwelling[^key-f05ad45d3cab61befe07cc28b289bb43][^key-5cbe4923c91b2263a4ca0eea725cea66]
+## 54A. Right for children to live at or visit dwelling[^c-f05ad45d3cab61befe07cc28b289bb43][^c-5cbe4923c91b2263a4ca0eea725cea66]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f05ad45d3cab61befe07cc28b289bb43]: Modification: [S. 54A](https://www.legislation.gov.uk/anaw/2016/1/section/54A) excluded (1.6.2026) by [The Renting Homes (Model Written Statements of Contract) (Wales) (Amendments etc.) Regulations 2026 (W.S.I. 2026/41)](https://www.legislation.gov.uk/wsi/2026/41), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/41/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/41/regulation/4)
+[^c-f05ad45d3cab61befe07cc28b289bb43]: Modification: [S. 54A](https://www.legislation.gov.uk/anaw/2016/1/section/54A) excluded (1.6.2026) by [The Renting Homes (Model Written Statements of Contract) (Wales) (Amendments etc.) Regulations 2026 (W.S.I. 2026/41)](https://www.legislation.gov.uk/wsi/2026/41), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/41/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2026/41/regulation/4)
 
-[^key-5cbe4923c91b2263a4ca0eea725cea66]: Textual amendment: [Pt. 3 Ch. 6A](https://www.legislation.gov.uk/anaw/2016/1/part/3/chapter/6A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/46/7), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)) (with power to amend or repeal Pt. 3 Ch. 6A conferred (27.10.2025) by [ss. 47](https://www.legislation.gov.uk/ukpga/2025/26/section/47), [145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2) of the amending Act); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)
+[^c-5cbe4923c91b2263a4ca0eea725cea66]: Textual amendment: [Pt. 3 Ch. 6A](https://www.legislation.gov.uk/anaw/2016/1/part/3/chapter/6A) inserted (1.6.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 46(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/46/7), [145(3)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/3) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)) (with power to amend or repeal Pt. 3 Ch. 6A conferred (27.10.2025) by [ss. 47](https://www.legislation.gov.uk/ukpga/2025/26/section/47), [145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2) of the amending Act); [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(d)](https://www.legislation.gov.uk/wsi/2026/6/article/2/d)

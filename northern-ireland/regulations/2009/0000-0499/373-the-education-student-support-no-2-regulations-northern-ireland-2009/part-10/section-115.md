@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 115. Information[^key-07da3e8ef79374a3b20f9fdd6dda03ac]
+## 115. Information[^c-07da3e8ef79374a3b20f9fdd6dda03ac]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 deals with the provision of information.
 
 ## Annotations
 
-[^key-07da3e8ef79374a3b20f9fdd6dda03ac]: Commencement: Reg. 115 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-07da3e8ef79374a3b20f9fdd6dda03ac]: Commencement: Reg. 115 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

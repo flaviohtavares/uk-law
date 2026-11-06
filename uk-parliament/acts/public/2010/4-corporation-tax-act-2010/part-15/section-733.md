@@ -29,7 +29,7 @@ summary: ''
 
 (2) The provisions are—
 
-- [^key-77f2b3b84a121ceedcb6995e2c46eab1]...
+- [^c-77f2b3b84a121ceedcb6995e2c46eab1]...
 - section 736 (receipt of consideration representing company's assets, future receipts or trading stock (circumstance C)),
 - section 737 (receipt of consideration in connection with relevant company distribution (circumstance D)), and
 - section 738 (receipt of assets of relevant company (circumstance E)).
@@ -49,4 +49,4 @@ if it is obtained or obtainable by the company in consequence of the combined ef
 
 ## Annotations
 
-[^key-77f2b3b84a121ceedcb6995e2c46eab1]: Textual amendment: Words in s. 733(2) omitted (with effect in accordance with Sch. 12 para. 15(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/9)
+[^c-77f2b3b84a121ceedcb6995e2c46eab1]: Textual amendment: Words in s. 733(2) omitted (with effect in accordance with Sch. 12 para. 15(3) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2010/13/schedule/12/paragraph/9)

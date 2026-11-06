@@ -68,7 +68,7 @@ Rule 20(2)
 
 [image: see source](https://www.legislation.gov.uk/nisr/1979/90/images/nisr_19790090_en_006.gif) [image: see source](https://www.legislation.gov.uk/nisr/1979/90/images/nisr_19790090_en_007.gif)
 
-[^key-d02c18205bea950ee9da6e3989bb14ba]FORM 4
+[^c-d02c18205bea950ee9da6e3989bb14ba]FORM 4
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -344,7 +344,7 @@ IN THE CROWN COURT IN NORTHERN IRELAND
 
 [^f00145]: Footnote: Forms 3A inserted by [S.R. 2006 No. 449](https://www.legislation.gov.uk/nisr/2006/449) with effect from 08.01.07
 
-[^key-d02c18205bea950ee9da6e3989bb14ba]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1979/90/schedule) Form 4 omitted (31.12.2020) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/233)](https://www.legislation.gov.uk/nisr/2019/233), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/233/article/2/3), [rule 1](https://www.legislation.gov.uk/nisr/2019/233/rule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d02c18205bea950ee9da6e3989bb14ba]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/1979/90/schedule) Form 4 omitted (31.12.2020) by virtue of [The Crown Court (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/233)](https://www.legislation.gov.uk/nisr/2019/233), [art. 2(3)](https://www.legislation.gov.uk/nisr/2019/233/article/2/3), [rule 1](https://www.legislation.gov.uk/nisr/2019/233/rule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00146]: Footnote: Forms 5-5C inserted by [S.R. 2006 No. 449](https://www.legislation.gov.uk/nisr/2006/449) with effect from 08.01.07
 

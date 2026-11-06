@@ -31,7 +31,7 @@ summary: ''
 - (b) the maintenance or improvement of standards of conduct and competence among the members of a profession,
 - (c) the provision of indemnity or protection to members of a profession against claims in respect of liabilities incurred by them in the exercise of their profession.
 
-(3) An officer of Revenue and Customs[^key-4f3a0614079ff004d8042e82d44ecd6f] may approve a body of persons under this section if, on an application by the body, the officer[^key-aa02c4231f83f7a4fa229590a6506c1b] is satisfied[^key-830bdde0fec1f89ac27124aae9eeed5f] that—
+(3) An officer of Revenue and Customs[^c-4f3a0614079ff004d8042e82d44ecd6f] may approve a body of persons under this section if, on an application by the body, the officer[^c-aa02c4231f83f7a4fa229590a6506c1b] is satisfied[^c-830bdde0fec1f89ac27124aae9eeed5f] that—
 
 - (a) the body is not of a mainly local character,
 - (b) its activities are carried on otherwise than for profit, and
@@ -55,8 +55,8 @@ is treated for the purposes of this section as having been paid to an approved b
 
 ## Annotations
 
-[^key-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-4f3a0614079ff004d8042e82d44ecd6f]: Textual amendment: Words in Act substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 102(1)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/102/1); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-aa02c4231f83f7a4fa229590a6506c1b]: Textual amendment: Words in s. 344(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 103(1)(g)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/103/1/g); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-aa02c4231f83f7a4fa229590a6506c1b]: Textual amendment: Words in s. 344(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 103(1)(g)](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/103/1/g); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
 
-[^key-830bdde0fec1f89ac27124aae9eeed5f]: Textual amendment: Words in s. 344(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 112](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/112); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)
+[^c-830bdde0fec1f89ac27124aae9eeed5f]: Textual amendment: Words in s. 344(3) substituted (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 4 para. 112](https://www.legislation.gov.uk/ukpga/2005/11/schedule/4/paragraph/112); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h)

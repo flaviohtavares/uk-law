@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Consequence of a candidate being reported guilty of corrupt or illegal practice[^key-d68eb24184d0146fac8a83fd3b87dc1e]
+## 112. Consequence of a candidate being reported guilty of corrupt or illegal practice[^c-d68eb24184d0146fac8a83fd3b87dc1e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ When an elected candidate is reported by an election court to be personally guil
 
 ## Annotations
 
-[^key-d68eb24184d0146fac8a83fd3b87dc1e]: Commencement: Art. 112 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d68eb24184d0146fac8a83fd3b87dc1e]: Commencement: Art. 112 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

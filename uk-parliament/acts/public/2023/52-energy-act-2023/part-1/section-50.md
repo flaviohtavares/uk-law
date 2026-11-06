@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Transfer schemes[^key-f36a76f6277eb62bfff95c4c57cb3f5d]
+## 50. Transfer schemes[^c-f36a76f6277eb62bfff95c4c57cb3f5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f36a76f6277eb62bfff95c4c57cb3f5d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/52/section/50) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-f36a76f6277eb62bfff95c4c57cb3f5d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/52/section/50) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) The Secretary of State may with the concurrence of the Treasury[^key-a1fb6b876bad2f20c81f3db840728bce] make regulations modifying this Part of this Act in such manner as he thinks proper in their application to any person who is, has been or is to be—
+(1) The Secretary of State may with the concurrence of the Treasury[^c-a1fb6b876bad2f20c81f3db840728bce] make regulations modifying this Part of this Act in such manner as he thinks proper in their application to any person who is, has been or is to be—
 
 - (a) employed on board any ship, vessel, hovercraft or aircraft;
 - (b) outside Great Britain at any prescribed time or in any prescribed circumstances; or
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1fb6b876bad2f20c81f3db840728bce]: Textual amendment: Words in s. 162(1) inserted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/11); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))
+[^c-a1fb6b876bad2f20c81f3db840728bce]: Textual amendment: Words in s. 162(1) inserted (25.2.1999 for specified purposes, 1.4.1999 in so far as not already in force) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 28(2)(a)](https://www.legislation.gov.uk/ukpga/1999/2/section/28/2/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/1999/2/schedule/1/paragraph/11); [S.I. 1999/527](https://www.legislation.gov.uk/uksi/1999/527), [art. 2(b)](https://www.legislation.gov.uk/uksi/1999/527/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/527/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/1999/527/article/3))

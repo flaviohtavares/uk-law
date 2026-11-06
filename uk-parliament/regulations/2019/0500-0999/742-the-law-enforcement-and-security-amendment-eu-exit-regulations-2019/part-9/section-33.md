@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Revocation of Council Decision 2008/976/JHA[^key-2fddb16e6f965158f8ae7315d46153c1]
+## 33. Revocation of Council Decision 2008/976/JHA[^c-2fddb16e6f965158f8ae7315d46153c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Decision 2008/976/JHA of 16 December 2008 on the European Judicial Netwo
 
 ## Annotations
 
-[^key-2fddb16e6f965158f8ae7315d46153c1]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2fddb16e6f965158f8ae7315d46153c1]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

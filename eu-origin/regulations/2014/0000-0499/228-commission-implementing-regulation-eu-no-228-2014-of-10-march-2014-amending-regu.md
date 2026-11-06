@@ -33,14 +33,14 @@ of 10 March 2014
 
 amending Regulation (EC) No 601/2006 implementing Regulation (EC) No 184/2005 of the European Parliament and of the Council on statistics concerning balance of payments, international trade in services and foreign direct investment, as regards the format and the procedure for the transmission of data (revoked)
 
-[^key-d0ecefea83799911fdd8d2ef6d1f1c6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0ecefea83799911fdd8d2ef6d1f1c6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-d0ecefea83799911fdd8d2ef6d1f1c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d0ecefea83799911fdd8d2ef6d1f1c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d0ecefea83799911fdd8d2ef6d1f1c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d0ecefea83799911fdd8d2ef6d1f1c6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0ecefea83799911fdd8d2ef6d1f1c6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0ecefea83799911fdd8d2ef6d1f1c6d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0ecefea83799911fdd8d2ef6d1f1c6d]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 230](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/230); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0ecefea83799911fdd8d2ef6d1f1c6d]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 230](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/230); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

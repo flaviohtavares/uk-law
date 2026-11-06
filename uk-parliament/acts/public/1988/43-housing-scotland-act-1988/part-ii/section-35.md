@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Disapplication of the First-tier Tribunal’s functions under section 34[^key-827b17e97f0e8793c2d6fe9c8692ff88]
+## 35. Disapplication of the First-tier Tribunal’s functions under section 34[^c-827b17e97f0e8793c2d6fe9c8692ff88]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-827b17e97f0e8793c2d6fe9c8692ff88]: Textual amendment: S. 35 heading substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2/11) (with [Sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-827b17e97f0e8793c2d6fe9c8692ff88]: Textual amendment: S. 35 heading substituted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/2/11) (with [Sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

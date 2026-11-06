@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Entrenchment of Lord Chancellor's functions[^key-5ef81b11c3544b81913c66f51c699f23]
+## 134. Entrenchment of Lord Chancellor's functions[^c-5ef81b11c3544b81913c66f51c699f23]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ In Schedule 7 to the Constitutional Reform Act 2005 (c. 4) (protected functions 
 
 ## Annotations
 
-[^key-5ef81b11c3544b81913c66f51c699f23]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2009/25/section/134) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-5ef81b11c3544b81913c66f51c699f23]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2009/25/section/134) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

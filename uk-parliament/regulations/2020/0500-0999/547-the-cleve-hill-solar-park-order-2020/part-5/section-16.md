@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Compulsory acquisition of land[^key-2ec39502280329e94b2fb0bb47c90ea8]
+## 16. Compulsory acquisition of land[^c-2ec39502280329e94b2fb0bb47c90ea8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ec39502280329e94b2fb0bb47c90ea8]: Commencement: Art. 16 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-2ec39502280329e94b2fb0bb47c90ea8]: Commencement: Art. 16 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

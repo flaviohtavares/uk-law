@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Application of various provisions of the Order[^key-bc2dd26ac240a9d95b444cb5642bb06f]
+## 9. Application of various provisions of the Order[^c-bc2dd26ac240a9d95b444cb5642bb06f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 ## Annotations
 
-[^key-bc2dd26ac240a9d95b444cb5642bb06f]: Commencement: Reg. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)
+[^c-bc2dd26ac240a9d95b444cb5642bb06f]: Commencement: Reg. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/50/regulation/1)

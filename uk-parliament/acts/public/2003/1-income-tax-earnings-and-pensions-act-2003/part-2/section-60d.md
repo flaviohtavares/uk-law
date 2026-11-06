@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60D. When a relevant undertaking qualifies as small for a tax year[^key-5fd10d9b2d42aa1ee38812ec9ab7ea4b]
+## 60D. When a relevant undertaking qualifies as small for a tax year[^c-5fd10d9b2d42aa1ee38812ec9ab7ea4b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd10d9b2d42aa1ee38812ec9ab7ea4b]: Textual amendment: Ss. 60A-60I and cross-headings inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 paras. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/5), [24](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/24) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))
+[^c-5fd10d9b2d42aa1ee38812ec9ab7ea4b]: Textual amendment: Ss. 60A-60I and cross-headings inserted (6.4.2021 for the tax year 2021-22 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 1 paras. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/5), [24](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/24) (with [Sch. 1 paras. 30-34](https://www.legislation.gov.uk/ukpga/2020/14/schedule/1/paragraph/30))

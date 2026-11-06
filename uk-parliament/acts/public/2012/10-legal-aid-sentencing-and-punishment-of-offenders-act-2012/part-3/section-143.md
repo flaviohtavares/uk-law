@@ -46,12 +46,12 @@ summary: ''
 > </tbody>
 > </table>
 
-(6) In the entry inserted by subsection (5), in relation to an offence committed before 2 May 2022[^key-2009038085e54aaa3a120a963de39535] “the general limit in a magistrates’ court” is to be read as “6 months[^key-cd5acf77da1561f4fb210cc56a66e8cf] (in England and Wales) or 12 months (in Scotland)”.
+(6) In the entry inserted by subsection (5), in relation to an offence committed before 2 May 2022[^c-2009038085e54aaa3a120a963de39535] “the general limit in a magistrates’ court” is to be read as “6 months[^c-cd5acf77da1561f4fb210cc56a66e8cf] (in England and Wales) or 12 months (in Scotland)”.
 
 (7) Schedule 27 (causing serious injury by dangerous driving: minor and consequential amendments) has effect.
 
 ## Annotations
 
-[^key-2009038085e54aaa3a120a963de39535]: Textual amendment: Words in [s. 143(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-2009038085e54aaa3a120a963de39535]: Textual amendment: Words in [s. 143(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/6) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-cd5acf77da1561f4fb210cc56a66e8cf]: Textual amendment: Words in [s. 143(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/25/2)
+[^c-cd5acf77da1561f4fb210cc56a66e8cf]: Textual amendment: Words in [s. 143(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/143/6) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [25(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/25/2)

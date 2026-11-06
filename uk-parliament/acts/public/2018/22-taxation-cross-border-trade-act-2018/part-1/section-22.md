@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Authorised economic operators[^c23439221][^key-a8ffade8ede31558e7761210ea758988]
+## 22. Authorised economic operators[^c23439221][^c-a8ffade8ede31558e7761210ea758988]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c23439221]: Commencement: S. 22 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-a8ffade8ede31558e7761210ea758988]: Commencement: S. 22 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a8ffade8ede31558e7761210ea758988]: Commencement: S. 22 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

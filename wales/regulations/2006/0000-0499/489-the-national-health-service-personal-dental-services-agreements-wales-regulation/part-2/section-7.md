@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Appeal[^key-dfc27edae5ca2d58abb4f4b796a2e9f9]
+## 7. Appeal[^c-dfc27edae5ca2d58abb4f4b796a2e9f9]
 
 *Extent: E+W*
 
-A person who has been served with a notice under regulation 6(1) may appeal to the First-tier Tribunal[^key-ba4448158bd4f6743f8ea3ad52cd56a2] against the decision of the Relevant Body that the conditions in regulation 4 or 5 are not met [^key-2fba836531630651d3bffac234fb5da4]...
+A person who has been served with a notice under regulation 6(1) may appeal to the First-tier Tribunal[^c-ba4448158bd4f6743f8ea3ad52cd56a2] against the decision of the Relevant Body that the conditions in regulation 4 or 5 are not met [^c-2fba836531630651d3bffac234fb5da4]...
 
 ## Annotations
 
-[^key-dfc27edae5ca2d58abb4f4b796a2e9f9]: Commencement: Reg. 7 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-dfc27edae5ca2d58abb4f4b796a2e9f9]: Commencement: Reg. 7 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
 
-[^key-ba4448158bd4f6743f8ea3ad52cd56a2]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2006/489/regulation/7) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 3 para. 129(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/129/a)
+[^c-ba4448158bd4f6743f8ea3ad52cd56a2]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2006/489/regulation/7) substituted (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 3 para. 129(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/129/a)
 
-[^key-2fba836531630651d3bffac234fb5da4]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2006/489/regulation/7) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 3 para. 129(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/129/b)
+[^c-2fba836531630651d3bffac234fb5da4]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/wsi/2006/489/regulation/7) omitted (18.1.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 3 para. 129(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/129/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Employer’s contributions[^key-2194c826043afa597eddf32b7fd1f705]
+## 39. Employer’s contributions[^c-2194c826043afa597eddf32b7fd1f705]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ the pay on which the common percentage is calculated is the pay the employee wou
 
 ## Annotations
 
-[^key-2194c826043afa597eddf32b7fd1f705]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-2194c826043afa597eddf32b7fd1f705]: Commencement: Reg. 39 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

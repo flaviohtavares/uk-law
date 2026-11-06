@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law, England And Wales
 
-The Crime and Disorder Act 1998 (Youth Conditional Cautions: Code of Practice) Order 2010 (revoked)[^key-d648f085f4d880889f1e215a7453736c]
+The Crime and Disorder Act 1998 (Youth Conditional Cautions: Code of Practice) Order 2010 (revoked)[^c-d648f085f4d880889f1e215a7453736c]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into force
 
 25th January 2010
 
-[^key-d648f085f4d880889f1e215a7453736c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d648f085f4d880889f1e215a7453736c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d648f085f4d880889f1e215a7453736c]
+## 1. Citation and commencement[^c-d648f085f4d880889f1e215a7453736c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Code of Practice[^key-d648f085f4d880889f1e215a7453736c]
+## 2. Code of Practice[^c-d648f085f4d880889f1e215a7453736c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d648f085f4d880889f1e215a7453736c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d648f085f4d880889f1e215a7453736c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d648f085f4d880889f1e215a7453736c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d648f085f4d880889f1e215a7453736c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d648f085f4d880889f1e215a7453736c]: Textual amendment: Order revoked (8.4.2013) by [The Crime and Disorder Act 1998 (Youth Conditional Cautions: Code of Practice) Order 2013 (S.I. 2013/613)](https://www.legislation.gov.uk/uksi/2013/613), [arts. 1](https://www.legislation.gov.uk/uksi/2013/613/article/1), [3](https://www.legislation.gov.uk/uksi/2013/613/article/3)
+[^c-d648f085f4d880889f1e215a7453736c]: Textual amendment: Order revoked (8.4.2013) by [The Crime and Disorder Act 1998 (Youth Conditional Cautions: Code of Practice) Order 2013 (S.I. 2013/613)](https://www.legislation.gov.uk/uksi/2013/613), [arts. 1](https://www.legislation.gov.uk/uksi/2013/613/article/1), [3](https://www.legislation.gov.uk/uksi/2013/613/article/3)

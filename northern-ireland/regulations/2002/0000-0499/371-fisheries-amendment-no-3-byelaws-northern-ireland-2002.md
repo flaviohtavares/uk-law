@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries (Amendment No. 3) Byelaws (Northern Ireland) 2002 (revoked)[^key-ed09748407206f412f69a0fe3b7b7a64]
+Fisheries (Amendment No. 3) Byelaws (Northern Ireland) 2002 (revoked)[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 1st January 2003
 
-[^key-ed09748407206f412f69a0fe3b7b7a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ed09748407206f412f69a0fe3b7b7a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ed09748407206f412f69a0fe3b7b7a64]
+## 1. Citation and commencement[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^key-ed09748407206f412f69a0fe3b7b7a64]
+## 2. Amendment of the Fisheries Byelaws (Northern Ireland) 1997[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-ed09748407206f412f69a0fe3b7b7a64]
+## 3. Interpretation[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Licences, duties and fees[^key-ed09748407206f412f69a0fe3b7b7a64]
+## 4. Licences, duties and fees[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ed09748407206f412f69a0fe3b7b7a64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ed09748407206f412f69a0fe3b7b7a64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on the killing of salmon[^key-ed09748407206f412f69a0fe3b7b7a64]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. Fishing engines and licence duties[^key-ed09748407206f412f69a0fe3b7b7a64]
+## 6. Restrictions on the killing of salmon[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. List of waters where there is no close season for rainbow trout[^key-ed09748407206f412f69a0fe3b7b7a64]
+## 7. Fishing engines and licence duties[^c-ed09748407206f412f69a0fe3b7b7a64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ed09748407206f412f69a0fe3b7b7a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 8. List of waters where there is no close season for rainbow trout[^c-ed09748407206f412f69a0fe3b7b7a64]
 
-[^key-ed09748407206f412f69a0fe3b7b7a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ed09748407206f412f69a0fe3b7b7a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ed09748407206f412f69a0fe3b7b7a64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed09748407206f412f69a0fe3b7b7a64]: Textual amendment: Byelaw revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), byelaw. 3 Sch. 7
+[^c-ed09748407206f412f69a0fe3b7b7a64]: Textual amendment: Byelaw revoked (1.1.2004) by [Fisheries Byelaws (Northern Ireland) 2003 (S.R. 2003/525)](https://www.legislation.gov.uk/nisr/2003/525), byelaw. 3 Sch. 7

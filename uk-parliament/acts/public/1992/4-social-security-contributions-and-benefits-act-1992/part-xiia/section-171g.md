@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171G. Incapacity for work: supplementary provisions.[^key-34dc3da2e55e2fef1c521696942a8574][^key-d4ae926749622ff6e8c2b32c3c0030c9]
+## 171G. Incapacity for work: supplementary provisions.[^c-34dc3da2e55e2fef1c521696942a8574][^c-d4ae926749622ff6e8c2b32c3c0030c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) for the purposes of Part V of this Act (benefit for industrial injuries: see section 94(6) above);
 - (b) for the purposes of Part XI of this Act (statutory sick pay: see section 151(4) above); or
-- (c)[^key-f6c8ce81f95f60ffd90d338e527bf2e6] for such other purposes as may be prescribed.
+- (c)[^c-f6c8ce81f95f60ffd90d338e527bf2e6] for such other purposes as may be prescribed.
 
 (2) In this Part of this Act—
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-34dc3da2e55e2fef1c521696942a8574]: Textual amendment: Ss. 171D-171G inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1994/18/section/6/1), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2)
+[^c-34dc3da2e55e2fef1c521696942a8574]: Textual amendment: Ss. 171D-171G inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/1994/18/section/6/1), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2)
 
-[^key-d4ae926749622ff6e8c2b32c3c0030c9]: Textual amendment: Pt. 12A inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 5](https://www.legislation.gov.uk/ukpga/1994/18/section/5), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3) (with [ss. 4](https://www.legislation.gov.uk/ukpga/1994/18/section/4), [7](https://www.legislation.gov.uk/ukpga/1994/18/section/7)); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/1995/310/regulation/11), [17](https://www.legislation.gov.uk/uksi/1995/310/regulation/17), [29](https://www.legislation.gov.uk/uksi/1995/310/regulation/29))
+[^c-d4ae926749622ff6e8c2b32c3c0030c9]: Textual amendment: Pt. 12A inserted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 5](https://www.legislation.gov.uk/ukpga/1994/18/section/5), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3) (with [ss. 4](https://www.legislation.gov.uk/ukpga/1994/18/section/4), [7](https://www.legislation.gov.uk/ukpga/1994/18/section/7)); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2) (with [The Social Security (Incapacity Benefit) (Transitional) Regulations 1995 (S.I. 1995/310)](https://www.legislation.gov.uk/uksi/1995/310), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/310/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/1995/310/regulation/11), [17](https://www.legislation.gov.uk/uksi/1995/310/regulation/17), [29](https://www.legislation.gov.uk/uksi/1995/310/regulation/29))
 
-[^key-f6c8ce81f95f60ffd90d338e527bf2e6]: Modification: S. 171G(1)(c) restricted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/1994/18/section/6/3/a), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2)
+[^c-f6c8ce81f95f60ffd90d338e527bf2e6]: Modification: S. 171G(1)(c) restricted (18.11.1994 for specified purposes, 13.4.1995 in so far as not already in force) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [ss. 6(3)(a)](https://www.legislation.gov.uk/ukpga/1994/18/section/6/3/a), [16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(2)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/2)

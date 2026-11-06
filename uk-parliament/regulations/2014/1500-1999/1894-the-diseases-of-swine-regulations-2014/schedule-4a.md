@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Schedule 4A — Cleansing, disinfection and treatment in England of premises, vehicles and other things[^key-b879c02781b61bf4ad0f0244719e5ef6]
+## Schedule 4A — Cleansing, disinfection and treatment in England of premises, vehicles and other things[^c-b879c02781b61bf4ad0f0244719e5ef6]
 
 *Extent: E+W*
 
@@ -177,4 +177,4 @@ Regulations 12(2A), 13(5), 23(9A), 27A(5), 27D(e), 31B and 39(1A)(y)
 
 ## Annotations
 
-[^key-b879c02781b61bf4ad0f0244719e5ef6]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/1894/schedule/4A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2026/475/schedule/3)
+[^c-b879c02781b61bf4ad0f0244719e5ef6]: Textual amendment: [Sch. 4A](https://www.legislation.gov.uk/uksi/2014/1894/schedule/4A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2026/475/schedule/3)

@@ -27,7 +27,7 @@ summary: ''
 
 SPORTS GROUNDS AND SPORTING EVENTS
 
-The Football Spectators (Prescription) Order 2000 (revoked)[^key-cc228ef7752d3ecb81b533882139eac7]
+The Football Spectators (Prescription) Order 2000 (revoked)[^c-cc228ef7752d3ecb81b533882139eac7]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into force
 
 28th August 2000
 
-[^key-cc228ef7752d3ecb81b533882139eac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc228ef7752d3ecb81b533882139eac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-cc228ef7752d3ecb81b533882139eac7]
+## 1.[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-cc228ef7752d3ecb81b533882139eac7]
+## 2.[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-cc228ef7752d3ecb81b533882139eac7]
+## 3.[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-cc228ef7752d3ecb81b533882139eac7]
+## 4.[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-cc228ef7752d3ecb81b533882139eac7]
+## 5.[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-cc228ef7752d3ecb81b533882139eac7]
+## 6.[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc228ef7752d3ecb81b533882139eac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc228ef7752d3ecb81b533882139eac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REVOCATIONS[^key-cc228ef7752d3ecb81b533882139eac7]
+## SCHEDULE 1 — REVOCATIONS[^c-cc228ef7752d3ecb81b533882139eac7]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REGULATED FOOTBALL MATCHES IN ENGLAND AND WALES[^key-cc228ef7752d3ecb81b533882139eac7]
+## SCHEDULE 2 — REGULATED FOOTBALL MATCHES IN ENGLAND AND WALES[^c-cc228ef7752d3ecb81b533882139eac7]
 
 Article 3
 
-[^key-cc228ef7752d3ecb81b533882139eac7]
+[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — REGULATED FOOTBALL MATCHES OUTSIDE ENGLAND AND WALES[^key-cc228ef7752d3ecb81b533882139eac7]
+## SCHEDULE 3 — REGULATED FOOTBALL MATCHES OUTSIDE ENGLAND AND WALES[^c-cc228ef7752d3ecb81b533882139eac7]
 
 Article 4
 
-[^key-cc228ef7752d3ecb81b533882139eac7]
+[^c-cc228ef7752d3ecb81b533882139eac7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc228ef7752d3ecb81b533882139eac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc228ef7752d3ecb81b533882139eac7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc228ef7752d3ecb81b533882139eac7]: Textual amendment: Order revoked (11.10.2004) by [The Football Spectators (Prescription) Order 2004 (S.I. 2004/2409)](https://www.legislation.gov.uk/uksi/2004/2409), [art. 2](https://www.legislation.gov.uk/uksi/2004/2409/article/2); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-cc228ef7752d3ecb81b533882139eac7]: Textual amendment: Order revoked (11.10.2004) by [The Football Spectators (Prescription) Order 2004 (S.I. 2004/2409)](https://www.legislation.gov.uk/uksi/2004/2409), [art. 2](https://www.legislation.gov.uk/uksi/2004/2409/article/2); \[Editorial note: No historical versions of this S.I. have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

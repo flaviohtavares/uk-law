@@ -63,7 +63,7 @@ Article 3.
 (4) The Department may remove a person from office as a non-executive member if satisfied that–
 
 - (a) he has been convicted of a criminal offence;
-- (b) he has become bankrupt or is the subject of a bankruptcy restrictions order[^key-f7e5723613b48be481fe2a68a33d941c] or has a debt relief order made in respect of him (under[^key-12fddd12282655d9b4490edf3fb1dff7] Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986), or is the subject of a debt relief restrictions order[^key-f00e9b52d09d05dfc8d44369a6a82a45] [^key-130d61fe0b79452a695f46380e7f595f]...;
+- (b) he has become bankrupt or is the subject of a bankruptcy restrictions order[^c-f7e5723613b48be481fe2a68a33d941c] or has a debt relief order made in respect of him (under[^c-12fddd12282655d9b4490edf3fb1dff7] Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986), or is the subject of a debt relief restrictions order[^c-f00e9b52d09d05dfc8d44369a6a82a45] [^c-130d61fe0b79452a695f46380e7f595f]...;
 - (c) he has failed to comply with the terms of his appointment; or
 - (d) he is otherwise unable or unfit to carry out his functions.
 
@@ -206,7 +206,7 @@ as the Department may, with the approval of the Department of Finance and Person
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**18.**[^key-063d238c9e0bd24052d4881b7e706948] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-063d238c9e0bd24052d4881b7e706948] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information Act 2000 (c. 36)
 
@@ -216,8 +216,8 @@ as the Department may, with the approval of the Department of Finance and Person
 
 **20.** In this Schedule–
 
-- ”bankruptcy restrictions order” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986[^key-db9aa017458c7fe11e42e2c8a968f25d]
-- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-4f6ac346509ba88d645369c3c9c5e079]
+- ”bankruptcy restrictions order” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986[^c-db9aa017458c7fe11e42e2c8a968f25d]
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^c-4f6ac346509ba88d645369c3c9c5e079]
 - “**financial year**” means–
   - (a) the period beginning with the appointed day and ending on the next following 31st March; and
   - (b) any subsequent period of twelve months ending on 31st March;
@@ -226,16 +226,16 @@ as the Department may, with the approval of the Department of Finance and Person
 
 ## Annotations
 
-[^key-f7e5723613b48be481fe2a68a33d941c]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 14(2)(a)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/14/2/a)
+[^c-f7e5723613b48be481fe2a68a33d941c]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 14(2)(a)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/14/2/a)
 
-[^key-12fddd12282655d9b4490edf3fb1dff7]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
+[^c-12fddd12282655d9b4490edf3fb1dff7]: Textual amendment: Words in Sch. 1 para. 3(4)(b) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 3 para. 53](https://www.legislation.gov.uk/uksi/2012/2404/schedule/3/paragraph/53) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/2404/article/7))
 
-[^key-f00e9b52d09d05dfc8d44369a6a82a45]: Textual amendment: Words in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/3/4/b) substituted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 21(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/21/2)
+[^c-f00e9b52d09d05dfc8d44369a6a82a45]: Textual amendment: Words in [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/3/4/b) substituted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 21(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/21/2)
 
-[^key-130d61fe0b79452a695f46380e7f595f]: Textual amendment: Words in Sch. 1 para. 3(4)(b) omitted (21.4.2015) by virtue of [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 14(2)(b)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/14/2/b)
+[^c-130d61fe0b79452a695f46380e7f595f]: Textual amendment: Words in Sch. 1 para. 3(4)(b) omitted (21.4.2015) by virtue of [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 14(2)(b)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/14/2/b)
 
-[^key-063d238c9e0bd24052d4881b7e706948]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/18) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-063d238c9e0bd24052d4881b7e706948]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/18) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-db9aa017458c7fe11e42e2c8a968f25d]: Textual amendment: Words in Sch. 1 para. 20 inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 14(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/14/3)
+[^c-db9aa017458c7fe11e42e2c8a968f25d]: Textual amendment: Words in Sch. 1 para. 20 inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 14(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/14/3)
 
-[^key-4f6ac346509ba88d645369c3c9c5e079]: Textual amendment: Words in [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/20) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 21(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/21/3)
+[^c-4f6ac346509ba88d645369c3c9c5e079]: Textual amendment: Words in [Sch. 1 para. 20](https://www.legislation.gov.uk/nisi/2006/1254/schedule/1/paragraph/20) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 21(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/21/3)

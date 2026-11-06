@@ -40,7 +40,7 @@ An Act to amend the law with respect to land vested in joint tenants.
 Provided that the foregoing provisions of this subsection shall not apply if, at any time before the date of the conveyance by the survivor—
 
 - (a) a memorandum of severance (that is to say a note or memorandum signed by the joint tenants or one of them and recording that the joint tenancy was severed in equity on a date therein specified) had been endorsed on or annexed to the conveyance by virtue of which the legal estate was vested in the joint tenants; or
-- (b) a bankruptcy order[^c6556721] made against any of the joint tenants, or an application or[^key-7d2dd1b57522f107df1072f37eedddd4] a petition for such an order, had been registered under the [^c6556731]Land Charges Act 1925, being an order , application[^key-3b0badaed8f84c159609f53b87b913bc] or petition of which the purchaser has notice, by virtue of the registration, on the date of the conveyance by the survivor.
+- (b) a bankruptcy order[^c6556721] made against any of the joint tenants, or an application or[^c-7d2dd1b57522f107df1072f37eedddd4] a petition for such an order, had been registered under the [^c6556731]Land Charges Act 1925, being an order , application[^c-3b0badaed8f84c159609f53b87b913bc] or petition of which the purchaser has notice, by virtue of the registration, on the date of the conveyance by the survivor.
 
 (2) The foregoing provisions of this section shall apply with the necessary modifications in relation to a conveyance by the personal representatives of the survivor of joint tenants as they apply in relation to a conveyance by such a survivor.
 
@@ -50,7 +50,7 @@ Section 1 of this Act shall be deemed to have come into force on 1st January 192
 
 ## 3. Exclusion of registered land.
 
-This Act shall not apply to registered land[^key-0349e06bed102a70256e4d44ac8f7a16] .
+This Act shall not apply to registered land[^c-0349e06bed102a70256e4d44ac8f7a16] .
 
 ## 4. Short title, construction, citation and extent.
 
@@ -72,12 +72,12 @@ This Act shall not apply to registered land[^key-0349e06bed102a70256e4d44ac8f7a1
 
 [^c6556721]: Textual amendment: Words substituted by [Insolvency Act 1985 (c. 65, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/65), [s. 235(1)](https://www.legislation.gov.uk/ukpga/1985/65/section/235/1), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/1985/65/schedule/8/paragraph/13) (with saving in [Insolvency Act 1986 (c. 45, SIF 66)](https://www.legislation.gov.uk/ukpga/1986/45), [s. 437](https://www.legislation.gov.uk/ukpga/1986/45/section/437), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/1986/45/schedule/11/paragraph/10))
 
-[^key-7d2dd1b57522f107df1072f37eedddd4]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1964/63/section/1/1/b) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/3/a)
+[^c-7d2dd1b57522f107df1072f37eedddd4]: Textual amendment: Words in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1964/63/section/1/1/b) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/3/a)
 
 [^c6556731]: Marginal citation: [1925 c. 22](https://www.legislation.gov.uk/ukpga/1925/22).
 
-[^key-3b0badaed8f84c159609f53b87b913bc]: Textual amendment: Word in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1964/63/section/1/1/b) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/3/b)
+[^c-3b0badaed8f84c159609f53b87b913bc]: Textual amendment: Word in [s. 1(1)(b)](https://www.legislation.gov.uk/ukpga/1964/63/section/1/1/b) inserted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/3/b)
 
-[^key-0349e06bed102a70256e4d44ac8f7a16]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/1964/63/section/3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/5) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-0349e06bed102a70256e4d44ac8f7a16]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/1964/63/section/3) substituted (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2002/9/schedule/11/paragraph/5) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c6556771]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).

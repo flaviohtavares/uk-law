@@ -35,7 +35,7 @@ summary: ''
 
 (4) Where the jobholder is a member of a personal pension scheme before the enrolment date, the employer may meet the obligation in section 7(3) of the Act by—
 
-- (a) before the end of a period of six weeks[^key-39b0a3e90d10cfbed6157f10a75eea30] beginning with the enrolment date, entering into arrangements with the provider of the scheme of which the jobholder is a member so that—
+- (a) before the end of a period of six weeks[^c-39b0a3e90d10cfbed6157f10a75eea30] beginning with the enrolment date, entering into arrangements with the provider of the scheme of which the jobholder is a member so that—
   - (i) the scheme becomes an automatic enrolment scheme; and
   - (ii) the jobholder becomes an active member of that scheme; and
 - (b) satisfying the requirements contained in regulation 7, as if for all references in regulation 7 to “section 3(2)” there was substituted “ ;section 7(3) ” and for all references to “the automatic enrolment date” there was substituted “ ;the enrolment date ”.
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39b0a3e90d10cfbed6157f10a75eea30]: Textual amendment: Words in reg. 18(4)(a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)
+[^c-39b0a3e90d10cfbed6157f10a75eea30]: Textual amendment: Words in reg. 18(4)(a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41A. Conditional grant of planning permission: noise-sensitive developments[^key-c0b63d829aece1fe93d8fc90704a79da]
+## 41A. Conditional grant of planning permission: noise-sensitive developments[^c-c0b63d829aece1fe93d8fc90704a79da]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0b63d829aece1fe93d8fc90704a79da]: Textual amendment: [S. 41A](https://www.legislation.gov.uk/ukpga/1997/8/section/41A) inserted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 25(2)](https://www.legislation.gov.uk/asp/2019/13/section/25/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/377/regulation/4))
+[^c-c0b63d829aece1fe93d8fc90704a79da]: Textual amendment: [S. 41A](https://www.legislation.gov.uk/ukpga/1997/8/section/41A) inserted (20.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 25(2)](https://www.legislation.gov.uk/asp/2019/13/section/25/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/377](https://www.legislation.gov.uk/ssi/2019/377), [reg. 2](https://www.legislation.gov.uk/ssi/2019/377/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2019/377/regulation/4))

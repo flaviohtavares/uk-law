@@ -25,7 +25,7 @@ summary: ''
 (2) The Secretary of State is the appropriate authority, except that—
 
 - (a) in relation to provision that would be within the legislative competence of the Scottish Parliament if it were included in an Act of that Parliament, the Scottish Ministers are the appropriate authority,
-- (b) in relation to provision that would be within the legislative competence of the National Assembly for Wales if it were included in an Act of the Assembly[^key-a2eedda3e0871570703c4816c9f2794d], the Welsh Ministers are the appropriate authority,
+- (b) in relation to provision that would be within the legislative competence of the National Assembly for Wales if it were included in an Act of the Assembly[^c-a2eedda3e0871570703c4816c9f2794d], the Welsh Ministers are the appropriate authority,
 - (c) in relation to provision that does not fall within paragraph (b) and relates to relevant services in Wales with respect to which functions are exercisable—
   - (i) by a Minister of the Crown, and
   - (ii) by the Welsh Ministers, the First Minister or the Counsel General,
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a2eedda3e0871570703c4816c9f2794d]: Textual amendment: Words in s. 45(2)(b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 82](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/82) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-a2eedda3e0871570703c4816c9f2794d]: Textual amendment: Words in s. 45(2)(b) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 82](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/82) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

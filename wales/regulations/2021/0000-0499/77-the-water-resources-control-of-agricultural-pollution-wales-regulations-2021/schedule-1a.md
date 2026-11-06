@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1A — Enhanced nutrient management requirements[^key-0273888976dc335b1773a022d557efcb]
+## SCHEDULE 1A — Enhanced nutrient management requirements[^c-0273888976dc335b1773a022d557efcb]
 
 *Extent: E+W*
 
@@ -328,7 +328,7 @@ The occupier must ensure that during the relevant period no person spreads organ
 
 ## Annotations
 
-[^key-0273888976dc335b1773a022d557efcb]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/wsi/2021/77/schedule/1A) inserted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2023/1393/schedule)
+[^c-0273888976dc335b1773a022d557efcb]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/wsi/2021/77/schedule/1A) inserted (31.12.2023) by [The Water Resources (Control of Agricultural Pollution) (Wales) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1393)](https://www.legislation.gov.uk/wsi/2023/1393), [reg. 1](https://www.legislation.gov.uk/wsi/2023/1393/regulation/1), [Sch.](https://www.legislation.gov.uk/wsi/2023/1393/schedule)
 
 [^f01000]: Footnote: (a)
 

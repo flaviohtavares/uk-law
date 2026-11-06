@@ -44,11 +44,11 @@ The Department of Health, Social Services and Public Safety[^f00001], makes the 
 
 The Department of Health, Social Services and Public Safety is a Department designated for the purposes of section 2(2) of the European Communities Act 1972 in relation to cross-border healthcare[^f00003].
 
-## 1. Citation and commencement[^key-310a352950bf243f4581bf0ceadec427]
+## 1. Citation and commencement[^c-310a352950bf243f4581bf0ceadec427]
 
 These Regulations may be cited as the Health Care (Reimbursement of the Cost of EEA Services etc.) Regulations (Northern Ireland) 2012 and shall come into operation on 10th May 2012.
 
-## 2. Interpretation[^key-564d1ed2eb7523331028cbf3f0139fde]
+## 2. Interpretation[^c-564d1ed2eb7523331028cbf3f0139fde]
 
 (1) In these Regulations—
 
@@ -57,7 +57,7 @@ These Regulations may be cited as the Health Care (Reimbursement of the Cost of 
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Provision of health care outside Northern Ireland[^key-8bbb3b214a100daf697ce08b93cabab7]
+## 3. Provision of health care outside Northern Ireland[^c-8bbb3b214a100daf697ce08b93cabab7]
 
 (1) After section 3 of the 2009 Act, insert—
 
@@ -67,11 +67,11 @@ These Regulations may be cited as the Health Care (Reimbursement of the Cost of 
 
 (2) In section 8(6) of that Act (functions of the Regional Board), after “3” insert “or its power under section 3A”.
 
-## 4. Reimbursement of the cost of health care services secured in another EEA state[^key-94db069a66441c644ea2143f8e105679][^key-731bde6562a0e8c1297922c7bd0bf872]
+## 4. Reimbursement of the cost of health care services secured in another EEA state[^c-94db069a66441c644ea2143f8e105679][^c-731bde6562a0e8c1297922c7bd0bf872]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Travelling expenses of patients, etc.[^key-df11b642714ed86e1772b63c3fe1a46e]
+## 5. Travelling expenses of patients, etc.[^c-df11b642714ed86e1772b63c3fe1a46e]
 
 In Article 45(1) of the Order of 1972 (travelling expenses of patients, etc.), for sub-paragraph (a) substitute—
 
@@ -120,9 +120,9 @@ Regulation 5 amends the regulation making power in Article 45(1)(a) of the Order
 
 [^f00003]: Footnote: [S.I. 2009/2743](https://www.legislation.gov.uk/uksi/2009/2743)
 
-[^key-310a352950bf243f4581bf0ceadec427]: Commencement: Reg. 1 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
+[^c-310a352950bf243f4581bf0ceadec427]: Commencement: Reg. 1 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
 
-[^key-564d1ed2eb7523331028cbf3f0139fde]: Commencement: Reg. 2 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
+[^c-564d1ed2eb7523331028cbf3f0139fde]: Commencement: Reg. 2 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 
@@ -130,10 +130,10 @@ Regulation 5 amends the regulation making power in Article 45(1)(a) of the Order
 
 [^f00006]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-8bbb3b214a100daf697ce08b93cabab7]: Commencement: Reg. 3 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
+[^c-8bbb3b214a100daf697ce08b93cabab7]: Commencement: Reg. 3 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
 
-[^key-94db069a66441c644ea2143f8e105679]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/167/regulation/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/784/regulation/5) (with [regs. 11](https://www.legislation.gov.uk/uksi/2019/784/regulation/11), [12](https://www.legislation.gov.uk/uksi/2019/784/regulation/12)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 14](https://www.legislation.gov.uk/uksi/2020/1348/regulation/14), [16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-94db069a66441c644ea2143f8e105679]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2012/167/regulation/4) omitted (31.12.2020) by virtue of [The Health Services (Cross-Border Health Care and Miscellaneous Amendments) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/784)](https://www.legislation.gov.uk/uksi/2019/784), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/784/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2019/784/regulation/5) (with [regs. 11](https://www.legislation.gov.uk/uksi/2019/784/regulation/11), [12](https://www.legislation.gov.uk/uksi/2019/784/regulation/12)) (as amended by [S.I. 2020/1348](https://www.legislation.gov.uk/uksi/2020/1348), [regs. 14](https://www.legislation.gov.uk/uksi/2020/1348/regulation/14), [16](https://www.legislation.gov.uk/uksi/2020/1348/regulation/16)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-731bde6562a0e8c1297922c7bd0bf872]: Commencement: Reg. 4 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
+[^c-731bde6562a0e8c1297922c7bd0bf872]: Commencement: Reg. 4 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
 
-[^key-df11b642714ed86e1772b63c3fe1a46e]: Commencement: Reg. 5 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)
+[^c-df11b642714ed86e1772b63c3fe1a46e]: Commencement: Reg. 5 in operation at 10.5.2012, see [reg. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1)

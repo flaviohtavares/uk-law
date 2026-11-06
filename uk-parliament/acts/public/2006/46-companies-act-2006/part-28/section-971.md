@@ -22,17 +22,17 @@ summary: ''
 
 (1) In this Chapter—
 
-- [^key-72841ae0b16ecd75486f10741222c859]...
-- “offeror”, in relation to a takeover bid, means the person making the bid;[^key-dfa1ca6e367ec83296a9d5a049236d1d]
+- [^c-72841ae0b16ecd75486f10741222c859]...
+- “offeror”, in relation to a takeover bid, means the person making the bid;[^c-dfa1ca6e367ec83296a9d5a049236d1d]
 - “**offer period**”, in relation to a takeover bid, means the time allowed for acceptance of the bid by—
-  - (a) rules under section 943(1) made in accordance with paragraph 13 of Schedule 1C;[^key-b4b898054c65d161c4ada258413f0abe]
+  - (a) rules under section 943(1) made in accordance with paragraph 13 of Schedule 1C;[^c-b4b898054c65d161c4ada258413f0abe]
 - “**opted-in company**” means a company in relation to which—
   - (a) an opting-in resolution has effect, and
   - (b) the conditions in section 966(2) and (4) continue to be met;
 - “**opting-in resolution**” has the meaning given by section 966(1);
 - “**opting-out resolution**” has the meaning given by section 966(5);
-- “takeover bid” has the meaning given by paragraph 20(1) of Schedule 1C;[^key-024a016f285fca906922d1191a4d4276]
-- [^key-b6de961f57f25d50f3de0dd05b22b185]...
+- “takeover bid” has the meaning given by paragraph 20(1) of Schedule 1C;[^c-024a016f285fca906922d1191a4d4276]
+- [^c-b6de961f57f25d50f3de0dd05b22b185]...
 - “**voting rights**” means rights to vote at general meetings of the company in question, including rights that arise only in certain circumstances;
 - “**voting shares**” means shares carrying voting rights.
 
@@ -45,12 +45,12 @@ summary: ''
 
 [^c20618461]: Modification: Ss. 966-973 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 14(1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/1) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-72841ae0b16ecd75486f10741222c859]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72841ae0b16ecd75486f10741222c859]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dfa1ca6e367ec83296a9d5a049236d1d]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dfa1ca6e367ec83296a9d5a049236d1d]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b4b898054c65d161c4ada258413f0abe]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4b898054c65d161c4ada258413f0abe]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-024a016f285fca906922d1191a4d4276]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-024a016f285fca906922d1191a4d4276]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b6de961f57f25d50f3de0dd05b22b185]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6de961f57f25d50f3de0dd05b22b185]: Textual amendment: Words in [s. 971(1)](https://www.legislation.gov.uk/ukpga/2006/46/section/971/1) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2019/217/regulation/11/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -46,7 +46,7 @@ In accordance with section 303(8)(a) of that Act, a draft of this instrument has
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement, extent, application and interpretation[^key-bd78c748750def9b8c4b1e9f31ef4683]
+### 1. Citation, commencement, extent, application and interpretation[^c-bd78c748750def9b8c4b1e9f31ef4683]
 
 (1) These Regulations may be cited as the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) (Amendment) Regulations 2023.
 
@@ -61,23 +61,23 @@ In accordance with section 303(8)(a) of that Act, a draft of this instrument has
 
 ## PART 2 — Amendment of the 2012 Fees Regulations
 
-### 2. Amendment of the 2012 Fees Regulations[^key-fd80d42a3f25071319d21c0dd28766a9]
+### 2. Amendment of the 2012 Fees Regulations[^c-fd80d42a3f25071319d21c0dd28766a9]
 
 The 2012 Fees Regulations are amended in accordance with regulations 3 to 17.
 
-### 3. Amendment of regulation 3 (fees for planning applications)[^key-8e17c7453e35562435c9c0f18a95f534]
+### 3. Amendment of regulation 3 (fees for planning applications)[^c-8e17c7453e35562435c9c0f18a95f534]
 
 In regulation 3(1), for “regulations 4 to 9” substitute “regulations 4 to 7”.
 
-### 4. Revocation of regulation 8 (exemptions – second application relating to development on same site etc.)[^key-dd98c8ef4b208ed0a85a11781d33f49e]
+### 4. Revocation of regulation 8 (exemptions – second application relating to development on same site etc.)[^c-dd98c8ef4b208ed0a85a11781d33f49e]
 
 Omit regulation 8.
 
-### 5. Revocation of regulation 9 (exemptions – application following withdrawal of earlier application or refusal of permission etc.)[^key-ce0a2ee204ba085bea69dc5db851babb]
+### 5. Revocation of regulation 9 (exemptions – application following withdrawal of earlier application or refusal of permission etc.)[^c-ce0a2ee204ba085bea69dc5db851babb]
 
 Omit regulation 9.
 
-### 6. Amendment of regulation 9A (refund of fees in relation to planning applications not determined within 26 weeks)[^key-56b1326dff6fbf04028cb16d1e2c2852]
+### 6. Amendment of regulation 9A (refund of fees in relation to planning applications not determined within 26 weeks)[^c-56b1326dff6fbf04028cb16d1e2c2852]
 
 (1) Regulation 9A is amended as follows.
 
@@ -94,7 +94,7 @@ Omit regulation 9.
 
 .
 
-### 7. Amendment of regulation 11 (fees for applications for certificates of lawful use or development)[^key-52ecb015c36b853c82250196d326d0b6]
+### 7. Amendment of regulation 11 (fees for applications for certificates of lawful use or development)[^c-52ecb015c36b853c82250196d326d0b6]
 
 (1) Regulation 11 is amended as follows.
 
@@ -118,7 +118,7 @@ Omit regulation 9.
 
   .
 
-### 8. Amendment of regulation 11A (fees payable in respect of applications under section 62A of the 1990 Act)[^key-6623f0fea4d06aaaf435851d8015d5a3]
+### 8. Amendment of regulation 11A (fees payable in respect of applications under section 62A of the 1990 Act)[^c-6623f0fea4d06aaaf435851d8015d5a3]
 
 (1) Regulation 11A is amended as follows.
 
@@ -126,7 +126,7 @@ Omit regulation 9.
 
 (3) Omit paragraphs (4) to (8).
 
-### 9. Amendment of regulation 13 (fees for applications for consent for advertisements)[^key-d33addbd18f6b0b434a8f14abbeed5d1]
+### 9. Amendment of regulation 13 (fees for applications for consent for advertisements)[^c-d33addbd18f6b0b434a8f14abbeed5d1]
 
 (1) Regulation 13 is amended as follows.
 
@@ -140,7 +140,7 @@ Omit regulation 9.
 
 (4) Omit paragraphs (9) and (10).
 
-### 10. Amendment of regulation 14 (fees for certain applications under the General Permitted Development Order)[^key-8d6e41ab0c727345b9a12f0d3bd26bea]
+### 10. Amendment of regulation 14 (fees for certain applications under the General Permitted Development Order)[^c-8d6e41ab0c727345b9a12f0d3bd26bea]
 
 (1) Regulation 14 is amended as follows.
 
@@ -172,7 +172,7 @@ Omit regulation 9.
 
 (4) Omit paragraphs (1C) to (1E).
 
-### 11. Amendment of regulation 15 (fees in respect of the monitoring of mining and landfill sites)[^key-4db1bf6e2f2a1ae74e35cfbb7070cd9b]
+### 11. Amendment of regulation 15 (fees in respect of the monitoring of mining and landfill sites)[^c-4db1bf6e2f2a1ae74e35cfbb7070cd9b]
 
 (1) Regulation 15 is amended as follows.
 
@@ -182,7 +182,7 @@ Omit regulation 9.
 
 (4) In paragraph (5), for “£132” substitute “£165”.
 
-### 12. Amendment of regulation 16 (fees for confirmation of compliance with condition attached to planning permission)[^key-0d41157af62e72bce957d3a005194a74]
+### 12. Amendment of regulation 16 (fees for confirmation of compliance with condition attached to planning permission)[^c-0d41157af62e72bce957d3a005194a74]
 
 (1) Regulation 16 is amended as follows.
 
@@ -197,7 +197,7 @@ Omit regulation 9.
 
 .
 
-### 13. Amendment of regulation 17 (fees for applications for non-material changes to planning permission or permission in principle)[^key-7083570ef0750dfca725890bb4038db2]
+### 13. Amendment of regulation 17 (fees for applications for non-material changes to planning permission or permission in principle)[^c-7083570ef0750dfca725890bb4038db2]
 
 (1) Regulation 17 is amended as follows.
 
@@ -212,7 +212,7 @@ Omit regulation 9.
 
 .
 
-### 14. Amendment of regulation 18 (fees for applications for certificates of appropriate alternative development)[^key-02dfe47b5371323ba8e71018a53c12db]
+### 14. Amendment of regulation 18 (fees for applications for certificates of appropriate alternative development)[^c-02dfe47b5371323ba8e71018a53c12db]
 
 (1) Regulation 18 is amended as follows.
 
@@ -224,7 +224,7 @@ Omit regulation 9.
 
 .
 
-### 15. New regulation 18A (annual increase of fees)[^key-9a1127a75744abd2ab9bea8b11ead65d]
+### 15. New regulation 18A (annual increase of fees)[^c-9a1127a75744abd2ab9bea8b11ead65d]
 
 After regulation 18 insert—
 
@@ -257,7 +257,7 @@ After regulation 18 insert—
 
 .
 
-### 16. Amendment of Schedule 1 (fees in respect of applications and deemed applications for planning permission or for approval of reserved matters)[^key-ce966435a1a0ee61870ba8a539c84b4a]
+### 16. Amendment of Schedule 1 (fees in respect of applications and deemed applications for planning permission or for approval of reserved matters)[^c-ce966435a1a0ee61870ba8a539c84b4a]
 
 (1) Schedule 1 is amended as follows.
 
@@ -282,7 +282,7 @@ After regulation 18 insert—
 
 (3) In Part 2 (scale of fees) for the table substitute the table in the Schedule to these Regulations.
 
-### 17. Amendment of Schedule 2 (fees for advertisements)[^key-2f58b2c8626a8aead55a29e9f313c09c]
+### 17. Amendment of Schedule 2 (fees for advertisements)[^c-2f58b2c8626a8aead55a29e9f313c09c]
 
 In the table in Schedule 2—
 
@@ -291,7 +291,7 @@ In the table in Schedule 2—
 
 ## PART 3 — Savings
 
-### 18. Removal of second application exemptions: savings in respect of applications made before the commencement date[^key-d98a4faf3ebdccb4ff68febcb37418a5]
+### 18. Removal of second application exemptions: savings in respect of applications made before the commencement date[^c-d98a4faf3ebdccb4ff68febcb37418a5]
 
 (1) The 2012 Fees Regulations as they had effect immediately before the commencement date continue to apply on and after that date in relation to any existing second application.
 
@@ -302,7 +302,7 @@ In the table in Schedule 2—
 
 (3) For the purposes of paragraph (2) “**exemption conditions**” means the conditions set out in regulation 8(2), 9(2), 11(5), 11A(5), 13(10) or, as the case may be, 14(1D) of the 2012 Fees Regulations as they had effect immediately before the commencement date.
 
-### 19. Removal of second application exemptions: savings for cases where the application period had not ended before the commencement date[^key-184bd7f3871a46afbd5b12e0842e71d9]
+### 19. Removal of second application exemptions: savings for cases where the application period had not ended before the commencement date[^c-184bd7f3871a46afbd5b12e0842e71d9]
 
 (1) This regulation applies where a new second application is made on or after the commencement date.
 
@@ -315,11 +315,11 @@ In the table in Schedule 2—
 
 (4) For the purposes of paragraph (3), “**the application period**” means the period mentioned in regulation 8(2)(a), 9(2)(a), 11(5)(a), 11A(5)(a), 13(10)(a) or, as the case may be, 14(1D)(a) of the 2012 Fees Regulations as they had effect immediately before the commencement date.
 
-### 20. Refund of fees: savings[^key-23f9683b6a7013e539d212bffa6503f2]
+### 20. Refund of fees: savings[^c-23f9683b6a7013e539d212bffa6503f2]
 
 Regulation 9A of the 2012 Fees Regulations as it had effect immediately before the commencement date continues to apply on and after that date in respect of any application made before that date.
 
-### 21. Amounts of fees: savings[^key-0af19ae9b001b2762f93b5dba95f3644]
+### 21. Amounts of fees: savings[^c-0af19ae9b001b2762f93b5dba95f3644]
 
 The amendments made to the 2012 Fees Regulations by regulations 7(3), 10(2), 11, 12, 13, 14, 16 and 17 of these Regulations do not apply to—
 
@@ -337,11 +337,11 @@ Department for Levelling Up, Housing and Communities
 
 8th November 2023
 
-## SCHEDULE — New table of scale of fees[^key-14c26d70e314d438f04ccd6671293219]
+## SCHEDULE — New table of scale of fees[^c-14c26d70e314d438f04ccd6671293219]
 
 Regulation 16(3)
 
-[^key-14c26d70e314d438f04ccd6671293219]
+[^c-14c26d70e314d438f04ccd6671293219]
 
 The following table is the table to be substituted for the table (other than the heading) in Part 2 of Schedule 1 to the 2012 Fees Regulations—
 
@@ -386,50 +386,50 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 303 was substituted by section 199 of the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29). Section 303(1ZA) was inserted by paragraph 19(2) of Schedule 4 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). Section 303(1A) was inserted by paragraph 10 of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27). Section 303(4) was amended by paragraph 36 of Schedule 12 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). Section 303(8) was amended by paragraph 4(5)(a)(i) and (ii) of Schedule 7 to the Planning (Wales) Act 2015 (anaw 4). See section 303(7) for the meaning of “the appropriate authority”. Section 333(2A) was inserted by paragraph 14(2) of Schedule 6 to the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-bd78c748750def9b8c4b1e9f31ef4683]: Commencement: Reg. 1 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-bd78c748750def9b8c4b1e9f31ef4683]: Commencement: Reg. 1 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920). Relevant amending instruments are [S.I. 2013/2153](https://www.legislation.gov.uk/uksi/2013/2153), [2017/1314](https://www.legislation.gov.uk/uksi/2017/1314), [2019/1154](https://www.legislation.gov.uk/uksi/2019/1154), [2020/836](https://www.legislation.gov.uk/uksi/2020/836), [2021/791](https://www.legislation.gov.uk/uksi/2021/791)
 
-[^key-fd80d42a3f25071319d21c0dd28766a9]: Commencement: Reg. 2 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-fd80d42a3f25071319d21c0dd28766a9]: Commencement: Reg. 2 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-8e17c7453e35562435c9c0f18a95f534]: Commencement: Reg. 3 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-8e17c7453e35562435c9c0f18a95f534]: Commencement: Reg. 3 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-dd98c8ef4b208ed0a85a11781d33f49e]: Commencement: Reg. 4 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-dd98c8ef4b208ed0a85a11781d33f49e]: Commencement: Reg. 4 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-ce0a2ee204ba085bea69dc5db851babb]: Commencement: Reg. 5 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-ce0a2ee204ba085bea69dc5db851babb]: Commencement: Reg. 5 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-56b1326dff6fbf04028cb16d1e2c2852]: Commencement: Reg. 6 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-56b1326dff6fbf04028cb16d1e2c2852]: Commencement: Reg. 6 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-52ecb015c36b853c82250196d326d0b6]: Commencement: Reg. 7 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-52ecb015c36b853c82250196d326d0b6]: Commencement: Reg. 7 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-6623f0fea4d06aaaf435851d8015d5a3]: Commencement: Reg. 8 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-6623f0fea4d06aaaf435851d8015d5a3]: Commencement: Reg. 8 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-d33addbd18f6b0b434a8f14abbeed5d1]: Commencement: Reg. 9 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-d33addbd18f6b0b434a8f14abbeed5d1]: Commencement: Reg. 9 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-8d6e41ab0c727345b9a12f0d3bd26bea]: Commencement: Reg. 10 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-8d6e41ab0c727345b9a12f0d3bd26bea]: Commencement: Reg. 10 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-4db1bf6e2f2a1ae74e35cfbb7070cd9b]: Commencement: Reg. 11 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-4db1bf6e2f2a1ae74e35cfbb7070cd9b]: Commencement: Reg. 11 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-0d41157af62e72bce957d3a005194a74]: Commencement: Reg. 12 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-0d41157af62e72bce957d3a005194a74]: Commencement: Reg. 12 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-7083570ef0750dfca725890bb4038db2]: Commencement: Reg. 13 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-7083570ef0750dfca725890bb4038db2]: Commencement: Reg. 13 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-02dfe47b5371323ba8e71018a53c12db]: Commencement: Reg. 14 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-02dfe47b5371323ba8e71018a53c12db]: Commencement: Reg. 14 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-9a1127a75744abd2ab9bea8b11ead65d]: Commencement: Reg. 15 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-9a1127a75744abd2ab9bea8b11ead65d]: Commencement: Reg. 15 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
 [^f00003]: Footnote: The Statistics Board is a body corporate established by section 1 of the Statistics and Registration Service Act [2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18).
 
-[^key-ce966435a1a0ee61870ba8a539c84b4a]: Commencement: Reg. 16 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-ce966435a1a0ee61870ba8a539c84b4a]: Commencement: Reg. 16 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-2f58b2c8626a8aead55a29e9f313c09c]: Commencement: Reg. 17 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-2f58b2c8626a8aead55a29e9f313c09c]: Commencement: Reg. 17 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-d98a4faf3ebdccb4ff68febcb37418a5]: Commencement: Reg. 18 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-d98a4faf3ebdccb4ff68febcb37418a5]: Commencement: Reg. 18 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-184bd7f3871a46afbd5b12e0842e71d9]: Commencement: Reg. 19 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-184bd7f3871a46afbd5b12e0842e71d9]: Commencement: Reg. 19 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-23f9683b6a7013e539d212bffa6503f2]: Commencement: Reg. 20 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-23f9683b6a7013e539d212bffa6503f2]: Commencement: Reg. 20 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-0af19ae9b001b2762f93b5dba95f3644]: Commencement: Reg. 21 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-0af19ae9b001b2762f93b5dba95f3644]: Commencement: Reg. 21 in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
 
-[^key-14c26d70e314d438f04ccd6671293219]: Commencement: Sch. in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)
+[^c-14c26d70e314d438f04ccd6671293219]: Commencement: Sch. in force at 6.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1197/regulation/1/2)

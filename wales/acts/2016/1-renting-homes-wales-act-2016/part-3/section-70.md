@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Effect of authorised transfer[^key-66241a43648ced7e2413bb1c26087d43]
+## 70. Effect of authorised transfer[^c-66241a43648ced7e2413bb1c26087d43]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66241a43648ced7e2413bb1c26087d43]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2016/1/section/70) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-66241a43648ced7e2413bb1c26087d43]: Commencement: [S. 70](https://www.legislation.gov.uk/anaw/2016/1/section/70) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

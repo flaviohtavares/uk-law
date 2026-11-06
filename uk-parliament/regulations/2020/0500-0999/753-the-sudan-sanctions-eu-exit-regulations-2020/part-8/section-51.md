@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Liability of officers of bodies corporate etc.[^key-62b22d225e6fa3440b92f9503bcd18fa]
+## 51. Liability of officers of bodies corporate etc.[^c-62b22d225e6fa3440b92f9503bcd18fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ that person as well as the body corporate is guilty of the offence and is liable
 
 ## Annotations
 
-[^key-62b22d225e6fa3440b92f9503bcd18fa]: Commencement: Reg. 51 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-62b22d225e6fa3440b92f9503bcd18fa]: Commencement: Reg. 51 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

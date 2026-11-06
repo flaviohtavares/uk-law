@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 215. Revocation[^key-e52a74b2cc81acdc24e7d064aeda58a6]
+## 215. Revocation[^c-e52a74b2cc81acdc24e7d064aeda58a6]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Teachers’ Pension Scheme (Scotland) Regulations 2014[^f00040] are revoked.
 
 ## Annotations
 
-[^key-e52a74b2cc81acdc24e7d064aeda58a6]: Commencement: [Reg. 215](https://www.legislation.gov.uk/ssi/2014/292/regulation/215) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
+[^c-e52a74b2cc81acdc24e7d064aeda58a6]: Commencement: [Reg. 215](https://www.legislation.gov.uk/ssi/2014/292/regulation/215) in force at 1.1.2015, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/a)
 
 [^f00040]: Footnote: [S.S.I. 2014/217](https://www.legislation.gov.uk/ssi/2014/217).

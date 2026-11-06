@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11A — Requirements of quarterly and weekly donation reports[^key-34e6ad5caf63c31765ffb076d8e67ca3]
+## SCHEDULE 11A — Requirements of quarterly and weekly donation reports[^c-34e6ad5caf63c31765ffb076d8e67ca3]
 
 *Extent: E+W+S+N.I.*
 
@@ -134,4 +134,4 @@ Sections 95A and 95B
 
 ## Annotations
 
-[^key-34e6ad5caf63c31765ffb076d8e67ca3]: Textual amendment: [Sch. 11A](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11A) inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [s. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b), [Sch. 4](https://www.legislation.gov.uk/ukpga/2014/4/schedule/4) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-34e6ad5caf63c31765ffb076d8e67ca3]: Textual amendment: [Sch. 11A](https://www.legislation.gov.uk/ukpga/2000/41/schedule/11A) inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [s. 45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b), [Sch. 4](https://www.legislation.gov.uk/ukpga/2014/4/schedule/4) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))

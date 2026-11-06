@@ -40,7 +40,7 @@ Coming into operation
 
 Whereas it appears to the Department of Health and Social Services acting as the Department concerned that the carrying out of commercial operations with respect to animals and animal products originating from Belgium may involve imminent risk of injury to health, now therefore the Department concerned, in exercise of the powers conferred on it by Articles 12(1), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Title, commencement and interpretation[^key-0d240ec97d790e9062261d5590b8f1ce]
+## 1. Title, commencement and interpretation[^c-0d240ec97d790e9062261d5590b8f1ce]
 
 (1) This Order may be cited as the Food (Animals and Animal Products from Belgium) (Emergency Control) Order (Northern Ireland) 1999 and shall come into operation on 5th June 1999.
 
@@ -58,19 +58,19 @@ Whereas it appears to the Department of Health and Social Services acting as the
 
   and also includes pork, beef and dairy products of Belgium origin which is derived from an animal reared in Belgium as it includes poultrymeat derived from domestic fowl reared there.
 
-## 2. Prohibitions[^key-3d308a75d60379cedf478ab0481e1176]
+## 2. Prohibitions[^c-3d308a75d60379cedf478ab0481e1176]
 
 (1) Subject to paragraph (2) below, no person shall carry out commercial operations with respect to any relevant animal or animal product.
 
 (2) Paragraph (1) above shall not be taken to prohibit the bringing into Northern Ireland from a member State of any relevant animal or animal product in free circulation in that member State.
 
-## 3. Enforcement[^key-4adb9816ec232a3b3c819347037ba8a7]
+## 3. Enforcement[^c-4adb9816ec232a3b3c819347037ba8a7]
 
 (1) It shall be the duty of each district council to enforce and execute this Order within its district.
 
 (2) Each district council shall give such assistance and information to the Department as it may request for the purpose of its duties under Article 12 of the 1991 Order.
 
-## 4. Application and modification of various provisions of the 1991 Order[^key-209da48c2dbf36c284b6ff7cab26182a]
+## 4. Application and modification of various provisions of the 1991 Order[^c-209da48c2dbf36c284b6ff7cab26182a]
 
 (1) Article 8 of the 1991 Order (inspection and seizure of suspected food) shall apply for the purposes of this Order, subject to the following modifications—
 
@@ -112,14 +112,14 @@ Contravention of the Order is an offence under Article 12(2) of the 1991 Order.
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by S.I. [1996/1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633). See Article 2(2) for the definitions of “the Department concerned”
 
-[^key-0d240ec97d790e9062261d5590b8f1ce]: Commencement: Art. 1 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
+[^c-0d240ec97d790e9062261d5590b8f1ce]: Commencement: Art. 1 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
 
 [^f00002]: Footnote: O.J. No. L141, 4.6.99
 
 [^f00003]: Footnote: O.J. No. L268, 14.9.92, p. 1, to which there are amendment not relevant to this Order
 
-[^key-3d308a75d60379cedf478ab0481e1176]: Commencement: Art. 2 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
+[^c-3d308a75d60379cedf478ab0481e1176]: Commencement: Art. 2 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
 
-[^key-4adb9816ec232a3b3c819347037ba8a7]: Commencement: Art. 3 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
+[^c-4adb9816ec232a3b3c819347037ba8a7]: Commencement: Art. 3 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
 
-[^key-209da48c2dbf36c284b6ff7cab26182a]: Commencement: Art. 4 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)
+[^c-209da48c2dbf36c284b6ff7cab26182a]: Commencement: Art. 4 in operation at 5.6.1999, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1999/255/article/1/1)

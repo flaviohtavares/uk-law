@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Cryptoassets[^key-e2f82bd0719e3a734534e0caf5b17988][^key-85f18c00f548198c5723978029ed6789]
+## 69. Cryptoassets[^c-e2f82bd0719e3a734534e0caf5b17988][^c-85f18c00f548198c5723978029ed6789]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f82bd0719e3a734534e0caf5b17988]: Commencement: S. 69 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-e2f82bd0719e3a734534e0caf5b17988]: Commencement: S. 69 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-85f18c00f548198c5723978029ed6789]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/29/section/69) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(uu)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/uu)
+[^c-85f18c00f548198c5723978029ed6789]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/29/section/69) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(uu)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/uu)

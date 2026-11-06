@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Special defence available to mine under-managers with limited jurisdiction.[^key-b70ac3a683030ab5e45db5dcdf423360]
+## 136. Special defence available to mine under-managers with limited jurisdiction.[^c-b70ac3a683030ab5e45db5dcdf423360]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b70ac3a683030ab5e45db5dcdf423360]: Textual amendment: [S. 136](https://www.legislation.gov.uk/apni/1969/6/section/136) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-b70ac3a683030ab5e45db5dcdf423360]: Textual amendment: [S. 136](https://www.legislation.gov.uk/apni/1969/6/section/136) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

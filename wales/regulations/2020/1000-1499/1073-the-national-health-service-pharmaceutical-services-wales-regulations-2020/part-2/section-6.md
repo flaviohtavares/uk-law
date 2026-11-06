@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Subsequent assessments[^key-abf789d98deb6d8e1a8fc7e1e1285759]
+## 6. Subsequent assessments[^c-abf789d98deb6d8e1a8fc7e1e1285759]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abf789d98deb6d8e1a8fc7e1e1285759]: Commencement: Reg. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-abf789d98deb6d8e1a8fc7e1e1285759]: Commencement: Reg. 6 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

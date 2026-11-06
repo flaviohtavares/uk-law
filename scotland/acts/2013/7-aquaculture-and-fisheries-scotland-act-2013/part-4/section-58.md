@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Power to appoint inspectors before making orders as to fisheries for shellfish[^key-709af97ed051ce678a1eb0656c60e410]
+## 58. Power to appoint inspectors before making orders as to fisheries for shellfish[^c-709af97ed051ce678a1eb0656c60e410]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-709af97ed051ce678a1eb0656c60e410]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2013/7/section/58) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-709af97ed051ce678a1eb0656c60e410]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2013/7/section/58) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

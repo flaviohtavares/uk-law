@@ -22,11 +22,11 @@ summary: ''
 
 Section 7
 
-### 1. Introduction[^key-561625dc406b5e901273efd01aa9bb3e][^key-194492ac552187784ed7c23111606987]
+### 1. Introduction[^c-561625dc406b5e901273efd01aa9bb3e][^c-194492ac552187784ed7c23111606987]
 
 This Schedule contains modifications of the provisions of the Police and Criminal Evidence Act 1984 mentioned in section 7(2) for the purposes of their application to authorised investigators in accordance with section 7(1).
 
-### 2. General modifications[^key-fe51eb097add462b3556d428bfdfd42e][^key-ab08793278605c27b938d1cf001c86ee]
+### 2. General modifications[^c-fe51eb097add462b3556d428bfdfd42e][^c-ab08793278605c27b938d1cf001c86ee]
 
 (1) Each reference to a constable (however expressed) is to be read as including a reference to an authorised investigator.
 
@@ -34,7 +34,7 @@ This Schedule contains modifications of the provisions of the Police and Crimina
 
 (3) Each reference to a criminal investigation is to be read as a reference to a criminal investigation in connection with an offence of fraud against a public authority.
 
-### 3. Specific modifications[^key-524ddd43426f1e72f2c4e361bb7819dd][^key-ca8ddd43702482dfb9224a65d1af7eef]
+### 3. Specific modifications[^c-524ddd43426f1e72f2c4e361bb7819dd][^c-ca8ddd43702482dfb9224a65d1af7eef]
 
 (1) Section 15 (search warrants: safeguards) is to be read as if—
 
@@ -104,14 +104,14 @@ This Schedule contains modifications of the provisions of the Police and Crimina
 
 ## Annotations
 
-[^key-561625dc406b5e901273efd01aa9bb3e]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-561625dc406b5e901273efd01aa9bb3e]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-194492ac552187784ed7c23111606987]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1/paragraph/1) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/h)
+[^c-194492ac552187784ed7c23111606987]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1/paragraph/1) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/h)
 
-[^key-fe51eb097add462b3556d428bfdfd42e]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-fe51eb097add462b3556d428bfdfd42e]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ab08793278605c27b938d1cf001c86ee]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1/paragraph/2) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/h)
+[^c-ab08793278605c27b938d1cf001c86ee]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1/paragraph/2) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/h)
 
-[^key-524ddd43426f1e72f2c4e361bb7819dd]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-524ddd43426f1e72f2c4e361bb7819dd]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ca8ddd43702482dfb9224a65d1af7eef]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1/paragraph/3) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/h)
+[^c-ca8ddd43702482dfb9224a65d1af7eef]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2025/28/schedule/1/paragraph/3) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/h)

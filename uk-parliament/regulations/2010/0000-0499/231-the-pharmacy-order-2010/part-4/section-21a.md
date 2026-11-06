@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21A. European qualifications: pharmacists[^key-f7c1c5d6f3cf9c525be46f7e37c3d235]
+## 21A. European qualifications: pharmacists[^c-f7c1c5d6f3cf9c525be46f7e37c3d235]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7c1c5d6f3cf9c525be46f7e37c3d235]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2010/231/article/21A) inserted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/12) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7c1c5d6f3cf9c525be46f7e37c3d235]: Textual amendment: [Art. 21A](https://www.legislation.gov.uk/uksi/2010/231/article/21A) inserted (31.12.2020) by [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/12) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

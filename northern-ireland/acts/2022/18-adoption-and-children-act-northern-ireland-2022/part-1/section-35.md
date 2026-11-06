@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Authority foster parents[^key-d558d0a1d86539c96193523440404f3a]
+## 35. Authority foster parents[^c-d558d0a1d86539c96193523440404f3a]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ the following persons may remove the child.
 
 ## Annotations
 
-[^key-d558d0a1d86539c96193523440404f3a]: Commencement: S. 35 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d558d0a1d86539c96193523440404f3a]: Commencement: S. 35 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

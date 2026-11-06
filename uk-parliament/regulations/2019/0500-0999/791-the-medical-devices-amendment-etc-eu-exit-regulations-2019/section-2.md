@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-3ecdeaf16fcf3cd671036eef0c93ca4e]
+## 2. Interpretation[^c-3ecdeaf16fcf3cd671036eef0c93ca4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-3ecdeaf16fcf3cd671036eef0c93ca4e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-3ecdeaf16fcf3cd671036eef0c93ca4e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23697091]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618); these Regulations were made partly under section 2(2) of the European Communities Act [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68) and were saved by virtue of s. 2(1) of the Act.

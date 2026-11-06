@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.12. Court’s power to vary requirements under this Part[^key-93fde8aa92cd92c55c615de5da518a03]
+## 31.12. Court’s power to vary requirements under this Part[^c-93fde8aa92cd92c55c615de5da518a03]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Unless other legislation otherwise provides, the court may—
 
 ## Annotations
 
-[^key-93fde8aa92cd92c55c615de5da518a03]: Commencement: [Rule 31.12](https://www.legislation.gov.uk/uksi/2025/909/rule/31.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-93fde8aa92cd92c55c615de5da518a03]: Commencement: [Rule 31.12](https://www.legislation.gov.uk/uksi/2025/909/rule/31.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

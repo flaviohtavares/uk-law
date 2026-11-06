@@ -186,7 +186,7 @@ In section 6(1) of the 2001 Act (removal etc from register) after paragraph (d)i
 
 (1) The 2001 Act is amended as follows.
 
-(2)[^key-41eb62d9914618a27644a0e3fbd278ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-41eb62d9914618a27644a0e3fbd278ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sections 4(1), 5A(3), (6)(b) and (7) and 11(A1) omit “maintained by the Council”.
 
@@ -226,4 +226,4 @@ This Act may be cited as the Health and Personal Social Services(Amendment) Act 
 
 ## Annotations
 
-[^key-41eb62d9914618a27644a0e3fbd278ab]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/nia/2016/23/section/6/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 255](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/255); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-41eb62d9914618a27644a0e3fbd278ab]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/nia/2016/23/section/6/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 255](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/255); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Regulations may enable the head teacher of a maintained school [^key-bf4ac1e36fb76e39f1b225599772e13a]..., in such cases or circumstances and subject to such conditions as may be prescribed, to direct in respect of a registered pupil at the school that, for such period as may be specified in the direction (the “**operative period**” of the direction), the National Curriculum for England—
+(1) Regulations may enable the head teacher of a maintained school [^c-bf4ac1e36fb76e39f1b225599772e13a]..., in such cases or circumstances and subject to such conditions as may be prescribed, to direct in respect of a registered pupil at the school that, for such period as may be specified in the direction (the “**operative period**” of the direction), the National Curriculum for England—
 
 - (a) shall not apply, or
 - (b) shall apply with such modifications as may be specified in the direction.
@@ -37,7 +37,7 @@ summary: ''
 - (a) immediately after the end of the operative period of a previous direction, or
 - (b) within such period after the end of the operative period of a previous direction as may be specified in the regulations.
 
-(5) The regulations may enable the head teacher of a maintained school [^key-89d4e61183ee48abe7b4e4a3dae49f7d]..., in such cases or circumstances and subject to such conditions as may be prescribed—
+(5) The regulations may enable the head teacher of a maintained school [^c-89d4e61183ee48abe7b4e4a3dae49f7d]..., in such cases or circumstances and subject to such conditions as may be prescribed—
 
 - (a) to revoke any direction given by him under the regulations, and
 - (b) to vary such a direction, except so as to extend its operative period.
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4ac1e36fb76e39f1b225599772e13a]: Textual amendment: Words in s. 93(1) repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/13), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-bf4ac1e36fb76e39f1b225599772e13a]: Textual amendment: Words in s. 93(1) repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/13), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
 
-[^key-89d4e61183ee48abe7b4e4a3dae49f7d]: Textual amendment: Words in s. 93(5) repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/13), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))
+[^c-89d4e61183ee48abe7b4e4a3dae49f7d]: Textual amendment: Words in s. 93(5) repealed (1.9.2008) by [Childcare Act 2006 (c. 21)](https://www.legislation.gov.uk/ukpga/2006/21), [s. 109(2)](https://www.legislation.gov.uk/ukpga/2006/21/section/109/2), [Sch. 1 para. 13](https://www.legislation.gov.uk/ukpga/2006/21/schedule/1/paragraph/13), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/21/schedule/3/part/1); [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1))

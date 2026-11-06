@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Shippers etc of gas[^key-d229d4b7f47f1fa34f28864b494b026d]
+## 14. Shippers etc of gas[^c-d229d4b7f47f1fa34f28864b494b026d]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d229d4b7f47f1fa34f28864b494b026d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/20/section/14) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(d)](https://www.legislation.gov.uk/uksi/2015/994/article/6/d)
+[^c-d229d4b7f47f1fa34f28864b494b026d]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2015/20/section/14) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(d)](https://www.legislation.gov.uk/uksi/2015/994/article/6/d)

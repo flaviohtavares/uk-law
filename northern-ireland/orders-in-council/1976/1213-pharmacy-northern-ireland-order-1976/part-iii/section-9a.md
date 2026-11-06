@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9A. Temporary extension of prescribing powers in certain emergencies[^key-a3da3282bae95cbae604558facfb2286]
+## 9A. Temporary extension of prescribing powers in certain emergencies[^c-a3da3282bae95cbae604558facfb2286]
 
 *Extent: N.I.*
 
@@ -80,4 +80,4 @@ but this is subject to paragraph (10).
 
 ## Annotations
 
-[^key-a3da3282bae95cbae604558facfb2286]: Textual amendment: Art. 9A inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2020/7/schedule/4/paragraph/6) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
+[^c-a3da3282bae95cbae604558facfb2286]: Textual amendment: Art. 9A inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2020/7/schedule/4/paragraph/6) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88))
